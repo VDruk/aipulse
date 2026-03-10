@@ -1,0 +1,423 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>AI Pulse - AI News Aggregator</title>
+<style>
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+    background: #ffffff;
+    color: #1a1a1a;
+    line-height: 1.5;
+  }
+
+  .header {
+    position: sticky;
+    top: 0;
+    background: #ffffff;
+    border-bottom: 1px solid #e8e8e8;
+    z-index: 100;
+    padding: 16px 0;
+  }
+
+  .header-inner {
+    max-width: 620px;
+    margin: 0 auto;
+    padding: 0 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+
+  .logo {
+    font-size: 20px;
+    font-weight: 700;
+    letter-spacing: -0.5px;
+    color: #1a1a1a;
+  }
+
+  .logo span {
+    color: #999;
+    font-weight: 400;
+  }
+
+  .update-info {
+    font-size: 12px;
+    color: #999;
+  }
+
+  .feed {
+    max-width: 620px;
+    margin: 0 auto;
+    padding: 0 20px;
+  }
+
+  .date-group {
+    padding-top: 24px;
+  }
+
+  .date-label {
+    font-size: 12px;
+    font-weight: 600;
+    color: #999;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    padding-bottom: 8px;
+    border-bottom: 1px solid #f0f0f0;
+    margin-bottom: 4px;
+  }
+
+  .item {
+    padding: 16px 0;
+    border-bottom: 1px solid #f5f5f5;
+    transition: background 0.15s;
+  }
+
+  .item:hover {
+    background: #fafafa;
+    margin: 0 -12px;
+    padding: 16px 12px;
+    border-radius: 8px;
+    border-bottom-color: transparent;
+  }
+
+  .item-meta {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    margin-bottom: 6px;
+  }
+
+  .item-source {
+    font-size: 12px;
+    font-weight: 600;
+    color: #666;
+  }
+
+  .item-dot {
+    width: 3px;
+    height: 3px;
+    border-radius: 50%;
+    background: #ccc;
+  }
+
+  .item-time {
+    font-size: 12px;
+    color: #999;
+  }
+
+  .item-title {
+    font-size: 15px;
+    font-weight: 600;
+    color: #1a1a1a;
+    margin-bottom: 4px;
+    line-height: 1.4;
+  }
+
+  .item-summary {
+    font-size: 14px;
+    color: #555;
+    line-height: 1.5;
+  }
+
+  .item-link {
+    display: inline-block;
+    margin-top: 6px;
+    font-size: 13px;
+    color: #0066cc;
+    text-decoration: none;
+    font-weight: 500;
+  }
+
+  .item-link:hover {
+    text-decoration: underline;
+  }
+
+  .loading {
+    text-align: center;
+    padding: 40px 0;
+    color: #ccc;
+    font-size: 14px;
+  }
+
+  .spinner {
+    width: 20px;
+    height: 20px;
+    border: 2px solid #eee;
+    border-top-color: #999;
+    border-radius: 50%;
+    animation: spin 0.6s linear infinite;
+    margin: 0 auto 12px;
+  }
+
+  @keyframes spin {
+    to { transform: rotate(360deg); }
+  }
+
+  .empty-state {
+    text-align: center;
+    padding: 80px 20px;
+    color: #999;
+  }
+
+  .empty-state h2 {
+    font-size: 18px;
+    font-weight: 600;
+    color: #666;
+    margin-bottom: 8px;
+  }
+
+  .empty-state p {
+    font-size: 14px;
+  }
+
+  .filter-bar {
+    max-width: 620px;
+    margin: 0 auto;
+    padding: 12px 20px 0;
+    display: flex;
+    gap: 8px;
+    flex-wrap: wrap;
+  }
+
+  .filter-btn {
+    padding: 4px 12px;
+    border: 1px solid #e0e0e0;
+    border-radius: 20px;
+    background: #fff;
+    font-size: 12px;
+    color: #666;
+    cursor: pointer;
+    transition: all 0.15s;
+    font-family: inherit;
+  }
+
+  .filter-btn:hover {
+    border-color: #ccc;
+    color: #333;
+  }
+
+  .filter-btn.active {
+    background: #1a1a1a;
+    color: #fff;
+    border-color: #1a1a1a;
+  }
+
+  .footer {
+    text-align: center;
+    padding: 40px 20px;
+    color: #ccc;
+    font-size: 12px;
+    border-top: 1px solid #f0f0f0;
+    margin-top: 40px;
+  }
+
+  @media (max-width: 480px) {
+    .header-inner { padding: 0 16px; }
+    .feed { padding: 0 16px; }
+    .filter-bar { padding: 12px 16px 0; }
+    .item-title { font-size: 14px; }
+    .item-summary { font-size: 13px; }
+  }
+</style>
+</head>
+<body>
+
+<header class="header">
+  <div class="header-inner">
+    <div class="logo">AI Pulse <span>/ news</span></div>
+    <div class="update-info" id="lastUpdate"></div>
+  </div>
+</header>
+
+<div class="filter-bar" id="filterBar">
+  <button class="filter-btn active" data-filter="all">All</button>
+</div>
+
+<main class="feed" id="feed"></main>
+
+<div class="loading" id="loading" style="display:none;">
+  <div class="spinner"></div>
+  Loading more...
+</div>
+
+<footer class="footer">
+  AI Pulse - Updated 3x daily (Asia / Europe / US)<br>
+  Powered by RSS feeds from top tech publications
+</footer>
+
+<script src="feed.js"></script>
+<script>
+const ITEMS_PER_PAGE = 20;
+let allItems = [];
+let filteredItems = [];
+let displayedCount = 0;
+let currentFilter = 'all';
+let isLoading = false;
+
+// Relative time formatting
+function timeAgo(dateStr) {
+  const now = new Date();
+  const date = new Date(dateStr);
+  const seconds = Math.floor((now - date) / 1000);
+
+  if (seconds < 60) return 'just now';
+  const minutes = Math.floor(seconds / 60);
+  if (minutes < 60) return minutes + 'm ago';
+  const hours = Math.floor(minutes / 60);
+  if (hours < 24) return hours + 'h ago';
+  const days = Math.floor(hours / 24);
+  if (days === 1) return 'yesterday';
+  if (days < 7) return days + 'd ago';
+  return date.toLocaleDateString('en-US', { month: 'short', day: 'numeric' });
+}
+
+// Group items by date
+function getDateLabel(dateStr) {
+  const date = new Date(dateStr);
+  const now = new Date();
+  const today = new Date(now.getFullYear(), now.getMonth(), now.getDate());
+  const itemDate = new Date(date.getFullYear(), date.getMonth(), date.getDate());
+  const diff = Math.floor((today - itemDate) / (1000 * 60 * 60 * 24));
+
+  if (diff === 0) return 'Today';
+  if (diff === 1) return 'Yesterday';
+  if (diff < 7) return date.toLocaleDateString('en-US', { weekday: 'long' });
+  return date.toLocaleDateString('en-US', { month: 'long', day: 'numeric', year: 'numeric' });
+}
+
+// Render items
+function renderItems(startIndex, count) {
+  const feed = document.getElementById('feed');
+  const items = filteredItems.slice(startIndex, startIndex + count);
+
+  items.forEach((item, i) => {
+    const globalIndex = startIndex + i;
+    const dateLabel = getDateLabel(item.published);
+
+    // Check if we need a new date header
+    const prevItem = globalIndex > 0 ? filteredItems[globalIndex - 1] : null;
+    const prevLabel = prevItem ? getDateLabel(prevItem.published) : null;
+
+    if (dateLabel !== prevLabel) {
+      const dateGroup = document.createElement('div');
+      dateGroup.className = 'date-group';
+      dateGroup.innerHTML = `<div class="date-label">${dateLabel}</div>`;
+      feed.appendChild(dateGroup);
+    }
+
+    const el = document.createElement('article');
+    el.className = 'item';
+    el.innerHTML = `
+      <div class="item-meta">
+        <span class="item-source">${item.source}</span>
+        <span class="item-dot"></span>
+        <span class="item-time">${timeAgo(item.published)}</span>
+      </div>
+      <div class="item-title">${item.title}</div>
+      <div class="item-summary">${item.summary}</div>
+      <a class="item-link" href="${item.link}" target="_blank" rel="noopener">Read full article &rarr;</a>
+    `;
+    feed.appendChild(el);
+  });
+
+  displayedCount = startIndex + items.length;
+}
+
+// Infinite scroll
+function handleScroll() {
+  if (isLoading || displayedCount >= filteredItems.length) return;
+
+  const scrollBottom = window.innerHeight + window.scrollY;
+  const docHeight = document.documentElement.scrollHeight;
+
+  if (scrollBottom >= docHeight - 400) {
+    isLoading = true;
+    document.getElementById('loading').style.display = 'block';
+
+    setTimeout(() => {
+      renderItems(displayedCount, ITEMS_PER_PAGE);
+      document.getElementById('loading').style.display = 'none';
+      isLoading = false;
+    }, 300);
+  }
+}
+
+// Filters
+function setupFilters() {
+  const sources = [...new Set(allItems.map(item => item.source))].sort();
+  const bar = document.getElementById('filterBar');
+
+  sources.forEach(source => {
+    const btn = document.createElement('button');
+    btn.className = 'filter-btn';
+    btn.dataset.filter = source;
+    btn.textContent = source;
+    bar.appendChild(btn);
+  });
+
+  bar.addEventListener('click', (e) => {
+    if (!e.target.classList.contains('filter-btn')) return;
+
+    document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
+    e.target.classList.add('active');
+    currentFilter = e.target.dataset.filter;
+
+    applyFilter();
+  });
+}
+
+function applyFilter() {
+  if (currentFilter === 'all') {
+    filteredItems = [...allItems];
+  } else {
+    filteredItems = allItems.filter(item => item.source === currentFilter);
+  }
+
+  document.getElementById('feed').innerHTML = '';
+  displayedCount = 0;
+  renderItems(0, ITEMS_PER_PAGE);
+}
+
+// Load data
+function init() {
+  if (typeof FEED_DATA === 'undefined') {
+    document.getElementById('feed').innerHTML = `
+      <div class="empty-state">
+        <h2>Could not load feed</h2>
+        <p>Make sure feed.js is in the same folder as this page.<br>
+        Run <code>python3 fetch_feeds.py</code> to generate it.</p>
+      </div>`;
+    return;
+  }
+
+  const data = FEED_DATA;
+  allItems = data.items.sort((a, b) => new Date(b.published) - new Date(a.published));
+  filteredItems = [...allItems];
+
+  if (data.lastUpdated) {
+    document.getElementById('lastUpdate').textContent =
+      'Updated ' + timeAgo(data.lastUpdated);
+  }
+
+  if (allItems.length === 0) {
+    document.getElementById('feed').innerHTML = `
+      <div class="empty-state">
+        <h2>No articles yet</h2>
+        <p>Run the fetcher script to populate the feed.</p>
+      </div>`;
+    return;
+  }
+
+  setupFilters();
+  renderItems(0, ITEMS_PER_PAGE);
+  window.addEventListener('scroll', handleScroll);
+}
+
+init();
+</script>
+</body>
+</html>

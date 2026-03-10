@@ -1,0 +1,894 @@
+const FEED_DATA = {
+  "lastUpdated": "2026-03-10T15:28:57.210478+00:00",
+  "items": [
+    {
+      "title": "Meta acquires Moltbook, the Reddit-like network for AI agents",
+      "summary": "Meta is acquiring Moltbook, a Reddit-like platform where AI agents can make and comment on posts, as first reported by Axios.",
+      "source": "The Verge",
+      "published": "2026-03-10T15:22:17+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/892178/meta-moltbook-acquisition-ai-agents"
+    },
+    {
+      "title": "Nvidia and Mira Murati's Thinking Machines Lab announce long-term AI partnership",
+      "summary": "Nvidia and Thinking Machines Lab, the AI startup founded by former OpenAI executive Mira Murati, are entering a long-term partnership. The article Nvidia and Mira Murati's Thinking Machines Lab announce long-term AI partnership appeared first on The Decoder.",
+      "source": "The Decoder",
+      "published": "2026-03-10T15:14:17+00:00",
+      "link": "https://the-decoder.com/nvidia-and-mira-muratis-thinking-machines-lab-announce-long-term-ai-partnership/"
+    },
+    {
+      "title": "Thinking Machines Lab inks massive compute deal with Nvidia",
+      "summary": "The multi-year deal involves at least a gigawatt of compute power and also includes a strategic investment from Nvidia",
+      "source": "TechCrunch",
+      "published": "2026-03-10T15:08:39+00:00",
+      "link": "https://techcrunch.com/2026/03/10/thinking-machines-lab-inks-massive-compute-deal-with-nvidia/"
+    },
+    {
+      "title": "Google gives in to users’ complaints over AI-powered ‘Ask Photos’ search feature",
+      "summary": "The option appears on the Google Photos Search screen and lets users pick which experience they want.",
+      "source": "TechCrunch",
+      "published": "2026-03-10T14:58:29+00:00",
+      "link": "https://techcrunch.com/2026/03/10/google-gives-in-to-users-complaints-over-ai-powered-ask-photos-search-feature/"
+    },
+    {
+      "title": "Legora reaches $5.55 billion valuation as AI legaltech boom endures",
+      "summary": "Legora, an AI platform for lawyers, is now valued at $5.55 billion following a $550 million Series D led by Accel to fuel its growth in the U.S.",
+      "source": "TechCrunch",
+      "published": "2026-03-10T14:34:24+00:00",
+      "link": "https://techcrunch.com/2026/03/10/legora-reaches-5-55-billion-valuation-as-ai-legaltech-boom-endures/"
+    },
+    {
+      "title": "Meta acquires Moltbook, the Reddit-style platform built for AI agents",
+      "summary": "Meta has acquired Moltbook, a platform designed as a kind of Reddit specifically for AI agents. The article Meta acquires Moltbook, the Reddit-style platform built for AI agents appeared first on The Decoder.",
+      "source": "The Decoder",
+      "published": "2026-03-10T14:25:41+00:00",
+      "link": "https://the-decoder.com/meta-acquires-moltbook-the-reddit-style-platform-built-for-ai-agents/"
+    },
+    {
+      "title": "YouTube expands AI deepfake detection to politicians, government officials, and journalists",
+      "summary": "YouTube's AI deepfake detection tool is becoming available to politicians, journalists, and officials, letting them flag unauthorized likenesses for removal.",
+      "source": "TechCrunch",
+      "published": "2026-03-10T14:00:00+00:00",
+      "link": "https://techcrunch.com/2026/03/10/youtube-expands-ai-deepfake-detection-to-politicians-government-officials-and-journalists/"
+    },
+    {
+      "title": "YouTube is expanding its AI deepfake detection tool to politicians and journalists",
+      "summary": "Public officials and journalists will soon be able to keep track of AI-generated deepfakes of themselves on YouTube through the platform's likeness detection feature.",
+      "source": "The Verge",
+      "published": "2026-03-10T14:00:00+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/891678/youtube-is-expanding-its-ai-deepfake-detection-tool-to-politicians-and-journalists"
+    },
+    {
+      "title": "Startup claims first full brain emulation of a fruit fly in a simulated body",
+      "summary": "Eon Systems says it has connected a complete fruit fly brain emulation to a virtual body, producing multiple behaviors for the first time. The emulation covers over 125,000 neurons and 50 million synapses.",
+      "source": "The Decoder",
+      "published": "2026-03-10T13:56:10+00:00",
+      "link": "https://the-decoder.com/startup-claims-first-full-brain-emulation-of-a-fruit-fly-in-a-simulated-body/"
+    },
+    {
+      "title": "Adobe is debuting an AI assistant for Photoshop",
+      "summary": "Adobe is also adding new AI-powered image editing features to Firefly.",
+      "source": "TechCrunch",
+      "published": "2026-03-10T13:06:51+00:00",
+      "link": "https://techcrunch.com/2026/03/10/adobe-is-debuting-an-ai-assistant-for-photoshop/"
+    },
+    {
+      "title": "Zoom introduces an AI-powered office suite, says AI avatars for meetings arrive this month",
+      "summary": "Zoom is also introducing a real-time deepfake detection tech for meetings",
+      "source": "TechCrunch",
+      "published": "2026-03-10T13:00:00+00:00",
+      "link": "https://techcrunch.com/2026/03/10/zoom-launches-an-ai-powered-office-suite-says-ai-avatars-for-meetings-are-coming-soon/"
+    },
+    {
+      "title": "Google rolls out new Gemini capabilities to Docs, Sheets, Slides, and Drive",
+      "summary": "The idea behind the new features is to make the apps more personal and capable to help users get things done faster, right within the platforms themselves.",
+      "source": "TechCrunch",
+      "published": "2026-03-10T13:00:00+00:00",
+      "link": "https://techcrunch.com/2026/03/10/google-rolls-out-new-gemini-capabilities-to-docs-sheets-slides-and-drive/"
+    },
+    {
+      "title": "Google’s Gemini AI is getting a bigger role across Docs, Sheets, and Slides",
+      "summary": "Google is embedding its Gemini AI assistant even more deeply within its Workspace apps.",
+      "source": "The Verge",
+      "published": "2026-03-10T13:00:00+00:00",
+      "link": "https://www.theverge.com/tech/890996/google-workspace-gemini-ai-docs-sheets-drive"
+    },
+    {
+      "title": "You can now ask Photoshop’s AI assistant to edit images for you",
+      "summary": "Adobe announced more agentic AI features for its Creative Cloud apps this week, allowing users to edit images and documents by describing the changes to a chatbot.",
+      "source": "The Verge",
+      "published": "2026-03-10T13:00:00+00:00",
+      "link": "https://www.theverge.com/tech/891998/adobe-photoshop-web-mobile-ai-assistant-beta-launch"
+    },
+    {
+      "title": "Prioritizing energy intelligence for sustainable growth",
+      "summary": "Loudoun County, Virginia, once known for its pastoral scenery and proximity to Washington, DC, has earned a more modern reputation in recent years: The area has the highest concentration of data centers on the planet. Ten years ago, these facilities powered email and e-commerce.",
+      "source": "MIT Tech Review",
+      "published": "2026-03-10T13:00:00+00:00",
+      "link": "https://www.technologyreview.com/2026/03/10/1133972/prioritizing-energy-intelligence-for-sustainable-growth/"
+    },
+    {
+      "title": "I Used Google’s New Gemini-Powered ‘Help Me Create’ Tool in Docs. It’s Great at Corporate-Speak",
+      "summary": "Google has injected Docs, Drive, Sheets, and Slides with its Gemini assistant, adding new features that can pull information from your emails and the web to help you draft content. I gave it a whirl.",
+      "source": "Wired",
+      "published": "2026-03-10T13:00:00+00:00",
+      "link": "https://www.wired.com/story/google-gemini-workspace-ai-tools-hands-on/"
+    },
+    {
+      "title": "Agentic AI in finance speeds up operational automation",
+      "summary": "In finance, achieving operational automation by integrating agentic AI requires a data-centric foundation to drive real value. Financial infrastructure provider SEI has engaged IBM to modernise its internal operations via AI and automation.",
+      "source": "AI News",
+      "published": "2026-03-10T12:55:37+00:00",
+      "link": "https://www.artificialintelligence-news.com/news/agentic-ai-in-finance-speeds-up-operational-automation/"
+    },
+    {
+      "title": "The Download: AI’s role in the Iran war, and an escalating legal fight",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.",
+      "source": "MIT Tech Review",
+      "published": "2026-03-10T12:55:32+00:00",
+      "link": "https://www.technologyreview.com/2026/03/10/1134077/the-download-ai-iran-war-theater-anthropic-sues-us/"
+    },
+    {
+      "title": "Sandbar secures $23M Series A for its AI note-taking ring",
+      "summary": "Sandbar aims to ship the Stream, which can be used to take notes, chat with an AI assistant, and for media playback, this summer.",
+      "source": "TechCrunch",
+      "published": "2026-03-10T12:40:37+00:00",
+      "link": "https://techcrunch.com/2026/03/10/sandbar-secures-23m-series-a-for-its-ai-note-taking-ring/"
+    },
+    {
+      "title": "Philosopher David Chalmers: Current AI interpretability methods miss what matters most",
+      "summary": "Philosopher David J. Chalmers proposes interpreting AI systems through their attitudes toward propositions - much like we interpret humans.",
+      "source": "The Decoder",
+      "published": "2026-03-10T12:03:41+00:00",
+      "link": "https://the-decoder.com/philosopher-david-chalmers-current-ai-interpretability-methods-miss-what-matters-most/"
+    },
+    {
+      "title": "Yann LeCun's AI startup raises $1B in Europe's largest ever seed round",
+      "summary": "Article URL: https://www.ft.com/content/e5245ec3-1a58-4eff-ab58-480b6259aaf1 Comments URL: https://news.ycombinator.com/item?id=47321533 Points: 283 # Comments: 147",
+      "source": "Hacker News",
+      "published": "2026-03-10T10:50:30+00:00",
+      "link": "https://www.ft.com/content/e5245ec3-1a58-4eff-ab58-480b6259aaf1"
+    },
+    {
+      "title": "Investors bet $1 billion on Yann LeCun's vision for AI beyond LLMs",
+      "summary": "Yann LeCun, former chief AI scientist at Meta and Turing Award winner, has raised over $1 billion for his new startup Advanced Machine Intelligence Labs (AMI Labs) - making it Europe's largest seed funding round ever.",
+      "source": "The Decoder",
+      "published": "2026-03-10T10:47:48+00:00",
+      "link": "https://the-decoder.com/investors-bet-1-billion-on-yann-lecuns-vision-for-ai-beyond-llms/"
+    },
+    {
+      "title": "Claude Code gets parallel AI agents that review code for bugs and security gaps",
+      "summary": "Anthropic has released a code review feature for Claude Code that automatically checks changes for errors before they're merged. The article Claude Code gets parallel AI agents that review code for bugs and security gaps appeared first on The Decoder.",
+      "source": "The Decoder",
+      "published": "2026-03-10T09:12:18+00:00",
+      "link": "https://the-decoder.com/claude-code-gets-parallel-ai-agents-that-review-code-for-bugs-and-security-gaps/"
+    },
+    {
+      "title": "Redox OS has adopted a Certificate of Origin policy and a strict no-LLM policy",
+      "summary": "Article URL: https://gitlab.redox-os.org/redox-os/redox/-/blob/master/CONTRIBUTING.md Comments URL: https://news.ycombinator.com/item?id=47320661 Points: 273 # Comments: 272",
+      "source": "Hacker News",
+      "published": "2026-03-10T08:54:53+00:00",
+      "link": "https://gitlab.redox-os.org/redox-os/redox/-/blob/master/CONTRIBUTING.md"
+    },
+    {
+      "title": "OpenAI announces GPT-5 with real-time video understanding",
+      "summary": "OpenAI revealed GPT-5 today, featuring native video input processing and what they call \"continuous reasoning.\" The model can analyze live video feeds and respond in real time.",
+      "source": "TechCrunch",
+      "published": "2026-03-10T07:30:00Z",
+      "link": "https://techcrunch.com/example"
+    },
+    {
+      "title": "Mastercard brings agentic payments to life in Singapore with DBS and UOB",
+      "summary": "Mastercard has completed its first live, authenticated agent-based payment transaction in Singapore, a milestone that advances autonomous AI commerce from proof of concept to everyday use.",
+      "source": "AI News",
+      "published": "2026-03-10T07:00:00+00:00",
+      "link": "https://www.artificialintelligence-news.com/news/mastercard-agentic-payments-singapore-dbs-uob/"
+    },
+    {
+      "title": "EU passes emergency AI regulation amendment targeting foundation models",
+      "summary": "The European Parliament voted to extend the AI Act with new rules specifically for foundation models. Companies must now disclose training data sources and energy consumption within 90 days.",
+      "source": "Reuters",
+      "published": "2026-03-10T06:45:00Z",
+      "link": "https://reuters.com/example"
+    },
+    {
+      "title": "Google DeepMind achieves breakthrough in protein-drug interaction prediction",
+      "summary": "A new DeepMind model can predict how drug molecules interact with proteins at near-experimental accuracy. Could cut early-stage drug discovery timelines from years to weeks.",
+      "source": "MIT Tech Review",
+      "published": "2026-03-10T05:15:00Z",
+      "link": "https://technologyreview.com/example"
+    },
+    {
+      "title": "Amazon holds engineering meeting following AI-related outages",
+      "summary": "Article URL: https://www.ft.com/content/7cab4ec7-4712-4137-b602-119a44f771de Comments URL: https://news.ycombinator.com/item?id=47319273 Points: 79 # Comments: 64",
+      "source": "Hacker News",
+      "published": "2026-03-10T05:07:59+00:00",
+      "link": "https://www.ft.com/content/7cab4ec7-4712-4137-b602-119a44f771de"
+    },
+    {
+      "title": "Yann LeCun’s AMI Labs raises $1.03 billion to build world models",
+      "summary": "AMI Labs, the new venture cofounded by Turing Prize winner Yann LeCun after he left Meta, has raised $1.03 billion at a $3.5 billion pre-money valuation.",
+      "source": "TechCrunch",
+      "published": "2026-03-10T05:00:00+00:00",
+      "link": "https://techcrunch.com/2026/03/09/yann-lecuns-ami-labs-raises-1-03-billion-to-build-world-models/"
+    },
+    {
+      "title": "Yann LeCun Raises $1 Billion to Build AI That Understands the Physical World",
+      "summary": "Meta’s former chief AI scientist has long argued that human-level AI will come from mastering the physical world, not language. His new startup, AMI, aims to prove it.",
+      "source": "Wired",
+      "published": "2026-03-10T05:00:00+00:00",
+      "link": "https://www.wired.com/story/yann-lecun-raises-dollar1-billion-to-build-ai-that-understands-the-physical-world/"
+    },
+    {
+      "title": "Anthropic raises $8B Series E at $120B valuation",
+      "summary": "Anthropic closed its largest funding round yet, led by a group including Google, Salesforce, and several sovereign wealth funds. The company plans to use the funds for compute infrastructure.",
+      "source": "Bloomberg",
+      "published": "2026-03-10T04:00:00Z",
+      "link": "https://bloomberg.com/example"
+    },
+    {
+      "title": "Meta open-sources Llama 4 with 1T parameters",
+      "summary": "Meta released Llama 4, their largest open-weight model yet. Early benchmarks suggest it matches proprietary models on most tasks. Available under a permissive license for commercial use.",
+      "source": "The Verge",
+      "published": "2026-03-10T02:30:00Z",
+      "link": "https://theverge.com/example"
+    },
+    {
+      "title": "Learnings from paying artists royalties for AI-generated art",
+      "summary": "Article URL: https://www.kapwing.com/blog/learnings-from-paying-artists-royalties-for-ai-generated-art/ Comments URL: https://news.ycombinator.com/item?id=47318421 Points: 158 # Comments: 137",
+      "source": "Hacker News",
+      "published": "2026-03-10T02:24:52+00:00",
+      "link": "https://www.kapwing.com/blog/learnings-from-paying-artists-royalties-for-ai-generated-art/"
+    },
+    {
+      "title": "Nvidia Is Planning to Launch an Open-Source AI Agent Platform",
+      "summary": "Ahead of its annual developer conference, Nvidia is readying a new approach to software that embraces AI agents similar to OpenClaw.",
+      "source": "Wired",
+      "published": "2026-03-09T23:11:34+00:00",
+      "link": "https://www.wired.com/story/nvidia-planning-ai-agent-platform-launch-open-source/"
+    },
+    {
+      "title": "AI-generated code now accounts for 40% of all new code at Fortune 500 companies",
+      "summary": "A new McKinsey report finds that AI coding assistants are writing nearly half of all new production code at large enterprises. Developer roles are shifting toward review and architecture.",
+      "source": "VentureBeat",
+      "published": "2026-03-09T22:00:00Z",
+      "link": "https://venturebeat.com/example"
+    },
+    {
+      "title": "Mark Zuckerberg creating new Applied AI engineering company, reorganises teams",
+      "summary": "Article URL: https://timesofindia.indiatimes.com/technology/tech-news/mark-zuckerberg-is-creating-new-applied-ai-engineering-company-reorganises-key-teams/articleshow/129018841.cms Comments URL: https://news.ycombinator.com/item?id=47315701 Points: 97 # Comments: 58",
+      "source": "Hacker News",
+      "published": "2026-03-09T21:19:58+00:00",
+      "link": "https://timesofindia.indiatimes.com/technology/tech-news/mark-zuckerberg-is-creating-new-applied-ai-engineering-company-reorganises-key-teams/articleshow/129018841.cms"
+    },
+    {
+      "title": "OpenAI and Google employees rush to Anthropic’s defense in DOD lawsuit",
+      "summary": "More than 30 OpenAI and Google DeepMind employees signed onto a statement supporting Anthropic's lawsuit against the Defense Department after the agency labeled the AI firm a supply-chain risk, according to court filings.",
+      "source": "TechCrunch",
+      "published": "2026-03-09T21:15:17+00:00",
+      "link": "https://techcrunch.com/2026/03/09/openai-and-google-employees-rush-to-anthropics-defense-in-dod-lawsuit/"
+    },
+    {
+      "title": "Anthropic Claims Pentagon Feud Could Cost It Billions",
+      "summary": "Executives at the AI startup say companies paused deal talks after the Trump administration labeled it a supply-chain risk, warning that the fallout could cause a major revenue hit.",
+      "source": "Wired",
+      "published": "2026-03-09T20:49:29+00:00",
+      "link": "https://www.wired.com/story/anthropic-claims-business-is-in-peril-due-to-supply-chain-risk-designation/"
+    },
+    {
+      "title": "Employees across OpenAI and Google support Anthropic’s lawsuit against the Pentagon",
+      "summary": "On Monday, Anthropic filed its lawsuit against the Department of Defense over being designated as a supply chain risk.",
+      "source": "The Verge",
+      "published": "2026-03-09T20:45:24+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/891514/anthropic-pentagon-lawsuit-amicus-brief-openai-google"
+    },
+    {
+      "title": "OpenAI and Google Workers File Amicus Brief in Support of Anthropic Against the US Government",
+      "summary": "Google DeepMind chief scientist Jeff Dean is among the AI researchers and engineers rushing to Anthropic's defense.",
+      "source": "Wired",
+      "published": "2026-03-09T20:38:12+00:00",
+      "link": "https://www.wired.com/story/openai-deepmind-employees-file-amicus-brief-anthropic-dod-lawsuit/"
+    },
+    {
+      "title": "Stability AI launches real-time video generation model",
+      "summary": "Stability AI released a model that generates 1080p video at 24fps in near real-time. The company says it runs on a single high-end consumer GPU.",
+      "source": "Ars Technica",
+      "published": "2026-03-09T20:30:00Z",
+      "link": "https://arstechnica.com/example"
+    },
+    {
+      "title": "Anthropic launches code review tool to check flood of AI-generated code",
+      "summary": "Anthropic launched Code Review in Claude Code, a multi-agent system that automatically analyzes AI-generated code, flags logic errors, and helps enterprise developers manage the growing volume of code produced with AI.",
+      "source": "TechCrunch",
+      "published": "2026-03-09T19:41:34+00:00",
+      "link": "https://techcrunch.com/2026/03/09/anthropic-launches-code-review-tool-to-check-flood-of-ai-generated-code/"
+    },
+    {
+      "title": "Things I've Done with AI",
+      "summary": "Article URL: https://sjer.red/blog/2026/built-with-ai/ Comments URL: https://news.ycombinator.com/item?id=47314123 Points: 84 # Comments: 122",
+      "source": "Hacker News",
+      "published": "2026-03-09T19:24:20+00:00",
+      "link": "https://sjer.red/blog/2026/built-with-ai/"
+    },
+    {
+      "title": "OpenAI plans to acquire Promptfoo and bake AI security testing directly into its Frontier enterprise platform",
+      "summary": "OpenAI is acquiring AI security platform Promptfoo to build automated vulnerability testing, covering jailbreaks, prompt injections, and data leaks, directly into its Frontier enterprise platform.",
+      "source": "The Decoder",
+      "published": "2026-03-09T19:10:08+00:00",
+      "link": "https://the-decoder.com/openai-plans-to-acquire-promptfoo-and-bake-ai-security-testing-directly-into-its-frontier-enterprise-platform/"
+    },
+    {
+      "title": "China unveils national AI infrastructure plan with $50B investment",
+      "summary": "China's State Council announced a massive investment plan to build government-run AI compute centers in every province. The plan includes domestic chip production targets for 2028.",
+      "source": "Reuters",
+      "published": "2026-03-09T18:00:00Z",
+      "link": "https://reuters.com/example"
+    },
+    {
+      "title": "Microsoft brings Anthropic's Claude Cowork into Copilot to run tasks across Outlook, Teams, and Excel",
+      "summary": "With Copilot Cowork, Microsoft taps Anthropic's Claude instead of OpenAI to let AI handle tasks across Outlook, Teams, and Excel autonomously.",
+      "source": "The Decoder",
+      "published": "2026-03-09T17:51:16+00:00",
+      "link": "https://the-decoder.com/microsoft-brings-anthropics-claude-cowork-into-copilot-to-run-tasks-across-outlook-teams-and-excel/"
+    },
+    {
+      "title": "OpenAI acquires Promptfoo to secure its AI agents",
+      "summary": "This deal underscores how frontier labs are scrambling to prove their technology can be used safely in critical business operations.",
+      "source": "TechCrunch",
+      "published": "2026-03-09T17:49:04+00:00",
+      "link": "https://techcrunch.com/2026/03/09/openai-acquires-promptfoo-to-secure-its-ai-agents/"
+    },
+    {
+      "title": "Anthropic sues Defense Department over supply-chain risk designation",
+      "summary": "Anthropic filed suit against the Department of Defense on Monday after the agency labeled it a supply-chain risk. The complaint calls the DOD's actions \"unprecedented and unlawful.\"",
+      "source": "TechCrunch",
+      "published": "2026-03-09T17:25:40+00:00",
+      "link": "https://techcrunch.com/2026/03/09/anthropic-sues-defense-department-over-supply-chain-risk-designation/"
+    },
+    {
+      "title": "Anthropic's groundbreaking lawsuit challenges the government's power to punish AI safety decisions",
+      "summary": "Anthropic is suing 17 US federal agencies. The 48-page complaint reveals how deeply Claude is already embedded in classified Pentagon systems and how the government pressured the company with contradictory threats when it refused to drop its AI safety guardrails.",
+      "source": "The Decoder",
+      "published": "2026-03-09T17:15:22+00:00",
+      "link": "https://the-decoder.com/anthropics-groundbreaking-lawsuit-challenges-the-governments-power-to-punish-ai-safety-decisions/"
+    },
+    {
+      "title": "Anthropic is suing the Department of Defense",
+      "summary": "Anthropic has sued the US government over its designation as a supply-chain risk, the latest move in a weekslong battle between it and the Pentagon over the acceptable use cases for its military AI tech.",
+      "source": "The Verge",
+      "published": "2026-03-09T16:37:42+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/891377/anthropic-dod-lawsuit"
+    },
+    {
+      "title": "Apple integrates on-device AI into every default app with iOS 20",
+      "summary": "Apple previewed iOS 20 with AI features embedded in Mail, Notes, Safari, and Photos. All processing happens on-device using their new Neural Engine chip.",
+      "source": "The Verge",
+      "published": "2026-03-09T16:15:00Z",
+      "link": "https://theverge.com/example"
+    },
+    {
+      "title": "Qualcomm’s partnership with Neura Robotics is just the beginning",
+      "summary": "Neura Robotics is going to build new robots on top of Qualcomm's new IQ10 processors that were released at CES.",
+      "source": "TechCrunch",
+      "published": "2026-03-09T15:58:11+00:00",
+      "link": "https://techcrunch.com/2026/03/09/qualcomms-partnership-with-neura-robotics-is-just-the-beginning/"
+    },
+    {
+      "title": "Anthropic Sues Department of Defense Over Supply-Chain-Risk Designation",
+      "summary": "The Claude chatbot developer says the Trump administration overstepped by escalating a contract dispute into a federal ban on the company’s technology.",
+      "source": "Wired",
+      "published": "2026-03-09T15:29:57+00:00",
+      "link": "https://www.wired.com/story/anthropic-sues-department-of-defense-over-supply-chain-risk-designation/"
+    },
+    {
+      "title": "Anthropic sues to block Pentagon blacklisting over AI use restrictions",
+      "summary": "Article URL: https://www.reuters.com/world/anthropic-sues-block-pentagon-blacklisting-over-ai-use-restrictions-2026-03-09/ Comments URL: https://news.ycombinator.com/item?id=47310330 Points: 78 # Comments: 52",
+      "source": "Hacker News",
+      "published": "2026-03-09T15:25:40+00:00",
+      "link": "https://www.reuters.com/world/anthropic-sues-block-pentagon-blacklisting-over-ai-use-restrictions-2026-03-09/"
+    },
+    {
+      "title": "Is legal the same as legitimate: AI reimplementation and the erosion of copyleft",
+      "summary": "Article URL: https://writings.hongminhee.org/2026/03/legal-vs-legitimate/ Comments URL: https://news.ycombinator.com/item?id=47310160 Points: 537 # Comments: 536",
+      "source": "Hacker News",
+      "published": "2026-03-09T15:12:53+00:00",
+      "link": "https://writings.hongminhee.org/2026/03/legal-vs-legitimate/"
+    },
+    {
+      "title": "How AI is turning the Iran conflict into theater",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here.",
+      "source": "MIT Tech Review",
+      "published": "2026-03-09T15:11:01+00:00",
+      "link": "https://www.technologyreview.com/2026/03/09/1134063/how-ai-is-turning-the-iran-conflict-into-theater/"
+    },
+    {
+      "title": "Sandberg, Clegg join Nscale board as this ‘Stargate Norway’ startup hits $14.6B valuation",
+      "summary": "Nvidia-backed British AI infrastructure startup Nscale has raised another megaround of $2 billion.",
+      "source": "TechCrunch",
+      "published": "2026-03-09T15:09:35+00:00",
+      "link": "https://techcrunch.com/2026/03/09/sandberg-clegg-join-nscale-board-as-this-stargate-norway-startup-hits-14-6b-valuation/"
+    },
+    {
+      "title": "Revealed: UK's multibillion AI drive is built on 'phantom investments'",
+      "summary": "Article URL: https://www.theguardian.com/technology/2026/mar/09/revealed-uks-multibillion-ai-drive-is-built-on-phantom-investments Comments URL: https://news.ycombinator.com/item?id=47309811 Points: 96 # Comments: 54",
+      "source": "Hacker News",
+      "published": "2026-03-09T14:45:12+00:00",
+      "link": "https://www.theguardian.com/technology/2026/mar/09/revealed-uks-multibillion-ai-drive-is-built-on-phantom-investments"
+    },
+    {
+      "title": "Millions already use AI chatbots for financial advice, but experts warn of clear limits",
+      "summary": "Millions of people are already using chatbots like ChatGPT for retirement planning, the Financial Times reports. The article Millions already use AI chatbots for financial advice, but experts warn of clear limits appeared first on The Decoder.",
+      "source": "The Decoder",
+      "published": "2026-03-09T14:01:30+00:00",
+      "link": "https://the-decoder.com/millions-already-use-ai-chatbots-for-financial-advice-but-experts-warn-of-clear-limits/"
+    },
+    {
+      "title": "Stanford study: AI agents can now complete 78% of entry-level office tasks",
+      "summary": "Researchers tested leading AI agents on 500 common office tasks including email drafting, data entry, and scheduling. The best agents completed 78% without human intervention.",
+      "source": "MIT Tech Review",
+      "published": "2026-03-09T14:00:00Z",
+      "link": "https://technologyreview.com/example"
+    },
+    {
+      "title": "The Download: murky AI surveillance laws, and the White House cracks down on defiant labs",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Is the Pentagon allowed to surveil Americans with AI?",
+      "source": "MIT Tech Review",
+      "published": "2026-03-09T13:57:44+00:00",
+      "link": "https://www.technologyreview.com/2026/03/09/1134050/the-download-ai-surveillance-laws-white-house-cracks-down-defiant-labs/"
+    },
+    {
+      "title": "Feeld Was a Dating App for the Freaks. Now Some People Call It ‘Normie Hell’",
+      "summary": "The app that catered to unconventional kinks is gaining steam among daters with vanilla preferences—and some aren’t happy about it.",
+      "source": "Wired",
+      "published": "2026-03-09T13:00:00+00:00",
+      "link": "https://www.wired.com/story/feeld-was-a-dating-app-for-the-freaks-now-some-people-call-it-normie-hell/"
+    },
+    {
+      "title": "AI insurance underwriting is past the pitch deck—Gradient AI just got the capital to prove it",
+      "summary": "AI insurance underwriting has been called the next frontier of insurtech for years. The difference now is that the money backing it has moved from venture bets into institutional conviction.",
+      "source": "AI News",
+      "published": "2026-03-09T12:51:00+00:00",
+      "link": "https://www.artificialintelligence-news.com/news/gradient-ai-cibc-ai-insurance-underwriting-growth-capital/"
+    },
+    {
+      "title": "UK sovereign AI fund to build up domestic computing infrastructure",
+      "summary": "The UK sovereign AI fund intends to secure advantages by providing a domestic alternative to external computing infrastructure. Backed by a £500 million budget from the Department for Science, Innovation and Technology, the unit formally launches on April 16th at 6pm GMT.",
+      "source": "AI News",
+      "published": "2026-03-09T12:46:13+00:00",
+      "link": "https://www.artificialintelligence-news.com/news/uk-sovereign-ai-fund-build-domestic-computing-infrastructure/"
+    },
+    {
+      "title": "Microsoft adds AI co-workers to Teams that join meetings and take actions",
+      "summary": "Microsoft announced AI \"teammates\" in Teams that can attend meetings, take notes, create action items, and follow up on tasks autonomously. Rolling out to Enterprise customers next month.",
+      "source": "TechCrunch",
+      "published": "2026-03-09T12:30:00Z",
+      "link": "https://techcrunch.com/example"
+    },
+    {
+      "title": "Nvidia backs AI data center startup Nscale as it hits $14.6B valuation",
+      "summary": "Article URL: https://www.cnbc.com/2026/03/09/nscale-ai-data-center-nvidia-raise.html Comments URL: https://news.ycombinator.com/item?id=47307419 Points: 52 # Comments: 52",
+      "source": "Hacker News",
+      "published": "2026-03-09T10:58:15+00:00",
+      "link": "https://www.cnbc.com/2026/03/09/nscale-ai-data-center-nvidia-raise.html"
+    },
+    {
+      "title": "Show HN: VS Code Agent Kanban: Task Management for the AI-Assisted Developer",
+      "summary": "Agent Kanban has 4 main features:GitOps & team friendly kanban board integration inside VS Code Structured plan / todo / implement via @kanban commands Leverages your existing agent harness rather than trying to bundle a built in one .md task format provides a permanent...",
+      "source": "Hacker News",
+      "published": "2026-03-09T10:28:08+00:00",
+      "link": "https://www.appsoftware.com/blog/introducing-vs-code-agent-kanban-task-management-for-the-ai-assisted-developer"
+    },
+    {
+      "title": "NVIDIA reports record Q4 revenue of $45B driven by AI chip demand",
+      "summary": "NVIDIA crushed earnings expectations again with $45B in quarterly revenue. CEO Jensen Huang said demand for Blackwell chips continues to outpace supply by a wide margin.",
+      "source": "Bloomberg",
+      "published": "2026-03-09T10:00:00Z",
+      "link": "https://bloomberg.com/example"
+    },
+    {
+      "title": "City Union Bank launches AI centre to support banking operations",
+      "summary": "Banks have spent years buying analytics tools and automation software. Now some are taking a different step: building internal spaces where AI can be tested directly on real banking problems.",
+      "source": "AI News",
+      "published": "2026-03-09T10:00:00+00:00",
+      "link": "https://www.artificialintelligence-news.com/news/city-union-bank-launches-ai-centre-to-support-banking-operations/"
+    },
+    {
+      "title": "Can AI Kill the Venture Capitalist?",
+      "summary": "VCs are betting that artificial intelligence will disrupt nearly every industry in the world. Are they prepared for it to disrupt their own?",
+      "source": "Wired",
+      "published": "2026-03-09T09:00:00+00:00",
+      "link": "https://www.wired.com/story/ai-kill-venture-capital/"
+    },
+    {
+      "title": "Hugging Face hits 2 million public models on its platform",
+      "summary": "The open-source AI hub crossed 2 million publicly available models this week. Growth is accelerating, with the last 500K added in just three months.",
+      "source": "VentureBeat",
+      "published": "2026-03-09T08:00:00Z",
+      "link": "https://venturebeat.com/example"
+    },
+    {
+      "title": "AI weather prediction now more accurate than traditional supercomputer models",
+      "summary": "Google and ECMWF published a joint study showing AI weather models outperform physics-based simulations for forecasts up to 15 days ahead. Runs 10,000x faster.",
+      "source": "Ars Technica",
+      "published": "2026-03-08T21:00:00Z",
+      "link": "https://arstechnica.com/example"
+    },
+    {
+      "title": "Artificial-life: A simple (300 lines of code) reproduction of Computational Life",
+      "summary": "Article URL: https://github.com/Rabrg/artificial-life Comments URL: https://news.ycombinator.com/item?id=47301233 Points: 165 # Comments: 24",
+      "source": "Hacker News",
+      "published": "2026-03-08T20:42:41+00:00",
+      "link": "https://github.com/Rabrg/artificial-life"
+    },
+    {
+      "title": "Will the Pentagon’s Anthropic controversy scare startups away from defense work?",
+      "summary": "On the latest episode of TechCrunch’s Equity podcast, we discussed what the controversy means for other startups seeking to work with the federal government.",
+      "source": "TechCrunch",
+      "published": "2026-03-08T20:14:42+00:00",
+      "link": "https://techcrunch.com/2026/03/08/will-the-pentagons-anthropic-controversy-scare-startups-away-from-defense-work/"
+    },
+    {
+      "title": "AI doesn't replace white collar work",
+      "summary": "Article URL: https://www.marble.onl/posts/ai_doesnt_replace_work.html Comments URL: https://news.ycombinator.com/item?id=47299988 Points: 67 # Comments: 100",
+      "source": "Hacker News",
+      "published": "2026-03-08T18:57:21+00:00",
+      "link": "https://www.marble.onl/posts/ai_doesnt_replace_work.html"
+    },
+    {
+      "title": "GitHub Copilot Workspace exits beta, can build entire features from issues",
+      "summary": "GitHub's AI development environment is now generally available. It reads an issue description, proposes a plan, writes the code, and opens a pull request. Free for open source projects.",
+      "source": "TechCrunch",
+      "published": "2026-03-08T18:30:00Z",
+      "link": "https://techcrunch.com/example"
+    },
+    {
+      "title": "Owner of ICE detention facility sees big opportunity in AI man camps",
+      "summary": "AI data center developers are increasingly relying on a style of camp popularized as housing for men working in remote oil fields.",
+      "source": "TechCrunch",
+      "published": "2026-03-08T16:30:00+00:00",
+      "link": "https://techcrunch.com/2026/03/08/owner-of-ice-detention-facility-sees-big-opportunity-in-ai-man-camps/"
+    },
+    {
+      "title": "Oracle may slash up to 30k jobs to fund AI data-centers as US banks retreat",
+      "summary": "Article URL: https://www.cio.com/article/4125103/oracle-may-slash-up-to-30000-jobs-to-fund-ai-data-center-expansion-as-us-banks-retreat.html Comments URL: https://news.ycombinator.com/item?id=47298183 Points: 178 # Comments: 234",
+      "source": "Hacker News",
+      "published": "2026-03-08T15:37:32+00:00",
+      "link": "https://www.cio.com/article/4125103/oracle-may-slash-up-to-30000-jobs-to-fund-ai-data-center-expansion-as-us-banks-retreat.html"
+    },
+    {
+      "title": "OpenAI and Anduril partner on military AI applications",
+      "summary": "OpenAI announced a partnership with defense tech company Anduril to develop AI systems for national security. The move reverses OpenAI's earlier stance against military use cases.",
+      "source": "Reuters",
+      "published": "2026-03-08T15:00:00Z",
+      "link": "https://reuters.com/example"
+    },
+    {
+      "title": "AI music generation startup Suno reaches 50 million users",
+      "summary": "Suno, which lets anyone create full songs from text prompts, hit 50M users in under a year. The music industry continues to push back with ongoing copyright lawsuits.",
+      "source": "The Verge",
+      "published": "2026-03-08T12:00:00Z",
+      "link": "https://theverge.com/example"
+    },
+    {
+      "title": "Researchers demonstrate AI system that discovers new materials 100x faster",
+      "summary": "A team from MIT and Google used an AI system to discover 380,000 new stable materials in months. Traditional methods would have taken decades to explore this space.",
+      "source": "MIT Tech Review",
+      "published": "2026-03-08T09:30:00Z",
+      "link": "https://technologyreview.com/example"
+    },
+    {
+      "title": "I'm Not Consulting an LLM",
+      "summary": "Article URL: https://lr0.org/blog/p/gpt/ Comments URL: https://news.ycombinator.com/item?id=47295670 Points: 53 # Comments: 72",
+      "source": "Hacker News",
+      "published": "2026-03-08T08:43:29+00:00",
+      "link": "https://lr0.org/blog/p/gpt/"
+    },
+    {
+      "title": "A roadmap for AI, if anyone will listen",
+      "summary": "The Pro-Human AI Declaration was finalized before last week's Pentagon-Anthropic standoff, but the collision of the two events wasn’t lost on anyone involved.",
+      "source": "TechCrunch",
+      "published": "2026-03-08T06:05:26+00:00",
+      "link": "https://techcrunch.com/2026/03/07/a-roadmap-for-ai-if-anyone-will-listen/"
+    },
+    {
+      "title": "Amazon replaces 30% of customer service staff with AI agents",
+      "summary": "Amazon confirmed that AI now handles the majority of customer service interactions. The company says response times dropped 60% and satisfaction scores are unchanged.",
+      "source": "Bloomberg",
+      "published": "2026-03-08T06:00:00Z",
+      "link": "https://bloomberg.com/example"
+    },
+    {
+      "title": "Google just gave Sundar Pichai a $692M pay package",
+      "summary": "Most of it is tied to performance, including new stock incentives linked to Waymo and Wing, its drone delivery venture.",
+      "source": "TechCrunch",
+      "published": "2026-03-08T00:20:10+00:00",
+      "link": "https://techcrunch.com/2026/03/07/google-just-gave-sundar-pichai-a-692m-pay-package/"
+    },
+    {
+      "title": "Why developers using AI are working longer hours",
+      "summary": "Article URL: https://www.scientificamerican.com/article/why-developers-using-ai-are-working-longer-hours/ Comments URL: https://news.ycombinator.com/item?id=47292574 Points: 76 # Comments: 71",
+      "source": "Hacker News",
+      "published": "2026-03-07T23:39:04+00:00",
+      "link": "https://www.scientificamerican.com/article/why-developers-using-ai-are-working-longer-hours/"
+    },
+    {
+      "title": "LLM Writing Tropes.md",
+      "summary": "https://news.ycombinator.com/item?id=47088813 Comments URL: https://news.ycombinator.com/item?id=47291513 Points: 372 # Comments: 190",
+      "source": "Hacker News",
+      "published": "2026-03-07T21:08:40+00:00",
+      "link": "https://tropes.fyi/tropes-md"
+    },
+    {
+      "title": "New benchmark shows AI models can write better legal briefs than junior lawyers",
+      "summary": "A blind evaluation by 50 senior attorneys found that AI-generated legal briefs were preferred over junior associate work 67% of the time. Raises questions about the future of legal training.",
+      "source": "Ars Technica",
+      "published": "2026-03-07T20:00:00Z",
+      "link": "https://arstechnica.com/example"
+    },
+    {
+      "title": "Training students to prove they're not robots is pushing them to use more AI",
+      "summary": "Article URL: https://www.techdirt.com/2026/03/06/were-training-students-to-write-worse-to-prove-theyre-not-robots-and-its-pushing-them-to-use-more-ai/ Comments URL: https://news.ycombinator.com/item?id=47290457 Points: 161 # Comments: 175",
+      "source": "Hacker News",
+      "published": "2026-03-07T19:01:01+00:00",
+      "link": "https://www.techdirt.com/2026/03/06/were-training-students-to-write-worse-to-prove-theyre-not-robots-and-its-pushing-them-to-use-more-ai/"
+    },
+    {
+      "title": "Verification debt: the hidden cost of AI-generated code",
+      "summary": "Article URL: https://fazy.medium.com/agentic-coding-ais-adolescence-b0d13452f981 Comments URL: https://news.ycombinator.com/item?id=47289406 Points: 113 # Comments: 96",
+      "source": "Hacker News",
+      "published": "2026-03-07T17:08:30+00:00",
+      "link": "https://fazy.medium.com/agentic-coding-ais-adolescence-b0d13452f981"
+    },
+    {
+      "title": "Mistral launches European sovereign AI cloud service",
+      "summary": "French AI company Mistral unveiled a cloud platform that keeps all data within EU borders. Aimed at enterprises and governments that cannot use US-based AI services for compliance reasons.",
+      "source": "VentureBeat",
+      "published": "2026-03-07T16:00:00Z",
+      "link": "https://venturebeat.com/example"
+    },
+    {
+      "title": "AI-powered robotics startup Figure valued at $20B after new funding round",
+      "summary": "Figure, which builds humanoid robots powered by AI, raised $1.5B at a $20B valuation. The robots are already deployed in BMW and Amazon warehouses.",
+      "source": "TechCrunch",
+      "published": "2026-03-07T13:00:00Z",
+      "link": "https://techcrunch.com/example"
+    },
+    {
+      "title": "World Health Organization issues guidelines for AI in medical diagnosis",
+      "summary": "WHO released its first comprehensive framework for using AI in clinical settings. Requires human oversight for all diagnoses and bans fully autonomous treatment decisions.",
+      "source": "Reuters",
+      "published": "2026-03-07T10:00:00Z",
+      "link": "https://reuters.com/example"
+    },
+    {
+      "title": "Runway releases Gen-4: AI video indistinguishable from real footage in tests",
+      "summary": "Runway's new generation model passed a visual Turing test with 52% of viewers unable to tell generated clips from real video. Raises major concerns about deepfakes and misinformation.",
+      "source": "The Verge",
+      "published": "2026-03-07T07:30:00Z",
+      "link": "https://theverge.com/example"
+    },
+    {
+      "title": "This Jammer Wants to Block Always-Listening AI Wearables. It Probably Won’t Work",
+      "summary": "Deveillance’s Spectre I, developed by a recent Harvard grad, wants to give people control over the always-on wearables surrounding their lives. The problem?",
+      "source": "Wired",
+      "published": "2026-03-06T23:45:14+00:00",
+      "link": "https://www.wired.com/story/deveillance-spectre-i/"
+    },
+    {
+      "title": "Sam Altman predicts AGI by 2027 in new blog post",
+      "summary": "OpenAI's CEO published a lengthy essay arguing that artificial general intelligence is closer than most people think. He outlined a three-phase roadmap and called for global governance frameworks.",
+      "source": "Ars Technica",
+      "published": "2026-03-06T22:00:00Z",
+      "link": "https://arstechnica.com/example"
+    },
+    {
+      "title": "Is the Pentagon allowed to surveil Americans with AI?",
+      "summary": "The ongoing public feud between the Department of Defense and the AI company Anthropic has raised a deep and still unanswered question: Does the law actually allow the US government to conduct mass surveillance on Americans? Surprisingly, the answer is not straightforward.",
+      "source": "MIT Tech Review",
+      "published": "2026-03-06T19:21:22+00:00",
+      "link": "https://www.technologyreview.com/2026/03/06/1134012/is-the-pentagon-allowed-to-surveil-americans-with-ai/"
+    },
+    {
+      "title": "Scaling intelligent automation without breaking live workflows",
+      "summary": "Scaling intelligent automation without disruption demands a focus on architectural elasticity, not just deploying more bots. At the Intelligent Automation Conference, industry leaders gathered to dissect why many automation initiatives stall after pilot phases.",
+      "source": "AI News",
+      "published": "2026-03-06T13:15:41+00:00",
+      "link": "https://www.artificialintelligence-news.com/news/scaling-intelligent-automation-without-breaking-live-workflows/"
+    },
+    {
+      "title": "The Download: 10 things that matter in AI, plus Anthropic’s plan to sue the Pentagon",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.",
+      "source": "MIT Tech Review",
+      "published": "2026-03-06T13:10:00+00:00",
+      "link": "https://www.technologyreview.com/2026/03/06/1133989/the-download-10-things-that-matter-in-ai-anthropics-plan-sue-pentagon/"
+    },
+    {
+      "title": "Why Is Alexa+ So Bad?",
+      "summary": "I stuck Amazon’s Echo Show 15 and its Alexa+ AI assistant in my kitchen for a month. Things have not gone well.",
+      "source": "Wired",
+      "published": "2026-03-06T11:00:00+00:00",
+      "link": "https://www.wired.com/story/why-is-amazon-alexa-plus-so-bad/"
+    },
+    {
+      "title": "The firm that never forgets: Rowspace launches with $50M to make AI for private equity actually work",
+      "summary": "Private equity runs on judgment–and judgment, it turns out, is extraordinarily hard to scale. Decades of deal memos, underwriting models, partner notes, and portfolio data are scattered across systems that were never designed to communicate with each other.",
+      "source": "AI News",
+      "published": "2026-03-06T10:00:00+00:00",
+      "link": "https://www.artificialintelligence-news.com/news/rowspace-50m-ai-private-equity-sequoia-emergence/"
+    },
+    {
+      "title": "The Download: an AI agent’s hit piece, and preventing lightning",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.",
+      "source": "MIT Tech Review",
+      "published": "2026-03-05T14:28:46+00:00",
+      "link": "https://www.technologyreview.com/2026/03/05/1133968/the-download-ai-agent-hit-piece-preventing-lightning/"
+    },
+    {
+      "title": "How much wildfire prevention is too much?",
+      "summary": "The race to prevent the worst wildfires has been an increasingly high-tech one. Companies are proposing AI fire detection systems and drones that can stamp out early blazes.",
+      "source": "MIT Tech Review",
+      "published": "2026-03-05T11:00:00+00:00",
+      "link": "https://www.technologyreview.com/2026/03/05/1133960/wildfire-prevention-limits/"
+    },
+    {
+      "title": "JPMorgan expands AI investment as tech spending nears $20B",
+      "summary": "Artificial intelligence is moving from pilot projects to core business systems inside large companies. One example comes from JPMorgan Chase, where rising AI investment is helping push the bank’s technology budget toward about US$19.8 billion in 2026.",
+      "source": "AI News",
+      "published": "2026-03-05T10:00:00+00:00",
+      "link": "https://www.artificialintelligence-news.com/news/jpmorgan-expands-ai-investment/"
+    },
+    {
+      "title": "Beyond the pilot: Dyna.Ai raises eight-figure Series A to put agentic AI in financial services to work",
+      "summary": "The financial services industry has a pilot problem. Institutions pour resources into AI proofs-of-concept, generate impressive dashboards, and then quietly watch momentum stall before anything reaches production.",
+      "source": "AI News",
+      "published": "2026-03-05T08:00:00+00:00",
+      "link": "https://www.artificialintelligence-news.com/news/dyna-ai-series-a-agentic-ai-financial-services/"
+    },
+    {
+      "title": "Physical AI is having its moment–and everyone wants a piece of it",
+      "summary": "There is a particular kind of momentum in the technology industry that announces itself not through a single breakthrough, but through the simultaneous convergence of many.",
+      "source": "AI News",
+      "published": "2026-03-04T12:00:00+00:00",
+      "link": "https://www.artificialintelligence-news.com/news/physical-ai-global-race-robots-manufacturing-2026/"
+    },
+    {
+      "title": "AI agents prefer Bitcoin shaping new finance architecture",
+      "summary": "AI agents prefer Bitcoin for digital wealth storage, forcing finance chiefs to adapt their architecture for machine autonomy. When AI systems gain economic autonomy, their internal logic dictates how corporate capital flows.",
+      "source": "AI News",
+      "published": "2026-03-04T10:52:45+00:00",
+      "link": "https://www.artificialintelligence-news.com/news/ai-agents-prefer-bitcoin-new-finance-architecture/"
+    },
+    {
+      "title": "Google makes its industrial robotics AI play official–and this time, it means business",
+      "summary": "When Google folds a moonshot into its core operations, it’s not cleaning house. It’s placing a bet.",
+      "source": "AI News",
+      "published": "2026-03-04T08:00:00+00:00",
+      "link": "https://www.artificialintelligence-news.com/news/google-industrial-robotics-ai-physical-ai-intrinsic/"
+    },
+    {
+      "title": "LLMs can unmask pseudonymous users at scale with surprising accuracy",
+      "summary": "Pseudonymity has never been perfect for preserving privacy. Soon it may be pointless.",
+      "source": "Ars Technica",
+      "published": "2026-03-03T12:30:24+00:00",
+      "link": "https://arstechnica.com/security/2026/03/llms-can-unmask-pseudonymous-users-at-scale-with-surprising-accuracy/"
+    },
+    {
+      "title": "New AirSnitch attack bypasses Wi-Fi encryption in homes, offices, and enterprises",
+      "summary": "That guest network you set up for your neighbors may not be as secure as you think.",
+      "source": "Ars Technica",
+      "published": "2026-02-26T15:45:18+00:00",
+      "link": "https://arstechnica.com/security/2026/02/new-airsnitch-attack-breaks-wi-fi-encryption-in-homes-offices-and-enterprises/"
+    },
+    {
+      "title": "Retraction: After a routine code rejection, an AI agent published a hit piece on someone by name",
+      "summary": "This story has been retracted",
+      "source": "Ars Technica",
+      "published": "2026-02-13T19:40:21+00:00",
+      "link": "https://arstechnica.com/ai/2026/02/after-a-routine-code-rejection-an-ai-agent-published-a-hit-piece-on-someone-by-name/"
+    },
+    {
+      "title": "OpenAI sidesteps Nvidia with unusually fast coding model on plate-sized chips",
+      "summary": "OpenAI's new GPT‑5.3‑Codex‑Spark is 15 times faster at coding than its predecessor.",
+      "source": "Ars Technica",
+      "published": "2026-02-12T22:56:02+00:00",
+      "link": "https://arstechnica.com/ai/2026/02/openai-sidesteps-nvidia-with-unusually-fast-coding-model-on-plate-sized-chips/"
+    },
+    {
+      "title": "Attackers prompted Gemini over 100,000 times while trying to clone it, Google says",
+      "summary": "Distillation technique lets copycats mimic Gemini at a fraction of the development cost.",
+      "source": "Ars Technica",
+      "published": "2026-02-12T19:42:08+00:00",
+      "link": "https://arstechnica.com/ai/2026/02/attackers-prompted-gemini-over-100000-times-while-trying-to-clone-it-google-says/"
+    },
+    {
+      "title": "Once-hobbled Lumma Stealer is back with lures that are hard to resist",
+      "summary": "ClickFix bait, combined with advanced Castleloader malware, is installing Lumma \"at scale.\"",
+      "source": "Ars Technica",
+      "published": "2026-02-11T22:11:40+00:00",
+      "link": "https://arstechnica.com/security/2026/02/once-hobbled-lumma-stealer-is-back-with-lures-that-are-hard-to-resist/"
+    },
+    {
+      "title": "OpenAI researcher quits over ChatGPT ads, warns of \"Facebook\" path",
+      "summary": "Zoë Hitzig resigned on the same day OpenAI began testing ads in its chatbot.",
+      "source": "Ars Technica",
+      "published": "2026-02-11T20:44:19+00:00",
+      "link": "https://arstechnica.com/information-technology/2026/02/openai-researcher-quits-over-fears-that-chatgpt-ads-could-manipulate-users/"
+    },
+    {
+      "title": "Sixteen Claude AI agents working together created a new C compiler",
+      "summary": "The $20,000 experiment compiled a Linux kernel but needed deep human management.",
+      "source": "Ars Technica",
+      "published": "2026-02-06T23:40:58+00:00",
+      "link": "https://arstechnica.com/ai/2026/02/sixteen-claude-ai-agents-working-together-created-a-new-c-compiler/"
+    },
+    {
+      "title": "AI companies want you to stop chatting with bots and start managing them",
+      "summary": "Claude Opus 4.6 and OpenAI Frontier pitch a future of supervising AI agents.",
+      "source": "Ars Technica",
+      "published": "2026-02-05T22:47:54+00:00",
+      "link": "https://arstechnica.com/information-technology/2026/02/ai-companies-want-you-to-stop-chatting-with-bots-and-start-managing-them/"
+    },
+    {
+      "title": "OpenAI is hoppin' mad about Anthropic's new Super Bowl TV ads",
+      "summary": "Sam Altman calls AI competitor \"dishonest\" and \"authoritarian\" in lengthy post on X.",
+      "source": "Ars Technica",
+      "published": "2026-02-05T17:46:59+00:00",
+      "link": "https://arstechnica.com/information-technology/2026/02/openai-is-hoppin-mad-about-anthropics-new-super-bowl-tv-ads/"
+    },
+    {
+      "title": "Increase of AI bots on the Internet sparks arms race",
+      "summary": "Publishers are rolling out more aggressive defenses.",
+      "source": "Ars Technica",
+      "published": "2026-02-05T14:21:20+00:00",
+      "link": "https://arstechnica.com/ai/2026/02/increase-of-ai-bots-on-the-internet-sparks-arms-race/"
+    },
+    {
+      "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
+      "summary": "Railway, a San Francisco-based cloud platform that has quietly amassed two million developers without spending a dollar on marketing, announced Thursday that it raised $100 million in a Series B funding round, as surging demand for artificial intelligence applications exposes...",
+      "source": "VentureBeat",
+      "published": "2026-01-22T14:00:00+00:00",
+      "link": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud"
+    },
+    {
+      "title": "Claude Code costs up to $200 a month. Goose does the same thing for free.",
+      "summary": "The artificial intelligence coding revolution comes with a catch: it's expensive.Claude Code, Anthropic's terminal-based AI agent that can write, debug, and deploy code autonomously, has captured the imagination of software developers worldwide.",
+      "source": "VentureBeat",
+      "published": "2026-01-19T14:00:00+00:00",
+      "link": "https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free"
+    },
+    {
+      "title": "Listen Labs raises $69M after viral billboard hiring stunt to scale AI customer interviews",
+      "summary": "Alfred Wahlforss was running out of options. His startup, Listen Labs, needed to hire over 100 engineers, but competing against Mark Zuckerberg's $100 million offers seemed impossible.",
+      "source": "VentureBeat",
+      "published": "2026-01-16T14:01:00+00:00",
+      "link": "https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai"
+    },
+    {
+      "title": "Salesforce rolls out new Slackbot AI agent as it battles Microsoft and Google in workplace AI",
+      "summary": "Salesforce on Tuesday launched an entirely rebuilt version of Slackbot, the company's workplace assistant, transforming it from a simple notification tool into what executives describe as a fully powered AI agent capable of searching enterprise data, drafting documents, and...",
+      "source": "VentureBeat",
+      "published": "2026-01-13T13:00:00+00:00",
+      "link": "https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and"
+    },
+    {
+      "title": "Anthropic launches Cowork, a Claude Desktop agent that works in your files — no coding required",
+      "summary": "Anthropic released Cowork on Monday, a new AI agent capability that extends the power of its wildly successful Claude Code tool to non-technical users — and according to company insiders, the team built the entire feature in approximately a week and a half, largely using Claude...",
+      "source": "VentureBeat",
+      "published": "2026-01-12T11:30:00+00:00",
+      "link": "https://venturebeat.com/technology/anthropic-launches-cowork-a-claude-desktop-agent-that-works-in-your-files-no"
+    },
+    {
+      "title": "Nous Research's NousCoder-14B is an open-source coding model landing right in the Claude Code moment",
+      "summary": "Nous Research, the open-source artificial intelligence startup backed by crypto venture firm Paradigm, released a new competitive programming model on Monday that it says matches or exceeds several larger proprietary systems — trained in just four days using 48 of Nvidia's...",
+      "source": "VentureBeat",
+      "published": "2026-01-07T20:00:00+00:00",
+      "link": "https://venturebeat.com/technology/nous-researchs-nouscoder-14b-is-an-open-source-coding-model-landing-right-in"
+    },
+    {
+      "title": "The creator of Claude Code just revealed his workflow, and developers are losing their minds",
+      "summary": "When the creator of the world's most advanced coding agent speaks, Silicon Valley doesn't just listen — it takes notes.For the past week, the engineering community has been dissecting a thread on X from Boris Cherny, the creator and head of Claude Code at Anthropic.",
+      "source": "VentureBeat",
+      "published": "2026-01-05T07:45:00+00:00",
+      "link": "https://venturebeat.com/technology/the-creator-of-claude-code-just-revealed-his-workflow-and-developers-are"
+    }
+  ]
+};
