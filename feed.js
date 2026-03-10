@@ -1,6 +1,20 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-03-10T19:26:30.645311+00:00",
+  "lastUpdated": "2026-03-10T21:53:53.748445+00:00",
   "items": [
+    {
+      "title": "Ford is giving its commercial fleet business an AI makeover",
+      "summary": "Ford announced a new AI-powered service for its commercial fleet and telematics software customers called Ford Pro AI.",
+      "source": "The Verge",
+      "published": "2026-03-10T21:30:00+00:00",
+      "link": "https://www.theverge.com/transportation/892010/ford-pro-ai-telematics-commercial-fleet"
+    },
+    {
+      "title": "Amazon launches its healthcare AI assistant on its website and app",
+      "summary": "Health AI can answer questions, explain health records, manage prescription renewals, book appointments, and more.",
+      "source": "TechCrunch",
+      "published": "2026-03-10T20:10:06+00:00",
+      "link": "https://techcrunch.com/2026/03/10/amazon-launches-its-healthcare-ai-assistant-on-its-website-and-app/"
+    },
     {
       "title": "Amazon gets court order blocking Perplexity's AI shopping agent",
       "summary": "Amazon stops Perplexity's shopping bot by court order: a ruling that could shape the future of AI agents in e-commerce. The article Amazon gets court order blocking Perplexity's AI shopping agent appeared first on The Decoder.",
@@ -9,11 +23,25 @@ const FEED_DATA = {
       "link": "https://the-decoder.com/amazon-gets-court-order-blocking-perplexitys-ai-shopping-agent/"
     },
     {
+      "title": "AI-powered apps struggle with long-term retention, new report shows",
+      "summary": "AI can drive stronger early monetization for apps, but sustaining value remains the challenge, RevenueCat's latest report finds.",
+      "source": "TechCrunch",
+      "published": "2026-03-10T18:42:33+00:00",
+      "link": "https://techcrunch.com/2026/03/10/ai-powered-apps-struggle-with-long-term-retention-new-report-shows/"
+    },
+    {
       "title": "AI-powered apps can make money, but struggle with long-term retention, new data shows",
       "summary": "AI can drive stronger early monetization for apps, but sustaining value remains the challenge, RevenueCat's latest report finds.",
       "source": "TechCrunch",
       "published": "2026-03-10T18:42:33+00:00",
       "link": "https://techcrunch.com/2026/03/10/ai-powered-apps-can-make-money-but-struggle-with-long-term-retention-new-data-shows/"
+    },
+    {
+      "title": "Judge orders Perplexity to stop AI agents from shopping on Amazon",
+      "summary": "A federal judge has issued an order blocking Perplexity's web browser-based AI agents from placing Amazon orders on a user's behalf, as reported earlier by Bloomberg.",
+      "source": "The Verge",
+      "published": "2026-03-10T18:11:43+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/892401/amazon-perplexity-ai-shopping-agent-court-order"
     },
     {
       "title": "Judge blocks Perplexity’s AI agents from shopping on Amazon",
@@ -31,7 +59,7 @@ const FEED_DATA = {
     },
     {
       "title": "ChatGPT can now create interactive visuals to help you understand math and science concepts",
-      "summary": "On Tuesday, OpenAI introduced dynamic visual explanations, a new ChatGPT feature that allows users to see how formulas, variables, and mathematical relationships change in real time.",
+      "summary": "Instead of just reading an explanation or looking at a static diagram, users can now engage directly with interactive visuals.",
       "source": "TechCrunch",
       "published": "2026-03-10T17:51:25+00:00",
       "link": "https://techcrunch.com/2026/03/10/chatgpt-can-now-create-interactive-visuals-to-help-you-understand-math-and-science-concepts/"
