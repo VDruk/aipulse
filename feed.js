@@ -1,6 +1,83 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-03-10T15:28:57.210478+00:00",
+  "lastUpdated": "2026-03-10T19:26:30.645311+00:00",
   "items": [
+    {
+      "title": "Amazon gets court order blocking Perplexity's AI shopping agent",
+      "summary": "Amazon stops Perplexity's shopping bot by court order: a ruling that could shape the future of AI agents in e-commerce. The article Amazon gets court order blocking Perplexity's AI shopping agent appeared first on The Decoder.",
+      "source": "The Decoder",
+      "published": "2026-03-10T19:11:01+00:00",
+      "link": "https://the-decoder.com/amazon-gets-court-order-blocking-perplexitys-ai-shopping-agent/"
+    },
+    {
+      "title": "AI-powered apps can make money, but struggle with long-term retention, new data shows",
+      "summary": "AI can drive stronger early monetization for apps, but sustaining value remains the challenge, RevenueCat's latest report finds.",
+      "source": "TechCrunch",
+      "published": "2026-03-10T18:42:33+00:00",
+      "link": "https://techcrunch.com/2026/03/10/ai-powered-apps-can-make-money-but-struggle-with-long-term-retention-new-data-shows/"
+    },
+    {
+      "title": "Judge blocks Perplexity’s AI agents from shopping on Amazon",
+      "summary": "A federal judge has issued an order blocking Perplexity's web browser-based AI agents from placing Amazon orders on a user's behalf, as reported earlier by Bloomberg.",
+      "source": "The Verge",
+      "published": "2026-03-10T18:11:43+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/892401/amazon-perplexity-ai-shopping-agent-court-order"
+    },
+    {
+      "title": "ChatGPT now explains math and physics with interactive visualizations",
+      "summary": "ChatGPT now displays interactive visualizations for math and physics topics where users can tweak variables and watch graphs update in real time. More than 70 concepts are available at launch.",
+      "source": "The Decoder",
+      "published": "2026-03-10T18:05:07+00:00",
+      "link": "https://the-decoder.com/chatgpt-now-explains-math-and-physics-with-interactive-visualizations/"
+    },
+    {
+      "title": "ChatGPT can now create interactive visuals to help you understand math and science concepts",
+      "summary": "On Tuesday, OpenAI introduced dynamic visual explanations, a new ChatGPT feature that allows users to see how formulas, variables, and mathematical relationships change in real time.",
+      "source": "TechCrunch",
+      "published": "2026-03-10T17:51:25+00:00",
+      "link": "https://techcrunch.com/2026/03/10/chatgpt-can-now-create-interactive-visuals-to-help-you-understand-math-and-science-concepts/"
+    },
+    {
+      "title": "ABB: Physical AI simulation boosts ROI for factory automation",
+      "summary": "A new ABB and NVIDIA partnership shows physical AI simulation is driving real ROI in factory automation and solving production hurdles. Manufacturers have often found it difficult to make intelligent robotics work reliably outside testing environments.",
+      "source": "AI News",
+      "published": "2026-03-10T17:22:41+00:00",
+      "link": "https://www.artificialintelligence-news.com/news/abb-physical-ai-simulation-secures-factory-automation-roi/"
+    },
+    {
+      "title": "German court says \"It's AI\" isn't enough to void copyright",
+      "summary": "A German regional court has ruled that song lyrics written by a human are still protected by copyright, even if the music was made with AI tools like SunoAI. Simply claiming a work is AI-generated isn't enough to strip that protection, you need proof.",
+      "source": "The Decoder",
+      "published": "2026-03-10T17:12:57+00:00",
+      "link": "https://the-decoder.com/german-court-says-its-ai-isnt-enough-to-void-copyright/"
+    },
+    {
+      "title": "Fake AI Content About the Iran War Is All Over X",
+      "summary": "X’s Grok is failing to accurately verify video footage from the Iran conflict and is sharing its own AI-generated images about the war.",
+      "source": "Wired",
+      "published": "2026-03-10T16:45:47+00:00",
+      "link": "https://www.wired.com/story/fake-ai-content-about-the-iran-war-is-all-over-x/"
+    },
+    {
+      "title": "Amazon makes senior engineers the human filter for AI-generated code after a series of outages",
+      "summary": "Following a series of allegedly AI-caused outages, Amazon is turning its senior engineers into human filters for AI-generated code. The article Amazon makes senior engineers the human filter for AI-generated code after a series of outages appeared first on The Decoder.",
+      "source": "The Decoder",
+      "published": "2026-03-10T16:10:12+00:00",
+      "link": "https://the-decoder.com/amazon-makes-senior-engineers-the-human-filter-for-ai-generated-code-after-a-series-of-outages/"
+    },
+    {
+      "title": "AgentMail raises $6M to build an email service for AI agents",
+      "summary": "AgentMail provides an API platform that lets you give AI agents their own email inboxes, with support for two-way conversations, parsing, threading, labeling, searching, and replying.",
+      "source": "TechCrunch",
+      "published": "2026-03-10T16:00:00+00:00",
+      "link": "https://techcrunch.com/2026/03/10/agentmail-raises-6m-to-build-an-email-service-for-ai-agents/"
+    },
+    {
+      "title": "Grammarly will keep using authors’ identities without permission unless they opt out",
+      "summary": "Last week, my colleagues discovered that Superhuman's Grammarly had turned me into an AI editor, using my real name, without ever asking my permission.",
+      "source": "The Verge",
+      "published": "2026-03-10T15:54:42+00:00",
+      "link": "https://www.theverge.com/tech/891822/grammarly-superhuman-expert-review-names-without-permission-opt-out-email"
+    },
     {
       "title": "Meta acquires Moltbook, the Reddit-like network for AI agents",
       "summary": "Meta is acquiring Moltbook, a Reddit-like platform where AI agents can make and comment on posts, as first reported by Axios.",
@@ -17,7 +94,7 @@ const FEED_DATA = {
     },
     {
       "title": "Thinking Machines Lab inks massive compute deal with Nvidia",
-      "summary": "The multi-year deal involves at least a gigawatt of compute power and also includes a strategic investment from Nvidia",
+      "summary": "The multi-year deal involves at least a gigawatt of compute power and also includes a strategic investment from Nvidia.",
       "source": "TechCrunch",
       "published": "2026-03-10T15:08:39+00:00",
       "link": "https://techcrunch.com/2026/03/10/thinking-machines-lab-inks-massive-compute-deal-with-nvidia/"
@@ -30,11 +107,25 @@ const FEED_DATA = {
       "link": "https://techcrunch.com/2026/03/10/google-gives-in-to-users-complaints-over-ai-powered-ask-photos-search-feature/"
     },
     {
+      "title": "Legora reaches $5.55 billion valuation as AI legal tech boom endures",
+      "summary": "Legora, an AI platform for lawyers, is now valued at $5.55 billion following a $550 million Series D led by Accel to fuel its growth in the U.S.",
+      "source": "TechCrunch",
+      "published": "2026-03-10T14:34:24+00:00",
+      "link": "https://techcrunch.com/2026/03/10/legora-reaches-5-55-billion-valuation-as-ai-legaltech-boom-endures/"
+    },
+    {
       "title": "Legora reaches $5.55 billion valuation as AI legaltech boom endures",
       "summary": "Legora, an AI platform for lawyers, is now valued at $5.55 billion following a $550 million Series D led by Accel to fuel its growth in the U.S.",
       "source": "TechCrunch",
       "published": "2026-03-10T14:34:24+00:00",
       "link": "https://techcrunch.com/2026/03/10/legora-reaches-5-55-billion-valuation-as-ai-legaltech-boom-endures/"
+    },
+    {
+      "title": "Meta acquired Moltbook, the AI agent social network that went viral because of fake posts",
+      "summary": "Meta says that Moltbook's approach to \"connecting agents through an always-on-directory\" is novel.",
+      "source": "TechCrunch",
+      "published": "2026-03-10T14:32:05+00:00",
+      "link": "https://techcrunch.com/2026/03/10/meta-acquired-moltbook-the-ai-agent-social-network-that-went-viral-because-of-fake-posts/"
     },
     {
       "title": "Meta acquires Moltbook, the Reddit-style platform built for AI agents",
@@ -66,14 +157,14 @@ const FEED_DATA = {
     },
     {
       "title": "Adobe is debuting an AI assistant for Photoshop",
-      "summary": "Adobe is also adding new AI-powered image editing features to Firefly.",
+      "summary": "Adobe is also adding new AI-powered image-editing features to Firefly.",
       "source": "TechCrunch",
       "published": "2026-03-10T13:06:51+00:00",
       "link": "https://techcrunch.com/2026/03/10/adobe-is-debuting-an-ai-assistant-for-photoshop/"
     },
     {
       "title": "Zoom introduces an AI-powered office suite, says AI avatars for meetings arrive this month",
-      "summary": "Zoom is also introducing a real-time deepfake detection tech for meetings",
+      "summary": "Zoom is also introducing real-time deepfake detection tech for meetings.",
       "source": "TechCrunch",
       "published": "2026-03-10T13:00:00+00:00",
       "link": "https://techcrunch.com/2026/03/10/zoom-launches-an-ai-powered-office-suite-says-ai-avatars-for-meetings-are-coming-soon/"
@@ -205,8 +296,8 @@ const FEED_DATA = {
       "link": "https://www.ft.com/content/7cab4ec7-4712-4137-b602-119a44f771de"
     },
     {
-      "title": "Yann LeCun’s AMI Labs raises $1.03 billion to build world models",
-      "summary": "AMI Labs, the new venture cofounded by Turing Prize winner Yann LeCun after he left Meta, has raised $1.03 billion at a $3.5 billion pre-money valuation.",
+      "title": "Yann LeCun’s AMI Labs raises $1.03B to build world models",
+      "summary": "“My prediction is that ‘world models’ will be the next buzzword,” AMI Labs CEO Alexandre LeBrun told TechCrunch. “In six months, every company will call itself a world model to raise funding.”",
       "source": "TechCrunch",
       "published": "2026-03-10T05:00:00+00:00",
       "link": "https://techcrunch.com/2026/03/09/yann-lecuns-ami-labs-raises-1-03-billion-to-build-world-models/"
@@ -217,6 +308,13 @@ const FEED_DATA = {
       "source": "Wired",
       "published": "2026-03-10T05:00:00+00:00",
       "link": "https://www.wired.com/story/yann-lecun-raises-dollar1-billion-to-build-ai-that-understands-the-physical-world/"
+    },
+    {
+      "title": "Yann LeCun’s AMI Labs raises $1.03 billion to build world models",
+      "summary": "AMI Labs, the new venture cofounded by Turing Prize winner Yann LeCun after he left Meta, has raised $1.03 billion at a $3.5 billion pre-money valuation.",
+      "source": "TechCrunch",
+      "published": "2026-03-10T05:00:00+00:00",
+      "link": "https://techcrunch.com/2026/03/09/yann-lecuns-ami-labs-raises-1-03-billion-to-build-world-models/"
     },
     {
       "title": "Anthropic raises $8B Series E at $120B valuation",
