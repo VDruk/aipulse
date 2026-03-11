@@ -1,6 +1,83 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-03-11T15:34:34.056327+00:00",
+  "lastUpdated": "2026-03-11T19:32:26.641084+00:00",
   "items": [
+    {
+      "title": "Replit snags $9B valuation 6 months after hitting $3B",
+      "summary": "Replit raised a new $400 million round and said it hopes to have $1B in ARR by year's end.",
+      "source": "TechCrunch",
+      "published": "2026-03-11T18:52:52+00:00",
+      "link": "https://techcrunch.com/2026/03/11/replit-snags-9b-valuation-6-months-after-hitting-3b/"
+    },
+    {
+      "title": "Grammarly says it will stop using AI to clone experts without permission",
+      "summary": "Superhuman says it has disabled Grammarly's \"expert review\" AI feature that said its edit suggestions were \"inspired by\" real writers, including our editor-in-chief and other Verge staff members.",
+      "source": "The Verge",
+      "published": "2026-03-11T18:45:50+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/893270/grammarly-ai-expert-review-disabled"
+    },
+    {
+      "title": "Google unifies text, image, video, and audio in a single vector space with Gemini Embedding 2",
+      "summary": "Google's first native multimodal embedding model brings text, images, video, audio, and documents into one vector space, cutting out the need for separate models in AI pipelines.",
+      "source": "The Decoder",
+      "published": "2026-03-11T18:41:30+00:00",
+      "link": "https://the-decoder.com/google-unifies-text-image-video-and-audio-in-a-single-vector-space-with-gemini-embedding-2/"
+    },
+    {
+      "title": "Nvidia Will Spend $26 Billion to Build Open-Weight AI Models, Filings Show",
+      "summary": "The move could position the AI infrastructure powerhouse to quickly compete with OpenAI, Anthropic, and DeepSeek.",
+      "source": "Wired",
+      "published": "2026-03-11T18:00:00+00:00",
+      "link": "https://www.wired.com/story/nvidia-investing-26-billion-open-source-models/"
+    },
+    {
+      "title": "Half of AI-written code that passes industry test would get rejected by real developers, new study finds",
+      "summary": "About half of the AI code solutions that pass the popular SWE-bench benchmark would get rejected by actual project maintainers, according to a new study by the research organization METR.",
+      "source": "The Decoder",
+      "published": "2026-03-11T17:49:58+00:00",
+      "link": "https://the-decoder.com/half-of-ai-written-code-that-passes-industry-test-would-get-rejected-by-real-developers-new-study-finds/"
+    },
+    {
+      "title": "Claude's Excel and PowerPoint add-ins now share context across apps",
+      "summary": "Anthropic is updating its Claude add-ins for Excel and PowerPoint with shared context, reusable workflows, and broader cloud support. The article Claude's Excel and PowerPoint add-ins now share context across apps appeared first on The Decoder.",
+      "source": "The Decoder",
+      "published": "2026-03-11T17:00:59+00:00",
+      "link": "https://the-decoder.com/claudes-excel-and-powerpoint-add-ins-now-share-context-across-apps/"
+    },
+    {
+      "title": "Ai2: Building physical AI with virtual simulation data",
+      "summary": "Virtual simulation data is driving the development of physical AI across corporate environments, led by initiatives like Ai2’s MolmoBot. Instructing hardware to interact with the real world has historically relied on highly expensive and manually-collected demonstrations.",
+      "source": "AI News",
+      "published": "2026-03-11T16:50:56+00:00",
+      "link": "https://www.artificialintelligence-news.com/news/ai2-building-physical-ai-with-virtual-simulation-data/"
+    },
+    {
+      "title": "OpenAI’s Sora video generator is reportedly coming to ChatGPT",
+      "summary": "OpenAI's Sora video generator could soon become a built-in feature in ChatGPT, as reported by The Information. Sora is currently only available on its website or as a standalone app, which has fallen shy of the popularity of ChatGPT.",
+      "source": "The Verge",
+      "published": "2026-03-11T16:50:45+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/893189/openai-chatgpt-sora-integration"
+    },
+    {
+      "title": "WordPress debuts a private workspace that runs in your browser via a new service, my.WordPress.net",
+      "summary": "WordPress’s new browser-based service lets users create private sites without hosting or signing up, turning the platform into a personal workspace for writing, research, and AI tools.",
+      "source": "TechCrunch",
+      "published": "2026-03-11T16:43:59+00:00",
+      "link": "https://techcrunch.com/2026/03/11/wordpress-debuts-a-private-workspace-that-runs-in-your-browser-via-a-new-service-my-wordpress-net/"
+    },
+    {
+      "title": "Grammarly's AI writing tips claim inspiration from experts who never agreed to participate",
+      "summary": "Grammarly is apparently using the names of journalists and authors without permission for an AI feature called \"Expert Review.\" The article Grammarly's AI writing tips claim inspiration from experts who never agreed to participate appeared first on The Decoder.",
+      "source": "The Decoder",
+      "published": "2026-03-11T16:40:01+00:00",
+      "link": "https://the-decoder.com/grammarlys-ai-writing-tips-claim-inspiration-from-experts-who-never-agreed-to-participate/"
+    },
+    {
+      "title": "Rivian spin-out Mind Robotics raises $500M for industrial AI-powered robots",
+      "summary": "The startup, which was created by Rivian founder RJ Scaringe, is looking to train on data from, and deploy in, Rivian's factory.",
+      "source": "TechCrunch",
+      "published": "2026-03-11T16:12:02+00:00",
+      "link": "https://techcrunch.com/2026/03/11/rivian-mind-robotics-series-a-500m-fund-raise-industrial-ai-powered-robots/"
+    },
     {
       "title": "OpenAI's new training dataset teaches AI models which instructions to trust",
       "summary": "OpenAI has released IH-Challenge, a training dataset designed to teach AI models to reliably prioritize trusted instructions over untrusted ones. Early results show significant improvements in both security and prompt injection defense.",
@@ -23,6 +100,13 @@ const FEED_DATA = {
       "link": "https://the-decoder.com/an-ai-agent-hacked-mckinseys-internal-ai-platform-in-two-hours-using-a-decades-old-technique/"
     },
     {
+      "title": "Meta’s Moltbook deal points to a future built around AI agents",
+      "summary": "Meta’s Moltbook acquisition may look odd at first, but the deal could signal how Meta sees AI agents shaping future advertising and commerce on an agentic web.",
+      "source": "TechCrunch",
+      "published": "2026-03-11T15:11:31+00:00",
+      "link": "https://techcrunch.com/2026/03/11/metas-moltbook-deal-points-to-a-future-built-around-ai-agents/"
+    },
+    {
       "title": "Meta didn’t buy Moltbook for bots — it bought into the agentic web",
       "summary": "Meta’s Moltbook acquisition may look odd at first, but the deal could signal how Meta sees AI agents shaping future advertising and commerce on an agentic web.",
       "source": "TechCrunch",
@@ -42,6 +126,13 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-03-11T14:48:30+00:00",
       "link": "https://techcrunch.com/2026/03/11/amazon-expands-a-program-that-lets-customers-shop-from-other-retailers-sites/"
+    },
+    {
+      "title": "Show HN: Open-source browser for AI agents",
+      "summary": "Hi HN, I forked chromium and built agent-browser-protocol (ABP) after noticing that most browser-agent failures aren’t really about the model misunderstanding the page.",
+      "source": "Hacker News",
+      "published": "2026-03-11T14:39:30+00:00",
+      "link": "https://github.com/theredsix/agent-browser-protocol"
     },
     {
       "title": "Meta Is Developing 4 New Chips to Power Its AI and Recommendation Systems",
@@ -142,6 +233,13 @@ const FEED_DATA = {
       "link": "https://www.artificialintelligence-news.com/news/manulife-moves-ai-agents-into-core-financial-workflows/"
     },
     {
+      "title": "How we hacked McKinsey's AI platform",
+      "summary": "Article URL: https://codewall.ai/blog/how-we-hacked-mckinseys-ai-platform Comments URL: https://news.ycombinator.com/item?id=47333627 Points: 291 # Comments: 110",
+      "source": "Hacker News",
+      "published": "2026-03-11T09:59:03+00:00",
+      "link": "https://codewall.ai/blog/how-we-hacked-mckinseys-ai-platform"
+    },
+    {
       "title": "AI Agent Hacks McKinsey",
       "summary": "Article URL: https://codewall.ai/blog/how-we-hacked-mckinseys-ai-platform Comments URL: https://news.ycombinator.com/item?id=47333627 Points: 110 # Comments: 34",
       "source": "Hacker News",
@@ -163,15 +261,15 @@ const FEED_DATA = {
       "link": "https://www.theverge.com/ai-artificial-intelligence/892478/anthropic-institute-think-tank-claude-pentagon-jack-clark"
     },
     {
-      "title": "Google to Provide Pentagon with AI Agents",
-      "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-03-10/google-to-provide-pentagon-with-ai-agents-for-unclassified-work Comments URL: https://news.ycombinator.com/item?id=47333433 Points: 63 # Comments: 57",
+      "title": "Google to provide Pentagon with AI agents",
+      "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-03-10/google-to-provide-pentagon-with-ai-agents-for-unclassified-work Comments URL: https://news.ycombinator.com/item?id=47333433 Points: 68 # Comments: 66",
       "source": "Hacker News",
       "published": "2026-03-11T09:30:22+00:00",
       "link": "https://www.bloomberg.com/news/articles/2026-03-10/google-to-provide-pentagon-with-ai-agents-for-unclassified-work"
     },
     {
       "title": "Google brings Gemini in Chrome to India",
-      "summary": "As part of the rollout, Gemini will support languages including Hindi, Bengali, Gujarati, Kannada, Malayalam, Marathi, Telugu, and Tamil.",
+      "summary": "The rollout will let users access Gemini in Chrome through a sidebar on desktop, enabling them to ask Google's AI chatbot questions about the content on the screen; get information from their Gmail, Keep, Drive, and YouTube; and compare tab contents.",
       "source": "TechCrunch",
       "published": "2026-03-11T02:30:00+00:00",
       "link": "https://techcrunch.com/2026/03/10/google-gemini-chrome-expands-to-india-canada-new-zealand/"
@@ -332,7 +430,7 @@ const FEED_DATA = {
     },
     {
       "title": "Debian decides not to decide on AI-generated contributions",
-      "summary": "Article URL: https://lwn.net/SubscriberLink/1061544/125f911834966dd0/ Comments URL: https://news.ycombinator.com/item?id=47324087 Points: 358 # Comments: 270",
+      "summary": "Article URL: https://lwn.net/SubscriberLink/1061544/125f911834966dd0/ Comments URL: https://news.ycombinator.com/item?id=47324087 Points: 367 # Comments: 276",
       "source": "Hacker News",
       "published": "2026-03-10T14:53:13+00:00",
       "link": "https://lwn.net/SubscriberLink/1061544/125f911834966dd0/"
@@ -479,14 +577,14 @@ const FEED_DATA = {
     },
     {
       "title": "PgAdmin 4 9.13 with AI Assistant Panel",
-      "summary": "Article URL: https://www.pgadmin.org/docs/pgadmin4/9.13/query_tool.html#ai-assistant-panel Comments URL: https://news.ycombinator.com/item?id=47322033 Points: 92 # Comments: 31",
+      "summary": "Article URL: https://www.pgadmin.org/docs/pgadmin4/9.13/query_tool.html#ai-assistant-panel Comments URL: https://news.ycombinator.com/item?id=47322033 Points: 92 # Comments: 34",
       "source": "Hacker News",
       "published": "2026-03-10T11:58:36+00:00",
       "link": "https://www.pgadmin.org/docs/pgadmin4/9.13/query_tool.html#ai-assistant-panel"
     },
     {
       "title": "Yann LeCun's AI startup raises $1B in Europe's largest ever seed round",
-      "summary": "https://archive.md/5eZWq Comments URL: https://news.ycombinator.com/item?id=47321533 Points: 413 # Comments: 2",
+      "summary": "https://archive.md/5eZWq Comments URL: https://news.ycombinator.com/item?id=47321533 Points: 414 # Comments: 2",
       "source": "Hacker News",
       "published": "2026-03-10T10:50:30+00:00",
       "link": "https://www.ft.com/content/e5245ec3-1a58-4eff-ab58-480b6259aaf1"
@@ -507,14 +605,14 @@ const FEED_DATA = {
     },
     {
       "title": "Redox OS has adopted a Certificate of Origin policy and a strict no-LLM policy",
-      "summary": "Article URL: https://gitlab.redox-os.org/redox-os/redox/-/blob/master/CONTRIBUTING.md Comments URL: https://news.ycombinator.com/item?id=47320661 Points: 395 # Comments: 429",
+      "summary": "Article URL: https://gitlab.redox-os.org/redox-os/redox/-/blob/master/CONTRIBUTING.md Comments URL: https://news.ycombinator.com/item?id=47320661 Points: 399 # Comments: 436",
       "source": "Hacker News",
       "published": "2026-03-10T08:54:53+00:00",
       "link": "https://gitlab.redox-os.org/redox-os/redox/-/blob/master/CONTRIBUTING.md"
     },
     {
       "title": "Yann LeCun raises $1B to build AI that understands the physical world",
-      "summary": "https://web.archive.org/web/20260310153721/https://www.wired...https://www.ft.com/content/e5245ec3-1a58-4eff-ab58-480b6259a... (https://archive.md/5eZWq) Comments URL: https://news.ycombinator.com/item?id=47320600 Points: 546 # Comments: 450",
+      "summary": "https://web.archive.org/web/20260310153721/https://www.wired...https://www.ft.com/content/e5245ec3-1a58-4eff-ab58-480b6259a... (https://archive.md/5eZWq) Comments URL: https://news.ycombinator.com/item?id=47320600 Points: 587 # Comments: 471",
       "source": "Hacker News",
       "published": "2026-03-10T08:46:53+00:00",
       "link": "https://www.wired.com/story/yann-lecun-raises-dollar1-billion-to-build-ai-that-understands-the-physical-world/"
@@ -549,17 +647,10 @@ const FEED_DATA = {
     },
     {
       "title": "Amazon holds engineering meeting following AI-related outages",
-      "summary": "https://archive.ph/wXvF3 Comments URL: https://news.ycombinator.com/item?id=47319273 Points: 110 # Comments: 90",
+      "summary": "https://archive.ph/wXvF3 Comments URL: https://news.ycombinator.com/item?id=47319273 Points: 111 # Comments: 90",
       "source": "Hacker News",
       "published": "2026-03-10T05:07:59+00:00",
       "link": "https://www.ft.com/content/7cab4ec7-4712-4137-b602-119a44f771de"
-    },
-    {
-      "title": "Yann LeCun’s AMI Labs raises $1.03B to build world models",
-      "summary": "“My prediction is that ‘world models’ will be the next buzzword,” AMI Labs CEO Alexandre LeBrun told TechCrunch. “In six months, every company will call itself a world model to raise funding.”",
-      "source": "TechCrunch",
-      "published": "2026-03-10T05:00:00+00:00",
-      "link": "https://techcrunch.com/2026/03/09/yann-lecuns-ami-labs-raises-1-03-billion-to-build-world-models/"
     },
     {
       "title": "Yann LeCun Raises $1 Billion to Build AI That Understands the Physical World",
@@ -567,6 +658,13 @@ const FEED_DATA = {
       "source": "Wired",
       "published": "2026-03-10T05:00:00+00:00",
       "link": "https://www.wired.com/story/yann-lecun-raises-dollar1-billion-to-build-ai-that-understands-the-physical-world/"
+    },
+    {
+      "title": "Yann LeCun’s AMI Labs raises $1.03B to build world models",
+      "summary": "“My prediction is that ‘world models’ will be the next buzzword,” AMI Labs CEO Alexandre LeBrun told TechCrunch. “In six months, every company will call itself a world model to raise funding.”",
+      "source": "TechCrunch",
+      "published": "2026-03-10T05:00:00+00:00",
+      "link": "https://techcrunch.com/2026/03/09/yann-lecuns-ami-labs-raises-1-03-billion-to-build-world-models/"
     },
     {
       "title": "Yann LeCun’s AMI Labs raises $1.03 billion to build world models",
@@ -745,7 +843,7 @@ const FEED_DATA = {
     },
     {
       "title": "Is legal the same as legitimate: AI reimplementation and the erosion of copyleft",
-      "summary": "Article URL: https://writings.hongminhee.org/2026/03/legal-vs-legitimate/ Comments URL: https://news.ycombinator.com/item?id=47310160 Points: 560 # Comments: 578",
+      "summary": "Article URL: https://writings.hongminhee.org/2026/03/legal-vs-legitimate/ Comments URL: https://news.ycombinator.com/item?id=47310160 Points: 562 # Comments: 578",
       "source": "Hacker News",
       "published": "2026-03-09T15:12:53+00:00",
       "link": "https://writings.hongminhee.org/2026/03/legal-vs-legitimate/"
