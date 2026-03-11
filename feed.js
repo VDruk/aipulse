@@ -1,6 +1,48 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-03-11T07:33:59.547708+00:00",
+  "lastUpdated": "2026-03-11T11:06:08.974929+00:00",
   "items": [
+    {
+      "title": "Teens Are Using AI-Fueled ‘Slander Pages’ to Mock Their Teachers",
+      "summary": "Viral student-run TikTok and Instagram accounts are using AI to make memes of school faculty comparing them to figures like Jeffrey Epstein and Benjamin Netanyahu.",
+      "source": "Wired",
+      "published": "2026-03-11T11:00:00+00:00",
+      "link": "https://www.wired.com/story/teens-are-using-ai-fueled-slander-pages-to-mock-their-teachers/"
+    },
+    {
+      "title": "Nick Clegg Doesn’t Want to Talk About Superintelligence",
+      "summary": "After leaving Meta last year, the former deputy prime minister of the UK is charting a new path in the AI industry that has nothing to do with AGI.",
+      "source": "Wired",
+      "published": "2026-03-11T10:21:42+00:00",
+      "link": "https://www.wired.com/story/nick-clegg-ai-startup-efekta-superintelligence/"
+    },
+    {
+      "title": "Inside OpenAI’s Race to Catch Up to Claude Code",
+      "summary": "Why is the biggest name in AI late to the AI coding revolution?",
+      "source": "Wired",
+      "published": "2026-03-11T10:00:00+00:00",
+      "link": "https://www.wired.com/story/openai-codex-race-claude-code/"
+    },
+    {
+      "title": "Manulife moves AI agents into core financial workflows",
+      "summary": "Large financial firms have spent years testing artificial intelligence in small projects, often limited to data analysis or customer support tools. The next phase appears to involve something more operational: systems that can take action in business workflows.",
+      "source": "AI News",
+      "published": "2026-03-11T10:00:00+00:00",
+      "link": "https://www.artificialintelligence-news.com/news/manulife-moves-ai-agents-into-core-financial-workflows/"
+    },
+    {
+      "title": "How physical AI integration accelerates vehicle innovation",
+      "summary": "The integration of physical AI into vehicles remains a primary objective for automakers looking to accelerate innovation.",
+      "source": "AI News",
+      "published": "2026-03-11T09:52:15+00:00",
+      "link": "https://www.artificialintelligence-news.com/news/how-physical-ai-integration-accelerates-vehicle-innovation/"
+    },
+    {
+      "title": "Anthropic is launching a new think tank amid Pentagon blacklist fight",
+      "summary": "Amid a weekslong conflict with the Pentagon, resulting in a blacklist and a lawsuit, Anthropic is shaking up its C-suite and research initiatives.",
+      "source": "The Verge",
+      "published": "2026-03-11T09:45:00+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/892478/anthropic-institute-think-tank-claude-pentagon-jack-clark"
+    },
     {
       "title": "Google brings Gemini in Chrome to India",
       "summary": "As part of the rollout, Gemini will support languages including Hindi, Bengali, Gujarati, Kannada, Malayalam, Marathi, Telugu, and Tamil.",
@@ -150,7 +192,7 @@ const FEED_DATA = {
     },
     {
       "title": "Amazon is holding a mandatory meeting about AI breaking its systems",
-      "summary": "Article URL: https://twitter.com/lukolejnik/status/2031257644724342957 Comments URL: https://news.ycombinator.com/item?id=47324211 Points: 286 # Comments: 10",
+      "summary": "Article URL: https://twitter.com/lukolejnik/status/2031257644724342957 Comments URL: https://news.ycombinator.com/item?id=47324211 Points: 287 # Comments: 10",
       "source": "Hacker News",
       "published": "2026-03-10T15:01:35+00:00",
       "link": "https://twitter.com/lukolejnik/status/2031257644724342957"
@@ -164,7 +206,7 @@ const FEED_DATA = {
     },
     {
       "title": "Debian decides not to decide on AI-generated contributions",
-      "summary": "Article URL: https://lwn.net/SubscriberLink/1061544/125f911834966dd0/ Comments URL: https://news.ycombinator.com/item?id=47324087 Points: 317 # Comments: 240",
+      "summary": "Article URL: https://lwn.net/SubscriberLink/1061544/125f911834966dd0/ Comments URL: https://news.ycombinator.com/item?id=47324087 Points: 337 # Comments: 255",
       "source": "Hacker News",
       "published": "2026-03-10T14:53:13+00:00",
       "link": "https://lwn.net/SubscriberLink/1061544/125f911834966dd0/"
@@ -311,14 +353,14 @@ const FEED_DATA = {
     },
     {
       "title": "PgAdmin 4 9.13 with AI Assistant Panel",
-      "summary": "Article URL: https://www.pgadmin.org/docs/pgadmin4/9.13/query_tool.html#ai-assistant-panel Comments URL: https://news.ycombinator.com/item?id=47322033 Points: 86 # Comments: 30",
+      "summary": "Article URL: https://www.pgadmin.org/docs/pgadmin4/9.13/query_tool.html#ai-assistant-panel Comments URL: https://news.ycombinator.com/item?id=47322033 Points: 87 # Comments: 30",
       "source": "Hacker News",
       "published": "2026-03-10T11:58:36+00:00",
       "link": "https://www.pgadmin.org/docs/pgadmin4/9.13/query_tool.html#ai-assistant-panel"
     },
     {
       "title": "Yann LeCun's AI startup raises $1B in Europe's largest ever seed round",
-      "summary": "https://archive.md/5eZWq Comments URL: https://news.ycombinator.com/item?id=47321533 Points: 409 # Comments: 2",
+      "summary": "https://archive.md/5eZWq Comments URL: https://news.ycombinator.com/item?id=47321533 Points: 410 # Comments: 2",
       "source": "Hacker News",
       "published": "2026-03-10T10:50:30+00:00",
       "link": "https://www.ft.com/content/e5245ec3-1a58-4eff-ab58-480b6259aaf1"
@@ -339,14 +381,14 @@ const FEED_DATA = {
     },
     {
       "title": "Redox OS has adopted a Certificate of Origin policy and a strict no-LLM policy",
-      "summary": "Article URL: https://gitlab.redox-os.org/redox-os/redox/-/blob/master/CONTRIBUTING.md Comments URL: https://news.ycombinator.com/item?id=47320661 Points: 383 # Comments: 391",
+      "summary": "Article URL: https://gitlab.redox-os.org/redox-os/redox/-/blob/master/CONTRIBUTING.md Comments URL: https://news.ycombinator.com/item?id=47320661 Points: 386 # Comments: 411",
       "source": "Hacker News",
       "published": "2026-03-10T08:54:53+00:00",
       "link": "https://gitlab.redox-os.org/redox-os/redox/-/blob/master/CONTRIBUTING.md"
     },
     {
       "title": "Yann LeCun raises $1B to build AI that understands the physical world",
-      "summary": "https://web.archive.org/web/20260310153721/https://www.wired...https://www.ft.com/content/e5245ec3-1a58-4eff-ab58-480b6259a... (https://archive.md/5eZWq) Comments URL: https://news.ycombinator.com/item?id=47320600 Points: 430 # Comments: 358",
+      "summary": "https://web.archive.org/web/20260310153721/https://www.wired...https://www.ft.com/content/e5245ec3-1a58-4eff-ab58-480b6259a... (https://archive.md/5eZWq) Comments URL: https://news.ycombinator.com/item?id=47320600 Points: 479 # Comments: 393",
       "source": "Hacker News",
       "published": "2026-03-10T08:46:53+00:00",
       "link": "https://www.wired.com/story/yann-lecun-raises-dollar1-billion-to-build-ai-that-understands-the-physical-world/"
@@ -423,7 +465,7 @@ const FEED_DATA = {
     },
     {
       "title": "Learnings from paying artists royalties for AI-generated art",
-      "summary": "Article URL: https://www.kapwing.com/blog/learnings-from-paying-artists-royalties-for-ai-generated-art/ Comments URL: https://news.ycombinator.com/item?id=47318421 Points: 166 # Comments: 155",
+      "summary": "Article URL: https://www.kapwing.com/blog/learnings-from-paying-artists-royalties-for-ai-generated-art/ Comments URL: https://news.ycombinator.com/item?id=47318421 Points: 166 # Comments: 160",
       "source": "Hacker News",
       "published": "2026-03-10T02:24:52+00:00",
       "link": "https://www.kapwing.com/blog/learnings-from-paying-artists-royalties-for-ai-generated-art/"
@@ -493,7 +535,7 @@ const FEED_DATA = {
     },
     {
       "title": "Things I've Done with AI",
-      "summary": "Article URL: https://sjer.red/blog/2026/built-with-ai/ Comments URL: https://news.ycombinator.com/item?id=47314123 Points: 84 # Comments: 141",
+      "summary": "Article URL: https://sjer.red/blog/2026/built-with-ai/ Comments URL: https://news.ycombinator.com/item?id=47314123 Points: 84 # Comments: 142",
       "source": "Hacker News",
       "published": "2026-03-09T19:24:20+00:00",
       "link": "https://sjer.red/blog/2026/built-with-ai/"
@@ -577,7 +619,7 @@ const FEED_DATA = {
     },
     {
       "title": "Is legal the same as legitimate: AI reimplementation and the erosion of copyleft",
-      "summary": "Article URL: https://writings.hongminhee.org/2026/03/legal-vs-legitimate/ Comments URL: https://news.ycombinator.com/item?id=47310160 Points: 557 # Comments: 573",
+      "summary": "Article URL: https://writings.hongminhee.org/2026/03/legal-vs-legitimate/ Comments URL: https://news.ycombinator.com/item?id=47310160 Points: 557 # Comments: 577",
       "source": "Hacker News",
       "published": "2026-03-09T15:12:53+00:00",
       "link": "https://writings.hongminhee.org/2026/03/legal-vs-legitimate/"
@@ -598,7 +640,7 @@ const FEED_DATA = {
     },
     {
       "title": "Revealed: UK's multibillion AI drive is built on 'phantom investments'",
-      "summary": "Article URL: https://www.theguardian.com/technology/2026/mar/09/revealed-uks-multibillion-ai-drive-is-built-on-phantom-investments Comments URL: https://news.ycombinator.com/item?id=47309811 Points: 97 # Comments: 53",
+      "summary": "Article URL: https://www.theguardian.com/technology/2026/mar/09/revealed-uks-multibillion-ai-drive-is-built-on-phantom-investments Comments URL: https://news.ycombinator.com/item?id=47309811 Points: 99 # Comments: 53",
       "source": "Hacker News",
       "published": "2026-03-09T14:45:12+00:00",
       "link": "https://www.theguardian.com/technology/2026/mar/09/revealed-uks-multibillion-ai-drive-is-built-on-phantom-investments"
@@ -661,7 +703,7 @@ const FEED_DATA = {
     },
     {
       "title": "Nvidia backs AI data center startup Nscale as it hits $14.6B valuation",
-      "summary": "Article URL: https://www.cnbc.com/2026/03/09/nscale-ai-data-center-nvidia-raise.html Comments URL: https://news.ycombinator.com/item?id=47307419 Points: 52 # Comments: 52",
+      "summary": "Article URL: https://www.cnbc.com/2026/03/09/nscale-ai-data-center-nvidia-raise.html Comments URL: https://news.ycombinator.com/item?id=47307419 Points: 52 # Comments: 54",
       "source": "Hacker News",
       "published": "2026-03-09T10:58:15+00:00",
       "link": "https://www.cnbc.com/2026/03/09/nscale-ai-data-center-nvidia-raise.html"
