@@ -1,5 +1,5 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-03-11T05:15:52.753575+00:00",
+  "lastUpdated": "2026-03-11T07:33:59.547708+00:00",
   "items": [
     {
       "title": "Google brings Gemini in Chrome to India",
@@ -150,7 +150,7 @@ const FEED_DATA = {
     },
     {
       "title": "Amazon is holding a mandatory meeting about AI breaking its systems",
-      "summary": "Article URL: https://twitter.com/lukolejnik/status/2031257644724342957 Comments URL: https://news.ycombinator.com/item?id=47324211 Points: 284 # Comments: 10",
+      "summary": "Article URL: https://twitter.com/lukolejnik/status/2031257644724342957 Comments URL: https://news.ycombinator.com/item?id=47324211 Points: 286 # Comments: 10",
       "source": "Hacker News",
       "published": "2026-03-10T15:01:35+00:00",
       "link": "https://twitter.com/lukolejnik/status/2031257644724342957"
@@ -164,7 +164,7 @@ const FEED_DATA = {
     },
     {
       "title": "Debian decides not to decide on AI-generated contributions",
-      "summary": "Article URL: https://lwn.net/SubscriberLink/1061544/125f911834966dd0/ Comments URL: https://news.ycombinator.com/item?id=47324087 Points: 303 # Comments: 227",
+      "summary": "Article URL: https://lwn.net/SubscriberLink/1061544/125f911834966dd0/ Comments URL: https://news.ycombinator.com/item?id=47324087 Points: 317 # Comments: 240",
       "source": "Hacker News",
       "published": "2026-03-10T14:53:13+00:00",
       "link": "https://lwn.net/SubscriberLink/1061544/125f911834966dd0/"
@@ -311,7 +311,7 @@ const FEED_DATA = {
     },
     {
       "title": "PgAdmin 4 9.13 with AI Assistant Panel",
-      "summary": "Article URL: https://www.pgadmin.org/docs/pgadmin4/9.13/query_tool.html#ai-assistant-panel Comments URL: https://news.ycombinator.com/item?id=47322033 Points: 85 # Comments: 30",
+      "summary": "Article URL: https://www.pgadmin.org/docs/pgadmin4/9.13/query_tool.html#ai-assistant-panel Comments URL: https://news.ycombinator.com/item?id=47322033 Points: 86 # Comments: 30",
       "source": "Hacker News",
       "published": "2026-03-10T11:58:36+00:00",
       "link": "https://www.pgadmin.org/docs/pgadmin4/9.13/query_tool.html#ai-assistant-panel"
@@ -339,14 +339,14 @@ const FEED_DATA = {
     },
     {
       "title": "Redox OS has adopted a Certificate of Origin policy and a strict no-LLM policy",
-      "summary": "Article URL: https://gitlab.redox-os.org/redox-os/redox/-/blob/master/CONTRIBUTING.md Comments URL: https://news.ycombinator.com/item?id=47320661 Points: 381 # Comments: 390",
+      "summary": "Article URL: https://gitlab.redox-os.org/redox-os/redox/-/blob/master/CONTRIBUTING.md Comments URL: https://news.ycombinator.com/item?id=47320661 Points: 383 # Comments: 391",
       "source": "Hacker News",
       "published": "2026-03-10T08:54:53+00:00",
       "link": "https://gitlab.redox-os.org/redox-os/redox/-/blob/master/CONTRIBUTING.md"
     },
     {
       "title": "Yann LeCun raises $1B to build AI that understands the physical world",
-      "summary": "https://web.archive.org/web/20260310153721/https://www.wired...https://www.ft.com/content/e5245ec3-1a58-4eff-ab58-480b6259a... (https://archive.md/5eZWq) Comments URL: https://news.ycombinator.com/item?id=47320600 Points: 393 # Comments: 347",
+      "summary": "https://web.archive.org/web/20260310153721/https://www.wired...https://www.ft.com/content/e5245ec3-1a58-4eff-ab58-480b6259a... (https://archive.md/5eZWq) Comments URL: https://news.ycombinator.com/item?id=47320600 Points: 430 # Comments: 358",
       "source": "Hacker News",
       "published": "2026-03-10T08:46:53+00:00",
       "link": "https://www.wired.com/story/yann-lecun-raises-dollar1-billion-to-build-ai-that-understands-the-physical-world/"
@@ -381,7 +381,7 @@ const FEED_DATA = {
     },
     {
       "title": "Amazon holds engineering meeting following AI-related outages",
-      "summary": "https://archive.ph/wXvF3 Comments URL: https://news.ycombinator.com/item?id=47319273 Points: 108 # Comments: 86",
+      "summary": "https://archive.ph/wXvF3 Comments URL: https://news.ycombinator.com/item?id=47319273 Points: 110 # Comments: 88",
       "source": "Hacker News",
       "published": "2026-03-10T05:07:59+00:00",
       "link": "https://www.ft.com/content/7cab4ec7-4712-4137-b602-119a44f771de"
@@ -423,7 +423,7 @@ const FEED_DATA = {
     },
     {
       "title": "Learnings from paying artists royalties for AI-generated art",
-      "summary": "Article URL: https://www.kapwing.com/blog/learnings-from-paying-artists-royalties-for-ai-generated-art/ Comments URL: https://news.ycombinator.com/item?id=47318421 Points: 166 # Comments: 153",
+      "summary": "Article URL: https://www.kapwing.com/blog/learnings-from-paying-artists-royalties-for-ai-generated-art/ Comments URL: https://news.ycombinator.com/item?id=47318421 Points: 166 # Comments: 155",
       "source": "Hacker News",
       "published": "2026-03-10T02:24:52+00:00",
       "link": "https://www.kapwing.com/blog/learnings-from-paying-artists-royalties-for-ai-generated-art/"
@@ -444,7 +444,7 @@ const FEED_DATA = {
     },
     {
       "title": "Mark Zuckerberg creating new Applied AI engineering company, reorganises teams",
-      "summary": "Article URL: https://timesofindia.indiatimes.com/technology/tech-news/mark-zuckerberg-is-creating-new-applied-ai-engineering-company-reorganises-key-teams/articleshow/129018841.cms Comments URL: https://news.ycombinator.com/item?id=47315701 Points: 99 # Comments: 60",
+      "summary": "Article URL: https://timesofindia.indiatimes.com/technology/tech-news/mark-zuckerberg-is-creating-new-applied-ai-engineering-company-reorganises-key-teams/articleshow/129018841.cms Comments URL: https://news.ycombinator.com/item?id=47315701 Points: 100 # Comments: 60",
       "source": "Hacker News",
       "published": "2026-03-09T21:19:58+00:00",
       "link": "https://timesofindia.indiatimes.com/technology/tech-news/mark-zuckerberg-is-creating-new-applied-ai-engineering-company-reorganises-key-teams/articleshow/129018841.cms"
@@ -577,7 +577,7 @@ const FEED_DATA = {
     },
     {
       "title": "Is legal the same as legitimate: AI reimplementation and the erosion of copyleft",
-      "summary": "Article URL: https://writings.hongminhee.org/2026/03/legal-vs-legitimate/ Comments URL: https://news.ycombinator.com/item?id=47310160 Points: 557 # Comments: 572",
+      "summary": "Article URL: https://writings.hongminhee.org/2026/03/legal-vs-legitimate/ Comments URL: https://news.ycombinator.com/item?id=47310160 Points: 557 # Comments: 573",
       "source": "Hacker News",
       "published": "2026-03-09T15:12:53+00:00",
       "link": "https://writings.hongminhee.org/2026/03/legal-vs-legitimate/"
