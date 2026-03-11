@@ -1,6 +1,20 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-03-10T21:53:53.748445+00:00",
+  "lastUpdated": "2026-03-11T05:15:52.753575+00:00",
   "items": [
+    {
+      "title": "Google brings Gemini in Chrome to India",
+      "summary": "As part of the rollout, Gemini will support languages including Hindi, Bengali, Gujarati, Kannada, Malayalam, Marathi, Telugu, and Tamil.",
+      "source": "TechCrunch",
+      "published": "2026-03-11T02:30:00+00:00",
+      "link": "https://techcrunch.com/2026/03/10/google-gemini-chrome-expands-to-india-canada-new-zealand/"
+    },
+    {
+      "title": "Trump Administration Won’t Rule Out Further Action Against Anthropic",
+      "summary": "The White House is preparing an executive order targeting the AI startup, even as its earlier actions against the company face a major test in court.",
+      "source": "Wired",
+      "published": "2026-03-11T01:41:42+00:00",
+      "link": "https://www.wired.com/story/trump-administration-refuses-to-say-it-wont-take-further-action-against-anthropic/"
+    },
     {
       "title": "Ford is giving its commercial fleet business an AI makeover",
       "summary": "Ford announced a new AI-powered service for its commercial fleet and telematics software customers called Ford Pro AI.",
@@ -72,6 +86,13 @@ const FEED_DATA = {
       "link": "https://www.artificialintelligence-news.com/news/abb-physical-ai-simulation-secures-factory-automation-roi/"
     },
     {
+      "title": "Launch HN: RunAnywhere (YC W26) – Faster AI Inference on Apple Silicon",
+      "summary": "Hi HN, we're Sanchit and Shubham (YC W26). We built a fast inference engine for Apple Silicon.",
+      "source": "Hacker News",
+      "published": "2026-03-10T17:14:52+00:00",
+      "link": "https://github.com/RunanywhereAI/rcli"
+    },
+    {
       "title": "German court says \"It's AI\" isn't enough to void copyright",
       "summary": "A German regional court has ruled that song lyrics written by a human are still protected by copyright, even if the music was made with AI tools like SunoAI. Simply claiming a work is AI-generated isn't enough to strip that protection, you need proof.",
       "source": "The Decoder",
@@ -128,11 +149,25 @@ const FEED_DATA = {
       "link": "https://techcrunch.com/2026/03/10/thinking-machines-lab-inks-massive-compute-deal-with-nvidia/"
     },
     {
+      "title": "Amazon is holding a mandatory meeting about AI breaking its systems",
+      "summary": "Article URL: https://twitter.com/lukolejnik/status/2031257644724342957 Comments URL: https://news.ycombinator.com/item?id=47324211 Points: 284 # Comments: 10",
+      "source": "Hacker News",
+      "published": "2026-03-10T15:01:35+00:00",
+      "link": "https://twitter.com/lukolejnik/status/2031257644724342957"
+    },
+    {
       "title": "Google gives in to users’ complaints over AI-powered ‘Ask Photos’ search feature",
       "summary": "The option appears on the Google Photos Search screen and lets users pick which experience they want.",
       "source": "TechCrunch",
       "published": "2026-03-10T14:58:29+00:00",
       "link": "https://techcrunch.com/2026/03/10/google-gives-in-to-users-complaints-over-ai-powered-ask-photos-search-feature/"
+    },
+    {
+      "title": "Debian decides not to decide on AI-generated contributions",
+      "summary": "Article URL: https://lwn.net/SubscriberLink/1061544/125f911834966dd0/ Comments URL: https://news.ycombinator.com/item?id=47324087 Points: 303 # Comments: 227",
+      "source": "Hacker News",
+      "published": "2026-03-10T14:53:13+00:00",
+      "link": "https://lwn.net/SubscriberLink/1061544/125f911834966dd0/"
     },
     {
       "title": "Legora reaches $5.55 billion valuation as AI legal tech boom endures",
@@ -182,6 +217,20 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-03-10T13:56:10+00:00",
       "link": "https://the-decoder.com/startup-claims-first-full-brain-emulation-of-a-fruit-fly-in-a-simulated-body/"
+    },
+    {
+      "title": "After outages, Amazon to make senior engineers sign off on AI-assisted changes",
+      "summary": "https://www.ft.com/content/7cab4ec7-4712-4137-b602-119a44f77...",
+      "source": "Hacker News",
+      "published": "2026-03-10T13:31:17+00:00",
+      "link": "https://arstechnica.com/ai/2026/03/after-outages-amazon-to-make-senior-engineers-sign-off-on-ai-assisted-changes/"
+    },
+    {
+      "title": "Show HN: How I topped the HuggingFace open LLM leaderboard on two gaming GPUs",
+      "summary": "I found that duplicating a specific block of 7 middle layers in Qwen2-72B, without modifying any weights, improved performance across all Open LLM Leaderboard benchmarks and took #1.",
+      "source": "Hacker News",
+      "published": "2026-03-10T13:18:55+00:00",
+      "link": "https://dnhkng.github.io/posts/rys/"
     },
     {
       "title": "Adobe is debuting an AI assistant for Photoshop",
@@ -261,8 +310,15 @@ const FEED_DATA = {
       "link": "https://the-decoder.com/philosopher-david-chalmers-current-ai-interpretability-methods-miss-what-matters-most/"
     },
     {
+      "title": "PgAdmin 4 9.13 with AI Assistant Panel",
+      "summary": "Article URL: https://www.pgadmin.org/docs/pgadmin4/9.13/query_tool.html#ai-assistant-panel Comments URL: https://news.ycombinator.com/item?id=47322033 Points: 85 # Comments: 30",
+      "source": "Hacker News",
+      "published": "2026-03-10T11:58:36+00:00",
+      "link": "https://www.pgadmin.org/docs/pgadmin4/9.13/query_tool.html#ai-assistant-panel"
+    },
+    {
       "title": "Yann LeCun's AI startup raises $1B in Europe's largest ever seed round",
-      "summary": "Article URL: https://www.ft.com/content/e5245ec3-1a58-4eff-ab58-480b6259aaf1 Comments URL: https://news.ycombinator.com/item?id=47321533 Points: 283 # Comments: 147",
+      "summary": "https://archive.md/5eZWq Comments URL: https://news.ycombinator.com/item?id=47321533 Points: 409 # Comments: 2",
       "source": "Hacker News",
       "published": "2026-03-10T10:50:30+00:00",
       "link": "https://www.ft.com/content/e5245ec3-1a58-4eff-ab58-480b6259aaf1"
@@ -283,10 +339,17 @@ const FEED_DATA = {
     },
     {
       "title": "Redox OS has adopted a Certificate of Origin policy and a strict no-LLM policy",
-      "summary": "Article URL: https://gitlab.redox-os.org/redox-os/redox/-/blob/master/CONTRIBUTING.md Comments URL: https://news.ycombinator.com/item?id=47320661 Points: 273 # Comments: 272",
+      "summary": "Article URL: https://gitlab.redox-os.org/redox-os/redox/-/blob/master/CONTRIBUTING.md Comments URL: https://news.ycombinator.com/item?id=47320661 Points: 381 # Comments: 390",
       "source": "Hacker News",
       "published": "2026-03-10T08:54:53+00:00",
       "link": "https://gitlab.redox-os.org/redox-os/redox/-/blob/master/CONTRIBUTING.md"
+    },
+    {
+      "title": "Yann LeCun raises $1B to build AI that understands the physical world",
+      "summary": "https://web.archive.org/web/20260310153721/https://www.wired...https://www.ft.com/content/e5245ec3-1a58-4eff-ab58-480b6259a... (https://archive.md/5eZWq) Comments URL: https://news.ycombinator.com/item?id=47320600 Points: 393 # Comments: 347",
+      "source": "Hacker News",
+      "published": "2026-03-10T08:46:53+00:00",
+      "link": "https://www.wired.com/story/yann-lecun-raises-dollar1-billion-to-build-ai-that-understands-the-physical-world/"
     },
     {
       "title": "OpenAI announces GPT-5 with real-time video understanding",
@@ -318,7 +381,7 @@ const FEED_DATA = {
     },
     {
       "title": "Amazon holds engineering meeting following AI-related outages",
-      "summary": "Article URL: https://www.ft.com/content/7cab4ec7-4712-4137-b602-119a44f771de Comments URL: https://news.ycombinator.com/item?id=47319273 Points: 79 # Comments: 64",
+      "summary": "https://archive.ph/wXvF3 Comments URL: https://news.ycombinator.com/item?id=47319273 Points: 108 # Comments: 86",
       "source": "Hacker News",
       "published": "2026-03-10T05:07:59+00:00",
       "link": "https://www.ft.com/content/7cab4ec7-4712-4137-b602-119a44f771de"
@@ -360,7 +423,7 @@ const FEED_DATA = {
     },
     {
       "title": "Learnings from paying artists royalties for AI-generated art",
-      "summary": "Article URL: https://www.kapwing.com/blog/learnings-from-paying-artists-royalties-for-ai-generated-art/ Comments URL: https://news.ycombinator.com/item?id=47318421 Points: 158 # Comments: 137",
+      "summary": "Article URL: https://www.kapwing.com/blog/learnings-from-paying-artists-royalties-for-ai-generated-art/ Comments URL: https://news.ycombinator.com/item?id=47318421 Points: 166 # Comments: 153",
       "source": "Hacker News",
       "published": "2026-03-10T02:24:52+00:00",
       "link": "https://www.kapwing.com/blog/learnings-from-paying-artists-royalties-for-ai-generated-art/"
@@ -381,7 +444,7 @@ const FEED_DATA = {
     },
     {
       "title": "Mark Zuckerberg creating new Applied AI engineering company, reorganises teams",
-      "summary": "Article URL: https://timesofindia.indiatimes.com/technology/tech-news/mark-zuckerberg-is-creating-new-applied-ai-engineering-company-reorganises-key-teams/articleshow/129018841.cms Comments URL: https://news.ycombinator.com/item?id=47315701 Points: 97 # Comments: 58",
+      "summary": "Article URL: https://timesofindia.indiatimes.com/technology/tech-news/mark-zuckerberg-is-creating-new-applied-ai-engineering-company-reorganises-key-teams/articleshow/129018841.cms Comments URL: https://news.ycombinator.com/item?id=47315701 Points: 99 # Comments: 60",
       "source": "Hacker News",
       "published": "2026-03-09T21:19:58+00:00",
       "link": "https://timesofindia.indiatimes.com/technology/tech-news/mark-zuckerberg-is-creating-new-applied-ai-engineering-company-reorganises-key-teams/articleshow/129018841.cms"
@@ -430,7 +493,7 @@ const FEED_DATA = {
     },
     {
       "title": "Things I've Done with AI",
-      "summary": "Article URL: https://sjer.red/blog/2026/built-with-ai/ Comments URL: https://news.ycombinator.com/item?id=47314123 Points: 84 # Comments: 122",
+      "summary": "Article URL: https://sjer.red/blog/2026/built-with-ai/ Comments URL: https://news.ycombinator.com/item?id=47314123 Points: 84 # Comments: 141",
       "source": "Hacker News",
       "published": "2026-03-09T19:24:20+00:00",
       "link": "https://sjer.red/blog/2026/built-with-ai/"
@@ -507,14 +570,14 @@ const FEED_DATA = {
     },
     {
       "title": "Anthropic sues to block Pentagon blacklisting over AI use restrictions",
-      "summary": "Article URL: https://www.reuters.com/world/anthropic-sues-block-pentagon-blacklisting-over-ai-use-restrictions-2026-03-09/ Comments URL: https://news.ycombinator.com/item?id=47310330 Points: 78 # Comments: 52",
+      "summary": "Article URL: https://www.reuters.com/world/anthropic-sues-block-pentagon-blacklisting-over-ai-use-restrictions-2026-03-09/ Comments URL: https://news.ycombinator.com/item?id=47310330 Points: 78 # Comments: 53",
       "source": "Hacker News",
       "published": "2026-03-09T15:25:40+00:00",
       "link": "https://www.reuters.com/world/anthropic-sues-block-pentagon-blacklisting-over-ai-use-restrictions-2026-03-09/"
     },
     {
       "title": "Is legal the same as legitimate: AI reimplementation and the erosion of copyleft",
-      "summary": "Article URL: https://writings.hongminhee.org/2026/03/legal-vs-legitimate/ Comments URL: https://news.ycombinator.com/item?id=47310160 Points: 537 # Comments: 536",
+      "summary": "Article URL: https://writings.hongminhee.org/2026/03/legal-vs-legitimate/ Comments URL: https://news.ycombinator.com/item?id=47310160 Points: 557 # Comments: 572",
       "source": "Hacker News",
       "published": "2026-03-09T15:12:53+00:00",
       "link": "https://writings.hongminhee.org/2026/03/legal-vs-legitimate/"
@@ -535,7 +598,7 @@ const FEED_DATA = {
     },
     {
       "title": "Revealed: UK's multibillion AI drive is built on 'phantom investments'",
-      "summary": "Article URL: https://www.theguardian.com/technology/2026/mar/09/revealed-uks-multibillion-ai-drive-is-built-on-phantom-investments Comments URL: https://news.ycombinator.com/item?id=47309811 Points: 96 # Comments: 54",
+      "summary": "Article URL: https://www.theguardian.com/technology/2026/mar/09/revealed-uks-multibillion-ai-drive-is-built-on-phantom-investments Comments URL: https://news.ycombinator.com/item?id=47309811 Points: 97 # Comments: 53",
       "source": "Hacker News",
       "published": "2026-03-09T14:45:12+00:00",
       "link": "https://www.theguardian.com/technology/2026/mar/09/revealed-uks-multibillion-ai-drive-is-built-on-phantom-investments"
@@ -560,6 +623,13 @@ const FEED_DATA = {
       "source": "MIT Tech Review",
       "published": "2026-03-09T13:57:44+00:00",
       "link": "https://www.technologyreview.com/2026/03/09/1134050/the-download-ai-surveillance-laws-white-house-cracks-down-defiant-labs/"
+    },
+    {
+      "title": "Owner of ICE detention facility sees big opportunity in AI man camps",
+      "summary": "Article URL: https://techcrunch.com/2026/03/08/owner-of-ice-detention-facility-sees-big-opportunity-in-ai-man-camps/ Comments URL: https://news.ycombinator.com/item?id=47308468 Points: 92 # Comments: 60",
+      "source": "Hacker News",
+      "published": "2026-03-09T13:01:01+00:00",
+      "link": "https://techcrunch.com/2026/03/08/owner-of-ice-detention-facility-sees-big-opportunity-in-ai-man-camps/"
     },
     {
       "title": "Feeld Was a Dating App for the Freaks. Now Some People Call It ‘Normie Hell’",
@@ -640,7 +710,7 @@ const FEED_DATA = {
     },
     {
       "title": "Artificial-life: A simple (300 lines of code) reproduction of Computational Life",
-      "summary": "Article URL: https://github.com/Rabrg/artificial-life Comments URL: https://news.ycombinator.com/item?id=47301233 Points: 165 # Comments: 24",
+      "summary": "Article URL: https://github.com/Rabrg/artificial-life Comments URL: https://news.ycombinator.com/item?id=47301233 Points: 167 # Comments: 25",
       "source": "Hacker News",
       "published": "2026-03-08T20:42:41+00:00",
       "link": "https://github.com/Rabrg/artificial-life"
@@ -665,13 +735,6 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-03-08T18:30:00Z",
       "link": "https://techcrunch.com/example"
-    },
-    {
-      "title": "Owner of ICE detention facility sees big opportunity in AI man camps",
-      "summary": "AI data center developers are increasingly relying on a style of camp popularized as housing for men working in remote oil fields.",
-      "source": "TechCrunch",
-      "published": "2026-03-08T16:30:00+00:00",
-      "link": "https://techcrunch.com/2026/03/08/owner-of-ice-detention-facility-sees-big-opportunity-in-ai-man-camps/"
     },
     {
       "title": "Oracle may slash up to 30k jobs to fund AI data-centers as US banks retreat",
