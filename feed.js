@@ -1,19 +1,131 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-03-11T11:06:08.974929+00:00",
+  "lastUpdated": "2026-03-11T15:34:34.056327+00:00",
   "items": [
+    {
+      "title": "OpenAI's new training dataset teaches AI models which instructions to trust",
+      "summary": "OpenAI has released IH-Challenge, a training dataset designed to teach AI models to reliably prioritize trusted instructions over untrusted ones. Early results show significant improvements in both security and prompt injection defense.",
+      "source": "The Decoder",
+      "published": "2026-03-11T15:31:28+00:00",
+      "link": "https://the-decoder.com/openais-new-training-dataset-teaches-ai-models-which-instructions-to-trust/"
+    },
+    {
+      "title": "Anthropic launches internal think tank to study AI's impact on society and security",
+      "summary": "Anthropic has launched the \"Anthropic Institute,\" an internal think tank dedicated to studying how powerful AI affects society, the economy, and security.",
+      "source": "The Decoder",
+      "published": "2026-03-11T15:26:15+00:00",
+      "link": "https://the-decoder.com/anthropic-launches-internal-think-tank-to-study-ais-impact-on-society-and-security/"
+    },
+    {
+      "title": "An AI agent hacked McKinsey's internal AI platform in two hours using a decades-old technique",
+      "summary": "Security firm Codewall turned an offensive AI agent loose on McKinsey's internal AI platform Lilli, a system used by over 43,000 employees for strategy work, client research, and document analysis. No credentials, no insider knowledge, no human assistance.",
+      "source": "The Decoder",
+      "published": "2026-03-11T15:21:29+00:00",
+      "link": "https://the-decoder.com/an-ai-agent-hacked-mckinseys-internal-ai-platform-in-two-hours-using-a-decades-old-technique/"
+    },
+    {
+      "title": "Meta didn’t buy Moltbook for bots — it bought into the agentic web",
+      "summary": "Meta’s Moltbook acquisition may look odd at first, but the deal could signal how Meta sees AI agents shaping future advertising and commerce on an agentic web.",
+      "source": "TechCrunch",
+      "published": "2026-03-11T15:11:31+00:00",
+      "link": "https://techcrunch.com/2026/03/11/meta-didnt-buy-moltbook-for-bots-it-bought-into-the-agentic-web/"
+    },
+    {
+      "title": "Canva’s new editing tool adds layers to AI-generated designs",
+      "summary": "Canva introduced a new feature that separates flat image files and AI-generated visuals into layered, fully editable designs.",
+      "source": "The Verge",
+      "published": "2026-03-11T15:02:02+00:00",
+      "link": "https://www.theverge.com/tech/893124/canva-ai-magic-layers-feature-beta"
+    },
+    {
+      "title": "Amazon expands a program that lets customers shop from other retailers’ sites",
+      "summary": "The changes allow more merchants to participate in Amazon's Shop Direct program, which sends Amazon customers to other retailers' websites.",
+      "source": "TechCrunch",
+      "published": "2026-03-11T14:48:30+00:00",
+      "link": "https://techcrunch.com/2026/03/11/amazon-expands-a-program-that-lets-customers-shop-from-other-retailers-sites/"
+    },
+    {
+      "title": "Meta Is Developing 4 New Chips to Power Its AI and Recommendation Systems",
+      "summary": "The MTIA processors are the tech giant’s latest attempt to build its own AI hardware, even as it continues spending billions on gear from industry leaders like Nvidia.",
+      "source": "Wired",
+      "published": "2026-03-11T14:23:05+00:00",
+      "link": "https://www.wired.com/story/meta-unveils-four-new-chips-to-power-its-ai-and-recommendation-systems/"
+    },
+    {
+      "title": "Canopii looks to succeed where past indoor farms have not",
+      "summary": "Canopii's robotic farms can autonomously grow 40,000 pounds of herbs and leafy greens a year while being the size of a basketball court.",
+      "source": "TechCrunch",
+      "published": "2026-03-11T14:00:00+00:00",
+      "link": "https://techcrunch.com/2026/03/11/canopii-looks-to-succeed-where-past-indoor-farms-have-not/"
+    },
+    {
+      "title": "I was interviewed by an AI bot for a job",
+      "summary": "Millions of people are on the job hunt right now - and for many people, landing a job in the AI era feels more intimidating than ever.",
+      "source": "The Verge",
+      "published": "2026-03-11T14:00:00+00:00",
+      "link": "https://www.theverge.com/featured-video/892850/i-was-interviewed-by-an-ai-bot-for-a-job"
+    },
+    {
+      "title": "The mysterious case of the DHS white supremacist memelord",
+      "summary": "Hello and welcome to Regulator, a newsletter that takes Verge subscribers into the smoke-filled back rooms of Washington as they become the Zyn-filled back rooms of Washington. (Although Tucker Carlson's ALP is more popular among a certain set.) Not a Verge subscriber yet?",
+      "source": "The Verge",
+      "published": "2026-03-11T13:28:32+00:00",
+      "link": "https://www.theverge.com/column/892985/dhs-white-supremacist-memelord"
+    },
+    {
+      "title": "Chatbots encouraged ‘teens’ to plan shootings in study",
+      "summary": "AI companies have repeatedly promised safeguards to protect younger users, but a new investigation suggests those guardrails remain woefully deficient.",
+      "source": "The Verge",
+      "published": "2026-03-11T13:18:45+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/892978/ai-chatbots-investigation-help-teens-plan-violence"
+    },
+    {
+      "title": "This Digital Picture Frame Wants to Bring People Closer to a Holographic Future",
+      "summary": "Brooklyn-based Looking Glass has been dabbling in 3D screens for nearly a decade. It's finally launching Musubi, an AI-powered holographic frame to bring your photos and videos to life.",
+      "source": "Wired",
+      "published": "2026-03-11T13:00:00+00:00",
+      "link": "https://www.wired.com/story/looking-glass-musubi/"
+    },
+    {
+      "title": "Hustlers are cashing in on China’s OpenClaw AI craze",
+      "summary": "Feng Qingyang had always hoped to launch his own company, but he never thought this would be how—or that the day would come this fast.",
+      "source": "MIT Tech Review",
+      "published": "2026-03-11T12:46:21+00:00",
+      "link": "https://www.technologyreview.com/2026/03/11/1134179/china-openclaw-gold-rush/"
+    },
+    {
+      "title": "The Download: Pokémon Go to train world models, and the US-China race to find aliens",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. How Pokémon Go is giving delivery robots an inch-perfect view of the world Pokémon Go was the world’s first augmented-reality megahit.",
+      "source": "MIT Tech Review",
+      "published": "2026-03-11T12:38:00+00:00",
+      "link": "https://www.technologyreview.com/2026/03/11/1134174/the-download-pokemon-go-train-world-models-us-china-race-find-aliens/"
+    },
+    {
+      "title": "Nick Clegg Doesn’t Want to Talk About Superintelligence",
+      "summary": "After leaving Meta last year, the former deputy prime minister of the UK is charting a new path in the AI industry that has nothing to do with AGI.",
+      "source": "Wired",
+      "published": "2026-03-11T12:00:00+00:00",
+      "link": "https://www.wired.com/story/nick-clegg-ai-startup-efekta-superintelligence/"
+    },
+    {
+      "title": "Microsoft and rival AI researchers unite to back Anthropic in its escalating legal battle against the Pentagon",
+      "summary": "A broad coalition is backing Anthropic in its legal fight with the US Department of Defense: Microsoft, dozens of OpenAI and Google employees, former military leaders, and civil rights organizations have all filed amicus curiae briefs supporting the AI company.",
+      "source": "The Decoder",
+      "published": "2026-03-11T11:43:15+00:00",
+      "link": "https://the-decoder.com/microsoft-and-rival-ai-researchers-unite-to-back-anthropic-in-its-escalating-legal-battle-against-the-pentagon/"
+    },
+    {
+      "title": "New partnership to offer smart robots for dangerous environments",
+      "summary": "ADLINK Technology has signed a strategic alliance and joint development agreement with Under Control Robotics, the company behind the robotics startup Noble Machines.",
+      "source": "AI News",
+      "published": "2026-03-11T11:42:00+00:00",
+      "link": "https://www.artificialintelligence-news.com/news/new-partnership-to-offer-ai-for-robotics-for-work-in-dangerous-environments/"
+    },
     {
       "title": "Teens Are Using AI-Fueled ‘Slander Pages’ to Mock Their Teachers",
       "summary": "Viral student-run TikTok and Instagram accounts are using AI to make memes of school faculty comparing them to figures like Jeffrey Epstein and Benjamin Netanyahu.",
       "source": "Wired",
       "published": "2026-03-11T11:00:00+00:00",
       "link": "https://www.wired.com/story/teens-are-using-ai-fueled-slander-pages-to-mock-their-teachers/"
-    },
-    {
-      "title": "Nick Clegg Doesn’t Want to Talk About Superintelligence",
-      "summary": "After leaving Meta last year, the former deputy prime minister of the UK is charting a new path in the AI industry that has nothing to do with AGI.",
-      "source": "Wired",
-      "published": "2026-03-11T10:21:42+00:00",
-      "link": "https://www.wired.com/story/nick-clegg-ai-startup-efekta-superintelligence/"
     },
     {
       "title": "Inside OpenAI’s Race to Catch Up to Claude Code",
@@ -30,6 +142,13 @@ const FEED_DATA = {
       "link": "https://www.artificialintelligence-news.com/news/manulife-moves-ai-agents-into-core-financial-workflows/"
     },
     {
+      "title": "AI Agent Hacks McKinsey",
+      "summary": "Article URL: https://codewall.ai/blog/how-we-hacked-mckinseys-ai-platform Comments URL: https://news.ycombinator.com/item?id=47333627 Points: 110 # Comments: 34",
+      "source": "Hacker News",
+      "published": "2026-03-11T09:59:03+00:00",
+      "link": "https://codewall.ai/blog/how-we-hacked-mckinseys-ai-platform"
+    },
+    {
       "title": "How physical AI integration accelerates vehicle innovation",
       "summary": "The integration of physical AI into vehicles remains a primary objective for automakers looking to accelerate innovation.",
       "source": "AI News",
@@ -42,6 +161,13 @@ const FEED_DATA = {
       "source": "The Verge",
       "published": "2026-03-11T09:45:00+00:00",
       "link": "https://www.theverge.com/ai-artificial-intelligence/892478/anthropic-institute-think-tank-claude-pentagon-jack-clark"
+    },
+    {
+      "title": "Google to Provide Pentagon with AI Agents",
+      "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-03-10/google-to-provide-pentagon-with-ai-agents-for-unclassified-work Comments URL: https://news.ycombinator.com/item?id=47333433 Points: 63 # Comments: 57",
+      "source": "Hacker News",
+      "published": "2026-03-11T09:30:22+00:00",
+      "link": "https://www.bloomberg.com/news/articles/2026-03-10/google-to-provide-pentagon-with-ai-agents-for-unclassified-work"
     },
     {
       "title": "Google brings Gemini in Chrome to India",
@@ -192,7 +318,7 @@ const FEED_DATA = {
     },
     {
       "title": "Amazon is holding a mandatory meeting about AI breaking its systems",
-      "summary": "Article URL: https://twitter.com/lukolejnik/status/2031257644724342957 Comments URL: https://news.ycombinator.com/item?id=47324211 Points: 287 # Comments: 10",
+      "summary": "Article URL: https://twitter.com/lukolejnik/status/2031257644724342957 Comments URL: https://news.ycombinator.com/item?id=47324211 Points: 289 # Comments: 10",
       "source": "Hacker News",
       "published": "2026-03-10T15:01:35+00:00",
       "link": "https://twitter.com/lukolejnik/status/2031257644724342957"
@@ -206,7 +332,7 @@ const FEED_DATA = {
     },
     {
       "title": "Debian decides not to decide on AI-generated contributions",
-      "summary": "Article URL: https://lwn.net/SubscriberLink/1061544/125f911834966dd0/ Comments URL: https://news.ycombinator.com/item?id=47324087 Points: 337 # Comments: 255",
+      "summary": "Article URL: https://lwn.net/SubscriberLink/1061544/125f911834966dd0/ Comments URL: https://news.ycombinator.com/item?id=47324087 Points: 358 # Comments: 270",
       "source": "Hacker News",
       "published": "2026-03-10T14:53:13+00:00",
       "link": "https://lwn.net/SubscriberLink/1061544/125f911834966dd0/"
@@ -296,20 +422,6 @@ const FEED_DATA = {
       "link": "https://techcrunch.com/2026/03/10/google-rolls-out-new-gemini-capabilities-to-docs-sheets-slides-and-drive/"
     },
     {
-      "title": "Google’s Gemini AI is getting a bigger role across Docs, Sheets, and Slides",
-      "summary": "Google is embedding its Gemini AI assistant even more deeply within its Workspace apps.",
-      "source": "The Verge",
-      "published": "2026-03-10T13:00:00+00:00",
-      "link": "https://www.theverge.com/tech/890996/google-workspace-gemini-ai-docs-sheets-drive"
-    },
-    {
-      "title": "You can now ask Photoshop’s AI assistant to edit images for you",
-      "summary": "Adobe announced more agentic AI features for its Creative Cloud apps this week, allowing users to edit images and documents by describing the changes to a chatbot.",
-      "source": "The Verge",
-      "published": "2026-03-10T13:00:00+00:00",
-      "link": "https://www.theverge.com/tech/891998/adobe-photoshop-web-mobile-ai-assistant-beta-launch"
-    },
-    {
       "title": "Prioritizing energy intelligence for sustainable growth",
       "summary": "Loudoun County, Virginia, once known for its pastoral scenery and proximity to Washington, DC, has earned a more modern reputation in recent years: The area has the highest concentration of data centers on the planet. Ten years ago, these facilities powered email and e-commerce.",
       "source": "MIT Tech Review",
@@ -322,6 +434,20 @@ const FEED_DATA = {
       "source": "Wired",
       "published": "2026-03-10T13:00:00+00:00",
       "link": "https://www.wired.com/story/google-gemini-workspace-ai-tools-hands-on/"
+    },
+    {
+      "title": "Google’s Gemini AI is getting a bigger role across Docs, Sheets, and Slides",
+      "summary": "Google is embedding its Gemini AI assistant even more deeply within its Workspace apps.",
+      "source": "The Verge",
+      "published": "2026-03-10T13:00:00+00:00",
+      "link": "https://www.theverge.com/tech/890996/google-workspace-gemini-ai-docs-sheets-drive"
+    },
+    {
+      "title": "You can now ask Photoshop’s AI assistant to edit images for you",
+      "summary": "Adobe announced more agentic AI features for its Creative Cloud apps this week, allowing users to edit images and documents by describing the changes to a chatbot.",
+      "source": "The Verge",
+      "published": "2026-03-10T13:00:00+00:00",
+      "link": "https://www.theverge.com/tech/891998/adobe-photoshop-web-mobile-ai-assistant-beta-launch"
     },
     {
       "title": "Agentic AI in finance speeds up operational automation",
@@ -353,14 +479,14 @@ const FEED_DATA = {
     },
     {
       "title": "PgAdmin 4 9.13 with AI Assistant Panel",
-      "summary": "Article URL: https://www.pgadmin.org/docs/pgadmin4/9.13/query_tool.html#ai-assistant-panel Comments URL: https://news.ycombinator.com/item?id=47322033 Points: 87 # Comments: 30",
+      "summary": "Article URL: https://www.pgadmin.org/docs/pgadmin4/9.13/query_tool.html#ai-assistant-panel Comments URL: https://news.ycombinator.com/item?id=47322033 Points: 92 # Comments: 31",
       "source": "Hacker News",
       "published": "2026-03-10T11:58:36+00:00",
       "link": "https://www.pgadmin.org/docs/pgadmin4/9.13/query_tool.html#ai-assistant-panel"
     },
     {
       "title": "Yann LeCun's AI startup raises $1B in Europe's largest ever seed round",
-      "summary": "https://archive.md/5eZWq Comments URL: https://news.ycombinator.com/item?id=47321533 Points: 410 # Comments: 2",
+      "summary": "https://archive.md/5eZWq Comments URL: https://news.ycombinator.com/item?id=47321533 Points: 413 # Comments: 2",
       "source": "Hacker News",
       "published": "2026-03-10T10:50:30+00:00",
       "link": "https://www.ft.com/content/e5245ec3-1a58-4eff-ab58-480b6259aaf1"
@@ -381,14 +507,14 @@ const FEED_DATA = {
     },
     {
       "title": "Redox OS has adopted a Certificate of Origin policy and a strict no-LLM policy",
-      "summary": "Article URL: https://gitlab.redox-os.org/redox-os/redox/-/blob/master/CONTRIBUTING.md Comments URL: https://news.ycombinator.com/item?id=47320661 Points: 386 # Comments: 411",
+      "summary": "Article URL: https://gitlab.redox-os.org/redox-os/redox/-/blob/master/CONTRIBUTING.md Comments URL: https://news.ycombinator.com/item?id=47320661 Points: 395 # Comments: 429",
       "source": "Hacker News",
       "published": "2026-03-10T08:54:53+00:00",
       "link": "https://gitlab.redox-os.org/redox-os/redox/-/blob/master/CONTRIBUTING.md"
     },
     {
       "title": "Yann LeCun raises $1B to build AI that understands the physical world",
-      "summary": "https://web.archive.org/web/20260310153721/https://www.wired...https://www.ft.com/content/e5245ec3-1a58-4eff-ab58-480b6259a... (https://archive.md/5eZWq) Comments URL: https://news.ycombinator.com/item?id=47320600 Points: 479 # Comments: 393",
+      "summary": "https://web.archive.org/web/20260310153721/https://www.wired...https://www.ft.com/content/e5245ec3-1a58-4eff-ab58-480b6259a... (https://archive.md/5eZWq) Comments URL: https://news.ycombinator.com/item?id=47320600 Points: 546 # Comments: 450",
       "source": "Hacker News",
       "published": "2026-03-10T08:46:53+00:00",
       "link": "https://www.wired.com/story/yann-lecun-raises-dollar1-billion-to-build-ai-that-understands-the-physical-world/"
@@ -423,7 +549,7 @@ const FEED_DATA = {
     },
     {
       "title": "Amazon holds engineering meeting following AI-related outages",
-      "summary": "https://archive.ph/wXvF3 Comments URL: https://news.ycombinator.com/item?id=47319273 Points: 110 # Comments: 88",
+      "summary": "https://archive.ph/wXvF3 Comments URL: https://news.ycombinator.com/item?id=47319273 Points: 110 # Comments: 90",
       "source": "Hacker News",
       "published": "2026-03-10T05:07:59+00:00",
       "link": "https://www.ft.com/content/7cab4ec7-4712-4137-b602-119a44f771de"
@@ -619,7 +745,7 @@ const FEED_DATA = {
     },
     {
       "title": "Is legal the same as legitimate: AI reimplementation and the erosion of copyleft",
-      "summary": "Article URL: https://writings.hongminhee.org/2026/03/legal-vs-legitimate/ Comments URL: https://news.ycombinator.com/item?id=47310160 Points: 557 # Comments: 577",
+      "summary": "Article URL: https://writings.hongminhee.org/2026/03/legal-vs-legitimate/ Comments URL: https://news.ycombinator.com/item?id=47310160 Points: 560 # Comments: 578",
       "source": "Hacker News",
       "published": "2026-03-09T15:12:53+00:00",
       "link": "https://writings.hongminhee.org/2026/03/legal-vs-legitimate/"
