@@ -1,9 +1,30 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-03-12T07:36:54.298500+00:00",
+  "lastUpdated": "2026-03-12T11:05:47.599789+00:00",
   "items": [
     {
+      "title": "Google is using old news reports and AI to predict flash floods",
+      "summary": "A new way to solve data scarcity: Turning qualitative reports into quantitative data with an LLM.",
+      "source": "TechCrunch",
+      "published": "2026-03-12T10:00:00+00:00",
+      "link": "https://techcrunch.com/2026/03/12/google-is-using-old-news-reports-and-ai-to-predict-flash-floods/"
+    },
+    {
+      "title": "Brutal times for the US battery industry",
+      "summary": "Just a few years ago, the battery industry was hot, hot, hot. There was a seemingly infinite number of companies popping up, with shiny new chemistries and massive fundraising rounds.",
+      "source": "MIT Tech Review",
+      "published": "2026-03-12T10:00:00+00:00",
+      "link": "https://www.technologyreview.com/2026/03/12/1134197/us-battery-industry/"
+    },
+    {
+      "title": "FIFA is rebuilding world football operations on AI. The World Cup is just the first test",
+      "summary": "When Romy Gai, FIFA’s chief business officer, described the operational challenge of running a 48-team World Cup across Canada, Mexico and the United States, he was not talking about technology. He was talking about complexity.",
+      "source": "AI News",
+      "published": "2026-03-12T08:00:00+00:00",
+      "link": "https://www.artificialintelligence-news.com/news/fifa-ai-world-cup-2026-lenovo/"
+    },
+    {
       "title": "How much of HN is AI?",
-      "summary": "Article URL: https://lcamtuf.substack.com/p/how-much-of-hn-is-ai Comments URL: https://news.ycombinator.com/item?id=47344999 Points: 86 # Comments: 47",
+      "summary": "Article URL: https://lcamtuf.substack.com/p/how-much-of-hn-is-ai Comments URL: https://news.ycombinator.com/item?id=47344999 Points: 92 # Comments: 55",
       "source": "Hacker News",
       "published": "2026-03-12T01:15:40+00:00",
       "link": "https://lcamtuf.substack.com/p/how-much-of-hn-is-ai"
@@ -38,7 +59,7 @@ const FEED_DATA = {
     },
     {
       "title": "Atlassian to cut roughly 1,600 jobs in pivot to AI",
-      "summary": "Article URL: https://www.reuters.com/technology/atlassian-lay-off-about-1600-people-pivot-ai-2026-03-11/ Comments URL: https://news.ycombinator.com/item?id=47343156 Points: 185 # Comments: 243",
+      "summary": "Article URL: https://www.reuters.com/technology/atlassian-lay-off-about-1600-people-pivot-ai-2026-03-11/ Comments URL: https://news.ycombinator.com/item?id=47343156 Points: 191 # Comments: 256",
       "source": "Hacker News",
       "published": "2026-03-11T22:29:42+00:00",
       "link": "https://www.reuters.com/technology/atlassian-lay-off-about-1600-people-pivot-ai-2026-03-11/"
@@ -51,6 +72,13 @@ const FEED_DATA = {
       "link": "https://techcrunch.com/2026/03/11/netflix-may-have-paid-600-million-for-ben-afflecks-ai-startup/"
     },
     {
+      "title": "Preliminary data from a longitudinal AI impact study",
+      "summary": "Article URL: https://newsletter.getdx.com/p/ai-productivity-gains-are-10-not Comments URL: https://news.ycombinator.com/item?id=47342139 Points: 53 # Comments: 33",
+      "source": "Hacker News",
+      "published": "2026-03-11T21:23:24+00:00",
+      "link": "https://newsletter.getdx.com/p/ai-productivity-gains-are-10-not"
+    },
+    {
       "title": "Grammarly Is Facing a Class Action Lawsuit Over Its AI ‘Expert Review’ Feature",
       "summary": "The feature, which Grammarly shut down Wednesday, presented editing suggestions as if they came from established authors and academics—without their consent.",
       "source": "Wired",
@@ -59,7 +87,7 @@ const FEED_DATA = {
     },
     {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
-      "summary": "Article URL: https://news.ycombinator.com/newsguidelines.html#generated Comments URL: https://news.ycombinator.com/item?id=47340079 Points: 3344 # Comments: 1256",
+      "summary": "Article URL: https://news.ycombinator.com/newsguidelines.html#generated Comments URL: https://news.ycombinator.com/item?id=47340079 Points: 3622 # Comments: 1353",
       "source": "Hacker News",
       "published": "2026-03-11T19:29:29+00:00",
       "link": "https://news.ycombinator.com/newsguidelines.html#generated"
@@ -297,7 +325,7 @@ const FEED_DATA = {
     },
     {
       "title": "How we hacked McKinsey's AI platform",
-      "summary": "Article URL: https://codewall.ai/blog/how-we-hacked-mckinseys-ai-platform Comments URL: https://news.ycombinator.com/item?id=47333627 Points: 430 # Comments: 169",
+      "summary": "Article URL: https://codewall.ai/blog/how-we-hacked-mckinseys-ai-platform Comments URL: https://news.ycombinator.com/item?id=47333627 Points: 438 # Comments: 175",
       "source": "Hacker News",
       "published": "2026-03-11T09:59:03+00:00",
       "link": "https://codewall.ai/blog/how-we-hacked-mckinseys-ai-platform"
@@ -493,7 +521,7 @@ const FEED_DATA = {
     },
     {
       "title": "Debian decides not to decide on AI-generated contributions",
-      "summary": "Article URL: https://lwn.net/SubscriberLink/1061544/125f911834966dd0/ Comments URL: https://news.ycombinator.com/item?id=47324087 Points: 372 # Comments: 286",
+      "summary": "Article URL: https://lwn.net/SubscriberLink/1061544/125f911834966dd0/ Comments URL: https://news.ycombinator.com/item?id=47324087 Points: 372 # Comments: 285",
       "source": "Hacker News",
       "published": "2026-03-10T14:53:13+00:00",
       "link": "https://lwn.net/SubscriberLink/1061544/125f911834966dd0/"
@@ -668,14 +696,14 @@ const FEED_DATA = {
     },
     {
       "title": "Redox OS has adopted a Certificate of Origin policy and a strict no-LLM policy",
-      "summary": "Article URL: https://gitlab.redox-os.org/redox-os/redox/-/blob/master/CONTRIBUTING.md Comments URL: https://news.ycombinator.com/item?id=47320661 Points: 399 # Comments: 450",
+      "summary": "Article URL: https://gitlab.redox-os.org/redox-os/redox/-/blob/master/CONTRIBUTING.md Comments URL: https://news.ycombinator.com/item?id=47320661 Points: 402 # Comments: 451",
       "source": "Hacker News",
       "published": "2026-03-10T08:54:53+00:00",
       "link": "https://gitlab.redox-os.org/redox-os/redox/-/blob/master/CONTRIBUTING.md"
     },
     {
       "title": "Yann LeCun raises $1B to build AI that understands the physical world",
-      "summary": "https://web.archive.org/web/20260310153721/https://www.wired...https://www.ft.com/content/e5245ec3-1a58-4eff-ab58-480b6259a... (https://archive.md/5eZWq) Comments URL: https://news.ycombinator.com/item?id=47320600 Points: 603 # Comments: 481",
+      "summary": "https://web.archive.org/web/20260310153721/https://www.wired...https://www.ft.com/content/e5245ec3-1a58-4eff-ab58-480b6259a... (https://archive.md/5eZWq) Comments URL: https://news.ycombinator.com/item?id=47320600 Points: 604 # Comments: 484",
       "source": "Hacker News",
       "published": "2026-03-10T08:46:53+00:00",
       "link": "https://www.wired.com/story/yann-lecun-raises-dollar1-billion-to-build-ai-that-understands-the-physical-world/"
@@ -710,7 +738,7 @@ const FEED_DATA = {
     },
     {
       "title": "Amazon holds engineering meeting following AI-related outages",
-      "summary": "https://archive.ph/wXvF3 Comments URL: https://news.ycombinator.com/item?id=47319273 Points: 112 # Comments: 93",
+      "summary": "https://archive.ph/wXvF3 Comments URL: https://news.ycombinator.com/item?id=47319273 Points: 112 # Comments: 94",
       "source": "Hacker News",
       "published": "2026-03-10T05:07:59+00:00",
       "link": "https://www.ft.com/content/7cab4ec7-4712-4137-b602-119a44f771de"
@@ -752,7 +780,7 @@ const FEED_DATA = {
     },
     {
       "title": "Learnings from paying artists royalties for AI-generated art",
-      "summary": "Article URL: https://www.kapwing.com/blog/learnings-from-paying-artists-royalties-for-ai-generated-art/ Comments URL: https://news.ycombinator.com/item?id=47318421 Points: 166 # Comments: 165",
+      "summary": "Article URL: https://www.kapwing.com/blog/learnings-from-paying-artists-royalties-for-ai-generated-art/ Comments URL: https://news.ycombinator.com/item?id=47318421 Points: 166 # Comments: 167",
       "source": "Hacker News",
       "published": "2026-03-10T02:24:52+00:00",
       "link": "https://www.kapwing.com/blog/learnings-from-paying-artists-royalties-for-ai-generated-art/"
@@ -1372,34 +1400,6 @@ const FEED_DATA = {
       "source": "VentureBeat",
       "published": "2026-01-19T14:00:00+00:00",
       "link": "https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free"
-    },
-    {
-      "title": "Listen Labs raises $69M after viral billboard hiring stunt to scale AI customer interviews",
-      "summary": "Alfred Wahlforss was running out of options. His startup, Listen Labs, needed to hire over 100 engineers, but competing against Mark Zuckerberg's $100 million offers seemed impossible.",
-      "source": "VentureBeat",
-      "published": "2026-01-16T14:01:00+00:00",
-      "link": "https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai"
-    },
-    {
-      "title": "Salesforce rolls out new Slackbot AI agent as it battles Microsoft and Google in workplace AI",
-      "summary": "Salesforce on Tuesday launched an entirely rebuilt version of Slackbot, the company's workplace assistant, transforming it from a simple notification tool into what executives describe as a fully powered AI agent capable of searching enterprise data, drafting documents, and...",
-      "source": "VentureBeat",
-      "published": "2026-01-13T13:00:00+00:00",
-      "link": "https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and"
-    },
-    {
-      "title": "Anthropic launches Cowork, a Claude Desktop agent that works in your files — no coding required",
-      "summary": "Anthropic released Cowork on Monday, a new AI agent capability that extends the power of its wildly successful Claude Code tool to non-technical users — and according to company insiders, the team built the entire feature in approximately a week and a half, largely using Claude...",
-      "source": "VentureBeat",
-      "published": "2026-01-12T11:30:00+00:00",
-      "link": "https://venturebeat.com/technology/anthropic-launches-cowork-a-claude-desktop-agent-that-works-in-your-files-no"
-    },
-    {
-      "title": "Nous Research's NousCoder-14B is an open-source coding model landing right in the Claude Code moment",
-      "summary": "Nous Research, the open-source artificial intelligence startup backed by crypto venture firm Paradigm, released a new competitive programming model on Monday that it says matches or exceeds several larger proprietary systems — trained in just four days using 48 of Nvidia's...",
-      "source": "VentureBeat",
-      "published": "2026-01-07T20:00:00+00:00",
-      "link": "https://venturebeat.com/technology/nous-researchs-nouscoder-14b-is-an-open-source-coding-model-landing-right-in"
     }
   ]
 };
