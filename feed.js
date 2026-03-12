@@ -1,12 +1,166 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-03-12T11:05:47.599789+00:00",
+  "lastUpdated": "2026-03-12T16:39:19.846523+00:00",
   "items": [
+    {
+      "title": "ChatGPT still leads the chatbot market but its dominance is slipping as Google's Gemini gains ground",
+      "summary": "ChatGPT continues to dominate the chatbot market, but its lead is shrinking. According to new Similarweb figures, OpenAI's chatbot has fallen from 75.7 to 61.7 percent market share in just twelve months.",
+      "source": "The Decoder",
+      "published": "2026-03-12T16:30:47+00:00",
+      "link": "https://the-decoder.com/chatgpt-still-leads-the-chatbot-market-but-its-dominance-is-slipping-as-googles-gemini-gains-ground/"
+    },
+    {
+      "title": "Anthropic’s Claude AI can respond with charts, diagrams, and other visuals now",
+      "summary": "Anthropic's latest update to Claude will allow the AI chatbot to generate custom charts, diagrams, and other visualizations during your conversation.",
+      "source": "The Verge",
+      "published": "2026-03-12T16:00:00+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/893625/anthropic-claude-ai-charts-diagrams"
+    },
+    {
+      "title": "Gumloop lands $50M from Benchmark to turn every employee into an AI agent builder",
+      "summary": "As companies race to adopt AI, Benchmark general partner Everett Randle believes the key to success lies in empowering every worker with AI superpowers, and Gumloop’s intuitive agent builder is an example of the kind of tool that will unlock that potential.",
+      "source": "TechCrunch",
+      "published": "2026-03-12T15:30:00+00:00",
+      "link": "https://techcrunch.com/2026/03/12/gumloop-lands-50m-from-benchmark-to-turn-every-employee-into-an-ai-agent-builder/"
+    },
+    {
+      "title": "Wonderful raises $150M Series B at $2B valuation",
+      "summary": "The funding round, led by Insight Partners, comes just four months after Wonderful raised a $100 million Series A.",
+      "source": "TechCrunch",
+      "published": "2026-03-12T15:12:35+00:00",
+      "link": "https://techcrunch.com/2026/03/12/wonderful-raises-150m-series-b-at-2b-valuation/"
+    },
+    {
+      "title": "Iranian propaganda images made with AI end up in major German media outlet",
+      "summary": "Der Spiegel has removed several images from its Iran coverage because they were most likely generated or altered by AI. The article Iranian propaganda images made with AI end up in major German media outlet appeared first on The Decoder.",
+      "source": "The Decoder",
+      "published": "2026-03-12T15:08:53+00:00",
+      "link": "https://the-decoder.com/iranian-propaganda-images-made-with-ai-end-up-in-major-german-media-outlet/"
+    },
+    {
+      "title": "How multi-agent AI economics influence business automation",
+      "summary": "Managing the economics of multi-agent AI now dictates the financial viability of modern business automation workflows. Organisations progressing past standard chat interfaces into multi-agent applications face two primary constraints.",
+      "source": "AI News",
+      "published": "2026-03-12T15:01:20+00:00",
+      "link": "https://www.artificialintelligence-news.com/news/how-multi-agent-ai-economics-business-automation/"
+    },
+    {
+      "title": "Meta's JEPA architecture outperforms standard AI methods in noisy medical imaging",
+      "summary": "Researchers have presented an AI model for cardiac ultrasound based on Meta's JEPA architecture that outperforms common methods such as masked autoencoder or contrastive learning, according to their benchmarks.",
+      "source": "The Decoder",
+      "published": "2026-03-12T15:01:07+00:00",
+      "link": "https://the-decoder.com/metas-jepa-architecture-outperforms-standard-ai-methods-in-cardiac-ultrasound-analysis/"
+    },
+    {
+      "title": "Nvidia steps into the open-source AI gap that OpenAI, Meta, and Anthropic left behind",
+      "summary": "An SEC filing reveals that Nvidia plans to spend $26 billion on open-weight AI models over the next five years. The move doubles as a strategic response to the growing dominance of Chinese open-source models - and a way to keep developers locked into Nvidia's hardware ecosystem.",
+      "source": "The Decoder",
+      "published": "2026-03-12T14:55:59+00:00",
+      "link": "https://the-decoder.com/nvidia-steps-into-the-open-source-ai-gap-that-openai-meta-and-anthropic-left-behind/"
+    },
+    {
+      "title": "Anthropic doesn’t trust the Pentagon, and neither should you",
+      "summary": "Today we’re talking about the messy, fast-moving situation at Anthropic, the maker of Claude that now finds itself in a very ugly legal battle with the Pentagon.",
+      "source": "The Verge",
+      "published": "2026-03-12T14:00:00+00:00",
+      "link": "https://www.theverge.com/podcast/893370/anthropic-pentagon-ai-mass-surveillance-nsa-privacy-spying"
+    },
+    {
+      "title": "Bespoke AI models are the next big thing in filmmaking",
+      "summary": "Though many AI boosters have convinced themselves that the technology can spit out films and television series whole cloth, claims of Hollywood being cooked feel very premature when you see what people are making with the most popular image/video models on the market.",
+      "source": "The Verge",
+      "published": "2026-03-12T13:56:00+00:00",
+      "link": "https://www.theverge.com/streaming/893538/ai-model-netflix-interpositive-ben-affleck"
+    },
+    {
+      "title": "Show HN: Axe A 12MB binary that replaces your AI framework",
+      "summary": "Article URL: https://github.com/jrswab/axe Comments URL: https://news.ycombinator.com/item?id=47350516 Points: 59 # Comments: 55",
+      "source": "Hacker News",
+      "published": "2026-03-12T13:49:12+00:00",
+      "link": "https://github.com/jrswab/axe"
+    },
+    {
+      "title": "Show HN: We analyzed 1,573 Claude Code sessions to see how AI agents work",
+      "summary": "We built rudel.ai after realizing we had no visibility into our own Claude Code sessions. We were using it daily but had no idea which sessions were efficient, why some got abandoned, or whether we were actually improving over time.So we built an analytics layer for it.",
+      "source": "Hacker News",
+      "published": "2026-03-12T13:41:12+00:00",
+      "link": "https://github.com/obsessiondb/rudel"
+    },
+    {
+      "title": "Google's new Ask Maps lets you search for places in plain language using Gemini AI",
+      "summary": "Google Maps is turning into an AI travel advisor. The new \"Ask Maps\" feature answers complex questions in plain language and shows personalized results on a customized map.",
+      "source": "The Decoder",
+      "published": "2026-03-12T13:08:19+00:00",
+      "link": "https://the-decoder.com/googles-new-ask-maps-lets-you-search-for-places-in-plain-language-using-gemini-ai/"
+    },
+    {
+      "title": "The Download: Early adopters cash in on China’s OpenClaw craze, and US batteries slump",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.",
+      "source": "MIT Tech Review",
+      "published": "2026-03-12T13:02:48+00:00",
+      "link": "https://www.technologyreview.com/2026/03/12/1134207/the-download-china-openclaw-ai-craze-us-battery-industry-downturn/"
+    },
+    {
+      "title": "Microsoft’s Copilot Health can connect to your medical records and wearables",
+      "summary": "Microsoft announced on Thursday that it's launching Copilot Health, a \"separate, secure space\" in Copilot for asking questions about lab results and medical records, searching for providers, analyzing data from wearables, and other health-related chats.",
+      "source": "The Verge",
+      "published": "2026-03-12T13:01:07+00:00",
+      "link": "https://www.theverge.com/tech/893594/microsoft-copilot-health-launch"
+    },
     {
       "title": "Google is using old news reports and AI to predict flash floods",
       "summary": "A new way to solve data scarcity: Turning qualitative reports into quantitative data with an LLM.",
       "source": "TechCrunch",
-      "published": "2026-03-12T10:00:00+00:00",
+      "published": "2026-03-12T13:00:00+00:00",
       "link": "https://techcrunch.com/2026/03/12/google-is-using-old-news-reports-and-ai-to-predict-flash-floods/"
+    },
+    {
+      "title": "Pragmatic by design: Engineering AI for the real world",
+      "summary": "The impact of artificial intelligence extends far beyond the digital world and into our everyday lives, across the cars we drive, the appliances in our homes, and medical devices that keep people alive.",
+      "source": "MIT Tech Review",
+      "published": "2026-03-12T13:00:00+00:00",
+      "link": "https://www.technologyreview.com/2026/03/12/1133675/pragmatic-by-design-engineering-ai-for-the-real-world/"
+    },
+    {
+      "title": "OpenAI is reportedly planning to integrate its video AI Sora into ChatGPT",
+      "summary": "OpenAI's video AI Sora has dropped from No. 1 to No.",
+      "source": "The Decoder",
+      "published": "2026-03-12T12:30:11+00:00",
+      "link": "https://the-decoder.com/openai-is-reportedly-planning-to-integrate-its-video-ai-sora-into-chatgpt/"
+    },
+    {
+      "title": "Google Maps is getting an AI ‘Ask Maps’ feature and upgraded ‘immersive’ navigation",
+      "summary": "The tech giant says the \"Immersive Navigation\" launch is the biggest update to Maps in over a decade.",
+      "source": "TechCrunch",
+      "published": "2026-03-12T12:30:00+00:00",
+      "link": "https://techcrunch.com/2026/03/12/google-maps-is-getting-an-ai-ask-maps-feature-and-upgraded-immersive-navigation/"
+    },
+    {
+      "title": "You can now ask Google Maps ‘complex, real-world questions’ — and Gemini will answer",
+      "summary": "Google is continuing to weave Gemini into the firmament of its most-used products. Today, it announced that Google Maps was getting a new AI-powered \"Ask Maps\" feature that allows for \"complex, real-world questions\" with highly detailed, personalized responses.",
+      "source": "The Verge",
+      "published": "2026-03-12T12:30:00+00:00",
+      "link": "https://www.theverge.com/tech/893262/google-maps-gemini-ai-ask-maps-immersive-navigation"
+    },
+    {
+      "title": "Google Maps Gets Chatty With a New Gemini-Powered Interface",
+      "summary": "“Ask Maps,” rolling out today to Google Maps on mobile, lets you ask Gemini questions about locations and even to plan trips on your behalf.",
+      "source": "Wired",
+      "published": "2026-03-12T12:30:00+00:00",
+      "link": "https://www.wired.com/story/google-maps-ask-maps-gemini-powered-tool/"
+    },
+    {
+      "title": "Perplexity’s Personal Computer turns your spare Mac into an AI agent",
+      "summary": "Perplexity wants to be more than just an answer engine.",
+      "source": "The Verge",
+      "published": "2026-03-12T12:00:34+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/893536/perplexitys-personal-computer-turns-your-spare-mac-into-an-ai-agent"
+    },
+    {
+      "title": "Meta unveils four generations of custom AI chips to cut inference costs for billions of users",
+      "summary": "Meta unveils four new custom AI chips focused on inference, pushing to reduce its dependence on GPU makers like Nvidia and AMD. The article Meta unveils four generations of custom AI chips to cut inference costs for billions of users appeared first on The Decoder.",
+      "source": "The Decoder",
+      "published": "2026-03-12T11:54:36+00:00",
+      "link": "https://the-decoder.com/meta-unveils-four-generations-of-custom-ai-chips-to-cut-inference-costs-for-billions-of-users/"
     },
     {
       "title": "Brutal times for the US battery industry",
@@ -14,6 +168,13 @@ const FEED_DATA = {
       "source": "MIT Tech Review",
       "published": "2026-03-12T10:00:00+00:00",
       "link": "https://www.technologyreview.com/2026/03/12/1134197/us-battery-industry/"
+    },
+    {
+      "title": "Reliable Software in the LLM Era",
+      "summary": "Article URL: https://quint-lang.org/posts/llm_era Comments URL: https://news.ycombinator.com/item?id=47347901 Points: 67 # Comments: 21",
+      "source": "Hacker News",
+      "published": "2026-03-12T08:19:46+00:00",
+      "link": "https://quint-lang.org/posts/llm_era"
     },
     {
       "title": "FIFA is rebuilding world football operations on AI. The World Cup is just the first test",
@@ -24,7 +185,7 @@ const FEED_DATA = {
     },
     {
       "title": "How much of HN is AI?",
-      "summary": "Article URL: https://lcamtuf.substack.com/p/how-much-of-hn-is-ai Comments URL: https://news.ycombinator.com/item?id=47344999 Points: 92 # Comments: 55",
+      "summary": "Article URL: https://lcamtuf.substack.com/p/how-much-of-hn-is-ai Comments URL: https://news.ycombinator.com/item?id=47344999 Points: 96 # Comments: 57",
       "source": "Hacker News",
       "published": "2026-03-12T01:15:40+00:00",
       "link": "https://lcamtuf.substack.com/p/how-much-of-hn-is-ai"
@@ -59,7 +220,7 @@ const FEED_DATA = {
     },
     {
       "title": "Atlassian to cut roughly 1,600 jobs in pivot to AI",
-      "summary": "Article URL: https://www.reuters.com/technology/atlassian-lay-off-about-1600-people-pivot-ai-2026-03-11/ Comments URL: https://news.ycombinator.com/item?id=47343156 Points: 191 # Comments: 256",
+      "summary": "Article URL: https://www.reuters.com/technology/atlassian-lay-off-about-1600-people-pivot-ai-2026-03-11/ Comments URL: https://news.ycombinator.com/item?id=47343156 Points: 208 # Comments: 286",
       "source": "Hacker News",
       "published": "2026-03-11T22:29:42+00:00",
       "link": "https://www.reuters.com/technology/atlassian-lay-off-about-1600-people-pivot-ai-2026-03-11/"
@@ -73,7 +234,7 @@ const FEED_DATA = {
     },
     {
       "title": "Preliminary data from a longitudinal AI impact study",
-      "summary": "Article URL: https://newsletter.getdx.com/p/ai-productivity-gains-are-10-not Comments URL: https://news.ycombinator.com/item?id=47342139 Points: 53 # Comments: 33",
+      "summary": "Article URL: https://newsletter.getdx.com/p/ai-productivity-gains-are-10-not Comments URL: https://news.ycombinator.com/item?id=47342139 Points: 55 # Comments: 39",
       "source": "Hacker News",
       "published": "2026-03-11T21:23:24+00:00",
       "link": "https://newsletter.getdx.com/p/ai-productivity-gains-are-10-not"
@@ -87,7 +248,7 @@ const FEED_DATA = {
     },
     {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
-      "summary": "Article URL: https://news.ycombinator.com/newsguidelines.html#generated Comments URL: https://news.ycombinator.com/item?id=47340079 Points: 3622 # Comments: 1353",
+      "summary": "Article URL: https://news.ycombinator.com/newsguidelines.html#generated Comments URL: https://news.ycombinator.com/item?id=47340079 Points: 3992 # Comments: 1497",
       "source": "Hacker News",
       "published": "2026-03-11T19:29:29+00:00",
       "link": "https://news.ycombinator.com/newsguidelines.html#generated"
@@ -112,6 +273,13 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-03-11T18:41:30+00:00",
       "link": "https://the-decoder.com/google-unifies-text-image-video-and-audio-in-a-single-vector-space-with-gemini-embedding-2/"
+    },
+    {
+      "title": "I was interviewed by an AI bot for a job",
+      "summary": "https://archive.ph/DEwy7 Comments URL: https://news.ycombinator.com/item?id=47339164 Points: 394 # Comments: 412",
+      "source": "Hacker News",
+      "published": "2026-03-11T18:17:30+00:00",
+      "link": "https://www.theverge.com/featured-video/892850/i-was-interviewed-by-an-ai-bot-for-a-job"
     },
     {
       "title": "Nvidia Will Spend $26 Billion to Build Open-Weight AI Models, Filings Show",
@@ -240,13 +408,6 @@ const FEED_DATA = {
       "link": "https://techcrunch.com/2026/03/11/canopii-looks-to-succeed-where-past-indoor-farms-have-not/"
     },
     {
-      "title": "I was interviewed by an AI bot for a job",
-      "summary": "Millions of people are on the job hunt right now - and for many people, landing a job in the AI era feels more intimidating than ever.",
-      "source": "The Verge",
-      "published": "2026-03-11T14:00:00+00:00",
-      "link": "https://www.theverge.com/featured-video/892850/i-was-interviewed-by-an-ai-bot-for-a-job"
-    },
-    {
       "title": "The mysterious case of the DHS white supremacist memelord",
       "summary": "Hello and welcome to Regulator, a newsletter that takes Verge subscribers into the smoke-filled back rooms of Washington as they become the Zyn-filled back rooms of Washington. (Although Tucker Carlson's ALP is more popular among a certain set.) Not a Verge subscriber yet?",
       "source": "The Verge",
@@ -325,7 +486,7 @@ const FEED_DATA = {
     },
     {
       "title": "How we hacked McKinsey's AI platform",
-      "summary": "Article URL: https://codewall.ai/blog/how-we-hacked-mckinseys-ai-platform Comments URL: https://news.ycombinator.com/item?id=47333627 Points: 438 # Comments: 175",
+      "summary": "Article URL: https://codewall.ai/blog/how-we-hacked-mckinseys-ai-platform Comments URL: https://news.ycombinator.com/item?id=47333627 Points: 458 # Comments: 189",
       "source": "Hacker News",
       "published": "2026-03-11T09:59:03+00:00",
       "link": "https://codewall.ai/blog/how-we-hacked-mckinseys-ai-platform"
@@ -353,7 +514,7 @@ const FEED_DATA = {
     },
     {
       "title": "Google to provide Pentagon with AI agents",
-      "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-03-10/google-to-provide-pentagon-with-ai-agents-for-unclassified-work Comments URL: https://news.ycombinator.com/item?id=47333433 Points: 72 # Comments: 74",
+      "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-03-10/google-to-provide-pentagon-with-ai-agents-for-unclassified-work Comments URL: https://news.ycombinator.com/item?id=47333433 Points: 72 # Comments: 77",
       "source": "Hacker News",
       "published": "2026-03-11T09:30:22+00:00",
       "link": "https://www.bloomberg.com/news/articles/2026-03-10/google-to-provide-pentagon-with-ai-agents-for-unclassified-work"
@@ -555,6 +716,13 @@ const FEED_DATA = {
       "link": "https://the-decoder.com/meta-acquires-moltbook-the-reddit-style-platform-built-for-ai-agents/"
     },
     {
+      "title": "Building a strong data infrastructure for AI agent success",
+      "summary": "In the race to adopt and show value from AI, enterprises are moving faster than ever to deploy agentic AI as copilots, assistants, and autonomous task-runners.",
+      "source": "MIT Tech Review",
+      "published": "2026-03-10T14:00:00+00:00",
+      "link": "https://www.technologyreview.com/2026/03/10/1134083/building-a-strong-data-infrastructure-for-ai-agent-success/"
+    },
+    {
       "title": "YouTube expands AI deepfake detection to politicians, government officials, and journalists",
       "summary": "YouTube's AI deepfake detection tool is becoming available to politicians, journalists, and officials, letting them flag unauthorized likenesses for removal.",
       "source": "TechCrunch",
@@ -668,14 +836,14 @@ const FEED_DATA = {
     },
     {
       "title": "PgAdmin 4 9.13 with AI Assistant Panel",
-      "summary": "Article URL: https://www.pgadmin.org/docs/pgadmin4/9.13/query_tool.html#ai-assistant-panel Comments URL: https://news.ycombinator.com/item?id=47322033 Points: 94 # Comments: 35",
+      "summary": "Article URL: https://www.pgadmin.org/docs/pgadmin4/9.13/query_tool.html#ai-assistant-panel Comments URL: https://news.ycombinator.com/item?id=47322033 Points: 95 # Comments: 36",
       "source": "Hacker News",
       "published": "2026-03-10T11:58:36+00:00",
       "link": "https://www.pgadmin.org/docs/pgadmin4/9.13/query_tool.html#ai-assistant-panel"
     },
     {
       "title": "Yann LeCun's AI startup raises $1B in Europe's largest ever seed round",
-      "summary": "https://archive.md/5eZWq Comments URL: https://news.ycombinator.com/item?id=47321533 Points: 415 # Comments: 2",
+      "summary": "https://archive.md/5eZWq Comments URL: https://news.ycombinator.com/item?id=47321533 Points: 416 # Comments: 2",
       "source": "Hacker News",
       "published": "2026-03-10T10:50:30+00:00",
       "link": "https://www.ft.com/content/e5245ec3-1a58-4eff-ab58-480b6259aaf1"
@@ -703,7 +871,7 @@ const FEED_DATA = {
     },
     {
       "title": "Yann LeCun raises $1B to build AI that understands the physical world",
-      "summary": "https://web.archive.org/web/20260310153721/https://www.wired...https://www.ft.com/content/e5245ec3-1a58-4eff-ab58-480b6259a... (https://archive.md/5eZWq) Comments URL: https://news.ycombinator.com/item?id=47320600 Points: 604 # Comments: 484",
+      "summary": "https://web.archive.org/web/20260310153721/https://www.wired...https://www.ft.com/content/e5245ec3-1a58-4eff-ab58-480b6259a... (https://archive.md/5eZWq) Comments URL: https://news.ycombinator.com/item?id=47320600 Points: 605 # Comments: 492",
       "source": "Hacker News",
       "published": "2026-03-10T08:46:53+00:00",
       "link": "https://www.wired.com/story/yann-lecun-raises-dollar1-billion-to-build-ai-that-understands-the-physical-world/"
@@ -1232,174 +1400,6 @@ const FEED_DATA = {
       "source": "MIT Tech Review",
       "published": "2026-03-06T19:21:22+00:00",
       "link": "https://www.technologyreview.com/2026/03/06/1134012/is-the-pentagon-allowed-to-surveil-americans-with-ai/"
-    },
-    {
-      "title": "Scaling intelligent automation without breaking live workflows",
-      "summary": "Scaling intelligent automation without disruption demands a focus on architectural elasticity, not just deploying more bots. At the Intelligent Automation Conference, industry leaders gathered to dissect why many automation initiatives stall after pilot phases.",
-      "source": "AI News",
-      "published": "2026-03-06T13:15:41+00:00",
-      "link": "https://www.artificialintelligence-news.com/news/scaling-intelligent-automation-without-breaking-live-workflows/"
-    },
-    {
-      "title": "The Download: 10 things that matter in AI, plus Anthropic’s plan to sue the Pentagon",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.",
-      "source": "MIT Tech Review",
-      "published": "2026-03-06T13:10:00+00:00",
-      "link": "https://www.technologyreview.com/2026/03/06/1133989/the-download-10-things-that-matter-in-ai-anthropics-plan-sue-pentagon/"
-    },
-    {
-      "title": "Why Is Alexa+ So Bad?",
-      "summary": "I stuck Amazon’s Echo Show 15 and its Alexa+ AI assistant in my kitchen for a month. Things have not gone well.",
-      "source": "Wired",
-      "published": "2026-03-06T11:00:00+00:00",
-      "link": "https://www.wired.com/story/why-is-amazon-alexa-plus-so-bad/"
-    },
-    {
-      "title": "The firm that never forgets: Rowspace launches with $50M to make AI for private equity actually work",
-      "summary": "Private equity runs on judgment–and judgment, it turns out, is extraordinarily hard to scale. Decades of deal memos, underwriting models, partner notes, and portfolio data are scattered across systems that were never designed to communicate with each other.",
-      "source": "AI News",
-      "published": "2026-03-06T10:00:00+00:00",
-      "link": "https://www.artificialintelligence-news.com/news/rowspace-50m-ai-private-equity-sequoia-emergence/"
-    },
-    {
-      "title": "The Download: an AI agent’s hit piece, and preventing lightning",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.",
-      "source": "MIT Tech Review",
-      "published": "2026-03-05T14:28:46+00:00",
-      "link": "https://www.technologyreview.com/2026/03/05/1133968/the-download-ai-agent-hit-piece-preventing-lightning/"
-    },
-    {
-      "title": "How much wildfire prevention is too much?",
-      "summary": "The race to prevent the worst wildfires has been an increasingly high-tech one. Companies are proposing AI fire detection systems and drones that can stamp out early blazes.",
-      "source": "MIT Tech Review",
-      "published": "2026-03-05T11:00:00+00:00",
-      "link": "https://www.technologyreview.com/2026/03/05/1133960/wildfire-prevention-limits/"
-    },
-    {
-      "title": "JPMorgan expands AI investment as tech spending nears $20B",
-      "summary": "Artificial intelligence is moving from pilot projects to core business systems inside large companies. One example comes from JPMorgan Chase, where rising AI investment is helping push the bank’s technology budget toward about US$19.8 billion in 2026.",
-      "source": "AI News",
-      "published": "2026-03-05T10:00:00+00:00",
-      "link": "https://www.artificialintelligence-news.com/news/jpmorgan-expands-ai-investment/"
-    },
-    {
-      "title": "Beyond the pilot: Dyna.Ai raises eight-figure Series A to put agentic AI in financial services to work",
-      "summary": "The financial services industry has a pilot problem. Institutions pour resources into AI proofs-of-concept, generate impressive dashboards, and then quietly watch momentum stall before anything reaches production.",
-      "source": "AI News",
-      "published": "2026-03-05T08:00:00+00:00",
-      "link": "https://www.artificialintelligence-news.com/news/dyna-ai-series-a-agentic-ai-financial-services/"
-    },
-    {
-      "title": "Physical AI is having its moment–and everyone wants a piece of it",
-      "summary": "There is a particular kind of momentum in the technology industry that announces itself not through a single breakthrough, but through the simultaneous convergence of many.",
-      "source": "AI News",
-      "published": "2026-03-04T12:00:00+00:00",
-      "link": "https://www.artificialintelligence-news.com/news/physical-ai-global-race-robots-manufacturing-2026/"
-    },
-    {
-      "title": "AI agents prefer Bitcoin shaping new finance architecture",
-      "summary": "AI agents prefer Bitcoin for digital wealth storage, forcing finance chiefs to adapt their architecture for machine autonomy. When AI systems gain economic autonomy, their internal logic dictates how corporate capital flows.",
-      "source": "AI News",
-      "published": "2026-03-04T10:52:45+00:00",
-      "link": "https://www.artificialintelligence-news.com/news/ai-agents-prefer-bitcoin-new-finance-architecture/"
-    },
-    {
-      "title": "Google makes its industrial robotics AI play official–and this time, it means business",
-      "summary": "When Google folds a moonshot into its core operations, it’s not cleaning house. It’s placing a bet.",
-      "source": "AI News",
-      "published": "2026-03-04T08:00:00+00:00",
-      "link": "https://www.artificialintelligence-news.com/news/google-industrial-robotics-ai-physical-ai-intrinsic/"
-    },
-    {
-      "title": "LLMs can unmask pseudonymous users at scale with surprising accuracy",
-      "summary": "Pseudonymity has never been perfect for preserving privacy. Soon it may be pointless.",
-      "source": "Ars Technica",
-      "published": "2026-03-03T12:30:24+00:00",
-      "link": "https://arstechnica.com/security/2026/03/llms-can-unmask-pseudonymous-users-at-scale-with-surprising-accuracy/"
-    },
-    {
-      "title": "New AirSnitch attack bypasses Wi-Fi encryption in homes, offices, and enterprises",
-      "summary": "That guest network you set up for your neighbors may not be as secure as you think.",
-      "source": "Ars Technica",
-      "published": "2026-02-26T15:45:18+00:00",
-      "link": "https://arstechnica.com/security/2026/02/new-airsnitch-attack-breaks-wi-fi-encryption-in-homes-offices-and-enterprises/"
-    },
-    {
-      "title": "Retraction: After a routine code rejection, an AI agent published a hit piece on someone by name",
-      "summary": "This story has been retracted",
-      "source": "Ars Technica",
-      "published": "2026-02-13T19:40:21+00:00",
-      "link": "https://arstechnica.com/ai/2026/02/after-a-routine-code-rejection-an-ai-agent-published-a-hit-piece-on-someone-by-name/"
-    },
-    {
-      "title": "OpenAI sidesteps Nvidia with unusually fast coding model on plate-sized chips",
-      "summary": "OpenAI's new GPT‑5.3‑Codex‑Spark is 15 times faster at coding than its predecessor.",
-      "source": "Ars Technica",
-      "published": "2026-02-12T22:56:02+00:00",
-      "link": "https://arstechnica.com/ai/2026/02/openai-sidesteps-nvidia-with-unusually-fast-coding-model-on-plate-sized-chips/"
-    },
-    {
-      "title": "Attackers prompted Gemini over 100,000 times while trying to clone it, Google says",
-      "summary": "Distillation technique lets copycats mimic Gemini at a fraction of the development cost.",
-      "source": "Ars Technica",
-      "published": "2026-02-12T19:42:08+00:00",
-      "link": "https://arstechnica.com/ai/2026/02/attackers-prompted-gemini-over-100000-times-while-trying-to-clone-it-google-says/"
-    },
-    {
-      "title": "Once-hobbled Lumma Stealer is back with lures that are hard to resist",
-      "summary": "ClickFix bait, combined with advanced Castleloader malware, is installing Lumma \"at scale.\"",
-      "source": "Ars Technica",
-      "published": "2026-02-11T22:11:40+00:00",
-      "link": "https://arstechnica.com/security/2026/02/once-hobbled-lumma-stealer-is-back-with-lures-that-are-hard-to-resist/"
-    },
-    {
-      "title": "OpenAI researcher quits over ChatGPT ads, warns of \"Facebook\" path",
-      "summary": "Zoë Hitzig resigned on the same day OpenAI began testing ads in its chatbot.",
-      "source": "Ars Technica",
-      "published": "2026-02-11T20:44:19+00:00",
-      "link": "https://arstechnica.com/information-technology/2026/02/openai-researcher-quits-over-fears-that-chatgpt-ads-could-manipulate-users/"
-    },
-    {
-      "title": "Sixteen Claude AI agents working together created a new C compiler",
-      "summary": "The $20,000 experiment compiled a Linux kernel but needed deep human management.",
-      "source": "Ars Technica",
-      "published": "2026-02-06T23:40:58+00:00",
-      "link": "https://arstechnica.com/ai/2026/02/sixteen-claude-ai-agents-working-together-created-a-new-c-compiler/"
-    },
-    {
-      "title": "AI companies want you to stop chatting with bots and start managing them",
-      "summary": "Claude Opus 4.6 and OpenAI Frontier pitch a future of supervising AI agents.",
-      "source": "Ars Technica",
-      "published": "2026-02-05T22:47:54+00:00",
-      "link": "https://arstechnica.com/information-technology/2026/02/ai-companies-want-you-to-stop-chatting-with-bots-and-start-managing-them/"
-    },
-    {
-      "title": "OpenAI is hoppin' mad about Anthropic's new Super Bowl TV ads",
-      "summary": "Sam Altman calls AI competitor \"dishonest\" and \"authoritarian\" in lengthy post on X.",
-      "source": "Ars Technica",
-      "published": "2026-02-05T17:46:59+00:00",
-      "link": "https://arstechnica.com/information-technology/2026/02/openai-is-hoppin-mad-about-anthropics-new-super-bowl-tv-ads/"
-    },
-    {
-      "title": "Increase of AI bots on the Internet sparks arms race",
-      "summary": "Publishers are rolling out more aggressive defenses.",
-      "source": "Ars Technica",
-      "published": "2026-02-05T14:21:20+00:00",
-      "link": "https://arstechnica.com/ai/2026/02/increase-of-ai-bots-on-the-internet-sparks-arms-race/"
-    },
-    {
-      "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
-      "summary": "Railway, a San Francisco-based cloud platform that has quietly amassed two million developers without spending a dollar on marketing, announced Thursday that it raised $100 million in a Series B funding round, as surging demand for artificial intelligence applications exposes...",
-      "source": "VentureBeat",
-      "published": "2026-01-22T14:00:00+00:00",
-      "link": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud"
-    },
-    {
-      "title": "Claude Code costs up to $200 a month. Goose does the same thing for free.",
-      "summary": "The artificial intelligence coding revolution comes with a catch: it's expensive.Claude Code, Anthropic's terminal-based AI agent that can write, debug, and deploy code autonomously, has captured the imagination of software developers worldwide.",
-      "source": "VentureBeat",
-      "published": "2026-01-19T14:00:00+00:00",
-      "link": "https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free"
     }
   ]
 };
