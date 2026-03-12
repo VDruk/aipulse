@@ -1,6 +1,55 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-03-11T21:58:36.529155+00:00",
+  "lastUpdated": "2026-03-12T05:19:53.104559+00:00",
   "items": [
+    {
+      "title": "How much of HN is AI?",
+      "summary": "Article URL: https://lcamtuf.substack.com/p/how-much-of-hn-is-ai Comments URL: https://news.ycombinator.com/item?id=47344999 Points: 80 # Comments: 41",
+      "source": "Hacker News",
+      "published": "2026-03-12T01:15:40+00:00",
+      "link": "https://lcamtuf.substack.com/p/how-much-of-hn-is-ai"
+    },
+    {
+      "title": "AI ‘actor’ Tilly Norwood put out the worst song I’ve ever heard",
+      "summary": "This song is an AI actor's rallying cry to other AI actors, urging them to keep going despite the naysayers who doubt their humanity. Literally no one can relate to this.",
+      "source": "TechCrunch",
+      "published": "2026-03-11T23:35:03+00:00",
+      "link": "https://techcrunch.com/2026/03/11/ai-actor-tilly-norwood-put-out-the-worst-song-ive-ever-heard/"
+    },
+    {
+      "title": "One of Grammarly’s ‘experts’ is suing the company over its identity-stealing AI feature",
+      "summary": "For months, Grammarly has been using the identities of real people (including us) for its \"Expert Review\" AI suggestions without getting their permission, and now it's facing a lawsuit from one of the journalists included, as previously reported by Wired.",
+      "source": "The Verge",
+      "published": "2026-03-11T22:51:53+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/893451/grammarly-ai-lawsuit-julia-angwin"
+    },
+    {
+      "title": "Ford’s new AI assistant will help fleet owners know if seatbelts are being used",
+      "summary": "Ford Pro AI debuted at Work Truck Week in Indianapolis and is now available to all of its U.S.-based Pro telematics subscribers.",
+      "source": "TechCrunch",
+      "published": "2026-03-11T22:51:39+00:00",
+      "link": "https://techcrunch.com/2026/03/11/fords-new-ai-assistant-will-help-fleet-owners-know-if-seatbelts-are-being-used/"
+    },
+    {
+      "title": "Zendesk acquires agentic customer service startup Forethought",
+      "summary": "Forethought was years ahead of its time and the 2018 winner of TechCrunch Battlefield.",
+      "source": "TechCrunch",
+      "published": "2026-03-11T22:41:27+00:00",
+      "link": "https://techcrunch.com/2026/03/11/zendesk-acquires-agentic-customer-service-startup-forethought/"
+    },
+    {
+      "title": "Atlassian to cut roughly 1,600 jobs in pivot to AI",
+      "summary": "Article URL: https://www.reuters.com/technology/atlassian-lay-off-about-1600-people-pivot-ai-2026-03-11/ Comments URL: https://news.ycombinator.com/item?id=47343156 Points: 169 # Comments: 231",
+      "source": "Hacker News",
+      "published": "2026-03-11T22:29:42+00:00",
+      "link": "https://www.reuters.com/technology/atlassian-lay-off-about-1600-people-pivot-ai-2026-03-11/"
+    },
+    {
+      "title": "Netflix may have paid $600 million for Ben Affleck’s AI startup",
+      "summary": "This deal could rank as among the streaming giant's largest acquisitions ever.",
+      "source": "TechCrunch",
+      "published": "2026-03-11T22:00:05+00:00",
+      "link": "https://techcrunch.com/2026/03/11/netflix-may-have-paid-600-million-for-ben-afflecks-ai-startup/"
+    },
     {
       "title": "Grammarly Is Facing a Class Action Lawsuit Over Its AI ‘Expert Review’ Feature",
       "summary": "The feature, which Grammarly shut down Wednesday, presented editing suggestions as if they came from established authors and academics—without their consent.",
@@ -9,8 +58,8 @@ const FEED_DATA = {
       "link": "https://www.wired.com/story/grammarly-is-facing-a-class-action-lawsuit-over-its-ai-expert-review-feature/"
     },
     {
-      "title": "Don't post generated/AI-edited comments. HN is for conversation between humans.",
-      "summary": "Article URL: https://news.ycombinator.com/newsguidelines.html#generated Comments URL: https://news.ycombinator.com/item?id=47340079 Points: 1633 # Comments: 654",
+      "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
+      "summary": "Article URL: https://news.ycombinator.com/newsguidelines.html#generated Comments URL: https://news.ycombinator.com/item?id=47340079 Points: 3122 # Comments: 1184",
       "source": "Hacker News",
       "published": "2026-03-11T19:29:29+00:00",
       "link": "https://news.ycombinator.com/newsguidelines.html#generated"
@@ -248,7 +297,7 @@ const FEED_DATA = {
     },
     {
       "title": "How we hacked McKinsey's AI platform",
-      "summary": "Article URL: https://codewall.ai/blog/how-we-hacked-mckinseys-ai-platform Comments URL: https://news.ycombinator.com/item?id=47333627 Points: 353 # Comments: 140",
+      "summary": "Article URL: https://codewall.ai/blog/how-we-hacked-mckinseys-ai-platform Comments URL: https://news.ycombinator.com/item?id=47333627 Points: 413 # Comments: 168",
       "source": "Hacker News",
       "published": "2026-03-11T09:59:03+00:00",
       "link": "https://codewall.ai/blog/how-we-hacked-mckinseys-ai-platform"
@@ -276,7 +325,7 @@ const FEED_DATA = {
     },
     {
       "title": "Google to provide Pentagon with AI agents",
-      "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-03-10/google-to-provide-pentagon-with-ai-agents-for-unclassified-work Comments URL: https://news.ycombinator.com/item?id=47333433 Points: 70 # Comments: 71",
+      "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-03-10/google-to-provide-pentagon-with-ai-agents-for-unclassified-work Comments URL: https://news.ycombinator.com/item?id=47333433 Points: 72 # Comments: 74",
       "source": "Hacker News",
       "published": "2026-03-11T09:30:22+00:00",
       "link": "https://www.bloomberg.com/news/articles/2026-03-10/google-to-provide-pentagon-with-ai-agents-for-unclassified-work"
@@ -444,7 +493,7 @@ const FEED_DATA = {
     },
     {
       "title": "Debian decides not to decide on AI-generated contributions",
-      "summary": "Article URL: https://lwn.net/SubscriberLink/1061544/125f911834966dd0/ Comments URL: https://news.ycombinator.com/item?id=47324087 Points: 367 # Comments: 276",
+      "summary": "Article URL: https://lwn.net/SubscriberLink/1061544/125f911834966dd0/ Comments URL: https://news.ycombinator.com/item?id=47324087 Points: 372 # Comments: 283",
       "source": "Hacker News",
       "published": "2026-03-10T14:53:13+00:00",
       "link": "https://lwn.net/SubscriberLink/1061544/125f911834966dd0/"
@@ -520,20 +569,6 @@ const FEED_DATA = {
       "link": "https://techcrunch.com/2026/03/10/adobe-is-debuting-an-ai-assistant-for-photoshop/"
     },
     {
-      "title": "Zoom introduces an AI-powered office suite, says AI avatars for meetings arrive this month",
-      "summary": "Zoom is also introducing real-time deepfake detection tech for meetings.",
-      "source": "TechCrunch",
-      "published": "2026-03-10T13:00:00+00:00",
-      "link": "https://techcrunch.com/2026/03/10/zoom-launches-an-ai-powered-office-suite-says-ai-avatars-for-meetings-are-coming-soon/"
-    },
-    {
-      "title": "Google rolls out new Gemini capabilities to Docs, Sheets, Slides, and Drive",
-      "summary": "The idea behind the new features is to make the apps more personal and capable to help users get things done faster, right within the platforms themselves.",
-      "source": "TechCrunch",
-      "published": "2026-03-10T13:00:00+00:00",
-      "link": "https://techcrunch.com/2026/03/10/google-rolls-out-new-gemini-capabilities-to-docs-sheets-slides-and-drive/"
-    },
-    {
       "title": "Prioritizing energy intelligence for sustainable growth",
       "summary": "Loudoun County, Virginia, once known for its pastoral scenery and proximity to Washington, DC, has earned a more modern reputation in recent years: The area has the highest concentration of data centers on the planet. Ten years ago, these facilities powered email and e-commerce.",
       "source": "MIT Tech Review",
@@ -546,6 +581,20 @@ const FEED_DATA = {
       "source": "Wired",
       "published": "2026-03-10T13:00:00+00:00",
       "link": "https://www.wired.com/story/google-gemini-workspace-ai-tools-hands-on/"
+    },
+    {
+      "title": "Zoom introduces an AI-powered office suite, says AI avatars for meetings arrive this month",
+      "summary": "Zoom is also introducing real-time deepfake detection tech for meetings.",
+      "source": "TechCrunch",
+      "published": "2026-03-10T13:00:00+00:00",
+      "link": "https://techcrunch.com/2026/03/10/zoom-launches-an-ai-powered-office-suite-says-ai-avatars-for-meetings-are-coming-soon/"
+    },
+    {
+      "title": "Google rolls out new Gemini capabilities to Docs, Sheets, Slides, and Drive",
+      "summary": "The idea behind the new features is to make the apps more personal and capable to help users get things done faster, right within the platforms themselves.",
+      "source": "TechCrunch",
+      "published": "2026-03-10T13:00:00+00:00",
+      "link": "https://techcrunch.com/2026/03/10/google-rolls-out-new-gemini-capabilities-to-docs-sheets-slides-and-drive/"
     },
     {
       "title": "Google’s Gemini AI is getting a bigger role across Docs, Sheets, and Slides",
@@ -591,7 +640,7 @@ const FEED_DATA = {
     },
     {
       "title": "PgAdmin 4 9.13 with AI Assistant Panel",
-      "summary": "Article URL: https://www.pgadmin.org/docs/pgadmin4/9.13/query_tool.html#ai-assistant-panel Comments URL: https://news.ycombinator.com/item?id=47322033 Points: 92 # Comments: 34",
+      "summary": "Article URL: https://www.pgadmin.org/docs/pgadmin4/9.13/query_tool.html#ai-assistant-panel Comments URL: https://news.ycombinator.com/item?id=47322033 Points: 94 # Comments: 35",
       "source": "Hacker News",
       "published": "2026-03-10T11:58:36+00:00",
       "link": "https://www.pgadmin.org/docs/pgadmin4/9.13/query_tool.html#ai-assistant-panel"
@@ -619,14 +668,14 @@ const FEED_DATA = {
     },
     {
       "title": "Redox OS has adopted a Certificate of Origin policy and a strict no-LLM policy",
-      "summary": "Article URL: https://gitlab.redox-os.org/redox-os/redox/-/blob/master/CONTRIBUTING.md Comments URL: https://news.ycombinator.com/item?id=47320661 Points: 399 # Comments: 441",
+      "summary": "Article URL: https://gitlab.redox-os.org/redox-os/redox/-/blob/master/CONTRIBUTING.md Comments URL: https://news.ycombinator.com/item?id=47320661 Points: 399 # Comments: 450",
       "source": "Hacker News",
       "published": "2026-03-10T08:54:53+00:00",
       "link": "https://gitlab.redox-os.org/redox-os/redox/-/blob/master/CONTRIBUTING.md"
     },
     {
       "title": "Yann LeCun raises $1B to build AI that understands the physical world",
-      "summary": "https://web.archive.org/web/20260310153721/https://www.wired...https://www.ft.com/content/e5245ec3-1a58-4eff-ab58-480b6259a... (https://archive.md/5eZWq) Comments URL: https://news.ycombinator.com/item?id=47320600 Points: 596 # Comments: 475",
+      "summary": "https://web.archive.org/web/20260310153721/https://www.wired...https://www.ft.com/content/e5245ec3-1a58-4eff-ab58-480b6259a... (https://archive.md/5eZWq) Comments URL: https://news.ycombinator.com/item?id=47320600 Points: 603 # Comments: 481",
       "source": "Hacker News",
       "published": "2026-03-10T08:46:53+00:00",
       "link": "https://www.wired.com/story/yann-lecun-raises-dollar1-billion-to-build-ai-that-understands-the-physical-world/"
@@ -661,7 +710,7 @@ const FEED_DATA = {
     },
     {
       "title": "Amazon holds engineering meeting following AI-related outages",
-      "summary": "https://archive.ph/wXvF3 Comments URL: https://news.ycombinator.com/item?id=47319273 Points: 111 # Comments: 91",
+      "summary": "https://archive.ph/wXvF3 Comments URL: https://news.ycombinator.com/item?id=47319273 Points: 112 # Comments: 93",
       "source": "Hacker News",
       "published": "2026-03-10T05:07:59+00:00",
       "link": "https://www.ft.com/content/7cab4ec7-4712-4137-b602-119a44f771de"
@@ -703,7 +752,7 @@ const FEED_DATA = {
     },
     {
       "title": "Learnings from paying artists royalties for AI-generated art",
-      "summary": "Article URL: https://www.kapwing.com/blog/learnings-from-paying-artists-royalties-for-ai-generated-art/ Comments URL: https://news.ycombinator.com/item?id=47318421 Points: 166 # Comments: 160",
+      "summary": "Article URL: https://www.kapwing.com/blog/learnings-from-paying-artists-royalties-for-ai-generated-art/ Comments URL: https://news.ycombinator.com/item?id=47318421 Points: 166 # Comments: 164",
       "source": "Hacker News",
       "published": "2026-03-10T02:24:52+00:00",
       "link": "https://www.kapwing.com/blog/learnings-from-paying-artists-royalties-for-ai-generated-art/"
@@ -1351,13 +1400,6 @@ const FEED_DATA = {
       "source": "VentureBeat",
       "published": "2026-01-07T20:00:00+00:00",
       "link": "https://venturebeat.com/technology/nous-researchs-nouscoder-14b-is-an-open-source-coding-model-landing-right-in"
-    },
-    {
-      "title": "The creator of Claude Code just revealed his workflow, and developers are losing their minds",
-      "summary": "When the creator of the world's most advanced coding agent speaks, Silicon Valley doesn't just listen — it takes notes.For the past week, the engineering community has been dissecting a thread on X from Boris Cherny, the creator and head of Claude Code at Anthropic.",
-      "source": "VentureBeat",
-      "published": "2026-01-05T07:45:00+00:00",
-      "link": "https://venturebeat.com/technology/the-creator-of-claude-code-just-revealed-his-workflow-and-developers-are"
     }
   ]
 };
