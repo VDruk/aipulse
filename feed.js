@@ -1,6 +1,83 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-03-12T16:39:19.846523+00:00",
+  "lastUpdated": "2026-03-12T19:31:47.799416+00:00",
   "items": [
+    {
+      "title": "Grok 4.20 trails Gemini and GPT-5.4 by a wide margin but sets a new record for not hallucinating",
+      "summary": "xAI's Grok 4.20 is cheap, fast, and hallucinates less than any other tested model, but it can't keep up with the top tier in benchmarks. The article Grok 4.20 trails Gemini and GPT-5.4 by a wide margin but sets a new record for not hallucinating appeared first on The Decoder.",
+      "source": "The Decoder",
+      "published": "2026-03-12T19:25:12+00:00",
+      "link": "https://the-decoder.com/grok-4-20-trails-gemini-and-gpt-5-4-by-a-wide-margin-but-sets-a-new-record-for-not-hallucinating/"
+    },
+    {
+      "title": "US War Department CTO says Anthropic's AI models \"pollute\" the supply chain with built-in ethics",
+      "summary": "The US Department of War wants to ban Anthropic's Claude from its supply chain because the AI models are too ethical. The approach echoes China's political control of AI.",
+      "source": "The Decoder",
+      "published": "2026-03-12T18:52:10+00:00",
+      "link": "https://the-decoder.com/us-military-chief-says-anthropics-ai-models-pollute-the-supply-chain-with-built-in-ethics/"
+    },
+    {
+      "title": "Facebook Marketplace now lets Meta AI respond to buyers’ messages",
+      "summary": "When buyers inquire about an item’s availability, sellers can use Meta AI to automatically draft replies using information from their listing, such as the description, availability, pickup location, and price.",
+      "source": "TechCrunch",
+      "published": "2026-03-12T18:20:33+00:00",
+      "link": "https://techcrunch.com/2026/03/12/facebook-marketplace-now-lets-meta-ai-respond-to-buyers-messages/"
+    },
+    {
+      "title": "Google Is Not Ruling Out Ads in Gemini",
+      "summary": "WIRED spoke with Nick Fox, Google’s SVP of knowledge and information, about how AI is changing the company’s advertising business.",
+      "source": "Wired",
+      "published": "2026-03-12T18:15:00+00:00",
+      "link": "https://www.wired.com/story/google-nick-fox-advertising-search-ai-gemini/"
+    },
+    {
+      "title": "Tinder tries to lure people back to online dating with IRL events, virtual speed dating",
+      "summary": "Tinder just got a major revamp as it attempts to re-engange its user base and attract younger daters. This includes in-person events, AI enhancements, and even virtual speed dating.",
+      "source": "TechCrunch",
+      "published": "2026-03-12T18:00:00+00:00",
+      "link": "https://techcrunch.com/2026/03/12/tinder-tries-to-lure-people-back-to-online-dating-with-irl-events-virtual-speed-dating/"
+    },
+    {
+      "title": "Copilot Health marks Microsoft's entry into the AI health race alongside OpenAI and Anthropic",
+      "summary": "Microsoft is launching Copilot Health, an AI health assistant that pulls data from wearables, medical records, and lab results to deliver personalized health advice.",
+      "source": "The Decoder",
+      "published": "2026-03-12T17:31:13+00:00",
+      "link": "https://the-decoder.com/copilot-health-marks-microsofts-entry-into-the-ai-health-race-alongside-openai-and-anthropic/"
+    },
+    {
+      "title": "Atlassian follows Block’s footsteps and cuts staff in the name of AI",
+      "summary": "Atlassian laid off 10% of its workforce, around 1,600 people, as the company looks to funnel more funds to AI.",
+      "source": "TechCrunch",
+      "published": "2026-03-12T17:20:19+00:00",
+      "link": "https://techcrunch.com/2026/03/12/atlassian-follows-blocks-footsteps-and-cuts-staff-in-the-name-of-ai/"
+    },
+    {
+      "title": "Claude can now create interactive charts and visualizations directly in chat",
+      "summary": "Anthropic has launched a new beta feature for its AI chatbot Claude: the ability to generate interactive diagrams, charts, and visualizations directly within the conversation.",
+      "source": "The Decoder",
+      "published": "2026-03-12T17:12:09+00:00",
+      "link": "https://the-decoder.com/claude-can-now-create-interactive-charts-and-visualizations-directly-in-chat/"
+    },
+    {
+      "title": "Bumble to launch an AI dating assistant, ‘Bee’",
+      "summary": "Bumble's new AI assistant Bee will move the dating app beyond the swipe by matching people based on compatibility and goals.",
+      "source": "TechCrunch",
+      "published": "2026-03-12T16:52:17+00:00",
+      "link": "https://techcrunch.com/2026/03/12/bumble-to-launch-an-ai-dating-assistant-bee/"
+    },
+    {
+      "title": "A writer is suing Grammarly for turning her and other authors into ‘AI editors’ without consent",
+      "summary": "Journalist Julia Angwin is leading a class action lawsuit against Grammarly for violating her privacy and publicity rights.",
+      "source": "TechCrunch",
+      "published": "2026-03-12T16:42:40+00:00",
+      "link": "https://techcrunch.com/2026/03/12/a-writer-is-suing-grammarly-for-turning-her-and-other-authors-into-ai-editors-without-consent/"
+    },
+    {
+      "title": "Show HN: OneCLI – Vault for AI Agents in Rust",
+      "summary": "We built OneCLI because AI agents are being given raw API keys. And it's going about as well as you'd expect.",
+      "source": "Hacker News",
+      "published": "2026-03-12T16:41:06+00:00",
+      "link": "https://github.com/onecli/onecli"
+    },
     {
       "title": "ChatGPT still leads the chatbot market but its dominance is slipping as Google's Gemini gains ground",
       "summary": "ChatGPT continues to dominate the chatbot market, but its lead is shrinking. According to new Similarweb figures, OpenAI's chatbot has fallen from 75.7 to 61.7 percent market share in just twelve months.",
@@ -14,6 +91,13 @@ const FEED_DATA = {
       "source": "The Verge",
       "published": "2026-03-12T16:00:00+00:00",
       "link": "https://www.theverge.com/ai-artificial-intelligence/893625/anthropic-claude-ai-charts-diagrams"
+    },
+    {
+      "title": "AI should not replace people at Atlassian, says CEO",
+      "summary": "Article URL: https://www.heise.de/en/news/Atlassian-CEO-AI-doesn-t-replace-people-here-but-we-re-firing-them-anyway-11208758.html Comments URL: https://news.ycombinator.com/item?id=47352335 Points: 106 # Comments: 40",
+      "source": "Hacker News",
+      "published": "2026-03-12T15:36:53+00:00",
+      "link": "https://www.heise.de/en/news/Atlassian-CEO-AI-doesn-t-replace-people-here-but-we-re-firing-them-anyway-11208758.html"
     },
     {
       "title": "Gumloop lands $50M from Benchmark to turn every employee into an AI agent builder",
@@ -70,6 +154,13 @@ const FEED_DATA = {
       "source": "The Verge",
       "published": "2026-03-12T13:56:00+00:00",
       "link": "https://www.theverge.com/streaming/893538/ai-model-netflix-interpositive-ben-affleck"
+    },
+    {
+      "title": "Show HN: Axe – A 12MB binary that replaces your AI framework",
+      "summary": "I built Axe because I got tired of every AI tool trying to be a chatbot.Most frameworks want a long-lived session with a massive context window doing everything at once. That's expensive, slow, and fragile.",
+      "source": "Hacker News",
+      "published": "2026-03-12T13:49:12+00:00",
+      "link": "https://github.com/jrswab/axe"
     },
     {
       "title": "Show HN: Axe A 12MB binary that replaces your AI framework",
@@ -171,7 +262,7 @@ const FEED_DATA = {
     },
     {
       "title": "Reliable Software in the LLM Era",
-      "summary": "Article URL: https://quint-lang.org/posts/llm_era Comments URL: https://news.ycombinator.com/item?id=47347901 Points: 67 # Comments: 21",
+      "summary": "Article URL: https://quint-lang.org/posts/llm_era Comments URL: https://news.ycombinator.com/item?id=47347901 Points: 87 # Comments: 28",
       "source": "Hacker News",
       "published": "2026-03-12T08:19:46+00:00",
       "link": "https://quint-lang.org/posts/llm_era"
@@ -185,7 +276,7 @@ const FEED_DATA = {
     },
     {
       "title": "How much of HN is AI?",
-      "summary": "Article URL: https://lcamtuf.substack.com/p/how-much-of-hn-is-ai Comments URL: https://news.ycombinator.com/item?id=47344999 Points: 96 # Comments: 57",
+      "summary": "Article URL: https://lcamtuf.substack.com/p/how-much-of-hn-is-ai Comments URL: https://news.ycombinator.com/item?id=47344999 Points: 99 # Comments: 54",
       "source": "Hacker News",
       "published": "2026-03-12T01:15:40+00:00",
       "link": "https://lcamtuf.substack.com/p/how-much-of-hn-is-ai"
@@ -220,7 +311,7 @@ const FEED_DATA = {
     },
     {
       "title": "Atlassian to cut roughly 1,600 jobs in pivot to AI",
-      "summary": "Article URL: https://www.reuters.com/technology/atlassian-lay-off-about-1600-people-pivot-ai-2026-03-11/ Comments URL: https://news.ycombinator.com/item?id=47343156 Points: 208 # Comments: 286",
+      "summary": "Article URL: https://www.reuters.com/technology/atlassian-lay-off-about-1600-people-pivot-ai-2026-03-11/ Comments URL: https://news.ycombinator.com/item?id=47343156 Points: 216 # Comments: 293",
       "source": "Hacker News",
       "published": "2026-03-11T22:29:42+00:00",
       "link": "https://www.reuters.com/technology/atlassian-lay-off-about-1600-people-pivot-ai-2026-03-11/"
@@ -234,7 +325,7 @@ const FEED_DATA = {
     },
     {
       "title": "Preliminary data from a longitudinal AI impact study",
-      "summary": "Article URL: https://newsletter.getdx.com/p/ai-productivity-gains-are-10-not Comments URL: https://news.ycombinator.com/item?id=47342139 Points: 55 # Comments: 39",
+      "summary": "Article URL: https://newsletter.getdx.com/p/ai-productivity-gains-are-10-not Comments URL: https://news.ycombinator.com/item?id=47342139 Points: 57 # Comments: 39",
       "source": "Hacker News",
       "published": "2026-03-11T21:23:24+00:00",
       "link": "https://newsletter.getdx.com/p/ai-productivity-gains-are-10-not"
@@ -248,7 +339,7 @@ const FEED_DATA = {
     },
     {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
-      "summary": "Article URL: https://news.ycombinator.com/newsguidelines.html#generated Comments URL: https://news.ycombinator.com/item?id=47340079 Points: 3992 # Comments: 1497",
+      "summary": "Article URL: https://news.ycombinator.com/newsguidelines.html#generated Comments URL: https://news.ycombinator.com/item?id=47340079 Points: 4069 # Comments: 1553",
       "source": "Hacker News",
       "published": "2026-03-11T19:29:29+00:00",
       "link": "https://news.ycombinator.com/newsguidelines.html#generated"
@@ -276,7 +367,7 @@ const FEED_DATA = {
     },
     {
       "title": "I was interviewed by an AI bot for a job",
-      "summary": "https://archive.ph/DEwy7 Comments URL: https://news.ycombinator.com/item?id=47339164 Points: 394 # Comments: 412",
+      "summary": "https://archive.ph/DEwy7 Comments URL: https://news.ycombinator.com/item?id=47339164 Points: 399 # Comments: 429",
       "source": "Hacker News",
       "published": "2026-03-11T18:17:30+00:00",
       "link": "https://www.theverge.com/featured-video/892850/i-was-interviewed-by-an-ai-bot-for-a-job"
@@ -486,7 +577,7 @@ const FEED_DATA = {
     },
     {
       "title": "How we hacked McKinsey's AI platform",
-      "summary": "Article URL: https://codewall.ai/blog/how-we-hacked-mckinseys-ai-platform Comments URL: https://news.ycombinator.com/item?id=47333627 Points: 458 # Comments: 189",
+      "summary": "Article URL: https://codewall.ai/blog/how-we-hacked-mckinseys-ai-platform Comments URL: https://news.ycombinator.com/item?id=47333627 Points: 468 # Comments: 189",
       "source": "Hacker News",
       "published": "2026-03-11T09:59:03+00:00",
       "link": "https://codewall.ai/blog/how-we-hacked-mckinseys-ai-platform"
@@ -682,7 +773,7 @@ const FEED_DATA = {
     },
     {
       "title": "Debian decides not to decide on AI-generated contributions",
-      "summary": "Article URL: https://lwn.net/SubscriberLink/1061544/125f911834966dd0/ Comments URL: https://news.ycombinator.com/item?id=47324087 Points: 372 # Comments: 285",
+      "summary": "Article URL: https://lwn.net/SubscriberLink/1061544/125f911834966dd0/ Comments URL: https://news.ycombinator.com/item?id=47324087 Points: 372 # Comments: 286",
       "source": "Hacker News",
       "published": "2026-03-10T14:53:13+00:00",
       "link": "https://lwn.net/SubscriberLink/1061544/125f911834966dd0/"
@@ -843,7 +934,7 @@ const FEED_DATA = {
     },
     {
       "title": "Yann LeCun's AI startup raises $1B in Europe's largest ever seed round",
-      "summary": "https://archive.md/5eZWq Comments URL: https://news.ycombinator.com/item?id=47321533 Points: 416 # Comments: 2",
+      "summary": "https://archive.md/5eZWq Comments URL: https://news.ycombinator.com/item?id=47321533 Points: 418 # Comments: 2",
       "source": "Hacker News",
       "published": "2026-03-10T10:50:30+00:00",
       "link": "https://www.ft.com/content/e5245ec3-1a58-4eff-ab58-480b6259aaf1"
@@ -1309,97 +1400,6 @@ const FEED_DATA = {
       "source": "Bloomberg",
       "published": "2026-03-08T06:00:00Z",
       "link": "https://bloomberg.com/example"
-    },
-    {
-      "title": "Google just gave Sundar Pichai a $692M pay package",
-      "summary": "Most of it is tied to performance, including new stock incentives linked to Waymo and Wing, its drone delivery venture.",
-      "source": "TechCrunch",
-      "published": "2026-03-08T00:20:10+00:00",
-      "link": "https://techcrunch.com/2026/03/07/google-just-gave-sundar-pichai-a-692m-pay-package/"
-    },
-    {
-      "title": "Why developers using AI are working longer hours",
-      "summary": "Article URL: https://www.scientificamerican.com/article/why-developers-using-ai-are-working-longer-hours/ Comments URL: https://news.ycombinator.com/item?id=47292574 Points: 76 # Comments: 71",
-      "source": "Hacker News",
-      "published": "2026-03-07T23:39:04+00:00",
-      "link": "https://www.scientificamerican.com/article/why-developers-using-ai-are-working-longer-hours/"
-    },
-    {
-      "title": "LLM Writing Tropes.md",
-      "summary": "https://news.ycombinator.com/item?id=47088813 Comments URL: https://news.ycombinator.com/item?id=47291513 Points: 372 # Comments: 190",
-      "source": "Hacker News",
-      "published": "2026-03-07T21:08:40+00:00",
-      "link": "https://tropes.fyi/tropes-md"
-    },
-    {
-      "title": "New benchmark shows AI models can write better legal briefs than junior lawyers",
-      "summary": "A blind evaluation by 50 senior attorneys found that AI-generated legal briefs were preferred over junior associate work 67% of the time. Raises questions about the future of legal training.",
-      "source": "Ars Technica",
-      "published": "2026-03-07T20:00:00Z",
-      "link": "https://arstechnica.com/example"
-    },
-    {
-      "title": "Training students to prove they're not robots is pushing them to use more AI",
-      "summary": "Article URL: https://www.techdirt.com/2026/03/06/were-training-students-to-write-worse-to-prove-theyre-not-robots-and-its-pushing-them-to-use-more-ai/ Comments URL: https://news.ycombinator.com/item?id=47290457 Points: 161 # Comments: 175",
-      "source": "Hacker News",
-      "published": "2026-03-07T19:01:01+00:00",
-      "link": "https://www.techdirt.com/2026/03/06/were-training-students-to-write-worse-to-prove-theyre-not-robots-and-its-pushing-them-to-use-more-ai/"
-    },
-    {
-      "title": "Verification debt: the hidden cost of AI-generated code",
-      "summary": "Article URL: https://fazy.medium.com/agentic-coding-ais-adolescence-b0d13452f981 Comments URL: https://news.ycombinator.com/item?id=47289406 Points: 113 # Comments: 96",
-      "source": "Hacker News",
-      "published": "2026-03-07T17:08:30+00:00",
-      "link": "https://fazy.medium.com/agentic-coding-ais-adolescence-b0d13452f981"
-    },
-    {
-      "title": "Mistral launches European sovereign AI cloud service",
-      "summary": "French AI company Mistral unveiled a cloud platform that keeps all data within EU borders. Aimed at enterprises and governments that cannot use US-based AI services for compliance reasons.",
-      "source": "VentureBeat",
-      "published": "2026-03-07T16:00:00Z",
-      "link": "https://venturebeat.com/example"
-    },
-    {
-      "title": "AI-powered robotics startup Figure valued at $20B after new funding round",
-      "summary": "Figure, which builds humanoid robots powered by AI, raised $1.5B at a $20B valuation. The robots are already deployed in BMW and Amazon warehouses.",
-      "source": "TechCrunch",
-      "published": "2026-03-07T13:00:00Z",
-      "link": "https://techcrunch.com/example"
-    },
-    {
-      "title": "World Health Organization issues guidelines for AI in medical diagnosis",
-      "summary": "WHO released its first comprehensive framework for using AI in clinical settings. Requires human oversight for all diagnoses and bans fully autonomous treatment decisions.",
-      "source": "Reuters",
-      "published": "2026-03-07T10:00:00Z",
-      "link": "https://reuters.com/example"
-    },
-    {
-      "title": "Runway releases Gen-4: AI video indistinguishable from real footage in tests",
-      "summary": "Runway's new generation model passed a visual Turing test with 52% of viewers unable to tell generated clips from real video. Raises major concerns about deepfakes and misinformation.",
-      "source": "The Verge",
-      "published": "2026-03-07T07:30:00Z",
-      "link": "https://theverge.com/example"
-    },
-    {
-      "title": "This Jammer Wants to Block Always-Listening AI Wearables. It Probably Won’t Work",
-      "summary": "Deveillance’s Spectre I, developed by a recent Harvard grad, wants to give people control over the always-on wearables surrounding their lives. The problem?",
-      "source": "Wired",
-      "published": "2026-03-06T23:45:14+00:00",
-      "link": "https://www.wired.com/story/deveillance-spectre-i/"
-    },
-    {
-      "title": "Sam Altman predicts AGI by 2027 in new blog post",
-      "summary": "OpenAI's CEO published a lengthy essay arguing that artificial general intelligence is closer than most people think. He outlined a three-phase roadmap and called for global governance frameworks.",
-      "source": "Ars Technica",
-      "published": "2026-03-06T22:00:00Z",
-      "link": "https://arstechnica.com/example"
-    },
-    {
-      "title": "Is the Pentagon allowed to surveil Americans with AI?",
-      "summary": "The ongoing public feud between the Department of Defense and the AI company Anthropic has raised a deep and still unanswered question: Does the law actually allow the US government to conduct mass surveillance on Americans? Surprisingly, the answer is not straightforward.",
-      "source": "MIT Tech Review",
-      "published": "2026-03-06T19:21:22+00:00",
-      "link": "https://www.technologyreview.com/2026/03/06/1134012/is-the-pentagon-allowed-to-surveil-americans-with-ai/"
     }
   ]
 };
