@@ -1,6 +1,20 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-03-12T19:31:47.799416+00:00",
+  "lastUpdated": "2026-03-12T21:58:42.855441+00:00",
   "items": [
+    {
+      "title": "Innocent woman jailed after being misidentified using AI facial recognition",
+      "summary": "Article URL: https://www.grandforksherald.com/news/north-dakota/ai-error-jails-innocent-grandmother-for-months-in-north-dakota-fraud-case Comments URL: https://news.ycombinator.com/item?id=47356968 Points: 146 # Comments: 83",
+      "source": "Hacker News",
+      "published": "2026-03-12T20:55:51+00:00",
+      "link": "https://www.grandforksherald.com/news/north-dakota/ai-error-jails-innocent-grandmother-for-months-in-north-dakota-fraud-case"
+    },
+    {
+      "title": "‘Uncanny Valley’: Anthropic’s DOD Lawsuit, War Memes, and AI Coming for VC Jobs",
+      "summary": "In today’s episode, we discuss how the saga between Anthropic and the Department of Defense is far from over.",
+      "source": "Wired",
+      "published": "2026-03-12T19:48:21+00:00",
+      "link": "https://www.wired.com/story/uncanny-valley-podcast-anthropic-department-defense-lawsuit-iran-war-memes-artificial-intelligence-venture-capital/"
+    },
     {
       "title": "Grok 4.20 trails Gemini and GPT-5.4 by a wide margin but sets a new record for not hallucinating",
       "summary": "xAI's Grok 4.20 is cheap, fast, and hallucinates less than any other tested model, but it can't keep up with the top tier in benchmarks. The article Grok 4.20 trails Gemini and GPT-5.4 by a wide margin but sets a new record for not hallucinating appeared first on The Decoder.",
@@ -31,10 +45,17 @@ const FEED_DATA = {
     },
     {
       "title": "Tinder tries to lure people back to online dating with IRL events, virtual speed dating",
-      "summary": "Tinder just got a major revamp as it attempts to re-engange its user base and attract younger daters. This includes in-person events, AI enhancements, and even virtual speed dating.",
+      "summary": "Tinder just got a major revamp as it attempts to reengage its user base and attract younger daters. This includes in-person events, AI enhancements, and even virtual speed dating.",
       "source": "TechCrunch",
       "published": "2026-03-12T18:00:00+00:00",
       "link": "https://techcrunch.com/2026/03/12/tinder-tries-to-lure-people-back-to-online-dating-with-irl-events-virtual-speed-dating/"
+    },
+    {
+      "title": "Facebook Marketplace adds AI auto-replies for annoying ‘Is this still available?’ messages",
+      "summary": "Facebook Marketplace is adding a bunch of new AI-powered tools that are supposed to make selling items on the platform a little more efficient. One feature will use Meta AI to automatically respond to those annoying \"Is this still available?\" messages.",
+      "source": "The Verge",
+      "published": "2026-03-12T17:59:32+00:00",
+      "link": "https://www.theverge.com/tech/893907/facebook-marketplace-ai-auto-reply-listings"
     },
     {
       "title": "Copilot Health marks Microsoft's entry into the AI health race alongside OpenAI and Anthropic",
@@ -56,6 +77,13 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-03-12T17:12:09+00:00",
       "link": "https://the-decoder.com/claude-can-now-create-interactive-charts-and-visualizations-directly-in-chat/"
+    },
+    {
+      "title": "Gemini’s task automation is here and it’s wild",
+      "summary": "A couple of weeks ago, Google and Samsung announced a big Gemini development coming to their newest devices: task automation.",
+      "source": "The Verge",
+      "published": "2026-03-12T16:59:43+00:00",
+      "link": "https://www.theverge.com/tech/893820/gemini-task-automation-samsung-s26-google-pixel-10"
     },
     {
       "title": "Bumble to launch an AI dating assistant, ‘Bee’",
@@ -94,7 +122,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI should not replace people at Atlassian, says CEO",
-      "summary": "Article URL: https://www.heise.de/en/news/Atlassian-CEO-AI-doesn-t-replace-people-here-but-we-re-firing-them-anyway-11208758.html Comments URL: https://news.ycombinator.com/item?id=47352335 Points: 106 # Comments: 40",
+      "summary": "Article URL: https://www.heise.de/en/news/Atlassian-CEO-AI-doesn-t-replace-people-here-but-we-re-firing-them-anyway-11208758.html Comments URL: https://news.ycombinator.com/item?id=47352335 Points: 111 # Comments: 48",
       "source": "Hacker News",
       "published": "2026-03-12T15:36:53+00:00",
       "link": "https://www.heise.de/en/news/Atlassian-CEO-AI-doesn-t-replace-people-here-but-we-re-firing-them-anyway-11208758.html"
@@ -254,6 +282,13 @@ const FEED_DATA = {
       "link": "https://the-decoder.com/meta-unveils-four-generations-of-custom-ai-chips-to-cut-inference-costs-for-billions-of-users/"
     },
     {
+      "title": "Are LLM merge rates not getting better?",
+      "summary": "Related: Many SWE-bench-Passing PRs would not be merged - https://news.ycombinator.com/item?id=47341645 - March 2026 (149 comments) Comments URL: https://news.ycombinator.com/item?id=47349334 Points: 85 # Comments: 94",
+      "source": "Hacker News",
+      "published": "2026-03-12T11:49:05+00:00",
+      "link": "https://entropicthoughts.com/no-swe-bench-improvement"
+    },
+    {
       "title": "Brutal times for the US battery industry",
       "summary": "Just a few years ago, the battery industry was hot, hot, hot. There was a seemingly infinite number of companies popping up, with shiny new chemistries and massive fundraising rounds.",
       "source": "MIT Tech Review",
@@ -262,7 +297,7 @@ const FEED_DATA = {
     },
     {
       "title": "Reliable Software in the LLM Era",
-      "summary": "Article URL: https://quint-lang.org/posts/llm_era Comments URL: https://news.ycombinator.com/item?id=47347901 Points: 87 # Comments: 28",
+      "summary": "Article URL: https://quint-lang.org/posts/llm_era Comments URL: https://news.ycombinator.com/item?id=47347901 Points: 93 # Comments: 32",
       "source": "Hacker News",
       "published": "2026-03-12T08:19:46+00:00",
       "link": "https://quint-lang.org/posts/llm_era"
@@ -276,7 +311,7 @@ const FEED_DATA = {
     },
     {
       "title": "How much of HN is AI?",
-      "summary": "Article URL: https://lcamtuf.substack.com/p/how-much-of-hn-is-ai Comments URL: https://news.ycombinator.com/item?id=47344999 Points: 99 # Comments: 54",
+      "summary": "Article URL: https://lcamtuf.substack.com/p/how-much-of-hn-is-ai Comments URL: https://news.ycombinator.com/item?id=47344999 Points: 99 # Comments: 55",
       "source": "Hacker News",
       "published": "2026-03-12T01:15:40+00:00",
       "link": "https://lcamtuf.substack.com/p/how-much-of-hn-is-ai"
@@ -311,7 +346,7 @@ const FEED_DATA = {
     },
     {
       "title": "Atlassian to cut roughly 1,600 jobs in pivot to AI",
-      "summary": "Article URL: https://www.reuters.com/technology/atlassian-lay-off-about-1600-people-pivot-ai-2026-03-11/ Comments URL: https://news.ycombinator.com/item?id=47343156 Points: 216 # Comments: 293",
+      "summary": "Article URL: https://www.reuters.com/technology/atlassian-lay-off-about-1600-people-pivot-ai-2026-03-11/ Comments URL: https://news.ycombinator.com/item?id=47343156 Points: 218 # Comments: 295",
       "source": "Hacker News",
       "published": "2026-03-11T22:29:42+00:00",
       "link": "https://www.reuters.com/technology/atlassian-lay-off-about-1600-people-pivot-ai-2026-03-11/"
@@ -325,7 +360,7 @@ const FEED_DATA = {
     },
     {
       "title": "Preliminary data from a longitudinal AI impact study",
-      "summary": "Article URL: https://newsletter.getdx.com/p/ai-productivity-gains-are-10-not Comments URL: https://news.ycombinator.com/item?id=47342139 Points: 57 # Comments: 39",
+      "summary": "Article URL: https://newsletter.getdx.com/p/ai-productivity-gains-are-10-not Comments URL: https://news.ycombinator.com/item?id=47342139 Points: 58 # Comments: 39",
       "source": "Hacker News",
       "published": "2026-03-11T21:23:24+00:00",
       "link": "https://newsletter.getdx.com/p/ai-productivity-gains-are-10-not"
@@ -339,7 +374,7 @@ const FEED_DATA = {
     },
     {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
-      "summary": "Article URL: https://news.ycombinator.com/newsguidelines.html#generated Comments URL: https://news.ycombinator.com/item?id=47340079 Points: 4069 # Comments: 1553",
+      "summary": "Article URL: https://news.ycombinator.com/newsguidelines.html#generated Comments URL: https://news.ycombinator.com/item?id=47340079 Points: 4092 # Comments: 1571",
       "source": "Hacker News",
       "published": "2026-03-11T19:29:29+00:00",
       "link": "https://news.ycombinator.com/newsguidelines.html#generated"
@@ -367,7 +402,7 @@ const FEED_DATA = {
     },
     {
       "title": "I was interviewed by an AI bot for a job",
-      "summary": "https://archive.ph/DEwy7 Comments URL: https://news.ycombinator.com/item?id=47339164 Points: 399 # Comments: 429",
+      "summary": "https://archive.ph/DEwy7 Comments URL: https://news.ycombinator.com/item?id=47339164 Points: 401 # Comments: 439",
       "source": "Hacker News",
       "published": "2026-03-11T18:17:30+00:00",
       "link": "https://www.theverge.com/featured-video/892850/i-was-interviewed-by-an-ai-bot-for-a-job"
@@ -577,7 +612,7 @@ const FEED_DATA = {
     },
     {
       "title": "How we hacked McKinsey's AI platform",
-      "summary": "Article URL: https://codewall.ai/blog/how-we-hacked-mckinseys-ai-platform Comments URL: https://news.ycombinator.com/item?id=47333627 Points: 468 # Comments: 189",
+      "summary": "Article URL: https://codewall.ai/blog/how-we-hacked-mckinseys-ai-platform Comments URL: https://news.ycombinator.com/item?id=47333627 Points: 471 # Comments: 191",
       "source": "Hacker News",
       "published": "2026-03-11T09:59:03+00:00",
       "link": "https://codewall.ai/blog/how-we-hacked-mckinseys-ai-platform"
@@ -927,7 +962,7 @@ const FEED_DATA = {
     },
     {
       "title": "PgAdmin 4 9.13 with AI Assistant Panel",
-      "summary": "Article URL: https://www.pgadmin.org/docs/pgadmin4/9.13/query_tool.html#ai-assistant-panel Comments URL: https://news.ycombinator.com/item?id=47322033 Points: 95 # Comments: 36",
+      "summary": "Article URL: https://www.pgadmin.org/docs/pgadmin4/9.13/query_tool.html#ai-assistant-panel Comments URL: https://news.ycombinator.com/item?id=47322033 Points: 95 # Comments: 37",
       "source": "Hacker News",
       "published": "2026-03-10T11:58:36+00:00",
       "link": "https://www.pgadmin.org/docs/pgadmin4/9.13/query_tool.html#ai-assistant-panel"
@@ -1365,41 +1400,6 @@ const FEED_DATA = {
       "source": "Reuters",
       "published": "2026-03-08T15:00:00Z",
       "link": "https://reuters.com/example"
-    },
-    {
-      "title": "AI music generation startup Suno reaches 50 million users",
-      "summary": "Suno, which lets anyone create full songs from text prompts, hit 50M users in under a year. The music industry continues to push back with ongoing copyright lawsuits.",
-      "source": "The Verge",
-      "published": "2026-03-08T12:00:00Z",
-      "link": "https://theverge.com/example"
-    },
-    {
-      "title": "Researchers demonstrate AI system that discovers new materials 100x faster",
-      "summary": "A team from MIT and Google used an AI system to discover 380,000 new stable materials in months. Traditional methods would have taken decades to explore this space.",
-      "source": "MIT Tech Review",
-      "published": "2026-03-08T09:30:00Z",
-      "link": "https://technologyreview.com/example"
-    },
-    {
-      "title": "I'm Not Consulting an LLM",
-      "summary": "Article URL: https://lr0.org/blog/p/gpt/ Comments URL: https://news.ycombinator.com/item?id=47295670 Points: 53 # Comments: 72",
-      "source": "Hacker News",
-      "published": "2026-03-08T08:43:29+00:00",
-      "link": "https://lr0.org/blog/p/gpt/"
-    },
-    {
-      "title": "A roadmap for AI, if anyone will listen",
-      "summary": "The Pro-Human AI Declaration was finalized before last week's Pentagon-Anthropic standoff, but the collision of the two events wasn’t lost on anyone involved.",
-      "source": "TechCrunch",
-      "published": "2026-03-08T06:05:26+00:00",
-      "link": "https://techcrunch.com/2026/03/07/a-roadmap-for-ai-if-anyone-will-listen/"
-    },
-    {
-      "title": "Amazon replaces 30% of customer service staff with AI agents",
-      "summary": "Amazon confirmed that AI now handles the majority of customer service interactions. The company says response times dropped 60% and satisfaction scores are unchanged.",
-      "source": "Bloomberg",
-      "published": "2026-03-08T06:00:00Z",
-      "link": "https://bloomberg.com/example"
     }
   ]
 };
