@@ -1,12 +1,54 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-03-12T21:58:42.855441+00:00",
+  "lastUpdated": "2026-03-13T05:17:30.152145+00:00",
   "items": [
     {
+      "title": "Tennessee grandmother jailed after AI face recognition error links her to fraud",
+      "summary": "Article URL: https://www.theguardian.com/us-news/2026/mar/12/tennessee-grandmother-ai-fraud Comments URL: https://news.ycombinator.com/item?id=47359136 Points: 95 # Comments: 24",
+      "source": "Hacker News",
+      "published": "2026-03-13T00:17:34+00:00",
+      "link": "https://www.theguardian.com/us-news/2026/mar/12/tennessee-grandmother-ai-fraud"
+    },
+    {
+      "title": "How to watch Jensen Huang’s Nvidia GTC 2026 keynote",
+      "summary": "GTC — which stands for GPU Technology Conference — is Nvidia's flagship annual event, where the chipmaker typically uses the spotlight to announce new products, champion partnerships, and lay out its vision for the future of computing.",
+      "source": "TechCrunch",
+      "published": "2026-03-12T23:25:39+00:00",
+      "link": "https://techcrunch.com/2026/03/12/how-to-watch-jensen-huangs-nvidia-gtc-2026-keynote/"
+    },
+    {
+      "title": "Grief and the AI Split",
+      "summary": "Article URL: https://blog.lmorchard.com/2026/03/11/grief-and-the-ai-split/ Comments URL: https://news.ycombinator.com/item?id=47358206 Points: 92 # Comments: 153",
+      "source": "Hacker News",
+      "published": "2026-03-12T22:35:08+00:00",
+      "link": "https://blog.lmorchard.com/2026/03/11/grief-and-the-ai-split/"
+    },
+    {
+      "title": "Sales automation startup Rox AI hits $1.2B valuation, sources say",
+      "summary": "Rox, founded in 2024 by the former chief growth officer of New Relic, offers an AI-native alternative to CRM tools.",
+      "source": "TechCrunch",
+      "published": "2026-03-12T22:25:50+00:00",
+      "link": "https://techcrunch.com/2026/03/12/sales-automation-startup-rox-ai-hits-1-2b-valuation-sources-say/"
+    },
+    {
+      "title": "A defense official reveals how AI chatbots could be used for targeting decisions",
+      "summary": "The US military might use generative AI systems to rank lists of targets and make recommendations—which would be vetted by humans—about which to strike first, according to a Defense Department official with knowledge of the matter.",
+      "source": "MIT Tech Review",
+      "published": "2026-03-12T22:23:34+00:00",
+      "link": "https://www.technologyreview.com/2026/03/12/1134243/defense-official-military-use-ai-chatbots-targeting-decisions/"
+    },
+    {
       "title": "Innocent woman jailed after being misidentified using AI facial recognition",
-      "summary": "Article URL: https://www.grandforksherald.com/news/north-dakota/ai-error-jails-innocent-grandmother-for-months-in-north-dakota-fraud-case Comments URL: https://news.ycombinator.com/item?id=47356968 Points: 146 # Comments: 83",
+      "summary": "Article URL: https://www.grandforksherald.com/news/north-dakota/ai-error-jails-innocent-grandmother-for-months-in-north-dakota-fraud-case Comments URL: https://news.ycombinator.com/item?id=47356968 Points: 506 # Comments: 270",
       "source": "Hacker News",
       "published": "2026-03-12T20:55:51+00:00",
       "link": "https://www.grandforksherald.com/news/north-dakota/ai-error-jails-innocent-grandmother-for-months-in-north-dakota-fraud-case"
+    },
+    {
+      "title": "Amazon Employees Say AI Is Just Increasing Workload",
+      "summary": "Article URL: https://gizmodo.com/amazon-employees-say-ai-is-just-increasing-workload-a-new-study-confirms-their-suspicions-2000732794 Comments URL: https://news.ycombinator.com/item?id=47356223 Points: 80 # Comments: 28",
+      "source": "Hacker News",
+      "published": "2026-03-12T19:57:16+00:00",
+      "link": "https://gizmodo.com/amazon-employees-say-ai-is-just-increasing-workload-a-new-study-confirms-their-suspicions-2000732794"
     },
     {
       "title": "‘Uncanny Valley’: Anthropic’s DOD Lawsuit, War Memes, and AI Coming for VC Jobs",
@@ -86,6 +128,13 @@ const FEED_DATA = {
       "link": "https://www.theverge.com/tech/893820/gemini-task-automation-samsung-s26-google-pixel-10"
     },
     {
+      "title": "Bumble introduces an AI dating assistant, ‘Bee’",
+      "summary": "Bumble's new AI assistant Bee will move the dating app beyond the swipe by matching people based on compatibility and goals.",
+      "source": "TechCrunch",
+      "published": "2026-03-12T16:52:17+00:00",
+      "link": "https://techcrunch.com/2026/03/12/bumble-introduces-an-ai-dating-assistant-bee/"
+    },
+    {
       "title": "Bumble to launch an AI dating assistant, ‘Bee’",
       "summary": "Bumble's new AI assistant Bee will move the dating app beyond the swipe by matching people based on compatibility and goals.",
       "source": "TechCrunch",
@@ -114,6 +163,13 @@ const FEED_DATA = {
       "link": "https://the-decoder.com/chatgpt-still-leads-the-chatbot-market-but-its-dominance-is-slipping-as-googles-gemini-gains-ground/"
     },
     {
+      "title": "The Emotional Labor Behind AI Intimacy (2025) [pdf]",
+      "summary": "Related: https://www.404media.co/ai-is-african-intelligence-the-worke... (https://archive.ph/yS8xb) Comments URL: https://news.ycombinator.com/item?id=47353019 Points: 62 # Comments: 18",
+      "source": "Hacker News",
+      "published": "2026-03-12T16:12:04+00:00",
+      "link": "https://data-workers.org/wp-content/uploads/2025/12/The-Emotional-Labor-Behind-AI-Intimacy-1.pdf"
+    },
+    {
       "title": "Anthropic’s Claude AI can respond with charts, diagrams, and other visuals now",
       "summary": "Anthropic's latest update to Claude will allow the AI chatbot to generate custom charts, diagrams, and other visualizations during your conversation.",
       "source": "The Verge",
@@ -122,7 +178,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI should not replace people at Atlassian, says CEO",
-      "summary": "Article URL: https://www.heise.de/en/news/Atlassian-CEO-AI-doesn-t-replace-people-here-but-we-re-firing-them-anyway-11208758.html Comments URL: https://news.ycombinator.com/item?id=47352335 Points: 111 # Comments: 48",
+      "summary": "Article URL: https://www.heise.de/en/news/Atlassian-CEO-AI-doesn-t-replace-people-here-but-we-re-firing-them-anyway-11208758.html Comments URL: https://news.ycombinator.com/item?id=47352335 Points: 114 # Comments: 50",
       "source": "Hacker News",
       "published": "2026-03-12T15:36:53+00:00",
       "link": "https://www.heise.de/en/news/Atlassian-CEO-AI-doesn-t-replace-people-here-but-we-re-firing-them-anyway-11208758.html"
@@ -205,6 +261,13 @@ const FEED_DATA = {
       "link": "https://github.com/obsessiondb/rudel"
     },
     {
+      "title": "Document poisoning in RAG systems: How attackers corrupt AI's sources",
+      "summary": "I'm the author.",
+      "source": "Hacker News",
+      "published": "2026-03-12T13:40:36+00:00",
+      "link": "https://aminrj.com/posts/rag-document-poisoning/"
+    },
+    {
       "title": "Google's new Ask Maps lets you search for places in plain language using Gemini AI",
       "summary": "Google Maps is turning into an AI travel advisor. The new \"Ask Maps\" feature answers complex questions in plain language and shows personalized results on a customized map.",
       "source": "The Decoder",
@@ -283,7 +346,7 @@ const FEED_DATA = {
     },
     {
       "title": "Are LLM merge rates not getting better?",
-      "summary": "Related: Many SWE-bench-Passing PRs would not be merged - https://news.ycombinator.com/item?id=47341645 - March 2026 (149 comments) Comments URL: https://news.ycombinator.com/item?id=47349334 Points: 85 # Comments: 94",
+      "summary": "Related: Many SWE-bench-Passing PRs would not be merged - https://news.ycombinator.com/item?id=47341645 - March 2026 (149 comments) Comments URL: https://news.ycombinator.com/item?id=47349334 Points: 130 # Comments: 120",
       "source": "Hacker News",
       "published": "2026-03-12T11:49:05+00:00",
       "link": "https://entropicthoughts.com/no-swe-bench-improvement"
@@ -297,7 +360,7 @@ const FEED_DATA = {
     },
     {
       "title": "Reliable Software in the LLM Era",
-      "summary": "Article URL: https://quint-lang.org/posts/llm_era Comments URL: https://news.ycombinator.com/item?id=47347901 Points: 93 # Comments: 32",
+      "summary": "Article URL: https://quint-lang.org/posts/llm_era Comments URL: https://news.ycombinator.com/item?id=47347901 Points: 102 # Comments: 33",
       "source": "Hacker News",
       "published": "2026-03-12T08:19:46+00:00",
       "link": "https://quint-lang.org/posts/llm_era"
@@ -346,7 +409,7 @@ const FEED_DATA = {
     },
     {
       "title": "Atlassian to cut roughly 1,600 jobs in pivot to AI",
-      "summary": "Article URL: https://www.reuters.com/technology/atlassian-lay-off-about-1600-people-pivot-ai-2026-03-11/ Comments URL: https://news.ycombinator.com/item?id=47343156 Points: 218 # Comments: 295",
+      "summary": "Article URL: https://www.reuters.com/technology/atlassian-lay-off-about-1600-people-pivot-ai-2026-03-11/ Comments URL: https://news.ycombinator.com/item?id=47343156 Points: 220 # Comments: 298",
       "source": "Hacker News",
       "published": "2026-03-11T22:29:42+00:00",
       "link": "https://www.reuters.com/technology/atlassian-lay-off-about-1600-people-pivot-ai-2026-03-11/"
@@ -360,7 +423,7 @@ const FEED_DATA = {
     },
     {
       "title": "Preliminary data from a longitudinal AI impact study",
-      "summary": "Article URL: https://newsletter.getdx.com/p/ai-productivity-gains-are-10-not Comments URL: https://news.ycombinator.com/item?id=47342139 Points: 58 # Comments: 39",
+      "summary": "Article URL: https://newsletter.getdx.com/p/ai-productivity-gains-are-10-not Comments URL: https://news.ycombinator.com/item?id=47342139 Points: 59 # Comments: 39",
       "source": "Hacker News",
       "published": "2026-03-11T21:23:24+00:00",
       "link": "https://newsletter.getdx.com/p/ai-productivity-gains-are-10-not"
@@ -374,7 +437,7 @@ const FEED_DATA = {
     },
     {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
-      "summary": "Article URL: https://news.ycombinator.com/newsguidelines.html#generated Comments URL: https://news.ycombinator.com/item?id=47340079 Points: 4092 # Comments: 1571",
+      "summary": "Article URL: https://news.ycombinator.com/newsguidelines.html#generated Comments URL: https://news.ycombinator.com/item?id=47340079 Points: 4118 # Comments: 1612",
       "source": "Hacker News",
       "published": "2026-03-11T19:29:29+00:00",
       "link": "https://news.ycombinator.com/newsguidelines.html#generated"
@@ -402,7 +465,7 @@ const FEED_DATA = {
     },
     {
       "title": "I was interviewed by an AI bot for a job",
-      "summary": "https://archive.ph/DEwy7 Comments URL: https://news.ycombinator.com/item?id=47339164 Points: 401 # Comments: 439",
+      "summary": "https://archive.ph/DEwy7 Comments URL: https://news.ycombinator.com/item?id=47339164 Points: 406 # Comments: 451",
       "source": "Hacker News",
       "published": "2026-03-11T18:17:30+00:00",
       "link": "https://www.theverge.com/featured-video/892850/i-was-interviewed-by-an-ai-bot-for-a-job"
@@ -612,7 +675,7 @@ const FEED_DATA = {
     },
     {
       "title": "How we hacked McKinsey's AI platform",
-      "summary": "Article URL: https://codewall.ai/blog/how-we-hacked-mckinseys-ai-platform Comments URL: https://news.ycombinator.com/item?id=47333627 Points: 471 # Comments: 191",
+      "summary": "Article URL: https://codewall.ai/blog/how-we-hacked-mckinseys-ai-platform Comments URL: https://news.ycombinator.com/item?id=47333627 Points: 481 # Comments: 192",
       "source": "Hacker News",
       "published": "2026-03-11T09:59:03+00:00",
       "link": "https://codewall.ai/blog/how-we-hacked-mckinseys-ai-platform"
@@ -640,7 +703,7 @@ const FEED_DATA = {
     },
     {
       "title": "Google to provide Pentagon with AI agents",
-      "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-03-10/google-to-provide-pentagon-with-ai-agents-for-unclassified-work Comments URL: https://news.ycombinator.com/item?id=47333433 Points: 72 # Comments: 77",
+      "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-03-10/google-to-provide-pentagon-with-ai-agents-for-unclassified-work Comments URL: https://news.ycombinator.com/item?id=47333433 Points: 72 # Comments: 78",
       "source": "Hacker News",
       "published": "2026-03-11T09:30:22+00:00",
       "link": "https://www.bloomberg.com/news/articles/2026-03-10/google-to-provide-pentagon-with-ai-agents-for-unclassified-work"
@@ -1337,69 +1400,6 @@ const FEED_DATA = {
       "source": "AI News",
       "published": "2026-03-09T10:00:00+00:00",
       "link": "https://www.artificialintelligence-news.com/news/city-union-bank-launches-ai-centre-to-support-banking-operations/"
-    },
-    {
-      "title": "Can AI Kill the Venture Capitalist?",
-      "summary": "VCs are betting that artificial intelligence will disrupt nearly every industry in the world. Are they prepared for it to disrupt their own?",
-      "source": "Wired",
-      "published": "2026-03-09T09:00:00+00:00",
-      "link": "https://www.wired.com/story/ai-kill-venture-capital/"
-    },
-    {
-      "title": "Hugging Face hits 2 million public models on its platform",
-      "summary": "The open-source AI hub crossed 2 million publicly available models this week. Growth is accelerating, with the last 500K added in just three months.",
-      "source": "VentureBeat",
-      "published": "2026-03-09T08:00:00Z",
-      "link": "https://venturebeat.com/example"
-    },
-    {
-      "title": "AI weather prediction now more accurate than traditional supercomputer models",
-      "summary": "Google and ECMWF published a joint study showing AI weather models outperform physics-based simulations for forecasts up to 15 days ahead. Runs 10,000x faster.",
-      "source": "Ars Technica",
-      "published": "2026-03-08T21:00:00Z",
-      "link": "https://arstechnica.com/example"
-    },
-    {
-      "title": "Artificial-life: A simple (300 lines of code) reproduction of Computational Life",
-      "summary": "Article URL: https://github.com/Rabrg/artificial-life Comments URL: https://news.ycombinator.com/item?id=47301233 Points: 167 # Comments: 25",
-      "source": "Hacker News",
-      "published": "2026-03-08T20:42:41+00:00",
-      "link": "https://github.com/Rabrg/artificial-life"
-    },
-    {
-      "title": "Will the Pentagon’s Anthropic controversy scare startups away from defense work?",
-      "summary": "On the latest episode of TechCrunch’s Equity podcast, we discussed what the controversy means for other startups seeking to work with the federal government.",
-      "source": "TechCrunch",
-      "published": "2026-03-08T20:14:42+00:00",
-      "link": "https://techcrunch.com/2026/03/08/will-the-pentagons-anthropic-controversy-scare-startups-away-from-defense-work/"
-    },
-    {
-      "title": "AI doesn't replace white collar work",
-      "summary": "Article URL: https://www.marble.onl/posts/ai_doesnt_replace_work.html Comments URL: https://news.ycombinator.com/item?id=47299988 Points: 67 # Comments: 100",
-      "source": "Hacker News",
-      "published": "2026-03-08T18:57:21+00:00",
-      "link": "https://www.marble.onl/posts/ai_doesnt_replace_work.html"
-    },
-    {
-      "title": "GitHub Copilot Workspace exits beta, can build entire features from issues",
-      "summary": "GitHub's AI development environment is now generally available. It reads an issue description, proposes a plan, writes the code, and opens a pull request. Free for open source projects.",
-      "source": "TechCrunch",
-      "published": "2026-03-08T18:30:00Z",
-      "link": "https://techcrunch.com/example"
-    },
-    {
-      "title": "Oracle may slash up to 30k jobs to fund AI data-centers as US banks retreat",
-      "summary": "Article URL: https://www.cio.com/article/4125103/oracle-may-slash-up-to-30000-jobs-to-fund-ai-data-center-expansion-as-us-banks-retreat.html Comments URL: https://news.ycombinator.com/item?id=47298183 Points: 178 # Comments: 234",
-      "source": "Hacker News",
-      "published": "2026-03-08T15:37:32+00:00",
-      "link": "https://www.cio.com/article/4125103/oracle-may-slash-up-to-30000-jobs-to-fund-ai-data-center-expansion-as-us-banks-retreat.html"
-    },
-    {
-      "title": "OpenAI and Anduril partner on military AI applications",
-      "summary": "OpenAI announced a partnership with defense tech company Anduril to develop AI systems for national security. The move reverses OpenAI's earlier stance against military use cases.",
-      "source": "Reuters",
-      "published": "2026-03-08T15:00:00Z",
-      "link": "https://reuters.com/example"
     }
   ]
 };
