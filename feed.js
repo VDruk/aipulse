@@ -1,6 +1,34 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-03-13T15:29:10.013330+00:00",
+  "lastUpdated": "2026-03-13T18:04:51.182424+00:00",
   "items": [
+    {
+      "title": "Google explains the differences between its three Nano Banana image generation models",
+      "summary": "A new guide from Google breaks down the three Nano Banana image models and when to use each one. The cheaper Nano Banana 2 reportedly delivers 95 percent of Pro's capabilities and can search the web for reference images on its own before generating output.",
+      "source": "The Decoder",
+      "published": "2026-03-13T17:42:00+00:00",
+      "link": "https://the-decoder.com/google-explains-the-differences-between-its-three-nano-banana-image-generation-models/"
+    },
+    {
+      "title": "The wild six weeks for NanoClaw’s creator that led to a deal with Docker",
+      "summary": "Gavriel Cohen is living an open source developer's dream as his project has achieved acclaim and a partnership with Docker in a matter of weeks.",
+      "source": "TechCrunch",
+      "published": "2026-03-13T17:09:59+00:00",
+      "link": "https://techcrunch.com/2026/03/13/the-wild-six-weeks-for-nanoclaws-creator-that-led-to-a-deal-with-docker/"
+    },
+    {
+      "title": "The $32B acquisition that one VC is calling the ‘Deal of the Decade’",
+      "summary": "According to Index Ventures Partner Shardul Shah, cybersecurity startup Wiz sits “at the center of three tailwinds: AI, cloud, and security spend.” Those tailwinds powered what just became the largest venture-backed acquisition in history — Google’s $32 billion deal, finalized...",
+      "source": "TechCrunch",
+      "published": "2026-03-13T16:20:23+00:00",
+      "link": "https://techcrunch.com/video/the-32b-acquisition-that-one-vc-is-calling-the-deal-of-the-decade/"
+    },
+    {
+      "title": "Why physical AI is becoming manufacturing’s next advantage",
+      "summary": "For decades, manufacturers have pursued automation to drive efficiency, reduce costs, and stabilize operations. That approach delivered meaningful gains, but it is no longer enough.",
+      "source": "MIT Tech Review",
+      "published": "2026-03-13T15:16:55+00:00",
+      "link": "https://www.technologyreview.com/2026/03/13/1134184/why-physical-ai-is-becoming-manufacturings-next-advantage/"
+    },
     {
       "title": "Peacock expands into AI-driven video, mobile-first live sports, and gaming",
       "summary": "Peacock is betting on new AI-powered video experiences, vertical clips, and mobile games to help its growth.",
@@ -23,6 +51,13 @@ const FEED_DATA = {
       "link": "https://the-decoder.com/ukraine-provides-allies-with-a-platform-with-combat-data-for-ai-training/"
     },
     {
+      "title": "Launch HN: Spine Swarm (YC S23) – AI agents that collaborate on a visual canvas",
+      "summary": "Hey HN!",
+      "source": "Hacker News",
+      "published": "2026-03-13T13:22:40+00:00",
+      "link": "https://www.getspine.ai/"
+    },
+    {
       "title": "Bytedance secures access to Nvidia Blackwell cluster in Malaysia, circumventing US export ban on China",
       "summary": "TikTok's parent company plans to use around 36,000 Nvidia Blackwell chips in Malaysia, according to a Wall Street Journal report. US export controls prevent direct access in China.",
       "source": "The Decoder",
@@ -30,11 +65,25 @@ const FEED_DATA = {
       "link": "https://the-decoder.com/bytedance-secures-access-to-nvidia-blackwell-cluster-in-malaysia-circumventing-us-export-ban-on-china/"
     },
     {
+      "title": "Can I run AI locally?",
+      "summary": "Article URL: https://www.canirun.ai/ Comments URL: https://news.ycombinator.com/item?id=47363754 Points: 264 # Comments: 67",
+      "source": "Hacker News",
+      "published": "2026-03-13T12:46:10+00:00",
+      "link": "https://www.canirun.ai/"
+    },
+    {
       "title": "Perplexity's \"Personal Computer\" promises a tireless AI agent for $200 a month",
       "summary": "Perplexity AI's \"Personal Computer\" is an AI assistant that works around the clock - handling emails, presentations, and app control. The article Perplexity's \"Personal Computer\" promises a tireless AI agent for $200 a month appeared first on The Decoder.",
       "source": "The Decoder",
       "published": "2026-03-13T12:34:55+00:00",
       "link": "https://the-decoder.com/perplexitys-personal-computer-promises-a-tireless-ai-agent-for-200-a-month/"
+    },
+    {
+      "title": "Google's AI Search Results Love to Refer You Back to Google",
+      "summary": "The company's generative AI search tools increasingly cite its own services, like Google Search and YouTube, over third-party publishers.",
+      "source": "Wired",
+      "published": "2026-03-13T12:31:55+00:00",
+      "link": "https://www.wired.com/story/google-ai-searches-love-to-refer-you-back-to-google/"
     },
     {
       "title": "Google's AI Searches Love to Refer You Back to Google",
@@ -101,14 +150,14 @@ const FEED_DATA = {
     },
     {
       "title": "Before quantum computing arrives, this startup wants enterprises already running on it",
-      "summary": "After selling his AI startup to AMD for $665 million, Peter Sarlin is back with QuTwo, a new venture building the infrastructure it believes enterprises will need when quantum computing finally arrives.",
+      "summary": "After selling his AI startup to AMD for $665 million, Peter Sarlin is back with Qutwo, a new venture building the infrastructure it believes enterprises will need when quantum computing finally arrives.",
       "source": "TechCrunch",
       "published": "2026-03-13T05:00:00+00:00",
       "link": "https://techcrunch.com/2026/03/12/before-quantum-computing-arrives-this-startup-wants-enterprises-already-running-on-it/"
     },
     {
       "title": "Tennessee grandmother jailed after AI face recognition error links her to fraud",
-      "summary": "Article URL: https://www.theguardian.com/us-news/2026/mar/12/tennessee-grandmother-ai-fraud Comments URL: https://news.ycombinator.com/item?id=47359136 Points: 99 # Comments: 25",
+      "summary": "Article URL: https://www.theguardian.com/us-news/2026/mar/12/tennessee-grandmother-ai-fraud Comments URL: https://news.ycombinator.com/item?id=47359136 Points: 100 # Comments: 25",
       "source": "Hacker News",
       "published": "2026-03-13T00:17:34+00:00",
       "link": "https://www.theguardian.com/us-news/2026/mar/12/tennessee-grandmother-ai-fraud"
@@ -122,7 +171,7 @@ const FEED_DATA = {
     },
     {
       "title": "Grief and the AI split",
-      "summary": "Article URL: https://blog.lmorchard.com/2026/03/11/grief-and-the-ai-split/ Comments URL: https://news.ycombinator.com/item?id=47358206 Points: 191 # Comments: 315",
+      "summary": "Article URL: https://blog.lmorchard.com/2026/03/11/grief-and-the-ai-split/ Comments URL: https://news.ycombinator.com/item?id=47358206 Points: 199 # Comments: 337",
       "source": "Hacker News",
       "published": "2026-03-12T22:35:08+00:00",
       "link": "https://blog.lmorchard.com/2026/03/11/grief-and-the-ai-split/"
@@ -143,14 +192,14 @@ const FEED_DATA = {
     },
     {
       "title": "Innocent woman jailed after being misidentified using AI facial recognition",
-      "summary": "Article URL: https://www.grandforksherald.com/news/north-dakota/ai-error-jails-innocent-grandmother-for-months-in-north-dakota-fraud-case Comments URL: https://news.ycombinator.com/item?id=47356968 Points: 679 # Comments: 351",
+      "summary": "Article URL: https://www.grandforksherald.com/news/north-dakota/ai-error-jails-innocent-grandmother-for-months-in-north-dakota-fraud-case Comments URL: https://news.ycombinator.com/item?id=47356968 Points: 695 # Comments: 364",
       "source": "Hacker News",
       "published": "2026-03-12T20:55:51+00:00",
       "link": "https://www.grandforksherald.com/news/north-dakota/ai-error-jails-innocent-grandmother-for-months-in-north-dakota-fraud-case"
     },
     {
       "title": "Amazon Employees Say AI Is Just Increasing Workload",
-      "summary": "Article URL: https://gizmodo.com/amazon-employees-say-ai-is-just-increasing-workload-a-new-study-confirms-their-suspicions-2000732794 Comments URL: https://news.ycombinator.com/item?id=47356223 Points: 107 # Comments: 36",
+      "summary": "Article URL: https://gizmodo.com/amazon-employees-say-ai-is-just-increasing-workload-a-new-study-confirms-their-suspicions-2000732794 Comments URL: https://news.ycombinator.com/item?id=47356223 Points: 108 # Comments: 36",
       "source": "Hacker News",
       "published": "2026-03-12T19:57:16+00:00",
       "link": "https://gizmodo.com/amazon-employees-say-ai-is-just-increasing-workload-a-new-study-confirms-their-suspicions-2000732794"
@@ -269,7 +318,7 @@ const FEED_DATA = {
     },
     {
       "title": "The Emotional Labor Behind AI Intimacy (2025) [pdf]",
-      "summary": "Related: https://www.404media.co/ai-is-african-intelligence-the-worke... (https://archive.ph/yS8xb) Comments URL: https://news.ycombinator.com/item?id=47353019 Points: 66 # Comments: 17",
+      "summary": "Related: https://www.404media.co/ai-is-african-intelligence-the-worke... (https://archive.ph/yS8xb) Comments URL: https://news.ycombinator.com/item?id=47353019 Points: 67 # Comments: 17",
       "source": "Hacker News",
       "published": "2026-03-12T16:12:04+00:00",
       "link": "https://data-workers.org/wp-content/uploads/2025/12/The-Emotional-Labor-Behind-AI-Intimacy-1.pdf"
@@ -283,7 +332,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI should not replace people at Atlassian, says CEO",
-      "summary": "Article URL: https://www.heise.de/en/news/Atlassian-CEO-AI-doesn-t-replace-people-here-but-we-re-firing-them-anyway-11208758.html Comments URL: https://news.ycombinator.com/item?id=47352335 Points: 116 # Comments: 50",
+      "summary": "Article URL: https://www.heise.de/en/news/Atlassian-CEO-AI-doesn-t-replace-people-here-but-we-re-firing-them-anyway-11208758.html Comments URL: https://news.ycombinator.com/item?id=47352335 Points: 117 # Comments: 50",
       "source": "Hacker News",
       "published": "2026-03-12T15:36:53+00:00",
       "link": "https://www.heise.de/en/news/Atlassian-CEO-AI-doesn-t-replace-people-here-but-we-re-firing-them-anyway-11208758.html"
@@ -451,7 +500,7 @@ const FEED_DATA = {
     },
     {
       "title": "Are LLM merge rates not getting better?",
-      "summary": "Related: Many SWE-bench-Passing PRs would not be merged - https://news.ycombinator.com/item?id=47341645 - March 2026 (149 comments) Comments URL: https://news.ycombinator.com/item?id=47349334 Points: 157 # Comments: 144",
+      "summary": "Related: Many SWE-bench-Passing PRs would not be merged - https://news.ycombinator.com/item?id=47341645 - March 2026 (149 comments) Comments URL: https://news.ycombinator.com/item?id=47349334 Points: 159 # Comments: 149",
       "source": "Hacker News",
       "published": "2026-03-12T11:49:05+00:00",
       "link": "https://entropicthoughts.com/no-swe-bench-improvement"
@@ -514,7 +563,7 @@ const FEED_DATA = {
     },
     {
       "title": "Atlassian to cut roughly 1,600 jobs in pivot to AI",
-      "summary": "Article URL: https://www.reuters.com/technology/atlassian-lay-off-about-1600-people-pivot-ai-2026-03-11/ Comments URL: https://news.ycombinator.com/item?id=47343156 Points: 221 # Comments: 298",
+      "summary": "Article URL: https://www.reuters.com/technology/atlassian-lay-off-about-1600-people-pivot-ai-2026-03-11/ Comments URL: https://news.ycombinator.com/item?id=47343156 Points: 221 # Comments: 299",
       "source": "Hacker News",
       "published": "2026-03-11T22:29:42+00:00",
       "link": "https://www.reuters.com/technology/atlassian-lay-off-about-1600-people-pivot-ai-2026-03-11/"
@@ -542,7 +591,7 @@ const FEED_DATA = {
     },
     {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
-      "summary": "Article URL: https://news.ycombinator.com/newsguidelines.html#generated Comments URL: https://news.ycombinator.com/item?id=47340079 Points: 4160 # Comments: 1632",
+      "summary": "Article URL: https://news.ycombinator.com/newsguidelines.html#generated Comments URL: https://news.ycombinator.com/item?id=47340079 Points: 4169 # Comments: 1639",
       "source": "Hacker News",
       "published": "2026-03-11T19:29:29+00:00",
       "link": "https://news.ycombinator.com/newsguidelines.html#generated"
@@ -570,7 +619,7 @@ const FEED_DATA = {
     },
     {
       "title": "I was interviewed by an AI bot for a job",
-      "summary": "https://archive.ph/DEwy7 Comments URL: https://news.ycombinator.com/item?id=47339164 Points: 412 # Comments: 456",
+      "summary": "https://archive.ph/DEwy7 Comments URL: https://news.ycombinator.com/item?id=47339164 Points: 415 # Comments: 456",
       "source": "Hacker News",
       "published": "2026-03-11T18:17:30+00:00",
       "link": "https://www.theverge.com/featured-video/892850/i-was-interviewed-by-an-ai-bot-for-a-job"
@@ -780,7 +829,7 @@ const FEED_DATA = {
     },
     {
       "title": "How we hacked McKinsey's AI platform",
-      "summary": "Article URL: https://codewall.ai/blog/how-we-hacked-mckinseys-ai-platform Comments URL: https://news.ycombinator.com/item?id=47333627 Points: 493 # Comments: 195",
+      "summary": "Article URL: https://codewall.ai/blog/how-we-hacked-mckinseys-ai-platform Comments URL: https://news.ycombinator.com/item?id=47333627 Points: 494 # Comments: 195",
       "source": "Hacker News",
       "published": "2026-03-11T09:59:03+00:00",
       "link": "https://codewall.ai/blog/how-we-hacked-mckinseys-ai-platform"
@@ -1351,55 +1400,6 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-03-09T17:25:40+00:00",
       "link": "https://techcrunch.com/2026/03/09/anthropic-sues-defense-department-over-supply-chain-risk-designation/"
-    },
-    {
-      "title": "Anthropic's groundbreaking lawsuit challenges the government's power to punish AI safety decisions",
-      "summary": "Anthropic is suing 17 US federal agencies. The 48-page complaint reveals how deeply Claude is already embedded in classified Pentagon systems and how the government pressured the company with contradictory threats when it refused to drop its AI safety guardrails.",
-      "source": "The Decoder",
-      "published": "2026-03-09T17:15:22+00:00",
-      "link": "https://the-decoder.com/anthropics-groundbreaking-lawsuit-challenges-the-governments-power-to-punish-ai-safety-decisions/"
-    },
-    {
-      "title": "Anthropic is suing the Department of Defense",
-      "summary": "Anthropic has sued the US government over its designation as a supply-chain risk, the latest move in a weekslong battle between it and the Pentagon over the acceptable use cases for its military AI tech.",
-      "source": "The Verge",
-      "published": "2026-03-09T16:37:42+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/891377/anthropic-dod-lawsuit"
-    },
-    {
-      "title": "Apple integrates on-device AI into every default app with iOS 20",
-      "summary": "Apple previewed iOS 20 with AI features embedded in Mail, Notes, Safari, and Photos. All processing happens on-device using their new Neural Engine chip.",
-      "source": "The Verge",
-      "published": "2026-03-09T16:15:00Z",
-      "link": "https://theverge.com/example"
-    },
-    {
-      "title": "Qualcomm’s partnership with Neura Robotics is just the beginning",
-      "summary": "Neura Robotics is going to build new robots on top of Qualcomm's new IQ10 processors that were released at CES.",
-      "source": "TechCrunch",
-      "published": "2026-03-09T15:58:11+00:00",
-      "link": "https://techcrunch.com/2026/03/09/qualcomms-partnership-with-neura-robotics-is-just-the-beginning/"
-    },
-    {
-      "title": "Anthropic Sues Department of Defense Over Supply-Chain-Risk Designation",
-      "summary": "The Claude chatbot developer says the Trump administration overstepped by escalating a contract dispute into a federal ban on the company’s technology.",
-      "source": "Wired",
-      "published": "2026-03-09T15:29:57+00:00",
-      "link": "https://www.wired.com/story/anthropic-sues-department-of-defense-over-supply-chain-risk-designation/"
-    },
-    {
-      "title": "Anthropic sues to block Pentagon blacklisting over AI use restrictions",
-      "summary": "Article URL: https://www.reuters.com/world/anthropic-sues-block-pentagon-blacklisting-over-ai-use-restrictions-2026-03-09/ Comments URL: https://news.ycombinator.com/item?id=47310330 Points: 78 # Comments: 53",
-      "source": "Hacker News",
-      "published": "2026-03-09T15:25:40+00:00",
-      "link": "https://www.reuters.com/world/anthropic-sues-block-pentagon-blacklisting-over-ai-use-restrictions-2026-03-09/"
-    },
-    {
-      "title": "Is legal the same as legitimate: AI reimplementation and the erosion of copyleft",
-      "summary": "Article URL: https://writings.hongminhee.org/2026/03/legal-vs-legitimate/ Comments URL: https://news.ycombinator.com/item?id=47310160 Points: 562 # Comments: 581",
-      "source": "Hacker News",
-      "published": "2026-03-09T15:12:53+00:00",
-      "link": "https://writings.hongminhee.org/2026/03/legal-vs-legitimate/"
     }
   ]
 };
