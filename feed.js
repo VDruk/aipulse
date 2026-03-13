@@ -1,6 +1,27 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-03-13T07:35:30.490217+00:00",
+  "lastUpdated": "2026-03-13T11:00:26.627899+00:00",
   "items": [
+    {
+      "title": "Palantir Demos Show How the Military Could Use AI Chatbots to Generate War Plans",
+      "summary": "Software demos and Pentagon records detail how chatbots like Anthropic’s Claude could help the Pentagon analyze intelligence and suggest next steps.",
+      "source": "Wired",
+      "published": "2026-03-13T10:00:00+00:00",
+      "link": "https://www.wired.com/story/palantir-demos-show-how-the-military-can-use-ai-chatbots-to-generate-war-plans/"
+    },
+    {
+      "title": "Meta delays its next AI model Avocado after internal tests show it can't keep up with Google and OpenAI",
+      "summary": "Meta is apparently postponing its new AI model \"Avocado\" because it is falling behind Google, OpenAI and Anthropic in tests. The article Meta delays its next AI model Avocado after internal tests show it can't keep up with Google and OpenAI appeared first on The Decoder.",
+      "source": "The Decoder",
+      "published": "2026-03-13T09:06:43+00:00",
+      "link": "https://the-decoder.com/meta-delays-its-next-ai-model-avocado-after-internal-tests-show-it-cant-keep-up-with-google-and-openai/"
+    },
+    {
+      "title": "Future AI chips could be built on glass",
+      "summary": "Human-made glass is thousands of years old. But it’s now poised to find its way into the AI chips used in the world’s newest and largest data centers.",
+      "source": "MIT Tech Review",
+      "published": "2026-03-13T09:00:00+00:00",
+      "link": "https://www.technologyreview.com/2026/03/13/1134230/future-ai-chips-could-be-built-on-glass/"
+    },
     {
       "title": "Before quantum computing arrives, this startup wants enterprises already running on it",
       "summary": "After selling his AI startup to AMD for $665 million, Peter Sarlin is back with QuTwo, a new venture building the infrastructure it believes enterprises will need when quantum computing finally arrives.",
@@ -24,7 +45,7 @@ const FEED_DATA = {
     },
     {
       "title": "Grief and the AI split",
-      "summary": "Article URL: https://blog.lmorchard.com/2026/03/11/grief-and-the-ai-split/ Comments URL: https://news.ycombinator.com/item?id=47358206 Points: 124 # Comments: 193",
+      "summary": "Article URL: https://blog.lmorchard.com/2026/03/11/grief-and-the-ai-split/ Comments URL: https://news.ycombinator.com/item?id=47358206 Points: 158 # Comments: 240",
       "source": "Hacker News",
       "published": "2026-03-12T22:35:08+00:00",
       "link": "https://blog.lmorchard.com/2026/03/11/grief-and-the-ai-split/"
@@ -45,14 +66,14 @@ const FEED_DATA = {
     },
     {
       "title": "Innocent woman jailed after being misidentified using AI facial recognition",
-      "summary": "Article URL: https://www.grandforksherald.com/news/north-dakota/ai-error-jails-innocent-grandmother-for-months-in-north-dakota-fraud-case Comments URL: https://news.ycombinator.com/item?id=47356968 Points: 563 # Comments: 290",
+      "summary": "Article URL: https://www.grandforksherald.com/news/north-dakota/ai-error-jails-innocent-grandmother-for-months-in-north-dakota-fraud-case Comments URL: https://news.ycombinator.com/item?id=47356968 Points: 626 # Comments: 327",
       "source": "Hacker News",
       "published": "2026-03-12T20:55:51+00:00",
       "link": "https://www.grandforksherald.com/news/north-dakota/ai-error-jails-innocent-grandmother-for-months-in-north-dakota-fraud-case"
     },
     {
       "title": "Amazon Employees Say AI Is Just Increasing Workload",
-      "summary": "Article URL: https://gizmodo.com/amazon-employees-say-ai-is-just-increasing-workload-a-new-study-confirms-their-suspicions-2000732794 Comments URL: https://news.ycombinator.com/item?id=47356223 Points: 94 # Comments: 29",
+      "summary": "Article URL: https://gizmodo.com/amazon-employees-say-ai-is-just-increasing-workload-a-new-study-confirms-their-suspicions-2000732794 Comments URL: https://news.ycombinator.com/item?id=47356223 Points: 96 # Comments: 32",
       "source": "Hacker News",
       "published": "2026-03-12T19:57:16+00:00",
       "link": "https://gizmodo.com/amazon-employees-say-ai-is-just-increasing-workload-a-new-study-confirms-their-suspicions-2000732794"
@@ -171,7 +192,7 @@ const FEED_DATA = {
     },
     {
       "title": "The Emotional Labor Behind AI Intimacy (2025) [pdf]",
-      "summary": "Related: https://www.404media.co/ai-is-african-intelligence-the-worke... (https://archive.ph/yS8xb) Comments URL: https://news.ycombinator.com/item?id=47353019 Points: 62 # Comments: 18",
+      "summary": "Related: https://www.404media.co/ai-is-african-intelligence-the-worke... (https://archive.ph/yS8xb) Comments URL: https://news.ycombinator.com/item?id=47353019 Points: 63 # Comments: 18",
       "source": "Hacker News",
       "published": "2026-03-12T16:12:04+00:00",
       "link": "https://data-workers.org/wp-content/uploads/2025/12/The-Emotional-Labor-Behind-AI-Intimacy-1.pdf"
@@ -353,7 +374,7 @@ const FEED_DATA = {
     },
     {
       "title": "Are LLM merge rates not getting better?",
-      "summary": "Related: Many SWE-bench-Passing PRs would not be merged - https://news.ycombinator.com/item?id=47341645 - March 2026 (149 comments) Comments URL: https://news.ycombinator.com/item?id=47349334 Points: 141 # Comments: 125",
+      "summary": "Related: Many SWE-bench-Passing PRs would not be merged - https://news.ycombinator.com/item?id=47341645 - March 2026 (149 comments) Comments URL: https://news.ycombinator.com/item?id=47349334 Points: 152 # Comments: 139",
       "source": "Hacker News",
       "published": "2026-03-12T11:49:05+00:00",
       "link": "https://entropicthoughts.com/no-swe-bench-improvement"
@@ -367,7 +388,7 @@ const FEED_DATA = {
     },
     {
       "title": "Reliable Software in the LLM Era",
-      "summary": "Article URL: https://quint-lang.org/posts/llm_era Comments URL: https://news.ycombinator.com/item?id=47347901 Points: 102 # Comments: 33",
+      "summary": "Article URL: https://quint-lang.org/posts/llm_era Comments URL: https://news.ycombinator.com/item?id=47347901 Points: 102 # Comments: 34",
       "source": "Hacker News",
       "published": "2026-03-12T08:19:46+00:00",
       "link": "https://quint-lang.org/posts/llm_era"
@@ -381,7 +402,7 @@ const FEED_DATA = {
     },
     {
       "title": "How much of HN is AI?",
-      "summary": "Article URL: https://lcamtuf.substack.com/p/how-much-of-hn-is-ai Comments URL: https://news.ycombinator.com/item?id=47344999 Points: 99 # Comments: 55",
+      "summary": "Article URL: https://lcamtuf.substack.com/p/how-much-of-hn-is-ai Comments URL: https://news.ycombinator.com/item?id=47344999 Points: 99 # Comments: 56",
       "source": "Hacker News",
       "published": "2026-03-12T01:15:40+00:00",
       "link": "https://lcamtuf.substack.com/p/how-much-of-hn-is-ai"
@@ -430,7 +451,7 @@ const FEED_DATA = {
     },
     {
       "title": "Preliminary data from a longitudinal AI impact study",
-      "summary": "Article URL: https://newsletter.getdx.com/p/ai-productivity-gains-are-10-not Comments URL: https://news.ycombinator.com/item?id=47342139 Points: 60 # Comments: 39",
+      "summary": "Article URL: https://newsletter.getdx.com/p/ai-productivity-gains-are-10-not Comments URL: https://news.ycombinator.com/item?id=47342139 Points: 61 # Comments: 39",
       "source": "Hacker News",
       "published": "2026-03-11T21:23:24+00:00",
       "link": "https://newsletter.getdx.com/p/ai-productivity-gains-are-10-not"
@@ -444,7 +465,7 @@ const FEED_DATA = {
     },
     {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
-      "summary": "Article URL: https://news.ycombinator.com/newsguidelines.html#generated Comments URL: https://news.ycombinator.com/item?id=47340079 Points: 4126 # Comments: 1615",
+      "summary": "Article URL: https://news.ycombinator.com/newsguidelines.html#generated Comments URL: https://news.ycombinator.com/item?id=47340079 Points: 4137 # Comments: 1625",
       "source": "Hacker News",
       "published": "2026-03-11T19:29:29+00:00",
       "link": "https://news.ycombinator.com/newsguidelines.html#generated"
@@ -472,7 +493,7 @@ const FEED_DATA = {
     },
     {
       "title": "I was interviewed by an AI bot for a job",
-      "summary": "https://archive.ph/DEwy7 Comments URL: https://news.ycombinator.com/item?id=47339164 Points: 406 # Comments: 454",
+      "summary": "https://archive.ph/DEwy7 Comments URL: https://news.ycombinator.com/item?id=47339164 Points: 409 # Comments: 455",
       "source": "Hacker News",
       "published": "2026-03-11T18:17:30+00:00",
       "link": "https://www.theverge.com/featured-video/892850/i-was-interviewed-by-an-ai-bot-for-a-job"
@@ -682,7 +703,7 @@ const FEED_DATA = {
     },
     {
       "title": "How we hacked McKinsey's AI platform",
-      "summary": "Article URL: https://codewall.ai/blog/how-we-hacked-mckinseys-ai-platform Comments URL: https://news.ycombinator.com/item?id=47333627 Points: 487 # Comments: 192",
+      "summary": "Article URL: https://codewall.ai/blog/how-we-hacked-mckinseys-ai-platform Comments URL: https://news.ycombinator.com/item?id=47333627 Points: 490 # Comments: 192",
       "source": "Hacker News",
       "published": "2026-03-11T09:59:03+00:00",
       "link": "https://codewall.ai/blog/how-we-hacked-mckinseys-ai-platform"
@@ -710,7 +731,7 @@ const FEED_DATA = {
     },
     {
       "title": "Google to provide Pentagon with AI agents",
-      "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-03-10/google-to-provide-pentagon-with-ai-agents-for-unclassified-work Comments URL: https://news.ycombinator.com/item?id=47333433 Points: 72 # Comments: 78",
+      "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-03-10/google-to-provide-pentagon-with-ai-agents-for-unclassified-work Comments URL: https://news.ycombinator.com/item?id=47333433 Points: 73 # Comments: 79",
       "source": "Hacker News",
       "published": "2026-03-11T09:30:22+00:00",
       "link": "https://www.bloomberg.com/news/articles/2026-03-10/google-to-provide-pentagon-with-ai-agents-for-unclassified-work"
@@ -1379,27 +1400,6 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-03-09T12:30:00Z",
       "link": "https://techcrunch.com/example"
-    },
-    {
-      "title": "Nvidia backs AI data center startup Nscale as it hits $14.6B valuation",
-      "summary": "Article URL: https://www.cnbc.com/2026/03/09/nscale-ai-data-center-nvidia-raise.html Comments URL: https://news.ycombinator.com/item?id=47307419 Points: 52 # Comments: 54",
-      "source": "Hacker News",
-      "published": "2026-03-09T10:58:15+00:00",
-      "link": "https://www.cnbc.com/2026/03/09/nscale-ai-data-center-nvidia-raise.html"
-    },
-    {
-      "title": "Show HN: VS Code Agent Kanban: Task Management for the AI-Assisted Developer",
-      "summary": "Agent Kanban has 4 main features:GitOps & team friendly kanban board integration inside VS Code Structured plan / todo / implement via @kanban commands Leverages your existing agent harness rather than trying to bundle a built in one .md task format provides a permanent...",
-      "source": "Hacker News",
-      "published": "2026-03-09T10:28:08+00:00",
-      "link": "https://www.appsoftware.com/blog/introducing-vs-code-agent-kanban-task-management-for-the-ai-assisted-developer"
-    },
-    {
-      "title": "NVIDIA reports record Q4 revenue of $45B driven by AI chip demand",
-      "summary": "NVIDIA crushed earnings expectations again with $45B in quarterly revenue. CEO Jensen Huang said demand for Blackwell chips continues to outpace supply by a wide margin.",
-      "source": "Bloomberg",
-      "published": "2026-03-09T10:00:00Z",
-      "link": "https://bloomberg.com/example"
     }
   ]
 };
