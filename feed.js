@@ -1,12 +1,82 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-03-13T11:00:26.627899+00:00",
+  "lastUpdated": "2026-03-13T15:29:10.013330+00:00",
   "items": [
+    {
+      "title": "Peacock expands into AI-driven video, mobile-first live sports, and gaming",
+      "summary": "Peacock is betting on new AI-powered video experiences, vertical clips, and mobile games to help its growth.",
+      "source": "TechCrunch",
+      "published": "2026-03-13T14:00:00+00:00",
+      "link": "https://techcrunch.com/2026/03/13/peacock-expands-into-ai-driven-video-mobile-first-live-sports-and-gaming/"
+    },
+    {
+      "title": "AI chips are pushing everything else off TSMC's most advanced production lines",
+      "summary": "By 2027, 86 percent of TSMC's N3 capacity could go to AI accelerators, according to SemiAnalysis. Smartphones are becoming a buffer for overflow demand.",
+      "source": "The Decoder",
+      "published": "2026-03-13T13:31:46+00:00",
+      "link": "https://the-decoder.com/ai-chips-are-pushing-everything-else-off-tsmcs-most-advanced-production-lines/"
+    },
+    {
+      "title": "Ukraine opens its battlefield data to allies to train AI models for autonomous drones",
+      "summary": "Ukraine opens its battlefield data to allies to train AI models for autonomous drones. The article Ukraine opens its battlefield data to allies to train AI models for autonomous drones appeared first on The Decoder.",
+      "source": "The Decoder",
+      "published": "2026-03-13T13:24:50+00:00",
+      "link": "https://the-decoder.com/ukraine-provides-allies-with-a-platform-with-combat-data-for-ai-training/"
+    },
+    {
+      "title": "Bytedance secures access to Nvidia Blackwell cluster in Malaysia, circumventing US export ban on China",
+      "summary": "TikTok's parent company plans to use around 36,000 Nvidia Blackwell chips in Malaysia, according to a Wall Street Journal report. US export controls prevent direct access in China.",
+      "source": "The Decoder",
+      "published": "2026-03-13T13:20:43+00:00",
+      "link": "https://the-decoder.com/bytedance-secures-access-to-nvidia-blackwell-cluster-in-malaysia-circumventing-us-export-ban-on-china/"
+    },
+    {
+      "title": "Perplexity's \"Personal Computer\" promises a tireless AI agent for $200 a month",
+      "summary": "Perplexity AI's \"Personal Computer\" is an AI assistant that works around the clock - handling emails, presentations, and app control. The article Perplexity's \"Personal Computer\" promises a tireless AI agent for $200 a month appeared first on The Decoder.",
+      "source": "The Decoder",
+      "published": "2026-03-13T12:34:55+00:00",
+      "link": "https://the-decoder.com/perplexitys-personal-computer-promises-a-tireless-ai-agent-for-200-a-month/"
+    },
+    {
+      "title": "Google's AI Searches Love to Refer You Back to Google",
+      "summary": "The company's generative AI search tools increasingly cite its own services, like Google Search and YouTube, over third-party publishers.",
+      "source": "Wired",
+      "published": "2026-03-13T12:31:55+00:00",
+      "link": "https://www.wired.com/story/google-ai-searches-love-to-refer-you-back-to-google/"
+    },
+    {
+      "title": "The Download: how AI is used for military targeting, and the Pentagon’s war on Claude",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.",
+      "source": "MIT Tech Review",
+      "published": "2026-03-13T12:16:56+00:00",
+      "link": "https://www.technologyreview.com/2026/03/13/1134278/the-download-defense-official-ai-chatbots-targeting-pentagon-claude-pollute-military-supply-chain/"
+    },
+    {
+      "title": "China’s OpenClaw Boom Is a Gold Rush for AI Companies",
+      "summary": "Hype around the open source agent is driving people to rent cloud servers and buy AI subscriptions just to try it, creating a windfall for tech companies.",
+      "source": "Wired",
+      "published": "2026-03-13T12:00:00+00:00",
+      "link": "https://www.wired.com/story/china-is-going-all-in-on-openclaw/"
+    },
+    {
+      "title": "Gamers’ Worst Nightmares About AI Are Coming True",
+      "summary": "From the global RAM shortage driving up console prices to job loss in the industry, gaming is shaping up to be one of the AI boom's biggest casualties.",
+      "source": "Wired",
+      "published": "2026-03-13T11:00:00+00:00",
+      "link": "https://www.wired.com/story/gamers-ai-nightmares-are-coming-true/"
+    },
     {
       "title": "Palantir Demos Show How the Military Could Use AI Chatbots to Generate War Plans",
       "summary": "Software demos and Pentagon records detail how chatbots like Anthropic’s Claude could help the Pentagon analyze intelligence and suggest next steps.",
       "source": "Wired",
       "published": "2026-03-13T10:00:00+00:00",
       "link": "https://www.wired.com/story/palantir-demos-show-how-the-military-can-use-ai-chatbots-to-generate-war-plans/"
+    },
+    {
+      "title": "E.SUN Bank and IBM build AI governance framework for banking",
+      "summary": "E.SUN Bank is working with IBM to build clearer AI governance rules for how artificial intelligence can be used inside a bank. The effort reflects a wider shift in finance.",
+      "source": "AI News",
+      "published": "2026-03-13T10:00:00+00:00",
+      "link": "https://www.artificialintelligence-news.com/news/e-sun-bank-and-ibm-build-ai-governance-framework-for-banking/"
     },
     {
       "title": "Meta delays its next AI model Avocado after internal tests show it can't keep up with Google and OpenAI",
@@ -23,6 +93,13 @@ const FEED_DATA = {
       "link": "https://www.technologyreview.com/2026/03/13/1134230/future-ai-chips-could-be-built-on-glass/"
     },
     {
+      "title": "BMW puts humanoid robots to work in Germany–and Europe’s factories are watching",
+      "summary": "Europe’s factory floors have a new kind of colleague. BMW Group has deployed humanoid robots in manufacturing in Germany for the first time, launching a pilot project at its Leipzig plant with AEON–a wheeled humanoid built by Hexagon Robotics.",
+      "source": "AI News",
+      "published": "2026-03-13T09:00:00+00:00",
+      "link": "https://www.artificialintelligence-news.com/news/bmw-humanoid-robots-manufacturing-europe-leipzig/"
+    },
+    {
       "title": "Before quantum computing arrives, this startup wants enterprises already running on it",
       "summary": "After selling his AI startup to AMD for $665 million, Peter Sarlin is back with QuTwo, a new venture building the infrastructure it believes enterprises will need when quantum computing finally arrives.",
       "source": "TechCrunch",
@@ -31,7 +108,7 @@ const FEED_DATA = {
     },
     {
       "title": "Tennessee grandmother jailed after AI face recognition error links her to fraud",
-      "summary": "Article URL: https://www.theguardian.com/us-news/2026/mar/12/tennessee-grandmother-ai-fraud Comments URL: https://news.ycombinator.com/item?id=47359136 Points: 96 # Comments: 24",
+      "summary": "Article URL: https://www.theguardian.com/us-news/2026/mar/12/tennessee-grandmother-ai-fraud Comments URL: https://news.ycombinator.com/item?id=47359136 Points: 99 # Comments: 25",
       "source": "Hacker News",
       "published": "2026-03-13T00:17:34+00:00",
       "link": "https://www.theguardian.com/us-news/2026/mar/12/tennessee-grandmother-ai-fraud"
@@ -45,7 +122,7 @@ const FEED_DATA = {
     },
     {
       "title": "Grief and the AI split",
-      "summary": "Article URL: https://blog.lmorchard.com/2026/03/11/grief-and-the-ai-split/ Comments URL: https://news.ycombinator.com/item?id=47358206 Points: 158 # Comments: 240",
+      "summary": "Article URL: https://blog.lmorchard.com/2026/03/11/grief-and-the-ai-split/ Comments URL: https://news.ycombinator.com/item?id=47358206 Points: 191 # Comments: 315",
       "source": "Hacker News",
       "published": "2026-03-12T22:35:08+00:00",
       "link": "https://blog.lmorchard.com/2026/03/11/grief-and-the-ai-split/"
@@ -66,14 +143,14 @@ const FEED_DATA = {
     },
     {
       "title": "Innocent woman jailed after being misidentified using AI facial recognition",
-      "summary": "Article URL: https://www.grandforksherald.com/news/north-dakota/ai-error-jails-innocent-grandmother-for-months-in-north-dakota-fraud-case Comments URL: https://news.ycombinator.com/item?id=47356968 Points: 626 # Comments: 327",
+      "summary": "Article URL: https://www.grandforksherald.com/news/north-dakota/ai-error-jails-innocent-grandmother-for-months-in-north-dakota-fraud-case Comments URL: https://news.ycombinator.com/item?id=47356968 Points: 679 # Comments: 351",
       "source": "Hacker News",
       "published": "2026-03-12T20:55:51+00:00",
       "link": "https://www.grandforksherald.com/news/north-dakota/ai-error-jails-innocent-grandmother-for-months-in-north-dakota-fraud-case"
     },
     {
       "title": "Amazon Employees Say AI Is Just Increasing Workload",
-      "summary": "Article URL: https://gizmodo.com/amazon-employees-say-ai-is-just-increasing-workload-a-new-study-confirms-their-suspicions-2000732794 Comments URL: https://news.ycombinator.com/item?id=47356223 Points: 96 # Comments: 32",
+      "summary": "Article URL: https://gizmodo.com/amazon-employees-say-ai-is-just-increasing-workload-a-new-study-confirms-their-suspicions-2000732794 Comments URL: https://news.ycombinator.com/item?id=47356223 Points: 107 # Comments: 36",
       "source": "Hacker News",
       "published": "2026-03-12T19:57:16+00:00",
       "link": "https://gizmodo.com/amazon-employees-say-ai-is-just-increasing-workload-a-new-study-confirms-their-suspicions-2000732794"
@@ -192,7 +269,7 @@ const FEED_DATA = {
     },
     {
       "title": "The Emotional Labor Behind AI Intimacy (2025) [pdf]",
-      "summary": "Related: https://www.404media.co/ai-is-african-intelligence-the-worke... (https://archive.ph/yS8xb) Comments URL: https://news.ycombinator.com/item?id=47353019 Points: 63 # Comments: 18",
+      "summary": "Related: https://www.404media.co/ai-is-african-intelligence-the-worke... (https://archive.ph/yS8xb) Comments URL: https://news.ycombinator.com/item?id=47353019 Points: 66 # Comments: 17",
       "source": "Hacker News",
       "published": "2026-03-12T16:12:04+00:00",
       "link": "https://data-workers.org/wp-content/uploads/2025/12/The-Emotional-Labor-Behind-AI-Intimacy-1.pdf"
@@ -206,7 +283,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI should not replace people at Atlassian, says CEO",
-      "summary": "Article URL: https://www.heise.de/en/news/Atlassian-CEO-AI-doesn-t-replace-people-here-but-we-re-firing-them-anyway-11208758.html Comments URL: https://news.ycombinator.com/item?id=47352335 Points: 115 # Comments: 50",
+      "summary": "Article URL: https://www.heise.de/en/news/Atlassian-CEO-AI-doesn-t-replace-people-here-but-we-re-firing-them-anyway-11208758.html Comments URL: https://news.ycombinator.com/item?id=47352335 Points: 116 # Comments: 50",
       "source": "Hacker News",
       "published": "2026-03-12T15:36:53+00:00",
       "link": "https://www.heise.de/en/news/Atlassian-CEO-AI-doesn-t-replace-people-here-but-we-re-firing-them-anyway-11208758.html"
@@ -374,7 +451,7 @@ const FEED_DATA = {
     },
     {
       "title": "Are LLM merge rates not getting better?",
-      "summary": "Related: Many SWE-bench-Passing PRs would not be merged - https://news.ycombinator.com/item?id=47341645 - March 2026 (149 comments) Comments URL: https://news.ycombinator.com/item?id=47349334 Points: 152 # Comments: 139",
+      "summary": "Related: Many SWE-bench-Passing PRs would not be merged - https://news.ycombinator.com/item?id=47341645 - March 2026 (149 comments) Comments URL: https://news.ycombinator.com/item?id=47349334 Points: 157 # Comments: 144",
       "source": "Hacker News",
       "published": "2026-03-12T11:49:05+00:00",
       "link": "https://entropicthoughts.com/no-swe-bench-improvement"
@@ -388,7 +465,7 @@ const FEED_DATA = {
     },
     {
       "title": "Reliable Software in the LLM Era",
-      "summary": "Article URL: https://quint-lang.org/posts/llm_era Comments URL: https://news.ycombinator.com/item?id=47347901 Points: 102 # Comments: 34",
+      "summary": "Article URL: https://quint-lang.org/posts/llm_era Comments URL: https://news.ycombinator.com/item?id=47347901 Points: 104 # Comments: 34",
       "source": "Hacker News",
       "published": "2026-03-12T08:19:46+00:00",
       "link": "https://quint-lang.org/posts/llm_era"
@@ -402,7 +479,7 @@ const FEED_DATA = {
     },
     {
       "title": "How much of HN is AI?",
-      "summary": "Article URL: https://lcamtuf.substack.com/p/how-much-of-hn-is-ai Comments URL: https://news.ycombinator.com/item?id=47344999 Points: 99 # Comments: 56",
+      "summary": "Article URL: https://lcamtuf.substack.com/p/how-much-of-hn-is-ai Comments URL: https://news.ycombinator.com/item?id=47344999 Points: 100 # Comments: 56",
       "source": "Hacker News",
       "published": "2026-03-12T01:15:40+00:00",
       "link": "https://lcamtuf.substack.com/p/how-much-of-hn-is-ai"
@@ -437,7 +514,7 @@ const FEED_DATA = {
     },
     {
       "title": "Atlassian to cut roughly 1,600 jobs in pivot to AI",
-      "summary": "Article URL: https://www.reuters.com/technology/atlassian-lay-off-about-1600-people-pivot-ai-2026-03-11/ Comments URL: https://news.ycombinator.com/item?id=47343156 Points: 220 # Comments: 298",
+      "summary": "Article URL: https://www.reuters.com/technology/atlassian-lay-off-about-1600-people-pivot-ai-2026-03-11/ Comments URL: https://news.ycombinator.com/item?id=47343156 Points: 221 # Comments: 298",
       "source": "Hacker News",
       "published": "2026-03-11T22:29:42+00:00",
       "link": "https://www.reuters.com/technology/atlassian-lay-off-about-1600-people-pivot-ai-2026-03-11/"
@@ -465,7 +542,7 @@ const FEED_DATA = {
     },
     {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
-      "summary": "Article URL: https://news.ycombinator.com/newsguidelines.html#generated Comments URL: https://news.ycombinator.com/item?id=47340079 Points: 4137 # Comments: 1625",
+      "summary": "Article URL: https://news.ycombinator.com/newsguidelines.html#generated Comments URL: https://news.ycombinator.com/item?id=47340079 Points: 4160 # Comments: 1632",
       "source": "Hacker News",
       "published": "2026-03-11T19:29:29+00:00",
       "link": "https://news.ycombinator.com/newsguidelines.html#generated"
@@ -493,7 +570,7 @@ const FEED_DATA = {
     },
     {
       "title": "I was interviewed by an AI bot for a job",
-      "summary": "https://archive.ph/DEwy7 Comments URL: https://news.ycombinator.com/item?id=47339164 Points: 409 # Comments: 455",
+      "summary": "https://archive.ph/DEwy7 Comments URL: https://news.ycombinator.com/item?id=47339164 Points: 412 # Comments: 456",
       "source": "Hacker News",
       "published": "2026-03-11T18:17:30+00:00",
       "link": "https://www.theverge.com/featured-video/892850/i-was-interviewed-by-an-ai-bot-for-a-job"
@@ -688,13 +765,6 @@ const FEED_DATA = {
       "link": "https://www.wired.com/story/teens-are-using-ai-fueled-slander-pages-to-mock-their-teachers/"
     },
     {
-      "title": "Inside OpenAI’s Race to Catch Up to Claude Code",
-      "summary": "Why is the biggest name in AI late to the AI coding revolution?",
-      "source": "Wired",
-      "published": "2026-03-11T10:00:00+00:00",
-      "link": "https://www.wired.com/story/openai-codex-race-claude-code/"
-    },
-    {
       "title": "Manulife moves AI agents into core financial workflows",
       "summary": "Large financial firms have spent years testing artificial intelligence in small projects, often limited to data analysis or customer support tools. The next phase appears to involve something more operational: systems that can take action in business workflows.",
       "source": "AI News",
@@ -702,8 +772,15 @@ const FEED_DATA = {
       "link": "https://www.artificialintelligence-news.com/news/manulife-moves-ai-agents-into-core-financial-workflows/"
     },
     {
+      "title": "Inside OpenAI’s Race to Catch Up to Claude Code",
+      "summary": "Why is the biggest name in AI late to the AI coding revolution?",
+      "source": "Wired",
+      "published": "2026-03-11T10:00:00+00:00",
+      "link": "https://www.wired.com/story/openai-codex-race-claude-code/"
+    },
+    {
       "title": "How we hacked McKinsey's AI platform",
-      "summary": "Article URL: https://codewall.ai/blog/how-we-hacked-mckinseys-ai-platform Comments URL: https://news.ycombinator.com/item?id=47333627 Points: 490 # Comments: 192",
+      "summary": "Article URL: https://codewall.ai/blog/how-we-hacked-mckinseys-ai-platform Comments URL: https://news.ycombinator.com/item?id=47333627 Points: 493 # Comments: 195",
       "source": "Hacker News",
       "published": "2026-03-11T09:59:03+00:00",
       "link": "https://codewall.ai/blog/how-we-hacked-mckinseys-ai-platform"
@@ -731,7 +808,7 @@ const FEED_DATA = {
     },
     {
       "title": "Google to provide Pentagon with AI agents",
-      "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-03-10/google-to-provide-pentagon-with-ai-agents-for-unclassified-work Comments URL: https://news.ycombinator.com/item?id=47333433 Points: 73 # Comments: 79",
+      "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-03-10/google-to-provide-pentagon-with-ai-agents-for-unclassified-work Comments URL: https://news.ycombinator.com/item?id=47333433 Points: 73 # Comments: 80",
       "source": "Hacker News",
       "published": "2026-03-11T09:30:22+00:00",
       "link": "https://www.bloomberg.com/news/articles/2026-03-10/google-to-provide-pentagon-with-ai-agents-for-unclassified-work"
@@ -1323,83 +1400,6 @@ const FEED_DATA = {
       "source": "Hacker News",
       "published": "2026-03-09T15:12:53+00:00",
       "link": "https://writings.hongminhee.org/2026/03/legal-vs-legitimate/"
-    },
-    {
-      "title": "How AI is turning the Iran conflict into theater",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here.",
-      "source": "MIT Tech Review",
-      "published": "2026-03-09T15:11:01+00:00",
-      "link": "https://www.technologyreview.com/2026/03/09/1134063/how-ai-is-turning-the-iran-conflict-into-theater/"
-    },
-    {
-      "title": "Sandberg, Clegg join Nscale board as this ‘Stargate Norway’ startup hits $14.6B valuation",
-      "summary": "Nvidia-backed British AI infrastructure startup Nscale has raised another megaround of $2 billion.",
-      "source": "TechCrunch",
-      "published": "2026-03-09T15:09:35+00:00",
-      "link": "https://techcrunch.com/2026/03/09/sandberg-clegg-join-nscale-board-as-this-stargate-norway-startup-hits-14-6b-valuation/"
-    },
-    {
-      "title": "Revealed: UK's multibillion AI drive is built on 'phantom investments'",
-      "summary": "Article URL: https://www.theguardian.com/technology/2026/mar/09/revealed-uks-multibillion-ai-drive-is-built-on-phantom-investments Comments URL: https://news.ycombinator.com/item?id=47309811 Points: 99 # Comments: 53",
-      "source": "Hacker News",
-      "published": "2026-03-09T14:45:12+00:00",
-      "link": "https://www.theguardian.com/technology/2026/mar/09/revealed-uks-multibillion-ai-drive-is-built-on-phantom-investments"
-    },
-    {
-      "title": "Millions already use AI chatbots for financial advice, but experts warn of clear limits",
-      "summary": "Millions of people are already using chatbots like ChatGPT for retirement planning, the Financial Times reports. The article Millions already use AI chatbots for financial advice, but experts warn of clear limits appeared first on The Decoder.",
-      "source": "The Decoder",
-      "published": "2026-03-09T14:01:30+00:00",
-      "link": "https://the-decoder.com/millions-already-use-ai-chatbots-for-financial-advice-but-experts-warn-of-clear-limits/"
-    },
-    {
-      "title": "Stanford study: AI agents can now complete 78% of entry-level office tasks",
-      "summary": "Researchers tested leading AI agents on 500 common office tasks including email drafting, data entry, and scheduling. The best agents completed 78% without human intervention.",
-      "source": "MIT Tech Review",
-      "published": "2026-03-09T14:00:00Z",
-      "link": "https://technologyreview.com/example"
-    },
-    {
-      "title": "The Download: murky AI surveillance laws, and the White House cracks down on defiant labs",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Is the Pentagon allowed to surveil Americans with AI?",
-      "source": "MIT Tech Review",
-      "published": "2026-03-09T13:57:44+00:00",
-      "link": "https://www.technologyreview.com/2026/03/09/1134050/the-download-ai-surveillance-laws-white-house-cracks-down-defiant-labs/"
-    },
-    {
-      "title": "Owner of ICE detention facility sees big opportunity in AI man camps",
-      "summary": "Article URL: https://techcrunch.com/2026/03/08/owner-of-ice-detention-facility-sees-big-opportunity-in-ai-man-camps/ Comments URL: https://news.ycombinator.com/item?id=47308468 Points: 92 # Comments: 60",
-      "source": "Hacker News",
-      "published": "2026-03-09T13:01:01+00:00",
-      "link": "https://techcrunch.com/2026/03/08/owner-of-ice-detention-facility-sees-big-opportunity-in-ai-man-camps/"
-    },
-    {
-      "title": "Feeld Was a Dating App for the Freaks. Now Some People Call It ‘Normie Hell’",
-      "summary": "The app that catered to unconventional kinks is gaining steam among daters with vanilla preferences—and some aren’t happy about it.",
-      "source": "Wired",
-      "published": "2026-03-09T13:00:00+00:00",
-      "link": "https://www.wired.com/story/feeld-was-a-dating-app-for-the-freaks-now-some-people-call-it-normie-hell/"
-    },
-    {
-      "title": "AI insurance underwriting is past the pitch deck—Gradient AI just got the capital to prove it",
-      "summary": "AI insurance underwriting has been called the next frontier of insurtech for years. The difference now is that the money backing it has moved from venture bets into institutional conviction.",
-      "source": "AI News",
-      "published": "2026-03-09T12:51:00+00:00",
-      "link": "https://www.artificialintelligence-news.com/news/gradient-ai-cibc-ai-insurance-underwriting-growth-capital/"
-    },
-    {
-      "title": "UK sovereign AI fund to build up domestic computing infrastructure",
-      "summary": "The UK sovereign AI fund intends to secure advantages by providing a domestic alternative to external computing infrastructure. Backed by a £500 million budget from the Department for Science, Innovation and Technology, the unit formally launches on April 16th at 6pm GMT.",
-      "source": "AI News",
-      "published": "2026-03-09T12:46:13+00:00",
-      "link": "https://www.artificialintelligence-news.com/news/uk-sovereign-ai-fund-build-domestic-computing-infrastructure/"
-    },
-    {
-      "title": "Microsoft adds AI co-workers to Teams that join meetings and take actions",
-      "summary": "Microsoft announced AI \"teammates\" in Teams that can attend meetings, take notes, create action items, and follow up on tasks autonomously. Rolling out to Enterprise customers next month.",
-      "source": "TechCrunch",
-      "published": "2026-03-09T12:30:00Z",
-      "link": "https://techcrunch.com/example"
     }
   ]
 };
