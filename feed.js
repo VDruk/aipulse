@@ -1,6 +1,62 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-03-13T18:04:51.182424+00:00",
+  "lastUpdated": "2026-03-13T21:59:16.321894+00:00",
   "items": [
+    {
+      "title": "Nyne, founded by a father-son duo, gives AI agents the human context they’re missing",
+      "summary": "The data infrastructure startup raised $5.3 million in seed funding led by Wischoff Ventures and South Park Commons",
+      "source": "TechCrunch",
+      "published": "2026-03-13T21:37:01+00:00",
+      "link": "https://techcrunch.com/2026/03/13/nyne-founded-by-a-father-son-duo-gives-ai-agents-the-human-context-theyre-missing/"
+    },
+    {
+      "title": "Microsoft’s Copilot AI assistant is coming to current-gen Xbox consoles this year",
+      "summary": "Xbox is getting ready to launch its Gaming Copilot AI assistant on \"current-generation consoles\" this year, according to a report from GamesRadar.",
+      "source": "The Verge",
+      "published": "2026-03-13T20:51:48+00:00",
+      "link": "https://www.theverge.com/games/894799/microsoft-gaming-copilot-ai-xbox-consoles"
+    },
+    {
+      "title": "Supply-chain attack using invisible code hits GitHub and other repositories",
+      "summary": "Unicode that's invisible to the human eye was largely abandoned—until attackers took notice.",
+      "source": "Ars Technica",
+      "published": "2026-03-13T20:18:08+00:00",
+      "link": "https://arstechnica.com/security/2026/03/supply-chain-attack-using-invisible-code-hits-github-and-other-repositories/"
+    },
+    {
+      "title": "Anthropic drops the surcharge for million-token context windows, making Opus 4.6 and Sonnet 4.6 far cheaper",
+      "summary": "Anthropic removes the surcharge for long contexts in Claude Opus 4.6 and Sonnet 4.6: requests with more than 200,000 tokens no longer cost up to twice as much.",
+      "source": "The Decoder",
+      "published": "2026-03-13T19:50:00+00:00",
+      "link": "https://the-decoder.com/anthropic-drops-the-surcharge-for-million-token-context-windows-making-opus-4-6-and-sonnet-4-6-far-cheaper/"
+    },
+    {
+      "title": "Steven Spielberg says he’s ‘never used AI’ in any of his films",
+      "summary": "At SXSW, Steven Spielberg said AI has uses in many fields, but not when it comes to replacing creative people in film and TV writing.",
+      "source": "TechCrunch",
+      "published": "2026-03-13T19:47:58+00:00",
+      "link": "https://techcrunch.com/2026/03/13/steven-spielberg-says-hes-never-used-ai-in-any-of-his-films/"
+    },
+    {
+      "title": "The biggest AI stories of the year (so far)",
+      "summary": "The AI industry is constantly churning out news, like major acquisitions, indie developer successes, public outcry, and existentially dangerous contract negotiations.",
+      "source": "TechCrunch",
+      "published": "2026-03-13T19:38:11+00:00",
+      "link": "https://techcrunch.com/2026/03/13/the-biggest-ai-stories-of-the-year-so-far/"
+    },
+    {
+      "title": "Elon Musk admits xAI \"was not built right first time around,\" launches full restructuring",
+      "summary": "Elon Musk's AI company xAI is going through a major restructuring. Musk acknowledged on X that the company \"was not built right first time around\" and is now being rebuilt from the foundations up.",
+      "source": "The Decoder",
+      "published": "2026-03-13T19:15:00+00:00",
+      "link": "https://the-decoder.com/elon-musk-admits-xai-was-not-built-right-first-time-around-launches-full-restructuring/"
+    },
+    {
+      "title": "John Carmack about open source and anti-AI activists",
+      "summary": "https://xcancel.com/id_aa_carmack/status/2032460578669691171 Comments URL: https://news.ycombinator.com/item?id=47367463 Points: 169 # Comments: 246",
+      "source": "Hacker News",
+      "published": "2026-03-13T17:51:34+00:00",
+      "link": "https://twitter.com/id_aa_carmack/status/2032460578669691171"
+    },
     {
       "title": "Google explains the differences between its three Nano Banana image generation models",
       "summary": "A new guide from Google breaks down the three Nano Banana image models and when to use each one. The cheaper Nano Banana 2 reportedly delivers 95 percent of Pro's capabilities and can search the web for reference images on its own before generating output.",
@@ -14,6 +70,13 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-03-13T17:09:59+00:00",
       "link": "https://techcrunch.com/2026/03/13/the-wild-six-weeks-for-nanoclaws-creator-that-led-to-a-deal-with-docker/"
+    },
+    {
+      "title": "Elon Musk pushes out more xAI founders as AI coding effort falters",
+      "summary": "https://archive.ph/rP4cb (text at bottom)https://x.com/elonmusk/status/2032201568335044978, https://xcancel.com/elonmusk/status/2032201568335044978https://economictimes.indiatimes.com/tech/artificial-intelli...https://futurism.com/artificial-intelligence/elon-musk-screw...",
+      "source": "Hacker News",
+      "published": "2026-03-13T16:40:42+00:00",
+      "link": "https://www.ft.com/content/e5fbc6c2-d5a6-4b97-a105-6a96ea849de5"
     },
     {
       "title": "The $32B acquisition that one VC is calling the ‘Deal of the Decade’",
@@ -52,7 +115,7 @@ const FEED_DATA = {
     },
     {
       "title": "Launch HN: Spine Swarm (YC S23) – AI agents that collaborate on a visual canvas",
-      "summary": "Hey HN!",
+      "summary": "Hey HN! We're Ashwin and Akshay from Spine AI (https://www.getspine.ai).",
       "source": "Hacker News",
       "published": "2026-03-13T13:22:40+00:00",
       "link": "https://www.getspine.ai/"
@@ -66,7 +129,7 @@ const FEED_DATA = {
     },
     {
       "title": "Can I run AI locally?",
-      "summary": "Article URL: https://www.canirun.ai/ Comments URL: https://news.ycombinator.com/item?id=47363754 Points: 264 # Comments: 67",
+      "summary": "Article URL: https://www.canirun.ai/ Comments URL: https://news.ycombinator.com/item?id=47363754 Points: 678 # Comments: 194",
       "source": "Hacker News",
       "published": "2026-03-13T12:46:10+00:00",
       "link": "https://www.canirun.ai/"
@@ -157,7 +220,7 @@ const FEED_DATA = {
     },
     {
       "title": "Tennessee grandmother jailed after AI face recognition error links her to fraud",
-      "summary": "Article URL: https://www.theguardian.com/us-news/2026/mar/12/tennessee-grandmother-ai-fraud Comments URL: https://news.ycombinator.com/item?id=47359136 Points: 100 # Comments: 25",
+      "summary": "Article URL: https://www.theguardian.com/us-news/2026/mar/12/tennessee-grandmother-ai-fraud Comments URL: https://news.ycombinator.com/item?id=47359136 Points: 102 # Comments: 25",
       "source": "Hacker News",
       "published": "2026-03-13T00:17:34+00:00",
       "link": "https://www.theguardian.com/us-news/2026/mar/12/tennessee-grandmother-ai-fraud"
@@ -171,7 +234,7 @@ const FEED_DATA = {
     },
     {
       "title": "Grief and the AI split",
-      "summary": "Article URL: https://blog.lmorchard.com/2026/03/11/grief-and-the-ai-split/ Comments URL: https://news.ycombinator.com/item?id=47358206 Points: 199 # Comments: 337",
+      "summary": "Article URL: https://blog.lmorchard.com/2026/03/11/grief-and-the-ai-split/ Comments URL: https://news.ycombinator.com/item?id=47358206 Points: 213 # Comments: 359",
       "source": "Hacker News",
       "published": "2026-03-12T22:35:08+00:00",
       "link": "https://blog.lmorchard.com/2026/03/11/grief-and-the-ai-split/"
@@ -192,14 +255,14 @@ const FEED_DATA = {
     },
     {
       "title": "Innocent woman jailed after being misidentified using AI facial recognition",
-      "summary": "Article URL: https://www.grandforksherald.com/news/north-dakota/ai-error-jails-innocent-grandmother-for-months-in-north-dakota-fraud-case Comments URL: https://news.ycombinator.com/item?id=47356968 Points: 695 # Comments: 364",
+      "summary": "Article URL: https://www.grandforksherald.com/news/north-dakota/ai-error-jails-innocent-grandmother-for-months-in-north-dakota-fraud-case Comments URL: https://news.ycombinator.com/item?id=47356968 Points: 710 # Comments: 370",
       "source": "Hacker News",
       "published": "2026-03-12T20:55:51+00:00",
       "link": "https://www.grandforksherald.com/news/north-dakota/ai-error-jails-innocent-grandmother-for-months-in-north-dakota-fraud-case"
     },
     {
       "title": "Amazon Employees Say AI Is Just Increasing Workload",
-      "summary": "Article URL: https://gizmodo.com/amazon-employees-say-ai-is-just-increasing-workload-a-new-study-confirms-their-suspicions-2000732794 Comments URL: https://news.ycombinator.com/item?id=47356223 Points: 108 # Comments: 36",
+      "summary": "Article URL: https://gizmodo.com/amazon-employees-say-ai-is-just-increasing-workload-a-new-study-confirms-their-suspicions-2000732794 Comments URL: https://news.ycombinator.com/item?id=47356223 Points: 109 # Comments: 37",
       "source": "Hacker News",
       "published": "2026-03-12T19:57:16+00:00",
       "link": "https://gizmodo.com/amazon-employees-say-ai-is-just-increasing-workload-a-new-study-confirms-their-suspicions-2000732794"
@@ -318,7 +381,7 @@ const FEED_DATA = {
     },
     {
       "title": "The Emotional Labor Behind AI Intimacy (2025) [pdf]",
-      "summary": "Related: https://www.404media.co/ai-is-african-intelligence-the-worke... (https://archive.ph/yS8xb) Comments URL: https://news.ycombinator.com/item?id=47353019 Points: 67 # Comments: 17",
+      "summary": "Related: https://www.404media.co/ai-is-african-intelligence-the-worke... (https://archive.ph/yS8xb) Comments URL: https://news.ycombinator.com/item?id=47353019 Points: 68 # Comments: 18",
       "source": "Hacker News",
       "published": "2026-03-12T16:12:04+00:00",
       "link": "https://data-workers.org/wp-content/uploads/2025/12/The-Emotional-Labor-Behind-AI-Intimacy-1.pdf"
@@ -464,13 +527,6 @@ const FEED_DATA = {
       "link": "https://the-decoder.com/openai-is-reportedly-planning-to-integrate-its-video-ai-sora-into-chatgpt/"
     },
     {
-      "title": "Google Maps is getting an AI ‘Ask Maps’ feature and upgraded ‘immersive’ navigation",
-      "summary": "The tech giant says the \"Immersive Navigation\" launch is the biggest update to Maps in over a decade.",
-      "source": "TechCrunch",
-      "published": "2026-03-12T12:30:00+00:00",
-      "link": "https://techcrunch.com/2026/03/12/google-maps-is-getting-an-ai-ask-maps-feature-and-upgraded-immersive-navigation/"
-    },
-    {
       "title": "You can now ask Google Maps ‘complex, real-world questions’ — and Gemini will answer",
       "summary": "Google is continuing to weave Gemini into the firmament of its most-used products. Today, it announced that Google Maps was getting a new AI-powered \"Ask Maps\" feature that allows for \"complex, real-world questions\" with highly detailed, personalized responses.",
       "source": "The Verge",
@@ -483,6 +539,13 @@ const FEED_DATA = {
       "source": "Wired",
       "published": "2026-03-12T12:30:00+00:00",
       "link": "https://www.wired.com/story/google-maps-ask-maps-gemini-powered-tool/"
+    },
+    {
+      "title": "Google Maps is getting an AI ‘Ask Maps’ feature and upgraded ‘immersive’ navigation",
+      "summary": "The tech giant says the \"Immersive Navigation\" launch is the biggest update to Maps in over a decade.",
+      "source": "TechCrunch",
+      "published": "2026-03-12T12:30:00+00:00",
+      "link": "https://techcrunch.com/2026/03/12/google-maps-is-getting-an-ai-ask-maps-feature-and-upgraded-immersive-navigation/"
     },
     {
       "title": "Perplexity’s Personal Computer turns your spare Mac into an AI agent",
@@ -500,7 +563,7 @@ const FEED_DATA = {
     },
     {
       "title": "Are LLM merge rates not getting better?",
-      "summary": "Related: Many SWE-bench-Passing PRs would not be merged - https://news.ycombinator.com/item?id=47341645 - March 2026 (149 comments) Comments URL: https://news.ycombinator.com/item?id=47349334 Points: 159 # Comments: 149",
+      "summary": "Related: Many SWE-bench-Passing PRs would not be merged - https://news.ycombinator.com/item?id=47341645 - March 2026 (149 comments) Comments URL: https://news.ycombinator.com/item?id=47349334 Points: 160 # Comments: 150",
       "source": "Hacker News",
       "published": "2026-03-12T11:49:05+00:00",
       "link": "https://entropicthoughts.com/no-swe-bench-improvement"
@@ -563,7 +626,7 @@ const FEED_DATA = {
     },
     {
       "title": "Atlassian to cut roughly 1,600 jobs in pivot to AI",
-      "summary": "Article URL: https://www.reuters.com/technology/atlassian-lay-off-about-1600-people-pivot-ai-2026-03-11/ Comments URL: https://news.ycombinator.com/item?id=47343156 Points: 221 # Comments: 299",
+      "summary": "Article URL: https://www.reuters.com/technology/atlassian-lay-off-about-1600-people-pivot-ai-2026-03-11/ Comments URL: https://news.ycombinator.com/item?id=47343156 Points: 221 # Comments: 300",
       "source": "Hacker News",
       "published": "2026-03-11T22:29:42+00:00",
       "link": "https://www.reuters.com/technology/atlassian-lay-off-about-1600-people-pivot-ai-2026-03-11/"
@@ -577,7 +640,7 @@ const FEED_DATA = {
     },
     {
       "title": "Preliminary data from a longitudinal AI impact study",
-      "summary": "Article URL: https://newsletter.getdx.com/p/ai-productivity-gains-are-10-not Comments URL: https://news.ycombinator.com/item?id=47342139 Points: 61 # Comments: 39",
+      "summary": "Article URL: https://newsletter.getdx.com/p/ai-productivity-gains-are-10-not Comments URL: https://news.ycombinator.com/item?id=47342139 Points: 62 # Comments: 39",
       "source": "Hacker News",
       "published": "2026-03-11T21:23:24+00:00",
       "link": "https://newsletter.getdx.com/p/ai-productivity-gains-are-10-not"
@@ -591,7 +654,7 @@ const FEED_DATA = {
     },
     {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
-      "summary": "Article URL: https://news.ycombinator.com/newsguidelines.html#generated Comments URL: https://news.ycombinator.com/item?id=47340079 Points: 4169 # Comments: 1639",
+      "summary": "Article URL: https://news.ycombinator.com/newsguidelines.html#generated Comments URL: https://news.ycombinator.com/item?id=47340079 Points: 4176 # Comments: 1647",
       "source": "Hacker News",
       "published": "2026-03-11T19:29:29+00:00",
       "link": "https://news.ycombinator.com/newsguidelines.html#generated"
@@ -619,7 +682,7 @@ const FEED_DATA = {
     },
     {
       "title": "I was interviewed by an AI bot for a job",
-      "summary": "https://archive.ph/DEwy7 Comments URL: https://news.ycombinator.com/item?id=47339164 Points: 415 # Comments: 456",
+      "summary": "https://archive.ph/DEwy7 Comments URL: https://news.ycombinator.com/item?id=47339164 Points: 415 # Comments: 458",
       "source": "Hacker News",
       "published": "2026-03-11T18:17:30+00:00",
       "link": "https://www.theverge.com/featured-video/892850/i-was-interviewed-by-an-ai-bot-for-a-job"
@@ -1337,69 +1400,6 @@ const FEED_DATA = {
       "source": "The Verge",
       "published": "2026-03-09T20:45:24+00:00",
       "link": "https://www.theverge.com/ai-artificial-intelligence/891514/anthropic-pentagon-lawsuit-amicus-brief-openai-google"
-    },
-    {
-      "title": "OpenAI and Google Workers File Amicus Brief in Support of Anthropic Against the US Government",
-      "summary": "Google DeepMind chief scientist Jeff Dean is among the AI researchers and engineers rushing to Anthropic's defense.",
-      "source": "Wired",
-      "published": "2026-03-09T20:38:12+00:00",
-      "link": "https://www.wired.com/story/openai-deepmind-employees-file-amicus-brief-anthropic-dod-lawsuit/"
-    },
-    {
-      "title": "Stability AI launches real-time video generation model",
-      "summary": "Stability AI released a model that generates 1080p video at 24fps in near real-time. The company says it runs on a single high-end consumer GPU.",
-      "source": "Ars Technica",
-      "published": "2026-03-09T20:30:00Z",
-      "link": "https://arstechnica.com/example"
-    },
-    {
-      "title": "Anthropic launches code review tool to check flood of AI-generated code",
-      "summary": "Anthropic launched Code Review in Claude Code, a multi-agent system that automatically analyzes AI-generated code, flags logic errors, and helps enterprise developers manage the growing volume of code produced with AI.",
-      "source": "TechCrunch",
-      "published": "2026-03-09T19:41:34+00:00",
-      "link": "https://techcrunch.com/2026/03/09/anthropic-launches-code-review-tool-to-check-flood-of-ai-generated-code/"
-    },
-    {
-      "title": "Things I've Done with AI",
-      "summary": "Article URL: https://sjer.red/blog/2026/built-with-ai/ Comments URL: https://news.ycombinator.com/item?id=47314123 Points: 84 # Comments: 143",
-      "source": "Hacker News",
-      "published": "2026-03-09T19:24:20+00:00",
-      "link": "https://sjer.red/blog/2026/built-with-ai/"
-    },
-    {
-      "title": "OpenAI plans to acquire Promptfoo and bake AI security testing directly into its Frontier enterprise platform",
-      "summary": "OpenAI is acquiring AI security platform Promptfoo to build automated vulnerability testing, covering jailbreaks, prompt injections, and data leaks, directly into its Frontier enterprise platform.",
-      "source": "The Decoder",
-      "published": "2026-03-09T19:10:08+00:00",
-      "link": "https://the-decoder.com/openai-plans-to-acquire-promptfoo-and-bake-ai-security-testing-directly-into-its-frontier-enterprise-platform/"
-    },
-    {
-      "title": "China unveils national AI infrastructure plan with $50B investment",
-      "summary": "China's State Council announced a massive investment plan to build government-run AI compute centers in every province. The plan includes domestic chip production targets for 2028.",
-      "source": "Reuters",
-      "published": "2026-03-09T18:00:00Z",
-      "link": "https://reuters.com/example"
-    },
-    {
-      "title": "Microsoft brings Anthropic's Claude Cowork into Copilot to run tasks across Outlook, Teams, and Excel",
-      "summary": "With Copilot Cowork, Microsoft taps Anthropic's Claude instead of OpenAI to let AI handle tasks across Outlook, Teams, and Excel autonomously.",
-      "source": "The Decoder",
-      "published": "2026-03-09T17:51:16+00:00",
-      "link": "https://the-decoder.com/microsoft-brings-anthropics-claude-cowork-into-copilot-to-run-tasks-across-outlook-teams-and-excel/"
-    },
-    {
-      "title": "OpenAI acquires Promptfoo to secure its AI agents",
-      "summary": "This deal underscores how frontier labs are scrambling to prove their technology can be used safely in critical business operations.",
-      "source": "TechCrunch",
-      "published": "2026-03-09T17:49:04+00:00",
-      "link": "https://techcrunch.com/2026/03/09/openai-acquires-promptfoo-to-secure-its-ai-agents/"
-    },
-    {
-      "title": "Anthropic sues Defense Department over supply-chain risk designation",
-      "summary": "Anthropic filed suit against the Department of Defense on Monday after the agency labeled it a supply-chain risk. The complaint calls the DOD's actions \"unprecedented and unlawful.\"",
-      "source": "TechCrunch",
-      "published": "2026-03-09T17:25:40+00:00",
-      "link": "https://techcrunch.com/2026/03/09/anthropic-sues-defense-department-over-supply-chain-risk-designation/"
     }
   ]
 };
