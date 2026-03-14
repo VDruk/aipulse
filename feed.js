@@ -1,9 +1,23 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-03-13T21:59:16.321894+00:00",
+  "lastUpdated": "2026-03-14T05:15:09.950033+00:00",
   "items": [
     {
+      "title": "‘Not built right the first time’ — Musk’s xAI is starting over again, again",
+      "summary": "The AI lab is revamping its effort to build an AI coding tool, with two new executives joining from Cursor.",
+      "source": "TechCrunch",
+      "published": "2026-03-14T00:12:22+00:00",
+      "link": "https://techcrunch.com/2026/03/13/not-built-right-the-first-time-musks-xai-is-starting-over-again-again/"
+    },
+    {
+      "title": "Lawyer behind AI psychosis cases warns of mass casualty risks",
+      "summary": "AI chatbots have been linked to suicides for years. Now one lawyer says they are showing up in mass casualty cases too, and the technology is moving faster than the safeguards.",
+      "source": "TechCrunch",
+      "published": "2026-03-14T00:01:02+00:00",
+      "link": "https://techcrunch.com/2026/03/13/lawyer-behind-ai-psychosis-cases-warns-of-mass-casualty-risks/"
+    },
+    {
       "title": "Nyne, founded by a father-son duo, gives AI agents the human context they’re missing",
-      "summary": "The data infrastructure startup raised $5.3 million in seed funding led by Wischoff Ventures and South Park Commons",
+      "summary": "The data infrastructure startup raised $5.3 million in seed funding led by Wischoff Ventures and South Park Commons.",
       "source": "TechCrunch",
       "published": "2026-03-13T21:37:01+00:00",
       "link": "https://techcrunch.com/2026/03/13/nyne-founded-by-a-father-son-duo-gives-ai-agents-the-human-context-theyre-missing/"
@@ -51,8 +65,15 @@ const FEED_DATA = {
       "link": "https://the-decoder.com/elon-musk-admits-xai-was-not-built-right-first-time-around-launches-full-restructuring/"
     },
     {
+      "title": "Show HN: Context Gateway – Compress agent context before it hits the LLM",
+      "summary": "We built an open-source proxy that sits between coding agents (Claude Code, OpenClaw, etc.) and the LLM, compressing tool outputs before they enter the context window.Demo: https://www.youtube.com/watch?v=-vFZ6MPrwjw#t=9s.Motivation: Agents are terrible at managing context.",
+      "source": "Hacker News",
+      "published": "2026-03-13T17:58:22+00:00",
+      "link": "https://github.com/Compresr-ai/Context-Gateway"
+    },
+    {
       "title": "John Carmack about open source and anti-AI activists",
-      "summary": "https://xcancel.com/id_aa_carmack/status/2032460578669691171 Comments URL: https://news.ycombinator.com/item?id=47367463 Points: 169 # Comments: 246",
+      "summary": "https://xcancel.com/id_aa_carmack/status/2032460578669691171 Comments URL: https://news.ycombinator.com/item?id=47367463 Points: 268 # Comments: 382",
       "source": "Hacker News",
       "published": "2026-03-13T17:51:34+00:00",
       "link": "https://twitter.com/id_aa_carmack/status/2032460578669691171"
@@ -129,7 +150,7 @@ const FEED_DATA = {
     },
     {
       "title": "Can I run AI locally?",
-      "summary": "Article URL: https://www.canirun.ai/ Comments URL: https://news.ycombinator.com/item?id=47363754 Points: 678 # Comments: 194",
+      "summary": "Article URL: https://www.canirun.ai/ Comments URL: https://news.ycombinator.com/item?id=47363754 Points: 1069 # Comments: 274",
       "source": "Hacker News",
       "published": "2026-03-13T12:46:10+00:00",
       "link": "https://www.canirun.ai/"
@@ -234,7 +255,7 @@ const FEED_DATA = {
     },
     {
       "title": "Grief and the AI split",
-      "summary": "Article URL: https://blog.lmorchard.com/2026/03/11/grief-and-the-ai-split/ Comments URL: https://news.ycombinator.com/item?id=47358206 Points: 213 # Comments: 359",
+      "summary": "Article URL: https://blog.lmorchard.com/2026/03/11/grief-and-the-ai-split/ Comments URL: https://news.ycombinator.com/item?id=47358206 Points: 226 # Comments: 362",
       "source": "Hacker News",
       "published": "2026-03-12T22:35:08+00:00",
       "link": "https://blog.lmorchard.com/2026/03/11/grief-and-the-ai-split/"
@@ -255,14 +276,14 @@ const FEED_DATA = {
     },
     {
       "title": "Innocent woman jailed after being misidentified using AI facial recognition",
-      "summary": "Article URL: https://www.grandforksherald.com/news/north-dakota/ai-error-jails-innocent-grandmother-for-months-in-north-dakota-fraud-case Comments URL: https://news.ycombinator.com/item?id=47356968 Points: 710 # Comments: 370",
+      "summary": "Article URL: https://www.grandforksherald.com/news/north-dakota/ai-error-jails-innocent-grandmother-for-months-in-north-dakota-fraud-case Comments URL: https://news.ycombinator.com/item?id=47356968 Points: 723 # Comments: 373",
       "source": "Hacker News",
       "published": "2026-03-12T20:55:51+00:00",
       "link": "https://www.grandforksherald.com/news/north-dakota/ai-error-jails-innocent-grandmother-for-months-in-north-dakota-fraud-case"
     },
     {
       "title": "Amazon Employees Say AI Is Just Increasing Workload",
-      "summary": "Article URL: https://gizmodo.com/amazon-employees-say-ai-is-just-increasing-workload-a-new-study-confirms-their-suspicions-2000732794 Comments URL: https://news.ycombinator.com/item?id=47356223 Points: 109 # Comments: 37",
+      "summary": "Article URL: https://gizmodo.com/amazon-employees-say-ai-is-just-increasing-workload-a-new-study-confirms-their-suspicions-2000732794 Comments URL: https://news.ycombinator.com/item?id=47356223 Points: 111 # Comments: 37",
       "source": "Hacker News",
       "published": "2026-03-12T19:57:16+00:00",
       "link": "https://gizmodo.com/amazon-employees-say-ai-is-just-increasing-workload-a-new-study-confirms-their-suspicions-2000732794"
@@ -381,7 +402,7 @@ const FEED_DATA = {
     },
     {
       "title": "The Emotional Labor Behind AI Intimacy (2025) [pdf]",
-      "summary": "Related: https://www.404media.co/ai-is-african-intelligence-the-worke... (https://archive.ph/yS8xb) Comments URL: https://news.ycombinator.com/item?id=47353019 Points: 68 # Comments: 18",
+      "summary": "Related: https://www.404media.co/ai-is-african-intelligence-the-worke... (https://archive.ph/yS8xb) Comments URL: https://news.ycombinator.com/item?id=47353019 Points: 69 # Comments: 18",
       "source": "Hacker News",
       "published": "2026-03-12T16:12:04+00:00",
       "link": "https://data-workers.org/wp-content/uploads/2025/12/The-Emotional-Labor-Behind-AI-Intimacy-1.pdf"
@@ -395,7 +416,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI should not replace people at Atlassian, says CEO",
-      "summary": "Article URL: https://www.heise.de/en/news/Atlassian-CEO-AI-doesn-t-replace-people-here-but-we-re-firing-them-anyway-11208758.html Comments URL: https://news.ycombinator.com/item?id=47352335 Points: 117 # Comments: 50",
+      "summary": "Article URL: https://www.heise.de/en/news/Atlassian-CEO-AI-doesn-t-replace-people-here-but-we-re-firing-them-anyway-11208758.html Comments URL: https://news.ycombinator.com/item?id=47352335 Points: 118 # Comments: 51",
       "source": "Hacker News",
       "published": "2026-03-12T15:36:53+00:00",
       "link": "https://www.heise.de/en/news/Atlassian-CEO-AI-doesn-t-replace-people-here-but-we-re-firing-them-anyway-11208758.html"
@@ -506,18 +527,18 @@ const FEED_DATA = {
       "link": "https://www.theverge.com/tech/893594/microsoft-copilot-health-launch"
     },
     {
-      "title": "Google is using old news reports and AI to predict flash floods",
-      "summary": "A new way to solve data scarcity: Turning qualitative reports into quantitative data with an LLM.",
-      "source": "TechCrunch",
-      "published": "2026-03-12T13:00:00+00:00",
-      "link": "https://techcrunch.com/2026/03/12/google-is-using-old-news-reports-and-ai-to-predict-flash-floods/"
-    },
-    {
       "title": "Pragmatic by design: Engineering AI for the real world",
       "summary": "The impact of artificial intelligence extends far beyond the digital world and into our everyday lives, across the cars we drive, the appliances in our homes, and medical devices that keep people alive.",
       "source": "MIT Tech Review",
       "published": "2026-03-12T13:00:00+00:00",
       "link": "https://www.technologyreview.com/2026/03/12/1133675/pragmatic-by-design-engineering-ai-for-the-real-world/"
+    },
+    {
+      "title": "Google is using old news reports and AI to predict flash floods",
+      "summary": "A new way to solve data scarcity: Turning qualitative reports into quantitative data with an LLM.",
+      "source": "TechCrunch",
+      "published": "2026-03-12T13:00:00+00:00",
+      "link": "https://techcrunch.com/2026/03/12/google-is-using-old-news-reports-and-ai-to-predict-flash-floods/"
     },
     {
       "title": "OpenAI is reportedly planning to integrate its video AI Sora into ChatGPT",
@@ -563,7 +584,7 @@ const FEED_DATA = {
     },
     {
       "title": "Are LLM merge rates not getting better?",
-      "summary": "Related: Many SWE-bench-Passing PRs would not be merged - https://news.ycombinator.com/item?id=47341645 - March 2026 (149 comments) Comments URL: https://news.ycombinator.com/item?id=47349334 Points: 160 # Comments: 150",
+      "summary": "Related: Many SWE-bench-Passing PRs would not be merged - https://news.ycombinator.com/item?id=47341645 - March 2026 (149 comments) Comments URL: https://news.ycombinator.com/item?id=47349334 Points: 163 # Comments: 155",
       "source": "Hacker News",
       "published": "2026-03-12T11:49:05+00:00",
       "link": "https://entropicthoughts.com/no-swe-bench-improvement"
@@ -577,7 +598,7 @@ const FEED_DATA = {
     },
     {
       "title": "Reliable Software in the LLM Era",
-      "summary": "Article URL: https://quint-lang.org/posts/llm_era Comments URL: https://news.ycombinator.com/item?id=47347901 Points: 104 # Comments: 34",
+      "summary": "Article URL: https://quint-lang.org/posts/llm_era Comments URL: https://news.ycombinator.com/item?id=47347901 Points: 107 # Comments: 34",
       "source": "Hacker News",
       "published": "2026-03-12T08:19:46+00:00",
       "link": "https://quint-lang.org/posts/llm_era"
@@ -626,7 +647,7 @@ const FEED_DATA = {
     },
     {
       "title": "Atlassian to cut roughly 1,600 jobs in pivot to AI",
-      "summary": "Article URL: https://www.reuters.com/technology/atlassian-lay-off-about-1600-people-pivot-ai-2026-03-11/ Comments URL: https://news.ycombinator.com/item?id=47343156 Points: 221 # Comments: 300",
+      "summary": "Article URL: https://www.reuters.com/technology/atlassian-lay-off-about-1600-people-pivot-ai-2026-03-11/ Comments URL: https://news.ycombinator.com/item?id=47343156 Points: 222 # Comments: 301",
       "source": "Hacker News",
       "published": "2026-03-11T22:29:42+00:00",
       "link": "https://www.reuters.com/technology/atlassian-lay-off-about-1600-people-pivot-ai-2026-03-11/"
@@ -654,7 +675,7 @@ const FEED_DATA = {
     },
     {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
-      "summary": "Article URL: https://news.ycombinator.com/newsguidelines.html#generated Comments URL: https://news.ycombinator.com/item?id=47340079 Points: 4176 # Comments: 1647",
+      "summary": "Article URL: https://news.ycombinator.com/newsguidelines.html#generated Comments URL: https://news.ycombinator.com/item?id=47340079 Points: 4181 # Comments: 1651",
       "source": "Hacker News",
       "published": "2026-03-11T19:29:29+00:00",
       "link": "https://news.ycombinator.com/newsguidelines.html#generated"
@@ -1379,27 +1400,6 @@ const FEED_DATA = {
       "source": "Hacker News",
       "published": "2026-03-09T21:19:58+00:00",
       "link": "https://timesofindia.indiatimes.com/technology/tech-news/mark-zuckerberg-is-creating-new-applied-ai-engineering-company-reorganises-key-teams/articleshow/129018841.cms"
-    },
-    {
-      "title": "OpenAI and Google employees rush to Anthropic’s defense in DOD lawsuit",
-      "summary": "More than 30 OpenAI and Google DeepMind employees signed onto a statement supporting Anthropic's lawsuit against the Defense Department after the agency labeled the AI firm a supply-chain risk, according to court filings.",
-      "source": "TechCrunch",
-      "published": "2026-03-09T21:15:17+00:00",
-      "link": "https://techcrunch.com/2026/03/09/openai-and-google-employees-rush-to-anthropics-defense-in-dod-lawsuit/"
-    },
-    {
-      "title": "Anthropic Claims Pentagon Feud Could Cost It Billions",
-      "summary": "Executives at the AI startup say companies paused deal talks after the Trump administration labeled it a supply-chain risk, warning that the fallout could cause a major revenue hit.",
-      "source": "Wired",
-      "published": "2026-03-09T20:49:29+00:00",
-      "link": "https://www.wired.com/story/anthropic-claims-business-is-in-peril-due-to-supply-chain-risk-designation/"
-    },
-    {
-      "title": "Employees across OpenAI and Google support Anthropic’s lawsuit against the Pentagon",
-      "summary": "On Monday, Anthropic filed its lawsuit against the Department of Defense over being designated as a supply chain risk.",
-      "source": "The Verge",
-      "published": "2026-03-09T20:45:24+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/891514/anthropic-pentagon-lawsuit-amicus-brief-openai-google"
     }
   ]
 };
