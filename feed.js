@@ -1,6 +1,34 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-03-14T07:24:24.075562+00:00",
+  "lastUpdated": "2026-03-14T09:58:38.456133+00:00",
   "items": [
+    {
+      "title": "Meta reportedly plans to cut up to 20 percent of its workforce as $600 billion AI bet drives need to offset costs",
+      "summary": "Meta is reportedly planning massive layoffs to finance its expensive AI investments. The article Meta reportedly plans to cut up to 20 percent of its workforce as $600 billion AI bet drives need to offset costs appeared first on The Decoder.",
+      "source": "The Decoder",
+      "published": "2026-03-14T09:55:59+00:00",
+      "link": "https://the-decoder.com/meta-reportedly-plans-to-cut-up-to-20-percent-of-its-workforce-as-600-billion-ai-bet-drives-need-to-offset-costs/"
+    },
+    {
+      "title": "New Top 100 AI list shows a maturing market where ChatGPT leads but users are shopping around",
+      "summary": "Andreessen Horowitz's latest Top 100 ranking of AI consumer products shows a market in flux: ChatGPT still dominates, competitors are growing fast, and global usage is fracturing along geopolitical lines.",
+      "source": "The Decoder",
+      "published": "2026-03-14T09:22:40+00:00",
+      "link": "https://the-decoder.com/new-top-100-ai-list-shows-a-market-where-chatgpt-leads-but-no-one-is-loyal/"
+    },
+    {
+      "title": "Ex-Anthropic researchers launch AI startup Mirendil to tackle scientific research",
+      "summary": "Former Anthropic researchers launched Mirendil, an AI startup focused on scientific research in biology and materials science. The company is reportedly seeking a $1 billion valuation.",
+      "source": "The Decoder",
+      "published": "2026-03-14T08:47:45+00:00",
+      "link": "https://the-decoder.com/ex-anthropic-researchers-launch-ai-startup-mirendil-to-tackle-scientific-research/"
+    },
+    {
+      "title": "Meta planning layoffs as AI costs mount",
+      "summary": "Article URL: https://www.reuters.com/business/world-at-work/meta-planning-sweeping-layoffs-ai-costs-mount-2026-03-14/ Comments URL: https://news.ycombinator.com/item?id=47372249 Points: 56 # Comments: 6",
+      "source": "Hacker News",
+      "published": "2026-03-14T01:13:36+00:00",
+      "link": "https://www.reuters.com/business/world-at-work/meta-planning-sweeping-layoffs-ai-costs-mount-2026-03-14/"
+    },
     {
       "title": "‘Not built right the first time’ — Musk’s xAI is starting over again, again",
       "summary": "The AI lab is revamping its effort to build an AI coding tool, with two new executives joining from Cursor.",
@@ -73,7 +101,7 @@ const FEED_DATA = {
     },
     {
       "title": "John Carmack about open source and anti-AI activists",
-      "summary": "https://xcancel.com/id_aa_carmack/status/2032460578669691171 Comments URL: https://news.ycombinator.com/item?id=47367463 Points: 295 # Comments: 392",
+      "summary": "https://xcancel.com/id_aa_carmack/status/2032460578669691171 Comments URL: https://news.ycombinator.com/item?id=47367463 Points: 315 # Comments: 422",
       "source": "Hacker News",
       "published": "2026-03-13T17:51:34+00:00",
       "link": "https://twitter.com/id_aa_carmack/status/2032460578669691171"
@@ -150,7 +178,7 @@ const FEED_DATA = {
     },
     {
       "title": "Can I run AI locally?",
-      "summary": "Article URL: https://www.canirun.ai/ Comments URL: https://news.ycombinator.com/item?id=47363754 Points: 1157 # Comments: 286",
+      "summary": "Article URL: https://www.canirun.ai/ Comments URL: https://news.ycombinator.com/item?id=47363754 Points: 1215 # Comments: 297",
       "source": "Hacker News",
       "published": "2026-03-13T12:46:10+00:00",
       "link": "https://www.canirun.ai/"
@@ -255,7 +283,7 @@ const FEED_DATA = {
     },
     {
       "title": "Grief and the AI split",
-      "summary": "Article URL: https://blog.lmorchard.com/2026/03/11/grief-and-the-ai-split/ Comments URL: https://news.ycombinator.com/item?id=47358206 Points: 228 # Comments: 363",
+      "summary": "Article URL: https://blog.lmorchard.com/2026/03/11/grief-and-the-ai-split/ Comments URL: https://news.ycombinator.com/item?id=47358206 Points: 230 # Comments: 365",
       "source": "Hacker News",
       "published": "2026-03-12T22:35:08+00:00",
       "link": "https://blog.lmorchard.com/2026/03/11/grief-and-the-ai-split/"
@@ -276,14 +304,14 @@ const FEED_DATA = {
     },
     {
       "title": "Innocent woman jailed after being misidentified using AI facial recognition",
-      "summary": "Article URL: https://www.grandforksherald.com/news/north-dakota/ai-error-jails-innocent-grandmother-for-months-in-north-dakota-fraud-case Comments URL: https://news.ycombinator.com/item?id=47356968 Points: 724 # Comments: 374",
+      "summary": "Article URL: https://www.grandforksherald.com/news/north-dakota/ai-error-jails-innocent-grandmother-for-months-in-north-dakota-fraud-case Comments URL: https://news.ycombinator.com/item?id=47356968 Points: 725 # Comments: 375",
       "source": "Hacker News",
       "published": "2026-03-12T20:55:51+00:00",
       "link": "https://www.grandforksherald.com/news/north-dakota/ai-error-jails-innocent-grandmother-for-months-in-north-dakota-fraud-case"
     },
     {
       "title": "Amazon Employees Say AI Is Just Increasing Workload",
-      "summary": "Article URL: https://gizmodo.com/amazon-employees-say-ai-is-just-increasing-workload-a-new-study-confirms-their-suspicions-2000732794 Comments URL: https://news.ycombinator.com/item?id=47356223 Points: 111 # Comments: 37",
+      "summary": "Article URL: https://gizmodo.com/amazon-employees-say-ai-is-just-increasing-workload-a-new-study-confirms-their-suspicions-2000732794 Comments URL: https://news.ycombinator.com/item?id=47356223 Points: 114 # Comments: 37",
       "source": "Hacker News",
       "published": "2026-03-12T19:57:16+00:00",
       "link": "https://gizmodo.com/amazon-employees-say-ai-is-just-increasing-workload-a-new-study-confirms-their-suspicions-2000732794"
@@ -584,7 +612,7 @@ const FEED_DATA = {
     },
     {
       "title": "Are LLM merge rates not getting better?",
-      "summary": "Related: Many SWE-bench-Passing PRs would not be merged - https://news.ycombinator.com/item?id=47341645 - March 2026 (149 comments) Comments URL: https://news.ycombinator.com/item?id=47349334 Points: 164 # Comments: 155",
+      "summary": "Related: Many SWE-bench-Passing PRs would not be merged - https://news.ycombinator.com/item?id=47341645 - March 2026 (149 comments) Comments URL: https://news.ycombinator.com/item?id=47349334 Points: 165 # Comments: 155",
       "source": "Hacker News",
       "published": "2026-03-12T11:49:05+00:00",
       "link": "https://entropicthoughts.com/no-swe-bench-improvement"
@@ -598,7 +626,7 @@ const FEED_DATA = {
     },
     {
       "title": "Reliable Software in the LLM Era",
-      "summary": "Article URL: https://quint-lang.org/posts/llm_era Comments URL: https://news.ycombinator.com/item?id=47347901 Points: 108 # Comments: 34",
+      "summary": "Article URL: https://quint-lang.org/posts/llm_era Comments URL: https://news.ycombinator.com/item?id=47347901 Points: 108 # Comments: 35",
       "source": "Hacker News",
       "published": "2026-03-12T08:19:46+00:00",
       "link": "https://quint-lang.org/posts/llm_era"
@@ -612,7 +640,7 @@ const FEED_DATA = {
     },
     {
       "title": "How much of HN is AI?",
-      "summary": "Article URL: https://lcamtuf.substack.com/p/how-much-of-hn-is-ai Comments URL: https://news.ycombinator.com/item?id=47344999 Points: 100 # Comments: 56",
+      "summary": "Article URL: https://lcamtuf.substack.com/p/how-much-of-hn-is-ai Comments URL: https://news.ycombinator.com/item?id=47344999 Points: 101 # Comments: 56",
       "source": "Hacker News",
       "published": "2026-03-12T01:15:40+00:00",
       "link": "https://lcamtuf.substack.com/p/how-much-of-hn-is-ai"
@@ -1372,34 +1400,6 @@ const FEED_DATA = {
       "source": "The Verge",
       "published": "2026-03-10T02:30:00Z",
       "link": "https://theverge.com/example"
-    },
-    {
-      "title": "Learnings from paying artists royalties for AI-generated art",
-      "summary": "Article URL: https://www.kapwing.com/blog/learnings-from-paying-artists-royalties-for-ai-generated-art/ Comments URL: https://news.ycombinator.com/item?id=47318421 Points: 166 # Comments: 167",
-      "source": "Hacker News",
-      "published": "2026-03-10T02:24:52+00:00",
-      "link": "https://www.kapwing.com/blog/learnings-from-paying-artists-royalties-for-ai-generated-art/"
-    },
-    {
-      "title": "Nvidia Is Planning to Launch an Open-Source AI Agent Platform",
-      "summary": "Ahead of its annual developer conference, Nvidia is readying a new approach to software that embraces AI agents similar to OpenClaw.",
-      "source": "Wired",
-      "published": "2026-03-09T23:11:34+00:00",
-      "link": "https://www.wired.com/story/nvidia-planning-ai-agent-platform-launch-open-source/"
-    },
-    {
-      "title": "AI-generated code now accounts for 40% of all new code at Fortune 500 companies",
-      "summary": "A new McKinsey report finds that AI coding assistants are writing nearly half of all new production code at large enterprises. Developer roles are shifting toward review and architecture.",
-      "source": "VentureBeat",
-      "published": "2026-03-09T22:00:00Z",
-      "link": "https://venturebeat.com/example"
-    },
-    {
-      "title": "Mark Zuckerberg creating new Applied AI engineering company, reorganises teams",
-      "summary": "Article URL: https://timesofindia.indiatimes.com/technology/tech-news/mark-zuckerberg-is-creating-new-applied-ai-engineering-company-reorganises-key-teams/articleshow/129018841.cms Comments URL: https://news.ycombinator.com/item?id=47315701 Points: 100 # Comments: 60",
-      "source": "Hacker News",
-      "published": "2026-03-09T21:19:58+00:00",
-      "link": "https://timesofindia.indiatimes.com/technology/tech-news/mark-zuckerberg-is-creating-new-applied-ai-engineering-company-reorganises-key-teams/articleshow/129018841.cms"
     }
   ]
 };
