@@ -1,5 +1,5 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-03-14T05:15:09.950033+00:00",
+  "lastUpdated": "2026-03-14T07:24:24.075562+00:00",
   "items": [
     {
       "title": "‘Not built right the first time’ — Musk’s xAI is starting over again, again",
@@ -73,7 +73,7 @@ const FEED_DATA = {
     },
     {
       "title": "John Carmack about open source and anti-AI activists",
-      "summary": "https://xcancel.com/id_aa_carmack/status/2032460578669691171 Comments URL: https://news.ycombinator.com/item?id=47367463 Points: 268 # Comments: 382",
+      "summary": "https://xcancel.com/id_aa_carmack/status/2032460578669691171 Comments URL: https://news.ycombinator.com/item?id=47367463 Points: 295 # Comments: 392",
       "source": "Hacker News",
       "published": "2026-03-13T17:51:34+00:00",
       "link": "https://twitter.com/id_aa_carmack/status/2032460578669691171"
@@ -150,7 +150,7 @@ const FEED_DATA = {
     },
     {
       "title": "Can I run AI locally?",
-      "summary": "Article URL: https://www.canirun.ai/ Comments URL: https://news.ycombinator.com/item?id=47363754 Points: 1069 # Comments: 274",
+      "summary": "Article URL: https://www.canirun.ai/ Comments URL: https://news.ycombinator.com/item?id=47363754 Points: 1157 # Comments: 286",
       "source": "Hacker News",
       "published": "2026-03-13T12:46:10+00:00",
       "link": "https://www.canirun.ai/"
@@ -255,7 +255,7 @@ const FEED_DATA = {
     },
     {
       "title": "Grief and the AI split",
-      "summary": "Article URL: https://blog.lmorchard.com/2026/03/11/grief-and-the-ai-split/ Comments URL: https://news.ycombinator.com/item?id=47358206 Points: 226 # Comments: 362",
+      "summary": "Article URL: https://blog.lmorchard.com/2026/03/11/grief-and-the-ai-split/ Comments URL: https://news.ycombinator.com/item?id=47358206 Points: 228 # Comments: 363",
       "source": "Hacker News",
       "published": "2026-03-12T22:35:08+00:00",
       "link": "https://blog.lmorchard.com/2026/03/11/grief-and-the-ai-split/"
@@ -276,7 +276,7 @@ const FEED_DATA = {
     },
     {
       "title": "Innocent woman jailed after being misidentified using AI facial recognition",
-      "summary": "Article URL: https://www.grandforksherald.com/news/north-dakota/ai-error-jails-innocent-grandmother-for-months-in-north-dakota-fraud-case Comments URL: https://news.ycombinator.com/item?id=47356968 Points: 723 # Comments: 373",
+      "summary": "Article URL: https://www.grandforksherald.com/news/north-dakota/ai-error-jails-innocent-grandmother-for-months-in-north-dakota-fraud-case Comments URL: https://news.ycombinator.com/item?id=47356968 Points: 724 # Comments: 374",
       "source": "Hacker News",
       "published": "2026-03-12T20:55:51+00:00",
       "link": "https://www.grandforksherald.com/news/north-dakota/ai-error-jails-innocent-grandmother-for-months-in-north-dakota-fraud-case"
@@ -584,7 +584,7 @@ const FEED_DATA = {
     },
     {
       "title": "Are LLM merge rates not getting better?",
-      "summary": "Related: Many SWE-bench-Passing PRs would not be merged - https://news.ycombinator.com/item?id=47341645 - March 2026 (149 comments) Comments URL: https://news.ycombinator.com/item?id=47349334 Points: 163 # Comments: 155",
+      "summary": "Related: Many SWE-bench-Passing PRs would not be merged - https://news.ycombinator.com/item?id=47341645 - March 2026 (149 comments) Comments URL: https://news.ycombinator.com/item?id=47349334 Points: 164 # Comments: 155",
       "source": "Hacker News",
       "published": "2026-03-12T11:49:05+00:00",
       "link": "https://entropicthoughts.com/no-swe-bench-improvement"
@@ -598,7 +598,7 @@ const FEED_DATA = {
     },
     {
       "title": "Reliable Software in the LLM Era",
-      "summary": "Article URL: https://quint-lang.org/posts/llm_era Comments URL: https://news.ycombinator.com/item?id=47347901 Points: 107 # Comments: 34",
+      "summary": "Article URL: https://quint-lang.org/posts/llm_era Comments URL: https://news.ycombinator.com/item?id=47347901 Points: 108 # Comments: 34",
       "source": "Hacker News",
       "published": "2026-03-12T08:19:46+00:00",
       "link": "https://quint-lang.org/posts/llm_era"
@@ -675,7 +675,7 @@ const FEED_DATA = {
     },
     {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
-      "summary": "Article URL: https://news.ycombinator.com/newsguidelines.html#generated Comments URL: https://news.ycombinator.com/item?id=47340079 Points: 4181 # Comments: 1651",
+      "summary": "Article URL: https://news.ycombinator.com/newsguidelines.html#generated Comments URL: https://news.ycombinator.com/item?id=47340079 Points: 4185 # Comments: 1651",
       "source": "Hacker News",
       "published": "2026-03-11T19:29:29+00:00",
       "link": "https://news.ycombinator.com/newsguidelines.html#generated"
