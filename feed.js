@@ -1,5 +1,5 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-03-15T05:51:44.642594+00:00",
+  "lastUpdated": "2026-03-15T07:35:42.532291+00:00",
   "items": [
     {
       "title": "Claudetop – htop for Claude Code sessions (see your AI spend in real-time)",
@@ -10,7 +10,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI Gets Wrong Woman Jailed for Six Months, Life Ruined",
-      "summary": "Article URL: https://www.youtube.com/watch?v=mzS7dmCUzcQ Comments URL: https://news.ycombinator.com/item?id=47378917 Points: 72 # Comments: 25",
+      "summary": "Article URL: https://www.youtube.com/watch?v=mzS7dmCUzcQ Comments URL: https://news.ycombinator.com/item?id=47378917 Points: 73 # Comments: 25",
       "source": "Hacker News",
       "published": "2026-03-14T17:24:24+00:00",
       "link": "https://www.youtube.com/watch?v=mzS7dmCUzcQ"
@@ -24,7 +24,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI didn't simplify software engineering: It just made bad engineering easier",
-      "summary": "Article URL: https://robenglander.com/writing/ai-did-not-simplify/ Comments URL: https://news.ycombinator.com/item?id=47377262 Points: 118 # Comments: 101",
+      "summary": "Article URL: https://robenglander.com/writing/ai-did-not-simplify/ Comments URL: https://news.ycombinator.com/item?id=47377262 Points: 120 # Comments: 103",
       "source": "Hacker News",
       "published": "2026-03-14T14:49:15+00:00",
       "link": "https://robenglander.com/writing/ai-did-not-simplify/"
@@ -94,7 +94,7 @@ const FEED_DATA = {
     },
     {
       "title": "Meta planning layoffs as AI costs mount",
-      "summary": "Article URL: https://www.reuters.com/business/world-at-work/meta-planning-sweeping-layoffs-ai-costs-mount-2026-03-14/ Comments URL: https://news.ycombinator.com/item?id=47372249 Points: 94 # Comments: 18",
+      "summary": "Article URL: https://www.reuters.com/business/world-at-work/meta-planning-sweeping-layoffs-ai-costs-mount-2026-03-14/ Comments URL: https://news.ycombinator.com/item?id=47372249 Points: 95 # Comments: 18",
       "source": "Hacker News",
       "published": "2026-03-14T01:13:36+00:00",
       "link": "https://www.reuters.com/business/world-at-work/meta-planning-sweeping-layoffs-ai-costs-mount-2026-03-14/"
@@ -171,7 +171,7 @@ const FEED_DATA = {
     },
     {
       "title": "John Carmack about open source and anti-AI activists",
-      "summary": "https://xcancel.com/id_aa_carmack/status/2032460578669691171 Comments URL: https://news.ycombinator.com/item?id=47367463 Points: 358 # Comments: 472",
+      "summary": "https://xcancel.com/id_aa_carmack/status/2032460578669691171 Comments URL: https://news.ycombinator.com/item?id=47367463 Points: 358 # Comments: 473",
       "source": "Hacker News",
       "published": "2026-03-13T17:51:34+00:00",
       "link": "https://twitter.com/id_aa_carmack/status/2032460578669691171"
@@ -248,7 +248,7 @@ const FEED_DATA = {
     },
     {
       "title": "Can I run AI locally?",
-      "summary": "Article URL: https://www.canirun.ai/ Comments URL: https://news.ycombinator.com/item?id=47363754 Points: 1415 # Comments: 339",
+      "summary": "Article URL: https://www.canirun.ai/ Comments URL: https://news.ycombinator.com/item?id=47363754 Points: 1419 # Comments: 339",
       "source": "Hacker News",
       "published": "2026-03-13T12:46:10+00:00",
       "link": "https://www.canirun.ai/"
@@ -682,7 +682,7 @@ const FEED_DATA = {
     },
     {
       "title": "Are LLM merge rates not getting better?",
-      "summary": "Related: Many SWE-bench-Passing PRs would not be merged - https://news.ycombinator.com/item?id=47341645 - March 2026 (149 comments) Comments URL: https://news.ycombinator.com/item?id=47349334 Points: 169 # Comments: 157",
+      "summary": "Related: Many SWE-bench-Passing PRs would not be merged - https://news.ycombinator.com/item?id=47341645 - March 2026 (149 comments) Comments URL: https://news.ycombinator.com/item?id=47349334 Points: 170 # Comments: 157",
       "source": "Hacker News",
       "published": "2026-03-12T11:49:05+00:00",
       "link": "https://entropicthoughts.com/no-swe-bench-improvement"
