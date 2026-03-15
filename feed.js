@@ -1,6 +1,27 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-03-15T10:00:51.510489+00:00",
+  "lastUpdated": "2026-03-15T14:19:04.054474+00:00",
   "items": [
+    {
+      "title": "AI companies want to harvest improv actors’ skills to train AI on human emotion",
+      "summary": "If you've got strong creative instincts, the ability to authentically portray emotion, and are capable of staying true to a character's voice throughout a scene, there's a job listing calling for your experience.",
+      "source": "The Verge",
+      "published": "2026-03-15T14:00:00+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/893931/ai-companies-handshake-improv-actors-training-data"
+    },
+    {
+      "title": "RL agents go from face-planting to parkour when researchers keep adding network layers",
+      "summary": "While most reinforcement learning algorithms use two to five network layers, a research team achieved 2x to 50x performance gains by scaling network depth up to 1,024 layers in a self-supervised agent and saw entirely new behaviors emerge in the process.",
+      "source": "The Decoder",
+      "published": "2026-03-15T11:17:26+00:00",
+      "link": "https://the-decoder.com/rl-agents-go-from-face-planting-to-parkour-when-researchers-keep-adding-network-layers/"
+    },
+    {
+      "title": "OpenClaw-RL trains AI agents \"simply by talking,\" converting every reply into a training signal",
+      "summary": "AI agents usually throw away valuable feedback from everyday interactions. Princeton's new OpenClaw-RL framework changes that by turning live signals from chats, terminal commands, and GUI actions into continuous training data.",
+      "source": "The Decoder",
+      "published": "2026-03-15T10:04:20+00:00",
+      "link": "https://the-decoder.com/openclaw-rl-trains-ai-agents-simply-by-talking-converting-every-reply-into-a-training-signal/"
+    },
     {
       "title": "Hollywood copyright complaints force Bytedance to shelve global launch of AI video generator Seedance 2.0",
       "summary": "Bytedance planned to launch its AI video model Seedance 2.0 globally in mid-March. That's not happening, because Hollywood's biggest studios have collectively put the brakes on the rollout.",
@@ -14,6 +35,13 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-03-15T09:02:06+00:00",
       "link": "https://the-decoder.com/codewalls-ai-agent-hacked-an-ai-recruiter-then-impersonated-trump-to-test-its-voice-bots-guardrails/"
+    },
+    {
+      "title": "The Appalling Stupidity of Spotify's AI DJ",
+      "summary": "Article URL: https://www.charlespetzold.com/blog/2026/02/The-Appalling-Stupidity-of-Spotifys-AI-DJ.html Comments URL: https://news.ycombinator.com/item?id=47385272 Points: 244 # Comments: 195",
+      "source": "Hacker News",
+      "published": "2026-03-15T08:04:55+00:00",
+      "link": "https://www.charlespetzold.com/blog/2026/02/The-Appalling-Stupidity-of-Spotifys-AI-DJ.html"
     },
     {
       "title": "Claudetop – htop for Claude Code sessions (see your AI spend in real-time)",
@@ -38,7 +66,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI didn't simplify software engineering: It just made bad engineering easier",
-      "summary": "Article URL: https://robenglander.com/writing/ai-did-not-simplify/ Comments URL: https://news.ycombinator.com/item?id=47377262 Points: 124 # Comments: 104",
+      "summary": "Article URL: https://robenglander.com/writing/ai-did-not-simplify/ Comments URL: https://news.ycombinator.com/item?id=47377262 Points: 125 # Comments: 106",
       "source": "Hacker News",
       "published": "2026-03-14T14:49:15+00:00",
       "link": "https://robenglander.com/writing/ai-did-not-simplify/"
@@ -108,7 +136,7 @@ const FEED_DATA = {
     },
     {
       "title": "Meta planning layoffs as AI costs mount",
-      "summary": "Article URL: https://www.reuters.com/business/world-at-work/meta-planning-sweeping-layoffs-ai-costs-mount-2026-03-14/ Comments URL: https://news.ycombinator.com/item?id=47372249 Points: 96 # Comments: 18",
+      "summary": "Article URL: https://www.reuters.com/business/world-at-work/meta-planning-sweeping-layoffs-ai-costs-mount-2026-03-14/ Comments URL: https://news.ycombinator.com/item?id=47372249 Points: 96 # Comments: 19",
       "source": "Hacker News",
       "published": "2026-03-14T01:13:36+00:00",
       "link": "https://www.reuters.com/business/world-at-work/meta-planning-sweeping-layoffs-ai-costs-mount-2026-03-14/"
@@ -185,7 +213,7 @@ const FEED_DATA = {
     },
     {
       "title": "John Carmack about open source and anti-AI activists",
-      "summary": "https://xcancel.com/id_aa_carmack/status/2032460578669691171 Comments URL: https://news.ycombinator.com/item?id=47367463 Points: 358 # Comments: 474",
+      "summary": "https://xcancel.com/id_aa_carmack/status/2032460578669691171 Comments URL: https://news.ycombinator.com/item?id=47367463 Points: 361 # Comments: 475",
       "source": "Hacker News",
       "published": "2026-03-13T17:51:34+00:00",
       "link": "https://twitter.com/id_aa_carmack/status/2032460578669691171"
@@ -262,7 +290,7 @@ const FEED_DATA = {
     },
     {
       "title": "Can I run AI locally?",
-      "summary": "Article URL: https://www.canirun.ai/ Comments URL: https://news.ycombinator.com/item?id=47363754 Points: 1425 # Comments: 343",
+      "summary": "Article URL: https://www.canirun.ai/ Comments URL: https://news.ycombinator.com/item?id=47363754 Points: 1438 # Comments: 343",
       "source": "Hacker News",
       "published": "2026-03-13T12:46:10+00:00",
       "link": "https://www.canirun.ai/"
@@ -367,7 +395,7 @@ const FEED_DATA = {
     },
     {
       "title": "Grief and the AI split",
-      "summary": "Article URL: https://blog.lmorchard.com/2026/03/11/grief-and-the-ai-split/ Comments URL: https://news.ycombinator.com/item?id=47358206 Points: 236 # Comments: 373",
+      "summary": "Article URL: https://blog.lmorchard.com/2026/03/11/grief-and-the-ai-split/ Comments URL: https://news.ycombinator.com/item?id=47358206 Points: 237 # Comments: 373",
       "source": "Hacker News",
       "published": "2026-03-12T22:35:08+00:00",
       "link": "https://blog.lmorchard.com/2026/03/11/grief-and-the-ai-split/"
@@ -388,7 +416,7 @@ const FEED_DATA = {
     },
     {
       "title": "Innocent woman jailed after being misidentified using AI facial recognition",
-      "summary": "Article URL: https://www.grandforksherald.com/news/north-dakota/ai-error-jails-innocent-grandmother-for-months-in-north-dakota-fraud-case Comments URL: https://news.ycombinator.com/item?id=47356968 Points: 746 # Comments: 384",
+      "summary": "Article URL: https://www.grandforksherald.com/news/north-dakota/ai-error-jails-innocent-grandmother-for-months-in-north-dakota-fraud-case Comments URL: https://news.ycombinator.com/item?id=47356968 Points: 749 # Comments: 384",
       "source": "Hacker News",
       "published": "2026-03-12T20:55:51+00:00",
       "link": "https://www.grandforksherald.com/news/north-dakota/ai-error-jails-innocent-grandmother-for-months-in-north-dakota-fraud-case"
@@ -1372,34 +1400,6 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-03-10T12:03:41+00:00",
       "link": "https://the-decoder.com/philosopher-david-chalmers-current-ai-interpretability-methods-miss-what-matters-most/"
-    },
-    {
-      "title": "PgAdmin 4 9.13 with AI Assistant Panel",
-      "summary": "Article URL: https://www.pgadmin.org/docs/pgadmin4/9.13/query_tool.html#ai-assistant-panel Comments URL: https://news.ycombinator.com/item?id=47322033 Points: 95 # Comments: 37",
-      "source": "Hacker News",
-      "published": "2026-03-10T11:58:36+00:00",
-      "link": "https://www.pgadmin.org/docs/pgadmin4/9.13/query_tool.html#ai-assistant-panel"
-    },
-    {
-      "title": "Yann LeCun's AI startup raises $1B in Europe's largest ever seed round",
-      "summary": "https://archive.md/5eZWq Comments URL: https://news.ycombinator.com/item?id=47321533 Points: 418 # Comments: 2",
-      "source": "Hacker News",
-      "published": "2026-03-10T10:50:30+00:00",
-      "link": "https://www.ft.com/content/e5245ec3-1a58-4eff-ab58-480b6259aaf1"
-    },
-    {
-      "title": "Investors bet $1 billion on Yann LeCun's vision for AI beyond LLMs",
-      "summary": "Yann LeCun, former chief AI scientist at Meta and Turing Award winner, has raised over $1 billion for his new startup Advanced Machine Intelligence Labs (AMI Labs) - making it Europe's largest seed funding round ever.",
-      "source": "The Decoder",
-      "published": "2026-03-10T10:47:48+00:00",
-      "link": "https://the-decoder.com/investors-bet-1-billion-on-yann-lecuns-vision-for-ai-beyond-llms/"
-    },
-    {
-      "title": "Claude Code gets parallel AI agents that review code for bugs and security gaps",
-      "summary": "Anthropic has released a code review feature for Claude Code that automatically checks changes for errors before they're merged. The article Claude Code gets parallel AI agents that review code for bugs and security gaps appeared first on The Decoder.",
-      "source": "The Decoder",
-      "published": "2026-03-10T09:12:18+00:00",
-      "link": "https://the-decoder.com/claude-code-gets-parallel-ai-agents-that-review-code-for-bugs-and-security-gaps/"
     }
   ]
 };
