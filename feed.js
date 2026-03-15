@@ -1,12 +1,33 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-03-15T17:57:25.415710+00:00",
+  "lastUpdated": "2026-03-15T21:53:48.255762+00:00",
   "items": [
+    {
+      "title": "Lawyer behind AI psychosis cases warns of mass casualty risks",
+      "summary": "AI chatbots have been linked to suicides for years. Now one lawyer says they are showing up in mass casualty cases too, and the technology is moving faster than the safeguards.",
+      "source": "TechCrunch",
+      "published": "2026-03-15T18:49:32+00:00",
+      "link": "https://techcrunch.com/2026/03/15/lawyer-behind-ai-psychosis-cases-warns-of-mass-casualty-risks/"
+    },
     {
       "title": "AI consultant uses ChatGPT, AlphaFold, and Grok to find a possible treatment for his dog's cancer",
       "summary": "An Australian AI consultant used ChatGPT, AlphaFold, and Grok to find a possible treatment for his dog Rosie's incurable cancer.",
       "source": "The Decoder",
       "published": "2026-03-15T16:29:53+00:00",
       "link": "https://the-decoder.com/ai-consultant-uses-chatgpt-alphafold-and-grok-to-find-a-possible-treatment-for-his-dogs-cancer/"
+    },
+    {
+      "title": "LLM Architecture Gallery",
+      "summary": "Article URL: https://sebastianraschka.com/llm-architecture-gallery/ Comments URL: https://news.ycombinator.com/item?id=47388676 Points: 113 # Comments: 6",
+      "source": "Hacker News",
+      "published": "2026-03-15T16:01:09+00:00",
+      "link": "https://sebastianraschka.com/llm-architecture-gallery/"
+    },
+    {
+      "title": "Ask HN: How is AI-assisted coding going for you professionally?",
+      "summary": "Comment sections on AI threads tend to split into \"we're all cooked\" and \"AI is useless.\" I'd like to cut through the noise and learn what's actually working and what isn't, from concrete experience.If you've recently used AI tools for professional coding work, tell us about...",
+      "source": "Hacker News",
+      "published": "2026-03-15T15:58:23+00:00",
+      "link": "https://news.ycombinator.com/item?id=47388646"
     },
     {
       "title": "AI companies want to harvest improv actors’ skills to train AI on human emotion",
@@ -45,21 +66,21 @@ const FEED_DATA = {
     },
     {
       "title": "The Appalling Stupidity of Spotify's AI DJ",
-      "summary": "Article URL: https://www.charlespetzold.com/blog/2026/02/The-Appalling-Stupidity-of-Spotifys-AI-DJ.html Comments URL: https://news.ycombinator.com/item?id=47385272 Points: 336 # Comments: 269",
+      "summary": "Article URL: https://www.charlespetzold.com/blog/2026/02/The-Appalling-Stupidity-of-Spotifys-AI-DJ.html Comments URL: https://news.ycombinator.com/item?id=47385272 Points: 343 # Comments: 284",
       "source": "Hacker News",
       "published": "2026-03-15T08:04:55+00:00",
       "link": "https://www.charlespetzold.com/blog/2026/02/The-Appalling-Stupidity-of-Spotifys-AI-DJ.html"
     },
     {
       "title": "Claudetop – htop for Claude Code sessions (see your AI spend in real-time)",
-      "summary": "Article URL: https://github.com/liorwn/claudetop Comments URL: https://news.ycombinator.com/item?id=47380203 Points: 51 # Comments: 26",
+      "summary": "Article URL: https://github.com/liorwn/claudetop Comments URL: https://news.ycombinator.com/item?id=47380203 Points: 51 # Comments: 27",
       "source": "Hacker News",
       "published": "2026-03-14T19:26:24+00:00",
       "link": "https://github.com/liorwn/claudetop"
     },
     {
       "title": "AI Gets Wrong Woman Jailed for Six Months, Life Ruined",
-      "summary": "Article URL: https://www.youtube.com/watch?v=mzS7dmCUzcQ Comments URL: https://news.ycombinator.com/item?id=47378917 Points: 73 # Comments: 26",
+      "summary": "Article URL: https://www.youtube.com/watch?v=mzS7dmCUzcQ Comments URL: https://news.ycombinator.com/item?id=47378917 Points: 75 # Comments: 26",
       "source": "Hacker News",
       "published": "2026-03-14T17:24:24+00:00",
       "link": "https://www.youtube.com/watch?v=mzS7dmCUzcQ"
@@ -73,7 +94,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI didn't simplify software engineering: It just made bad engineering easier",
-      "summary": "Article URL: https://robenglander.com/writing/ai-did-not-simplify/ Comments URL: https://news.ycombinator.com/item?id=47377262 Points: 127 # Comments: 106",
+      "summary": "Article URL: https://robenglander.com/writing/ai-did-not-simplify/ Comments URL: https://news.ycombinator.com/item?id=47377262 Points: 127 # Comments: 107",
       "source": "Hacker News",
       "published": "2026-03-14T14:49:15+00:00",
       "link": "https://robenglander.com/writing/ai-did-not-simplify/"
@@ -143,7 +164,7 @@ const FEED_DATA = {
     },
     {
       "title": "Meta planning layoffs as AI costs mount",
-      "summary": "Article URL: https://www.reuters.com/business/world-at-work/meta-planning-sweeping-layoffs-ai-costs-mount-2026-03-14/ Comments URL: https://news.ycombinator.com/item?id=47372249 Points: 97 # Comments: 22",
+      "summary": "Article URL: https://www.reuters.com/business/world-at-work/meta-planning-sweeping-layoffs-ai-costs-mount-2026-03-14/ Comments URL: https://news.ycombinator.com/item?id=47372249 Points: 98 # Comments: 22",
       "source": "Hacker News",
       "published": "2026-03-14T01:13:36+00:00",
       "link": "https://www.reuters.com/business/world-at-work/meta-planning-sweeping-layoffs-ai-costs-mount-2026-03-14/"
@@ -154,13 +175,6 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-03-14T00:12:22+00:00",
       "link": "https://techcrunch.com/2026/03/13/not-built-right-the-first-time-musks-xai-is-starting-over-again-again/"
-    },
-    {
-      "title": "Lawyer behind AI psychosis cases warns of mass casualty risks",
-      "summary": "AI chatbots have been linked to suicides for years. Now one lawyer says they are showing up in mass casualty cases too, and the technology is moving faster than the safeguards.",
-      "source": "TechCrunch",
-      "published": "2026-03-14T00:01:02+00:00",
-      "link": "https://techcrunch.com/2026/03/13/lawyer-behind-ai-psychosis-cases-warns-of-mass-casualty-risks/"
     },
     {
       "title": "Nyne, founded by a father-son duo, gives AI agents the human context they’re missing",
@@ -220,7 +234,7 @@ const FEED_DATA = {
     },
     {
       "title": "John Carmack about open source and anti-AI activists",
-      "summary": "https://xcancel.com/id_aa_carmack/status/2032460578669691171 Comments URL: https://news.ycombinator.com/item?id=47367463 Points: 365 # Comments: 477",
+      "summary": "https://xcancel.com/id_aa_carmack/status/2032460578669691171 Comments URL: https://news.ycombinator.com/item?id=47367463 Points: 366 # Comments: 479",
       "source": "Hacker News",
       "published": "2026-03-13T17:51:34+00:00",
       "link": "https://twitter.com/id_aa_carmack/status/2032460578669691171"
@@ -297,7 +311,7 @@ const FEED_DATA = {
     },
     {
       "title": "Can I run AI locally?",
-      "summary": "Article URL: https://www.canirun.ai/ Comments URL: https://news.ycombinator.com/item?id=47363754 Points: 1450 # Comments: 345",
+      "summary": "Article URL: https://www.canirun.ai/ Comments URL: https://news.ycombinator.com/item?id=47363754 Points: 1456 # Comments: 345",
       "source": "Hacker News",
       "published": "2026-03-13T12:46:10+00:00",
       "link": "https://www.canirun.ai/"
@@ -423,7 +437,7 @@ const FEED_DATA = {
     },
     {
       "title": "Innocent woman jailed after being misidentified using AI facial recognition",
-      "summary": "Article URL: https://www.grandforksherald.com/news/north-dakota/ai-error-jails-innocent-grandmother-for-months-in-north-dakota-fraud-case Comments URL: https://news.ycombinator.com/item?id=47356968 Points: 750 # Comments: 383",
+      "summary": "Article URL: https://www.grandforksherald.com/news/north-dakota/ai-error-jails-innocent-grandmother-for-months-in-north-dakota-fraud-case Comments URL: https://news.ycombinator.com/item?id=47356968 Points: 751 # Comments: 385",
       "source": "Hacker News",
       "published": "2026-03-12T20:55:51+00:00",
       "link": "https://www.grandforksherald.com/news/north-dakota/ai-error-jails-innocent-grandmother-for-months-in-north-dakota-fraud-case"
@@ -1386,20 +1400,6 @@ const FEED_DATA = {
       "source": "AI News",
       "published": "2026-03-10T12:55:37+00:00",
       "link": "https://www.artificialintelligence-news.com/news/agentic-ai-in-finance-speeds-up-operational-automation/"
-    },
-    {
-      "title": "The Download: AI’s role in the Iran war, and an escalating legal fight",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.",
-      "source": "MIT Tech Review",
-      "published": "2026-03-10T12:55:32+00:00",
-      "link": "https://www.technologyreview.com/2026/03/10/1134077/the-download-ai-iran-war-theater-anthropic-sues-us/"
-    },
-    {
-      "title": "Sandbar secures $23M Series A for its AI note-taking ring",
-      "summary": "Sandbar aims to ship the Stream, which can be used to take notes, chat with an AI assistant, and for media playback, this summer.",
-      "source": "TechCrunch",
-      "published": "2026-03-10T12:40:37+00:00",
-      "link": "https://techcrunch.com/2026/03/10/sandbar-secures-23m-series-a-for-its-ai-note-taking-ring/"
     }
   ]
 };
