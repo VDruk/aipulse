@@ -1,6 +1,13 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-03-15T14:19:04.054474+00:00",
+  "lastUpdated": "2026-03-15T17:57:25.415710+00:00",
   "items": [
+    {
+      "title": "AI consultant uses ChatGPT, AlphaFold, and Grok to find a possible treatment for his dog's cancer",
+      "summary": "An Australian AI consultant used ChatGPT, AlphaFold, and Grok to find a possible treatment for his dog Rosie's incurable cancer.",
+      "source": "The Decoder",
+      "published": "2026-03-15T16:29:53+00:00",
+      "link": "https://the-decoder.com/ai-consultant-uses-chatgpt-alphafold-and-grok-to-find-a-possible-treatment-for-his-dogs-cancer/"
+    },
     {
       "title": "AI companies want to harvest improv actors’ skills to train AI on human emotion",
       "summary": "If you've got strong creative instincts, the ability to authentically portray emotion, and are capable of staying true to a character's voice throughout a scene, there's a job listing calling for your experience.",
@@ -38,7 +45,7 @@ const FEED_DATA = {
     },
     {
       "title": "The Appalling Stupidity of Spotify's AI DJ",
-      "summary": "Article URL: https://www.charlespetzold.com/blog/2026/02/The-Appalling-Stupidity-of-Spotifys-AI-DJ.html Comments URL: https://news.ycombinator.com/item?id=47385272 Points: 244 # Comments: 195",
+      "summary": "Article URL: https://www.charlespetzold.com/blog/2026/02/The-Appalling-Stupidity-of-Spotifys-AI-DJ.html Comments URL: https://news.ycombinator.com/item?id=47385272 Points: 336 # Comments: 269",
       "source": "Hacker News",
       "published": "2026-03-15T08:04:55+00:00",
       "link": "https://www.charlespetzold.com/blog/2026/02/The-Appalling-Stupidity-of-Spotifys-AI-DJ.html"
@@ -66,7 +73,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI didn't simplify software engineering: It just made bad engineering easier",
-      "summary": "Article URL: https://robenglander.com/writing/ai-did-not-simplify/ Comments URL: https://news.ycombinator.com/item?id=47377262 Points: 125 # Comments: 106",
+      "summary": "Article URL: https://robenglander.com/writing/ai-did-not-simplify/ Comments URL: https://news.ycombinator.com/item?id=47377262 Points: 127 # Comments: 106",
       "source": "Hacker News",
       "published": "2026-03-14T14:49:15+00:00",
       "link": "https://robenglander.com/writing/ai-did-not-simplify/"
@@ -136,7 +143,7 @@ const FEED_DATA = {
     },
     {
       "title": "Meta planning layoffs as AI costs mount",
-      "summary": "Article URL: https://www.reuters.com/business/world-at-work/meta-planning-sweeping-layoffs-ai-costs-mount-2026-03-14/ Comments URL: https://news.ycombinator.com/item?id=47372249 Points: 96 # Comments: 19",
+      "summary": "Article URL: https://www.reuters.com/business/world-at-work/meta-planning-sweeping-layoffs-ai-costs-mount-2026-03-14/ Comments URL: https://news.ycombinator.com/item?id=47372249 Points: 97 # Comments: 22",
       "source": "Hacker News",
       "published": "2026-03-14T01:13:36+00:00",
       "link": "https://www.reuters.com/business/world-at-work/meta-planning-sweeping-layoffs-ai-costs-mount-2026-03-14/"
@@ -213,7 +220,7 @@ const FEED_DATA = {
     },
     {
       "title": "John Carmack about open source and anti-AI activists",
-      "summary": "https://xcancel.com/id_aa_carmack/status/2032460578669691171 Comments URL: https://news.ycombinator.com/item?id=47367463 Points: 361 # Comments: 475",
+      "summary": "https://xcancel.com/id_aa_carmack/status/2032460578669691171 Comments URL: https://news.ycombinator.com/item?id=47367463 Points: 365 # Comments: 477",
       "source": "Hacker News",
       "published": "2026-03-13T17:51:34+00:00",
       "link": "https://twitter.com/id_aa_carmack/status/2032460578669691171"
@@ -290,7 +297,7 @@ const FEED_DATA = {
     },
     {
       "title": "Can I run AI locally?",
-      "summary": "Article URL: https://www.canirun.ai/ Comments URL: https://news.ycombinator.com/item?id=47363754 Points: 1438 # Comments: 343",
+      "summary": "Article URL: https://www.canirun.ai/ Comments URL: https://news.ycombinator.com/item?id=47363754 Points: 1450 # Comments: 345",
       "source": "Hacker News",
       "published": "2026-03-13T12:46:10+00:00",
       "link": "https://www.canirun.ai/"
@@ -381,7 +388,7 @@ const FEED_DATA = {
     },
     {
       "title": "Tennessee grandmother jailed after AI face recognition error links her to fraud",
-      "summary": "Article URL: https://www.theguardian.com/us-news/2026/mar/12/tennessee-grandmother-ai-fraud Comments URL: https://news.ycombinator.com/item?id=47359136 Points: 103 # Comments: 28",
+      "summary": "Article URL: https://www.theguardian.com/us-news/2026/mar/12/tennessee-grandmother-ai-fraud Comments URL: https://news.ycombinator.com/item?id=47359136 Points: 104 # Comments: 28",
       "source": "Hacker News",
       "published": "2026-03-13T00:17:34+00:00",
       "link": "https://www.theguardian.com/us-news/2026/mar/12/tennessee-grandmother-ai-fraud"
@@ -395,7 +402,7 @@ const FEED_DATA = {
     },
     {
       "title": "Grief and the AI split",
-      "summary": "Article URL: https://blog.lmorchard.com/2026/03/11/grief-and-the-ai-split/ Comments URL: https://news.ycombinator.com/item?id=47358206 Points: 237 # Comments: 373",
+      "summary": "Article URL: https://blog.lmorchard.com/2026/03/11/grief-and-the-ai-split/ Comments URL: https://news.ycombinator.com/item?id=47358206 Points: 241 # Comments: 374",
       "source": "Hacker News",
       "published": "2026-03-12T22:35:08+00:00",
       "link": "https://blog.lmorchard.com/2026/03/11/grief-and-the-ai-split/"
@@ -416,7 +423,7 @@ const FEED_DATA = {
     },
     {
       "title": "Innocent woman jailed after being misidentified using AI facial recognition",
-      "summary": "Article URL: https://www.grandforksherald.com/news/north-dakota/ai-error-jails-innocent-grandmother-for-months-in-north-dakota-fraud-case Comments URL: https://news.ycombinator.com/item?id=47356968 Points: 749 # Comments: 384",
+      "summary": "Article URL: https://www.grandforksherald.com/news/north-dakota/ai-error-jails-innocent-grandmother-for-months-in-north-dakota-fraud-case Comments URL: https://news.ycombinator.com/item?id=47356968 Points: 750 # Comments: 383",
       "source": "Hacker News",
       "published": "2026-03-12T20:55:51+00:00",
       "link": "https://www.grandforksherald.com/news/north-dakota/ai-error-jails-innocent-grandmother-for-months-in-north-dakota-fraud-case"
@@ -1393,13 +1400,6 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-03-10T12:40:37+00:00",
       "link": "https://techcrunch.com/2026/03/10/sandbar-secures-23m-series-a-for-its-ai-note-taking-ring/"
-    },
-    {
-      "title": "Philosopher David Chalmers: Current AI interpretability methods miss what matters most",
-      "summary": "Philosopher David J. Chalmers proposes interpreting AI systems through their attitudes toward propositions - much like we interpret humans.",
-      "source": "The Decoder",
-      "published": "2026-03-10T12:03:41+00:00",
-      "link": "https://the-decoder.com/philosopher-david-chalmers-current-ai-interpretability-methods-miss-what-matters-most/"
     }
   ]
 };
