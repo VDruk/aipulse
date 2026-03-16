@@ -1,6 +1,20 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-03-15T21:53:48.255762+00:00",
+  "lastUpdated": "2026-03-16T06:11:01.327107+00:00",
   "items": [
+    {
+      "title": "AI tools are making me lose interest in CS fundamentals",
+      "summary": "With powerful AI coding assistants, I sometimes feel less motivated to study deep computer science topics like distributed systems and algorithms.",
+      "source": "Hacker News",
+      "published": "2026-03-16T02:02:12+00:00",
+      "link": "https://news.ycombinator.com/item?id=47394291"
+    },
+    {
+      "title": "Google, Accel India accelerator chooses 5 startups and none are ‘AI wrappers’",
+      "summary": "Google and Accel say about 70% of AI startup pitches tied to India were \"wrappers\" as they reviewed more than 4,000 applications for their Atoms cohort.",
+      "source": "TechCrunch",
+      "published": "2026-03-16T00:30:00+00:00",
+      "link": "https://techcrunch.com/2026/03/15/google-and-accel-cut-through-wrappers-in-4000-ai-startup-pitches-to-pick-five-tied-to-india/"
+    },
     {
       "title": "Lawyer behind AI psychosis cases warns of mass casualty risks",
       "summary": "AI chatbots have been linked to suicides for years. Now one lawyer says they are showing up in mass casualty cases too, and the technology is moving faster than the safeguards.",
@@ -17,7 +31,7 @@ const FEED_DATA = {
     },
     {
       "title": "LLM Architecture Gallery",
-      "summary": "Article URL: https://sebastianraschka.com/llm-architecture-gallery/ Comments URL: https://news.ycombinator.com/item?id=47388676 Points: 113 # Comments: 6",
+      "summary": "Article URL: https://sebastianraschka.com/llm-architecture-gallery/ Comments URL: https://news.ycombinator.com/item?id=47388676 Points: 337 # Comments: 27",
       "source": "Hacker News",
       "published": "2026-03-15T16:01:09+00:00",
       "link": "https://sebastianraschka.com/llm-architecture-gallery/"
@@ -66,14 +80,14 @@ const FEED_DATA = {
     },
     {
       "title": "The Appalling Stupidity of Spotify's AI DJ",
-      "summary": "Article URL: https://www.charlespetzold.com/blog/2026/02/The-Appalling-Stupidity-of-Spotifys-AI-DJ.html Comments URL: https://news.ycombinator.com/item?id=47385272 Points: 343 # Comments: 284",
+      "summary": "Article URL: https://www.charlespetzold.com/blog/2026/02/The-Appalling-Stupidity-of-Spotifys-AI-DJ.html Comments URL: https://news.ycombinator.com/item?id=47385272 Points: 356 # Comments: 290",
       "source": "Hacker News",
       "published": "2026-03-15T08:04:55+00:00",
       "link": "https://www.charlespetzold.com/blog/2026/02/The-Appalling-Stupidity-of-Spotifys-AI-DJ.html"
     },
     {
       "title": "Claudetop – htop for Claude Code sessions (see your AI spend in real-time)",
-      "summary": "Article URL: https://github.com/liorwn/claudetop Comments URL: https://news.ycombinator.com/item?id=47380203 Points: 51 # Comments: 27",
+      "summary": "Article URL: https://github.com/liorwn/claudetop Comments URL: https://news.ycombinator.com/item?id=47380203 Points: 51 # Comments: 28",
       "source": "Hacker News",
       "published": "2026-03-14T19:26:24+00:00",
       "link": "https://github.com/liorwn/claudetop"
@@ -94,7 +108,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI didn't simplify software engineering: It just made bad engineering easier",
-      "summary": "Article URL: https://robenglander.com/writing/ai-did-not-simplify/ Comments URL: https://news.ycombinator.com/item?id=47377262 Points: 127 # Comments: 107",
+      "summary": "Article URL: https://robenglander.com/writing/ai-did-not-simplify/ Comments URL: https://news.ycombinator.com/item?id=47377262 Points: 128 # Comments: 111",
       "source": "Hacker News",
       "published": "2026-03-14T14:49:15+00:00",
       "link": "https://robenglander.com/writing/ai-did-not-simplify/"
@@ -164,7 +178,7 @@ const FEED_DATA = {
     },
     {
       "title": "Meta planning layoffs as AI costs mount",
-      "summary": "Article URL: https://www.reuters.com/business/world-at-work/meta-planning-sweeping-layoffs-ai-costs-mount-2026-03-14/ Comments URL: https://news.ycombinator.com/item?id=47372249 Points: 98 # Comments: 22",
+      "summary": "Article URL: https://www.reuters.com/business/world-at-work/meta-planning-sweeping-layoffs-ai-costs-mount-2026-03-14/ Comments URL: https://news.ycombinator.com/item?id=47372249 Points: 99 # Comments: 22",
       "source": "Hacker News",
       "published": "2026-03-14T01:13:36+00:00",
       "link": "https://www.reuters.com/business/world-at-work/meta-planning-sweeping-layoffs-ai-costs-mount-2026-03-14/"
@@ -234,7 +248,7 @@ const FEED_DATA = {
     },
     {
       "title": "John Carmack about open source and anti-AI activists",
-      "summary": "https://xcancel.com/id_aa_carmack/status/2032460578669691171 Comments URL: https://news.ycombinator.com/item?id=47367463 Points: 366 # Comments: 479",
+      "summary": "https://xcancel.com/id_aa_carmack/status/2032460578669691171 Comments URL: https://news.ycombinator.com/item?id=47367463 Points: 368 # Comments: 481",
       "source": "Hacker News",
       "published": "2026-03-13T17:51:34+00:00",
       "link": "https://twitter.com/id_aa_carmack/status/2032460578669691171"
@@ -311,7 +325,7 @@ const FEED_DATA = {
     },
     {
       "title": "Can I run AI locally?",
-      "summary": "Article URL: https://www.canirun.ai/ Comments URL: https://news.ycombinator.com/item?id=47363754 Points: 1456 # Comments: 345",
+      "summary": "Article URL: https://www.canirun.ai/ Comments URL: https://news.ycombinator.com/item?id=47363754 Points: 1466 # Comments: 345",
       "source": "Hacker News",
       "published": "2026-03-13T12:46:10+00:00",
       "link": "https://www.canirun.ai/"
@@ -416,7 +430,7 @@ const FEED_DATA = {
     },
     {
       "title": "Grief and the AI split",
-      "summary": "Article URL: https://blog.lmorchard.com/2026/03/11/grief-and-the-ai-split/ Comments URL: https://news.ycombinator.com/item?id=47358206 Points: 241 # Comments: 374",
+      "summary": "Article URL: https://blog.lmorchard.com/2026/03/11/grief-and-the-ai-split/ Comments URL: https://news.ycombinator.com/item?id=47358206 Points: 241 # Comments: 376",
       "source": "Hacker News",
       "published": "2026-03-12T22:35:08+00:00",
       "link": "https://blog.lmorchard.com/2026/03/11/grief-and-the-ai-split/"
@@ -437,7 +451,7 @@ const FEED_DATA = {
     },
     {
       "title": "Innocent woman jailed after being misidentified using AI facial recognition",
-      "summary": "Article URL: https://www.grandforksherald.com/news/north-dakota/ai-error-jails-innocent-grandmother-for-months-in-north-dakota-fraud-case Comments URL: https://news.ycombinator.com/item?id=47356968 Points: 751 # Comments: 385",
+      "summary": "Article URL: https://www.grandforksherald.com/news/north-dakota/ai-error-jails-innocent-grandmother-for-months-in-north-dakota-fraud-case Comments URL: https://news.ycombinator.com/item?id=47356968 Points: 752 # Comments: 385",
       "source": "Hacker News",
       "published": "2026-03-12T20:55:51+00:00",
       "link": "https://www.grandforksherald.com/news/north-dakota/ai-error-jails-innocent-grandmother-for-months-in-north-dakota-fraud-case"
@@ -1386,20 +1400,6 @@ const FEED_DATA = {
       "source": "The Verge",
       "published": "2026-03-10T13:00:00+00:00",
       "link": "https://www.theverge.com/tech/890996/google-workspace-gemini-ai-docs-sheets-drive"
-    },
-    {
-      "title": "You can now ask Photoshop’s AI assistant to edit images for you",
-      "summary": "Adobe announced more agentic AI features for its Creative Cloud apps this week, allowing users to edit images and documents by describing the changes to a chatbot.",
-      "source": "The Verge",
-      "published": "2026-03-10T13:00:00+00:00",
-      "link": "https://www.theverge.com/tech/891998/adobe-photoshop-web-mobile-ai-assistant-beta-launch"
-    },
-    {
-      "title": "Agentic AI in finance speeds up operational automation",
-      "summary": "In finance, achieving operational automation by integrating agentic AI requires a data-centric foundation to drive real value. Financial infrastructure provider SEI has engaged IBM to modernise its internal operations via AI and automation.",
-      "source": "AI News",
-      "published": "2026-03-10T12:55:37+00:00",
-      "link": "https://www.artificialintelligence-news.com/news/agentic-ai-in-finance-speeds-up-operational-automation/"
     }
   ]
 };
