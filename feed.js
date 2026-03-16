@@ -1,6 +1,83 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-03-16T11:36:07.707563+00:00",
+  "lastUpdated": "2026-03-16T16:42:20.915397+00:00",
   "items": [
+    {
+      "title": "GPT-4.5 fooled 73 percent of people into thinking it was human by pretending to be dumber",
+      "summary": "GPT-4.5 only passed the Turing test after researchers told it to make typos, skip punctuation, and botch basic math. It worked: 73 percent of participants thought it was human.",
+      "source": "The Decoder",
+      "published": "2026-03-16T16:22:14+00:00",
+      "link": "https://the-decoder.com/gpt-4-5-fooled-73-percent-of-people-into-thinking-it-was-human-by-pretending-to-be-dumber/"
+    },
+    {
+      "title": "US Treasury publishes AI risk Guidebook for financial institutions",
+      "summary": "The US Treasury has published several documents designed for the US financial services sector that suggest a structured approach to managing AI risks in operations and policy (see subheading ‘Resources and Downloads’ towards the bottom of the link).",
+      "source": "AI News",
+      "published": "2026-03-16T16:15:00+00:00",
+      "link": "https://www.artificialintelligence-news.com/news/us-treasury-publishes-ai-risk-governance-guidebook-for-financial-institutions/"
+    },
+    {
+      "title": "Yahoo CEO Jim Lanzone on reviving the web’s homepage",
+      "summary": "Today, I’m talking with Jim Lanzone, who is the CEO of Yahoo. It’s basically impossible to sum up the Yahoo story, but the short version of it is that a long time ago Yahoo paid Google to run the search box on its website, and basically everything has gone sideways since.",
+      "source": "The Verge",
+      "published": "2026-03-16T15:00:00+00:00",
+      "link": "https://www.theverge.com/podcast/895221/yahoo-jim-lanzone-scout-ai-sports-finance-open-web"
+    },
+    {
+      "title": "How to watch Jensen Huang’s Nvidia GTC 2026 keynote — and what to expect",
+      "summary": "GTC is Nvidia's flagship annual event, where the chipmaker typically announces new products, partnerships, and its vision for the future of computing. Huang's keynote will focus on Nvidia's role in the future of computing and AI.",
+      "source": "TechCrunch",
+      "published": "2026-03-16T14:30:55+00:00",
+      "link": "https://techcrunch.com/2026/03/16/nvidia-gtc-how-to-watch-jensen-huang-2026-keynote/"
+    },
+    {
+      "title": "OpenAI's own wellbeing advisors warned against erotic mode, called it a \"sexy suicide coach\"",
+      "summary": "OpenAI's wellbeing advisory board reportedly voted unanimously against the company's planned Adult Mode for ChatGPT. Internally, the company is struggling with an error-prone age detection system and unresolved safety issues.",
+      "source": "The Decoder",
+      "published": "2026-03-16T14:24:39+00:00",
+      "link": "https://the-decoder.com/openais-own-wellbeing-advisors-warned-against-erotic-mode-called-it-a-sexy-suicide-coach/"
+    },
+    {
+      "title": "Alibaba consolidates AI efforts under new business unit led by CEO",
+      "summary": "Alibaba is merging its AI operations into a new business unit called \"Alibaba Token Hub\" (ATH), led directly by CEO Eddie Wu, Bloomberg reports. The article Alibaba consolidates AI efforts under new business unit led by CEO appeared first on The Decoder.",
+      "source": "The Decoder",
+      "published": "2026-03-16T13:58:31+00:00",
+      "link": "https://the-decoder.com/alibaba-consolidates-ai-efforts-under-new-business-unit-led-by-ceo/"
+    },
+    {
+      "title": "Nurturing agentic AI beyond the toddler stage",
+      "summary": "Parents of young children face a lot of fears about developmental milestones, from infancy through adulthood.",
+      "source": "MIT Tech Review",
+      "published": "2026-03-16T13:00:00+00:00",
+      "link": "https://www.technologyreview.com/2026/03/16/1133979/nurturing-agentic-ai-beyond-the-toddler-stage/"
+    },
+    {
+      "title": "This is not a fly uploaded to a computer",
+      "summary": "Last week, a few posts about a so-called virtual \"embodied fly\" tore through X, boosted by AI hype accounts and excited commenters who didn't seem to understand what it was they were excited about.",
+      "source": "The Verge",
+      "published": "2026-03-16T12:49:07+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/894587/fly-brain-computer-upload"
+    },
+    {
+      "title": "The Download: glass chips and “AI-free” logos",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Future AI chips could be built on glass Human-made glass is thousands of years old.",
+      "source": "MIT Tech Review",
+      "published": "2026-03-16T12:35:00+00:00",
+      "link": "https://www.technologyreview.com/2026/03/16/1134301/the-download-glass-ai-chips-ai-free-logo/"
+    },
+    {
+      "title": "Meta signs $27 billion cloud deal with Nebius in one of the largest AI infrastructure bets yet",
+      "summary": "Meta is spending up to $27 billion on AI infrastructure from Dutch cloud provider Nebius, including one of the first major installations of Nvidia's latest Vera Rubin chips.",
+      "source": "The Decoder",
+      "published": "2026-03-16T12:04:11+00:00",
+      "link": "https://the-decoder.com/meta-signs-27-billion-cloud-deal-with-nebius-in-one-of-the-largest-ai-infrastructure-bets-yet/"
+    },
+    {
+      "title": "NTT DATA and NVIDIA bring enterprise AI factories to production scale",
+      "summary": "NTT DATA has announced an initiative to deliver NVIDIA-powered platforms designed to give organisations a repeatable, production-ready model for scaling AI.",
+      "source": "AI News",
+      "published": "2026-03-16T12:00:00+00:00",
+      "link": "https://www.artificialintelligence-news.com/news/ntt-data-nvidia-enterprise-ai-factories-production/"
+    },
     {
       "title": "OpenAI’s adult mode will reportedly be smutty, not pornographic",
       "summary": "OpenAI's delayed \"adult mode\" for ChatGPT is expected to support saucy text conversations at launch, but not the chatbot's ability to generate images, voice, or video.",
@@ -35,6 +112,13 @@ const FEED_DATA = {
       "source": "AI News",
       "published": "2026-03-16T10:00:00+00:00",
       "link": "https://www.artificialintelligence-news.com/news/openai-frontier-enterprise-ai-agents-saas/"
+    },
+    {
+      "title": "Models Are Applying to Be the Face of AI Scams",
+      "summary": "Dozens of Telegram channels reviewed by WIRED include job listings for “AI face models.” The (mostly) women who land these gigs are likely being used to dupe victims out of their money.",
+      "source": "Wired",
+      "published": "2026-03-16T09:00:00+00:00",
+      "link": "https://www.wired.com/story/models-are-applying-to-be-the-face-of-ai-scams/"
     },
     {
       "title": "‘100 Video Calls Per Day’: Models Are Applying to Be the Face of AI Scams",
@@ -80,7 +164,7 @@ const FEED_DATA = {
     },
     {
       "title": "LLM Architecture Gallery",
-      "summary": "Article URL: https://sebastianraschka.com/llm-architecture-gallery/ Comments URL: https://news.ycombinator.com/item?id=47388676 Points: 426 # Comments: 33",
+      "summary": "Article URL: https://sebastianraschka.com/llm-architecture-gallery/ Comments URL: https://news.ycombinator.com/item?id=47388676 Points: 526 # Comments: 39",
       "source": "Hacker News",
       "published": "2026-03-15T16:01:09+00:00",
       "link": "https://sebastianraschka.com/llm-architecture-gallery/"
@@ -129,7 +213,7 @@ const FEED_DATA = {
     },
     {
       "title": "The Appalling Stupidity of Spotify's AI DJ",
-      "summary": "Article URL: https://www.charlespetzold.com/blog/2026/02/The-Appalling-Stupidity-of-Spotifys-AI-DJ.html Comments URL: https://news.ycombinator.com/item?id=47385272 Points: 359 # Comments: 291",
+      "summary": "Article URL: https://www.charlespetzold.com/blog/2026/02/The-Appalling-Stupidity-of-Spotifys-AI-DJ.html Comments URL: https://news.ycombinator.com/item?id=47385272 Points: 361 # Comments: 292",
       "source": "Hacker News",
       "published": "2026-03-15T08:04:55+00:00",
       "link": "https://www.charlespetzold.com/blog/2026/02/The-Appalling-Stupidity-of-Spotifys-AI-DJ.html"
@@ -227,7 +311,7 @@ const FEED_DATA = {
     },
     {
       "title": "Meta planning layoffs as AI costs mount",
-      "summary": "Article URL: https://www.reuters.com/business/world-at-work/meta-planning-sweeping-layoffs-ai-costs-mount-2026-03-14/ Comments URL: https://news.ycombinator.com/item?id=47372249 Points: 99 # Comments: 22",
+      "summary": "Article URL: https://www.reuters.com/business/world-at-work/meta-planning-sweeping-layoffs-ai-costs-mount-2026-03-14/ Comments URL: https://news.ycombinator.com/item?id=47372249 Points: 100 # Comments: 22",
       "source": "Hacker News",
       "published": "2026-03-14T01:13:36+00:00",
       "link": "https://www.reuters.com/business/world-at-work/meta-planning-sweeping-layoffs-ai-costs-mount-2026-03-14/"
@@ -297,7 +381,7 @@ const FEED_DATA = {
     },
     {
       "title": "John Carmack about open source and anti-AI activists",
-      "summary": "https://xcancel.com/id_aa_carmack/status/2032460578669691171 Comments URL: https://news.ycombinator.com/item?id=47367463 Points: 370 # Comments: 484",
+      "summary": "https://xcancel.com/id_aa_carmack/status/2032460578669691171 Comments URL: https://news.ycombinator.com/item?id=47367463 Points: 370 # Comments: 486",
       "source": "Hacker News",
       "published": "2026-03-13T17:51:34+00:00",
       "link": "https://twitter.com/id_aa_carmack/status/2032460578669691171"
@@ -374,7 +458,7 @@ const FEED_DATA = {
     },
     {
       "title": "Can I run AI locally?",
-      "summary": "Article URL: https://www.canirun.ai/ Comments URL: https://news.ycombinator.com/item?id=47363754 Points: 1469 # Comments: 347",
+      "summary": "Article URL: https://www.canirun.ai/ Comments URL: https://news.ycombinator.com/item?id=47363754 Points: 1478 # Comments: 348",
       "source": "Hacker News",
       "published": "2026-03-13T12:46:10+00:00",
       "link": "https://www.canirun.ai/"
@@ -479,7 +563,7 @@ const FEED_DATA = {
     },
     {
       "title": "Grief and the AI split",
-      "summary": "Article URL: https://blog.lmorchard.com/2026/03/11/grief-and-the-ai-split/ Comments URL: https://news.ycombinator.com/item?id=47358206 Points: 242 # Comments: 376",
+      "summary": "Article URL: https://blog.lmorchard.com/2026/03/11/grief-and-the-ai-split/ Comments URL: https://news.ycombinator.com/item?id=47358206 Points: 243 # Comments: 377",
       "source": "Hacker News",
       "published": "2026-03-12T22:35:08+00:00",
       "link": "https://blog.lmorchard.com/2026/03/11/grief-and-the-ai-split/"
@@ -500,7 +584,7 @@ const FEED_DATA = {
     },
     {
       "title": "Innocent woman jailed after being misidentified using AI facial recognition",
-      "summary": "Article URL: https://www.grandforksherald.com/news/north-dakota/ai-error-jails-innocent-grandmother-for-months-in-north-dakota-fraud-case Comments URL: https://news.ycombinator.com/item?id=47356968 Points: 753 # Comments: 385",
+      "summary": "Article URL: https://www.grandforksherald.com/news/north-dakota/ai-error-jails-innocent-grandmother-for-months-in-north-dakota-fraud-case Comments URL: https://news.ycombinator.com/item?id=47356968 Points: 754 # Comments: 386",
       "source": "Hacker News",
       "published": "2026-03-12T20:55:51+00:00",
       "link": "https://www.grandforksherald.com/news/north-dakota/ai-error-jails-innocent-grandmother-for-months-in-north-dakota-fraud-case"
@@ -772,18 +856,18 @@ const FEED_DATA = {
       "link": "https://the-decoder.com/openai-is-reportedly-planning-to-integrate-its-video-ai-sora-into-chatgpt/"
     },
     {
-      "title": "You can now ask Google Maps ‘complex, real-world questions’ — and Gemini will answer",
-      "summary": "Google is continuing to weave Gemini into the firmament of its most-used products. Today, it announced that Google Maps was getting a new AI-powered \"Ask Maps\" feature that allows for \"complex, real-world questions\" with highly detailed, personalized responses.",
-      "source": "The Verge",
-      "published": "2026-03-12T12:30:00+00:00",
-      "link": "https://www.theverge.com/tech/893262/google-maps-gemini-ai-ask-maps-immersive-navigation"
-    },
-    {
       "title": "Google Maps Gets Chatty With a New Gemini-Powered Interface",
       "summary": "“Ask Maps,” rolling out today to Google Maps on mobile, lets you ask Gemini questions about locations and even to plan trips on your behalf.",
       "source": "Wired",
       "published": "2026-03-12T12:30:00+00:00",
       "link": "https://www.wired.com/story/google-maps-ask-maps-gemini-powered-tool/"
+    },
+    {
+      "title": "You can now ask Google Maps ‘complex, real-world questions’ — and Gemini will answer",
+      "summary": "Google is continuing to weave Gemini into the firmament of its most-used products. Today, it announced that Google Maps was getting a new AI-powered \"Ask Maps\" feature that allows for \"complex, real-world questions\" with highly detailed, personalized responses.",
+      "source": "The Verge",
+      "published": "2026-03-12T12:30:00+00:00",
+      "link": "https://www.theverge.com/tech/893262/google-maps-gemini-ai-ask-maps-immersive-navigation"
     },
     {
       "title": "Google Maps is getting an AI ‘Ask Maps’ feature and upgraded ‘immersive’ navigation",
@@ -1316,90 +1400,6 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-03-10T15:08:39+00:00",
       "link": "https://techcrunch.com/2026/03/10/thinking-machines-lab-inks-massive-compute-deal-with-nvidia/"
-    },
-    {
-      "title": "Amazon is holding a mandatory meeting about AI breaking its systems",
-      "summary": "Article URL: https://twitter.com/lukolejnik/status/2031257644724342957 Comments URL: https://news.ycombinator.com/item?id=47324211 Points: 289 # Comments: 10",
-      "source": "Hacker News",
-      "published": "2026-03-10T15:01:35+00:00",
-      "link": "https://twitter.com/lukolejnik/status/2031257644724342957"
-    },
-    {
-      "title": "Google gives in to users’ complaints over AI-powered ‘Ask Photos’ search feature",
-      "summary": "The option appears on the Google Photos Search screen and lets users pick which experience they want.",
-      "source": "TechCrunch",
-      "published": "2026-03-10T14:58:29+00:00",
-      "link": "https://techcrunch.com/2026/03/10/google-gives-in-to-users-complaints-over-ai-powered-ask-photos-search-feature/"
-    },
-    {
-      "title": "Debian decides not to decide on AI-generated contributions",
-      "summary": "Article URL: https://lwn.net/SubscriberLink/1061544/125f911834966dd0/ Comments URL: https://news.ycombinator.com/item?id=47324087 Points: 372 # Comments: 286",
-      "source": "Hacker News",
-      "published": "2026-03-10T14:53:13+00:00",
-      "link": "https://lwn.net/SubscriberLink/1061544/125f911834966dd0/"
-    },
-    {
-      "title": "Legora reaches $5.55 billion valuation as AI legal tech boom endures",
-      "summary": "Legora, an AI platform for lawyers, is now valued at $5.55 billion following a $550 million Series D led by Accel to fuel its growth in the U.S.",
-      "source": "TechCrunch",
-      "published": "2026-03-10T14:34:24+00:00",
-      "link": "https://techcrunch.com/2026/03/10/legora-reaches-5-55-billion-valuation-as-ai-legaltech-boom-endures/"
-    },
-    {
-      "title": "Legora reaches $5.55 billion valuation as AI legaltech boom endures",
-      "summary": "Legora, an AI platform for lawyers, is now valued at $5.55 billion following a $550 million Series D led by Accel to fuel its growth in the U.S.",
-      "source": "TechCrunch",
-      "published": "2026-03-10T14:34:24+00:00",
-      "link": "https://techcrunch.com/2026/03/10/legora-reaches-5-55-billion-valuation-as-ai-legaltech-boom-endures/"
-    },
-    {
-      "title": "Meta acquired Moltbook, the AI agent social network that went viral because of fake posts",
-      "summary": "Meta says that Moltbook's approach to \"connecting agents through an always-on-directory\" is novel.",
-      "source": "TechCrunch",
-      "published": "2026-03-10T14:32:05+00:00",
-      "link": "https://techcrunch.com/2026/03/10/meta-acquired-moltbook-the-ai-agent-social-network-that-went-viral-because-of-fake-posts/"
-    },
-    {
-      "title": "Meta acquires Moltbook, the Reddit-style platform built for AI agents",
-      "summary": "Meta has acquired Moltbook, a platform designed as a kind of Reddit specifically for AI agents. The article Meta acquires Moltbook, the Reddit-style platform built for AI agents appeared first on The Decoder.",
-      "source": "The Decoder",
-      "published": "2026-03-10T14:25:41+00:00",
-      "link": "https://the-decoder.com/meta-acquires-moltbook-the-reddit-style-platform-built-for-ai-agents/"
-    },
-    {
-      "title": "Building a strong data infrastructure for AI agent success",
-      "summary": "In the race to adopt and show value from AI, enterprises are moving faster than ever to deploy agentic AI as copilots, assistants, and autonomous task-runners.",
-      "source": "MIT Tech Review",
-      "published": "2026-03-10T14:00:00+00:00",
-      "link": "https://www.technologyreview.com/2026/03/10/1134083/building-a-strong-data-infrastructure-for-ai-agent-success/"
-    },
-    {
-      "title": "YouTube expands AI deepfake detection to politicians, government officials, and journalists",
-      "summary": "YouTube's AI deepfake detection tool is becoming available to politicians, journalists, and officials, letting them flag unauthorized likenesses for removal.",
-      "source": "TechCrunch",
-      "published": "2026-03-10T14:00:00+00:00",
-      "link": "https://techcrunch.com/2026/03/10/youtube-expands-ai-deepfake-detection-to-politicians-government-officials-and-journalists/"
-    },
-    {
-      "title": "YouTube is expanding its AI deepfake detection tool to politicians and journalists",
-      "summary": "Public officials and journalists will soon be able to keep track of AI-generated deepfakes of themselves on YouTube through the platform's likeness detection feature.",
-      "source": "The Verge",
-      "published": "2026-03-10T14:00:00+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/891678/youtube-is-expanding-its-ai-deepfake-detection-tool-to-politicians-and-journalists"
-    },
-    {
-      "title": "Startup claims first full brain emulation of a fruit fly in a simulated body",
-      "summary": "Eon Systems says it has connected a complete fruit fly brain emulation to a virtual body, producing multiple behaviors for the first time. The emulation covers over 125,000 neurons and 50 million synapses.",
-      "source": "The Decoder",
-      "published": "2026-03-10T13:56:10+00:00",
-      "link": "https://the-decoder.com/startup-claims-first-full-brain-emulation-of-a-fruit-fly-in-a-simulated-body/"
-    },
-    {
-      "title": "After outages, Amazon to make senior engineers sign off on AI-assisted changes",
-      "summary": "https://www.ft.com/content/7cab4ec7-4712-4137-b602-119a44f77...",
-      "source": "Hacker News",
-      "published": "2026-03-10T13:31:17+00:00",
-      "link": "https://arstechnica.com/ai/2026/03/after-outages-amazon-to-make-senior-engineers-sign-off-on-ai-assisted-changes/"
     }
   ]
 };
