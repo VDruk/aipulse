@@ -1,6 +1,62 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-03-16T19:54:57.258969+00:00",
+  "lastUpdated": "2026-03-16T22:06:18.132071+00:00",
   "items": [
+    {
+      "title": "DLSS 5 looks like a real-time generative AI filter for video games",
+      "summary": "Nvidia announced DLSS 5 on Monday during its GTC conference, and based on early reactions, it's going to be a divisive update, with some reactions calling it \"slop\" that unacceptably alters artistic intent.",
+      "source": "The Verge",
+      "published": "2026-03-16T21:56:05+00:00",
+      "link": "https://www.theverge.com/news/895472/nvidia-dlss5-generative-ai-pc-graphics"
+    },
+    {
+      "title": "Teens sue Elon Musk’s xAI over Grok’s AI-generated CSAM",
+      "summary": "Three Tennessee teens are suing Elon Musk's xAI over claims that the company's Grok AI chatbot generated sexualized images and videos of themselves as minors, as reported earlier by The Washington Post.",
+      "source": "The Verge",
+      "published": "2026-03-16T21:44:11+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/895639/xai-grok-teens-lawsuit-grok-ai-elon-musk"
+    },
+    {
+      "title": "Jensen just put Nvidia’s Blackwell and Vera Rubin sales projections into the $1 trillion stratosphere",
+      "summary": "Nvidia CEO Jensen Huang said he expects $1 trillion worth of orders for the chips.",
+      "source": "TechCrunch",
+      "published": "2026-03-16T21:41:37+00:00",
+      "link": "https://techcrunch.com/2026/03/16/jensen-just-put-nvidias-blackwell-and-vera-rubin-sales-projections-into-the-1-trillion-stratosphere/"
+    },
+    {
+      "title": "Warren presses Pentagon over decision to grant xAI access to classified networks",
+      "summary": "Sen. Elizabeth Warren noted that Grok, xAI's controversial chatbot, has created harmful outputs for users and poses a potential national security risk.",
+      "source": "TechCrunch",
+      "published": "2026-03-16T20:58:36+00:00",
+      "link": "https://techcrunch.com/2026/03/16/warren-presses-pentagon-over-decision-to-grant-xai-access-to-classified-networks/"
+    },
+    {
+      "title": "Benjamin Netanyahu is struggling to prove he’s not an AI clone",
+      "summary": "Social media platforms are currently awash with conspiracy theories claiming that Benjamin Netanyahu has been killed or injured and replaced by AI-generated deepfakes.",
+      "source": "The Verge",
+      "published": "2026-03-16T20:41:55+00:00",
+      "link": "https://www.theverge.com/tech/895453/ai-deepfake-netanyahu-claims-conspiracy"
+    },
+    {
+      "title": "GTC 2026: Nvidia wants to swap robotics' data problem for a compute problem",
+      "summary": "At GTC 2026, Nvidia is massively expanding its platform for physical AI. Starting in 2027, autonomous vehicles are set to drive through Los Angeles with Uber, industrial robots from FANUC and ABB are getting Nvidia brains, and new models aim to make humanoid robots more capable.",
+      "source": "The Decoder",
+      "published": "2026-03-16T20:30:11+00:00",
+      "link": "https://the-decoder.com/gtc-2026-nvidia-wants-to-swap-robotics-data-problem-for-a-compute-problem/"
+    },
+    {
+      "title": "Memories AI is building the visual memory layer for wearables and robotics",
+      "summary": "Memories.ai is building a large visual memory model that can index and retrieve video-recorded memories for physical AI.",
+      "source": "TechCrunch",
+      "published": "2026-03-16T20:30:00+00:00",
+      "link": "https://techcrunch.com/2026/03/16/memories-ai-is-building-the-visual-memory-layer-for-wearables-and-robotics/"
+    },
+    {
+      "title": "Nvidia Launches Vera CPU, Purpose-Built for Agentic AI",
+      "summary": "Article URL: https://nvidianews.nvidia.com/news/nvidia-launches-vera-cpu-purpose-built-for-agentic-ai Comments URL: https://news.ycombinator.com/item?id=47404074 Points: 73 # Comments: 47",
+      "source": "Hacker News",
+      "published": "2026-03-16T20:01:02+00:00",
+      "link": "https://nvidianews.nvidia.com/news/nvidia-launches-vera-cpu-purpose-built-for-agentic-ai"
+    },
     {
       "title": "Elon Musk’s xAI faces child porn lawsuit from minors Grok allegedly undressed",
       "summary": "The three plaintiffs are seeking to represent anyone who had real images of them as a minor altered into sexual content by Grok.",
@@ -58,8 +114,8 @@ const FEED_DATA = {
       "link": "https://techcrunch.com/2026/03/16/merriam-webster-openai-encyclopedia-brittanica-lawsuit/"
     },
     {
-      "title": "Speed at the cost of quality: Study of use of Cursor AI in open source projects",
-      "summary": "Article URL: https://arxiv.org/abs/2511.04427 Comments URL: https://news.ycombinator.com/item?id=47401734 Points: 52 # Comments: 23",
+      "title": "Speed at the cost of quality: Study of use of Cursor AI in open source projects (2025)",
+      "summary": "Article URL: https://arxiv.org/abs/2511.04427 Comments URL: https://news.ycombinator.com/item?id=47401734 Points: 76 # Comments: 32",
       "source": "Hacker News",
       "published": "2026-03-16T17:07:37+00:00",
       "link": "https://arxiv.org/abs/2511.04427"
@@ -86,6 +142,13 @@ const FEED_DATA = {
       "link": "https://the-decoder.com/gpt-4-5-fooled-73-percent-of-people-into-thinking-it-was-human-by-pretending-to-be-dumber/"
     },
     {
+      "title": "Launch HN: Voygr (YC W26) – A better maps API for agents and AI apps",
+      "summary": "Hi HN, we’re Yarik and Vlad from VOYGR (https://voygr.tech/), working on better real-world place intelligence for app developers and agents.",
+      "source": "Hacker News",
+      "published": "2026-03-16T16:21:07+00:00",
+      "link": "https://news.ycombinator.com/item?id=47401042"
+    },
+    {
       "title": "US Treasury publishes AI risk Guidebook for financial institutions",
       "summary": "The US Treasury has published several documents designed for the US financial services sector that suggest a structured approach to managing AI risks in operations and policy (see subheading ‘Resources and Downloads’ towards the bottom of the link).",
       "source": "AI News",
@@ -94,7 +157,7 @@ const FEED_DATA = {
     },
     {
       "title": "Apideck CLI – An AI-agent interface with much lower context consumption than MCP",
-      "summary": "Article URL: https://www.apideck.com/blog/mcp-server-eating-context-window-cli-alternative Comments URL: https://news.ycombinator.com/item?id=47400261 Points: 88 # Comments: 83",
+      "summary": "Article URL: https://www.apideck.com/blog/mcp-server-eating-context-window-cli-alternative Comments URL: https://news.ycombinator.com/item?id=47400261 Points: 102 # Comments: 95",
       "source": "Hacker News",
       "published": "2026-03-16T15:25:36+00:00",
       "link": "https://www.apideck.com/blog/mcp-server-eating-context-window-cli-alternative"
@@ -206,7 +269,7 @@ const FEED_DATA = {
     },
     {
       "title": "Why I may ‘hire’ AI instead of a graduate student",
-      "summary": "Article URL: https://www.science.org/content/article/why-i-may-hire-ai-instead-graduate-student Comments URL: https://news.ycombinator.com/item?id=47396557 Points: 55 # Comments: 62",
+      "summary": "Article URL: https://www.science.org/content/article/why-i-may-hire-ai-instead-graduate-student Comments URL: https://news.ycombinator.com/item?id=47396557 Points: 67 # Comments: 65",
       "source": "Hacker News",
       "published": "2026-03-16T08:59:13+00:00",
       "link": "https://www.science.org/content/article/why-i-may-hire-ai-instead-graduate-student"
@@ -248,7 +311,7 @@ const FEED_DATA = {
     },
     {
       "title": "LLM Architecture Gallery",
-      "summary": "Article URL: https://sebastianraschka.com/llm-architecture-gallery/ Comments URL: https://news.ycombinator.com/item?id=47388676 Points: 541 # Comments: 40",
+      "summary": "Article URL: https://sebastianraschka.com/llm-architecture-gallery/ Comments URL: https://news.ycombinator.com/item?id=47388676 Points: 545 # Comments: 40",
       "source": "Hacker News",
       "published": "2026-03-15T16:01:09+00:00",
       "link": "https://sebastianraschka.com/llm-architecture-gallery/"
@@ -542,7 +605,7 @@ const FEED_DATA = {
     },
     {
       "title": "Can I run AI locally?",
-      "summary": "Article URL: https://www.canirun.ai/ Comments URL: https://news.ycombinator.com/item?id=47363754 Points: 1482 # Comments: 347",
+      "summary": "Article URL: https://www.canirun.ai/ Comments URL: https://news.ycombinator.com/item?id=47363754 Points: 1484 # Comments: 347",
       "source": "Hacker News",
       "published": "2026-03-13T12:46:10+00:00",
       "link": "https://www.canirun.ai/"
@@ -1337,69 +1400,6 @@ const FEED_DATA = {
       "source": "Hacker News",
       "published": "2026-03-11T09:30:22+00:00",
       "link": "https://www.bloomberg.com/news/articles/2026-03-10/google-to-provide-pentagon-with-ai-agents-for-unclassified-work"
-    },
-    {
-      "title": "Google brings Gemini in Chrome to India",
-      "summary": "The rollout will let users access Gemini in Chrome through a sidebar on desktop, enabling them to ask Google's AI chatbot questions about the content on the screen; get information from their Gmail, Keep, Drive, and YouTube; and compare tab contents.",
-      "source": "TechCrunch",
-      "published": "2026-03-11T02:30:00+00:00",
-      "link": "https://techcrunch.com/2026/03/10/google-gemini-chrome-expands-to-india-canada-new-zealand/"
-    },
-    {
-      "title": "Trump Administration Won’t Rule Out Further Action Against Anthropic",
-      "summary": "The White House is preparing an executive order targeting the AI startup, even as its earlier actions against the company face a major test in court.",
-      "source": "Wired",
-      "published": "2026-03-11T01:41:42+00:00",
-      "link": "https://www.wired.com/story/trump-administration-refuses-to-say-it-wont-take-further-action-against-anthropic/"
-    },
-    {
-      "title": "Ford is giving its commercial fleet business an AI makeover",
-      "summary": "Ford announced a new AI-powered service for its commercial fleet and telematics software customers called Ford Pro AI.",
-      "source": "The Verge",
-      "published": "2026-03-10T21:30:00+00:00",
-      "link": "https://www.theverge.com/transportation/892010/ford-pro-ai-telematics-commercial-fleet"
-    },
-    {
-      "title": "Amazon launches its healthcare AI assistant on its website and app",
-      "summary": "Health AI can answer questions, explain health records, manage prescription renewals, book appointments, and more.",
-      "source": "TechCrunch",
-      "published": "2026-03-10T20:10:06+00:00",
-      "link": "https://techcrunch.com/2026/03/10/amazon-launches-its-healthcare-ai-assistant-on-its-website-and-app/"
-    },
-    {
-      "title": "Amazon gets court order blocking Perplexity's AI shopping agent",
-      "summary": "Amazon stops Perplexity's shopping bot by court order: a ruling that could shape the future of AI agents in e-commerce. The article Amazon gets court order blocking Perplexity's AI shopping agent appeared first on The Decoder.",
-      "source": "The Decoder",
-      "published": "2026-03-10T19:11:01+00:00",
-      "link": "https://the-decoder.com/amazon-gets-court-order-blocking-perplexitys-ai-shopping-agent/"
-    },
-    {
-      "title": "AI-powered apps struggle with long-term retention, new report shows",
-      "summary": "AI can drive stronger early monetization for apps, but sustaining value remains the challenge, RevenueCat's latest report finds.",
-      "source": "TechCrunch",
-      "published": "2026-03-10T18:42:33+00:00",
-      "link": "https://techcrunch.com/2026/03/10/ai-powered-apps-struggle-with-long-term-retention-new-report-shows/"
-    },
-    {
-      "title": "AI-powered apps can make money, but struggle with long-term retention, new data shows",
-      "summary": "AI can drive stronger early monetization for apps, but sustaining value remains the challenge, RevenueCat's latest report finds.",
-      "source": "TechCrunch",
-      "published": "2026-03-10T18:42:33+00:00",
-      "link": "https://techcrunch.com/2026/03/10/ai-powered-apps-can-make-money-but-struggle-with-long-term-retention-new-data-shows/"
-    },
-    {
-      "title": "Judge orders Perplexity to stop AI agents from shopping on Amazon",
-      "summary": "A federal judge has issued an order blocking Perplexity's web browser-based AI agents from placing Amazon orders on a user's behalf, as reported earlier by Bloomberg.",
-      "source": "The Verge",
-      "published": "2026-03-10T18:11:43+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/892401/amazon-perplexity-ai-shopping-agent-court-order"
-    },
-    {
-      "title": "Judge blocks Perplexity’s AI agents from shopping on Amazon",
-      "summary": "A federal judge has issued an order blocking Perplexity's web browser-based AI agents from placing Amazon orders on a user's behalf, as reported earlier by Bloomberg.",
-      "source": "The Verge",
-      "published": "2026-03-10T18:11:43+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/892401/amazon-perplexity-ai-shopping-agent-court-order"
     }
   ]
 };
