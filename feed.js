@@ -1,6 +1,48 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-03-16T08:16:44.691408+00:00",
+  "lastUpdated": "2026-03-16T11:36:07.707563+00:00",
   "items": [
+    {
+      "title": "OpenAI’s adult mode will reportedly be smutty, not pornographic",
+      "summary": "OpenAI's delayed \"adult mode\" for ChatGPT is expected to support saucy text conversations at launch, but not the chatbot's ability to generate images, voice, or video.",
+      "source": "The Verge",
+      "published": "2026-03-16T11:18:20+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/895130/openai-chatgpt-adult-mode-text-smut-written-erotica"
+    },
+    {
+      "title": "AI-generated war footage is going viral while real satellite imagery disappears from public view",
+      "summary": "The New York Times identified more than 110 AI-generated fake videos and images about the Middle East war in just two weeks.",
+      "source": "The Decoder",
+      "published": "2026-03-16T11:11:34+00:00",
+      "link": "https://the-decoder.com/ai-generated-war-footage-is-going-viral-while-real-satellite-imagery-disappears-from-public-view/"
+    },
+    {
+      "title": "Hua Hong becomes the second Chinese chipmaker to crack 7nm manufacturing as Beijing pushes for AI independence",
+      "summary": "China's second-largest chip manufacturer, Hua Hong Group, is preparing 7-nanometer chip production in Shanghai, with support from Huawei.",
+      "source": "The Decoder",
+      "published": "2026-03-16T11:04:36+00:00",
+      "link": "https://the-decoder.com/hua-hong-becomes-the-second-chinese-chipmaker-to-crack-7nm-manufacturing-as-beijing-pushes-for-ai-independence/"
+    },
+    {
+      "title": "Securing digital assets against future threats",
+      "summary": "Securing digital assets against future threats",
+      "source": "MIT Tech Review",
+      "published": "2026-03-16T11:00:00+00:00",
+      "link": "https://www.technologyreview.com/2026/03/16/1134287/securing-digital-assets-against-future-threats/"
+    },
+    {
+      "title": "OpenAI’s Frontier puts AI agents in a fight SaaS can’t afford to lose",
+      "summary": "When OpenAI launched Frontier in February, the announcement was described as a platform for enterprise AI agents. What it actually signalled was a challenge to the revenue architecture underpinning the software industry.",
+      "source": "AI News",
+      "published": "2026-03-16T10:00:00+00:00",
+      "link": "https://www.artificialintelligence-news.com/news/openai-frontier-enterprise-ai-agents-saas/"
+    },
+    {
+      "title": "‘100 Video Calls Per Day’: Models Are Applying to Be the Face of AI Scams",
+      "summary": "Dozens of Telegram channels reviewed by WIRED include job listings for “AI face models.” The (mostly) women who land these gigs are likely being used to dupe victims out of their money.",
+      "source": "Wired",
+      "published": "2026-03-16T09:00:00+00:00",
+      "link": "https://www.wired.com/story/models-are-applying-to-be-the-face-of-ai-scams/"
+    },
     {
       "title": "Tell HN: AI tools are making me lose interest in CS fundamentals",
       "summary": "With powerful AI coding assistants, I sometimes feel less motivated to study deep computer science topics like distributed systems and algorithms.",
@@ -38,7 +80,7 @@ const FEED_DATA = {
     },
     {
       "title": "LLM Architecture Gallery",
-      "summary": "Article URL: https://sebastianraschka.com/llm-architecture-gallery/ Comments URL: https://news.ycombinator.com/item?id=47388676 Points: 373 # Comments: 28",
+      "summary": "Article URL: https://sebastianraschka.com/llm-architecture-gallery/ Comments URL: https://news.ycombinator.com/item?id=47388676 Points: 426 # Comments: 33",
       "source": "Hacker News",
       "published": "2026-03-15T16:01:09+00:00",
       "link": "https://sebastianraschka.com/llm-architecture-gallery/"
@@ -87,7 +129,7 @@ const FEED_DATA = {
     },
     {
       "title": "The Appalling Stupidity of Spotify's AI DJ",
-      "summary": "Article URL: https://www.charlespetzold.com/blog/2026/02/The-Appalling-Stupidity-of-Spotifys-AI-DJ.html Comments URL: https://news.ycombinator.com/item?id=47385272 Points: 357 # Comments: 291",
+      "summary": "Article URL: https://www.charlespetzold.com/blog/2026/02/The-Appalling-Stupidity-of-Spotifys-AI-DJ.html Comments URL: https://news.ycombinator.com/item?id=47385272 Points: 359 # Comments: 291",
       "source": "Hacker News",
       "published": "2026-03-15T08:04:55+00:00",
       "link": "https://www.charlespetzold.com/blog/2026/02/The-Appalling-Stupidity-of-Spotifys-AI-DJ.html"
@@ -255,7 +297,7 @@ const FEED_DATA = {
     },
     {
       "title": "John Carmack about open source and anti-AI activists",
-      "summary": "https://xcancel.com/id_aa_carmack/status/2032460578669691171 Comments URL: https://news.ycombinator.com/item?id=47367463 Points: 368 # Comments: 481",
+      "summary": "https://xcancel.com/id_aa_carmack/status/2032460578669691171 Comments URL: https://news.ycombinator.com/item?id=47367463 Points: 370 # Comments: 484",
       "source": "Hacker News",
       "published": "2026-03-13T17:51:34+00:00",
       "link": "https://twitter.com/id_aa_carmack/status/2032460578669691171"
@@ -332,7 +374,7 @@ const FEED_DATA = {
     },
     {
       "title": "Can I run AI locally?",
-      "summary": "Article URL: https://www.canirun.ai/ Comments URL: https://news.ycombinator.com/item?id=47363754 Points: 1468 # Comments: 346",
+      "summary": "Article URL: https://www.canirun.ai/ Comments URL: https://news.ycombinator.com/item?id=47363754 Points: 1469 # Comments: 347",
       "source": "Hacker News",
       "published": "2026-03-13T12:46:10+00:00",
       "link": "https://www.canirun.ai/"
@@ -437,7 +479,7 @@ const FEED_DATA = {
     },
     {
       "title": "Grief and the AI split",
-      "summary": "Article URL: https://blog.lmorchard.com/2026/03/11/grief-and-the-ai-split/ Comments URL: https://news.ycombinator.com/item?id=47358206 Points: 241 # Comments: 376",
+      "summary": "Article URL: https://blog.lmorchard.com/2026/03/11/grief-and-the-ai-split/ Comments URL: https://news.ycombinator.com/item?id=47358206 Points: 242 # Comments: 376",
       "source": "Hacker News",
       "published": "2026-03-12T22:35:08+00:00",
       "link": "https://blog.lmorchard.com/2026/03/11/grief-and-the-ai-split/"
@@ -1358,48 +1400,6 @@ const FEED_DATA = {
       "source": "Hacker News",
       "published": "2026-03-10T13:31:17+00:00",
       "link": "https://arstechnica.com/ai/2026/03/after-outages-amazon-to-make-senior-engineers-sign-off-on-ai-assisted-changes/"
-    },
-    {
-      "title": "Show HN: How I topped the HuggingFace open LLM leaderboard on two gaming GPUs",
-      "summary": "I found that duplicating a specific block of 7 middle layers in Qwen2-72B, without modifying any weights, improved performance across all Open LLM Leaderboard benchmarks and took #1.",
-      "source": "Hacker News",
-      "published": "2026-03-10T13:18:55+00:00",
-      "link": "https://dnhkng.github.io/posts/rys/"
-    },
-    {
-      "title": "Adobe is debuting an AI assistant for Photoshop",
-      "summary": "Adobe is also adding new AI-powered image-editing features to Firefly.",
-      "source": "TechCrunch",
-      "published": "2026-03-10T13:06:51+00:00",
-      "link": "https://techcrunch.com/2026/03/10/adobe-is-debuting-an-ai-assistant-for-photoshop/"
-    },
-    {
-      "title": "Prioritizing energy intelligence for sustainable growth",
-      "summary": "Loudoun County, Virginia, once known for its pastoral scenery and proximity to Washington, DC, has earned a more modern reputation in recent years: The area has the highest concentration of data centers on the planet. Ten years ago, these facilities powered email and e-commerce.",
-      "source": "MIT Tech Review",
-      "published": "2026-03-10T13:00:00+00:00",
-      "link": "https://www.technologyreview.com/2026/03/10/1133972/prioritizing-energy-intelligence-for-sustainable-growth/"
-    },
-    {
-      "title": "I Used Google’s New Gemini-Powered ‘Help Me Create’ Tool in Docs. It’s Great at Corporate-Speak",
-      "summary": "Google has injected Docs, Drive, Sheets, and Slides with its Gemini assistant, adding new features that can pull information from your emails and the web to help you draft content. I gave it a whirl.",
-      "source": "Wired",
-      "published": "2026-03-10T13:00:00+00:00",
-      "link": "https://www.wired.com/story/google-gemini-workspace-ai-tools-hands-on/"
-    },
-    {
-      "title": "Zoom introduces an AI-powered office suite, says AI avatars for meetings arrive this month",
-      "summary": "Zoom is also introducing real-time deepfake detection tech for meetings.",
-      "source": "TechCrunch",
-      "published": "2026-03-10T13:00:00+00:00",
-      "link": "https://techcrunch.com/2026/03/10/zoom-launches-an-ai-powered-office-suite-says-ai-avatars-for-meetings-are-coming-soon/"
-    },
-    {
-      "title": "Google rolls out new Gemini capabilities to Docs, Sheets, Slides, and Drive",
-      "summary": "The idea behind the new features is to make the apps more personal and capable to help users get things done faster, right within the platforms themselves.",
-      "source": "TechCrunch",
-      "published": "2026-03-10T13:00:00+00:00",
-      "link": "https://techcrunch.com/2026/03/10/google-rolls-out-new-gemini-capabilities-to-docs-sheets-slides-and-drive/"
     }
   ]
 };
