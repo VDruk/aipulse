@@ -1,6 +1,13 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-03-16T06:11:01.327107+00:00",
+  "lastUpdated": "2026-03-16T08:16:44.691408+00:00",
   "items": [
+    {
+      "title": "Tell HN: AI tools are making me lose interest in CS fundamentals",
+      "summary": "With powerful AI coding assistants, I sometimes feel less motivated to study deep computer science topics like distributed systems and algorithms.",
+      "source": "Hacker News",
+      "published": "2026-03-16T02:02:12+00:00",
+      "link": "https://news.ycombinator.com/item?id=47394291"
+    },
     {
       "title": "AI tools are making me lose interest in CS fundamentals",
       "summary": "With powerful AI coding assistants, I sometimes feel less motivated to study deep computer science topics like distributed systems and algorithms.",
@@ -31,7 +38,7 @@ const FEED_DATA = {
     },
     {
       "title": "LLM Architecture Gallery",
-      "summary": "Article URL: https://sebastianraschka.com/llm-architecture-gallery/ Comments URL: https://news.ycombinator.com/item?id=47388676 Points: 337 # Comments: 27",
+      "summary": "Article URL: https://sebastianraschka.com/llm-architecture-gallery/ Comments URL: https://news.ycombinator.com/item?id=47388676 Points: 373 # Comments: 28",
       "source": "Hacker News",
       "published": "2026-03-15T16:01:09+00:00",
       "link": "https://sebastianraschka.com/llm-architecture-gallery/"
@@ -80,7 +87,7 @@ const FEED_DATA = {
     },
     {
       "title": "The Appalling Stupidity of Spotify's AI DJ",
-      "summary": "Article URL: https://www.charlespetzold.com/blog/2026/02/The-Appalling-Stupidity-of-Spotifys-AI-DJ.html Comments URL: https://news.ycombinator.com/item?id=47385272 Points: 356 # Comments: 290",
+      "summary": "Article URL: https://www.charlespetzold.com/blog/2026/02/The-Appalling-Stupidity-of-Spotifys-AI-DJ.html Comments URL: https://news.ycombinator.com/item?id=47385272 Points: 357 # Comments: 291",
       "source": "Hacker News",
       "published": "2026-03-15T08:04:55+00:00",
       "link": "https://www.charlespetzold.com/blog/2026/02/The-Appalling-Stupidity-of-Spotifys-AI-DJ.html"
@@ -325,7 +332,7 @@ const FEED_DATA = {
     },
     {
       "title": "Can I run AI locally?",
-      "summary": "Article URL: https://www.canirun.ai/ Comments URL: https://news.ycombinator.com/item?id=47363754 Points: 1466 # Comments: 345",
+      "summary": "Article URL: https://www.canirun.ai/ Comments URL: https://news.ycombinator.com/item?id=47363754 Points: 1468 # Comments: 346",
       "source": "Hacker News",
       "published": "2026-03-13T12:46:10+00:00",
       "link": "https://www.canirun.ai/"
@@ -451,7 +458,7 @@ const FEED_DATA = {
     },
     {
       "title": "Innocent woman jailed after being misidentified using AI facial recognition",
-      "summary": "Article URL: https://www.grandforksherald.com/news/north-dakota/ai-error-jails-innocent-grandmother-for-months-in-north-dakota-fraud-case Comments URL: https://news.ycombinator.com/item?id=47356968 Points: 752 # Comments: 385",
+      "summary": "Article URL: https://www.grandforksherald.com/news/north-dakota/ai-error-jails-innocent-grandmother-for-months-in-north-dakota-fraud-case Comments URL: https://news.ycombinator.com/item?id=47356968 Points: 753 # Comments: 385",
       "source": "Hacker News",
       "published": "2026-03-12T20:55:51+00:00",
       "link": "https://www.grandforksherald.com/news/north-dakota/ai-error-jails-innocent-grandmother-for-months-in-north-dakota-fraud-case"
@@ -1393,13 +1400,6 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-03-10T13:00:00+00:00",
       "link": "https://techcrunch.com/2026/03/10/google-rolls-out-new-gemini-capabilities-to-docs-sheets-slides-and-drive/"
-    },
-    {
-      "title": "Google’s Gemini AI is getting a bigger role across Docs, Sheets, and Slides",
-      "summary": "Google is embedding its Gemini AI assistant even more deeply within its Workspace apps.",
-      "source": "The Verge",
-      "published": "2026-03-10T13:00:00+00:00",
-      "link": "https://www.theverge.com/tech/890996/google-workspace-gemini-ai-docs-sheets-drive"
     }
   ]
 };
