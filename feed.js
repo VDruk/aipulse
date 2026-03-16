@@ -1,6 +1,83 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-03-16T16:42:20.915397+00:00",
+  "lastUpdated": "2026-03-16T19:54:57.258969+00:00",
   "items": [
+    {
+      "title": "Elon Musk’s xAI faces child porn lawsuit from minors Grok allegedly undressed",
+      "summary": "The three plaintiffs are seeking to represent anyone who had real images of them as a minor altered into sexual content by Grok.",
+      "source": "TechCrunch",
+      "published": "2026-03-16T19:18:44+00:00",
+      "link": "https://techcrunch.com/2026/03/16/elon-musks-xai-faces-child-porn-lawsuit-from-minors-grok-allegedly-undressed/"
+    },
+    {
+      "title": "Nvidia’s DLSS 5 uses generative AI to boost photorealism in video games, with ambitions beyond gaming",
+      "summary": "Nvidia’s new DLSS 5 uses generative AI and structured graphics data to make video games more realistic. CEO Jensen Huang says the approach could eventually spread to other industries.",
+      "source": "TechCrunch",
+      "published": "2026-03-16T19:12:19+00:00",
+      "link": "https://techcrunch.com/2026/03/16/nvidias-dlss-5-uses-generative-ai-to-boost-photo-realism-in-video-games-with-ambitions-beyond-gaming/"
+    },
+    {
+      "title": "OpenAI's biggest problem may not be building AI but getting companies to actually use it beyond ChatGPT",
+      "summary": "OpenAI is pushing to get its AI into large companies faster through sales, partnerships, and capital. A 10-billion-dollar joint venture and a new deployment arm show where the real challenge lies: getting the technology integrated into actual company workflows.",
+      "source": "The Decoder",
+      "published": "2026-03-16T19:12:10+00:00",
+      "link": "https://the-decoder.com/openais-biggest-problem-may-not-be-building-ai-but-getting-companies-to-actually-use-it-beyond-chatgpt/"
+    },
+    {
+      "title": "Encyclopedia Britannica sues OpenAI for training on nearly 100,000 articles without permission",
+      "summary": "Britannica sues OpenAI for almost 100,000 copied articles. At the same time, courts in Europe are arguing about whether AI models can \"store\" copyrighted works at all - with conflicting results.",
+      "source": "The Decoder",
+      "published": "2026-03-16T18:30:37+00:00",
+      "link": "https://the-decoder.com/encyclopedia-britannica-sues-openai-for-training-on-nearly-100000-articles-without-permission/"
+    },
+    {
+      "title": "How to watch Jensen Huang’s Nvidia GTC 2026 keynote — and what to expect",
+      "summary": "GTC is Nvidia's flagship annual event, where the chipmaker typically announces new products, partnerships, and its vision for the future of computing. Huang's keynote will focus on Nvidia's role in the future of computing and AI.",
+      "source": "TechCrunch",
+      "published": "2026-03-16T17:51:46+00:00",
+      "link": "https://techcrunch.com/2026/03/16/nvidia-gtc-how-to-watch-jensen-huang-2026-keynote/"
+    },
+    {
+      "title": "Another deep tech chip startup becomes a unicorn: Frore hits $1.64B",
+      "summary": "At Nvidia CEO Jensen Huang's urging, Frore developed liquid-cooling tech for chips. That shift helped it raise $143 million.",
+      "source": "TechCrunch",
+      "published": "2026-03-16T17:47:32+00:00",
+      "link": "https://techcrunch.com/2026/03/16/another-deep-tech-chip-startup-becomes-a-unicorn-frore-hits-1-64b/"
+    },
+    {
+      "title": "Fuse raises $25M to disrupt aging loan origination systems used by US credit unions",
+      "summary": "The startup also announced a $5 million \"rescue fund\" to help credit unions ditch legacy software for its AI-native platform.",
+      "source": "TechCrunch",
+      "published": "2026-03-16T17:43:27+00:00",
+      "link": "https://techcrunch.com/2026/03/16/fuse-raises-25m-to-disrupt-aging-loan-origination-systems-used-by-u-s-credit-unions/"
+    },
+    {
+      "title": "The dictionary sues OpenAI",
+      "summary": "Encyclopedia Britannica and Merriam-Webster say that OpenAI violated the copyright of almost 100,000 articles by using them for LLM training.",
+      "source": "TechCrunch",
+      "published": "2026-03-16T17:38:34+00:00",
+      "link": "https://techcrunch.com/2026/03/16/merriam-webster-openai-encyclopedia-brittanica-lawsuit/"
+    },
+    {
+      "title": "Speed at the cost of quality: Study of use of Cursor AI in open source projects",
+      "summary": "Article URL: https://arxiv.org/abs/2511.04427 Comments URL: https://news.ycombinator.com/item?id=47401734 Points: 52 # Comments: 23",
+      "source": "Hacker News",
+      "published": "2026-03-16T17:07:37+00:00",
+      "link": "https://arxiv.org/abs/2511.04427"
+    },
+    {
+      "title": "Where OpenAI’s technology could show up in Iran",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here.",
+      "source": "MIT Tech Review",
+      "published": "2026-03-16T17:06:21+00:00",
+      "link": "https://www.technologyreview.com/2026/03/16/1134315/where-openais-technology-could-show-up-in-iran/"
+    },
+    {
+      "title": "Encyclopedia Britannica is suing OpenAI for allegedly ‘memorizing’ its content with ChatGPT",
+      "summary": "On Friday, Encyclopedia Britannica and dictionary publisher Merriam-Webster filed a lawsuit against OpenAI alleging that it used their copyrighted content to train its AI, then generated responses that were \"substantially similar\" to their content, as previously reported by...",
+      "source": "The Verge",
+      "published": "2026-03-16T17:04:06+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/895372/encyclopedia-britannica-openai-lawsuit"
+    },
     {
       "title": "GPT-4.5 fooled 73 percent of people into thinking it was human by pretending to be dumber",
       "summary": "GPT-4.5 only passed the Turing test after researchers told it to make typos, skip punctuation, and botch basic math. It worked: 73 percent of participants thought it was human.",
@@ -16,18 +93,18 @@ const FEED_DATA = {
       "link": "https://www.artificialintelligence-news.com/news/us-treasury-publishes-ai-risk-governance-guidebook-for-financial-institutions/"
     },
     {
+      "title": "Apideck CLI – An AI-agent interface with much lower context consumption than MCP",
+      "summary": "Article URL: https://www.apideck.com/blog/mcp-server-eating-context-window-cli-alternative Comments URL: https://news.ycombinator.com/item?id=47400261 Points: 88 # Comments: 83",
+      "source": "Hacker News",
+      "published": "2026-03-16T15:25:36+00:00",
+      "link": "https://www.apideck.com/blog/mcp-server-eating-context-window-cli-alternative"
+    },
+    {
       "title": "Yahoo CEO Jim Lanzone on reviving the web’s homepage",
       "summary": "Today, I’m talking with Jim Lanzone, who is the CEO of Yahoo. It’s basically impossible to sum up the Yahoo story, but the short version of it is that a long time ago Yahoo paid Google to run the search box on its website, and basically everything has gone sideways since.",
       "source": "The Verge",
       "published": "2026-03-16T15:00:00+00:00",
       "link": "https://www.theverge.com/podcast/895221/yahoo-jim-lanzone-scout-ai-sports-finance-open-web"
-    },
-    {
-      "title": "How to watch Jensen Huang’s Nvidia GTC 2026 keynote — and what to expect",
-      "summary": "GTC is Nvidia's flagship annual event, where the chipmaker typically announces new products, partnerships, and its vision for the future of computing. Huang's keynote will focus on Nvidia's role in the future of computing and AI.",
-      "source": "TechCrunch",
-      "published": "2026-03-16T14:30:55+00:00",
-      "link": "https://techcrunch.com/2026/03/16/nvidia-gtc-how-to-watch-jensen-huang-2026-keynote/"
     },
     {
       "title": "OpenAI's own wellbeing advisors warned against erotic mode, called it a \"sexy suicide coach\"",
@@ -128,6 +205,13 @@ const FEED_DATA = {
       "link": "https://www.wired.com/story/models-are-applying-to-be-the-face-of-ai-scams/"
     },
     {
+      "title": "Why I may ‘hire’ AI instead of a graduate student",
+      "summary": "Article URL: https://www.science.org/content/article/why-i-may-hire-ai-instead-graduate-student Comments URL: https://news.ycombinator.com/item?id=47396557 Points: 55 # Comments: 62",
+      "source": "Hacker News",
+      "published": "2026-03-16T08:59:13+00:00",
+      "link": "https://www.science.org/content/article/why-i-may-hire-ai-instead-graduate-student"
+    },
+    {
       "title": "Tell HN: AI tools are making me lose interest in CS fundamentals",
       "summary": "With powerful AI coding assistants, I sometimes feel less motivated to study deep computer science topics like distributed systems and algorithms.",
       "source": "Hacker News",
@@ -164,7 +248,7 @@ const FEED_DATA = {
     },
     {
       "title": "LLM Architecture Gallery",
-      "summary": "Article URL: https://sebastianraschka.com/llm-architecture-gallery/ Comments URL: https://news.ycombinator.com/item?id=47388676 Points: 526 # Comments: 39",
+      "summary": "Article URL: https://sebastianraschka.com/llm-architecture-gallery/ Comments URL: https://news.ycombinator.com/item?id=47388676 Points: 541 # Comments: 40",
       "source": "Hacker News",
       "published": "2026-03-15T16:01:09+00:00",
       "link": "https://sebastianraschka.com/llm-architecture-gallery/"
@@ -213,7 +297,7 @@ const FEED_DATA = {
     },
     {
       "title": "The Appalling Stupidity of Spotify's AI DJ",
-      "summary": "Article URL: https://www.charlespetzold.com/blog/2026/02/The-Appalling-Stupidity-of-Spotifys-AI-DJ.html Comments URL: https://news.ycombinator.com/item?id=47385272 Points: 361 # Comments: 292",
+      "summary": "Article URL: https://www.charlespetzold.com/blog/2026/02/The-Appalling-Stupidity-of-Spotifys-AI-DJ.html Comments URL: https://news.ycombinator.com/item?id=47385272 Points: 363 # Comments: 292",
       "source": "Hacker News",
       "published": "2026-03-15T08:04:55+00:00",
       "link": "https://www.charlespetzold.com/blog/2026/02/The-Appalling-Stupidity-of-Spotifys-AI-DJ.html"
@@ -241,7 +325,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI didn't simplify software engineering: It just made bad engineering easier",
-      "summary": "Article URL: https://robenglander.com/writing/ai-did-not-simplify/ Comments URL: https://news.ycombinator.com/item?id=47377262 Points: 128 # Comments: 111",
+      "summary": "Article URL: https://robenglander.com/writing/ai-did-not-simplify/ Comments URL: https://news.ycombinator.com/item?id=47377262 Points: 128 # Comments: 113",
       "source": "Hacker News",
       "published": "2026-03-14T14:49:15+00:00",
       "link": "https://robenglander.com/writing/ai-did-not-simplify/"
@@ -311,7 +395,7 @@ const FEED_DATA = {
     },
     {
       "title": "Meta planning layoffs as AI costs mount",
-      "summary": "Article URL: https://www.reuters.com/business/world-at-work/meta-planning-sweeping-layoffs-ai-costs-mount-2026-03-14/ Comments URL: https://news.ycombinator.com/item?id=47372249 Points: 100 # Comments: 22",
+      "summary": "Article URL: https://www.reuters.com/business/world-at-work/meta-planning-sweeping-layoffs-ai-costs-mount-2026-03-14/ Comments URL: https://news.ycombinator.com/item?id=47372249 Points: 105 # Comments: 22",
       "source": "Hacker News",
       "published": "2026-03-14T01:13:36+00:00",
       "link": "https://www.reuters.com/business/world-at-work/meta-planning-sweeping-layoffs-ai-costs-mount-2026-03-14/"
@@ -381,7 +465,7 @@ const FEED_DATA = {
     },
     {
       "title": "John Carmack about open source and anti-AI activists",
-      "summary": "https://xcancel.com/id_aa_carmack/status/2032460578669691171 Comments URL: https://news.ycombinator.com/item?id=47367463 Points: 370 # Comments: 486",
+      "summary": "https://xcancel.com/id_aa_carmack/status/2032460578669691171 Comments URL: https://news.ycombinator.com/item?id=47367463 Points: 373 # Comments: 487",
       "source": "Hacker News",
       "published": "2026-03-13T17:51:34+00:00",
       "link": "https://twitter.com/id_aa_carmack/status/2032460578669691171"
@@ -458,7 +542,7 @@ const FEED_DATA = {
     },
     {
       "title": "Can I run AI locally?",
-      "summary": "Article URL: https://www.canirun.ai/ Comments URL: https://news.ycombinator.com/item?id=47363754 Points: 1478 # Comments: 348",
+      "summary": "Article URL: https://www.canirun.ai/ Comments URL: https://news.ycombinator.com/item?id=47363754 Points: 1482 # Comments: 347",
       "source": "Hacker News",
       "published": "2026-03-13T12:46:10+00:00",
       "link": "https://www.canirun.ai/"
@@ -563,7 +647,7 @@ const FEED_DATA = {
     },
     {
       "title": "Grief and the AI split",
-      "summary": "Article URL: https://blog.lmorchard.com/2026/03/11/grief-and-the-ai-split/ Comments URL: https://news.ycombinator.com/item?id=47358206 Points: 243 # Comments: 377",
+      "summary": "Article URL: https://blog.lmorchard.com/2026/03/11/grief-and-the-ai-split/ Comments URL: https://news.ycombinator.com/item?id=47358206 Points: 244 # Comments: 378",
       "source": "Hacker News",
       "published": "2026-03-12T22:35:08+00:00",
       "link": "https://blog.lmorchard.com/2026/03/11/grief-and-the-ai-split/"
@@ -1316,90 +1400,6 @@ const FEED_DATA = {
       "source": "The Verge",
       "published": "2026-03-10T18:11:43+00:00",
       "link": "https://www.theverge.com/ai-artificial-intelligence/892401/amazon-perplexity-ai-shopping-agent-court-order"
-    },
-    {
-      "title": "ChatGPT now explains math and physics with interactive visualizations",
-      "summary": "ChatGPT now displays interactive visualizations for math and physics topics where users can tweak variables and watch graphs update in real time. More than 70 concepts are available at launch.",
-      "source": "The Decoder",
-      "published": "2026-03-10T18:05:07+00:00",
-      "link": "https://the-decoder.com/chatgpt-now-explains-math-and-physics-with-interactive-visualizations/"
-    },
-    {
-      "title": "ChatGPT can now create interactive visuals to help you understand math and science concepts",
-      "summary": "Instead of just reading an explanation or looking at a static diagram, users can now engage directly with interactive visuals.",
-      "source": "TechCrunch",
-      "published": "2026-03-10T17:51:25+00:00",
-      "link": "https://techcrunch.com/2026/03/10/chatgpt-can-now-create-interactive-visuals-to-help-you-understand-math-and-science-concepts/"
-    },
-    {
-      "title": "ABB: Physical AI simulation boosts ROI for factory automation",
-      "summary": "A new ABB and NVIDIA partnership shows physical AI simulation is driving real ROI in factory automation and solving production hurdles. Manufacturers have often found it difficult to make intelligent robotics work reliably outside testing environments.",
-      "source": "AI News",
-      "published": "2026-03-10T17:22:41+00:00",
-      "link": "https://www.artificialintelligence-news.com/news/abb-physical-ai-simulation-secures-factory-automation-roi/"
-    },
-    {
-      "title": "Launch HN: RunAnywhere (YC W26) – Faster AI Inference on Apple Silicon",
-      "summary": "Hi HN, we're Sanchit and Shubham (YC W26). We built a fast inference engine for Apple Silicon.",
-      "source": "Hacker News",
-      "published": "2026-03-10T17:14:52+00:00",
-      "link": "https://github.com/RunanywhereAI/rcli"
-    },
-    {
-      "title": "German court says \"It's AI\" isn't enough to void copyright",
-      "summary": "A German regional court has ruled that song lyrics written by a human are still protected by copyright, even if the music was made with AI tools like SunoAI. Simply claiming a work is AI-generated isn't enough to strip that protection, you need proof.",
-      "source": "The Decoder",
-      "published": "2026-03-10T17:12:57+00:00",
-      "link": "https://the-decoder.com/german-court-says-its-ai-isnt-enough-to-void-copyright/"
-    },
-    {
-      "title": "Fake AI Content About the Iran War Is All Over X",
-      "summary": "X’s Grok is failing to accurately verify video footage from the Iran conflict and is sharing its own AI-generated images about the war.",
-      "source": "Wired",
-      "published": "2026-03-10T16:45:47+00:00",
-      "link": "https://www.wired.com/story/fake-ai-content-about-the-iran-war-is-all-over-x/"
-    },
-    {
-      "title": "Amazon makes senior engineers the human filter for AI-generated code after a series of outages",
-      "summary": "Following a series of allegedly AI-caused outages, Amazon is turning its senior engineers into human filters for AI-generated code. The article Amazon makes senior engineers the human filter for AI-generated code after a series of outages appeared first on The Decoder.",
-      "source": "The Decoder",
-      "published": "2026-03-10T16:10:12+00:00",
-      "link": "https://the-decoder.com/amazon-makes-senior-engineers-the-human-filter-for-ai-generated-code-after-a-series-of-outages/"
-    },
-    {
-      "title": "AgentMail raises $6M to build an email service for AI agents",
-      "summary": "AgentMail provides an API platform that lets you give AI agents their own email inboxes, with support for two-way conversations, parsing, threading, labeling, searching, and replying.",
-      "source": "TechCrunch",
-      "published": "2026-03-10T16:00:00+00:00",
-      "link": "https://techcrunch.com/2026/03/10/agentmail-raises-6m-to-build-an-email-service-for-ai-agents/"
-    },
-    {
-      "title": "Grammarly will keep using authors’ identities without permission unless they opt out",
-      "summary": "Last week, my colleagues discovered that Superhuman's Grammarly had turned me into an AI editor, using my real name, without ever asking my permission.",
-      "source": "The Verge",
-      "published": "2026-03-10T15:54:42+00:00",
-      "link": "https://www.theverge.com/tech/891822/grammarly-superhuman-expert-review-names-without-permission-opt-out-email"
-    },
-    {
-      "title": "Meta acquires Moltbook, the Reddit-like network for AI agents",
-      "summary": "Meta is acquiring Moltbook, a Reddit-like platform where AI agents can make and comment on posts, as first reported by Axios.",
-      "source": "The Verge",
-      "published": "2026-03-10T15:22:17+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/892178/meta-moltbook-acquisition-ai-agents"
-    },
-    {
-      "title": "Nvidia and Mira Murati's Thinking Machines Lab announce long-term AI partnership",
-      "summary": "Nvidia and Thinking Machines Lab, the AI startup founded by former OpenAI executive Mira Murati, are entering a long-term partnership. The article Nvidia and Mira Murati's Thinking Machines Lab announce long-term AI partnership appeared first on The Decoder.",
-      "source": "The Decoder",
-      "published": "2026-03-10T15:14:17+00:00",
-      "link": "https://the-decoder.com/nvidia-and-mira-muratis-thinking-machines-lab-announce-long-term-ai-partnership/"
-    },
-    {
-      "title": "Thinking Machines Lab inks massive compute deal with Nvidia",
-      "summary": "The multi-year deal involves at least a gigawatt of compute power and also includes a strategic investment from Nvidia.",
-      "source": "TechCrunch",
-      "published": "2026-03-10T15:08:39+00:00",
-      "link": "https://techcrunch.com/2026/03/10/thinking-machines-lab-inks-massive-compute-deal-with-nvidia/"
     }
   ]
 };
