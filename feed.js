@@ -1,6 +1,34 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-03-17T08:00:42.954355+00:00",
+  "lastUpdated": "2026-03-17T11:33:21.846162+00:00",
   "items": [
+    {
+      "title": "How Invisalign Became the World’s Biggest User of 3D Printers",
+      "summary": "Joe Hogan, Align Technology’s plastics-nerd CEO, says you shouldn’t eat with your aligners and that you don’t need to wear your retainers every night.",
+      "source": "Wired",
+      "published": "2026-03-17T11:00:00+00:00",
+      "link": "https://www.wired.com/story/how-invisalign-became-the-worlds-biggest-3d-printing-company/"
+    },
+    {
+      "title": "Sears Exposed AI Chatbot Phone Calls and Text Chats to Anyone on the Web",
+      "summary": "Customer conversations with chatbots can include contact information and personal details that make it easier for scammers to launch phishing attacks and commit fraud.",
+      "source": "Wired",
+      "published": "2026-03-17T10:00:00+00:00",
+      "link": "https://www.wired.com/story/sears-exposed-ai-chatbot-phone-calls-and-text-chats-to-anyone-on-the-web/"
+    },
+    {
+      "title": "Goldman Sachs sees AI investment shift to data centres",
+      "summary": "Artificial intelligence investment is entering a more selective phase as companies and investors look beyond early excitement and focus on the data centre infrastructure required to run AI systems.",
+      "source": "AI News",
+      "published": "2026-03-17T10:00:00+00:00",
+      "link": "https://www.artificialintelligence-news.com/news/goldman-sachs-sees-ai-investment-shift-to-data-centres/"
+    },
+    {
+      "title": "Mistral's new Small 4 model punches above its weight with 128 expert modules",
+      "summary": "Mistral AI has released Mistral Small 4, combining fast text responses, logical reasoning, and image processing in one model. The article Mistral's new Small 4 model punches above its weight with 128 expert modules appeared first on The Decoder.",
+      "source": "The Decoder",
+      "published": "2026-03-17T09:56:01+00:00",
+      "link": "https://the-decoder.com/mistrals-new-small-4-model-punches-above-its-weight-with-128-expert-modules/"
+    },
     {
       "title": "Picsart now allows creators to ‘hire’ AI assistants through agent marketplace",
       "summary": "Picsart's AI agent marketplace will launch with four agents, then add more agents each week.",
@@ -73,7 +101,7 @@ const FEED_DATA = {
     },
     {
       "title": "Nvidia Launches Vera CPU, Purpose-Built for Agentic AI",
-      "summary": "Article URL: https://nvidianews.nvidia.com/news/nvidia-launches-vera-cpu-purpose-built-for-agentic-ai Comments URL: https://news.ycombinator.com/item?id=47404074 Points: 155 # Comments: 88",
+      "summary": "Article URL: https://nvidianews.nvidia.com/news/nvidia-launches-vera-cpu-purpose-built-for-agentic-ai Comments URL: https://news.ycombinator.com/item?id=47404074 Points: 159 # Comments: 92",
       "source": "Hacker News",
       "published": "2026-03-16T20:01:02+00:00",
       "link": "https://nvidianews.nvidia.com/news/nvidia-launches-vera-cpu-purpose-built-for-agentic-ai"
@@ -136,7 +164,7 @@ const FEED_DATA = {
     },
     {
       "title": "Speed at the cost of quality: Study of use of Cursor AI in open source projects (2025)",
-      "summary": "Article URL: https://arxiv.org/abs/2511.04427 Comments URL: https://news.ycombinator.com/item?id=47401734 Points: 106 # Comments: 58",
+      "summary": "Article URL: https://arxiv.org/abs/2511.04427 Comments URL: https://news.ycombinator.com/item?id=47401734 Points: 118 # Comments: 67",
       "source": "Hacker News",
       "published": "2026-03-16T17:07:37+00:00",
       "link": "https://arxiv.org/abs/2511.04427"
@@ -178,7 +206,7 @@ const FEED_DATA = {
     },
     {
       "title": "Apideck CLI – An AI-agent interface with much lower context consumption than MCP",
-      "summary": "Article URL: https://www.apideck.com/blog/mcp-server-eating-context-window-cli-alternative Comments URL: https://news.ycombinator.com/item?id=47400261 Points: 128 # Comments: 108",
+      "summary": "Article URL: https://www.apideck.com/blog/mcp-server-eating-context-window-cli-alternative Comments URL: https://news.ycombinator.com/item?id=47400261 Points: 130 # Comments: 110",
       "source": "Hacker News",
       "published": "2026-03-16T15:25:36+00:00",
       "link": "https://www.apideck.com/blog/mcp-server-eating-context-window-cli-alternative"
@@ -290,7 +318,7 @@ const FEED_DATA = {
     },
     {
       "title": "Why I may ‘hire’ AI instead of a graduate student",
-      "summary": "Article URL: https://www.science.org/content/article/why-i-may-hire-ai-instead-graduate-student Comments URL: https://news.ycombinator.com/item?id=47396557 Points: 82 # Comments: 91",
+      "summary": "Article URL: https://www.science.org/content/article/why-i-may-hire-ai-instead-graduate-student Comments URL: https://news.ycombinator.com/item?id=47396557 Points: 89 # Comments: 98",
       "source": "Hacker News",
       "published": "2026-03-16T08:59:13+00:00",
       "link": "https://www.science.org/content/article/why-i-may-hire-ai-instead-graduate-student"
@@ -332,7 +360,7 @@ const FEED_DATA = {
     },
     {
       "title": "LLM Architecture Gallery",
-      "summary": "Article URL: https://sebastianraschka.com/llm-architecture-gallery/ Comments URL: https://news.ycombinator.com/item?id=47388676 Points: 560 # Comments: 42",
+      "summary": "Article URL: https://sebastianraschka.com/llm-architecture-gallery/ Comments URL: https://news.ycombinator.com/item?id=47388676 Points: 563 # Comments: 42",
       "source": "Hacker News",
       "published": "2026-03-15T16:01:09+00:00",
       "link": "https://sebastianraschka.com/llm-architecture-gallery/"
@@ -626,7 +654,7 @@ const FEED_DATA = {
     },
     {
       "title": "Can I run AI locally?",
-      "summary": "Article URL: https://www.canirun.ai/ Comments URL: https://news.ycombinator.com/item?id=47363754 Points: 1491 # Comments: 350",
+      "summary": "Article URL: https://www.canirun.ai/ Comments URL: https://news.ycombinator.com/item?id=47363754 Points: 1494 # Comments: 350",
       "source": "Hacker News",
       "published": "2026-03-13T12:46:10+00:00",
       "link": "https://www.canirun.ai/"
@@ -1372,34 +1400,6 @@ const FEED_DATA = {
       "source": "Wired",
       "published": "2026-03-11T11:00:00+00:00",
       "link": "https://www.wired.com/story/teens-are-using-ai-fueled-slander-pages-to-mock-their-teachers/"
-    },
-    {
-      "title": "Manulife moves AI agents into core financial workflows",
-      "summary": "Large financial firms have spent years testing artificial intelligence in small projects, often limited to data analysis or customer support tools. The next phase appears to involve something more operational: systems that can take action in business workflows.",
-      "source": "AI News",
-      "published": "2026-03-11T10:00:00+00:00",
-      "link": "https://www.artificialintelligence-news.com/news/manulife-moves-ai-agents-into-core-financial-workflows/"
-    },
-    {
-      "title": "Inside OpenAI’s Race to Catch Up to Claude Code",
-      "summary": "Why is the biggest name in AI late to the AI coding revolution?",
-      "source": "Wired",
-      "published": "2026-03-11T10:00:00+00:00",
-      "link": "https://www.wired.com/story/openai-codex-race-claude-code/"
-    },
-    {
-      "title": "How we hacked McKinsey's AI platform",
-      "summary": "Article URL: https://codewall.ai/blog/how-we-hacked-mckinseys-ai-platform Comments URL: https://news.ycombinator.com/item?id=47333627 Points: 494 # Comments: 195",
-      "source": "Hacker News",
-      "published": "2026-03-11T09:59:03+00:00",
-      "link": "https://codewall.ai/blog/how-we-hacked-mckinseys-ai-platform"
-    },
-    {
-      "title": "AI Agent Hacks McKinsey",
-      "summary": "Article URL: https://codewall.ai/blog/how-we-hacked-mckinseys-ai-platform Comments URL: https://news.ycombinator.com/item?id=47333627 Points: 110 # Comments: 34",
-      "source": "Hacker News",
-      "published": "2026-03-11T09:59:03+00:00",
-      "link": "https://codewall.ai/blog/how-we-hacked-mckinseys-ai-platform"
     }
   ]
 };
