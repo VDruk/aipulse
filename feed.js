@@ -1,6 +1,48 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-03-17T16:44:44.406543+00:00",
+  "lastUpdated": "2026-03-17T19:56:37.852886+00:00",
   "items": [
+    {
+      "title": "OpenAI ships GPT-5.4 mini and nano, faster and more capable but up to 4x pricier",
+      "summary": "OpenAI has released two new compact models—GPT-5.4 mini and nano—built for coding assistants, subagents, and computer control. GPT-5.4 mini nearly matches the full model's performance, but both new models come with a steep price hike over their predecessors.",
+      "source": "The Decoder",
+      "published": "2026-03-17T19:17:37+00:00",
+      "link": "https://the-decoder.com/openai-ships-gpt-5-4-mini-and-nano-faster-and-more-capable-but-up-to-4x-pricier/"
+    },
+    {
+      "title": "Microsoft restructures AI division to chase superintelligence after Nadella once called AI models a commodity",
+      "summary": "Microsoft is restructuring its AI division to double down on its own AI models, all the way up to superintelligence. That's a notable shift from what the company used to say.",
+      "source": "The Decoder",
+      "published": "2026-03-17T18:26:51+00:00",
+      "link": "https://the-decoder.com/microsoft-restructures-ai-division-to-chase-superintelligence-after-nadella-once-called-ai-models-a-commodity/"
+    },
+    {
+      "title": "The Pentagon is developing alternatives to Anthropic, report says",
+      "summary": "After their dramatic falling-out, it doesn't seem as though Anthropic and the Pentagon are getting back together.",
+      "source": "TechCrunch",
+      "published": "2026-03-17T18:20:15+00:00",
+      "link": "https://techcrunch.com/2026/03/17/the-pentagon-is-developing-alternatives-to-anthropic-report-says/"
+    },
+    {
+      "title": "Nvidia’s DLSS 5 is like motion smoothing for video games, but worse",
+      "summary": "Yesterday Nvidia revealed its latest upscaling tech called DLSS 5, which it described as \"the company's most significant breakthrough in computer graphics since the debut of real-time ray tracing in 2018.\" Sounds good, until you actually see it.",
+      "source": "The Verge",
+      "published": "2026-03-17T18:00:00+00:00",
+      "link": "https://www.theverge.com/entertainment/896213/nvidia-dlss-5-ai-faces-motion-smoothing"
+    },
+    {
+      "title": "BuzzFeed debuts AI slop apps in bid for new revenue",
+      "summary": "BuzzFeed unveiled new AI-powered social apps at SXSW, but its demos drew muted reactions.",
+      "source": "TechCrunch",
+      "published": "2026-03-17T17:17:15+00:00",
+      "link": "https://techcrunch.com/2026/03/17/buzzfeed-ai-slop-apps-sxsw-bf-island-conjure/"
+    },
+    {
+      "title": "GPT‑5.4 Mini and Nano",
+      "summary": "Article URL: https://openai.com/index/introducing-gpt-5-4-mini-and-nano Comments URL: https://news.ycombinator.com/item?id=47415441 Points: 126 # Comments: 74",
+      "source": "Hacker News",
+      "published": "2026-03-17T17:07:06+00:00",
+      "link": "https://openai.com/index/introducing-gpt-5-4-mini-and-nano"
+    },
     {
       "title": "Now everyone in the US is getting Google’s personalized Gemini AI",
       "summary": "Google announced on Tuesday that all users in the US will now have access to its Personal Intelligence feature, which lets you connect various Google apps to provide context for Gemini's responses and suggestions.",
@@ -58,6 +100,20 @@ const FEED_DATA = {
       "link": "https://the-decoder.com/gtc-2026-with-groq-3-lpx-nvidia-adds-dedicated-inference-hardware-to-its-platform-for-the-first-time/"
     },
     {
+      "title": "Niv-AI exits stealth to wring more power performance out of GPUs",
+      "summary": "The company raised $12 million in seed funding to measure and manage GPU power surges.",
+      "source": "TechCrunch",
+      "published": "2026-03-17T13:00:00+00:00",
+      "link": "https://techcrunch.com/2026/03/17/niv-ai-exits-stealth-to-wring-more-power-performance-out-of-gpus/"
+    },
+    {
+      "title": "Gamma adds AI image-generation tools in bid to take on Canva and Adobe",
+      "summary": "The company's new product, called Gamma Imagine, will let users employ text prompts to create brand-specific assets like interactive charts and visualizations, marketing collateral, social graphics, and infographics.",
+      "source": "TechCrunch",
+      "published": "2026-03-17T13:00:00+00:00",
+      "link": "https://techcrunch.com/2026/03/17/gamma-adds-ai-image-generation-tools-in-bid-to-take-on-canva-and-adobe/"
+    },
+    {
       "title": "Gamma adds AI image generation tools in bid to take on Canva and Adobe",
       "summary": "The company's new product, called Gamma Imagine, will let users employ text prompts to create brand-specific assets like interactive charts and visualizations, marketing collateral, social graphics, and infographics.",
       "source": "TechCrunch",
@@ -65,11 +121,11 @@ const FEED_DATA = {
       "link": "https://techcrunch.com/2026/03/17/gamma-adds-ai-image-generation-tools-in-bid-to-take-on-canva-and-adobe/"
     },
     {
-      "title": "Niv-AI exits stealth to wring more power performance out of GPUs",
-      "summary": "The company raised $12 million in seed funding to measure and manage GPU power surges.",
-      "source": "TechCrunch",
-      "published": "2026-03-17T13:00:00+00:00",
-      "link": "https://techcrunch.com/2026/03/17/niv-ai-exits-stealth-to-wring-more-power-performance-out-of-gpus/"
+      "title": "Show HN: March Madness Bracket Challenge for AI Agents Only",
+      "summary": "I built a March Madness bracket challenge for AI agents, not humans. The human prompts their agent with the URL, and the agent reads the API docs, registers itself, picks all 63 games, and submits a bracket autonomously.",
+      "source": "Hacker News",
+      "published": "2026-03-17T12:56:24+00:00",
+      "link": "https://www.Bracketmadness.ai"
     },
     {
       "title": "The Download: OpenAI’s US military deal, and Grok’s CSAM lawsuit",
@@ -129,7 +185,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI still doesn't work well, businesses are faking it, and a reckoning is coming",
-      "summary": "Article URL: https://www.theregister.com/2026/03/17/ai_businesses_faking_it_reckoning_coming_codestrap/ Comments URL: https://news.ycombinator.com/item?id=47407252 Points: 55 # Comments: 16",
+      "summary": "Article URL: https://www.theregister.com/2026/03/17/ai_businesses_faking_it_reckoning_coming_codestrap/ Comments URL: https://news.ycombinator.com/item?id=47407252 Points: 58 # Comments: 17",
       "source": "Hacker News",
       "published": "2026-03-17T00:56:47+00:00",
       "link": "https://www.theregister.com/2026/03/17/ai_businesses_faking_it_reckoning_coming_codestrap/"
@@ -199,7 +255,7 @@ const FEED_DATA = {
     },
     {
       "title": "Nvidia Launches Vera CPU, Purpose-Built for Agentic AI",
-      "summary": "Article URL: https://nvidianews.nvidia.com/news/nvidia-launches-vera-cpu-purpose-built-for-agentic-ai Comments URL: https://news.ycombinator.com/item?id=47404074 Points: 164 # Comments: 98",
+      "summary": "Article URL: https://nvidianews.nvidia.com/news/nvidia-launches-vera-cpu-purpose-built-for-agentic-ai Comments URL: https://news.ycombinator.com/item?id=47404074 Points: 169 # Comments: 99",
       "source": "Hacker News",
       "published": "2026-03-16T20:01:02+00:00",
       "link": "https://nvidianews.nvidia.com/news/nvidia-launches-vera-cpu-purpose-built-for-agentic-ai"
@@ -262,7 +318,7 @@ const FEED_DATA = {
     },
     {
       "title": "Speed at the cost of quality: Study of use of Cursor AI in open source projects (2025)",
-      "summary": "Article URL: https://arxiv.org/abs/2511.04427 Comments URL: https://news.ycombinator.com/item?id=47401734 Points: 133 # Comments: 72",
+      "summary": "Article URL: https://arxiv.org/abs/2511.04427 Comments URL: https://news.ycombinator.com/item?id=47401734 Points: 136 # Comments: 78",
       "source": "Hacker News",
       "published": "2026-03-16T17:07:37+00:00",
       "link": "https://arxiv.org/abs/2511.04427"
@@ -304,7 +360,7 @@ const FEED_DATA = {
     },
     {
       "title": "Apideck CLI – An AI-agent interface with much lower context consumption than MCP",
-      "summary": "Article URL: https://www.apideck.com/blog/mcp-server-eating-context-window-cli-alternative Comments URL: https://news.ycombinator.com/item?id=47400261 Points: 132 # Comments: 113",
+      "summary": "Article URL: https://www.apideck.com/blog/mcp-server-eating-context-window-cli-alternative Comments URL: https://news.ycombinator.com/item?id=47400261 Points: 132 # Comments: 120",
       "source": "Hacker News",
       "published": "2026-03-16T15:25:36+00:00",
       "link": "https://www.apideck.com/blog/mcp-server-eating-context-window-cli-alternative"
@@ -416,7 +472,7 @@ const FEED_DATA = {
     },
     {
       "title": "Why I may ‘hire’ AI instead of a graduate student",
-      "summary": "Article URL: https://www.science.org/content/article/why-i-may-hire-ai-instead-graduate-student Comments URL: https://news.ycombinator.com/item?id=47396557 Points: 99 # Comments: 105",
+      "summary": "Article URL: https://www.science.org/content/article/why-i-may-hire-ai-instead-graduate-student Comments URL: https://news.ycombinator.com/item?id=47396557 Points: 100 # Comments: 105",
       "source": "Hacker News",
       "published": "2026-03-16T08:59:13+00:00",
       "link": "https://www.science.org/content/article/why-i-may-hire-ai-instead-graduate-student"
@@ -507,7 +563,7 @@ const FEED_DATA = {
     },
     {
       "title": "The Appalling Stupidity of Spotify's AI DJ",
-      "summary": "Article URL: https://www.charlespetzold.com/blog/2026/02/The-Appalling-Stupidity-of-Spotifys-AI-DJ.html Comments URL: https://news.ycombinator.com/item?id=47385272 Points: 365 # Comments: 292",
+      "summary": "Article URL: https://www.charlespetzold.com/blog/2026/02/The-Appalling-Stupidity-of-Spotifys-AI-DJ.html Comments URL: https://news.ycombinator.com/item?id=47385272 Points: 367 # Comments: 292",
       "source": "Hacker News",
       "published": "2026-03-15T08:04:55+00:00",
       "link": "https://www.charlespetzold.com/blog/2026/02/The-Appalling-Stupidity-of-Spotifys-AI-DJ.html"
@@ -675,7 +731,7 @@ const FEED_DATA = {
     },
     {
       "title": "John Carmack about open source and anti-AI activists",
-      "summary": "https://xcancel.com/id_aa_carmack/status/2032460578669691171 Comments URL: https://news.ycombinator.com/item?id=47367463 Points: 374 # Comments: 489",
+      "summary": "https://xcancel.com/id_aa_carmack/status/2032460578669691171 Comments URL: https://news.ycombinator.com/item?id=47367463 Points: 374 # Comments: 488",
       "source": "Hacker News",
       "published": "2026-03-13T17:51:34+00:00",
       "link": "https://twitter.com/id_aa_carmack/status/2032460578669691171"
@@ -1344,62 +1400,6 @@ const FEED_DATA = {
       "source": "The Verge",
       "published": "2026-03-11T16:50:45+00:00",
       "link": "https://www.theverge.com/ai-artificial-intelligence/893189/openai-chatgpt-sora-integration"
-    },
-    {
-      "title": "WordPress debuts a private workspace that runs in your browser via a new service, my.WordPress.net",
-      "summary": "WordPress’s new browser-based service lets users create private sites without hosting or signing up, turning the platform into a personal workspace for writing, research, and AI tools.",
-      "source": "TechCrunch",
-      "published": "2026-03-11T16:43:59+00:00",
-      "link": "https://techcrunch.com/2026/03/11/wordpress-debuts-a-private-workspace-that-runs-in-your-browser-via-a-new-service-my-wordpress-net/"
-    },
-    {
-      "title": "Grammarly's AI writing tips claim inspiration from experts who never agreed to participate",
-      "summary": "Grammarly is apparently using the names of journalists and authors without permission for an AI feature called \"Expert Review.\" The article Grammarly's AI writing tips claim inspiration from experts who never agreed to participate appeared first on The Decoder.",
-      "source": "The Decoder",
-      "published": "2026-03-11T16:40:01+00:00",
-      "link": "https://the-decoder.com/grammarlys-ai-writing-tips-claim-inspiration-from-experts-who-never-agreed-to-participate/"
-    },
-    {
-      "title": "Rivian spin-out Mind Robotics raises $500M for industrial AI-powered robots",
-      "summary": "The startup, which was created by Rivian founder RJ Scaringe, is looking to train on data from, and deploy in, Rivian's factory.",
-      "source": "TechCrunch",
-      "published": "2026-03-11T16:12:02+00:00",
-      "link": "https://techcrunch.com/2026/03/11/rivian-mind-robotics-series-a-500m-fund-raise-industrial-ai-powered-robots/"
-    },
-    {
-      "title": "OpenAI's new training dataset teaches AI models which instructions to trust",
-      "summary": "OpenAI has released IH-Challenge, a training dataset designed to teach AI models to reliably prioritize trusted instructions over untrusted ones. Early results show significant improvements in both security and prompt injection defense.",
-      "source": "The Decoder",
-      "published": "2026-03-11T15:31:28+00:00",
-      "link": "https://the-decoder.com/openais-new-training-dataset-teaches-ai-models-which-instructions-to-trust/"
-    },
-    {
-      "title": "Anthropic launches internal think tank to study AI's impact on society and security",
-      "summary": "Anthropic has launched the \"Anthropic Institute,\" an internal think tank dedicated to studying how powerful AI affects society, the economy, and security.",
-      "source": "The Decoder",
-      "published": "2026-03-11T15:26:15+00:00",
-      "link": "https://the-decoder.com/anthropic-launches-internal-think-tank-to-study-ais-impact-on-society-and-security/"
-    },
-    {
-      "title": "An AI agent hacked McKinsey's internal AI platform in two hours using a decades-old technique",
-      "summary": "Security firm Codewall turned an offensive AI agent loose on McKinsey's internal AI platform Lilli, a system used by over 43,000 employees for strategy work, client research, and document analysis. No credentials, no insider knowledge, no human assistance.",
-      "source": "The Decoder",
-      "published": "2026-03-11T15:21:29+00:00",
-      "link": "https://the-decoder.com/an-ai-agent-hacked-mckinseys-internal-ai-platform-in-two-hours-using-a-decades-old-technique/"
-    },
-    {
-      "title": "Meta’s Moltbook deal points to a future built around AI agents",
-      "summary": "Meta’s Moltbook acquisition may look odd at first, but the deal could signal how Meta sees AI agents shaping future advertising and commerce on an agentic web.",
-      "source": "TechCrunch",
-      "published": "2026-03-11T15:11:31+00:00",
-      "link": "https://techcrunch.com/2026/03/11/metas-moltbook-deal-points-to-a-future-built-around-ai-agents/"
-    },
-    {
-      "title": "Meta didn’t buy Moltbook for bots — it bought into the agentic web",
-      "summary": "Meta’s Moltbook acquisition may look odd at first, but the deal could signal how Meta sees AI agents shaping future advertising and commerce on an agentic web.",
-      "source": "TechCrunch",
-      "published": "2026-03-11T15:11:31+00:00",
-      "link": "https://techcrunch.com/2026/03/11/meta-didnt-buy-moltbook-for-bots-it-bought-into-the-agentic-web/"
     }
   ]
 };
