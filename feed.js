@@ -1,6 +1,20 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-03-17T19:56:37.852886+00:00",
+  "lastUpdated": "2026-03-17T22:05:24.180541+00:00",
   "items": [
+    {
+      "title": "Mistral bets on ‘build-your-own AI’ as it takes on OpenAI, Anthropic in the enterprise",
+      "summary": "Mistral Forge lets enterprises train custom AI models from scratch on their own data, challenging rivals that rely on fine-tuning and retrieval-based approaches.",
+      "source": "TechCrunch",
+      "published": "2026-03-17T21:00:00+00:00",
+      "link": "https://techcrunch.com/2026/03/17/mistral-forge-nvidia-gtc-build-your-own-ai-enterprise/"
+    },
+    {
+      "title": "Why Garry Tan’s Claude Code setup has gotten so much love, and hate",
+      "summary": "Thousands of people are trying Garry Tan's Claude Code setup, which was shared on GitHub. And everyone has an opinion: even Claude, ChatGPT, and Gemini.",
+      "source": "TechCrunch",
+      "published": "2026-03-17T20:50:04+00:00",
+      "link": "https://techcrunch.com/2026/03/17/why-garry-tans-claude-code-setup-has-gotten-so-much-love-and-hate/"
+    },
     {
       "title": "OpenAI ships GPT-5.4 mini and nano, faster and more capable but up to 4x pricier",
       "summary": "OpenAI has released two new compact models—GPT-5.4 mini and nano—built for coding assistants, subagents, and computer control. GPT-5.4 mini nearly matches the full model's performance, but both new models come with a steep price hike over their predecessors.",
@@ -24,7 +38,7 @@ const FEED_DATA = {
     },
     {
       "title": "Nvidia’s DLSS 5 is like motion smoothing for video games, but worse",
-      "summary": "Yesterday Nvidia revealed its latest upscaling tech called DLSS 5, which it described as \"the company's most significant breakthrough in computer graphics since the debut of real-time ray tracing in 2018.\" Sounds good, until you actually see it.",
+      "summary": "Yesterday Nvidia revealed its latest upscaling tech, called DLSS 5, which it described as \"the company's most significant breakthrough in computer graphics since the debut of real-time ray tracing in 2018.\" Sounds good, until you actually see it.",
       "source": "The Verge",
       "published": "2026-03-17T18:00:00+00:00",
       "link": "https://www.theverge.com/entertainment/896213/nvidia-dlss-5-ai-faces-motion-smoothing"
@@ -38,7 +52,7 @@ const FEED_DATA = {
     },
     {
       "title": "GPT‑5.4 Mini and Nano",
-      "summary": "Article URL: https://openai.com/index/introducing-gpt-5-4-mini-and-nano Comments URL: https://news.ycombinator.com/item?id=47415441 Points: 126 # Comments: 74",
+      "summary": "Article URL: https://openai.com/index/introducing-gpt-5-4-mini-and-nano Comments URL: https://news.ycombinator.com/item?id=47415441 Points: 186 # Comments: 110",
       "source": "Hacker News",
       "published": "2026-03-17T17:07:06+00:00",
       "link": "https://openai.com/index/introducing-gpt-5-4-mini-and-nano"
@@ -185,7 +199,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI still doesn't work well, businesses are faking it, and a reckoning is coming",
-      "summary": "Article URL: https://www.theregister.com/2026/03/17/ai_businesses_faking_it_reckoning_coming_codestrap/ Comments URL: https://news.ycombinator.com/item?id=47407252 Points: 58 # Comments: 17",
+      "summary": "Article URL: https://www.theregister.com/2026/03/17/ai_businesses_faking_it_reckoning_coming_codestrap/ Comments URL: https://news.ycombinator.com/item?id=47407252 Points: 62 # Comments: 23",
       "source": "Hacker News",
       "published": "2026-03-17T00:56:47+00:00",
       "link": "https://www.theregister.com/2026/03/17/ai_businesses_faking_it_reckoning_coming_codestrap/"
@@ -255,7 +269,7 @@ const FEED_DATA = {
     },
     {
       "title": "Nvidia Launches Vera CPU, Purpose-Built for Agentic AI",
-      "summary": "Article URL: https://nvidianews.nvidia.com/news/nvidia-launches-vera-cpu-purpose-built-for-agentic-ai Comments URL: https://news.ycombinator.com/item?id=47404074 Points: 169 # Comments: 99",
+      "summary": "Article URL: https://nvidianews.nvidia.com/news/nvidia-launches-vera-cpu-purpose-built-for-agentic-ai Comments URL: https://news.ycombinator.com/item?id=47404074 Points: 169 # Comments: 98",
       "source": "Hacker News",
       "published": "2026-03-16T20:01:02+00:00",
       "link": "https://nvidianews.nvidia.com/news/nvidia-launches-vera-cpu-purpose-built-for-agentic-ai"
@@ -318,7 +332,7 @@ const FEED_DATA = {
     },
     {
       "title": "Speed at the cost of quality: Study of use of Cursor AI in open source projects (2025)",
-      "summary": "Article URL: https://arxiv.org/abs/2511.04427 Comments URL: https://news.ycombinator.com/item?id=47401734 Points: 136 # Comments: 78",
+      "summary": "Article URL: https://arxiv.org/abs/2511.04427 Comments URL: https://news.ycombinator.com/item?id=47401734 Points: 136 # Comments: 77",
       "source": "Hacker News",
       "published": "2026-03-16T17:07:37+00:00",
       "link": "https://arxiv.org/abs/2511.04427"
@@ -360,7 +374,7 @@ const FEED_DATA = {
     },
     {
       "title": "Apideck CLI – An AI-agent interface with much lower context consumption than MCP",
-      "summary": "Article URL: https://www.apideck.com/blog/mcp-server-eating-context-window-cli-alternative Comments URL: https://news.ycombinator.com/item?id=47400261 Points: 132 # Comments: 120",
+      "summary": "Article URL: https://www.apideck.com/blog/mcp-server-eating-context-window-cli-alternative Comments URL: https://news.ycombinator.com/item?id=47400261 Points: 133 # Comments: 120",
       "source": "Hacker News",
       "published": "2026-03-16T15:25:36+00:00",
       "link": "https://www.apideck.com/blog/mcp-server-eating-context-window-cli-alternative"
@@ -450,6 +464,13 @@ const FEED_DATA = {
       "link": "https://www.technologyreview.com/2026/03/16/1134287/securing-digital-assets-against-future-threats/"
     },
     {
+      "title": "Toward automated verification of unreviewed AI-generated code",
+      "summary": "Article URL: https://peterlavigne.com/writing/verifying-ai-generated-code Comments URL: https://news.ycombinator.com/item?id=47397367 Points: 70 # Comments: 58",
+      "source": "Hacker News",
+      "published": "2026-03-16T10:52:33+00:00",
+      "link": "https://peterlavigne.com/writing/verifying-ai-generated-code"
+    },
+    {
       "title": "OpenAI’s Frontier puts AI agents in a fight SaaS can’t afford to lose",
       "summary": "When OpenAI launched Frontier in February, the announcement was described as a platform for enterprise AI agents. What it actually signalled was a challenge to the revenue architecture underpinning the software industry.",
       "source": "AI News",
@@ -514,7 +535,7 @@ const FEED_DATA = {
     },
     {
       "title": "LLM Architecture Gallery",
-      "summary": "Article URL: https://sebastianraschka.com/llm-architecture-gallery/ Comments URL: https://news.ycombinator.com/item?id=47388676 Points: 570 # Comments: 42",
+      "summary": "Article URL: https://sebastianraschka.com/llm-architecture-gallery/ Comments URL: https://news.ycombinator.com/item?id=47388676 Points: 571 # Comments: 42",
       "source": "Hacker News",
       "published": "2026-03-15T16:01:09+00:00",
       "link": "https://sebastianraschka.com/llm-architecture-gallery/"
@@ -563,7 +584,7 @@ const FEED_DATA = {
     },
     {
       "title": "The Appalling Stupidity of Spotify's AI DJ",
-      "summary": "Article URL: https://www.charlespetzold.com/blog/2026/02/The-Appalling-Stupidity-of-Spotifys-AI-DJ.html Comments URL: https://news.ycombinator.com/item?id=47385272 Points: 367 # Comments: 292",
+      "summary": "Article URL: https://www.charlespetzold.com/blog/2026/02/The-Appalling-Stupidity-of-Spotifys-AI-DJ.html Comments URL: https://news.ycombinator.com/item?id=47385272 Points: 368 # Comments: 292",
       "source": "Hacker News",
       "published": "2026-03-15T08:04:55+00:00",
       "link": "https://www.charlespetzold.com/blog/2026/02/The-Appalling-Stupidity-of-Spotifys-AI-DJ.html"
@@ -1379,27 +1400,6 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-03-11T17:49:58+00:00",
       "link": "https://the-decoder.com/half-of-ai-written-code-that-passes-industry-test-would-get-rejected-by-real-developers-new-study-finds/"
-    },
-    {
-      "title": "Claude's Excel and PowerPoint add-ins now share context across apps",
-      "summary": "Anthropic is updating its Claude add-ins for Excel and PowerPoint with shared context, reusable workflows, and broader cloud support. The article Claude's Excel and PowerPoint add-ins now share context across apps appeared first on The Decoder.",
-      "source": "The Decoder",
-      "published": "2026-03-11T17:00:59+00:00",
-      "link": "https://the-decoder.com/claudes-excel-and-powerpoint-add-ins-now-share-context-across-apps/"
-    },
-    {
-      "title": "Ai2: Building physical AI with virtual simulation data",
-      "summary": "Virtual simulation data is driving the development of physical AI across corporate environments, led by initiatives like Ai2’s MolmoBot. Instructing hardware to interact with the real world has historically relied on highly expensive and manually-collected demonstrations.",
-      "source": "AI News",
-      "published": "2026-03-11T16:50:56+00:00",
-      "link": "https://www.artificialintelligence-news.com/news/ai2-building-physical-ai-with-virtual-simulation-data/"
-    },
-    {
-      "title": "OpenAI’s Sora video generator is reportedly coming to ChatGPT",
-      "summary": "OpenAI's Sora video generator could soon become a built-in feature in ChatGPT, as reported by The Information. Sora is currently only available on its website or as a standalone app, which has fallen shy of the popularity of ChatGPT.",
-      "source": "The Verge",
-      "published": "2026-03-11T16:50:45+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/893189/openai-chatgpt-sora-integration"
     }
   ]
 };
