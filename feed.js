@@ -1,6 +1,20 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-03-16T22:06:18.132071+00:00",
+  "lastUpdated": "2026-03-17T05:39:28.338532+00:00",
   "items": [
+    {
+      "title": "Picsart now allows creators to ‘hire’ AI assistants through agent marketplace",
+      "summary": "Picsart's AI agent marketplace will launch with four agents, then add more agents each week.",
+      "source": "TechCrunch",
+      "published": "2026-03-17T04:01:00+00:00",
+      "link": "https://techcrunch.com/2026/03/16/picsart-now-allows-creators-to-hire-ai-assistants-through-agent-marketplace/"
+    },
+    {
+      "title": "Nvidia’s version of OpenClaw could solve its biggest problem: security",
+      "summary": "Nvidia announced an open enterprise AI agent platform, called NemoClaw, that is built off of viral OpenClaw.",
+      "source": "TechCrunch",
+      "published": "2026-03-16T22:45:51+00:00",
+      "link": "https://techcrunch.com/2026/03/16/nvidias-version-of-openclaw-could-solve-its-biggest-problem-security/"
+    },
     {
       "title": "DLSS 5 looks like a real-time generative AI filter for video games",
       "summary": "Nvidia announced DLSS 5 on Monday during its GTC conference, and based on early reactions, it's going to be a divisive update, with some reactions calling it \"slop\" that unacceptably alters artistic intent.",
@@ -14,6 +28,13 @@ const FEED_DATA = {
       "source": "The Verge",
       "published": "2026-03-16T21:44:11+00:00",
       "link": "https://www.theverge.com/ai-artificial-intelligence/895639/xai-grok-teens-lawsuit-grok-ai-elon-musk"
+    },
+    {
+      "title": "Jensen Huang just put Nvidia’s Blackwell and Vera Rubin sales projections into the $1 trillion stratosphere",
+      "summary": "Nvidia CEO Jensen Huang said he expects $1 trillion worth of orders for the chips.",
+      "source": "TechCrunch",
+      "published": "2026-03-16T21:41:37+00:00",
+      "link": "https://techcrunch.com/2026/03/16/jensen-just-put-nvidias-blackwell-and-vera-rubin-sales-projections-into-the-1-trillion-stratosphere/"
     },
     {
       "title": "Jensen just put Nvidia’s Blackwell and Vera Rubin sales projections into the $1 trillion stratosphere",
@@ -52,7 +73,7 @@ const FEED_DATA = {
     },
     {
       "title": "Nvidia Launches Vera CPU, Purpose-Built for Agentic AI",
-      "summary": "Article URL: https://nvidianews.nvidia.com/news/nvidia-launches-vera-cpu-purpose-built-for-agentic-ai Comments URL: https://news.ycombinator.com/item?id=47404074 Points: 73 # Comments: 47",
+      "summary": "Article URL: https://nvidianews.nvidia.com/news/nvidia-launches-vera-cpu-purpose-built-for-agentic-ai Comments URL: https://news.ycombinator.com/item?id=47404074 Points: 146 # Comments: 86",
       "source": "Hacker News",
       "published": "2026-03-16T20:01:02+00:00",
       "link": "https://nvidianews.nvidia.com/news/nvidia-launches-vera-cpu-purpose-built-for-agentic-ai"
@@ -115,7 +136,7 @@ const FEED_DATA = {
     },
     {
       "title": "Speed at the cost of quality: Study of use of Cursor AI in open source projects (2025)",
-      "summary": "Article URL: https://arxiv.org/abs/2511.04427 Comments URL: https://news.ycombinator.com/item?id=47401734 Points: 76 # Comments: 32",
+      "summary": "Article URL: https://arxiv.org/abs/2511.04427 Comments URL: https://news.ycombinator.com/item?id=47401734 Points: 102 # Comments: 56",
       "source": "Hacker News",
       "published": "2026-03-16T17:07:37+00:00",
       "link": "https://arxiv.org/abs/2511.04427"
@@ -157,7 +178,7 @@ const FEED_DATA = {
     },
     {
       "title": "Apideck CLI – An AI-agent interface with much lower context consumption than MCP",
-      "summary": "Article URL: https://www.apideck.com/blog/mcp-server-eating-context-window-cli-alternative Comments URL: https://news.ycombinator.com/item?id=47400261 Points: 102 # Comments: 95",
+      "summary": "Article URL: https://www.apideck.com/blog/mcp-server-eating-context-window-cli-alternative Comments URL: https://news.ycombinator.com/item?id=47400261 Points: 127 # Comments: 107",
       "source": "Hacker News",
       "published": "2026-03-16T15:25:36+00:00",
       "link": "https://www.apideck.com/blog/mcp-server-eating-context-window-cli-alternative"
@@ -269,7 +290,7 @@ const FEED_DATA = {
     },
     {
       "title": "Why I may ‘hire’ AI instead of a graduate student",
-      "summary": "Article URL: https://www.science.org/content/article/why-i-may-hire-ai-instead-graduate-student Comments URL: https://news.ycombinator.com/item?id=47396557 Points: 67 # Comments: 65",
+      "summary": "Article URL: https://www.science.org/content/article/why-i-may-hire-ai-instead-graduate-student Comments URL: https://news.ycombinator.com/item?id=47396557 Points: 78 # Comments: 82",
       "source": "Hacker News",
       "published": "2026-03-16T08:59:13+00:00",
       "link": "https://www.science.org/content/article/why-i-may-hire-ai-instead-graduate-student"
@@ -311,7 +332,7 @@ const FEED_DATA = {
     },
     {
       "title": "LLM Architecture Gallery",
-      "summary": "Article URL: https://sebastianraschka.com/llm-architecture-gallery/ Comments URL: https://news.ycombinator.com/item?id=47388676 Points: 545 # Comments: 40",
+      "summary": "Article URL: https://sebastianraschka.com/llm-architecture-gallery/ Comments URL: https://news.ycombinator.com/item?id=47388676 Points: 556 # Comments: 42",
       "source": "Hacker News",
       "published": "2026-03-15T16:01:09+00:00",
       "link": "https://sebastianraschka.com/llm-architecture-gallery/"
@@ -360,7 +381,7 @@ const FEED_DATA = {
     },
     {
       "title": "The Appalling Stupidity of Spotify's AI DJ",
-      "summary": "Article URL: https://www.charlespetzold.com/blog/2026/02/The-Appalling-Stupidity-of-Spotifys-AI-DJ.html Comments URL: https://news.ycombinator.com/item?id=47385272 Points: 363 # Comments: 292",
+      "summary": "Article URL: https://www.charlespetzold.com/blog/2026/02/The-Appalling-Stupidity-of-Spotifys-AI-DJ.html Comments URL: https://news.ycombinator.com/item?id=47385272 Points: 364 # Comments: 292",
       "source": "Hacker News",
       "published": "2026-03-15T08:04:55+00:00",
       "link": "https://www.charlespetzold.com/blog/2026/02/The-Appalling-Stupidity-of-Spotifys-AI-DJ.html"
@@ -458,7 +479,7 @@ const FEED_DATA = {
     },
     {
       "title": "Meta planning layoffs as AI costs mount",
-      "summary": "Article URL: https://www.reuters.com/business/world-at-work/meta-planning-sweeping-layoffs-ai-costs-mount-2026-03-14/ Comments URL: https://news.ycombinator.com/item?id=47372249 Points: 105 # Comments: 22",
+      "summary": "Article URL: https://www.reuters.com/business/world-at-work/meta-planning-sweeping-layoffs-ai-costs-mount-2026-03-14/ Comments URL: https://news.ycombinator.com/item?id=47372249 Points: 106 # Comments: 22",
       "source": "Hacker News",
       "published": "2026-03-14T01:13:36+00:00",
       "link": "https://www.reuters.com/business/world-at-work/meta-planning-sweeping-layoffs-ai-costs-mount-2026-03-14/"
@@ -528,7 +549,7 @@ const FEED_DATA = {
     },
     {
       "title": "John Carmack about open source and anti-AI activists",
-      "summary": "https://xcancel.com/id_aa_carmack/status/2032460578669691171 Comments URL: https://news.ycombinator.com/item?id=47367463 Points: 373 # Comments: 487",
+      "summary": "https://xcancel.com/id_aa_carmack/status/2032460578669691171 Comments URL: https://news.ycombinator.com/item?id=47367463 Points: 374 # Comments: 488",
       "source": "Hacker News",
       "published": "2026-03-13T17:51:34+00:00",
       "link": "https://twitter.com/id_aa_carmack/status/2032460578669691171"
@@ -605,7 +626,7 @@ const FEED_DATA = {
     },
     {
       "title": "Can I run AI locally?",
-      "summary": "Article URL: https://www.canirun.ai/ Comments URL: https://news.ycombinator.com/item?id=47363754 Points: 1484 # Comments: 347",
+      "summary": "Article URL: https://www.canirun.ai/ Comments URL: https://news.ycombinator.com/item?id=47363754 Points: 1489 # Comments: 350",
       "source": "Hacker News",
       "published": "2026-03-13T12:46:10+00:00",
       "link": "https://www.canirun.ai/"
@@ -1379,27 +1400,6 @@ const FEED_DATA = {
       "source": "Hacker News",
       "published": "2026-03-11T09:59:03+00:00",
       "link": "https://codewall.ai/blog/how-we-hacked-mckinseys-ai-platform"
-    },
-    {
-      "title": "How physical AI integration accelerates vehicle innovation",
-      "summary": "The integration of physical AI into vehicles remains a primary objective for automakers looking to accelerate innovation.",
-      "source": "AI News",
-      "published": "2026-03-11T09:52:15+00:00",
-      "link": "https://www.artificialintelligence-news.com/news/how-physical-ai-integration-accelerates-vehicle-innovation/"
-    },
-    {
-      "title": "Anthropic is launching a new think tank amid Pentagon blacklist fight",
-      "summary": "Amid a weekslong conflict with the Pentagon, resulting in a blacklist and a lawsuit, Anthropic is shaking up its C-suite and research initiatives.",
-      "source": "The Verge",
-      "published": "2026-03-11T09:45:00+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/892478/anthropic-institute-think-tank-claude-pentagon-jack-clark"
-    },
-    {
-      "title": "Google to provide Pentagon with AI agents",
-      "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-03-10/google-to-provide-pentagon-with-ai-agents-for-unclassified-work Comments URL: https://news.ycombinator.com/item?id=47333433 Points: 73 # Comments: 80",
-      "source": "Hacker News",
-      "published": "2026-03-11T09:30:22+00:00",
-      "link": "https://www.bloomberg.com/news/articles/2026-03-10/google-to-provide-pentagon-with-ai-agents-for-unclassified-work"
     }
   ]
 };
