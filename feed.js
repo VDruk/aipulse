@@ -1,5 +1,5 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-03-17T05:39:28.338532+00:00",
+  "lastUpdated": "2026-03-17T08:00:42.954355+00:00",
   "items": [
     {
       "title": "Picsart now allows creators to ‘hire’ AI assistants through agent marketplace",
@@ -73,7 +73,7 @@ const FEED_DATA = {
     },
     {
       "title": "Nvidia Launches Vera CPU, Purpose-Built for Agentic AI",
-      "summary": "Article URL: https://nvidianews.nvidia.com/news/nvidia-launches-vera-cpu-purpose-built-for-agentic-ai Comments URL: https://news.ycombinator.com/item?id=47404074 Points: 146 # Comments: 86",
+      "summary": "Article URL: https://nvidianews.nvidia.com/news/nvidia-launches-vera-cpu-purpose-built-for-agentic-ai Comments URL: https://news.ycombinator.com/item?id=47404074 Points: 155 # Comments: 88",
       "source": "Hacker News",
       "published": "2026-03-16T20:01:02+00:00",
       "link": "https://nvidianews.nvidia.com/news/nvidia-launches-vera-cpu-purpose-built-for-agentic-ai"
@@ -136,7 +136,7 @@ const FEED_DATA = {
     },
     {
       "title": "Speed at the cost of quality: Study of use of Cursor AI in open source projects (2025)",
-      "summary": "Article URL: https://arxiv.org/abs/2511.04427 Comments URL: https://news.ycombinator.com/item?id=47401734 Points: 102 # Comments: 56",
+      "summary": "Article URL: https://arxiv.org/abs/2511.04427 Comments URL: https://news.ycombinator.com/item?id=47401734 Points: 106 # Comments: 58",
       "source": "Hacker News",
       "published": "2026-03-16T17:07:37+00:00",
       "link": "https://arxiv.org/abs/2511.04427"
@@ -178,7 +178,7 @@ const FEED_DATA = {
     },
     {
       "title": "Apideck CLI – An AI-agent interface with much lower context consumption than MCP",
-      "summary": "Article URL: https://www.apideck.com/blog/mcp-server-eating-context-window-cli-alternative Comments URL: https://news.ycombinator.com/item?id=47400261 Points: 127 # Comments: 107",
+      "summary": "Article URL: https://www.apideck.com/blog/mcp-server-eating-context-window-cli-alternative Comments URL: https://news.ycombinator.com/item?id=47400261 Points: 128 # Comments: 108",
       "source": "Hacker News",
       "published": "2026-03-16T15:25:36+00:00",
       "link": "https://www.apideck.com/blog/mcp-server-eating-context-window-cli-alternative"
@@ -290,7 +290,7 @@ const FEED_DATA = {
     },
     {
       "title": "Why I may ‘hire’ AI instead of a graduate student",
-      "summary": "Article URL: https://www.science.org/content/article/why-i-may-hire-ai-instead-graduate-student Comments URL: https://news.ycombinator.com/item?id=47396557 Points: 78 # Comments: 82",
+      "summary": "Article URL: https://www.science.org/content/article/why-i-may-hire-ai-instead-graduate-student Comments URL: https://news.ycombinator.com/item?id=47396557 Points: 82 # Comments: 91",
       "source": "Hacker News",
       "published": "2026-03-16T08:59:13+00:00",
       "link": "https://www.science.org/content/article/why-i-may-hire-ai-instead-graduate-student"
@@ -332,7 +332,7 @@ const FEED_DATA = {
     },
     {
       "title": "LLM Architecture Gallery",
-      "summary": "Article URL: https://sebastianraschka.com/llm-architecture-gallery/ Comments URL: https://news.ycombinator.com/item?id=47388676 Points: 556 # Comments: 42",
+      "summary": "Article URL: https://sebastianraschka.com/llm-architecture-gallery/ Comments URL: https://news.ycombinator.com/item?id=47388676 Points: 560 # Comments: 42",
       "source": "Hacker News",
       "published": "2026-03-15T16:01:09+00:00",
       "link": "https://sebastianraschka.com/llm-architecture-gallery/"
@@ -549,7 +549,7 @@ const FEED_DATA = {
     },
     {
       "title": "John Carmack about open source and anti-AI activists",
-      "summary": "https://xcancel.com/id_aa_carmack/status/2032460578669691171 Comments URL: https://news.ycombinator.com/item?id=47367463 Points: 374 # Comments: 488",
+      "summary": "https://xcancel.com/id_aa_carmack/status/2032460578669691171 Comments URL: https://news.ycombinator.com/item?id=47367463 Points: 374 # Comments: 489",
       "source": "Hacker News",
       "published": "2026-03-13T17:51:34+00:00",
       "link": "https://twitter.com/id_aa_carmack/status/2032460578669691171"
@@ -626,7 +626,7 @@ const FEED_DATA = {
     },
     {
       "title": "Can I run AI locally?",
-      "summary": "Article URL: https://www.canirun.ai/ Comments URL: https://news.ycombinator.com/item?id=47363754 Points: 1489 # Comments: 350",
+      "summary": "Article URL: https://www.canirun.ai/ Comments URL: https://news.ycombinator.com/item?id=47363754 Points: 1491 # Comments: 350",
       "source": "Hacker News",
       "published": "2026-03-13T12:46:10+00:00",
       "link": "https://www.canirun.ai/"
