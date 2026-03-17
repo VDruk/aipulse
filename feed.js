@@ -1,6 +1,97 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-03-17T11:33:21.846162+00:00",
+  "lastUpdated": "2026-03-17T16:44:44.406543+00:00",
   "items": [
+    {
+      "title": "Now everyone in the US is getting Google’s personalized Gemini AI",
+      "summary": "Google announced on Tuesday that all users in the US will now have access to its Personal Intelligence feature, which lets you connect various Google apps to provide context for Gemini's responses and suggestions.",
+      "source": "The Verge",
+      "published": "2026-03-17T16:33:41+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/896107/google-expands-personal-intelligence"
+    },
+    {
+      "title": "Google’s Personal Intelligence feature is expanding to all US users",
+      "summary": "Personal Intelligence allows Google's AI assistant to tap into your Google ecosystem, such as Gmail and Google Photos, to provide more tailored responses.",
+      "source": "TechCrunch",
+      "published": "2026-03-17T16:00:00+00:00",
+      "link": "https://techcrunch.com/2026/03/17/googles-personal-intelligence-feature-is-expanding-to-all-us-users/"
+    },
+    {
+      "title": "OpenAI expands government footprint with AWS deal, report says",
+      "summary": "OpenAI has reportedly signed a partnership with AWS to sell its AI systems to the U.S. government for classified and unclassified work, marking an expansion beyond its Pentagon deal last month.",
+      "source": "TechCrunch",
+      "published": "2026-03-17T15:37:03+00:00",
+      "link": "https://techcrunch.com/2026/03/17/openai-expands-government-footprint-with-aws-deal/"
+    },
+    {
+      "title": "Microsoft appoints a new Copilot boss after AI leadership shake-up",
+      "summary": "Microsoft is doing another executive shuffle today to reorganize how it engineers its Copilot assistant.",
+      "source": "The Verge",
+      "published": "2026-03-17T15:17:27+00:00",
+      "link": "https://www.theverge.com/news/895963/microsoft-copilot-leadership-changes-consumer-commercial"
+    },
+    {
+      "title": "The future of code is exciting and terrifying",
+      "summary": "Suddenly it seems like everyone's a coder. Or, at the very least, like they play one in the Claude Code app.",
+      "source": "The Verge",
+      "published": "2026-03-17T15:16:47+00:00",
+      "link": "https://www.theverge.com/podcast/895910/claude-code-future-developers-vergecast"
+    },
+    {
+      "title": "AI’s ‘boys’ club’ could widen the wealth gap for women, says Rana el Kaliouby",
+      "summary": "AI investor Rana el Kaliouby warns that if women are shut out of AI funding and leadership, the consequences will be grim.",
+      "source": "TechCrunch",
+      "published": "2026-03-17T15:16:21+00:00",
+      "link": "https://techcrunch.com/2026/03/17/ais-boys-club-could-widen-the-wealth-gap-for-women-says-rana-el-kaliouby/"
+    },
+    {
+      "title": "World launches tool to verify humans behind AI shopping agents",
+      "summary": "As AI agents take the reins for online shoppers, Sam Altman's unconventional startup is looking to expand its verification offerings to support agentic commerce.",
+      "source": "TechCrunch",
+      "published": "2026-03-17T15:00:00+00:00",
+      "link": "https://techcrunch.com/2026/03/17/world-launches-tool-to-verify-humans-behind-ai-shopping-agents/"
+    },
+    {
+      "title": "GTC 2026: With Groq 3 LPX, Nvidia adds dedicated inference hardware to its platform for the first time",
+      "summary": "At GTC 2026, Nvidia expanded the Vera Rubin platform it introduced at CES with custom CPU racks, dedicated inference chips, a new storage architecture, an inference operating system, open model alliances, and agent security software.",
+      "source": "The Decoder",
+      "published": "2026-03-17T14:22:24+00:00",
+      "link": "https://the-decoder.com/gtc-2026-with-groq-3-lpx-nvidia-adds-dedicated-inference-hardware-to-its-platform-for-the-first-time/"
+    },
+    {
+      "title": "Gamma adds AI image generation tools in bid to take on Canva and Adobe",
+      "summary": "The company's new product, called Gamma Imagine, will let users employ text prompts to create brand-specific assets like interactive charts and visualizations, marketing collateral, social graphics, and infographics.",
+      "source": "TechCrunch",
+      "published": "2026-03-17T13:00:00+00:00",
+      "link": "https://techcrunch.com/2026/03/17/gamma-adds-ai-image-generation-tools-in-bid-to-take-on-canva-and-adobe/"
+    },
+    {
+      "title": "Niv-AI exits stealth to wring more power performance out of GPUs",
+      "summary": "The company raised $12 million in seed funding to measure and manage GPU power surges.",
+      "source": "TechCrunch",
+      "published": "2026-03-17T13:00:00+00:00",
+      "link": "https://techcrunch.com/2026/03/17/niv-ai-exits-stealth-to-wring-more-power-performance-out-of-gpus/"
+    },
+    {
+      "title": "The Download: OpenAI’s US military deal, and Grok’s CSAM lawsuit",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Where OpenAI’s technology could show up in Iran OpenAI has controversially agreed to give the Pentagon access to its AI.",
+      "source": "MIT Tech Review",
+      "published": "2026-03-17T12:26:48+00:00",
+      "link": "https://www.technologyreview.com/2026/03/17/1134322/the-download-openi-us-military-deal-grok-xai-csam-lawsuit/"
+    },
+    {
+      "title": "Trustpilot partners with AI companies as traditional search declines",
+      "summary": "Trustpilot is reported to be pursuing partnerships with large eCommerce companies as AI-driven shopping gains traction.",
+      "source": "AI News",
+      "published": "2026-03-17T12:26:00+00:00",
+      "link": "https://www.artificialintelligence-news.com/news/ai-in-ecommerce-trustpilot-partnerships-integration-news-trad-search-declines/"
+    },
+    {
+      "title": "OpenAI reportedly ditches its \"side quests\" strategy to focus on coding tools and business customers",
+      "summary": "OpenAI now believes its strategy of shipping as many products as possible at once left the company exposed. A major strategic shift is supposed to get things back on track.",
+      "source": "The Decoder",
+      "published": "2026-03-17T11:40:18+00:00",
+      "link": "https://the-decoder.com/openai-reportedly-ditches-its-side-quests-strategy-to-focus-on-coding-tools-and-business-customers/"
+    },
     {
       "title": "How Invisalign Became the World’s Biggest User of 3D Printers",
       "summary": "Joe Hogan, Align Technology’s plastics-nerd CEO, says you shouldn’t eat with your aligners and that you don’t need to wear your retainers every night.",
@@ -35,6 +126,13 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-03-17T04:01:00+00:00",
       "link": "https://techcrunch.com/2026/03/16/picsart-now-allows-creators-to-hire-ai-assistants-through-agent-marketplace/"
+    },
+    {
+      "title": "AI still doesn't work well, businesses are faking it, and a reckoning is coming",
+      "summary": "Article URL: https://www.theregister.com/2026/03/17/ai_businesses_faking_it_reckoning_coming_codestrap/ Comments URL: https://news.ycombinator.com/item?id=47407252 Points: 55 # Comments: 16",
+      "source": "Hacker News",
+      "published": "2026-03-17T00:56:47+00:00",
+      "link": "https://www.theregister.com/2026/03/17/ai_businesses_faking_it_reckoning_coming_codestrap/"
     },
     {
       "title": "Nvidia’s version of OpenClaw could solve its biggest problem: security",
@@ -101,7 +199,7 @@ const FEED_DATA = {
     },
     {
       "title": "Nvidia Launches Vera CPU, Purpose-Built for Agentic AI",
-      "summary": "Article URL: https://nvidianews.nvidia.com/news/nvidia-launches-vera-cpu-purpose-built-for-agentic-ai Comments URL: https://news.ycombinator.com/item?id=47404074 Points: 159 # Comments: 92",
+      "summary": "Article URL: https://nvidianews.nvidia.com/news/nvidia-launches-vera-cpu-purpose-built-for-agentic-ai Comments URL: https://news.ycombinator.com/item?id=47404074 Points: 164 # Comments: 98",
       "source": "Hacker News",
       "published": "2026-03-16T20:01:02+00:00",
       "link": "https://nvidianews.nvidia.com/news/nvidia-launches-vera-cpu-purpose-built-for-agentic-ai"
@@ -164,7 +262,7 @@ const FEED_DATA = {
     },
     {
       "title": "Speed at the cost of quality: Study of use of Cursor AI in open source projects (2025)",
-      "summary": "Article URL: https://arxiv.org/abs/2511.04427 Comments URL: https://news.ycombinator.com/item?id=47401734 Points: 118 # Comments: 67",
+      "summary": "Article URL: https://arxiv.org/abs/2511.04427 Comments URL: https://news.ycombinator.com/item?id=47401734 Points: 133 # Comments: 72",
       "source": "Hacker News",
       "published": "2026-03-16T17:07:37+00:00",
       "link": "https://arxiv.org/abs/2511.04427"
@@ -206,7 +304,7 @@ const FEED_DATA = {
     },
     {
       "title": "Apideck CLI – An AI-agent interface with much lower context consumption than MCP",
-      "summary": "Article URL: https://www.apideck.com/blog/mcp-server-eating-context-window-cli-alternative Comments URL: https://news.ycombinator.com/item?id=47400261 Points: 130 # Comments: 110",
+      "summary": "Article URL: https://www.apideck.com/blog/mcp-server-eating-context-window-cli-alternative Comments URL: https://news.ycombinator.com/item?id=47400261 Points: 132 # Comments: 113",
       "source": "Hacker News",
       "published": "2026-03-16T15:25:36+00:00",
       "link": "https://www.apideck.com/blog/mcp-server-eating-context-window-cli-alternative"
@@ -318,7 +416,7 @@ const FEED_DATA = {
     },
     {
       "title": "Why I may ‘hire’ AI instead of a graduate student",
-      "summary": "Article URL: https://www.science.org/content/article/why-i-may-hire-ai-instead-graduate-student Comments URL: https://news.ycombinator.com/item?id=47396557 Points: 89 # Comments: 98",
+      "summary": "Article URL: https://www.science.org/content/article/why-i-may-hire-ai-instead-graduate-student Comments URL: https://news.ycombinator.com/item?id=47396557 Points: 99 # Comments: 105",
       "source": "Hacker News",
       "published": "2026-03-16T08:59:13+00:00",
       "link": "https://www.science.org/content/article/why-i-may-hire-ai-instead-graduate-student"
@@ -360,7 +458,7 @@ const FEED_DATA = {
     },
     {
       "title": "LLM Architecture Gallery",
-      "summary": "Article URL: https://sebastianraschka.com/llm-architecture-gallery/ Comments URL: https://news.ycombinator.com/item?id=47388676 Points: 563 # Comments: 42",
+      "summary": "Article URL: https://sebastianraschka.com/llm-architecture-gallery/ Comments URL: https://news.ycombinator.com/item?id=47388676 Points: 570 # Comments: 42",
       "source": "Hacker News",
       "published": "2026-03-15T16:01:09+00:00",
       "link": "https://sebastianraschka.com/llm-architecture-gallery/"
@@ -409,7 +507,7 @@ const FEED_DATA = {
     },
     {
       "title": "The Appalling Stupidity of Spotify's AI DJ",
-      "summary": "Article URL: https://www.charlespetzold.com/blog/2026/02/The-Appalling-Stupidity-of-Spotifys-AI-DJ.html Comments URL: https://news.ycombinator.com/item?id=47385272 Points: 364 # Comments: 292",
+      "summary": "Article URL: https://www.charlespetzold.com/blog/2026/02/The-Appalling-Stupidity-of-Spotifys-AI-DJ.html Comments URL: https://news.ycombinator.com/item?id=47385272 Points: 365 # Comments: 292",
       "source": "Hacker News",
       "published": "2026-03-15T08:04:55+00:00",
       "link": "https://www.charlespetzold.com/blog/2026/02/The-Appalling-Stupidity-of-Spotifys-AI-DJ.html"
@@ -437,7 +535,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI didn't simplify software engineering: It just made bad engineering easier",
-      "summary": "Article URL: https://robenglander.com/writing/ai-did-not-simplify/ Comments URL: https://news.ycombinator.com/item?id=47377262 Points: 128 # Comments: 113",
+      "summary": "Article URL: https://robenglander.com/writing/ai-did-not-simplify/ Comments URL: https://news.ycombinator.com/item?id=47377262 Points: 128 # Comments: 115",
       "source": "Hacker News",
       "published": "2026-03-14T14:49:15+00:00",
       "link": "https://robenglander.com/writing/ai-did-not-simplify/"
@@ -654,7 +752,7 @@ const FEED_DATA = {
     },
     {
       "title": "Can I run AI locally?",
-      "summary": "Article URL: https://www.canirun.ai/ Comments URL: https://news.ycombinator.com/item?id=47363754 Points: 1494 # Comments: 350",
+      "summary": "Article URL: https://www.canirun.ai/ Comments URL: https://news.ycombinator.com/item?id=47363754 Points: 1500 # Comments: 350",
       "source": "Hacker News",
       "published": "2026-03-13T12:46:10+00:00",
       "link": "https://www.canirun.ai/"
@@ -1302,104 +1400,6 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-03-11T15:11:31+00:00",
       "link": "https://techcrunch.com/2026/03/11/meta-didnt-buy-moltbook-for-bots-it-bought-into-the-agentic-web/"
-    },
-    {
-      "title": "Canva’s new editing tool adds layers to AI-generated designs",
-      "summary": "Canva introduced a new feature that separates flat image files and AI-generated visuals into layered, fully editable designs.",
-      "source": "The Verge",
-      "published": "2026-03-11T15:02:02+00:00",
-      "link": "https://www.theverge.com/tech/893124/canva-ai-magic-layers-feature-beta"
-    },
-    {
-      "title": "Amazon expands a program that lets customers shop from other retailers’ sites",
-      "summary": "The changes allow more merchants to participate in Amazon's Shop Direct program, which sends Amazon customers to other retailers' websites.",
-      "source": "TechCrunch",
-      "published": "2026-03-11T14:48:30+00:00",
-      "link": "https://techcrunch.com/2026/03/11/amazon-expands-a-program-that-lets-customers-shop-from-other-retailers-sites/"
-    },
-    {
-      "title": "Show HN: Open-source browser for AI agents",
-      "summary": "Hi HN, I forked chromium and built agent-browser-protocol (ABP) after noticing that most browser-agent failures aren’t really about the model misunderstanding the page.",
-      "source": "Hacker News",
-      "published": "2026-03-11T14:39:30+00:00",
-      "link": "https://github.com/theredsix/agent-browser-protocol"
-    },
-    {
-      "title": "Meta Is Developing 4 New Chips to Power Its AI and Recommendation Systems",
-      "summary": "The MTIA processors are the tech giant’s latest attempt to build its own AI hardware, even as it continues spending billions on gear from industry leaders like Nvidia.",
-      "source": "Wired",
-      "published": "2026-03-11T14:23:05+00:00",
-      "link": "https://www.wired.com/story/meta-unveils-four-new-chips-to-power-its-ai-and-recommendation-systems/"
-    },
-    {
-      "title": "Canopii looks to succeed where past indoor farms have not",
-      "summary": "Canopii's robotic farms can autonomously grow 40,000 pounds of herbs and leafy greens a year while being the size of a basketball court.",
-      "source": "TechCrunch",
-      "published": "2026-03-11T14:00:00+00:00",
-      "link": "https://techcrunch.com/2026/03/11/canopii-looks-to-succeed-where-past-indoor-farms-have-not/"
-    },
-    {
-      "title": "The mysterious case of the DHS white supremacist memelord",
-      "summary": "Hello and welcome to Regulator, a newsletter that takes Verge subscribers into the smoke-filled back rooms of Washington as they become the Zyn-filled back rooms of Washington. (Although Tucker Carlson's ALP is more popular among a certain set.) Not a Verge subscriber yet?",
-      "source": "The Verge",
-      "published": "2026-03-11T13:28:32+00:00",
-      "link": "https://www.theverge.com/column/892985/dhs-white-supremacist-memelord"
-    },
-    {
-      "title": "Chatbots encouraged ‘teens’ to plan shootings in study",
-      "summary": "AI companies have repeatedly promised safeguards to protect younger users, but a new investigation suggests those guardrails remain woefully deficient.",
-      "source": "The Verge",
-      "published": "2026-03-11T13:18:45+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/892978/ai-chatbots-investigation-help-teens-plan-violence"
-    },
-    {
-      "title": "This Digital Picture Frame Wants to Bring People Closer to a Holographic Future",
-      "summary": "Brooklyn-based Looking Glass has been dabbling in 3D screens for nearly a decade. It's finally launching Musubi, an AI-powered holographic frame to bring your photos and videos to life.",
-      "source": "Wired",
-      "published": "2026-03-11T13:00:00+00:00",
-      "link": "https://www.wired.com/story/looking-glass-musubi/"
-    },
-    {
-      "title": "Hustlers are cashing in on China’s OpenClaw AI craze",
-      "summary": "Feng Qingyang had always hoped to launch his own company, but he never thought this would be how—or that the day would come this fast.",
-      "source": "MIT Tech Review",
-      "published": "2026-03-11T12:46:21+00:00",
-      "link": "https://www.technologyreview.com/2026/03/11/1134179/china-openclaw-gold-rush/"
-    },
-    {
-      "title": "The Download: Pokémon Go to train world models, and the US-China race to find aliens",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. How Pokémon Go is giving delivery robots an inch-perfect view of the world Pokémon Go was the world’s first augmented-reality megahit.",
-      "source": "MIT Tech Review",
-      "published": "2026-03-11T12:38:00+00:00",
-      "link": "https://www.technologyreview.com/2026/03/11/1134174/the-download-pokemon-go-train-world-models-us-china-race-find-aliens/"
-    },
-    {
-      "title": "Nick Clegg Doesn’t Want to Talk About Superintelligence",
-      "summary": "After leaving Meta last year, the former deputy prime minister of the UK is charting a new path in the AI industry that has nothing to do with AGI.",
-      "source": "Wired",
-      "published": "2026-03-11T12:00:00+00:00",
-      "link": "https://www.wired.com/story/nick-clegg-ai-startup-efekta-superintelligence/"
-    },
-    {
-      "title": "Microsoft and rival AI researchers unite to back Anthropic in its escalating legal battle against the Pentagon",
-      "summary": "A broad coalition is backing Anthropic in its legal fight with the US Department of Defense: Microsoft, dozens of OpenAI and Google employees, former military leaders, and civil rights organizations have all filed amicus curiae briefs supporting the AI company.",
-      "source": "The Decoder",
-      "published": "2026-03-11T11:43:15+00:00",
-      "link": "https://the-decoder.com/microsoft-and-rival-ai-researchers-unite-to-back-anthropic-in-its-escalating-legal-battle-against-the-pentagon/"
-    },
-    {
-      "title": "New partnership to offer smart robots for dangerous environments",
-      "summary": "ADLINK Technology has signed a strategic alliance and joint development agreement with Under Control Robotics, the company behind the robotics startup Noble Machines.",
-      "source": "AI News",
-      "published": "2026-03-11T11:42:00+00:00",
-      "link": "https://www.artificialintelligence-news.com/news/new-partnership-to-offer-ai-for-robotics-for-work-in-dangerous-environments/"
-    },
-    {
-      "title": "Teens Are Using AI-Fueled ‘Slander Pages’ to Mock Their Teachers",
-      "summary": "Viral student-run TikTok and Instagram accounts are using AI to make memes of school faculty comparing them to figures like Jeffrey Epstein and Benjamin Netanyahu.",
-      "source": "Wired",
-      "published": "2026-03-11T11:00:00+00:00",
-      "link": "https://www.wired.com/story/teens-are-using-ai-fueled-slander-pages-to-mock-their-teachers/"
     }
   ]
 };
