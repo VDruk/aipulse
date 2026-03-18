@@ -1,6 +1,27 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-03-18T07:59:22.925242+00:00",
+  "lastUpdated": "2026-03-18T11:34:10.779615+00:00",
   "items": [
+    {
+      "title": "Midjourney V8 rolls out with 5x faster generation but charges 4x more for its best features",
+      "summary": "Midjourney is rolling out an early version of its new V8 model for community testing. Image generation is reportedly much faster and more detailed, but some features cost four times as much.",
+      "source": "The Decoder",
+      "published": "2026-03-18T11:05:24+00:00",
+      "link": "https://the-decoder.com/midjourney-v8-rolls-out-with-5x-faster-generation-but-charges-4x-more-for-its-best-features/"
+    },
+    {
+      "title": "What do new nuclear reactors mean for waste?",
+      "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here.",
+      "source": "MIT Tech Review",
+      "published": "2026-03-18T09:00:00+00:00",
+      "link": "https://www.technologyreview.com/2026/03/18/1134345/advanced-nuclear-reactors-waste/"
+    },
+    {
+      "title": "Claw Compactor: compress LLM tokens 54% with zero dependencies",
+      "summary": "Article URL: https://github.com/open-compress/claw-compactor Comments URL: https://news.ycombinator.com/item?id=47422948 Points: 101 # Comments: 2",
+      "source": "Hacker News",
+      "published": "2026-03-18T08:06:48+00:00",
+      "link": "https://github.com/open-compress/claw-compactor"
+    },
     {
       "title": "Justice Department Says Anthropic Can’t Be Trusted With Warfighting Systems",
       "summary": "In response to Anthropic’s lawsuit, the government said it lawfully penalized the company for trying to limit how its Claude AI models could be used by the military.",
@@ -17,14 +38,14 @@ const FEED_DATA = {
     },
     {
       "title": "Why AI systems don't learn – On autonomous learning from cognitive science",
-      "summary": "Article URL: https://arxiv.org/abs/2603.15381 Comments URL: https://news.ycombinator.com/item?id=47418722 Points: 98 # Comments: 28",
+      "summary": "Article URL: https://arxiv.org/abs/2603.15381 Comments URL: https://news.ycombinator.com/item?id=47418722 Points: 126 # Comments: 65",
       "source": "Hacker News",
       "published": "2026-03-17T21:42:39+00:00",
       "link": "https://arxiv.org/abs/2603.15381"
     },
     {
       "title": "Mistral AI Releases Forge",
-      "summary": "Article URL: https://mistral.ai/news/forge Comments URL: https://news.ycombinator.com/item?id=47418295 Points: 353 # Comments: 63",
+      "summary": "Article URL: https://mistral.ai/news/forge Comments URL: https://news.ycombinator.com/item?id=47418295 Points: 505 # Comments: 112",
       "source": "Hacker News",
       "published": "2026-03-17T21:04:26+00:00",
       "link": "https://mistral.ai/news/forge"
@@ -80,7 +101,7 @@ const FEED_DATA = {
     },
     {
       "title": "GPT‑5.4 Mini and Nano",
-      "summary": "Article URL: https://openai.com/index/introducing-gpt-5-4-mini-and-nano Comments URL: https://news.ycombinator.com/item?id=47415441 Points: 222 # Comments: 137",
+      "summary": "Article URL: https://openai.com/index/introducing-gpt-5-4-mini-and-nano Comments URL: https://news.ycombinator.com/item?id=47415441 Points: 229 # Comments: 139",
       "source": "Hacker News",
       "published": "2026-03-17T17:07:06+00:00",
       "link": "https://openai.com/index/introducing-gpt-5-4-mini-and-nano"
@@ -227,7 +248,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI still doesn't work well, businesses are faking it, and a reckoning is coming",
-      "summary": "Article URL: https://www.theregister.com/2026/03/17/ai_businesses_faking_it_reckoning_coming_codestrap/ Comments URL: https://news.ycombinator.com/item?id=47407252 Points: 69 # Comments: 25",
+      "summary": "Article URL: https://www.theregister.com/2026/03/17/ai_businesses_faking_it_reckoning_coming_codestrap/ Comments URL: https://news.ycombinator.com/item?id=47407252 Points: 70 # Comments: 25",
       "source": "Hacker News",
       "published": "2026-03-17T00:56:47+00:00",
       "link": "https://www.theregister.com/2026/03/17/ai_businesses_faking_it_reckoning_coming_codestrap/"
@@ -297,7 +318,7 @@ const FEED_DATA = {
     },
     {
       "title": "Nvidia Launches Vera CPU, Purpose-Built for Agentic AI",
-      "summary": "Article URL: https://nvidianews.nvidia.com/news/nvidia-launches-vera-cpu-purpose-built-for-agentic-ai Comments URL: https://news.ycombinator.com/item?id=47404074 Points: 172 # Comments: 99",
+      "summary": "Article URL: https://nvidianews.nvidia.com/news/nvidia-launches-vera-cpu-purpose-built-for-agentic-ai Comments URL: https://news.ycombinator.com/item?id=47404074 Points: 173 # Comments: 99",
       "source": "Hacker News",
       "published": "2026-03-16T20:01:02+00:00",
       "link": "https://nvidianews.nvidia.com/news/nvidia-launches-vera-cpu-purpose-built-for-agentic-ai"
@@ -325,7 +346,7 @@ const FEED_DATA = {
     },
     {
       "title": "Nvidia DLSS 5 Delivers AI-Powered Breakthrough in Visual Fidelity for Games",
-      "summary": "Article URL: https://nvidianews.nvidia.com/news/nvidia-dlss-5-delivers-ai-powered-breakthrough-in-visual-fidelity-for-games Comments URL: https://news.ycombinator.com/item?id=47403044 Points: 52 # Comments: 28",
+      "summary": "Article URL: https://nvidianews.nvidia.com/news/nvidia-dlss-5-delivers-ai-powered-breakthrough-in-visual-fidelity-for-games Comments URL: https://news.ycombinator.com/item?id=47403044 Points: 53 # Comments: 31",
       "source": "Hacker News",
       "published": "2026-03-16T18:45:45+00:00",
       "link": "https://nvidianews.nvidia.com/news/nvidia-dlss-5-delivers-ai-powered-breakthrough-in-visual-fidelity-for-games"
@@ -367,7 +388,7 @@ const FEED_DATA = {
     },
     {
       "title": "Speed at the cost of quality: Study of use of Cursor AI in open source projects (2025)",
-      "summary": "Article URL: https://arxiv.org/abs/2511.04427 Comments URL: https://news.ycombinator.com/item?id=47401734 Points: 142 # Comments: 77",
+      "summary": "Article URL: https://arxiv.org/abs/2511.04427 Comments URL: https://news.ycombinator.com/item?id=47401734 Points: 145 # Comments: 77",
       "source": "Hacker News",
       "published": "2026-03-16T17:07:37+00:00",
       "link": "https://arxiv.org/abs/2511.04427"
@@ -409,7 +430,7 @@ const FEED_DATA = {
     },
     {
       "title": "Apideck CLI – An AI-agent interface with much lower context consumption than MCP",
-      "summary": "Article URL: https://www.apideck.com/blog/mcp-server-eating-context-window-cli-alternative Comments URL: https://news.ycombinator.com/item?id=47400261 Points: 135 # Comments: 121",
+      "summary": "Article URL: https://www.apideck.com/blog/mcp-server-eating-context-window-cli-alternative Comments URL: https://news.ycombinator.com/item?id=47400261 Points: 136 # Comments: 122",
       "source": "Hacker News",
       "published": "2026-03-16T15:25:36+00:00",
       "link": "https://www.apideck.com/blog/mcp-server-eating-context-window-cli-alternative"
@@ -500,7 +521,7 @@ const FEED_DATA = {
     },
     {
       "title": "Toward automated verification of unreviewed AI-generated code",
-      "summary": "Article URL: https://peterlavigne.com/writing/verifying-ai-generated-code Comments URL: https://news.ycombinator.com/item?id=47397367 Points: 86 # Comments: 83",
+      "summary": "Article URL: https://peterlavigne.com/writing/verifying-ai-generated-code Comments URL: https://news.ycombinator.com/item?id=47397367 Points: 89 # Comments: 83",
       "source": "Hacker News",
       "published": "2026-03-16T10:52:33+00:00",
       "link": "https://peterlavigne.com/writing/verifying-ai-generated-code"
@@ -528,7 +549,7 @@ const FEED_DATA = {
     },
     {
       "title": "Why I may ‘hire’ AI instead of a graduate student",
-      "summary": "Article URL: https://www.science.org/content/article/why-i-may-hire-ai-instead-graduate-student Comments URL: https://news.ycombinator.com/item?id=47396557 Points: 104 # Comments: 107",
+      "summary": "Article URL: https://www.science.org/content/article/why-i-may-hire-ai-instead-graduate-student Comments URL: https://news.ycombinator.com/item?id=47396557 Points: 106 # Comments: 107",
       "source": "Hacker News",
       "published": "2026-03-16T08:59:13+00:00",
       "link": "https://www.science.org/content/article/why-i-may-hire-ai-instead-graduate-student"
@@ -570,7 +591,7 @@ const FEED_DATA = {
     },
     {
       "title": "LLM Architecture Gallery",
-      "summary": "Article URL: https://sebastianraschka.com/llm-architecture-gallery/ Comments URL: https://news.ycombinator.com/item?id=47388676 Points: 574 # Comments: 42",
+      "summary": "Article URL: https://sebastianraschka.com/llm-architecture-gallery/ Comments URL: https://news.ycombinator.com/item?id=47388676 Points: 576 # Comments: 42",
       "source": "Hacker News",
       "published": "2026-03-15T16:01:09+00:00",
       "link": "https://sebastianraschka.com/llm-architecture-gallery/"
@@ -1379,27 +1400,6 @@ const FEED_DATA = {
       "source": "Hacker News",
       "published": "2026-03-11T21:23:24+00:00",
       "link": "https://newsletter.getdx.com/p/ai-productivity-gains-are-10-not"
-    },
-    {
-      "title": "Grammarly Is Facing a Class Action Lawsuit Over Its AI ‘Expert Review’ Feature",
-      "summary": "The feature, which Grammarly shut down Wednesday, presented editing suggestions as if they came from established authors and academics—without their consent.",
-      "source": "Wired",
-      "published": "2026-03-11T20:45:03+00:00",
-      "link": "https://www.wired.com/story/grammarly-is-facing-a-class-action-lawsuit-over-its-ai-expert-review-feature/"
-    },
-    {
-      "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
-      "summary": "Article URL: https://news.ycombinator.com/newsguidelines.html#generated Comments URL: https://news.ycombinator.com/item?id=47340079 Points: 4185 # Comments: 1651",
-      "source": "Hacker News",
-      "published": "2026-03-11T19:29:29+00:00",
-      "link": "https://news.ycombinator.com/newsguidelines.html#generated"
-    },
-    {
-      "title": "Replit snags $9B valuation 6 months after hitting $3B",
-      "summary": "Replit raised a new $400 million round and said it hopes to have $1B in ARR by year's end.",
-      "source": "TechCrunch",
-      "published": "2026-03-11T18:52:52+00:00",
-      "link": "https://techcrunch.com/2026/03/11/replit-snags-9b-valuation-6-months-after-hitting-3b/"
     }
   ]
 };
