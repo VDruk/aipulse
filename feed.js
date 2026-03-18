@@ -1,6 +1,34 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-03-18T19:38:58.870307+00:00",
+  "lastUpdated": "2026-03-18T22:02:22.306098+00:00",
   "items": [
+    {
+      "title": "Nothing CEO Carl Pei says smartphone apps will disappear as AI agents take their place",
+      "summary": "Nothing CEO Carl Pei says AI agents will eventually replace apps, shifting smartphones toward systems that understand intent and act on a user's behalf.",
+      "source": "TechCrunch",
+      "published": "2026-03-18T20:30:52+00:00",
+      "link": "https://techcrunch.com/2026/03/18/nothing-ceo-carl-pei-says-smartphone-apps-will-disappear-as-ai-agents-take-their-place/"
+    },
+    {
+      "title": "Google Labs turns Stitch into a full AI design platform that converts plain text into user interfaces",
+      "summary": "Google's Stitch turns text and voice input into clickable prototypes: no design or coding skills required. The article Google Labs turns Stitch into a full AI design platform that converts plain text into user interfaces appeared first on The Decoder.",
+      "source": "The Decoder",
+      "published": "2026-03-18T20:07:56+00:00",
+      "link": "https://the-decoder.com/google-labs-turns-stitch-into-a-full-ai-design-platform-that-converts-plain-text-into-user-interfaces/"
+    },
+    {
+      "title": "Nvidia is quietly building a multibillion-dollar behemoth to rival its chips business",
+      "summary": "Nvidia's networking business raked in $11 billion last quarter despite getting significantly less fanfare than chips and gaming.",
+      "source": "TechCrunch",
+      "published": "2026-03-18T20:01:19+00:00",
+      "link": "https://techcrunch.com/2026/03/18/nvidia-networking-division-building-a-multibillion-dollar-behemoth-to-rival-its-chips-business/"
+    },
+    {
+      "title": "Google Deepmind upgrades Gemini API with multi-tool chaining and context circulation",
+      "summary": "Google Deepmind is expanding the Gemini API: developers can now combine multiple tools in a single request and tap into Google Maps as a data source. The article Google Deepmind upgrades Gemini API with multi-tool chaining and context circulation appeared first on The Decoder.",
+      "source": "The Decoder",
+      "published": "2026-03-18T19:50:24+00:00",
+      "link": "https://the-decoder.com/google-deepmind-upgrades-gemini-api-with-multi-tool-chaining-and-context-circulation/"
+    },
     {
       "title": "Trump’s AI chief’s big Iran warning gets big time ignored",
       "summary": "Hello and welcome to Regulator, a newsletter for Verge subscribers about the politics of technology and the technology of politics - now landing in your inbox on Wednesdays!",
@@ -38,7 +66,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI coding is gambling",
-      "summary": "Article URL: https://notes.visaint.space/ai-coding-is-gambling/ Comments URL: https://news.ycombinator.com/item?id=47428541 Points: 174 # Comments: 181",
+      "summary": "Article URL: https://notes.visaint.space/ai-coding-is-gambling/ Comments URL: https://news.ycombinator.com/item?id=47428541 Points: 275 # Comments: 323",
       "source": "Hacker News",
       "published": "2026-03-18T17:22:02+00:00",
       "link": "https://notes.visaint.space/ai-coding-is-gambling/"
@@ -49,6 +77,13 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-03-18T17:15:00+00:00",
       "link": "https://techcrunch.com/2026/03/18/rebel-audio-is-a-new-ai-podcasting-tool-aimed-at-first-time-creators/"
+    },
+    {
+      "title": "Americans Recognize AI as a Wealth Inequality Machine, Polls Find",
+      "summary": "Article URL: https://gizmodo.com/americans-recognize-ai-as-a-wealth-inequality-machine-pollsters-find-2000734713 Comments URL: https://news.ycombinator.com/item?id=47428335 Points: 51 # Comments: 18",
+      "source": "Hacker News",
+      "published": "2026-03-18T17:07:21+00:00",
+      "link": "https://gizmodo.com/americans-recognize-ai-as-a-wealth-inequality-machine-pollsters-find-2000734713"
     },
     {
       "title": "Apple reportedly blocks vibe-coding apps from publishing updates",
@@ -87,7 +122,7 @@ const FEED_DATA = {
     },
     {
       "title": "Google Engineers Launch \"Sashiko\" for Agentic AI Code Review of the Linux Kernel",
-      "summary": "Article URL: https://www.phoronix.com/news/Sashiko-Linux-AI-Code-Review Comments URL: https://news.ycombinator.com/item?id=47427647 Points: 56 # Comments: 23",
+      "summary": "Article URL: https://www.phoronix.com/news/Sashiko-Linux-AI-Code-Review Comments URL: https://news.ycombinator.com/item?id=47427647 Points: 83 # Comments: 35",
       "source": "Hacker News",
       "published": "2026-03-18T16:17:44+00:00",
       "link": "https://www.phoronix.com/news/Sashiko-Linux-AI-Code-Review"
@@ -122,7 +157,7 @@ const FEED_DATA = {
     },
     {
       "title": "Snowflake AI Escapes Sandbox and Executes Malware",
-      "summary": "Article URL: https://www.promptarmor.com/resources/snowflake-ai-escapes-sandbox-and-executes-malware Comments URL: https://news.ycombinator.com/item?id=47427017 Points: 173 # Comments: 45",
+      "summary": "Article URL: https://www.promptarmor.com/resources/snowflake-ai-escapes-sandbox-and-executes-malware Comments URL: https://news.ycombinator.com/item?id=47427017 Points: 204 # Comments: 63",
       "source": "Hacker News",
       "published": "2026-03-18T15:30:07+00:00",
       "link": "https://www.promptarmor.com/resources/snowflake-ai-escapes-sandbox-and-executes-malware"
@@ -185,7 +220,7 @@ const FEED_DATA = {
     },
     {
       "title": "Launch an autonomous AI agent with sandboxed execution in 2 lines of code",
-      "summary": "Article URL: https://amaiya.github.io/onprem/examples_agent.html Comments URL: https://news.ycombinator.com/item?id=47420493 Points: 50 # Comments: 20",
+      "summary": "Article URL: https://amaiya.github.io/onprem/examples_agent.html Comments URL: https://news.ycombinator.com/item?id=47420493 Points: 51 # Comments: 17",
       "source": "Hacker News",
       "published": "2026-03-18T01:10:19+00:00",
       "link": "https://amaiya.github.io/onprem/examples_agent.html"
@@ -206,14 +241,14 @@ const FEED_DATA = {
     },
     {
       "title": "Why AI systems don't learn – On autonomous learning from cognitive science",
-      "summary": "Article URL: https://arxiv.org/abs/2603.15381 Comments URL: https://news.ycombinator.com/item?id=47418722 Points: 162 # Comments: 104",
+      "summary": "Article URL: https://arxiv.org/abs/2603.15381 Comments URL: https://news.ycombinator.com/item?id=47418722 Points: 166 # Comments: 102",
       "source": "Hacker News",
       "published": "2026-03-17T21:42:39+00:00",
       "link": "https://arxiv.org/abs/2603.15381"
     },
     {
       "title": "Mistral AI Releases Forge",
-      "summary": "Article URL: https://mistral.ai/news/forge Comments URL: https://news.ycombinator.com/item?id=47418295 Points: 688 # Comments: 174",
+      "summary": "Article URL: https://mistral.ai/news/forge Comments URL: https://news.ycombinator.com/item?id=47418295 Points: 691 # Comments: 176",
       "source": "Hacker News",
       "published": "2026-03-17T21:04:26+00:00",
       "link": "https://mistral.ai/news/forge"
@@ -331,18 +366,18 @@ const FEED_DATA = {
       "link": "https://the-decoder.com/gtc-2026-with-groq-3-lpx-nvidia-adds-dedicated-inference-hardware-to-its-platform-for-the-first-time/"
     },
     {
-      "title": "Niv-AI exits stealth to wring more power performance out of GPUs",
-      "summary": "The company raised $12 million in seed funding to measure and manage GPU power surges.",
-      "source": "TechCrunch",
-      "published": "2026-03-17T13:00:00+00:00",
-      "link": "https://techcrunch.com/2026/03/17/niv-ai-exits-stealth-to-wring-more-power-performance-out-of-gpus/"
-    },
-    {
       "title": "Gamma adds AI image-generation tools in bid to take on Canva and Adobe",
       "summary": "The company's new product, called Gamma Imagine, will let users employ text prompts to create brand-specific assets like interactive charts and visualizations, marketing collateral, social graphics, and infographics.",
       "source": "TechCrunch",
       "published": "2026-03-17T13:00:00+00:00",
       "link": "https://techcrunch.com/2026/03/17/gamma-adds-ai-image-generation-tools-in-bid-to-take-on-canva-and-adobe/"
+    },
+    {
+      "title": "Niv-AI exits stealth to wring more power performance out of GPUs",
+      "summary": "The company raised $12 million in seed funding to measure and manage GPU power surges.",
+      "source": "TechCrunch",
+      "published": "2026-03-17T13:00:00+00:00",
+      "link": "https://techcrunch.com/2026/03/17/niv-ai-exits-stealth-to-wring-more-power-performance-out-of-gpus/"
     },
     {
       "title": "Gamma adds AI image generation tools in bid to take on Canva and Adobe",
@@ -486,7 +521,7 @@ const FEED_DATA = {
     },
     {
       "title": "Nvidia Launches Vera CPU, Purpose-Built for Agentic AI",
-      "summary": "Article URL: https://nvidianews.nvidia.com/news/nvidia-launches-vera-cpu-purpose-built-for-agentic-ai Comments URL: https://news.ycombinator.com/item?id=47404074 Points: 174 # Comments: 100",
+      "summary": "Article URL: https://nvidianews.nvidia.com/news/nvidia-launches-vera-cpu-purpose-built-for-agentic-ai Comments URL: https://news.ycombinator.com/item?id=47404074 Points: 175 # Comments: 100",
       "source": "Hacker News",
       "published": "2026-03-16T20:01:02+00:00",
       "link": "https://nvidianews.nvidia.com/news/nvidia-launches-vera-cpu-purpose-built-for-agentic-ai"
@@ -556,7 +591,7 @@ const FEED_DATA = {
     },
     {
       "title": "Speed at the cost of quality: Study of use of Cursor AI in open source projects (2025)",
-      "summary": "Article URL: https://arxiv.org/abs/2511.04427 Comments URL: https://news.ycombinator.com/item?id=47401734 Points: 146 # Comments: 78",
+      "summary": "Article URL: https://arxiv.org/abs/2511.04427 Comments URL: https://news.ycombinator.com/item?id=47401734 Points: 147 # Comments: 80",
       "source": "Hacker News",
       "published": "2026-03-16T17:07:37+00:00",
       "link": "https://arxiv.org/abs/2511.04427"
@@ -689,7 +724,7 @@ const FEED_DATA = {
     },
     {
       "title": "Toward automated verification of unreviewed AI-generated code",
-      "summary": "Article URL: https://peterlavigne.com/writing/verifying-ai-generated-code Comments URL: https://news.ycombinator.com/item?id=47397367 Points: 89 # Comments: 84",
+      "summary": "Article URL: https://peterlavigne.com/writing/verifying-ai-generated-code Comments URL: https://news.ycombinator.com/item?id=47397367 Points: 90 # Comments: 84",
       "source": "Hacker News",
       "published": "2026-03-16T10:52:33+00:00",
       "link": "https://peterlavigne.com/writing/verifying-ai-generated-code"
@@ -1365,41 +1400,6 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-03-12T14:55:59+00:00",
       "link": "https://the-decoder.com/nvidia-steps-into-the-open-source-ai-gap-that-openai-meta-and-anthropic-left-behind/"
-    },
-    {
-      "title": "Anthropic doesn’t trust the Pentagon, and neither should you",
-      "summary": "Today we’re talking about the messy, fast-moving situation at Anthropic, the maker of Claude that now finds itself in a very ugly legal battle with the Pentagon.",
-      "source": "The Verge",
-      "published": "2026-03-12T14:00:00+00:00",
-      "link": "https://www.theverge.com/podcast/893370/anthropic-pentagon-ai-mass-surveillance-nsa-privacy-spying"
-    },
-    {
-      "title": "Bespoke AI models are the next big thing in filmmaking",
-      "summary": "Though many AI boosters have convinced themselves that the technology can spit out films and television series whole cloth, claims of Hollywood being cooked feel very premature when you see what people are making with the most popular image/video models on the market.",
-      "source": "The Verge",
-      "published": "2026-03-12T13:56:00+00:00",
-      "link": "https://www.theverge.com/streaming/893538/ai-model-netflix-interpositive-ben-affleck"
-    },
-    {
-      "title": "Show HN: Axe – A 12MB binary that replaces your AI framework",
-      "summary": "I built Axe because I got tired of every AI tool trying to be a chatbot.Most frameworks want a long-lived session with a massive context window doing everything at once. That's expensive, slow, and fragile.",
-      "source": "Hacker News",
-      "published": "2026-03-12T13:49:12+00:00",
-      "link": "https://github.com/jrswab/axe"
-    },
-    {
-      "title": "Show HN: Axe A 12MB binary that replaces your AI framework",
-      "summary": "Article URL: https://github.com/jrswab/axe Comments URL: https://news.ycombinator.com/item?id=47350516 Points: 59 # Comments: 55",
-      "source": "Hacker News",
-      "published": "2026-03-12T13:49:12+00:00",
-      "link": "https://github.com/jrswab/axe"
-    },
-    {
-      "title": "Show HN: We analyzed 1,573 Claude Code sessions to see how AI agents work",
-      "summary": "We built rudel.ai after realizing we had no visibility into our own Claude Code sessions. We were using it daily but had no idea which sessions were efficient, why some got abandoned, or whether we were actually improving over time.So we built an analytics layer for it.",
-      "source": "Hacker News",
-      "published": "2026-03-12T13:41:12+00:00",
-      "link": "https://github.com/obsessiondb/rudel"
     }
   ]
 };
