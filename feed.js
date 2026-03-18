@@ -1,6 +1,69 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-03-18T16:41:21.566525+00:00",
+  "lastUpdated": "2026-03-18T19:38:58.870307+00:00",
   "items": [
+    {
+      "title": "Trump’s AI chief’s big Iran warning gets big time ignored",
+      "summary": "Hello and welcome to Regulator, a newsletter for Verge subscribers about the politics of technology and the technology of politics - now landing in your inbox on Wednesdays!",
+      "source": "The Verge",
+      "published": "2026-03-18T18:44:21+00:00",
+      "link": "https://www.theverge.com/column/896949/regulator-david-sacks-iran-polymarket"
+    },
+    {
+      "title": "ChatGPT did not cure a dog’s cancer",
+      "summary": "When an Australian tech entrepreneur with no background in biology or medicine said ChatGPT helped save his dog from cancer, the story spread with the kind of validation Big Tech has long craved: proof that AI will revolutionize medicine and take on one of its deadliest diseases.",
+      "source": "The Verge",
+      "published": "2026-03-18T18:14:39+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/896878/ai-did-not-cure-this-dogs-cancer"
+    },
+    {
+      "title": "OpenAI turns model compression into a talent hunt with its 16 MB \"Parameter Golf\" challenge",
+      "summary": "OpenAI challenges researchers to build the best language model in just 16 MB - and uses the competition to scout talent. The article OpenAI turns model compression into a talent hunt with its 16 MB \"Parameter Golf\" challenge appeared first on The Decoder.",
+      "source": "The Decoder",
+      "published": "2026-03-18T18:09:36+00:00",
+      "link": "https://the-decoder.com/openai-turns-model-compression-into-a-talent-hunt-with-its-16-mb-parameter-golf-challenge/"
+    },
+    {
+      "title": "Why Walmart and OpenAI Are Shaking Up Their Agentic Shopping Deal",
+      "summary": "After OpenAI’s Instant Checkout feature fell short, Walmart is instead embedding its Sparky chatbot directly into ChatGPT and Google Gemini.",
+      "source": "Wired",
+      "published": "2026-03-18T18:01:18+00:00",
+      "link": "https://www.wired.com/story/ai-lab-walmart-openai-shaking-up-agentic-shopping-deal/"
+    },
+    {
+      "title": "Patreon CEO calls AI companies’ fair use argument ‘bogus,’ says creators should be paid",
+      "summary": "Patreon CEO Jack Conte says AI companies should pay creators for training data, arguing their fair use defense falls apart when they license content from major publishers.",
+      "source": "TechCrunch",
+      "published": "2026-03-18T17:54:31+00:00",
+      "link": "https://techcrunch.com/2026/03/18/patreon-ceo-calls-ai-companies-fair-use-argument-bogus-says-creators-should-be-paid/"
+    },
+    {
+      "title": "AI coding is gambling",
+      "summary": "Article URL: https://notes.visaint.space/ai-coding-is-gambling/ Comments URL: https://news.ycombinator.com/item?id=47428541 Points: 174 # Comments: 181",
+      "source": "Hacker News",
+      "published": "2026-03-18T17:22:02+00:00",
+      "link": "https://notes.visaint.space/ai-coding-is-gambling/"
+    },
+    {
+      "title": "Rebel Audio is a new AI podcasting tool aimed at first-time creators",
+      "summary": "Rebel Audio is a new all-in-one podcasting tool that allows creators to record podcasts, edit, clip content for social, and publish episodes, all without ever leaving the platform.",
+      "source": "TechCrunch",
+      "published": "2026-03-18T17:15:00+00:00",
+      "link": "https://techcrunch.com/2026/03/18/rebel-audio-is-a-new-ai-podcasting-tool-aimed-at-first-time-creators/"
+    },
+    {
+      "title": "Apple reportedly blocks vibe-coding apps from publishing updates",
+      "summary": "Apple is preventing popular vibe-coding apps like Replit and Vibecode from releasing new versions. The company points to existing guidelines, but the move targets potential competition to its own ecosystem.",
+      "source": "The Decoder",
+      "published": "2026-03-18T16:46:49+00:00",
+      "link": "https://the-decoder.com/apple-reportedly-blocks-vibe-coding-apps-from-publishing-updates/"
+    },
+    {
+      "title": "The Gemini-powered features in Google Workspace that are worth using",
+      "summary": "From summarizing emails, drafting content, organizing data, and tracking meetings, here are all the best Gemini features in Google Workspace.",
+      "source": "TechCrunch",
+      "published": "2026-03-18T16:43:18+00:00",
+      "link": "https://techcrunch.com/2026/03/18/the-gemini-powered-features-in-google-workspace-that-are-worth-using/"
+    },
     {
       "title": "Pentagon plans to let AI companies train models on classified data",
       "summary": "The US Department of War is working to set up secure environments where AI companies can train their models on classified data. Until now, models were only allowed to read classified data, not learn from it.",
@@ -21,6 +84,13 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-03-18T16:29:58+00:00",
       "link": "https://the-decoder.com/beijing-approves-nvidias-h200-chip-sales-as-the-company-builds-a-china-ready-version-of-its-groq-inference-chip/"
+    },
+    {
+      "title": "Google Engineers Launch \"Sashiko\" for Agentic AI Code Review of the Linux Kernel",
+      "summary": "Article URL: https://www.phoronix.com/news/Sashiko-Linux-AI-Code-Review Comments URL: https://news.ycombinator.com/item?id=47427647 Points: 56 # Comments: 23",
+      "source": "Hacker News",
+      "published": "2026-03-18T16:17:44+00:00",
+      "link": "https://www.phoronix.com/news/Sashiko-Linux-AI-Code-Review"
     },
     {
       "title": "This startup wants to make enterprise software look more like a prompt",
@@ -49,6 +119,13 @@ const FEED_DATA = {
       "source": "AI News",
       "published": "2026-03-18T15:31:00+00:00",
       "link": "https://www.artificialintelligence-news.com/news/mastercards-ltm-keeps-tabs-on-fraud-with-a-new-foundation-model/"
+    },
+    {
+      "title": "Snowflake AI Escapes Sandbox and Executes Malware",
+      "summary": "Article URL: https://www.promptarmor.com/resources/snowflake-ai-escapes-sandbox-and-executes-malware Comments URL: https://news.ycombinator.com/item?id=47427017 Points: 173 # Comments: 45",
+      "source": "Hacker News",
+      "published": "2026-03-18T15:30:07+00:00",
+      "link": "https://www.promptarmor.com/resources/snowflake-ai-escapes-sandbox-and-executes-malware"
     },
     {
       "title": "The PhD students who became the judges of the AI industry",
@@ -107,6 +184,13 @@ const FEED_DATA = {
       "link": "https://github.com/open-compress/claw-compactor"
     },
     {
+      "title": "Launch an autonomous AI agent with sandboxed execution in 2 lines of code",
+      "summary": "Article URL: https://amaiya.github.io/onprem/examples_agent.html Comments URL: https://news.ycombinator.com/item?id=47420493 Points: 50 # Comments: 20",
+      "source": "Hacker News",
+      "published": "2026-03-18T01:10:19+00:00",
+      "link": "https://amaiya.github.io/onprem/examples_agent.html"
+    },
+    {
       "title": "Justice Department Says Anthropic Can’t Be Trusted With Warfighting Systems",
       "summary": "In response to Anthropic’s lawsuit, the government said it lawfully penalized the company for trying to limit how its Claude AI models could be used by the military.",
       "source": "Wired",
@@ -122,14 +206,14 @@ const FEED_DATA = {
     },
     {
       "title": "Why AI systems don't learn – On autonomous learning from cognitive science",
-      "summary": "Article URL: https://arxiv.org/abs/2603.15381 Comments URL: https://news.ycombinator.com/item?id=47418722 Points: 161 # Comments: 102",
+      "summary": "Article URL: https://arxiv.org/abs/2603.15381 Comments URL: https://news.ycombinator.com/item?id=47418722 Points: 162 # Comments: 104",
       "source": "Hacker News",
       "published": "2026-03-17T21:42:39+00:00",
       "link": "https://arxiv.org/abs/2603.15381"
     },
     {
       "title": "Mistral AI Releases Forge",
-      "summary": "Article URL: https://mistral.ai/news/forge Comments URL: https://news.ycombinator.com/item?id=47418295 Points: 655 # Comments: 163",
+      "summary": "Article URL: https://mistral.ai/news/forge Comments URL: https://news.ycombinator.com/item?id=47418295 Points: 688 # Comments: 174",
       "source": "Hacker News",
       "published": "2026-03-17T21:04:26+00:00",
       "link": "https://mistral.ai/news/forge"
@@ -185,7 +269,7 @@ const FEED_DATA = {
     },
     {
       "title": "GPT‑5.4 Mini and Nano",
-      "summary": "Article URL: https://openai.com/index/introducing-gpt-5-4-mini-and-nano Comments URL: https://news.ycombinator.com/item?id=47415441 Points: 234 # Comments: 143",
+      "summary": "Article URL: https://openai.com/index/introducing-gpt-5-4-mini-and-nano Comments URL: https://news.ycombinator.com/item?id=47415441 Points: 240 # Comments: 143",
       "source": "Hacker News",
       "published": "2026-03-17T17:07:06+00:00",
       "link": "https://openai.com/index/introducing-gpt-5-4-mini-and-nano"
@@ -332,7 +416,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI still doesn't work well, businesses are faking it, and a reckoning is coming",
-      "summary": "Article URL: https://www.theregister.com/2026/03/17/ai_businesses_faking_it_reckoning_coming_codestrap/ Comments URL: https://news.ycombinator.com/item?id=47407252 Points: 71 # Comments: 25",
+      "summary": "Article URL: https://www.theregister.com/2026/03/17/ai_businesses_faking_it_reckoning_coming_codestrap/ Comments URL: https://news.ycombinator.com/item?id=47407252 Points: 72 # Comments: 27",
       "source": "Hacker News",
       "published": "2026-03-17T00:56:47+00:00",
       "link": "https://www.theregister.com/2026/03/17/ai_businesses_faking_it_reckoning_coming_codestrap/"
@@ -402,7 +486,7 @@ const FEED_DATA = {
     },
     {
       "title": "Nvidia Launches Vera CPU, Purpose-Built for Agentic AI",
-      "summary": "Article URL: https://nvidianews.nvidia.com/news/nvidia-launches-vera-cpu-purpose-built-for-agentic-ai Comments URL: https://news.ycombinator.com/item?id=47404074 Points: 173 # Comments: 100",
+      "summary": "Article URL: https://nvidianews.nvidia.com/news/nvidia-launches-vera-cpu-purpose-built-for-agentic-ai Comments URL: https://news.ycombinator.com/item?id=47404074 Points: 174 # Comments: 100",
       "source": "Hacker News",
       "published": "2026-03-16T20:01:02+00:00",
       "link": "https://nvidianews.nvidia.com/news/nvidia-launches-vera-cpu-purpose-built-for-agentic-ai"
@@ -633,7 +717,7 @@ const FEED_DATA = {
     },
     {
       "title": "Why I may ‘hire’ AI instead of a graduate student",
-      "summary": "Article URL: https://www.science.org/content/article/why-i-may-hire-ai-instead-graduate-student Comments URL: https://news.ycombinator.com/item?id=47396557 Points: 109 # Comments: 108",
+      "summary": "Article URL: https://www.science.org/content/article/why-i-may-hire-ai-instead-graduate-student Comments URL: https://news.ycombinator.com/item?id=47396557 Points: 109 # Comments: 109",
       "source": "Hacker News",
       "published": "2026-03-16T08:59:13+00:00",
       "link": "https://www.science.org/content/article/why-i-may-hire-ai-instead-graduate-student"
@@ -675,7 +759,7 @@ const FEED_DATA = {
     },
     {
       "title": "LLM Architecture Gallery",
-      "summary": "Article URL: https://sebastianraschka.com/llm-architecture-gallery/ Comments URL: https://news.ycombinator.com/item?id=47388676 Points: 576 # Comments: 42",
+      "summary": "Article URL: https://sebastianraschka.com/llm-architecture-gallery/ Comments URL: https://news.ycombinator.com/item?id=47388676 Points: 577 # Comments: 42",
       "source": "Hacker News",
       "published": "2026-03-15T16:01:09+00:00",
       "link": "https://sebastianraschka.com/llm-architecture-gallery/"
@@ -1316,90 +1400,6 @@ const FEED_DATA = {
       "source": "Hacker News",
       "published": "2026-03-12T13:41:12+00:00",
       "link": "https://github.com/obsessiondb/rudel"
-    },
-    {
-      "title": "Document poisoning in RAG systems: How attackers corrupt AI's sources",
-      "summary": "I'm the author.",
-      "source": "Hacker News",
-      "published": "2026-03-12T13:40:36+00:00",
-      "link": "https://aminrj.com/posts/rag-document-poisoning/"
-    },
-    {
-      "title": "Google's new Ask Maps lets you search for places in plain language using Gemini AI",
-      "summary": "Google Maps is turning into an AI travel advisor. The new \"Ask Maps\" feature answers complex questions in plain language and shows personalized results on a customized map.",
-      "source": "The Decoder",
-      "published": "2026-03-12T13:08:19+00:00",
-      "link": "https://the-decoder.com/googles-new-ask-maps-lets-you-search-for-places-in-plain-language-using-gemini-ai/"
-    },
-    {
-      "title": "The Download: Early adopters cash in on China’s OpenClaw craze, and US batteries slump",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.",
-      "source": "MIT Tech Review",
-      "published": "2026-03-12T13:02:48+00:00",
-      "link": "https://www.technologyreview.com/2026/03/12/1134207/the-download-china-openclaw-ai-craze-us-battery-industry-downturn/"
-    },
-    {
-      "title": "Microsoft’s Copilot Health can connect to your medical records and wearables",
-      "summary": "Microsoft announced on Thursday that it's launching Copilot Health, a \"separate, secure space\" in Copilot for asking questions about lab results and medical records, searching for providers, analyzing data from wearables, and other health-related chats.",
-      "source": "The Verge",
-      "published": "2026-03-12T13:01:07+00:00",
-      "link": "https://www.theverge.com/tech/893594/microsoft-copilot-health-launch"
-    },
-    {
-      "title": "Pragmatic by design: Engineering AI for the real world",
-      "summary": "The impact of artificial intelligence extends far beyond the digital world and into our everyday lives, across the cars we drive, the appliances in our homes, and medical devices that keep people alive.",
-      "source": "MIT Tech Review",
-      "published": "2026-03-12T13:00:00+00:00",
-      "link": "https://www.technologyreview.com/2026/03/12/1133675/pragmatic-by-design-engineering-ai-for-the-real-world/"
-    },
-    {
-      "title": "Google is using old news reports and AI to predict flash floods",
-      "summary": "A new way to solve data scarcity: Turning qualitative reports into quantitative data with an LLM.",
-      "source": "TechCrunch",
-      "published": "2026-03-12T13:00:00+00:00",
-      "link": "https://techcrunch.com/2026/03/12/google-is-using-old-news-reports-and-ai-to-predict-flash-floods/"
-    },
-    {
-      "title": "OpenAI is reportedly planning to integrate its video AI Sora into ChatGPT",
-      "summary": "OpenAI's video AI Sora has dropped from No. 1 to No.",
-      "source": "The Decoder",
-      "published": "2026-03-12T12:30:11+00:00",
-      "link": "https://the-decoder.com/openai-is-reportedly-planning-to-integrate-its-video-ai-sora-into-chatgpt/"
-    },
-    {
-      "title": "Google Maps Gets Chatty With a New Gemini-Powered Interface",
-      "summary": "“Ask Maps,” rolling out today to Google Maps on mobile, lets you ask Gemini questions about locations and even to plan trips on your behalf.",
-      "source": "Wired",
-      "published": "2026-03-12T12:30:00+00:00",
-      "link": "https://www.wired.com/story/google-maps-ask-maps-gemini-powered-tool/"
-    },
-    {
-      "title": "You can now ask Google Maps ‘complex, real-world questions’ — and Gemini will answer",
-      "summary": "Google is continuing to weave Gemini into the firmament of its most-used products. Today, it announced that Google Maps was getting a new AI-powered \"Ask Maps\" feature that allows for \"complex, real-world questions\" with highly detailed, personalized responses.",
-      "source": "The Verge",
-      "published": "2026-03-12T12:30:00+00:00",
-      "link": "https://www.theverge.com/tech/893262/google-maps-gemini-ai-ask-maps-immersive-navigation"
-    },
-    {
-      "title": "Google Maps is getting an AI ‘Ask Maps’ feature and upgraded ‘immersive’ navigation",
-      "summary": "The tech giant says the \"Immersive Navigation\" launch is the biggest update to Maps in over a decade.",
-      "source": "TechCrunch",
-      "published": "2026-03-12T12:30:00+00:00",
-      "link": "https://techcrunch.com/2026/03/12/google-maps-is-getting-an-ai-ask-maps-feature-and-upgraded-immersive-navigation/"
-    },
-    {
-      "title": "Perplexity’s Personal Computer turns your spare Mac into an AI agent",
-      "summary": "Perplexity wants to be more than just an answer engine.",
-      "source": "The Verge",
-      "published": "2026-03-12T12:00:34+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/893536/perplexitys-personal-computer-turns-your-spare-mac-into-an-ai-agent"
-    },
-    {
-      "title": "Meta unveils four generations of custom AI chips to cut inference costs for billions of users",
-      "summary": "Meta unveils four new custom AI chips focused on inference, pushing to reduce its dependence on GPU makers like Nvidia and AMD. The article Meta unveils four generations of custom AI chips to cut inference costs for billions of users appeared first on The Decoder.",
-      "source": "The Decoder",
-      "published": "2026-03-12T11:54:36+00:00",
-      "link": "https://the-decoder.com/meta-unveils-four-generations-of-custom-ai-chips-to-cut-inference-costs-for-billions-of-users/"
     }
   ]
 };
