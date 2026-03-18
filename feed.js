@@ -1,6 +1,90 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-03-18T11:34:10.779615+00:00",
+  "lastUpdated": "2026-03-18T16:41:21.566525+00:00",
   "items": [
+    {
+      "title": "Pentagon plans to let AI companies train models on classified data",
+      "summary": "The US Department of War is working to set up secure environments where AI companies can train their models on classified data. Until now, models were only allowed to read classified data, not learn from it.",
+      "source": "The Decoder",
+      "published": "2026-03-18T16:32:21+00:00",
+      "link": "https://the-decoder.com/pentagon-plans-to-let-ai-companies-train-models-on-classified-data/"
+    },
+    {
+      "title": "The leaderboard “you can’t game,” funded by the companies it ranks",
+      "summary": "Artificial intelligence models are multiplying fast, and competition is stiff. With so many players crowding the space, which one will be the best — and who decides that?",
+      "source": "TechCrunch",
+      "published": "2026-03-18T16:30:00+00:00",
+      "link": "https://techcrunch.com/video/the-leaderboard-you-cant-game-funded-by-the-companies-it-ranks/"
+    },
+    {
+      "title": "Beijing approves Nvidia's H200 chip sales as the company builds a China-ready version of its Groq inference chip",
+      "summary": "Nvidia has received long-awaited approval from Beijing to sell its second-most-powerful AI chip, the H200, to Chinese customers, Reuters reports. The company had halted production of the chip last year due to regulatory hurdles on both sides of the Pacific.",
+      "source": "The Decoder",
+      "published": "2026-03-18T16:29:58+00:00",
+      "link": "https://the-decoder.com/beijing-approves-nvidias-h200-chip-sales-as-the-company-builds-a-china-ready-version-of-its-groq-inference-chip/"
+    },
+    {
+      "title": "This startup wants to make enterprise software look more like a prompt",
+      "summary": "The company has raised $12 million in seed funding to build an AI operating system for enterprise.",
+      "source": "TechCrunch",
+      "published": "2026-03-18T16:00:00+00:00",
+      "link": "https://techcrunch.com/2026/03/18/this-startup-wants-to-make-enterprise-software-look-more-like-a-prompt/"
+    },
+    {
+      "title": "Sequen snags $16M to bring TikTok-style personalization tech to any consumer company",
+      "summary": "With its Series A, Sequen is bringing its proprietary AI ranking and personalization technology to large consumer business.",
+      "source": "TechCrunch",
+      "published": "2026-03-18T15:58:50+00:00",
+      "link": "https://techcrunch.com/2026/03/18/sequen-snags-16m-to-bring-tiktok-style-personalization-tech-to-any-consumer-company/"
+    },
+    {
+      "title": "Microsoft hires the team of Sequoia-backed AI collaboration platform, Cove",
+      "summary": "AI collaboration startup Cove is shutting down after its team joined Microsoft, with service ending April 1 and customer data set for deletion.",
+      "source": "TechCrunch",
+      "published": "2026-03-18T15:33:49+00:00",
+      "link": "https://techcrunch.com/2026/03/18/microsoft-hires-the-team-of-sequioa-backed-ai-collaboration-platform-cove/"
+    },
+    {
+      "title": "Mastercard keeps tabs on fraud with new foundation model",
+      "summary": "Mastercard has developed a large tabular model (an LTM as opposed to an LLM) that’s trained on transaction data rather than text or images to help it address security and authenticity issues in digital payments.",
+      "source": "AI News",
+      "published": "2026-03-18T15:31:00+00:00",
+      "link": "https://www.artificialintelligence-news.com/news/mastercards-ltm-keeps-tabs-on-fraud-with-a-new-foundation-model/"
+    },
+    {
+      "title": "The PhD students who became the judges of the AI industry",
+      "summary": "Artificial intelligence models are multiplying fast, and competition is stiff. With so many players crowding the space, which one will be the best — and who decides that?",
+      "source": "TechCrunch",
+      "published": "2026-03-18T15:00:00+00:00",
+      "link": "https://techcrunch.com/podcast/the-phd-students-who-became-the-judges-of-the-ai-industry/"
+    },
+    {
+      "title": "For effective AI, insurance needs to get its data house in order",
+      "summary": "A report from Autorek, a provider of AI solutions to the insurance industry has produced a report that describes operational drag in companies’ internal processes that not only affect overall efficiency but cause an impediment to the effective implementation of AI in insurance...",
+      "source": "AI News",
+      "published": "2026-03-18T14:37:00+00:00",
+      "link": "https://www.artificialintelligence-news.com/news/for-effective-ai-insurance-needs-a-better-data-layer-and-integration/"
+    },
+    {
+      "title": "DOD says Anthropic’s ‘red lines’ make it an ‘unacceptable risk to national security’",
+      "summary": "The Defense Department said concerns that Anthropic might \"attempt to disable its technology\" during \"warfighting operations\" validate its decision to label the AI firm a supply-chain risk.",
+      "source": "TechCrunch",
+      "published": "2026-03-18T13:40:43+00:00",
+      "link": "https://techcrunch.com/2026/03/18/dod-says-anthropics-red-lines-make-it-an-unacceptable-risk-to-national-security/"
+    },
+    {
+      "title": "The Download: The Pentagon’s new AI plans, and next-gen nuclear reactors",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.",
+      "source": "MIT Tech Review",
+      "published": "2026-03-18T12:38:00+00:00",
+      "link": "https://www.technologyreview.com/2026/03/18/1134371/the-download-the-pentagons-new-ai-plans-and-next-gen-nuclear-reactors/"
+    },
+    {
+      "title": "DLSS 5: Has Nvidia’s AI graphics technology gone too far?",
+      "summary": "Nvidia has revealed a new “3D guided neural rendering model” called DLSS 5 that can change a game’s lighting and materials in real-time, and… many gamers aren’t happy.",
+      "source": "The Verge",
+      "published": "2026-03-18T12:30:00+00:00",
+      "link": "https://www.theverge.com/games/896518/nvidia-dlss-5-ai-3d-rendering"
+    },
     {
       "title": "Midjourney V8 rolls out with 5x faster generation but charges 4x more for its best features",
       "summary": "Midjourney is rolling out an early version of its new V8 model for community testing. Image generation is reportedly much faster and more detailed, but some features cost four times as much.",
@@ -38,14 +122,14 @@ const FEED_DATA = {
     },
     {
       "title": "Why AI systems don't learn – On autonomous learning from cognitive science",
-      "summary": "Article URL: https://arxiv.org/abs/2603.15381 Comments URL: https://news.ycombinator.com/item?id=47418722 Points: 126 # Comments: 65",
+      "summary": "Article URL: https://arxiv.org/abs/2603.15381 Comments URL: https://news.ycombinator.com/item?id=47418722 Points: 161 # Comments: 102",
       "source": "Hacker News",
       "published": "2026-03-17T21:42:39+00:00",
       "link": "https://arxiv.org/abs/2603.15381"
     },
     {
       "title": "Mistral AI Releases Forge",
-      "summary": "Article URL: https://mistral.ai/news/forge Comments URL: https://news.ycombinator.com/item?id=47418295 Points: 505 # Comments: 112",
+      "summary": "Article URL: https://mistral.ai/news/forge Comments URL: https://news.ycombinator.com/item?id=47418295 Points: 655 # Comments: 163",
       "source": "Hacker News",
       "published": "2026-03-17T21:04:26+00:00",
       "link": "https://mistral.ai/news/forge"
@@ -101,7 +185,7 @@ const FEED_DATA = {
     },
     {
       "title": "GPT‑5.4 Mini and Nano",
-      "summary": "Article URL: https://openai.com/index/introducing-gpt-5-4-mini-and-nano Comments URL: https://news.ycombinator.com/item?id=47415441 Points: 229 # Comments: 139",
+      "summary": "Article URL: https://openai.com/index/introducing-gpt-5-4-mini-and-nano Comments URL: https://news.ycombinator.com/item?id=47415441 Points: 234 # Comments: 143",
       "source": "Hacker News",
       "published": "2026-03-17T17:07:06+00:00",
       "link": "https://openai.com/index/introducing-gpt-5-4-mini-and-nano"
@@ -248,7 +332,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI still doesn't work well, businesses are faking it, and a reckoning is coming",
-      "summary": "Article URL: https://www.theregister.com/2026/03/17/ai_businesses_faking_it_reckoning_coming_codestrap/ Comments URL: https://news.ycombinator.com/item?id=47407252 Points: 70 # Comments: 25",
+      "summary": "Article URL: https://www.theregister.com/2026/03/17/ai_businesses_faking_it_reckoning_coming_codestrap/ Comments URL: https://news.ycombinator.com/item?id=47407252 Points: 71 # Comments: 25",
       "source": "Hacker News",
       "published": "2026-03-17T00:56:47+00:00",
       "link": "https://www.theregister.com/2026/03/17/ai_businesses_faking_it_reckoning_coming_codestrap/"
@@ -318,7 +402,7 @@ const FEED_DATA = {
     },
     {
       "title": "Nvidia Launches Vera CPU, Purpose-Built for Agentic AI",
-      "summary": "Article URL: https://nvidianews.nvidia.com/news/nvidia-launches-vera-cpu-purpose-built-for-agentic-ai Comments URL: https://news.ycombinator.com/item?id=47404074 Points: 173 # Comments: 99",
+      "summary": "Article URL: https://nvidianews.nvidia.com/news/nvidia-launches-vera-cpu-purpose-built-for-agentic-ai Comments URL: https://news.ycombinator.com/item?id=47404074 Points: 173 # Comments: 100",
       "source": "Hacker News",
       "published": "2026-03-16T20:01:02+00:00",
       "link": "https://nvidianews.nvidia.com/news/nvidia-launches-vera-cpu-purpose-built-for-agentic-ai"
@@ -346,7 +430,7 @@ const FEED_DATA = {
     },
     {
       "title": "Nvidia DLSS 5 Delivers AI-Powered Breakthrough in Visual Fidelity for Games",
-      "summary": "Article URL: https://nvidianews.nvidia.com/news/nvidia-dlss-5-delivers-ai-powered-breakthrough-in-visual-fidelity-for-games Comments URL: https://news.ycombinator.com/item?id=47403044 Points: 53 # Comments: 31",
+      "summary": "Article URL: https://nvidianews.nvidia.com/news/nvidia-dlss-5-delivers-ai-powered-breakthrough-in-visual-fidelity-for-games Comments URL: https://news.ycombinator.com/item?id=47403044 Points: 57 # Comments: 32",
       "source": "Hacker News",
       "published": "2026-03-16T18:45:45+00:00",
       "link": "https://nvidianews.nvidia.com/news/nvidia-dlss-5-delivers-ai-powered-breakthrough-in-visual-fidelity-for-games"
@@ -388,7 +472,7 @@ const FEED_DATA = {
     },
     {
       "title": "Speed at the cost of quality: Study of use of Cursor AI in open source projects (2025)",
-      "summary": "Article URL: https://arxiv.org/abs/2511.04427 Comments URL: https://news.ycombinator.com/item?id=47401734 Points: 145 # Comments: 77",
+      "summary": "Article URL: https://arxiv.org/abs/2511.04427 Comments URL: https://news.ycombinator.com/item?id=47401734 Points: 146 # Comments: 78",
       "source": "Hacker News",
       "published": "2026-03-16T17:07:37+00:00",
       "link": "https://arxiv.org/abs/2511.04427"
@@ -430,7 +514,7 @@ const FEED_DATA = {
     },
     {
       "title": "Apideck CLI – An AI-agent interface with much lower context consumption than MCP",
-      "summary": "Article URL: https://www.apideck.com/blog/mcp-server-eating-context-window-cli-alternative Comments URL: https://news.ycombinator.com/item?id=47400261 Points: 136 # Comments: 122",
+      "summary": "Article URL: https://www.apideck.com/blog/mcp-server-eating-context-window-cli-alternative Comments URL: https://news.ycombinator.com/item?id=47400261 Points: 137 # Comments: 123",
       "source": "Hacker News",
       "published": "2026-03-16T15:25:36+00:00",
       "link": "https://www.apideck.com/blog/mcp-server-eating-context-window-cli-alternative"
@@ -521,7 +605,7 @@ const FEED_DATA = {
     },
     {
       "title": "Toward automated verification of unreviewed AI-generated code",
-      "summary": "Article URL: https://peterlavigne.com/writing/verifying-ai-generated-code Comments URL: https://news.ycombinator.com/item?id=47397367 Points: 89 # Comments: 83",
+      "summary": "Article URL: https://peterlavigne.com/writing/verifying-ai-generated-code Comments URL: https://news.ycombinator.com/item?id=47397367 Points: 89 # Comments: 84",
       "source": "Hacker News",
       "published": "2026-03-16T10:52:33+00:00",
       "link": "https://peterlavigne.com/writing/verifying-ai-generated-code"
@@ -549,7 +633,7 @@ const FEED_DATA = {
     },
     {
       "title": "Why I may ‘hire’ AI instead of a graduate student",
-      "summary": "Article URL: https://www.science.org/content/article/why-i-may-hire-ai-instead-graduate-student Comments URL: https://news.ycombinator.com/item?id=47396557 Points: 106 # Comments: 107",
+      "summary": "Article URL: https://www.science.org/content/article/why-i-may-hire-ai-instead-graduate-student Comments URL: https://news.ycombinator.com/item?id=47396557 Points: 109 # Comments: 108",
       "source": "Hacker News",
       "published": "2026-03-16T08:59:13+00:00",
       "link": "https://www.science.org/content/article/why-i-may-hire-ai-instead-graduate-student"
@@ -954,18 +1038,18 @@ const FEED_DATA = {
       "link": "https://the-decoder.com/meta-delays-its-next-ai-model-avocado-after-internal-tests-show-it-cant-keep-up-with-google-and-openai/"
     },
     {
-      "title": "Future AI chips could be built on glass",
-      "summary": "Human-made glass is thousands of years old. But it’s now poised to find its way into the AI chips used in the world’s newest and largest data centers.",
-      "source": "MIT Tech Review",
-      "published": "2026-03-13T09:00:00+00:00",
-      "link": "https://www.technologyreview.com/2026/03/13/1134230/future-ai-chips-could-be-built-on-glass/"
-    },
-    {
       "title": "BMW puts humanoid robots to work in Germany–and Europe’s factories are watching",
       "summary": "Europe’s factory floors have a new kind of colleague. BMW Group has deployed humanoid robots in manufacturing in Germany for the first time, launching a pilot project at its Leipzig plant with AEON–a wheeled humanoid built by Hexagon Robotics.",
       "source": "AI News",
       "published": "2026-03-13T09:00:00+00:00",
       "link": "https://www.artificialintelligence-news.com/news/bmw-humanoid-robots-manufacturing-europe-leipzig/"
+    },
+    {
+      "title": "Future AI chips could be built on glass",
+      "summary": "Human-made glass is thousands of years old. But it’s now poised to find its way into the AI chips used in the world’s newest and largest data centers.",
+      "source": "MIT Tech Review",
+      "published": "2026-03-13T09:00:00+00:00",
+      "link": "https://www.technologyreview.com/2026/03/13/1134230/future-ai-chips-could-be-built-on-glass/"
     },
     {
       "title": "Before quantum computing arrives, this startup wants enterprises already running on it",
@@ -1316,90 +1400,6 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-03-12T11:54:36+00:00",
       "link": "https://the-decoder.com/meta-unveils-four-generations-of-custom-ai-chips-to-cut-inference-costs-for-billions-of-users/"
-    },
-    {
-      "title": "Are LLM merge rates not getting better?",
-      "summary": "Related: Many SWE-bench-Passing PRs would not be merged - https://news.ycombinator.com/item?id=47341645 - March 2026 (149 comments) Comments URL: https://news.ycombinator.com/item?id=47349334 Points: 170 # Comments: 157",
-      "source": "Hacker News",
-      "published": "2026-03-12T11:49:05+00:00",
-      "link": "https://entropicthoughts.com/no-swe-bench-improvement"
-    },
-    {
-      "title": "Brutal times for the US battery industry",
-      "summary": "Just a few years ago, the battery industry was hot, hot, hot. There was a seemingly infinite number of companies popping up, with shiny new chemistries and massive fundraising rounds.",
-      "source": "MIT Tech Review",
-      "published": "2026-03-12T10:00:00+00:00",
-      "link": "https://www.technologyreview.com/2026/03/12/1134197/us-battery-industry/"
-    },
-    {
-      "title": "Reliable Software in the LLM Era",
-      "summary": "Article URL: https://quint-lang.org/posts/llm_era Comments URL: https://news.ycombinator.com/item?id=47347901 Points: 108 # Comments: 35",
-      "source": "Hacker News",
-      "published": "2026-03-12T08:19:46+00:00",
-      "link": "https://quint-lang.org/posts/llm_era"
-    },
-    {
-      "title": "FIFA is rebuilding world football operations on AI. The World Cup is just the first test",
-      "summary": "When Romy Gai, FIFA’s chief business officer, described the operational challenge of running a 48-team World Cup across Canada, Mexico and the United States, he was not talking about technology. He was talking about complexity.",
-      "source": "AI News",
-      "published": "2026-03-12T08:00:00+00:00",
-      "link": "https://www.artificialintelligence-news.com/news/fifa-ai-world-cup-2026-lenovo/"
-    },
-    {
-      "title": "How much of HN is AI?",
-      "summary": "Article URL: https://lcamtuf.substack.com/p/how-much-of-hn-is-ai Comments URL: https://news.ycombinator.com/item?id=47344999 Points: 101 # Comments: 56",
-      "source": "Hacker News",
-      "published": "2026-03-12T01:15:40+00:00",
-      "link": "https://lcamtuf.substack.com/p/how-much-of-hn-is-ai"
-    },
-    {
-      "title": "AI ‘actor’ Tilly Norwood put out the worst song I’ve ever heard",
-      "summary": "This song is an AI actor's rallying cry to other AI actors, urging them to keep going despite the naysayers who doubt their humanity. Literally no one can relate to this.",
-      "source": "TechCrunch",
-      "published": "2026-03-11T23:35:03+00:00",
-      "link": "https://techcrunch.com/2026/03/11/ai-actor-tilly-norwood-put-out-the-worst-song-ive-ever-heard/"
-    },
-    {
-      "title": "One of Grammarly’s ‘experts’ is suing the company over its identity-stealing AI feature",
-      "summary": "For months, Grammarly has been using the identities of real people (including us) for its \"Expert Review\" AI suggestions without getting their permission, and now it's facing a lawsuit from one of the journalists included, as previously reported by Wired.",
-      "source": "The Verge",
-      "published": "2026-03-11T22:51:53+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/893451/grammarly-ai-lawsuit-julia-angwin"
-    },
-    {
-      "title": "Ford’s new AI assistant will help fleet owners know if seatbelts are being used",
-      "summary": "Ford Pro AI debuted at Work Truck Week in Indianapolis and is now available to all of its U.S.-based Pro telematics subscribers.",
-      "source": "TechCrunch",
-      "published": "2026-03-11T22:51:39+00:00",
-      "link": "https://techcrunch.com/2026/03/11/fords-new-ai-assistant-will-help-fleet-owners-know-if-seatbelts-are-being-used/"
-    },
-    {
-      "title": "Zendesk acquires agentic customer service startup Forethought",
-      "summary": "Forethought was years ahead of its time and the 2018 winner of TechCrunch Battlefield.",
-      "source": "TechCrunch",
-      "published": "2026-03-11T22:41:27+00:00",
-      "link": "https://techcrunch.com/2026/03/11/zendesk-acquires-agentic-customer-service-startup-forethought/"
-    },
-    {
-      "title": "Atlassian to cut roughly 1,600 jobs in pivot to AI",
-      "summary": "Article URL: https://www.reuters.com/technology/atlassian-lay-off-about-1600-people-pivot-ai-2026-03-11/ Comments URL: https://news.ycombinator.com/item?id=47343156 Points: 222 # Comments: 301",
-      "source": "Hacker News",
-      "published": "2026-03-11T22:29:42+00:00",
-      "link": "https://www.reuters.com/technology/atlassian-lay-off-about-1600-people-pivot-ai-2026-03-11/"
-    },
-    {
-      "title": "Netflix may have paid $600 million for Ben Affleck’s AI startup",
-      "summary": "This deal could rank as among the streaming giant's largest acquisitions ever.",
-      "source": "TechCrunch",
-      "published": "2026-03-11T22:00:05+00:00",
-      "link": "https://techcrunch.com/2026/03/11/netflix-may-have-paid-600-million-for-ben-afflecks-ai-startup/"
-    },
-    {
-      "title": "Preliminary data from a longitudinal AI impact study",
-      "summary": "Article URL: https://newsletter.getdx.com/p/ai-productivity-gains-are-10-not Comments URL: https://news.ycombinator.com/item?id=47342139 Points: 62 # Comments: 39",
-      "source": "Hacker News",
-      "published": "2026-03-11T21:23:24+00:00",
-      "link": "https://newsletter.getdx.com/p/ai-productivity-gains-are-10-not"
     }
   ]
 };
