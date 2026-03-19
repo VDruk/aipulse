@@ -1,9 +1,44 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-03-19T07:37:47.596071+00:00",
+  "lastUpdated": "2026-03-19T11:08:57.726401+00:00",
   "items": [
     {
+      "title": "OpenAI's AWS deal may undermine Microsoft's Azure exclusivity rights",
+      "summary": "Microsoft fears OpenAI's AWS deal may violate Azure exclusivity contract. The article OpenAI's AWS deal may undermine Microsoft's Azure exclusivity rights appeared first on The Decoder.",
+      "source": "The Decoder",
+      "published": "2026-03-19T10:11:32+00:00",
+      "link": "https://the-decoder.com/openais-aws-deal-may-undermine-microsofts-azure-exclusivity-rights/"
+    },
+    {
+      "title": "The Fight to Hold AI Companies Accountable for Children’s Deaths",
+      "summary": "After a series of suicides allegedly linked to AI chatbots, one lawyer is trying to hold companies like OpenAI accountable.",
+      "source": "Wired",
+      "published": "2026-03-19T10:00:00+00:00",
+      "link": "https://www.wired.com/story/how-ai-chatbots-drove-families-to-the-brink-and-the-lawyer-fighting-back/"
+    },
+    {
+      "title": "Visa prepares payment systems for AI agent-initiated transactions",
+      "summary": "Payments rely on a simple model: a person decides to buy something, and a bank or card network processes the transaction. That model is starting to change as Visa tests how AI agents can initiate payments.",
+      "source": "AI News",
+      "published": "2026-03-19T10:00:00+00:00",
+      "link": "https://www.artificialintelligence-news.com/news/visa-prepares-payment-systems-for-ai-agent-initiated-transactions/"
+    },
+    {
+      "title": "Multiverse Computing pushes its compressed AI models into the mainstream",
+      "summary": "After compressing models from major AI labs including OpenAI, Meta, DeepSeek and Mistral AI, Multiverse Computing has launched both an app that showcases the capabilities of its compressed models and an API that makes them more widely available.",
+      "source": "TechCrunch",
+      "published": "2026-03-19T08:00:00+00:00",
+      "link": "https://techcrunch.com/2026/03/19/multiverse-computing-pushes-its-compressed-ai-models-into-the-mainstream/"
+    },
+    {
+      "title": "NVIDIA wants enterprise AI agents safer to deploy",
+      "summary": "The NVIDIA Agent Toolkit is Jensen Huang’s answer to the question enterprises keep asking: how do we put AI agents to work without losing control of our data and our liability?",
+      "source": "AI News",
+      "published": "2026-03-19T08:00:00+00:00",
+      "link": "https://www.artificialintelligence-news.com/news/nvidia-agent-toolkit-enterprise-ai-agents/"
+    },
+    {
       "title": "What 81,000 people want from AI",
-      "summary": "Article URL: https://www.anthropic.com/features/81k-interviews Comments URL: https://news.ycombinator.com/item?id=47435156 Points: 80 # Comments: 61",
+      "summary": "Article URL: https://www.anthropic.com/features/81k-interviews Comments URL: https://news.ycombinator.com/item?id=47435156 Points: 137 # Comments: 110",
       "source": "Hacker News",
       "published": "2026-03-19T05:00:56+00:00",
       "link": "https://www.anthropic.com/features/81k-interviews"
@@ -87,7 +122,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI coding is gambling",
-      "summary": "Article URL: https://notes.visaint.space/ai-coding-is-gambling/ Comments URL: https://news.ycombinator.com/item?id=47428541 Points: 325 # Comments: 397",
+      "summary": "Article URL: https://notes.visaint.space/ai-coding-is-gambling/ Comments URL: https://news.ycombinator.com/item?id=47428541 Points: 330 # Comments: 400",
       "source": "Hacker News",
       "published": "2026-03-18T17:22:02+00:00",
       "link": "https://notes.visaint.space/ai-coding-is-gambling/"
@@ -101,7 +136,7 @@ const FEED_DATA = {
     },
     {
       "title": "Americans Recognize AI as a Wealth Inequality Machine, Polls Find",
-      "summary": "Article URL: https://gizmodo.com/americans-recognize-ai-as-a-wealth-inequality-machine-pollsters-find-2000734713 Comments URL: https://news.ycombinator.com/item?id=47428335 Points: 53 # Comments: 22",
+      "summary": "Article URL: https://gizmodo.com/americans-recognize-ai-as-a-wealth-inequality-machine-pollsters-find-2000734713 Comments URL: https://news.ycombinator.com/item?id=47428335 Points: 53 # Comments: 20",
       "source": "Hacker News",
       "published": "2026-03-18T17:07:21+00:00",
       "link": "https://gizmodo.com/americans-recognize-ai-as-a-wealth-inequality-machine-pollsters-find-2000734713"
@@ -143,7 +178,7 @@ const FEED_DATA = {
     },
     {
       "title": "Google Engineers Launch \"Sashiko\" for Agentic AI Code Review of the Linux Kernel",
-      "summary": "Article URL: https://www.phoronix.com/news/Sashiko-Linux-AI-Code-Review Comments URL: https://news.ycombinator.com/item?id=47427647 Points: 93 # Comments: 42",
+      "summary": "Article URL: https://www.phoronix.com/news/Sashiko-Linux-AI-Code-Review Comments URL: https://news.ycombinator.com/item?id=47427647 Points: 94 # Comments: 46",
       "source": "Hacker News",
       "published": "2026-03-18T16:17:44+00:00",
       "link": "https://www.phoronix.com/news/Sashiko-Linux-AI-Code-Review"
@@ -178,7 +213,7 @@ const FEED_DATA = {
     },
     {
       "title": "Snowflake AI Escapes Sandbox and Executes Malware",
-      "summary": "Article URL: https://www.promptarmor.com/resources/snowflake-ai-escapes-sandbox-and-executes-malware Comments URL: https://news.ycombinator.com/item?id=47427017 Points: 246 # Comments: 80",
+      "summary": "Article URL: https://www.promptarmor.com/resources/snowflake-ai-escapes-sandbox-and-executes-malware Comments URL: https://news.ycombinator.com/item?id=47427017 Points: 251 # Comments: 81",
       "source": "Hacker News",
       "published": "2026-03-18T15:30:07+00:00",
       "link": "https://www.promptarmor.com/resources/snowflake-ai-escapes-sandbox-and-executes-malware"
@@ -262,14 +297,14 @@ const FEED_DATA = {
     },
     {
       "title": "Why AI systems don't learn – On autonomous learning from cognitive science",
-      "summary": "Article URL: https://arxiv.org/abs/2603.15381 Comments URL: https://news.ycombinator.com/item?id=47418722 Points: 183 # Comments: 110",
+      "summary": "Article URL: https://arxiv.org/abs/2603.15381 Comments URL: https://news.ycombinator.com/item?id=47418722 Points: 188 # Comments: 111",
       "source": "Hacker News",
       "published": "2026-03-17T21:42:39+00:00",
       "link": "https://arxiv.org/abs/2603.15381"
     },
     {
       "title": "Mistral AI Releases Forge",
-      "summary": "Article URL: https://mistral.ai/news/forge Comments URL: https://news.ycombinator.com/item?id=47418295 Points: 711 # Comments: 180",
+      "summary": "Article URL: https://mistral.ai/news/forge Comments URL: https://news.ycombinator.com/item?id=47418295 Points: 714 # Comments: 182",
       "source": "Hacker News",
       "published": "2026-03-17T21:04:26+00:00",
       "link": "https://mistral.ai/news/forge"
@@ -325,7 +360,7 @@ const FEED_DATA = {
     },
     {
       "title": "GPT‑5.4 Mini and Nano",
-      "summary": "Article URL: https://openai.com/index/introducing-gpt-5-4-mini-and-nano Comments URL: https://news.ycombinator.com/item?id=47415441 Points: 244 # Comments: 143",
+      "summary": "Article URL: https://openai.com/index/introducing-gpt-5-4-mini-and-nano Comments URL: https://news.ycombinator.com/item?id=47415441 Points: 245 # Comments: 143",
       "source": "Hacker News",
       "published": "2026-03-17T17:07:06+00:00",
       "link": "https://openai.com/index/introducing-gpt-5-4-mini-and-nano"
@@ -542,7 +577,7 @@ const FEED_DATA = {
     },
     {
       "title": "Nvidia Launches Vera CPU, Purpose-Built for Agentic AI",
-      "summary": "Article URL: https://nvidianews.nvidia.com/news/nvidia-launches-vera-cpu-purpose-built-for-agentic-ai Comments URL: https://news.ycombinator.com/item?id=47404074 Points: 175 # Comments: 100",
+      "summary": "Article URL: https://nvidianews.nvidia.com/news/nvidia-launches-vera-cpu-purpose-built-for-agentic-ai Comments URL: https://news.ycombinator.com/item?id=47404074 Points: 176 # Comments: 100",
       "source": "Hacker News",
       "published": "2026-03-16T20:01:02+00:00",
       "link": "https://nvidianews.nvidia.com/news/nvidia-launches-vera-cpu-purpose-built-for-agentic-ai"
@@ -773,7 +808,7 @@ const FEED_DATA = {
     },
     {
       "title": "Why I may ‘hire’ AI instead of a graduate student",
-      "summary": "Article URL: https://www.science.org/content/article/why-i-may-hire-ai-instead-graduate-student Comments URL: https://news.ycombinator.com/item?id=47396557 Points: 109 # Comments: 109",
+      "summary": "Article URL: https://www.science.org/content/article/why-i-may-hire-ai-instead-graduate-student Comments URL: https://news.ycombinator.com/item?id=47396557 Points: 110 # Comments: 109",
       "source": "Hacker News",
       "published": "2026-03-16T08:59:13+00:00",
       "link": "https://www.science.org/content/article/why-i-may-hire-ai-instead-graduate-student"
@@ -1365,41 +1400,6 @@ const FEED_DATA = {
       "source": "Hacker News",
       "published": "2026-03-12T16:12:04+00:00",
       "link": "https://data-workers.org/wp-content/uploads/2025/12/The-Emotional-Labor-Behind-AI-Intimacy-1.pdf"
-    },
-    {
-      "title": "Anthropic’s Claude AI can respond with charts, diagrams, and other visuals now",
-      "summary": "Anthropic's latest update to Claude will allow the AI chatbot to generate custom charts, diagrams, and other visualizations during your conversation.",
-      "source": "The Verge",
-      "published": "2026-03-12T16:00:00+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/893625/anthropic-claude-ai-charts-diagrams"
-    },
-    {
-      "title": "AI should not replace people at Atlassian, says CEO",
-      "summary": "Article URL: https://www.heise.de/en/news/Atlassian-CEO-AI-doesn-t-replace-people-here-but-we-re-firing-them-anyway-11208758.html Comments URL: https://news.ycombinator.com/item?id=47352335 Points: 118 # Comments: 53",
-      "source": "Hacker News",
-      "published": "2026-03-12T15:36:53+00:00",
-      "link": "https://www.heise.de/en/news/Atlassian-CEO-AI-doesn-t-replace-people-here-but-we-re-firing-them-anyway-11208758.html"
-    },
-    {
-      "title": "Gumloop lands $50M from Benchmark to turn every employee into an AI agent builder",
-      "summary": "As companies race to adopt AI, Benchmark general partner Everett Randle believes the key to success lies in empowering every worker with AI superpowers, and Gumloop’s intuitive agent builder is an example of the kind of tool that will unlock that potential.",
-      "source": "TechCrunch",
-      "published": "2026-03-12T15:30:00+00:00",
-      "link": "https://techcrunch.com/2026/03/12/gumloop-lands-50m-from-benchmark-to-turn-every-employee-into-an-ai-agent-builder/"
-    },
-    {
-      "title": "Wonderful raises $150M Series B at $2B valuation",
-      "summary": "The funding round, led by Insight Partners, comes just four months after Wonderful raised a $100 million Series A.",
-      "source": "TechCrunch",
-      "published": "2026-03-12T15:12:35+00:00",
-      "link": "https://techcrunch.com/2026/03/12/wonderful-raises-150m-series-b-at-2b-valuation/"
-    },
-    {
-      "title": "Iranian propaganda images made with AI end up in major German media outlet",
-      "summary": "Der Spiegel has removed several images from its Iran coverage because they were most likely generated or altered by AI. The article Iranian propaganda images made with AI end up in major German media outlet appeared first on The Decoder.",
-      "source": "The Decoder",
-      "published": "2026-03-12T15:08:53+00:00",
-      "link": "https://the-decoder.com/iranian-propaganda-images-made-with-ai-end-up-in-major-german-media-outlet/"
     }
   ]
 };
