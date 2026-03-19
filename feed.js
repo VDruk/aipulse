@@ -1,6 +1,62 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-03-19T11:08:57.726401+00:00",
+  "lastUpdated": "2026-03-19T16:11:09.123970+00:00",
   "items": [
+    {
+      "title": "Signal’s Creator Is Helping Encrypt Meta AI",
+      "summary": "Moxie Marlinspike says the technology powering his encrypted AI chatbot, Confer, will be integrated into Meta AI. The move could help protect the AI conversations of millions of people.",
+      "source": "Wired",
+      "published": "2026-03-19T14:09:51+00:00",
+      "link": "https://www.wired.com/story/signals-creator-is-helping-encrypt-meta-ai/"
+    },
+    {
+      "title": "As demand for realistic AI training grows, Deeptune raises $43 million to build simulated workplaces",
+      "summary": "Andreessen Horowitz invests $43 million in Deeptune, a startup that trains AI agents in simulated workplaces. The article As demand for realistic AI training grows, Deeptune raises $43 million to build simulated workplaces appeared first on The Decoder.",
+      "source": "The Decoder",
+      "published": "2026-03-19T13:35:13+00:00",
+      "link": "https://the-decoder.com/as-demand-for-realistic-ai-training-grows-deeptune-raises-43-million-to-build-simulated-workplaces/"
+    },
+    {
+      "title": "Adobe’s AI image generator can now be trained on your own art",
+      "summary": "Adobe is launching customizable AI image generators that can mimic specific artistic styles and character designs.",
+      "source": "The Verge",
+      "published": "2026-03-19T13:00:00+00:00",
+      "link": "https://www.theverge.com/tech/897243/adobe-firefly-ai-custom-models-image-public-beta"
+    },
+    {
+      "title": "The biggest moat in AI belongs to the company that can't even fix Siri",
+      "summary": "Apple's own AI efforts lag the competition. Yet the company is set to cross $1 billion in generative AI revenue by 2026 because the iPhone remains one of the most important gateways to chatbots.",
+      "source": "The Decoder",
+      "published": "2026-03-19T12:42:29+00:00",
+      "link": "https://the-decoder.com/the-biggest-moat-in-ai-belongs-to-the-company-that-cant-even-fix-siri/"
+    },
+    {
+      "title": "Fitbit’s AI health coach will soon be able to read your medical records",
+      "summary": "Would you share your medical records with a personal trainer? How about a virtual one?",
+      "source": "The Verge",
+      "published": "2026-03-19T12:27:23+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/897250/fitbits-ai-health-coach-reads-medical-records"
+    },
+    {
+      "title": "The Download: Quantum computing for health, and why the world doesn’t recycle more nuclear waste",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.",
+      "source": "MIT Tech Review",
+      "published": "2026-03-19T12:17:02+00:00",
+      "link": "https://www.technologyreview.com/2026/03/19/1134413/the-download-quantum-computing-health-recycling-nuclear-waste/"
+    },
+    {
+      "title": "A rogue AI agent caused a serious security incident at Meta",
+      "summary": "An out-of-control AI agent has triggered a serious security incident at Meta, reports The Information. The article A rogue AI agent caused a serious security incident at Meta appeared first on The Decoder.",
+      "source": "The Decoder",
+      "published": "2026-03-19T11:20:04+00:00",
+      "link": "https://the-decoder.com/a-rogue-ai-agent-caused-a-serious-security-incident-at-meta/"
+    },
+    {
+      "title": "A $5 million prize awaits proof that quantum computers can solve health care problems",
+      "summary": "I’m standing in front of a quantum computer built out of atoms and light at the UK’s National Quantum Computing Centre on the outskirts of Oxford.",
+      "source": "MIT Tech Review",
+      "published": "2026-03-19T10:51:43+00:00",
+      "link": "https://www.technologyreview.com/2026/03/19/1134409/a-5-million-prize-awaits-proof-that-quantum-computers-can-solve-health-care-problems/"
+    },
     {
       "title": "OpenAI's AWS deal may undermine Microsoft's Azure exclusivity rights",
       "summary": "Microsoft fears OpenAI's AWS deal may violate Azure exclusivity contract. The article OpenAI's AWS deal may undermine Microsoft's Azure exclusivity rights appeared first on The Decoder.",
@@ -1192,18 +1248,18 @@ const FEED_DATA = {
       "link": "https://www.wired.com/story/gamers-ai-nightmares-are-coming-true/"
     },
     {
-      "title": "Palantir Demos Show How the Military Could Use AI Chatbots to Generate War Plans",
-      "summary": "Software demos and Pentagon records detail how chatbots like Anthropic’s Claude could help the Pentagon analyze intelligence and suggest next steps.",
-      "source": "Wired",
-      "published": "2026-03-13T10:00:00+00:00",
-      "link": "https://www.wired.com/story/palantir-demos-show-how-the-military-can-use-ai-chatbots-to-generate-war-plans/"
-    },
-    {
       "title": "E.SUN Bank and IBM build AI governance framework for banking",
       "summary": "E.SUN Bank is working with IBM to build clearer AI governance rules for how artificial intelligence can be used inside a bank. The effort reflects a wider shift in finance.",
       "source": "AI News",
       "published": "2026-03-13T10:00:00+00:00",
       "link": "https://www.artificialintelligence-news.com/news/e-sun-bank-and-ibm-build-ai-governance-framework-for-banking/"
+    },
+    {
+      "title": "Palantir Demos Show How the Military Could Use AI Chatbots to Generate War Plans",
+      "summary": "Software demos and Pentagon records detail how chatbots like Anthropic’s Claude could help the Pentagon analyze intelligence and suggest next steps.",
+      "source": "Wired",
+      "published": "2026-03-13T10:00:00+00:00",
+      "link": "https://www.wired.com/story/palantir-demos-show-how-the-military-can-use-ai-chatbots-to-generate-war-plans/"
     },
     {
       "title": "Meta delays its next AI model Avocado after internal tests show it can't keep up with Google and OpenAI",
@@ -1344,62 +1400,6 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-03-12T17:20:19+00:00",
       "link": "https://techcrunch.com/2026/03/12/atlassian-follows-blocks-footsteps-and-cuts-staff-in-the-name-of-ai/"
-    },
-    {
-      "title": "Claude can now create interactive charts and visualizations directly in chat",
-      "summary": "Anthropic has launched a new beta feature for its AI chatbot Claude: the ability to generate interactive diagrams, charts, and visualizations directly within the conversation.",
-      "source": "The Decoder",
-      "published": "2026-03-12T17:12:09+00:00",
-      "link": "https://the-decoder.com/claude-can-now-create-interactive-charts-and-visualizations-directly-in-chat/"
-    },
-    {
-      "title": "Gemini’s task automation is here and it’s wild",
-      "summary": "A couple of weeks ago, Google and Samsung announced a big Gemini development coming to their newest devices: task automation.",
-      "source": "The Verge",
-      "published": "2026-03-12T16:59:43+00:00",
-      "link": "https://www.theverge.com/tech/893820/gemini-task-automation-samsung-s26-google-pixel-10"
-    },
-    {
-      "title": "Bumble introduces an AI dating assistant, ‘Bee’",
-      "summary": "Bumble's new AI assistant Bee will move the dating app beyond the swipe by matching people based on compatibility and goals.",
-      "source": "TechCrunch",
-      "published": "2026-03-12T16:52:17+00:00",
-      "link": "https://techcrunch.com/2026/03/12/bumble-introduces-an-ai-dating-assistant-bee/"
-    },
-    {
-      "title": "Bumble to launch an AI dating assistant, ‘Bee’",
-      "summary": "Bumble's new AI assistant Bee will move the dating app beyond the swipe by matching people based on compatibility and goals.",
-      "source": "TechCrunch",
-      "published": "2026-03-12T16:52:17+00:00",
-      "link": "https://techcrunch.com/2026/03/12/bumble-to-launch-an-ai-dating-assistant-bee/"
-    },
-    {
-      "title": "A writer is suing Grammarly for turning her and other authors into ‘AI editors’ without consent",
-      "summary": "Journalist Julia Angwin is leading a class action lawsuit against Grammarly for violating her privacy and publicity rights.",
-      "source": "TechCrunch",
-      "published": "2026-03-12T16:42:40+00:00",
-      "link": "https://techcrunch.com/2026/03/12/a-writer-is-suing-grammarly-for-turning-her-and-other-authors-into-ai-editors-without-consent/"
-    },
-    {
-      "title": "Show HN: OneCLI – Vault for AI Agents in Rust",
-      "summary": "We built OneCLI because AI agents are being given raw API keys. And it's going about as well as you'd expect.",
-      "source": "Hacker News",
-      "published": "2026-03-12T16:41:06+00:00",
-      "link": "https://github.com/onecli/onecli"
-    },
-    {
-      "title": "ChatGPT still leads the chatbot market but its dominance is slipping as Google's Gemini gains ground",
-      "summary": "ChatGPT continues to dominate the chatbot market, but its lead is shrinking. According to new Similarweb figures, OpenAI's chatbot has fallen from 75.7 to 61.7 percent market share in just twelve months.",
-      "source": "The Decoder",
-      "published": "2026-03-12T16:30:47+00:00",
-      "link": "https://the-decoder.com/chatgpt-still-leads-the-chatbot-market-but-its-dominance-is-slipping-as-googles-gemini-gains-ground/"
-    },
-    {
-      "title": "The Emotional Labor Behind AI Intimacy (2025) [pdf]",
-      "summary": "Related: https://www.404media.co/ai-is-african-intelligence-the-worke... (https://archive.ph/yS8xb) Comments URL: https://news.ycombinator.com/item?id=47353019 Points: 70 # Comments: 18",
-      "source": "Hacker News",
-      "published": "2026-03-12T16:12:04+00:00",
-      "link": "https://data-workers.org/wp-content/uploads/2025/12/The-Emotional-Labor-Behind-AI-Intimacy-1.pdf"
     }
   ]
 };
