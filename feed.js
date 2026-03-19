@@ -1,6 +1,20 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-03-19T19:38:01.207004+00:00",
+  "lastUpdated": "2026-03-19T21:58:40.851208+00:00",
   "items": [
+    {
+      "title": "‘Uncanny Valley’: Nvidia’s ‘Super Bowl of AI,’ Tesla Disappoints, and Meta’s VR Metaverse ‘Shutdown’",
+      "summary": "In this episode, we dive into Nvidia’s annual developer conference and what CEO Jensen Huang is saying about the future of the company.",
+      "source": "Wired",
+      "published": "2026-03-19T21:43:56+00:00",
+      "link": "https://www.wired.com/story/uncanny-valley-podcast-nvidia-gtc-tesla-disappointed-fans-meta-horizon-worlds/"
+    },
+    {
+      "title": "Elevenlabs now lets you sell AI music you don't own",
+      "summary": "Elevenlabs has launched a marketplace for AI-generated music that pays creators when their tracks get downloaded or licensed. But who actually owns the music?",
+      "source": "The Decoder",
+      "published": "2026-03-19T19:51:08+00:00",
+      "link": "https://the-decoder.com/elevenlabs-now-lets-you-sell-ai-music-you-dont-own/"
+    },
     {
       "title": "Microsoft's superintelligence team ships MAI-Image-2, a text-to-image generator",
       "summary": "Microsoft's superintelligence team has unveiled its first product: MAI-Image-2, an image generator rolling out across Microsoft's products and eventually available via API.",
@@ -101,7 +115,7 @@ const FEED_DATA = {
     },
     {
       "title": "Ramtrack.eu – RAM Price Intelligence",
-      "summary": "Article URL: https://ramtrack.eu Comments URL: https://news.ycombinator.com/item?id=47438342 Points: 64 # Comments: 20",
+      "summary": "Article URL: https://ramtrack.eu Comments URL: https://news.ycombinator.com/item?id=47438342 Points: 76 # Comments: 24",
       "source": "Hacker News",
       "published": "2026-03-19T12:39:46+00:00",
       "link": "https://ramtrack.eu"
@@ -136,7 +150,7 @@ const FEED_DATA = {
     },
     {
       "title": "2% of ICML papers desk rejected because the authors used LLM in their reviews",
-      "summary": "Article URL: https://blog.icml.cc/2026/03/18/on-violations-of-llm-review-policies/ Comments URL: https://news.ycombinator.com/item?id=47437101 Points: 177 # Comments: 146",
+      "summary": "Article URL: https://blog.icml.cc/2026/03/18/on-violations-of-llm-review-policies/ Comments URL: https://news.ycombinator.com/item?id=47437101 Points: 181 # Comments: 150",
       "source": "Hacker News",
       "published": "2026-03-19T10:17:46+00:00",
       "link": "https://blog.icml.cc/2026/03/18/on-violations-of-llm-review-policies/"
@@ -178,7 +192,7 @@ const FEED_DATA = {
     },
     {
       "title": "What 81,000 people want from AI",
-      "summary": "Article URL: https://www.anthropic.com/features/81k-interviews Comments URL: https://news.ycombinator.com/item?id=47435156 Points: 179 # Comments: 171",
+      "summary": "Article URL: https://www.anthropic.com/features/81k-interviews Comments URL: https://news.ycombinator.com/item?id=47435156 Points: 186 # Comments: 175",
       "source": "Hacker News",
       "published": "2026-03-19T05:00:56+00:00",
       "link": "https://www.anthropic.com/features/81k-interviews"
@@ -262,7 +276,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI coding is gambling",
-      "summary": "Article URL: https://notes.visaint.space/ai-coding-is-gambling/ Comments URL: https://news.ycombinator.com/item?id=47428541 Points: 341 # Comments: 415",
+      "summary": "Article URL: https://notes.visaint.space/ai-coding-is-gambling/ Comments URL: https://news.ycombinator.com/item?id=47428541 Points: 342 # Comments: 417",
       "source": "Hacker News",
       "published": "2026-03-18T17:22:02+00:00",
       "link": "https://notes.visaint.space/ai-coding-is-gambling/"
@@ -276,7 +290,7 @@ const FEED_DATA = {
     },
     {
       "title": "Americans Recognize AI as a Wealth Inequality Machine, Polls Find",
-      "summary": "Article URL: https://gizmodo.com/americans-recognize-ai-as-a-wealth-inequality-machine-pollsters-find-2000734713 Comments URL: https://news.ycombinator.com/item?id=47428335 Points: 55 # Comments: 20",
+      "summary": "Article URL: https://gizmodo.com/americans-recognize-ai-as-a-wealth-inequality-machine-pollsters-find-2000734713 Comments URL: https://news.ycombinator.com/item?id=47428335 Points: 56 # Comments: 20",
       "source": "Hacker News",
       "published": "2026-03-18T17:07:21+00:00",
       "link": "https://gizmodo.com/americans-recognize-ai-as-a-wealth-inequality-machine-pollsters-find-2000734713"
@@ -318,7 +332,7 @@ const FEED_DATA = {
     },
     {
       "title": "Google Engineers Launch \"Sashiko\" for Agentic AI Code Review of the Linux Kernel",
-      "summary": "Article URL: https://www.phoronix.com/news/Sashiko-Linux-AI-Code-Review Comments URL: https://news.ycombinator.com/item?id=47427647 Points: 98 # Comments: 49",
+      "summary": "Article URL: https://www.phoronix.com/news/Sashiko-Linux-AI-Code-Review Comments URL: https://news.ycombinator.com/item?id=47427647 Points: 101 # Comments: 49",
       "source": "Hacker News",
       "published": "2026-03-18T16:17:44+00:00",
       "link": "https://www.phoronix.com/news/Sashiko-Linux-AI-Code-Review"
@@ -353,7 +367,7 @@ const FEED_DATA = {
     },
     {
       "title": "Snowflake AI Escapes Sandbox and Executes Malware",
-      "summary": "Article URL: https://www.promptarmor.com/resources/snowflake-ai-escapes-sandbox-and-executes-malware Comments URL: https://news.ycombinator.com/item?id=47427017 Points: 258 # Comments: 83",
+      "summary": "Article URL: https://www.promptarmor.com/resources/snowflake-ai-escapes-sandbox-and-executes-malware Comments URL: https://news.ycombinator.com/item?id=47427017 Points: 261 # Comments: 83",
       "source": "Hacker News",
       "published": "2026-03-18T15:30:07+00:00",
       "link": "https://www.promptarmor.com/resources/snowflake-ai-escapes-sandbox-and-executes-malware"
@@ -437,14 +451,14 @@ const FEED_DATA = {
     },
     {
       "title": "Why AI systems don't learn – On autonomous learning from cognitive science",
-      "summary": "Article URL: https://arxiv.org/abs/2603.15381 Comments URL: https://news.ycombinator.com/item?id=47418722 Points: 191 # Comments: 113",
+      "summary": "Article URL: https://arxiv.org/abs/2603.15381 Comments URL: https://news.ycombinator.com/item?id=47418722 Points: 193 # Comments: 113",
       "source": "Hacker News",
       "published": "2026-03-17T21:42:39+00:00",
       "link": "https://arxiv.org/abs/2603.15381"
     },
     {
       "title": "Mistral AI Releases Forge",
-      "summary": "Article URL: https://mistral.ai/news/forge Comments URL: https://news.ycombinator.com/item?id=47418295 Points: 717 # Comments: 186",
+      "summary": "Article URL: https://mistral.ai/news/forge Comments URL: https://news.ycombinator.com/item?id=47418295 Points: 720 # Comments: 186",
       "source": "Hacker News",
       "published": "2026-03-17T21:04:26+00:00",
       "link": "https://mistral.ai/news/forge"
@@ -647,7 +661,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI still doesn't work well, businesses are faking it, and a reckoning is coming",
-      "summary": "Article URL: https://www.theregister.com/2026/03/17/ai_businesses_faking_it_reckoning_coming_codestrap/ Comments URL: https://news.ycombinator.com/item?id=47407252 Points: 75 # Comments: 27",
+      "summary": "Article URL: https://www.theregister.com/2026/03/17/ai_businesses_faking_it_reckoning_coming_codestrap/ Comments URL: https://news.ycombinator.com/item?id=47407252 Points: 76 # Comments: 27",
       "source": "Hacker News",
       "published": "2026-03-17T00:56:47+00:00",
       "link": "https://www.theregister.com/2026/03/17/ai_businesses_faking_it_reckoning_coming_codestrap/"
@@ -1386,20 +1400,6 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-03-12T23:25:39+00:00",
       "link": "https://techcrunch.com/2026/03/12/how-to-watch-jensen-huangs-nvidia-gtc-2026-keynote/"
-    },
-    {
-      "title": "Grief and the AI split",
-      "summary": "Article URL: https://blog.lmorchard.com/2026/03/11/grief-and-the-ai-split/ Comments URL: https://news.ycombinator.com/item?id=47358206 Points: 244 # Comments: 378",
-      "source": "Hacker News",
-      "published": "2026-03-12T22:35:08+00:00",
-      "link": "https://blog.lmorchard.com/2026/03/11/grief-and-the-ai-split/"
-    },
-    {
-      "title": "Sales automation startup Rox AI hits $1.2B valuation, sources say",
-      "summary": "Rox, founded in 2024 by the former chief growth officer of New Relic, offers an AI-native alternative to CRM tools.",
-      "source": "TechCrunch",
-      "published": "2026-03-12T22:25:50+00:00",
-      "link": "https://techcrunch.com/2026/03/12/sales-automation-startup-rox-ai-hits-1-2b-valuation-sources-say/"
     }
   ]
 };
