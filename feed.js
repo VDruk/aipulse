@@ -1,6 +1,76 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-03-19T16:11:09.123970+00:00",
+  "lastUpdated": "2026-03-19T19:38:01.207004+00:00",
   "items": [
+    {
+      "title": "Microsoft's superintelligence team ships MAI-Image-2, a text-to-image generator",
+      "summary": "Microsoft's superintelligence team has unveiled its first product: MAI-Image-2, an image generator rolling out across Microsoft's products and eventually available via API.",
+      "source": "The Decoder",
+      "published": "2026-03-19T19:16:55+00:00",
+      "link": "https://the-decoder.com/microsofts-superintelligence-team-ships-mai-image-2-a-text-to-image-generator/"
+    },
+    {
+      "title": "Online bot traffic will exceed human traffic by 2027, Cloudflare CEO says",
+      "summary": "AI bots may outnumber humans online by 2027, says Cloudflare CEO Matthew Prince, as generative AI agents dramatically increase web traffic and infrastructure demands.",
+      "source": "TechCrunch",
+      "published": "2026-03-19T19:09:02+00:00",
+      "link": "https://techcrunch.com/2026/03/19/online-bot-traffic-will-exceed-human-traffic-by-2027-cloudflare-ceo-says/"
+    },
+    {
+      "title": "Google AI Studio now lets you vibe code real-time multiplayer games",
+      "summary": "Google AI Studio can now build full apps from voice commands, complete with databases, payments, and user logins. The article Google AI Studio now lets you vibe code real-time multiplayer games appeared first on The Decoder.",
+      "source": "The Decoder",
+      "published": "2026-03-19T18:43:44+00:00",
+      "link": "https://the-decoder.com/google-ai-studio-now-lets-you-vibe-code-real-time-multiplayer-games/"
+    },
+    {
+      "title": "A rogue AI led to a serious security incident at Meta",
+      "summary": "For almost two hours last week, Meta employees had unauthorized access to company and user data thanks to an AI agent that gave an employee inaccurate technical advice, as previously reported by The Information.",
+      "source": "The Verge",
+      "published": "2026-03-19T18:20:05+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/897528/meta-rogue-ai-agent-security-incident"
+    },
+    {
+      "title": "Google Shakes Up Its Browser Agent Team Amid OpenClaw Craze",
+      "summary": "As Silicon Valley obsesses over a new wave of AI coding agents, Google and other AI labs are shifting their bets.",
+      "source": "Wired",
+      "published": "2026-03-19T18:00:00+00:00",
+      "link": "https://www.wired.com/story/google-shakes-up-project-mariner-team-web-browsing-agents/"
+    },
+    {
+      "title": "Cursor takes on OpenAI and Anthropic with Composer 2, a code-only model built to match rivals at a fraction of the cost",
+      "summary": "Cursor releases Composer 2, the second generation of its own AI model for software development. The model is designed to keep pace with the leading coding models from Anthropic and OpenAI at significantly lower costs.",
+      "source": "The Decoder",
+      "published": "2026-03-19T17:52:16+00:00",
+      "link": "https://the-decoder.com/cursor-takes-on-openai-and-anthropic-with-composer-2-a-code-only-model-built-to-match-rivals-at-a-fraction-of-the-cost/"
+    },
+    {
+      "title": "Meta rolls out new AI content enforcement systems while reducing reliance on third-party vendors",
+      "summary": "Meta believes these AI systems can detect more violations with greater accuracy, better prevent scams, respond more quickly to real-world events, and reduce over-enforcement.",
+      "source": "TechCrunch",
+      "published": "2026-03-19T17:24:13+00:00",
+      "link": "https://techcrunch.com/2026/03/19/meta-rolls-out-new-ai-content-enforcement-systems-while-reducing-reliance-on-third-party-vendors/"
+    },
+    {
+      "title": "OpenAI overhauls ChatGPT's model selection",
+      "summary": "OpenAI has redesigned how model selection works in ChatGPT. The article OpenAI overhauls ChatGPT's model selection appeared first on The Decoder.",
+      "source": "The Decoder",
+      "published": "2026-03-19T16:25:55+00:00",
+      "link": "https://the-decoder.com/openai-overhauls-chatgpts-model-selection/"
+    },
+    {
+      "title": "DoorDash launches a new ‘Tasks’ app that pays couriers to submit videos to train AI",
+      "summary": "Delivery couriers will be able to earn money by completing activities like filming everyday tasks or recording themselves speaking in another language.",
+      "source": "TechCrunch",
+      "published": "2026-03-19T16:14:00+00:00",
+      "link": "https://techcrunch.com/2026/03/19/doordash-launches-a-new-tasks-app-that-pays-couriers-to-submit-videos-to-train-ai/"
+    },
+    {
+      "title": "ChatGPT’s ‘Adult Mode’ Could Spark a New Era of Intimate Surveillance",
+      "summary": "OpenAI plans to allow sexting with ChatGPT. A human-AI interaction expert warns of a privacy nightmare.",
+      "source": "Wired",
+      "published": "2026-03-19T16:06:49+00:00",
+      "link": "https://www.wired.com/story/chatgpt-adult-mode-new-era-of-intimate-surveillance/"
+    },
     {
       "title": "Signal’s Creator Is Helping Encrypt Meta AI",
       "summary": "Moxie Marlinspike says the technology powering his encrypted AI chatbot, Confer, will be integrated into Meta AI. The move could help protect the AI conversations of millions of people.",
@@ -28,6 +98,13 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-03-19T12:42:29+00:00",
       "link": "https://the-decoder.com/the-biggest-moat-in-ai-belongs-to-the-company-that-cant-even-fix-siri/"
+    },
+    {
+      "title": "Ramtrack.eu – RAM Price Intelligence",
+      "summary": "Article URL: https://ramtrack.eu Comments URL: https://news.ycombinator.com/item?id=47438342 Points: 64 # Comments: 20",
+      "source": "Hacker News",
+      "published": "2026-03-19T12:39:46+00:00",
+      "link": "https://ramtrack.eu"
     },
     {
       "title": "Fitbit’s AI health coach will soon be able to read your medical records",
@@ -58,6 +135,13 @@ const FEED_DATA = {
       "link": "https://www.technologyreview.com/2026/03/19/1134409/a-5-million-prize-awaits-proof-that-quantum-computers-can-solve-health-care-problems/"
     },
     {
+      "title": "2% of ICML papers desk rejected because the authors used LLM in their reviews",
+      "summary": "Article URL: https://blog.icml.cc/2026/03/18/on-violations-of-llm-review-policies/ Comments URL: https://news.ycombinator.com/item?id=47437101 Points: 177 # Comments: 146",
+      "source": "Hacker News",
+      "published": "2026-03-19T10:17:46+00:00",
+      "link": "https://blog.icml.cc/2026/03/18/on-violations-of-llm-review-policies/"
+    },
+    {
       "title": "OpenAI's AWS deal may undermine Microsoft's Azure exclusivity rights",
       "summary": "Microsoft fears OpenAI's AWS deal may violate Azure exclusivity contract. The article OpenAI's AWS deal may undermine Microsoft's Azure exclusivity rights appeared first on The Decoder.",
       "source": "The Decoder",
@@ -80,7 +164,7 @@ const FEED_DATA = {
     },
     {
       "title": "Multiverse Computing pushes its compressed AI models into the mainstream",
-      "summary": "After compressing models from major AI labs including OpenAI, Meta, DeepSeek and Mistral AI, Multiverse Computing has launched both an app that showcases the capabilities of its compressed models and an API that makes them more widely available.",
+      "summary": "After compressing models from major AI labs, including OpenAI, Meta, DeepSeek, and Mistral AI, Multiverse Computing has launched both an app that showcases the capabilities of its compressed models and an API that makes them more widely available.",
       "source": "TechCrunch",
       "published": "2026-03-19T08:00:00+00:00",
       "link": "https://techcrunch.com/2026/03/19/multiverse-computing-pushes-its-compressed-ai-models-into-the-mainstream/"
@@ -94,7 +178,7 @@ const FEED_DATA = {
     },
     {
       "title": "What 81,000 people want from AI",
-      "summary": "Article URL: https://www.anthropic.com/features/81k-interviews Comments URL: https://news.ycombinator.com/item?id=47435156 Points: 137 # Comments: 110",
+      "summary": "Article URL: https://www.anthropic.com/features/81k-interviews Comments URL: https://news.ycombinator.com/item?id=47435156 Points: 179 # Comments: 171",
       "source": "Hacker News",
       "published": "2026-03-19T05:00:56+00:00",
       "link": "https://www.anthropic.com/features/81k-interviews"
@@ -178,7 +262,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI coding is gambling",
-      "summary": "Article URL: https://notes.visaint.space/ai-coding-is-gambling/ Comments URL: https://news.ycombinator.com/item?id=47428541 Points: 330 # Comments: 400",
+      "summary": "Article URL: https://notes.visaint.space/ai-coding-is-gambling/ Comments URL: https://news.ycombinator.com/item?id=47428541 Points: 341 # Comments: 415",
       "source": "Hacker News",
       "published": "2026-03-18T17:22:02+00:00",
       "link": "https://notes.visaint.space/ai-coding-is-gambling/"
@@ -192,7 +276,7 @@ const FEED_DATA = {
     },
     {
       "title": "Americans Recognize AI as a Wealth Inequality Machine, Polls Find",
-      "summary": "Article URL: https://gizmodo.com/americans-recognize-ai-as-a-wealth-inequality-machine-pollsters-find-2000734713 Comments URL: https://news.ycombinator.com/item?id=47428335 Points: 53 # Comments: 20",
+      "summary": "Article URL: https://gizmodo.com/americans-recognize-ai-as-a-wealth-inequality-machine-pollsters-find-2000734713 Comments URL: https://news.ycombinator.com/item?id=47428335 Points: 55 # Comments: 20",
       "source": "Hacker News",
       "published": "2026-03-18T17:07:21+00:00",
       "link": "https://gizmodo.com/americans-recognize-ai-as-a-wealth-inequality-machine-pollsters-find-2000734713"
@@ -234,7 +318,7 @@ const FEED_DATA = {
     },
     {
       "title": "Google Engineers Launch \"Sashiko\" for Agentic AI Code Review of the Linux Kernel",
-      "summary": "Article URL: https://www.phoronix.com/news/Sashiko-Linux-AI-Code-Review Comments URL: https://news.ycombinator.com/item?id=47427647 Points: 94 # Comments: 46",
+      "summary": "Article URL: https://www.phoronix.com/news/Sashiko-Linux-AI-Code-Review Comments URL: https://news.ycombinator.com/item?id=47427647 Points: 98 # Comments: 49",
       "source": "Hacker News",
       "published": "2026-03-18T16:17:44+00:00",
       "link": "https://www.phoronix.com/news/Sashiko-Linux-AI-Code-Review"
@@ -269,7 +353,7 @@ const FEED_DATA = {
     },
     {
       "title": "Snowflake AI Escapes Sandbox and Executes Malware",
-      "summary": "Article URL: https://www.promptarmor.com/resources/snowflake-ai-escapes-sandbox-and-executes-malware Comments URL: https://news.ycombinator.com/item?id=47427017 Points: 251 # Comments: 81",
+      "summary": "Article URL: https://www.promptarmor.com/resources/snowflake-ai-escapes-sandbox-and-executes-malware Comments URL: https://news.ycombinator.com/item?id=47427017 Points: 258 # Comments: 83",
       "source": "Hacker News",
       "published": "2026-03-18T15:30:07+00:00",
       "link": "https://www.promptarmor.com/resources/snowflake-ai-escapes-sandbox-and-executes-malware"
@@ -353,14 +437,14 @@ const FEED_DATA = {
     },
     {
       "title": "Why AI systems don't learn – On autonomous learning from cognitive science",
-      "summary": "Article URL: https://arxiv.org/abs/2603.15381 Comments URL: https://news.ycombinator.com/item?id=47418722 Points: 188 # Comments: 111",
+      "summary": "Article URL: https://arxiv.org/abs/2603.15381 Comments URL: https://news.ycombinator.com/item?id=47418722 Points: 191 # Comments: 113",
       "source": "Hacker News",
       "published": "2026-03-17T21:42:39+00:00",
       "link": "https://arxiv.org/abs/2603.15381"
     },
     {
       "title": "Mistral AI Releases Forge",
-      "summary": "Article URL: https://mistral.ai/news/forge Comments URL: https://news.ycombinator.com/item?id=47418295 Points: 714 # Comments: 182",
+      "summary": "Article URL: https://mistral.ai/news/forge Comments URL: https://news.ycombinator.com/item?id=47418295 Points: 717 # Comments: 186",
       "source": "Hacker News",
       "published": "2026-03-17T21:04:26+00:00",
       "link": "https://mistral.ai/news/forge"
@@ -416,7 +500,7 @@ const FEED_DATA = {
     },
     {
       "title": "GPT‑5.4 Mini and Nano",
-      "summary": "Article URL: https://openai.com/index/introducing-gpt-5-4-mini-and-nano Comments URL: https://news.ycombinator.com/item?id=47415441 Points: 245 # Comments: 143",
+      "summary": "Article URL: https://openai.com/index/introducing-gpt-5-4-mini-and-nano Comments URL: https://news.ycombinator.com/item?id=47415441 Points: 246 # Comments: 144",
       "source": "Hacker News",
       "published": "2026-03-17T17:07:06+00:00",
       "link": "https://openai.com/index/introducing-gpt-5-4-mini-and-nano"
@@ -563,7 +647,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI still doesn't work well, businesses are faking it, and a reckoning is coming",
-      "summary": "Article URL: https://www.theregister.com/2026/03/17/ai_businesses_faking_it_reckoning_coming_codestrap/ Comments URL: https://news.ycombinator.com/item?id=47407252 Points: 74 # Comments: 27",
+      "summary": "Article URL: https://www.theregister.com/2026/03/17/ai_businesses_faking_it_reckoning_coming_codestrap/ Comments URL: https://news.ycombinator.com/item?id=47407252 Points: 75 # Comments: 27",
       "source": "Hacker News",
       "published": "2026-03-17T00:56:47+00:00",
       "link": "https://www.theregister.com/2026/03/17/ai_businesses_faking_it_reckoning_coming_codestrap/"
@@ -703,7 +787,7 @@ const FEED_DATA = {
     },
     {
       "title": "Speed at the cost of quality: Study of use of Cursor AI in open source projects (2025)",
-      "summary": "Article URL: https://arxiv.org/abs/2511.04427 Comments URL: https://news.ycombinator.com/item?id=47401734 Points: 147 # Comments: 80",
+      "summary": "Article URL: https://arxiv.org/abs/2511.04427 Comments URL: https://news.ycombinator.com/item?id=47401734 Points: 147 # Comments: 81",
       "source": "Hacker News",
       "published": "2026-03-16T17:07:37+00:00",
       "link": "https://arxiv.org/abs/2511.04427"
@@ -836,7 +920,7 @@ const FEED_DATA = {
     },
     {
       "title": "Toward automated verification of unreviewed AI-generated code",
-      "summary": "Article URL: https://peterlavigne.com/writing/verifying-ai-generated-code Comments URL: https://news.ycombinator.com/item?id=47397367 Points: 92 # Comments: 84",
+      "summary": "Article URL: https://peterlavigne.com/writing/verifying-ai-generated-code Comments URL: https://news.ycombinator.com/item?id=47397367 Points: 92 # Comments: 85",
       "source": "Hacker News",
       "published": "2026-03-16T10:52:33+00:00",
       "link": "https://peterlavigne.com/writing/verifying-ai-generated-code"
@@ -1316,90 +1400,6 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-03-12T22:25:50+00:00",
       "link": "https://techcrunch.com/2026/03/12/sales-automation-startup-rox-ai-hits-1-2b-valuation-sources-say/"
-    },
-    {
-      "title": "A defense official reveals how AI chatbots could be used for targeting decisions",
-      "summary": "The US military might use generative AI systems to rank lists of targets and make recommendations—which would be vetted by humans—about which to strike first, according to a Defense Department official with knowledge of the matter.",
-      "source": "MIT Tech Review",
-      "published": "2026-03-12T22:23:34+00:00",
-      "link": "https://www.technologyreview.com/2026/03/12/1134243/defense-official-military-use-ai-chatbots-targeting-decisions/"
-    },
-    {
-      "title": "Innocent woman jailed after being misidentified using AI facial recognition",
-      "summary": "Article URL: https://www.grandforksherald.com/news/north-dakota/ai-error-jails-innocent-grandmother-for-months-in-north-dakota-fraud-case Comments URL: https://news.ycombinator.com/item?id=47356968 Points: 754 # Comments: 386",
-      "source": "Hacker News",
-      "published": "2026-03-12T20:55:51+00:00",
-      "link": "https://www.grandforksherald.com/news/north-dakota/ai-error-jails-innocent-grandmother-for-months-in-north-dakota-fraud-case"
-    },
-    {
-      "title": "Amazon Employees Say AI Is Just Increasing Workload",
-      "summary": "Article URL: https://gizmodo.com/amazon-employees-say-ai-is-just-increasing-workload-a-new-study-confirms-their-suspicions-2000732794 Comments URL: https://news.ycombinator.com/item?id=47356223 Points: 120 # Comments: 37",
-      "source": "Hacker News",
-      "published": "2026-03-12T19:57:16+00:00",
-      "link": "https://gizmodo.com/amazon-employees-say-ai-is-just-increasing-workload-a-new-study-confirms-their-suspicions-2000732794"
-    },
-    {
-      "title": "‘Uncanny Valley’: Anthropic’s DOD Lawsuit, War Memes, and AI Coming for VC Jobs",
-      "summary": "In today’s episode, we discuss how the saga between Anthropic and the Department of Defense is far from over.",
-      "source": "Wired",
-      "published": "2026-03-12T19:48:21+00:00",
-      "link": "https://www.wired.com/story/uncanny-valley-podcast-anthropic-department-defense-lawsuit-iran-war-memes-artificial-intelligence-venture-capital/"
-    },
-    {
-      "title": "Grok 4.20 trails Gemini and GPT-5.4 by a wide margin but sets a new record for not hallucinating",
-      "summary": "xAI's Grok 4.20 is cheap, fast, and hallucinates less than any other tested model, but it can't keep up with the top tier in benchmarks. The article Grok 4.20 trails Gemini and GPT-5.4 by a wide margin but sets a new record for not hallucinating appeared first on The Decoder.",
-      "source": "The Decoder",
-      "published": "2026-03-12T19:25:12+00:00",
-      "link": "https://the-decoder.com/grok-4-20-trails-gemini-and-gpt-5-4-by-a-wide-margin-but-sets-a-new-record-for-not-hallucinating/"
-    },
-    {
-      "title": "US War Department CTO says Anthropic's AI models \"pollute\" the supply chain with built-in ethics",
-      "summary": "The US Department of War wants to ban Anthropic's Claude from its supply chain because the AI models are too ethical. The approach echoes China's political control of AI.",
-      "source": "The Decoder",
-      "published": "2026-03-12T18:52:10+00:00",
-      "link": "https://the-decoder.com/us-military-chief-says-anthropics-ai-models-pollute-the-supply-chain-with-built-in-ethics/"
-    },
-    {
-      "title": "Facebook Marketplace now lets Meta AI respond to buyers’ messages",
-      "summary": "When buyers inquire about an item’s availability, sellers can use Meta AI to automatically draft replies using information from their listing, such as the description, availability, pickup location, and price.",
-      "source": "TechCrunch",
-      "published": "2026-03-12T18:20:33+00:00",
-      "link": "https://techcrunch.com/2026/03/12/facebook-marketplace-now-lets-meta-ai-respond-to-buyers-messages/"
-    },
-    {
-      "title": "Google Is Not Ruling Out Ads in Gemini",
-      "summary": "WIRED spoke with Nick Fox, Google’s SVP of knowledge and information, about how AI is changing the company’s advertising business.",
-      "source": "Wired",
-      "published": "2026-03-12T18:15:00+00:00",
-      "link": "https://www.wired.com/story/google-nick-fox-advertising-search-ai-gemini/"
-    },
-    {
-      "title": "Tinder tries to lure people back to online dating with IRL events, virtual speed dating",
-      "summary": "Tinder just got a major revamp as it attempts to reengage its user base and attract younger daters. This includes in-person events, AI enhancements, and even virtual speed dating.",
-      "source": "TechCrunch",
-      "published": "2026-03-12T18:00:00+00:00",
-      "link": "https://techcrunch.com/2026/03/12/tinder-tries-to-lure-people-back-to-online-dating-with-irl-events-virtual-speed-dating/"
-    },
-    {
-      "title": "Facebook Marketplace adds AI auto-replies for annoying ‘Is this still available?’ messages",
-      "summary": "Facebook Marketplace is adding a bunch of new AI-powered tools that are supposed to make selling items on the platform a little more efficient. One feature will use Meta AI to automatically respond to those annoying \"Is this still available?\" messages.",
-      "source": "The Verge",
-      "published": "2026-03-12T17:59:32+00:00",
-      "link": "https://www.theverge.com/tech/893907/facebook-marketplace-ai-auto-reply-listings"
-    },
-    {
-      "title": "Copilot Health marks Microsoft's entry into the AI health race alongside OpenAI and Anthropic",
-      "summary": "Microsoft is launching Copilot Health, an AI health assistant that pulls data from wearables, medical records, and lab results to deliver personalized health advice.",
-      "source": "The Decoder",
-      "published": "2026-03-12T17:31:13+00:00",
-      "link": "https://the-decoder.com/copilot-health-marks-microsofts-entry-into-the-ai-health-race-alongside-openai-and-anthropic/"
-    },
-    {
-      "title": "Atlassian follows Block’s footsteps and cuts staff in the name of AI",
-      "summary": "Atlassian laid off 10% of its workforce, around 1,600 people, as the company looks to funnel more funds to AI.",
-      "source": "TechCrunch",
-      "published": "2026-03-12T17:20:19+00:00",
-      "link": "https://techcrunch.com/2026/03/12/atlassian-follows-blocks-footsteps-and-cuts-staff-in-the-name-of-ai/"
     }
   ]
 };
