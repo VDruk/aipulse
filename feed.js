@@ -1,6 +1,83 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-03-20T11:00:34.311034+00:00",
+  "lastUpdated": "2026-03-20T15:29:09.439782+00:00",
   "items": [
+    {
+      "title": "Adobe Firefly now bundles 30+ AI models and lets users train custom styles on their own images",
+      "summary": "Adobe is expanding its AI creative platform, Firefly, to include user-defined models that can be trained on your own images. The company is also bundling over 30 AI models from different providers in a single environment.",
+      "source": "The Decoder",
+      "published": "2026-03-20T15:15:15+00:00",
+      "link": "https://the-decoder.com/adobe-firefly-now-bundles-30-ai-models-and-lets-users-train-custom-styles-on-their-own-images/"
+    },
+    {
+      "title": "At Palantir’s Developer Conference, AI Is Built to Win Wars",
+      "summary": "As business soars, Palantir is doubling down on a vision of AI built for battlefield advantage—and attracting customers who agree.",
+      "source": "Wired",
+      "published": "2026-03-20T15:00:00+00:00",
+      "link": "https://www.wired.com/story/palantir-developer-conference-ai-war-alex-karp/"
+    },
+    {
+      "title": "Google Search is now using AI to replace headlines",
+      "summary": "Since roughly the turn of the millennium, Google Search has been the bedrock of the web. People loved Google's trustworthy \"10 blue links\" search experience and its unspoken promise: The website you click is the website you get.",
+      "source": "The Verge",
+      "published": "2026-03-20T14:30:00+00:00",
+      "link": "https://www.theverge.com/tech/896490/google-replace-news-headlines-in-search-canary-coal-mine-experiment"
+    },
+    {
+      "title": "Why people really hate AI",
+      "summary": "There's a big, and increasing, disconnect in culture right now when it comes to artificial intelligence. Companies of all shapes and sizes are hunting for places to deploy AI and can't stop talking about how this new technology will change everything.",
+      "source": "The Verge",
+      "published": "2026-03-20T13:27:53+00:00",
+      "link": "https://www.theverge.com/podcast/897900/ai-trust-gap-killer-app-vergecast"
+    },
+    {
+      "title": "The Download: OpenAI is building a fully automated researcher, and a psychedelic trial blind spot",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.",
+      "source": "MIT Tech Review",
+      "published": "2026-03-20T13:15:45+00:00",
+      "link": "https://www.technologyreview.com/2026/03/20/1134448/the-download-openai-building-fully-automated-researcher-psychedelic-drug-trial/"
+    },
+    {
+      "title": "Google pulls back on browser AI as the industry bets on coding tools",
+      "summary": "Browser agents are losing the battle against coding agents - and Google is drawing the consequences. The article Google pulls back on browser AI as the industry bets on coding tools appeared first on The Decoder.",
+      "source": "The Decoder",
+      "published": "2026-03-20T12:55:06+00:00",
+      "link": "https://the-decoder.com/google-pulls-back-on-browser-ai-as-the-industry-bets-on-coding-tools/"
+    },
+    {
+      "title": "Qualcomm shrinks AI reasoning chains by 2.4x to fit thinking models on smartphones",
+      "summary": "Qualcomm AI Research has developed a modular system that brings reasoning-capable language models to smartphones by compressing the models' verbose thought processes by a factor of 2.4.",
+      "source": "The Decoder",
+      "published": "2026-03-20T12:23:40+00:00",
+      "link": "https://the-decoder.com/qualcomm-shrinks-ai-reasoning-chains-by-2-4x-to-fit-thinking-models-on-smartphones/"
+    },
+    {
+      "title": "The best AI investment might be in energy tech",
+      "summary": "Power has become one of the biggest bottlenecks in rolling out new AI data centers. That's creating an opening for investors.",
+      "source": "TechCrunch",
+      "published": "2026-03-20T12:00:00+00:00",
+      "link": "https://techcrunch.com/2026/03/20/the-best-ai-investment-might-be-in-energy-tech/"
+    },
+    {
+      "title": "OpenAI is throwing everything into building a fully automated researcher",
+      "summary": "OpenAI is refocusing its research efforts and throwing its resources into a new grand challenge.",
+      "source": "MIT Tech Review",
+      "published": "2026-03-20T11:57:16+00:00",
+      "link": "https://www.technologyreview.com/2026/03/20/1134438/openai-is-throwing-everything-into-building-a-fully-automated-researcher/"
+    },
+    {
+      "title": "These AI notetaking devices can help you record and transcribe your meetings",
+      "summary": "These physical notetakers transcribe audio and give users summaries and action items of meetings using AI. Some even offer live translation.",
+      "source": "TechCrunch",
+      "published": "2026-03-20T11:31:38+00:00",
+      "link": "https://techcrunch.com/2026/03/20/ai-notetaker-hardware-devices-pins-pendants-record-transcribe/"
+    },
+    {
+      "title": "AI (2014)",
+      "summary": "Article URL: https://blog.samaltman.com/ai Comments URL: https://news.ycombinator.com/item?id=47453010 Points: 58 # Comments: 58",
+      "source": "Hacker News",
+      "published": "2026-03-20T11:10:17+00:00",
+      "link": "https://blog.samaltman.com/ai"
+    },
     {
       "title": "I Learned More Than I Thought I Would From Using Food-Tracking Apps",
       "summary": "These apps, some of which use AI and computer vision, were helpful for meeting my caloric and nutrition intake goals. But they also gave me some anxiety.",
@@ -14,6 +91,13 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-03-20T10:09:50+00:00",
       "link": "https://the-decoder.com/google-gives-ai-shopping-agents-cart-catalog-and-loyalty-features/"
+    },
+    {
+      "title": "My AI Agent ‘Cofounder’ Conquered LinkedIn. Then It Got Banned",
+      "summary": "When social media is constantly pushing people to use AI, why not let AI agents participate?",
+      "source": "Wired",
+      "published": "2026-03-20T10:00:00+00:00",
+      "link": "https://www.wired.com/story/linkedin-invited-my-ai-cofounder-to-give-a-corporate-talk-then-banned-it/"
     },
     {
       "title": "LinkedIn Invited My AI 'Cofounder' to Give a Corporate Talk—Then Banned It",
@@ -52,7 +136,7 @@ const FEED_DATA = {
     },
     {
       "title": "Be intentional about how AI changes your codebase",
-      "summary": "Article URL: https://aicode.swerdlow.dev Comments URL: https://news.ycombinator.com/item?id=47446373 Points: 129 # Comments: 51",
+      "summary": "Article URL: https://aicode.swerdlow.dev Comments URL: https://news.ycombinator.com/item?id=47446373 Points: 150 # Comments: 84",
       "source": "Hacker News",
       "published": "2026-03-19T21:23:24+00:00",
       "link": "https://aicode.swerdlow.dev"
@@ -66,7 +150,7 @@ const FEED_DATA = {
     },
     {
       "title": "No AI in Node.js Core",
-      "summary": "Article URL: https://github.com/indutny/no-ai-in-nodejs-core Comments URL: https://news.ycombinator.com/item?id=47444714 Points: 52 # Comments: 32",
+      "summary": "Article URL: https://github.com/indutny/no-ai-in-nodejs-core Comments URL: https://news.ycombinator.com/item?id=47444714 Points: 55 # Comments: 32",
       "source": "Hacker News",
       "published": "2026-03-19T19:35:37+00:00",
       "link": "https://github.com/indutny/no-ai-in-nodejs-core"
@@ -178,7 +262,7 @@ const FEED_DATA = {
     },
     {
       "title": "Ramtrack.eu – RAM Price Intelligence",
-      "summary": "Article URL: https://ramtrack.eu Comments URL: https://news.ycombinator.com/item?id=47438342 Points: 94 # Comments: 31",
+      "summary": "Article URL: https://ramtrack.eu Comments URL: https://news.ycombinator.com/item?id=47438342 Points: 96 # Comments: 33",
       "source": "Hacker News",
       "published": "2026-03-19T12:39:46+00:00",
       "link": "https://ramtrack.eu"
@@ -213,7 +297,7 @@ const FEED_DATA = {
     },
     {
       "title": "2% of ICML papers desk rejected because the authors used LLM in their reviews",
-      "summary": "Article URL: https://blog.icml.cc/2026/03/18/on-violations-of-llm-review-policies/ Comments URL: https://news.ycombinator.com/item?id=47437101 Points: 192 # Comments: 154",
+      "summary": "Article URL: https://blog.icml.cc/2026/03/18/on-violations-of-llm-review-policies/ Comments URL: https://news.ycombinator.com/item?id=47437101 Points: 193 # Comments: 155",
       "source": "Hacker News",
       "published": "2026-03-19T10:17:46+00:00",
       "link": "https://blog.icml.cc/2026/03/18/on-violations-of-llm-review-policies/"
@@ -255,7 +339,7 @@ const FEED_DATA = {
     },
     {
       "title": "What 81,000 people want from AI",
-      "summary": "Article URL: https://www.anthropic.com/features/81k-interviews Comments URL: https://news.ycombinator.com/item?id=47435156 Points: 195 # Comments: 184",
+      "summary": "Article URL: https://www.anthropic.com/features/81k-interviews Comments URL: https://news.ycombinator.com/item?id=47435156 Points: 197 # Comments: 185",
       "source": "Hacker News",
       "published": "2026-03-19T05:00:56+00:00",
       "link": "https://www.anthropic.com/features/81k-interviews"
@@ -339,7 +423,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI coding is gambling",
-      "summary": "Article URL: https://notes.visaint.space/ai-coding-is-gambling/ Comments URL: https://news.ycombinator.com/item?id=47428541 Points: 344 # Comments: 421",
+      "summary": "Article URL: https://notes.visaint.space/ai-coding-is-gambling/ Comments URL: https://news.ycombinator.com/item?id=47428541 Points: 345 # Comments: 423",
       "source": "Hacker News",
       "published": "2026-03-18T17:22:02+00:00",
       "link": "https://notes.visaint.space/ai-coding-is-gambling/"
@@ -395,7 +479,7 @@ const FEED_DATA = {
     },
     {
       "title": "Google Engineers Launch \"Sashiko\" for Agentic AI Code Review of the Linux Kernel",
-      "summary": "Article URL: https://www.phoronix.com/news/Sashiko-Linux-AI-Code-Review Comments URL: https://news.ycombinator.com/item?id=47427647 Points: 103 # Comments: 49",
+      "summary": "Article URL: https://www.phoronix.com/news/Sashiko-Linux-AI-Code-Review Comments URL: https://news.ycombinator.com/item?id=47427647 Points: 104 # Comments: 49",
       "source": "Hacker News",
       "published": "2026-03-18T16:17:44+00:00",
       "link": "https://www.phoronix.com/news/Sashiko-Linux-AI-Code-Review"
@@ -514,14 +598,14 @@ const FEED_DATA = {
     },
     {
       "title": "Why AI systems don't learn – On autonomous learning from cognitive science",
-      "summary": "Article URL: https://arxiv.org/abs/2603.15381 Comments URL: https://news.ycombinator.com/item?id=47418722 Points: 196 # Comments: 113",
+      "summary": "Article URL: https://arxiv.org/abs/2603.15381 Comments URL: https://news.ycombinator.com/item?id=47418722 Points: 199 # Comments: 114",
       "source": "Hacker News",
       "published": "2026-03-17T21:42:39+00:00",
       "link": "https://arxiv.org/abs/2603.15381"
     },
     {
       "title": "Mistral AI Releases Forge",
-      "summary": "Article URL: https://mistral.ai/news/forge Comments URL: https://news.ycombinator.com/item?id=47418295 Points: 724 # Comments: 187",
+      "summary": "Article URL: https://mistral.ai/news/forge Comments URL: https://news.ycombinator.com/item?id=47418295 Points: 724 # Comments: 188",
       "source": "Hacker News",
       "published": "2026-03-17T21:04:26+00:00",
       "link": "https://mistral.ai/news/forge"
@@ -577,7 +661,7 @@ const FEED_DATA = {
     },
     {
       "title": "GPT‑5.4 Mini and Nano",
-      "summary": "Article URL: https://openai.com/index/introducing-gpt-5-4-mini-and-nano Comments URL: https://news.ycombinator.com/item?id=47415441 Points: 247 # Comments: 145",
+      "summary": "Article URL: https://openai.com/index/introducing-gpt-5-4-mini-and-nano Comments URL: https://news.ycombinator.com/item?id=47415441 Points: 247 # Comments: 146",
       "source": "Hacker News",
       "published": "2026-03-17T17:07:06+00:00",
       "link": "https://openai.com/index/introducing-gpt-5-4-mini-and-nano"
@@ -724,7 +808,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI still doesn't work well, businesses are faking it, and a reckoning is coming",
-      "summary": "Article URL: https://www.theregister.com/2026/03/17/ai_businesses_faking_it_reckoning_coming_codestrap/ Comments URL: https://news.ycombinator.com/item?id=47407252 Points: 77 # Comments: 27",
+      "summary": "Article URL: https://www.theregister.com/2026/03/17/ai_businesses_faking_it_reckoning_coming_codestrap/ Comments URL: https://news.ycombinator.com/item?id=47407252 Points: 78 # Comments: 27",
       "source": "Hacker News",
       "published": "2026-03-17T00:56:47+00:00",
       "link": "https://www.theregister.com/2026/03/17/ai_businesses_faking_it_reckoning_coming_codestrap/"
@@ -794,7 +878,7 @@ const FEED_DATA = {
     },
     {
       "title": "Nvidia Launches Vera CPU, Purpose-Built for Agentic AI",
-      "summary": "Article URL: https://nvidianews.nvidia.com/news/nvidia-launches-vera-cpu-purpose-built-for-agentic-ai Comments URL: https://news.ycombinator.com/item?id=47404074 Points: 176 # Comments: 100",
+      "summary": "Article URL: https://nvidianews.nvidia.com/news/nvidia-launches-vera-cpu-purpose-built-for-agentic-ai Comments URL: https://news.ycombinator.com/item?id=47404074 Points: 176 # Comments: 101",
       "source": "Hacker News",
       "published": "2026-03-16T20:01:02+00:00",
       "link": "https://nvidianews.nvidia.com/news/nvidia-launches-vera-cpu-purpose-built-for-agentic-ai"
@@ -1316,90 +1400,6 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-03-13T16:20:23+00:00",
       "link": "https://techcrunch.com/video/the-32b-acquisition-that-one-vc-is-calling-the-deal-of-the-decade/"
-    },
-    {
-      "title": "Why physical AI is becoming manufacturing’s next advantage",
-      "summary": "For decades, manufacturers have pursued automation to drive efficiency, reduce costs, and stabilize operations. That approach delivered meaningful gains, but it is no longer enough.",
-      "source": "MIT Tech Review",
-      "published": "2026-03-13T15:16:55+00:00",
-      "link": "https://www.technologyreview.com/2026/03/13/1134184/why-physical-ai-is-becoming-manufacturings-next-advantage/"
-    },
-    {
-      "title": "Peacock expands into AI-driven video, mobile-first live sports, and gaming",
-      "summary": "Peacock is betting on new AI-powered video experiences, vertical clips, and mobile games to help its growth.",
-      "source": "TechCrunch",
-      "published": "2026-03-13T14:00:00+00:00",
-      "link": "https://techcrunch.com/2026/03/13/peacock-expands-into-ai-driven-video-mobile-first-live-sports-and-gaming/"
-    },
-    {
-      "title": "AI chips are pushing everything else off TSMC's most advanced production lines",
-      "summary": "By 2027, 86 percent of TSMC's N3 capacity could go to AI accelerators, according to SemiAnalysis. Smartphones are becoming a buffer for overflow demand.",
-      "source": "The Decoder",
-      "published": "2026-03-13T13:31:46+00:00",
-      "link": "https://the-decoder.com/ai-chips-are-pushing-everything-else-off-tsmcs-most-advanced-production-lines/"
-    },
-    {
-      "title": "Ukraine opens its battlefield data to allies to train AI models for autonomous drones",
-      "summary": "Ukraine opens its battlefield data to allies to train AI models for autonomous drones. The article Ukraine opens its battlefield data to allies to train AI models for autonomous drones appeared first on The Decoder.",
-      "source": "The Decoder",
-      "published": "2026-03-13T13:24:50+00:00",
-      "link": "https://the-decoder.com/ukraine-provides-allies-with-a-platform-with-combat-data-for-ai-training/"
-    },
-    {
-      "title": "Launch HN: Spine Swarm (YC S23) – AI agents that collaborate on a visual canvas",
-      "summary": "Hey HN! We're Ashwin and Akshay from Spine AI (https://www.getspine.ai).",
-      "source": "Hacker News",
-      "published": "2026-03-13T13:22:40+00:00",
-      "link": "https://www.getspine.ai/"
-    },
-    {
-      "title": "Bytedance secures access to Nvidia Blackwell cluster in Malaysia, circumventing US export ban on China",
-      "summary": "TikTok's parent company plans to use around 36,000 Nvidia Blackwell chips in Malaysia, according to a Wall Street Journal report. US export controls prevent direct access in China.",
-      "source": "The Decoder",
-      "published": "2026-03-13T13:20:43+00:00",
-      "link": "https://the-decoder.com/bytedance-secures-access-to-nvidia-blackwell-cluster-in-malaysia-circumventing-us-export-ban-on-china/"
-    },
-    {
-      "title": "Can I run AI locally?",
-      "summary": "Article URL: https://www.canirun.ai/ Comments URL: https://news.ycombinator.com/item?id=47363754 Points: 1500 # Comments: 350",
-      "source": "Hacker News",
-      "published": "2026-03-13T12:46:10+00:00",
-      "link": "https://www.canirun.ai/"
-    },
-    {
-      "title": "Perplexity's \"Personal Computer\" promises a tireless AI agent for $200 a month",
-      "summary": "Perplexity AI's \"Personal Computer\" is an AI assistant that works around the clock - handling emails, presentations, and app control. The article Perplexity's \"Personal Computer\" promises a tireless AI agent for $200 a month appeared first on The Decoder.",
-      "source": "The Decoder",
-      "published": "2026-03-13T12:34:55+00:00",
-      "link": "https://the-decoder.com/perplexitys-personal-computer-promises-a-tireless-ai-agent-for-200-a-month/"
-    },
-    {
-      "title": "Google's AI Search Results Love to Refer You Back to Google",
-      "summary": "The company's generative AI search tools increasingly cite its own services, like Google Search and YouTube, over third-party publishers.",
-      "source": "Wired",
-      "published": "2026-03-13T12:31:55+00:00",
-      "link": "https://www.wired.com/story/google-ai-searches-love-to-refer-you-back-to-google/"
-    },
-    {
-      "title": "Google's AI Searches Love to Refer You Back to Google",
-      "summary": "The company's generative AI search tools increasingly cite its own services, like Google Search and YouTube, over third-party publishers.",
-      "source": "Wired",
-      "published": "2026-03-13T12:31:55+00:00",
-      "link": "https://www.wired.com/story/google-ai-searches-love-to-refer-you-back-to-google/"
-    },
-    {
-      "title": "The Download: how AI is used for military targeting, and the Pentagon’s war on Claude",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.",
-      "source": "MIT Tech Review",
-      "published": "2026-03-13T12:16:56+00:00",
-      "link": "https://www.technologyreview.com/2026/03/13/1134278/the-download-defense-official-ai-chatbots-targeting-pentagon-claude-pollute-military-supply-chain/"
-    },
-    {
-      "title": "China’s OpenClaw Boom Is a Gold Rush for AI Companies",
-      "summary": "Hype around the open source agent is driving people to rent cloud servers and buy AI subscriptions just to try it, creating a windfall for tech companies.",
-      "source": "Wired",
-      "published": "2026-03-13T12:00:00+00:00",
-      "link": "https://www.wired.com/story/china-is-going-all-in-on-openclaw/"
     }
   ]
 };
