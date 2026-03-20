@@ -1,9 +1,51 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-03-20T19:26:06.032145+00:00",
+  "lastUpdated": "2026-03-20T21:56:12.908968+00:00",
   "items": [
     {
-      "title": "Gamers Hate Nvidia's DLSS 5. Developers Aren’t Crazy About It Either",
-      "summary": "Nvidia’s new AI upscaling gaming technology struck gamers as uncanny and off-putting. Developers don't seem to like it either, but it could be “the default” in a few years.",
+      "title": "OpenCode – The open source AI coding agent",
+      "summary": "Article URL: https://opencode.ai/ Comments URL: https://news.ycombinator.com/item?id=47460525 Points: 70 # Comments: 14",
+      "source": "Hacker News",
+      "published": "2026-03-20T21:03:52+00:00",
+      "link": "https://opencode.ai/"
+    },
+    {
+      "title": "Microsoft rolls back some of its Copilot AI bloat on Windows",
+      "summary": "The company is reducing Copilot entry points on Windows, starting with Photos, Widgets, Notepad, and other apps.",
+      "source": "TechCrunch",
+      "published": "2026-03-20T20:53:09+00:00",
+      "link": "https://techcrunch.com/2026/03/20/microsoft-rolls-back-some-of-its-copilot-ai-bloat-on-windows/"
+    },
+    {
+      "title": "Widely used Trivy scanner compromised in ongoing supply-chain attack",
+      "summary": "Admins: Sorry to say, but it's likely a rotate-your-secrets kind of weekend.",
+      "source": "Ars Technica",
+      "published": "2026-03-20T20:50:46+00:00",
+      "link": "https://arstechnica.com/security/2026/03/widely-used-trivy-scanner-compromised-in-ongoing-supply-chain-attack/"
+    },
+    {
+      "title": "What happened at Nvidia GTC: NemoClaw, Robot Olaf, and a $1 trillion bet",
+      "summary": "CEO Jensen Huang took the stage at Nvidia’s GTC conference this week in his signature leather jacket to deliver a two-and-a-half-hour keynote, projecting $1 trillion in AI chip sales through 2027, declaring that every company needs an “OpenClaw strategy,” and closing with a...",
+      "source": "TechCrunch",
+      "published": "2026-03-20T20:02:35+00:00",
+      "link": "https://techcrunch.com/video/what-happened-at-nvidia-gtc-nemoclaw-robot-olaf-and-a-1-trillion-bet/"
+    },
+    {
+      "title": "Nvidia has an OpenClaw strategy. Do you?",
+      "summary": "CEO Jensen Huang took the stage at Nvidia’s GTC conference this week in his signature leather jacket to deliver a two-and-a-half-hour keynote, projecting $1 trillion in AI chip sales through 2027, declaring that every company needs an “OpenClaw strategy,” and closing with a...",
+      "source": "TechCrunch",
+      "published": "2026-03-20T19:48:38+00:00",
+      "link": "https://techcrunch.com/podcast/nvidia-has-an-openclaw-strategy-do-you/"
+    },
+    {
+      "title": "OpenAI acquires Astral to bring Python's most popular dev tools into its Codex AI coding platform",
+      "summary": "OpenAI is acquiring Astral, the company behind some of the most widely used Python tools in the world. The deal signals how aggressively AI labs like OpenAI and Anthropic are competing for dominance in AI-powered coding.",
+      "source": "The Decoder",
+      "published": "2026-03-20T19:32:01+00:00",
+      "link": "https://the-decoder.com/openai-acquires-astral-to-bring-pythons-most-popular-dev-tools-into-its-codex-ai-coding-platform/"
+    },
+    {
+      "title": "Gamers Hate Nvidia's DLSS 5. Developers Aren’t Crazy About It, Either",
+      "summary": "Nvidia’s new AI upscaling gaming technology struck gamers as uncanny and off-putting. Developers don't seem to like it, either, but it could be “the default” in a few years.",
       "source": "Wired",
       "published": "2026-03-20T19:13:19+00:00",
       "link": "https://www.wired.com/story/gamers-hate-nvidia-dlss-5-developers-arent-crazy-about-it-either/"
@@ -31,7 +73,7 @@ const FEED_DATA = {
     },
     {
       "title": "MacBook M5 Pro and Qwen3.5 = Local AI Security System",
-      "summary": "Article URL: https://www.sharpai.org/benchmark/ Comments URL: https://news.ycombinator.com/item?id=47457107 Points: 101 # Comments: 104",
+      "summary": "Article URL: https://www.sharpai.org/benchmark/ Comments URL: https://news.ycombinator.com/item?id=47457107 Points: 146 # Comments: 139",
       "source": "Hacker News",
       "published": "2026-03-20T16:41:42+00:00",
       "link": "https://www.sharpai.org/benchmark/"
@@ -122,7 +164,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI (2014)",
-      "summary": "Article URL: https://blog.samaltman.com/ai Comments URL: https://news.ycombinator.com/item?id=47453010 Points: 61 # Comments: 61",
+      "summary": "Article URL: https://blog.samaltman.com/ai Comments URL: https://news.ycombinator.com/item?id=47453010 Points: 62 # Comments: 61",
       "source": "Hacker News",
       "published": "2026-03-20T11:10:17+00:00",
       "link": "https://blog.samaltman.com/ai"
@@ -185,7 +227,7 @@ const FEED_DATA = {
     },
     {
       "title": "Be intentional about how AI changes your codebase",
-      "summary": "Article URL: https://aicode.swerdlow.dev Comments URL: https://news.ycombinator.com/item?id=47446373 Points: 159 # Comments: 92",
+      "summary": "Article URL: https://aicode.swerdlow.dev Comments URL: https://news.ycombinator.com/item?id=47446373 Points: 163 # Comments: 94",
       "source": "Hacker News",
       "published": "2026-03-19T21:23:24+00:00",
       "link": "https://aicode.swerdlow.dev"
@@ -199,7 +241,7 @@ const FEED_DATA = {
     },
     {
       "title": "No AI in Node.js Core",
-      "summary": "Article URL: https://github.com/indutny/no-ai-in-nodejs-core Comments URL: https://news.ycombinator.com/item?id=47444714 Points: 58 # Comments: 34",
+      "summary": "Article URL: https://github.com/indutny/no-ai-in-nodejs-core Comments URL: https://news.ycombinator.com/item?id=47444714 Points: 60 # Comments: 34",
       "source": "Hacker News",
       "published": "2026-03-19T19:35:37+00:00",
       "link": "https://github.com/indutny/no-ai-in-nodejs-core"
@@ -311,7 +353,7 @@ const FEED_DATA = {
     },
     {
       "title": "Ramtrack.eu – RAM Price Intelligence",
-      "summary": "Article URL: https://ramtrack.eu Comments URL: https://news.ycombinator.com/item?id=47438342 Points: 96 # Comments: 35",
+      "summary": "Article URL: https://ramtrack.eu Comments URL: https://news.ycombinator.com/item?id=47438342 Points: 97 # Comments: 35",
       "source": "Hacker News",
       "published": "2026-03-19T12:39:46+00:00",
       "link": "https://ramtrack.eu"
@@ -346,7 +388,7 @@ const FEED_DATA = {
     },
     {
       "title": "2% of ICML papers desk rejected because the authors used LLM in their reviews",
-      "summary": "Article URL: https://blog.icml.cc/2026/03/18/on-violations-of-llm-review-policies/ Comments URL: https://news.ycombinator.com/item?id=47437101 Points: 194 # Comments: 156",
+      "summary": "Article URL: https://blog.icml.cc/2026/03/18/on-violations-of-llm-review-policies/ Comments URL: https://news.ycombinator.com/item?id=47437101 Points: 196 # Comments: 156",
       "source": "Hacker News",
       "published": "2026-03-19T10:17:46+00:00",
       "link": "https://blog.icml.cc/2026/03/18/on-violations-of-llm-review-policies/"
@@ -472,7 +514,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI coding is gambling",
-      "summary": "Article URL: https://notes.visaint.space/ai-coding-is-gambling/ Comments URL: https://news.ycombinator.com/item?id=47428541 Points: 346 # Comments: 423",
+      "summary": "Article URL: https://notes.visaint.space/ai-coding-is-gambling/ Comments URL: https://news.ycombinator.com/item?id=47428541 Points: 346 # Comments: 425",
       "source": "Hacker News",
       "published": "2026-03-18T17:22:02+00:00",
       "link": "https://notes.visaint.space/ai-coding-is-gambling/"
@@ -486,7 +528,7 @@ const FEED_DATA = {
     },
     {
       "title": "Americans Recognize AI as a Wealth Inequality Machine, Polls Find",
-      "summary": "Article URL: https://gizmodo.com/americans-recognize-ai-as-a-wealth-inequality-machine-pollsters-find-2000734713 Comments URL: https://news.ycombinator.com/item?id=47428335 Points: 56 # Comments: 20",
+      "summary": "Article URL: https://gizmodo.com/americans-recognize-ai-as-a-wealth-inequality-machine-pollsters-find-2000734713 Comments URL: https://news.ycombinator.com/item?id=47428335 Points: 57 # Comments: 20",
       "source": "Hacker News",
       "published": "2026-03-18T17:07:21+00:00",
       "link": "https://gizmodo.com/americans-recognize-ai-as-a-wealth-inequality-machine-pollsters-find-2000734713"
@@ -647,14 +689,14 @@ const FEED_DATA = {
     },
     {
       "title": "Why AI systems don't learn – On autonomous learning from cognitive science",
-      "summary": "Article URL: https://arxiv.org/abs/2603.15381 Comments URL: https://news.ycombinator.com/item?id=47418722 Points: 200 # Comments: 114",
+      "summary": "Article URL: https://arxiv.org/abs/2603.15381 Comments URL: https://news.ycombinator.com/item?id=47418722 Points: 202 # Comments: 114",
       "source": "Hacker News",
       "published": "2026-03-17T21:42:39+00:00",
       "link": "https://arxiv.org/abs/2603.15381"
     },
     {
       "title": "Mistral AI Releases Forge",
-      "summary": "Article URL: https://mistral.ai/news/forge Comments URL: https://news.ycombinator.com/item?id=47418295 Points: 725 # Comments: 189",
+      "summary": "Article URL: https://mistral.ai/news/forge Comments URL: https://news.ycombinator.com/item?id=47418295 Points: 726 # Comments: 189",
       "source": "Hacker News",
       "published": "2026-03-17T21:04:26+00:00",
       "link": "https://mistral.ai/news/forge"
@@ -1358,48 +1400,6 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-03-14T00:12:22+00:00",
       "link": "https://techcrunch.com/2026/03/13/not-built-right-the-first-time-musks-xai-is-starting-over-again-again/"
-    },
-    {
-      "title": "Nyne, founded by a father-son duo, gives AI agents the human context they’re missing",
-      "summary": "The data infrastructure startup raised $5.3 million in seed funding led by Wischoff Ventures and South Park Commons.",
-      "source": "TechCrunch",
-      "published": "2026-03-13T21:37:01+00:00",
-      "link": "https://techcrunch.com/2026/03/13/nyne-founded-by-a-father-son-duo-gives-ai-agents-the-human-context-theyre-missing/"
-    },
-    {
-      "title": "Microsoft’s Copilot AI assistant is coming to current-gen Xbox consoles this year",
-      "summary": "Xbox is getting ready to launch its Gaming Copilot AI assistant on \"current-generation consoles\" this year, according to a report from GamesRadar.",
-      "source": "The Verge",
-      "published": "2026-03-13T20:51:48+00:00",
-      "link": "https://www.theverge.com/games/894799/microsoft-gaming-copilot-ai-xbox-consoles"
-    },
-    {
-      "title": "Supply-chain attack using invisible code hits GitHub and other repositories",
-      "summary": "Unicode that's invisible to the human eye was largely abandoned—until attackers took notice.",
-      "source": "Ars Technica",
-      "published": "2026-03-13T20:18:08+00:00",
-      "link": "https://arstechnica.com/security/2026/03/supply-chain-attack-using-invisible-code-hits-github-and-other-repositories/"
-    },
-    {
-      "title": "Anthropic drops the surcharge for million-token context windows, making Opus 4.6 and Sonnet 4.6 far cheaper",
-      "summary": "Anthropic removes the surcharge for long contexts in Claude Opus 4.6 and Sonnet 4.6: requests with more than 200,000 tokens no longer cost up to twice as much.",
-      "source": "The Decoder",
-      "published": "2026-03-13T19:50:00+00:00",
-      "link": "https://the-decoder.com/anthropic-drops-the-surcharge-for-million-token-context-windows-making-opus-4-6-and-sonnet-4-6-far-cheaper/"
-    },
-    {
-      "title": "Steven Spielberg says he’s ‘never used AI’ in any of his films",
-      "summary": "At SXSW, Steven Spielberg said AI has uses in many fields, but not when it comes to replacing creative people in film and TV writing.",
-      "source": "TechCrunch",
-      "published": "2026-03-13T19:47:58+00:00",
-      "link": "https://techcrunch.com/2026/03/13/steven-spielberg-says-hes-never-used-ai-in-any-of-his-films/"
-    },
-    {
-      "title": "The biggest AI stories of the year (so far)",
-      "summary": "The AI industry is constantly churning out news, like major acquisitions, indie developer successes, public outcry, and existentially dangerous contract negotiations.",
-      "source": "TechCrunch",
-      "published": "2026-03-13T19:38:11+00:00",
-      "link": "https://techcrunch.com/2026/03/13/the-biggest-ai-stories-of-the-year-so-far/"
     }
   ]
 };
