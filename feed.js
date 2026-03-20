@@ -1,5 +1,5 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-03-20T05:20:09.808648+00:00",
+  "lastUpdated": "2026-03-20T07:37:02.763591+00:00",
   "items": [
     {
       "title": "OpenAI is planning a desktop ‘superapp’",
@@ -24,7 +24,7 @@ const FEED_DATA = {
     },
     {
       "title": "Be intentional about how AI changes your codebase",
-      "summary": "Article URL: https://aicode.swerdlow.dev Comments URL: https://news.ycombinator.com/item?id=47446373 Points: 95 # Comments: 33",
+      "summary": "Article URL: https://aicode.swerdlow.dev Comments URL: https://news.ycombinator.com/item?id=47446373 Points: 105 # Comments: 42",
       "source": "Hacker News",
       "published": "2026-03-19T21:23:24+00:00",
       "link": "https://aicode.swerdlow.dev"
@@ -35,6 +35,13 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-03-19T19:51:08+00:00",
       "link": "https://the-decoder.com/elevenlabs-now-lets-you-sell-ai-music-you-dont-own/"
+    },
+    {
+      "title": "No AI in Node.js Core",
+      "summary": "Article URL: https://github.com/indutny/no-ai-in-nodejs-core Comments URL: https://news.ycombinator.com/item?id=47444714 Points: 50 # Comments: 29",
+      "source": "Hacker News",
+      "published": "2026-03-19T19:35:37+00:00",
+      "link": "https://github.com/indutny/no-ai-in-nodejs-core"
     },
     {
       "title": "Microsoft's superintelligence team ships MAI-Image-2, a text-to-image generator",
@@ -107,6 +114,13 @@ const FEED_DATA = {
       "link": "https://www.wired.com/story/chatgpt-adult-mode-new-era-of-intimate-surveillance/"
     },
     {
+      "title": "Launch HN: Canary (YC W26) – AI QA that understands your code",
+      "summary": "Hey HN! We're Aakash and Viswesh, and we're building Canary (https://www.runcanary.ai).",
+      "source": "Hacker News",
+      "published": "2026-03-19T16:01:30+00:00",
+      "link": "https://news.ycombinator.com/item?id=47441629"
+    },
+    {
       "title": "Signal’s Creator Is Helping Encrypt Meta AI",
       "summary": "Moxie Marlinspike says the technology powering his encrypted AI chatbot, Confer, will be integrated into Meta AI. The move could help protect the AI conversations of millions of people.",
       "source": "Wired",
@@ -136,7 +150,7 @@ const FEED_DATA = {
     },
     {
       "title": "Ramtrack.eu – RAM Price Intelligence",
-      "summary": "Article URL: https://ramtrack.eu Comments URL: https://news.ycombinator.com/item?id=47438342 Points: 86 # Comments: 27",
+      "summary": "Article URL: https://ramtrack.eu Comments URL: https://news.ycombinator.com/item?id=47438342 Points: 90 # Comments: 28",
       "source": "Hacker News",
       "published": "2026-03-19T12:39:46+00:00",
       "link": "https://ramtrack.eu"
@@ -171,7 +185,7 @@ const FEED_DATA = {
     },
     {
       "title": "2% of ICML papers desk rejected because the authors used LLM in their reviews",
-      "summary": "Article URL: https://blog.icml.cc/2026/03/18/on-violations-of-llm-review-policies/ Comments URL: https://news.ycombinator.com/item?id=47437101 Points: 188 # Comments: 152",
+      "summary": "Article URL: https://blog.icml.cc/2026/03/18/on-violations-of-llm-review-policies/ Comments URL: https://news.ycombinator.com/item?id=47437101 Points: 190 # Comments: 152",
       "source": "Hacker News",
       "published": "2026-03-19T10:17:46+00:00",
       "link": "https://blog.icml.cc/2026/03/18/on-violations-of-llm-review-policies/"
@@ -213,7 +227,7 @@ const FEED_DATA = {
     },
     {
       "title": "What 81,000 people want from AI",
-      "summary": "Article URL: https://www.anthropic.com/features/81k-interviews Comments URL: https://news.ycombinator.com/item?id=47435156 Points: 191 # Comments: 181",
+      "summary": "Article URL: https://www.anthropic.com/features/81k-interviews Comments URL: https://news.ycombinator.com/item?id=47435156 Points: 194 # Comments: 183",
       "source": "Hacker News",
       "published": "2026-03-19T05:00:56+00:00",
       "link": "https://www.anthropic.com/features/81k-interviews"
@@ -353,7 +367,7 @@ const FEED_DATA = {
     },
     {
       "title": "Google Engineers Launch \"Sashiko\" for Agentic AI Code Review of the Linux Kernel",
-      "summary": "Article URL: https://www.phoronix.com/news/Sashiko-Linux-AI-Code-Review Comments URL: https://news.ycombinator.com/item?id=47427647 Points: 102 # Comments: 49",
+      "summary": "Article URL: https://www.phoronix.com/news/Sashiko-Linux-AI-Code-Review Comments URL: https://news.ycombinator.com/item?id=47427647 Points: 103 # Comments: 49",
       "source": "Hacker News",
       "published": "2026-03-18T16:17:44+00:00",
       "link": "https://www.phoronix.com/news/Sashiko-Linux-AI-Code-Review"
@@ -479,7 +493,7 @@ const FEED_DATA = {
     },
     {
       "title": "Mistral AI Releases Forge",
-      "summary": "Article URL: https://mistral.ai/news/forge Comments URL: https://news.ycombinator.com/item?id=47418295 Points: 723 # Comments: 186",
+      "summary": "Article URL: https://mistral.ai/news/forge Comments URL: https://news.ycombinator.com/item?id=47418295 Points: 724 # Comments: 186",
       "source": "Hacker News",
       "published": "2026-03-17T21:04:26+00:00",
       "link": "https://mistral.ai/news/forge"
@@ -1386,20 +1400,6 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-03-13T09:06:43+00:00",
       "link": "https://the-decoder.com/meta-delays-its-next-ai-model-avocado-after-internal-tests-show-it-cant-keep-up-with-google-and-openai/"
-    },
-    {
-      "title": "BMW puts humanoid robots to work in Germany–and Europe’s factories are watching",
-      "summary": "Europe’s factory floors have a new kind of colleague. BMW Group has deployed humanoid robots in manufacturing in Germany for the first time, launching a pilot project at its Leipzig plant with AEON–a wheeled humanoid built by Hexagon Robotics.",
-      "source": "AI News",
-      "published": "2026-03-13T09:00:00+00:00",
-      "link": "https://www.artificialintelligence-news.com/news/bmw-humanoid-robots-manufacturing-europe-leipzig/"
-    },
-    {
-      "title": "Future AI chips could be built on glass",
-      "summary": "Human-made glass is thousands of years old. But it’s now poised to find its way into the AI chips used in the world’s newest and largest data centers.",
-      "source": "MIT Tech Review",
-      "published": "2026-03-13T09:00:00+00:00",
-      "link": "https://www.technologyreview.com/2026/03/13/1134230/future-ai-chips-could-be-built-on-glass/"
     }
   ]
 };
