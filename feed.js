@@ -1,6 +1,34 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-03-20T07:37:02.763591+00:00",
+  "lastUpdated": "2026-03-20T11:00:34.311034+00:00",
   "items": [
+    {
+      "title": "I Learned More Than I Thought I Would From Using Food-Tracking Apps",
+      "summary": "These apps, some of which use AI and computer vision, were helpful for meeting my caloric and nutrition intake goals. But they also gave me some anxiety.",
+      "source": "Wired",
+      "published": "2026-03-20T10:30:00+00:00",
+      "link": "https://www.wired.com/story/food-tracking-apps-ai-nutrition-weight-loss/"
+    },
+    {
+      "title": "Google gives AI shopping agents cart, catalog, and loyalty features",
+      "summary": "Google has expanded the Universal Commerce Protocol (UCP) with shopping cart, catalog, and identity features to make online shopping easier for AI agents. The article Google gives AI shopping agents cart, catalog, and loyalty features appeared first on The Decoder.",
+      "source": "The Decoder",
+      "published": "2026-03-20T10:09:50+00:00",
+      "link": "https://the-decoder.com/google-gives-ai-shopping-agents-cart-catalog-and-loyalty-features/"
+    },
+    {
+      "title": "LinkedIn Invited My AI 'Cofounder' to Give a Corporate Talk—Then Banned It",
+      "summary": "When social media is constantly exhorting people to use AI, what is the point of not letting AI agents participate?",
+      "source": "Wired",
+      "published": "2026-03-20T10:00:00+00:00",
+      "link": "https://www.wired.com/story/linkedin-invited-my-ai-cofounder-to-give-a-corporate-talk-then-banned-it/"
+    },
+    {
+      "title": "OpenAI plans to merge ChatGPT, Codex, and Atlas browser into a single desktop superapp",
+      "summary": "OpenAI now believes its strategy of shipping as many products as possible at once left the company exposed. A major strategic shift is supposed to get things back on track.",
+      "source": "The Decoder",
+      "published": "2026-03-20T07:35:18+00:00",
+      "link": "https://the-decoder.com/openai-plans-to-merge-chatgpt-codex-and-atlas-browser-into-a-single-desktop-superapp/"
+    },
     {
       "title": "OpenAI is planning a desktop ‘superapp’",
       "summary": "OpenAI is working on a desktop \"superapp\" that merges its ChatGPT app, the Codex AI coding app, and its AI-powered Atlas browser into one app, The Wall Street Journal reports.",
@@ -24,7 +52,7 @@ const FEED_DATA = {
     },
     {
       "title": "Be intentional about how AI changes your codebase",
-      "summary": "Article URL: https://aicode.swerdlow.dev Comments URL: https://news.ycombinator.com/item?id=47446373 Points: 105 # Comments: 42",
+      "summary": "Article URL: https://aicode.swerdlow.dev Comments URL: https://news.ycombinator.com/item?id=47446373 Points: 129 # Comments: 51",
       "source": "Hacker News",
       "published": "2026-03-19T21:23:24+00:00",
       "link": "https://aicode.swerdlow.dev"
@@ -38,7 +66,7 @@ const FEED_DATA = {
     },
     {
       "title": "No AI in Node.js Core",
-      "summary": "Article URL: https://github.com/indutny/no-ai-in-nodejs-core Comments URL: https://news.ycombinator.com/item?id=47444714 Points: 50 # Comments: 29",
+      "summary": "Article URL: https://github.com/indutny/no-ai-in-nodejs-core Comments URL: https://news.ycombinator.com/item?id=47444714 Points: 52 # Comments: 32",
       "source": "Hacker News",
       "published": "2026-03-19T19:35:37+00:00",
       "link": "https://github.com/indutny/no-ai-in-nodejs-core"
@@ -150,7 +178,7 @@ const FEED_DATA = {
     },
     {
       "title": "Ramtrack.eu – RAM Price Intelligence",
-      "summary": "Article URL: https://ramtrack.eu Comments URL: https://news.ycombinator.com/item?id=47438342 Points: 90 # Comments: 28",
+      "summary": "Article URL: https://ramtrack.eu Comments URL: https://news.ycombinator.com/item?id=47438342 Points: 94 # Comments: 31",
       "source": "Hacker News",
       "published": "2026-03-19T12:39:46+00:00",
       "link": "https://ramtrack.eu"
@@ -185,7 +213,7 @@ const FEED_DATA = {
     },
     {
       "title": "2% of ICML papers desk rejected because the authors used LLM in their reviews",
-      "summary": "Article URL: https://blog.icml.cc/2026/03/18/on-violations-of-llm-review-policies/ Comments URL: https://news.ycombinator.com/item?id=47437101 Points: 190 # Comments: 152",
+      "summary": "Article URL: https://blog.icml.cc/2026/03/18/on-violations-of-llm-review-policies/ Comments URL: https://news.ycombinator.com/item?id=47437101 Points: 192 # Comments: 154",
       "source": "Hacker News",
       "published": "2026-03-19T10:17:46+00:00",
       "link": "https://blog.icml.cc/2026/03/18/on-violations-of-llm-review-policies/"
@@ -227,7 +255,7 @@ const FEED_DATA = {
     },
     {
       "title": "What 81,000 people want from AI",
-      "summary": "Article URL: https://www.anthropic.com/features/81k-interviews Comments URL: https://news.ycombinator.com/item?id=47435156 Points: 194 # Comments: 183",
+      "summary": "Article URL: https://www.anthropic.com/features/81k-interviews Comments URL: https://news.ycombinator.com/item?id=47435156 Points: 195 # Comments: 184",
       "source": "Hacker News",
       "published": "2026-03-19T05:00:56+00:00",
       "link": "https://www.anthropic.com/features/81k-interviews"
@@ -311,7 +339,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI coding is gambling",
-      "summary": "Article URL: https://notes.visaint.space/ai-coding-is-gambling/ Comments URL: https://news.ycombinator.com/item?id=47428541 Points: 343 # Comments: 421",
+      "summary": "Article URL: https://notes.visaint.space/ai-coding-is-gambling/ Comments URL: https://news.ycombinator.com/item?id=47428541 Points: 344 # Comments: 421",
       "source": "Hacker News",
       "published": "2026-03-18T17:22:02+00:00",
       "link": "https://notes.visaint.space/ai-coding-is-gambling/"
@@ -325,7 +353,7 @@ const FEED_DATA = {
     },
     {
       "title": "Americans Recognize AI as a Wealth Inequality Machine, Polls Find",
-      "summary": "Article URL: https://gizmodo.com/americans-recognize-ai-as-a-wealth-inequality-machine-pollsters-find-2000734713 Comments URL: https://news.ycombinator.com/item?id=47428335 Points: 56 # Comments: 21",
+      "summary": "Article URL: https://gizmodo.com/americans-recognize-ai-as-a-wealth-inequality-machine-pollsters-find-2000734713 Comments URL: https://news.ycombinator.com/item?id=47428335 Points: 56 # Comments: 20",
       "source": "Hacker News",
       "published": "2026-03-18T17:07:21+00:00",
       "link": "https://gizmodo.com/americans-recognize-ai-as-a-wealth-inequality-machine-pollsters-find-2000734713"
@@ -402,7 +430,7 @@ const FEED_DATA = {
     },
     {
       "title": "Snowflake AI Escapes Sandbox and Executes Malware",
-      "summary": "Article URL: https://www.promptarmor.com/resources/snowflake-ai-escapes-sandbox-and-executes-malware Comments URL: https://news.ycombinator.com/item?id=47427017 Points: 265 # Comments: 82",
+      "summary": "Article URL: https://www.promptarmor.com/resources/snowflake-ai-escapes-sandbox-and-executes-malware Comments URL: https://news.ycombinator.com/item?id=47427017 Points: 266 # Comments: 82",
       "source": "Hacker News",
       "published": "2026-03-18T15:30:07+00:00",
       "link": "https://www.promptarmor.com/resources/snowflake-ai-escapes-sandbox-and-executes-malware"
@@ -486,14 +514,14 @@ const FEED_DATA = {
     },
     {
       "title": "Why AI systems don't learn – On autonomous learning from cognitive science",
-      "summary": "Article URL: https://arxiv.org/abs/2603.15381 Comments URL: https://news.ycombinator.com/item?id=47418722 Points: 195 # Comments: 113",
+      "summary": "Article URL: https://arxiv.org/abs/2603.15381 Comments URL: https://news.ycombinator.com/item?id=47418722 Points: 196 # Comments: 113",
       "source": "Hacker News",
       "published": "2026-03-17T21:42:39+00:00",
       "link": "https://arxiv.org/abs/2603.15381"
     },
     {
       "title": "Mistral AI Releases Forge",
-      "summary": "Article URL: https://mistral.ai/news/forge Comments URL: https://news.ycombinator.com/item?id=47418295 Points: 724 # Comments: 186",
+      "summary": "Article URL: https://mistral.ai/news/forge Comments URL: https://news.ycombinator.com/item?id=47418295 Points: 724 # Comments: 187",
       "source": "Hacker News",
       "published": "2026-03-17T21:04:26+00:00",
       "link": "https://mistral.ai/news/forge"
@@ -667,18 +695,18 @@ const FEED_DATA = {
       "link": "https://www.wired.com/story/how-invisalign-became-the-worlds-biggest-3d-printing-company/"
     },
     {
-      "title": "Sears Exposed AI Chatbot Phone Calls and Text Chats to Anyone on the Web",
-      "summary": "Customer conversations with chatbots can include contact information and personal details that make it easier for scammers to launch phishing attacks and commit fraud.",
-      "source": "Wired",
-      "published": "2026-03-17T10:00:00+00:00",
-      "link": "https://www.wired.com/story/sears-exposed-ai-chatbot-phone-calls-and-text-chats-to-anyone-on-the-web/"
-    },
-    {
       "title": "Goldman Sachs sees AI investment shift to data centres",
       "summary": "Artificial intelligence investment is entering a more selective phase as companies and investors look beyond early excitement and focus on the data centre infrastructure required to run AI systems.",
       "source": "AI News",
       "published": "2026-03-17T10:00:00+00:00",
       "link": "https://www.artificialintelligence-news.com/news/goldman-sachs-sees-ai-investment-shift-to-data-centres/"
+    },
+    {
+      "title": "Sears Exposed AI Chatbot Phone Calls and Text Chats to Anyone on the Web",
+      "summary": "Customer conversations with chatbots can include contact information and personal details that make it easier for scammers to launch phishing attacks and commit fraud.",
+      "source": "Wired",
+      "published": "2026-03-17T10:00:00+00:00",
+      "link": "https://www.wired.com/story/sears-exposed-ai-chatbot-phone-calls-and-text-chats-to-anyone-on-the-web/"
     },
     {
       "title": "Mistral's new Small 4 model punches above its weight with 128 expert modules",
@@ -1372,34 +1400,6 @@ const FEED_DATA = {
       "source": "Wired",
       "published": "2026-03-13T12:00:00+00:00",
       "link": "https://www.wired.com/story/china-is-going-all-in-on-openclaw/"
-    },
-    {
-      "title": "Gamers’ Worst Nightmares About AI Are Coming True",
-      "summary": "From the global RAM shortage driving up console prices to job loss in the industry, gaming is shaping up to be one of the AI boom's biggest casualties.",
-      "source": "Wired",
-      "published": "2026-03-13T11:00:00+00:00",
-      "link": "https://www.wired.com/story/gamers-ai-nightmares-are-coming-true/"
-    },
-    {
-      "title": "E.SUN Bank and IBM build AI governance framework for banking",
-      "summary": "E.SUN Bank is working with IBM to build clearer AI governance rules for how artificial intelligence can be used inside a bank. The effort reflects a wider shift in finance.",
-      "source": "AI News",
-      "published": "2026-03-13T10:00:00+00:00",
-      "link": "https://www.artificialintelligence-news.com/news/e-sun-bank-and-ibm-build-ai-governance-framework-for-banking/"
-    },
-    {
-      "title": "Palantir Demos Show How the Military Could Use AI Chatbots to Generate War Plans",
-      "summary": "Software demos and Pentagon records detail how chatbots like Anthropic’s Claude could help the Pentagon analyze intelligence and suggest next steps.",
-      "source": "Wired",
-      "published": "2026-03-13T10:00:00+00:00",
-      "link": "https://www.wired.com/story/palantir-demos-show-how-the-military-can-use-ai-chatbots-to-generate-war-plans/"
-    },
-    {
-      "title": "Meta delays its next AI model Avocado after internal tests show it can't keep up with Google and OpenAI",
-      "summary": "Meta is apparently postponing its new AI model \"Avocado\" because it is falling behind Google, OpenAI and Anthropic in tests. The article Meta delays its next AI model Avocado after internal tests show it can't keep up with Google and OpenAI appeared first on The Decoder.",
-      "source": "The Decoder",
-      "published": "2026-03-13T09:06:43+00:00",
-      "link": "https://the-decoder.com/meta-delays-its-next-ai-model-avocado-after-internal-tests-show-it-cant-keep-up-with-google-and-openai/"
     }
   ]
 };
