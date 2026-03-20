@@ -1,6 +1,55 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-03-20T15:29:09.439782+00:00",
+  "lastUpdated": "2026-03-20T19:26:06.032145+00:00",
   "items": [
+    {
+      "title": "Gamers Hate Nvidia's DLSS 5. Developers Aren’t Crazy About It Either",
+      "summary": "Nvidia’s new AI upscaling gaming technology struck gamers as uncanny and off-putting. Developers don't seem to like it either, but it could be “the default” in a few years.",
+      "source": "Wired",
+      "published": "2026-03-20T19:13:19+00:00",
+      "link": "https://www.wired.com/story/gamers-hate-nvidia-dlss-5-developers-arent-crazy-about-it-either/"
+    },
+    {
+      "title": "White House AI plan hands Big Tech the federal preemption it lobbied for",
+      "summary": "The White House wants to make AI regulation a federal matter, stripping states of their ability to set their own rules; exactly what Big Tech has been lobbying for. The article White House AI plan hands Big Tech the federal preemption it lobbied for appeared first on The Decoder.",
+      "source": "The Decoder",
+      "published": "2026-03-20T19:05:24+00:00",
+      "link": "https://the-decoder.com/white-house-ai-plan-hands-big-tech-the-federal-preemption-it-lobbied-for/"
+    },
+    {
+      "title": "Trump takes another shot at dismantling state AI regulation",
+      "summary": "The Trump administration on Friday unveiled its new legislative blueprint for AI regulation, and the seven-point plan includes a clear message: The federal government should avoid many AI regulations beyond a set of child safety rules, and it should bar states from messing with...",
+      "source": "The Verge",
+      "published": "2026-03-20T18:17:02+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/898055/trump-new-ai-policy-framework"
+    },
+    {
+      "title": "WordPress.com now lets AI agents write and publish posts, and more",
+      "summary": "New AI agents on WordPress.com could lower barriers to publishing while increasing machine-generated content across the web.",
+      "source": "TechCrunch",
+      "published": "2026-03-20T16:43:09+00:00",
+      "link": "https://techcrunch.com/2026/03/20/wordpress-com-now-lets-ai-agents-write-and-publish-posts-and-more/"
+    },
+    {
+      "title": "MacBook M5 Pro and Qwen3.5 = Local AI Security System",
+      "summary": "Article URL: https://www.sharpai.org/benchmark/ Comments URL: https://news.ycombinator.com/item?id=47457107 Points: 101 # Comments: 104",
+      "source": "Hacker News",
+      "published": "2026-03-20T16:41:42+00:00",
+      "link": "https://www.sharpai.org/benchmark/"
+    },
+    {
+      "title": "Trump’s AI framework targets state laws, shifts child safety burden to parents",
+      "summary": "Trump’s AI framework pushes federal preemption of state laws, emphasizes innovation, and shifts responsibility for child safety toward parents while laying out lighter-touch rules for tech companies.",
+      "source": "TechCrunch",
+      "published": "2026-03-20T16:14:04+00:00",
+      "link": "https://techcrunch.com/2026/03/20/trumps-ai-framework-targets-state-laws-shifts-child-safety-burden-to-parents/"
+    },
+    {
+      "title": "Anthropic turns Claude Code into an always-on AI agent with new channels feature",
+      "summary": "Anthropic's new channels feature for Claude Code lets external events like CI results or chat messages flow directly into an active session, so Claude can keep working without anyone at the terminal.",
+      "source": "The Decoder",
+      "published": "2026-03-20T15:33:28+00:00",
+      "link": "https://the-decoder.com/anthropic-turns-claude-code-into-an-always-on-ai-agent-with-new-channels-feature/"
+    },
     {
       "title": "Adobe Firefly now bundles 30+ AI models and lets users train custom styles on their own images",
       "summary": "Adobe is expanding its AI creative platform, Firefly, to include user-defined models that can be trained on your own images. The company is also bundling over 30 AI models from different providers in a single environment.",
@@ -73,7 +122,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI (2014)",
-      "summary": "Article URL: https://blog.samaltman.com/ai Comments URL: https://news.ycombinator.com/item?id=47453010 Points: 58 # Comments: 58",
+      "summary": "Article URL: https://blog.samaltman.com/ai Comments URL: https://news.ycombinator.com/item?id=47453010 Points: 61 # Comments: 61",
       "source": "Hacker News",
       "published": "2026-03-20T11:10:17+00:00",
       "link": "https://blog.samaltman.com/ai"
@@ -136,7 +185,7 @@ const FEED_DATA = {
     },
     {
       "title": "Be intentional about how AI changes your codebase",
-      "summary": "Article URL: https://aicode.swerdlow.dev Comments URL: https://news.ycombinator.com/item?id=47446373 Points: 150 # Comments: 84",
+      "summary": "Article URL: https://aicode.swerdlow.dev Comments URL: https://news.ycombinator.com/item?id=47446373 Points: 159 # Comments: 92",
       "source": "Hacker News",
       "published": "2026-03-19T21:23:24+00:00",
       "link": "https://aicode.swerdlow.dev"
@@ -150,7 +199,7 @@ const FEED_DATA = {
     },
     {
       "title": "No AI in Node.js Core",
-      "summary": "Article URL: https://github.com/indutny/no-ai-in-nodejs-core Comments URL: https://news.ycombinator.com/item?id=47444714 Points: 55 # Comments: 32",
+      "summary": "Article URL: https://github.com/indutny/no-ai-in-nodejs-core Comments URL: https://news.ycombinator.com/item?id=47444714 Points: 58 # Comments: 34",
       "source": "Hacker News",
       "published": "2026-03-19T19:35:37+00:00",
       "link": "https://github.com/indutny/no-ai-in-nodejs-core"
@@ -262,7 +311,7 @@ const FEED_DATA = {
     },
     {
       "title": "Ramtrack.eu – RAM Price Intelligence",
-      "summary": "Article URL: https://ramtrack.eu Comments URL: https://news.ycombinator.com/item?id=47438342 Points: 96 # Comments: 33",
+      "summary": "Article URL: https://ramtrack.eu Comments URL: https://news.ycombinator.com/item?id=47438342 Points: 96 # Comments: 35",
       "source": "Hacker News",
       "published": "2026-03-19T12:39:46+00:00",
       "link": "https://ramtrack.eu"
@@ -297,7 +346,7 @@ const FEED_DATA = {
     },
     {
       "title": "2% of ICML papers desk rejected because the authors used LLM in their reviews",
-      "summary": "Article URL: https://blog.icml.cc/2026/03/18/on-violations-of-llm-review-policies/ Comments URL: https://news.ycombinator.com/item?id=47437101 Points: 193 # Comments: 155",
+      "summary": "Article URL: https://blog.icml.cc/2026/03/18/on-violations-of-llm-review-policies/ Comments URL: https://news.ycombinator.com/item?id=47437101 Points: 194 # Comments: 156",
       "source": "Hacker News",
       "published": "2026-03-19T10:17:46+00:00",
       "link": "https://blog.icml.cc/2026/03/18/on-violations-of-llm-review-policies/"
@@ -423,7 +472,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI coding is gambling",
-      "summary": "Article URL: https://notes.visaint.space/ai-coding-is-gambling/ Comments URL: https://news.ycombinator.com/item?id=47428541 Points: 345 # Comments: 423",
+      "summary": "Article URL: https://notes.visaint.space/ai-coding-is-gambling/ Comments URL: https://news.ycombinator.com/item?id=47428541 Points: 346 # Comments: 423",
       "source": "Hacker News",
       "published": "2026-03-18T17:22:02+00:00",
       "link": "https://notes.visaint.space/ai-coding-is-gambling/"
@@ -514,7 +563,7 @@ const FEED_DATA = {
     },
     {
       "title": "Snowflake AI Escapes Sandbox and Executes Malware",
-      "summary": "Article URL: https://www.promptarmor.com/resources/snowflake-ai-escapes-sandbox-and-executes-malware Comments URL: https://news.ycombinator.com/item?id=47427017 Points: 266 # Comments: 82",
+      "summary": "Article URL: https://www.promptarmor.com/resources/snowflake-ai-escapes-sandbox-and-executes-malware Comments URL: https://news.ycombinator.com/item?id=47427017 Points: 266 # Comments: 83",
       "source": "Hacker News",
       "published": "2026-03-18T15:30:07+00:00",
       "link": "https://www.promptarmor.com/resources/snowflake-ai-escapes-sandbox-and-executes-malware"
@@ -598,14 +647,14 @@ const FEED_DATA = {
     },
     {
       "title": "Why AI systems don't learn – On autonomous learning from cognitive science",
-      "summary": "Article URL: https://arxiv.org/abs/2603.15381 Comments URL: https://news.ycombinator.com/item?id=47418722 Points: 199 # Comments: 114",
+      "summary": "Article URL: https://arxiv.org/abs/2603.15381 Comments URL: https://news.ycombinator.com/item?id=47418722 Points: 200 # Comments: 114",
       "source": "Hacker News",
       "published": "2026-03-17T21:42:39+00:00",
       "link": "https://arxiv.org/abs/2603.15381"
     },
     {
       "title": "Mistral AI Releases Forge",
-      "summary": "Article URL: https://mistral.ai/news/forge Comments URL: https://news.ycombinator.com/item?id=47418295 Points: 724 # Comments: 188",
+      "summary": "Article URL: https://mistral.ai/news/forge Comments URL: https://news.ycombinator.com/item?id=47418295 Points: 725 # Comments: 189",
       "source": "Hacker News",
       "published": "2026-03-17T21:04:26+00:00",
       "link": "https://mistral.ai/news/forge"
@@ -1351,55 +1400,6 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-03-13T19:38:11+00:00",
       "link": "https://techcrunch.com/2026/03/13/the-biggest-ai-stories-of-the-year-so-far/"
-    },
-    {
-      "title": "Elon Musk admits xAI \"was not built right first time around,\" launches full restructuring",
-      "summary": "Elon Musk's AI company xAI is going through a major restructuring. Musk acknowledged on X that the company \"was not built right first time around\" and is now being rebuilt from the foundations up.",
-      "source": "The Decoder",
-      "published": "2026-03-13T19:15:00+00:00",
-      "link": "https://the-decoder.com/elon-musk-admits-xai-was-not-built-right-first-time-around-launches-full-restructuring/"
-    },
-    {
-      "title": "Show HN: Context Gateway – Compress agent context before it hits the LLM",
-      "summary": "We built an open-source proxy that sits between coding agents (Claude Code, OpenClaw, etc.) and the LLM, compressing tool outputs before they enter the context window.Demo: https://www.youtube.com/watch?v=-vFZ6MPrwjw#t=9s.Motivation: Agents are terrible at managing context.",
-      "source": "Hacker News",
-      "published": "2026-03-13T17:58:22+00:00",
-      "link": "https://github.com/Compresr-ai/Context-Gateway"
-    },
-    {
-      "title": "John Carmack about open source and anti-AI activists",
-      "summary": "https://xcancel.com/id_aa_carmack/status/2032460578669691171 Comments URL: https://news.ycombinator.com/item?id=47367463 Points: 374 # Comments: 488",
-      "source": "Hacker News",
-      "published": "2026-03-13T17:51:34+00:00",
-      "link": "https://twitter.com/id_aa_carmack/status/2032460578669691171"
-    },
-    {
-      "title": "Google explains the differences between its three Nano Banana image generation models",
-      "summary": "A new guide from Google breaks down the three Nano Banana image models and when to use each one. The cheaper Nano Banana 2 reportedly delivers 95 percent of Pro's capabilities and can search the web for reference images on its own before generating output.",
-      "source": "The Decoder",
-      "published": "2026-03-13T17:42:00+00:00",
-      "link": "https://the-decoder.com/google-explains-the-differences-between-its-three-nano-banana-image-generation-models/"
-    },
-    {
-      "title": "The wild six weeks for NanoClaw’s creator that led to a deal with Docker",
-      "summary": "Gavriel Cohen is living an open source developer's dream as his project has achieved acclaim and a partnership with Docker in a matter of weeks.",
-      "source": "TechCrunch",
-      "published": "2026-03-13T17:09:59+00:00",
-      "link": "https://techcrunch.com/2026/03/13/the-wild-six-weeks-for-nanoclaws-creator-that-led-to-a-deal-with-docker/"
-    },
-    {
-      "title": "Elon Musk pushes out more xAI founders as AI coding effort falters",
-      "summary": "https://archive.ph/rP4cb (text at bottom)https://x.com/elonmusk/status/2032201568335044978, https://xcancel.com/elonmusk/status/2032201568335044978https://economictimes.indiatimes.com/tech/artificial-intelli...https://futurism.com/artificial-intelligence/elon-musk-screw...",
-      "source": "Hacker News",
-      "published": "2026-03-13T16:40:42+00:00",
-      "link": "https://www.ft.com/content/e5fbc6c2-d5a6-4b97-a105-6a96ea849de5"
-    },
-    {
-      "title": "The $32B acquisition that one VC is calling the ‘Deal of the Decade’",
-      "summary": "According to Index Ventures Partner Shardul Shah, cybersecurity startup Wiz sits “at the center of three tailwinds: AI, cloud, and security spend.” Those tailwinds powered what just became the largest venture-backed acquisition in history — Google’s $32 billion deal, finalized...",
-      "source": "TechCrunch",
-      "published": "2026-03-13T16:20:23+00:00",
-      "link": "https://techcrunch.com/video/the-32b-acquisition-that-one-vc-is-calling-the-deal-of-the-decade/"
     }
   ]
 };
