@@ -1,12 +1,33 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-03-19T21:58:40.851208+00:00",
+  "lastUpdated": "2026-03-20T05:20:09.808648+00:00",
   "items": [
+    {
+      "title": "OpenAI is planning a desktop ‘superapp’",
+      "summary": "OpenAI is working on a desktop \"superapp\" that merges its ChatGPT app, the Codex AI coding app, and its AI-powered Atlas browser into one app, The Wall Street Journal reports.",
+      "source": "The Verge",
+      "published": "2026-03-20T00:09:38+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/897778/openai-chatgpt-codex-atlas-browser-superapp"
+    },
+    {
+      "title": "Jeff Bezos reportedly wants $100 billion to buy and transform old manufacturing firms with AI",
+      "summary": "The Amazon magnate has a new project centered around acquiring industrial firms and revamping them with AI technology.",
+      "source": "TechCrunch",
+      "published": "2026-03-19T22:09:24+00:00",
+      "link": "https://techcrunch.com/2026/03/19/jeff-bezos-reportedly-wants-100-billion-to-buy-and-transform-old-manufacturing-firms-with-ai/"
+    },
     {
       "title": "‘Uncanny Valley’: Nvidia’s ‘Super Bowl of AI,’ Tesla Disappoints, and Meta’s VR Metaverse ‘Shutdown’",
       "summary": "In this episode, we dive into Nvidia’s annual developer conference and what CEO Jensen Huang is saying about the future of the company.",
       "source": "Wired",
       "published": "2026-03-19T21:43:56+00:00",
       "link": "https://www.wired.com/story/uncanny-valley-podcast-nvidia-gtc-tesla-disappointed-fans-meta-horizon-worlds/"
+    },
+    {
+      "title": "Be intentional about how AI changes your codebase",
+      "summary": "Article URL: https://aicode.swerdlow.dev Comments URL: https://news.ycombinator.com/item?id=47446373 Points: 95 # Comments: 33",
+      "source": "Hacker News",
+      "published": "2026-03-19T21:23:24+00:00",
+      "link": "https://aicode.swerdlow.dev"
     },
     {
       "title": "Elevenlabs now lets you sell AI music you don't own",
@@ -115,7 +136,7 @@ const FEED_DATA = {
     },
     {
       "title": "Ramtrack.eu – RAM Price Intelligence",
-      "summary": "Article URL: https://ramtrack.eu Comments URL: https://news.ycombinator.com/item?id=47438342 Points: 76 # Comments: 24",
+      "summary": "Article URL: https://ramtrack.eu Comments URL: https://news.ycombinator.com/item?id=47438342 Points: 86 # Comments: 27",
       "source": "Hacker News",
       "published": "2026-03-19T12:39:46+00:00",
       "link": "https://ramtrack.eu"
@@ -150,7 +171,7 @@ const FEED_DATA = {
     },
     {
       "title": "2% of ICML papers desk rejected because the authors used LLM in their reviews",
-      "summary": "Article URL: https://blog.icml.cc/2026/03/18/on-violations-of-llm-review-policies/ Comments URL: https://news.ycombinator.com/item?id=47437101 Points: 181 # Comments: 150",
+      "summary": "Article URL: https://blog.icml.cc/2026/03/18/on-violations-of-llm-review-policies/ Comments URL: https://news.ycombinator.com/item?id=47437101 Points: 188 # Comments: 152",
       "source": "Hacker News",
       "published": "2026-03-19T10:17:46+00:00",
       "link": "https://blog.icml.cc/2026/03/18/on-violations-of-llm-review-policies/"
@@ -192,7 +213,7 @@ const FEED_DATA = {
     },
     {
       "title": "What 81,000 people want from AI",
-      "summary": "Article URL: https://www.anthropic.com/features/81k-interviews Comments URL: https://news.ycombinator.com/item?id=47435156 Points: 186 # Comments: 175",
+      "summary": "Article URL: https://www.anthropic.com/features/81k-interviews Comments URL: https://news.ycombinator.com/item?id=47435156 Points: 191 # Comments: 181",
       "source": "Hacker News",
       "published": "2026-03-19T05:00:56+00:00",
       "link": "https://www.anthropic.com/features/81k-interviews"
@@ -276,7 +297,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI coding is gambling",
-      "summary": "Article URL: https://notes.visaint.space/ai-coding-is-gambling/ Comments URL: https://news.ycombinator.com/item?id=47428541 Points: 342 # Comments: 417",
+      "summary": "Article URL: https://notes.visaint.space/ai-coding-is-gambling/ Comments URL: https://news.ycombinator.com/item?id=47428541 Points: 343 # Comments: 421",
       "source": "Hacker News",
       "published": "2026-03-18T17:22:02+00:00",
       "link": "https://notes.visaint.space/ai-coding-is-gambling/"
@@ -290,7 +311,7 @@ const FEED_DATA = {
     },
     {
       "title": "Americans Recognize AI as a Wealth Inequality Machine, Polls Find",
-      "summary": "Article URL: https://gizmodo.com/americans-recognize-ai-as-a-wealth-inequality-machine-pollsters-find-2000734713 Comments URL: https://news.ycombinator.com/item?id=47428335 Points: 56 # Comments: 20",
+      "summary": "Article URL: https://gizmodo.com/americans-recognize-ai-as-a-wealth-inequality-machine-pollsters-find-2000734713 Comments URL: https://news.ycombinator.com/item?id=47428335 Points: 56 # Comments: 21",
       "source": "Hacker News",
       "published": "2026-03-18T17:07:21+00:00",
       "link": "https://gizmodo.com/americans-recognize-ai-as-a-wealth-inequality-machine-pollsters-find-2000734713"
@@ -332,7 +353,7 @@ const FEED_DATA = {
     },
     {
       "title": "Google Engineers Launch \"Sashiko\" for Agentic AI Code Review of the Linux Kernel",
-      "summary": "Article URL: https://www.phoronix.com/news/Sashiko-Linux-AI-Code-Review Comments URL: https://news.ycombinator.com/item?id=47427647 Points: 101 # Comments: 49",
+      "summary": "Article URL: https://www.phoronix.com/news/Sashiko-Linux-AI-Code-Review Comments URL: https://news.ycombinator.com/item?id=47427647 Points: 102 # Comments: 49",
       "source": "Hacker News",
       "published": "2026-03-18T16:17:44+00:00",
       "link": "https://www.phoronix.com/news/Sashiko-Linux-AI-Code-Review"
@@ -367,7 +388,7 @@ const FEED_DATA = {
     },
     {
       "title": "Snowflake AI Escapes Sandbox and Executes Malware",
-      "summary": "Article URL: https://www.promptarmor.com/resources/snowflake-ai-escapes-sandbox-and-executes-malware Comments URL: https://news.ycombinator.com/item?id=47427017 Points: 261 # Comments: 83",
+      "summary": "Article URL: https://www.promptarmor.com/resources/snowflake-ai-escapes-sandbox-and-executes-malware Comments URL: https://news.ycombinator.com/item?id=47427017 Points: 265 # Comments: 82",
       "source": "Hacker News",
       "published": "2026-03-18T15:30:07+00:00",
       "link": "https://www.promptarmor.com/resources/snowflake-ai-escapes-sandbox-and-executes-malware"
@@ -451,14 +472,14 @@ const FEED_DATA = {
     },
     {
       "title": "Why AI systems don't learn – On autonomous learning from cognitive science",
-      "summary": "Article URL: https://arxiv.org/abs/2603.15381 Comments URL: https://news.ycombinator.com/item?id=47418722 Points: 193 # Comments: 113",
+      "summary": "Article URL: https://arxiv.org/abs/2603.15381 Comments URL: https://news.ycombinator.com/item?id=47418722 Points: 195 # Comments: 113",
       "source": "Hacker News",
       "published": "2026-03-17T21:42:39+00:00",
       "link": "https://arxiv.org/abs/2603.15381"
     },
     {
       "title": "Mistral AI Releases Forge",
-      "summary": "Article URL: https://mistral.ai/news/forge Comments URL: https://news.ycombinator.com/item?id=47418295 Points: 720 # Comments: 186",
+      "summary": "Article URL: https://mistral.ai/news/forge Comments URL: https://news.ycombinator.com/item?id=47418295 Points: 723 # Comments: 186",
       "source": "Hacker News",
       "published": "2026-03-17T21:04:26+00:00",
       "link": "https://mistral.ai/news/forge"
@@ -514,7 +535,7 @@ const FEED_DATA = {
     },
     {
       "title": "GPT‑5.4 Mini and Nano",
-      "summary": "Article URL: https://openai.com/index/introducing-gpt-5-4-mini-and-nano Comments URL: https://news.ycombinator.com/item?id=47415441 Points: 246 # Comments: 144",
+      "summary": "Article URL: https://openai.com/index/introducing-gpt-5-4-mini-and-nano Comments URL: https://news.ycombinator.com/item?id=47415441 Points: 247 # Comments: 145",
       "source": "Hacker News",
       "published": "2026-03-17T17:07:06+00:00",
       "link": "https://openai.com/index/introducing-gpt-5-4-mini-and-nano"
@@ -661,7 +682,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI still doesn't work well, businesses are faking it, and a reckoning is coming",
-      "summary": "Article URL: https://www.theregister.com/2026/03/17/ai_businesses_faking_it_reckoning_coming_codestrap/ Comments URL: https://news.ycombinator.com/item?id=47407252 Points: 76 # Comments: 27",
+      "summary": "Article URL: https://www.theregister.com/2026/03/17/ai_businesses_faking_it_reckoning_coming_codestrap/ Comments URL: https://news.ycombinator.com/item?id=47407252 Points: 77 # Comments: 27",
       "source": "Hacker News",
       "published": "2026-03-17T00:56:47+00:00",
       "link": "https://www.theregister.com/2026/03/17/ai_businesses_faking_it_reckoning_coming_codestrap/"
@@ -1379,27 +1400,6 @@ const FEED_DATA = {
       "source": "MIT Tech Review",
       "published": "2026-03-13T09:00:00+00:00",
       "link": "https://www.technologyreview.com/2026/03/13/1134230/future-ai-chips-could-be-built-on-glass/"
-    },
-    {
-      "title": "Before quantum computing arrives, this startup wants enterprises already running on it",
-      "summary": "After selling his AI startup to AMD for $665 million, Peter Sarlin is back with Qutwo, a new venture building the infrastructure it believes enterprises will need when quantum computing finally arrives.",
-      "source": "TechCrunch",
-      "published": "2026-03-13T05:00:00+00:00",
-      "link": "https://techcrunch.com/2026/03/12/before-quantum-computing-arrives-this-startup-wants-enterprises-already-running-on-it/"
-    },
-    {
-      "title": "Tennessee grandmother jailed after AI face recognition error links her to fraud",
-      "summary": "Article URL: https://www.theguardian.com/us-news/2026/mar/12/tennessee-grandmother-ai-fraud Comments URL: https://news.ycombinator.com/item?id=47359136 Points: 104 # Comments: 28",
-      "source": "Hacker News",
-      "published": "2026-03-13T00:17:34+00:00",
-      "link": "https://www.theguardian.com/us-news/2026/mar/12/tennessee-grandmother-ai-fraud"
-    },
-    {
-      "title": "How to watch Jensen Huang’s Nvidia GTC 2026 keynote",
-      "summary": "GTC — which stands for GPU Technology Conference — is Nvidia's flagship annual event, where the chipmaker typically uses the spotlight to announce new products, champion partnerships, and lay out its vision for the future of computing.",
-      "source": "TechCrunch",
-      "published": "2026-03-12T23:25:39+00:00",
-      "link": "https://techcrunch.com/2026/03/12/how-to-watch-jensen-huangs-nvidia-gtc-2026-keynote/"
     }
   ]
 };
