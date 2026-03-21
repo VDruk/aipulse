@@ -1,6 +1,62 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-03-21T09:56:21.463429+00:00",
+  "lastUpdated": "2026-03-21T14:02:10.212103+00:00",
   "items": [
+    {
+      "title": "The gen AI Kool-Aid tastes like eugenics",
+      "summary": "Like many people, director Valerie Veatch was intrigued when OpenAI first released its Sora text-to-video generative AI model to the public in 2024.",
+      "source": "The Verge",
+      "published": "2026-03-21T14:00:00+00:00",
+      "link": "https://www.theverge.com/entertainment/897923/ghost-in-the-machine-valerie-veatch-interview"
+    },
+    {
+      "title": "95% of UK students now use AI and their experiences couldn't be more divided",
+      "summary": "95 percent of British students use generative AI. But while some say it deepens their learning, others worry it's replacing their ability to think for themselves.",
+      "source": "The Decoder",
+      "published": "2026-03-21T12:38:43+00:00",
+      "link": "https://the-decoder.com/95-of-uk-students-now-use-ai-and-their-experiences-couldnt-be-more-divided/"
+    },
+    {
+      "title": "Chinese AI model MiniMax M2.7 reportedly helped develop itself",
+      "summary": "Chinese AI company MiniMax has released M2.7, a model that reportedly played an active role in its own development. Through autonomous optimization loops, it improved its own training process and posted competitive benchmark results.",
+      "source": "The Decoder",
+      "published": "2026-03-21T11:48:16+00:00",
+      "link": "https://the-decoder.com/chinese-ai-model-minimax-m2-7-reportedly-helped-develop-itself/"
+    },
+    {
+      "title": "Gemini task automation is slow, clunky, and super impressive",
+      "summary": "I've been testing out Gemini's new task automation on the Pixel 10 Pro and the Galaxy S26 Ultra, which for the first time lets Gemini take the wheel and use apps for you.",
+      "source": "The Verge",
+      "published": "2026-03-21T11:30:00+00:00",
+      "link": "https://www.theverge.com/tech/898282/gemini-task-automation-uber-doordash-hands-on"
+    },
+    {
+      "title": "I Tried DoorDash’s Tasks App and Saw the Bleak Future of AI Gig Work",
+      "summary": "I recorded videos of myself doing laundry, scrambling eggs, and walking around the park in DoorDash’s new Tasks app, where gig workers are paid to train AI.",
+      "source": "Wired",
+      "published": "2026-03-21T11:00:00+00:00",
+      "link": "https://www.wired.com/story/i-tried-doordashs-tasks-app-and-saw-the-bleak-future-of-ai-gig-work/"
+    },
+    {
+      "title": "OpenAI's chief scientist trusts AI with experiments but says it's not at the level to design complex systems",
+      "summary": "OpenAI Chief Scientist Jakub Pachocki used to write every line of code by hand. Now AI handles experiments that once took him a week, but he's not ready to let it run the show.",
+      "source": "The Decoder",
+      "published": "2026-03-21T10:44:17+00:00",
+      "link": "https://the-decoder.com/openais-chief-scientist-trusts-ai-with-experiments-but-says-its-not-at-the-level-to-design-complex-systems/"
+    },
+    {
+      "title": "Atuin v18.13 – better search, a PTY proxy, and AI for your shell",
+      "summary": "Article URL: https://blog.atuin.sh/atuin-v18-13/ Comments URL: https://news.ycombinator.com/item?id=47465824 Points: 57 # Comments: 41",
+      "source": "Hacker News",
+      "published": "2026-03-21T10:35:20+00:00",
+      "link": "https://blog.atuin.sh/atuin-v18-13/"
+    },
+    {
+      "title": "Europe's AI paradox is record adoption that funds foreign ecosystems instead of building its own",
+      "summary": "Europe leads in AI adoption and matches the US in talent, but owns almost none of the platforms it depends on.",
+      "source": "The Decoder",
+      "published": "2026-03-21T10:00:41+00:00",
+      "link": "https://the-decoder.com/europes-ai-paradox-is-record-adoption-that-funds-foreign-ecosystems-instead-of-building-its-own/"
+    },
     {
       "title": "Nvidia CEO Jensen Huang says he'd be \"deeply alarmed\" if a $500K developer spent less than $250K on AI tokens",
       "summary": "Nvidia CEO Jensen Huang has a clear message for his developers: if you earn half a million dollars, your AI token budget should be at least $250,000. He also thinks the AI industry's revenue potential is far bigger than most forecasts suggest.",
@@ -14,6 +70,20 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-03-21T08:51:16+00:00",
       "link": "https://the-decoder.com/cursor-quietly-built-its-new-coding-model-on-top-of-chinese-open-source-kimi-k2-5/"
+    },
+    {
+      "title": "Man pleads guilty to $8M AI-generated music scheme",
+      "summary": "Article URL: https://therecord.media/man-pleads-guilty-8-million-ai-music-scheme Comments URL: https://news.ycombinator.com/item?id=47464859 Points: 50 # Comments: 55",
+      "source": "Hacker News",
+      "published": "2026-03-21T07:36:07+00:00",
+      "link": "https://therecord.media/man-pleads-guilty-8-million-ai-music-scheme"
+    },
+    {
+      "title": "Blocking Internet Archive Won't Stop AI, but Will Erase Web's Historical Record",
+      "summary": "Article URL: https://www.eff.org/deeplinks/2026/03/blocking-internet-archive-wont-stop-ai-it-will-erase-webs-historical-record Comments URL: https://news.ycombinator.com/item?id=47464818 Points: 178 # Comments: 45",
+      "source": "Hacker News",
+      "published": "2026-03-21T07:30:16+00:00",
+      "link": "https://www.eff.org/deeplinks/2026/03/blocking-internet-archive-wont-stop-ai-it-will-erase-webs-historical-record"
     },
     {
       "title": "New court filing reveals Pentagon told Anthropic the two sides were nearly aligned — a week after Trump declared the relationship kaput",
@@ -30,6 +100,13 @@ const FEED_DATA = {
       "link": "https://www.wired.com/story/anthropic-denies-sabotage-ai-tools-war-claude/"
     },
     {
+      "title": "Pentagon to adopt Palantir AI as core US Military system",
+      "summary": "Article URL: https://www.reuters.com/technology/pentagon-adopt-palantir-ai-as-core-us-military-system-memo-says-2026-03-20/ Comments URL: https://news.ycombinator.com/item?id=47462491 Points: 52 # Comments: 3",
+      "source": "Hacker News",
+      "published": "2026-03-20T23:58:29+00:00",
+      "link": "https://www.reuters.com/technology/pentagon-adopt-palantir-ai-as-core-us-military-system-memo-says-2026-03-20/"
+    },
+    {
       "title": "There Aren’t a Lot of Reasons to Get Excited About a New Amazon Smartphone",
       "summary": "The company is reportedly building a new AI-powered mobile device. If Amazon follows through on the plan, experts warn it would be next to impossible to break into a crowded market.",
       "source": "Wired",
@@ -38,7 +115,7 @@ const FEED_DATA = {
     },
     {
       "title": "OpenCode – Open source AI coding agent",
-      "summary": "Article URL: https://opencode.ai/ Comments URL: https://news.ycombinator.com/item?id=47460525 Points: 790 # Comments: 351",
+      "summary": "Article URL: https://opencode.ai/ Comments URL: https://news.ycombinator.com/item?id=47460525 Points: 951 # Comments: 449",
       "source": "Hacker News",
       "published": "2026-03-20T21:03:52+00:00",
       "link": "https://opencode.ai/"
@@ -115,7 +192,7 @@ const FEED_DATA = {
     },
     {
       "title": "MacBook M5 Pro and Qwen3.5 = Local AI Security System",
-      "summary": "Article URL: https://www.sharpai.org/benchmark/ Comments URL: https://news.ycombinator.com/item?id=47457107 Points: 159 # Comments: 147",
+      "summary": "Article URL: https://www.sharpai.org/benchmark/ Comments URL: https://news.ycombinator.com/item?id=47457107 Points: 163 # Comments: 150",
       "source": "Hacker News",
       "published": "2026-03-20T16:41:42+00:00",
       "link": "https://www.sharpai.org/benchmark/"
@@ -206,7 +283,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI (2014)",
-      "summary": "Article URL: https://blog.samaltman.com/ai Comments URL: https://news.ycombinator.com/item?id=47453010 Points: 73 # Comments: 68",
+      "summary": "Article URL: https://blog.samaltman.com/ai Comments URL: https://news.ycombinator.com/item?id=47453010 Points: 75 # Comments: 69",
       "source": "Hacker News",
       "published": "2026-03-20T11:10:17+00:00",
       "link": "https://blog.samaltman.com/ai"
@@ -269,7 +346,7 @@ const FEED_DATA = {
     },
     {
       "title": "Be intentional about how AI changes your codebase",
-      "summary": "Article URL: https://aicode.swerdlow.dev Comments URL: https://news.ycombinator.com/item?id=47446373 Points: 165 # Comments: 99",
+      "summary": "Article URL: https://aicode.swerdlow.dev Comments URL: https://news.ycombinator.com/item?id=47446373 Points: 166 # Comments: 99",
       "source": "Hacker News",
       "published": "2026-03-19T21:23:24+00:00",
       "link": "https://aicode.swerdlow.dev"
@@ -395,7 +472,7 @@ const FEED_DATA = {
     },
     {
       "title": "Ramtrack.eu – RAM Price Intelligence",
-      "summary": "Article URL: https://ramtrack.eu Comments URL: https://news.ycombinator.com/item?id=47438342 Points: 98 # Comments: 35",
+      "summary": "Article URL: https://ramtrack.eu Comments URL: https://news.ycombinator.com/item?id=47438342 Points: 99 # Comments: 35",
       "source": "Hacker News",
       "published": "2026-03-19T12:39:46+00:00",
       "link": "https://ramtrack.eu"
@@ -430,7 +507,7 @@ const FEED_DATA = {
     },
     {
       "title": "2% of ICML papers desk rejected because the authors used LLM in their reviews",
-      "summary": "Article URL: https://blog.icml.cc/2026/03/18/on-violations-of-llm-review-policies/ Comments URL: https://news.ycombinator.com/item?id=47437101 Points: 197 # Comments: 156",
+      "summary": "Article URL: https://blog.icml.cc/2026/03/18/on-violations-of-llm-review-policies/ Comments URL: https://news.ycombinator.com/item?id=47437101 Points: 197 # Comments: 157",
       "source": "Hacker News",
       "published": "2026-03-19T10:17:46+00:00",
       "link": "https://blog.icml.cc/2026/03/18/on-violations-of-llm-review-policies/"
@@ -472,7 +549,7 @@ const FEED_DATA = {
     },
     {
       "title": "What 81,000 people want from AI",
-      "summary": "Article URL: https://www.anthropic.com/features/81k-interviews Comments URL: https://news.ycombinator.com/item?id=47435156 Points: 198 # Comments: 185",
+      "summary": "Article URL: https://www.anthropic.com/features/81k-interviews Comments URL: https://news.ycombinator.com/item?id=47435156 Points: 198 # Comments: 187",
       "source": "Hacker News",
       "published": "2026-03-19T05:00:56+00:00",
       "link": "https://www.anthropic.com/features/81k-interviews"
@@ -556,7 +633,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI coding is gambling",
-      "summary": "Article URL: https://notes.visaint.space/ai-coding-is-gambling/ Comments URL: https://news.ycombinator.com/item?id=47428541 Points: 347 # Comments: 427",
+      "summary": "Article URL: https://notes.visaint.space/ai-coding-is-gambling/ Comments URL: https://news.ycombinator.com/item?id=47428541 Points: 347 # Comments: 428",
       "source": "Hacker News",
       "published": "2026-03-18T17:22:02+00:00",
       "link": "https://notes.visaint.space/ai-coding-is-gambling/"
@@ -1323,83 +1400,6 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-03-15T09:34:36+00:00",
       "link": "https://the-decoder.com/hollywood-copyright-complaints-force-bytedance-to-shelve-global-launch-of-ai-video-generator-seedance-2-0/"
-    },
-    {
-      "title": "Codewall's AI agent hacked an AI recruiter, then impersonated Trump to test its voice bot's guardrails",
-      "summary": "AI agents can hack systems, defend them, and be hacked themselves. Codewall's one-hour takeover of an AI recruiting platform shows just how tangled this new security landscape has become.",
-      "source": "The Decoder",
-      "published": "2026-03-15T09:02:06+00:00",
-      "link": "https://the-decoder.com/codewalls-ai-agent-hacked-an-ai-recruiter-then-impersonated-trump-to-test-its-voice-bots-guardrails/"
-    },
-    {
-      "title": "The Appalling Stupidity of Spotify's AI DJ",
-      "summary": "Article URL: https://www.charlespetzold.com/blog/2026/02/The-Appalling-Stupidity-of-Spotifys-AI-DJ.html Comments URL: https://news.ycombinator.com/item?id=47385272 Points: 369 # Comments: 292",
-      "source": "Hacker News",
-      "published": "2026-03-15T08:04:55+00:00",
-      "link": "https://www.charlespetzold.com/blog/2026/02/The-Appalling-Stupidity-of-Spotifys-AI-DJ.html"
-    },
-    {
-      "title": "Claudetop – htop for Claude Code sessions (see your AI spend in real-time)",
-      "summary": "Article URL: https://github.com/liorwn/claudetop Comments URL: https://news.ycombinator.com/item?id=47380203 Points: 51 # Comments: 28",
-      "source": "Hacker News",
-      "published": "2026-03-14T19:26:24+00:00",
-      "link": "https://github.com/liorwn/claudetop"
-    },
-    {
-      "title": "AI Gets Wrong Woman Jailed for Six Months, Life Ruined",
-      "summary": "Article URL: https://www.youtube.com/watch?v=mzS7dmCUzcQ Comments URL: https://news.ycombinator.com/item?id=47378917 Points: 75 # Comments: 26",
-      "source": "Hacker News",
-      "published": "2026-03-14T17:24:24+00:00",
-      "link": "https://www.youtube.com/watch?v=mzS7dmCUzcQ"
-    },
-    {
-      "title": "Meta reportedly considering layoffs that could affect 20% of the company",
-      "summary": "These layoffs could help Facebook's parent company offset its aggressive spending on AI infrastructure, as well as AI-related acquisitions and hiring.",
-      "source": "TechCrunch",
-      "published": "2026-03-14T16:28:42+00:00",
-      "link": "https://techcrunch.com/2026/03/14/meta-reportedly-considering-layoffs-that-could-affect-20-of-the-company/"
-    },
-    {
-      "title": "AI didn't simplify software engineering: It just made bad engineering easier",
-      "summary": "Article URL: https://robenglander.com/writing/ai-did-not-simplify/ Comments URL: https://news.ycombinator.com/item?id=47377262 Points: 128 # Comments: 115",
-      "source": "Hacker News",
-      "published": "2026-03-14T14:49:15+00:00",
-      "link": "https://robenglander.com/writing/ai-did-not-simplify/"
-    },
-    {
-      "title": "AI spam websites flood the web with false information, and the number is growing fast",
-      "summary": "Newsguard and AI detector Pangram Labs have launched a real-time system to spot so-called \"AI content farms.\" More than 3,000 of these sites have already been flagged, with hundreds more popping up every month, and the number keeps growing.",
-      "source": "The Decoder",
-      "published": "2026-03-14T14:20:06+00:00",
-      "link": "https://the-decoder.com/ai-spam-websites-flood-the-web-with-false-information-and-the-number-is-growing-fast/"
-    },
-    {
-      "title": "Show HN: GitAgent – An open standard that turns any Git repo into an AI agent",
-      "summary": "We built GitAgent because we kept seeing the same problem: every agent framework defines agents differently, and switching frameworks means rewriting everything.GitAgent is a spec that defines an AI agent as files in a git repo.Three core files — agent.yaml (config), SOUL.md...",
-      "source": "Hacker News",
-      "published": "2026-03-14T13:41:25+00:00",
-      "link": "https://www.gitagent.sh/"
-    },
-    {
-      "title": "How to use the new ChatGPT app integrations, including DoorDash, Spotify, Uber, and others",
-      "summary": "Learn how to use Spotify, Canva, Figma, Expedia, and other apps directly in ChatGPT.",
-      "source": "TechCrunch",
-      "published": "2026-03-14T13:00:00+00:00",
-      "link": "https://techcrunch.com/2026/03/14/how-to-use-the-new-chatgpt-app-integrations-including-doordash-spotify-uber-and-others/"
-    },
-    {
-      "title": "China pushes OpenClaw \"one-person companies\" with millions in AI agent subsidies",
-      "summary": "At least seven Chinese local governments have launched million-dollar funding programs for OpenClaw projects within days. The goal: \"one-person companies\" where a single founder runs a business with AI agents as employees.",
-      "source": "The Decoder",
-      "published": "2026-03-14T12:19:26+00:00",
-      "link": "https://the-decoder.com/china-pushes-openclaw-one-person-companies-with-millions-in-ai-agent-subsidies/"
-    },
-    {
-      "title": "Hume AI open-sources TADA, a speech model five times faster than rivals with zero hallucinated words",
-      "summary": "Hume AI has open-sourced TADA under the MIT license, a fast speech generation model that processes text and audio in sync and produced zero hallucinations in testing.",
-      "source": "The Decoder",
-      "published": "2026-03-14T11:12:35+00:00",
-      "link": "https://the-decoder.com/hume-ai-open-sources-tada-a-speech-model-five-times-faster-than-rivals-with-zero-hallucinated-words/"
     }
   ]
 };
