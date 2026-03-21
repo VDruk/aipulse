@@ -1,6 +1,13 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-03-21T14:02:10.212103+00:00",
+  "lastUpdated": "2026-03-21T17:52:55.537282+00:00",
   "items": [
+    {
+      "title": "Why Wall Street wasn’t won over by Nvidia’s big conference",
+      "summary": "Despite investor fears of an AI bubble, Nvidia's latest conference shows that most in the industry aren't concerned by that possibility.",
+      "source": "TechCrunch",
+      "published": "2026-03-21T16:28:00+00:00",
+      "link": "https://techcrunch.com/2026/03/21/why-wall-street-wasnt-won-over-by-nvidias-big-conference/"
+    },
     {
       "title": "The gen AI Kool-Aid tastes like eugenics",
       "summary": "Like many people, director Valerie Veatch was intrigued when OpenAI first released its Sora text-to-video generative AI model to the public in 2024.",
@@ -45,7 +52,7 @@ const FEED_DATA = {
     },
     {
       "title": "Atuin v18.13 – better search, a PTY proxy, and AI for your shell",
-      "summary": "Article URL: https://blog.atuin.sh/atuin-v18-13/ Comments URL: https://news.ycombinator.com/item?id=47465824 Points: 57 # Comments: 41",
+      "summary": "Article URL: https://blog.atuin.sh/atuin-v18-13/ Comments URL: https://news.ycombinator.com/item?id=47465824 Points: 69 # Comments: 65",
       "source": "Hacker News",
       "published": "2026-03-21T10:35:20+00:00",
       "link": "https://blog.atuin.sh/atuin-v18-13/"
@@ -73,14 +80,14 @@ const FEED_DATA = {
     },
     {
       "title": "Man pleads guilty to $8M AI-generated music scheme",
-      "summary": "Article URL: https://therecord.media/man-pleads-guilty-8-million-ai-music-scheme Comments URL: https://news.ycombinator.com/item?id=47464859 Points: 50 # Comments: 55",
+      "summary": "Article URL: https://therecord.media/man-pleads-guilty-8-million-ai-music-scheme Comments URL: https://news.ycombinator.com/item?id=47464859 Points: 52 # Comments: 58",
       "source": "Hacker News",
       "published": "2026-03-21T07:36:07+00:00",
       "link": "https://therecord.media/man-pleads-guilty-8-million-ai-music-scheme"
     },
     {
       "title": "Blocking Internet Archive Won't Stop AI, but Will Erase Web's Historical Record",
-      "summary": "Article URL: https://www.eff.org/deeplinks/2026/03/blocking-internet-archive-wont-stop-ai-it-will-erase-webs-historical-record Comments URL: https://news.ycombinator.com/item?id=47464818 Points: 178 # Comments: 45",
+      "summary": "Article URL: https://www.eff.org/deeplinks/2026/03/blocking-internet-archive-wont-stop-ai-it-will-erase-webs-historical-record Comments URL: https://news.ycombinator.com/item?id=47464818 Points: 343 # Comments: 102",
       "source": "Hacker News",
       "published": "2026-03-21T07:30:16+00:00",
       "link": "https://www.eff.org/deeplinks/2026/03/blocking-internet-archive-wont-stop-ai-it-will-erase-webs-historical-record"
@@ -101,7 +108,7 @@ const FEED_DATA = {
     },
     {
       "title": "Pentagon to adopt Palantir AI as core US Military system",
-      "summary": "Article URL: https://www.reuters.com/technology/pentagon-adopt-palantir-ai-as-core-us-military-system-memo-says-2026-03-20/ Comments URL: https://news.ycombinator.com/item?id=47462491 Points: 52 # Comments: 3",
+      "summary": "Article URL: https://www.reuters.com/technology/pentagon-adopt-palantir-ai-as-core-us-military-system-memo-says-2026-03-20/ Comments URL: https://news.ycombinator.com/item?id=47462491 Points: 56 # Comments: 4",
       "source": "Hacker News",
       "published": "2026-03-20T23:58:29+00:00",
       "link": "https://www.reuters.com/technology/pentagon-adopt-palantir-ai-as-core-us-military-system-memo-says-2026-03-20/"
@@ -115,7 +122,7 @@ const FEED_DATA = {
     },
     {
       "title": "OpenCode – Open source AI coding agent",
-      "summary": "Article URL: https://opencode.ai/ Comments URL: https://news.ycombinator.com/item?id=47460525 Points: 951 # Comments: 449",
+      "summary": "Article URL: https://opencode.ai/ Comments URL: https://news.ycombinator.com/item?id=47460525 Points: 1108 # Comments: 549",
       "source": "Hacker News",
       "published": "2026-03-20T21:03:52+00:00",
       "link": "https://opencode.ai/"
@@ -192,7 +199,7 @@ const FEED_DATA = {
     },
     {
       "title": "MacBook M5 Pro and Qwen3.5 = Local AI Security System",
-      "summary": "Article URL: https://www.sharpai.org/benchmark/ Comments URL: https://news.ycombinator.com/item?id=47457107 Points: 163 # Comments: 150",
+      "summary": "Article URL: https://www.sharpai.org/benchmark/ Comments URL: https://news.ycombinator.com/item?id=47457107 Points: 167 # Comments: 150",
       "source": "Hacker News",
       "published": "2026-03-20T16:41:42+00:00",
       "link": "https://www.sharpai.org/benchmark/"
@@ -283,7 +290,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI (2014)",
-      "summary": "Article URL: https://blog.samaltman.com/ai Comments URL: https://news.ycombinator.com/item?id=47453010 Points: 75 # Comments: 69",
+      "summary": "Article URL: https://blog.samaltman.com/ai Comments URL: https://news.ycombinator.com/item?id=47453010 Points: 77 # Comments: 69",
       "source": "Hacker News",
       "published": "2026-03-20T11:10:17+00:00",
       "link": "https://blog.samaltman.com/ai"
@@ -346,7 +353,7 @@ const FEED_DATA = {
     },
     {
       "title": "Be intentional about how AI changes your codebase",
-      "summary": "Article URL: https://aicode.swerdlow.dev Comments URL: https://news.ycombinator.com/item?id=47446373 Points: 166 # Comments: 99",
+      "summary": "Article URL: https://aicode.swerdlow.dev Comments URL: https://news.ycombinator.com/item?id=47446373 Points: 167 # Comments: 100",
       "source": "Hacker News",
       "published": "2026-03-19T21:23:24+00:00",
       "link": "https://aicode.swerdlow.dev"
@@ -724,7 +731,7 @@ const FEED_DATA = {
     },
     {
       "title": "Snowflake AI Escapes Sandbox and Executes Malware",
-      "summary": "Article URL: https://www.promptarmor.com/resources/snowflake-ai-escapes-sandbox-and-executes-malware Comments URL: https://news.ycombinator.com/item?id=47427017 Points: 266 # Comments: 83",
+      "summary": "Article URL: https://www.promptarmor.com/resources/snowflake-ai-escapes-sandbox-and-executes-malware Comments URL: https://news.ycombinator.com/item?id=47427017 Points: 267 # Comments: 84",
       "source": "Hacker News",
       "published": "2026-03-18T15:30:07+00:00",
       "link": "https://www.promptarmor.com/resources/snowflake-ai-escapes-sandbox-and-executes-malware"
@@ -1393,13 +1400,6 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-03-15T10:04:20+00:00",
       "link": "https://the-decoder.com/openclaw-rl-trains-ai-agents-simply-by-talking-converting-every-reply-into-a-training-signal/"
-    },
-    {
-      "title": "Hollywood copyright complaints force Bytedance to shelve global launch of AI video generator Seedance 2.0",
-      "summary": "Bytedance planned to launch its AI video model Seedance 2.0 globally in mid-March. That's not happening, because Hollywood's biggest studios have collectively put the brakes on the rollout.",
-      "source": "The Decoder",
-      "published": "2026-03-15T09:34:36+00:00",
-      "link": "https://the-decoder.com/hollywood-copyright-complaints-force-bytedance-to-shelve-global-launch-of-ai-video-generator-seedance-2-0/"
     }
   ]
 };
