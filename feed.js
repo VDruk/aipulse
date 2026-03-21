@@ -1,6 +1,34 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-03-20T21:56:12.908968+00:00",
+  "lastUpdated": "2026-03-21T04:59:07.146546+00:00",
   "items": [
+    {
+      "title": "New court filing reveals Pentagon told Anthropic the two sides were nearly aligned — a week after Trump declared the relationship kaput",
+      "summary": "Anthropic submitted two sworn declarations to a California federal court late Friday afternoon, pushing back on the Pentagon's assertion that the AI company poses an \"unacceptable risk to national security\" and arguing that the government's case relies on technical...",
+      "source": "TechCrunch",
+      "published": "2026-03-21T01:40:28+00:00",
+      "link": "https://techcrunch.com/2026/03/20/new-court-filing-reveals-pentagon-told-anthropic-the-two-sides-were-nearly-aligned-a-week-after-trump-declared-the-relationship-kaput/"
+    },
+    {
+      "title": "Anthropic Denies It Could Sabotage AI Tools During War",
+      "summary": "The Department of Defense alleges the AI developer could manipulate models in the middle of war. Company executives argue that’s impossible.",
+      "source": "Wired",
+      "published": "2026-03-21T00:03:20+00:00",
+      "link": "https://www.wired.com/story/anthropic-denies-sabotage-ai-tools-war-claude/"
+    },
+    {
+      "title": "There Aren’t a Lot of Reasons to Get Excited About a New Amazon Smartphone",
+      "summary": "The company is reportedly building a new AI-powered mobile device. If Amazon follows through on the plan, experts warn it would be next to impossible to break into a crowded market.",
+      "source": "Wired",
+      "published": "2026-03-20T22:03:09+00:00",
+      "link": "https://www.wired.com/story/amazon-smartphone-rumor-2026/"
+    },
+    {
+      "title": "OpenCode – Open source AI coding agent",
+      "summary": "Article URL: https://opencode.ai/ Comments URL: https://news.ycombinator.com/item?id=47460525 Points: 573 # Comments: 261",
+      "source": "Hacker News",
+      "published": "2026-03-20T21:03:52+00:00",
+      "link": "https://opencode.ai/"
+    },
     {
       "title": "OpenCode – The open source AI coding agent",
       "summary": "Article URL: https://opencode.ai/ Comments URL: https://news.ycombinator.com/item?id=47460525 Points: 70 # Comments: 14",
@@ -73,7 +101,7 @@ const FEED_DATA = {
     },
     {
       "title": "MacBook M5 Pro and Qwen3.5 = Local AI Security System",
-      "summary": "Article URL: https://www.sharpai.org/benchmark/ Comments URL: https://news.ycombinator.com/item?id=47457107 Points: 146 # Comments: 139",
+      "summary": "Article URL: https://www.sharpai.org/benchmark/ Comments URL: https://news.ycombinator.com/item?id=47457107 Points: 156 # Comments: 146",
       "source": "Hacker News",
       "published": "2026-03-20T16:41:42+00:00",
       "link": "https://www.sharpai.org/benchmark/"
@@ -164,7 +192,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI (2014)",
-      "summary": "Article URL: https://blog.samaltman.com/ai Comments URL: https://news.ycombinator.com/item?id=47453010 Points: 62 # Comments: 61",
+      "summary": "Article URL: https://blog.samaltman.com/ai Comments URL: https://news.ycombinator.com/item?id=47453010 Points: 69 # Comments: 67",
       "source": "Hacker News",
       "published": "2026-03-20T11:10:17+00:00",
       "link": "https://blog.samaltman.com/ai"
@@ -227,7 +255,7 @@ const FEED_DATA = {
     },
     {
       "title": "Be intentional about how AI changes your codebase",
-      "summary": "Article URL: https://aicode.swerdlow.dev Comments URL: https://news.ycombinator.com/item?id=47446373 Points: 163 # Comments: 94",
+      "summary": "Article URL: https://aicode.swerdlow.dev Comments URL: https://news.ycombinator.com/item?id=47446373 Points: 165 # Comments: 97",
       "source": "Hacker News",
       "published": "2026-03-19T21:23:24+00:00",
       "link": "https://aicode.swerdlow.dev"
@@ -241,7 +269,7 @@ const FEED_DATA = {
     },
     {
       "title": "No AI in Node.js Core",
-      "summary": "Article URL: https://github.com/indutny/no-ai-in-nodejs-core Comments URL: https://news.ycombinator.com/item?id=47444714 Points: 60 # Comments: 34",
+      "summary": "Article URL: https://github.com/indutny/no-ai-in-nodejs-core Comments URL: https://news.ycombinator.com/item?id=47444714 Points: 61 # Comments: 35",
       "source": "Hacker News",
       "published": "2026-03-19T19:35:37+00:00",
       "link": "https://github.com/indutny/no-ai-in-nodejs-core"
@@ -388,7 +416,7 @@ const FEED_DATA = {
     },
     {
       "title": "2% of ICML papers desk rejected because the authors used LLM in their reviews",
-      "summary": "Article URL: https://blog.icml.cc/2026/03/18/on-violations-of-llm-review-policies/ Comments URL: https://news.ycombinator.com/item?id=47437101 Points: 196 # Comments: 156",
+      "summary": "Article URL: https://blog.icml.cc/2026/03/18/on-violations-of-llm-review-policies/ Comments URL: https://news.ycombinator.com/item?id=47437101 Points: 196 # Comments: 157",
       "source": "Hacker News",
       "published": "2026-03-19T10:17:46+00:00",
       "link": "https://blog.icml.cc/2026/03/18/on-violations-of-llm-review-policies/"
@@ -401,18 +429,18 @@ const FEED_DATA = {
       "link": "https://the-decoder.com/openais-aws-deal-may-undermine-microsofts-azure-exclusivity-rights/"
     },
     {
-      "title": "The Fight to Hold AI Companies Accountable for Children’s Deaths",
-      "summary": "After a series of suicides allegedly linked to AI chatbots, one lawyer is trying to hold companies like OpenAI accountable.",
-      "source": "Wired",
-      "published": "2026-03-19T10:00:00+00:00",
-      "link": "https://www.wired.com/story/how-ai-chatbots-drove-families-to-the-brink-and-the-lawyer-fighting-back/"
-    },
-    {
       "title": "Visa prepares payment systems for AI agent-initiated transactions",
       "summary": "Payments rely on a simple model: a person decides to buy something, and a bank or card network processes the transaction. That model is starting to change as Visa tests how AI agents can initiate payments.",
       "source": "AI News",
       "published": "2026-03-19T10:00:00+00:00",
       "link": "https://www.artificialintelligence-news.com/news/visa-prepares-payment-systems-for-ai-agent-initiated-transactions/"
+    },
+    {
+      "title": "The Fight to Hold AI Companies Accountable for Children’s Deaths",
+      "summary": "After a series of suicides allegedly linked to AI chatbots, one lawyer is trying to hold companies like OpenAI accountable.",
+      "source": "Wired",
+      "published": "2026-03-19T10:00:00+00:00",
+      "link": "https://www.wired.com/story/how-ai-chatbots-drove-families-to-the-brink-and-the-lawyer-fighting-back/"
     },
     {
       "title": "Multiverse Computing pushes its compressed AI models into the mainstream",
@@ -430,7 +458,7 @@ const FEED_DATA = {
     },
     {
       "title": "What 81,000 people want from AI",
-      "summary": "Article URL: https://www.anthropic.com/features/81k-interviews Comments URL: https://news.ycombinator.com/item?id=47435156 Points: 197 # Comments: 185",
+      "summary": "Article URL: https://www.anthropic.com/features/81k-interviews Comments URL: https://news.ycombinator.com/item?id=47435156 Points: 198 # Comments: 185",
       "source": "Hacker News",
       "published": "2026-03-19T05:00:56+00:00",
       "link": "https://www.anthropic.com/features/81k-interviews"
@@ -514,7 +542,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI coding is gambling",
-      "summary": "Article URL: https://notes.visaint.space/ai-coding-is-gambling/ Comments URL: https://news.ycombinator.com/item?id=47428541 Points: 346 # Comments: 425",
+      "summary": "Article URL: https://notes.visaint.space/ai-coding-is-gambling/ Comments URL: https://news.ycombinator.com/item?id=47428541 Points: 347 # Comments: 426",
       "source": "Hacker News",
       "published": "2026-03-18T17:22:02+00:00",
       "link": "https://notes.visaint.space/ai-coding-is-gambling/"
@@ -689,14 +717,14 @@ const FEED_DATA = {
     },
     {
       "title": "Why AI systems don't learn – On autonomous learning from cognitive science",
-      "summary": "Article URL: https://arxiv.org/abs/2603.15381 Comments URL: https://news.ycombinator.com/item?id=47418722 Points: 202 # Comments: 114",
+      "summary": "Article URL: https://arxiv.org/abs/2603.15381 Comments URL: https://news.ycombinator.com/item?id=47418722 Points: 203 # Comments: 114",
       "source": "Hacker News",
       "published": "2026-03-17T21:42:39+00:00",
       "link": "https://arxiv.org/abs/2603.15381"
     },
     {
       "title": "Mistral AI Releases Forge",
-      "summary": "Article URL: https://mistral.ai/news/forge Comments URL: https://news.ycombinator.com/item?id=47418295 Points: 726 # Comments: 189",
+      "summary": "Article URL: https://mistral.ai/news/forge Comments URL: https://news.ycombinator.com/item?id=47418295 Points: 727 # Comments: 190",
       "source": "Hacker News",
       "published": "2026-03-17T21:04:26+00:00",
       "link": "https://mistral.ai/news/forge"
@@ -752,7 +780,7 @@ const FEED_DATA = {
     },
     {
       "title": "GPT‑5.4 Mini and Nano",
-      "summary": "Article URL: https://openai.com/index/introducing-gpt-5-4-mini-and-nano Comments URL: https://news.ycombinator.com/item?id=47415441 Points: 247 # Comments: 146",
+      "summary": "Article URL: https://openai.com/index/introducing-gpt-5-4-mini-and-nano Comments URL: https://news.ycombinator.com/item?id=47415441 Points: 248 # Comments: 146",
       "source": "Hacker News",
       "published": "2026-03-17T17:07:06+00:00",
       "link": "https://openai.com/index/introducing-gpt-5-4-mini-and-nano"
@@ -1372,34 +1400,6 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-03-14T09:55:59+00:00",
       "link": "https://the-decoder.com/meta-reportedly-plans-to-cut-up-to-20-percent-of-its-workforce-as-600-billion-ai-bet-drives-need-to-offset-costs/"
-    },
-    {
-      "title": "New Top 100 AI list shows a maturing market where ChatGPT leads but users are shopping around",
-      "summary": "Andreessen Horowitz's latest Top 100 ranking of AI consumer products shows a market in flux: ChatGPT still dominates, competitors are growing fast, and global usage is fracturing along geopolitical lines.",
-      "source": "The Decoder",
-      "published": "2026-03-14T09:22:40+00:00",
-      "link": "https://the-decoder.com/new-top-100-ai-list-shows-a-market-where-chatgpt-leads-but-no-one-is-loyal/"
-    },
-    {
-      "title": "Ex-Anthropic researchers launch AI startup Mirendil to tackle scientific research",
-      "summary": "Former Anthropic researchers launched Mirendil, an AI startup focused on scientific research in biology and materials science. The company is reportedly seeking a $1 billion valuation.",
-      "source": "The Decoder",
-      "published": "2026-03-14T08:47:45+00:00",
-      "link": "https://the-decoder.com/ex-anthropic-researchers-launch-ai-startup-mirendil-to-tackle-scientific-research/"
-    },
-    {
-      "title": "Meta planning layoffs as AI costs mount",
-      "summary": "Article URL: https://www.reuters.com/business/world-at-work/meta-planning-sweeping-layoffs-ai-costs-mount-2026-03-14/ Comments URL: https://news.ycombinator.com/item?id=47372249 Points: 106 # Comments: 22",
-      "source": "Hacker News",
-      "published": "2026-03-14T01:13:36+00:00",
-      "link": "https://www.reuters.com/business/world-at-work/meta-planning-sweeping-layoffs-ai-costs-mount-2026-03-14/"
-    },
-    {
-      "title": "‘Not built right the first time’ — Musk’s xAI is starting over again, again",
-      "summary": "The AI lab is revamping its effort to build an AI coding tool, with two new executives joining from Cursor.",
-      "source": "TechCrunch",
-      "published": "2026-03-14T00:12:22+00:00",
-      "link": "https://techcrunch.com/2026/03/13/not-built-right-the-first-time-musks-xai-is-starting-over-again-again/"
     }
   ]
 };
