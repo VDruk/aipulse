@@ -1,12 +1,47 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-03-21T17:52:55.537282+00:00",
+  "lastUpdated": "2026-03-21T21:48:54.366995+00:00",
   "items": [
+    {
+      "title": "Tinybox- offline AI device 120B parameters",
+      "summary": "Article URL: https://tinygrad.org/#tinybox Comments URL: https://news.ycombinator.com/item?id=47470773 Points: 141 # Comments: 83",
+      "source": "Hacker News",
+      "published": "2026-03-21T20:08:37+00:00",
+      "link": "https://tinygrad.org/#tinybox"
+    },
+    {
+      "title": "Publisher pulls horror novel ‘Shy Girl’ over AI concerns",
+      "summary": "Hachette Book Group said it will not be publishing “Shy Girl” over concerns that artificial intelligence was used to generate the text.",
+      "source": "TechCrunch",
+      "published": "2026-03-21T19:30:27+00:00",
+      "link": "https://techcrunch.com/2026/03/21/publisher-pulls-horror-novel-shy-girl-over-ai-concerns/"
+    },
+    {
+      "title": "OpenAI plans to nearly double its workforce by 2026 as it ramps up enterprise push",
+      "summary": "OpenAI plans to nearly double its workforce to 8,000 by the end of 2026, with a major push into enterprise AI, a market where Anthropic has been steadily gaining ground.",
+      "source": "The Decoder",
+      "published": "2026-03-21T18:55:44+00:00",
+      "link": "https://the-decoder.com/openai-plans-to-nearly-double-its-workforce-by-2026-as-it-ramps-up-enterprise-push/"
+    },
     {
       "title": "Why Wall Street wasn’t won over by Nvidia’s big conference",
       "summary": "Despite investor fears of an AI bubble, Nvidia's latest conference shows that most in the industry aren't concerned by that possibility.",
       "source": "TechCrunch",
       "published": "2026-03-21T16:28:00+00:00",
       "link": "https://techcrunch.com/2026/03/21/why-wall-street-wasnt-won-over-by-nvidias-big-conference/"
+    },
+    {
+      "title": "Thinking Fast, Slow, and Artificial: How AI Is Reshaping Human Reasoning",
+      "summary": "Article URL: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6097646 Comments URL: https://news.ycombinator.com/item?id=47467913 Points: 63 # Comments: 38",
+      "source": "Hacker News",
+      "published": "2026-03-21T15:30:29+00:00",
+      "link": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6097646"
+    },
+    {
+      "title": "Senior European journalist suspended over AI-generated quotes",
+      "summary": "Article URL: https://www.theguardian.com/technology/2026/mar/20/mediahuis-suspends-senior-journalist-over-ai-generated-quotes Comments URL: https://news.ycombinator.com/item?id=47467566 Points: 80 # Comments: 62",
+      "source": "Hacker News",
+      "published": "2026-03-21T14:50:13+00:00",
+      "link": "https://www.theguardian.com/technology/2026/mar/20/mediahuis-suspends-senior-journalist-over-ai-generated-quotes"
     },
     {
       "title": "The gen AI Kool-Aid tastes like eugenics",
@@ -52,7 +87,7 @@ const FEED_DATA = {
     },
     {
       "title": "Atuin v18.13 – better search, a PTY proxy, and AI for your shell",
-      "summary": "Article URL: https://blog.atuin.sh/atuin-v18-13/ Comments URL: https://news.ycombinator.com/item?id=47465824 Points: 69 # Comments: 65",
+      "summary": "Article URL: https://blog.atuin.sh/atuin-v18-13/ Comments URL: https://news.ycombinator.com/item?id=47465824 Points: 79 # Comments: 72",
       "source": "Hacker News",
       "published": "2026-03-21T10:35:20+00:00",
       "link": "https://blog.atuin.sh/atuin-v18-13/"
@@ -80,14 +115,14 @@ const FEED_DATA = {
     },
     {
       "title": "Man pleads guilty to $8M AI-generated music scheme",
-      "summary": "Article URL: https://therecord.media/man-pleads-guilty-8-million-ai-music-scheme Comments URL: https://news.ycombinator.com/item?id=47464859 Points: 52 # Comments: 58",
+      "summary": "Article URL: https://therecord.media/man-pleads-guilty-8-million-ai-music-scheme Comments URL: https://news.ycombinator.com/item?id=47464859 Points: 53 # Comments: 62",
       "source": "Hacker News",
       "published": "2026-03-21T07:36:07+00:00",
       "link": "https://therecord.media/man-pleads-guilty-8-million-ai-music-scheme"
     },
     {
       "title": "Blocking Internet Archive Won't Stop AI, but Will Erase Web's Historical Record",
-      "summary": "Article URL: https://www.eff.org/deeplinks/2026/03/blocking-internet-archive-wont-stop-ai-it-will-erase-webs-historical-record Comments URL: https://news.ycombinator.com/item?id=47464818 Points: 343 # Comments: 102",
+      "summary": "Article URL: https://www.eff.org/deeplinks/2026/03/blocking-internet-archive-wont-stop-ai-it-will-erase-webs-historical-record Comments URL: https://news.ycombinator.com/item?id=47464818 Points: 455 # Comments: 128",
       "source": "Hacker News",
       "published": "2026-03-21T07:30:16+00:00",
       "link": "https://www.eff.org/deeplinks/2026/03/blocking-internet-archive-wont-stop-ai-it-will-erase-webs-historical-record"
@@ -108,7 +143,7 @@ const FEED_DATA = {
     },
     {
       "title": "Pentagon to adopt Palantir AI as core US Military system",
-      "summary": "Article URL: https://www.reuters.com/technology/pentagon-adopt-palantir-ai-as-core-us-military-system-memo-says-2026-03-20/ Comments URL: https://news.ycombinator.com/item?id=47462491 Points: 56 # Comments: 4",
+      "summary": "Article URL: https://www.reuters.com/technology/pentagon-adopt-palantir-ai-as-core-us-military-system-memo-says-2026-03-20/ Comments URL: https://news.ycombinator.com/item?id=47462491 Points: 59 # Comments: 5",
       "source": "Hacker News",
       "published": "2026-03-20T23:58:29+00:00",
       "link": "https://www.reuters.com/technology/pentagon-adopt-palantir-ai-as-core-us-military-system-memo-says-2026-03-20/"
@@ -122,7 +157,7 @@ const FEED_DATA = {
     },
     {
       "title": "OpenCode – Open source AI coding agent",
-      "summary": "Article URL: https://opencode.ai/ Comments URL: https://news.ycombinator.com/item?id=47460525 Points: 1108 # Comments: 549",
+      "summary": "Article URL: https://opencode.ai/ Comments URL: https://news.ycombinator.com/item?id=47460525 Points: 1173 # Comments: 575",
       "source": "Hacker News",
       "published": "2026-03-20T21:03:52+00:00",
       "link": "https://opencode.ai/"
@@ -290,7 +325,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI (2014)",
-      "summary": "Article URL: https://blog.samaltman.com/ai Comments URL: https://news.ycombinator.com/item?id=47453010 Points: 77 # Comments: 69",
+      "summary": "Article URL: https://blog.samaltman.com/ai Comments URL: https://news.ycombinator.com/item?id=47453010 Points: 80 # Comments: 70",
       "source": "Hacker News",
       "published": "2026-03-20T11:10:17+00:00",
       "link": "https://blog.samaltman.com/ai"
@@ -353,7 +388,7 @@ const FEED_DATA = {
     },
     {
       "title": "Be intentional about how AI changes your codebase",
-      "summary": "Article URL: https://aicode.swerdlow.dev Comments URL: https://news.ycombinator.com/item?id=47446373 Points: 167 # Comments: 100",
+      "summary": "Article URL: https://aicode.swerdlow.dev Comments URL: https://news.ycombinator.com/item?id=47446373 Points: 167 # Comments: 101",
       "source": "Hacker News",
       "published": "2026-03-19T21:23:24+00:00",
       "link": "https://aicode.swerdlow.dev"
@@ -514,7 +549,7 @@ const FEED_DATA = {
     },
     {
       "title": "2% of ICML papers desk rejected because the authors used LLM in their reviews",
-      "summary": "Article URL: https://blog.icml.cc/2026/03/18/on-violations-of-llm-review-policies/ Comments URL: https://news.ycombinator.com/item?id=47437101 Points: 197 # Comments: 157",
+      "summary": "Article URL: https://blog.icml.cc/2026/03/18/on-violations-of-llm-review-policies/ Comments URL: https://news.ycombinator.com/item?id=47437101 Points: 198 # Comments: 158",
       "source": "Hacker News",
       "published": "2026-03-19T10:17:46+00:00",
       "link": "https://blog.icml.cc/2026/03/18/on-violations-of-llm-review-policies/"
@@ -556,7 +591,7 @@ const FEED_DATA = {
     },
     {
       "title": "What 81,000 people want from AI",
-      "summary": "Article URL: https://www.anthropic.com/features/81k-interviews Comments URL: https://news.ycombinator.com/item?id=47435156 Points: 198 # Comments: 187",
+      "summary": "Article URL: https://www.anthropic.com/features/81k-interviews Comments URL: https://news.ycombinator.com/item?id=47435156 Points: 198 # Comments: 188",
       "source": "Hacker News",
       "published": "2026-03-19T05:00:56+00:00",
       "link": "https://www.anthropic.com/features/81k-interviews"
@@ -1365,41 +1400,6 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-03-15T16:29:53+00:00",
       "link": "https://the-decoder.com/ai-consultant-uses-chatgpt-alphafold-and-grok-to-find-a-possible-treatment-for-his-dogs-cancer/"
-    },
-    {
-      "title": "LLM Architecture Gallery",
-      "summary": "Article URL: https://sebastianraschka.com/llm-architecture-gallery/ Comments URL: https://news.ycombinator.com/item?id=47388676 Points: 578 # Comments: 42",
-      "source": "Hacker News",
-      "published": "2026-03-15T16:01:09+00:00",
-      "link": "https://sebastianraschka.com/llm-architecture-gallery/"
-    },
-    {
-      "title": "Ask HN: How is AI-assisted coding going for you professionally?",
-      "summary": "Comment sections on AI threads tend to split into \"we're all cooked\" and \"AI is useless.\" I'd like to cut through the noise and learn what's actually working and what isn't, from concrete experience.If you've recently used AI tools for professional coding work, tell us about...",
-      "source": "Hacker News",
-      "published": "2026-03-15T15:58:23+00:00",
-      "link": "https://news.ycombinator.com/item?id=47388646"
-    },
-    {
-      "title": "AI companies want to harvest improv actors’ skills to train AI on human emotion",
-      "summary": "If you've got strong creative instincts, the ability to authentically portray emotion, and are capable of staying true to a character's voice throughout a scene, there's a job listing calling for your experience.",
-      "source": "The Verge",
-      "published": "2026-03-15T14:00:00+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/893931/ai-companies-handshake-improv-actors-training-data"
-    },
-    {
-      "title": "RL agents go from face-planting to parkour when researchers keep adding network layers",
-      "summary": "While most reinforcement learning algorithms use two to five network layers, a research team achieved 2x to 50x performance gains by scaling network depth up to 1,024 layers in a self-supervised agent and saw entirely new behaviors emerge in the process.",
-      "source": "The Decoder",
-      "published": "2026-03-15T11:17:26+00:00",
-      "link": "https://the-decoder.com/rl-agents-go-from-face-planting-to-parkour-when-researchers-keep-adding-network-layers/"
-    },
-    {
-      "title": "OpenClaw-RL trains AI agents \"simply by talking,\" converting every reply into a training signal",
-      "summary": "AI agents usually throw away valuable feedback from everyday interactions. Princeton's new OpenClaw-RL framework changes that by turning live signals from chats, terminal commands, and GUI actions into continuous training data.",
-      "source": "The Decoder",
-      "published": "2026-03-15T10:04:20+00:00",
-      "link": "https://the-decoder.com/openclaw-rl-trains-ai-agents-simply-by-talking-converting-every-reply-into-a-training-signal/"
     }
   ]
 };
