@@ -1,6 +1,20 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-03-21T07:10:38.367285+00:00",
+  "lastUpdated": "2026-03-21T09:56:21.463429+00:00",
   "items": [
+    {
+      "title": "Nvidia CEO Jensen Huang says he'd be \"deeply alarmed\" if a $500K developer spent less than $250K on AI tokens",
+      "summary": "Nvidia CEO Jensen Huang has a clear message for his developers: if you earn half a million dollars, your AI token budget should be at least $250,000. He also thinks the AI industry's revenue potential is far bigger than most forecasts suggest.",
+      "source": "The Decoder",
+      "published": "2026-03-21T09:28:54+00:00",
+      "link": "https://the-decoder.com/nvidia-ceo-jensen-huang-says-hed-be-deeply-alarmed-if-a-500k-developer-spent-less-than-250k-on-ai-tokens/"
+    },
+    {
+      "title": "Cursor quietly built its new coding model on top of Chinese open-source Kimi K2.5",
+      "summary": "Cursor releases Composer 2, the second generation of its own AI model for software development. The model is designed to keep pace with the leading coding models from Anthropic and OpenAI at significantly lower costs.",
+      "source": "The Decoder",
+      "published": "2026-03-21T08:51:16+00:00",
+      "link": "https://the-decoder.com/cursor-quietly-built-its-new-coding-model-on-top-of-chinese-open-source-kimi-k2-5/"
+    },
     {
       "title": "New court filing reveals Pentagon told Anthropic the two sides were nearly aligned — a week after Trump declared the relationship kaput",
       "summary": "Anthropic submitted two sworn declarations to a California federal court late Friday afternoon, pushing back on the Pentagon's assertion that the AI company poses an \"unacceptable risk to national security\" and arguing that the government's case relies on technical...",
@@ -24,7 +38,7 @@ const FEED_DATA = {
     },
     {
       "title": "OpenCode – Open source AI coding agent",
-      "summary": "Article URL: https://opencode.ai/ Comments URL: https://news.ycombinator.com/item?id=47460525 Points: 661 # Comments: 291",
+      "summary": "Article URL: https://opencode.ai/ Comments URL: https://news.ycombinator.com/item?id=47460525 Points: 790 # Comments: 351",
       "source": "Hacker News",
       "published": "2026-03-20T21:03:52+00:00",
       "link": "https://opencode.ai/"
@@ -101,7 +115,7 @@ const FEED_DATA = {
     },
     {
       "title": "MacBook M5 Pro and Qwen3.5 = Local AI Security System",
-      "summary": "Article URL: https://www.sharpai.org/benchmark/ Comments URL: https://news.ycombinator.com/item?id=47457107 Points: 158 # Comments: 146",
+      "summary": "Article URL: https://www.sharpai.org/benchmark/ Comments URL: https://news.ycombinator.com/item?id=47457107 Points: 159 # Comments: 147",
       "source": "Hacker News",
       "published": "2026-03-20T16:41:42+00:00",
       "link": "https://www.sharpai.org/benchmark/"
@@ -192,7 +206,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI (2014)",
-      "summary": "Article URL: https://blog.samaltman.com/ai Comments URL: https://news.ycombinator.com/item?id=47453010 Points: 71 # Comments: 68",
+      "summary": "Article URL: https://blog.samaltman.com/ai Comments URL: https://news.ycombinator.com/item?id=47453010 Points: 73 # Comments: 68",
       "source": "Hacker News",
       "published": "2026-03-20T11:10:17+00:00",
       "link": "https://blog.samaltman.com/ai"
@@ -255,7 +269,7 @@ const FEED_DATA = {
     },
     {
       "title": "Be intentional about how AI changes your codebase",
-      "summary": "Article URL: https://aicode.swerdlow.dev Comments URL: https://news.ycombinator.com/item?id=47446373 Points: 165 # Comments: 97",
+      "summary": "Article URL: https://aicode.swerdlow.dev Comments URL: https://news.ycombinator.com/item?id=47446373 Points: 165 # Comments: 99",
       "source": "Hacker News",
       "published": "2026-03-19T21:23:24+00:00",
       "link": "https://aicode.swerdlow.dev"
@@ -1386,20 +1400,6 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-03-14T11:12:35+00:00",
       "link": "https://the-decoder.com/hume-ai-open-sources-tada-a-speech-model-five-times-faster-than-rivals-with-zero-hallucinated-words/"
-    },
-    {
-      "title": "Ai2 releases new robotics models trained entirely in simulation to skip real-world data collection",
-      "summary": "Robots trained entirely in virtual worlds working in the real world without any real training data. Ai2 says it can be done.",
-      "source": "The Decoder",
-      "published": "2026-03-14T10:25:09+00:00",
-      "link": "https://the-decoder.com/ai2-releases-new-robotics-models-trained-entirely-in-simulation-to-skip-real-world-data-collection/"
-    },
-    {
-      "title": "Meta reportedly plans to cut up to 20 percent of its workforce as $600 billion AI bet drives need to offset costs",
-      "summary": "Meta is reportedly planning massive layoffs to finance its expensive AI investments. The article Meta reportedly plans to cut up to 20 percent of its workforce as $600 billion AI bet drives need to offset costs appeared first on The Decoder.",
-      "source": "The Decoder",
-      "published": "2026-03-14T09:55:59+00:00",
-      "link": "https://the-decoder.com/meta-reportedly-plans-to-cut-up-to-20-percent-of-its-workforce-as-600-billion-ai-bet-drives-need-to-offset-costs/"
     }
   ]
 };
