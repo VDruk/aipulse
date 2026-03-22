@@ -1,6 +1,20 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-03-22T07:28:28.140291+00:00",
+  "lastUpdated": "2026-03-22T09:57:44.269209+00:00",
   "items": [
+    {
+      "title": "Terence Tao says AI drives idea generation cost to near zero but shifts the bottleneck to verification",
+      "summary": "Terence Tao compares AI's impact on mathematics to the automobile's effect on cities: new technology needs new infrastructure, or it just clogs the old roads. His analysis applies far beyond math.",
+      "source": "The Decoder",
+      "published": "2026-03-22T09:31:13+00:00",
+      "link": "https://the-decoder.com/terence-tao-says-ai-drives-idea-generation-cost-to-near-zero-but-shifts-the-bottleneck-to-verification/"
+    },
+    {
+      "title": "Math needs thinking time, everyday knowledge needs memory, and a new Transformer architecture aims to deliver both",
+      "summary": "A German research team lets Transformer models decide for themselves how many times they think about a problem. Combined with additional memory, the approach outperforms larger models on math problems.",
+      "source": "The Decoder",
+      "published": "2026-03-22T08:31:07+00:00",
+      "link": "https://the-decoder.com/math-needs-thinking-time-everyday-knowledge-needs-memory-and-a-new-transformer-architecture-aims-to-deliver-both/"
+    },
     {
       "title": "Are AI tokens the new signing bonus or just a cost of doing business?",
       "summary": "Maybe tokens really will become the fourth pillar of engineering compensation. But engineers might want to hold the line before embracing this as a straightforward win.",
@@ -10,7 +24,7 @@ const FEED_DATA = {
     },
     {
       "title": "The Impact of AI on Game Dev Jobs. Open to Work Crisis",
-      "summary": "Article URL: https://darkounity.com/blog-post?id=the-impact-of-ai-on-game-dev-jobs-open-to-work-crisis--1774128585922 Comments URL: https://news.ycombinator.com/item?id=47471943 Points: 72 # Comments: 57",
+      "summary": "Article URL: https://darkounity.com/blog-post?id=the-impact-of-ai-on-game-dev-jobs-open-to-work-crisis--1774128585922 Comments URL: https://news.ycombinator.com/item?id=47471943 Points: 75 # Comments: 60",
       "source": "Hacker News",
       "published": "2026-03-21T22:03:05+00:00",
       "link": "https://darkounity.com/blog-post?id=the-impact-of-ai-on-game-dev-jobs-open-to-work-crisis--1774128585922"
@@ -52,14 +66,14 @@ const FEED_DATA = {
     },
     {
       "title": "Thinking Fast, Slow, and Artificial: How AI Is Reshaping Human Reasoning",
-      "summary": "Article URL: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6097646 Comments URL: https://news.ycombinator.com/item?id=47467913 Points: 124 # Comments: 69",
+      "summary": "Article URL: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6097646 Comments URL: https://news.ycombinator.com/item?id=47467913 Points: 146 # Comments: 81",
       "source": "Hacker News",
       "published": "2026-03-21T15:30:29+00:00",
       "link": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6097646"
     },
     {
       "title": "Senior European journalist suspended over AI-generated quotes",
-      "summary": "Article URL: https://www.theguardian.com/technology/2026/mar/20/mediahuis-suspends-senior-journalist-over-ai-generated-quotes Comments URL: https://news.ycombinator.com/item?id=47467566 Points: 84 # Comments: 74",
+      "summary": "Article URL: https://www.theguardian.com/technology/2026/mar/20/mediahuis-suspends-senior-journalist-over-ai-generated-quotes Comments URL: https://news.ycombinator.com/item?id=47467566 Points: 88 # Comments: 75",
       "source": "Hacker News",
       "published": "2026-03-21T14:50:13+00:00",
       "link": "https://www.theguardian.com/technology/2026/mar/20/mediahuis-suspends-senior-journalist-over-ai-generated-quotes"
@@ -136,14 +150,14 @@ const FEED_DATA = {
     },
     {
       "title": "Man pleads guilty to $8M AI-generated music scheme",
-      "summary": "Article URL: https://therecord.media/man-pleads-guilty-8-million-ai-music-scheme Comments URL: https://news.ycombinator.com/item?id=47464859 Points: 53 # Comments: 64",
+      "summary": "Article URL: https://therecord.media/man-pleads-guilty-8-million-ai-music-scheme Comments URL: https://news.ycombinator.com/item?id=47464859 Points: 53 # Comments: 66",
       "source": "Hacker News",
       "published": "2026-03-21T07:36:07+00:00",
       "link": "https://therecord.media/man-pleads-guilty-8-million-ai-music-scheme"
     },
     {
       "title": "Blocking Internet Archive Won't Stop AI, but Will Erase Web's Historical Record",
-      "summary": "Article URL: https://www.eff.org/deeplinks/2026/03/blocking-internet-archive-wont-stop-ai-it-will-erase-webs-historical-record Comments URL: https://news.ycombinator.com/item?id=47464818 Points: 514 # Comments: 140",
+      "summary": "Article URL: https://www.eff.org/deeplinks/2026/03/blocking-internet-archive-wont-stop-ai-it-will-erase-webs-historical-record Comments URL: https://news.ycombinator.com/item?id=47464818 Points: 525 # Comments: 145",
       "source": "Hacker News",
       "published": "2026-03-21T07:30:16+00:00",
       "link": "https://www.eff.org/deeplinks/2026/03/blocking-internet-archive-wont-stop-ai-it-will-erase-webs-historical-record"
@@ -164,7 +178,7 @@ const FEED_DATA = {
     },
     {
       "title": "Pentagon to adopt Palantir AI as core US Military system",
-      "summary": "Article URL: https://www.reuters.com/technology/pentagon-adopt-palantir-ai-as-core-us-military-system-memo-says-2026-03-20/ Comments URL: https://news.ycombinator.com/item?id=47462491 Points: 59 # Comments: 5",
+      "summary": "Article URL: https://www.reuters.com/technology/pentagon-adopt-palantir-ai-as-core-us-military-system-memo-says-2026-03-20/ Comments URL: https://news.ycombinator.com/item?id=47462491 Points: 60 # Comments: 5",
       "source": "Hacker News",
       "published": "2026-03-20T23:58:29+00:00",
       "link": "https://www.reuters.com/technology/pentagon-adopt-palantir-ai-as-core-us-military-system-memo-says-2026-03-20/"
@@ -178,7 +192,7 @@ const FEED_DATA = {
     },
     {
       "title": "OpenCode – Open source AI coding agent",
-      "summary": "Article URL: https://opencode.ai/ Comments URL: https://news.ycombinator.com/item?id=47460525 Points: 1207 # Comments: 596",
+      "summary": "Article URL: https://opencode.ai/ Comments URL: https://news.ycombinator.com/item?id=47460525 Points: 1211 # Comments: 597",
       "source": "Hacker News",
       "published": "2026-03-20T21:03:52+00:00",
       "link": "https://opencode.ai/"
@@ -409,7 +423,7 @@ const FEED_DATA = {
     },
     {
       "title": "Be intentional about how AI changes your codebase",
-      "summary": "Article URL: https://aicode.swerdlow.dev Comments URL: https://news.ycombinator.com/item?id=47446373 Points: 168 # Comments: 103",
+      "summary": "Article URL: https://aicode.swerdlow.dev Comments URL: https://news.ycombinator.com/item?id=47446373 Points: 169 # Comments: 103",
       "source": "Hacker News",
       "published": "2026-03-19T21:23:24+00:00",
       "link": "https://aicode.swerdlow.dev"
@@ -1386,20 +1400,6 @@ const FEED_DATA = {
       "source": "Hacker News",
       "published": "2026-03-16T08:59:13+00:00",
       "link": "https://www.science.org/content/article/why-i-may-hire-ai-instead-graduate-student"
-    },
-    {
-      "title": "Tell HN: AI tools are making me lose interest in CS fundamentals",
-      "summary": "With powerful AI coding assistants, I sometimes feel less motivated to study deep computer science topics like distributed systems and algorithms.",
-      "source": "Hacker News",
-      "published": "2026-03-16T02:02:12+00:00",
-      "link": "https://news.ycombinator.com/item?id=47394291"
-    },
-    {
-      "title": "AI tools are making me lose interest in CS fundamentals",
-      "summary": "With powerful AI coding assistants, I sometimes feel less motivated to study deep computer science topics like distributed systems and algorithms.",
-      "source": "Hacker News",
-      "published": "2026-03-16T02:02:12+00:00",
-      "link": "https://news.ycombinator.com/item?id=47394291"
     }
   ]
 };
