@@ -1,6 +1,34 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-03-22T14:04:20.252900+00:00",
+  "lastUpdated": "2026-03-22T17:54:07.279054+00:00",
   "items": [
+    {
+      "title": "Crimson Desert dev apologizes for use of AI art",
+      "summary": "Reviews of Crimson Desert have been mixed, but the bigger issue for the game has been the discovery of what appeared to be AI-generated assets in the final release.",
+      "source": "The Verge",
+      "published": "2026-03-22T17:34:34+00:00",
+      "link": "https://www.theverge.com/games/898771/crimson-desert-dev-apologizes-ai-art"
+    },
+    {
+      "title": "Xiaomi launches three MiMo AI models to power agents, robots, and voice",
+      "summary": "The Chinese technology company Xiaomi wants to build AI agents that can independently control software, shop in the browser and, in the future, also control robots. The in-house MiMo team has presented three models at the same time.",
+      "source": "The Decoder",
+      "published": "2026-03-22T15:52:00+00:00",
+      "link": "https://the-decoder.com/xiaomi-launches-three-mimo-ai-models-to-power-agents-robots-and-voice/"
+    },
+    {
+      "title": "Musk says he’s building Terafab chip plant in Austin, Texas",
+      "summary": "Elon Musk announced plans to build a Terafab plant in Austin, Texas, that will be jointly run by Tesla and SpaceX. The goal is to eventually build chips at scale for robotics, artificial intelligence, and space-based data centers for Musk's various companies.",
+      "source": "The Verge",
+      "published": "2026-03-22T14:06:48+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/898722/musk-terafab-chip-plant"
+    },
+    {
+      "title": "Brute-forcing my algorithmic ignorance with an LLM in 7 days",
+      "summary": "Article URL: http://blog.dominikrudnik.pl/my-google-recruitment-journey-part-1 Comments URL: https://news.ycombinator.com/item?id=47476776 Points: 64 # Comments: 38",
+      "source": "Hacker News",
+      "published": "2026-03-22T12:23:04+00:00",
+      "link": "http://blog.dominikrudnik.pl/my-google-recruitment-journey-part-1"
+    },
     {
       "title": "An exclusive tour of Amazon’s Trainium lab, the chip that’s won over Anthropic, OpenAI, even Apple",
       "summary": "Shortly after Amazon announced its $50 billion investment in OpenAI, AWS invited me on a private tour of the chip lab at the heart of the deal.",
@@ -30,6 +58,13 @@ const FEED_DATA = {
       "link": "https://the-decoder.com/openai-publishes-a-prompting-playbook-that-helps-designers-get-better-frontend-results-from-gpt-5-4/"
     },
     {
+      "title": "Ask HN: AI productivity gains – do you fire devs or build better products?",
+      "summary": "i was rolling my eyes at the hype, but reading about this is totally different from experiencing it.",
+      "source": "Hacker News",
+      "published": "2026-03-22T09:37:30+00:00",
+      "link": "https://news.ycombinator.com/item?id=47475859"
+    },
+    {
       "title": "Terence Tao says AI drives idea generation cost to near zero but shifts the bottleneck to verification",
       "summary": "Terence Tao compares AI's impact on mathematics to the automobile's effect on cities: new technology needs new infrastructure, or it just clogs the old roads. His analysis applies far beyond math.",
       "source": "The Decoder",
@@ -52,7 +87,7 @@ const FEED_DATA = {
     },
     {
       "title": "The Impact of AI on Game Dev Jobs. Open to Work Crisis",
-      "summary": "Article URL: https://darkounity.com/blog-post?id=the-impact-of-ai-on-game-dev-jobs-open-to-work-crisis--1774128585922 Comments URL: https://news.ycombinator.com/item?id=47471943 Points: 82 # Comments: 63",
+      "summary": "Article URL: https://darkounity.com/blog-post?id=the-impact-of-ai-on-game-dev-jobs-open-to-work-crisis--1774128585922 Comments URL: https://news.ycombinator.com/item?id=47471943 Points: 84 # Comments: 64",
       "source": "Hacker News",
       "published": "2026-03-21T22:03:05+00:00",
       "link": "https://darkounity.com/blog-post?id=the-impact-of-ai-on-game-dev-jobs-open-to-work-crisis--1774128585922"
@@ -94,14 +129,14 @@ const FEED_DATA = {
     },
     {
       "title": "Thinking Fast, Slow, and Artificial: How AI Is Reshaping Human Reasoning",
-      "summary": "Article URL: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6097646 Comments URL: https://news.ycombinator.com/item?id=47467913 Points: 174 # Comments: 100",
+      "summary": "Article URL: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6097646 Comments URL: https://news.ycombinator.com/item?id=47467913 Points: 188 # Comments: 105",
       "source": "Hacker News",
       "published": "2026-03-21T15:30:29+00:00",
       "link": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6097646"
     },
     {
       "title": "Senior European journalist suspended over AI-generated quotes",
-      "summary": "Article URL: https://www.theguardian.com/technology/2026/mar/20/mediahuis-suspends-senior-journalist-over-ai-generated-quotes Comments URL: https://news.ycombinator.com/item?id=47467566 Points: 89 # Comments: 76",
+      "summary": "Article URL: https://www.theguardian.com/technology/2026/mar/20/mediahuis-suspends-senior-journalist-over-ai-generated-quotes Comments URL: https://news.ycombinator.com/item?id=47467566 Points: 90 # Comments: 78",
       "source": "Hacker News",
       "published": "2026-03-21T14:50:13+00:00",
       "link": "https://www.theguardian.com/technology/2026/mar/20/mediahuis-suspends-senior-journalist-over-ai-generated-quotes"
@@ -150,7 +185,7 @@ const FEED_DATA = {
     },
     {
       "title": "Atuin v18.13 – better search, a PTY proxy, and AI for your shell",
-      "summary": "Article URL: https://blog.atuin.sh/atuin-v18-13/ Comments URL: https://news.ycombinator.com/item?id=47465824 Points: 90 # Comments: 75",
+      "summary": "Article URL: https://blog.atuin.sh/atuin-v18-13/ Comments URL: https://news.ycombinator.com/item?id=47465824 Points: 92 # Comments: 76",
       "source": "Hacker News",
       "published": "2026-03-21T10:35:20+00:00",
       "link": "https://blog.atuin.sh/atuin-v18-13/"
@@ -185,7 +220,7 @@ const FEED_DATA = {
     },
     {
       "title": "Blocking Internet Archive Won't Stop AI, but Will Erase Web's Historical Record",
-      "summary": "Article URL: https://www.eff.org/deeplinks/2026/03/blocking-internet-archive-wont-stop-ai-it-will-erase-webs-historical-record Comments URL: https://news.ycombinator.com/item?id=47464818 Points: 535 # Comments: 150",
+      "summary": "Article URL: https://www.eff.org/deeplinks/2026/03/blocking-internet-archive-wont-stop-ai-it-will-erase-webs-historical-record Comments URL: https://news.ycombinator.com/item?id=47464818 Points: 540 # Comments: 150",
       "source": "Hacker News",
       "published": "2026-03-21T07:30:16+00:00",
       "link": "https://www.eff.org/deeplinks/2026/03/blocking-internet-archive-wont-stop-ai-it-will-erase-webs-historical-record"
@@ -206,7 +241,7 @@ const FEED_DATA = {
     },
     {
       "title": "Pentagon to adopt Palantir AI as core US Military system",
-      "summary": "Article URL: https://www.reuters.com/technology/pentagon-adopt-palantir-ai-as-core-us-military-system-memo-says-2026-03-20/ Comments URL: https://news.ycombinator.com/item?id=47462491 Points: 61 # Comments: 7",
+      "summary": "Article URL: https://www.reuters.com/technology/pentagon-adopt-palantir-ai-as-core-us-military-system-memo-says-2026-03-20/ Comments URL: https://news.ycombinator.com/item?id=47462491 Points: 63 # Comments: 7",
       "source": "Hacker News",
       "published": "2026-03-20T23:58:29+00:00",
       "link": "https://www.reuters.com/technology/pentagon-adopt-palantir-ai-as-core-us-military-system-memo-says-2026-03-20/"
@@ -220,7 +255,7 @@ const FEED_DATA = {
     },
     {
       "title": "OpenCode – Open source AI coding agent",
-      "summary": "Article URL: https://opencode.ai/ Comments URL: https://news.ycombinator.com/item?id=47460525 Points: 1225 # Comments: 602",
+      "summary": "Article URL: https://opencode.ai/ Comments URL: https://news.ycombinator.com/item?id=47460525 Points: 1231 # Comments: 607",
       "source": "Hacker News",
       "published": "2026-03-20T21:03:52+00:00",
       "link": "https://opencode.ai/"
@@ -297,7 +332,7 @@ const FEED_DATA = {
     },
     {
       "title": "MacBook M5 Pro and Qwen3.5 = Local AI Security System",
-      "summary": "Article URL: https://www.sharpai.org/benchmark/ Comments URL: https://news.ycombinator.com/item?id=47457107 Points: 169 # Comments: 149",
+      "summary": "Article URL: https://www.sharpai.org/benchmark/ Comments URL: https://news.ycombinator.com/item?id=47457107 Points: 170 # Comments: 149",
       "source": "Hacker News",
       "published": "2026-03-20T16:41:42+00:00",
       "link": "https://www.sharpai.org/benchmark/"
@@ -485,18 +520,18 @@ const FEED_DATA = {
       "link": "https://techcrunch.com/2026/03/19/online-bot-traffic-will-exceed-human-traffic-by-2027-cloudflare-ceo-says/"
     },
     {
+      "title": "A rogue AI led to a serious security incident at Meta",
+      "summary": "Article URL: https://www.theverge.com/ai-artificial-intelligence/897528/meta-rogue-ai-agent-security-incident Comments URL: https://news.ycombinator.com/item?id=47444195 Points: 169 # Comments: 141",
+      "source": "Hacker News",
+      "published": "2026-03-19T18:59:02+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/897528/meta-rogue-ai-agent-security-incident"
+    },
+    {
       "title": "Google AI Studio now lets you vibe code real-time multiplayer games",
       "summary": "Google AI Studio can now build full apps from voice commands, complete with databases, payments, and user logins. The article Google AI Studio now lets you vibe code real-time multiplayer games appeared first on The Decoder.",
       "source": "The Decoder",
       "published": "2026-03-19T18:43:44+00:00",
       "link": "https://the-decoder.com/google-ai-studio-now-lets-you-vibe-code-real-time-multiplayer-games/"
-    },
-    {
-      "title": "A rogue AI led to a serious security incident at Meta",
-      "summary": "For almost two hours last week, Meta employees had unauthorized access to company and user data thanks to an AI agent that gave an employee inaccurate technical advice, as previously reported by The Information.",
-      "source": "The Verge",
-      "published": "2026-03-19T18:20:05+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/897528/meta-rogue-ai-agent-security-incident"
     },
     {
       "title": "Google Shakes Up Its Browser Agent Team Amid OpenClaw Craze",
@@ -577,7 +612,7 @@ const FEED_DATA = {
     },
     {
       "title": "Ramtrack.eu – RAM Price Intelligence",
-      "summary": "Article URL: https://ramtrack.eu Comments URL: https://news.ycombinator.com/item?id=47438342 Points: 99 # Comments: 36",
+      "summary": "Article URL: https://ramtrack.eu Comments URL: https://news.ycombinator.com/item?id=47438342 Points: 101 # Comments: 36",
       "source": "Hacker News",
       "published": "2026-03-19T12:39:46+00:00",
       "link": "https://ramtrack.eu"
@@ -612,7 +647,7 @@ const FEED_DATA = {
     },
     {
       "title": "2% of ICML papers desk rejected because the authors used LLM in their reviews",
-      "summary": "Article URL: https://blog.icml.cc/2026/03/18/on-violations-of-llm-review-policies/ Comments URL: https://news.ycombinator.com/item?id=47437101 Points: 198 # Comments: 152",
+      "summary": "Article URL: https://blog.icml.cc/2026/03/18/on-violations-of-llm-review-policies/ Comments URL: https://news.ycombinator.com/item?id=47437101 Points: 198 # Comments: 157",
       "source": "Hacker News",
       "published": "2026-03-19T10:17:46+00:00",
       "link": "https://blog.icml.cc/2026/03/18/on-violations-of-llm-review-policies/"
@@ -639,13 +674,6 @@ const FEED_DATA = {
       "link": "https://www.wired.com/story/how-ai-chatbots-drove-families-to-the-brink-and-the-lawyer-fighting-back/"
     },
     {
-      "title": "Multiverse Computing pushes its compressed AI models into the mainstream",
-      "summary": "After compressing models from major AI labs, including OpenAI, Meta, DeepSeek, and Mistral AI, Multiverse Computing has launched both an app that showcases the capabilities of its compressed models and an API that makes them more widely available.",
-      "source": "TechCrunch",
-      "published": "2026-03-19T08:00:00+00:00",
-      "link": "https://techcrunch.com/2026/03/19/multiverse-computing-pushes-its-compressed-ai-models-into-the-mainstream/"
-    },
-    {
       "title": "NVIDIA wants enterprise AI agents safer to deploy",
       "summary": "The NVIDIA Agent Toolkit is Jensen Huang’s answer to the question enterprises keep asking: how do we put AI agents to work without losing control of our data and our liability?",
       "source": "AI News",
@@ -653,8 +681,15 @@ const FEED_DATA = {
       "link": "https://www.artificialintelligence-news.com/news/nvidia-agent-toolkit-enterprise-ai-agents/"
     },
     {
+      "title": "Multiverse Computing pushes its compressed AI models into the mainstream",
+      "summary": "After compressing models from major AI labs, including OpenAI, Meta, DeepSeek, and Mistral AI, Multiverse Computing has launched both an app that showcases the capabilities of its compressed models and an API that makes them more widely available.",
+      "source": "TechCrunch",
+      "published": "2026-03-19T08:00:00+00:00",
+      "link": "https://techcrunch.com/2026/03/19/multiverse-computing-pushes-its-compressed-ai-models-into-the-mainstream/"
+    },
+    {
       "title": "What 81,000 people want from AI",
-      "summary": "Article URL: https://www.anthropic.com/features/81k-interviews Comments URL: https://news.ycombinator.com/item?id=47435156 Points: 198 # Comments: 188",
+      "summary": "Article URL: https://www.anthropic.com/features/81k-interviews Comments URL: https://news.ycombinator.com/item?id=47435156 Points: 199 # Comments: 188",
       "source": "Hacker News",
       "published": "2026-03-19T05:00:56+00:00",
       "link": "https://www.anthropic.com/features/81k-interviews"
@@ -1365,41 +1400,6 @@ const FEED_DATA = {
       "source": "AI News",
       "published": "2026-03-16T12:00:00+00:00",
       "link": "https://www.artificialintelligence-news.com/news/ntt-data-nvidia-enterprise-ai-factories-production/"
-    },
-    {
-      "title": "OpenAI’s adult mode will reportedly be smutty, not pornographic",
-      "summary": "OpenAI's delayed \"adult mode\" for ChatGPT is expected to support saucy text conversations at launch, but not the chatbot's ability to generate images, voice, or video.",
-      "source": "The Verge",
-      "published": "2026-03-16T11:18:20+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/895130/openai-chatgpt-adult-mode-text-smut-written-erotica"
-    },
-    {
-      "title": "AI-generated war footage is going viral while real satellite imagery disappears from public view",
-      "summary": "The New York Times identified more than 110 AI-generated fake videos and images about the Middle East war in just two weeks.",
-      "source": "The Decoder",
-      "published": "2026-03-16T11:11:34+00:00",
-      "link": "https://the-decoder.com/ai-generated-war-footage-is-going-viral-while-real-satellite-imagery-disappears-from-public-view/"
-    },
-    {
-      "title": "Hua Hong becomes the second Chinese chipmaker to crack 7nm manufacturing as Beijing pushes for AI independence",
-      "summary": "China's second-largest chip manufacturer, Hua Hong Group, is preparing 7-nanometer chip production in Shanghai, with support from Huawei.",
-      "source": "The Decoder",
-      "published": "2026-03-16T11:04:36+00:00",
-      "link": "https://the-decoder.com/hua-hong-becomes-the-second-chinese-chipmaker-to-crack-7nm-manufacturing-as-beijing-pushes-for-ai-independence/"
-    },
-    {
-      "title": "Securing digital assets against future threats",
-      "summary": "Securing digital assets against future threats",
-      "source": "MIT Tech Review",
-      "published": "2026-03-16T11:00:00+00:00",
-      "link": "https://www.technologyreview.com/2026/03/16/1134287/securing-digital-assets-against-future-threats/"
-    },
-    {
-      "title": "Toward automated verification of unreviewed AI-generated code",
-      "summary": "Article URL: https://peterlavigne.com/writing/verifying-ai-generated-code Comments URL: https://news.ycombinator.com/item?id=47397367 Points: 92 # Comments: 85",
-      "source": "Hacker News",
-      "published": "2026-03-16T10:52:33+00:00",
-      "link": "https://peterlavigne.com/writing/verifying-ai-generated-code"
     }
   ]
 };
