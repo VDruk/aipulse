@@ -1,6 +1,20 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-03-21T21:48:54.366995+00:00",
+  "lastUpdated": "2026-03-22T05:34:47.333626+00:00",
   "items": [
+    {
+      "title": "The Impact of AI on Game Dev Jobs. Open to Work Crisis",
+      "summary": "Article URL: https://darkounity.com/blog-post?id=the-impact-of-ai-on-game-dev-jobs-open-to-work-crisis--1774128585922 Comments URL: https://news.ycombinator.com/item?id=47471943 Points: 69 # Comments: 50",
+      "source": "Hacker News",
+      "published": "2026-03-21T22:03:05+00:00",
+      "link": "https://darkounity.com/blog-post?id=the-impact-of-ai-on-game-dev-jobs-open-to-work-crisis--1774128585922"
+    },
+    {
+      "title": "Tinybox – Offline AI device 120B parameters",
+      "summary": "Article URL: https://tinygrad.org/#tinybox Comments URL: https://news.ycombinator.com/item?id=47470773 Points: 399 # Comments: 247",
+      "source": "Hacker News",
+      "published": "2026-03-21T20:08:37+00:00",
+      "link": "https://tinygrad.org/#tinybox"
+    },
     {
       "title": "Tinybox- offline AI device 120B parameters",
       "summary": "Article URL: https://tinygrad.org/#tinybox Comments URL: https://news.ycombinator.com/item?id=47470773 Points: 141 # Comments: 83",
@@ -31,14 +45,14 @@ const FEED_DATA = {
     },
     {
       "title": "Thinking Fast, Slow, and Artificial: How AI Is Reshaping Human Reasoning",
-      "summary": "Article URL: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6097646 Comments URL: https://news.ycombinator.com/item?id=47467913 Points: 63 # Comments: 38",
+      "summary": "Article URL: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6097646 Comments URL: https://news.ycombinator.com/item?id=47467913 Points: 113 # Comments: 62",
       "source": "Hacker News",
       "published": "2026-03-21T15:30:29+00:00",
       "link": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6097646"
     },
     {
       "title": "Senior European journalist suspended over AI-generated quotes",
-      "summary": "Article URL: https://www.theguardian.com/technology/2026/mar/20/mediahuis-suspends-senior-journalist-over-ai-generated-quotes Comments URL: https://news.ycombinator.com/item?id=47467566 Points: 80 # Comments: 62",
+      "summary": "Article URL: https://www.theguardian.com/technology/2026/mar/20/mediahuis-suspends-senior-journalist-over-ai-generated-quotes Comments URL: https://news.ycombinator.com/item?id=47467566 Points: 84 # Comments: 74",
       "source": "Hacker News",
       "published": "2026-03-21T14:50:13+00:00",
       "link": "https://www.theguardian.com/technology/2026/mar/20/mediahuis-suspends-senior-journalist-over-ai-generated-quotes"
@@ -87,7 +101,7 @@ const FEED_DATA = {
     },
     {
       "title": "Atuin v18.13 – better search, a PTY proxy, and AI for your shell",
-      "summary": "Article URL: https://blog.atuin.sh/atuin-v18-13/ Comments URL: https://news.ycombinator.com/item?id=47465824 Points: 79 # Comments: 72",
+      "summary": "Article URL: https://blog.atuin.sh/atuin-v18-13/ Comments URL: https://news.ycombinator.com/item?id=47465824 Points: 88 # Comments: 73",
       "source": "Hacker News",
       "published": "2026-03-21T10:35:20+00:00",
       "link": "https://blog.atuin.sh/atuin-v18-13/"
@@ -115,14 +129,14 @@ const FEED_DATA = {
     },
     {
       "title": "Man pleads guilty to $8M AI-generated music scheme",
-      "summary": "Article URL: https://therecord.media/man-pleads-guilty-8-million-ai-music-scheme Comments URL: https://news.ycombinator.com/item?id=47464859 Points: 53 # Comments: 62",
+      "summary": "Article URL: https://therecord.media/man-pleads-guilty-8-million-ai-music-scheme Comments URL: https://news.ycombinator.com/item?id=47464859 Points: 53 # Comments: 64",
       "source": "Hacker News",
       "published": "2026-03-21T07:36:07+00:00",
       "link": "https://therecord.media/man-pleads-guilty-8-million-ai-music-scheme"
     },
     {
       "title": "Blocking Internet Archive Won't Stop AI, but Will Erase Web's Historical Record",
-      "summary": "Article URL: https://www.eff.org/deeplinks/2026/03/blocking-internet-archive-wont-stop-ai-it-will-erase-webs-historical-record Comments URL: https://news.ycombinator.com/item?id=47464818 Points: 455 # Comments: 128",
+      "summary": "Article URL: https://www.eff.org/deeplinks/2026/03/blocking-internet-archive-wont-stop-ai-it-will-erase-webs-historical-record Comments URL: https://news.ycombinator.com/item?id=47464818 Points: 507 # Comments: 140",
       "source": "Hacker News",
       "published": "2026-03-21T07:30:16+00:00",
       "link": "https://www.eff.org/deeplinks/2026/03/blocking-internet-archive-wont-stop-ai-it-will-erase-webs-historical-record"
@@ -157,7 +171,7 @@ const FEED_DATA = {
     },
     {
       "title": "OpenCode – Open source AI coding agent",
-      "summary": "Article URL: https://opencode.ai/ Comments URL: https://news.ycombinator.com/item?id=47460525 Points: 1173 # Comments: 575",
+      "summary": "Article URL: https://opencode.ai/ Comments URL: https://news.ycombinator.com/item?id=47460525 Points: 1203 # Comments: 593",
       "source": "Hacker News",
       "published": "2026-03-20T21:03:52+00:00",
       "link": "https://opencode.ai/"
@@ -234,7 +248,7 @@ const FEED_DATA = {
     },
     {
       "title": "MacBook M5 Pro and Qwen3.5 = Local AI Security System",
-      "summary": "Article URL: https://www.sharpai.org/benchmark/ Comments URL: https://news.ycombinator.com/item?id=47457107 Points: 167 # Comments: 150",
+      "summary": "Article URL: https://www.sharpai.org/benchmark/ Comments URL: https://news.ycombinator.com/item?id=47457107 Points: 168 # Comments: 150",
       "source": "Hacker News",
       "published": "2026-03-20T16:41:42+00:00",
       "link": "https://www.sharpai.org/benchmark/"
@@ -325,7 +339,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI (2014)",
-      "summary": "Article URL: https://blog.samaltman.com/ai Comments URL: https://news.ycombinator.com/item?id=47453010 Points: 80 # Comments: 70",
+      "summary": "Article URL: https://blog.samaltman.com/ai Comments URL: https://news.ycombinator.com/item?id=47453010 Points: 80 # Comments: 71",
       "source": "Hacker News",
       "published": "2026-03-20T11:10:17+00:00",
       "link": "https://blog.samaltman.com/ai"
@@ -388,7 +402,7 @@ const FEED_DATA = {
     },
     {
       "title": "Be intentional about how AI changes your codebase",
-      "summary": "Article URL: https://aicode.swerdlow.dev Comments URL: https://news.ycombinator.com/item?id=47446373 Points: 167 # Comments: 101",
+      "summary": "Article URL: https://aicode.swerdlow.dev Comments URL: https://news.ycombinator.com/item?id=47446373 Points: 168 # Comments: 103",
       "source": "Hacker News",
       "published": "2026-03-19T21:23:24+00:00",
       "link": "https://aicode.swerdlow.dev"
@@ -402,7 +416,7 @@ const FEED_DATA = {
     },
     {
       "title": "No AI in Node.js Core",
-      "summary": "Article URL: https://github.com/indutny/no-ai-in-nodejs-core Comments URL: https://news.ycombinator.com/item?id=47444714 Points: 61 # Comments: 35",
+      "summary": "Article URL: https://github.com/indutny/no-ai-in-nodejs-core Comments URL: https://news.ycombinator.com/item?id=47444714 Points: 61 # Comments: 36",
       "source": "Hacker News",
       "published": "2026-03-19T19:35:37+00:00",
       "link": "https://github.com/indutny/no-ai-in-nodejs-core"
@@ -549,7 +563,7 @@ const FEED_DATA = {
     },
     {
       "title": "2% of ICML papers desk rejected because the authors used LLM in their reviews",
-      "summary": "Article URL: https://blog.icml.cc/2026/03/18/on-violations-of-llm-review-policies/ Comments URL: https://news.ycombinator.com/item?id=47437101 Points: 198 # Comments: 158",
+      "summary": "Article URL: https://blog.icml.cc/2026/03/18/on-violations-of-llm-review-policies/ Comments URL: https://news.ycombinator.com/item?id=47437101 Points: 198 # Comments: 157",
       "source": "Hacker News",
       "published": "2026-03-19T10:17:46+00:00",
       "link": "https://blog.icml.cc/2026/03/18/on-violations-of-llm-review-policies/"
@@ -1386,20 +1400,6 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-03-16T00:30:00+00:00",
       "link": "https://techcrunch.com/2026/03/15/google-and-accel-cut-through-wrappers-in-4000-ai-startup-pitches-to-pick-five-tied-to-india/"
-    },
-    {
-      "title": "Lawyer behind AI psychosis cases warns of mass casualty risks",
-      "summary": "AI chatbots have been linked to suicides for years. Now one lawyer says they are showing up in mass casualty cases too, and the technology is moving faster than the safeguards.",
-      "source": "TechCrunch",
-      "published": "2026-03-15T18:49:32+00:00",
-      "link": "https://techcrunch.com/2026/03/15/lawyer-behind-ai-psychosis-cases-warns-of-mass-casualty-risks/"
-    },
-    {
-      "title": "AI consultant uses ChatGPT, AlphaFold, and Grok to find a possible treatment for his dog's cancer",
-      "summary": "An Australian AI consultant used ChatGPT, AlphaFold, and Grok to find a possible treatment for his dog Rosie's incurable cancer.",
-      "source": "The Decoder",
-      "published": "2026-03-15T16:29:53+00:00",
-      "link": "https://the-decoder.com/ai-consultant-uses-chatgpt-alphafold-and-grok-to-find-a-possible-treatment-for-his-dogs-cancer/"
     }
   ]
 };
