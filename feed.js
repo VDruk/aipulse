@@ -1,6 +1,34 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-03-22T09:57:44.269209+00:00",
+  "lastUpdated": "2026-03-22T14:04:20.252900+00:00",
   "items": [
+    {
+      "title": "An exclusive tour of Amazon’s Trainium lab, the chip that’s won over Anthropic, OpenAI, even Apple",
+      "summary": "Shortly after Amazon announced its $50 billion investment in OpenAI, AWS invited me on a private tour of the chip lab at the heart of the deal.",
+      "source": "TechCrunch",
+      "published": "2026-03-22T12:00:00+00:00",
+      "link": "https://techcrunch.com/2026/03/22/an-exclusive-tour-of-amazons-trainium-lab-the-chip-thats-won-over-anthropic-openai-even-apple/"
+    },
+    {
+      "title": "AI was everywhere at gaming’s big developer conference — except the games",
+      "summary": "AI was everywhere at the GDC Festival of Gaming this year. Vendors at the event pitched generative AI tools for things like making AI-driven NPCs and even entire games from a chat box.",
+      "source": "The Verge",
+      "published": "2026-03-22T12:00:00+00:00",
+      "link": "https://www.theverge.com/games/897982/gdc-2026-ai-game-developer-conference"
+    },
+    {
+      "title": "Andrej Karpathy says humans are now the bottleneck in AI research with easy-to-measure results",
+      "summary": "AI developer Andrej Karpathy let an autonomous agent optimize his training setup overnight, and it found improvements he'd missed despite two decades of experience.",
+      "source": "The Decoder",
+      "published": "2026-03-22T11:44:24+00:00",
+      "link": "https://the-decoder.com/andrej-karpathy-says-humans-are-now-the-bottleneck-in-ai-research-with-easy-to-measure-results/"
+    },
+    {
+      "title": "OpenAI publishes a prompting playbook that helps designers get better frontend results from GPT-5.4",
+      "summary": "In a new guide, OpenAI explains how front-end designers can get better results from GPT-5.4 when building websites and apps and how to stop the model from falling back on generic designs.",
+      "source": "The Decoder",
+      "published": "2026-03-22T10:51:07+00:00",
+      "link": "https://the-decoder.com/openai-publishes-a-prompting-playbook-that-helps-designers-get-better-frontend-results-from-gpt-5-4/"
+    },
     {
       "title": "Terence Tao says AI drives idea generation cost to near zero but shifts the bottleneck to verification",
       "summary": "Terence Tao compares AI's impact on mathematics to the automobile's effect on cities: new technology needs new infrastructure, or it just clogs the old roads. His analysis applies far beyond math.",
@@ -24,7 +52,7 @@ const FEED_DATA = {
     },
     {
       "title": "The Impact of AI on Game Dev Jobs. Open to Work Crisis",
-      "summary": "Article URL: https://darkounity.com/blog-post?id=the-impact-of-ai-on-game-dev-jobs-open-to-work-crisis--1774128585922 Comments URL: https://news.ycombinator.com/item?id=47471943 Points: 75 # Comments: 60",
+      "summary": "Article URL: https://darkounity.com/blog-post?id=the-impact-of-ai-on-game-dev-jobs-open-to-work-crisis--1774128585922 Comments URL: https://news.ycombinator.com/item?id=47471943 Points: 82 # Comments: 63",
       "source": "Hacker News",
       "published": "2026-03-21T22:03:05+00:00",
       "link": "https://darkounity.com/blog-post?id=the-impact-of-ai-on-game-dev-jobs-open-to-work-crisis--1774128585922"
@@ -66,14 +94,14 @@ const FEED_DATA = {
     },
     {
       "title": "Thinking Fast, Slow, and Artificial: How AI Is Reshaping Human Reasoning",
-      "summary": "Article URL: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6097646 Comments URL: https://news.ycombinator.com/item?id=47467913 Points: 146 # Comments: 81",
+      "summary": "Article URL: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6097646 Comments URL: https://news.ycombinator.com/item?id=47467913 Points: 174 # Comments: 100",
       "source": "Hacker News",
       "published": "2026-03-21T15:30:29+00:00",
       "link": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6097646"
     },
     {
       "title": "Senior European journalist suspended over AI-generated quotes",
-      "summary": "Article URL: https://www.theguardian.com/technology/2026/mar/20/mediahuis-suspends-senior-journalist-over-ai-generated-quotes Comments URL: https://news.ycombinator.com/item?id=47467566 Points: 88 # Comments: 75",
+      "summary": "Article URL: https://www.theguardian.com/technology/2026/mar/20/mediahuis-suspends-senior-journalist-over-ai-generated-quotes Comments URL: https://news.ycombinator.com/item?id=47467566 Points: 89 # Comments: 76",
       "source": "Hacker News",
       "published": "2026-03-21T14:50:13+00:00",
       "link": "https://www.theguardian.com/technology/2026/mar/20/mediahuis-suspends-senior-journalist-over-ai-generated-quotes"
@@ -122,7 +150,7 @@ const FEED_DATA = {
     },
     {
       "title": "Atuin v18.13 – better search, a PTY proxy, and AI for your shell",
-      "summary": "Article URL: https://blog.atuin.sh/atuin-v18-13/ Comments URL: https://news.ycombinator.com/item?id=47465824 Points: 90 # Comments: 74",
+      "summary": "Article URL: https://blog.atuin.sh/atuin-v18-13/ Comments URL: https://news.ycombinator.com/item?id=47465824 Points: 90 # Comments: 75",
       "source": "Hacker News",
       "published": "2026-03-21T10:35:20+00:00",
       "link": "https://blog.atuin.sh/atuin-v18-13/"
@@ -150,14 +178,14 @@ const FEED_DATA = {
     },
     {
       "title": "Man pleads guilty to $8M AI-generated music scheme",
-      "summary": "Article URL: https://therecord.media/man-pleads-guilty-8-million-ai-music-scheme Comments URL: https://news.ycombinator.com/item?id=47464859 Points: 53 # Comments: 66",
+      "summary": "Article URL: https://therecord.media/man-pleads-guilty-8-million-ai-music-scheme Comments URL: https://news.ycombinator.com/item?id=47464859 Points: 53 # Comments: 67",
       "source": "Hacker News",
       "published": "2026-03-21T07:36:07+00:00",
       "link": "https://therecord.media/man-pleads-guilty-8-million-ai-music-scheme"
     },
     {
       "title": "Blocking Internet Archive Won't Stop AI, but Will Erase Web's Historical Record",
-      "summary": "Article URL: https://www.eff.org/deeplinks/2026/03/blocking-internet-archive-wont-stop-ai-it-will-erase-webs-historical-record Comments URL: https://news.ycombinator.com/item?id=47464818 Points: 525 # Comments: 145",
+      "summary": "Article URL: https://www.eff.org/deeplinks/2026/03/blocking-internet-archive-wont-stop-ai-it-will-erase-webs-historical-record Comments URL: https://news.ycombinator.com/item?id=47464818 Points: 535 # Comments: 150",
       "source": "Hacker News",
       "published": "2026-03-21T07:30:16+00:00",
       "link": "https://www.eff.org/deeplinks/2026/03/blocking-internet-archive-wont-stop-ai-it-will-erase-webs-historical-record"
@@ -178,7 +206,7 @@ const FEED_DATA = {
     },
     {
       "title": "Pentagon to adopt Palantir AI as core US Military system",
-      "summary": "Article URL: https://www.reuters.com/technology/pentagon-adopt-palantir-ai-as-core-us-military-system-memo-says-2026-03-20/ Comments URL: https://news.ycombinator.com/item?id=47462491 Points: 60 # Comments: 5",
+      "summary": "Article URL: https://www.reuters.com/technology/pentagon-adopt-palantir-ai-as-core-us-military-system-memo-says-2026-03-20/ Comments URL: https://news.ycombinator.com/item?id=47462491 Points: 61 # Comments: 7",
       "source": "Hacker News",
       "published": "2026-03-20T23:58:29+00:00",
       "link": "https://www.reuters.com/technology/pentagon-adopt-palantir-ai-as-core-us-military-system-memo-says-2026-03-20/"
@@ -192,7 +220,7 @@ const FEED_DATA = {
     },
     {
       "title": "OpenCode – Open source AI coding agent",
-      "summary": "Article URL: https://opencode.ai/ Comments URL: https://news.ycombinator.com/item?id=47460525 Points: 1211 # Comments: 597",
+      "summary": "Article URL: https://opencode.ai/ Comments URL: https://news.ycombinator.com/item?id=47460525 Points: 1225 # Comments: 602",
       "source": "Hacker News",
       "published": "2026-03-20T21:03:52+00:00",
       "link": "https://opencode.ai/"
@@ -269,7 +297,7 @@ const FEED_DATA = {
     },
     {
       "title": "MacBook M5 Pro and Qwen3.5 = Local AI Security System",
-      "summary": "Article URL: https://www.sharpai.org/benchmark/ Comments URL: https://news.ycombinator.com/item?id=47457107 Points: 168 # Comments: 149",
+      "summary": "Article URL: https://www.sharpai.org/benchmark/ Comments URL: https://news.ycombinator.com/item?id=47457107 Points: 169 # Comments: 149",
       "source": "Hacker News",
       "published": "2026-03-20T16:41:42+00:00",
       "link": "https://www.sharpai.org/benchmark/"
@@ -549,7 +577,7 @@ const FEED_DATA = {
     },
     {
       "title": "Ramtrack.eu – RAM Price Intelligence",
-      "summary": "Article URL: https://ramtrack.eu Comments URL: https://news.ycombinator.com/item?id=47438342 Points: 99 # Comments: 35",
+      "summary": "Article URL: https://ramtrack.eu Comments URL: https://news.ycombinator.com/item?id=47438342 Points: 99 # Comments: 36",
       "source": "Hacker News",
       "published": "2026-03-19T12:39:46+00:00",
       "link": "https://ramtrack.eu"
@@ -1372,34 +1400,6 @@ const FEED_DATA = {
       "source": "Hacker News",
       "published": "2026-03-16T10:52:33+00:00",
       "link": "https://peterlavigne.com/writing/verifying-ai-generated-code"
-    },
-    {
-      "title": "OpenAI’s Frontier puts AI agents in a fight SaaS can’t afford to lose",
-      "summary": "When OpenAI launched Frontier in February, the announcement was described as a platform for enterprise AI agents. What it actually signalled was a challenge to the revenue architecture underpinning the software industry.",
-      "source": "AI News",
-      "published": "2026-03-16T10:00:00+00:00",
-      "link": "https://www.artificialintelligence-news.com/news/openai-frontier-enterprise-ai-agents-saas/"
-    },
-    {
-      "title": "Models Are Applying to Be the Face of AI Scams",
-      "summary": "Dozens of Telegram channels reviewed by WIRED include job listings for “AI face models.” The (mostly) women who land these gigs are likely being used to dupe victims out of their money.",
-      "source": "Wired",
-      "published": "2026-03-16T09:00:00+00:00",
-      "link": "https://www.wired.com/story/models-are-applying-to-be-the-face-of-ai-scams/"
-    },
-    {
-      "title": "‘100 Video Calls Per Day’: Models Are Applying to Be the Face of AI Scams",
-      "summary": "Dozens of Telegram channels reviewed by WIRED include job listings for “AI face models.” The (mostly) women who land these gigs are likely being used to dupe victims out of their money.",
-      "source": "Wired",
-      "published": "2026-03-16T09:00:00+00:00",
-      "link": "https://www.wired.com/story/models-are-applying-to-be-the-face-of-ai-scams/"
-    },
-    {
-      "title": "Why I may ‘hire’ AI instead of a graduate student",
-      "summary": "Article URL: https://www.science.org/content/article/why-i-may-hire-ai-instead-graduate-student Comments URL: https://news.ycombinator.com/item?id=47396557 Points: 110 # Comments: 109",
-      "source": "Hacker News",
-      "published": "2026-03-16T08:59:13+00:00",
-      "link": "https://www.science.org/content/article/why-i-may-hire-ai-instead-graduate-student"
     }
   ]
 };
