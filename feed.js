@@ -1,12 +1,68 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-03-23T16:13:36.006549+00:00",
+  "lastUpdated": "2026-03-23T19:38:13.139026+00:00",
   "items": [
+    {
+      "title": "Meta acqui-hires Dreamer's entire team to bolster its lagging AI agent ambitions",
+      "summary": "The AI startup Dreamer is joining Meta Superintelligence Labs with its entire team, bringing co-founder Hugo Barra—a former Meta VP—back into Mark Zuckerberg's orbit.",
+      "source": "The Decoder",
+      "published": "2026-03-23T19:28:25+00:00",
+      "link": "https://the-decoder.com/meta-acqui-hires-dreamers-entire-team-to-bolster-its-lagging-ai-agent-ambitions/"
+    },
+    {
+      "title": "Luma AI's Uni-1 could be the first real challenger to Google's Nano Banana image dominance",
+      "summary": "Luma AI takes on OpenAI and Google with Uni-1, a model that combines image understanding and generation in a single architecture and reasons through prompts as it creates.",
+      "source": "The Decoder",
+      "published": "2026-03-23T18:53:52+00:00",
+      "link": "https://the-decoder.com/luma-ais-uni-1-could-be-the-first-real-challenger-to-googles-nano-banana-image-dominance/"
+    },
+    {
+      "title": "Vibe-coding startup Lovable is on the hunt for acquisitions",
+      "summary": "Lovable's founder said the fast-growing vibe-coding startup is looking for startups and teams to join its company.",
+      "source": "TechCrunch",
+      "published": "2026-03-23T18:22:04+00:00",
+      "link": "https://techcrunch.com/2026/03/23/vibe-coding-startup-lovable-is-on-the-hunt-for-acquisitions/"
+    },
+    {
+      "title": "OpenAI lures private equity firms with guaranteed returns in race against Anthropic",
+      "summary": "OpenAI is sweetening the deal for private equity firms with a guaranteed 17.5 percent minimum return to win them over for enterprise joint ventures. The article OpenAI lures private equity firms with guaranteed returns in race against Anthropic appeared first on The Decoder.",
+      "source": "The Decoder",
+      "published": "2026-03-23T18:08:43+00:00",
+      "link": "https://the-decoder.com/openai-lures-private-equity-firms-with-guaranteed-returns-in-race-against-anthropic/"
+    },
+    {
+      "title": "Apple sets June date for WWDC 2026, teasing ‘AI advancements’",
+      "summary": "Apple will host its next Worldwide Developers Conference the week of June 8. The company is expected to announce major updates to Siri with advanced AI capabilities.",
+      "source": "TechCrunch",
+      "published": "2026-03-23T18:00:45+00:00",
+      "link": "https://techcrunch.com/2026/03/23/apple-wwdc-june-8-12-ai-advancements-siri-developers-conference/"
+    },
+    {
+      "title": "Meta boss Zuckerberg reportedly builds personal AI agent and plans flatter hierarchies",
+      "summary": "Mark Zuckerberg is building a personal AI agent to help him run Meta. The company is reportedly planning massive job cuts.",
+      "source": "The Decoder",
+      "published": "2026-03-23T16:35:40+00:00",
+      "link": "https://the-decoder.com/meta-boss-zuckerberg-reportedly-builds-personal-ai-agent-and-plans-flatter-hierarchies/"
+    },
+    {
+      "title": "The hardest question to answer about AI-fueled delusions",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here.",
+      "source": "MIT Tech Review",
+      "published": "2026-03-23T16:31:20+00:00",
+      "link": "https://www.technologyreview.com/2026/03/23/1134527/the-hardest-question-to-answer-about-ai-fueled-delusions/"
+    },
     {
       "title": "OpenSeeker's open-source approach aims to break up the data monopoly for AI search agents",
       "summary": "With just 11,700 training data points and a single training run, the AI search agent OpenSeeker achieves results that rival solutions from Alibaba and others. Data, code, and model are all openly accessible.",
       "source": "The Decoder",
       "published": "2026-03-23T16:12:07+00:00",
       "link": "https://the-decoder.com/openseekers-open-source-approach-aims-to-break-up-the-data-monopoly-for-ai-search-agents/"
+    },
+    {
+      "title": "Startup Gimlet Labs is solving the AI inference bottleneck in a surprisingly elegant way",
+      "summary": "Gimlet Labs just raised an $80 million Series A for tech that lets AI run across NVIDIA, AMD, Intel, ARM, Cerebras and d-Matrix chips, simultaneously.",
+      "source": "TechCrunch",
+      "published": "2026-03-23T16:00:00+00:00",
+      "link": "https://techcrunch.com/2026/03/23/startup-gimlet-labs-is-solving-the-ai-inference-bottleneck-in-a-surprisingly-elegant-way/"
     },
     {
       "title": "Littlebird raises $11M for its AI-assisted ‘recall’ tool that reads your computer screen",
@@ -17,10 +73,17 @@ const FEED_DATA = {
     },
     {
       "title": "Elizabeth Warren calls Pentagon’s decision to bar Anthropic ‘retaliation’",
-      "summary": "In a letter to Defense Secretary Pete Hegseth, Senator Elizabeth Warren (D-MA) equated the DoD's decision to label Anthropic a \"supply chain risk\" as retaliation, arguing that the Pentagon could simply have terminated its contract with the AI lab.",
+      "summary": "In a letter to Defense Secretary Pete Hegseth, Senator Elizabeth Warren (D-MA) equated the DOD's decision to label Anthropic a \"supply-chain risk\" as retaliation, arguing that the Pentagon could simply have terminated its contract with the AI lab.",
       "source": "TechCrunch",
       "published": "2026-03-23T15:22:57+00:00",
       "link": "https://techcrunch.com/2026/03/23/elizabeth-warren-anthropic-pentagon-defense-supply-chain-risk-retaliation/"
+    },
+    {
+      "title": "Sam Altman-backed fusion startup Helion in talks to sell power to OpenAI",
+      "summary": "OpenAI CEO Sam Altman is stepping down as board chair of Helion. His departure comes as reports that the two companies are negotiating a deal that would see Helion sell 12.5% of its power output to OpenAI.",
+      "source": "TechCrunch",
+      "published": "2026-03-23T15:03:36+00:00",
+      "link": "https://techcrunch.com/2026/03/23/sam-altman-openai-fusion-energy-board-helion/"
     },
     {
       "title": "Sam Altman-backed fusion startup Helion in talks with OpenAI",
@@ -31,7 +94,7 @@ const FEED_DATA = {
     },
     {
       "title": "iPhone 17 Pro Demonstrated Running a 400B LLM",
-      "summary": "Article URL: https://twitter.com/anemll/status/2035901335984611412 Comments URL: https://news.ycombinator.com/item?id=47490070 Points: 78 # Comments: 35",
+      "summary": "https://xcancel.com/anemll/status/2035901335984611412 Comments URL: https://news.ycombinator.com/item?id=47490070 Points: 312 # Comments: 185",
       "source": "Hacker News",
       "published": "2026-03-23T14:30:10+00:00",
       "link": "https://twitter.com/anemll/status/2035901335984611412"
@@ -58,6 +121,13 @@ const FEED_DATA = {
       "link": "https://www.technologyreview.com/2026/03/23/1134509/the-download-animal-welfare-agi-pilled-white-house-unveils-ai-policy/"
     },
     {
+      "title": "I built an AI receptionist for a mechanic shop",
+      "summary": "Article URL: https://www.itsthatlady.dev/blog/building-an-ai-receptionist-for-my-brother/ Comments URL: https://news.ycombinator.com/item?id=47487536 Points: 131 # Comments: 143",
+      "source": "Hacker News",
+      "published": "2026-03-23T10:32:33+00:00",
+      "link": "https://www.itsthatlady.dev/blog/building-an-ai-receptionist-for-my-brother/"
+    },
+    {
       "title": "Meet the Gods of AI Warfare",
       "summary": "In its early days, the AI initiative known as Project Maven had its fair share of skeptics at the Pentagon. Today, many of them are true believers.",
       "source": "Wired",
@@ -80,7 +150,7 @@ const FEED_DATA = {
     },
     {
       "title": "White-collar AI apocalypse narrative is just another bullshit",
-      "summary": "Article URL: https://martynasm.com/2026/03/22/white-collar-ai-apocalypse-narrative-is-just-another-bullshit/ Comments URL: https://news.ycombinator.com/item?id=47486644 Points: 55 # Comments: 88",
+      "summary": "Article URL: https://martynasm.com/2026/03/22/white-collar-ai-apocalypse-narrative-is-just-another-bullshit/ Comments URL: https://news.ycombinator.com/item?id=47486644 Points: 57 # Comments: 96",
       "source": "Hacker News",
       "published": "2026-03-23T08:16:34+00:00",
       "link": "https://martynasm.com/2026/03/22/white-collar-ai-apocalypse-narrative-is-just-another-bullshit/"
@@ -94,7 +164,7 @@ const FEED_DATA = {
     },
     {
       "title": "Diverse perspectives on AI from Rust contributors and maintainers",
-      "summary": "Article URL: https://nikomatsakis.github.io/rust-project-perspectives-on-ai/feb27-summary.html Comments URL: https://news.ycombinator.com/item?id=47482825 Points: 142 # Comments: 77",
+      "summary": "Article URL: https://nikomatsakis.github.io/rust-project-perspectives-on-ai/feb27-summary.html Comments URL: https://news.ycombinator.com/item?id=47482825 Points: 145 # Comments: 80",
       "source": "Hacker News",
       "published": "2026-03-22T22:19:03+00:00",
       "link": "https://nikomatsakis.github.io/rust-project-perspectives-on-ai/feb27-summary.html"
@@ -115,7 +185,7 @@ const FEED_DATA = {
     },
     {
       "title": "What young workers are doing to AI-proof themselves",
-      "summary": "Article URL: https://www.wsj.com/economy/jobs/ai-jobs-young-people-careers-14282284 Comments URL: https://news.ycombinator.com/item?id=47480447 Points: 200 # Comments: 320",
+      "summary": "Article URL: https://www.wsj.com/economy/jobs/ai-jobs-young-people-careers-14282284 Comments URL: https://news.ycombinator.com/item?id=47480447 Points: 213 # Comments: 355",
       "source": "Hacker News",
       "published": "2026-03-22T18:18:01+00:00",
       "link": "https://www.wsj.com/economy/jobs/ai-jobs-young-people-careers-14282284"
@@ -234,7 +304,7 @@ const FEED_DATA = {
     },
     {
       "title": "How to attract AI bots to your open source project",
-      "summary": "Article URL: https://nesbitt.io/2026/03/21/how-to-attract-ai-bots-to-your-open-source-project.html Comments URL: https://news.ycombinator.com/item?id=47471271 Points: 155 # Comments: 26",
+      "summary": "Article URL: https://nesbitt.io/2026/03/21/how-to-attract-ai-bots-to-your-open-source-project.html Comments URL: https://news.ycombinator.com/item?id=47471271 Points: 163 # Comments: 26",
       "source": "Hacker News",
       "published": "2026-03-21T20:58:01+00:00",
       "link": "https://nesbitt.io/2026/03/21/how-to-attract-ai-bots-to-your-open-source-project.html"
@@ -367,7 +437,7 @@ const FEED_DATA = {
     },
     {
       "title": "Blocking Internet Archive Won't Stop AI, but Will Erase Web's Historical Record",
-      "summary": "Article URL: https://www.eff.org/deeplinks/2026/03/blocking-internet-archive-wont-stop-ai-it-will-erase-webs-historical-record Comments URL: https://news.ycombinator.com/item?id=47464818 Points: 562 # Comments: 155",
+      "summary": "Article URL: https://www.eff.org/deeplinks/2026/03/blocking-internet-archive-wont-stop-ai-it-will-erase-webs-historical-record Comments URL: https://news.ycombinator.com/item?id=47464818 Points: 563 # Comments: 156",
       "source": "Hacker News",
       "published": "2026-03-21T07:30:16+00:00",
       "link": "https://www.eff.org/deeplinks/2026/03/blocking-internet-archive-wont-stop-ai-it-will-erase-webs-historical-record"
@@ -402,7 +472,7 @@ const FEED_DATA = {
     },
     {
       "title": "OpenCode – Open source AI coding agent",
-      "summary": "Article URL: https://opencode.ai/ Comments URL: https://news.ycombinator.com/item?id=47460525 Points: 1249 # Comments: 617",
+      "summary": "Article URL: https://opencode.ai/ Comments URL: https://news.ycombinator.com/item?id=47460525 Points: 1252 # Comments: 618",
       "source": "Hacker News",
       "published": "2026-03-20T21:03:52+00:00",
       "link": "https://opencode.ai/"
@@ -1330,76 +1400,6 @@ const FEED_DATA = {
       "source": "The Verge",
       "published": "2026-03-16T21:44:11+00:00",
       "link": "https://www.theverge.com/ai-artificial-intelligence/895639/xai-grok-teens-lawsuit-grok-ai-elon-musk"
-    },
-    {
-      "title": "Jensen Huang just put Nvidia’s Blackwell and Vera Rubin sales projections into the $1 trillion stratosphere",
-      "summary": "Nvidia CEO Jensen Huang said he expects $1 trillion worth of orders for the chips.",
-      "source": "TechCrunch",
-      "published": "2026-03-16T21:41:37+00:00",
-      "link": "https://techcrunch.com/2026/03/16/jensen-just-put-nvidias-blackwell-and-vera-rubin-sales-projections-into-the-1-trillion-stratosphere/"
-    },
-    {
-      "title": "Jensen just put Nvidia’s Blackwell and Vera Rubin sales projections into the $1 trillion stratosphere",
-      "summary": "Nvidia CEO Jensen Huang said he expects $1 trillion worth of orders for the chips.",
-      "source": "TechCrunch",
-      "published": "2026-03-16T21:41:37+00:00",
-      "link": "https://techcrunch.com/2026/03/16/jensen-just-put-nvidias-blackwell-and-vera-rubin-sales-projections-into-the-1-trillion-stratosphere/"
-    },
-    {
-      "title": "Warren presses Pentagon over decision to grant xAI access to classified networks",
-      "summary": "Sen. Elizabeth Warren noted that Grok, xAI's controversial chatbot, has created harmful outputs for users and poses a potential national security risk.",
-      "source": "TechCrunch",
-      "published": "2026-03-16T20:58:36+00:00",
-      "link": "https://techcrunch.com/2026/03/16/warren-presses-pentagon-over-decision-to-grant-xai-access-to-classified-networks/"
-    },
-    {
-      "title": "Benjamin Netanyahu is struggling to prove he’s not an AI clone",
-      "summary": "Social media platforms are currently awash with conspiracy theories claiming that Benjamin Netanyahu has been killed or injured and replaced by AI-generated deepfakes.",
-      "source": "The Verge",
-      "published": "2026-03-16T20:41:55+00:00",
-      "link": "https://www.theverge.com/tech/895453/ai-deepfake-netanyahu-claims-conspiracy"
-    },
-    {
-      "title": "GTC 2026: Nvidia wants to swap robotics' data problem for a compute problem",
-      "summary": "At GTC 2026, Nvidia is massively expanding its platform for physical AI. Starting in 2027, autonomous vehicles are set to drive through Los Angeles with Uber, industrial robots from FANUC and ABB are getting Nvidia brains, and new models aim to make humanoid robots more capable.",
-      "source": "The Decoder",
-      "published": "2026-03-16T20:30:11+00:00",
-      "link": "https://the-decoder.com/gtc-2026-nvidia-wants-to-swap-robotics-data-problem-for-a-compute-problem/"
-    },
-    {
-      "title": "Memories AI is building the visual memory layer for wearables and robotics",
-      "summary": "Memories.ai is building a large visual memory model that can index and retrieve video-recorded memories for physical AI.",
-      "source": "TechCrunch",
-      "published": "2026-03-16T20:30:00+00:00",
-      "link": "https://techcrunch.com/2026/03/16/memories-ai-is-building-the-visual-memory-layer-for-wearables-and-robotics/"
-    },
-    {
-      "title": "Nvidia Launches Vera CPU, Purpose-Built for Agentic AI",
-      "summary": "Article URL: https://nvidianews.nvidia.com/news/nvidia-launches-vera-cpu-purpose-built-for-agentic-ai Comments URL: https://news.ycombinator.com/item?id=47404074 Points: 176 # Comments: 101",
-      "source": "Hacker News",
-      "published": "2026-03-16T20:01:02+00:00",
-      "link": "https://nvidianews.nvidia.com/news/nvidia-launches-vera-cpu-purpose-built-for-agentic-ai"
-    },
-    {
-      "title": "Elon Musk’s xAI faces child porn lawsuit from minors Grok allegedly undressed",
-      "summary": "The three plaintiffs are seeking to represent anyone who had real images of them as a minor altered into sexual content by Grok.",
-      "source": "TechCrunch",
-      "published": "2026-03-16T19:18:44+00:00",
-      "link": "https://techcrunch.com/2026/03/16/elon-musks-xai-faces-child-porn-lawsuit-from-minors-grok-allegedly-undressed/"
-    },
-    {
-      "title": "Nvidia’s DLSS 5 uses generative AI to boost photorealism in video games, with ambitions beyond gaming",
-      "summary": "Nvidia’s new DLSS 5 uses generative AI and structured graphics data to make video games more realistic. CEO Jensen Huang says the approach could eventually spread to other industries.",
-      "source": "TechCrunch",
-      "published": "2026-03-16T19:12:19+00:00",
-      "link": "https://techcrunch.com/2026/03/16/nvidias-dlss-5-uses-generative-ai-to-boost-photo-realism-in-video-games-with-ambitions-beyond-gaming/"
-    },
-    {
-      "title": "OpenAI's biggest problem may not be building AI but getting companies to actually use it beyond ChatGPT",
-      "summary": "OpenAI is pushing to get its AI into large companies faster through sales, partnerships, and capital. A 10-billion-dollar joint venture and a new deployment arm show where the real challenge lies: getting the technology integrated into actual company workflows.",
-      "source": "The Decoder",
-      "published": "2026-03-16T19:12:10+00:00",
-      "link": "https://the-decoder.com/openais-biggest-problem-may-not-be-building-ai-but-getting-companies-to-actually-use-it-beyond-chatgpt/"
     }
   ]
 };
