@@ -1,6 +1,27 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-03-23T19:38:13.139026+00:00",
+  "lastUpdated": "2026-03-23T22:00:33.583609+00:00",
   "items": [
+    {
+      "title": "Bernie Sanders’ AI ‘gotcha’ video flops, but the memes are great",
+      "summary": "Sen. Bernie Sanders thinks he's tricked Claude into revealing the AI industry's secrets, but he really just exposed how agreeable chatbots can become.",
+      "source": "TechCrunch",
+      "published": "2026-03-23T20:15:59+00:00",
+      "link": "https://techcrunch.com/2026/03/23/bernie-sanders-ai-gotcha-video-flops-but-the-memes-are-great/"
+    },
+    {
+      "title": "Google’s new Pixel 10 ads made me go ‘Wait, WHAT are they trying to sell?’",
+      "summary": "Ever watch a TV ad and wonder, \"How did this get approved?\" Today, Google has not one but two new ad spots for its six-month-old Pixel 10 phones, and… let's just say they may not come across as intended.",
+      "source": "The Verge",
+      "published": "2026-03-23T19:49:11+00:00",
+      "link": "https://www.theverge.com/tech/898992/google-pixel-10-ads-moving-on-stalker-lying-beach-view-100-zoom"
+    },
+    {
+      "title": "Nvidia CEO Jensen Huang says ‘I think we’ve achieved AGI’",
+      "summary": "On a Monday episode of the Lex Fridman podcast, Nvidia CEO Jensen Huang made a hot-button statement: \"I think we've achieved AGI.\" AGI, or artificial general intelligence, is a vaguely defined term that has incited a lot of discussion by tech CEOs, tech workers, and the general...",
+      "source": "The Verge",
+      "published": "2026-03-23T19:42:33+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/899086/jensen-huang-nvidia-agi"
+    },
     {
       "title": "Meta acqui-hires Dreamer's entire team to bolster its lagging AI agent ambitions",
       "summary": "The AI startup Dreamer is joining Meta Superintelligence Labs with its entire team, bringing co-founder Hugo Barra—a former Meta VP—back into Mark Zuckerberg's orbit.",
@@ -94,7 +115,7 @@ const FEED_DATA = {
     },
     {
       "title": "iPhone 17 Pro Demonstrated Running a 400B LLM",
-      "summary": "https://xcancel.com/anemll/status/2035901335984611412 Comments URL: https://news.ycombinator.com/item?id=47490070 Points: 312 # Comments: 185",
+      "summary": "https://xcancel.com/anemll/status/2035901335984611412 Comments URL: https://news.ycombinator.com/item?id=47490070 Points: 397 # Comments: 213",
       "source": "Hacker News",
       "published": "2026-03-23T14:30:10+00:00",
       "link": "https://twitter.com/anemll/status/2035901335984611412"
@@ -122,7 +143,7 @@ const FEED_DATA = {
     },
     {
       "title": "I built an AI receptionist for a mechanic shop",
-      "summary": "Article URL: https://www.itsthatlady.dev/blog/building-an-ai-receptionist-for-my-brother/ Comments URL: https://news.ycombinator.com/item?id=47487536 Points: 131 # Comments: 143",
+      "summary": "Article URL: https://www.itsthatlady.dev/blog/building-an-ai-receptionist-for-my-brother/ Comments URL: https://news.ycombinator.com/item?id=47487536 Points: 168 # Comments: 195",
       "source": "Hacker News",
       "published": "2026-03-23T10:32:33+00:00",
       "link": "https://www.itsthatlady.dev/blog/building-an-ai-receptionist-for-my-brother/"
@@ -150,7 +171,7 @@ const FEED_DATA = {
     },
     {
       "title": "White-collar AI apocalypse narrative is just another bullshit",
-      "summary": "Article URL: https://martynasm.com/2026/03/22/white-collar-ai-apocalypse-narrative-is-just-another-bullshit/ Comments URL: https://news.ycombinator.com/item?id=47486644 Points: 57 # Comments: 96",
+      "summary": "Article URL: https://martynasm.com/2026/03/22/white-collar-ai-apocalypse-narrative-is-just-another-bullshit/ Comments URL: https://news.ycombinator.com/item?id=47486644 Points: 59 # Comments: 98",
       "source": "Hacker News",
       "published": "2026-03-23T08:16:34+00:00",
       "link": "https://martynasm.com/2026/03/22/white-collar-ai-apocalypse-narrative-is-just-another-bullshit/"
@@ -164,7 +185,7 @@ const FEED_DATA = {
     },
     {
       "title": "Diverse perspectives on AI from Rust contributors and maintainers",
-      "summary": "Article URL: https://nikomatsakis.github.io/rust-project-perspectives-on-ai/feb27-summary.html Comments URL: https://news.ycombinator.com/item?id=47482825 Points: 145 # Comments: 80",
+      "summary": "Article URL: https://nikomatsakis.github.io/rust-project-perspectives-on-ai/feb27-summary.html Comments URL: https://news.ycombinator.com/item?id=47482825 Points: 148 # Comments: 81",
       "source": "Hacker News",
       "published": "2026-03-22T22:19:03+00:00",
       "link": "https://nikomatsakis.github.io/rust-project-perspectives-on-ai/feb27-summary.html"
@@ -185,7 +206,7 @@ const FEED_DATA = {
     },
     {
       "title": "What young workers are doing to AI-proof themselves",
-      "summary": "Article URL: https://www.wsj.com/economy/jobs/ai-jobs-young-people-careers-14282284 Comments URL: https://news.ycombinator.com/item?id=47480447 Points: 213 # Comments: 355",
+      "summary": "Article URL: https://www.wsj.com/economy/jobs/ai-jobs-young-people-careers-14282284 Comments URL: https://news.ycombinator.com/item?id=47480447 Points: 217 # Comments: 358",
       "source": "Hacker News",
       "published": "2026-03-22T18:18:01+00:00",
       "link": "https://www.wsj.com/economy/jobs/ai-jobs-young-people-careers-14282284"
@@ -304,7 +325,7 @@ const FEED_DATA = {
     },
     {
       "title": "How to attract AI bots to your open source project",
-      "summary": "Article URL: https://nesbitt.io/2026/03/21/how-to-attract-ai-bots-to-your-open-source-project.html Comments URL: https://news.ycombinator.com/item?id=47471271 Points: 163 # Comments: 26",
+      "summary": "Article URL: https://nesbitt.io/2026/03/21/how-to-attract-ai-bots-to-your-open-source-project.html Comments URL: https://news.ycombinator.com/item?id=47471271 Points: 165 # Comments: 28",
       "source": "Hacker News",
       "published": "2026-03-21T20:58:01+00:00",
       "link": "https://nesbitt.io/2026/03/21/how-to-attract-ai-bots-to-your-open-source-project.html"
@@ -437,7 +458,7 @@ const FEED_DATA = {
     },
     {
       "title": "Blocking Internet Archive Won't Stop AI, but Will Erase Web's Historical Record",
-      "summary": "Article URL: https://www.eff.org/deeplinks/2026/03/blocking-internet-archive-wont-stop-ai-it-will-erase-webs-historical-record Comments URL: https://news.ycombinator.com/item?id=47464818 Points: 563 # Comments: 156",
+      "summary": "Article URL: https://www.eff.org/deeplinks/2026/03/blocking-internet-archive-wont-stop-ai-it-will-erase-webs-historical-record Comments URL: https://news.ycombinator.com/item?id=47464818 Points: 563 # Comments: 159",
       "source": "Hacker News",
       "published": "2026-03-21T07:30:16+00:00",
       "link": "https://www.eff.org/deeplinks/2026/03/blocking-internet-archive-wont-stop-ai-it-will-erase-webs-historical-record"
@@ -584,9 +605,9 @@ const FEED_DATA = {
     },
     {
       "title": "Google Search is now using AI to replace headlines",
-      "summary": "Since roughly the turn of the millennium, Google Search has been the bedrock of the web. People loved Google's trustworthy \"10 blue links\" search experience and its unspoken promise: The website you click is the website you get.",
-      "source": "The Verge",
-      "published": "2026-03-20T14:30:00+00:00",
+      "summary": "Article URL: https://www.theverge.com/tech/896490/google-replace-news-headlines-in-search-canary-coal-mine-experiment Comments URL: https://news.ycombinator.com/item?id=47455224 Points: 79 # Comments: 15",
+      "source": "Hacker News",
+      "published": "2026-03-20T14:39:05+00:00",
       "link": "https://www.theverge.com/tech/896490/google-replace-news-headlines-in-search-canary-coal-mine-experiment"
     },
     {
@@ -1379,27 +1400,6 @@ const FEED_DATA = {
       "source": "Hacker News",
       "published": "2026-03-17T00:56:47+00:00",
       "link": "https://www.theregister.com/2026/03/17/ai_businesses_faking_it_reckoning_coming_codestrap/"
-    },
-    {
-      "title": "Nvidia’s version of OpenClaw could solve its biggest problem: security",
-      "summary": "Nvidia announced an open enterprise AI agent platform, called NemoClaw, that is built off of viral OpenClaw.",
-      "source": "TechCrunch",
-      "published": "2026-03-16T22:45:51+00:00",
-      "link": "https://techcrunch.com/2026/03/16/nvidias-version-of-openclaw-could-solve-its-biggest-problem-security/"
-    },
-    {
-      "title": "DLSS 5 looks like a real-time generative AI filter for video games",
-      "summary": "Nvidia announced DLSS 5 on Monday during its GTC conference, and based on early reactions, it's going to be a divisive update, with some reactions calling it \"slop\" that unacceptably alters artistic intent.",
-      "source": "The Verge",
-      "published": "2026-03-16T21:56:05+00:00",
-      "link": "https://www.theverge.com/news/895472/nvidia-dlss5-generative-ai-pc-graphics"
-    },
-    {
-      "title": "Teens sue Elon Musk’s xAI over Grok’s AI-generated CSAM",
-      "summary": "Three Tennessee teens are suing Elon Musk's xAI over claims that the company's Grok AI chatbot generated sexualized images and videos of themselves as minors, as reported earlier by The Washington Post.",
-      "source": "The Verge",
-      "published": "2026-03-16T21:44:11+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/895639/xai-grok-teens-lawsuit-grok-ai-elon-musk"
     }
   ]
 };
