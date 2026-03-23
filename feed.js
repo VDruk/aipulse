@@ -1,6 +1,20 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-03-22T21:51:43.590227+00:00",
+  "lastUpdated": "2026-03-23T05:56:00.533888+00:00",
   "items": [
+    {
+      "title": "AI influencer awards season is upon us",
+      "summary": "First came the AI beauty pageant. Then the AI music contests.",
+      "source": "The Verge",
+      "published": "2026-03-23T00:01:00+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/898781/ai-personality-of-the-year-influencer-contest"
+    },
+    {
+      "title": "Diverse perspectives on AI from Rust contributors and maintainers",
+      "summary": "Article URL: https://nikomatsakis.github.io/rust-project-perspectives-on-ai/feb27-summary.html Comments URL: https://news.ycombinator.com/item?id=47482825 Points: 129 # Comments: 71",
+      "source": "Hacker News",
+      "published": "2026-03-22T22:19:03+00:00",
+      "link": "https://nikomatsakis.github.io/rust-project-perspectives-on-ai/feb27-summary.html"
+    },
     {
       "title": "Do you want to build a robot snowman?",
       "summary": "On the latest episode of the Equity podcast, we recapped CEO Jensen Huang’s GTC keynote and debated what it means for Nvidia’s future.",
@@ -14,6 +28,13 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-03-22T18:41:09+00:00",
       "link": "https://techcrunch.com/2026/03/22/cursor-admits-its-new-coding-model-was-built-on-top-of-moonshot-ais-kimi/"
+    },
+    {
+      "title": "What Young Workers Are Doing to AI-Proof Themselves",
+      "summary": "Article URL: https://www.wsj.com/economy/jobs/ai-jobs-young-people-careers-14282284 Comments URL: https://news.ycombinator.com/item?id=47480447 Points: 107 # Comments: 153",
+      "source": "Hacker News",
+      "published": "2026-03-22T18:18:01+00:00",
+      "link": "https://www.wsj.com/economy/jobs/ai-jobs-young-people-careers-14282284"
     },
     {
       "title": "Crimson Desert dev apologizes for use of AI art",
@@ -35,6 +56,13 @@ const FEED_DATA = {
       "source": "The Verge",
       "published": "2026-03-22T14:06:48+00:00",
       "link": "https://www.theverge.com/ai-artificial-intelligence/898722/musk-terafab-chip-plant"
+    },
+    {
+      "title": "Show HN: Revise – An AI Editor for Documents",
+      "summary": "I started building this 10 months ago, largely using agentic coding tools.",
+      "source": "Hacker News",
+      "published": "2026-03-22T13:28:45+00:00",
+      "link": "https://revise.io"
     },
     {
       "title": "Brute-forcing my algorithmic ignorance with an LLM in 7 days",
@@ -93,6 +121,13 @@ const FEED_DATA = {
       "link": "https://the-decoder.com/math-needs-thinking-time-everyday-knowledge-needs-memory-and-a-new-transformer-architecture-aims-to-deliver-both/"
     },
     {
+      "title": "Cross-Model Void Convergence: GPT-5.2 and Claude Opus 4.6 Deterministic Silence",
+      "summary": "Article URL: https://zenodo.org/records/18976656 Comments URL: https://news.ycombinator.com/item?id=47475155 Points: 50 # Comments: 27",
+      "source": "Hacker News",
+      "published": "2026-03-22T07:07:15+00:00",
+      "link": "https://zenodo.org/records/18976656"
+    },
+    {
       "title": "Are AI tokens the new signing bonus or just a cost of doing business?",
       "summary": "Maybe tokens really will become the fourth pillar of engineering compensation. But engineers might want to hold the line before embracing this as a straightforward win.",
       "source": "TechCrunch",
@@ -101,10 +136,17 @@ const FEED_DATA = {
     },
     {
       "title": "The Impact of AI on Game Dev Jobs. Open to Work Crisis",
-      "summary": "Article URL: https://darkounity.com/blog-post?id=the-impact-of-ai-on-game-dev-jobs-open-to-work-crisis--1774128585922 Comments URL: https://news.ycombinator.com/item?id=47471943 Points: 84 # Comments: 69",
+      "summary": "Article URL: https://darkounity.com/blog-post?id=the-impact-of-ai-on-game-dev-jobs-open-to-work-crisis--1774128585922 Comments URL: https://news.ycombinator.com/item?id=47471943 Points: 84 # Comments: 70",
       "source": "Hacker News",
       "published": "2026-03-21T22:03:05+00:00",
       "link": "https://darkounity.com/blog-post?id=the-impact-of-ai-on-game-dev-jobs-open-to-work-crisis--1774128585922"
+    },
+    {
+      "title": "How to Attract AI Bots to Your Open Source Project",
+      "summary": "Article URL: https://nesbitt.io/2026/03/21/how-to-attract-ai-bots-to-your-open-source-project.html Comments URL: https://news.ycombinator.com/item?id=47471271 Points: 108 # Comments: 16",
+      "source": "Hacker News",
+      "published": "2026-03-21T20:58:01+00:00",
+      "link": "https://nesbitt.io/2026/03/21/how-to-attract-ai-bots-to-your-open-source-project.html"
     },
     {
       "title": "Tinybox – Offline AI device 120B parameters",
@@ -143,14 +185,14 @@ const FEED_DATA = {
     },
     {
       "title": "Thinking Fast, Slow, and Artificial: How AI Is Reshaping Human Reasoning",
-      "summary": "Article URL: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6097646 Comments URL: https://news.ycombinator.com/item?id=47467913 Points: 189 # Comments: 109",
+      "summary": "Article URL: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6097646 Comments URL: https://news.ycombinator.com/item?id=47467913 Points: 191 # Comments: 115",
       "source": "Hacker News",
       "published": "2026-03-21T15:30:29+00:00",
       "link": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6097646"
     },
     {
       "title": "Senior European journalist suspended over AI-generated quotes",
-      "summary": "Article URL: https://www.theguardian.com/technology/2026/mar/20/mediahuis-suspends-senior-journalist-over-ai-generated-quotes Comments URL: https://news.ycombinator.com/item?id=47467566 Points: 90 # Comments: 78",
+      "summary": "Article URL: https://www.theguardian.com/technology/2026/mar/20/mediahuis-suspends-senior-journalist-over-ai-generated-quotes Comments URL: https://news.ycombinator.com/item?id=47467566 Points: 92 # Comments: 78",
       "source": "Hacker News",
       "published": "2026-03-21T14:50:13+00:00",
       "link": "https://www.theguardian.com/technology/2026/mar/20/mediahuis-suspends-senior-journalist-over-ai-generated-quotes"
@@ -234,7 +276,7 @@ const FEED_DATA = {
     },
     {
       "title": "Blocking Internet Archive Won't Stop AI, but Will Erase Web's Historical Record",
-      "summary": "Article URL: https://www.eff.org/deeplinks/2026/03/blocking-internet-archive-wont-stop-ai-it-will-erase-webs-historical-record Comments URL: https://news.ycombinator.com/item?id=47464818 Points: 546 # Comments: 151",
+      "summary": "Article URL: https://www.eff.org/deeplinks/2026/03/blocking-internet-archive-wont-stop-ai-it-will-erase-webs-historical-record Comments URL: https://news.ycombinator.com/item?id=47464818 Points: 556 # Comments: 151",
       "source": "Hacker News",
       "published": "2026-03-21T07:30:16+00:00",
       "link": "https://www.eff.org/deeplinks/2026/03/blocking-internet-archive-wont-stop-ai-it-will-erase-webs-historical-record"
@@ -269,7 +311,7 @@ const FEED_DATA = {
     },
     {
       "title": "OpenCode – Open source AI coding agent",
-      "summary": "Article URL: https://opencode.ai/ Comments URL: https://news.ycombinator.com/item?id=47460525 Points: 1237 # Comments: 612",
+      "summary": "Article URL: https://opencode.ai/ Comments URL: https://news.ycombinator.com/item?id=47460525 Points: 1242 # Comments: 614",
       "source": "Hacker News",
       "published": "2026-03-20T21:03:52+00:00",
       "link": "https://opencode.ai/"
@@ -535,7 +577,7 @@ const FEED_DATA = {
     },
     {
       "title": "A rogue AI led to a serious security incident at Meta",
-      "summary": "Article URL: https://www.theverge.com/ai-artificial-intelligence/897528/meta-rogue-ai-agent-security-incident Comments URL: https://news.ycombinator.com/item?id=47444195 Points: 170 # Comments: 141",
+      "summary": "Article URL: https://www.theverge.com/ai-artificial-intelligence/897528/meta-rogue-ai-agent-security-incident Comments URL: https://news.ycombinator.com/item?id=47444195 Points: 171 # Comments: 142",
       "source": "Hacker News",
       "published": "2026-03-19T18:59:02+00:00",
       "link": "https://www.theverge.com/ai-artificial-intelligence/897528/meta-rogue-ai-agent-security-incident"
@@ -1358,48 +1400,6 @@ const FEED_DATA = {
       "source": "Hacker News",
       "published": "2026-03-16T15:25:36+00:00",
       "link": "https://www.apideck.com/blog/mcp-server-eating-context-window-cli-alternative"
-    },
-    {
-      "title": "Yahoo CEO Jim Lanzone on reviving the web’s homepage",
-      "summary": "Today, I’m talking with Jim Lanzone, who is the CEO of Yahoo. It’s basically impossible to sum up the Yahoo story, but the short version of it is that a long time ago Yahoo paid Google to run the search box on its website, and basically everything has gone sideways since.",
-      "source": "The Verge",
-      "published": "2026-03-16T15:00:00+00:00",
-      "link": "https://www.theverge.com/podcast/895221/yahoo-jim-lanzone-scout-ai-sports-finance-open-web"
-    },
-    {
-      "title": "OpenAI's own wellbeing advisors warned against erotic mode, called it a \"sexy suicide coach\"",
-      "summary": "OpenAI's wellbeing advisory board reportedly voted unanimously against the company's planned Adult Mode for ChatGPT. Internally, the company is struggling with an error-prone age detection system and unresolved safety issues.",
-      "source": "The Decoder",
-      "published": "2026-03-16T14:24:39+00:00",
-      "link": "https://the-decoder.com/openais-own-wellbeing-advisors-warned-against-erotic-mode-called-it-a-sexy-suicide-coach/"
-    },
-    {
-      "title": "Alibaba consolidates AI efforts under new business unit led by CEO",
-      "summary": "Alibaba is merging its AI operations into a new business unit called \"Alibaba Token Hub\" (ATH), led directly by CEO Eddie Wu, Bloomberg reports. The article Alibaba consolidates AI efforts under new business unit led by CEO appeared first on The Decoder.",
-      "source": "The Decoder",
-      "published": "2026-03-16T13:58:31+00:00",
-      "link": "https://the-decoder.com/alibaba-consolidates-ai-efforts-under-new-business-unit-led-by-ceo/"
-    },
-    {
-      "title": "Nurturing agentic AI beyond the toddler stage",
-      "summary": "Parents of young children face a lot of fears about developmental milestones, from infancy through adulthood.",
-      "source": "MIT Tech Review",
-      "published": "2026-03-16T13:00:00+00:00",
-      "link": "https://www.technologyreview.com/2026/03/16/1133979/nurturing-agentic-ai-beyond-the-toddler-stage/"
-    },
-    {
-      "title": "This is not a fly uploaded to a computer",
-      "summary": "Last week, a few posts about a so-called virtual \"embodied fly\" tore through X, boosted by AI hype accounts and excited commenters who didn't seem to understand what it was they were excited about.",
-      "source": "The Verge",
-      "published": "2026-03-16T12:49:07+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/894587/fly-brain-computer-upload"
-    },
-    {
-      "title": "The Download: glass chips and “AI-free” logos",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Future AI chips could be built on glass Human-made glass is thousands of years old.",
-      "source": "MIT Tech Review",
-      "published": "2026-03-16T12:35:00+00:00",
-      "link": "https://www.technologyreview.com/2026/03/16/1134301/the-download-glass-ai-chips-ai-free-logo/"
     }
   ]
 };
