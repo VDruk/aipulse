@@ -1,6 +1,62 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-03-23T11:33:12.395927+00:00",
+  "lastUpdated": "2026-03-23T16:13:36.006549+00:00",
   "items": [
+    {
+      "title": "OpenSeeker's open-source approach aims to break up the data monopoly for AI search agents",
+      "summary": "With just 11,700 training data points and a single training run, the AI search agent OpenSeeker achieves results that rival solutions from Alibaba and others. Data, code, and model are all openly accessible.",
+      "source": "The Decoder",
+      "published": "2026-03-23T16:12:07+00:00",
+      "link": "https://the-decoder.com/openseekers-open-source-approach-aims-to-break-up-the-data-monopoly-for-ai-search-agents/"
+    },
+    {
+      "title": "Littlebird raises $11M for its AI-assisted ‘recall’ tool that reads your computer screen",
+      "summary": "Littlebird is building an AI that reads your screen in real time to capture context, answer questions, and automate tasks, without relying on screenshots.",
+      "source": "TechCrunch",
+      "published": "2026-03-23T16:00:00+00:00",
+      "link": "https://techcrunch.com/2026/03/23/littlebird-raises-11m-to-capture-context-from-your-computer-so-you-can-query-your-data/"
+    },
+    {
+      "title": "Elizabeth Warren calls Pentagon’s decision to bar Anthropic ‘retaliation’",
+      "summary": "In a letter to Defense Secretary Pete Hegseth, Senator Elizabeth Warren (D-MA) equated the DoD's decision to label Anthropic a \"supply chain risk\" as retaliation, arguing that the Pentagon could simply have terminated its contract with the AI lab.",
+      "source": "TechCrunch",
+      "published": "2026-03-23T15:22:57+00:00",
+      "link": "https://techcrunch.com/2026/03/23/elizabeth-warren-anthropic-pentagon-defense-supply-chain-risk-retaliation/"
+    },
+    {
+      "title": "Sam Altman-backed fusion startup Helion in talks with OpenAI",
+      "summary": "Helion is reportedly negotiating a deal that would see it sell 12.5% of its power output to OpenAI.",
+      "source": "TechCrunch",
+      "published": "2026-03-23T15:03:36+00:00",
+      "link": "https://techcrunch.com/2026/03/23/sam-altman-backed-fusion-startup-helion-in-talks-with-openai/"
+    },
+    {
+      "title": "iPhone 17 Pro Demonstrated Running a 400B LLM",
+      "summary": "Article URL: https://twitter.com/anemll/status/2035901335984611412 Comments URL: https://news.ycombinator.com/item?id=47490070 Points: 78 # Comments: 35",
+      "source": "Hacker News",
+      "published": "2026-03-23T14:30:10+00:00",
+      "link": "https://twitter.com/anemll/status/2035901335984611412"
+    },
+    {
+      "title": "Confronting the CEO of the AI company that impersonated me",
+      "summary": "Today, I’m talking with Shishir Mehrotra, who is CEO of Superhuman — that’s the company formerly known as Grammarly, which is still its flagship product. Shishir also used to be the chief product officer at YouTube, and he’s on the board of directors at Spotify.",
+      "source": "The Verge",
+      "published": "2026-03-23T13:30:00+00:00",
+      "link": "https://www.theverge.com/podcast/898715/superhuman-grammarly-expert-review-shishir-mehrotra-interview-ai-impersonation"
+    },
+    {
+      "title": "Palantir AI to support UK finance operations",
+      "summary": "UK authorities believe improving efficiency across national finance operations requires applying AI platforms from vendors like Palantir. The country’s financial regulator, the FCA, has initiated a project leveraging AI to identify illicit activities.",
+      "source": "AI News",
+      "published": "2026-03-23T13:14:23+00:00",
+      "link": "https://www.artificialintelligence-news.com/news/palantir-ai-to-support-uk-finance-operations/"
+    },
+    {
+      "title": "The Download: animal welfare gets AGI-pilled, and the White House unveils its AI policy",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.",
+      "source": "MIT Tech Review",
+      "published": "2026-03-23T12:17:33+00:00",
+      "link": "https://www.technologyreview.com/2026/03/23/1134509/the-download-animal-welfare-agi-pilled-white-house-unveils-ai-policy/"
+    },
     {
       "title": "Meet the Gods of AI Warfare",
       "summary": "In its early days, the AI initiative known as Project Maven had its fair share of skeptics at the Pentagon. Today, many of them are true believers.",
@@ -24,7 +80,7 @@ const FEED_DATA = {
     },
     {
       "title": "White-collar AI apocalypse narrative is just another bullshit",
-      "summary": "Article URL: https://martynasm.com/2026/03/22/white-collar-ai-apocalypse-narrative-is-just-another-bullshit/ Comments URL: https://news.ycombinator.com/item?id=47486644 Points: 51 # Comments: 71",
+      "summary": "Article URL: https://martynasm.com/2026/03/22/white-collar-ai-apocalypse-narrative-is-just-another-bullshit/ Comments URL: https://news.ycombinator.com/item?id=47486644 Points: 55 # Comments: 88",
       "source": "Hacker News",
       "published": "2026-03-23T08:16:34+00:00",
       "link": "https://martynasm.com/2026/03/22/white-collar-ai-apocalypse-narrative-is-just-another-bullshit/"
@@ -38,7 +94,7 @@ const FEED_DATA = {
     },
     {
       "title": "Diverse perspectives on AI from Rust contributors and maintainers",
-      "summary": "Article URL: https://nikomatsakis.github.io/rust-project-perspectives-on-ai/feb27-summary.html Comments URL: https://news.ycombinator.com/item?id=47482825 Points: 137 # Comments: 76",
+      "summary": "Article URL: https://nikomatsakis.github.io/rust-project-perspectives-on-ai/feb27-summary.html Comments URL: https://news.ycombinator.com/item?id=47482825 Points: 142 # Comments: 77",
       "source": "Hacker News",
       "published": "2026-03-22T22:19:03+00:00",
       "link": "https://nikomatsakis.github.io/rust-project-perspectives-on-ai/feb27-summary.html"
@@ -59,7 +115,7 @@ const FEED_DATA = {
     },
     {
       "title": "What young workers are doing to AI-proof themselves",
-      "summary": "Article URL: https://www.wsj.com/economy/jobs/ai-jobs-young-people-careers-14282284 Comments URL: https://news.ycombinator.com/item?id=47480447 Points: 145 # Comments: 244",
+      "summary": "Article URL: https://www.wsj.com/economy/jobs/ai-jobs-young-people-careers-14282284 Comments URL: https://news.ycombinator.com/item?id=47480447 Points: 200 # Comments: 320",
       "source": "Hacker News",
       "published": "2026-03-22T18:18:01+00:00",
       "link": "https://www.wsj.com/economy/jobs/ai-jobs-young-people-careers-14282284"
@@ -77,6 +133,13 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-03-22T15:52:00+00:00",
       "link": "https://the-decoder.com/xiaomi-launches-three-mimo-ai-models-to-power-agents-robots-and-voice/"
+    },
+    {
+      "title": "Musk says he’s building a Terafab chip plant in Austin, Texas",
+      "summary": "Elon Musk announced plans to build a Terafab plant in Austin, Texas, that will be jointly run by Tesla and SpaceX. The goal is to eventually build chips at scale for robotics, artificial intelligence, and space-based data centers for Musk's various companies.",
+      "source": "The Verge",
+      "published": "2026-03-22T14:06:48+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/898722/musk-terafab-chip-plant"
     },
     {
       "title": "Musk says he’s building Terafab chip plant in Austin, Texas",
@@ -171,7 +234,7 @@ const FEED_DATA = {
     },
     {
       "title": "How to attract AI bots to your open source project",
-      "summary": "Article URL: https://nesbitt.io/2026/03/21/how-to-attract-ai-bots-to-your-open-source-project.html Comments URL: https://news.ycombinator.com/item?id=47471271 Points: 140 # Comments: 24",
+      "summary": "Article URL: https://nesbitt.io/2026/03/21/how-to-attract-ai-bots-to-your-open-source-project.html Comments URL: https://news.ycombinator.com/item?id=47471271 Points: 155 # Comments: 26",
       "source": "Hacker News",
       "published": "2026-03-21T20:58:01+00:00",
       "link": "https://nesbitt.io/2026/03/21/how-to-attract-ai-bots-to-your-open-source-project.html"
@@ -304,7 +367,7 @@ const FEED_DATA = {
     },
     {
       "title": "Blocking Internet Archive Won't Stop AI, but Will Erase Web's Historical Record",
-      "summary": "Article URL: https://www.eff.org/deeplinks/2026/03/blocking-internet-archive-wont-stop-ai-it-will-erase-webs-historical-record Comments URL: https://news.ycombinator.com/item?id=47464818 Points: 559 # Comments: 152",
+      "summary": "Article URL: https://www.eff.org/deeplinks/2026/03/blocking-internet-archive-wont-stop-ai-it-will-erase-webs-historical-record Comments URL: https://news.ycombinator.com/item?id=47464818 Points: 562 # Comments: 155",
       "source": "Hacker News",
       "published": "2026-03-21T07:30:16+00:00",
       "link": "https://www.eff.org/deeplinks/2026/03/blocking-internet-archive-wont-stop-ai-it-will-erase-webs-historical-record"
@@ -339,7 +402,7 @@ const FEED_DATA = {
     },
     {
       "title": "OpenCode – Open source AI coding agent",
-      "summary": "Article URL: https://opencode.ai/ Comments URL: https://news.ycombinator.com/item?id=47460525 Points: 1247 # Comments: 616",
+      "summary": "Article URL: https://opencode.ai/ Comments URL: https://news.ycombinator.com/item?id=47460525 Points: 1249 # Comments: 617",
       "source": "Hacker News",
       "published": "2026-03-20T21:03:52+00:00",
       "link": "https://opencode.ai/"
@@ -416,7 +479,7 @@ const FEED_DATA = {
     },
     {
       "title": "MacBook M5 Pro and Qwen3.5 = Local AI Security System",
-      "summary": "Article URL: https://www.sharpai.org/benchmark/ Comments URL: https://news.ycombinator.com/item?id=47457107 Points: 171 # Comments: 149",
+      "summary": "Article URL: https://www.sharpai.org/benchmark/ Comments URL: https://news.ycombinator.com/item?id=47457107 Points: 172 # Comments: 149",
       "source": "Hacker News",
       "published": "2026-03-20T16:41:42+00:00",
       "link": "https://www.sharpai.org/benchmark/"
@@ -1337,69 +1400,6 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-03-16T19:12:10+00:00",
       "link": "https://the-decoder.com/openais-biggest-problem-may-not-be-building-ai-but-getting-companies-to-actually-use-it-beyond-chatgpt/"
-    },
-    {
-      "title": "Nvidia DLSS 5 Delivers AI-Powered Breakthrough in Visual Fidelity for Games",
-      "summary": "Article URL: https://nvidianews.nvidia.com/news/nvidia-dlss-5-delivers-ai-powered-breakthrough-in-visual-fidelity-for-games Comments URL: https://news.ycombinator.com/item?id=47403044 Points: 57 # Comments: 32",
-      "source": "Hacker News",
-      "published": "2026-03-16T18:45:45+00:00",
-      "link": "https://nvidianews.nvidia.com/news/nvidia-dlss-5-delivers-ai-powered-breakthrough-in-visual-fidelity-for-games"
-    },
-    {
-      "title": "Encyclopedia Britannica sues OpenAI for training on nearly 100,000 articles without permission",
-      "summary": "Britannica sues OpenAI for almost 100,000 copied articles. At the same time, courts in Europe are arguing about whether AI models can \"store\" copyrighted works at all - with conflicting results.",
-      "source": "The Decoder",
-      "published": "2026-03-16T18:30:37+00:00",
-      "link": "https://the-decoder.com/encyclopedia-britannica-sues-openai-for-training-on-nearly-100000-articles-without-permission/"
-    },
-    {
-      "title": "How to watch Jensen Huang’s Nvidia GTC 2026 keynote — and what to expect",
-      "summary": "GTC is Nvidia's flagship annual event, where the chipmaker typically announces new products, partnerships, and its vision for the future of computing. Huang's keynote will focus on Nvidia's role in the future of computing and AI.",
-      "source": "TechCrunch",
-      "published": "2026-03-16T17:51:46+00:00",
-      "link": "https://techcrunch.com/2026/03/16/nvidia-gtc-how-to-watch-jensen-huang-2026-keynote/"
-    },
-    {
-      "title": "Another deep tech chip startup becomes a unicorn: Frore hits $1.64B",
-      "summary": "At Nvidia CEO Jensen Huang's urging, Frore developed liquid-cooling tech for chips. That shift helped it raise $143 million.",
-      "source": "TechCrunch",
-      "published": "2026-03-16T17:47:32+00:00",
-      "link": "https://techcrunch.com/2026/03/16/another-deep-tech-chip-startup-becomes-a-unicorn-frore-hits-1-64b/"
-    },
-    {
-      "title": "Fuse raises $25M to disrupt aging loan origination systems used by US credit unions",
-      "summary": "The startup also announced a $5 million \"rescue fund\" to help credit unions ditch legacy software for its AI-native platform.",
-      "source": "TechCrunch",
-      "published": "2026-03-16T17:43:27+00:00",
-      "link": "https://techcrunch.com/2026/03/16/fuse-raises-25m-to-disrupt-aging-loan-origination-systems-used-by-u-s-credit-unions/"
-    },
-    {
-      "title": "The dictionary sues OpenAI",
-      "summary": "Encyclopedia Britannica and Merriam-Webster say that OpenAI violated the copyright of almost 100,000 articles by using them for LLM training.",
-      "source": "TechCrunch",
-      "published": "2026-03-16T17:38:34+00:00",
-      "link": "https://techcrunch.com/2026/03/16/merriam-webster-openai-encyclopedia-brittanica-lawsuit/"
-    },
-    {
-      "title": "Speed at the cost of quality: Study of use of Cursor AI in open source projects (2025)",
-      "summary": "Article URL: https://arxiv.org/abs/2511.04427 Comments URL: https://news.ycombinator.com/item?id=47401734 Points: 147 # Comments: 81",
-      "source": "Hacker News",
-      "published": "2026-03-16T17:07:37+00:00",
-      "link": "https://arxiv.org/abs/2511.04427"
-    },
-    {
-      "title": "Where OpenAI’s technology could show up in Iran",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here.",
-      "source": "MIT Tech Review",
-      "published": "2026-03-16T17:06:21+00:00",
-      "link": "https://www.technologyreview.com/2026/03/16/1134315/where-openais-technology-could-show-up-in-iran/"
-    },
-    {
-      "title": "Encyclopedia Britannica is suing OpenAI for allegedly ‘memorizing’ its content with ChatGPT",
-      "summary": "On Friday, Encyclopedia Britannica and dictionary publisher Merriam-Webster filed a lawsuit against OpenAI alleging that it used their copyrighted content to train its AI, then generated responses that were \"substantially similar\" to their content, as previously reported by...",
-      "source": "The Verge",
-      "published": "2026-03-16T17:04:06+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/895372/encyclopedia-britannica-openai-lawsuit"
     }
   ]
 };
