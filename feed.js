@@ -1,6 +1,34 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-03-23T08:09:38.228632+00:00",
+  "lastUpdated": "2026-03-23T11:33:12.395927+00:00",
   "items": [
+    {
+      "title": "Meet the Gods of AI Warfare",
+      "summary": "In its early days, the AI initiative known as Project Maven had its fair share of skeptics at the Pentagon. Today, many of them are true believers.",
+      "source": "Wired",
+      "published": "2026-03-23T10:00:00+00:00",
+      "link": "https://www.wired.com/story/project-maven-katrina-manson-book-excerpt/"
+    },
+    {
+      "title": "The Bay Area’s animal welfare movement wants to recruit AI",
+      "summary": "In early February, animal welfare advocates and AI researchers gathered in stocking feet at Mox, a scrappy, shoes-free coworking space in San Francisco. Yellow and red canopies billowed overhead, Persian rugs blanketed the floor, and mosaic lamps glowed beside potted plants.",
+      "source": "MIT Tech Review",
+      "published": "2026-03-23T09:00:00+00:00",
+      "link": "https://www.technologyreview.com/2026/03/23/1134491/the-bay-areas-animal-welfare-movement-wants-to-recruit-ai/"
+    },
+    {
+      "title": "The AI Race Is Pressuring Utilities to Squeeze More From Europe’s Power Grids",
+      "summary": "As data center developers queue up to connect to power grids across Europe, network operators are experimenting with novel ways of clearing room for them.",
+      "source": "Wired",
+      "published": "2026-03-23T09:00:00+00:00",
+      "link": "https://www.wired.com/story/europe-squeeze-power-energy-grid-ai-data-center/"
+    },
+    {
+      "title": "White-collar AI apocalypse narrative is just another bullshit",
+      "summary": "Article URL: https://martynasm.com/2026/03/22/white-collar-ai-apocalypse-narrative-is-just-another-bullshit/ Comments URL: https://news.ycombinator.com/item?id=47486644 Points: 51 # Comments: 71",
+      "source": "Hacker News",
+      "published": "2026-03-23T08:16:34+00:00",
+      "link": "https://martynasm.com/2026/03/22/white-collar-ai-apocalypse-narrative-is-just-another-bullshit/"
+    },
     {
       "title": "AI influencer awards season is upon us",
       "summary": "First came the AI beauty pageant. Then the AI music contests.",
@@ -10,7 +38,7 @@ const FEED_DATA = {
     },
     {
       "title": "Diverse perspectives on AI from Rust contributors and maintainers",
-      "summary": "Article URL: https://nikomatsakis.github.io/rust-project-perspectives-on-ai/feb27-summary.html Comments URL: https://news.ycombinator.com/item?id=47482825 Points: 132 # Comments: 72",
+      "summary": "Article URL: https://nikomatsakis.github.io/rust-project-perspectives-on-ai/feb27-summary.html Comments URL: https://news.ycombinator.com/item?id=47482825 Points: 137 # Comments: 76",
       "source": "Hacker News",
       "published": "2026-03-22T22:19:03+00:00",
       "link": "https://nikomatsakis.github.io/rust-project-perspectives-on-ai/feb27-summary.html"
@@ -30,8 +58,8 @@ const FEED_DATA = {
       "link": "https://techcrunch.com/2026/03/22/cursor-admits-its-new-coding-model-was-built-on-top-of-moonshot-ais-kimi/"
     },
     {
-      "title": "What Young Workers Are Doing to AI-Proof Themselves",
-      "summary": "Article URL: https://www.wsj.com/economy/jobs/ai-jobs-young-people-careers-14282284 Comments URL: https://news.ycombinator.com/item?id=47480447 Points: 123 # Comments: 201",
+      "title": "What young workers are doing to AI-proof themselves",
+      "summary": "Article URL: https://www.wsj.com/economy/jobs/ai-jobs-young-people-careers-14282284 Comments URL: https://news.ycombinator.com/item?id=47480447 Points: 145 # Comments: 244",
       "source": "Hacker News",
       "published": "2026-03-22T18:18:01+00:00",
       "link": "https://www.wsj.com/economy/jobs/ai-jobs-young-people-careers-14282284"
@@ -122,7 +150,7 @@ const FEED_DATA = {
     },
     {
       "title": "Cross-Model Void Convergence: GPT-5.2 and Claude Opus 4.6 Deterministic Silence",
-      "summary": "Article URL: https://zenodo.org/records/18976656 Comments URL: https://news.ycombinator.com/item?id=47475155 Points: 50 # Comments: 27",
+      "summary": "Article URL: https://zenodo.org/records/18976656 Comments URL: https://news.ycombinator.com/item?id=47475155 Points: 51 # Comments: 28",
       "source": "Hacker News",
       "published": "2026-03-22T07:07:15+00:00",
       "link": "https://zenodo.org/records/18976656"
@@ -142,8 +170,8 @@ const FEED_DATA = {
       "link": "https://darkounity.com/blog-post?id=the-impact-of-ai-on-game-dev-jobs-open-to-work-crisis--1774128585922"
     },
     {
-      "title": "How to Attract AI Bots to Your Open Source Project",
-      "summary": "Article URL: https://nesbitt.io/2026/03/21/how-to-attract-ai-bots-to-your-open-source-project.html Comments URL: https://news.ycombinator.com/item?id=47471271 Points: 122 # Comments: 18",
+      "title": "How to attract AI bots to your open source project",
+      "summary": "Article URL: https://nesbitt.io/2026/03/21/how-to-attract-ai-bots-to-your-open-source-project.html Comments URL: https://news.ycombinator.com/item?id=47471271 Points: 140 # Comments: 24",
       "source": "Hacker News",
       "published": "2026-03-21T20:58:01+00:00",
       "link": "https://nesbitt.io/2026/03/21/how-to-attract-ai-bots-to-your-open-source-project.html"
@@ -185,14 +213,14 @@ const FEED_DATA = {
     },
     {
       "title": "Thinking Fast, Slow, and Artificial: How AI Is Reshaping Human Reasoning",
-      "summary": "Article URL: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6097646 Comments URL: https://news.ycombinator.com/item?id=47467913 Points: 193 # Comments: 115",
+      "summary": "Article URL: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6097646 Comments URL: https://news.ycombinator.com/item?id=47467913 Points: 193 # Comments: 116",
       "source": "Hacker News",
       "published": "2026-03-21T15:30:29+00:00",
       "link": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6097646"
     },
     {
       "title": "Senior European journalist suspended over AI-generated quotes",
-      "summary": "Article URL: https://www.theguardian.com/technology/2026/mar/20/mediahuis-suspends-senior-journalist-over-ai-generated-quotes Comments URL: https://news.ycombinator.com/item?id=47467566 Points: 92 # Comments: 78",
+      "summary": "Article URL: https://www.theguardian.com/technology/2026/mar/20/mediahuis-suspends-senior-journalist-over-ai-generated-quotes Comments URL: https://news.ycombinator.com/item?id=47467566 Points: 92 # Comments: 79",
       "source": "Hacker News",
       "published": "2026-03-21T14:50:13+00:00",
       "link": "https://www.theguardian.com/technology/2026/mar/20/mediahuis-suspends-senior-journalist-over-ai-generated-quotes"
@@ -241,7 +269,7 @@ const FEED_DATA = {
     },
     {
       "title": "Atuin v18.13 – better search, a PTY proxy, and AI for your shell",
-      "summary": "Article URL: https://blog.atuin.sh/atuin-v18-13/ Comments URL: https://news.ycombinator.com/item?id=47465824 Points: 93 # Comments: 79",
+      "summary": "Article URL: https://blog.atuin.sh/atuin-v18-13/ Comments URL: https://news.ycombinator.com/item?id=47465824 Points: 93 # Comments: 80",
       "source": "Hacker News",
       "published": "2026-03-21T10:35:20+00:00",
       "link": "https://blog.atuin.sh/atuin-v18-13/"
@@ -269,14 +297,14 @@ const FEED_DATA = {
     },
     {
       "title": "Man pleads guilty to $8M AI-generated music scheme",
-      "summary": "Article URL: https://therecord.media/man-pleads-guilty-8-million-ai-music-scheme Comments URL: https://news.ycombinator.com/item?id=47464859 Points: 54 # Comments: 68",
+      "summary": "Article URL: https://therecord.media/man-pleads-guilty-8-million-ai-music-scheme Comments URL: https://news.ycombinator.com/item?id=47464859 Points: 54 # Comments: 69",
       "source": "Hacker News",
       "published": "2026-03-21T07:36:07+00:00",
       "link": "https://therecord.media/man-pleads-guilty-8-million-ai-music-scheme"
     },
     {
       "title": "Blocking Internet Archive Won't Stop AI, but Will Erase Web's Historical Record",
-      "summary": "Article URL: https://www.eff.org/deeplinks/2026/03/blocking-internet-archive-wont-stop-ai-it-will-erase-webs-historical-record Comments URL: https://news.ycombinator.com/item?id=47464818 Points: 556 # Comments: 151",
+      "summary": "Article URL: https://www.eff.org/deeplinks/2026/03/blocking-internet-archive-wont-stop-ai-it-will-erase-webs-historical-record Comments URL: https://news.ycombinator.com/item?id=47464818 Points: 559 # Comments: 152",
       "source": "Hacker News",
       "published": "2026-03-21T07:30:16+00:00",
       "link": "https://www.eff.org/deeplinks/2026/03/blocking-internet-archive-wont-stop-ai-it-will-erase-webs-historical-record"
@@ -311,7 +339,7 @@ const FEED_DATA = {
     },
     {
       "title": "OpenCode – Open source AI coding agent",
-      "summary": "Article URL: https://opencode.ai/ Comments URL: https://news.ycombinator.com/item?id=47460525 Points: 1244 # Comments: 615",
+      "summary": "Article URL: https://opencode.ai/ Comments URL: https://news.ycombinator.com/item?id=47460525 Points: 1247 # Comments: 616",
       "source": "Hacker News",
       "published": "2026-03-20T21:03:52+00:00",
       "link": "https://opencode.ai/"
@@ -1372,34 +1400,6 @@ const FEED_DATA = {
       "source": "The Verge",
       "published": "2026-03-16T17:04:06+00:00",
       "link": "https://www.theverge.com/ai-artificial-intelligence/895372/encyclopedia-britannica-openai-lawsuit"
-    },
-    {
-      "title": "GPT-4.5 fooled 73 percent of people into thinking it was human by pretending to be dumber",
-      "summary": "GPT-4.5 only passed the Turing test after researchers told it to make typos, skip punctuation, and botch basic math. It worked: 73 percent of participants thought it was human.",
-      "source": "The Decoder",
-      "published": "2026-03-16T16:22:14+00:00",
-      "link": "https://the-decoder.com/gpt-4-5-fooled-73-percent-of-people-into-thinking-it-was-human-by-pretending-to-be-dumber/"
-    },
-    {
-      "title": "Launch HN: Voygr (YC W26) – A better maps API for agents and AI apps",
-      "summary": "Hi HN, we’re Yarik and Vlad from VOYGR (https://voygr.tech/), working on better real-world place intelligence for app developers and agents.",
-      "source": "Hacker News",
-      "published": "2026-03-16T16:21:07+00:00",
-      "link": "https://news.ycombinator.com/item?id=47401042"
-    },
-    {
-      "title": "US Treasury publishes AI risk Guidebook for financial institutions",
-      "summary": "The US Treasury has published several documents designed for the US financial services sector that suggest a structured approach to managing AI risks in operations and policy (see subheading ‘Resources and Downloads’ towards the bottom of the link).",
-      "source": "AI News",
-      "published": "2026-03-16T16:15:00+00:00",
-      "link": "https://www.artificialintelligence-news.com/news/us-treasury-publishes-ai-risk-governance-guidebook-for-financial-institutions/"
-    },
-    {
-      "title": "Apideck CLI – An AI-agent interface with much lower context consumption than MCP",
-      "summary": "Article URL: https://www.apideck.com/blog/mcp-server-eating-context-window-cli-alternative Comments URL: https://news.ycombinator.com/item?id=47400261 Points: 137 # Comments: 123",
-      "source": "Hacker News",
-      "published": "2026-03-16T15:25:36+00:00",
-      "link": "https://www.apideck.com/blog/mcp-server-eating-context-window-cli-alternative"
     }
   ]
 };
