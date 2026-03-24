@@ -1,16 +1,37 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-03-24T08:00:34.282628+00:00",
+  "lastUpdated": "2026-03-24T11:34:35.537576+00:00",
   "items": [
     {
+      "title": "Chris Hayes Has Some Advice for Keeping Up With the News",
+      "summary": "The host of MS Now’s All In, knows how hard it is to stay current. But he also knows where you should focus your attention—and it starts with a sober view of AI.",
+      "source": "Wired",
+      "published": "2026-03-24T10:30:00+00:00",
+      "link": "https://www.wired.com/story/the-big-interview-podcast-chris-hayes/"
+    },
+    {
+      "title": "Anthropic lets Claude take control of your desktop when regular app integrations fall short",
+      "summary": "Anthropic has announced a new feature for its AI assistant Claude: the ability to directly operate a user's computer, handling tasks people would normally do themselves at their desk.",
+      "source": "The Decoder",
+      "published": "2026-03-24T09:56:41+00:00",
+      "link": "https://the-decoder.com/anthropic-lets-claude-take-control-of-your-desktop-when-regular-app-integrations-fall-short/"
+    },
+    {
+      "title": "Show HN: ProofShot – Give AI coding agents eyes to verify the UI they build",
+      "summary": "I use AI agents to build UI features daily. The thing that kept annoying me: the agent writes code but never sees what it actually looks like in the browser.",
+      "source": "Hacker News",
+      "published": "2026-03-24T07:46:46+00:00",
+      "link": "https://proofshot.argil.io/"
+    },
+    {
       "title": "I created my first AI-assisted pull request",
-      "summary": "Article URL: https://nelson.cloud/i-created-my-first-ai-assisted-pull-request-and-i-feel-like-a-fraud/ Comments URL: https://news.ycombinator.com/item?id=47497679 Points: 71 # Comments: 74",
+      "summary": "Article URL: https://nelson.cloud/i-created-my-first-ai-assisted-pull-request-and-i-feel-like-a-fraud/ Comments URL: https://news.ycombinator.com/item?id=47497679 Points: 76 # Comments: 75",
       "source": "Hacker News",
       "published": "2026-03-24T01:42:38+00:00",
       "link": "https://nelson.cloud/i-created-my-first-ai-assisted-pull-request-and-i-feel-like-a-fraud/"
     },
     {
       "title": "AI boom risks widening wealth divide, says BlackRock's Larry Fink",
-      "summary": "Article URL: https://www.theguardian.com/technology/2026/mar/23/ai-boom-risks-widening-wealth-divide-blackrock-larry-fink Comments URL: https://news.ycombinator.com/item?id=47496583 Points: 52 # Comments: 28",
+      "summary": "Article URL: https://www.theguardian.com/technology/2026/mar/23/ai-boom-risks-widening-wealth-divide-blackrock-larry-fink Comments URL: https://news.ycombinator.com/item?id=47496583 Points: 54 # Comments: 29",
       "source": "Hacker News",
       "published": "2026-03-23T23:32:17+00:00",
       "link": "https://www.theguardian.com/technology/2026/mar/23/ai-boom-risks-widening-wealth-divide-blackrock-larry-fink"
@@ -73,7 +94,7 @@ const FEED_DATA = {
     },
     {
       "title": "Designing AI for Disruptive Science",
-      "summary": "Article URL: https://www.asimov.press/p/ai-science Comments URL: https://news.ycombinator.com/item?id=47493194 Points: 72 # Comments: 40",
+      "summary": "Article URL: https://www.asimov.press/p/ai-science Comments URL: https://news.ycombinator.com/item?id=47493194 Points: 72 # Comments: 41",
       "source": "Hacker News",
       "published": "2026-03-23T18:19:05+00:00",
       "link": "https://www.asimov.press/p/ai-science"
@@ -157,7 +178,7 @@ const FEED_DATA = {
     },
     {
       "title": "iPhone 17 Pro Demonstrated Running a 400B LLM",
-      "summary": "https://xcancel.com/anemll/status/2035901335984611412 Comments URL: https://news.ycombinator.com/item?id=47490070 Points: 586 # Comments: 267",
+      "summary": "https://xcancel.com/anemll/status/2035901335984611412 Comments URL: https://news.ycombinator.com/item?id=47490070 Points: 634 # Comments: 281",
       "source": "Hacker News",
       "published": "2026-03-23T14:30:10+00:00",
       "link": "https://twitter.com/anemll/status/2035901335984611412"
@@ -185,7 +206,7 @@ const FEED_DATA = {
     },
     {
       "title": "I built an AI receptionist for a mechanic shop",
-      "summary": "Article URL: https://www.itsthatlady.dev/blog/building-an-ai-receptionist-for-my-brother/ Comments URL: https://news.ycombinator.com/item?id=47487536 Points: 263 # Comments: 278",
+      "summary": "Article URL: https://www.itsthatlady.dev/blog/building-an-ai-receptionist-for-my-brother/ Comments URL: https://news.ycombinator.com/item?id=47487536 Points: 290 # Comments: 293",
       "source": "Hacker News",
       "published": "2026-03-23T10:32:33+00:00",
       "link": "https://www.itsthatlady.dev/blog/building-an-ai-receptionist-for-my-brother/"
@@ -227,7 +248,7 @@ const FEED_DATA = {
     },
     {
       "title": "Diverse perspectives on AI from Rust contributors and maintainers",
-      "summary": "Article URL: https://nikomatsakis.github.io/rust-project-perspectives-on-ai/feb27-summary.html Comments URL: https://news.ycombinator.com/item?id=47482825 Points: 154 # Comments: 81",
+      "summary": "Article URL: https://nikomatsakis.github.io/rust-project-perspectives-on-ai/feb27-summary.html Comments URL: https://news.ycombinator.com/item?id=47482825 Points: 156 # Comments: 82",
       "source": "Hacker News",
       "published": "2026-03-22T22:19:03+00:00",
       "link": "https://nikomatsakis.github.io/rust-project-perspectives-on-ai/feb27-summary.html"
@@ -248,7 +269,7 @@ const FEED_DATA = {
     },
     {
       "title": "What young workers are doing to AI-proof themselves",
-      "summary": "Article URL: https://www.wsj.com/economy/jobs/ai-jobs-young-people-careers-14282284 Comments URL: https://news.ycombinator.com/item?id=47480447 Points: 220 # Comments: 374",
+      "summary": "Article URL: https://www.wsj.com/economy/jobs/ai-jobs-young-people-careers-14282284 Comments URL: https://news.ycombinator.com/item?id=47480447 Points: 221 # Comments: 378",
       "source": "Hacker News",
       "published": "2026-03-22T18:18:01+00:00",
       "link": "https://www.wsj.com/economy/jobs/ai-jobs-young-people-careers-14282284"
@@ -367,7 +388,7 @@ const FEED_DATA = {
     },
     {
       "title": "How to attract AI bots to your open source project",
-      "summary": "Article URL: https://nesbitt.io/2026/03/21/how-to-attract-ai-bots-to-your-open-source-project.html Comments URL: https://news.ycombinator.com/item?id=47471271 Points: 172 # Comments: 29",
+      "summary": "Article URL: https://nesbitt.io/2026/03/21/how-to-attract-ai-bots-to-your-open-source-project.html Comments URL: https://news.ycombinator.com/item?id=47471271 Points: 173 # Comments: 29",
       "source": "Hacker News",
       "published": "2026-03-21T20:58:01+00:00",
       "link": "https://nesbitt.io/2026/03/21/how-to-attract-ai-bots-to-your-open-source-project.html"
@@ -465,7 +486,7 @@ const FEED_DATA = {
     },
     {
       "title": "Atuin v18.13 – better search, a PTY proxy, and AI for your shell",
-      "summary": "Article URL: https://blog.atuin.sh/atuin-v18-13/ Comments URL: https://news.ycombinator.com/item?id=47465824 Points: 94 # Comments: 80",
+      "summary": "Article URL: https://blog.atuin.sh/atuin-v18-13/ Comments URL: https://news.ycombinator.com/item?id=47465824 Points: 95 # Comments: 80",
       "source": "Hacker News",
       "published": "2026-03-21T10:35:20+00:00",
       "link": "https://blog.atuin.sh/atuin-v18-13/"
@@ -1379,27 +1400,6 @@ const FEED_DATA = {
       "source": "Hacker News",
       "published": "2026-03-17T12:56:24+00:00",
       "link": "https://www.Bracketmadness.ai"
-    },
-    {
-      "title": "The Download: OpenAI’s US military deal, and Grok’s CSAM lawsuit",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Where OpenAI’s technology could show up in Iran OpenAI has controversially agreed to give the Pentagon access to its AI.",
-      "source": "MIT Tech Review",
-      "published": "2026-03-17T12:26:48+00:00",
-      "link": "https://www.technologyreview.com/2026/03/17/1134322/the-download-openi-us-military-deal-grok-xai-csam-lawsuit/"
-    },
-    {
-      "title": "Trustpilot partners with AI companies as traditional search declines",
-      "summary": "Trustpilot is reported to be pursuing partnerships with large eCommerce companies as AI-driven shopping gains traction.",
-      "source": "AI News",
-      "published": "2026-03-17T12:26:00+00:00",
-      "link": "https://www.artificialintelligence-news.com/news/ai-in-ecommerce-trustpilot-partnerships-integration-news-trad-search-declines/"
-    },
-    {
-      "title": "OpenAI reportedly ditches its \"side quests\" strategy to focus on coding tools and business customers",
-      "summary": "OpenAI now believes its strategy of shipping as many products as possible at once left the company exposed. A major strategic shift is supposed to get things back on track.",
-      "source": "The Decoder",
-      "published": "2026-03-17T11:40:18+00:00",
-      "link": "https://the-decoder.com/openai-reportedly-ditches-its-side-quests-strategy-to-focus-on-coding-tools-and-business-customers/"
     }
   ]
 };
