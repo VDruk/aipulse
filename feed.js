@@ -1,6 +1,90 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-03-24T11:34:35.537576+00:00",
+  "lastUpdated": "2026-03-24T16:40:54.580699+00:00",
   "items": [
+    {
+      "title": "Agile Robots and Google Deepmind team up to bring AI-powered robots to factories",
+      "summary": "Agile Robots and Google Deepmind are partnering to build AI-powered robots for industrial use. The Munich-based company will integrate Deepmind's Gemini Robotics models into its hardware.",
+      "source": "The Decoder",
+      "published": "2026-03-24T16:20:39+00:00",
+      "link": "https://the-decoder.com/agile-robots-and-google-deepmind-team-up-to-bring-ai-powered-robots-to-factories/"
+    },
+    {
+      "title": "Meet the former Apple designer building a new AI interface at Hark",
+      "summary": "The company said it would design models, hardware, and interfaces in tandem to deliver a \"seamless end-to-end personal intelligence product.\"",
+      "source": "TechCrunch",
+      "published": "2026-03-24T16:00:00+00:00",
+      "link": "https://techcrunch.com/2026/03/24/meet-the-former-apple-designer-building-a-new-ai-interface-at-hark/"
+    },
+    {
+      "title": "Google brings AI-powered dark web analysis to enterprise security teams",
+      "summary": "Google Cloud unveiled new security features at the RSA Conference 2026 in San Francisco. The article Google brings AI-powered dark web analysis to enterprise security teams appeared first on The Decoder.",
+      "source": "The Decoder",
+      "published": "2026-03-24T15:56:11+00:00",
+      "link": "https://the-decoder.com/google-brings-ai-powered-dark-web-analysis-to-enterprise-security-teams/"
+    },
+    {
+      "title": "ChatGPT simplifies file management with new toolbar and library tab",
+      "summary": "ChatGPT gets a new Library tab and toolbar that make finding, reusing, and referencing uploaded files across chats faster and easier. The article ChatGPT simplifies file management with new toolbar and library tab appeared first on The Decoder.",
+      "source": "The Decoder",
+      "published": "2026-03-24T15:47:45+00:00",
+      "link": "https://the-decoder.com/chatgpt-simplifies-file-management-with-new-toolbar-and-library-tab/"
+    },
+    {
+      "title": "Microsoft hires top AI researchers from Allen Institute for AI for Suleyman's Superintelligence team",
+      "summary": "Microsoft is hiring several leading AI researchers from the Allen Institute for AI (Ai2) and the University of Washington. The article Microsoft hires top AI researchers from Allen Institute for AI for Suleyman's Superintelligence team appeared first on The Decoder.",
+      "source": "The Decoder",
+      "published": "2026-03-24T15:28:22+00:00",
+      "link": "https://the-decoder.com/microsoft-hires-top-ai-researchers-from-allen-institute-for-ai-for-suleymans-superintelligence-team/"
+    },
+    {
+      "title": "Securing AI systems under today’s and tomorrow’s conditions",
+      "summary": "Evidence cited in an eBook titled “AI Quantum Resilience”, published by Utimaco [email wall], shows organisations consider security risks as the leading barrier to effective adoption of AI on data they hold. AI’s value depends on data amassed by an organisation.",
+      "source": "AI News",
+      "published": "2026-03-24T15:22:00+00:00",
+      "link": "https://www.artificialintelligence-news.com/news/quantum-resilient-ai-needs-migration-and-hardware-protected-data-enclaves/"
+    },
+    {
+      "title": "Anthropic’s Claude Code and Cowork can control your computer",
+      "summary": "Anthropic has updated Claude to perform tasks in its Code and Cowork AI tools autonomously by using your computer for you.",
+      "source": "The Verge",
+      "published": "2026-03-24T13:32:23+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/899430/anthropic-claude-code-cowork-ai-control-computer"
+    },
+    {
+      "title": "OpenAI wants UK regulators to treat ChatGPT as a Google Search alternative",
+      "summary": "OpenAI is pushing the UK's Competition and Markets Authority (CMA) to add ChatGPT as an alternative to Google in so-called \"choice screens\" on Android phones and the Chrome browser.",
+      "source": "The Decoder",
+      "published": "2026-03-24T13:19:52+00:00",
+      "link": "https://the-decoder.com/openai-wants-uk-regulators-to-treat-chatgpt-as-a-google-search-alternative/"
+    },
+    {
+      "title": "Mirage raises $75M to continue building models for its AI video editing app Captions",
+      "summary": "Mirage, the maker of video editing app Captions, has raised $75 million in growth financing from General Catalyst's Customer Value Fund (CVF).",
+      "source": "TechCrunch",
+      "published": "2026-03-24T13:00:00+00:00",
+      "link": "https://techcrunch.com/2026/03/24/mirage-raises-75m-to-continue-building-models-for-its-ai-video-editing-app-captions/"
+    },
+    {
+      "title": "The Download: tracing AI-fueled delusions, and OpenAI admits Microsoft risks",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The hardest question to answer about AI-fueled delusions What actually happens when people spiral into delusion with AI?",
+      "source": "MIT Tech Review",
+      "published": "2026-03-24T12:28:27+00:00",
+      "link": "https://www.technologyreview.com/2026/03/24/1134540/the-download-tracing-ai-fueled-delusions-openai-warns-microsoft-risks/"
+    },
+    {
+      "title": "Agile Robots becomes the latest robotics company to partner with Google DeepMind",
+      "summary": "Agile Robots will incorporate Google DeepMind's robotics foundation models into its bots while collecting data for the AI research lab.",
+      "source": "TechCrunch",
+      "published": "2026-03-24T12:05:00+00:00",
+      "link": "https://techcrunch.com/2026/03/24/agile-robots-becomes-the-latest-robotics-company-to-partner-with-google-deepmind/"
+    },
+    {
+      "title": "Nvidia CEO Jensen Huang: The idea that AI will destroy software is \"ridiculous\"",
+      "summary": "Jensen Huang explains why AI agents will use software rather than replace it. Nvidia has redesigned its entire rack architecture accordingly.",
+      "source": "The Decoder",
+      "published": "2026-03-24T11:38:38+00:00",
+      "link": "https://the-decoder.com/nvidia-ceo-jensen-huang-the-idea-that-ai-will-destroy-software-is-ridiculous/"
+    },
     {
       "title": "Chris Hayes Has Some Advice for Keeping Up With the News",
       "summary": "The host of MS Now’s All In, knows how hard it is to stay current. But he also knows where you should focus your attention—and it starts with a sober view of AI.",
@@ -1316,90 +1400,6 @@ const FEED_DATA = {
       "source": "Hacker News",
       "published": "2026-03-17T17:07:06+00:00",
       "link": "https://openai.com/index/introducing-gpt-5-4-mini-and-nano"
-    },
-    {
-      "title": "Now everyone in the US is getting Google’s personalized Gemini AI",
-      "summary": "Google announced on Tuesday that all users in the US will now have access to its Personal Intelligence feature, which lets you connect various Google apps to provide context for Gemini's responses and suggestions.",
-      "source": "The Verge",
-      "published": "2026-03-17T16:33:41+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/896107/google-expands-personal-intelligence"
-    },
-    {
-      "title": "Google’s Personal Intelligence feature is expanding to all US users",
-      "summary": "Personal Intelligence allows Google's AI assistant to tap into your Google ecosystem, such as Gmail and Google Photos, to provide more tailored responses.",
-      "source": "TechCrunch",
-      "published": "2026-03-17T16:00:00+00:00",
-      "link": "https://techcrunch.com/2026/03/17/googles-personal-intelligence-feature-is-expanding-to-all-us-users/"
-    },
-    {
-      "title": "OpenAI expands government footprint with AWS deal, report says",
-      "summary": "OpenAI has reportedly signed a partnership with AWS to sell its AI systems to the U.S. government for classified and unclassified work, marking an expansion beyond its Pentagon deal last month.",
-      "source": "TechCrunch",
-      "published": "2026-03-17T15:37:03+00:00",
-      "link": "https://techcrunch.com/2026/03/17/openai-expands-government-footprint-with-aws-deal/"
-    },
-    {
-      "title": "Microsoft appoints a new Copilot boss after AI leadership shake-up",
-      "summary": "Microsoft is doing another executive shuffle today to reorganize how it engineers its Copilot assistant.",
-      "source": "The Verge",
-      "published": "2026-03-17T15:17:27+00:00",
-      "link": "https://www.theverge.com/news/895963/microsoft-copilot-leadership-changes-consumer-commercial"
-    },
-    {
-      "title": "The future of code is exciting and terrifying",
-      "summary": "Suddenly it seems like everyone's a coder. Or, at the very least, like they play one in the Claude Code app.",
-      "source": "The Verge",
-      "published": "2026-03-17T15:16:47+00:00",
-      "link": "https://www.theverge.com/podcast/895910/claude-code-future-developers-vergecast"
-    },
-    {
-      "title": "AI’s ‘boys’ club’ could widen the wealth gap for women, says Rana el Kaliouby",
-      "summary": "AI investor Rana el Kaliouby warns that if women are shut out of AI funding and leadership, the consequences will be grim.",
-      "source": "TechCrunch",
-      "published": "2026-03-17T15:16:21+00:00",
-      "link": "https://techcrunch.com/2026/03/17/ais-boys-club-could-widen-the-wealth-gap-for-women-says-rana-el-kaliouby/"
-    },
-    {
-      "title": "World launches tool to verify humans behind AI shopping agents",
-      "summary": "As AI agents take the reins for online shoppers, Sam Altman's unconventional startup is looking to expand its verification offerings to support agentic commerce.",
-      "source": "TechCrunch",
-      "published": "2026-03-17T15:00:00+00:00",
-      "link": "https://techcrunch.com/2026/03/17/world-launches-tool-to-verify-humans-behind-ai-shopping-agents/"
-    },
-    {
-      "title": "GTC 2026: With Groq 3 LPX, Nvidia adds dedicated inference hardware to its platform for the first time",
-      "summary": "At GTC 2026, Nvidia expanded the Vera Rubin platform it introduced at CES with custom CPU racks, dedicated inference chips, a new storage architecture, an inference operating system, open model alliances, and agent security software.",
-      "source": "The Decoder",
-      "published": "2026-03-17T14:22:24+00:00",
-      "link": "https://the-decoder.com/gtc-2026-with-groq-3-lpx-nvidia-adds-dedicated-inference-hardware-to-its-platform-for-the-first-time/"
-    },
-    {
-      "title": "Gamma adds AI image-generation tools in bid to take on Canva and Adobe",
-      "summary": "The company's new product, called Gamma Imagine, will let users employ text prompts to create brand-specific assets like interactive charts and visualizations, marketing collateral, social graphics, and infographics.",
-      "source": "TechCrunch",
-      "published": "2026-03-17T13:00:00+00:00",
-      "link": "https://techcrunch.com/2026/03/17/gamma-adds-ai-image-generation-tools-in-bid-to-take-on-canva-and-adobe/"
-    },
-    {
-      "title": "Niv-AI exits stealth to wring more power performance out of GPUs",
-      "summary": "The company raised $12 million in seed funding to measure and manage GPU power surges.",
-      "source": "TechCrunch",
-      "published": "2026-03-17T13:00:00+00:00",
-      "link": "https://techcrunch.com/2026/03/17/niv-ai-exits-stealth-to-wring-more-power-performance-out-of-gpus/"
-    },
-    {
-      "title": "Gamma adds AI image generation tools in bid to take on Canva and Adobe",
-      "summary": "The company's new product, called Gamma Imagine, will let users employ text prompts to create brand-specific assets like interactive charts and visualizations, marketing collateral, social graphics, and infographics.",
-      "source": "TechCrunch",
-      "published": "2026-03-17T13:00:00+00:00",
-      "link": "https://techcrunch.com/2026/03/17/gamma-adds-ai-image-generation-tools-in-bid-to-take-on-canva-and-adobe/"
-    },
-    {
-      "title": "Show HN: March Madness Bracket Challenge for AI Agents Only",
-      "summary": "I built a March Madness bracket challenge for AI agents, not humans. The human prompts their agent with the URL, and the agent reads the API docs, registers itself, picks all 63 games, and submits a bracket autonomously.",
-      "source": "Hacker News",
-      "published": "2026-03-17T12:56:24+00:00",
-      "link": "https://www.Bracketmadness.ai"
     }
   ]
 };
