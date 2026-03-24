@@ -1,6 +1,111 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-03-24T16:40:54.580699+00:00",
+  "lastUpdated": "2026-03-24T19:55:53.065112+00:00",
   "items": [
+    {
+      "title": "Popular AI proxy LiteLLM got hacked with malware that spreads through Kubernetes clusters",
+      "summary": "LiteLLM, a popular open-source proxy for AI APIs, has been compromised with malware that steals credentials and spreads across cloud systems. NVIDIA AI Director Jim Fan warns this represents a new class of attacks targeting AI agents.",
+      "source": "The Decoder",
+      "published": "2026-03-24T19:40:06+00:00",
+      "link": "https://the-decoder.com/popular-ai-proxy-litellm-got-hacked-with-malware-that-spreads-through-kubernetes-clusters/"
+    },
+    {
+      "title": "OpenAI’s plans to make ChatGPT more like Amazon aren’t going so well",
+      "summary": "OpenAI says its moving away from Instant Checkout, which allowed users to buy items directly through the ChatGPT interface.",
+      "source": "TechCrunch",
+      "published": "2026-03-24T19:27:56+00:00",
+      "link": "https://techcrunch.com/2026/03/24/openais-plans-to-make-chatgpt-more-like-amazon-arent-going-so-well/"
+    },
+    {
+      "title": "Google TV’s new Gemini features keep fans updated on sports teams and more",
+      "summary": "Three Gemini-powered features are coming to your Google TV. This includes visual responses, deep dives, and sports briefs.",
+      "source": "TechCrunch",
+      "published": "2026-03-24T19:12:11+00:00",
+      "link": "https://techcrunch.com/2026/03/24/google-tv-new-gemini-features-keep-fans-updated-on-sports-teams-deep-dives-visual-answers/"
+    },
+    {
+      "title": "Google Deepmind's Gemini 3.1 Flash-Lite generates websites almost in real time",
+      "summary": "Google shows in a demo how Gemini 3.1 Flash-Lite generates complete websites in real time. Fast, cheap - but also useful?",
+      "source": "The Decoder",
+      "published": "2026-03-24T19:07:39+00:00",
+      "link": "https://the-decoder.com/google-deepminds-gemini-3-1-flash-lite-generates-websites-almost-in-real-time/"
+    },
+    {
+      "title": "A man created thousands of fake accounts to stream AI songs billions of times and pocket $8 million in royalties",
+      "summary": "AI songs, fake accounts, billions of bot plays: a North Carolina man has pleaded guilty to scamming streaming platforms out of more than eight million dollars.",
+      "source": "The Decoder",
+      "published": "2026-03-24T18:44:46+00:00",
+      "link": "https://the-decoder.com/a-man-created-thousands-of-fake-accounts-to-stream-ai-songs-billions-of-times-and-pocket-8-million-in-royalties/"
+    },
+    {
+      "title": "OpenAI adds open source tools to help developers build for teen safety",
+      "summary": "Rather than working from scratch to figure out how to make AI safer for teens, developers can use these policies to fortify what they build.",
+      "source": "TechCrunch",
+      "published": "2026-03-24T18:41:34+00:00",
+      "link": "https://techcrunch.com/2026/03/24/openai-adds-open-source-tools-to-help-developers-build-for-teen-safety/"
+    },
+    {
+      "title": "Talat’s AI meeting notes stay on your machine, not in the cloud",
+      "summary": "The subscription-free AI meeting notes app is a local-first twist on notetaking tools like Granola.",
+      "source": "TechCrunch",
+      "published": "2026-03-24T18:41:33+00:00",
+      "link": "https://techcrunch.com/2026/03/24/talats-ai-meeting-notes-stay-on-your-machine-not-in-the-cloud/"
+    },
+    {
+      "title": "Exclusive eBook: Are we ready to hand AI agents the keys?",
+      "summary": "We’re starting to give AI agents real autonomy, but are we prepared for what could happen next?",
+      "source": "MIT Tech Review",
+      "published": "2026-03-24T18:17:13+00:00",
+      "link": "https://www.technologyreview.com/2026/03/24/1134531/exclusive-ebook-are-we-ready-to-hand-ai-agents-the-keys/"
+    },
+    {
+      "title": "ChatGPT is turning into a shopping platform with product images, prices, and comparisons, but no checkout",
+      "summary": "ChatGPT is getting visual shopping features that show products with images, prices, and side-by-side comparisons right in the chat. At the same time, OpenAI is dropping its own payment system and handing checkout off to retailers.",
+      "source": "The Decoder",
+      "published": "2026-03-24T17:22:33+00:00",
+      "link": "https://the-decoder.com/chatgpt-is-turning-into-a-shopping-platform-with-product-images-prices-and-comparisons-but-no-checkout/"
+    },
+    {
+      "title": "Doss raises $55M for AI inventory management that plugs into ERP",
+      "summary": "Doss's AI-powered inventory management system integrates with existing ERP systems. The Series B round was co-led by Madrona and Premji Invest.",
+      "source": "TechCrunch",
+      "published": "2026-03-24T17:18:29+00:00",
+      "link": "https://techcrunch.com/2026/03/24/doss-raises-55m-for-ai-inventory-management-that-plugs-into-erp/"
+    },
+    {
+      "title": "ChatGPT and Gemini are fighting to be the AI bot that sells you stuff",
+      "summary": "The AI-powered shopping rivalry is heating up as Google and OpenAI launch new features to help you buy things while interacting with their chatbots.",
+      "source": "The Verge",
+      "published": "2026-03-24T17:13:00+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/899677/openai-google-gemini-ai-shopping-features"
+    },
+    {
+      "title": "Automating complex finance workflows with multimodal AI",
+      "summary": "Finance leaders are automating their complex workflows by actively adopting powerful new multimodal AI frameworks. Extracting text from unstructured documents presents a frequent headache for developers.",
+      "source": "AI News",
+      "published": "2026-03-24T17:03:48+00:00",
+      "link": "https://www.artificialintelligence-news.com/news/automating-complex-finance-workflows-with-multimodal-ai/"
+    },
+    {
+      "title": "Arm Is Now Making Its Own Chips",
+      "summary": "The chip design firm says Meta, OpenAI, Cerebras, and Cloudflare are among the first customers of its new artificial intelligence hardware.",
+      "source": "Wired",
+      "published": "2026-03-24T17:00:00+00:00",
+      "link": "https://www.wired.com/story/chip-design-firm-arm-is-making-its-own-ai-cpu/"
+    },
+    {
+      "title": "This scientist rewarmed and studied pieces of his friend’s cryopreserved brain",
+      "summary": "L. Stephen Coles’s brain sits cushioned in a vat at a storage facility in Arizona.",
+      "source": "MIT Tech Review",
+      "published": "2026-03-24T16:43:36+00:00",
+      "link": "https://www.technologyreview.com/2026/03/24/1134562/cryopreservation-brain-cryonics-organ-transplantation/"
+    },
+    {
+      "title": "Microsoft snaps up Texas data center that Oracle and OpenAI left behind",
+      "summary": "Microsoft has agreed to lease a data center in Abilene, Texas, that was originally built for Oracle and OpenAI, Bloomberg News reports. The article Microsoft snaps up Texas data center that Oracle and OpenAI left behind appeared first on The Decoder.",
+      "source": "The Decoder",
+      "published": "2026-03-24T16:43:30+00:00",
+      "link": "https://the-decoder.com/microsoft-snaps-up-texas-data-center-that-oracle-and-openai-left-behind/"
+    },
     {
       "title": "Agile Robots and Google Deepmind team up to bring AI-powered robots to factories",
       "summary": "Agile Robots and Google Deepmind are partnering to build AI-powered robots for industrial use. The Munich-based company will integrate Deepmind's Gemini Robotics models into its hardware.",
@@ -58,8 +163,8 @@ const FEED_DATA = {
       "link": "https://the-decoder.com/openai-wants-uk-regulators-to-treat-chatgpt-as-a-google-search-alternative/"
     },
     {
-      "title": "Mirage raises $75M to continue building models for its AI video editing app Captions",
-      "summary": "Mirage, the maker of video editing app Captions, has raised $75 million in growth financing from General Catalyst's Customer Value Fund (CVF).",
+      "title": "Mirage raises $75M to continue building models for its AI video-editing app Captions",
+      "summary": "Mirage, the maker of video-editing app Captions, has raised $75 million in growth financing from General Catalyst's Customer Value Fund (CVF).",
       "source": "TechCrunch",
       "published": "2026-03-24T13:00:00+00:00",
       "link": "https://techcrunch.com/2026/03/24/mirage-raises-75m-to-continue-building-models-for-its-ai-video-editing-app-captions/"
@@ -401,18 +506,18 @@ const FEED_DATA = {
       "link": "http://blog.dominikrudnik.pl/my-google-recruitment-journey-part-1"
     },
     {
-      "title": "An exclusive tour of Amazon’s Trainium lab, the chip that’s won over Anthropic, OpenAI, even Apple",
-      "summary": "Shortly after Amazon announced its $50 billion investment in OpenAI, AWS invited me on a private tour of the chip lab at the heart of the deal.",
-      "source": "TechCrunch",
-      "published": "2026-03-22T12:00:00+00:00",
-      "link": "https://techcrunch.com/2026/03/22/an-exclusive-tour-of-amazons-trainium-lab-the-chip-thats-won-over-anthropic-openai-even-apple/"
-    },
-    {
       "title": "AI was everywhere at gaming’s big developer conference — except the games",
       "summary": "AI was everywhere at the GDC Festival of Gaming this year. Vendors at the event pitched generative AI tools for things like making AI-driven NPCs and even entire games from a chat box.",
       "source": "The Verge",
       "published": "2026-03-22T12:00:00+00:00",
       "link": "https://www.theverge.com/games/897982/gdc-2026-ai-game-developer-conference"
+    },
+    {
+      "title": "An exclusive tour of Amazon’s Trainium lab, the chip that’s won over Anthropic, OpenAI, even Apple",
+      "summary": "Shortly after Amazon announced its $50 billion investment in OpenAI, AWS invited me on a private tour of the chip lab at the heart of the deal.",
+      "source": "TechCrunch",
+      "published": "2026-03-22T12:00:00+00:00",
+      "link": "https://techcrunch.com/2026/03/22/an-exclusive-tour-of-amazons-trainium-lab-the-chip-thats-won-over-anthropic-openai-even-apple/"
     },
     {
       "title": "Andrej Karpathy says humans are now the bottleneck in AI research with easy-to-measure results",
@@ -1295,111 +1400,6 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-03-18T11:05:24+00:00",
       "link": "https://the-decoder.com/midjourney-v8-rolls-out-with-5x-faster-generation-but-charges-4x-more-for-its-best-features/"
-    },
-    {
-      "title": "What do new nuclear reactors mean for waste?",
-      "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here.",
-      "source": "MIT Tech Review",
-      "published": "2026-03-18T09:00:00+00:00",
-      "link": "https://www.technologyreview.com/2026/03/18/1134345/advanced-nuclear-reactors-waste/"
-    },
-    {
-      "title": "Claw Compactor: compress LLM tokens 54% with zero dependencies",
-      "summary": "Article URL: https://github.com/open-compress/claw-compactor Comments URL: https://news.ycombinator.com/item?id=47422948 Points: 101 # Comments: 2",
-      "source": "Hacker News",
-      "published": "2026-03-18T08:06:48+00:00",
-      "link": "https://github.com/open-compress/claw-compactor"
-    },
-    {
-      "title": "Launch an autonomous AI agent with sandboxed execution in 2 lines of code",
-      "summary": "Article URL: https://amaiya.github.io/onprem/examples_agent.html Comments URL: https://news.ycombinator.com/item?id=47420493 Points: 54 # Comments: 15",
-      "source": "Hacker News",
-      "published": "2026-03-18T01:10:19+00:00",
-      "link": "https://amaiya.github.io/onprem/examples_agent.html"
-    },
-    {
-      "title": "Justice Department Says Anthropic Can’t Be Trusted With Warfighting Systems",
-      "summary": "In response to Anthropic’s lawsuit, the government said it lawfully penalized the company for trying to limit how its Claude AI models could be used by the military.",
-      "source": "Wired",
-      "published": "2026-03-18T00:51:14+00:00",
-      "link": "https://www.wired.com/story/department-of-defense-responds-to-anthropic-lawsuit/"
-    },
-    {
-      "title": "The Pentagon is planning for AI companies to train on classified data, defense official says",
-      "summary": "The Pentagon is discussing plans to set up secure environments for generative AI companies to train military-specific versions of their models on classified data, MIT Technology Review has learned.",
-      "source": "MIT Tech Review",
-      "published": "2026-03-17T22:30:46+00:00",
-      "link": "https://www.technologyreview.com/2026/03/17/1134351/the-pentagon-is-planning-for-ai-companies-to-train-on-classified-data-defense-official-says/"
-    },
-    {
-      "title": "Why AI systems don't learn – On autonomous learning from cognitive science",
-      "summary": "Article URL: https://arxiv.org/abs/2603.15381 Comments URL: https://news.ycombinator.com/item?id=47418722 Points: 203 # Comments: 114",
-      "source": "Hacker News",
-      "published": "2026-03-17T21:42:39+00:00",
-      "link": "https://arxiv.org/abs/2603.15381"
-    },
-    {
-      "title": "Mistral AI Releases Forge",
-      "summary": "Article URL: https://mistral.ai/news/forge Comments URL: https://news.ycombinator.com/item?id=47418295 Points: 727 # Comments: 190",
-      "source": "Hacker News",
-      "published": "2026-03-17T21:04:26+00:00",
-      "link": "https://mistral.ai/news/forge"
-    },
-    {
-      "title": "Mistral bets on ‘build-your-own AI’ as it takes on OpenAI, Anthropic in the enterprise",
-      "summary": "Mistral Forge lets enterprises train custom AI models from scratch on their own data, challenging rivals that rely on fine-tuning and retrieval-based approaches.",
-      "source": "TechCrunch",
-      "published": "2026-03-17T21:00:00+00:00",
-      "link": "https://techcrunch.com/2026/03/17/mistral-forge-nvidia-gtc-build-your-own-ai-enterprise/"
-    },
-    {
-      "title": "Why Garry Tan’s Claude Code setup has gotten so much love, and hate",
-      "summary": "Thousands of people are trying Garry Tan's Claude Code setup, which was shared on GitHub. And everyone has an opinion: even Claude, ChatGPT, and Gemini.",
-      "source": "TechCrunch",
-      "published": "2026-03-17T20:50:04+00:00",
-      "link": "https://techcrunch.com/2026/03/17/why-garry-tans-claude-code-setup-has-gotten-so-much-love-and-hate/"
-    },
-    {
-      "title": "OpenAI ships GPT-5.4 mini and nano, faster and more capable but up to 4x pricier",
-      "summary": "OpenAI has released two new compact models—GPT-5.4 mini and nano—built for coding assistants, subagents, and computer control. GPT-5.4 mini nearly matches the full model's performance, but both new models come with a steep price hike over their predecessors.",
-      "source": "The Decoder",
-      "published": "2026-03-17T19:17:37+00:00",
-      "link": "https://the-decoder.com/openai-ships-gpt-5-4-mini-and-nano-faster-and-more-capable-but-up-to-4x-pricier/"
-    },
-    {
-      "title": "Microsoft restructures AI division to chase superintelligence after Nadella once called AI models a commodity",
-      "summary": "Microsoft is restructuring its AI division to double down on its own AI models, all the way up to superintelligence. That's a notable shift from what the company used to say.",
-      "source": "The Decoder",
-      "published": "2026-03-17T18:26:51+00:00",
-      "link": "https://the-decoder.com/microsoft-restructures-ai-division-to-chase-superintelligence-after-nadella-once-called-ai-models-a-commodity/"
-    },
-    {
-      "title": "The Pentagon is developing alternatives to Anthropic, report says",
-      "summary": "After their dramatic falling-out, it doesn't seem as though Anthropic and the Pentagon are getting back together.",
-      "source": "TechCrunch",
-      "published": "2026-03-17T18:20:15+00:00",
-      "link": "https://techcrunch.com/2026/03/17/the-pentagon-is-developing-alternatives-to-anthropic-report-says/"
-    },
-    {
-      "title": "Nvidia’s DLSS 5 is like motion smoothing for video games, but worse",
-      "summary": "Yesterday Nvidia revealed its latest upscaling tech, called DLSS 5, which it described as \"the company's most significant breakthrough in computer graphics since the debut of real-time ray tracing in 2018.\" Sounds good, until you actually see it.",
-      "source": "The Verge",
-      "published": "2026-03-17T18:00:00+00:00",
-      "link": "https://www.theverge.com/entertainment/896213/nvidia-dlss-5-ai-faces-motion-smoothing"
-    },
-    {
-      "title": "BuzzFeed debuts AI slop apps in bid for new revenue",
-      "summary": "BuzzFeed unveiled new AI-powered social apps at SXSW, but its demos drew muted reactions.",
-      "source": "TechCrunch",
-      "published": "2026-03-17T17:17:15+00:00",
-      "link": "https://techcrunch.com/2026/03/17/buzzfeed-ai-slop-apps-sxsw-bf-island-conjure/"
-    },
-    {
-      "title": "GPT‑5.4 Mini and Nano",
-      "summary": "Article URL: https://openai.com/index/introducing-gpt-5-4-mini-and-nano Comments URL: https://news.ycombinator.com/item?id=47415441 Points: 248 # Comments: 146",
-      "source": "Hacker News",
-      "published": "2026-03-17T17:07:06+00:00",
-      "link": "https://openai.com/index/introducing-gpt-5-4-mini-and-nano"
     }
   ]
 };
