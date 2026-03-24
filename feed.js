@@ -1,12 +1,19 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-03-24T05:40:29.600891+00:00",
+  "lastUpdated": "2026-03-24T08:00:34.282628+00:00",
   "items": [
     {
       "title": "I created my first AI-assisted pull request",
-      "summary": "Article URL: https://nelson.cloud/i-created-my-first-ai-assisted-pull-request-and-i-feel-like-a-fraud/ Comments URL: https://news.ycombinator.com/item?id=47497679 Points: 66 # Comments: 69",
+      "summary": "Article URL: https://nelson.cloud/i-created-my-first-ai-assisted-pull-request-and-i-feel-like-a-fraud/ Comments URL: https://news.ycombinator.com/item?id=47497679 Points: 71 # Comments: 74",
       "source": "Hacker News",
       "published": "2026-03-24T01:42:38+00:00",
       "link": "https://nelson.cloud/i-created-my-first-ai-assisted-pull-request-and-i-feel-like-a-fraud/"
+    },
+    {
+      "title": "AI boom risks widening wealth divide, says BlackRock's Larry Fink",
+      "summary": "Article URL: https://www.theguardian.com/technology/2026/mar/23/ai-boom-risks-widening-wealth-divide-blackrock-larry-fink Comments URL: https://news.ycombinator.com/item?id=47496583 Points: 52 # Comments: 28",
+      "source": "Hacker News",
+      "published": "2026-03-23T23:32:17+00:00",
+      "link": "https://www.theguardian.com/technology/2026/mar/23/ai-boom-risks-widening-wealth-divide-blackrock-larry-fink"
     },
     {
       "title": "Air Street becomes one of the largest solo VCs in Europe with $232M fund",
@@ -17,7 +24,7 @@ const FEED_DATA = {
     },
     {
       "title": "Chat GPT 5.2 cannot explain the German word \"geschniegelt\"",
-      "summary": "Article URL: https://old.reddit.com/r/ChatGPT/comments/1r4goxh/chat_gpt_52_cannot_explain_the_word_geschniegelt/ Comments URL: https://news.ycombinator.com/item?id=47495568 Points: 65 # Comments: 12",
+      "summary": "Article URL: https://old.reddit.com/r/ChatGPT/comments/1r4goxh/chat_gpt_52_cannot_explain_the_word_geschniegelt/ Comments URL: https://news.ycombinator.com/item?id=47495568 Points: 71 # Comments: 14",
       "source": "Hacker News",
       "published": "2026-03-23T21:47:42+00:00",
       "link": "https://old.reddit.com/r/ChatGPT/comments/1r4goxh/chat_gpt_52_cannot_explain_the_word_geschniegelt/"
@@ -66,7 +73,7 @@ const FEED_DATA = {
     },
     {
       "title": "Designing AI for Disruptive Science",
-      "summary": "Article URL: https://www.asimov.press/p/ai-science Comments URL: https://news.ycombinator.com/item?id=47493194 Points: 69 # Comments: 39",
+      "summary": "Article URL: https://www.asimov.press/p/ai-science Comments URL: https://news.ycombinator.com/item?id=47493194 Points: 72 # Comments: 40",
       "source": "Hacker News",
       "published": "2026-03-23T18:19:05+00:00",
       "link": "https://www.asimov.press/p/ai-science"
@@ -150,7 +157,7 @@ const FEED_DATA = {
     },
     {
       "title": "iPhone 17 Pro Demonstrated Running a 400B LLM",
-      "summary": "https://xcancel.com/anemll/status/2035901335984611412 Comments URL: https://news.ycombinator.com/item?id=47490070 Points: 544 # Comments: 253",
+      "summary": "https://xcancel.com/anemll/status/2035901335984611412 Comments URL: https://news.ycombinator.com/item?id=47490070 Points: 586 # Comments: 267",
       "source": "Hacker News",
       "published": "2026-03-23T14:30:10+00:00",
       "link": "https://twitter.com/anemll/status/2035901335984611412"
@@ -178,7 +185,7 @@ const FEED_DATA = {
     },
     {
       "title": "I built an AI receptionist for a mechanic shop",
-      "summary": "Article URL: https://www.itsthatlady.dev/blog/building-an-ai-receptionist-for-my-brother/ Comments URL: https://news.ycombinator.com/item?id=47487536 Points: 242 # Comments: 265",
+      "summary": "Article URL: https://www.itsthatlady.dev/blog/building-an-ai-receptionist-for-my-brother/ Comments URL: https://news.ycombinator.com/item?id=47487536 Points: 263 # Comments: 278",
       "source": "Hacker News",
       "published": "2026-03-23T10:32:33+00:00",
       "link": "https://www.itsthatlady.dev/blog/building-an-ai-receptionist-for-my-brother/"
@@ -206,7 +213,7 @@ const FEED_DATA = {
     },
     {
       "title": "White-collar AI apocalypse narrative is just another bullshit",
-      "summary": "Article URL: https://martynasm.com/2026/03/22/white-collar-ai-apocalypse-narrative-is-just-another-bullshit/ Comments URL: https://news.ycombinator.com/item?id=47486644 Points: 59 # Comments: 99",
+      "summary": "Article URL: https://martynasm.com/2026/03/22/white-collar-ai-apocalypse-narrative-is-just-another-bullshit/ Comments URL: https://news.ycombinator.com/item?id=47486644 Points: 59 # Comments: 102",
       "source": "Hacker News",
       "published": "2026-03-23T08:16:34+00:00",
       "link": "https://martynasm.com/2026/03/22/white-collar-ai-apocalypse-narrative-is-just-another-bullshit/"
@@ -241,7 +248,7 @@ const FEED_DATA = {
     },
     {
       "title": "What young workers are doing to AI-proof themselves",
-      "summary": "Article URL: https://www.wsj.com/economy/jobs/ai-jobs-young-people-careers-14282284 Comments URL: https://news.ycombinator.com/item?id=47480447 Points: 220 # Comments: 372",
+      "summary": "Article URL: https://www.wsj.com/economy/jobs/ai-jobs-young-people-careers-14282284 Comments URL: https://news.ycombinator.com/item?id=47480447 Points: 220 # Comments: 374",
       "source": "Hacker News",
       "published": "2026-03-22T18:18:01+00:00",
       "link": "https://www.wsj.com/economy/jobs/ai-jobs-young-people-careers-14282284"
@@ -360,7 +367,7 @@ const FEED_DATA = {
     },
     {
       "title": "How to attract AI bots to your open source project",
-      "summary": "Article URL: https://nesbitt.io/2026/03/21/how-to-attract-ai-bots-to-your-open-source-project.html Comments URL: https://news.ycombinator.com/item?id=47471271 Points: 171 # Comments: 29",
+      "summary": "Article URL: https://nesbitt.io/2026/03/21/how-to-attract-ai-bots-to-your-open-source-project.html Comments URL: https://news.ycombinator.com/item?id=47471271 Points: 172 # Comments: 29",
       "source": "Hacker News",
       "published": "2026-03-21T20:58:01+00:00",
       "link": "https://nesbitt.io/2026/03/21/how-to-attract-ai-bots-to-your-open-source-project.html"
@@ -402,7 +409,7 @@ const FEED_DATA = {
     },
     {
       "title": "Thinking Fast, Slow, and Artificial: How AI Is Reshaping Human Reasoning",
-      "summary": "Article URL: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6097646 Comments URL: https://news.ycombinator.com/item?id=47467913 Points: 193 # Comments: 117",
+      "summary": "Article URL: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6097646 Comments URL: https://news.ycombinator.com/item?id=47467913 Points: 195 # Comments: 117",
       "source": "Hacker News",
       "published": "2026-03-21T15:30:29+00:00",
       "link": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6097646"
@@ -1393,13 +1400,6 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-03-17T11:40:18+00:00",
       "link": "https://the-decoder.com/openai-reportedly-ditches-its-side-quests-strategy-to-focus-on-coding-tools-and-business-customers/"
-    },
-    {
-      "title": "How Invisalign Became the World’s Biggest User of 3D Printers",
-      "summary": "Joe Hogan, Align Technology’s plastics-nerd CEO, says you shouldn’t eat with your aligners and that you don’t need to wear your retainers every night.",
-      "source": "Wired",
-      "published": "2026-03-17T11:00:00+00:00",
-      "link": "https://www.wired.com/story/how-invisalign-became-the-worlds-biggest-3d-printing-company/"
     }
   ]
 };
