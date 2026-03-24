@@ -1,6 +1,48 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-03-24T19:55:53.065112+00:00",
+  "lastUpdated": "2026-03-24T22:04:48.206330+00:00",
   "items": [
+    {
+      "title": "OpenAI just gave up on Sora and its billion-dollar Disney deal",
+      "summary": "On Tuesday afternoon, OpenAI announced \"We're saying goodbye to Sora,\" the video generation tool that it launched at the end of 2024, and centered in a massive licensing deal with Disney only a few months ago.",
+      "source": "The Verge",
+      "published": "2026-03-24T21:08:10+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/899850/openai-sora-ai-chatgpt"
+    },
+    {
+      "title": "Anthropic hands Claude Code more control, but keeps it on a leash",
+      "summary": "Anthropic’s new auto mode for Claude Code lets AI execute tasks with fewer approvals, reflecting a broader shift toward more autonomous tools that balance speed with safety through built-in safeguards.",
+      "source": "TechCrunch",
+      "published": "2026-03-24T21:00:30+00:00",
+      "link": "https://techcrunch.com/2026/03/24/anthropic-hands-claude-code-more-control-but-keeps-it-on-a-leash/"
+    },
+    {
+      "title": "Spotify tests new tool to stop AI slop from being attributed to real artists",
+      "summary": "The idea behind the new tool is to give artists more control over which tracks are associated with their name on Spotify.",
+      "source": "TechCrunch",
+      "published": "2026-03-24T20:56:25+00:00",
+      "link": "https://techcrunch.com/2026/03/24/spotify-tests-new-tool-to-stop-ai-slop-from-being-attributed-to-real-artists/"
+    },
+    {
+      "title": "Arm’s first CPU ever will plug into Meta’s AI datacenters later this year",
+      "summary": "After decades of only licensing its chip designs for others to use, UK-based Arm revealed the first chip it's producing on its own, and the first customer.",
+      "source": "The Verge",
+      "published": "2026-03-24T20:43:14+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/899823/arm-agi-cpu-meta"
+    },
+    {
+      "title": "Databricks bought two startups to underpin its new AI security product",
+      "summary": "With an overflowing war chest from its recent $5 billion raise, Databricks is buying startups and looking for more. It acquired Antimatter and SiftD.ai.",
+      "source": "TechCrunch",
+      "published": "2026-03-24T20:40:56+00:00",
+      "link": "https://techcrunch.com/2026/03/24/databricks-buys-two-startups-lakewatch-antimatter-siftd-ai-security/"
+    },
+    {
+      "title": "Is anybody else bored of talking about AI?",
+      "summary": "Article URL: https://blog.jakesaunders.dev/is-anybody-else-bored-of-talking-about-ai/ Comments URL: https://news.ycombinator.com/item?id=47508745 Points: 307 # Comments: 226",
+      "source": "Hacker News",
+      "published": "2026-03-24T20:31:08+00:00",
+      "link": "https://blog.jakesaunders.dev/is-anybody-else-bored-of-talking-about-ai/"
+    },
     {
       "title": "Popular AI proxy LiteLLM got hacked with malware that spreads through Kubernetes clusters",
       "summary": "LiteLLM, a popular open-source proxy for AI APIs, has been compromised with malware that steals credentials and spreads across cloud systems. NVIDIA AI Director Jim Fan warns this represents a new class of attacks targeting AI agents.",
@@ -10,7 +52,7 @@ const FEED_DATA = {
     },
     {
       "title": "OpenAI’s plans to make ChatGPT more like Amazon aren’t going so well",
-      "summary": "OpenAI says its moving away from Instant Checkout, which allowed users to buy items directly through the ChatGPT interface.",
+      "summary": "OpenAI says it's moving away from Instant Checkout, which allowed users to buy items directly through the ChatGPT interface.",
       "source": "TechCrunch",
       "published": "2026-03-24T19:27:56+00:00",
       "link": "https://techcrunch.com/2026/03/24/openais-plans-to-make-chatgpt-more-like-amazon-arent-going-so-well/"
@@ -56,6 +98,13 @@ const FEED_DATA = {
       "source": "MIT Tech Review",
       "published": "2026-03-24T18:17:13+00:00",
       "link": "https://www.technologyreview.com/2026/03/24/1134531/exclusive-ebook-are-we-ready-to-hand-ai-agents-the-keys/"
+    },
+    {
+      "title": "The AI Industry Is Lying to You",
+      "summary": "Article URL: https://www.wheresyoured.at/the-ai-industry-is-lying-to-you/ Comments URL: https://news.ycombinator.com/item?id=47506259 Points: 145 # Comments: 107",
+      "source": "Hacker News",
+      "published": "2026-03-24T17:30:55+00:00",
+      "link": "https://www.wheresyoured.at/the-ai-industry-is-lying-to-you/"
     },
     {
       "title": "ChatGPT is turning into a shopping platform with product images, prices, and comparisons, but no checkout",
@@ -114,6 +163,13 @@ const FEED_DATA = {
       "link": "https://the-decoder.com/agile-robots-and-google-deepmind-team-up-to-bring-ai-powered-robots-to-factories/"
     },
     {
+      "title": "Hypura – A storage-tier-aware LLM inference scheduler for Apple Silicon",
+      "summary": "Article URL: https://github.com/t8/hypura Comments URL: https://news.ycombinator.com/item?id=47504695 Points: 171 # Comments: 72",
+      "source": "Hacker News",
+      "published": "2026-03-24T16:02:22+00:00",
+      "link": "https://github.com/t8/hypura"
+    },
+    {
       "title": "Meet the former Apple designer building a new AI interface at Hark",
       "summary": "The company said it would design models, hardware, and interfaces in tandem to deliver a \"seamless end-to-end personal intelligence product.\"",
       "source": "TechCrunch",
@@ -147,6 +203,20 @@ const FEED_DATA = {
       "source": "AI News",
       "published": "2026-03-24T15:22:00+00:00",
       "link": "https://www.artificialintelligence-news.com/news/quantum-resilient-ai-needs-migration-and-hardware-protected-data-enclaves/"
+    },
+    {
+      "title": "The bridge to wealth is being pulled up with AI",
+      "summary": "Article URL: https://danielhomola.com/m%20&%20e/ai/your-bridge-to-wealth-is-being-pulled-up/ Comments URL: https://news.ycombinator.com/item?id=47503296 Points: 253 # Comments: 367",
+      "source": "Hacker News",
+      "published": "2026-03-24T14:39:20+00:00",
+      "link": "https://danielhomola.com/m%20&%20e/ai/your-bridge-to-wealth-is-being-pulled-up/"
+    },
+    {
+      "title": "So where are all the AI apps?",
+      "summary": "Article URL: https://www.answer.ai/posts/2026-03-12-so-where-are-all-the-ai-apps.html Comments URL: https://news.ycombinator.com/item?id=47503006 Points: 360 # Comments: 327",
+      "source": "Hacker News",
+      "published": "2026-03-24T14:19:59+00:00",
+      "link": "https://www.answer.ai/posts/2026-03-12-so-where-are-all-the-ai-apps.html"
     },
     {
       "title": "Anthropic’s Claude Code and Cowork can control your computer",
@@ -191,6 +261,13 @@ const FEED_DATA = {
       "link": "https://the-decoder.com/nvidia-ceo-jensen-huang-the-idea-that-ai-will-destroy-software-is-ridiculous/"
     },
     {
+      "title": "LLM Neuroanatomy II: Modern LLM Hacking and Hints of a Universal Language?",
+      "summary": "Article URL: https://dnhkng.github.io/posts/rys-ii/ Comments URL: https://news.ycombinator.com/item?id=47500709 Points: 109 # Comments: 34",
+      "source": "Hacker News",
+      "published": "2026-03-24T10:33:54+00:00",
+      "link": "https://dnhkng.github.io/posts/rys-ii/"
+    },
+    {
       "title": "Chris Hayes Has Some Advice for Keeping Up With the News",
       "summary": "The host of MS Now’s All In, knows how hard it is to stay current. But he also knows where you should focus your attention—and it starts with a sober view of AI.",
       "source": "Wired",
@@ -209,18 +286,18 @@ const FEED_DATA = {
       "summary": "I use AI agents to build UI features daily. The thing that kept annoying me: the agent writes code but never sees what it actually looks like in the browser.",
       "source": "Hacker News",
       "published": "2026-03-24T07:46:46+00:00",
-      "link": "https://proofshot.argil.io/"
+      "link": "https://github.com/AmElmo/proofshot"
     },
     {
       "title": "I created my first AI-assisted pull request",
-      "summary": "Article URL: https://nelson.cloud/i-created-my-first-ai-assisted-pull-request-and-i-feel-like-a-fraud/ Comments URL: https://news.ycombinator.com/item?id=47497679 Points: 76 # Comments: 75",
+      "summary": "Article URL: https://nelson.cloud/i-created-my-first-ai-assisted-pull-request-and-i-feel-like-a-fraud/ Comments URL: https://news.ycombinator.com/item?id=47497679 Points: 81 # Comments: 76",
       "source": "Hacker News",
       "published": "2026-03-24T01:42:38+00:00",
       "link": "https://nelson.cloud/i-created-my-first-ai-assisted-pull-request-and-i-feel-like-a-fraud/"
     },
     {
       "title": "AI boom risks widening wealth divide, says BlackRock's Larry Fink",
-      "summary": "Article URL: https://www.theguardian.com/technology/2026/mar/23/ai-boom-risks-widening-wealth-divide-blackrock-larry-fink Comments URL: https://news.ycombinator.com/item?id=47496583 Points: 54 # Comments: 29",
+      "summary": "Article URL: https://www.theguardian.com/technology/2026/mar/23/ai-boom-risks-widening-wealth-divide-blackrock-larry-fink Comments URL: https://news.ycombinator.com/item?id=47496583 Points: 57 # Comments: 40",
       "source": "Hacker News",
       "published": "2026-03-23T23:32:17+00:00",
       "link": "https://www.theguardian.com/technology/2026/mar/23/ai-boom-risks-widening-wealth-divide-blackrock-larry-fink"
@@ -234,7 +311,7 @@ const FEED_DATA = {
     },
     {
       "title": "Chat GPT 5.2 cannot explain the German word \"geschniegelt\"",
-      "summary": "Article URL: https://old.reddit.com/r/ChatGPT/comments/1r4goxh/chat_gpt_52_cannot_explain_the_word_geschniegelt/ Comments URL: https://news.ycombinator.com/item?id=47495568 Points: 71 # Comments: 14",
+      "summary": "Article URL: https://old.reddit.com/r/ChatGPT/comments/1r4goxh/chat_gpt_52_cannot_explain_the_word_geschniegelt/ Comments URL: https://news.ycombinator.com/item?id=47495568 Points: 74 # Comments: 14",
       "source": "Hacker News",
       "published": "2026-03-23T21:47:42+00:00",
       "link": "https://old.reddit.com/r/ChatGPT/comments/1r4goxh/chat_gpt_52_cannot_explain_the_word_geschniegelt/"
@@ -283,7 +360,7 @@ const FEED_DATA = {
     },
     {
       "title": "Designing AI for Disruptive Science",
-      "summary": "Article URL: https://www.asimov.press/p/ai-science Comments URL: https://news.ycombinator.com/item?id=47493194 Points: 72 # Comments: 41",
+      "summary": "Article URL: https://www.asimov.press/p/ai-science Comments URL: https://news.ycombinator.com/item?id=47493194 Points: 74 # Comments: 42",
       "source": "Hacker News",
       "published": "2026-03-23T18:19:05+00:00",
       "link": "https://www.asimov.press/p/ai-science"
@@ -367,7 +444,7 @@ const FEED_DATA = {
     },
     {
       "title": "iPhone 17 Pro Demonstrated Running a 400B LLM",
-      "summary": "https://xcancel.com/anemll/status/2035901335984611412 Comments URL: https://news.ycombinator.com/item?id=47490070 Points: 634 # Comments: 281",
+      "summary": "https://xcancel.com/anemll/status/2035901335984611412 Comments URL: https://news.ycombinator.com/item?id=47490070 Points: 694 # Comments: 320",
       "source": "Hacker News",
       "published": "2026-03-23T14:30:10+00:00",
       "link": "https://twitter.com/anemll/status/2035901335984611412"
@@ -395,7 +472,7 @@ const FEED_DATA = {
     },
     {
       "title": "I built an AI receptionist for a mechanic shop",
-      "summary": "Article URL: https://www.itsthatlady.dev/blog/building-an-ai-receptionist-for-my-brother/ Comments URL: https://news.ycombinator.com/item?id=47487536 Points: 290 # Comments: 293",
+      "summary": "Article URL: https://www.itsthatlady.dev/blog/building-an-ai-receptionist-for-my-brother/ Comments URL: https://news.ycombinator.com/item?id=47487536 Points: 306 # Comments: 314",
       "source": "Hacker News",
       "published": "2026-03-23T10:32:33+00:00",
       "link": "https://www.itsthatlady.dev/blog/building-an-ai-receptionist-for-my-brother/"
@@ -423,7 +500,7 @@ const FEED_DATA = {
     },
     {
       "title": "White-collar AI apocalypse narrative is just another bullshit",
-      "summary": "Article URL: https://martynasm.com/2026/03/22/white-collar-ai-apocalypse-narrative-is-just-another-bullshit/ Comments URL: https://news.ycombinator.com/item?id=47486644 Points: 59 # Comments: 102",
+      "summary": "Article URL: https://martynasm.com/2026/03/22/white-collar-ai-apocalypse-narrative-is-just-another-bullshit/ Comments URL: https://news.ycombinator.com/item?id=47486644 Points: 59 # Comments: 105",
       "source": "Hacker News",
       "published": "2026-03-23T08:16:34+00:00",
       "link": "https://martynasm.com/2026/03/22/white-collar-ai-apocalypse-narrative-is-just-another-bullshit/"
@@ -437,7 +514,7 @@ const FEED_DATA = {
     },
     {
       "title": "Diverse perspectives on AI from Rust contributors and maintainers",
-      "summary": "Article URL: https://nikomatsakis.github.io/rust-project-perspectives-on-ai/feb27-summary.html Comments URL: https://news.ycombinator.com/item?id=47482825 Points: 156 # Comments: 82",
+      "summary": "Article URL: https://nikomatsakis.github.io/rust-project-perspectives-on-ai/feb27-summary.html Comments URL: https://news.ycombinator.com/item?id=47482825 Points: 159 # Comments: 82",
       "source": "Hacker News",
       "published": "2026-03-22T22:19:03+00:00",
       "link": "https://nikomatsakis.github.io/rust-project-perspectives-on-ai/feb27-summary.html"
@@ -458,7 +535,7 @@ const FEED_DATA = {
     },
     {
       "title": "What young workers are doing to AI-proof themselves",
-      "summary": "Article URL: https://www.wsj.com/economy/jobs/ai-jobs-young-people-careers-14282284 Comments URL: https://news.ycombinator.com/item?id=47480447 Points: 221 # Comments: 378",
+      "summary": "Article URL: https://www.wsj.com/economy/jobs/ai-jobs-young-people-careers-14282284 Comments URL: https://news.ycombinator.com/item?id=47480447 Points: 225 # Comments: 390",
       "source": "Hacker News",
       "published": "2026-03-22T18:18:01+00:00",
       "link": "https://www.wsj.com/economy/jobs/ai-jobs-young-people-careers-14282284"
@@ -1323,83 +1400,6 @@ const FEED_DATA = {
       "source": "Hacker News",
       "published": "2026-03-18T16:17:44+00:00",
       "link": "https://www.phoronix.com/news/Sashiko-Linux-AI-Code-Review"
-    },
-    {
-      "title": "This startup wants to make enterprise software look more like a prompt",
-      "summary": "The company has raised $12 million in seed funding to build an AI operating system for enterprise.",
-      "source": "TechCrunch",
-      "published": "2026-03-18T16:00:00+00:00",
-      "link": "https://techcrunch.com/2026/03/18/this-startup-wants-to-make-enterprise-software-look-more-like-a-prompt/"
-    },
-    {
-      "title": "Sequen snags $16M to bring TikTok-style personalization tech to any consumer company",
-      "summary": "With its Series A, Sequen is bringing its proprietary AI ranking and personalization technology to large consumer business.",
-      "source": "TechCrunch",
-      "published": "2026-03-18T15:58:50+00:00",
-      "link": "https://techcrunch.com/2026/03/18/sequen-snags-16m-to-bring-tiktok-style-personalization-tech-to-any-consumer-company/"
-    },
-    {
-      "title": "Microsoft hires the team of Sequoia-backed AI collaboration platform, Cove",
-      "summary": "AI collaboration startup Cove is shutting down after its team joined Microsoft, with service ending April 1 and customer data set for deletion.",
-      "source": "TechCrunch",
-      "published": "2026-03-18T15:33:49+00:00",
-      "link": "https://techcrunch.com/2026/03/18/microsoft-hires-the-team-of-sequioa-backed-ai-collaboration-platform-cove/"
-    },
-    {
-      "title": "Mastercard keeps tabs on fraud with new foundation model",
-      "summary": "Mastercard has developed a large tabular model (an LTM as opposed to an LLM) that’s trained on transaction data rather than text or images to help it address security and authenticity issues in digital payments.",
-      "source": "AI News",
-      "published": "2026-03-18T15:31:00+00:00",
-      "link": "https://www.artificialintelligence-news.com/news/mastercards-ltm-keeps-tabs-on-fraud-with-a-new-foundation-model/"
-    },
-    {
-      "title": "Snowflake AI Escapes Sandbox and Executes Malware",
-      "summary": "Article URL: https://www.promptarmor.com/resources/snowflake-ai-escapes-sandbox-and-executes-malware Comments URL: https://news.ycombinator.com/item?id=47427017 Points: 267 # Comments: 84",
-      "source": "Hacker News",
-      "published": "2026-03-18T15:30:07+00:00",
-      "link": "https://www.promptarmor.com/resources/snowflake-ai-escapes-sandbox-and-executes-malware"
-    },
-    {
-      "title": "The PhD students who became the judges of the AI industry",
-      "summary": "Artificial intelligence models are multiplying fast, and competition is stiff. With so many players crowding the space, which one will be the best — and who decides that?",
-      "source": "TechCrunch",
-      "published": "2026-03-18T15:00:00+00:00",
-      "link": "https://techcrunch.com/podcast/the-phd-students-who-became-the-judges-of-the-ai-industry/"
-    },
-    {
-      "title": "For effective AI, insurance needs to get its data house in order",
-      "summary": "A report from Autorek, a provider of AI solutions to the insurance industry has produced a report that describes operational drag in companies’ internal processes that not only affect overall efficiency but cause an impediment to the effective implementation of AI in insurance...",
-      "source": "AI News",
-      "published": "2026-03-18T14:37:00+00:00",
-      "link": "https://www.artificialintelligence-news.com/news/for-effective-ai-insurance-needs-a-better-data-layer-and-integration/"
-    },
-    {
-      "title": "DOD says Anthropic’s ‘red lines’ make it an ‘unacceptable risk to national security’",
-      "summary": "The Defense Department said concerns that Anthropic might \"attempt to disable its technology\" during \"warfighting operations\" validate its decision to label the AI firm a supply-chain risk.",
-      "source": "TechCrunch",
-      "published": "2026-03-18T13:40:43+00:00",
-      "link": "https://techcrunch.com/2026/03/18/dod-says-anthropics-red-lines-make-it-an-unacceptable-risk-to-national-security/"
-    },
-    {
-      "title": "The Download: The Pentagon’s new AI plans, and next-gen nuclear reactors",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.",
-      "source": "MIT Tech Review",
-      "published": "2026-03-18T12:38:00+00:00",
-      "link": "https://www.technologyreview.com/2026/03/18/1134371/the-download-the-pentagons-new-ai-plans-and-next-gen-nuclear-reactors/"
-    },
-    {
-      "title": "DLSS 5: Has Nvidia’s AI graphics technology gone too far?",
-      "summary": "Nvidia has revealed a new “3D guided neural rendering model” called DLSS 5 that can change a game’s lighting and materials in real-time, and… many gamers aren’t happy.",
-      "source": "The Verge",
-      "published": "2026-03-18T12:30:00+00:00",
-      "link": "https://www.theverge.com/games/896518/nvidia-dlss-5-ai-3d-rendering"
-    },
-    {
-      "title": "Midjourney V8 rolls out with 5x faster generation but charges 4x more for its best features",
-      "summary": "Midjourney is rolling out an early version of its new V8 model for community testing. Image generation is reportedly much faster and more detailed, but some features cost four times as much.",
-      "source": "The Decoder",
-      "published": "2026-03-18T11:05:24+00:00",
-      "link": "https://the-decoder.com/midjourney-v8-rolls-out-with-5x-faster-generation-but-charges-4x-more-for-its-best-features/"
     }
   ]
 };
