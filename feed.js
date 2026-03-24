@@ -1,6 +1,27 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-03-23T22:00:33.583609+00:00",
+  "lastUpdated": "2026-03-24T05:40:29.600891+00:00",
   "items": [
+    {
+      "title": "I created my first AI-assisted pull request",
+      "summary": "Article URL: https://nelson.cloud/i-created-my-first-ai-assisted-pull-request-and-i-feel-like-a-fraud/ Comments URL: https://news.ycombinator.com/item?id=47497679 Points: 66 # Comments: 69",
+      "source": "Hacker News",
+      "published": "2026-03-24T01:42:38+00:00",
+      "link": "https://nelson.cloud/i-created-my-first-ai-assisted-pull-request-and-i-feel-like-a-fraud/"
+    },
+    {
+      "title": "Air Street becomes one of the largest solo VCs in Europe with $232M fund",
+      "summary": "London’s Air Street Capital has raised a large Fund III with eyes locked on backing early-stage European and North American AI companies.",
+      "source": "TechCrunch",
+      "published": "2026-03-23T22:36:39+00:00",
+      "link": "https://techcrunch.com/2026/03/23/air-street-becomes-one-of-the-largest-solo-vcs-in-europe-with-232m-fund/"
+    },
+    {
+      "title": "Chat GPT 5.2 cannot explain the German word \"geschniegelt\"",
+      "summary": "Article URL: https://old.reddit.com/r/ChatGPT/comments/1r4goxh/chat_gpt_52_cannot_explain_the_word_geschniegelt/ Comments URL: https://news.ycombinator.com/item?id=47495568 Points: 65 # Comments: 12",
+      "source": "Hacker News",
+      "published": "2026-03-23T21:47:42+00:00",
+      "link": "https://old.reddit.com/r/ChatGPT/comments/1r4goxh/chat_gpt_52_cannot_explain_the_word_geschniegelt/"
+    },
     {
       "title": "Bernie Sanders’ AI ‘gotcha’ video flops, but the memes are great",
       "summary": "Sen. Bernie Sanders thinks he's tricked Claude into revealing the AI industry's secrets, but he really just exposed how agreeable chatbots can become.",
@@ -44,6 +65,13 @@ const FEED_DATA = {
       "link": "https://techcrunch.com/2026/03/23/vibe-coding-startup-lovable-is-on-the-hunt-for-acquisitions/"
     },
     {
+      "title": "Designing AI for Disruptive Science",
+      "summary": "Article URL: https://www.asimov.press/p/ai-science Comments URL: https://news.ycombinator.com/item?id=47493194 Points: 69 # Comments: 39",
+      "source": "Hacker News",
+      "published": "2026-03-23T18:19:05+00:00",
+      "link": "https://www.asimov.press/p/ai-science"
+    },
+    {
       "title": "OpenAI lures private equity firms with guaranteed returns in race against Anthropic",
       "summary": "OpenAI is sweetening the deal for private equity firms with a guaranteed 17.5 percent minimum return to win them over for enterprise joint ventures. The article OpenAI lures private equity firms with guaranteed returns in race against Anthropic appeared first on The Decoder.",
       "source": "The Decoder",
@@ -77,6 +105,13 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-03-23T16:12:07+00:00",
       "link": "https://the-decoder.com/openseekers-open-source-approach-aims-to-break-up-the-data-monopoly-for-ai-search-agents/"
+    },
+    {
+      "title": "Show HN: Cq – Stack Overflow for AI coding agents",
+      "summary": "Hi all, I'm Peter at Staff Engineer and Mozilla.ai and I want to share our idea for a standard for shared agent learning, conceptually it seemed to fit easily in my mental model as a Stack Overflow for agents.The project is trying to see if we can get agents (any agent, any...",
+      "source": "Hacker News",
+      "published": "2026-03-23T16:11:03+00:00",
+      "link": "https://blog.mozilla.ai/cq-stack-overflow-for-agents/"
     },
     {
       "title": "Startup Gimlet Labs is solving the AI inference bottleneck in a surprisingly elegant way",
@@ -115,7 +150,7 @@ const FEED_DATA = {
     },
     {
       "title": "iPhone 17 Pro Demonstrated Running a 400B LLM",
-      "summary": "https://xcancel.com/anemll/status/2035901335984611412 Comments URL: https://news.ycombinator.com/item?id=47490070 Points: 397 # Comments: 213",
+      "summary": "https://xcancel.com/anemll/status/2035901335984611412 Comments URL: https://news.ycombinator.com/item?id=47490070 Points: 544 # Comments: 253",
       "source": "Hacker News",
       "published": "2026-03-23T14:30:10+00:00",
       "link": "https://twitter.com/anemll/status/2035901335984611412"
@@ -143,7 +178,7 @@ const FEED_DATA = {
     },
     {
       "title": "I built an AI receptionist for a mechanic shop",
-      "summary": "Article URL: https://www.itsthatlady.dev/blog/building-an-ai-receptionist-for-my-brother/ Comments URL: https://news.ycombinator.com/item?id=47487536 Points: 168 # Comments: 195",
+      "summary": "Article URL: https://www.itsthatlady.dev/blog/building-an-ai-receptionist-for-my-brother/ Comments URL: https://news.ycombinator.com/item?id=47487536 Points: 242 # Comments: 265",
       "source": "Hacker News",
       "published": "2026-03-23T10:32:33+00:00",
       "link": "https://www.itsthatlady.dev/blog/building-an-ai-receptionist-for-my-brother/"
@@ -171,7 +206,7 @@ const FEED_DATA = {
     },
     {
       "title": "White-collar AI apocalypse narrative is just another bullshit",
-      "summary": "Article URL: https://martynasm.com/2026/03/22/white-collar-ai-apocalypse-narrative-is-just-another-bullshit/ Comments URL: https://news.ycombinator.com/item?id=47486644 Points: 59 # Comments: 98",
+      "summary": "Article URL: https://martynasm.com/2026/03/22/white-collar-ai-apocalypse-narrative-is-just-another-bullshit/ Comments URL: https://news.ycombinator.com/item?id=47486644 Points: 59 # Comments: 99",
       "source": "Hacker News",
       "published": "2026-03-23T08:16:34+00:00",
       "link": "https://martynasm.com/2026/03/22/white-collar-ai-apocalypse-narrative-is-just-another-bullshit/"
@@ -185,7 +220,7 @@ const FEED_DATA = {
     },
     {
       "title": "Diverse perspectives on AI from Rust contributors and maintainers",
-      "summary": "Article URL: https://nikomatsakis.github.io/rust-project-perspectives-on-ai/feb27-summary.html Comments URL: https://news.ycombinator.com/item?id=47482825 Points: 148 # Comments: 81",
+      "summary": "Article URL: https://nikomatsakis.github.io/rust-project-perspectives-on-ai/feb27-summary.html Comments URL: https://news.ycombinator.com/item?id=47482825 Points: 154 # Comments: 81",
       "source": "Hacker News",
       "published": "2026-03-22T22:19:03+00:00",
       "link": "https://nikomatsakis.github.io/rust-project-perspectives-on-ai/feb27-summary.html"
@@ -206,7 +241,7 @@ const FEED_DATA = {
     },
     {
       "title": "What young workers are doing to AI-proof themselves",
-      "summary": "Article URL: https://www.wsj.com/economy/jobs/ai-jobs-young-people-careers-14282284 Comments URL: https://news.ycombinator.com/item?id=47480447 Points: 217 # Comments: 358",
+      "summary": "Article URL: https://www.wsj.com/economy/jobs/ai-jobs-young-people-careers-14282284 Comments URL: https://news.ycombinator.com/item?id=47480447 Points: 220 # Comments: 372",
       "source": "Hacker News",
       "published": "2026-03-22T18:18:01+00:00",
       "link": "https://www.wsj.com/economy/jobs/ai-jobs-young-people-careers-14282284"
@@ -318,14 +353,14 @@ const FEED_DATA = {
     },
     {
       "title": "The Impact of AI on Game Dev Jobs. Open to Work Crisis",
-      "summary": "Article URL: https://darkounity.com/blog-post?id=the-impact-of-ai-on-game-dev-jobs-open-to-work-crisis--1774128585922 Comments URL: https://news.ycombinator.com/item?id=47471943 Points: 84 # Comments: 70",
+      "summary": "Article URL: https://darkounity.com/blog-post?id=the-impact-of-ai-on-game-dev-jobs-open-to-work-crisis--1774128585922 Comments URL: https://news.ycombinator.com/item?id=47471943 Points: 85 # Comments: 70",
       "source": "Hacker News",
       "published": "2026-03-21T22:03:05+00:00",
       "link": "https://darkounity.com/blog-post?id=the-impact-of-ai-on-game-dev-jobs-open-to-work-crisis--1774128585922"
     },
     {
       "title": "How to attract AI bots to your open source project",
-      "summary": "Article URL: https://nesbitt.io/2026/03/21/how-to-attract-ai-bots-to-your-open-source-project.html Comments URL: https://news.ycombinator.com/item?id=47471271 Points: 165 # Comments: 28",
+      "summary": "Article URL: https://nesbitt.io/2026/03/21/how-to-attract-ai-bots-to-your-open-source-project.html Comments URL: https://news.ycombinator.com/item?id=47471271 Points: 171 # Comments: 29",
       "source": "Hacker News",
       "published": "2026-03-21T20:58:01+00:00",
       "link": "https://nesbitt.io/2026/03/21/how-to-attract-ai-bots-to-your-open-source-project.html"
@@ -367,14 +402,14 @@ const FEED_DATA = {
     },
     {
       "title": "Thinking Fast, Slow, and Artificial: How AI Is Reshaping Human Reasoning",
-      "summary": "Article URL: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6097646 Comments URL: https://news.ycombinator.com/item?id=47467913 Points: 193 # Comments: 116",
+      "summary": "Article URL: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6097646 Comments URL: https://news.ycombinator.com/item?id=47467913 Points: 193 # Comments: 117",
       "source": "Hacker News",
       "published": "2026-03-21T15:30:29+00:00",
       "link": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6097646"
     },
     {
       "title": "Senior European journalist suspended over AI-generated quotes",
-      "summary": "Article URL: https://www.theguardian.com/technology/2026/mar/20/mediahuis-suspends-senior-journalist-over-ai-generated-quotes Comments URL: https://news.ycombinator.com/item?id=47467566 Points: 92 # Comments: 79",
+      "summary": "Article URL: https://www.theguardian.com/technology/2026/mar/20/mediahuis-suspends-senior-journalist-over-ai-generated-quotes Comments URL: https://news.ycombinator.com/item?id=47467566 Points: 93 # Comments: 79",
       "source": "Hacker News",
       "published": "2026-03-21T14:50:13+00:00",
       "link": "https://www.theguardian.com/technology/2026/mar/20/mediahuis-suspends-senior-journalist-over-ai-generated-quotes"
@@ -423,7 +458,7 @@ const FEED_DATA = {
     },
     {
       "title": "Atuin v18.13 – better search, a PTY proxy, and AI for your shell",
-      "summary": "Article URL: https://blog.atuin.sh/atuin-v18-13/ Comments URL: https://news.ycombinator.com/item?id=47465824 Points: 93 # Comments: 80",
+      "summary": "Article URL: https://blog.atuin.sh/atuin-v18-13/ Comments URL: https://news.ycombinator.com/item?id=47465824 Points: 94 # Comments: 80",
       "source": "Hacker News",
       "published": "2026-03-21T10:35:20+00:00",
       "link": "https://blog.atuin.sh/atuin-v18-13/"
@@ -458,7 +493,7 @@ const FEED_DATA = {
     },
     {
       "title": "Blocking Internet Archive Won't Stop AI, but Will Erase Web's Historical Record",
-      "summary": "Article URL: https://www.eff.org/deeplinks/2026/03/blocking-internet-archive-wont-stop-ai-it-will-erase-webs-historical-record Comments URL: https://news.ycombinator.com/item?id=47464818 Points: 563 # Comments: 159",
+      "summary": "Article URL: https://www.eff.org/deeplinks/2026/03/blocking-internet-archive-wont-stop-ai-it-will-erase-webs-historical-record Comments URL: https://news.ycombinator.com/item?id=47464818 Points: 565 # Comments: 159",
       "source": "Hacker News",
       "published": "2026-03-21T07:30:16+00:00",
       "link": "https://www.eff.org/deeplinks/2026/03/blocking-internet-archive-wont-stop-ai-it-will-erase-webs-historical-record"
@@ -479,7 +514,7 @@ const FEED_DATA = {
     },
     {
       "title": "Pentagon to adopt Palantir AI as core US Military system",
-      "summary": "Article URL: https://www.reuters.com/technology/pentagon-adopt-palantir-ai-as-core-us-military-system-memo-says-2026-03-20/ Comments URL: https://news.ycombinator.com/item?id=47462491 Points: 64 # Comments: 8",
+      "summary": "Article URL: https://www.reuters.com/technology/pentagon-adopt-palantir-ai-as-core-us-military-system-memo-says-2026-03-20/ Comments URL: https://news.ycombinator.com/item?id=47462491 Points: 65 # Comments: 8",
       "source": "Hacker News",
       "published": "2026-03-20T23:58:29+00:00",
       "link": "https://www.reuters.com/technology/pentagon-adopt-palantir-ai-as-core-us-military-system-memo-says-2026-03-20/"
@@ -1365,41 +1400,6 @@ const FEED_DATA = {
       "source": "Wired",
       "published": "2026-03-17T11:00:00+00:00",
       "link": "https://www.wired.com/story/how-invisalign-became-the-worlds-biggest-3d-printing-company/"
-    },
-    {
-      "title": "Goldman Sachs sees AI investment shift to data centres",
-      "summary": "Artificial intelligence investment is entering a more selective phase as companies and investors look beyond early excitement and focus on the data centre infrastructure required to run AI systems.",
-      "source": "AI News",
-      "published": "2026-03-17T10:00:00+00:00",
-      "link": "https://www.artificialintelligence-news.com/news/goldman-sachs-sees-ai-investment-shift-to-data-centres/"
-    },
-    {
-      "title": "Sears Exposed AI Chatbot Phone Calls and Text Chats to Anyone on the Web",
-      "summary": "Customer conversations with chatbots can include contact information and personal details that make it easier for scammers to launch phishing attacks and commit fraud.",
-      "source": "Wired",
-      "published": "2026-03-17T10:00:00+00:00",
-      "link": "https://www.wired.com/story/sears-exposed-ai-chatbot-phone-calls-and-text-chats-to-anyone-on-the-web/"
-    },
-    {
-      "title": "Mistral's new Small 4 model punches above its weight with 128 expert modules",
-      "summary": "Mistral AI has released Mistral Small 4, combining fast text responses, logical reasoning, and image processing in one model. The article Mistral's new Small 4 model punches above its weight with 128 expert modules appeared first on The Decoder.",
-      "source": "The Decoder",
-      "published": "2026-03-17T09:56:01+00:00",
-      "link": "https://the-decoder.com/mistrals-new-small-4-model-punches-above-its-weight-with-128-expert-modules/"
-    },
-    {
-      "title": "Picsart now allows creators to ‘hire’ AI assistants through agent marketplace",
-      "summary": "Picsart's AI agent marketplace will launch with four agents, then add more agents each week.",
-      "source": "TechCrunch",
-      "published": "2026-03-17T04:01:00+00:00",
-      "link": "https://techcrunch.com/2026/03/16/picsart-now-allows-creators-to-hire-ai-assistants-through-agent-marketplace/"
-    },
-    {
-      "title": "AI still doesn't work well, businesses are faking it, and a reckoning is coming",
-      "summary": "Article URL: https://www.theregister.com/2026/03/17/ai_businesses_faking_it_reckoning_coming_codestrap/ Comments URL: https://news.ycombinator.com/item?id=47407252 Points: 78 # Comments: 27",
-      "source": "Hacker News",
-      "published": "2026-03-17T00:56:47+00:00",
-      "link": "https://www.theregister.com/2026/03/17/ai_businesses_faking_it_reckoning_coming_codestrap/"
     }
   ]
 };
