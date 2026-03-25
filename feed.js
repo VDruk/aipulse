@@ -1,5 +1,5 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-03-25T05:41:37.317149+00:00",
+  "lastUpdated": "2026-03-25T07:59:42.897602+00:00",
   "items": [
     {
       "title": "With $3.5B in fresh capital, Kleiner Perkins is going all in on AI",
