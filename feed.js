@@ -1,6 +1,62 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-03-25T07:59:42.897602+00:00",
+  "lastUpdated": "2026-03-25T11:28:07.665583+00:00",
   "items": [
+    {
+      "title": "Lucid Bots raises $20M to keep up with demand for its window-washing drones",
+      "summary": "Lucid Bots has seen demand accelerate over the last year for its window cleaning drones and power washing robots.",
+      "source": "TechCrunch",
+      "published": "2026-03-25T11:00:00+00:00",
+      "link": "https://techcrunch.com/2026/03/25/lucid-bots-raises-20m-to-keep-up-with-demand-for-its-window-washing-drones/"
+    },
+    {
+      "title": "Disney pulls out of OpenAI partnership after Sora app and API gets killed just months after launch",
+      "summary": "OpenAI is shutting down its Sora app and API. Disney is now walking away from the billion-dollar deal the two companies signed just last December.",
+      "source": "The Decoder",
+      "published": "2026-03-25T10:52:09+00:00",
+      "link": "https://the-decoder.com/disney-pulls-out-of-openai-partnership-after-sora-app-and-api-gets-killed-just-months-after-launch/"
+    },
+    {
+      "title": "OpenAI expands its record funding round to over $120 billion as it eyes a potential IPO later this year",
+      "summary": "OpenAI adds another 10 billion dollars to its record financing round, bringing the total past 120 billion dollars ahead of a potential IPO.",
+      "source": "The Decoder",
+      "published": "2026-03-25T10:16:14+00:00",
+      "link": "https://the-decoder.com/openai-expands-its-record-funding-round-to-over-120-billion-as-it-eyes-a-potential-ipo-later-this-year/"
+    },
+    {
+      "title": "Arm’s CEO Insists the Market Needs His New CPU. It Could Piss Everyone Off",
+      "summary": "Arm just confirmed the rumors: It’s producing its own chip for the first time. CEO Rene Haas explains why this won’t alienate the many chipmakers who license the company’s designs.",
+      "source": "Wired",
+      "published": "2026-03-25T10:00:00+00:00",
+      "link": "https://www.wired.com/story/arms-ceo-insists-the-market-needs-his-new-cpu-it-could-piss-everyone-off/"
+    },
+    {
+      "title": "AI agents enter banking roles at Bank of America",
+      "summary": "AI agents are starting to take on a more direct role in how financial advice is delivered, as large banks move beyond internal tools and into systems that support real client interactions.",
+      "source": "AI News",
+      "published": "2026-03-25T10:00:00+00:00",
+      "link": "https://www.artificialintelligence-news.com/news/ai-agents-enter-banking-roles-at-bank-of-america/"
+    },
+    {
+      "title": "Claude Code's new Auto Mode tries to balance safety and speed",
+      "summary": "Developers using Claude Code have faced an awkward choice: approve every single action manually or turn off all safety checks entirely. Anthropic's new Auto Mode aims to offer a middle ground.",
+      "source": "The Decoder",
+      "published": "2026-03-25T09:56:16+00:00",
+      "link": "https://the-decoder.com/claude-codes-new-auto-mode-tries-to-balance-safety-and-speed/"
+    },
+    {
+      "title": "The AI Hype Index: AI goes to war",
+      "summary": "AI is at war. Anthropic and the Pentagon feuded over how to weaponize Anthropic’s AI model Claude; then OpenAI swept the Pentagon off its feet with an “opportunistic and sloppy” deal.",
+      "source": "MIT Tech Review",
+      "published": "2026-03-25T09:00:00+00:00",
+      "link": "https://www.technologyreview.com/2026/03/25/1134571/the-ai-hype-index-ai-goes-to-war/"
+    },
+    {
+      "title": "TurboQuant: Redefining AI efficiency with extreme compression",
+      "summary": "Article URL: https://research.google/blog/turboquant-redefining-ai-efficiency-with-extreme-compression/ Comments URL: https://news.ycombinator.com/item?id=47513475 Points: 194 # Comments: 40",
+      "source": "Hacker News",
+      "published": "2026-03-25T05:00:54+00:00",
+      "link": "https://research.google/blog/turboquant-redefining-ai-efficiency-with-extreme-compression/"
+    },
     {
       "title": "With $3.5B in fresh capital, Kleiner Perkins is going all in on AI",
       "summary": "The fundraise includes $1 billion for investing in early-stage startups, and $2.5 billion for late-stage growth businesses.",
@@ -35,6 +91,13 @@ const FEED_DATA = {
       "source": "The Verge",
       "published": "2026-03-24T21:08:10+00:00",
       "link": "https://www.theverge.com/ai-artificial-intelligence/899850/openai-sora-ai-chatgpt"
+    },
+    {
+      "title": "Disney Exits OpenAI Deal After AI Giant Shutters Sora",
+      "summary": "Article URL: https://www.hollywoodreporter.com/business/digital/openai-shutting-down-sora-ai-video-app-1236546187/ Comments URL: https://news.ycombinator.com/item?id=47509234 Points: 204 # Comments: 3",
+      "source": "Hacker News",
+      "published": "2026-03-24T21:01:21+00:00",
+      "link": "https://www.hollywoodreporter.com/business/digital/openai-shutting-down-sora-ai-video-app-1236546187/"
     },
     {
       "title": "Anthropic hands Claude Code more control, but keeps it on a leash",
@@ -73,7 +136,7 @@ const FEED_DATA = {
     },
     {
       "title": "Is anybody else bored of talking about AI?",
-      "summary": "Article URL: https://blog.jakesaunders.dev/is-anybody-else-bored-of-talking-about-ai/ Comments URL: https://news.ycombinator.com/item?id=47508745 Points: 307 # Comments: 226",
+      "summary": "Article URL: https://blog.jakesaunders.dev/is-anybody-else-bored-of-talking-about-ai/ Comments URL: https://news.ycombinator.com/item?id=47508745 Points: 654 # Comments: 445",
       "source": "Hacker News",
       "published": "2026-03-24T20:31:08+00:00",
       "link": "https://blog.jakesaunders.dev/is-anybody-else-bored-of-talking-about-ai/"
@@ -91,6 +154,13 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-03-24T19:27:56+00:00",
       "link": "https://techcrunch.com/2026/03/24/openais-plans-to-make-chatgpt-more-like-amazon-arent-going-so-well/"
+    },
+    {
+      "title": "Show HN: AI Roundtable – Let 200 models debate your question",
+      "summary": "Hey HN! After the Car Wash Test post got quite a big discussion going (400+ comments, https://news.ycombinator.com/item?id=47128138), I spent the past few weeks building a tool so anyone can run these kinds of questions and get structured results.",
+      "source": "Hacker News",
+      "published": "2026-03-24T19:15:27+00:00",
+      "link": "https://opper.ai/ai-roundtable/"
     },
     {
       "title": "Google TV’s new Gemini features keep fans updated on sports teams and more",
@@ -136,7 +206,7 @@ const FEED_DATA = {
     },
     {
       "title": "The AI Industry Is Lying to You",
-      "summary": "Article URL: https://www.wheresyoured.at/the-ai-industry-is-lying-to-you/ Comments URL: https://news.ycombinator.com/item?id=47506259 Points: 145 # Comments: 107",
+      "summary": "Article URL: https://www.wheresyoured.at/the-ai-industry-is-lying-to-you/ Comments URL: https://news.ycombinator.com/item?id=47506259 Points: 154 # Comments: 123",
       "source": "Hacker News",
       "published": "2026-03-24T17:30:55+00:00",
       "link": "https://www.wheresyoured.at/the-ai-industry-is-lying-to-you/"
@@ -199,7 +269,7 @@ const FEED_DATA = {
     },
     {
       "title": "Hypura – A storage-tier-aware LLM inference scheduler for Apple Silicon",
-      "summary": "Article URL: https://github.com/t8/hypura Comments URL: https://news.ycombinator.com/item?id=47504695 Points: 171 # Comments: 72",
+      "summary": "Article URL: https://github.com/t8/hypura Comments URL: https://news.ycombinator.com/item?id=47504695 Points: 207 # Comments: 77",
       "source": "Hacker News",
       "published": "2026-03-24T16:02:22+00:00",
       "link": "https://github.com/t8/hypura"
@@ -241,14 +311,14 @@ const FEED_DATA = {
     },
     {
       "title": "The bridge to wealth is being pulled up with AI",
-      "summary": "Article URL: https://danielhomola.com/m%20&%20e/ai/your-bridge-to-wealth-is-being-pulled-up/ Comments URL: https://news.ycombinator.com/item?id=47503296 Points: 253 # Comments: 367",
+      "summary": "Article URL: https://danielhomola.com/m%20&%20e/ai/your-bridge-to-wealth-is-being-pulled-up/ Comments URL: https://news.ycombinator.com/item?id=47503296 Points: 262 # Comments: 382",
       "source": "Hacker News",
       "published": "2026-03-24T14:39:20+00:00",
       "link": "https://danielhomola.com/m%20&%20e/ai/your-bridge-to-wealth-is-being-pulled-up/"
     },
     {
       "title": "So where are all the AI apps?",
-      "summary": "Article URL: https://www.answer.ai/posts/2026-03-12-so-where-are-all-the-ai-apps.html Comments URL: https://news.ycombinator.com/item?id=47503006 Points: 360 # Comments: 327",
+      "summary": "Article URL: https://www.answer.ai/posts/2026-03-12-so-where-are-all-the-ai-apps.html Comments URL: https://news.ycombinator.com/item?id=47503006 Points: 406 # Comments: 377",
       "source": "Hacker News",
       "published": "2026-03-24T14:19:59+00:00",
       "link": "https://www.answer.ai/posts/2026-03-12-so-where-are-all-the-ai-apps.html"
@@ -297,7 +367,7 @@ const FEED_DATA = {
     },
     {
       "title": "LLM Neuroanatomy II: Modern LLM Hacking and Hints of a Universal Language?",
-      "summary": "Article URL: https://dnhkng.github.io/posts/rys-ii/ Comments URL: https://news.ycombinator.com/item?id=47500709 Points: 109 # Comments: 34",
+      "summary": "Article URL: https://dnhkng.github.io/posts/rys-ii/ Comments URL: https://news.ycombinator.com/item?id=47500709 Points: 128 # Comments: 36",
       "source": "Hacker News",
       "published": "2026-03-24T10:33:54+00:00",
       "link": "https://dnhkng.github.io/posts/rys-ii/"
@@ -325,14 +395,14 @@ const FEED_DATA = {
     },
     {
       "title": "I created my first AI-assisted pull request",
-      "summary": "Article URL: https://nelson.cloud/i-created-my-first-ai-assisted-pull-request-and-i-feel-like-a-fraud/ Comments URL: https://news.ycombinator.com/item?id=47497679 Points: 81 # Comments: 76",
+      "summary": "Article URL: https://nelson.cloud/i-created-my-first-ai-assisted-pull-request-and-i-feel-like-a-fraud/ Comments URL: https://news.ycombinator.com/item?id=47497679 Points: 84 # Comments: 77",
       "source": "Hacker News",
       "published": "2026-03-24T01:42:38+00:00",
       "link": "https://nelson.cloud/i-created-my-first-ai-assisted-pull-request-and-i-feel-like-a-fraud/"
     },
     {
       "title": "AI boom risks widening wealth divide, says BlackRock's Larry Fink",
-      "summary": "Article URL: https://www.theguardian.com/technology/2026/mar/23/ai-boom-risks-widening-wealth-divide-blackrock-larry-fink Comments URL: https://news.ycombinator.com/item?id=47496583 Points: 57 # Comments: 40",
+      "summary": "Article URL: https://www.theguardian.com/technology/2026/mar/23/ai-boom-risks-widening-wealth-divide-blackrock-larry-fink Comments URL: https://news.ycombinator.com/item?id=47496583 Points: 58 # Comments: 45",
       "source": "Hacker News",
       "published": "2026-03-23T23:32:17+00:00",
       "link": "https://www.theguardian.com/technology/2026/mar/23/ai-boom-risks-widening-wealth-divide-blackrock-larry-fink"
@@ -395,7 +465,7 @@ const FEED_DATA = {
     },
     {
       "title": "Designing AI for Disruptive Science",
-      "summary": "Article URL: https://www.asimov.press/p/ai-science Comments URL: https://news.ycombinator.com/item?id=47493194 Points: 74 # Comments: 42",
+      "summary": "Article URL: https://www.asimov.press/p/ai-science Comments URL: https://news.ycombinator.com/item?id=47493194 Points: 76 # Comments: 43",
       "source": "Hacker News",
       "published": "2026-03-23T18:19:05+00:00",
       "link": "https://www.asimov.press/p/ai-science"
@@ -479,7 +549,7 @@ const FEED_DATA = {
     },
     {
       "title": "iPhone 17 Pro Demonstrated Running a 400B LLM",
-      "summary": "https://xcancel.com/anemll/status/2035901335984611412 Comments URL: https://news.ycombinator.com/item?id=47490070 Points: 694 # Comments: 320",
+      "summary": "https://xcancel.com/anemll/status/2035901335984611412 Comments URL: https://news.ycombinator.com/item?id=47490070 Points: 699 # Comments: 320",
       "source": "Hacker News",
       "published": "2026-03-23T14:30:10+00:00",
       "link": "https://twitter.com/anemll/status/2035901335984611412"
@@ -507,7 +577,7 @@ const FEED_DATA = {
     },
     {
       "title": "I built an AI receptionist for a mechanic shop",
-      "summary": "Article URL: https://www.itsthatlady.dev/blog/building-an-ai-receptionist-for-my-brother/ Comments URL: https://news.ycombinator.com/item?id=47487536 Points: 306 # Comments: 314",
+      "summary": "Article URL: https://www.itsthatlady.dev/blog/building-an-ai-receptionist-for-my-brother/ Comments URL: https://news.ycombinator.com/item?id=47487536 Points: 312 # Comments: 319",
       "source": "Hacker News",
       "published": "2026-03-23T10:32:33+00:00",
       "link": "https://www.itsthatlady.dev/blog/building-an-ai-receptionist-for-my-brother/"
@@ -535,7 +605,7 @@ const FEED_DATA = {
     },
     {
       "title": "White-collar AI apocalypse narrative is just another bullshit",
-      "summary": "Article URL: https://martynasm.com/2026/03/22/white-collar-ai-apocalypse-narrative-is-just-another-bullshit/ Comments URL: https://news.ycombinator.com/item?id=47486644 Points: 59 # Comments: 105",
+      "summary": "Article URL: https://martynasm.com/2026/03/22/white-collar-ai-apocalypse-narrative-is-just-another-bullshit/ Comments URL: https://news.ycombinator.com/item?id=47486644 Points: 59 # Comments: 104",
       "source": "Hacker News",
       "published": "2026-03-23T08:16:34+00:00",
       "link": "https://martynasm.com/2026/03/22/white-collar-ai-apocalypse-narrative-is-just-another-bullshit/"
@@ -549,7 +619,7 @@ const FEED_DATA = {
     },
     {
       "title": "Diverse perspectives on AI from Rust contributors and maintainers",
-      "summary": "Article URL: https://nikomatsakis.github.io/rust-project-perspectives-on-ai/feb27-summary.html Comments URL: https://news.ycombinator.com/item?id=47482825 Points: 159 # Comments: 82",
+      "summary": "Article URL: https://nikomatsakis.github.io/rust-project-perspectives-on-ai/feb27-summary.html Comments URL: https://news.ycombinator.com/item?id=47482825 Points: 160 # Comments: 82",
       "source": "Hacker News",
       "published": "2026-03-22T22:19:03+00:00",
       "link": "https://nikomatsakis.github.io/rust-project-perspectives-on-ai/feb27-summary.html"
@@ -570,7 +640,7 @@ const FEED_DATA = {
     },
     {
       "title": "What young workers are doing to AI-proof themselves",
-      "summary": "Article URL: https://www.wsj.com/economy/jobs/ai-jobs-young-people-careers-14282284 Comments URL: https://news.ycombinator.com/item?id=47480447 Points: 225 # Comments: 390",
+      "summary": "Article URL: https://www.wsj.com/economy/jobs/ai-jobs-young-people-careers-14282284 Comments URL: https://news.ycombinator.com/item?id=47480447 Points: 225 # Comments: 396",
       "source": "Hacker News",
       "published": "2026-03-22T18:18:01+00:00",
       "link": "https://www.wsj.com/economy/jobs/ai-jobs-young-people-careers-14282284"
@@ -1330,76 +1400,6 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-03-18T20:01:19+00:00",
       "link": "https://techcrunch.com/2026/03/18/nvidia-networking-division-building-a-multibillion-dollar-behemoth-to-rival-its-chips-business/"
-    },
-    {
-      "title": "Google Deepmind upgrades Gemini API with multi-tool chaining and context circulation",
-      "summary": "Google Deepmind is expanding the Gemini API: developers can now combine multiple tools in a single request and tap into Google Maps as a data source. The article Google Deepmind upgrades Gemini API with multi-tool chaining and context circulation appeared first on The Decoder.",
-      "source": "The Decoder",
-      "published": "2026-03-18T19:50:24+00:00",
-      "link": "https://the-decoder.com/google-deepmind-upgrades-gemini-api-with-multi-tool-chaining-and-context-circulation/"
-    },
-    {
-      "title": "Trump’s AI chief’s big Iran warning gets big time ignored",
-      "summary": "Hello and welcome to Regulator, a newsletter for Verge subscribers about the politics of technology and the technology of politics - now landing in your inbox on Wednesdays!",
-      "source": "The Verge",
-      "published": "2026-03-18T18:44:21+00:00",
-      "link": "https://www.theverge.com/column/896949/regulator-david-sacks-iran-polymarket"
-    },
-    {
-      "title": "ChatGPT did not cure a dog’s cancer",
-      "summary": "When an Australian tech entrepreneur with no background in biology or medicine said ChatGPT helped save his dog from cancer, the story spread with the kind of validation Big Tech has long craved: proof that AI will revolutionize medicine and take on one of its deadliest diseases.",
-      "source": "The Verge",
-      "published": "2026-03-18T18:14:39+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/896878/ai-did-not-cure-this-dogs-cancer"
-    },
-    {
-      "title": "OpenAI turns model compression into a talent hunt with its 16 MB \"Parameter Golf\" challenge",
-      "summary": "OpenAI challenges researchers to build the best language model in just 16 MB - and uses the competition to scout talent. The article OpenAI turns model compression into a talent hunt with its 16 MB \"Parameter Golf\" challenge appeared first on The Decoder.",
-      "source": "The Decoder",
-      "published": "2026-03-18T18:09:36+00:00",
-      "link": "https://the-decoder.com/openai-turns-model-compression-into-a-talent-hunt-with-its-16-mb-parameter-golf-challenge/"
-    },
-    {
-      "title": "Why Walmart and OpenAI Are Shaking Up Their Agentic Shopping Deal",
-      "summary": "After OpenAI’s Instant Checkout feature fell short, Walmart is instead embedding its Sparky chatbot directly into ChatGPT and Google Gemini.",
-      "source": "Wired",
-      "published": "2026-03-18T18:01:18+00:00",
-      "link": "https://www.wired.com/story/ai-lab-walmart-openai-shaking-up-agentic-shopping-deal/"
-    },
-    {
-      "title": "Patreon CEO calls AI companies’ fair use argument ‘bogus,’ says creators should be paid",
-      "summary": "Patreon CEO Jack Conte says AI companies should pay creators for training data, arguing their fair use defense falls apart when they license content from major publishers.",
-      "source": "TechCrunch",
-      "published": "2026-03-18T17:54:31+00:00",
-      "link": "https://techcrunch.com/2026/03/18/patreon-ceo-calls-ai-companies-fair-use-argument-bogus-says-creators-should-be-paid/"
-    },
-    {
-      "title": "AI coding is gambling",
-      "summary": "Article URL: https://notes.visaint.space/ai-coding-is-gambling/ Comments URL: https://news.ycombinator.com/item?id=47428541 Points: 347 # Comments: 427",
-      "source": "Hacker News",
-      "published": "2026-03-18T17:22:02+00:00",
-      "link": "https://notes.visaint.space/ai-coding-is-gambling/"
-    },
-    {
-      "title": "Rebel Audio is a new AI podcasting tool aimed at first-time creators",
-      "summary": "Rebel Audio is a new all-in-one podcasting tool that allows creators to record podcasts, edit, clip content for social, and publish episodes, all without ever leaving the platform.",
-      "source": "TechCrunch",
-      "published": "2026-03-18T17:15:00+00:00",
-      "link": "https://techcrunch.com/2026/03/18/rebel-audio-is-a-new-ai-podcasting-tool-aimed-at-first-time-creators/"
-    },
-    {
-      "title": "Americans Recognize AI as a Wealth Inequality Machine, Polls Find",
-      "summary": "Article URL: https://gizmodo.com/americans-recognize-ai-as-a-wealth-inequality-machine-pollsters-find-2000734713 Comments URL: https://news.ycombinator.com/item?id=47428335 Points: 57 # Comments: 20",
-      "source": "Hacker News",
-      "published": "2026-03-18T17:07:21+00:00",
-      "link": "https://gizmodo.com/americans-recognize-ai-as-a-wealth-inequality-machine-pollsters-find-2000734713"
-    },
-    {
-      "title": "Apple reportedly blocks vibe-coding apps from publishing updates",
-      "summary": "Apple is preventing popular vibe-coding apps like Replit and Vibecode from releasing new versions. The company points to existing guidelines, but the move targets potential competition to its own ecosystem.",
-      "source": "The Decoder",
-      "published": "2026-03-18T16:46:49+00:00",
-      "link": "https://the-decoder.com/apple-reportedly-blocks-vibe-coding-apps-from-publishing-updates/"
     }
   ]
 };
