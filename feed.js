@@ -1,6 +1,132 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-03-25T11:28:07.665583+00:00",
+  "lastUpdated": "2026-03-25T16:46:26.969876+00:00",
   "items": [
+    {
+      "title": "Google launches Lyria 3 Pro music generation model",
+      "summary": "Google is launching Lyria 3 Pro, an upgraded music model that generates longer, more customizable tracks, as it expands AI music tools across Gemini, enterprise products, and other services.",
+      "source": "TechCrunch",
+      "published": "2026-03-25T16:37:43+00:00",
+      "link": "https://techcrunch.com/2026/03/25/google-launches-lyria-3-pro-music-generation-model/"
+    },
+    {
+      "title": "Google Lyria 3 Pro makes longer AI songs",
+      "summary": "Google is expanding the capabilities of its Lyria 3 music-making AI, enabling it to create tracks up to three minutes long and from within multiple other Google Products. Until now, Lyria had been limited to 30-second clips.",
+      "source": "The Verge",
+      "published": "2026-03-25T16:00:00+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/900425/google-lyria-3-pro-ai-music"
+    },
+    {
+      "title": "Arm breaks from its licensing-only model with first in-house chip built for AI data centers",
+      "summary": "For the first time in its 35-year history, Arm has manufactured its own chip, expanding beyond its long-standing business model of licensing chip designs to companies like Apple and Nvidia.",
+      "source": "The Decoder",
+      "published": "2026-03-25T15:10:16+00:00",
+      "link": "https://the-decoder.com/arm-breaks-from-its-licensing-only-model-with-first-in-house-chip-built-for-ai-data-centers/"
+    },
+    {
+      "title": "Senate Democrats are trying to ‘codify’ Anthropic’s red lines on autonomous weapons and mass surveillance",
+      "summary": "Anthropic's fight with the Pentagon is expanding to Congress. Sen.",
+      "source": "The Verge",
+      "published": "2026-03-25T15:05:46+00:00",
+      "link": "https://www.theverge.com/policy/900341/senator-schiff-anthropic-autonomous-weapons-mass-surveillance"
+    },
+    {
+      "title": "Why this battery company is pivoting to AI",
+      "summary": "Qichao Hu doesn’t mince words about how he sees the state of the battery industry. “Almost every Western battery company has either died or is going to die.",
+      "source": "MIT Tech Review",
+      "published": "2026-03-25T15:02:50+00:00",
+      "link": "https://www.technologyreview.com/2026/03/25/1134657/battery-company-ai-pivot-ses/"
+    },
+    {
+      "title": "Ocorian: Family offices turn to AI for financial data insights",
+      "summary": "To gain financial data insights, the majority of family offices now turn to AI, according to new research from Ocorian. The global study reveals 86 percent of these private wealth groups are utilising AI to improve their daily operations and data analysis.",
+      "source": "AI News",
+      "published": "2026-03-25T14:58:29+00:00",
+      "link": "https://www.artificialintelligence-news.com/news/ocorian-family-offices-ai-for-financial-data-insights/"
+    },
+    {
+      "title": "OpenAI Enters Its Focus Era by Killing Sora",
+      "summary": "As the ChatGPT-maker eyes an IPO, it's ditching Sora in favor of a unified AI assistant and enterprise coding tools.",
+      "source": "Wired",
+      "published": "2026-03-25T14:57:45+00:00",
+      "link": "https://www.wired.com/story/openai-shuts-down-sora-ipo-ai-superapp/"
+    },
+    {
+      "title": "Granola raises $125M, hits $1.5B valuation as it expands from meeting notetaker to enterprise AI app",
+      "summary": "Granola's valuation jumped from $250 million to $1.5 billion with this round, and it has added more support for AI agents after users previously complained.",
+      "source": "TechCrunch",
+      "published": "2026-03-25T14:48:40+00:00",
+      "link": "https://techcrunch.com/2026/03/25/granola-raises-125m-hits-1-5b-valuation-as-it-expands-from-meeting-notetaker-to-enterprise-ai-app/"
+    },
+    {
+      "title": "Meta launches new initiative to support entrepreneurship, drive AI adoption",
+      "summary": "Meta CEO Mark Zuckerberg said in a memo to staff that small businesses have always been a big part of the company's business model, and that while tens of millions of entrepreneurs already use its platforms to grow and connect with customers, the company wants to do more in the...",
+      "source": "TechCrunch",
+      "published": "2026-03-25T14:45:20+00:00",
+      "link": "https://techcrunch.com/2026/03/25/meta-launches-new-initiative-to-support-entrepreneurship-drive-ai-adoption/"
+    },
+    {
+      "title": "Mark Zuckerberg and Jensen Huang are part of Trump’s new ‘tech panel’",
+      "summary": "Meta CEO Mark Zuckerberg, Oracle CTO and executive chairman Larry Ellison, Nvidia CEO Jensen Huang, and Google cofounder Sergey Brin will be the first four members of the President's Council of Advisors on Science and Technology (PCAST), according to the Wall Street Journal.",
+      "source": "The Verge",
+      "published": "2026-03-25T14:41:21+00:00",
+      "link": "https://www.theverge.com/policy/900340/trump-tech-panel-mark-zuckerberg-jensen-huang"
+    },
+    {
+      "title": "Meta turns to AI to make shopping easier on Instagram and Facebook",
+      "summary": "Meta is using generative AI to provide more product and brand information to consumers when they're shopping in its apps.",
+      "source": "TechCrunch",
+      "published": "2026-03-25T14:16:17+00:00",
+      "link": "https://techcrunch.com/2026/03/25/meta-turns-to-ai-to-make-shopping-easier-on-instagram-and-facebook/"
+    },
+    {
+      "title": "This startup wants to change how mathematicians do math",
+      "summary": "Axiom Math, a startup based in Palo Alto, California, has released a free new AI tool for mathematicians, designed to discover mathematical patterns that could unlock solutions to long-standing problems.",
+      "source": "MIT Tech Review",
+      "published": "2026-03-25T13:59:17+00:00",
+      "link": "https://www.technologyreview.com/2026/03/25/1134642/this-startup-wants-to-change-how-mathematicians-do-math/"
+    },
+    {
+      "title": "New Bernie Sanders AI Safety Bill Would Halt Data Center Construction",
+      "summary": "The US senator said on Tuesday that a moratorium would give lawmakers time to \"ensure that AI is safe.\" Alexandria Ocasio-Cortez will introduce a similar bill in the House in the weeks ahead.",
+      "source": "Wired",
+      "published": "2026-03-25T13:28:50+00:00",
+      "link": "https://www.wired.com/story/new-bernie-sanders-ai-safety-bill-would-halt-data-center-construction/"
+    },
+    {
+      "title": "Local LLM App by Ente",
+      "summary": "Article URL: https://ente.com/blog/ensu/ Comments URL: https://news.ycombinator.com/item?id=47516650 Points: 210 # Comments: 89",
+      "source": "Hacker News",
+      "published": "2026-03-25T12:49:14+00:00",
+      "link": "https://ente.com/blog/ensu/"
+    },
+    {
+      "title": "The Download: reawakening frozen brains, and the AI Hype Index returns",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. This scientist rewarmed and studied pieces of his friend’s cryopreserved brain L.",
+      "source": "MIT Tech Review",
+      "published": "2026-03-25T12:47:44+00:00",
+      "link": "https://www.technologyreview.com/2026/03/25/1134636/the-download-reawakening-frozen-brains-and-the-ai-hype-index-returns/"
+    },
+    {
+      "title": "OpenAI CEO Sam Altman reportedly teases a \"very strong\" model internally that can \"really accelerate the economy\"",
+      "summary": "OpenAI has reportedly finished pretraining its next major AI model, codenamed \"Spud.\" CEO Sam Altman says it can \"really accelerate the economy.\" The article OpenAI CEO Sam Altman reportedly teases a \"very strong\" model internally that can \"really accelerate the economy\"...",
+      "source": "The Decoder",
+      "published": "2026-03-25T12:19:41+00:00",
+      "link": "https://the-decoder.com/openai-ceo-sam-altman-reportedly-teases-a-very-strong-model-internally-that-can-really-accelerate-the-economy/"
+    },
+    {
+      "title": "Agentic commerce runs on truth and context",
+      "summary": "Imagine telling a digital agent, “Use my points and book a family trip to Italy. Keep it within budget, pick hotels we’ve liked before, and handle the details.” Instead of returning a list of links, the agent assembles an itinerary and executes the purchase.",
+      "source": "MIT Tech Review",
+      "published": "2026-03-25T11:48:13+00:00",
+      "link": "https://www.technologyreview.com/2026/03/25/1134516/agentic-commerce-runs-on-truth-and-context/"
+    },
+    {
+      "title": "Anthropic’s Claude Code gets ‘safer’ auto mode",
+      "summary": "Anthropic has launched an \"auto mode\" for Claude Code, a new tool that lets AI make permissions-level decisions on users' behalf. The company says the feature offers vibe coders a safer alternative between constant handholding or giving the model dangerous levels of autonomy.",
+      "source": "The Verge",
+      "published": "2026-03-25T11:39:46+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/900201/anthropic-claude-code-auto-mode"
+    },
     {
       "title": "Lucid Bots raises $20M to keep up with demand for its window-washing drones",
       "summary": "Lucid Bots has seen demand accelerate over the last year for its window cleaning drones and power washing robots.",
@@ -14,6 +140,13 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-03-25T10:52:09+00:00",
       "link": "https://the-decoder.com/disney-pulls-out-of-openai-partnership-after-sora-app-and-api-gets-killed-just-months-after-launch/"
+    },
+    {
+      "title": "I tried to prove I'm not AI. My aunt wasn't convinced",
+      "summary": "Article URL: https://www.bbc.com/future/article/20260324-i-tried-to-prove-im-not-an-ai-deepfake Comments URL: https://news.ycombinator.com/item?id=47515502 Points: 121 # Comments: 142",
+      "source": "Hacker News",
+      "published": "2026-03-25T10:28:49+00:00",
+      "link": "https://www.bbc.com/future/article/20260324-i-tried-to-prove-im-not-an-ai-deepfake"
     },
     {
       "title": "OpenAI expands its record funding round to over $120 billion as it eyes a potential IPO later this year",
@@ -31,7 +164,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI agents enter banking roles at Bank of America",
-      "summary": "AI agents are starting to take on a more direct role in how financial advice is delivered, as large banks move beyond internal tools and into systems that support real client interactions.",
+      "summary": "AI agents are starting to take on a more direct role in how financial advice is delivered, as large banks move into systems that support client interactions.",
       "source": "AI News",
       "published": "2026-03-25T10:00:00+00:00",
       "link": "https://www.artificialintelligence-news.com/news/ai-agents-enter-banking-roles-at-bank-of-america/"
@@ -52,14 +185,14 @@ const FEED_DATA = {
     },
     {
       "title": "TurboQuant: Redefining AI efficiency with extreme compression",
-      "summary": "Article URL: https://research.google/blog/turboquant-redefining-ai-efficiency-with-extreme-compression/ Comments URL: https://news.ycombinator.com/item?id=47513475 Points: 194 # Comments: 40",
+      "summary": "Article URL: https://research.google/blog/turboquant-redefining-ai-efficiency-with-extreme-compression/ Comments URL: https://news.ycombinator.com/item?id=47513475 Points: 370 # Comments: 105",
       "source": "Hacker News",
       "published": "2026-03-25T05:00:54+00:00",
       "link": "https://research.google/blog/turboquant-redefining-ai-efficiency-with-extreme-compression/"
     },
     {
       "title": "With $3.5B in fresh capital, Kleiner Perkins is going all in on AI",
-      "summary": "The fundraise includes $1 billion for investing in early-stage startups, and $2.5 billion for late-stage growth businesses.",
+      "summary": "The fundraise includes $1 billion for investing in early-stage startups and $2.5 billion for late-stage growth businesses.",
       "source": "TechCrunch",
       "published": "2026-03-25T00:47:20+00:00",
       "link": "https://techcrunch.com/2026/03/24/with-3-5b-in-fresh-capital-kleiner-perkins-is-going-all-in-on-ai/"
@@ -136,7 +269,7 @@ const FEED_DATA = {
     },
     {
       "title": "Is anybody else bored of talking about AI?",
-      "summary": "Article URL: https://blog.jakesaunders.dev/is-anybody-else-bored-of-talking-about-ai/ Comments URL: https://news.ycombinator.com/item?id=47508745 Points: 654 # Comments: 445",
+      "summary": "Article URL: https://blog.jakesaunders.dev/is-anybody-else-bored-of-talking-about-ai/ Comments URL: https://news.ycombinator.com/item?id=47508745 Points: 689 # Comments: 490",
       "source": "Hacker News",
       "published": "2026-03-24T20:31:08+00:00",
       "link": "https://blog.jakesaunders.dev/is-anybody-else-bored-of-talking-about-ai/"
@@ -206,7 +339,7 @@ const FEED_DATA = {
     },
     {
       "title": "The AI Industry Is Lying to You",
-      "summary": "Article URL: https://www.wheresyoured.at/the-ai-industry-is-lying-to-you/ Comments URL: https://news.ycombinator.com/item?id=47506259 Points: 154 # Comments: 123",
+      "summary": "Article URL: https://www.wheresyoured.at/the-ai-industry-is-lying-to-you/ Comments URL: https://news.ycombinator.com/item?id=47506259 Points: 157 # Comments: 125",
       "source": "Hacker News",
       "published": "2026-03-24T17:30:55+00:00",
       "link": "https://www.wheresyoured.at/the-ai-industry-is-lying-to-you/"
@@ -269,7 +402,7 @@ const FEED_DATA = {
     },
     {
       "title": "Hypura – A storage-tier-aware LLM inference scheduler for Apple Silicon",
-      "summary": "Article URL: https://github.com/t8/hypura Comments URL: https://news.ycombinator.com/item?id=47504695 Points: 207 # Comments: 77",
+      "summary": "Article URL: https://github.com/t8/hypura Comments URL: https://news.ycombinator.com/item?id=47504695 Points: 212 # Comments: 84",
       "source": "Hacker News",
       "published": "2026-03-24T16:02:22+00:00",
       "link": "https://github.com/t8/hypura"
@@ -311,14 +444,14 @@ const FEED_DATA = {
     },
     {
       "title": "The bridge to wealth is being pulled up with AI",
-      "summary": "Article URL: https://danielhomola.com/m%20&%20e/ai/your-bridge-to-wealth-is-being-pulled-up/ Comments URL: https://news.ycombinator.com/item?id=47503296 Points: 262 # Comments: 382",
+      "summary": "Article URL: https://danielhomola.com/m%20&%20e/ai/your-bridge-to-wealth-is-being-pulled-up/ Comments URL: https://news.ycombinator.com/item?id=47503296 Points: 264 # Comments: 394",
       "source": "Hacker News",
       "published": "2026-03-24T14:39:20+00:00",
       "link": "https://danielhomola.com/m%20&%20e/ai/your-bridge-to-wealth-is-being-pulled-up/"
     },
     {
       "title": "So where are all the AI apps?",
-      "summary": "Article URL: https://www.answer.ai/posts/2026-03-12-so-where-are-all-the-ai-apps.html Comments URL: https://news.ycombinator.com/item?id=47503006 Points: 406 # Comments: 377",
+      "summary": "Article URL: https://www.answer.ai/posts/2026-03-12-so-where-are-all-the-ai-apps.html Comments URL: https://news.ycombinator.com/item?id=47503006 Points: 424 # Comments: 395",
       "source": "Hacker News",
       "published": "2026-03-24T14:19:59+00:00",
       "link": "https://www.answer.ai/posts/2026-03-12-so-where-are-all-the-ai-apps.html"
@@ -367,7 +500,7 @@ const FEED_DATA = {
     },
     {
       "title": "LLM Neuroanatomy II: Modern LLM Hacking and Hints of a Universal Language?",
-      "summary": "Article URL: https://dnhkng.github.io/posts/rys-ii/ Comments URL: https://news.ycombinator.com/item?id=47500709 Points: 128 # Comments: 36",
+      "summary": "Article URL: https://dnhkng.github.io/posts/rys-ii/ Comments URL: https://news.ycombinator.com/item?id=47500709 Points: 134 # Comments: 36",
       "source": "Hacker News",
       "published": "2026-03-24T10:33:54+00:00",
       "link": "https://dnhkng.github.io/posts/rys-ii/"
@@ -395,14 +528,14 @@ const FEED_DATA = {
     },
     {
       "title": "I created my first AI-assisted pull request",
-      "summary": "Article URL: https://nelson.cloud/i-created-my-first-ai-assisted-pull-request-and-i-feel-like-a-fraud/ Comments URL: https://news.ycombinator.com/item?id=47497679 Points: 84 # Comments: 77",
+      "summary": "Article URL: https://nelson.cloud/i-created-my-first-ai-assisted-pull-request-and-i-feel-like-a-fraud/ Comments URL: https://news.ycombinator.com/item?id=47497679 Points: 86 # Comments: 77",
       "source": "Hacker News",
       "published": "2026-03-24T01:42:38+00:00",
       "link": "https://nelson.cloud/i-created-my-first-ai-assisted-pull-request-and-i-feel-like-a-fraud/"
     },
     {
       "title": "AI boom risks widening wealth divide, says BlackRock's Larry Fink",
-      "summary": "Article URL: https://www.theguardian.com/technology/2026/mar/23/ai-boom-risks-widening-wealth-divide-blackrock-larry-fink Comments URL: https://news.ycombinator.com/item?id=47496583 Points: 58 # Comments: 45",
+      "summary": "Article URL: https://www.theguardian.com/technology/2026/mar/23/ai-boom-risks-widening-wealth-divide-blackrock-larry-fink Comments URL: https://news.ycombinator.com/item?id=47496583 Points: 58 # Comments: 47",
       "source": "Hacker News",
       "published": "2026-03-23T23:32:17+00:00",
       "link": "https://www.theguardian.com/technology/2026/mar/23/ai-boom-risks-widening-wealth-divide-blackrock-larry-fink"
@@ -465,7 +598,7 @@ const FEED_DATA = {
     },
     {
       "title": "Designing AI for Disruptive Science",
-      "summary": "Article URL: https://www.asimov.press/p/ai-science Comments URL: https://news.ycombinator.com/item?id=47493194 Points: 76 # Comments: 43",
+      "summary": "Article URL: https://www.asimov.press/p/ai-science Comments URL: https://news.ycombinator.com/item?id=47493194 Points: 76 # Comments: 45",
       "source": "Hacker News",
       "published": "2026-03-23T18:19:05+00:00",
       "link": "https://www.asimov.press/p/ai-science"
@@ -549,7 +682,7 @@ const FEED_DATA = {
     },
     {
       "title": "iPhone 17 Pro Demonstrated Running a 400B LLM",
-      "summary": "https://xcancel.com/anemll/status/2035901335984611412 Comments URL: https://news.ycombinator.com/item?id=47490070 Points: 699 # Comments: 320",
+      "summary": "https://xcancel.com/anemll/status/2035901335984611412 Comments URL: https://news.ycombinator.com/item?id=47490070 Points: 703 # Comments: 323",
       "source": "Hacker News",
       "published": "2026-03-23T14:30:10+00:00",
       "link": "https://twitter.com/anemll/status/2035901335984611412"
@@ -577,7 +710,7 @@ const FEED_DATA = {
     },
     {
       "title": "I built an AI receptionist for a mechanic shop",
-      "summary": "Article URL: https://www.itsthatlady.dev/blog/building-an-ai-receptionist-for-my-brother/ Comments URL: https://news.ycombinator.com/item?id=47487536 Points: 312 # Comments: 319",
+      "summary": "Article URL: https://www.itsthatlady.dev/blog/building-an-ai-receptionist-for-my-brother/ Comments URL: https://news.ycombinator.com/item?id=47487536 Points: 314 # Comments: 320",
       "source": "Hacker News",
       "published": "2026-03-23T10:32:33+00:00",
       "link": "https://www.itsthatlady.dev/blog/building-an-ai-receptionist-for-my-brother/"
@@ -590,18 +723,18 @@ const FEED_DATA = {
       "link": "https://www.wired.com/story/project-maven-katrina-manson-book-excerpt/"
     },
     {
-      "title": "The Bay Area’s animal welfare movement wants to recruit AI",
-      "summary": "In early February, animal welfare advocates and AI researchers gathered in stocking feet at Mox, a scrappy, shoes-free coworking space in San Francisco. Yellow and red canopies billowed overhead, Persian rugs blanketed the floor, and mosaic lamps glowed beside potted plants.",
-      "source": "MIT Tech Review",
-      "published": "2026-03-23T09:00:00+00:00",
-      "link": "https://www.technologyreview.com/2026/03/23/1134491/the-bay-areas-animal-welfare-movement-wants-to-recruit-ai/"
-    },
-    {
       "title": "The AI Race Is Pressuring Utilities to Squeeze More From Europe’s Power Grids",
       "summary": "As data center developers queue up to connect to power grids across Europe, network operators are experimenting with novel ways of clearing room for them.",
       "source": "Wired",
       "published": "2026-03-23T09:00:00+00:00",
       "link": "https://www.wired.com/story/europe-squeeze-power-energy-grid-ai-data-center/"
+    },
+    {
+      "title": "The Bay Area’s animal welfare movement wants to recruit AI",
+      "summary": "In early February, animal welfare advocates and AI researchers gathered in stocking feet at Mox, a scrappy, shoes-free coworking space in San Francisco. Yellow and red canopies billowed overhead, Persian rugs blanketed the floor, and mosaic lamps glowed beside potted plants.",
+      "source": "MIT Tech Review",
+      "published": "2026-03-23T09:00:00+00:00",
+      "link": "https://www.technologyreview.com/2026/03/23/1134491/the-bay-areas-animal-welfare-movement-wants-to-recruit-ai/"
     },
     {
       "title": "White-collar AI apocalypse narrative is just another bullshit",
@@ -1267,139 +1400,6 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-03-19T13:35:13+00:00",
       "link": "https://the-decoder.com/as-demand-for-realistic-ai-training-grows-deeptune-raises-43-million-to-build-simulated-workplaces/"
-    },
-    {
-      "title": "Adobe’s AI image generator can now be trained on your own art",
-      "summary": "Adobe is launching customizable AI image generators that can mimic specific artistic styles and character designs.",
-      "source": "The Verge",
-      "published": "2026-03-19T13:00:00+00:00",
-      "link": "https://www.theverge.com/tech/897243/adobe-firefly-ai-custom-models-image-public-beta"
-    },
-    {
-      "title": "The biggest moat in AI belongs to the company that can't even fix Siri",
-      "summary": "Apple's own AI efforts lag the competition. Yet the company is set to cross $1 billion in generative AI revenue by 2026 because the iPhone remains one of the most important gateways to chatbots.",
-      "source": "The Decoder",
-      "published": "2026-03-19T12:42:29+00:00",
-      "link": "https://the-decoder.com/the-biggest-moat-in-ai-belongs-to-the-company-that-cant-even-fix-siri/"
-    },
-    {
-      "title": "Ramtrack.eu – RAM Price Intelligence",
-      "summary": "Article URL: https://ramtrack.eu Comments URL: https://news.ycombinator.com/item?id=47438342 Points: 101 # Comments: 36",
-      "source": "Hacker News",
-      "published": "2026-03-19T12:39:46+00:00",
-      "link": "https://ramtrack.eu"
-    },
-    {
-      "title": "Fitbit’s AI health coach will soon be able to read your medical records",
-      "summary": "Would you share your medical records with a personal trainer? How about a virtual one?",
-      "source": "The Verge",
-      "published": "2026-03-19T12:27:23+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/897250/fitbits-ai-health-coach-reads-medical-records"
-    },
-    {
-      "title": "The Download: Quantum computing for health, and why the world doesn’t recycle more nuclear waste",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.",
-      "source": "MIT Tech Review",
-      "published": "2026-03-19T12:17:02+00:00",
-      "link": "https://www.technologyreview.com/2026/03/19/1134413/the-download-quantum-computing-health-recycling-nuclear-waste/"
-    },
-    {
-      "title": "A rogue AI agent caused a serious security incident at Meta",
-      "summary": "An out-of-control AI agent has triggered a serious security incident at Meta, reports The Information. The article A rogue AI agent caused a serious security incident at Meta appeared first on The Decoder.",
-      "source": "The Decoder",
-      "published": "2026-03-19T11:20:04+00:00",
-      "link": "https://the-decoder.com/a-rogue-ai-agent-caused-a-serious-security-incident-at-meta/"
-    },
-    {
-      "title": "A $5 million prize awaits proof that quantum computers can solve health care problems",
-      "summary": "I’m standing in front of a quantum computer built out of atoms and light at the UK’s National Quantum Computing Centre on the outskirts of Oxford.",
-      "source": "MIT Tech Review",
-      "published": "2026-03-19T10:51:43+00:00",
-      "link": "https://www.technologyreview.com/2026/03/19/1134409/a-5-million-prize-awaits-proof-that-quantum-computers-can-solve-health-care-problems/"
-    },
-    {
-      "title": "2% of ICML papers desk rejected because the authors used LLM in their reviews",
-      "summary": "Article URL: https://blog.icml.cc/2026/03/18/on-violations-of-llm-review-policies/ Comments URL: https://news.ycombinator.com/item?id=47437101 Points: 198 # Comments: 157",
-      "source": "Hacker News",
-      "published": "2026-03-19T10:17:46+00:00",
-      "link": "https://blog.icml.cc/2026/03/18/on-violations-of-llm-review-policies/"
-    },
-    {
-      "title": "OpenAI's AWS deal may undermine Microsoft's Azure exclusivity rights",
-      "summary": "Microsoft fears OpenAI's AWS deal may violate Azure exclusivity contract. The article OpenAI's AWS deal may undermine Microsoft's Azure exclusivity rights appeared first on The Decoder.",
-      "source": "The Decoder",
-      "published": "2026-03-19T10:11:32+00:00",
-      "link": "https://the-decoder.com/openais-aws-deal-may-undermine-microsofts-azure-exclusivity-rights/"
-    },
-    {
-      "title": "Visa prepares payment systems for AI agent-initiated transactions",
-      "summary": "Payments rely on a simple model: a person decides to buy something, and a bank or card network processes the transaction. That model is starting to change as Visa tests how AI agents can initiate payments.",
-      "source": "AI News",
-      "published": "2026-03-19T10:00:00+00:00",
-      "link": "https://www.artificialintelligence-news.com/news/visa-prepares-payment-systems-for-ai-agent-initiated-transactions/"
-    },
-    {
-      "title": "The Fight to Hold AI Companies Accountable for Children’s Deaths",
-      "summary": "After a series of suicides allegedly linked to AI chatbots, one lawyer is trying to hold companies like OpenAI accountable.",
-      "source": "Wired",
-      "published": "2026-03-19T10:00:00+00:00",
-      "link": "https://www.wired.com/story/how-ai-chatbots-drove-families-to-the-brink-and-the-lawyer-fighting-back/"
-    },
-    {
-      "title": "NVIDIA wants enterprise AI agents safer to deploy",
-      "summary": "The NVIDIA Agent Toolkit is Jensen Huang’s answer to the question enterprises keep asking: how do we put AI agents to work without losing control of our data and our liability?",
-      "source": "AI News",
-      "published": "2026-03-19T08:00:00+00:00",
-      "link": "https://www.artificialintelligence-news.com/news/nvidia-agent-toolkit-enterprise-ai-agents/"
-    },
-    {
-      "title": "Multiverse Computing pushes its compressed AI models into the mainstream",
-      "summary": "After compressing models from major AI labs, including OpenAI, Meta, DeepSeek, and Mistral AI, Multiverse Computing has launched both an app that showcases the capabilities of its compressed models and an API that makes them more widely available.",
-      "source": "TechCrunch",
-      "published": "2026-03-19T08:00:00+00:00",
-      "link": "https://techcrunch.com/2026/03/19/multiverse-computing-pushes-its-compressed-ai-models-into-the-mainstream/"
-    },
-    {
-      "title": "What 81,000 people want from AI",
-      "summary": "Article URL: https://www.anthropic.com/features/81k-interviews Comments URL: https://news.ycombinator.com/item?id=47435156 Points: 200 # Comments: 188",
-      "source": "Hacker News",
-      "published": "2026-03-19T05:00:56+00:00",
-      "link": "https://www.anthropic.com/features/81k-interviews"
-    },
-    {
-      "title": "Meta is having trouble with rogue AI agents",
-      "summary": "A rogue AI agent inadvertently exposed Meta company and user data to engineers who didn't have permission to see it.",
-      "source": "TechCrunch",
-      "published": "2026-03-18T23:42:46+00:00",
-      "link": "https://techcrunch.com/2026/03/18/meta-is-having-trouble-with-rogue-ai-agents/"
-    },
-    {
-      "title": "Show HN: Duplicate 3 layers in a 24B LLM, logical deduction .22→.76. No training",
-      "summary": "I replicated David Ng's RYS method (https://dnhkng.github.io/posts/rys/) on consumer AMD GPUs (RX 7900 XT + RX 6950 XT) and found something I didn't expect.Transformers appear to have discrete \"reasoning circuits\" — contiguous blocks of 3-4 layers that act as indivisible...",
-      "source": "Hacker News",
-      "published": "2026-03-18T21:31:12+00:00",
-      "link": "https://github.com/alainnothere/llm-circuit-finder"
-    },
-    {
-      "title": "Nothing CEO Carl Pei says smartphone apps will disappear as AI agents take their place",
-      "summary": "Nothing CEO Carl Pei says AI agents will eventually replace apps, shifting smartphones toward systems that understand intent and act on a user's behalf.",
-      "source": "TechCrunch",
-      "published": "2026-03-18T20:30:52+00:00",
-      "link": "https://techcrunch.com/2026/03/18/nothing-ceo-carl-pei-says-smartphone-apps-will-disappear-as-ai-agents-take-their-place/"
-    },
-    {
-      "title": "Google Labs turns Stitch into a full AI design platform that converts plain text into user interfaces",
-      "summary": "Google's Stitch turns text and voice input into clickable prototypes: no design or coding skills required. The article Google Labs turns Stitch into a full AI design platform that converts plain text into user interfaces appeared first on The Decoder.",
-      "source": "The Decoder",
-      "published": "2026-03-18T20:07:56+00:00",
-      "link": "https://the-decoder.com/google-labs-turns-stitch-into-a-full-ai-design-platform-that-converts-plain-text-into-user-interfaces/"
-    },
-    {
-      "title": "Nvidia is quietly building a multibillion-dollar behemoth to rival its chips business",
-      "summary": "Nvidia's networking business raked in $11 billion last quarter despite getting significantly less fanfare than chips and gaming.",
-      "source": "TechCrunch",
-      "published": "2026-03-18T20:01:19+00:00",
-      "link": "https://techcrunch.com/2026/03/18/nvidia-networking-division-building-a-multibillion-dollar-behemoth-to-rival-its-chips-business/"
     }
   ]
 };
