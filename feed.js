@@ -1,6 +1,34 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-03-24T22:04:48.206330+00:00",
+  "lastUpdated": "2026-03-25T05:41:37.317149+00:00",
   "items": [
+    {
+      "title": "With $3.5B in fresh capital, Kleiner Perkins is going all in on AI",
+      "summary": "The fundraise includes $1 billion for investing in early-stage startups, and $2.5 billion for late-stage growth businesses.",
+      "source": "TechCrunch",
+      "published": "2026-03-25T00:47:20+00:00",
+      "link": "https://techcrunch.com/2026/03/24/with-3-5b-in-fresh-capital-kleiner-perkins-is-going-all-in-on-ai/"
+    },
+    {
+      "title": "OpenAI’s Sora was the creepiest app on your phone — now it’s shutting down",
+      "summary": "Though the underlying Sora 2 video- and audio-generation model is scarily impressive, there was not sustained interest in an AI-only social feed.",
+      "source": "TechCrunch",
+      "published": "2026-03-24T23:57:55+00:00",
+      "link": "https://techcrunch.com/2026/03/24/openais-sora-was-the-creepiest-app-on-your-phone-now-its-shutting-down/"
+    },
+    {
+      "title": "Kentucky woman rejects $26M offer to turn her farm into a data center",
+      "summary": "A \"major artificial intelligence company\" reportedly offered a Kentucky family $26 million to build a data center on their farm.",
+      "source": "TechCrunch",
+      "published": "2026-03-24T22:22:57+00:00",
+      "link": "https://techcrunch.com/2026/03/24/kentucky-woman-rejects-26-million-offer-to-turn-her-farm-into-a-data-center/"
+    },
+    {
+      "title": "Pentagon’s ‘Attempt to Cripple’ Anthropic Is Troubling, Judge Says",
+      "summary": "During a hearing Tuesday, a district court judge questioned the Department of Defense’s motivations for labeling the Claude AI developer a supply-chain risk.",
+      "source": "Wired",
+      "published": "2026-03-24T22:13:17+00:00",
+      "link": "https://www.wired.com/story/pentagons-attempt-to-cripple-anthropic-is-troublesome-judge-says/"
+    },
     {
       "title": "OpenAI just gave up on Sora and its billion-dollar Disney deal",
       "summary": "On Tuesday afternoon, OpenAI announced \"We're saying goodbye to Sora,\" the video generation tool that it launched at the end of 2024, and centered in a massive licensing deal with Disney only a few months ago.",
@@ -21,6 +49,13 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-03-24T20:56:25+00:00",
       "link": "https://techcrunch.com/2026/03/24/spotify-tests-new-tool-to-stop-ai-slop-from-being-attributed-to-real-artists/"
+    },
+    {
+      "title": "Arm’s first CPU ever will plug into Meta’s AI data centers later this year",
+      "summary": "After decades of only licensing its chip designs for others to use, UK-based Arm revealed the first chip it's producing on its own, and the first customer.",
+      "source": "The Verge",
+      "published": "2026-03-24T20:43:14+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/899823/arm-agi-cpu-meta"
     },
     {
       "title": "Arm’s first CPU ever will plug into Meta’s AI datacenters later this year",
@@ -1365,41 +1400,6 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-03-18T16:46:49+00:00",
       "link": "https://the-decoder.com/apple-reportedly-blocks-vibe-coding-apps-from-publishing-updates/"
-    },
-    {
-      "title": "The Gemini-powered features in Google Workspace that are worth using",
-      "summary": "From summarizing emails, drafting content, organizing data, and tracking meetings, here are all the best Gemini features in Google Workspace.",
-      "source": "TechCrunch",
-      "published": "2026-03-18T16:43:18+00:00",
-      "link": "https://techcrunch.com/2026/03/18/the-gemini-powered-features-in-google-workspace-that-are-worth-using/"
-    },
-    {
-      "title": "Pentagon plans to let AI companies train models on classified data",
-      "summary": "The US Department of War is working to set up secure environments where AI companies can train their models on classified data. Until now, models were only allowed to read classified data, not learn from it.",
-      "source": "The Decoder",
-      "published": "2026-03-18T16:32:21+00:00",
-      "link": "https://the-decoder.com/pentagon-plans-to-let-ai-companies-train-models-on-classified-data/"
-    },
-    {
-      "title": "The leaderboard “you can’t game,” funded by the companies it ranks",
-      "summary": "Artificial intelligence models are multiplying fast, and competition is stiff. With so many players crowding the space, which one will be the best — and who decides that?",
-      "source": "TechCrunch",
-      "published": "2026-03-18T16:30:00+00:00",
-      "link": "https://techcrunch.com/video/the-leaderboard-you-cant-game-funded-by-the-companies-it-ranks/"
-    },
-    {
-      "title": "Beijing approves Nvidia's H200 chip sales as the company builds a China-ready version of its Groq inference chip",
-      "summary": "Nvidia has received long-awaited approval from Beijing to sell its second-most-powerful AI chip, the H200, to Chinese customers, Reuters reports. The company had halted production of the chip last year due to regulatory hurdles on both sides of the Pacific.",
-      "source": "The Decoder",
-      "published": "2026-03-18T16:29:58+00:00",
-      "link": "https://the-decoder.com/beijing-approves-nvidias-h200-chip-sales-as-the-company-builds-a-china-ready-version-of-its-groq-inference-chip/"
-    },
-    {
-      "title": "Google Engineers Launch \"Sashiko\" for Agentic AI Code Review of the Linux Kernel",
-      "summary": "Article URL: https://www.phoronix.com/news/Sashiko-Linux-AI-Code-Review Comments URL: https://news.ycombinator.com/item?id=47427647 Points: 105 # Comments: 49",
-      "source": "Hacker News",
-      "published": "2026-03-18T16:17:44+00:00",
-      "link": "https://www.phoronix.com/news/Sashiko-Linux-AI-Code-Review"
     }
   ]
 };
