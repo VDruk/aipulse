@@ -1,6 +1,34 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-03-25T19:36:11.755979+00:00",
+  "lastUpdated": "2026-03-25T22:59:26.379454+00:00",
   "items": [
+    {
+      "title": "The AI skills gap is here, says AI company, and power users are pulling ahead",
+      "summary": "Anthropic finds AI isn’t replacing jobs yet, but early data shows growing inequality as experienced users gain an edge, raising concerns about future displacement and workforce divides.",
+      "source": "TechCrunch",
+      "published": "2026-03-25T21:44:13+00:00",
+      "link": "https://techcrunch.com/2026/03/25/the-ai-skills-gap-is-here-says-ai-company-and-power-users-are-pulling-ahead/"
+    },
+    {
+      "title": "Meta is laying off hundreds of employees as it pours money into AI",
+      "summary": "Meta is laying off hundreds of employees across its company, according to reports from The New York Times, NBC News, and The Information.",
+      "source": "The Verge",
+      "published": "2026-03-25T21:10:32+00:00",
+      "link": "https://www.theverge.com/tech/900946/meta-layoffs-hundreds-employees"
+    },
+    {
+      "title": "Google unveils TurboQuant, a new AI memory compression algorithm — and yes, the internet is calling it ‘Pied Piper’",
+      "summary": "Google’s TurboQuant has the internet joking about Pied Piper from HBO's \"Silicon Valley.\" The compression algorithm promises to shrink AI’s “working memory” by up to 6x, but it’s still just a lab experiment for now.",
+      "source": "TechCrunch",
+      "published": "2026-03-25T20:38:45+00:00",
+      "link": "https://techcrunch.com/2026/03/25/google-turboquant-ai-memory-compression-silicon-valley-pied-piper/"
+    },
+    {
+      "title": "Disney’s big bets on the metaverse and AI slop aren’t going so well",
+      "summary": "Less than a week into his tenure as Disney's newly-appointed CEO, Josh D'Amaro is already dealing with two separate crises that have cast a shadow over the company's future plans.",
+      "source": "The Verge",
+      "published": "2026-03-25T20:02:48+00:00",
+      "link": "https://www.theverge.com/streaming/900837/disney-open-ai-sora-epic-fortnite-metaverse"
+    },
     {
       "title": "Google launches AI music generator Lyria 3 Pro, says it was trained on data it has the right to use",
       "summary": "Google is making AI music longer and more widely available: Lyria 3 Pro generates songs up to three minutes long, complete with verses, choruses, and bridges. Google says the model was trained on content it has the right to use.",
@@ -9,8 +37,15 @@ const FEED_DATA = {
       "link": "https://the-decoder.com/google-launches-ai-music-generator-lyria-3-pro-says-it-was-trained-on-data-it-has-the-right-to-use/"
     },
     {
+      "title": "Melania Trump wants a robot to homeschool your child",
+      "summary": "The first lady sees AI and robotics playing a prominent role in the future of American education.",
+      "source": "TechCrunch",
+      "published": "2026-03-25T18:55:41+00:00",
+      "link": "https://techcrunch.com/2026/03/25/melania-trump-wants-a-robot-to-homeschool-your-child/"
+    },
+    {
       "title": "There’s Something Very Dark About a Lot of Those Viral AI Fruit Videos",
-      "summary": "From female fruit being fart-shamed or even sexually assaulted, there’s a misogynistic undercurrent to the fruit slop microdramas, even as they appear to be cultivating genuine fans.",
+      "summary": "With female AI fruit being fart-shamed and even sexually assaulted, there’s a misogynistic undercurrent to the fruit slop microdramas, even as they appear to be cultivating genuine fans.",
       "source": "Wired",
       "published": "2026-03-25T18:49:40+00:00",
       "link": "https://www.wired.com/story/theres-something-very-dark-about-a-lot-of-those-viral-ai-fruit-videos/"
@@ -143,7 +178,7 @@ const FEED_DATA = {
     },
     {
       "title": "Ensu – Ente’s Local LLM app",
-      "summary": "Article URL: https://ente.com/blog/ensu/ Comments URL: https://news.ycombinator.com/item?id=47516650 Points: 288 # Comments: 131",
+      "summary": "Article URL: https://ente.com/blog/ensu/ Comments URL: https://news.ycombinator.com/item?id=47516650 Points: 316 # Comments: 142",
       "source": "Hacker News",
       "published": "2026-03-25T12:49:14+00:00",
       "link": "https://ente.com/blog/ensu/"
@@ -199,7 +234,7 @@ const FEED_DATA = {
     },
     {
       "title": "I tried to prove I'm not AI. My aunt wasn't convinced",
-      "summary": "Article URL: https://www.bbc.com/future/article/20260324-i-tried-to-prove-im-not-an-ai-deepfake Comments URL: https://news.ycombinator.com/item?id=47515502 Points: 129 # Comments: 147",
+      "summary": "Article URL: https://www.bbc.com/future/article/20260324-i-tried-to-prove-im-not-an-ai-deepfake Comments URL: https://news.ycombinator.com/item?id=47515502 Points: 132 # Comments: 150",
       "source": "Hacker News",
       "published": "2026-03-25T10:28:49+00:00",
       "link": "https://www.bbc.com/future/article/20260324-i-tried-to-prove-im-not-an-ai-deepfake"
@@ -241,7 +276,7 @@ const FEED_DATA = {
     },
     {
       "title": "TurboQuant: Redefining AI efficiency with extreme compression",
-      "summary": "Article URL: https://research.google/blog/turboquant-redefining-ai-efficiency-with-extreme-compression/ Comments URL: https://news.ycombinator.com/item?id=47513475 Points: 426 # Comments: 119",
+      "summary": "Article URL: https://research.google/blog/turboquant-redefining-ai-efficiency-with-extreme-compression/ Comments URL: https://news.ycombinator.com/item?id=47513475 Points: 467 # Comments: 129",
       "source": "Hacker News",
       "published": "2026-03-25T05:00:54+00:00",
       "link": "https://research.google/blog/turboquant-redefining-ai-efficiency-with-extreme-compression/"
@@ -325,7 +360,7 @@ const FEED_DATA = {
     },
     {
       "title": "Is anybody else bored of talking about AI?",
-      "summary": "Article URL: https://blog.jakesaunders.dev/is-anybody-else-bored-of-talking-about-ai/ Comments URL: https://news.ycombinator.com/item?id=47508745 Points: 701 # Comments: 503",
+      "summary": "Article URL: https://blog.jakesaunders.dev/is-anybody-else-bored-of-talking-about-ai/ Comments URL: https://news.ycombinator.com/item?id=47508745 Points: 708 # Comments: 508",
       "source": "Hacker News",
       "published": "2026-03-24T20:31:08+00:00",
       "link": "https://blog.jakesaunders.dev/is-anybody-else-bored-of-talking-about-ai/"
@@ -395,7 +430,7 @@ const FEED_DATA = {
     },
     {
       "title": "The AI Industry Is Lying to You",
-      "summary": "Article URL: https://www.wheresyoured.at/the-ai-industry-is-lying-to-you/ Comments URL: https://news.ycombinator.com/item?id=47506259 Points: 158 # Comments: 125",
+      "summary": "Article URL: https://www.wheresyoured.at/the-ai-industry-is-lying-to-you/ Comments URL: https://news.ycombinator.com/item?id=47506259 Points: 159 # Comments: 125",
       "source": "Hacker News",
       "published": "2026-03-24T17:30:55+00:00",
       "link": "https://www.wheresyoured.at/the-ai-industry-is-lying-to-you/"
@@ -458,7 +493,7 @@ const FEED_DATA = {
     },
     {
       "title": "Hypura – A storage-tier-aware LLM inference scheduler for Apple Silicon",
-      "summary": "Article URL: https://github.com/t8/hypura Comments URL: https://news.ycombinator.com/item?id=47504695 Points: 213 # Comments: 84",
+      "summary": "Article URL: https://github.com/t8/hypura Comments URL: https://news.ycombinator.com/item?id=47504695 Points: 214 # Comments: 84",
       "source": "Hacker News",
       "published": "2026-03-24T16:02:22+00:00",
       "link": "https://github.com/t8/hypura"
@@ -500,14 +535,14 @@ const FEED_DATA = {
     },
     {
       "title": "The bridge to wealth is being pulled up with AI",
-      "summary": "Article URL: https://danielhomola.com/m%20&%20e/ai/your-bridge-to-wealth-is-being-pulled-up/ Comments URL: https://news.ycombinator.com/item?id=47503296 Points: 265 # Comments: 394",
+      "summary": "Article URL: https://danielhomola.com/m%20&%20e/ai/your-bridge-to-wealth-is-being-pulled-up/ Comments URL: https://news.ycombinator.com/item?id=47503296 Points: 266 # Comments: 394",
       "source": "Hacker News",
       "published": "2026-03-24T14:39:20+00:00",
       "link": "https://danielhomola.com/m%20&%20e/ai/your-bridge-to-wealth-is-being-pulled-up/"
     },
     {
       "title": "So where are all the AI apps?",
-      "summary": "Article URL: https://www.answer.ai/posts/2026-03-12-so-where-are-all-the-ai-apps.html Comments URL: https://news.ycombinator.com/item?id=47503006 Points: 431 # Comments: 399",
+      "summary": "Article URL: https://www.answer.ai/posts/2026-03-12-so-where-are-all-the-ai-apps.html Comments URL: https://news.ycombinator.com/item?id=47503006 Points: 433 # Comments: 404",
       "source": "Hacker News",
       "published": "2026-03-24T14:19:59+00:00",
       "link": "https://www.answer.ai/posts/2026-03-12-so-where-are-all-the-ai-apps.html"
@@ -556,7 +591,7 @@ const FEED_DATA = {
     },
     {
       "title": "LLM Neuroanatomy II: Modern LLM Hacking and Hints of a Universal Language?",
-      "summary": "Article URL: https://dnhkng.github.io/posts/rys-ii/ Comments URL: https://news.ycombinator.com/item?id=47500709 Points: 135 # Comments: 36",
+      "summary": "Article URL: https://dnhkng.github.io/posts/rys-ii/ Comments URL: https://news.ycombinator.com/item?id=47500709 Points: 138 # Comments: 36",
       "source": "Hacker News",
       "published": "2026-03-24T10:33:54+00:00",
       "link": "https://dnhkng.github.io/posts/rys-ii/"
@@ -738,7 +773,7 @@ const FEED_DATA = {
     },
     {
       "title": "iPhone 17 Pro Demonstrated Running a 400B LLM",
-      "summary": "https://xcancel.com/anemll/status/2035901335984611412 Comments URL: https://news.ycombinator.com/item?id=47490070 Points: 704 # Comments: 324",
+      "summary": "https://xcancel.com/anemll/status/2035901335984611412 Comments URL: https://news.ycombinator.com/item?id=47490070 Points: 705 # Comments: 325",
       "source": "Hacker News",
       "published": "2026-03-23T14:30:10+00:00",
       "link": "https://twitter.com/anemll/status/2035901335984611412"
@@ -1365,41 +1400,6 @@ const FEED_DATA = {
       "source": "Hacker News",
       "published": "2026-03-19T19:35:37+00:00",
       "link": "https://github.com/indutny/no-ai-in-nodejs-core"
-    },
-    {
-      "title": "Microsoft's superintelligence team ships MAI-Image-2, a text-to-image generator",
-      "summary": "Microsoft's superintelligence team has unveiled its first product: MAI-Image-2, an image generator rolling out across Microsoft's products and eventually available via API.",
-      "source": "The Decoder",
-      "published": "2026-03-19T19:16:55+00:00",
-      "link": "https://the-decoder.com/microsofts-superintelligence-team-ships-mai-image-2-a-text-to-image-generator/"
-    },
-    {
-      "title": "Online bot traffic will exceed human traffic by 2027, Cloudflare CEO says",
-      "summary": "AI bots may outnumber humans online by 2027, says Cloudflare CEO Matthew Prince, as generative AI agents dramatically increase web traffic and infrastructure demands.",
-      "source": "TechCrunch",
-      "published": "2026-03-19T19:09:02+00:00",
-      "link": "https://techcrunch.com/2026/03/19/online-bot-traffic-will-exceed-human-traffic-by-2027-cloudflare-ceo-says/"
-    },
-    {
-      "title": "A rogue AI led to a serious security incident at Meta",
-      "summary": "Article URL: https://www.theverge.com/ai-artificial-intelligence/897528/meta-rogue-ai-agent-security-incident Comments URL: https://news.ycombinator.com/item?id=47444195 Points: 171 # Comments: 142",
-      "source": "Hacker News",
-      "published": "2026-03-19T18:59:02+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/897528/meta-rogue-ai-agent-security-incident"
-    },
-    {
-      "title": "Google AI Studio now lets you vibe code real-time multiplayer games",
-      "summary": "Google AI Studio can now build full apps from voice commands, complete with databases, payments, and user logins. The article Google AI Studio now lets you vibe code real-time multiplayer games appeared first on The Decoder.",
-      "source": "The Decoder",
-      "published": "2026-03-19T18:43:44+00:00",
-      "link": "https://the-decoder.com/google-ai-studio-now-lets-you-vibe-code-real-time-multiplayer-games/"
-    },
-    {
-      "title": "Google Shakes Up Its Browser Agent Team Amid OpenClaw Craze",
-      "summary": "As Silicon Valley obsesses over a new wave of AI coding agents, Google and other AI labs are shifting their bets.",
-      "source": "Wired",
-      "published": "2026-03-19T18:00:00+00:00",
-      "link": "https://www.wired.com/story/google-shakes-up-project-mariner-team-web-browsing-agents/"
     }
   ]
 };
