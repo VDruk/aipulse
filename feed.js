@@ -1,6 +1,34 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-03-26T08:09:20.609343+00:00",
+  "lastUpdated": "2026-03-26T11:38:34.997758+00:00",
   "items": [
+    {
+      "title": "Mistral releases a new open-source model for speech generation",
+      "summary": "Mistral's new speech model can run on a smartwatch or a smartphone.",
+      "source": "TechCrunch",
+      "published": "2026-03-26T11:30:00+00:00",
+      "link": "https://techcrunch.com/2026/03/26/mistral-releases-a-new-open-source-model-for-speech-generation/"
+    },
+    {
+      "title": "‘She’s Never Going to Age’: Porn Stars Are Embracing AI Clones to Stay Forever Young",
+      "summary": "AI companion platforms like OhChat and SinfulX are offering adult creators digital twins, who are always at their peak and stay monetizing.",
+      "source": "Wired",
+      "published": "2026-03-26T10:30:00+00:00",
+      "link": "https://www.wired.com/story/shes-never-going-to-age-porn-stars-are-embracing-ai-clones-to-stay-forever-young/"
+    },
+    {
+      "title": "Meta tests new way of working with \"AI-native pods\" to boost productivity",
+      "summary": "Meta is reshaping parts of Reality Labs into small, AI-driven teams, betting it will boost productivity. The article Meta tests new way of working with \"AI-native pods\" to boost productivity appeared first on The Decoder.",
+      "source": "The Decoder",
+      "published": "2026-03-26T09:15:26+00:00",
+      "link": "https://the-decoder.com/meta-tests-new-way-of-working-with-ai-native-pods-to-boost-productivity/"
+    },
+    {
+      "title": "RPA matters, but AI changes how automation works",
+      "summary": "RPA (robotic process automation) is a practical and proven way to reduce manual work in business processes without AI systems.",
+      "source": "AI News",
+      "published": "2026-03-26T09:11:08+00:00",
+      "link": "https://www.artificialintelligence-news.com/news/rpa-still-matters-but-ai-is-changing-how-automation-works/"
+    },
     {
       "title": "Mercor competitor Deccan AI raises $25M, sources experts from India",
       "summary": "Deccan AI concentrates its workforce in India to manage quality in a fast-growing but fragmented AI training market.",
@@ -31,7 +59,7 @@ const FEED_DATA = {
     },
     {
       "title": "Disney’s big bets on the metaverse and AI slop aren’t going so well",
-      "summary": "Less than a week into his tenure as Disney's newly-appointed CEO, Josh D'Amaro is already dealing with two separate crises that have cast a shadow over the company's future plans.",
+      "summary": "Less than a week into his tenure as Disney's newly appointed CEO, Josh D'Amaro, is already dealing with two separate crises that have cast a shadow over the company's future plans.",
       "source": "The Verge",
       "published": "2026-03-25T20:02:48+00:00",
       "link": "https://www.theverge.com/streaming/900837/disney-open-ai-sora-epic-fortnite-metaverse"
@@ -84,6 +112,13 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-03-25T17:15:50+00:00",
       "link": "https://techcrunch.com/2026/03/25/bernie-sanders-and-aoc-propose-a-ban-on-data-center-construction/"
+    },
+    {
+      "title": "Show HN: Optio – Orchestrate AI coding agents in K8s to go from ticket to PR",
+      "summary": "I think like many of you, I've been jumping between many claude code/codex sessions at a time, managing multiple lines of work and worktrees in multiple repos.",
+      "source": "Hacker News",
+      "published": "2026-03-25T17:10:21+00:00",
+      "link": "https://github.com/jonwiggins/optio"
     },
     {
       "title": "Google launches Lyria 3 Pro music generation model",
@@ -185,7 +220,7 @@ const FEED_DATA = {
     },
     {
       "title": "Ensu – Ente’s Local LLM app",
-      "summary": "Article URL: https://ente.com/blog/ensu/ Comments URL: https://news.ycombinator.com/item?id=47516650 Points: 350 # Comments: 162",
+      "summary": "Article URL: https://ente.com/blog/ensu/ Comments URL: https://news.ycombinator.com/item?id=47516650 Points: 352 # Comments: 165",
       "source": "Hacker News",
       "published": "2026-03-25T12:49:14+00:00",
       "link": "https://ente.com/blog/ensu/"
@@ -241,7 +276,7 @@ const FEED_DATA = {
     },
     {
       "title": "I tried to prove I'm not AI. My aunt wasn't convinced",
-      "summary": "Article URL: https://www.bbc.com/future/article/20260324-i-tried-to-prove-im-not-an-ai-deepfake Comments URL: https://news.ycombinator.com/item?id=47515502 Points: 156 # Comments: 176",
+      "summary": "Article URL: https://www.bbc.com/future/article/20260324-i-tried-to-prove-im-not-an-ai-deepfake Comments URL: https://news.ycombinator.com/item?id=47515502 Points: 161 # Comments: 179",
       "source": "Hacker News",
       "published": "2026-03-25T10:28:49+00:00",
       "link": "https://www.bbc.com/future/article/20260324-i-tried-to-prove-im-not-an-ai-deepfake"
@@ -283,7 +318,7 @@ const FEED_DATA = {
     },
     {
       "title": "TurboQuant: Redefining AI efficiency with extreme compression",
-      "summary": "Article URL: https://research.google/blog/turboquant-redefining-ai-efficiency-with-extreme-compression/ Comments URL: https://news.ycombinator.com/item?id=47513475 Points: 514 # Comments: 144",
+      "summary": "Article URL: https://research.google/blog/turboquant-redefining-ai-efficiency-with-extreme-compression/ Comments URL: https://news.ycombinator.com/item?id=47513475 Points: 518 # Comments: 144",
       "source": "Hacker News",
       "published": "2026-03-25T05:00:54+00:00",
       "link": "https://research.google/blog/turboquant-redefining-ai-efficiency-with-extreme-compression/"
@@ -367,7 +402,7 @@ const FEED_DATA = {
     },
     {
       "title": "Is anybody else bored of talking about AI?",
-      "summary": "Article URL: https://blog.jakesaunders.dev/is-anybody-else-bored-of-talking-about-ai/ Comments URL: https://news.ycombinator.com/item?id=47508745 Points: 723 # Comments: 514",
+      "summary": "Article URL: https://blog.jakesaunders.dev/is-anybody-else-bored-of-talking-about-ai/ Comments URL: https://news.ycombinator.com/item?id=47508745 Points: 726 # Comments: 514",
       "source": "Hacker News",
       "published": "2026-03-24T20:31:08+00:00",
       "link": "https://blog.jakesaunders.dev/is-anybody-else-bored-of-talking-about-ai/"
@@ -437,7 +472,7 @@ const FEED_DATA = {
     },
     {
       "title": "The AI Industry Is Lying to You",
-      "summary": "Article URL: https://www.wheresyoured.at/the-ai-industry-is-lying-to-you/ Comments URL: https://news.ycombinator.com/item?id=47506259 Points: 160 # Comments: 128",
+      "summary": "Article URL: https://www.wheresyoured.at/the-ai-industry-is-lying-to-you/ Comments URL: https://news.ycombinator.com/item?id=47506259 Points: 161 # Comments: 129",
       "source": "Hacker News",
       "published": "2026-03-24T17:30:55+00:00",
       "link": "https://www.wheresyoured.at/the-ai-industry-is-lying-to-you/"
@@ -500,7 +535,7 @@ const FEED_DATA = {
     },
     {
       "title": "Hypura – A storage-tier-aware LLM inference scheduler for Apple Silicon",
-      "summary": "Article URL: https://github.com/t8/hypura Comments URL: https://news.ycombinator.com/item?id=47504695 Points: 218 # Comments: 84",
+      "summary": "Article URL: https://github.com/t8/hypura Comments URL: https://news.ycombinator.com/item?id=47504695 Points: 218 # Comments: 85",
       "source": "Hacker News",
       "published": "2026-03-24T16:02:22+00:00",
       "link": "https://github.com/t8/hypura"
@@ -542,14 +577,14 @@ const FEED_DATA = {
     },
     {
       "title": "The bridge to wealth is being pulled up with AI",
-      "summary": "Article URL: https://danielhomola.com/m%20&%20e/ai/your-bridge-to-wealth-is-being-pulled-up/ Comments URL: https://news.ycombinator.com/item?id=47503296 Points: 266 # Comments: 394",
+      "summary": "Article URL: https://danielhomola.com/m%20&%20e/ai/your-bridge-to-wealth-is-being-pulled-up/ Comments URL: https://news.ycombinator.com/item?id=47503296 Points: 267 # Comments: 395",
       "source": "Hacker News",
       "published": "2026-03-24T14:39:20+00:00",
       "link": "https://danielhomola.com/m%20&%20e/ai/your-bridge-to-wealth-is-being-pulled-up/"
     },
     {
       "title": "So where are all the AI apps?",
-      "summary": "Article URL: https://www.answer.ai/posts/2026-03-12-so-where-are-all-the-ai-apps.html Comments URL: https://news.ycombinator.com/item?id=47503006 Points: 440 # Comments: 408",
+      "summary": "Article URL: https://www.answer.ai/posts/2026-03-12-so-where-are-all-the-ai-apps.html Comments URL: https://news.ycombinator.com/item?id=47503006 Points: 443 # Comments: 410",
       "source": "Hacker News",
       "published": "2026-03-24T14:19:59+00:00",
       "link": "https://www.answer.ai/posts/2026-03-12-so-where-are-all-the-ai-apps.html"
@@ -626,7 +661,7 @@ const FEED_DATA = {
     },
     {
       "title": "I created my first AI-assisted pull request",
-      "summary": "Article URL: https://nelson.cloud/i-created-my-first-ai-assisted-pull-request-and-i-feel-like-a-fraud/ Comments URL: https://news.ycombinator.com/item?id=47497679 Points: 87 # Comments: 77",
+      "summary": "Article URL: https://nelson.cloud/i-created-my-first-ai-assisted-pull-request-and-i-feel-like-a-fraud/ Comments URL: https://news.ycombinator.com/item?id=47497679 Points: 88 # Comments: 77",
       "source": "Hacker News",
       "published": "2026-03-24T01:42:38+00:00",
       "link": "https://nelson.cloud/i-created-my-first-ai-assisted-pull-request-and-i-feel-like-a-fraud/"
@@ -780,7 +815,7 @@ const FEED_DATA = {
     },
     {
       "title": "iPhone 17 Pro Demonstrated Running a 400B LLM",
-      "summary": "https://xcancel.com/anemll/status/2035901335984611412 Comments URL: https://news.ycombinator.com/item?id=47490070 Points: 709 # Comments: 327",
+      "summary": "https://xcancel.com/anemll/status/2035901335984611412 Comments URL: https://news.ycombinator.com/item?id=47490070 Points: 710 # Comments: 327",
       "source": "Hacker News",
       "published": "2026-03-23T14:30:10+00:00",
       "link": "https://twitter.com/anemll/status/2035901335984611412"
@@ -1365,41 +1400,6 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-03-20T07:35:18+00:00",
       "link": "https://the-decoder.com/openai-plans-to-merge-chatgpt-codex-and-atlas-browser-into-a-single-desktop-superapp/"
-    },
-    {
-      "title": "OpenAI is planning a desktop ‘superapp’",
-      "summary": "OpenAI is working on a desktop \"superapp\" that merges its ChatGPT app, the Codex AI coding app, and its AI-powered Atlas browser into one app, The Wall Street Journal reports.",
-      "source": "The Verge",
-      "published": "2026-03-20T00:09:38+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/897778/openai-chatgpt-codex-atlas-browser-superapp"
-    },
-    {
-      "title": "Jeff Bezos reportedly wants $100 billion to buy and transform old manufacturing firms with AI",
-      "summary": "The Amazon magnate has a new project centered around acquiring industrial firms and revamping them with AI technology.",
-      "source": "TechCrunch",
-      "published": "2026-03-19T22:09:24+00:00",
-      "link": "https://techcrunch.com/2026/03/19/jeff-bezos-reportedly-wants-100-billion-to-buy-and-transform-old-manufacturing-firms-with-ai/"
-    },
-    {
-      "title": "‘Uncanny Valley’: Nvidia’s ‘Super Bowl of AI,’ Tesla Disappoints, and Meta’s VR Metaverse ‘Shutdown’",
-      "summary": "In this episode, we dive into Nvidia’s annual developer conference and what CEO Jensen Huang is saying about the future of the company.",
-      "source": "Wired",
-      "published": "2026-03-19T21:43:56+00:00",
-      "link": "https://www.wired.com/story/uncanny-valley-podcast-nvidia-gtc-tesla-disappointed-fans-meta-horizon-worlds/"
-    },
-    {
-      "title": "Be intentional about how AI changes your codebase",
-      "summary": "Article URL: https://aicode.swerdlow.dev Comments URL: https://news.ycombinator.com/item?id=47446373 Points: 169 # Comments: 103",
-      "source": "Hacker News",
-      "published": "2026-03-19T21:23:24+00:00",
-      "link": "https://aicode.swerdlow.dev"
-    },
-    {
-      "title": "Elevenlabs now lets you sell AI music you don't own",
-      "summary": "Elevenlabs has launched a marketplace for AI-generated music that pays creators when their tracks get downloaded or licensed. But who actually owns the music?",
-      "source": "The Decoder",
-      "published": "2026-03-19T19:51:08+00:00",
-      "link": "https://the-decoder.com/elevenlabs-now-lets-you-sell-ai-music-you-dont-own/"
     }
   ]
 };
