@@ -1,5 +1,5 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-03-26T06:02:19.586670+00:00",
+  "lastUpdated": "2026-03-26T08:09:20.609343+00:00",
   "items": [
     {
       "title": "Mercor competitor Deccan AI raises $25M, sources experts from India",
@@ -185,7 +185,7 @@ const FEED_DATA = {
     },
     {
       "title": "Ensu – Ente’s Local LLM app",
-      "summary": "Article URL: https://ente.com/blog/ensu/ Comments URL: https://news.ycombinator.com/item?id=47516650 Points: 347 # Comments: 159",
+      "summary": "Article URL: https://ente.com/blog/ensu/ Comments URL: https://news.ycombinator.com/item?id=47516650 Points: 350 # Comments: 162",
       "source": "Hacker News",
       "published": "2026-03-25T12:49:14+00:00",
       "link": "https://ente.com/blog/ensu/"
@@ -241,7 +241,7 @@ const FEED_DATA = {
     },
     {
       "title": "I tried to prove I'm not AI. My aunt wasn't convinced",
-      "summary": "Article URL: https://www.bbc.com/future/article/20260324-i-tried-to-prove-im-not-an-ai-deepfake Comments URL: https://news.ycombinator.com/item?id=47515502 Points: 150 # Comments: 170",
+      "summary": "Article URL: https://www.bbc.com/future/article/20260324-i-tried-to-prove-im-not-an-ai-deepfake Comments URL: https://news.ycombinator.com/item?id=47515502 Points: 156 # Comments: 176",
       "source": "Hacker News",
       "published": "2026-03-25T10:28:49+00:00",
       "link": "https://www.bbc.com/future/article/20260324-i-tried-to-prove-im-not-an-ai-deepfake"
@@ -283,7 +283,7 @@ const FEED_DATA = {
     },
     {
       "title": "TurboQuant: Redefining AI efficiency with extreme compression",
-      "summary": "Article URL: https://research.google/blog/turboquant-redefining-ai-efficiency-with-extreme-compression/ Comments URL: https://news.ycombinator.com/item?id=47513475 Points: 509 # Comments: 143",
+      "summary": "Article URL: https://research.google/blog/turboquant-redefining-ai-efficiency-with-extreme-compression/ Comments URL: https://news.ycombinator.com/item?id=47513475 Points: 514 # Comments: 144",
       "source": "Hacker News",
       "published": "2026-03-25T05:00:54+00:00",
       "link": "https://research.google/blog/turboquant-redefining-ai-efficiency-with-extreme-compression/"
@@ -367,7 +367,7 @@ const FEED_DATA = {
     },
     {
       "title": "Is anybody else bored of talking about AI?",
-      "summary": "Article URL: https://blog.jakesaunders.dev/is-anybody-else-bored-of-talking-about-ai/ Comments URL: https://news.ycombinator.com/item?id=47508745 Points: 719 # Comments: 512",
+      "summary": "Article URL: https://blog.jakesaunders.dev/is-anybody-else-bored-of-talking-about-ai/ Comments URL: https://news.ycombinator.com/item?id=47508745 Points: 723 # Comments: 514",
       "source": "Hacker News",
       "published": "2026-03-24T20:31:08+00:00",
       "link": "https://blog.jakesaunders.dev/is-anybody-else-bored-of-talking-about-ai/"
@@ -437,7 +437,7 @@ const FEED_DATA = {
     },
     {
       "title": "The AI Industry Is Lying to You",
-      "summary": "Article URL: https://www.wheresyoured.at/the-ai-industry-is-lying-to-you/ Comments URL: https://news.ycombinator.com/item?id=47506259 Points: 160 # Comments: 127",
+      "summary": "Article URL: https://www.wheresyoured.at/the-ai-industry-is-lying-to-you/ Comments URL: https://news.ycombinator.com/item?id=47506259 Points: 160 # Comments: 128",
       "source": "Hacker News",
       "published": "2026-03-24T17:30:55+00:00",
       "link": "https://www.wheresyoured.at/the-ai-industry-is-lying-to-you/"
@@ -500,7 +500,7 @@ const FEED_DATA = {
     },
     {
       "title": "Hypura – A storage-tier-aware LLM inference scheduler for Apple Silicon",
-      "summary": "Article URL: https://github.com/t8/hypura Comments URL: https://news.ycombinator.com/item?id=47504695 Points: 216 # Comments: 84",
+      "summary": "Article URL: https://github.com/t8/hypura Comments URL: https://news.ycombinator.com/item?id=47504695 Points: 218 # Comments: 84",
       "source": "Hacker News",
       "published": "2026-03-24T16:02:22+00:00",
       "link": "https://github.com/t8/hypura"
@@ -549,7 +549,7 @@ const FEED_DATA = {
     },
     {
       "title": "So where are all the AI apps?",
-      "summary": "Article URL: https://www.answer.ai/posts/2026-03-12-so-where-are-all-the-ai-apps.html Comments URL: https://news.ycombinator.com/item?id=47503006 Points: 438 # Comments: 408",
+      "summary": "Article URL: https://www.answer.ai/posts/2026-03-12-so-where-are-all-the-ai-apps.html Comments URL: https://news.ycombinator.com/item?id=47503006 Points: 440 # Comments: 408",
       "source": "Hacker News",
       "published": "2026-03-24T14:19:59+00:00",
       "link": "https://www.answer.ai/posts/2026-03-12-so-where-are-all-the-ai-apps.html"
@@ -598,7 +598,7 @@ const FEED_DATA = {
     },
     {
       "title": "LLM Neuroanatomy II: Modern LLM Hacking and Hints of a Universal Language?",
-      "summary": "Article URL: https://dnhkng.github.io/posts/rys-ii/ Comments URL: https://news.ycombinator.com/item?id=47500709 Points: 138 # Comments: 37",
+      "summary": "Article URL: https://dnhkng.github.io/posts/rys-ii/ Comments URL: https://news.ycombinator.com/item?id=47500709 Points: 142 # Comments: 37",
       "source": "Hacker News",
       "published": "2026-03-24T10:33:54+00:00",
       "link": "https://dnhkng.github.io/posts/rys-ii/"
@@ -780,7 +780,7 @@ const FEED_DATA = {
     },
     {
       "title": "iPhone 17 Pro Demonstrated Running a 400B LLM",
-      "summary": "https://xcancel.com/anemll/status/2035901335984611412 Comments URL: https://news.ycombinator.com/item?id=47490070 Points: 707 # Comments: 326",
+      "summary": "https://xcancel.com/anemll/status/2035901335984611412 Comments URL: https://news.ycombinator.com/item?id=47490070 Points: 709 # Comments: 327",
       "source": "Hacker News",
       "published": "2026-03-23T14:30:10+00:00",
       "link": "https://twitter.com/anemll/status/2035901335984611412"
