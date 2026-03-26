@@ -1,6 +1,118 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-03-26T11:38:34.997758+00:00",
+  "lastUpdated": "2026-03-26T16:45:10.250620+00:00",
   "items": [
+    {
+      "title": "Meta gets ready to launch two new Ray-Ban AI glasses",
+      "summary": "This is Lowpass by Janko Roettgers, a newsletter on the ever-evolving intersection of tech and entertainment, syndicated just for The Verge subscribers once a week.",
+      "source": "The Verge",
+      "published": "2026-03-26T16:30:00+00:00",
+      "link": "https://www.theverge.com/column/901314/meta-new-ray-ban-ai-glasses"
+    },
+    {
+      "title": "ByteDance’s new AI video generation model, Dreamina Seedance 2.0, comes to CapCut",
+      "summary": "The new model in CapCut will have built-in protections for making video from real faces or unauthorized intellectual property.",
+      "source": "TechCrunch",
+      "published": "2026-03-26T15:25:13+00:00",
+      "link": "https://techcrunch.com/2026/03/26/bytedances-new-ai-video-generation-model-dreamina-seedance-2-0-comes-to-capcut/"
+    },
+    {
+      "title": "Wikipedia bans AI-generated articles",
+      "summary": "Wikipedia will no longer allow editors to write or rewrite articles using AI. The update, which was added to Wikipedia's guidelines late last week, cites the tendency for AI-written articles to violate \"several of Wikipedia's core content policies\" as the reason for the ban.",
+      "source": "The Verge",
+      "published": "2026-03-26T15:02:52+00:00",
+      "link": "https://www.theverge.com/tech/901461/wikipedia-ai-generated-article-ban"
+    },
+    {
+      "title": "Senators are pushing to find out how much electricity data centers actually use",
+      "summary": "On Thursday, senators Elizabeth Warren (D-MA) and Josh Hawley (R-MO) sent a letter to the Energy Information Administration (EIA) asking it to collect \"comprehensive, annual energy-use disclosures\" on data centers and make that information publicly available, as first reported...",
+      "source": "The Verge",
+      "published": "2026-03-26T14:25:32+00:00",
+      "link": "https://www.theverge.com/policy/901404/senators-warren-hawley-eia-letter-data-centers"
+    },
+    {
+      "title": "Conntour raises $7M from General Catalyst, YC to build an AI search engine for security video systems",
+      "summary": "Conntour uses AI models to let security teams query camera feeds using natural language to find any object, person, or situation.",
+      "source": "TechCrunch",
+      "published": "2026-03-26T13:41:00+00:00",
+      "link": "https://techcrunch.com/2026/03/26/conntour-raises-7m-from-general-catalyst-yc-to-build-an-ai-search-engine-for-security-video-systems/"
+    },
+    {
+      "title": "Marriage over, €100k down; AI users whose lives were wrecked by delusion",
+      "summary": "Article URL: https://www.theguardian.com/lifeandstyle/2026/mar/26/ai-chatbot-users-lives-wrecked-by-delusion Comments URL: https://news.ycombinator.com/item?id=47530264 Points: 84 # Comments: 73",
+      "source": "Hacker News",
+      "published": "2026-03-26T13:32:23+00:00",
+      "link": "https://www.theguardian.com/lifeandstyle/2026/mar/26/ai-chatbot-users-lives-wrecked-by-delusion"
+    },
+    {
+      "title": "Cohere launches an open source voice model specifically for transcription",
+      "summary": "Relatively light at just 2 billion parameters, the model is meant for use with consumer-grade GPUs for those who want to self-host it. It currently supports 14 languages.",
+      "source": "TechCrunch",
+      "published": "2026-03-26T13:30:00+00:00",
+      "link": "https://techcrunch.com/2026/03/26/cohere-launches-an-open-source-voice-model-specifically-for-transcription/"
+    },
+    {
+      "title": "Webtoon is adding AI localization tools to its comics platform",
+      "summary": "Canvas, Webtoon's platform for user-uploaded comics, is about to get a major overhaul that's designed to help creators make more money and share their art with a wider audience.",
+      "source": "The Verge",
+      "published": "2026-03-26T13:00:00+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/899108/webtoon-canvas-ai-translation-localization-yongsoo-kim"
+    },
+    {
+      "title": "EU backs nude app ban and delays to landmark AI rules",
+      "summary": "European lawmakers have voted to delay key parts of the EU AI Act, the bloc's flagship law for regulating artificial intelligence, while also backing proposals to ban nudify apps.",
+      "source": "The Verge",
+      "published": "2026-03-26T12:49:01+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/901315/eu-ai-act-delays-ban-nudify-apps"
+    },
+    {
+      "title": "The Download: a battery pivot to AI, and rewriting math",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Why this battery company is pivoting to AI Qichao Hu doesn’t mince words about the state of the battery industry.",
+      "source": "MIT Tech Review",
+      "published": "2026-03-26T12:42:53+00:00",
+      "link": "https://www.technologyreview.com/2026/03/26/1134697/the-download-battery-ai-pivot-new-ai-tool-math/"
+    },
+    {
+      "title": "OpenAI halts \"Adult Mode\" as advisors, investors, and employees raise red flags",
+      "summary": "OpenAI has put development of an erotic chatbot on hold indefinitely, the Financial Times reports. The article OpenAI halts \"Adult Mode\" as advisors, investors, and employees raise red flags appeared first on The Decoder.",
+      "source": "The Decoder",
+      "published": "2026-03-26T12:34:29+00:00",
+      "link": "https://the-decoder.com/openai-halts-adult-mode-as-advisors-investors-and-employees-raise-red-flags/"
+    },
+    {
+      "title": "GitHub will use Copilot interaction data to train AI models starting April 2026",
+      "summary": "Starting April 24, 2026, GitHub is changing its data policy for Copilot. Interaction data from users on the Free, Pro, and Pro+ plans will be used to train AI models unless users actively opt out.",
+      "source": "The Decoder",
+      "published": "2026-03-26T12:14:02+00:00",
+      "link": "https://the-decoder.com/github-will-use-copilot-interaction-data-to-train-ai-models-starting-april-2026/"
+    },
+    {
+      "title": "A ‘pound of flesh’ from data centers: one senator’s answer to AI job losses",
+      "summary": "Fears of AI-driven job loss are growing fast, and they’re fueling backlash against data centers. Sen.",
+      "source": "TechCrunch",
+      "published": "2026-03-26T12:00:00+00:00",
+      "link": "https://techcrunch.com/2026/03/26/a-pound-of-flesh-from-data-centers-one-senators-answer-to-ai-job-losses/"
+    },
+    {
+      "title": "OpenAI shelves erotic chatbot ‘indefinitely’",
+      "summary": "OpenAI ​has paused plans to release a sexualized \"adult mode\" for ChatGPT, in its latest move to refocus on the company's core ​products.",
+      "source": "The Verge",
+      "published": "2026-03-26T11:58:09+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/901293/openai-adult-mode-erotic-chatbot-shelved-indefinitely"
+    },
+    {
+      "title": "ARC-AGI-3 offers $2M to any AI that matches untrained humans, yet every frontier model scores below 1%",
+      "summary": "The new ARC-AGI-3 benchmark drops AI systems into interactive game environments that humans solve with ease. No frontier model breaks the 1 percent mark because the benchmark strips away their biggest advantages.",
+      "source": "The Decoder",
+      "published": "2026-03-26T11:52:55+00:00",
+      "link": "https://the-decoder.com/arc-agi-3-offers-2m-to-any-ai-that-matches-untrained-humans-yet-every-frontier-model-scores-below-1/"
+    },
+    {
+      "title": "Mistral releases a new open source model for speech generation",
+      "summary": "The model, which lets enterprises build voice agents for sales and customer engagement, puts Mistral in direct competition with the likes of ElevenLabs, Deepgram, and OpenAI.",
+      "source": "TechCrunch",
+      "published": "2026-03-26T11:30:00+00:00",
+      "link": "https://techcrunch.com/2026/03/26/mistral-releases-a-new-open-source-model-for-speech-generation/"
+    },
     {
       "title": "Mistral releases a new open-source model for speech generation",
       "summary": "Mistral's new speech model can run on a smartwatch or a smartphone.",
@@ -28,6 +140,13 @@ const FEED_DATA = {
       "source": "AI News",
       "published": "2026-03-26T09:11:08+00:00",
       "link": "https://www.artificialintelligence-news.com/news/rpa-still-matters-but-ai-is-changing-how-automation-works/"
+    },
+    {
+      "title": "Show HN: Robust LLM Extractor for Websites in TypeScript",
+      "summary": "We've been building data pipelines that scrape websites and extract structured data for a while now.",
+      "source": "Hacker News",
+      "published": "2026-03-26T03:55:52+00:00",
+      "link": "https://github.com/lightfeed/extractor"
     },
     {
       "title": "Mercor competitor Deccan AI raises $25M, sources experts from India",
@@ -220,7 +339,7 @@ const FEED_DATA = {
     },
     {
       "title": "Ensu – Ente’s Local LLM app",
-      "summary": "Article URL: https://ente.com/blog/ensu/ Comments URL: https://news.ycombinator.com/item?id=47516650 Points: 352 # Comments: 165",
+      "summary": "Article URL: https://ente.com/blog/ensu/ Comments URL: https://news.ycombinator.com/item?id=47516650 Points: 354 # Comments: 167",
       "source": "Hacker News",
       "published": "2026-03-25T12:49:14+00:00",
       "link": "https://ente.com/blog/ensu/"
@@ -276,7 +395,7 @@ const FEED_DATA = {
     },
     {
       "title": "I tried to prove I'm not AI. My aunt wasn't convinced",
-      "summary": "Article URL: https://www.bbc.com/future/article/20260324-i-tried-to-prove-im-not-an-ai-deepfake Comments URL: https://news.ycombinator.com/item?id=47515502 Points: 161 # Comments: 179",
+      "summary": "Article URL: https://www.bbc.com/future/article/20260324-i-tried-to-prove-im-not-an-ai-deepfake Comments URL: https://news.ycombinator.com/item?id=47515502 Points: 165 # Comments: 187",
       "source": "Hacker News",
       "published": "2026-03-25T10:28:49+00:00",
       "link": "https://www.bbc.com/future/article/20260324-i-tried-to-prove-im-not-an-ai-deepfake"
@@ -318,7 +437,7 @@ const FEED_DATA = {
     },
     {
       "title": "TurboQuant: Redefining AI efficiency with extreme compression",
-      "summary": "Article URL: https://research.google/blog/turboquant-redefining-ai-efficiency-with-extreme-compression/ Comments URL: https://news.ycombinator.com/item?id=47513475 Points: 518 # Comments: 144",
+      "summary": "Article URL: https://research.google/blog/turboquant-redefining-ai-efficiency-with-extreme-compression/ Comments URL: https://news.ycombinator.com/item?id=47513475 Points: 526 # Comments: 150",
       "source": "Hacker News",
       "published": "2026-03-25T05:00:54+00:00",
       "link": "https://research.google/blog/turboquant-redefining-ai-efficiency-with-extreme-compression/"
@@ -402,7 +521,7 @@ const FEED_DATA = {
     },
     {
       "title": "Is anybody else bored of talking about AI?",
-      "summary": "Article URL: https://blog.jakesaunders.dev/is-anybody-else-bored-of-talking-about-ai/ Comments URL: https://news.ycombinator.com/item?id=47508745 Points: 726 # Comments: 514",
+      "summary": "Article URL: https://blog.jakesaunders.dev/is-anybody-else-bored-of-talking-about-ai/ Comments URL: https://news.ycombinator.com/item?id=47508745 Points: 731 # Comments: 514",
       "source": "Hacker News",
       "published": "2026-03-24T20:31:08+00:00",
       "link": "https://blog.jakesaunders.dev/is-anybody-else-bored-of-talking-about-ai/"
@@ -472,7 +591,7 @@ const FEED_DATA = {
     },
     {
       "title": "The AI Industry Is Lying to You",
-      "summary": "Article URL: https://www.wheresyoured.at/the-ai-industry-is-lying-to-you/ Comments URL: https://news.ycombinator.com/item?id=47506259 Points: 161 # Comments: 129",
+      "summary": "Article URL: https://www.wheresyoured.at/the-ai-industry-is-lying-to-you/ Comments URL: https://news.ycombinator.com/item?id=47506259 Points: 163 # Comments: 129",
       "source": "Hacker News",
       "published": "2026-03-24T17:30:55+00:00",
       "link": "https://www.wheresyoured.at/the-ai-industry-is-lying-to-you/"
@@ -535,7 +654,7 @@ const FEED_DATA = {
     },
     {
       "title": "Hypura – A storage-tier-aware LLM inference scheduler for Apple Silicon",
-      "summary": "Article URL: https://github.com/t8/hypura Comments URL: https://news.ycombinator.com/item?id=47504695 Points: 218 # Comments: 85",
+      "summary": "Article URL: https://github.com/t8/hypura Comments URL: https://news.ycombinator.com/item?id=47504695 Points: 220 # Comments: 87",
       "source": "Hacker News",
       "published": "2026-03-24T16:02:22+00:00",
       "link": "https://github.com/t8/hypura"
@@ -577,14 +696,14 @@ const FEED_DATA = {
     },
     {
       "title": "The bridge to wealth is being pulled up with AI",
-      "summary": "Article URL: https://danielhomola.com/m%20&%20e/ai/your-bridge-to-wealth-is-being-pulled-up/ Comments URL: https://news.ycombinator.com/item?id=47503296 Points: 267 # Comments: 395",
+      "summary": "Article URL: https://danielhomola.com/m%20&%20e/ai/your-bridge-to-wealth-is-being-pulled-up/ Comments URL: https://news.ycombinator.com/item?id=47503296 Points: 267 # Comments: 402",
       "source": "Hacker News",
       "published": "2026-03-24T14:39:20+00:00",
       "link": "https://danielhomola.com/m%20&%20e/ai/your-bridge-to-wealth-is-being-pulled-up/"
     },
     {
       "title": "So where are all the AI apps?",
-      "summary": "Article URL: https://www.answer.ai/posts/2026-03-12-so-where-are-all-the-ai-apps.html Comments URL: https://news.ycombinator.com/item?id=47503006 Points: 443 # Comments: 410",
+      "summary": "Article URL: https://www.answer.ai/posts/2026-03-12-so-where-are-all-the-ai-apps.html Comments URL: https://news.ycombinator.com/item?id=47503006 Points: 444 # Comments: 411",
       "source": "Hacker News",
       "published": "2026-03-24T14:19:59+00:00",
       "link": "https://www.answer.ai/posts/2026-03-12-so-where-are-all-the-ai-apps.html"
@@ -633,7 +752,7 @@ const FEED_DATA = {
     },
     {
       "title": "LLM Neuroanatomy II: Modern LLM Hacking and Hints of a Universal Language?",
-      "summary": "Article URL: https://dnhkng.github.io/posts/rys-ii/ Comments URL: https://news.ycombinator.com/item?id=47500709 Points: 142 # Comments: 37",
+      "summary": "Article URL: https://dnhkng.github.io/posts/rys-ii/ Comments URL: https://news.ycombinator.com/item?id=47500709 Points: 143 # Comments: 37",
       "source": "Hacker News",
       "published": "2026-03-24T10:33:54+00:00",
       "link": "https://dnhkng.github.io/posts/rys-ii/"
@@ -1281,125 +1400,6 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-03-20T16:14:04+00:00",
       "link": "https://techcrunch.com/2026/03/20/trumps-ai-framework-targets-state-laws-shifts-child-safety-burden-to-parents/"
-    },
-    {
-      "title": "Anthropic turns Claude Code into an always-on AI agent with new channels feature",
-      "summary": "Anthropic's new channels feature for Claude Code lets external events like CI results or chat messages flow directly into an active session, so Claude can keep working without anyone at the terminal.",
-      "source": "The Decoder",
-      "published": "2026-03-20T15:33:28+00:00",
-      "link": "https://the-decoder.com/anthropic-turns-claude-code-into-an-always-on-ai-agent-with-new-channels-feature/"
-    },
-    {
-      "title": "Adobe Firefly now bundles 30+ AI models and lets users train custom styles on their own images",
-      "summary": "Adobe is expanding its AI creative platform, Firefly, to include user-defined models that can be trained on your own images. The company is also bundling over 30 AI models from different providers in a single environment.",
-      "source": "The Decoder",
-      "published": "2026-03-20T15:15:15+00:00",
-      "link": "https://the-decoder.com/adobe-firefly-now-bundles-30-ai-models-and-lets-users-train-custom-styles-on-their-own-images/"
-    },
-    {
-      "title": "At Palantir’s Developer Conference, AI Is Built to Win Wars",
-      "summary": "As business soars, Palantir is doubling down on a vision of AI built for battlefield advantage—and attracting customers who agree.",
-      "source": "Wired",
-      "published": "2026-03-20T15:00:00+00:00",
-      "link": "https://www.wired.com/story/palantir-developer-conference-ai-war-alex-karp/"
-    },
-    {
-      "title": "Google Search is now using AI to replace headlines",
-      "summary": "Article URL: https://www.theverge.com/tech/896490/google-replace-news-headlines-in-search-canary-coal-mine-experiment Comments URL: https://news.ycombinator.com/item?id=47455224 Points: 79 # Comments: 15",
-      "source": "Hacker News",
-      "published": "2026-03-20T14:39:05+00:00",
-      "link": "https://www.theverge.com/tech/896490/google-replace-news-headlines-in-search-canary-coal-mine-experiment"
-    },
-    {
-      "title": "Why people really hate AI",
-      "summary": "There's a big, and increasing, disconnect in culture right now when it comes to artificial intelligence. Companies of all shapes and sizes are hunting for places to deploy AI and can't stop talking about how this new technology will change everything.",
-      "source": "The Verge",
-      "published": "2026-03-20T13:27:53+00:00",
-      "link": "https://www.theverge.com/podcast/897900/ai-trust-gap-killer-app-vergecast"
-    },
-    {
-      "title": "The Download: OpenAI is building a fully automated researcher, and a psychedelic trial blind spot",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.",
-      "source": "MIT Tech Review",
-      "published": "2026-03-20T13:15:45+00:00",
-      "link": "https://www.technologyreview.com/2026/03/20/1134448/the-download-openai-building-fully-automated-researcher-psychedelic-drug-trial/"
-    },
-    {
-      "title": "Google pulls back on browser AI as the industry bets on coding tools",
-      "summary": "Browser agents are losing the battle against coding agents - and Google is drawing the consequences. The article Google pulls back on browser AI as the industry bets on coding tools appeared first on The Decoder.",
-      "source": "The Decoder",
-      "published": "2026-03-20T12:55:06+00:00",
-      "link": "https://the-decoder.com/google-pulls-back-on-browser-ai-as-the-industry-bets-on-coding-tools/"
-    },
-    {
-      "title": "Qualcomm shrinks AI reasoning chains by 2.4x to fit thinking models on smartphones",
-      "summary": "Qualcomm AI Research has developed a modular system that brings reasoning-capable language models to smartphones by compressing the models' verbose thought processes by a factor of 2.4.",
-      "source": "The Decoder",
-      "published": "2026-03-20T12:23:40+00:00",
-      "link": "https://the-decoder.com/qualcomm-shrinks-ai-reasoning-chains-by-2-4x-to-fit-thinking-models-on-smartphones/"
-    },
-    {
-      "title": "The best AI investment might be in energy tech",
-      "summary": "Power has become one of the biggest bottlenecks in rolling out new AI data centers. That's creating an opening for investors.",
-      "source": "TechCrunch",
-      "published": "2026-03-20T12:00:00+00:00",
-      "link": "https://techcrunch.com/2026/03/20/the-best-ai-investment-might-be-in-energy-tech/"
-    },
-    {
-      "title": "OpenAI is throwing everything into building a fully automated researcher",
-      "summary": "OpenAI is refocusing its research efforts and throwing its resources into a new grand challenge.",
-      "source": "MIT Tech Review",
-      "published": "2026-03-20T11:57:16+00:00",
-      "link": "https://www.technologyreview.com/2026/03/20/1134438/openai-is-throwing-everything-into-building-a-fully-automated-researcher/"
-    },
-    {
-      "title": "These AI notetaking devices can help you record and transcribe your meetings",
-      "summary": "These physical notetakers transcribe audio and give users summaries and action items of meetings using AI. Some even offer live translation.",
-      "source": "TechCrunch",
-      "published": "2026-03-20T11:31:38+00:00",
-      "link": "https://techcrunch.com/2026/03/20/ai-notetaker-hardware-devices-pins-pendants-record-transcribe/"
-    },
-    {
-      "title": "AI (2014)",
-      "summary": "Article URL: https://blog.samaltman.com/ai Comments URL: https://news.ycombinator.com/item?id=47453010 Points: 80 # Comments: 71",
-      "source": "Hacker News",
-      "published": "2026-03-20T11:10:17+00:00",
-      "link": "https://blog.samaltman.com/ai"
-    },
-    {
-      "title": "I Learned More Than I Thought I Would From Using Food-Tracking Apps",
-      "summary": "These apps, some of which use AI and computer vision, were helpful for meeting my caloric and nutrition intake goals. But they also gave me some anxiety.",
-      "source": "Wired",
-      "published": "2026-03-20T10:30:00+00:00",
-      "link": "https://www.wired.com/story/food-tracking-apps-ai-nutrition-weight-loss/"
-    },
-    {
-      "title": "Google gives AI shopping agents cart, catalog, and loyalty features",
-      "summary": "Google has expanded the Universal Commerce Protocol (UCP) with shopping cart, catalog, and identity features to make online shopping easier for AI agents. The article Google gives AI shopping agents cart, catalog, and loyalty features appeared first on The Decoder.",
-      "source": "The Decoder",
-      "published": "2026-03-20T10:09:50+00:00",
-      "link": "https://the-decoder.com/google-gives-ai-shopping-agents-cart-catalog-and-loyalty-features/"
-    },
-    {
-      "title": "My AI Agent ‘Cofounder’ Conquered LinkedIn. Then It Got Banned",
-      "summary": "When social media is constantly pushing people to use AI, why not let AI agents participate?",
-      "source": "Wired",
-      "published": "2026-03-20T10:00:00+00:00",
-      "link": "https://www.wired.com/story/linkedin-invited-my-ai-cofounder-to-give-a-corporate-talk-then-banned-it/"
-    },
-    {
-      "title": "LinkedIn Invited My AI 'Cofounder' to Give a Corporate Talk—Then Banned It",
-      "summary": "When social media is constantly exhorting people to use AI, what is the point of not letting AI agents participate?",
-      "source": "Wired",
-      "published": "2026-03-20T10:00:00+00:00",
-      "link": "https://www.wired.com/story/linkedin-invited-my-ai-cofounder-to-give-a-corporate-talk-then-banned-it/"
-    },
-    {
-      "title": "OpenAI plans to merge ChatGPT, Codex, and Atlas browser into a single desktop superapp",
-      "summary": "OpenAI now believes its strategy of shipping as many products as possible at once left the company exposed. A major strategic shift is supposed to get things back on track.",
-      "source": "The Decoder",
-      "published": "2026-03-20T07:35:18+00:00",
-      "link": "https://the-decoder.com/openai-plans-to-merge-chatgpt-codex-and-atlas-browser-into-a-single-desktop-superapp/"
     }
   ]
 };
