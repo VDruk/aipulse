@@ -1,6 +1,69 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-03-26T16:45:10.250620+00:00",
+  "lastUpdated": "2026-03-26T19:57:29.402439+00:00",
   "items": [
+    {
+      "title": "Apple gets full Gemini access and uses distillation to build lightweight on-device AI",
+      "summary": "Apple taps into Google's Gemini to distill smaller AI models for Siri and its devices. In short, it's paying for what Chinese AI companies allegedly do in secret.",
+      "source": "The Decoder",
+      "published": "2026-03-26T19:54:12+00:00",
+      "link": "https://the-decoder.com/apple-gets-full-gemini-access-and-uses-distillation-to-build-lightweight-on-device-ai/"
+    },
+    {
+      "title": "Mistral's first open-weight TTS model Voxtral clones voices from three seconds of audio across nine languages",
+      "summary": "French AI startup Mistral has released Voxtral TTS, its first text-to-speech model that supports nine languages and can clone voices from just three seconds of audio.",
+      "source": "The Decoder",
+      "published": "2026-03-26T19:16:58+00:00",
+      "link": "https://the-decoder.com/mistrals-first-open-weight-tts-model-voxtral-clones-voices-from-three-seconds-of-audio-across-nine-languages/"
+    },
+    {
+      "title": "Google’s ‘live’ AI search assistant can handle conversations in dozens more languages",
+      "summary": "Google is expanding access to Search Live, a feature that lets you search for information using your voice and camera. The AI search assistant is now available in more than 200 countries and territories, as well as dozens of languages, according to an announcement on Thursday.",
+      "source": "The Verge",
+      "published": "2026-03-26T18:47:51+00:00",
+      "link": "https://www.theverge.com/tech/901816/google-search-live-ai-assistant-expansion"
+    },
+    {
+      "title": "OpenAI abandons yet another side quest: ChatGPT’s erotic mode",
+      "summary": "It's only the latest of several side projects that the AI startup has ditched over the past week.",
+      "source": "TechCrunch",
+      "published": "2026-03-26T18:34:02+00:00",
+      "link": "https://techcrunch.com/2026/03/26/openai-abandons-yet-another-side-quest-chatgpts-erotic-mode/"
+    },
+    {
+      "title": "OpenAI and Anthropic before the IPO: Different balance sheets make comparison difficult",
+      "summary": "OpenAI and Anthropic are both growing fast, but their revenue figures are reportedly hard to compare because each company accounts for cloud partnerships differently.",
+      "source": "The Decoder",
+      "published": "2026-03-26T18:26:54+00:00",
+      "link": "https://the-decoder.com/openai-and-anthropic-before-the-ipo-different-balance-sheets-make-comparison-difficult/"
+    },
+    {
+      "title": "Data centers get ready — the Senate wants to see your power bills",
+      "summary": "Senators Josh Hawley and Elizabeth Warren want the Energy Information Administration to gather more details about how data centers use power — and how that affects the grid.",
+      "source": "TechCrunch",
+      "published": "2026-03-26T18:23:31+00:00",
+      "link": "https://techcrunch.com/2026/03/26/data-centers-get-ready-the-senate-wants-to-see-your-power-bills/"
+    },
+    {
+      "title": "Meet the Tech Reporters Using AI to Help Write and Edit Their Stories",
+      "summary": "Independent writers are using AI agents all throughout their reporting process. What’s the value of a human journalist, anyway?",
+      "source": "Wired",
+      "published": "2026-03-26T18:00:00+00:00",
+      "link": "https://www.wired.com/story/tech-reporters-using-ai-write-edit-stories/"
+    },
+    {
+      "title": "Gemini 3.1 Flash Live is Google's most natural-sounding AI voice model yet",
+      "summary": "Google's Gemini 3.1 Flash Live promises faster, more natural voice conversations. Developers can trade off quality for speed, and pricing stays at Gemini 2.5 levels.",
+      "source": "The Decoder",
+      "published": "2026-03-26T17:35:00+00:00",
+      "link": "https://the-decoder.com/gemini-3-1-flash-live-is-googles-most-natural-sounding-ai-voice-model-yet/"
+    },
+    {
+      "title": "Google rolls out Search Live globally, turning your phone camera into a real-time AI search tool",
+      "summary": "Google is rolling out \"Search Live\" to more than 200 countries. The feature lets users talk to Google Search using voice and camera.",
+      "source": "The Decoder",
+      "published": "2026-03-26T17:08:47+00:00",
+      "link": "https://the-decoder.com/google-rolls-out-search-live-globally-turning-your-phone-camera-into-a-real-time-ai-search-tool/"
+    },
     {
       "title": "Meta gets ready to launch two new Ray-Ban AI glasses",
       "summary": "This is Lowpass by Janko Roettgers, a newsletter on the ever-evolving intersection of tech and entertainment, syndicated just for The Verge subscribers once a week.",
@@ -86,7 +149,7 @@ const FEED_DATA = {
       "link": "https://the-decoder.com/github-will-use-copilot-interaction-data-to-train-ai-models-starting-april-2026/"
     },
     {
-      "title": "A ‘pound of flesh’ from data centers: one senator’s answer to AI job losses",
+      "title": "A ‘pound of flesh’ from data centers: One senator’s answer to AI job losses",
       "summary": "Fears of AI-driven job loss are growing fast, and they’re fueling backlash against data centers. Sen.",
       "source": "TechCrunch",
       "published": "2026-03-26T12:00:00+00:00",
@@ -1337,69 +1400,6 @@ const FEED_DATA = {
       "source": "Ars Technica",
       "published": "2026-03-20T20:50:46+00:00",
       "link": "https://arstechnica.com/security/2026/03/widely-used-trivy-scanner-compromised-in-ongoing-supply-chain-attack/"
-    },
-    {
-      "title": "What happened at Nvidia GTC: NemoClaw, Robot Olaf, and a $1 trillion bet",
-      "summary": "CEO Jensen Huang took the stage at Nvidia’s GTC conference this week in his signature leather jacket to deliver a two-and-a-half-hour keynote, projecting $1 trillion in AI chip sales through 2027, declaring that every company needs an “OpenClaw strategy,” and closing with a...",
-      "source": "TechCrunch",
-      "published": "2026-03-20T20:02:35+00:00",
-      "link": "https://techcrunch.com/video/what-happened-at-nvidia-gtc-nemoclaw-robot-olaf-and-a-1-trillion-bet/"
-    },
-    {
-      "title": "Nvidia has an OpenClaw strategy. Do you?",
-      "summary": "CEO Jensen Huang took the stage at Nvidia’s GTC conference this week in his signature leather jacket to deliver a two-and-a-half-hour keynote, projecting $1 trillion in AI chip sales through 2027, declaring that every company needs an “OpenClaw strategy,” and closing with a...",
-      "source": "TechCrunch",
-      "published": "2026-03-20T19:48:38+00:00",
-      "link": "https://techcrunch.com/podcast/nvidia-has-an-openclaw-strategy-do-you/"
-    },
-    {
-      "title": "OpenAI acquires Astral to bring Python's most popular dev tools into its Codex AI coding platform",
-      "summary": "OpenAI is acquiring Astral, the company behind some of the most widely used Python tools in the world. The deal signals how aggressively AI labs like OpenAI and Anthropic are competing for dominance in AI-powered coding.",
-      "source": "The Decoder",
-      "published": "2026-03-20T19:32:01+00:00",
-      "link": "https://the-decoder.com/openai-acquires-astral-to-bring-pythons-most-popular-dev-tools-into-its-codex-ai-coding-platform/"
-    },
-    {
-      "title": "Gamers Hate Nvidia's DLSS 5. Developers Aren’t Crazy About It, Either",
-      "summary": "Nvidia’s new AI upscaling gaming technology struck gamers as uncanny and off-putting. Developers don't seem to like it, either, but it could be “the default” in a few years.",
-      "source": "Wired",
-      "published": "2026-03-20T19:13:19+00:00",
-      "link": "https://www.wired.com/story/gamers-hate-nvidia-dlss-5-developers-arent-crazy-about-it-either/"
-    },
-    {
-      "title": "White House AI plan hands Big Tech the federal preemption it lobbied for",
-      "summary": "The White House wants to make AI regulation a federal matter, stripping states of their ability to set their own rules; exactly what Big Tech has been lobbying for. The article White House AI plan hands Big Tech the federal preemption it lobbied for appeared first on The Decoder.",
-      "source": "The Decoder",
-      "published": "2026-03-20T19:05:24+00:00",
-      "link": "https://the-decoder.com/white-house-ai-plan-hands-big-tech-the-federal-preemption-it-lobbied-for/"
-    },
-    {
-      "title": "Trump takes another shot at dismantling state AI regulation",
-      "summary": "The Trump administration on Friday unveiled its new legislative blueprint for AI regulation, and the seven-point plan includes a clear message: The federal government should avoid many AI regulations beyond a set of child safety rules, and it should bar states from messing with...",
-      "source": "The Verge",
-      "published": "2026-03-20T18:17:02+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/898055/trump-new-ai-policy-framework"
-    },
-    {
-      "title": "WordPress.com now lets AI agents write and publish posts, and more",
-      "summary": "New AI agents on WordPress.com could lower barriers to publishing while increasing machine-generated content across the web.",
-      "source": "TechCrunch",
-      "published": "2026-03-20T16:43:09+00:00",
-      "link": "https://techcrunch.com/2026/03/20/wordpress-com-now-lets-ai-agents-write-and-publish-posts-and-more/"
-    },
-    {
-      "title": "MacBook M5 Pro and Qwen3.5 = Local AI Security System",
-      "summary": "Article URL: https://www.sharpai.org/benchmark/ Comments URL: https://news.ycombinator.com/item?id=47457107 Points: 172 # Comments: 149",
-      "source": "Hacker News",
-      "published": "2026-03-20T16:41:42+00:00",
-      "link": "https://www.sharpai.org/benchmark/"
-    },
-    {
-      "title": "Trump’s AI framework targets state laws, shifts child safety burden to parents",
-      "summary": "Trump’s AI framework pushes federal preemption of state laws, emphasizes innovation, and shifts responsibility for child safety toward parents while laying out lighter-touch rules for tech companies.",
-      "source": "TechCrunch",
-      "published": "2026-03-20T16:14:04+00:00",
-      "link": "https://techcrunch.com/2026/03/20/trumps-ai-framework-targets-state-laws-shifts-child-safety-burden-to-parents/"
     }
   ]
 };
