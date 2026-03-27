@@ -1,5 +1,5 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-03-27T06:02:21.551045+00:00",
+  "lastUpdated": "2026-03-27T08:06:10.676452+00:00",
   "items": [
     {
       "title": "Anthropic wins injunction against Trump administration over Defense Department saga",
@@ -45,7 +45,7 @@ const FEED_DATA = {
     },
     {
       "title": "We rewrote JSONata with AI in a day, saved $500k/year",
-      "summary": "Article URL: https://www.reco.ai/blog/we-rewrote-jsonata-with-ai Comments URL: https://news.ycombinator.com/item?id=47536712 Points: 94 # Comments: 104",
+      "summary": "Article URL: https://www.reco.ai/blog/we-rewrote-jsonata-with-ai Comments URL: https://news.ycombinator.com/item?id=47536712 Points: 136 # Comments: 123",
       "source": "Hacker News",
       "published": "2026-03-26T22:36:41+00:00",
       "link": "https://www.reco.ai/blog/we-rewrote-jsonata-with-ai"
@@ -80,7 +80,7 @@ const FEED_DATA = {
     },
     {
       "title": "New York City hospitals drop Palantir as controversial AI firm expands in UK",
-      "summary": "Article URL: https://www.theguardian.com/technology/2026/mar/26/new-york-hospitals-palantir-ai Comments URL: https://news.ycombinator.com/item?id=47535371 Points: 283 # Comments: 138",
+      "summary": "Article URL: https://www.theguardian.com/technology/2026/mar/26/new-york-hospitals-palantir-ai Comments URL: https://news.ycombinator.com/item?id=47535371 Points: 286 # Comments: 138",
       "source": "Hacker News",
       "published": "2026-03-26T20:35:04+00:00",
       "link": "https://www.theguardian.com/technology/2026/mar/26/new-york-hospitals-palantir-ai"
@@ -185,7 +185,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI users whose lives were wrecked by delusion",
-      "summary": "Article URL: https://www.theguardian.com/lifeandstyle/2026/mar/26/ai-chatbot-users-lives-wrecked-by-delusion Comments URL: https://news.ycombinator.com/item?id=47530264 Points: 196 # Comments: 247",
+      "summary": "Article URL: https://www.theguardian.com/lifeandstyle/2026/mar/26/ai-chatbot-users-lives-wrecked-by-delusion Comments URL: https://news.ycombinator.com/item?id=47530264 Points: 199 # Comments: 248",
       "source": "Hacker News",
       "published": "2026-03-26T13:32:23+00:00",
       "link": "https://www.theguardian.com/lifeandstyle/2026/mar/26/ai-chatbot-users-lives-wrecked-by-delusion"
@@ -493,7 +493,7 @@ const FEED_DATA = {
     },
     {
       "title": "Ensu – Ente’s Local LLM app",
-      "summary": "Article URL: https://ente.com/blog/ensu/ Comments URL: https://news.ycombinator.com/item?id=47516650 Points: 358 # Comments: 167",
+      "summary": "Article URL: https://ente.com/blog/ensu/ Comments URL: https://news.ycombinator.com/item?id=47516650 Points: 358 # Comments: 168",
       "source": "Hacker News",
       "published": "2026-03-25T12:49:14+00:00",
       "link": "https://ente.com/blog/ensu/"
@@ -549,7 +549,7 @@ const FEED_DATA = {
     },
     {
       "title": "I tried to prove I'm not AI. My aunt wasn't convinced",
-      "summary": "Article URL: https://www.bbc.com/future/article/20260324-i-tried-to-prove-im-not-an-ai-deepfake Comments URL: https://news.ycombinator.com/item?id=47515502 Points: 173 # Comments: 194",
+      "summary": "Article URL: https://www.bbc.com/future/article/20260324-i-tried-to-prove-im-not-an-ai-deepfake Comments URL: https://news.ycombinator.com/item?id=47515502 Points: 173 # Comments: 195",
       "source": "Hacker News",
       "published": "2026-03-25T10:28:49+00:00",
       "link": "https://www.bbc.com/future/article/20260324-i-tried-to-prove-im-not-an-ai-deepfake"
@@ -591,7 +591,7 @@ const FEED_DATA = {
     },
     {
       "title": "TurboQuant: Redefining AI efficiency with extreme compression",
-      "summary": "Article URL: https://research.google/blog/turboquant-redefining-ai-efficiency-with-extreme-compression/ Comments URL: https://news.ycombinator.com/item?id=47513475 Points: 541 # Comments: 154",
+      "summary": "Article URL: https://research.google/blog/turboquant-redefining-ai-efficiency-with-extreme-compression/ Comments URL: https://news.ycombinator.com/item?id=47513475 Points: 544 # Comments: 154",
       "source": "Hacker News",
       "published": "2026-03-25T05:00:54+00:00",
       "link": "https://research.google/blog/turboquant-redefining-ai-efficiency-with-extreme-compression/"
@@ -675,7 +675,7 @@ const FEED_DATA = {
     },
     {
       "title": "Is anybody else bored of talking about AI?",
-      "summary": "Article URL: https://blog.jakesaunders.dev/is-anybody-else-bored-of-talking-about-ai/ Comments URL: https://news.ycombinator.com/item?id=47508745 Points: 738 # Comments: 520",
+      "summary": "Article URL: https://blog.jakesaunders.dev/is-anybody-else-bored-of-talking-about-ai/ Comments URL: https://news.ycombinator.com/item?id=47508745 Points: 739 # Comments: 521",
       "source": "Hacker News",
       "published": "2026-03-24T20:31:08+00:00",
       "link": "https://blog.jakesaunders.dev/is-anybody-else-bored-of-talking-about-ai/"
