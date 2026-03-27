@@ -1,6 +1,34 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-03-27T11:30:48.066005+00:00",
+  "lastUpdated": "2026-03-27T15:38:01.660257+00:00",
   "items": [
+    {
+      "title": "Apple Still Plans to Sell iPhones When It Turns 100",
+      "summary": "As the tech giant turns 50, WIRED spoke to executives about how they plan to win in the AI era.",
+      "source": "Wired",
+      "published": "2026-03-27T15:00:00+00:00",
+      "link": "https://www.wired.com/story/apple-50-year-anniversary-artificial-intelligence-iphone/"
+    },
+    {
+      "title": "Meta's own supervisory body warns that Community Notes are no match for AI disinformation",
+      "summary": "Meta's Oversight Board has examined the planned global expansion of Community Notes. Its conclusion: the system is too slow, too thinly staffed, and vulnerable to manipulation, especially given the growing flood of AI-generated disinformation.",
+      "source": "The Decoder",
+      "published": "2026-03-27T13:57:57+00:00",
+      "link": "https://the-decoder.com/metas-own-supervisory-body-warns-that-community-notes-are-no-match-for-ai-disinformation/"
+    },
+    {
+      "title": "The Download: the internet’s best weather app, and why people freeze their brains",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.",
+      "source": "MIT Tech Review",
+      "published": "2026-03-27T12:32:54+00:00",
+      "link": "https://www.technologyreview.com/2026/03/27/1134755/the-download-best-weather-forecasting-app-why-people-freeze-brains/"
+    },
+    {
+      "title": "The Latest AI Documentary Asks: Just How Scared Should We Be?",
+      "summary": "The AI Doc: Or How I Became an Apocaloptimist seeks the middle ground on a polarizing technology—and ends up letting tech execs like Sam Altman off the hook.",
+      "source": "Wired",
+      "published": "2026-03-27T11:00:00+00:00",
+      "link": "https://www.wired.com/story/a-new-ai-documentary-puts-ceos-in-the-hot-seat-but-goes-too-easy-on-them/"
+    },
     {
       "title": "A New AI Documentary Puts CEOs in the Hot Seat—but Goes Too Easy on Them",
       "summary": "The AI Doc: Or How I Became an Apocaloptimist seeks the middle ground on a polarizing technology—and ends up letting tech execs like Sam Altman off the hook.",
@@ -80,7 +108,7 @@ const FEED_DATA = {
     },
     {
       "title": "We rewrote JSONata with AI in a day, saved $500k/year",
-      "summary": "Article URL: https://www.reco.ai/blog/we-rewrote-jsonata-with-ai Comments URL: https://news.ycombinator.com/item?id=47536712 Points: 180 # Comments: 157",
+      "summary": "Article URL: https://www.reco.ai/blog/we-rewrote-jsonata-with-ai Comments URL: https://news.ycombinator.com/item?id=47536712 Points: 229 # Comments: 207",
       "source": "Hacker News",
       "published": "2026-03-26T22:36:41+00:00",
       "link": "https://www.reco.ai/blog/we-rewrote-jsonata-with-ai"
@@ -115,10 +143,17 @@ const FEED_DATA = {
     },
     {
       "title": "New York City hospitals drop Palantir as controversial AI firm expands in UK",
-      "summary": "Article URL: https://www.theguardian.com/technology/2026/mar/26/new-york-hospitals-palantir-ai Comments URL: https://news.ycombinator.com/item?id=47535371 Points: 290 # Comments: 139",
+      "summary": "Article URL: https://www.theguardian.com/technology/2026/mar/26/new-york-hospitals-palantir-ai Comments URL: https://news.ycombinator.com/item?id=47535371 Points: 296 # Comments: 144",
       "source": "Hacker News",
       "published": "2026-03-26T20:35:04+00:00",
       "link": "https://www.theguardian.com/technology/2026/mar/26/new-york-hospitals-palantir-ai"
+    },
+    {
+      "title": "School uses AI to remove 200 books, including Orwell's 1984 and Twilight",
+      "summary": "Article URL: https://www.lbc.co.uk/article/librarian-gobsmacked-school-ai-remove-books-5HjdWsc_2/ Comments URL: https://news.ycombinator.com/item?id=47535246 Points: 54 # Comments: 12",
+      "source": "Hacker News",
+      "published": "2026-03-26T20:23:01+00:00",
+      "link": "https://www.lbc.co.uk/article/librarian-gobsmacked-school-ai-remove-books-5HjdWsc_2/"
     },
     {
       "title": "Apple gets full Gemini access and uses distillation to build lightweight on-device AI",
@@ -220,7 +255,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI users whose lives were wrecked by delusion",
-      "summary": "Article URL: https://www.theguardian.com/lifeandstyle/2026/mar/26/ai-chatbot-users-lives-wrecked-by-delusion Comments URL: https://news.ycombinator.com/item?id=47530264 Points: 202 # Comments: 256",
+      "summary": "Article URL: https://www.theguardian.com/lifeandstyle/2026/mar/26/ai-chatbot-users-lives-wrecked-by-delusion Comments URL: https://news.ycombinator.com/item?id=47530264 Points: 208 # Comments: 262",
       "source": "Hacker News",
       "published": "2026-03-26T13:32:23+00:00",
       "link": "https://www.theguardian.com/lifeandstyle/2026/mar/26/ai-chatbot-users-lives-wrecked-by-delusion"
@@ -584,7 +619,7 @@ const FEED_DATA = {
     },
     {
       "title": "I tried to prove I'm not AI. My aunt wasn't convinced",
-      "summary": "Article URL: https://www.bbc.com/future/article/20260324-i-tried-to-prove-im-not-an-ai-deepfake Comments URL: https://news.ycombinator.com/item?id=47515502 Points: 173 # Comments: 197",
+      "summary": "Article URL: https://www.bbc.com/future/article/20260324-i-tried-to-prove-im-not-an-ai-deepfake Comments URL: https://news.ycombinator.com/item?id=47515502 Points: 173 # Comments: 199",
       "source": "Hacker News",
       "published": "2026-03-25T10:28:49+00:00",
       "link": "https://www.bbc.com/future/article/20260324-i-tried-to-prove-im-not-an-ai-deepfake"
@@ -626,7 +661,7 @@ const FEED_DATA = {
     },
     {
       "title": "TurboQuant: Redefining AI efficiency with extreme compression",
-      "summary": "Article URL: https://research.google/blog/turboquant-redefining-ai-efficiency-with-extreme-compression/ Comments URL: https://news.ycombinator.com/item?id=47513475 Points: 545 # Comments: 157",
+      "summary": "Article URL: https://research.google/blog/turboquant-redefining-ai-efficiency-with-extreme-compression/ Comments URL: https://news.ycombinator.com/item?id=47513475 Points: 546 # Comments: 158",
       "source": "Hacker News",
       "published": "2026-03-25T05:00:54+00:00",
       "link": "https://research.google/blog/turboquant-redefining-ai-efficiency-with-extreme-compression/"
@@ -710,7 +745,7 @@ const FEED_DATA = {
     },
     {
       "title": "Is anybody else bored of talking about AI?",
-      "summary": "Article URL: https://blog.jakesaunders.dev/is-anybody-else-bored-of-talking-about-ai/ Comments URL: https://news.ycombinator.com/item?id=47508745 Points: 740 # Comments: 521",
+      "summary": "Article URL: https://blog.jakesaunders.dev/is-anybody-else-bored-of-talking-about-ai/ Comments URL: https://news.ycombinator.com/item?id=47508745 Points: 740 # Comments: 524",
       "source": "Hacker News",
       "published": "2026-03-24T20:31:08+00:00",
       "link": "https://blog.jakesaunders.dev/is-anybody-else-bored-of-talking-about-ai/"
@@ -885,7 +920,7 @@ const FEED_DATA = {
     },
     {
       "title": "The bridge to wealth is being pulled up with AI",
-      "summary": "Article URL: https://danielhomola.com/m%20&%20e/ai/your-bridge-to-wealth-is-being-pulled-up/ Comments URL: https://news.ycombinator.com/item?id=47503296 Points: 268 # Comments: 404",
+      "summary": "Article URL: https://danielhomola.com/m%20&%20e/ai/your-bridge-to-wealth-is-being-pulled-up/ Comments URL: https://news.ycombinator.com/item?id=47503296 Points: 268 # Comments: 405",
       "source": "Hacker News",
       "published": "2026-03-24T14:39:20+00:00",
       "link": "https://danielhomola.com/m%20&%20e/ai/your-bridge-to-wealth-is-being-pulled-up/"
@@ -1365,41 +1400,6 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-03-21T18:55:44+00:00",
       "link": "https://the-decoder.com/openai-plans-to-nearly-double-its-workforce-by-2026-as-it-ramps-up-enterprise-push/"
-    },
-    {
-      "title": "Why Wall Street wasn’t won over by Nvidia’s big conference",
-      "summary": "Despite investor fears of an AI bubble, Nvidia's latest conference shows that most in the industry aren't concerned by that possibility.",
-      "source": "TechCrunch",
-      "published": "2026-03-21T16:28:00+00:00",
-      "link": "https://techcrunch.com/2026/03/21/why-wall-street-wasnt-won-over-by-nvidias-big-conference/"
-    },
-    {
-      "title": "Thinking Fast, Slow, and Artificial: How AI Is Reshaping Human Reasoning",
-      "summary": "Article URL: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6097646 Comments URL: https://news.ycombinator.com/item?id=47467913 Points: 195 # Comments: 117",
-      "source": "Hacker News",
-      "published": "2026-03-21T15:30:29+00:00",
-      "link": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6097646"
-    },
-    {
-      "title": "Senior European journalist suspended over AI-generated quotes",
-      "summary": "Article URL: https://www.theguardian.com/technology/2026/mar/20/mediahuis-suspends-senior-journalist-over-ai-generated-quotes Comments URL: https://news.ycombinator.com/item?id=47467566 Points: 93 # Comments: 79",
-      "source": "Hacker News",
-      "published": "2026-03-21T14:50:13+00:00",
-      "link": "https://www.theguardian.com/technology/2026/mar/20/mediahuis-suspends-senior-journalist-over-ai-generated-quotes"
-    },
-    {
-      "title": "The gen AI Kool-Aid tastes like eugenics",
-      "summary": "Like many people, director Valerie Veatch was intrigued when OpenAI first released its Sora text-to-video generative AI model to the public in 2024.",
-      "source": "The Verge",
-      "published": "2026-03-21T14:00:00+00:00",
-      "link": "https://www.theverge.com/entertainment/897923/ghost-in-the-machine-valerie-veatch-interview"
-    },
-    {
-      "title": "95% of UK students now use AI and their experiences couldn't be more divided",
-      "summary": "95 percent of British students use generative AI. But while some say it deepens their learning, others worry it's replacing their ability to think for themselves.",
-      "source": "The Decoder",
-      "published": "2026-03-21T12:38:43+00:00",
-      "link": "https://the-decoder.com/95-of-uk-students-now-use-ai-and-their-experiences-couldnt-be-more-divided/"
     }
   ]
 };
