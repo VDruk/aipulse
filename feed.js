@@ -1,6 +1,55 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-03-26T21:55:52.815862+00:00",
+  "lastUpdated": "2026-03-27T06:02:21.551045+00:00",
   "items": [
+    {
+      "title": "Anthropic wins injunction against Trump administration over Defense Department saga",
+      "summary": "A federal judge has ordered that the Trump administration rescind recent restrictions it placed on the AI company.",
+      "source": "TechCrunch",
+      "published": "2026-03-27T01:18:38+00:00",
+      "link": "https://techcrunch.com/2026/03/26/anthropic-wins-injunction-against-trump-administration-over-defense-department-saga/"
+    },
+    {
+      "title": "Judge sides with Anthropic to temporarily block the Pentagon’s ban",
+      "summary": "After Anthropic's weeks-long standoff with the Pentagon, the company won one milestone: A judge granted Anthropic a preliminary injunction in its lawsuit, which sought to reverse its government blacklisting while the judicial process plays out.",
+      "source": "The Verge",
+      "published": "2026-03-27T00:33:44+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/902149/anthropic-dod-pentagon-lawsuit-supply-chain-risk-injunction"
+    },
+    {
+      "title": "You can now transfer your chats and personal information from other chatbots directly into Gemini",
+      "summary": "Google is launching \"switching tools\" that, just as it sounds, will make it easier for users of other chatbots to switch to Gemini.",
+      "source": "TechCrunch",
+      "published": "2026-03-26T23:47:56+00:00",
+      "link": "https://techcrunch.com/2026/03/26/you-can-now-transfer-your-chats-and-personal-information-from-other-chatbots-directly-into-gemini/"
+    },
+    {
+      "title": "David Sacks is no longer the White House AI and Crypto Czar",
+      "summary": "David Sacks, the venture capitalist and tech billionaire who'd become Silicon Valley's primary advocate inside the White House and a key architect of its aggressive AI policy initiatives, revealed on Thursday that he was no longer a special government employee - and therefore no...",
+      "source": "The Verge",
+      "published": "2026-03-26T23:40:22+00:00",
+      "link": "https://www.theverge.com/policy/902140/david-sacks-out-ai-crypto-czar"
+    },
+    {
+      "title": "Anthropic Supply-Chain-Risk Designation Halted by Judge",
+      "summary": "A judge temporarily blocked the Trump administration’s designation, clearing the way for Anthropic to keep doing business without the label starting next week.",
+      "source": "Wired",
+      "published": "2026-03-26T23:33:05+00:00",
+      "link": "https://www.wired.com/story/anthropic-supply-chain-risk-designation-injunction/"
+    },
+    {
+      "title": "Show HN: I put an AI agent on a $7/month VPS with IRC as its transport layer",
+      "summary": "The stack: two agents on separate boxes. The public one (nullclaw) is a 678 KB Zig binary using ~1 MB RAM, connected to an Ergo IRC server.",
+      "source": "Hacker News",
+      "published": "2026-03-26T22:41:25+00:00",
+      "link": "https://georgelarson.me/writing/2026-03-23-nullclaw-doorman/"
+    },
+    {
+      "title": "We rewrote JSONata with AI in a day, saved $500k/year",
+      "summary": "Article URL: https://www.reco.ai/blog/we-rewrote-jsonata-with-ai Comments URL: https://news.ycombinator.com/item?id=47536712 Points: 94 # Comments: 104",
+      "source": "Hacker News",
+      "published": "2026-03-26T22:36:41+00:00",
+      "link": "https://www.reco.ai/blog/we-rewrote-jsonata-with-ai"
+    },
     {
       "title": "Wikipedia cracks down on the use of AI in article writing",
       "summary": "The site, whose policies are subject to change, has struggled with the issue of AI-generated writing.",
@@ -10,7 +59,7 @@ const FEED_DATA = {
     },
     {
       "title": "Google is making it easier to import another AI’s memory into Gemini",
-      "summary": "Google is rolling out two new Gemini tools on Thursday which could attract users who are thinking about switching their preferred AI chatbot but don't want to \"retrain\" a new AI.",
+      "summary": "After Anthropic updated its tool for copying another AI's memory into Claude earlier this month, Google Gemini is rolling out new \"Import Memory\" and \"Import Chat History\" features on desktop that can help users quickly copy over everything their current AI already knows about...",
       "source": "The Verge",
       "published": "2026-03-26T21:44:37+00:00",
       "link": "https://www.theverge.com/ai-artificial-intelligence/902085/google-gemini-import-memory-chat-history"
@@ -31,7 +80,7 @@ const FEED_DATA = {
     },
     {
       "title": "New York City hospitals drop Palantir as controversial AI firm expands in UK",
-      "summary": "Article URL: https://www.theguardian.com/technology/2026/mar/26/new-york-hospitals-palantir-ai Comments URL: https://news.ycombinator.com/item?id=47535371 Points: 79 # Comments: 16",
+      "summary": "Article URL: https://www.theguardian.com/technology/2026/mar/26/new-york-hospitals-palantir-ai Comments URL: https://news.ycombinator.com/item?id=47535371 Points: 283 # Comments: 138",
       "source": "Hacker News",
       "published": "2026-03-26T20:35:04+00:00",
       "link": "https://www.theguardian.com/technology/2026/mar/26/new-york-hospitals-palantir-ai"
@@ -136,7 +185,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI users whose lives were wrecked by delusion",
-      "summary": "Article URL: https://www.theguardian.com/lifeandstyle/2026/mar/26/ai-chatbot-users-lives-wrecked-by-delusion Comments URL: https://news.ycombinator.com/item?id=47530264 Points: 174 # Comments: 213",
+      "summary": "Article URL: https://www.theguardian.com/lifeandstyle/2026/mar/26/ai-chatbot-users-lives-wrecked-by-delusion Comments URL: https://news.ycombinator.com/item?id=47530264 Points: 196 # Comments: 247",
       "source": "Hacker News",
       "published": "2026-03-26T13:32:23+00:00",
       "link": "https://www.theguardian.com/lifeandstyle/2026/mar/26/ai-chatbot-users-lives-wrecked-by-delusion"
@@ -444,7 +493,7 @@ const FEED_DATA = {
     },
     {
       "title": "Ensu – Ente’s Local LLM app",
-      "summary": "Article URL: https://ente.com/blog/ensu/ Comments URL: https://news.ycombinator.com/item?id=47516650 Points: 356 # Comments: 167",
+      "summary": "Article URL: https://ente.com/blog/ensu/ Comments URL: https://news.ycombinator.com/item?id=47516650 Points: 358 # Comments: 167",
       "source": "Hacker News",
       "published": "2026-03-25T12:49:14+00:00",
       "link": "https://ente.com/blog/ensu/"
@@ -500,7 +549,7 @@ const FEED_DATA = {
     },
     {
       "title": "I tried to prove I'm not AI. My aunt wasn't convinced",
-      "summary": "Article URL: https://www.bbc.com/future/article/20260324-i-tried-to-prove-im-not-an-ai-deepfake Comments URL: https://news.ycombinator.com/item?id=47515502 Points: 169 # Comments: 190",
+      "summary": "Article URL: https://www.bbc.com/future/article/20260324-i-tried-to-prove-im-not-an-ai-deepfake Comments URL: https://news.ycombinator.com/item?id=47515502 Points: 173 # Comments: 194",
       "source": "Hacker News",
       "published": "2026-03-25T10:28:49+00:00",
       "link": "https://www.bbc.com/future/article/20260324-i-tried-to-prove-im-not-an-ai-deepfake"
@@ -542,7 +591,7 @@ const FEED_DATA = {
     },
     {
       "title": "TurboQuant: Redefining AI efficiency with extreme compression",
-      "summary": "Article URL: https://research.google/blog/turboquant-redefining-ai-efficiency-with-extreme-compression/ Comments URL: https://news.ycombinator.com/item?id=47513475 Points: 535 # Comments: 153",
+      "summary": "Article URL: https://research.google/blog/turboquant-redefining-ai-efficiency-with-extreme-compression/ Comments URL: https://news.ycombinator.com/item?id=47513475 Points: 541 # Comments: 154",
       "source": "Hacker News",
       "published": "2026-03-25T05:00:54+00:00",
       "link": "https://research.google/blog/turboquant-redefining-ai-efficiency-with-extreme-compression/"
@@ -626,7 +675,7 @@ const FEED_DATA = {
     },
     {
       "title": "Is anybody else bored of talking about AI?",
-      "summary": "Article URL: https://blog.jakesaunders.dev/is-anybody-else-bored-of-talking-about-ai/ Comments URL: https://news.ycombinator.com/item?id=47508745 Points: 737 # Comments: 516",
+      "summary": "Article URL: https://blog.jakesaunders.dev/is-anybody-else-bored-of-talking-about-ai/ Comments URL: https://news.ycombinator.com/item?id=47508745 Points: 738 # Comments: 520",
       "source": "Hacker News",
       "published": "2026-03-24T20:31:08+00:00",
       "link": "https://blog.jakesaunders.dev/is-anybody-else-bored-of-talking-about-ai/"
@@ -696,7 +745,7 @@ const FEED_DATA = {
     },
     {
       "title": "The AI Industry Is Lying to You",
-      "summary": "Article URL: https://www.wheresyoured.at/the-ai-industry-is-lying-to-you/ Comments URL: https://news.ycombinator.com/item?id=47506259 Points: 163 # Comments: 130",
+      "summary": "Article URL: https://www.wheresyoured.at/the-ai-industry-is-lying-to-you/ Comments URL: https://news.ycombinator.com/item?id=47506259 Points: 164 # Comments: 130",
       "source": "Hacker News",
       "published": "2026-03-24T17:30:55+00:00",
       "link": "https://www.wheresyoured.at/the-ai-industry-is-lying-to-you/"
@@ -808,7 +857,7 @@ const FEED_DATA = {
     },
     {
       "title": "So where are all the AI apps?",
-      "summary": "Article URL: https://www.answer.ai/posts/2026-03-12-so-where-are-all-the-ai-apps.html Comments URL: https://news.ycombinator.com/item?id=47503006 Points: 446 # Comments: 413",
+      "summary": "Article URL: https://www.answer.ai/posts/2026-03-12-so-where-are-all-the-ai-apps.html Comments URL: https://news.ycombinator.com/item?id=47503006 Points: 447 # Comments: 413",
       "source": "Hacker News",
       "published": "2026-03-24T14:19:59+00:00",
       "link": "https://www.answer.ai/posts/2026-03-12-so-where-are-all-the-ai-apps.html"
@@ -892,7 +941,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI boom risks widening wealth divide, says BlackRock's Larry Fink",
-      "summary": "Article URL: https://www.theguardian.com/technology/2026/mar/23/ai-boom-risks-widening-wealth-divide-blackrock-larry-fink Comments URL: https://news.ycombinator.com/item?id=47496583 Points: 59 # Comments: 48",
+      "summary": "Article URL: https://www.theguardian.com/technology/2026/mar/23/ai-boom-risks-widening-wealth-divide-blackrock-larry-fink Comments URL: https://news.ycombinator.com/item?id=47496583 Points: 59 # Comments: 49",
       "source": "Hacker News",
       "published": "2026-03-23T23:32:17+00:00",
       "link": "https://www.theguardian.com/technology/2026/mar/23/ai-boom-risks-widening-wealth-divide-blackrock-larry-fink"
@@ -1351,55 +1400,6 @@ const FEED_DATA = {
       "source": "Hacker News",
       "published": "2026-03-21T10:35:20+00:00",
       "link": "https://blog.atuin.sh/atuin-v18-13/"
-    },
-    {
-      "title": "Europe's AI paradox is record adoption that funds foreign ecosystems instead of building its own",
-      "summary": "Europe leads in AI adoption and matches the US in talent, but owns almost none of the platforms it depends on.",
-      "source": "The Decoder",
-      "published": "2026-03-21T10:00:41+00:00",
-      "link": "https://the-decoder.com/europes-ai-paradox-is-record-adoption-that-funds-foreign-ecosystems-instead-of-building-its-own/"
-    },
-    {
-      "title": "Nvidia CEO Jensen Huang says he'd be \"deeply alarmed\" if a $500K developer spent less than $250K on AI tokens",
-      "summary": "Nvidia CEO Jensen Huang has a clear message for his developers: if you earn half a million dollars, your AI token budget should be at least $250,000. He also thinks the AI industry's revenue potential is far bigger than most forecasts suggest.",
-      "source": "The Decoder",
-      "published": "2026-03-21T09:28:54+00:00",
-      "link": "https://the-decoder.com/nvidia-ceo-jensen-huang-says-hed-be-deeply-alarmed-if-a-500k-developer-spent-less-than-250k-on-ai-tokens/"
-    },
-    {
-      "title": "Cursor quietly built its new coding model on top of Chinese open-source Kimi K2.5",
-      "summary": "Cursor releases Composer 2, the second generation of its own AI model for software development. The model is designed to keep pace with the leading coding models from Anthropic and OpenAI at significantly lower costs.",
-      "source": "The Decoder",
-      "published": "2026-03-21T08:51:16+00:00",
-      "link": "https://the-decoder.com/cursor-quietly-built-its-new-coding-model-on-top-of-chinese-open-source-kimi-k2-5/"
-    },
-    {
-      "title": "Man pleads guilty to $8M AI-generated music scheme",
-      "summary": "Article URL: https://therecord.media/man-pleads-guilty-8-million-ai-music-scheme Comments URL: https://news.ycombinator.com/item?id=47464859 Points: 54 # Comments: 69",
-      "source": "Hacker News",
-      "published": "2026-03-21T07:36:07+00:00",
-      "link": "https://therecord.media/man-pleads-guilty-8-million-ai-music-scheme"
-    },
-    {
-      "title": "Blocking Internet Archive Won't Stop AI, but Will Erase Web's Historical Record",
-      "summary": "Article URL: https://www.eff.org/deeplinks/2026/03/blocking-internet-archive-wont-stop-ai-it-will-erase-webs-historical-record Comments URL: https://news.ycombinator.com/item?id=47464818 Points: 565 # Comments: 159",
-      "source": "Hacker News",
-      "published": "2026-03-21T07:30:16+00:00",
-      "link": "https://www.eff.org/deeplinks/2026/03/blocking-internet-archive-wont-stop-ai-it-will-erase-webs-historical-record"
-    },
-    {
-      "title": "New court filing reveals Pentagon told Anthropic the two sides were nearly aligned — a week after Trump declared the relationship kaput",
-      "summary": "Anthropic submitted two sworn declarations to a California federal court late Friday afternoon, pushing back on the Pentagon's assertion that the AI company poses an \"unacceptable risk to national security\" and arguing that the government's case relies on technical...",
-      "source": "TechCrunch",
-      "published": "2026-03-21T01:40:28+00:00",
-      "link": "https://techcrunch.com/2026/03/20/new-court-filing-reveals-pentagon-told-anthropic-the-two-sides-were-nearly-aligned-a-week-after-trump-declared-the-relationship-kaput/"
-    },
-    {
-      "title": "Anthropic Denies It Could Sabotage AI Tools During War",
-      "summary": "The Department of Defense alleges the AI developer could manipulate models in the middle of war. Company executives argue that’s impossible.",
-      "source": "Wired",
-      "published": "2026-03-21T00:03:20+00:00",
-      "link": "https://www.wired.com/story/anthropic-denies-sabotage-ai-tools-war-claude/"
     }
   ]
 };
