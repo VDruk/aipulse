@@ -1,6 +1,41 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-03-27T08:06:10.676452+00:00",
+  "lastUpdated": "2026-03-27T11:30:48.066005+00:00",
   "items": [
+    {
+      "title": "A New AI Documentary Puts CEOs in the Hot Seat—but Goes Too Easy on Them",
+      "summary": "The AI Doc: Or How I Became an Apocaloptimist seeks the middle ground on a polarizing technology—and ends up letting tech execs like Sam Altman off the hook.",
+      "source": "Wired",
+      "published": "2026-03-27T11:00:00+00:00",
+      "link": "https://www.wired.com/story/a-new-ai-documentary-puts-ceos-in-the-hot-seat-but-goes-too-easy-on-them/"
+    },
+    {
+      "title": "OpenAI's Codex gets a plugin marketplace for Slack, Notion, Figma, and more",
+      "summary": "OpenAI is adding plugins to Codex that integrate with popular work tools like Slack, Figma, Notion, Gmail, and Google Drive. The article OpenAI's Codex gets a plugin marketplace for Slack, Notion, Figma, and more appeared first on The Decoder.",
+      "source": "The Decoder",
+      "published": "2026-03-27T10:50:44+00:00",
+      "link": "https://the-decoder.com/openais-codex-gets-a-plugin-marketplace-for-slack-notion-figma-and-more/"
+    },
+    {
+      "title": "I Asked ChatGPT 500 Questions. Here Are the Ads I Saw Most Often",
+      "summary": "Ads are rolling out across the US on ChatGPT’s free tier. I asked OpenAI's bot 500 questions to see what these ads were like and how they related to my prompts.",
+      "source": "Wired",
+      "published": "2026-03-27T10:30:00+00:00",
+      "link": "https://www.wired.com/story/i-asked-chatgpt-500-questions-here-are-the-ads-i-saw-most-often/"
+    },
+    {
+      "title": "Here’s why some people choose cryonics to store their bodies and brains after death",
+      "summary": "This week I reported on some rather unusual research that focuses on the brain of L. Stephen Coles.",
+      "source": "MIT Tech Review",
+      "published": "2026-03-27T09:00:00+00:00",
+      "link": "https://www.technologyreview.com/2026/03/27/1134705/cryonics-store-bodies-brains-after-death/"
+    },
+    {
+      "title": "Anthropic confirms leaked model marks a \"step change\" in reasoning after data breach reveals its existence",
+      "summary": "Anthropic accidentally exposed its most capable AI model yet thanks to a basic security blunder. As OpenAI preps its own next-generation release, both companies are racing to flex their best tech before going public.",
+      "source": "The Decoder",
+      "published": "2026-03-27T08:53:09+00:00",
+      "link": "https://the-decoder.com/anthropic-confirms-leaked-model-marks-a-step-change-in-reasoning-after-data-breach-reveals-its-existence/"
+    },
     {
       "title": "Anthropic wins injunction against Trump administration over Defense Department saga",
       "summary": "A federal judge has ordered that the Trump administration rescind recent restrictions it placed on the AI company.",
@@ -45,7 +80,7 @@ const FEED_DATA = {
     },
     {
       "title": "We rewrote JSONata with AI in a day, saved $500k/year",
-      "summary": "Article URL: https://www.reco.ai/blog/we-rewrote-jsonata-with-ai Comments URL: https://news.ycombinator.com/item?id=47536712 Points: 136 # Comments: 123",
+      "summary": "Article URL: https://www.reco.ai/blog/we-rewrote-jsonata-with-ai Comments URL: https://news.ycombinator.com/item?id=47536712 Points: 180 # Comments: 157",
       "source": "Hacker News",
       "published": "2026-03-26T22:36:41+00:00",
       "link": "https://www.reco.ai/blog/we-rewrote-jsonata-with-ai"
@@ -80,7 +115,7 @@ const FEED_DATA = {
     },
     {
       "title": "New York City hospitals drop Palantir as controversial AI firm expands in UK",
-      "summary": "Article URL: https://www.theguardian.com/technology/2026/mar/26/new-york-hospitals-palantir-ai Comments URL: https://news.ycombinator.com/item?id=47535371 Points: 286 # Comments: 138",
+      "summary": "Article URL: https://www.theguardian.com/technology/2026/mar/26/new-york-hospitals-palantir-ai Comments URL: https://news.ycombinator.com/item?id=47535371 Points: 290 # Comments: 139",
       "source": "Hacker News",
       "published": "2026-03-26T20:35:04+00:00",
       "link": "https://www.theguardian.com/technology/2026/mar/26/new-york-hospitals-palantir-ai"
@@ -185,7 +220,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI users whose lives were wrecked by delusion",
-      "summary": "Article URL: https://www.theguardian.com/lifeandstyle/2026/mar/26/ai-chatbot-users-lives-wrecked-by-delusion Comments URL: https://news.ycombinator.com/item?id=47530264 Points: 199 # Comments: 248",
+      "summary": "Article URL: https://www.theguardian.com/lifeandstyle/2026/mar/26/ai-chatbot-users-lives-wrecked-by-delusion Comments URL: https://news.ycombinator.com/item?id=47530264 Points: 202 # Comments: 256",
       "source": "Hacker News",
       "published": "2026-03-26T13:32:23+00:00",
       "link": "https://www.theguardian.com/lifeandstyle/2026/mar/26/ai-chatbot-users-lives-wrecked-by-delusion"
@@ -549,7 +584,7 @@ const FEED_DATA = {
     },
     {
       "title": "I tried to prove I'm not AI. My aunt wasn't convinced",
-      "summary": "Article URL: https://www.bbc.com/future/article/20260324-i-tried-to-prove-im-not-an-ai-deepfake Comments URL: https://news.ycombinator.com/item?id=47515502 Points: 173 # Comments: 195",
+      "summary": "Article URL: https://www.bbc.com/future/article/20260324-i-tried-to-prove-im-not-an-ai-deepfake Comments URL: https://news.ycombinator.com/item?id=47515502 Points: 173 # Comments: 197",
       "source": "Hacker News",
       "published": "2026-03-25T10:28:49+00:00",
       "link": "https://www.bbc.com/future/article/20260324-i-tried-to-prove-im-not-an-ai-deepfake"
@@ -562,18 +597,18 @@ const FEED_DATA = {
       "link": "https://the-decoder.com/openai-expands-its-record-funding-round-to-over-120-billion-as-it-eyes-a-potential-ipo-later-this-year/"
     },
     {
-      "title": "Arm’s CEO Insists the Market Needs His New CPU. It Could Piss Everyone Off",
-      "summary": "Arm just confirmed the rumors: It’s producing its own chip for the first time. CEO Rene Haas explains why this won’t alienate the many chipmakers who license the company’s designs.",
-      "source": "Wired",
-      "published": "2026-03-25T10:00:00+00:00",
-      "link": "https://www.wired.com/story/arms-ceo-insists-the-market-needs-his-new-cpu-it-could-piss-everyone-off/"
-    },
-    {
       "title": "AI agents enter banking roles at Bank of America",
       "summary": "AI agents are starting to take on a more direct role in how financial advice is delivered, as large banks move into systems that support client interactions.",
       "source": "AI News",
       "published": "2026-03-25T10:00:00+00:00",
       "link": "https://www.artificialintelligence-news.com/news/ai-agents-enter-banking-roles-at-bank-of-america/"
+    },
+    {
+      "title": "Arm’s CEO Insists the Market Needs His New CPU. It Could Piss Everyone Off",
+      "summary": "Arm just confirmed the rumors: It’s producing its own chip for the first time. CEO Rene Haas explains why this won’t alienate the many chipmakers who license the company’s designs.",
+      "source": "Wired",
+      "published": "2026-03-25T10:00:00+00:00",
+      "link": "https://www.wired.com/story/arms-ceo-insists-the-market-needs-his-new-cpu-it-could-piss-everyone-off/"
     },
     {
       "title": "Claude Code's new Auto Mode tries to balance safety and speed",
@@ -591,7 +626,7 @@ const FEED_DATA = {
     },
     {
       "title": "TurboQuant: Redefining AI efficiency with extreme compression",
-      "summary": "Article URL: https://research.google/blog/turboquant-redefining-ai-efficiency-with-extreme-compression/ Comments URL: https://news.ycombinator.com/item?id=47513475 Points: 544 # Comments: 154",
+      "summary": "Article URL: https://research.google/blog/turboquant-redefining-ai-efficiency-with-extreme-compression/ Comments URL: https://news.ycombinator.com/item?id=47513475 Points: 545 # Comments: 157",
       "source": "Hacker News",
       "published": "2026-03-25T05:00:54+00:00",
       "link": "https://research.google/blog/turboquant-redefining-ai-efficiency-with-extreme-compression/"
@@ -675,7 +710,7 @@ const FEED_DATA = {
     },
     {
       "title": "Is anybody else bored of talking about AI?",
-      "summary": "Article URL: https://blog.jakesaunders.dev/is-anybody-else-bored-of-talking-about-ai/ Comments URL: https://news.ycombinator.com/item?id=47508745 Points: 739 # Comments: 521",
+      "summary": "Article URL: https://blog.jakesaunders.dev/is-anybody-else-bored-of-talking-about-ai/ Comments URL: https://news.ycombinator.com/item?id=47508745 Points: 740 # Comments: 521",
       "source": "Hacker News",
       "published": "2026-03-24T20:31:08+00:00",
       "link": "https://blog.jakesaunders.dev/is-anybody-else-bored-of-talking-about-ai/"
@@ -850,14 +885,14 @@ const FEED_DATA = {
     },
     {
       "title": "The bridge to wealth is being pulled up with AI",
-      "summary": "Article URL: https://danielhomola.com/m%20&%20e/ai/your-bridge-to-wealth-is-being-pulled-up/ Comments URL: https://news.ycombinator.com/item?id=47503296 Points: 268 # Comments: 402",
+      "summary": "Article URL: https://danielhomola.com/m%20&%20e/ai/your-bridge-to-wealth-is-being-pulled-up/ Comments URL: https://news.ycombinator.com/item?id=47503296 Points: 268 # Comments: 404",
       "source": "Hacker News",
       "published": "2026-03-24T14:39:20+00:00",
       "link": "https://danielhomola.com/m%20&%20e/ai/your-bridge-to-wealth-is-being-pulled-up/"
     },
     {
       "title": "So where are all the AI apps?",
-      "summary": "Article URL: https://www.answer.ai/posts/2026-03-12-so-where-are-all-the-ai-apps.html Comments URL: https://news.ycombinator.com/item?id=47503006 Points: 447 # Comments: 413",
+      "summary": "Article URL: https://www.answer.ai/posts/2026-03-12-so-where-are-all-the-ai-apps.html Comments URL: https://news.ycombinator.com/item?id=47503006 Points: 447 # Comments: 418",
       "source": "Hacker News",
       "published": "2026-03-24T14:19:59+00:00",
       "link": "https://www.answer.ai/posts/2026-03-12-so-where-are-all-the-ai-apps.html"
@@ -906,7 +941,7 @@ const FEED_DATA = {
     },
     {
       "title": "LLM Neuroanatomy II: Modern LLM Hacking and Hints of a Universal Language?",
-      "summary": "Article URL: https://dnhkng.github.io/posts/rys-ii/ Comments URL: https://news.ycombinator.com/item?id=47500709 Points: 144 # Comments: 37",
+      "summary": "Article URL: https://dnhkng.github.io/posts/rys-ii/ Comments URL: https://news.ycombinator.com/item?id=47500709 Points: 145 # Comments: 37",
       "source": "Hacker News",
       "published": "2026-03-24T10:33:54+00:00",
       "link": "https://dnhkng.github.io/posts/rys-ii/"
@@ -1365,41 +1400,6 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-03-21T12:38:43+00:00",
       "link": "https://the-decoder.com/95-of-uk-students-now-use-ai-and-their-experiences-couldnt-be-more-divided/"
-    },
-    {
-      "title": "Chinese AI model MiniMax M2.7 reportedly helped develop itself",
-      "summary": "Chinese AI company MiniMax has released M2.7, a model that reportedly played an active role in its own development. Through autonomous optimization loops, it improved its own training process and posted competitive benchmark results.",
-      "source": "The Decoder",
-      "published": "2026-03-21T11:48:16+00:00",
-      "link": "https://the-decoder.com/chinese-ai-model-minimax-m2-7-reportedly-helped-develop-itself/"
-    },
-    {
-      "title": "Gemini task automation is slow, clunky, and super impressive",
-      "summary": "I've been testing out Gemini's new task automation on the Pixel 10 Pro and the Galaxy S26 Ultra, which for the first time lets Gemini take the wheel and use apps for you.",
-      "source": "The Verge",
-      "published": "2026-03-21T11:30:00+00:00",
-      "link": "https://www.theverge.com/tech/898282/gemini-task-automation-uber-doordash-hands-on"
-    },
-    {
-      "title": "I Tried DoorDash’s Tasks App and Saw the Bleak Future of AI Gig Work",
-      "summary": "I recorded videos of myself doing laundry, scrambling eggs, and walking around the park in DoorDash’s new Tasks app, where gig workers are paid to train AI.",
-      "source": "Wired",
-      "published": "2026-03-21T11:00:00+00:00",
-      "link": "https://www.wired.com/story/i-tried-doordashs-tasks-app-and-saw-the-bleak-future-of-ai-gig-work/"
-    },
-    {
-      "title": "OpenAI's chief scientist trusts AI with experiments but says it's not at the level to design complex systems",
-      "summary": "OpenAI Chief Scientist Jakub Pachocki used to write every line of code by hand. Now AI handles experiments that once took him a week, but he's not ready to let it run the show.",
-      "source": "The Decoder",
-      "published": "2026-03-21T10:44:17+00:00",
-      "link": "https://the-decoder.com/openais-chief-scientist-trusts-ai-with-experiments-but-says-its-not-at-the-level-to-design-complex-systems/"
-    },
-    {
-      "title": "Atuin v18.13 – better search, a PTY proxy, and AI for your shell",
-      "summary": "Article URL: https://blog.atuin.sh/atuin-v18-13/ Comments URL: https://news.ycombinator.com/item?id=47465824 Points: 95 # Comments: 80",
-      "source": "Hacker News",
-      "published": "2026-03-21T10:35:20+00:00",
-      "link": "https://blog.atuin.sh/atuin-v18-13/"
     }
   ]
 };
