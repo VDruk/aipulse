@@ -1,6 +1,20 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-03-27T19:32:03.927478+00:00",
+  "lastUpdated": "2026-03-27T22:00:27.370764+00:00",
   "items": [
+    {
+      "title": "AI Research Is Getting Harder to Separate From Geopolitics",
+      "summary": "A policy change announced by NeurIPS, the world’s leading AI research conference, drew widespread backlash from Chinese researchers this week and then was quickly reversed.",
+      "source": "Wired",
+      "published": "2026-03-27T21:46:39+00:00",
+      "link": "https://www.wired.com/story/made-in-china-ai-research-is-starting-to-split-along-geopolitical-lines/"
+    },
+    {
+      "title": "Why SoftBank’s new $40B loan points to a 2026 OpenAI IPO",
+      "summary": "Wall Street giants JPMorgan and Goldman Sachs are extending a 12-month, unsecured loan to the Japanese conglomerate.",
+      "source": "TechCrunch",
+      "published": "2026-03-27T21:44:45+00:00",
+      "link": "https://techcrunch.com/2026/03/27/why-softbanks-new-40b-loan-points-to-a-2026-openai-ipo/"
+    },
     {
       "title": "Google's new Gemini update makes it easy to import memories from ChatGPT and Claude",
       "summary": "Google and Anthropic are courting ChatGPT switchers with a simple prompt trick that exports all saved user data. The article Google's new Gemini update makes it easy to import memories from ChatGPT and Claude appeared first on The Decoder.",
@@ -44,15 +58,22 @@ const FEED_DATA = {
       "link": "https://the-decoder.com/federal-judge-blocks-trumps-ban-on-anthropic-ai-models-calls-security-risk-label-orwellian/"
     },
     {
+      "title": "Some uncomfortable truths about AI coding agents",
+      "summary": "Article URL: https://standupforme.app/blog/some-uncomfortable-truths-about-ai-coding-agents/ Comments URL: https://news.ycombinator.com/item?id=47545748 Points: 63 # Comments: 54",
+      "source": "Hacker News",
+      "published": "2026-03-27T17:32:48+00:00",
+      "link": "https://standupforme.app/blog/some-uncomfortable-truths-about-ai-coding-agents/"
+    },
+    {
       "title": "I am leaving the AI party after one drink",
-      "summary": "Article URL: https://lara-aigmueller.at/thoughts/leaving-the-ai-party/ Comments URL: https://news.ycombinator.com/item?id=47545030 Points: 93 # Comments: 97",
+      "summary": "Article URL: https://lara-aigmueller.at/thoughts/leaving-the-ai-party/ Comments URL: https://news.ycombinator.com/item?id=47545030 Points: 101 # Comments: 105",
       "source": "Hacker News",
       "published": "2026-03-27T16:41:59+00:00",
       "link": "https://lara-aigmueller.at/thoughts/leaving-the-ai-party/"
     },
     {
       "title": "AI got the blame for the Iran school bombing. The truth is more worrying",
-      "summary": "Article URL: https://www.theguardian.com/news/2026/mar/26/ai-got-the-blame-for-the-iran-school-bombing-the-truth-is-far-more-worrying Comments URL: https://news.ycombinator.com/item?id=47544980 Points: 195 # Comments: 138",
+      "summary": "Article URL: https://www.theguardian.com/news/2026/mar/26/ai-got-the-blame-for-the-iran-school-bombing-the-truth-is-far-more-worrying Comments URL: https://news.ycombinator.com/item?id=47544980 Points: 286 # Comments: 251",
       "source": "Hacker News",
       "published": "2026-03-27T16:39:32+00:00",
       "link": "https://www.theguardian.com/news/2026/mar/26/ai-got-the-blame-for-the-iran-school-bombing-the-truth-is-far-more-worrying"
@@ -149,6 +170,13 @@ const FEED_DATA = {
       "link": "https://the-decoder.com/anthropic-confirms-leaked-model-marks-a-step-change-in-reasoning-after-data-breach-reveals-its-existence/"
     },
     {
+      "title": "A leak reveals that Anthropic is testing a more capable AI model \"Claude Mythos\"",
+      "summary": "Article URL: https://fortune.com/2026/03/26/anthropic-says-testing-mythos-powerful-new-ai-model-after-data-leak-reveals-its-existence-step-change-in-capabilities/ Comments URL: https://news.ycombinator.com/item?id=47538795 Points: 54 # Comments: 19",
+      "source": "Hacker News",
+      "published": "2026-03-27T03:21:35+00:00",
+      "link": "https://fortune.com/2026/03/26/anthropic-says-testing-mythos-powerful-new-ai-model-after-data-leak-reveals-its-existence-step-change-in-capabilities/"
+    },
+    {
       "title": "David Sacks is done as AI czar — here’s what he’s doing instead",
       "summary": "Sacks will be much further from the power center in Washington than since the outset of this second Trump administration.",
       "source": "TechCrunch",
@@ -199,7 +227,7 @@ const FEED_DATA = {
     },
     {
       "title": "We rewrote JSONata with AI in a day, saved $500k/year",
-      "summary": "Article URL: https://www.reco.ai/blog/we-rewrote-jsonata-with-ai Comments URL: https://news.ycombinator.com/item?id=47536712 Points: 248 # Comments: 228",
+      "summary": "Article URL: https://www.reco.ai/blog/we-rewrote-jsonata-with-ai Comments URL: https://news.ycombinator.com/item?id=47536712 Points: 254 # Comments: 233",
       "source": "Hacker News",
       "published": "2026-03-26T22:36:41+00:00",
       "link": "https://www.reco.ai/blog/we-rewrote-jsonata-with-ai"
@@ -241,7 +269,7 @@ const FEED_DATA = {
     },
     {
       "title": "School uses AI to remove 200 books, including Orwell's 1984 and Twilight",
-      "summary": "Article URL: https://www.lbc.co.uk/article/librarian-gobsmacked-school-ai-remove-books-5HjdWsc_2/ Comments URL: https://news.ycombinator.com/item?id=47535246 Points: 56 # Comments: 12",
+      "summary": "Article URL: https://www.lbc.co.uk/article/librarian-gobsmacked-school-ai-remove-books-5HjdWsc_2/ Comments URL: https://news.ycombinator.com/item?id=47535246 Points: 57 # Comments: 12",
       "source": "Hacker News",
       "published": "2026-03-26T20:23:01+00:00",
       "link": "https://www.lbc.co.uk/article/librarian-gobsmacked-school-ai-remove-books-5HjdWsc_2/"
@@ -346,7 +374,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI users whose lives were wrecked by delusion",
-      "summary": "Article URL: https://www.theguardian.com/lifeandstyle/2026/mar/26/ai-chatbot-users-lives-wrecked-by-delusion Comments URL: https://news.ycombinator.com/item?id=47530264 Points: 211 # Comments: 270",
+      "summary": "Article URL: https://www.theguardian.com/lifeandstyle/2026/mar/26/ai-chatbot-users-lives-wrecked-by-delusion Comments URL: https://news.ycombinator.com/item?id=47530264 Points: 214 # Comments: 273",
       "source": "Hacker News",
       "published": "2026-03-26T13:32:23+00:00",
       "link": "https://www.theguardian.com/lifeandstyle/2026/mar/26/ai-chatbot-users-lives-wrecked-by-delusion"
@@ -654,7 +682,7 @@ const FEED_DATA = {
     },
     {
       "title": "Ensu – Ente’s Local LLM app",
-      "summary": "Article URL: https://ente.com/blog/ensu/ Comments URL: https://news.ycombinator.com/item?id=47516650 Points: 358 # Comments: 169",
+      "summary": "Article URL: https://ente.com/blog/ensu/ Comments URL: https://news.ycombinator.com/item?id=47516650 Points: 359 # Comments: 169",
       "source": "Hacker News",
       "published": "2026-03-25T12:49:14+00:00",
       "link": "https://ente.com/blog/ensu/"
@@ -752,7 +780,7 @@ const FEED_DATA = {
     },
     {
       "title": "TurboQuant: Redefining AI efficiency with extreme compression",
-      "summary": "Article URL: https://research.google/blog/turboquant-redefining-ai-efficiency-with-extreme-compression/ Comments URL: https://news.ycombinator.com/item?id=47513475 Points: 550 # Comments: 161",
+      "summary": "Article URL: https://research.google/blog/turboquant-redefining-ai-efficiency-with-extreme-compression/ Comments URL: https://news.ycombinator.com/item?id=47513475 Points: 553 # Comments: 161",
       "source": "Hacker News",
       "published": "2026-03-25T05:00:54+00:00",
       "link": "https://research.google/blog/turboquant-redefining-ai-efficiency-with-extreme-compression/"
@@ -836,7 +864,7 @@ const FEED_DATA = {
     },
     {
       "title": "Is anybody else bored of talking about AI?",
-      "summary": "Article URL: https://blog.jakesaunders.dev/is-anybody-else-bored-of-talking-about-ai/ Comments URL: https://news.ycombinator.com/item?id=47508745 Points: 741 # Comments: 524",
+      "summary": "Article URL: https://blog.jakesaunders.dev/is-anybody-else-bored-of-talking-about-ai/ Comments URL: https://news.ycombinator.com/item?id=47508745 Points: 742 # Comments: 524",
       "source": "Hacker News",
       "published": "2026-03-24T20:31:08+00:00",
       "link": "https://blog.jakesaunders.dev/is-anybody-else-bored-of-talking-about-ai/"
@@ -1372,34 +1400,6 @@ const FEED_DATA = {
       "source": "The Verge",
       "published": "2026-03-22T14:06:48+00:00",
       "link": "https://www.theverge.com/ai-artificial-intelligence/898722/musk-terafab-chip-plant"
-    },
-    {
-      "title": "Show HN: Revise – An AI Editor for Documents",
-      "summary": "I started building this 10 months ago, largely using agentic coding tools.",
-      "source": "Hacker News",
-      "published": "2026-03-22T13:28:45+00:00",
-      "link": "https://revise.io"
-    },
-    {
-      "title": "Brute-forcing my algorithmic ignorance with an LLM in 7 days",
-      "summary": "Article URL: http://blog.dominikrudnik.pl/my-google-recruitment-journey-part-1 Comments URL: https://news.ycombinator.com/item?id=47476776 Points: 64 # Comments: 38",
-      "source": "Hacker News",
-      "published": "2026-03-22T12:23:04+00:00",
-      "link": "http://blog.dominikrudnik.pl/my-google-recruitment-journey-part-1"
-    },
-    {
-      "title": "AI was everywhere at gaming’s big developer conference — except the games",
-      "summary": "AI was everywhere at the GDC Festival of Gaming this year. Vendors at the event pitched generative AI tools for things like making AI-driven NPCs and even entire games from a chat box.",
-      "source": "The Verge",
-      "published": "2026-03-22T12:00:00+00:00",
-      "link": "https://www.theverge.com/games/897982/gdc-2026-ai-game-developer-conference"
-    },
-    {
-      "title": "An exclusive tour of Amazon’s Trainium lab, the chip that’s won over Anthropic, OpenAI, even Apple",
-      "summary": "Shortly after Amazon announced its $50 billion investment in OpenAI, AWS invited me on a private tour of the chip lab at the heart of the deal.",
-      "source": "TechCrunch",
-      "published": "2026-03-22T12:00:00+00:00",
-      "link": "https://techcrunch.com/2026/03/22/an-exclusive-tour-of-amazons-trainium-lab-the-chip-thats-won-over-anthropic-openai-even-apple/"
     }
   ]
 };
