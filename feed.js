@@ -1,6 +1,83 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-03-27T15:38:01.660257+00:00",
+  "lastUpdated": "2026-03-27T19:32:03.927478+00:00",
   "items": [
+    {
+      "title": "Google's new Gemini update makes it easy to import memories from ChatGPT and Claude",
+      "summary": "Google and Anthropic are courting ChatGPT switchers with a simple prompt trick that exports all saved user data. The article Google's new Gemini update makes it easy to import memories from ChatGPT and Claude appeared first on The Decoder.",
+      "source": "The Decoder",
+      "published": "2026-03-27T19:14:00+00:00",
+      "link": "https://the-decoder.com/googles-new-gemini-update-makes-it-easy-to-import-memories-from-chatgpt-and-claude/"
+    },
+    {
+      "title": "Memory chip giant SK hynix could help end ‘RAMmageddon’ with blockbuster US IPO",
+      "summary": "SK hynix’s potential U.S. listing could raise $10-$14 billion to help it build more capacity, encourage others to follow, and end the 'RAMmageddon' memory shortage.",
+      "source": "TechCrunch",
+      "published": "2026-03-27T19:11:28+00:00",
+      "link": "https://techcrunch.com/2026/03/27/memory-chip-giant-sk-hynix-could-help-end-rammageddon-with-blockbuster-us-ipo/"
+    },
+    {
+      "title": "Cohere releases open source model that tops speech recognition benchmarks",
+      "summary": "Cohere presents an open-source speech recognition model which, according to the benchmark, beats all competitors, including OpenAI's Whisper. The article Cohere releases open source model that tops speech recognition benchmarks appeared first on The Decoder.",
+      "source": "The Decoder",
+      "published": "2026-03-27T18:37:50+00:00",
+      "link": "https://the-decoder.com/cohere-releases-open-source-model-that-tops-speech-recognition-benchmarks/"
+    },
+    {
+      "title": "The latest in data centers, AI, and energy",
+      "summary": "Massive new data centers are the physical foundation for tech companies’ hopes and dreams for AI.",
+      "source": "The Verge",
+      "published": "2026-03-27T18:35:53+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/902546/data-centers-ai-energy-power-grids-controversy"
+    },
+    {
+      "title": "Meta's new AI model predicts how your brain reacts to images, sounds, and speech",
+      "summary": "Meta built an AI model that predicts how the human brain reacts to images, sounds, and speech. In tests, its predictions matched the typical brain response more closely than an actual scan of any single person.",
+      "source": "The Decoder",
+      "published": "2026-03-27T17:55:59+00:00",
+      "link": "https://the-decoder.com/metas-new-ai-model-predicts-how-your-brain-reacts-to-images-sounds-and-speech/"
+    },
+    {
+      "title": "Federal judge blocks Trump's ban on Anthropic AI models, calls security risk label \"Orwellian\"",
+      "summary": "A federal judge in San Francisco has sided with Anthropic in its dispute with the Trump administration, calling the government's actions \"classic illegal First Amendment retaliation\" for public criticism. Judge Rita F.",
+      "source": "The Decoder",
+      "published": "2026-03-27T17:44:41+00:00",
+      "link": "https://the-decoder.com/federal-judge-blocks-trumps-ban-on-anthropic-ai-models-calls-security-risk-label-orwellian/"
+    },
+    {
+      "title": "I am leaving the AI party after one drink",
+      "summary": "Article URL: https://lara-aigmueller.at/thoughts/leaving-the-ai-party/ Comments URL: https://news.ycombinator.com/item?id=47545030 Points: 93 # Comments: 97",
+      "source": "Hacker News",
+      "published": "2026-03-27T16:41:59+00:00",
+      "link": "https://lara-aigmueller.at/thoughts/leaving-the-ai-party/"
+    },
+    {
+      "title": "AI got the blame for the Iran school bombing. The truth is more worrying",
+      "summary": "Article URL: https://www.theguardian.com/news/2026/mar/26/ai-got-the-blame-for-the-iran-school-bombing-the-truth-is-far-more-worrying Comments URL: https://news.ycombinator.com/item?id=47544980 Points: 195 # Comments: 138",
+      "source": "Hacker News",
+      "published": "2026-03-27T16:39:32+00:00",
+      "link": "https://www.theguardian.com/news/2026/mar/26/ai-got-the-blame-for-the-iran-school-bombing-the-truth-is-far-more-worrying"
+    },
+    {
+      "title": "Anthropic leak reveals new model \"Claude Mythos\" with \"dramatically higher scores on tests\" than any previous model",
+      "summary": "Update: The leaked draft blog posts have surfaced online, revealing Anthropic's plans for a new model class above its existing Opus line. The documents show two possible name candidates, details about a deliberately slow release strategy, and a strong focus on cybersecurity.",
+      "source": "The Decoder",
+      "published": "2026-03-27T16:24:09+00:00",
+      "link": "https://the-decoder.com/anthropic-leak-reveals-new-model-claude-mythos-with-dramatically-higher-scores-on-tests-than-any-previous-model/"
+    },
+    {
+      "title": "Suno 5.5 lets users sing their own AI-generated songs with a personalized voice feature",
+      "summary": "Suno's new v5.5 update lets users sing with their own voice, train the model on their personal style, and automatically adapt results to their taste. The article Suno 5.5 lets users sing their own AI-generated songs with a personalized voice feature appeared first on The Decoder.",
+      "source": "The Decoder",
+      "published": "2026-03-27T16:06:49+00:00",
+      "link": "https://the-decoder.com/suno-5-5-lets-users-sing-their-own-ai-generated-songs-with-a-personalized-voice-feature/"
+    },
+    {
+      "title": "VCs are betting billions on AI’s next wave, so why is OpenAI killing Sora?",
+      "summary": "When an 82-year-old Kentucky woman was offered $26 million from an AI company that wanted to build a data center on her land, she said no.",
+      "source": "TechCrunch",
+      "published": "2026-03-27T15:40:19+00:00",
+      "link": "https://techcrunch.com/podcast/vcs-are-betting-billions-on-ais-next-wave-so-why-is-openai-killing-sora/"
+    },
     {
       "title": "Apple Still Plans to Sell iPhones When It Turns 100",
       "summary": "As the tech giant turns 50, WIRED spoke to executives about how they plan to win in the AI era.",
@@ -14,6 +91,13 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-03-27T13:57:57+00:00",
       "link": "https://the-decoder.com/metas-own-supervisory-body-warns-that-community-notes-are-no-match-for-ai-disinformation/"
+    },
+    {
+      "title": "OpenAI shuts down Sora while Meta gets shut out in court",
+      "summary": "When an 82-year-old Kentucky woman was offered $26 million from an AI company that wanted to build a data center on her land, she said no.",
+      "source": "TechCrunch",
+      "published": "2026-03-27T13:30:00+00:00",
+      "link": "https://techcrunch.com/video/openai-shuts-down-sora-while-meta-gets-shut-out-in-court/"
     },
     {
       "title": "The Download: the internet’s best weather app, and why people freeze their brains",
@@ -65,6 +149,13 @@ const FEED_DATA = {
       "link": "https://the-decoder.com/anthropic-confirms-leaked-model-marks-a-step-change-in-reasoning-after-data-breach-reveals-its-existence/"
     },
     {
+      "title": "David Sacks is done as AI czar — here’s what he’s doing instead",
+      "summary": "Sacks will be much further from the power center in Washington than since the outset of this second Trump administration.",
+      "source": "TechCrunch",
+      "published": "2026-03-27T01:26:40+00:00",
+      "link": "https://techcrunch.com/2026/03/26/david-sacks-is-done-as-ai-czar-heres-what-hes-doing-instead/"
+    },
+    {
       "title": "Anthropic wins injunction against Trump administration over Defense Department saga",
       "summary": "A federal judge has ordered that the Trump administration rescind recent restrictions it placed on the AI company.",
       "source": "TechCrunch",
@@ -108,7 +199,7 @@ const FEED_DATA = {
     },
     {
       "title": "We rewrote JSONata with AI in a day, saved $500k/year",
-      "summary": "Article URL: https://www.reco.ai/blog/we-rewrote-jsonata-with-ai Comments URL: https://news.ycombinator.com/item?id=47536712 Points: 229 # Comments: 207",
+      "summary": "Article URL: https://www.reco.ai/blog/we-rewrote-jsonata-with-ai Comments URL: https://news.ycombinator.com/item?id=47536712 Points: 248 # Comments: 228",
       "source": "Hacker News",
       "published": "2026-03-26T22:36:41+00:00",
       "link": "https://www.reco.ai/blog/we-rewrote-jsonata-with-ai"
@@ -143,14 +234,14 @@ const FEED_DATA = {
     },
     {
       "title": "New York City hospitals drop Palantir as controversial AI firm expands in UK",
-      "summary": "Article URL: https://www.theguardian.com/technology/2026/mar/26/new-york-hospitals-palantir-ai Comments URL: https://news.ycombinator.com/item?id=47535371 Points: 296 # Comments: 144",
+      "summary": "Article URL: https://www.theguardian.com/technology/2026/mar/26/new-york-hospitals-palantir-ai Comments URL: https://news.ycombinator.com/item?id=47535371 Points: 306 # Comments: 145",
       "source": "Hacker News",
       "published": "2026-03-26T20:35:04+00:00",
       "link": "https://www.theguardian.com/technology/2026/mar/26/new-york-hospitals-palantir-ai"
     },
     {
       "title": "School uses AI to remove 200 books, including Orwell's 1984 and Twilight",
-      "summary": "Article URL: https://www.lbc.co.uk/article/librarian-gobsmacked-school-ai-remove-books-5HjdWsc_2/ Comments URL: https://news.ycombinator.com/item?id=47535246 Points: 54 # Comments: 12",
+      "summary": "Article URL: https://www.lbc.co.uk/article/librarian-gobsmacked-school-ai-remove-books-5HjdWsc_2/ Comments URL: https://news.ycombinator.com/item?id=47535246 Points: 56 # Comments: 12",
       "source": "Hacker News",
       "published": "2026-03-26T20:23:01+00:00",
       "link": "https://www.lbc.co.uk/article/librarian-gobsmacked-school-ai-remove-books-5HjdWsc_2/"
@@ -255,7 +346,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI users whose lives were wrecked by delusion",
-      "summary": "Article URL: https://www.theguardian.com/lifeandstyle/2026/mar/26/ai-chatbot-users-lives-wrecked-by-delusion Comments URL: https://news.ycombinator.com/item?id=47530264 Points: 208 # Comments: 262",
+      "summary": "Article URL: https://www.theguardian.com/lifeandstyle/2026/mar/26/ai-chatbot-users-lives-wrecked-by-delusion Comments URL: https://news.ycombinator.com/item?id=47530264 Points: 211 # Comments: 270",
       "source": "Hacker News",
       "published": "2026-03-26T13:32:23+00:00",
       "link": "https://www.theguardian.com/lifeandstyle/2026/mar/26/ai-chatbot-users-lives-wrecked-by-delusion"
@@ -563,7 +654,7 @@ const FEED_DATA = {
     },
     {
       "title": "Ensu – Ente’s Local LLM app",
-      "summary": "Article URL: https://ente.com/blog/ensu/ Comments URL: https://news.ycombinator.com/item?id=47516650 Points: 358 # Comments: 168",
+      "summary": "Article URL: https://ente.com/blog/ensu/ Comments URL: https://news.ycombinator.com/item?id=47516650 Points: 358 # Comments: 169",
       "source": "Hacker News",
       "published": "2026-03-25T12:49:14+00:00",
       "link": "https://ente.com/blog/ensu/"
@@ -661,7 +752,7 @@ const FEED_DATA = {
     },
     {
       "title": "TurboQuant: Redefining AI efficiency with extreme compression",
-      "summary": "Article URL: https://research.google/blog/turboquant-redefining-ai-efficiency-with-extreme-compression/ Comments URL: https://news.ycombinator.com/item?id=47513475 Points: 546 # Comments: 158",
+      "summary": "Article URL: https://research.google/blog/turboquant-redefining-ai-efficiency-with-extreme-compression/ Comments URL: https://news.ycombinator.com/item?id=47513475 Points: 550 # Comments: 161",
       "source": "Hacker News",
       "published": "2026-03-25T05:00:54+00:00",
       "link": "https://research.google/blog/turboquant-redefining-ai-efficiency-with-extreme-compression/"
@@ -745,7 +836,7 @@ const FEED_DATA = {
     },
     {
       "title": "Is anybody else bored of talking about AI?",
-      "summary": "Article URL: https://blog.jakesaunders.dev/is-anybody-else-bored-of-talking-about-ai/ Comments URL: https://news.ycombinator.com/item?id=47508745 Points: 740 # Comments: 524",
+      "summary": "Article URL: https://blog.jakesaunders.dev/is-anybody-else-bored-of-talking-about-ai/ Comments URL: https://news.ycombinator.com/item?id=47508745 Points: 741 # Comments: 524",
       "source": "Hacker News",
       "published": "2026-03-24T20:31:08+00:00",
       "link": "https://blog.jakesaunders.dev/is-anybody-else-bored-of-talking-about-ai/"
@@ -815,7 +906,7 @@ const FEED_DATA = {
     },
     {
       "title": "The AI Industry Is Lying to You",
-      "summary": "Article URL: https://www.wheresyoured.at/the-ai-industry-is-lying-to-you/ Comments URL: https://news.ycombinator.com/item?id=47506259 Points: 164 # Comments: 130",
+      "summary": "Article URL: https://www.wheresyoured.at/the-ai-industry-is-lying-to-you/ Comments URL: https://news.ycombinator.com/item?id=47506259 Points: 165 # Comments: 130",
       "source": "Hacker News",
       "published": "2026-03-24T17:30:55+00:00",
       "link": "https://www.wheresyoured.at/the-ai-industry-is-lying-to-you/"
@@ -878,7 +969,7 @@ const FEED_DATA = {
     },
     {
       "title": "Hypura – A storage-tier-aware LLM inference scheduler for Apple Silicon",
-      "summary": "Article URL: https://github.com/t8/hypura Comments URL: https://news.ycombinator.com/item?id=47504695 Points: 220 # Comments: 88",
+      "summary": "Article URL: https://github.com/t8/hypura Comments URL: https://news.ycombinator.com/item?id=47504695 Points: 221 # Comments: 88",
       "source": "Hacker News",
       "published": "2026-03-24T16:02:22+00:00",
       "link": "https://github.com/t8/hypura"
@@ -920,14 +1011,14 @@ const FEED_DATA = {
     },
     {
       "title": "The bridge to wealth is being pulled up with AI",
-      "summary": "Article URL: https://danielhomola.com/m%20&%20e/ai/your-bridge-to-wealth-is-being-pulled-up/ Comments URL: https://news.ycombinator.com/item?id=47503296 Points: 268 # Comments: 405",
+      "summary": "Article URL: https://danielhomola.com/m%20&%20e/ai/your-bridge-to-wealth-is-being-pulled-up/ Comments URL: https://news.ycombinator.com/item?id=47503296 Points: 269 # Comments: 407",
       "source": "Hacker News",
       "published": "2026-03-24T14:39:20+00:00",
       "link": "https://danielhomola.com/m%20&%20e/ai/your-bridge-to-wealth-is-being-pulled-up/"
     },
     {
       "title": "So where are all the AI apps?",
-      "summary": "Article URL: https://www.answer.ai/posts/2026-03-12-so-where-are-all-the-ai-apps.html Comments URL: https://news.ycombinator.com/item?id=47503006 Points: 447 # Comments: 418",
+      "summary": "Article URL: https://www.answer.ai/posts/2026-03-12-so-where-are-all-the-ai-apps.html Comments URL: https://news.ycombinator.com/item?id=47503006 Points: 447 # Comments: 420",
       "source": "Hacker News",
       "published": "2026-03-24T14:19:59+00:00",
       "link": "https://www.answer.ai/posts/2026-03-12-so-where-are-all-the-ai-apps.html"
@@ -976,7 +1067,7 @@ const FEED_DATA = {
     },
     {
       "title": "LLM Neuroanatomy II: Modern LLM Hacking and Hints of a Universal Language?",
-      "summary": "Article URL: https://dnhkng.github.io/posts/rys-ii/ Comments URL: https://news.ycombinator.com/item?id=47500709 Points: 145 # Comments: 37",
+      "summary": "Article URL: https://dnhkng.github.io/posts/rys-ii/ Comments URL: https://news.ycombinator.com/item?id=47500709 Points: 145 # Comments: 38",
       "source": "Hacker News",
       "published": "2026-03-24T10:33:54+00:00",
       "link": "https://dnhkng.github.io/posts/rys-ii/"
@@ -1309,97 +1400,6 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-03-22T12:00:00+00:00",
       "link": "https://techcrunch.com/2026/03/22/an-exclusive-tour-of-amazons-trainium-lab-the-chip-thats-won-over-anthropic-openai-even-apple/"
-    },
-    {
-      "title": "Andrej Karpathy says humans are now the bottleneck in AI research with easy-to-measure results",
-      "summary": "AI developer Andrej Karpathy let an autonomous agent optimize his training setup overnight, and it found improvements he'd missed despite two decades of experience.",
-      "source": "The Decoder",
-      "published": "2026-03-22T11:44:24+00:00",
-      "link": "https://the-decoder.com/andrej-karpathy-says-humans-are-now-the-bottleneck-in-ai-research-with-easy-to-measure-results/"
-    },
-    {
-      "title": "OpenAI publishes a prompting playbook that helps designers get better frontend results from GPT-5.4",
-      "summary": "In a new guide, OpenAI explains how front-end designers can get better results from GPT-5.4 when building websites and apps and how to stop the model from falling back on generic designs.",
-      "source": "The Decoder",
-      "published": "2026-03-22T10:51:07+00:00",
-      "link": "https://the-decoder.com/openai-publishes-a-prompting-playbook-that-helps-designers-get-better-frontend-results-from-gpt-5-4/"
-    },
-    {
-      "title": "Ask HN: AI productivity gains – do you fire devs or build better products?",
-      "summary": "i was rolling my eyes at the hype, but reading about this is totally different from experiencing it.",
-      "source": "Hacker News",
-      "published": "2026-03-22T09:37:30+00:00",
-      "link": "https://news.ycombinator.com/item?id=47475859"
-    },
-    {
-      "title": "Terence Tao says AI drives idea generation cost to near zero but shifts the bottleneck to verification",
-      "summary": "Terence Tao compares AI's impact on mathematics to the automobile's effect on cities: new technology needs new infrastructure, or it just clogs the old roads. His analysis applies far beyond math.",
-      "source": "The Decoder",
-      "published": "2026-03-22T09:31:13+00:00",
-      "link": "https://the-decoder.com/terence-tao-says-ai-drives-idea-generation-cost-to-near-zero-but-shifts-the-bottleneck-to-verification/"
-    },
-    {
-      "title": "Math needs thinking time, everyday knowledge needs memory, and a new Transformer architecture aims to deliver both",
-      "summary": "A German research team lets Transformer models decide for themselves how many times they think about a problem. Combined with additional memory, the approach outperforms larger models on math problems.",
-      "source": "The Decoder",
-      "published": "2026-03-22T08:31:07+00:00",
-      "link": "https://the-decoder.com/math-needs-thinking-time-everyday-knowledge-needs-memory-and-a-new-transformer-architecture-aims-to-deliver-both/"
-    },
-    {
-      "title": "Cross-Model Void Convergence: GPT-5.2 and Claude Opus 4.6 Deterministic Silence",
-      "summary": "Article URL: https://zenodo.org/records/18976656 Comments URL: https://news.ycombinator.com/item?id=47475155 Points: 51 # Comments: 28",
-      "source": "Hacker News",
-      "published": "2026-03-22T07:07:15+00:00",
-      "link": "https://zenodo.org/records/18976656"
-    },
-    {
-      "title": "Are AI tokens the new signing bonus or just a cost of doing business?",
-      "summary": "Maybe tokens really will become the fourth pillar of engineering compensation. But engineers might want to hold the line before embracing this as a straightforward win.",
-      "source": "TechCrunch",
-      "published": "2026-03-22T06:20:43+00:00",
-      "link": "https://techcrunch.com/2026/03/21/are-ai-tokens-the-new-signing-bonus-or-just-a-cost-of-doing-business/"
-    },
-    {
-      "title": "The Impact of AI on Game Dev Jobs. Open to Work Crisis",
-      "summary": "Article URL: https://darkounity.com/blog-post?id=the-impact-of-ai-on-game-dev-jobs-open-to-work-crisis--1774128585922 Comments URL: https://news.ycombinator.com/item?id=47471943 Points: 85 # Comments: 70",
-      "source": "Hacker News",
-      "published": "2026-03-21T22:03:05+00:00",
-      "link": "https://darkounity.com/blog-post?id=the-impact-of-ai-on-game-dev-jobs-open-to-work-crisis--1774128585922"
-    },
-    {
-      "title": "How to attract AI bots to your open source project",
-      "summary": "Article URL: https://nesbitt.io/2026/03/21/how-to-attract-ai-bots-to-your-open-source-project.html Comments URL: https://news.ycombinator.com/item?id=47471271 Points: 173 # Comments: 29",
-      "source": "Hacker News",
-      "published": "2026-03-21T20:58:01+00:00",
-      "link": "https://nesbitt.io/2026/03/21/how-to-attract-ai-bots-to-your-open-source-project.html"
-    },
-    {
-      "title": "Tinybox – Offline AI device 120B parameters",
-      "summary": "Article URL: https://tinygrad.org/#tinybox Comments URL: https://news.ycombinator.com/item?id=47470773 Points: 399 # Comments: 247",
-      "source": "Hacker News",
-      "published": "2026-03-21T20:08:37+00:00",
-      "link": "https://tinygrad.org/#tinybox"
-    },
-    {
-      "title": "Tinybox- offline AI device 120B parameters",
-      "summary": "Article URL: https://tinygrad.org/#tinybox Comments URL: https://news.ycombinator.com/item?id=47470773 Points: 141 # Comments: 83",
-      "source": "Hacker News",
-      "published": "2026-03-21T20:08:37+00:00",
-      "link": "https://tinygrad.org/#tinybox"
-    },
-    {
-      "title": "Publisher pulls horror novel ‘Shy Girl’ over AI concerns",
-      "summary": "Hachette Book Group said it will not be publishing “Shy Girl” over concerns that artificial intelligence was used to generate the text.",
-      "source": "TechCrunch",
-      "published": "2026-03-21T19:30:27+00:00",
-      "link": "https://techcrunch.com/2026/03/21/publisher-pulls-horror-novel-shy-girl-over-ai-concerns/"
-    },
-    {
-      "title": "OpenAI plans to nearly double its workforce by 2026 as it ramps up enterprise push",
-      "summary": "OpenAI plans to nearly double its workforce to 8,000 by the end of 2026, with a major push into enterprise AI, a market where Anthropic has been steadily gaining ground.",
-      "source": "The Decoder",
-      "published": "2026-03-21T18:55:44+00:00",
-      "link": "https://the-decoder.com/openai-plans-to-nearly-double-its-workforce-by-2026-as-it-ramps-up-enterprise-push/"
     }
   ]
 };
