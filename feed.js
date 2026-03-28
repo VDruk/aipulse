@@ -1,6 +1,41 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-03-28T17:59:04.415836+00:00",
+  "lastUpdated": "2026-03-28T21:55:35.165162+00:00",
   "items": [
+    {
+      "title": "Stanford study outlines dangers of asking AI chatbots for personal advice",
+      "summary": "While there’s been plenty of debate about AI sycophancy, a new study by Stanford computer scientists attempts to measure how harmful that tendency might be.",
+      "source": "TechCrunch",
+      "published": "2026-03-28T20:45:54+00:00",
+      "link": "https://techcrunch.com/2026/03/28/stanford-study-outlines-dangers-of-asking-ai-chatbots-for-personal-advice/"
+    },
+    {
+      "title": "The first 40 months of the AI era",
+      "summary": "Article URL: https://lzon.ca/posts/other/thoughts-ai-era/ Comments URL: https://news.ycombinator.com/item?id=47557185 Points: 54 # Comments: 0",
+      "source": "Hacker News",
+      "published": "2026-03-28T18:42:08+00:00",
+      "link": "https://lzon.ca/posts/other/thoughts-ai-era/"
+    },
+    {
+      "title": "Further human + AI + proof assistant work on Knuth's \"Claude Cycles\" problem",
+      "summary": "Knuth Claude's Cycles note update: problem now fully solved, by LLMs - https://news.ycombinator.com/item?id=47306926 - March 2026 (2 comments)https://chatgpt.com/share/69aaab4b-888c-8003-9a02-d1df80f9c7...Claude's Cycles [pdf] - https://news.ycombinator.com/item?id=47230710 -...",
+      "source": "Hacker News",
+      "published": "2026-03-28T18:38:59+00:00",
+      "link": "https://twitter.com/BoWang87/status/2037648937453232504"
+    },
+    {
+      "title": "Suno leans into customization with v5.5",
+      "summary": "Suno just released one of its biggest updates yet with v5.5 of its AI music model. Where previous updates focused mostly on improving fidelity and creating more natural vocals, v5.5 is about giving users more control.",
+      "source": "The Verge",
+      "published": "2026-03-28T18:33:10+00:00",
+      "link": "https://www.theverge.com/entertainment/903056/suno-ai-music-v5-5-model"
+    },
+    {
+      "title": "Wikipedia bans AI-generated content in its online encyclopedia",
+      "summary": "Article URL: https://www.theguardian.com/technology/2026/mar/27/wikipedia-bans-ai Comments URL: https://news.ycombinator.com/item?id=47556116 Points: 52 # Comments: 4",
+      "source": "Hacker News",
+      "published": "2026-03-28T16:34:04+00:00",
+      "link": "https://www.theguardian.com/technology/2026/mar/27/wikipedia-bans-ai"
+    },
     {
       "title": "Elon Musk’s last co-founder reportedly leaves xAI",
       "summary": "All but two of Musk's 11 xAI co-founders departed before this week.",
@@ -17,10 +52,17 @@ const FEED_DATA = {
     },
     {
       "title": "Folk are getting dangerously attached to AI that always tells them they're right",
-      "summary": "Article URL: https://www.theregister.com/2026/03/27/sycophantic_ai_risks/ Comments URL: https://news.ycombinator.com/item?id=47555090 Points: 151 # Comments: 107",
+      "summary": "Article URL: https://www.theregister.com/2026/03/27/sycophantic_ai_risks/ Comments URL: https://news.ycombinator.com/item?id=47555090 Points: 251 # Comments: 194",
       "source": "Hacker News",
       "published": "2026-03-28T14:49:25+00:00",
       "link": "https://www.theregister.com/2026/03/27/sycophantic_ai_risks/"
+    },
+    {
+      "title": "The risk of AI isn't making us lazy, but making \"lazy\" look productive",
+      "summary": "I've been reflecting on how LLMs are changing our learning habits as engineers, and realized something worrying.AI can now quickly help search and research information, distilling the core of a paper into a concise summary.",
+      "source": "Hacker News",
+      "published": "2026-03-28T14:48:14+00:00",
+      "link": "https://news.ycombinator.com/item?id=47555081"
     },
     {
       "title": "Anthropic reportedly views itself as the antidote to OpenAI's \"tobacco industry\" approach to AI",
@@ -38,10 +80,17 @@ const FEED_DATA = {
     },
     {
       "title": "AI overly affirms users asking for personal advice",
-      "summary": "https://arxiv.org/abs/2602.14270 Comments URL: https://news.ycombinator.com/item?id=47554773 Points: 330 # Comments: 258",
+      "summary": "https://arxiv.org/abs/2602.14270https://www.science.org/doi/10.1126/science.aec8352 Comments URL: https://news.ycombinator.com/item?id=47554773 Points: 461 # Comments: 355",
       "source": "Hacker News",
       "published": "2026-03-28T14:08:33+00:00",
       "link": "https://news.stanford.edu/stories/2026/03/ai-advice-sycophantic-models-research"
+    },
+    {
+      "title": "Why can’t TikTok identify AI generated ads when I can?",
+      "summary": "I've been struggling to tell whether the ads appearing in my TikTok feeds have been made with generative AI tools.",
+      "source": "The Verge",
+      "published": "2026-03-28T14:00:00+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/900400/tiktok-ai-ads-labels-samsung-disclosure"
     },
     {
       "title": "TikTok’s policy for AI ads isn’t working",
@@ -80,10 +129,17 @@ const FEED_DATA = {
     },
     {
       "title": "Adults Lose Skills to AI. Children Never Build Them",
-      "summary": "Article URL: https://www.psychologytoday.com/us/blog/the-algorithmic-mind/202603/adults-lose-skills-to-ai-children-never-build-them Comments URL: https://news.ycombinator.com/item?id=47552617 Points: 73 # Comments: 59",
+      "summary": "Article URL: https://www.psychologytoday.com/us/blog/the-algorithmic-mind/202603/adults-lose-skills-to-ai-children-never-build-them Comments URL: https://news.ycombinator.com/item?id=47552617 Points: 86 # Comments: 68",
       "source": "Hacker News",
       "published": "2026-03-28T08:17:52+00:00",
       "link": "https://www.psychologytoday.com/us/blog/the-algorithmic-mind/202603/adults-lose-skills-to-ai-children-never-build-them"
+    },
+    {
+      "title": "CERN uses ultra-compact AI models on FPGAs for real-time LHC data filtering",
+      "summary": "Article URL: https://theopenreader.org/Journalism:CERN_Uses_Tiny_AI_Models_Burned_into_Silicon_for_Real-Time_LHC_Data_Filtering Comments URL: https://news.ycombinator.com/item?id=47552562 Points: 281 # Comments: 126",
+      "source": "Hacker News",
+      "published": "2026-03-28T08:06:19+00:00",
+      "link": "https://theopenreader.org/Journalism:CERN_Uses_Tiny_AI_Models_Burned_into_Silicon_for_Real-Time_LHC_Data_Filtering"
     },
     {
       "title": "CERN uses tiny AI models burned into silicon for real-time LHC data filtering",
@@ -94,7 +150,7 @@ const FEED_DATA = {
     },
     {
       "title": "Why are executives enamored with AI, but ICs aren't?",
-      "summary": "Article URL: https://johnjwang.com/post/2026/03/27/why-are-executives-enabled-with-ai-but-ics-arent/ Comments URL: https://news.ycombinator.com/item?id=47549649 Points: 74 # Comments: 135",
+      "summary": "Article URL: https://johnjwang.com/post/2026/03/27/why-are-executives-enabled-with-ai-but-ics-arent/ Comments URL: https://news.ycombinator.com/item?id=47549649 Points: 75 # Comments: 143",
       "source": "Hacker News",
       "published": "2026-03-27T23:19:18+00:00",
       "link": "https://johnjwang.com/post/2026/03/27/why-are-executives-enabled-with-ai-but-ics-arent/"
@@ -115,7 +171,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI bug reports went from junk to legit overnight, says Linux kernel czar",
-      "summary": "Article URL: https://www.theregister.com/2026/03/26/greg_kroahhartman_ai_kernel/ Comments URL: https://news.ycombinator.com/item?id=47547849 Points: 55 # Comments: 2",
+      "summary": "Article URL: https://www.theregister.com/2026/03/26/greg_kroahhartman_ai_kernel/ Comments URL: https://news.ycombinator.com/item?id=47547849 Points: 55 # Comments: 3",
       "source": "Hacker News",
       "published": "2026-03-27T20:30:35+00:00",
       "link": "https://www.theregister.com/2026/03/26/greg_kroahhartman_ai_kernel/"
@@ -164,21 +220,21 @@ const FEED_DATA = {
     },
     {
       "title": "Some uncomfortable truths about AI coding agents",
-      "summary": "Article URL: https://standupforme.app/blog/some-uncomfortable-truths-about-ai-coding-agents/ Comments URL: https://news.ycombinator.com/item?id=47545748 Points: 76 # Comments: 93",
+      "summary": "Article URL: https://standupforme.app/blog/some-uncomfortable-truths-about-ai-coding-agents/ Comments URL: https://news.ycombinator.com/item?id=47545748 Points: 76 # Comments: 95",
       "source": "Hacker News",
       "published": "2026-03-27T17:32:48+00:00",
       "link": "https://standupforme.app/blog/some-uncomfortable-truths-about-ai-coding-agents/"
     },
     {
       "title": "I am leaving the AI party after one drink",
-      "summary": "Article URL: https://lara-aigmueller.at/thoughts/leaving-the-ai-party/ Comments URL: https://news.ycombinator.com/item?id=47545030 Points: 116 # Comments: 125",
+      "summary": "Article URL: https://lara-aigmueller.at/thoughts/leaving-the-ai-party/ Comments URL: https://news.ycombinator.com/item?id=47545030 Points: 119 # Comments: 127",
       "source": "Hacker News",
       "published": "2026-03-27T16:41:59+00:00",
       "link": "https://lara-aigmueller.at/thoughts/leaving-the-ai-party/"
     },
     {
       "title": "AI got the blame for the Iran school bombing. The truth is more worrying",
-      "summary": "Article URL: https://www.theguardian.com/news/2026/mar/26/ai-got-the-blame-for-the-iran-school-bombing-the-truth-is-far-more-worrying Comments URL: https://news.ycombinator.com/item?id=47544980 Points: 384 # Comments: 358",
+      "summary": "Article URL: https://www.theguardian.com/news/2026/mar/26/ai-got-the-blame-for-the-iran-school-bombing-the-truth-is-far-more-worrying Comments URL: https://news.ycombinator.com/item?id=47544980 Points: 393 # Comments: 365",
       "source": "Hacker News",
       "published": "2026-03-27T16:39:32+00:00",
       "link": "https://www.theguardian.com/news/2026/mar/26/ai-got-the-blame-for-the-iran-school-bombing-the-truth-is-far-more-worrying"
@@ -276,7 +332,7 @@ const FEED_DATA = {
     },
     {
       "title": "A leak reveals that Anthropic is testing a more capable AI model \"Claude Mythos\"",
-      "summary": "Article URL: https://fortune.com/2026/03/26/anthropic-says-testing-mythos-powerful-new-ai-model-after-data-leak-reveals-its-existence-step-change-in-capabilities/ Comments URL: https://news.ycombinator.com/item?id=47538795 Points: 61 # Comments: 21",
+      "summary": "Article URL: https://fortune.com/2026/03/26/anthropic-says-testing-mythos-powerful-new-ai-model-after-data-leak-reveals-its-existence-step-change-in-capabilities/ Comments URL: https://news.ycombinator.com/item?id=47538795 Points: 62 # Comments: 22",
       "source": "Hacker News",
       "published": "2026-03-27T03:21:35+00:00",
       "link": "https://fortune.com/2026/03/26/anthropic-says-testing-mythos-powerful-new-ai-model-after-data-leak-reveals-its-existence-step-change-in-capabilities/"
@@ -332,7 +388,7 @@ const FEED_DATA = {
     },
     {
       "title": "We rewrote JSONata with AI in a day, saved $500k/year",
-      "summary": "Article URL: https://www.reco.ai/blog/we-rewrote-jsonata-with-ai Comments URL: https://news.ycombinator.com/item?id=47536712 Points: 265 # Comments: 246",
+      "summary": "Article URL: https://www.reco.ai/blog/we-rewrote-jsonata-with-ai Comments URL: https://news.ycombinator.com/item?id=47536712 Points: 265 # Comments: 247",
       "source": "Hacker News",
       "published": "2026-03-26T22:36:41+00:00",
       "link": "https://www.reco.ai/blog/we-rewrote-jsonata-with-ai"
@@ -367,7 +423,7 @@ const FEED_DATA = {
     },
     {
       "title": "New York City hospitals drop Palantir as controversial AI firm expands in UK",
-      "summary": "Article URL: https://www.theguardian.com/technology/2026/mar/26/new-york-hospitals-palantir-ai Comments URL: https://news.ycombinator.com/item?id=47535371 Points: 309 # Comments: 144",
+      "summary": "Article URL: https://www.theguardian.com/technology/2026/mar/26/new-york-hospitals-palantir-ai Comments URL: https://news.ycombinator.com/item?id=47535371 Points: 310 # Comments: 144",
       "source": "Hacker News",
       "published": "2026-03-26T20:35:04+00:00",
       "link": "https://www.theguardian.com/technology/2026/mar/26/new-york-hospitals-palantir-ai"
@@ -479,7 +535,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI users whose lives were wrecked by delusion",
-      "summary": "Article URL: https://www.theguardian.com/lifeandstyle/2026/mar/26/ai-chatbot-users-lives-wrecked-by-delusion Comments URL: https://news.ycombinator.com/item?id=47530264 Points: 217 # Comments: 275",
+      "summary": "Article URL: https://www.theguardian.com/lifeandstyle/2026/mar/26/ai-chatbot-users-lives-wrecked-by-delusion Comments URL: https://news.ycombinator.com/item?id=47530264 Points: 218 # Comments: 275",
       "source": "Hacker News",
       "published": "2026-03-26T13:32:23+00:00",
       "link": "https://www.theguardian.com/lifeandstyle/2026/mar/26/ai-chatbot-users-lives-wrecked-by-delusion"
@@ -1344,62 +1400,6 @@ const FEED_DATA = {
       "source": "Hacker News",
       "published": "2026-03-23T16:11:03+00:00",
       "link": "https://blog.mozilla.ai/cq-stack-overflow-for-agents/"
-    },
-    {
-      "title": "Startup Gimlet Labs is solving the AI inference bottleneck in a surprisingly elegant way",
-      "summary": "Gimlet Labs just raised an $80 million Series A for tech that lets AI run across NVIDIA, AMD, Intel, ARM, Cerebras and d-Matrix chips, simultaneously.",
-      "source": "TechCrunch",
-      "published": "2026-03-23T16:00:00+00:00",
-      "link": "https://techcrunch.com/2026/03/23/startup-gimlet-labs-is-solving-the-ai-inference-bottleneck-in-a-surprisingly-elegant-way/"
-    },
-    {
-      "title": "Littlebird raises $11M for its AI-assisted ‘recall’ tool that reads your computer screen",
-      "summary": "Littlebird is building an AI that reads your screen in real time to capture context, answer questions, and automate tasks, without relying on screenshots.",
-      "source": "TechCrunch",
-      "published": "2026-03-23T16:00:00+00:00",
-      "link": "https://techcrunch.com/2026/03/23/littlebird-raises-11m-to-capture-context-from-your-computer-so-you-can-query-your-data/"
-    },
-    {
-      "title": "Elizabeth Warren calls Pentagon’s decision to bar Anthropic ‘retaliation’",
-      "summary": "In a letter to Defense Secretary Pete Hegseth, Senator Elizabeth Warren (D-MA) equated the DOD's decision to label Anthropic a \"supply-chain risk\" as retaliation, arguing that the Pentagon could simply have terminated its contract with the AI lab.",
-      "source": "TechCrunch",
-      "published": "2026-03-23T15:22:57+00:00",
-      "link": "https://techcrunch.com/2026/03/23/elizabeth-warren-anthropic-pentagon-defense-supply-chain-risk-retaliation/"
-    },
-    {
-      "title": "Sam Altman-backed fusion startup Helion in talks to sell power to OpenAI",
-      "summary": "OpenAI CEO Sam Altman is stepping down as board chair of Helion. His departure comes as reports that the two companies are negotiating a deal that would see Helion sell 12.5% of its power output to OpenAI.",
-      "source": "TechCrunch",
-      "published": "2026-03-23T15:03:36+00:00",
-      "link": "https://techcrunch.com/2026/03/23/sam-altman-openai-fusion-energy-board-helion/"
-    },
-    {
-      "title": "Sam Altman-backed fusion startup Helion in talks with OpenAI",
-      "summary": "Helion is reportedly negotiating a deal that would see it sell 12.5% of its power output to OpenAI.",
-      "source": "TechCrunch",
-      "published": "2026-03-23T15:03:36+00:00",
-      "link": "https://techcrunch.com/2026/03/23/sam-altman-backed-fusion-startup-helion-in-talks-with-openai/"
-    },
-    {
-      "title": "iPhone 17 Pro Demonstrated Running a 400B LLM",
-      "summary": "https://xcancel.com/anemll/status/2035901335984611412 Comments URL: https://news.ycombinator.com/item?id=47490070 Points: 710 # Comments: 327",
-      "source": "Hacker News",
-      "published": "2026-03-23T14:30:10+00:00",
-      "link": "https://twitter.com/anemll/status/2035901335984611412"
-    },
-    {
-      "title": "Confronting the CEO of the AI company that impersonated me",
-      "summary": "Today, I’m talking with Shishir Mehrotra, who is CEO of Superhuman — that’s the company formerly known as Grammarly, which is still its flagship product. Shishir also used to be the chief product officer at YouTube, and he’s on the board of directors at Spotify.",
-      "source": "The Verge",
-      "published": "2026-03-23T13:30:00+00:00",
-      "link": "https://www.theverge.com/podcast/898715/superhuman-grammarly-expert-review-shishir-mehrotra-interview-ai-impersonation"
-    },
-    {
-      "title": "Palantir AI to support UK finance operations",
-      "summary": "UK authorities believe improving efficiency across national finance operations requires applying AI platforms from vendors like Palantir. The country’s financial regulator, the FCA, has initiated a project leveraging AI to identify illicit activities.",
-      "source": "AI News",
-      "published": "2026-03-23T13:14:23+00:00",
-      "link": "https://www.artificialintelligence-news.com/news/palantir-ai-to-support-uk-finance-operations/"
     }
   ]
 };
