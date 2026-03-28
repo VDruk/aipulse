@@ -1,6 +1,41 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-03-28T10:04:01.240359+00:00",
+  "lastUpdated": "2026-03-28T14:54:36.445835+00:00",
   "items": [
+    {
+      "title": "Anthropic reportedly views itself as the antidote to OpenAI's \"tobacco industry\" approach to AI",
+      "summary": "Anthropic grew out of more than just concern for AI safety—it was born from a bitter power struggle and personal conflict at OpenAI.",
+      "source": "The Decoder",
+      "published": "2026-03-28T14:45:26+00:00",
+      "link": "https://the-decoder.com/anthropic-reportedly-views-itself-as-the-antidote-to-openais-tobacco-industry-approach-to-ai/"
+    },
+    {
+      "title": "Anthropic’s Claude popularity with paying consumers is skyrocketing",
+      "summary": "Estimates for total Claude consumer users are all over the map (we've seen figures ranging from 18 million to 30 million). Anthropic hasn't disclosed this data, but a spokesperson did tell TechCrunch that Claude paid subscriptions have more than doubled this year.",
+      "source": "TechCrunch",
+      "published": "2026-03-28T14:15:00+00:00",
+      "link": "https://techcrunch.com/2026/03/28/anthropics-claude-popularity-with-paying-consumers-is-skyrocketing/"
+    },
+    {
+      "title": "TikTok’s policy for AI ads isn’t working",
+      "summary": "I've been struggling to tell whether the ads appearing in my TikTok feeds have been made with generative AI tools.",
+      "source": "The Verge",
+      "published": "2026-03-28T14:00:00+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/900400/tiktok-ai-ads-labels-samsung-disclosure"
+    },
+    {
+      "title": "Why OpenAI killed Sora",
+      "summary": "On Tuesday morning, everything was business as usual at OpenAI.",
+      "source": "The Verge",
+      "published": "2026-03-28T12:00:00+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/902368/openai-sora-dead-ai-video-generation-competition"
+    },
+    {
+      "title": "Meta's hyperagents improve at tasks and improve at improving",
+      "summary": "Researchers at Meta and several universities have developed \"hyperagents,\" AI systems that don't just solve tasks, but also optimize the very mechanism they use to get better. The approach works across different task areas and could open the door to self-accelerating AI.",
+      "source": "The Decoder",
+      "published": "2026-03-28T10:40:09+00:00",
+      "link": "https://the-decoder.com/metas-hyperagents-improve-at-tasks-and-improve-at-improving/"
+    },
     {
       "title": "OpenAI sets two-stage Sora shutdown with app closing April 2026 and API following in September",
       "summary": "OpenAI is pulling the plug on Sora, its AI video generation tool, in a two-stage shutdown starting April 2026. The move signals a major strategic shift away from creative AI tools and toward coding and enterprise products.",
@@ -16,8 +51,22 @@ const FEED_DATA = {
       "link": "https://the-decoder.com/anthropics-new-data-shows-ai-skill-builds-over-time-and-that-could-widen-the-inequality-gap/"
     },
     {
+      "title": "Adults Lose Skills to AI. Children Never Build Them",
+      "summary": "Article URL: https://www.psychologytoday.com/us/blog/the-algorithmic-mind/202603/adults-lose-skills-to-ai-children-never-build-them Comments URL: https://news.ycombinator.com/item?id=47552617 Points: 63 # Comments: 42",
+      "source": "Hacker News",
+      "published": "2026-03-28T08:17:52+00:00",
+      "link": "https://www.psychologytoday.com/us/blog/the-algorithmic-mind/202603/adults-lose-skills-to-ai-children-never-build-them"
+    },
+    {
+      "title": "CERN uses tiny AI models burned into silicon for real-time LHC data filtering",
+      "summary": "Article URL: https://theopenreader.org/Journalism:CERN_Uses_Tiny_AI_Models_Burned_into_Silicon_for_Real-Time_LHC_Data_Filtering Comments URL: https://news.ycombinator.com/item?id=47552562 Points: 181 # Comments: 89",
+      "source": "Hacker News",
+      "published": "2026-03-28T08:06:19+00:00",
+      "link": "https://theopenreader.org/Journalism:CERN_Uses_Tiny_AI_Models_Burned_into_Silicon_for_Real-Time_LHC_Data_Filtering"
+    },
+    {
       "title": "Why are executives enamored with AI, but ICs aren't?",
-      "summary": "Article URL: https://johnjwang.com/post/2026/03/27/why-are-executives-enabled-with-ai-but-ics-arent/ Comments URL: https://news.ycombinator.com/item?id=47549649 Points: 67 # Comments: 121",
+      "summary": "Article URL: https://johnjwang.com/post/2026/03/27/why-are-executives-enabled-with-ai-but-ics-arent/ Comments URL: https://news.ycombinator.com/item?id=47549649 Points: 70 # Comments: 132",
       "source": "Hacker News",
       "published": "2026-03-27T23:19:18+00:00",
       "link": "https://johnjwang.com/post/2026/03/27/why-are-executives-enabled-with-ai-but-ics-arent/"
@@ -35,6 +84,13 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-03-27T21:44:45+00:00",
       "link": "https://techcrunch.com/2026/03/27/why-softbanks-new-40b-loan-points-to-a-2026-openai-ipo/"
+    },
+    {
+      "title": "AI bug reports went from junk to legit overnight, says Linux kernel czar",
+      "summary": "Article URL: https://www.theregister.com/2026/03/26/greg_kroahhartman_ai_kernel/ Comments URL: https://news.ycombinator.com/item?id=47547849 Points: 53 # Comments: 2",
+      "source": "Hacker News",
+      "published": "2026-03-27T20:30:35+00:00",
+      "link": "https://www.theregister.com/2026/03/26/greg_kroahhartman_ai_kernel/"
     },
     {
       "title": "Google's new Gemini update makes it easy to import memories from ChatGPT and Claude",
@@ -80,21 +136,21 @@ const FEED_DATA = {
     },
     {
       "title": "Some uncomfortable truths about AI coding agents",
-      "summary": "Article URL: https://standupforme.app/blog/some-uncomfortable-truths-about-ai-coding-agents/ Comments URL: https://news.ycombinator.com/item?id=47545748 Points: 72 # Comments: 84",
+      "summary": "Article URL: https://standupforme.app/blog/some-uncomfortable-truths-about-ai-coding-agents/ Comments URL: https://news.ycombinator.com/item?id=47545748 Points: 73 # Comments: 86",
       "source": "Hacker News",
       "published": "2026-03-27T17:32:48+00:00",
       "link": "https://standupforme.app/blog/some-uncomfortable-truths-about-ai-coding-agents/"
     },
     {
       "title": "I am leaving the AI party after one drink",
-      "summary": "Article URL: https://lara-aigmueller.at/thoughts/leaving-the-ai-party/ Comments URL: https://news.ycombinator.com/item?id=47545030 Points: 112 # Comments: 122",
+      "summary": "Article URL: https://lara-aigmueller.at/thoughts/leaving-the-ai-party/ Comments URL: https://news.ycombinator.com/item?id=47545030 Points: 113 # Comments: 125",
       "source": "Hacker News",
       "published": "2026-03-27T16:41:59+00:00",
       "link": "https://lara-aigmueller.at/thoughts/leaving-the-ai-party/"
     },
     {
       "title": "AI got the blame for the Iran school bombing. The truth is more worrying",
-      "summary": "Article URL: https://www.theguardian.com/news/2026/mar/26/ai-got-the-blame-for-the-iran-school-bombing-the-truth-is-far-more-worrying Comments URL: https://news.ycombinator.com/item?id=47544980 Points: 370 # Comments: 335",
+      "summary": "Article URL: https://www.theguardian.com/news/2026/mar/26/ai-got-the-blame-for-the-iran-school-bombing-the-truth-is-far-more-worrying Comments URL: https://news.ycombinator.com/item?id=47544980 Points: 379 # Comments: 351",
       "source": "Hacker News",
       "published": "2026-03-27T16:39:32+00:00",
       "link": "https://www.theguardian.com/news/2026/mar/26/ai-got-the-blame-for-the-iran-school-bombing-the-truth-is-far-more-worrying"
@@ -192,7 +248,7 @@ const FEED_DATA = {
     },
     {
       "title": "A leak reveals that Anthropic is testing a more capable AI model \"Claude Mythos\"",
-      "summary": "Article URL: https://fortune.com/2026/03/26/anthropic-says-testing-mythos-powerful-new-ai-model-after-data-leak-reveals-its-existence-step-change-in-capabilities/ Comments URL: https://news.ycombinator.com/item?id=47538795 Points: 59 # Comments: 20",
+      "summary": "Article URL: https://fortune.com/2026/03/26/anthropic-says-testing-mythos-powerful-new-ai-model-after-data-leak-reveals-its-existence-step-change-in-capabilities/ Comments URL: https://news.ycombinator.com/item?id=47538795 Points: 59 # Comments: 21",
       "source": "Hacker News",
       "published": "2026-03-27T03:21:35+00:00",
       "link": "https://fortune.com/2026/03/26/anthropic-says-testing-mythos-powerful-new-ai-model-after-data-leak-reveals-its-existence-step-change-in-capabilities/"
@@ -248,7 +304,7 @@ const FEED_DATA = {
     },
     {
       "title": "We rewrote JSONata with AI in a day, saved $500k/year",
-      "summary": "Article URL: https://www.reco.ai/blog/we-rewrote-jsonata-with-ai Comments URL: https://news.ycombinator.com/item?id=47536712 Points: 261 # Comments: 240",
+      "summary": "Article URL: https://www.reco.ai/blog/we-rewrote-jsonata-with-ai Comments URL: https://news.ycombinator.com/item?id=47536712 Points: 264 # Comments: 245",
       "source": "Hacker News",
       "published": "2026-03-26T22:36:41+00:00",
       "link": "https://www.reco.ai/blog/we-rewrote-jsonata-with-ai"
@@ -283,7 +339,7 @@ const FEED_DATA = {
     },
     {
       "title": "New York City hospitals drop Palantir as controversial AI firm expands in UK",
-      "summary": "Article URL: https://www.theguardian.com/technology/2026/mar/26/new-york-hospitals-palantir-ai Comments URL: https://news.ycombinator.com/item?id=47535371 Points: 308 # Comments: 144",
+      "summary": "Article URL: https://www.theguardian.com/technology/2026/mar/26/new-york-hospitals-palantir-ai Comments URL: https://news.ycombinator.com/item?id=47535371 Points: 309 # Comments: 144",
       "source": "Hacker News",
       "published": "2026-03-26T20:35:04+00:00",
       "link": "https://www.theguardian.com/technology/2026/mar/26/new-york-hospitals-palantir-ai"
@@ -395,7 +451,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI users whose lives were wrecked by delusion",
-      "summary": "Article URL: https://www.theguardian.com/lifeandstyle/2026/mar/26/ai-chatbot-users-lives-wrecked-by-delusion Comments URL: https://news.ycombinator.com/item?id=47530264 Points: 216 # Comments: 275",
+      "summary": "Article URL: https://www.theguardian.com/lifeandstyle/2026/mar/26/ai-chatbot-users-lives-wrecked-by-delusion Comments URL: https://news.ycombinator.com/item?id=47530264 Points: 217 # Comments: 275",
       "source": "Hacker News",
       "published": "2026-03-26T13:32:23+00:00",
       "link": "https://www.theguardian.com/lifeandstyle/2026/mar/26/ai-chatbot-users-lives-wrecked-by-delusion"
@@ -703,7 +759,7 @@ const FEED_DATA = {
     },
     {
       "title": "Ensu – Ente’s Local LLM app",
-      "summary": "Article URL: https://ente.com/blog/ensu/ Comments URL: https://news.ycombinator.com/item?id=47516650 Points: 360 # Comments: 171",
+      "summary": "Article URL: https://ente.com/blog/ensu/ Comments URL: https://news.ycombinator.com/item?id=47516650 Points: 360 # Comments: 172",
       "source": "Hacker News",
       "published": "2026-03-25T12:49:14+00:00",
       "link": "https://ente.com/blog/ensu/"
@@ -1344,62 +1400,6 @@ const FEED_DATA = {
       "source": "Wired",
       "published": "2026-03-23T09:00:00+00:00",
       "link": "https://www.wired.com/story/europe-squeeze-power-energy-grid-ai-data-center/"
-    },
-    {
-      "title": "The Bay Area’s animal welfare movement wants to recruit AI",
-      "summary": "In early February, animal welfare advocates and AI researchers gathered in stocking feet at Mox, a scrappy, shoes-free coworking space in San Francisco. Yellow and red canopies billowed overhead, Persian rugs blanketed the floor, and mosaic lamps glowed beside potted plants.",
-      "source": "MIT Tech Review",
-      "published": "2026-03-23T09:00:00+00:00",
-      "link": "https://www.technologyreview.com/2026/03/23/1134491/the-bay-areas-animal-welfare-movement-wants-to-recruit-ai/"
-    },
-    {
-      "title": "White-collar AI apocalypse narrative is just another bullshit",
-      "summary": "Article URL: https://martynasm.com/2026/03/22/white-collar-ai-apocalypse-narrative-is-just-another-bullshit/ Comments URL: https://news.ycombinator.com/item?id=47486644 Points: 59 # Comments: 104",
-      "source": "Hacker News",
-      "published": "2026-03-23T08:16:34+00:00",
-      "link": "https://martynasm.com/2026/03/22/white-collar-ai-apocalypse-narrative-is-just-another-bullshit/"
-    },
-    {
-      "title": "AI influencer awards season is upon us",
-      "summary": "First came the AI beauty pageant. Then the AI music contests.",
-      "source": "The Verge",
-      "published": "2026-03-23T00:01:00+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/898781/ai-personality-of-the-year-influencer-contest"
-    },
-    {
-      "title": "Diverse perspectives on AI from Rust contributors and maintainers",
-      "summary": "Article URL: https://nikomatsakis.github.io/rust-project-perspectives-on-ai/feb27-summary.html Comments URL: https://news.ycombinator.com/item?id=47482825 Points: 160 # Comments: 82",
-      "source": "Hacker News",
-      "published": "2026-03-22T22:19:03+00:00",
-      "link": "https://nikomatsakis.github.io/rust-project-perspectives-on-ai/feb27-summary.html"
-    },
-    {
-      "title": "Do you want to build a robot snowman?",
-      "summary": "On the latest episode of the Equity podcast, we recapped CEO Jensen Huang’s GTC keynote and debated what it means for Nvidia’s future.",
-      "source": "TechCrunch",
-      "published": "2026-03-22T19:45:07+00:00",
-      "link": "https://techcrunch.com/2026/03/22/do-you-want-to-build-a-robot-snowman/"
-    },
-    {
-      "title": "Cursor admits its new coding model was built on top of Moonshot AI’s Kimi",
-      "summary": "Building on top of a Chinese model feels particularly fraught right now.",
-      "source": "TechCrunch",
-      "published": "2026-03-22T18:41:09+00:00",
-      "link": "https://techcrunch.com/2026/03/22/cursor-admits-its-new-coding-model-was-built-on-top-of-moonshot-ais-kimi/"
-    },
-    {
-      "title": "What young workers are doing to AI-proof themselves",
-      "summary": "Article URL: https://www.wsj.com/economy/jobs/ai-jobs-young-people-careers-14282284 Comments URL: https://news.ycombinator.com/item?id=47480447 Points: 225 # Comments: 396",
-      "source": "Hacker News",
-      "published": "2026-03-22T18:18:01+00:00",
-      "link": "https://www.wsj.com/economy/jobs/ai-jobs-young-people-careers-14282284"
-    },
-    {
-      "title": "Crimson Desert dev apologizes for use of AI art",
-      "summary": "Reviews of Crimson Desert have been mixed, but the bigger issue for the game has been the discovery of what appeared to be AI-generated assets in the final release.",
-      "source": "The Verge",
-      "published": "2026-03-22T17:34:34+00:00",
-      "link": "https://www.theverge.com/games/898771/crimson-desert-dev-apologizes-ai-art"
     }
   ]
 };
