@@ -1,12 +1,40 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-03-29T14:57:08.240741+00:00",
+  "lastUpdated": "2026-03-29T18:03:07.325195+00:00",
   "items": [
+    {
+      "title": "Sora’s shutdown could be a reality check moment for AI video",
+      "summary": "Is this just normal corporate strategy, or are we about to see a broader pullback on AI-generated video?",
+      "source": "TechCrunch",
+      "published": "2026-03-29T16:30:00+00:00",
+      "link": "https://techcrunch.com/2026/03/29/soras-shutdown-could-be-a-reality-check-moment-for-ai-video/"
+    },
+    {
+      "title": "OpenAI's Sam Altman and Science VP Kevin Weil hype AI-assisted dog cancer story ignoring there's no proof the vaccine worked",
+      "summary": "An Australian AI consultant used ChatGPT, AlphaFold, and Grok to find a possible treatment for his dog Rosie's incurable cancer.",
+      "source": "The Decoder",
+      "published": "2026-03-29T15:35:53+00:00",
+      "link": "https://the-decoder.com/openais-sam-altman-and-science-vp-kevin-weil-hype-ai-assisted-dog-cancer-story-ignoring-theres-no-proof-the-vaccine-worked/"
+    },
+    {
+      "title": "Eli Lilly signs $2.75 billion deal with AI drug developer Insilico Medicine",
+      "summary": "US pharmaceutical giant Eli Lilly is betting big on AI-driven drug development, signing a $2.75 billion deal with Hong Kong-listed Insilico Medicine. The article Eli Lilly signs $2.75 billion deal with AI drug developer Insilico Medicine appeared first on The Decoder.",
+      "source": "The Decoder",
+      "published": "2026-03-29T15:10:06+00:00",
+      "link": "https://the-decoder.com/eli-lilly-signs-2-75-billion-deal-with-ai-drug-developer-insilico-medicine/"
+    },
     {
       "title": "MetaClaw framework trains AI agents while you're in meetings by checking your Google Calendar",
       "summary": "Researchers from four US universities have built a framework that improves AI agents during operation. It checks the user's Google calendar to figure out when to train.",
       "source": "The Decoder",
       "published": "2026-03-29T14:45:27+00:00",
       "link": "https://the-decoder.com/metaclaw-framework-trains-ai-agents-while-youre-in-meetings-by-checking-your-google-calendar/"
+    },
+    {
+      "title": "Police used AI facial recognition to wrongly arrest TN woman for crimes in ND",
+      "summary": "Article URL: https://www.cnn.com/2026/03/29/us/angela-lipps-ai-facial-recognition Comments URL: https://news.ycombinator.com/item?id=47563384 Points: 156 # Comments: 64",
+      "source": "Hacker News",
+      "published": "2026-03-29T14:20:23+00:00",
+      "link": "https://www.cnn.com/2026/03/29/us/angela-lipps-ai-facial-recognition"
     },
     {
       "title": "AI sycophancy makes people less likely to apologize and more likely to double down, study finds",
@@ -17,14 +45,14 @@ const FEED_DATA = {
     },
     {
       "title": "Miasma: A tool to trap AI web scrapers in an endless poison pit",
-      "summary": "Article URL: https://github.com/austin-weeks/miasma Comments URL: https://news.ycombinator.com/item?id=47561819 Points: 120 # Comments: 66",
+      "summary": "Article URL: https://github.com/austin-weeks/miasma Comments URL: https://news.ycombinator.com/item?id=47561819 Points: 204 # Comments: 160",
       "source": "Hacker News",
       "published": "2026-03-29T10:10:12+00:00",
       "link": "https://github.com/austin-weeks/miasma"
     },
     {
       "title": "What if AI doesn't need more RAM but better math?",
-      "summary": "Article URL: https://adlrocha.substack.com/p/adlrocha-what-if-ai-doesnt-need-more Comments URL: https://news.ycombinator.com/item?id=47561297 Points: 106 # Comments: 61",
+      "summary": "Article URL: https://adlrocha.substack.com/p/adlrocha-what-if-ai-doesnt-need-more Comments URL: https://news.ycombinator.com/item?id=47561297 Points: 146 # Comments: 80",
       "source": "Hacker News",
       "published": "2026-03-29T08:18:55+00:00",
       "link": "https://adlrocha.substack.com/p/adlrocha-what-if-ai-doesnt-need-more"
@@ -35,6 +63,13 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-03-29T06:46:57+00:00",
       "link": "https://the-decoder.com/navers-seoul-world-model-uses-actual-street-view-data-to-stop-ai-from-hallucinating-entire-cities/"
+    },
+    {
+      "title": "Will the AI data centre boom become a $9T bust?",
+      "summary": "Article URL: https://www.ft.com/content/805f78f3-8da3-4fc0-b860-207a859ac723 Comments URL: https://news.ycombinator.com/item?id=47559948 Points: 51 # Comments: 66",
+      "source": "Hacker News",
+      "published": "2026-03-29T02:35:59+00:00",
+      "link": "https://www.ft.com/content/805f78f3-8da3-4fc0-b860-207a859ac723"
     },
     {
       "title": "Bluesky leans into AI with Attie, an app for building custom feeds",
@@ -52,7 +87,7 @@ const FEED_DATA = {
     },
     {
       "title": "The first 40 months of the AI era",
-      "summary": "Article URL: https://lzon.ca/posts/other/thoughts-ai-era/ Comments URL: https://news.ycombinator.com/item?id=47557185 Points: 196 # Comments: 123",
+      "summary": "Article URL: https://lzon.ca/posts/other/thoughts-ai-era/ Comments URL: https://news.ycombinator.com/item?id=47557185 Points: 205 # Comments: 132",
       "source": "Hacker News",
       "published": "2026-03-28T18:42:08+00:00",
       "link": "https://lzon.ca/posts/other/thoughts-ai-era/"
@@ -73,7 +108,7 @@ const FEED_DATA = {
     },
     {
       "title": "Wikipedia bans AI-generated content in its online encyclopedia",
-      "summary": "Article URL: https://www.theguardian.com/technology/2026/mar/27/wikipedia-bans-ai Comments URL: https://news.ycombinator.com/item?id=47556116 Points: 96 # Comments: 20",
+      "summary": "Article URL: https://www.theguardian.com/technology/2026/mar/27/wikipedia-bans-ai Comments URL: https://news.ycombinator.com/item?id=47556116 Points: 96 # Comments: 21",
       "source": "Hacker News",
       "published": "2026-03-28T16:34:04+00:00",
       "link": "https://www.theguardian.com/technology/2026/mar/27/wikipedia-bans-ai"
@@ -94,7 +129,7 @@ const FEED_DATA = {
     },
     {
       "title": "Folk are getting dangerously attached to AI that always tells them they're right",
-      "summary": "Article URL: https://www.theregister.com/2026/03/27/sycophantic_ai_risks/ Comments URL: https://news.ycombinator.com/item?id=47555090 Points: 274 # Comments: 215",
+      "summary": "Article URL: https://www.theregister.com/2026/03/27/sycophantic_ai_risks/ Comments URL: https://news.ycombinator.com/item?id=47555090 Points: 276 # Comments: 216",
       "source": "Hacker News",
       "published": "2026-03-28T14:49:25+00:00",
       "link": "https://www.theregister.com/2026/03/27/sycophantic_ai_risks/"
@@ -122,7 +157,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI overly affirms users asking for personal advice",
-      "summary": "https://arxiv.org/abs/2602.14270https://www.science.org/doi/10.1126/science.aec8352 Comments URL: https://news.ycombinator.com/item?id=47554773 Points: 704 # Comments: 557",
+      "summary": "https://arxiv.org/abs/2602.14270https://www.science.org/doi/10.1126/science.aec8352 Comments URL: https://news.ycombinator.com/item?id=47554773 Points: 742 # Comments: 581",
       "source": "Hacker News",
       "published": "2026-03-28T14:08:33+00:00",
       "link": "https://news.stanford.edu/stories/2026/03/ai-advice-sycophantic-models-research"
@@ -171,14 +206,14 @@ const FEED_DATA = {
     },
     {
       "title": "Adults Lose Skills to AI. Children Never Build Them",
-      "summary": "Article URL: https://www.psychologytoday.com/us/blog/the-algorithmic-mind/202603/adults-lose-skills-to-ai-children-never-build-them Comments URL: https://news.ycombinator.com/item?id=47552617 Points: 92 # Comments: 85",
+      "summary": "Article URL: https://www.psychologytoday.com/us/blog/the-algorithmic-mind/202603/adults-lose-skills-to-ai-children-never-build-them Comments URL: https://news.ycombinator.com/item?id=47552617 Points: 93 # Comments: 86",
       "source": "Hacker News",
       "published": "2026-03-28T08:17:52+00:00",
       "link": "https://www.psychologytoday.com/us/blog/the-algorithmic-mind/202603/adults-lose-skills-to-ai-children-never-build-them"
     },
     {
       "title": "CERN uses ultra-compact AI models on FPGAs for real-time LHC data filtering",
-      "summary": "Article URL: https://theopenreader.org/Journalism:CERN_Uses_Tiny_AI_Models_Burned_into_Silicon_for_Real-Time_LHC_Data_Filtering Comments URL: https://news.ycombinator.com/item?id=47552562 Points: 318 # Comments: 144",
+      "summary": "Article URL: https://theopenreader.org/Journalism:CERN_Uses_Tiny_AI_Models_Burned_into_Silicon_for_Real-Time_LHC_Data_Filtering Comments URL: https://news.ycombinator.com/item?id=47552562 Points: 318 # Comments: 146",
       "source": "Hacker News",
       "published": "2026-03-28T08:06:19+00:00",
       "link": "https://theopenreader.org/Journalism:CERN_Uses_Tiny_AI_Models_Burned_into_Silicon_for_Real-Time_LHC_Data_Filtering"
@@ -192,7 +227,7 @@ const FEED_DATA = {
     },
     {
       "title": "Why are executives enamored with AI, but ICs aren't?",
-      "summary": "Article URL: https://johnjwang.com/post/2026/03/27/why-are-executives-enabled-with-ai-but-ics-arent/ Comments URL: https://news.ycombinator.com/item?id=47549649 Points: 92 # Comments: 161",
+      "summary": "Article URL: https://johnjwang.com/post/2026/03/27/why-are-executives-enabled-with-ai-but-ics-arent/ Comments URL: https://news.ycombinator.com/item?id=47549649 Points: 97 # Comments: 163",
       "source": "Hacker News",
       "published": "2026-03-27T23:19:18+00:00",
       "link": "https://johnjwang.com/post/2026/03/27/why-are-executives-enabled-with-ai-but-ics-arent/"
@@ -276,7 +311,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI got the blame for the Iran school bombing. The truth is more worrying",
-      "summary": "Article URL: https://www.theguardian.com/news/2026/mar/26/ai-got-the-blame-for-the-iran-school-bombing-the-truth-is-far-more-worrying Comments URL: https://news.ycombinator.com/item?id=47544980 Points: 403 # Comments: 374",
+      "summary": "Article URL: https://www.theguardian.com/news/2026/mar/26/ai-got-the-blame-for-the-iran-school-bombing-the-truth-is-far-more-worrying Comments URL: https://news.ycombinator.com/item?id=47544980 Points: 403 # Comments: 375",
       "source": "Hacker News",
       "published": "2026-03-27T16:39:32+00:00",
       "link": "https://www.theguardian.com/news/2026/mar/26/ai-got-the-blame-for-the-iran-school-bombing-the-truth-is-far-more-worrying"
@@ -430,7 +465,7 @@ const FEED_DATA = {
     },
     {
       "title": "We rewrote JSONata with AI in a day, saved $500k/year",
-      "summary": "Article URL: https://www.reco.ai/blog/we-rewrote-jsonata-with-ai Comments URL: https://news.ycombinator.com/item?id=47536712 Points: 269 # Comments: 251",
+      "summary": "Article URL: https://www.reco.ai/blog/we-rewrote-jsonata-with-ai Comments URL: https://news.ycombinator.com/item?id=47536712 Points: 270 # Comments: 253",
       "source": "Hacker News",
       "published": "2026-03-26T22:36:41+00:00",
       "link": "https://www.reco.ai/blog/we-rewrote-jsonata-with-ai"
@@ -1365,41 +1400,6 @@ const FEED_DATA = {
       "source": "The Verge",
       "published": "2026-03-23T19:49:11+00:00",
       "link": "https://www.theverge.com/tech/898992/google-pixel-10-ads-moving-on-stalker-lying-beach-view-100-zoom"
-    },
-    {
-      "title": "Nvidia CEO Jensen Huang says ‘I think we’ve achieved AGI’",
-      "summary": "On a Monday episode of the Lex Fridman podcast, Nvidia CEO Jensen Huang made a hot-button statement: \"I think we've achieved AGI.\" AGI, or artificial general intelligence, is a vaguely defined term that has incited a lot of discussion by tech CEOs, tech workers, and the general...",
-      "source": "The Verge",
-      "published": "2026-03-23T19:42:33+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/899086/jensen-huang-nvidia-agi"
-    },
-    {
-      "title": "Meta acqui-hires Dreamer's entire team to bolster its lagging AI agent ambitions",
-      "summary": "The AI startup Dreamer is joining Meta Superintelligence Labs with its entire team, bringing co-founder Hugo Barra—a former Meta VP—back into Mark Zuckerberg's orbit.",
-      "source": "The Decoder",
-      "published": "2026-03-23T19:28:25+00:00",
-      "link": "https://the-decoder.com/meta-acqui-hires-dreamers-entire-team-to-bolster-its-lagging-ai-agent-ambitions/"
-    },
-    {
-      "title": "Luma AI's Uni-1 could be the first real challenger to Google's Nano Banana image dominance",
-      "summary": "Luma AI takes on OpenAI and Google with Uni-1, a model that combines image understanding and generation in a single architecture and reasons through prompts as it creates.",
-      "source": "The Decoder",
-      "published": "2026-03-23T18:53:52+00:00",
-      "link": "https://the-decoder.com/luma-ais-uni-1-could-be-the-first-real-challenger-to-googles-nano-banana-image-dominance/"
-    },
-    {
-      "title": "Vibe-coding startup Lovable is on the hunt for acquisitions",
-      "summary": "Lovable's founder said the fast-growing vibe-coding startup is looking for startups and teams to join its company.",
-      "source": "TechCrunch",
-      "published": "2026-03-23T18:22:04+00:00",
-      "link": "https://techcrunch.com/2026/03/23/vibe-coding-startup-lovable-is-on-the-hunt-for-acquisitions/"
-    },
-    {
-      "title": "Designing AI for Disruptive Science",
-      "summary": "Article URL: https://www.asimov.press/p/ai-science Comments URL: https://news.ycombinator.com/item?id=47493194 Points: 77 # Comments: 45",
-      "source": "Hacker News",
-      "published": "2026-03-23T18:19:05+00:00",
-      "link": "https://www.asimov.press/p/ai-science"
     }
   ]
 };
