@@ -1,12 +1,26 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-03-30T16:14:57.185509+00:00",
+  "lastUpdated": "2026-03-30T19:59:42.264529+00:00",
   "items": [
+    {
+      "title": "Insiders liken AI to \"the Ozempic of the music industry\" as hitmakers reportedly hide their generator use",
+      "summary": "The use of AI generators in professional music production is growing fast, but the industry would rather not talk about it.",
+      "source": "The Decoder",
+      "published": "2026-03-30T19:14:03+00:00",
+      "link": "https://the-decoder.com/insiders-liken-ai-to-the-ozempic-of-the-music-industry-as-hitmakers-reportedly-hide-their-generator-use/"
+    },
     {
       "title": "Microsoft rolls out Copilot Cowork more broadly and lets AI models check each other's work",
       "summary": "With \"Cowork,\" Microsoft 365 Copilot is getting an AI assistant that handles entire workflows on its own. A new research tool also lets multiple AI models check each other's work.",
       "source": "The Decoder",
       "published": "2026-03-30T16:07:14+00:00",
       "link": "https://the-decoder.com/microsoft-rolls-out-copilot-cowork-more-broadly-and-lets-ai-models-check-each-others-work/"
+    },
+    {
+      "title": "There are more AI health tools than ever—but how well do they work?",
+      "summary": "Earlier this month, Microsoft launched Copilot Health, a new space within its Copilot app where users will be able to connect their medical records and ask specific questions about their health.",
+      "source": "MIT Tech Review",
+      "published": "2026-03-30T16:00:00+00:00",
+      "link": "https://www.technologyreview.com/2026/03/30/1134795/there-are-more-ai-health-tools-than-ever-but-how-well-do-they-work/"
     },
     {
       "title": "Secure governance accelerates financial AI revenue growth",
@@ -21,6 +35,13 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-03-30T15:53:15+00:00",
       "link": "https://the-decoder.com/ai-models-confidently-describe-images-they-never-saw-and-benchmarks-fail-to-catch-it/"
+    },
+    {
+      "title": "The Pentagon’s culture war tactic against Anthropic has backfired",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here.",
+      "source": "MIT Tech Review",
+      "published": "2026-03-30T15:42:50+00:00",
+      "link": "https://www.technologyreview.com/2026/03/30/1134881/the-pentagons-culture-war-tactic-against-anthropic-has-backfired/"
     },
     {
       "title": "Okta’s CEO is betting big on AI agent identity",
@@ -73,7 +94,7 @@ const FEED_DATA = {
     },
     {
       "title": "How the AI Bubble Bursts",
-      "summary": "Article URL: https://martinvol.pe/blog/2026/03/30/how-the-ai-bubble-bursts/ Comments URL: https://news.ycombinator.com/item?id=47573420 Points: 301 # Comments: 355",
+      "summary": "Article URL: https://martinvol.pe/blog/2026/03/30/how-the-ai-bubble-bursts/ Comments URL: https://news.ycombinator.com/item?id=47573420 Points: 340 # Comments: 440",
       "source": "Hacker News",
       "published": "2026-03-30T12:28:36+00:00",
       "link": "https://martinvol.pe/blog/2026/03/30/how-the-ai-bubble-bursts/"
@@ -115,7 +136,7 @@ const FEED_DATA = {
     },
     {
       "title": "Mathematical methods and human thought in the age of AI",
-      "summary": "Article URL: https://arxiv.org/abs/2603.26524 Comments URL: https://news.ycombinator.com/item?id=47572771 Points: 128 # Comments: 44",
+      "summary": "Article URL: https://arxiv.org/abs/2603.26524 Comments URL: https://news.ycombinator.com/item?id=47572771 Points: 168 # Comments: 65",
       "source": "Hacker News",
       "published": "2026-03-30T11:05:37+00:00",
       "link": "https://arxiv.org/abs/2603.26524"
@@ -164,14 +185,14 @@ const FEED_DATA = {
     },
     {
       "title": "I am definitely missing the pre-AI writing era",
-      "summary": "Article URL: https://www.lesswrong.com/posts/BJ4pnropWdnzzgeJc/i-am-definitely-missing-the-pre-ai-writing-era Comments URL: https://news.ycombinator.com/item?id=47571279 Points: 73 # Comments: 71",
+      "summary": "Article URL: https://www.lesswrong.com/posts/BJ4pnropWdnzzgeJc/i-am-definitely-missing-the-pre-ai-writing-era Comments URL: https://news.ycombinator.com/item?id=47571279 Points: 183 # Comments: 157",
       "source": "Hacker News",
       "published": "2026-03-30T07:03:18+00:00",
       "link": "https://www.lesswrong.com/posts/BJ4pnropWdnzzgeJc/i-am-definitely-missing-the-pre-ai-writing-era"
     },
     {
       "title": "Why OpenAI really shut down Sora",
-      "summary": "OpenAI's decision last week to shut down Sora, its AI video-generation tool, just six months after releasing it to the public raised immediate suspicions. The app had invited users to upload their own faces — so was this some kind of elaborate data grab?",
+      "summary": "OpenAI's decision last week to shut down Sora, its AI video-generation tool, just six months after releasing it to the public, raised immediate suspicions. The app had invited users to upload their own faces — so was this some kind of elaborate data grab?",
       "source": "TechCrunch",
       "published": "2026-03-30T03:09:38+00:00",
       "link": "https://techcrunch.com/2026/03/29/why-openai-really-shut-down-sora/"
@@ -192,7 +213,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI isn't killing jobs, it's 'unbundling' them into lower-paid chunks",
-      "summary": "Article URL: https://www.theregister.com/2026/03/24/ai_job_unbundling/ Comments URL: https://news.ycombinator.com/item?id=47567183 Points: 51 # Comments: 31",
+      "summary": "Article URL: https://www.theregister.com/2026/03/24/ai_job_unbundling/ Comments URL: https://news.ycombinator.com/item?id=47567183 Points: 51 # Comments: 32",
       "source": "Hacker News",
       "published": "2026-03-29T20:51:55+00:00",
       "link": "https://www.theregister.com/2026/03/24/ai_job_unbundling/"
@@ -227,7 +248,7 @@ const FEED_DATA = {
     },
     {
       "title": "Police used AI facial recognition to wrongly arrest TN woman for crimes in ND",
-      "summary": "Article URL: https://www.cnn.com/2026/03/29/us/angela-lipps-ai-facial-recognition Comments URL: https://news.ycombinator.com/item?id=47563384 Points: 416 # Comments: 184",
+      "summary": "Article URL: https://www.cnn.com/2026/03/29/us/angela-lipps-ai-facial-recognition Comments URL: https://news.ycombinator.com/item?id=47563384 Points: 428 # Comments: 191",
       "source": "Hacker News",
       "published": "2026-03-29T14:20:23+00:00",
       "link": "https://www.cnn.com/2026/03/29/us/angela-lipps-ai-facial-recognition"
@@ -241,14 +262,14 @@ const FEED_DATA = {
     },
     {
       "title": "Miasma: A tool to trap AI web scrapers in an endless poison pit",
-      "summary": "Article URL: https://github.com/austin-weeks/miasma Comments URL: https://news.ycombinator.com/item?id=47561819 Points: 330 # Comments: 238",
+      "summary": "Article URL: https://github.com/austin-weeks/miasma Comments URL: https://news.ycombinator.com/item?id=47561819 Points: 336 # Comments: 243",
       "source": "Hacker News",
       "published": "2026-03-29T10:10:12+00:00",
       "link": "https://github.com/austin-weeks/miasma"
     },
     {
       "title": "What if AI doesn't need more RAM but better math?",
-      "summary": "Article URL: https://adlrocha.substack.com/p/adlrocha-what-if-ai-doesnt-need-more Comments URL: https://news.ycombinator.com/item?id=47561297 Points: 179 # Comments: 94",
+      "summary": "Article URL: https://adlrocha.substack.com/p/adlrocha-what-if-ai-doesnt-need-more Comments URL: https://news.ycombinator.com/item?id=47561297 Points: 183 # Comments: 98",
       "source": "Hacker News",
       "published": "2026-03-29T08:18:55+00:00",
       "link": "https://adlrocha.substack.com/p/adlrocha-what-if-ai-doesnt-need-more"
@@ -262,7 +283,7 @@ const FEED_DATA = {
     },
     {
       "title": "Will the AI data centre boom become a $9T bust?",
-      "summary": "Article URL: https://www.ft.com/content/805f78f3-8da3-4fc0-b860-207a859ac723 Comments URL: https://news.ycombinator.com/item?id=47559948 Points: 53 # Comments: 76",
+      "summary": "Article URL: https://www.ft.com/content/805f78f3-8da3-4fc0-b860-207a859ac723 Comments URL: https://news.ycombinator.com/item?id=47559948 Points: 53 # Comments: 77",
       "source": "Hacker News",
       "published": "2026-03-29T02:35:59+00:00",
       "link": "https://www.ft.com/content/805f78f3-8da3-4fc0-b860-207a859ac723"
@@ -283,7 +304,7 @@ const FEED_DATA = {
     },
     {
       "title": "The first 40 months of the AI era",
-      "summary": "Article URL: https://lzon.ca/posts/other/thoughts-ai-era/ Comments URL: https://news.ycombinator.com/item?id=47557185 Points: 213 # Comments: 145",
+      "summary": "Article URL: https://lzon.ca/posts/other/thoughts-ai-era/ Comments URL: https://news.ycombinator.com/item?id=47557185 Points: 213 # Comments: 144",
       "source": "Hacker News",
       "published": "2026-03-28T18:42:08+00:00",
       "link": "https://lzon.ca/posts/other/thoughts-ai-era/"
@@ -325,7 +346,7 @@ const FEED_DATA = {
     },
     {
       "title": "Folk are getting dangerously attached to AI that always tells them they're right",
-      "summary": "Article URL: https://www.theregister.com/2026/03/27/sycophantic_ai_risks/ Comments URL: https://news.ycombinator.com/item?id=47555090 Points: 285 # Comments: 223",
+      "summary": "Article URL: https://www.theregister.com/2026/03/27/sycophantic_ai_risks/ Comments URL: https://news.ycombinator.com/item?id=47555090 Points: 285 # Comments: 224",
       "source": "Hacker News",
       "published": "2026-03-28T14:49:25+00:00",
       "link": "https://www.theregister.com/2026/03/27/sycophantic_ai_risks/"
@@ -353,7 +374,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI overly affirms users asking for personal advice",
-      "summary": "https://arxiv.org/abs/2602.14270https://www.science.org/doi/10.1126/science.aec8352 Comments URL: https://news.ycombinator.com/item?id=47554773 Points: 779 # Comments: 608",
+      "summary": "https://arxiv.org/abs/2602.14270https://www.science.org/doi/10.1126/science.aec8352 Comments URL: https://news.ycombinator.com/item?id=47554773 Points: 780 # Comments: 607",
       "source": "Hacker News",
       "published": "2026-03-28T14:08:33+00:00",
       "link": "https://news.stanford.edu/stories/2026/03/ai-advice-sycophantic-models-research"
@@ -409,7 +430,7 @@ const FEED_DATA = {
     },
     {
       "title": "CERN uses ultra-compact AI models on FPGAs for real-time LHC data filtering",
-      "summary": "Article URL: https://theopenreader.org/Journalism:CERN_Uses_Tiny_AI_Models_Burned_into_Silicon_for_Real-Time_LHC_Data_Filtering Comments URL: https://news.ycombinator.com/item?id=47552562 Points: 325 # Comments: 146",
+      "summary": "Article URL: https://theopenreader.org/Journalism:CERN_Uses_Tiny_AI_Models_Burned_into_Silicon_for_Real-Time_LHC_Data_Filtering Comments URL: https://news.ycombinator.com/item?id=47552562 Points: 327 # Comments: 147",
       "source": "Hacker News",
       "published": "2026-03-28T08:06:19+00:00",
       "link": "https://theopenreader.org/Journalism:CERN_Uses_Tiny_AI_Models_Burned_into_Silicon_for_Real-Time_LHC_Data_Filtering"
@@ -423,7 +444,7 @@ const FEED_DATA = {
     },
     {
       "title": "Why are executives enamored with AI, but ICs aren't?",
-      "summary": "Article URL: https://johnjwang.com/post/2026/03/27/why-are-executives-enabled-with-ai-but-ics-arent/ Comments URL: https://news.ycombinator.com/item?id=47549649 Points: 106 # Comments: 168",
+      "summary": "Article URL: https://johnjwang.com/post/2026/03/27/why-are-executives-enabled-with-ai-but-ics-arent/ Comments URL: https://news.ycombinator.com/item?id=47549649 Points: 107 # Comments: 168",
       "source": "Hacker News",
       "published": "2026-03-27T23:19:18+00:00",
       "link": "https://johnjwang.com/post/2026/03/27/why-are-executives-enabled-with-ai-but-ics-arent/"
@@ -1379,27 +1400,6 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-03-24T17:22:33+00:00",
       "link": "https://the-decoder.com/chatgpt-is-turning-into-a-shopping-platform-with-product-images-prices-and-comparisons-but-no-checkout/"
-    },
-    {
-      "title": "Doss raises $55M for AI inventory management that plugs into ERP",
-      "summary": "Doss's AI-powered inventory management system integrates with existing ERP systems. The Series B round was co-led by Madrona and Premji Invest.",
-      "source": "TechCrunch",
-      "published": "2026-03-24T17:18:29+00:00",
-      "link": "https://techcrunch.com/2026/03/24/doss-raises-55m-for-ai-inventory-management-that-plugs-into-erp/"
-    },
-    {
-      "title": "ChatGPT and Gemini are fighting to be the AI bot that sells you stuff",
-      "summary": "The AI-powered shopping rivalry is heating up as Google and OpenAI launch new features to help you buy things while interacting with their chatbots.",
-      "source": "The Verge",
-      "published": "2026-03-24T17:13:00+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/899677/openai-google-gemini-ai-shopping-features"
-    },
-    {
-      "title": "Automating complex finance workflows with multimodal AI",
-      "summary": "Finance leaders are automating their complex workflows by actively adopting powerful new multimodal AI frameworks. Extracting text from unstructured documents presents a frequent headache for developers.",
-      "source": "AI News",
-      "published": "2026-03-24T17:03:48+00:00",
-      "link": "https://www.artificialintelligence-news.com/news/automating-complex-finance-workflows-with-multimodal-ai/"
     }
   ]
 };
