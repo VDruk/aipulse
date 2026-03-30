@@ -1,6 +1,62 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-03-30T09:58:40.831498+00:00",
+  "lastUpdated": "2026-03-30T12:03:52.030935+00:00",
   "items": [
+    {
+      "title": "How AEO vs GEO reshapes AI-driven brand discovery in 2026",
+      "summary": "When Pew Research Centre analysed 68,879 Google searches in March 2025, one finding stood out: users who encountered an AI-generated summary clicked on a traditional result just 8% of the time. Those who didn’t see a summary clicked nearly twice as often, at 15%.",
+      "source": "AI News",
+      "published": "2026-03-30T11:57:11+00:00",
+      "link": "https://www.artificialintelligence-news.com/news/how-aeo-vs-geo-reshapes-ai-driven-brand-discovery-in-2026/"
+    },
+    {
+      "title": "Assessing AI powered price forecasting tools in currency markets",
+      "summary": "As artificial intelligence becomes a driving force in financial prediction, the reliability of its forecasting tools faces increasing scrutiny. Many traders question whether claims of high accuracy translate into consistent results under live market conditions.",
+      "source": "AI News",
+      "published": "2026-03-30T11:49:38+00:00",
+      "link": "https://www.artificialintelligence-news.com/news/assessing-ai-powered-price-forecasting-tools-in-currency-markets/"
+    },
+    {
+      "title": "OpenAI's Sora burned a million dollars a day while losing half its users in record time",
+      "summary": "OpenAI is shutting down Sora after the video app burned through about a million dollars a day in compute, quickly lost half its users, and turned from a prestige project into a liability.",
+      "source": "The Decoder",
+      "published": "2026-03-30T11:41:04+00:00",
+      "link": "https://the-decoder.com/openais-sora-burned-a-million-dollars-a-day-while-losing-half-its-users-in-record-time/"
+    },
+    {
+      "title": "AI-generated dating show pulls 10 million views per episode on TikTok",
+      "summary": "AI-generated dating show \"Fruit Love Island\" averages over 10 million views per episode on TikTok. The article AI-generated dating show pulls 10 million views per episode on TikTok appeared first on The Decoder.",
+      "source": "The Decoder",
+      "published": "2026-03-30T11:27:43+00:00",
+      "link": "https://the-decoder.com/ai-generated-dating-show-pulls-10-million-views-per-episode-on-tiktok/"
+    },
+    {
+      "title": "Kong names Bruce Felt as chief financial officer",
+      "summary": "A developer of API and AI connectivity technologies, Kong, has announced that Bruce Felt has joined it as CFO.",
+      "source": "AI News",
+      "published": "2026-03-30T11:02:00+00:00",
+      "link": "https://www.artificialintelligence-news.com/news/kong-names-bruce-felt-as-chief-financial-officer/"
+    },
+    {
+      "title": "Starcloud raises $170 million Series Ato build data centers in space",
+      "summary": "Starcloud becomes the fastest Y Combinator startup to reach unicorn status, just 17 months after demo day.",
+      "source": "TechCrunch",
+      "published": "2026-03-30T11:00:00+00:00",
+      "link": "https://techcrunch.com/2026/03/30/starcloud-raises-170-million-series-ato-build-data-centers-in-space/"
+    },
+    {
+      "title": "Mistral AI borrows 830 million dollars to operate a new data center near Paris",
+      "summary": "Mistral AI is borrowing 830 million dollars to build a data center near Paris with nearly 14,000 NVIDIA GPUs. The banks are on board, but the risk is significant for a startup that likely isn't profitable yet.",
+      "source": "The Decoder",
+      "published": "2026-03-30T10:26:02+00:00",
+      "link": "https://the-decoder.com/mistral-ai-borrows-830-million-dollars-to-operate-a-new-data-center-near-paris/"
+    },
+    {
+      "title": "JPMorgan begins tracking how employees use AI at work",
+      "summary": "Banking house JPMorgan Chase is asking its roughly 65,000 engineers and technologists to use AI tools as part of their regular workflow. Business Insider reported that managers are tracking how often staff use these tools.",
+      "source": "AI News",
+      "published": "2026-03-30T10:00:00+00:00",
+      "link": "https://www.artificialintelligence-news.com/news/jpmorgan-begins-tracking-how-employees-use-ai-at-work/"
+    },
     {
       "title": "Inside the stealthy startup that pitched brainless human clones",
       "summary": "After operating in secrecy for years, a startup company called R3 Bio, in Richmond, California, suddenly shared details about its work last week—saying it had raised money to create nonsentient monkey “organ sacks” as an alternative to animal testing.",
@@ -10,7 +66,7 @@ const FEED_DATA = {
     },
     {
       "title": "I am definitely missing the pre-AI writing era",
-      "summary": "Article URL: https://www.lesswrong.com/posts/BJ4pnropWdnzzgeJc/i-am-definitely-missing-the-pre-ai-writing-era Comments URL: https://news.ycombinator.com/item?id=47571279 Points: 55 # Comments: 29",
+      "summary": "Article URL: https://www.lesswrong.com/posts/BJ4pnropWdnzzgeJc/i-am-definitely-missing-the-pre-ai-writing-era Comments URL: https://news.ycombinator.com/item?id=47571279 Points: 67 # Comments: 56",
       "source": "Hacker News",
       "published": "2026-03-30T07:03:18+00:00",
       "link": "https://www.lesswrong.com/posts/BJ4pnropWdnzzgeJc/i-am-definitely-missing-the-pre-ai-writing-era"
@@ -66,7 +122,7 @@ const FEED_DATA = {
     },
     {
       "title": "Police used AI facial recognition to wrongly arrest TN woman for crimes in ND",
-      "summary": "Article URL: https://www.cnn.com/2026/03/29/us/angela-lipps-ai-facial-recognition Comments URL: https://news.ycombinator.com/item?id=47563384 Points: 393 # Comments: 169",
+      "summary": "Article URL: https://www.cnn.com/2026/03/29/us/angela-lipps-ai-facial-recognition Comments URL: https://news.ycombinator.com/item?id=47563384 Points: 403 # Comments: 176",
       "source": "Hacker News",
       "published": "2026-03-29T14:20:23+00:00",
       "link": "https://www.cnn.com/2026/03/29/us/angela-lipps-ai-facial-recognition"
@@ -80,14 +136,14 @@ const FEED_DATA = {
     },
     {
       "title": "Miasma: A tool to trap AI web scrapers in an endless poison pit",
-      "summary": "Article URL: https://github.com/austin-weeks/miasma Comments URL: https://news.ycombinator.com/item?id=47561819 Points: 318 # Comments: 228",
+      "summary": "Article URL: https://github.com/austin-weeks/miasma Comments URL: https://news.ycombinator.com/item?id=47561819 Points: 323 # Comments: 232",
       "source": "Hacker News",
       "published": "2026-03-29T10:10:12+00:00",
       "link": "https://github.com/austin-weeks/miasma"
     },
     {
       "title": "What if AI doesn't need more RAM but better math?",
-      "summary": "Article URL: https://adlrocha.substack.com/p/adlrocha-what-if-ai-doesnt-need-more Comments URL: https://news.ycombinator.com/item?id=47561297 Points: 175 # Comments: 92",
+      "summary": "Article URL: https://adlrocha.substack.com/p/adlrocha-what-if-ai-doesnt-need-more Comments URL: https://news.ycombinator.com/item?id=47561297 Points: 176 # Comments: 92",
       "source": "Hacker News",
       "published": "2026-03-29T08:18:55+00:00",
       "link": "https://adlrocha.substack.com/p/adlrocha-what-if-ai-doesnt-need-more"
@@ -122,7 +178,7 @@ const FEED_DATA = {
     },
     {
       "title": "The first 40 months of the AI era",
-      "summary": "Article URL: https://lzon.ca/posts/other/thoughts-ai-era/ Comments URL: https://news.ycombinator.com/item?id=47557185 Points: 212 # Comments: 141",
+      "summary": "Article URL: https://lzon.ca/posts/other/thoughts-ai-era/ Comments URL: https://news.ycombinator.com/item?id=47557185 Points: 212 # Comments: 144",
       "source": "Hacker News",
       "published": "2026-03-28T18:42:08+00:00",
       "link": "https://lzon.ca/posts/other/thoughts-ai-era/"
@@ -164,7 +220,7 @@ const FEED_DATA = {
     },
     {
       "title": "Folk are getting dangerously attached to AI that always tells them they're right",
-      "summary": "Article URL: https://www.theregister.com/2026/03/27/sycophantic_ai_risks/ Comments URL: https://news.ycombinator.com/item?id=47555090 Points: 283 # Comments: 221",
+      "summary": "Article URL: https://www.theregister.com/2026/03/27/sycophantic_ai_risks/ Comments URL: https://news.ycombinator.com/item?id=47555090 Points: 285 # Comments: 222",
       "source": "Hacker News",
       "published": "2026-03-28T14:49:25+00:00",
       "link": "https://www.theregister.com/2026/03/27/sycophantic_ai_risks/"
@@ -192,7 +248,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI overly affirms users asking for personal advice",
-      "summary": "https://arxiv.org/abs/2602.14270https://www.science.org/doi/10.1126/science.aec8352 Comments URL: https://news.ycombinator.com/item?id=47554773 Points: 772 # Comments: 606",
+      "summary": "https://arxiv.org/abs/2602.14270https://www.science.org/doi/10.1126/science.aec8352 Comments URL: https://news.ycombinator.com/item?id=47554773 Points: 775 # Comments: 606",
       "source": "Hacker News",
       "published": "2026-03-28T14:08:33+00:00",
       "link": "https://news.stanford.edu/stories/2026/03/ai-advice-sycophantic-models-research"
@@ -1344,62 +1400,6 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-03-24T13:00:00+00:00",
       "link": "https://techcrunch.com/2026/03/24/mirage-raises-75m-to-continue-building-models-for-its-ai-video-editing-app-captions/"
-    },
-    {
-      "title": "The Download: tracing AI-fueled delusions, and OpenAI admits Microsoft risks",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The hardest question to answer about AI-fueled delusions What actually happens when people spiral into delusion with AI?",
-      "source": "MIT Tech Review",
-      "published": "2026-03-24T12:28:27+00:00",
-      "link": "https://www.technologyreview.com/2026/03/24/1134540/the-download-tracing-ai-fueled-delusions-openai-warns-microsoft-risks/"
-    },
-    {
-      "title": "Agile Robots becomes the latest robotics company to partner with Google DeepMind",
-      "summary": "Agile Robots will incorporate Google DeepMind's robotics foundation models into its bots while collecting data for the AI research lab.",
-      "source": "TechCrunch",
-      "published": "2026-03-24T12:05:00+00:00",
-      "link": "https://techcrunch.com/2026/03/24/agile-robots-becomes-the-latest-robotics-company-to-partner-with-google-deepmind/"
-    },
-    {
-      "title": "Nvidia CEO Jensen Huang: The idea that AI will destroy software is \"ridiculous\"",
-      "summary": "Jensen Huang explains why AI agents will use software rather than replace it. Nvidia has redesigned its entire rack architecture accordingly.",
-      "source": "The Decoder",
-      "published": "2026-03-24T11:38:38+00:00",
-      "link": "https://the-decoder.com/nvidia-ceo-jensen-huang-the-idea-that-ai-will-destroy-software-is-ridiculous/"
-    },
-    {
-      "title": "LLM Neuroanatomy II: Modern LLM Hacking and Hints of a Universal Language?",
-      "summary": "Article URL: https://dnhkng.github.io/posts/rys-ii/ Comments URL: https://news.ycombinator.com/item?id=47500709 Points: 145 # Comments: 38",
-      "source": "Hacker News",
-      "published": "2026-03-24T10:33:54+00:00",
-      "link": "https://dnhkng.github.io/posts/rys-ii/"
-    },
-    {
-      "title": "Chris Hayes Has Some Advice for Keeping Up With the News",
-      "summary": "The host of MS Now’s All In, knows how hard it is to stay current. But he also knows where you should focus your attention—and it starts with a sober view of AI.",
-      "source": "Wired",
-      "published": "2026-03-24T10:30:00+00:00",
-      "link": "https://www.wired.com/story/the-big-interview-podcast-chris-hayes/"
-    },
-    {
-      "title": "Anthropic lets Claude take control of your desktop when regular app integrations fall short",
-      "summary": "Anthropic has announced a new feature for its AI assistant Claude: the ability to directly operate a user's computer, handling tasks people would normally do themselves at their desk.",
-      "source": "The Decoder",
-      "published": "2026-03-24T09:56:41+00:00",
-      "link": "https://the-decoder.com/anthropic-lets-claude-take-control-of-your-desktop-when-regular-app-integrations-fall-short/"
-    },
-    {
-      "title": "Show HN: ProofShot – Give AI coding agents eyes to verify the UI they build",
-      "summary": "I use AI agents to build UI features daily. The thing that kept annoying me: the agent writes code but never sees what it actually looks like in the browser.",
-      "source": "Hacker News",
-      "published": "2026-03-24T07:46:46+00:00",
-      "link": "https://github.com/AmElmo/proofshot"
-    },
-    {
-      "title": "I created my first AI-assisted pull request",
-      "summary": "Article URL: https://nelson.cloud/i-created-my-first-ai-assisted-pull-request-and-i-feel-like-a-fraud/ Comments URL: https://news.ycombinator.com/item?id=47497679 Points: 89 # Comments: 77",
-      "source": "Hacker News",
-      "published": "2026-03-24T01:42:38+00:00",
-      "link": "https://nelson.cloud/i-created-my-first-ai-assisted-pull-request-and-i-feel-like-a-fraud/"
     }
   ]
 };
