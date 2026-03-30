@@ -1,6 +1,20 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-03-30T19:59:42.264529+00:00",
+  "lastUpdated": "2026-03-30T22:59:55.805960+00:00",
   "items": [
+    {
+      "title": "15% of Americans say they’d be willing to work for an AI boss",
+      "summary": "Your human manager may soon be a chatbot. Across organizations, AI is being used to replace layers of management in what some are calling \"The Great Flattening.\"",
+      "source": "TechCrunch",
+      "published": "2026-03-30T21:39:51+00:00",
+      "link": "https://techcrunch.com/2026/03/30/ai-boss-supervisor-us-quinnipiac-poll/"
+    },
+    {
+      "title": "As more Americans adopt AI tools, fewer say they can trust the results",
+      "summary": "AI adoption is rising in the U.S., but trust remains low, with most Americans concerned about transparency, regulation, and the technology’s broader societal impact, according to a new Quinnipiac poll.",
+      "source": "TechCrunch",
+      "published": "2026-03-30T20:24:53+00:00",
+      "link": "https://techcrunch.com/2026/03/30/ai-trust-adoption-poll-more-americans-adopt-tools-fewer-say-they-can-trust-the-results/"
+    },
     {
       "title": "Insiders liken AI to \"the Ozempic of the music industry\" as hitmakers reportedly hide their generator use",
       "summary": "The use of AI generators in professional music production is growing fast, but the industry would rather not talk about it.",
@@ -72,6 +86,13 @@ const FEED_DATA = {
       "link": "https://techcrunch.com/2026/03/30/scaleops-130m-series-c-kubernetes-efficiency-ai-demand-funding/"
     },
     {
+      "title": "The ladder is missing rungs – Engineering Progression When AI Ate the Middle",
+      "summary": "Article URL: https://negroniventurestudios.com/2026/03/19/the-ladder-is-missing-rungs/ Comments URL: https://news.ycombinator.com/item?id=47574346 Points: 63 # Comments: 16",
+      "source": "Hacker News",
+      "published": "2026-03-30T13:51:31+00:00",
+      "link": "https://negroniventurestudios.com/2026/03/19/the-ladder-is-missing-rungs/"
+    },
+    {
       "title": "AI chip startup Rebellions raises $400 million at $2.3B valuation in pre-IPO round",
       "summary": "The startup, which is planning to go public later this year, designs chips specifically for AI inference, another challenger to Nvidia's dominance.",
       "source": "TechCrunch",
@@ -94,7 +115,7 @@ const FEED_DATA = {
     },
     {
       "title": "How the AI Bubble Bursts",
-      "summary": "Article URL: https://martinvol.pe/blog/2026/03/30/how-the-ai-bubble-bursts/ Comments URL: https://news.ycombinator.com/item?id=47573420 Points: 340 # Comments: 440",
+      "summary": "Article URL: https://martinvol.pe/blog/2026/03/30/how-the-ai-bubble-bursts/ Comments URL: https://news.ycombinator.com/item?id=47573420 Points: 352 # Comments: 460",
       "source": "Hacker News",
       "published": "2026-03-30T12:28:36+00:00",
       "link": "https://martinvol.pe/blog/2026/03/30/how-the-ai-bubble-bursts/"
@@ -136,7 +157,7 @@ const FEED_DATA = {
     },
     {
       "title": "Mathematical methods and human thought in the age of AI",
-      "summary": "Article URL: https://arxiv.org/abs/2603.26524 Comments URL: https://news.ycombinator.com/item?id=47572771 Points: 168 # Comments: 65",
+      "summary": "Article URL: https://arxiv.org/abs/2603.26524 Comments URL: https://news.ycombinator.com/item?id=47572771 Points: 186 # Comments: 74",
       "source": "Hacker News",
       "published": "2026-03-30T11:05:37+00:00",
       "link": "https://arxiv.org/abs/2603.26524"
@@ -185,7 +206,7 @@ const FEED_DATA = {
     },
     {
       "title": "I am definitely missing the pre-AI writing era",
-      "summary": "Article URL: https://www.lesswrong.com/posts/BJ4pnropWdnzzgeJc/i-am-definitely-missing-the-pre-ai-writing-era Comments URL: https://news.ycombinator.com/item?id=47571279 Points: 183 # Comments: 157",
+      "summary": "Article URL: https://www.lesswrong.com/posts/BJ4pnropWdnzzgeJc/i-am-definitely-missing-the-pre-ai-writing-era Comments URL: https://news.ycombinator.com/item?id=47571279 Points: 230 # Comments: 183",
       "source": "Hacker News",
       "published": "2026-03-30T07:03:18+00:00",
       "link": "https://www.lesswrong.com/posts/BJ4pnropWdnzzgeJc/i-am-definitely-missing-the-pre-ai-writing-era"
@@ -213,7 +234,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI isn't killing jobs, it's 'unbundling' them into lower-paid chunks",
-      "summary": "Article URL: https://www.theregister.com/2026/03/24/ai_job_unbundling/ Comments URL: https://news.ycombinator.com/item?id=47567183 Points: 51 # Comments: 32",
+      "summary": "Article URL: https://www.theregister.com/2026/03/24/ai_job_unbundling/ Comments URL: https://news.ycombinator.com/item?id=47567183 Points: 52 # Comments: 32",
       "source": "Hacker News",
       "published": "2026-03-29T20:51:55+00:00",
       "link": "https://www.theregister.com/2026/03/24/ai_job_unbundling/"
@@ -248,7 +269,7 @@ const FEED_DATA = {
     },
     {
       "title": "Police used AI facial recognition to wrongly arrest TN woman for crimes in ND",
-      "summary": "Article URL: https://www.cnn.com/2026/03/29/us/angela-lipps-ai-facial-recognition Comments URL: https://news.ycombinator.com/item?id=47563384 Points: 428 # Comments: 191",
+      "summary": "Article URL: https://www.cnn.com/2026/03/29/us/angela-lipps-ai-facial-recognition Comments URL: https://news.ycombinator.com/item?id=47563384 Points: 430 # Comments: 192",
       "source": "Hacker News",
       "published": "2026-03-29T14:20:23+00:00",
       "link": "https://www.cnn.com/2026/03/29/us/angela-lipps-ai-facial-recognition"
@@ -262,14 +283,14 @@ const FEED_DATA = {
     },
     {
       "title": "Miasma: A tool to trap AI web scrapers in an endless poison pit",
-      "summary": "Article URL: https://github.com/austin-weeks/miasma Comments URL: https://news.ycombinator.com/item?id=47561819 Points: 336 # Comments: 243",
+      "summary": "Article URL: https://github.com/austin-weeks/miasma Comments URL: https://news.ycombinator.com/item?id=47561819 Points: 337 # Comments: 243",
       "source": "Hacker News",
       "published": "2026-03-29T10:10:12+00:00",
       "link": "https://github.com/austin-weeks/miasma"
     },
     {
       "title": "What if AI doesn't need more RAM but better math?",
-      "summary": "Article URL: https://adlrocha.substack.com/p/adlrocha-what-if-ai-doesnt-need-more Comments URL: https://news.ycombinator.com/item?id=47561297 Points: 183 # Comments: 98",
+      "summary": "Article URL: https://adlrocha.substack.com/p/adlrocha-what-if-ai-doesnt-need-more Comments URL: https://news.ycombinator.com/item?id=47561297 Points: 183 # Comments: 99",
       "source": "Hacker News",
       "published": "2026-03-29T08:18:55+00:00",
       "link": "https://adlrocha.substack.com/p/adlrocha-what-if-ai-doesnt-need-more"
@@ -374,7 +395,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI overly affirms users asking for personal advice",
-      "summary": "https://arxiv.org/abs/2602.14270https://www.science.org/doi/10.1126/science.aec8352 Comments URL: https://news.ycombinator.com/item?id=47554773 Points: 780 # Comments: 607",
+      "summary": "https://arxiv.org/abs/2602.14270https://www.science.org/doi/10.1126/science.aec8352 Comments URL: https://news.ycombinator.com/item?id=47554773 Points: 780 # Comments: 608",
       "source": "Hacker News",
       "published": "2026-03-28T14:08:33+00:00",
       "link": "https://news.stanford.edu/stories/2026/03/ai-advice-sycophantic-models-research"
@@ -430,7 +451,7 @@ const FEED_DATA = {
     },
     {
       "title": "CERN uses ultra-compact AI models on FPGAs for real-time LHC data filtering",
-      "summary": "Article URL: https://theopenreader.org/Journalism:CERN_Uses_Tiny_AI_Models_Burned_into_Silicon_for_Real-Time_LHC_Data_Filtering Comments URL: https://news.ycombinator.com/item?id=47552562 Points: 327 # Comments: 147",
+      "summary": "Article URL: https://theopenreader.org/Journalism:CERN_Uses_Tiny_AI_Models_Burned_into_Silicon_for_Real-Time_LHC_Data_Filtering Comments URL: https://news.ycombinator.com/item?id=47552562 Points: 327 # Comments: 146",
       "source": "Hacker News",
       "published": "2026-03-28T08:06:19+00:00",
       "link": "https://theopenreader.org/Journalism:CERN_Uses_Tiny_AI_Models_Burned_into_Silicon_for_Real-Time_LHC_Data_Filtering"
@@ -465,7 +486,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI bug reports went from junk to legit overnight, says Linux kernel czar",
-      "summary": "Article URL: https://www.theregister.com/2026/03/26/greg_kroahhartman_ai_kernel/ Comments URL: https://news.ycombinator.com/item?id=47547849 Points: 57 # Comments: 4",
+      "summary": "Article URL: https://www.theregister.com/2026/03/26/greg_kroahhartman_ai_kernel/ Comments URL: https://news.ycombinator.com/item?id=47547849 Points: 58 # Comments: 4",
       "source": "Hacker News",
       "published": "2026-03-27T20:30:35+00:00",
       "link": "https://www.theregister.com/2026/03/26/greg_kroahhartman_ai_kernel/"
@@ -514,7 +535,7 @@ const FEED_DATA = {
     },
     {
       "title": "Some uncomfortable truths about AI coding agents",
-      "summary": "Article URL: https://standupforme.app/blog/some-uncomfortable-truths-about-ai-coding-agents/ Comments URL: https://news.ycombinator.com/item?id=47545748 Points: 80 # Comments: 101",
+      "summary": "Article URL: https://standupforme.app/blog/some-uncomfortable-truths-about-ai-coding-agents/ Comments URL: https://news.ycombinator.com/item?id=47545748 Points: 80 # Comments: 102",
       "source": "Hacker News",
       "published": "2026-03-27T17:32:48+00:00",
       "link": "https://standupforme.app/blog/some-uncomfortable-truths-about-ai-coding-agents/"
@@ -1379,27 +1400,6 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-03-24T18:41:33+00:00",
       "link": "https://techcrunch.com/2026/03/24/talats-ai-meeting-notes-stay-on-your-machine-not-in-the-cloud/"
-    },
-    {
-      "title": "Exclusive eBook: Are we ready to hand AI agents the keys?",
-      "summary": "We’re starting to give AI agents real autonomy, but are we prepared for what could happen next?",
-      "source": "MIT Tech Review",
-      "published": "2026-03-24T18:17:13+00:00",
-      "link": "https://www.technologyreview.com/2026/03/24/1134531/exclusive-ebook-are-we-ready-to-hand-ai-agents-the-keys/"
-    },
-    {
-      "title": "The AI Industry Is Lying to You",
-      "summary": "Article URL: https://www.wheresyoured.at/the-ai-industry-is-lying-to-you/ Comments URL: https://news.ycombinator.com/item?id=47506259 Points: 165 # Comments: 130",
-      "source": "Hacker News",
-      "published": "2026-03-24T17:30:55+00:00",
-      "link": "https://www.wheresyoured.at/the-ai-industry-is-lying-to-you/"
-    },
-    {
-      "title": "ChatGPT is turning into a shopping platform with product images, prices, and comparisons, but no checkout",
-      "summary": "ChatGPT is getting visual shopping features that show products with images, prices, and side-by-side comparisons right in the chat. At the same time, OpenAI is dropping its own payment system and handing checkout off to retailers.",
-      "source": "The Decoder",
-      "published": "2026-03-24T17:22:33+00:00",
-      "link": "https://the-decoder.com/chatgpt-is-turning-into-a-shopping-platform-with-product-images-prices-and-comparisons-but-no-checkout/"
     }
   ]
 };
