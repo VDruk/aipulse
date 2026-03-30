@@ -1,6 +1,20 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-03-29T22:00:20.535473+00:00",
+  "lastUpdated": "2026-03-30T07:11:49.471869+00:00",
   "items": [
+    {
+      "title": "Why OpenAI really shut down Sora",
+      "summary": "OpenAI's decision last week to shut down Sora, its AI video-generation tool, just six months after releasing it to the public raised immediate suspicions. The app had invited users to upload their own faces — so was this some kind of elaborate data grab?",
+      "source": "TechCrunch",
+      "published": "2026-03-30T03:09:38+00:00",
+      "link": "https://techcrunch.com/2026/03/29/why-openai-really-shut-down-sora/"
+    },
+    {
+      "title": "All the latest in AI ‘music’",
+      "summary": "AI has touched every part of the music industry, from sample sourcing and demo recording, to serving up digital liner notes and building playlists.",
+      "source": "The Verge",
+      "published": "2026-03-30T01:32:14+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/903196/ai-music-suno-udio-art-lawsuit"
+    },
     {
       "title": "Bluesky’s new app is an AI for customizing your feed",
       "summary": "The latest app from the team behind Bluesky is Attie, an AI assistant that lets you build your own algorithm.",
@@ -38,7 +52,7 @@ const FEED_DATA = {
     },
     {
       "title": "Police used AI facial recognition to wrongly arrest TN woman for crimes in ND",
-      "summary": "Article URL: https://www.cnn.com/2026/03/29/us/angela-lipps-ai-facial-recognition Comments URL: https://news.ycombinator.com/item?id=47563384 Points: 294 # Comments: 113",
+      "summary": "Article URL: https://www.cnn.com/2026/03/29/us/angela-lipps-ai-facial-recognition Comments URL: https://news.ycombinator.com/item?id=47563384 Points: 385 # Comments: 165",
       "source": "Hacker News",
       "published": "2026-03-29T14:20:23+00:00",
       "link": "https://www.cnn.com/2026/03/29/us/angela-lipps-ai-facial-recognition"
@@ -52,14 +66,14 @@ const FEED_DATA = {
     },
     {
       "title": "Miasma: A tool to trap AI web scrapers in an endless poison pit",
-      "summary": "Article URL: https://github.com/austin-weeks/miasma Comments URL: https://news.ycombinator.com/item?id=47561819 Points: 262 # Comments: 194",
+      "summary": "Article URL: https://github.com/austin-weeks/miasma Comments URL: https://news.ycombinator.com/item?id=47561819 Points: 311 # Comments: 223",
       "source": "Hacker News",
       "published": "2026-03-29T10:10:12+00:00",
       "link": "https://github.com/austin-weeks/miasma"
     },
     {
       "title": "What if AI doesn't need more RAM but better math?",
-      "summary": "Article URL: https://adlrocha.substack.com/p/adlrocha-what-if-ai-doesnt-need-more Comments URL: https://news.ycombinator.com/item?id=47561297 Points: 157 # Comments: 87",
+      "summary": "Article URL: https://adlrocha.substack.com/p/adlrocha-what-if-ai-doesnt-need-more Comments URL: https://news.ycombinator.com/item?id=47561297 Points: 172 # Comments: 90",
       "source": "Hacker News",
       "published": "2026-03-29T08:18:55+00:00",
       "link": "https://adlrocha.substack.com/p/adlrocha-what-if-ai-doesnt-need-more"
@@ -73,7 +87,7 @@ const FEED_DATA = {
     },
     {
       "title": "Will the AI data centre boom become a $9T bust?",
-      "summary": "Article URL: https://www.ft.com/content/805f78f3-8da3-4fc0-b860-207a859ac723 Comments URL: https://news.ycombinator.com/item?id=47559948 Points: 52 # Comments: 70",
+      "summary": "Article URL: https://www.ft.com/content/805f78f3-8da3-4fc0-b860-207a859ac723 Comments URL: https://news.ycombinator.com/item?id=47559948 Points: 53 # Comments: 74",
       "source": "Hacker News",
       "published": "2026-03-29T02:35:59+00:00",
       "link": "https://www.ft.com/content/805f78f3-8da3-4fc0-b860-207a859ac723"
@@ -94,7 +108,7 @@ const FEED_DATA = {
     },
     {
       "title": "The first 40 months of the AI era",
-      "summary": "Article URL: https://lzon.ca/posts/other/thoughts-ai-era/ Comments URL: https://news.ycombinator.com/item?id=47557185 Points: 208 # Comments: 134",
+      "summary": "Article URL: https://lzon.ca/posts/other/thoughts-ai-era/ Comments URL: https://news.ycombinator.com/item?id=47557185 Points: 212 # Comments: 139",
       "source": "Hacker News",
       "published": "2026-03-28T18:42:08+00:00",
       "link": "https://lzon.ca/posts/other/thoughts-ai-era/"
@@ -115,7 +129,7 @@ const FEED_DATA = {
     },
     {
       "title": "Wikipedia bans AI-generated content in its online encyclopedia",
-      "summary": "Article URL: https://www.theguardian.com/technology/2026/mar/27/wikipedia-bans-ai Comments URL: https://news.ycombinator.com/item?id=47556116 Points: 98 # Comments: 19",
+      "summary": "Article URL: https://www.theguardian.com/technology/2026/mar/27/wikipedia-bans-ai Comments URL: https://news.ycombinator.com/item?id=47556116 Points: 100 # Comments: 19",
       "source": "Hacker News",
       "published": "2026-03-28T16:34:04+00:00",
       "link": "https://www.theguardian.com/technology/2026/mar/27/wikipedia-bans-ai"
@@ -136,7 +150,7 @@ const FEED_DATA = {
     },
     {
       "title": "Folk are getting dangerously attached to AI that always tells them they're right",
-      "summary": "Article URL: https://www.theregister.com/2026/03/27/sycophantic_ai_risks/ Comments URL: https://news.ycombinator.com/item?id=47555090 Points: 280 # Comments: 218",
+      "summary": "Article URL: https://www.theregister.com/2026/03/27/sycophantic_ai_risks/ Comments URL: https://news.ycombinator.com/item?id=47555090 Points: 283 # Comments: 221",
       "source": "Hacker News",
       "published": "2026-03-28T14:49:25+00:00",
       "link": "https://www.theregister.com/2026/03/27/sycophantic_ai_risks/"
@@ -164,7 +178,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI overly affirms users asking for personal advice",
-      "summary": "https://arxiv.org/abs/2602.14270https://www.science.org/doi/10.1126/science.aec8352 Comments URL: https://news.ycombinator.com/item?id=47554773 Points: 752 # Comments: 592",
+      "summary": "https://arxiv.org/abs/2602.14270https://www.science.org/doi/10.1126/science.aec8352 Comments URL: https://news.ycombinator.com/item?id=47554773 Points: 766 # Comments: 601",
       "source": "Hacker News",
       "published": "2026-03-28T14:08:33+00:00",
       "link": "https://news.stanford.edu/stories/2026/03/ai-advice-sycophantic-models-research"
@@ -213,14 +227,14 @@ const FEED_DATA = {
     },
     {
       "title": "Adults Lose Skills to AI. Children Never Build Them",
-      "summary": "Article URL: https://www.psychologytoday.com/us/blog/the-algorithmic-mind/202603/adults-lose-skills-to-ai-children-never-build-them Comments URL: https://news.ycombinator.com/item?id=47552617 Points: 96 # Comments: 86",
+      "summary": "Article URL: https://www.psychologytoday.com/us/blog/the-algorithmic-mind/202603/adults-lose-skills-to-ai-children-never-build-them Comments URL: https://news.ycombinator.com/item?id=47552617 Points: 97 # Comments: 87",
       "source": "Hacker News",
       "published": "2026-03-28T08:17:52+00:00",
       "link": "https://www.psychologytoday.com/us/blog/the-algorithmic-mind/202603/adults-lose-skills-to-ai-children-never-build-them"
     },
     {
       "title": "CERN uses ultra-compact AI models on FPGAs for real-time LHC data filtering",
-      "summary": "Article URL: https://theopenreader.org/Journalism:CERN_Uses_Tiny_AI_Models_Burned_into_Silicon_for_Real-Time_LHC_Data_Filtering Comments URL: https://news.ycombinator.com/item?id=47552562 Points: 323 # Comments: 146",
+      "summary": "Article URL: https://theopenreader.org/Journalism:CERN_Uses_Tiny_AI_Models_Burned_into_Silicon_for_Real-Time_LHC_Data_Filtering Comments URL: https://news.ycombinator.com/item?id=47552562 Points: 325 # Comments: 146",
       "source": "Hacker News",
       "published": "2026-03-28T08:06:19+00:00",
       "link": "https://theopenreader.org/Journalism:CERN_Uses_Tiny_AI_Models_Burned_into_Silicon_for_Real-Time_LHC_Data_Filtering"
@@ -234,7 +248,7 @@ const FEED_DATA = {
     },
     {
       "title": "Why are executives enamored with AI, but ICs aren't?",
-      "summary": "Article URL: https://johnjwang.com/post/2026/03/27/why-are-executives-enabled-with-ai-but-ics-arent/ Comments URL: https://news.ycombinator.com/item?id=47549649 Points: 102 # Comments: 167",
+      "summary": "Article URL: https://johnjwang.com/post/2026/03/27/why-are-executives-enabled-with-ai-but-ics-arent/ Comments URL: https://news.ycombinator.com/item?id=47549649 Points: 105 # Comments: 168",
       "source": "Hacker News",
       "published": "2026-03-27T23:19:18+00:00",
       "link": "https://johnjwang.com/post/2026/03/27/why-are-executives-enabled-with-ai-but-ics-arent/"
@@ -255,7 +269,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI bug reports went from junk to legit overnight, says Linux kernel czar",
-      "summary": "Article URL: https://www.theregister.com/2026/03/26/greg_kroahhartman_ai_kernel/ Comments URL: https://news.ycombinator.com/item?id=47547849 Points: 56 # Comments: 4",
+      "summary": "Article URL: https://www.theregister.com/2026/03/26/greg_kroahhartman_ai_kernel/ Comments URL: https://news.ycombinator.com/item?id=47547849 Points: 57 # Comments: 4",
       "source": "Hacker News",
       "published": "2026-03-27T20:30:35+00:00",
       "link": "https://www.theregister.com/2026/03/26/greg_kroahhartman_ai_kernel/"
@@ -304,7 +318,7 @@ const FEED_DATA = {
     },
     {
       "title": "Some uncomfortable truths about AI coding agents",
-      "summary": "Article URL: https://standupforme.app/blog/some-uncomfortable-truths-about-ai-coding-agents/ Comments URL: https://news.ycombinator.com/item?id=47545748 Points: 79 # Comments: 98",
+      "summary": "Article URL: https://standupforme.app/blog/some-uncomfortable-truths-about-ai-coding-agents/ Comments URL: https://news.ycombinator.com/item?id=47545748 Points: 79 # Comments: 101",
       "source": "Hacker News",
       "published": "2026-03-27T17:32:48+00:00",
       "link": "https://standupforme.app/blog/some-uncomfortable-truths-about-ai-coding-agents/"
@@ -318,7 +332,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI got the blame for the Iran school bombing. The truth is more worrying",
-      "summary": "Article URL: https://www.theguardian.com/news/2026/mar/26/ai-got-the-blame-for-the-iran-school-bombing-the-truth-is-far-more-worrying Comments URL: https://news.ycombinator.com/item?id=47544980 Points: 403 # Comments: 376",
+      "summary": "Article URL: https://www.theguardian.com/news/2026/mar/26/ai-got-the-blame-for-the-iran-school-bombing-the-truth-is-far-more-worrying Comments URL: https://news.ycombinator.com/item?id=47544980 Points: 405 # Comments: 377",
       "source": "Hacker News",
       "published": "2026-03-27T16:39:32+00:00",
       "link": "https://www.theguardian.com/news/2026/mar/26/ai-got-the-blame-for-the-iran-school-bombing-the-truth-is-far-more-worrying"
@@ -416,7 +430,7 @@ const FEED_DATA = {
     },
     {
       "title": "A leak reveals that Anthropic is testing a more capable AI model \"Claude Mythos\"",
-      "summary": "Article URL: https://fortune.com/2026/03/26/anthropic-says-testing-mythos-powerful-new-ai-model-after-data-leak-reveals-its-existence-step-change-in-capabilities/ Comments URL: https://news.ycombinator.com/item?id=47538795 Points: 63 # Comments: 22",
+      "summary": "Article URL: https://fortune.com/2026/03/26/anthropic-says-testing-mythos-powerful-new-ai-model-after-data-leak-reveals-its-existence-step-change-in-capabilities/ Comments URL: https://news.ycombinator.com/item?id=47538795 Points: 64 # Comments: 22",
       "source": "Hacker News",
       "published": "2026-03-27T03:21:35+00:00",
       "link": "https://fortune.com/2026/03/26/anthropic-says-testing-mythos-powerful-new-ai-model-after-data-leak-reveals-its-existence-step-change-in-capabilities/"
@@ -1386,20 +1400,6 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-03-23T22:36:39+00:00",
       "link": "https://techcrunch.com/2026/03/23/air-street-becomes-one-of-the-largest-solo-vcs-in-europe-with-232m-fund/"
-    },
-    {
-      "title": "Chat GPT 5.2 cannot explain the German word \"geschniegelt\"",
-      "summary": "Article URL: https://old.reddit.com/r/ChatGPT/comments/1r4goxh/chat_gpt_52_cannot_explain_the_word_geschniegelt/ Comments URL: https://news.ycombinator.com/item?id=47495568 Points: 74 # Comments: 14",
-      "source": "Hacker News",
-      "published": "2026-03-23T21:47:42+00:00",
-      "link": "https://old.reddit.com/r/ChatGPT/comments/1r4goxh/chat_gpt_52_cannot_explain_the_word_geschniegelt/"
-    },
-    {
-      "title": "Bernie Sanders’ AI ‘gotcha’ video flops, but the memes are great",
-      "summary": "Sen. Bernie Sanders thinks he's tricked Claude into revealing the AI industry's secrets, but he really just exposed how agreeable chatbots can become.",
-      "source": "TechCrunch",
-      "published": "2026-03-23T20:15:59+00:00",
-      "link": "https://techcrunch.com/2026/03/23/bernie-sanders-ai-gotcha-video-flops-but-the-memes-are-great/"
     }
   ]
 };
