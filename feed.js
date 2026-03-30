@@ -1,6 +1,90 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-03-30T12:03:52.030935+00:00",
+  "lastUpdated": "2026-03-30T16:14:57.185509+00:00",
   "items": [
+    {
+      "title": "Microsoft rolls out Copilot Cowork more broadly and lets AI models check each other's work",
+      "summary": "With \"Cowork,\" Microsoft 365 Copilot is getting an AI assistant that handles entire workflows on its own. A new research tool also lets multiple AI models check each other's work.",
+      "source": "The Decoder",
+      "published": "2026-03-30T16:07:14+00:00",
+      "link": "https://the-decoder.com/microsoft-rolls-out-copilot-cowork-more-broadly-and-lets-ai-models-check-each-others-work/"
+    },
+    {
+      "title": "Secure governance accelerates financial AI revenue growth",
+      "summary": "Financial institutions are learning to deploy compliant AI solutions for greater revenue growth and market advantage. For the better part of ten years, financial institutions viewed AI primarily as a mechanism for pure efficiency gains.",
+      "source": "AI News",
+      "published": "2026-03-30T15:54:58+00:00",
+      "link": "https://www.artificialintelligence-news.com/news/secure-governance-accelerates-financial-ai-revenue-growth/"
+    },
+    {
+      "title": "AI models confidently describe images they never saw, and benchmarks fail to catch it",
+      "summary": "Multimodal AI models like GPT-5, Gemini 3 Pro, and Claude Opus 4.5 generate detailed image descriptions and medical diagnoses even when no image is provided. A Stanford study shows that common benchmarks obscure the problem.",
+      "source": "The Decoder",
+      "published": "2026-03-30T15:53:15+00:00",
+      "link": "https://the-decoder.com/ai-models-confidently-describe-images-they-never-saw-and-benchmarks-fail-to-catch-it/"
+    },
+    {
+      "title": "Okta’s CEO is betting big on AI agent identity",
+      "summary": "Today, I’m talking with Todd McKinnon, who is co-founder and CEO of Okta, a platform that lets big companies manage security and identity across all the apps and services their employees use.",
+      "source": "The Verge",
+      "published": "2026-03-30T15:15:00+00:00",
+      "link": "https://www.theverge.com/podcast/902264/oktas-ceo-is-betting-big-on-ai-agent-identity"
+    },
+    {
+      "title": "Mantis Biotech is making ‘digital twins’ of humans to help solve medicine’s data availability problem",
+      "summary": "Mantis takes disparate sources of data to make synthetic datasets that can be used to build so-called \"digital twins\" of the human body, representing anatomy, physiology and behavior.",
+      "source": "TechCrunch",
+      "published": "2026-03-30T14:30:00+00:00",
+      "link": "https://techcrunch.com/2026/03/30/mantis-biotech-is-making-digital-twins-of-humans-to-help-solve-medicines-data-availability-problem/"
+    },
+    {
+      "title": "Glia wins Excellence Award for safer AI in banking",
+      "summary": "Glia, a customer service platform providing AI-powered interactions for the banking sector, has been named a winner in the Banking and Financial Services Category at the 2026 Artificial Intelligence Excellence Awards.",
+      "source": "AI News",
+      "published": "2026-03-30T14:12:59+00:00",
+      "link": "https://www.artificialintelligence-news.com/news/glia-wins-excellence-award-for-safer-ai-in-banking/"
+    },
+    {
+      "title": "ScaleOps raises $130M to improve computing efficiency amid AI demand",
+      "summary": "ScaleOps just raised $130M to tackle GPU shortages and soaring AI cloud costs by automating infrastructure in real time.",
+      "source": "TechCrunch",
+      "published": "2026-03-30T13:52:02+00:00",
+      "link": "https://techcrunch.com/2026/03/30/scaleops-130m-series-c-kubernetes-efficiency-ai-demand-funding/"
+    },
+    {
+      "title": "AI chip startup Rebellions raises $400 million at $2.3B valuation in pre-IPO round",
+      "summary": "The startup, which is planning to go public later this year, designs chips specifically for AI inference, another challenger to Nvidia's dominance.",
+      "source": "TechCrunch",
+      "published": "2026-03-30T13:00:00+00:00",
+      "link": "https://techcrunch.com/2026/03/30/ai-chip-startup-rebellions-raises-400-million-at-2-3b-valuation-in-pre-ipo-round/"
+    },
+    {
+      "title": "Mistral AI raises $830M in debt to set up a data center near Paris",
+      "summary": "Mistral aims to start operating the data center by the second quarter of 2026.",
+      "source": "TechCrunch",
+      "published": "2026-03-30T12:49:51+00:00",
+      "link": "https://techcrunch.com/2026/03/30/mistral-ai-raises-830m-in-debt-to-set-up-a-data-center-near-paris/"
+    },
+    {
+      "title": "Qodo raises $70M for code verification as AI coding scales",
+      "summary": "As AI floods software development with code, Qodo is betting the real challenge is making sure it actually works.",
+      "source": "TechCrunch",
+      "published": "2026-03-30T12:30:00+00:00",
+      "link": "https://techcrunch.com/2026/03/30/qodo-bets-on-code-verification-as-ai-coding-scales-raises-70m/"
+    },
+    {
+      "title": "How the AI Bubble Bursts",
+      "summary": "Article URL: https://martinvol.pe/blog/2026/03/30/how-the-ai-bubble-bursts/ Comments URL: https://news.ycombinator.com/item?id=47573420 Points: 301 # Comments: 355",
+      "source": "Hacker News",
+      "published": "2026-03-30T12:28:36+00:00",
+      "link": "https://martinvol.pe/blog/2026/03/30/how-the-ai-bubble-bursts/"
+    },
+    {
+      "title": "The Download: brainless human clones and the first uterus kept alive outside a body",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.",
+      "source": "MIT Tech Review",
+      "published": "2026-03-30T12:10:00+00:00",
+      "link": "https://www.technologyreview.com/2026/03/30/1134836/the-download-brainless-human-clones-first-uterus-kept-alive-outside-body/"
+    },
     {
       "title": "How AEO vs GEO reshapes AI-driven brand discovery in 2026",
       "summary": "When Pew Research Centre analysed 68,879 Google searches in March 2025, one finding stood out: users who encountered an AI-generated summary clicked on a traditional result just 8% of the time. Those who didn’t see a summary clicked nearly twice as often, at 15%.",
@@ -30,11 +114,25 @@ const FEED_DATA = {
       "link": "https://the-decoder.com/ai-generated-dating-show-pulls-10-million-views-per-episode-on-tiktok/"
     },
     {
+      "title": "Mathematical methods and human thought in the age of AI",
+      "summary": "Article URL: https://arxiv.org/abs/2603.26524 Comments URL: https://news.ycombinator.com/item?id=47572771 Points: 128 # Comments: 44",
+      "source": "Hacker News",
+      "published": "2026-03-30T11:05:37+00:00",
+      "link": "https://arxiv.org/abs/2603.26524"
+    },
+    {
       "title": "Kong names Bruce Felt as chief financial officer",
       "summary": "A developer of API and AI connectivity technologies, Kong, has announced that Bruce Felt has joined it as CFO.",
       "source": "AI News",
       "published": "2026-03-30T11:02:00+00:00",
       "link": "https://www.artificialintelligence-news.com/news/kong-names-bruce-felt-as-chief-financial-officer/"
+    },
+    {
+      "title": "Starcloud raises $170 million Series A to build data centers in space",
+      "summary": "Starcloud becomes the fastest Y Combinator startup to reach unicorn status, just 17 months after demo day.",
+      "source": "TechCrunch",
+      "published": "2026-03-30T11:00:00+00:00",
+      "link": "https://techcrunch.com/2026/03/30/starcloud-raises-170-million-series-ato-build-data-centers-in-space/"
     },
     {
       "title": "Starcloud raises $170 million Series Ato build data centers in space",
@@ -66,7 +164,7 @@ const FEED_DATA = {
     },
     {
       "title": "I am definitely missing the pre-AI writing era",
-      "summary": "Article URL: https://www.lesswrong.com/posts/BJ4pnropWdnzzgeJc/i-am-definitely-missing-the-pre-ai-writing-era Comments URL: https://news.ycombinator.com/item?id=47571279 Points: 67 # Comments: 56",
+      "summary": "Article URL: https://www.lesswrong.com/posts/BJ4pnropWdnzzgeJc/i-am-definitely-missing-the-pre-ai-writing-era Comments URL: https://news.ycombinator.com/item?id=47571279 Points: 73 # Comments: 71",
       "source": "Hacker News",
       "published": "2026-03-30T07:03:18+00:00",
       "link": "https://www.lesswrong.com/posts/BJ4pnropWdnzzgeJc/i-am-definitely-missing-the-pre-ai-writing-era"
@@ -91,6 +189,13 @@ const FEED_DATA = {
       "source": "The Verge",
       "published": "2026-03-29T21:44:41+00:00",
       "link": "https://www.theverge.com/ai-artificial-intelligence/903190/bluesky-attie-ai-custom-feeds"
+    },
+    {
+      "title": "AI isn't killing jobs, it's 'unbundling' them into lower-paid chunks",
+      "summary": "Article URL: https://www.theregister.com/2026/03/24/ai_job_unbundling/ Comments URL: https://news.ycombinator.com/item?id=47567183 Points: 51 # Comments: 31",
+      "source": "Hacker News",
+      "published": "2026-03-29T20:51:55+00:00",
+      "link": "https://www.theregister.com/2026/03/24/ai_job_unbundling/"
     },
     {
       "title": "Sora’s shutdown could be a reality check moment for AI video",
@@ -122,7 +227,7 @@ const FEED_DATA = {
     },
     {
       "title": "Police used AI facial recognition to wrongly arrest TN woman for crimes in ND",
-      "summary": "Article URL: https://www.cnn.com/2026/03/29/us/angela-lipps-ai-facial-recognition Comments URL: https://news.ycombinator.com/item?id=47563384 Points: 403 # Comments: 176",
+      "summary": "Article URL: https://www.cnn.com/2026/03/29/us/angela-lipps-ai-facial-recognition Comments URL: https://news.ycombinator.com/item?id=47563384 Points: 416 # Comments: 184",
       "source": "Hacker News",
       "published": "2026-03-29T14:20:23+00:00",
       "link": "https://www.cnn.com/2026/03/29/us/angela-lipps-ai-facial-recognition"
@@ -136,14 +241,14 @@ const FEED_DATA = {
     },
     {
       "title": "Miasma: A tool to trap AI web scrapers in an endless poison pit",
-      "summary": "Article URL: https://github.com/austin-weeks/miasma Comments URL: https://news.ycombinator.com/item?id=47561819 Points: 323 # Comments: 232",
+      "summary": "Article URL: https://github.com/austin-weeks/miasma Comments URL: https://news.ycombinator.com/item?id=47561819 Points: 330 # Comments: 238",
       "source": "Hacker News",
       "published": "2026-03-29T10:10:12+00:00",
       "link": "https://github.com/austin-weeks/miasma"
     },
     {
       "title": "What if AI doesn't need more RAM but better math?",
-      "summary": "Article URL: https://adlrocha.substack.com/p/adlrocha-what-if-ai-doesnt-need-more Comments URL: https://news.ycombinator.com/item?id=47561297 Points: 176 # Comments: 92",
+      "summary": "Article URL: https://adlrocha.substack.com/p/adlrocha-what-if-ai-doesnt-need-more Comments URL: https://news.ycombinator.com/item?id=47561297 Points: 179 # Comments: 94",
       "source": "Hacker News",
       "published": "2026-03-29T08:18:55+00:00",
       "link": "https://adlrocha.substack.com/p/adlrocha-what-if-ai-doesnt-need-more"
@@ -157,7 +262,7 @@ const FEED_DATA = {
     },
     {
       "title": "Will the AI data centre boom become a $9T bust?",
-      "summary": "Article URL: https://www.ft.com/content/805f78f3-8da3-4fc0-b860-207a859ac723 Comments URL: https://news.ycombinator.com/item?id=47559948 Points: 53 # Comments: 74",
+      "summary": "Article URL: https://www.ft.com/content/805f78f3-8da3-4fc0-b860-207a859ac723 Comments URL: https://news.ycombinator.com/item?id=47559948 Points: 53 # Comments: 76",
       "source": "Hacker News",
       "published": "2026-03-29T02:35:59+00:00",
       "link": "https://www.ft.com/content/805f78f3-8da3-4fc0-b860-207a859ac723"
@@ -178,7 +283,7 @@ const FEED_DATA = {
     },
     {
       "title": "The first 40 months of the AI era",
-      "summary": "Article URL: https://lzon.ca/posts/other/thoughts-ai-era/ Comments URL: https://news.ycombinator.com/item?id=47557185 Points: 212 # Comments: 144",
+      "summary": "Article URL: https://lzon.ca/posts/other/thoughts-ai-era/ Comments URL: https://news.ycombinator.com/item?id=47557185 Points: 213 # Comments: 145",
       "source": "Hacker News",
       "published": "2026-03-28T18:42:08+00:00",
       "link": "https://lzon.ca/posts/other/thoughts-ai-era/"
@@ -220,7 +325,7 @@ const FEED_DATA = {
     },
     {
       "title": "Folk are getting dangerously attached to AI that always tells them they're right",
-      "summary": "Article URL: https://www.theregister.com/2026/03/27/sycophantic_ai_risks/ Comments URL: https://news.ycombinator.com/item?id=47555090 Points: 285 # Comments: 222",
+      "summary": "Article URL: https://www.theregister.com/2026/03/27/sycophantic_ai_risks/ Comments URL: https://news.ycombinator.com/item?id=47555090 Points: 285 # Comments: 223",
       "source": "Hacker News",
       "published": "2026-03-28T14:49:25+00:00",
       "link": "https://www.theregister.com/2026/03/27/sycophantic_ai_risks/"
@@ -248,7 +353,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI overly affirms users asking for personal advice",
-      "summary": "https://arxiv.org/abs/2602.14270https://www.science.org/doi/10.1126/science.aec8352 Comments URL: https://news.ycombinator.com/item?id=47554773 Points: 775 # Comments: 606",
+      "summary": "https://arxiv.org/abs/2602.14270https://www.science.org/doi/10.1126/science.aec8352 Comments URL: https://news.ycombinator.com/item?id=47554773 Points: 779 # Comments: 608",
       "source": "Hacker News",
       "published": "2026-03-28T14:08:33+00:00",
       "link": "https://news.stanford.edu/stories/2026/03/ai-advice-sycophantic-models-research"
@@ -297,7 +402,7 @@ const FEED_DATA = {
     },
     {
       "title": "Adults Lose Skills to AI. Children Never Build Them",
-      "summary": "Article URL: https://www.psychologytoday.com/us/blog/the-algorithmic-mind/202603/adults-lose-skills-to-ai-children-never-build-them Comments URL: https://news.ycombinator.com/item?id=47552617 Points: 97 # Comments: 87",
+      "summary": "Article URL: https://www.psychologytoday.com/us/blog/the-algorithmic-mind/202603/adults-lose-skills-to-ai-children-never-build-them Comments URL: https://news.ycombinator.com/item?id=47552617 Points: 98 # Comments: 87",
       "source": "Hacker News",
       "published": "2026-03-28T08:17:52+00:00",
       "link": "https://www.psychologytoday.com/us/blog/the-algorithmic-mind/202603/adults-lose-skills-to-ai-children-never-build-them"
@@ -318,7 +423,7 @@ const FEED_DATA = {
     },
     {
       "title": "Why are executives enamored with AI, but ICs aren't?",
-      "summary": "Article URL: https://johnjwang.com/post/2026/03/27/why-are-executives-enabled-with-ai-but-ics-arent/ Comments URL: https://news.ycombinator.com/item?id=47549649 Points: 105 # Comments: 168",
+      "summary": "Article URL: https://johnjwang.com/post/2026/03/27/why-are-executives-enabled-with-ai-but-ics-arent/ Comments URL: https://news.ycombinator.com/item?id=47549649 Points: 106 # Comments: 168",
       "source": "Hacker News",
       "published": "2026-03-27T23:19:18+00:00",
       "link": "https://johnjwang.com/post/2026/03/27/why-are-executives-enabled-with-ai-but-ics-arent/"
@@ -388,7 +493,7 @@ const FEED_DATA = {
     },
     {
       "title": "Some uncomfortable truths about AI coding agents",
-      "summary": "Article URL: https://standupforme.app/blog/some-uncomfortable-truths-about-ai-coding-agents/ Comments URL: https://news.ycombinator.com/item?id=47545748 Points: 79 # Comments: 101",
+      "summary": "Article URL: https://standupforme.app/blog/some-uncomfortable-truths-about-ai-coding-agents/ Comments URL: https://news.ycombinator.com/item?id=47545748 Points: 80 # Comments: 101",
       "source": "Hacker News",
       "published": "2026-03-27T17:32:48+00:00",
       "link": "https://standupforme.app/blog/some-uncomfortable-truths-about-ai-coding-agents/"
@@ -1295,111 +1400,6 @@ const FEED_DATA = {
       "source": "AI News",
       "published": "2026-03-24T17:03:48+00:00",
       "link": "https://www.artificialintelligence-news.com/news/automating-complex-finance-workflows-with-multimodal-ai/"
-    },
-    {
-      "title": "Arm Is Now Making Its Own Chips",
-      "summary": "The chip design firm says Meta, OpenAI, Cerebras, and Cloudflare are among the first customers of its new artificial intelligence hardware.",
-      "source": "Wired",
-      "published": "2026-03-24T17:00:00+00:00",
-      "link": "https://www.wired.com/story/chip-design-firm-arm-is-making-its-own-ai-cpu/"
-    },
-    {
-      "title": "This scientist rewarmed and studied pieces of his friend’s cryopreserved brain",
-      "summary": "L. Stephen Coles’s brain sits cushioned in a vat at a storage facility in Arizona.",
-      "source": "MIT Tech Review",
-      "published": "2026-03-24T16:43:36+00:00",
-      "link": "https://www.technologyreview.com/2026/03/24/1134562/cryopreservation-brain-cryonics-organ-transplantation/"
-    },
-    {
-      "title": "Microsoft snaps up Texas data center that Oracle and OpenAI left behind",
-      "summary": "Microsoft has agreed to lease a data center in Abilene, Texas, that was originally built for Oracle and OpenAI, Bloomberg News reports. The article Microsoft snaps up Texas data center that Oracle and OpenAI left behind appeared first on The Decoder.",
-      "source": "The Decoder",
-      "published": "2026-03-24T16:43:30+00:00",
-      "link": "https://the-decoder.com/microsoft-snaps-up-texas-data-center-that-oracle-and-openai-left-behind/"
-    },
-    {
-      "title": "Agile Robots and Google Deepmind team up to bring AI-powered robots to factories",
-      "summary": "Agile Robots and Google Deepmind are partnering to build AI-powered robots for industrial use. The Munich-based company will integrate Deepmind's Gemini Robotics models into its hardware.",
-      "source": "The Decoder",
-      "published": "2026-03-24T16:20:39+00:00",
-      "link": "https://the-decoder.com/agile-robots-and-google-deepmind-team-up-to-bring-ai-powered-robots-to-factories/"
-    },
-    {
-      "title": "Hypura – A storage-tier-aware LLM inference scheduler for Apple Silicon",
-      "summary": "Article URL: https://github.com/t8/hypura Comments URL: https://news.ycombinator.com/item?id=47504695 Points: 221 # Comments: 88",
-      "source": "Hacker News",
-      "published": "2026-03-24T16:02:22+00:00",
-      "link": "https://github.com/t8/hypura"
-    },
-    {
-      "title": "Meet the former Apple designer building a new AI interface at Hark",
-      "summary": "The company said it would design models, hardware, and interfaces in tandem to deliver a \"seamless end-to-end personal intelligence product.\"",
-      "source": "TechCrunch",
-      "published": "2026-03-24T16:00:00+00:00",
-      "link": "https://techcrunch.com/2026/03/24/meet-the-former-apple-designer-building-a-new-ai-interface-at-hark/"
-    },
-    {
-      "title": "Google brings AI-powered dark web analysis to enterprise security teams",
-      "summary": "Google Cloud unveiled new security features at the RSA Conference 2026 in San Francisco. The article Google brings AI-powered dark web analysis to enterprise security teams appeared first on The Decoder.",
-      "source": "The Decoder",
-      "published": "2026-03-24T15:56:11+00:00",
-      "link": "https://the-decoder.com/google-brings-ai-powered-dark-web-analysis-to-enterprise-security-teams/"
-    },
-    {
-      "title": "ChatGPT simplifies file management with new toolbar and library tab",
-      "summary": "ChatGPT gets a new Library tab and toolbar that make finding, reusing, and referencing uploaded files across chats faster and easier. The article ChatGPT simplifies file management with new toolbar and library tab appeared first on The Decoder.",
-      "source": "The Decoder",
-      "published": "2026-03-24T15:47:45+00:00",
-      "link": "https://the-decoder.com/chatgpt-simplifies-file-management-with-new-toolbar-and-library-tab/"
-    },
-    {
-      "title": "Microsoft hires top AI researchers from Allen Institute for AI for Suleyman's Superintelligence team",
-      "summary": "Microsoft is hiring several leading AI researchers from the Allen Institute for AI (Ai2) and the University of Washington. The article Microsoft hires top AI researchers from Allen Institute for AI for Suleyman's Superintelligence team appeared first on The Decoder.",
-      "source": "The Decoder",
-      "published": "2026-03-24T15:28:22+00:00",
-      "link": "https://the-decoder.com/microsoft-hires-top-ai-researchers-from-allen-institute-for-ai-for-suleymans-superintelligence-team/"
-    },
-    {
-      "title": "Securing AI systems under today’s and tomorrow’s conditions",
-      "summary": "Evidence cited in an eBook titled “AI Quantum Resilience”, published by Utimaco [email wall], shows organisations consider security risks as the leading barrier to effective adoption of AI on data they hold. AI’s value depends on data amassed by an organisation.",
-      "source": "AI News",
-      "published": "2026-03-24T15:22:00+00:00",
-      "link": "https://www.artificialintelligence-news.com/news/quantum-resilient-ai-needs-migration-and-hardware-protected-data-enclaves/"
-    },
-    {
-      "title": "The bridge to wealth is being pulled up with AI",
-      "summary": "Article URL: https://danielhomola.com/m%20&%20e/ai/your-bridge-to-wealth-is-being-pulled-up/ Comments URL: https://news.ycombinator.com/item?id=47503296 Points: 269 # Comments: 407",
-      "source": "Hacker News",
-      "published": "2026-03-24T14:39:20+00:00",
-      "link": "https://danielhomola.com/m%20&%20e/ai/your-bridge-to-wealth-is-being-pulled-up/"
-    },
-    {
-      "title": "So where are all the AI apps?",
-      "summary": "Article URL: https://www.answer.ai/posts/2026-03-12-so-where-are-all-the-ai-apps.html Comments URL: https://news.ycombinator.com/item?id=47503006 Points: 447 # Comments: 420",
-      "source": "Hacker News",
-      "published": "2026-03-24T14:19:59+00:00",
-      "link": "https://www.answer.ai/posts/2026-03-12-so-where-are-all-the-ai-apps.html"
-    },
-    {
-      "title": "Anthropic’s Claude Code and Cowork can control your computer",
-      "summary": "Anthropic has updated Claude to perform tasks in its Code and Cowork AI tools autonomously by using your computer for you.",
-      "source": "The Verge",
-      "published": "2026-03-24T13:32:23+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/899430/anthropic-claude-code-cowork-ai-control-computer"
-    },
-    {
-      "title": "OpenAI wants UK regulators to treat ChatGPT as a Google Search alternative",
-      "summary": "OpenAI is pushing the UK's Competition and Markets Authority (CMA) to add ChatGPT as an alternative to Google in so-called \"choice screens\" on Android phones and the Chrome browser.",
-      "source": "The Decoder",
-      "published": "2026-03-24T13:19:52+00:00",
-      "link": "https://the-decoder.com/openai-wants-uk-regulators-to-treat-chatgpt-as-a-google-search-alternative/"
-    },
-    {
-      "title": "Mirage raises $75M to continue building models for its AI video-editing app Captions",
-      "summary": "Mirage, the maker of video-editing app Captions, has raised $75 million in growth financing from General Catalyst's Customer Value Fund (CVF).",
-      "source": "TechCrunch",
-      "published": "2026-03-24T13:00:00+00:00",
-      "link": "https://techcrunch.com/2026/03/24/mirage-raises-75m-to-continue-building-models-for-its-ai-video-editing-app-captions/"
     }
   ]
 };
