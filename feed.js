@@ -1,6 +1,20 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-03-31T08:40:46.068887+00:00",
+  "lastUpdated": "2026-03-31T11:37:37.473669+00:00",
   "items": [
+    {
+      "title": "California sets its own AI rules for state contractors, pushing back against federal policy",
+      "summary": "California Governor Gavin Newsom signed an executive order on Monday requiring companies with state contracts to implement safeguards against AI misuse.",
+      "source": "The Decoder",
+      "published": "2026-03-31T11:21:04+00:00",
+      "link": "https://the-decoder.com/california-sets-its-own-ai-rules-for-state-contractors-pushing-back-against-federal-policy/"
+    },
+    {
+      "title": "OpenAI launches a Codex plugin that runs inside Anthropic's Claude Code",
+      "summary": "OpenAI released a plugin that embeds its AI coding assistant Codex directly into Anthropic's Claude Code. The article OpenAI launches a Codex plugin that runs inside Anthropic's Claude Code appeared first on The Decoder.",
+      "source": "The Decoder",
+      "published": "2026-03-31T11:18:19+00:00",
+      "link": "https://the-decoder.com/openai-launches-a-codex-plugin-that-runs-inside-anthropics-claude-code/"
+    },
     {
       "title": "15% of Americans say they’d be willing to work for an AI boss, according to new poll",
       "summary": "According to a Quinnipiac University poll, 15% of Americans say they'd be willing to have a job where their direct supervisor was an AI program that assigned tasks and set schedules.",
@@ -1386,20 +1400,6 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-03-24T19:12:11+00:00",
       "link": "https://techcrunch.com/2026/03/24/google-tv-new-gemini-features-keep-fans-updated-on-sports-teams-deep-dives-visual-answers/"
-    },
-    {
-      "title": "Google Deepmind's Gemini 3.1 Flash-Lite generates websites almost in real time",
-      "summary": "Google shows in a demo how Gemini 3.1 Flash-Lite generates complete websites in real time. Fast, cheap - but also useful?",
-      "source": "The Decoder",
-      "published": "2026-03-24T19:07:39+00:00",
-      "link": "https://the-decoder.com/google-deepminds-gemini-3-1-flash-lite-generates-websites-almost-in-real-time/"
-    },
-    {
-      "title": "A man created thousands of fake accounts to stream AI songs billions of times and pocket $8 million in royalties",
-      "summary": "AI songs, fake accounts, billions of bot plays: a North Carolina man has pleaded guilty to scamming streaming platforms out of more than eight million dollars.",
-      "source": "The Decoder",
-      "published": "2026-03-24T18:44:46+00:00",
-      "link": "https://the-decoder.com/a-man-created-thousands-of-fake-accounts-to-stream-ai-songs-billions-of-times-and-pocket-8-million-in-royalties/"
     }
   ]
 };
