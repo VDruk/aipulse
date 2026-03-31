@@ -1,6 +1,90 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-03-31T11:37:37.473669+00:00",
+  "lastUpdated": "2026-03-31T16:35:45.620103+00:00",
   "items": [
+    {
+      "title": "SAP and ANYbotics drive industrial adoption of physical AI",
+      "summary": "Heavy industry relies on people to inspect hazardous, dirty facilities. It’s expensive, and putting humans in these zones carries obvious safety risks.",
+      "source": "AI News",
+      "published": "2026-03-31T15:20:53+00:00",
+      "link": "https://www.artificialintelligence-news.com/news/sap-and-anybotics-drive-industrial-adoption-physical-ai/"
+    },
+    {
+      "title": "Nomadic raises $8.4 million to wrangle the data pouring off autonomous vehicles",
+      "summary": "The company turns footage from robots into structured, searchable datasets with a deep learning model.",
+      "source": "TechCrunch",
+      "published": "2026-03-31T15:00:00+00:00",
+      "link": "https://techcrunch.com/2026/03/31/nomadic-raises-8-4-million-to-wrangle-the-data-pouring-off-avs/"
+    },
+    {
+      "title": "Art schools are being torn apart by AI",
+      "summary": "When my baby brother, a 3D modelling and animation student, talks to me about his projects and studies, the pride I usually feel is becoming increasingly tainted by a growing sense of dread.",
+      "source": "The Verge",
+      "published": "2026-03-31T15:00:00+00:00",
+      "link": "https://www.theverge.com/tech/903954/art-schools-generative-ai-education-creative-jobs"
+    },
+    {
+      "title": "Shifting to AI model customization is an architectural imperative",
+      "summary": "In the early days of large language models (LLMs), we grew accustomed to massive 10x jumps in reasoning and coding capability with every new model iteration. Today, those jumps have flattened into incremental gains.",
+      "source": "MIT Tech Review",
+      "published": "2026-03-31T14:12:50+00:00",
+      "link": "https://www.technologyreview.com/2026/03/31/1134762/shifting-to-ai-model-customization-is-an-architectural-imperative/"
+    },
+    {
+      "title": "Exclusive: Runway launches $10M fund, Builders program to support early stage AI startups",
+      "summary": "Runway is launching a $10 million fund and startup program to back companies building with its AI video models, as it pushes toward interactive, real-time “video intelligence” applications.",
+      "source": "TechCrunch",
+      "published": "2026-03-31T14:00:00+00:00",
+      "link": "https://techcrunch.com/2026/03/31/exclusive-runway-launches-10m-fund-builders-program-to-support-early-stage-ai-startups/"
+    },
+    {
+      "title": "With its new app store, Ring bets on AI to go beyond home security",
+      "summary": "Ring's app store will allow the company to target broader use cases beyond security, like elder care or business needs.",
+      "source": "TechCrunch",
+      "published": "2026-03-31T13:00:00+00:00",
+      "link": "https://techcrunch.com/2026/03/31/ring-app-store-bets-on-ai-to-go-beyond-home-security/"
+    },
+    {
+      "title": "You can order Grubhub and Uber Eats ‘conversationally’ with Alexa Plus",
+      "summary": "Amazon is giving you a new way to order food through Grubhub and Uber Eats with Alexa without having to endure an awkward exchange just to add fries. Amazon said the entire process is meant to be conversational, building your order in a similar manner to ordering in a restaurant.",
+      "source": "The Verge",
+      "published": "2026-03-31T13:00:00+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/903938/alexa-plus-order-food-grubhub-uber-eats"
+    },
+    {
+      "title": "AI Has Flooded All the Weather Apps",
+      "summary": "Weather forecasting has gotten a big boost from machine learning. How that translates into what users see can vary.",
+      "source": "Wired",
+      "published": "2026-03-31T13:00:00+00:00",
+      "link": "https://www.wired.com/story/ai-has-flooded-all-the-weather-apps/"
+    },
+    {
+      "title": "Qwen3.5-Omni learned to write code from spoken instructions and video without anyone training it to",
+      "summary": "Alibaba has released Qwen3.5-Omni, an omnimodal AI model that processes text, images, audio, and video. It claims to beat Gemini 3.1 Pro on audio tasks and picked up an unexpected trick along the way: writing code from spoken instructions and video input.",
+      "source": "The Decoder",
+      "published": "2026-03-31T12:23:53+00:00",
+      "link": "https://the-decoder.com/qwen3-5-omni-learned-to-write-code-from-spoken-instructions-and-video-without-anyone-training-it-to/"
+    },
+    {
+      "title": "The Download: AI health tools and the Pentagon’s Anthropic culture war",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. There are more AI health tools than ever—but how well do they work?",
+      "source": "MIT Tech Review",
+      "published": "2026-03-31T12:10:00+00:00",
+      "link": "https://www.technologyreview.com/2026/03/31/1134934/the-download-testing-ai-health-tools-pentagon-anthropic-culture-war-backfires/"
+    },
+    {
+      "title": "AI benchmarks are broken. Here’s what we need instead.",
+      "summary": "For decades, artificial intelligence has been evaluated through the question of whether machines outperform humans.",
+      "source": "MIT Tech Review",
+      "published": "2026-03-31T12:01:08+00:00",
+      "link": "https://www.technologyreview.com/2026/03/31/1134833/ai-benchmarks-are-broken-heres-what-we-need-instead/"
+    },
+    {
+      "title": "Nebius plans $10 billion AI data center in Finland near Russian border",
+      "summary": "AI infrastructure company Nebius Group is building a 310-megawatt data center in Lappeenranta, Finland, close to the Russian border. The article Nebius plans $10 billion AI data center in Finland near Russian border appeared first on The Decoder.",
+      "source": "The Decoder",
+      "published": "2026-03-31T11:42:24+00:00",
+      "link": "https://the-decoder.com/nebius-plans-10-billion-ai-data-center-in-finland-near-russian-border/"
+    },
     {
       "title": "California sets its own AI rules for state contractors, pushing back against federal policy",
       "summary": "California Governor Gavin Newsom signed an executive order on Monday requiring companies with state contracts to implement safeguards against AI misuse.",
@@ -21,6 +105,13 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-03-30T23:41:48+00:00",
       "link": "https://techcrunch.com/2026/03/30/ai-work-boss-supervisor-us-quinnipiac-poll/"
+    },
+    {
+      "title": "Show HN: I turned a sketch into a 3D-print pegboard for my kid with an AI agent",
+      "summary": "We have pegboards and plywood all over our apartment, and I had an idea to make a tiny pegboard for my kid, Oli.",
+      "source": "Hacker News",
+      "published": "2026-03-30T23:20:02+00:00",
+      "link": "https://github.com/virpo/pegboard"
     },
     {
       "title": "Popular AI gateway startup LiteLLM ditches controversial startup Delve",
@@ -115,7 +206,7 @@ const FEED_DATA = {
     },
     {
       "title": "The ladder is missing rungs – Engineering Progression When AI Ate the Middle",
-      "summary": "Article URL: https://negroniventurestudios.com/2026/03/19/the-ladder-is-missing-rungs/ Comments URL: https://news.ycombinator.com/item?id=47574346 Points: 86 # Comments: 40",
+      "summary": "Article URL: https://negroniventurestudios.com/2026/03/19/the-ladder-is-missing-rungs/ Comments URL: https://news.ycombinator.com/item?id=47574346 Points: 91 # Comments: 45",
       "source": "Hacker News",
       "published": "2026-03-30T13:51:31+00:00",
       "link": "https://negroniventurestudios.com/2026/03/19/the-ladder-is-missing-rungs/"
@@ -143,7 +234,7 @@ const FEED_DATA = {
     },
     {
       "title": "How the AI Bubble Bursts",
-      "summary": "Article URL: https://martinvol.pe/blog/2026/03/30/how-the-ai-bubble-bursts/ Comments URL: https://news.ycombinator.com/item?id=47573420 Points: 362 # Comments: 488",
+      "summary": "Article URL: https://martinvol.pe/blog/2026/03/30/how-the-ai-bubble-bursts/ Comments URL: https://news.ycombinator.com/item?id=47573420 Points: 365 # Comments: 504",
       "source": "Hacker News",
       "published": "2026-03-30T12:28:36+00:00",
       "link": "https://martinvol.pe/blog/2026/03/30/how-the-ai-bubble-bursts/"
@@ -185,7 +276,7 @@ const FEED_DATA = {
     },
     {
       "title": "Mathematical methods and human thought in the age of AI",
-      "summary": "Article URL: https://arxiv.org/abs/2603.26524 Comments URL: https://news.ycombinator.com/item?id=47572771 Points: 202 # Comments: 85",
+      "summary": "Article URL: https://arxiv.org/abs/2603.26524 Comments URL: https://news.ycombinator.com/item?id=47572771 Points: 207 # Comments: 88",
       "source": "Hacker News",
       "published": "2026-03-30T11:05:37+00:00",
       "link": "https://arxiv.org/abs/2603.26524"
@@ -234,7 +325,7 @@ const FEED_DATA = {
     },
     {
       "title": "I am definitely missing the pre-AI writing era",
-      "summary": "Article URL: https://www.lesswrong.com/posts/BJ4pnropWdnzzgeJc/i-am-definitely-missing-the-pre-ai-writing-era Comments URL: https://news.ycombinator.com/item?id=47571279 Points: 305 # Comments: 224",
+      "summary": "Article URL: https://www.lesswrong.com/posts/BJ4pnropWdnzzgeJc/i-am-definitely-missing-the-pre-ai-writing-era Comments URL: https://news.ycombinator.com/item?id=47571279 Points: 310 # Comments: 231",
       "source": "Hacker News",
       "published": "2026-03-30T07:03:18+00:00",
       "link": "https://www.lesswrong.com/posts/BJ4pnropWdnzzgeJc/i-am-definitely-missing-the-pre-ai-writing-era"
@@ -262,7 +353,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI isn't killing jobs, it's 'unbundling' them into lower-paid chunks",
-      "summary": "Article URL: https://www.theregister.com/2026/03/24/ai_job_unbundling/ Comments URL: https://news.ycombinator.com/item?id=47567183 Points: 54 # Comments: 33",
+      "summary": "Article URL: https://www.theregister.com/2026/03/24/ai_job_unbundling/ Comments URL: https://news.ycombinator.com/item?id=47567183 Points: 55 # Comments: 33",
       "source": "Hacker News",
       "published": "2026-03-29T20:51:55+00:00",
       "link": "https://www.theregister.com/2026/03/24/ai_job_unbundling/"
@@ -297,7 +388,7 @@ const FEED_DATA = {
     },
     {
       "title": "Police used AI facial recognition to wrongly arrest TN woman for crimes in ND",
-      "summary": "Article URL: https://www.cnn.com/2026/03/29/us/angela-lipps-ai-facial-recognition Comments URL: https://news.ycombinator.com/item?id=47563384 Points: 433 # Comments: 198",
+      "summary": "Article URL: https://www.cnn.com/2026/03/29/us/angela-lipps-ai-facial-recognition Comments URL: https://news.ycombinator.com/item?id=47563384 Points: 438 # Comments: 199",
       "source": "Hacker News",
       "published": "2026-03-29T14:20:23+00:00",
       "link": "https://www.cnn.com/2026/03/29/us/angela-lipps-ai-facial-recognition"
@@ -311,14 +402,14 @@ const FEED_DATA = {
     },
     {
       "title": "Miasma: A tool to trap AI web scrapers in an endless poison pit",
-      "summary": "Article URL: https://github.com/austin-weeks/miasma Comments URL: https://news.ycombinator.com/item?id=47561819 Points: 341 # Comments: 243",
+      "summary": "Article URL: https://github.com/austin-weeks/miasma Comments URL: https://news.ycombinator.com/item?id=47561819 Points: 343 # Comments: 244",
       "source": "Hacker News",
       "published": "2026-03-29T10:10:12+00:00",
       "link": "https://github.com/austin-weeks/miasma"
     },
     {
       "title": "What if AI doesn't need more RAM but better math?",
-      "summary": "Article URL: https://adlrocha.substack.com/p/adlrocha-what-if-ai-doesnt-need-more Comments URL: https://news.ycombinator.com/item?id=47561297 Points: 186 # Comments: 99",
+      "summary": "Article URL: https://adlrocha.substack.com/p/adlrocha-what-if-ai-doesnt-need-more Comments URL: https://news.ycombinator.com/item?id=47561297 Points: 186 # Comments: 101",
       "source": "Hacker News",
       "published": "2026-03-29T08:18:55+00:00",
       "link": "https://adlrocha.substack.com/p/adlrocha-what-if-ai-doesnt-need-more"
@@ -329,6 +420,13 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-03-29T06:46:57+00:00",
       "link": "https://the-decoder.com/navers-seoul-world-model-uses-actual-street-view-data-to-stop-ai-from-hallucinating-entire-cities/"
+    },
+    {
+      "title": "Wikipedia officially bans AI-generated content",
+      "summary": "Article URL: https://nypost.com/2026/03/28/tech/wikipedia-officially-bans-ai-generated-encyclopedia-entries/ Comments URL: https://news.ycombinator.com/item?id=47560270 Points: 50 # Comments: 1",
+      "source": "Hacker News",
+      "published": "2026-03-29T03:55:08+00:00",
+      "link": "https://nypost.com/2026/03/28/tech/wikipedia-officially-bans-ai-generated-encyclopedia-entries/"
     },
     {
       "title": "Will the AI data centre boom become a $9T bust?",
@@ -374,7 +472,7 @@ const FEED_DATA = {
     },
     {
       "title": "Wikipedia bans AI-generated content in its online encyclopedia",
-      "summary": "Article URL: https://www.theguardian.com/technology/2026/mar/27/wikipedia-bans-ai Comments URL: https://news.ycombinator.com/item?id=47556116 Points: 100 # Comments: 19",
+      "summary": "Article URL: https://www.theguardian.com/technology/2026/mar/27/wikipedia-bans-ai Comments URL: https://news.ycombinator.com/item?id=47556116 Points: 101 # Comments: 19",
       "source": "Hacker News",
       "published": "2026-03-28T16:34:04+00:00",
       "link": "https://www.theguardian.com/technology/2026/mar/27/wikipedia-bans-ai"
@@ -395,7 +493,7 @@ const FEED_DATA = {
     },
     {
       "title": "Folk are getting dangerously attached to AI that always tells them they're right",
-      "summary": "Article URL: https://www.theregister.com/2026/03/27/sycophantic_ai_risks/ Comments URL: https://news.ycombinator.com/item?id=47555090 Points: 285 # Comments: 224",
+      "summary": "Article URL: https://www.theregister.com/2026/03/27/sycophantic_ai_risks/ Comments URL: https://news.ycombinator.com/item?id=47555090 Points: 286 # Comments: 224",
       "source": "Hacker News",
       "published": "2026-03-28T14:49:25+00:00",
       "link": "https://www.theregister.com/2026/03/27/sycophantic_ai_risks/"
@@ -423,7 +521,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI overly affirms users asking for personal advice",
-      "summary": "https://arxiv.org/abs/2602.14270https://www.science.org/doi/10.1126/science.aec8352 Comments URL: https://news.ycombinator.com/item?id=47554773 Points: 783 # Comments: 609",
+      "summary": "https://arxiv.org/abs/2602.14270https://www.science.org/doi/10.1126/science.aec8352 Comments URL: https://news.ycombinator.com/item?id=47554773 Points: 783 # Comments: 611",
       "source": "Hacker News",
       "published": "2026-03-28T14:08:33+00:00",
       "link": "https://news.stanford.edu/stories/2026/03/ai-advice-sycophantic-models-research"
@@ -479,7 +577,7 @@ const FEED_DATA = {
     },
     {
       "title": "CERN uses ultra-compact AI models on FPGAs for real-time LHC data filtering",
-      "summary": "Article URL: https://theopenreader.org/Journalism:CERN_Uses_Tiny_AI_Models_Burned_into_Silicon_for_Real-Time_LHC_Data_Filtering Comments URL: https://news.ycombinator.com/item?id=47552562 Points: 328 # Comments: 146",
+      "summary": "Article URL: https://theopenreader.org/Journalism:CERN_Uses_Tiny_AI_Models_Burned_into_Silicon_for_Real-Time_LHC_Data_Filtering Comments URL: https://news.ycombinator.com/item?id=47552562 Points: 330 # Comments: 146",
       "source": "Hacker News",
       "published": "2026-03-28T08:06:19+00:00",
       "link": "https://theopenreader.org/Journalism:CERN_Uses_Tiny_AI_Models_Burned_into_Silicon_for_Real-Time_LHC_Data_Filtering"
@@ -1302,104 +1400,6 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-03-24T23:57:55+00:00",
       "link": "https://techcrunch.com/2026/03/24/openais-sora-was-the-creepiest-app-on-your-phone-now-its-shutting-down/"
-    },
-    {
-      "title": "Kentucky woman rejects $26M offer to turn her farm into a data center",
-      "summary": "A \"major artificial intelligence company\" reportedly offered a Kentucky family $26 million to build a data center on their farm.",
-      "source": "TechCrunch",
-      "published": "2026-03-24T22:22:57+00:00",
-      "link": "https://techcrunch.com/2026/03/24/kentucky-woman-rejects-26-million-offer-to-turn-her-farm-into-a-data-center/"
-    },
-    {
-      "title": "Pentagon’s ‘Attempt to Cripple’ Anthropic Is Troubling, Judge Says",
-      "summary": "During a hearing Tuesday, a district court judge questioned the Department of Defense’s motivations for labeling the Claude AI developer a supply-chain risk.",
-      "source": "Wired",
-      "published": "2026-03-24T22:13:17+00:00",
-      "link": "https://www.wired.com/story/pentagons-attempt-to-cripple-anthropic-is-troublesome-judge-says/"
-    },
-    {
-      "title": "OpenAI just gave up on Sora and its billion-dollar Disney deal",
-      "summary": "On Tuesday afternoon, OpenAI announced \"We're saying goodbye to Sora,\" the video generation tool that it launched at the end of 2024, and centered in a massive licensing deal with Disney only a few months ago.",
-      "source": "The Verge",
-      "published": "2026-03-24T21:08:10+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/899850/openai-sora-ai-chatgpt"
-    },
-    {
-      "title": "Disney Exits OpenAI Deal After AI Giant Shutters Sora",
-      "summary": "Article URL: https://www.hollywoodreporter.com/business/digital/openai-shutting-down-sora-ai-video-app-1236546187/ Comments URL: https://news.ycombinator.com/item?id=47509234 Points: 206 # Comments: 3",
-      "source": "Hacker News",
-      "published": "2026-03-24T21:01:21+00:00",
-      "link": "https://www.hollywoodreporter.com/business/digital/openai-shutting-down-sora-ai-video-app-1236546187/"
-    },
-    {
-      "title": "Anthropic hands Claude Code more control, but keeps it on a leash",
-      "summary": "Anthropic’s new auto mode for Claude Code lets AI execute tasks with fewer approvals, reflecting a broader shift toward more autonomous tools that balance speed with safety through built-in safeguards.",
-      "source": "TechCrunch",
-      "published": "2026-03-24T21:00:30+00:00",
-      "link": "https://techcrunch.com/2026/03/24/anthropic-hands-claude-code-more-control-but-keeps-it-on-a-leash/"
-    },
-    {
-      "title": "Spotify tests new tool to stop AI slop from being attributed to real artists",
-      "summary": "The idea behind the new tool is to give artists more control over which tracks are associated with their name on Spotify.",
-      "source": "TechCrunch",
-      "published": "2026-03-24T20:56:25+00:00",
-      "link": "https://techcrunch.com/2026/03/24/spotify-tests-new-tool-to-stop-ai-slop-from-being-attributed-to-real-artists/"
-    },
-    {
-      "title": "Arm’s first CPU ever will plug into Meta’s AI data centers later this year",
-      "summary": "After decades of only licensing its chip designs for others to use, UK-based Arm revealed the first chip it's producing on its own, and the first customer.",
-      "source": "The Verge",
-      "published": "2026-03-24T20:43:14+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/899823/arm-agi-cpu-meta"
-    },
-    {
-      "title": "Arm’s first CPU ever will plug into Meta’s AI datacenters later this year",
-      "summary": "After decades of only licensing its chip designs for others to use, UK-based Arm revealed the first chip it's producing on its own, and the first customer.",
-      "source": "The Verge",
-      "published": "2026-03-24T20:43:14+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/899823/arm-agi-cpu-meta"
-    },
-    {
-      "title": "Databricks bought two startups to underpin its new AI security product",
-      "summary": "With an overflowing war chest from its recent $5 billion raise, Databricks is buying startups and looking for more. It acquired Antimatter and SiftD.ai.",
-      "source": "TechCrunch",
-      "published": "2026-03-24T20:40:56+00:00",
-      "link": "https://techcrunch.com/2026/03/24/databricks-buys-two-startups-lakewatch-antimatter-siftd-ai-security/"
-    },
-    {
-      "title": "Is anybody else bored of talking about AI?",
-      "summary": "Article URL: https://blog.jakesaunders.dev/is-anybody-else-bored-of-talking-about-ai/ Comments URL: https://news.ycombinator.com/item?id=47508745 Points: 742 # Comments: 525",
-      "source": "Hacker News",
-      "published": "2026-03-24T20:31:08+00:00",
-      "link": "https://blog.jakesaunders.dev/is-anybody-else-bored-of-talking-about-ai/"
-    },
-    {
-      "title": "Popular AI proxy LiteLLM got hacked with malware that spreads through Kubernetes clusters",
-      "summary": "LiteLLM, a popular open-source proxy for AI APIs, has been compromised with malware that steals credentials and spreads across cloud systems. NVIDIA AI Director Jim Fan warns this represents a new class of attacks targeting AI agents.",
-      "source": "The Decoder",
-      "published": "2026-03-24T19:40:06+00:00",
-      "link": "https://the-decoder.com/popular-ai-proxy-litellm-got-hacked-with-malware-that-spreads-through-kubernetes-clusters/"
-    },
-    {
-      "title": "OpenAI’s plans to make ChatGPT more like Amazon aren’t going so well",
-      "summary": "OpenAI says it's moving away from Instant Checkout, which allowed users to buy items directly through the ChatGPT interface.",
-      "source": "TechCrunch",
-      "published": "2026-03-24T19:27:56+00:00",
-      "link": "https://techcrunch.com/2026/03/24/openais-plans-to-make-chatgpt-more-like-amazon-arent-going-so-well/"
-    },
-    {
-      "title": "Show HN: AI Roundtable – Let 200 models debate your question",
-      "summary": "Hey HN! After the Car Wash Test post got quite a big discussion going (400+ comments, https://news.ycombinator.com/item?id=47128138), I spent the past few weeks building a tool so anyone can run these kinds of questions and get structured results.",
-      "source": "Hacker News",
-      "published": "2026-03-24T19:15:27+00:00",
-      "link": "https://opper.ai/ai-roundtable/"
-    },
-    {
-      "title": "Google TV’s new Gemini features keep fans updated on sports teams and more",
-      "summary": "Three Gemini-powered features are coming to your Google TV. This includes visual responses, deep dives, and sports briefs.",
-      "source": "TechCrunch",
-      "published": "2026-03-24T19:12:11+00:00",
-      "link": "https://techcrunch.com/2026/03/24/google-tv-new-gemini-features-keep-fans-updated-on-sports-teams-deep-dives-visual-answers/"
     }
   ]
 };
