@@ -1,5 +1,5 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-03-31T06:06:29.531022+00:00",
+  "lastUpdated": "2026-03-31T08:40:46.068887+00:00",
   "items": [
     {
       "title": "15% of Americans say they’d be willing to work for an AI boss, according to new poll",
@@ -101,7 +101,7 @@ const FEED_DATA = {
     },
     {
       "title": "The ladder is missing rungs – Engineering Progression When AI Ate the Middle",
-      "summary": "Article URL: https://negroniventurestudios.com/2026/03/19/the-ladder-is-missing-rungs/ Comments URL: https://news.ycombinator.com/item?id=47574346 Points: 83 # Comments: 40",
+      "summary": "Article URL: https://negroniventurestudios.com/2026/03/19/the-ladder-is-missing-rungs/ Comments URL: https://news.ycombinator.com/item?id=47574346 Points: 86 # Comments: 40",
       "source": "Hacker News",
       "published": "2026-03-30T13:51:31+00:00",
       "link": "https://negroniventurestudios.com/2026/03/19/the-ladder-is-missing-rungs/"
@@ -129,7 +129,7 @@ const FEED_DATA = {
     },
     {
       "title": "How the AI Bubble Bursts",
-      "summary": "Article URL: https://martinvol.pe/blog/2026/03/30/how-the-ai-bubble-bursts/ Comments URL: https://news.ycombinator.com/item?id=47573420 Points: 355 # Comments: 482",
+      "summary": "Article URL: https://martinvol.pe/blog/2026/03/30/how-the-ai-bubble-bursts/ Comments URL: https://news.ycombinator.com/item?id=47573420 Points: 362 # Comments: 488",
       "source": "Hacker News",
       "published": "2026-03-30T12:28:36+00:00",
       "link": "https://martinvol.pe/blog/2026/03/30/how-the-ai-bubble-bursts/"
@@ -171,7 +171,7 @@ const FEED_DATA = {
     },
     {
       "title": "Mathematical methods and human thought in the age of AI",
-      "summary": "Article URL: https://arxiv.org/abs/2603.26524 Comments URL: https://news.ycombinator.com/item?id=47572771 Points: 201 # Comments: 80",
+      "summary": "Article URL: https://arxiv.org/abs/2603.26524 Comments URL: https://news.ycombinator.com/item?id=47572771 Points: 202 # Comments: 85",
       "source": "Hacker News",
       "published": "2026-03-30T11:05:37+00:00",
       "link": "https://arxiv.org/abs/2603.26524"
@@ -220,7 +220,7 @@ const FEED_DATA = {
     },
     {
       "title": "I am definitely missing the pre-AI writing era",
-      "summary": "Article URL: https://www.lesswrong.com/posts/BJ4pnropWdnzzgeJc/i-am-definitely-missing-the-pre-ai-writing-era Comments URL: https://news.ycombinator.com/item?id=47571279 Points: 303 # Comments: 223",
+      "summary": "Article URL: https://www.lesswrong.com/posts/BJ4pnropWdnzzgeJc/i-am-definitely-missing-the-pre-ai-writing-era Comments URL: https://news.ycombinator.com/item?id=47571279 Points: 305 # Comments: 224",
       "source": "Hacker News",
       "published": "2026-03-30T07:03:18+00:00",
       "link": "https://www.lesswrong.com/posts/BJ4pnropWdnzzgeJc/i-am-definitely-missing-the-pre-ai-writing-era"
@@ -248,7 +248,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI isn't killing jobs, it's 'unbundling' them into lower-paid chunks",
-      "summary": "Article URL: https://www.theregister.com/2026/03/24/ai_job_unbundling/ Comments URL: https://news.ycombinator.com/item?id=47567183 Points: 53 # Comments: 33",
+      "summary": "Article URL: https://www.theregister.com/2026/03/24/ai_job_unbundling/ Comments URL: https://news.ycombinator.com/item?id=47567183 Points: 54 # Comments: 33",
       "source": "Hacker News",
       "published": "2026-03-29T20:51:55+00:00",
       "link": "https://www.theregister.com/2026/03/24/ai_job_unbundling/"
@@ -283,7 +283,7 @@ const FEED_DATA = {
     },
     {
       "title": "Police used AI facial recognition to wrongly arrest TN woman for crimes in ND",
-      "summary": "Article URL: https://www.cnn.com/2026/03/29/us/angela-lipps-ai-facial-recognition Comments URL: https://news.ycombinator.com/item?id=47563384 Points: 431 # Comments: 196",
+      "summary": "Article URL: https://www.cnn.com/2026/03/29/us/angela-lipps-ai-facial-recognition Comments URL: https://news.ycombinator.com/item?id=47563384 Points: 433 # Comments: 198",
       "source": "Hacker News",
       "published": "2026-03-29T14:20:23+00:00",
       "link": "https://www.cnn.com/2026/03/29/us/angela-lipps-ai-facial-recognition"
@@ -297,7 +297,7 @@ const FEED_DATA = {
     },
     {
       "title": "Miasma: A tool to trap AI web scrapers in an endless poison pit",
-      "summary": "Article URL: https://github.com/austin-weeks/miasma Comments URL: https://news.ycombinator.com/item?id=47561819 Points: 340 # Comments: 243",
+      "summary": "Article URL: https://github.com/austin-weeks/miasma Comments URL: https://news.ycombinator.com/item?id=47561819 Points: 341 # Comments: 243",
       "source": "Hacker News",
       "published": "2026-03-29T10:10:12+00:00",
       "link": "https://github.com/austin-weeks/miasma"
@@ -409,7 +409,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI overly affirms users asking for personal advice",
-      "summary": "https://arxiv.org/abs/2602.14270https://www.science.org/doi/10.1126/science.aec8352 Comments URL: https://news.ycombinator.com/item?id=47554773 Points: 782 # Comments: 608",
+      "summary": "https://arxiv.org/abs/2602.14270https://www.science.org/doi/10.1126/science.aec8352 Comments URL: https://news.ycombinator.com/item?id=47554773 Points: 783 # Comments: 609",
       "source": "Hacker News",
       "published": "2026-03-28T14:08:33+00:00",
       "link": "https://news.stanford.edu/stories/2026/03/ai-advice-sycophantic-models-research"
