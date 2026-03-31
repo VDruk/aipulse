@@ -1,6 +1,41 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-03-31T19:58:10.055969+00:00",
+  "lastUpdated": "2026-03-31T22:53:51.663938+00:00",
   "items": [
+    {
+      "title": "Salesforce announces an AI-heavy makeover for Slack, with 30 new features",
+      "summary": "Slack just got a whole lot more useful.",
+      "source": "TechCrunch",
+      "published": "2026-03-31T22:46:25+00:00",
+      "link": "https://techcrunch.com/2026/03/31/salesforce-announces-an-ai-heavy-makeover-for-slack-with-30-new-features/"
+    },
+    {
+      "title": "Claude Code leak exposes a Tamagotchi-style ‘pet’ and an always-on agent",
+      "summary": "After Anthropic released Claude Code's 2.1.88 update, users quickly discovered that it contained a package with a source map file containing its TypeScript codebase, with one person on X calling attention to the leak and posting a file containing the code.",
+      "source": "The Verge",
+      "published": "2026-03-31T22:24:19+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/904776/anthropic-claude-source-code-leak"
+    },
+    {
+      "title": "OpenAI, not yet public, raises $3B from retail investors in monster $122B fund raise",
+      "summary": "OpenAI's latest funding round, led by Amazon, Nvidia, and SoftBank, values the AI lab at $852 billion as it nears an IPO.",
+      "source": "TechCrunch",
+      "published": "2026-03-31T21:25:04+00:00",
+      "link": "https://techcrunch.com/2026/03/31/openai-not-yet-public-raises-3b-from-retail-investors-in-monster-122b-fund-raise/"
+    },
+    {
+      "title": "You can now use ChatGPT with Apple’s CarPlay",
+      "summary": "ChatGPT is now accessible from your CarPlay dashboard if you have iOS 26.4 or newer and the latest version of the ChatGPT app, 9to5Mac reports.",
+      "source": "The Verge",
+      "published": "2026-03-31T21:03:18+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/904676/apple-carplay-openai-chatgpt"
+    },
+    {
+      "title": "Yupp shuts down after raising $33M from a16z crypto’s Chris Dixon",
+      "summary": "Less than a year after launching, with checks from some of the biggest names in Silicon Valley, crowdsourced AI model feedback startup Yupp is closing its business, the company said Tuesday.",
+      "source": "TechCrunch",
+      "published": "2026-03-31T20:01:07+00:00",
+      "link": "https://techcrunch.com/2026/03/31/yupp-ai-shuts-down-33m-a16z-crypto-chris-dixon/"
+    },
     {
       "title": "Oracle reportedly lays off thousands of employees to bankroll its massive AI infrastructure bet",
       "summary": "Oracle is cutting thousands of jobs to fund its massive AI data center buildout. With the stock down 25 percent and debt mounting, the company is banking on billions in guaranteed revenue, including a $455 billion order from OpenAI.",
@@ -248,7 +283,7 @@ const FEED_DATA = {
     },
     {
       "title": "The ladder is missing rungs – Engineering Progression When AI Ate the Middle",
-      "summary": "Article URL: https://negroniventurestudios.com/2026/03/19/the-ladder-is-missing-rungs/ Comments URL: https://news.ycombinator.com/item?id=47574346 Points: 92 # Comments: 49",
+      "summary": "Article URL: https://negroniventurestudios.com/2026/03/19/the-ladder-is-missing-rungs/ Comments URL: https://news.ycombinator.com/item?id=47574346 Points: 93 # Comments: 51",
       "source": "Hacker News",
       "published": "2026-03-30T13:51:31+00:00",
       "link": "https://negroniventurestudios.com/2026/03/19/the-ladder-is-missing-rungs/"
@@ -276,7 +311,7 @@ const FEED_DATA = {
     },
     {
       "title": "How the AI Bubble Bursts",
-      "summary": "Article URL: https://martinvol.pe/blog/2026/03/30/how-the-ai-bubble-bursts/ Comments URL: https://news.ycombinator.com/item?id=47573420 Points: 367 # Comments: 512",
+      "summary": "Article URL: https://martinvol.pe/blog/2026/03/30/how-the-ai-bubble-bursts/ Comments URL: https://news.ycombinator.com/item?id=47573420 Points: 368 # Comments: 514",
       "source": "Hacker News",
       "published": "2026-03-30T12:28:36+00:00",
       "link": "https://martinvol.pe/blog/2026/03/30/how-the-ai-bubble-bursts/"
@@ -318,7 +353,7 @@ const FEED_DATA = {
     },
     {
       "title": "Mathematical methods and human thought in the age of AI",
-      "summary": "Article URL: https://arxiv.org/abs/2603.26524 Comments URL: https://news.ycombinator.com/item?id=47572771 Points: 209 # Comments: 88",
+      "summary": "Article URL: https://arxiv.org/abs/2603.26524 Comments URL: https://news.ycombinator.com/item?id=47572771 Points: 211 # Comments: 88",
       "source": "Hacker News",
       "published": "2026-03-30T11:05:37+00:00",
       "link": "https://arxiv.org/abs/2603.26524"
@@ -367,7 +402,7 @@ const FEED_DATA = {
     },
     {
       "title": "I am definitely missing the pre-AI writing era",
-      "summary": "Article URL: https://www.lesswrong.com/posts/BJ4pnropWdnzzgeJc/i-am-definitely-missing-the-pre-ai-writing-era Comments URL: https://news.ycombinator.com/item?id=47571279 Points: 311 # Comments: 234",
+      "summary": "Article URL: https://www.lesswrong.com/posts/BJ4pnropWdnzzgeJc/i-am-definitely-missing-the-pre-ai-writing-era Comments URL: https://news.ycombinator.com/item?id=47571279 Points: 312 # Comments: 235",
       "source": "Hacker News",
       "published": "2026-03-30T07:03:18+00:00",
       "link": "https://www.lesswrong.com/posts/BJ4pnropWdnzzgeJc/i-am-definitely-missing-the-pre-ai-writing-era"
@@ -430,7 +465,7 @@ const FEED_DATA = {
     },
     {
       "title": "Police used AI facial recognition to wrongly arrest TN woman for crimes in ND",
-      "summary": "Article URL: https://www.cnn.com/2026/03/29/us/angela-lipps-ai-facial-recognition Comments URL: https://news.ycombinator.com/item?id=47563384 Points: 439 # Comments: 200",
+      "summary": "Article URL: https://www.cnn.com/2026/03/29/us/angela-lipps-ai-facial-recognition Comments URL: https://news.ycombinator.com/item?id=47563384 Points: 440 # Comments: 200",
       "source": "Hacker News",
       "published": "2026-03-29T14:20:23+00:00",
       "link": "https://www.cnn.com/2026/03/29/us/angela-lipps-ai-facial-recognition"
@@ -483,6 +518,13 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-03-28T23:00:00+00:00",
       "link": "https://techcrunch.com/2026/03/28/bluesky-leans-into-ai-with-attie-an-app-for-building-custom-feeds/"
+    },
+    {
+      "title": "From 300KB to 69KB per Token: How LLM Architectures Solve the KV Cache Problem",
+      "summary": "Article URL: https://news.future-shock.ai/the-weight-of-remembering/ Comments URL: https://news.ycombinator.com/item?id=47558733 Points: 68 # Comments: 5",
+      "source": "Hacker News",
+      "published": "2026-03-28T22:42:23+00:00",
+      "link": "https://news.future-shock.ai/the-weight-of-remembering/"
     },
     {
       "title": "Stanford study outlines dangers of asking AI chatbots for personal advice",
@@ -563,7 +605,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI overly affirms users asking for personal advice",
-      "summary": "https://arxiv.org/abs/2602.14270https://www.science.org/doi/10.1126/science.aec8352 Comments URL: https://news.ycombinator.com/item?id=47554773 Points: 785 # Comments: 611",
+      "summary": "https://arxiv.org/abs/2602.14270https://www.science.org/doi/10.1126/science.aec8352 Comments URL: https://news.ycombinator.com/item?id=47554773 Points: 785 # Comments: 612",
       "source": "Hacker News",
       "published": "2026-03-28T14:08:33+00:00",
       "link": "https://news.stanford.edu/stories/2026/03/ai-advice-sycophantic-models-research"
@@ -1358,48 +1400,6 @@ const FEED_DATA = {
       "source": "MIT Tech Review",
       "published": "2026-03-25T11:48:13+00:00",
       "link": "https://www.technologyreview.com/2026/03/25/1134516/agentic-commerce-runs-on-truth-and-context/"
-    },
-    {
-      "title": "Anthropic’s Claude Code gets ‘safer’ auto mode",
-      "summary": "Anthropic has launched an \"auto mode\" for Claude Code, a new tool that lets AI make permissions-level decisions on users' behalf. The company says the feature offers vibe coders a safer alternative between constant handholding or giving the model dangerous levels of autonomy.",
-      "source": "The Verge",
-      "published": "2026-03-25T11:39:46+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/900201/anthropic-claude-code-auto-mode"
-    },
-    {
-      "title": "Lucid Bots raises $20M to keep up with demand for its window-washing drones",
-      "summary": "Lucid Bots has seen demand accelerate over the last year for its window-cleaning drones and power-washing robots.",
-      "source": "TechCrunch",
-      "published": "2026-03-25T11:00:00+00:00",
-      "link": "https://techcrunch.com/2026/03/25/lucid-bots-raises-20m-to-keep-up-with-demand-for-its-window-washing-drones/"
-    },
-    {
-      "title": "Disney pulls out of OpenAI partnership after Sora app and API gets killed just months after launch",
-      "summary": "OpenAI is shutting down its Sora app and API. Disney is now walking away from the billion-dollar deal the two companies signed just last December.",
-      "source": "The Decoder",
-      "published": "2026-03-25T10:52:09+00:00",
-      "link": "https://the-decoder.com/disney-pulls-out-of-openai-partnership-after-sora-app-and-api-gets-killed-just-months-after-launch/"
-    },
-    {
-      "title": "I tried to prove I'm not AI. My aunt wasn't convinced",
-      "summary": "Article URL: https://www.bbc.com/future/article/20260324-i-tried-to-prove-im-not-an-ai-deepfake Comments URL: https://news.ycombinator.com/item?id=47515502 Points: 176 # Comments: 199",
-      "source": "Hacker News",
-      "published": "2026-03-25T10:28:49+00:00",
-      "link": "https://www.bbc.com/future/article/20260324-i-tried-to-prove-im-not-an-ai-deepfake"
-    },
-    {
-      "title": "OpenAI expands its record funding round to over $120 billion as it eyes a potential IPO later this year",
-      "summary": "OpenAI adds another 10 billion dollars to its record financing round, bringing the total past 120 billion dollars ahead of a potential IPO.",
-      "source": "The Decoder",
-      "published": "2026-03-25T10:16:14+00:00",
-      "link": "https://the-decoder.com/openai-expands-its-record-funding-round-to-over-120-billion-as-it-eyes-a-potential-ipo-later-this-year/"
-    },
-    {
-      "title": "AI agents enter banking roles at Bank of America",
-      "summary": "AI agents are starting to take on a more direct role in how financial advice is delivered, as large banks move into systems that support client interactions.",
-      "source": "AI News",
-      "published": "2026-03-25T10:00:00+00:00",
-      "link": "https://www.artificialintelligence-news.com/news/ai-agents-enter-banking-roles-at-bank-of-america/"
     }
   ]
 };
