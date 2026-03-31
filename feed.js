@@ -1,6 +1,48 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-03-31T16:35:45.620103+00:00",
+  "lastUpdated": "2026-03-31T19:58:10.055969+00:00",
   "items": [
+    {
+      "title": "Oracle reportedly lays off thousands of employees to bankroll its massive AI infrastructure bet",
+      "summary": "Oracle is cutting thousands of jobs to fund its massive AI data center buildout. With the stock down 25 percent and debt mounting, the company is banking on billions in guaranteed revenue, including a $455 billion order from OpenAI.",
+      "source": "The Decoder",
+      "published": "2026-03-31T18:54:01+00:00",
+      "link": "https://the-decoder.com/oracle-reportedly-lays-off-thousands-of-employees-to-bankroll-its-massive-ai-infrastructure-bet/"
+    },
+    {
+      "title": "Anthropic accidentally publishes Claude Code source code for anyone to find",
+      "summary": "Anthropic can't catch a break: Following the recent leak of internal blog posts on its new Mythos AI model, parts of the source code for its AI coding tool Claude Code have now been made public.",
+      "source": "The Decoder",
+      "published": "2026-03-31T18:25:42+00:00",
+      "link": "https://the-decoder.com/anthropic-accidentally-publishes-claude-code-source-code-for-anyone-to-find/"
+    },
+    {
+      "title": "The Galaxy S26’s photo app can sloppify your memories",
+      "summary": "The Google Pixel 9 walked so that the Samsung Galaxy S26 could run. Google introduced AI editing tools to Photos slowly.",
+      "source": "The Verge",
+      "published": "2026-03-31T18:15:00+00:00",
+      "link": "https://www.theverge.com/tech/904176/samsung-galaxy-s26-ai-photo-assist-slop"
+    },
+    {
+      "title": "Google's Veo 3.1 Lite cuts video generation costs by more than half",
+      "summary": "Google makes AI video generation cheaper: Veo 3.1 Lite costs less than half the price of its next cheapest model while matching its speed. The article Google's Veo 3.1 Lite cuts video generation costs by more than half appeared first on The Decoder.",
+      "source": "The Decoder",
+      "published": "2026-03-31T18:04:09+00:00",
+      "link": "https://the-decoder.com/googles-veo-3-1-lite-cuts-video-generation-costs-by-more-than-half/"
+    },
+    {
+      "title": "Alexa+ gets new food ordering experiences with Uber Eats and Grubhub",
+      "summary": "You can now order from Uber Eats and Grubhub using Alexa+, an experience Amazon says will be similar to chatting with a waiter at a restaurant or placing an order at a drive-thru.",
+      "source": "TechCrunch",
+      "published": "2026-03-31T17:41:35+00:00",
+      "link": "https://techcrunch.com/2026/03/31/alexa-plus-new-food-ordering-experiences-with-uber-eats-and-grubhub/"
+    },
+    {
+      "title": "Frontier Radar #2: Why AI productivity gets lost between benchmarks and the balance sheet",
+      "summary": "Generative AI leads to measurable time savings on many tasks. But a gap remains between faster task completion and measurable economic impact.",
+      "source": "The Decoder",
+      "published": "2026-03-31T16:43:00+00:00",
+      "link": "https://the-decoder.com/frontier-radar-2-why-ai-productivity-gets-lost-between-benchmarks-and-the-balance-sheet/"
+    },
     {
       "title": "SAP and ANYbotics drive industrial adoption of physical AI",
       "summary": "Heavy industry relies on people to inspect hazardous, dirty facilities. It’s expensive, and putting humans in these zones carries obvious safety risks.",
@@ -30,7 +72,7 @@ const FEED_DATA = {
       "link": "https://www.technologyreview.com/2026/03/31/1134762/shifting-to-ai-model-customization-is-an-architectural-imperative/"
     },
     {
-      "title": "Exclusive: Runway launches $10M fund, Builders program to support early stage AI startups",
+      "title": "Exclusive: Runway launches $10M fund, Builders program to support early-stage AI startups",
       "summary": "Runway is launching a $10 million fund and startup program to back companies building with its AI video models, as it pushes toward interactive, real-time “video intelligence” applications.",
       "source": "TechCrunch",
       "published": "2026-03-31T14:00:00+00:00",
@@ -206,7 +248,7 @@ const FEED_DATA = {
     },
     {
       "title": "The ladder is missing rungs – Engineering Progression When AI Ate the Middle",
-      "summary": "Article URL: https://negroniventurestudios.com/2026/03/19/the-ladder-is-missing-rungs/ Comments URL: https://news.ycombinator.com/item?id=47574346 Points: 91 # Comments: 45",
+      "summary": "Article URL: https://negroniventurestudios.com/2026/03/19/the-ladder-is-missing-rungs/ Comments URL: https://news.ycombinator.com/item?id=47574346 Points: 92 # Comments: 49",
       "source": "Hacker News",
       "published": "2026-03-30T13:51:31+00:00",
       "link": "https://negroniventurestudios.com/2026/03/19/the-ladder-is-missing-rungs/"
@@ -234,7 +276,7 @@ const FEED_DATA = {
     },
     {
       "title": "How the AI Bubble Bursts",
-      "summary": "Article URL: https://martinvol.pe/blog/2026/03/30/how-the-ai-bubble-bursts/ Comments URL: https://news.ycombinator.com/item?id=47573420 Points: 365 # Comments: 504",
+      "summary": "Article URL: https://martinvol.pe/blog/2026/03/30/how-the-ai-bubble-bursts/ Comments URL: https://news.ycombinator.com/item?id=47573420 Points: 367 # Comments: 512",
       "source": "Hacker News",
       "published": "2026-03-30T12:28:36+00:00",
       "link": "https://martinvol.pe/blog/2026/03/30/how-the-ai-bubble-bursts/"
@@ -276,7 +318,7 @@ const FEED_DATA = {
     },
     {
       "title": "Mathematical methods and human thought in the age of AI",
-      "summary": "Article URL: https://arxiv.org/abs/2603.26524 Comments URL: https://news.ycombinator.com/item?id=47572771 Points: 207 # Comments: 88",
+      "summary": "Article URL: https://arxiv.org/abs/2603.26524 Comments URL: https://news.ycombinator.com/item?id=47572771 Points: 209 # Comments: 88",
       "source": "Hacker News",
       "published": "2026-03-30T11:05:37+00:00",
       "link": "https://arxiv.org/abs/2603.26524"
@@ -325,7 +367,7 @@ const FEED_DATA = {
     },
     {
       "title": "I am definitely missing the pre-AI writing era",
-      "summary": "Article URL: https://www.lesswrong.com/posts/BJ4pnropWdnzzgeJc/i-am-definitely-missing-the-pre-ai-writing-era Comments URL: https://news.ycombinator.com/item?id=47571279 Points: 310 # Comments: 231",
+      "summary": "Article URL: https://www.lesswrong.com/posts/BJ4pnropWdnzzgeJc/i-am-definitely-missing-the-pre-ai-writing-era Comments URL: https://news.ycombinator.com/item?id=47571279 Points: 311 # Comments: 234",
       "source": "Hacker News",
       "published": "2026-03-30T07:03:18+00:00",
       "link": "https://www.lesswrong.com/posts/BJ4pnropWdnzzgeJc/i-am-definitely-missing-the-pre-ai-writing-era"
@@ -388,7 +430,7 @@ const FEED_DATA = {
     },
     {
       "title": "Police used AI facial recognition to wrongly arrest TN woman for crimes in ND",
-      "summary": "Article URL: https://www.cnn.com/2026/03/29/us/angela-lipps-ai-facial-recognition Comments URL: https://news.ycombinator.com/item?id=47563384 Points: 438 # Comments: 199",
+      "summary": "Article URL: https://www.cnn.com/2026/03/29/us/angela-lipps-ai-facial-recognition Comments URL: https://news.ycombinator.com/item?id=47563384 Points: 439 # Comments: 200",
       "source": "Hacker News",
       "published": "2026-03-29T14:20:23+00:00",
       "link": "https://www.cnn.com/2026/03/29/us/angela-lipps-ai-facial-recognition"
@@ -402,7 +444,7 @@ const FEED_DATA = {
     },
     {
       "title": "Miasma: A tool to trap AI web scrapers in an endless poison pit",
-      "summary": "Article URL: https://github.com/austin-weeks/miasma Comments URL: https://news.ycombinator.com/item?id=47561819 Points: 343 # Comments: 244",
+      "summary": "Article URL: https://github.com/austin-weeks/miasma Comments URL: https://news.ycombinator.com/item?id=47561819 Points: 343 # Comments: 245",
       "source": "Hacker News",
       "published": "2026-03-29T10:10:12+00:00",
       "link": "https://github.com/austin-weeks/miasma"
@@ -521,7 +563,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI overly affirms users asking for personal advice",
-      "summary": "https://arxiv.org/abs/2602.14270https://www.science.org/doi/10.1126/science.aec8352 Comments URL: https://news.ycombinator.com/item?id=47554773 Points: 783 # Comments: 611",
+      "summary": "https://arxiv.org/abs/2602.14270https://www.science.org/doi/10.1126/science.aec8352 Comments URL: https://news.ycombinator.com/item?id=47554773 Points: 785 # Comments: 611",
       "source": "Hacker News",
       "published": "2026-03-28T14:08:33+00:00",
       "link": "https://news.stanford.edu/stories/2026/03/ai-advice-sycophantic-models-research"
@@ -1358,48 +1400,6 @@ const FEED_DATA = {
       "source": "AI News",
       "published": "2026-03-25T10:00:00+00:00",
       "link": "https://www.artificialintelligence-news.com/news/ai-agents-enter-banking-roles-at-bank-of-america/"
-    },
-    {
-      "title": "Arm’s CEO Insists the Market Needs His New CPU. It Could Piss Everyone Off",
-      "summary": "Arm just confirmed the rumors: It’s producing its own chip for the first time. CEO Rene Haas explains why this won’t alienate the many chipmakers who license the company’s designs.",
-      "source": "Wired",
-      "published": "2026-03-25T10:00:00+00:00",
-      "link": "https://www.wired.com/story/arms-ceo-insists-the-market-needs-his-new-cpu-it-could-piss-everyone-off/"
-    },
-    {
-      "title": "Claude Code's new Auto Mode tries to balance safety and speed",
-      "summary": "Developers using Claude Code have faced an awkward choice: approve every single action manually or turn off all safety checks entirely. Anthropic's new Auto Mode aims to offer a middle ground.",
-      "source": "The Decoder",
-      "published": "2026-03-25T09:56:16+00:00",
-      "link": "https://the-decoder.com/claude-codes-new-auto-mode-tries-to-balance-safety-and-speed/"
-    },
-    {
-      "title": "The AI Hype Index: AI goes to war",
-      "summary": "AI is at war. Anthropic and the Pentagon feuded over how to weaponize Anthropic’s AI model Claude; then OpenAI swept the Pentagon off its feet with an “opportunistic and sloppy” deal.",
-      "source": "MIT Tech Review",
-      "published": "2026-03-25T09:00:00+00:00",
-      "link": "https://www.technologyreview.com/2026/03/25/1134571/the-ai-hype-index-ai-goes-to-war/"
-    },
-    {
-      "title": "TurboQuant: Redefining AI efficiency with extreme compression",
-      "summary": "Article URL: https://research.google/blog/turboquant-redefining-ai-efficiency-with-extreme-compression/ Comments URL: https://news.ycombinator.com/item?id=47513475 Points: 559 # Comments: 160",
-      "source": "Hacker News",
-      "published": "2026-03-25T05:00:54+00:00",
-      "link": "https://research.google/blog/turboquant-redefining-ai-efficiency-with-extreme-compression/"
-    },
-    {
-      "title": "With $3.5B in fresh capital, Kleiner Perkins is going all in on AI",
-      "summary": "The fundraise includes $1 billion for investing in early-stage startups and $2.5 billion for late-stage growth businesses.",
-      "source": "TechCrunch",
-      "published": "2026-03-25T00:47:20+00:00",
-      "link": "https://techcrunch.com/2026/03/24/with-3-5b-in-fresh-capital-kleiner-perkins-is-going-all-in-on-ai/"
-    },
-    {
-      "title": "OpenAI’s Sora was the creepiest app on your phone — now it’s shutting down",
-      "summary": "Though the underlying Sora 2 video- and audio-generation model is scarily impressive, there was not sustained interest in an AI-only social feed.",
-      "source": "TechCrunch",
-      "published": "2026-03-24T23:57:55+00:00",
-      "link": "https://techcrunch.com/2026/03/24/openais-sora-was-the-creepiest-app-on-your-phone-now-its-shutting-down/"
     }
   ]
 };
