@@ -1,6 +1,20 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-03-31T22:53:51.663938+00:00",
+  "lastUpdated": "2026-04-01T06:18:41.523090+00:00",
   "items": [
+    {
+      "title": "Mercor says it was hit by cyberattack tied to compromise of open-source LiteLLM project",
+      "summary": "The AI recruiting startup confirmed a security incident after an extortion hacking crew took credit for stealing data from the company's systems.",
+      "source": "TechCrunch",
+      "published": "2026-04-01T01:42:59+00:00",
+      "link": "https://techcrunch.com/2026/03/31/mercor-says-it-was-hit-by-cyberattack-tied-to-compromise-of-open-source-litellm-project/"
+    },
+    {
+      "title": "Anthropic is having a month",
+      "summary": "A human really borks things at Anthropic for the second time this week.",
+      "source": "TechCrunch",
+      "published": "2026-03-31T23:58:26+00:00",
+      "link": "https://techcrunch.com/2026/03/31/anthropic-is-having-a-month/"
+    },
     {
       "title": "Salesforce announces an AI-heavy makeover for Slack, with 30 new features",
       "summary": "Slack just got a whole lot more useful.",
@@ -283,7 +297,7 @@ const FEED_DATA = {
     },
     {
       "title": "The ladder is missing rungs – Engineering Progression When AI Ate the Middle",
-      "summary": "Article URL: https://negroniventurestudios.com/2026/03/19/the-ladder-is-missing-rungs/ Comments URL: https://news.ycombinator.com/item?id=47574346 Points: 93 # Comments: 51",
+      "summary": "Article URL: https://negroniventurestudios.com/2026/03/19/the-ladder-is-missing-rungs/ Comments URL: https://news.ycombinator.com/item?id=47574346 Points: 94 # Comments: 51",
       "source": "Hacker News",
       "published": "2026-03-30T13:51:31+00:00",
       "link": "https://negroniventurestudios.com/2026/03/19/the-ladder-is-missing-rungs/"
@@ -311,7 +325,7 @@ const FEED_DATA = {
     },
     {
       "title": "How the AI Bubble Bursts",
-      "summary": "Article URL: https://martinvol.pe/blog/2026/03/30/how-the-ai-bubble-bursts/ Comments URL: https://news.ycombinator.com/item?id=47573420 Points: 368 # Comments: 514",
+      "summary": "Article URL: https://martinvol.pe/blog/2026/03/30/how-the-ai-bubble-bursts/ Comments URL: https://news.ycombinator.com/item?id=47573420 Points: 369 # Comments: 516",
       "source": "Hacker News",
       "published": "2026-03-30T12:28:36+00:00",
       "link": "https://martinvol.pe/blog/2026/03/30/how-the-ai-bubble-bursts/"
@@ -353,7 +367,7 @@ const FEED_DATA = {
     },
     {
       "title": "Mathematical methods and human thought in the age of AI",
-      "summary": "Article URL: https://arxiv.org/abs/2603.26524 Comments URL: https://news.ycombinator.com/item?id=47572771 Points: 211 # Comments: 88",
+      "summary": "Article URL: https://arxiv.org/abs/2603.26524 Comments URL: https://news.ycombinator.com/item?id=47572771 Points: 212 # Comments: 90",
       "source": "Hacker News",
       "published": "2026-03-30T11:05:37+00:00",
       "link": "https://arxiv.org/abs/2603.26524"
@@ -402,7 +416,7 @@ const FEED_DATA = {
     },
     {
       "title": "I am definitely missing the pre-AI writing era",
-      "summary": "Article URL: https://www.lesswrong.com/posts/BJ4pnropWdnzzgeJc/i-am-definitely-missing-the-pre-ai-writing-era Comments URL: https://news.ycombinator.com/item?id=47571279 Points: 312 # Comments: 235",
+      "summary": "Article URL: https://www.lesswrong.com/posts/BJ4pnropWdnzzgeJc/i-am-definitely-missing-the-pre-ai-writing-era Comments URL: https://news.ycombinator.com/item?id=47571279 Points: 315 # Comments: 235",
       "source": "Hacker News",
       "published": "2026-03-30T07:03:18+00:00",
       "link": "https://www.lesswrong.com/posts/BJ4pnropWdnzzgeJc/i-am-definitely-missing-the-pre-ai-writing-era"
@@ -430,7 +444,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI isn't killing jobs, it's 'unbundling' them into lower-paid chunks",
-      "summary": "Article URL: https://www.theregister.com/2026/03/24/ai_job_unbundling/ Comments URL: https://news.ycombinator.com/item?id=47567183 Points: 55 # Comments: 33",
+      "summary": "Article URL: https://www.theregister.com/2026/03/24/ai_job_unbundling/ Comments URL: https://news.ycombinator.com/item?id=47567183 Points: 56 # Comments: 33",
       "source": "Hacker News",
       "published": "2026-03-29T20:51:55+00:00",
       "link": "https://www.theregister.com/2026/03/24/ai_job_unbundling/"
@@ -465,7 +479,7 @@ const FEED_DATA = {
     },
     {
       "title": "Police used AI facial recognition to wrongly arrest TN woman for crimes in ND",
-      "summary": "Article URL: https://www.cnn.com/2026/03/29/us/angela-lipps-ai-facial-recognition Comments URL: https://news.ycombinator.com/item?id=47563384 Points: 440 # Comments: 200",
+      "summary": "Article URL: https://www.cnn.com/2026/03/29/us/angela-lipps-ai-facial-recognition Comments URL: https://news.ycombinator.com/item?id=47563384 Points: 442 # Comments: 203",
       "source": "Hacker News",
       "published": "2026-03-29T14:20:23+00:00",
       "link": "https://www.cnn.com/2026/03/29/us/angela-lipps-ai-facial-recognition"
@@ -479,14 +493,14 @@ const FEED_DATA = {
     },
     {
       "title": "Miasma: A tool to trap AI web scrapers in an endless poison pit",
-      "summary": "Article URL: https://github.com/austin-weeks/miasma Comments URL: https://news.ycombinator.com/item?id=47561819 Points: 343 # Comments: 245",
+      "summary": "Article URL: https://github.com/austin-weeks/miasma Comments URL: https://news.ycombinator.com/item?id=47561819 Points: 345 # Comments: 245",
       "source": "Hacker News",
       "published": "2026-03-29T10:10:12+00:00",
       "link": "https://github.com/austin-weeks/miasma"
     },
     {
       "title": "What if AI doesn't need more RAM but better math?",
-      "summary": "Article URL: https://adlrocha.substack.com/p/adlrocha-what-if-ai-doesnt-need-more Comments URL: https://news.ycombinator.com/item?id=47561297 Points: 186 # Comments: 101",
+      "summary": "Article URL: https://adlrocha.substack.com/p/adlrocha-what-if-ai-doesnt-need-more Comments URL: https://news.ycombinator.com/item?id=47561297 Points: 188 # Comments: 101",
       "source": "Hacker News",
       "published": "2026-03-29T08:18:55+00:00",
       "link": "https://adlrocha.substack.com/p/adlrocha-what-if-ai-doesnt-need-more"
@@ -521,7 +535,7 @@ const FEED_DATA = {
     },
     {
       "title": "From 300KB to 69KB per Token: How LLM Architectures Solve the KV Cache Problem",
-      "summary": "Article URL: https://news.future-shock.ai/the-weight-of-remembering/ Comments URL: https://news.ycombinator.com/item?id=47558733 Points: 68 # Comments: 5",
+      "summary": "Article URL: https://news.future-shock.ai/the-weight-of-remembering/ Comments URL: https://news.ycombinator.com/item?id=47558733 Points: 106 # Comments: 9",
       "source": "Hacker News",
       "published": "2026-03-28T22:42:23+00:00",
       "link": "https://news.future-shock.ai/the-weight-of-remembering/"
@@ -535,7 +549,7 @@ const FEED_DATA = {
     },
     {
       "title": "The first 40 months of the AI era",
-      "summary": "Article URL: https://lzon.ca/posts/other/thoughts-ai-era/ Comments URL: https://news.ycombinator.com/item?id=47557185 Points: 214 # Comments: 144",
+      "summary": "Article URL: https://lzon.ca/posts/other/thoughts-ai-era/ Comments URL: https://news.ycombinator.com/item?id=47557185 Points: 215 # Comments: 144",
       "source": "Hacker News",
       "published": "2026-03-28T18:42:08+00:00",
       "link": "https://lzon.ca/posts/other/thoughts-ai-era/"
@@ -577,7 +591,7 @@ const FEED_DATA = {
     },
     {
       "title": "Folk are getting dangerously attached to AI that always tells them they're right",
-      "summary": "Article URL: https://www.theregister.com/2026/03/27/sycophantic_ai_risks/ Comments URL: https://news.ycombinator.com/item?id=47555090 Points: 286 # Comments: 224",
+      "summary": "Article URL: https://www.theregister.com/2026/03/27/sycophantic_ai_risks/ Comments URL: https://news.ycombinator.com/item?id=47555090 Points: 287 # Comments: 224",
       "source": "Hacker News",
       "published": "2026-03-28T14:49:25+00:00",
       "link": "https://www.theregister.com/2026/03/27/sycophantic_ai_risks/"
@@ -605,7 +619,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI overly affirms users asking for personal advice",
-      "summary": "https://arxiv.org/abs/2602.14270https://www.science.org/doi/10.1126/science.aec8352 Comments URL: https://news.ycombinator.com/item?id=47554773 Points: 785 # Comments: 612",
+      "summary": "https://arxiv.org/abs/2602.14270https://www.science.org/doi/10.1126/science.aec8352 Comments URL: https://news.ycombinator.com/item?id=47554773 Points: 787 # Comments: 612",
       "source": "Hacker News",
       "published": "2026-03-28T14:08:33+00:00",
       "link": "https://news.stanford.edu/stories/2026/03/ai-advice-sycophantic-models-research"
@@ -654,7 +668,7 @@ const FEED_DATA = {
     },
     {
       "title": "Adults Lose Skills to AI. Children Never Build Them",
-      "summary": "Article URL: https://www.psychologytoday.com/us/blog/the-algorithmic-mind/202603/adults-lose-skills-to-ai-children-never-build-them Comments URL: https://news.ycombinator.com/item?id=47552617 Points: 98 # Comments: 87",
+      "summary": "Article URL: https://www.psychologytoday.com/us/blog/the-algorithmic-mind/202603/adults-lose-skills-to-ai-children-never-build-them Comments URL: https://news.ycombinator.com/item?id=47552617 Points: 99 # Comments: 87",
       "source": "Hacker News",
       "published": "2026-03-28T08:17:52+00:00",
       "link": "https://www.psychologytoday.com/us/blog/the-algorithmic-mind/202603/adults-lose-skills-to-ai-children-never-build-them"
@@ -1386,20 +1400,6 @@ const FEED_DATA = {
       "source": "MIT Tech Review",
       "published": "2026-03-25T12:47:44+00:00",
       "link": "https://www.technologyreview.com/2026/03/25/1134636/the-download-reawakening-frozen-brains-and-the-ai-hype-index-returns/"
-    },
-    {
-      "title": "OpenAI CEO Sam Altman reportedly teases a \"very strong\" model internally that can \"really accelerate the economy\"",
-      "summary": "OpenAI has reportedly finished pretraining its next major AI model, codenamed \"Spud.\" CEO Sam Altman says it can \"really accelerate the economy.\" The article OpenAI CEO Sam Altman reportedly teases a \"very strong\" model internally that can \"really accelerate the economy\"...",
-      "source": "The Decoder",
-      "published": "2026-03-25T12:19:41+00:00",
-      "link": "https://the-decoder.com/openai-ceo-sam-altman-reportedly-teases-a-very-strong-model-internally-that-can-really-accelerate-the-economy/"
-    },
-    {
-      "title": "Agentic commerce runs on truth and context",
-      "summary": "Imagine telling a digital agent, “Use my points and book a family trip to Italy. Keep it within budget, pick hotels we’ve liked before, and handle the details.” Instead of returning a list of links, the agent assembles an itinerary and executes the purchase.",
-      "source": "MIT Tech Review",
-      "published": "2026-03-25T11:48:13+00:00",
-      "link": "https://www.technologyreview.com/2026/03/25/1134516/agentic-commerce-runs-on-truth-and-context/"
     }
   ]
 };
