@@ -1,6 +1,55 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-04-01T11:40:33.599920+00:00",
+  "lastUpdated": "2026-04-01T16:14:58.896266+00:00",
   "items": [
+    {
+      "title": "KPMG: Inside the AI agent playbook driving enterprise margin gains",
+      "summary": "Global AI investment is accelerating, yet KPMG data shows the gap between enterprise AI spend and measurable business value is widening fast.",
+      "source": "AI News",
+      "published": "2026-04-01T15:24:01+00:00",
+      "link": "https://www.artificialintelligence-news.com/news/kpmg-inside-ai-agent-playbook-enterprise-margin-gains/"
+    },
+    {
+      "title": "AI can push your Stream Deck buttons for you",
+      "summary": "If you're tired of controlling Stream Deck devices by manually pushing buttons, then good news: Elgato will now let you delegate that task to a chatbot instead.",
+      "source": "The Verge",
+      "published": "2026-04-01T12:38:58+00:00",
+      "link": "https://www.theverge.com/tech/905021/elgato-stream-deck-mcp-ai-agent-update"
+    },
+    {
+      "title": "Show HN: Baton – A desktop app for developing with AI agents",
+      "summary": "Hi,I built this because running multiple Claude Code agents across multiple IDE and terminal windows was getting messy.",
+      "source": "Hacker News",
+      "published": "2026-04-01T12:11:30+00:00",
+      "link": "https://getbaton.dev/"
+    },
+    {
+      "title": "The Download: gig workers training humanoids, and better AI benchmarks",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.",
+      "source": "MIT Tech Review",
+      "published": "2026-04-01T12:10:00+00:00",
+      "link": "https://www.technologyreview.com/2026/04/01/1134993/the-download-gig-workers-training-humanoids-better-ai-benchmarks/"
+    },
+    {
+      "title": "EU bars AI-generated content from official communications, according to Politico",
+      "summary": "Politico reports that the Commission, Parliament, and Council have barred their press teams from using fully AI-generated content. Experts see a missed opportunity.",
+      "source": "The Decoder",
+      "published": "2026-04-01T12:07:51+00:00",
+      "link": "https://the-decoder.com/eu-bars-ai-generated-content-from-official-communications-according-to-politico/"
+    },
+    {
+      "title": "Perplexity AI sued over alleged data sharing with Meta and Google",
+      "summary": "Perplexity AI is facing a class-action lawsuit. The company is accused of sharing personal user data from chats with Meta and Google, Bloomberg reports.",
+      "source": "The Decoder",
+      "published": "2026-04-01T12:02:51+00:00",
+      "link": "https://the-decoder.com/perplexity-ai-sued-over-alleged-data-sharing-with-meta-and-google/"
+    },
+    {
+      "title": "DeepL’s Borderless Business report reveals 83% of enterprises are still behind on language AI",
+      "summary": "AI is everywhere in the enterprise. The translation workflow often is not.",
+      "source": "AI News",
+      "published": "2026-04-01T12:00:00+00:00",
+      "link": "https://www.artificialintelligence-news.com/news/deepls-borderless-business-report-reveals-83-of-enterprises-are-still-behind-on-language-ai/"
+    },
     {
       "title": "The gig workers who are training humanoid robots at home",
       "summary": "When Zeus, a medical student living in a hilltop city in central Nigeria, returns to his studio apartment from a long day at the hospital, he turns on his ring light, straps his iPhone to his forehead, and starts recording himself.",
@@ -16,6 +65,13 @@ const FEED_DATA = {
       "link": "https://www.theverge.com/ai-artificial-intelligence/905012/baidu-apollo-robotaxi-freeze-china"
     },
     {
+      "title": "I Watched a 7.5-Hour Movie in Theaters to Confront My Dwindling Attention Span",
+      "summary": "Sátántango is considered a holy rite for hardcore cinephiles. In a packed screening with no cellphones in sight, it also offered a salve for brain rot.",
+      "source": "Wired",
+      "published": "2026-04-01T10:30:00+00:00",
+      "link": "https://www.wired.com/story/watching-a-75-hour-movie-in-theaters-made-me-more-hopeful-about-our-collective-brainrot/"
+    },
+    {
       "title": "Watching a 7.5-Hour Movie in Theaters Made Me More Hopeful About Our Collective Brain Rot",
       "summary": "Sátántango is considered a holy rite for hardcore cinephiles. It also helped me confront my dwindling attention span.",
       "source": "Wired",
@@ -28,6 +84,13 @@ const FEED_DATA = {
       "source": "AI News",
       "published": "2026-04-01T10:00:00+00:00",
       "link": "https://www.artificialintelligence-news.com/news/hershey-applies-ai-across-its-supply-chain-operations/"
+    },
+    {
+      "title": "I Asked ChatGPT What WIRED’s Reviewers Recommend. Its Answers Were All Wrong",
+      "summary": "Want to know what our reviewers have actually tested and picked as the best TVs, headphones, and laptops? Ask ChatGPT, and it'll give you the wrong answers.",
+      "source": "Wired",
+      "published": "2026-04-01T09:30:00+00:00",
+      "link": "https://www.wired.com/story/i-asked-chatgpt-what-wired-reviewers-recommend-its-answers-were-all-wrong/"
     },
     {
       "title": "I Asked ChatGPT What WIRED’s Reviewers Recommend—Its Answers Were All Wrong",
@@ -339,7 +402,7 @@ const FEED_DATA = {
     },
     {
       "title": "The ladder is missing rungs – Engineering Progression When AI Ate the Middle",
-      "summary": "Article URL: https://negroniventurestudios.com/2026/03/19/the-ladder-is-missing-rungs/ Comments URL: https://news.ycombinator.com/item?id=47574346 Points: 94 # Comments: 51",
+      "summary": "Article URL: https://negroniventurestudios.com/2026/03/19/the-ladder-is-missing-rungs/ Comments URL: https://news.ycombinator.com/item?id=47574346 Points: 95 # Comments: 51",
       "source": "Hacker News",
       "published": "2026-03-30T13:51:31+00:00",
       "link": "https://negroniventurestudios.com/2026/03/19/the-ladder-is-missing-rungs/"
@@ -409,7 +472,7 @@ const FEED_DATA = {
     },
     {
       "title": "Mathematical methods and human thought in the age of AI",
-      "summary": "Article URL: https://arxiv.org/abs/2603.26524 Comments URL: https://news.ycombinator.com/item?id=47572771 Points: 212 # Comments: 90",
+      "summary": "Article URL: https://arxiv.org/abs/2603.26524 Comments URL: https://news.ycombinator.com/item?id=47572771 Points: 213 # Comments: 90",
       "source": "Hacker News",
       "published": "2026-03-30T11:05:37+00:00",
       "link": "https://arxiv.org/abs/2603.26524"
@@ -458,7 +521,7 @@ const FEED_DATA = {
     },
     {
       "title": "I am definitely missing the pre-AI writing era",
-      "summary": "Article URL: https://www.lesswrong.com/posts/BJ4pnropWdnzzgeJc/i-am-definitely-missing-the-pre-ai-writing-era Comments URL: https://news.ycombinator.com/item?id=47571279 Points: 316 # Comments: 236",
+      "summary": "Article URL: https://www.lesswrong.com/posts/BJ4pnropWdnzzgeJc/i-am-definitely-missing-the-pre-ai-writing-era Comments URL: https://news.ycombinator.com/item?id=47571279 Points: 317 # Comments: 237",
       "source": "Hacker News",
       "published": "2026-03-30T07:03:18+00:00",
       "link": "https://www.lesswrong.com/posts/BJ4pnropWdnzzgeJc/i-am-definitely-missing-the-pre-ai-writing-era"
@@ -521,7 +584,7 @@ const FEED_DATA = {
     },
     {
       "title": "Police used AI facial recognition to wrongly arrest TN woman for crimes in ND",
-      "summary": "Article URL: https://www.cnn.com/2026/03/29/us/angela-lipps-ai-facial-recognition Comments URL: https://news.ycombinator.com/item?id=47563384 Points: 442 # Comments: 204",
+      "summary": "Article URL: https://www.cnn.com/2026/03/29/us/angela-lipps-ai-facial-recognition Comments URL: https://news.ycombinator.com/item?id=47563384 Points: 443 # Comments: 204",
       "source": "Hacker News",
       "published": "2026-03-29T14:20:23+00:00",
       "link": "https://www.cnn.com/2026/03/29/us/angela-lipps-ai-facial-recognition"
@@ -542,7 +605,7 @@ const FEED_DATA = {
     },
     {
       "title": "What if AI doesn't need more RAM but better math?",
-      "summary": "Article URL: https://adlrocha.substack.com/p/adlrocha-what-if-ai-doesnt-need-more Comments URL: https://news.ycombinator.com/item?id=47561297 Points: 188 # Comments: 102",
+      "summary": "Article URL: https://adlrocha.substack.com/p/adlrocha-what-if-ai-doesnt-need-more Comments URL: https://news.ycombinator.com/item?id=47561297 Points: 188 # Comments: 101",
       "source": "Hacker News",
       "published": "2026-03-29T08:18:55+00:00",
       "link": "https://adlrocha.substack.com/p/adlrocha-what-if-ai-doesnt-need-more"
@@ -577,7 +640,7 @@ const FEED_DATA = {
     },
     {
       "title": "From 300KB to 69KB per Token: How LLM Architectures Solve the KV Cache Problem",
-      "summary": "Article URL: https://news.future-shock.ai/the-weight-of-remembering/ Comments URL: https://news.ycombinator.com/item?id=47558733 Points: 138 # Comments: 11",
+      "summary": "Article URL: https://news.future-shock.ai/the-weight-of-remembering/ Comments URL: https://news.ycombinator.com/item?id=47558733 Points: 146 # Comments: 11",
       "source": "Hacker News",
       "published": "2026-03-28T22:42:23+00:00",
       "link": "https://news.future-shock.ai/the-weight-of-remembering/"
@@ -612,7 +675,7 @@ const FEED_DATA = {
     },
     {
       "title": "Wikipedia bans AI-generated content in its online encyclopedia",
-      "summary": "Article URL: https://www.theguardian.com/technology/2026/mar/27/wikipedia-bans-ai Comments URL: https://news.ycombinator.com/item?id=47556116 Points: 101 # Comments: 19",
+      "summary": "Article URL: https://www.theguardian.com/technology/2026/mar/27/wikipedia-bans-ai Comments URL: https://news.ycombinator.com/item?id=47556116 Points: 103 # Comments: 19",
       "source": "Hacker News",
       "published": "2026-03-28T16:34:04+00:00",
       "link": "https://www.theguardian.com/technology/2026/mar/27/wikipedia-bans-ai"
@@ -1337,69 +1400,6 @@ const FEED_DATA = {
       "source": "The Verge",
       "published": "2026-03-25T16:00:00+00:00",
       "link": "https://www.theverge.com/ai-artificial-intelligence/900425/google-lyria-3-pro-ai-music"
-    },
-    {
-      "title": "Harvey confirms $11B valuation: Sequoia triples down",
-      "summary": "Investors like Sequoia, Andreessen Horowitz, Kleiner Perkins, and Elad Gil can't get enough of AI legal tech startup Harvey.",
-      "source": "TechCrunch",
-      "published": "2026-03-25T15:27:15+00:00",
-      "link": "https://techcrunch.com/2026/03/25/harvey-confirms-11b-valuation-sequoia-triples-down/"
-    },
-    {
-      "title": "Arm breaks from its licensing-only model with first in-house chip built for AI data centers",
-      "summary": "For the first time in its 35-year history, Arm has manufactured its own chip, expanding beyond its long-standing business model of licensing chip designs to companies like Apple and Nvidia.",
-      "source": "The Decoder",
-      "published": "2026-03-25T15:10:16+00:00",
-      "link": "https://the-decoder.com/arm-breaks-from-its-licensing-only-model-with-first-in-house-chip-built-for-ai-data-centers/"
-    },
-    {
-      "title": "Senate Democrats are trying to ‘codify’ Anthropic’s red lines on autonomous weapons and mass surveillance",
-      "summary": "Anthropic's fight with the Pentagon is expanding to Congress. Sen.",
-      "source": "The Verge",
-      "published": "2026-03-25T15:05:46+00:00",
-      "link": "https://www.theverge.com/policy/900341/senator-schiff-anthropic-autonomous-weapons-mass-surveillance"
-    },
-    {
-      "title": "Why this battery company is pivoting to AI",
-      "summary": "Qichao Hu doesn’t mince words about how he sees the state of the battery industry. “Almost every Western battery company has either died or is going to die.",
-      "source": "MIT Tech Review",
-      "published": "2026-03-25T15:02:50+00:00",
-      "link": "https://www.technologyreview.com/2026/03/25/1134657/battery-company-ai-pivot-ses/"
-    },
-    {
-      "title": "Ocorian: Family offices turn to AI for financial data insights",
-      "summary": "To gain financial data insights, the majority of family offices now turn to AI, according to new research from Ocorian. The global study reveals 86 percent of these private wealth groups are utilising AI to improve their daily operations and data analysis.",
-      "source": "AI News",
-      "published": "2026-03-25T14:58:29+00:00",
-      "link": "https://www.artificialintelligence-news.com/news/ocorian-family-offices-ai-for-financial-data-insights/"
-    },
-    {
-      "title": "OpenAI Enters Its Focus Era by Killing Sora",
-      "summary": "As the ChatGPT-maker eyes an IPO, it's ditching Sora in favor of a unified AI assistant and enterprise coding tools.",
-      "source": "Wired",
-      "published": "2026-03-25T14:57:45+00:00",
-      "link": "https://www.wired.com/story/openai-shuts-down-sora-ipo-ai-superapp/"
-    },
-    {
-      "title": "Granola raises $125M, hits $1.5B valuation as it expands from meeting notetaker to enterprise AI app",
-      "summary": "Granola's valuation jumped from $250 million to $1.5 billion with this round, and it has added more support for AI agents after users previously complained.",
-      "source": "TechCrunch",
-      "published": "2026-03-25T14:48:40+00:00",
-      "link": "https://techcrunch.com/2026/03/25/granola-raises-125m-hits-1-5b-valuation-as-it-expands-from-meeting-notetaker-to-enterprise-ai-app/"
-    },
-    {
-      "title": "Meta launches new initiative to support entrepreneurship, drive AI adoption",
-      "summary": "Meta CEO Mark Zuckerberg said in a memo to staff that small businesses have always been a big part of the company's business model, and that while tens of millions of entrepreneurs already use its platforms to grow and connect with customers, the company wants to do more in the...",
-      "source": "TechCrunch",
-      "published": "2026-03-25T14:45:20+00:00",
-      "link": "https://techcrunch.com/2026/03/25/meta-launches-new-initiative-to-support-entrepreneurship-drive-ai-adoption/"
-    },
-    {
-      "title": "Mark Zuckerberg and Jensen Huang are part of Trump’s new ‘tech panel’",
-      "summary": "Meta CEO Mark Zuckerberg, Oracle CTO and executive chairman Larry Ellison, Nvidia CEO Jensen Huang, and Google cofounder Sergey Brin will be the first four members of the President's Council of Advisors on Science and Technology (PCAST), according to the Wall Street Journal.",
-      "source": "The Verge",
-      "published": "2026-03-25T14:41:21+00:00",
-      "link": "https://www.theverge.com/policy/900340/trump-tech-panel-mark-zuckerberg-jensen-huang"
     }
   ]
 };
