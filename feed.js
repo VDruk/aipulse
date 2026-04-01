@@ -1,6 +1,48 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-04-01T08:47:34.559266+00:00",
+  "lastUpdated": "2026-04-01T11:40:33.599920+00:00",
   "items": [
+    {
+      "title": "The gig workers who are training humanoid robots at home",
+      "summary": "When Zeus, a medical student living in a hilltop city in central Nigeria, returns to his studio apartment from a long day at the hospital, he turns on his ring light, straps his iPhone to his forehead, and starts recording himself.",
+      "source": "MIT Tech Review",
+      "published": "2026-04-01T11:00:00+00:00",
+      "link": "https://www.technologyreview.com/2026/04/01/1134863/humanoid-data-training-gig-economy-2026-breakthrough-technology/"
+    },
+    {
+      "title": "Baidu’s robotaxis froze in traffic, creating chaos",
+      "summary": "Numerous robotaxis operated by Chinese tech giant Baidu froze in a major city on Tuesday, reportedly trapping passengers inside, stranding them on highways, and causing at least one accident in snarled traffic.",
+      "source": "The Verge",
+      "published": "2026-04-01T10:39:52+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/905012/baidu-apollo-robotaxi-freeze-china"
+    },
+    {
+      "title": "Watching a 7.5-Hour Movie in Theaters Made Me More Hopeful About Our Collective Brain Rot",
+      "summary": "Sátántango is considered a holy rite for hardcore cinephiles. It also helped me confront my dwindling attention span.",
+      "source": "Wired",
+      "published": "2026-04-01T10:30:00+00:00",
+      "link": "https://www.wired.com/story/watching-a-75-hour-movie-in-theaters-made-me-more-hopeful-about-our-collective-brainrot/"
+    },
+    {
+      "title": "Hershey applies AI across its supply chain operations",
+      "summary": "Artificial intelligence is moving beyond software and further into the physical side of business. Companies in food production and logistics are starting to use data systems to support day-to-day decisions, not long-term planning.",
+      "source": "AI News",
+      "published": "2026-04-01T10:00:00+00:00",
+      "link": "https://www.artificialintelligence-news.com/news/hershey-applies-ai-across-its-supply-chain-operations/"
+    },
+    {
+      "title": "I Asked ChatGPT What WIRED’s Reviewers Recommend—Its Answers Were All Wrong",
+      "summary": "Want to know what our reviewers have actually tested and picked as the best TVs, headphones, and laptops? Ask ChatGPT, and it'll give you the wrong answers.",
+      "source": "Wired",
+      "published": "2026-04-01T09:30:00+00:00",
+      "link": "https://www.wired.com/story/i-asked-chatgpt-what-wired-reviewers-recommend-its-answers-were-all-wrong/"
+    },
+    {
+      "title": "OpenAI officially confirms mega-funding round and ChatGPT super app",
+      "summary": "OpenAI closes a $122 billion funding round at an $852 billion valuation, officially unveils the ChatGPT Super App, and signals a hard pivot toward enterprise. The article OpenAI officially confirms mega-funding round and ChatGPT super app appeared first on The Decoder.",
+      "source": "The Decoder",
+      "published": "2026-04-01T09:02:46+00:00",
+      "link": "https://the-decoder.com/openai-officially-confirms-mega-funding-round-and-chatgpt-super-app/"
+    },
     {
       "title": "Mercor says it was hit by cyberattack tied to compromise of open-source LiteLLM project",
       "summary": "The AI recruiting startup confirmed a security incident after an extortion hacking crew took credit for stealing data from the company's systems.",
@@ -325,7 +367,7 @@ const FEED_DATA = {
     },
     {
       "title": "How the AI Bubble Bursts",
-      "summary": "Article URL: https://martinvol.pe/blog/2026/03/30/how-the-ai-bubble-bursts/ Comments URL: https://news.ycombinator.com/item?id=47573420 Points: 370 # Comments: 517",
+      "summary": "Article URL: https://martinvol.pe/blog/2026/03/30/how-the-ai-bubble-bursts/ Comments URL: https://news.ycombinator.com/item?id=47573420 Points: 370 # Comments: 518",
       "source": "Hacker News",
       "published": "2026-03-30T12:28:36+00:00",
       "link": "https://martinvol.pe/blog/2026/03/30/how-the-ai-bubble-bursts/"
@@ -416,7 +458,7 @@ const FEED_DATA = {
     },
     {
       "title": "I am definitely missing the pre-AI writing era",
-      "summary": "Article URL: https://www.lesswrong.com/posts/BJ4pnropWdnzzgeJc/i-am-definitely-missing-the-pre-ai-writing-era Comments URL: https://news.ycombinator.com/item?id=47571279 Points: 315 # Comments: 235",
+      "summary": "Article URL: https://www.lesswrong.com/posts/BJ4pnropWdnzzgeJc/i-am-definitely-missing-the-pre-ai-writing-era Comments URL: https://news.ycombinator.com/item?id=47571279 Points: 316 # Comments: 236",
       "source": "Hacker News",
       "published": "2026-03-30T07:03:18+00:00",
       "link": "https://www.lesswrong.com/posts/BJ4pnropWdnzzgeJc/i-am-definitely-missing-the-pre-ai-writing-era"
@@ -500,7 +542,7 @@ const FEED_DATA = {
     },
     {
       "title": "What if AI doesn't need more RAM but better math?",
-      "summary": "Article URL: https://adlrocha.substack.com/p/adlrocha-what-if-ai-doesnt-need-more Comments URL: https://news.ycombinator.com/item?id=47561297 Points: 188 # Comments: 101",
+      "summary": "Article URL: https://adlrocha.substack.com/p/adlrocha-what-if-ai-doesnt-need-more Comments URL: https://news.ycombinator.com/item?id=47561297 Points: 188 # Comments: 102",
       "source": "Hacker News",
       "published": "2026-03-29T08:18:55+00:00",
       "link": "https://adlrocha.substack.com/p/adlrocha-what-if-ai-doesnt-need-more"
@@ -535,7 +577,7 @@ const FEED_DATA = {
     },
     {
       "title": "From 300KB to 69KB per Token: How LLM Architectures Solve the KV Cache Problem",
-      "summary": "Article URL: https://news.future-shock.ai/the-weight-of-remembering/ Comments URL: https://news.ycombinator.com/item?id=47558733 Points: 121 # Comments: 9",
+      "summary": "Article URL: https://news.future-shock.ai/the-weight-of-remembering/ Comments URL: https://news.ycombinator.com/item?id=47558733 Points: 138 # Comments: 11",
       "source": "Hacker News",
       "published": "2026-03-28T22:42:23+00:00",
       "link": "https://news.future-shock.ai/the-weight-of-remembering/"
@@ -1358,48 +1400,6 @@ const FEED_DATA = {
       "source": "The Verge",
       "published": "2026-03-25T14:41:21+00:00",
       "link": "https://www.theverge.com/policy/900340/trump-tech-panel-mark-zuckerberg-jensen-huang"
-    },
-    {
-      "title": "Meta turns to AI to make shopping easier on Instagram and Facebook",
-      "summary": "Meta is using generative AI to provide more product and brand information to consumers when they're shopping in its apps.",
-      "source": "TechCrunch",
-      "published": "2026-03-25T14:16:17+00:00",
-      "link": "https://techcrunch.com/2026/03/25/meta-turns-to-ai-to-make-shopping-easier-on-instagram-and-facebook/"
-    },
-    {
-      "title": "This startup wants to change how mathematicians do math",
-      "summary": "Axiom Math, a startup based in Palo Alto, California, has released a free new AI tool for mathematicians, designed to discover mathematical patterns that could unlock solutions to long-standing problems.",
-      "source": "MIT Tech Review",
-      "published": "2026-03-25T13:59:17+00:00",
-      "link": "https://www.technologyreview.com/2026/03/25/1134642/this-startup-wants-to-change-how-mathematicians-do-math/"
-    },
-    {
-      "title": "New Bernie Sanders AI Safety Bill Would Halt Data Center Construction",
-      "summary": "The US senator said on Tuesday that a moratorium would give lawmakers time to \"ensure that AI is safe.\" Alexandria Ocasio-Cortez will introduce a similar bill in the House in the weeks ahead.",
-      "source": "Wired",
-      "published": "2026-03-25T13:28:50+00:00",
-      "link": "https://www.wired.com/story/new-bernie-sanders-ai-safety-bill-would-halt-data-center-construction/"
-    },
-    {
-      "title": "Ensu – Ente’s Local LLM app",
-      "summary": "Article URL: https://ente.com/blog/ensu/ Comments URL: https://news.ycombinator.com/item?id=47516650 Points: 360 # Comments: 172",
-      "source": "Hacker News",
-      "published": "2026-03-25T12:49:14+00:00",
-      "link": "https://ente.com/blog/ensu/"
-    },
-    {
-      "title": "Local LLM App by Ente",
-      "summary": "Article URL: https://ente.com/blog/ensu/ Comments URL: https://news.ycombinator.com/item?id=47516650 Points: 210 # Comments: 89",
-      "source": "Hacker News",
-      "published": "2026-03-25T12:49:14+00:00",
-      "link": "https://ente.com/blog/ensu/"
-    },
-    {
-      "title": "The Download: reawakening frozen brains, and the AI Hype Index returns",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. This scientist rewarmed and studied pieces of his friend’s cryopreserved brain L.",
-      "source": "MIT Tech Review",
-      "published": "2026-03-25T12:47:44+00:00",
-      "link": "https://www.technologyreview.com/2026/03/25/1134636/the-download-reawakening-frozen-brains-and-the-ai-hype-index-returns/"
     }
   ]
 };
