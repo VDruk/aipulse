@@ -1,6 +1,48 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-04-01T16:14:58.896266+00:00",
+  "lastUpdated": "2026-04-01T20:01:24.822137+00:00",
   "items": [
+    {
+      "title": "Meta’s natural gas binge could power South Dakota",
+      "summary": "Meta's upcoming Hyperion AI data center will be powered by 10 new natural gas plants.",
+      "source": "TechCrunch",
+      "published": "2026-04-01T18:35:36+00:00",
+      "link": "https://techcrunch.com/2026/04/01/metas-natural-gas-binge-could-power-south-dakota/"
+    },
+    {
+      "title": "AI Models Lie, Cheat, and Steal to Protect Other Models From Being Deleted",
+      "summary": "A new study from researchers at UC Berkeley and UC Santa Cruz suggests models will disobey human commands to protect their own kind.",
+      "source": "Wired",
+      "published": "2026-04-01T18:30:00+00:00",
+      "link": "https://www.wired.com/story/ai-models-lie-cheat-steal-protect-other-models-research/"
+    },
+    {
+      "title": "Anthropic's leaked AI coding tool has been cloned over 8,000 times on GitHub despite mass takedowns",
+      "summary": "Anthropic accidentally leaked the source code behind Claude Code. The extent of the damage is becoming clear—and it's potentially significant.",
+      "source": "The Decoder",
+      "published": "2026-04-01T18:16:51+00:00",
+      "link": "https://the-decoder.com/anthropics-leaked-ai-coding-tool-has-been-cloned-over-8000-times-on-github-despite-mass-takedowns/"
+    },
+    {
+      "title": "‘Thank You for Generating With Us!’ Hollywood's AI Acolytes Stay on the Hype Train",
+      "summary": "Star Wars producer Kathleen Kennedy was one of the few skeptics at the Runway AI Summit, where AI was compared to fire and the printing press just a week after Sora’s death.",
+      "source": "Wired",
+      "published": "2026-04-01T18:13:34+00:00",
+      "link": "https://www.wired.com/story/thank-you-for-generating-with-us-hollywoods-ai-acolytes-stay-on-the-hype-train/"
+    },
+    {
+      "title": "Google Deepmind study exposes six \"traps\" that can easily hijack autonomous AI agents in the wild",
+      "summary": "AI agents are expected to browse the web on their own, handle emails, and carry out transactions. But the very environment they operate in can be weaponized against them.",
+      "source": "The Decoder",
+      "published": "2026-04-01T17:09:59+00:00",
+      "link": "https://the-decoder.com/google-deepmind-study-exposes-six-traps-that-can-easily-hijack-autonomous-ai-agents-in-the-wild/"
+    },
+    {
+      "title": "Cognichip wants AI to design the chips that power AI, and just raised $60M to try",
+      "summary": "The firm says it can reduce the cost of chip development by more than 75% and cut the timeline by more than half.",
+      "source": "TechCrunch",
+      "published": "2026-04-01T16:00:00+00:00",
+      "link": "https://techcrunch.com/2026/04/01/cognichip-wants-ai-to-design-the-chips-that-power-ai-and-just-raised-60m-to-try/"
+    },
     {
       "title": "KPMG: Inside the AI agent playbook driving enterprise margin gains",
       "summary": "Global AI investment is accelerating, yet KPMG data shows the gap between enterprise AI spend and measurable business value is widening fast.",
@@ -107,7 +149,7 @@ const FEED_DATA = {
       "link": "https://the-decoder.com/openai-officially-confirms-mega-funding-round-and-chatgpt-super-app/"
     },
     {
-      "title": "Mercor says it was hit by cyberattack tied to compromise of open-source LiteLLM project",
+      "title": "Mercor says it was hit by cyberattack tied to compromise of open source LiteLLM project",
       "summary": "The AI recruiting startup confirmed a security incident after an extortion hacking crew took credit for stealing data from the company's systems.",
       "source": "TechCrunch",
       "published": "2026-04-01T01:42:59+00:00",
@@ -1358,48 +1400,6 @@ const FEED_DATA = {
       "source": "Wired",
       "published": "2026-03-25T18:00:00+00:00",
       "link": "https://www.wired.com/story/openclaw-ai-agent-manipulation-security-northeastern-study/"
-    },
-    {
-      "title": "AI2's fully open web agent MolmoWeb navigates the web using only screenshots",
-      "summary": "AI2 releases MolmoWeb, a fully open web agent that navigates websites using only screenshots. Despite having just 4 and 8 billion parameters, the models beat several larger proprietary systems on standard benchmarks.",
-      "source": "The Decoder",
-      "published": "2026-03-25T17:41:13+00:00",
-      "link": "https://the-decoder.com/ai2s-fully-open-web-agent-molmoweb-navigates-the-web-using-only-screenshots/"
-    },
-    {
-      "title": "Roundtables: The Next Era of Space Exploration",
-      "summary": "Listen to the session or watch below Whether it’s the race to find life on Mars, the campaign to outsmart killer asteroids, or the quest to make the moon a permanent home to astronauts, scientists’ efforts in space can tell us more about where humanity is headed.",
-      "source": "MIT Tech Review",
-      "published": "2026-03-25T17:26:26+00:00",
-      "link": "https://www.technologyreview.com/2026/03/25/1134664/roundtables-the-next-era-of-space-exploration/"
-    },
-    {
-      "title": "Bernie Sanders and AOC propose a ban on data center construction",
-      "summary": "Senator Bernie Sanders and Rep. Alexandria Ocasio-Cortez introduced companion legislation to halt construction on new data centers until Congress passes comprehensive AI regulation.",
-      "source": "TechCrunch",
-      "published": "2026-03-25T17:15:50+00:00",
-      "link": "https://techcrunch.com/2026/03/25/bernie-sanders-and-aoc-propose-a-ban-on-data-center-construction/"
-    },
-    {
-      "title": "Show HN: Optio – Orchestrate AI coding agents in K8s to go from ticket to PR",
-      "summary": "I think like many of you, I've been jumping between many claude code/codex sessions at a time, managing multiple lines of work and worktrees in multiple repos.",
-      "source": "Hacker News",
-      "published": "2026-03-25T17:10:21+00:00",
-      "link": "https://github.com/jonwiggins/optio"
-    },
-    {
-      "title": "Google launches Lyria 3 Pro music generation model",
-      "summary": "Google is launching Lyria 3 Pro, an upgraded music model that generates longer, more customizable tracks, as it expands AI music tools across Gemini, enterprise products, and other services.",
-      "source": "TechCrunch",
-      "published": "2026-03-25T16:37:43+00:00",
-      "link": "https://techcrunch.com/2026/03/25/google-launches-lyria-3-pro-music-generation-model/"
-    },
-    {
-      "title": "Google Lyria 3 Pro makes longer AI songs",
-      "summary": "Google is expanding the capabilities of its Lyria 3 music-making AI, enabling it to create tracks up to three minutes long and from within multiple other Google Products. Until now, Lyria had been limited to 30-second clips.",
-      "source": "The Verge",
-      "published": "2026-03-25T16:00:00+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/900425/google-lyria-3-pro-ai-music"
     }
   ]
 };
