@@ -1,5 +1,5 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-04-01T06:18:41.523090+00:00",
+  "lastUpdated": "2026-04-01T08:47:34.559266+00:00",
   "items": [
     {
       "title": "Mercor says it was hit by cyberattack tied to compromise of open-source LiteLLM project",
@@ -325,7 +325,7 @@ const FEED_DATA = {
     },
     {
       "title": "How the AI Bubble Bursts",
-      "summary": "Article URL: https://martinvol.pe/blog/2026/03/30/how-the-ai-bubble-bursts/ Comments URL: https://news.ycombinator.com/item?id=47573420 Points: 369 # Comments: 516",
+      "summary": "Article URL: https://martinvol.pe/blog/2026/03/30/how-the-ai-bubble-bursts/ Comments URL: https://news.ycombinator.com/item?id=47573420 Points: 370 # Comments: 517",
       "source": "Hacker News",
       "published": "2026-03-30T12:28:36+00:00",
       "link": "https://martinvol.pe/blog/2026/03/30/how-the-ai-bubble-bursts/"
@@ -479,7 +479,7 @@ const FEED_DATA = {
     },
     {
       "title": "Police used AI facial recognition to wrongly arrest TN woman for crimes in ND",
-      "summary": "Article URL: https://www.cnn.com/2026/03/29/us/angela-lipps-ai-facial-recognition Comments URL: https://news.ycombinator.com/item?id=47563384 Points: 442 # Comments: 203",
+      "summary": "Article URL: https://www.cnn.com/2026/03/29/us/angela-lipps-ai-facial-recognition Comments URL: https://news.ycombinator.com/item?id=47563384 Points: 442 # Comments: 204",
       "source": "Hacker News",
       "published": "2026-03-29T14:20:23+00:00",
       "link": "https://www.cnn.com/2026/03/29/us/angela-lipps-ai-facial-recognition"
@@ -493,7 +493,7 @@ const FEED_DATA = {
     },
     {
       "title": "Miasma: A tool to trap AI web scrapers in an endless poison pit",
-      "summary": "Article URL: https://github.com/austin-weeks/miasma Comments URL: https://news.ycombinator.com/item?id=47561819 Points: 345 # Comments: 245",
+      "summary": "Article URL: https://github.com/austin-weeks/miasma Comments URL: https://news.ycombinator.com/item?id=47561819 Points: 345 # Comments: 246",
       "source": "Hacker News",
       "published": "2026-03-29T10:10:12+00:00",
       "link": "https://github.com/austin-weeks/miasma"
@@ -535,7 +535,7 @@ const FEED_DATA = {
     },
     {
       "title": "From 300KB to 69KB per Token: How LLM Architectures Solve the KV Cache Problem",
-      "summary": "Article URL: https://news.future-shock.ai/the-weight-of-remembering/ Comments URL: https://news.ycombinator.com/item?id=47558733 Points: 106 # Comments: 9",
+      "summary": "Article URL: https://news.future-shock.ai/the-weight-of-remembering/ Comments URL: https://news.ycombinator.com/item?id=47558733 Points: 121 # Comments: 9",
       "source": "Hacker News",
       "published": "2026-03-28T22:42:23+00:00",
       "link": "https://news.future-shock.ai/the-weight-of-remembering/"
@@ -675,7 +675,7 @@ const FEED_DATA = {
     },
     {
       "title": "CERN uses ultra-compact AI models on FPGAs for real-time LHC data filtering",
-      "summary": "Article URL: https://theopenreader.org/Journalism:CERN_Uses_Tiny_AI_Models_Burned_into_Silicon_for_Real-Time_LHC_Data_Filtering Comments URL: https://news.ycombinator.com/item?id=47552562 Points: 330 # Comments: 146",
+      "summary": "Article URL: https://theopenreader.org/Journalism:CERN_Uses_Tiny_AI_Models_Burned_into_Silicon_for_Real-Time_LHC_Data_Filtering Comments URL: https://news.ycombinator.com/item?id=47552562 Points: 331 # Comments: 146",
       "source": "Hacker News",
       "published": "2026-03-28T08:06:19+00:00",
       "link": "https://theopenreader.org/Journalism:CERN_Uses_Tiny_AI_Models_Burned_into_Silicon_for_Real-Time_LHC_Data_Filtering"
