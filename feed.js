@@ -1,6 +1,13 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-04-01T20:01:24.822137+00:00",
+  "lastUpdated": "2026-04-01T23:03:12.119700+00:00",
   "items": [
+    {
+      "title": "Anthropic took down thousands of GitHub repos trying to yank its leaked source code — a move the company says was an accident",
+      "summary": "Anthropic executives said it was an accident and retracted the bulk of the takedown notices.",
+      "source": "TechCrunch",
+      "published": "2026-04-01T22:12:13+00:00",
+      "link": "https://techcrunch.com/2026/04/01/anthropic-took-down-thousands-of-github-repos-trying-to-yank-its-leaked-source-code-a-move-the-company-says-was-an-accident/"
+    },
     {
       "title": "Meta’s natural gas binge could power South Dakota",
       "summary": "Meta's upcoming Hyperion AI data center will be powered by 10 new natural gas plants.",
@@ -30,6 +37,20 @@ const FEED_DATA = {
       "link": "https://www.wired.com/story/thank-you-for-generating-with-us-hollywoods-ai-acolytes-stay-on-the-hype-train/"
     },
     {
+      "title": "The AI Marketing BS Index",
+      "summary": "Article URL: https://bastian.rieck.me/blog/2026/bs/ Comments URL: https://news.ycombinator.com/item?id=47604218 Points: 82 # Comments: 16",
+      "source": "Hacker News",
+      "published": "2026-04-01T17:55:12+00:00",
+      "link": "https://bastian.rieck.me/blog/2026/bs/"
+    },
+    {
+      "title": "AI for American-produced cement and concrete",
+      "summary": "Article URL: https://engineering.fb.com/2026/03/30/data-center-engineering/ai-for-american-produced-cement-and-concrete/ Comments URL: https://news.ycombinator.com/item?id=47603737 Points: 117 # Comments: 101",
+      "source": "Hacker News",
+      "published": "2026-04-01T17:17:24+00:00",
+      "link": "https://engineering.fb.com/2026/03/30/data-center-engineering/ai-for-american-produced-cement-and-concrete/"
+    },
+    {
       "title": "Google Deepmind study exposes six \"traps\" that can easily hijack autonomous AI agents in the wild",
       "summary": "AI agents are expected to browse the web on their own, handle emails, and carry out transactions. But the very environment they operate in can be weaponized against them.",
       "source": "The Decoder",
@@ -49,6 +70,13 @@ const FEED_DATA = {
       "source": "AI News",
       "published": "2026-04-01T15:24:01+00:00",
       "link": "https://www.artificialintelligence-news.com/news/kpmg-inside-ai-agent-playbook-enterprise-margin-gains/"
+    },
+    {
+      "title": "AI has suddenly become more useful to open-source developers",
+      "summary": "Article URL: https://www.zdnet.com/article/maybe-open-source-needs-ai/ Comments URL: https://news.ycombinator.com/item?id=47601107 Points: 50 # Comments: 48",
+      "source": "Hacker News",
+      "published": "2026-04-01T14:07:50+00:00",
+      "link": "https://www.zdnet.com/article/maybe-open-source-needs-ai/"
     },
     {
       "title": "AI can push your Stream Deck buttons for you",
@@ -472,7 +500,7 @@ const FEED_DATA = {
     },
     {
       "title": "How the AI Bubble Bursts",
-      "summary": "Article URL: https://martinvol.pe/blog/2026/03/30/how-the-ai-bubble-bursts/ Comments URL: https://news.ycombinator.com/item?id=47573420 Points: 370 # Comments: 518",
+      "summary": "Article URL: https://martinvol.pe/blog/2026/03/30/how-the-ai-bubble-bursts/ Comments URL: https://news.ycombinator.com/item?id=47573420 Points: 370 # Comments: 519",
       "source": "Hacker News",
       "published": "2026-03-30T12:28:36+00:00",
       "link": "https://martinvol.pe/blog/2026/03/30/how-the-ai-bubble-bursts/"
@@ -514,7 +542,7 @@ const FEED_DATA = {
     },
     {
       "title": "Mathematical methods and human thought in the age of AI",
-      "summary": "Article URL: https://arxiv.org/abs/2603.26524 Comments URL: https://news.ycombinator.com/item?id=47572771 Points: 213 # Comments: 90",
+      "summary": "Article URL: https://arxiv.org/abs/2603.26524 Comments URL: https://news.ycombinator.com/item?id=47572771 Points: 215 # Comments: 90",
       "source": "Hacker News",
       "published": "2026-03-30T11:05:37+00:00",
       "link": "https://arxiv.org/abs/2603.26524"
@@ -563,7 +591,7 @@ const FEED_DATA = {
     },
     {
       "title": "I am definitely missing the pre-AI writing era",
-      "summary": "Article URL: https://www.lesswrong.com/posts/BJ4pnropWdnzzgeJc/i-am-definitely-missing-the-pre-ai-writing-era Comments URL: https://news.ycombinator.com/item?id=47571279 Points: 317 # Comments: 237",
+      "summary": "Article URL: https://www.lesswrong.com/posts/BJ4pnropWdnzzgeJc/i-am-definitely-missing-the-pre-ai-writing-era Comments URL: https://news.ycombinator.com/item?id=47571279 Points: 317 # Comments: 239",
       "source": "Hacker News",
       "published": "2026-03-30T07:03:18+00:00",
       "link": "https://www.lesswrong.com/posts/BJ4pnropWdnzzgeJc/i-am-definitely-missing-the-pre-ai-writing-era"
@@ -682,7 +710,7 @@ const FEED_DATA = {
     },
     {
       "title": "From 300KB to 69KB per Token: How LLM Architectures Solve the KV Cache Problem",
-      "summary": "Article URL: https://news.future-shock.ai/the-weight-of-remembering/ Comments URL: https://news.ycombinator.com/item?id=47558733 Points: 146 # Comments: 11",
+      "summary": "Article URL: https://news.future-shock.ai/the-weight-of-remembering/ Comments URL: https://news.ycombinator.com/item?id=47558733 Points: 154 # Comments: 11",
       "source": "Hacker News",
       "published": "2026-03-28T22:42:23+00:00",
       "link": "https://news.future-shock.ai/the-weight-of-remembering/"
@@ -1372,34 +1400,6 @@ const FEED_DATA = {
       "source": "The Verge",
       "published": "2026-03-25T20:02:48+00:00",
       "link": "https://www.theverge.com/streaming/900837/disney-open-ai-sora-epic-fortnite-metaverse"
-    },
-    {
-      "title": "Google launches AI music generator Lyria 3 Pro, says it was trained on data it has the right to use",
-      "summary": "Google is making AI music longer and more widely available: Lyria 3 Pro generates songs up to three minutes long, complete with verses, choruses, and bridges. Google says the model was trained on content it has the right to use.",
-      "source": "The Decoder",
-      "published": "2026-03-25T19:12:07+00:00",
-      "link": "https://the-decoder.com/google-launches-ai-music-generator-lyria-3-pro-says-it-was-trained-on-data-it-has-the-right-to-use/"
-    },
-    {
-      "title": "Melania Trump wants a robot to homeschool your child",
-      "summary": "The first lady sees AI and robotics playing a prominent role in the future of American education.",
-      "source": "TechCrunch",
-      "published": "2026-03-25T18:55:41+00:00",
-      "link": "https://techcrunch.com/2026/03/25/melania-trump-wants-a-robot-to-homeschool-your-child/"
-    },
-    {
-      "title": "There’s Something Very Dark About a Lot of Those Viral AI Fruit Videos",
-      "summary": "With female AI fruit being fart-shamed and even sexually assaulted, there’s a misogynistic undercurrent to the fruit slop microdramas, even as they appear to be cultivating genuine fans.",
-      "source": "Wired",
-      "published": "2026-03-25T18:49:40+00:00",
-      "link": "https://www.wired.com/story/theres-something-very-dark-about-a-lot-of-those-viral-ai-fruit-videos/"
-    },
-    {
-      "title": "OpenClaw Agents Can Be Guilt-Tripped Into Self-Sabotage",
-      "summary": "In a controlled experiment, OpenClaw agents proved prone to panic and vulnerable to manipulation. They even disabled their own functionality when gaslit by humans.",
-      "source": "Wired",
-      "published": "2026-03-25T18:00:00+00:00",
-      "link": "https://www.wired.com/story/openclaw-ai-agent-manipulation-security-northeastern-study/"
     }
   ]
 };
