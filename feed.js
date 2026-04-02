@@ -1,6 +1,20 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-04-02T19:38:13.606823+00:00",
+  "lastUpdated": "2026-04-02T22:53:17.966837+00:00",
   "items": [
+    {
+      "title": "PSA: Anyone with a link can view your Granola notes by default",
+      "summary": "If you use the AI-powered note-taking app Granola, you might want to double-check your privacy settings. Though Granola says your notes are \"private by default,\" it makes them viewable to anyone with a link, and also uses them for internal AI training unless you opt out.",
+      "source": "The Verge",
+      "published": "2026-04-02T21:56:16+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/906253/granola-note-links-ai-training-psa"
+    },
+    {
+      "title": "OpenAI Acquires Tech Talk Show ‘TBPN’—and Buys Itself Some Positive News",
+      "summary": "OpenAI is acquiring TBPN, a business talk show that’s popular among Silicon Valley elites, as it continues to battle its negative public image.",
+      "source": "Wired",
+      "published": "2026-04-02T19:29:48+00:00",
+      "link": "https://www.wired.com/story/openai-acquires-tbpn-buys-positive-news-coverage/"
+    },
     {
       "title": "OpenAI Buys Some Positive News",
       "summary": "OpenAI is acquiring TBPN, a business talk show that’s popular among Silicon Valley elites, as it continues to battle its negative public image.",
@@ -10,7 +24,7 @@ const FEED_DATA = {
     },
     {
       "title": "OpenAI acquires TBPN, the buzzy founder-led business talk show",
-      "summary": "TBPN, Silicon Valley's cult-favorite tech podcast, will operate independently, even as it's overseen by chief political operative, Chris Lehane.",
+      "summary": "TBPN, Silicon Valley's cult-favorite tech podcast, will operate independently, even as it's overseen by chief political operative Chris Lehane.",
       "source": "TechCrunch",
       "published": "2026-04-02T19:21:00+00:00",
       "link": "https://techcrunch.com/2026/04/02/openai-acquires-tbpn-the-buzzy-founder-led-business-talk-show/"
@@ -35,6 +49,13 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-04-02T17:24:35+00:00",
       "link": "https://the-decoder.com/sakana-ai-launches-ultra-deep-research-to-automate-weeks-of-strategy-work/"
+    },
+    {
+      "title": "New Rowhammer attacks give complete control of machines running Nvidia GPUs",
+      "summary": "Both GDDRHammer and GeForge hammer GPU memory in ways that compromise the CPU.",
+      "source": "Ars Technica",
+      "published": "2026-04-02T17:00:11+00:00",
+      "link": "https://arstechnica.com/security/2026/04/new-rowhammer-attacks-give-complete-control-of-machines-running-nvidia-gpus/"
     },
     {
       "title": "Cursor Launches a New AI Agent Experience to Take On Claude Code and Codex",
@@ -150,7 +171,7 @@ const FEED_DATA = {
     },
     {
       "title": "Lemonade by AMD: a fast and open source local LLM server using GPU and NPU",
-      "summary": "Article URL: https://lemonade-server.ai Comments URL: https://news.ycombinator.com/item?id=47612724 Points: 337 # Comments: 82",
+      "summary": "Article URL: https://lemonade-server.ai Comments URL: https://news.ycombinator.com/item?id=47612724 Points: 404 # Comments: 94",
       "source": "Hacker News",
       "published": "2026-04-02T11:04:51+00:00",
       "link": "https://lemonade-server.ai"
@@ -185,14 +206,14 @@ const FEED_DATA = {
     },
     {
       "title": "r/programming bans all discussion of LLM programming",
-      "summary": "Article URL: https://old.reddit.com/r/programming/comments/1s9jkzi/announcement_temporary_llm_content_ban/ Comments URL: https://news.ycombinator.com/item?id=47610336 Points: 170 # Comments: 169",
+      "summary": "Article URL: https://old.reddit.com/r/programming/comments/1s9jkzi/announcement_temporary_llm_content_ban/ Comments URL: https://news.ycombinator.com/item?id=47610336 Points: 178 # Comments: 184",
       "source": "Hacker News",
       "published": "2026-04-02T05:33:20+00:00",
       "link": "https://old.reddit.com/r/programming/comments/1s9jkzi/announcement_temporary_llm_content_ban/"
     },
     {
       "title": "ZomboCom stolen by a hacker, sold, now replaced with AI-generated makeover",
-      "summary": "Article URL: https://old.reddit.com/r/oldinternet/comments/1raiz8v/zombocom_was_stolen_by_hacker_put_up_for_sale_and/ Comments URL: https://news.ycombinator.com/item?id=47608155 Points: 72 # Comments: 34",
+      "summary": "Article URL: https://old.reddit.com/r/oldinternet/comments/1raiz8v/zombocom_was_stolen_by_hacker_put_up_for_sale_and/ Comments URL: https://news.ycombinator.com/item?id=47608155 Points: 73 # Comments: 35",
       "source": "Hacker News",
       "published": "2026-04-01T23:45:03+00:00",
       "link": "https://old.reddit.com/r/oldinternet/comments/1raiz8v/zombocom_was_stolen_by_hacker_put_up_for_sale_and/"
@@ -234,14 +255,14 @@ const FEED_DATA = {
     },
     {
       "title": "The AI Marketing BS Index",
-      "summary": "Article URL: https://bastian.rieck.me/blog/2026/bs/ Comments URL: https://news.ycombinator.com/item?id=47604218 Points: 104 # Comments: 22",
+      "summary": "Article URL: https://bastian.rieck.me/blog/2026/bs/ Comments URL: https://news.ycombinator.com/item?id=47604218 Points: 105 # Comments: 22",
       "source": "Hacker News",
       "published": "2026-04-01T17:55:12+00:00",
       "link": "https://bastian.rieck.me/blog/2026/bs/"
     },
     {
       "title": "AI for American-produced cement and concrete",
-      "summary": "Article URL: https://engineering.fb.com/2026/03/30/data-center-engineering/ai-for-american-produced-cement-and-concrete/ Comments URL: https://news.ycombinator.com/item?id=47603737 Points: 214 # Comments: 116",
+      "summary": "Article URL: https://engineering.fb.com/2026/03/30/data-center-engineering/ai-for-american-produced-cement-and-concrete/ Comments URL: https://news.ycombinator.com/item?id=47603737 Points: 215 # Comments: 116",
       "source": "Hacker News",
       "published": "2026-04-01T17:17:24+00:00",
       "link": "https://engineering.fb.com/2026/03/30/data-center-engineering/ai-for-american-produced-cement-and-concrete/"
@@ -892,7 +913,7 @@ const FEED_DATA = {
     },
     {
       "title": "Will the AI data centre boom become a $9T bust?",
-      "summary": "Article URL: https://www.ft.com/content/805f78f3-8da3-4fc0-b860-207a859ac723 Comments URL: https://news.ycombinator.com/item?id=47559948 Points: 53 # Comments: 77",
+      "summary": "Article URL: https://www.ft.com/content/805f78f3-8da3-4fc0-b860-207a859ac723 Comments URL: https://news.ycombinator.com/item?id=47559948 Points: 53 # Comments: 78",
       "source": "Hacker News",
       "published": "2026-03-29T02:35:59+00:00",
       "link": "https://www.ft.com/content/805f78f3-8da3-4fc0-b860-207a859ac723"
@@ -1379,27 +1400,6 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-03-26T18:26:54+00:00",
       "link": "https://the-decoder.com/openai-and-anthropic-before-the-ipo-different-balance-sheets-make-comparison-difficult/"
-    },
-    {
-      "title": "Data centers get ready — the Senate wants to see your power bills",
-      "summary": "Senators Josh Hawley and Elizabeth Warren want the Energy Information Administration to gather more details about how data centers use power — and how that affects the grid.",
-      "source": "TechCrunch",
-      "published": "2026-03-26T18:23:31+00:00",
-      "link": "https://techcrunch.com/2026/03/26/data-centers-get-ready-the-senate-wants-to-see-your-power-bills/"
-    },
-    {
-      "title": "Meet the Tech Reporters Using AI to Help Write and Edit Their Stories",
-      "summary": "Independent writers are using AI agents all throughout their reporting process. What’s the value of a human journalist, anyway?",
-      "source": "Wired",
-      "published": "2026-03-26T18:00:00+00:00",
-      "link": "https://www.wired.com/story/tech-reporters-using-ai-write-edit-stories/"
-    },
-    {
-      "title": "Gemini 3.1 Flash Live is Google's most natural-sounding AI voice model yet",
-      "summary": "Google's Gemini 3.1 Flash Live promises faster, more natural voice conversations. Developers can trade off quality for speed, and pricing stays at Gemini 2.5 levels.",
-      "source": "The Decoder",
-      "published": "2026-03-26T17:35:00+00:00",
-      "link": "https://the-decoder.com/gemini-3-1-flash-live-is-googles-most-natural-sounding-ai-voice-model-yet/"
     }
   ]
 };
