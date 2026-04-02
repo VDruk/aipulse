@@ -1,6 +1,13 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-04-01T23:03:12.119700+00:00",
+  "lastUpdated": "2026-04-02T06:00:55.932510+00:00",
   "items": [
+    {
+      "title": "ZomboCom stolen by a hacker, sold, now replaced with AI-generated makeover",
+      "summary": "Article URL: https://old.reddit.com/r/oldinternet/comments/1raiz8v/zombocom_was_stolen_by_hacker_put_up_for_sale_and/ Comments URL: https://news.ycombinator.com/item?id=47608155 Points: 64 # Comments: 28",
+      "source": "Hacker News",
+      "published": "2026-04-01T23:45:03+00:00",
+      "link": "https://old.reddit.com/r/oldinternet/comments/1raiz8v/zombocom_was_stolen_by_hacker_put_up_for_sale_and/"
+    },
     {
       "title": "Anthropic took down thousands of GitHub repos trying to yank its leaked source code — a move the company says was an accident",
       "summary": "Anthropic executives said it was an accident and retracted the bulk of the takedown notices.",
@@ -38,14 +45,14 @@ const FEED_DATA = {
     },
     {
       "title": "The AI Marketing BS Index",
-      "summary": "Article URL: https://bastian.rieck.me/blog/2026/bs/ Comments URL: https://news.ycombinator.com/item?id=47604218 Points: 82 # Comments: 16",
+      "summary": "Article URL: https://bastian.rieck.me/blog/2026/bs/ Comments URL: https://news.ycombinator.com/item?id=47604218 Points: 96 # Comments: 19",
       "source": "Hacker News",
       "published": "2026-04-01T17:55:12+00:00",
       "link": "https://bastian.rieck.me/blog/2026/bs/"
     },
     {
       "title": "AI for American-produced cement and concrete",
-      "summary": "Article URL: https://engineering.fb.com/2026/03/30/data-center-engineering/ai-for-american-produced-cement-and-concrete/ Comments URL: https://news.ycombinator.com/item?id=47603737 Points: 117 # Comments: 101",
+      "summary": "Article URL: https://engineering.fb.com/2026/03/30/data-center-engineering/ai-for-american-produced-cement-and-concrete/ Comments URL: https://news.ycombinator.com/item?id=47603737 Points: 182 # Comments: 109",
       "source": "Hacker News",
       "published": "2026-04-01T17:17:24+00:00",
       "link": "https://engineering.fb.com/2026/03/30/data-center-engineering/ai-for-american-produced-cement-and-concrete/"
@@ -73,7 +80,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI has suddenly become more useful to open-source developers",
-      "summary": "Article URL: https://www.zdnet.com/article/maybe-open-source-needs-ai/ Comments URL: https://news.ycombinator.com/item?id=47601107 Points: 50 # Comments: 48",
+      "summary": "Article URL: https://www.zdnet.com/article/maybe-open-source-needs-ai/ Comments URL: https://news.ycombinator.com/item?id=47601107 Points: 53 # Comments: 46",
       "source": "Hacker News",
       "published": "2026-04-01T14:07:50+00:00",
       "link": "https://www.zdnet.com/article/maybe-open-source-needs-ai/"
@@ -472,7 +479,7 @@ const FEED_DATA = {
     },
     {
       "title": "The ladder is missing rungs – Engineering Progression When AI Ate the Middle",
-      "summary": "Article URL: https://negroniventurestudios.com/2026/03/19/the-ladder-is-missing-rungs/ Comments URL: https://news.ycombinator.com/item?id=47574346 Points: 95 # Comments: 51",
+      "summary": "Article URL: https://negroniventurestudios.com/2026/03/19/the-ladder-is-missing-rungs/ Comments URL: https://news.ycombinator.com/item?id=47574346 Points: 96 # Comments: 51",
       "source": "Hacker News",
       "published": "2026-03-30T13:51:31+00:00",
       "link": "https://negroniventurestudios.com/2026/03/19/the-ladder-is-missing-rungs/"
@@ -542,7 +549,7 @@ const FEED_DATA = {
     },
     {
       "title": "Mathematical methods and human thought in the age of AI",
-      "summary": "Article URL: https://arxiv.org/abs/2603.26524 Comments URL: https://news.ycombinator.com/item?id=47572771 Points: 215 # Comments: 90",
+      "summary": "Article URL: https://arxiv.org/abs/2603.26524 Comments URL: https://news.ycombinator.com/item?id=47572771 Points: 216 # Comments: 90",
       "source": "Hacker News",
       "published": "2026-03-30T11:05:37+00:00",
       "link": "https://arxiv.org/abs/2603.26524"
@@ -591,7 +598,7 @@ const FEED_DATA = {
     },
     {
       "title": "I am definitely missing the pre-AI writing era",
-      "summary": "Article URL: https://www.lesswrong.com/posts/BJ4pnropWdnzzgeJc/i-am-definitely-missing-the-pre-ai-writing-era Comments URL: https://news.ycombinator.com/item?id=47571279 Points: 317 # Comments: 239",
+      "summary": "Article URL: https://www.lesswrong.com/posts/BJ4pnropWdnzzgeJc/i-am-definitely-missing-the-pre-ai-writing-era Comments URL: https://news.ycombinator.com/item?id=47571279 Points: 319 # Comments: 239",
       "source": "Hacker News",
       "published": "2026-03-30T07:03:18+00:00",
       "link": "https://www.lesswrong.com/posts/BJ4pnropWdnzzgeJc/i-am-definitely-missing-the-pre-ai-writing-era"
@@ -710,7 +717,7 @@ const FEED_DATA = {
     },
     {
       "title": "From 300KB to 69KB per Token: How LLM Architectures Solve the KV Cache Problem",
-      "summary": "Article URL: https://news.future-shock.ai/the-weight-of-remembering/ Comments URL: https://news.ycombinator.com/item?id=47558733 Points: 154 # Comments: 11",
+      "summary": "Article URL: https://news.future-shock.ai/the-weight-of-remembering/ Comments URL: https://news.ycombinator.com/item?id=47558733 Points: 155 # Comments: 11",
       "source": "Hacker News",
       "published": "2026-03-28T22:42:23+00:00",
       "link": "https://news.future-shock.ai/the-weight-of-remembering/"
@@ -1393,13 +1400,6 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-03-25T20:38:45+00:00",
       "link": "https://techcrunch.com/2026/03/25/google-turboquant-ai-memory-compression-silicon-valley-pied-piper/"
-    },
-    {
-      "title": "Disney’s big bets on the metaverse and AI slop aren’t going so well",
-      "summary": "Less than a week into his tenure as Disney's newly appointed CEO, Josh D'Amaro, is already dealing with two separate crises that have cast a shadow over the company's future plans.",
-      "source": "The Verge",
-      "published": "2026-03-25T20:02:48+00:00",
-      "link": "https://www.theverge.com/streaming/900837/disney-open-ai-sora-epic-fortnite-metaverse"
     }
   ]
 };
