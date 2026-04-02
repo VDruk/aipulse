@@ -1,16 +1,51 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-04-02T08:15:24.193808+00:00",
+  "lastUpdated": "2026-04-02T11:34:27.816349+00:00",
   "items": [
     {
+      "title": "GPT reasoning models have \"line of sight\" to AGI, says OpenAI's Greg Brockman",
+      "summary": "OpenAI co-founder Greg Brockman says the debate about whether text-based models can achieve general intelligence is settled. The GPT architecture will lead to AGI.",
+      "source": "The Decoder",
+      "published": "2026-04-02T11:08:48+00:00",
+      "link": "https://the-decoder.com/gpt-reasoning-models-have-line-of-sight-to-agi-says-openais-greg-brockman/"
+    },
+    {
+      "title": "Fuel prices are soaring. Plastic could be next.",
+      "summary": "As the war in Iran continues to engulf the Middle East and the Strait of Hormuz stays closed, one of the most visible global economic ripple effects has been fossil-fuel prices.",
+      "source": "MIT Tech Review",
+      "published": "2026-04-02T10:00:00+00:00",
+      "link": "https://www.technologyreview.com/2026/04/02/1135045/plastic-economic-effects/"
+    },
+    {
+      "title": "Autonomous AI systems depend on data governance",
+      "summary": "Much of the current focus on AI safety has centred on models – how they are trained and monitored. But as systems become more autonomous, attention is changing toward the data those systems depend on.",
+      "source": "AI News",
+      "published": "2026-04-02T10:00:00+00:00",
+      "link": "https://www.artificialintelligence-news.com/news/autonomous-ai-systems-depend-on-data-governance/"
+    },
+    {
+      "title": "Experian uncovers fraud paradox in financial services’ AI adoption",
+      "summary": "The same technology that financial institutions deploying is being weaponised against them. That is the core tension running through Experian’s 2026 Future of Fraud Forecast, and it’s a tension the company is in a position to name because it sits on both sides of it.",
+      "source": "AI News",
+      "published": "2026-04-02T10:00:00+00:00",
+      "link": "https://www.artificialintelligence-news.com/news/experian-ai-fraud-detection-financial-services-2026/"
+    },
+    {
+      "title": "Chinese chipmakers now control 41 percent of China's AI accelerator market",
+      "summary": "Chinese chipmakers captured nearly 41 percent of China's AI accelerator server market in 2025, according to an IDC report seen by Reuters. The article Chinese chipmakers now control 41 percent of China's AI accelerator market appeared first on The Decoder.",
+      "source": "The Decoder",
+      "published": "2026-04-02T08:17:03+00:00",
+      "link": "https://the-decoder.com/chinese-chipmakers-now-control-41-percent-of-chinas-ai-accelerator-market/"
+    },
+    {
       "title": "r/programming bans all discussion of LLM programming",
-      "summary": "Article URL: https://old.reddit.com/r/programming/comments/1s9jkzi/announcement_temporary_llm_content_ban/ Comments URL: https://news.ycombinator.com/item?id=47610336 Points: 128 # Comments: 113",
+      "summary": "Article URL: https://old.reddit.com/r/programming/comments/1s9jkzi/announcement_temporary_llm_content_ban/ Comments URL: https://news.ycombinator.com/item?id=47610336 Points: 141 # Comments: 137",
       "source": "Hacker News",
       "published": "2026-04-02T05:33:20+00:00",
       "link": "https://old.reddit.com/r/programming/comments/1s9jkzi/announcement_temporary_llm_content_ban/"
     },
     {
       "title": "ZomboCom stolen by a hacker, sold, now replaced with AI-generated makeover",
-      "summary": "Article URL: https://old.reddit.com/r/oldinternet/comments/1raiz8v/zombocom_was_stolen_by_hacker_put_up_for_sale_and/ Comments URL: https://news.ycombinator.com/item?id=47608155 Points: 68 # Comments: 29",
+      "summary": "Article URL: https://old.reddit.com/r/oldinternet/comments/1raiz8v/zombocom_was_stolen_by_hacker_put_up_for_sale_and/ Comments URL: https://news.ycombinator.com/item?id=47608155 Points: 69 # Comments: 31",
       "source": "Hacker News",
       "published": "2026-04-01T23:45:03+00:00",
       "link": "https://old.reddit.com/r/oldinternet/comments/1raiz8v/zombocom_was_stolen_by_hacker_put_up_for_sale_and/"
@@ -52,14 +87,14 @@ const FEED_DATA = {
     },
     {
       "title": "The AI Marketing BS Index",
-      "summary": "Article URL: https://bastian.rieck.me/blog/2026/bs/ Comments URL: https://news.ycombinator.com/item?id=47604218 Points: 99 # Comments: 19",
+      "summary": "Article URL: https://bastian.rieck.me/blog/2026/bs/ Comments URL: https://news.ycombinator.com/item?id=47604218 Points: 101 # Comments: 21",
       "source": "Hacker News",
       "published": "2026-04-01T17:55:12+00:00",
       "link": "https://bastian.rieck.me/blog/2026/bs/"
     },
     {
       "title": "AI for American-produced cement and concrete",
-      "summary": "Article URL: https://engineering.fb.com/2026/03/30/data-center-engineering/ai-for-american-produced-cement-and-concrete/ Comments URL: https://news.ycombinator.com/item?id=47603737 Points: 188 # Comments: 110",
+      "summary": "Article URL: https://engineering.fb.com/2026/03/30/data-center-engineering/ai-for-american-produced-cement-and-concrete/ Comments URL: https://news.ycombinator.com/item?id=47603737 Points: 195 # Comments: 113",
       "source": "Hacker News",
       "published": "2026-04-01T17:17:24+00:00",
       "link": "https://engineering.fb.com/2026/03/30/data-center-engineering/ai-for-american-produced-cement-and-concrete/"
@@ -486,7 +521,7 @@ const FEED_DATA = {
     },
     {
       "title": "The ladder is missing rungs – Engineering Progression When AI Ate the Middle",
-      "summary": "Article URL: https://negroniventurestudios.com/2026/03/19/the-ladder-is-missing-rungs/ Comments URL: https://news.ycombinator.com/item?id=47574346 Points: 96 # Comments: 51",
+      "summary": "Article URL: https://negroniventurestudios.com/2026/03/19/the-ladder-is-missing-rungs/ Comments URL: https://news.ycombinator.com/item?id=47574346 Points: 97 # Comments: 51",
       "source": "Hacker News",
       "published": "2026-03-30T13:51:31+00:00",
       "link": "https://negroniventurestudios.com/2026/03/19/the-ladder-is-missing-rungs/"
@@ -556,7 +591,7 @@ const FEED_DATA = {
     },
     {
       "title": "Mathematical methods and human thought in the age of AI",
-      "summary": "Article URL: https://arxiv.org/abs/2603.26524 Comments URL: https://news.ycombinator.com/item?id=47572771 Points: 216 # Comments: 90",
+      "summary": "Article URL: https://arxiv.org/abs/2603.26524 Comments URL: https://news.ycombinator.com/item?id=47572771 Points: 217 # Comments: 90",
       "source": "Hacker News",
       "published": "2026-03-30T11:05:37+00:00",
       "link": "https://arxiv.org/abs/2603.26524"
@@ -1365,41 +1400,6 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-03-26T09:15:26+00:00",
       "link": "https://the-decoder.com/meta-tests-new-way-of-working-with-ai-native-pods-to-boost-productivity/"
-    },
-    {
-      "title": "RPA matters, but AI changes how automation works",
-      "summary": "RPA (robotic process automation) is a practical and proven way to reduce manual work in business processes without AI systems.",
-      "source": "AI News",
-      "published": "2026-03-26T09:11:08+00:00",
-      "link": "https://www.artificialintelligence-news.com/news/rpa-still-matters-but-ai-is-changing-how-automation-works/"
-    },
-    {
-      "title": "Show HN: Robust LLM extractor for websites in TypeScript",
-      "summary": "We've been building data pipelines that scrape websites and extract structured data for a while now.",
-      "source": "Hacker News",
-      "published": "2026-03-26T03:55:52+00:00",
-      "link": "https://github.com/lightfeed/extractor"
-    },
-    {
-      "title": "Mercor competitor Deccan AI raises $25M, sources experts from India",
-      "summary": "Deccan AI concentrates its workforce in India to manage quality in a fast-growing but fragmented AI training market.",
-      "source": "TechCrunch",
-      "published": "2026-03-26T00:30:00+00:00",
-      "link": "https://techcrunch.com/2026/03/25/deccan-ai-raises-25m-as-ai-training-push-relies-on-india-based-workforce/"
-    },
-    {
-      "title": "The AI skills gap is here, says AI company, and power users are pulling ahead",
-      "summary": "Anthropic finds AI isn’t replacing jobs yet, but early data shows growing inequality as experienced users gain an edge, raising concerns about future displacement and workforce divides.",
-      "source": "TechCrunch",
-      "published": "2026-03-25T21:44:13+00:00",
-      "link": "https://techcrunch.com/2026/03/25/the-ai-skills-gap-is-here-says-ai-company-and-power-users-are-pulling-ahead/"
-    },
-    {
-      "title": "Meta is laying off hundreds of employees as it pours money into AI",
-      "summary": "Meta is laying off hundreds of employees across its company, according to reports from The New York Times, NBC News, and The Information.",
-      "source": "The Verge",
-      "published": "2026-03-25T21:10:32+00:00",
-      "link": "https://www.theverge.com/tech/900946/meta-layoffs-hundreds-employees"
     }
   ]
 };
