@@ -1,12 +1,96 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-04-02T11:34:27.816349+00:00",
+  "lastUpdated": "2026-04-02T16:14:17.424242+00:00",
   "items": [
+    {
+      "title": "Google now lets you direct avatars through prompts in its Vids app",
+      "summary": "Google is adding a way to customize and instruct avatars for video creation in the Vids app",
+      "source": "TechCrunch",
+      "published": "2026-04-02T16:00:00+00:00",
+      "link": "https://techcrunch.com/2026/04/02/google-now-lets-you-direct-avatars-through-prompts-in-its-vids-app/"
+    },
+    {
+      "title": "Anthropic Says That Claude Contains Its Own Kind of Emotions",
+      "summary": "Researchers at the company found representations inside of Claude that perform functions similar to human feelings.",
+      "source": "Wired",
+      "published": "2026-04-02T16:00:00+00:00",
+      "link": "https://www.wired.com/story/anthropic-claude-research-functional-emotions/"
+    },
+    {
+      "title": "It’s not easy to get depression-detecting AI through the FDA",
+      "summary": "For the past seven years, the California-based startup Kintsugi has been developing AI designed to detect signs of depression and anxiety from a person's speech.",
+      "source": "The Verge",
+      "published": "2026-04-02T15:33:23+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/905864/depression-detecting-ai-kintsugi-clinical-ai-startup-shut-down"
+    },
+    {
+      "title": "Nvidia sets new MLPerf records with 288 GPUs while AMD and Intel focus on different battles",
+      "summary": "The latest round of the industry's top inference benchmark introduces multimodal and video models for the first time. Nvidia, AMD, and Intel each highlight different metrics, making direct comparisons difficult.",
+      "source": "The Decoder",
+      "published": "2026-04-02T14:59:14+00:00",
+      "link": "https://the-decoder.com/nvidia-sets-new-mlperf-records-with-288-gpus-while-amd-and-intel-focus-on-different-battles/"
+    },
+    {
+      "title": "Alibaba launches Qwen3.6-Plus, its third proprietary AI model in days",
+      "summary": "Alibaba has released Qwen3.6-Plus, its third proprietary AI model in just a few days. The article Alibaba launches Qwen3.6-Plus, its third proprietary AI model in days appeared first on The Decoder.",
+      "source": "The Decoder",
+      "published": "2026-04-02T14:46:19+00:00",
+      "link": "https://the-decoder.com/alibaba-launches-qwen3-6-plus-its-third-proprietary-ai-model-in-days/"
+    },
+    {
+      "title": "5 best practices to secure AI systems",
+      "summary": "A decade ago, it would have been hard to believe that artificial intelligence could do what it can do now. However, it is this same power that introduces a new attack surface that traditional security frameworks were not built to address.",
+      "source": "AI News",
+      "published": "2026-04-02T14:45:03+00:00",
+      "link": "https://www.artificialintelligence-news.com/news/5-best-practices-to-secure-ai-systems/"
+    },
+    {
+      "title": "AI models fail at robot control without human-designed building blocks but agentic scaffolding closes the gap",
+      "summary": "A new framework from Nvidia, UC Berkeley, and Stanford systematically tests how well AI models can control robots through code. The findings: without human-designed abstractions, even top models fail, but methods like targeted test-time compute scaling closes the gap.",
+      "source": "The Decoder",
+      "published": "2026-04-02T14:33:07+00:00",
+      "link": "https://the-decoder.com/ai-models-fail-at-robot-control-without-human-designed-building-blocks-but-agentic-scaffolding-closes-the-gap/"
+    },
+    {
+      "title": "Microsoft’s new ‘superintelligence’ game plan is all about business",
+      "summary": "Mustafa Suleyman has been preparing for his new job description for a long time. Suleyman is Microsoft's inaugural CEO of AI, but after the company underwent a large-scale restructuring in mid-March, he's handed off some duties and shifted focus to chasing superintelligence.",
+      "source": "The Verge",
+      "published": "2026-04-02T14:00:00+00:00",
+      "link": "https://www.theverge.com/report/905791/mustafa-suleyman-microsoft-ai-transcription-model"
+    },
+    {
+      "title": "Google Home’s latest update makes Gemini better at understanding your commands",
+      "summary": "Google is launching another update to its Home app, which is supposed to make controlling your smart home with its Gemini AI assistant \"more natural and reliable,\" according to this week's release notes.",
+      "source": "The Verge",
+      "published": "2026-04-02T13:30:12+00:00",
+      "link": "https://www.theverge.com/tech/905805/google-home-gemini-temperature-controls-lighting"
+    },
+    {
+      "title": "China’s Five-Year Plan details the targets for AI deployment",
+      "summary": "China has approved its 15th Five-Year Plan [PDF] setting out the country’s economic, education, social, and industrial priorities through to 2030. As might be expected, there is a significant number of references to AI, with the technology mentioned in several contexts.",
+      "source": "AI News",
+      "published": "2026-04-02T13:23:00+00:00",
+      "link": "https://www.artificialintelligence-news.com/news/chinas-five-year-plan-details-the-targets-for-ai-deployment/"
+    },
+    {
+      "title": "The Download: plastic’s problem with fuel prices, and SpaceX’s blockbuster IPO",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Fuel prices are soaring.",
+      "source": "MIT Tech Review",
+      "published": "2026-04-02T12:10:00+00:00",
+      "link": "https://www.technologyreview.com/2026/04/02/1135049/the-download-plastic-problem-fuel-prices-spacex-ipo/"
+    },
     {
       "title": "GPT reasoning models have \"line of sight\" to AGI, says OpenAI's Greg Brockman",
       "summary": "OpenAI co-founder Greg Brockman says the debate about whether text-based models can achieve general intelligence is settled. The GPT architecture will lead to AGI.",
       "source": "The Decoder",
       "published": "2026-04-02T11:08:48+00:00",
       "link": "https://the-decoder.com/gpt-reasoning-models-have-line-of-sight-to-agi-says-openais-greg-brockman/"
+    },
+    {
+      "title": "Lemonade by AMD: a fast and open source local LLM server using GPU and NPU",
+      "summary": "Article URL: https://lemonade-server.ai Comments URL: https://news.ycombinator.com/item?id=47612724 Points: 235 # Comments: 57",
+      "source": "Hacker News",
+      "published": "2026-04-02T11:04:51+00:00",
+      "link": "https://lemonade-server.ai"
     },
     {
       "title": "Fuel prices are soaring. Plastic could be next.",
@@ -38,14 +122,14 @@ const FEED_DATA = {
     },
     {
       "title": "r/programming bans all discussion of LLM programming",
-      "summary": "Article URL: https://old.reddit.com/r/programming/comments/1s9jkzi/announcement_temporary_llm_content_ban/ Comments URL: https://news.ycombinator.com/item?id=47610336 Points: 141 # Comments: 137",
+      "summary": "Article URL: https://old.reddit.com/r/programming/comments/1s9jkzi/announcement_temporary_llm_content_ban/ Comments URL: https://news.ycombinator.com/item?id=47610336 Points: 155 # Comments: 165",
       "source": "Hacker News",
       "published": "2026-04-02T05:33:20+00:00",
       "link": "https://old.reddit.com/r/programming/comments/1s9jkzi/announcement_temporary_llm_content_ban/"
     },
     {
       "title": "ZomboCom stolen by a hacker, sold, now replaced with AI-generated makeover",
-      "summary": "Article URL: https://old.reddit.com/r/oldinternet/comments/1raiz8v/zombocom_was_stolen_by_hacker_put_up_for_sale_and/ Comments URL: https://news.ycombinator.com/item?id=47608155 Points: 69 # Comments: 31",
+      "summary": "Article URL: https://old.reddit.com/r/oldinternet/comments/1raiz8v/zombocom_was_stolen_by_hacker_put_up_for_sale_and/ Comments URL: https://news.ycombinator.com/item?id=47608155 Points: 71 # Comments: 34",
       "source": "Hacker News",
       "published": "2026-04-01T23:45:03+00:00",
       "link": "https://old.reddit.com/r/oldinternet/comments/1raiz8v/zombocom_was_stolen_by_hacker_put_up_for_sale_and/"
@@ -87,14 +171,14 @@ const FEED_DATA = {
     },
     {
       "title": "The AI Marketing BS Index",
-      "summary": "Article URL: https://bastian.rieck.me/blog/2026/bs/ Comments URL: https://news.ycombinator.com/item?id=47604218 Points: 101 # Comments: 21",
+      "summary": "Article URL: https://bastian.rieck.me/blog/2026/bs/ Comments URL: https://news.ycombinator.com/item?id=47604218 Points: 103 # Comments: 22",
       "source": "Hacker News",
       "published": "2026-04-01T17:55:12+00:00",
       "link": "https://bastian.rieck.me/blog/2026/bs/"
     },
     {
       "title": "AI for American-produced cement and concrete",
-      "summary": "Article URL: https://engineering.fb.com/2026/03/30/data-center-engineering/ai-for-american-produced-cement-and-concrete/ Comments URL: https://news.ycombinator.com/item?id=47603737 Points: 195 # Comments: 113",
+      "summary": "Article URL: https://engineering.fb.com/2026/03/30/data-center-engineering/ai-for-american-produced-cement-and-concrete/ Comments URL: https://news.ycombinator.com/item?id=47603737 Points: 210 # Comments: 115",
       "source": "Hacker News",
       "published": "2026-04-01T17:17:24+00:00",
       "link": "https://engineering.fb.com/2026/03/30/data-center-engineering/ai-for-american-produced-cement-and-concrete/"
@@ -549,7 +633,7 @@ const FEED_DATA = {
     },
     {
       "title": "How the AI Bubble Bursts",
-      "summary": "Article URL: https://martinvol.pe/blog/2026/03/30/how-the-ai-bubble-bursts/ Comments URL: https://news.ycombinator.com/item?id=47573420 Points: 370 # Comments: 519",
+      "summary": "Article URL: https://martinvol.pe/blog/2026/03/30/how-the-ai-bubble-bursts/ Comments URL: https://news.ycombinator.com/item?id=47573420 Points: 370 # Comments: 520",
       "source": "Hacker News",
       "published": "2026-03-30T12:28:36+00:00",
       "link": "https://martinvol.pe/blog/2026/03/30/how-the-ai-bubble-bursts/"
@@ -1316,90 +1400,6 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-03-26T13:30:00+00:00",
       "link": "https://techcrunch.com/2026/03/26/cohere-launches-an-open-source-voice-model-specifically-for-transcription/"
-    },
-    {
-      "title": "Webtoon is adding AI localization tools to its comics platform",
-      "summary": "Canvas, Webtoon's platform for user-uploaded comics, is about to get a major overhaul that's designed to help creators make more money and share their art with a wider audience.",
-      "source": "The Verge",
-      "published": "2026-03-26T13:00:00+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/899108/webtoon-canvas-ai-translation-localization-yongsoo-kim"
-    },
-    {
-      "title": "EU backs nude app ban and delays to landmark AI rules",
-      "summary": "European lawmakers have voted to delay key parts of the EU AI Act, the bloc's flagship law for regulating artificial intelligence, while also backing proposals to ban nudify apps.",
-      "source": "The Verge",
-      "published": "2026-03-26T12:49:01+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/901315/eu-ai-act-delays-ban-nudify-apps"
-    },
-    {
-      "title": "The Download: a battery pivot to AI, and rewriting math",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Why this battery company is pivoting to AI Qichao Hu doesn’t mince words about the state of the battery industry.",
-      "source": "MIT Tech Review",
-      "published": "2026-03-26T12:42:53+00:00",
-      "link": "https://www.technologyreview.com/2026/03/26/1134697/the-download-battery-ai-pivot-new-ai-tool-math/"
-    },
-    {
-      "title": "OpenAI halts \"Adult Mode\" as advisors, investors, and employees raise red flags",
-      "summary": "OpenAI has put development of an erotic chatbot on hold indefinitely, the Financial Times reports. The article OpenAI halts \"Adult Mode\" as advisors, investors, and employees raise red flags appeared first on The Decoder.",
-      "source": "The Decoder",
-      "published": "2026-03-26T12:34:29+00:00",
-      "link": "https://the-decoder.com/openai-halts-adult-mode-as-advisors-investors-and-employees-raise-red-flags/"
-    },
-    {
-      "title": "GitHub will use Copilot interaction data to train AI models starting April 2026",
-      "summary": "Starting April 24, 2026, GitHub is changing its data policy for Copilot. Interaction data from users on the Free, Pro, and Pro+ plans will be used to train AI models unless users actively opt out.",
-      "source": "The Decoder",
-      "published": "2026-03-26T12:14:02+00:00",
-      "link": "https://the-decoder.com/github-will-use-copilot-interaction-data-to-train-ai-models-starting-april-2026/"
-    },
-    {
-      "title": "A ‘pound of flesh’ from data centers: one senator’s answer to AI job losses",
-      "summary": "Fears of AI-driven job loss are growing fast, and they’re fueling backlash against data centers. Sen.",
-      "source": "TechCrunch",
-      "published": "2026-03-26T12:00:00+00:00",
-      "link": "https://techcrunch.com/2026/03/26/a-pound-of-flesh-from-data-centers-one-senators-answer-to-ai-job-losses/"
-    },
-    {
-      "title": "OpenAI shelves erotic chatbot ‘indefinitely’",
-      "summary": "OpenAI ​has paused plans to release a sexualized \"adult mode\" for ChatGPT, in its latest move to refocus on the company's core ​products.",
-      "source": "The Verge",
-      "published": "2026-03-26T11:58:09+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/901293/openai-adult-mode-erotic-chatbot-shelved-indefinitely"
-    },
-    {
-      "title": "ARC-AGI-3 offers $2M to any AI that matches untrained humans, yet every frontier model scores below 1%",
-      "summary": "The new ARC-AGI-3 benchmark drops AI systems into interactive game environments that humans solve with ease. No frontier model breaks the 1 percent mark because the benchmark strips away their biggest advantages.",
-      "source": "The Decoder",
-      "published": "2026-03-26T11:52:55+00:00",
-      "link": "https://the-decoder.com/arc-agi-3-offers-2m-to-any-ai-that-matches-untrained-humans-yet-every-frontier-model-scores-below-1/"
-    },
-    {
-      "title": "Mistral releases a new open source model for speech generation",
-      "summary": "The model, which lets enterprises build voice agents for sales and customer engagement, puts Mistral in direct competition with the likes of ElevenLabs, Deepgram, and OpenAI.",
-      "source": "TechCrunch",
-      "published": "2026-03-26T11:30:00+00:00",
-      "link": "https://techcrunch.com/2026/03/26/mistral-releases-a-new-open-source-model-for-speech-generation/"
-    },
-    {
-      "title": "Mistral releases a new open-source model for speech generation",
-      "summary": "Mistral's new speech model can run on a smartwatch or a smartphone.",
-      "source": "TechCrunch",
-      "published": "2026-03-26T11:30:00+00:00",
-      "link": "https://techcrunch.com/2026/03/26/mistral-releases-a-new-open-source-model-for-speech-generation/"
-    },
-    {
-      "title": "‘She’s Never Going to Age’: Porn Stars Are Embracing AI Clones to Stay Forever Young",
-      "summary": "AI companion platforms like OhChat and SinfulX are offering adult creators digital twins, who are always at their peak and stay monetizing.",
-      "source": "Wired",
-      "published": "2026-03-26T10:30:00+00:00",
-      "link": "https://www.wired.com/story/shes-never-going-to-age-porn-stars-are-embracing-ai-clones-to-stay-forever-young/"
-    },
-    {
-      "title": "Meta tests new way of working with \"AI-native pods\" to boost productivity",
-      "summary": "Meta is reshaping parts of Reality Labs into small, AI-driven teams, betting it will boost productivity. The article Meta tests new way of working with \"AI-native pods\" to boost productivity appeared first on The Decoder.",
-      "source": "The Decoder",
-      "published": "2026-03-26T09:15:26+00:00",
-      "link": "https://the-decoder.com/meta-tests-new-way-of-working-with-ai-native-pods-to-boost-productivity/"
     }
   ]
 };
