@@ -1,9 +1,72 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-04-02T16:14:17.424242+00:00",
+  "lastUpdated": "2026-04-02T19:38:13.606823+00:00",
   "items": [
     {
+      "title": "OpenAI Buys Some Positive News",
+      "summary": "OpenAI is acquiring TBPN, a business talk show that’s popular among Silicon Valley elites, as it continues to battle its negative public image.",
+      "source": "Wired",
+      "published": "2026-04-02T19:29:48+00:00",
+      "link": "https://www.wired.com/story/openai-acquires-tbpn-buys-positive-news-coverage/"
+    },
+    {
+      "title": "OpenAI acquires TBPN, the buzzy founder-led business talk show",
+      "summary": "TBPN, Silicon Valley's cult-favorite tech podcast, will operate independently, even as it's overseen by chief political operative, Chris Lehane.",
+      "source": "TechCrunch",
+      "published": "2026-04-02T19:21:00+00:00",
+      "link": "https://techcrunch.com/2026/04/02/openai-acquires-tbpn-the-buzzy-founder-led-business-talk-show/"
+    },
+    {
+      "title": "Google's Gemma 4 is now available with Apache 2.0 licensing for the first time",
+      "summary": "Google is releasing Gemma 4, its most capable open model family yet. The four new models run on everything from smartphones to workstations and ship under a fully open Apache 2.0 license for the first time.",
+      "source": "The Decoder",
+      "published": "2026-04-02T18:06:37+00:00",
+      "link": "https://the-decoder.com/googles-gemma-4-is-now-available-with-apache-2-0-licensing-for-the-first-time/"
+    },
+    {
+      "title": "OpenAI just bought TBPN",
+      "summary": "OpenAI has purchased TBPN, an online talk show that often interviews AI executives and other tech leaders.",
+      "source": "The Verge",
+      "published": "2026-04-02T17:40:07+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/906022/openai-buys-tbpn"
+    },
+    {
+      "title": "Sakana AI launches \"Ultra Deep Research\" to automate weeks of strategy work",
+      "summary": "Sakana AI has unveiled \"Sakana Marlin,\" an AI assistant for business customers that researches autonomously for up to eight hours and delivers finished analyses. The tool is designed to compress weeks of strategy work into hours and is currently in beta testing.",
+      "source": "The Decoder",
+      "published": "2026-04-02T17:24:35+00:00",
+      "link": "https://the-decoder.com/sakana-ai-launches-ultra-deep-research-to-automate-weeks-of-strategy-work/"
+    },
+    {
+      "title": "Cursor Launches a New AI Agent Experience to Take On Claude Code and Codex",
+      "summary": "As Cursor launches the next generation of its product, the AI coding startup has to compete with OpenAI and Anthropic more directly than ever.",
+      "source": "Wired",
+      "published": "2026-04-02T17:00:00+00:00",
+      "link": "https://www.wired.com/story/cusor-launches-coding-agent-openai-anthropic/"
+    },
+    {
+      "title": "Microsoft takes on AI rivals with three new foundational models",
+      "summary": "MAI released models that can transcribe voice into text as well as generate audio and images after the group's formation six months ago.",
+      "source": "TechCrunch",
+      "published": "2026-04-02T16:48:16+00:00",
+      "link": "https://techcrunch.com/2026/04/02/microsoft-takes-on-ai-rivals-with-three-new-foundational-models/"
+    },
+    {
+      "title": "KiloClaw targets shadow AI with autonomous agent governance",
+      "summary": "With the launch of KiloClaw, enterprises now have a tool to enforce governance over autonomous agents and manage shadow AI.",
+      "source": "AI News",
+      "published": "2026-04-02T16:30:53+00:00",
+      "link": "https://www.artificialintelligence-news.com/news/kiloclaw-targets-shadow-ai-autonomous-agent-governance/"
+    },
+    {
+      "title": "Microsoft's MAI-Transcribe-1 runs 2.5x faster than its predecessor at $0.36 per audio hour",
+      "summary": "MAI-Transcribe-1 converts speech to text quickly and accurately in 25 languages, even with background noise. Microsoft is already using the model in its own products.",
+      "source": "The Decoder",
+      "published": "2026-04-02T16:26:53+00:00",
+      "link": "https://the-decoder.com/microsofts-mai-transcribe-1-runs-2-5x-faster-than-its-predecessor-at-0-36-per-audio-hour/"
+    },
+    {
       "title": "Google now lets you direct avatars through prompts in its Vids app",
-      "summary": "Google is adding a way to customize and instruct avatars for video creation in the Vids app",
+      "summary": "Google is adding a way to customize and instruct avatars for video creation in the Vids app.",
       "source": "TechCrunch",
       "published": "2026-04-02T16:00:00+00:00",
       "link": "https://techcrunch.com/2026/04/02/google-now-lets-you-direct-avatars-through-prompts-in-its-vids-app/"
@@ -87,7 +150,7 @@ const FEED_DATA = {
     },
     {
       "title": "Lemonade by AMD: a fast and open source local LLM server using GPU and NPU",
-      "summary": "Article URL: https://lemonade-server.ai Comments URL: https://news.ycombinator.com/item?id=47612724 Points: 235 # Comments: 57",
+      "summary": "Article URL: https://lemonade-server.ai Comments URL: https://news.ycombinator.com/item?id=47612724 Points: 337 # Comments: 82",
       "source": "Hacker News",
       "published": "2026-04-02T11:04:51+00:00",
       "link": "https://lemonade-server.ai"
@@ -122,14 +185,14 @@ const FEED_DATA = {
     },
     {
       "title": "r/programming bans all discussion of LLM programming",
-      "summary": "Article URL: https://old.reddit.com/r/programming/comments/1s9jkzi/announcement_temporary_llm_content_ban/ Comments URL: https://news.ycombinator.com/item?id=47610336 Points: 155 # Comments: 165",
+      "summary": "Article URL: https://old.reddit.com/r/programming/comments/1s9jkzi/announcement_temporary_llm_content_ban/ Comments URL: https://news.ycombinator.com/item?id=47610336 Points: 170 # Comments: 169",
       "source": "Hacker News",
       "published": "2026-04-02T05:33:20+00:00",
       "link": "https://old.reddit.com/r/programming/comments/1s9jkzi/announcement_temporary_llm_content_ban/"
     },
     {
       "title": "ZomboCom stolen by a hacker, sold, now replaced with AI-generated makeover",
-      "summary": "Article URL: https://old.reddit.com/r/oldinternet/comments/1raiz8v/zombocom_was_stolen_by_hacker_put_up_for_sale_and/ Comments URL: https://news.ycombinator.com/item?id=47608155 Points: 71 # Comments: 34",
+      "summary": "Article URL: https://old.reddit.com/r/oldinternet/comments/1raiz8v/zombocom_was_stolen_by_hacker_put_up_for_sale_and/ Comments URL: https://news.ycombinator.com/item?id=47608155 Points: 72 # Comments: 34",
       "source": "Hacker News",
       "published": "2026-04-01T23:45:03+00:00",
       "link": "https://old.reddit.com/r/oldinternet/comments/1raiz8v/zombocom_was_stolen_by_hacker_put_up_for_sale_and/"
@@ -171,14 +234,14 @@ const FEED_DATA = {
     },
     {
       "title": "The AI Marketing BS Index",
-      "summary": "Article URL: https://bastian.rieck.me/blog/2026/bs/ Comments URL: https://news.ycombinator.com/item?id=47604218 Points: 103 # Comments: 22",
+      "summary": "Article URL: https://bastian.rieck.me/blog/2026/bs/ Comments URL: https://news.ycombinator.com/item?id=47604218 Points: 104 # Comments: 22",
       "source": "Hacker News",
       "published": "2026-04-01T17:55:12+00:00",
       "link": "https://bastian.rieck.me/blog/2026/bs/"
     },
     {
       "title": "AI for American-produced cement and concrete",
-      "summary": "Article URL: https://engineering.fb.com/2026/03/30/data-center-engineering/ai-for-american-produced-cement-and-concrete/ Comments URL: https://news.ycombinator.com/item?id=47603737 Points: 210 # Comments: 115",
+      "summary": "Article URL: https://engineering.fb.com/2026/03/30/data-center-engineering/ai-for-american-produced-cement-and-concrete/ Comments URL: https://news.ycombinator.com/item?id=47603737 Points: 214 # Comments: 116",
       "source": "Hacker News",
       "published": "2026-04-01T17:17:24+00:00",
       "link": "https://engineering.fb.com/2026/03/30/data-center-engineering/ai-for-american-produced-cement-and-concrete/"
@@ -443,18 +506,18 @@ const FEED_DATA = {
       "link": "https://techcrunch.com/2026/03/31/ring-app-store-bets-on-ai-to-go-beyond-home-security/"
     },
     {
-      "title": "You can order Grubhub and Uber Eats ‘conversationally’ with Alexa Plus",
-      "summary": "Amazon is giving you a new way to order food through Grubhub and Uber Eats with Alexa without having to endure an awkward exchange just to add fries. Amazon said the entire process is meant to be conversational, building your order in a similar manner to ordering in a restaurant.",
-      "source": "The Verge",
-      "published": "2026-03-31T13:00:00+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/903938/alexa-plus-order-food-grubhub-uber-eats"
-    },
-    {
       "title": "AI Has Flooded All the Weather Apps",
       "summary": "Weather forecasting has gotten a big boost from machine learning. How that translates into what users see can vary.",
       "source": "Wired",
       "published": "2026-03-31T13:00:00+00:00",
       "link": "https://www.wired.com/story/ai-has-flooded-all-the-weather-apps/"
+    },
+    {
+      "title": "You can order Grubhub and Uber Eats ‘conversationally’ with Alexa Plus",
+      "summary": "Amazon is giving you a new way to order food through Grubhub and Uber Eats with Alexa without having to endure an awkward exchange just to add fries. Amazon said the entire process is meant to be conversational, building your order in a similar manner to ordering in a restaurant.",
+      "source": "The Verge",
+      "published": "2026-03-31T13:00:00+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/903938/alexa-plus-order-food-grubhub-uber-eats"
     },
     {
       "title": "Qwen3.5-Omni learned to write code from spoken instructions and video without anyone training it to",
@@ -724,7 +787,7 @@ const FEED_DATA = {
     },
     {
       "title": "I am definitely missing the pre-AI writing era",
-      "summary": "Article URL: https://www.lesswrong.com/posts/BJ4pnropWdnzzgeJc/i-am-definitely-missing-the-pre-ai-writing-era Comments URL: https://news.ycombinator.com/item?id=47571279 Points: 319 # Comments: 239",
+      "summary": "Article URL: https://www.lesswrong.com/posts/BJ4pnropWdnzzgeJc/i-am-definitely-missing-the-pre-ai-writing-era Comments URL: https://news.ycombinator.com/item?id=47571279 Points: 320 # Comments: 240",
       "source": "Hacker News",
       "published": "2026-03-30T07:03:18+00:00",
       "link": "https://www.lesswrong.com/posts/BJ4pnropWdnzzgeJc/i-am-definitely-missing-the-pre-ai-writing-era"
@@ -1337,69 +1400,6 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-03-26T17:35:00+00:00",
       "link": "https://the-decoder.com/gemini-3-1-flash-live-is-googles-most-natural-sounding-ai-voice-model-yet/"
-    },
-    {
-      "title": "Google rolls out Search Live globally, turning your phone camera into a real-time AI search tool",
-      "summary": "Google is rolling out \"Search Live\" to more than 200 countries. The feature lets users talk to Google Search using voice and camera.",
-      "source": "The Decoder",
-      "published": "2026-03-26T17:08:47+00:00",
-      "link": "https://the-decoder.com/google-rolls-out-search-live-globally-turning-your-phone-camera-into-a-real-time-ai-search-tool/"
-    },
-    {
-      "title": "Meta gets ready to launch two new Ray-Ban AI glasses",
-      "summary": "This is Lowpass by Janko Roettgers, a newsletter on the ever-evolving intersection of tech and entertainment, syndicated just for The Verge subscribers once a week.",
-      "source": "The Verge",
-      "published": "2026-03-26T16:30:00+00:00",
-      "link": "https://www.theverge.com/column/901314/meta-new-ray-ban-ai-glasses"
-    },
-    {
-      "title": "ByteDance’s new AI video generation model, Dreamina Seedance 2.0, comes to CapCut",
-      "summary": "The new model in CapCut will have built-in protections for making video from real faces or unauthorized intellectual property.",
-      "source": "TechCrunch",
-      "published": "2026-03-26T15:25:13+00:00",
-      "link": "https://techcrunch.com/2026/03/26/bytedances-new-ai-video-generation-model-dreamina-seedance-2-0-comes-to-capcut/"
-    },
-    {
-      "title": "Wikipedia bans AI-generated articles",
-      "summary": "Wikipedia will no longer allow editors to write or rewrite articles using AI. The update, which was added to Wikipedia's guidelines late last week, cites the tendency for AI-written articles to violate \"several of Wikipedia's core content policies\" as the reason for the ban.",
-      "source": "The Verge",
-      "published": "2026-03-26T15:02:52+00:00",
-      "link": "https://www.theverge.com/tech/901461/wikipedia-ai-generated-article-ban"
-    },
-    {
-      "title": "Senators are pushing to find out how much electricity data centers actually use",
-      "summary": "On Thursday, senators Elizabeth Warren (D-MA) and Josh Hawley (R-MO) sent a letter to the Energy Information Administration (EIA) asking it to collect \"comprehensive, annual energy-use disclosures\" on data centers and make that information publicly available, as first reported...",
-      "source": "The Verge",
-      "published": "2026-03-26T14:25:32+00:00",
-      "link": "https://www.theverge.com/policy/901404/senators-warren-hawley-eia-letter-data-centers"
-    },
-    {
-      "title": "Conntour raises $7M from General Catalyst, YC to build an AI search engine for security video systems",
-      "summary": "Conntour uses AI models to let security teams query camera feeds using natural language to find any object, person, or situation.",
-      "source": "TechCrunch",
-      "published": "2026-03-26T13:41:00+00:00",
-      "link": "https://techcrunch.com/2026/03/26/conntour-raises-7m-from-general-catalyst-yc-to-build-an-ai-search-engine-for-security-video-systems/"
-    },
-    {
-      "title": "AI users whose lives were wrecked by delusion",
-      "summary": "Article URL: https://www.theguardian.com/lifeandstyle/2026/mar/26/ai-chatbot-users-lives-wrecked-by-delusion Comments URL: https://news.ycombinator.com/item?id=47530264 Points: 219 # Comments: 275",
-      "source": "Hacker News",
-      "published": "2026-03-26T13:32:23+00:00",
-      "link": "https://www.theguardian.com/lifeandstyle/2026/mar/26/ai-chatbot-users-lives-wrecked-by-delusion"
-    },
-    {
-      "title": "Marriage over, €100k down; AI users whose lives were wrecked by delusion",
-      "summary": "Article URL: https://www.theguardian.com/lifeandstyle/2026/mar/26/ai-chatbot-users-lives-wrecked-by-delusion Comments URL: https://news.ycombinator.com/item?id=47530264 Points: 84 # Comments: 73",
-      "source": "Hacker News",
-      "published": "2026-03-26T13:32:23+00:00",
-      "link": "https://www.theguardian.com/lifeandstyle/2026/mar/26/ai-chatbot-users-lives-wrecked-by-delusion"
-    },
-    {
-      "title": "Cohere launches an open source voice model specifically for transcription",
-      "summary": "Relatively light at just 2 billion parameters, the model is meant for use with consumer-grade GPUs for those who want to self-host it. It currently supports 14 languages.",
-      "source": "TechCrunch",
-      "published": "2026-03-26T13:30:00+00:00",
-      "link": "https://techcrunch.com/2026/03/26/cohere-launches-an-open-source-voice-model-specifically-for-transcription/"
     }
   ]
 };
