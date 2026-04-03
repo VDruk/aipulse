@@ -1,6 +1,62 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-04-03T19:27:15.701766+00:00",
+  "lastUpdated": "2026-04-03T22:01:49.455995+00:00",
   "items": [
+    {
+      "title": "Meta Pauses Work With Mercor After Data Breach Puts AI Industry Secrets at Risk",
+      "summary": "Major AI labs are investigating a security incident that impacted Mercor, a leading data vendor. The incident could have exposed key data about how they train AI models.",
+      "source": "Wired",
+      "published": "2026-04-03T21:28:14+00:00",
+      "link": "https://www.wired.com/story/meta-pauses-work-with-mercor-after-data-breach-puts-ai-industry-secrets-at-risk/"
+    },
+    {
+      "title": "OpenAI executive shuffle includes new role for COO Brad Lightcap to lead ‘special projects’",
+      "summary": "In addition to Lightcap's new role, OpenAI CMO Kate Rouch will be stepping away from the company to focus on cancer recovery, with a plan to return when her health allows.",
+      "source": "TechCrunch",
+      "published": "2026-04-03T20:35:34+00:00",
+      "link": "https://techcrunch.com/2026/04/03/openai-executive-shuffle-new-roles-coo-brad-lightcap-fidji-simo-kate-rouch/"
+    },
+    {
+      "title": "OpenClaw gives users yet another reason to be freaked out about security",
+      "summary": "The viral AI agentic tool let attackers silently gain admin unauthenticated access.",
+      "source": "Ars Technica",
+      "published": "2026-04-03T20:30:15+00:00",
+      "link": "https://arstechnica.com/security/2026/04/heres-why-its-prudent-for-openclaw-users-to-assume-compromise/"
+    },
+    {
+      "title": "Anthropic buys biotech startup Coefficient Bio in $400M deal: Reports",
+      "summary": "Anthropic has purchased the stealth biotech AI startup Coefficient Bio in a $400 million stock deal, according to The Information and Eric Newcomer.",
+      "source": "TechCrunch",
+      "published": "2026-04-03T20:28:40+00:00",
+      "link": "https://techcrunch.com/2026/04/03/anthropic-buys-biotech-startup-coefficient-bio-in-400m-deal-reports/"
+    },
+    {
+      "title": "OpenAI’s AGI boss is taking a leave of absence",
+      "summary": "OpenAI is undergoing another round of C-suite changes, according to an internal memo viewed by The Verge.",
+      "source": "The Verge",
+      "published": "2026-04-03T20:22:59+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/906965/openais-agi-boss-is-taking-a-leave-of-absence"
+    },
+    {
+      "title": "Anthropic ramps up its political activities with a new PAC",
+      "summary": "With the midterms right around the corner, the new group is positioned to back candidates who support the AI company's policy agenda.",
+      "source": "TechCrunch",
+      "published": "2026-04-03T20:22:18+00:00",
+      "link": "https://techcrunch.com/2026/04/03/anthropic-ramps-up-its-political-activities-with-a-new-pac/"
+    },
+    {
+      "title": "AI companies are building huge natural gas plants to power data centers. What could go wrong?",
+      "summary": "Meta, Microsoft, and Google are all betting big on new natural gas power plants to run their AI data centers. They may regret it.",
+      "source": "TechCrunch",
+      "published": "2026-04-03T19:48:22+00:00",
+      "link": "https://techcrunch.com/2026/04/03/ai-energy-microsoft-meta-google-natural-gas-mining-fomo/"
+    },
+    {
+      "title": "OpenAI’s Fidji Simo Is Taking Medical Leave Amid an Executive Shake-Up",
+      "summary": "The company is undergoing major leadership restructuring as its CEO of AGI deployment goes on leave for “several weeks.”",
+      "source": "Wired",
+      "published": "2026-04-03T19:38:35+00:00",
+      "link": "https://www.wired.com/story/openais-fidji-simo-is-taking-a-leave-of-absence/"
+    },
     {
       "title": "Deepseek v4 will reportedly run entirely on Huawei chips in a major win for China's AI independence push",
       "summary": "Deepseek v4 is expected to launch in the coming weeks and will run exclusively on Huawei chips. China's biggest tech companies have reportedly already ordered hundreds of thousands of units.",
@@ -1344,62 +1400,6 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-03-27T10:50:44+00:00",
       "link": "https://the-decoder.com/openais-codex-gets-a-plugin-marketplace-for-slack-notion-figma-and-more/"
-    },
-    {
-      "title": "I Asked ChatGPT 500 Questions. Here Are the Ads I Saw Most Often",
-      "summary": "Ads are rolling out across the US on ChatGPT’s free tier. I asked OpenAI's bot 500 questions to see what these ads were like and how they related to my prompts.",
-      "source": "Wired",
-      "published": "2026-03-27T10:30:00+00:00",
-      "link": "https://www.wired.com/story/i-asked-chatgpt-500-questions-here-are-the-ads-i-saw-most-often/"
-    },
-    {
-      "title": "Here’s why some people choose cryonics to store their bodies and brains after death",
-      "summary": "This week I reported on some rather unusual research that focuses on the brain of L. Stephen Coles.",
-      "source": "MIT Tech Review",
-      "published": "2026-03-27T09:00:00+00:00",
-      "link": "https://www.technologyreview.com/2026/03/27/1134705/cryonics-store-bodies-brains-after-death/"
-    },
-    {
-      "title": "Anthropic confirms leaked model marks a \"step change\" in reasoning after data breach reveals its existence",
-      "summary": "Anthropic accidentally exposed its most capable AI model yet thanks to a basic security blunder. As OpenAI preps its own next-generation release, both companies are racing to flex their best tech before going public.",
-      "source": "The Decoder",
-      "published": "2026-03-27T08:53:09+00:00",
-      "link": "https://the-decoder.com/anthropic-confirms-leaked-model-marks-a-step-change-in-reasoning-after-data-breach-reveals-its-existence/"
-    },
-    {
-      "title": "A leak reveals that Anthropic is testing a more capable AI model \"Claude Mythos\"",
-      "summary": "Article URL: https://fortune.com/2026/03/26/anthropic-says-testing-mythos-powerful-new-ai-model-after-data-leak-reveals-its-existence-step-change-in-capabilities/ Comments URL: https://news.ycombinator.com/item?id=47538795 Points: 65 # Comments: 22",
-      "source": "Hacker News",
-      "published": "2026-03-27T03:21:35+00:00",
-      "link": "https://fortune.com/2026/03/26/anthropic-says-testing-mythos-powerful-new-ai-model-after-data-leak-reveals-its-existence-step-change-in-capabilities/"
-    },
-    {
-      "title": "David Sacks is done as AI czar — here’s what he’s doing instead",
-      "summary": "Sacks will be much further from the power center in Washington than since the outset of this second Trump administration.",
-      "source": "TechCrunch",
-      "published": "2026-03-27T01:26:40+00:00",
-      "link": "https://techcrunch.com/2026/03/26/david-sacks-is-done-as-ai-czar-heres-what-hes-doing-instead/"
-    },
-    {
-      "title": "Anthropic wins injunction against Trump administration over Defense Department saga",
-      "summary": "A federal judge has ordered that the Trump administration rescind recent restrictions it placed on the AI company.",
-      "source": "TechCrunch",
-      "published": "2026-03-27T01:18:38+00:00",
-      "link": "https://techcrunch.com/2026/03/26/anthropic-wins-injunction-against-trump-administration-over-defense-department-saga/"
-    },
-    {
-      "title": "Judge sides with Anthropic to temporarily block the Pentagon’s ban",
-      "summary": "After Anthropic's weeks-long standoff with the Pentagon, the company won one milestone: A judge granted Anthropic a preliminary injunction in its lawsuit, which sought to reverse its government blacklisting while the judicial process plays out.",
-      "source": "The Verge",
-      "published": "2026-03-27T00:33:44+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/902149/anthropic-dod-pentagon-lawsuit-supply-chain-risk-injunction"
-    },
-    {
-      "title": "You can now transfer your chats and personal information from other chatbots directly into Gemini",
-      "summary": "Google is launching \"switching tools\" that, just as it sounds, will make it easier for users of other chatbots to switch to Gemini.",
-      "source": "TechCrunch",
-      "published": "2026-03-26T23:47:56+00:00",
-      "link": "https://techcrunch.com/2026/03/26/you-can-now-transfer-your-chats-and-personal-information-from-other-chatbots-directly-into-gemini/"
     }
   ]
 };
