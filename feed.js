@@ -1,6 +1,27 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-04-03T08:08:47.769365+00:00",
+  "lastUpdated": "2026-04-03T11:25:15.549470+00:00",
   "items": [
+    {
+      "title": "OpenAI decides the best way to fight critical AI coverage is to own a newsroom",
+      "summary": "OpenAI has acquired tech talk show TBPN. The show will supposedly remain editorially independent but report to OpenAI's communications department.",
+      "source": "The Decoder",
+      "published": "2026-04-03T11:03:52+00:00",
+      "link": "https://the-decoder.com/openai-decides-the-best-way-to-fight-critical-ai-coverage-is-to-own-a-newsroom/"
+    },
+    {
+      "title": "The 3 Best Portable Jump Starters in 2026: Get Charged Up",
+      "summary": "The new crop of portable jump starters means you'll never be stuck waiting on a tow. Here are the devices we'd trust.",
+      "source": "Wired",
+      "published": "2026-04-03T10:39:00+00:00",
+      "link": "https://www.wired.com/story/best-portable-jump-starters/"
+    },
+    {
+      "title": "New Cursor 3 ditches the classic IDE layout for an \"agent-first\" interface built around parallel AI fleets",
+      "summary": "Version 3 of the AI coding tool Cursor introduces a completely redesigned interface built to move developers from manual code editing to running multiple AI agents in parallel.",
+      "source": "The Decoder",
+      "published": "2026-04-03T09:32:42+00:00",
+      "link": "https://the-decoder.com/new-cursor-3-ditches-the-classic-ide-layout-for-an-agent-first-interface-built-around-parallel-ai-fleets/"
+    },
     {
       "title": "PSA: Anyone with a link can view your Granola notes by default",
       "summary": "If you use the AI-powered note-taking app Granola, you might want to double-check your privacy settings. Though Granola says your notes are \"private by default,\" it makes them viewable to anyone with a link, and also uses them for internal AI training unless you opt out.",
@@ -1379,27 +1400,6 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-03-26T19:54:12+00:00",
       "link": "https://the-decoder.com/apple-gets-full-gemini-access-and-uses-distillation-to-build-lightweight-on-device-ai/"
-    },
-    {
-      "title": "Mistral's first open-weight TTS model Voxtral clones voices from three seconds of audio across nine languages",
-      "summary": "French AI startup Mistral has released Voxtral TTS, its first text-to-speech model that supports nine languages and can clone voices from just three seconds of audio.",
-      "source": "The Decoder",
-      "published": "2026-03-26T19:16:58+00:00",
-      "link": "https://the-decoder.com/mistrals-first-open-weight-tts-model-voxtral-clones-voices-from-three-seconds-of-audio-across-nine-languages/"
-    },
-    {
-      "title": "Google’s ‘live’ AI search assistant can handle conversations in dozens more languages",
-      "summary": "Google is expanding access to Search Live, a feature that lets you search for information using your voice and camera. The AI search assistant is now available in more than 200 countries and territories, as well as dozens of languages, according to an announcement on Thursday.",
-      "source": "The Verge",
-      "published": "2026-03-26T18:47:51+00:00",
-      "link": "https://www.theverge.com/tech/901816/google-search-live-ai-assistant-expansion"
-    },
-    {
-      "title": "OpenAI abandons yet another side quest: ChatGPT’s erotic mode",
-      "summary": "It's only the latest of several side projects that the AI startup has ditched over the past week.",
-      "source": "TechCrunch",
-      "published": "2026-03-26T18:34:02+00:00",
-      "link": "https://techcrunch.com/2026/03/26/openai-abandons-yet-another-side-quest-chatgpts-erotic-mode/"
     }
   ]
 };
