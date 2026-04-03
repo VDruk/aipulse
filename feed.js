@@ -1,6 +1,48 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-04-03T11:25:15.549470+00:00",
+  "lastUpdated": "2026-04-03T15:28:54.154840+00:00",
   "items": [
+    {
+      "title": "Anthropic says Claude Code's usage drain comes down to peak-hour caps and ballooning contexts",
+      "summary": "Anthropic explains why Claude Code users have been burning through their limits so fast and shares tips to cut down on token usage. The article Anthropic says Claude Code's usage drain comes down to peak-hour caps and ballooning contexts appeared first on The Decoder.",
+      "source": "The Decoder",
+      "published": "2026-04-03T14:54:05+00:00",
+      "link": "https://the-decoder.com/anthropic-says-claude-codes-usage-drain-comes-down-to-peak-hour-caps-and-ballooning-contexts/"
+    },
+    {
+      "title": "OpenAI shifts to usage-based pricing for Codex in ChatGPT business plans",
+      "summary": "OpenAI is ditching fixed licenses for Codex in its ChatGPT business plans. Instead, companies only pay for what they actually use, a move aimed squarely at GitHub Copilot and Cursor.",
+      "source": "The Decoder",
+      "published": "2026-04-03T14:23:30+00:00",
+      "link": "https://the-decoder.com/openai-shifts-to-usage-based-pricing-for-codex-in-chatgpt-business-plans/"
+    },
+    {
+      "title": "The Facebook insider building content moderation for the AI era",
+      "summary": "Moonbounce has raised $12 million to grow its AI control engine that converts content moderation policies into consistent, predictable AI behavior.",
+      "source": "TechCrunch",
+      "published": "2026-04-03T14:00:15+00:00",
+      "link": "https://techcrunch.com/2026/04/03/moonbounce-fundraise-content-moderation-for-the-ai-era/"
+    },
+    {
+      "title": "Zhipu AI's GLM-5V-Turbo turns design mockups directly into executable front-end code",
+      "summary": "Chinese AI startup Zhipu AI has released GLM-5V-Turbo, a multimodal model that processes images, video, and text and is designed for use in agent workflows.",
+      "source": "The Decoder",
+      "published": "2026-04-03T12:04:17+00:00",
+      "link": "https://the-decoder.com/zhipu-ais-glm-5v-turbo-turns-design-mockups-directly-into-executable-front-end-code/"
+    },
+    {
+      "title": "Chatbots are now prescribing psychiatric drugs",
+      "summary": "Utah is allowing an AI system to prescribe psychiatric drugs without a doctor. It's only the second time the state - and the country - has delegated this kind of clinical authority to AI.",
+      "source": "The Verge",
+      "published": "2026-04-03T11:43:21+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/906525/ai-chatbot-prescribe-refill-psychiatric-drugs"
+    },
+    {
+      "title": "Claude Code and Cowork now let Anthropic's AI take control of your Mac or Windows desktop",
+      "summary": "Anthropic has announced a new feature for its AI assistant Claude: the ability to directly operate a user's computer, handling tasks people would normally do themselves at their desk.",
+      "source": "The Decoder",
+      "published": "2026-04-03T11:38:41+00:00",
+      "link": "https://the-decoder.com/claude-code-and-cowork-now-let-anthropics-ai-take-control-of-your-mac-or-windows-desktop/"
+    },
     {
       "title": "OpenAI decides the best way to fight critical AI coverage is to own a newsroom",
       "summary": "OpenAI has acquired tech talk show TBPN. The show will supposedly remain editorially independent but report to OpenAI's communications department.",
@@ -23,6 +65,13 @@ const FEED_DATA = {
       "link": "https://the-decoder.com/new-cursor-3-ditches-the-classic-ide-layout-for-an-agent-first-interface-built-around-parallel-ai-fleets/"
     },
     {
+      "title": "Show HN: Apfel – The free AI already on your Mac",
+      "summary": "Github: https://github.com/Arthur-Ficial/apfel Comments URL: https://news.ycombinator.com/item?id=47624645 Points: 426 # Comments: 89",
+      "source": "Hacker News",
+      "published": "2026-04-03T09:15:34+00:00",
+      "link": "https://apfel.franzai.com"
+    },
+    {
       "title": "PSA: Anyone with a link can view your Granola notes by default",
       "summary": "If you use the AI-powered note-taking app Granola, you might want to double-check your privacy settings. Though Granola says your notes are \"private by default,\" it makes them viewable to anyone with a link, and also uses them for internal AI training unless you opt out.",
       "source": "The Verge",
@@ -31,7 +80,7 @@ const FEED_DATA = {
     },
     {
       "title": "A $20/month user costs OpenAI $65 in compute. AI video is a money furnace",
-      "summary": "Article URL: https://aedelon777.substack.com/p/i-did-the-math-on-sora-ai-video-is Comments URL: https://news.ycombinator.com/item?id=47619322 Points: 64 # Comments: 37",
+      "summary": "Article URL: https://aedelon777.substack.com/p/i-did-the-math-on-sora-ai-video-is Comments URL: https://news.ycombinator.com/item?id=47619322 Points: 70 # Comments: 39",
       "source": "Hacker News",
       "published": "2026-04-02T19:49:51+00:00",
       "link": "https://aedelon777.substack.com/p/i-did-the-math-on-sora-ai-video-is"
@@ -199,7 +248,7 @@ const FEED_DATA = {
     },
     {
       "title": "Lemonade by AMD: a fast and open source local LLM server using GPU and NPU",
-      "summary": "Article URL: https://lemonade-server.ai Comments URL: https://news.ycombinator.com/item?id=47612724 Points: 503 # Comments: 107",
+      "summary": "Article URL: https://lemonade-server.ai Comments URL: https://news.ycombinator.com/item?id=47612724 Points: 537 # Comments: 111",
       "source": "Hacker News",
       "published": "2026-04-02T11:04:51+00:00",
       "link": "https://lemonade-server.ai"
@@ -234,7 +283,7 @@ const FEED_DATA = {
     },
     {
       "title": "r/programming bans all discussion of LLM programming",
-      "summary": "Article URL: https://old.reddit.com/r/programming/comments/1s9jkzi/announcement_temporary_llm_content_ban/ Comments URL: https://news.ycombinator.com/item?id=47610336 Points: 187 # Comments: 196",
+      "summary": "Article URL: https://old.reddit.com/r/programming/comments/1s9jkzi/announcement_temporary_llm_content_ban/ Comments URL: https://news.ycombinator.com/item?id=47610336 Points: 188 # Comments: 209",
       "source": "Hacker News",
       "published": "2026-04-02T05:33:20+00:00",
       "link": "https://old.reddit.com/r/programming/comments/1s9jkzi/announcement_temporary_llm_content_ban/"
@@ -290,7 +339,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI for American-produced cement and concrete",
-      "summary": "Article URL: https://engineering.fb.com/2026/03/30/data-center-engineering/ai-for-american-produced-cement-and-concrete/ Comments URL: https://news.ycombinator.com/item?id=47603737 Points: 216 # Comments: 117",
+      "summary": "Article URL: https://engineering.fb.com/2026/03/30/data-center-engineering/ai-for-american-produced-cement-and-concrete/ Comments URL: https://news.ycombinator.com/item?id=47603737 Points: 219 # Comments: 117",
       "source": "Hacker News",
       "published": "2026-04-01T17:17:24+00:00",
       "link": "https://engineering.fb.com/2026/03/30/data-center-engineering/ai-for-american-produced-cement-and-concrete/"
@@ -717,7 +766,7 @@ const FEED_DATA = {
     },
     {
       "title": "The ladder is missing rungs – Engineering Progression When AI Ate the Middle",
-      "summary": "Article URL: https://negroniventurestudios.com/2026/03/19/the-ladder-is-missing-rungs/ Comments URL: https://news.ycombinator.com/item?id=47574346 Points: 97 # Comments: 51",
+      "summary": "Article URL: https://negroniventurestudios.com/2026/03/19/the-ladder-is-missing-rungs/ Comments URL: https://news.ycombinator.com/item?id=47574346 Points: 97 # Comments: 52",
       "source": "Hacker News",
       "published": "2026-03-30T13:51:31+00:00",
       "link": "https://negroniventurestudios.com/2026/03/19/the-ladder-is-missing-rungs/"
@@ -745,7 +794,7 @@ const FEED_DATA = {
     },
     {
       "title": "How the AI Bubble Bursts",
-      "summary": "Article URL: https://martinvol.pe/blog/2026/03/30/how-the-ai-bubble-bursts/ Comments URL: https://news.ycombinator.com/item?id=47573420 Points: 370 # Comments: 520",
+      "summary": "Article URL: https://martinvol.pe/blog/2026/03/30/how-the-ai-bubble-bursts/ Comments URL: https://news.ycombinator.com/item?id=47573420 Points: 370 # Comments: 521",
       "source": "Hacker News",
       "published": "2026-03-30T12:28:36+00:00",
       "link": "https://martinvol.pe/blog/2026/03/30/how-the-ai-bubble-bursts/"
@@ -836,7 +885,7 @@ const FEED_DATA = {
     },
     {
       "title": "I am definitely missing the pre-AI writing era",
-      "summary": "Article URL: https://www.lesswrong.com/posts/BJ4pnropWdnzzgeJc/i-am-definitely-missing-the-pre-ai-writing-era Comments URL: https://news.ycombinator.com/item?id=47571279 Points: 321 # Comments: 240",
+      "summary": "Article URL: https://www.lesswrong.com/posts/BJ4pnropWdnzzgeJc/i-am-definitely-missing-the-pre-ai-writing-era Comments URL: https://news.ycombinator.com/item?id=47571279 Points: 322 # Comments: 240",
       "source": "Hacker News",
       "published": "2026-03-30T07:03:18+00:00",
       "link": "https://www.lesswrong.com/posts/BJ4pnropWdnzzgeJc/i-am-definitely-missing-the-pre-ai-writing-era"
@@ -920,7 +969,7 @@ const FEED_DATA = {
     },
     {
       "title": "What if AI doesn't need more RAM but better math?",
-      "summary": "Article URL: https://adlrocha.substack.com/p/adlrocha-what-if-ai-doesnt-need-more Comments URL: https://news.ycombinator.com/item?id=47561297 Points: 189 # Comments: 101",
+      "summary": "Article URL: https://adlrocha.substack.com/p/adlrocha-what-if-ai-doesnt-need-more Comments URL: https://news.ycombinator.com/item?id=47561297 Points: 189 # Comments: 103",
       "source": "Hacker News",
       "published": "2026-03-29T08:18:55+00:00",
       "link": "https://adlrocha.substack.com/p/adlrocha-what-if-ai-doesnt-need-more"
@@ -1351,55 +1400,6 @@ const FEED_DATA = {
       "source": "Hacker News",
       "published": "2026-03-26T22:36:41+00:00",
       "link": "https://www.reco.ai/blog/we-rewrote-jsonata-with-ai"
-    },
-    {
-      "title": "Wikipedia cracks down on the use of AI in article writing",
-      "summary": "The site, whose policies are subject to change, has struggled with the issue of AI-generated writing.",
-      "source": "TechCrunch",
-      "published": "2026-03-26T21:50:10+00:00",
-      "link": "https://techcrunch.com/2026/03/26/wikipedia-cracks-down-on-the-use-of-ai-in-article-writing/"
-    },
-    {
-      "title": "Google is making it easier to import another AI’s memory into Gemini",
-      "summary": "After Anthropic updated its tool for copying another AI's memory into Claude earlier this month, Google Gemini is rolling out new \"Import Memory\" and \"Import Chat History\" features on desktop that can help users quickly copy over everything their current AI already knows about...",
-      "source": "The Verge",
-      "published": "2026-03-26T21:44:37+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/902085/google-gemini-import-memory-chat-history"
-    },
-    {
-      "title": "Apple will reportedly allow other AI chatbots to plug into Siri",
-      "summary": "Apple's iOS 27 update will allow users to choose the AI chatbot they want to link with Siri.",
-      "source": "The Verge",
-      "published": "2026-03-26T21:31:27+00:00",
-      "link": "https://www.theverge.com/tech/902048/apple-siri-ai-chatbot-update-ios-27"
-    },
-    {
-      "title": "Apple’s AI Playlist Playground is bad at music",
-      "summary": "Apple Music: \"What do you want to hear?\" Me: \"Atmospheric instrumental black metal to write to.\" Apple Music: \"Here's three metal songs with vocals, a field recording, an ambient electronic track, and a piece of doom jazz.\" I am skeptical of AI's ability to serve up the music I...",
-      "source": "The Verge",
-      "published": "2026-03-26T20:51:31+00:00",
-      "link": "https://www.theverge.com/report/902005/apple-ai-playlist-playground-bad-at-music"
-    },
-    {
-      "title": "New York City hospitals drop Palantir as controversial AI firm expands in UK",
-      "summary": "Article URL: https://www.theguardian.com/technology/2026/mar/26/new-york-hospitals-palantir-ai Comments URL: https://news.ycombinator.com/item?id=47535371 Points: 312 # Comments: 145",
-      "source": "Hacker News",
-      "published": "2026-03-26T20:35:04+00:00",
-      "link": "https://www.theguardian.com/technology/2026/mar/26/new-york-hospitals-palantir-ai"
-    },
-    {
-      "title": "School uses AI to remove 200 books, including Orwell's 1984 and Twilight",
-      "summary": "Article URL: https://www.lbc.co.uk/article/librarian-gobsmacked-school-ai-remove-books-5HjdWsc_2/ Comments URL: https://news.ycombinator.com/item?id=47535246 Points: 60 # Comments: 12",
-      "source": "Hacker News",
-      "published": "2026-03-26T20:23:01+00:00",
-      "link": "https://www.lbc.co.uk/article/librarian-gobsmacked-school-ai-remove-books-5HjdWsc_2/"
-    },
-    {
-      "title": "Apple gets full Gemini access and uses distillation to build lightweight on-device AI",
-      "summary": "Apple taps into Google's Gemini to distill smaller AI models for Siri and its devices. In short, it's paying for what Chinese AI companies allegedly do in secret.",
-      "source": "The Decoder",
-      "published": "2026-03-26T19:54:12+00:00",
-      "link": "https://the-decoder.com/apple-gets-full-gemini-access-and-uses-distillation-to-build-lightweight-on-device-ai/"
     }
   ]
 };
