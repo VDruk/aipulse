@@ -1,5 +1,5 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-04-03T06:01:45.769798+00:00",
+  "lastUpdated": "2026-04-03T08:08:47.769365+00:00",
   "items": [
     {
       "title": "PSA: Anyone with a link can view your Granola notes by default",
@@ -7,6 +7,13 @@ const FEED_DATA = {
       "source": "The Verge",
       "published": "2026-04-02T21:56:16+00:00",
       "link": "https://www.theverge.com/ai-artificial-intelligence/906253/granola-note-links-ai-training-psa"
+    },
+    {
+      "title": "A $20/month user costs OpenAI $65 in compute. AI video is a money furnace",
+      "summary": "Article URL: https://aedelon777.substack.com/p/i-did-the-math-on-sora-ai-video-is Comments URL: https://news.ycombinator.com/item?id=47619322 Points: 64 # Comments: 37",
+      "source": "Hacker News",
+      "published": "2026-04-02T19:49:51+00:00",
+      "link": "https://aedelon777.substack.com/p/i-did-the-math-on-sora-ai-video-is"
     },
     {
       "title": "OpenAI Acquires Tech Talk Show ‘TBPN’—and Buys Itself Some Positive News",
@@ -171,7 +178,7 @@ const FEED_DATA = {
     },
     {
       "title": "Lemonade by AMD: a fast and open source local LLM server using GPU and NPU",
-      "summary": "Article URL: https://lemonade-server.ai Comments URL: https://news.ycombinator.com/item?id=47612724 Points: 404 # Comments: 94",
+      "summary": "Article URL: https://lemonade-server.ai Comments URL: https://news.ycombinator.com/item?id=47612724 Points: 503 # Comments: 107",
       "source": "Hacker News",
       "published": "2026-04-02T11:04:51+00:00",
       "link": "https://lemonade-server.ai"
@@ -206,14 +213,14 @@ const FEED_DATA = {
     },
     {
       "title": "r/programming bans all discussion of LLM programming",
-      "summary": "Article URL: https://old.reddit.com/r/programming/comments/1s9jkzi/announcement_temporary_llm_content_ban/ Comments URL: https://news.ycombinator.com/item?id=47610336 Points: 178 # Comments: 184",
+      "summary": "Article URL: https://old.reddit.com/r/programming/comments/1s9jkzi/announcement_temporary_llm_content_ban/ Comments URL: https://news.ycombinator.com/item?id=47610336 Points: 187 # Comments: 196",
       "source": "Hacker News",
       "published": "2026-04-02T05:33:20+00:00",
       "link": "https://old.reddit.com/r/programming/comments/1s9jkzi/announcement_temporary_llm_content_ban/"
     },
     {
       "title": "ZomboCom stolen by a hacker, sold, now replaced with AI-generated makeover",
-      "summary": "Article URL: https://old.reddit.com/r/oldinternet/comments/1raiz8v/zombocom_was_stolen_by_hacker_put_up_for_sale_and/ Comments URL: https://news.ycombinator.com/item?id=47608155 Points: 73 # Comments: 35",
+      "summary": "Article URL: https://old.reddit.com/r/oldinternet/comments/1raiz8v/zombocom_was_stolen_by_hacker_put_up_for_sale_and/ Comments URL: https://news.ycombinator.com/item?id=47608155 Points: 75 # Comments: 35",
       "source": "Hacker News",
       "published": "2026-04-01T23:45:03+00:00",
       "link": "https://old.reddit.com/r/oldinternet/comments/1raiz8v/zombocom_was_stolen_by_hacker_put_up_for_sale_and/"
@@ -262,7 +269,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI for American-produced cement and concrete",
-      "summary": "Article URL: https://engineering.fb.com/2026/03/30/data-center-engineering/ai-for-american-produced-cement-and-concrete/ Comments URL: https://news.ycombinator.com/item?id=47603737 Points: 215 # Comments: 116",
+      "summary": "Article URL: https://engineering.fb.com/2026/03/30/data-center-engineering/ai-for-american-produced-cement-and-concrete/ Comments URL: https://news.ycombinator.com/item?id=47603737 Points: 216 # Comments: 117",
       "source": "Hacker News",
       "published": "2026-04-01T17:17:24+00:00",
       "link": "https://engineering.fb.com/2026/03/30/data-center-engineering/ai-for-american-produced-cement-and-concrete/"
@@ -290,7 +297,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI has suddenly become more useful to open-source developers",
-      "summary": "Article URL: https://www.zdnet.com/article/maybe-open-source-needs-ai/ Comments URL: https://news.ycombinator.com/item?id=47601107 Points: 53 # Comments: 46",
+      "summary": "Article URL: https://www.zdnet.com/article/maybe-open-source-needs-ai/ Comments URL: https://news.ycombinator.com/item?id=47601107 Points: 54 # Comments: 46",
       "source": "Hacker News",
       "published": "2026-04-01T14:07:50+00:00",
       "link": "https://www.zdnet.com/article/maybe-open-source-needs-ai/"
@@ -759,7 +766,7 @@ const FEED_DATA = {
     },
     {
       "title": "Mathematical methods and human thought in the age of AI",
-      "summary": "Article URL: https://arxiv.org/abs/2603.26524 Comments URL: https://news.ycombinator.com/item?id=47572771 Points: 217 # Comments: 90",
+      "summary": "Article URL: https://arxiv.org/abs/2603.26524 Comments URL: https://news.ycombinator.com/item?id=47572771 Points: 217 # Comments: 91",
       "source": "Hacker News",
       "published": "2026-03-30T11:05:37+00:00",
       "link": "https://arxiv.org/abs/2603.26524"
@@ -808,7 +815,7 @@ const FEED_DATA = {
     },
     {
       "title": "I am definitely missing the pre-AI writing era",
-      "summary": "Article URL: https://www.lesswrong.com/posts/BJ4pnropWdnzzgeJc/i-am-definitely-missing-the-pre-ai-writing-era Comments URL: https://news.ycombinator.com/item?id=47571279 Points: 320 # Comments: 240",
+      "summary": "Article URL: https://www.lesswrong.com/posts/BJ4pnropWdnzzgeJc/i-am-definitely-missing-the-pre-ai-writing-era Comments URL: https://news.ycombinator.com/item?id=47571279 Points: 321 # Comments: 240",
       "source": "Hacker News",
       "published": "2026-03-30T07:03:18+00:00",
       "link": "https://www.lesswrong.com/posts/BJ4pnropWdnzzgeJc/i-am-definitely-missing-the-pre-ai-writing-era"
@@ -892,7 +899,7 @@ const FEED_DATA = {
     },
     {
       "title": "What if AI doesn't need more RAM but better math?",
-      "summary": "Article URL: https://adlrocha.substack.com/p/adlrocha-what-if-ai-doesnt-need-more Comments URL: https://news.ycombinator.com/item?id=47561297 Points: 188 # Comments: 101",
+      "summary": "Article URL: https://adlrocha.substack.com/p/adlrocha-what-if-ai-doesnt-need-more Comments URL: https://news.ycombinator.com/item?id=47561297 Points: 189 # Comments: 101",
       "source": "Hacker News",
       "published": "2026-03-29T08:18:55+00:00",
       "link": "https://adlrocha.substack.com/p/adlrocha-what-if-ai-doesnt-need-more"
@@ -927,7 +934,7 @@ const FEED_DATA = {
     },
     {
       "title": "From 300KB to 69KB per Token: How LLM Architectures Solve the KV Cache Problem",
-      "summary": "Article URL: https://news.future-shock.ai/the-weight-of-remembering/ Comments URL: https://news.ycombinator.com/item?id=47558733 Points: 155 # Comments: 11",
+      "summary": "Article URL: https://news.future-shock.ai/the-weight-of-remembering/ Comments URL: https://news.ycombinator.com/item?id=47558733 Points: 156 # Comments: 11",
       "source": "Hacker News",
       "published": "2026-03-28T22:42:23+00:00",
       "link": "https://news.future-shock.ai/the-weight-of-remembering/"
@@ -1393,13 +1400,6 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-03-26T18:34:02+00:00",
       "link": "https://techcrunch.com/2026/03/26/openai-abandons-yet-another-side-quest-chatgpts-erotic-mode/"
-    },
-    {
-      "title": "OpenAI and Anthropic before the IPO: Different balance sheets make comparison difficult",
-      "summary": "OpenAI and Anthropic are both growing fast, but their revenue figures are reportedly hard to compare because each company accounts for cloud partnerships differently.",
-      "source": "The Decoder",
-      "published": "2026-03-26T18:26:54+00:00",
-      "link": "https://the-decoder.com/openai-and-anthropic-before-the-ipo-different-balance-sheets-make-comparison-difficult/"
     }
   ]
 };
