@@ -1,5 +1,5 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-04-02T22:53:17.966837+00:00",
+  "lastUpdated": "2026-04-03T06:01:45.769798+00:00",
   "items": [
     {
       "title": "PSA: Anyone with a link can view your Granola notes by default",
