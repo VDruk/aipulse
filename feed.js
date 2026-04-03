@@ -1,6 +1,27 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-04-03T15:28:54.154840+00:00",
+  "lastUpdated": "2026-04-03T19:27:15.701766+00:00",
   "items": [
+    {
+      "title": "Deepseek v4 will reportedly run entirely on Huawei chips in a major win for China's AI independence push",
+      "summary": "Deepseek v4 is expected to launch in the coming weeks and will run exclusively on Huawei chips. China's biggest tech companies have reportedly already ordered hundreds of thousands of units.",
+      "source": "The Decoder",
+      "published": "2026-04-03T19:02:18+00:00",
+      "link": "https://the-decoder.com/deepseek-v4-will-reportedly-run-entirely-on-huawei-chips-in-a-major-win-for-chinas-ai-independence-push/"
+    },
+    {
+      "title": "Microsoft is betting $10 billion on Japan's AI future",
+      "summary": "Microsoft is investing $10 billion in Japan from 2026 to 2029, its largest ever commitment to the country. The article Microsoft is betting $10 billion on Japan's AI future appeared first on The Decoder.",
+      "source": "The Decoder",
+      "published": "2026-04-03T18:16:40+00:00",
+      "link": "https://the-decoder.com/microsoft-is-betting-10-billion-on-japans-ai-future/"
+    },
+    {
+      "title": "Four things we’d need to put data centers in space",
+      "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here.",
+      "source": "MIT Tech Review",
+      "published": "2026-04-03T17:03:19+00:00",
+      "link": "https://www.technologyreview.com/2026/04/03/1135073/four-things-wed-need-to-put-data-centers-in-space/"
+    },
     {
       "title": "Anthropic says Claude Code's usage drain comes down to peak-hour caps and ballooning contexts",
       "summary": "Anthropic explains why Claude Code users have been burning through their limits so fast and shares tips to cut down on token usage. The article Anthropic says Claude Code's usage drain comes down to peak-hour caps and ballooning contexts appeared first on The Decoder.",
@@ -66,7 +87,7 @@ const FEED_DATA = {
     },
     {
       "title": "Show HN: Apfel – The free AI already on your Mac",
-      "summary": "Github: https://github.com/Arthur-Ficial/apfel Comments URL: https://news.ycombinator.com/item?id=47624645 Points: 426 # Comments: 89",
+      "summary": "Github: https://github.com/Arthur-Ficial/apfel Comments URL: https://news.ycombinator.com/item?id=47624645 Points: 570 # Comments: 130",
       "source": "Hacker News",
       "published": "2026-04-03T09:15:34+00:00",
       "link": "https://apfel.franzai.com"
@@ -80,7 +101,7 @@ const FEED_DATA = {
     },
     {
       "title": "A $20/month user costs OpenAI $65 in compute. AI video is a money furnace",
-      "summary": "Article URL: https://aedelon777.substack.com/p/i-did-the-math-on-sora-ai-video-is Comments URL: https://news.ycombinator.com/item?id=47619322 Points: 70 # Comments: 39",
+      "summary": "Article URL: https://aedelon777.substack.com/p/i-did-the-math-on-sora-ai-video-is Comments URL: https://news.ycombinator.com/item?id=47619322 Points: 73 # Comments: 41",
       "source": "Hacker News",
       "published": "2026-04-02T19:49:51+00:00",
       "link": "https://aedelon777.substack.com/p/i-did-the-math-on-sora-ai-video-is"
@@ -107,6 +128,13 @@ const FEED_DATA = {
       "link": "https://techcrunch.com/2026/04/02/openai-acquires-tbpn-the-buzzy-founder-led-business-talk-show/"
     },
     {
+      "title": "We replaced RAG with a virtual filesystem for our AI documentation assistant",
+      "summary": "Article URL: https://www.mintlify.com/blog/how-we-built-a-virtual-filesystem-for-our-assistant Comments URL: https://news.ycombinator.com/item?id=47618223 Points: 92 # Comments: 48",
+      "source": "Hacker News",
+      "published": "2026-04-02T18:24:29+00:00",
+      "link": "https://www.mintlify.com/blog/how-we-built-a-virtual-filesystem-for-our-assistant"
+    },
+    {
       "title": "Google's Gemma 4 is now available with Apache 2.0 licensing for the first time",
       "summary": "Google is releasing Gemma 4, its most capable open model family yet. The four new models run on everything from smartphones to workstations and ship under a fully open Apache 2.0 license for the first time.",
       "source": "The Decoder",
@@ -129,7 +157,7 @@ const FEED_DATA = {
     },
     {
       "title": "New Rowhammer attacks give complete control of machines running Nvidia GPUs",
-      "summary": "Both GDDRHammer and GeForge hammer GPU memory in ways that compromise the CPU.",
+      "summary": "GDDRHammer, GeForge and GPUBreach hammer GPU memory in ways that hijack the CPU.",
       "source": "Ars Technica",
       "published": "2026-04-02T17:00:11+00:00",
       "link": "https://arstechnica.com/security/2026/04/new-rowhammer-attacks-give-complete-control-of-machines-running-nvidia-gpus/"
@@ -248,7 +276,7 @@ const FEED_DATA = {
     },
     {
       "title": "Lemonade by AMD: a fast and open source local LLM server using GPU and NPU",
-      "summary": "Article URL: https://lemonade-server.ai Comments URL: https://news.ycombinator.com/item?id=47612724 Points: 537 # Comments: 111",
+      "summary": "Article URL: https://lemonade-server.ai Comments URL: https://news.ycombinator.com/item?id=47612724 Points: 542 # Comments: 111",
       "source": "Hacker News",
       "published": "2026-04-02T11:04:51+00:00",
       "link": "https://lemonade-server.ai"
@@ -283,14 +311,14 @@ const FEED_DATA = {
     },
     {
       "title": "r/programming bans all discussion of LLM programming",
-      "summary": "Article URL: https://old.reddit.com/r/programming/comments/1s9jkzi/announcement_temporary_llm_content_ban/ Comments URL: https://news.ycombinator.com/item?id=47610336 Points: 188 # Comments: 209",
+      "summary": "Article URL: https://old.reddit.com/r/programming/comments/1s9jkzi/announcement_temporary_llm_content_ban/ Comments URL: https://news.ycombinator.com/item?id=47610336 Points: 190 # Comments: 209",
       "source": "Hacker News",
       "published": "2026-04-02T05:33:20+00:00",
       "link": "https://old.reddit.com/r/programming/comments/1s9jkzi/announcement_temporary_llm_content_ban/"
     },
     {
       "title": "ZomboCom stolen by a hacker, sold, now replaced with AI-generated makeover",
-      "summary": "Article URL: https://old.reddit.com/r/oldinternet/comments/1raiz8v/zombocom_was_stolen_by_hacker_put_up_for_sale_and/ Comments URL: https://news.ycombinator.com/item?id=47608155 Points: 75 # Comments: 35",
+      "summary": "Article URL: https://old.reddit.com/r/oldinternet/comments/1raiz8v/zombocom_was_stolen_by_hacker_put_up_for_sale_and/ Comments URL: https://news.ycombinator.com/item?id=47608155 Points: 75 # Comments: 36",
       "source": "Hacker News",
       "published": "2026-04-01T23:45:03+00:00",
       "link": "https://old.reddit.com/r/oldinternet/comments/1raiz8v/zombocom_was_stolen_by_hacker_put_up_for_sale_and/"
@@ -339,7 +367,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI for American-produced cement and concrete",
-      "summary": "Article URL: https://engineering.fb.com/2026/03/30/data-center-engineering/ai-for-american-produced-cement-and-concrete/ Comments URL: https://news.ycombinator.com/item?id=47603737 Points: 219 # Comments: 117",
+      "summary": "Article URL: https://engineering.fb.com/2026/03/30/data-center-engineering/ai-for-american-produced-cement-and-concrete/ Comments URL: https://news.ycombinator.com/item?id=47603737 Points: 220 # Comments: 117",
       "source": "Hacker News",
       "published": "2026-04-01T17:17:24+00:00",
       "link": "https://engineering.fb.com/2026/03/30/data-center-engineering/ai-for-american-produced-cement-and-concrete/"
@@ -836,7 +864,7 @@ const FEED_DATA = {
     },
     {
       "title": "Mathematical methods and human thought in the age of AI",
-      "summary": "Article URL: https://arxiv.org/abs/2603.26524 Comments URL: https://news.ycombinator.com/item?id=47572771 Points: 217 # Comments: 91",
+      "summary": "Article URL: https://arxiv.org/abs/2603.26524 Comments URL: https://news.ycombinator.com/item?id=47572771 Points: 217 # Comments: 92",
       "source": "Hacker News",
       "published": "2026-03-30T11:05:37+00:00",
       "link": "https://arxiv.org/abs/2603.26524"
@@ -1372,34 +1400,6 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-03-26T23:47:56+00:00",
       "link": "https://techcrunch.com/2026/03/26/you-can-now-transfer-your-chats-and-personal-information-from-other-chatbots-directly-into-gemini/"
-    },
-    {
-      "title": "David Sacks is no longer the White House AI and Crypto Czar",
-      "summary": "David Sacks, the venture capitalist and tech billionaire who'd become Silicon Valley's primary advocate inside the White House and a key architect of its aggressive AI policy initiatives, revealed on Thursday that he was no longer a special government employee - and therefore no...",
-      "source": "The Verge",
-      "published": "2026-03-26T23:40:22+00:00",
-      "link": "https://www.theverge.com/policy/902140/david-sacks-out-ai-crypto-czar"
-    },
-    {
-      "title": "Anthropic Supply-Chain-Risk Designation Halted by Judge",
-      "summary": "A judge temporarily blocked the Trump administration’s designation, clearing the way for Anthropic to keep doing business without the label starting next week.",
-      "source": "Wired",
-      "published": "2026-03-26T23:33:05+00:00",
-      "link": "https://www.wired.com/story/anthropic-supply-chain-risk-designation-injunction/"
-    },
-    {
-      "title": "Show HN: I put an AI agent on a $7/month VPS with IRC as its transport layer",
-      "summary": "The stack: two agents on separate boxes. The public one (nullclaw) is a 678 KB Zig binary using ~1 MB RAM, connected to an Ergo IRC server.",
-      "source": "Hacker News",
-      "published": "2026-03-26T22:41:25+00:00",
-      "link": "https://georgelarson.me/writing/2026-03-23-nullclaw-doorman/"
-    },
-    {
-      "title": "We rewrote JSONata with AI in a day, saved $500k/year",
-      "summary": "Article URL: https://www.reco.ai/blog/we-rewrote-jsonata-with-ai Comments URL: https://news.ycombinator.com/item?id=47536712 Points: 270 # Comments: 254",
-      "source": "Hacker News",
-      "published": "2026-03-26T22:36:41+00:00",
-      "link": "https://www.reco.ai/blog/we-rewrote-jsonata-with-ai"
     }
   ]
 };
