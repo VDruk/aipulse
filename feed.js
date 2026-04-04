@@ -1,5 +1,5 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-04-04T18:00:09.654397+00:00",
+  "lastUpdated": "2026-04-04T21:57:43.609967+00:00",
   "items": [
     {
       "title": "A folk musician became a target for AI fakes and a copyright troll",
@@ -7,6 +7,13 @@ const FEED_DATA = {
       "source": "The Verge",
       "published": "2026-04-04T17:52:10+00:00",
       "link": "https://www.theverge.com/entertainment/907111/murphy-campbell-folk-music-ai-copyright"
+    },
+    {
+      "title": "12k AI-generated blog posts added in a single commit",
+      "summary": "Article URL: https://github.com/OneUptime/blog/commit/30cd2384794c897d95aca77d173db44af51ca849 Comments URL: https://news.ycombinator.com/item?id=47640722 Points: 134 # Comments: 133",
+      "source": "Hacker News",
+      "published": "2026-04-04T16:45:31+00:00",
+      "link": "https://github.com/OneUptime/blog/commit/30cd2384794c897d95aca77d173db44af51ca849"
     },
     {
       "title": "12,000 AI-generated blog posts added in a single commit",
@@ -115,7 +122,7 @@ const FEED_DATA = {
     },
     {
       "title": "\"Cognitive surrender\" leads AI users to abandon logical thinking, research finds",
-      "summary": "Article URL: https://arstechnica.com/ai/2026/04/research-finds-ai-users-scarily-willing-to-surrender-their-cognition-to-llms/ Comments URL: https://news.ycombinator.com/item?id=47632504 Points: 90 # Comments: 39",
+      "summary": "Article URL: https://arstechnica.com/ai/2026/04/research-finds-ai-users-scarily-willing-to-surrender-their-cognition-to-llms/ Comments URL: https://news.ycombinator.com/item?id=47632504 Points: 94 # Comments: 39",
       "source": "Hacker News",
       "published": "2026-04-03T21:26:13+00:00",
       "link": "https://arstechnica.com/ai/2026/04/research-finds-ai-users-scarily-willing-to-surrender-their-cognition-to-llms/"
@@ -255,7 +262,7 @@ const FEED_DATA = {
     },
     {
       "title": "Show HN: Apfel – The free AI already on your Mac",
-      "summary": "Github: https://github.com/Arthur-Ficial/apfel Comments URL: https://news.ycombinator.com/item?id=47624645 Points: 697 # Comments: 143",
+      "summary": "Github: https://github.com/Arthur-Ficial/apfel Comments URL: https://news.ycombinator.com/item?id=47624645 Points: 701 # Comments: 145",
       "source": "Hacker News",
       "published": "2026-04-03T09:15:34+00:00",
       "link": "https://apfel.franzai.com"
@@ -297,7 +304,7 @@ const FEED_DATA = {
     },
     {
       "title": "We replaced RAG with a virtual filesystem for our AI documentation assistant",
-      "summary": "Article URL: https://www.mintlify.com/blog/how-we-built-a-virtual-filesystem-for-our-assistant Comments URL: https://news.ycombinator.com/item?id=47618223 Points: 377 # Comments: 144",
+      "summary": "Article URL: https://www.mintlify.com/blog/how-we-built-a-virtual-filesystem-for-our-assistant Comments URL: https://news.ycombinator.com/item?id=47618223 Points: 386 # Comments: 147",
       "source": "Hacker News",
       "published": "2026-04-02T18:24:29+00:00",
       "link": "https://www.mintlify.com/blog/how-we-built-a-virtual-filesystem-for-our-assistant"
@@ -353,7 +360,7 @@ const FEED_DATA = {
     },
     {
       "title": "Group Pushing Age Verification for AI Turns Out to Be Backed by OpenAI",
-      "summary": "Article URL: https://gizmodo.com/group-pushing-age-verification-requirements-for-ai-turns-out-to-be-sneakily-backed-by-openai-2000741069 Comments URL: https://news.ycombinator.com/item?id=47616665 Points: 50 # Comments: 6",
+      "summary": "Article URL: https://gizmodo.com/group-pushing-age-verification-requirements-for-ai-turns-out-to-be-sneakily-backed-by-openai-2000741069 Comments URL: https://news.ycombinator.com/item?id=47616665 Points: 52 # Comments: 6",
       "source": "Hacker News",
       "published": "2026-04-02T16:30:41+00:00",
       "link": "https://gizmodo.com/group-pushing-age-verification-requirements-for-ai-turns-out-to-be-sneakily-backed-by-openai-2000741069"
@@ -451,7 +458,7 @@ const FEED_DATA = {
     },
     {
       "title": "Lemonade by AMD: a fast and open source local LLM server using GPU and NPU",
-      "summary": "Article URL: https://lemonade-server.ai Comments URL: https://news.ycombinator.com/item?id=47612724 Points: 560 # Comments: 114",
+      "summary": "Article URL: https://lemonade-server.ai Comments URL: https://news.ycombinator.com/item?id=47612724 Points: 562 # Comments: 113",
       "source": "Hacker News",
       "published": "2026-04-02T11:04:51+00:00",
       "link": "https://lemonade-server.ai"
@@ -486,7 +493,7 @@ const FEED_DATA = {
     },
     {
       "title": "r/programming bans all discussion of LLM programming",
-      "summary": "Article URL: https://old.reddit.com/r/programming/comments/1s9jkzi/announcement_temporary_llm_content_ban/ Comments URL: https://news.ycombinator.com/item?id=47610336 Points: 194 # Comments: 214",
+      "summary": "Article URL: https://old.reddit.com/r/programming/comments/1s9jkzi/announcement_temporary_llm_content_ban/ Comments URL: https://news.ycombinator.com/item?id=47610336 Points: 196 # Comments: 214",
       "source": "Hacker News",
       "published": "2026-04-02T05:33:20+00:00",
       "link": "https://old.reddit.com/r/programming/comments/1s9jkzi/announcement_temporary_llm_content_ban/"
@@ -570,7 +577,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI has suddenly become more useful to open-source developers",
-      "summary": "Article URL: https://www.zdnet.com/article/maybe-open-source-needs-ai/ Comments URL: https://news.ycombinator.com/item?id=47601107 Points: 54 # Comments: 46",
+      "summary": "Article URL: https://www.zdnet.com/article/maybe-open-source-needs-ai/ Comments URL: https://news.ycombinator.com/item?id=47601107 Points: 54 # Comments: 47",
       "source": "Hacker News",
       "published": "2026-04-01T14:07:50+00:00",
       "link": "https://www.zdnet.com/article/maybe-open-source-needs-ai/"
@@ -1393,13 +1400,6 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-03-27T19:14:00+00:00",
       "link": "https://the-decoder.com/googles-new-gemini-update-makes-it-easy-to-import-memories-from-chatgpt-and-claude/"
-    },
-    {
-      "title": "Memory chip giant SK hynix could help end ‘RAMmageddon’ with blockbuster US IPO",
-      "summary": "SK hynix’s potential U.S. listing could raise $10-$14 billion to help it build more capacity, encourage others to follow, and end the 'RAMmageddon' memory shortage.",
-      "source": "TechCrunch",
-      "published": "2026-03-27T19:11:28+00:00",
-      "link": "https://techcrunch.com/2026/03/27/memory-chip-giant-sk-hynix-could-help-end-rammageddon-with-blockbuster-us-ipo/"
     }
   ]
 };
