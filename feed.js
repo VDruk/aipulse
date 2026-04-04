@@ -1,6 +1,34 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-04-04T07:53:57.474349+00:00",
+  "lastUpdated": "2026-04-04T10:05:48.005367+00:00",
   "items": [
+    {
+      "title": "Know3D lets users control the hidden back side of 3D objects with text prompts",
+      "summary": "A research team taps into the world knowledge of large language models to control what appears on the back side of 3D objects using simple text commands. The approach tackles one of the biggest blind spots in single-image 3D generation.",
+      "source": "The Decoder",
+      "published": "2026-04-04T09:37:25+00:00",
+      "link": "https://the-decoder.com/know3d-lets-users-control-the-hidden-back-side-of-3d-objects-with-text-prompts/"
+    },
+    {
+      "title": "OpenAI reshuffles leadership as health issues force key executives to step back",
+      "summary": "Three executives are stepping back at OpenAI, two for health reasons. President Greg Brockman steps in to fill part of the gap.",
+      "source": "The Decoder",
+      "published": "2026-04-04T09:04:03+00:00",
+      "link": "https://the-decoder.com/openai-reshuffles-leadership-as-health-issues-force-key-executives-to-step-back/"
+    },
+    {
+      "title": "Anthropic drops 400 million in shares on an eight-month-old AI pharma startup with fewer than ten employees",
+      "summary": "Anthropic is paying 400 million dollars for an eight-month-old biotech startup with fewer than ten employees. The investor walks away with a 38,513 percent return.",
+      "source": "The Decoder",
+      "published": "2026-04-04T08:24:56+00:00",
+      "link": "https://the-decoder.com/anthropic-drops-400-million-in-shares-on-an-eight-month-old-ai-pharma-startup-with-fewer-than-ten-employees/"
+    },
+    {
+      "title": "Anthropic cuts off third-party tools like OpenClaw for Claude subscribers, citing unsustainable demand",
+      "summary": "Anthropic is cutting off Claude usage through external tools like OpenClaw for subscription customers. The decision exposes a core problem in the AI industry: flat-rate pricing and agent-driven nonstop usage don't mix.",
+      "source": "The Decoder",
+      "published": "2026-04-04T08:00:03+00:00",
+      "link": "https://the-decoder.com/anthropic-cuts-off-third-party-tools-like-openclaw-for-claude-subscribers-citing-unsustainable-demand/"
+    },
     {
       "title": "Show HN: Travel Hacking Toolkit – Points search and trip planning with AI",
       "summary": "I use points and miles for most of my travel. Every booking comes down to the same decision: use points or pay cash?",
@@ -31,7 +59,7 @@ const FEED_DATA = {
     },
     {
       "title": "\"Cognitive surrender\" leads AI users to abandon logical thinking, research finds",
-      "summary": "Article URL: https://arstechnica.com/ai/2026/04/research-finds-ai-users-scarily-willing-to-surrender-their-cognition-to-llms/ Comments URL: https://news.ycombinator.com/item?id=47632504 Points: 73 # Comments: 29",
+      "summary": "Article URL: https://arstechnica.com/ai/2026/04/research-finds-ai-users-scarily-willing-to-surrender-their-cognition-to-llms/ Comments URL: https://news.ycombinator.com/item?id=47632504 Points: 77 # Comments: 31",
       "source": "Hacker News",
       "published": "2026-04-03T21:26:13+00:00",
       "link": "https://arstechnica.com/ai/2026/04/research-finds-ai-users-scarily-willing-to-surrender-their-cognition-to-llms/"
@@ -171,7 +199,7 @@ const FEED_DATA = {
     },
     {
       "title": "Show HN: Apfel – The free AI already on your Mac",
-      "summary": "Github: https://github.com/Arthur-Ficial/apfel Comments URL: https://news.ycombinator.com/item?id=47624645 Points: 669 # Comments: 140",
+      "summary": "Github: https://github.com/Arthur-Ficial/apfel Comments URL: https://news.ycombinator.com/item?id=47624645 Points: 678 # Comments: 141",
       "source": "Hacker News",
       "published": "2026-04-03T09:15:34+00:00",
       "link": "https://apfel.franzai.com"
@@ -213,7 +241,7 @@ const FEED_DATA = {
     },
     {
       "title": "We replaced RAG with a virtual filesystem for our AI documentation assistant",
-      "summary": "Article URL: https://www.mintlify.com/blog/how-we-built-a-virtual-filesystem-for-our-assistant Comments URL: https://news.ycombinator.com/item?id=47618223 Points: 284 # Comments: 114",
+      "summary": "Article URL: https://www.mintlify.com/blog/how-we-built-a-virtual-filesystem-for-our-assistant Comments URL: https://news.ycombinator.com/item?id=47618223 Points: 309 # Comments: 118",
       "source": "Hacker News",
       "published": "2026-04-02T18:24:29+00:00",
       "link": "https://www.mintlify.com/blog/how-we-built-a-virtual-filesystem-for-our-assistant"
@@ -360,7 +388,7 @@ const FEED_DATA = {
     },
     {
       "title": "Lemonade by AMD: a fast and open source local LLM server using GPU and NPU",
-      "summary": "Article URL: https://lemonade-server.ai Comments URL: https://news.ycombinator.com/item?id=47612724 Points: 550 # Comments: 112",
+      "summary": "Article URL: https://lemonade-server.ai Comments URL: https://news.ycombinator.com/item?id=47612724 Points: 554 # Comments: 112",
       "source": "Hacker News",
       "published": "2026-04-02T11:04:51+00:00",
       "link": "https://lemonade-server.ai"
@@ -395,7 +423,7 @@ const FEED_DATA = {
     },
     {
       "title": "r/programming bans all discussion of LLM programming",
-      "summary": "Article URL: https://old.reddit.com/r/programming/comments/1s9jkzi/announcement_temporary_llm_content_ban/ Comments URL: https://news.ycombinator.com/item?id=47610336 Points: 191 # Comments: 211",
+      "summary": "Article URL: https://old.reddit.com/r/programming/comments/1s9jkzi/announcement_temporary_llm_content_ban/ Comments URL: https://news.ycombinator.com/item?id=47610336 Points: 192 # Comments: 212",
       "source": "Hacker News",
       "published": "2026-04-02T05:33:20+00:00",
       "link": "https://old.reddit.com/r/programming/comments/1s9jkzi/announcement_temporary_llm_content_ban/"
@@ -444,14 +472,14 @@ const FEED_DATA = {
     },
     {
       "title": "The AI Marketing BS Index",
-      "summary": "Article URL: https://bastian.rieck.me/blog/2026/bs/ Comments URL: https://news.ycombinator.com/item?id=47604218 Points: 105 # Comments: 21",
+      "summary": "Article URL: https://bastian.rieck.me/blog/2026/bs/ Comments URL: https://news.ycombinator.com/item?id=47604218 Points: 106 # Comments: 21",
       "source": "Hacker News",
       "published": "2026-04-01T17:55:12+00:00",
       "link": "https://bastian.rieck.me/blog/2026/bs/"
     },
     {
       "title": "AI for American-produced cement and concrete",
-      "summary": "Article URL: https://engineering.fb.com/2026/03/30/data-center-engineering/ai-for-american-produced-cement-and-concrete/ Comments URL: https://news.ycombinator.com/item?id=47603737 Points: 222 # Comments: 117",
+      "summary": "Article URL: https://engineering.fb.com/2026/03/30/data-center-engineering/ai-for-american-produced-cement-and-concrete/ Comments URL: https://news.ycombinator.com/item?id=47603737 Points: 223 # Comments: 117",
       "source": "Hacker News",
       "published": "2026-04-01T17:17:24+00:00",
       "link": "https://engineering.fb.com/2026/03/30/data-center-engineering/ai-for-american-produced-cement-and-concrete/"
@@ -1372,34 +1400,6 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-03-27T16:06:49+00:00",
       "link": "https://the-decoder.com/suno-5-5-lets-users-sing-their-own-ai-generated-songs-with-a-personalized-voice-feature/"
-    },
-    {
-      "title": "VCs are betting billions on AI’s next wave, so why is OpenAI killing Sora?",
-      "summary": "When an 82-year-old Kentucky woman was offered $26 million from an AI company that wanted to build a data center on her land, she said no.",
-      "source": "TechCrunch",
-      "published": "2026-03-27T15:40:19+00:00",
-      "link": "https://techcrunch.com/podcast/vcs-are-betting-billions-on-ais-next-wave-so-why-is-openai-killing-sora/"
-    },
-    {
-      "title": "Apple Still Plans to Sell iPhones When It Turns 100",
-      "summary": "As the tech giant turns 50, WIRED spoke to executives about how they plan to win in the AI era.",
-      "source": "Wired",
-      "published": "2026-03-27T15:00:00+00:00",
-      "link": "https://www.wired.com/story/apple-50-year-anniversary-artificial-intelligence-iphone/"
-    },
-    {
-      "title": "Meta's own supervisory body warns that Community Notes are no match for AI disinformation",
-      "summary": "Meta's Oversight Board has examined the planned global expansion of Community Notes. Its conclusion: the system is too slow, too thinly staffed, and vulnerable to manipulation, especially given the growing flood of AI-generated disinformation.",
-      "source": "The Decoder",
-      "published": "2026-03-27T13:57:57+00:00",
-      "link": "https://the-decoder.com/metas-own-supervisory-body-warns-that-community-notes-are-no-match-for-ai-disinformation/"
-    },
-    {
-      "title": "OpenAI shuts down Sora while Meta gets shut out in court",
-      "summary": "When an 82-year-old Kentucky woman was offered $26 million from an AI company that wanted to build a data center on her land, she said no.",
-      "source": "TechCrunch",
-      "published": "2026-03-27T13:30:00+00:00",
-      "link": "https://techcrunch.com/video/openai-shuts-down-sora-while-meta-gets-shut-out-in-court/"
     }
   ]
 };
