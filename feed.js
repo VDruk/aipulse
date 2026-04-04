@@ -1,12 +1,33 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-04-03T22:01:49.455995+00:00",
+  "lastUpdated": "2026-04-04T05:37:16.272040+00:00",
   "items": [
+    {
+      "title": "Anthropic is having a moment in the private markets; SpaceX could spoil the party",
+      "summary": "Glen Anderson, president of Rainmaker Securities, says the secondary market for private shares has never been more active — with Anthropic the hottest trade around, OpenAI losing ground, and SpaceX's looming IPO poised to reshape the landscape for everyone.",
+      "source": "TechCrunch",
+      "published": "2026-04-04T01:31:00+00:00",
+      "link": "https://techcrunch.com/2026/04/03/anthropic-is-having-a-moment-in-the-private-markets-spacex-could-spoil-the-party/"
+    },
+    {
+      "title": "Anthropic essentially bans OpenClaw from Claude by making subscribers pay extra",
+      "summary": "Using OpenClaw with Claude AI is about to get a lot more expensive, thanks to Anthropic's new policy changes.",
+      "source": "The Verge",
+      "published": "2026-04-03T23:52:49+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/907074/anthropic-openclaw-claude-subscription-ban"
+    },
     {
       "title": "Meta Pauses Work With Mercor After Data Breach Puts AI Industry Secrets at Risk",
       "summary": "Major AI labs are investigating a security incident that impacted Mercor, a leading data vendor. The incident could have exposed key data about how they train AI models.",
       "source": "Wired",
       "published": "2026-04-03T21:28:14+00:00",
       "link": "https://www.wired.com/story/meta-pauses-work-with-mercor-after-data-breach-puts-ai-industry-secrets-at-risk/"
+    },
+    {
+      "title": "\"Cognitive surrender\" leads AI users to abandon logical thinking, research finds",
+      "summary": "Article URL: https://arstechnica.com/ai/2026/04/research-finds-ai-users-scarily-willing-to-surrender-their-cognition-to-llms/ Comments URL: https://news.ycombinator.com/item?id=47632504 Points: 62 # Comments: 24",
+      "source": "Hacker News",
+      "published": "2026-04-03T21:26:13+00:00",
+      "link": "https://arstechnica.com/ai/2026/04/research-finds-ai-users-scarily-willing-to-surrender-their-cognition-to-llms/"
     },
     {
       "title": "OpenAI executive shuffle includes new role for COO Brad Lightcap to lead ‘special projects’",
@@ -48,7 +69,7 @@ const FEED_DATA = {
       "summary": "Meta, Microsoft, and Google are all betting big on new natural gas power plants to run their AI data centers. They may regret it.",
       "source": "TechCrunch",
       "published": "2026-04-03T19:48:22+00:00",
-      "link": "https://techcrunch.com/2026/04/03/ai-energy-microsoft-meta-google-natural-gas-mining-fomo/"
+      "link": "https://techcrunch.com/2026/04/03/ai-companies-are-building-huge-natural-gas-plants-to-power-data-centers-what-could-go-wrong/"
     },
     {
       "title": "OpenAI’s Fidji Simo Is Taking Medical Leave Amid an Executive Shake-Up",
@@ -143,7 +164,7 @@ const FEED_DATA = {
     },
     {
       "title": "Show HN: Apfel – The free AI already on your Mac",
-      "summary": "Github: https://github.com/Arthur-Ficial/apfel Comments URL: https://news.ycombinator.com/item?id=47624645 Points: 570 # Comments: 130",
+      "summary": "Github: https://github.com/Arthur-Ficial/apfel Comments URL: https://news.ycombinator.com/item?id=47624645 Points: 659 # Comments: 139",
       "source": "Hacker News",
       "published": "2026-04-03T09:15:34+00:00",
       "link": "https://apfel.franzai.com"
@@ -157,7 +178,7 @@ const FEED_DATA = {
     },
     {
       "title": "A $20/month user costs OpenAI $65 in compute. AI video is a money furnace",
-      "summary": "Article URL: https://aedelon777.substack.com/p/i-did-the-math-on-sora-ai-video-is Comments URL: https://news.ycombinator.com/item?id=47619322 Points: 73 # Comments: 41",
+      "summary": "Article URL: https://aedelon777.substack.com/p/i-did-the-math-on-sora-ai-video-is Comments URL: https://news.ycombinator.com/item?id=47619322 Points: 75 # Comments: 42",
       "source": "Hacker News",
       "published": "2026-04-02T19:49:51+00:00",
       "link": "https://aedelon777.substack.com/p/i-did-the-math-on-sora-ai-video-is"
@@ -185,7 +206,7 @@ const FEED_DATA = {
     },
     {
       "title": "We replaced RAG with a virtual filesystem for our AI documentation assistant",
-      "summary": "Article URL: https://www.mintlify.com/blog/how-we-built-a-virtual-filesystem-for-our-assistant Comments URL: https://news.ycombinator.com/item?id=47618223 Points: 92 # Comments: 48",
+      "summary": "Article URL: https://www.mintlify.com/blog/how-we-built-a-virtual-filesystem-for-our-assistant Comments URL: https://news.ycombinator.com/item?id=47618223 Points: 258 # Comments: 108",
       "source": "Hacker News",
       "published": "2026-04-02T18:24:29+00:00",
       "link": "https://www.mintlify.com/blog/how-we-built-a-virtual-filesystem-for-our-assistant"
@@ -332,7 +353,7 @@ const FEED_DATA = {
     },
     {
       "title": "Lemonade by AMD: a fast and open source local LLM server using GPU and NPU",
-      "summary": "Article URL: https://lemonade-server.ai Comments URL: https://news.ycombinator.com/item?id=47612724 Points: 542 # Comments: 111",
+      "summary": "Article URL: https://lemonade-server.ai Comments URL: https://news.ycombinator.com/item?id=47612724 Points: 549 # Comments: 112",
       "source": "Hacker News",
       "published": "2026-04-02T11:04:51+00:00",
       "link": "https://lemonade-server.ai"
@@ -367,14 +388,14 @@ const FEED_DATA = {
     },
     {
       "title": "r/programming bans all discussion of LLM programming",
-      "summary": "Article URL: https://old.reddit.com/r/programming/comments/1s9jkzi/announcement_temporary_llm_content_ban/ Comments URL: https://news.ycombinator.com/item?id=47610336 Points: 190 # Comments: 209",
+      "summary": "Article URL: https://old.reddit.com/r/programming/comments/1s9jkzi/announcement_temporary_llm_content_ban/ Comments URL: https://news.ycombinator.com/item?id=47610336 Points: 191 # Comments: 210",
       "source": "Hacker News",
       "published": "2026-04-02T05:33:20+00:00",
       "link": "https://old.reddit.com/r/programming/comments/1s9jkzi/announcement_temporary_llm_content_ban/"
     },
     {
       "title": "ZomboCom stolen by a hacker, sold, now replaced with AI-generated makeover",
-      "summary": "Article URL: https://old.reddit.com/r/oldinternet/comments/1raiz8v/zombocom_was_stolen_by_hacker_put_up_for_sale_and/ Comments URL: https://news.ycombinator.com/item?id=47608155 Points: 75 # Comments: 36",
+      "summary": "Article URL: https://old.reddit.com/r/oldinternet/comments/1raiz8v/zombocom_was_stolen_by_hacker_put_up_for_sale_and/ Comments URL: https://news.ycombinator.com/item?id=47608155 Points: 76 # Comments: 37",
       "source": "Hacker News",
       "published": "2026-04-01T23:45:03+00:00",
       "link": "https://old.reddit.com/r/oldinternet/comments/1raiz8v/zombocom_was_stolen_by_hacker_put_up_for_sale_and/"
@@ -416,14 +437,14 @@ const FEED_DATA = {
     },
     {
       "title": "The AI Marketing BS Index",
-      "summary": "Article URL: https://bastian.rieck.me/blog/2026/bs/ Comments URL: https://news.ycombinator.com/item?id=47604218 Points: 105 # Comments: 22",
+      "summary": "Article URL: https://bastian.rieck.me/blog/2026/bs/ Comments URL: https://news.ycombinator.com/item?id=47604218 Points: 105 # Comments: 21",
       "source": "Hacker News",
       "published": "2026-04-01T17:55:12+00:00",
       "link": "https://bastian.rieck.me/blog/2026/bs/"
     },
     {
       "title": "AI for American-produced cement and concrete",
-      "summary": "Article URL: https://engineering.fb.com/2026/03/30/data-center-engineering/ai-for-american-produced-cement-and-concrete/ Comments URL: https://news.ycombinator.com/item?id=47603737 Points: 220 # Comments: 117",
+      "summary": "Article URL: https://engineering.fb.com/2026/03/30/data-center-engineering/ai-for-american-produced-cement-and-concrete/ Comments URL: https://news.ycombinator.com/item?id=47603737 Points: 222 # Comments: 117",
       "source": "Hacker News",
       "published": "2026-04-01T17:17:24+00:00",
       "link": "https://engineering.fb.com/2026/03/30/data-center-engineering/ai-for-american-produced-cement-and-concrete/"
@@ -1379,27 +1400,6 @@ const FEED_DATA = {
       "source": "MIT Tech Review",
       "published": "2026-03-27T12:32:54+00:00",
       "link": "https://www.technologyreview.com/2026/03/27/1134755/the-download-best-weather-forecasting-app-why-people-freeze-brains/"
-    },
-    {
-      "title": "The Latest AI Documentary Asks: Just How Scared Should We Be?",
-      "summary": "The AI Doc: Or How I Became an Apocaloptimist seeks the middle ground on a polarizing technology—and ends up letting tech execs like Sam Altman off the hook.",
-      "source": "Wired",
-      "published": "2026-03-27T11:00:00+00:00",
-      "link": "https://www.wired.com/story/a-new-ai-documentary-puts-ceos-in-the-hot-seat-but-goes-too-easy-on-them/"
-    },
-    {
-      "title": "A New AI Documentary Puts CEOs in the Hot Seat—but Goes Too Easy on Them",
-      "summary": "The AI Doc: Or How I Became an Apocaloptimist seeks the middle ground on a polarizing technology—and ends up letting tech execs like Sam Altman off the hook.",
-      "source": "Wired",
-      "published": "2026-03-27T11:00:00+00:00",
-      "link": "https://www.wired.com/story/a-new-ai-documentary-puts-ceos-in-the-hot-seat-but-goes-too-easy-on-them/"
-    },
-    {
-      "title": "OpenAI's Codex gets a plugin marketplace for Slack, Notion, Figma, and more",
-      "summary": "OpenAI is adding plugins to Codex that integrate with popular work tools like Slack, Figma, Notion, Gmail, and Google Drive. The article OpenAI's Codex gets a plugin marketplace for Slack, Notion, Figma, and more appeared first on The Decoder.",
-      "source": "The Decoder",
-      "published": "2026-03-27T10:50:44+00:00",
-      "link": "https://the-decoder.com/openais-codex-gets-a-plugin-marketplace-for-slack-notion-figma-and-more/"
     }
   ]
 };
