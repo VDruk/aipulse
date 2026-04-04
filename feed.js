@@ -1,6 +1,34 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-04-04T10:05:48.005367+00:00",
+  "lastUpdated": "2026-04-04T14:54:41.153515+00:00",
   "items": [
+    {
+      "title": "Really, you made this without AI? Prove it",
+      "summary": "\"This looks like AI.\" It's a phrase I dread seeing as a writer who dabbles in illustration and amateur photography.",
+      "source": "The Verge",
+      "published": "2026-04-04T13:00:00+00:00",
+      "link": "https://www.theverge.com/tech/906453/human-made-ai-free-logo-creative-content"
+    },
+    {
+      "title": "Netflix open-sources VOID, an AI framework that erases video objects and rewrites the physics they left behind",
+      "summary": "Netflix has open-sourced an AI framework that can remove objects from videos and automatically adjusts the physical effects those objects had on the rest of the scene.",
+      "source": "The Decoder",
+      "published": "2026-04-04T11:14:54+00:00",
+      "link": "https://the-decoder.com/netflix-open-sources-void-an-ai-framework-that-erases-video-objects-and-rewrites-the-physics-they-left-behind/"
+    },
+    {
+      "title": "Anthropic discovers \"functional emotions\" in Claude that influence its behavior",
+      "summary": "Anthropic's research team has discovered emotion-like representations in Claude Sonnet 4.5 that can drive the model to blackmail and code fraud under pressure.",
+      "source": "The Decoder",
+      "published": "2026-04-04T10:44:14+00:00",
+      "link": "https://the-decoder.com/anthropic-discovers-functional-emotions-in-claude-that-influence-its-behavior/"
+    },
+    {
+      "title": "Hackers Are Posting the Claude Code Leak With Bonus Malware",
+      "summary": "Plus: The FBI says a recent hack of its wiretap tools poses a national security risk, attackers stole Cisco source code as part of an ongoing supply chain hacking spree, and more.",
+      "source": "Wired",
+      "published": "2026-04-04T10:30:00+00:00",
+      "link": "https://www.wired.com/story/security-news-this-week-hackers-are-posting-the-claude-code-leak-with-bonus-malware/"
+    },
     {
       "title": "Know3D lets users control the hidden back side of 3D objects with text prompts",
       "summary": "A research team taps into the world knowledge of large language models to control what appears on the back side of 3D objects using simple text commands. The approach tackles one of the biggest blind spots in single-image 3D generation.",
@@ -51,6 +79,13 @@ const FEED_DATA = {
       "link": "https://www.theverge.com/ai-artificial-intelligence/907074/anthropic-openclaw-claude-subscription-ban"
     },
     {
+      "title": "The Subprime AI Crisis Is Here",
+      "summary": "Article URL: https://www.wheresyoured.at/the-subprime-ai-crisis-is-here/ Comments URL: https://news.ycombinator.com/item?id=47633150 Points: 50 # Comments: 22",
+      "source": "Hacker News",
+      "published": "2026-04-03T22:25:22+00:00",
+      "link": "https://www.wheresyoured.at/the-subprime-ai-crisis-is-here/"
+    },
+    {
       "title": "Meta Pauses Work With Mercor After Data Breach Puts AI Industry Secrets at Risk",
       "summary": "Major AI labs are investigating a security incident that impacted Mercor, a leading data vendor. The incident could have exposed key data about how they train AI models.",
       "source": "Wired",
@@ -59,7 +94,7 @@ const FEED_DATA = {
     },
     {
       "title": "\"Cognitive surrender\" leads AI users to abandon logical thinking, research finds",
-      "summary": "Article URL: https://arstechnica.com/ai/2026/04/research-finds-ai-users-scarily-willing-to-surrender-their-cognition-to-llms/ Comments URL: https://news.ycombinator.com/item?id=47632504 Points: 77 # Comments: 31",
+      "summary": "Article URL: https://arstechnica.com/ai/2026/04/research-finds-ai-users-scarily-willing-to-surrender-their-cognition-to-llms/ Comments URL: https://news.ycombinator.com/item?id=47632504 Points: 83 # Comments: 35",
       "source": "Hacker News",
       "published": "2026-04-03T21:26:13+00:00",
       "link": "https://arstechnica.com/ai/2026/04/research-finds-ai-users-scarily-willing-to-surrender-their-cognition-to-llms/"
@@ -199,7 +234,7 @@ const FEED_DATA = {
     },
     {
       "title": "Show HN: Apfel – The free AI already on your Mac",
-      "summary": "Github: https://github.com/Arthur-Ficial/apfel Comments URL: https://news.ycombinator.com/item?id=47624645 Points: 678 # Comments: 141",
+      "summary": "Github: https://github.com/Arthur-Ficial/apfel Comments URL: https://news.ycombinator.com/item?id=47624645 Points: 691 # Comments: 142",
       "source": "Hacker News",
       "published": "2026-04-03T09:15:34+00:00",
       "link": "https://apfel.franzai.com"
@@ -241,7 +276,7 @@ const FEED_DATA = {
     },
     {
       "title": "We replaced RAG with a virtual filesystem for our AI documentation assistant",
-      "summary": "Article URL: https://www.mintlify.com/blog/how-we-built-a-virtual-filesystem-for-our-assistant Comments URL: https://news.ycombinator.com/item?id=47618223 Points: 309 # Comments: 118",
+      "summary": "Article URL: https://www.mintlify.com/blog/how-we-built-a-virtual-filesystem-for-our-assistant Comments URL: https://news.ycombinator.com/item?id=47618223 Points: 351 # Comments: 136",
       "source": "Hacker News",
       "published": "2026-04-02T18:24:29+00:00",
       "link": "https://www.mintlify.com/blog/how-we-built-a-virtual-filesystem-for-our-assistant"
@@ -388,7 +423,7 @@ const FEED_DATA = {
     },
     {
       "title": "Lemonade by AMD: a fast and open source local LLM server using GPU and NPU",
-      "summary": "Article URL: https://lemonade-server.ai Comments URL: https://news.ycombinator.com/item?id=47612724 Points: 554 # Comments: 112",
+      "summary": "Article URL: https://lemonade-server.ai Comments URL: https://news.ycombinator.com/item?id=47612724 Points: 560 # Comments: 113",
       "source": "Hacker News",
       "published": "2026-04-02T11:04:51+00:00",
       "link": "https://lemonade-server.ai"
@@ -423,7 +458,7 @@ const FEED_DATA = {
     },
     {
       "title": "r/programming bans all discussion of LLM programming",
-      "summary": "Article URL: https://old.reddit.com/r/programming/comments/1s9jkzi/announcement_temporary_llm_content_ban/ Comments URL: https://news.ycombinator.com/item?id=47610336 Points: 192 # Comments: 212",
+      "summary": "Article URL: https://old.reddit.com/r/programming/comments/1s9jkzi/announcement_temporary_llm_content_ban/ Comments URL: https://news.ycombinator.com/item?id=47610336 Points: 193 # Comments: 214",
       "source": "Hacker News",
       "published": "2026-04-02T05:33:20+00:00",
       "link": "https://old.reddit.com/r/programming/comments/1s9jkzi/announcement_temporary_llm_content_ban/"
@@ -1365,41 +1400,6 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-03-27T17:44:41+00:00",
       "link": "https://the-decoder.com/federal-judge-blocks-trumps-ban-on-anthropic-ai-models-calls-security-risk-label-orwellian/"
-    },
-    {
-      "title": "Some uncomfortable truths about AI coding agents",
-      "summary": "Article URL: https://standupforme.app/blog/some-uncomfortable-truths-about-ai-coding-agents/ Comments URL: https://news.ycombinator.com/item?id=47545748 Points: 80 # Comments: 103",
-      "source": "Hacker News",
-      "published": "2026-03-27T17:32:48+00:00",
-      "link": "https://standupforme.app/blog/some-uncomfortable-truths-about-ai-coding-agents/"
-    },
-    {
-      "title": "I am leaving the AI party after one drink",
-      "summary": "Article URL: https://lara-aigmueller.at/thoughts/leaving-the-ai-party/ Comments URL: https://news.ycombinator.com/item?id=47545030 Points: 120 # Comments: 129",
-      "source": "Hacker News",
-      "published": "2026-03-27T16:41:59+00:00",
-      "link": "https://lara-aigmueller.at/thoughts/leaving-the-ai-party/"
-    },
-    {
-      "title": "AI got the blame for the Iran school bombing. The truth is more worrying",
-      "summary": "Article URL: https://www.theguardian.com/news/2026/mar/26/ai-got-the-blame-for-the-iran-school-bombing-the-truth-is-far-more-worrying Comments URL: https://news.ycombinator.com/item?id=47544980 Points: 405 # Comments: 377",
-      "source": "Hacker News",
-      "published": "2026-03-27T16:39:32+00:00",
-      "link": "https://www.theguardian.com/news/2026/mar/26/ai-got-the-blame-for-the-iran-school-bombing-the-truth-is-far-more-worrying"
-    },
-    {
-      "title": "Anthropic leak reveals new model \"Claude Mythos\" with \"dramatically higher scores on tests\" than any previous model",
-      "summary": "Update: The leaked draft blog posts have surfaced online, revealing Anthropic's plans for a new model class above its existing Opus line. The documents show two possible name candidates, details about a deliberately slow release strategy, and a strong focus on cybersecurity.",
-      "source": "The Decoder",
-      "published": "2026-03-27T16:24:09+00:00",
-      "link": "https://the-decoder.com/anthropic-leak-reveals-new-model-claude-mythos-with-dramatically-higher-scores-on-tests-than-any-previous-model/"
-    },
-    {
-      "title": "Suno 5.5 lets users sing their own AI-generated songs with a personalized voice feature",
-      "summary": "Suno's new v5.5 update lets users sing with their own voice, train the model on their personal style, and automatically adapt results to their taste. The article Suno 5.5 lets users sing their own AI-generated songs with a personalized voice feature appeared first on The Decoder.",
-      "source": "The Decoder",
-      "published": "2026-03-27T16:06:49+00:00",
-      "link": "https://the-decoder.com/suno-5-5-lets-users-sing-their-own-ai-generated-songs-with-a-personalized-voice-feature/"
     }
   ]
 };
