@@ -1,6 +1,20 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-04-05T08:00:18.340198+00:00",
+  "lastUpdated": "2026-04-05T10:06:12.055710+00:00",
   "items": [
+    {
+      "title": "AI offensive cyber capabilities are doubling every six months, safety researchers find",
+      "summary": "AI models are rapidly improving at exploiting security vulnerabilities. According to a new study, their offensive cyber capability has been doubling every 5.7 months since 2024, with Opus 4.6 and GPT-5.3 Codex now solving tasks that take human experts about three hours.",
+      "source": "The Decoder",
+      "published": "2026-04-05T09:08:22+00:00",
+      "link": "https://the-decoder.com/ai-offensive-cyber-capabilities-are-doubling-every-six-months-safety-researchers-find/"
+    },
+    {
+      "title": "AI benchmarks systematically ignore how humans disagree, Google study finds",
+      "summary": "A Google study finds that the standard three to five human raters per test example often aren't enough for reliable AI benchmarks, and that splitting your annotation budget the right way matters just as much as the budget itself.",
+      "source": "The Decoder",
+      "published": "2026-04-05T08:31:45+00:00",
+      "link": "https://the-decoder.com/ai-benchmarks-systematically-ignore-how-humans-disagree-google-study-finds/"
+    },
     {
       "title": "AI chatbot traffic grows seven times faster than social media but still trails by a factor of four",
       "summary": "AI chatbot traffic is growing seven times faster than social media, but still has four times less total traffic, a Similarweb analysis shows. The data reveals differences in device usage and user behavior.",
@@ -17,14 +31,14 @@ const FEED_DATA = {
     },
     {
       "title": "AI that copied musical artist files copyright claim against artist [updated]",
-      "summary": "https://xcancel.com/VladTheInflator/status/20395770015317689... Comments URL: https://news.ycombinator.com/item?id=47645976 Points: 53 # Comments: 12",
+      "summary": "https://xcancel.com/VladTheInflator/status/20395770015317689... Comments URL: https://news.ycombinator.com/item?id=47645976 Points: 58 # Comments: 14",
       "source": "Hacker News",
       "published": "2026-04-05T03:55:10+00:00",
       "link": "https://twitter.com/VladTheInflator/status/2039577001531768906"
     },
     {
       "title": "Writing Lisp is AI resistant and I'm sad",
-      "summary": "Article URL: https://blog.djhaskin.com/blog/writing-lisp-is-ai-resistant-and-im-sad/ Comments URL: https://news.ycombinator.com/item?id=47645468 Points: 62 # Comments: 59",
+      "summary": "Article URL: https://blog.djhaskin.com/blog/writing-lisp-is-ai-resistant-and-im-sad/ Comments URL: https://news.ycombinator.com/item?id=47645468 Points: 66 # Comments: 69",
       "source": "Hacker News",
       "published": "2026-04-05T02:01:31+00:00",
       "link": "https://blog.djhaskin.com/blog/writing-lisp-is-ai-resistant-and-im-sad/"
@@ -38,14 +52,14 @@ const FEED_DATA = {
     },
     {
       "title": "LLM Wiki – example of an \"idea file\"",
-      "summary": "https://x.com/karpathy/status/2040470801506541998https://xcancel.com/karpathy/status/2040470801506541998 Comments URL: https://news.ycombinator.com/item?id=47640875 Points: 159 # Comments: 45",
+      "summary": "https://x.com/karpathy/status/2040470801506541998https://xcancel.com/karpathy/status/2040470801506541998 Comments URL: https://news.ycombinator.com/item?id=47640875 Points: 193 # Comments: 57",
       "source": "Hacker News",
       "published": "2026-04-04T16:57:45+00:00",
       "link": "https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f"
     },
     {
       "title": "12k AI-generated blog posts added in a single commit",
-      "summary": "Article URL: https://github.com/OneUptime/blog/commit/30cd2384794c897d95aca77d173db44af51ca849 Comments URL: https://news.ycombinator.com/item?id=47640722 Points: 145 # Comments: 144",
+      "summary": "Article URL: https://github.com/OneUptime/blog/commit/30cd2384794c897d95aca77d173db44af51ca849 Comments URL: https://news.ycombinator.com/item?id=47640722 Points: 145 # Comments: 145",
       "source": "Hacker News",
       "published": "2026-04-04T16:45:31+00:00",
       "link": "https://github.com/OneUptime/blog/commit/30cd2384794c897d95aca77d173db44af51ca849"
@@ -297,7 +311,7 @@ const FEED_DATA = {
     },
     {
       "title": "Show HN: Apfel – The free AI already on your Mac",
-      "summary": "Github: https://github.com/Arthur-Ficial/apfel Comments URL: https://news.ycombinator.com/item?id=47624645 Points: 714 # Comments: 146",
+      "summary": "Github: https://github.com/Arthur-Ficial/apfel Comments URL: https://news.ycombinator.com/item?id=47624645 Points: 717 # Comments: 146",
       "source": "Hacker News",
       "published": "2026-04-03T09:15:34+00:00",
       "link": "https://apfel.franzai.com"
@@ -339,7 +353,7 @@ const FEED_DATA = {
     },
     {
       "title": "We replaced RAG with a virtual filesystem for our AI documentation assistant",
-      "summary": "Article URL: https://www.mintlify.com/blog/how-we-built-a-virtual-filesystem-for-our-assistant Comments URL: https://news.ycombinator.com/item?id=47618223 Points: 394 # Comments: 146",
+      "summary": "Article URL: https://www.mintlify.com/blog/how-we-built-a-virtual-filesystem-for-our-assistant Comments URL: https://news.ycombinator.com/item?id=47618223 Points: 394 # Comments: 147",
       "source": "Hacker News",
       "published": "2026-04-02T18:24:29+00:00",
       "link": "https://www.mintlify.com/blog/how-we-built-a-virtual-filesystem-for-our-assistant"
@@ -528,7 +542,7 @@ const FEED_DATA = {
     },
     {
       "title": "r/programming bans all discussion of LLM programming",
-      "summary": "Article URL: https://old.reddit.com/r/programming/comments/1s9jkzi/announcement_temporary_llm_content_ban/ Comments URL: https://news.ycombinator.com/item?id=47610336 Points: 196 # Comments: 216",
+      "summary": "Article URL: https://old.reddit.com/r/programming/comments/1s9jkzi/announcement_temporary_llm_content_ban/ Comments URL: https://news.ycombinator.com/item?id=47610336 Points: 196 # Comments: 220",
       "source": "Hacker News",
       "published": "2026-04-02T05:33:20+00:00",
       "link": "https://old.reddit.com/r/programming/comments/1s9jkzi/announcement_temporary_llm_content_ban/"
@@ -1386,20 +1400,6 @@ const FEED_DATA = {
       "source": "Hacker News",
       "published": "2026-03-28T08:17:52+00:00",
       "link": "https://www.psychologytoday.com/us/blog/the-algorithmic-mind/202603/adults-lose-skills-to-ai-children-never-build-them"
-    },
-    {
-      "title": "CERN uses ultra-compact AI models on FPGAs for real-time LHC data filtering",
-      "summary": "Article URL: https://theopenreader.org/Journalism:CERN_Uses_Tiny_AI_Models_Burned_into_Silicon_for_Real-Time_LHC_Data_Filtering Comments URL: https://news.ycombinator.com/item?id=47552562 Points: 331 # Comments: 146",
-      "source": "Hacker News",
-      "published": "2026-03-28T08:06:19+00:00",
-      "link": "https://theopenreader.org/Journalism:CERN_Uses_Tiny_AI_Models_Burned_into_Silicon_for_Real-Time_LHC_Data_Filtering"
-    },
-    {
-      "title": "CERN uses tiny AI models burned into silicon for real-time LHC data filtering",
-      "summary": "Article URL: https://theopenreader.org/Journalism:CERN_Uses_Tiny_AI_Models_Burned_into_Silicon_for_Real-Time_LHC_Data_Filtering Comments URL: https://news.ycombinator.com/item?id=47552562 Points: 237 # Comments: 117",
-      "source": "Hacker News",
-      "published": "2026-03-28T08:06:19+00:00",
-      "link": "https://theopenreader.org/Journalism:CERN_Uses_Tiny_AI_Models_Burned_into_Silicon_for_Real-Time_LHC_Data_Filtering"
     }
   ]
 };
