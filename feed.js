@@ -1,6 +1,34 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-04-05T10:06:12.055710+00:00",
+  "lastUpdated": "2026-04-05T14:57:07.852638+00:00",
   "items": [
+    {
+      "title": "In Japan, the robot isn’t coming for your job; it’s filling the one nobody wants",
+      "summary": "Driven by labor shortages, Japan is pushing physical AI from pilot projects into real-world deployment.",
+      "source": "TechCrunch",
+      "published": "2026-04-05T14:00:00+00:00",
+      "link": "https://techcrunch.com/2026/04/05/japan-is-proving-experimental-physical-ai-is-ready-for-the-real-world/"
+    },
+    {
+      "title": "I let Gemini in Google Maps plan my day and it went surprisingly well",
+      "summary": "You may be familiar with Gemini as the thing that's in every Google service you use - whether you want it or not. While it's been a constant, sometimes unwelcome presence in Gmail for at least the past year, it's a relatively new addition to Maps.",
+      "source": "The Verge",
+      "published": "2026-04-05T14:00:00+00:00",
+      "link": "https://www.theverge.com/tech/907015/gemini-google-maps-hands-on"
+    },
+    {
+      "title": "Grammarly’s sloppelganger saga",
+      "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the ups and downs of AI, follow Stevie Bonifield.",
+      "source": "The Verge",
+      "published": "2026-04-05T12:00:00+00:00",
+      "link": "https://www.theverge.com/column/906606/grammarly-expert-review-ai-saga"
+    },
+    {
+      "title": "Study maps developer frustration over \"AI slop\" as a \"tragedy of the commons\" in software development",
+      "summary": "A qualitative study looks at how developers perceive and push back against low-quality AI content, or \"slop,\" in software development. The critics describe a \"tragedy of the commons\" where individual productivity gains come at the cost of reviewers and the open-source community.",
+      "source": "The Decoder",
+      "published": "2026-04-05T10:55:18+00:00",
+      "link": "https://the-decoder.com/study-maps-developer-frustration-over-ai-slop-as-a-tragedy-of-the-commons-in-software-development/"
+    },
     {
       "title": "AI offensive cyber capabilities are doubling every six months, safety researchers find",
       "summary": "AI models are rapidly improving at exploiting security vulnerabilities. According to a new study, their offensive cyber capability has been doubling every 5.7 months since 2024, with Opus 4.6 and GPT-5.3 Codex now solving tasks that take human experts about three hours.",
@@ -31,14 +59,14 @@ const FEED_DATA = {
     },
     {
       "title": "AI that copied musical artist files copyright claim against artist [updated]",
-      "summary": "https://xcancel.com/VladTheInflator/status/20395770015317689... Comments URL: https://news.ycombinator.com/item?id=47645976 Points: 58 # Comments: 14",
+      "summary": "https://xcancel.com/VladTheInflator/status/20395770015317689... Comments URL: https://news.ycombinator.com/item?id=47645976 Points: 61 # Comments: 15",
       "source": "Hacker News",
       "published": "2026-04-05T03:55:10+00:00",
       "link": "https://twitter.com/VladTheInflator/status/2039577001531768906"
     },
     {
       "title": "Writing Lisp is AI resistant and I'm sad",
-      "summary": "Article URL: https://blog.djhaskin.com/blog/writing-lisp-is-ai-resistant-and-im-sad/ Comments URL: https://news.ycombinator.com/item?id=47645468 Points: 66 # Comments: 69",
+      "summary": "Article URL: https://blog.djhaskin.com/blog/writing-lisp-is-ai-resistant-and-im-sad/ Comments URL: https://news.ycombinator.com/item?id=47645468 Points: 70 # Comments: 77",
       "source": "Hacker News",
       "published": "2026-04-05T02:01:31+00:00",
       "link": "https://blog.djhaskin.com/blog/writing-lisp-is-ai-resistant-and-im-sad/"
@@ -52,14 +80,14 @@ const FEED_DATA = {
     },
     {
       "title": "LLM Wiki – example of an \"idea file\"",
-      "summary": "https://x.com/karpathy/status/2040470801506541998https://xcancel.com/karpathy/status/2040470801506541998 Comments URL: https://news.ycombinator.com/item?id=47640875 Points: 193 # Comments: 57",
+      "summary": "https://x.com/karpathy/status/2040470801506541998https://xcancel.com/karpathy/status/2040470801506541998 Comments URL: https://news.ycombinator.com/item?id=47640875 Points: 246 # Comments: 77",
       "source": "Hacker News",
       "published": "2026-04-04T16:57:45+00:00",
       "link": "https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f"
     },
     {
       "title": "12k AI-generated blog posts added in a single commit",
-      "summary": "Article URL: https://github.com/OneUptime/blog/commit/30cd2384794c897d95aca77d173db44af51ca849 Comments URL: https://news.ycombinator.com/item?id=47640722 Points: 145 # Comments: 145",
+      "summary": "Article URL: https://github.com/OneUptime/blog/commit/30cd2384794c897d95aca77d173db44af51ca849 Comments URL: https://news.ycombinator.com/item?id=47640722 Points: 146 # Comments: 145",
       "source": "Hacker News",
       "published": "2026-04-04T16:45:31+00:00",
       "link": "https://github.com/OneUptime/blog/commit/30cd2384794c897d95aca77d173db44af51ca849"
@@ -157,7 +185,7 @@ const FEED_DATA = {
     },
     {
       "title": "The Subprime AI Crisis Is Here",
-      "summary": "Article URL: https://www.wheresyoured.at/the-subprime-ai-crisis-is-here/ Comments URL: https://news.ycombinator.com/item?id=47633150 Points: 51 # Comments: 24",
+      "summary": "Article URL: https://www.wheresyoured.at/the-subprime-ai-crisis-is-here/ Comments URL: https://news.ycombinator.com/item?id=47633150 Points: 52 # Comments: 24",
       "source": "Hacker News",
       "published": "2026-04-03T22:25:22+00:00",
       "link": "https://www.wheresyoured.at/the-subprime-ai-crisis-is-here/"
@@ -311,7 +339,7 @@ const FEED_DATA = {
     },
     {
       "title": "Show HN: Apfel – The free AI already on your Mac",
-      "summary": "Github: https://github.com/Arthur-Ficial/apfel Comments URL: https://news.ycombinator.com/item?id=47624645 Points: 717 # Comments: 146",
+      "summary": "Github: https://github.com/Arthur-Ficial/apfel Comments URL: https://news.ycombinator.com/item?id=47624645 Points: 721 # Comments: 147",
       "source": "Hacker News",
       "published": "2026-04-03T09:15:34+00:00",
       "link": "https://apfel.franzai.com"
@@ -353,7 +381,7 @@ const FEED_DATA = {
     },
     {
       "title": "We replaced RAG with a virtual filesystem for our AI documentation assistant",
-      "summary": "Article URL: https://www.mintlify.com/blog/how-we-built-a-virtual-filesystem-for-our-assistant Comments URL: https://news.ycombinator.com/item?id=47618223 Points: 394 # Comments: 147",
+      "summary": "Article URL: https://www.mintlify.com/blog/how-we-built-a-virtual-filesystem-for-our-assistant Comments URL: https://news.ycombinator.com/item?id=47618223 Points: 395 # Comments: 148",
       "source": "Hacker News",
       "published": "2026-04-02T18:24:29+00:00",
       "link": "https://www.mintlify.com/blog/how-we-built-a-virtual-filesystem-for-our-assistant"
@@ -507,7 +535,7 @@ const FEED_DATA = {
     },
     {
       "title": "Lemonade by AMD: a fast and open source local LLM server using GPU and NPU",
-      "summary": "Article URL: https://lemonade-server.ai Comments URL: https://news.ycombinator.com/item?id=47612724 Points: 564 # Comments: 113",
+      "summary": "Article URL: https://lemonade-server.ai Comments URL: https://news.ycombinator.com/item?id=47612724 Points: 566 # Comments: 113",
       "source": "Hacker News",
       "published": "2026-04-02T11:04:51+00:00",
       "link": "https://lemonade-server.ai"
@@ -542,7 +570,7 @@ const FEED_DATA = {
     },
     {
       "title": "r/programming bans all discussion of LLM programming",
-      "summary": "Article URL: https://old.reddit.com/r/programming/comments/1s9jkzi/announcement_temporary_llm_content_ban/ Comments URL: https://news.ycombinator.com/item?id=47610336 Points: 196 # Comments: 220",
+      "summary": "Article URL: https://old.reddit.com/r/programming/comments/1s9jkzi/announcement_temporary_llm_content_ban/ Comments URL: https://news.ycombinator.com/item?id=47610336 Points: 196 # Comments: 222",
       "source": "Hacker News",
       "published": "2026-04-02T05:33:20+00:00",
       "link": "https://old.reddit.com/r/programming/comments/1s9jkzi/announcement_temporary_llm_content_ban/"
@@ -1372,34 +1400,6 @@ const FEED_DATA = {
       "source": "The Verge",
       "published": "2026-03-28T12:00:00+00:00",
       "link": "https://www.theverge.com/ai-artificial-intelligence/902368/openai-sora-dead-ai-video-generation-competition"
-    },
-    {
-      "title": "Meta's hyperagents improve at tasks and improve at improving",
-      "summary": "Researchers at Meta and several universities have developed \"hyperagents,\" AI systems that don't just solve tasks, but also optimize the very mechanism they use to get better. The approach works across different task areas and could open the door to self-accelerating AI.",
-      "source": "The Decoder",
-      "published": "2026-03-28T10:40:09+00:00",
-      "link": "https://the-decoder.com/metas-hyperagents-improve-at-tasks-and-improve-at-improving/"
-    },
-    {
-      "title": "OpenAI sets two-stage Sora shutdown with app closing April 2026 and API following in September",
-      "summary": "OpenAI is pulling the plug on Sora, its AI video generation tool, in a two-stage shutdown starting April 2026. The move signals a major strategic shift away from creative AI tools and toward coding and enterprise products.",
-      "source": "The Decoder",
-      "published": "2026-03-28T09:47:08+00:00",
-      "link": "https://the-decoder.com/openai-sets-two-stage-sora-shutdown-with-app-closing-april-2026-and-api-following-in-september/"
-    },
-    {
-      "title": "Anthropic's new data shows AI skill builds over time, and that could widen the inequality gap",
-      "summary": "Anthropic's second Economic Index tracks how Claude usage is evolving across the economy. One key finding: the longer people use the AI model, the better their results get.",
-      "source": "The Decoder",
-      "published": "2026-03-28T09:00:09+00:00",
-      "link": "https://the-decoder.com/anthropics-new-data-shows-ai-skill-builds-over-time-and-that-could-widen-the-inequality-gap/"
-    },
-    {
-      "title": "Adults Lose Skills to AI. Children Never Build Them",
-      "summary": "Article URL: https://www.psychologytoday.com/us/blog/the-algorithmic-mind/202603/adults-lose-skills-to-ai-children-never-build-them Comments URL: https://news.ycombinator.com/item?id=47552617 Points: 99 # Comments: 87",
-      "source": "Hacker News",
-      "published": "2026-03-28T08:17:52+00:00",
-      "link": "https://www.psychologytoday.com/us/blog/the-algorithmic-mind/202603/adults-lose-skills-to-ai-children-never-build-them"
     }
   ]
 };
