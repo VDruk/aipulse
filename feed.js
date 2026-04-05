@@ -1,6 +1,20 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-04-05T14:57:07.852638+00:00",
+  "lastUpdated": "2026-04-05T18:03:09.601963+00:00",
   "items": [
+    {
+      "title": "Suno is a music copyright nightmare",
+      "summary": "AI music platform Suno's policy is that it does not permit the use of copyrighted material. You can upload your own tracks to remix or set your original lyrics to AI-generated music.",
+      "source": "The Verge",
+      "published": "2026-04-05T16:00:00+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/906896/sunos-copyright-ai-music-covers"
+    },
+    {
+      "title": "The New York Times drops freelancer whose AI tool copied from an existing book review",
+      "summary": "AI tools can speed up journalism until they backfire. Two recent cases show what happens when writers don't understand how their AI tools work: copied passages and made-up quotes.",
+      "source": "The Decoder",
+      "published": "2026-04-05T15:11:08+00:00",
+      "link": "https://the-decoder.com/the-new-york-times-drops-freelancer-whose-ai-tool-copied-from-an-existing-book-review/"
+    },
     {
       "title": "In Japan, the robot isn’t coming for your job; it’s filling the one nobody wants",
       "summary": "Driven by labor shortages, Japan is pushing physical AI from pilot projects into real-world deployment.",
@@ -14,6 +28,13 @@ const FEED_DATA = {
       "source": "The Verge",
       "published": "2026-04-05T14:00:00+00:00",
       "link": "https://www.theverge.com/tech/907015/gemini-google-maps-hands-on"
+    },
+    {
+      "title": "Eight years of wanting, three months of building with AI",
+      "summary": "Article URL: https://lalitm.com/post/building-syntaqlite-ai/ Comments URL: https://news.ycombinator.com/item?id=47648828 Points: 277 # Comments: 76",
+      "source": "Hacker News",
+      "published": "2026-04-05T12:43:47+00:00",
+      "link": "https://lalitm.com/post/building-syntaqlite-ai/"
     },
     {
       "title": "Grammarly’s sloppelganger saga",
@@ -59,14 +80,14 @@ const FEED_DATA = {
     },
     {
       "title": "AI that copied musical artist files copyright claim against artist [updated]",
-      "summary": "https://xcancel.com/VladTheInflator/status/20395770015317689... Comments URL: https://news.ycombinator.com/item?id=47645976 Points: 61 # Comments: 15",
+      "summary": "https://xcancel.com/VladTheInflator/status/20395770015317689... Comments URL: https://news.ycombinator.com/item?id=47645976 Points: 62 # Comments: 15",
       "source": "Hacker News",
       "published": "2026-04-05T03:55:10+00:00",
       "link": "https://twitter.com/VladTheInflator/status/2039577001531768906"
     },
     {
       "title": "Writing Lisp is AI resistant and I'm sad",
-      "summary": "Article URL: https://blog.djhaskin.com/blog/writing-lisp-is-ai-resistant-and-im-sad/ Comments URL: https://news.ycombinator.com/item?id=47645468 Points: 70 # Comments: 77",
+      "summary": "Article URL: https://blog.djhaskin.com/blog/writing-lisp-is-ai-resistant-and-im-sad/ Comments URL: https://news.ycombinator.com/item?id=47645468 Points: 79 # Comments: 84",
       "source": "Hacker News",
       "published": "2026-04-05T02:01:31+00:00",
       "link": "https://blog.djhaskin.com/blog/writing-lisp-is-ai-resistant-and-im-sad/"
@@ -80,14 +101,14 @@ const FEED_DATA = {
     },
     {
       "title": "LLM Wiki – example of an \"idea file\"",
-      "summary": "https://x.com/karpathy/status/2040470801506541998https://xcancel.com/karpathy/status/2040470801506541998 Comments URL: https://news.ycombinator.com/item?id=47640875 Points: 246 # Comments: 77",
+      "summary": "https://x.com/karpathy/status/2040470801506541998https://xcancel.com/karpathy/status/2040470801506541998 Comments URL: https://news.ycombinator.com/item?id=47640875 Points: 263 # Comments: 79",
       "source": "Hacker News",
       "published": "2026-04-04T16:57:45+00:00",
       "link": "https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f"
     },
     {
       "title": "12k AI-generated blog posts added in a single commit",
-      "summary": "Article URL: https://github.com/OneUptime/blog/commit/30cd2384794c897d95aca77d173db44af51ca849 Comments URL: https://news.ycombinator.com/item?id=47640722 Points: 146 # Comments: 145",
+      "summary": "Article URL: https://github.com/OneUptime/blog/commit/30cd2384794c897d95aca77d173db44af51ca849 Comments URL: https://news.ycombinator.com/item?id=47640722 Points: 147 # Comments: 146",
       "source": "Hacker News",
       "published": "2026-04-04T16:45:31+00:00",
       "link": "https://github.com/OneUptime/blog/commit/30cd2384794c897d95aca77d173db44af51ca849"
@@ -185,7 +206,7 @@ const FEED_DATA = {
     },
     {
       "title": "The Subprime AI Crisis Is Here",
-      "summary": "Article URL: https://www.wheresyoured.at/the-subprime-ai-crisis-is-here/ Comments URL: https://news.ycombinator.com/item?id=47633150 Points: 52 # Comments: 24",
+      "summary": "Article URL: https://www.wheresyoured.at/the-subprime-ai-crisis-is-here/ Comments URL: https://news.ycombinator.com/item?id=47633150 Points: 53 # Comments: 25",
       "source": "Hacker News",
       "published": "2026-04-03T22:25:22+00:00",
       "link": "https://www.wheresyoured.at/the-subprime-ai-crisis-is-here/"
@@ -199,7 +220,7 @@ const FEED_DATA = {
     },
     {
       "title": "\"Cognitive surrender\" leads AI users to abandon logical thinking, research finds",
-      "summary": "Article URL: https://arstechnica.com/ai/2026/04/research-finds-ai-users-scarily-willing-to-surrender-their-cognition-to-llms/ Comments URL: https://news.ycombinator.com/item?id=47632504 Points: 96 # Comments: 39",
+      "summary": "Article URL: https://arstechnica.com/ai/2026/04/research-finds-ai-users-scarily-willing-to-surrender-their-cognition-to-llms/ Comments URL: https://news.ycombinator.com/item?id=47632504 Points: 96 # Comments: 40",
       "source": "Hacker News",
       "published": "2026-04-03T21:26:13+00:00",
       "link": "https://arstechnica.com/ai/2026/04/research-finds-ai-users-scarily-willing-to-surrender-their-cognition-to-llms/"
@@ -339,7 +360,7 @@ const FEED_DATA = {
     },
     {
       "title": "Show HN: Apfel – The free AI already on your Mac",
-      "summary": "Github: https://github.com/Arthur-Ficial/apfel Comments URL: https://news.ycombinator.com/item?id=47624645 Points: 721 # Comments: 147",
+      "summary": "Github: https://github.com/Arthur-Ficial/apfel Comments URL: https://news.ycombinator.com/item?id=47624645 Points: 721 # Comments: 148",
       "source": "Hacker News",
       "published": "2026-04-03T09:15:34+00:00",
       "link": "https://apfel.franzai.com"
@@ -381,7 +402,7 @@ const FEED_DATA = {
     },
     {
       "title": "We replaced RAG with a virtual filesystem for our AI documentation assistant",
-      "summary": "Article URL: https://www.mintlify.com/blog/how-we-built-a-virtual-filesystem-for-our-assistant Comments URL: https://news.ycombinator.com/item?id=47618223 Points: 395 # Comments: 148",
+      "summary": "Article URL: https://www.mintlify.com/blog/how-we-built-a-virtual-filesystem-for-our-assistant Comments URL: https://news.ycombinator.com/item?id=47618223 Points: 396 # Comments: 148",
       "source": "Hacker News",
       "published": "2026-04-02T18:24:29+00:00",
       "link": "https://www.mintlify.com/blog/how-we-built-a-virtual-filesystem-for-our-assistant"
@@ -535,7 +556,7 @@ const FEED_DATA = {
     },
     {
       "title": "Lemonade by AMD: a fast and open source local LLM server using GPU and NPU",
-      "summary": "Article URL: https://lemonade-server.ai Comments URL: https://news.ycombinator.com/item?id=47612724 Points: 566 # Comments: 113",
+      "summary": "Article URL: https://lemonade-server.ai Comments URL: https://news.ycombinator.com/item?id=47612724 Points: 568 # Comments: 113",
       "source": "Hacker News",
       "published": "2026-04-02T11:04:51+00:00",
       "link": "https://lemonade-server.ai"
@@ -570,7 +591,7 @@ const FEED_DATA = {
     },
     {
       "title": "r/programming bans all discussion of LLM programming",
-      "summary": "Article URL: https://old.reddit.com/r/programming/comments/1s9jkzi/announcement_temporary_llm_content_ban/ Comments URL: https://news.ycombinator.com/item?id=47610336 Points: 196 # Comments: 222",
+      "summary": "Article URL: https://old.reddit.com/r/programming/comments/1s9jkzi/announcement_temporary_llm_content_ban/ Comments URL: https://news.ycombinator.com/item?id=47610336 Points: 196 # Comments: 223",
       "source": "Hacker News",
       "published": "2026-04-02T05:33:20+00:00",
       "link": "https://old.reddit.com/r/programming/comments/1s9jkzi/announcement_temporary_llm_content_ban/"
@@ -1379,27 +1400,6 @@ const FEED_DATA = {
       "source": "Hacker News",
       "published": "2026-03-28T14:08:33+00:00",
       "link": "https://news.stanford.edu/stories/2026/03/ai-advice-sycophantic-models-research"
-    },
-    {
-      "title": "Why can’t TikTok identify AI generated ads when I can?",
-      "summary": "I've been struggling to tell whether the ads appearing in my TikTok feeds have been made with generative AI tools.",
-      "source": "The Verge",
-      "published": "2026-03-28T14:00:00+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/900400/tiktok-ai-ads-labels-samsung-disclosure"
-    },
-    {
-      "title": "TikTok’s policy for AI ads isn’t working",
-      "summary": "I've been struggling to tell whether the ads appearing in my TikTok feeds have been made with generative AI tools.",
-      "source": "The Verge",
-      "published": "2026-03-28T14:00:00+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/900400/tiktok-ai-ads-labels-samsung-disclosure"
-    },
-    {
-      "title": "Why OpenAI killed Sora",
-      "summary": "On Tuesday morning, everything was business as usual at OpenAI.",
-      "source": "The Verge",
-      "published": "2026-03-28T12:00:00+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/902368/openai-sora-dead-ai-video-generation-competition"
     }
   ]
 };
