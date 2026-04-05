@@ -1,6 +1,20 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-04-04T21:57:43.609967+00:00",
+  "lastUpdated": "2026-04-05T06:05:07.888343+00:00",
   "items": [
+    {
+      "title": "AI that copied musical artist files copyright claim against artist [updated]",
+      "summary": "https://xcancel.com/VladTheInflator/status/20395770015317689... Comments URL: https://news.ycombinator.com/item?id=47645976 Points: 50 # Comments: 12",
+      "source": "Hacker News",
+      "published": "2026-04-05T03:55:10+00:00",
+      "link": "https://twitter.com/VladTheInflator/status/2039577001531768906"
+    },
+    {
+      "title": "Writing Lisp is AI resistant and I'm sad",
+      "summary": "Article URL: https://blog.djhaskin.com/blog/writing-lisp-is-ai-resistant-and-im-sad/ Comments URL: https://news.ycombinator.com/item?id=47645468 Points: 56 # Comments: 50",
+      "source": "Hacker News",
+      "published": "2026-04-05T02:01:31+00:00",
+      "link": "https://blog.djhaskin.com/blog/writing-lisp-is-ai-resistant-and-im-sad/"
+    },
     {
       "title": "A folk musician became a target for AI fakes and a copyright troll",
       "summary": "In January, folk artist Murphy Campbell discovered several songs on her Spotify profile that did not belong there. They were songs that she had recorded, but she'd never uploaded them to Spotify, and something was off about the vocals.",
@@ -9,8 +23,15 @@ const FEED_DATA = {
       "link": "https://www.theverge.com/entertainment/907111/murphy-campbell-folk-music-ai-copyright"
     },
     {
+      "title": "LLM Wiki – example of an \"idea file\"",
+      "summary": "https://x.com/karpathy/status/2040470801506541998https://xcancel.com/karpathy/status/2040470801506541998 Comments URL: https://news.ycombinator.com/item?id=47640875 Points: 129 # Comments: 35",
+      "source": "Hacker News",
+      "published": "2026-04-04T16:57:45+00:00",
+      "link": "https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f"
+    },
+    {
       "title": "12k AI-generated blog posts added in a single commit",
-      "summary": "Article URL: https://github.com/OneUptime/blog/commit/30cd2384794c897d95aca77d173db44af51ca849 Comments URL: https://news.ycombinator.com/item?id=47640722 Points: 134 # Comments: 133",
+      "summary": "Article URL: https://github.com/OneUptime/blog/commit/30cd2384794c897d95aca77d173db44af51ca849 Comments URL: https://news.ycombinator.com/item?id=47640722 Points: 143 # Comments: 143",
       "source": "Hacker News",
       "published": "2026-04-04T16:45:31+00:00",
       "link": "https://github.com/OneUptime/blog/commit/30cd2384794c897d95aca77d173db44af51ca849"
@@ -108,7 +129,7 @@ const FEED_DATA = {
     },
     {
       "title": "The Subprime AI Crisis Is Here",
-      "summary": "Article URL: https://www.wheresyoured.at/the-subprime-ai-crisis-is-here/ Comments URL: https://news.ycombinator.com/item?id=47633150 Points: 50 # Comments: 22",
+      "summary": "Article URL: https://www.wheresyoured.at/the-subprime-ai-crisis-is-here/ Comments URL: https://news.ycombinator.com/item?id=47633150 Points: 51 # Comments: 23",
       "source": "Hacker News",
       "published": "2026-04-03T22:25:22+00:00",
       "link": "https://www.wheresyoured.at/the-subprime-ai-crisis-is-here/"
@@ -122,7 +143,7 @@ const FEED_DATA = {
     },
     {
       "title": "\"Cognitive surrender\" leads AI users to abandon logical thinking, research finds",
-      "summary": "Article URL: https://arstechnica.com/ai/2026/04/research-finds-ai-users-scarily-willing-to-surrender-their-cognition-to-llms/ Comments URL: https://news.ycombinator.com/item?id=47632504 Points: 94 # Comments: 39",
+      "summary": "Article URL: https://arstechnica.com/ai/2026/04/research-finds-ai-users-scarily-willing-to-surrender-their-cognition-to-llms/ Comments URL: https://news.ycombinator.com/item?id=47632504 Points: 96 # Comments: 39",
       "source": "Hacker News",
       "published": "2026-04-03T21:26:13+00:00",
       "link": "https://arstechnica.com/ai/2026/04/research-finds-ai-users-scarily-willing-to-surrender-their-cognition-to-llms/"
@@ -262,7 +283,7 @@ const FEED_DATA = {
     },
     {
       "title": "Show HN: Apfel – The free AI already on your Mac",
-      "summary": "Github: https://github.com/Arthur-Ficial/apfel Comments URL: https://news.ycombinator.com/item?id=47624645 Points: 701 # Comments: 145",
+      "summary": "Github: https://github.com/Arthur-Ficial/apfel Comments URL: https://news.ycombinator.com/item?id=47624645 Points: 711 # Comments: 146",
       "source": "Hacker News",
       "published": "2026-04-03T09:15:34+00:00",
       "link": "https://apfel.franzai.com"
@@ -304,7 +325,7 @@ const FEED_DATA = {
     },
     {
       "title": "We replaced RAG with a virtual filesystem for our AI documentation assistant",
-      "summary": "Article URL: https://www.mintlify.com/blog/how-we-built-a-virtual-filesystem-for-our-assistant Comments URL: https://news.ycombinator.com/item?id=47618223 Points: 386 # Comments: 147",
+      "summary": "Article URL: https://www.mintlify.com/blog/how-we-built-a-virtual-filesystem-for-our-assistant Comments URL: https://news.ycombinator.com/item?id=47618223 Points: 393 # Comments: 147",
       "source": "Hacker News",
       "published": "2026-04-02T18:24:29+00:00",
       "link": "https://www.mintlify.com/blog/how-we-built-a-virtual-filesystem-for-our-assistant"
@@ -360,7 +381,7 @@ const FEED_DATA = {
     },
     {
       "title": "Group Pushing Age Verification for AI Turns Out to Be Backed by OpenAI",
-      "summary": "Article URL: https://gizmodo.com/group-pushing-age-verification-requirements-for-ai-turns-out-to-be-sneakily-backed-by-openai-2000741069 Comments URL: https://news.ycombinator.com/item?id=47616665 Points: 52 # Comments: 6",
+      "summary": "Article URL: https://gizmodo.com/group-pushing-age-verification-requirements-for-ai-turns-out-to-be-sneakily-backed-by-openai-2000741069 Comments URL: https://news.ycombinator.com/item?id=47616665 Points: 53 # Comments: 6",
       "source": "Hacker News",
       "published": "2026-04-02T16:30:41+00:00",
       "link": "https://gizmodo.com/group-pushing-age-verification-requirements-for-ai-turns-out-to-be-sneakily-backed-by-openai-2000741069"
@@ -458,7 +479,7 @@ const FEED_DATA = {
     },
     {
       "title": "Lemonade by AMD: a fast and open source local LLM server using GPU and NPU",
-      "summary": "Article URL: https://lemonade-server.ai Comments URL: https://news.ycombinator.com/item?id=47612724 Points: 562 # Comments: 113",
+      "summary": "Article URL: https://lemonade-server.ai Comments URL: https://news.ycombinator.com/item?id=47612724 Points: 564 # Comments: 113",
       "source": "Hacker News",
       "published": "2026-04-02T11:04:51+00:00",
       "link": "https://lemonade-server.ai"
@@ -493,7 +514,7 @@ const FEED_DATA = {
     },
     {
       "title": "r/programming bans all discussion of LLM programming",
-      "summary": "Article URL: https://old.reddit.com/r/programming/comments/1s9jkzi/announcement_temporary_llm_content_ban/ Comments URL: https://news.ycombinator.com/item?id=47610336 Points: 196 # Comments: 214",
+      "summary": "Article URL: https://old.reddit.com/r/programming/comments/1s9jkzi/announcement_temporary_llm_content_ban/ Comments URL: https://news.ycombinator.com/item?id=47610336 Points: 196 # Comments: 216",
       "source": "Hacker News",
       "published": "2026-04-02T05:33:20+00:00",
       "link": "https://old.reddit.com/r/programming/comments/1s9jkzi/announcement_temporary_llm_content_ban/"
@@ -1379,27 +1400,6 @@ const FEED_DATA = {
       "source": "Wired",
       "published": "2026-03-27T21:46:39+00:00",
       "link": "https://www.wired.com/story/made-in-china-ai-research-is-starting-to-split-along-geopolitical-lines/"
-    },
-    {
-      "title": "Why SoftBank’s new $40B loan points to a 2026 OpenAI IPO",
-      "summary": "Wall Street giants JPMorgan and Goldman Sachs are extending a 12-month, unsecured loan to the Japanese conglomerate.",
-      "source": "TechCrunch",
-      "published": "2026-03-27T21:44:45+00:00",
-      "link": "https://techcrunch.com/2026/03/27/why-softbanks-new-40b-loan-points-to-a-2026-openai-ipo/"
-    },
-    {
-      "title": "AI bug reports went from junk to legit overnight, says Linux kernel czar",
-      "summary": "Article URL: https://www.theregister.com/2026/03/26/greg_kroahhartman_ai_kernel/ Comments URL: https://news.ycombinator.com/item?id=47547849 Points: 58 # Comments: 4",
-      "source": "Hacker News",
-      "published": "2026-03-27T20:30:35+00:00",
-      "link": "https://www.theregister.com/2026/03/26/greg_kroahhartman_ai_kernel/"
-    },
-    {
-      "title": "Google's new Gemini update makes it easy to import memories from ChatGPT and Claude",
-      "summary": "Google and Anthropic are courting ChatGPT switchers with a simple prompt trick that exports all saved user data. The article Google's new Gemini update makes it easy to import memories from ChatGPT and Claude appeared first on The Decoder.",
-      "source": "The Decoder",
-      "published": "2026-03-27T19:14:00+00:00",
-      "link": "https://the-decoder.com/googles-new-gemini-update-makes-it-easy-to-import-memories-from-chatgpt-and-claude/"
     }
   ]
 };
