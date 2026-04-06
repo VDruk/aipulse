@@ -1,6 +1,69 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-04-06T15:33:57.552931+00:00",
+  "lastUpdated": "2026-04-06T19:56:13.023361+00:00",
   "items": [
+    {
+      "title": "Google quietly launched an AI dictation app that works offline",
+      "summary": "Google's new offline-first dictation app uses Gemma AI models to take on the apps like Wispr Flow.",
+      "source": "TechCrunch",
+      "published": "2026-04-06T18:54:33+00:00",
+      "link": "https://techcrunch.com/2026/04/06/google-quietly-releases-an-offline-first-ai-dictation-app-on-ios/"
+    },
+    {
+      "title": "Iran threatens ‘Stargate’ AI data centers",
+      "summary": "Iran said it will target U.S.-linked data centers with new missile strikes, as the war between the U.S. and Iran escalates.",
+      "source": "TechCrunch",
+      "published": "2026-04-06T18:06:28+00:00",
+      "link": "https://techcrunch.com/2026/04/06/iran-threatens-stargate-ai-data-centers/"
+    },
+    {
+      "title": "OpenAI's safety brain drain finally gets an explanation and it's just Sam Altman's vibes",
+      "summary": "\"My vibes don't really fit.\" In a new New Yorker profile based on over 100 interviews, Sam Altman explains why safety researchers keep leaving OpenAI and why shifting commitments others might call deception are just part of the job.",
+      "source": "The Decoder",
+      "published": "2026-04-06T18:03:43+00:00",
+      "link": "https://the-decoder.com/openais-safety-brain-drain-finally-gets-an-explanation-and-its-just-sam-altmans-vibes/"
+    },
+    {
+      "title": "Less work, equal pay: OpenAI lays out its vision for a world reshaped by superintelligence",
+      "summary": "In a new policy paper, OpenAI lays out how governments should prepare for superintelligence, with proposals that include a public wealth fund, a four-day workweek, and higher capital gains taxes for top earners.",
+      "source": "The Decoder",
+      "published": "2026-04-06T16:40:46+00:00",
+      "link": "https://the-decoder.com/less-work-equal-pay-openai-lays-out-its-vision-for-a-world-reshaped-by-superintelligence/"
+    },
+    {
+      "title": "The one piece of data that could actually shed light on your job and AI",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here.",
+      "source": "MIT Tech Review",
+      "published": "2026-04-06T16:33:35+00:00",
+      "link": "https://www.technologyreview.com/2026/04/06/1135187/the-one-piece-of-data-that-could-actually-shed-light-on-your-job-and-ai/"
+    },
+    {
+      "title": "Launch HN: Freestyle: Sandboxes for AI Coding Agents",
+      "summary": "We’re Ben and Jacob, cofounders of Freestyle (https://freestyle.sh). We’re building a cloud for Coding Agents.For the first generation of agents it looked like workflows with minimal tools.",
+      "source": "Hacker News",
+      "published": "2026-04-06T16:32:11+00:00",
+      "link": "https://www.freestyle.sh"
+    },
+    {
+      "title": "OpenAI’s vision for the AI economy: public wealth funds, robot taxes, and a four-day work week",
+      "summary": "OpenAI proposes taxes on AI profits, public wealth funds, and expanded safety nets to address job loss and inequality, blending redistribution with capitalism as policymakers debate AI’s economic impact.",
+      "source": "TechCrunch",
+      "published": "2026-04-06T15:55:55+00:00",
+      "link": "https://techcrunch.com/2026/04/06/openais-vision-for-the-ai-economy-public-wealth-funds-robot-taxes-and-a-four-day-work-week/"
+    },
+    {
+      "title": "Iran threatens OpenAI’s Stargate data center in Abu Dhabi",
+      "summary": "Iran's Islamic Revolutionary Guard Corps (IRGC) has published a video threatening OpenAI's planned Abu Dhabi data center if the US follows through on threats to attack the country's power plants, as reported earlier by Tom's Hardware.",
+      "source": "The Verge",
+      "published": "2026-04-06T15:54:19+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/907427/iran-openai-stargate-datacenter-uae-abu-dhabi-threat"
+    },
+    {
+      "title": "When Virality Is the Message: The New Age of AI Propaganda",
+      "summary": "Article URL: https://time.com/article/2026/04/02/when-virality-is-the-message-the-new-age-of-ai-propaganda/ Comments URL: https://news.ycombinator.com/item?id=47661231 Points: 56 # Comments: 56",
+      "source": "Hacker News",
+      "published": "2026-04-06T14:16:35+00:00",
+      "link": "https://time.com/article/2026/04/02/when-virality-is-the-message-the-new-age-of-ai-propaganda/"
+    },
     {
       "title": "How to use the new ChatGPT app integrations, including DoorDash, Spotify, Uber, and others",
       "summary": "Learn how to use Spotify, Canva, Figma, Expedia, and other apps directly in ChatGPT.",
@@ -14,6 +77,13 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-04-06T13:00:00+00:00",
       "link": "https://techcrunch.com/2026/04/06/spains-xoople-raises-130-million-series-b-to-map-the-earth-for-ai/"
+    },
+    {
+      "title": "The Intelligence Failure in Iran",
+      "summary": "Article URL: https://www.theatlantic.com/national-security/2026/04/iran-war-intelligence-failure-trump/686694/ Comments URL: https://news.ycombinator.com/item?id=47659461 Points: 57 # Comments: 77",
+      "source": "Hacker News",
+      "published": "2026-04-06T11:21:35+00:00",
+      "link": "https://www.theatlantic.com/national-security/2026/04/iran-war-intelligence-failure-trump/686694/"
     },
     {
       "title": "AI is changing how small online sellers decide what to make",
@@ -87,7 +157,7 @@ const FEED_DATA = {
     },
     {
       "title": "UK intelligence censored report on global warming and homeland security",
-      "summary": "Article URL: https://theoryofchange1.substack.com/p/from-global-warming-to-homeland-security Comments URL: https://news.ycombinator.com/item?id=47653816 Points: 95 # Comments: 54",
+      "summary": "Article URL: https://theoryofchange1.substack.com/p/from-global-warming-to-homeland-security Comments URL: https://news.ycombinator.com/item?id=47653816 Points: 98 # Comments: 55",
       "source": "Hacker News",
       "published": "2026-04-05T20:59:52+00:00",
       "link": "https://theoryofchange1.substack.com/p/from-global-warming-to-homeland-security"
@@ -108,7 +178,7 @@ const FEED_DATA = {
     },
     {
       "title": "Show HN: Real-time AI (audio/video in, voice out) on an M3 Pro with Gemma E2B",
-      "summary": "Related: https://news.ycombinator.com/item?id=47653752 Comments URL: https://news.ycombinator.com/item?id=47652007 Points: 196 # Comments: 15",
+      "summary": "Related: https://news.ycombinator.com/item?id=47653752 Comments URL: https://news.ycombinator.com/item?id=47652007 Points: 242 # Comments: 26",
       "source": "Hacker News",
       "published": "2026-04-05T17:53:19+00:00",
       "link": "https://github.com/fikrikarim/parlor"
@@ -143,7 +213,7 @@ const FEED_DATA = {
     },
     {
       "title": "Eight years of wanting, three months of building with AI",
-      "summary": "Article URL: https://lalitm.com/post/building-syntaqlite-ai/ Comments URL: https://news.ycombinator.com/item?id=47648828 Points: 861 # Comments: 273",
+      "summary": "Article URL: https://lalitm.com/post/building-syntaqlite-ai/ Comments URL: https://news.ycombinator.com/item?id=47648828 Points: 898 # Comments: 281",
       "source": "Hacker News",
       "published": "2026-04-05T12:43:47+00:00",
       "link": "https://lalitm.com/post/building-syntaqlite-ai/"
@@ -192,7 +262,7 @@ const FEED_DATA = {
     },
     {
       "title": "I used AI. It worked. I hated it",
-      "summary": "https://web.archive.org/web/20260403164006/https://taggart-t... Comments URL: https://news.ycombinator.com/item?id=47646277 Points: 54 # Comments: 121",
+      "summary": "https://web.archive.org/web/20260403164006/https://taggart-t... Comments URL: https://news.ycombinator.com/item?id=47646277 Points: 54 # Comments: 123",
       "source": "Hacker News",
       "published": "2026-04-05T05:08:39+00:00",
       "link": "https://taggart-tech.com/reckoning/"
@@ -206,7 +276,7 @@ const FEED_DATA = {
     },
     {
       "title": "Writing Lisp is AI resistant and I'm sad",
-      "summary": "Article URL: https://blog.djhaskin.com/blog/writing-lisp-is-ai-resistant-and-im-sad/ Comments URL: https://news.ycombinator.com/item?id=47645468 Points: 93 # Comments: 95",
+      "summary": "Article URL: https://blog.djhaskin.com/blog/writing-lisp-is-ai-resistant-and-im-sad/ Comments URL: https://news.ycombinator.com/item?id=47645468 Points: 95 # Comments: 95",
       "source": "Hacker News",
       "published": "2026-04-05T02:01:31+00:00",
       "link": "https://blog.djhaskin.com/blog/writing-lisp-is-ai-resistant-and-im-sad/"
@@ -220,7 +290,7 @@ const FEED_DATA = {
     },
     {
       "title": "LLM Wiki – example of an \"idea file\"",
-      "summary": "https://x.com/karpathy/status/2040470801506541998https://xcancel.com/karpathy/status/2040470801506541998 Comments URL: https://news.ycombinator.com/item?id=47640875 Points: 285 # Comments: 90",
+      "summary": "https://x.com/karpathy/status/2040470801506541998https://xcancel.com/karpathy/status/2040470801506541998 Comments URL: https://news.ycombinator.com/item?id=47640875 Points: 289 # Comments: 90",
       "source": "Hacker News",
       "published": "2026-04-04T16:57:45+00:00",
       "link": "https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f"
@@ -479,7 +549,7 @@ const FEED_DATA = {
     },
     {
       "title": "Show HN: Apfel – The free AI already on your Mac",
-      "summary": "Github: https://github.com/Arthur-Ficial/apfel Comments URL: https://news.ycombinator.com/item?id=47624645 Points: 729 # Comments: 152",
+      "summary": "Github: https://github.com/Arthur-Ficial/apfel Comments URL: https://news.ycombinator.com/item?id=47624645 Points: 732 # Comments: 152",
       "source": "Hacker News",
       "published": "2026-04-03T09:15:34+00:00",
       "link": "https://apfel.franzai.com"
@@ -521,7 +591,7 @@ const FEED_DATA = {
     },
     {
       "title": "We replaced RAG with a virtual filesystem for our AI documentation assistant",
-      "summary": "Article URL: https://www.mintlify.com/blog/how-we-built-a-virtual-filesystem-for-our-assistant Comments URL: https://news.ycombinator.com/item?id=47618223 Points: 403 # Comments: 149",
+      "summary": "Article URL: https://www.mintlify.com/blog/how-we-built-a-virtual-filesystem-for-our-assistant Comments URL: https://news.ycombinator.com/item?id=47618223 Points: 406 # Comments: 149",
       "source": "Hacker News",
       "published": "2026-04-02T18:24:29+00:00",
       "link": "https://www.mintlify.com/blog/how-we-built-a-virtual-filesystem-for-our-assistant"
@@ -590,18 +660,18 @@ const FEED_DATA = {
       "link": "https://the-decoder.com/microsofts-mai-transcribe-1-runs-2-5x-faster-than-its-predecessor-at-0-36-per-audio-hour/"
     },
     {
-      "title": "Google now lets you direct avatars through prompts in its Vids app",
-      "summary": "Google is adding a way to customize and instruct avatars for video creation in the Vids app.",
-      "source": "TechCrunch",
-      "published": "2026-04-02T16:00:00+00:00",
-      "link": "https://techcrunch.com/2026/04/02/google-now-lets-you-direct-avatars-through-prompts-in-its-vids-app/"
-    },
-    {
       "title": "Anthropic Says That Claude Contains Its Own Kind of Emotions",
       "summary": "Researchers at the company found representations inside of Claude that perform functions similar to human feelings.",
       "source": "Wired",
       "published": "2026-04-02T16:00:00+00:00",
       "link": "https://www.wired.com/story/anthropic-claude-research-functional-emotions/"
+    },
+    {
+      "title": "Google now lets you direct avatars through prompts in its Vids app",
+      "summary": "Google is adding a way to customize and instruct avatars for video creation in the Vids app.",
+      "source": "TechCrunch",
+      "published": "2026-04-02T16:00:00+00:00",
+      "link": "https://techcrunch.com/2026/04/02/google-now-lets-you-direct-avatars-through-prompts-in-its-vids-app/"
     },
     {
       "title": "It’s not easy to get depression-detecting AI through the FDA",
@@ -1330,76 +1400,6 @@ const FEED_DATA = {
       "source": "The Verge",
       "published": "2026-03-30T01:32:14+00:00",
       "link": "https://www.theverge.com/ai-artificial-intelligence/903196/ai-music-suno-udio-art-lawsuit"
-    },
-    {
-      "title": "Bluesky’s new app is an AI for customizing your feed",
-      "summary": "The latest app from the team behind Bluesky is Attie, an AI assistant that lets you build your own algorithm.",
-      "source": "The Verge",
-      "published": "2026-03-29T21:44:41+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/903190/bluesky-attie-ai-custom-feeds"
-    },
-    {
-      "title": "AI isn't killing jobs, it's 'unbundling' them into lower-paid chunks",
-      "summary": "Article URL: https://www.theregister.com/2026/03/24/ai_job_unbundling/ Comments URL: https://news.ycombinator.com/item?id=47567183 Points: 56 # Comments: 33",
-      "source": "Hacker News",
-      "published": "2026-03-29T20:51:55+00:00",
-      "link": "https://www.theregister.com/2026/03/24/ai_job_unbundling/"
-    },
-    {
-      "title": "Sora’s shutdown could be a reality check moment for AI video",
-      "summary": "Is this just normal corporate strategy, or are we about to see a broader pullback on AI-generated video?",
-      "source": "TechCrunch",
-      "published": "2026-03-29T16:30:00+00:00",
-      "link": "https://techcrunch.com/2026/03/29/soras-shutdown-could-be-a-reality-check-moment-for-ai-video/"
-    },
-    {
-      "title": "OpenAI's Sam Altman and Science VP Kevin Weil hype AI-assisted dog cancer story ignoring there's no proof the vaccine worked",
-      "summary": "An Australian AI consultant used ChatGPT, AlphaFold, and Grok to find a possible treatment for his dog Rosie's incurable cancer.",
-      "source": "The Decoder",
-      "published": "2026-03-29T15:35:53+00:00",
-      "link": "https://the-decoder.com/openais-sam-altman-and-science-vp-kevin-weil-hype-ai-assisted-dog-cancer-story-ignoring-theres-no-proof-the-vaccine-worked/"
-    },
-    {
-      "title": "Eli Lilly signs $2.75 billion deal with AI drug developer Insilico Medicine",
-      "summary": "US pharmaceutical giant Eli Lilly is betting big on AI-driven drug development, signing a $2.75 billion deal with Hong Kong-listed Insilico Medicine. The article Eli Lilly signs $2.75 billion deal with AI drug developer Insilico Medicine appeared first on The Decoder.",
-      "source": "The Decoder",
-      "published": "2026-03-29T15:10:06+00:00",
-      "link": "https://the-decoder.com/eli-lilly-signs-2-75-billion-deal-with-ai-drug-developer-insilico-medicine/"
-    },
-    {
-      "title": "MetaClaw framework trains AI agents while you're in meetings by checking your Google Calendar",
-      "summary": "Researchers from four US universities have built a framework that improves AI agents during operation. It checks the user's Google calendar to figure out when to train.",
-      "source": "The Decoder",
-      "published": "2026-03-29T14:45:27+00:00",
-      "link": "https://the-decoder.com/metaclaw-framework-trains-ai-agents-while-youre-in-meetings-by-checking-your-google-calendar/"
-    },
-    {
-      "title": "Police used AI facial recognition to wrongly arrest TN woman for crimes in ND",
-      "summary": "Article URL: https://www.cnn.com/2026/03/29/us/angela-lipps-ai-facial-recognition Comments URL: https://news.ycombinator.com/item?id=47563384 Points: 443 # Comments: 204",
-      "source": "Hacker News",
-      "published": "2026-03-29T14:20:23+00:00",
-      "link": "https://www.cnn.com/2026/03/29/us/angela-lipps-ai-facial-recognition"
-    },
-    {
-      "title": "AI sycophancy makes people less likely to apologize and more likely to double down, study finds",
-      "summary": "AI models tell people what they want to hear nearly 50 percent more often than other humans do. A new Science study shows this isn't just annoying: it makes people less willing to apologize, less likely to see the other side, and more convinced they're right.",
-      "source": "The Decoder",
-      "published": "2026-03-29T13:02:11+00:00",
-      "link": "https://the-decoder.com/ai-sycophancy-makes-people-less-likely-to-apologize-and-more-likely-to-double-down-study-finds/"
-    },
-    {
-      "title": "Miasma: A tool to trap AI web scrapers in an endless poison pit",
-      "summary": "Article URL: https://github.com/austin-weeks/miasma Comments URL: https://news.ycombinator.com/item?id=47561819 Points: 345 # Comments: 246",
-      "source": "Hacker News",
-      "published": "2026-03-29T10:10:12+00:00",
-      "link": "https://github.com/austin-weeks/miasma"
-    },
-    {
-      "title": "What if AI doesn't need more RAM but better math?",
-      "summary": "Article URL: https://adlrocha.substack.com/p/adlrocha-what-if-ai-doesnt-need-more Comments URL: https://news.ycombinator.com/item?id=47561297 Points: 189 # Comments: 103",
-      "source": "Hacker News",
-      "published": "2026-03-29T08:18:55+00:00",
-      "link": "https://adlrocha.substack.com/p/adlrocha-what-if-ai-doesnt-need-more"
     }
   ]
 };
