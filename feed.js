@@ -1,6 +1,41 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-04-05T21:58:03.121061+00:00",
+  "lastUpdated": "2026-04-06T07:09:16.260901+00:00",
   "items": [
+    {
+      "title": "Americans are using AI more than ever while trusting it less, new Quinnipiac poll finds",
+      "summary": "A new Quinnipiac University poll reveals a growing paradox: AI adoption in the US is climbing fast, but skepticism is growing even faster. Gen Z, the generation most familiar with AI, has the bleakest outlook on the job market.",
+      "source": "The Decoder",
+      "published": "2026-04-06T06:30:15+00:00",
+      "link": "https://the-decoder.com/americans-are-using-ai-more-than-ever-while-trusting-it-less-new-quinnipiac-poll-finds/"
+    },
+    {
+      "title": "Show HN: I built a tiny LLM to demystify how language models work",
+      "summary": "Built a ~9M param LLM from scratch to understand how they actually work. Vanilla transformer, 60K synthetic conversations, ~130 lines of PyTorch.",
+      "source": "Hacker News",
+      "published": "2026-04-06T00:20:12+00:00",
+      "link": "https://github.com/arman-bd/guppylm"
+    },
+    {
+      "title": "Show HN: Gemma Gem – AI model embedded in a browser – no API keys, no cloud",
+      "summary": "Gemma Gem is a Chrome extension that loads Google's Gemma 4 (2B) through WebGPU in an offscreen document and gives it tools to interact with any webpage: read content, take screenshots, click elements, type text, scroll, and run JavaScript.You get a small chat overlay on every...",
+      "source": "Hacker News",
+      "published": "2026-04-06T00:14:37+00:00",
+      "link": "https://github.com/kessler/gemma-gem"
+    },
+    {
+      "title": "UK intelligence censored report on global warming and homeland security",
+      "summary": "Article URL: https://theoryofchange1.substack.com/p/from-global-warming-to-homeland-security Comments URL: https://news.ycombinator.com/item?id=47653816 Points: 92 # Comments: 49",
+      "source": "Hacker News",
+      "published": "2026-04-05T20:59:52+00:00",
+      "link": "https://theoryofchange1.substack.com/p/from-global-warming-to-homeland-security"
+    },
+    {
+      "title": "Musician says AI company is cloning her music, filing claims against her",
+      "summary": "Article URL: https://twitter.com/unlimited_ls/status/2040577536136974444 Comments URL: https://news.ycombinator.com/item?id=47653471 Points: 108 # Comments: 18",
+      "source": "Hacker News",
+      "published": "2026-04-05T20:19:11+00:00",
+      "link": "https://twitter.com/unlimited_ls/status/2040577536136974444"
+    },
     {
       "title": "Copilot is ‘for entertainment purposes only,’ according to Microsoft’s terms of use",
       "summary": "AI skeptics aren’t the only ones warning users not to unthinkingly trust models’ outputs — that’s what the AI companies say themselves in their terms of service.",
@@ -38,7 +73,7 @@ const FEED_DATA = {
     },
     {
       "title": "Eight years of wanting, three months of building with AI",
-      "summary": "Article URL: https://lalitm.com/post/building-syntaqlite-ai/ Comments URL: https://news.ycombinator.com/item?id=47648828 Points: 489 # Comments: 147",
+      "summary": "Article URL: https://lalitm.com/post/building-syntaqlite-ai/ Comments URL: https://news.ycombinator.com/item?id=47648828 Points: 747 # Comments: 224",
       "source": "Hacker News",
       "published": "2026-04-05T12:43:47+00:00",
       "link": "https://lalitm.com/post/building-syntaqlite-ai/"
@@ -87,21 +122,21 @@ const FEED_DATA = {
     },
     {
       "title": "I used AI. It worked. I hated it",
-      "summary": "https://web.archive.org/web/20260403164006/https://taggart-t... Comments URL: https://news.ycombinator.com/item?id=47646277 Points: 52 # Comments: 116",
+      "summary": "https://web.archive.org/web/20260403164006/https://taggart-t... Comments URL: https://news.ycombinator.com/item?id=47646277 Points: 53 # Comments: 118",
       "source": "Hacker News",
       "published": "2026-04-05T05:08:39+00:00",
       "link": "https://taggart-tech.com/reckoning/"
     },
     {
       "title": "AI that copied musical artist files copyright claim against artist [updated]",
-      "summary": "https://xcancel.com/VladTheInflator/status/20395770015317689... Comments URL: https://news.ycombinator.com/item?id=47645976 Points: 63 # Comments: 16",
+      "summary": "https://xcancel.com/VladTheInflator/status/20395770015317689... Comments URL: https://news.ycombinator.com/item?id=47645976 Points: 64 # Comments: 17",
       "source": "Hacker News",
       "published": "2026-04-05T03:55:10+00:00",
       "link": "https://twitter.com/VladTheInflator/status/2039577001531768906"
     },
     {
       "title": "Writing Lisp is AI resistant and I'm sad",
-      "summary": "Article URL: https://blog.djhaskin.com/blog/writing-lisp-is-ai-resistant-and-im-sad/ Comments URL: https://news.ycombinator.com/item?id=47645468 Points: 86 # Comments: 92",
+      "summary": "Article URL: https://blog.djhaskin.com/blog/writing-lisp-is-ai-resistant-and-im-sad/ Comments URL: https://news.ycombinator.com/item?id=47645468 Points: 92 # Comments: 94",
       "source": "Hacker News",
       "published": "2026-04-05T02:01:31+00:00",
       "link": "https://blog.djhaskin.com/blog/writing-lisp-is-ai-resistant-and-im-sad/"
@@ -115,14 +150,14 @@ const FEED_DATA = {
     },
     {
       "title": "LLM Wiki – example of an \"idea file\"",
-      "summary": "https://x.com/karpathy/status/2040470801506541998https://xcancel.com/karpathy/status/2040470801506541998 Comments URL: https://news.ycombinator.com/item?id=47640875 Points: 272 # Comments: 86",
+      "summary": "https://x.com/karpathy/status/2040470801506541998https://xcancel.com/karpathy/status/2040470801506541998 Comments URL: https://news.ycombinator.com/item?id=47640875 Points: 277 # Comments: 88",
       "source": "Hacker News",
       "published": "2026-04-04T16:57:45+00:00",
       "link": "https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f"
     },
     {
       "title": "12k AI-generated blog posts added in a single commit",
-      "summary": "Article URL: https://github.com/OneUptime/blog/commit/30cd2384794c897d95aca77d173db44af51ca849 Comments URL: https://news.ycombinator.com/item?id=47640722 Points: 148 # Comments: 146",
+      "summary": "Article URL: https://github.com/OneUptime/blog/commit/30cd2384794c897d95aca77d173db44af51ca849 Comments URL: https://news.ycombinator.com/item?id=47640722 Points: 149 # Comments: 146",
       "source": "Hacker News",
       "published": "2026-04-04T16:45:31+00:00",
       "link": "https://github.com/OneUptime/blog/commit/30cd2384794c897d95aca77d173db44af51ca849"
@@ -234,7 +269,7 @@ const FEED_DATA = {
     },
     {
       "title": "\"Cognitive surrender\" leads AI users to abandon logical thinking, research finds",
-      "summary": "Article URL: https://arstechnica.com/ai/2026/04/research-finds-ai-users-scarily-willing-to-surrender-their-cognition-to-llms/ Comments URL: https://news.ycombinator.com/item?id=47632504 Points: 96 # Comments: 40",
+      "summary": "Article URL: https://arstechnica.com/ai/2026/04/research-finds-ai-users-scarily-willing-to-surrender-their-cognition-to-llms/ Comments URL: https://news.ycombinator.com/item?id=47632504 Points: 96 # Comments: 42",
       "source": "Hacker News",
       "published": "2026-04-03T21:26:13+00:00",
       "link": "https://arstechnica.com/ai/2026/04/research-finds-ai-users-scarily-willing-to-surrender-their-cognition-to-llms/"
@@ -374,7 +409,7 @@ const FEED_DATA = {
     },
     {
       "title": "Show HN: Apfel – The free AI already on your Mac",
-      "summary": "Github: https://github.com/Arthur-Ficial/apfel Comments URL: https://news.ycombinator.com/item?id=47624645 Points: 723 # Comments: 149",
+      "summary": "Github: https://github.com/Arthur-Ficial/apfel Comments URL: https://news.ycombinator.com/item?id=47624645 Points: 729 # Comments: 150",
       "source": "Hacker News",
       "published": "2026-04-03T09:15:34+00:00",
       "link": "https://apfel.franzai.com"
@@ -416,7 +451,7 @@ const FEED_DATA = {
     },
     {
       "title": "We replaced RAG with a virtual filesystem for our AI documentation assistant",
-      "summary": "Article URL: https://www.mintlify.com/blog/how-we-built-a-virtual-filesystem-for-our-assistant Comments URL: https://news.ycombinator.com/item?id=47618223 Points: 399 # Comments: 148",
+      "summary": "Article URL: https://www.mintlify.com/blog/how-we-built-a-virtual-filesystem-for-our-assistant Comments URL: https://news.ycombinator.com/item?id=47618223 Points: 403 # Comments: 148",
       "source": "Hacker News",
       "published": "2026-04-02T18:24:29+00:00",
       "link": "https://www.mintlify.com/blog/how-we-built-a-virtual-filesystem-for-our-assistant"
@@ -570,7 +605,7 @@ const FEED_DATA = {
     },
     {
       "title": "Lemonade by AMD: a fast and open source local LLM server using GPU and NPU",
-      "summary": "Article URL: https://lemonade-server.ai Comments URL: https://news.ycombinator.com/item?id=47612724 Points: 568 # Comments: 113",
+      "summary": "Article URL: https://lemonade-server.ai Comments URL: https://news.ycombinator.com/item?id=47612724 Points: 569 # Comments: 113",
       "source": "Hacker News",
       "published": "2026-04-02T11:04:51+00:00",
       "link": "https://lemonade-server.ai"
@@ -605,7 +640,7 @@ const FEED_DATA = {
     },
     {
       "title": "r/programming bans all discussion of LLM programming",
-      "summary": "Article URL: https://old.reddit.com/r/programming/comments/1s9jkzi/announcement_temporary_llm_content_ban/ Comments URL: https://news.ycombinator.com/item?id=47610336 Points: 196 # Comments: 223",
+      "summary": "Article URL: https://old.reddit.com/r/programming/comments/1s9jkzi/announcement_temporary_llm_content_ban/ Comments URL: https://news.ycombinator.com/item?id=47610336 Points: 197 # Comments: 223",
       "source": "Hacker News",
       "published": "2026-04-02T05:33:20+00:00",
       "link": "https://old.reddit.com/r/programming/comments/1s9jkzi/announcement_temporary_llm_content_ban/"
@@ -1365,41 +1400,6 @@ const FEED_DATA = {
       "source": "Hacker News",
       "published": "2026-03-28T16:34:04+00:00",
       "link": "https://www.theguardian.com/technology/2026/mar/27/wikipedia-bans-ai"
-    },
-    {
-      "title": "Elon Musk’s last co-founder reportedly leaves xAI",
-      "summary": "All but two of Musk's 11 xAI co-founders departed before this week.",
-      "source": "TechCrunch",
-      "published": "2026-03-28T16:11:16+00:00",
-      "link": "https://techcrunch.com/2026/03/28/elon-musks-last-co-founder-reportedly-leaves-xai/"
-    },
-    {
-      "title": "Google's new Gemini API Agent Skill patches the knowledge gap AI models have with their own SDKs",
-      "summary": "AI models don't know about their own updates after training. Google's new \"Agent Skill\" shows how a simple fix can dramatically improve coding results.",
-      "source": "The Decoder",
-      "published": "2026-03-28T15:19:44+00:00",
-      "link": "https://the-decoder.com/googles-new-gemini-api-agent-skill-patches-the-knowledge-gap-ai-models-have-with-their-own-sdks/"
-    },
-    {
-      "title": "Folk are getting dangerously attached to AI that always tells them they're right",
-      "summary": "Article URL: https://www.theregister.com/2026/03/27/sycophantic_ai_risks/ Comments URL: https://news.ycombinator.com/item?id=47555090 Points: 287 # Comments: 224",
-      "source": "Hacker News",
-      "published": "2026-03-28T14:49:25+00:00",
-      "link": "https://www.theregister.com/2026/03/27/sycophantic_ai_risks/"
-    },
-    {
-      "title": "The risk of AI isn't making us lazy, but making \"lazy\" look productive",
-      "summary": "I've been reflecting on how LLMs are changing our learning habits as engineers, and realized something worrying.AI can now quickly help search and research information, distilling the core of a paper into a concise summary.",
-      "source": "Hacker News",
-      "published": "2026-03-28T14:48:14+00:00",
-      "link": "https://news.ycombinator.com/item?id=47555081"
-    },
-    {
-      "title": "Anthropic reportedly views itself as the antidote to OpenAI's \"tobacco industry\" approach to AI",
-      "summary": "Anthropic grew out of more than just concern for AI safety—it was born from a bitter power struggle and personal conflict at OpenAI.",
-      "source": "The Decoder",
-      "published": "2026-03-28T14:45:26+00:00",
-      "link": "https://the-decoder.com/anthropic-reportedly-views-itself-as-the-antidote-to-openais-tobacco-industry-approach-to-ai/"
     }
   ]
 };
