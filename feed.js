@@ -1,6 +1,27 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-04-06T08:57:45.729902+00:00",
+  "lastUpdated": "2026-04-06T11:38:04.485597+00:00",
   "items": [
+    {
+      "title": "AI is changing how small online sellers decide what to make",
+      "summary": "For years Mike McClary sold the Guardian LTE Flashlight, a heavy-duty black model, online through his small outdoor brand. The product, designed for brightness and durability, became one of his most popular items ever.",
+      "source": "MIT Tech Review",
+      "published": "2026-04-06T11:00:00+00:00",
+      "link": "https://www.technologyreview.com/2026/04/06/1135118/ai-online-seller-alibaba-accio/"
+    },
+    {
+      "title": "Sycophantic AI chatbots can break even ideal rational thinkers, researchers formally prove",
+      "summary": "A new study by researchers from MIT and the University of Washington shows that even perfectly rational users can be drawn into dangerous delusional spirals by flattering AI chatbots. Fact-checking bots and educated users don't fully solve the problem.",
+      "source": "The Decoder",
+      "published": "2026-04-06T10:39:17+00:00",
+      "link": "https://the-decoder.com/sycophantic-ai-chatbots-can-break-even-ideal-rational-thinkers-researchers-formally-prove/"
+    },
+    {
+      "title": "The Ridiculously Nerdy Intel Bet That Could Rake in Billions",
+      "summary": "Advanced chip packaging is suddenly at the center of the AI boom. Intel is going all in.",
+      "source": "Wired",
+      "published": "2026-04-06T09:00:00+00:00",
+      "link": "https://www.wired.com/story/why-chip-packaging-could-decide-the-next-phase-of-the-ai-boom/"
+    },
     {
       "title": "Telehealth startup Medvi generated billions in revenue with AI-powered fake advertising",
       "summary": "AI efficiency or AI fraud? How a two-person startup hit $1.8 billion in revenue with AI marketing and why the success story somewhat fell apart.",
@@ -45,14 +66,14 @@ const FEED_DATA = {
     },
     {
       "title": "UK intelligence censored report on global warming and homeland security",
-      "summary": "Article URL: https://theoryofchange1.substack.com/p/from-global-warming-to-homeland-security Comments URL: https://news.ycombinator.com/item?id=47653816 Points: 92 # Comments: 49",
+      "summary": "Article URL: https://theoryofchange1.substack.com/p/from-global-warming-to-homeland-security Comments URL: https://news.ycombinator.com/item?id=47653816 Points: 93 # Comments: 53",
       "source": "Hacker News",
       "published": "2026-04-05T20:59:52+00:00",
       "link": "https://theoryofchange1.substack.com/p/from-global-warming-to-homeland-security"
     },
     {
       "title": "Musician says AI company is cloning her music, filing claims against her",
-      "summary": "Article URL: https://twitter.com/unlimited_ls/status/2040577536136974444 Comments URL: https://news.ycombinator.com/item?id=47653471 Points: 108 # Comments: 18",
+      "summary": "Article URL: https://twitter.com/unlimited_ls/status/2040577536136974444 Comments URL: https://news.ycombinator.com/item?id=47653471 Points: 112 # Comments: 19",
       "source": "Hacker News",
       "published": "2026-04-05T20:19:11+00:00",
       "link": "https://twitter.com/unlimited_ls/status/2040577536136974444"
@@ -63,6 +84,13 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-04-05T18:51:37+00:00",
       "link": "https://techcrunch.com/2026/04/05/copilot-is-for-entertainment-purposes-only-according-to-microsofts-terms-of-service/"
+    },
+    {
+      "title": "Show HN: Real-time AI (audio/video in, voice out) on an M3 Pro with Gemma E2B",
+      "summary": "Related: https://news.ycombinator.com/item?id=47653752 Comments URL: https://news.ycombinator.com/item?id=47652007 Points: 108 # Comments: 8",
+      "source": "Hacker News",
+      "published": "2026-04-05T17:53:19+00:00",
+      "link": "https://github.com/fikrikarim/parlor"
     },
     {
       "title": "Suno is a music copyright nightmare",
@@ -94,7 +122,7 @@ const FEED_DATA = {
     },
     {
       "title": "Eight years of wanting, three months of building with AI",
-      "summary": "Article URL: https://lalitm.com/post/building-syntaqlite-ai/ Comments URL: https://news.ycombinator.com/item?id=47648828 Points: 747 # Comments: 224",
+      "summary": "Article URL: https://lalitm.com/post/building-syntaqlite-ai/ Comments URL: https://news.ycombinator.com/item?id=47648828 Points: 802 # Comments: 246",
       "source": "Hacker News",
       "published": "2026-04-05T12:43:47+00:00",
       "link": "https://lalitm.com/post/building-syntaqlite-ai/"
@@ -143,7 +171,7 @@ const FEED_DATA = {
     },
     {
       "title": "I used AI. It worked. I hated it",
-      "summary": "https://web.archive.org/web/20260403164006/https://taggart-t... Comments URL: https://news.ycombinator.com/item?id=47646277 Points: 53 # Comments: 118",
+      "summary": "https://web.archive.org/web/20260403164006/https://taggart-t... Comments URL: https://news.ycombinator.com/item?id=47646277 Points: 54 # Comments: 119",
       "source": "Hacker News",
       "published": "2026-04-05T05:08:39+00:00",
       "link": "https://taggart-tech.com/reckoning/"
@@ -157,7 +185,7 @@ const FEED_DATA = {
     },
     {
       "title": "Writing Lisp is AI resistant and I'm sad",
-      "summary": "Article URL: https://blog.djhaskin.com/blog/writing-lisp-is-ai-resistant-and-im-sad/ Comments URL: https://news.ycombinator.com/item?id=47645468 Points: 92 # Comments: 94",
+      "summary": "Article URL: https://blog.djhaskin.com/blog/writing-lisp-is-ai-resistant-and-im-sad/ Comments URL: https://news.ycombinator.com/item?id=47645468 Points: 92 # Comments: 95",
       "source": "Hacker News",
       "published": "2026-04-05T02:01:31+00:00",
       "link": "https://blog.djhaskin.com/blog/writing-lisp-is-ai-resistant-and-im-sad/"
@@ -171,14 +199,14 @@ const FEED_DATA = {
     },
     {
       "title": "LLM Wiki – example of an \"idea file\"",
-      "summary": "https://x.com/karpathy/status/2040470801506541998https://xcancel.com/karpathy/status/2040470801506541998 Comments URL: https://news.ycombinator.com/item?id=47640875 Points: 277 # Comments: 88",
+      "summary": "https://x.com/karpathy/status/2040470801506541998https://xcancel.com/karpathy/status/2040470801506541998 Comments URL: https://news.ycombinator.com/item?id=47640875 Points: 283 # Comments: 89",
       "source": "Hacker News",
       "published": "2026-04-04T16:57:45+00:00",
       "link": "https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f"
     },
     {
       "title": "12k AI-generated blog posts added in a single commit",
-      "summary": "Article URL: https://github.com/OneUptime/blog/commit/30cd2384794c897d95aca77d173db44af51ca849 Comments URL: https://news.ycombinator.com/item?id=47640722 Points: 149 # Comments: 146",
+      "summary": "Article URL: https://github.com/OneUptime/blog/commit/30cd2384794c897d95aca77d173db44af51ca849 Comments URL: https://news.ycombinator.com/item?id=47640722 Points: 154 # Comments: 146",
       "source": "Hacker News",
       "published": "2026-04-04T16:45:31+00:00",
       "link": "https://github.com/OneUptime/blog/commit/30cd2384794c897d95aca77d173db44af51ca849"
@@ -290,7 +318,7 @@ const FEED_DATA = {
     },
     {
       "title": "\"Cognitive surrender\" leads AI users to abandon logical thinking, research finds",
-      "summary": "Article URL: https://arstechnica.com/ai/2026/04/research-finds-ai-users-scarily-willing-to-surrender-their-cognition-to-llms/ Comments URL: https://news.ycombinator.com/item?id=47632504 Points: 96 # Comments: 42",
+      "summary": "Article URL: https://arstechnica.com/ai/2026/04/research-finds-ai-users-scarily-willing-to-surrender-their-cognition-to-llms/ Comments URL: https://news.ycombinator.com/item?id=47632504 Points: 98 # Comments: 42",
       "source": "Hacker News",
       "published": "2026-04-03T21:26:13+00:00",
       "link": "https://arstechnica.com/ai/2026/04/research-finds-ai-users-scarily-willing-to-surrender-their-cognition-to-llms/"
@@ -430,7 +458,7 @@ const FEED_DATA = {
     },
     {
       "title": "Show HN: Apfel – The free AI already on your Mac",
-      "summary": "Github: https://github.com/Arthur-Ficial/apfel Comments URL: https://news.ycombinator.com/item?id=47624645 Points: 729 # Comments: 150",
+      "summary": "Github: https://github.com/Arthur-Ficial/apfel Comments URL: https://news.ycombinator.com/item?id=47624645 Points: 729 # Comments: 151",
       "source": "Hacker News",
       "published": "2026-04-03T09:15:34+00:00",
       "link": "https://apfel.franzai.com"
@@ -472,7 +500,7 @@ const FEED_DATA = {
     },
     {
       "title": "We replaced RAG with a virtual filesystem for our AI documentation assistant",
-      "summary": "Article URL: https://www.mintlify.com/blog/how-we-built-a-virtual-filesystem-for-our-assistant Comments URL: https://news.ycombinator.com/item?id=47618223 Points: 403 # Comments: 148",
+      "summary": "Article URL: https://www.mintlify.com/blog/how-we-built-a-virtual-filesystem-for-our-assistant Comments URL: https://news.ycombinator.com/item?id=47618223 Points: 403 # Comments: 149",
       "source": "Hacker News",
       "published": "2026-04-02T18:24:29+00:00",
       "link": "https://www.mintlify.com/blog/how-we-built-a-virtual-filesystem-for-our-assistant"
@@ -661,7 +689,7 @@ const FEED_DATA = {
     },
     {
       "title": "r/programming bans all discussion of LLM programming",
-      "summary": "Article URL: https://old.reddit.com/r/programming/comments/1s9jkzi/announcement_temporary_llm_content_ban/ Comments URL: https://news.ycombinator.com/item?id=47610336 Points: 197 # Comments: 223",
+      "summary": "Article URL: https://old.reddit.com/r/programming/comments/1s9jkzi/announcement_temporary_llm_content_ban/ Comments URL: https://news.ycombinator.com/item?id=47610336 Points: 198 # Comments: 223",
       "source": "Hacker News",
       "published": "2026-04-02T05:33:20+00:00",
       "link": "https://old.reddit.com/r/programming/comments/1s9jkzi/announcement_temporary_llm_content_ban/"
@@ -1372,34 +1400,6 @@ const FEED_DATA = {
       "source": "Hacker News",
       "published": "2026-03-29T02:35:59+00:00",
       "link": "https://www.ft.com/content/805f78f3-8da3-4fc0-b860-207a859ac723"
-    },
-    {
-      "title": "Bluesky leans into AI with Attie, an app for building custom feeds",
-      "summary": "Bluesky’s new app Attie uses AI to help people build custom feeds the open social networking protocol atproto.",
-      "source": "TechCrunch",
-      "published": "2026-03-28T23:00:00+00:00",
-      "link": "https://techcrunch.com/2026/03/28/bluesky-leans-into-ai-with-attie-an-app-for-building-custom-feeds/"
-    },
-    {
-      "title": "From 300KB to 69KB per Token: How LLM Architectures Solve the KV Cache Problem",
-      "summary": "Article URL: https://news.future-shock.ai/the-weight-of-remembering/ Comments URL: https://news.ycombinator.com/item?id=47558733 Points: 156 # Comments: 11",
-      "source": "Hacker News",
-      "published": "2026-03-28T22:42:23+00:00",
-      "link": "https://news.future-shock.ai/the-weight-of-remembering/"
-    },
-    {
-      "title": "Stanford study outlines dangers of asking AI chatbots for personal advice",
-      "summary": "While there’s been plenty of debate about AI sycophancy, a new study by Stanford computer scientists attempts to measure how harmful that tendency might be.",
-      "source": "TechCrunch",
-      "published": "2026-03-28T20:45:54+00:00",
-      "link": "https://techcrunch.com/2026/03/28/stanford-study-outlines-dangers-of-asking-ai-chatbots-for-personal-advice/"
-    },
-    {
-      "title": "The first 40 months of the AI era",
-      "summary": "Article URL: https://lzon.ca/posts/other/thoughts-ai-era/ Comments URL: https://news.ycombinator.com/item?id=47557185 Points: 215 # Comments: 144",
-      "source": "Hacker News",
-      "published": "2026-03-28T18:42:08+00:00",
-      "link": "https://lzon.ca/posts/other/thoughts-ai-era/"
     }
   ]
 };
