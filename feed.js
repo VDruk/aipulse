@@ -1,6 +1,27 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-04-06T07:09:16.260901+00:00",
+  "lastUpdated": "2026-04-06T08:57:45.729902+00:00",
   "items": [
+    {
+      "title": "Telehealth startup Medvi generated billions in revenue with AI-powered fake advertising",
+      "summary": "AI efficiency or AI fraud? How a two-person startup hit $1.8 billion in revenue with AI marketing and why the success story somewhat fell apart.",
+      "source": "The Decoder",
+      "published": "2026-04-06T08:34:58+00:00",
+      "link": "https://the-decoder.com/telehealth-startup-medvi-generated-billions-in-revenue-with-ai-powered-fake-advertising/"
+    },
+    {
+      "title": "OpenAI reveals 600,000 weekly health queries from hospital deserts as seven in ten come after hours",
+      "summary": "ChatGPT gets millions of health queries per week in the US, especially from areas where doctors are hard to reach. The article OpenAI reveals 600,000 weekly health queries from hospital deserts as seven in ten come after hours appeared first on The Decoder.",
+      "source": "The Decoder",
+      "published": "2026-04-06T07:46:03+00:00",
+      "link": "https://the-decoder.com/openai-reveals-600000-weekly-health-queries-from-hospital-deserts-as-seven-in-ten-come-after-hours/"
+    },
+    {
+      "title": "Alibaba's Qwen team built HopChain to fix how AI vision models fall apart during multi-step reasoning",
+      "summary": "When AI models reason about images, small perceptual errors compound across multiple steps and produce wrong answers.",
+      "source": "The Decoder",
+      "published": "2026-04-06T07:33:51+00:00",
+      "link": "https://the-decoder.com/alibabas-qwen-team-built-hopchain-to-fix-how-ai-vision-models-fall-apart-during-multi-step-reasoning/"
+    },
     {
       "title": "Americans are using AI more than ever while trusting it less, new Quinnipiac poll finds",
       "summary": "A new Quinnipiac University poll reveals a growing paradox: AI adoption in the US is climbing fast, but skepticism is growing even faster. Gen Z, the generation most familiar with AI, has the bleakest outlook on the job market.",
@@ -1379,27 +1400,6 @@ const FEED_DATA = {
       "source": "Hacker News",
       "published": "2026-03-28T18:42:08+00:00",
       "link": "https://lzon.ca/posts/other/thoughts-ai-era/"
-    },
-    {
-      "title": "Further human + AI + proof assistant work on Knuth's \"Claude Cycles\" problem",
-      "summary": "Knuth Claude's Cycles note update: problem now fully solved, by LLMs - https://news.ycombinator.com/item?id=47306926 - March 2026 (2 comments)https://chatgpt.com/share/69aaab4b-888c-8003-9a02-d1df80f9c7...Claude's Cycles [pdf] - https://news.ycombinator.com/item?id=47230710 -...",
-      "source": "Hacker News",
-      "published": "2026-03-28T18:38:59+00:00",
-      "link": "https://twitter.com/BoWang87/status/2037648937453232504"
-    },
-    {
-      "title": "Suno leans into customization with v5.5",
-      "summary": "Suno just released one of its biggest updates yet with v5.5 of its AI music model. Where previous updates focused mostly on improving fidelity and creating more natural vocals, v5.5 is about giving users more control.",
-      "source": "The Verge",
-      "published": "2026-03-28T18:33:10+00:00",
-      "link": "https://www.theverge.com/entertainment/903056/suno-ai-music-v5-5-model"
-    },
-    {
-      "title": "Wikipedia bans AI-generated content in its online encyclopedia",
-      "summary": "Article URL: https://www.theguardian.com/technology/2026/mar/27/wikipedia-bans-ai Comments URL: https://news.ycombinator.com/item?id=47556116 Points: 103 # Comments: 19",
-      "source": "Hacker News",
-      "published": "2026-03-28T16:34:04+00:00",
-      "link": "https://www.theguardian.com/technology/2026/mar/27/wikipedia-bans-ai"
     }
   ]
 };
