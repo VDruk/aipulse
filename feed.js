@@ -1,6 +1,62 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-04-07T16:36:48.424842+00:00",
+  "lastUpdated": "2026-04-07T20:00:44.589540+00:00",
   "items": [
+    {
+      "title": "Google's AI Overviews are correct nine out of ten times, study finds",
+      "summary": "Google puts a disclaimer under every AI-generated search response: \"AI responses may include mistakes.\" But just how often those mistakes actually happen has remained largely unstudied.",
+      "source": "The Decoder",
+      "published": "2026-04-07T18:52:34+00:00",
+      "link": "https://the-decoder.com/googles-ai-overviews-are-correct-nine-out-of-ten-times-study-finds/"
+    },
+    {
+      "title": "Anthropic Teams Up With Its Rivals to Keep AI From Hacking Everything",
+      "summary": "The AI lab's Project Glasswing will bring together Apple, Google, and more than 45 other organizations. They'll use the new Claude Mythos Preview model to test advancing AI cybersecurity capabilities.",
+      "source": "Wired",
+      "published": "2026-04-07T18:49:50+00:00",
+      "link": "https://www.wired.com/story/anthropic-mythos-preview-project-glasswing/"
+    },
+    {
+      "title": "Firmus, the ‘Southgate’ AI data center builder backed by Nvidia, hits $5.5B valuation",
+      "summary": "Nvidia-backed Asia AI data center provider Firmus has now raised $1.35 billion in six months.",
+      "source": "TechCrunch",
+      "published": "2026-04-07T18:46:55+00:00",
+      "link": "https://techcrunch.com/2026/04/07/firmus-the-southgate-ai-datacenter-builder-backed-by-nvidia-hits-5-5b-valuation/"
+    },
+    {
+      "title": "Project Glasswing: Securing critical software for the AI era",
+      "summary": "Article URL: https://www.anthropic.com/glasswing Comments URL: https://news.ycombinator.com/item?id=47679121 Points: 334 # Comments: 133",
+      "source": "Hacker News",
+      "published": "2026-04-07T18:09:34+00:00",
+      "link": "https://www.anthropic.com/glasswing"
+    },
+    {
+      "title": "Anthropic debuts preview of powerful new AI model Mythos in new cybersecurity initiative",
+      "summary": "The new model will be used by a small number of high-profile companies to engage in defensive cybersecurity work.",
+      "source": "TechCrunch",
+      "published": "2026-04-07T18:00:00+00:00",
+      "link": "https://techcrunch.com/2026/04/07/anthropic-mythos-ai-model-preview-security/"
+    },
+    {
+      "title": "A new Anthropic model found security problems ‘in every major operating system and web browser’",
+      "summary": "Anthropic is debuting a new AI model as part of a cybersecurity partnership with Nvidia, Google, Amazon Web Services, Apple, Microsoft, and other companies.",
+      "source": "The Verge",
+      "published": "2026-04-07T18:00:00+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/908114/anthropic-project-glasswing-cybersecurity"
+    },
+    {
+      "title": "Uber is the latest to be won over by Amazon’s AI chips",
+      "summary": "Uber is expanding its AWS contract to run more of its ride-sharing features on Amazon's chips. This is a thumb-of-the nose at Oracle and Google.",
+      "source": "TechCrunch",
+      "published": "2026-04-07T16:46:59+00:00",
+      "link": "https://techcrunch.com/2026/04/07/uber-is-the-latest-to-be-won-over-by-amazons-ai-chips/"
+    },
+    {
+      "title": "Microsoft's Bing team open-sources \"Harrier\" embedding model",
+      "summary": "Microsoft's Bing team open-sources Harrier, an embedding model that tops the multilingual MTEB v2 benchmark and supports more than 100 languages. The article Microsoft's Bing team open-sources \"Harrier\" embedding model appeared first on The Decoder.",
+      "source": "The Decoder",
+      "published": "2026-04-07T16:38:23+00:00",
+      "link": "https://the-decoder.com/microsofts-bing-team-open-sources-harrier-embedding-model/"
+    },
     {
       "title": "Suno and major music labels reportedly clash over AI music sharing",
       "summary": "The AI-powered musicmaker Suno is struggling to reach licensing deals with Universal Music Group and Sony Music Entertainment.",
@@ -24,7 +80,7 @@ const FEED_DATA = {
     },
     {
       "title": "Google Maps can now write captions for your photos using AI",
-      "summary": "Gemini can now create captions when users are looking to share a photo or video.",
+      "summary": "Google is rolling out new features to make it easier for users to contribute local knowledge to Maps. Most notably, Gemini can now create captions when users are looking to share a photo or video about a place.",
       "source": "TechCrunch",
       "published": "2026-04-07T15:30:00+00:00",
       "link": "https://techcrunch.com/2026/04/07/google-maps-can-now-write-captions-for-your-photos-using-ai/"
@@ -101,7 +157,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI may be making us think and write more alike",
-      "summary": "Article URL: https://dornsife.usc.edu/news/stories/ai-may-be-making-us-think-and-write-more-alike/ Comments URL: https://news.ycombinator.com/item?id=47673541 Points: 175 # Comments: 170",
+      "summary": "Article URL: https://dornsife.usc.edu/news/stories/ai-may-be-making-us-think-and-write-more-alike/ Comments URL: https://news.ycombinator.com/item?id=47673541 Points: 201 # Comments: 212",
       "source": "Hacker News",
       "published": "2026-04-07T11:29:02+00:00",
       "link": "https://dornsife.usc.edu/news/stories/ai-may-be-making-us-think-and-write-more-alike/"
@@ -143,14 +199,14 @@ const FEED_DATA = {
     },
     {
       "title": "The back story behind the first \"$1.8B\" dollar \"AI Company\"",
-      "summary": "Article URL: https://garymarcus.substack.com/p/the-back-story-behind-the-first-18 Comments URL: https://news.ycombinator.com/item?id=47668658 Points: 60 # Comments: 9",
+      "summary": "Article URL: https://garymarcus.substack.com/p/the-back-story-behind-the-first-18 Comments URL: https://news.ycombinator.com/item?id=47668658 Points: 65 # Comments: 9",
       "source": "Hacker News",
       "published": "2026-04-06T23:16:27+00:00",
       "link": "https://garymarcus.substack.com/p/the-back-story-behind-the-first-18"
     },
     {
       "title": "Bernie Sanders: \"AI Is a Threat to Everything the American People Hold Dear\"",
-      "summary": "Article URL: https://www.wsj.com/opinion/ai-is-a-threat-to-everything-the-american-people-hold-dear-a3286459 Comments URL: https://news.ycombinator.com/item?id=47667798 Points: 70 # Comments: 58",
+      "summary": "Article URL: https://www.wsj.com/opinion/ai-is-a-threat-to-everything-the-american-people-hold-dear-a3286459 Comments URL: https://news.ycombinator.com/item?id=47667798 Points: 74 # Comments: 63",
       "source": "Hacker News",
       "published": "2026-04-06T21:57:54+00:00",
       "link": "https://www.wsj.com/opinion/ai-is-a-threat-to-everything-the-american-people-hold-dear-a3286459"
@@ -164,14 +220,14 @@ const FEED_DATA = {
     },
     {
       "title": "Show HN: Hippo, biologically inspired memory for AI agents",
-      "summary": "Article URL: https://github.com/kitfunso/hippo-memory Comments URL: https://news.ycombinator.com/item?id=47667672 Points: 115 # Comments: 25",
+      "summary": "Article URL: https://github.com/kitfunso/hippo-memory Comments URL: https://news.ycombinator.com/item?id=47667672 Points: 116 # Comments: 22",
       "source": "Hacker News",
       "published": "2026-04-06T21:49:34+00:00",
       "link": "https://github.com/kitfunso/hippo-memory"
     },
     {
       "title": "Wikipedia's AI agent row likely just the beginning of the bot-ocalypse",
-      "summary": "Article URL: https://www.malwarebytes.com/blog/ai/2026/04/wikipedias-ai-agent-row-likely-just-the-beginning-of-the-bot-ocalypse Comments URL: https://news.ycombinator.com/item?id=47665902 Points: 59 # Comments: 69",
+      "summary": "Article URL: https://www.malwarebytes.com/blog/ai/2026/04/wikipedias-ai-agent-row-likely-just-the-beginning-of-the-bot-ocalypse Comments URL: https://news.ycombinator.com/item?id=47665902 Points: 62 # Comments: 85",
       "source": "Hacker News",
       "published": "2026-04-06T19:41:39+00:00",
       "link": "https://www.malwarebytes.com/blog/ai/2026/04/wikipedias-ai-agent-row-likely-just-the-beginning-of-the-bot-ocalypse"
@@ -182,6 +238,13 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-04-06T18:54:33+00:00",
       "link": "https://techcrunch.com/2026/04/06/google-quietly-releases-an-offline-first-ai-dictation-app-on-ios/"
+    },
+    {
+      "title": "AI helps add 10k more photos to OldNYC",
+      "summary": "Article URL: https://www.danvk.org/2026/03/08/oldnyc-updates.html Comments URL: https://news.ycombinator.com/item?id=47664836 Points: 69 # Comments: 19",
+      "source": "Hacker News",
+      "published": "2026-04-06T18:24:32+00:00",
+      "link": "https://www.danvk.org/2026/03/08/oldnyc-updates.html"
     },
     {
       "title": "Iran threatens ‘Stargate’ AI data centers",
@@ -199,7 +262,7 @@ const FEED_DATA = {
     },
     {
       "title": "Intelligent people are better judges of the intelligence of others",
-      "summary": "https://www.sciencedirect.com/science/article/pii/S016028962... Comments URL: https://news.ycombinator.com/item?id=47664389 Points: 113 # Comments: 128",
+      "summary": "https://www.sciencedirect.com/science/article/pii/S016028962... Comments URL: https://news.ycombinator.com/item?id=47664389 Points: 117 # Comments: 131",
       "source": "Hacker News",
       "published": "2026-04-06T17:52:46+00:00",
       "link": "https://www.psypost.org/intelligent-people-are-better-judges-of-the-intelligence-of-others/"
@@ -227,7 +290,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI singer now occupies eleven spots on iTunes singles chart",
-      "summary": "Article URL: https://www.showbiz411.com/2026/04/05/itunes-takeover-by-fake-ai-singer-eddie-dalton-now-occupies-eleven-spots-on-chart-despite-not-being-human-or-real-exclusive Comments URL: https://news.ycombinator.com/item?id=47662596 Points: 230 # Comments: 355",
+      "summary": "Article URL: https://www.showbiz411.com/2026/04/05/itunes-takeover-by-fake-ai-singer-eddie-dalton-now-occupies-eleven-spots-on-chart-despite-not-being-human-or-real-exclusive Comments URL: https://news.ycombinator.com/item?id=47662596 Points: 233 # Comments: 366",
       "source": "Hacker News",
       "published": "2026-04-06T15:57:07+00:00",
       "link": "https://www.showbiz411.com/2026/04/05/itunes-takeover-by-fake-ai-singer-eddie-dalton-now-occupies-eleven-spots-on-chart-despite-not-being-human-or-real-exclusive"
@@ -269,7 +332,7 @@ const FEED_DATA = {
     },
     {
       "title": "The Intelligence Failure in Iran",
-      "summary": "Article URL: https://www.theatlantic.com/national-security/2026/04/iran-war-intelligence-failure-trump/686694/ Comments URL: https://news.ycombinator.com/item?id=47659461 Points: 67 # Comments: 86",
+      "summary": "Article URL: https://www.theatlantic.com/national-security/2026/04/iran-war-intelligence-failure-trump/686694/ Comments URL: https://news.ycombinator.com/item?id=47659461 Points: 68 # Comments: 86",
       "source": "Hacker News",
       "published": "2026-04-06T11:21:35+00:00",
       "link": "https://www.theatlantic.com/national-security/2026/04/iran-war-intelligence-failure-trump/686694/"
@@ -360,7 +423,7 @@ const FEED_DATA = {
     },
     {
       "title": "Musician says AI company is cloning her music, filing claims against her",
-      "summary": "Article URL: https://twitter.com/unlimited_ls/status/2040577536136974444 Comments URL: https://news.ycombinator.com/item?id=47653471 Points: 121 # Comments: 19",
+      "summary": "Article URL: https://twitter.com/unlimited_ls/status/2040577536136974444 Comments URL: https://news.ycombinator.com/item?id=47653471 Points: 122 # Comments: 19",
       "source": "Hacker News",
       "published": "2026-04-05T20:19:11+00:00",
       "link": "https://twitter.com/unlimited_ls/status/2040577536136974444"
@@ -374,7 +437,7 @@ const FEED_DATA = {
     },
     {
       "title": "Show HN: Real-time AI (audio/video in, voice out) on an M3 Pro with Gemma E2B",
-      "summary": "Related: https://news.ycombinator.com/item?id=47653752 Comments URL: https://news.ycombinator.com/item?id=47652007 Points: 280 # Comments: 35",
+      "summary": "Related: https://news.ycombinator.com/item?id=47653752 Comments URL: https://news.ycombinator.com/item?id=47652007 Points: 282 # Comments: 35",
       "source": "Hacker News",
       "published": "2026-04-05T17:53:19+00:00",
       "link": "https://github.com/fikrikarim/parlor"
@@ -409,7 +472,7 @@ const FEED_DATA = {
     },
     {
       "title": "Eight years of wanting, three months of building with AI",
-      "summary": "Article URL: https://lalitm.com/post/building-syntaqlite-ai/ Comments URL: https://news.ycombinator.com/item?id=47648828 Points: 938 # Comments: 297",
+      "summary": "Article URL: https://lalitm.com/post/building-syntaqlite-ai/ Comments URL: https://news.ycombinator.com/item?id=47648828 Points: 941 # Comments: 299",
       "source": "Hacker News",
       "published": "2026-04-05T12:43:47+00:00",
       "link": "https://lalitm.com/post/building-syntaqlite-ai/"
@@ -1337,69 +1400,6 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-03-31T11:42:24+00:00",
       "link": "https://the-decoder.com/nebius-plans-10-billion-ai-data-center-in-finland-near-russian-border/"
-    },
-    {
-      "title": "California sets its own AI rules for state contractors, pushing back against federal policy",
-      "summary": "California Governor Gavin Newsom signed an executive order on Monday requiring companies with state contracts to implement safeguards against AI misuse.",
-      "source": "The Decoder",
-      "published": "2026-03-31T11:21:04+00:00",
-      "link": "https://the-decoder.com/california-sets-its-own-ai-rules-for-state-contractors-pushing-back-against-federal-policy/"
-    },
-    {
-      "title": "OpenAI launches a Codex plugin that runs inside Anthropic's Claude Code",
-      "summary": "OpenAI released a plugin that embeds its AI coding assistant Codex directly into Anthropic's Claude Code. The article OpenAI launches a Codex plugin that runs inside Anthropic's Claude Code appeared first on The Decoder.",
-      "source": "The Decoder",
-      "published": "2026-03-31T11:18:19+00:00",
-      "link": "https://the-decoder.com/openai-launches-a-codex-plugin-that-runs-inside-anthropics-claude-code/"
-    },
-    {
-      "title": "15% of Americans say they’d be willing to work for an AI boss, according to new poll",
-      "summary": "According to a Quinnipiac University poll, 15% of Americans say they'd be willing to have a job where their direct supervisor was an AI program that assigned tasks and set schedules.",
-      "source": "TechCrunch",
-      "published": "2026-03-30T23:41:48+00:00",
-      "link": "https://techcrunch.com/2026/03/30/ai-work-boss-supervisor-us-quinnipiac-poll/"
-    },
-    {
-      "title": "Show HN: I turned a sketch into a 3D-print pegboard for my kid with an AI agent",
-      "summary": "We have pegboards and plywood all over our apartment, and I had an idea to make a tiny pegboard for my kid, Oli.",
-      "source": "Hacker News",
-      "published": "2026-03-30T23:20:02+00:00",
-      "link": "https://github.com/virpo/pegboard"
-    },
-    {
-      "title": "Popular AI gateway startup LiteLLM ditches controversial startup Delve",
-      "summary": "LiteLLM had obtained two security compliance certifications via Delve and fell victim to some horrific credential-stealing malware last week.",
-      "source": "TechCrunch",
-      "published": "2026-03-30T23:08:12+00:00",
-      "link": "https://techcrunch.com/2026/03/30/popular-ai-gateway-startup-litellm-ditches-controversial-startup-delve/"
-    },
-    {
-      "title": "15% of Americans say they’d be willing to work for an AI boss",
-      "summary": "Your human manager may soon be a chatbot. Across organizations, AI is being used to replace layers of management in what some are calling \"The Great Flattening.\"",
-      "source": "TechCrunch",
-      "published": "2026-03-30T21:39:51+00:00",
-      "link": "https://techcrunch.com/2026/03/30/ai-boss-supervisor-us-quinnipiac-poll/"
-    },
-    {
-      "title": "As more Americans adopt AI tools, fewer say they can trust the results",
-      "summary": "AI adoption is rising in the U.S., but trust remains low, with most Americans concerned about transparency, regulation, and the technology’s broader societal impact, according to a new Quinnipiac poll.",
-      "source": "TechCrunch",
-      "published": "2026-03-30T20:24:53+00:00",
-      "link": "https://techcrunch.com/2026/03/30/ai-trust-adoption-poll-more-americans-adopt-tools-fewer-say-they-can-trust-the-results/"
-    },
-    {
-      "title": "Insiders liken AI to \"the Ozempic of the music industry\" as hitmakers reportedly hide their generator use",
-      "summary": "The use of AI generators in professional music production is growing fast, but the industry would rather not talk about it.",
-      "source": "The Decoder",
-      "published": "2026-03-30T19:14:03+00:00",
-      "link": "https://the-decoder.com/insiders-liken-ai-to-the-ozempic-of-the-music-industry-as-hitmakers-reportedly-hide-their-generator-use/"
-    },
-    {
-      "title": "Microsoft rolls out Copilot Cowork more broadly and lets AI models check each other's work",
-      "summary": "With \"Cowork,\" Microsoft 365 Copilot is getting an AI assistant that handles entire workflows on its own. A new research tool also lets multiple AI models check each other's work.",
-      "source": "The Decoder",
-      "published": "2026-03-30T16:07:14+00:00",
-      "link": "https://the-decoder.com/microsoft-rolls-out-copilot-cowork-more-broadly-and-lets-ai-models-check-each-others-work/"
     }
   ]
 };
