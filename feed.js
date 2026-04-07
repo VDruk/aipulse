@@ -1,6 +1,20 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-04-07T20:00:44.589540+00:00",
+  "lastUpdated": "2026-04-07T23:05:54.142121+00:00",
   "items": [
+    {
+      "title": "I can’t help rooting for tiny open source AI model maker Arcee",
+      "summary": "Arcee is a tiny 26-person U.S. startup that built a high-performing, massive, open source LLM.",
+      "source": "TechCrunch",
+      "published": "2026-04-07T21:35:02+00:00",
+      "link": "https://techcrunch.com/2026/04/07/i-cant-help-rooting-for-tiny-open-source-ai-model-maker-arcee/"
+    },
+    {
+      "title": "Spotify’s Prompted Playlists can help you find new podcasts to listen to",
+      "summary": "On Tuesday, Spotify expanded its Prompted Playlists feature to include podcasts, an update that could make it easier for Premium users to find new shows to listen to. Prompted Playlists were originally launched as a beta feature in December, but previously only worked for music.",
+      "source": "The Verge",
+      "published": "2026-04-07T20:13:23+00:00",
+      "link": "https://www.theverge.com/entertainment/908339/spotify-prompted-playlists-podcasts"
+    },
     {
       "title": "Google's AI Overviews are correct nine out of ten times, study finds",
       "summary": "Google puts a disclaimer under every AI-generated search response: \"AI responses may include mistakes.\" But just how often those mistakes actually happen has remained largely unstudied.",
@@ -24,7 +38,7 @@ const FEED_DATA = {
     },
     {
       "title": "Project Glasswing: Securing critical software for the AI era",
-      "summary": "Article URL: https://www.anthropic.com/glasswing Comments URL: https://news.ycombinator.com/item?id=47679121 Points: 334 # Comments: 133",
+      "summary": "Related: Assessing Claude Mythos Preview's cybersecurity capabilities - https://news.ycombinator.com/item?id=47679155System Card: Claude Mythos Preview [pdf] - https://news.ycombinator.com/item?id=47679258Also: Anthropic's Project Glasswing sounds necessary to me -...",
       "source": "Hacker News",
       "published": "2026-04-07T18:09:34+00:00",
       "link": "https://www.anthropic.com/glasswing"
@@ -70,6 +84,13 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-04-07T16:05:56+00:00",
       "link": "https://techcrunch.com/2026/04/07/anthropic-compute-deal-google-broadcom-tpus/"
+    },
+    {
+      "title": "Taste in the age of AI and LLMs",
+      "summary": "Article URL: https://rajnandan.com/posts/taste-in-the-age-of-ai-and-llms/ Comments URL: https://news.ycombinator.com/item?id=47677241 Points: 207 # Comments: 177",
+      "source": "Hacker News",
+      "published": "2026-04-07T15:54:16+00:00",
+      "link": "https://rajnandan.com/posts/taste-in-the-age-of-ai-and-llms/"
     },
     {
       "title": "Intel will help build Elon Musk’s Terafab AI chip factory",
@@ -157,7 +178,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI may be making us think and write more alike",
-      "summary": "Article URL: https://dornsife.usc.edu/news/stories/ai-may-be-making-us-think-and-write-more-alike/ Comments URL: https://news.ycombinator.com/item?id=47673541 Points: 201 # Comments: 212",
+      "summary": "Article URL: https://dornsife.usc.edu/news/stories/ai-may-be-making-us-think-and-write-more-alike/ Comments URL: https://news.ycombinator.com/item?id=47673541 Points: 209 # Comments: 220",
       "source": "Hacker News",
       "published": "2026-04-07T11:29:02+00:00",
       "link": "https://dornsife.usc.edu/news/stories/ai-may-be-making-us-think-and-write-more-alike/"
@@ -206,7 +227,7 @@ const FEED_DATA = {
     },
     {
       "title": "Bernie Sanders: \"AI Is a Threat to Everything the American People Hold Dear\"",
-      "summary": "Article URL: https://www.wsj.com/opinion/ai-is-a-threat-to-everything-the-american-people-hold-dear-a3286459 Comments URL: https://news.ycombinator.com/item?id=47667798 Points: 74 # Comments: 63",
+      "summary": "Article URL: https://www.wsj.com/opinion/ai-is-a-threat-to-everything-the-american-people-hold-dear-a3286459 Comments URL: https://news.ycombinator.com/item?id=47667798 Points: 75 # Comments: 63",
       "source": "Hacker News",
       "published": "2026-04-06T21:57:54+00:00",
       "link": "https://www.wsj.com/opinion/ai-is-a-threat-to-everything-the-american-people-hold-dear-a3286459"
@@ -220,14 +241,14 @@ const FEED_DATA = {
     },
     {
       "title": "Show HN: Hippo, biologically inspired memory for AI agents",
-      "summary": "Article URL: https://github.com/kitfunso/hippo-memory Comments URL: https://news.ycombinator.com/item?id=47667672 Points: 116 # Comments: 22",
+      "summary": "Article URL: https://github.com/kitfunso/hippo-memory Comments URL: https://news.ycombinator.com/item?id=47667672 Points: 119 # Comments: 23",
       "source": "Hacker News",
       "published": "2026-04-06T21:49:34+00:00",
       "link": "https://github.com/kitfunso/hippo-memory"
     },
     {
       "title": "Wikipedia's AI agent row likely just the beginning of the bot-ocalypse",
-      "summary": "Article URL: https://www.malwarebytes.com/blog/ai/2026/04/wikipedias-ai-agent-row-likely-just-the-beginning-of-the-bot-ocalypse Comments URL: https://news.ycombinator.com/item?id=47665902 Points: 62 # Comments: 85",
+      "summary": "Article URL: https://www.malwarebytes.com/blog/ai/2026/04/wikipedias-ai-agent-row-likely-just-the-beginning-of-the-bot-ocalypse Comments URL: https://news.ycombinator.com/item?id=47665902 Points: 65 # Comments: 86",
       "source": "Hacker News",
       "published": "2026-04-06T19:41:39+00:00",
       "link": "https://www.malwarebytes.com/blog/ai/2026/04/wikipedias-ai-agent-row-likely-just-the-beginning-of-the-bot-ocalypse"
@@ -241,7 +262,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI helps add 10k more photos to OldNYC",
-      "summary": "Article URL: https://www.danvk.org/2026/03/08/oldnyc-updates.html Comments URL: https://news.ycombinator.com/item?id=47664836 Points: 69 # Comments: 19",
+      "summary": "Article URL: https://www.danvk.org/2026/03/08/oldnyc-updates.html Comments URL: https://news.ycombinator.com/item?id=47664836 Points: 106 # Comments: 36",
       "source": "Hacker News",
       "published": "2026-04-06T18:24:32+00:00",
       "link": "https://www.danvk.org/2026/03/08/oldnyc-updates.html"
@@ -262,7 +283,7 @@ const FEED_DATA = {
     },
     {
       "title": "Intelligent people are better judges of the intelligence of others",
-      "summary": "https://www.sciencedirect.com/science/article/pii/S016028962... Comments URL: https://news.ycombinator.com/item?id=47664389 Points: 117 # Comments: 131",
+      "summary": "https://www.sciencedirect.com/science/article/pii/S016028962... Comments URL: https://news.ycombinator.com/item?id=47664389 Points: 118 # Comments: 131",
       "source": "Hacker News",
       "published": "2026-04-06T17:52:46+00:00",
       "link": "https://www.psypost.org/intelligent-people-are-better-judges-of-the-intelligence-of-others/"
@@ -290,7 +311,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI singer now occupies eleven spots on iTunes singles chart",
-      "summary": "Article URL: https://www.showbiz411.com/2026/04/05/itunes-takeover-by-fake-ai-singer-eddie-dalton-now-occupies-eleven-spots-on-chart-despite-not-being-human-or-real-exclusive Comments URL: https://news.ycombinator.com/item?id=47662596 Points: 233 # Comments: 366",
+      "summary": "Article URL: https://www.showbiz411.com/2026/04/05/itunes-takeover-by-fake-ai-singer-eddie-dalton-now-occupies-eleven-spots-on-chart-despite-not-being-human-or-real-exclusive Comments URL: https://news.ycombinator.com/item?id=47662596 Points: 237 # Comments: 369",
       "source": "Hacker News",
       "published": "2026-04-06T15:57:07+00:00",
       "link": "https://www.showbiz411.com/2026/04/05/itunes-takeover-by-fake-ai-singer-eddie-dalton-now-occupies-eleven-spots-on-chart-despite-not-being-human-or-real-exclusive"
@@ -311,7 +332,7 @@ const FEED_DATA = {
     },
     {
       "title": "When Virality Is the Message: The New Age of AI Propaganda",
-      "summary": "Article URL: https://time.com/article/2026/04/02/when-virality-is-the-message-the-new-age-of-ai-propaganda/ Comments URL: https://news.ycombinator.com/item?id=47661231 Points: 61 # Comments: 89",
+      "summary": "Article URL: https://time.com/article/2026/04/02/when-virality-is-the-message-the-new-age-of-ai-propaganda/ Comments URL: https://news.ycombinator.com/item?id=47661231 Points: 62 # Comments: 90",
       "source": "Hacker News",
       "published": "2026-04-06T14:16:35+00:00",
       "link": "https://time.com/article/2026/04/02/when-virality-is-the-message-the-new-age-of-ai-propaganda/"
@@ -423,7 +444,7 @@ const FEED_DATA = {
     },
     {
       "title": "Musician says AI company is cloning her music, filing claims against her",
-      "summary": "Article URL: https://twitter.com/unlimited_ls/status/2040577536136974444 Comments URL: https://news.ycombinator.com/item?id=47653471 Points: 122 # Comments: 19",
+      "summary": "Article URL: https://twitter.com/unlimited_ls/status/2040577536136974444 Comments URL: https://news.ycombinator.com/item?id=47653471 Points: 123 # Comments: 19",
       "source": "Hacker News",
       "published": "2026-04-05T20:19:11+00:00",
       "link": "https://twitter.com/unlimited_ls/status/2040577536136974444"
@@ -437,7 +458,7 @@ const FEED_DATA = {
     },
     {
       "title": "Show HN: Real-time AI (audio/video in, voice out) on an M3 Pro with Gemma E2B",
-      "summary": "Related: https://news.ycombinator.com/item?id=47653752 Comments URL: https://news.ycombinator.com/item?id=47652007 Points: 282 # Comments: 35",
+      "summary": "Related: https://news.ycombinator.com/item?id=47653752 Comments URL: https://news.ycombinator.com/item?id=47652007 Points: 284 # Comments: 35",
       "source": "Hacker News",
       "published": "2026-04-05T17:53:19+00:00",
       "link": "https://github.com/fikrikarim/parlor"
@@ -457,13 +478,6 @@ const FEED_DATA = {
       "link": "https://the-decoder.com/the-new-york-times-drops-freelancer-whose-ai-tool-copied-from-an-existing-book-review/"
     },
     {
-      "title": "In Japan, the robot isn’t coming for your job; it’s filling the one nobody wants",
-      "summary": "Driven by labor shortages, Japan is pushing physical AI from pilot projects into real-world deployment.",
-      "source": "TechCrunch",
-      "published": "2026-04-05T14:00:00+00:00",
-      "link": "https://techcrunch.com/2026/04/05/japan-is-proving-experimental-physical-ai-is-ready-for-the-real-world/"
-    },
-    {
       "title": "I let Gemini in Google Maps plan my day and it went surprisingly well",
       "summary": "You may be familiar with Gemini as the thing that's in every Google service you use - whether you want it or not. While it's been a constant, sometimes unwelcome presence in Gmail for at least the past year, it's a relatively new addition to Maps.",
       "source": "The Verge",
@@ -471,8 +485,15 @@ const FEED_DATA = {
       "link": "https://www.theverge.com/tech/907015/gemini-google-maps-hands-on"
     },
     {
+      "title": "In Japan, the robot isn’t coming for your job; it’s filling the one nobody wants",
+      "summary": "Driven by labor shortages, Japan is pushing physical AI from pilot projects into real-world deployment.",
+      "source": "TechCrunch",
+      "published": "2026-04-05T14:00:00+00:00",
+      "link": "https://techcrunch.com/2026/04/05/japan-is-proving-experimental-physical-ai-is-ready-for-the-real-world/"
+    },
+    {
       "title": "Eight years of wanting, three months of building with AI",
-      "summary": "Article URL: https://lalitm.com/post/building-syntaqlite-ai/ Comments URL: https://news.ycombinator.com/item?id=47648828 Points: 941 # Comments: 299",
+      "summary": "Article URL: https://lalitm.com/post/building-syntaqlite-ai/ Comments URL: https://news.ycombinator.com/item?id=47648828 Points: 942 # Comments: 299",
       "source": "Hacker News",
       "published": "2026-04-05T12:43:47+00:00",
       "link": "https://lalitm.com/post/building-syntaqlite-ai/"
@@ -1379,27 +1400,6 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-03-31T12:23:53+00:00",
       "link": "https://the-decoder.com/qwen3-5-omni-learned-to-write-code-from-spoken-instructions-and-video-without-anyone-training-it-to/"
-    },
-    {
-      "title": "The Download: AI health tools and the Pentagon’s Anthropic culture war",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. There are more AI health tools than ever—but how well do they work?",
-      "source": "MIT Tech Review",
-      "published": "2026-03-31T12:10:00+00:00",
-      "link": "https://www.technologyreview.com/2026/03/31/1134934/the-download-testing-ai-health-tools-pentagon-anthropic-culture-war-backfires/"
-    },
-    {
-      "title": "AI benchmarks are broken. Here’s what we need instead.",
-      "summary": "For decades, artificial intelligence has been evaluated through the question of whether machines outperform humans.",
-      "source": "MIT Tech Review",
-      "published": "2026-03-31T12:01:08+00:00",
-      "link": "https://www.technologyreview.com/2026/03/31/1134833/ai-benchmarks-are-broken-heres-what-we-need-instead/"
-    },
-    {
-      "title": "Nebius plans $10 billion AI data center in Finland near Russian border",
-      "summary": "AI infrastructure company Nebius Group is building a 310-megawatt data center in Lappeenranta, Finland, close to the Russian border. The article Nebius plans $10 billion AI data center in Finland near Russian border appeared first on The Decoder.",
-      "source": "The Decoder",
-      "published": "2026-03-31T11:42:24+00:00",
-      "link": "https://the-decoder.com/nebius-plans-10-billion-ai-data-center-in-finland-near-russian-border/"
     }
   ]
 };
