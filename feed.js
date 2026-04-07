@@ -1,6 +1,69 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-04-07T08:45:38.789867+00:00",
+  "lastUpdated": "2026-04-07T12:00:22.231440+00:00",
   "items": [
+    {
+      "title": "Boomi calls it “data activation” and says it’s the missing step in every AI deployment",
+      "summary": "The failure mode for enterprise AI in 2026 is not what most people expected. It is not that the models are wrong, or that agents cannot reason, or that the technology is overhyped.",
+      "source": "AI News",
+      "published": "2026-04-07T12:00:00+00:00",
+      "link": "https://www.artificialintelligence-news.com/news/boomi-agentic-ai-data-activation-missing-step/"
+    },
+    {
+      "title": "China actively targeting Taiwan's chip talent and technology, security report says",
+      "summary": "China is actively trying to poach Taiwan's semiconductor expertise and talent to circumvent international technology restrictions, according to a report from Taiwan's National Security Bureau cited by Reuters.",
+      "source": "The Decoder",
+      "published": "2026-04-07T11:56:37+00:00",
+      "link": "https://the-decoder.com/china-actively-targeting-taiwans-chip-talent-and-technology-security-report-says/"
+    },
+    {
+      "title": "Bezos' Project Prometheus hires xAI co-founder from OpenAI",
+      "summary": "Jeff Bezos' startup Project Prometheus has hired Kyle Kosic, a co-founder of Elon Musk's xAI who most recently worked at OpenAI, the Financial Times reports. The article Bezos' Project Prometheus hires xAI co-founder from OpenAI appeared first on The Decoder.",
+      "source": "The Decoder",
+      "published": "2026-04-07T11:46:15+00:00",
+      "link": "https://the-decoder.com/bezos-project-prometheus-hires-xai-co-founder-from-openai/"
+    },
+    {
+      "title": "OpenAI, Anthropic, and Google team up against unauthorized Chinese model copying",
+      "summary": "OpenAI, Anthropic, and Google have started working together to combat the unauthorized copying of their AI models by Chinese competitors, according to Bloomberg.",
+      "source": "The Decoder",
+      "published": "2026-04-07T11:43:19+00:00",
+      "link": "https://the-decoder.com/openai-anthropic-and-google-team-up-against-unauthorized-chinese-model-copying/"
+    },
+    {
+      "title": "Meta plans to open-source parts of its new AI models",
+      "summary": "Meta is planning to release versions of its new AI models as open source, according to Axios. The article Meta plans to open-source parts of its new AI models appeared first on The Decoder.",
+      "source": "The Decoder",
+      "published": "2026-04-07T11:39:49+00:00",
+      "link": "https://the-decoder.com/meta-plans-to-open-source-parts-of-its-new-ai-models/"
+    },
+    {
+      "title": "Meta employees compete for token consumption on an internal AI leaderboard",
+      "summary": "At Meta, employees compete for titles like \"Token Legend,\" \"Model Connoisseur,\" and \"Cache Wizard\" on an internal leaderboard that ranks AI token consumption. But burning through more tokens doesn't automatically mean getting more done.",
+      "source": "The Decoder",
+      "published": "2026-04-07T10:53:09+00:00",
+      "link": "https://the-decoder.com/meta-employees-compete-for-token-consumption-on-an-internal-ai-leaderboard/"
+    },
+    {
+      "title": "Gemini is making it faster for distressed users to reach mental health resources",
+      "summary": "Google says it has updated Gemini to better direct users to get mental health resources during moments of crisis.",
+      "source": "The Verge",
+      "published": "2026-04-07T10:09:57+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/907842/google-gemini-mental-health-interface-update"
+    },
+    {
+      "title": "Anthropic’s refusal to arm AI is exactly why the UK wants it",
+      "summary": "The Anthropic UK expansion story is less about diplomatic courtship and more about what happens when a government punishes a company for having principles.",
+      "source": "AI News",
+      "published": "2026-04-07T10:00:00+00:00",
+      "link": "https://www.artificialintelligence-news.com/news/anthropic-uk-expansion-london-pentagon/"
+    },
+    {
+      "title": "Anthropic signs multi-gigawatt TPU deal with Google and Broadcom",
+      "summary": "Anthropic has signed a deal with Google and Broadcom for multiple gigawatts of TPU computing capacity, set to come online starting in 2027. The article Anthropic signs multi-gigawatt TPU deal with Google and Broadcom appeared first on The Decoder.",
+      "source": "The Decoder",
+      "published": "2026-04-07T09:37:58+00:00",
+      "link": "https://the-decoder.com/anthropic-signs-multi-gigawatt-tpu-deal-with-google-and-broadcom/"
+    },
     {
       "title": "AI startup Rocket offers vibe McKinsey-style reports at a fraction of the cost",
       "summary": "Rocket's new AI platform combines strategy, product building, and competitive intelligence, aiming to move beyond code generation.",
@@ -10,14 +73,14 @@ const FEED_DATA = {
     },
     {
       "title": "The back story behind the first \"$1.8B\" dollar \"AI Company\"",
-      "summary": "Article URL: https://garymarcus.substack.com/p/the-back-story-behind-the-first-18 Comments URL: https://news.ycombinator.com/item?id=47668658 Points: 55 # Comments: 9",
+      "summary": "Article URL: https://garymarcus.substack.com/p/the-back-story-behind-the-first-18 Comments URL: https://news.ycombinator.com/item?id=47668658 Points: 59 # Comments: 9",
       "source": "Hacker News",
       "published": "2026-04-06T23:16:27+00:00",
       "link": "https://garymarcus.substack.com/p/the-back-story-behind-the-first-18"
     },
     {
       "title": "Bernie Sanders: \"AI Is a Threat to Everything the American People Hold Dear\"",
-      "summary": "Article URL: https://www.wsj.com/opinion/ai-is-a-threat-to-everything-the-american-people-hold-dear-a3286459 Comments URL: https://news.ycombinator.com/item?id=47667798 Points: 56 # Comments: 46",
+      "summary": "Article URL: https://www.wsj.com/opinion/ai-is-a-threat-to-everything-the-american-people-hold-dear-a3286459 Comments URL: https://news.ycombinator.com/item?id=47667798 Points: 59 # Comments: 51",
       "source": "Hacker News",
       "published": "2026-04-06T21:57:54+00:00",
       "link": "https://www.wsj.com/opinion/ai-is-a-threat-to-everything-the-american-people-hold-dear-a3286459"
@@ -31,14 +94,14 @@ const FEED_DATA = {
     },
     {
       "title": "Show HN: Hippo, biologically inspired memory for AI agents",
-      "summary": "Article URL: https://github.com/kitfunso/hippo-memory Comments URL: https://news.ycombinator.com/item?id=47667672 Points: 90 # Comments: 17",
+      "summary": "Article URL: https://github.com/kitfunso/hippo-memory Comments URL: https://news.ycombinator.com/item?id=47667672 Points: 109 # Comments: 22",
       "source": "Hacker News",
       "published": "2026-04-06T21:49:34+00:00",
       "link": "https://github.com/kitfunso/hippo-memory"
     },
     {
       "title": "Wikipedia's AI agent row likely just the beginning of the bot-ocalypse",
-      "summary": "Article URL: https://www.malwarebytes.com/blog/ai/2026/04/wikipedias-ai-agent-row-likely-just-the-beginning-of-the-bot-ocalypse Comments URL: https://news.ycombinator.com/item?id=47665902 Points: 52 # Comments: 58",
+      "summary": "Article URL: https://www.malwarebytes.com/blog/ai/2026/04/wikipedias-ai-agent-row-likely-just-the-beginning-of-the-bot-ocalypse Comments URL: https://news.ycombinator.com/item?id=47665902 Points: 53 # Comments: 59",
       "source": "Hacker News",
       "published": "2026-04-06T19:41:39+00:00",
       "link": "https://www.malwarebytes.com/blog/ai/2026/04/wikipedias-ai-agent-row-likely-just-the-beginning-of-the-bot-ocalypse"
@@ -66,7 +129,7 @@ const FEED_DATA = {
     },
     {
       "title": "Intelligent people are better judges of the intelligence of others",
-      "summary": "https://www.sciencedirect.com/science/article/pii/S016028962... Comments URL: https://news.ycombinator.com/item?id=47664389 Points: 100 # Comments: 117",
+      "summary": "https://www.sciencedirect.com/science/article/pii/S016028962... Comments URL: https://news.ycombinator.com/item?id=47664389 Points: 104 # Comments: 123",
       "source": "Hacker News",
       "published": "2026-04-06T17:52:46+00:00",
       "link": "https://www.psypost.org/intelligent-people-are-better-judges-of-the-intelligence-of-others/"
@@ -94,7 +157,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI singer now occupies eleven spots on iTunes singles chart",
-      "summary": "Article URL: https://www.showbiz411.com/2026/04/05/itunes-takeover-by-fake-ai-singer-eddie-dalton-now-occupies-eleven-spots-on-chart-despite-not-being-human-or-real-exclusive Comments URL: https://news.ycombinator.com/item?id=47662596 Points: 166 # Comments: 256",
+      "summary": "Article URL: https://www.showbiz411.com/2026/04/05/itunes-takeover-by-fake-ai-singer-eddie-dalton-now-occupies-eleven-spots-on-chart-despite-not-being-human-or-real-exclusive Comments URL: https://news.ycombinator.com/item?id=47662596 Points: 207 # Comments: 317",
       "source": "Hacker News",
       "published": "2026-04-06T15:57:07+00:00",
       "link": "https://www.showbiz411.com/2026/04/05/itunes-takeover-by-fake-ai-singer-eddie-dalton-now-occupies-eleven-spots-on-chart-despite-not-being-human-or-real-exclusive"
@@ -136,7 +199,7 @@ const FEED_DATA = {
     },
     {
       "title": "The Intelligence Failure in Iran",
-      "summary": "Article URL: https://www.theatlantic.com/national-security/2026/04/iran-war-intelligence-failure-trump/686694/ Comments URL: https://news.ycombinator.com/item?id=47659461 Points: 63 # Comments: 85",
+      "summary": "Article URL: https://www.theatlantic.com/national-security/2026/04/iran-war-intelligence-failure-trump/686694/ Comments URL: https://news.ycombinator.com/item?id=47659461 Points: 65 # Comments: 86",
       "source": "Hacker News",
       "published": "2026-04-06T11:21:35+00:00",
       "link": "https://www.theatlantic.com/national-security/2026/04/iran-war-intelligence-failure-trump/686694/"
@@ -227,7 +290,7 @@ const FEED_DATA = {
     },
     {
       "title": "Musician says AI company is cloning her music, filing claims against her",
-      "summary": "Article URL: https://twitter.com/unlimited_ls/status/2040577536136974444 Comments URL: https://news.ycombinator.com/item?id=47653471 Points: 118 # Comments: 19",
+      "summary": "Article URL: https://twitter.com/unlimited_ls/status/2040577536136974444 Comments URL: https://news.ycombinator.com/item?id=47653471 Points: 119 # Comments: 19",
       "source": "Hacker News",
       "published": "2026-04-05T20:19:11+00:00",
       "link": "https://twitter.com/unlimited_ls/status/2040577536136974444"
@@ -241,7 +304,7 @@ const FEED_DATA = {
     },
     {
       "title": "Show HN: Real-time AI (audio/video in, voice out) on an M3 Pro with Gemma E2B",
-      "summary": "Related: https://news.ycombinator.com/item?id=47653752 Comments URL: https://news.ycombinator.com/item?id=47652007 Points: 271 # Comments: 34",
+      "summary": "Related: https://news.ycombinator.com/item?id=47653752 Comments URL: https://news.ycombinator.com/item?id=47652007 Points: 275 # Comments: 35",
       "source": "Hacker News",
       "published": "2026-04-05T17:53:19+00:00",
       "link": "https://github.com/fikrikarim/parlor"
@@ -276,7 +339,7 @@ const FEED_DATA = {
     },
     {
       "title": "Eight years of wanting, three months of building with AI",
-      "summary": "Article URL: https://lalitm.com/post/building-syntaqlite-ai/ Comments URL: https://news.ycombinator.com/item?id=47648828 Points: 927 # Comments: 289",
+      "summary": "Article URL: https://lalitm.com/post/building-syntaqlite-ai/ Comments URL: https://news.ycombinator.com/item?id=47648828 Points: 932 # Comments: 290",
       "source": "Hacker News",
       "published": "2026-04-05T12:43:47+00:00",
       "link": "https://lalitm.com/post/building-syntaqlite-ai/"
@@ -339,7 +402,7 @@ const FEED_DATA = {
     },
     {
       "title": "Writing Lisp is AI resistant and I'm sad",
-      "summary": "Article URL: https://blog.djhaskin.com/blog/writing-lisp-is-ai-resistant-and-im-sad/ Comments URL: https://news.ycombinator.com/item?id=47645468 Points: 97 # Comments: 98",
+      "summary": "Article URL: https://blog.djhaskin.com/blog/writing-lisp-is-ai-resistant-and-im-sad/ Comments URL: https://news.ycombinator.com/item?id=47645468 Points: 97 # Comments: 99",
       "source": "Hacker News",
       "published": "2026-04-05T02:01:31+00:00",
       "link": "https://blog.djhaskin.com/blog/writing-lisp-is-ai-resistant-and-im-sad/"
@@ -1337,69 +1400,6 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-03-30T13:00:00+00:00",
       "link": "https://techcrunch.com/2026/03/30/ai-chip-startup-rebellions-raises-400-million-at-2-3b-valuation-in-pre-ipo-round/"
-    },
-    {
-      "title": "Mistral AI raises $830M in debt to set up a data center near Paris",
-      "summary": "Mistral aims to start operating the data center by the second quarter of 2026.",
-      "source": "TechCrunch",
-      "published": "2026-03-30T12:49:51+00:00",
-      "link": "https://techcrunch.com/2026/03/30/mistral-ai-raises-830m-in-debt-to-set-up-a-data-center-near-paris/"
-    },
-    {
-      "title": "Qodo raises $70M for code verification as AI coding scales",
-      "summary": "As AI floods software development with code, Qodo is betting the real challenge is making sure it actually works.",
-      "source": "TechCrunch",
-      "published": "2026-03-30T12:30:00+00:00",
-      "link": "https://techcrunch.com/2026/03/30/qodo-bets-on-code-verification-as-ai-coding-scales-raises-70m/"
-    },
-    {
-      "title": "How the AI Bubble Bursts",
-      "summary": "Article URL: https://martinvol.pe/blog/2026/03/30/how-the-ai-bubble-bursts/ Comments URL: https://news.ycombinator.com/item?id=47573420 Points: 370 # Comments: 521",
-      "source": "Hacker News",
-      "published": "2026-03-30T12:28:36+00:00",
-      "link": "https://martinvol.pe/blog/2026/03/30/how-the-ai-bubble-bursts/"
-    },
-    {
-      "title": "The Download: brainless human clones and the first uterus kept alive outside a body",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.",
-      "source": "MIT Tech Review",
-      "published": "2026-03-30T12:10:00+00:00",
-      "link": "https://www.technologyreview.com/2026/03/30/1134836/the-download-brainless-human-clones-first-uterus-kept-alive-outside-body/"
-    },
-    {
-      "title": "How AEO vs GEO reshapes AI-driven brand discovery in 2026",
-      "summary": "When Pew Research Centre analysed 68,879 Google searches in March 2025, one finding stood out: users who encountered an AI-generated summary clicked on a traditional result just 8% of the time. Those who didn’t see a summary clicked nearly twice as often, at 15%.",
-      "source": "AI News",
-      "published": "2026-03-30T11:57:11+00:00",
-      "link": "https://www.artificialintelligence-news.com/news/how-aeo-vs-geo-reshapes-ai-driven-brand-discovery-in-2026/"
-    },
-    {
-      "title": "Assessing AI powered price forecasting tools in currency markets",
-      "summary": "As artificial intelligence becomes a driving force in financial prediction, the reliability of its forecasting tools faces increasing scrutiny. Many traders question whether claims of high accuracy translate into consistent results under live market conditions.",
-      "source": "AI News",
-      "published": "2026-03-30T11:49:38+00:00",
-      "link": "https://www.artificialintelligence-news.com/news/assessing-ai-powered-price-forecasting-tools-in-currency-markets/"
-    },
-    {
-      "title": "OpenAI's Sora burned a million dollars a day while losing half its users in record time",
-      "summary": "OpenAI is shutting down Sora after the video app burned through about a million dollars a day in compute, quickly lost half its users, and turned from a prestige project into a liability.",
-      "source": "The Decoder",
-      "published": "2026-03-30T11:41:04+00:00",
-      "link": "https://the-decoder.com/openais-sora-burned-a-million-dollars-a-day-while-losing-half-its-users-in-record-time/"
-    },
-    {
-      "title": "AI-generated dating show pulls 10 million views per episode on TikTok",
-      "summary": "AI-generated dating show \"Fruit Love Island\" averages over 10 million views per episode on TikTok. The article AI-generated dating show pulls 10 million views per episode on TikTok appeared first on The Decoder.",
-      "source": "The Decoder",
-      "published": "2026-03-30T11:27:43+00:00",
-      "link": "https://the-decoder.com/ai-generated-dating-show-pulls-10-million-views-per-episode-on-tiktok/"
-    },
-    {
-      "title": "Mathematical methods and human thought in the age of AI",
-      "summary": "Article URL: https://arxiv.org/abs/2603.26524 Comments URL: https://news.ycombinator.com/item?id=47572771 Points: 217 # Comments: 92",
-      "source": "Hacker News",
-      "published": "2026-03-30T11:05:37+00:00",
-      "link": "https://arxiv.org/abs/2603.26524"
     }
   ]
 };
