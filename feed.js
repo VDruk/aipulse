@@ -1,6 +1,69 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-04-07T12:00:22.231440+00:00",
+  "lastUpdated": "2026-04-07T16:36:48.424842+00:00",
   "items": [
+    {
+      "title": "Suno and major music labels reportedly clash over AI music sharing",
+      "summary": "The AI-powered musicmaker Suno is struggling to reach licensing deals with Universal Music Group and Sony Music Entertainment.",
+      "source": "The Verge",
+      "published": "2026-04-07T16:21:22+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/908119/suno-sony-universal-music-ai-disagreement"
+    },
+    {
+      "title": "Anthropic ups compute deal with Google and Broadcom amid skyrocketing demand",
+      "summary": "Anthropic bulked up its compute deal with Google and Broadcom as the company has seen its run-rate revenue surge to $30 billion.",
+      "source": "TechCrunch",
+      "published": "2026-04-07T16:05:56+00:00",
+      "link": "https://techcrunch.com/2026/04/07/anthropic-compute-deal-google-broadcom-tpus/"
+    },
+    {
+      "title": "Intel will help build Elon Musk’s Terafab AI chip factory",
+      "summary": "Elon Musk's Terafab AI chip project in Austin, Texas, is gaining a crucial new partner: Intel.",
+      "source": "The Verge",
+      "published": "2026-04-07T15:43:17+00:00",
+      "link": "https://www.theverge.com/transportation/907976/elon-musk-terafab-intel-ai-chip-spacex-tesla"
+    },
+    {
+      "title": "Google Maps can now write captions for your photos using AI",
+      "summary": "Gemini can now create captions when users are looking to share a photo or video.",
+      "source": "TechCrunch",
+      "published": "2026-04-07T15:30:00+00:00",
+      "link": "https://techcrunch.com/2026/04/07/google-maps-can-now-write-captions-for-your-photos-using-ai/"
+    },
+    {
+      "title": "Desalination plants in the Middle East are increasingly vulnerable",
+      "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here.",
+      "source": "MIT Tech Review",
+      "published": "2026-04-07T14:54:06+00:00",
+      "link": "https://www.technologyreview.com/2026/04/07/1135235/desalination-technology-water/"
+    },
+    {
+      "title": "Asylon and Thrive Logic bring physical AI to enterprise perimeter security",
+      "summary": "Exciting times are ahead in the world of enterprise perimeter security with a new partnership between Thrive Logic, an AI agent-driven security and operational intelligence platform, and Asylon, a security robotics company.",
+      "source": "AI News",
+      "published": "2026-04-07T14:40:42+00:00",
+      "link": "https://www.artificialintelligence-news.com/news/physical-ai-security-at-the-enterprise-perimeter-takes-a-step-closer/"
+    },
+    {
+      "title": "Enabling agent-first process redesign",
+      "summary": "Unlike static, rules-based systems, AI agents can learn, adapt, and optimize processes dynamically. As they interact with data, systems, people, and other agents in real time, AI agents can execute entire workflows autonomously.",
+      "source": "MIT Tech Review",
+      "published": "2026-04-07T14:00:00+00:00",
+      "link": "https://www.technologyreview.com/2026/04/07/1134966/enabling-agent-first-process-redesign/"
+    },
+    {
+      "title": "The AI gold rush is pulling private wealth into riskier, earlier bets",
+      "summary": "On a recent episode of Equity, we talked to Arena Private Wealth to explore a growing trend: family offices bypassing VCs to gain direct exposure to AI startups, turning them from passive investors into active participants.",
+      "source": "TechCrunch",
+      "published": "2026-04-07T13:00:00+00:00",
+      "link": "https://techcrunch.com/2026/04/07/the-ai-gold-rush-is-pulling-private-wealth-into-riskier-earlier-bets/"
+    },
+    {
+      "title": "The Download: AI’s impact on jobs, and data centres in space",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.",
+      "source": "MIT Tech Review",
+      "published": "2026-04-07T12:10:00+00:00",
+      "link": "https://www.technologyreview.com/2026/04/07/1135208/the-download-ai-impact-jobs-data-centres-space/"
+    },
     {
       "title": "Boomi calls it “data activation” and says it’s the missing step in every AI deployment",
       "summary": "The failure mode for enterprise AI in 2026 is not what most people expected. It is not that the models are wrong, or that agents cannot reason, or that the technology is overhyped.",
@@ -35,6 +98,13 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-04-07T11:39:49+00:00",
       "link": "https://the-decoder.com/meta-plans-to-open-source-parts-of-its-new-ai-models/"
+    },
+    {
+      "title": "AI may be making us think and write more alike",
+      "summary": "Article URL: https://dornsife.usc.edu/news/stories/ai-may-be-making-us-think-and-write-more-alike/ Comments URL: https://news.ycombinator.com/item?id=47673541 Points: 175 # Comments: 170",
+      "source": "Hacker News",
+      "published": "2026-04-07T11:29:02+00:00",
+      "link": "https://dornsife.usc.edu/news/stories/ai-may-be-making-us-think-and-write-more-alike/"
     },
     {
       "title": "Meta employees compete for token consumption on an internal AI leaderboard",
@@ -73,14 +143,14 @@ const FEED_DATA = {
     },
     {
       "title": "The back story behind the first \"$1.8B\" dollar \"AI Company\"",
-      "summary": "Article URL: https://garymarcus.substack.com/p/the-back-story-behind-the-first-18 Comments URL: https://news.ycombinator.com/item?id=47668658 Points: 59 # Comments: 9",
+      "summary": "Article URL: https://garymarcus.substack.com/p/the-back-story-behind-the-first-18 Comments URL: https://news.ycombinator.com/item?id=47668658 Points: 60 # Comments: 9",
       "source": "Hacker News",
       "published": "2026-04-06T23:16:27+00:00",
       "link": "https://garymarcus.substack.com/p/the-back-story-behind-the-first-18"
     },
     {
       "title": "Bernie Sanders: \"AI Is a Threat to Everything the American People Hold Dear\"",
-      "summary": "Article URL: https://www.wsj.com/opinion/ai-is-a-threat-to-everything-the-american-people-hold-dear-a3286459 Comments URL: https://news.ycombinator.com/item?id=47667798 Points: 59 # Comments: 51",
+      "summary": "Article URL: https://www.wsj.com/opinion/ai-is-a-threat-to-everything-the-american-people-hold-dear-a3286459 Comments URL: https://news.ycombinator.com/item?id=47667798 Points: 70 # Comments: 58",
       "source": "Hacker News",
       "published": "2026-04-06T21:57:54+00:00",
       "link": "https://www.wsj.com/opinion/ai-is-a-threat-to-everything-the-american-people-hold-dear-a3286459"
@@ -94,14 +164,14 @@ const FEED_DATA = {
     },
     {
       "title": "Show HN: Hippo, biologically inspired memory for AI agents",
-      "summary": "Article URL: https://github.com/kitfunso/hippo-memory Comments URL: https://news.ycombinator.com/item?id=47667672 Points: 109 # Comments: 22",
+      "summary": "Article URL: https://github.com/kitfunso/hippo-memory Comments URL: https://news.ycombinator.com/item?id=47667672 Points: 115 # Comments: 25",
       "source": "Hacker News",
       "published": "2026-04-06T21:49:34+00:00",
       "link": "https://github.com/kitfunso/hippo-memory"
     },
     {
       "title": "Wikipedia's AI agent row likely just the beginning of the bot-ocalypse",
-      "summary": "Article URL: https://www.malwarebytes.com/blog/ai/2026/04/wikipedias-ai-agent-row-likely-just-the-beginning-of-the-bot-ocalypse Comments URL: https://news.ycombinator.com/item?id=47665902 Points: 53 # Comments: 59",
+      "summary": "Article URL: https://www.malwarebytes.com/blog/ai/2026/04/wikipedias-ai-agent-row-likely-just-the-beginning-of-the-bot-ocalypse Comments URL: https://news.ycombinator.com/item?id=47665902 Points: 59 # Comments: 69",
       "source": "Hacker News",
       "published": "2026-04-06T19:41:39+00:00",
       "link": "https://www.malwarebytes.com/blog/ai/2026/04/wikipedias-ai-agent-row-likely-just-the-beginning-of-the-bot-ocalypse"
@@ -129,7 +199,7 @@ const FEED_DATA = {
     },
     {
       "title": "Intelligent people are better judges of the intelligence of others",
-      "summary": "https://www.sciencedirect.com/science/article/pii/S016028962... Comments URL: https://news.ycombinator.com/item?id=47664389 Points: 104 # Comments: 123",
+      "summary": "https://www.sciencedirect.com/science/article/pii/S016028962... Comments URL: https://news.ycombinator.com/item?id=47664389 Points: 113 # Comments: 128",
       "source": "Hacker News",
       "published": "2026-04-06T17:52:46+00:00",
       "link": "https://www.psypost.org/intelligent-people-are-better-judges-of-the-intelligence-of-others/"
@@ -157,7 +227,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI singer now occupies eleven spots on iTunes singles chart",
-      "summary": "Article URL: https://www.showbiz411.com/2026/04/05/itunes-takeover-by-fake-ai-singer-eddie-dalton-now-occupies-eleven-spots-on-chart-despite-not-being-human-or-real-exclusive Comments URL: https://news.ycombinator.com/item?id=47662596 Points: 207 # Comments: 317",
+      "summary": "Article URL: https://www.showbiz411.com/2026/04/05/itunes-takeover-by-fake-ai-singer-eddie-dalton-now-occupies-eleven-spots-on-chart-despite-not-being-human-or-real-exclusive Comments URL: https://news.ycombinator.com/item?id=47662596 Points: 230 # Comments: 355",
       "source": "Hacker News",
       "published": "2026-04-06T15:57:07+00:00",
       "link": "https://www.showbiz411.com/2026/04/05/itunes-takeover-by-fake-ai-singer-eddie-dalton-now-occupies-eleven-spots-on-chart-despite-not-being-human-or-real-exclusive"
@@ -178,7 +248,7 @@ const FEED_DATA = {
     },
     {
       "title": "When Virality Is the Message: The New Age of AI Propaganda",
-      "summary": "Article URL: https://time.com/article/2026/04/02/when-virality-is-the-message-the-new-age-of-ai-propaganda/ Comments URL: https://news.ycombinator.com/item?id=47661231 Points: 60 # Comments: 84",
+      "summary": "Article URL: https://time.com/article/2026/04/02/when-virality-is-the-message-the-new-age-of-ai-propaganda/ Comments URL: https://news.ycombinator.com/item?id=47661231 Points: 61 # Comments: 89",
       "source": "Hacker News",
       "published": "2026-04-06T14:16:35+00:00",
       "link": "https://time.com/article/2026/04/02/when-virality-is-the-message-the-new-age-of-ai-propaganda/"
@@ -199,7 +269,7 @@ const FEED_DATA = {
     },
     {
       "title": "The Intelligence Failure in Iran",
-      "summary": "Article URL: https://www.theatlantic.com/national-security/2026/04/iran-war-intelligence-failure-trump/686694/ Comments URL: https://news.ycombinator.com/item?id=47659461 Points: 65 # Comments: 86",
+      "summary": "Article URL: https://www.theatlantic.com/national-security/2026/04/iran-war-intelligence-failure-trump/686694/ Comments URL: https://news.ycombinator.com/item?id=47659461 Points: 67 # Comments: 86",
       "source": "Hacker News",
       "published": "2026-04-06T11:21:35+00:00",
       "link": "https://www.theatlantic.com/national-security/2026/04/iran-war-intelligence-failure-trump/686694/"
@@ -276,7 +346,7 @@ const FEED_DATA = {
     },
     {
       "title": "'Cognitive Surrender' Is a New and Useful Term for How AI Melts Brains",
-      "summary": "Article URL: https://gizmodo.com/cognitive-surrender-is-a-new-and-useful-term-for-how-ai-melts-brains-2000742595 Comments URL: https://news.ycombinator.com/item?id=47655155 Points: 53 # Comments: 16",
+      "summary": "Article URL: https://gizmodo.com/cognitive-surrender-is-a-new-and-useful-term-for-how-ai-melts-brains-2000742595 Comments URL: https://news.ycombinator.com/item?id=47655155 Points: 54 # Comments: 16",
       "source": "Hacker News",
       "published": "2026-04-05T23:45:20+00:00",
       "link": "https://gizmodo.com/cognitive-surrender-is-a-new-and-useful-term-for-how-ai-melts-brains-2000742595"
@@ -290,7 +360,7 @@ const FEED_DATA = {
     },
     {
       "title": "Musician says AI company is cloning her music, filing claims against her",
-      "summary": "Article URL: https://twitter.com/unlimited_ls/status/2040577536136974444 Comments URL: https://news.ycombinator.com/item?id=47653471 Points: 119 # Comments: 19",
+      "summary": "Article URL: https://twitter.com/unlimited_ls/status/2040577536136974444 Comments URL: https://news.ycombinator.com/item?id=47653471 Points: 121 # Comments: 19",
       "source": "Hacker News",
       "published": "2026-04-05T20:19:11+00:00",
       "link": "https://twitter.com/unlimited_ls/status/2040577536136974444"
@@ -304,7 +374,7 @@ const FEED_DATA = {
     },
     {
       "title": "Show HN: Real-time AI (audio/video in, voice out) on an M3 Pro with Gemma E2B",
-      "summary": "Related: https://news.ycombinator.com/item?id=47653752 Comments URL: https://news.ycombinator.com/item?id=47652007 Points: 275 # Comments: 35",
+      "summary": "Related: https://news.ycombinator.com/item?id=47653752 Comments URL: https://news.ycombinator.com/item?id=47652007 Points: 280 # Comments: 35",
       "source": "Hacker News",
       "published": "2026-04-05T17:53:19+00:00",
       "link": "https://github.com/fikrikarim/parlor"
@@ -339,7 +409,7 @@ const FEED_DATA = {
     },
     {
       "title": "Eight years of wanting, three months of building with AI",
-      "summary": "Article URL: https://lalitm.com/post/building-syntaqlite-ai/ Comments URL: https://news.ycombinator.com/item?id=47648828 Points: 932 # Comments: 290",
+      "summary": "Article URL: https://lalitm.com/post/building-syntaqlite-ai/ Comments URL: https://news.ycombinator.com/item?id=47648828 Points: 938 # Comments: 297",
       "source": "Hacker News",
       "published": "2026-04-05T12:43:47+00:00",
       "link": "https://lalitm.com/post/building-syntaqlite-ai/"
@@ -388,7 +458,7 @@ const FEED_DATA = {
     },
     {
       "title": "I used AI. It worked. I hated it",
-      "summary": "https://web.archive.org/web/20260403164006/https://taggart-t... Comments URL: https://news.ycombinator.com/item?id=47646277 Points: 54 # Comments: 124",
+      "summary": "https://web.archive.org/web/20260403164006/https://taggart-t... Comments URL: https://news.ycombinator.com/item?id=47646277 Points: 54 # Comments: 126",
       "source": "Hacker News",
       "published": "2026-04-05T05:08:39+00:00",
       "link": "https://taggart-tech.com/reckoning/"
@@ -416,7 +486,7 @@ const FEED_DATA = {
     },
     {
       "title": "LLM Wiki – example of an \"idea file\"",
-      "summary": "https://x.com/karpathy/status/2040470801506541998https://xcancel.com/karpathy/status/2040470801506541998 Comments URL: https://news.ycombinator.com/item?id=47640875 Points: 293 # Comments: 92",
+      "summary": "https://x.com/karpathy/status/2040470801506541998https://xcancel.com/karpathy/status/2040470801506541998 Comments URL: https://news.ycombinator.com/item?id=47640875 Points: 294 # Comments: 92",
       "source": "Hacker News",
       "published": "2026-04-04T16:57:45+00:00",
       "link": "https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f"
@@ -1330,76 +1400,6 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-03-30T16:07:14+00:00",
       "link": "https://the-decoder.com/microsoft-rolls-out-copilot-cowork-more-broadly-and-lets-ai-models-check-each-others-work/"
-    },
-    {
-      "title": "There are more AI health tools than ever—but how well do they work?",
-      "summary": "Earlier this month, Microsoft launched Copilot Health, a new space within its Copilot app where users will be able to connect their medical records and ask specific questions about their health.",
-      "source": "MIT Tech Review",
-      "published": "2026-03-30T16:00:00+00:00",
-      "link": "https://www.technologyreview.com/2026/03/30/1134795/there-are-more-ai-health-tools-than-ever-but-how-well-do-they-work/"
-    },
-    {
-      "title": "Secure governance accelerates financial AI revenue growth",
-      "summary": "Financial institutions are learning to deploy compliant AI solutions for greater revenue growth and market advantage. For the better part of ten years, financial institutions viewed AI primarily as a mechanism for pure efficiency gains.",
-      "source": "AI News",
-      "published": "2026-03-30T15:54:58+00:00",
-      "link": "https://www.artificialintelligence-news.com/news/secure-governance-accelerates-financial-ai-revenue-growth/"
-    },
-    {
-      "title": "AI models confidently describe images they never saw, and benchmarks fail to catch it",
-      "summary": "Multimodal AI models like GPT-5, Gemini 3 Pro, and Claude Opus 4.5 generate detailed image descriptions and medical diagnoses even when no image is provided. A Stanford study shows that common benchmarks obscure the problem.",
-      "source": "The Decoder",
-      "published": "2026-03-30T15:53:15+00:00",
-      "link": "https://the-decoder.com/ai-models-confidently-describe-images-they-never-saw-and-benchmarks-fail-to-catch-it/"
-    },
-    {
-      "title": "The Pentagon’s culture war tactic against Anthropic has backfired",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here.",
-      "source": "MIT Tech Review",
-      "published": "2026-03-30T15:42:50+00:00",
-      "link": "https://www.technologyreview.com/2026/03/30/1134881/the-pentagons-culture-war-tactic-against-anthropic-has-backfired/"
-    },
-    {
-      "title": "Okta’s CEO is betting big on AI agent identity",
-      "summary": "Today, I’m talking with Todd McKinnon, who is co-founder and CEO of Okta, a platform that lets big companies manage security and identity across all the apps and services their employees use.",
-      "source": "The Verge",
-      "published": "2026-03-30T15:15:00+00:00",
-      "link": "https://www.theverge.com/podcast/902264/oktas-ceo-is-betting-big-on-ai-agent-identity"
-    },
-    {
-      "title": "Mantis Biotech is making ‘digital twins’ of humans to help solve medicine’s data availability problem",
-      "summary": "Mantis takes disparate sources of data to make synthetic datasets that can be used to build so-called \"digital twins\" of the human body, representing anatomy, physiology and behavior.",
-      "source": "TechCrunch",
-      "published": "2026-03-30T14:30:00+00:00",
-      "link": "https://techcrunch.com/2026/03/30/mantis-biotech-is-making-digital-twins-of-humans-to-help-solve-medicines-data-availability-problem/"
-    },
-    {
-      "title": "Glia wins Excellence Award for safer AI in banking",
-      "summary": "Glia, a customer service platform providing AI-powered interactions for the banking sector, has been named a winner in the Banking and Financial Services Category at the 2026 Artificial Intelligence Excellence Awards.",
-      "source": "AI News",
-      "published": "2026-03-30T14:12:59+00:00",
-      "link": "https://www.artificialintelligence-news.com/news/glia-wins-excellence-award-for-safer-ai-in-banking/"
-    },
-    {
-      "title": "ScaleOps raises $130M to improve computing efficiency amid AI demand",
-      "summary": "ScaleOps just raised $130M to tackle GPU shortages and soaring AI cloud costs by automating infrastructure in real time.",
-      "source": "TechCrunch",
-      "published": "2026-03-30T13:52:02+00:00",
-      "link": "https://techcrunch.com/2026/03/30/scaleops-130m-series-c-kubernetes-efficiency-ai-demand-funding/"
-    },
-    {
-      "title": "The ladder is missing rungs – Engineering Progression When AI Ate the Middle",
-      "summary": "Article URL: https://negroniventurestudios.com/2026/03/19/the-ladder-is-missing-rungs/ Comments URL: https://news.ycombinator.com/item?id=47574346 Points: 97 # Comments: 52",
-      "source": "Hacker News",
-      "published": "2026-03-30T13:51:31+00:00",
-      "link": "https://negroniventurestudios.com/2026/03/19/the-ladder-is-missing-rungs/"
-    },
-    {
-      "title": "AI chip startup Rebellions raises $400 million at $2.3B valuation in pre-IPO round",
-      "summary": "The startup, which is planning to go public later this year, designs chips specifically for AI inference, another challenger to Nvidia's dominance.",
-      "source": "TechCrunch",
-      "published": "2026-03-30T13:00:00+00:00",
-      "link": "https://techcrunch.com/2026/03/30/ai-chip-startup-rebellions-raises-400-million-at-2-3b-valuation-in-pre-ipo-round/"
     }
   ]
 };
