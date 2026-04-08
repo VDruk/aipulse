@@ -1,6 +1,104 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-04-08T12:00:58.190859+00:00",
+  "lastUpdated": "2026-04-08T16:44:35.497019+00:00",
   "items": [
+    {
+      "title": "Stability AI launches Brand Studio for brand-consistent image generation",
+      "summary": "Stability AI is going commercial: The new \"Brand Studio\" lets creative teams generate AI visuals that match their brand identity, using custom-trained models, automated production workflows, and precision image editing tools.",
+      "source": "The Decoder",
+      "published": "2026-04-08T16:15:42+00:00",
+      "link": "https://the-decoder.com/stability-ai-launches-brand-studio-for-brand-consistent-image-generation/"
+    },
+    {
+      "title": "Meta is reentering the AI race with a new model called Muse Spark",
+      "summary": "Meta Superintelligence Labs is launching its first model since Mark Zuckerberg spent billions overhauling the company's AI efforts. Called Muse Spark, the model now powers the Meta AI app and the Meta AI website in the US, per the company's announcement.",
+      "source": "The Verge",
+      "published": "2026-04-08T16:12:54+00:00",
+      "link": "https://www.theverge.com/tech/908769/meta-muse-spark-ai-model-launch-rollout"
+    },
+    {
+      "title": "One in four quotes in AI chatbot responses comes from journalism, Muckrack study finds",
+      "summary": "Where do ChatGPT, Claude, and Gemini get their information? An analysis of 15 million AI citations shows that one in four source references traces back to journalism.",
+      "source": "The Decoder",
+      "published": "2026-04-08T16:01:47+00:00",
+      "link": "https://the-decoder.com/one-in-four-quotes-in-ai-chatbot-responses-comes-from-journalism-muckrack-study-finds/"
+    },
+    {
+      "title": "Astropad’s Workbench reimagines remote desktop for AI agents, not IT support",
+      "summary": "Astropad’s Workbench lets users remotely monitor and control AI agents on Mac Minis from iPhone or iPad, with low-latency streaming and mobile access.",
+      "source": "TechCrunch",
+      "published": "2026-04-08T16:01:09+00:00",
+      "link": "https://techcrunch.com/2026/04/08/astropads-workbench-reimagines-remote-desktop-for-ai-agents-not-it-support/"
+    },
+    {
+      "title": "Nudifying bots, deepfakes, and automated archives: how AI powers a monetized abuse ecosystem on Telegram",
+      "summary": "An analysis of 2.8 million Telegram messages in Italy and Spain documents how AI tools are fueling a monetized ecosystem built around non-consensual intimate imagery.",
+      "source": "The Decoder",
+      "published": "2026-04-08T16:00:55+00:00",
+      "link": "https://the-decoder.com/nudifying-bots-deepfakes-and-automated-archives-how-ai-powers-a-monetized-abuse-ecosystem-on-telegram/"
+    },
+    {
+      "title": "OpenAI releases a new safety blueprint to address the rise in child sexual exploitation",
+      "summary": "OpenAI's new Child Safety Blueprint aims to tackle the alarming rise in child sexual exploitation linked to advancements in AI.",
+      "source": "TechCrunch",
+      "published": "2026-04-08T15:23:44+00:00",
+      "link": "https://techcrunch.com/2026/04/08/openai-releases-a-new-safety-blueprint-to-address-the-rise-in-child-sexual-exploitation/"
+    },
+    {
+      "title": "Databricks co-founder wins prestigious ACM award, says ‘AGI is here already’",
+      "summary": "Matei Zaharia has won the top honor from the Association for Computing Machinery. Now he's working on AI for research and says AGI is simply misunderstood.",
+      "source": "TechCrunch",
+      "published": "2026-04-08T15:00:00+00:00",
+      "link": "https://techcrunch.com/2026/04/08/databricks-matei-zaharia-wins-acm-computing-prize-agi/"
+    },
+    {
+      "title": "Anthropic hires Microsoft's Azure AI chief to fix its infrastructure problems",
+      "summary": "Anthropic has hired Eric Boyd, a senior Microsoft executive, as its new head of infrastructure, Bloomberg reports. The article Anthropic hires Microsoft's Azure AI chief to fix its infrastructure problems appeared first on The Decoder.",
+      "source": "The Decoder",
+      "published": "2026-04-08T14:18:15+00:00",
+      "link": "https://the-decoder.com/anthropic-hires-microsofts-azure-ai-chief-to-fix-its-infrastructure-problems/"
+    },
+    {
+      "title": "Show HN: We fingerprinted 178 AI models' writing styles and similarity clusters",
+      "summary": "We have a dataset of 3,095 standardized AI responses across 43 prompts.",
+      "source": "Hacker News",
+      "published": "2026-04-08T14:06:03+00:00",
+      "link": "https://rival.tips/research/model-similarity"
+    },
+    {
+      "title": "Mustafa Suleyman: AI development won’t hit a wall anytime soon—here’s why",
+      "summary": "We evolved for a linear world. If you walk for an hour, you cover a certain distance.",
+      "source": "MIT Tech Review",
+      "published": "2026-04-08T14:00:00+00:00",
+      "link": "https://www.technologyreview.com/2026/04/08/1135398/mustafa-suleyman-ai-future/"
+    },
+    {
+      "title": "The vibes are off at OpenAI",
+      "summary": "OpenAI is in a relatively precarious position. The company is and has been a funding behemoth - just over a week ago, it closed $122 billion in funding at a post-money valuation of $852 billion.",
+      "source": "The Verge",
+      "published": "2026-04-08T13:47:38+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/908513/the-vibes-are-off-at-openai"
+    },
+    {
+      "title": "From GPT-2 to Claude Mythos: The return of AI models deemed 'too dangerous to release'",
+      "summary": "Seven years ago, OpenAI declared its language model GPT-2 \"too dangerous to release.\" The industry rolled its eyes.",
+      "source": "The Decoder",
+      "published": "2026-04-08T13:00:57+00:00",
+      "link": "https://the-decoder.com/from-gpt-2-to-claude-mythos-the-return-of-ai-models-deemed-too-dangerous-to-release/"
+    },
+    {
+      "title": "Atlassian launches visual AI tools and third-party agents in Confluence",
+      "summary": "Confluence users can now create visual assets within the software in addition to new third-party agents working with Lovable, Replit, and Gamma.",
+      "source": "TechCrunch",
+      "published": "2026-04-08T13:00:00+00:00",
+      "link": "https://techcrunch.com/2026/04/08/atlassian-confluence-visual-ai-tools-agents/"
+    },
+    {
+      "title": "The Download: water threats in Iran and AI’s impact on what entrepreneurs make",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.",
+      "source": "MIT Tech Review",
+      "published": "2026-04-08T12:10:00+00:00",
+      "link": "https://www.technologyreview.com/2026/04/08/1135405/the-download-water-threats-iran-ais-impact-on-entrepreneurs-make/"
+    },
     {
       "title": "Unionized ProPublica staff are on strike over AI, layoffs, and wages",
       "summary": "Unionized staff at ProPublica, one of the country's leading nonprofit newsrooms, are walking off the job for 24 hours beginning Wednesday and asking the public to honor a digital picket line.",
@@ -38,14 +136,14 @@ const FEED_DATA = {
     },
     {
       "title": "LLM scraper bots are overloading acme.com's HTTPS server",
-      "summary": "Article URL: http://acme.com/updates/archive/229.html Comments URL: https://news.ycombinator.com/item?id=47684506 Points: 54 # Comments: 53",
+      "summary": "Article URL: http://acme.com/updates/archive/229.html Comments URL: https://news.ycombinator.com/item?id=47684506 Points: 61 # Comments: 59",
       "source": "Hacker News",
       "published": "2026-04-08T03:02:56+00:00",
       "link": "http://acme.com/updates/archive/229.html"
     },
     {
       "title": "OpenAI says its new model GPT-2 is too dangerous to release (2019)",
-      "summary": "Article URL: https://slate.com/technology/2019/02/openai-gpt2-text-generating-algorithm-ai-dangerous.html Comments URL: https://news.ycombinator.com/item?id=47684326 Points: 334 # Comments: 95",
+      "summary": "Article URL: https://slate.com/technology/2019/02/openai-gpt2-text-generating-algorithm-ai-dangerous.html Comments URL: https://news.ycombinator.com/item?id=47684326 Points: 361 # Comments: 107",
       "source": "Hacker News",
       "published": "2026-04-08T02:41:12+00:00",
       "link": "https://slate.com/technology/2019/02/openai-gpt2-text-generating-algorithm-ai-dangerous.html"
@@ -136,7 +234,7 @@ const FEED_DATA = {
     },
     {
       "title": "Taste in the age of AI and LLMs",
-      "summary": "Article URL: https://rajnandan.com/posts/taste-in-the-age-of-ai-and-llms/ Comments URL: https://news.ycombinator.com/item?id=47677241 Points: 250 # Comments: 198",
+      "summary": "Article URL: https://rajnandan.com/posts/taste-in-the-age-of-ai-and-llms/ Comments URL: https://news.ycombinator.com/item?id=47677241 Points: 261 # Comments: 201",
       "source": "Hacker News",
       "published": "2026-04-07T15:54:16+00:00",
       "link": "https://rajnandan.com/posts/taste-in-the-age-of-ai-and-llms/"
@@ -227,7 +325,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI may be making us think and write more alike",
-      "summary": "Article URL: https://dornsife.usc.edu/news/stories/ai-may-be-making-us-think-and-write-more-alike/ Comments URL: https://news.ycombinator.com/item?id=47673541 Points: 222 # Comments: 232",
+      "summary": "Article URL: https://dornsife.usc.edu/news/stories/ai-may-be-making-us-think-and-write-more-alike/ Comments URL: https://news.ycombinator.com/item?id=47673541 Points: 226 # Comments: 239",
       "source": "Hacker News",
       "published": "2026-04-07T11:29:02+00:00",
       "link": "https://dornsife.usc.edu/news/stories/ai-may-be-making-us-think-and-write-more-alike/"
@@ -255,7 +353,7 @@ const FEED_DATA = {
     },
     {
       "title": "MemPalace, the highest-scoring AI memory system ever benchmarked",
-      "summary": "Article URL: https://github.com/milla-jovovich/mempalace Comments URL: https://news.ycombinator.com/item?id=47672792 Points: 54 # Comments: 7",
+      "summary": "Article URL: https://github.com/milla-jovovich/mempalace Comments URL: https://news.ycombinator.com/item?id=47672792 Points: 57 # Comments: 8",
       "source": "Hacker News",
       "published": "2026-04-07T09:53:34+00:00",
       "link": "https://github.com/milla-jovovich/mempalace"
@@ -283,7 +381,7 @@ const FEED_DATA = {
     },
     {
       "title": "Bernie Sanders: \"AI Is a Threat to Everything the American People Hold Dear\"",
-      "summary": "Article URL: https://www.wsj.com/opinion/ai-is-a-threat-to-everything-the-american-people-hold-dear-a3286459 Comments URL: https://news.ycombinator.com/item?id=47667798 Points: 75 # Comments: 65",
+      "summary": "Article URL: https://www.wsj.com/opinion/ai-is-a-threat-to-everything-the-american-people-hold-dear-a3286459 Comments URL: https://news.ycombinator.com/item?id=47667798 Points: 76 # Comments: 65",
       "source": "Hacker News",
       "published": "2026-04-06T21:57:54+00:00",
       "link": "https://www.wsj.com/opinion/ai-is-a-threat-to-everything-the-american-people-hold-dear-a3286459"
@@ -297,21 +395,21 @@ const FEED_DATA = {
     },
     {
       "title": "Show HN: Hippo, biologically inspired memory for AI agents",
-      "summary": "Article URL: https://github.com/kitfunso/hippo-memory Comments URL: https://news.ycombinator.com/item?id=47667672 Points: 121 # Comments: 24",
+      "summary": "Article URL: https://github.com/kitfunso/hippo-memory Comments URL: https://news.ycombinator.com/item?id=47667672 Points: 123 # Comments: 24",
       "source": "Hacker News",
       "published": "2026-04-06T21:49:34+00:00",
       "link": "https://github.com/kitfunso/hippo-memory"
     },
     {
       "title": "Wikipedia's AI agent row likely just the beginning of the bot-ocalypse",
-      "summary": "Article URL: https://www.malwarebytes.com/blog/ai/2026/04/wikipedias-ai-agent-row-likely-just-the-beginning-of-the-bot-ocalypse Comments URL: https://news.ycombinator.com/item?id=47665902 Points: 68 # Comments: 91",
+      "summary": "Article URL: https://www.malwarebytes.com/blog/ai/2026/04/wikipedias-ai-agent-row-likely-just-the-beginning-of-the-bot-ocalypse Comments URL: https://news.ycombinator.com/item?id=47665902 Points: 69 # Comments: 91",
       "source": "Hacker News",
       "published": "2026-04-06T19:41:39+00:00",
       "link": "https://www.malwarebytes.com/blog/ai/2026/04/wikipedias-ai-agent-row-likely-just-the-beginning-of-the-bot-ocalypse"
     },
     {
       "title": "AI helps add 10k more photos to OldNYC",
-      "summary": "Article URL: https://www.danvk.org/2026/03/08/oldnyc-updates.html Comments URL: https://news.ycombinator.com/item?id=47664836 Points: 134 # Comments: 45",
+      "summary": "Article URL: https://www.danvk.org/2026/03/08/oldnyc-updates.html Comments URL: https://news.ycombinator.com/item?id=47664836 Points: 138 # Comments: 46",
       "source": "Hacker News",
       "published": "2026-04-06T18:24:32+00:00",
       "link": "https://www.danvk.org/2026/03/08/oldnyc-updates.html"
@@ -332,7 +430,7 @@ const FEED_DATA = {
     },
     {
       "title": "Intelligent people are better judges of the intelligence of others",
-      "summary": "https://www.sciencedirect.com/science/article/pii/S016028962... Comments URL: https://news.ycombinator.com/item?id=47664389 Points: 121 # Comments: 131",
+      "summary": "https://www.sciencedirect.com/science/article/pii/S016028962... Comments URL: https://news.ycombinator.com/item?id=47664389 Points: 121 # Comments: 132",
       "source": "Hacker News",
       "published": "2026-04-06T17:52:46+00:00",
       "link": "https://www.psypost.org/intelligent-people-are-better-judges-of-the-intelligence-of-others/"
@@ -360,7 +458,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI singer now occupies eleven spots on iTunes singles chart",
-      "summary": "Article URL: https://www.showbiz411.com/2026/04/05/itunes-takeover-by-fake-ai-singer-eddie-dalton-now-occupies-eleven-spots-on-chart-despite-not-being-human-or-real-exclusive Comments URL: https://news.ycombinator.com/item?id=47662596 Points: 240 # Comments: 373",
+      "summary": "Article URL: https://www.showbiz411.com/2026/04/05/itunes-takeover-by-fake-ai-singer-eddie-dalton-now-occupies-eleven-spots-on-chart-despite-not-being-human-or-real-exclusive Comments URL: https://news.ycombinator.com/item?id=47662596 Points: 240 # Comments: 376",
       "source": "Hacker News",
       "published": "2026-04-06T15:57:07+00:00",
       "link": "https://www.showbiz411.com/2026/04/05/itunes-takeover-by-fake-ai-singer-eddie-dalton-now-occupies-eleven-spots-on-chart-despite-not-being-human-or-real-exclusive"
@@ -381,7 +479,7 @@ const FEED_DATA = {
     },
     {
       "title": "When Virality Is the Message: The New Age of AI Propaganda",
-      "summary": "Article URL: https://time.com/article/2026/04/02/when-virality-is-the-message-the-new-age-of-ai-propaganda/ Comments URL: https://news.ycombinator.com/item?id=47661231 Points: 62 # Comments: 90",
+      "summary": "Article URL: https://time.com/article/2026/04/02/when-virality-is-the-message-the-new-age-of-ai-propaganda/ Comments URL: https://news.ycombinator.com/item?id=47661231 Points: 62 # Comments: 91",
       "source": "Hacker News",
       "published": "2026-04-06T14:16:35+00:00",
       "link": "https://time.com/article/2026/04/02/when-virality-is-the-message-the-new-age-of-ai-propaganda/"
@@ -479,7 +577,7 @@ const FEED_DATA = {
     },
     {
       "title": "'Cognitive Surrender' Is a New and Useful Term for How AI Melts Brains",
-      "summary": "Article URL: https://gizmodo.com/cognitive-surrender-is-a-new-and-useful-term-for-how-ai-melts-brains-2000742595 Comments URL: https://news.ycombinator.com/item?id=47655155 Points: 54 # Comments: 16",
+      "summary": "Article URL: https://gizmodo.com/cognitive-surrender-is-a-new-and-useful-term-for-how-ai-melts-brains-2000742595 Comments URL: https://news.ycombinator.com/item?id=47655155 Points: 55 # Comments: 16",
       "source": "Hacker News",
       "published": "2026-04-05T23:45:20+00:00",
       "link": "https://gizmodo.com/cognitive-surrender-is-a-new-and-useful-term-for-how-ai-melts-brains-2000742595"
@@ -1302,104 +1400,6 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-04-01T01:42:59+00:00",
       "link": "https://techcrunch.com/2026/03/31/mercor-says-it-was-hit-by-cyberattack-tied-to-compromise-of-open-source-litellm-project/"
-    },
-    {
-      "title": "Anthropic is having a month",
-      "summary": "A human really borks things at Anthropic for the second time this week.",
-      "source": "TechCrunch",
-      "published": "2026-03-31T23:58:26+00:00",
-      "link": "https://techcrunch.com/2026/03/31/anthropic-is-having-a-month/"
-    },
-    {
-      "title": "Salesforce announces an AI-heavy makeover for Slack, with 30 new features",
-      "summary": "Slack just got a whole lot more useful.",
-      "source": "TechCrunch",
-      "published": "2026-03-31T22:46:25+00:00",
-      "link": "https://techcrunch.com/2026/03/31/salesforce-announces-an-ai-heavy-makeover-for-slack-with-30-new-features/"
-    },
-    {
-      "title": "Claude Code leak exposes a Tamagotchi-style ‘pet’ and an always-on agent",
-      "summary": "After Anthropic released Claude Code's 2.1.88 update, users quickly discovered that it contained a package with a source map file containing its TypeScript codebase, with one person on X calling attention to the leak and posting a file containing the code.",
-      "source": "The Verge",
-      "published": "2026-03-31T22:24:19+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/904776/anthropic-claude-source-code-leak"
-    },
-    {
-      "title": "OpenAI, not yet public, raises $3B from retail investors in monster $122B fund raise",
-      "summary": "OpenAI's latest funding round, led by Amazon, Nvidia, and SoftBank, values the AI lab at $852 billion as it nears an IPO.",
-      "source": "TechCrunch",
-      "published": "2026-03-31T21:25:04+00:00",
-      "link": "https://techcrunch.com/2026/03/31/openai-not-yet-public-raises-3b-from-retail-investors-in-monster-122b-fund-raise/"
-    },
-    {
-      "title": "You can now use ChatGPT with Apple’s CarPlay",
-      "summary": "ChatGPT is now accessible from your CarPlay dashboard if you have iOS 26.4 or newer and the latest version of the ChatGPT app, 9to5Mac reports.",
-      "source": "The Verge",
-      "published": "2026-03-31T21:03:18+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/904676/apple-carplay-openai-chatgpt"
-    },
-    {
-      "title": "Yupp shuts down after raising $33M from a16z crypto’s Chris Dixon",
-      "summary": "Less than a year after launching, with checks from some of the biggest names in Silicon Valley, crowdsourced AI model feedback startup Yupp is closing its business, the company said Tuesday.",
-      "source": "TechCrunch",
-      "published": "2026-03-31T20:01:07+00:00",
-      "link": "https://techcrunch.com/2026/03/31/yupp-ai-shuts-down-33m-a16z-crypto-chris-dixon/"
-    },
-    {
-      "title": "Oracle reportedly lays off thousands of employees to bankroll its massive AI infrastructure bet",
-      "summary": "Oracle is cutting thousands of jobs to fund its massive AI data center buildout. With the stock down 25 percent and debt mounting, the company is banking on billions in guaranteed revenue, including a $455 billion order from OpenAI.",
-      "source": "The Decoder",
-      "published": "2026-03-31T18:54:01+00:00",
-      "link": "https://the-decoder.com/oracle-reportedly-lays-off-thousands-of-employees-to-bankroll-its-massive-ai-infrastructure-bet/"
-    },
-    {
-      "title": "Anthropic accidentally publishes Claude Code source code for anyone to find",
-      "summary": "Anthropic can't catch a break: Following the recent leak of internal blog posts on its new Mythos AI model, parts of the source code for its AI coding tool Claude Code have now been made public.",
-      "source": "The Decoder",
-      "published": "2026-03-31T18:25:42+00:00",
-      "link": "https://the-decoder.com/anthropic-accidentally-publishes-claude-code-source-code-for-anyone-to-find/"
-    },
-    {
-      "title": "The Galaxy S26’s photo app can sloppify your memories",
-      "summary": "The Google Pixel 9 walked so that the Samsung Galaxy S26 could run. Google introduced AI editing tools to Photos slowly.",
-      "source": "The Verge",
-      "published": "2026-03-31T18:15:00+00:00",
-      "link": "https://www.theverge.com/tech/904176/samsung-galaxy-s26-ai-photo-assist-slop"
-    },
-    {
-      "title": "Google's Veo 3.1 Lite cuts video generation costs by more than half",
-      "summary": "Google makes AI video generation cheaper: Veo 3.1 Lite costs less than half the price of its next cheapest model while matching its speed. The article Google's Veo 3.1 Lite cuts video generation costs by more than half appeared first on The Decoder.",
-      "source": "The Decoder",
-      "published": "2026-03-31T18:04:09+00:00",
-      "link": "https://the-decoder.com/googles-veo-3-1-lite-cuts-video-generation-costs-by-more-than-half/"
-    },
-    {
-      "title": "Alexa+ gets new food ordering experiences with Uber Eats and Grubhub",
-      "summary": "You can now order from Uber Eats and Grubhub using Alexa+, an experience Amazon says will be similar to chatting with a waiter at a restaurant or placing an order at a drive-thru.",
-      "source": "TechCrunch",
-      "published": "2026-03-31T17:41:35+00:00",
-      "link": "https://techcrunch.com/2026/03/31/alexa-plus-new-food-ordering-experiences-with-uber-eats-and-grubhub/"
-    },
-    {
-      "title": "Frontier Radar #2: Why AI productivity gets lost between benchmarks and the balance sheet",
-      "summary": "Generative AI leads to measurable time savings on many tasks. But a gap remains between faster task completion and measurable economic impact.",
-      "source": "The Decoder",
-      "published": "2026-03-31T16:43:00+00:00",
-      "link": "https://the-decoder.com/frontier-radar-2-why-ai-productivity-gets-lost-between-benchmarks-and-the-balance-sheet/"
-    },
-    {
-      "title": "SAP and ANYbotics drive industrial adoption of physical AI",
-      "summary": "Heavy industry relies on people to inspect hazardous, dirty facilities. It’s expensive, and putting humans in these zones carries obvious safety risks.",
-      "source": "AI News",
-      "published": "2026-03-31T15:20:53+00:00",
-      "link": "https://www.artificialintelligence-news.com/news/sap-and-anybotics-drive-industrial-adoption-physical-ai/"
-    },
-    {
-      "title": "Nomadic raises $8.4 million to wrangle the data pouring off autonomous vehicles",
-      "summary": "The company turns footage from robots into structured, searchable datasets with a deep learning model.",
-      "source": "TechCrunch",
-      "published": "2026-03-31T15:00:00+00:00",
-      "link": "https://techcrunch.com/2026/03/31/nomadic-raises-8-4-million-to-wrangle-the-data-pouring-off-avs/"
     }
   ]
 };
