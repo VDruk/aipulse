@@ -1,12 +1,54 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-04-08T08:45:00.727158+00:00",
+  "lastUpdated": "2026-04-08T12:00:58.190859+00:00",
   "items": [
+    {
+      "title": "Unionized ProPublica staff are on strike over AI, layoffs, and wages",
+      "summary": "Unionized staff at ProPublica, one of the country's leading nonprofit newsrooms, are walking off the job for 24 hours beginning Wednesday and asking the public to honor a digital picket line.",
+      "source": "The Verge",
+      "published": "2026-04-08T11:53:28+00:00",
+      "link": "https://www.theverge.com/news/908401/propublica-union-strike-negotiations-ai-layoffs"
+    },
+    {
+      "title": "Musk updates OpenAI lawsuit to redirect potential $150B in damages to the nonprofit foundation",
+      "summary": "Elon Musk says he doesn't want a penny for himself: He's amended his lawsuit against OpenAI so that potential billions in damages would go to the charitable foundation instead.",
+      "source": "The Decoder",
+      "published": "2026-04-08T10:50:36+00:00",
+      "link": "https://the-decoder.com/musk-updates-openai-lawsuit-to-redirect-potential-150b-in-damages-to-the-nonprofit-foundation/"
+    },
+    {
+      "title": "AI’s software development success and central management needs",
+      "summary": "A survey carried out by OutSystems, The State of AI Development 2026 [email wall], argues that AI has moved into early production phase for many enterprises, primarily inside the IT function.",
+      "source": "AI News",
+      "published": "2026-04-08T10:43:00+00:00",
+      "link": "https://www.artificialintelligence-news.com/news/ai-workflows-developer-success-and-central-project-management-needs/"
+    },
+    {
+      "title": "Microsoft open-source toolkit secures AI agents at runtime",
+      "summary": "A new open-source toolkit from Microsoft focuses on runtime security to force strict governance onto enterprise AI agents.",
+      "source": "AI News",
+      "published": "2026-04-08T10:23:53+00:00",
+      "link": "https://www.artificialintelligence-news.com/news/microsoft-open-source-toolkit-secures-ai-agents-at-runtime/"
+    },
     {
       "title": "Google quietly launched an AI dictation app that works offline",
       "summary": "Google's new offline-first dictation app uses Gemma AI models to take on the apps like Wispr Flow.",
       "source": "TechCrunch",
       "published": "2026-04-08T05:40:19+00:00",
       "link": "https://techcrunch.com/2026/04/07/google-quietly-releases-an-offline-first-ai-dictation-app-on-ios/"
+    },
+    {
+      "title": "LLM scraper bots are overloading acme.com's HTTPS server",
+      "summary": "Article URL: http://acme.com/updates/archive/229.html Comments URL: https://news.ycombinator.com/item?id=47684506 Points: 54 # Comments: 53",
+      "source": "Hacker News",
+      "published": "2026-04-08T03:02:56+00:00",
+      "link": "http://acme.com/updates/archive/229.html"
+    },
+    {
+      "title": "OpenAI says its new model GPT-2 is too dangerous to release (2019)",
+      "summary": "Article URL: https://slate.com/technology/2019/02/openai-gpt2-text-generating-algorithm-ai-dangerous.html Comments URL: https://news.ycombinator.com/item?id=47684326 Points: 334 # Comments: 95",
+      "source": "Hacker News",
+      "published": "2026-04-08T02:41:12+00:00",
+      "link": "https://slate.com/technology/2019/02/openai-gpt2-text-generating-algorithm-ai-dangerous.html"
     },
     {
       "title": "I can’t help rooting for tiny open source AI model maker Arcee",
@@ -94,7 +136,7 @@ const FEED_DATA = {
     },
     {
       "title": "Taste in the age of AI and LLMs",
-      "summary": "Article URL: https://rajnandan.com/posts/taste-in-the-age-of-ai-and-llms/ Comments URL: https://news.ycombinator.com/item?id=47677241 Points: 207 # Comments: 177",
+      "summary": "Article URL: https://rajnandan.com/posts/taste-in-the-age-of-ai-and-llms/ Comments URL: https://news.ycombinator.com/item?id=47677241 Points: 250 # Comments: 198",
       "source": "Hacker News",
       "published": "2026-04-07T15:54:16+00:00",
       "link": "https://rajnandan.com/posts/taste-in-the-age-of-ai-and-llms/"
@@ -185,7 +227,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI may be making us think and write more alike",
-      "summary": "Article URL: https://dornsife.usc.edu/news/stories/ai-may-be-making-us-think-and-write-more-alike/ Comments URL: https://news.ycombinator.com/item?id=47673541 Points: 209 # Comments: 220",
+      "summary": "Article URL: https://dornsife.usc.edu/news/stories/ai-may-be-making-us-think-and-write-more-alike/ Comments URL: https://news.ycombinator.com/item?id=47673541 Points: 222 # Comments: 232",
       "source": "Hacker News",
       "published": "2026-04-07T11:29:02+00:00",
       "link": "https://dornsife.usc.edu/news/stories/ai-may-be-making-us-think-and-write-more-alike/"
@@ -212,6 +254,13 @@ const FEED_DATA = {
       "link": "https://www.artificialintelligence-news.com/news/anthropic-uk-expansion-london-pentagon/"
     },
     {
+      "title": "MemPalace, the highest-scoring AI memory system ever benchmarked",
+      "summary": "Article URL: https://github.com/milla-jovovich/mempalace Comments URL: https://news.ycombinator.com/item?id=47672792 Points: 54 # Comments: 7",
+      "source": "Hacker News",
+      "published": "2026-04-07T09:53:34+00:00",
+      "link": "https://github.com/milla-jovovich/mempalace"
+    },
+    {
       "title": "Anthropic signs multi-gigawatt TPU deal with Google and Broadcom",
       "summary": "Anthropic has signed a deal with Google and Broadcom for multiple gigawatts of TPU computing capacity, set to come online starting in 2027. The article Anthropic signs multi-gigawatt TPU deal with Google and Broadcom appeared first on The Decoder.",
       "source": "The Decoder",
@@ -227,14 +276,14 @@ const FEED_DATA = {
     },
     {
       "title": "The back story behind the first \"$1.8B\" dollar \"AI Company\"",
-      "summary": "Article URL: https://garymarcus.substack.com/p/the-back-story-behind-the-first-18 Comments URL: https://news.ycombinator.com/item?id=47668658 Points: 65 # Comments: 9",
+      "summary": "Article URL: https://garymarcus.substack.com/p/the-back-story-behind-the-first-18 Comments URL: https://news.ycombinator.com/item?id=47668658 Points: 68 # Comments: 9",
       "source": "Hacker News",
       "published": "2026-04-06T23:16:27+00:00",
       "link": "https://garymarcus.substack.com/p/the-back-story-behind-the-first-18"
     },
     {
       "title": "Bernie Sanders: \"AI Is a Threat to Everything the American People Hold Dear\"",
-      "summary": "Article URL: https://www.wsj.com/opinion/ai-is-a-threat-to-everything-the-american-people-hold-dear-a3286459 Comments URL: https://news.ycombinator.com/item?id=47667798 Points: 75 # Comments: 63",
+      "summary": "Article URL: https://www.wsj.com/opinion/ai-is-a-threat-to-everything-the-american-people-hold-dear-a3286459 Comments URL: https://news.ycombinator.com/item?id=47667798 Points: 75 # Comments: 65",
       "source": "Hacker News",
       "published": "2026-04-06T21:57:54+00:00",
       "link": "https://www.wsj.com/opinion/ai-is-a-threat-to-everything-the-american-people-hold-dear-a3286459"
@@ -248,21 +297,21 @@ const FEED_DATA = {
     },
     {
       "title": "Show HN: Hippo, biologically inspired memory for AI agents",
-      "summary": "Article URL: https://github.com/kitfunso/hippo-memory Comments URL: https://news.ycombinator.com/item?id=47667672 Points: 119 # Comments: 23",
+      "summary": "Article URL: https://github.com/kitfunso/hippo-memory Comments URL: https://news.ycombinator.com/item?id=47667672 Points: 121 # Comments: 24",
       "source": "Hacker News",
       "published": "2026-04-06T21:49:34+00:00",
       "link": "https://github.com/kitfunso/hippo-memory"
     },
     {
       "title": "Wikipedia's AI agent row likely just the beginning of the bot-ocalypse",
-      "summary": "Article URL: https://www.malwarebytes.com/blog/ai/2026/04/wikipedias-ai-agent-row-likely-just-the-beginning-of-the-bot-ocalypse Comments URL: https://news.ycombinator.com/item?id=47665902 Points: 65 # Comments: 86",
+      "summary": "Article URL: https://www.malwarebytes.com/blog/ai/2026/04/wikipedias-ai-agent-row-likely-just-the-beginning-of-the-bot-ocalypse Comments URL: https://news.ycombinator.com/item?id=47665902 Points: 68 # Comments: 91",
       "source": "Hacker News",
       "published": "2026-04-06T19:41:39+00:00",
       "link": "https://www.malwarebytes.com/blog/ai/2026/04/wikipedias-ai-agent-row-likely-just-the-beginning-of-the-bot-ocalypse"
     },
     {
       "title": "AI helps add 10k more photos to OldNYC",
-      "summary": "Article URL: https://www.danvk.org/2026/03/08/oldnyc-updates.html Comments URL: https://news.ycombinator.com/item?id=47664836 Points: 106 # Comments: 36",
+      "summary": "Article URL: https://www.danvk.org/2026/03/08/oldnyc-updates.html Comments URL: https://news.ycombinator.com/item?id=47664836 Points: 134 # Comments: 45",
       "source": "Hacker News",
       "published": "2026-04-06T18:24:32+00:00",
       "link": "https://www.danvk.org/2026/03/08/oldnyc-updates.html"
@@ -283,7 +332,7 @@ const FEED_DATA = {
     },
     {
       "title": "Intelligent people are better judges of the intelligence of others",
-      "summary": "https://www.sciencedirect.com/science/article/pii/S016028962... Comments URL: https://news.ycombinator.com/item?id=47664389 Points: 118 # Comments: 131",
+      "summary": "https://www.sciencedirect.com/science/article/pii/S016028962... Comments URL: https://news.ycombinator.com/item?id=47664389 Points: 121 # Comments: 131",
       "source": "Hacker News",
       "published": "2026-04-06T17:52:46+00:00",
       "link": "https://www.psypost.org/intelligent-people-are-better-judges-of-the-intelligence-of-others/"
@@ -311,7 +360,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI singer now occupies eleven spots on iTunes singles chart",
-      "summary": "Article URL: https://www.showbiz411.com/2026/04/05/itunes-takeover-by-fake-ai-singer-eddie-dalton-now-occupies-eleven-spots-on-chart-despite-not-being-human-or-real-exclusive Comments URL: https://news.ycombinator.com/item?id=47662596 Points: 237 # Comments: 369",
+      "summary": "Article URL: https://www.showbiz411.com/2026/04/05/itunes-takeover-by-fake-ai-singer-eddie-dalton-now-occupies-eleven-spots-on-chart-despite-not-being-human-or-real-exclusive Comments URL: https://news.ycombinator.com/item?id=47662596 Points: 240 # Comments: 373",
       "source": "Hacker News",
       "published": "2026-04-06T15:57:07+00:00",
       "link": "https://www.showbiz411.com/2026/04/05/itunes-takeover-by-fake-ai-singer-eddie-dalton-now-occupies-eleven-spots-on-chart-despite-not-being-human-or-real-exclusive"
@@ -353,7 +402,7 @@ const FEED_DATA = {
     },
     {
       "title": "The Intelligence Failure in Iran",
-      "summary": "Article URL: https://www.theatlantic.com/national-security/2026/04/iran-war-intelligence-failure-trump/686694/ Comments URL: https://news.ycombinator.com/item?id=47659461 Points: 68 # Comments: 86",
+      "summary": "Article URL: https://www.theatlantic.com/national-security/2026/04/iran-war-intelligence-failure-trump/686694/ Comments URL: https://news.ycombinator.com/item?id=47659461 Points: 68 # Comments: 85",
       "source": "Hacker News",
       "published": "2026-04-06T11:21:35+00:00",
       "link": "https://www.theatlantic.com/national-security/2026/04/iran-war-intelligence-failure-trump/686694/"
@@ -437,7 +486,7 @@ const FEED_DATA = {
     },
     {
       "title": "UK intelligence censored report on global warming and homeland security",
-      "summary": "Article URL: https://theoryofchange1.substack.com/p/from-global-warming-to-homeland-security Comments URL: https://news.ycombinator.com/item?id=47653816 Points: 100 # Comments: 59",
+      "summary": "Article URL: https://theoryofchange1.substack.com/p/from-global-warming-to-homeland-security Comments URL: https://news.ycombinator.com/item?id=47653816 Points: 101 # Comments: 59",
       "source": "Hacker News",
       "published": "2026-04-05T20:59:52+00:00",
       "link": "https://theoryofchange1.substack.com/p/from-global-warming-to-homeland-security"
@@ -1351,55 +1400,6 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-03-31T15:00:00+00:00",
       "link": "https://techcrunch.com/2026/03/31/nomadic-raises-8-4-million-to-wrangle-the-data-pouring-off-avs/"
-    },
-    {
-      "title": "Art schools are being torn apart by AI",
-      "summary": "When my baby brother, a 3D modelling and animation student, talks to me about his projects and studies, the pride I usually feel is becoming increasingly tainted by a growing sense of dread.",
-      "source": "The Verge",
-      "published": "2026-03-31T15:00:00+00:00",
-      "link": "https://www.theverge.com/tech/903954/art-schools-generative-ai-education-creative-jobs"
-    },
-    {
-      "title": "Shifting to AI model customization is an architectural imperative",
-      "summary": "In the early days of large language models (LLMs), we grew accustomed to massive 10x jumps in reasoning and coding capability with every new model iteration. Today, those jumps have flattened into incremental gains.",
-      "source": "MIT Tech Review",
-      "published": "2026-03-31T14:12:50+00:00",
-      "link": "https://www.technologyreview.com/2026/03/31/1134762/shifting-to-ai-model-customization-is-an-architectural-imperative/"
-    },
-    {
-      "title": "Exclusive: Runway launches $10M fund, Builders program to support early-stage AI startups",
-      "summary": "Runway is launching a $10 million fund and startup program to back companies building with its AI video models, as it pushes toward interactive, real-time “video intelligence” applications.",
-      "source": "TechCrunch",
-      "published": "2026-03-31T14:00:00+00:00",
-      "link": "https://techcrunch.com/2026/03/31/exclusive-runway-launches-10m-fund-builders-program-to-support-early-stage-ai-startups/"
-    },
-    {
-      "title": "With its new app store, Ring bets on AI to go beyond home security",
-      "summary": "Ring's app store will allow the company to target broader use cases beyond security, like elder care or business needs.",
-      "source": "TechCrunch",
-      "published": "2026-03-31T13:00:00+00:00",
-      "link": "https://techcrunch.com/2026/03/31/ring-app-store-bets-on-ai-to-go-beyond-home-security/"
-    },
-    {
-      "title": "AI Has Flooded All the Weather Apps",
-      "summary": "Weather forecasting has gotten a big boost from machine learning. How that translates into what users see can vary.",
-      "source": "Wired",
-      "published": "2026-03-31T13:00:00+00:00",
-      "link": "https://www.wired.com/story/ai-has-flooded-all-the-weather-apps/"
-    },
-    {
-      "title": "You can order Grubhub and Uber Eats ‘conversationally’ with Alexa Plus",
-      "summary": "Amazon is giving you a new way to order food through Grubhub and Uber Eats with Alexa without having to endure an awkward exchange just to add fries. Amazon said the entire process is meant to be conversational, building your order in a similar manner to ordering in a restaurant.",
-      "source": "The Verge",
-      "published": "2026-03-31T13:00:00+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/903938/alexa-plus-order-food-grubhub-uber-eats"
-    },
-    {
-      "title": "Qwen3.5-Omni learned to write code from spoken instructions and video without anyone training it to",
-      "summary": "Alibaba has released Qwen3.5-Omni, an omnimodal AI model that processes text, images, audio, and video. It claims to beat Gemini 3.1 Pro on audio tasks and picked up an unexpected trick along the way: writing code from spoken instructions and video input.",
-      "source": "The Decoder",
-      "published": "2026-03-31T12:23:53+00:00",
-      "link": "https://the-decoder.com/qwen3-5-omni-learned-to-write-code-from-spoken-instructions-and-video-without-anyone-training-it-to/"
     }
   ]
 };
