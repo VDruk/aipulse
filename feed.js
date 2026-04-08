@@ -1,6 +1,13 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-04-07T23:05:54.142121+00:00",
+  "lastUpdated": "2026-04-08T06:11:59.167269+00:00",
   "items": [
+    {
+      "title": "Google quietly launched an AI dictation app that works offline",
+      "summary": "Google's new offline-first dictation app uses Gemma AI models to take on the apps like Wispr Flow.",
+      "source": "TechCrunch",
+      "published": "2026-04-08T05:40:19+00:00",
+      "link": "https://techcrunch.com/2026/04/07/google-quietly-releases-an-offline-first-ai-dictation-app-on-ios/"
+    },
     {
       "title": "I can’t help rooting for tiny open source AI model maker Arcee",
       "summary": "Arcee is a tiny 26-person U.S. startup that built a high-performing, massive, open source LLM.",
@@ -252,13 +259,6 @@ const FEED_DATA = {
       "source": "Hacker News",
       "published": "2026-04-06T19:41:39+00:00",
       "link": "https://www.malwarebytes.com/blog/ai/2026/04/wikipedias-ai-agent-row-likely-just-the-beginning-of-the-bot-ocalypse"
-    },
-    {
-      "title": "Google quietly launched an AI dictation app that works offline",
-      "summary": "Google's new offline-first dictation app uses Gemma AI models to take on the apps like Wispr Flow.",
-      "source": "TechCrunch",
-      "published": "2026-04-06T18:54:33+00:00",
-      "link": "https://techcrunch.com/2026/04/06/google-quietly-releases-an-offline-first-ai-dictation-app-on-ios/"
     },
     {
       "title": "AI helps add 10k more photos to OldNYC",
