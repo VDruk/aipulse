@@ -1,6 +1,48 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-04-08T16:44:35.497019+00:00",
+  "lastUpdated": "2026-04-08T20:03:01.930399+00:00",
   "items": [
+    {
+      "title": "Meta’s New AI Model Gives Mark Zuckerberg a Seat at the Big Kid’s Table",
+      "summary": "Muse Spark is Meta’s first model since its AI reboot, and the benchmarks suggest formidable performance.",
+      "source": "Wired",
+      "published": "2026-04-08T18:51:09+00:00",
+      "link": "https://www.wired.com/story/muse-spark-meta-open-source-closed-source/"
+    },
+    {
+      "title": "Tubi is the first streamer to launch a native app within ChatGPT",
+      "summary": "Tubi becomes the first streaming service to offer an app integration within ChatGPT, the AI chatbot that millions of users turn to for answers.",
+      "source": "TechCrunch",
+      "published": "2026-04-08T18:23:06+00:00",
+      "link": "https://techcrunch.com/2026/04/08/tubi-is-the-first-streamer-to-launch-a-native-app-within-chatgpt/"
+    },
+    {
+      "title": "Meta's Muse Spark is its first frontier model and its first without open weights",
+      "summary": "Meta Superintelligence Labs ships Muse Spark, its first frontier model and Meta's first without open weights. Independent testing shows it closing the gap to OpenAI, Anthropic, and Google, but the competition isn't standing still.",
+      "source": "The Decoder",
+      "published": "2026-04-08T18:00:03+00:00",
+      "link": "https://the-decoder.com/metas-muse-spark-is-its-first-frontier-model-and-its-first-without-open-weights/"
+    },
+    {
+      "title": "The US Army Is Building Its Own Chatbot for Combat",
+      "summary": "The AI system, trained on real military data, is meant to give soldiers mission-critical information.",
+      "source": "Wired",
+      "published": "2026-04-08T18:00:00+00:00",
+      "link": "https://www.wired.com/story/army-developing-ai-system-victor-chatbot-soldiers/"
+    },
+    {
+      "title": "5 Burning Questions About Elon Musk’s Terafab Chip Partnership with Intel",
+      "summary": "Intel’s role in Elon Musk’s ambitious chip venture is still murky, raising questions about what the partnership actually entails—and whether it can work at all.",
+      "source": "Wired",
+      "published": "2026-04-08T17:13:33+00:00",
+      "link": "https://www.wired.com/story/5-burning-questions-about-elon-musks-terafab-chip-partnership-with-intel/"
+    },
+    {
+      "title": "Anthropic’s New Product Aims to Handle the Hard Part of Building AI Agents",
+      "summary": "Amid rapid enterprise growth, Anthropic is trying to lower the barrier to entry for businesses to build AI agents with Claude.",
+      "source": "Wired",
+      "published": "2026-04-08T17:00:00+00:00",
+      "link": "https://www.wired.com/story/anthropic-launches-claude-managed-agents/"
+    },
     {
       "title": "Stability AI launches Brand Studio for brand-consistent image generation",
       "summary": "Stability AI is going commercial: The new \"Brand Studio\" lets creative teams generate AI visuals that match their brand identity, using custom-trained models, automated production workflows, and precision image editing tools.",
@@ -136,14 +178,14 @@ const FEED_DATA = {
     },
     {
       "title": "LLM scraper bots are overloading acme.com's HTTPS server",
-      "summary": "Article URL: http://acme.com/updates/archive/229.html Comments URL: https://news.ycombinator.com/item?id=47684506 Points: 61 # Comments: 59",
+      "summary": "Article URL: http://acme.com/updates/archive/229.html Comments URL: https://news.ycombinator.com/item?id=47684506 Points: 63 # Comments: 60",
       "source": "Hacker News",
       "published": "2026-04-08T03:02:56+00:00",
       "link": "http://acme.com/updates/archive/229.html"
     },
     {
       "title": "OpenAI says its new model GPT-2 is too dangerous to release (2019)",
-      "summary": "Article URL: https://slate.com/technology/2019/02/openai-gpt2-text-generating-algorithm-ai-dangerous.html Comments URL: https://news.ycombinator.com/item?id=47684326 Points: 361 # Comments: 107",
+      "summary": "Article URL: https://slate.com/technology/2019/02/openai-gpt2-text-generating-algorithm-ai-dangerous.html Comments URL: https://news.ycombinator.com/item?id=47684326 Points: 370 # Comments: 112",
       "source": "Hacker News",
       "published": "2026-04-08T02:41:12+00:00",
       "link": "https://slate.com/technology/2019/02/openai-gpt2-text-generating-algorithm-ai-dangerous.html"
@@ -234,7 +276,7 @@ const FEED_DATA = {
     },
     {
       "title": "Taste in the age of AI and LLMs",
-      "summary": "Article URL: https://rajnandan.com/posts/taste-in-the-age-of-ai-and-llms/ Comments URL: https://news.ycombinator.com/item?id=47677241 Points: 261 # Comments: 201",
+      "summary": "Article URL: https://rajnandan.com/posts/taste-in-the-age-of-ai-and-llms/ Comments URL: https://news.ycombinator.com/item?id=47677241 Points: 262 # Comments: 202",
       "source": "Hacker News",
       "published": "2026-04-07T15:54:16+00:00",
       "link": "https://rajnandan.com/posts/taste-in-the-age-of-ai-and-llms/"
@@ -325,7 +367,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI may be making us think and write more alike",
-      "summary": "Article URL: https://dornsife.usc.edu/news/stories/ai-may-be-making-us-think-and-write-more-alike/ Comments URL: https://news.ycombinator.com/item?id=47673541 Points: 226 # Comments: 239",
+      "summary": "Article URL: https://dornsife.usc.edu/news/stories/ai-may-be-making-us-think-and-write-more-alike/ Comments URL: https://news.ycombinator.com/item?id=47673541 Points: 227 # Comments: 242",
       "source": "Hacker News",
       "published": "2026-04-07T11:29:02+00:00",
       "link": "https://dornsife.usc.edu/news/stories/ai-may-be-making-us-think-and-write-more-alike/"
@@ -374,7 +416,7 @@ const FEED_DATA = {
     },
     {
       "title": "The back story behind the first \"$1.8B\" dollar \"AI Company\"",
-      "summary": "Article URL: https://garymarcus.substack.com/p/the-back-story-behind-the-first-18 Comments URL: https://news.ycombinator.com/item?id=47668658 Points: 68 # Comments: 9",
+      "summary": "Article URL: https://garymarcus.substack.com/p/the-back-story-behind-the-first-18 Comments URL: https://news.ycombinator.com/item?id=47668658 Points: 69 # Comments: 9",
       "source": "Hacker News",
       "published": "2026-04-06T23:16:27+00:00",
       "link": "https://garymarcus.substack.com/p/the-back-story-behind-the-first-18"
@@ -395,7 +437,7 @@ const FEED_DATA = {
     },
     {
       "title": "Show HN: Hippo, biologically inspired memory for AI agents",
-      "summary": "Article URL: https://github.com/kitfunso/hippo-memory Comments URL: https://news.ycombinator.com/item?id=47667672 Points: 123 # Comments: 24",
+      "summary": "Article URL: https://github.com/kitfunso/hippo-memory Comments URL: https://news.ycombinator.com/item?id=47667672 Points: 127 # Comments: 25",
       "source": "Hacker News",
       "published": "2026-04-06T21:49:34+00:00",
       "link": "https://github.com/kitfunso/hippo-memory"
@@ -409,7 +451,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI helps add 10k more photos to OldNYC",
-      "summary": "Article URL: https://www.danvk.org/2026/03/08/oldnyc-updates.html Comments URL: https://news.ycombinator.com/item?id=47664836 Points: 138 # Comments: 46",
+      "summary": "Article URL: https://www.danvk.org/2026/03/08/oldnyc-updates.html Comments URL: https://news.ycombinator.com/item?id=47664836 Points: 141 # Comments: 47",
       "source": "Hacker News",
       "published": "2026-04-06T18:24:32+00:00",
       "link": "https://www.danvk.org/2026/03/08/oldnyc-updates.html"
@@ -430,7 +472,7 @@ const FEED_DATA = {
     },
     {
       "title": "Intelligent people are better judges of the intelligence of others",
-      "summary": "https://www.sciencedirect.com/science/article/pii/S016028962... Comments URL: https://news.ycombinator.com/item?id=47664389 Points: 121 # Comments: 132",
+      "summary": "https://www.sciencedirect.com/science/article/pii/S016028962... Comments URL: https://news.ycombinator.com/item?id=47664389 Points: 121 # Comments: 133",
       "source": "Hacker News",
       "published": "2026-04-06T17:52:46+00:00",
       "link": "https://www.psypost.org/intelligent-people-are-better-judges-of-the-intelligence-of-others/"
@@ -458,7 +500,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI singer now occupies eleven spots on iTunes singles chart",
-      "summary": "Article URL: https://www.showbiz411.com/2026/04/05/itunes-takeover-by-fake-ai-singer-eddie-dalton-now-occupies-eleven-spots-on-chart-despite-not-being-human-or-real-exclusive Comments URL: https://news.ycombinator.com/item?id=47662596 Points: 240 # Comments: 376",
+      "summary": "Article URL: https://www.showbiz411.com/2026/04/05/itunes-takeover-by-fake-ai-singer-eddie-dalton-now-occupies-eleven-spots-on-chart-despite-not-being-human-or-real-exclusive Comments URL: https://news.ycombinator.com/item?id=47662596 Points: 241 # Comments: 376",
       "source": "Hacker News",
       "published": "2026-04-06T15:57:07+00:00",
       "link": "https://www.showbiz411.com/2026/04/05/itunes-takeover-by-fake-ai-singer-eddie-dalton-now-occupies-eleven-spots-on-chart-despite-not-being-human-or-real-exclusive"
@@ -1358,48 +1400,6 @@ const FEED_DATA = {
       "source": "Wired",
       "published": "2026-04-01T10:30:00+00:00",
       "link": "https://www.wired.com/story/watching-a-75-hour-movie-in-theaters-made-me-more-hopeful-about-our-collective-brainrot/"
-    },
-    {
-      "title": "Watching a 7.5-Hour Movie in Theaters Made Me More Hopeful About Our Collective Brain Rot",
-      "summary": "Sátántango is considered a holy rite for hardcore cinephiles. It also helped me confront my dwindling attention span.",
-      "source": "Wired",
-      "published": "2026-04-01T10:30:00+00:00",
-      "link": "https://www.wired.com/story/watching-a-75-hour-movie-in-theaters-made-me-more-hopeful-about-our-collective-brainrot/"
-    },
-    {
-      "title": "Hershey applies AI across its supply chain operations",
-      "summary": "Artificial intelligence is moving beyond software and further into the physical side of business. Companies in food production and logistics are starting to use data systems to support day-to-day decisions, not long-term planning.",
-      "source": "AI News",
-      "published": "2026-04-01T10:00:00+00:00",
-      "link": "https://www.artificialintelligence-news.com/news/hershey-applies-ai-across-its-supply-chain-operations/"
-    },
-    {
-      "title": "I Asked ChatGPT What WIRED’s Reviewers Recommend. Its Answers Were All Wrong",
-      "summary": "Want to know what our reviewers have actually tested and picked as the best TVs, headphones, and laptops? Ask ChatGPT, and it'll give you the wrong answers.",
-      "source": "Wired",
-      "published": "2026-04-01T09:30:00+00:00",
-      "link": "https://www.wired.com/story/i-asked-chatgpt-what-wired-reviewers-recommend-its-answers-were-all-wrong/"
-    },
-    {
-      "title": "I Asked ChatGPT What WIRED’s Reviewers Recommend—Its Answers Were All Wrong",
-      "summary": "Want to know what our reviewers have actually tested and picked as the best TVs, headphones, and laptops? Ask ChatGPT, and it'll give you the wrong answers.",
-      "source": "Wired",
-      "published": "2026-04-01T09:30:00+00:00",
-      "link": "https://www.wired.com/story/i-asked-chatgpt-what-wired-reviewers-recommend-its-answers-were-all-wrong/"
-    },
-    {
-      "title": "OpenAI officially confirms mega-funding round and ChatGPT super app",
-      "summary": "OpenAI closes a $122 billion funding round at an $852 billion valuation, officially unveils the ChatGPT Super App, and signals a hard pivot toward enterprise. The article OpenAI officially confirms mega-funding round and ChatGPT super app appeared first on The Decoder.",
-      "source": "The Decoder",
-      "published": "2026-04-01T09:02:46+00:00",
-      "link": "https://the-decoder.com/openai-officially-confirms-mega-funding-round-and-chatgpt-super-app/"
-    },
-    {
-      "title": "Mercor says it was hit by cyberattack tied to compromise of open source LiteLLM project",
-      "summary": "The AI recruiting startup confirmed a security incident after an extortion hacking crew took credit for stealing data from the company's systems.",
-      "source": "TechCrunch",
-      "published": "2026-04-01T01:42:59+00:00",
-      "link": "https://techcrunch.com/2026/03/31/mercor-says-it-was-hit-by-cyberattack-tied-to-compromise-of-open-source-litellm-project/"
     }
   ]
 };
