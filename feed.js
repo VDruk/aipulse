@@ -1,6 +1,41 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-04-08T20:03:01.930399+00:00",
+  "lastUpdated": "2026-04-08T23:09:30.143705+00:00",
   "items": [
+    {
+      "title": "Anthropic Supply-Chain Risk Label Should Stay in Place, Appeals Court Says",
+      "summary": "The AI company now faces conflicting rulings in its fight over how Claude can be used by the US military.",
+      "source": "Wired",
+      "published": "2026-04-08T22:27:26+00:00",
+      "link": "https://www.wired.com/story/anthropic-appeals-court-ruling/"
+    },
+    {
+      "title": "AI agent Poke makes setting up automations as easy as sending a text",
+      "summary": "Poke brings AI agents to everyday users via text message by handling tasks and automations without complex setup, apps, or technical know-how.",
+      "source": "TechCrunch",
+      "published": "2026-04-08T21:05:13+00:00",
+      "link": "https://techcrunch.com/2026/04/08/poke-makes-ai-agents-as-easy-as-sending-a-text/"
+    },
+    {
+      "title": "OpenAI made economic proposals — here’s what DC thinks of them",
+      "summary": "Happy ceasefire day and welcome to Regulator, a newsletter for Verge subscribers about Big Tech's rocky journey through the world of politics.",
+      "source": "The Verge",
+      "published": "2026-04-08T20:14:00+00:00",
+      "link": "https://www.theverge.com/column/908880/openai-made-economic-proposals-heres-what-dc-thinks-of-them"
+    },
+    {
+      "title": "The AI Great Leap Forward",
+      "summary": "Article URL: https://leehanchung.github.io/blogs/2026/04/05/the-ai-great-leap-forward/ Comments URL: https://news.ycombinator.com/item?id=47695647 Points: 67 # Comments: 28",
+      "source": "Hacker News",
+      "published": "2026-04-08T20:10:51+00:00",
+      "link": "https://leehanchung.github.io/blogs/2026/04/05/the-ai-great-leap-forward/"
+    },
+    {
+      "title": "AWS boss explains why investing billions in both Anthropic and OpenAI is an OK conflict",
+      "summary": "AWS has an ingrained culture of handling competition, he explained, because the cloud giant also competes with its partners.",
+      "source": "TechCrunch",
+      "published": "2026-04-08T20:09:14+00:00",
+      "link": "https://techcrunch.com/2026/04/08/aws-boss-explains-why-investing-billions-in-both-anthropic-and-openai-is-an-ok-conflict/"
+    },
     {
       "title": "Meta’s New AI Model Gives Mark Zuckerberg a Seat at the Big Kid’s Table",
       "summary": "Muse Spark is Meta’s first model since its AI reboot, and the benchmarks suggest formidable performance.",
@@ -178,14 +213,14 @@ const FEED_DATA = {
     },
     {
       "title": "LLM scraper bots are overloading acme.com's HTTPS server",
-      "summary": "Article URL: http://acme.com/updates/archive/229.html Comments URL: https://news.ycombinator.com/item?id=47684506 Points: 63 # Comments: 60",
+      "summary": "Article URL: http://acme.com/updates/archive/229.html Comments URL: https://news.ycombinator.com/item?id=47684506 Points: 63 # Comments: 61",
       "source": "Hacker News",
       "published": "2026-04-08T03:02:56+00:00",
       "link": "http://acme.com/updates/archive/229.html"
     },
     {
       "title": "OpenAI says its new model GPT-2 is too dangerous to release (2019)",
-      "summary": "Article URL: https://slate.com/technology/2019/02/openai-gpt2-text-generating-algorithm-ai-dangerous.html Comments URL: https://news.ycombinator.com/item?id=47684326 Points: 370 # Comments: 112",
+      "summary": "Article URL: https://slate.com/technology/2019/02/openai-gpt2-text-generating-algorithm-ai-dangerous.html Comments URL: https://news.ycombinator.com/item?id=47684326 Points: 375 # Comments: 113",
       "source": "Hacker News",
       "published": "2026-04-08T02:41:12+00:00",
       "link": "https://slate.com/technology/2019/02/openai-gpt2-text-generating-algorithm-ai-dangerous.html"
@@ -276,7 +311,7 @@ const FEED_DATA = {
     },
     {
       "title": "Taste in the age of AI and LLMs",
-      "summary": "Article URL: https://rajnandan.com/posts/taste-in-the-age-of-ai-and-llms/ Comments URL: https://news.ycombinator.com/item?id=47677241 Points: 262 # Comments: 202",
+      "summary": "Article URL: https://rajnandan.com/posts/taste-in-the-age-of-ai-and-llms/ Comments URL: https://news.ycombinator.com/item?id=47677241 Points: 262 # Comments: 204",
       "source": "Hacker News",
       "published": "2026-04-07T15:54:16+00:00",
       "link": "https://rajnandan.com/posts/taste-in-the-age-of-ai-and-llms/"
@@ -451,7 +486,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI helps add 10k more photos to OldNYC",
-      "summary": "Article URL: https://www.danvk.org/2026/03/08/oldnyc-updates.html Comments URL: https://news.ycombinator.com/item?id=47664836 Points: 141 # Comments: 47",
+      "summary": "Article URL: https://www.danvk.org/2026/03/08/oldnyc-updates.html Comments URL: https://news.ycombinator.com/item?id=47664836 Points: 141 # Comments: 50",
       "source": "Hacker News",
       "published": "2026-04-06T18:24:32+00:00",
       "link": "https://www.danvk.org/2026/03/08/oldnyc-updates.html"
@@ -500,7 +535,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI singer now occupies eleven spots on iTunes singles chart",
-      "summary": "Article URL: https://www.showbiz411.com/2026/04/05/itunes-takeover-by-fake-ai-singer-eddie-dalton-now-occupies-eleven-spots-on-chart-despite-not-being-human-or-real-exclusive Comments URL: https://news.ycombinator.com/item?id=47662596 Points: 241 # Comments: 376",
+      "summary": "Article URL: https://www.showbiz411.com/2026/04/05/itunes-takeover-by-fake-ai-singer-eddie-dalton-now-occupies-eleven-spots-on-chart-despite-not-being-human-or-real-exclusive Comments URL: https://news.ycombinator.com/item?id=47662596 Points: 242 # Comments: 376",
       "source": "Hacker News",
       "published": "2026-04-06T15:57:07+00:00",
       "link": "https://www.showbiz411.com/2026/04/05/itunes-takeover-by-fake-ai-singer-eddie-dalton-now-occupies-eleven-spots-on-chart-despite-not-being-human-or-real-exclusive"
@@ -1365,41 +1400,6 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-04-01T12:07:51+00:00",
       "link": "https://the-decoder.com/eu-bars-ai-generated-content-from-official-communications-according-to-politico/"
-    },
-    {
-      "title": "Perplexity AI sued over alleged data sharing with Meta and Google",
-      "summary": "Perplexity AI is facing a class-action lawsuit. The company is accused of sharing personal user data from chats with Meta and Google, Bloomberg reports.",
-      "source": "The Decoder",
-      "published": "2026-04-01T12:02:51+00:00",
-      "link": "https://the-decoder.com/perplexity-ai-sued-over-alleged-data-sharing-with-meta-and-google/"
-    },
-    {
-      "title": "DeepL’s Borderless Business report reveals 83% of enterprises are still behind on language AI",
-      "summary": "AI is everywhere in the enterprise. The translation workflow often is not.",
-      "source": "AI News",
-      "published": "2026-04-01T12:00:00+00:00",
-      "link": "https://www.artificialintelligence-news.com/news/deepls-borderless-business-report-reveals-83-of-enterprises-are-still-behind-on-language-ai/"
-    },
-    {
-      "title": "The gig workers who are training humanoid robots at home",
-      "summary": "When Zeus, a medical student living in a hilltop city in central Nigeria, returns to his studio apartment from a long day at the hospital, he turns on his ring light, straps his iPhone to his forehead, and starts recording himself.",
-      "source": "MIT Tech Review",
-      "published": "2026-04-01T11:00:00+00:00",
-      "link": "https://www.technologyreview.com/2026/04/01/1134863/humanoid-data-training-gig-economy-2026-breakthrough-technology/"
-    },
-    {
-      "title": "Baidu’s robotaxis froze in traffic, creating chaos",
-      "summary": "Numerous robotaxis operated by Chinese tech giant Baidu froze in a major city on Tuesday, reportedly trapping passengers inside, stranding them on highways, and causing at least one accident in snarled traffic.",
-      "source": "The Verge",
-      "published": "2026-04-01T10:39:52+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/905012/baidu-apollo-robotaxi-freeze-china"
-    },
-    {
-      "title": "I Watched a 7.5-Hour Movie in Theaters to Confront My Dwindling Attention Span",
-      "summary": "Sátántango is considered a holy rite for hardcore cinephiles. In a packed screening with no cellphones in sight, it also offered a salve for brain rot.",
-      "source": "Wired",
-      "published": "2026-04-01T10:30:00+00:00",
-      "link": "https://www.wired.com/story/watching-a-75-hour-movie-in-theaters-made-me-more-hopeful-about-our-collective-brainrot/"
     }
   ]
 };
