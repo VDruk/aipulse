@@ -1,12 +1,33 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-04-08T23:09:30.143705+00:00",
+  "lastUpdated": "2026-04-09T06:11:37.438565+00:00",
   "items": [
+    {
+      "title": "Gemini gets notebooks to help you organize projects",
+      "summary": "Google's Gemini is getting a feature called \"notebooks\" to help you organize things about certain topics in a single place while using the AI chatbot, the company announced on Wednesday.",
+      "source": "The Verge",
+      "published": "2026-04-09T00:06:12+00:00",
+      "link": "https://www.theverge.com/tech/909031/google-gemini-notebooks-notebooklm"
+    },
+    {
+      "title": "Conflicting Rulings Leave Anthropic in ‘Supply-Chain Risk’ Limbo",
+      "summary": "A US appeals court ruling is at odds with a separate, lower court decision from March, leaving uncertainty about if and how the US military can use the AI company's Claude model.",
+      "source": "Wired",
+      "published": "2026-04-08T22:27:26+00:00",
+      "link": "https://www.wired.com/story/anthropic-appeals-court-ruling/"
+    },
     {
       "title": "Anthropic Supply-Chain Risk Label Should Stay in Place, Appeals Court Says",
       "summary": "The AI company now faces conflicting rulings in its fight over how Claude can be used by the US military.",
       "source": "Wired",
       "published": "2026-04-08T22:27:26+00:00",
       "link": "https://www.wired.com/story/anthropic-appeals-court-ruling/"
+    },
+    {
+      "title": "Poke makes using AI agents as easy as sending a text",
+      "summary": "Poke brings AI agents to everyday users via text message by handling tasks and automations without complex setup, apps, or technical know-how.",
+      "source": "TechCrunch",
+      "published": "2026-04-08T21:05:13+00:00",
+      "link": "https://techcrunch.com/2026/04/08/poke-makes-ai-agents-as-easy-as-sending-a-text/"
     },
     {
       "title": "AI agent Poke makes setting up automations as easy as sending a text",
@@ -24,7 +45,7 @@ const FEED_DATA = {
     },
     {
       "title": "The AI Great Leap Forward",
-      "summary": "Article URL: https://leehanchung.github.io/blogs/2026/04/05/the-ai-great-leap-forward/ Comments URL: https://news.ycombinator.com/item?id=47695647 Points: 67 # Comments: 28",
+      "summary": "Article URL: https://leehanchung.github.io/blogs/2026/04/05/the-ai-great-leap-forward/ Comments URL: https://news.ycombinator.com/item?id=47695647 Points: 89 # Comments: 44",
       "source": "Hacker News",
       "published": "2026-04-08T20:10:51+00:00",
       "link": "https://leehanchung.github.io/blogs/2026/04/05/the-ai-great-leap-forward/"
@@ -213,14 +234,14 @@ const FEED_DATA = {
     },
     {
       "title": "LLM scraper bots are overloading acme.com's HTTPS server",
-      "summary": "Article URL: http://acme.com/updates/archive/229.html Comments URL: https://news.ycombinator.com/item?id=47684506 Points: 63 # Comments: 61",
+      "summary": "Article URL: http://acme.com/updates/archive/229.html Comments URL: https://news.ycombinator.com/item?id=47684506 Points: 65 # Comments: 61",
       "source": "Hacker News",
       "published": "2026-04-08T03:02:56+00:00",
       "link": "http://acme.com/updates/archive/229.html"
     },
     {
       "title": "OpenAI says its new model GPT-2 is too dangerous to release (2019)",
-      "summary": "Article URL: https://slate.com/technology/2019/02/openai-gpt2-text-generating-algorithm-ai-dangerous.html Comments URL: https://news.ycombinator.com/item?id=47684326 Points: 375 # Comments: 113",
+      "summary": "Article URL: https://slate.com/technology/2019/02/openai-gpt2-text-generating-algorithm-ai-dangerous.html Comments URL: https://news.ycombinator.com/item?id=47684326 Points: 384 # Comments: 114",
       "source": "Hacker News",
       "published": "2026-04-08T02:41:12+00:00",
       "link": "https://slate.com/technology/2019/02/openai-gpt2-text-generating-algorithm-ai-dangerous.html"
@@ -311,7 +332,7 @@ const FEED_DATA = {
     },
     {
       "title": "Taste in the age of AI and LLMs",
-      "summary": "Article URL: https://rajnandan.com/posts/taste-in-the-age-of-ai-and-llms/ Comments URL: https://news.ycombinator.com/item?id=47677241 Points: 262 # Comments: 204",
+      "summary": "Article URL: https://rajnandan.com/posts/taste-in-the-age-of-ai-and-llms/ Comments URL: https://news.ycombinator.com/item?id=47677241 Points: 263 # Comments: 206",
       "source": "Hacker News",
       "published": "2026-04-07T15:54:16+00:00",
       "link": "https://rajnandan.com/posts/taste-in-the-age-of-ai-and-llms/"
@@ -402,7 +423,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI may be making us think and write more alike",
-      "summary": "Article URL: https://dornsife.usc.edu/news/stories/ai-may-be-making-us-think-and-write-more-alike/ Comments URL: https://news.ycombinator.com/item?id=47673541 Points: 227 # Comments: 242",
+      "summary": "Article URL: https://dornsife.usc.edu/news/stories/ai-may-be-making-us-think-and-write-more-alike/ Comments URL: https://news.ycombinator.com/item?id=47673541 Points: 229 # Comments: 243",
       "source": "Hacker News",
       "published": "2026-04-07T11:29:02+00:00",
       "link": "https://dornsife.usc.edu/news/stories/ai-may-be-making-us-think-and-write-more-alike/"
@@ -430,7 +451,7 @@ const FEED_DATA = {
     },
     {
       "title": "MemPalace, the highest-scoring AI memory system ever benchmarked",
-      "summary": "Article URL: https://github.com/milla-jovovich/mempalace Comments URL: https://news.ycombinator.com/item?id=47672792 Points: 57 # Comments: 8",
+      "summary": "Article URL: https://github.com/milla-jovovich/mempalace Comments URL: https://news.ycombinator.com/item?id=47672792 Points: 59 # Comments: 11",
       "source": "Hacker News",
       "published": "2026-04-07T09:53:34+00:00",
       "link": "https://github.com/milla-jovovich/mempalace"
@@ -458,7 +479,7 @@ const FEED_DATA = {
     },
     {
       "title": "Bernie Sanders: \"AI Is a Threat to Everything the American People Hold Dear\"",
-      "summary": "Article URL: https://www.wsj.com/opinion/ai-is-a-threat-to-everything-the-american-people-hold-dear-a3286459 Comments URL: https://news.ycombinator.com/item?id=47667798 Points: 76 # Comments: 65",
+      "summary": "Article URL: https://www.wsj.com/opinion/ai-is-a-threat-to-everything-the-american-people-hold-dear-a3286459 Comments URL: https://news.ycombinator.com/item?id=47667798 Points: 76 # Comments: 67",
       "source": "Hacker News",
       "published": "2026-04-06T21:57:54+00:00",
       "link": "https://www.wsj.com/opinion/ai-is-a-threat-to-everything-the-american-people-hold-dear-a3286459"
@@ -472,14 +493,14 @@ const FEED_DATA = {
     },
     {
       "title": "Show HN: Hippo, biologically inspired memory for AI agents",
-      "summary": "Article URL: https://github.com/kitfunso/hippo-memory Comments URL: https://news.ycombinator.com/item?id=47667672 Points: 127 # Comments: 25",
+      "summary": "Article URL: https://github.com/kitfunso/hippo-memory Comments URL: https://news.ycombinator.com/item?id=47667672 Points: 127 # Comments: 26",
       "source": "Hacker News",
       "published": "2026-04-06T21:49:34+00:00",
       "link": "https://github.com/kitfunso/hippo-memory"
     },
     {
       "title": "Wikipedia's AI agent row likely just the beginning of the bot-ocalypse",
-      "summary": "Article URL: https://www.malwarebytes.com/blog/ai/2026/04/wikipedias-ai-agent-row-likely-just-the-beginning-of-the-bot-ocalypse Comments URL: https://news.ycombinator.com/item?id=47665902 Points: 69 # Comments: 91",
+      "summary": "Article URL: https://www.malwarebytes.com/blog/ai/2026/04/wikipedias-ai-agent-row-likely-just-the-beginning-of-the-bot-ocalypse Comments URL: https://news.ycombinator.com/item?id=47665902 Points: 69 # Comments: 90",
       "source": "Hacker News",
       "published": "2026-04-06T19:41:39+00:00",
       "link": "https://www.malwarebytes.com/blog/ai/2026/04/wikipedias-ai-agent-row-likely-just-the-beginning-of-the-bot-ocalypse"
@@ -507,7 +528,7 @@ const FEED_DATA = {
     },
     {
       "title": "Intelligent people are better judges of the intelligence of others",
-      "summary": "https://www.sciencedirect.com/science/article/pii/S016028962... Comments URL: https://news.ycombinator.com/item?id=47664389 Points: 121 # Comments: 133",
+      "summary": "https://www.sciencedirect.com/science/article/pii/S016028962... Comments URL: https://news.ycombinator.com/item?id=47664389 Points: 122 # Comments: 133",
       "source": "Hacker News",
       "published": "2026-04-06T17:52:46+00:00",
       "link": "https://www.psypost.org/intelligent-people-are-better-judges-of-the-intelligence-of-others/"
@@ -535,7 +556,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI singer now occupies eleven spots on iTunes singles chart",
-      "summary": "Article URL: https://www.showbiz411.com/2026/04/05/itunes-takeover-by-fake-ai-singer-eddie-dalton-now-occupies-eleven-spots-on-chart-despite-not-being-human-or-real-exclusive Comments URL: https://news.ycombinator.com/item?id=47662596 Points: 242 # Comments: 376",
+      "summary": "Article URL: https://www.showbiz411.com/2026/04/05/itunes-takeover-by-fake-ai-singer-eddie-dalton-now-occupies-eleven-spots-on-chart-despite-not-being-human-or-real-exclusive Comments URL: https://news.ycombinator.com/item?id=47662596 Points: 243 # Comments: 375",
       "source": "Hacker News",
       "published": "2026-04-06T15:57:07+00:00",
       "link": "https://www.showbiz411.com/2026/04/05/itunes-takeover-by-fake-ai-singer-eddie-dalton-now-occupies-eleven-spots-on-chart-despite-not-being-human-or-real-exclusive"
@@ -1379,27 +1400,6 @@ const FEED_DATA = {
       "source": "The Verge",
       "published": "2026-04-01T12:38:58+00:00",
       "link": "https://www.theverge.com/tech/905021/elgato-stream-deck-mcp-ai-agent-update"
-    },
-    {
-      "title": "Show HN: Baton – A desktop app for developing with AI agents",
-      "summary": "Hi,I built this because running multiple Claude Code agents across multiple IDE and terminal windows was getting messy.",
-      "source": "Hacker News",
-      "published": "2026-04-01T12:11:30+00:00",
-      "link": "https://getbaton.dev/"
-    },
-    {
-      "title": "The Download: gig workers training humanoids, and better AI benchmarks",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.",
-      "source": "MIT Tech Review",
-      "published": "2026-04-01T12:10:00+00:00",
-      "link": "https://www.technologyreview.com/2026/04/01/1134993/the-download-gig-workers-training-humanoids-better-ai-benchmarks/"
-    },
-    {
-      "title": "EU bars AI-generated content from official communications, according to Politico",
-      "summary": "Politico reports that the Commission, Parliament, and Council have barred their press teams from using fully AI-generated content. Experts see a missed opportunity.",
-      "source": "The Decoder",
-      "published": "2026-04-01T12:07:51+00:00",
-      "link": "https://the-decoder.com/eu-bars-ai-generated-content-from-official-communications-according-to-politico/"
     }
   ]
 };
