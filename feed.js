@@ -1,6 +1,62 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-04-09T16:53:32.627769+00:00",
+  "lastUpdated": "2026-04-09T20:08:03.852954+00:00",
   "items": [
+    {
+      "title": "Meta AI app climbs to No. 5 on the App Store after Muse Spark launch",
+      "summary": "The app was ranking No. 57 on the App Store just before Meta AI's new model launched.",
+      "source": "TechCrunch",
+      "published": "2026-04-09T19:10:07+00:00",
+      "link": "https://techcrunch.com/2026/04/09/meta-ai-app-climbs-to-no-5-on-the-app-store-after-muse-spark-launch/"
+    },
+    {
+      "title": "Is Anthropic limiting the release of Mythos to protect the internet — or Anthropic?",
+      "summary": "Anthropic said this week that it limited the release of its newest model, dubbed Mythos, because it is too capable of finding security exploits in software relied upon by users around the world. Are real cybersecurity concerns a cover for a bigger problem at the frontier lab?",
+      "source": "TechCrunch",
+      "published": "2026-04-09T18:50:05+00:00",
+      "link": "https://techcrunch.com/2026/04/09/is-anthropic-limiting-the-release-of-mythos-to-protect-the-internet-or-anthropic/"
+    },
+    {
+      "title": "Claude Cowork expands to all paid plans on macOS and Windows with new org controls",
+      "summary": "Anthropic's AI assistant Claude Cowork launches on all paid plans with new organizational controls and Zoom integration. The article Claude Cowork expands to all paid plans on macOS and Windows with new org controls appeared first on The Decoder.",
+      "source": "The Decoder",
+      "published": "2026-04-09T18:40:08+00:00",
+      "link": "https://the-decoder.com/claude-cowork-expands-to-all-paid-plans-on-macos-and-windows-with-new-org-controls/"
+    },
+    {
+      "title": "Google and Intel deepen AI infrastructure partnership",
+      "summary": "The two tech giants are looking to co-develop custom chips, at a time when demand for CPUs is high due to a growing global shortage.",
+      "source": "TechCrunch",
+      "published": "2026-04-09T18:27:47+00:00",
+      "link": "https://techcrunch.com/2026/04/09/google-and-intel-deepen-ai-infrastructure-partnership/"
+    },
+    {
+      "title": "OpenAI halves its Pro price to $100 for heavy Codex users, undercuts Anthropic and Google",
+      "summary": "OpenAI is restructuring its subscription tiers with a new $100-per-month Pro plan. The biggest change: significantly more Codex usage for heavy users at half the price of the old Pro tier.",
+      "source": "The Decoder",
+      "published": "2026-04-09T18:06:29+00:00",
+      "link": "https://the-decoder.com/openai-halves-its-pro-price-to-100-for-heavy-codex-users-undercuts-anthropic-and-google/"
+    },
+    {
+      "title": "The 70-Person AI Image Startup Taking on Silicon Valley's Giants",
+      "summary": "Black Forest Labs has long punched above its weight in the AI image generation space. Its next move?",
+      "source": "Wired",
+      "published": "2026-04-09T18:00:00+00:00",
+      "link": "https://www.wired.com/story/black-forest-labs-ai-image-generation/"
+    },
+    {
+      "title": "Google’s Gemini AI can answer your questions with 3D models and simulations",
+      "summary": "Google's latest upgrade for Gemini will allow the chatbot to generate interactive 3D models and simulations in response to your questions.",
+      "source": "The Verge",
+      "published": "2026-04-09T17:57:58+00:00",
+      "link": "https://www.theverge.com/tech/909391/google-gemini-ai-3d-models-simulations"
+    },
+    {
+      "title": "Sierra’s Bret Taylor says the era of clicking buttons is over",
+      "summary": "Last month, Sierra launched Ghostwriter, an agent designed to build other agents. With this “agent as a service” tool, the startup intends to replace traditional click-based web applications with natural language.",
+      "source": "TechCrunch",
+      "published": "2026-04-09T17:20:50+00:00",
+      "link": "https://techcrunch.com/2026/04/09/sierras-bret-taylor-says-the-era-of-clicking-buttons-is-over/"
+    },
     {
       "title": "Google Gemini now generates interactive visualizations you can tweak and explore right in the chat",
       "summary": "After Anthropic's Claude, Google Gemini now also generates interactive visualizations directly in the chat. The article Google Gemini now generates interactive visualizations you can tweak and explore right in the chat appeared first on The Decoder.",
@@ -17,7 +73,7 @@ const FEED_DATA = {
     },
     {
       "title": "Study found that young adults have grown less hopeful and more angry about AI",
-      "summary": "Article URL: https://www.nytimes.com/2026/04/09/style/gen-z-ai-gallup-study.html Comments URL: https://news.ycombinator.com/item?id=47704443 Points: 73 # Comments: 68",
+      "summary": "Article URL: https://www.nytimes.com/2026/04/09/style/gen-z-ai-gallup-study.html Comments URL: https://news.ycombinator.com/item?id=47704443 Points: 98 # Comments: 141",
       "source": "Hacker News",
       "published": "2026-04-09T14:44:16+00:00",
       "link": "https://www.nytimes.com/2026/04/09/style/gen-z-ai-gallup-study.html"
@@ -122,14 +178,14 @@ const FEED_DATA = {
     },
     {
       "title": "Process Manager for Autonomous AI Agents",
-      "summary": "Article URL: https://botctl.dev/ Comments URL: https://news.ycombinator.com/item?id=47699814 Points: 56 # Comments: 19",
+      "summary": "Article URL: https://botctl.dev/ Comments URL: https://news.ycombinator.com/item?id=47699814 Points: 57 # Comments: 21",
       "source": "Hacker News",
       "published": "2026-04-09T06:00:55+00:00",
       "link": "https://botctl.dev/"
     },
     {
       "title": "App Store sees 84% surge in new apps as AI coding tools take off",
-      "summary": "Article URL: https://9to5mac.com/2026/04/06/app-store-sees-84-surge-in-new-apps-as-ai-coding-tools-take-off/ Comments URL: https://news.ycombinator.com/item?id=47699086 Points: 61 # Comments: 66",
+      "summary": "Article URL: https://9to5mac.com/2026/04/06/app-store-sees-84-surge-in-new-apps-as-ai-coding-tools-take-off/ Comments URL: https://news.ycombinator.com/item?id=47699086 Points: 64 # Comments: 72",
       "source": "Hacker News",
       "published": "2026-04-09T03:51:41+00:00",
       "link": "https://9to5mac.com/2026/04/06/app-store-sees-84-surge-in-new-apps-as-ai-coding-tools-take-off/"
@@ -177,6 +233,13 @@ const FEED_DATA = {
       "link": "https://techcrunch.com/2026/04/08/poke-makes-ai-agents-as-easy-as-sending-a-text/"
     },
     {
+      "title": "AMD AI director says Claude Code is becoming dumber and lazier since update",
+      "summary": "Article URL: https://www.theregister.com/2026/04/06/anthropic_claude_code_dumber_lazier_amd_ai_director/ Comments URL: https://news.ycombinator.com/item?id=47696210 Points: 50 # Comments: 14",
+      "source": "Hacker News",
+      "published": "2026-04-08T21:01:23+00:00",
+      "link": "https://www.theregister.com/2026/04/06/anthropic_claude_code_dumber_lazier_amd_ai_director/"
+    },
+    {
       "title": "OpenAI made economic proposals — here’s what DC thinks of them",
       "summary": "Happy ceasefire day and welcome to Regulator, a newsletter for Verge subscribers about Big Tech's rocky journey through the world of politics.",
       "source": "The Verge",
@@ -185,7 +248,7 @@ const FEED_DATA = {
     },
     {
       "title": "The AI Great Leap Forward",
-      "summary": "Article URL: https://leehanchung.github.io/blogs/2026/04/05/the-ai-great-leap-forward/ Comments URL: https://news.ycombinator.com/item?id=47695647 Points: 118 # Comments: 56",
+      "summary": "Article URL: https://leehanchung.github.io/blogs/2026/04/05/the-ai-great-leap-forward/ Comments URL: https://news.ycombinator.com/item?id=47695647 Points: 120 # Comments: 59",
       "source": "Hacker News",
       "published": "2026-04-08T20:10:51+00:00",
       "link": "https://leehanchung.github.io/blogs/2026/04/05/the-ai-great-leap-forward/"
@@ -374,14 +437,14 @@ const FEED_DATA = {
     },
     {
       "title": "LLM scraper bots are overloading acme.com's HTTPS server",
-      "summary": "Article URL: http://acme.com/updates/archive/229.html Comments URL: https://news.ycombinator.com/item?id=47684506 Points: 68 # Comments: 61",
+      "summary": "Article URL: http://acme.com/updates/archive/229.html Comments URL: https://news.ycombinator.com/item?id=47684506 Points: 68 # Comments: 62",
       "source": "Hacker News",
       "published": "2026-04-08T03:02:56+00:00",
       "link": "http://acme.com/updates/archive/229.html"
     },
     {
       "title": "OpenAI says its new model GPT-2 is too dangerous to release (2019)",
-      "summary": "Article URL: https://slate.com/technology/2019/02/openai-gpt2-text-generating-algorithm-ai-dangerous.html Comments URL: https://news.ycombinator.com/item?id=47684326 Points: 387 # Comments: 115",
+      "summary": "Article URL: https://slate.com/technology/2019/02/openai-gpt2-text-generating-algorithm-ai-dangerous.html Comments URL: https://news.ycombinator.com/item?id=47684326 Points: 388 # Comments: 115",
       "source": "Hacker News",
       "published": "2026-04-08T02:41:12+00:00",
       "link": "https://slate.com/technology/2019/02/openai-gpt2-text-generating-algorithm-ai-dangerous.html"
@@ -429,18 +492,18 @@ const FEED_DATA = {
       "link": "https://www.anthropic.com/glasswing"
     },
     {
-      "title": "Anthropic debuts preview of powerful new AI model Mythos in new cybersecurity initiative",
-      "summary": "The new model will be used by a small number of high-profile companies to engage in defensive cybersecurity work.",
-      "source": "TechCrunch",
-      "published": "2026-04-07T18:00:00+00:00",
-      "link": "https://techcrunch.com/2026/04/07/anthropic-mythos-ai-model-preview-security/"
-    },
-    {
       "title": "A new Anthropic model found security problems ‘in every major operating system and web browser’",
       "summary": "Anthropic is debuting a new AI model as part of a cybersecurity partnership with Nvidia, Google, Amazon Web Services, Apple, Microsoft, and other companies.",
       "source": "The Verge",
       "published": "2026-04-07T18:00:00+00:00",
       "link": "https://www.theverge.com/ai-artificial-intelligence/908114/anthropic-project-glasswing-cybersecurity"
+    },
+    {
+      "title": "Anthropic debuts preview of powerful new AI model Mythos in new cybersecurity initiative",
+      "summary": "The new model will be used by a small number of high-profile companies to engage in defensive cybersecurity work.",
+      "source": "TechCrunch",
+      "published": "2026-04-07T18:00:00+00:00",
+      "link": "https://techcrunch.com/2026/04/07/anthropic-mythos-ai-model-preview-security/"
     },
     {
       "title": "Uber is the latest to be won over by Amazon’s AI chips",
@@ -472,7 +535,7 @@ const FEED_DATA = {
     },
     {
       "title": "Taste in the age of AI and LLMs",
-      "summary": "Article URL: https://rajnandan.com/posts/taste-in-the-age-of-ai-and-llms/ Comments URL: https://news.ycombinator.com/item?id=47677241 Points: 263 # Comments: 207",
+      "summary": "Article URL: https://rajnandan.com/posts/taste-in-the-age-of-ai-and-llms/ Comments URL: https://news.ycombinator.com/item?id=47677241 Points: 263 # Comments: 209",
       "source": "Hacker News",
       "published": "2026-04-07T15:54:16+00:00",
       "link": "https://rajnandan.com/posts/taste-in-the-age-of-ai-and-llms/"
@@ -591,7 +654,7 @@ const FEED_DATA = {
     },
     {
       "title": "MemPalace, the highest-scoring AI memory system ever benchmarked",
-      "summary": "Article URL: https://github.com/milla-jovovich/mempalace Comments URL: https://news.ycombinator.com/item?id=47672792 Points: 61 # Comments: 13",
+      "summary": "Article URL: https://github.com/milla-jovovich/mempalace Comments URL: https://news.ycombinator.com/item?id=47672792 Points: 61 # Comments: 14",
       "source": "Hacker News",
       "published": "2026-04-07T09:53:34+00:00",
       "link": "https://github.com/milla-jovovich/mempalace"
@@ -619,7 +682,7 @@ const FEED_DATA = {
     },
     {
       "title": "Bernie Sanders: \"AI Is a Threat to Everything the American People Hold Dear\"",
-      "summary": "Article URL: https://www.wsj.com/opinion/ai-is-a-threat-to-everything-the-american-people-hold-dear-a3286459 Comments URL: https://news.ycombinator.com/item?id=47667798 Points: 77 # Comments: 67",
+      "summary": "Article URL: https://www.wsj.com/opinion/ai-is-a-threat-to-everything-the-american-people-hold-dear-a3286459 Comments URL: https://news.ycombinator.com/item?id=47667798 Points: 77 # Comments: 68",
       "source": "Hacker News",
       "published": "2026-04-06T21:57:54+00:00",
       "link": "https://www.wsj.com/opinion/ai-is-a-threat-to-everything-the-american-people-hold-dear-a3286459"
@@ -633,14 +696,14 @@ const FEED_DATA = {
     },
     {
       "title": "Show HN: Hippo, biologically inspired memory for AI agents",
-      "summary": "Article URL: https://github.com/kitfunso/hippo-memory Comments URL: https://news.ycombinator.com/item?id=47667672 Points: 128 # Comments: 27",
+      "summary": "Article URL: https://github.com/kitfunso/hippo-memory Comments URL: https://news.ycombinator.com/item?id=47667672 Points: 128 # Comments: 28",
       "source": "Hacker News",
       "published": "2026-04-06T21:49:34+00:00",
       "link": "https://github.com/kitfunso/hippo-memory"
     },
     {
       "title": "Wikipedia's AI agent row likely just the beginning of the bot-ocalypse",
-      "summary": "Article URL: https://www.malwarebytes.com/blog/ai/2026/04/wikipedias-ai-agent-row-likely-just-the-beginning-of-the-bot-ocalypse Comments URL: https://news.ycombinator.com/item?id=47665902 Points: 70 # Comments: 90",
+      "summary": "Article URL: https://www.malwarebytes.com/blog/ai/2026/04/wikipedias-ai-agent-row-likely-just-the-beginning-of-the-bot-ocalypse Comments URL: https://news.ycombinator.com/item?id=47665902 Points: 71 # Comments: 90",
       "source": "Hacker News",
       "published": "2026-04-06T19:41:39+00:00",
       "link": "https://www.malwarebytes.com/blog/ai/2026/04/wikipedias-ai-agent-row-likely-just-the-beginning-of-the-bot-ocalypse"
@@ -668,7 +731,7 @@ const FEED_DATA = {
     },
     {
       "title": "Intelligent people are better judges of the intelligence of others",
-      "summary": "https://www.sciencedirect.com/science/article/pii/S016028962... Comments URL: https://news.ycombinator.com/item?id=47664389 Points: 122 # Comments: 133",
+      "summary": "https://www.sciencedirect.com/science/article/pii/S016028962... Comments URL: https://news.ycombinator.com/item?id=47664389 Points: 123 # Comments: 133",
       "source": "Hacker News",
       "published": "2026-04-06T17:52:46+00:00",
       "link": "https://www.psypost.org/intelligent-people-are-better-judges-of-the-intelligence-of-others/"
@@ -1337,69 +1400,6 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-04-02T16:00:00+00:00",
       "link": "https://techcrunch.com/2026/04/02/google-now-lets-you-direct-avatars-through-prompts-in-its-vids-app/"
-    },
-    {
-      "title": "It’s not easy to get depression-detecting AI through the FDA",
-      "summary": "For the past seven years, the California-based startup Kintsugi has been developing AI designed to detect signs of depression and anxiety from a person's speech.",
-      "source": "The Verge",
-      "published": "2026-04-02T15:33:23+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/905864/depression-detecting-ai-kintsugi-clinical-ai-startup-shut-down"
-    },
-    {
-      "title": "Nvidia sets new MLPerf records with 288 GPUs while AMD and Intel focus on different battles",
-      "summary": "The latest round of the industry's top inference benchmark introduces multimodal and video models for the first time. Nvidia, AMD, and Intel each highlight different metrics, making direct comparisons difficult.",
-      "source": "The Decoder",
-      "published": "2026-04-02T14:59:14+00:00",
-      "link": "https://the-decoder.com/nvidia-sets-new-mlperf-records-with-288-gpus-while-amd-and-intel-focus-on-different-battles/"
-    },
-    {
-      "title": "Alibaba launches Qwen3.6-Plus, its third proprietary AI model in days",
-      "summary": "Alibaba has released Qwen3.6-Plus, its third proprietary AI model in just a few days. The article Alibaba launches Qwen3.6-Plus, its third proprietary AI model in days appeared first on The Decoder.",
-      "source": "The Decoder",
-      "published": "2026-04-02T14:46:19+00:00",
-      "link": "https://the-decoder.com/alibaba-launches-qwen3-6-plus-its-third-proprietary-ai-model-in-days/"
-    },
-    {
-      "title": "5 best practices to secure AI systems",
-      "summary": "A decade ago, it would have been hard to believe that artificial intelligence could do what it can do now. However, it is this same power that introduces a new attack surface that traditional security frameworks were not built to address.",
-      "source": "AI News",
-      "published": "2026-04-02T14:45:03+00:00",
-      "link": "https://www.artificialintelligence-news.com/news/5-best-practices-to-secure-ai-systems/"
-    },
-    {
-      "title": "AI models fail at robot control without human-designed building blocks but agentic scaffolding closes the gap",
-      "summary": "A new framework from Nvidia, UC Berkeley, and Stanford systematically tests how well AI models can control robots through code. The findings: without human-designed abstractions, even top models fail, but methods like targeted test-time compute scaling closes the gap.",
-      "source": "The Decoder",
-      "published": "2026-04-02T14:33:07+00:00",
-      "link": "https://the-decoder.com/ai-models-fail-at-robot-control-without-human-designed-building-blocks-but-agentic-scaffolding-closes-the-gap/"
-    },
-    {
-      "title": "Microsoft’s new ‘superintelligence’ game plan is all about business",
-      "summary": "Mustafa Suleyman has been preparing for his new job description for a long time. Suleyman is Microsoft's inaugural CEO of AI, but after the company underwent a large-scale restructuring in mid-March, he's handed off some duties and shifted focus to chasing superintelligence.",
-      "source": "The Verge",
-      "published": "2026-04-02T14:00:00+00:00",
-      "link": "https://www.theverge.com/report/905791/mustafa-suleyman-microsoft-ai-transcription-model"
-    },
-    {
-      "title": "Google Home’s latest update makes Gemini better at understanding your commands",
-      "summary": "Google is launching another update to its Home app, which is supposed to make controlling your smart home with its Gemini AI assistant \"more natural and reliable,\" according to this week's release notes.",
-      "source": "The Verge",
-      "published": "2026-04-02T13:30:12+00:00",
-      "link": "https://www.theverge.com/tech/905805/google-home-gemini-temperature-controls-lighting"
-    },
-    {
-      "title": "China’s Five-Year Plan details the targets for AI deployment",
-      "summary": "China has approved its 15th Five-Year Plan [PDF] setting out the country’s economic, education, social, and industrial priorities through to 2030. As might be expected, there is a significant number of references to AI, with the technology mentioned in several contexts.",
-      "source": "AI News",
-      "published": "2026-04-02T13:23:00+00:00",
-      "link": "https://www.artificialintelligence-news.com/news/chinas-five-year-plan-details-the-targets-for-ai-deployment/"
-    },
-    {
-      "title": "The Download: plastic’s problem with fuel prices, and SpaceX’s blockbuster IPO",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Fuel prices are soaring.",
-      "source": "MIT Tech Review",
-      "published": "2026-04-02T12:10:00+00:00",
-      "link": "https://www.technologyreview.com/2026/04/02/1135049/the-download-plastic-problem-fuel-prices-spacex-ipo/"
     }
   ]
 };
