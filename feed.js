@@ -1,6 +1,76 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-04-09T12:01:54.524519+00:00",
+  "lastUpdated": "2026-04-09T16:53:32.627769+00:00",
   "items": [
+    {
+      "title": "Google Gemini now generates interactive visualizations you can tweak and explore right in the chat",
+      "summary": "After Anthropic's Claude, Google Gemini now also generates interactive visualizations directly in the chat. The article Google Gemini now generates interactive visualizations you can tweak and explore right in the chat appeared first on The Decoder.",
+      "source": "The Decoder",
+      "published": "2026-04-09T16:50:39+00:00",
+      "link": "https://the-decoder.com/google-gemini-now-generates-interactive-visualizations-you-can-tweak-and-explore-right-in-the-chat/"
+    },
+    {
+      "title": "Agentic AI’s governance challenges under the EU AI Act in 2026",
+      "summary": "AI agents hold the promise of automatically moving data between systems and triggering decisions, but in some cases, they can act without a clear record of what, when, and why they undertook their tasks.",
+      "source": "AI News",
+      "published": "2026-04-09T15:02:00+00:00",
+      "link": "https://www.artificialintelligence-news.com/news/agentic-ais-governance-challenges-under-the-eu-ai-act-in-2026/"
+    },
+    {
+      "title": "Study found that young adults have grown less hopeful and more angry about AI",
+      "summary": "Article URL: https://www.nytimes.com/2026/04/09/style/gen-z-ai-gallup-study.html Comments URL: https://news.ycombinator.com/item?id=47704443 Points: 73 # Comments: 68",
+      "source": "Hacker News",
+      "published": "2026-04-09T14:44:16+00:00",
+      "link": "https://www.nytimes.com/2026/04/09/style/gen-z-ai-gallup-study.html"
+    },
+    {
+      "title": "Amazon CEO takes aim at Nvidia, Intel, Starlink, more in annual shareholder letter",
+      "summary": "Andy Jassy's annual shareholder letter reads something like a diss track to a wide range of competitors as he defends spending $200 billion in capex.",
+      "source": "TechCrunch",
+      "published": "2026-04-09T14:27:57+00:00",
+      "link": "https://techcrunch.com/2026/04/09/amazon-ceo-takes-aim-at-nvidia-intel-starlink-more-in-annual-shareholder-letter/"
+    },
+    {
+      "title": "The AI industry’s race for profits is now existential",
+      "summary": "Today on Decoder, let’s talk about the looming AI monetization cliff, and whether some of the biggest companies in the space can become real, profitable businesses before they careen right off it. My guest today is Hayden Field, who’s our senior AI reporter here at The Verge.",
+      "source": "The Verge",
+      "published": "2026-04-09T14:00:00+00:00",
+      "link": "https://www.theverge.com/podcast/909042/ai-monetization-cliff-anthropic-openai-profitable-ai-existential-moment"
+    },
+    {
+      "title": "OpenAI reportedly following Anthropic's lead in restricting access to powerful cybersecurity AI",
+      "summary": "OpenAI is also working on a new AI model with advanced cybersecurity capabilities that will only be available to a small group of companies, according to Axios.",
+      "source": "The Decoder",
+      "published": "2026-04-09T13:47:26+00:00",
+      "link": "https://the-decoder.com/openai-reportedly-following-anthropics-lead-in-restricting-access-to-powerful-cybersecurity-ai/"
+    },
+    {
+      "title": "New Stanford study reveals when teaming up AI agents is worth the compute",
+      "summary": "Multi-agent AI systems are widely considered more capable. A Stanford study shows their apparent advantage largely comes from using more compute.",
+      "source": "The Decoder",
+      "published": "2026-04-09T13:32:07+00:00",
+      "link": "https://the-decoder.com/new-stanford-study-reveals-when-teaming-up-ai-agents-is-worth-the-compute/"
+    },
+    {
+      "title": "The Pro-Iran Meme Machine Trolling Trump With AI Lego Cartoons",
+      "summary": "Since the beginning of the Iran war, the group Explosive Media has released over a dozen viral videos mocking Trump and the US.",
+      "source": "Wired",
+      "published": "2026-04-09T13:25:21+00:00",
+      "link": "https://www.wired.com/story/inside-the-pro-iran-meme-machine-trolling-trump-with-ai-lego-cartoons/"
+    },
+    {
+      "title": "The Download: AstroTurf wars and exponential AI growth",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Is fake grass a bad idea?",
+      "source": "MIT Tech Review",
+      "published": "2026-04-09T12:25:10+00:00",
+      "link": "https://www.technologyreview.com/2026/04/09/1135514/the-download-astroturf-wars-exponential-ai-growth-desalination-numbers/"
+    },
+    {
+      "title": "Anthropic keeps new AI model private after it finds thousands of external vulnerabilities",
+      "summary": "Anthropic’s most capable AI model has already found thousands of AI cybersecurity vulnerabilities across every major operating system and web browser.",
+      "source": "AI News",
+      "published": "2026-04-09T12:00:00+00:00",
+      "link": "https://www.artificialintelligence-news.com/news/anthropic-keeps-new-ai-model-private-after-it-finds-thousands-of-external-vulnerabilities/"
+    },
     {
       "title": "Anthropic locked down its most powerful AI Model over cybersecurity fears–then put it to work",
       "summary": "Anthropic’s most capable AI model has already found thousands of AI cybersecurity vulnerabilities across every major operating system and web browser.",
@@ -44,8 +114,22 @@ const FEED_DATA = {
       "link": "https://the-decoder.com/anthropic-launches-managed-infrastructure-for-autonomous-ai-agents/"
     },
     {
+      "title": "Ask HN: What are you building that's not AI related?",
+      "summary": "I don't have anything against AI, but HN (and everywhere else) seems to be drowning in AI atm.Seems like every man and his dog is building an AI agent harness.",
+      "source": "Hacker News",
+      "published": "2026-04-09T07:39:47+00:00",
+      "link": "https://news.ycombinator.com/item?id=47700460"
+    },
+    {
+      "title": "Process Manager for Autonomous AI Agents",
+      "summary": "Article URL: https://botctl.dev/ Comments URL: https://news.ycombinator.com/item?id=47699814 Points: 56 # Comments: 19",
+      "source": "Hacker News",
+      "published": "2026-04-09T06:00:55+00:00",
+      "link": "https://botctl.dev/"
+    },
+    {
       "title": "App Store sees 84% surge in new apps as AI coding tools take off",
-      "summary": "Article URL: https://9to5mac.com/2026/04/06/app-store-sees-84-surge-in-new-apps-as-ai-coding-tools-take-off/ Comments URL: https://news.ycombinator.com/item?id=47699086 Points: 54 # Comments: 59",
+      "summary": "Article URL: https://9to5mac.com/2026/04/06/app-store-sees-84-surge-in-new-apps-as-ai-coding-tools-take-off/ Comments URL: https://news.ycombinator.com/item?id=47699086 Points: 61 # Comments: 66",
       "source": "Hacker News",
       "published": "2026-04-09T03:51:41+00:00",
       "link": "https://9to5mac.com/2026/04/06/app-store-sees-84-surge-in-new-apps-as-ai-coding-tools-take-off/"
@@ -56,6 +140,13 @@ const FEED_DATA = {
       "source": "The Verge",
       "published": "2026-04-09T00:06:12+00:00",
       "link": "https://www.theverge.com/tech/909031/google-gemini-notebooks-notebooklm"
+    },
+    {
+      "title": "Anthropic vs. the Pentagon: This Time, a US Court Has Ruled in the Government's Favor",
+      "summary": "A US appeals court ruling is at odds with a separate, lower court decision from March, leaving uncertainty about if and how the US military can use the AI company's Claude model.",
+      "source": "Wired",
+      "published": "2026-04-08T22:27:26+00:00",
+      "link": "https://www.wired.com/story/anthropic-appeals-court-ruling/"
     },
     {
       "title": "Conflicting Rulings Leave Anthropic in ‘Supply-Chain Risk’ Limbo",
@@ -94,7 +185,7 @@ const FEED_DATA = {
     },
     {
       "title": "The AI Great Leap Forward",
-      "summary": "Article URL: https://leehanchung.github.io/blogs/2026/04/05/the-ai-great-leap-forward/ Comments URL: https://news.ycombinator.com/item?id=47695647 Points: 98 # Comments: 47",
+      "summary": "Article URL: https://leehanchung.github.io/blogs/2026/04/05/the-ai-great-leap-forward/ Comments URL: https://news.ycombinator.com/item?id=47695647 Points: 118 # Comments: 56",
       "source": "Hacker News",
       "published": "2026-04-08T20:10:51+00:00",
       "link": "https://leehanchung.github.io/blogs/2026/04/05/the-ai-great-leap-forward/"
@@ -283,14 +374,14 @@ const FEED_DATA = {
     },
     {
       "title": "LLM scraper bots are overloading acme.com's HTTPS server",
-      "summary": "Article URL: http://acme.com/updates/archive/229.html Comments URL: https://news.ycombinator.com/item?id=47684506 Points: 65 # Comments: 61",
+      "summary": "Article URL: http://acme.com/updates/archive/229.html Comments URL: https://news.ycombinator.com/item?id=47684506 Points: 68 # Comments: 61",
       "source": "Hacker News",
       "published": "2026-04-08T03:02:56+00:00",
       "link": "http://acme.com/updates/archive/229.html"
     },
     {
       "title": "OpenAI says its new model GPT-2 is too dangerous to release (2019)",
-      "summary": "Article URL: https://slate.com/technology/2019/02/openai-gpt2-text-generating-algorithm-ai-dangerous.html Comments URL: https://news.ycombinator.com/item?id=47684326 Points: 385 # Comments: 114",
+      "summary": "Article URL: https://slate.com/technology/2019/02/openai-gpt2-text-generating-algorithm-ai-dangerous.html Comments URL: https://news.ycombinator.com/item?id=47684326 Points: 387 # Comments: 115",
       "source": "Hacker News",
       "published": "2026-04-08T02:41:12+00:00",
       "link": "https://slate.com/technology/2019/02/openai-gpt2-text-generating-algorithm-ai-dangerous.html"
@@ -381,7 +472,7 @@ const FEED_DATA = {
     },
     {
       "title": "Taste in the age of AI and LLMs",
-      "summary": "Article URL: https://rajnandan.com/posts/taste-in-the-age-of-ai-and-llms/ Comments URL: https://news.ycombinator.com/item?id=47677241 Points: 263 # Comments: 206",
+      "summary": "Article URL: https://rajnandan.com/posts/taste-in-the-age-of-ai-and-llms/ Comments URL: https://news.ycombinator.com/item?id=47677241 Points: 263 # Comments: 207",
       "source": "Hacker News",
       "published": "2026-04-07T15:54:16+00:00",
       "link": "https://rajnandan.com/posts/taste-in-the-age-of-ai-and-llms/"
@@ -500,7 +591,7 @@ const FEED_DATA = {
     },
     {
       "title": "MemPalace, the highest-scoring AI memory system ever benchmarked",
-      "summary": "Article URL: https://github.com/milla-jovovich/mempalace Comments URL: https://news.ycombinator.com/item?id=47672792 Points: 59 # Comments: 12",
+      "summary": "Article URL: https://github.com/milla-jovovich/mempalace Comments URL: https://news.ycombinator.com/item?id=47672792 Points: 61 # Comments: 13",
       "source": "Hacker News",
       "published": "2026-04-07T09:53:34+00:00",
       "link": "https://github.com/milla-jovovich/mempalace"
@@ -528,7 +619,7 @@ const FEED_DATA = {
     },
     {
       "title": "Bernie Sanders: \"AI Is a Threat to Everything the American People Hold Dear\"",
-      "summary": "Article URL: https://www.wsj.com/opinion/ai-is-a-threat-to-everything-the-american-people-hold-dear-a3286459 Comments URL: https://news.ycombinator.com/item?id=47667798 Points: 76 # Comments: 67",
+      "summary": "Article URL: https://www.wsj.com/opinion/ai-is-a-threat-to-everything-the-american-people-hold-dear-a3286459 Comments URL: https://news.ycombinator.com/item?id=47667798 Points: 77 # Comments: 67",
       "source": "Hacker News",
       "published": "2026-04-06T21:57:54+00:00",
       "link": "https://www.wsj.com/opinion/ai-is-a-threat-to-everything-the-american-people-hold-dear-a3286459"
@@ -542,14 +633,14 @@ const FEED_DATA = {
     },
     {
       "title": "Show HN: Hippo, biologically inspired memory for AI agents",
-      "summary": "Article URL: https://github.com/kitfunso/hippo-memory Comments URL: https://news.ycombinator.com/item?id=47667672 Points: 127 # Comments: 26",
+      "summary": "Article URL: https://github.com/kitfunso/hippo-memory Comments URL: https://news.ycombinator.com/item?id=47667672 Points: 128 # Comments: 27",
       "source": "Hacker News",
       "published": "2026-04-06T21:49:34+00:00",
       "link": "https://github.com/kitfunso/hippo-memory"
     },
     {
       "title": "Wikipedia's AI agent row likely just the beginning of the bot-ocalypse",
-      "summary": "Article URL: https://www.malwarebytes.com/blog/ai/2026/04/wikipedias-ai-agent-row-likely-just-the-beginning-of-the-bot-ocalypse Comments URL: https://news.ycombinator.com/item?id=47665902 Points: 69 # Comments: 90",
+      "summary": "Article URL: https://www.malwarebytes.com/blog/ai/2026/04/wikipedias-ai-agent-row-likely-just-the-beginning-of-the-bot-ocalypse Comments URL: https://news.ycombinator.com/item?id=47665902 Points: 70 # Comments: 90",
       "source": "Hacker News",
       "published": "2026-04-06T19:41:39+00:00",
       "link": "https://www.malwarebytes.com/blog/ai/2026/04/wikipedias-ai-agent-row-likely-just-the-beginning-of-the-bot-ocalypse"
@@ -1309,97 +1400,6 @@ const FEED_DATA = {
       "source": "MIT Tech Review",
       "published": "2026-04-02T12:10:00+00:00",
       "link": "https://www.technologyreview.com/2026/04/02/1135049/the-download-plastic-problem-fuel-prices-spacex-ipo/"
-    },
-    {
-      "title": "GPT reasoning models have \"line of sight\" to AGI, says OpenAI's Greg Brockman",
-      "summary": "OpenAI co-founder Greg Brockman says the debate about whether text-based models can achieve general intelligence is settled. The GPT architecture will lead to AGI.",
-      "source": "The Decoder",
-      "published": "2026-04-02T11:08:48+00:00",
-      "link": "https://the-decoder.com/gpt-reasoning-models-have-line-of-sight-to-agi-says-openais-greg-brockman/"
-    },
-    {
-      "title": "Lemonade by AMD: a fast and open source local LLM server using GPU and NPU",
-      "summary": "Article URL: https://lemonade-server.ai Comments URL: https://news.ycombinator.com/item?id=47612724 Points: 569 # Comments: 112",
-      "source": "Hacker News",
-      "published": "2026-04-02T11:04:51+00:00",
-      "link": "https://lemonade-server.ai"
-    },
-    {
-      "title": "Autonomous AI systems depend on data governance",
-      "summary": "Much of the current focus on AI safety has centred on models – how they are trained and monitored. But as systems become more autonomous, attention is changing toward the data those systems depend on.",
-      "source": "AI News",
-      "published": "2026-04-02T10:00:00+00:00",
-      "link": "https://www.artificialintelligence-news.com/news/autonomous-ai-systems-depend-on-data-governance/"
-    },
-    {
-      "title": "Experian uncovers fraud paradox in financial services’ AI adoption",
-      "summary": "The same technology that financial institutions deploying is being weaponised against them. That is the core tension running through Experian’s 2026 Future of Fraud Forecast, and it’s a tension the company is in a position to name because it sits on both sides of it.",
-      "source": "AI News",
-      "published": "2026-04-02T10:00:00+00:00",
-      "link": "https://www.artificialintelligence-news.com/news/experian-ai-fraud-detection-financial-services-2026/"
-    },
-    {
-      "title": "Fuel prices are soaring. Plastic could be next.",
-      "summary": "As the war in Iran continues to engulf the Middle East and the Strait of Hormuz stays closed, one of the most visible global economic ripple effects has been fossil-fuel prices.",
-      "source": "MIT Tech Review",
-      "published": "2026-04-02T10:00:00+00:00",
-      "link": "https://www.technologyreview.com/2026/04/02/1135045/plastic-economic-effects/"
-    },
-    {
-      "title": "Chinese chipmakers now control 41 percent of China's AI accelerator market",
-      "summary": "Chinese chipmakers captured nearly 41 percent of China's AI accelerator server market in 2025, according to an IDC report seen by Reuters. The article Chinese chipmakers now control 41 percent of China's AI accelerator market appeared first on The Decoder.",
-      "source": "The Decoder",
-      "published": "2026-04-02T08:17:03+00:00",
-      "link": "https://the-decoder.com/chinese-chipmakers-now-control-41-percent-of-chinas-ai-accelerator-market/"
-    },
-    {
-      "title": "r/programming bans all discussion of LLM programming",
-      "summary": "Article URL: https://old.reddit.com/r/programming/comments/1s9jkzi/announcement_temporary_llm_content_ban/ Comments URL: https://news.ycombinator.com/item?id=47610336 Points: 198 # Comments: 223",
-      "source": "Hacker News",
-      "published": "2026-04-02T05:33:20+00:00",
-      "link": "https://old.reddit.com/r/programming/comments/1s9jkzi/announcement_temporary_llm_content_ban/"
-    },
-    {
-      "title": "ZomboCom stolen by a hacker, sold, now replaced with AI-generated makeover",
-      "summary": "Article URL: https://old.reddit.com/r/oldinternet/comments/1raiz8v/zombocom_was_stolen_by_hacker_put_up_for_sale_and/ Comments URL: https://news.ycombinator.com/item?id=47608155 Points: 76 # Comments: 37",
-      "source": "Hacker News",
-      "published": "2026-04-01T23:45:03+00:00",
-      "link": "https://old.reddit.com/r/oldinternet/comments/1raiz8v/zombocom_was_stolen_by_hacker_put_up_for_sale_and/"
-    },
-    {
-      "title": "Anthropic took down thousands of GitHub repos trying to yank its leaked source code — a move the company says was an accident",
-      "summary": "Anthropic executives said it was an accident and retracted the bulk of the takedown notices.",
-      "source": "TechCrunch",
-      "published": "2026-04-01T22:12:13+00:00",
-      "link": "https://techcrunch.com/2026/04/01/anthropic-took-down-thousands-of-github-repos-trying-to-yank-its-leaked-source-code-a-move-the-company-says-was-an-accident/"
-    },
-    {
-      "title": "Meta’s natural gas binge could power South Dakota",
-      "summary": "Meta's upcoming Hyperion AI data center will be powered by 10 new natural gas plants.",
-      "source": "TechCrunch",
-      "published": "2026-04-01T18:35:36+00:00",
-      "link": "https://techcrunch.com/2026/04/01/metas-natural-gas-binge-could-power-south-dakota/"
-    },
-    {
-      "title": "AI Models Lie, Cheat, and Steal to Protect Other Models From Being Deleted",
-      "summary": "A new study from researchers at UC Berkeley and UC Santa Cruz suggests models will disobey human commands to protect their own kind.",
-      "source": "Wired",
-      "published": "2026-04-01T18:30:00+00:00",
-      "link": "https://www.wired.com/story/ai-models-lie-cheat-steal-protect-other-models-research/"
-    },
-    {
-      "title": "Anthropic's leaked AI coding tool has been cloned over 8,000 times on GitHub despite mass takedowns",
-      "summary": "Anthropic accidentally leaked the source code behind Claude Code. The extent of the damage is becoming clear—and it's potentially significant.",
-      "source": "The Decoder",
-      "published": "2026-04-01T18:16:51+00:00",
-      "link": "https://the-decoder.com/anthropics-leaked-ai-coding-tool-has-been-cloned-over-8000-times-on-github-despite-mass-takedowns/"
-    },
-    {
-      "title": "‘Thank You for Generating With Us!’ Hollywood's AI Acolytes Stay on the Hype Train",
-      "summary": "Star Wars producer Kathleen Kennedy was one of the few skeptics at the Runway AI Summit, where AI was compared to fire and the printing press just a week after Sora’s death.",
-      "source": "Wired",
-      "published": "2026-04-01T18:13:34+00:00",
-      "link": "https://www.wired.com/story/thank-you-for-generating-with-us-hollywoods-ai-acolytes-stay-on-the-hype-train/"
     }
   ]
 };
