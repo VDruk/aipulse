@@ -1,6 +1,34 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-04-09T20:08:03.852954+00:00",
+  "lastUpdated": "2026-04-09T23:11:22.759053+00:00",
   "items": [
+    {
+      "title": "ChatGPT has a new $100 per month Pro subscription",
+      "summary": "OpenAI has announced a new version of its ChatGPT Pro subscription that costs $100 per month. The new Pro tier offers \"5x more\" usage of its Codex coding tool than the $20 per month Plus subscription and \"is best for longer, high-effort Codex sessions,\" OpenAI says.",
+      "source": "The Verge",
+      "published": "2026-04-09T22:57:15+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/909599/chatgpt-pro-subscription-new"
+    },
+    {
+      "title": "Florida launches investigation into OpenAI",
+      "summary": "Florida Attorney General James Uthmeier is launching an investigation into OpenAI over public safety and national security risks, as reported earlier by Reuters.",
+      "source": "The Verge",
+      "published": "2026-04-09T22:17:06+00:00",
+      "link": "https://www.theverge.com/policy/909557/openai-florida-investigation"
+    },
+    {
+      "title": "ChatGPT finally offers $100/month Pro plan",
+      "summary": "OpenAI announced on Thursday something that power users have been asking for: a $100/month plan. Previously, subscriptions jumped from $20 to $200 per month.",
+      "source": "TechCrunch",
+      "published": "2026-04-09T21:29:11+00:00",
+      "link": "https://techcrunch.com/2026/04/09/chatgpt-pro-plan-100-month-codex/"
+    },
+    {
+      "title": "Florida AG announces investigation into OpenAI over shooting that allegedly involved ChatGPT",
+      "summary": "ChatGPT had reportedly been used to plan the attack that killed two and injured five at Florida State University last April. The family of one victim has said that they plan to sue OpenAI over the incident.",
+      "source": "TechCrunch",
+      "published": "2026-04-09T20:11:55+00:00",
+      "link": "https://techcrunch.com/2026/04/09/florida-ag-investigation-openai-chatgpt-shooting/"
+    },
     {
       "title": "Meta AI app climbs to No. 5 on the App Store after Muse Spark launch",
       "summary": "The app was ranking No. 57 on the App Store just before Meta AI's new model launched.",
@@ -1372,34 +1400,6 @@ const FEED_DATA = {
       "source": "AI News",
       "published": "2026-04-02T16:30:53+00:00",
       "link": "https://www.artificialintelligence-news.com/news/kiloclaw-targets-shadow-ai-autonomous-agent-governance/"
-    },
-    {
-      "title": "Group Pushing Age Verification for AI Turns Out to Be Backed by OpenAI",
-      "summary": "Article URL: https://gizmodo.com/group-pushing-age-verification-requirements-for-ai-turns-out-to-be-sneakily-backed-by-openai-2000741069 Comments URL: https://news.ycombinator.com/item?id=47616665 Points: 53 # Comments: 6",
-      "source": "Hacker News",
-      "published": "2026-04-02T16:30:41+00:00",
-      "link": "https://gizmodo.com/group-pushing-age-verification-requirements-for-ai-turns-out-to-be-sneakily-backed-by-openai-2000741069"
-    },
-    {
-      "title": "Microsoft's MAI-Transcribe-1 runs 2.5x faster than its predecessor at $0.36 per audio hour",
-      "summary": "MAI-Transcribe-1 converts speech to text quickly and accurately in 25 languages, even with background noise. Microsoft is already using the model in its own products.",
-      "source": "The Decoder",
-      "published": "2026-04-02T16:26:53+00:00",
-      "link": "https://the-decoder.com/microsofts-mai-transcribe-1-runs-2-5x-faster-than-its-predecessor-at-0-36-per-audio-hour/"
-    },
-    {
-      "title": "Anthropic Says That Claude Contains Its Own Kind of Emotions",
-      "summary": "Researchers at the company found representations inside of Claude that perform functions similar to human feelings.",
-      "source": "Wired",
-      "published": "2026-04-02T16:00:00+00:00",
-      "link": "https://www.wired.com/story/anthropic-claude-research-functional-emotions/"
-    },
-    {
-      "title": "Google now lets you direct avatars through prompts in its Vids app",
-      "summary": "Google is adding a way to customize and instruct avatars for video creation in the Vids app.",
-      "source": "TechCrunch",
-      "published": "2026-04-02T16:00:00+00:00",
-      "link": "https://techcrunch.com/2026/04/02/google-now-lets-you-direct-avatars-through-prompts-in-its-vids-app/"
     }
   ]
 };
