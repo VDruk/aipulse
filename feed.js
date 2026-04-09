@@ -1,6 +1,48 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-04-09T08:56:03.135171+00:00",
+  "lastUpdated": "2026-04-09T12:01:54.524519+00:00",
   "items": [
+    {
+      "title": "Anthropic locked down its most powerful AI Model over cybersecurity fears–then put it to work",
+      "summary": "Anthropic’s most capable AI model has already found thousands of AI cybersecurity vulnerabilities across every major operating system and web browser.",
+      "source": "AI News",
+      "published": "2026-04-09T12:00:00+00:00",
+      "link": "https://www.artificialintelligence-news.com/news/anthropic-locked-down-its-most-powerful-ai-model-over-cybersecurity-fears-then-put-it-to-work/"
+    },
+    {
+      "title": "US appeals court refuses to block Pentagon's blacklisting of Anthropic",
+      "summary": "A US appeals court has declined to temporarily block the Pentagon's designation of Anthropic as a national security risk, Reuters reports. The article US appeals court refuses to block Pentagon's blacklisting of Anthropic appeared first on The Decoder.",
+      "source": "The Decoder",
+      "published": "2026-04-09T11:08:01+00:00",
+      "link": "https://the-decoder.com/us-appeals-court-refuses-to-block-pentagons-blacklisting-of-anthropic/"
+    },
+    {
+      "title": "Zhipu AI's GLM-5.1 can rethink its own coding strategy across hundreds of iterations",
+      "summary": "Zhipu AI has released its new GLM-5.1 model under an MIT license. The model can reportedly refine its own approach over hundreds of iterations when tackling coding tasks.",
+      "source": "The Decoder",
+      "published": "2026-04-09T11:05:27+00:00",
+      "link": "https://the-decoder.com/zhipu-ais-glm-5-1-can-rethink-its-own-coding-strategy-across-hundreds-of-iterations/"
+    },
+    {
+      "title": "Google makes it easy to deepfake yourself",
+      "summary": "YouTube Shorts is rolling out a new AI-powered feature giving creators an easy way to realistically clone themselves on camera.",
+      "source": "The Verge",
+      "published": "2026-04-09T10:53:49+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/909104/youtube-shorts-make-ai-avatar"
+    },
+    {
+      "title": "This AI Wearable From Ex-Apple Engineers Looks Like an iPod Shuffle",
+      "summary": "Two former Apple Vision Pro developers made an AI wearable that only listens when you tap it. They hope to win where other AI gadgets have fumbled: privacy.",
+      "source": "Wired",
+      "published": "2026-04-09T09:30:00+00:00",
+      "link": "https://www.wired.com/story/this-ai-button-wearable-from-ex-apple-engineers-looks-like-an-ipod-shuffle/"
+    },
+    {
+      "title": "Anthropic launches managed infrastructure for autonomous AI agents",
+      "summary": "Anthropic's new \"Claude Managed Agents\" gives developers a hosted platform for building and running autonomous AI agents. Early adopters like Notion and Rakuten are already using the system.",
+      "source": "The Decoder",
+      "published": "2026-04-09T09:16:13+00:00",
+      "link": "https://the-decoder.com/anthropic-launches-managed-infrastructure-for-autonomous-ai-agents/"
+    },
     {
       "title": "App Store sees 84% surge in new apps as AI coding tools take off",
       "summary": "Article URL: https://9to5mac.com/2026/04/06/app-store-sees-84-surge-in-new-apps-as-ai-coding-tools-take-off/ Comments URL: https://news.ycombinator.com/item?id=47699086 Points: 54 # Comments: 59",
@@ -1283,13 +1325,6 @@ const FEED_DATA = {
       "link": "https://lemonade-server.ai"
     },
     {
-      "title": "Fuel prices are soaring. Plastic could be next.",
-      "summary": "As the war in Iran continues to engulf the Middle East and the Strait of Hormuz stays closed, one of the most visible global economic ripple effects has been fossil-fuel prices.",
-      "source": "MIT Tech Review",
-      "published": "2026-04-02T10:00:00+00:00",
-      "link": "https://www.technologyreview.com/2026/04/02/1135045/plastic-economic-effects/"
-    },
-    {
       "title": "Autonomous AI systems depend on data governance",
       "summary": "Much of the current focus on AI safety has centred on models – how they are trained and monitored. But as systems become more autonomous, attention is changing toward the data those systems depend on.",
       "source": "AI News",
@@ -1302,6 +1337,13 @@ const FEED_DATA = {
       "source": "AI News",
       "published": "2026-04-02T10:00:00+00:00",
       "link": "https://www.artificialintelligence-news.com/news/experian-ai-fraud-detection-financial-services-2026/"
+    },
+    {
+      "title": "Fuel prices are soaring. Plastic could be next.",
+      "summary": "As the war in Iran continues to engulf the Middle East and the Strait of Hormuz stays closed, one of the most visible global economic ripple effects has been fossil-fuel prices.",
+      "source": "MIT Tech Review",
+      "published": "2026-04-02T10:00:00+00:00",
+      "link": "https://www.technologyreview.com/2026/04/02/1135045/plastic-economic-effects/"
     },
     {
       "title": "Chinese chipmakers now control 41 percent of China's AI accelerator market",
@@ -1358,48 +1400,6 @@ const FEED_DATA = {
       "source": "Wired",
       "published": "2026-04-01T18:13:34+00:00",
       "link": "https://www.wired.com/story/thank-you-for-generating-with-us-hollywoods-ai-acolytes-stay-on-the-hype-train/"
-    },
-    {
-      "title": "The AI Marketing BS Index",
-      "summary": "Article URL: https://bastian.rieck.me/blog/2026/bs/ Comments URL: https://news.ycombinator.com/item?id=47604218 Points: 108 # Comments: 21",
-      "source": "Hacker News",
-      "published": "2026-04-01T17:55:12+00:00",
-      "link": "https://bastian.rieck.me/blog/2026/bs/"
-    },
-    {
-      "title": "AI for American-produced cement and concrete",
-      "summary": "Article URL: https://engineering.fb.com/2026/03/30/data-center-engineering/ai-for-american-produced-cement-and-concrete/ Comments URL: https://news.ycombinator.com/item?id=47603737 Points: 223 # Comments: 117",
-      "source": "Hacker News",
-      "published": "2026-04-01T17:17:24+00:00",
-      "link": "https://engineering.fb.com/2026/03/30/data-center-engineering/ai-for-american-produced-cement-and-concrete/"
-    },
-    {
-      "title": "Google Deepmind study exposes six \"traps\" that can easily hijack autonomous AI agents in the wild",
-      "summary": "AI agents are expected to browse the web on their own, handle emails, and carry out transactions. But the very environment they operate in can be weaponized against them.",
-      "source": "The Decoder",
-      "published": "2026-04-01T17:09:59+00:00",
-      "link": "https://the-decoder.com/google-deepmind-study-exposes-six-traps-that-can-easily-hijack-autonomous-ai-agents-in-the-wild/"
-    },
-    {
-      "title": "Cognichip wants AI to design the chips that power AI, and just raised $60M to try",
-      "summary": "The firm says it can reduce the cost of chip development by more than 75% and cut the timeline by more than half.",
-      "source": "TechCrunch",
-      "published": "2026-04-01T16:00:00+00:00",
-      "link": "https://techcrunch.com/2026/04/01/cognichip-wants-ai-to-design-the-chips-that-power-ai-and-just-raised-60m-to-try/"
-    },
-    {
-      "title": "KPMG: Inside the AI agent playbook driving enterprise margin gains",
-      "summary": "Global AI investment is accelerating, yet KPMG data shows the gap between enterprise AI spend and measurable business value is widening fast.",
-      "source": "AI News",
-      "published": "2026-04-01T15:24:01+00:00",
-      "link": "https://www.artificialintelligence-news.com/news/kpmg-inside-ai-agent-playbook-enterprise-margin-gains/"
-    },
-    {
-      "title": "AI has suddenly become more useful to open-source developers",
-      "summary": "Article URL: https://www.zdnet.com/article/maybe-open-source-needs-ai/ Comments URL: https://news.ycombinator.com/item?id=47601107 Points: 54 # Comments: 47",
-      "source": "Hacker News",
-      "published": "2026-04-01T14:07:50+00:00",
-      "link": "https://www.zdnet.com/article/maybe-open-source-needs-ai/"
     }
   ]
 };
