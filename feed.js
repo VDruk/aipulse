@@ -1,6 +1,13 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-04-09T06:11:37.438565+00:00",
+  "lastUpdated": "2026-04-09T08:56:03.135171+00:00",
   "items": [
+    {
+      "title": "App Store sees 84% surge in new apps as AI coding tools take off",
+      "summary": "Article URL: https://9to5mac.com/2026/04/06/app-store-sees-84-surge-in-new-apps-as-ai-coding-tools-take-off/ Comments URL: https://news.ycombinator.com/item?id=47699086 Points: 54 # Comments: 59",
+      "source": "Hacker News",
+      "published": "2026-04-09T03:51:41+00:00",
+      "link": "https://9to5mac.com/2026/04/06/app-store-sees-84-surge-in-new-apps-as-ai-coding-tools-take-off/"
+    },
     {
       "title": "Gemini gets notebooks to help you organize projects",
       "summary": "Google's Gemini is getting a feature called \"notebooks\" to help you organize things about certain topics in a single place while using the AI chatbot, the company announced on Wednesday.",
@@ -45,7 +52,7 @@ const FEED_DATA = {
     },
     {
       "title": "The AI Great Leap Forward",
-      "summary": "Article URL: https://leehanchung.github.io/blogs/2026/04/05/the-ai-great-leap-forward/ Comments URL: https://news.ycombinator.com/item?id=47695647 Points: 89 # Comments: 44",
+      "summary": "Article URL: https://leehanchung.github.io/blogs/2026/04/05/the-ai-great-leap-forward/ Comments URL: https://news.ycombinator.com/item?id=47695647 Points: 98 # Comments: 47",
       "source": "Hacker News",
       "published": "2026-04-08T20:10:51+00:00",
       "link": "https://leehanchung.github.io/blogs/2026/04/05/the-ai-great-leap-forward/"
@@ -241,7 +248,7 @@ const FEED_DATA = {
     },
     {
       "title": "OpenAI says its new model GPT-2 is too dangerous to release (2019)",
-      "summary": "Article URL: https://slate.com/technology/2019/02/openai-gpt2-text-generating-algorithm-ai-dangerous.html Comments URL: https://news.ycombinator.com/item?id=47684326 Points: 384 # Comments: 114",
+      "summary": "Article URL: https://slate.com/technology/2019/02/openai-gpt2-text-generating-algorithm-ai-dangerous.html Comments URL: https://news.ycombinator.com/item?id=47684326 Points: 385 # Comments: 114",
       "source": "Hacker News",
       "published": "2026-04-08T02:41:12+00:00",
       "link": "https://slate.com/technology/2019/02/openai-gpt2-text-generating-algorithm-ai-dangerous.html"
@@ -423,7 +430,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI may be making us think and write more alike",
-      "summary": "Article URL: https://dornsife.usc.edu/news/stories/ai-may-be-making-us-think-and-write-more-alike/ Comments URL: https://news.ycombinator.com/item?id=47673541 Points: 229 # Comments: 243",
+      "summary": "Article URL: https://dornsife.usc.edu/news/stories/ai-may-be-making-us-think-and-write-more-alike/ Comments URL: https://news.ycombinator.com/item?id=47673541 Points: 231 # Comments: 243",
       "source": "Hacker News",
       "published": "2026-04-07T11:29:02+00:00",
       "link": "https://dornsife.usc.edu/news/stories/ai-may-be-making-us-think-and-write-more-alike/"
@@ -451,7 +458,7 @@ const FEED_DATA = {
     },
     {
       "title": "MemPalace, the highest-scoring AI memory system ever benchmarked",
-      "summary": "Article URL: https://github.com/milla-jovovich/mempalace Comments URL: https://news.ycombinator.com/item?id=47672792 Points: 59 # Comments: 11",
+      "summary": "Article URL: https://github.com/milla-jovovich/mempalace Comments URL: https://news.ycombinator.com/item?id=47672792 Points: 59 # Comments: 12",
       "source": "Hacker News",
       "published": "2026-04-07T09:53:34+00:00",
       "link": "https://github.com/milla-jovovich/mempalace"
@@ -507,7 +514,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI helps add 10k more photos to OldNYC",
-      "summary": "Article URL: https://www.danvk.org/2026/03/08/oldnyc-updates.html Comments URL: https://news.ycombinator.com/item?id=47664836 Points: 141 # Comments: 50",
+      "summary": "Article URL: https://www.danvk.org/2026/03/08/oldnyc-updates.html Comments URL: https://news.ycombinator.com/item?id=47664836 Points: 142 # Comments: 50",
       "source": "Hacker News",
       "published": "2026-04-06T18:24:32+00:00",
       "link": "https://www.danvk.org/2026/03/08/oldnyc-updates.html"
@@ -1393,13 +1400,6 @@ const FEED_DATA = {
       "source": "Hacker News",
       "published": "2026-04-01T14:07:50+00:00",
       "link": "https://www.zdnet.com/article/maybe-open-source-needs-ai/"
-    },
-    {
-      "title": "AI can push your Stream Deck buttons for you",
-      "summary": "If you're tired of controlling Stream Deck devices by manually pushing buttons, then good news: Elgato will now let you delegate that task to a chatbot instead.",
-      "source": "The Verge",
-      "published": "2026-04-01T12:38:58+00:00",
-      "link": "https://www.theverge.com/tech/905021/elgato-stream-deck-mcp-ai-agent-update"
     }
   ]
 };
