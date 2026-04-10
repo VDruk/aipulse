@@ -1,6 +1,55 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-04-10T08:56:38.845334+00:00",
+  "lastUpdated": "2026-04-10T11:36:57.842077+00:00",
   "items": [
+    {
+      "title": "LLMs crush coding and math but choke on casual questions, and that's not a contradiction",
+      "summary": "AI models can restructure entire codebases in hours but stumble over simple everyday questions. That's not a contradiction, and it might reveal a fundamental limit of today's language models.",
+      "source": "The Decoder",
+      "published": "2026-04-10T11:23:41+00:00",
+      "link": "https://the-decoder.com/llms-crush-coding-and-math-but-choke-on-casual-questions-and-thats-not-a-contradiction/"
+    },
+    {
+      "title": "Gen Z’s love-hate relationship with AI",
+      "summary": "Gen Z is increasingly disillusioned with AI - just not enough to stop using it.",
+      "source": "The Verge",
+      "published": "2026-04-10T11:23:28+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/909687/gen-z-doesnt-like-ai-gallup"
+    },
+    {
+      "title": "AI Podcasters Really Want to Tell You How to Keep a Man Happy",
+      "summary": "Videos of fake relationship guru podcasters are reinforcing gender tropes and racking up millions of views, all the while driving sales to AI influencer schools.",
+      "source": "Wired",
+      "published": "2026-04-10T10:30:00+00:00",
+      "link": "https://www.wired.com/story/ai-podcasters-really-want-to-tell-you-how-to-keep-a-man-happy/"
+    },
+    {
+      "title": "Meta’s New AI Asked for My Raw Health Data—and Gave Me Terrible Advice",
+      "summary": "Meta’s Muse Spark model offers to analyze users’ health data, including lab results. Beyond the obvious privacy risks, it’s not a capable stand-in for a real doctor.",
+      "source": "Wired",
+      "published": "2026-04-10T09:30:00+00:00",
+      "link": "https://www.wired.com/story/metas-new-ai-asked-for-my-raw-health-data-and-gave-me-terrible-advice/"
+    },
+    {
+      "title": "Microsoft starts removing Copilot buttons from Windows 11 apps",
+      "summary": "Microsoft is starting to remove \"unnecessary\" Copilot buttons from its Windows 11 apps. In the latest version of the Notepad app for Windows Insiders, Microsoft has removed the Copilot button in favor of a \"writing tools\" menu.",
+      "source": "The Verge",
+      "published": "2026-04-10T09:22:06+00:00",
+      "link": "https://www.theverge.com/news/909640/microsoft-removing-copilot-windows-11-buttons"
+    },
+    {
+      "title": "OpenAI is building a cybersecurity product for a select group of companies",
+      "summary": "According to Axios, OpenAI is working on a new cybersecurity product that will only be available to a small group of companies. The article OpenAI is building a cybersecurity product for a select group of companies appeared first on The Decoder.",
+      "source": "The Decoder",
+      "published": "2026-04-10T09:06:26+00:00",
+      "link": "https://the-decoder.com/openai-is-building-a-cybersecurity-product-for-a-select-group-of-companies/"
+    },
+    {
+      "title": "Scientists invented a fake disease. AI told people it was real",
+      "summary": "Article URL: https://www.nature.com/articles/d41586-026-01100-y Comments URL: https://news.ycombinator.com/item?id=47715291 Points: 71 # Comments: 68",
+      "source": "Hacker News",
+      "published": "2026-04-10T08:44:37+00:00",
+      "link": "https://www.nature.com/articles/d41586-026-01100-y"
+    },
     {
       "title": "Meta has a competitive AI model but loses its open-source identity",
       "summary": "The open-source AI movement has never lacked for options. Mistral, Falcon, and a growing field of open-weight models have been available to developers for years.",
@@ -37,6 +86,13 @@ const FEED_DATA = {
       "link": "https://techcrunch.com/2026/04/09/chatgpt-pro-plan-100-month-codex/"
     },
     {
+      "title": "US defense official overseeing AI reaped millions selling xAI stock",
+      "summary": "Article URL: https://www.theguardian.com/us-news/2026/apr/09/pentagon-ai-xai-emil-michael Comments URL: https://news.ycombinator.com/item?id=47709197 Points: 53 # Comments: 7",
+      "source": "Hacker News",
+      "published": "2026-04-09T20:14:23+00:00",
+      "link": "https://www.theguardian.com/us-news/2026/apr/09/pentagon-ai-xai-emil-michael"
+    },
+    {
       "title": "Florida AG announces investigation into OpenAI over shooting that allegedly involved ChatGPT",
       "summary": "ChatGPT had reportedly been used to plan the attack that killed two and injured five at Florida State University last April. The family of one victim has said that they plan to sue OpenAI over the incident.",
       "source": "TechCrunch",
@@ -66,7 +122,7 @@ const FEED_DATA = {
     },
     {
       "title": "Instant 1.0, a backend for AI-coded apps",
-      "summary": "Article URL: https://www.instantdb.com/essays/architecture Comments URL: https://news.ycombinator.com/item?id=47707632 Points: 142 # Comments: 77",
+      "summary": "Article URL: https://www.instantdb.com/essays/architecture Comments URL: https://news.ycombinator.com/item?id=47707632 Points: 159 # Comments: 84",
       "source": "Hacker News",
       "published": "2026-04-09T18:30:59+00:00",
       "link": "https://www.instantdb.com/essays/architecture"
@@ -122,7 +178,7 @@ const FEED_DATA = {
     },
     {
       "title": "Study found that young adults have grown less hopeful and more angry about AI",
-      "summary": "Article URL: https://www.nytimes.com/2026/04/09/style/gen-z-ai-gallup-study.html Comments URL: https://news.ycombinator.com/item?id=47704443 Points: 118 # Comments: 171",
+      "summary": "Article URL: https://www.nytimes.com/2026/04/09/style/gen-z-ai-gallup-study.html Comments URL: https://news.ycombinator.com/item?id=47704443 Points: 124 # Comments: 172",
       "source": "Hacker News",
       "published": "2026-04-09T14:44:16+00:00",
       "link": "https://www.nytimes.com/2026/04/09/style/gen-z-ai-gallup-study.html"
@@ -297,7 +353,7 @@ const FEED_DATA = {
     },
     {
       "title": "The AI Great Leap Forward",
-      "summary": "Article URL: https://leehanchung.github.io/blogs/2026/04/05/the-ai-great-leap-forward/ Comments URL: https://news.ycombinator.com/item?id=47695647 Points: 128 # Comments: 61",
+      "summary": "Article URL: https://leehanchung.github.io/blogs/2026/04/05/the-ai-great-leap-forward/ Comments URL: https://news.ycombinator.com/item?id=47695647 Points: 130 # Comments: 62",
       "source": "Hacker News",
       "published": "2026-04-08T20:10:51+00:00",
       "link": "https://leehanchung.github.io/blogs/2026/04/05/the-ai-great-leap-forward/"
@@ -1344,62 +1400,6 @@ const FEED_DATA = {
       "source": "The Verge",
       "published": "2026-04-02T21:56:16+00:00",
       "link": "https://www.theverge.com/ai-artificial-intelligence/906253/granola-note-links-ai-training-psa"
-    },
-    {
-      "title": "A $20/month user costs OpenAI $65 in compute. AI video is a money furnace",
-      "summary": "Article URL: https://aedelon777.substack.com/p/i-did-the-math-on-sora-ai-video-is Comments URL: https://news.ycombinator.com/item?id=47619322 Points: 76 # Comments: 42",
-      "source": "Hacker News",
-      "published": "2026-04-02T19:49:51+00:00",
-      "link": "https://aedelon777.substack.com/p/i-did-the-math-on-sora-ai-video-is"
-    },
-    {
-      "title": "OpenAI Acquires Tech Talk Show ‘TBPN’—and Buys Itself Some Positive News",
-      "summary": "OpenAI is acquiring TBPN, a business talk show that’s popular among Silicon Valley elites, as it continues to battle its negative public image.",
-      "source": "Wired",
-      "published": "2026-04-02T19:29:48+00:00",
-      "link": "https://www.wired.com/story/openai-acquires-tbpn-buys-positive-news-coverage/"
-    },
-    {
-      "title": "OpenAI Buys Some Positive News",
-      "summary": "OpenAI is acquiring TBPN, a business talk show that’s popular among Silicon Valley elites, as it continues to battle its negative public image.",
-      "source": "Wired",
-      "published": "2026-04-02T19:29:48+00:00",
-      "link": "https://www.wired.com/story/openai-acquires-tbpn-buys-positive-news-coverage/"
-    },
-    {
-      "title": "OpenAI acquires TBPN, the buzzy founder-led business talk show",
-      "summary": "TBPN, Silicon Valley's cult-favorite tech podcast, will operate independently, even as it's overseen by chief political operative Chris Lehane.",
-      "source": "TechCrunch",
-      "published": "2026-04-02T19:21:00+00:00",
-      "link": "https://techcrunch.com/2026/04/02/openai-acquires-tbpn-the-buzzy-founder-led-business-talk-show/"
-    },
-    {
-      "title": "We replaced RAG with a virtual filesystem for our AI documentation assistant",
-      "summary": "Article URL: https://www.mintlify.com/blog/how-we-built-a-virtual-filesystem-for-our-assistant Comments URL: https://news.ycombinator.com/item?id=47618223 Points: 406 # Comments: 149",
-      "source": "Hacker News",
-      "published": "2026-04-02T18:24:29+00:00",
-      "link": "https://www.mintlify.com/blog/how-we-built-a-virtual-filesystem-for-our-assistant"
-    },
-    {
-      "title": "Google's Gemma 4 is now available with Apache 2.0 licensing for the first time",
-      "summary": "Google is releasing Gemma 4, its most capable open model family yet. The four new models run on everything from smartphones to workstations and ship under a fully open Apache 2.0 license for the first time.",
-      "source": "The Decoder",
-      "published": "2026-04-02T18:06:37+00:00",
-      "link": "https://the-decoder.com/googles-gemma-4-is-now-available-with-apache-2-0-licensing-for-the-first-time/"
-    },
-    {
-      "title": "OpenAI just bought TBPN",
-      "summary": "OpenAI has purchased TBPN, an online talk show that often interviews AI executives and other tech leaders.",
-      "source": "The Verge",
-      "published": "2026-04-02T17:40:07+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/906022/openai-buys-tbpn"
-    },
-    {
-      "title": "Sakana AI launches \"Ultra Deep Research\" to automate weeks of strategy work",
-      "summary": "Sakana AI has unveiled \"Sakana Marlin,\" an AI assistant for business customers that researches autonomously for up to eight hours and delivers finished analyses. The tool is designed to compress weeks of strategy work into hours and is currently in beta testing.",
-      "source": "The Decoder",
-      "published": "2026-04-02T17:24:35+00:00",
-      "link": "https://the-decoder.com/sakana-ai-launches-ultra-deep-research-to-automate-weeks-of-strategy-work/"
     }
   ]
 };
