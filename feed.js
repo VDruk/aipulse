@@ -1,6 +1,41 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-04-10T17:42:50.150576+00:00",
+  "lastUpdated": "2026-04-10T21:30:34.103476+00:00",
   "items": [
+    {
+      "title": "Anthropic temporarily banned OpenClaw’s creator from accessing Claude",
+      "summary": "This ban took place after Claude's pricing changed for OpenClaw users last week.",
+      "source": "TechCrunch",
+      "published": "2026-04-10T20:27:52+00:00",
+      "link": "https://techcrunch.com/2026/04/10/anthropic-temporarily-banned-openclaws-creator-from-accessing-claude/"
+    },
+    {
+      "title": "20-year-old man arrested for allegedly throwing a Molotov cocktail at Sam Altman’s house",
+      "summary": "San Francisco police have arrested a 20-year-old man suspected of throwing a Molotov cocktail at OpenAI CEO Sam Altman's Russian Hill house early Friday morning, The San Francisco Standard reports. The incident was caught on surveillance cameras shortly before 7AM ET.",
+      "source": "The Verge",
+      "published": "2026-04-10T20:16:57+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/910393/openai-sam-altman-house-molotov-cocktail"
+    },
+    {
+      "title": "Deepmind CEO Hassabis says AGI will hit like ten industrial revolutions compressed into a single decade",
+      "summary": "Deepmind CEO Demis Hassabis thinks AGI could arrive within five years and compares its impact to ten times the industrial revolution, unfolding in a tenth of the time. Yet he warns that AI is overhyped right now and still vastly underestimated over the next decade.",
+      "source": "The Decoder",
+      "published": "2026-04-10T19:06:18+00:00",
+      "link": "https://the-decoder.com/deepmind-ceo-hassabis-says-agi-will-hit-like-ten-industrial-revolutions-compressed-into-a-single-decade/"
+    },
+    {
+      "title": "AI assistance when contributing to the Linux kernel",
+      "summary": "Article URL: https://github.com/torvalds/linux/blob/master/Documentation/process/coding-assistants.rst Comments URL: https://news.ycombinator.com/item?id=47721953 Points: 83 # Comments: 72",
+      "source": "Hacker News",
+      "published": "2026-04-10T18:35:21+00:00",
+      "link": "https://github.com/torvalds/linux/blob/master/Documentation/process/coding-assistants.rst"
+    },
+    {
+      "title": "Anthropic’s Mythos Will Force a Cybersecurity Reckoning—Just Not the One You Think",
+      "summary": "The new AI model is being heralded—and feared—as a hacker’s superweapon. Experts say its arrival is a wake-up call for developers who have long made security an afterthought.",
+      "source": "Wired",
+      "published": "2026-04-10T18:08:37+00:00",
+      "link": "https://www.wired.com/story/anthropics-mythos-will-force-a-cybersecurity-reckoning-just-not-the-one-you-think/"
+    },
     {
       "title": "The Iranian Lego AI video creators credit their virality to ‘heart’",
       "summary": "Donald Trump has spun the recent rescue of a downed airman whose fighter jet was destroyed behind Iranian borders as a resounding success.",
@@ -59,14 +94,14 @@ const FEED_DATA = {
     },
     {
       "title": "US summons bank bosses over cyber risks from Anthropic's latest AI model",
-      "summary": "Article URL: https://www.theguardian.com/technology/2026/apr/10/us-summoned-bank-bosses-to-discuss-cyber-risks-posed-by-anthropic-latest-ai-model Comments URL: https://news.ycombinator.com/item?id=47718114 Points: 79 # Comments: 51",
+      "summary": "Article URL: https://www.theguardian.com/technology/2026/apr/10/us-summoned-bank-bosses-to-discuss-cyber-risks-posed-by-anthropic-latest-ai-model Comments URL: https://news.ycombinator.com/item?id=47718114 Points: 102 # Comments: 87",
       "source": "Hacker News",
       "published": "2026-04-10T13:47:17+00:00",
       "link": "https://www.theguardian.com/technology/2026/apr/10/us-summoned-bank-bosses-to-discuss-cyber-risks-posed-by-anthropic-latest-ai-model"
     },
     {
       "title": "OpenAI backs Illinois bill that would limit when AI labs can be held liable",
-      "summary": "https://archive.md/WzwBY Comments URL: https://news.ycombinator.com/item?id=47717587 Points: 386 # Comments: 282",
+      "summary": "https://archive.md/WzwBY Comments URL: https://news.ycombinator.com/item?id=47717587 Points: 408 # Comments: 303",
       "source": "Hacker News",
       "published": "2026-04-10T13:08:43+00:00",
       "link": "https://www.wired.com/story/openai-backs-bill-exempt-ai-firms-model-harm-lawsuits/"
@@ -143,7 +178,7 @@ const FEED_DATA = {
     },
     {
       "title": "Scientists invented a fake disease. AI told people it was real",
-      "summary": "Article URL: https://www.nature.com/articles/d41586-026-01100-y Comments URL: https://news.ycombinator.com/item?id=47715291 Points: 84 # Comments: 87",
+      "summary": "Article URL: https://www.nature.com/articles/d41586-026-01100-y Comments URL: https://news.ycombinator.com/item?id=47715291 Points: 85 # Comments: 88",
       "source": "Hacker News",
       "published": "2026-04-10T08:44:37+00:00",
       "link": "https://www.nature.com/articles/d41586-026-01100-y"
@@ -185,7 +220,7 @@ const FEED_DATA = {
     },
     {
       "title": "US defense official overseeing AI reaped millions selling xAI stock",
-      "summary": "Article URL: https://www.theguardian.com/us-news/2026/apr/09/pentagon-ai-xai-emil-michael Comments URL: https://news.ycombinator.com/item?id=47709197 Points: 55 # Comments: 11",
+      "summary": "Article URL: https://www.theguardian.com/us-news/2026/apr/09/pentagon-ai-xai-emil-michael Comments URL: https://news.ycombinator.com/item?id=47709197 Points: 57 # Comments: 11",
       "source": "Hacker News",
       "published": "2026-04-09T20:14:23+00:00",
       "link": "https://www.theguardian.com/us-news/2026/apr/09/pentagon-ai-xai-emil-michael"
@@ -220,7 +255,7 @@ const FEED_DATA = {
     },
     {
       "title": "Instant 1.0, a backend for AI-coded apps",
-      "summary": "Article URL: https://www.instantdb.com/essays/architecture Comments URL: https://news.ycombinator.com/item?id=47707632 Points: 194 # Comments: 105",
+      "summary": "Article URL: https://www.instantdb.com/essays/architecture Comments URL: https://news.ycombinator.com/item?id=47707632 Points: 201 # Comments: 109",
       "source": "Hacker News",
       "published": "2026-04-09T18:30:59+00:00",
       "link": "https://www.instantdb.com/essays/architecture"
@@ -276,7 +311,7 @@ const FEED_DATA = {
     },
     {
       "title": "Study found that young adults have grown less hopeful and more angry about AI",
-      "summary": "Article URL: https://www.nytimes.com/2026/04/09/style/gen-z-ai-gallup-study.html Comments URL: https://news.ycombinator.com/item?id=47704443 Points: 131 # Comments: 176",
+      "summary": "Article URL: https://www.nytimes.com/2026/04/09/style/gen-z-ai-gallup-study.html Comments URL: https://news.ycombinator.com/item?id=47704443 Points: 135 # Comments: 178",
       "source": "Hacker News",
       "published": "2026-04-09T14:44:16+00:00",
       "link": "https://www.nytimes.com/2026/04/09/style/gen-z-ai-gallup-study.html"
@@ -451,7 +486,7 @@ const FEED_DATA = {
     },
     {
       "title": "The AI Great Leap Forward",
-      "summary": "Article URL: https://leehanchung.github.io/blogs/2026/04/05/the-ai-great-leap-forward/ Comments URL: https://news.ycombinator.com/item?id=47695647 Points: 131 # Comments: 62",
+      "summary": "Article URL: https://leehanchung.github.io/blogs/2026/04/05/the-ai-great-leap-forward/ Comments URL: https://news.ycombinator.com/item?id=47695647 Points: 132 # Comments: 62",
       "source": "Hacker News",
       "published": "2026-04-08T20:10:51+00:00",
       "link": "https://leehanchung.github.io/blogs/2026/04/05/the-ai-great-leap-forward/"
@@ -1365,41 +1400,6 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-04-03T20:35:34+00:00",
       "link": "https://techcrunch.com/2026/04/03/openai-executive-shuffle-new-roles-coo-brad-lightcap-fidji-simo-kate-rouch/"
-    },
-    {
-      "title": "OpenClaw gives users yet another reason to be freaked out about security",
-      "summary": "The viral AI agentic tool let attackers silently gain admin unauthenticated access.",
-      "source": "Ars Technica",
-      "published": "2026-04-03T20:30:15+00:00",
-      "link": "https://arstechnica.com/security/2026/04/heres-why-its-prudent-for-openclaw-users-to-assume-compromise/"
-    },
-    {
-      "title": "Anthropic buys biotech startup Coefficient Bio in $400M deal: Reports",
-      "summary": "Anthropic has purchased the stealth biotech AI startup Coefficient Bio in a $400 million stock deal, according to The Information and Eric Newcomer.",
-      "source": "TechCrunch",
-      "published": "2026-04-03T20:28:40+00:00",
-      "link": "https://techcrunch.com/2026/04/03/anthropic-buys-biotech-startup-coefficient-bio-in-400m-deal-reports/"
-    },
-    {
-      "title": "OpenAI’s AGI boss is taking a leave of absence",
-      "summary": "OpenAI is undergoing another round of C-suite changes, according to an internal memo viewed by The Verge.",
-      "source": "The Verge",
-      "published": "2026-04-03T20:22:59+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/906965/openais-agi-boss-is-taking-a-leave-of-absence"
-    },
-    {
-      "title": "Anthropic ramps up its political activities with a new PAC",
-      "summary": "With the midterms right around the corner, the new group is positioned to back candidates who support the AI company's policy agenda.",
-      "source": "TechCrunch",
-      "published": "2026-04-03T20:22:18+00:00",
-      "link": "https://techcrunch.com/2026/04/03/anthropic-ramps-up-its-political-activities-with-a-new-pac/"
-    },
-    {
-      "title": "AI companies are building huge natural gas plants to power data centers. What could go wrong?",
-      "summary": "Meta, Microsoft, and Google are all betting big on new natural gas power plants to run their AI data centers. They may regret it.",
-      "source": "TechCrunch",
-      "published": "2026-04-03T19:48:22+00:00",
-      "link": "https://techcrunch.com/2026/04/03/ai-companies-are-building-huge-natural-gas-plants-to-power-data-centers-what-could-go-wrong/"
     }
   ]
 };
