@@ -1,6 +1,41 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-04-10T14:17:29.442917+00:00",
+  "lastUpdated": "2026-04-10T17:42:50.150576+00:00",
   "items": [
+    {
+      "title": "The Iranian Lego AI video creators credit their virality to ‘heart’",
+      "summary": "Donald Trump has spun the recent rescue of a downed airman whose fighter jet was destroyed behind Iranian borders as a resounding success.",
+      "source": "The Verge",
+      "published": "2026-04-10T17:30:00+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/909948/explosive-media-lego-iran-war-trump-netanyahu"
+    },
+    {
+      "title": "Stalking victim sues OpenAI, claims ChatGPT fueled her abuser’s delusions and ignored her warnings",
+      "summary": "OpenAI ignored three warnings that a ChatGPT user was dangerous — including its own mass-casualty flag — while he stalked and harassed his ex-girlfriend, a new lawsuit alleges.",
+      "source": "TechCrunch",
+      "published": "2026-04-10T16:41:34+00:00",
+      "link": "https://techcrunch.com/2026/04/10/stalking-victim-sues-openai-claims-chatgpt-fueled-her-abusers-delusions-and-ignored-her-warnings/"
+    },
+    {
+      "title": "TechCrunch is heading to Tokyo — and bringing the Startup Battlefield with it",
+      "summary": "SusHi Tech 2026 is zeroing in on four technology domains reshaping society: AI, Robotics, Resilience, and Entertainment.",
+      "source": "TechCrunch",
+      "published": "2026-04-10T16:38:43+00:00",
+      "link": "https://techcrunch.com/2026/04/10/techcrunch-is-heading-to-tokyo-and-bringing-the-startup-battlefield-with-it/"
+    },
+    {
+      "title": "Suspect Arrested for Allegedly Throwing Molotov Cocktail at Sam Altman’s Home",
+      "summary": "An attacker allegedly threw a molotov cocktail at the OpenAI CEO’s residence before making threats outside of the startup’s headquarters.",
+      "source": "Wired",
+      "published": "2026-04-10T16:32:19+00:00",
+      "link": "https://www.wired.com/story/sam-altman-home-attack-openai-san-franisco-office-threat/"
+    },
+    {
+      "title": "This Startup Wants You to Pay Up to Talk With AI Versions of Human Experts",
+      "summary": "Onix is launching a “Substack of bots,” where digital twins of health and wellness influencers dispense advice 24/7. And maybe hawk their products.",
+      "source": "Wired",
+      "published": "2026-04-10T16:00:00+00:00",
+      "link": "https://www.wired.com/story/onix-substack-ai-platform-therapy-medicine-nutrition/"
+    },
     {
       "title": "CIA plans to integrate AI assistants into all analysis platforms",
       "summary": "According to CIA Deputy Director Michael Ellis, the agency recently produced its first fully autonomous intelligence report using AI, Politico reports. The article CIA plans to integrate AI assistants into all analysis platforms appeared first on The Decoder.",
@@ -21,6 +56,20 @@ const FEED_DATA = {
       "source": "AI News",
       "published": "2026-04-10T13:57:15+00:00",
       "link": "https://www.artificialintelligence-news.com/news/ibm-how-robust-ai-governance-protects-enterprise-margins/"
+    },
+    {
+      "title": "US summons bank bosses over cyber risks from Anthropic's latest AI model",
+      "summary": "Article URL: https://www.theguardian.com/technology/2026/apr/10/us-summoned-bank-bosses-to-discuss-cyber-risks-posed-by-anthropic-latest-ai-model Comments URL: https://news.ycombinator.com/item?id=47718114 Points: 79 # Comments: 51",
+      "source": "Hacker News",
+      "published": "2026-04-10T13:47:17+00:00",
+      "link": "https://www.theguardian.com/technology/2026/apr/10/us-summoned-bank-bosses-to-discuss-cyber-risks-posed-by-anthropic-latest-ai-model"
+    },
+    {
+      "title": "OpenAI backs Illinois bill that would limit when AI labs can be held liable",
+      "summary": "https://archive.md/WzwBY Comments URL: https://news.ycombinator.com/item?id=47717587 Points: 386 # Comments: 282",
+      "source": "Hacker News",
+      "published": "2026-04-10T13:08:43+00:00",
+      "link": "https://www.wired.com/story/openai-backs-bill-exempt-ai-firms-model-harm-lawsuits/"
     },
     {
       "title": "Fear and loathing at OpenAI",
@@ -94,7 +143,7 @@ const FEED_DATA = {
     },
     {
       "title": "Scientists invented a fake disease. AI told people it was real",
-      "summary": "Article URL: https://www.nature.com/articles/d41586-026-01100-y Comments URL: https://news.ycombinator.com/item?id=47715291 Points: 81 # Comments: 84",
+      "summary": "Article URL: https://www.nature.com/articles/d41586-026-01100-y Comments URL: https://news.ycombinator.com/item?id=47715291 Points: 84 # Comments: 87",
       "source": "Hacker News",
       "published": "2026-04-10T08:44:37+00:00",
       "link": "https://www.nature.com/articles/d41586-026-01100-y"
@@ -136,7 +185,7 @@ const FEED_DATA = {
     },
     {
       "title": "US defense official overseeing AI reaped millions selling xAI stock",
-      "summary": "Article URL: https://www.theguardian.com/us-news/2026/apr/09/pentagon-ai-xai-emil-michael Comments URL: https://news.ycombinator.com/item?id=47709197 Points: 54 # Comments: 9",
+      "summary": "Article URL: https://www.theguardian.com/us-news/2026/apr/09/pentagon-ai-xai-emil-michael Comments URL: https://news.ycombinator.com/item?id=47709197 Points: 55 # Comments: 11",
       "source": "Hacker News",
       "published": "2026-04-09T20:14:23+00:00",
       "link": "https://www.theguardian.com/us-news/2026/apr/09/pentagon-ai-xai-emil-michael"
@@ -171,7 +220,7 @@ const FEED_DATA = {
     },
     {
       "title": "Instant 1.0, a backend for AI-coded apps",
-      "summary": "Article URL: https://www.instantdb.com/essays/architecture Comments URL: https://news.ycombinator.com/item?id=47707632 Points: 185 # Comments: 90",
+      "summary": "Article URL: https://www.instantdb.com/essays/architecture Comments URL: https://news.ycombinator.com/item?id=47707632 Points: 194 # Comments: 105",
       "source": "Hacker News",
       "published": "2026-04-09T18:30:59+00:00",
       "link": "https://www.instantdb.com/essays/architecture"
@@ -227,7 +276,7 @@ const FEED_DATA = {
     },
     {
       "title": "Study found that young adults have grown less hopeful and more angry about AI",
-      "summary": "Article URL: https://www.nytimes.com/2026/04/09/style/gen-z-ai-gallup-study.html Comments URL: https://news.ycombinator.com/item?id=47704443 Points: 129 # Comments: 175",
+      "summary": "Article URL: https://www.nytimes.com/2026/04/09/style/gen-z-ai-gallup-study.html Comments URL: https://news.ycombinator.com/item?id=47704443 Points: 131 # Comments: 176",
       "source": "Hacker News",
       "published": "2026-04-09T14:44:16+00:00",
       "link": "https://www.nytimes.com/2026/04/09/style/gen-z-ai-gallup-study.html"
@@ -605,7 +654,7 @@ const FEED_DATA = {
     },
     {
       "title": "OpenAI says its new model GPT-2 is too dangerous to release (2019)",
-      "summary": "Article URL: https://slate.com/technology/2019/02/openai-gpt2-text-generating-algorithm-ai-dangerous.html Comments URL: https://news.ycombinator.com/item?id=47684326 Points: 392 # Comments: 117",
+      "summary": "Article URL: https://slate.com/technology/2019/02/openai-gpt2-text-generating-algorithm-ai-dangerous.html Comments URL: https://news.ycombinator.com/item?id=47684326 Points: 393 # Comments: 117",
       "source": "Hacker News",
       "published": "2026-04-08T02:41:12+00:00",
       "link": "https://slate.com/technology/2019/02/openai-gpt2-text-generating-algorithm-ai-dangerous.html"
@@ -738,7 +787,7 @@ const FEED_DATA = {
     },
     {
       "title": "An AI robot in my home",
-      "summary": "https://allevato.me/2026/04/03/reviving-a-robot Comments URL: https://news.ycombinator.com/item?id=47674950 Points: 60 # Comments: 22",
+      "summary": "https://allevato.me/2026/04/03/reviving-a-robot Comments URL: https://news.ycombinator.com/item?id=47674950 Points: 64 # Comments: 28",
       "source": "Hacker News",
       "published": "2026-04-07T13:19:10+00:00",
       "link": "https://allevato.me/2026/04/07/an-ai-robot-in-my-home"
@@ -1351,55 +1400,6 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-04-03T19:48:22+00:00",
       "link": "https://techcrunch.com/2026/04/03/ai-companies-are-building-huge-natural-gas-plants-to-power-data-centers-what-could-go-wrong/"
-    },
-    {
-      "title": "OpenAI’s Fidji Simo Is Taking Medical Leave Amid an Executive Shake-Up",
-      "summary": "The company is undergoing major leadership restructuring as its CEO of AGI deployment goes on leave for “several weeks.”",
-      "source": "Wired",
-      "published": "2026-04-03T19:38:35+00:00",
-      "link": "https://www.wired.com/story/openais-fidji-simo-is-taking-a-leave-of-absence/"
-    },
-    {
-      "title": "Deepseek v4 will reportedly run entirely on Huawei chips in a major win for China's AI independence push",
-      "summary": "Deepseek v4 is expected to launch in the coming weeks and will run exclusively on Huawei chips. China's biggest tech companies have reportedly already ordered hundreds of thousands of units.",
-      "source": "The Decoder",
-      "published": "2026-04-03T19:02:18+00:00",
-      "link": "https://the-decoder.com/deepseek-v4-will-reportedly-run-entirely-on-huawei-chips-in-a-major-win-for-chinas-ai-independence-push/"
-    },
-    {
-      "title": "Microsoft is betting $10 billion on Japan's AI future",
-      "summary": "Microsoft is investing $10 billion in Japan from 2026 to 2029, its largest ever commitment to the country. The article Microsoft is betting $10 billion on Japan's AI future appeared first on The Decoder.",
-      "source": "The Decoder",
-      "published": "2026-04-03T18:16:40+00:00",
-      "link": "https://the-decoder.com/microsoft-is-betting-10-billion-on-japans-ai-future/"
-    },
-    {
-      "title": "Four things we’d need to put data centers in space",
-      "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here.",
-      "source": "MIT Tech Review",
-      "published": "2026-04-03T17:03:19+00:00",
-      "link": "https://www.technologyreview.com/2026/04/03/1135073/four-things-wed-need-to-put-data-centers-in-space/"
-    },
-    {
-      "title": "Anthropic says Claude Code's usage drain comes down to peak-hour caps and ballooning contexts",
-      "summary": "Anthropic explains why Claude Code users have been burning through their limits so fast and shares tips to cut down on token usage. The article Anthropic says Claude Code's usage drain comes down to peak-hour caps and ballooning contexts appeared first on The Decoder.",
-      "source": "The Decoder",
-      "published": "2026-04-03T14:54:05+00:00",
-      "link": "https://the-decoder.com/anthropic-says-claude-codes-usage-drain-comes-down-to-peak-hour-caps-and-ballooning-contexts/"
-    },
-    {
-      "title": "OpenAI shifts to usage-based pricing for Codex in ChatGPT business plans",
-      "summary": "OpenAI is ditching fixed licenses for Codex in its ChatGPT business plans. Instead, companies only pay for what they actually use, a move aimed squarely at GitHub Copilot and Cursor.",
-      "source": "The Decoder",
-      "published": "2026-04-03T14:23:30+00:00",
-      "link": "https://the-decoder.com/openai-shifts-to-usage-based-pricing-for-codex-in-chatgpt-business-plans/"
-    },
-    {
-      "title": "The Facebook insider building content moderation for the AI era",
-      "summary": "Moonbounce has raised $12 million to grow its AI control engine that converts content moderation policies into consistent, predictable AI behavior.",
-      "source": "TechCrunch",
-      "published": "2026-04-03T14:00:15+00:00",
-      "link": "https://techcrunch.com/2026/04/03/moonbounce-fundraise-content-moderation-for-the-ai-era/"
     }
   ]
 };
