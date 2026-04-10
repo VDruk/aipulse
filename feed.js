@@ -1,6 +1,13 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-04-09T23:11:22.759053+00:00",
+  "lastUpdated": "2026-04-10T07:06:29.952067+00:00",
   "items": [
+    {
+      "title": "OpenAI Backs Bill That Would Limit Liability for AI-Enabled Mass Deaths or Financial Disasters",
+      "summary": "The ChatGPT-maker testified in favor of an Illinois bill that would limit when AI labs can be held liable—even in cases where their products cause “critical harm.”",
+      "source": "Wired",
+      "published": "2026-04-10T00:19:53+00:00",
+      "link": "https://www.wired.com/story/openai-backs-bill-exempt-ai-firms-model-harm-lawsuits/"
+    },
     {
       "title": "ChatGPT has a new $100 per month Pro subscription",
       "summary": "OpenAI has announced a new version of its ChatGPT Pro subscription that costs $100 per month. The new Pro tier offers \"5x more\" usage of its Codex coding tool than the $20 per month Plus subscription and \"is best for longer, high-effort Codex sessions,\" OpenAI says.",
@@ -49,6 +56,13 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-04-09T18:40:08+00:00",
       "link": "https://the-decoder.com/claude-cowork-expands-to-all-paid-plans-on-macos-and-windows-with-new-org-controls/"
+    },
+    {
+      "title": "Instant 1.0, a backend for AI-coded apps",
+      "summary": "Article URL: https://www.instantdb.com/essays/architecture Comments URL: https://news.ycombinator.com/item?id=47707632 Points: 120 # Comments: 68",
+      "source": "Hacker News",
+      "published": "2026-04-09T18:30:59+00:00",
+      "link": "https://www.instantdb.com/essays/architecture"
     },
     {
       "title": "Google and Intel deepen AI infrastructure partnership",
@@ -101,7 +115,7 @@ const FEED_DATA = {
     },
     {
       "title": "Study found that young adults have grown less hopeful and more angry about AI",
-      "summary": "Article URL: https://www.nytimes.com/2026/04/09/style/gen-z-ai-gallup-study.html Comments URL: https://news.ycombinator.com/item?id=47704443 Points: 98 # Comments: 141",
+      "summary": "Article URL: https://www.nytimes.com/2026/04/09/style/gen-z-ai-gallup-study.html Comments URL: https://news.ycombinator.com/item?id=47704443 Points: 111 # Comments: 164",
       "source": "Hacker News",
       "published": "2026-04-09T14:44:16+00:00",
       "link": "https://www.nytimes.com/2026/04/09/style/gen-z-ai-gallup-study.html"
@@ -206,14 +220,14 @@ const FEED_DATA = {
     },
     {
       "title": "Process Manager for Autonomous AI Agents",
-      "summary": "Article URL: https://botctl.dev/ Comments URL: https://news.ycombinator.com/item?id=47699814 Points: 57 # Comments: 21",
+      "summary": "Article URL: https://botctl.dev/ Comments URL: https://news.ycombinator.com/item?id=47699814 Points: 58 # Comments: 21",
       "source": "Hacker News",
       "published": "2026-04-09T06:00:55+00:00",
       "link": "https://botctl.dev/"
     },
     {
       "title": "App Store sees 84% surge in new apps as AI coding tools take off",
-      "summary": "Article URL: https://9to5mac.com/2026/04/06/app-store-sees-84-surge-in-new-apps-as-ai-coding-tools-take-off/ Comments URL: https://news.ycombinator.com/item?id=47699086 Points: 64 # Comments: 72",
+      "summary": "Article URL: https://9to5mac.com/2026/04/06/app-store-sees-84-surge-in-new-apps-as-ai-coding-tools-take-off/ Comments URL: https://news.ycombinator.com/item?id=47699086 Points: 64 # Comments: 74",
       "source": "Hacker News",
       "published": "2026-04-09T03:51:41+00:00",
       "link": "https://9to5mac.com/2026/04/06/app-store-sees-84-surge-in-new-apps-as-ai-coding-tools-take-off/"
@@ -262,7 +276,7 @@ const FEED_DATA = {
     },
     {
       "title": "AMD AI director says Claude Code is becoming dumber and lazier since update",
-      "summary": "Article URL: https://www.theregister.com/2026/04/06/anthropic_claude_code_dumber_lazier_amd_ai_director/ Comments URL: https://news.ycombinator.com/item?id=47696210 Points: 50 # Comments: 14",
+      "summary": "Article URL: https://www.theregister.com/2026/04/06/anthropic_claude_code_dumber_lazier_amd_ai_director/ Comments URL: https://news.ycombinator.com/item?id=47696210 Points: 51 # Comments: 14",
       "source": "Hacker News",
       "published": "2026-04-08T21:01:23+00:00",
       "link": "https://www.theregister.com/2026/04/06/anthropic_claude_code_dumber_lazier_amd_ai_director/"
@@ -276,7 +290,7 @@ const FEED_DATA = {
     },
     {
       "title": "The AI Great Leap Forward",
-      "summary": "Article URL: https://leehanchung.github.io/blogs/2026/04/05/the-ai-great-leap-forward/ Comments URL: https://news.ycombinator.com/item?id=47695647 Points: 120 # Comments: 59",
+      "summary": "Article URL: https://leehanchung.github.io/blogs/2026/04/05/the-ai-great-leap-forward/ Comments URL: https://news.ycombinator.com/item?id=47695647 Points: 127 # Comments: 60",
       "source": "Hacker News",
       "published": "2026-04-08T20:10:51+00:00",
       "link": "https://leehanchung.github.io/blogs/2026/04/05/the-ai-great-leap-forward/"
@@ -329,6 +343,13 @@ const FEED_DATA = {
       "source": "Wired",
       "published": "2026-04-08T17:00:00+00:00",
       "link": "https://www.wired.com/story/anthropic-launches-claude-managed-agents/"
+    },
+    {
+      "title": "Show HN: TUI-use: Let AI agents control interactive terminal programs",
+      "summary": "Article URL: https://github.com/onesuper/tui-use Comments URL: https://news.ycombinator.com/item?id=47692661 Points: 52 # Comments: 37",
+      "source": "Hacker News",
+      "published": "2026-04-08T16:41:16+00:00",
+      "link": "https://github.com/onesuper/tui-use"
     },
     {
       "title": "Stability AI launches Brand Studio for brand-consistent image generation",
@@ -472,7 +493,7 @@ const FEED_DATA = {
     },
     {
       "title": "OpenAI says its new model GPT-2 is too dangerous to release (2019)",
-      "summary": "Article URL: https://slate.com/technology/2019/02/openai-gpt2-text-generating-algorithm-ai-dangerous.html Comments URL: https://news.ycombinator.com/item?id=47684326 Points: 388 # Comments: 115",
+      "summary": "Article URL: https://slate.com/technology/2019/02/openai-gpt2-text-generating-algorithm-ai-dangerous.html Comments URL: https://news.ycombinator.com/item?id=47684326 Points: 392 # Comments: 117",
       "source": "Hacker News",
       "published": "2026-04-08T02:41:12+00:00",
       "link": "https://slate.com/technology/2019/02/openai-gpt2-text-generating-algorithm-ai-dangerous.html"
@@ -563,7 +584,7 @@ const FEED_DATA = {
     },
     {
       "title": "Taste in the age of AI and LLMs",
-      "summary": "Article URL: https://rajnandan.com/posts/taste-in-the-age-of-ai-and-llms/ Comments URL: https://news.ycombinator.com/item?id=47677241 Points: 263 # Comments: 209",
+      "summary": "Article URL: https://rajnandan.com/posts/taste-in-the-age-of-ai-and-llms/ Comments URL: https://news.ycombinator.com/item?id=47677241 Points: 263 # Comments: 210",
       "source": "Hacker News",
       "published": "2026-04-07T15:54:16+00:00",
       "link": "https://rajnandan.com/posts/taste-in-the-age-of-ai-and-llms/"
@@ -682,7 +703,7 @@ const FEED_DATA = {
     },
     {
       "title": "MemPalace, the highest-scoring AI memory system ever benchmarked",
-      "summary": "Article URL: https://github.com/milla-jovovich/mempalace Comments URL: https://news.ycombinator.com/item?id=47672792 Points: 61 # Comments: 14",
+      "summary": "Article URL: https://github.com/milla-jovovich/mempalace Comments URL: https://news.ycombinator.com/item?id=47672792 Points: 63 # Comments: 14",
       "source": "Hacker News",
       "published": "2026-04-07T09:53:34+00:00",
       "link": "https://github.com/milla-jovovich/mempalace"
@@ -710,7 +731,7 @@ const FEED_DATA = {
     },
     {
       "title": "Bernie Sanders: \"AI Is a Threat to Everything the American People Hold Dear\"",
-      "summary": "Article URL: https://www.wsj.com/opinion/ai-is-a-threat-to-everything-the-american-people-hold-dear-a3286459 Comments URL: https://news.ycombinator.com/item?id=47667798 Points: 77 # Comments: 68",
+      "summary": "Article URL: https://www.wsj.com/opinion/ai-is-a-threat-to-everything-the-american-people-hold-dear-a3286459 Comments URL: https://news.ycombinator.com/item?id=47667798 Points: 77 # Comments: 69",
       "source": "Hacker News",
       "published": "2026-04-06T21:57:54+00:00",
       "link": "https://www.wsj.com/opinion/ai-is-a-threat-to-everything-the-american-people-hold-dear-a3286459"
@@ -724,7 +745,7 @@ const FEED_DATA = {
     },
     {
       "title": "Show HN: Hippo, biologically inspired memory for AI agents",
-      "summary": "Article URL: https://github.com/kitfunso/hippo-memory Comments URL: https://news.ycombinator.com/item?id=47667672 Points: 128 # Comments: 28",
+      "summary": "Article URL: https://github.com/kitfunso/hippo-memory Comments URL: https://news.ycombinator.com/item?id=47667672 Points: 128 # Comments: 29",
       "source": "Hacker News",
       "published": "2026-04-06T21:49:34+00:00",
       "link": "https://github.com/kitfunso/hippo-memory"
@@ -1379,27 +1400,6 @@ const FEED_DATA = {
       "source": "Ars Technica",
       "published": "2026-04-02T17:00:11+00:00",
       "link": "https://arstechnica.com/security/2026/04/new-rowhammer-attacks-give-complete-control-of-machines-running-nvidia-gpus/"
-    },
-    {
-      "title": "Cursor Launches a New AI Agent Experience to Take On Claude Code and Codex",
-      "summary": "As Cursor launches the next generation of its product, the AI coding startup has to compete with OpenAI and Anthropic more directly than ever.",
-      "source": "Wired",
-      "published": "2026-04-02T17:00:00+00:00",
-      "link": "https://www.wired.com/story/cusor-launches-coding-agent-openai-anthropic/"
-    },
-    {
-      "title": "Microsoft takes on AI rivals with three new foundational models",
-      "summary": "MAI released models that can transcribe voice into text as well as generate audio and images after the group's formation six months ago.",
-      "source": "TechCrunch",
-      "published": "2026-04-02T16:48:16+00:00",
-      "link": "https://techcrunch.com/2026/04/02/microsoft-takes-on-ai-rivals-with-three-new-foundational-models/"
-    },
-    {
-      "title": "KiloClaw targets shadow AI with autonomous agent governance",
-      "summary": "With the launch of KiloClaw, enterprises now have a tool to enforce governance over autonomous agents and manage shadow AI.",
-      "source": "AI News",
-      "published": "2026-04-02T16:30:53+00:00",
-      "link": "https://www.artificialintelligence-news.com/news/kiloclaw-targets-shadow-ai-autonomous-agent-governance/"
     }
   ]
 };
