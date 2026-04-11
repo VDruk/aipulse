@@ -1,6 +1,20 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-04-11T06:02:22.218061+00:00",
+  "lastUpdated": "2026-04-11T09:29:16.072088+00:00",
   "items": [
+    {
+      "title": "Claude Code's new Ultraplan feature moves task planning to the cloud",
+      "summary": "Anthropic's new Ultraplan feature for Claude Code moves task planning to the cloud. Claude works out the plan in the browser while the terminal stays free for other work.",
+      "source": "The Decoder",
+      "published": "2026-04-11T09:13:38+00:00",
+      "link": "https://the-decoder.com/claude-codes-new-ultraplan-feature-moves-task-planning-to-the-cloud/"
+    },
+    {
+      "title": "Someone threw a Molotov cocktail at OpenAI CEO Sam Altman's home in the middle of the night",
+      "summary": "Someone threw a Molotov cocktail at OpenAI CEO Sam Altman's home at 3:45 a.m.",
+      "source": "The Decoder",
+      "published": "2026-04-11T08:51:58+00:00",
+      "link": "https://the-decoder.com/someone-threw-a-molotov-cocktail-at-openai-ceo-sam-altmans-home-in-the-middle-of-the-night/"
+    },
     {
       "title": "Anthropic temporarily banned OpenClaw’s creator from accessing Claude",
       "summary": "This ban took place after Claude's pricing changed for OpenClaw users last week.",
@@ -24,7 +38,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI assistance when contributing to the Linux kernel",
-      "summary": "Article URL: https://github.com/torvalds/linux/blob/master/Documentation/process/coding-assistants.rst Comments URL: https://news.ycombinator.com/item?id=47721953 Points: 252 # Comments: 167",
+      "summary": "Article URL: https://github.com/torvalds/linux/blob/master/Documentation/process/coding-assistants.rst Comments URL: https://news.ycombinator.com/item?id=47721953 Points: 315 # Comments: 211",
       "source": "Hacker News",
       "published": "2026-04-10T18:35:21+00:00",
       "link": "https://github.com/torvalds/linux/blob/master/Documentation/process/coding-assistants.rst"
@@ -101,14 +115,14 @@ const FEED_DATA = {
     },
     {
       "title": "US summons bank bosses over cyber risks from Anthropic's latest AI model",
-      "summary": "Article URL: https://www.theguardian.com/technology/2026/apr/10/us-summoned-bank-bosses-to-discuss-cyber-risks-posed-by-anthropic-latest-ai-model Comments URL: https://news.ycombinator.com/item?id=47718114 Points: 105 # Comments: 91",
+      "summary": "Article URL: https://www.theguardian.com/technology/2026/apr/10/us-summoned-bank-bosses-to-discuss-cyber-risks-posed-by-anthropic-latest-ai-model Comments URL: https://news.ycombinator.com/item?id=47718114 Points: 105 # Comments: 92",
       "source": "Hacker News",
       "published": "2026-04-10T13:47:17+00:00",
       "link": "https://www.theguardian.com/technology/2026/apr/10/us-summoned-bank-bosses-to-discuss-cyber-risks-posed-by-anthropic-latest-ai-model"
     },
     {
       "title": "OpenAI backs Illinois bill that would limit when AI labs can be held liable",
-      "summary": "https://archive.md/WzwBY Comments URL: https://news.ycombinator.com/item?id=47717587 Points: 427 # Comments: 309",
+      "summary": "https://archive.md/WzwBY Comments URL: https://news.ycombinator.com/item?id=47717587 Points: 430 # Comments: 312",
       "source": "Hacker News",
       "published": "2026-04-10T13:08:43+00:00",
       "link": "https://www.wired.com/story/openai-backs-bill-exempt-ai-firms-model-harm-lawsuits/"
@@ -262,7 +276,7 @@ const FEED_DATA = {
     },
     {
       "title": "Instant 1.0, a backend for AI-coded apps",
-      "summary": "Article URL: https://www.instantdb.com/essays/architecture Comments URL: https://news.ycombinator.com/item?id=47707632 Points: 207 # Comments: 111",
+      "summary": "Article URL: https://www.instantdb.com/essays/architecture Comments URL: https://news.ycombinator.com/item?id=47707632 Points: 208 # Comments: 111",
       "source": "Hacker News",
       "published": "2026-04-09T18:30:59+00:00",
       "link": "https://www.instantdb.com/essays/architecture"
@@ -318,7 +332,7 @@ const FEED_DATA = {
     },
     {
       "title": "Study found that young adults have grown less hopeful and more angry about AI",
-      "summary": "Article URL: https://www.nytimes.com/2026/04/09/style/gen-z-ai-gallup-study.html Comments URL: https://news.ycombinator.com/item?id=47704443 Points: 136 # Comments: 180",
+      "summary": "Article URL: https://www.nytimes.com/2026/04/09/style/gen-z-ai-gallup-study.html Comments URL: https://news.ycombinator.com/item?id=47704443 Points: 138 # Comments: 181",
       "source": "Hacker News",
       "published": "2026-04-09T14:44:16+00:00",
       "link": "https://www.nytimes.com/2026/04/09/style/gen-z-ai-gallup-study.html"
@@ -1386,20 +1400,6 @@ const FEED_DATA = {
       "source": "Hacker News",
       "published": "2026-04-03T22:25:22+00:00",
       "link": "https://www.wheresyoured.at/the-subprime-ai-crisis-is-here/"
-    },
-    {
-      "title": "Meta Pauses Work With Mercor After Data Breach Puts AI Industry Secrets at Risk",
-      "summary": "Major AI labs are investigating a security incident that impacted Mercor, a leading data vendor. The incident could have exposed key data about how they train AI models.",
-      "source": "Wired",
-      "published": "2026-04-03T21:28:14+00:00",
-      "link": "https://www.wired.com/story/meta-pauses-work-with-mercor-after-data-breach-puts-ai-industry-secrets-at-risk/"
-    },
-    {
-      "title": "\"Cognitive surrender\" leads AI users to abandon logical thinking, research finds",
-      "summary": "Article URL: https://arstechnica.com/ai/2026/04/research-finds-ai-users-scarily-willing-to-surrender-their-cognition-to-llms/ Comments URL: https://news.ycombinator.com/item?id=47632504 Points: 99 # Comments: 42",
-      "source": "Hacker News",
-      "published": "2026-04-03T21:26:13+00:00",
-      "link": "https://arstechnica.com/ai/2026/04/research-finds-ai-users-scarily-willing-to-surrender-their-cognition-to-llms/"
     }
   ]
 };
