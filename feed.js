@@ -1,19 +1,61 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-04-11T09:29:16.072088+00:00",
+  "lastUpdated": "2026-04-11T13:57:01.689532+00:00",
   "items": [
+    {
+      "title": "Someone threw a Molotov cocktail at OpenAI CEO Sam Altman's home in the middle of the night",
+      "summary": "Someone threw a Molotov cocktail at OpenAI CEO Sam Altman's home at 3:45 a.m.",
+      "source": "The Decoder",
+      "published": "2026-04-11T13:32:58+00:00",
+      "link": "https://the-decoder.com/someone-threw-a-molotov-cocktail-at-openai-ceo-sam-altmans-home-in-the-middle-of-the-night/"
+    },
+    {
+      "title": "Google's Gemma 4 puts free agentic AI on your phone and no data ever leaves the device",
+      "summary": "Google's new open-source model, Gemma 4, processes text, images, and audio completely on-device. Using agent skills, the AI can independently tap into tools like Wikipedia or interactive maps; no cloud required.",
+      "source": "The Decoder",
+      "published": "2026-04-11T13:21:59+00:00",
+      "link": "https://the-decoder.com/googles-gemma-4-puts-free-agentic-ai-on-your-phone-and-no-data-ever-leaves-the-device/"
+    },
+    {
+      "title": "How Iran out-shitposted the White House",
+      "summary": "In the early days of the war on Iran, while the White House was busy posting Call of Duty memes and AI slop of dancing bowling pins, the Iranian regime's state media was flooding the zone with video after video of what was happening on the ground: Explosions over Tehran.",
+      "source": "The Verge",
+      "published": "2026-04-11T13:00:00+00:00",
+      "link": "https://www.theverge.com/policy/910401/iran-war-propaganda-blackout-lego-ai-slop"
+    },
+    {
+      "title": "The operator behind the AI agent that defamed an open-source developer calls it a \"social experiment\"",
+      "summary": "The anonymous operator behind \"MJ Rathbun,\" the AI agent that published a defamatory article about an open-source developer, has come forward, calling it a \"social experiment.\" The article The operator behind the AI agent that defamed an open-source developer calls it a \"social...",
+      "source": "The Decoder",
+      "published": "2026-04-11T11:22:21+00:00",
+      "link": "https://the-decoder.com/the-operator-behind-the-ai-agent-that-defamed-an-open-source-developer-calls-it-a-social-experiment/"
+    },
+    {
+      "title": "Overworld's Waypoint-1.5 brings AI-generated 3D worlds to Mac and Windows on consumer hardware",
+      "summary": "With Waypoint-1.5, Overworld brings AI-generated 3D worlds to standard PCs and Macs for the first time. Here's what the system can do and how to try it.",
+      "source": "The Decoder",
+      "published": "2026-04-11T10:15:05+00:00",
+      "link": "https://the-decoder.com/overworlds-waypoint-1-5-brings-ai-generated-3d-worlds-to-mac-and-windows-on-consumer-hardware/"
+    },
+    {
+      "title": "AI models would rather guess than ask for help, researchers find",
+      "summary": "ProactiveBench tests whether multimodal language models ask users for help when visual information is missing. Out of 22 models tested, almost none ask for what they need, but a simple reinforcement learning approach hints at a fix.",
+      "source": "The Decoder",
+      "published": "2026-04-11T09:39:49+00:00",
+      "link": "https://the-decoder.com/when-ai-models-cant-see-they-just-make-something-up/"
+    },
+    {
+      "title": "How the Internet Broke Everyone’s Bullshit Detectors",
+      "summary": "From AI-generated images to restricted satellite data, the systems used to verify what’s real online are struggling to keep up.",
+      "source": "Wired",
+      "published": "2026-04-11T09:30:00+00:00",
+      "link": "https://www.wired.com/story/how-the-internet-broke-everyones-bullshit-detectors/"
+    },
     {
       "title": "Claude Code's new Ultraplan feature moves task planning to the cloud",
       "summary": "Anthropic's new Ultraplan feature for Claude Code moves task planning to the cloud. Claude works out the plan in the browser while the terminal stays free for other work.",
       "source": "The Decoder",
       "published": "2026-04-11T09:13:38+00:00",
       "link": "https://the-decoder.com/claude-codes-new-ultraplan-feature-moves-task-planning-to-the-cloud/"
-    },
-    {
-      "title": "Someone threw a Molotov cocktail at OpenAI CEO Sam Altman's home in the middle of the night",
-      "summary": "Someone threw a Molotov cocktail at OpenAI CEO Sam Altman's home at 3:45 a.m.",
-      "source": "The Decoder",
-      "published": "2026-04-11T08:51:58+00:00",
-      "link": "https://the-decoder.com/someone-threw-a-molotov-cocktail-at-openai-ceo-sam-altmans-home-in-the-middle-of-the-night/"
     },
     {
       "title": "Anthropic temporarily banned OpenClaw’s creator from accessing Claude",
@@ -38,7 +80,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI assistance when contributing to the Linux kernel",
-      "summary": "Article URL: https://github.com/torvalds/linux/blob/master/Documentation/process/coding-assistants.rst Comments URL: https://news.ycombinator.com/item?id=47721953 Points: 315 # Comments: 211",
+      "summary": "Article URL: https://github.com/torvalds/linux/blob/master/Documentation/process/coding-assistants.rst Comments URL: https://news.ycombinator.com/item?id=47721953 Points: 380 # Comments: 277",
       "source": "Hacker News",
       "published": "2026-04-10T18:35:21+00:00",
       "link": "https://github.com/torvalds/linux/blob/master/Documentation/process/coding-assistants.rst"
@@ -122,7 +164,7 @@ const FEED_DATA = {
     },
     {
       "title": "OpenAI backs Illinois bill that would limit when AI labs can be held liable",
-      "summary": "https://archive.md/WzwBY Comments URL: https://news.ycombinator.com/item?id=47717587 Points: 430 # Comments: 312",
+      "summary": "https://archive.md/WzwBY Comments URL: https://news.ycombinator.com/item?id=47717587 Points: 433 # Comments: 314",
       "source": "Hacker News",
       "published": "2026-04-10T13:08:43+00:00",
       "link": "https://www.wired.com/story/openai-backs-bill-exempt-ai-firms-model-harm-lawsuits/"
@@ -199,7 +241,7 @@ const FEED_DATA = {
     },
     {
       "title": "Scientists invented a fake disease. AI told people it was real",
-      "summary": "Article URL: https://www.nature.com/articles/d41586-026-01100-y Comments URL: https://news.ycombinator.com/item?id=47715291 Points: 86 # Comments: 88",
+      "summary": "Article URL: https://www.nature.com/articles/d41586-026-01100-y Comments URL: https://news.ycombinator.com/item?id=47715291 Points: 87 # Comments: 91",
       "source": "Hacker News",
       "published": "2026-04-10T08:44:37+00:00",
       "link": "https://www.nature.com/articles/d41586-026-01100-y"
@@ -276,7 +318,7 @@ const FEED_DATA = {
     },
     {
       "title": "Instant 1.0, a backend for AI-coded apps",
-      "summary": "Article URL: https://www.instantdb.com/essays/architecture Comments URL: https://news.ycombinator.com/item?id=47707632 Points: 208 # Comments: 111",
+      "summary": "Article URL: https://www.instantdb.com/essays/architecture Comments URL: https://news.ycombinator.com/item?id=47707632 Points: 210 # Comments: 112",
       "source": "Hacker News",
       "published": "2026-04-09T18:30:59+00:00",
       "link": "https://www.instantdb.com/essays/architecture"
@@ -332,7 +374,7 @@ const FEED_DATA = {
     },
     {
       "title": "Study found that young adults have grown less hopeful and more angry about AI",
-      "summary": "Article URL: https://www.nytimes.com/2026/04/09/style/gen-z-ai-gallup-study.html Comments URL: https://news.ycombinator.com/item?id=47704443 Points: 138 # Comments: 181",
+      "summary": "Article URL: https://www.nytimes.com/2026/04/09/style/gen-z-ai-gallup-study.html Comments URL: https://news.ycombinator.com/item?id=47704443 Points: 139 # Comments: 181",
       "source": "Hacker News",
       "published": "2026-04-09T14:44:16+00:00",
       "link": "https://www.nytimes.com/2026/04/09/style/gen-z-ai-gallup-study.html"
@@ -710,7 +752,7 @@ const FEED_DATA = {
     },
     {
       "title": "OpenAI says its new model GPT-2 is too dangerous to release (2019)",
-      "summary": "Article URL: https://slate.com/technology/2019/02/openai-gpt2-text-generating-algorithm-ai-dangerous.html Comments URL: https://news.ycombinator.com/item?id=47684326 Points: 394 # Comments: 117",
+      "summary": "Article URL: https://slate.com/technology/2019/02/openai-gpt2-text-generating-algorithm-ai-dangerous.html Comments URL: https://news.ycombinator.com/item?id=47684326 Points: 395 # Comments: 117",
       "source": "Hacker News",
       "published": "2026-04-08T02:41:12+00:00",
       "link": "https://slate.com/technology/2019/02/openai-gpt2-text-generating-algorithm-ai-dangerous.html"
@@ -1358,48 +1400,6 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-04-04T09:04:03+00:00",
       "link": "https://the-decoder.com/openai-reshuffles-leadership-as-health-issues-force-key-executives-to-step-back/"
-    },
-    {
-      "title": "Anthropic drops 400 million in shares on an eight-month-old AI pharma startup with fewer than ten employees",
-      "summary": "Anthropic is paying 400 million dollars for an eight-month-old biotech startup with fewer than ten employees. The investor walks away with a 38,513 percent return.",
-      "source": "The Decoder",
-      "published": "2026-04-04T08:24:56+00:00",
-      "link": "https://the-decoder.com/anthropic-drops-400-million-in-shares-on-an-eight-month-old-ai-pharma-startup-with-fewer-than-ten-employees/"
-    },
-    {
-      "title": "Anthropic cuts off third-party tools like OpenClaw for Claude subscribers, citing unsustainable demand",
-      "summary": "Anthropic is cutting off Claude usage through external tools like OpenClaw for subscription customers. The decision exposes a core problem in the AI industry: flat-rate pricing and agent-driven nonstop usage don't mix.",
-      "source": "The Decoder",
-      "published": "2026-04-04T08:00:03+00:00",
-      "link": "https://the-decoder.com/anthropic-cuts-off-third-party-tools-like-openclaw-for-claude-subscribers-citing-unsustainable-demand/"
-    },
-    {
-      "title": "Show HN: Travel Hacking Toolkit – Points search and trip planning with AI",
-      "summary": "I use points and miles for most of my travel. Every booking comes down to the same decision: use points or pay cash?",
-      "source": "Hacker News",
-      "published": "2026-04-04T02:26:42+00:00",
-      "link": "https://github.com/borski/travel-hacking-toolkit"
-    },
-    {
-      "title": "Anthropic is having a moment in the private markets; SpaceX could spoil the party",
-      "summary": "Glen Anderson, president of Rainmaker Securities, says the secondary market for private shares has never been more active — with Anthropic the hottest trade around, OpenAI losing ground, and SpaceX's looming IPO poised to reshape the landscape for everyone.",
-      "source": "TechCrunch",
-      "published": "2026-04-04T01:31:00+00:00",
-      "link": "https://techcrunch.com/2026/04/03/anthropic-is-having-a-moment-in-the-private-markets-spacex-could-spoil-the-party/"
-    },
-    {
-      "title": "Anthropic essentially bans OpenClaw from Claude by making subscribers pay extra",
-      "summary": "Using OpenClaw with Claude AI is about to get a lot more expensive, thanks to Anthropic's new policy changes.",
-      "source": "The Verge",
-      "published": "2026-04-03T23:52:49+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/907074/anthropic-openclaw-claude-subscription-ban"
-    },
-    {
-      "title": "The Subprime AI Crisis Is Here",
-      "summary": "Article URL: https://www.wheresyoured.at/the-subprime-ai-crisis-is-here/ Comments URL: https://news.ycombinator.com/item?id=47633150 Points: 53 # Comments: 25",
-      "source": "Hacker News",
-      "published": "2026-04-03T22:25:22+00:00",
-      "link": "https://www.wheresyoured.at/the-subprime-ai-crisis-is-here/"
     }
   ]
 };
