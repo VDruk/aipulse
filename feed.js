@@ -1,6 +1,48 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-04-12T09:34:42.108412+00:00",
+  "lastUpdated": "2026-04-12T14:00:36.416086+00:00",
   "items": [
+    {
+      "title": "OpenAI employee tries to explain usage limits of the new ChatGPT Pro plans",
+      "summary": "OpenAI recently added a $100 plan to its lineup, but confusing labels on the pricing page left users guessing about actual usage limits. An OpenAI employee tried to clear things up.",
+      "source": "The Decoder",
+      "published": "2026-04-12T13:32:38+00:00",
+      "link": "https://the-decoder.com/openai-employee-tries-to-explain-usage-limits-of-the-new-chatgpt-pro-plans/"
+    },
+    {
+      "title": "Researchers define what counts as a world model and text-to-video generators do not",
+      "summary": "An international research team wants to bring order to the fragmented world model research landscape with OpenWorldLib. Text-to-video models like Sora are explicitly left out of their definition.",
+      "source": "The Decoder",
+      "published": "2026-04-12T12:09:38+00:00",
+      "link": "https://the-decoder.com/researchers-define-what-counts-as-a-world-model-and-text-to-video-generators-do-not/"
+    },
+    {
+      "title": "The AI code wars are heating up",
+      "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the AI coding and vibe-coding booms, follow David Pierce.",
+      "source": "The Verge",
+      "published": "2026-04-12T12:00:00+00:00",
+      "link": "https://www.theverge.com/column/910019/ai-coding-wars-openai-google-anthropic"
+    },
+    {
+      "title": "Anthropic seeks advice from Christian leaders on Claude's moral and spiritual behavior",
+      "summary": "Can an AI be a \"child of God\"? Anthropic invited Christian leaders from churches, academia, and business to weigh in on Claude's moral and spiritual behavior.",
+      "source": "The Decoder",
+      "published": "2026-04-12T11:25:54+00:00",
+      "link": "https://the-decoder.com/anthropic-seeks-advice-from-christian-leaders-on-claudes-moral-and-spiritual-behavior/"
+    },
+    {
+      "title": "Agent skills look great in benchmarks but fall apart under realistic conditions, researchers find",
+      "summary": "AI agents are supposed to tap into specialized knowledge through so-called skills, modular instructions they can pull up on the fly. But a study testing 34,000 real-world skills finds these enhancements barely help under realistic conditions.",
+      "source": "The Decoder",
+      "published": "2026-04-12T10:32:30+00:00",
+      "link": "https://the-decoder.com/agent-skills-look-great-in-benchmarks-but-fall-apart-under-realistic-conditions-researchers-find/"
+    },
+    {
+      "title": "AI Will Be Met with Violence, and Nothing Good Will Come of It",
+      "summary": "Article URL: https://www.thealgorithmicbridge.com/p/ai-will-be-met-with-violence-and Comments URL: https://news.ycombinator.com/item?id=47737563 Points: 134 # Comments: 213",
+      "source": "Hacker News",
+      "published": "2026-04-12T09:16:35+00:00",
+      "link": "https://www.thealgorithmicbridge.com/p/ai-will-be-met-with-violence-and"
+    },
     {
       "title": "Arcee AI spent half its venture capital to build an open reasoning model that rivals Claude Opus in agent tasks",
       "summary": "US start-up Arcee AI spent roughly half its total venture capital to train Trinity-Large-Thinking, an open reasoning model with 400 billion parameters designed to take on Claude Opus in agent tasks.",
@@ -24,14 +66,14 @@ const FEED_DATA = {
     },
     {
       "title": "We spoke to the man making viral Lego-style AI videos for Iran",
-      "summary": "Article URL: https://www.bbc.com/news/articles/cjd8jrd1vnyo Comments URL: https://news.ycombinator.com/item?id=47735704 Points: 75 # Comments: 63",
+      "summary": "Article URL: https://www.bbc.com/news/articles/cjd8jrd1vnyo Comments URL: https://news.ycombinator.com/item?id=47735704 Points: 82 # Comments: 68",
       "source": "Hacker News",
       "published": "2026-04-12T02:37:39+00:00",
       "link": "https://www.bbc.com/news/articles/cjd8jrd1vnyo"
     },
     {
       "title": "How We Broke Top AI Agent Benchmarks: And What Comes Next",
-      "summary": "Article URL: https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/ Comments URL: https://news.ycombinator.com/item?id=47733217 Points: 371 # Comments: 94",
+      "summary": "Article URL: https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/ Comments URL: https://news.ycombinator.com/item?id=47733217 Points: 429 # Comments: 106",
       "source": "Hacker News",
       "published": "2026-04-11T19:15:56+00:00",
       "link": "https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/"
@@ -136,7 +178,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI assistance when contributing to the Linux kernel",
-      "summary": "Article URL: https://github.com/torvalds/linux/blob/master/Documentation/process/coding-assistants.rst Comments URL: https://news.ycombinator.com/item?id=47721953 Points: 502 # Comments: 381",
+      "summary": "Article URL: https://github.com/torvalds/linux/blob/master/Documentation/process/coding-assistants.rst Comments URL: https://news.ycombinator.com/item?id=47721953 Points: 507 # Comments: 389",
       "source": "Hacker News",
       "published": "2026-04-10T18:35:21+00:00",
       "link": "https://github.com/torvalds/linux/blob/master/Documentation/process/coding-assistants.rst"
@@ -192,7 +234,7 @@ const FEED_DATA = {
     },
     {
       "title": "Why do we tell ourselves scary stories about AI?",
-      "summary": "Article URL: https://www.quantamagazine.org/why-do-we-tell-ourselves-scary-stories-about-ai-20260410/ Comments URL: https://news.ycombinator.com/item?id=47718812 Points: 53 # Comments: 114",
+      "summary": "Article URL: https://www.quantamagazine.org/why-do-we-tell-ourselves-scary-stories-about-ai-20260410/ Comments URL: https://news.ycombinator.com/item?id=47718812 Points: 55 # Comments: 118",
       "source": "Hacker News",
       "published": "2026-04-10T14:35:35+00:00",
       "link": "https://www.quantamagazine.org/why-do-we-tell-ourselves-scary-stories-about-ai-20260410/"
@@ -227,7 +269,7 @@ const FEED_DATA = {
     },
     {
       "title": "OpenAI backs Illinois bill that would limit when AI labs can be held liable",
-      "summary": "https://archive.md/WzwBY Comments URL: https://news.ycombinator.com/item?id=47717587 Points: 442 # Comments: 321",
+      "summary": "https://archive.md/WzwBY Comments URL: https://news.ycombinator.com/item?id=47717587 Points: 443 # Comments: 321",
       "source": "Hacker News",
       "published": "2026-04-10T13:08:43+00:00",
       "link": "https://www.wired.com/story/openai-backs-bill-exempt-ai-firms-model-harm-lawsuits/"
@@ -612,7 +654,7 @@ const FEED_DATA = {
     },
     {
       "title": "The AI Great Leap Forward",
-      "summary": "Article URL: https://leehanchung.github.io/blogs/2026/04/05/the-ai-great-leap-forward/ Comments URL: https://news.ycombinator.com/item?id=47695647 Points: 133 # Comments: 65",
+      "summary": "Article URL: https://leehanchung.github.io/blogs/2026/04/05/the-ai-great-leap-forward/ Comments URL: https://news.ycombinator.com/item?id=47695647 Points: 134 # Comments: 66",
       "source": "Hacker News",
       "published": "2026-04-08T20:10:51+00:00",
       "link": "https://leehanchung.github.io/blogs/2026/04/05/the-ai-great-leap-forward/"
@@ -1358,48 +1400,6 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-04-05T07:27:57+00:00",
       "link": "https://the-decoder.com/ai-chatbot-traffic-grows-seven-times-faster-than-social-media-but-still-trails-by-a-factor-of-four/"
-    },
-    {
-      "title": "Alibaba's Qwen team makes AI models think deeper with new algorithm",
-      "summary": "Reinforcement learning hits a wall with reasoning models because every token gets the same reward. A new algorithm from Alibaba's Qwen team fixes this by weighting each step based on how much it shapes what comes next, doubling the length of thought processes in the process.",
-      "source": "The Decoder",
-      "published": "2026-04-05T06:30:37+00:00",
-      "link": "https://the-decoder.com/alibabas-qwen-team-makes-ai-models-think-deeper-with-new-algorithm/"
-    },
-    {
-      "title": "I used AI. It worked. I hated it",
-      "summary": "https://web.archive.org/web/20260403164006/https://taggart-t... Comments URL: https://news.ycombinator.com/item?id=47646277 Points: 54 # Comments: 126",
-      "source": "Hacker News",
-      "published": "2026-04-05T05:08:39+00:00",
-      "link": "https://taggart-tech.com/reckoning/"
-    },
-    {
-      "title": "AI that copied musical artist files copyright claim against artist [updated]",
-      "summary": "https://xcancel.com/VladTheInflator/status/20395770015317689... Comments URL: https://news.ycombinator.com/item?id=47645976 Points: 64 # Comments: 17",
-      "source": "Hacker News",
-      "published": "2026-04-05T03:55:10+00:00",
-      "link": "https://twitter.com/VladTheInflator/status/2039577001531768906"
-    },
-    {
-      "title": "Writing Lisp is AI resistant and I'm sad",
-      "summary": "Article URL: https://blog.djhaskin.com/blog/writing-lisp-is-ai-resistant-and-im-sad/ Comments URL: https://news.ycombinator.com/item?id=47645468 Points: 97 # Comments: 99",
-      "source": "Hacker News",
-      "published": "2026-04-05T02:01:31+00:00",
-      "link": "https://blog.djhaskin.com/blog/writing-lisp-is-ai-resistant-and-im-sad/"
-    },
-    {
-      "title": "A folk musician became a target for AI fakes and a copyright troll",
-      "summary": "In January, folk artist Murphy Campbell discovered several songs on her Spotify profile that did not belong there. They were songs that she had recorded, but she'd never uploaded them to Spotify, and something was off about the vocals.",
-      "source": "The Verge",
-      "published": "2026-04-04T17:52:10+00:00",
-      "link": "https://www.theverge.com/entertainment/907111/murphy-campbell-folk-music-ai-copyright"
-    },
-    {
-      "title": "LLM Wiki – example of an \"idea file\"",
-      "summary": "https://x.com/karpathy/status/2040470801506541998https://xcancel.com/karpathy/status/2040470801506541998 Comments URL: https://news.ycombinator.com/item?id=47640875 Points: 294 # Comments: 92",
-      "source": "Hacker News",
-      "published": "2026-04-04T16:57:45+00:00",
-      "link": "https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f"
     }
   ]
 };
