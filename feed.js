@@ -1,16 +1,37 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-04-12T06:24:01.947317+00:00",
+  "lastUpdated": "2026-04-12T09:34:42.108412+00:00",
   "items": [
     {
+      "title": "Arcee AI spent half its venture capital to build an open reasoning model that rivals Claude Opus in agent tasks",
+      "summary": "US start-up Arcee AI spent roughly half its total venture capital to train Trinity-Large-Thinking, an open reasoning model with 400 billion parameters designed to take on Claude Opus in agent tasks.",
+      "source": "The Decoder",
+      "published": "2026-04-12T08:59:26+00:00",
+      "link": "https://the-decoder.com/arcee-ai-spent-half-its-venture-capital-to-build-an-open-reasoning-model-that-rivals-claude-opus-in-agent-tasks/"
+    },
+    {
+      "title": "Molotov suspect who attacked Sam Altman's home was likely a Pause AI follower with AI extinction fears",
+      "summary": "A man threw a firebomb at OpenAI CEO Sam Altman's San Francisco home in the middle of the night. The suspect apparently followed the \"Pause AI\" movement and wrote online about AI driving humanity to extinction.",
+      "source": "The Decoder",
+      "published": "2026-04-12T08:21:58+00:00",
+      "link": "https://the-decoder.com/molotov-suspect-who-attacked-sam-altmans-home-was-likely-a-pause-ai-follower-with-ai-extinction-fears/"
+    },
+    {
+      "title": "Stalking victim sues OpenAI claiming ChatGPT fueled her ex-partner’s delusions",
+      "summary": "ChatGPT told a man with delusional beliefs he had the highest level of mental health, then helped him forge clinical reports to stalk and humiliate his ex-girlfriend. She's now suing OpenAI and says the company ignored three separate warnings.",
+      "source": "The Decoder",
+      "published": "2026-04-12T07:43:23+00:00",
+      "link": "https://the-decoder.com/stalking-victim-sues-openai-claiming-chatgpt-fueled-her-ex-partners-delusions/"
+    },
+    {
       "title": "We spoke to the man making viral Lego-style AI videos for Iran",
-      "summary": "Article URL: https://www.bbc.com/news/articles/cjd8jrd1vnyo Comments URL: https://news.ycombinator.com/item?id=47735704 Points: 67 # Comments: 60",
+      "summary": "Article URL: https://www.bbc.com/news/articles/cjd8jrd1vnyo Comments URL: https://news.ycombinator.com/item?id=47735704 Points: 75 # Comments: 63",
       "source": "Hacker News",
       "published": "2026-04-12T02:37:39+00:00",
       "link": "https://www.bbc.com/news/articles/cjd8jrd1vnyo"
     },
     {
       "title": "How We Broke Top AI Agent Benchmarks: And What Comes Next",
-      "summary": "Article URL: https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/ Comments URL: https://news.ycombinator.com/item?id=47733217 Points: 320 # Comments: 87",
+      "summary": "Article URL: https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/ Comments URL: https://news.ycombinator.com/item?id=47733217 Points: 371 # Comments: 94",
       "source": "Hacker News",
       "published": "2026-04-11T19:15:56+00:00",
       "link": "https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/"
@@ -115,7 +136,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI assistance when contributing to the Linux kernel",
-      "summary": "Article URL: https://github.com/torvalds/linux/blob/master/Documentation/process/coding-assistants.rst Comments URL: https://news.ycombinator.com/item?id=47721953 Points: 499 # Comments: 381",
+      "summary": "Article URL: https://github.com/torvalds/linux/blob/master/Documentation/process/coding-assistants.rst Comments URL: https://news.ycombinator.com/item?id=47721953 Points: 502 # Comments: 381",
       "source": "Hacker News",
       "published": "2026-04-10T18:35:21+00:00",
       "link": "https://github.com/torvalds/linux/blob/master/Documentation/process/coding-assistants.rst"
@@ -171,7 +192,7 @@ const FEED_DATA = {
     },
     {
       "title": "Why do we tell ourselves scary stories about AI?",
-      "summary": "Article URL: https://www.quantamagazine.org/why-do-we-tell-ourselves-scary-stories-about-ai-20260410/ Comments URL: https://news.ycombinator.com/item?id=47718812 Points: 52 # Comments: 114",
+      "summary": "Article URL: https://www.quantamagazine.org/why-do-we-tell-ourselves-scary-stories-about-ai-20260410/ Comments URL: https://news.ycombinator.com/item?id=47718812 Points: 53 # Comments: 114",
       "source": "Hacker News",
       "published": "2026-04-10T14:35:35+00:00",
       "link": "https://www.quantamagazine.org/why-do-we-tell-ourselves-scary-stories-about-ai-20260410/"
@@ -206,7 +227,7 @@ const FEED_DATA = {
     },
     {
       "title": "OpenAI backs Illinois bill that would limit when AI labs can be held liable",
-      "summary": "https://archive.md/WzwBY Comments URL: https://news.ycombinator.com/item?id=47717587 Points: 440 # Comments: 320",
+      "summary": "https://archive.md/WzwBY Comments URL: https://news.ycombinator.com/item?id=47717587 Points: 442 # Comments: 321",
       "source": "Hacker News",
       "published": "2026-04-10T13:08:43+00:00",
       "link": "https://www.wired.com/story/openai-backs-bill-exempt-ai-firms-model-harm-lawsuits/"
@@ -283,7 +304,7 @@ const FEED_DATA = {
     },
     {
       "title": "Scientists invented a fake disease. AI told people it was real",
-      "summary": "Article URL: https://www.nature.com/articles/d41586-026-01100-y Comments URL: https://news.ycombinator.com/item?id=47715291 Points: 90 # Comments: 91",
+      "summary": "Article URL: https://www.nature.com/articles/d41586-026-01100-y Comments URL: https://news.ycombinator.com/item?id=47715291 Points: 91 # Comments: 91",
       "source": "Hacker News",
       "published": "2026-04-10T08:44:37+00:00",
       "link": "https://www.nature.com/articles/d41586-026-01100-y"
@@ -1379,27 +1400,6 @@ const FEED_DATA = {
       "source": "Hacker News",
       "published": "2026-04-04T16:57:45+00:00",
       "link": "https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f"
-    },
-    {
-      "title": "12k AI-generated blog posts added in a single commit",
-      "summary": "Article URL: https://github.com/OneUptime/blog/commit/30cd2384794c897d95aca77d173db44af51ca849 Comments URL: https://news.ycombinator.com/item?id=47640722 Points: 155 # Comments: 147",
-      "source": "Hacker News",
-      "published": "2026-04-04T16:45:31+00:00",
-      "link": "https://github.com/OneUptime/blog/commit/30cd2384794c897d95aca77d173db44af51ca849"
-    },
-    {
-      "title": "12,000 AI-generated blog posts added in a single commit",
-      "summary": "Article URL: https://github.com/OneUptime/blog/commit/30cd2384794c897d95aca77d173db44af51ca849 Comments URL: https://news.ycombinator.com/item?id=47640722 Points: 78 # Comments: 44",
-      "source": "Hacker News",
-      "published": "2026-04-04T16:45:31+00:00",
-      "link": "https://github.com/OneUptime/blog/commit/30cd2384794c897d95aca77d173db44af51ca849"
-    },
-    {
-      "title": "Anthropic says Claude Code subscribers will need to pay extra for OpenClaw usage",
-      "summary": "It’s about to become more expensive for Claude Code subscribers to use Anthropic’s coding assistant with OpenClaw and other third-party tools.",
-      "source": "TechCrunch",
-      "published": "2026-04-04T16:32:22+00:00",
-      "link": "https://techcrunch.com/2026/04/04/anthropic-says-claude-code-subscribers-will-need-to-pay-extra-for-openclaw-support/"
     }
   ]
 };
