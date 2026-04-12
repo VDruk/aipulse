@@ -1,12 +1,40 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-04-12T14:00:36.416086+00:00",
+  "lastUpdated": "2026-04-12T17:29:26.746957+00:00",
   "items": [
+    {
+      "title": "From LLMs to hallucinations, here’s a simple guide to common AI terms",
+      "summary": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.",
+      "source": "TechCrunch",
+      "published": "2026-04-12T15:07:08+00:00",
+      "link": "https://techcrunch.com/2026/04/12/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/"
+    },
+    {
+      "title": "Man who firebombed Sam Altman's home was likely driven by AI extinction fears",
+      "summary": "A man threw a firebomb at OpenAI CEO Sam Altman's San Francisco home in the middle of the night. The suspect was a member of the PauseAI Discord server and had posted online about AI driving humanity to extinction.",
+      "source": "The Decoder",
+      "published": "2026-04-12T15:04:58+00:00",
+      "link": "https://the-decoder.com/man-who-firebombed-sam-altmans-home-was-likely-driven-by-ai-extinction-fears/"
+    },
+    {
+      "title": "At the HumanX conference, everyone was talking about Claude",
+      "summary": "Anthropic was the star of the show at San Francisco's AI-centric conference.",
+      "source": "TechCrunch",
+      "published": "2026-04-12T15:00:00+00:00",
+      "link": "https://techcrunch.com/2026/04/12/at-the-humanx-conference-everyone-was-talking-about-claude/"
+    },
     {
       "title": "OpenAI employee tries to explain usage limits of the new ChatGPT Pro plans",
       "summary": "OpenAI recently added a $100 plan to its lineup, but confusing labels on the pricing page left users guessing about actual usage limits. An OpenAI employee tried to clear things up.",
       "source": "The Decoder",
       "published": "2026-04-12T13:32:38+00:00",
       "link": "https://the-decoder.com/openai-employee-tries-to-explain-usage-limits-of-the-new-chatgpt-pro-plans/"
+    },
+    {
+      "title": "Why AI Sucks at Front End",
+      "summary": "Article URL: https://nerdy.dev/why-ai-sucks-at-front-end Comments URL: https://news.ycombinator.com/item?id=47738864 Points: 61 # Comments: 66",
+      "source": "Hacker News",
+      "published": "2026-04-12T12:26:09+00:00",
+      "link": "https://nerdy.dev/why-ai-sucks-at-front-end"
     },
     {
       "title": "Researchers define what counts as a world model and text-to-video generators do not",
@@ -38,7 +66,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI Will Be Met with Violence, and Nothing Good Will Come of It",
-      "summary": "Article URL: https://www.thealgorithmicbridge.com/p/ai-will-be-met-with-violence-and Comments URL: https://news.ycombinator.com/item?id=47737563 Points: 134 # Comments: 213",
+      "summary": "Article URL: https://www.thealgorithmicbridge.com/p/ai-will-be-met-with-violence-and Comments URL: https://news.ycombinator.com/item?id=47737563 Points: 296 # Comments: 492",
       "source": "Hacker News",
       "published": "2026-04-12T09:16:35+00:00",
       "link": "https://www.thealgorithmicbridge.com/p/ai-will-be-met-with-violence-and"
@@ -66,14 +94,14 @@ const FEED_DATA = {
     },
     {
       "title": "We spoke to the man making viral Lego-style AI videos for Iran",
-      "summary": "Article URL: https://www.bbc.com/news/articles/cjd8jrd1vnyo Comments URL: https://news.ycombinator.com/item?id=47735704 Points: 82 # Comments: 68",
+      "summary": "Article URL: https://www.bbc.com/news/articles/cjd8jrd1vnyo Comments URL: https://news.ycombinator.com/item?id=47735704 Points: 89 # Comments: 75",
       "source": "Hacker News",
       "published": "2026-04-12T02:37:39+00:00",
       "link": "https://www.bbc.com/news/articles/cjd8jrd1vnyo"
     },
     {
       "title": "How We Broke Top AI Agent Benchmarks: And What Comes Next",
-      "summary": "Article URL: https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/ Comments URL: https://news.ycombinator.com/item?id=47733217 Points: 429 # Comments: 106",
+      "summary": "Article URL: https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/ Comments URL: https://news.ycombinator.com/item?id=47733217 Points: 458 # Comments: 112",
       "source": "Hacker News",
       "published": "2026-04-11T19:15:56+00:00",
       "link": "https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/"
@@ -178,7 +206,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI assistance when contributing to the Linux kernel",
-      "summary": "Article URL: https://github.com/torvalds/linux/blob/master/Documentation/process/coding-assistants.rst Comments URL: https://news.ycombinator.com/item?id=47721953 Points: 507 # Comments: 389",
+      "summary": "Article URL: https://github.com/torvalds/linux/blob/master/Documentation/process/coding-assistants.rst Comments URL: https://news.ycombinator.com/item?id=47721953 Points: 509 # Comments: 394",
       "source": "Hacker News",
       "published": "2026-04-10T18:35:21+00:00",
       "link": "https://github.com/torvalds/linux/blob/master/Documentation/process/coding-assistants.rst"
@@ -269,7 +297,7 @@ const FEED_DATA = {
     },
     {
       "title": "OpenAI backs Illinois bill that would limit when AI labs can be held liable",
-      "summary": "https://archive.md/WzwBY Comments URL: https://news.ycombinator.com/item?id=47717587 Points: 443 # Comments: 321",
+      "summary": "https://archive.md/WzwBY Comments URL: https://news.ycombinator.com/item?id=47717587 Points: 444 # Comments: 322",
       "source": "Hacker News",
       "published": "2026-04-10T13:08:43+00:00",
       "link": "https://www.wired.com/story/openai-backs-bill-exempt-ai-firms-model-harm-lawsuits/"
@@ -640,7 +668,7 @@ const FEED_DATA = {
     },
     {
       "title": "AMD AI director says Claude Code is becoming dumber and lazier since update",
-      "summary": "Article URL: https://www.theregister.com/2026/04/06/anthropic_claude_code_dumber_lazier_amd_ai_director/ Comments URL: https://news.ycombinator.com/item?id=47696210 Points: 52 # Comments: 14",
+      "summary": "Article URL: https://www.theregister.com/2026/04/06/anthropic_claude_code_dumber_lazier_amd_ai_director/ Comments URL: https://news.ycombinator.com/item?id=47696210 Points: 52 # Comments: 15",
       "source": "Hacker News",
       "published": "2026-04-08T21:01:23+00:00",
       "link": "https://www.theregister.com/2026/04/06/anthropic_claude_code_dumber_lazier_amd_ai_director/"
@@ -1372,34 +1400,6 @@ const FEED_DATA = {
       "source": "The Verge",
       "published": "2026-04-05T12:00:00+00:00",
       "link": "https://www.theverge.com/column/906606/grammarly-expert-review-ai-saga"
-    },
-    {
-      "title": "Study maps developer frustration over \"AI slop\" as a \"tragedy of the commons\" in software development",
-      "summary": "A qualitative study looks at how developers perceive and push back against low-quality AI content, or \"slop,\" in software development. The critics describe a \"tragedy of the commons\" where individual productivity gains come at the cost of reviewers and the open-source community.",
-      "source": "The Decoder",
-      "published": "2026-04-05T10:55:18+00:00",
-      "link": "https://the-decoder.com/study-maps-developer-frustration-over-ai-slop-as-a-tragedy-of-the-commons-in-software-development/"
-    },
-    {
-      "title": "AI offensive cyber capabilities are doubling every six months, safety researchers find",
-      "summary": "AI models are rapidly improving at exploiting security vulnerabilities. According to a new study, their offensive cyber capability has been doubling every 5.7 months since 2024, with Opus 4.6 and GPT-5.3 Codex now solving tasks that take human experts about three hours.",
-      "source": "The Decoder",
-      "published": "2026-04-05T09:08:22+00:00",
-      "link": "https://the-decoder.com/ai-offensive-cyber-capabilities-are-doubling-every-six-months-safety-researchers-find/"
-    },
-    {
-      "title": "AI benchmarks systematically ignore how humans disagree, Google study finds",
-      "summary": "A Google study finds that the standard three to five human raters per test example often aren't enough for reliable AI benchmarks, and that splitting your annotation budget the right way matters just as much as the budget itself.",
-      "source": "The Decoder",
-      "published": "2026-04-05T08:31:45+00:00",
-      "link": "https://the-decoder.com/ai-benchmarks-systematically-ignore-how-humans-disagree-google-study-finds/"
-    },
-    {
-      "title": "AI chatbot traffic grows seven times faster than social media but still trails by a factor of four",
-      "summary": "AI chatbot traffic is growing seven times faster than social media, but still has four times less total traffic, a Similarweb analysis shows. The data reveals differences in device usage and user behavior.",
-      "source": "The Decoder",
-      "published": "2026-04-05T07:27:57+00:00",
-      "link": "https://the-decoder.com/ai-chatbot-traffic-grows-seven-times-faster-than-social-media-but-still-trails-by-a-factor-of-four/"
     }
   ]
 };
