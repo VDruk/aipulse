@@ -1,9 +1,16 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-04-11T21:25:49.631030+00:00",
+  "lastUpdated": "2026-04-12T04:10:00.429103+00:00",
   "items": [
     {
+      "title": "We spoke to the man making viral Lego-style AI videos for Iran",
+      "summary": "Article URL: https://www.bbc.com/news/articles/cjd8jrd1vnyo Comments URL: https://news.ycombinator.com/item?id=47735704 Points: 59 # Comments: 31",
+      "source": "Hacker News",
+      "published": "2026-04-12T02:37:39+00:00",
+      "link": "https://www.bbc.com/news/articles/cjd8jrd1vnyo"
+    },
+    {
       "title": "How We Broke Top AI Agent Benchmarks: And What Comes Next",
-      "summary": "Article URL: https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/ Comments URL: https://news.ycombinator.com/item?id=47733217 Points: 82 # Comments: 33",
+      "summary": "Article URL: https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/ Comments URL: https://news.ycombinator.com/item?id=47733217 Points: 265 # Comments: 75",
       "source": "Hacker News",
       "published": "2026-04-11T19:15:56+00:00",
       "link": "https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/"
@@ -49,6 +56,13 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-04-11T11:22:21+00:00",
       "link": "https://the-decoder.com/the-operator-behind-the-ai-agent-that-defamed-an-open-source-developer-calls-it-a-social-experiment/"
+    },
+    {
+      "title": "Show HN: Hormuz Havoc, a satirical game that got overrun by AI bots in 24 hours",
+      "summary": "I built a satirical browser game to share with friends (Hormuz Havoc: you play an American president managing a crisis in the Middle East, only \"loosely\" inspired by current events).",
+      "source": "Hacker News",
+      "published": "2026-04-11T10:58:36+00:00",
+      "link": "https://www.hormuz-havoc.com/"
     },
     {
       "title": "Overworld's Waypoint-1.5 brings AI-generated 3D worlds to Mac and Windows on consumer hardware",
@@ -101,7 +115,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI assistance when contributing to the Linux kernel",
-      "summary": "Article URL: https://github.com/torvalds/linux/blob/master/Documentation/process/coding-assistants.rst Comments URL: https://news.ycombinator.com/item?id=47721953 Points: 484 # Comments: 361",
+      "summary": "Article URL: https://github.com/torvalds/linux/blob/master/Documentation/process/coding-assistants.rst Comments URL: https://news.ycombinator.com/item?id=47721953 Points: 499 # Comments: 379",
       "source": "Hacker News",
       "published": "2026-04-10T18:35:21+00:00",
       "link": "https://github.com/torvalds/linux/blob/master/Documentation/process/coding-assistants.rst"
@@ -157,7 +171,7 @@ const FEED_DATA = {
     },
     {
       "title": "Why do we tell ourselves scary stories about AI?",
-      "summary": "Article URL: https://www.quantamagazine.org/why-do-we-tell-ourselves-scary-stories-about-ai-20260410/ Comments URL: https://news.ycombinator.com/item?id=47718812 Points: 51 # Comments: 112",
+      "summary": "Article URL: https://www.quantamagazine.org/why-do-we-tell-ourselves-scary-stories-about-ai-20260410/ Comments URL: https://news.ycombinator.com/item?id=47718812 Points: 52 # Comments: 113",
       "source": "Hacker News",
       "published": "2026-04-10T14:35:35+00:00",
       "link": "https://www.quantamagazine.org/why-do-we-tell-ourselves-scary-stories-about-ai-20260410/"
@@ -192,7 +206,7 @@ const FEED_DATA = {
     },
     {
       "title": "OpenAI backs Illinois bill that would limit when AI labs can be held liable",
-      "summary": "https://archive.md/WzwBY Comments URL: https://news.ycombinator.com/item?id=47717587 Points: 437 # Comments: 319",
+      "summary": "https://archive.md/WzwBY Comments URL: https://news.ycombinator.com/item?id=47717587 Points: 440 # Comments: 320",
       "source": "Hacker News",
       "published": "2026-04-10T13:08:43+00:00",
       "link": "https://www.wired.com/story/openai-backs-bill-exempt-ai-firms-model-harm-lawsuits/"
@@ -346,7 +360,7 @@ const FEED_DATA = {
     },
     {
       "title": "Instant 1.0, a backend for AI-coded apps",
-      "summary": "Article URL: https://www.instantdb.com/essays/architecture Comments URL: https://news.ycombinator.com/item?id=47707632 Points: 215 # Comments: 122",
+      "summary": "Article URL: https://www.instantdb.com/essays/architecture Comments URL: https://news.ycombinator.com/item?id=47707632 Points: 215 # Comments: 123",
       "source": "Hacker News",
       "published": "2026-04-09T18:30:59+00:00",
       "link": "https://www.instantdb.com/essays/architecture"
@@ -402,7 +416,7 @@ const FEED_DATA = {
     },
     {
       "title": "Study found that young adults have grown less hopeful and more angry about AI",
-      "summary": "Article URL: https://www.nytimes.com/2026/04/09/style/gen-z-ai-gallup-study.html Comments URL: https://news.ycombinator.com/item?id=47704443 Points: 140 # Comments: 183",
+      "summary": "Article URL: https://www.nytimes.com/2026/04/09/style/gen-z-ai-gallup-study.html Comments URL: https://news.ycombinator.com/item?id=47704443 Points: 140 # Comments: 184",
       "source": "Hacker News",
       "published": "2026-04-09T14:44:16+00:00",
       "link": "https://www.nytimes.com/2026/04/09/style/gen-z-ai-gallup-study.html"
@@ -563,7 +577,7 @@ const FEED_DATA = {
     },
     {
       "title": "AMD AI director says Claude Code is becoming dumber and lazier since update",
-      "summary": "Article URL: https://www.theregister.com/2026/04/06/anthropic_claude_code_dumber_lazier_amd_ai_director/ Comments URL: https://news.ycombinator.com/item?id=47696210 Points: 51 # Comments: 14",
+      "summary": "Article URL: https://www.theregister.com/2026/04/06/anthropic_claude_code_dumber_lazier_amd_ai_director/ Comments URL: https://news.ycombinator.com/item?id=47696210 Points: 52 # Comments: 14",
       "source": "Hacker News",
       "published": "2026-04-08T21:01:23+00:00",
       "link": "https://www.theregister.com/2026/04/06/anthropic_claude_code_dumber_lazier_amd_ai_director/"
@@ -1386,20 +1400,6 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-04-04T16:32:22+00:00",
       "link": "https://techcrunch.com/2026/04/04/anthropic-says-claude-code-subscribers-will-need-to-pay-extra-for-openclaw-support/"
-    },
-    {
-      "title": "Really, you made this without AI? Prove it",
-      "summary": "\"This looks like AI.\" It's a phrase I dread seeing as a writer who dabbles in illustration and amateur photography.",
-      "source": "The Verge",
-      "published": "2026-04-04T13:00:00+00:00",
-      "link": "https://www.theverge.com/tech/906453/human-made-ai-free-logo-creative-content"
-    },
-    {
-      "title": "Netflix open-sources VOID, an AI framework that erases video objects and rewrites the physics they left behind",
-      "summary": "Netflix has open-sourced an AI framework that can remove objects from videos and automatically adjusts the physical effects those objects had on the rest of the scene.",
-      "source": "The Decoder",
-      "published": "2026-04-04T11:14:54+00:00",
-      "link": "https://the-decoder.com/netflix-open-sources-void-an-ai-framework-that-erases-video-objects-and-rewrites-the-physics-they-left-behind/"
     }
   ]
 };
