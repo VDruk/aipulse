@@ -1,6 +1,55 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-04-13T07:14:58.005812+00:00",
+  "lastUpdated": "2026-04-13T10:24:26.255138+00:00",
   "items": [
+    {
+      "title": "Job titles of the future: Wildlife first responder",
+      "summary": "Grizzly bears have made such a comeback across eastern Montana that in 2017, the state hired its first-ever prairie-based grizzly manager: wildlife biologist Wesley Sarmento.",
+      "source": "MIT Tech Review",
+      "published": "2026-04-13T10:00:00+00:00",
+      "link": "https://www.technologyreview.com/2026/04/13/1135156/job-titles-wildlife-first-responder-wesley-sarmento/"
+    },
+    {
+      "title": "You have no choice in reading this article—maybe",
+      "summary": "Uri Maoz loved doing his human research, back when he was getting his PhD. He was studying a very specific topic in computational neuroscience: how the brain instructs our arms to move and how our gray matter in turn perceives that motion.",
+      "source": "MIT Tech Review",
+      "published": "2026-04-13T10:00:00+00:00",
+      "link": "https://www.technologyreview.com/2026/04/13/1135162/uri-maoz-does-free-will-exist/"
+    },
+    {
+      "title": "AI Agents Are Coming for Your Dating Life",
+      "summary": "The developers of Pixel Societies are using AI agents to simulate social interactions. It's an attempt optimize the process of choosing new colleagues, friends, and even romantic partners.",
+      "source": "Wired",
+      "published": "2026-04-13T10:00:00+00:00",
+      "link": "https://www.wired.com/story/ai-agents-are-coming-for-your-dating-life-next/"
+    },
+    {
+      "title": "Companies expand AI adoption while keeping control",
+      "summary": "Many companies are taking a slower, more controlled approach to autonomous systems as AI adoption grows. Rather than deploying systems that act on their own, they are focusing on tools that assist human decision-making while keeping tight control over outputs.",
+      "source": "AI News",
+      "published": "2026-04-13T10:00:00+00:00",
+      "link": "https://www.artificialintelligence-news.com/news/companies-expand-ai-adoption-while-keeping-control/"
+    },
+    {
+      "title": "Apple is building smart glasses without a display to serve as an AI wearable",
+      "summary": "According to Bloomberg reporter Mark Gurman, Apple is developing smart glasses that skip the display entirely and instead function as an AI wearable. The article Apple is building smart glasses without a display to serve as an AI wearable appeared first on The Decoder.",
+      "source": "The Decoder",
+      "published": "2026-04-13T09:40:55+00:00",
+      "link": "https://the-decoder.com/apple-is-building-smart-glasses-without-a-display-to-serve-as-an-ai-wearable/"
+    },
+    {
+      "title": "Claude now works across all three major Office apps",
+      "summary": "Anthropic already offered Claude add-ins for Excel and PowerPoint. Now the company is rounding out its Microsoft Office integration with a Word add-in.",
+      "source": "The Decoder",
+      "published": "2026-04-13T08:32:35+00:00",
+      "link": "https://the-decoder.com/claude-now-works-across-all-three-major-office-apps/"
+    },
+    {
+      "title": "Sam Altman's San Francisco home hit by drive-by shooting just two days after Molotov cocktail attack",
+      "summary": "The home of OpenAI CEO Sam Altman in San Francisco has been attacked twice in two days. After a Molotov cocktail was thrown at the property on Friday, someone fired a shot from a car on Sunday.",
+      "source": "The Decoder",
+      "published": "2026-04-13T07:38:38+00:00",
+      "link": "https://the-decoder.com/sam-altmans-san-francisco-home-hit-by-drive-by-shooting-just-two-days-after-molotov-cocktail-attack/"
+    },
     {
       "title": "The largest orbital compute cluster is open for business",
       "summary": "Kepler Communications is flying 40 GPUs in Earth orbit. And its latest customer is Sophia Space.",
@@ -10,14 +59,14 @@ const FEED_DATA = {
     },
     {
       "title": "Apple's accidental moat: How the \"AI Loser\" may end up winning",
-      "summary": "Article URL: https://adlrocha.substack.com/p/adlrocha-how-the-ai-loser-may-end Comments URL: https://news.ycombinator.com/item?id=47747017 Points: 131 # Comments: 123",
+      "summary": "Article URL: https://adlrocha.substack.com/p/adlrocha-how-the-ai-loser-may-end Comments URL: https://news.ycombinator.com/item?id=47747017 Points: 194 # Comments: 196",
       "source": "Hacker News",
       "published": "2026-04-13T02:53:10+00:00",
       "link": "https://adlrocha.substack.com/p/adlrocha-how-the-ai-loser-may-end"
     },
     {
       "title": "Tech valuations are back to pre-AI boom levels",
-      "summary": "Article URL: https://www.apollo.com/wealth/the-daily-spark/tech-valuations-back-to-pre-ai-boom-levels Comments URL: https://news.ycombinator.com/item?id=47745120 Points: 133 # Comments: 35",
+      "summary": "Article URL: https://www.apollo.com/wealth/the-daily-spark/tech-valuations-back-to-pre-ai-boom-levels Comments URL: https://news.ycombinator.com/item?id=47745120 Points: 136 # Comments: 37",
       "source": "Hacker News",
       "published": "2026-04-12T22:13:22+00:00",
       "link": "https://www.apollo.com/wealth/the-daily-spark/tech-valuations-back-to-pre-ai-boom-levels"
@@ -31,7 +80,7 @@ const FEED_DATA = {
     },
     {
       "title": "European AI. A playbook to own it",
-      "summary": "Article URL: https://europe.mistral.ai/ Comments URL: https://news.ycombinator.com/item?id=47743700 Points: 172 # Comments: 101",
+      "summary": "Article URL: https://europe.mistral.ai/ Comments URL: https://news.ycombinator.com/item?id=47743700 Points: 183 # Comments: 111",
       "source": "Hacker News",
       "published": "2026-04-12T19:51:06+00:00",
       "link": "https://europe.mistral.ai/"
@@ -66,7 +115,7 @@ const FEED_DATA = {
     },
     {
       "title": "Why AI Sucks at Front End",
-      "summary": "Article URL: https://nerdy.dev/why-ai-sucks-at-front-end Comments URL: https://news.ycombinator.com/item?id=47738864 Points: 80 # Comments: 94",
+      "summary": "Article URL: https://nerdy.dev/why-ai-sucks-at-front-end Comments URL: https://news.ycombinator.com/item?id=47738864 Points: 86 # Comments: 101",
       "source": "Hacker News",
       "published": "2026-04-12T12:26:09+00:00",
       "link": "https://nerdy.dev/why-ai-sucks-at-front-end"
@@ -101,7 +150,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI Will Be Met with Violence, and Nothing Good Will Come of It",
-      "summary": "Article URL: https://www.thealgorithmicbridge.com/p/ai-will-be-met-with-violence-and Comments URL: https://news.ycombinator.com/item?id=47737563 Points: 333 # Comments: 595",
+      "summary": "Article URL: https://www.thealgorithmicbridge.com/p/ai-will-be-met-with-violence-and Comments URL: https://news.ycombinator.com/item?id=47737563 Points: 338 # Comments: 598",
       "source": "Hacker News",
       "published": "2026-04-12T09:16:35+00:00",
       "link": "https://www.thealgorithmicbridge.com/p/ai-will-be-met-with-violence-and"
@@ -129,14 +178,14 @@ const FEED_DATA = {
     },
     {
       "title": "We spoke to the man making viral Lego-style AI videos for Iran",
-      "summary": "Article URL: https://www.bbc.com/news/articles/cjd8jrd1vnyo Comments URL: https://news.ycombinator.com/item?id=47735704 Points: 94 # Comments: 81",
+      "summary": "Article URL: https://www.bbc.com/news/articles/cjd8jrd1vnyo Comments URL: https://news.ycombinator.com/item?id=47735704 Points: 94 # Comments: 82",
       "source": "Hacker News",
       "published": "2026-04-12T02:37:39+00:00",
       "link": "https://www.bbc.com/news/articles/cjd8jrd1vnyo"
     },
     {
       "title": "Exploiting the most prominent AI agent benchmarks",
-      "summary": "Article URL: https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/ Comments URL: https://news.ycombinator.com/item?id=47733217 Points: 510 # Comments: 130",
+      "summary": "Article URL: https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/ Comments URL: https://news.ycombinator.com/item?id=47733217 Points: 527 # Comments: 133",
       "source": "Hacker News",
       "published": "2026-04-11T19:15:56+00:00",
       "link": "https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/"
@@ -248,7 +297,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI assistance when contributing to the Linux kernel",
-      "summary": "Article URL: https://github.com/torvalds/linux/blob/master/Documentation/process/coding-assistants.rst Comments URL: https://news.ycombinator.com/item?id=47721953 Points: 511 # Comments: 410",
+      "summary": "Article URL: https://github.com/torvalds/linux/blob/master/Documentation/process/coding-assistants.rst Comments URL: https://news.ycombinator.com/item?id=47721953 Points: 513 # Comments: 410",
       "source": "Hacker News",
       "published": "2026-04-10T18:35:21+00:00",
       "link": "https://github.com/torvalds/linux/blob/master/Documentation/process/coding-assistants.rst"
@@ -549,7 +598,7 @@ const FEED_DATA = {
     },
     {
       "title": "Study found that young adults have grown less hopeful and more angry about AI",
-      "summary": "Article URL: https://www.nytimes.com/2026/04/09/style/gen-z-ai-gallup-study.html Comments URL: https://news.ycombinator.com/item?id=47704443 Points: 140 # Comments: 184",
+      "summary": "Article URL: https://www.nytimes.com/2026/04/09/style/gen-z-ai-gallup-study.html Comments URL: https://news.ycombinator.com/item?id=47704443 Points: 141 # Comments: 184",
       "source": "Hacker News",
       "published": "2026-04-09T14:44:16+00:00",
       "link": "https://www.nytimes.com/2026/04/09/style/gen-z-ai-gallup-study.html"
@@ -1351,55 +1400,6 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-04-06T06:30:15+00:00",
       "link": "https://the-decoder.com/americans-are-using-ai-more-than-ever-while-trusting-it-less-new-quinnipiac-poll-finds/"
-    },
-    {
-      "title": "Show HN: I built a tiny LLM to demystify how language models work",
-      "summary": "Built a ~9M param LLM from scratch to understand how they actually work. Vanilla transformer, 60K synthetic conversations, ~130 lines of PyTorch.",
-      "source": "Hacker News",
-      "published": "2026-04-06T00:20:12+00:00",
-      "link": "https://github.com/arman-bd/guppylm"
-    },
-    {
-      "title": "Show HN: Gemma Gem – AI model embedded in a browser – no API keys, no cloud",
-      "summary": "Gemma Gem is a Chrome extension that loads Google's Gemma 4 (2B) through WebGPU in an offscreen document and gives it tools to interact with any webpage: read content, take screenshots, click elements, type text, scroll, and run JavaScript.You get a small chat overlay on every...",
-      "source": "Hacker News",
-      "published": "2026-04-06T00:14:37+00:00",
-      "link": "https://github.com/kessler/gemma-gem"
-    },
-    {
-      "title": "'Cognitive Surrender' Is a New and Useful Term for How AI Melts Brains",
-      "summary": "Article URL: https://gizmodo.com/cognitive-surrender-is-a-new-and-useful-term-for-how-ai-melts-brains-2000742595 Comments URL: https://news.ycombinator.com/item?id=47655155 Points: 55 # Comments: 16",
-      "source": "Hacker News",
-      "published": "2026-04-05T23:45:20+00:00",
-      "link": "https://gizmodo.com/cognitive-surrender-is-a-new-and-useful-term-for-how-ai-melts-brains-2000742595"
-    },
-    {
-      "title": "UK intelligence censored report on global warming and homeland security",
-      "summary": "Article URL: https://theoryofchange1.substack.com/p/from-global-warming-to-homeland-security Comments URL: https://news.ycombinator.com/item?id=47653816 Points: 101 # Comments: 59",
-      "source": "Hacker News",
-      "published": "2026-04-05T20:59:52+00:00",
-      "link": "https://theoryofchange1.substack.com/p/from-global-warming-to-homeland-security"
-    },
-    {
-      "title": "Musician says AI company is cloning her music, filing claims against her",
-      "summary": "Article URL: https://twitter.com/unlimited_ls/status/2040577536136974444 Comments URL: https://news.ycombinator.com/item?id=47653471 Points: 123 # Comments: 19",
-      "source": "Hacker News",
-      "published": "2026-04-05T20:19:11+00:00",
-      "link": "https://twitter.com/unlimited_ls/status/2040577536136974444"
-    },
-    {
-      "title": "Copilot is ‘for entertainment purposes only,’ according to Microsoft’s terms of use",
-      "summary": "AI skeptics aren’t the only ones warning users not to unthinkingly trust models’ outputs — that’s what the AI companies say themselves in their terms of service.",
-      "source": "TechCrunch",
-      "published": "2026-04-05T18:51:37+00:00",
-      "link": "https://techcrunch.com/2026/04/05/copilot-is-for-entertainment-purposes-only-according-to-microsofts-terms-of-service/"
-    },
-    {
-      "title": "Show HN: Real-time AI (audio/video in, voice out) on an M3 Pro with Gemma E2B",
-      "summary": "Related: https://news.ycombinator.com/item?id=47653752 Comments URL: https://news.ycombinator.com/item?id=47652007 Points: 284 # Comments: 35",
-      "source": "Hacker News",
-      "published": "2026-04-05T17:53:19+00:00",
-      "link": "https://github.com/fikrikarim/parlor"
     }
   ]
 };
