@@ -1,6 +1,62 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-04-13T10:24:26.255138+00:00",
+  "lastUpdated": "2026-04-13T14:52:06.619010+00:00",
   "items": [
+    {
+      "title": "The AI industry is running out of compute, with outages, rationing, and rising GPU prices",
+      "summary": "Surging demand for AI agents is colliding with limited compute capacity. Anthropic is struggling with outages, OpenAI announced the end of Sora, and GPU prices have jumped nearly 50 percent, according to market data.",
+      "source": "The Decoder",
+      "published": "2026-04-13T13:47:33+00:00",
+      "link": "https://the-decoder.com/the-ai-industry-is-running-out-of-compute-with-outages-rationing-and-rising-gpu-prices/"
+    },
+    {
+      "title": "Mark Zuckerberg is reportedly building an AI clone to replace him in meetings",
+      "summary": "Meta CEO Mark Zuckerberg could soon have an AI clone of himself to interact with and provide feedback to employees, according to a report from the Financial Times.",
+      "source": "The Verge",
+      "published": "2026-04-13T13:40:03+00:00",
+      "link": "https://www.theverge.com/tech/910990/meta-ceo-mark-zuckerberg-ai-clone"
+    },
+    {
+      "title": "Strengthening enterprise governance for rising edge AI workloads",
+      "summary": "Models like Google Gemma 4 are increasing enterprise AI governance challenges for CISOs as they scramble to secure edge workloads.",
+      "source": "AI News",
+      "published": "2026-04-13T13:02:01+00:00",
+      "link": "https://www.artificialintelligence-news.com/news/strengthening-enterprise-governance-for-rising-edge-ai-workloads/"
+    },
+    {
+      "title": "Want to understand the current state of AI? Check out these charts.",
+      "summary": "If you’re following AI news, you’re probably getting whiplash. AI is a gold rush.",
+      "source": "MIT Tech Review",
+      "published": "2026-04-13T13:00:00+00:00",
+      "link": "https://www.technologyreview.com/2026/04/13/1135675/want-to-understand-the-current-state-of-ai-check-out-these-charts/"
+    },
+    {
+      "title": "AI could be the end of the digital wave, not the next big thing",
+      "summary": "Article URL: https://thenextwavefutures.wordpress.com/2026/04/07/ai-end-digital-wave-technology-innovation-perez/ Comments URL: https://news.ycombinator.com/item?id=47751032 Points: 130 # Comments: 137",
+      "source": "Hacker News",
+      "published": "2026-04-13T12:29:39+00:00",
+      "link": "https://thenextwavefutures.wordpress.com/2026/04/07/ai-end-digital-wave-technology-innovation-perez/"
+    },
+    {
+      "title": "The Download: how humans make decisions, and Moderna’s “vaccine” word games",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. You have no choice in reading this article—maybe How do humans make decisions?",
+      "source": "MIT Tech Review",
+      "published": "2026-04-13T12:10:00+00:00",
+      "link": "https://www.technologyreview.com/2026/04/13/1135707/the-download-how-humans-make-decisions-and-modernas-vaccine-word-games/"
+    },
+    {
+      "title": "Steel giants, automakers, and banks plan to build Japan's answer to US and Chinese AI dominance",
+      "summary": "SoftBank is uniting Japan's industrial elite to build the country's own AI foundation, trying to reduce dependence on American and Chinese models.",
+      "source": "The Decoder",
+      "published": "2026-04-13T11:33:33+00:00",
+      "link": "https://the-decoder.com/steel-giants-automakers-and-banks-plan-to-build-japans-answer-to-us-and-chinese-ai-dominance/"
+    },
+    {
+      "title": "OpenAI opens London office with room for over 500 employees",
+      "summary": "OpenAI is opening a new office in London with space for more than 500 employees - more than double its current headcount of around 200 in the British capital. The article OpenAI opens London office with room for over 500 employees appeared first on The Decoder.",
+      "source": "The Decoder",
+      "published": "2026-04-13T10:43:42+00:00",
+      "link": "https://the-decoder.com/openai-opens-london-office-with-room-for-over-500-employees/"
+    },
     {
       "title": "Job titles of the future: Wildlife first responder",
       "summary": "Grizzly bears have made such a comeback across eastern Montana that in 2017, the state hired its first-ever prairie-based grizzly manager: wildlife biologist Wesley Sarmento.",
@@ -24,7 +80,7 @@ const FEED_DATA = {
     },
     {
       "title": "Companies expand AI adoption while keeping control",
-      "summary": "Many companies are taking a slower, more controlled approach to autonomous systems as AI adoption grows. Rather than deploying systems that act on their own, they are focusing on tools that assist human decision-making while keeping tight control over outputs.",
+      "summary": "Many companies are taking a slower, more controlled approach to autonomous systems as AI adoption grows. Rather than deploying systems that act on their own, they are focusing on tools that assist human decision-making and keep control over outputs.",
       "source": "AI News",
       "published": "2026-04-13T10:00:00+00:00",
       "link": "https://www.artificialintelligence-news.com/news/companies-expand-ai-adoption-while-keeping-control/"
@@ -58,15 +114,22 @@ const FEED_DATA = {
       "link": "https://techcrunch.com/2026/04/13/the-largest-orbital-compute-cluster-is-open-for-business/"
     },
     {
+      "title": "The AI Layoff Trap",
+      "summary": "Article URL: https://arxiv.org/abs/2603.20617 Comments URL: https://news.ycombinator.com/item?id=47748123 Points: 55 # Comments: 84",
+      "source": "Hacker News",
+      "published": "2026-04-13T05:56:49+00:00",
+      "link": "https://arxiv.org/abs/2603.20617"
+    },
+    {
       "title": "Apple's accidental moat: How the \"AI Loser\" may end up winning",
-      "summary": "Article URL: https://adlrocha.substack.com/p/adlrocha-how-the-ai-loser-may-end Comments URL: https://news.ycombinator.com/item?id=47747017 Points: 194 # Comments: 196",
+      "summary": "Article URL: https://adlrocha.substack.com/p/adlrocha-how-the-ai-loser-may-end Comments URL: https://news.ycombinator.com/item?id=47747017 Points: 325 # Comments: 280",
       "source": "Hacker News",
       "published": "2026-04-13T02:53:10+00:00",
       "link": "https://adlrocha.substack.com/p/adlrocha-how-the-ai-loser-may-end"
     },
     {
       "title": "Tech valuations are back to pre-AI boom levels",
-      "summary": "Article URL: https://www.apollo.com/wealth/the-daily-spark/tech-valuations-back-to-pre-ai-boom-levels Comments URL: https://news.ycombinator.com/item?id=47745120 Points: 136 # Comments: 37",
+      "summary": "Article URL: https://www.apollo.com/wealth/the-daily-spark/tech-valuations-back-to-pre-ai-boom-levels Comments URL: https://news.ycombinator.com/item?id=47745120 Points: 142 # Comments: 39",
       "source": "Hacker News",
       "published": "2026-04-12T22:13:22+00:00",
       "link": "https://www.apollo.com/wealth/the-daily-spark/tech-valuations-back-to-pre-ai-boom-levels"
@@ -80,10 +143,17 @@ const FEED_DATA = {
     },
     {
       "title": "European AI. A playbook to own it",
-      "summary": "Article URL: https://europe.mistral.ai/ Comments URL: https://news.ycombinator.com/item?id=47743700 Points: 183 # Comments: 111",
+      "summary": "Article URL: https://europe.mistral.ai/ Comments URL: https://news.ycombinator.com/item?id=47743700 Points: 192 # Comments: 117",
       "source": "Hacker News",
       "published": "2026-04-12T19:51:06+00:00",
       "link": "https://europe.mistral.ai/"
+    },
+    {
+      "title": "Bouncer: Block \"crypto\", \"rage politics\", and more from your X feed using AI",
+      "summary": "Article URL: https://github.com/imbue-ai/bouncer Comments URL: https://news.ycombinator.com/item?id=47741531 Points: 51 # Comments: 96",
+      "source": "Hacker News",
+      "published": "2026-04-12T16:24:46+00:00",
+      "link": "https://github.com/imbue-ai/bouncer"
     },
     {
       "title": "From LLMs to hallucinations, here’s a simple guide to common AI terms",
@@ -115,7 +185,7 @@ const FEED_DATA = {
     },
     {
       "title": "Why AI Sucks at Front End",
-      "summary": "Article URL: https://nerdy.dev/why-ai-sucks-at-front-end Comments URL: https://news.ycombinator.com/item?id=47738864 Points: 86 # Comments: 101",
+      "summary": "Article URL: https://nerdy.dev/why-ai-sucks-at-front-end Comments URL: https://news.ycombinator.com/item?id=47738864 Points: 95 # Comments: 125",
       "source": "Hacker News",
       "published": "2026-04-12T12:26:09+00:00",
       "link": "https://nerdy.dev/why-ai-sucks-at-front-end"
@@ -150,7 +220,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI Will Be Met with Violence, and Nothing Good Will Come of It",
-      "summary": "Article URL: https://www.thealgorithmicbridge.com/p/ai-will-be-met-with-violence-and Comments URL: https://news.ycombinator.com/item?id=47737563 Points: 338 # Comments: 598",
+      "summary": "Article URL: https://www.thealgorithmicbridge.com/p/ai-will-be-met-with-violence-and Comments URL: https://news.ycombinator.com/item?id=47737563 Points: 340 # Comments: 614",
       "source": "Hacker News",
       "published": "2026-04-12T09:16:35+00:00",
       "link": "https://www.thealgorithmicbridge.com/p/ai-will-be-met-with-violence-and"
@@ -185,7 +255,7 @@ const FEED_DATA = {
     },
     {
       "title": "Exploiting the most prominent AI agent benchmarks",
-      "summary": "Article URL: https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/ Comments URL: https://news.ycombinator.com/item?id=47733217 Points: 527 # Comments: 133",
+      "summary": "Article URL: https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/ Comments URL: https://news.ycombinator.com/item?id=47733217 Points: 549 # Comments: 134",
       "source": "Hacker News",
       "published": "2026-04-11T19:15:56+00:00",
       "link": "https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/"
@@ -297,7 +367,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI assistance when contributing to the Linux kernel",
-      "summary": "Article URL: https://github.com/torvalds/linux/blob/master/Documentation/process/coding-assistants.rst Comments URL: https://news.ycombinator.com/item?id=47721953 Points: 513 # Comments: 410",
+      "summary": "Article URL: https://github.com/torvalds/linux/blob/master/Documentation/process/coding-assistants.rst Comments URL: https://news.ycombinator.com/item?id=47721953 Points: 513 # Comments: 413",
       "source": "Hacker News",
       "published": "2026-04-10T18:35:21+00:00",
       "link": "https://github.com/torvalds/linux/blob/master/Documentation/process/coding-assistants.rst"
@@ -353,7 +423,7 @@ const FEED_DATA = {
     },
     {
       "title": "Why do we tell ourselves scary stories about AI?",
-      "summary": "Article URL: https://www.quantamagazine.org/why-do-we-tell-ourselves-scary-stories-about-ai-20260410/ Comments URL: https://news.ycombinator.com/item?id=47718812 Points: 56 # Comments: 121",
+      "summary": "Article URL: https://www.quantamagazine.org/why-do-we-tell-ourselves-scary-stories-about-ai-20260410/ Comments URL: https://news.ycombinator.com/item?id=47718812 Points: 56 # Comments: 122",
       "source": "Hacker News",
       "published": "2026-04-10T14:35:35+00:00",
       "link": "https://www.quantamagazine.org/why-do-we-tell-ourselves-scary-stories-about-ai-20260410/"
@@ -381,7 +451,7 @@ const FEED_DATA = {
     },
     {
       "title": "US summons bank bosses over cyber risks from Anthropic's latest AI model",
-      "summary": "Article URL: https://www.theguardian.com/technology/2026/apr/10/us-summoned-bank-bosses-to-discuss-cyber-risks-posed-by-anthropic-latest-ai-model Comments URL: https://news.ycombinator.com/item?id=47718114 Points: 106 # Comments: 94",
+      "summary": "Article URL: https://www.theguardian.com/technology/2026/apr/10/us-summoned-bank-bosses-to-discuss-cyber-risks-posed-by-anthropic-latest-ai-model Comments URL: https://news.ycombinator.com/item?id=47718114 Points: 107 # Comments: 94",
       "source": "Hacker News",
       "published": "2026-04-10T13:47:17+00:00",
       "link": "https://www.theguardian.com/technology/2026/apr/10/us-summoned-bank-bosses-to-discuss-cyber-risks-posed-by-anthropic-latest-ai-model"
@@ -465,7 +535,7 @@ const FEED_DATA = {
     },
     {
       "title": "Scientists invented a fake disease. AI told people it was real",
-      "summary": "Article URL: https://www.nature.com/articles/d41586-026-01100-y Comments URL: https://news.ycombinator.com/item?id=47715291 Points: 93 # Comments: 92",
+      "summary": "Article URL: https://www.nature.com/articles/d41586-026-01100-y Comments URL: https://news.ycombinator.com/item?id=47715291 Points: 94 # Comments: 93",
       "source": "Hacker News",
       "published": "2026-04-10T08:44:37+00:00",
       "link": "https://www.nature.com/articles/d41586-026-01100-y"
@@ -1330,76 +1400,6 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-04-06T14:11:42+00:00",
       "link": "https://techcrunch.com/2026/04/06/how-to-use-chatgpt-apps-doordash-spotify-uber/"
-    },
-    {
-      "title": "Spain’s Xoople raises $130 million Series B to map the Earth for AI",
-      "summary": "The company is also announcing a deal with L3Harris to build the sensors for Xoople's spacecraft.",
-      "source": "TechCrunch",
-      "published": "2026-04-06T13:00:00+00:00",
-      "link": "https://techcrunch.com/2026/04/06/spains-xoople-raises-130-million-series-b-to-map-the-earth-for-ai/"
-    },
-    {
-      "title": "The Intelligence Failure in Iran",
-      "summary": "Article URL: https://www.theatlantic.com/national-security/2026/04/iran-war-intelligence-failure-trump/686694/ Comments URL: https://news.ycombinator.com/item?id=47659461 Points: 68 # Comments: 85",
-      "source": "Hacker News",
-      "published": "2026-04-06T11:21:35+00:00",
-      "link": "https://www.theatlantic.com/national-security/2026/04/iran-war-intelligence-failure-trump/686694/"
-    },
-    {
-      "title": "AI is changing how small online sellers decide what to make",
-      "summary": "For years Mike McClary sold the Guardian LTE Flashlight, a heavy-duty black model, online through his small outdoor brand. The product, designed for brightness and durability, became one of his most popular items ever.",
-      "source": "MIT Tech Review",
-      "published": "2026-04-06T11:00:00+00:00",
-      "link": "https://www.technologyreview.com/2026/04/06/1135118/ai-online-seller-alibaba-accio/"
-    },
-    {
-      "title": "Sycophantic AI chatbots can break even ideal rational thinkers, researchers formally prove",
-      "summary": "A new study by researchers from MIT and the University of Washington shows that even perfectly rational users can be drawn into dangerous delusional spirals by flattering AI chatbots. Fact-checking bots and educated users don't fully solve the problem.",
-      "source": "The Decoder",
-      "published": "2026-04-06T10:39:17+00:00",
-      "link": "https://the-decoder.com/sycophantic-ai-chatbots-can-break-even-ideal-rational-thinkers-researchers-formally-prove/"
-    },
-    {
-      "title": "As AI agents take on more tasks, governance becomes a priority",
-      "summary": "AI systems are starting to move beyond simple responses. In many organisations, AI agents are now being tested to plan tasks, make decisions, and carry out actions with limited human input.",
-      "source": "AI News",
-      "published": "2026-04-06T10:00:00+00:00",
-      "link": "https://www.artificialintelligence-news.com/news/as-ai-agents-take-on-more-tasks-governance-becomes-a-priority/"
-    },
-    {
-      "title": "The Ridiculously Nerdy Intel Bet That Could Rake in Billions",
-      "summary": "Advanced chip packaging is suddenly at the center of the AI boom. Intel is going all in.",
-      "source": "Wired",
-      "published": "2026-04-06T09:00:00+00:00",
-      "link": "https://www.wired.com/story/why-chip-packaging-could-decide-the-next-phase-of-the-ai-boom/"
-    },
-    {
-      "title": "Telehealth startup Medvi generated billions in revenue with AI-powered fake advertising",
-      "summary": "AI efficiency or AI fraud? How a two-person startup hit $1.8 billion in revenue with AI marketing and why the success story somewhat fell apart.",
-      "source": "The Decoder",
-      "published": "2026-04-06T08:34:58+00:00",
-      "link": "https://the-decoder.com/telehealth-startup-medvi-generated-billions-in-revenue-with-ai-powered-fake-advertising/"
-    },
-    {
-      "title": "OpenAI reveals 600,000 weekly health queries from hospital deserts as seven in ten come after hours",
-      "summary": "ChatGPT gets millions of health queries per week in the US, especially from areas where doctors are hard to reach. The article OpenAI reveals 600,000 weekly health queries from hospital deserts as seven in ten come after hours appeared first on The Decoder.",
-      "source": "The Decoder",
-      "published": "2026-04-06T07:46:03+00:00",
-      "link": "https://the-decoder.com/openai-reveals-600000-weekly-health-queries-from-hospital-deserts-as-seven-in-ten-come-after-hours/"
-    },
-    {
-      "title": "Alibaba's Qwen team built HopChain to fix how AI vision models fall apart during multi-step reasoning",
-      "summary": "When AI models reason about images, small perceptual errors compound across multiple steps and produce wrong answers.",
-      "source": "The Decoder",
-      "published": "2026-04-06T07:33:51+00:00",
-      "link": "https://the-decoder.com/alibabas-qwen-team-built-hopchain-to-fix-how-ai-vision-models-fall-apart-during-multi-step-reasoning/"
-    },
-    {
-      "title": "Americans are using AI more than ever while trusting it less, new Quinnipiac poll finds",
-      "summary": "A new Quinnipiac University poll reveals a growing paradox: AI adoption in the US is climbing fast, but skepticism is growing even faster. Gen Z, the generation most familiar with AI, has the bleakest outlook on the job market.",
-      "source": "The Decoder",
-      "published": "2026-04-06T06:30:15+00:00",
-      "link": "https://the-decoder.com/americans-are-using-ai-more-than-ever-while-trusting-it-less-new-quinnipiac-poll-finds/"
     }
   ]
 };
