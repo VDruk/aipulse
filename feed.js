@@ -1,6 +1,13 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-04-12T21:27:01.248168+00:00",
+  "lastUpdated": "2026-04-13T04:19:20.783160+00:00",
   "items": [
+    {
+      "title": "Tech valuations are back to pre-AI boom levels",
+      "summary": "Article URL: https://www.apollo.com/wealth/the-daily-spark/tech-valuations-back-to-pre-ai-boom-levels Comments URL: https://news.ycombinator.com/item?id=47745120 Points: 125 # Comments: 33",
+      "source": "Hacker News",
+      "published": "2026-04-12T22:13:22+00:00",
+      "link": "https://www.apollo.com/wealth/the-daily-spark/tech-valuations-back-to-pre-ai-boom-levels"
+    },
     {
       "title": "Trump officials may be encouraging banks to test Anthropic’s Mythos model",
       "summary": "The report is particularly surprising since the Department of Defense recently declared Anthropic a supply-chain risk.",
@@ -10,7 +17,7 @@ const FEED_DATA = {
     },
     {
       "title": "European AI. A playbook to own it",
-      "summary": "Article URL: https://europe.mistral.ai/ Comments URL: https://news.ycombinator.com/item?id=47743700 Points: 88 # Comments: 33",
+      "summary": "Article URL: https://europe.mistral.ai/ Comments URL: https://news.ycombinator.com/item?id=47743700 Points: 158 # Comments: 96",
       "source": "Hacker News",
       "published": "2026-04-12T19:51:06+00:00",
       "link": "https://europe.mistral.ai/"
@@ -45,7 +52,7 @@ const FEED_DATA = {
     },
     {
       "title": "Why AI Sucks at Front End",
-      "summary": "Article URL: https://nerdy.dev/why-ai-sucks-at-front-end Comments URL: https://news.ycombinator.com/item?id=47738864 Points: 63 # Comments: 73",
+      "summary": "Article URL: https://nerdy.dev/why-ai-sucks-at-front-end Comments URL: https://news.ycombinator.com/item?id=47738864 Points: 74 # Comments: 80",
       "source": "Hacker News",
       "published": "2026-04-12T12:26:09+00:00",
       "link": "https://nerdy.dev/why-ai-sucks-at-front-end"
@@ -80,7 +87,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI Will Be Met with Violence, and Nothing Good Will Come of It",
-      "summary": "Article URL: https://www.thealgorithmicbridge.com/p/ai-will-be-met-with-violence-and Comments URL: https://news.ycombinator.com/item?id=47737563 Points: 320 # Comments: 570",
+      "summary": "Article URL: https://www.thealgorithmicbridge.com/p/ai-will-be-met-with-violence-and Comments URL: https://news.ycombinator.com/item?id=47737563 Points: 330 # Comments: 590",
       "source": "Hacker News",
       "published": "2026-04-12T09:16:35+00:00",
       "link": "https://www.thealgorithmicbridge.com/p/ai-will-be-met-with-violence-and"
@@ -108,14 +115,14 @@ const FEED_DATA = {
     },
     {
       "title": "We spoke to the man making viral Lego-style AI videos for Iran",
-      "summary": "Article URL: https://www.bbc.com/news/articles/cjd8jrd1vnyo Comments URL: https://news.ycombinator.com/item?id=47735704 Points: 90 # Comments: 78",
+      "summary": "Article URL: https://www.bbc.com/news/articles/cjd8jrd1vnyo Comments URL: https://news.ycombinator.com/item?id=47735704 Points: 93 # Comments: 81",
       "source": "Hacker News",
       "published": "2026-04-12T02:37:39+00:00",
       "link": "https://www.bbc.com/news/articles/cjd8jrd1vnyo"
     },
     {
       "title": "Exploiting the most prominent AI agent benchmarks",
-      "summary": "Article URL: https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/ Comments URL: https://news.ycombinator.com/item?id=47733217 Points: 479 # Comments: 121",
+      "summary": "Article URL: https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/ Comments URL: https://news.ycombinator.com/item?id=47733217 Points: 501 # Comments: 130",
       "source": "Hacker News",
       "published": "2026-04-11T19:15:56+00:00",
       "link": "https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/"
@@ -227,7 +234,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI assistance when contributing to the Linux kernel",
-      "summary": "Article URL: https://github.com/torvalds/linux/blob/master/Documentation/process/coding-assistants.rst Comments URL: https://news.ycombinator.com/item?id=47721953 Points: 510 # Comments: 400",
+      "summary": "Article URL: https://github.com/torvalds/linux/blob/master/Documentation/process/coding-assistants.rst Comments URL: https://news.ycombinator.com/item?id=47721953 Points: 510 # Comments: 406",
       "source": "Hacker News",
       "published": "2026-04-10T18:35:21+00:00",
       "link": "https://github.com/torvalds/linux/blob/master/Documentation/process/coding-assistants.rst"
@@ -283,7 +290,7 @@ const FEED_DATA = {
     },
     {
       "title": "Why do we tell ourselves scary stories about AI?",
-      "summary": "Article URL: https://www.quantamagazine.org/why-do-we-tell-ourselves-scary-stories-about-ai-20260410/ Comments URL: https://news.ycombinator.com/item?id=47718812 Points: 55 # Comments: 119",
+      "summary": "Article URL: https://www.quantamagazine.org/why-do-we-tell-ourselves-scary-stories-about-ai-20260410/ Comments URL: https://news.ycombinator.com/item?id=47718812 Points: 56 # Comments: 119",
       "source": "Hacker News",
       "published": "2026-04-10T14:35:35+00:00",
       "link": "https://www.quantamagazine.org/why-do-we-tell-ourselves-scary-stories-about-ai-20260410/"
@@ -318,7 +325,7 @@ const FEED_DATA = {
     },
     {
       "title": "OpenAI backs Illinois bill that would limit when AI labs can be held liable",
-      "summary": "https://archive.md/WzwBY Comments URL: https://news.ycombinator.com/item?id=47717587 Points: 445 # Comments: 322",
+      "summary": "https://archive.md/WzwBY Comments URL: https://news.ycombinator.com/item?id=47717587 Points: 445 # Comments: 323",
       "source": "Hacker News",
       "published": "2026-04-10T13:08:43+00:00",
       "link": "https://www.wired.com/story/openai-backs-bill-exempt-ai-firms-model-harm-lawsuits/"
@@ -395,7 +402,7 @@ const FEED_DATA = {
     },
     {
       "title": "Scientists invented a fake disease. AI told people it was real",
-      "summary": "Article URL: https://www.nature.com/articles/d41586-026-01100-y Comments URL: https://news.ycombinator.com/item?id=47715291 Points: 92 # Comments: 92",
+      "summary": "Article URL: https://www.nature.com/articles/d41586-026-01100-y Comments URL: https://news.ycombinator.com/item?id=47715291 Points: 93 # Comments: 92",
       "source": "Hacker News",
       "published": "2026-04-10T08:44:37+00:00",
       "link": "https://www.nature.com/articles/d41586-026-01100-y"
@@ -1393,13 +1400,6 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-04-05T15:11:08+00:00",
       "link": "https://the-decoder.com/the-new-york-times-drops-freelancer-whose-ai-tool-copied-from-an-existing-book-review/"
-    },
-    {
-      "title": "I let Gemini in Google Maps plan my day and it went surprisingly well",
-      "summary": "You may be familiar with Gemini as the thing that's in every Google service you use - whether you want it or not. While it's been a constant, sometimes unwelcome presence in Gmail for at least the past year, it's a relatively new addition to Maps.",
-      "source": "The Verge",
-      "published": "2026-04-05T14:00:00+00:00",
-      "link": "https://www.theverge.com/tech/907015/gemini-google-maps-hands-on"
     }
   ]
 };
