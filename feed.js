@@ -1,6 +1,62 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-04-13T14:52:06.619010+00:00",
+  "lastUpdated": "2026-04-13T17:56:22.513632+00:00",
   "items": [
+    {
+      "title": "New AI model generates 45-minute lip-synced video from one photo and runs in real time",
+      "summary": "A single image becomes a talking character: LPM 1.0 generates real-time video with lip sync, facial expressions, and emotional reactions. For now, it remains a research project.",
+      "source": "The Decoder",
+      "published": "2026-04-13T17:31:59+00:00",
+      "link": "https://the-decoder.com/new-ai-model-generates-45-minute-lip-synced-video-from-one-photo-and-runs-in-real-time/"
+    },
+    {
+      "title": "Google now offers Ultra subscribers video generation with Veo 3.1 Lite at no extra credit cost",
+      "summary": "Google is rolling out a new video generation option for Ultra subscribers that won't cost them any additional credits. The article Google now offers Ultra subscribers video generation with Veo 3.1 Lite at no extra credit cost appeared first on The Decoder.",
+      "source": "The Decoder",
+      "published": "2026-04-13T16:23:30+00:00",
+      "link": "https://the-decoder.com/google-now-offers-ultra-subscribers-video-generation-with-veo-3-1-lite-at-no-extra-credit-cost/"
+    },
+    {
+      "title": "Read OpenAI’s latest internal memo about beating the competition — including Anthropic",
+      "summary": "OpenAI's chief revenue officer, Denise Dresser, sent a four-page memo to employees on Sunday about the company's strategic direction, emphasizing the need to lock in users and grow its enterprise business.",
+      "source": "The Verge",
+      "published": "2026-04-13T16:21:08+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/911118/openai-memo-cro-ai-competition-anthropic"
+    },
+    {
+      "title": "Meta Is Warned That Facial Recognition Glasses Will Arm Sexual Predators",
+      "summary": "More than 70 organizations, including the ACLU, EPIC, and Fight for the Future, say the AI smart glasses feature would endanger abuse victims, immigrants, and LGBTQ+ people.",
+      "source": "Wired",
+      "published": "2026-04-13T16:01:30+00:00",
+      "link": "https://www.wired.com/story/meta-ray-ban-oakley-smart-glasses-no-face-recognition-civil-society/"
+    },
+    {
+      "title": "Why opinion on AI is so divided",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here.",
+      "source": "MIT Tech Review",
+      "published": "2026-04-13T15:48:28+00:00",
+      "link": "https://www.technologyreview.com/2026/04/13/1135720/why-opinion-on-ai-is-so-divided/"
+    },
+    {
+      "title": "Microsoft is testing OpenClaw-like AI bots for 365 Copilot",
+      "summary": "Microsoft is looking into ways it can integrate OpenClaw-style features into 365 Copilot, according to a report from The Information.",
+      "source": "The Verge",
+      "published": "2026-04-13T15:41:09+00:00",
+      "link": "https://www.theverge.com/tech/911080/microsoft-ai-openclaw-365-businesses"
+    },
+    {
+      "title": "Claude.ai down",
+      "summary": "Article URL: https://status.claude.com/incidents/6jd2m42f8mld Comments URL: https://news.ycombinator.com/item?id=47753643 Points: 114 # Comments: 111",
+      "source": "Hacker News",
+      "published": "2026-04-13T15:41:08+00:00",
+      "link": "https://status.claude.com/incidents/6jd2m42f8mld"
+    },
+    {
+      "title": "Vercel CEO Guillermo Rauch signals IPO readiness as AI agents fuel revenue surge",
+      "summary": "\"The company is ready and getting more ready for every day,\" Rauch said about an IPO at HumanX conference.",
+      "source": "TechCrunch",
+      "published": "2026-04-13T15:22:29+00:00",
+      "link": "https://techcrunch.com/2026/04/13/vercel-ceo-guillermo-rauch-signals-ipo-readiness-as-ai-agents-fuel-revenue-surge/"
+    },
     {
       "title": "The AI industry is running out of compute, with outages, rationing, and rising GPU prices",
       "summary": "Surging demand for AI agents is colliding with limited compute capacity. Anthropic is struggling with outages, OpenAI announced the end of Sora, and GPU prices have jumped nearly 50 percent, according to market data.",
@@ -31,7 +87,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI could be the end of the digital wave, not the next big thing",
-      "summary": "Article URL: https://thenextwavefutures.wordpress.com/2026/04/07/ai-end-digital-wave-technology-innovation-perez/ Comments URL: https://news.ycombinator.com/item?id=47751032 Points: 130 # Comments: 137",
+      "summary": "Article URL: https://thenextwavefutures.wordpress.com/2026/04/07/ai-end-digital-wave-technology-innovation-perez/ Comments URL: https://news.ycombinator.com/item?id=47751032 Points: 164 # Comments: 236",
       "source": "Hacker News",
       "published": "2026-04-13T12:29:39+00:00",
       "link": "https://thenextwavefutures.wordpress.com/2026/04/07/ai-end-digital-wave-technology-innovation-perez/"
@@ -115,21 +171,21 @@ const FEED_DATA = {
     },
     {
       "title": "The AI Layoff Trap",
-      "summary": "Article URL: https://arxiv.org/abs/2603.20617 Comments URL: https://news.ycombinator.com/item?id=47748123 Points: 55 # Comments: 84",
+      "summary": "Article URL: https://arxiv.org/abs/2603.20617 Comments URL: https://news.ycombinator.com/item?id=47748123 Points: 57 # Comments: 93",
       "source": "Hacker News",
       "published": "2026-04-13T05:56:49+00:00",
       "link": "https://arxiv.org/abs/2603.20617"
     },
     {
       "title": "Apple's accidental moat: How the \"AI Loser\" may end up winning",
-      "summary": "Article URL: https://adlrocha.substack.com/p/adlrocha-how-the-ai-loser-may-end Comments URL: https://news.ycombinator.com/item?id=47747017 Points: 325 # Comments: 280",
+      "summary": "Article URL: https://adlrocha.substack.com/p/adlrocha-how-the-ai-loser-may-end Comments URL: https://news.ycombinator.com/item?id=47747017 Points: 368 # Comments: 328",
       "source": "Hacker News",
       "published": "2026-04-13T02:53:10+00:00",
       "link": "https://adlrocha.substack.com/p/adlrocha-how-the-ai-loser-may-end"
     },
     {
       "title": "Tech valuations are back to pre-AI boom levels",
-      "summary": "Article URL: https://www.apollo.com/wealth/the-daily-spark/tech-valuations-back-to-pre-ai-boom-levels Comments URL: https://news.ycombinator.com/item?id=47745120 Points: 142 # Comments: 39",
+      "summary": "Article URL: https://www.apollo.com/wealth/the-daily-spark/tech-valuations-back-to-pre-ai-boom-levels Comments URL: https://news.ycombinator.com/item?id=47745120 Points: 143 # Comments: 40",
       "source": "Hacker News",
       "published": "2026-04-12T22:13:22+00:00",
       "link": "https://www.apollo.com/wealth/the-daily-spark/tech-valuations-back-to-pre-ai-boom-levels"
@@ -143,14 +199,14 @@ const FEED_DATA = {
     },
     {
       "title": "European AI. A playbook to own it",
-      "summary": "Article URL: https://europe.mistral.ai/ Comments URL: https://news.ycombinator.com/item?id=47743700 Points: 192 # Comments: 117",
+      "summary": "Article URL: https://europe.mistral.ai/ Comments URL: https://news.ycombinator.com/item?id=47743700 Points: 194 # Comments: 127",
       "source": "Hacker News",
       "published": "2026-04-12T19:51:06+00:00",
       "link": "https://europe.mistral.ai/"
     },
     {
       "title": "Bouncer: Block \"crypto\", \"rage politics\", and more from your X feed using AI",
-      "summary": "Article URL: https://github.com/imbue-ai/bouncer Comments URL: https://news.ycombinator.com/item?id=47741531 Points: 51 # Comments: 96",
+      "summary": "Article URL: https://github.com/imbue-ai/bouncer Comments URL: https://news.ycombinator.com/item?id=47741531 Points: 52 # Comments: 99",
       "source": "Hacker News",
       "published": "2026-04-12T16:24:46+00:00",
       "link": "https://github.com/imbue-ai/bouncer"
@@ -185,7 +241,7 @@ const FEED_DATA = {
     },
     {
       "title": "Why AI Sucks at Front End",
-      "summary": "Article URL: https://nerdy.dev/why-ai-sucks-at-front-end Comments URL: https://news.ycombinator.com/item?id=47738864 Points: 95 # Comments: 125",
+      "summary": "Article URL: https://nerdy.dev/why-ai-sucks-at-front-end Comments URL: https://news.ycombinator.com/item?id=47738864 Points: 101 # Comments: 144",
       "source": "Hacker News",
       "published": "2026-04-12T12:26:09+00:00",
       "link": "https://nerdy.dev/why-ai-sucks-at-front-end"
@@ -220,7 +276,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI Will Be Met with Violence, and Nothing Good Will Come of It",
-      "summary": "Article URL: https://www.thealgorithmicbridge.com/p/ai-will-be-met-with-violence-and Comments URL: https://news.ycombinator.com/item?id=47737563 Points: 340 # Comments: 614",
+      "summary": "Article URL: https://www.thealgorithmicbridge.com/p/ai-will-be-met-with-violence-and Comments URL: https://news.ycombinator.com/item?id=47737563 Points: 343 # Comments: 616",
       "source": "Hacker News",
       "published": "2026-04-12T09:16:35+00:00",
       "link": "https://www.thealgorithmicbridge.com/p/ai-will-be-met-with-violence-and"
@@ -248,14 +304,14 @@ const FEED_DATA = {
     },
     {
       "title": "We spoke to the man making viral Lego-style AI videos for Iran",
-      "summary": "Article URL: https://www.bbc.com/news/articles/cjd8jrd1vnyo Comments URL: https://news.ycombinator.com/item?id=47735704 Points: 94 # Comments: 82",
+      "summary": "Article URL: https://www.bbc.com/news/articles/cjd8jrd1vnyo Comments URL: https://news.ycombinator.com/item?id=47735704 Points: 94 # Comments: 85",
       "source": "Hacker News",
       "published": "2026-04-12T02:37:39+00:00",
       "link": "https://www.bbc.com/news/articles/cjd8jrd1vnyo"
     },
     {
       "title": "Exploiting the most prominent AI agent benchmarks",
-      "summary": "Article URL: https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/ Comments URL: https://news.ycombinator.com/item?id=47733217 Points: 549 # Comments: 134",
+      "summary": "Article URL: https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/ Comments URL: https://news.ycombinator.com/item?id=47733217 Points: 561 # Comments: 136",
       "source": "Hacker News",
       "published": "2026-04-11T19:15:56+00:00",
       "link": "https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/"
@@ -367,7 +423,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI assistance when contributing to the Linux kernel",
-      "summary": "Article URL: https://github.com/torvalds/linux/blob/master/Documentation/process/coding-assistants.rst Comments URL: https://news.ycombinator.com/item?id=47721953 Points: 513 # Comments: 413",
+      "summary": "Article URL: https://github.com/torvalds/linux/blob/master/Documentation/process/coding-assistants.rst Comments URL: https://news.ycombinator.com/item?id=47721953 Points: 514 # Comments: 414",
       "source": "Hacker News",
       "published": "2026-04-10T18:35:21+00:00",
       "link": "https://github.com/torvalds/linux/blob/master/Documentation/process/coding-assistants.rst"
@@ -451,7 +507,7 @@ const FEED_DATA = {
     },
     {
       "title": "US summons bank bosses over cyber risks from Anthropic's latest AI model",
-      "summary": "Article URL: https://www.theguardian.com/technology/2026/apr/10/us-summoned-bank-bosses-to-discuss-cyber-risks-posed-by-anthropic-latest-ai-model Comments URL: https://news.ycombinator.com/item?id=47718114 Points: 107 # Comments: 94",
+      "summary": "Article URL: https://www.theguardian.com/technology/2026/apr/10/us-summoned-bank-bosses-to-discuss-cyber-risks-posed-by-anthropic-latest-ai-model Comments URL: https://news.ycombinator.com/item?id=47718114 Points: 107 # Comments: 95",
       "source": "Hacker News",
       "published": "2026-04-10T13:47:17+00:00",
       "link": "https://www.theguardian.com/technology/2026/apr/10/us-summoned-bank-bosses-to-discuss-cyber-risks-posed-by-anthropic-latest-ai-model"
@@ -1344,62 +1400,6 @@ const FEED_DATA = {
       "source": "Hacker News",
       "published": "2026-04-06T17:52:46+00:00",
       "link": "https://www.psypost.org/intelligent-people-are-better-judges-of-the-intelligence-of-others/"
-    },
-    {
-      "title": "Less work, equal pay: OpenAI lays out its vision for a world reshaped by superintelligence",
-      "summary": "In a new policy paper, OpenAI lays out how governments should prepare for superintelligence, with proposals that include a public wealth fund, a four-day workweek, and higher capital gains taxes for top earners.",
-      "source": "The Decoder",
-      "published": "2026-04-06T16:40:46+00:00",
-      "link": "https://the-decoder.com/less-work-equal-pay-openai-lays-out-its-vision-for-a-world-reshaped-by-superintelligence/"
-    },
-    {
-      "title": "The one piece of data that could actually shed light on your job and AI",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here.",
-      "source": "MIT Tech Review",
-      "published": "2026-04-06T16:33:35+00:00",
-      "link": "https://www.technologyreview.com/2026/04/06/1135187/the-one-piece-of-data-that-could-actually-shed-light-on-your-job-and-ai/"
-    },
-    {
-      "title": "Launch HN: Freestyle: Sandboxes for AI Coding Agents",
-      "summary": "We’re Ben and Jacob, cofounders of Freestyle (https://freestyle.sh). We’re building a cloud for Coding Agents.For the first generation of agents it looked like workflows with minimal tools.",
-      "source": "Hacker News",
-      "published": "2026-04-06T16:32:11+00:00",
-      "link": "https://www.freestyle.sh"
-    },
-    {
-      "title": "AI singer now occupies eleven spots on iTunes singles chart",
-      "summary": "Article URL: https://www.showbiz411.com/2026/04/05/itunes-takeover-by-fake-ai-singer-eddie-dalton-now-occupies-eleven-spots-on-chart-despite-not-being-human-or-real-exclusive Comments URL: https://news.ycombinator.com/item?id=47662596 Points: 243 # Comments: 375",
-      "source": "Hacker News",
-      "published": "2026-04-06T15:57:07+00:00",
-      "link": "https://www.showbiz411.com/2026/04/05/itunes-takeover-by-fake-ai-singer-eddie-dalton-now-occupies-eleven-spots-on-chart-despite-not-being-human-or-real-exclusive"
-    },
-    {
-      "title": "OpenAI’s vision for the AI economy: public wealth funds, robot taxes, and a four-day workweek",
-      "summary": "OpenAI proposes taxes on AI profits, public wealth funds, and expanded safety nets to address job loss and inequality, blending redistribution with capitalism as policymakers debate AI’s economic impact.",
-      "source": "TechCrunch",
-      "published": "2026-04-06T15:55:55+00:00",
-      "link": "https://techcrunch.com/2026/04/06/openais-vision-for-the-ai-economy-public-wealth-funds-robot-taxes-and-a-four-day-work-week/"
-    },
-    {
-      "title": "Iran threatens OpenAI’s Stargate data center in Abu Dhabi",
-      "summary": "Iran's Islamic Revolutionary Guard Corps (IRGC) has published a video threatening OpenAI's planned Abu Dhabi data center if the US follows through on threats to attack the country's power plants, as reported earlier by Tom's Hardware.",
-      "source": "The Verge",
-      "published": "2026-04-06T15:54:19+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/907427/iran-openai-stargate-datacenter-uae-abu-dhabi-threat"
-    },
-    {
-      "title": "When Virality Is the Message: The New Age of AI Propaganda",
-      "summary": "Article URL: https://time.com/article/2026/04/02/when-virality-is-the-message-the-new-age-of-ai-propaganda/ Comments URL: https://news.ycombinator.com/item?id=47661231 Points: 62 # Comments: 91",
-      "source": "Hacker News",
-      "published": "2026-04-06T14:16:35+00:00",
-      "link": "https://time.com/article/2026/04/02/when-virality-is-the-message-the-new-age-of-ai-propaganda/"
-    },
-    {
-      "title": "How to use the new ChatGPT app integrations, including DoorDash, Spotify, Uber, and others",
-      "summary": "Learn how to use Spotify, Canva, Figma, Expedia, and other apps directly in ChatGPT.",
-      "source": "TechCrunch",
-      "published": "2026-04-06T14:11:42+00:00",
-      "link": "https://techcrunch.com/2026/04/06/how-to-use-chatgpt-apps-doordash-spotify-uber/"
     }
   ]
 };
