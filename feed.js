@@ -1,9 +1,23 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-04-13T04:19:20.783160+00:00",
+  "lastUpdated": "2026-04-13T07:14:58.005812+00:00",
   "items": [
     {
+      "title": "The largest orbital compute cluster is open for business",
+      "summary": "Kepler Communications is flying 40 GPUs in Earth orbit. And its latest customer is Sophia Space.",
+      "source": "TechCrunch",
+      "published": "2026-04-13T07:01:00+00:00",
+      "link": "https://techcrunch.com/2026/04/13/the-largest-orbital-compute-cluster-is-open-for-business/"
+    },
+    {
+      "title": "Apple's accidental moat: How the \"AI Loser\" may end up winning",
+      "summary": "Article URL: https://adlrocha.substack.com/p/adlrocha-how-the-ai-loser-may-end Comments URL: https://news.ycombinator.com/item?id=47747017 Points: 131 # Comments: 123",
+      "source": "Hacker News",
+      "published": "2026-04-13T02:53:10+00:00",
+      "link": "https://adlrocha.substack.com/p/adlrocha-how-the-ai-loser-may-end"
+    },
+    {
       "title": "Tech valuations are back to pre-AI boom levels",
-      "summary": "Article URL: https://www.apollo.com/wealth/the-daily-spark/tech-valuations-back-to-pre-ai-boom-levels Comments URL: https://news.ycombinator.com/item?id=47745120 Points: 125 # Comments: 33",
+      "summary": "Article URL: https://www.apollo.com/wealth/the-daily-spark/tech-valuations-back-to-pre-ai-boom-levels Comments URL: https://news.ycombinator.com/item?id=47745120 Points: 133 # Comments: 35",
       "source": "Hacker News",
       "published": "2026-04-12T22:13:22+00:00",
       "link": "https://www.apollo.com/wealth/the-daily-spark/tech-valuations-back-to-pre-ai-boom-levels"
@@ -17,7 +31,7 @@ const FEED_DATA = {
     },
     {
       "title": "European AI. A playbook to own it",
-      "summary": "Article URL: https://europe.mistral.ai/ Comments URL: https://news.ycombinator.com/item?id=47743700 Points: 158 # Comments: 96",
+      "summary": "Article URL: https://europe.mistral.ai/ Comments URL: https://news.ycombinator.com/item?id=47743700 Points: 172 # Comments: 101",
       "source": "Hacker News",
       "published": "2026-04-12T19:51:06+00:00",
       "link": "https://europe.mistral.ai/"
@@ -52,7 +66,7 @@ const FEED_DATA = {
     },
     {
       "title": "Why AI Sucks at Front End",
-      "summary": "Article URL: https://nerdy.dev/why-ai-sucks-at-front-end Comments URL: https://news.ycombinator.com/item?id=47738864 Points: 74 # Comments: 80",
+      "summary": "Article URL: https://nerdy.dev/why-ai-sucks-at-front-end Comments URL: https://news.ycombinator.com/item?id=47738864 Points: 80 # Comments: 94",
       "source": "Hacker News",
       "published": "2026-04-12T12:26:09+00:00",
       "link": "https://nerdy.dev/why-ai-sucks-at-front-end"
@@ -87,7 +101,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI Will Be Met with Violence, and Nothing Good Will Come of It",
-      "summary": "Article URL: https://www.thealgorithmicbridge.com/p/ai-will-be-met-with-violence-and Comments URL: https://news.ycombinator.com/item?id=47737563 Points: 330 # Comments: 590",
+      "summary": "Article URL: https://www.thealgorithmicbridge.com/p/ai-will-be-met-with-violence-and Comments URL: https://news.ycombinator.com/item?id=47737563 Points: 333 # Comments: 595",
       "source": "Hacker News",
       "published": "2026-04-12T09:16:35+00:00",
       "link": "https://www.thealgorithmicbridge.com/p/ai-will-be-met-with-violence-and"
@@ -115,14 +129,14 @@ const FEED_DATA = {
     },
     {
       "title": "We spoke to the man making viral Lego-style AI videos for Iran",
-      "summary": "Article URL: https://www.bbc.com/news/articles/cjd8jrd1vnyo Comments URL: https://news.ycombinator.com/item?id=47735704 Points: 93 # Comments: 81",
+      "summary": "Article URL: https://www.bbc.com/news/articles/cjd8jrd1vnyo Comments URL: https://news.ycombinator.com/item?id=47735704 Points: 94 # Comments: 81",
       "source": "Hacker News",
       "published": "2026-04-12T02:37:39+00:00",
       "link": "https://www.bbc.com/news/articles/cjd8jrd1vnyo"
     },
     {
       "title": "Exploiting the most prominent AI agent benchmarks",
-      "summary": "Article URL: https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/ Comments URL: https://news.ycombinator.com/item?id=47733217 Points: 501 # Comments: 130",
+      "summary": "Article URL: https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/ Comments URL: https://news.ycombinator.com/item?id=47733217 Points: 510 # Comments: 130",
       "source": "Hacker News",
       "published": "2026-04-11T19:15:56+00:00",
       "link": "https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/"
@@ -234,7 +248,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI assistance when contributing to the Linux kernel",
-      "summary": "Article URL: https://github.com/torvalds/linux/blob/master/Documentation/process/coding-assistants.rst Comments URL: https://news.ycombinator.com/item?id=47721953 Points: 510 # Comments: 406",
+      "summary": "Article URL: https://github.com/torvalds/linux/blob/master/Documentation/process/coding-assistants.rst Comments URL: https://news.ycombinator.com/item?id=47721953 Points: 511 # Comments: 410",
       "source": "Hacker News",
       "published": "2026-04-10T18:35:21+00:00",
       "link": "https://github.com/torvalds/linux/blob/master/Documentation/process/coding-assistants.rst"
@@ -290,7 +304,7 @@ const FEED_DATA = {
     },
     {
       "title": "Why do we tell ourselves scary stories about AI?",
-      "summary": "Article URL: https://www.quantamagazine.org/why-do-we-tell-ourselves-scary-stories-about-ai-20260410/ Comments URL: https://news.ycombinator.com/item?id=47718812 Points: 56 # Comments: 119",
+      "summary": "Article URL: https://www.quantamagazine.org/why-do-we-tell-ourselves-scary-stories-about-ai-20260410/ Comments URL: https://news.ycombinator.com/item?id=47718812 Points: 56 # Comments: 121",
       "source": "Hacker News",
       "published": "2026-04-10T14:35:35+00:00",
       "link": "https://www.quantamagazine.org/why-do-we-tell-ourselves-scary-stories-about-ai-20260410/"
@@ -1386,20 +1400,6 @@ const FEED_DATA = {
       "source": "Hacker News",
       "published": "2026-04-05T17:53:19+00:00",
       "link": "https://github.com/fikrikarim/parlor"
-    },
-    {
-      "title": "Suno is a music copyright nightmare",
-      "summary": "AI music platform Suno's policy is that it does not permit the use of copyrighted material. You can upload your own tracks to remix or set your original lyrics to AI-generated music.",
-      "source": "The Verge",
-      "published": "2026-04-05T16:00:00+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/906896/sunos-copyright-ai-music-covers"
-    },
-    {
-      "title": "The New York Times drops freelancer whose AI tool copied from an existing book review",
-      "summary": "AI tools can speed up journalism until they backfire. Two recent cases show what happens when writers don't understand how their AI tools work: copied passages and made-up quotes.",
-      "source": "The Decoder",
-      "published": "2026-04-05T15:11:08+00:00",
-      "link": "https://the-decoder.com/the-new-york-times-drops-freelancer-whose-ai-tool-copied-from-an-existing-book-review/"
     }
   ]
 };
