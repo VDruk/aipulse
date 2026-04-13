@@ -1,6 +1,34 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-04-13T17:56:22.513632+00:00",
+  "lastUpdated": "2026-04-13T21:40:56.034399+00:00",
   "items": [
+    {
+      "title": "AI influencers are ‘everywhere’ at Coachella",
+      "summary": "Coachella kicked off on Friday, and as usual, it's the place to be for online influencers looking to show off their memorable experiences at the festival.",
+      "source": "The Verge",
+      "published": "2026-04-13T19:53:46+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/911267/ai-influencers-coachella"
+    },
+    {
+      "title": "OpenAI's leaked memo says new \"Spud\" model will make all its products \"significantly better\"",
+      "summary": "An internal OpenAI memo lays out five strategic priorities for the enterprise business - including a new model codenamed \"Spud,\" a platform play for AI agents, and the blunt accusation that Anthropic is overstating its revenue by 8 billion dollars.",
+      "source": "The Decoder",
+      "published": "2026-04-13T19:06:34+00:00",
+      "link": "https://the-decoder.com/openais-leaked-memo-says-new-spud-model-will-make-all-its-products-significantly-better/"
+    },
+    {
+      "title": "Microsoft is working on yet another OpenClaw-like agent",
+      "summary": "The new features would be geared toward enterprise customers, with better security controls than the famously risky open source OpenClaw agent.",
+      "source": "TechCrunch",
+      "published": "2026-04-13T19:05:19+00:00",
+      "link": "https://techcrunch.com/2026/04/13/microsoft-is-working-on-yet-another-openclaw-like-agent/"
+    },
+    {
+      "title": "Stanford report highlights growing disconnect between AI insiders and everyone else",
+      "summary": "Stanford’s latest AI Index shows a widening gap between experts and the public, with rising anxiety over jobs, healthcare, and the economy.",
+      "source": "TechCrunch",
+      "published": "2026-04-13T18:55:37+00:00",
+      "link": "https://techcrunch.com/2026/04/13/stanford-report-highlights-growing-disconnect-between-ai-insiders-and-everyone-else/"
+    },
     {
       "title": "New AI model generates 45-minute lip-synced video from one photo and runs in real time",
       "summary": "A single image becomes a talking character: LPM 1.0 generates real-time video with lip sync, facial expressions, and emotional reactions. For now, it remains a research project.",
@@ -37,6 +65,13 @@ const FEED_DATA = {
       "link": "https://www.technologyreview.com/2026/04/13/1135720/why-opinion-on-ai-is-so-divided/"
     },
     {
+      "title": "Microsoft is testing OpenClaw-like AI bots for Copilot",
+      "summary": "Microsoft is looking into ways it can integrate OpenClaw-style features into its Copilot AI assistant, according to a report from The Information.",
+      "source": "The Verge",
+      "published": "2026-04-13T15:41:09+00:00",
+      "link": "https://www.theverge.com/tech/911080/microsoft-ai-openclaw-365-businesses"
+    },
+    {
       "title": "Microsoft is testing OpenClaw-like AI bots for 365 Copilot",
       "summary": "Microsoft is looking into ways it can integrate OpenClaw-style features into 365 Copilot, according to a report from The Information.",
       "source": "The Verge",
@@ -45,14 +80,14 @@ const FEED_DATA = {
     },
     {
       "title": "Claude.ai down",
-      "summary": "Article URL: https://status.claude.com/incidents/6jd2m42f8mld Comments URL: https://news.ycombinator.com/item?id=47753643 Points: 114 # Comments: 111",
+      "summary": "Article URL: https://status.claude.com/incidents/6jd2m42f8mld Comments URL: https://news.ycombinator.com/item?id=47753643 Points: 125 # Comments: 121",
       "source": "Hacker News",
       "published": "2026-04-13T15:41:08+00:00",
       "link": "https://status.claude.com/incidents/6jd2m42f8mld"
     },
     {
       "title": "Vercel CEO Guillermo Rauch signals IPO readiness as AI agents fuel revenue surge",
-      "summary": "\"The company is ready and getting more ready for every day,\" Rauch said about an IPO at HumanX conference.",
+      "summary": "While many startups founded prior to the emergence of ChatGPT are struggling to position themselves for the AI era, Vercel, a 10-year-old dev tool and website hosting platform, is benefiting from the explosion of AI-generated apps and agents.",
       "source": "TechCrunch",
       "published": "2026-04-13T15:22:29+00:00",
       "link": "https://techcrunch.com/2026/04/13/vercel-ceo-guillermo-rauch-signals-ipo-readiness-as-ai-agents-fuel-revenue-surge/"
@@ -87,7 +122,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI could be the end of the digital wave, not the next big thing",
-      "summary": "Article URL: https://thenextwavefutures.wordpress.com/2026/04/07/ai-end-digital-wave-technology-innovation-perez/ Comments URL: https://news.ycombinator.com/item?id=47751032 Points: 164 # Comments: 236",
+      "summary": "Article URL: https://thenextwavefutures.wordpress.com/2026/04/07/ai-end-digital-wave-technology-innovation-perez/ Comments URL: https://news.ycombinator.com/item?id=47751032 Points: 172 # Comments: 252",
       "source": "Hacker News",
       "published": "2026-04-13T12:29:39+00:00",
       "link": "https://thenextwavefutures.wordpress.com/2026/04/07/ai-end-digital-wave-technology-innovation-perez/"
@@ -171,21 +206,21 @@ const FEED_DATA = {
     },
     {
       "title": "The AI Layoff Trap",
-      "summary": "Article URL: https://arxiv.org/abs/2603.20617 Comments URL: https://news.ycombinator.com/item?id=47748123 Points: 57 # Comments: 93",
+      "summary": "Article URL: https://arxiv.org/abs/2603.20617 Comments URL: https://news.ycombinator.com/item?id=47748123 Points: 58 # Comments: 96",
       "source": "Hacker News",
       "published": "2026-04-13T05:56:49+00:00",
       "link": "https://arxiv.org/abs/2603.20617"
     },
     {
       "title": "Apple's accidental moat: How the \"AI Loser\" may end up winning",
-      "summary": "Article URL: https://adlrocha.substack.com/p/adlrocha-how-the-ai-loser-may-end Comments URL: https://news.ycombinator.com/item?id=47747017 Points: 368 # Comments: 328",
+      "summary": "Article URL: https://adlrocha.substack.com/p/adlrocha-how-the-ai-loser-may-end Comments URL: https://news.ycombinator.com/item?id=47747017 Points: 388 # Comments: 343",
       "source": "Hacker News",
       "published": "2026-04-13T02:53:10+00:00",
       "link": "https://adlrocha.substack.com/p/adlrocha-how-the-ai-loser-may-end"
     },
     {
       "title": "Tech valuations are back to pre-AI boom levels",
-      "summary": "Article URL: https://www.apollo.com/wealth/the-daily-spark/tech-valuations-back-to-pre-ai-boom-levels Comments URL: https://news.ycombinator.com/item?id=47745120 Points: 143 # Comments: 40",
+      "summary": "Article URL: https://www.apollo.com/wealth/the-daily-spark/tech-valuations-back-to-pre-ai-boom-levels Comments URL: https://news.ycombinator.com/item?id=47745120 Points: 145 # Comments: 40",
       "source": "Hacker News",
       "published": "2026-04-12T22:13:22+00:00",
       "link": "https://www.apollo.com/wealth/the-daily-spark/tech-valuations-back-to-pre-ai-boom-levels"
@@ -199,14 +234,14 @@ const FEED_DATA = {
     },
     {
       "title": "European AI. A playbook to own it",
-      "summary": "Article URL: https://europe.mistral.ai/ Comments URL: https://news.ycombinator.com/item?id=47743700 Points: 194 # Comments: 127",
+      "summary": "Article URL: https://europe.mistral.ai/ Comments URL: https://news.ycombinator.com/item?id=47743700 Points: 198 # Comments: 129",
       "source": "Hacker News",
       "published": "2026-04-12T19:51:06+00:00",
       "link": "https://europe.mistral.ai/"
     },
     {
       "title": "Bouncer: Block \"crypto\", \"rage politics\", and more from your X feed using AI",
-      "summary": "Article URL: https://github.com/imbue-ai/bouncer Comments URL: https://news.ycombinator.com/item?id=47741531 Points: 52 # Comments: 99",
+      "summary": "Article URL: https://github.com/imbue-ai/bouncer Comments URL: https://news.ycombinator.com/item?id=47741531 Points: 53 # Comments: 103",
       "source": "Hacker News",
       "published": "2026-04-12T16:24:46+00:00",
       "link": "https://github.com/imbue-ai/bouncer"
@@ -241,7 +276,7 @@ const FEED_DATA = {
     },
     {
       "title": "Why AI Sucks at Front End",
-      "summary": "Article URL: https://nerdy.dev/why-ai-sucks-at-front-end Comments URL: https://news.ycombinator.com/item?id=47738864 Points: 101 # Comments: 144",
+      "summary": "Article URL: https://nerdy.dev/why-ai-sucks-at-front-end Comments URL: https://news.ycombinator.com/item?id=47738864 Points: 107 # Comments: 156",
       "source": "Hacker News",
       "published": "2026-04-12T12:26:09+00:00",
       "link": "https://nerdy.dev/why-ai-sucks-at-front-end"
@@ -276,7 +311,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI Will Be Met with Violence, and Nothing Good Will Come of It",
-      "summary": "Article URL: https://www.thealgorithmicbridge.com/p/ai-will-be-met-with-violence-and Comments URL: https://news.ycombinator.com/item?id=47737563 Points: 343 # Comments: 616",
+      "summary": "Article URL: https://www.thealgorithmicbridge.com/p/ai-will-be-met-with-violence-and Comments URL: https://news.ycombinator.com/item?id=47737563 Points: 344 # Comments: 621",
       "source": "Hacker News",
       "published": "2026-04-12T09:16:35+00:00",
       "link": "https://www.thealgorithmicbridge.com/p/ai-will-be-met-with-violence-and"
@@ -304,14 +339,14 @@ const FEED_DATA = {
     },
     {
       "title": "We spoke to the man making viral Lego-style AI videos for Iran",
-      "summary": "Article URL: https://www.bbc.com/news/articles/cjd8jrd1vnyo Comments URL: https://news.ycombinator.com/item?id=47735704 Points: 94 # Comments: 85",
+      "summary": "Article URL: https://www.bbc.com/news/articles/cjd8jrd1vnyo Comments URL: https://news.ycombinator.com/item?id=47735704 Points: 94 # Comments: 87",
       "source": "Hacker News",
       "published": "2026-04-12T02:37:39+00:00",
       "link": "https://www.bbc.com/news/articles/cjd8jrd1vnyo"
     },
     {
       "title": "Exploiting the most prominent AI agent benchmarks",
-      "summary": "Article URL: https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/ Comments URL: https://news.ycombinator.com/item?id=47733217 Points: 561 # Comments: 136",
+      "summary": "Article URL: https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/ Comments URL: https://news.ycombinator.com/item?id=47733217 Points: 571 # Comments: 137",
       "source": "Hacker News",
       "published": "2026-04-11T19:15:56+00:00",
       "link": "https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/"
@@ -423,7 +458,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI assistance when contributing to the Linux kernel",
-      "summary": "Article URL: https://github.com/torvalds/linux/blob/master/Documentation/process/coding-assistants.rst Comments URL: https://news.ycombinator.com/item?id=47721953 Points: 514 # Comments: 414",
+      "summary": "Article URL: https://github.com/torvalds/linux/blob/master/Documentation/process/coding-assistants.rst Comments URL: https://news.ycombinator.com/item?id=47721953 Points: 515 # Comments: 418",
       "source": "Hacker News",
       "published": "2026-04-10T18:35:21+00:00",
       "link": "https://github.com/torvalds/linux/blob/master/Documentation/process/coding-assistants.rst"
@@ -1365,41 +1400,6 @@ const FEED_DATA = {
       "source": "Hacker News",
       "published": "2026-04-06T21:49:34+00:00",
       "link": "https://github.com/kitfunso/hippo-memory"
-    },
-    {
-      "title": "Wikipedia's AI agent row likely just the beginning of the bot-ocalypse",
-      "summary": "Article URL: https://www.malwarebytes.com/blog/ai/2026/04/wikipedias-ai-agent-row-likely-just-the-beginning-of-the-bot-ocalypse Comments URL: https://news.ycombinator.com/item?id=47665902 Points: 71 # Comments: 90",
-      "source": "Hacker News",
-      "published": "2026-04-06T19:41:39+00:00",
-      "link": "https://www.malwarebytes.com/blog/ai/2026/04/wikipedias-ai-agent-row-likely-just-the-beginning-of-the-bot-ocalypse"
-    },
-    {
-      "title": "AI helps add 10k more photos to OldNYC",
-      "summary": "Article URL: https://www.danvk.org/2026/03/08/oldnyc-updates.html Comments URL: https://news.ycombinator.com/item?id=47664836 Points: 142 # Comments: 50",
-      "source": "Hacker News",
-      "published": "2026-04-06T18:24:32+00:00",
-      "link": "https://www.danvk.org/2026/03/08/oldnyc-updates.html"
-    },
-    {
-      "title": "Iran threatens ‘Stargate’ AI data centers",
-      "summary": "Iran said it will target U.S.-linked data centers with new missile strikes, as the war between the U.S. and Iran escalates.",
-      "source": "TechCrunch",
-      "published": "2026-04-06T18:06:28+00:00",
-      "link": "https://techcrunch.com/2026/04/06/iran-threatens-stargate-ai-data-centers/"
-    },
-    {
-      "title": "OpenAI's safety brain drain finally gets an explanation and it's just Sam Altman's vibes",
-      "summary": "\"My vibes don't really fit.\" In a new New Yorker profile based on over 100 interviews, Sam Altman explains why safety researchers keep leaving OpenAI and why shifting commitments others might call deception are just part of the job.",
-      "source": "The Decoder",
-      "published": "2026-04-06T18:03:43+00:00",
-      "link": "https://the-decoder.com/openais-safety-brain-drain-finally-gets-an-explanation-and-its-just-sam-altmans-vibes/"
-    },
-    {
-      "title": "Intelligent people are better judges of the intelligence of others",
-      "summary": "https://www.sciencedirect.com/science/article/pii/S016028962... Comments URL: https://news.ycombinator.com/item?id=47664389 Points: 123 # Comments: 133",
-      "source": "Hacker News",
-      "published": "2026-04-06T17:52:46+00:00",
-      "link": "https://www.psypost.org/intelligent-people-are-better-judges-of-the-intelligence-of-others/"
     }
   ]
 };
