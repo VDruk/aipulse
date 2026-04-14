@@ -1,12 +1,54 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-04-13T21:40:56.034399+00:00",
+  "lastUpdated": "2026-04-14T04:08:45.228146+00:00",
   "items": [
+    {
+      "title": "OpenAI has bought AI personal finance startup Hiro",
+      "summary": "The acquisition indicates a capability that OpenAI is building into ChatGPT: financial planning.",
+      "source": "TechCrunch",
+      "published": "2026-04-14T00:23:33+00:00",
+      "link": "https://techcrunch.com/2026/04/13/openai-has-bought-ai-personal-finance-startup-hiro/"
+    },
+    {
+      "title": "Daniel Moreno-Gama is facing federal charges for attacking Sam Altman’s home and OpenAI’s HQ",
+      "summary": "Daniel Moreno-Gama is now facing federal charges after allegedly traveling from Texas to California with the intent to kill OpenAI CEO Sam Altman.",
+      "source": "The Verge",
+      "published": "2026-04-14T00:02:38+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/911423/openai-sam-altman-attack"
+    },
+    {
+      "title": "You Can Soon Buy a $4,370 Humanoid Robot on AliExpress",
+      "summary": "Unitree is bringing its R1 to international markets. It arrives with some aerobatic capabilities and an entry-level price, but the question of what you'd actually do with it remains open.",
+      "source": "Wired",
+      "published": "2026-04-13T23:37:38+00:00",
+      "link": "https://www.wired.com/story/unitree-r1-humanoid-robot-for-sale-on-aliexpress/"
+    },
+    {
+      "title": "The human cost of 10x: How AI is physically breaking senior engineers",
+      "summary": "Article URL: https://techtrenches.dev/p/the-human-cost-of-10x-how-ai-is-physically Comments URL: https://news.ycombinator.com/item?id=47758863 Points: 61 # Comments: 55",
+      "source": "Hacker News",
+      "published": "2026-04-13T22:40:26+00:00",
+      "link": "https://techtrenches.dev/p/the-human-cost-of-10x-how-ai-is-physically"
+    },
+    {
+      "title": "The tech jobs bust is real. Don't blame AI (yet)",
+      "summary": "Article URL: https://economist.com/finance-and-economics/2026/04/13/the-tech-jobs-bust-is-real-dont-blame-ai-yet Comments URL: https://news.ycombinator.com/item?id=47757775 Points: 106 # Comments: 152",
+      "source": "Hacker News",
+      "published": "2026-04-13T21:02:21+00:00",
+      "link": "https://economist.com/finance-and-economics/2026/04/13/the-tech-jobs-bust-is-real-dont-blame-ai-yet"
+    },
     {
       "title": "AI influencers are ‘everywhere’ at Coachella",
       "summary": "Coachella kicked off on Friday, and as usual, it's the place to be for online influencers looking to show off their memorable experiences at the festival.",
       "source": "The Verge",
       "published": "2026-04-13T19:53:46+00:00",
       "link": "https://www.theverge.com/ai-artificial-intelligence/911267/ai-influencers-coachella"
+    },
+    {
+      "title": "GAIA – Open-source framework for building AI agents that run on local hardware",
+      "summary": "Article URL: https://amd-gaia.ai/docs Comments URL: https://news.ycombinator.com/item?id=47756772 Points: 109 # Comments: 25",
+      "source": "Hacker News",
+      "published": "2026-04-13T19:28:41+00:00",
+      "link": "https://amd-gaia.ai/docs"
     },
     {
       "title": "OpenAI's leaked memo says new \"Spud\" model will make all its products \"significantly better\"",
@@ -80,7 +122,7 @@ const FEED_DATA = {
     },
     {
       "title": "Claude.ai down",
-      "summary": "Article URL: https://status.claude.com/incidents/6jd2m42f8mld Comments URL: https://news.ycombinator.com/item?id=47753643 Points: 125 # Comments: 121",
+      "summary": "Article URL: https://status.claude.com/incidents/6jd2m42f8mld Comments URL: https://news.ycombinator.com/item?id=47753643 Points: 127 # Comments: 122",
       "source": "Hacker News",
       "published": "2026-04-13T15:41:08+00:00",
       "link": "https://status.claude.com/incidents/6jd2m42f8mld"
@@ -122,7 +164,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI could be the end of the digital wave, not the next big thing",
-      "summary": "Article URL: https://thenextwavefutures.wordpress.com/2026/04/07/ai-end-digital-wave-technology-innovation-perez/ Comments URL: https://news.ycombinator.com/item?id=47751032 Points: 172 # Comments: 252",
+      "summary": "Article URL: https://thenextwavefutures.wordpress.com/2026/04/07/ai-end-digital-wave-technology-innovation-perez/ Comments URL: https://news.ycombinator.com/item?id=47751032 Points: 177 # Comments: 255",
       "source": "Hacker News",
       "published": "2026-04-13T12:29:39+00:00",
       "link": "https://thenextwavefutures.wordpress.com/2026/04/07/ai-end-digital-wave-technology-innovation-perez/"
@@ -206,21 +248,21 @@ const FEED_DATA = {
     },
     {
       "title": "The AI Layoff Trap",
-      "summary": "Article URL: https://arxiv.org/abs/2603.20617 Comments URL: https://news.ycombinator.com/item?id=47748123 Points: 58 # Comments: 96",
+      "summary": "Article URL: https://arxiv.org/abs/2603.20617 Comments URL: https://news.ycombinator.com/item?id=47748123 Points: 58 # Comments: 101",
       "source": "Hacker News",
       "published": "2026-04-13T05:56:49+00:00",
       "link": "https://arxiv.org/abs/2603.20617"
     },
     {
       "title": "Apple's accidental moat: How the \"AI Loser\" may end up winning",
-      "summary": "Article URL: https://adlrocha.substack.com/p/adlrocha-how-the-ai-loser-may-end Comments URL: https://news.ycombinator.com/item?id=47747017 Points: 388 # Comments: 343",
+      "summary": "Article URL: https://adlrocha.substack.com/p/adlrocha-how-the-ai-loser-may-end Comments URL: https://news.ycombinator.com/item?id=47747017 Points: 403 # Comments: 356",
       "source": "Hacker News",
       "published": "2026-04-13T02:53:10+00:00",
       "link": "https://adlrocha.substack.com/p/adlrocha-how-the-ai-loser-may-end"
     },
     {
       "title": "Tech valuations are back to pre-AI boom levels",
-      "summary": "Article URL: https://www.apollo.com/wealth/the-daily-spark/tech-valuations-back-to-pre-ai-boom-levels Comments URL: https://news.ycombinator.com/item?id=47745120 Points: 145 # Comments: 40",
+      "summary": "Article URL: https://www.apollo.com/wealth/the-daily-spark/tech-valuations-back-to-pre-ai-boom-levels Comments URL: https://news.ycombinator.com/item?id=47745120 Points: 147 # Comments: 40",
       "source": "Hacker News",
       "published": "2026-04-12T22:13:22+00:00",
       "link": "https://www.apollo.com/wealth/the-daily-spark/tech-valuations-back-to-pre-ai-boom-levels"
@@ -234,14 +276,14 @@ const FEED_DATA = {
     },
     {
       "title": "European AI. A playbook to own it",
-      "summary": "Article URL: https://europe.mistral.ai/ Comments URL: https://news.ycombinator.com/item?id=47743700 Points: 198 # Comments: 129",
+      "summary": "Article URL: https://europe.mistral.ai/ Comments URL: https://news.ycombinator.com/item?id=47743700 Points: 198 # Comments: 131",
       "source": "Hacker News",
       "published": "2026-04-12T19:51:06+00:00",
       "link": "https://europe.mistral.ai/"
     },
     {
       "title": "Bouncer: Block \"crypto\", \"rage politics\", and more from your X feed using AI",
-      "summary": "Article URL: https://github.com/imbue-ai/bouncer Comments URL: https://news.ycombinator.com/item?id=47741531 Points: 53 # Comments: 103",
+      "summary": "Article URL: https://github.com/imbue-ai/bouncer Comments URL: https://news.ycombinator.com/item?id=47741531 Points: 53 # Comments: 112",
       "source": "Hacker News",
       "published": "2026-04-12T16:24:46+00:00",
       "link": "https://github.com/imbue-ai/bouncer"
@@ -276,7 +318,7 @@ const FEED_DATA = {
     },
     {
       "title": "Why AI Sucks at Front End",
-      "summary": "Article URL: https://nerdy.dev/why-ai-sucks-at-front-end Comments URL: https://news.ycombinator.com/item?id=47738864 Points: 107 # Comments: 156",
+      "summary": "Article URL: https://nerdy.dev/why-ai-sucks-at-front-end Comments URL: https://news.ycombinator.com/item?id=47738864 Points: 113 # Comments: 158",
       "source": "Hacker News",
       "published": "2026-04-12T12:26:09+00:00",
       "link": "https://nerdy.dev/why-ai-sucks-at-front-end"
@@ -311,7 +353,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI Will Be Met with Violence, and Nothing Good Will Come of It",
-      "summary": "Article URL: https://www.thealgorithmicbridge.com/p/ai-will-be-met-with-violence-and Comments URL: https://news.ycombinator.com/item?id=47737563 Points: 344 # Comments: 621",
+      "summary": "Article URL: https://www.thealgorithmicbridge.com/p/ai-will-be-met-with-violence-and Comments URL: https://news.ycombinator.com/item?id=47737563 Points: 345 # Comments: 626",
       "source": "Hacker News",
       "published": "2026-04-12T09:16:35+00:00",
       "link": "https://www.thealgorithmicbridge.com/p/ai-will-be-met-with-violence-and"
@@ -346,7 +388,7 @@ const FEED_DATA = {
     },
     {
       "title": "Exploiting the most prominent AI agent benchmarks",
-      "summary": "Article URL: https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/ Comments URL: https://news.ycombinator.com/item?id=47733217 Points: 571 # Comments: 137",
+      "summary": "Article URL: https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/ Comments URL: https://news.ycombinator.com/item?id=47733217 Points: 576 # Comments: 137",
       "source": "Hacker News",
       "published": "2026-04-11T19:15:56+00:00",
       "link": "https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/"
@@ -458,7 +500,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI assistance when contributing to the Linux kernel",
-      "summary": "Article URL: https://github.com/torvalds/linux/blob/master/Documentation/process/coding-assistants.rst Comments URL: https://news.ycombinator.com/item?id=47721953 Points: 515 # Comments: 418",
+      "summary": "Article URL: https://github.com/torvalds/linux/blob/master/Documentation/process/coding-assistants.rst Comments URL: https://news.ycombinator.com/item?id=47721953 Points: 515 # Comments: 419",
       "source": "Hacker News",
       "published": "2026-04-10T18:35:21+00:00",
       "link": "https://github.com/torvalds/linux/blob/master/Documentation/process/coding-assistants.rst"
@@ -514,7 +556,7 @@ const FEED_DATA = {
     },
     {
       "title": "Why do we tell ourselves scary stories about AI?",
-      "summary": "Article URL: https://www.quantamagazine.org/why-do-we-tell-ourselves-scary-stories-about-ai-20260410/ Comments URL: https://news.ycombinator.com/item?id=47718812 Points: 56 # Comments: 122",
+      "summary": "Article URL: https://www.quantamagazine.org/why-do-we-tell-ourselves-scary-stories-about-ai-20260410/ Comments URL: https://news.ycombinator.com/item?id=47718812 Points: 57 # Comments: 126",
       "source": "Hacker News",
       "published": "2026-04-10T14:35:35+00:00",
       "link": "https://www.quantamagazine.org/why-do-we-tell-ourselves-scary-stories-about-ai-20260410/"
@@ -1358,48 +1400,6 @@ const FEED_DATA = {
       "source": "Hacker News",
       "published": "2026-04-07T09:53:34+00:00",
       "link": "https://github.com/milla-jovovich/mempalace"
-    },
-    {
-      "title": "Anthropic signs multi-gigawatt TPU deal with Google and Broadcom",
-      "summary": "Anthropic has signed a deal with Google and Broadcom for multiple gigawatts of TPU computing capacity, set to come online starting in 2027. The article Anthropic signs multi-gigawatt TPU deal with Google and Broadcom appeared first on The Decoder.",
-      "source": "The Decoder",
-      "published": "2026-04-07T09:37:58+00:00",
-      "link": "https://the-decoder.com/anthropic-signs-multi-gigawatt-tpu-deal-with-google-and-broadcom/"
-    },
-    {
-      "title": "AI startup Rocket offers vibe McKinsey-style reports at a fraction of the cost",
-      "summary": "Rocket's new AI platform combines strategy, product building, and competitive intelligence, aiming to move beyond code generation.",
-      "source": "TechCrunch",
-      "published": "2026-04-07T05:30:00+00:00",
-      "link": "https://techcrunch.com/2026/04/06/indian-startup-rocket-wants-its-ai-to-do-mckinsey-style-consulting-at-a-fraction-of-the-cost/"
-    },
-    {
-      "title": "The back story behind the first \"$1.8B\" dollar \"AI Company\"",
-      "summary": "Article URL: https://garymarcus.substack.com/p/the-back-story-behind-the-first-18 Comments URL: https://news.ycombinator.com/item?id=47668658 Points: 69 # Comments: 9",
-      "source": "Hacker News",
-      "published": "2026-04-06T23:16:27+00:00",
-      "link": "https://garymarcus.substack.com/p/the-back-story-behind-the-first-18"
-    },
-    {
-      "title": "Bernie Sanders: \"AI Is a Threat to Everything the American People Hold Dear\"",
-      "summary": "Article URL: https://www.wsj.com/opinion/ai-is-a-threat-to-everything-the-american-people-hold-dear-a3286459 Comments URL: https://news.ycombinator.com/item?id=47667798 Points: 77 # Comments: 69",
-      "source": "Hacker News",
-      "published": "2026-04-06T21:57:54+00:00",
-      "link": "https://www.wsj.com/opinion/ai-is-a-threat-to-everything-the-american-people-hold-dear-a3286459"
-    },
-    {
-      "title": "OpenAI alums have been quietly investing from a new, potentially $100M fund",
-      "summary": "Zero Shot, a new venture capital fund with deep ties to OpenAI, is aiming to raise $100 million for its first fund. It has already written some checks.",
-      "source": "TechCrunch",
-      "published": "2026-04-06T21:54:26+00:00",
-      "link": "https://techcrunch.com/2026/04/06/openai-alums-have-been-quietly-investing-from-a-new-potentially-100m-fund/"
-    },
-    {
-      "title": "Show HN: Hippo, biologically inspired memory for AI agents",
-      "summary": "Article URL: https://github.com/kitfunso/hippo-memory Comments URL: https://news.ycombinator.com/item?id=47667672 Points: 128 # Comments: 29",
-      "source": "Hacker News",
-      "published": "2026-04-06T21:49:34+00:00",
-      "link": "https://github.com/kitfunso/hippo-memory"
     }
   ]
 };
