@@ -1,6 +1,27 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-04-14T06:53:32.041674+00:00",
+  "lastUpdated": "2026-04-14T10:04:27.251614+00:00",
   "items": [
+    {
+      "title": "Stanford's AI Index 2026 shows rapid progress, growing safety concerns, and declining public trust",
+      "summary": "The AI Index Report 2026 from Stanford HAI documents major performance leaps in AI models, a narrowing gap between the US and China, and mounting safety problems, all while public trust continues to erode.",
+      "source": "The Decoder",
+      "published": "2026-04-14T09:16:27+00:00",
+      "link": "https://the-decoder.com/stanfords-ai-index-2026-shows-rapid-progress-growing-safety-concerns-and-declining-public-trust/"
+    },
+    {
+      "title": "An AI Vibe Coding Horror Story",
+      "summary": "Article URL: https://www.tobru.ch/an-ai-vibe-coding-horror-story/ Comments URL: https://news.ycombinator.com/item?id=47762901 Points: 104 # Comments: 79",
+      "source": "Hacker News",
+      "published": "2026-04-14T08:35:45+00:00",
+      "link": "https://www.tobru.ch/an-ai-vibe-coding-horror-story/"
+    },
+    {
+      "title": "OpenAI acquires AI finance startup Hiro, which built a \"personal AI CFO\"",
+      "summary": "OpenAI acquires the team behind AI finance startup Hiro. The service is shutting down, and all user data will be deleted.",
+      "source": "The Decoder",
+      "published": "2026-04-14T08:20:12+00:00",
+      "link": "https://the-decoder.com/openai-acquires-ai-finance-startup-hiro-which-built-a-personal-ai-cfo/"
+    },
     {
       "title": "OpenAI has bought AI personal finance startup Hiro",
       "summary": "The acquisition indicates a capability that OpenAI is building into ChatGPT: financial planning.",
@@ -24,21 +45,21 @@ const FEED_DATA = {
     },
     {
       "title": "The AI revolution in math has arrived",
-      "summary": "Article URL: https://www.quantamagazine.org/the-ai-revolution-in-math-has-arrived-20260413/ Comments URL: https://news.ycombinator.com/item?id=47759292 Points: 77 # Comments: 45",
+      "summary": "Article URL: https://www.quantamagazine.org/the-ai-revolution-in-math-has-arrived-20260413/ Comments URL: https://news.ycombinator.com/item?id=47759292 Points: 84 # Comments: 48",
       "source": "Hacker News",
       "published": "2026-04-13T23:26:04+00:00",
       "link": "https://www.quantamagazine.org/the-ai-revolution-in-math-has-arrived-20260413/"
     },
     {
       "title": "The human cost of 10x: How AI is physically breaking senior engineers",
-      "summary": "Article URL: https://techtrenches.dev/p/the-human-cost-of-10x-how-ai-is-physically Comments URL: https://news.ycombinator.com/item?id=47758863 Points: 66 # Comments: 60",
+      "summary": "Article URL: https://techtrenches.dev/p/the-human-cost-of-10x-how-ai-is-physically Comments URL: https://news.ycombinator.com/item?id=47758863 Points: 67 # Comments: 63",
       "source": "Hacker News",
       "published": "2026-04-13T22:40:26+00:00",
       "link": "https://techtrenches.dev/p/the-human-cost-of-10x-how-ai-is-physically"
     },
     {
       "title": "The tech jobs bust is real. Don't blame AI (yet)",
-      "summary": "Article URL: https://economist.com/finance-and-economics/2026/04/13/the-tech-jobs-bust-is-real-dont-blame-ai-yet Comments URL: https://news.ycombinator.com/item?id=47757775 Points: 108 # Comments: 157",
+      "summary": "Article URL: https://economist.com/finance-and-economics/2026/04/13/the-tech-jobs-bust-is-real-dont-blame-ai-yet Comments URL: https://news.ycombinator.com/item?id=47757775 Points: 112 # Comments: 160",
       "source": "Hacker News",
       "published": "2026-04-13T21:02:21+00:00",
       "link": "https://economist.com/finance-and-economics/2026/04/13/the-tech-jobs-bust-is-real-dont-blame-ai-yet"
@@ -52,7 +73,7 @@ const FEED_DATA = {
     },
     {
       "title": "GAIA – Open-source framework for building AI agents that run on local hardware",
-      "summary": "Article URL: https://amd-gaia.ai/docs Comments URL: https://news.ycombinator.com/item?id=47756772 Points: 124 # Comments: 30",
+      "summary": "Article URL: https://amd-gaia.ai/docs Comments URL: https://news.ycombinator.com/item?id=47756772 Points: 131 # Comments: 30",
       "source": "Hacker News",
       "published": "2026-04-13T19:28:41+00:00",
       "link": "https://amd-gaia.ai/docs"
@@ -129,7 +150,7 @@ const FEED_DATA = {
     },
     {
       "title": "Claude.ai down",
-      "summary": "Article URL: https://status.claude.com/incidents/6jd2m42f8mld Comments URL: https://news.ycombinator.com/item?id=47753643 Points: 128 # Comments: 123",
+      "summary": "Article URL: https://status.claude.com/incidents/6jd2m42f8mld Comments URL: https://news.ycombinator.com/item?id=47753643 Points: 129 # Comments: 124",
       "source": "Hacker News",
       "published": "2026-04-13T15:41:08+00:00",
       "link": "https://status.claude.com/incidents/6jd2m42f8mld"
@@ -171,7 +192,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI could be the end of the digital wave, not the next big thing",
-      "summary": "Article URL: https://thenextwavefutures.wordpress.com/2026/04/07/ai-end-digital-wave-technology-innovation-perez/ Comments URL: https://news.ycombinator.com/item?id=47751032 Points: 178 # Comments: 257",
+      "summary": "Article URL: https://thenextwavefutures.wordpress.com/2026/04/07/ai-end-digital-wave-technology-innovation-perez/ Comments URL: https://news.ycombinator.com/item?id=47751032 Points: 179 # Comments: 258",
       "source": "Hacker News",
       "published": "2026-04-13T12:29:39+00:00",
       "link": "https://thenextwavefutures.wordpress.com/2026/04/07/ai-end-digital-wave-technology-innovation-perez/"
@@ -255,14 +276,14 @@ const FEED_DATA = {
     },
     {
       "title": "The AI Layoff Trap",
-      "summary": "Article URL: https://arxiv.org/abs/2603.20617 Comments URL: https://news.ycombinator.com/item?id=47748123 Points: 59 # Comments: 103",
+      "summary": "Article URL: https://arxiv.org/abs/2603.20617 Comments URL: https://news.ycombinator.com/item?id=47748123 Points: 60 # Comments: 103",
       "source": "Hacker News",
       "published": "2026-04-13T05:56:49+00:00",
       "link": "https://arxiv.org/abs/2603.20617"
     },
     {
       "title": "Apple's accidental moat: How the \"AI Loser\" may end up winning",
-      "summary": "Article URL: https://adlrocha.substack.com/p/adlrocha-how-the-ai-loser-may-end Comments URL: https://news.ycombinator.com/item?id=47747017 Points: 408 # Comments: 359",
+      "summary": "Article URL: https://adlrocha.substack.com/p/adlrocha-how-the-ai-loser-may-end Comments URL: https://news.ycombinator.com/item?id=47747017 Points: 410 # Comments: 362",
       "source": "Hacker News",
       "published": "2026-04-13T02:53:10+00:00",
       "link": "https://adlrocha.substack.com/p/adlrocha-how-the-ai-loser-may-end"
@@ -283,7 +304,7 @@ const FEED_DATA = {
     },
     {
       "title": "European AI. A playbook to own it",
-      "summary": "Article URL: https://europe.mistral.ai/ Comments URL: https://news.ycombinator.com/item?id=47743700 Points: 199 # Comments: 131",
+      "summary": "Article URL: https://europe.mistral.ai/ Comments URL: https://news.ycombinator.com/item?id=47743700 Points: 199 # Comments: 132",
       "source": "Hacker News",
       "published": "2026-04-12T19:51:06+00:00",
       "link": "https://europe.mistral.ai/"
@@ -325,7 +346,7 @@ const FEED_DATA = {
     },
     {
       "title": "Why AI Sucks at Front End",
-      "summary": "Article URL: https://nerdy.dev/why-ai-sucks-at-front-end Comments URL: https://news.ycombinator.com/item?id=47738864 Points: 114 # Comments: 159",
+      "summary": "Article URL: https://nerdy.dev/why-ai-sucks-at-front-end Comments URL: https://news.ycombinator.com/item?id=47738864 Points: 117 # Comments: 160",
       "source": "Hacker News",
       "published": "2026-04-12T12:26:09+00:00",
       "link": "https://nerdy.dev/why-ai-sucks-at-front-end"
@@ -360,7 +381,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI Will Be Met with Violence, and Nothing Good Will Come of It",
-      "summary": "Article URL: https://www.thealgorithmicbridge.com/p/ai-will-be-met-with-violence-and Comments URL: https://news.ycombinator.com/item?id=47737563 Points: 346 # Comments: 625",
+      "summary": "Article URL: https://www.thealgorithmicbridge.com/p/ai-will-be-met-with-violence-and Comments URL: https://news.ycombinator.com/item?id=47737563 Points: 346 # Comments: 626",
       "source": "Hacker News",
       "published": "2026-04-12T09:16:35+00:00",
       "link": "https://www.thealgorithmicbridge.com/p/ai-will-be-met-with-violence-and"
@@ -395,7 +416,7 @@ const FEED_DATA = {
     },
     {
       "title": "Exploiting the most prominent AI agent benchmarks",
-      "summary": "Article URL: https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/ Comments URL: https://news.ycombinator.com/item?id=47733217 Points: 576 # Comments: 139",
+      "summary": "Article URL: https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/ Comments URL: https://news.ycombinator.com/item?id=47733217 Points: 579 # Comments: 139",
       "source": "Hacker News",
       "published": "2026-04-11T19:15:56+00:00",
       "link": "https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/"
@@ -1379,27 +1400,6 @@ const FEED_DATA = {
       "source": "Hacker News",
       "published": "2026-04-07T11:29:02+00:00",
       "link": "https://dornsife.usc.edu/news/stories/ai-may-be-making-us-think-and-write-more-alike/"
-    },
-    {
-      "title": "Meta employees compete for token consumption on an internal AI leaderboard",
-      "summary": "At Meta, employees compete for titles like \"Token Legend,\" \"Model Connoisseur,\" and \"Cache Wizard\" on an internal leaderboard that ranks AI token consumption. But burning through more tokens doesn't automatically mean getting more done.",
-      "source": "The Decoder",
-      "published": "2026-04-07T10:53:09+00:00",
-      "link": "https://the-decoder.com/meta-employees-compete-for-token-consumption-on-an-internal-ai-leaderboard/"
-    },
-    {
-      "title": "Gemini is making it faster for distressed users to reach mental health resources",
-      "summary": "Google says it has updated Gemini to better direct users to get mental health resources during moments of crisis.",
-      "source": "The Verge",
-      "published": "2026-04-07T10:09:57+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/907842/google-gemini-mental-health-interface-update"
-    },
-    {
-      "title": "Anthropic’s refusal to arm AI is exactly why the UK wants it",
-      "summary": "The Anthropic UK expansion story is less about diplomatic courtship and more about what happens when a government punishes a company for having principles.",
-      "source": "AI News",
-      "published": "2026-04-07T10:00:00+00:00",
-      "link": "https://www.artificialintelligence-news.com/news/anthropic-uk-expansion-london-pentagon/"
     }
   ]
 };
