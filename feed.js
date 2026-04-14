@@ -1,6 +1,34 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-04-14T17:59:40.702517+00:00",
+  "lastUpdated": "2026-04-14T21:43:00.778466+00:00",
   "items": [
+    {
+      "title": "Greg Brockman predicts AI will let small teams match the output of large ones if they can afford the compute",
+      "summary": "In the future, working with AI won't mean adapting to the computer—the computer will adapt to you, says OpenAI President Greg Brockman. \"This is disruptive.",
+      "source": "The Decoder",
+      "published": "2026-04-14T19:00:39+00:00",
+      "link": "https://the-decoder.com/greg-brockman-predicts-ai-will-let-small-teams-match-the-output-of-large-ones-if-they-can-afford-the-compute/"
+    },
+    {
+      "title": "Anthropic co-founder confirms the company briefed the Trump administration on Mythos",
+      "summary": "In an interview at the Semafor World Economy summit this week, Anthropic co-founder Jack Clark explained why the company was still engaged with the U.S. government while simultaneously suing them.",
+      "source": "TechCrunch",
+      "published": "2026-04-14T18:09:12+00:00",
+      "link": "https://techcrunch.com/2026/04/14/anthropic-co-founder-confirms-the-company-briefed-the-trump-administration-on-mythos/"
+    },
+    {
+      "title": "The attacks on Sam Altman are a warning for the AI world",
+      "summary": "Before allegedly throwing a Molotov cocktail at OpenAI CEO Sam Altman's home, the 20-year-old accused attacker wrote about his fear that the AI race would cause humans to go extinct, the San Francisco Chronicle found.",
+      "source": "The Verge",
+      "published": "2026-04-14T18:04:42+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/911778/ai-violence-sam-altman-home"
+    },
+    {
+      "title": "Google Chrome's new \"Skills\" feature lets you save AI prompts and reuse them with a single click",
+      "summary": "With \"Skills,\" Google is adding a new feature to Chrome that turns frequently used AI prompts into reusable one-click tools. Instead of typing the same prompt over and over, users save it once and apply it to any website.",
+      "source": "The Decoder",
+      "published": "2026-04-14T18:01:34+00:00",
+      "link": "https://the-decoder.com/google-chromes-new-skills-feature-lets-you-save-ai-prompts-and-reuse-them-with-a-single-click/"
+    },
     {
       "title": "Claude Mythos can autonomously compromise weakly defended enterprise networks end-to-end",
       "summary": "The UK's AI Safety Institute tested Anthropic's Claude Mythos Preview for cyber capabilities. For the first time, an AI model autonomously completed a full attack simulation against a corporate network, but the results come with significant caveats.",
@@ -14,6 +42,13 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-04-14T17:13:03+00:00",
       "link": "https://techcrunch.com/2026/04/14/max-hodaks-science-corp-is-preparing-to-place-its-first-sensor-in-a-human-brain/"
+    },
+    {
+      "title": "Turn your best AI prompts into one-click tools in Chrome",
+      "summary": "Article URL: https://blog.google/products-and-platforms/products/chrome/skills-in-chrome/ Comments URL: https://news.ycombinator.com/item?id=47768339 Points: 58 # Comments: 29",
+      "source": "Hacker News",
+      "published": "2026-04-14T17:09:43+00:00",
+      "link": "https://blog.google/products-and-platforms/products/chrome/skills-in-chrome/"
     },
     {
       "title": "Claude Code routines let AI fix bugs and review code on autopilot",
@@ -59,7 +94,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI will never be ethical or safe",
-      "summary": "Article URL: https://meiert.com/blog/ai-ethics-and-safety/ Comments URL: https://news.ycombinator.com/item?id=47766960 Points: 54 # Comments: 30",
+      "summary": "Article URL: https://meiert.com/blog/ai-ethics-and-safety/ Comments URL: https://news.ycombinator.com/item?id=47766960 Points: 57 # Comments: 30",
       "source": "Hacker News",
       "published": "2026-04-14T15:30:48+00:00",
       "link": "https://meiert.com/blog/ai-ethics-and-safety/"
@@ -80,7 +115,7 @@ const FEED_DATA = {
     },
     {
       "title": "Schools Never Taught Critical Thinking: AI Exposed the Lie",
-      "summary": "Article URL: https://smarterarticles.co.uk/ai-exposed-the-lie-schools-never-taught-critical-thinking Comments URL: https://news.ycombinator.com/item?id=47766144 Points: 54 # Comments: 81",
+      "summary": "Article URL: https://smarterarticles.co.uk/ai-exposed-the-lie-schools-never-taught-critical-thinking Comments URL: https://news.ycombinator.com/item?id=47766144 Points: 60 # Comments: 86",
       "source": "Hacker News",
       "published": "2026-04-14T14:29:55+00:00",
       "link": "https://smarterarticles.co.uk/ai-exposed-the-lie-schools-never-taught-critical-thinking"
@@ -115,10 +150,17 @@ const FEED_DATA = {
     },
     {
       "title": "Two Months After I Gave an AI $100 and No Instructions",
-      "summary": "Article URL: https://www.sebastian-jais.de/blog/two-months-alma-experiment Comments URL: https://news.ycombinator.com/item?id=47765458 Points: 81 # Comments: 97",
+      "summary": "Article URL: https://www.sebastian-jais.de/blog/two-months-alma-experiment Comments URL: https://news.ycombinator.com/item?id=47765458 Points: 86 # Comments: 104",
       "source": "Hacker News",
       "published": "2026-04-14T13:34:24+00:00",
       "link": "https://www.sebastian-jais.de/blog/two-months-alma-experiment"
+    },
+    {
+      "title": "Show HN: Kontext CLI – Credential broker for AI coding agents in Go",
+      "summary": "We built the Kontext CLI because AI coding agents need access to GitHub, Stripe, databases, and dozens of other services — and right now most teams handle this by copy-pasting long-lived API keys into .env files, or the actual chat interface, whilst hoping for the best.The...",
+      "source": "Hacker News",
+      "published": "2026-04-14T13:26:53+00:00",
+      "link": "https://github.com/kontext-dev/kontext-cli"
     },
     {
       "title": "SAP brings agentic AI to human capital management",
@@ -178,7 +220,7 @@ const FEED_DATA = {
     },
     {
       "title": "An AI Vibe Coding Horror Story",
-      "summary": "Article URL: https://www.tobru.ch/an-ai-vibe-coding-horror-story/ Comments URL: https://news.ycombinator.com/item?id=47762901 Points: 196 # Comments: 194",
+      "summary": "Article URL: https://www.tobru.ch/an-ai-vibe-coding-horror-story/ Comments URL: https://news.ycombinator.com/item?id=47762901 Points: 197 # Comments: 196",
       "source": "Hacker News",
       "published": "2026-04-14T08:35:45+00:00",
       "link": "https://www.tobru.ch/an-ai-vibe-coding-horror-story/"
@@ -213,7 +255,7 @@ const FEED_DATA = {
     },
     {
       "title": "The AI revolution in math has arrived",
-      "summary": "Article URL: https://www.quantamagazine.org/the-ai-revolution-in-math-has-arrived-20260413/ Comments URL: https://news.ycombinator.com/item?id=47759292 Points: 100 # Comments: 50",
+      "summary": "Article URL: https://www.quantamagazine.org/the-ai-revolution-in-math-has-arrived-20260413/ Comments URL: https://news.ycombinator.com/item?id=47759292 Points: 105 # Comments: 52",
       "source": "Hacker News",
       "published": "2026-04-13T23:26:04+00:00",
       "link": "https://www.quantamagazine.org/the-ai-revolution-in-math-has-arrived-20260413/"
@@ -227,7 +269,7 @@ const FEED_DATA = {
     },
     {
       "title": "The tech jobs bust is real. Don't blame AI (yet)",
-      "summary": "Article URL: https://economist.com/finance-and-economics/2026/04/13/the-tech-jobs-bust-is-real-dont-blame-ai-yet Comments URL: https://news.ycombinator.com/item?id=47757775 Points: 114 # Comments: 186",
+      "summary": "Article URL: https://economist.com/finance-and-economics/2026/04/13/the-tech-jobs-bust-is-real-dont-blame-ai-yet Comments URL: https://news.ycombinator.com/item?id=47757775 Points: 115 # Comments: 189",
       "source": "Hacker News",
       "published": "2026-04-13T21:02:21+00:00",
       "link": "https://economist.com/finance-and-economics/2026/04/13/the-tech-jobs-bust-is-real-dont-blame-ai-yet"
@@ -241,7 +283,7 @@ const FEED_DATA = {
     },
     {
       "title": "GAIA – Open-source framework for building AI agents that run on local hardware",
-      "summary": "Article URL: https://amd-gaia.ai/docs Comments URL: https://news.ycombinator.com/item?id=47756772 Points: 140 # Comments: 33",
+      "summary": "Article URL: https://amd-gaia.ai/docs Comments URL: https://news.ycombinator.com/item?id=47756772 Points: 141 # Comments: 33",
       "source": "Hacker News",
       "published": "2026-04-13T19:28:41+00:00",
       "link": "https://amd-gaia.ai/docs"
@@ -360,7 +402,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI could be the end of the digital wave, not the next big thing",
-      "summary": "Article URL: https://thenextwavefutures.wordpress.com/2026/04/07/ai-end-digital-wave-technology-innovation-perez/ Comments URL: https://news.ycombinator.com/item?id=47751032 Points: 181 # Comments: 264",
+      "summary": "Article URL: https://thenextwavefutures.wordpress.com/2026/04/07/ai-end-digital-wave-technology-innovation-perez/ Comments URL: https://news.ycombinator.com/item?id=47751032 Points: 181 # Comments: 265",
       "source": "Hacker News",
       "published": "2026-04-13T12:29:39+00:00",
       "link": "https://thenextwavefutures.wordpress.com/2026/04/07/ai-end-digital-wave-technology-innovation-perez/"
@@ -444,21 +486,21 @@ const FEED_DATA = {
     },
     {
       "title": "The AI Layoff Trap",
-      "summary": "Article URL: https://arxiv.org/abs/2603.20617 Comments URL: https://news.ycombinator.com/item?id=47748123 Points: 60 # Comments: 103",
+      "summary": "Article URL: https://arxiv.org/abs/2603.20617 Comments URL: https://news.ycombinator.com/item?id=47748123 Points: 61 # Comments: 103",
       "source": "Hacker News",
       "published": "2026-04-13T05:56:49+00:00",
       "link": "https://arxiv.org/abs/2603.20617"
     },
     {
       "title": "Apple's accidental moat: How the \"AI Loser\" may end up winning",
-      "summary": "Article URL: https://adlrocha.substack.com/p/adlrocha-how-the-ai-loser-may-end Comments URL: https://news.ycombinator.com/item?id=47747017 Points: 422 # Comments: 374",
+      "summary": "Article URL: https://adlrocha.substack.com/p/adlrocha-how-the-ai-loser-may-end Comments URL: https://news.ycombinator.com/item?id=47747017 Points: 426 # Comments: 376",
       "source": "Hacker News",
       "published": "2026-04-13T02:53:10+00:00",
       "link": "https://adlrocha.substack.com/p/adlrocha-how-the-ai-loser-may-end"
     },
     {
       "title": "Tech valuations are back to pre-AI boom levels",
-      "summary": "Article URL: https://www.apollo.com/wealth/the-daily-spark/tech-valuations-back-to-pre-ai-boom-levels Comments URL: https://news.ycombinator.com/item?id=47745120 Points: 148 # Comments: 40",
+      "summary": "Article URL: https://www.apollo.com/wealth/the-daily-spark/tech-valuations-back-to-pre-ai-boom-levels Comments URL: https://news.ycombinator.com/item?id=47745120 Points: 149 # Comments: 40",
       "source": "Hacker News",
       "published": "2026-04-12T22:13:22+00:00",
       "link": "https://www.apollo.com/wealth/the-daily-spark/tech-valuations-back-to-pre-ai-boom-levels"
@@ -472,7 +514,7 @@ const FEED_DATA = {
     },
     {
       "title": "European AI. A playbook to own it",
-      "summary": "Article URL: https://europe.mistral.ai/ Comments URL: https://news.ycombinator.com/item?id=47743700 Points: 199 # Comments: 132",
+      "summary": "Article URL: https://europe.mistral.ai/ Comments URL: https://news.ycombinator.com/item?id=47743700 Points: 200 # Comments: 133",
       "source": "Hacker News",
       "published": "2026-04-12T19:51:06+00:00",
       "link": "https://europe.mistral.ai/"
@@ -514,7 +556,7 @@ const FEED_DATA = {
     },
     {
       "title": "Why AI Sucks at Front End",
-      "summary": "Article URL: https://nerdy.dev/why-ai-sucks-at-front-end Comments URL: https://news.ycombinator.com/item?id=47738864 Points: 121 # Comments: 166",
+      "summary": "Article URL: https://nerdy.dev/why-ai-sucks-at-front-end Comments URL: https://news.ycombinator.com/item?id=47738864 Points: 121 # Comments: 167",
       "source": "Hacker News",
       "published": "2026-04-12T12:26:09+00:00",
       "link": "https://nerdy.dev/why-ai-sucks-at-front-end"
@@ -1358,48 +1400,6 @@ const FEED_DATA = {
       "source": "AI News",
       "published": "2026-04-08T10:23:53+00:00",
       "link": "https://www.artificialintelligence-news.com/news/microsoft-open-source-toolkit-secures-ai-agents-at-runtime/"
-    },
-    {
-      "title": "Google quietly launched an AI dictation app that works offline",
-      "summary": "Google's new offline-first dictation app uses Gemma AI models to take on the apps like Wispr Flow.",
-      "source": "TechCrunch",
-      "published": "2026-04-08T05:40:19+00:00",
-      "link": "https://techcrunch.com/2026/04/07/google-quietly-releases-an-offline-first-ai-dictation-app-on-ios/"
-    },
-    {
-      "title": "LLM scraper bots are overloading acme.com's HTTPS server",
-      "summary": "Article URL: http://acme.com/updates/archive/229.html Comments URL: https://news.ycombinator.com/item?id=47684506 Points: 69 # Comments: 62",
-      "source": "Hacker News",
-      "published": "2026-04-08T03:02:56+00:00",
-      "link": "http://acme.com/updates/archive/229.html"
-    },
-    {
-      "title": "OpenAI says its new model GPT-2 is too dangerous to release (2019)",
-      "summary": "Article URL: https://slate.com/technology/2019/02/openai-gpt2-text-generating-algorithm-ai-dangerous.html Comments URL: https://news.ycombinator.com/item?id=47684326 Points: 395 # Comments: 117",
-      "source": "Hacker News",
-      "published": "2026-04-08T02:41:12+00:00",
-      "link": "https://slate.com/technology/2019/02/openai-gpt2-text-generating-algorithm-ai-dangerous.html"
-    },
-    {
-      "title": "I can’t help rooting for tiny open source AI model maker Arcee",
-      "summary": "Arcee is a tiny 26-person U.S. startup that built a high-performing, massive, open source LLM.",
-      "source": "TechCrunch",
-      "published": "2026-04-07T21:35:02+00:00",
-      "link": "https://techcrunch.com/2026/04/07/i-cant-help-rooting-for-tiny-open-source-ai-model-maker-arcee/"
-    },
-    {
-      "title": "Spotify’s Prompted Playlists can help you find new podcasts to listen to",
-      "summary": "On Tuesday, Spotify expanded its Prompted Playlists feature to include podcasts, an update that could make it easier for Premium users to find new shows to listen to. Prompted Playlists were originally launched as a beta feature in December, but previously only worked for music.",
-      "source": "The Verge",
-      "published": "2026-04-07T20:13:23+00:00",
-      "link": "https://www.theverge.com/entertainment/908339/spotify-prompted-playlists-podcasts"
-    },
-    {
-      "title": "Google's AI Overviews are correct nine out of ten times, study finds",
-      "summary": "Google puts a disclaimer under every AI-generated search response: \"AI responses may include mistakes.\" But just how often those mistakes actually happen has remained largely unstudied.",
-      "source": "The Decoder",
-      "published": "2026-04-07T18:52:34+00:00",
-      "link": "https://the-decoder.com/googles-ai-overviews-are-correct-nine-out-of-ten-times-study-finds/"
     }
   ]
 };
