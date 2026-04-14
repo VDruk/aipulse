@@ -1,12 +1,96 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-04-14T14:52:20.178224+00:00",
+  "lastUpdated": "2026-04-14T17:59:40.702517+00:00",
   "items": [
     {
+      "title": "Claude Mythos can autonomously compromise weakly defended enterprise networks end-to-end",
+      "summary": "The UK's AI Safety Institute tested Anthropic's Claude Mythos Preview for cyber capabilities. For the first time, an AI model autonomously completed a full attack simulation against a corporate network, but the results come with significant caveats.",
+      "source": "The Decoder",
+      "published": "2026-04-14T17:31:48+00:00",
+      "link": "https://the-decoder.com/claude-mythos-can-autonomously-compromise-weakly-defended-enterprise-networks-end-to-end/"
+    },
+    {
+      "title": "Max Hodak’s Science Corp. is preparing to place its first sensor in a human brain",
+      "summary": "The device could help address multiple neurological conditions if it proves successful. One early use could be delivering gentle electrical stimulation to damaged brain or spinal cord cells to encourage healing.",
+      "source": "TechCrunch",
+      "published": "2026-04-14T17:13:03+00:00",
+      "link": "https://techcrunch.com/2026/04/14/max-hodaks-science-corp-is-preparing-to-place-its-first-sensor-in-a-human-brain/"
+    },
+    {
+      "title": "Claude Code routines let AI fix bugs and review code on autopilot",
+      "summary": "Anthropic has introduced \"routines\" for Claude Code - automated processes that can independently fix bugs, review pull requests, or respond to events without needing a user's local machine.",
+      "source": "The Decoder",
+      "published": "2026-04-14T17:07:46+00:00",
+      "link": "https://the-decoder.com/claude-code-routines-let-ai-fix-bugs-and-review-code-on-autopilot/"
+    },
+    {
+      "title": "Google adds AI Skills to Chrome to help you save favorite workflows",
+      "summary": "Google is adding “Skills” to Chrome, letting users save and reuse AI prompts across websites. The feature builds on Gemini’s browser integration.",
+      "source": "TechCrunch",
+      "published": "2026-04-14T17:00:00+00:00",
+      "link": "https://techcrunch.com/2026/04/14/google-adds-ai-skills-to-chrome-to-help-you-save-favorite-workflows/"
+    },
+    {
+      "title": "Chrome now lets you turn AI prompts into repeatable ‘Skills’",
+      "summary": "Google is launching a new Chrome workflow feature that allows you to reuse your favorite Gemini commands across multiple webpages. Any AI prompts can now be saved as \"Skills\" in the Chrome desktop browser, letting you instantly run them across any tabs you select.",
+      "source": "The Verge",
+      "published": "2026-04-14T17:00:00+00:00",
+      "link": "https://www.theverge.com/tech/911658/google-chrome-gemini-ai-skills-availability-launch"
+    },
+    {
+      "title": "How to Use Google Chrome’s New AI-Powered ‘Skills’",
+      "summary": "The premade Skills available through the Gemini sidebar in Chrome include ways to maximize protein in recipes or summarize YouTube videos.",
+      "source": "Wired",
+      "published": "2026-04-14T17:00:00+00:00",
+      "link": "https://www.wired.com/story/how-to-use-google-chrome-ai-powered-skills/"
+    },
+    {
+      "title": "Ukraine captures a Russian position using only drones and ground robots",
+      "summary": "President Zelenskyy announces a historic first: a Russian position taken entirely by unmanned systems. A CSIS report details how AI is already changing Ukraine's battlefield and where the limits remain.",
+      "source": "The Decoder",
+      "published": "2026-04-14T15:37:43+00:00",
+      "link": "https://the-decoder.com/ukraine-captures-a-russian-position-using-only-drones-and-ground-robots/"
+    },
+    {
+      "title": "In just a couple weeks, StrictlyVC San Francisco brings leaders from TDK Ventures, Replit, and more together",
+      "summary": "The first StrictlyVC of the year will be coming to San Francisco before you know it. There are still a few tickets available to join us and our stacked speaker lineup April 30, so register today!",
+      "source": "TechCrunch",
+      "published": "2026-04-14T15:30:49+00:00",
+      "link": "https://techcrunch.com/2026/04/14/join-the-first-strictlyvc-of-2026-in-sf-with-leaders-from-tdk-ventures-and-replits-co-founder/"
+    },
+    {
+      "title": "AI will never be ethical or safe",
+      "summary": "Article URL: https://meiert.com/blog/ai-ethics-and-safety/ Comments URL: https://news.ycombinator.com/item?id=47766960 Points: 54 # Comments: 30",
+      "source": "Hacker News",
+      "published": "2026-04-14T15:30:48+00:00",
+      "link": "https://meiert.com/blog/ai-ethics-and-safety/"
+    },
+    {
+      "title": "Anthropic Opposes the Extreme AI Liability Bill That OpenAI Backed",
+      "summary": "Anthropic and OpenAI are clashing over a proposed Illinois law that would let AI labs largely off the hook for mass deaths and financial disasters.",
+      "source": "Wired",
+      "published": "2026-04-14T15:21:44+00:00",
+      "link": "https://www.wired.com/story/anthropic-opposes-the-extreme-ai-liability-bill-that-openai-backed/"
+    },
+    {
       "title": "Google brings its Gemini Personal Intelligence feature to India",
-      "summary": "The feature lets users connect Google accounts like Gmail and Photos to get personalized answers",
+      "summary": "The feature lets users connect Google accounts like Gmail and Photos to get personalized answers.",
       "source": "TechCrunch",
       "published": "2026-04-14T14:48:34+00:00",
       "link": "https://techcrunch.com/2026/04/14/google-brings-its-gemini-personal-intelligence-feature-to-india/"
+    },
+    {
+      "title": "Schools Never Taught Critical Thinking: AI Exposed the Lie",
+      "summary": "Article URL: https://smarterarticles.co.uk/ai-exposed-the-lie-schools-never-taught-critical-thinking Comments URL: https://news.ycombinator.com/item?id=47766144 Points: 54 # Comments: 81",
+      "source": "Hacker News",
+      "published": "2026-04-14T14:29:55+00:00",
+      "link": "https://smarterarticles.co.uk/ai-exposed-the-lie-schools-never-taught-critical-thinking"
+    },
+    {
+      "title": "How vibe-coding app Anything is rebuilding after getting booted from the App Store twice",
+      "summary": "Anything is planning to launch a desktop companion app to aid mobile app development after its App Store removal.",
+      "source": "TechCrunch",
+      "published": "2026-04-14T14:22:44+00:00",
+      "link": "https://techcrunch.com/2026/04/14/how-vibe-coding-app-anything-is-rebuilding-after-getting-booted-from-the-app-store-twice/"
     },
     {
       "title": "How vibe coding app Anything is rebuilding after getting booted from the App Store twice",
@@ -31,7 +115,7 @@ const FEED_DATA = {
     },
     {
       "title": "Two Months After I Gave an AI $100 and No Instructions",
-      "summary": "Article URL: https://www.sebastian-jais.de/blog/two-months-alma-experiment Comments URL: https://news.ycombinator.com/item?id=47765458 Points: 74 # Comments: 88",
+      "summary": "Article URL: https://www.sebastian-jais.de/blog/two-months-alma-experiment Comments URL: https://news.ycombinator.com/item?id=47765458 Points: 81 # Comments: 97",
       "source": "Hacker News",
       "published": "2026-04-14T13:34:24+00:00",
       "link": "https://www.sebastian-jais.de/blog/two-months-alma-experiment"
@@ -94,7 +178,7 @@ const FEED_DATA = {
     },
     {
       "title": "An AI Vibe Coding Horror Story",
-      "summary": "Article URL: https://www.tobru.ch/an-ai-vibe-coding-horror-story/ Comments URL: https://news.ycombinator.com/item?id=47762901 Points: 184 # Comments: 186",
+      "summary": "Article URL: https://www.tobru.ch/an-ai-vibe-coding-horror-story/ Comments URL: https://news.ycombinator.com/item?id=47762901 Points: 196 # Comments: 194",
       "source": "Hacker News",
       "published": "2026-04-14T08:35:45+00:00",
       "link": "https://www.tobru.ch/an-ai-vibe-coding-horror-story/"
@@ -129,21 +213,21 @@ const FEED_DATA = {
     },
     {
       "title": "The AI revolution in math has arrived",
-      "summary": "Article URL: https://www.quantamagazine.org/the-ai-revolution-in-math-has-arrived-20260413/ Comments URL: https://news.ycombinator.com/item?id=47759292 Points: 92 # Comments: 48",
+      "summary": "Article URL: https://www.quantamagazine.org/the-ai-revolution-in-math-has-arrived-20260413/ Comments URL: https://news.ycombinator.com/item?id=47759292 Points: 100 # Comments: 50",
       "source": "Hacker News",
       "published": "2026-04-13T23:26:04+00:00",
       "link": "https://www.quantamagazine.org/the-ai-revolution-in-math-has-arrived-20260413/"
     },
     {
       "title": "The human cost of 10x: How AI is physically breaking senior engineers",
-      "summary": "Article URL: https://techtrenches.dev/p/the-human-cost-of-10x-how-ai-is-physically Comments URL: https://news.ycombinator.com/item?id=47758863 Points: 71 # Comments: 66",
+      "summary": "Article URL: https://techtrenches.dev/p/the-human-cost-of-10x-how-ai-is-physically Comments URL: https://news.ycombinator.com/item?id=47758863 Points: 73 # Comments: 70",
       "source": "Hacker News",
       "published": "2026-04-13T22:40:26+00:00",
       "link": "https://techtrenches.dev/p/the-human-cost-of-10x-how-ai-is-physically"
     },
     {
       "title": "The tech jobs bust is real. Don't blame AI (yet)",
-      "summary": "Article URL: https://economist.com/finance-and-economics/2026/04/13/the-tech-jobs-bust-is-real-dont-blame-ai-yet Comments URL: https://news.ycombinator.com/item?id=47757775 Points: 114 # Comments: 175",
+      "summary": "Article URL: https://economist.com/finance-and-economics/2026/04/13/the-tech-jobs-bust-is-real-dont-blame-ai-yet Comments URL: https://news.ycombinator.com/item?id=47757775 Points: 114 # Comments: 186",
       "source": "Hacker News",
       "published": "2026-04-13T21:02:21+00:00",
       "link": "https://economist.com/finance-and-economics/2026/04/13/the-tech-jobs-bust-is-real-dont-blame-ai-yet"
@@ -157,7 +241,7 @@ const FEED_DATA = {
     },
     {
       "title": "GAIA – Open-source framework for building AI agents that run on local hardware",
-      "summary": "Article URL: https://amd-gaia.ai/docs Comments URL: https://news.ycombinator.com/item?id=47756772 Points: 134 # Comments: 32",
+      "summary": "Article URL: https://amd-gaia.ai/docs Comments URL: https://news.ycombinator.com/item?id=47756772 Points: 140 # Comments: 33",
       "source": "Hacker News",
       "published": "2026-04-13T19:28:41+00:00",
       "link": "https://amd-gaia.ai/docs"
@@ -234,7 +318,7 @@ const FEED_DATA = {
     },
     {
       "title": "Claude.ai down",
-      "summary": "Article URL: https://status.claude.com/incidents/6jd2m42f8mld Comments URL: https://news.ycombinator.com/item?id=47753643 Points: 131 # Comments: 124",
+      "summary": "Article URL: https://status.claude.com/incidents/6jd2m42f8mld Comments URL: https://news.ycombinator.com/item?id=47753643 Points: 132 # Comments: 124",
       "source": "Hacker News",
       "published": "2026-04-13T15:41:08+00:00",
       "link": "https://status.claude.com/incidents/6jd2m42f8mld"
@@ -276,7 +360,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI could be the end of the digital wave, not the next big thing",
-      "summary": "Article URL: https://thenextwavefutures.wordpress.com/2026/04/07/ai-end-digital-wave-technology-innovation-perez/ Comments URL: https://news.ycombinator.com/item?id=47751032 Points: 179 # Comments: 263",
+      "summary": "Article URL: https://thenextwavefutures.wordpress.com/2026/04/07/ai-end-digital-wave-technology-innovation-perez/ Comments URL: https://news.ycombinator.com/item?id=47751032 Points: 181 # Comments: 264",
       "source": "Hacker News",
       "published": "2026-04-13T12:29:39+00:00",
       "link": "https://thenextwavefutures.wordpress.com/2026/04/07/ai-end-digital-wave-technology-innovation-perez/"
@@ -367,7 +451,7 @@ const FEED_DATA = {
     },
     {
       "title": "Apple's accidental moat: How the \"AI Loser\" may end up winning",
-      "summary": "Article URL: https://adlrocha.substack.com/p/adlrocha-how-the-ai-loser-may-end Comments URL: https://news.ycombinator.com/item?id=47747017 Points: 415 # Comments: 370",
+      "summary": "Article URL: https://adlrocha.substack.com/p/adlrocha-how-the-ai-loser-may-end Comments URL: https://news.ycombinator.com/item?id=47747017 Points: 422 # Comments: 374",
       "source": "Hacker News",
       "published": "2026-04-13T02:53:10+00:00",
       "link": "https://adlrocha.substack.com/p/adlrocha-how-the-ai-loser-may-end"
@@ -395,7 +479,7 @@ const FEED_DATA = {
     },
     {
       "title": "Bouncer: Block \"crypto\", \"rage politics\", and more from your X feed using AI",
-      "summary": "Article URL: https://github.com/imbue-ai/bouncer Comments URL: https://news.ycombinator.com/item?id=47741531 Points: 53 # Comments: 112",
+      "summary": "Article URL: https://github.com/imbue-ai/bouncer Comments URL: https://news.ycombinator.com/item?id=47741531 Points: 53 # Comments: 113",
       "source": "Hacker News",
       "published": "2026-04-12T16:24:46+00:00",
       "link": "https://github.com/imbue-ai/bouncer"
@@ -430,7 +514,7 @@ const FEED_DATA = {
     },
     {
       "title": "Why AI Sucks at Front End",
-      "summary": "Article URL: https://nerdy.dev/why-ai-sucks-at-front-end Comments URL: https://news.ycombinator.com/item?id=47738864 Points: 120 # Comments: 162",
+      "summary": "Article URL: https://nerdy.dev/why-ai-sucks-at-front-end Comments URL: https://news.ycombinator.com/item?id=47738864 Points: 121 # Comments: 166",
       "source": "Hacker News",
       "published": "2026-04-12T12:26:09+00:00",
       "link": "https://nerdy.dev/why-ai-sucks-at-front-end"
@@ -465,7 +549,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI Will Be Met with Violence, and Nothing Good Will Come of It",
-      "summary": "Article URL: https://www.thealgorithmicbridge.com/p/ai-will-be-met-with-violence-and Comments URL: https://news.ycombinator.com/item?id=47737563 Points: 346 # Comments: 630",
+      "summary": "Article URL: https://www.thealgorithmicbridge.com/p/ai-will-be-met-with-violence-and Comments URL: https://news.ycombinator.com/item?id=47737563 Points: 346 # Comments: 625",
       "source": "Hacker News",
       "published": "2026-04-12T09:16:35+00:00",
       "link": "https://www.thealgorithmicbridge.com/p/ai-will-be-met-with-violence-and"
@@ -1316,90 +1400,6 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-04-07T18:52:34+00:00",
       "link": "https://the-decoder.com/googles-ai-overviews-are-correct-nine-out-of-ten-times-study-finds/"
-    },
-    {
-      "title": "Anthropic Teams Up With Its Rivals to Keep AI From Hacking Everything",
-      "summary": "The AI lab's Project Glasswing will bring together Apple, Google, and more than 45 other organizations. They'll use the new Claude Mythos Preview model to test advancing AI cybersecurity capabilities.",
-      "source": "Wired",
-      "published": "2026-04-07T18:49:50+00:00",
-      "link": "https://www.wired.com/story/anthropic-mythos-preview-project-glasswing/"
-    },
-    {
-      "title": "Firmus, the ‘Southgate’ AI data center builder backed by Nvidia, hits $5.5B valuation",
-      "summary": "Nvidia-backed Asia AI data center provider Firmus has now raised $1.35 billion in six months.",
-      "source": "TechCrunch",
-      "published": "2026-04-07T18:46:55+00:00",
-      "link": "https://techcrunch.com/2026/04/07/firmus-the-southgate-ai-datacenter-builder-backed-by-nvidia-hits-5-5b-valuation/"
-    },
-    {
-      "title": "Project Glasswing: Securing critical software for the AI era",
-      "summary": "Related: Assessing Claude Mythos Preview's cybersecurity capabilities - https://news.ycombinator.com/item?id=47679155System Card: Claude Mythos Preview [pdf] - https://news.ycombinator.com/item?id=47679258Also: Anthropic's Project Glasswing sounds necessary to me -...",
-      "source": "Hacker News",
-      "published": "2026-04-07T18:09:34+00:00",
-      "link": "https://www.anthropic.com/glasswing"
-    },
-    {
-      "title": "A new Anthropic model found security problems ‘in every major operating system and web browser’",
-      "summary": "Anthropic is debuting a new AI model as part of a cybersecurity partnership with Nvidia, Google, Amazon Web Services, Apple, Microsoft, and other companies.",
-      "source": "The Verge",
-      "published": "2026-04-07T18:00:00+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/908114/anthropic-project-glasswing-cybersecurity"
-    },
-    {
-      "title": "Anthropic debuts preview of powerful new AI model Mythos in new cybersecurity initiative",
-      "summary": "The new model will be used by a small number of high-profile companies to engage in defensive cybersecurity work.",
-      "source": "TechCrunch",
-      "published": "2026-04-07T18:00:00+00:00",
-      "link": "https://techcrunch.com/2026/04/07/anthropic-mythos-ai-model-preview-security/"
-    },
-    {
-      "title": "Uber is the latest to be won over by Amazon’s AI chips",
-      "summary": "Uber is expanding its AWS contract to run more of its ride-sharing features on Amazon's chips. This is a thumb-of-the nose at Oracle and Google.",
-      "source": "TechCrunch",
-      "published": "2026-04-07T16:46:59+00:00",
-      "link": "https://techcrunch.com/2026/04/07/uber-is-the-latest-to-be-won-over-by-amazons-ai-chips/"
-    },
-    {
-      "title": "Microsoft's Bing team open-sources \"Harrier\" embedding model",
-      "summary": "Microsoft's Bing team open-sources Harrier, an embedding model that tops the multilingual MTEB v2 benchmark and supports more than 100 languages. The article Microsoft's Bing team open-sources \"Harrier\" embedding model appeared first on The Decoder.",
-      "source": "The Decoder",
-      "published": "2026-04-07T16:38:23+00:00",
-      "link": "https://the-decoder.com/microsofts-bing-team-open-sources-harrier-embedding-model/"
-    },
-    {
-      "title": "Suno and major music labels reportedly clash over AI music sharing",
-      "summary": "The AI-powered musicmaker Suno is struggling to reach licensing deals with Universal Music Group and Sony Music Entertainment.",
-      "source": "The Verge",
-      "published": "2026-04-07T16:21:22+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/908119/suno-sony-universal-music-ai-disagreement"
-    },
-    {
-      "title": "Anthropic ups compute deal with Google and Broadcom amid skyrocketing demand",
-      "summary": "Anthropic bulked up its compute deal with Google and Broadcom as the company has seen its run-rate revenue surge to $30 billion.",
-      "source": "TechCrunch",
-      "published": "2026-04-07T16:05:56+00:00",
-      "link": "https://techcrunch.com/2026/04/07/anthropic-compute-deal-google-broadcom-tpus/"
-    },
-    {
-      "title": "Taste in the age of AI and LLMs",
-      "summary": "Article URL: https://rajnandan.com/posts/taste-in-the-age-of-ai-and-llms/ Comments URL: https://news.ycombinator.com/item?id=47677241 Points: 265 # Comments: 212",
-      "source": "Hacker News",
-      "published": "2026-04-07T15:54:16+00:00",
-      "link": "https://rajnandan.com/posts/taste-in-the-age-of-ai-and-llms/"
-    },
-    {
-      "title": "Intel will help build Elon Musk’s Terafab AI chip factory",
-      "summary": "Elon Musk's Terafab AI chip project in Austin, Texas, is gaining a crucial new partner: Intel.",
-      "source": "The Verge",
-      "published": "2026-04-07T15:43:17+00:00",
-      "link": "https://www.theverge.com/transportation/907976/elon-musk-terafab-intel-ai-chip-spacex-tesla"
-    },
-    {
-      "title": "Google Maps can now write captions for your photos using AI",
-      "summary": "Google is rolling out new features to make it easier for users to contribute local knowledge to Maps. Most notably, Gemini can now create captions when users are looking to share a photo or video about a place.",
-      "source": "TechCrunch",
-      "published": "2026-04-07T15:30:00+00:00",
-      "link": "https://techcrunch.com/2026/04/07/google-maps-can-now-write-captions-for-your-photos-using-ai/"
     }
   ]
 };
