@@ -1,6 +1,90 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-04-14T10:04:27.251614+00:00",
+  "lastUpdated": "2026-04-14T14:52:20.178224+00:00",
   "items": [
+    {
+      "title": "Google brings its Gemini Personal Intelligence feature to India",
+      "summary": "The feature lets users connect Google accounts like Gmail and Photos to get personalized answers",
+      "source": "TechCrunch",
+      "published": "2026-04-14T14:48:34+00:00",
+      "link": "https://techcrunch.com/2026/04/14/google-brings-its-gemini-personal-intelligence-feature-to-india/"
+    },
+    {
+      "title": "How vibe coding app Anything is rebuilding after getting booted from the App Store twice",
+      "summary": "Anything is planning to launch a desktop companion app to aid mobile app development after its App Store removal.",
+      "source": "TechCrunch",
+      "published": "2026-04-14T14:22:44+00:00",
+      "link": "https://techcrunch.com/2026/04/14/how-vibe-coding-app-anything-is-rebuilding-after-getting-booted-from-the-app-store-twice/"
+    },
+    {
+      "title": "Has Google’s AI watermarking system been reverse-engineered?",
+      "summary": "A software developer claims to have reverse-engineered Google DeepMind's SynthID system, showing how AI watermarks can be stripped from generated images or manually inserted into other works. A claim that, according to Google, isn't true.",
+      "source": "The Verge",
+      "published": "2026-04-14T13:53:53+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/911579/google-synthid-ai-watermarking-system-reverse-engineered"
+    },
+    {
+      "title": "Claude Mythos is a wake-up call for Europe's AI safety apparatus",
+      "summary": "Anthropic is restricting access to Claude Mythos, an AI model it says can find security vulnerabilities better than most humans. European authorities have almost no visibility into the system, while the UK is already running its own tests.",
+      "source": "The Decoder",
+      "published": "2026-04-14T13:53:49+00:00",
+      "link": "https://the-decoder.com/claude-mythos-is-a-wake-up-call-for-europes-ai-safety-apparatus/"
+    },
+    {
+      "title": "Two Months After I Gave an AI $100 and No Instructions",
+      "summary": "Article URL: https://www.sebastian-jais.de/blog/two-months-alma-experiment Comments URL: https://news.ycombinator.com/item?id=47765458 Points: 74 # Comments: 88",
+      "source": "Hacker News",
+      "published": "2026-04-14T13:34:24+00:00",
+      "link": "https://www.sebastian-jais.de/blog/two-months-alma-experiment"
+    },
+    {
+      "title": "SAP brings agentic AI to human capital management",
+      "summary": "According to SAP, integrating agentic AI into core human capital management (HCM) modules helps target operational bloat and reduce costs.",
+      "source": "AI News",
+      "published": "2026-04-14T12:55:09+00:00",
+      "link": "https://www.artificialintelligence-news.com/news/sap-brings-agentic-ai-human-capital-management/"
+    },
+    {
+      "title": "The Download: the state of AI, and protecting bears with drones",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Want to understand the current state of AI?",
+      "source": "MIT Tech Review",
+      "published": "2026-04-14T12:10:00+00:00",
+      "link": "https://www.technologyreview.com/2026/04/14/1135847/the-download-state-of-ai-drones-protecting-bears/"
+    },
+    {
+      "title": "NASA is building the first nuclear reactor-powered interplanetary spacecraft. How will it work?",
+      "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here.",
+      "source": "MIT Tech Review",
+      "published": "2026-04-14T12:04:47+00:00",
+      "link": "https://www.technologyreview.com/2026/04/14/1135848/nasa-nuclear-powered-spacecraft/"
+    },
+    {
+      "title": "Canada’s Scotiabank preps for its AI future",
+      "summary": "Scotiabank has launched an AI framework, Scotia Intelligence, for data and AI operations that joins various platforms, data oversight, and software tools into a single instance.",
+      "source": "AI News",
+      "published": "2026-04-14T11:20:00+00:00",
+      "link": "https://www.artificialintelligence-news.com/news/canadas-scotiabank-preps-for-its-ai-future/"
+    },
+    {
+      "title": "Coming soon: 10 Things That Matter in AI Right Now",
+      "summary": "Each year we compile our 10 Breakthrough Technologies list, featuring our educated predictions for which technologies will have the biggest impact on how we live and work. This year, however, we had a dilemma.",
+      "source": "MIT Tech Review",
+      "published": "2026-04-14T11:00:00+00:00",
+      "link": "https://www.technologyreview.com/2026/04/14/1135298/coming-soon-10-things-that-matter-in-ai-right-now/"
+    },
+    {
+      "title": "Silicon Valley Is Spending Millions to Stop One of Its Own",
+      "summary": "Alex Bores, a former Palantir employee, helped pass one of the country’s toughest AI laws. Now Silicon Valley’s biggest names are trying to stop his rise to Congress.",
+      "source": "Wired",
+      "published": "2026-04-14T10:30:00+00:00",
+      "link": "https://www.wired.com/story/the-big-interview-podcast-new-york-state-representative-alex-bores/"
+    },
+    {
+      "title": "Hyundai expands into robotics and physical AI systems",
+      "summary": "Hyundai Motor Group is starting to look like a company building machines that act in the real world. The change centres on physical AI: Where AI is placed into robots and systems that move and respond in physical spaces.",
+      "source": "AI News",
+      "published": "2026-04-14T10:00:00+00:00",
+      "link": "https://www.artificialintelligence-news.com/news/hyundai-expands-into-robotics-and-physical-ai-systems/"
+    },
     {
       "title": "Stanford's AI Index 2026 shows rapid progress, growing safety concerns, and declining public trust",
       "summary": "The AI Index Report 2026 from Stanford HAI documents major performance leaps in AI models, a narrowing gap between the US and China, and mounting safety problems, all while public trust continues to erode.",
@@ -10,7 +94,7 @@ const FEED_DATA = {
     },
     {
       "title": "An AI Vibe Coding Horror Story",
-      "summary": "Article URL: https://www.tobru.ch/an-ai-vibe-coding-horror-story/ Comments URL: https://news.ycombinator.com/item?id=47762901 Points: 104 # Comments: 79",
+      "summary": "Article URL: https://www.tobru.ch/an-ai-vibe-coding-horror-story/ Comments URL: https://news.ycombinator.com/item?id=47762901 Points: 184 # Comments: 186",
       "source": "Hacker News",
       "published": "2026-04-14T08:35:45+00:00",
       "link": "https://www.tobru.ch/an-ai-vibe-coding-horror-story/"
@@ -45,21 +129,21 @@ const FEED_DATA = {
     },
     {
       "title": "The AI revolution in math has arrived",
-      "summary": "Article URL: https://www.quantamagazine.org/the-ai-revolution-in-math-has-arrived-20260413/ Comments URL: https://news.ycombinator.com/item?id=47759292 Points: 84 # Comments: 48",
+      "summary": "Article URL: https://www.quantamagazine.org/the-ai-revolution-in-math-has-arrived-20260413/ Comments URL: https://news.ycombinator.com/item?id=47759292 Points: 92 # Comments: 48",
       "source": "Hacker News",
       "published": "2026-04-13T23:26:04+00:00",
       "link": "https://www.quantamagazine.org/the-ai-revolution-in-math-has-arrived-20260413/"
     },
     {
       "title": "The human cost of 10x: How AI is physically breaking senior engineers",
-      "summary": "Article URL: https://techtrenches.dev/p/the-human-cost-of-10x-how-ai-is-physically Comments URL: https://news.ycombinator.com/item?id=47758863 Points: 67 # Comments: 63",
+      "summary": "Article URL: https://techtrenches.dev/p/the-human-cost-of-10x-how-ai-is-physically Comments URL: https://news.ycombinator.com/item?id=47758863 Points: 71 # Comments: 66",
       "source": "Hacker News",
       "published": "2026-04-13T22:40:26+00:00",
       "link": "https://techtrenches.dev/p/the-human-cost-of-10x-how-ai-is-physically"
     },
     {
       "title": "The tech jobs bust is real. Don't blame AI (yet)",
-      "summary": "Article URL: https://economist.com/finance-and-economics/2026/04/13/the-tech-jobs-bust-is-real-dont-blame-ai-yet Comments URL: https://news.ycombinator.com/item?id=47757775 Points: 112 # Comments: 160",
+      "summary": "Article URL: https://economist.com/finance-and-economics/2026/04/13/the-tech-jobs-bust-is-real-dont-blame-ai-yet Comments URL: https://news.ycombinator.com/item?id=47757775 Points: 114 # Comments: 175",
       "source": "Hacker News",
       "published": "2026-04-13T21:02:21+00:00",
       "link": "https://economist.com/finance-and-economics/2026/04/13/the-tech-jobs-bust-is-real-dont-blame-ai-yet"
@@ -73,7 +157,7 @@ const FEED_DATA = {
     },
     {
       "title": "GAIA – Open-source framework for building AI agents that run on local hardware",
-      "summary": "Article URL: https://amd-gaia.ai/docs Comments URL: https://news.ycombinator.com/item?id=47756772 Points: 131 # Comments: 30",
+      "summary": "Article URL: https://amd-gaia.ai/docs Comments URL: https://news.ycombinator.com/item?id=47756772 Points: 134 # Comments: 32",
       "source": "Hacker News",
       "published": "2026-04-13T19:28:41+00:00",
       "link": "https://amd-gaia.ai/docs"
@@ -150,7 +234,7 @@ const FEED_DATA = {
     },
     {
       "title": "Claude.ai down",
-      "summary": "Article URL: https://status.claude.com/incidents/6jd2m42f8mld Comments URL: https://news.ycombinator.com/item?id=47753643 Points: 129 # Comments: 124",
+      "summary": "Article URL: https://status.claude.com/incidents/6jd2m42f8mld Comments URL: https://news.ycombinator.com/item?id=47753643 Points: 131 # Comments: 124",
       "source": "Hacker News",
       "published": "2026-04-13T15:41:08+00:00",
       "link": "https://status.claude.com/incidents/6jd2m42f8mld"
@@ -192,7 +276,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI could be the end of the digital wave, not the next big thing",
-      "summary": "Article URL: https://thenextwavefutures.wordpress.com/2026/04/07/ai-end-digital-wave-technology-innovation-perez/ Comments URL: https://news.ycombinator.com/item?id=47751032 Points: 179 # Comments: 258",
+      "summary": "Article URL: https://thenextwavefutures.wordpress.com/2026/04/07/ai-end-digital-wave-technology-innovation-perez/ Comments URL: https://news.ycombinator.com/item?id=47751032 Points: 179 # Comments: 263",
       "source": "Hacker News",
       "published": "2026-04-13T12:29:39+00:00",
       "link": "https://thenextwavefutures.wordpress.com/2026/04/07/ai-end-digital-wave-technology-innovation-perez/"
@@ -283,7 +367,7 @@ const FEED_DATA = {
     },
     {
       "title": "Apple's accidental moat: How the \"AI Loser\" may end up winning",
-      "summary": "Article URL: https://adlrocha.substack.com/p/adlrocha-how-the-ai-loser-may-end Comments URL: https://news.ycombinator.com/item?id=47747017 Points: 410 # Comments: 362",
+      "summary": "Article URL: https://adlrocha.substack.com/p/adlrocha-how-the-ai-loser-may-end Comments URL: https://news.ycombinator.com/item?id=47747017 Points: 415 # Comments: 370",
       "source": "Hacker News",
       "published": "2026-04-13T02:53:10+00:00",
       "link": "https://adlrocha.substack.com/p/adlrocha-how-the-ai-loser-may-end"
@@ -311,7 +395,7 @@ const FEED_DATA = {
     },
     {
       "title": "Bouncer: Block \"crypto\", \"rage politics\", and more from your X feed using AI",
-      "summary": "Article URL: https://github.com/imbue-ai/bouncer Comments URL: https://news.ycombinator.com/item?id=47741531 Points: 53 # Comments: 113",
+      "summary": "Article URL: https://github.com/imbue-ai/bouncer Comments URL: https://news.ycombinator.com/item?id=47741531 Points: 53 # Comments: 112",
       "source": "Hacker News",
       "published": "2026-04-12T16:24:46+00:00",
       "link": "https://github.com/imbue-ai/bouncer"
@@ -346,7 +430,7 @@ const FEED_DATA = {
     },
     {
       "title": "Why AI Sucks at Front End",
-      "summary": "Article URL: https://nerdy.dev/why-ai-sucks-at-front-end Comments URL: https://news.ycombinator.com/item?id=47738864 Points: 117 # Comments: 160",
+      "summary": "Article URL: https://nerdy.dev/why-ai-sucks-at-front-end Comments URL: https://news.ycombinator.com/item?id=47738864 Points: 120 # Comments: 162",
       "source": "Hacker News",
       "published": "2026-04-12T12:26:09+00:00",
       "link": "https://nerdy.dev/why-ai-sucks-at-front-end"
@@ -381,7 +465,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI Will Be Met with Violence, and Nothing Good Will Come of It",
-      "summary": "Article URL: https://www.thealgorithmicbridge.com/p/ai-will-be-met-with-violence-and Comments URL: https://news.ycombinator.com/item?id=47737563 Points: 346 # Comments: 626",
+      "summary": "Article URL: https://www.thealgorithmicbridge.com/p/ai-will-be-met-with-violence-and Comments URL: https://news.ycombinator.com/item?id=47737563 Points: 346 # Comments: 630",
       "source": "Hacker News",
       "published": "2026-04-12T09:16:35+00:00",
       "link": "https://www.thealgorithmicbridge.com/p/ai-will-be-met-with-violence-and"
@@ -416,7 +500,7 @@ const FEED_DATA = {
     },
     {
       "title": "Exploiting the most prominent AI agent benchmarks",
-      "summary": "Article URL: https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/ Comments URL: https://news.ycombinator.com/item?id=47733217 Points: 579 # Comments: 139",
+      "summary": "Article URL: https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/ Comments URL: https://news.ycombinator.com/item?id=47733217 Points: 579 # Comments: 140",
       "source": "Hacker News",
       "published": "2026-04-11T19:15:56+00:00",
       "link": "https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/"
@@ -1316,90 +1400,6 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-04-07T15:30:00+00:00",
       "link": "https://techcrunch.com/2026/04/07/google-maps-can-now-write-captions-for-your-photos-using-ai/"
-    },
-    {
-      "title": "Desalination plants in the Middle East are increasingly vulnerable",
-      "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here.",
-      "source": "MIT Tech Review",
-      "published": "2026-04-07T14:54:06+00:00",
-      "link": "https://www.technologyreview.com/2026/04/07/1135235/desalination-technology-water/"
-    },
-    {
-      "title": "Asylon and Thrive Logic bring physical AI to enterprise perimeter security",
-      "summary": "Exciting times are ahead in the world of enterprise perimeter security with a new partnership between Thrive Logic, an AI agent-driven security and operational intelligence platform, and Asylon, a security robotics company.",
-      "source": "AI News",
-      "published": "2026-04-07T14:40:42+00:00",
-      "link": "https://www.artificialintelligence-news.com/news/physical-ai-security-at-the-enterprise-perimeter-takes-a-step-closer/"
-    },
-    {
-      "title": "Enabling agent-first process redesign",
-      "summary": "Unlike static, rules-based systems, AI agents can learn, adapt, and optimize processes dynamically. As they interact with data, systems, people, and other agents in real time, AI agents can execute entire workflows autonomously.",
-      "source": "MIT Tech Review",
-      "published": "2026-04-07T14:00:00+00:00",
-      "link": "https://www.technologyreview.com/2026/04/07/1134966/enabling-agent-first-process-redesign/"
-    },
-    {
-      "title": "An AI robot in my home",
-      "summary": "https://allevato.me/2026/04/03/reviving-a-robot Comments URL: https://news.ycombinator.com/item?id=47674950 Points: 66 # Comments: 28",
-      "source": "Hacker News",
-      "published": "2026-04-07T13:19:10+00:00",
-      "link": "https://allevato.me/2026/04/07/an-ai-robot-in-my-home"
-    },
-    {
-      "title": "The AI gold rush is pulling private wealth into riskier, earlier bets",
-      "summary": "On a recent episode of Equity, we talked to Arena Private Wealth to explore a growing trend: family offices bypassing VCs to gain direct exposure to AI startups, turning them from passive investors into active participants.",
-      "source": "TechCrunch",
-      "published": "2026-04-07T13:00:00+00:00",
-      "link": "https://techcrunch.com/2026/04/07/the-ai-gold-rush-is-pulling-private-wealth-into-riskier-earlier-bets/"
-    },
-    {
-      "title": "The Download: AI’s impact on jobs, and data centres in space",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.",
-      "source": "MIT Tech Review",
-      "published": "2026-04-07T12:10:00+00:00",
-      "link": "https://www.technologyreview.com/2026/04/07/1135208/the-download-ai-impact-jobs-data-centres-space/"
-    },
-    {
-      "title": "Boomi calls it “data activation” and says it’s the missing step in every AI deployment",
-      "summary": "The failure mode for enterprise AI in 2026 is not what most people expected. It is not that the models are wrong, or that agents cannot reason, or that the technology is overhyped.",
-      "source": "AI News",
-      "published": "2026-04-07T12:00:00+00:00",
-      "link": "https://www.artificialintelligence-news.com/news/boomi-agentic-ai-data-activation-missing-step/"
-    },
-    {
-      "title": "China actively targeting Taiwan's chip talent and technology, security report says",
-      "summary": "China is actively trying to poach Taiwan's semiconductor expertise and talent to circumvent international technology restrictions, according to a report from Taiwan's National Security Bureau cited by Reuters.",
-      "source": "The Decoder",
-      "published": "2026-04-07T11:56:37+00:00",
-      "link": "https://the-decoder.com/china-actively-targeting-taiwans-chip-talent-and-technology-security-report-says/"
-    },
-    {
-      "title": "Bezos' Project Prometheus hires xAI co-founder from OpenAI",
-      "summary": "Jeff Bezos' startup Project Prometheus has hired Kyle Kosic, a co-founder of Elon Musk's xAI who most recently worked at OpenAI, the Financial Times reports. The article Bezos' Project Prometheus hires xAI co-founder from OpenAI appeared first on The Decoder.",
-      "source": "The Decoder",
-      "published": "2026-04-07T11:46:15+00:00",
-      "link": "https://the-decoder.com/bezos-project-prometheus-hires-xai-co-founder-from-openai/"
-    },
-    {
-      "title": "OpenAI, Anthropic, and Google team up against unauthorized Chinese model copying",
-      "summary": "OpenAI, Anthropic, and Google have started working together to combat the unauthorized copying of their AI models by Chinese competitors, according to Bloomberg.",
-      "source": "The Decoder",
-      "published": "2026-04-07T11:43:19+00:00",
-      "link": "https://the-decoder.com/openai-anthropic-and-google-team-up-against-unauthorized-chinese-model-copying/"
-    },
-    {
-      "title": "Meta plans to open-source parts of its new AI models",
-      "summary": "Meta is planning to release versions of its new AI models as open source, according to Axios. The article Meta plans to open-source parts of its new AI models appeared first on The Decoder.",
-      "source": "The Decoder",
-      "published": "2026-04-07T11:39:49+00:00",
-      "link": "https://the-decoder.com/meta-plans-to-open-source-parts-of-its-new-ai-models/"
-    },
-    {
-      "title": "AI may be making us think and write more alike",
-      "summary": "Article URL: https://dornsife.usc.edu/news/stories/ai-may-be-making-us-think-and-write-more-alike/ Comments URL: https://news.ycombinator.com/item?id=47673541 Points: 231 # Comments: 243",
-      "source": "Hacker News",
-      "published": "2026-04-07T11:29:02+00:00",
-      "link": "https://dornsife.usc.edu/news/stories/ai-may-be-making-us-think-and-write-more-alike/"
     }
   ]
 };
