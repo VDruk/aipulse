@@ -1,6 +1,83 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-04-15T18:02:26.876278+00:00",
+  "lastUpdated": "2026-04-15T21:45:34.548433+00:00",
   "items": [
+    {
+      "title": "Trump’s posting even more AI-generated Trump-Jesus fan art",
+      "summary": "Hello and welcome to Regulator, a newsletter for Verge subscribers about Big Tech power plays in Washington and beyond.",
+      "source": "The Verge",
+      "published": "2026-04-15T19:50:31+00:00",
+      "link": "https://www.theverge.com/column/912627/trump-jesus-ai-whcd-penguin-meme"
+    },
+    {
+      "title": "OpenAI updates its Agents SDK to help enterprises build safer, more capable agents",
+      "summary": "OpenAI has expanded the capabilities of its agent-building toolkit, as agentic AI continues to grow in popularity.",
+      "source": "TechCrunch",
+      "published": "2026-04-15T19:28:36+00:00",
+      "link": "https://techcrunch.com/2026/04/15/openai-updates-its-agents-sdk-to-help-enterprises-build-safer-more-capable-agents/"
+    },
+    {
+      "title": "Hightouch reaches $100M ARR fueled by marketing tools powered by AI",
+      "summary": "The startup says it grew its ARR by $70 million in just 20 months after launching an AI agent platform for marketers.",
+      "source": "TechCrunch",
+      "published": "2026-04-15T18:55:12+00:00",
+      "link": "https://techcrunch.com/2026/04/15/hightouch-reaches-100m-arr-fueled-by-marketing-tools-powered-by-ai/"
+    },
+    {
+      "title": "LinkedIn data shows AI isn’t to blame for hiring decline… yet",
+      "summary": "LinkedIn says hiring is down 20% since 2022, but blames higher interest rates — not AI — for the slowdown.",
+      "source": "TechCrunch",
+      "published": "2026-04-15T18:51:54+00:00",
+      "link": "https://techcrunch.com/2026/04/15/linkedin-data-shows-ai-isnt-to-blame-for-hiring-decline-yet/"
+    },
+    {
+      "title": "Adobe turns its creative suite into a chatbot with the new Firefly AI Assistant",
+      "summary": "With the Firefly AI Assistant, Adobe is launching an AI agent that manages creative workflows across apps like Photoshop and Premiere from a single chat interface.",
+      "source": "The Decoder",
+      "published": "2026-04-15T18:39:44+00:00",
+      "link": "https://the-decoder.com/adobe-turns-its-creative-suite-into-a-chatbot-with-the-new-firefly-ai-assistant/"
+    },
+    {
+      "title": "AI learning app Gizmo levels up with 13M users and a $22M investment",
+      "summary": "Gizmo, an AI-powered learning platform, has attracted more than 13 million users and just secured $22 million in Series A funding.",
+      "source": "TechCrunch",
+      "published": "2026-04-15T18:38:10+00:00",
+      "link": "https://techcrunch.com/2026/04/15/ai-learning-app-gizmo-levels-up-with-13m-users-and-a-22m-investment/"
+    },
+    {
+      "title": "Can AI judge journalism? A Thiel-backed startup says yes, even if it risks chilling whistleblowers",
+      "summary": "Objection, a Thiel-backed startup, aims to use AI to judge journalism, letting users pay to challenge stories. Critics warn it could chill whistleblowers and reshape how media accountability works.",
+      "source": "TechCrunch",
+      "published": "2026-04-15T18:33:20+00:00",
+      "link": "https://techcrunch.com/2026/04/15/can-ai-judge-journalism-a-thiel-backed-startup-says-yes-even-if-it-risks-chilling-whistleblowers/"
+    },
+    {
+      "title": "Google rolls out a native Gemini app for Mac",
+      "summary": "You can share anything on their screen with Gemini to get help with what they're looking at in the moment, including local files.",
+      "source": "TechCrunch",
+      "published": "2026-04-15T18:22:13+00:00",
+      "link": "https://techcrunch.com/2026/04/15/google-rolls-out-a-native-gemini-app-for-mac/"
+    },
+    {
+      "title": "Google launches a Gemini AI app on Mac",
+      "summary": "Google is launching a new Gemini app on Mac that allows you to interact with the AI assistant without switching windows on your desktop.",
+      "source": "The Verge",
+      "published": "2026-04-15T18:10:15+00:00",
+      "link": "https://www.theverge.com/tech/912638/google-gemini-mac-app"
+    },
+    {
+      "title": "OpenAI updates Agents SDK with new sandbox support for safer AI agents",
+      "summary": "OpenAI has shipped a major update to its Agents SDK, adding native sandbox support and new tools. Developers can now build AI agents that check files, write code, and handle complex tasks in isolated environments.",
+      "source": "The Decoder",
+      "published": "2026-04-15T18:06:10+00:00",
+      "link": "https://the-decoder.com/openai-updates-agents-sdk-with-new-sandbox-support-for-safer-ai-agents/"
+    },
+    {
+      "title": "AI Could Democratize One of Tech's Most Valuable Resources",
+      "summary": "AI is making it easier to design chips and optimize software for different silicon. Some startups envision a revolution in chipmaking.",
+      "source": "Wired",
+      "published": "2026-04-15T18:00:00+00:00",
+      "link": "https://www.wired.com/story/ai-could-democratize-one-of-techs-most-valuable-resources/"
+    },
     {
       "title": "The musician-turned-biotech-founder waiting to fundraise",
       "summary": "When Grammy-nominated singer-songwriter Aloe Blacc got COVID despite being vaccinated and boosted, he tried to fund research for a better solution. What he quickly found out?",
@@ -681,18 +758,18 @@ const FEED_DATA = {
       "link": "https://the-decoder.com/openai-opens-london-office-with-room-for-over-500-employees/"
     },
     {
-      "title": "AI Agents Are Coming for Your Dating Life",
-      "summary": "The developers of Pixel Societies are using AI agents to simulate social interactions. It's an attempt optimize the process of choosing new colleagues, friends, and even romantic partners.",
-      "source": "Wired",
-      "published": "2026-04-13T10:00:00+00:00",
-      "link": "https://www.wired.com/story/ai-agents-are-coming-for-your-dating-life-next/"
-    },
-    {
       "title": "Companies expand AI adoption while keeping control",
       "summary": "Many companies are taking a slower, more controlled approach to autonomous systems as AI adoption grows. Rather than deploying systems that act on their own, they are focusing on tools that assist human decision-making and keep control over outputs.",
       "source": "AI News",
       "published": "2026-04-13T10:00:00+00:00",
       "link": "https://www.artificialintelligence-news.com/news/companies-expand-ai-adoption-while-keeping-control/"
+    },
+    {
+      "title": "AI Agents Are Coming for Your Dating Life",
+      "summary": "The developers of Pixel Societies are using AI agents to simulate social interactions. It's an attempt optimize the process of choosing new colleagues, friends, and even romantic partners.",
+      "source": "Wired",
+      "published": "2026-04-13T10:00:00+00:00",
+      "link": "https://www.wired.com/story/ai-agents-are-coming-for-your-dating-life-next/"
     },
     {
       "title": "Job titles of the future: Wildlife first responder",
@@ -1323,83 +1400,6 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-04-09T13:32:07+00:00",
       "link": "https://the-decoder.com/new-stanford-study-reveals-when-teaming-up-ai-agents-is-worth-the-compute/"
-    },
-    {
-      "title": "The Pro-Iran Meme Machine Trolling Trump With AI Lego Cartoons",
-      "summary": "Since the beginning of the Iran war, the group Explosive Media has released over a dozen viral videos mocking Trump and the US.",
-      "source": "Wired",
-      "published": "2026-04-09T13:25:21+00:00",
-      "link": "https://www.wired.com/story/inside-the-pro-iran-meme-machine-trolling-trump-with-ai-lego-cartoons/"
-    },
-    {
-      "title": "The Download: AstroTurf wars and exponential AI growth",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Is fake grass a bad idea?",
-      "source": "MIT Tech Review",
-      "published": "2026-04-09T12:25:10+00:00",
-      "link": "https://www.technologyreview.com/2026/04/09/1135514/the-download-astroturf-wars-exponential-ai-growth-desalination-numbers/"
-    },
-    {
-      "title": "Anthropic keeps new AI model private after it finds thousands of external vulnerabilities",
-      "summary": "Anthropic’s most capable AI model has already found thousands of AI cybersecurity vulnerabilities across every major operating system and web browser.",
-      "source": "AI News",
-      "published": "2026-04-09T12:00:00+00:00",
-      "link": "https://www.artificialintelligence-news.com/news/anthropic-keeps-new-ai-model-private-after-it-finds-thousands-of-external-vulnerabilities/"
-    },
-    {
-      "title": "Anthropic locked down its most powerful AI Model over cybersecurity fears–then put it to work",
-      "summary": "Anthropic’s most capable AI model has already found thousands of AI cybersecurity vulnerabilities across every major operating system and web browser.",
-      "source": "AI News",
-      "published": "2026-04-09T12:00:00+00:00",
-      "link": "https://www.artificialintelligence-news.com/news/anthropic-locked-down-its-most-powerful-ai-model-over-cybersecurity-fears-then-put-it-to-work/"
-    },
-    {
-      "title": "US appeals court refuses to block Pentagon's blacklisting of Anthropic",
-      "summary": "A US appeals court has declined to temporarily block the Pentagon's designation of Anthropic as a national security risk, Reuters reports. The article US appeals court refuses to block Pentagon's blacklisting of Anthropic appeared first on The Decoder.",
-      "source": "The Decoder",
-      "published": "2026-04-09T11:08:01+00:00",
-      "link": "https://the-decoder.com/us-appeals-court-refuses-to-block-pentagons-blacklisting-of-anthropic/"
-    },
-    {
-      "title": "Zhipu AI's GLM-5.1 can rethink its own coding strategy across hundreds of iterations",
-      "summary": "Zhipu AI has released its new GLM-5.1 model under an MIT license. The model can reportedly refine its own approach over hundreds of iterations when tackling coding tasks.",
-      "source": "The Decoder",
-      "published": "2026-04-09T11:05:27+00:00",
-      "link": "https://the-decoder.com/zhipu-ais-glm-5-1-can-rethink-its-own-coding-strategy-across-hundreds-of-iterations/"
-    },
-    {
-      "title": "Google makes it easy to deepfake yourself",
-      "summary": "YouTube Shorts is rolling out a new AI-powered feature giving creators an easy way to realistically clone themselves on camera.",
-      "source": "The Verge",
-      "published": "2026-04-09T10:53:49+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/909104/youtube-shorts-make-ai-avatar"
-    },
-    {
-      "title": "This AI Wearable From Ex-Apple Engineers Looks Like an iPod Shuffle",
-      "summary": "Two former Apple Vision Pro developers made an AI wearable that only listens when you tap it. They hope to win where other AI gadgets have fumbled: privacy.",
-      "source": "Wired",
-      "published": "2026-04-09T09:30:00+00:00",
-      "link": "https://www.wired.com/story/this-ai-button-wearable-from-ex-apple-engineers-looks-like-an-ipod-shuffle/"
-    },
-    {
-      "title": "Anthropic launches managed infrastructure for autonomous AI agents",
-      "summary": "Anthropic's new \"Claude Managed Agents\" gives developers a hosted platform for building and running autonomous AI agents. Early adopters like Notion and Rakuten are already using the system.",
-      "source": "The Decoder",
-      "published": "2026-04-09T09:16:13+00:00",
-      "link": "https://the-decoder.com/anthropic-launches-managed-infrastructure-for-autonomous-ai-agents/"
-    },
-    {
-      "title": "Ask HN: What are you building that's not AI related?",
-      "summary": "I don't have anything against AI, but HN (and everywhere else) seems to be drowning in AI atm.Seems like every man and his dog is building an AI agent harness.",
-      "source": "Hacker News",
-      "published": "2026-04-09T07:39:47+00:00",
-      "link": "https://news.ycombinator.com/item?id=47700460"
-    },
-    {
-      "title": "Process Manager for Autonomous AI Agents",
-      "summary": "Article URL: https://botctl.dev/ Comments URL: https://news.ycombinator.com/item?id=47699814 Points: 58 # Comments: 21",
-      "source": "Hacker News",
-      "published": "2026-04-09T06:00:55+00:00",
-      "link": "https://botctl.dev/"
     }
   ]
 };
