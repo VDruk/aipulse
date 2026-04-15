@@ -1,6 +1,62 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-04-15T14:47:05.680818+00:00",
+  "lastUpdated": "2026-04-15T18:02:26.876278+00:00",
   "items": [
+    {
+      "title": "The musician-turned-biotech-founder waiting to fundraise",
+      "summary": "When Grammy-nominated singer-songwriter Aloe Blacc got COVID despite being vaccinated and boosted, he tried to fund research for a better solution. What he quickly found out?",
+      "source": "TechCrunch",
+      "published": "2026-04-15T17:58:28+00:00",
+      "link": "https://techcrunch.com/podcast/the-musician-turned-biotech-founder-waiting-to-fundraise/"
+    },
+    {
+      "title": "Google ships its most expressive Gemini 3.1 text-to-speech model yet with 70+ language support",
+      "summary": "Google Gemini 3.1 Flash TTS converts text into natural-sounding speech in over 70 languages, with new audio tags for precise control over style, pace and tone.",
+      "source": "The Decoder",
+      "published": "2026-04-15T17:45:07+00:00",
+      "link": "https://the-decoder.com/google-ships-its-most-expressive-gemini-3-1-text-to-speech-model-yet-with-70-language-support/"
+    },
+    {
+      "title": "India’s vibe-coding startup Emergent enters OpenClaw-like AI agent space",
+      "summary": "Emergent's Wingman lets users manage and automate tasks through chat on platforms like WhatsApp and Telegram.",
+      "source": "TechCrunch",
+      "published": "2026-04-15T17:24:18+00:00",
+      "link": "https://techcrunch.com/2026/04/15/indias-vibe-coding-startup-emergent-enters-openclaw-like-ai-agent-space/"
+    },
+    {
+      "title": "Commvault launches a ‘Ctrl-Z’ for cloud AI workloads",
+      "summary": "Enterprise cloud environments now have access to an undo feature for AI agents following the deployment of Commvault AI Protect.",
+      "source": "AI News",
+      "published": "2026-04-15T16:28:19+00:00",
+      "link": "https://www.artificialintelligence-news.com/news/commvault-launches-ctrl-z-for-cloud-ai-workloads/"
+    },
+    {
+      "title": "Allbirds announced a switch from shoes to AI and its stock jumped 600 percent",
+      "summary": "Allbirds had a hit a decade ago with its Wool Runner shoes, but after a $4 billion IPO in 2021, the business never turned a profit, and sales dropped nearly 50 percent between 2022 and 2025.",
+      "source": "The Verge",
+      "published": "2026-04-15T16:13:30+00:00",
+      "link": "https://www.theverge.com/news/912484/allbirds-ai-hyperscale"
+    },
+    {
+      "title": "Allbirds Is Pivoting to AI Compute. Sure, Why Not",
+      "summary": "Once a $4 billion apparel juggernaut, Allbirds will rebrand as NewBird AI, a “GPU-as-a-Service” company. Hey, if you can't beat ’em, join ’em.",
+      "source": "Wired",
+      "published": "2026-04-15T14:58:08+00:00",
+      "link": "https://www.wired.com/story/allbirds-is-pivoting-to-ai-compute-sure-why-not/"
+    },
+    {
+      "title": "Elevated errors on Claude.ai, API, Claude Code",
+      "summary": "Article URL: https://claudestatus.com/ Comments URL: https://news.ycombinator.com/item?id=47779730 Points: 216 # Comments: 201",
+      "source": "Hacker News",
+      "published": "2026-04-15T14:44:00+00:00",
+      "link": "https://claudestatus.com/"
+    },
+    {
+      "title": "Citizen developers now have their own Wingman",
+      "summary": "A vibe-coding application creation company, Emergent, has released Wingman, an autonomous agent that can address and take control of the applications used to manage daily tasks.",
+      "source": "AI News",
+      "published": "2026-04-15T14:42:00+00:00",
+      "link": "https://www.artificialintelligence-news.com/news/citizen-developers-now-have-their-own-wingman/"
+    },
     {
       "title": "Anthropic prepares Opus 4.7 and AI design tool, VCs offer up to 800 billion dollars",
       "summary": "Anthropic is preparing to release a new model and a design tool that would compete with Adobe and Figma. Meanwhile, venture capitalists are lining up to invest at sky-high valuations.",
@@ -21,6 +77,20 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-04-15T13:54:11+00:00",
       "link": "https://the-decoder.com/claude-beat-human-researchers-on-an-alignment-task-and-then-the-results-vanished-in-production/"
+    },
+    {
+      "title": "US v. Heppner (S.D.N.Y. 2026) no attorney-client privilege for AI chats [pdf]",
+      "summary": "Article URL: https://fingfx.thomsonreuters.com/gfx/legaldocs/xmvjyjekkpr/Rakoff%20-%20order%20-%20AI.pdf Comments URL: https://news.ycombinator.com/item?id=47778920 Points: 80 # Comments: 71",
+      "source": "Hacker News",
+      "published": "2026-04-15T13:47:40+00:00",
+      "link": "https://fingfx.thomsonreuters.com/gfx/legaldocs/xmvjyjekkpr/Rakoff%20-%20order%20-%20AI.pdf"
+    },
+    {
+      "title": "Allbirds announces pivot from shoes to AI, stock explodes 175%",
+      "summary": "Article URL: https://www.cnbc.com/2026/04/15/allbirds-bird-stock-shoes-ai.html Comments URL: https://news.ycombinator.com/item?id=47778762 Points: 59 # Comments: 23",
+      "source": "Hacker News",
+      "published": "2026-04-15T13:34:44+00:00",
+      "link": "https://www.cnbc.com/2026/04/15/allbirds-bird-stock-shoes-ai.html"
     },
     {
       "title": "Reid Hoffman weighs in on the ‘tokenmaxxing’ debate",
@@ -56,6 +126,20 @@ const FEED_DATA = {
       "source": "The Verge",
       "published": "2026-04-15T13:00:00+00:00",
       "link": "https://www.theverge.com/tech/912287/adobe-firefly-ai-assistant-announcement-editing"
+    },
+    {
+      "title": "AI ruling prompts warnings from US lawyers: Your chats could be used against you",
+      "summary": "Article URL: https://www.reuters.com/legal/government/ai-ruling-prompts-warnings-us-lawyers-your-chats-could-be-used-against-you-2026-04-15/ Comments URL: https://news.ycombinator.com/item?id=47778308 Points: 107 # Comments: 65",
+      "source": "Hacker News",
+      "published": "2026-04-15T12:51:13+00:00",
+      "link": "https://www.reuters.com/legal/government/ai-ruling-prompts-warnings-us-lawyers-your-chats-could-be-used-against-you-2026-04-15/"
+    },
+    {
+      "title": "Allbirds, Inc. Announces Expansion into AI Compute Infrastructure",
+      "summary": "Article URL: https://ir.allbirds.com/news-releases/news-release-details/allbirds-inc-executes-50m-convertible-financing-facility Comments URL: https://news.ycombinator.com/item?id=47778038 Points: 67 # Comments: 60",
+      "source": "Hacker News",
+      "published": "2026-04-15T12:20:13+00:00",
+      "link": "https://ir.allbirds.com/news-releases/news-release-details/allbirds-inc-executes-50m-convertible-financing-facility"
     },
     {
       "title": "The Download: NASA’s nuclear spacecraft and unveiling our AI 10",
@@ -136,7 +220,7 @@ const FEED_DATA = {
     },
     {
       "title": "My AI-Assisted Workflow",
-      "summary": "Article URL: https://www.maiobarbero.dev/articles/ai-assisted-workflow/ Comments URL: https://news.ycombinator.com/item?id=47775653 Points: 71 # Comments: 84",
+      "summary": "Article URL: https://www.maiobarbero.dev/articles/ai-assisted-workflow/ Comments URL: https://news.ycombinator.com/item?id=47775653 Points: 75 # Comments: 100",
       "source": "Hacker News",
       "published": "2026-04-15T07:08:18+00:00",
       "link": "https://www.maiobarbero.dev/articles/ai-assisted-workflow/"
@@ -150,7 +234,7 @@ const FEED_DATA = {
     },
     {
       "title": "Google Gemma 4 Runs Natively on iPhone with Full Offline AI Inference",
-      "summary": "Article URL: https://www.gizmoweek.com/gemma-4-runs-iphone/ Comments URL: https://news.ycombinator.com/item?id=47774971 Points: 152 # Comments: 100",
+      "summary": "Article URL: https://www.gizmoweek.com/gemma-4-runs-iphone/ Comments URL: https://news.ycombinator.com/item?id=47774971 Points: 220 # Comments: 150",
       "source": "Hacker News",
       "published": "2026-04-15T05:19:06+00:00",
       "link": "https://www.gizmoweek.com/gemma-4-runs-iphone/"
@@ -161,6 +245,13 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-04-15T02:31:04+00:00",
       "link": "https://techcrunch.com/2026/04/14/anthropics-rise-is-giving-some-openai-investors-second-thoughts/"
+    },
+    {
+      "title": "What Claude Code's Source Revealed About AI Engineering Culture",
+      "summary": "Article URL: https://techtrenches.dev/p/the-snake-that-ate-itself-what-claude Comments URL: https://news.ycombinator.com/item?id=47772282 Points: 60 # Comments: 37",
+      "source": "Hacker News",
+      "published": "2026-04-14T22:27:53+00:00",
+      "link": "https://techtrenches.dev/p/the-snake-that-ate-itself-what-claude"
     },
     {
       "title": "Greg Brockman predicts AI will let small teams match the output of large ones if they can afford the compute",
@@ -206,7 +297,7 @@ const FEED_DATA = {
     },
     {
       "title": "Turn your best AI prompts into one-click tools in Chrome",
-      "summary": "Article URL: https://blog.google/products-and-platforms/products/chrome/skills-in-chrome/ Comments URL: https://news.ycombinator.com/item?id=47768339 Points: 182 # Comments: 100",
+      "summary": "Article URL: https://blog.google/products-and-platforms/products/chrome/skills-in-chrome/ Comments URL: https://news.ycombinator.com/item?id=47768339 Points: 187 # Comments: 104",
       "source": "Hacker News",
       "published": "2026-04-14T17:09:43+00:00",
       "link": "https://blog.google/products-and-platforms/products/chrome/skills-in-chrome/"
@@ -311,7 +402,7 @@ const FEED_DATA = {
     },
     {
       "title": "Two Months After I Gave an AI $100 and No Instructions",
-      "summary": "Article URL: https://www.sebastian-jais.de/blog/two-months-alma-experiment Comments URL: https://news.ycombinator.com/item?id=47765458 Points: 92 # Comments: 109",
+      "summary": "Article URL: https://www.sebastian-jais.de/blog/two-months-alma-experiment Comments URL: https://news.ycombinator.com/item?id=47765458 Points: 92 # Comments: 111",
       "source": "Hacker News",
       "published": "2026-04-14T13:34:24+00:00",
       "link": "https://www.sebastian-jais.de/blog/two-months-alma-experiment"
@@ -381,7 +472,7 @@ const FEED_DATA = {
     },
     {
       "title": "An AI Vibe Coding Horror Story",
-      "summary": "Article URL: https://www.tobru.ch/an-ai-vibe-coding-horror-story/ Comments URL: https://news.ycombinator.com/item?id=47762901 Points: 209 # Comments: 209",
+      "summary": "Article URL: https://www.tobru.ch/an-ai-vibe-coding-horror-story/ Comments URL: https://news.ycombinator.com/item?id=47762901 Points: 210 # Comments: 210",
       "source": "Hacker News",
       "published": "2026-04-14T08:35:45+00:00",
       "link": "https://www.tobru.ch/an-ai-vibe-coding-horror-story/"
@@ -416,7 +507,7 @@ const FEED_DATA = {
     },
     {
       "title": "The AI revolution in math has arrived",
-      "summary": "Article URL: https://www.quantamagazine.org/the-ai-revolution-in-math-has-arrived-20260413/ Comments URL: https://news.ycombinator.com/item?id=47759292 Points: 114 # Comments: 60",
+      "summary": "Article URL: https://www.quantamagazine.org/the-ai-revolution-in-math-has-arrived-20260413/ Comments URL: https://news.ycombinator.com/item?id=47759292 Points: 115 # Comments: 60",
       "source": "Hacker News",
       "published": "2026-04-13T23:26:04+00:00",
       "link": "https://www.quantamagazine.org/the-ai-revolution-in-math-has-arrived-20260413/"
@@ -430,7 +521,7 @@ const FEED_DATA = {
     },
     {
       "title": "The tech jobs bust is real. Don't blame AI (yet)",
-      "summary": "Article URL: https://economist.com/finance-and-economics/2026/04/13/the-tech-jobs-bust-is-real-dont-blame-ai-yet Comments URL: https://news.ycombinator.com/item?id=47757775 Points: 116 # Comments: 194",
+      "summary": "Article URL: https://economist.com/finance-and-economics/2026/04/13/the-tech-jobs-bust-is-real-dont-blame-ai-yet Comments URL: https://news.ycombinator.com/item?id=47757775 Points: 117 # Comments: 194",
       "source": "Hacker News",
       "published": "2026-04-13T21:02:21+00:00",
       "link": "https://economist.com/finance-and-economics/2026/04/13/the-tech-jobs-bust-is-real-dont-blame-ai-yet"
@@ -444,7 +535,7 @@ const FEED_DATA = {
     },
     {
       "title": "GAIA – Open-source framework for building AI agents that run on local hardware",
-      "summary": "Article URL: https://amd-gaia.ai/docs Comments URL: https://news.ycombinator.com/item?id=47756772 Points: 152 # Comments: 34",
+      "summary": "Article URL: https://amd-gaia.ai/docs Comments URL: https://news.ycombinator.com/item?id=47756772 Points: 154 # Comments: 34",
       "source": "Hacker News",
       "published": "2026-04-13T19:28:41+00:00",
       "link": "https://amd-gaia.ai/docs"
@@ -534,18 +625,18 @@ const FEED_DATA = {
       "link": "https://techcrunch.com/2026/04/13/vercel-ceo-guillermo-rauch-signals-ipo-readiness-as-ai-agents-fuel-revenue-surge/"
     },
     {
+      "title": "Mark Zuckerberg is reportedly building an AI clone to replace him in meetings",
+      "summary": "Article URL: https://www.theverge.com/tech/910990/meta-ceo-mark-zuckerberg-ai-clone Comments URL: https://news.ycombinator.com/item?id=47752402 Points: 83 # Comments: 93",
+      "source": "Hacker News",
+      "published": "2026-04-13T14:21:29+00:00",
+      "link": "https://www.theverge.com/tech/910990/meta-ceo-mark-zuckerberg-ai-clone"
+    },
+    {
       "title": "The AI industry is running out of compute, with outages, rationing, and rising GPU prices",
       "summary": "Surging demand for AI agents is colliding with limited compute capacity. Anthropic is struggling with outages, OpenAI announced the end of Sora, and GPU prices have jumped nearly 50 percent, according to market data.",
       "source": "The Decoder",
       "published": "2026-04-13T13:47:33+00:00",
       "link": "https://the-decoder.com/the-ai-industry-is-running-out-of-compute-with-outages-rationing-and-rising-gpu-prices/"
-    },
-    {
-      "title": "Mark Zuckerberg is reportedly building an AI clone to replace him in meetings",
-      "summary": "Meta CEO Mark Zuckerberg could soon have an AI clone of himself to interact with and provide feedback to employees, according to a report from the Financial Times.",
-      "source": "The Verge",
-      "published": "2026-04-13T13:40:03+00:00",
-      "link": "https://www.theverge.com/tech/910990/meta-ceo-mark-zuckerberg-ai-clone"
     },
     {
       "title": "Strengthening enterprise governance for rising edge AI workloads",
@@ -1309,97 +1400,6 @@ const FEED_DATA = {
       "source": "Hacker News",
       "published": "2026-04-09T06:00:55+00:00",
       "link": "https://botctl.dev/"
-    },
-    {
-      "title": "App Store sees 84% surge in new apps as AI coding tools take off",
-      "summary": "Article URL: https://9to5mac.com/2026/04/06/app-store-sees-84-surge-in-new-apps-as-ai-coding-tools-take-off/ Comments URL: https://news.ycombinator.com/item?id=47699086 Points: 65 # Comments: 74",
-      "source": "Hacker News",
-      "published": "2026-04-09T03:51:41+00:00",
-      "link": "https://9to5mac.com/2026/04/06/app-store-sees-84-surge-in-new-apps-as-ai-coding-tools-take-off/"
-    },
-    {
-      "title": "Gemini gets notebooks to help you organize projects",
-      "summary": "Google's Gemini is getting a feature called \"notebooks\" to help you organize things about certain topics in a single place while using the AI chatbot, the company announced on Wednesday.",
-      "source": "The Verge",
-      "published": "2026-04-09T00:06:12+00:00",
-      "link": "https://www.theverge.com/tech/909031/google-gemini-notebooks-notebooklm"
-    },
-    {
-      "title": "Anthropic vs. the Pentagon: This Time, a US Court Has Ruled in the Government's Favor",
-      "summary": "A US appeals court ruling is at odds with a separate, lower court decision from March, leaving uncertainty about if and how the US military can use the AI company's Claude model.",
-      "source": "Wired",
-      "published": "2026-04-08T22:27:26+00:00",
-      "link": "https://www.wired.com/story/anthropic-appeals-court-ruling/"
-    },
-    {
-      "title": "Conflicting Rulings Leave Anthropic in ‘Supply-Chain Risk’ Limbo",
-      "summary": "A US appeals court ruling is at odds with a separate, lower court decision from March, leaving uncertainty about if and how the US military can use the AI company's Claude model.",
-      "source": "Wired",
-      "published": "2026-04-08T22:27:26+00:00",
-      "link": "https://www.wired.com/story/anthropic-appeals-court-ruling/"
-    },
-    {
-      "title": "Anthropic Supply-Chain Risk Label Should Stay in Place, Appeals Court Says",
-      "summary": "The AI company now faces conflicting rulings in its fight over how Claude can be used by the US military.",
-      "source": "Wired",
-      "published": "2026-04-08T22:27:26+00:00",
-      "link": "https://www.wired.com/story/anthropic-appeals-court-ruling/"
-    },
-    {
-      "title": "Poke makes using AI agents as easy as sending a text",
-      "summary": "Poke brings AI agents to everyday users via text message by handling tasks and automations without complex setup, apps, or technical know-how.",
-      "source": "TechCrunch",
-      "published": "2026-04-08T21:05:13+00:00",
-      "link": "https://techcrunch.com/2026/04/08/poke-makes-ai-agents-as-easy-as-sending-a-text/"
-    },
-    {
-      "title": "AI agent Poke makes setting up automations as easy as sending a text",
-      "summary": "Poke brings AI agents to everyday users via text message by handling tasks and automations without complex setup, apps, or technical know-how.",
-      "source": "TechCrunch",
-      "published": "2026-04-08T21:05:13+00:00",
-      "link": "https://techcrunch.com/2026/04/08/poke-makes-ai-agents-as-easy-as-sending-a-text/"
-    },
-    {
-      "title": "AMD AI director says Claude Code is becoming dumber and lazier since update",
-      "summary": "Article URL: https://www.theregister.com/2026/04/06/anthropic_claude_code_dumber_lazier_amd_ai_director/ Comments URL: https://news.ycombinator.com/item?id=47696210 Points: 52 # Comments: 15",
-      "source": "Hacker News",
-      "published": "2026-04-08T21:01:23+00:00",
-      "link": "https://www.theregister.com/2026/04/06/anthropic_claude_code_dumber_lazier_amd_ai_director/"
-    },
-    {
-      "title": "OpenAI made economic proposals — here’s what DC thinks of them",
-      "summary": "Happy ceasefire day and welcome to Regulator, a newsletter for Verge subscribers about Big Tech's rocky journey through the world of politics.",
-      "source": "The Verge",
-      "published": "2026-04-08T20:14:00+00:00",
-      "link": "https://www.theverge.com/column/908880/openai-made-economic-proposals-heres-what-dc-thinks-of-them"
-    },
-    {
-      "title": "The AI Great Leap Forward",
-      "summary": "Article URL: https://leehanchung.github.io/blogs/2026/04/05/the-ai-great-leap-forward/ Comments URL: https://news.ycombinator.com/item?id=47695647 Points: 134 # Comments: 66",
-      "source": "Hacker News",
-      "published": "2026-04-08T20:10:51+00:00",
-      "link": "https://leehanchung.github.io/blogs/2026/04/05/the-ai-great-leap-forward/"
-    },
-    {
-      "title": "AWS boss explains why investing billions in both Anthropic and OpenAI is an OK conflict",
-      "summary": "AWS has an ingrained culture of handling competition, he explained, because the cloud giant also competes with its partners.",
-      "source": "TechCrunch",
-      "published": "2026-04-08T20:09:14+00:00",
-      "link": "https://techcrunch.com/2026/04/08/aws-boss-explains-why-investing-billions-in-both-anthropic-and-openai-is-an-ok-conflict/"
-    },
-    {
-      "title": "Meta’s New AI Model Gives Mark Zuckerberg a Seat at the Big Kid’s Table",
-      "summary": "Muse Spark is Meta’s first model since its AI reboot, and the benchmarks suggest formidable performance.",
-      "source": "Wired",
-      "published": "2026-04-08T18:51:09+00:00",
-      "link": "https://www.wired.com/story/muse-spark-meta-open-source-closed-source/"
-    },
-    {
-      "title": "Tubi is the first streamer to launch a native app within ChatGPT",
-      "summary": "Tubi becomes the first streaming service to offer an app integration within ChatGPT, the AI chatbot that millions of users turn to for answers.",
-      "source": "TechCrunch",
-      "published": "2026-04-08T18:23:06+00:00",
-      "link": "https://techcrunch.com/2026/04/08/tubi-is-the-first-streamer-to-launch-a-native-app-within-chatgpt/"
     }
   ]
 };
