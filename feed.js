@@ -1,6 +1,13 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-04-14T21:43:00.778466+00:00",
+  "lastUpdated": "2026-04-15T03:59:11.850878+00:00",
   "items": [
+    {
+      "title": "Anthropic’s rise is giving some OpenAI investors second thoughts",
+      "summary": "One investor who has backed both companies told the FT that justifying OpenAI's recent round required assuming an IPO valuation of $1.2 trillion or more — making Anthropic's current $380 billion valuation look like the relative bargain.",
+      "source": "TechCrunch",
+      "published": "2026-04-15T02:31:04+00:00",
+      "link": "https://techcrunch.com/2026/04/14/anthropics-rise-is-giving-some-openai-investors-second-thoughts/"
+    },
     {
       "title": "Greg Brockman predicts AI will let small teams match the output of large ones if they can afford the compute",
       "summary": "In the future, working with AI won't mean adapting to the computer—the computer will adapt to you, says OpenAI President Greg Brockman. \"This is disruptive.",
@@ -45,7 +52,7 @@ const FEED_DATA = {
     },
     {
       "title": "Turn your best AI prompts into one-click tools in Chrome",
-      "summary": "Article URL: https://blog.google/products-and-platforms/products/chrome/skills-in-chrome/ Comments URL: https://news.ycombinator.com/item?id=47768339 Points: 58 # Comments: 29",
+      "summary": "Article URL: https://blog.google/products-and-platforms/products/chrome/skills-in-chrome/ Comments URL: https://news.ycombinator.com/item?id=47768339 Points: 126 # Comments: 59",
       "source": "Hacker News",
       "published": "2026-04-14T17:09:43+00:00",
       "link": "https://blog.google/products-and-platforms/products/chrome/skills-in-chrome/"
@@ -94,7 +101,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI will never be ethical or safe",
-      "summary": "Article URL: https://meiert.com/blog/ai-ethics-and-safety/ Comments URL: https://news.ycombinator.com/item?id=47766960 Points: 57 # Comments: 30",
+      "summary": "Article URL: https://meiert.com/blog/ai-ethics-and-safety/ Comments URL: https://news.ycombinator.com/item?id=47766960 Points: 59 # Comments: 31",
       "source": "Hacker News",
       "published": "2026-04-14T15:30:48+00:00",
       "link": "https://meiert.com/blog/ai-ethics-and-safety/"
@@ -115,7 +122,7 @@ const FEED_DATA = {
     },
     {
       "title": "Schools Never Taught Critical Thinking: AI Exposed the Lie",
-      "summary": "Article URL: https://smarterarticles.co.uk/ai-exposed-the-lie-schools-never-taught-critical-thinking Comments URL: https://news.ycombinator.com/item?id=47766144 Points: 60 # Comments: 86",
+      "summary": "Article URL: https://smarterarticles.co.uk/ai-exposed-the-lie-schools-never-taught-critical-thinking Comments URL: https://news.ycombinator.com/item?id=47766144 Points: 62 # Comments: 86",
       "source": "Hacker News",
       "published": "2026-04-14T14:29:55+00:00",
       "link": "https://smarterarticles.co.uk/ai-exposed-the-lie-schools-never-taught-critical-thinking"
@@ -150,7 +157,7 @@ const FEED_DATA = {
     },
     {
       "title": "Two Months After I Gave an AI $100 and No Instructions",
-      "summary": "Article URL: https://www.sebastian-jais.de/blog/two-months-alma-experiment Comments URL: https://news.ycombinator.com/item?id=47765458 Points: 86 # Comments: 104",
+      "summary": "Article URL: https://www.sebastian-jais.de/blog/two-months-alma-experiment Comments URL: https://news.ycombinator.com/item?id=47765458 Points: 89 # Comments: 106",
       "source": "Hacker News",
       "published": "2026-04-14T13:34:24+00:00",
       "link": "https://www.sebastian-jais.de/blog/two-months-alma-experiment"
@@ -220,7 +227,7 @@ const FEED_DATA = {
     },
     {
       "title": "An AI Vibe Coding Horror Story",
-      "summary": "Article URL: https://www.tobru.ch/an-ai-vibe-coding-horror-story/ Comments URL: https://news.ycombinator.com/item?id=47762901 Points: 197 # Comments: 196",
+      "summary": "Article URL: https://www.tobru.ch/an-ai-vibe-coding-horror-story/ Comments URL: https://news.ycombinator.com/item?id=47762901 Points: 201 # Comments: 199",
       "source": "Hacker News",
       "published": "2026-04-14T08:35:45+00:00",
       "link": "https://www.tobru.ch/an-ai-vibe-coding-horror-story/"
@@ -255,21 +262,21 @@ const FEED_DATA = {
     },
     {
       "title": "The AI revolution in math has arrived",
-      "summary": "Article URL: https://www.quantamagazine.org/the-ai-revolution-in-math-has-arrived-20260413/ Comments URL: https://news.ycombinator.com/item?id=47759292 Points: 105 # Comments: 52",
+      "summary": "Article URL: https://www.quantamagazine.org/the-ai-revolution-in-math-has-arrived-20260413/ Comments URL: https://news.ycombinator.com/item?id=47759292 Points: 110 # Comments: 56",
       "source": "Hacker News",
       "published": "2026-04-13T23:26:04+00:00",
       "link": "https://www.quantamagazine.org/the-ai-revolution-in-math-has-arrived-20260413/"
     },
     {
       "title": "The human cost of 10x: How AI is physically breaking senior engineers",
-      "summary": "Article URL: https://techtrenches.dev/p/the-human-cost-of-10x-how-ai-is-physically Comments URL: https://news.ycombinator.com/item?id=47758863 Points: 73 # Comments: 70",
+      "summary": "Article URL: https://techtrenches.dev/p/the-human-cost-of-10x-how-ai-is-physically Comments URL: https://news.ycombinator.com/item?id=47758863 Points: 77 # Comments: 70",
       "source": "Hacker News",
       "published": "2026-04-13T22:40:26+00:00",
       "link": "https://techtrenches.dev/p/the-human-cost-of-10x-how-ai-is-physically"
     },
     {
       "title": "The tech jobs bust is real. Don't blame AI (yet)",
-      "summary": "Article URL: https://economist.com/finance-and-economics/2026/04/13/the-tech-jobs-bust-is-real-dont-blame-ai-yet Comments URL: https://news.ycombinator.com/item?id=47757775 Points: 115 # Comments: 189",
+      "summary": "Article URL: https://economist.com/finance-and-economics/2026/04/13/the-tech-jobs-bust-is-real-dont-blame-ai-yet Comments URL: https://news.ycombinator.com/item?id=47757775 Points: 115 # Comments: 193",
       "source": "Hacker News",
       "published": "2026-04-13T21:02:21+00:00",
       "link": "https://economist.com/finance-and-economics/2026/04/13/the-tech-jobs-bust-is-real-dont-blame-ai-yet"
@@ -283,7 +290,7 @@ const FEED_DATA = {
     },
     {
       "title": "GAIA – Open-source framework for building AI agents that run on local hardware",
-      "summary": "Article URL: https://amd-gaia.ai/docs Comments URL: https://news.ycombinator.com/item?id=47756772 Points: 141 # Comments: 33",
+      "summary": "Article URL: https://amd-gaia.ai/docs Comments URL: https://news.ycombinator.com/item?id=47756772 Points: 148 # Comments: 33",
       "source": "Hacker News",
       "published": "2026-04-13T19:28:41+00:00",
       "link": "https://amd-gaia.ai/docs"
@@ -360,7 +367,7 @@ const FEED_DATA = {
     },
     {
       "title": "Claude.ai down",
-      "summary": "Article URL: https://status.claude.com/incidents/6jd2m42f8mld Comments URL: https://news.ycombinator.com/item?id=47753643 Points: 132 # Comments: 124",
+      "summary": "Article URL: https://status.claude.com/incidents/6jd2m42f8mld Comments URL: https://news.ycombinator.com/item?id=47753643 Points: 132 # Comments: 126",
       "source": "Hacker News",
       "published": "2026-04-13T15:41:08+00:00",
       "link": "https://status.claude.com/incidents/6jd2m42f8mld"
@@ -402,7 +409,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI could be the end of the digital wave, not the next big thing",
-      "summary": "Article URL: https://thenextwavefutures.wordpress.com/2026/04/07/ai-end-digital-wave-technology-innovation-perez/ Comments URL: https://news.ycombinator.com/item?id=47751032 Points: 181 # Comments: 265",
+      "summary": "Article URL: https://thenextwavefutures.wordpress.com/2026/04/07/ai-end-digital-wave-technology-innovation-perez/ Comments URL: https://news.ycombinator.com/item?id=47751032 Points: 183 # Comments: 266",
       "source": "Hacker News",
       "published": "2026-04-13T12:29:39+00:00",
       "link": "https://thenextwavefutures.wordpress.com/2026/04/07/ai-end-digital-wave-technology-innovation-perez/"
@@ -493,14 +500,14 @@ const FEED_DATA = {
     },
     {
       "title": "Apple's accidental moat: How the \"AI Loser\" may end up winning",
-      "summary": "Article URL: https://adlrocha.substack.com/p/adlrocha-how-the-ai-loser-may-end Comments URL: https://news.ycombinator.com/item?id=47747017 Points: 426 # Comments: 376",
+      "summary": "Article URL: https://adlrocha.substack.com/p/adlrocha-how-the-ai-loser-may-end Comments URL: https://news.ycombinator.com/item?id=47747017 Points: 427 # Comments: 377",
       "source": "Hacker News",
       "published": "2026-04-13T02:53:10+00:00",
       "link": "https://adlrocha.substack.com/p/adlrocha-how-the-ai-loser-may-end"
     },
     {
       "title": "Tech valuations are back to pre-AI boom levels",
-      "summary": "Article URL: https://www.apollo.com/wealth/the-daily-spark/tech-valuations-back-to-pre-ai-boom-levels Comments URL: https://news.ycombinator.com/item?id=47745120 Points: 149 # Comments: 40",
+      "summary": "Article URL: https://www.apollo.com/wealth/the-daily-spark/tech-valuations-back-to-pre-ai-boom-levels Comments URL: https://news.ycombinator.com/item?id=47745120 Points: 149 # Comments: 41",
       "source": "Hacker News",
       "published": "2026-04-12T22:13:22+00:00",
       "link": "https://www.apollo.com/wealth/the-daily-spark/tech-valuations-back-to-pre-ai-boom-levels"
@@ -514,14 +521,14 @@ const FEED_DATA = {
     },
     {
       "title": "European AI. A playbook to own it",
-      "summary": "Article URL: https://europe.mistral.ai/ Comments URL: https://news.ycombinator.com/item?id=47743700 Points: 200 # Comments: 133",
+      "summary": "Article URL: https://europe.mistral.ai/ Comments URL: https://news.ycombinator.com/item?id=47743700 Points: 200 # Comments: 134",
       "source": "Hacker News",
       "published": "2026-04-12T19:51:06+00:00",
       "link": "https://europe.mistral.ai/"
     },
     {
       "title": "Bouncer: Block \"crypto\", \"rage politics\", and more from your X feed using AI",
-      "summary": "Article URL: https://github.com/imbue-ai/bouncer Comments URL: https://news.ycombinator.com/item?id=47741531 Points: 53 # Comments: 113",
+      "summary": "Article URL: https://github.com/imbue-ai/bouncer Comments URL: https://news.ycombinator.com/item?id=47741531 Points: 53 # Comments: 114",
       "source": "Hacker News",
       "published": "2026-04-12T16:24:46+00:00",
       "link": "https://github.com/imbue-ai/bouncer"
@@ -556,7 +563,7 @@ const FEED_DATA = {
     },
     {
       "title": "Why AI Sucks at Front End",
-      "summary": "Article URL: https://nerdy.dev/why-ai-sucks-at-front-end Comments URL: https://news.ycombinator.com/item?id=47738864 Points: 121 # Comments: 167",
+      "summary": "Article URL: https://nerdy.dev/why-ai-sucks-at-front-end Comments URL: https://news.ycombinator.com/item?id=47738864 Points: 122 # Comments: 167",
       "source": "Hacker News",
       "published": "2026-04-12T12:26:09+00:00",
       "link": "https://nerdy.dev/why-ai-sucks-at-front-end"
@@ -591,7 +598,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI Will Be Met with Violence, and Nothing Good Will Come of It",
-      "summary": "Article URL: https://www.thealgorithmicbridge.com/p/ai-will-be-met-with-violence-and Comments URL: https://news.ycombinator.com/item?id=47737563 Points: 346 # Comments: 625",
+      "summary": "Article URL: https://www.thealgorithmicbridge.com/p/ai-will-be-met-with-violence-and Comments URL: https://news.ycombinator.com/item?id=47737563 Points: 346 # Comments: 626",
       "source": "Hacker News",
       "published": "2026-04-12T09:16:35+00:00",
       "link": "https://www.thealgorithmicbridge.com/p/ai-will-be-met-with-violence-and"
@@ -1393,13 +1400,6 @@ const FEED_DATA = {
       "source": "AI News",
       "published": "2026-04-08T10:43:00+00:00",
       "link": "https://www.artificialintelligence-news.com/news/ai-workflows-developer-success-and-central-project-management-needs/"
-    },
-    {
-      "title": "Microsoft open-source toolkit secures AI agents at runtime",
-      "summary": "A new open-source toolkit from Microsoft focuses on runtime security to force strict governance onto enterprise AI agents.",
-      "source": "AI News",
-      "published": "2026-04-08T10:23:53+00:00",
-      "link": "https://www.artificialintelligence-news.com/news/microsoft-open-source-toolkit-secures-ai-agents-at-runtime/"
     }
   ]
 };
