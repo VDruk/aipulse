@@ -1,6 +1,20 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-04-15T06:55:04.583735+00:00",
+  "lastUpdated": "2026-04-15T10:05:07.620121+00:00",
   "items": [
+    {
+      "title": "The US-China AI gap closed. The responsible AI gap didn’t",
+      "summary": "The assumption that the US holds a durable lead in AI model performance is not well-supported by the data, and that is just one of the uncomfortable findings in Stanford University’s 2026 AI Index Report, published this week.",
+      "source": "AI News",
+      "published": "2026-04-15T10:00:00+00:00",
+      "link": "https://www.artificialintelligence-news.com/news/ai-safety-benchmarks-stanford-hai-2026-report/"
+    },
+    {
+      "title": "OpenAI releases GPT-5.4-Cyber, a model built specifically for defensive cybersecurity",
+      "summary": "OpenAI releases GPT-5.4-Cyber, a model that has been specifically trained for defensive cyber security. Access remains restricted to verified security experts for the time being.",
+      "source": "The Decoder",
+      "published": "2026-04-15T09:50:02+00:00",
+      "link": "https://the-decoder.com/openai-releases-gpt-5-4-cyber-a-model-built-specifically-for-defensive-cybersecurity/"
+    },
     {
       "title": "Building trust in the AI era with privacy-led UX",
       "summary": "The practice of privacy-led user experience (UX) is a design philosophy that treats transparency around data collection and usage as an integral part of the customer relationship.",
@@ -59,7 +73,7 @@ const FEED_DATA = {
     },
     {
       "title": "Turn your best AI prompts into one-click tools in Chrome",
-      "summary": "Article URL: https://blog.google/products-and-platforms/products/chrome/skills-in-chrome/ Comments URL: https://news.ycombinator.com/item?id=47768339 Points: 148 # Comments: 73",
+      "summary": "Article URL: https://blog.google/products-and-platforms/products/chrome/skills-in-chrome/ Comments URL: https://news.ycombinator.com/item?id=47768339 Points: 162 # Comments: 82",
       "source": "Hacker News",
       "published": "2026-04-14T17:09:43+00:00",
       "link": "https://blog.google/products-and-platforms/products/chrome/skills-in-chrome/"
@@ -129,7 +143,7 @@ const FEED_DATA = {
     },
     {
       "title": "Schools Never Taught Critical Thinking: AI Exposed the Lie",
-      "summary": "Article URL: https://smarterarticles.co.uk/ai-exposed-the-lie-schools-never-taught-critical-thinking Comments URL: https://news.ycombinator.com/item?id=47766144 Points: 63 # Comments: 86",
+      "summary": "Article URL: https://smarterarticles.co.uk/ai-exposed-the-lie-schools-never-taught-critical-thinking Comments URL: https://news.ycombinator.com/item?id=47766144 Points: 64 # Comments: 86",
       "source": "Hacker News",
       "published": "2026-04-14T14:29:55+00:00",
       "link": "https://smarterarticles.co.uk/ai-exposed-the-lie-schools-never-taught-critical-thinking"
@@ -234,7 +248,7 @@ const FEED_DATA = {
     },
     {
       "title": "An AI Vibe Coding Horror Story",
-      "summary": "Article URL: https://www.tobru.ch/an-ai-vibe-coding-horror-story/ Comments URL: https://news.ycombinator.com/item?id=47762901 Points: 205 # Comments: 202",
+      "summary": "Article URL: https://www.tobru.ch/an-ai-vibe-coding-horror-story/ Comments URL: https://news.ycombinator.com/item?id=47762901 Points: 207 # Comments: 205",
       "source": "Hacker News",
       "published": "2026-04-14T08:35:45+00:00",
       "link": "https://www.tobru.ch/an-ai-vibe-coding-horror-story/"
@@ -269,7 +283,7 @@ const FEED_DATA = {
     },
     {
       "title": "The AI revolution in math has arrived",
-      "summary": "Article URL: https://www.quantamagazine.org/the-ai-revolution-in-math-has-arrived-20260413/ Comments URL: https://news.ycombinator.com/item?id=47759292 Points: 111 # Comments: 60",
+      "summary": "Article URL: https://www.quantamagazine.org/the-ai-revolution-in-math-has-arrived-20260413/ Comments URL: https://news.ycombinator.com/item?id=47759292 Points: 112 # Comments: 60",
       "source": "Hacker News",
       "published": "2026-04-13T23:26:04+00:00",
       "link": "https://www.quantamagazine.org/the-ai-revolution-in-math-has-arrived-20260413/"
@@ -283,7 +297,7 @@ const FEED_DATA = {
     },
     {
       "title": "The tech jobs bust is real. Don't blame AI (yet)",
-      "summary": "Article URL: https://economist.com/finance-and-economics/2026/04/13/the-tech-jobs-bust-is-real-dont-blame-ai-yet Comments URL: https://news.ycombinator.com/item?id=47757775 Points: 115 # Comments: 193",
+      "summary": "Article URL: https://economist.com/finance-and-economics/2026/04/13/the-tech-jobs-bust-is-real-dont-blame-ai-yet Comments URL: https://news.ycombinator.com/item?id=47757775 Points: 116 # Comments: 193",
       "source": "Hacker News",
       "published": "2026-04-13T21:02:21+00:00",
       "link": "https://economist.com/finance-and-economics/2026/04/13/the-tech-jobs-bust-is-real-dont-blame-ai-yet"
@@ -297,7 +311,7 @@ const FEED_DATA = {
     },
     {
       "title": "GAIA – Open-source framework for building AI agents that run on local hardware",
-      "summary": "Article URL: https://amd-gaia.ai/docs Comments URL: https://news.ycombinator.com/item?id=47756772 Points: 149 # Comments: 33",
+      "summary": "Article URL: https://amd-gaia.ai/docs Comments URL: https://news.ycombinator.com/item?id=47756772 Points: 152 # Comments: 34",
       "source": "Hacker News",
       "published": "2026-04-13T19:28:41+00:00",
       "link": "https://amd-gaia.ai/docs"
@@ -416,7 +430,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI could be the end of the digital wave, not the next big thing",
-      "summary": "Article URL: https://thenextwavefutures.wordpress.com/2026/04/07/ai-end-digital-wave-technology-innovation-perez/ Comments URL: https://news.ycombinator.com/item?id=47751032 Points: 183 # Comments: 267",
+      "summary": "Article URL: https://thenextwavefutures.wordpress.com/2026/04/07/ai-end-digital-wave-technology-innovation-perez/ Comments URL: https://news.ycombinator.com/item?id=47751032 Points: 183 # Comments: 270",
       "source": "Hacker News",
       "published": "2026-04-13T12:29:39+00:00",
       "link": "https://thenextwavefutures.wordpress.com/2026/04/07/ai-end-digital-wave-technology-innovation-perez/"
@@ -507,7 +521,7 @@ const FEED_DATA = {
     },
     {
       "title": "Apple's accidental moat: How the \"AI Loser\" may end up winning",
-      "summary": "Article URL: https://adlrocha.substack.com/p/adlrocha-how-the-ai-loser-may-end Comments URL: https://news.ycombinator.com/item?id=47747017 Points: 427 # Comments: 377",
+      "summary": "Article URL: https://adlrocha.substack.com/p/adlrocha-how-the-ai-loser-may-end Comments URL: https://news.ycombinator.com/item?id=47747017 Points: 427 # Comments: 378",
       "source": "Hacker News",
       "published": "2026-04-13T02:53:10+00:00",
       "link": "https://adlrocha.substack.com/p/adlrocha-how-the-ai-loser-may-end"
@@ -570,7 +584,7 @@ const FEED_DATA = {
     },
     {
       "title": "Why AI Sucks at Front End",
-      "summary": "Article URL: https://nerdy.dev/why-ai-sucks-at-front-end Comments URL: https://news.ycombinator.com/item?id=47738864 Points: 122 # Comments: 167",
+      "summary": "Article URL: https://nerdy.dev/why-ai-sucks-at-front-end Comments URL: https://news.ycombinator.com/item?id=47738864 Points: 123 # Comments: 167",
       "source": "Hacker News",
       "published": "2026-04-12T12:26:09+00:00",
       "link": "https://nerdy.dev/why-ai-sucks-at-front-end"
@@ -1386,20 +1400,6 @@ const FEED_DATA = {
       "source": "MIT Tech Review",
       "published": "2026-04-08T12:10:00+00:00",
       "link": "https://www.technologyreview.com/2026/04/08/1135405/the-download-water-threats-iran-ais-impact-on-entrepreneurs-make/"
-    },
-    {
-      "title": "Unionized ProPublica staff are on strike over AI, layoffs, and wages",
-      "summary": "Unionized staff at ProPublica, one of the country's leading nonprofit newsrooms, are walking off the job for 24 hours beginning Wednesday and asking the public to honor a digital picket line.",
-      "source": "The Verge",
-      "published": "2026-04-08T11:53:28+00:00",
-      "link": "https://www.theverge.com/news/908401/propublica-union-strike-negotiations-ai-layoffs"
-    },
-    {
-      "title": "Musk updates OpenAI lawsuit to redirect potential $150B in damages to the nonprofit foundation",
-      "summary": "Elon Musk says he doesn't want a penny for himself: He's amended his lawsuit against OpenAI so that potential billions in damages would go to the charitable foundation instead.",
-      "source": "The Decoder",
-      "published": "2026-04-08T10:50:36+00:00",
-      "link": "https://the-decoder.com/musk-updates-openai-lawsuit-to-redirect-potential-150b-in-damages-to-the-nonprofit-foundation/"
     }
   ]
 };
