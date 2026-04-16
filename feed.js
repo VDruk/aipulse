@@ -1,6 +1,118 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-04-16T10:04:49.606237+00:00",
+  "lastUpdated": "2026-04-16T14:57:45.260612+00:00",
   "items": [
+    {
+      "title": "Bytedance rolls out Seedance 2.0 to 100+ countries but keeps the US off the list",
+      "summary": "Bytedance is rolling out its AI video model Seedance 2.0 to over 100 countries—but the US isn't one of them, likely due to ongoing copyright disputes with Hollywood studios.",
+      "source": "The Decoder",
+      "published": "2026-04-16T14:39:45+00:00",
+      "link": "https://the-decoder.com/bytedance-rolls-out-seedance-2-0-to-100-countries-but-keeps-the-us-off-the-list/"
+    },
+    {
+      "title": "Runway CEO says AI could help Hollywood make 50 films instead of one $100M blockbuster",
+      "summary": "Runway’s CEO says AI could help studios make dozens of films for the cost of one, betting volume will boost hit-making odds.",
+      "source": "TechCrunch",
+      "published": "2026-04-16T14:14:29+00:00",
+      "link": "https://techcrunch.com/2026/04/16/runway-ceo-says-ai-could-help-hollywood-make-50-films-instead-of-one-100m-blockbuster/"
+    },
+    {
+      "title": "Ronan Farrow on Sam Altman’s ‘unconstrained’ relationship with the truth",
+      "summary": "Today on Decoder, I’m talking with Ronan Farrow, one of the biggest stars of investigative reporting working today. He broke the Harvey Weinstein story, among many, many others.",
+      "source": "The Verge",
+      "published": "2026-04-16T14:00:00+00:00",
+      "link": "https://www.theverge.com/podcast/911753/sam-altman-openai-ronan-farrow-new-yorker-feature-trust-liar-ai-industry"
+    },
+    {
+      "title": "Character.AI’s new Books mode turns reading into roleplay",
+      "summary": "Mired in controversy and legal woes over concerns about its chatbots' interactions with users, particularly teens, Character.AI seems to be playing it safer with a new \"Books\" mode.",
+      "source": "The Verge",
+      "published": "2026-04-16T14:00:00+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/912997/character-ai-books-mode"
+    },
+    {
+      "title": "Anthropic Plots Major London Expansion",
+      "summary": "As tensions with the US government mount, Anthropic has leased a new office with enough space to quadruple its 200-person head count in London.",
+      "source": "Wired",
+      "published": "2026-04-16T13:49:35+00:00",
+      "link": "https://www.wired.com/story/anthropic-plots-major-london-expansion/"
+    },
+    {
+      "title": "Meta raises Quest 3 and Quest 3S prices due to RAM shortage",
+      "summary": "Starting April 19, the price of the Meta Quest 3S (128GB) and Meta Quest 3S (256GB) will go up by $50 to $349.99 and $449.99, respectively. The price of the Meta Quest 3 is going up by $100 to $599.99.",
+      "source": "TechCrunch",
+      "published": "2026-04-16T13:49:32+00:00",
+      "link": "https://techcrunch.com/2026/04/16/meta-raises-quest-3-and-quest-3s-prices-due-to-ram-shortage/"
+    },
+    {
+      "title": "Canva’s AI 2.0 update goes all in on prompt-powered design tools",
+      "summary": "Canva has overhauled its design and workspace suite as it attempts to become the ultimate centralized hub for AI-powered content creation.",
+      "source": "The Verge",
+      "published": "2026-04-16T13:07:09+00:00",
+      "link": "https://www.theverge.com/tech/913068/canva-ai-2-update-prompt-based-editing-availability"
+    },
+    {
+      "title": "Canva’s AI assistant can now call various tools to make designs for you",
+      "summary": "The latest version of Canva's AI assistant lets users create editable designs with text prompts.",
+      "source": "TechCrunch",
+      "published": "2026-04-16T13:00:00+00:00",
+      "link": "https://techcrunch.com/2026/04/16/canvas-ai-assistant-can-now-call-various-tools-to-make-designs-for-you/"
+    },
+    {
+      "title": "Making AI operational in constrained public sector environments",
+      "summary": "The AI boom has hit across industries, and public sector organizations are facing pressure to accelerate adoption. At the same time, government institutions face distinct constraints around security, governance, and operations that set them apart from their business counterparts.",
+      "source": "MIT Tech Review",
+      "published": "2026-04-16T13:00:00+00:00",
+      "link": "https://www.technologyreview.com/2026/04/16/1135216/making-ai-operational-in-constrained-public-sector-environments/"
+    },
+    {
+      "title": "Treating enterprise AI as an operating layer",
+      "summary": "There’s a fault line running through enterprise AI, and it’s not the one getting the most attention. The public conversation still tracks foundation models and benchmarks — GPT versus Gemini, reasoning scores, and marginal capability gains.",
+      "source": "MIT Tech Review",
+      "published": "2026-04-16T13:00:00+00:00",
+      "link": "https://www.technologyreview.com/2026/04/16/1135554/treating-enterprise-ai-as-an-operating-layer/"
+    },
+    {
+      "title": "5 top cloud migration software for Infrastructure as Code (IaC)",
+      "summary": "Cloud migration becomes much harder when teams are not moving workloads, but also trying to make every environment reproducible and deployment-ready through Infrastructure as Code. The challenge is not limited to copying applications from one platform to another.",
+      "source": "AI News",
+      "published": "2026-04-16T12:30:30+00:00",
+      "link": "https://www.artificialintelligence-news.com/news/5-top-cloud-migration-software-for-infrastructure-as-code-iac/"
+    },
+    {
+      "title": "This simulation startup wants to be the Cursor for physical AI",
+      "summary": "Antioch raised a $8.5 million seed round to create simulation tools for a new generation of robot builders.",
+      "source": "TechCrunch",
+      "published": "2026-04-16T12:30:00+00:00",
+      "link": "https://techcrunch.com/2026/04/16/this-simulation-startup-wants-to-be-the-cursor-for-physical-ai/"
+    },
+    {
+      "title": "The Download: cyberscammers’ banking bypasses, and carbon removal troubles",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.",
+      "source": "MIT Tech Review",
+      "published": "2026-04-16T12:10:00+00:00",
+      "link": "https://www.technologyreview.com/2026/04/16/1136034/the-download-cyberscammers-banking-bypasses-microsoft-carbon-removal-troubles/"
+    },
+    {
+      "title": "Why having “humans in the loop” in an AI war is an illusion",
+      "summary": "The availability of artificial intelligence for use in warfare is at the center of a legal battle between Anthropic and the Pentagon. This debate has become urgent, with AI playing a bigger role than ever before in the current conflict with Iran.",
+      "source": "MIT Tech Review",
+      "published": "2026-04-16T12:00:00+00:00",
+      "link": "https://www.technologyreview.com/2026/04/16/1136029/humans-in-the-loop-ai-war-illusion/"
+    },
+    {
+      "title": "OpenAI Agents SDK improves governance with sandbox execution",
+      "summary": "OpenAI is introducing sandbox execution that allows enterprise governance teams to deploy automated workflows with controlled risk. Teams taking systems from prototype to production have faced difficult architectural compromises regarding where their operations occurred.",
+      "source": "AI News",
+      "published": "2026-04-16T11:20:00+00:00",
+      "link": "https://www.artificialintelligence-news.com/news/openai-agents-sdk-improves-governance-sandbox-execution/"
+    },
+    {
+      "title": "The quest to measure our relationship with nature",
+      "summary": "As a movement, environmentalism has been pretty misanthropic. Understandably so—we humans have done some destructive things to the ecosystems around us.",
+      "source": "MIT Tech Review",
+      "published": "2026-04-16T10:00:00+00:00",
+      "link": "https://www.technologyreview.com/2026/04/16/1135245/measure-relationship-with-nature-index/"
+    },
     {
       "title": "Cadence expands AI and robotic partnerships with Nvidia, Google Cloud",
       "summary": "Cadence Design Systems announced two AI-related collaborations at its CadenceLIVE event this week, expanding its work with Nvidia and introducing new integrations with Google Cloud.",
@@ -457,13 +569,6 @@ const FEED_DATA = {
       "link": "https://the-decoder.com/claude-code-routines-let-ai-fix-bugs-and-review-code-on-autopilot/"
     },
     {
-      "title": "Google adds AI Skills to Chrome to help you save favorite workflows",
-      "summary": "Google is adding “Skills” to Chrome, letting users save and reuse AI prompts across websites. The feature builds on Gemini’s browser integration.",
-      "source": "TechCrunch",
-      "published": "2026-04-14T17:00:00+00:00",
-      "link": "https://techcrunch.com/2026/04/14/google-adds-ai-skills-to-chrome-to-help-you-save-favorite-workflows/"
-    },
-    {
       "title": "Chrome now lets you turn AI prompts into repeatable ‘Skills’",
       "summary": "Google is launching a new Chrome workflow feature that allows you to reuse your favorite Gemini commands across multiple webpages. Any AI prompts can now be saved as \"Skills\" in the Chrome desktop browser, letting you instantly run them across any tabs you select.",
       "source": "The Verge",
@@ -476,6 +581,13 @@ const FEED_DATA = {
       "source": "Wired",
       "published": "2026-04-14T17:00:00+00:00",
       "link": "https://www.wired.com/story/how-to-use-google-chrome-ai-powered-skills/"
+    },
+    {
+      "title": "Google adds AI Skills to Chrome to help you save favorite workflows",
+      "summary": "Google is adding “Skills” to Chrome, letting users save and reuse AI prompts across websites. The feature builds on Gemini’s browser integration.",
+      "source": "TechCrunch",
+      "published": "2026-04-14T17:00:00+00:00",
+      "link": "https://techcrunch.com/2026/04/14/google-adds-ai-skills-to-chrome-to-help-you-save-favorite-workflows/"
     },
     {
       "title": "Ukraine captures a Russian position using only drones and ground robots",
@@ -1288,118 +1400,6 @@ const FEED_DATA = {
       "source": "Wired",
       "published": "2026-04-10T09:30:00+00:00",
       "link": "https://www.wired.com/story/metas-new-ai-asked-for-my-raw-health-data-and-gave-me-terrible-advice/"
-    },
-    {
-      "title": "Microsoft starts removing Copilot buttons from Windows 11 apps",
-      "summary": "Microsoft is starting to remove \"unnecessary\" Copilot buttons from its Windows 11 apps. In the latest version of the Notepad app for Windows Insiders, Microsoft has removed the Copilot button in favor of a \"writing tools\" menu.",
-      "source": "The Verge",
-      "published": "2026-04-10T09:22:06+00:00",
-      "link": "https://www.theverge.com/news/909640/microsoft-removing-copilot-windows-11-buttons"
-    },
-    {
-      "title": "OpenAI is building a cybersecurity product for a select group of companies",
-      "summary": "According to Axios, OpenAI is working on a new cybersecurity product that will only be available to a small group of companies. The article OpenAI is building a cybersecurity product for a select group of companies appeared first on The Decoder.",
-      "source": "The Decoder",
-      "published": "2026-04-10T09:06:26+00:00",
-      "link": "https://the-decoder.com/openai-is-building-a-cybersecurity-product-for-a-select-group-of-companies/"
-    },
-    {
-      "title": "Scientists invented a fake disease. AI told people it was real",
-      "summary": "Article URL: https://www.nature.com/articles/d41586-026-01100-y Comments URL: https://news.ycombinator.com/item?id=47715291 Points: 94 # Comments: 93",
-      "source": "Hacker News",
-      "published": "2026-04-10T08:44:37+00:00",
-      "link": "https://www.nature.com/articles/d41586-026-01100-y"
-    },
-    {
-      "title": "Meta has a competitive AI model but loses its open-source identity",
-      "summary": "The open-source AI movement has never lacked for options. Mistral, Falcon, and a growing field of open-weight models have been available to developers for years.",
-      "source": "AI News",
-      "published": "2026-04-10T08:00:00+00:00",
-      "link": "https://www.artificialintelligence-news.com/news/meta-muse-spark-ai-model-open-source/"
-    },
-    {
-      "title": "OpenAI Backs Bill That Would Limit Liability for AI-Enabled Mass Deaths or Financial Disasters",
-      "summary": "The ChatGPT-maker testified in favor of an Illinois bill that would limit when AI labs can be held liable—even in cases where their products cause “critical harm.”",
-      "source": "Wired",
-      "published": "2026-04-10T00:19:53+00:00",
-      "link": "https://www.wired.com/story/openai-backs-bill-exempt-ai-firms-model-harm-lawsuits/"
-    },
-    {
-      "title": "ChatGPT has a new $100 per month Pro subscription",
-      "summary": "OpenAI has announced a new version of its ChatGPT Pro subscription that costs $100 per month. The new Pro tier offers \"5x more\" usage of its Codex coding tool than the $20 per month Plus subscription and \"is best for longer, high-effort Codex sessions,\" OpenAI says.",
-      "source": "The Verge",
-      "published": "2026-04-09T22:57:15+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/909599/chatgpt-pro-subscription-new"
-    },
-    {
-      "title": "Florida launches investigation into OpenAI",
-      "summary": "Florida Attorney General James Uthmeier is launching an investigation into OpenAI over public safety and national security risks, as reported earlier by Reuters.",
-      "source": "The Verge",
-      "published": "2026-04-09T22:17:06+00:00",
-      "link": "https://www.theverge.com/policy/909557/openai-florida-investigation"
-    },
-    {
-      "title": "ChatGPT finally offers $100/month Pro plan",
-      "summary": "OpenAI announced on Thursday something that power users have been asking for: a $100/month plan. Previously, subscriptions jumped from $20 to $200 per month.",
-      "source": "TechCrunch",
-      "published": "2026-04-09T21:29:11+00:00",
-      "link": "https://techcrunch.com/2026/04/09/chatgpt-pro-plan-100-month-codex/"
-    },
-    {
-      "title": "US defense official overseeing AI reaped millions selling xAI stock",
-      "summary": "Article URL: https://www.theguardian.com/us-news/2026/apr/09/pentagon-ai-xai-emil-michael Comments URL: https://news.ycombinator.com/item?id=47709197 Points: 58 # Comments: 11",
-      "source": "Hacker News",
-      "published": "2026-04-09T20:14:23+00:00",
-      "link": "https://www.theguardian.com/us-news/2026/apr/09/pentagon-ai-xai-emil-michael"
-    },
-    {
-      "title": "Florida AG announces investigation into OpenAI over shooting that allegedly involved ChatGPT",
-      "summary": "ChatGPT had reportedly been used to plan the attack that killed two and injured five at Florida State University last April. The family of one victim has said that they plan to sue OpenAI over the incident.",
-      "source": "TechCrunch",
-      "published": "2026-04-09T20:11:55+00:00",
-      "link": "https://techcrunch.com/2026/04/09/florida-ag-investigation-openai-chatgpt-shooting/"
-    },
-    {
-      "title": "Meta AI app climbs to No. 5 on the App Store after Muse Spark launch",
-      "summary": "The app was ranking No. 57 on the App Store just before Meta AI's new model launched.",
-      "source": "TechCrunch",
-      "published": "2026-04-09T19:10:07+00:00",
-      "link": "https://techcrunch.com/2026/04/09/meta-ai-app-climbs-to-no-5-on-the-app-store-after-muse-spark-launch/"
-    },
-    {
-      "title": "Is Anthropic limiting the release of Mythos to protect the internet — or Anthropic?",
-      "summary": "Anthropic said this week that it limited the release of its newest model, dubbed Mythos, because it is too capable of finding security exploits in software relied upon by users around the world. Are real cybersecurity concerns a cover for a bigger problem at the frontier lab?",
-      "source": "TechCrunch",
-      "published": "2026-04-09T18:50:05+00:00",
-      "link": "https://techcrunch.com/2026/04/09/is-anthropic-limiting-the-release-of-mythos-to-protect-the-internet-or-anthropic/"
-    },
-    {
-      "title": "Claude Cowork expands to all paid plans on macOS and Windows with new org controls",
-      "summary": "Anthropic's AI assistant Claude Cowork launches on all paid plans with new organizational controls and Zoom integration. The article Claude Cowork expands to all paid plans on macOS and Windows with new org controls appeared first on The Decoder.",
-      "source": "The Decoder",
-      "published": "2026-04-09T18:40:08+00:00",
-      "link": "https://the-decoder.com/claude-cowork-expands-to-all-paid-plans-on-macos-and-windows-with-new-org-controls/"
-    },
-    {
-      "title": "Instant 1.0, a backend for AI-coded apps",
-      "summary": "Article URL: https://www.instantdb.com/essays/architecture Comments URL: https://news.ycombinator.com/item?id=47707632 Points: 215 # Comments: 123",
-      "source": "Hacker News",
-      "published": "2026-04-09T18:30:59+00:00",
-      "link": "https://www.instantdb.com/essays/architecture"
-    },
-    {
-      "title": "Google and Intel deepen AI infrastructure partnership",
-      "summary": "The two tech giants are looking to co-develop custom chips, at a time when demand for CPUs is high due to a growing global shortage.",
-      "source": "TechCrunch",
-      "published": "2026-04-09T18:27:47+00:00",
-      "link": "https://techcrunch.com/2026/04/09/google-and-intel-deepen-ai-infrastructure-partnership/"
-    },
-    {
-      "title": "OpenAI halves its Pro price to $100 for heavy Codex users, undercuts Anthropic and Google",
-      "summary": "OpenAI is restructuring its subscription tiers with a new $100-per-month Pro plan. The biggest change: significantly more Codex usage for heavy users at half the price of the old Pro tier.",
-      "source": "The Decoder",
-      "published": "2026-04-09T18:06:29+00:00",
-      "link": "https://the-decoder.com/openai-halves-its-pro-price-to-100-for-heavy-codex-users-undercuts-anthropic-and-google/"
     }
   ]
 };
