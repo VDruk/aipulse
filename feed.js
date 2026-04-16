@@ -1,16 +1,37 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-04-16T06:57:45.563230+00:00",
+  "lastUpdated": "2026-04-16T10:04:49.606237+00:00",
   "items": [
     {
+      "title": "Cadence expands AI and robotic partnerships with Nvidia, Google Cloud",
+      "summary": "Cadence Design Systems announced two AI-related collaborations at its CadenceLIVE event this week, expanding its work with Nvidia and introducing new integrations with Google Cloud.",
+      "source": "AI News",
+      "published": "2026-04-16T10:00:00+00:00",
+      "link": "https://www.artificialintelligence-news.com/news/cadence-expands-ai-and-robotics-partnerships-with-nvidia-google-cloud/"
+    },
+    {
+      "title": "Sal Khan's AI revolution hasn't happened yet",
+      "summary": "Article URL: https://www.chalkbeat.org/2026/04/09/sal-khan-reflects-on-ai-in-schools-and-khanmigo/ Comments URL: https://news.ycombinator.com/item?id=47788845 Points: 51 # Comments: 68",
+      "source": "Hacker News",
+      "published": "2026-04-16T05:05:44+00:00",
+      "link": "https://www.chalkbeat.org/2026/04/09/sal-khan-reflects-on-ai-in-schools-and-khanmigo/"
+    },
+    {
+      "title": "The local LLM ecosystem doesn’t need Ollama",
+      "summary": "Article URL: https://sleepingrobots.com/dreams/stop-using-ollama/ Comments URL: https://news.ycombinator.com/item?id=47788385 Points: 502 # Comments: 142",
+      "source": "Hacker News",
+      "published": "2026-04-16T03:35:11+00:00",
+      "link": "https://sleepingrobots.com/dreams/stop-using-ollama/"
+    },
+    {
       "title": "Amazon AI Cancelling Webcomics",
-      "summary": "Article URL: http://www.kleefeldoncomics.com/2026/04/amazon-ai-cancelling-webcomics.html Comments URL: https://news.ycombinator.com/item?id=47787368 Points: 59 # Comments: 9",
+      "summary": "Article URL: http://www.kleefeldoncomics.com/2026/04/amazon-ai-cancelling-webcomics.html Comments URL: https://news.ycombinator.com/item?id=47787368 Points: 60 # Comments: 10",
       "source": "Hacker News",
       "published": "2026-04-16T00:52:33+00:00",
       "link": "http://www.kleefeldoncomics.com/2026/04/amazon-ai-cancelling-webcomics.html"
     },
     {
       "title": "Does Gas Town 'steal' usage from users' LLM credits to improve itself?",
-      "summary": "Article URL: https://github.com/gastownhall/gastown/issues/3649 Comments URL: https://news.ycombinator.com/item?id=47785053 Points: 229 # Comments: 112",
+      "summary": "Article URL: https://github.com/gastownhall/gastown/issues/3649 Comments URL: https://news.ycombinator.com/item?id=47785053 Points: 235 # Comments: 113",
       "source": "Hacker News",
       "published": "2026-04-15T20:49:48+00:00",
       "link": "https://github.com/gastownhall/gastown/issues/3649"
@@ -122,7 +143,7 @@ const FEED_DATA = {
     },
     {
       "title": "CPUs Aren't Dead. Gemma2B Out Scored GPT-3.5 Turbo on Test That Made It Famous",
-      "summary": "Article URL: https://seqpu.com/CPUsArentDead/ Comments URL: https://news.ycombinator.com/item?id=47781998 Points: 95 # Comments: 46",
+      "summary": "Article URL: https://seqpu.com/CPUsArentDead/ Comments URL: https://news.ycombinator.com/item?id=47781998 Points: 95 # Comments: 47",
       "source": "Hacker News",
       "published": "2026-04-15T17:07:36+00:00",
       "link": "https://seqpu.com/CPUsArentDead/"
@@ -192,14 +213,14 @@ const FEED_DATA = {
     },
     {
       "title": "US v. Heppner (S.D.N.Y. 2026) no attorney-client privilege for AI chats [pdf]",
-      "summary": "Article URL: https://fingfx.thomsonreuters.com/gfx/legaldocs/xmvjyjekkpr/Rakoff%20-%20order%20-%20AI.pdf Comments URL: https://news.ycombinator.com/item?id=47778920 Points: 119 # Comments: 92",
+      "summary": "Article URL: https://fingfx.thomsonreuters.com/gfx/legaldocs/xmvjyjekkpr/Rakoff%20-%20order%20-%20AI.pdf Comments URL: https://news.ycombinator.com/item?id=47778920 Points: 137 # Comments: 98",
       "source": "Hacker News",
       "published": "2026-04-15T13:47:40+00:00",
       "link": "https://fingfx.thomsonreuters.com/gfx/legaldocs/xmvjyjekkpr/Rakoff%20-%20order%20-%20AI.pdf"
     },
     {
       "title": "Allbirds announces pivot from shoes to AI, stock explodes 175%",
-      "summary": "Article URL: https://www.cnbc.com/2026/04/15/allbirds-bird-stock-shoes-ai.html Comments URL: https://news.ycombinator.com/item?id=47778762 Points: 97 # Comments: 33",
+      "summary": "Article URL: https://www.cnbc.com/2026/04/15/allbirds-bird-stock-shoes-ai.html Comments URL: https://news.ycombinator.com/item?id=47778762 Points: 98 # Comments: 33",
       "source": "Hacker News",
       "published": "2026-04-15T13:34:44+00:00",
       "link": "https://www.cnbc.com/2026/04/15/allbirds-bird-stock-shoes-ai.html"
@@ -317,6 +338,13 @@ const FEED_DATA = {
       "link": "https://www.wired.com/story/deepfake-nudify-schools-global-crisis/"
     },
     {
+      "title": "The US-China AI gap closes amid responsible AI concerns",
+      "summary": "The assumption that the US holds a durable lead in AI model performance is not well-supported by the data, and that is just one of the uncomfortable findings in Stanford University’s 2026 AI Index Report, published this week.",
+      "source": "AI News",
+      "published": "2026-04-15T10:00:00+00:00",
+      "link": "https://www.artificialintelligence-news.com/news/ai-safety-benchmarks-stanford-hai-2026-report/"
+    },
+    {
       "title": "The US-China AI gap closed. The responsible AI gap didn’t",
       "summary": "The assumption that the US holds a durable lead in AI model performance is not well-supported by the data, and that is just one of the uncomfortable findings in Stanford University’s 2026 AI Index Report, published this week.",
       "source": "AI News",
@@ -339,7 +367,7 @@ const FEED_DATA = {
     },
     {
       "title": "My AI-Assisted Workflow",
-      "summary": "Article URL: https://www.maiobarbero.dev/articles/ai-assisted-workflow/ Comments URL: https://news.ycombinator.com/item?id=47775653 Points: 86 # Comments: 111",
+      "summary": "Article URL: https://www.maiobarbero.dev/articles/ai-assisted-workflow/ Comments URL: https://news.ycombinator.com/item?id=47775653 Points: 86 # Comments: 113",
       "source": "Hacker News",
       "published": "2026-04-15T07:08:18+00:00",
       "link": "https://www.maiobarbero.dev/articles/ai-assisted-workflow/"
@@ -353,7 +381,7 @@ const FEED_DATA = {
     },
     {
       "title": "Google Gemma 4 Runs Natively on iPhone with Full Offline AI Inference",
-      "summary": "Article URL: https://www.gizmoweek.com/gemma-4-runs-iphone/ Comments URL: https://news.ycombinator.com/item?id=47774971 Points: 278 # Comments: 168",
+      "summary": "Article URL: https://www.gizmoweek.com/gemma-4-runs-iphone/ Comments URL: https://news.ycombinator.com/item?id=47774971 Points: 282 # Comments: 173",
       "source": "Hacker News",
       "published": "2026-04-15T05:19:06+00:00",
       "link": "https://www.gizmoweek.com/gemma-4-runs-iphone/"
@@ -416,7 +444,7 @@ const FEED_DATA = {
     },
     {
       "title": "Turn your best AI prompts into one-click tools in Chrome",
-      "summary": "Article URL: https://blog.google/products-and-platforms/products/chrome/skills-in-chrome/ Comments URL: https://news.ycombinator.com/item?id=47768339 Points: 192 # Comments: 108",
+      "summary": "Article URL: https://blog.google/products-and-platforms/products/chrome/skills-in-chrome/ Comments URL: https://news.ycombinator.com/item?id=47768339 Points: 193 # Comments: 109",
       "source": "Hacker News",
       "published": "2026-04-14T17:09:43+00:00",
       "link": "https://blog.google/products-and-platforms/products/chrome/skills-in-chrome/"
@@ -1372,34 +1400,6 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-04-09T18:06:29+00:00",
       "link": "https://the-decoder.com/openai-halves-its-pro-price-to-100-for-heavy-codex-users-undercuts-anthropic-and-google/"
-    },
-    {
-      "title": "The 70-Person AI Image Startup Taking on Silicon Valley's Giants",
-      "summary": "Black Forest Labs has long punched above its weight in the AI image generation space. Its next move?",
-      "source": "Wired",
-      "published": "2026-04-09T18:00:00+00:00",
-      "link": "https://www.wired.com/story/black-forest-labs-ai-image-generation/"
-    },
-    {
-      "title": "Google’s Gemini AI can answer your questions with 3D models and simulations",
-      "summary": "Google's latest upgrade for Gemini will allow the chatbot to generate interactive 3D models and simulations in response to your questions.",
-      "source": "The Verge",
-      "published": "2026-04-09T17:57:58+00:00",
-      "link": "https://www.theverge.com/tech/909391/google-gemini-ai-3d-models-simulations"
-    },
-    {
-      "title": "Sierra’s Bret Taylor says the era of clicking buttons is over",
-      "summary": "Last month, Sierra launched Ghostwriter, an agent designed to build other agents. With this “agent as a service” tool, the startup intends to replace traditional click-based web applications with natural language.",
-      "source": "TechCrunch",
-      "published": "2026-04-09T17:20:50+00:00",
-      "link": "https://techcrunch.com/2026/04/09/sierras-bret-taylor-says-the-era-of-clicking-buttons-is-over/"
-    },
-    {
-      "title": "Google Gemini now generates interactive visualizations you can tweak and explore right in the chat",
-      "summary": "After Anthropic's Claude, Google Gemini now also generates interactive visualizations directly in the chat. The article Google Gemini now generates interactive visualizations you can tweak and explore right in the chat appeared first on The Decoder.",
-      "source": "The Decoder",
-      "published": "2026-04-09T16:50:39+00:00",
-      "link": "https://the-decoder.com/google-gemini-now-generates-interactive-visualizations-you-can-tweak-and-explore-right-in-the-chat/"
     }
   ]
 };
