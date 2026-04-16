@@ -1,6 +1,20 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-04-15T21:45:34.548433+00:00",
+  "lastUpdated": "2026-04-16T04:15:29.075052+00:00",
   "items": [
+    {
+      "title": "Amazon AI Cancelling Webcomics",
+      "summary": "Article URL: http://www.kleefeldoncomics.com/2026/04/amazon-ai-cancelling-webcomics.html Comments URL: https://news.ycombinator.com/item?id=47787368 Points: 59 # Comments: 8",
+      "source": "Hacker News",
+      "published": "2026-04-16T00:52:33+00:00",
+      "link": "http://www.kleefeldoncomics.com/2026/04/amazon-ai-cancelling-webcomics.html"
+    },
+    {
+      "title": "Does Gas Town 'steal' usage from users' LLM credits to improve itself?",
+      "summary": "Article URL: https://github.com/gastownhall/gastown/issues/3649 Comments URL: https://news.ycombinator.com/item?id=47785053 Points: 224 # Comments: 111",
+      "source": "Hacker News",
+      "published": "2026-04-15T20:49:48+00:00",
+      "link": "https://github.com/gastownhall/gastown/issues/3649"
+    },
     {
       "title": "Trump’s posting even more AI-generated Trump-Jesus fan art",
       "summary": "Hello and welcome to Regulator, a newsletter for Verge subscribers about Big Tech power plays in Washington and beyond.",
@@ -58,6 +72,13 @@ const FEED_DATA = {
       "link": "https://techcrunch.com/2026/04/15/google-rolls-out-a-native-gemini-app-for-mac/"
     },
     {
+      "title": "AI-assisted cognition endangers human development?",
+      "summary": "Article URL: https://heidenstedt.org/posts/2026/ai-assisted-cognition-endangers-human-development/ Comments URL: https://news.ycombinator.com/item?id=47783024 Points: 221 # Comments: 173",
+      "source": "Hacker News",
+      "published": "2026-04-15T18:16:50+00:00",
+      "link": "https://heidenstedt.org/posts/2026/ai-assisted-cognition-endangers-human-development/"
+    },
+    {
       "title": "Google launches a Gemini AI app on Mac",
       "summary": "Google is launching a new Gemini app on Mac that allows you to interact with the AI assistant without switching windows on your desktop.",
       "source": "The Verge",
@@ -100,6 +121,13 @@ const FEED_DATA = {
       "link": "https://techcrunch.com/2026/04/15/indias-vibe-coding-startup-emergent-enters-openclaw-like-ai-agent-space/"
     },
     {
+      "title": "CPUs Aren't Dead. Gemma2B Out Scored GPT-3.5 Turbo on Test That Made It Famous",
+      "summary": "Article URL: https://seqpu.com/CPUsArentDead/ Comments URL: https://news.ycombinator.com/item?id=47781998 Points: 94 # Comments: 46",
+      "source": "Hacker News",
+      "published": "2026-04-15T17:07:36+00:00",
+      "link": "https://seqpu.com/CPUsArentDead/"
+    },
+    {
       "title": "Commvault launches a ‘Ctrl-Z’ for cloud AI workloads",
       "summary": "Enterprise cloud environments now have access to an undo feature for AI agents following the deployment of Commvault AI Protect.",
       "source": "AI News",
@@ -114,6 +142,13 @@ const FEED_DATA = {
       "link": "https://www.theverge.com/news/912484/allbirds-ai-hyperscale"
     },
     {
+      "title": "Show HN: Libretto – Making AI browser automations deterministic",
+      "summary": "Libretto (https://libretto.sh) is a Skill+CLI that makes it easy for your coding agent to generate deterministic browser automations and debug existing ones.",
+      "source": "Hacker News",
+      "published": "2026-04-15T15:57:54+00:00",
+      "link": "https://github.com/saffron-health/libretto"
+    },
+    {
       "title": "Allbirds Is Pivoting to AI Compute. Sure, Why Not",
       "summary": "Once a $4 billion apparel juggernaut, Allbirds will rebrand as NewBird AI, a “GPU-as-a-Service” company. Hey, if you can't beat ’em, join ’em.",
       "source": "Wired",
@@ -122,7 +157,7 @@ const FEED_DATA = {
     },
     {
       "title": "Elevated errors on Claude.ai, API, Claude Code",
-      "summary": "Article URL: https://claudestatus.com/ Comments URL: https://news.ycombinator.com/item?id=47779730 Points: 216 # Comments: 201",
+      "summary": "Article URL: https://claudestatus.com/ Comments URL: https://news.ycombinator.com/item?id=47779730 Points: 242 # Comments: 216",
       "source": "Hacker News",
       "published": "2026-04-15T14:44:00+00:00",
       "link": "https://claudestatus.com/"
@@ -157,14 +192,14 @@ const FEED_DATA = {
     },
     {
       "title": "US v. Heppner (S.D.N.Y. 2026) no attorney-client privilege for AI chats [pdf]",
-      "summary": "Article URL: https://fingfx.thomsonreuters.com/gfx/legaldocs/xmvjyjekkpr/Rakoff%20-%20order%20-%20AI.pdf Comments URL: https://news.ycombinator.com/item?id=47778920 Points: 80 # Comments: 71",
+      "summary": "Article URL: https://fingfx.thomsonreuters.com/gfx/legaldocs/xmvjyjekkpr/Rakoff%20-%20order%20-%20AI.pdf Comments URL: https://news.ycombinator.com/item?id=47778920 Points: 101 # Comments: 83",
       "source": "Hacker News",
       "published": "2026-04-15T13:47:40+00:00",
       "link": "https://fingfx.thomsonreuters.com/gfx/legaldocs/xmvjyjekkpr/Rakoff%20-%20order%20-%20AI.pdf"
     },
     {
       "title": "Allbirds announces pivot from shoes to AI, stock explodes 175%",
-      "summary": "Article URL: https://www.cnbc.com/2026/04/15/allbirds-bird-stock-shoes-ai.html Comments URL: https://news.ycombinator.com/item?id=47778762 Points: 59 # Comments: 23",
+      "summary": "Article URL: https://www.cnbc.com/2026/04/15/allbirds-bird-stock-shoes-ai.html Comments URL: https://news.ycombinator.com/item?id=47778762 Points: 94 # Comments: 33",
       "source": "Hacker News",
       "published": "2026-04-15T13:34:44+00:00",
       "link": "https://www.cnbc.com/2026/04/15/allbirds-bird-stock-shoes-ai.html"
@@ -206,14 +241,21 @@ const FEED_DATA = {
     },
     {
       "title": "AI ruling prompts warnings from US lawyers: Your chats could be used against you",
-      "summary": "Article URL: https://www.reuters.com/legal/government/ai-ruling-prompts-warnings-us-lawyers-your-chats-could-be-used-against-you-2026-04-15/ Comments URL: https://news.ycombinator.com/item?id=47778308 Points: 107 # Comments: 65",
+      "summary": "Article URL: https://www.reuters.com/legal/government/ai-ruling-prompts-warnings-us-lawyers-your-chats-could-be-used-against-you-2026-04-15/ Comments URL: https://news.ycombinator.com/item?id=47778308 Points: 145 # Comments: 96",
       "source": "Hacker News",
       "published": "2026-04-15T12:51:13+00:00",
       "link": "https://www.reuters.com/legal/government/ai-ruling-prompts-warnings-us-lawyers-your-chats-could-be-used-against-you-2026-04-15/"
     },
     {
+      "title": "Study: Back-to-basics approach can match or outperform AI in language analysis",
+      "summary": "Article URL: https://www.manchester.ac.uk/about/news/back-to-basics-approach-can-match-or-outperform-ai/ Comments URL: https://news.ycombinator.com/item?id=47778050 Points: 51 # Comments: 25",
+      "source": "Hacker News",
+      "published": "2026-04-15T12:21:47+00:00",
+      "link": "https://www.manchester.ac.uk/about/news/back-to-basics-approach-can-match-or-outperform-ai/"
+    },
+    {
       "title": "Allbirds, Inc. Announces Expansion into AI Compute Infrastructure",
-      "summary": "Article URL: https://ir.allbirds.com/news-releases/news-release-details/allbirds-inc-executes-50m-convertible-financing-facility Comments URL: https://news.ycombinator.com/item?id=47778038 Points: 67 # Comments: 60",
+      "summary": "Article URL: https://ir.allbirds.com/news-releases/news-release-details/allbirds-inc-executes-50m-convertible-financing-facility Comments URL: https://news.ycombinator.com/item?id=47778038 Points: 83 # Comments: 70",
       "source": "Hacker News",
       "published": "2026-04-15T12:20:13+00:00",
       "link": "https://ir.allbirds.com/news-releases/news-release-details/allbirds-inc-executes-50m-convertible-financing-facility"
@@ -297,7 +339,7 @@ const FEED_DATA = {
     },
     {
       "title": "My AI-Assisted Workflow",
-      "summary": "Article URL: https://www.maiobarbero.dev/articles/ai-assisted-workflow/ Comments URL: https://news.ycombinator.com/item?id=47775653 Points: 75 # Comments: 100",
+      "summary": "Article URL: https://www.maiobarbero.dev/articles/ai-assisted-workflow/ Comments URL: https://news.ycombinator.com/item?id=47775653 Points: 84 # Comments: 111",
       "source": "Hacker News",
       "published": "2026-04-15T07:08:18+00:00",
       "link": "https://www.maiobarbero.dev/articles/ai-assisted-workflow/"
@@ -311,7 +353,7 @@ const FEED_DATA = {
     },
     {
       "title": "Google Gemma 4 Runs Natively on iPhone with Full Offline AI Inference",
-      "summary": "Article URL: https://www.gizmoweek.com/gemma-4-runs-iphone/ Comments URL: https://news.ycombinator.com/item?id=47774971 Points: 220 # Comments: 150",
+      "summary": "Article URL: https://www.gizmoweek.com/gemma-4-runs-iphone/ Comments URL: https://news.ycombinator.com/item?id=47774971 Points: 275 # Comments: 168",
       "source": "Hacker News",
       "published": "2026-04-15T05:19:06+00:00",
       "link": "https://www.gizmoweek.com/gemma-4-runs-iphone/"
@@ -325,7 +367,7 @@ const FEED_DATA = {
     },
     {
       "title": "What Claude Code's Source Revealed About AI Engineering Culture",
-      "summary": "Article URL: https://techtrenches.dev/p/the-snake-that-ate-itself-what-claude Comments URL: https://news.ycombinator.com/item?id=47772282 Points: 60 # Comments: 37",
+      "summary": "Article URL: https://techtrenches.dev/p/the-snake-that-ate-itself-what-claude Comments URL: https://news.ycombinator.com/item?id=47772282 Points: 72 # Comments: 49",
       "source": "Hacker News",
       "published": "2026-04-14T22:27:53+00:00",
       "link": "https://techtrenches.dev/p/the-snake-that-ate-itself-what-claude"
@@ -374,7 +416,7 @@ const FEED_DATA = {
     },
     {
       "title": "Turn your best AI prompts into one-click tools in Chrome",
-      "summary": "Article URL: https://blog.google/products-and-platforms/products/chrome/skills-in-chrome/ Comments URL: https://news.ycombinator.com/item?id=47768339 Points: 187 # Comments: 104",
+      "summary": "Article URL: https://blog.google/products-and-platforms/products/chrome/skills-in-chrome/ Comments URL: https://news.ycombinator.com/item?id=47768339 Points: 192 # Comments: 108",
       "source": "Hacker News",
       "published": "2026-04-14T17:09:43+00:00",
       "link": "https://blog.google/products-and-platforms/products/chrome/skills-in-chrome/"
@@ -423,7 +465,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI will never be ethical or safe",
-      "summary": "Article URL: https://meiert.com/blog/ai-ethics-and-safety/ Comments URL: https://news.ycombinator.com/item?id=47766960 Points: 60 # Comments: 31",
+      "summary": "Article URL: https://meiert.com/blog/ai-ethics-and-safety/ Comments URL: https://news.ycombinator.com/item?id=47766960 Points: 60 # Comments: 32",
       "source": "Hacker News",
       "published": "2026-04-14T15:30:48+00:00",
       "link": "https://meiert.com/blog/ai-ethics-and-safety/"
@@ -479,7 +521,7 @@ const FEED_DATA = {
     },
     {
       "title": "Two Months After I Gave an AI $100 and No Instructions",
-      "summary": "Article URL: https://www.sebastian-jais.de/blog/two-months-alma-experiment Comments URL: https://news.ycombinator.com/item?id=47765458 Points: 92 # Comments: 111",
+      "summary": "Article URL: https://www.sebastian-jais.de/blog/two-months-alma-experiment Comments URL: https://news.ycombinator.com/item?id=47765458 Points: 92 # Comments: 113",
       "source": "Hacker News",
       "published": "2026-04-14T13:34:24+00:00",
       "link": "https://www.sebastian-jais.de/blog/two-months-alma-experiment"
@@ -549,7 +591,7 @@ const FEED_DATA = {
     },
     {
       "title": "An AI Vibe Coding Horror Story",
-      "summary": "Article URL: https://www.tobru.ch/an-ai-vibe-coding-horror-story/ Comments URL: https://news.ycombinator.com/item?id=47762901 Points: 210 # Comments: 210",
+      "summary": "Article URL: https://www.tobru.ch/an-ai-vibe-coding-horror-story/ Comments URL: https://news.ycombinator.com/item?id=47762901 Points: 211 # Comments: 210",
       "source": "Hacker News",
       "published": "2026-04-14T08:35:45+00:00",
       "link": "https://www.tobru.ch/an-ai-vibe-coding-horror-story/"
@@ -584,7 +626,7 @@ const FEED_DATA = {
     },
     {
       "title": "The AI revolution in math has arrived",
-      "summary": "Article URL: https://www.quantamagazine.org/the-ai-revolution-in-math-has-arrived-20260413/ Comments URL: https://news.ycombinator.com/item?id=47759292 Points: 115 # Comments: 60",
+      "summary": "Article URL: https://www.quantamagazine.org/the-ai-revolution-in-math-has-arrived-20260413/ Comments URL: https://news.ycombinator.com/item?id=47759292 Points: 115 # Comments: 61",
       "source": "Hacker News",
       "published": "2026-04-13T23:26:04+00:00",
       "link": "https://www.quantamagazine.org/the-ai-revolution-in-math-has-arrived-20260413/"
@@ -1358,48 +1400,6 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-04-09T16:50:39+00:00",
       "link": "https://the-decoder.com/google-gemini-now-generates-interactive-visualizations-you-can-tweak-and-explore-right-in-the-chat/"
-    },
-    {
-      "title": "Agentic AI’s governance challenges under the EU AI Act in 2026",
-      "summary": "AI agents hold the promise of automatically moving data between systems and triggering decisions, but in some cases, they can act without a clear record of what, when, and why they undertook their tasks.",
-      "source": "AI News",
-      "published": "2026-04-09T15:02:00+00:00",
-      "link": "https://www.artificialintelligence-news.com/news/agentic-ais-governance-challenges-under-the-eu-ai-act-in-2026/"
-    },
-    {
-      "title": "Study found that young adults have grown less hopeful and more angry about AI",
-      "summary": "Article URL: https://www.nytimes.com/2026/04/09/style/gen-z-ai-gallup-study.html Comments URL: https://news.ycombinator.com/item?id=47704443 Points: 141 # Comments: 184",
-      "source": "Hacker News",
-      "published": "2026-04-09T14:44:16+00:00",
-      "link": "https://www.nytimes.com/2026/04/09/style/gen-z-ai-gallup-study.html"
-    },
-    {
-      "title": "Amazon CEO takes aim at Nvidia, Intel, Starlink, more in annual shareholder letter",
-      "summary": "Andy Jassy's annual shareholder letter reads something like a diss track to a wide range of competitors as he defends spending $200 billion in capex.",
-      "source": "TechCrunch",
-      "published": "2026-04-09T14:27:57+00:00",
-      "link": "https://techcrunch.com/2026/04/09/amazon-ceo-takes-aim-at-nvidia-intel-starlink-more-in-annual-shareholder-letter/"
-    },
-    {
-      "title": "The AI industry’s race for profits is now existential",
-      "summary": "Today on Decoder, let’s talk about the looming AI monetization cliff, and whether some of the biggest companies in the space can become real, profitable businesses before they careen right off it. My guest today is Hayden Field, who’s our senior AI reporter here at The Verge.",
-      "source": "The Verge",
-      "published": "2026-04-09T14:00:00+00:00",
-      "link": "https://www.theverge.com/podcast/909042/ai-monetization-cliff-anthropic-openai-profitable-ai-existential-moment"
-    },
-    {
-      "title": "OpenAI reportedly following Anthropic's lead in restricting access to powerful cybersecurity AI",
-      "summary": "OpenAI is also working on a new AI model with advanced cybersecurity capabilities that will only be available to a small group of companies, according to Axios.",
-      "source": "The Decoder",
-      "published": "2026-04-09T13:47:26+00:00",
-      "link": "https://the-decoder.com/openai-reportedly-following-anthropics-lead-in-restricting-access-to-powerful-cybersecurity-ai/"
-    },
-    {
-      "title": "New Stanford study reveals when teaming up AI agents is worth the compute",
-      "summary": "Multi-agent AI systems are widely considered more capable. A Stanford study shows their apparent advantage largely comes from using more compute.",
-      "source": "The Decoder",
-      "published": "2026-04-09T13:32:07+00:00",
-      "link": "https://the-decoder.com/new-stanford-study-reveals-when-teaming-up-ai-agents-is-worth-the-compute/"
     }
   ]
 };
