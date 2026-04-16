@@ -1,16 +1,16 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-04-16T04:15:29.075052+00:00",
+  "lastUpdated": "2026-04-16T06:57:45.563230+00:00",
   "items": [
     {
       "title": "Amazon AI Cancelling Webcomics",
-      "summary": "Article URL: http://www.kleefeldoncomics.com/2026/04/amazon-ai-cancelling-webcomics.html Comments URL: https://news.ycombinator.com/item?id=47787368 Points: 59 # Comments: 8",
+      "summary": "Article URL: http://www.kleefeldoncomics.com/2026/04/amazon-ai-cancelling-webcomics.html Comments URL: https://news.ycombinator.com/item?id=47787368 Points: 59 # Comments: 9",
       "source": "Hacker News",
       "published": "2026-04-16T00:52:33+00:00",
       "link": "http://www.kleefeldoncomics.com/2026/04/amazon-ai-cancelling-webcomics.html"
     },
     {
       "title": "Does Gas Town 'steal' usage from users' LLM credits to improve itself?",
-      "summary": "Article URL: https://github.com/gastownhall/gastown/issues/3649 Comments URL: https://news.ycombinator.com/item?id=47785053 Points: 224 # Comments: 111",
+      "summary": "Article URL: https://github.com/gastownhall/gastown/issues/3649 Comments URL: https://news.ycombinator.com/item?id=47785053 Points: 229 # Comments: 112",
       "source": "Hacker News",
       "published": "2026-04-15T20:49:48+00:00",
       "link": "https://github.com/gastownhall/gastown/issues/3649"
@@ -73,7 +73,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI-assisted cognition endangers human development?",
-      "summary": "Article URL: https://heidenstedt.org/posts/2026/ai-assisted-cognition-endangers-human-development/ Comments URL: https://news.ycombinator.com/item?id=47783024 Points: 221 # Comments: 173",
+      "summary": "Article URL: https://heidenstedt.org/posts/2026/ai-assisted-cognition-endangers-human-development/ Comments URL: https://news.ycombinator.com/item?id=47783024 Points: 221 # Comments: 174",
       "source": "Hacker News",
       "published": "2026-04-15T18:16:50+00:00",
       "link": "https://heidenstedt.org/posts/2026/ai-assisted-cognition-endangers-human-development/"
@@ -122,7 +122,7 @@ const FEED_DATA = {
     },
     {
       "title": "CPUs Aren't Dead. Gemma2B Out Scored GPT-3.5 Turbo on Test That Made It Famous",
-      "summary": "Article URL: https://seqpu.com/CPUsArentDead/ Comments URL: https://news.ycombinator.com/item?id=47781998 Points: 94 # Comments: 46",
+      "summary": "Article URL: https://seqpu.com/CPUsArentDead/ Comments URL: https://news.ycombinator.com/item?id=47781998 Points: 95 # Comments: 46",
       "source": "Hacker News",
       "published": "2026-04-15T17:07:36+00:00",
       "link": "https://seqpu.com/CPUsArentDead/"
@@ -157,7 +157,7 @@ const FEED_DATA = {
     },
     {
       "title": "Elevated errors on Claude.ai, API, Claude Code",
-      "summary": "Article URL: https://claudestatus.com/ Comments URL: https://news.ycombinator.com/item?id=47779730 Points: 242 # Comments: 216",
+      "summary": "Article URL: https://claudestatus.com/ Comments URL: https://news.ycombinator.com/item?id=47779730 Points: 242 # Comments: 218",
       "source": "Hacker News",
       "published": "2026-04-15T14:44:00+00:00",
       "link": "https://claudestatus.com/"
@@ -192,14 +192,14 @@ const FEED_DATA = {
     },
     {
       "title": "US v. Heppner (S.D.N.Y. 2026) no attorney-client privilege for AI chats [pdf]",
-      "summary": "Article URL: https://fingfx.thomsonreuters.com/gfx/legaldocs/xmvjyjekkpr/Rakoff%20-%20order%20-%20AI.pdf Comments URL: https://news.ycombinator.com/item?id=47778920 Points: 101 # Comments: 83",
+      "summary": "Article URL: https://fingfx.thomsonreuters.com/gfx/legaldocs/xmvjyjekkpr/Rakoff%20-%20order%20-%20AI.pdf Comments URL: https://news.ycombinator.com/item?id=47778920 Points: 119 # Comments: 92",
       "source": "Hacker News",
       "published": "2026-04-15T13:47:40+00:00",
       "link": "https://fingfx.thomsonreuters.com/gfx/legaldocs/xmvjyjekkpr/Rakoff%20-%20order%20-%20AI.pdf"
     },
     {
       "title": "Allbirds announces pivot from shoes to AI, stock explodes 175%",
-      "summary": "Article URL: https://www.cnbc.com/2026/04/15/allbirds-bird-stock-shoes-ai.html Comments URL: https://news.ycombinator.com/item?id=47778762 Points: 94 # Comments: 33",
+      "summary": "Article URL: https://www.cnbc.com/2026/04/15/allbirds-bird-stock-shoes-ai.html Comments URL: https://news.ycombinator.com/item?id=47778762 Points: 97 # Comments: 33",
       "source": "Hacker News",
       "published": "2026-04-15T13:34:44+00:00",
       "link": "https://www.cnbc.com/2026/04/15/allbirds-bird-stock-shoes-ai.html"
@@ -241,21 +241,21 @@ const FEED_DATA = {
     },
     {
       "title": "AI ruling prompts warnings from US lawyers: Your chats could be used against you",
-      "summary": "Article URL: https://www.reuters.com/legal/government/ai-ruling-prompts-warnings-us-lawyers-your-chats-could-be-used-against-you-2026-04-15/ Comments URL: https://news.ycombinator.com/item?id=47778308 Points: 145 # Comments: 96",
+      "summary": "Article URL: https://www.reuters.com/legal/government/ai-ruling-prompts-warnings-us-lawyers-your-chats-could-be-used-against-you-2026-04-15/ Comments URL: https://news.ycombinator.com/item?id=47778308 Points: 148 # Comments: 96",
       "source": "Hacker News",
       "published": "2026-04-15T12:51:13+00:00",
       "link": "https://www.reuters.com/legal/government/ai-ruling-prompts-warnings-us-lawyers-your-chats-could-be-used-against-you-2026-04-15/"
     },
     {
       "title": "Study: Back-to-basics approach can match or outperform AI in language analysis",
-      "summary": "Article URL: https://www.manchester.ac.uk/about/news/back-to-basics-approach-can-match-or-outperform-ai/ Comments URL: https://news.ycombinator.com/item?id=47778050 Points: 51 # Comments: 25",
+      "summary": "Article URL: https://www.manchester.ac.uk/about/news/back-to-basics-approach-can-match-or-outperform-ai/ Comments URL: https://news.ycombinator.com/item?id=47778050 Points: 53 # Comments: 26",
       "source": "Hacker News",
       "published": "2026-04-15T12:21:47+00:00",
       "link": "https://www.manchester.ac.uk/about/news/back-to-basics-approach-can-match-or-outperform-ai/"
     },
     {
       "title": "Allbirds, Inc. Announces Expansion into AI Compute Infrastructure",
-      "summary": "Article URL: https://ir.allbirds.com/news-releases/news-release-details/allbirds-inc-executes-50m-convertible-financing-facility Comments URL: https://news.ycombinator.com/item?id=47778038 Points: 83 # Comments: 70",
+      "summary": "Article URL: https://ir.allbirds.com/news-releases/news-release-details/allbirds-inc-executes-50m-convertible-financing-facility Comments URL: https://news.ycombinator.com/item?id=47778038 Points: 86 # Comments: 70",
       "source": "Hacker News",
       "published": "2026-04-15T12:20:13+00:00",
       "link": "https://ir.allbirds.com/news-releases/news-release-details/allbirds-inc-executes-50m-convertible-financing-facility"
@@ -339,7 +339,7 @@ const FEED_DATA = {
     },
     {
       "title": "My AI-Assisted Workflow",
-      "summary": "Article URL: https://www.maiobarbero.dev/articles/ai-assisted-workflow/ Comments URL: https://news.ycombinator.com/item?id=47775653 Points: 84 # Comments: 111",
+      "summary": "Article URL: https://www.maiobarbero.dev/articles/ai-assisted-workflow/ Comments URL: https://news.ycombinator.com/item?id=47775653 Points: 86 # Comments: 111",
       "source": "Hacker News",
       "published": "2026-04-15T07:08:18+00:00",
       "link": "https://www.maiobarbero.dev/articles/ai-assisted-workflow/"
@@ -353,7 +353,7 @@ const FEED_DATA = {
     },
     {
       "title": "Google Gemma 4 Runs Natively on iPhone with Full Offline AI Inference",
-      "summary": "Article URL: https://www.gizmoweek.com/gemma-4-runs-iphone/ Comments URL: https://news.ycombinator.com/item?id=47774971 Points: 275 # Comments: 168",
+      "summary": "Article URL: https://www.gizmoweek.com/gemma-4-runs-iphone/ Comments URL: https://news.ycombinator.com/item?id=47774971 Points: 278 # Comments: 168",
       "source": "Hacker News",
       "published": "2026-04-15T05:19:06+00:00",
       "link": "https://www.gizmoweek.com/gemma-4-runs-iphone/"
@@ -626,7 +626,7 @@ const FEED_DATA = {
     },
     {
       "title": "The AI revolution in math has arrived",
-      "summary": "Article URL: https://www.quantamagazine.org/the-ai-revolution-in-math-has-arrived-20260413/ Comments URL: https://news.ycombinator.com/item?id=47759292 Points: 115 # Comments: 61",
+      "summary": "Article URL: https://www.quantamagazine.org/the-ai-revolution-in-math-has-arrived-20260413/ Comments URL: https://news.ycombinator.com/item?id=47759292 Points: 115 # Comments: 62",
       "source": "Hacker News",
       "published": "2026-04-13T23:26:04+00:00",
       "link": "https://www.quantamagazine.org/the-ai-revolution-in-math-has-arrived-20260413/"
