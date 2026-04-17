@@ -1,6 +1,48 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-04-17T10:02:24.228442+00:00",
+  "lastUpdated": "2026-04-17T14:21:19.160945+00:00",
   "items": [
+    {
+      "title": "The ‘AI is inevitable’ trap",
+      "summary": "In the latest sign of AI silly season, Allbirds, the shoe company, told the world it was now an AI company and briefly managed to septuple its stock price.",
+      "source": "The Verge",
+      "published": "2026-04-17T13:24:34+00:00",
+      "link": "https://www.theverge.com/podcast/913792/ai-divide-sam-altman-vergecast"
+    },
+    {
+      "title": "Google finds new ways to keep you from ever clicking a link again",
+      "summary": "Google is pushing AI mode deeper into Chrome: websites will soon open directly next to the AI response. That makes the traditional page visit even less relevant.",
+      "source": "The Decoder",
+      "published": "2026-04-17T12:22:35+00:00",
+      "link": "https://the-decoder.com/google-finds-new-ways-to-keep-you-from-ever-clicking-a-link-again/"
+    },
+    {
+      "title": "The Download: bad news for inner Neanderthals, and AI warfare’s human illusion",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.",
+      "source": "MIT Tech Review",
+      "published": "2026-04-17T12:10:00+00:00",
+      "link": "https://www.technologyreview.com/2026/04/17/1136112/the-download-inner-neanderthal-ai-war-human-in-the-loop/"
+    },
+    {
+      "title": "Physical Intelligence shows robot model with LLM-like generalization, flaws included",
+      "summary": "US start-up Physical Intelligence has introduced π0.7, a new robot foundation model designed to recombine skills learned during training, similar to how a language model reassembles text fragments from its training data.",
+      "source": "The Decoder",
+      "published": "2026-04-17T11:57:54+00:00",
+      "link": "https://the-decoder.com/physical-intelligence-shows-robot-model-with-llm-like-generalization-flaws-included/"
+    },
+    {
+      "title": "OpenAI launches GPT-Rosalind, a reasoning model built for life sciences research",
+      "summary": "OpenAI has introduced GPT-Rosalind, a reasoning model tailored for the life sciences. It's designed to help researchers move faster from hypothesis to experiment.",
+      "source": "The Decoder",
+      "published": "2026-04-17T11:00:37+00:00",
+      "link": "https://the-decoder.com/openai-launches-gpt-rosalind-a-reasoning-model-built-for-life-sciences-research/"
+    },
+    {
+      "title": "The case for fixing everything",
+      "summary": "The handsome new book Maintenance: Of Everything, Part One, by the tech industry legend Stewart Brand, promises to be the first in a series offering “a comprehensive overview of the civilizational importance of maintenance.” One of Brand’s several biographers described him as a...",
+      "source": "MIT Tech Review",
+      "published": "2026-04-17T10:00:00+00:00",
+      "link": "https://www.technologyreview.com/2026/04/17/1135408/book-review-stewart-brand-fixing-everything-maintenance/"
+    },
     {
       "title": "Beijing brands Meta's Manus acquisition as \"conspiratorial\" and bars founders from leaving China",
       "summary": "China's National Security Commission, led by President Xi Jinping, has branded Meta's $2 billion acquisition of AI startup Manus a \"conspiratorial\" attempt to hollow out the country's technology base, the Financial Times reports.",
@@ -10,7 +52,7 @@ const FEED_DATA = {
     },
     {
       "title": "George Orwell Predicted the Rise of \"AI Slop\" in Nineteen Eighty-Four",
-      "summary": "Article URL: https://www.openculture.com/2026/04/how-george-orwell-predicted-the-rise-of-ai-slop.html Comments URL: https://news.ycombinator.com/item?id=47800765 Points: 76 # Comments: 51",
+      "summary": "Article URL: https://www.openculture.com/2026/04/how-george-orwell-predicted-the-rise-of-ai-slop.html Comments URL: https://news.ycombinator.com/item?id=47800765 Points: 80 # Comments: 53",
       "source": "Hacker News",
       "published": "2026-04-16T23:17:47+00:00",
       "link": "https://www.openculture.com/2026/04/how-george-orwell-predicted-the-rise-of-ai-slop.html"
@@ -31,14 +73,14 @@ const FEED_DATA = {
     },
     {
       "title": "Guy builds AI driven hardware hacker arm from duct tape, old cam and CNC machine",
-      "summary": "Article URL: https://github.com/gainsec/autoprober Comments URL: https://news.ycombinator.com/item?id=47800033 Points: 178 # Comments: 39",
+      "summary": "Article URL: https://github.com/gainsec/autoprober Comments URL: https://news.ycombinator.com/item?id=47800033 Points: 204 # Comments: 40",
       "source": "Hacker News",
       "published": "2026-04-16T21:56:37+00:00",
       "link": "https://github.com/gainsec/autoprober"
     },
     {
       "title": "The beginning of scarcity in AI",
-      "summary": "Article URL: https://tomtunguz.com/ai-compute-crisis-2026/ Comments URL: https://news.ycombinator.com/item?id=47799322 Points: 80 # Comments: 104",
+      "summary": "Article URL: https://tomtunguz.com/ai-compute-crisis-2026/ Comments URL: https://news.ycombinator.com/item?id=47799322 Points: 130 # Comments: 159",
       "source": "Hacker News",
       "published": "2026-04-16T20:49:35+00:00",
       "link": "https://tomtunguz.com/ai-compute-crisis-2026/"
@@ -59,7 +101,7 @@ const FEED_DATA = {
     },
     {
       "title": "GPT‑Rosalind for life sciences research",
-      "summary": "Article URL: https://openai.com/index/introducing-gpt-rosalind/ Comments URL: https://news.ycombinator.com/item?id=47798244 Points: 95 # Comments: 25",
+      "summary": "Article URL: https://openai.com/index/introducing-gpt-rosalind/ Comments URL: https://news.ycombinator.com/item?id=47798244 Points: 98 # Comments: 29",
       "source": "Hacker News",
       "published": "2026-04-16T19:24:50+00:00",
       "link": "https://openai.com/index/introducing-gpt-rosalind/"
@@ -77,6 +119,13 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-04-16T18:28:42+00:00",
       "link": "https://techcrunch.com/2026/04/16/anthropic-cpo-leaves-figmas-board-after-reports-he-will-offer-a-competing-product/"
+    },
+    {
+      "title": "Musk v. Altman Is a Battle for OpenAI’s Soul",
+      "summary": "In Musk v. Altman, a jury will soon determine whether OpenAI has strayed from its founding mission to ensure AGI benefits humanity.",
+      "source": "Wired",
+      "published": "2026-04-16T18:00:00+00:00",
+      "link": "https://www.wired.com/story/musk-v-altman-trial-openai-xai/"
     },
     {
       "title": "The Battle for OpenAI’s Soul",
@@ -220,7 +269,7 @@ const FEED_DATA = {
     },
     {
       "title": "We gave an AI a 3 year retail lease and asked it to make a profit",
-      "summary": "Article URL: https://andonlabs.com/blog/andon-market-launch Comments URL: https://news.ycombinator.com/item?id=47794391 Points: 194 # Comments: 269",
+      "summary": "Article URL: https://andonlabs.com/blog/andon-market-launch Comments URL: https://news.ycombinator.com/item?id=47794391 Points: 195 # Comments: 274",
       "source": "Hacker News",
       "published": "2026-04-16T15:13:13+00:00",
       "link": "https://andonlabs.com/blog/andon-market-launch"
@@ -234,7 +283,7 @@ const FEED_DATA = {
     },
     {
       "title": "There's yet another study about how bad AI is for our brains",
-      "summary": "Article URL: https://www.engadget.com/ai/theres-yet-another-study-about-how-bad-ai-is-for-our-brains-183418494.html Comments URL: https://news.ycombinator.com/item?id=47793522 Points: 50 # Comments: 61",
+      "summary": "Article URL: https://www.engadget.com/ai/theres-yet-another-study-about-how-bad-ai-is-for-our-brains-183418494.html Comments URL: https://news.ycombinator.com/item?id=47793522 Points: 50 # Comments: 62",
       "source": "Hacker News",
       "published": "2026-04-16T14:30:38+00:00",
       "link": "https://www.engadget.com/ai/theres-yet-another-study-about-how-bad-ai-is-for-our-brains-183418494.html"
@@ -276,7 +325,7 @@ const FEED_DATA = {
     },
     {
       "title": "Cloudflare's AI Platform: an inference layer designed for agents",
-      "summary": "Article URL: https://blog.cloudflare.com/ai-platform/ Comments URL: https://news.ycombinator.com/item?id=47792538 Points: 281 # Comments: 68",
+      "summary": "Article URL: https://blog.cloudflare.com/ai-platform/ Comments URL: https://news.ycombinator.com/item?id=47792538 Points: 296 # Comments: 78",
       "source": "Hacker News",
       "published": "2026-04-16T13:17:37+00:00",
       "link": "https://blog.cloudflare.com/ai-platform/"
@@ -346,7 +395,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI cybersecurity is not proof of work",
-      "summary": "Recent and related: Cybersecurity looks like proof of work now - https://news.ycombinator.com/item?id=47769089 - (198 comments) Comments URL: https://news.ycombinator.com/item?id=47791236 Points: 220 # Comments: 85",
+      "summary": "Recent and related: Cybersecurity looks like proof of work now - https://news.ycombinator.com/item?id=47769089 - (198 comments) Comments URL: https://news.ycombinator.com/item?id=47791236 Points: 226 # Comments: 85",
       "source": "Hacker News",
       "published": "2026-04-16T10:48:00+00:00",
       "link": "https://antirez.com/news/163"
@@ -367,14 +416,14 @@ const FEED_DATA = {
     },
     {
       "title": "SDL bans AI-written commits",
-      "summary": "Article URL: https://github.com/libsdl-org/SDL/issues/15350 Comments URL: https://news.ycombinator.com/item?id=47790791 Points: 123 # Comments: 122",
+      "summary": "Article URL: https://github.com/libsdl-org/SDL/issues/15350 Comments URL: https://news.ycombinator.com/item?id=47790791 Points: 125 # Comments: 123",
       "source": "Hacker News",
       "published": "2026-04-16T09:40:43+00:00",
       "link": "https://github.com/libsdl-org/SDL/issues/15350"
     },
     {
       "title": "Shares in shoe brand Allbirds rise 580% after it pivots from footwear to AI",
-      "summary": "Article URL: https://www.bbc.com/news/articles/c98mrepzgj7o Comments URL: https://news.ycombinator.com/item?id=47790353 Points: 66 # Comments: 25",
+      "summary": "Article URL: https://www.bbc.com/news/articles/c98mrepzgj7o Comments URL: https://news.ycombinator.com/item?id=47790353 Points: 68 # Comments: 27",
       "source": "Hacker News",
       "published": "2026-04-16T08:43:51+00:00",
       "link": "https://www.bbc.com/news/articles/c98mrepzgj7o"
@@ -388,7 +437,7 @@ const FEED_DATA = {
     },
     {
       "title": "The local LLM ecosystem doesn’t need Ollama",
-      "summary": "Article URL: https://sleepingrobots.com/dreams/stop-using-ollama/ Comments URL: https://news.ycombinator.com/item?id=47788385 Points: 622 # Comments: 207",
+      "summary": "Article URL: https://sleepingrobots.com/dreams/stop-using-ollama/ Comments URL: https://news.ycombinator.com/item?id=47788385 Points: 627 # Comments: 207",
       "source": "Hacker News",
       "published": "2026-04-16T03:35:11+00:00",
       "link": "https://sleepingrobots.com/dreams/stop-using-ollama/"
@@ -402,7 +451,7 @@ const FEED_DATA = {
     },
     {
       "title": "Does Gas Town 'steal' usage from users' LLM credits to improve itself?",
-      "summary": "Article URL: https://github.com/gastownhall/gastown/issues/3649 Comments URL: https://news.ycombinator.com/item?id=47785053 Points: 250 # Comments: 125",
+      "summary": "Article URL: https://github.com/gastownhall/gastown/issues/3649 Comments URL: https://news.ycombinator.com/item?id=47785053 Points: 251 # Comments: 126",
       "source": "Hacker News",
       "published": "2026-04-15T20:49:48+00:00",
       "link": "https://github.com/gastownhall/gastown/issues/3649"
@@ -465,7 +514,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI-assisted cognition endangers human development?",
-      "summary": "Article URL: https://heidenstedt.org/posts/2026/ai-assisted-cognition-endangers-human-development/ Comments URL: https://news.ycombinator.com/item?id=47783024 Points: 227 # Comments: 185",
+      "summary": "Article URL: https://heidenstedt.org/posts/2026/ai-assisted-cognition-endangers-human-development/ Comments URL: https://news.ycombinator.com/item?id=47783024 Points: 227 # Comments: 186",
       "source": "Hacker News",
       "published": "2026-04-15T18:16:50+00:00",
       "link": "https://heidenstedt.org/posts/2026/ai-assisted-cognition-endangers-human-development/"
@@ -584,14 +633,14 @@ const FEED_DATA = {
     },
     {
       "title": "US v. Heppner (S.D.N.Y. 2026) no attorney-client privilege for AI chats [pdf]",
-      "summary": "Article URL: https://fingfx.thomsonreuters.com/gfx/legaldocs/xmvjyjekkpr/Rakoff%20-%20order%20-%20AI.pdf Comments URL: https://news.ycombinator.com/item?id=47778920 Points: 183 # Comments: 134",
+      "summary": "Article URL: https://fingfx.thomsonreuters.com/gfx/legaldocs/xmvjyjekkpr/Rakoff%20-%20order%20-%20AI.pdf Comments URL: https://news.ycombinator.com/item?id=47778920 Points: 185 # Comments: 135",
       "source": "Hacker News",
       "published": "2026-04-15T13:47:40+00:00",
       "link": "https://fingfx.thomsonreuters.com/gfx/legaldocs/xmvjyjekkpr/Rakoff%20-%20order%20-%20AI.pdf"
     },
     {
       "title": "Allbirds announces pivot from shoes to AI, stock explodes 175%",
-      "summary": "Article URL: https://www.cnbc.com/2026/04/15/allbirds-bird-stock-shoes-ai.html Comments URL: https://news.ycombinator.com/item?id=47778762 Points: 105 # Comments: 37",
+      "summary": "Article URL: https://www.cnbc.com/2026/04/15/allbirds-bird-stock-shoes-ai.html Comments URL: https://news.ycombinator.com/item?id=47778762 Points: 105 # Comments: 39",
       "source": "Hacker News",
       "published": "2026-04-15T13:34:44+00:00",
       "link": "https://www.cnbc.com/2026/04/15/allbirds-bird-stock-shoes-ai.html"
@@ -1351,55 +1400,6 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-04-12T11:25:54+00:00",
       "link": "https://the-decoder.com/anthropic-seeks-advice-from-christian-leaders-on-claudes-moral-and-spiritual-behavior/"
-    },
-    {
-      "title": "Agent skills look great in benchmarks but fall apart under realistic conditions, researchers find",
-      "summary": "AI agents are supposed to tap into specialized knowledge through so-called skills, modular instructions they can pull up on the fly. But a study testing 34,000 real-world skills finds these enhancements barely help under realistic conditions.",
-      "source": "The Decoder",
-      "published": "2026-04-12T10:32:30+00:00",
-      "link": "https://the-decoder.com/agent-skills-look-great-in-benchmarks-but-fall-apart-under-realistic-conditions-researchers-find/"
-    },
-    {
-      "title": "AI Will Be Met with Violence, and Nothing Good Will Come of It",
-      "summary": "Article URL: https://www.thealgorithmicbridge.com/p/ai-will-be-met-with-violence-and Comments URL: https://news.ycombinator.com/item?id=47737563 Points: 346 # Comments: 626",
-      "source": "Hacker News",
-      "published": "2026-04-12T09:16:35+00:00",
-      "link": "https://www.thealgorithmicbridge.com/p/ai-will-be-met-with-violence-and"
-    },
-    {
-      "title": "Arcee AI spent half its venture capital to build an open reasoning model that rivals Claude Opus in agent tasks",
-      "summary": "US start-up Arcee AI spent roughly half its total venture capital to train Trinity-Large-Thinking, an open reasoning model with 400 billion parameters designed to take on Claude Opus in agent tasks.",
-      "source": "The Decoder",
-      "published": "2026-04-12T08:59:26+00:00",
-      "link": "https://the-decoder.com/arcee-ai-spent-half-its-venture-capital-to-build-an-open-reasoning-model-that-rivals-claude-opus-in-agent-tasks/"
-    },
-    {
-      "title": "Molotov suspect who attacked Sam Altman's home was likely a Pause AI follower with AI extinction fears",
-      "summary": "A man threw a firebomb at OpenAI CEO Sam Altman's San Francisco home in the middle of the night. The suspect apparently followed the \"Pause AI\" movement and wrote online about AI driving humanity to extinction.",
-      "source": "The Decoder",
-      "published": "2026-04-12T08:21:58+00:00",
-      "link": "https://the-decoder.com/molotov-suspect-who-attacked-sam-altmans-home-was-likely-a-pause-ai-follower-with-ai-extinction-fears/"
-    },
-    {
-      "title": "Stalking victim sues OpenAI claiming ChatGPT fueled her ex-partner’s delusions",
-      "summary": "ChatGPT told a man with delusional beliefs he had the highest level of mental health, then helped him forge clinical reports to stalk and humiliate his ex-girlfriend. She's now suing OpenAI and says the company ignored three separate warnings.",
-      "source": "The Decoder",
-      "published": "2026-04-12T07:43:23+00:00",
-      "link": "https://the-decoder.com/stalking-victim-sues-openai-claiming-chatgpt-fueled-her-ex-partners-delusions/"
-    },
-    {
-      "title": "We spoke to the man making viral Lego-style AI videos for Iran",
-      "summary": "Article URL: https://www.bbc.com/news/articles/cjd8jrd1vnyo Comments URL: https://news.ycombinator.com/item?id=47735704 Points: 94 # Comments: 87",
-      "source": "Hacker News",
-      "published": "2026-04-12T02:37:39+00:00",
-      "link": "https://www.bbc.com/news/articles/cjd8jrd1vnyo"
-    },
-    {
-      "title": "Exploiting the most prominent AI agent benchmarks",
-      "summary": "Article URL: https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/ Comments URL: https://news.ycombinator.com/item?id=47733217 Points: 579 # Comments: 140",
-      "source": "Hacker News",
-      "published": "2026-04-11T19:15:56+00:00",
-      "link": "https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/"
     }
   ]
 };
