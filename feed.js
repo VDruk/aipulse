@@ -1,6 +1,76 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-04-17T17:43:55.257892+00:00",
+  "lastUpdated": "2026-04-17T21:35:09.234054+00:00",
   "items": [
+    {
+      "title": "OpenAI’s former Sora boss is leaving",
+      "summary": "Last month, OpenAI gave up on its Sora video generation tool, and on Friday, the Sora team's leader, Bill Peebles, announced that he is leaving the company.",
+      "source": "The Verge",
+      "published": "2026-04-17T21:13:25+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/914463/openai-sora-bill-peebles-kevin-weil-leaving-departing"
+    },
+    {
+      "title": "Kevin Weil and Bill Peebles exit OpenAI as company continues to shed ‘side quests’",
+      "summary": "Kevin Weil and Bill Peebles are leaving OpenAI as the company shuts down Sora and folds its science team, signaling a sharp pivot away from consumer moonshots toward enterprise AI.",
+      "source": "TechCrunch",
+      "published": "2026-04-17T20:38:17+00:00",
+      "link": "https://techcrunch.com/2026/04/17/kevin-weil-and-bill-peebles-exit-openai-as-company-continues-to-shed-side-quests/"
+    },
+    {
+      "title": "Anthropic’s new cybersecurity model could get it back in the government’s good graces",
+      "summary": "The Trump administration has spent nearly two months fighting with AI company Anthropic. It's dubbed the company a \"RADICAL LEFT, WOKE COMPANY\" full of \"Leftwing nut jobs\" and a menace to national security.",
+      "source": "The Verge",
+      "published": "2026-04-17T20:14:21+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/914229/tides-turning-anthropic-trump-administration-cybersecurity-mythos-preview"
+    },
+    {
+      "title": "OpenAI Executive Kevin Weil Is Leaving the Company",
+      "summary": "The former Instagram VP is departing the ChatGPT-maker, which is folding the AI science application he led into Codex.",
+      "source": "Wired",
+      "published": "2026-04-17T19:56:42+00:00",
+      "link": "https://www.wired.com/story/openai-executive-kevin-weil-is-leaving-the-company/"
+    },
+    {
+      "title": "Sources: Cursor in talks to raise $2B+ at $50B valuation as enterprise growth surges",
+      "summary": "Returning backers a16z and Thrive are expected to lead the round.",
+      "source": "TechCrunch",
+      "published": "2026-04-17T19:17:26+00:00",
+      "link": "https://techcrunch.com/2026/04/17/sources-cursor-in-talks-to-raise-2b-at-50b-valuation-as-enterprise-growth-surges/"
+    },
+    {
+      "title": "Google Deepmind's Gemini Robotics-ER 1.6 gives robots a sharper brain for planning and perception",
+      "summary": "Google Deepmind's Gemini Robotics-ER 1.6 helps robots plan and act more precisely, with a new knack for reading measuring instruments. The article Google Deepmind's Gemini Robotics-ER 1.6 gives robots a sharper brain for planning and perception appeared first on The Decoder.",
+      "source": "The Decoder",
+      "published": "2026-04-17T18:59:56+00:00",
+      "link": "https://the-decoder.com/google-deepminds-gemini-robotics-er-1-6-gives-robots-a-sharper-brain-for-planning-and-perception/"
+    },
+    {
+      "title": "Google finds new ways to keep you from ever visiting a website directly again",
+      "summary": "Google is pushing AI mode deeper into Chrome: websites will soon open directly next to the AI response. That makes the traditional page visit even less relevant.",
+      "source": "The Decoder",
+      "published": "2026-04-17T18:45:35+00:00",
+      "link": "https://the-decoder.com/google-finds-new-ways-to-keep-you-from-ever-visiting-a-website-directly-again/"
+    },
+    {
+      "title": "The White House weighs whether Anthropic's Mythos is too valuable for the federal government to refuse",
+      "summary": "Anthropic CEO Dario Amodei is meeting Trump's Chief of Staff Susie Wiles at the White House to end a months-long standoff with the Pentagon. The new Mythos model's cybersecurity chops reportedly opened the door.",
+      "source": "The Decoder",
+      "published": "2026-04-17T18:30:49+00:00",
+      "link": "https://the-decoder.com/the-white-house-weighs-whether-anthropics-mythos-is-too-valuable-for-the-federal-government-to-refuse/"
+    },
+    {
+      "title": "Alibaba's open model Qwen3.6 leads Google's Gemma 4 across agentic coding benchmarks",
+      "summary": "Alibaba's new open-source Qwen3.6-35B-A3B activates just three of its 35 billion parameters at a time, yet beats Google's larger Gemma 4-31B on coding and reasoning benchmarks.",
+      "source": "The Decoder",
+      "published": "2026-04-17T18:11:25+00:00",
+      "link": "https://the-decoder.com/alibabas-open-model-qwen3-6-leads-googles-gemma-4-across-agentic-coding-benchmarks/"
+    },
+    {
+      "title": "ChatGPT bleeds market share as Claude posts explosive monthly growth",
+      "summary": "Claude doubles its market share in a single month, jumping past Deepseek and Grok. ChatGPT still leads the pack but is losing ground fast, especially to Google Gemini, which now captures a quarter of all AI traffic.",
+      "source": "The Decoder",
+      "published": "2026-04-17T17:44:22+00:00",
+      "link": "https://the-decoder.com/chatgpt-bleeds-market-share-as-claude-posts-explosive-monthly-growth/"
+    },
     {
       "title": "This charming gadget writes bad AI poetry",
       "summary": "I've never been as charmed and frustrated by one gadget as I have with the Poetry Camera. It's a delightful object.",
@@ -52,7 +122,7 @@ const FEED_DATA = {
     },
     {
       "title": "Scan your website to see how ready it is for AI agents",
-      "summary": "Article URL: https://isitagentready.com Comments URL: https://news.ycombinator.com/item?id=47805998 Points: 66 # Comments: 113",
+      "summary": "Article URL: https://isitagentready.com Comments URL: https://news.ycombinator.com/item?id=47805998 Points: 91 # Comments: 154",
       "source": "Hacker News",
       "published": "2026-04-17T13:55:25+00:00",
       "link": "https://isitagentready.com"
@@ -136,14 +206,14 @@ const FEED_DATA = {
     },
     {
       "title": "Guy builds AI driven hardware hacker arm from duct tape, old cam and CNC machine",
-      "summary": "Article URL: https://github.com/gainsec/autoprober Comments URL: https://news.ycombinator.com/item?id=47800033 Points: 214 # Comments: 44",
+      "summary": "Article URL: https://github.com/gainsec/autoprober Comments URL: https://news.ycombinator.com/item?id=47800033 Points: 218 # Comments: 46",
       "source": "Hacker News",
       "published": "2026-04-16T21:56:37+00:00",
       "link": "https://github.com/gainsec/autoprober"
     },
     {
       "title": "The beginning of scarcity in AI",
-      "summary": "Article URL: https://tomtunguz.com/ai-compute-crisis-2026/ Comments URL: https://news.ycombinator.com/item?id=47799322 Points: 153 # Comments: 194",
+      "summary": "Article URL: https://tomtunguz.com/ai-compute-crisis-2026/ Comments URL: https://news.ycombinator.com/item?id=47799322 Points: 165 # Comments: 210",
       "source": "Hacker News",
       "published": "2026-04-16T20:49:35+00:00",
       "link": "https://tomtunguz.com/ai-compute-crisis-2026/"
@@ -332,7 +402,7 @@ const FEED_DATA = {
     },
     {
       "title": "We gave an AI a 3 year retail lease and asked it to make a profit",
-      "summary": "Article URL: https://andonlabs.com/blog/andon-market-launch Comments URL: https://news.ycombinator.com/item?id=47794391 Points: 197 # Comments: 278",
+      "summary": "Article URL: https://andonlabs.com/blog/andon-market-launch Comments URL: https://news.ycombinator.com/item?id=47794391 Points: 197 # Comments: 279",
       "source": "Hacker News",
       "published": "2026-04-16T15:13:13+00:00",
       "link": "https://andonlabs.com/blog/andon-market-launch"
@@ -346,7 +416,7 @@ const FEED_DATA = {
     },
     {
       "title": "There's yet another study about how bad AI is for our brains",
-      "summary": "Article URL: https://www.engadget.com/ai/theres-yet-another-study-about-how-bad-ai-is-for-our-brains-183418494.html Comments URL: https://news.ycombinator.com/item?id=47793522 Points: 50 # Comments: 62",
+      "summary": "Article URL: https://www.engadget.com/ai/theres-yet-another-study-about-how-bad-ai-is-for-our-brains-183418494.html Comments URL: https://news.ycombinator.com/item?id=47793522 Points: 50 # Comments: 63",
       "source": "Hacker News",
       "published": "2026-04-16T14:30:38+00:00",
       "link": "https://www.engadget.com/ai/theres-yet-another-study-about-how-bad-ai-is-for-our-brains-183418494.html"
@@ -388,7 +458,7 @@ const FEED_DATA = {
     },
     {
       "title": "Cloudflare's AI Platform: an inference layer designed for agents",
-      "summary": "Article URL: https://blog.cloudflare.com/ai-platform/ Comments URL: https://news.ycombinator.com/item?id=47792538 Points: 303 # Comments: 90",
+      "summary": "Article URL: https://blog.cloudflare.com/ai-platform/ Comments URL: https://news.ycombinator.com/item?id=47792538 Points: 305 # Comments: 92",
       "source": "Hacker News",
       "published": "2026-04-16T13:17:37+00:00",
       "link": "https://blog.cloudflare.com/ai-platform/"
@@ -458,7 +528,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI cybersecurity is not proof of work",
-      "summary": "Recent and related: Cybersecurity looks like proof of work now - https://news.ycombinator.com/item?id=47769089 - (198 comments) Comments URL: https://news.ycombinator.com/item?id=47791236 Points: 228 # Comments: 87",
+      "summary": "Recent and related: Cybersecurity looks like proof of work now - https://news.ycombinator.com/item?id=47769089 - (198 comments) Comments URL: https://news.ycombinator.com/item?id=47791236 Points: 233 # Comments: 88",
       "source": "Hacker News",
       "published": "2026-04-16T10:48:00+00:00",
       "link": "https://antirez.com/news/163"
@@ -479,14 +549,14 @@ const FEED_DATA = {
     },
     {
       "title": "SDL bans AI-written commits",
-      "summary": "Article URL: https://github.com/libsdl-org/SDL/issues/15350 Comments URL: https://news.ycombinator.com/item?id=47790791 Points: 125 # Comments: 131",
+      "summary": "Article URL: https://github.com/libsdl-org/SDL/issues/15350 Comments URL: https://news.ycombinator.com/item?id=47790791 Points: 127 # Comments: 133",
       "source": "Hacker News",
       "published": "2026-04-16T09:40:43+00:00",
       "link": "https://github.com/libsdl-org/SDL/issues/15350"
     },
     {
       "title": "Shares in shoe brand Allbirds rise 580% after it pivots from footwear to AI",
-      "summary": "Article URL: https://www.bbc.com/news/articles/c98mrepzgj7o Comments URL: https://news.ycombinator.com/item?id=47790353 Points: 69 # Comments: 28",
+      "summary": "Article URL: https://www.bbc.com/news/articles/c98mrepzgj7o Comments URL: https://news.ycombinator.com/item?id=47790353 Points: 69 # Comments: 30",
       "source": "Hacker News",
       "published": "2026-04-16T08:43:51+00:00",
       "link": "https://www.bbc.com/news/articles/c98mrepzgj7o"
@@ -500,7 +570,7 @@ const FEED_DATA = {
     },
     {
       "title": "The local LLM ecosystem doesn’t need Ollama",
-      "summary": "Article URL: https://sleepingrobots.com/dreams/stop-using-ollama/ Comments URL: https://news.ycombinator.com/item?id=47788385 Points: 630 # Comments: 208",
+      "summary": "Article URL: https://sleepingrobots.com/dreams/stop-using-ollama/ Comments URL: https://news.ycombinator.com/item?id=47788385 Points: 631 # Comments: 208",
       "source": "Hacker News",
       "published": "2026-04-16T03:35:11+00:00",
       "link": "https://sleepingrobots.com/dreams/stop-using-ollama/"
@@ -514,7 +584,7 @@ const FEED_DATA = {
     },
     {
       "title": "Does Gas Town 'steal' usage from users' LLM credits to improve itself?",
-      "summary": "Article URL: https://github.com/gastownhall/gastown/issues/3649 Comments URL: https://news.ycombinator.com/item?id=47785053 Points: 251 # Comments: 126",
+      "summary": "Article URL: https://github.com/gastownhall/gastown/issues/3649 Comments URL: https://news.ycombinator.com/item?id=47785053 Points: 252 # Comments: 126",
       "source": "Hacker News",
       "published": "2026-04-15T20:49:48+00:00",
       "link": "https://github.com/gastownhall/gastown/issues/3649"
@@ -1330,76 +1400,6 @@ const FEED_DATA = {
       "source": "MIT Tech Review",
       "published": "2026-04-13T10:00:00+00:00",
       "link": "https://www.technologyreview.com/2026/04/13/1135156/job-titles-wildlife-first-responder-wesley-sarmento/"
-    },
-    {
-      "title": "You have no choice in reading this article—maybe",
-      "summary": "Uri Maoz loved doing his human research, back when he was getting his PhD. He was studying a very specific topic in computational neuroscience: how the brain instructs our arms to move and how our gray matter in turn perceives that motion.",
-      "source": "MIT Tech Review",
-      "published": "2026-04-13T10:00:00+00:00",
-      "link": "https://www.technologyreview.com/2026/04/13/1135162/uri-maoz-does-free-will-exist/"
-    },
-    {
-      "title": "Apple is building smart glasses without a display to serve as an AI wearable",
-      "summary": "According to Bloomberg reporter Mark Gurman, Apple is developing smart glasses that skip the display entirely and instead function as an AI wearable. The article Apple is building smart glasses without a display to serve as an AI wearable appeared first on The Decoder.",
-      "source": "The Decoder",
-      "published": "2026-04-13T09:40:55+00:00",
-      "link": "https://the-decoder.com/apple-is-building-smart-glasses-without-a-display-to-serve-as-an-ai-wearable/"
-    },
-    {
-      "title": "Claude now works across all three major Office apps",
-      "summary": "Anthropic already offered Claude add-ins for Excel and PowerPoint. Now the company is rounding out its Microsoft Office integration with a Word add-in.",
-      "source": "The Decoder",
-      "published": "2026-04-13T08:32:35+00:00",
-      "link": "https://the-decoder.com/claude-now-works-across-all-three-major-office-apps/"
-    },
-    {
-      "title": "Sam Altman's San Francisco home hit by drive-by shooting just two days after Molotov cocktail attack",
-      "summary": "The home of OpenAI CEO Sam Altman in San Francisco has been attacked twice in two days. After a Molotov cocktail was thrown at the property on Friday, someone fired a shot from a car on Sunday.",
-      "source": "The Decoder",
-      "published": "2026-04-13T07:38:38+00:00",
-      "link": "https://the-decoder.com/sam-altmans-san-francisco-home-hit-by-drive-by-shooting-just-two-days-after-molotov-cocktail-attack/"
-    },
-    {
-      "title": "The largest orbital compute cluster is open for business",
-      "summary": "Kepler Communications is flying 40 GPUs in Earth orbit. And its latest customer is Sophia Space.",
-      "source": "TechCrunch",
-      "published": "2026-04-13T07:01:00+00:00",
-      "link": "https://techcrunch.com/2026/04/13/the-largest-orbital-compute-cluster-is-open-for-business/"
-    },
-    {
-      "title": "The AI Layoff Trap",
-      "summary": "Article URL: https://arxiv.org/abs/2603.20617 Comments URL: https://news.ycombinator.com/item?id=47748123 Points: 61 # Comments: 103",
-      "source": "Hacker News",
-      "published": "2026-04-13T05:56:49+00:00",
-      "link": "https://arxiv.org/abs/2603.20617"
-    },
-    {
-      "title": "Apple's accidental moat: How the \"AI Loser\" may end up winning",
-      "summary": "Article URL: https://adlrocha.substack.com/p/adlrocha-how-the-ai-loser-may-end Comments URL: https://news.ycombinator.com/item?id=47747017 Points: 429 # Comments: 380",
-      "source": "Hacker News",
-      "published": "2026-04-13T02:53:10+00:00",
-      "link": "https://adlrocha.substack.com/p/adlrocha-how-the-ai-loser-may-end"
-    },
-    {
-      "title": "Tech valuations are back to pre-AI boom levels",
-      "summary": "Article URL: https://www.apollo.com/wealth/the-daily-spark/tech-valuations-back-to-pre-ai-boom-levels Comments URL: https://news.ycombinator.com/item?id=47745120 Points: 149 # Comments: 41",
-      "source": "Hacker News",
-      "published": "2026-04-12T22:13:22+00:00",
-      "link": "https://www.apollo.com/wealth/the-daily-spark/tech-valuations-back-to-pre-ai-boom-levels"
-    },
-    {
-      "title": "Trump officials may be encouraging banks to test Anthropic’s Mythos model",
-      "summary": "The report is particularly surprising since the Department of Defense recently declared Anthropic a supply-chain risk.",
-      "source": "TechCrunch",
-      "published": "2026-04-12T21:14:38+00:00",
-      "link": "https://techcrunch.com/2026/04/12/trump-officials-may-be-encouraging-banks-to-test-anthropics-mythos-model/"
-    },
-    {
-      "title": "European AI. A playbook to own it",
-      "summary": "Article URL: https://europe.mistral.ai/ Comments URL: https://news.ycombinator.com/item?id=47743700 Points: 201 # Comments: 135",
-      "source": "Hacker News",
-      "published": "2026-04-12T19:51:06+00:00",
-      "link": "https://europe.mistral.ai/"
     }
   ]
 };
