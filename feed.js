@@ -1,9 +1,9 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-04-17T04:11:23.298512+00:00",
+  "lastUpdated": "2026-04-17T06:58:21.853250+00:00",
   "items": [
     {
       "title": "George Orwell Predicted the Rise of \"AI Slop\" in Nineteen Eighty-Four",
-      "summary": "Article URL: https://www.openculture.com/2026/04/how-george-orwell-predicted-the-rise-of-ai-slop.html Comments URL: https://news.ycombinator.com/item?id=47800765 Points: 64 # Comments: 44",
+      "summary": "Article URL: https://www.openculture.com/2026/04/how-george-orwell-predicted-the-rise-of-ai-slop.html Comments URL: https://news.ycombinator.com/item?id=47800765 Points: 74 # Comments: 48",
       "source": "Hacker News",
       "published": "2026-04-16T23:17:47+00:00",
       "link": "https://www.openculture.com/2026/04/how-george-orwell-predicted-the-rise-of-ai-slop.html"
@@ -24,7 +24,7 @@ const FEED_DATA = {
     },
     {
       "title": "Guy builds AI driven hardware hacker arm from duct tape, old cam and CNC machine",
-      "summary": "Article URL: https://github.com/gainsec/autoprober Comments URL: https://news.ycombinator.com/item?id=47800033 Points: 114 # Comments: 25",
+      "summary": "Article URL: https://github.com/gainsec/autoprober Comments URL: https://news.ycombinator.com/item?id=47800033 Points: 151 # Comments: 33",
       "source": "Hacker News",
       "published": "2026-04-16T21:56:37+00:00",
       "link": "https://github.com/gainsec/autoprober"
@@ -45,7 +45,7 @@ const FEED_DATA = {
     },
     {
       "title": "GPT‑Rosalind for life sciences research",
-      "summary": "Article URL: https://openai.com/index/introducing-gpt-rosalind/ Comments URL: https://news.ycombinator.com/item?id=47798244 Points: 71 # Comments: 17",
+      "summary": "Article URL: https://openai.com/index/introducing-gpt-rosalind/ Comments URL: https://news.ycombinator.com/item?id=47798244 Points: 88 # Comments: 22",
       "source": "Hacker News",
       "published": "2026-04-16T19:24:50+00:00",
       "link": "https://openai.com/index/introducing-gpt-rosalind/"
@@ -206,7 +206,7 @@ const FEED_DATA = {
     },
     {
       "title": "We gave an AI a 3 year retail lease and asked it to make a profit",
-      "summary": "Article URL: https://andonlabs.com/blog/andon-market-launch Comments URL: https://news.ycombinator.com/item?id=47794391 Points: 189 # Comments: 258",
+      "summary": "Article URL: https://andonlabs.com/blog/andon-market-launch Comments URL: https://news.ycombinator.com/item?id=47794391 Points: 191 # Comments: 262",
       "source": "Hacker News",
       "published": "2026-04-16T15:13:13+00:00",
       "link": "https://andonlabs.com/blog/andon-market-launch"
@@ -255,7 +255,7 @@ const FEED_DATA = {
     },
     {
       "title": "Cloudflare's AI Platform: an inference layer designed for agents",
-      "summary": "Article URL: https://blog.cloudflare.com/ai-platform/ Comments URL: https://news.ycombinator.com/item?id=47792538 Points: 253 # Comments: 59",
+      "summary": "Article URL: https://blog.cloudflare.com/ai-platform/ Comments URL: https://news.ycombinator.com/item?id=47792538 Points: 267 # Comments: 60",
       "source": "Hacker News",
       "published": "2026-04-16T13:17:37+00:00",
       "link": "https://blog.cloudflare.com/ai-platform/"
@@ -325,7 +325,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI cybersecurity is not proof of work",
-      "summary": "Recent and related: Cybersecurity looks like proof of work now - https://news.ycombinator.com/item?id=47769089 - (198 comments) Comments URL: https://news.ycombinator.com/item?id=47791236 Points: 207 # Comments: 81",
+      "summary": "Recent and related: Cybersecurity looks like proof of work now - https://news.ycombinator.com/item?id=47769089 - (198 comments) Comments URL: https://news.ycombinator.com/item?id=47791236 Points: 219 # Comments: 84",
       "source": "Hacker News",
       "published": "2026-04-16T10:48:00+00:00",
       "link": "https://antirez.com/news/163"
@@ -346,28 +346,28 @@ const FEED_DATA = {
     },
     {
       "title": "SDL bans AI-written commits",
-      "summary": "Article URL: https://github.com/libsdl-org/SDL/issues/15350 Comments URL: https://news.ycombinator.com/item?id=47790791 Points: 116 # Comments: 118",
+      "summary": "Article URL: https://github.com/libsdl-org/SDL/issues/15350 Comments URL: https://news.ycombinator.com/item?id=47790791 Points: 121 # Comments: 121",
       "source": "Hacker News",
       "published": "2026-04-16T09:40:43+00:00",
       "link": "https://github.com/libsdl-org/SDL/issues/15350"
     },
     {
       "title": "Shares in shoe brand Allbirds rise 580% after it pivots from footwear to AI",
-      "summary": "Article URL: https://www.bbc.com/news/articles/c98mrepzgj7o Comments URL: https://news.ycombinator.com/item?id=47790353 Points: 57 # Comments: 23",
+      "summary": "Article URL: https://www.bbc.com/news/articles/c98mrepzgj7o Comments URL: https://news.ycombinator.com/item?id=47790353 Points: 63 # Comments: 23",
       "source": "Hacker News",
       "published": "2026-04-16T08:43:51+00:00",
       "link": "https://www.bbc.com/news/articles/c98mrepzgj7o"
     },
     {
       "title": "Sal Khan's AI revolution hasn't happened yet",
-      "summary": "Article URL: https://www.chalkbeat.org/2026/04/09/sal-khan-reflects-on-ai-in-schools-and-khanmigo/ Comments URL: https://news.ycombinator.com/item?id=47788845 Points: 57 # Comments: 73",
+      "summary": "Article URL: https://www.chalkbeat.org/2026/04/09/sal-khan-reflects-on-ai-in-schools-and-khanmigo/ Comments URL: https://news.ycombinator.com/item?id=47788845 Points: 58 # Comments: 73",
       "source": "Hacker News",
       "published": "2026-04-16T05:05:44+00:00",
       "link": "https://www.chalkbeat.org/2026/04/09/sal-khan-reflects-on-ai-in-schools-and-khanmigo/"
     },
     {
       "title": "The local LLM ecosystem doesn’t need Ollama",
-      "summary": "Article URL: https://sleepingrobots.com/dreams/stop-using-ollama/ Comments URL: https://news.ycombinator.com/item?id=47788385 Points: 610 # Comments: 201",
+      "summary": "Article URL: https://sleepingrobots.com/dreams/stop-using-ollama/ Comments URL: https://news.ycombinator.com/item?id=47788385 Points: 617 # Comments: 203",
       "source": "Hacker News",
       "published": "2026-04-16T03:35:11+00:00",
       "link": "https://sleepingrobots.com/dreams/stop-using-ollama/"
@@ -381,7 +381,7 @@ const FEED_DATA = {
     },
     {
       "title": "Does Gas Town 'steal' usage from users' LLM credits to improve itself?",
-      "summary": "Article URL: https://github.com/gastownhall/gastown/issues/3649 Comments URL: https://news.ycombinator.com/item?id=47785053 Points: 248 # Comments: 125",
+      "summary": "Article URL: https://github.com/gastownhall/gastown/issues/3649 Comments URL: https://news.ycombinator.com/item?id=47785053 Points: 250 # Comments: 125",
       "source": "Hacker News",
       "published": "2026-04-15T20:49:48+00:00",
       "link": "https://github.com/gastownhall/gastown/issues/3649"
@@ -444,7 +444,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI-assisted cognition endangers human development?",
-      "summary": "Article URL: https://heidenstedt.org/posts/2026/ai-assisted-cognition-endangers-human-development/ Comments URL: https://news.ycombinator.com/item?id=47783024 Points: 226 # Comments: 185",
+      "summary": "Article URL: https://heidenstedt.org/posts/2026/ai-assisted-cognition-endangers-human-development/ Comments URL: https://news.ycombinator.com/item?id=47783024 Points: 227 # Comments: 185",
       "source": "Hacker News",
       "published": "2026-04-15T18:16:50+00:00",
       "link": "https://heidenstedt.org/posts/2026/ai-assisted-cognition-endangers-human-development/"
@@ -493,7 +493,7 @@ const FEED_DATA = {
     },
     {
       "title": "CPUs Aren't Dead. Gemma2B Out Scored GPT-3.5 Turbo on Test That Made It Famous",
-      "summary": "Article URL: https://seqpu.com/CPUsArentDead/ Comments URL: https://news.ycombinator.com/item?id=47781998 Points: 97 # Comments: 48",
+      "summary": "Article URL: https://seqpu.com/CPUsArentDead/ Comments URL: https://news.ycombinator.com/item?id=47781998 Points: 98 # Comments: 48",
       "source": "Hacker News",
       "published": "2026-04-15T17:07:36+00:00",
       "link": "https://seqpu.com/CPUsArentDead/"
@@ -563,14 +563,14 @@ const FEED_DATA = {
     },
     {
       "title": "US v. Heppner (S.D.N.Y. 2026) no attorney-client privilege for AI chats [pdf]",
-      "summary": "Article URL: https://fingfx.thomsonreuters.com/gfx/legaldocs/xmvjyjekkpr/Rakoff%20-%20order%20-%20AI.pdf Comments URL: https://news.ycombinator.com/item?id=47778920 Points: 181 # Comments: 131",
+      "summary": "Article URL: https://fingfx.thomsonreuters.com/gfx/legaldocs/xmvjyjekkpr/Rakoff%20-%20order%20-%20AI.pdf Comments URL: https://news.ycombinator.com/item?id=47778920 Points: 183 # Comments: 132",
       "source": "Hacker News",
       "published": "2026-04-15T13:47:40+00:00",
       "link": "https://fingfx.thomsonreuters.com/gfx/legaldocs/xmvjyjekkpr/Rakoff%20-%20order%20-%20AI.pdf"
     },
     {
       "title": "Allbirds announces pivot from shoes to AI, stock explodes 175%",
-      "summary": "Article URL: https://www.cnbc.com/2026/04/15/allbirds-bird-stock-shoes-ai.html Comments URL: https://news.ycombinator.com/item?id=47778762 Points: 104 # Comments: 37",
+      "summary": "Article URL: https://www.cnbc.com/2026/04/15/allbirds-bird-stock-shoes-ai.html Comments URL: https://news.ycombinator.com/item?id=47778762 Points: 105 # Comments: 37",
       "source": "Hacker News",
       "published": "2026-04-15T13:34:44+00:00",
       "link": "https://www.cnbc.com/2026/04/15/allbirds-bird-stock-shoes-ai.html"
@@ -612,14 +612,14 @@ const FEED_DATA = {
     },
     {
       "title": "AI ruling prompts warnings from US lawyers: Your chats could be used against you",
-      "summary": "Article URL: https://www.reuters.com/legal/government/ai-ruling-prompts-warnings-us-lawyers-your-chats-could-be-used-against-you-2026-04-15/ Comments URL: https://news.ycombinator.com/item?id=47778308 Points: 153 # Comments: 99",
+      "summary": "Article URL: https://www.reuters.com/legal/government/ai-ruling-prompts-warnings-us-lawyers-your-chats-could-be-used-against-you-2026-04-15/ Comments URL: https://news.ycombinator.com/item?id=47778308 Points: 154 # Comments: 99",
       "source": "Hacker News",
       "published": "2026-04-15T12:51:13+00:00",
       "link": "https://www.reuters.com/legal/government/ai-ruling-prompts-warnings-us-lawyers-your-chats-could-be-used-against-you-2026-04-15/"
     },
     {
       "title": "Study: Back-to-basics approach can match or outperform AI in language analysis",
-      "summary": "Article URL: https://www.manchester.ac.uk/about/news/back-to-basics-approach-can-match-or-outperform-ai/ Comments URL: https://news.ycombinator.com/item?id=47778050 Points: 54 # Comments: 28",
+      "summary": "Article URL: https://www.manchester.ac.uk/about/news/back-to-basics-approach-can-match-or-outperform-ai/ Comments URL: https://news.ycombinator.com/item?id=47778050 Points: 56 # Comments: 28",
       "source": "Hacker News",
       "published": "2026-04-15T12:21:47+00:00",
       "link": "https://www.manchester.ac.uk/about/news/back-to-basics-approach-can-match-or-outperform-ai/"
