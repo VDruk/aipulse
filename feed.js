@@ -1,6 +1,34 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-04-16T21:36:26.065603+00:00",
+  "lastUpdated": "2026-04-17T04:11:23.298512+00:00",
   "items": [
+    {
+      "title": "George Orwell Predicted the Rise of \"AI Slop\" in Nineteen Eighty-Four",
+      "summary": "Article URL: https://www.openculture.com/2026/04/how-george-orwell-predicted-the-rise-of-ai-slop.html Comments URL: https://news.ycombinator.com/item?id=47800765 Points: 64 # Comments: 44",
+      "source": "Hacker News",
+      "published": "2026-04-16T23:17:47+00:00",
+      "link": "https://www.openculture.com/2026/04/how-george-orwell-predicted-the-rise-of-ai-slop.html"
+    },
+    {
+      "title": "Factory hits $1.5B valuation to build AI coding for enterprises",
+      "summary": "The three-year-old startup raised $150 million led by Khosla Ventures.",
+      "source": "TechCrunch",
+      "published": "2026-04-16T22:55:30+00:00",
+      "link": "https://techcrunch.com/2026/04/16/factory-hits-1-5b-valuation-to-build-ai-coding-for-enterprises/"
+    },
+    {
+      "title": "Luma launches AI-powered production studio with faith-focused Wonder Project",
+      "summary": "The studio's first project will be about Moses and star Academy Award-winner Ben Kingsley, to be released this spring on Prime Video.",
+      "source": "TechCrunch",
+      "published": "2026-04-16T21:58:08+00:00",
+      "link": "https://techcrunch.com/2026/04/16/luma-launches-ai-powered-production-studio-with-faith-focused-wonder-project/"
+    },
+    {
+      "title": "Guy builds AI driven hardware hacker arm from duct tape, old cam and CNC machine",
+      "summary": "Article URL: https://github.com/gainsec/autoprober Comments URL: https://news.ycombinator.com/item?id=47800033 Points: 114 # Comments: 25",
+      "source": "Hacker News",
+      "published": "2026-04-16T21:56:37+00:00",
+      "link": "https://github.com/gainsec/autoprober"
+    },
     {
       "title": "Upscale AI in talks to raise at $2B valuation, says report",
       "summary": "AI infrastructure company Upscale AI is reportedly in talks to raise its third funding round since launching just seven months ago.",
@@ -14,6 +42,13 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-04-16T20:26:44+00:00",
       "link": "https://techcrunch.com/2026/04/16/physical-intelligence-a-hot-robotics-startup-says-its-new-robot-brain-can-figure-out-tasks-it-was-never-taught/"
+    },
+    {
+      "title": "GPT‑Rosalind for life sciences research",
+      "summary": "Article URL: https://openai.com/index/introducing-gpt-rosalind/ Comments URL: https://news.ycombinator.com/item?id=47798244 Points: 71 # Comments: 17",
+      "source": "Hacker News",
+      "published": "2026-04-16T19:24:50+00:00",
+      "link": "https://openai.com/index/introducing-gpt-rosalind/"
     },
     {
       "title": "OpenAI takes aim at Anthropic with beefed-up Codex that gives it more power over your desktop",
@@ -171,7 +206,7 @@ const FEED_DATA = {
     },
     {
       "title": "We gave an AI a 3 year retail lease and asked it to make a profit",
-      "summary": "Article URL: https://andonlabs.com/blog/andon-market-launch Comments URL: https://news.ycombinator.com/item?id=47794391 Points: 179 # Comments: 235",
+      "summary": "Article URL: https://andonlabs.com/blog/andon-market-launch Comments URL: https://news.ycombinator.com/item?id=47794391 Points: 189 # Comments: 258",
       "source": "Hacker News",
       "published": "2026-04-16T15:13:13+00:00",
       "link": "https://andonlabs.com/blog/andon-market-launch"
@@ -220,7 +255,7 @@ const FEED_DATA = {
     },
     {
       "title": "Cloudflare's AI Platform: an inference layer designed for agents",
-      "summary": "Article URL: https://blog.cloudflare.com/ai-platform/ Comments URL: https://news.ycombinator.com/item?id=47792538 Points: 211 # Comments: 48",
+      "summary": "Article URL: https://blog.cloudflare.com/ai-platform/ Comments URL: https://news.ycombinator.com/item?id=47792538 Points: 253 # Comments: 59",
       "source": "Hacker News",
       "published": "2026-04-16T13:17:37+00:00",
       "link": "https://blog.cloudflare.com/ai-platform/"
@@ -290,7 +325,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI cybersecurity is not proof of work",
-      "summary": "Recent and related: Cybersecurity looks like proof of work now - https://news.ycombinator.com/item?id=47769089 - (198 comments) Comments URL: https://news.ycombinator.com/item?id=47791236 Points: 179 # Comments: 77",
+      "summary": "Recent and related: Cybersecurity looks like proof of work now - https://news.ycombinator.com/item?id=47769089 - (198 comments) Comments URL: https://news.ycombinator.com/item?id=47791236 Points: 207 # Comments: 81",
       "source": "Hacker News",
       "published": "2026-04-16T10:48:00+00:00",
       "link": "https://antirez.com/news/163"
@@ -311,10 +346,17 @@ const FEED_DATA = {
     },
     {
       "title": "SDL bans AI-written commits",
-      "summary": "Article URL: https://github.com/libsdl-org/SDL/issues/15350 Comments URL: https://news.ycombinator.com/item?id=47790791 Points: 104 # Comments: 107",
+      "summary": "Article URL: https://github.com/libsdl-org/SDL/issues/15350 Comments URL: https://news.ycombinator.com/item?id=47790791 Points: 116 # Comments: 118",
       "source": "Hacker News",
       "published": "2026-04-16T09:40:43+00:00",
       "link": "https://github.com/libsdl-org/SDL/issues/15350"
+    },
+    {
+      "title": "Shares in shoe brand Allbirds rise 580% after it pivots from footwear to AI",
+      "summary": "Article URL: https://www.bbc.com/news/articles/c98mrepzgj7o Comments URL: https://news.ycombinator.com/item?id=47790353 Points: 57 # Comments: 23",
+      "source": "Hacker News",
+      "published": "2026-04-16T08:43:51+00:00",
+      "link": "https://www.bbc.com/news/articles/c98mrepzgj7o"
     },
     {
       "title": "Sal Khan's AI revolution hasn't happened yet",
@@ -325,7 +367,7 @@ const FEED_DATA = {
     },
     {
       "title": "The local LLM ecosystem doesn’t need Ollama",
-      "summary": "Article URL: https://sleepingrobots.com/dreams/stop-using-ollama/ Comments URL: https://news.ycombinator.com/item?id=47788385 Points: 589 # Comments: 192",
+      "summary": "Article URL: https://sleepingrobots.com/dreams/stop-using-ollama/ Comments URL: https://news.ycombinator.com/item?id=47788385 Points: 610 # Comments: 201",
       "source": "Hacker News",
       "published": "2026-04-16T03:35:11+00:00",
       "link": "https://sleepingrobots.com/dreams/stop-using-ollama/"
@@ -402,7 +444,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI-assisted cognition endangers human development?",
-      "summary": "Article URL: https://heidenstedt.org/posts/2026/ai-assisted-cognition-endangers-human-development/ Comments URL: https://news.ycombinator.com/item?id=47783024 Points: 226 # Comments: 183",
+      "summary": "Article URL: https://heidenstedt.org/posts/2026/ai-assisted-cognition-endangers-human-development/ Comments URL: https://news.ycombinator.com/item?id=47783024 Points: 226 # Comments: 185",
       "source": "Hacker News",
       "published": "2026-04-15T18:16:50+00:00",
       "link": "https://heidenstedt.org/posts/2026/ai-assisted-cognition-endangers-human-development/"
@@ -521,14 +563,14 @@ const FEED_DATA = {
     },
     {
       "title": "US v. Heppner (S.D.N.Y. 2026) no attorney-client privilege for AI chats [pdf]",
-      "summary": "Article URL: https://fingfx.thomsonreuters.com/gfx/legaldocs/xmvjyjekkpr/Rakoff%20-%20order%20-%20AI.pdf Comments URL: https://news.ycombinator.com/item?id=47778920 Points: 177 # Comments: 129",
+      "summary": "Article URL: https://fingfx.thomsonreuters.com/gfx/legaldocs/xmvjyjekkpr/Rakoff%20-%20order%20-%20AI.pdf Comments URL: https://news.ycombinator.com/item?id=47778920 Points: 181 # Comments: 131",
       "source": "Hacker News",
       "published": "2026-04-15T13:47:40+00:00",
       "link": "https://fingfx.thomsonreuters.com/gfx/legaldocs/xmvjyjekkpr/Rakoff%20-%20order%20-%20AI.pdf"
     },
     {
       "title": "Allbirds announces pivot from shoes to AI, stock explodes 175%",
-      "summary": "Article URL: https://www.cnbc.com/2026/04/15/allbirds-bird-stock-shoes-ai.html Comments URL: https://news.ycombinator.com/item?id=47778762 Points: 103 # Comments: 34",
+      "summary": "Article URL: https://www.cnbc.com/2026/04/15/allbirds-bird-stock-shoes-ai.html Comments URL: https://news.ycombinator.com/item?id=47778762 Points: 104 # Comments: 37",
       "source": "Hacker News",
       "published": "2026-04-15T13:34:44+00:00",
       "link": "https://www.cnbc.com/2026/04/15/allbirds-bird-stock-shoes-ai.html"
@@ -1358,48 +1400,6 @@ const FEED_DATA = {
       "source": "The Verge",
       "published": "2026-04-11T15:00:00+00:00",
       "link": "https://www.theverge.com/ai-artificial-intelligence/910460/new-yorker-david-szauder-illustration-generative-ai"
-    },
-    {
-      "title": "Someone threw a Molotov cocktail at OpenAI CEO Sam Altman's home in the middle of the night",
-      "summary": "Someone threw a Molotov cocktail at OpenAI CEO Sam Altman's home at 3:45 a.m.",
-      "source": "The Decoder",
-      "published": "2026-04-11T13:32:58+00:00",
-      "link": "https://the-decoder.com/someone-threw-a-molotov-cocktail-at-openai-ceo-sam-altmans-home-in-the-middle-of-the-night/"
-    },
-    {
-      "title": "Google's Gemma 4 puts free agentic AI on your phone and no data ever leaves the device",
-      "summary": "Google's new open-source model, Gemma 4, processes text, images, and audio completely on-device. Using agent skills, the AI can independently tap into tools like Wikipedia or interactive maps; no cloud required.",
-      "source": "The Decoder",
-      "published": "2026-04-11T13:21:59+00:00",
-      "link": "https://the-decoder.com/googles-gemma-4-puts-free-agentic-ai-on-your-phone-and-no-data-ever-leaves-the-device/"
-    },
-    {
-      "title": "How Iran out-shitposted the White House",
-      "summary": "In the early days of the war on Iran, while the White House was busy posting Call of Duty memes and AI slop of dancing bowling pins, the Iranian regime's state media was flooding the zone with video after video of what was happening on the ground: Explosions over Tehran.",
-      "source": "The Verge",
-      "published": "2026-04-11T13:00:00+00:00",
-      "link": "https://www.theverge.com/policy/910401/iran-war-propaganda-blackout-lego-ai-slop"
-    },
-    {
-      "title": "The operator behind the AI agent that defamed an open-source developer calls it a \"social experiment\"",
-      "summary": "The anonymous operator behind \"MJ Rathbun,\" the AI agent that published a defamatory article about an open-source developer, has come forward, calling it a \"social experiment.\" The article The operator behind the AI agent that defamed an open-source developer calls it a \"social...",
-      "source": "The Decoder",
-      "published": "2026-04-11T11:22:21+00:00",
-      "link": "https://the-decoder.com/the-operator-behind-the-ai-agent-that-defamed-an-open-source-developer-calls-it-a-social-experiment/"
-    },
-    {
-      "title": "Show HN: Hormuz Havoc, a satirical game that got overrun by AI bots in 24 hours",
-      "summary": "I built a satirical browser game to share with friends (Hormuz Havoc: you play an American president managing a crisis in the Middle East, only \"loosely\" inspired by current events).",
-      "source": "Hacker News",
-      "published": "2026-04-11T10:58:36+00:00",
-      "link": "https://www.hormuz-havoc.com/"
-    },
-    {
-      "title": "Overworld's Waypoint-1.5 brings AI-generated 3D worlds to Mac and Windows on consumer hardware",
-      "summary": "With Waypoint-1.5, Overworld brings AI-generated 3D worlds to standard PCs and Macs for the first time. Here's what the system can do and how to try it.",
-      "source": "The Decoder",
-      "published": "2026-04-11T10:15:05+00:00",
-      "link": "https://the-decoder.com/overworlds-waypoint-1-5-brings-ai-generated-3d-worlds-to-mac-and-windows-on-consumer-hardware/"
     }
   ]
 };
