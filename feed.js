@@ -1,12 +1,75 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-04-17T14:21:19.160945+00:00",
+  "lastUpdated": "2026-04-17T17:43:55.257892+00:00",
   "items": [
+    {
+      "title": "This charming gadget writes bad AI poetry",
+      "summary": "I've never been as charmed and frustrated by one gadget as I have with the Poetry Camera. It's a delightful object.",
+      "source": "The Verge",
+      "published": "2026-04-17T17:30:00+00:00",
+      "link": "https://www.theverge.com/gadgets/913981/poetry-camera-ai-hands-on"
+    },
+    {
+      "title": "Some OpenAI shareholders reportedly question whether Altman can steer the company to a public offering",
+      "summary": "With OpenAI's planned IPO valuing the company at around $850 billion, internal doubts about Sam Altman are reportedly growing. According to the Wall Street Journal, some shareholders are already floating a potential successor.",
+      "source": "The Decoder",
+      "published": "2026-04-17T16:52:34+00:00",
+      "link": "https://the-decoder.com/some-openai-shareholders-reportedly-question-whether-altman-can-steer-the-company-to-a-public-offering/"
+    },
+    {
+      "title": "Anthropic's Claude Design turns chatbot conversations into prototypes, slide decks, and marketing assets",
+      "summary": "Anthropic is launching Claude Design, a new tool that lets users create and refine designs, interactive prototypes, presentation slides, and one-pagers through a back-and-forth conversation with Claude.",
+      "source": "The Decoder",
+      "published": "2026-04-17T16:16:44+00:00",
+      "link": "https://the-decoder.com/anthropics-claude-design-turns-chatbot-conversations-into-prototypes-slide-decks-and-marketing-assets/"
+    },
+    {
+      "title": "Tokenmaxxing, OpenAI’s shopping spree, and the AI Anxiety Gap",
+      "summary": "The gap between AI insiders and everyone else is widening, and the spending, suspicion, and even new vocabulary are starting to show it.",
+      "source": "TechCrunch",
+      "published": "2026-04-17T15:57:40+00:00",
+      "link": "https://techcrunch.com/podcast/tokenmaxxing-openais-shopping-spree-and-the-ai-anxiety-gap/"
+    },
+    {
+      "title": "Dairy Queen is putting an AI chatbot in its drive-thrus",
+      "summary": "Dairy Queen is becoming the latest fast food chain to get in on AI, as it's bringing a chatbot to dozens of its drive-thrus across the US and Canada.",
+      "source": "The Verge",
+      "published": "2026-04-17T15:46:37+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/913928/dairy-queen-ai-drive-thru-presto"
+    },
+    {
+      "title": "AI Drafting My Stories? Over My Dead Body",
+      "summary": "AI-assisted writing is creeping into newsrooms under the guise of efficiency. But the tradeoff may be more profound than publishers are willing to admit.",
+      "source": "Wired",
+      "published": "2026-04-17T15:46:06+00:00",
+      "link": "https://www.wired.com/story/backchannel-the-problem-with-letting-ai-do-the-writing/"
+    },
+    {
+      "title": "Anthropic launches Claude Design, a new product for creating quick visuals",
+      "summary": "The company says Claude Design is intended to help people like founders and product managers without a design background share their ideas more easily.",
+      "source": "TechCrunch",
+      "published": "2026-04-17T15:00:00+00:00",
+      "link": "https://techcrunch.com/2026/04/17/anthropic-launches-claude-design-a-new-product-for-creating-quick-visuals/"
+    },
+    {
+      "title": "Scan your website to see how ready it is for AI agents",
+      "summary": "Article URL: https://isitagentready.com Comments URL: https://news.ycombinator.com/item?id=47805998 Points: 66 # Comments: 113",
+      "source": "Hacker News",
+      "published": "2026-04-17T13:55:25+00:00",
+      "link": "https://isitagentready.com"
+    },
     {
       "title": "The ‘AI is inevitable’ trap",
       "summary": "In the latest sign of AI silly season, Allbirds, the shoe company, told the world it was now an AI company and briefly managed to septuple its stock price.",
       "source": "The Verge",
       "published": "2026-04-17T13:24:34+00:00",
       "link": "https://www.theverge.com/podcast/913792/ai-divide-sam-altman-vergecast"
+    },
+    {
+      "title": "Are we tokenmaxxing our way to nowhere?",
+      "summary": "The gap between AI insiders and everyone else is widening, and the spending, suspicion, and even new vocabulary are starting to show it.",
+      "source": "TechCrunch",
+      "published": "2026-04-17T13:00:00+00:00",
+      "link": "https://techcrunch.com/video/are-we-tokenmaxxing-our-way-to-nowhere/"
     },
     {
       "title": "Google finds new ways to keep you from ever clicking a link again",
@@ -52,7 +115,7 @@ const FEED_DATA = {
     },
     {
       "title": "George Orwell Predicted the Rise of \"AI Slop\" in Nineteen Eighty-Four",
-      "summary": "Article URL: https://www.openculture.com/2026/04/how-george-orwell-predicted-the-rise-of-ai-slop.html Comments URL: https://news.ycombinator.com/item?id=47800765 Points: 80 # Comments: 53",
+      "summary": "Article URL: https://www.openculture.com/2026/04/how-george-orwell-predicted-the-rise-of-ai-slop.html Comments URL: https://news.ycombinator.com/item?id=47800765 Points: 82 # Comments: 59",
       "source": "Hacker News",
       "published": "2026-04-16T23:17:47+00:00",
       "link": "https://www.openculture.com/2026/04/how-george-orwell-predicted-the-rise-of-ai-slop.html"
@@ -73,14 +136,14 @@ const FEED_DATA = {
     },
     {
       "title": "Guy builds AI driven hardware hacker arm from duct tape, old cam and CNC machine",
-      "summary": "Article URL: https://github.com/gainsec/autoprober Comments URL: https://news.ycombinator.com/item?id=47800033 Points: 204 # Comments: 40",
+      "summary": "Article URL: https://github.com/gainsec/autoprober Comments URL: https://news.ycombinator.com/item?id=47800033 Points: 214 # Comments: 44",
       "source": "Hacker News",
       "published": "2026-04-16T21:56:37+00:00",
       "link": "https://github.com/gainsec/autoprober"
     },
     {
       "title": "The beginning of scarcity in AI",
-      "summary": "Article URL: https://tomtunguz.com/ai-compute-crisis-2026/ Comments URL: https://news.ycombinator.com/item?id=47799322 Points: 130 # Comments: 159",
+      "summary": "Article URL: https://tomtunguz.com/ai-compute-crisis-2026/ Comments URL: https://news.ycombinator.com/item?id=47799322 Points: 153 # Comments: 194",
       "source": "Hacker News",
       "published": "2026-04-16T20:49:35+00:00",
       "link": "https://tomtunguz.com/ai-compute-crisis-2026/"
@@ -101,7 +164,7 @@ const FEED_DATA = {
     },
     {
       "title": "GPT‑Rosalind for life sciences research",
-      "summary": "Article URL: https://openai.com/index/introducing-gpt-rosalind/ Comments URL: https://news.ycombinator.com/item?id=47798244 Points: 98 # Comments: 29",
+      "summary": "Article URL: https://openai.com/index/introducing-gpt-rosalind/ Comments URL: https://news.ycombinator.com/item?id=47798244 Points: 99 # Comments: 29",
       "source": "Hacker News",
       "published": "2026-04-16T19:24:50+00:00",
       "link": "https://openai.com/index/introducing-gpt-rosalind/"
@@ -269,7 +332,7 @@ const FEED_DATA = {
     },
     {
       "title": "We gave an AI a 3 year retail lease and asked it to make a profit",
-      "summary": "Article URL: https://andonlabs.com/blog/andon-market-launch Comments URL: https://news.ycombinator.com/item?id=47794391 Points: 195 # Comments: 274",
+      "summary": "Article URL: https://andonlabs.com/blog/andon-market-launch Comments URL: https://news.ycombinator.com/item?id=47794391 Points: 197 # Comments: 278",
       "source": "Hacker News",
       "published": "2026-04-16T15:13:13+00:00",
       "link": "https://andonlabs.com/blog/andon-market-launch"
@@ -325,7 +388,7 @@ const FEED_DATA = {
     },
     {
       "title": "Cloudflare's AI Platform: an inference layer designed for agents",
-      "summary": "Article URL: https://blog.cloudflare.com/ai-platform/ Comments URL: https://news.ycombinator.com/item?id=47792538 Points: 296 # Comments: 78",
+      "summary": "Article URL: https://blog.cloudflare.com/ai-platform/ Comments URL: https://news.ycombinator.com/item?id=47792538 Points: 303 # Comments: 90",
       "source": "Hacker News",
       "published": "2026-04-16T13:17:37+00:00",
       "link": "https://blog.cloudflare.com/ai-platform/"
@@ -395,7 +458,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI cybersecurity is not proof of work",
-      "summary": "Recent and related: Cybersecurity looks like proof of work now - https://news.ycombinator.com/item?id=47769089 - (198 comments) Comments URL: https://news.ycombinator.com/item?id=47791236 Points: 226 # Comments: 85",
+      "summary": "Recent and related: Cybersecurity looks like proof of work now - https://news.ycombinator.com/item?id=47769089 - (198 comments) Comments URL: https://news.ycombinator.com/item?id=47791236 Points: 228 # Comments: 87",
       "source": "Hacker News",
       "published": "2026-04-16T10:48:00+00:00",
       "link": "https://antirez.com/news/163"
@@ -416,14 +479,14 @@ const FEED_DATA = {
     },
     {
       "title": "SDL bans AI-written commits",
-      "summary": "Article URL: https://github.com/libsdl-org/SDL/issues/15350 Comments URL: https://news.ycombinator.com/item?id=47790791 Points: 125 # Comments: 123",
+      "summary": "Article URL: https://github.com/libsdl-org/SDL/issues/15350 Comments URL: https://news.ycombinator.com/item?id=47790791 Points: 125 # Comments: 131",
       "source": "Hacker News",
       "published": "2026-04-16T09:40:43+00:00",
       "link": "https://github.com/libsdl-org/SDL/issues/15350"
     },
     {
       "title": "Shares in shoe brand Allbirds rise 580% after it pivots from footwear to AI",
-      "summary": "Article URL: https://www.bbc.com/news/articles/c98mrepzgj7o Comments URL: https://news.ycombinator.com/item?id=47790353 Points: 68 # Comments: 27",
+      "summary": "Article URL: https://www.bbc.com/news/articles/c98mrepzgj7o Comments URL: https://news.ycombinator.com/item?id=47790353 Points: 69 # Comments: 28",
       "source": "Hacker News",
       "published": "2026-04-16T08:43:51+00:00",
       "link": "https://www.bbc.com/news/articles/c98mrepzgj7o"
@@ -437,7 +500,7 @@ const FEED_DATA = {
     },
     {
       "title": "The local LLM ecosystem doesn’t need Ollama",
-      "summary": "Article URL: https://sleepingrobots.com/dreams/stop-using-ollama/ Comments URL: https://news.ycombinator.com/item?id=47788385 Points: 627 # Comments: 207",
+      "summary": "Article URL: https://sleepingrobots.com/dreams/stop-using-ollama/ Comments URL: https://news.ycombinator.com/item?id=47788385 Points: 630 # Comments: 208",
       "source": "Hacker News",
       "published": "2026-04-16T03:35:11+00:00",
       "link": "https://sleepingrobots.com/dreams/stop-using-ollama/"
@@ -514,7 +577,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI-assisted cognition endangers human development?",
-      "summary": "Article URL: https://heidenstedt.org/posts/2026/ai-assisted-cognition-endangers-human-development/ Comments URL: https://news.ycombinator.com/item?id=47783024 Points: 227 # Comments: 186",
+      "summary": "Article URL: https://heidenstedt.org/posts/2026/ai-assisted-cognition-endangers-human-development/ Comments URL: https://news.ycombinator.com/item?id=47783024 Points: 229 # Comments: 187",
       "source": "Hacker News",
       "published": "2026-04-15T18:16:50+00:00",
       "link": "https://heidenstedt.org/posts/2026/ai-assisted-cognition-endangers-human-development/"
@@ -633,7 +696,7 @@ const FEED_DATA = {
     },
     {
       "title": "US v. Heppner (S.D.N.Y. 2026) no attorney-client privilege for AI chats [pdf]",
-      "summary": "Article URL: https://fingfx.thomsonreuters.com/gfx/legaldocs/xmvjyjekkpr/Rakoff%20-%20order%20-%20AI.pdf Comments URL: https://news.ycombinator.com/item?id=47778920 Points: 185 # Comments: 135",
+      "summary": "Article URL: https://fingfx.thomsonreuters.com/gfx/legaldocs/xmvjyjekkpr/Rakoff%20-%20order%20-%20AI.pdf Comments URL: https://news.ycombinator.com/item?id=47778920 Points: 188 # Comments: 136",
       "source": "Hacker News",
       "published": "2026-04-15T13:47:40+00:00",
       "link": "https://fingfx.thomsonreuters.com/gfx/legaldocs/xmvjyjekkpr/Rakoff%20-%20order%20-%20AI.pdf"
@@ -751,18 +814,18 @@ const FEED_DATA = {
       "link": "https://the-decoder.com/openais-gpt-5-4-pro-reportedly-solves-a-longstanding-open-erdos-math-problem-in-under-two-hours/"
     },
     {
-      "title": "The Deepfake Nudes Crisis in Schools Is Much Worse Than You Thought",
-      "summary": "An analysis by WIRED and Indicator found nearly 90 schools and 600 students around the world impacted by AI-generated deepfake nude images—and the problem shows no signs of going away.",
-      "source": "Wired",
-      "published": "2026-04-15T10:00:00+00:00",
-      "link": "https://www.wired.com/story/deepfake-nudify-schools-global-crisis/"
-    },
-    {
       "title": "The US-China AI gap closes amid responsible AI concerns",
       "summary": "The assumption that the US holds a durable lead in AI model performance is not well-supported by the data, and that is just one of the uncomfortable findings in Stanford University’s 2026 AI Index Report, published this week.",
       "source": "AI News",
       "published": "2026-04-15T10:00:00+00:00",
       "link": "https://www.artificialintelligence-news.com/news/ai-safety-benchmarks-stanford-hai-2026-report/"
+    },
+    {
+      "title": "The Deepfake Nudes Crisis in Schools Is Much Worse Than You Thought",
+      "summary": "An analysis by WIRED and Indicator found nearly 90 schools and 600 students around the world impacted by AI-generated deepfake nude images—and the problem shows no signs of going away.",
+      "source": "Wired",
+      "published": "2026-04-15T10:00:00+00:00",
+      "link": "https://www.wired.com/story/deepfake-nudify-schools-global-crisis/"
     },
     {
       "title": "The US-China AI gap closed. The responsible AI gap didn’t",
@@ -1337,69 +1400,6 @@ const FEED_DATA = {
       "source": "Hacker News",
       "published": "2026-04-12T19:51:06+00:00",
       "link": "https://europe.mistral.ai/"
-    },
-    {
-      "title": "Bouncer: Block \"crypto\", \"rage politics\", and more from your X feed using AI",
-      "summary": "Article URL: https://github.com/imbue-ai/bouncer Comments URL: https://news.ycombinator.com/item?id=47741531 Points: 53 # Comments: 119",
-      "source": "Hacker News",
-      "published": "2026-04-12T16:24:46+00:00",
-      "link": "https://github.com/imbue-ai/bouncer"
-    },
-    {
-      "title": "From LLMs to hallucinations, here’s a simple guide to common AI terms",
-      "summary": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.",
-      "source": "TechCrunch",
-      "published": "2026-04-12T15:07:08+00:00",
-      "link": "https://techcrunch.com/2026/04/12/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/"
-    },
-    {
-      "title": "Man who firebombed Sam Altman's home was likely driven by AI extinction fears",
-      "summary": "A man threw a firebomb at OpenAI CEO Sam Altman's San Francisco home in the middle of the night. The suspect was a member of the PauseAI Discord server and had posted online about AI driving humanity to extinction.",
-      "source": "The Decoder",
-      "published": "2026-04-12T15:04:58+00:00",
-      "link": "https://the-decoder.com/man-who-firebombed-sam-altmans-home-was-likely-driven-by-ai-extinction-fears/"
-    },
-    {
-      "title": "At the HumanX conference, everyone was talking about Claude",
-      "summary": "Anthropic was the star of the show at San Francisco's AI-centric conference.",
-      "source": "TechCrunch",
-      "published": "2026-04-12T15:00:00+00:00",
-      "link": "https://techcrunch.com/2026/04/12/at-the-humanx-conference-everyone-was-talking-about-claude/"
-    },
-    {
-      "title": "OpenAI employee tries to explain usage limits of the new ChatGPT Pro plans",
-      "summary": "OpenAI recently added a $100 plan to its lineup, but confusing labels on the pricing page left users guessing about actual usage limits. An OpenAI employee tried to clear things up.",
-      "source": "The Decoder",
-      "published": "2026-04-12T13:32:38+00:00",
-      "link": "https://the-decoder.com/openai-employee-tries-to-explain-usage-limits-of-the-new-chatgpt-pro-plans/"
-    },
-    {
-      "title": "Why AI Sucks at Front End",
-      "summary": "Article URL: https://nerdy.dev/why-ai-sucks-at-front-end Comments URL: https://news.ycombinator.com/item?id=47738864 Points: 123 # Comments: 167",
-      "source": "Hacker News",
-      "published": "2026-04-12T12:26:09+00:00",
-      "link": "https://nerdy.dev/why-ai-sucks-at-front-end"
-    },
-    {
-      "title": "Researchers define what counts as a world model and text-to-video generators do not",
-      "summary": "An international research team wants to bring order to the fragmented world model research landscape with OpenWorldLib. Text-to-video models like Sora are explicitly left out of their definition.",
-      "source": "The Decoder",
-      "published": "2026-04-12T12:09:38+00:00",
-      "link": "https://the-decoder.com/researchers-define-what-counts-as-a-world-model-and-text-to-video-generators-do-not/"
-    },
-    {
-      "title": "The AI code wars are heating up",
-      "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the AI coding and vibe-coding booms, follow David Pierce.",
-      "source": "The Verge",
-      "published": "2026-04-12T12:00:00+00:00",
-      "link": "https://www.theverge.com/column/910019/ai-coding-wars-openai-google-anthropic"
-    },
-    {
-      "title": "Anthropic seeks advice from Christian leaders on Claude's moral and spiritual behavior",
-      "summary": "Can an AI be a \"child of God\"? Anthropic invited Christian leaders from churches, academia, and business to weigh in on Claude's moral and spiritual behavior.",
-      "source": "The Decoder",
-      "published": "2026-04-12T11:25:54+00:00",
-      "link": "https://the-decoder.com/anthropic-seeks-advice-from-christian-leaders-on-claudes-moral-and-spiritual-behavior/"
     }
   ]
 };
