@@ -1,9 +1,16 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-04-17T06:58:21.853250+00:00",
+  "lastUpdated": "2026-04-17T10:02:24.228442+00:00",
   "items": [
     {
+      "title": "Beijing brands Meta's Manus acquisition as \"conspiratorial\" and bars founders from leaving China",
+      "summary": "China's National Security Commission, led by President Xi Jinping, has branded Meta's $2 billion acquisition of AI startup Manus a \"conspiratorial\" attempt to hollow out the country's technology base, the Financial Times reports.",
+      "source": "The Decoder",
+      "published": "2026-04-17T09:01:24+00:00",
+      "link": "https://the-decoder.com/beijing-brands-metas-manus-acquisition-as-conspiratorial-and-bars-founders-from-leaving-china/"
+    },
+    {
       "title": "George Orwell Predicted the Rise of \"AI Slop\" in Nineteen Eighty-Four",
-      "summary": "Article URL: https://www.openculture.com/2026/04/how-george-orwell-predicted-the-rise-of-ai-slop.html Comments URL: https://news.ycombinator.com/item?id=47800765 Points: 74 # Comments: 48",
+      "summary": "Article URL: https://www.openculture.com/2026/04/how-george-orwell-predicted-the-rise-of-ai-slop.html Comments URL: https://news.ycombinator.com/item?id=47800765 Points: 76 # Comments: 51",
       "source": "Hacker News",
       "published": "2026-04-16T23:17:47+00:00",
       "link": "https://www.openculture.com/2026/04/how-george-orwell-predicted-the-rise-of-ai-slop.html"
@@ -24,10 +31,17 @@ const FEED_DATA = {
     },
     {
       "title": "Guy builds AI driven hardware hacker arm from duct tape, old cam and CNC machine",
-      "summary": "Article URL: https://github.com/gainsec/autoprober Comments URL: https://news.ycombinator.com/item?id=47800033 Points: 151 # Comments: 33",
+      "summary": "Article URL: https://github.com/gainsec/autoprober Comments URL: https://news.ycombinator.com/item?id=47800033 Points: 178 # Comments: 39",
       "source": "Hacker News",
       "published": "2026-04-16T21:56:37+00:00",
       "link": "https://github.com/gainsec/autoprober"
+    },
+    {
+      "title": "The beginning of scarcity in AI",
+      "summary": "Article URL: https://tomtunguz.com/ai-compute-crisis-2026/ Comments URL: https://news.ycombinator.com/item?id=47799322 Points: 80 # Comments: 104",
+      "source": "Hacker News",
+      "published": "2026-04-16T20:49:35+00:00",
+      "link": "https://tomtunguz.com/ai-compute-crisis-2026/"
     },
     {
       "title": "Upscale AI in talks to raise at $2B valuation, says report",
@@ -45,7 +59,7 @@ const FEED_DATA = {
     },
     {
       "title": "GPT‑Rosalind for life sciences research",
-      "summary": "Article URL: https://openai.com/index/introducing-gpt-rosalind/ Comments URL: https://news.ycombinator.com/item?id=47798244 Points: 88 # Comments: 22",
+      "summary": "Article URL: https://openai.com/index/introducing-gpt-rosalind/ Comments URL: https://news.ycombinator.com/item?id=47798244 Points: 95 # Comments: 25",
       "source": "Hacker News",
       "published": "2026-04-16T19:24:50+00:00",
       "link": "https://openai.com/index/introducing-gpt-rosalind/"
@@ -206,7 +220,7 @@ const FEED_DATA = {
     },
     {
       "title": "We gave an AI a 3 year retail lease and asked it to make a profit",
-      "summary": "Article URL: https://andonlabs.com/blog/andon-market-launch Comments URL: https://news.ycombinator.com/item?id=47794391 Points: 191 # Comments: 262",
+      "summary": "Article URL: https://andonlabs.com/blog/andon-market-launch Comments URL: https://news.ycombinator.com/item?id=47794391 Points: 194 # Comments: 269",
       "source": "Hacker News",
       "published": "2026-04-16T15:13:13+00:00",
       "link": "https://andonlabs.com/blog/andon-market-launch"
@@ -217,6 +231,13 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-04-16T14:39:45+00:00",
       "link": "https://the-decoder.com/bytedance-rolls-out-seedance-2-0-to-100-countries-but-keeps-the-us-off-the-list/"
+    },
+    {
+      "title": "There's yet another study about how bad AI is for our brains",
+      "summary": "Article URL: https://www.engadget.com/ai/theres-yet-another-study-about-how-bad-ai-is-for-our-brains-183418494.html Comments URL: https://news.ycombinator.com/item?id=47793522 Points: 50 # Comments: 61",
+      "source": "Hacker News",
+      "published": "2026-04-16T14:30:38+00:00",
+      "link": "https://www.engadget.com/ai/theres-yet-another-study-about-how-bad-ai-is-for-our-brains-183418494.html"
     },
     {
       "title": "Runway CEO says AI could help Hollywood make 50 films instead of one $100M blockbuster",
@@ -255,7 +276,7 @@ const FEED_DATA = {
     },
     {
       "title": "Cloudflare's AI Platform: an inference layer designed for agents",
-      "summary": "Article URL: https://blog.cloudflare.com/ai-platform/ Comments URL: https://news.ycombinator.com/item?id=47792538 Points: 267 # Comments: 60",
+      "summary": "Article URL: https://blog.cloudflare.com/ai-platform/ Comments URL: https://news.ycombinator.com/item?id=47792538 Points: 281 # Comments: 68",
       "source": "Hacker News",
       "published": "2026-04-16T13:17:37+00:00",
       "link": "https://blog.cloudflare.com/ai-platform/"
@@ -325,7 +346,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI cybersecurity is not proof of work",
-      "summary": "Recent and related: Cybersecurity looks like proof of work now - https://news.ycombinator.com/item?id=47769089 - (198 comments) Comments URL: https://news.ycombinator.com/item?id=47791236 Points: 219 # Comments: 84",
+      "summary": "Recent and related: Cybersecurity looks like proof of work now - https://news.ycombinator.com/item?id=47769089 - (198 comments) Comments URL: https://news.ycombinator.com/item?id=47791236 Points: 220 # Comments: 85",
       "source": "Hacker News",
       "published": "2026-04-16T10:48:00+00:00",
       "link": "https://antirez.com/news/163"
@@ -346,14 +367,14 @@ const FEED_DATA = {
     },
     {
       "title": "SDL bans AI-written commits",
-      "summary": "Article URL: https://github.com/libsdl-org/SDL/issues/15350 Comments URL: https://news.ycombinator.com/item?id=47790791 Points: 121 # Comments: 121",
+      "summary": "Article URL: https://github.com/libsdl-org/SDL/issues/15350 Comments URL: https://news.ycombinator.com/item?id=47790791 Points: 123 # Comments: 122",
       "source": "Hacker News",
       "published": "2026-04-16T09:40:43+00:00",
       "link": "https://github.com/libsdl-org/SDL/issues/15350"
     },
     {
       "title": "Shares in shoe brand Allbirds rise 580% after it pivots from footwear to AI",
-      "summary": "Article URL: https://www.bbc.com/news/articles/c98mrepzgj7o Comments URL: https://news.ycombinator.com/item?id=47790353 Points: 63 # Comments: 23",
+      "summary": "Article URL: https://www.bbc.com/news/articles/c98mrepzgj7o Comments URL: https://news.ycombinator.com/item?id=47790353 Points: 66 # Comments: 25",
       "source": "Hacker News",
       "published": "2026-04-16T08:43:51+00:00",
       "link": "https://www.bbc.com/news/articles/c98mrepzgj7o"
@@ -367,7 +388,7 @@ const FEED_DATA = {
     },
     {
       "title": "The local LLM ecosystem doesn’t need Ollama",
-      "summary": "Article URL: https://sleepingrobots.com/dreams/stop-using-ollama/ Comments URL: https://news.ycombinator.com/item?id=47788385 Points: 617 # Comments: 203",
+      "summary": "Article URL: https://sleepingrobots.com/dreams/stop-using-ollama/ Comments URL: https://news.ycombinator.com/item?id=47788385 Points: 622 # Comments: 207",
       "source": "Hacker News",
       "published": "2026-04-16T03:35:11+00:00",
       "link": "https://sleepingrobots.com/dreams/stop-using-ollama/"
@@ -563,7 +584,7 @@ const FEED_DATA = {
     },
     {
       "title": "US v. Heppner (S.D.N.Y. 2026) no attorney-client privilege for AI chats [pdf]",
-      "summary": "Article URL: https://fingfx.thomsonreuters.com/gfx/legaldocs/xmvjyjekkpr/Rakoff%20-%20order%20-%20AI.pdf Comments URL: https://news.ycombinator.com/item?id=47778920 Points: 183 # Comments: 132",
+      "summary": "Article URL: https://fingfx.thomsonreuters.com/gfx/legaldocs/xmvjyjekkpr/Rakoff%20-%20order%20-%20AI.pdf Comments URL: https://news.ycombinator.com/item?id=47778920 Points: 183 # Comments: 134",
       "source": "Hacker News",
       "published": "2026-04-15T13:47:40+00:00",
       "link": "https://fingfx.thomsonreuters.com/gfx/legaldocs/xmvjyjekkpr/Rakoff%20-%20order%20-%20AI.pdf"
@@ -1379,27 +1400,6 @@ const FEED_DATA = {
       "source": "Hacker News",
       "published": "2026-04-11T19:15:56+00:00",
       "link": "https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/"
-    },
-    {
-      "title": "How We Broke Top AI Agent Benchmarks: And What Comes Next",
-      "summary": "Article URL: https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/ Comments URL: https://news.ycombinator.com/item?id=47733217 Points: 458 # Comments: 112",
-      "source": "Hacker News",
-      "published": "2026-04-11T19:15:56+00:00",
-      "link": "https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/"
-    },
-    {
-      "title": "Sam Altman responds to ‘incendiary’ New Yorker article after attack on his home",
-      "summary": "The OpenAI CEO's new blog post responds to both an apparent attack on his home and an in-depth New Yorker profile raising questions about his trustworthiness.",
-      "source": "TechCrunch",
-      "published": "2026-04-11T17:18:22+00:00",
-      "link": "https://techcrunch.com/2026/04/11/sam-altman-responds-to-incendiary-new-yorker-article-after-attack-on-his-home/"
-    },
-    {
-      "title": "Your article about AI doesn’t need AI art",
-      "summary": "The illustration for The New Yorker's profile of OpenAI CEO Sam Altman is a jump scare. Altman stands in a blue sweater with a blank expression.",
-      "source": "The Verge",
-      "published": "2026-04-11T15:00:00+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/910460/new-yorker-david-szauder-illustration-generative-ai"
     }
   ]
 };
