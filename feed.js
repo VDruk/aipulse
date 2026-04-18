@@ -1,6 +1,20 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-04-18T17:32:42.246869+00:00",
+  "lastUpdated": "2026-04-18T21:27:06.595001+00:00",
   "items": [
+    {
+      "title": "The RAM shortage could last years",
+      "summary": "According to Nikkei Asia, even as suppliers ramp up DRAM production, manufacturers are only expected to meet 60 percent of demand by the end of 2027. SK Group chairman has even said that shortages could last until 2030.",
+      "source": "The Verge",
+      "published": "2026-04-18T21:08:45+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/914672/the-ram-shortage-could-last-years"
+    },
+    {
+      "title": "AI chip startup Cerebras files for IPO",
+      "summary": "In recent months, the company announced an agreement with Amazon Web Services to use Cerebras chips in Amazon data centers, as well as a deal with OpenAI reportedly worth more than $10 billion.",
+      "source": "TechCrunch",
+      "published": "2026-04-18T19:19:11+00:00",
+      "link": "https://techcrunch.com/2026/04/18/ai-chip-startup-cerebras-files-for-ipo/"
+    },
     {
       "title": "Anthropic’s relationship with the Trump administration seems to be thawing",
       "summary": "Despite recently being designated a supply-chain risk by the Pentagon, Anthropic is still talking to high-level members of the Trump administration.",
@@ -30,18 +44,18 @@ const FEED_DATA = {
       "link": "https://the-decoder.com/just-ten-minutes-of-using-ai-as-an-answer-machine-can-measurably-erode-problem-solving-skills-new-study-finds/"
     },
     {
-      "title": "Schematik Is ‘Cursor for Hardware.’ Anthropic Wants In",
-      "summary": "Schematik is a program that aims to help people vibe code for physical devices. Hopefully, it won’t blow anything up.",
-      "source": "Wired",
-      "published": "2026-04-18T10:30:00+00:00",
-      "link": "https://www.wired.com/story/schematik-is-cursor-for-hardware-anthropic-wants-in-on-it/"
-    },
-    {
       "title": "It Takes 2 Minutes to Hack the EU’s New Age-Verification App",
       "summary": "Plus: Major data breaches at a gym chain and hotel giant, a disruptive DDoS attack against Bluesky, dubious ICE hires, and more.",
       "source": "Wired",
       "published": "2026-04-18T10:30:00+00:00",
       "link": "https://www.wired.com/story/security-news-this-week-it-takes-2-minutes-to-hack-the-eus-new-age-verification-app/"
+    },
+    {
+      "title": "Schematik Is ‘Cursor for Hardware.’ Anthropic Wants In",
+      "summary": "Schematik is a program that aims to help people vibe code for physical devices. Hopefully, it won’t blow anything up.",
+      "source": "Wired",
+      "published": "2026-04-18T10:30:00+00:00",
+      "link": "https://www.wired.com/story/schematik-is-cursor-for-hardware-anthropic-wants-in-on-it/"
     },
     {
       "title": "Anthropic CEO Amodei declares \"there is no end to the rainbow\" for AI scaling",
@@ -220,7 +234,7 @@ const FEED_DATA = {
     },
     {
       "title": "Scan your website to see how ready it is for AI agents",
-      "summary": "Article URL: https://isitagentready.com Comments URL: https://news.ycombinator.com/item?id=47805998 Points: 107 # Comments: 171",
+      "summary": "Article URL: https://isitagentready.com Comments URL: https://news.ycombinator.com/item?id=47805998 Points: 108 # Comments: 173",
       "source": "Hacker News",
       "published": "2026-04-17T13:55:25+00:00",
       "link": "https://isitagentready.com"
@@ -311,7 +325,7 @@ const FEED_DATA = {
     },
     {
       "title": "The beginning of scarcity in AI",
-      "summary": "Article URL: https://tomtunguz.com/ai-compute-crisis-2026/ Comments URL: https://news.ycombinator.com/item?id=47799322 Points: 185 # Comments: 216",
+      "summary": "Article URL: https://tomtunguz.com/ai-compute-crisis-2026/ Comments URL: https://news.ycombinator.com/item?id=47799322 Points: 186 # Comments: 220",
       "source": "Hacker News",
       "published": "2026-04-16T20:49:35+00:00",
       "link": "https://tomtunguz.com/ai-compute-crisis-2026/"
@@ -647,7 +661,7 @@ const FEED_DATA = {
     },
     {
       "title": "SDL bans AI-written commits",
-      "summary": "Article URL: https://github.com/libsdl-org/SDL/issues/15350 Comments URL: https://news.ycombinator.com/item?id=47790791 Points: 130 # Comments: 136",
+      "summary": "Article URL: https://github.com/libsdl-org/SDL/issues/15350 Comments URL: https://news.ycombinator.com/item?id=47790791 Points: 130 # Comments: 137",
       "source": "Hacker News",
       "published": "2026-04-16T09:40:43+00:00",
       "link": "https://github.com/libsdl-org/SDL/issues/15350"
@@ -668,7 +682,7 @@ const FEED_DATA = {
     },
     {
       "title": "The local LLM ecosystem doesn’t need Ollama",
-      "summary": "Article URL: https://sleepingrobots.com/dreams/stop-using-ollama/ Comments URL: https://news.ycombinator.com/item?id=47788385 Points: 636 # Comments: 208",
+      "summary": "Article URL: https://sleepingrobots.com/dreams/stop-using-ollama/ Comments URL: https://news.ycombinator.com/item?id=47788385 Points: 638 # Comments: 208",
       "source": "Hacker News",
       "published": "2026-04-16T03:35:11+00:00",
       "link": "https://sleepingrobots.com/dreams/stop-using-ollama/"
@@ -864,7 +878,7 @@ const FEED_DATA = {
     },
     {
       "title": "Are the costs of AI agents also rising exponentially? (2025)",
-      "summary": "Article URL: https://www.tobyord.com/writing/hourly-costs-for-ai-agents Comments URL: https://news.ycombinator.com/item?id=47778922 Points: 276 # Comments: 108",
+      "summary": "Article URL: https://www.tobyord.com/writing/hourly-costs-for-ai-agents Comments URL: https://news.ycombinator.com/item?id=47778922 Points: 293 # Comments: 115",
       "source": "Hacker News",
       "published": "2026-04-15T13:47:58+00:00",
       "link": "https://www.tobyord.com/writing/hourly-costs-for-ai-agents"
@@ -1386,20 +1400,6 @@ const FEED_DATA = {
       "source": "The Verge",
       "published": "2026-04-13T16:21:08+00:00",
       "link": "https://www.theverge.com/ai-artificial-intelligence/911118/openai-memo-cro-ai-competition-anthropic"
-    },
-    {
-      "title": "Meta Is Warned That Facial Recognition Glasses Will Arm Sexual Predators",
-      "summary": "More than 70 organizations, including the ACLU, EPIC, and Fight for the Future, say the AI smart glasses feature would endanger abuse victims, immigrants, and LGBTQ+ people.",
-      "source": "Wired",
-      "published": "2026-04-13T16:01:30+00:00",
-      "link": "https://www.wired.com/story/meta-ray-ban-oakley-smart-glasses-no-face-recognition-civil-society/"
-    },
-    {
-      "title": "Why opinion on AI is so divided",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here.",
-      "source": "MIT Tech Review",
-      "published": "2026-04-13T15:48:28+00:00",
-      "link": "https://www.technologyreview.com/2026/04/13/1135720/why-opinion-on-ai-is-so-divided/"
     }
   ]
 };
