@@ -1,6 +1,48 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-04-18T09:36:04.982915+00:00",
+  "lastUpdated": "2026-04-18T14:01:56.311348+00:00",
   "items": [
+    {
+      "title": "Salesforce CEO Marc Benioff says APIs are the new UI for AI agents",
+      "summary": "Salesforce is opening its entire platform to AI agents. With \"Headless 360,\" the API becomes the user interface and the browser becomes obsolete.",
+      "source": "The Decoder",
+      "published": "2026-04-18T13:06:19+00:00",
+      "link": "https://the-decoder.com/salesforce-ceo-marc-benioff-says-apis-are-the-new-ui-for-ai-agents/"
+    },
+    {
+      "title": "The App Store is booming again, and AI may be why",
+      "summary": "New data from Appfigures shows a swell of new app launches in 2026, suggesting AI tools could be fueling a mobile software boom.",
+      "source": "TechCrunch",
+      "published": "2026-04-18T13:00:00+00:00",
+      "link": "https://techcrunch.com/2026/04/18/the-app-store-is-booming-again-and-ai-may-be-why/"
+    },
+    {
+      "title": "Just ten minutes of using AI as an answer machine can measurably erode problem-solving skills, new study finds",
+      "summary": "Just 10 to 15 minutes with an AI assistant is enough to measurably weaken problem-solving ability and persistence on later tasks done without AI, according to a new study from researchers in the US and UK.",
+      "source": "The Decoder",
+      "published": "2026-04-18T12:45:14+00:00",
+      "link": "https://the-decoder.com/just-ten-minutes-of-using-ai-as-an-answer-machine-can-measurably-erode-problem-solving-skills-new-study-finds/"
+    },
+    {
+      "title": "Schematik Is ‘Cursor for Hardware.’ Anthropic Wants In",
+      "summary": "Schematik is a program that aims to help people vibe code for physical devices. Hopefully, it won’t blow anything up.",
+      "source": "Wired",
+      "published": "2026-04-18T10:30:00+00:00",
+      "link": "https://www.wired.com/story/schematik-is-cursor-for-hardware-anthropic-wants-in-on-it/"
+    },
+    {
+      "title": "It Takes 2 Minutes to Hack the EU’s New Age-Verification App",
+      "summary": "Plus: Major data breaches at a gym chain and hotel giant, a disruptive DDoS attack against Bluesky, dubious ICE hires, and more.",
+      "source": "Wired",
+      "published": "2026-04-18T10:30:00+00:00",
+      "link": "https://www.wired.com/story/security-news-this-week-it-takes-2-minutes-to-hack-the-eus-new-age-verification-app/"
+    },
+    {
+      "title": "Anthropic CEO Amodei declares \"there is no end to the rainbow\" for AI scaling",
+      "summary": "Anthropic CEO Dario Amodei sees no limits to AI scaling and is urging the industry not to downplay the risk of job losses, but to make the upside big enough to offset the disruption.",
+      "source": "The Decoder",
+      "published": "2026-04-18T10:17:28+00:00",
+      "link": "https://the-decoder.com/anthropic-ceo-amodei-declares-there-is-no-end-to-the-rainbow-for-ai-scaling/"
+    },
     {
       "title": "Self-improving AI startup Recursive Superintelligence pulls in $500 million just four months after founding",
       "summary": "A four-month-old startup has raised at least $500 million at a $4 billion valuation. Recursive Superintelligence is backed by former researchers from Google Deepmind and OpenAI who want to build an AI that improves itself.",
@@ -1358,48 +1400,6 @@ const FEED_DATA = {
       "source": "The Verge",
       "published": "2026-04-13T15:41:09+00:00",
       "link": "https://www.theverge.com/tech/911080/microsoft-ai-openclaw-365-businesses"
-    },
-    {
-      "title": "Microsoft is testing OpenClaw-like AI bots for 365 Copilot",
-      "summary": "Microsoft is looking into ways it can integrate OpenClaw-style features into 365 Copilot, according to a report from The Information.",
-      "source": "The Verge",
-      "published": "2026-04-13T15:41:09+00:00",
-      "link": "https://www.theverge.com/tech/911080/microsoft-ai-openclaw-365-businesses"
-    },
-    {
-      "title": "Claude.ai down",
-      "summary": "Article URL: https://status.claude.com/incidents/6jd2m42f8mld Comments URL: https://news.ycombinator.com/item?id=47753643 Points: 134 # Comments: 126",
-      "source": "Hacker News",
-      "published": "2026-04-13T15:41:08+00:00",
-      "link": "https://status.claude.com/incidents/6jd2m42f8mld"
-    },
-    {
-      "title": "Vercel CEO Guillermo Rauch signals IPO readiness as AI agents fuel revenue surge",
-      "summary": "While many startups founded prior to the emergence of ChatGPT are struggling to position themselves for the AI era, Vercel, a 10-year-old dev tool and website hosting platform, is benefiting from the explosion of AI-generated apps and agents.",
-      "source": "TechCrunch",
-      "published": "2026-04-13T15:22:29+00:00",
-      "link": "https://techcrunch.com/2026/04/13/vercel-ceo-guillermo-rauch-signals-ipo-readiness-as-ai-agents-fuel-revenue-surge/"
-    },
-    {
-      "title": "Mark Zuckerberg is reportedly building an AI clone to replace him in meetings",
-      "summary": "Article URL: https://www.theverge.com/tech/910990/meta-ceo-mark-zuckerberg-ai-clone Comments URL: https://news.ycombinator.com/item?id=47752402 Points: 83 # Comments: 93",
-      "source": "Hacker News",
-      "published": "2026-04-13T14:21:29+00:00",
-      "link": "https://www.theverge.com/tech/910990/meta-ceo-mark-zuckerberg-ai-clone"
-    },
-    {
-      "title": "The AI industry is running out of compute, with outages, rationing, and rising GPU prices",
-      "summary": "Surging demand for AI agents is colliding with limited compute capacity. Anthropic is struggling with outages, OpenAI announced the end of Sora, and GPU prices have jumped nearly 50 percent, according to market data.",
-      "source": "The Decoder",
-      "published": "2026-04-13T13:47:33+00:00",
-      "link": "https://the-decoder.com/the-ai-industry-is-running-out-of-compute-with-outages-rationing-and-rising-gpu-prices/"
-    },
-    {
-      "title": "Strengthening enterprise governance for rising edge AI workloads",
-      "summary": "Models like Google Gemma 4 are increasing enterprise AI governance challenges for CISOs as they scramble to secure edge workloads.",
-      "source": "AI News",
-      "published": "2026-04-13T13:02:01+00:00",
-      "link": "https://www.artificialintelligence-news.com/news/strengthening-enterprise-governance-for-rising-edge-ai-workloads/"
     }
   ]
 };
