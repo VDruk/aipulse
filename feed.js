@@ -1,6 +1,20 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-04-17T21:35:09.234054+00:00",
+  "lastUpdated": "2026-04-18T03:47:22.988984+00:00",
   "items": [
+    {
+      "title": "Sam Altman’s project World looks to scale its human verification empire. First stop: Tinder.",
+      "summary": "World, which has raised eyebrows (but also a lot of interest) with its Orb-centered anonymous verification project, is looking to expand its influence via a bevy of new partnerships.",
+      "source": "TechCrunch",
+      "published": "2026-04-17T22:34:02+00:00",
+      "link": "https://techcrunch.com/2026/04/17/sam-altmans-project-world-looks-to-scale-its-human-verification-empire-first-stop-tinder/"
+    },
+    {
+      "title": "US-sanctioned currency exchange says $15 million heist done by \"unfriendly states\"",
+      "summary": "Grinex says needed hacking resources \"available exclusively to ... unfriendly states.\"",
+      "source": "Ars Technica",
+      "published": "2026-04-17T21:28:35+00:00",
+      "link": "https://arstechnica.com/security/2026/04/russia-friendly-exchange-says-western-special-service-behind-15-million-cyberattack/"
+    },
     {
       "title": "OpenAI’s former Sora boss is leaving",
       "summary": "Last month, OpenAI gave up on its Sora video generation tool, and on Friday, the Sora team's leader, Bill Peebles, announced that he is leaving the company.",
@@ -122,7 +136,7 @@ const FEED_DATA = {
     },
     {
       "title": "Scan your website to see how ready it is for AI agents",
-      "summary": "Article URL: https://isitagentready.com Comments URL: https://news.ycombinator.com/item?id=47805998 Points: 91 # Comments: 154",
+      "summary": "Article URL: https://isitagentready.com Comments URL: https://news.ycombinator.com/item?id=47805998 Points: 99 # Comments: 166",
       "source": "Hacker News",
       "published": "2026-04-17T13:55:25+00:00",
       "link": "https://isitagentready.com"
@@ -206,14 +220,14 @@ const FEED_DATA = {
     },
     {
       "title": "Guy builds AI driven hardware hacker arm from duct tape, old cam and CNC machine",
-      "summary": "Article URL: https://github.com/gainsec/autoprober Comments URL: https://news.ycombinator.com/item?id=47800033 Points: 218 # Comments: 46",
+      "summary": "Article URL: https://github.com/gainsec/autoprober Comments URL: https://news.ycombinator.com/item?id=47800033 Points: 222 # Comments: 46",
       "source": "Hacker News",
       "published": "2026-04-16T21:56:37+00:00",
       "link": "https://github.com/gainsec/autoprober"
     },
     {
       "title": "The beginning of scarcity in AI",
-      "summary": "Article URL: https://tomtunguz.com/ai-compute-crisis-2026/ Comments URL: https://news.ycombinator.com/item?id=47799322 Points: 165 # Comments: 210",
+      "summary": "Article URL: https://tomtunguz.com/ai-compute-crisis-2026/ Comments URL: https://news.ycombinator.com/item?id=47799322 Points: 173 # Comments: 212",
       "source": "Hacker News",
       "published": "2026-04-16T20:49:35+00:00",
       "link": "https://tomtunguz.com/ai-compute-crisis-2026/"
@@ -234,7 +248,7 @@ const FEED_DATA = {
     },
     {
       "title": "GPT‑Rosalind for life sciences research",
-      "summary": "Article URL: https://openai.com/index/introducing-gpt-rosalind/ Comments URL: https://news.ycombinator.com/item?id=47798244 Points: 99 # Comments: 29",
+      "summary": "Article URL: https://openai.com/index/introducing-gpt-rosalind/ Comments URL: https://news.ycombinator.com/item?id=47798244 Points: 101 # Comments: 29",
       "source": "Hacker News",
       "published": "2026-04-16T19:24:50+00:00",
       "link": "https://openai.com/index/introducing-gpt-rosalind/"
@@ -402,7 +416,7 @@ const FEED_DATA = {
     },
     {
       "title": "We gave an AI a 3 year retail lease and asked it to make a profit",
-      "summary": "Article URL: https://andonlabs.com/blog/andon-market-launch Comments URL: https://news.ycombinator.com/item?id=47794391 Points: 197 # Comments: 279",
+      "summary": "Article URL: https://andonlabs.com/blog/andon-market-launch Comments URL: https://news.ycombinator.com/item?id=47794391 Points: 197 # Comments: 280",
       "source": "Hacker News",
       "published": "2026-04-16T15:13:13+00:00",
       "link": "https://andonlabs.com/blog/andon-market-launch"
@@ -458,7 +472,7 @@ const FEED_DATA = {
     },
     {
       "title": "Cloudflare's AI Platform: an inference layer designed for agents",
-      "summary": "Article URL: https://blog.cloudflare.com/ai-platform/ Comments URL: https://news.ycombinator.com/item?id=47792538 Points: 305 # Comments: 92",
+      "summary": "Article URL: https://blog.cloudflare.com/ai-platform/ Comments URL: https://news.ycombinator.com/item?id=47792538 Points: 306 # Comments: 93",
       "source": "Hacker News",
       "published": "2026-04-16T13:17:37+00:00",
       "link": "https://blog.cloudflare.com/ai-platform/"
@@ -469,13 +483,6 @@ const FEED_DATA = {
       "source": "The Verge",
       "published": "2026-04-16T13:07:09+00:00",
       "link": "https://www.theverge.com/tech/913068/canva-ai-2-update-prompt-based-editing-availability"
-    },
-    {
-      "title": "Canva’s AI assistant can now call various tools to make designs for you",
-      "summary": "The latest version of Canva's AI assistant lets users create editable designs with text prompts.",
-      "source": "TechCrunch",
-      "published": "2026-04-16T13:00:00+00:00",
-      "link": "https://techcrunch.com/2026/04/16/canvas-ai-assistant-can-now-call-various-tools-to-make-designs-for-you/"
     },
     {
       "title": "Making AI operational in constrained public sector environments",
@@ -490,6 +497,13 @@ const FEED_DATA = {
       "source": "MIT Tech Review",
       "published": "2026-04-16T13:00:00+00:00",
       "link": "https://www.technologyreview.com/2026/04/16/1135554/treating-enterprise-ai-as-an-operating-layer/"
+    },
+    {
+      "title": "Canva’s AI assistant can now call various tools to make designs for you",
+      "summary": "The latest version of Canva's AI assistant lets users create editable designs with text prompts.",
+      "source": "TechCrunch",
+      "published": "2026-04-16T13:00:00+00:00",
+      "link": "https://techcrunch.com/2026/04/16/canvas-ai-assistant-can-now-call-various-tools-to-make-designs-for-you/"
     },
     {
       "title": "5 top cloud migration software for Infrastructure as Code (IaC)",
@@ -528,7 +542,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI cybersecurity is not proof of work",
-      "summary": "Recent and related: Cybersecurity looks like proof of work now - https://news.ycombinator.com/item?id=47769089 - (198 comments) Comments URL: https://news.ycombinator.com/item?id=47791236 Points: 233 # Comments: 88",
+      "summary": "Recent and related: Cybersecurity looks like proof of work now - https://news.ycombinator.com/item?id=47769089 - (198 comments) Comments URL: https://news.ycombinator.com/item?id=47791236 Points: 234 # Comments: 88",
       "source": "Hacker News",
       "published": "2026-04-16T10:48:00+00:00",
       "link": "https://antirez.com/news/163"
@@ -556,7 +570,7 @@ const FEED_DATA = {
     },
     {
       "title": "Shares in shoe brand Allbirds rise 580% after it pivots from footwear to AI",
-      "summary": "Article URL: https://www.bbc.com/news/articles/c98mrepzgj7o Comments URL: https://news.ycombinator.com/item?id=47790353 Points: 69 # Comments: 30",
+      "summary": "Article URL: https://www.bbc.com/news/articles/c98mrepzgj7o Comments URL: https://news.ycombinator.com/item?id=47790353 Points: 70 # Comments: 31",
       "source": "Hacker News",
       "published": "2026-04-16T08:43:51+00:00",
       "link": "https://www.bbc.com/news/articles/c98mrepzgj7o"
@@ -570,7 +584,7 @@ const FEED_DATA = {
     },
     {
       "title": "The local LLM ecosystem doesn’t need Ollama",
-      "summary": "Article URL: https://sleepingrobots.com/dreams/stop-using-ollama/ Comments URL: https://news.ycombinator.com/item?id=47788385 Points: 631 # Comments: 208",
+      "summary": "Article URL: https://sleepingrobots.com/dreams/stop-using-ollama/ Comments URL: https://news.ycombinator.com/item?id=47788385 Points: 631 # Comments: 209",
       "source": "Hacker News",
       "published": "2026-04-16T03:35:11+00:00",
       "link": "https://sleepingrobots.com/dreams/stop-using-ollama/"
@@ -696,7 +710,7 @@ const FEED_DATA = {
     },
     {
       "title": "CPUs Aren't Dead. Gemma2B Out Scored GPT-3.5 Turbo on Test That Made It Famous",
-      "summary": "Article URL: https://seqpu.com/CPUsArentDead/ Comments URL: https://news.ycombinator.com/item?id=47781998 Points: 98 # Comments: 48",
+      "summary": "Article URL: https://seqpu.com/CPUsArentDead/ Comments URL: https://news.ycombinator.com/item?id=47781998 Points: 99 # Comments: 48",
       "source": "Hacker News",
       "published": "2026-04-15T17:07:36+00:00",
       "link": "https://seqpu.com/CPUsArentDead/"
@@ -763,6 +777,13 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-04-15T13:54:11+00:00",
       "link": "https://the-decoder.com/claude-beat-human-researchers-on-an-alignment-task-and-then-the-results-vanished-in-production/"
+    },
+    {
+      "title": "Are the costs of AI agents also rising exponentially? (2025)",
+      "summary": "Article URL: https://www.tobyord.com/writing/hourly-costs-for-ai-agents Comments URL: https://news.ycombinator.com/item?id=47778922 Points: 126 # Comments: 23",
+      "source": "Hacker News",
+      "published": "2026-04-15T13:47:58+00:00",
+      "link": "https://www.tobyord.com/writing/hourly-costs-for-ai-agents"
     },
     {
       "title": "US v. Heppner (S.D.N.Y. 2026) no attorney-client privilege for AI chats [pdf]",
@@ -1379,27 +1400,6 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-04-13T10:43:42+00:00",
       "link": "https://the-decoder.com/openai-opens-london-office-with-room-for-over-500-employees/"
-    },
-    {
-      "title": "Companies expand AI adoption while keeping control",
-      "summary": "Many companies are taking a slower, more controlled approach to autonomous systems as AI adoption grows. Rather than deploying systems that act on their own, they are focusing on tools that assist human decision-making and keep control over outputs.",
-      "source": "AI News",
-      "published": "2026-04-13T10:00:00+00:00",
-      "link": "https://www.artificialintelligence-news.com/news/companies-expand-ai-adoption-while-keeping-control/"
-    },
-    {
-      "title": "AI Agents Are Coming for Your Dating Life",
-      "summary": "The developers of Pixel Societies are using AI agents to simulate social interactions. It's an attempt optimize the process of choosing new colleagues, friends, and even romantic partners.",
-      "source": "Wired",
-      "published": "2026-04-13T10:00:00+00:00",
-      "link": "https://www.wired.com/story/ai-agents-are-coming-for-your-dating-life-next/"
-    },
-    {
-      "title": "Job titles of the future: Wildlife first responder",
-      "summary": "Grizzly bears have made such a comeback across eastern Montana that in 2017, the state hired its first-ever prairie-based grizzly manager: wildlife biologist Wesley Sarmento.",
-      "source": "MIT Tech Review",
-      "published": "2026-04-13T10:00:00+00:00",
-      "link": "https://www.technologyreview.com/2026/04/13/1135156/job-titles-wildlife-first-responder-wesley-sarmento/"
     }
   ]
 };
