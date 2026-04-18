@@ -1,5 +1,5 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-04-18T03:47:22.988984+00:00",
+  "lastUpdated": "2026-04-18T06:14:11.448765+00:00",
   "items": [
     {
       "title": "Sam Altman’s project World looks to scale its human verification empire. First stop: Tinder.",
@@ -136,7 +136,7 @@ const FEED_DATA = {
     },
     {
       "title": "Scan your website to see how ready it is for AI agents",
-      "summary": "Article URL: https://isitagentready.com Comments URL: https://news.ycombinator.com/item?id=47805998 Points: 99 # Comments: 166",
+      "summary": "Article URL: https://isitagentready.com Comments URL: https://news.ycombinator.com/item?id=47805998 Points: 103 # Comments: 166",
       "source": "Hacker News",
       "published": "2026-04-17T13:55:25+00:00",
       "link": "https://isitagentready.com"
@@ -227,7 +227,7 @@ const FEED_DATA = {
     },
     {
       "title": "The beginning of scarcity in AI",
-      "summary": "Article URL: https://tomtunguz.com/ai-compute-crisis-2026/ Comments URL: https://news.ycombinator.com/item?id=47799322 Points: 173 # Comments: 212",
+      "summary": "Article URL: https://tomtunguz.com/ai-compute-crisis-2026/ Comments URL: https://news.ycombinator.com/item?id=47799322 Points: 177 # Comments: 212",
       "source": "Hacker News",
       "published": "2026-04-16T20:49:35+00:00",
       "link": "https://tomtunguz.com/ai-compute-crisis-2026/"
@@ -472,7 +472,7 @@ const FEED_DATA = {
     },
     {
       "title": "Cloudflare's AI Platform: an inference layer designed for agents",
-      "summary": "Article URL: https://blog.cloudflare.com/ai-platform/ Comments URL: https://news.ycombinator.com/item?id=47792538 Points: 306 # Comments: 93",
+      "summary": "Article URL: https://blog.cloudflare.com/ai-platform/ Comments URL: https://news.ycombinator.com/item?id=47792538 Points: 306 # Comments: 94",
       "source": "Hacker News",
       "published": "2026-04-16T13:17:37+00:00",
       "link": "https://blog.cloudflare.com/ai-platform/"
@@ -542,7 +542,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI cybersecurity is not proof of work",
-      "summary": "Recent and related: Cybersecurity looks like proof of work now - https://news.ycombinator.com/item?id=47769089 - (198 comments) Comments URL: https://news.ycombinator.com/item?id=47791236 Points: 234 # Comments: 88",
+      "summary": "Recent and related: Cybersecurity looks like proof of work now - https://news.ycombinator.com/item?id=47769089 - (198 comments) Comments URL: https://news.ycombinator.com/item?id=47791236 Points: 236 # Comments: 88",
       "source": "Hacker News",
       "published": "2026-04-16T10:48:00+00:00",
       "link": "https://antirez.com/news/163"
@@ -563,7 +563,7 @@ const FEED_DATA = {
     },
     {
       "title": "SDL bans AI-written commits",
-      "summary": "Article URL: https://github.com/libsdl-org/SDL/issues/15350 Comments URL: https://news.ycombinator.com/item?id=47790791 Points: 127 # Comments: 133",
+      "summary": "Article URL: https://github.com/libsdl-org/SDL/issues/15350 Comments URL: https://news.ycombinator.com/item?id=47790791 Points: 128 # Comments: 133",
       "source": "Hacker News",
       "published": "2026-04-16T09:40:43+00:00",
       "link": "https://github.com/libsdl-org/SDL/issues/15350"
@@ -584,7 +584,7 @@ const FEED_DATA = {
     },
     {
       "title": "The local LLM ecosystem doesn’t need Ollama",
-      "summary": "Article URL: https://sleepingrobots.com/dreams/stop-using-ollama/ Comments URL: https://news.ycombinator.com/item?id=47788385 Points: 631 # Comments: 209",
+      "summary": "Article URL: https://sleepingrobots.com/dreams/stop-using-ollama/ Comments URL: https://news.ycombinator.com/item?id=47788385 Points: 632 # Comments: 208",
       "source": "Hacker News",
       "published": "2026-04-16T03:35:11+00:00",
       "link": "https://sleepingrobots.com/dreams/stop-using-ollama/"
@@ -780,7 +780,7 @@ const FEED_DATA = {
     },
     {
       "title": "Are the costs of AI agents also rising exponentially? (2025)",
-      "summary": "Article URL: https://www.tobyord.com/writing/hourly-costs-for-ai-agents Comments URL: https://news.ycombinator.com/item?id=47778922 Points: 126 # Comments: 23",
+      "summary": "Article URL: https://www.tobyord.com/writing/hourly-costs-for-ai-agents Comments URL: https://news.ycombinator.com/item?id=47778922 Points: 167 # Comments: 40",
       "source": "Hacker News",
       "published": "2026-04-15T13:47:58+00:00",
       "link": "https://www.tobyord.com/writing/hourly-costs-for-ai-agents"
