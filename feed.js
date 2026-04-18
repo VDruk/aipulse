@@ -1,6 +1,41 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-04-18T06:14:11.448765+00:00",
+  "lastUpdated": "2026-04-18T09:36:04.982915+00:00",
   "items": [
+    {
+      "title": "Self-improving AI startup Recursive Superintelligence pulls in $500 million just four months after founding",
+      "summary": "A four-month-old startup has raised at least $500 million at a $4 billion valuation. Recursive Superintelligence is backed by former researchers from Google Deepmind and OpenAI who want to build an AI that improves itself.",
+      "source": "The Decoder",
+      "published": "2026-04-18T09:32:57+00:00",
+      "link": "https://the-decoder.com/self-improving-ai-startup-recursive-superintelligence-pulls-in-500-million-just-four-months-after-founding/"
+    },
+    {
+      "title": "The myth of Claude Mythos crumbles as small open models hunt the same cybersecurity bugs Anthropic showcased",
+      "summary": "Anthropic has kept its Claude Mythos cybersecurity model on a short leash, pointing to capabilities it says no rival can match. But two new studies suggest that even small, openly available models can reproduce most of the vulnerability analyses Anthropic has put on display.",
+      "source": "The Decoder",
+      "published": "2026-04-18T08:48:05+00:00",
+      "link": "https://the-decoder.com/the-myth-of-claude-mythos-crumbles-as-small-open-models-hunt-the-same-cybersecurity-bugs-anthropic-showcased/"
+    },
+    {
+      "title": "Deepseek reportedly seeks outside funding for the first time at $10 billion valuation",
+      "summary": "Deepseek is reportedly ready to give up its independence. The Chinese AI startup is seeking outside backers for the first time, aiming to raise at least $300 million.",
+      "source": "The Decoder",
+      "published": "2026-04-18T08:20:17+00:00",
+      "link": "https://the-decoder.com/deepseek-reportedly-seeks-outside-funding-for-the-first-time-at-10-billion-valuation/"
+    },
+    {
+      "title": "Zuckerberg reportedly trades headcount for compute as Meta readies to cut 10 percent of its workforce to fund AI infrastructure",
+      "summary": "Meta is preparing to cut around 8,000 jobs on May 20, with a second wave planned for later this year. In total, more than 20 percent of the workforce could be let go as the company moves to offset its massive AI spending.",
+      "source": "The Decoder",
+      "published": "2026-04-18T08:05:35+00:00",
+      "link": "https://the-decoder.com/zuckerberg-reportedly-trades-headcount-for-compute-as-meta-readies-to-cut-10-percent-of-its-workforce-to-fund-ai-infrastructure/"
+    },
+    {
+      "title": "OpenAI loses three executives in one swoop as restructuring reshapes its product lineup",
+      "summary": "Three high-profile executives are walking away from OpenAI. The departures come as the company restructures and doubles down on coding and enterprise customers.",
+      "source": "The Decoder",
+      "published": "2026-04-18T07:20:45+00:00",
+      "link": "https://the-decoder.com/openai-loses-three-executives-in-one-swoop-as-restructuring-reshapes-its-product-lineup/"
+    },
     {
       "title": "Sam Altman’s project World looks to scale its human verification empire. First stop: Tinder.",
       "summary": "World, which has raised eyebrows (but also a lot of interest) with its Orb-centered anonymous verification project, is looking to expand its influence via a bevy of new partnerships.",
@@ -136,7 +171,7 @@ const FEED_DATA = {
     },
     {
       "title": "Scan your website to see how ready it is for AI agents",
-      "summary": "Article URL: https://isitagentready.com Comments URL: https://news.ycombinator.com/item?id=47805998 Points: 103 # Comments: 166",
+      "summary": "Article URL: https://isitagentready.com Comments URL: https://news.ycombinator.com/item?id=47805998 Points: 105 # Comments: 167",
       "source": "Hacker News",
       "published": "2026-04-17T13:55:25+00:00",
       "link": "https://isitagentready.com"
@@ -220,14 +255,14 @@ const FEED_DATA = {
     },
     {
       "title": "Guy builds AI driven hardware hacker arm from duct tape, old cam and CNC machine",
-      "summary": "Article URL: https://github.com/gainsec/autoprober Comments URL: https://news.ycombinator.com/item?id=47800033 Points: 222 # Comments: 46",
+      "summary": "Article URL: https://github.com/gainsec/autoprober Comments URL: https://news.ycombinator.com/item?id=47800033 Points: 223 # Comments: 46",
       "source": "Hacker News",
       "published": "2026-04-16T21:56:37+00:00",
       "link": "https://github.com/gainsec/autoprober"
     },
     {
       "title": "The beginning of scarcity in AI",
-      "summary": "Article URL: https://tomtunguz.com/ai-compute-crisis-2026/ Comments URL: https://news.ycombinator.com/item?id=47799322 Points: 177 # Comments: 212",
+      "summary": "Article URL: https://tomtunguz.com/ai-compute-crisis-2026/ Comments URL: https://news.ycombinator.com/item?id=47799322 Points: 182 # Comments: 212",
       "source": "Hacker News",
       "published": "2026-04-16T20:49:35+00:00",
       "link": "https://tomtunguz.com/ai-compute-crisis-2026/"
@@ -416,7 +451,7 @@ const FEED_DATA = {
     },
     {
       "title": "We gave an AI a 3 year retail lease and asked it to make a profit",
-      "summary": "Article URL: https://andonlabs.com/blog/andon-market-launch Comments URL: https://news.ycombinator.com/item?id=47794391 Points: 197 # Comments: 280",
+      "summary": "Article URL: https://andonlabs.com/blog/andon-market-launch Comments URL: https://news.ycombinator.com/item?id=47794391 Points: 197 # Comments: 281",
       "source": "Hacker News",
       "published": "2026-04-16T15:13:13+00:00",
       "link": "https://andonlabs.com/blog/andon-market-launch"
@@ -563,7 +598,7 @@ const FEED_DATA = {
     },
     {
       "title": "SDL bans AI-written commits",
-      "summary": "Article URL: https://github.com/libsdl-org/SDL/issues/15350 Comments URL: https://news.ycombinator.com/item?id=47790791 Points: 128 # Comments: 133",
+      "summary": "Article URL: https://github.com/libsdl-org/SDL/issues/15350 Comments URL: https://news.ycombinator.com/item?id=47790791 Points: 128 # Comments: 134",
       "source": "Hacker News",
       "published": "2026-04-16T09:40:43+00:00",
       "link": "https://github.com/libsdl-org/SDL/issues/15350"
@@ -584,7 +619,7 @@ const FEED_DATA = {
     },
     {
       "title": "The local LLM ecosystem doesn’t need Ollama",
-      "summary": "Article URL: https://sleepingrobots.com/dreams/stop-using-ollama/ Comments URL: https://news.ycombinator.com/item?id=47788385 Points: 632 # Comments: 208",
+      "summary": "Article URL: https://sleepingrobots.com/dreams/stop-using-ollama/ Comments URL: https://news.ycombinator.com/item?id=47788385 Points: 634 # Comments: 208",
       "source": "Hacker News",
       "published": "2026-04-16T03:35:11+00:00",
       "link": "https://sleepingrobots.com/dreams/stop-using-ollama/"
@@ -661,7 +696,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI-assisted cognition endangers human development?",
-      "summary": "Article URL: https://heidenstedt.org/posts/2026/ai-assisted-cognition-endangers-human-development/ Comments URL: https://news.ycombinator.com/item?id=47783024 Points: 229 # Comments: 187",
+      "summary": "Article URL: https://heidenstedt.org/posts/2026/ai-assisted-cognition-endangers-human-development/ Comments URL: https://news.ycombinator.com/item?id=47783024 Points: 230 # Comments: 187",
       "source": "Hacker News",
       "published": "2026-04-15T18:16:50+00:00",
       "link": "https://heidenstedt.org/posts/2026/ai-assisted-cognition-endangers-human-development/"
@@ -780,7 +815,7 @@ const FEED_DATA = {
     },
     {
       "title": "Are the costs of AI agents also rising exponentially? (2025)",
-      "summary": "Article URL: https://www.tobyord.com/writing/hourly-costs-for-ai-agents Comments URL: https://news.ycombinator.com/item?id=47778922 Points: 167 # Comments: 40",
+      "summary": "Article URL: https://www.tobyord.com/writing/hourly-costs-for-ai-agents Comments URL: https://news.ycombinator.com/item?id=47778922 Points: 202 # Comments: 51",
       "source": "Hacker News",
       "published": "2026-04-15T13:47:58+00:00",
       "link": "https://www.tobyord.com/writing/hourly-costs-for-ai-agents"
@@ -1365,41 +1400,6 @@ const FEED_DATA = {
       "source": "AI News",
       "published": "2026-04-13T13:02:01+00:00",
       "link": "https://www.artificialintelligence-news.com/news/strengthening-enterprise-governance-for-rising-edge-ai-workloads/"
-    },
-    {
-      "title": "Want to understand the current state of AI? Check out these charts.",
-      "summary": "If you’re following AI news, you’re probably getting whiplash. AI is a gold rush.",
-      "source": "MIT Tech Review",
-      "published": "2026-04-13T13:00:00+00:00",
-      "link": "https://www.technologyreview.com/2026/04/13/1135675/want-to-understand-the-current-state-of-ai-check-out-these-charts/"
-    },
-    {
-      "title": "AI could be the end of the digital wave, not the next big thing",
-      "summary": "Article URL: https://thenextwavefutures.wordpress.com/2026/04/07/ai-end-digital-wave-technology-innovation-perez/ Comments URL: https://news.ycombinator.com/item?id=47751032 Points: 184 # Comments: 277",
-      "source": "Hacker News",
-      "published": "2026-04-13T12:29:39+00:00",
-      "link": "https://thenextwavefutures.wordpress.com/2026/04/07/ai-end-digital-wave-technology-innovation-perez/"
-    },
-    {
-      "title": "The Download: how humans make decisions, and Moderna’s “vaccine” word games",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. You have no choice in reading this article—maybe How do humans make decisions?",
-      "source": "MIT Tech Review",
-      "published": "2026-04-13T12:10:00+00:00",
-      "link": "https://www.technologyreview.com/2026/04/13/1135707/the-download-how-humans-make-decisions-and-modernas-vaccine-word-games/"
-    },
-    {
-      "title": "Steel giants, automakers, and banks plan to build Japan's answer to US and Chinese AI dominance",
-      "summary": "SoftBank is uniting Japan's industrial elite to build the country's own AI foundation, trying to reduce dependence on American and Chinese models.",
-      "source": "The Decoder",
-      "published": "2026-04-13T11:33:33+00:00",
-      "link": "https://the-decoder.com/steel-giants-automakers-and-banks-plan-to-build-japans-answer-to-us-and-chinese-ai-dominance/"
-    },
-    {
-      "title": "OpenAI opens London office with room for over 500 employees",
-      "summary": "OpenAI is opening a new office in London with space for more than 500 employees - more than double its current headcount of around 200 in the British capital. The article OpenAI opens London office with room for over 500 employees appeared first on The Decoder.",
-      "source": "The Decoder",
-      "published": "2026-04-13T10:43:42+00:00",
-      "link": "https://the-decoder.com/openai-opens-london-office-with-room-for-over-500-employees/"
     }
   ]
 };
