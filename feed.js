@@ -1,6 +1,20 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-04-19T17:31:17.829851+00:00",
+  "lastUpdated": "2026-04-19T21:28:27.723021+00:00",
   "items": [
+    {
+      "title": "OpenAI’s existential questions",
+      "summary": "On the latest episode of Equity, we discuss OpenAI's latest acquisitions and whether they address \"two big existential problems\" for the company.",
+      "source": "TechCrunch",
+      "published": "2026-04-19T21:24:06+00:00",
+      "link": "https://techcrunch.com/2026/04/19/openais-existential-questions/"
+    },
+    {
+      "title": "The 12-month window",
+      "summary": "A lot of AI startups exist partly because the foundation models haven't expanded into their category yet. As many jokingly acknowledge, that won't last forever.",
+      "source": "TechCrunch",
+      "published": "2026-04-19T19:30:00+00:00",
+      "link": "https://techcrunch.com/2026/04/19/the-12-month-window/"
+    },
     {
       "title": "TechCrunch Mobility: Uber enters its assetmaxxing era",
       "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, how AI is playing a part.",
@@ -80,14 +94,14 @@ const FEED_DATA = {
     },
     {
       "title": "College instructor turns to typewriters to curb AI-written work",
-      "summary": "Article URL: https://sentinelcolorado.com/uncategorized/a-college-instructor-turns-to-typewriters-to-curb-ai-written-work-and-teach-life-lessons/ Comments URL: https://news.ycombinator.com/item?id=47818485 Points: 395 # Comments: 361",
+      "summary": "Article URL: https://sentinelcolorado.com/uncategorized/a-college-instructor-turns-to-typewriters-to-curb-ai-written-work-and-teach-life-lessons/ Comments URL: https://news.ycombinator.com/item?id=47818485 Points: 446 # Comments: 405",
       "source": "Hacker News",
       "published": "2026-04-18T19:00:00+00:00",
       "link": "https://sentinelcolorado.com/uncategorized/a-college-instructor-turns-to-typewriters-to-curb-ai-written-work-and-teach-life-lessons/"
     },
     {
       "title": "Graphs that explain the state of AI in 2026",
-      "summary": "Article URL: https://spectrum.ieee.org/state-of-ai-index-2026 Comments URL: https://news.ycombinator.com/item?id=47817581 Points: 105 # Comments: 61",
+      "summary": "Article URL: https://spectrum.ieee.org/state-of-ai-index-2026 Comments URL: https://news.ycombinator.com/item?id=47817581 Points: 108 # Comments: 61",
       "source": "Hacker News",
       "published": "2026-04-18T17:12:44+00:00",
       "link": "https://spectrum.ieee.org/state-of-ai-index-2026"
@@ -402,7 +416,7 @@ const FEED_DATA = {
     },
     {
       "title": "The beginning of scarcity in AI",
-      "summary": "Article URL: https://tomtunguz.com/ai-compute-crisis-2026/ Comments URL: https://news.ycombinator.com/item?id=47799322 Points: 193 # Comments: 225",
+      "summary": "Article URL: https://tomtunguz.com/ai-compute-crisis-2026/ Comments URL: https://news.ycombinator.com/item?id=47799322 Points: 193 # Comments: 226",
       "source": "Hacker News",
       "published": "2026-04-16T20:49:35+00:00",
       "link": "https://tomtunguz.com/ai-compute-crisis-2026/"
@@ -471,13 +485,6 @@ const FEED_DATA = {
       "link": "https://www.wired.com/story/the-uk-launches-its-dollar675-million-sovereign-ai-fund/"
     },
     {
-      "title": "Google now lets you explore the web side-by-side with AI Mode",
-      "summary": "Now, when you're using AI Mode on Chrome desktop, clicking a link will open the web page side-by-side with AI Mode.",
-      "source": "TechCrunch",
-      "published": "2026-04-16T17:00:00+00:00",
-      "link": "https://techcrunch.com/2026/04/16/google-now-lets-you-explore-the-web-side-by-side-with-ai-mode/"
-    },
-    {
       "title": "OpenAI’s big Codex update is a direct shot at Claude Code",
       "summary": "OpenAI is beefing up its agentic coding and development system, Codex, with a suite of updates that let it use your computer, generate images, and remember from past experiences.",
       "source": "The Verge",
@@ -497,6 +504,13 @@ const FEED_DATA = {
       "source": "Wired",
       "published": "2026-04-16T17:00:00+00:00",
       "link": "https://www.wired.com/story/google-ai-mode-update-tries-to-kill-tab-hopping-in-chrome/"
+    },
+    {
+      "title": "Google now lets you explore the web side-by-side with AI Mode",
+      "summary": "Now, when you're using AI Mode on Chrome desktop, clicking a link will open the web page side-by-side with AI Mode.",
+      "source": "TechCrunch",
+      "published": "2026-04-16T17:00:00+00:00",
+      "link": "https://techcrunch.com/2026/04/16/google-now-lets-you-explore-the-web-side-by-side-with-ai-mode/"
     },
     {
       "title": "OpenAI’s big Codex update is a direct shot at Anthropic’s Claude Code",
@@ -1386,20 +1400,6 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-04-14T00:23:33+00:00",
       "link": "https://techcrunch.com/2026/04/13/openai-has-bought-ai-personal-finance-startup-hiro/"
-    },
-    {
-      "title": "Daniel Moreno-Gama is facing federal charges for attacking Sam Altman’s home and OpenAI’s HQ",
-      "summary": "Daniel Moreno-Gama is now facing federal charges after allegedly traveling from Texas to California with the intent to kill OpenAI CEO Sam Altman.",
-      "source": "The Verge",
-      "published": "2026-04-14T00:02:38+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/911423/openai-sam-altman-attack"
-    },
-    {
-      "title": "You Can Soon Buy a $4,370 Humanoid Robot on AliExpress",
-      "summary": "Unitree is bringing its R1 to international markets. It arrives with some aerobatic capabilities and an entry-level price, but the question of what you'd actually do with it remains open.",
-      "source": "Wired",
-      "published": "2026-04-13T23:37:38+00:00",
-      "link": "https://www.wired.com/story/unitree-r1-humanoid-robot-for-sale-on-aliexpress/"
     }
   ]
 };
