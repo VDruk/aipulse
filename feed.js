@@ -1,6 +1,34 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-04-19T06:48:09.438729+00:00",
+  "lastUpdated": "2026-04-19T09:36:17.706627+00:00",
   "items": [
+    {
+      "title": "AI-generated influencers flood social media with pro-Trump content ahead of midterms",
+      "summary": "Hundreds of AI avatars are flooding TikTok, Instagram, and YouTube with pro-Trump messaging. Some accounts have pulled in more than 35,000 followers and millions of views, and Trump himself has already shared AI-generated content.",
+      "source": "The Decoder",
+      "published": "2026-04-19T09:07:54+00:00",
+      "link": "https://the-decoder.com/ai-generated-influencers-flood-social-media-with-pro-trump-content-ahead-of-midterms/"
+    },
+    {
+      "title": "Even the best AI models lose about half their performance when charts get complicated, new benchmark finds",
+      "summary": "The RealChart2Code benchmark puts 14 leading AI models to the test on complex visualizations built from real-world datasets. Even the top proprietary models lose nearly half their performance compared to simpler tests.",
+      "source": "The Decoder",
+      "published": "2026-04-19T08:35:10+00:00",
+      "link": "https://the-decoder.com/even-the-best-ai-models-lose-about-half-their-performance-when-charts-get-complicated-new-benchmark-finds/"
+    },
+    {
+      "title": "Always-on Ray-Ban Meta glasses powered by OpenClaw speed up everyday tasks in new study",
+      "summary": "A research team developed an OpenClaw agent for smart glasses to find out how continuously perceiving AI changes the way people use agentic AI systems.",
+      "source": "The Decoder",
+      "published": "2026-04-19T07:55:33+00:00",
+      "link": "https://the-decoder.com/always-on-ray-ban-meta-glasses-powered-by-openclaw-speed-up-everyday-tasks-in-new-study/"
+    },
+    {
+      "title": "Google launches generative UI standard for AI agents",
+      "summary": "Google's A2UI 0.9 is a framework-agnostic standard that lets AI agents generate UI elements on the fly, tapping into an app's existing components across web, mobile, and other platforms.",
+      "source": "The Decoder",
+      "published": "2026-04-19T07:16:51+00:00",
+      "link": "https://the-decoder.com/google-launches-generative-ui-standard-for-ai-agents/"
+    },
     {
       "title": "Tesla brings its robotaxi service to Dallas and Houston",
       "summary": "The company now offers robotaxi service in three cities, all of them in Texas, after launching in Austin last year and starting to offer rides without safety drivers in January 2026.",
@@ -24,14 +52,14 @@ const FEED_DATA = {
     },
     {
       "title": "College instructor turns to typewriters to curb AI-written work",
-      "summary": "Article URL: https://sentinelcolorado.com/uncategorized/a-college-instructor-turns-to-typewriters-to-curb-ai-written-work-and-teach-life-lessons/ Comments URL: https://news.ycombinator.com/item?id=47818485 Points: 236 # Comments: 210",
+      "summary": "Article URL: https://sentinelcolorado.com/uncategorized/a-college-instructor-turns-to-typewriters-to-curb-ai-written-work-and-teach-life-lessons/ Comments URL: https://news.ycombinator.com/item?id=47818485 Points: 277 # Comments: 266",
       "source": "Hacker News",
       "published": "2026-04-18T19:00:00+00:00",
       "link": "https://sentinelcolorado.com/uncategorized/a-college-instructor-turns-to-typewriters-to-curb-ai-written-work-and-teach-life-lessons/"
     },
     {
       "title": "Graphs that explain the state of AI in 2026",
-      "summary": "Article URL: https://spectrum.ieee.org/state-of-ai-index-2026 Comments URL: https://news.ycombinator.com/item?id=47817581 Points: 86 # Comments: 52",
+      "summary": "Article URL: https://spectrum.ieee.org/state-of-ai-index-2026 Comments URL: https://news.ycombinator.com/item?id=47817581 Points: 92 # Comments: 55",
       "source": "Hacker News",
       "published": "2026-04-18T17:12:44+00:00",
       "link": "https://spectrum.ieee.org/state-of-ai-index-2026"
@@ -346,7 +374,7 @@ const FEED_DATA = {
     },
     {
       "title": "The beginning of scarcity in AI",
-      "summary": "Article URL: https://tomtunguz.com/ai-compute-crisis-2026/ Comments URL: https://news.ycombinator.com/item?id=47799322 Points: 188 # Comments: 221",
+      "summary": "Article URL: https://tomtunguz.com/ai-compute-crisis-2026/ Comments URL: https://news.ycombinator.com/item?id=47799322 Points: 190 # Comments: 222",
       "source": "Hacker News",
       "published": "2026-04-16T20:49:35+00:00",
       "link": "https://tomtunguz.com/ai-compute-crisis-2026/"
@@ -1372,34 +1400,6 @@ const FEED_DATA = {
       "source": "The Verge",
       "published": "2026-04-13T19:53:46+00:00",
       "link": "https://www.theverge.com/ai-artificial-intelligence/911267/ai-influencers-coachella"
-    },
-    {
-      "title": "GAIA – Open-source framework for building AI agents that run on local hardware",
-      "summary": "Article URL: https://amd-gaia.ai/docs Comments URL: https://news.ycombinator.com/item?id=47756772 Points: 154 # Comments: 34",
-      "source": "Hacker News",
-      "published": "2026-04-13T19:28:41+00:00",
-      "link": "https://amd-gaia.ai/docs"
-    },
-    {
-      "title": "OpenAI's leaked memo says new \"Spud\" model will make all its products \"significantly better\"",
-      "summary": "An internal OpenAI memo lays out five strategic priorities for the enterprise business - including a new model codenamed \"Spud,\" a platform play for AI agents, and the blunt accusation that Anthropic is overstating its revenue by 8 billion dollars.",
-      "source": "The Decoder",
-      "published": "2026-04-13T19:06:34+00:00",
-      "link": "https://the-decoder.com/openais-leaked-memo-says-new-spud-model-will-make-all-its-products-significantly-better/"
-    },
-    {
-      "title": "Microsoft is working on yet another OpenClaw-like agent",
-      "summary": "The new features would be geared toward enterprise customers, with better security controls than the famously risky open source OpenClaw agent.",
-      "source": "TechCrunch",
-      "published": "2026-04-13T19:05:19+00:00",
-      "link": "https://techcrunch.com/2026/04/13/microsoft-is-working-on-yet-another-openclaw-like-agent/"
-    },
-    {
-      "title": "Stanford report highlights growing disconnect between AI insiders and everyone else",
-      "summary": "Stanford’s latest AI Index shows a widening gap between experts and the public, with rising anxiety over jobs, healthcare, and the economy.",
-      "source": "TechCrunch",
-      "published": "2026-04-13T18:55:37+00:00",
-      "link": "https://techcrunch.com/2026/04/13/stanford-report-highlights-growing-disconnect-between-ai-insiders-and-everyone-else/"
     }
   ]
 };
