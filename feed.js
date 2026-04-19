@@ -1,6 +1,13 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-04-18T21:27:06.595001+00:00",
+  "lastUpdated": "2026-04-19T04:13:46.649949+00:00",
   "items": [
+    {
+      "title": "Tesla brings its robotaxi service to Dallas and Houston",
+      "summary": "The company now offers robotaxi service in three cities, all of them in Texas, after launching in Austin last year and starting to offer rides without safety drivers in January 2026.",
+      "source": "TechCrunch",
+      "published": "2026-04-18T21:37:15+00:00",
+      "link": "https://techcrunch.com/2026/04/18/tesla-brings-its-robotaxi-service-to-dallas-and-houston/"
+    },
     {
       "title": "The RAM shortage could last years",
       "summary": "According to Nikkei Asia, even as suppliers ramp up DRAM production, manufacturers are only expected to meet 60 percent of demand by the end of 2027. SK Group chairman has even said that shortages could last until 2030.",
@@ -14,6 +21,20 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-04-18T19:19:11+00:00",
       "link": "https://techcrunch.com/2026/04/18/ai-chip-startup-cerebras-files-for-ipo/"
+    },
+    {
+      "title": "College instructor turns to typewriters to curb AI-written work",
+      "summary": "Article URL: https://sentinelcolorado.com/uncategorized/a-college-instructor-turns-to-typewriters-to-curb-ai-written-work-and-teach-life-lessons/ Comments URL: https://news.ycombinator.com/item?id=47818485 Points: 181 # Comments: 173",
+      "source": "Hacker News",
+      "published": "2026-04-18T19:00:00+00:00",
+      "link": "https://sentinelcolorado.com/uncategorized/a-college-instructor-turns-to-typewriters-to-curb-ai-written-work-and-teach-life-lessons/"
+    },
+    {
+      "title": "Graphs that explain the state of AI in 2026",
+      "summary": "Article URL: https://spectrum.ieee.org/state-of-ai-index-2026 Comments URL: https://news.ycombinator.com/item?id=47817581 Points: 80 # Comments: 51",
+      "source": "Hacker News",
+      "published": "2026-04-18T17:12:44+00:00",
+      "link": "https://spectrum.ieee.org/state-of-ai-index-2026"
     },
     {
       "title": "Anthropic’s relationship with the Trump administration seems to be thawing",
@@ -234,7 +255,7 @@ const FEED_DATA = {
     },
     {
       "title": "Scan your website to see how ready it is for AI agents",
-      "summary": "Article URL: https://isitagentready.com Comments URL: https://news.ycombinator.com/item?id=47805998 Points: 108 # Comments: 173",
+      "summary": "Article URL: https://isitagentready.com Comments URL: https://news.ycombinator.com/item?id=47805998 Points: 109 # Comments: 174",
       "source": "Hacker News",
       "published": "2026-04-17T13:55:25+00:00",
       "link": "https://isitagentready.com"
@@ -325,7 +346,7 @@ const FEED_DATA = {
     },
     {
       "title": "The beginning of scarcity in AI",
-      "summary": "Article URL: https://tomtunguz.com/ai-compute-crisis-2026/ Comments URL: https://news.ycombinator.com/item?id=47799322 Points: 186 # Comments: 220",
+      "summary": "Article URL: https://tomtunguz.com/ai-compute-crisis-2026/ Comments URL: https://news.ycombinator.com/item?id=47799322 Points: 188 # Comments: 221",
       "source": "Hacker News",
       "published": "2026-04-16T20:49:35+00:00",
       "link": "https://tomtunguz.com/ai-compute-crisis-2026/"
@@ -471,18 +492,18 @@ const FEED_DATA = {
       "link": "https://techcrunch.com/2026/04/16/ai-traffic-to-us-retailers-rose-393-in-q1-and-its-boosting-their-revenue-too/"
     },
     {
-      "title": "Roblox’s AI assistant gets new agentic tools to plan, build, and test games",
-      "summary": "The new tools are designed to help creators throughout the entire development process.",
-      "source": "TechCrunch",
-      "published": "2026-04-16T16:00:00+00:00",
-      "link": "https://techcrunch.com/2026/04/16/robloxs-ai-assistant-gets-new-agentic-tools-to-plan-build-and-test-games/"
-    },
-    {
       "title": "Gemini can now pull from Google Photos to generate personalized images",
       "summary": "Google's Personal Intelligence feature, which lets Gemini pull data from apps like Google Photos to offer responses tailored to you, can now use that data and its Nano Banana 2 image model to create images based on your personal context.",
       "source": "The Verge",
       "published": "2026-04-16T16:00:00+00:00",
       "link": "https://www.theverge.com/tech/913202/gemini-personal-intelligence-images-nano-banana"
+    },
+    {
+      "title": "Roblox’s AI assistant gets new agentic tools to plan, build, and test games",
+      "summary": "The new tools are designed to help creators throughout the entire development process.",
+      "source": "TechCrunch",
+      "published": "2026-04-16T16:00:00+00:00",
+      "link": "https://techcrunch.com/2026/04/16/robloxs-ai-assistant-gets-new-agentic-tools-to-plan-build-and-test-games/"
     },
     {
       "title": "Anthropic releases a new Opus model amid Mythos Preview buzz",
@@ -640,7 +661,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI cybersecurity is not proof of work",
-      "summary": "Recent and related: Cybersecurity looks like proof of work now - https://news.ycombinator.com/item?id=47769089 - (198 comments) Comments URL: https://news.ycombinator.com/item?id=47791236 Points: 236 # Comments: 88",
+      "summary": "Recent and related: Cybersecurity looks like proof of work now - https://news.ycombinator.com/item?id=47769089 - (198 comments) Comments URL: https://news.ycombinator.com/item?id=47791236 Points: 237 # Comments: 88",
       "source": "Hacker News",
       "published": "2026-04-16T10:48:00+00:00",
       "link": "https://antirez.com/news/163"
@@ -668,7 +689,7 @@ const FEED_DATA = {
     },
     {
       "title": "Shares in shoe brand Allbirds rise 580% after it pivots from footwear to AI",
-      "summary": "Article URL: https://www.bbc.com/news/articles/c98mrepzgj7o Comments URL: https://news.ycombinator.com/item?id=47790353 Points: 73 # Comments: 32",
+      "summary": "Article URL: https://www.bbc.com/news/articles/c98mrepzgj7o Comments URL: https://news.ycombinator.com/item?id=47790353 Points: 74 # Comments: 32",
       "source": "Hacker News",
       "published": "2026-04-16T08:43:51+00:00",
       "link": "https://www.bbc.com/news/articles/c98mrepzgj7o"
@@ -682,7 +703,7 @@ const FEED_DATA = {
     },
     {
       "title": "The local LLM ecosystem doesn’t need Ollama",
-      "summary": "Article URL: https://sleepingrobots.com/dreams/stop-using-ollama/ Comments URL: https://news.ycombinator.com/item?id=47788385 Points: 638 # Comments: 208",
+      "summary": "Article URL: https://sleepingrobots.com/dreams/stop-using-ollama/ Comments URL: https://news.ycombinator.com/item?id=47788385 Points: 639 # Comments: 206",
       "source": "Hacker News",
       "published": "2026-04-16T03:35:11+00:00",
       "link": "https://sleepingrobots.com/dreams/stop-using-ollama/"
@@ -696,7 +717,7 @@ const FEED_DATA = {
     },
     {
       "title": "Does Gas Town 'steal' usage from users' LLM credits to improve itself?",
-      "summary": "Article URL: https://github.com/gastownhall/gastown/issues/3649 Comments URL: https://news.ycombinator.com/item?id=47785053 Points: 252 # Comments: 126",
+      "summary": "Article URL: https://github.com/gastownhall/gastown/issues/3649 Comments URL: https://news.ycombinator.com/item?id=47785053 Points: 253 # Comments: 127",
       "source": "Hacker News",
       "published": "2026-04-15T20:49:48+00:00",
       "link": "https://github.com/gastownhall/gastown/issues/3649"
@@ -1379,27 +1400,6 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-04-13T18:55:37+00:00",
       "link": "https://techcrunch.com/2026/04/13/stanford-report-highlights-growing-disconnect-between-ai-insiders-and-everyone-else/"
-    },
-    {
-      "title": "New AI model generates 45-minute lip-synced video from one photo and runs in real time",
-      "summary": "A single image becomes a talking character: LPM 1.0 generates real-time video with lip sync, facial expressions, and emotional reactions. For now, it remains a research project.",
-      "source": "The Decoder",
-      "published": "2026-04-13T17:31:59+00:00",
-      "link": "https://the-decoder.com/new-ai-model-generates-45-minute-lip-synced-video-from-one-photo-and-runs-in-real-time/"
-    },
-    {
-      "title": "Google now offers Ultra subscribers video generation with Veo 3.1 Lite at no extra credit cost",
-      "summary": "Google is rolling out a new video generation option for Ultra subscribers that won't cost them any additional credits. The article Google now offers Ultra subscribers video generation with Veo 3.1 Lite at no extra credit cost appeared first on The Decoder.",
-      "source": "The Decoder",
-      "published": "2026-04-13T16:23:30+00:00",
-      "link": "https://the-decoder.com/google-now-offers-ultra-subscribers-video-generation-with-veo-3-1-lite-at-no-extra-credit-cost/"
-    },
-    {
-      "title": "Read OpenAI’s latest internal memo about beating the competition — including Anthropic",
-      "summary": "OpenAI's chief revenue officer, Denise Dresser, sent a four-page memo to employees on Sunday about the company's strategic direction, emphasizing the need to lock in users and grow its enterprise business.",
-      "source": "The Verge",
-      "published": "2026-04-13T16:21:08+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/911118/openai-memo-cro-ai-competition-anthropic"
     }
   ]
 };
