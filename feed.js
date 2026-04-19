@@ -1,6 +1,20 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-04-19T09:36:17.706627+00:00",
+  "lastUpdated": "2026-04-19T14:00:37.727573+00:00",
   "items": [
+    {
+      "title": "German court rules AI comic adaptation of copyrighted photo doesn't violate the original",
+      "summary": "An AI turns a photo into a comic—and according to a German Higher Regional Court, that's fair game as long as only the motif is copied. The article German court rules AI comic adaptation of copyrighted photo doesn't violate the original appeared first on The Decoder.",
+      "source": "The Decoder",
+      "published": "2026-04-19T13:08:17+00:00",
+      "link": "https://the-decoder.com/german-court-rules-ai-comic-adaptation-of-copyrighted-photo-doesnt-violate-the-original/"
+    },
+    {
+      "title": "First token counts reveal Opus 4.7 costs significantly more than 4.6 despite Anthropic's flat pricing",
+      "summary": "Anthropic's Opus 4.7 matches its predecessor's per-token price, but each request ends up costing significantly more. The reason: a new tokenizer that breaks the same text into up to 47 percent more tokens.",
+      "source": "The Decoder",
+      "published": "2026-04-19T10:01:53+00:00",
+      "link": "https://the-decoder.com/first-token-counts-reveal-opus-4-7-costs-significantly-more-than-4-6-despite-anthropics-flat-pricing/"
+    },
     {
       "title": "AI-generated influencers flood social media with pro-Trump content ahead of midterms",
       "summary": "Hundreds of AI avatars are flooding TikTok, Instagram, and YouTube with pro-Trump messaging. Some accounts have pulled in more than 35,000 followers and millions of views, and Trump himself has already shared AI-generated content.",
@@ -93,18 +107,18 @@ const FEED_DATA = {
       "link": "https://the-decoder.com/just-ten-minutes-of-using-ai-as-an-answer-machine-can-measurably-erode-problem-solving-skills-new-study-finds/"
     },
     {
-      "title": "Schematik Is ‘Cursor for Hardware.’ Anthropic Wants In",
-      "summary": "Schematik is a program that aims to help people vibe code for physical devices. Hopefully, it won’t blow anything up.",
-      "source": "Wired",
-      "published": "2026-04-18T10:30:00+00:00",
-      "link": "https://www.wired.com/story/schematik-is-cursor-for-hardware-anthropic-wants-in-on-it/"
-    },
-    {
       "title": "It Takes 2 Minutes to Hack the EU’s New Age-Verification App",
       "summary": "Plus: Major data breaches at a gym chain and hotel giant, a disruptive DDoS attack against Bluesky, dubious ICE hires, and more.",
       "source": "Wired",
       "published": "2026-04-18T10:30:00+00:00",
       "link": "https://www.wired.com/story/security-news-this-week-it-takes-2-minutes-to-hack-the-eus-new-age-verification-app/"
+    },
+    {
+      "title": "Schematik Is ‘Cursor for Hardware.’ Anthropic Wants In",
+      "summary": "Schematik is a program that aims to help people vibe code for physical devices. Hopefully, it won’t blow anything up.",
+      "source": "Wired",
+      "published": "2026-04-18T10:30:00+00:00",
+      "link": "https://www.wired.com/story/schematik-is-cursor-for-hardware-anthropic-wants-in-on-it/"
     },
     {
       "title": "Anthropic CEO Amodei declares \"there is no end to the rainbow\" for AI scaling",
@@ -1386,20 +1400,6 @@ const FEED_DATA = {
       "source": "Hacker News",
       "published": "2026-04-13T22:40:26+00:00",
       "link": "https://techtrenches.dev/p/the-human-cost-of-10x-how-ai-is-physically"
-    },
-    {
-      "title": "The tech jobs bust is real. Don't blame AI (yet)",
-      "summary": "Article URL: https://economist.com/finance-and-economics/2026/04/13/the-tech-jobs-bust-is-real-dont-blame-ai-yet Comments URL: https://news.ycombinator.com/item?id=47757775 Points: 117 # Comments: 194",
-      "source": "Hacker News",
-      "published": "2026-04-13T21:02:21+00:00",
-      "link": "https://economist.com/finance-and-economics/2026/04/13/the-tech-jobs-bust-is-real-dont-blame-ai-yet"
-    },
-    {
-      "title": "AI influencers are ‘everywhere’ at Coachella",
-      "summary": "Coachella kicked off on Friday, and as usual, it's the place to be for online influencers looking to show off their memorable experiences at the festival.",
-      "source": "The Verge",
-      "published": "2026-04-13T19:53:46+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/911267/ai-influencers-coachella"
     }
   ]
 };
