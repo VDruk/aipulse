@@ -1,6 +1,20 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-04-19T14:00:37.727573+00:00",
+  "lastUpdated": "2026-04-19T17:31:17.829851+00:00",
   "items": [
+    {
+      "title": "TechCrunch Mobility: Uber enters its assetmaxxing era",
+      "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, how AI is playing a part.",
+      "source": "TechCrunch",
+      "published": "2026-04-19T16:01:00+00:00",
+      "link": "https://techcrunch.com/2026/04/19/techcrunch-mobility-uber-enters-its-assetmaxxing-era/"
+    },
+    {
+      "title": "Anthropic's revenue surge reportedly fuels talk of trillion-dollar valuation",
+      "summary": "Anthropic reportedly has flipped from money-loser to revenue powerhouse in just a few months. Annualized revenue now tops $30 billion, possibly edging out OpenAI, and investors are already floating valuations as high as $1 trillion.",
+      "source": "The Decoder",
+      "published": "2026-04-19T14:40:00+00:00",
+      "link": "https://the-decoder.com/anthropics-revenue-surge-reportedly-fuels-talk-of-trillion-dollar-valuation/"
+    },
     {
       "title": "German court rules AI comic adaptation of copyrighted photo doesn't violate the original",
       "summary": "An AI turns a photo into a comic—and according to a German Higher Regional Court, that's fair game as long as only the motif is copied. The article German court rules AI comic adaptation of copyrighted photo doesn't violate the original appeared first on The Decoder.",
@@ -66,14 +80,14 @@ const FEED_DATA = {
     },
     {
       "title": "College instructor turns to typewriters to curb AI-written work",
-      "summary": "Article URL: https://sentinelcolorado.com/uncategorized/a-college-instructor-turns-to-typewriters-to-curb-ai-written-work-and-teach-life-lessons/ Comments URL: https://news.ycombinator.com/item?id=47818485 Points: 277 # Comments: 266",
+      "summary": "Article URL: https://sentinelcolorado.com/uncategorized/a-college-instructor-turns-to-typewriters-to-curb-ai-written-work-and-teach-life-lessons/ Comments URL: https://news.ycombinator.com/item?id=47818485 Points: 395 # Comments: 361",
       "source": "Hacker News",
       "published": "2026-04-18T19:00:00+00:00",
       "link": "https://sentinelcolorado.com/uncategorized/a-college-instructor-turns-to-typewriters-to-curb-ai-written-work-and-teach-life-lessons/"
     },
     {
       "title": "Graphs that explain the state of AI in 2026",
-      "summary": "Article URL: https://spectrum.ieee.org/state-of-ai-index-2026 Comments URL: https://news.ycombinator.com/item?id=47817581 Points: 92 # Comments: 55",
+      "summary": "Article URL: https://spectrum.ieee.org/state-of-ai-index-2026 Comments URL: https://news.ycombinator.com/item?id=47817581 Points: 105 # Comments: 61",
       "source": "Hacker News",
       "published": "2026-04-18T17:12:44+00:00",
       "link": "https://spectrum.ieee.org/state-of-ai-index-2026"
@@ -297,7 +311,7 @@ const FEED_DATA = {
     },
     {
       "title": "Scan your website to see how ready it is for AI agents",
-      "summary": "Article URL: https://isitagentready.com Comments URL: https://news.ycombinator.com/item?id=47805998 Points: 110 # Comments: 174",
+      "summary": "Article URL: https://isitagentready.com Comments URL: https://news.ycombinator.com/item?id=47805998 Points: 112 # Comments: 175",
       "source": "Hacker News",
       "published": "2026-04-17T13:55:25+00:00",
       "link": "https://isitagentready.com"
@@ -388,7 +402,7 @@ const FEED_DATA = {
     },
     {
       "title": "The beginning of scarcity in AI",
-      "summary": "Article URL: https://tomtunguz.com/ai-compute-crisis-2026/ Comments URL: https://news.ycombinator.com/item?id=47799322 Points: 190 # Comments: 222",
+      "summary": "Article URL: https://tomtunguz.com/ai-compute-crisis-2026/ Comments URL: https://news.ycombinator.com/item?id=47799322 Points: 193 # Comments: 225",
       "source": "Hacker News",
       "published": "2026-04-16T20:49:35+00:00",
       "link": "https://tomtunguz.com/ai-compute-crisis-2026/"
@@ -577,7 +591,7 @@ const FEED_DATA = {
     },
     {
       "title": "We gave an AI a 3 year retail lease and asked it to make a profit",
-      "summary": "Article URL: https://andonlabs.com/blog/andon-market-launch Comments URL: https://news.ycombinator.com/item?id=47794391 Points: 198 # Comments: 284",
+      "summary": "Article URL: https://andonlabs.com/blog/andon-market-launch Comments URL: https://news.ycombinator.com/item?id=47794391 Points: 198 # Comments: 286",
       "source": "Hacker News",
       "published": "2026-04-16T15:13:13+00:00",
       "link": "https://andonlabs.com/blog/andon-market-launch"
@@ -724,7 +738,7 @@ const FEED_DATA = {
     },
     {
       "title": "SDL bans AI-written commits",
-      "summary": "Article URL: https://github.com/libsdl-org/SDL/issues/15350 Comments URL: https://news.ycombinator.com/item?id=47790791 Points: 130 # Comments: 137",
+      "summary": "Article URL: https://github.com/libsdl-org/SDL/issues/15350 Comments URL: https://news.ycombinator.com/item?id=47790791 Points: 131 # Comments: 137",
       "source": "Hacker News",
       "published": "2026-04-16T09:40:43+00:00",
       "link": "https://github.com/libsdl-org/SDL/issues/15350"
@@ -745,7 +759,7 @@ const FEED_DATA = {
     },
     {
       "title": "The local LLM ecosystem doesn’t need Ollama",
-      "summary": "Article URL: https://sleepingrobots.com/dreams/stop-using-ollama/ Comments URL: https://news.ycombinator.com/item?id=47788385 Points: 639 # Comments: 207",
+      "summary": "Article URL: https://sleepingrobots.com/dreams/stop-using-ollama/ Comments URL: https://news.ycombinator.com/item?id=47788385 Points: 639 # Comments: 208",
       "source": "Hacker News",
       "published": "2026-04-16T03:35:11+00:00",
       "link": "https://sleepingrobots.com/dreams/stop-using-ollama/"
@@ -1386,20 +1400,6 @@ const FEED_DATA = {
       "source": "Wired",
       "published": "2026-04-13T23:37:38+00:00",
       "link": "https://www.wired.com/story/unitree-r1-humanoid-robot-for-sale-on-aliexpress/"
-    },
-    {
-      "title": "The AI revolution in math has arrived",
-      "summary": "Article URL: https://www.quantamagazine.org/the-ai-revolution-in-math-has-arrived-20260413/ Comments URL: https://news.ycombinator.com/item?id=47759292 Points: 115 # Comments: 62",
-      "source": "Hacker News",
-      "published": "2026-04-13T23:26:04+00:00",
-      "link": "https://www.quantamagazine.org/the-ai-revolution-in-math-has-arrived-20260413/"
-    },
-    {
-      "title": "The human cost of 10x: How AI is physically breaking senior engineers",
-      "summary": "Article URL: https://techtrenches.dev/p/the-human-cost-of-10x-how-ai-is-physically Comments URL: https://news.ycombinator.com/item?id=47758863 Points: 78 # Comments: 71",
-      "source": "Hacker News",
-      "published": "2026-04-13T22:40:26+00:00",
-      "link": "https://techtrenches.dev/p/the-human-cost-of-10x-how-ai-is-physically"
     }
   ]
 };
