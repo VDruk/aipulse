@@ -1,6 +1,27 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-04-20T17:53:00.239286+00:00",
+  "lastUpdated": "2026-04-20T21:39:46.762352+00:00",
   "items": [
+    {
+      "title": "AI Resistance Is Growing",
+      "summary": "Article URL: https://stephvee.ca/blog/artificial%20intelligence/ai-resistance-is-growing/ Comments URL: https://news.ycombinator.com/item?id=47839951 Points: 181 # Comments: 122",
+      "source": "Hacker News",
+      "published": "2026-04-20T20:19:13+00:00",
+      "link": "https://stephvee.ca/blog/artificial%20intelligence/ai-resistance-is-growing/"
+    },
+    {
+      "title": "It’s not just one thing — it’s another thing",
+      "summary": "This sentence construction (\"It's not just this — it's that\") has become so common in AI-generated writing that it's no longer just a clue that a piece of writing may be synthetic — it's almost a guarantee.",
+      "source": "TechCrunch",
+      "published": "2026-04-20T19:37:07+00:00",
+      "link": "https://techcrunch.com/2026/04/20/ai-writing-its-not-just-this-its-that-barrons/"
+    },
+    {
+      "title": "OpenAI's Codex now watches your screen to remember what you're working on",
+      "summary": "OpenAI is giving Codex a memory of what's on screen. The new Chronicle feature tracks what users are working on and remembers it for future tasks, but it also amplifies familiar security risks.",
+      "source": "The Decoder",
+      "published": "2026-04-20T18:41:32+00:00",
+      "link": "https://the-decoder.com/openais-codex-now-watches-your-screen-to-remember-what-youre-working-on/"
+    },
     {
       "title": "Open-weight Kimi K2.6 takes on GPT-5.4 and Claude Opus 4.6 with agent swarms",
       "summary": "Moonshot AI has released Kimi K2.6 as an open-weight model. It's built to match GPT-5.4 and Claude Opus 4.6 on coding benchmarks, and it can run up to 300 agents in parallel.",
@@ -28,6 +49,13 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-04-20T16:06:21+00:00",
       "link": "https://techcrunch.com/2026/04/20/nsa-spies-are-reportedly-using-anthropics-mythos-despite-pentagon-feud/"
+    },
+    {
+      "title": "Deezer says 44% of songs uploaded to its platform daily are AI-generated",
+      "summary": "Article URL: https://techcrunch.com/2026/04/20/deezer-says-44-of-songs-uploaded-to-its-platform-daily-are-ai-generated/ Comments URL: https://news.ycombinator.com/item?id=47835928 Points: 230 # Comments: 227",
+      "source": "Hacker News",
+      "published": "2026-04-20T15:41:02+00:00",
+      "link": "https://techcrunch.com/2026/04/20/deezer-says-44-of-songs-uploaded-to-its-platform-daily-are-ai-generated/"
     },
     {
       "title": "CEO and CFO suddenly depart AI nuclear power upstart Fermi",
@@ -72,8 +100,8 @@ const FEED_DATA = {
       "link": "https://the-decoder.com/salesforce-bets-on-agent-albert-to-prove-ai-wont-kill-enterprise-software/"
     },
     {
-      "title": "Atlassian Enables Default Data Collection to Train AI",
-      "summary": "Article URL: https://letsdatascience.com/news/atlassian-enables-default-data-collection-to-train-ai-f71343d8 Comments URL: https://news.ycombinator.com/item?id=47833247 Points: 88 # Comments: 21",
+      "title": "Atlassian enables default data collection to train AI",
+      "summary": "Article URL: https://letsdatascience.com/news/atlassian-enables-default-data-collection-to-train-ai-f71343d8 Comments URL: https://news.ycombinator.com/item?id=47833247 Points: 426 # Comments: 99",
       "source": "Hacker News",
       "published": "2026-04-20T12:23:39+00:00",
       "link": "https://letsdatascience.com/news/atlassian-enables-default-data-collection-to-train-ai-f71343d8"
@@ -84,6 +112,13 @@ const FEED_DATA = {
       "source": "MIT Tech Review",
       "published": "2026-04-20T12:10:00+00:00",
       "link": "https://www.technologyreview.com/2026/04/20/1136154/the-download-murderous-mirror-bacteria-chinese-workers-fight-ai-agents/"
+    },
+    {
+      "title": "A Pascal's Wager for AI doomers",
+      "summary": "Article URL: https://pluralistic.net/2026/04/16/pascals-wager/ Comments URL: https://news.ycombinator.com/item?id=47832887 Points: 54 # Comments: 86",
+      "source": "Hacker News",
+      "published": "2026-04-20T11:42:17+00:00",
+      "link": "https://pluralistic.net/2026/04/16/pascals-wager/"
     },
     {
       "title": "How to prepare for and remediate an AI system incident",
@@ -129,14 +164,14 @@ const FEED_DATA = {
     },
     {
       "title": "Swiss AI Initiative (2023)",
-      "summary": "Article URL: https://www.swiss-ai.org Comments URL: https://news.ycombinator.com/item?id=47828444 Points: 85 # Comments: 26",
+      "summary": "Article URL: https://www.swiss-ai.org Comments URL: https://news.ycombinator.com/item?id=47828444 Points: 86 # Comments: 26",
       "source": "Hacker News",
       "published": "2026-04-19T22:58:35+00:00",
       "link": "https://www.swiss-ai.org"
     },
     {
       "title": "CEOs admit AI had no impact on employment or productivity",
-      "summary": "Article URL: https://fortune.com/article/why-do-thousands-of-ceos-believe-ai-not-having-impact-productivity-employment-study/ Comments URL: https://news.ycombinator.com/item?id=47827985 Points: 85 # Comments: 76",
+      "summary": "Article URL: https://fortune.com/article/why-do-thousands-of-ceos-believe-ai-not-having-impact-productivity-employment-study/ Comments URL: https://news.ycombinator.com/item?id=47827985 Points: 88 # Comments: 79",
       "source": "Hacker News",
       "published": "2026-04-19T21:56:22+00:00",
       "link": "https://fortune.com/article/why-do-thousands-of-ceos-believe-ai-not-having-impact-productivity-employment-study/"
@@ -157,7 +192,7 @@ const FEED_DATA = {
     },
     {
       "title": "Uber’s Anthropic AI push hits a wall",
-      "summary": "Article URL: https://finance.yahoo.com/sectors/technology/articles/ubers-anthropic-ai-push-hits-223109852.html Comments URL: https://news.ycombinator.com/item?id=47826328 Points: 93 # Comments: 96",
+      "summary": "Article URL: https://finance.yahoo.com/sectors/technology/articles/ubers-anthropic-ai-push-hits-223109852.html Comments URL: https://news.ycombinator.com/item?id=47826328 Points: 93 # Comments: 102",
       "source": "Hacker News",
       "published": "2026-04-19T18:13:32+00:00",
       "link": "https://finance.yahoo.com/sectors/technology/articles/ubers-anthropic-ai-push-hits-223109852.html"
@@ -241,14 +276,14 @@ const FEED_DATA = {
     },
     {
       "title": "College instructor turns to typewriters to curb AI-written work",
-      "summary": "Article URL: https://sentinelcolorado.com/uncategorized/a-college-instructor-turns-to-typewriters-to-curb-ai-written-work-and-teach-life-lessons/ Comments URL: https://news.ycombinator.com/item?id=47818485 Points: 477 # Comments: 422",
+      "summary": "Article URL: https://sentinelcolorado.com/uncategorized/a-college-instructor-turns-to-typewriters-to-curb-ai-written-work-and-teach-life-lessons/ Comments URL: https://news.ycombinator.com/item?id=47818485 Points: 482 # Comments: 425",
       "source": "Hacker News",
       "published": "2026-04-18T19:00:00+00:00",
       "link": "https://sentinelcolorado.com/uncategorized/a-college-instructor-turns-to-typewriters-to-curb-ai-written-work-and-teach-life-lessons/"
     },
     {
       "title": "Graphs that explain the state of AI in 2026",
-      "summary": "Article URL: https://spectrum.ieee.org/state-of-ai-index-2026 Comments URL: https://news.ycombinator.com/item?id=47817581 Points: 111 # Comments: 61",
+      "summary": "Article URL: https://spectrum.ieee.org/state-of-ai-index-2026 Comments URL: https://news.ycombinator.com/item?id=47817581 Points: 112 # Comments: 61",
       "source": "Hacker News",
       "published": "2026-04-18T17:12:44+00:00",
       "link": "https://spectrum.ieee.org/state-of-ai-index-2026"
@@ -472,7 +507,7 @@ const FEED_DATA = {
     },
     {
       "title": "Scan your website to see how ready it is for AI agents",
-      "summary": "Article URL: https://isitagentready.com Comments URL: https://news.ycombinator.com/item?id=47805998 Points: 112 # Comments: 177",
+      "summary": "Article URL: https://isitagentready.com Comments URL: https://news.ycombinator.com/item?id=47805998 Points: 112 # Comments: 178",
       "source": "Hacker News",
       "published": "2026-04-17T13:55:25+00:00",
       "link": "https://isitagentready.com"
@@ -632,18 +667,18 @@ const FEED_DATA = {
       "link": "https://www.wired.com/story/the-uk-launches-its-dollar675-million-sovereign-ai-fund/"
     },
     {
-      "title": "OpenAI’s big Codex update is a direct shot at Claude Code",
-      "summary": "OpenAI is beefing up its agentic coding and development system, Codex, with a suite of updates that let it use your computer, generate images, and remember from past experiences.",
-      "source": "The Verge",
-      "published": "2026-04-16T17:00:00+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/913034/openai-codex-updates-use-macos"
-    },
-    {
       "title": "Google's AI Mode Update Tries to Kill Tab Hopping in Chrome",
       "summary": "Google latest update to AI Mode in its Chrome browser is designed to keep the chatbot-style search tool always around once you start an online search journey.",
       "source": "Wired",
       "published": "2026-04-16T17:00:00+00:00",
       "link": "https://www.wired.com/story/google-ai-mode-update-tries-to-kill-tab-hopping-in-chrome/"
+    },
+    {
+      "title": "OpenAI’s big Codex update is a direct shot at Claude Code",
+      "summary": "OpenAI is beefing up its agentic coding and development system, Codex, with a suite of updates that let it use your computer, generate images, and remember from past experiences.",
+      "source": "The Verge",
+      "published": "2026-04-16T17:00:00+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/913034/openai-codex-updates-use-macos"
     },
     {
       "title": "Google’s AI Mode update lets you open links without leaving the page",
@@ -1365,41 +1400,6 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-04-14T17:07:46+00:00",
       "link": "https://the-decoder.com/claude-code-routines-let-ai-fix-bugs-and-review-code-on-autopilot/"
-    },
-    {
-      "title": "How to Use Google Chrome’s New AI-Powered ‘Skills’",
-      "summary": "The premade Skills available through the Gemini sidebar in Chrome include ways to maximize protein in recipes or summarize YouTube videos.",
-      "source": "Wired",
-      "published": "2026-04-14T17:00:00+00:00",
-      "link": "https://www.wired.com/story/how-to-use-google-chrome-ai-powered-skills/"
-    },
-    {
-      "title": "Chrome now lets you turn AI prompts into repeatable ‘Skills’",
-      "summary": "Google is launching a new Chrome workflow feature that allows you to reuse your favorite Gemini commands across multiple webpages. Any AI prompts can now be saved as \"Skills\" in the Chrome desktop browser, letting you instantly run them across any tabs you select.",
-      "source": "The Verge",
-      "published": "2026-04-14T17:00:00+00:00",
-      "link": "https://www.theverge.com/tech/911658/google-chrome-gemini-ai-skills-availability-launch"
-    },
-    {
-      "title": "Google adds AI Skills to Chrome to help you save favorite workflows",
-      "summary": "Google is adding “Skills” to Chrome, letting users save and reuse AI prompts across websites. The feature builds on Gemini’s browser integration.",
-      "source": "TechCrunch",
-      "published": "2026-04-14T17:00:00+00:00",
-      "link": "https://techcrunch.com/2026/04/14/google-adds-ai-skills-to-chrome-to-help-you-save-favorite-workflows/"
-    },
-    {
-      "title": "Ukraine captures a Russian position using only drones and ground robots",
-      "summary": "President Zelenskyy announces a historic first: a Russian position taken entirely by unmanned systems. A CSIS report details how AI is already changing Ukraine's battlefield and where the limits remain.",
-      "source": "The Decoder",
-      "published": "2026-04-14T15:37:43+00:00",
-      "link": "https://the-decoder.com/ukraine-captures-a-russian-position-using-only-drones-and-ground-robots/"
-    },
-    {
-      "title": "In just a couple weeks, StrictlyVC San Francisco brings leaders from TDK Ventures, Replit, and more together",
-      "summary": "The first StrictlyVC of the year will be coming to San Francisco before you know it. There are still a few tickets available to join us and our stacked speaker lineup April 30, so register today!",
-      "source": "TechCrunch",
-      "published": "2026-04-14T15:30:49+00:00",
-      "link": "https://techcrunch.com/2026/04/14/join-the-first-strictlyvc-of-2026-in-sf-with-leaders-from-tdk-ventures-and-replits-co-founder/"
     }
   ]
 };
