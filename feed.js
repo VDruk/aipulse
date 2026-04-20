@@ -1,6 +1,41 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-04-20T14:53:39.007930+00:00",
+  "lastUpdated": "2026-04-20T17:53:00.239286+00:00",
   "items": [
+    {
+      "title": "Open-weight Kimi K2.6 takes on GPT-5.4 and Claude Opus 4.6 with agent swarms",
+      "summary": "Moonshot AI has released Kimi K2.6 as an open-weight model. It's built to match GPT-5.4 and Claude Opus 4.6 on coding benchmarks, and it can run up to 300 agents in parallel.",
+      "source": "The Decoder",
+      "published": "2026-04-20T17:13:04+00:00",
+      "link": "https://the-decoder.com/open-weight-kimi-k2-6-takes-on-gpt-5-4-and-claude-opus-4-6-with-agent-swarms/"
+    },
+    {
+      "title": "Fortnite developers can make AI characters now — just don’t try to date them",
+      "summary": "Following last year's AI-powered Darth Vader in Fortnite that swore in a re-creation of James Earl Jones' voice, Epic Games is now letting Fortnite creators experiment with a new \"conversations\" tool to create AI-powered characters that players can talk and interact with.",
+      "source": "The Verge",
+      "published": "2026-04-20T16:58:39+00:00",
+      "link": "https://www.theverge.com/games/914963/fortnite-ai-characters-developers-conversations"
+    },
+    {
+      "title": "Google builds elite team to close the coding gap with Anthropic",
+      "summary": "Google is doubling down on AI coding and betting on models that can eventually improve themselves. Sergey Brin is once again leading the charge to keep Google's AI competitive.",
+      "source": "The Decoder",
+      "published": "2026-04-20T16:30:15+00:00",
+      "link": "https://the-decoder.com/google-builds-elite-team-to-close-the-coding-gap-with-anthropic/"
+    },
+    {
+      "title": "NSA spies are reportedly using Anthropic’s Mythos, despite Pentagon feud",
+      "summary": "NSA is said to be using Anthropic's restricted Mythos AI model.",
+      "source": "TechCrunch",
+      "published": "2026-04-20T16:06:21+00:00",
+      "link": "https://techcrunch.com/2026/04/20/nsa-spies-are-reportedly-using-anthropics-mythos-despite-pentagon-feud/"
+    },
+    {
+      "title": "CEO and CFO suddenly depart AI nuclear power upstart Fermi",
+      "summary": "The startup, co-founded by former U.S. Energy Secretary Rick Perry, has faced headwinds with its AI campus in Texas.",
+      "source": "TechCrunch",
+      "published": "2026-04-20T15:30:19+00:00",
+      "link": "https://techcrunch.com/2026/04/20/fermi-ceo-and-cfo-depart-texas-nuclear-power-ai/"
+    },
     {
       "title": "Adobe fights AI disruption of its own business model with new enterprise agent platform",
       "summary": "The software giant is responding to growing pressure from AI-native competitors with a new enterprise agent platform. At the same time, the company is looking for its next chief executive.",
@@ -247,18 +282,18 @@ const FEED_DATA = {
       "link": "https://the-decoder.com/just-ten-minutes-of-using-ai-as-an-answer-machine-can-measurably-erode-problem-solving-skills-new-study-finds/"
     },
     {
-      "title": "It Takes 2 Minutes to Hack the EU’s New Age-Verification App",
-      "summary": "Plus: Major data breaches at a gym chain and hotel giant, a disruptive DDoS attack against Bluesky, dubious ICE hires, and more.",
-      "source": "Wired",
-      "published": "2026-04-18T10:30:00+00:00",
-      "link": "https://www.wired.com/story/security-news-this-week-it-takes-2-minutes-to-hack-the-eus-new-age-verification-app/"
-    },
-    {
       "title": "Schematik Is ‘Cursor for Hardware.’ Anthropic Wants In",
       "summary": "Schematik is a program that aims to help people vibe code for physical devices. Hopefully, it won’t blow anything up.",
       "source": "Wired",
       "published": "2026-04-18T10:30:00+00:00",
       "link": "https://www.wired.com/story/schematik-is-cursor-for-hardware-anthropic-wants-in-on-it/"
+    },
+    {
+      "title": "It Takes 2 Minutes to Hack the EU’s New Age-Verification App",
+      "summary": "Plus: Major data breaches at a gym chain and hotel giant, a disruptive DDoS attack against Bluesky, dubious ICE hires, and more.",
+      "source": "Wired",
+      "published": "2026-04-18T10:30:00+00:00",
+      "link": "https://www.wired.com/story/security-news-this-week-it-takes-2-minutes-to-hack-the-eus-new-age-verification-app/"
     },
     {
       "title": "Anthropic CEO Amodei declares \"there is no end to the rainbow\" for AI scaling",
@@ -311,7 +346,7 @@ const FEED_DATA = {
     },
     {
       "title": "US-sanctioned currency exchange says $15 million heist done by \"unfriendly states\"",
-      "summary": "Grinex says needed hacking resources \"available exclusively to ... unfriendly states.\"",
+      "summary": "Grinex says needed hacking resources \"available exclusively to... unfriendly states.\"",
       "source": "Ars Technica",
       "published": "2026-04-17T21:28:35+00:00",
       "link": "https://arstechnica.com/security/2026/04/russia-friendly-exchange-says-western-special-service-behind-15-million-cyberattack/"
@@ -604,18 +639,18 @@ const FEED_DATA = {
       "link": "https://www.theverge.com/ai-artificial-intelligence/913034/openai-codex-updates-use-macos"
     },
     {
-      "title": "Google’s AI Mode update lets you open links without leaving the page",
-      "summary": "Google is upgrading AI Mode in Chrome with a new feature that will allow you to open links to sources alongside your chat.",
-      "source": "The Verge",
-      "published": "2026-04-16T17:00:00+00:00",
-      "link": "https://www.theverge.com/tech/913109/google-ai-mode-tabs-sources"
-    },
-    {
       "title": "Google's AI Mode Update Tries to Kill Tab Hopping in Chrome",
       "summary": "Google latest update to AI Mode in its Chrome browser is designed to keep the chatbot-style search tool always around once you start an online search journey.",
       "source": "Wired",
       "published": "2026-04-16T17:00:00+00:00",
       "link": "https://www.wired.com/story/google-ai-mode-update-tries-to-kill-tab-hopping-in-chrome/"
+    },
+    {
+      "title": "Google’s AI Mode update lets you open links without leaving the page",
+      "summary": "Google is upgrading AI Mode in Chrome with a new feature that will allow you to open links to sources alongside your chat.",
+      "source": "The Verge",
+      "published": "2026-04-16T17:00:00+00:00",
+      "link": "https://www.theverge.com/tech/913109/google-ai-mode-tabs-sources"
     },
     {
       "title": "Google now lets you explore the web side-by-side with AI Mode",
@@ -1365,41 +1400,6 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-04-14T15:30:49+00:00",
       "link": "https://techcrunch.com/2026/04/14/join-the-first-strictlyvc-of-2026-in-sf-with-leaders-from-tdk-ventures-and-replits-co-founder/"
-    },
-    {
-      "title": "AI will never be ethical or safe",
-      "summary": "Article URL: https://meiert.com/blog/ai-ethics-and-safety/ Comments URL: https://news.ycombinator.com/item?id=47766960 Points: 60 # Comments: 32",
-      "source": "Hacker News",
-      "published": "2026-04-14T15:30:48+00:00",
-      "link": "https://meiert.com/blog/ai-ethics-and-safety/"
-    },
-    {
-      "title": "Anthropic Opposes the Extreme AI Liability Bill That OpenAI Backed",
-      "summary": "Anthropic and OpenAI are clashing over a proposed Illinois law that would let AI labs largely off the hook for mass deaths and financial disasters.",
-      "source": "Wired",
-      "published": "2026-04-14T15:21:44+00:00",
-      "link": "https://www.wired.com/story/anthropic-opposes-the-extreme-ai-liability-bill-that-openai-backed/"
-    },
-    {
-      "title": "Google brings its Gemini Personal Intelligence feature to India",
-      "summary": "The feature lets users connect Google accounts like Gmail and Photos to get personalized answers.",
-      "source": "TechCrunch",
-      "published": "2026-04-14T14:48:34+00:00",
-      "link": "https://techcrunch.com/2026/04/14/google-brings-its-gemini-personal-intelligence-feature-to-india/"
-    },
-    {
-      "title": "Schools Never Taught Critical Thinking: AI Exposed the Lie",
-      "summary": "Article URL: https://smarterarticles.co.uk/ai-exposed-the-lie-schools-never-taught-critical-thinking Comments URL: https://news.ycombinator.com/item?id=47766144 Points: 65 # Comments: 86",
-      "source": "Hacker News",
-      "published": "2026-04-14T14:29:55+00:00",
-      "link": "https://smarterarticles.co.uk/ai-exposed-the-lie-schools-never-taught-critical-thinking"
-    },
-    {
-      "title": "How vibe-coding app Anything is rebuilding after getting booted from the App Store twice",
-      "summary": "Anything is planning to launch a desktop companion app to aid mobile app development after its App Store removal.",
-      "source": "TechCrunch",
-      "published": "2026-04-14T14:22:44+00:00",
-      "link": "https://techcrunch.com/2026/04/14/how-vibe-coding-app-anything-is-rebuilding-after-getting-booted-from-the-app-store-twice/"
     }
   ]
 };
