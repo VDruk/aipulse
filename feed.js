@@ -1,6 +1,76 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-04-20T10:25:41.625521+00:00",
+  "lastUpdated": "2026-04-20T14:53:39.007930+00:00",
   "items": [
+    {
+      "title": "Adobe fights AI disruption of its own business model with new enterprise agent platform",
+      "summary": "The software giant is responding to growing pressure from AI-native competitors with a new enterprise agent platform. At the same time, the company is looking for its next chief executive.",
+      "source": "The Decoder",
+      "published": "2026-04-20T14:39:14+00:00",
+      "link": "https://the-decoder.com/adobe-fights-ai-disruption-of-its-own-business-model-with-new-enterprise-agent-platform/"
+    },
+    {
+      "title": "Humanoid robots outrun humans at Beijing's second robot half marathon",
+      "summary": "At the second half marathon for humanoid robots in Beijing, Chinese machines posted dramatically faster times on Sunday compared to last year. The article Humanoid robots outrun humans at Beijing's second robot half marathon appeared first on The Decoder.",
+      "source": "The Decoder",
+      "published": "2026-04-20T13:24:02+00:00",
+      "link": "https://the-decoder.com/humanoid-robots-outrun-humans-at-beijings-second-robot-half-marathon/"
+    },
+    {
+      "title": "Bobyard 2.0 offers improved takeoffs and unified AI for estimators",
+      "summary": "AI platform, Bobyard, has unveiled Bobyard 2.0, its latest platform update delivering accelerated takeoff workflows and a unified AI workbench, designed to keep pace with the estimators (those responsible for calculating project budgets) who use it every day throughout the...",
+      "source": "AI News",
+      "published": "2026-04-20T13:15:51+00:00",
+      "link": "https://www.artificialintelligence-news.com/news/bobyard-2-0-offers-improved-takeoffs-and-unified-ai-for-estimators/"
+    },
+    {
+      "title": "Google plans nearly two million new AI chips as it turns to Marvell for custom designs",
+      "summary": "Google is in talks with chip designer Marvell Technology to develop two new specialized chips for its data centers, according to The Information, citing two sources.",
+      "source": "The Decoder",
+      "published": "2026-04-20T13:15:39+00:00",
+      "link": "https://the-decoder.com/google-plans-nearly-two-million-new-ai-chips-as-it-turns-to-marvell-for-custom-designs/"
+    },
+    {
+      "title": "Salesforce bets on \"Agent Albert\" to prove AI won't kill enterprise software",
+      "summary": "Wall Street worries AI could make traditional enterprise software obsolete. Salesforce CEO Marc Benioff is pushing back with a new AI product and a homegrown metric.",
+      "source": "The Decoder",
+      "published": "2026-04-20T13:11:39+00:00",
+      "link": "https://the-decoder.com/salesforce-bets-on-agent-albert-to-prove-ai-wont-kill-enterprise-software/"
+    },
+    {
+      "title": "Atlassian Enables Default Data Collection to Train AI",
+      "summary": "Article URL: https://letsdatascience.com/news/atlassian-enables-default-data-collection-to-train-ai-f71343d8 Comments URL: https://news.ycombinator.com/item?id=47833247 Points: 88 # Comments: 21",
+      "source": "Hacker News",
+      "published": "2026-04-20T12:23:39+00:00",
+      "link": "https://letsdatascience.com/news/atlassian-enables-default-data-collection-to-train-ai-f71343d8"
+    },
+    {
+      "title": "The Download: murderous ‘mirror’ bacteria, and Chinese workers fighting AI doubles",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.",
+      "source": "MIT Tech Review",
+      "published": "2026-04-20T12:10:00+00:00",
+      "link": "https://www.technologyreview.com/2026/04/20/1136154/the-download-murderous-mirror-bacteria-chinese-workers-fight-ai-agents/"
+    },
+    {
+      "title": "How to prepare for and remediate an AI system incident",
+      "summary": "For all the possibilities AI gives us, there is always a chance of the technology malfunctioning or becoming compromised.",
+      "source": "AI News",
+      "published": "2026-04-20T11:39:41+00:00",
+      "link": "https://www.artificialintelligence-news.com/news/how-to-prepare-for-and-remediate-an-ai-system-incident/"
+    },
+    {
+      "title": "Tech CEOs Think AI Will Let Them Be Everywhere at Once",
+      "summary": "Mark Zuckerberg and Jack Dorsey have different visions for how to use AI for management purposes, but both imagine a system of heightened control.",
+      "source": "Wired",
+      "published": "2026-04-20T11:00:00+00:00",
+      "link": "https://www.wired.com/story/tech-ceos-using-ai-to-be-everywhere-at-once/"
+    },
+    {
+      "title": "Colossal Biosciences said it cloned red wolves. Is it for real?",
+      "summary": "If you want to capture something wolflike, it’s best to embark before dawn. So on a morning this January, with the eastern horizon still pink-hued, I drove with two young scientists into a blanket of fog.",
+      "source": "MIT Tech Review",
+      "published": "2026-04-20T10:00:00+00:00",
+      "link": "https://www.technologyreview.com/2026/04/20/1135222/red-wolves-colossal-biosciences-clones/"
+    },
     {
       "title": "The NSA is using Anthropic's most powerful AI model Mythos",
       "summary": "The NSA, the US intelligence agency responsible for electronic surveillance, is using Anthropic's most powerful AI model, \"Mythos Preview.\" The article The NSA is using Anthropic's most powerful AI model Mythos appeared first on The Decoder.",
@@ -24,14 +94,14 @@ const FEED_DATA = {
     },
     {
       "title": "Swiss AI Initiative (2023)",
-      "summary": "Article URL: https://www.swiss-ai.org Comments URL: https://news.ycombinator.com/item?id=47828444 Points: 57 # Comments: 20",
+      "summary": "Article URL: https://www.swiss-ai.org Comments URL: https://news.ycombinator.com/item?id=47828444 Points: 85 # Comments: 26",
       "source": "Hacker News",
       "published": "2026-04-19T22:58:35+00:00",
       "link": "https://www.swiss-ai.org"
     },
     {
       "title": "CEOs admit AI had no impact on employment or productivity",
-      "summary": "Article URL: https://fortune.com/article/why-do-thousands-of-ceos-believe-ai-not-having-impact-productivity-employment-study/ Comments URL: https://news.ycombinator.com/item?id=47827985 Points: 80 # Comments: 72",
+      "summary": "Article URL: https://fortune.com/article/why-do-thousands-of-ceos-believe-ai-not-having-impact-productivity-employment-study/ Comments URL: https://news.ycombinator.com/item?id=47827985 Points: 85 # Comments: 76",
       "source": "Hacker News",
       "published": "2026-04-19T21:56:22+00:00",
       "link": "https://fortune.com/article/why-do-thousands-of-ceos-believe-ai-not-having-impact-productivity-employment-study/"
@@ -52,7 +122,7 @@ const FEED_DATA = {
     },
     {
       "title": "Uber’s Anthropic AI push hits a wall",
-      "summary": "Article URL: https://finance.yahoo.com/sectors/technology/articles/ubers-anthropic-ai-push-hits-223109852.html Comments URL: https://news.ycombinator.com/item?id=47826328 Points: 90 # Comments: 93",
+      "summary": "Article URL: https://finance.yahoo.com/sectors/technology/articles/ubers-anthropic-ai-push-hits-223109852.html Comments URL: https://news.ycombinator.com/item?id=47826328 Points: 93 # Comments: 96",
       "source": "Hacker News",
       "published": "2026-04-19T18:13:32+00:00",
       "link": "https://finance.yahoo.com/sectors/technology/articles/ubers-anthropic-ai-push-hits-223109852.html"
@@ -136,7 +206,7 @@ const FEED_DATA = {
     },
     {
       "title": "College instructor turns to typewriters to curb AI-written work",
-      "summary": "Article URL: https://sentinelcolorado.com/uncategorized/a-college-instructor-turns-to-typewriters-to-curb-ai-written-work-and-teach-life-lessons/ Comments URL: https://news.ycombinator.com/item?id=47818485 Points: 468 # Comments: 416",
+      "summary": "Article URL: https://sentinelcolorado.com/uncategorized/a-college-instructor-turns-to-typewriters-to-curb-ai-written-work-and-teach-life-lessons/ Comments URL: https://news.ycombinator.com/item?id=47818485 Points: 477 # Comments: 422",
       "source": "Hacker News",
       "published": "2026-04-18T19:00:00+00:00",
       "link": "https://sentinelcolorado.com/uncategorized/a-college-instructor-turns-to-typewriters-to-curb-ai-written-work-and-teach-life-lessons/"
@@ -367,7 +437,7 @@ const FEED_DATA = {
     },
     {
       "title": "Scan your website to see how ready it is for AI agents",
-      "summary": "Article URL: https://isitagentready.com Comments URL: https://news.ycombinator.com/item?id=47805998 Points: 112 # Comments: 176",
+      "summary": "Article URL: https://isitagentready.com Comments URL: https://news.ycombinator.com/item?id=47805998 Points: 112 # Comments: 177",
       "source": "Hacker News",
       "published": "2026-04-17T13:55:25+00:00",
       "link": "https://isitagentready.com"
@@ -458,7 +528,7 @@ const FEED_DATA = {
     },
     {
       "title": "The beginning of scarcity in AI",
-      "summary": "Article URL: https://tomtunguz.com/ai-compute-crisis-2026/ Comments URL: https://news.ycombinator.com/item?id=47799322 Points: 194 # Comments: 226",
+      "summary": "Article URL: https://tomtunguz.com/ai-compute-crisis-2026/ Comments URL: https://news.ycombinator.com/item?id=47799322 Points: 195 # Comments: 226",
       "source": "Hacker News",
       "published": "2026-04-16T20:49:35+00:00",
       "link": "https://tomtunguz.com/ai-compute-crisis-2026/"
@@ -703,7 +773,7 @@ const FEED_DATA = {
     },
     {
       "title": "Cloudflare's AI Platform: an inference layer designed for agents",
-      "summary": "Article URL: https://blog.cloudflare.com/ai-platform/ Comments URL: https://news.ycombinator.com/item?id=47792538 Points: 306 # Comments: 94",
+      "summary": "Article URL: https://blog.cloudflare.com/ai-platform/ Comments URL: https://news.ycombinator.com/item?id=47792538 Points: 306 # Comments: 95",
       "source": "Hacker News",
       "published": "2026-04-16T13:17:37+00:00",
       "link": "https://blog.cloudflare.com/ai-platform/"
@@ -773,7 +843,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI cybersecurity is not proof of work",
-      "summary": "Recent and related: Cybersecurity looks like proof of work now - https://news.ycombinator.com/item?id=47769089 - (198 comments) Comments URL: https://news.ycombinator.com/item?id=47791236 Points: 237 # Comments: 88",
+      "summary": "Recent and related: Cybersecurity looks like proof of work now - https://news.ycombinator.com/item?id=47769089 - (198 comments) Comments URL: https://news.ycombinator.com/item?id=47791236 Points: 238 # Comments: 88",
       "source": "Hacker News",
       "published": "2026-04-16T10:48:00+00:00",
       "link": "https://antirez.com/news/163"
@@ -794,14 +864,14 @@ const FEED_DATA = {
     },
     {
       "title": "SDL bans AI-written commits",
-      "summary": "Article URL: https://github.com/libsdl-org/SDL/issues/15350 Comments URL: https://news.ycombinator.com/item?id=47790791 Points: 132 # Comments: 137",
+      "summary": "Article URL: https://github.com/libsdl-org/SDL/issues/15350 Comments URL: https://news.ycombinator.com/item?id=47790791 Points: 132 # Comments: 138",
       "source": "Hacker News",
       "published": "2026-04-16T09:40:43+00:00",
       "link": "https://github.com/libsdl-org/SDL/issues/15350"
     },
     {
       "title": "Shares in shoe brand Allbirds rise 580% after it pivots from footwear to AI",
-      "summary": "Article URL: https://www.bbc.com/news/articles/c98mrepzgj7o Comments URL: https://news.ycombinator.com/item?id=47790353 Points: 74 # Comments: 32",
+      "summary": "Article URL: https://www.bbc.com/news/articles/c98mrepzgj7o Comments URL: https://news.ycombinator.com/item?id=47790353 Points: 75 # Comments: 32",
       "source": "Hacker News",
       "published": "2026-04-16T08:43:51+00:00",
       "link": "https://www.bbc.com/news/articles/c98mrepzgj7o"
@@ -815,7 +885,7 @@ const FEED_DATA = {
     },
     {
       "title": "The local LLM ecosystem doesn’t need Ollama",
-      "summary": "Article URL: https://sleepingrobots.com/dreams/stop-using-ollama/ Comments URL: https://news.ycombinator.com/item?id=47788385 Points: 640 # Comments: 208",
+      "summary": "Article URL: https://sleepingrobots.com/dreams/stop-using-ollama/ Comments URL: https://news.ycombinator.com/item?id=47788385 Points: 641 # Comments: 208",
       "source": "Hacker News",
       "published": "2026-04-16T03:35:11+00:00",
       "link": "https://sleepingrobots.com/dreams/stop-using-ollama/"
@@ -1330,76 +1400,6 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-04-14T14:22:44+00:00",
       "link": "https://techcrunch.com/2026/04/14/how-vibe-coding-app-anything-is-rebuilding-after-getting-booted-from-the-app-store-twice/"
-    },
-    {
-      "title": "How vibe coding app Anything is rebuilding after getting booted from the App Store twice",
-      "summary": "Anything is planning to launch a desktop companion app to aid mobile app development after its App Store removal.",
-      "source": "TechCrunch",
-      "published": "2026-04-14T14:22:44+00:00",
-      "link": "https://techcrunch.com/2026/04/14/how-vibe-coding-app-anything-is-rebuilding-after-getting-booted-from-the-app-store-twice/"
-    },
-    {
-      "title": "Has Google’s AI watermarking system been reverse-engineered?",
-      "summary": "A software developer claims to have reverse-engineered Google DeepMind's SynthID system, showing how AI watermarks can be stripped from generated images or manually inserted into other works. A claim that, according to Google, isn't true.",
-      "source": "The Verge",
-      "published": "2026-04-14T13:53:53+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/911579/google-synthid-ai-watermarking-system-reverse-engineered"
-    },
-    {
-      "title": "Claude Mythos is a wake-up call for Europe's AI safety apparatus",
-      "summary": "Anthropic is restricting access to Claude Mythos, an AI model it says can find security vulnerabilities better than most humans. European authorities have almost no visibility into the system, while the UK is already running its own tests.",
-      "source": "The Decoder",
-      "published": "2026-04-14T13:53:49+00:00",
-      "link": "https://the-decoder.com/claude-mythos-is-a-wake-up-call-for-europes-ai-safety-apparatus/"
-    },
-    {
-      "title": "Two Months After I Gave an AI $100 and No Instructions",
-      "summary": "Article URL: https://www.sebastian-jais.de/blog/two-months-alma-experiment Comments URL: https://news.ycombinator.com/item?id=47765458 Points: 92 # Comments: 113",
-      "source": "Hacker News",
-      "published": "2026-04-14T13:34:24+00:00",
-      "link": "https://www.sebastian-jais.de/blog/two-months-alma-experiment"
-    },
-    {
-      "title": "Show HN: Kontext CLI – Credential broker for AI coding agents in Go",
-      "summary": "We built the Kontext CLI because AI coding agents need access to GitHub, Stripe, databases, and dozens of other services — and right now most teams handle this by copy-pasting long-lived API keys into .env files, or the actual chat interface, whilst hoping for the best.The...",
-      "source": "Hacker News",
-      "published": "2026-04-14T13:26:53+00:00",
-      "link": "https://github.com/kontext-dev/kontext-cli"
-    },
-    {
-      "title": "SAP brings agentic AI to human capital management",
-      "summary": "According to SAP, integrating agentic AI into core human capital management (HCM) modules helps target operational bloat and reduce costs.",
-      "source": "AI News",
-      "published": "2026-04-14T12:55:09+00:00",
-      "link": "https://www.artificialintelligence-news.com/news/sap-brings-agentic-ai-human-capital-management/"
-    },
-    {
-      "title": "The Download: the state of AI, and protecting bears with drones",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Want to understand the current state of AI?",
-      "source": "MIT Tech Review",
-      "published": "2026-04-14T12:10:00+00:00",
-      "link": "https://www.technologyreview.com/2026/04/14/1135847/the-download-state-of-ai-drones-protecting-bears/"
-    },
-    {
-      "title": "NASA is building the first nuclear reactor-powered interplanetary spacecraft. How will it work?",
-      "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here.",
-      "source": "MIT Tech Review",
-      "published": "2026-04-14T12:04:47+00:00",
-      "link": "https://www.technologyreview.com/2026/04/14/1135848/nasa-nuclear-powered-spacecraft/"
-    },
-    {
-      "title": "Canada’s Scotiabank preps for its AI future",
-      "summary": "Scotiabank has launched an AI framework, Scotia Intelligence, for data and AI operations that joins various platforms, data oversight, and software tools into a single instance.",
-      "source": "AI News",
-      "published": "2026-04-14T11:20:00+00:00",
-      "link": "https://www.artificialintelligence-news.com/news/canadas-scotiabank-preps-for-its-ai-future/"
-    },
-    {
-      "title": "Coming soon: 10 Things That Matter in AI Right Now",
-      "summary": "Each year we compile our 10 Breakthrough Technologies list, featuring our educated predictions for which technologies will have the biggest impact on how we live and work. This year, however, we had a dilemma.",
-      "source": "MIT Tech Review",
-      "published": "2026-04-14T11:00:00+00:00",
-      "link": "https://www.technologyreview.com/2026/04/14/1135298/coming-soon-10-things-that-matter-in-ai-right-now/"
     }
   ]
 };
