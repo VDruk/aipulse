@@ -1,9 +1,16 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-04-20T04:19:02.618084+00:00",
+  "lastUpdated": "2026-04-20T07:18:18.013692+00:00",
   "items": [
     {
+      "title": "Swiss AI Initiative (2023)",
+      "summary": "Article URL: https://www.swiss-ai.org Comments URL: https://news.ycombinator.com/item?id=47828444 Points: 57 # Comments: 20",
+      "source": "Hacker News",
+      "published": "2026-04-19T22:58:35+00:00",
+      "link": "https://www.swiss-ai.org"
+    },
+    {
       "title": "CEOs admit AI had no impact on employment or productivity",
-      "summary": "Article URL: https://fortune.com/article/why-do-thousands-of-ceos-believe-ai-not-having-impact-productivity-employment-study/ Comments URL: https://news.ycombinator.com/item?id=47827985 Points: 77 # Comments: 68",
+      "summary": "Article URL: https://fortune.com/article/why-do-thousands-of-ceos-believe-ai-not-having-impact-productivity-employment-study/ Comments URL: https://news.ycombinator.com/item?id=47827985 Points: 80 # Comments: 72",
       "source": "Hacker News",
       "published": "2026-04-19T21:56:22+00:00",
       "link": "https://fortune.com/article/why-do-thousands-of-ceos-believe-ai-not-having-impact-productivity-employment-study/"
@@ -24,7 +31,7 @@ const FEED_DATA = {
     },
     {
       "title": "Uber’s Anthropic AI push hits a wall",
-      "summary": "Article URL: https://finance.yahoo.com/sectors/technology/articles/ubers-anthropic-ai-push-hits-223109852.html Comments URL: https://news.ycombinator.com/item?id=47826328 Points: 83 # Comments: 92",
+      "summary": "Article URL: https://finance.yahoo.com/sectors/technology/articles/ubers-anthropic-ai-push-hits-223109852.html Comments URL: https://news.ycombinator.com/item?id=47826328 Points: 90 # Comments: 93",
       "source": "Hacker News",
       "published": "2026-04-19T18:13:32+00:00",
       "link": "https://finance.yahoo.com/sectors/technology/articles/ubers-anthropic-ai-push-hits-223109852.html"
@@ -108,7 +115,7 @@ const FEED_DATA = {
     },
     {
       "title": "College instructor turns to typewriters to curb AI-written work",
-      "summary": "Article URL: https://sentinelcolorado.com/uncategorized/a-college-instructor-turns-to-typewriters-to-curb-ai-written-work-and-teach-life-lessons/ Comments URL: https://news.ycombinator.com/item?id=47818485 Points: 464 # Comments: 410",
+      "summary": "Article URL: https://sentinelcolorado.com/uncategorized/a-college-instructor-turns-to-typewriters-to-curb-ai-written-work-and-teach-life-lessons/ Comments URL: https://news.ycombinator.com/item?id=47818485 Points: 468 # Comments: 416",
       "source": "Hacker News",
       "published": "2026-04-18T19:00:00+00:00",
       "link": "https://sentinelcolorado.com/uncategorized/a-college-instructor-turns-to-typewriters-to-curb-ai-written-work-and-teach-life-lessons/"
@@ -766,7 +773,7 @@ const FEED_DATA = {
     },
     {
       "title": "SDL bans AI-written commits",
-      "summary": "Article URL: https://github.com/libsdl-org/SDL/issues/15350 Comments URL: https://news.ycombinator.com/item?id=47790791 Points: 131 # Comments: 137",
+      "summary": "Article URL: https://github.com/libsdl-org/SDL/issues/15350 Comments URL: https://news.ycombinator.com/item?id=47790791 Points: 132 # Comments: 137",
       "source": "Hacker News",
       "published": "2026-04-16T09:40:43+00:00",
       "link": "https://github.com/libsdl-org/SDL/issues/15350"
@@ -787,7 +794,7 @@ const FEED_DATA = {
     },
     {
       "title": "The local LLM ecosystem doesn’t need Ollama",
-      "summary": "Article URL: https://sleepingrobots.com/dreams/stop-using-ollama/ Comments URL: https://news.ycombinator.com/item?id=47788385 Points: 639 # Comments: 208",
+      "summary": "Article URL: https://sleepingrobots.com/dreams/stop-using-ollama/ Comments URL: https://news.ycombinator.com/item?id=47788385 Points: 640 # Comments: 208",
       "source": "Hacker News",
       "published": "2026-04-16T03:35:11+00:00",
       "link": "https://sleepingrobots.com/dreams/stop-using-ollama/"
@@ -1393,13 +1400,6 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-04-14T09:16:27+00:00",
       "link": "https://the-decoder.com/stanfords-ai-index-2026-shows-rapid-progress-growing-safety-concerns-and-declining-public-trust/"
-    },
-    {
-      "title": "An AI Vibe Coding Horror Story",
-      "summary": "Article URL: https://www.tobru.ch/an-ai-vibe-coding-horror-story/ Comments URL: https://news.ycombinator.com/item?id=47762901 Points: 211 # Comments: 210",
-      "source": "Hacker News",
-      "published": "2026-04-14T08:35:45+00:00",
-      "link": "https://www.tobru.ch/an-ai-vibe-coding-horror-story/"
     }
   ]
 };
