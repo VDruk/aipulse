@@ -1,6 +1,27 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-04-20T07:18:18.013692+00:00",
+  "lastUpdated": "2026-04-20T10:25:41.625521+00:00",
   "items": [
+    {
+      "title": "The NSA is using Anthropic's most powerful AI model Mythos",
+      "summary": "The NSA, the US intelligence agency responsible for electronic surveillance, is using Anthropic's most powerful AI model, \"Mythos Preview.\" The article The NSA is using Anthropic's most powerful AI model Mythos appeared first on The Decoder.",
+      "source": "The Decoder",
+      "published": "2026-04-20T09:26:04+00:00",
+      "link": "https://the-decoder.com/the-nsa-is-using-anthropics-most-powerful-ai-model-mythos/"
+    },
+    {
+      "title": "Chinese tech workers are starting to train their AI doubles–and pushing back",
+      "summary": "Tech workers in China are being instructed by their bosses to train AI agents to replace them—and it’s prompting a wave of soul-searching among otherwise enthusiastic early adopters.",
+      "source": "MIT Tech Review",
+      "published": "2026-04-20T09:00:00+00:00",
+      "link": "https://www.technologyreview.com/2026/04/20/1136149/chinese-tech-workers-ai-colleagues/"
+    },
+    {
+      "title": "Anthropic walks into the White House and Mythos is the reason Washington let it in",
+      "summary": "When we covered Project Glasswing earlier this month, the story was about a model too dangerous to release publicly and what Anthropic decided to do with it instead. That story has moved.",
+      "source": "AI News",
+      "published": "2026-04-20T08:00:00+00:00",
+      "link": "https://www.artificialintelligence-news.com/news/anthropic-mythos-ai-cybersecurity-white-house/"
+    },
     {
       "title": "Swiss AI Initiative (2023)",
       "summary": "Article URL: https://www.swiss-ai.org Comments URL: https://news.ycombinator.com/item?id=47828444 Points: 57 # Comments: 20",
@@ -758,18 +779,18 @@ const FEED_DATA = {
       "link": "https://antirez.com/news/163"
     },
     {
-      "title": "The quest to measure our relationship with nature",
-      "summary": "As a movement, environmentalism has been pretty misanthropic. Understandably so—we humans have done some destructive things to the ecosystems around us.",
-      "source": "MIT Tech Review",
-      "published": "2026-04-16T10:00:00+00:00",
-      "link": "https://www.technologyreview.com/2026/04/16/1135245/measure-relationship-with-nature-index/"
-    },
-    {
       "title": "Cadence expands AI and robotic partnerships with Nvidia, Google Cloud",
       "summary": "Cadence Design Systems announced two AI-related collaborations at its CadenceLIVE event this week, expanding its work with Nvidia and introducing new integrations with Google Cloud.",
       "source": "AI News",
       "published": "2026-04-16T10:00:00+00:00",
       "link": "https://www.artificialintelligence-news.com/news/cadence-expands-ai-and-robotics-partnerships-with-nvidia-google-cloud/"
+    },
+    {
+      "title": "The quest to measure our relationship with nature",
+      "summary": "As a movement, environmentalism has been pretty misanthropic. Understandably so—we humans have done some destructive things to the ecosystems around us.",
+      "source": "MIT Tech Review",
+      "published": "2026-04-16T10:00:00+00:00",
+      "link": "https://www.technologyreview.com/2026/04/16/1135245/measure-relationship-with-nature-index/"
     },
     {
       "title": "SDL bans AI-written commits",
@@ -1379,27 +1400,6 @@ const FEED_DATA = {
       "source": "MIT Tech Review",
       "published": "2026-04-14T11:00:00+00:00",
       "link": "https://www.technologyreview.com/2026/04/14/1135298/coming-soon-10-things-that-matter-in-ai-right-now/"
-    },
-    {
-      "title": "Silicon Valley Is Spending Millions to Stop One of Its Own",
-      "summary": "Alex Bores, a former Palantir employee, helped pass one of the country’s toughest AI laws. Now Silicon Valley’s biggest names are trying to stop his rise to Congress.",
-      "source": "Wired",
-      "published": "2026-04-14T10:30:00+00:00",
-      "link": "https://www.wired.com/story/the-big-interview-podcast-new-york-state-representative-alex-bores/"
-    },
-    {
-      "title": "Hyundai expands into robotics and physical AI systems",
-      "summary": "Hyundai Motor Group is starting to look like a company building machines that act in the real world. The change centres on physical AI: Where AI is placed into robots and systems that move and respond in physical spaces.",
-      "source": "AI News",
-      "published": "2026-04-14T10:00:00+00:00",
-      "link": "https://www.artificialintelligence-news.com/news/hyundai-expands-into-robotics-and-physical-ai-systems/"
-    },
-    {
-      "title": "Stanford's AI Index 2026 shows rapid progress, growing safety concerns, and declining public trust",
-      "summary": "The AI Index Report 2026 from Stanford HAI documents major performance leaps in AI models, a narrowing gap between the US and China, and mounting safety problems, all while public trust continues to erode.",
-      "source": "The Decoder",
-      "published": "2026-04-14T09:16:27+00:00",
-      "link": "https://the-decoder.com/stanfords-ai-index-2026-shows-rapid-progress-growing-safety-concerns-and-declining-public-trust/"
     }
   ]
 };
