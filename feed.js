@@ -1,6 +1,13 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-04-19T21:28:27.723021+00:00",
+  "lastUpdated": "2026-04-20T04:19:02.618084+00:00",
   "items": [
+    {
+      "title": "CEOs admit AI had no impact on employment or productivity",
+      "summary": "Article URL: https://fortune.com/article/why-do-thousands-of-ceos-believe-ai-not-having-impact-productivity-employment-study/ Comments URL: https://news.ycombinator.com/item?id=47827985 Points: 77 # Comments: 68",
+      "source": "Hacker News",
+      "published": "2026-04-19T21:56:22+00:00",
+      "link": "https://fortune.com/article/why-do-thousands-of-ceos-believe-ai-not-having-impact-productivity-employment-study/"
+    },
     {
       "title": "OpenAI’s existential questions",
       "summary": "On the latest episode of Equity, we discuss OpenAI's latest acquisitions and whether they address \"two big existential problems\" for the company.",
@@ -14,6 +21,13 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-04-19T19:30:00+00:00",
       "link": "https://techcrunch.com/2026/04/19/the-12-month-window/"
+    },
+    {
+      "title": "Uber’s Anthropic AI push hits a wall",
+      "summary": "Article URL: https://finance.yahoo.com/sectors/technology/articles/ubers-anthropic-ai-push-hits-223109852.html Comments URL: https://news.ycombinator.com/item?id=47826328 Points: 83 # Comments: 92",
+      "source": "Hacker News",
+      "published": "2026-04-19T18:13:32+00:00",
+      "link": "https://finance.yahoo.com/sectors/technology/articles/ubers-anthropic-ai-push-hits-223109852.html"
     },
     {
       "title": "TechCrunch Mobility: Uber enters its assetmaxxing era",
@@ -94,14 +108,14 @@ const FEED_DATA = {
     },
     {
       "title": "College instructor turns to typewriters to curb AI-written work",
-      "summary": "Article URL: https://sentinelcolorado.com/uncategorized/a-college-instructor-turns-to-typewriters-to-curb-ai-written-work-and-teach-life-lessons/ Comments URL: https://news.ycombinator.com/item?id=47818485 Points: 446 # Comments: 405",
+      "summary": "Article URL: https://sentinelcolorado.com/uncategorized/a-college-instructor-turns-to-typewriters-to-curb-ai-written-work-and-teach-life-lessons/ Comments URL: https://news.ycombinator.com/item?id=47818485 Points: 464 # Comments: 410",
       "source": "Hacker News",
       "published": "2026-04-18T19:00:00+00:00",
       "link": "https://sentinelcolorado.com/uncategorized/a-college-instructor-turns-to-typewriters-to-curb-ai-written-work-and-teach-life-lessons/"
     },
     {
       "title": "Graphs that explain the state of AI in 2026",
-      "summary": "Article URL: https://spectrum.ieee.org/state-of-ai-index-2026 Comments URL: https://news.ycombinator.com/item?id=47817581 Points: 108 # Comments: 61",
+      "summary": "Article URL: https://spectrum.ieee.org/state-of-ai-index-2026 Comments URL: https://news.ycombinator.com/item?id=47817581 Points: 111 # Comments: 61",
       "source": "Hacker News",
       "published": "2026-04-18T17:12:44+00:00",
       "link": "https://spectrum.ieee.org/state-of-ai-index-2026"
@@ -325,7 +339,7 @@ const FEED_DATA = {
     },
     {
       "title": "Scan your website to see how ready it is for AI agents",
-      "summary": "Article URL: https://isitagentready.com Comments URL: https://news.ycombinator.com/item?id=47805998 Points: 112 # Comments: 175",
+      "summary": "Article URL: https://isitagentready.com Comments URL: https://news.ycombinator.com/item?id=47805998 Points: 112 # Comments: 176",
       "source": "Hacker News",
       "published": "2026-04-17T13:55:25+00:00",
       "link": "https://isitagentready.com"
@@ -416,7 +430,7 @@ const FEED_DATA = {
     },
     {
       "title": "The beginning of scarcity in AI",
-      "summary": "Article URL: https://tomtunguz.com/ai-compute-crisis-2026/ Comments URL: https://news.ycombinator.com/item?id=47799322 Points: 193 # Comments: 226",
+      "summary": "Article URL: https://tomtunguz.com/ai-compute-crisis-2026/ Comments URL: https://news.ycombinator.com/item?id=47799322 Points: 194 # Comments: 226",
       "source": "Hacker News",
       "published": "2026-04-16T20:49:35+00:00",
       "link": "https://tomtunguz.com/ai-compute-crisis-2026/"
@@ -850,7 +864,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI-assisted cognition endangers human development?",
-      "summary": "Article URL: https://heidenstedt.org/posts/2026/ai-assisted-cognition-endangers-human-development/ Comments URL: https://news.ycombinator.com/item?id=47783024 Points: 230 # Comments: 187",
+      "summary": "Article URL: https://heidenstedt.org/posts/2026/ai-assisted-cognition-endangers-human-development/ Comments URL: https://news.ycombinator.com/item?id=47783024 Points: 230 # Comments: 188",
       "source": "Hacker News",
       "published": "2026-04-15T18:16:50+00:00",
       "link": "https://heidenstedt.org/posts/2026/ai-assisted-cognition-endangers-human-development/"
@@ -1386,20 +1400,6 @@ const FEED_DATA = {
       "source": "Hacker News",
       "published": "2026-04-14T08:35:45+00:00",
       "link": "https://www.tobru.ch/an-ai-vibe-coding-horror-story/"
-    },
-    {
-      "title": "OpenAI acquires AI finance startup Hiro, which built a \"personal AI CFO\"",
-      "summary": "OpenAI acquires the team behind AI finance startup Hiro. The service is shutting down, and all user data will be deleted.",
-      "source": "The Decoder",
-      "published": "2026-04-14T08:20:12+00:00",
-      "link": "https://the-decoder.com/openai-acquires-ai-finance-startup-hiro-which-built-a-personal-ai-cfo/"
-    },
-    {
-      "title": "OpenAI has bought AI personal finance startup Hiro",
-      "summary": "The acquisition indicates a capability that OpenAI is building into ChatGPT: financial planning.",
-      "source": "TechCrunch",
-      "published": "2026-04-14T00:23:33+00:00",
-      "link": "https://techcrunch.com/2026/04/13/openai-has-bought-ai-personal-finance-startup-hiro/"
     }
   ]
 };
