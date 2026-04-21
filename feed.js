@@ -1,6 +1,27 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-04-20T21:39:46.762352+00:00",
+  "lastUpdated": "2026-04-21T04:11:00.708305+00:00",
   "items": [
+    {
+      "title": "Anthropic takes $5B from Amazon and pledges $100B in cloud spending in return",
+      "summary": "Amazon has made another circular AI deal: It's investing another $5 billion in Anthropic. Anthropic has agreed to spend $100 billion on AWS in return.",
+      "source": "TechCrunch",
+      "published": "2026-04-20T23:10:27+00:00",
+      "link": "https://techcrunch.com/2026/04/20/anthropic-takes-5b-from-amazon-and-pledges-100b-in-cloud-spending-in-return/"
+    },
+    {
+      "title": "A Humanoid Robot Set a Half-Marathon Record in China",
+      "summary": "An autonomous robot from the company Honor ran a half marathon in 50:26, beating the human record by 7 minutes.",
+      "source": "Wired",
+      "published": "2026-04-20T22:33:27+00:00",
+      "link": "https://www.wired.com/story/a-humanoid-robot-set-a-half-marathon-record-in-china/"
+    },
+    {
+      "title": "Google rolls out Gemini in Chrome in 7 new countries",
+      "summary": "Google is rolling out Gemini in Chrome in Australia, Indonesia, Japan, the Philippines, Singapore, South Korea, and Vietnam. The company is rolling this feature out to both desktop and iOS in all of these countries except Japan.",
+      "source": "TechCrunch",
+      "published": "2026-04-20T22:00:00+00:00",
+      "link": "https://techcrunch.com/2026/04/20/google-rolls-out-gemini-in-chrome-in-seven-new-countries/"
+    },
     {
       "title": "AI Resistance Is Growing",
       "summary": "Article URL: https://stephvee.ca/blog/artificial%20intelligence/ai-resistance-is-growing/ Comments URL: https://news.ycombinator.com/item?id=47839951 Points: 181 # Comments: 122",
@@ -1379,27 +1400,6 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-04-14T17:31:48+00:00",
       "link": "https://the-decoder.com/claude-mythos-can-autonomously-compromise-weakly-defended-enterprise-networks-end-to-end/"
-    },
-    {
-      "title": "Max Hodak’s Science Corp. is preparing to place its first sensor in a human brain",
-      "summary": "The device could help address multiple neurological conditions if it proves successful. One early use could be delivering gentle electrical stimulation to damaged brain or spinal cord cells to encourage healing.",
-      "source": "TechCrunch",
-      "published": "2026-04-14T17:13:03+00:00",
-      "link": "https://techcrunch.com/2026/04/14/max-hodaks-science-corp-is-preparing-to-place-its-first-sensor-in-a-human-brain/"
-    },
-    {
-      "title": "Turn your best AI prompts into one-click tools in Chrome",
-      "summary": "Article URL: https://blog.google/products-and-platforms/products/chrome/skills-in-chrome/ Comments URL: https://news.ycombinator.com/item?id=47768339 Points: 193 # Comments: 109",
-      "source": "Hacker News",
-      "published": "2026-04-14T17:09:43+00:00",
-      "link": "https://blog.google/products-and-platforms/products/chrome/skills-in-chrome/"
-    },
-    {
-      "title": "Claude Code routines let AI fix bugs and review code on autopilot",
-      "summary": "Anthropic has introduced \"routines\" for Claude Code - automated processes that can independently fix bugs, review pull requests, or respond to events without needing a user's local machine.",
-      "source": "The Decoder",
-      "published": "2026-04-14T17:07:46+00:00",
-      "link": "https://the-decoder.com/claude-code-routines-let-ai-fix-bugs-and-review-code-on-autopilot/"
     }
   ]
 };
