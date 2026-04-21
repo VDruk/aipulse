@@ -1,6 +1,69 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-04-21T10:08:32.674169+00:00",
+  "lastUpdated": "2026-04-21T14:47:53.244936+00:00",
   "items": [
+    {
+      "title": "Snowflake expands its technical and mainstream AI platforms",
+      "summary": "Snowflake is expanding its Snowflake Intelligence and Cortex Code offerings in the hope of bringing users deploying and developing artificial intelligence inside the Snowflake portfolio.",
+      "source": "AI News",
+      "published": "2026-04-21T14:29:00+00:00",
+      "link": "https://www.artificialintelligence-news.com/news/snowflake-expands-its-technical-and-mainstream-ai-platforms/"
+    },
+    {
+      "title": "John Ternus’s first big problem is AI",
+      "summary": "Less than a year ago, Apple made headlines for a lack of AI announcements at its annual WWDC event.",
+      "source": "The Verge",
+      "published": "2026-04-21T13:37:55+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/915662/john-ternus-apple-ceo-tim-cook-ai-problem-siri"
+    },
+    {
+      "title": "GRAI believes AI can make music more social, not replace artists",
+      "summary": "AI music startup GRAI says fans want to remix tracks, not generate songs from scratch.",
+      "source": "TechCrunch",
+      "published": "2026-04-21T13:00:00+00:00",
+      "link": "https://techcrunch.com/2026/04/21/grai-believes-ai-can-make-music-more-social-not-replace-artists/"
+    },
+    {
+      "title": "The flood of AI music is reshaping how streaming platforms handle new uploads",
+      "summary": "Music streaming service Deezer reports that 44 percent of all songs uploaded to its platform daily are now fully AI-generated. The company uses its own detection technology and plans to license it to the broader music industry.",
+      "source": "The Decoder",
+      "published": "2026-04-21T12:24:00+00:00",
+      "link": "https://the-decoder.com/the-flood-of-ai-music-is-reshaping-how-streaming-platforms-handle-new-uploads/"
+    },
+    {
+      "title": "Corporate America's favorite ChatGPT phrase doubled twice since 2024",
+      "summary": "A new language analysis reveals how one telltale sentence pattern exposes companies that are letting ChatGPT handle their communications. Usage has quadrupled since 2024.",
+      "source": "The Decoder",
+      "published": "2026-04-21T12:20:48+00:00",
+      "link": "https://the-decoder.com/corporate-americas-favorite-chatgpt-phrase-doubled-twice-since-2024/"
+    },
+    {
+      "title": "The Download: turning down human noise, and LA’s stunning subway upgrade",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The noise we make is hurting animals.",
+      "source": "MIT Tech Review",
+      "published": "2026-04-21T12:10:00+00:00",
+      "link": "https://www.technologyreview.com/2026/04/21/1136246/the-download-human-noise-la-subway-upgrade/"
+    },
+    {
+      "title": "Yelp is making its AI chatbot way more useful",
+      "summary": "Yelp is giving its chatbot assistant a major upgrade, turning the platform into something closer to a digital concierge with a suite of new features designed for \"getting things done.\" The move, one of several AI-focused updates in recent months, is part of a broader industry...",
+      "source": "The Verge",
+      "published": "2026-04-21T11:00:00+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/915626/yelp-ai-assistant-chatbot-major-upgrade"
+    },
+    {
+      "title": "This Scammer Used an AI-Generated MAGA Girl to Grift ‘Super Dumb’ Men",
+      "summary": "A med student says he’s made thousands of dollars selling photos and videos of a young conservative woman he created using generative tools. He’s not alone.",
+      "source": "Wired",
+      "published": "2026-04-21T11:00:00+00:00",
+      "link": "https://www.wired.com/story/ai-generated-maga-girls/"
+    },
+    {
+      "title": "Anthropic is building its first data center team outside the US",
+      "summary": "According to job listings spotted by Data Center Dynamics, Anthropic is hiring data center contract specialists in Europe and Australia. The article Anthropic is building its first data center team outside the US appeared first on The Decoder.",
+      "source": "The Decoder",
+      "published": "2026-04-21T10:34:06+00:00",
+      "link": "https://the-decoder.com/anthropic-is-building-its-first-data-center-team-outside-the-us/"
+    },
     {
       "title": "Siemens introduces AI system for automation engineering",
       "summary": "Siemens has introduced the Eigen Engineering Agent, an AI system designed to plan and validate automation engineering tasks in operational environments.",
@@ -42,6 +105,13 @@ const FEED_DATA = {
       "source": "Wired",
       "published": "2026-04-20T22:33:27+00:00",
       "link": "https://www.wired.com/story/a-humanoid-robot-set-a-half-marathon-record-in-china/"
+    },
+    {
+      "title": "Google rolls out Gemini in Chrome in APAC countries",
+      "summary": "Google is rolling out Gemini in Chrome in Australia, Indonesia, Japan, the Philippines, Singapore, South Korea, and Vietnam. The company is rolling this feature out to both desktop and iOS in all of these countries except Japan.",
+      "source": "TechCrunch",
+      "published": "2026-04-20T22:00:00+00:00",
+      "link": "https://techcrunch.com/2026/04/20/google-rolls-out-gemini-in-chrome-in-seven-new-countries/"
     },
     {
       "title": "Google rolls out Gemini in Chrome in 7 new countries",
@@ -1330,76 +1400,6 @@ const FEED_DATA = {
       "source": "AI News",
       "published": "2026-04-15T11:03:00+00:00",
       "link": "https://www.artificialintelligence-news.com/news/agricultural-drones-get-smarter-for-large-farm-holdings/"
-    },
-    {
-      "title": "AI Slop Is Making the Internet Fake-Happy",
-      "summary": "A new study examines the impact of the rise of AI-generated websites on the internet—and found some surprising results.",
-      "source": "Wired",
-      "published": "2026-04-15T11:00:00+00:00",
-      "link": "https://www.wired.com/story/ai-slop-is-changing-the-internet-just-not-how-you-might-think/"
-    },
-    {
-      "title": "Grok’s sexual deepfakes almost got it banned from Apple’s App Store. Almost.",
-      "summary": "Apple quietly threatened to kick Elon Musk's AI app, Grok, from its App Store in January over its failure to curb the surge of nonconsensual sexual deepfakes flooding X, according to NBC News.",
-      "source": "The Verge",
-      "published": "2026-04-15T10:55:22+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/912297/apple-app-store-ban-grok-x-deepfakes"
-    },
-    {
-      "title": "OpenAI's European Stargate plans shrink as Microsoft and Google take over capacity",
-      "summary": "Back in July 2025, OpenAI CEO Sam Altman expressed confidence that the conditions were right to bring Stargate to Narvik, Norway. Just a few months later, that optimism has largely evaporated.",
-      "source": "The Decoder",
-      "published": "2026-04-15T10:55:17+00:00",
-      "link": "https://the-decoder.com/openais-european-stargate-plans-shrink-as-microsoft-and-google-take-over-capacity/"
-    },
-    {
-      "title": "OpenAI's GPT-5.4 Pro reportedly solves a longstanding open Erdős math problem in under two hours",
-      "summary": "GPT-5.4 Pro solves an open Erdős problem in 80 minutes. Terence Tao calls it a meaningful contribution to mathematics.",
-      "source": "The Decoder",
-      "published": "2026-04-15T10:10:44+00:00",
-      "link": "https://the-decoder.com/openais-gpt-5-4-pro-reportedly-solves-a-longstanding-open-erdos-math-problem-in-under-two-hours/"
-    },
-    {
-      "title": "The US-China AI gap closes amid responsible AI concerns",
-      "summary": "The assumption that the US holds a durable lead in AI model performance is not well-supported by the data, and that is just one of the uncomfortable findings in Stanford University’s 2026 AI Index Report, published this week.",
-      "source": "AI News",
-      "published": "2026-04-15T10:00:00+00:00",
-      "link": "https://www.artificialintelligence-news.com/news/ai-safety-benchmarks-stanford-hai-2026-report/"
-    },
-    {
-      "title": "The Deepfake Nudes Crisis in Schools Is Much Worse Than You Thought",
-      "summary": "An analysis by WIRED and Indicator found nearly 90 schools and 600 students around the world impacted by AI-generated deepfake nude images—and the problem shows no signs of going away.",
-      "source": "Wired",
-      "published": "2026-04-15T10:00:00+00:00",
-      "link": "https://www.wired.com/story/deepfake-nudify-schools-global-crisis/"
-    },
-    {
-      "title": "The US-China AI gap closed. The responsible AI gap didn’t",
-      "summary": "The assumption that the US holds a durable lead in AI model performance is not well-supported by the data, and that is just one of the uncomfortable findings in Stanford University’s 2026 AI Index Report, published this week.",
-      "source": "AI News",
-      "published": "2026-04-15T10:00:00+00:00",
-      "link": "https://www.artificialintelligence-news.com/news/ai-safety-benchmarks-stanford-hai-2026-report/"
-    },
-    {
-      "title": "OpenAI releases GPT-5.4-Cyber, a model built specifically for defensive cybersecurity",
-      "summary": "OpenAI releases GPT-5.4-Cyber, a model that has been specifically trained for defensive cyber security. Access remains restricted to verified security experts for the time being.",
-      "source": "The Decoder",
-      "published": "2026-04-15T09:50:02+00:00",
-      "link": "https://the-decoder.com/openai-releases-gpt-5-4-cyber-a-model-built-specifically-for-defensive-cybersecurity/"
-    },
-    {
-      "title": "No one’s sure if synthetic mirror life will kill us all",
-      "summary": "For four days in February 2019, some 30 synthetic biologists and ethicists hunkered down at a conference center in Northern Virginia to brainstorm high-risk, cutting-­edge, irresistibly exciting ideas that the National Science Foundation should fund.",
-      "source": "MIT Tech Review",
-      "published": "2026-04-15T09:00:00+00:00",
-      "link": "https://www.technologyreview.com/2026/04/15/1135197/synthetic-mirror-life-microbes-kill-us-all/"
-    },
-    {
-      "title": "My AI-Assisted Workflow",
-      "summary": "Article URL: https://www.maiobarbero.dev/articles/ai-assisted-workflow/ Comments URL: https://news.ycombinator.com/item?id=47775653 Points: 90 # Comments: 113",
-      "source": "Hacker News",
-      "published": "2026-04-15T07:08:18+00:00",
-      "link": "https://www.maiobarbero.dev/articles/ai-assisted-workflow/"
     }
   ]
 };
