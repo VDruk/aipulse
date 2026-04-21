@@ -1,12 +1,96 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-04-21T14:47:53.244936+00:00",
+  "lastUpdated": "2026-04-21T17:56:29.299849+00:00",
   "items": [
+    {
+      "title": "Tim Cook's Legacy Is Turning Apple Into a Subscription",
+      "summary": "The soon-to-exit Apple CEO went all in on services. Now, the incoming CEO, John Ternus, will need to embrace the AI era.",
+      "source": "Wired",
+      "published": "2026-04-21T17:35:12+00:00",
+      "link": "https://www.wired.com/story/apple-tim-cook-subscription-business/"
+    },
+    {
+      "title": "Celebrities will be able to find and request removal of AI deepfakes on YouTube",
+      "summary": "YouTube is expanding its AI deepfake monitoring feature to Hollywood - meaning some celebrity AI videos could soon disappear. The platform's likeness detection feature searches YouTube for AI deepfake content and flags it for public figures enrolled in the program.",
+      "source": "The Verge",
+      "published": "2026-04-21T17:30:24+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/915872/celebrities-will-be-able-to-find-and-request-removal-of-ai-deepfakes-on-youtube"
+    },
+    {
+      "title": "Building agent-first governance and security",
+      "summary": "As AI agents increasingly work alongside humans across organizations, companies could be inadvertently opening a new attack surface. Insecure agents can be manipulated to access sensitive systems and proprietary data, increasing enterprise risk.",
+      "source": "MIT Tech Review",
+      "published": "2026-04-21T17:22:54+00:00",
+      "link": "https://www.technologyreview.com/2026/04/21/1136158/building-agent-first-governance-and-security/"
+    },
+    {
+      "title": "Clarifai deletes 3 million photos that OkCupid provided to train facial recognition AI, report says",
+      "summary": "The photo deletion comes after an FTC settlement with Clarifai. The company had asked OkCupid — whose executives had invested in Clarifai — to share data in 2014, according to court documents.",
+      "source": "TechCrunch",
+      "published": "2026-04-21T17:11:01+00:00",
+      "link": "https://techcrunch.com/2026/04/21/clarifai-okcupid-facial-recognition-ai-ftc-settlement/"
+    },
+    {
+      "title": "Ordering with the Starbucks ChatGPT app was a true coffee nightmare",
+      "summary": "Venti iced coffee, light skim milk. That's what I get at Starbucks.",
+      "source": "The Verge",
+      "published": "2026-04-21T16:19:40+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/915821/starbucks-chatgpt-app-testing"
+    },
+    {
+      "title": "AI Dungeon maker Latitude unveils Voyage, a platform for creating AI-powered RPGs",
+      "summary": "Latitude's new AI-native platform, Voyage, aims to help gamers create their very own role-playing game.",
+      "source": "TechCrunch",
+      "published": "2026-04-21T16:00:00+00:00",
+      "link": "https://techcrunch.com/2026/04/21/voyage-is-an-ai-rpg-platform-for-creating-custom-gaming-worlds-with-ai-generated-npc-interactions/"
+    },
+    {
+      "title": "OpenAI teases GPT-Image 2 with an AI-generated screenshot that looks completely real",
+      "summary": "OpenAI is unveiling a new image model tonight that has been making waves on social media for weeks under the codename \"gpt-image-2.\" Early test images are nearly impossible to tell apart from real photos.",
+      "source": "The Decoder",
+      "published": "2026-04-21T15:58:49+00:00",
+      "link": "https://the-decoder.com/openai-teases-gpt-image-2-with-an-ai-generated-screenshot-that-looks-completely-real/"
+    },
+    {
+      "title": "Bond, a new social media platform, wants to use AI to help you kick your doomscrolling habit",
+      "summary": "Bond wants you to get off the couch and get back into the real world, its creator says. The new platform's AI system is designed to motivate users to do things away from the app.",
+      "source": "TechCrunch",
+      "published": "2026-04-21T15:24:29+00:00",
+      "link": "https://techcrunch.com/2026/04/21/bond-social-media-platform-ai-memories-kick-doomscrolling-habit/"
+    },
+    {
+      "title": "YouTube expands its AI likeness detection technology to celebrities",
+      "summary": "YouTube is expanding its AI likeness detection tool to celebrities, giving talent and their reps a way to find and remove deepfakes.",
+      "source": "TechCrunch",
+      "published": "2026-04-21T15:02:06+00:00",
+      "link": "https://techcrunch.com/2026/04/21/youtube-expands-its-ai-likeness-detection-technology-to-celebrities/"
+    },
+    {
+      "title": "Scammer Used an AI-Generated MAGA Girl to Grift 'Super Dumb' Men",
+      "summary": "Article URL: https://www.wired.com/story/ai-generated-maga-girls/ Comments URL: https://news.ycombinator.com/item?id=47849494 Points: 52 # Comments: 26",
+      "source": "Hacker News",
+      "published": "2026-04-21T14:41:36+00:00",
+      "link": "https://www.wired.com/story/ai-generated-maga-girls/"
+    },
     {
       "title": "Snowflake expands its technical and mainstream AI platforms",
       "summary": "Snowflake is expanding its Snowflake Intelligence and Cortex Code offerings in the hope of bringing users deploying and developing artificial intelligence inside the Snowflake portfolio.",
       "source": "AI News",
       "published": "2026-04-21T14:29:00+00:00",
       "link": "https://www.artificialintelligence-news.com/news/snowflake-expands-its-technical-and-mainstream-ai-platforms/"
+    },
+    {
+      "title": "Show HN: GoModel – an open-source AI gateway in Go",
+      "summary": "Hi, I’m Jakub, a solo founder based in Warsaw.I’ve been building GoModel since December with a couple of contributors.",
+      "source": "Hacker News",
+      "published": "2026-04-21T14:11:53+00:00",
+      "link": "https://github.com/ENTERPILOT/GOModel/"
+    },
+    {
+      "title": "John Ternus’ first big problem is AI",
+      "summary": "Less than a year ago, Apple made headlines for a lack of AI announcements at its annual WWDC event.",
+      "source": "The Verge",
+      "published": "2026-04-21T13:37:55+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/915662/john-ternus-apple-ceo-tim-cook-ai-problem-siri"
     },
     {
       "title": "John Ternus’s first big problem is AI",
@@ -86,8 +170,15 @@ const FEED_DATA = {
       "link": "https://the-decoder.com/jeff-bezos-nears-10-billion-funding-round-for-ai-lab-project-prometheus/"
     },
     {
+      "title": "Less human AI agents, please",
+      "summary": "Article URL: https://nial.se/blog/less-human-ai-agents-please/ Comments URL: https://news.ycombinator.com/item?id=47845429 Points: 101 # Comments: 118",
+      "source": "Hacker News",
+      "published": "2026-04-21T06:58:08+00:00",
+      "link": "https://nial.se/blog/less-human-ai-agents-please/"
+    },
+    {
       "title": "A Roblox cheat and one AI tool brought down Vercel's platform",
-      "summary": "Article URL: https://webmatrices.com/post/how-a-roblox-cheat-and-one-ai-tool-brought-down-vercel-s-entire-platform Comments URL: https://news.ycombinator.com/item?id=47844431 Points: 156 # Comments: 71",
+      "summary": "Article URL: https://webmatrices.com/post/how-a-roblox-cheat-and-one-ai-tool-brought-down-vercel-s-entire-platform Comments URL: https://news.ycombinator.com/item?id=47844431 Points: 274 # Comments: 145",
       "source": "Hacker News",
       "published": "2026-04-21T04:12:12+00:00",
       "link": "https://webmatrices.com/post/how-a-roblox-cheat-and-one-ai-tool-brought-down-vercel-s-entire-platform"
@@ -122,7 +213,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI Resistance: some recent anti-AI stuff that’s worth discussing",
-      "summary": "Article URL: https://stephvee.ca/blog/artificial%20intelligence/ai-resistance-is-growing/ Comments URL: https://news.ycombinator.com/item?id=47839951 Points: 359 # Comments: 361",
+      "summary": "Article URL: https://stephvee.ca/blog/artificial%20intelligence/ai-resistance-is-growing/ Comments URL: https://news.ycombinator.com/item?id=47839951 Points: 372 # Comments: 393",
       "source": "Hacker News",
       "published": "2026-04-20T20:19:13+00:00",
       "link": "https://stephvee.ca/blog/artificial%20intelligence/ai-resistance-is-growing/"
@@ -178,14 +269,14 @@ const FEED_DATA = {
     },
     {
       "title": "Peter Thiel Is Building a Parallel Justice System – Powered by AI",
-      "summary": "Article URL: https://www.codastory.com/polarization/can-we-trust-an-ai-jury-to-judge-journalism/ Comments URL: https://news.ycombinator.com/item?id=47836226 Points: 65 # Comments: 19",
+      "summary": "Article URL: https://www.codastory.com/polarization/can-we-trust-an-ai-jury-to-judge-journalism/ Comments URL: https://news.ycombinator.com/item?id=47836226 Points: 72 # Comments: 22",
       "source": "Hacker News",
       "published": "2026-04-20T16:02:26+00:00",
       "link": "https://www.codastory.com/polarization/can-we-trust-an-ai-jury-to-judge-journalism/"
     },
     {
       "title": "Deezer says 44% of songs uploaded to its platform daily are AI-generated",
-      "summary": "Article URL: https://techcrunch.com/2026/04/20/deezer-says-44-of-songs-uploaded-to-its-platform-daily-are-ai-generated/ Comments URL: https://news.ycombinator.com/item?id=47835928 Points: 346 # Comments: 355",
+      "summary": "Article URL: https://techcrunch.com/2026/04/20/deezer-says-44-of-songs-uploaded-to-its-platform-daily-are-ai-generated/ Comments URL: https://news.ycombinator.com/item?id=47835928 Points: 356 # Comments: 376",
       "source": "Hacker News",
       "published": "2026-04-20T15:41:02+00:00",
       "link": "https://techcrunch.com/2026/04/20/deezer-says-44-of-songs-uploaded-to-its-platform-daily-are-ai-generated/"
@@ -210,6 +301,13 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-04-20T14:39:14+00:00",
       "link": "https://the-decoder.com/adobe-fights-ai-disruption-of-its-own-business-model-with-new-enterprise-agent-platform/"
+    },
+    {
+      "title": "AI chatbots could be making you stupider",
+      "summary": "Article URL: https://www.bbc.com/future/article/20260417-ai-chatbots-could-be-making-you-stupider Comments URL: https://news.ycombinator.com/item?id=47834134 Points: 54 # Comments: 62",
+      "source": "Hacker News",
+      "published": "2026-04-20T13:36:11+00:00",
+      "link": "https://www.bbc.com/future/article/20260417-ai-chatbots-could-be-making-you-stupider"
     },
     {
       "title": "Humanoid robots outrun humans at Beijing's second robot half marathon",
@@ -241,7 +339,7 @@ const FEED_DATA = {
     },
     {
       "title": "Atlassian enables default data collection to train AI",
-      "summary": "Article URL: https://letsdatascience.com/news/atlassian-enables-default-data-collection-to-train-ai-f71343d8 Comments URL: https://news.ycombinator.com/item?id=47833247 Points: 568 # Comments: 125",
+      "summary": "Article URL: https://letsdatascience.com/news/atlassian-enables-default-data-collection-to-train-ai-f71343d8 Comments URL: https://news.ycombinator.com/item?id=47833247 Points: 587 # Comments: 130",
       "source": "Hacker News",
       "published": "2026-04-20T12:23:39+00:00",
       "link": "https://letsdatascience.com/news/atlassian-enables-default-data-collection-to-train-ai-f71343d8"
@@ -255,7 +353,7 @@ const FEED_DATA = {
     },
     {
       "title": "A Pascal's Wager for AI doomers",
-      "summary": "Article URL: https://pluralistic.net/2026/04/16/pascals-wager/ Comments URL: https://news.ycombinator.com/item?id=47832887 Points: 65 # Comments: 98",
+      "summary": "Article URL: https://pluralistic.net/2026/04/16/pascals-wager/ Comments URL: https://news.ycombinator.com/item?id=47832887 Points: 66 # Comments: 112",
       "source": "Hacker News",
       "published": "2026-04-20T11:42:17+00:00",
       "link": "https://pluralistic.net/2026/04/16/pascals-wager/"
@@ -289,7 +387,7 @@ const FEED_DATA = {
       "link": "https://the-decoder.com/the-nsa-is-using-anthropics-most-powerful-ai-model-mythos/"
     },
     {
-      "title": "Chinese tech workers are starting to train their AI doubles–and pushing back",
+      "title": "Chinese tech workers are starting to train their AI doubles—and pushing back",
       "summary": "Tech workers in China are being instructed by their bosses to train AI agents to replace them—and it’s prompting a wave of soul-searching among otherwise enthusiastic early adopters.",
       "source": "MIT Tech Review",
       "published": "2026-04-20T09:00:00+00:00",
@@ -304,21 +402,21 @@ const FEED_DATA = {
     },
     {
       "title": "The Uncanny Valley and the Rising Power of Anti-AI Sentiment",
-      "summary": "Article URL: https://localscribe.co/posts/uncanny-valley-and-rising-power-of-anti-ai-sentiment/ Comments URL: https://news.ycombinator.com/item?id=47829058 Points: 50 # Comments: 76",
+      "summary": "Article URL: https://localscribe.co/posts/uncanny-valley-and-rising-power-of-anti-ai-sentiment/ Comments URL: https://news.ycombinator.com/item?id=47829058 Points: 52 # Comments: 76",
       "source": "Hacker News",
       "published": "2026-04-20T00:34:39+00:00",
       "link": "https://localscribe.co/posts/uncanny-valley-and-rising-power-of-anti-ai-sentiment/"
     },
     {
       "title": "Swiss AI Initiative (2023)",
-      "summary": "Article URL: https://www.swiss-ai.org Comments URL: https://news.ycombinator.com/item?id=47828444 Points: 87 # Comments: 26",
+      "summary": "Article URL: https://www.swiss-ai.org Comments URL: https://news.ycombinator.com/item?id=47828444 Points: 88 # Comments: 26",
       "source": "Hacker News",
       "published": "2026-04-19T22:58:35+00:00",
       "link": "https://www.swiss-ai.org"
     },
     {
       "title": "CEOs admit AI had no impact on employment or productivity",
-      "summary": "Article URL: https://fortune.com/article/why-do-thousands-of-ceos-believe-ai-not-having-impact-productivity-employment-study/ Comments URL: https://news.ycombinator.com/item?id=47827985 Points: 89 # Comments: 79",
+      "summary": "Article URL: https://fortune.com/article/why-do-thousands-of-ceos-believe-ai-not-having-impact-productivity-employment-study/ Comments URL: https://news.ycombinator.com/item?id=47827985 Points: 90 # Comments: 82",
       "source": "Hacker News",
       "published": "2026-04-19T21:56:22+00:00",
       "link": "https://fortune.com/article/why-do-thousands-of-ceos-believe-ai-not-having-impact-productivity-employment-study/"
@@ -339,7 +437,7 @@ const FEED_DATA = {
     },
     {
       "title": "Uber’s Anthropic AI push hits a wall",
-      "summary": "Article URL: https://finance.yahoo.com/sectors/technology/articles/ubers-anthropic-ai-push-hits-223109852.html Comments URL: https://news.ycombinator.com/item?id=47826328 Points: 93 # Comments: 103",
+      "summary": "Article URL: https://finance.yahoo.com/sectors/technology/articles/ubers-anthropic-ai-push-hits-223109852.html Comments URL: https://news.ycombinator.com/item?id=47826328 Points: 94 # Comments: 103",
       "source": "Hacker News",
       "published": "2026-04-19T18:13:32+00:00",
       "link": "https://finance.yahoo.com/sectors/technology/articles/ubers-anthropic-ai-push-hits-223109852.html"
@@ -423,14 +521,14 @@ const FEED_DATA = {
     },
     {
       "title": "College instructor turns to typewriters to curb AI-written work",
-      "summary": "Article URL: https://sentinelcolorado.com/uncategorized/a-college-instructor-turns-to-typewriters-to-curb-ai-written-work-and-teach-life-lessons/ Comments URL: https://news.ycombinator.com/item?id=47818485 Points: 486 # Comments: 426",
+      "summary": "Article URL: https://sentinelcolorado.com/uncategorized/a-college-instructor-turns-to-typewriters-to-curb-ai-written-work-and-teach-life-lessons/ Comments URL: https://news.ycombinator.com/item?id=47818485 Points: 488 # Comments: 426",
       "source": "Hacker News",
       "published": "2026-04-18T19:00:00+00:00",
       "link": "https://sentinelcolorado.com/uncategorized/a-college-instructor-turns-to-typewriters-to-curb-ai-written-work-and-teach-life-lessons/"
     },
     {
       "title": "Graphs that explain the state of AI in 2026",
-      "summary": "Article URL: https://spectrum.ieee.org/state-of-ai-index-2026 Comments URL: https://news.ycombinator.com/item?id=47817581 Points: 112 # Comments: 61",
+      "summary": "Article URL: https://spectrum.ieee.org/state-of-ai-index-2026 Comments URL: https://news.ycombinator.com/item?id=47817581 Points: 113 # Comments: 61",
       "source": "Hacker News",
       "published": "2026-04-18T17:12:44+00:00",
       "link": "https://spectrum.ieee.org/state-of-ai-index-2026"
@@ -521,7 +619,7 @@ const FEED_DATA = {
     },
     {
       "title": "Ternary Bonsai: Top Intelligence at 1.58 Bits",
-      "summary": "Article URL: https://prismml.com/news/ternary-bonsai Comments URL: https://news.ycombinator.com/item?id=47812749 Points: 149 # Comments: 46",
+      "summary": "Article URL: https://prismml.com/news/ternary-bonsai Comments URL: https://news.ycombinator.com/item?id=47812749 Points: 213 # Comments: 54",
       "source": "Hacker News",
       "published": "2026-04-18T02:51:34+00:00",
       "link": "https://prismml.com/news/ternary-bonsai"
@@ -1302,104 +1400,6 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-04-15T13:54:11+00:00",
       "link": "https://the-decoder.com/claude-beat-human-researchers-on-an-alignment-task-and-then-the-results-vanished-in-production/"
-    },
-    {
-      "title": "Are the costs of AI agents also rising exponentially? (2025)",
-      "summary": "Article URL: https://www.tobyord.com/writing/hourly-costs-for-ai-agents Comments URL: https://news.ycombinator.com/item?id=47778922 Points: 293 # Comments: 115",
-      "source": "Hacker News",
-      "published": "2026-04-15T13:47:58+00:00",
-      "link": "https://www.tobyord.com/writing/hourly-costs-for-ai-agents"
-    },
-    {
-      "title": "US v. Heppner (S.D.N.Y. 2026) no attorney-client privilege for AI chats [pdf]",
-      "summary": "Article URL: https://fingfx.thomsonreuters.com/gfx/legaldocs/xmvjyjekkpr/Rakoff%20-%20order%20-%20AI.pdf Comments URL: https://news.ycombinator.com/item?id=47778920 Points: 188 # Comments: 136",
-      "source": "Hacker News",
-      "published": "2026-04-15T13:47:40+00:00",
-      "link": "https://fingfx.thomsonreuters.com/gfx/legaldocs/xmvjyjekkpr/Rakoff%20-%20order%20-%20AI.pdf"
-    },
-    {
-      "title": "Allbirds announces pivot from shoes to AI, stock explodes 175%",
-      "summary": "Article URL: https://www.cnbc.com/2026/04/15/allbirds-bird-stock-shoes-ai.html Comments URL: https://news.ycombinator.com/item?id=47778762 Points: 105 # Comments: 39",
-      "source": "Hacker News",
-      "published": "2026-04-15T13:34:44+00:00",
-      "link": "https://www.cnbc.com/2026/04/15/allbirds-bird-stock-shoes-ai.html"
-    },
-    {
-      "title": "Reid Hoffman weighs in on the ‘tokenmaxxing’ debate",
-      "summary": "Reid Hoffman says tracking AI token use can gauge adoption, but cautions it should be paired with context and not treated as a direct productivity metric.",
-      "source": "TechCrunch",
-      "published": "2026-04-15T13:06:54+00:00",
-      "link": "https://techcrunch.com/2026/04/15/reid-hoffman-weighs-in-on-the-tokenmaxxing-debate/"
-    },
-    {
-      "title": "Adobe’s new Firefly AI assistant can use Creative Cloud apps to complete tasks",
-      "summary": "Adobe says the assistant can work across apps like Firefly, Photoshop, Premiere, Lightroom, Express, Illustrator and its other apps to do tasks for you.",
-      "source": "TechCrunch",
-      "published": "2026-04-15T13:01:00+00:00",
-      "link": "https://techcrunch.com/2026/04/15/adobes-new-firefly-ai-assistant-can-use-creative-cloud-apps-to-complete-tasks/"
-    },
-    {
-      "title": "Gitar, a startup that uses agents to secure code, emerges from stealth with $9 million",
-      "summary": "The company uses AI to review code that, more often than not these days, has also been generated by AI.",
-      "source": "TechCrunch",
-      "published": "2026-04-15T13:00:00+00:00",
-      "link": "https://techcrunch.com/2026/04/15/gitar-a-startup-that-uses-agents-to-secure-code-emerges-from-stealth-with-9-million/"
-    },
-    {
-      "title": "This startup is betting tokenmaxxing will create the next compute giant",
-      "summary": "Parasail raised $32 million in a Series A, signaling a fractured future of models and compute.",
-      "source": "TechCrunch",
-      "published": "2026-04-15T13:00:00+00:00",
-      "link": "https://techcrunch.com/2026/04/15/parasail-raises-32m-to-feed-tokenmaxxing-ai-developers/"
-    },
-    {
-      "title": "Adobe embraces conversational AI editing, marking a ‘fundamental shift’ in creative work",
-      "summary": "Adobe is fully embracing AI tools that enable creators to edit their work using descriptive prompts, instead of manually using specific Creative Cloud apps.",
-      "source": "The Verge",
-      "published": "2026-04-15T13:00:00+00:00",
-      "link": "https://www.theverge.com/tech/912287/adobe-firefly-ai-assistant-announcement-editing"
-    },
-    {
-      "title": "AI ruling prompts warnings from US lawyers: Your chats could be used against you",
-      "summary": "Article URL: https://www.reuters.com/legal/government/ai-ruling-prompts-warnings-us-lawyers-your-chats-could-be-used-against-you-2026-04-15/ Comments URL: https://news.ycombinator.com/item?id=47778308 Points: 154 # Comments: 99",
-      "source": "Hacker News",
-      "published": "2026-04-15T12:51:13+00:00",
-      "link": "https://www.reuters.com/legal/government/ai-ruling-prompts-warnings-us-lawyers-your-chats-could-be-used-against-you-2026-04-15/"
-    },
-    {
-      "title": "Study: Back-to-basics approach can match or outperform AI in language analysis",
-      "summary": "Article URL: https://www.manchester.ac.uk/about/news/back-to-basics-approach-can-match-or-outperform-ai/ Comments URL: https://news.ycombinator.com/item?id=47778050 Points: 56 # Comments: 28",
-      "source": "Hacker News",
-      "published": "2026-04-15T12:21:47+00:00",
-      "link": "https://www.manchester.ac.uk/about/news/back-to-basics-approach-can-match-or-outperform-ai/"
-    },
-    {
-      "title": "Allbirds, Inc. Announces Expansion into AI Compute Infrastructure",
-      "summary": "Article URL: https://ir.allbirds.com/news-releases/news-release-details/allbirds-inc-executes-50m-convertible-financing-facility Comments URL: https://news.ycombinator.com/item?id=47778038 Points: 91 # Comments: 74",
-      "source": "Hacker News",
-      "published": "2026-04-15T12:20:13+00:00",
-      "link": "https://ir.allbirds.com/news-releases/news-release-details/allbirds-inc-executes-50m-convertible-financing-facility"
-    },
-    {
-      "title": "The Download: NASA’s nuclear spacecraft and unveiling our AI 10",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. NASA is building the first nuclear reactor-powered interplanetary spacecraft.",
-      "source": "MIT Tech Review",
-      "published": "2026-04-15T12:10:00+00:00",
-      "link": "https://www.technologyreview.com/2026/04/15/1135904/the-download-nasa-nuclear-powered-spacecraft-10-things-that-matter-in-ai-right-now/"
-    },
-    {
-      "title": "Microsoft Copilot in Word can now track changes and manage comments",
-      "summary": "Microsoft is expanding Copilot in Word with new functions that, according to the company, are aimed at legal, finance and compliance professionals. The article Microsoft Copilot in Word can now track changes and manage comments appeared first on The Decoder.",
-      "source": "The Decoder",
-      "published": "2026-04-15T11:42:04+00:00",
-      "link": "https://the-decoder.com/microsoft-copilot-in-word-can-now-track-changes-and-manage-comments/"
-    },
-    {
-      "title": "Drones get smarter for large farm holdings",
-      "summary": "Singapore-based DroneDash Technologies and GEODNET have formed a joint venture to be called GEODASH Aerosystems, to build an agricultural spraying drone for large industrial farms.",
-      "source": "AI News",
-      "published": "2026-04-15T11:03:00+00:00",
-      "link": "https://www.artificialintelligence-news.com/news/agricultural-drones-get-smarter-for-large-farm-holdings/"
     }
   ]
 };
