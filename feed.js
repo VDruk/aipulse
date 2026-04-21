@@ -1,9 +1,30 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-04-21T06:58:42.205255+00:00",
+  "lastUpdated": "2026-04-21T10:08:32.674169+00:00",
   "items": [
     {
+      "title": "Siemens introduces AI system for automation engineering",
+      "summary": "Siemens has introduced the Eigen Engineering Agent, an AI system designed to plan and validate automation engineering tasks in operational environments.",
+      "source": "AI News",
+      "published": "2026-04-21T10:00:00+00:00",
+      "link": "https://www.artificialintelligence-news.com/news/siemens-ai-automation-engineering-workflows/"
+    },
+    {
+      "title": "Amazon pours $33B into Anthropic, which promises to spend $100B right back on AWS",
+      "summary": "Amazon is pouring up to another $25 billion into Anthropic. In return, the AI company has committed to spending more than $100 billion on AWS infrastructure over the next ten years.",
+      "source": "The Decoder",
+      "published": "2026-04-21T09:56:21+00:00",
+      "link": "https://the-decoder.com/amazon-pours-33b-into-anthropic-which-promises-to-spend-100b-right-back-on-aws/"
+    },
+    {
+      "title": "Jeff Bezos nears $10 billion funding round for AI lab \"Project Prometheus\"",
+      "summary": "Jeff Bezos is about to close a $10 billion funding round for his AI lab codenamed \"Project Prometheus,\" the Financial Times reports. The article Jeff Bezos nears $10 billion funding round for AI lab \"Project Prometheus\" appeared first on The Decoder.",
+      "source": "The Decoder",
+      "published": "2026-04-21T09:53:48+00:00",
+      "link": "https://the-decoder.com/jeff-bezos-nears-10-billion-funding-round-for-ai-lab-project-prometheus/"
+    },
+    {
       "title": "A Roblox cheat and one AI tool brought down Vercel's platform",
-      "summary": "Article URL: https://webmatrices.com/post/how-a-roblox-cheat-and-one-ai-tool-brought-down-vercel-s-entire-platform Comments URL: https://news.ycombinator.com/item?id=47844431 Points: 97 # Comments: 32",
+      "summary": "Article URL: https://webmatrices.com/post/how-a-roblox-cheat-and-one-ai-tool-brought-down-vercel-s-entire-platform Comments URL: https://news.ycombinator.com/item?id=47844431 Points: 156 # Comments: 71",
       "source": "Hacker News",
       "published": "2026-04-21T04:12:12+00:00",
       "link": "https://webmatrices.com/post/how-a-roblox-cheat-and-one-ai-tool-brought-down-vercel-s-entire-platform"
@@ -31,7 +52,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI Resistance: some recent anti-AI stuff that’s worth discussing",
-      "summary": "Article URL: https://stephvee.ca/blog/artificial%20intelligence/ai-resistance-is-growing/ Comments URL: https://news.ycombinator.com/item?id=47839951 Points: 348 # Comments: 339",
+      "summary": "Article URL: https://stephvee.ca/blog/artificial%20intelligence/ai-resistance-is-growing/ Comments URL: https://news.ycombinator.com/item?id=47839951 Points: 359 # Comments: 361",
       "source": "Hacker News",
       "published": "2026-04-20T20:19:13+00:00",
       "link": "https://stephvee.ca/blog/artificial%20intelligence/ai-resistance-is-growing/"
@@ -87,14 +108,14 @@ const FEED_DATA = {
     },
     {
       "title": "Peter Thiel Is Building a Parallel Justice System – Powered by AI",
-      "summary": "Article URL: https://www.codastory.com/polarization/can-we-trust-an-ai-jury-to-judge-journalism/ Comments URL: https://news.ycombinator.com/item?id=47836226 Points: 61 # Comments: 19",
+      "summary": "Article URL: https://www.codastory.com/polarization/can-we-trust-an-ai-jury-to-judge-journalism/ Comments URL: https://news.ycombinator.com/item?id=47836226 Points: 65 # Comments: 19",
       "source": "Hacker News",
       "published": "2026-04-20T16:02:26+00:00",
       "link": "https://www.codastory.com/polarization/can-we-trust-an-ai-jury-to-judge-journalism/"
     },
     {
       "title": "Deezer says 44% of songs uploaded to its platform daily are AI-generated",
-      "summary": "Article URL: https://techcrunch.com/2026/04/20/deezer-says-44-of-songs-uploaded-to-its-platform-daily-are-ai-generated/ Comments URL: https://news.ycombinator.com/item?id=47835928 Points: 335 # Comments: 334",
+      "summary": "Article URL: https://techcrunch.com/2026/04/20/deezer-says-44-of-songs-uploaded-to-its-platform-daily-are-ai-generated/ Comments URL: https://news.ycombinator.com/item?id=47835928 Points: 346 # Comments: 355",
       "source": "Hacker News",
       "published": "2026-04-20T15:41:02+00:00",
       "link": "https://techcrunch.com/2026/04/20/deezer-says-44-of-songs-uploaded-to-its-platform-daily-are-ai-generated/"
@@ -105,6 +126,13 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-04-20T15:30:19+00:00",
       "link": "https://techcrunch.com/2026/04/20/fermi-ceo-and-cfo-depart-texas-nuclear-power-ai/"
+    },
+    {
+      "title": "Show HN: Mediator.ai – Using Nash bargaining and LLMs to systematize fairness",
+      "summary": "Eight years ago, my then-fiancée and I decided to get a prenup, so we hired a local mediator. The meetings were useful, but I felt there was no systematic process to produce a final agreement.",
+      "source": "Hacker News",
+      "published": "2026-04-20T15:07:04+00:00",
+      "link": "https://mediator.ai/"
     },
     {
       "title": "Adobe fights AI disruption of its own business model with new enterprise agent platform",
@@ -143,7 +171,7 @@ const FEED_DATA = {
     },
     {
       "title": "Atlassian enables default data collection to train AI",
-      "summary": "Article URL: https://letsdatascience.com/news/atlassian-enables-default-data-collection-to-train-ai-f71343d8 Comments URL: https://news.ycombinator.com/item?id=47833247 Points: 559 # Comments: 124",
+      "summary": "Article URL: https://letsdatascience.com/news/atlassian-enables-default-data-collection-to-train-ai-f71343d8 Comments URL: https://news.ycombinator.com/item?id=47833247 Points: 568 # Comments: 125",
       "source": "Hacker News",
       "published": "2026-04-20T12:23:39+00:00",
       "link": "https://letsdatascience.com/news/atlassian-enables-default-data-collection-to-train-ai-f71343d8"
@@ -157,7 +185,7 @@ const FEED_DATA = {
     },
     {
       "title": "A Pascal's Wager for AI doomers",
-      "summary": "Article URL: https://pluralistic.net/2026/04/16/pascals-wager/ Comments URL: https://news.ycombinator.com/item?id=47832887 Points: 64 # Comments: 95",
+      "summary": "Article URL: https://pluralistic.net/2026/04/16/pascals-wager/ Comments URL: https://news.ycombinator.com/item?id=47832887 Points: 65 # Comments: 98",
       "source": "Hacker News",
       "published": "2026-04-20T11:42:17+00:00",
       "link": "https://pluralistic.net/2026/04/16/pascals-wager/"
@@ -366,18 +394,18 @@ const FEED_DATA = {
       "link": "https://the-decoder.com/just-ten-minutes-of-using-ai-as-an-answer-machine-can-measurably-erode-problem-solving-skills-new-study-finds/"
     },
     {
-      "title": "Schematik Is ‘Cursor for Hardware.’ Anthropic Wants In",
-      "summary": "Schematik is a program that aims to help people vibe code for physical devices. Hopefully, it won’t blow anything up.",
-      "source": "Wired",
-      "published": "2026-04-18T10:30:00+00:00",
-      "link": "https://www.wired.com/story/schematik-is-cursor-for-hardware-anthropic-wants-in-on-it/"
-    },
-    {
       "title": "It Takes 2 Minutes to Hack the EU’s New Age-Verification App",
       "summary": "Plus: Major data breaches at a gym chain and hotel giant, a disruptive DDoS attack against Bluesky, dubious ICE hires, and more.",
       "source": "Wired",
       "published": "2026-04-18T10:30:00+00:00",
       "link": "https://www.wired.com/story/security-news-this-week-it-takes-2-minutes-to-hack-the-eus-new-age-verification-app/"
+    },
+    {
+      "title": "Schematik Is ‘Cursor for Hardware.’ Anthropic Wants In",
+      "summary": "Schematik is a program that aims to help people vibe code for physical devices. Hopefully, it won’t blow anything up.",
+      "source": "Wired",
+      "published": "2026-04-18T10:30:00+00:00",
+      "link": "https://www.wired.com/story/schematik-is-cursor-for-hardware-anthropic-wants-in-on-it/"
     },
     {
       "title": "Anthropic CEO Amodei declares \"there is no end to the rainbow\" for AI scaling",
@@ -423,7 +451,7 @@ const FEED_DATA = {
     },
     {
       "title": "Ternary Bonsai: Top Intelligence at 1.58 Bits",
-      "summary": "Article URL: https://prismml.com/news/ternary-bonsai Comments URL: https://news.ycombinator.com/item?id=47812749 Points: 126 # Comments: 27",
+      "summary": "Article URL: https://prismml.com/news/ternary-bonsai Comments URL: https://news.ycombinator.com/item?id=47812749 Points: 149 # Comments: 46",
       "source": "Hacker News",
       "published": "2026-04-18T02:51:34+00:00",
       "link": "https://prismml.com/news/ternary-bonsai"
@@ -1372,34 +1400,6 @@ const FEED_DATA = {
       "source": "Hacker News",
       "published": "2026-04-15T07:08:18+00:00",
       "link": "https://www.maiobarbero.dev/articles/ai-assisted-workflow/"
-    },
-    {
-      "title": "Building trust in the AI era with privacy-led UX",
-      "summary": "The practice of privacy-led user experience (UX) is a design philosophy that treats transparency around data collection and usage as an integral part of the customer relationship.",
-      "source": "MIT Tech Review",
-      "published": "2026-04-15T06:00:00+00:00",
-      "link": "https://www.technologyreview.com/2026/04/15/1135530/building-trust-in-the-ai-era-with-privacy-led-ux/"
-    },
-    {
-      "title": "Google Gemma 4 Runs Natively on iPhone with Full Offline AI Inference",
-      "summary": "Article URL: https://www.gizmoweek.com/gemma-4-runs-iphone/ Comments URL: https://news.ycombinator.com/item?id=47774971 Points: 291 # Comments: 180",
-      "source": "Hacker News",
-      "published": "2026-04-15T05:19:06+00:00",
-      "link": "https://www.gizmoweek.com/gemma-4-runs-iphone/"
-    },
-    {
-      "title": "Anthropic’s rise is giving some OpenAI investors second thoughts",
-      "summary": "One investor who has backed both companies told the FT that justifying OpenAI's recent round required assuming an IPO valuation of $1.2 trillion or more — making Anthropic's current $380 billion valuation look like the relative bargain.",
-      "source": "TechCrunch",
-      "published": "2026-04-15T02:31:04+00:00",
-      "link": "https://techcrunch.com/2026/04/14/anthropics-rise-is-giving-some-openai-investors-second-thoughts/"
-    },
-    {
-      "title": "What Claude Code's Source Revealed About AI Engineering Culture",
-      "summary": "Article URL: https://techtrenches.dev/p/the-snake-that-ate-itself-what-claude Comments URL: https://news.ycombinator.com/item?id=47772282 Points: 74 # Comments: 50",
-      "source": "Hacker News",
-      "published": "2026-04-14T22:27:53+00:00",
-      "link": "https://techtrenches.dev/p/the-snake-that-ate-itself-what-claude"
     }
   ]
 };
