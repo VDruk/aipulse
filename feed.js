@@ -1,8 +1,106 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-04-21T17:56:29.299849+00:00",
+  "lastUpdated": "2026-04-21T21:38:45.504705+00:00",
   "items": [
     {
-      "title": "Tim Cook's Legacy Is Turning Apple Into a Subscription",
+      "title": "This tool could show how consciousness works",
+      "summary": "How does the physical matter in our brains translate into thoughts, sensations, and emotions? It’s hard to explore that question without neurosurgery.",
+      "source": "MIT Tech Review",
+      "published": "2026-04-21T21:00:00+00:00",
+      "link": "https://www.technologyreview.com/2026/04/21/1134862/this-tool-could-show-how-consciousness-works/"
+    },
+    {
+      "title": "AI at MIT",
+      "summary": "At MIT, AI has become so pervasive that you can almost find your way into it without meaning to. Take Sili Deng, an associate professor of mechanical engineering.",
+      "source": "MIT Tech Review",
+      "published": "2026-04-21T21:00:00+00:00",
+      "link": "https://www.technologyreview.com/2026/04/21/1134938/ai-at-mit/"
+    },
+    {
+      "title": "Inventor recalls eye imaging breakthrough",
+      "summary": "If you’ve been to an eye doctor and had an image taken of the inside of your eye, chances are good it was done with optical coherence tomography (OCT)—a technology invented by clinician-scientist David Huang ’85, SM ’89, PhD ’93, and now used in 40 million procedures per year.",
+      "source": "MIT Tech Review",
+      "published": "2026-04-21T21:00:00+00:00",
+      "link": "https://www.technologyreview.com/2026/04/21/1134945/inventor-recalls-eye-imaging-breakthrough/"
+    },
+    {
+      "title": "ChatGPT Images 2.0 is a breakthrough that could fundamentally reshape graphic generation",
+      "summary": "OpenAI is adding reasoning and web search to its ChatGPT Images 2.0 image generator. The model can now create up to eight consistent images from a single prompt and handles text in general, and especially in non-Latin scripts, significantly better.",
+      "source": "The Decoder",
+      "published": "2026-04-21T19:55:49+00:00",
+      "link": "https://the-decoder.com/openais-chatgpt-images-2-0-thinks-before-it-generates-adding-reasoning-and-web-search-to-image-creation/"
+    },
+    {
+      "title": "AI research lab NeoCognition lands $40M seed to build agents that learn like humans",
+      "summary": "Founded by an OSU researcher, the startup is developing AI agents that can become experts in any domain.",
+      "source": "TechCrunch",
+      "published": "2026-04-21T19:11:29+00:00",
+      "link": "https://techcrunch.com/2026/04/21/ai-research-lab-neocognition-lands-40m-seed-to-build-agents-that-learn-like-humans/"
+    },
+    {
+      "title": "AI backlash is coming for elections",
+      "summary": "Ask Americans how they feel about AI and most say they have concerns. Communities have mounted resistance to data center projects, stalling them across the US.",
+      "source": "The Verge",
+      "published": "2026-04-21T19:00:05+00:00",
+      "link": "https://www.theverge.com/policy/916210/ai-midterm-elections-data-centers-jobs"
+    },
+    {
+      "title": "ChatGPT’s new Images 2.0 model is surprisingly good at generating text",
+      "summary": "ChatGPT Images 2.0, the newest image-generation model from OpenAI, shows just how much AI capabilities have evolved over the last few years.",
+      "source": "TechCrunch",
+      "published": "2026-04-21T19:00:00+00:00",
+      "link": "https://techcrunch.com/2026/04/21/chatgpts-new-images-2-0-model-is-surprisingly-good-at-generating-text/"
+    },
+    {
+      "title": "OpenAI’s updated image generator can now pull information from the web",
+      "summary": "OpenAI is rolling out the latest version of its AI-powered image generator with new \"thinking capabilities,\" allowing it to search the web to help it create multiple images from a single prompt.",
+      "source": "The Verge",
+      "published": "2026-04-21T19:00:00+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/916166/openai-chatgpt-images-2"
+    },
+    {
+      "title": "OpenAI Beefs Up ChatGPT’s Image Generation Model",
+      "summary": "The ChatGPT Images 2.0 model is here. Our testing shows it’s better at creating more detailed images and rendering text, but it still struggles with languages other than English.",
+      "source": "Wired",
+      "published": "2026-04-21T19:00:00+00:00",
+      "link": "https://www.wired.com/story/openai-beefs-up-chatgpts-image-generation-model/"
+    },
+    {
+      "title": "Sam Altman throws shade at Anthropic’s cyber model, Mythos: ‘fear-based marketing’",
+      "summary": "This week, during a podcast appearance, OpenAI CEO Sam Altman called out his competitor's new cybersecurity model, noting that the company was using fear to make its product sound more impressive than it actually is.",
+      "source": "TechCrunch",
+      "published": "2026-04-21T18:51:52+00:00",
+      "link": "https://techcrunch.com/2026/04/21/sam-altman-throws-shade-at-anthropics-cyber-model-mythos-fear-based-marketing/"
+    },
+    {
+      "title": "Mozilla Used Anthropic’s Mythos to Find and Fix 271 Bugs in Firefox",
+      "summary": "The Firefox team doesn’t think emerging AI capabilities will upend cybersecurity long term, but they warn that software developers are likely in for a rocky transition.",
+      "source": "Wired",
+      "published": "2026-04-21T18:30:00+00:00",
+      "link": "https://www.wired.com/story/mozilla-used-anthropics-mythos-to-find-271-bugs-in-firefox/"
+    },
+    {
+      "title": "Google launches Deep Research and Deep Research Max agents to automate complex research",
+      "summary": "Google Deepmind is rolling out Deep Research Max, a new AI agent built on Gemini 3.1 Pro that runs autonomous research across the web and proprietary data sources.",
+      "source": "The Decoder",
+      "published": "2026-04-21T18:11:38+00:00",
+      "link": "https://the-decoder.com/google-launches-deep-research-and-deep-research-max-agents-to-automate-complex-research/"
+    },
+    {
+      "title": "Framework’s first eGPUs turn its laptop into a desktop PC",
+      "summary": "Remember when Framework made the first laptop where you can easily upgrade its entire internal video card in three minutes flat? The company's getting into the external graphics game, too.",
+      "source": "The Verge",
+      "published": "2026-04-21T18:07:24+00:00",
+      "link": "https://www.theverge.com/gadgets/915328/framework-oculink-egpu-dev-kit-laptop-16"
+    },
+    {
+      "title": "Meta capturing employee mouse movements, keystrokes for AI training data",
+      "summary": "Article URL: https://economictimes.indiatimes.com/tech/technology/meta-to-start-capturing-employee-mouse-movements-keystrokes-for-ai-training-data/articleshow/130422612.cms?from=mdr Comments URL: https://news.ycombinator.com/item?id=47851948 Points: 140 # Comments: 86",
+      "source": "Hacker News",
+      "published": "2026-04-21T17:40:39+00:00",
+      "link": "https://economictimes.indiatimes.com/tech/technology/meta-to-start-capturing-employee-mouse-movements-keystrokes-for-ai-training-data/articleshow/130422612.cms?from=mdr"
+    },
+    {
+      "title": "Tim Cook’s Legacy Is Turning Apple Into a Subscription",
       "summary": "The soon-to-exit Apple CEO went all in on services. Now, the incoming CEO, John Ternus, will need to embrace the AI era.",
       "source": "Wired",
       "published": "2026-04-21T17:35:12+00:00",
@@ -28,6 +126,13 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-04-21T17:11:01+00:00",
       "link": "https://techcrunch.com/2026/04/21/clarifai-okcupid-facial-recognition-ai-ftc-settlement/"
+    },
+    {
+      "title": "Meta to start capturing employee mouse movement, keystrokes for AI training data",
+      "summary": "Article URL: https://tech.yahoo.com/ai/meta-ai/articles/exclusive-meta-start-capturing-employee-162745587.html Comments URL: https://news.ycombinator.com/item?id=47851086 Points: 53 # Comments: 24",
+      "source": "Hacker News",
+      "published": "2026-04-21T16:32:26+00:00",
+      "link": "https://tech.yahoo.com/ai/meta-ai/articles/exclusive-meta-start-capturing-employee-162745587.html"
     },
     {
       "title": "Ordering with the Starbucks ChatGPT app was a true coffee nightmare",
@@ -66,7 +171,7 @@ const FEED_DATA = {
     },
     {
       "title": "Scammer Used an AI-Generated MAGA Girl to Grift 'Super Dumb' Men",
-      "summary": "Article URL: https://www.wired.com/story/ai-generated-maga-girls/ Comments URL: https://news.ycombinator.com/item?id=47849494 Points: 52 # Comments: 26",
+      "summary": "Article URL: https://www.wired.com/story/ai-generated-maga-girls/ Comments URL: https://news.ycombinator.com/item?id=47849494 Points: 59 # Comments: 33",
       "source": "Hacker News",
       "published": "2026-04-21T14:41:36+00:00",
       "link": "https://www.wired.com/story/ai-generated-maga-girls/"
@@ -171,14 +276,14 @@ const FEED_DATA = {
     },
     {
       "title": "Less human AI agents, please",
-      "summary": "Article URL: https://nial.se/blog/less-human-ai-agents-please/ Comments URL: https://news.ycombinator.com/item?id=47845429 Points: 101 # Comments: 118",
+      "summary": "Article URL: https://nial.se/blog/less-human-ai-agents-please/ Comments URL: https://news.ycombinator.com/item?id=47845429 Points: 123 # Comments: 130",
       "source": "Hacker News",
       "published": "2026-04-21T06:58:08+00:00",
       "link": "https://nial.se/blog/less-human-ai-agents-please/"
     },
     {
       "title": "A Roblox cheat and one AI tool brought down Vercel's platform",
-      "summary": "Article URL: https://webmatrices.com/post/how-a-roblox-cheat-and-one-ai-tool-brought-down-vercel-s-entire-platform Comments URL: https://news.ycombinator.com/item?id=47844431 Points: 274 # Comments: 145",
+      "summary": "Article URL: https://webmatrices.com/post/how-a-roblox-cheat-and-one-ai-tool-brought-down-vercel-s-entire-platform Comments URL: https://news.ycombinator.com/item?id=47844431 Points: 277 # Comments: 149",
       "source": "Hacker News",
       "published": "2026-04-21T04:12:12+00:00",
       "link": "https://webmatrices.com/post/how-a-roblox-cheat-and-one-ai-tool-brought-down-vercel-s-entire-platform"
@@ -213,7 +318,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI Resistance: some recent anti-AI stuff that’s worth discussing",
-      "summary": "Article URL: https://stephvee.ca/blog/artificial%20intelligence/ai-resistance-is-growing/ Comments URL: https://news.ycombinator.com/item?id=47839951 Points: 372 # Comments: 393",
+      "summary": "Article URL: https://stephvee.ca/blog/artificial%20intelligence/ai-resistance-is-growing/ Comments URL: https://news.ycombinator.com/item?id=47839951 Points: 376 # Comments: 402",
       "source": "Hacker News",
       "published": "2026-04-20T20:19:13+00:00",
       "link": "https://stephvee.ca/blog/artificial%20intelligence/ai-resistance-is-growing/"
@@ -276,7 +381,7 @@ const FEED_DATA = {
     },
     {
       "title": "Deezer says 44% of songs uploaded to its platform daily are AI-generated",
-      "summary": "Article URL: https://techcrunch.com/2026/04/20/deezer-says-44-of-songs-uploaded-to-its-platform-daily-are-ai-generated/ Comments URL: https://news.ycombinator.com/item?id=47835928 Points: 356 # Comments: 376",
+      "summary": "Article URL: https://techcrunch.com/2026/04/20/deezer-says-44-of-songs-uploaded-to-its-platform-daily-are-ai-generated/ Comments URL: https://news.ycombinator.com/item?id=47835928 Points: 356 # Comments: 378",
       "source": "Hacker News",
       "published": "2026-04-20T15:41:02+00:00",
       "link": "https://techcrunch.com/2026/04/20/deezer-says-44-of-songs-uploaded-to-its-platform-daily-are-ai-generated/"
@@ -304,7 +409,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI chatbots could be making you stupider",
-      "summary": "Article URL: https://www.bbc.com/future/article/20260417-ai-chatbots-could-be-making-you-stupider Comments URL: https://news.ycombinator.com/item?id=47834134 Points: 54 # Comments: 62",
+      "summary": "Article URL: https://www.bbc.com/future/article/20260417-ai-chatbots-could-be-making-you-stupider Comments URL: https://news.ycombinator.com/item?id=47834134 Points: 54 # Comments: 63",
       "source": "Hacker News",
       "published": "2026-04-20T13:36:11+00:00",
       "link": "https://www.bbc.com/future/article/20260417-ai-chatbots-could-be-making-you-stupider"
@@ -339,7 +444,7 @@ const FEED_DATA = {
     },
     {
       "title": "Atlassian enables default data collection to train AI",
-      "summary": "Article URL: https://letsdatascience.com/news/atlassian-enables-default-data-collection-to-train-ai-f71343d8 Comments URL: https://news.ycombinator.com/item?id=47833247 Points: 587 # Comments: 130",
+      "summary": "Article URL: https://letsdatascience.com/news/atlassian-enables-default-data-collection-to-train-ai-f71343d8 Comments URL: https://news.ycombinator.com/item?id=47833247 Points: 588 # Comments: 130",
       "source": "Hacker News",
       "published": "2026-04-20T12:23:39+00:00",
       "link": "https://letsdatascience.com/news/atlassian-enables-default-data-collection-to-train-ai-f71343d8"
@@ -353,7 +458,7 @@ const FEED_DATA = {
     },
     {
       "title": "A Pascal's Wager for AI doomers",
-      "summary": "Article URL: https://pluralistic.net/2026/04/16/pascals-wager/ Comments URL: https://news.ycombinator.com/item?id=47832887 Points: 66 # Comments: 112",
+      "summary": "Article URL: https://pluralistic.net/2026/04/16/pascals-wager/ Comments URL: https://news.ycombinator.com/item?id=47832887 Points: 67 # Comments: 112",
       "source": "Hacker News",
       "published": "2026-04-20T11:42:17+00:00",
       "link": "https://pluralistic.net/2026/04/16/pascals-wager/"
@@ -521,7 +626,7 @@ const FEED_DATA = {
     },
     {
       "title": "College instructor turns to typewriters to curb AI-written work",
-      "summary": "Article URL: https://sentinelcolorado.com/uncategorized/a-college-instructor-turns-to-typewriters-to-curb-ai-written-work-and-teach-life-lessons/ Comments URL: https://news.ycombinator.com/item?id=47818485 Points: 488 # Comments: 426",
+      "summary": "Article URL: https://sentinelcolorado.com/uncategorized/a-college-instructor-turns-to-typewriters-to-curb-ai-written-work-and-teach-life-lessons/ Comments URL: https://news.ycombinator.com/item?id=47818485 Points: 489 # Comments: 427",
       "source": "Hacker News",
       "published": "2026-04-18T19:00:00+00:00",
       "link": "https://sentinelcolorado.com/uncategorized/a-college-instructor-turns-to-typewriters-to-curb-ai-written-work-and-teach-life-lessons/"
@@ -619,7 +724,7 @@ const FEED_DATA = {
     },
     {
       "title": "Ternary Bonsai: Top Intelligence at 1.58 Bits",
-      "summary": "Article URL: https://prismml.com/news/ternary-bonsai Comments URL: https://news.ycombinator.com/item?id=47812749 Points: 213 # Comments: 54",
+      "summary": "Article URL: https://prismml.com/news/ternary-bonsai Comments URL: https://news.ycombinator.com/item?id=47812749 Points: 218 # Comments: 54",
       "source": "Hacker News",
       "published": "2026-04-18T02:51:34+00:00",
       "link": "https://prismml.com/news/ternary-bonsai"
@@ -1295,111 +1400,6 @@ const FEED_DATA = {
       "source": "The Verge",
       "published": "2026-04-15T18:10:15+00:00",
       "link": "https://www.theverge.com/tech/912638/google-gemini-mac-app"
-    },
-    {
-      "title": "OpenAI updates Agents SDK with new sandbox support for safer AI agents",
-      "summary": "OpenAI has shipped a major update to its Agents SDK, adding native sandbox support and new tools. Developers can now build AI agents that check files, write code, and handle complex tasks in isolated environments.",
-      "source": "The Decoder",
-      "published": "2026-04-15T18:06:10+00:00",
-      "link": "https://the-decoder.com/openai-updates-agents-sdk-with-new-sandbox-support-for-safer-ai-agents/"
-    },
-    {
-      "title": "AI Could Democratize One of Tech's Most Valuable Resources",
-      "summary": "AI is making it easier to design chips and optimize software for different silicon. Some startups envision a revolution in chipmaking.",
-      "source": "Wired",
-      "published": "2026-04-15T18:00:00+00:00",
-      "link": "https://www.wired.com/story/ai-could-democratize-one-of-techs-most-valuable-resources/"
-    },
-    {
-      "title": "The musician-turned-biotech-founder waiting to fundraise",
-      "summary": "When Grammy-nominated singer-songwriter Aloe Blacc got COVID despite being vaccinated and boosted, he tried to fund research for a better solution. What he quickly found out?",
-      "source": "TechCrunch",
-      "published": "2026-04-15T17:58:28+00:00",
-      "link": "https://techcrunch.com/podcast/the-musician-turned-biotech-founder-waiting-to-fundraise/"
-    },
-    {
-      "title": "Google ships its most expressive Gemini 3.1 text-to-speech model yet with 70+ language support",
-      "summary": "Google Gemini 3.1 Flash TTS converts text into natural-sounding speech in over 70 languages, with new audio tags for precise control over style, pace and tone.",
-      "source": "The Decoder",
-      "published": "2026-04-15T17:45:07+00:00",
-      "link": "https://the-decoder.com/google-ships-its-most-expressive-gemini-3-1-text-to-speech-model-yet-with-70-language-support/"
-    },
-    {
-      "title": "India’s vibe-coding startup Emergent enters OpenClaw-like AI agent space",
-      "summary": "Emergent's Wingman lets users manage and automate tasks through chat on platforms like WhatsApp and Telegram.",
-      "source": "TechCrunch",
-      "published": "2026-04-15T17:24:18+00:00",
-      "link": "https://techcrunch.com/2026/04/15/indias-vibe-coding-startup-emergent-enters-openclaw-like-ai-agent-space/"
-    },
-    {
-      "title": "CPUs Aren't Dead. Gemma2B Out Scored GPT-3.5 Turbo on Test That Made It Famous",
-      "summary": "Article URL: https://seqpu.com/CPUsArentDead/ Comments URL: https://news.ycombinator.com/item?id=47781998 Points: 99 # Comments: 48",
-      "source": "Hacker News",
-      "published": "2026-04-15T17:07:36+00:00",
-      "link": "https://seqpu.com/CPUsArentDead/"
-    },
-    {
-      "title": "Commvault launches a ‘Ctrl-Z’ for cloud AI workloads",
-      "summary": "Enterprise cloud environments now have access to an undo feature for AI agents following the deployment of Commvault AI Protect.",
-      "source": "AI News",
-      "published": "2026-04-15T16:28:19+00:00",
-      "link": "https://www.artificialintelligence-news.com/news/commvault-launches-ctrl-z-for-cloud-ai-workloads/"
-    },
-    {
-      "title": "Allbirds announced a switch from shoes to AI and its stock jumped 600 percent",
-      "summary": "Allbirds had a hit a decade ago with its Wool Runner shoes, but after a $4 billion IPO in 2021, the business never turned a profit, and sales dropped nearly 50 percent between 2022 and 2025.",
-      "source": "The Verge",
-      "published": "2026-04-15T16:13:30+00:00",
-      "link": "https://www.theverge.com/news/912484/allbirds-ai-hyperscale"
-    },
-    {
-      "title": "Show HN: Libretto – Making AI browser automations deterministic",
-      "summary": "Libretto (https://libretto.sh) is a Skill+CLI that makes it easy for your coding agent to generate deterministic browser automations and debug existing ones.",
-      "source": "Hacker News",
-      "published": "2026-04-15T15:57:54+00:00",
-      "link": "https://github.com/saffron-health/libretto"
-    },
-    {
-      "title": "Allbirds Is Pivoting to AI Compute. Sure, Why Not",
-      "summary": "Once a $4 billion apparel juggernaut, Allbirds will rebrand as NewBird AI, a “GPU-as-a-Service” company. Hey, if you can't beat ’em, join ’em.",
-      "source": "Wired",
-      "published": "2026-04-15T14:58:08+00:00",
-      "link": "https://www.wired.com/story/allbirds-is-pivoting-to-ai-compute-sure-why-not/"
-    },
-    {
-      "title": "Elevated errors on Claude.ai, API, Claude Code",
-      "summary": "Article URL: https://claudestatus.com/ Comments URL: https://news.ycombinator.com/item?id=47779730 Points: 243 # Comments: 222",
-      "source": "Hacker News",
-      "published": "2026-04-15T14:44:00+00:00",
-      "link": "https://claudestatus.com/"
-    },
-    {
-      "title": "Citizen developers now have their own Wingman",
-      "summary": "A vibe-coding application creation company, Emergent, has released Wingman, an autonomous agent that can address and take control of the applications used to manage daily tasks.",
-      "source": "AI News",
-      "published": "2026-04-15T14:42:00+00:00",
-      "link": "https://www.artificialintelligence-news.com/news/citizen-developers-now-have-their-own-wingman/"
-    },
-    {
-      "title": "Anthropic prepares Opus 4.7 and AI design tool, VCs offer up to 800 billion dollars",
-      "summary": "Anthropic is preparing to release a new model and a design tool that would compete with Adobe and Figma. Meanwhile, venture capitalists are lining up to invest at sky-high valuations.",
-      "source": "The Decoder",
-      "published": "2026-04-15T14:26:04+00:00",
-      "link": "https://the-decoder.com/anthropic-prepares-opus-4-7-and-ai-design-tool-vcs-offer-up-to-800-billion-dollars/"
-    },
-    {
-      "title": "After sale of its shoe business, Allbirds pivots to AI",
-      "summary": "Allbirds is ditching wool sneakers for AI servers, rebranding as NewBird AI after locking in a $50M convertible financing facility.",
-      "source": "TechCrunch",
-      "published": "2026-04-15T14:24:31+00:00",
-      "link": "https://techcrunch.com/2026/04/15/after-sale-of-its-shoe-business-allbirds-pivots-to-ai/"
-    },
-    {
-      "title": "Claude beat human researchers on an alignment task, and then the results vanished in production",
-      "summary": "In a controlled experiment, nine autonomous Claude instances dramatically outperformed human researchers on an open alignment problem. But when Anthropic tried to transfer the winning method to its own production models, the effect vanished.",
-      "source": "The Decoder",
-      "published": "2026-04-15T13:54:11+00:00",
-      "link": "https://the-decoder.com/claude-beat-human-researchers-on-an-alignment-task-and-then-the-results-vanished-in-production/"
     }
   ]
 };
