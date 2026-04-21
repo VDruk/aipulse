@@ -1,6 +1,13 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-04-21T04:11:00.708305+00:00",
+  "lastUpdated": "2026-04-21T06:58:42.205255+00:00",
   "items": [
+    {
+      "title": "A Roblox cheat and one AI tool brought down Vercel's platform",
+      "summary": "Article URL: https://webmatrices.com/post/how-a-roblox-cheat-and-one-ai-tool-brought-down-vercel-s-entire-platform Comments URL: https://news.ycombinator.com/item?id=47844431 Points: 97 # Comments: 32",
+      "source": "Hacker News",
+      "published": "2026-04-21T04:12:12+00:00",
+      "link": "https://webmatrices.com/post/how-a-roblox-cheat-and-one-ai-tool-brought-down-vercel-s-entire-platform"
+    },
     {
       "title": "Anthropic takes $5B from Amazon and pledges $100B in cloud spending in return",
       "summary": "Amazon has made another circular AI deal: It's investing another $5 billion in Anthropic. Anthropic has agreed to spend $100 billion on AWS in return.",
@@ -21,6 +28,13 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-04-20T22:00:00+00:00",
       "link": "https://techcrunch.com/2026/04/20/google-rolls-out-gemini-in-chrome-in-seven-new-countries/"
+    },
+    {
+      "title": "AI Resistance: some recent anti-AI stuff that’s worth discussing",
+      "summary": "Article URL: https://stephvee.ca/blog/artificial%20intelligence/ai-resistance-is-growing/ Comments URL: https://news.ycombinator.com/item?id=47839951 Points: 348 # Comments: 339",
+      "source": "Hacker News",
+      "published": "2026-04-20T20:19:13+00:00",
+      "link": "https://stephvee.ca/blog/artificial%20intelligence/ai-resistance-is-growing/"
     },
     {
       "title": "AI Resistance Is Growing",
@@ -72,8 +86,15 @@ const FEED_DATA = {
       "link": "https://techcrunch.com/2026/04/20/nsa-spies-are-reportedly-using-anthropics-mythos-despite-pentagon-feud/"
     },
     {
+      "title": "Peter Thiel Is Building a Parallel Justice System – Powered by AI",
+      "summary": "Article URL: https://www.codastory.com/polarization/can-we-trust-an-ai-jury-to-judge-journalism/ Comments URL: https://news.ycombinator.com/item?id=47836226 Points: 61 # Comments: 19",
+      "source": "Hacker News",
+      "published": "2026-04-20T16:02:26+00:00",
+      "link": "https://www.codastory.com/polarization/can-we-trust-an-ai-jury-to-judge-journalism/"
+    },
+    {
       "title": "Deezer says 44% of songs uploaded to its platform daily are AI-generated",
-      "summary": "Article URL: https://techcrunch.com/2026/04/20/deezer-says-44-of-songs-uploaded-to-its-platform-daily-are-ai-generated/ Comments URL: https://news.ycombinator.com/item?id=47835928 Points: 230 # Comments: 227",
+      "summary": "Article URL: https://techcrunch.com/2026/04/20/deezer-says-44-of-songs-uploaded-to-its-platform-daily-are-ai-generated/ Comments URL: https://news.ycombinator.com/item?id=47835928 Points: 335 # Comments: 334",
       "source": "Hacker News",
       "published": "2026-04-20T15:41:02+00:00",
       "link": "https://techcrunch.com/2026/04/20/deezer-says-44-of-songs-uploaded-to-its-platform-daily-are-ai-generated/"
@@ -122,7 +143,7 @@ const FEED_DATA = {
     },
     {
       "title": "Atlassian enables default data collection to train AI",
-      "summary": "Article URL: https://letsdatascience.com/news/atlassian-enables-default-data-collection-to-train-ai-f71343d8 Comments URL: https://news.ycombinator.com/item?id=47833247 Points: 426 # Comments: 99",
+      "summary": "Article URL: https://letsdatascience.com/news/atlassian-enables-default-data-collection-to-train-ai-f71343d8 Comments URL: https://news.ycombinator.com/item?id=47833247 Points: 559 # Comments: 124",
       "source": "Hacker News",
       "published": "2026-04-20T12:23:39+00:00",
       "link": "https://letsdatascience.com/news/atlassian-enables-default-data-collection-to-train-ai-f71343d8"
@@ -136,7 +157,7 @@ const FEED_DATA = {
     },
     {
       "title": "A Pascal's Wager for AI doomers",
-      "summary": "Article URL: https://pluralistic.net/2026/04/16/pascals-wager/ Comments URL: https://news.ycombinator.com/item?id=47832887 Points: 54 # Comments: 86",
+      "summary": "Article URL: https://pluralistic.net/2026/04/16/pascals-wager/ Comments URL: https://news.ycombinator.com/item?id=47832887 Points: 64 # Comments: 95",
       "source": "Hacker News",
       "published": "2026-04-20T11:42:17+00:00",
       "link": "https://pluralistic.net/2026/04/16/pascals-wager/"
@@ -184,15 +205,22 @@ const FEED_DATA = {
       "link": "https://www.artificialintelligence-news.com/news/anthropic-mythos-ai-cybersecurity-white-house/"
     },
     {
+      "title": "The Uncanny Valley and the Rising Power of Anti-AI Sentiment",
+      "summary": "Article URL: https://localscribe.co/posts/uncanny-valley-and-rising-power-of-anti-ai-sentiment/ Comments URL: https://news.ycombinator.com/item?id=47829058 Points: 50 # Comments: 76",
+      "source": "Hacker News",
+      "published": "2026-04-20T00:34:39+00:00",
+      "link": "https://localscribe.co/posts/uncanny-valley-and-rising-power-of-anti-ai-sentiment/"
+    },
+    {
       "title": "Swiss AI Initiative (2023)",
-      "summary": "Article URL: https://www.swiss-ai.org Comments URL: https://news.ycombinator.com/item?id=47828444 Points: 86 # Comments: 26",
+      "summary": "Article URL: https://www.swiss-ai.org Comments URL: https://news.ycombinator.com/item?id=47828444 Points: 87 # Comments: 26",
       "source": "Hacker News",
       "published": "2026-04-19T22:58:35+00:00",
       "link": "https://www.swiss-ai.org"
     },
     {
       "title": "CEOs admit AI had no impact on employment or productivity",
-      "summary": "Article URL: https://fortune.com/article/why-do-thousands-of-ceos-believe-ai-not-having-impact-productivity-employment-study/ Comments URL: https://news.ycombinator.com/item?id=47827985 Points: 88 # Comments: 79",
+      "summary": "Article URL: https://fortune.com/article/why-do-thousands-of-ceos-believe-ai-not-having-impact-productivity-employment-study/ Comments URL: https://news.ycombinator.com/item?id=47827985 Points: 89 # Comments: 79",
       "source": "Hacker News",
       "published": "2026-04-19T21:56:22+00:00",
       "link": "https://fortune.com/article/why-do-thousands-of-ceos-believe-ai-not-having-impact-productivity-employment-study/"
@@ -213,7 +241,7 @@ const FEED_DATA = {
     },
     {
       "title": "Uber’s Anthropic AI push hits a wall",
-      "summary": "Article URL: https://finance.yahoo.com/sectors/technology/articles/ubers-anthropic-ai-push-hits-223109852.html Comments URL: https://news.ycombinator.com/item?id=47826328 Points: 93 # Comments: 102",
+      "summary": "Article URL: https://finance.yahoo.com/sectors/technology/articles/ubers-anthropic-ai-push-hits-223109852.html Comments URL: https://news.ycombinator.com/item?id=47826328 Points: 93 # Comments: 103",
       "source": "Hacker News",
       "published": "2026-04-19T18:13:32+00:00",
       "link": "https://finance.yahoo.com/sectors/technology/articles/ubers-anthropic-ai-push-hits-223109852.html"
@@ -297,7 +325,7 @@ const FEED_DATA = {
     },
     {
       "title": "College instructor turns to typewriters to curb AI-written work",
-      "summary": "Article URL: https://sentinelcolorado.com/uncategorized/a-college-instructor-turns-to-typewriters-to-curb-ai-written-work-and-teach-life-lessons/ Comments URL: https://news.ycombinator.com/item?id=47818485 Points: 482 # Comments: 425",
+      "summary": "Article URL: https://sentinelcolorado.com/uncategorized/a-college-instructor-turns-to-typewriters-to-curb-ai-written-work-and-teach-life-lessons/ Comments URL: https://news.ycombinator.com/item?id=47818485 Points: 486 # Comments: 426",
       "source": "Hacker News",
       "published": "2026-04-18T19:00:00+00:00",
       "link": "https://sentinelcolorado.com/uncategorized/a-college-instructor-turns-to-typewriters-to-curb-ai-written-work-and-teach-life-lessons/"
@@ -392,6 +420,13 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-04-18T07:20:45+00:00",
       "link": "https://the-decoder.com/openai-loses-three-executives-in-one-swoop-as-restructuring-reshapes-its-product-lineup/"
+    },
+    {
+      "title": "Ternary Bonsai: Top Intelligence at 1.58 Bits",
+      "summary": "Article URL: https://prismml.com/news/ternary-bonsai Comments URL: https://news.ycombinator.com/item?id=47812749 Points: 126 # Comments: 27",
+      "source": "Hacker News",
+      "published": "2026-04-18T02:51:34+00:00",
+      "link": "https://prismml.com/news/ternary-bonsai"
     },
     {
       "title": "Sam Altman’s project World looks to scale its human verification empire. First stop: Tinder.",
@@ -1365,41 +1400,6 @@ const FEED_DATA = {
       "source": "Hacker News",
       "published": "2026-04-14T22:27:53+00:00",
       "link": "https://techtrenches.dev/p/the-snake-that-ate-itself-what-claude"
-    },
-    {
-      "title": "Greg Brockman predicts AI will let small teams match the output of large ones if they can afford the compute",
-      "summary": "In the future, working with AI won't mean adapting to the computer—the computer will adapt to you, says OpenAI President Greg Brockman. \"This is disruptive.",
-      "source": "The Decoder",
-      "published": "2026-04-14T19:00:39+00:00",
-      "link": "https://the-decoder.com/greg-brockman-predicts-ai-will-let-small-teams-match-the-output-of-large-ones-if-they-can-afford-the-compute/"
-    },
-    {
-      "title": "Anthropic co-founder confirms the company briefed the Trump administration on Mythos",
-      "summary": "In an interview at the Semafor World Economy summit this week, Anthropic co-founder Jack Clark explained why the company was still engaged with the U.S. government while simultaneously suing them.",
-      "source": "TechCrunch",
-      "published": "2026-04-14T18:09:12+00:00",
-      "link": "https://techcrunch.com/2026/04/14/anthropic-co-founder-confirms-the-company-briefed-the-trump-administration-on-mythos/"
-    },
-    {
-      "title": "The attacks on Sam Altman are a warning for the AI world",
-      "summary": "Before allegedly throwing a Molotov cocktail at OpenAI CEO Sam Altman's home, the 20-year-old accused attacker wrote about his fear that the AI race would cause humans to go extinct, the San Francisco Chronicle found.",
-      "source": "The Verge",
-      "published": "2026-04-14T18:04:42+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/911778/ai-violence-sam-altman-home"
-    },
-    {
-      "title": "Google Chrome's new \"Skills\" feature lets you save AI prompts and reuse them with a single click",
-      "summary": "With \"Skills,\" Google is adding a new feature to Chrome that turns frequently used AI prompts into reusable one-click tools. Instead of typing the same prompt over and over, users save it once and apply it to any website.",
-      "source": "The Decoder",
-      "published": "2026-04-14T18:01:34+00:00",
-      "link": "https://the-decoder.com/google-chromes-new-skills-feature-lets-you-save-ai-prompts-and-reuse-them-with-a-single-click/"
-    },
-    {
-      "title": "Claude Mythos can autonomously compromise weakly defended enterprise networks end-to-end",
-      "summary": "The UK's AI Safety Institute tested Anthropic's Claude Mythos Preview for cyber capabilities. For the first time, an AI model autonomously completed a full attack simulation against a corporate network, but the results come with significant caveats.",
-      "source": "The Decoder",
-      "published": "2026-04-14T17:31:48+00:00",
-      "link": "https://the-decoder.com/claude-mythos-can-autonomously-compromise-weakly-defended-enterprise-networks-end-to-end/"
     }
   ]
 };
