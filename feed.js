@@ -1,6 +1,13 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-04-22T03:58:31.552426+00:00",
+  "lastUpdated": "2026-04-22T06:57:41.669042+00:00",
   "items": [
+    {
+      "title": "Tell HN: I'm sick of AI everything",
+      "summary": "A while back, I stopped using Facebook because I just couldn't take it anymore. Just totally sick of it.",
+      "source": "Hacker News",
+      "published": "2026-04-22T01:19:30+00:00",
+      "link": "https://news.ycombinator.com/item?id=47857461"
+    },
     {
       "title": "Meta will record employees’ keystrokes and use it to train its AI models",
       "summary": "Meta says that it has a new internal tool that is converting mouse movements and button clicks into data that can train its AI models.",
@@ -128,6 +135,13 @@ const FEED_DATA = {
       "link": "https://www.theverge.com/gadgets/915328/framework-oculink-egpu-dev-kit-laptop-16"
     },
     {
+      "title": "Meta to start capturing employee mouse movements, keystrokes for AI training",
+      "summary": "Alt link: https://tech.yahoo.com/ai/meta-ai/articles/exclusive-meta-st... Comments URL: https://news.ycombinator.com/item?id=47851948 Points: 480 # Comments: 357",
+      "source": "Hacker News",
+      "published": "2026-04-21T17:40:39+00:00",
+      "link": "https://www.reuters.com/sustainability/boards-policy-regulation/meta-start-capturing-employee-mouse-movements-keystrokes-ai-training-data-2026-04-21/"
+    },
+    {
       "title": "Meta capturing employee mouse movements, keystrokes for AI training data",
       "summary": "Article URL: https://economictimes.indiatimes.com/tech/technology/meta-to-start-capturing-employee-mouse-movements-keystrokes-for-ai-training-data/articleshow/130422612.cms?from=mdr Comments URL: https://news.ycombinator.com/item?id=47851948 Points: 140 # Comments: 86",
       "source": "Hacker News",
@@ -164,7 +178,7 @@ const FEED_DATA = {
     },
     {
       "title": "Meta to start capturing employee mouse movement, keystrokes for AI training data",
-      "summary": "Article URL: https://tech.yahoo.com/ai/meta-ai/articles/exclusive-meta-start-capturing-employee-162745587.html Comments URL: https://news.ycombinator.com/item?id=47851086 Points: 53 # Comments: 24",
+      "summary": "Article URL: https://tech.yahoo.com/ai/meta-ai/articles/exclusive-meta-start-capturing-employee-162745587.html Comments URL: https://news.ycombinator.com/item?id=47851086 Points: 58 # Comments: 4",
       "source": "Hacker News",
       "published": "2026-04-21T16:32:26+00:00",
       "link": "https://tech.yahoo.com/ai/meta-ai/articles/exclusive-meta-start-capturing-employee-162745587.html"
@@ -191,6 +205,13 @@ const FEED_DATA = {
       "link": "https://the-decoder.com/openai-teases-gpt-image-2-with-an-ai-generated-screenshot-that-looks-completely-real/"
     },
     {
+      "title": "CrabTrap: An LLM-as-a-judge HTTP proxy to secure agents in production",
+      "summary": "https://www.brex.com/journal/building-crabtrap-open-source Comments URL: https://news.ycombinator.com/item?id=47850212 Points: 108 # Comments: 36",
+      "source": "Hacker News",
+      "published": "2026-04-21T15:29:16+00:00",
+      "link": "https://www.brex.com/crabtrap"
+    },
+    {
       "title": "Bond, a new social media platform, wants to use AI to help you kick your doomscrolling habit",
       "summary": "Bond wants you to get off the couch and get back into the real world, its creator says. The new platform's AI system is designed to motivate users to do things away from the app.",
       "source": "TechCrunch",
@@ -206,7 +227,7 @@ const FEED_DATA = {
     },
     {
       "title": "Scammer Used an AI-Generated MAGA Girl to Grift 'Super Dumb' Men",
-      "summary": "Article URL: https://www.wired.com/story/ai-generated-maga-girls/ Comments URL: https://news.ycombinator.com/item?id=47849494 Points: 59 # Comments: 33",
+      "summary": "Article URL: https://www.wired.com/story/ai-generated-maga-girls/ Comments URL: https://news.ycombinator.com/item?id=47849494 Points: 64 # Comments: 34",
       "source": "Hacker News",
       "published": "2026-04-21T14:41:36+00:00",
       "link": "https://www.wired.com/story/ai-generated-maga-girls/"
@@ -311,14 +332,14 @@ const FEED_DATA = {
     },
     {
       "title": "Less human AI agents, please",
-      "summary": "Article URL: https://nial.se/blog/less-human-ai-agents-please/ Comments URL: https://news.ycombinator.com/item?id=47845429 Points: 123 # Comments: 130",
+      "summary": "Article URL: https://nial.se/blog/less-human-ai-agents-please/ Comments URL: https://news.ycombinator.com/item?id=47845429 Points: 142 # Comments: 152",
       "source": "Hacker News",
       "published": "2026-04-21T06:58:08+00:00",
       "link": "https://nial.se/blog/less-human-ai-agents-please/"
     },
     {
       "title": "A Roblox cheat and one AI tool brought down Vercel's platform",
-      "summary": "Article URL: https://webmatrices.com/post/how-a-roblox-cheat-and-one-ai-tool-brought-down-vercel-s-entire-platform Comments URL: https://news.ycombinator.com/item?id=47844431 Points: 277 # Comments: 149",
+      "summary": "Article URL: https://webmatrices.com/post/how-a-roblox-cheat-and-one-ai-tool-brought-down-vercel-s-entire-platform Comments URL: https://news.ycombinator.com/item?id=47844431 Points: 279 # Comments: 157",
       "source": "Hacker News",
       "published": "2026-04-21T04:12:12+00:00",
       "link": "https://webmatrices.com/post/how-a-roblox-cheat-and-one-ai-tool-brought-down-vercel-s-entire-platform"
@@ -353,7 +374,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI Resistance: some recent anti-AI stuff that’s worth discussing",
-      "summary": "Article URL: https://stephvee.ca/blog/artificial%20intelligence/ai-resistance-is-growing/ Comments URL: https://news.ycombinator.com/item?id=47839951 Points: 376 # Comments: 402",
+      "summary": "Article URL: https://stephvee.ca/blog/artificial%20intelligence/ai-resistance-is-growing/ Comments URL: https://news.ycombinator.com/item?id=47839951 Points: 379 # Comments: 405",
       "source": "Hacker News",
       "published": "2026-04-20T20:19:13+00:00",
       "link": "https://stephvee.ca/blog/artificial%20intelligence/ai-resistance-is-growing/"
@@ -416,7 +437,7 @@ const FEED_DATA = {
     },
     {
       "title": "Deezer says 44% of songs uploaded to its platform daily are AI-generated",
-      "summary": "Article URL: https://techcrunch.com/2026/04/20/deezer-says-44-of-songs-uploaded-to-its-platform-daily-are-ai-generated/ Comments URL: https://news.ycombinator.com/item?id=47835928 Points: 356 # Comments: 378",
+      "summary": "Article URL: https://techcrunch.com/2026/04/20/deezer-says-44-of-songs-uploaded-to-its-platform-daily-are-ai-generated/ Comments URL: https://news.ycombinator.com/item?id=47835928 Points: 358 # Comments: 384",
       "source": "Hacker News",
       "published": "2026-04-20T15:41:02+00:00",
       "link": "https://techcrunch.com/2026/04/20/deezer-says-44-of-songs-uploaded-to-its-platform-daily-are-ai-generated/"
@@ -444,7 +465,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI chatbots could be making you stupider",
-      "summary": "Article URL: https://www.bbc.com/future/article/20260417-ai-chatbots-could-be-making-you-stupider Comments URL: https://news.ycombinator.com/item?id=47834134 Points: 54 # Comments: 63",
+      "summary": "Article URL: https://www.bbc.com/future/article/20260417-ai-chatbots-could-be-making-you-stupider Comments URL: https://news.ycombinator.com/item?id=47834134 Points: 54 # Comments: 64",
       "source": "Hacker News",
       "published": "2026-04-20T13:36:11+00:00",
       "link": "https://www.bbc.com/future/article/20260417-ai-chatbots-could-be-making-you-stupider"
@@ -479,7 +500,7 @@ const FEED_DATA = {
     },
     {
       "title": "Atlassian enables default data collection to train AI",
-      "summary": "Article URL: https://letsdatascience.com/news/atlassian-enables-default-data-collection-to-train-ai-f71343d8 Comments URL: https://news.ycombinator.com/item?id=47833247 Points: 588 # Comments: 130",
+      "summary": "Article URL: https://letsdatascience.com/news/atlassian-enables-default-data-collection-to-train-ai-f71343d8 Comments URL: https://news.ycombinator.com/item?id=47833247 Points: 595 # Comments: 130",
       "source": "Hacker News",
       "published": "2026-04-20T12:23:39+00:00",
       "link": "https://letsdatascience.com/news/atlassian-enables-default-data-collection-to-train-ai-f71343d8"
@@ -493,7 +514,7 @@ const FEED_DATA = {
     },
     {
       "title": "A Pascal's Wager for AI doomers",
-      "summary": "Article URL: https://pluralistic.net/2026/04/16/pascals-wager/ Comments URL: https://news.ycombinator.com/item?id=47832887 Points: 67 # Comments: 112",
+      "summary": "Article URL: https://pluralistic.net/2026/04/16/pascals-wager/ Comments URL: https://news.ycombinator.com/item?id=47832887 Points: 67 # Comments: 113",
       "source": "Hacker News",
       "published": "2026-04-20T11:42:17+00:00",
       "link": "https://pluralistic.net/2026/04/16/pascals-wager/"
@@ -542,7 +563,7 @@ const FEED_DATA = {
     },
     {
       "title": "The Uncanny Valley and the Rising Power of Anti-AI Sentiment",
-      "summary": "Article URL: https://localscribe.co/posts/uncanny-valley-and-rising-power-of-anti-ai-sentiment/ Comments URL: https://news.ycombinator.com/item?id=47829058 Points: 52 # Comments: 76",
+      "summary": "Article URL: https://localscribe.co/posts/uncanny-valley-and-rising-power-of-anti-ai-sentiment/ Comments URL: https://news.ycombinator.com/item?id=47829058 Points: 52 # Comments: 78",
       "source": "Hacker News",
       "published": "2026-04-20T00:34:39+00:00",
       "link": "https://localscribe.co/posts/uncanny-valley-and-rising-power-of-anti-ai-sentiment/"
@@ -661,7 +682,7 @@ const FEED_DATA = {
     },
     {
       "title": "College instructor turns to typewriters to curb AI-written work",
-      "summary": "Article URL: https://sentinelcolorado.com/uncategorized/a-college-instructor-turns-to-typewriters-to-curb-ai-written-work-and-teach-life-lessons/ Comments URL: https://news.ycombinator.com/item?id=47818485 Points: 489 # Comments: 427",
+      "summary": "Article URL: https://sentinelcolorado.com/uncategorized/a-college-instructor-turns-to-typewriters-to-curb-ai-written-work-and-teach-life-lessons/ Comments URL: https://news.ycombinator.com/item?id=47818485 Points: 489 # Comments: 429",
       "source": "Hacker News",
       "published": "2026-04-18T19:00:00+00:00",
       "link": "https://sentinelcolorado.com/uncategorized/a-college-instructor-turns-to-typewriters-to-curb-ai-written-work-and-teach-life-lessons/"
@@ -702,18 +723,18 @@ const FEED_DATA = {
       "link": "https://the-decoder.com/just-ten-minutes-of-using-ai-as-an-answer-machine-can-measurably-erode-problem-solving-skills-new-study-finds/"
     },
     {
-      "title": "It Takes 2 Minutes to Hack the EU’s New Age-Verification App",
-      "summary": "Plus: Major data breaches at a gym chain and hotel giant, a disruptive DDoS attack against Bluesky, dubious ICE hires, and more.",
-      "source": "Wired",
-      "published": "2026-04-18T10:30:00+00:00",
-      "link": "https://www.wired.com/story/security-news-this-week-it-takes-2-minutes-to-hack-the-eus-new-age-verification-app/"
-    },
-    {
       "title": "Schematik Is ‘Cursor for Hardware.’ Anthropic Wants In",
       "summary": "Schematik is a program that aims to help people vibe code for physical devices. Hopefully, it won’t blow anything up.",
       "source": "Wired",
       "published": "2026-04-18T10:30:00+00:00",
       "link": "https://www.wired.com/story/schematik-is-cursor-for-hardware-anthropic-wants-in-on-it/"
+    },
+    {
+      "title": "It Takes 2 Minutes to Hack the EU’s New Age-Verification App",
+      "summary": "Plus: Major data breaches at a gym chain and hotel giant, a disruptive DDoS attack against Bluesky, dubious ICE hires, and more.",
+      "source": "Wired",
+      "published": "2026-04-18T10:30:00+00:00",
+      "link": "https://www.wired.com/story/security-news-this-week-it-takes-2-minutes-to-hack-the-eus-new-age-verification-app/"
     },
     {
       "title": "Anthropic CEO Amodei declares \"there is no end to the rainbow\" for AI scaling",
@@ -1379,27 +1400,6 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-04-15T19:28:36+00:00",
       "link": "https://techcrunch.com/2026/04/15/openai-updates-its-agents-sdk-to-help-enterprises-build-safer-more-capable-agents/"
-    },
-    {
-      "title": "Hightouch reaches $100M ARR fueled by marketing tools powered by AI",
-      "summary": "The startup says it grew its ARR by $70 million in just 20 months after launching an AI agent platform for marketers.",
-      "source": "TechCrunch",
-      "published": "2026-04-15T18:55:12+00:00",
-      "link": "https://techcrunch.com/2026/04/15/hightouch-reaches-100m-arr-fueled-by-marketing-tools-powered-by-ai/"
-    },
-    {
-      "title": "LinkedIn data shows AI isn’t to blame for hiring decline… yet",
-      "summary": "LinkedIn says hiring is down 20% since 2022, but blames higher interest rates — not AI — for the slowdown.",
-      "source": "TechCrunch",
-      "published": "2026-04-15T18:51:54+00:00",
-      "link": "https://techcrunch.com/2026/04/15/linkedin-data-shows-ai-isnt-to-blame-for-hiring-decline-yet/"
-    },
-    {
-      "title": "Adobe turns its creative suite into a chatbot with the new Firefly AI Assistant",
-      "summary": "With the Firefly AI Assistant, Adobe is launching an AI agent that manages creative workflows across apps like Photoshop and Premiere from a single chat interface.",
-      "source": "The Decoder",
-      "published": "2026-04-15T18:39:44+00:00",
-      "link": "https://the-decoder.com/adobe-turns-its-creative-suite-into-a-chatbot-with-the-new-firefly-ai-assistant/"
     }
   ]
 };
