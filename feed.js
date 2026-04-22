@@ -1,6 +1,41 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-04-21T21:38:45.504705+00:00",
+  "lastUpdated": "2026-04-22T03:58:31.552426+00:00",
   "items": [
+    {
+      "title": "Meta will record employees’ keystrokes and use it to train its AI models",
+      "summary": "Meta says that it has a new internal tool that is converting mouse movements and button clicks into data that can train its AI models.",
+      "source": "TechCrunch",
+      "published": "2026-04-21T23:45:21+00:00",
+      "link": "https://techcrunch.com/2026/04/21/meta-will-record-employees-keystrokes-and-use-it-to-train-its-ai-models/"
+    },
+    {
+      "title": "Unauthorized group has gained access to Anthropic’s exclusive cyber tool Mythos, report claims",
+      "summary": "Anthropic told TechCrunch it is investigating the claims, but maintains that there is no evidence that its systems have been impacted.",
+      "source": "TechCrunch",
+      "published": "2026-04-21T23:26:45+00:00",
+      "link": "https://techcrunch.com/2026/04/21/unauthorized-group-has-gained-access-to-anthropics-exclusive-cyber-tool-mythos-report-claims/"
+    },
+    {
+      "title": "SpaceX is working with Cursor and has an option to buy the startup for $60B",
+      "summary": "The move could shore up weaknesses at each company, but it also reveals them. Neither Cursor nor xAI has proprietary models that can match the leading offerings from Anthropic and OpenAI — the same companies now competing directly with Cursor for the developer market.",
+      "source": "TechCrunch",
+      "published": "2026-04-21T22:58:22+00:00",
+      "link": "https://techcrunch.com/2026/04/21/spacex-is-working-with-cursor-and-has-an-option-to-buy-the-startup-for-60-billion/"
+    },
+    {
+      "title": "SpaceX cuts a deal to maybe buy Cursor for $60 billion",
+      "summary": "With an IPO looming for Elon Musk's SpaceX / xAI / X combo platter of companies, SpaceX has announced an odd arrangement to either acquire the automated programming platform Cursor for $60 billion or pay a fee of $10 billion.",
+      "source": "The Verge",
+      "published": "2026-04-21T22:45:37+00:00",
+      "link": "https://www.theverge.com/science/916427/spacex-cursor-potential-deal-acquisition"
+    },
+    {
+      "title": "Roundtables: Unveiling The 10 Things That Matter in AI Right Now",
+      "summary": "Listen to the session or watch below Watch a special edition of Roundtables simulcast live from EmTech AI, MIT Technology Review’s signature conference for AI leadership.",
+      "source": "MIT Tech Review",
+      "published": "2026-04-21T22:09:25+00:00",
+      "link": "https://www.technologyreview.com/2026/04/21/1135486/roundtables-unveiling-the-10-things-that-matter-in-ai-right-now/"
+    },
     {
       "title": "This tool could show how consciousness works",
       "summary": "How does the physical matter in our brains translate into thoughts, sensations, and emotions? It’s hard to explore that question without neurosurgery.",
@@ -1365,41 +1400,6 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-04-15T18:39:44+00:00",
       "link": "https://the-decoder.com/adobe-turns-its-creative-suite-into-a-chatbot-with-the-new-firefly-ai-assistant/"
-    },
-    {
-      "title": "AI learning app Gizmo levels up with 13M users and a $22M investment",
-      "summary": "Gizmo, an AI-powered learning platform, has attracted more than 13 million users and just secured $22 million in Series A funding.",
-      "source": "TechCrunch",
-      "published": "2026-04-15T18:38:10+00:00",
-      "link": "https://techcrunch.com/2026/04/15/ai-learning-app-gizmo-levels-up-with-13m-users-and-a-22m-investment/"
-    },
-    {
-      "title": "Can AI judge journalism? A Thiel-backed startup says yes, even if it risks chilling whistleblowers",
-      "summary": "Objection, a Thiel-backed startup, aims to use AI to judge journalism, letting users pay to challenge stories. Critics warn it could chill whistleblowers and reshape how media accountability works.",
-      "source": "TechCrunch",
-      "published": "2026-04-15T18:33:20+00:00",
-      "link": "https://techcrunch.com/2026/04/15/can-ai-judge-journalism-a-thiel-backed-startup-says-yes-even-if-it-risks-chilling-whistleblowers/"
-    },
-    {
-      "title": "Google rolls out a native Gemini app for Mac",
-      "summary": "You can share anything on their screen with Gemini to get help with what they're looking at in the moment, including local files.",
-      "source": "TechCrunch",
-      "published": "2026-04-15T18:22:13+00:00",
-      "link": "https://techcrunch.com/2026/04/15/google-rolls-out-a-native-gemini-app-for-mac/"
-    },
-    {
-      "title": "AI-assisted cognition endangers human development?",
-      "summary": "Article URL: https://heidenstedt.org/posts/2026/ai-assisted-cognition-endangers-human-development/ Comments URL: https://news.ycombinator.com/item?id=47783024 Points: 230 # Comments: 188",
-      "source": "Hacker News",
-      "published": "2026-04-15T18:16:50+00:00",
-      "link": "https://heidenstedt.org/posts/2026/ai-assisted-cognition-endangers-human-development/"
-    },
-    {
-      "title": "Google launches a Gemini AI app on Mac",
-      "summary": "Google is launching a new Gemini app on Mac that allows you to interact with the AI assistant without switching windows on your desktop.",
-      "source": "The Verge",
-      "published": "2026-04-15T18:10:15+00:00",
-      "link": "https://www.theverge.com/tech/912638/google-gemini-mac-app"
     }
   ]
 };
