@@ -1,6 +1,104 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-04-22T10:08:16.211002+00:00",
+  "lastUpdated": "2026-04-22T14:47:30.147153+00:00",
   "items": [
+    {
+      "title": "Now Meta will track what employees do on their computers to train its AI agents",
+      "summary": "Meta employees' activity at work is now being used to train the company's AI agents.",
+      "source": "The Verge",
+      "published": "2026-04-22T14:22:35+00:00",
+      "link": "https://www.theverge.com/tech/916681/meta-ai-agents-employee-tracking"
+    },
+    {
+      "title": "OpenAI teams up with Infosys to bring AI tools to more businesses",
+      "summary": "Infosys said the integration will be used to help its clients modernize software development, automate workflows and deploy AI systems, initially focusing software engineering, legacy modernization, and DevOps.",
+      "source": "TechCrunch",
+      "published": "2026-04-22T14:22:10+00:00",
+      "link": "https://techcrunch.com/2026/04/22/openai-teams-up-with-infosys-to-bring-ai-tools-to-more-businesses/"
+    },
+    {
+      "title": "AI in law firms entering its closing summaries",
+      "summary": "In an interview with Artificial Lawyer, Paris-based AI-native consulting firm owner, Olivier Chaduteau, set out a three-part account of the current state of AI in the legal sector. At first, lawyers dismissed AI as irrelevant to expert work.",
+      "source": "AI News",
+      "published": "2026-04-22T13:51:00+00:00",
+      "link": "https://www.artificialintelligence-news.com/news/ai-in-law-firms-entering-its-closing-summaries/"
+    },
+    {
+      "title": "Anthropic manager hints that Pro and Max plans are outgrown by today's Claude workloads",
+      "summary": "Anthropic briefly removed Claude Code from its Pro subscription for new customers and reversed the change after public pushback. Head of Growth Amol Avasare signaled that the current subscription plans fundamentally no longer match how people are using Claude.",
+      "source": "The Decoder",
+      "published": "2026-04-22T13:38:59+00:00",
+      "link": "https://the-decoder.com/anthropic-manager-hints-that-pro-and-max-plans-are-outgrown-by-todays-claude-workloads/"
+    },
+    {
+      "title": "AI is spitting out more potential drugs than ever. This start-up wants to figure out which ones matter.",
+      "summary": "10x Science has raised a $4.8 million seed round to help pharmaceutical researchers understand complex molecules.",
+      "source": "TechCrunch",
+      "published": "2026-04-22T13:00:00+00:00",
+      "link": "https://techcrunch.com/2026/04/22/ai-is-spitting-out-more-potential-drugs-than-ever-this-start-up-wants-to-figure-out-which-ones-matter/"
+    },
+    {
+      "title": "Unauthorized users breach Anthropic's restricted Mythos AI model",
+      "summary": "A small group of unauthorized users gained access to Anthropic's new AI model Claude Mythos, Bloomberg reports. The article Unauthorized users breach Anthropic's restricted Mythos AI model appeared first on The Decoder.",
+      "source": "The Decoder",
+      "published": "2026-04-22T12:54:43+00:00",
+      "link": "https://the-decoder.com/unauthorized-users-breach-anthropics-restricted-mythos-ai-model/"
+    },
+    {
+      "title": "Meta tracks US employees' clicks and keystrokes to train AI agents",
+      "summary": "Meta is installing new surveillance software on its US employees' computers that captures mouse movements, clicks, and keystrokes to train AI models. The article Meta tracks US employees' clicks and keystrokes to train AI agents appeared first on The Decoder.",
+      "source": "The Decoder",
+      "published": "2026-04-22T12:43:38+00:00",
+      "link": "https://the-decoder.com/meta-tracks-us-employees-clicks-and-keystrokes-to-train-ai-agents/"
+    },
+    {
+      "title": "Musk's SpaceX bets $60 billion on Cursor to fix xAI's coding gap",
+      "summary": "SpaceX has secured an option to buy AI coding startup Cursor for $60 billion. The deal would fill a gap Elon Musk's xAI has struggled to close on its own: coding tools.",
+      "source": "The Decoder",
+      "published": "2026-04-22T12:40:38+00:00",
+      "link": "https://the-decoder.com/musks-spacex-bets-60-billion-on-cursor-to-fix-xais-coding-gap/"
+    },
+    {
+      "title": "The Download: introducing the 10 Things That Matter in AI Right Now",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Introducing: 10 Things That Matter in AI Right Now What actually matters in AI right now?",
+      "source": "MIT Tech Review",
+      "published": "2026-04-22T12:10:00+00:00",
+      "link": "https://www.technologyreview.com/2026/04/22/1136310/the-download-10-things-that-matter-in-ai-right-now/"
+    },
+    {
+      "title": "The most interesting startups showcased at Google Cloud Next 2026",
+      "summary": "Google wants AI startups on its cloud and has showcased a long list of them at its annual conference.",
+      "source": "TechCrunch",
+      "published": "2026-04-22T12:00:00+00:00",
+      "link": "https://techcrunch.com/2026/04/22/the-most-interesting-startups-showcased-at-google-cloud-next-2026/"
+    },
+    {
+      "title": "Google Maps is about to get a big dose of AI",
+      "summary": "Generative AI is being infused into Google's popular feature within Maps.",
+      "source": "TechCrunch",
+      "published": "2026-04-22T12:00:00+00:00",
+      "link": "https://techcrunch.com/2026/04/22/google-maps-is-about-to-get-a-big-dose-of-ai/"
+    },
+    {
+      "title": "Exclusive: Google deepens Thinking Machines Lab ties with new multi-billion-dollar deal",
+      "summary": "Mira Murati's Thinking Machines Lab has signed a multi-billion-dollar deal with Google Cloud for AI infrastructure powered by Nvidia's latest GB300 chips, TechCrunch has exclusively learned.",
+      "source": "TechCrunch",
+      "published": "2026-04-22T12:00:00+00:00",
+      "link": "https://techcrunch.com/2026/04/22/exclusive-google-deepens-thinking-machines-lab-ties-with-new-multi-billion-dollar-deal/"
+    },
+    {
+      "title": "Kernel code removals driven by LLM-created security reports",
+      "summary": "Article URL: https://lwn.net/Articles/1068928/ Comments URL: https://news.ycombinator.com/item?id=47862230 Points: 57 # Comments: 29",
+      "source": "Hacker News",
+      "published": "2026-04-22T11:48:07+00:00",
+      "link": "https://lwn.net/Articles/1068928/"
+    },
+    {
+      "title": "AI needs a strong data fabric to deliver business value",
+      "summary": "Artificial intelligence is moving quickly in the enterprise, from experimentation to everyday use. Organizations are deploying copilots, agents, and predictive systems across finance, supply chains, human resources, and customer operations.",
+      "source": "MIT Tech Review",
+      "published": "2026-04-22T10:05:06+00:00",
+      "link": "https://www.technologyreview.com/2026/04/22/1135295/ai-needs-a-strong-data-fabric-to-deliver-business-value/"
+    },
     {
       "title": "Join Our Livestream: Musk v. Altman and the Future of OpenAI",
       "summary": "On May 8, we’re going live to answer your questions about the Musk v. Altman trial that could determine the fate of OpenAI.",
@@ -21,6 +119,13 @@ const FEED_DATA = {
       "source": "The Verge",
       "published": "2026-04-22T09:18:40+00:00",
       "link": "https://www.theverge.com/ai-artificial-intelligence/916501/anthropic-mythos-unauthorized-users-access-security"
+    },
+    {
+      "title": "Meta employees are up in arms over a mandatory program to train AI on their",
+      "summary": "Article URL: https://www.businessinsider.com/meta-new-ai-tool-tracks-staff-activity-sparks-concern-2026-4 Comments URL: https://news.ycombinator.com/item?id=47860961 Points: 98 # Comments: 79",
+      "source": "Hacker News",
+      "published": "2026-04-22T09:02:46+00:00",
+      "link": "https://www.businessinsider.com/meta-new-ai-tool-tracks-staff-activity-sparks-concern-2026-4"
     },
     {
       "title": "The role of AI in modern forex bot development",
@@ -66,7 +171,7 @@ const FEED_DATA = {
     },
     {
       "title": "Roundtables: Unveiling The 10 Things That Matter in AI Right Now",
-      "summary": "Listen to the session or watch below Watch a special edition of Roundtables simulcast live from EmTech AI, MIT Technology Review’s signature conference for AI leadership.",
+      "summary": "Listen to the session or watch below Subscribers saw a special edition of Roundtables simulcast live from EmTech AI, MIT Technology Review’s signature conference for AI leadership.",
       "source": "MIT Tech Review",
       "published": "2026-04-21T22:09:25+00:00",
       "link": "https://www.technologyreview.com/2026/04/21/1135486/roundtables-unveiling-the-10-things-that-matter-in-ai-right-now/"
@@ -164,7 +269,7 @@ const FEED_DATA = {
     },
     {
       "title": "Meta to start capturing employee mouse movements, keystrokes for AI training",
-      "summary": "Alt link: https://tech.yahoo.com/ai/meta-ai/articles/exclusive-meta-st... Comments URL: https://news.ycombinator.com/item?id=47851948 Points: 559 # Comments: 404",
+      "summary": "Alt link: https://tech.yahoo.com/ai/meta-ai/articles/exclusive-meta-st... Comments URL: https://news.ycombinator.com/item?id=47851948 Points: 694 # Comments: 455",
       "source": "Hacker News",
       "published": "2026-04-21T17:40:39+00:00",
       "link": "https://www.reuters.com/sustainability/boards-policy-regulation/meta-start-capturing-employee-mouse-movements-keystrokes-ai-training-data-2026-04-21/"
@@ -234,7 +339,7 @@ const FEED_DATA = {
     },
     {
       "title": "CrabTrap: An LLM-as-a-judge HTTP proxy to secure agents in production",
-      "summary": "https://www.brex.com/journal/building-crabtrap-open-source Comments URL: https://news.ycombinator.com/item?id=47850212 Points: 112 # Comments: 41",
+      "summary": "https://www.brex.com/journal/building-crabtrap-open-source Comments URL: https://news.ycombinator.com/item?id=47850212 Points: 118 # Comments: 47",
       "source": "Hacker News",
       "published": "2026-04-21T15:29:16+00:00",
       "link": "https://www.brex.com/crabtrap"
@@ -255,7 +360,7 @@ const FEED_DATA = {
     },
     {
       "title": "Scammer Used an AI-Generated MAGA Girl to Grift 'Super Dumb' Men",
-      "summary": "Article URL: https://www.wired.com/story/ai-generated-maga-girls/ Comments URL: https://news.ycombinator.com/item?id=47849494 Points: 65 # Comments: 34",
+      "summary": "Article URL: https://www.wired.com/story/ai-generated-maga-girls/ Comments URL: https://news.ycombinator.com/item?id=47849494 Points: 67 # Comments: 34",
       "source": "Hacker News",
       "published": "2026-04-21T14:41:36+00:00",
       "link": "https://www.wired.com/story/ai-generated-maga-girls/"
@@ -360,14 +465,14 @@ const FEED_DATA = {
     },
     {
       "title": "Less human AI agents, please",
-      "summary": "Article URL: https://nial.se/blog/less-human-ai-agents-please/ Comments URL: https://news.ycombinator.com/item?id=47845429 Points: 145 # Comments: 153",
+      "summary": "Article URL: https://nial.se/blog/less-human-ai-agents-please/ Comments URL: https://news.ycombinator.com/item?id=47845429 Points: 151 # Comments: 160",
       "source": "Hacker News",
       "published": "2026-04-21T06:58:08+00:00",
       "link": "https://nial.se/blog/less-human-ai-agents-please/"
     },
     {
       "title": "A Roblox cheat and one AI tool brought down Vercel's platform",
-      "summary": "Article URL: https://webmatrices.com/post/how-a-roblox-cheat-and-one-ai-tool-brought-down-vercel-s-entire-platform Comments URL: https://news.ycombinator.com/item?id=47844431 Points: 281 # Comments: 159",
+      "summary": "Article URL: https://webmatrices.com/post/how-a-roblox-cheat-and-one-ai-tool-brought-down-vercel-s-entire-platform Comments URL: https://news.ycombinator.com/item?id=47844431 Points: 282 # Comments: 161",
       "source": "Hacker News",
       "published": "2026-04-21T04:12:12+00:00",
       "link": "https://webmatrices.com/post/how-a-roblox-cheat-and-one-ai-tool-brought-down-vercel-s-entire-platform"
@@ -402,7 +507,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI Resistance: some recent anti-AI stuff that’s worth discussing",
-      "summary": "Article URL: https://stephvee.ca/blog/artificial%20intelligence/ai-resistance-is-growing/ Comments URL: https://news.ycombinator.com/item?id=47839951 Points: 379 # Comments: 405",
+      "summary": "Article URL: https://stephvee.ca/blog/artificial%20intelligence/ai-resistance-is-growing/ Comments URL: https://news.ycombinator.com/item?id=47839951 Points: 381 # Comments: 406",
       "source": "Hacker News",
       "published": "2026-04-20T20:19:13+00:00",
       "link": "https://stephvee.ca/blog/artificial%20intelligence/ai-resistance-is-growing/"
@@ -465,7 +570,7 @@ const FEED_DATA = {
     },
     {
       "title": "Deezer says 44% of songs uploaded to its platform daily are AI-generated",
-      "summary": "Article URL: https://techcrunch.com/2026/04/20/deezer-says-44-of-songs-uploaded-to-its-platform-daily-are-ai-generated/ Comments URL: https://news.ycombinator.com/item?id=47835928 Points: 359 # Comments: 384",
+      "summary": "Article URL: https://techcrunch.com/2026/04/20/deezer-says-44-of-songs-uploaded-to-its-platform-daily-are-ai-generated/ Comments URL: https://news.ycombinator.com/item?id=47835928 Points: 359 # Comments: 388",
       "source": "Hacker News",
       "published": "2026-04-20T15:41:02+00:00",
       "link": "https://techcrunch.com/2026/04/20/deezer-says-44-of-songs-uploaded-to-its-platform-daily-are-ai-generated/"
@@ -528,7 +633,7 @@ const FEED_DATA = {
     },
     {
       "title": "Atlassian enables default data collection to train AI",
-      "summary": "Article URL: https://letsdatascience.com/news/atlassian-enables-default-data-collection-to-train-ai-f71343d8 Comments URL: https://news.ycombinator.com/item?id=47833247 Points: 596 # Comments: 130",
+      "summary": "Article URL: https://letsdatascience.com/news/atlassian-enables-default-data-collection-to-train-ai-f71343d8 Comments URL: https://news.ycombinator.com/item?id=47833247 Points: 597 # Comments: 131",
       "source": "Hacker News",
       "published": "2026-04-20T12:23:39+00:00",
       "link": "https://letsdatascience.com/news/atlassian-enables-default-data-collection-to-train-ai-f71343d8"
@@ -1295,111 +1400,6 @@ const FEED_DATA = {
       "source": "The Verge",
       "published": "2026-04-16T13:07:09+00:00",
       "link": "https://www.theverge.com/tech/913068/canva-ai-2-update-prompt-based-editing-availability"
-    },
-    {
-      "title": "Making AI operational in constrained public sector environments",
-      "summary": "The AI boom has hit across industries, and public sector organizations are facing pressure to accelerate adoption. At the same time, government institutions face distinct constraints around security, governance, and operations that set them apart from their business counterparts.",
-      "source": "MIT Tech Review",
-      "published": "2026-04-16T13:00:00+00:00",
-      "link": "https://www.technologyreview.com/2026/04/16/1135216/making-ai-operational-in-constrained-public-sector-environments/"
-    },
-    {
-      "title": "Treating enterprise AI as an operating layer",
-      "summary": "There’s a fault line running through enterprise AI, and it’s not the one getting the most attention. The public conversation still tracks foundation models and benchmarks—GPT versus Gemini, reasoning scores, and marginal capability gains.",
-      "source": "MIT Tech Review",
-      "published": "2026-04-16T13:00:00+00:00",
-      "link": "https://www.technologyreview.com/2026/04/16/1135554/treating-enterprise-ai-as-an-operating-layer/"
-    },
-    {
-      "title": "Canva’s AI assistant can now call various tools to make designs for you",
-      "summary": "The latest version of Canva's AI assistant lets users create editable designs with text prompts.",
-      "source": "TechCrunch",
-      "published": "2026-04-16T13:00:00+00:00",
-      "link": "https://techcrunch.com/2026/04/16/canvas-ai-assistant-can-now-call-various-tools-to-make-designs-for-you/"
-    },
-    {
-      "title": "5 top cloud migration software for Infrastructure as Code (IaC)",
-      "summary": "Cloud migration becomes much harder when teams are not moving workloads, but also trying to make every environment reproducible and deployment-ready through Infrastructure as Code. The challenge is not limited to copying applications from one platform to another.",
-      "source": "AI News",
-      "published": "2026-04-16T12:30:30+00:00",
-      "link": "https://www.artificialintelligence-news.com/news/5-top-cloud-migration-software-for-infrastructure-as-code-iac/"
-    },
-    {
-      "title": "This simulation startup wants to be the Cursor for physical AI",
-      "summary": "Antioch raised an $8.5 million seed round to create simulation tools for a new generation of robot builders.",
-      "source": "TechCrunch",
-      "published": "2026-04-16T12:30:00+00:00",
-      "link": "https://techcrunch.com/2026/04/16/this-simulation-startup-wants-to-be-the-cursor-for-physical-ai/"
-    },
-    {
-      "title": "The Download: cyberscammers’ banking bypasses, and carbon removal troubles",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.",
-      "source": "MIT Tech Review",
-      "published": "2026-04-16T12:10:00+00:00",
-      "link": "https://www.technologyreview.com/2026/04/16/1136034/the-download-cyberscammers-banking-bypasses-microsoft-carbon-removal-troubles/"
-    },
-    {
-      "title": "Why having “humans in the loop” in an AI war is an illusion",
-      "summary": "The availability of artificial intelligence for use in warfare is at the center of a legal battle between Anthropic and the Pentagon. This debate has become urgent, with AI playing a bigger role than ever before in the current conflict with Iran.",
-      "source": "MIT Tech Review",
-      "published": "2026-04-16T12:00:00+00:00",
-      "link": "https://www.technologyreview.com/2026/04/16/1136029/humans-in-the-loop-ai-war-illusion/"
-    },
-    {
-      "title": "OpenAI Agents SDK improves governance with sandbox execution",
-      "summary": "OpenAI is introducing sandbox execution that allows enterprise governance teams to deploy automated workflows with controlled risk. Teams taking systems from prototype to production have faced difficult architectural compromises regarding where their operations occurred.",
-      "source": "AI News",
-      "published": "2026-04-16T11:20:00+00:00",
-      "link": "https://www.artificialintelligence-news.com/news/openai-agents-sdk-improves-governance-sandbox-execution/"
-    },
-    {
-      "title": "AI cybersecurity is not proof of work",
-      "summary": "Recent and related: Cybersecurity looks like proof of work now - https://news.ycombinator.com/item?id=47769089 - (198 comments) Comments URL: https://news.ycombinator.com/item?id=47791236 Points: 238 # Comments: 88",
-      "source": "Hacker News",
-      "published": "2026-04-16T10:48:00+00:00",
-      "link": "https://antirez.com/news/163"
-    },
-    {
-      "title": "Cadence expands AI and robotic partnerships with Nvidia, Google Cloud",
-      "summary": "Cadence Design Systems announced two AI-related collaborations at its CadenceLIVE event this week, expanding its work with Nvidia and introducing new integrations with Google Cloud.",
-      "source": "AI News",
-      "published": "2026-04-16T10:00:00+00:00",
-      "link": "https://www.artificialintelligence-news.com/news/cadence-expands-ai-and-robotics-partnerships-with-nvidia-google-cloud/"
-    },
-    {
-      "title": "The quest to measure our relationship with nature",
-      "summary": "As a movement, environmentalism has been pretty misanthropic. Understandably so—we humans have done some destructive things to the ecosystems around us.",
-      "source": "MIT Tech Review",
-      "published": "2026-04-16T10:00:00+00:00",
-      "link": "https://www.technologyreview.com/2026/04/16/1135245/measure-relationship-with-nature-index/"
-    },
-    {
-      "title": "SDL bans AI-written commits",
-      "summary": "Article URL: https://github.com/libsdl-org/SDL/issues/15350 Comments URL: https://news.ycombinator.com/item?id=47790791 Points: 132 # Comments: 138",
-      "source": "Hacker News",
-      "published": "2026-04-16T09:40:43+00:00",
-      "link": "https://github.com/libsdl-org/SDL/issues/15350"
-    },
-    {
-      "title": "Shares in shoe brand Allbirds rise 580% after it pivots from footwear to AI",
-      "summary": "Article URL: https://www.bbc.com/news/articles/c98mrepzgj7o Comments URL: https://news.ycombinator.com/item?id=47790353 Points: 75 # Comments: 32",
-      "source": "Hacker News",
-      "published": "2026-04-16T08:43:51+00:00",
-      "link": "https://www.bbc.com/news/articles/c98mrepzgj7o"
-    },
-    {
-      "title": "Sal Khan's AI revolution hasn't happened yet",
-      "summary": "Article URL: https://www.chalkbeat.org/2026/04/09/sal-khan-reflects-on-ai-in-schools-and-khanmigo/ Comments URL: https://news.ycombinator.com/item?id=47788845 Points: 58 # Comments: 74",
-      "source": "Hacker News",
-      "published": "2026-04-16T05:05:44+00:00",
-      "link": "https://www.chalkbeat.org/2026/04/09/sal-khan-reflects-on-ai-in-schools-and-khanmigo/"
-    },
-    {
-      "title": "The local LLM ecosystem doesn’t need Ollama",
-      "summary": "Article URL: https://sleepingrobots.com/dreams/stop-using-ollama/ Comments URL: https://news.ycombinator.com/item?id=47788385 Points: 641 # Comments: 208",
-      "source": "Hacker News",
-      "published": "2026-04-16T03:35:11+00:00",
-      "link": "https://sleepingrobots.com/dreams/stop-using-ollama/"
     }
   ]
 };
