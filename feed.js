@@ -1,6 +1,69 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-04-22T14:47:30.147153+00:00",
+  "lastUpdated": "2026-04-22T17:56:12.340834+00:00",
   "items": [
+    {
+      "title": "Google turns Chrome into an AI coworker for the workplace",
+      "summary": "Google brings Gemini-powered 'auto browse' capabilities to Chrome for enterprise users, letting workers automate tasks like research, data entry, and more.",
+      "source": "TechCrunch",
+      "published": "2026-04-22T17:30:00+00:00",
+      "link": "https://techcrunch.com/2026/04/22/google-turns-chrome-into-an-ai-coworker-for-the-workplace/"
+    },
+    {
+      "title": "Google's new AI tools put film scouting in Street View and promise to cut weeks of satellite analysis to minutes",
+      "summary": "At Cloud Next, Google unveiled three new AI imaging tools.",
+      "source": "The Decoder",
+      "published": "2026-04-22T17:22:59+00:00",
+      "link": "https://the-decoder.com/googles-new-ai-tools-put-film-scouting-in-street-view-and-promise-to-cut-weeks-of-satellite-analysis-to-minutes/"
+    },
+    {
+      "title": "Google makes an interesting choice with its new agent building tool for enterprises",
+      "summary": "Gemini Enterprise Agent Platform takes an interesting approach: it is geared for IT and technical users.",
+      "source": "TechCrunch",
+      "published": "2026-04-22T16:58:27+00:00",
+      "link": "https://techcrunch.com/2026/04/22/google-makes-an-interesting-choice-with-its-new-agent-building-tool-for-enterprises/"
+    },
+    {
+      "title": "Anthropic’s Mythos rollout has missed America’s cybersecurity agency",
+      "summary": "Several US federal agencies are taking up Anthropic's new cybersecurity model to find vulnerabilities, but one is reportedly not getting in on the action: the nation's central cybersecurity coordinator.",
+      "source": "The Verge",
+      "published": "2026-04-22T16:57:36+00:00",
+      "link": "https://www.theverge.com/policy/916758/anthropic-mythos-preview-cisa-left-out"
+    },
+    {
+      "title": "AI Overviews are coming to your Gmail at work",
+      "summary": "The AI Overviews will offer instant summaries pulled from across multiple emails.",
+      "source": "TechCrunch",
+      "published": "2026-04-22T16:46:10+00:00",
+      "link": "https://techcrunch.com/2026/04/22/ai-overviews-are-coming-to-your-gmail-at-work/"
+    },
+    {
+      "title": "Google Meet will take AI notes for in-person meetings too",
+      "summary": "Google's AI meeting notetaker is no longer limited to Google Meets - Gemini can also generate summaries and transcripts of in-person meetings now, as well as meetings on Zoom and Microsoft Teams, as first reported by 9to5Google.",
+      "source": "The Verge",
+      "published": "2026-04-22T16:38:19+00:00",
+      "link": "https://www.theverge.com/tech/916779/google-meet-ai-notetaker-in-person-meetings"
+    },
+    {
+      "title": "AI Tools Are Helping Mediocre North Korean Hackers Steal Millions",
+      "summary": "One group of hackers used AI for everything from vibe coding their malware to creating fake company websites—and stole as much as $12 million in three months.",
+      "source": "Wired",
+      "published": "2026-04-22T16:00:00+00:00",
+      "link": "https://www.wired.com/story/ai-tools-are-helping-mediocre-north-korean-hackers-steal-millions/"
+    },
+    {
+      "title": "Reversing enterprise security costs with AI vulnerability discovery",
+      "summary": "Automated AI vulnerability discovery is reversing the enterprise security costs that traditionally favour attackers. Bringing exploits to zero was once viewed as an unrealistic goal.",
+      "source": "AI News",
+      "published": "2026-04-22T15:45:14+00:00",
+      "link": "https://www.artificialintelligence-news.com/news/reversing-enterprise-security-costs-with-ai-vulnerability-discovery/"
+    },
+    {
+      "title": "Google unveils 8th-gen TPUs, agent platform, and Workspace AI layer at Cloud Next '26",
+      "summary": "Google used its Cloud Next '26 conference to unveil its eighth-generation TPUs, a revamped agent platform, and a new AI layer for Workspace.",
+      "source": "The Decoder",
+      "published": "2026-04-22T15:34:51+00:00",
+      "link": "https://the-decoder.com/google-unveils-8th-gen-tpus-agent-platform-and-workspace-ai-layer-at-cloud-next-26/"
+    },
     {
       "title": "Now Meta will track what employees do on their computers to train its AI agents",
       "summary": "Meta employees' activity at work is now being used to train the company's AI agents.",
@@ -10,7 +73,7 @@ const FEED_DATA = {
     },
     {
       "title": "OpenAI teams up with Infosys to bring AI tools to more businesses",
-      "summary": "Infosys said the integration will be used to help its clients modernize software development, automate workflows and deploy AI systems, initially focusing software engineering, legacy modernization, and DevOps.",
+      "summary": "Infosys said the integration will be used to help its clients modernize software development, automate workflows, and deploy AI systems, initially focusing software engineering, legacy modernization, and DevOps.",
       "source": "TechCrunch",
       "published": "2026-04-22T14:22:10+00:00",
       "link": "https://techcrunch.com/2026/04/22/openai-teams-up-with-infosys-to-bring-ai-tools-to-more-businesses/"
@@ -30,7 +93,7 @@ const FEED_DATA = {
       "link": "https://the-decoder.com/anthropic-manager-hints-that-pro-and-max-plans-are-outgrown-by-todays-claude-workloads/"
     },
     {
-      "title": "AI is spitting out more potential drugs than ever. This start-up wants to figure out which ones matter.",
+      "title": "AI is spitting out more potential drugs than ever. This startup wants to figure out which ones matter.",
       "summary": "10x Science has raised a $4.8 million seed round to help pharmaceutical researchers understand complex molecules.",
       "source": "TechCrunch",
       "published": "2026-04-22T13:00:00+00:00",
@@ -65,25 +128,25 @@ const FEED_DATA = {
       "link": "https://www.technologyreview.com/2026/04/22/1136310/the-download-10-things-that-matter-in-ai-right-now/"
     },
     {
-      "title": "The most interesting startups showcased at Google Cloud Next 2026",
-      "summary": "Google wants AI startups on its cloud and has showcased a long list of them at its annual conference.",
+      "title": "Exclusive: Google deepens Thinking Machines Lab ties with new multibillion-dollar deal",
+      "summary": "Mira Murati's Thinking Machines Lab has signed a multibillion-dollar deal with Google Cloud for AI infrastructure powered by Nvidia's latest GB300 chips, TechCrunch has exclusively learned.",
       "source": "TechCrunch",
       "published": "2026-04-22T12:00:00+00:00",
-      "link": "https://techcrunch.com/2026/04/22/the-most-interesting-startups-showcased-at-google-cloud-next-2026/"
+      "link": "https://techcrunch.com/2026/04/22/exclusive-google-deepens-thinking-machines-lab-ties-with-new-multi-billion-dollar-deal/"
     },
     {
       "title": "Google Maps is about to get a big dose of AI",
-      "summary": "Generative AI is being infused into Google's popular feature within Maps.",
+      "summary": "The new features, announced at Cloud Next in Las Vegas this week, add generative AI capabilities to Google's mapping platform, giving it enhanced visual and data analytics powers.",
       "source": "TechCrunch",
       "published": "2026-04-22T12:00:00+00:00",
       "link": "https://techcrunch.com/2026/04/22/google-maps-is-about-to-get-a-big-dose-of-ai/"
     },
     {
-      "title": "Exclusive: Google deepens Thinking Machines Lab ties with new multi-billion-dollar deal",
-      "summary": "Mira Murati's Thinking Machines Lab has signed a multi-billion-dollar deal with Google Cloud for AI infrastructure powered by Nvidia's latest GB300 chips, TechCrunch has exclusively learned.",
+      "title": "The most interesting startups showcased at Google Cloud Next 2026",
+      "summary": "Google wants AI startups on its cloud and has showcased a long list of them at its annual conference.",
       "source": "TechCrunch",
       "published": "2026-04-22T12:00:00+00:00",
-      "link": "https://techcrunch.com/2026/04/22/exclusive-google-deepens-thinking-machines-lab-ties-with-new-multi-billion-dollar-deal/"
+      "link": "https://techcrunch.com/2026/04/22/the-most-interesting-startups-showcased-at-google-cloud-next-2026/"
     },
     {
       "title": "Kernel code removals driven by LLM-created security reports",
@@ -422,18 +485,18 @@ const FEED_DATA = {
       "link": "https://www.technologyreview.com/2026/04/21/1136246/the-download-human-noise-la-subway-upgrade/"
     },
     {
-      "title": "Yelp is making its AI chatbot way more useful",
-      "summary": "Yelp is giving its chatbot assistant a major upgrade, turning the platform into something closer to a digital concierge with a suite of new features designed for \"getting things done.\" The move, one of several AI-focused updates in recent months, is part of a broader industry...",
-      "source": "The Verge",
-      "published": "2026-04-21T11:00:00+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/915626/yelp-ai-assistant-chatbot-major-upgrade"
-    },
-    {
       "title": "This Scammer Used an AI-Generated MAGA Girl to Grift ‘Super Dumb’ Men",
       "summary": "A med student says he’s made thousands of dollars selling photos and videos of a young conservative woman he created using generative tools. He’s not alone.",
       "source": "Wired",
       "published": "2026-04-21T11:00:00+00:00",
       "link": "https://www.wired.com/story/ai-generated-maga-girls/"
+    },
+    {
+      "title": "Yelp is making its AI chatbot way more useful",
+      "summary": "Yelp is giving its chatbot assistant a major upgrade, turning the platform into something closer to a digital concierge with a suite of new features designed for \"getting things done.\" The move, one of several AI-focused updates in recent months, is part of a broader industry...",
+      "source": "The Verge",
+      "published": "2026-04-21T11:00:00+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/915626/yelp-ai-assistant-chatbot-major-upgrade"
     },
     {
       "title": "Anthropic is building its first data center team outside the US",
@@ -1337,69 +1400,6 @@ const FEED_DATA = {
       "source": "Hacker News",
       "published": "2026-04-16T15:13:13+00:00",
       "link": "https://andonlabs.com/blog/andon-market-launch"
-    },
-    {
-      "title": "Bytedance rolls out Seedance 2.0 to 100+ countries but keeps the US off the list",
-      "summary": "Bytedance is rolling out its AI video model Seedance 2.0 to over 100 countries—but the US isn't one of them, likely due to ongoing copyright disputes with Hollywood studios.",
-      "source": "The Decoder",
-      "published": "2026-04-16T14:39:45+00:00",
-      "link": "https://the-decoder.com/bytedance-rolls-out-seedance-2-0-to-100-countries-but-keeps-the-us-off-the-list/"
-    },
-    {
-      "title": "There's yet another study about how bad AI is for our brains",
-      "summary": "Article URL: https://www.engadget.com/ai/theres-yet-another-study-about-how-bad-ai-is-for-our-brains-183418494.html Comments URL: https://news.ycombinator.com/item?id=47793522 Points: 50 # Comments: 63",
-      "source": "Hacker News",
-      "published": "2026-04-16T14:30:38+00:00",
-      "link": "https://www.engadget.com/ai/theres-yet-another-study-about-how-bad-ai-is-for-our-brains-183418494.html"
-    },
-    {
-      "title": "Runway CEO says AI could help Hollywood make 50 films instead of one $100M blockbuster",
-      "summary": "Runway’s CEO says AI could help studios make dozens of films for the cost of one, betting volume will boost hit-making odds.",
-      "source": "TechCrunch",
-      "published": "2026-04-16T14:14:29+00:00",
-      "link": "https://techcrunch.com/2026/04/16/runway-ceo-says-ai-could-help-hollywood-make-50-films-instead-of-one-100m-blockbuster/"
-    },
-    {
-      "title": "Ronan Farrow on Sam Altman’s ‘unconstrained’ relationship with the truth",
-      "summary": "Today on Decoder, I’m talking with Ronan Farrow, one of the biggest stars of investigative reporting working today. He broke the Harvey Weinstein story, among many, many others.",
-      "source": "The Verge",
-      "published": "2026-04-16T14:00:00+00:00",
-      "link": "https://www.theverge.com/podcast/911753/sam-altman-openai-ronan-farrow-new-yorker-feature-trust-liar-ai-industry"
-    },
-    {
-      "title": "Character.AI’s new Books mode turns reading into roleplay",
-      "summary": "Mired in controversy and legal woes over concerns about its chatbots' interactions with users, particularly teens, Character.AI seems to be playing it safer with a new \"Books\" mode.",
-      "source": "The Verge",
-      "published": "2026-04-16T14:00:00+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/912997/character-ai-books-mode"
-    },
-    {
-      "title": "Anthropic Plots Major London Expansion",
-      "summary": "As tensions with the US government mount, Anthropic has leased a new office with enough space to quadruple its 200-person head count in London.",
-      "source": "Wired",
-      "published": "2026-04-16T13:49:35+00:00",
-      "link": "https://www.wired.com/story/anthropic-plots-major-london-expansion/"
-    },
-    {
-      "title": "Meta raises Quest 3 and Quest 3S prices due to RAM shortage",
-      "summary": "Starting April 19, the price of the Meta Quest 3S (128GB) and Meta Quest 3S (256GB) will go up by $50 to $349.99 and $449.99, respectively. The price of the Meta Quest 3 is going up by $100 to $599.99.",
-      "source": "TechCrunch",
-      "published": "2026-04-16T13:49:32+00:00",
-      "link": "https://techcrunch.com/2026/04/16/meta-raises-quest-3-and-quest-3s-prices-due-to-ram-shortage/"
-    },
-    {
-      "title": "Cloudflare's AI Platform: an inference layer designed for agents",
-      "summary": "Article URL: https://blog.cloudflare.com/ai-platform/ Comments URL: https://news.ycombinator.com/item?id=47792538 Points: 306 # Comments: 95",
-      "source": "Hacker News",
-      "published": "2026-04-16T13:17:37+00:00",
-      "link": "https://blog.cloudflare.com/ai-platform/"
-    },
-    {
-      "title": "Canva’s AI 2.0 update goes all in on prompt-powered design tools",
-      "summary": "Canva has overhauled its design and workspace suite as it attempts to become the ultimate centralized hub for AI-powered content creation.",
-      "source": "The Verge",
-      "published": "2026-04-16T13:07:09+00:00",
-      "link": "https://www.theverge.com/tech/913068/canva-ai-2-update-prompt-based-editing-availability"
     }
   ]
 };
