@@ -1,9 +1,65 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-04-22T17:56:12.340834+00:00",
+  "lastUpdated": "2026-04-22T21:43:50.892785+00:00",
   "items": [
     {
-      "title": "Google turns Chrome into an AI coworker for the workplace",
-      "summary": "Google brings Gemini-powered 'auto browse' capabilities to Chrome for enterprise users, letting workers automate tasks like research, data entry, and more.",
+      "title": "AI failure could trigger the next financial crisis, warns Elizabeth Warren",
+      "summary": "\"I know a bubble when I see one.\" That's what Sen. Elizabeth Warren (D-MA), who led the push to create a new consumer financial regulator in the wake of the 2008 recession, told a crowd at a Vanderbilt Policy Accelerator event in Washington, DC on Wednesday.",
+      "source": "The Verge",
+      "published": "2026-04-22T20:29:05+00:00",
+      "link": "https://www.theverge.com/policy/917026/ai-economy-bubble-elizabeth-warren"
+    },
+    {
+      "title": "OpenAI now lets teams make custom bots that can do work on their own",
+      "summary": "OpenAI is giving users of its Business, Enterprise, Edu, and Teachers plans access to cloud-based \"workspace\" agents available in ChatGPT that can perform business tasks.",
+      "source": "The Verge",
+      "published": "2026-04-22T20:09:02+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/917065/openai-chatgpt-workspace-agents-custom-teams-bots"
+    },
+    {
+      "title": "How SpaceX preempted a $2B fundraise with a $60B buyout offer",
+      "summary": "Cursor was on track to close a $2 billion funding round this week but chose to halt discussions after SpaceX offered a $10 billion \"collaboration fee\" and a path to a $60 billion acquisition.",
+      "source": "TechCrunch",
+      "published": "2026-04-22T19:51:51+00:00",
+      "link": "https://techcrunch.com/2026/04/22/how-spacex-preempted-a-2b-fundraise-with-a-60b-buyout-offer/"
+    },
+    {
+      "title": "Microsoft issues emergency update for macOS and Linux ASP.NET threat",
+      "summary": "When authentication fails, things can go very, very wrong.",
+      "source": "Ars Technica",
+      "published": "2026-04-22T19:32:56+00:00",
+      "link": "https://arstechnica.com/security/2026/04/microsoft-issues-emergency-update-for-macos-and-linux-asp-net-threat/"
+    },
+    {
+      "title": "Ex-OpenAI researcher Jerry Tworek launches Core Automation to build the most automated AI lab in the world",
+      "summary": "New AI lab, familiar face: former OpenAI researcher Jerry Tworek wants to push past the limits of today's AI architectures with a small team and new learning methods.",
+      "source": "The Decoder",
+      "published": "2026-04-22T18:44:36+00:00",
+      "link": "https://the-decoder.com/ex-openai-researcher-jerry-tworek-launches-core-automation-to-build-the-most-automated-ai-lab-in-the-world/"
+    },
+    {
+      "title": "Google Cloud launches two new AI chips to compete with Nvidia",
+      "summary": "Google's newest TPUs are faster and cheaper than the previous versions. But the company is still embracing Nvidia in its cloud — for now.",
+      "source": "TechCrunch",
+      "published": "2026-04-22T18:39:27+00:00",
+      "link": "https://techcrunch.com/2026/04/22/google-cloud-next-new-tpu-ai-chips-compete-with-nvidia/"
+    },
+    {
+      "title": "OpenAI launches workspace agents that turn ChatGPT from a chatbot into a team automation platform",
+      "summary": "OpenAI is rolling out workspace agents in ChatGPT, an evolution of custom GPTs. Powered by Codex, the agents automate complex team workflows and keep running even when no one is watching.",
+      "source": "The Decoder",
+      "published": "2026-04-22T18:23:33+00:00",
+      "link": "https://the-decoder.com/openai-launches-workspace-agents-that-turn-chatgpt-from-a-chatbot-into-a-team-automation-platform/"
+    },
+    {
+      "title": "5 AI Models Tried to Scam Me. Some of Them Were Scary Good",
+      "summary": "The cyber capabilities of AI models have experts rattled. AI’s social skills may be just as dangerous.",
+      "source": "Wired",
+      "published": "2026-04-22T18:00:00+00:00",
+      "link": "https://www.wired.com/story/ai-model-phishing-attack-cybersecurity/"
+    },
+    {
+      "title": "Google turns Chrome into an AI co-worker for the workplace",
+      "summary": "Google brings Gemini-powered \"auto browse\" capabilities to Chrome for enterprise users, letting workers automate tasks like research, data entry, and more.",
       "source": "TechCrunch",
       "published": "2026-04-22T17:30:00+00:00",
       "link": "https://techcrunch.com/2026/04/22/google-turns-chrome-into-an-ai-coworker-for-the-workplace/"
@@ -14,6 +70,20 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-04-22T17:22:59+00:00",
       "link": "https://the-decoder.com/googles-new-ai-tools-put-film-scouting-in-street-view-and-promise-to-cut-weeks-of-satellite-analysis-to-minutes/"
+    },
+    {
+      "title": "Anker made its own chip to bring AI to all its products",
+      "summary": "Article URL: https://www.theverge.com/tech/916463/anker-thus-chip-announcement Comments URL: https://news.ycombinator.com/item?id=47866368 Points: 57 # Comments: 34",
+      "source": "Hacker News",
+      "published": "2026-04-22T17:10:46+00:00",
+      "link": "https://www.theverge.com/tech/916463/anker-thus-chip-announcement"
+    },
+    {
+      "title": "Google makes an interesting choice with its new agent-building tool for enterprises",
+      "summary": "Gemini Enterprise Agent Platform takes an interesting approach: It is geared for IT and technical users.",
+      "source": "TechCrunch",
+      "published": "2026-04-22T16:58:27+00:00",
+      "link": "https://techcrunch.com/2026/04/22/google-makes-an-interesting-choice-with-its-new-agent-building-tool-for-enterprises/"
     },
     {
       "title": "Google makes an interesting choice with its new agent building tool for enterprises",
@@ -63,6 +133,20 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-04-22T15:34:51+00:00",
       "link": "https://the-decoder.com/google-unveils-8th-gen-tpus-agent-platform-and-workspace-ai-layer-at-cloud-next-26/"
+    },
+    {
+      "title": "Top MAGA influencer revealed to be AI",
+      "summary": "Article URL: https://nypost.com/2026/04/21/us-news/top-maga-influencer-emily-hart-revealed-to-be-ai-created-by-a-guy-in-india/ Comments URL: https://news.ycombinator.com/item?id=47864808 Points: 78 # Comments: 43",
+      "source": "Hacker News",
+      "published": "2026-04-22T15:15:04+00:00",
+      "link": "https://nypost.com/2026/04/21/us-news/top-maga-influencer-emily-hart-revealed-to-be-ai-created-by-a-guy-in-india/"
+    },
+    {
+      "title": "Scoring Show HN submissions for AI design patterns",
+      "summary": "Article URL: https://www.adriankrebs.ch/blog/design-slop/ Comments URL: https://news.ycombinator.com/item?id=47864393 Points: 246 # Comments: 190",
+      "source": "Hacker News",
+      "published": "2026-04-22T14:44:32+00:00",
+      "link": "https://www.adriankrebs.ch/blog/design-slop/"
     },
     {
       "title": "Now Meta will track what employees do on their computers to train its AI agents",
@@ -150,7 +234,7 @@ const FEED_DATA = {
     },
     {
       "title": "Kernel code removals driven by LLM-created security reports",
-      "summary": "Article URL: https://lwn.net/Articles/1068928/ Comments URL: https://news.ycombinator.com/item?id=47862230 Points: 57 # Comments: 29",
+      "summary": "Article URL: https://lwn.net/Articles/1068928/ Comments URL: https://news.ycombinator.com/item?id=47862230 Points: 96 # Comments: 82",
       "source": "Hacker News",
       "published": "2026-04-22T11:48:07+00:00",
       "link": "https://lwn.net/Articles/1068928/"
@@ -185,7 +269,7 @@ const FEED_DATA = {
     },
     {
       "title": "Meta employees are up in arms over a mandatory program to train AI on their",
-      "summary": "Article URL: https://www.businessinsider.com/meta-new-ai-tool-tracks-staff-activity-sparks-concern-2026-4 Comments URL: https://news.ycombinator.com/item?id=47860961 Points: 98 # Comments: 79",
+      "summary": "Article URL: https://www.businessinsider.com/meta-new-ai-tool-tracks-staff-activity-sparks-concern-2026-4 Comments URL: https://news.ycombinator.com/item?id=47860961 Points: 109 # Comments: 83",
       "source": "Hacker News",
       "published": "2026-04-22T09:02:46+00:00",
       "link": "https://www.businessinsider.com/meta-new-ai-tool-tracks-staff-activity-sparks-concern-2026-4"
@@ -332,7 +416,7 @@ const FEED_DATA = {
     },
     {
       "title": "Meta to start capturing employee mouse movements, keystrokes for AI training",
-      "summary": "Alt link: https://tech.yahoo.com/ai/meta-ai/articles/exclusive-meta-st... Comments URL: https://news.ycombinator.com/item?id=47851948 Points: 694 # Comments: 455",
+      "summary": "Alt link: https://tech.yahoo.com/ai/meta-ai/articles/exclusive-meta-st... Comments URL: https://news.ycombinator.com/item?id=47851948 Points: 767 # Comments: 508",
       "source": "Hacker News",
       "published": "2026-04-21T17:40:39+00:00",
       "link": "https://www.reuters.com/sustainability/boards-policy-regulation/meta-start-capturing-employee-mouse-movements-keystrokes-ai-training-data-2026-04-21/"
@@ -402,7 +486,7 @@ const FEED_DATA = {
     },
     {
       "title": "CrabTrap: An LLM-as-a-judge HTTP proxy to secure agents in production",
-      "summary": "https://www.brex.com/journal/building-crabtrap-open-source Comments URL: https://news.ycombinator.com/item?id=47850212 Points: 118 # Comments: 47",
+      "summary": "https://www.brex.com/journal/building-crabtrap-open-source Comments URL: https://news.ycombinator.com/item?id=47850212 Points: 124 # Comments: 53",
       "source": "Hacker News",
       "published": "2026-04-21T15:29:16+00:00",
       "link": "https://www.brex.com/crabtrap"
@@ -420,6 +504,13 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-04-21T15:02:06+00:00",
       "link": "https://techcrunch.com/2026/04/21/youtube-expands-its-ai-likeness-detection-technology-to-celebrities/"
+    },
+    {
+      "title": "Scammer used an AI-generated MAGA girl to grift men",
+      "summary": "https://archive.is/kXVNR Comments URL: https://news.ycombinator.com/item?id=47849494 Points: 79 # Comments: 33",
+      "source": "Hacker News",
+      "published": "2026-04-21T14:41:36+00:00",
+      "link": "https://www.wired.com/story/ai-generated-maga-girls/"
     },
     {
       "title": "Scammer Used an AI-Generated MAGA Girl to Grift 'Super Dumb' Men",
@@ -528,7 +619,7 @@ const FEED_DATA = {
     },
     {
       "title": "Less human AI agents, please",
-      "summary": "Article URL: https://nial.se/blog/less-human-ai-agents-please/ Comments URL: https://news.ycombinator.com/item?id=47845429 Points: 151 # Comments: 160",
+      "summary": "Article URL: https://nial.se/blog/less-human-ai-agents-please/ Comments URL: https://news.ycombinator.com/item?id=47845429 Points: 155 # Comments: 166",
       "source": "Hacker News",
       "published": "2026-04-21T06:58:08+00:00",
       "link": "https://nial.se/blog/less-human-ai-agents-please/"
@@ -570,7 +661,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI Resistance: some recent anti-AI stuff that’s worth discussing",
-      "summary": "Article URL: https://stephvee.ca/blog/artificial%20intelligence/ai-resistance-is-growing/ Comments URL: https://news.ycombinator.com/item?id=47839951 Points: 381 # Comments: 406",
+      "summary": "Article URL: https://stephvee.ca/blog/artificial%20intelligence/ai-resistance-is-growing/ Comments URL: https://news.ycombinator.com/item?id=47839951 Points: 384 # Comments: 410",
       "source": "Hacker News",
       "published": "2026-04-20T20:19:13+00:00",
       "link": "https://stephvee.ca/blog/artificial%20intelligence/ai-resistance-is-growing/"
@@ -633,7 +724,7 @@ const FEED_DATA = {
     },
     {
       "title": "Deezer says 44% of songs uploaded to its platform daily are AI-generated",
-      "summary": "Article URL: https://techcrunch.com/2026/04/20/deezer-says-44-of-songs-uploaded-to-its-platform-daily-are-ai-generated/ Comments URL: https://news.ycombinator.com/item?id=47835928 Points: 359 # Comments: 388",
+      "summary": "Article URL: https://techcrunch.com/2026/04/20/deezer-says-44-of-songs-uploaded-to-its-platform-daily-are-ai-generated/ Comments URL: https://news.ycombinator.com/item?id=47835928 Points: 362 # Comments: 388",
       "source": "Hacker News",
       "published": "2026-04-20T15:41:02+00:00",
       "link": "https://techcrunch.com/2026/04/20/deezer-says-44-of-songs-uploaded-to-its-platform-daily-are-ai-generated/"
@@ -661,7 +752,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI chatbots could be making you stupider",
-      "summary": "Article URL: https://www.bbc.com/future/article/20260417-ai-chatbots-could-be-making-you-stupider Comments URL: https://news.ycombinator.com/item?id=47834134 Points: 56 # Comments: 64",
+      "summary": "Article URL: https://www.bbc.com/future/article/20260417-ai-chatbots-could-be-making-you-stupider Comments URL: https://news.ycombinator.com/item?id=47834134 Points: 56 # Comments: 65",
       "source": "Hacker News",
       "published": "2026-04-20T13:36:11+00:00",
       "link": "https://www.bbc.com/future/article/20260417-ai-chatbots-could-be-making-you-stupider"
@@ -696,7 +787,7 @@ const FEED_DATA = {
     },
     {
       "title": "Atlassian enables default data collection to train AI",
-      "summary": "Article URL: https://letsdatascience.com/news/atlassian-enables-default-data-collection-to-train-ai-f71343d8 Comments URL: https://news.ycombinator.com/item?id=47833247 Points: 597 # Comments: 131",
+      "summary": "Article URL: https://letsdatascience.com/news/atlassian-enables-default-data-collection-to-train-ai-f71343d8 Comments URL: https://news.ycombinator.com/item?id=47833247 Points: 598 # Comments: 134",
       "source": "Hacker News",
       "published": "2026-04-20T12:23:39+00:00",
       "link": "https://letsdatascience.com/news/atlassian-enables-default-data-collection-to-train-ai-f71343d8"
@@ -710,7 +801,7 @@ const FEED_DATA = {
     },
     {
       "title": "A Pascal's Wager for AI doomers",
-      "summary": "Article URL: https://pluralistic.net/2026/04/16/pascals-wager/ Comments URL: https://news.ycombinator.com/item?id=47832887 Points: 67 # Comments: 113",
+      "summary": "Article URL: https://pluralistic.net/2026/04/16/pascals-wager/ Comments URL: https://news.ycombinator.com/item?id=47832887 Points: 67 # Comments: 115",
       "source": "Hacker News",
       "published": "2026-04-20T11:42:17+00:00",
       "link": "https://pluralistic.net/2026/04/16/pascals-wager/"
@@ -1309,97 +1400,6 @@ const FEED_DATA = {
       "source": "The Verge",
       "published": "2026-04-16T17:00:00+00:00",
       "link": "https://www.theverge.com/ai-artificial-intelligence/913034/openai-codex-updates-use-macos"
-    },
-    {
-      "title": "OpenAI says more women than men now use ChatGPT, flipping an 80-20 male split at launch",
-      "summary": "More women than men now use ChatGPT regularly, according to OpenAI's own data. The company also estimates China's AI spending at up to $125 billion and argues that computing power is becoming the defining competitive advantage in the AI race.",
-      "source": "The Decoder",
-      "published": "2026-04-16T16:47:39+00:00",
-      "link": "https://the-decoder.com/openai-says-more-women-than-men-now-use-chatgpt-flipping-an-80-20-male-split-at-launch/"
-    },
-    {
-      "title": "Nvidia wants to scale robot simulation training with Lyra 2.0",
-      "summary": "Nvidia researchers have unveiled Lyra 2.0, a system that generates large, coherent 3D environments from a single photograph. The resulting scenes can be explored in real time and used directly in robot simulations.",
-      "source": "The Decoder",
-      "published": "2026-04-16T16:33:31+00:00",
-      "link": "https://the-decoder.com/nvidia-wants-to-scale-robot-simulation-training-with-lyra-2-0/"
-    },
-    {
-      "title": "India's 1.5 million annual IT graduates face an industry that's moving on without them",
-      "summary": "A Bloomberg report reveals how agentic AI is shaking up India's massive IT industry. Companies like Infosys are spending weeks retraining new hires because the country's universities aren't keeping up with reality.",
-      "source": "The Decoder",
-      "published": "2026-04-16T16:26:49+00:00",
-      "link": "https://the-decoder.com/indias-1-5-million-annual-it-graduates-face-an-industry-thats-moving-on-without-them/"
-    },
-    {
-      "title": "Google launches native Gemini app for Mac",
-      "summary": "Google has released a native Gemini app for Mac, marking the first desktop version of its AI assistant alongside the existing smartphone apps. The article Google launches native Gemini app for Mac appeared first on The Decoder.",
-      "source": "The Decoder",
-      "published": "2026-04-16T16:18:48+00:00",
-      "link": "https://the-decoder.com/google-launches-native-gemini-app-for-mac/"
-    },
-    {
-      "title": "InsightFinder raises $15M to help companies figure out where AI agents go wrong",
-      "summary": "According to CEO Helen Gu, the biggest problem facing the industry today is not just monitoring and diagnosing where AI models go wrong — it's also diagnosing how the entire tech stack operates now that AI is part of it.",
-      "source": "TechCrunch",
-      "published": "2026-04-16T16:15:00+00:00",
-      "link": "https://techcrunch.com/2026/04/16/insightfinder-raises-15m-to-help-companies-figure-out-where-ai-agents-go-wrong/"
-    },
-    {
-      "title": "AI traffic to US retailers rose 393% in Q1, and it’s boosting their revenue too",
-      "summary": "Adobe says AI traffic to U.S. retail sites also jumped 269% in March, with visitors converting better and generating more revenue than non-AI shoppers.",
-      "source": "TechCrunch",
-      "published": "2026-04-16T16:14:03+00:00",
-      "link": "https://techcrunch.com/2026/04/16/ai-traffic-to-us-retailers-rose-393-in-q1-and-its-boosting-their-revenue-too/"
-    },
-    {
-      "title": "Gemini can now pull from Google Photos to generate personalized images",
-      "summary": "Google's Personal Intelligence feature, which lets Gemini pull data from apps like Google Photos to offer responses tailored to you, can now use that data and its Nano Banana 2 image model to create images based on your personal context.",
-      "source": "The Verge",
-      "published": "2026-04-16T16:00:00+00:00",
-      "link": "https://www.theverge.com/tech/913202/gemini-personal-intelligence-images-nano-banana"
-    },
-    {
-      "title": "Roblox’s AI assistant gets new agentic tools to plan, build, and test games",
-      "summary": "The new tools are designed to help creators throughout the entire development process.",
-      "source": "TechCrunch",
-      "published": "2026-04-16T16:00:00+00:00",
-      "link": "https://techcrunch.com/2026/04/16/robloxs-ai-assistant-gets-new-agentic-tools-to-plan-build-and-test-games/"
-    },
-    {
-      "title": "Anthropic releases a new Opus model amid Mythos Preview buzz",
-      "summary": "Anthropic has released its most powerful \"generally available\" model to date: Claude Opus 4.7. The company called it a step up from Opus 4.6 for advanced software engineering tasks, particularly in complex coding areas that in the past required more hand-holding.",
-      "source": "The Verge",
-      "published": "2026-04-16T15:59:24+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/913184/anthropic-claude-opus-4-7-cybersecurity"
-    },
-    {
-      "title": "Anthropic's Claude Opus 4.7 makes a big leap in coding, while deliberately scaling back cyber capabilities",
-      "summary": "Anthropic's new flagship model Claude Opus 4.7 delivers major improvements in coding tasks. During training, the company deliberately tried to reduce certain cybersecurity capabilities.",
-      "source": "The Decoder",
-      "published": "2026-04-16T15:52:49+00:00",
-      "link": "https://the-decoder.com/anthropics-claude-opus-4-7-makes-a-big-leap-in-coding-while-deliberately-scaling-back-cyber-capabilities/"
-    },
-    {
-      "title": "Apple sends Siri developers to AI coding bootcamp",
-      "summary": "Apple is sending some of its Siri developers back to school. Fewer than 200 engineers will go through a multi-week bootcamp to learn how to use AI coding tools like Anthropic's Claude Code or OpenAI's Codex, according to The Information.",
-      "source": "The Decoder",
-      "published": "2026-04-16T15:28:14+00:00",
-      "link": "https://the-decoder.com/apple-sends-siri-developers-to-ai-coding-bootcamp/"
-    },
-    {
-      "title": "OpenAI wants to sell more ads in ChatGPT, but advertisers are struggling with basic tools",
-      "summary": "OpenAI is expanding its advertising business in ChatGPT and introducing new pricing models. But early advertisers are running into a lack of tracking tools and limited targeting options.",
-      "source": "The Decoder",
-      "published": "2026-04-16T15:23:44+00:00",
-      "link": "https://the-decoder.com/openai-wants-to-sell-more-ads-in-chatgpt-but-advertisers-are-struggling-with-basic-tools/"
-    },
-    {
-      "title": "We gave an AI a 3 year retail lease and asked it to make a profit",
-      "summary": "Article URL: https://andonlabs.com/blog/andon-market-launch Comments URL: https://news.ycombinator.com/item?id=47794391 Points: 198 # Comments: 286",
-      "source": "Hacker News",
-      "published": "2026-04-16T15:13:13+00:00",
-      "link": "https://andonlabs.com/blog/andon-market-launch"
     }
   ]
 };
