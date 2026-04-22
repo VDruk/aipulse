@@ -1,6 +1,34 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-04-22T06:57:41.669042+00:00",
+  "lastUpdated": "2026-04-22T10:08:16.211002+00:00",
   "items": [
+    {
+      "title": "Join Our Livestream: Musk v. Altman and the Future of OpenAI",
+      "summary": "On May 8, we’re going live to answer your questions about the Musk v. Altman trial that could determine the fate of OpenAI.",
+      "source": "Wired",
+      "published": "2026-04-22T10:00:00+00:00",
+      "link": "https://www.wired.com/story/livestream-musk-v-altman-trial/"
+    },
+    {
+      "title": "The Pope’s Warnings About AI Were AI-Generated, a Detection Tool Claims",
+      "summary": "Pangram Labs’ updated Chrome extension puts warning labels on AI slop as you scroll your social feeds.",
+      "source": "Wired",
+      "published": "2026-04-22T09:30:00+00:00",
+      "link": "https://www.wired.com/story/pope-tweets-ai-generated-pangram-chrome-extension/"
+    },
+    {
+      "title": "Anthropic’s most dangerous AI model just fell into the wrong hands",
+      "summary": "Anthropic's Mythos AI model, a powerful cybersecurity tool that the company said could be dangerous in the wrong hands, has been accessed by a \"small group of unauthorized users,\" Bloomberg reports.",
+      "source": "The Verge",
+      "published": "2026-04-22T09:18:40+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/916501/anthropic-mythos-unauthorized-users-access-security"
+    },
+    {
+      "title": "The role of AI in modern forex bot development",
+      "summary": "Artificial intelligence has become a defining force in financial markets. And currency trading is no exception.",
+      "source": "AI News",
+      "published": "2026-04-22T07:34:01+00:00",
+      "link": "https://www.artificialintelligence-news.com/news/the-role-of-ai-in-modern-forex-bot-development/"
+    },
     {
       "title": "Tell HN: I'm sick of AI everything",
       "summary": "A while back, I stopped using Facebook because I just couldn't take it anymore. Just totally sick of it.",
@@ -136,7 +164,7 @@ const FEED_DATA = {
     },
     {
       "title": "Meta to start capturing employee mouse movements, keystrokes for AI training",
-      "summary": "Alt link: https://tech.yahoo.com/ai/meta-ai/articles/exclusive-meta-st... Comments URL: https://news.ycombinator.com/item?id=47851948 Points: 480 # Comments: 357",
+      "summary": "Alt link: https://tech.yahoo.com/ai/meta-ai/articles/exclusive-meta-st... Comments URL: https://news.ycombinator.com/item?id=47851948 Points: 559 # Comments: 404",
       "source": "Hacker News",
       "published": "2026-04-21T17:40:39+00:00",
       "link": "https://www.reuters.com/sustainability/boards-policy-regulation/meta-start-capturing-employee-mouse-movements-keystrokes-ai-training-data-2026-04-21/"
@@ -206,7 +234,7 @@ const FEED_DATA = {
     },
     {
       "title": "CrabTrap: An LLM-as-a-judge HTTP proxy to secure agents in production",
-      "summary": "https://www.brex.com/journal/building-crabtrap-open-source Comments URL: https://news.ycombinator.com/item?id=47850212 Points: 108 # Comments: 36",
+      "summary": "https://www.brex.com/journal/building-crabtrap-open-source Comments URL: https://news.ycombinator.com/item?id=47850212 Points: 112 # Comments: 41",
       "source": "Hacker News",
       "published": "2026-04-21T15:29:16+00:00",
       "link": "https://www.brex.com/crabtrap"
@@ -227,7 +255,7 @@ const FEED_DATA = {
     },
     {
       "title": "Scammer Used an AI-Generated MAGA Girl to Grift 'Super Dumb' Men",
-      "summary": "Article URL: https://www.wired.com/story/ai-generated-maga-girls/ Comments URL: https://news.ycombinator.com/item?id=47849494 Points: 64 # Comments: 34",
+      "summary": "Article URL: https://www.wired.com/story/ai-generated-maga-girls/ Comments URL: https://news.ycombinator.com/item?id=47849494 Points: 65 # Comments: 34",
       "source": "Hacker News",
       "published": "2026-04-21T14:41:36+00:00",
       "link": "https://www.wired.com/story/ai-generated-maga-girls/"
@@ -332,14 +360,14 @@ const FEED_DATA = {
     },
     {
       "title": "Less human AI agents, please",
-      "summary": "Article URL: https://nial.se/blog/less-human-ai-agents-please/ Comments URL: https://news.ycombinator.com/item?id=47845429 Points: 142 # Comments: 152",
+      "summary": "Article URL: https://nial.se/blog/less-human-ai-agents-please/ Comments URL: https://news.ycombinator.com/item?id=47845429 Points: 145 # Comments: 153",
       "source": "Hacker News",
       "published": "2026-04-21T06:58:08+00:00",
       "link": "https://nial.se/blog/less-human-ai-agents-please/"
     },
     {
       "title": "A Roblox cheat and one AI tool brought down Vercel's platform",
-      "summary": "Article URL: https://webmatrices.com/post/how-a-roblox-cheat-and-one-ai-tool-brought-down-vercel-s-entire-platform Comments URL: https://news.ycombinator.com/item?id=47844431 Points: 279 # Comments: 157",
+      "summary": "Article URL: https://webmatrices.com/post/how-a-roblox-cheat-and-one-ai-tool-brought-down-vercel-s-entire-platform Comments URL: https://news.ycombinator.com/item?id=47844431 Points: 281 # Comments: 159",
       "source": "Hacker News",
       "published": "2026-04-21T04:12:12+00:00",
       "link": "https://webmatrices.com/post/how-a-roblox-cheat-and-one-ai-tool-brought-down-vercel-s-entire-platform"
@@ -437,7 +465,7 @@ const FEED_DATA = {
     },
     {
       "title": "Deezer says 44% of songs uploaded to its platform daily are AI-generated",
-      "summary": "Article URL: https://techcrunch.com/2026/04/20/deezer-says-44-of-songs-uploaded-to-its-platform-daily-are-ai-generated/ Comments URL: https://news.ycombinator.com/item?id=47835928 Points: 358 # Comments: 384",
+      "summary": "Article URL: https://techcrunch.com/2026/04/20/deezer-says-44-of-songs-uploaded-to-its-platform-daily-are-ai-generated/ Comments URL: https://news.ycombinator.com/item?id=47835928 Points: 359 # Comments: 384",
       "source": "Hacker News",
       "published": "2026-04-20T15:41:02+00:00",
       "link": "https://techcrunch.com/2026/04/20/deezer-says-44-of-songs-uploaded-to-its-platform-daily-are-ai-generated/"
@@ -465,7 +493,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI chatbots could be making you stupider",
-      "summary": "Article URL: https://www.bbc.com/future/article/20260417-ai-chatbots-could-be-making-you-stupider Comments URL: https://news.ycombinator.com/item?id=47834134 Points: 54 # Comments: 64",
+      "summary": "Article URL: https://www.bbc.com/future/article/20260417-ai-chatbots-could-be-making-you-stupider Comments URL: https://news.ycombinator.com/item?id=47834134 Points: 56 # Comments: 64",
       "source": "Hacker News",
       "published": "2026-04-20T13:36:11+00:00",
       "link": "https://www.bbc.com/future/article/20260417-ai-chatbots-could-be-making-you-stupider"
@@ -500,7 +528,7 @@ const FEED_DATA = {
     },
     {
       "title": "Atlassian enables default data collection to train AI",
-      "summary": "Article URL: https://letsdatascience.com/news/atlassian-enables-default-data-collection-to-train-ai-f71343d8 Comments URL: https://news.ycombinator.com/item?id=47833247 Points: 595 # Comments: 130",
+      "summary": "Article URL: https://letsdatascience.com/news/atlassian-enables-default-data-collection-to-train-ai-f71343d8 Comments URL: https://news.ycombinator.com/item?id=47833247 Points: 596 # Comments: 130",
       "source": "Hacker News",
       "published": "2026-04-20T12:23:39+00:00",
       "link": "https://letsdatascience.com/news/atlassian-enables-default-data-collection-to-train-ai-f71343d8"
@@ -682,7 +710,7 @@ const FEED_DATA = {
     },
     {
       "title": "College instructor turns to typewriters to curb AI-written work",
-      "summary": "Article URL: https://sentinelcolorado.com/uncategorized/a-college-instructor-turns-to-typewriters-to-curb-ai-written-work-and-teach-life-lessons/ Comments URL: https://news.ycombinator.com/item?id=47818485 Points: 489 # Comments: 429",
+      "summary": "Article URL: https://sentinelcolorado.com/uncategorized/a-college-instructor-turns-to-typewriters-to-curb-ai-written-work-and-teach-life-lessons/ Comments URL: https://news.ycombinator.com/item?id=47818485 Points: 490 # Comments: 429",
       "source": "Hacker News",
       "published": "2026-04-18T19:00:00+00:00",
       "link": "https://sentinelcolorado.com/uncategorized/a-college-instructor-turns-to-typewriters-to-curb-ai-written-work-and-teach-life-lessons/"
@@ -723,18 +751,18 @@ const FEED_DATA = {
       "link": "https://the-decoder.com/just-ten-minutes-of-using-ai-as-an-answer-machine-can-measurably-erode-problem-solving-skills-new-study-finds/"
     },
     {
-      "title": "Schematik Is ‘Cursor for Hardware.’ Anthropic Wants In",
-      "summary": "Schematik is a program that aims to help people vibe code for physical devices. Hopefully, it won’t blow anything up.",
-      "source": "Wired",
-      "published": "2026-04-18T10:30:00+00:00",
-      "link": "https://www.wired.com/story/schematik-is-cursor-for-hardware-anthropic-wants-in-on-it/"
-    },
-    {
       "title": "It Takes 2 Minutes to Hack the EU’s New Age-Verification App",
       "summary": "Plus: Major data breaches at a gym chain and hotel giant, a disruptive DDoS attack against Bluesky, dubious ICE hires, and more.",
       "source": "Wired",
       "published": "2026-04-18T10:30:00+00:00",
       "link": "https://www.wired.com/story/security-news-this-week-it-takes-2-minutes-to-hack-the-eus-new-age-verification-app/"
+    },
+    {
+      "title": "Schematik Is ‘Cursor for Hardware.’ Anthropic Wants In",
+      "summary": "Schematik is a program that aims to help people vibe code for physical devices. Hopefully, it won’t blow anything up.",
+      "source": "Wired",
+      "published": "2026-04-18T10:30:00+00:00",
+      "link": "https://www.wired.com/story/schematik-is-cursor-for-hardware-anthropic-wants-in-on-it/"
     },
     {
       "title": "Anthropic CEO Amodei declares \"there is no end to the rainbow\" for AI scaling",
@@ -1372,34 +1400,6 @@ const FEED_DATA = {
       "source": "Hacker News",
       "published": "2026-04-16T03:35:11+00:00",
       "link": "https://sleepingrobots.com/dreams/stop-using-ollama/"
-    },
-    {
-      "title": "Amazon AI Cancelling Webcomics",
-      "summary": "Article URL: http://www.kleefeldoncomics.com/2026/04/amazon-ai-cancelling-webcomics.html Comments URL: https://news.ycombinator.com/item?id=47787368 Points: 62 # Comments: 10",
-      "source": "Hacker News",
-      "published": "2026-04-16T00:52:33+00:00",
-      "link": "http://www.kleefeldoncomics.com/2026/04/amazon-ai-cancelling-webcomics.html"
-    },
-    {
-      "title": "Does Gas Town 'steal' usage from users' LLM credits to improve itself?",
-      "summary": "Article URL: https://github.com/gastownhall/gastown/issues/3649 Comments URL: https://news.ycombinator.com/item?id=47785053 Points: 253 # Comments: 127",
-      "source": "Hacker News",
-      "published": "2026-04-15T20:49:48+00:00",
-      "link": "https://github.com/gastownhall/gastown/issues/3649"
-    },
-    {
-      "title": "Trump’s posting even more AI-generated Trump-Jesus fan art",
-      "summary": "Hello and welcome to Regulator, a newsletter for Verge subscribers about Big Tech power plays in Washington and beyond.",
-      "source": "The Verge",
-      "published": "2026-04-15T19:50:31+00:00",
-      "link": "https://www.theverge.com/column/912627/trump-jesus-ai-whcd-penguin-meme"
-    },
-    {
-      "title": "OpenAI updates its Agents SDK to help enterprises build safer, more capable agents",
-      "summary": "OpenAI has expanded the capabilities of its agent-building toolkit, as agentic AI continues to grow in popularity.",
-      "source": "TechCrunch",
-      "published": "2026-04-15T19:28:36+00:00",
-      "link": "https://techcrunch.com/2026/04/15/openai-updates-its-agents-sdk-to-help-enterprises-build-safer-more-capable-agents/"
     }
   ]
 };
