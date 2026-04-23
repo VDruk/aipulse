@@ -1,6 +1,13 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-04-23T04:12:27.635889+00:00",
+  "lastUpdated": "2026-04-23T07:01:42.232737+00:00",
   "items": [
+    {
+      "title": "India’s app market is booming — but global platforms are capturing most of the gains",
+      "summary": "Non-gaming apps, led by streaming and AI, are driving growth, even as India's spending per user lags global peers.",
+      "source": "TechCrunch",
+      "published": "2026-04-23T04:38:45+00:00",
+      "link": "https://techcrunch.com/2026/04/22/indias-app-market-is-booming-but-global-platforms-are-capturing-most-of-the-gains/"
+    },
     {
       "title": "Tesla just increased its spending plan to $25B — here’s where the money is going",
       "summary": "Tesla's planned capex for 2026 is three times higher than what the company has historically spent. Its CFO said, as a result, Tesla will have a negative free cash flow the rest of the year.",
@@ -94,7 +101,7 @@ const FEED_DATA = {
     },
     {
       "title": "Anker made its own chip to bring AI to all its products",
-      "summary": "Article URL: https://www.theverge.com/tech/916463/anker-thus-chip-announcement Comments URL: https://news.ycombinator.com/item?id=47866368 Points: 65 # Comments: 41",
+      "summary": "Article URL: https://www.theverge.com/tech/916463/anker-thus-chip-announcement Comments URL: https://news.ycombinator.com/item?id=47866368 Points: 65 # Comments: 44",
       "source": "Hacker News",
       "published": "2026-04-22T17:10:46+00:00",
       "link": "https://www.theverge.com/tech/916463/anker-thus-chip-announcement"
@@ -157,14 +164,14 @@ const FEED_DATA = {
     },
     {
       "title": "Top MAGA influencer revealed to be AI",
-      "summary": "Article URL: https://nypost.com/2026/04/21/us-news/top-maga-influencer-emily-hart-revealed-to-be-ai-created-by-a-guy-in-india/ Comments URL: https://news.ycombinator.com/item?id=47864808 Points: 82 # Comments: 45",
+      "summary": "Article URL: https://nypost.com/2026/04/21/us-news/top-maga-influencer-emily-hart-revealed-to-be-ai-created-by-a-guy-in-india/ Comments URL: https://news.ycombinator.com/item?id=47864808 Points: 84 # Comments: 46",
       "source": "Hacker News",
       "published": "2026-04-22T15:15:04+00:00",
       "link": "https://nypost.com/2026/04/21/us-news/top-maga-influencer-emily-hart-revealed-to-be-ai-created-by-a-guy-in-india/"
     },
     {
       "title": "Scoring Show HN submissions for AI design patterns",
-      "summary": "Article URL: https://www.adriankrebs.ch/blog/design-slop/ Comments URL: https://news.ycombinator.com/item?id=47864393 Points: 289 # Comments: 211",
+      "summary": "Article URL: https://www.adriankrebs.ch/blog/design-slop/ Comments URL: https://news.ycombinator.com/item?id=47864393 Points: 301 # Comments: 214",
       "source": "Hacker News",
       "published": "2026-04-22T14:44:32+00:00",
       "link": "https://www.adriankrebs.ch/blog/design-slop/"
@@ -255,7 +262,7 @@ const FEED_DATA = {
     },
     {
       "title": "Kernel code removals driven by LLM-created security reports",
-      "summary": "Article URL: https://lwn.net/Articles/1068928/ Comments URL: https://news.ycombinator.com/item?id=47862230 Points: 103 # Comments: 90",
+      "summary": "Article URL: https://lwn.net/Articles/1068928/ Comments URL: https://news.ycombinator.com/item?id=47862230 Points: 112 # Comments: 94",
       "source": "Hacker News",
       "published": "2026-04-22T11:48:07+00:00",
       "link": "https://lwn.net/Articles/1068928/"
@@ -290,7 +297,7 @@ const FEED_DATA = {
     },
     {
       "title": "Meta employees are up in arms over a mandatory program to train AI on their",
-      "summary": "Article URL: https://www.businessinsider.com/meta-new-ai-tool-tracks-staff-activity-sparks-concern-2026-4 Comments URL: https://news.ycombinator.com/item?id=47860961 Points: 110 # Comments: 85",
+      "summary": "Article URL: https://www.businessinsider.com/meta-new-ai-tool-tracks-staff-activity-sparks-concern-2026-4 Comments URL: https://news.ycombinator.com/item?id=47860961 Points: 111 # Comments: 87",
       "source": "Hacker News",
       "published": "2026-04-22T09:02:46+00:00",
       "link": "https://www.businessinsider.com/meta-new-ai-tool-tracks-staff-activity-sparks-concern-2026-4"
@@ -437,7 +444,7 @@ const FEED_DATA = {
     },
     {
       "title": "Meta to start capturing employee mouse movements, keystrokes for AI training",
-      "summary": "Alt link: https://tech.yahoo.com/ai/meta-ai/articles/exclusive-meta-st... Comments URL: https://news.ycombinator.com/item?id=47851948 Points: 773 # Comments: 512",
+      "summary": "Alt link: https://tech.yahoo.com/ai/meta-ai/articles/exclusive-meta-st... Comments URL: https://news.ycombinator.com/item?id=47851948 Points: 777 # Comments: 512",
       "source": "Hacker News",
       "published": "2026-04-21T17:40:39+00:00",
       "link": "https://www.reuters.com/sustainability/boards-policy-regulation/meta-start-capturing-employee-mouse-movements-keystrokes-ai-training-data-2026-04-21/"
@@ -682,7 +689,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI Resistance: some recent anti-AI stuff that’s worth discussing",
-      "summary": "Article URL: https://stephvee.ca/blog/artificial%20intelligence/ai-resistance-is-growing/ Comments URL: https://news.ycombinator.com/item?id=47839951 Points: 386 # Comments: 410",
+      "summary": "Article URL: https://stephvee.ca/blog/artificial%20intelligence/ai-resistance-is-growing/ Comments URL: https://news.ycombinator.com/item?id=47839951 Points: 386 # Comments: 412",
       "source": "Hacker News",
       "published": "2026-04-20T20:19:13+00:00",
       "link": "https://stephvee.ca/blog/artificial%20intelligence/ai-resistance-is-growing/"
@@ -808,7 +815,7 @@ const FEED_DATA = {
     },
     {
       "title": "Atlassian enables default data collection to train AI",
-      "summary": "Article URL: https://letsdatascience.com/news/atlassian-enables-default-data-collection-to-train-ai-f71343d8 Comments URL: https://news.ycombinator.com/item?id=47833247 Points: 598 # Comments: 134",
+      "summary": "Article URL: https://letsdatascience.com/news/atlassian-enables-default-data-collection-to-train-ai-f71343d8 Comments URL: https://news.ycombinator.com/item?id=47833247 Points: 599 # Comments: 134",
       "source": "Hacker News",
       "published": "2026-04-20T12:23:39+00:00",
       "link": "https://letsdatascience.com/news/atlassian-enables-default-data-collection-to-train-ai-f71343d8"
@@ -1393,13 +1400,6 @@ const FEED_DATA = {
       "source": "Wired",
       "published": "2026-04-16T17:00:00+00:00",
       "link": "https://www.wired.com/story/google-ai-mode-update-tries-to-kill-tab-hopping-in-chrome/"
-    },
-    {
-      "title": "OpenAI’s big Codex update is a direct shot at Claude Code",
-      "summary": "OpenAI is beefing up its agentic coding and development system, Codex, with a suite of updates that let it use your computer, generate images, and remember from past experiences.",
-      "source": "The Verge",
-      "published": "2026-04-16T17:00:00+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/913034/openai-codex-updates-use-macos"
     }
   ]
 };
