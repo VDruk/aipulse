@@ -1,12 +1,82 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-04-23T18:03:45.984130+00:00",
+  "lastUpdated": "2026-04-23T21:39:12.044645+00:00",
   "items": [
+    {
+      "title": "Bret Taylor’s Sierra buys YC-backed AI startup Fragment",
+      "summary": "Sierra, the AI customer service agent startup founded by technologist Bret Taylor, announced today that it has acquired the YC-backed French startup Fragment.",
+      "source": "TechCrunch",
+      "published": "2026-04-23T21:00:00+00:00",
+      "link": "https://techcrunch.com/2026/04/23/bret-taylors-sierra-buys-yc-backed-ai-startup-fragment/"
+    },
+    {
+      "title": "Meet Noscroll, an AI bot that does your doomscrolling for you",
+      "summary": "Noscroll wants to cure doomscrolling with an AI bot that reads the internet for you.",
+      "source": "TechCrunch",
+      "published": "2026-04-23T19:38:25+00:00",
+      "link": "https://techcrunch.com/2026/04/23/meet-noscroll-an-ai-bot-that-does-your-doomscrolling-for-you/"
+    },
+    {
+      "title": "OpenAI unveils GPT-5.5, claims a \"new class of intelligence\" at double the API price",
+      "summary": "OpenAI has announced GPT-5.5, an agentic model designed to work through complex tasks autonomously by switching between multiple tools. The article OpenAI unveils GPT-5.5, claims a \"new class of intelligence\" at double the API price appeared first on The Decoder.",
+      "source": "The Decoder",
+      "published": "2026-04-23T19:01:07+00:00",
+      "link": "https://the-decoder.com/openai-unveils-gpt-5-5-claims-a-new-class-of-intelligence-at-double-the-api-price/"
+    },
+    {
+      "title": "OpenAI releases GPT-5.5, bringing company one step closer to an AI ‘super app’",
+      "summary": "OpenAI says its latest model offers increased capabilities across a broad variety of categories.",
+      "source": "TechCrunch",
+      "published": "2026-04-23T18:29:29+00:00",
+      "link": "https://techcrunch.com/2026/04/23/openai-chatgpt-gpt-5-5-ai-model-superapp/"
+    },
+    {
+      "title": "Anthropic’s Mythos breach was humiliating",
+      "summary": "Anthropic's tightly controlled rollout of Claude Mythos has taken an awkward turn. After spending weeks insisting the AI model is so capable at cybersecurity that it is too dangerous to release publicly, it appears the model fell into the wrong hands anyway.",
+      "source": "The Verge",
+      "published": "2026-04-23T18:24:56+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/917644/anthropic-claude-mythos-breach-humiliation"
+    },
+    {
+      "title": "At 'AI Coachella,' Stanford Students Line Up to Learn From Silicon Valley Royalty",
+      "summary": "CS 153 has gone viral on the Palo Alto campus—and on X. Not everyone is happy about it.",
+      "source": "Wired",
+      "published": "2026-04-23T18:24:37+00:00",
+      "link": "https://www.wired.com/story/stanford-cs-class-ai-coachella-ben-horowitz/"
+    },
+    {
+      "title": "Trump science advisor says Chinese actors are copying American AI at massive scale",
+      "summary": "The US government says it has evidence of large-scale, industrial distillation campaigns targeting American frontier models, with China as the primary culprit. Now the Trump administration is moving to fight back.",
+      "source": "The Decoder",
+      "published": "2026-04-23T18:04:39+00:00",
+      "link": "https://the-decoder.com/trump-science-advisor-says-chinese-actors-are-copying-american-ai-at-massive-scale/"
+    },
+    {
+      "title": "GPT-5.5",
+      "summary": "Article URL: https://openai.com/index/introducing-gpt-5-5/ Comments URL: https://news.ycombinator.com/item?id=47879092 Points: 832 # Comments: 437",
+      "source": "Hacker News",
+      "published": "2026-04-23T18:01:39+00:00",
+      "link": "https://openai.com/index/introducing-gpt-5-5/"
+    },
+    {
+      "title": "OpenAI says its new GPT-5.5 model is more efficient and better at coding",
+      "summary": "OpenAI just announced its new GPT-5.5 model, which the company calls its \"smartest and most intuitive to use model yet, and the next step toward a new way of getting work done on a computer.\" OpenAI just released GPT-5.4 last month, but says that the new GPT-5.5 \"excels\" at...",
+      "source": "The Verge",
+      "published": "2026-04-23T18:00:00+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/917612/openai-gpt-5-5-chatgpt"
+    },
     {
       "title": "Google's open-source DESIGN.md gives AI agents a prompt-ready blueprint for brand-consistent design",
       "summary": "Google is open-sourcing the agent prompt behind its AI design tool Stitch. The DESIGN.md format is built to teach AI agents how to follow brand rules.",
       "source": "The Decoder",
       "published": "2026-04-23T17:20:06+00:00",
       "link": "https://the-decoder.com/googles-open-source-design-md-gives-ai-agents-a-prompt-ready-blueprint-for-brand-consistent-design/"
+    },
+    {
+      "title": "MeshCore development team splits over trademark dispute and AI-generated code",
+      "summary": "Article URL: https://blog.meshcore.io/2026/04/23/the-split Comments URL: https://news.ycombinator.com/item?id=47878117 Points: 103 # Comments: 59",
+      "source": "Hacker News",
+      "published": "2026-04-23T16:55:13+00:00",
+      "link": "https://blog.meshcore.io/2026/04/23/the-split"
     },
     {
       "title": "OpenAI's new Trusted Access program gives Microsoft its most capable models for cyber defense",
@@ -17,7 +87,7 @@ const FEED_DATA = {
     },
     {
       "title": "Era raises $11M to build a software platform for AI gadgets",
-      "summary": "Era thinks that we will see many form factors of AI hardware, including glasses, rings, and pendants",
+      "summary": "Era thinks that we will see many form factors of AI hardware, including glasses, rings, and pendants.",
       "source": "TechCrunch",
       "published": "2026-04-23T16:00:00+00:00",
       "link": "https://techcrunch.com/2026/04/23/era-computer-raises-11m-to-build-a-software-platform-for-ai-gadgets/"
@@ -128,8 +198,15 @@ const FEED_DATA = {
       "link": "https://www.artificialintelligence-news.com/news/sony-ai-robot-table-tennis-humanoid-robot-beijing-race/"
     },
     {
+      "title": "Do you want the US to \"win\" AI?",
+      "summary": "Article URL: https://geohot.github.io//blog/jekyll/update/2026/04/23/us-win-ai.html Comments URL: https://news.ycombinator.com/item?id=47873796 Points: 50 # Comments: 101",
+      "source": "Hacker News",
+      "published": "2026-04-23T09:41:20+00:00",
+      "link": "https://geohot.github.io//blog/jekyll/update/2026/04/23/us-win-ai.html"
+    },
+    {
       "title": "Our newsroom AI policy",
-      "summary": "Article URL: https://arstechnica.com/staff/2026/04/our-newsroom-ai-policy/ Comments URL: https://news.ycombinator.com/item?id=47872452 Points: 157 # Comments: 107",
+      "summary": "Article URL: https://arstechnica.com/staff/2026/04/our-newsroom-ai-policy/ Comments URL: https://news.ycombinator.com/item?id=47872452 Points: 179 # Comments: 122",
       "source": "Hacker News",
       "published": "2026-04-23T05:14:05+00:00",
       "link": "https://arstechnica.com/staff/2026/04/our-newsroom-ai-policy/"
@@ -234,7 +311,7 @@ const FEED_DATA = {
     },
     {
       "title": "Anker made its own chip to bring AI to all its products",
-      "summary": "Article URL: https://www.theverge.com/tech/916463/anker-thus-chip-announcement Comments URL: https://news.ycombinator.com/item?id=47866368 Points: 67 # Comments: 46",
+      "summary": "Article URL: https://www.theverge.com/tech/916463/anker-thus-chip-announcement Comments URL: https://news.ycombinator.com/item?id=47866368 Points: 67 # Comments: 47",
       "source": "Hacker News",
       "published": "2026-04-22T17:10:46+00:00",
       "link": "https://www.theverge.com/tech/916463/anker-thus-chip-announcement"
@@ -304,14 +381,14 @@ const FEED_DATA = {
     },
     {
       "title": "Top MAGA influencer revealed to be AI",
-      "summary": "Article URL: https://nypost.com/2026/04/21/us-news/top-maga-influencer-emily-hart-revealed-to-be-ai-created-by-a-guy-in-india/ Comments URL: https://news.ycombinator.com/item?id=47864808 Points: 96 # Comments: 50",
+      "summary": "Article URL: https://nypost.com/2026/04/21/us-news/top-maga-influencer-emily-hart-revealed-to-be-ai-created-by-a-guy-in-india/ Comments URL: https://news.ycombinator.com/item?id=47864808 Points: 96 # Comments: 53",
       "source": "Hacker News",
       "published": "2026-04-22T15:15:04+00:00",
       "link": "https://nypost.com/2026/04/21/us-news/top-maga-influencer-emily-hart-revealed-to-be-ai-created-by-a-guy-in-india/"
     },
     {
       "title": "Scoring Show HN submissions for AI design patterns",
-      "summary": "Article URL: https://www.adriankrebs.ch/blog/design-slop/ Comments URL: https://news.ycombinator.com/item?id=47864393 Points: 324 # Comments: 231",
+      "summary": "Article URL: https://www.adriankrebs.ch/blog/design-slop/ Comments URL: https://news.ycombinator.com/item?id=47864393 Points: 326 # Comments: 231",
       "source": "Hacker News",
       "published": "2026-04-22T14:44:32+00:00",
       "link": "https://www.adriankrebs.ch/blog/design-slop/"
@@ -402,7 +479,7 @@ const FEED_DATA = {
     },
     {
       "title": "Kernel code removals driven by LLM-created security reports",
-      "summary": "Article URL: https://lwn.net/Articles/1068928/ Comments URL: https://news.ycombinator.com/item?id=47862230 Points: 120 # Comments: 111",
+      "summary": "Article URL: https://lwn.net/Articles/1068928/ Comments URL: https://news.ycombinator.com/item?id=47862230 Points: 120 # Comments: 114",
       "source": "Hacker News",
       "published": "2026-04-22T11:48:07+00:00",
       "link": "https://lwn.net/Articles/1068928/"
@@ -584,7 +661,7 @@ const FEED_DATA = {
     },
     {
       "title": "Meta to start capturing employee mouse movements, keystrokes for AI training",
-      "summary": "Alt link: https://tech.yahoo.com/ai/meta-ai/articles/exclusive-meta-st... Comments URL: https://news.ycombinator.com/item?id=47851948 Points: 786 # Comments: 521",
+      "summary": "Alt link: https://tech.yahoo.com/ai/meta-ai/articles/exclusive-meta-st... Comments URL: https://news.ycombinator.com/item?id=47851948 Points: 789 # Comments: 522",
       "source": "Hacker News",
       "published": "2026-04-21T17:40:39+00:00",
       "link": "https://www.reuters.com/sustainability/boards-policy-regulation/meta-start-capturing-employee-mouse-movements-keystrokes-ai-training-data-2026-04-21/"
@@ -787,7 +864,7 @@ const FEED_DATA = {
     },
     {
       "title": "Less human AI agents, please",
-      "summary": "Article URL: https://nial.se/blog/less-human-ai-agents-please/ Comments URL: https://news.ycombinator.com/item?id=47845429 Points: 158 # Comments: 167",
+      "summary": "Article URL: https://nial.se/blog/less-human-ai-agents-please/ Comments URL: https://news.ycombinator.com/item?id=47845429 Points: 158 # Comments: 168",
       "source": "Hacker News",
       "published": "2026-04-21T06:58:08+00:00",
       "link": "https://nial.se/blog/less-human-ai-agents-please/"
@@ -1323,83 +1400,6 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-04-17T17:44:22+00:00",
       "link": "https://the-decoder.com/chatgpt-bleeds-market-share-as-claude-posts-explosive-monthly-growth/"
-    },
-    {
-      "title": "This charming gadget writes bad AI poetry",
-      "summary": "I've never been as charmed and frustrated by one gadget as I have with the Poetry Camera. It's a delightful object.",
-      "source": "The Verge",
-      "published": "2026-04-17T17:30:00+00:00",
-      "link": "https://www.theverge.com/gadgets/913981/poetry-camera-ai-hands-on"
-    },
-    {
-      "title": "Some OpenAI shareholders reportedly question whether Altman can steer the company to a public offering",
-      "summary": "With OpenAI's planned IPO valuing the company at around $850 billion, internal doubts about Sam Altman are reportedly growing. According to the Wall Street Journal, some shareholders are already floating a potential successor.",
-      "source": "The Decoder",
-      "published": "2026-04-17T16:52:34+00:00",
-      "link": "https://the-decoder.com/some-openai-shareholders-reportedly-question-whether-altman-can-steer-the-company-to-a-public-offering/"
-    },
-    {
-      "title": "Anthropic's Claude Design turns chatbot conversations into prototypes, slide decks, and marketing assets",
-      "summary": "Anthropic is launching Claude Design, a new tool that lets users create and refine designs, interactive prototypes, presentation slides, and one-pagers through a back-and-forth conversation with Claude.",
-      "source": "The Decoder",
-      "published": "2026-04-17T16:16:44+00:00",
-      "link": "https://the-decoder.com/anthropics-claude-design-turns-chatbot-conversations-into-prototypes-slide-decks-and-marketing-assets/"
-    },
-    {
-      "title": "Tokenmaxxing, OpenAI’s shopping spree, and the AI Anxiety Gap",
-      "summary": "The gap between AI insiders and everyone else is widening, and the spending, suspicion, and even new vocabulary are starting to show it.",
-      "source": "TechCrunch",
-      "published": "2026-04-17T15:57:40+00:00",
-      "link": "https://techcrunch.com/podcast/tokenmaxxing-openais-shopping-spree-and-the-ai-anxiety-gap/"
-    },
-    {
-      "title": "Dairy Queen is putting an AI chatbot in its drive-thrus",
-      "summary": "Dairy Queen is becoming the latest fast food chain to get in on AI, as it's bringing a chatbot to dozens of its drive-thrus across the US and Canada.",
-      "source": "The Verge",
-      "published": "2026-04-17T15:46:37+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/913928/dairy-queen-ai-drive-thru-presto"
-    },
-    {
-      "title": "AI Drafting My Stories? Over My Dead Body",
-      "summary": "AI-assisted writing is creeping into newsrooms under the guise of efficiency. But the trade-off may be more profound than publishers are willing to admit.",
-      "source": "Wired",
-      "published": "2026-04-17T15:46:06+00:00",
-      "link": "https://www.wired.com/story/backchannel-the-problem-with-letting-ai-do-the-writing/"
-    },
-    {
-      "title": "Anthropic launches Claude Design, a new product for creating quick visuals",
-      "summary": "The company says Claude Design is intended to help people like founders and product managers without a design background share their ideas more easily.",
-      "source": "TechCrunch",
-      "published": "2026-04-17T15:00:00+00:00",
-      "link": "https://techcrunch.com/2026/04/17/anthropic-launches-claude-design-a-new-product-for-creating-quick-visuals/"
-    },
-    {
-      "title": "Scan your website to see how ready it is for AI agents",
-      "summary": "Article URL: https://isitagentready.com Comments URL: https://news.ycombinator.com/item?id=47805998 Points: 112 # Comments: 178",
-      "source": "Hacker News",
-      "published": "2026-04-17T13:55:25+00:00",
-      "link": "https://isitagentready.com"
-    },
-    {
-      "title": "The ‘AI is inevitable’ trap",
-      "summary": "In the latest sign of AI silly season, Allbirds, the shoe company, told the world it was now an AI company and briefly managed to septuple its stock price.",
-      "source": "The Verge",
-      "published": "2026-04-17T13:24:34+00:00",
-      "link": "https://www.theverge.com/podcast/913792/ai-divide-sam-altman-vergecast"
-    },
-    {
-      "title": "Are we tokenmaxxing our way to nowhere?",
-      "summary": "The gap between AI insiders and everyone else is widening, and the spending, suspicion, and even new vocabulary are starting to show it.",
-      "source": "TechCrunch",
-      "published": "2026-04-17T13:00:00+00:00",
-      "link": "https://techcrunch.com/video/are-we-tokenmaxxing-our-way-to-nowhere/"
-    },
-    {
-      "title": "Google finds new ways to keep you from ever clicking a link again",
-      "summary": "Google is pushing AI mode deeper into Chrome: websites will soon open directly next to the AI response. That makes the traditional page visit even less relevant.",
-      "source": "The Decoder",
-      "published": "2026-04-17T12:22:35+00:00",
-      "link": "https://the-decoder.com/google-finds-new-ways-to-keep-you-from-ever-clicking-a-link-again/"
     }
   ]
 };
