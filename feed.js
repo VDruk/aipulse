@@ -1,6 +1,27 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-04-23T15:14:40.254544+00:00",
+  "lastUpdated": "2026-04-23T18:03:45.984130+00:00",
   "items": [
+    {
+      "title": "Google's open-source DESIGN.md gives AI agents a prompt-ready blueprint for brand-consistent design",
+      "summary": "Google is open-sourcing the agent prompt behind its AI design tool Stitch. The DESIGN.md format is built to teach AI agents how to follow brand rules.",
+      "source": "The Decoder",
+      "published": "2026-04-23T17:20:06+00:00",
+      "link": "https://the-decoder.com/googles-open-source-design-md-gives-ai-agents-a-prompt-ready-blueprint-for-brand-consistent-design/"
+    },
+    {
+      "title": "OpenAI's new Trusted Access program gives Microsoft its most capable models for cyber defense",
+      "summary": "OpenAI and Microsoft are joining forces to shore up cybersecurity as AI models become a bigger threat. The debate started with Anthropic's Mythos model, which is designed to hunt down security flaws on its own.",
+      "source": "The Decoder",
+      "published": "2026-04-23T16:09:29+00:00",
+      "link": "https://the-decoder.com/openais-new-trusted-access-program-gives-microsoft-its-most-capable-models-for-cyber-defense/"
+    },
+    {
+      "title": "Era raises $11M to build a software platform for AI gadgets",
+      "summary": "Era thinks that we will see many form factors of AI hardware, including glasses, rings, and pendants",
+      "source": "TechCrunch",
+      "published": "2026-04-23T16:00:00+00:00",
+      "link": "https://techcrunch.com/2026/04/23/era-computer-raises-11m-to-build-a-software-platform-for-ai-gadgets/"
+    },
     {
       "title": "Claude survey: new capabilities beat speed as top AI benefit, but creatives feel left behind",
       "summary": "A survey of 81,000 Claude users shows that gaining new capabilities ranks slightly ahead of speed as the most common productivity benefit. Creatives, meanwhile, feel both limited and threatened by AI.",
@@ -108,7 +129,7 @@ const FEED_DATA = {
     },
     {
       "title": "Our newsroom AI policy",
-      "summary": "Article URL: https://arstechnica.com/staff/2026/04/our-newsroom-ai-policy/ Comments URL: https://news.ycombinator.com/item?id=47872452 Points: 123 # Comments: 86",
+      "summary": "Article URL: https://arstechnica.com/staff/2026/04/our-newsroom-ai-policy/ Comments URL: https://news.ycombinator.com/item?id=47872452 Points: 157 # Comments: 107",
       "source": "Hacker News",
       "published": "2026-04-23T05:14:05+00:00",
       "link": "https://arstechnica.com/staff/2026/04/our-newsroom-ai-policy/"
@@ -213,7 +234,7 @@ const FEED_DATA = {
     },
     {
       "title": "Anker made its own chip to bring AI to all its products",
-      "summary": "Article URL: https://www.theverge.com/tech/916463/anker-thus-chip-announcement Comments URL: https://news.ycombinator.com/item?id=47866368 Points: 67 # Comments: 45",
+      "summary": "Article URL: https://www.theverge.com/tech/916463/anker-thus-chip-announcement Comments URL: https://news.ycombinator.com/item?id=47866368 Points: 67 # Comments: 46",
       "source": "Hacker News",
       "published": "2026-04-22T17:10:46+00:00",
       "link": "https://www.theverge.com/tech/916463/anker-thus-chip-announcement"
@@ -283,14 +304,14 @@ const FEED_DATA = {
     },
     {
       "title": "Top MAGA influencer revealed to be AI",
-      "summary": "Article URL: https://nypost.com/2026/04/21/us-news/top-maga-influencer-emily-hart-revealed-to-be-ai-created-by-a-guy-in-india/ Comments URL: https://news.ycombinator.com/item?id=47864808 Points: 94 # Comments: 48",
+      "summary": "Article URL: https://nypost.com/2026/04/21/us-news/top-maga-influencer-emily-hart-revealed-to-be-ai-created-by-a-guy-in-india/ Comments URL: https://news.ycombinator.com/item?id=47864808 Points: 96 # Comments: 50",
       "source": "Hacker News",
       "published": "2026-04-22T15:15:04+00:00",
       "link": "https://nypost.com/2026/04/21/us-news/top-maga-influencer-emily-hart-revealed-to-be-ai-created-by-a-guy-in-india/"
     },
     {
       "title": "Scoring Show HN submissions for AI design patterns",
-      "summary": "Article URL: https://www.adriankrebs.ch/blog/design-slop/ Comments URL: https://news.ycombinator.com/item?id=47864393 Points: 319 # Comments: 231",
+      "summary": "Article URL: https://www.adriankrebs.ch/blog/design-slop/ Comments URL: https://news.ycombinator.com/item?id=47864393 Points: 324 # Comments: 231",
       "source": "Hacker News",
       "published": "2026-04-22T14:44:32+00:00",
       "link": "https://www.adriankrebs.ch/blog/design-slop/"
@@ -381,7 +402,7 @@ const FEED_DATA = {
     },
     {
       "title": "Kernel code removals driven by LLM-created security reports",
-      "summary": "Article URL: https://lwn.net/Articles/1068928/ Comments URL: https://news.ycombinator.com/item?id=47862230 Points: 118 # Comments: 109",
+      "summary": "Article URL: https://lwn.net/Articles/1068928/ Comments URL: https://news.ycombinator.com/item?id=47862230 Points: 120 # Comments: 111",
       "source": "Hacker News",
       "published": "2026-04-22T11:48:07+00:00",
       "link": "https://lwn.net/Articles/1068928/"
@@ -416,7 +437,7 @@ const FEED_DATA = {
     },
     {
       "title": "Meta employees are up in arms over a mandatory program to train AI on their",
-      "summary": "Article URL: https://www.businessinsider.com/meta-new-ai-tool-tracks-staff-activity-sparks-concern-2026-4 Comments URL: https://news.ycombinator.com/item?id=47860961 Points: 115 # Comments: 88",
+      "summary": "Article URL: https://www.businessinsider.com/meta-new-ai-tool-tracks-staff-activity-sparks-concern-2026-4 Comments URL: https://news.ycombinator.com/item?id=47860961 Points: 115 # Comments: 89",
       "source": "Hacker News",
       "published": "2026-04-22T09:02:46+00:00",
       "link": "https://www.businessinsider.com/meta-new-ai-tool-tracks-staff-activity-sparks-concern-2026-4"
@@ -563,7 +584,7 @@ const FEED_DATA = {
     },
     {
       "title": "Meta to start capturing employee mouse movements, keystrokes for AI training",
-      "summary": "Alt link: https://tech.yahoo.com/ai/meta-ai/articles/exclusive-meta-st... Comments URL: https://news.ycombinator.com/item?id=47851948 Points: 783 # Comments: 520",
+      "summary": "Alt link: https://tech.yahoo.com/ai/meta-ai/articles/exclusive-meta-st... Comments URL: https://news.ycombinator.com/item?id=47851948 Points: 786 # Comments: 521",
       "source": "Hacker News",
       "published": "2026-04-21T17:40:39+00:00",
       "link": "https://www.reuters.com/sustainability/boards-policy-regulation/meta-start-capturing-employee-mouse-movements-keystrokes-ai-training-data-2026-04-21/"
@@ -633,7 +654,7 @@ const FEED_DATA = {
     },
     {
       "title": "CrabTrap: An LLM-as-a-judge HTTP proxy to secure agents in production",
-      "summary": "https://www.brex.com/journal/building-crabtrap-open-source Comments URL: https://news.ycombinator.com/item?id=47850212 Points: 128 # Comments: 55",
+      "summary": "https://www.brex.com/journal/building-crabtrap-open-source Comments URL: https://news.ycombinator.com/item?id=47850212 Points: 130 # Comments: 55",
       "source": "Hacker News",
       "published": "2026-04-21T15:29:16+00:00",
       "link": "https://www.brex.com/crabtrap"
@@ -654,7 +675,7 @@ const FEED_DATA = {
     },
     {
       "title": "Scammer used an AI-generated MAGA girl to grift men",
-      "summary": "https://archive.is/kXVNR Comments URL: https://news.ycombinator.com/item?id=47849494 Points: 80 # Comments: 34",
+      "summary": "https://archive.is/kXVNR Comments URL: https://news.ycombinator.com/item?id=47849494 Points: 80 # Comments: 35",
       "source": "Hacker News",
       "published": "2026-04-21T14:41:36+00:00",
       "link": "https://www.wired.com/story/ai-generated-maga-girls/"
@@ -766,7 +787,7 @@ const FEED_DATA = {
     },
     {
       "title": "Less human AI agents, please",
-      "summary": "Article URL: https://nial.se/blog/less-human-ai-agents-please/ Comments URL: https://news.ycombinator.com/item?id=47845429 Points: 157 # Comments: 167",
+      "summary": "Article URL: https://nial.se/blog/less-human-ai-agents-please/ Comments URL: https://news.ycombinator.com/item?id=47845429 Points: 158 # Comments: 167",
       "source": "Hacker News",
       "published": "2026-04-21T06:58:08+00:00",
       "link": "https://nial.se/blog/less-human-ai-agents-please/"
@@ -864,14 +885,14 @@ const FEED_DATA = {
     },
     {
       "title": "Peter Thiel Is Building a Parallel Justice System – Powered by AI",
-      "summary": "Article URL: https://www.codastory.com/polarization/can-we-trust-an-ai-jury-to-judge-journalism/ Comments URL: https://news.ycombinator.com/item?id=47836226 Points: 73 # Comments: 22",
+      "summary": "Article URL: https://www.codastory.com/polarization/can-we-trust-an-ai-jury-to-judge-journalism/ Comments URL: https://news.ycombinator.com/item?id=47836226 Points: 74 # Comments: 22",
       "source": "Hacker News",
       "published": "2026-04-20T16:02:26+00:00",
       "link": "https://www.codastory.com/polarization/can-we-trust-an-ai-jury-to-judge-journalism/"
     },
     {
       "title": "Deezer says 44% of songs uploaded to its platform daily are AI-generated",
-      "summary": "Article URL: https://techcrunch.com/2026/04/20/deezer-says-44-of-songs-uploaded-to-its-platform-daily-are-ai-generated/ Comments URL: https://news.ycombinator.com/item?id=47835928 Points: 364 # Comments: 388",
+      "summary": "Article URL: https://techcrunch.com/2026/04/20/deezer-says-44-of-songs-uploaded-to-its-platform-daily-are-ai-generated/ Comments URL: https://news.ycombinator.com/item?id=47835928 Points: 365 # Comments: 388",
       "source": "Hacker News",
       "published": "2026-04-20T15:41:02+00:00",
       "link": "https://techcrunch.com/2026/04/20/deezer-says-44-of-songs-uploaded-to-its-platform-daily-are-ai-generated/"
@@ -1379,27 +1400,6 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-04-17T12:22:35+00:00",
       "link": "https://the-decoder.com/google-finds-new-ways-to-keep-you-from-ever-clicking-a-link-again/"
-    },
-    {
-      "title": "The Download: bad news for inner Neanderthals, and AI warfare’s human illusion",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.",
-      "source": "MIT Tech Review",
-      "published": "2026-04-17T12:10:00+00:00",
-      "link": "https://www.technologyreview.com/2026/04/17/1136112/the-download-inner-neanderthal-ai-war-human-in-the-loop/"
-    },
-    {
-      "title": "Physical Intelligence shows robot model with LLM-like generalization, flaws included",
-      "summary": "US start-up Physical Intelligence has introduced π0.7, a new robot foundation model designed to recombine skills learned during training, similar to how a language model reassembles text fragments from its training data.",
-      "source": "The Decoder",
-      "published": "2026-04-17T11:57:54+00:00",
-      "link": "https://the-decoder.com/physical-intelligence-shows-robot-model-with-llm-like-generalization-flaws-included/"
-    },
-    {
-      "title": "OpenAI launches GPT-Rosalind, a reasoning model built for life sciences research",
-      "summary": "OpenAI has introduced GPT-Rosalind, a reasoning model tailored for the life sciences. It's designed to help researchers move faster from hypothesis to experiment.",
-      "source": "The Decoder",
-      "published": "2026-04-17T11:00:37+00:00",
-      "link": "https://the-decoder.com/openai-launches-gpt-rosalind-a-reasoning-model-built-for-life-sciences-research/"
     }
   ]
 };
