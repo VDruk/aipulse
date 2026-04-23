@@ -1,6 +1,13 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-04-23T07:01:42.232737+00:00",
+  "lastUpdated": "2026-04-23T10:11:35.874302+00:00",
   "items": [
+    {
+      "title": "Sony AI robot beats players as humanoid robot wins Beijing race",
+      "summary": "An autonomous table tennis robot developed by Sony AI has competed against and defeated high-level human players in regulated matches, according to Reuters.",
+      "source": "AI News",
+      "published": "2026-04-23T10:00:00+00:00",
+      "link": "https://www.artificialintelligence-news.com/news/sony-ai-robot-table-tennis-humanoid-robot-beijing-race/"
+    },
     {
       "title": "India’s app market is booming — but global platforms are capturing most of the gains",
       "summary": "Non-gaming apps, led by streaming and AI, are driving growth, even as India's spending per user lags global peers.",
@@ -1393,13 +1400,6 @@ const FEED_DATA = {
       "source": "Wired",
       "published": "2026-04-16T17:30:00+00:00",
       "link": "https://www.wired.com/story/the-uk-launches-its-dollar675-million-sovereign-ai-fund/"
-    },
-    {
-      "title": "Google's AI Mode Update Tries to Kill Tab Hopping in Chrome",
-      "summary": "Google latest update to AI Mode in its Chrome browser is designed to keep the chatbot-style search tool always around once you start an online search journey.",
-      "source": "Wired",
-      "published": "2026-04-16T17:00:00+00:00",
-      "link": "https://www.wired.com/story/google-ai-mode-update-tries-to-kill-tab-hopping-in-chrome/"
     }
   ]
 };
