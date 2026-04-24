@@ -1,6 +1,48 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-04-24T17:45:32.698375+00:00",
+  "lastUpdated": "2026-04-24T21:40:46.575900+00:00",
   "items": [
+    {
+      "title": "Meta’s loss is Thinking Machines’ gain",
+      "summary": "Meta has been poaching talent from Thinking Machines Lab. But it's a two-way street.",
+      "source": "TechCrunch",
+      "published": "2026-04-24T20:52:07+00:00",
+      "link": "https://techcrunch.com/2026/04/24/metas-loss-is-thinking-machines-gain/"
+    },
+    {
+      "title": "ComfyUI hits $500M valuation as creators seek more control over AI-generated media",
+      "summary": "ComfyUI, whose tools give creators more control over AI image, video, and audio generation, just raised $30 million.",
+      "source": "TechCrunch",
+      "published": "2026-04-24T19:49:35+00:00",
+      "link": "https://techcrunch.com/2026/04/24/comfyui-hits-500m-valuation-as-creators-seek-more-control-over-ai-generated-media/"
+    },
+    {
+      "title": "Why are top university websites serving porn? It comes down to shoddy housekeeping.",
+      "summary": "Hundreds of subdomains from dozens of universities have been hijacked by scammers.",
+      "source": "Ars Technica",
+      "published": "2026-04-24T19:00:39+00:00",
+      "link": "https://arstechnica.com/security/2026/04/why-are-top-university-websites-serving-porn-it-comes-down-to-shoddy-housekeeping/"
+    },
+    {
+      "title": "OpenAI's chief scientist says AI progress has been \"surprisingly slow\" and promises big leaps ahead",
+      "summary": "OpenAI has released GPT-5.5, and the company's leadership says the real breakthroughs are still ahead.",
+      "source": "The Decoder",
+      "published": "2026-04-24T18:31:15+00:00",
+      "link": "https://the-decoder.com/openais-chief-scientist-says-ai-progress-has-been-surprisingly-slow-and-promises-big-leaps-ahead/"
+    },
+    {
+      "title": "OpenAI releases GPT-5.5 and GPT-5.5 Pro in the API",
+      "summary": "GPT-5.5 - https://news.ycombinator.com/item?id=47879092 - April 2026 (1010 comments) Comments URL: https://news.ycombinator.com/item?id=47894000 Points: 161 # Comments: 97",
+      "source": "Hacker News",
+      "published": "2026-04-24T18:23:32+00:00",
+      "link": "https://developers.openai.com/api/docs/changelog"
+    },
+    {
+      "title": "Google to invest up to $40B in Anthropic in cash and compute",
+      "summary": "Google plans up to $40B investment in Anthropic as AI rivals race to secure massive compute capacity, following the limited release of its powerful, cybersecurity-focused Mythos model.",
+      "source": "TechCrunch",
+      "published": "2026-04-24T18:00:03+00:00",
+      "link": "https://techcrunch.com/2026/04/24/google-to-invest-up-to-40b-in-anthropic-in-cash-and-compute/"
+    },
     {
       "title": "AI-Designed Drugs by a DeepMind Spinoff Are Headed to Human Trials",
       "summary": "Isomorphic Labs president Max Jaderberg said at WIRED Health in London that the startup has built a “broad and exciting pipeline of new medicines.”",
@@ -14,6 +56,13 @@ const FEED_DATA = {
       "source": "The Verge",
       "published": "2026-04-24T17:00:00+00:00",
       "link": "https://www.theverge.com/ai-artificial-intelligence/917996/project-maven-military-ai-katrina-manson"
+    },
+    {
+      "title": "Tesla discloses $2B AI hardware company acquisition in filing",
+      "summary": "Article URL: https://electrek.co/2026/04/23/tesla-tsla-quietly-discloses-2-billion-ai-hardware-acquisition-10q/ Comments URL: https://news.ycombinator.com/item?id=47892765 Points: 62 # Comments: 43",
+      "source": "Hacker News",
+      "published": "2026-04-24T16:51:46+00:00",
+      "link": "https://electrek.co/2026/04/23/tesla-tsla-quietly-discloses-2-billion-ai-hardware-acquisition-10q/"
     },
     {
       "title": "Marked-up Mac minis flood eBay amid shortages driven by AI",
@@ -58,6 +107,13 @@ const FEED_DATA = {
       "link": "https://the-decoder.com/china-moves-to-block-tech-firms-from-taking-us-money-without-government-approval/"
     },
     {
+      "title": "Show HN: Browser Harness – Gives LLM freedom to complete any browser task",
+      "summary": "Hey HN,We got tired of browser frameworks restricting the LLM, so we removed the framework and gave the LLM maximum freedom to do whatever it's trained on.",
+      "source": "Hacker News",
+      "published": "2026-04-24T14:31:38+00:00",
+      "link": "https://github.com/browser-use/browser-harness"
+    },
+    {
       "title": "Meta buys tens of millions of AWS Graviton 5 processor cores from Amazon",
       "summary": "Meta is purchasing tens of millions of AWS Graviton 5 processor cores from Amazon, making it one of the largest Graviton customers in the world. The article Meta buys tens of millions of AWS Graviton 5 processor cores from Amazon appeared first on The Decoder.",
       "source": "The Decoder",
@@ -91,6 +147,13 @@ const FEED_DATA = {
       "source": "MIT Tech Review",
       "published": "2026-04-24T12:10:00+00:00",
       "link": "https://www.technologyreview.com/2026/04/24/1136400/the-download-supercharged-scams-questionable-ai-healthcare/"
+    },
+    {
+      "title": "Show HN: Atomic – Local-first, AI-augmented personal knowledge base",
+      "summary": "Article URL: https://atomicapp.ai/ Comments URL: https://news.ycombinator.com/item?id=47889110 Points: 52 # Comments: 37",
+      "source": "Hacker News",
+      "published": "2026-04-24T12:07:30+00:00",
+      "link": "https://atomicapp.ai/"
     },
     {
       "title": "In another wild turn for AI chips, Meta signs deal for millions of Amazon AI CPUs",
@@ -143,7 +206,7 @@ const FEED_DATA = {
     },
     {
       "title": "South Korea police arrest man for posting AI photo of runaway wolf",
-      "summary": "Article URL: https://www.bbc.com/news/articles/c4gx1n0dl9no Comments URL: https://news.ycombinator.com/item?id=47887683 Points: 207 # Comments: 130",
+      "summary": "Article URL: https://www.bbc.com/news/articles/c4gx1n0dl9no Comments URL: https://news.ycombinator.com/item?id=47887683 Points: 215 # Comments: 138",
       "source": "Hacker News",
       "published": "2026-04-24T09:17:57+00:00",
       "link": "https://www.bbc.com/news/articles/c4gx1n0dl9no"
@@ -178,7 +241,7 @@ const FEED_DATA = {
     },
     {
       "title": "DeepSeek-V4: Towards Highly Efficient Million-Token Context Intelligence",
-      "summary": "Article URL: https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro Comments URL: https://news.ycombinator.com/item?id=47885014 Points: 154 # Comments: 17",
+      "summary": "Article URL: https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro Comments URL: https://news.ycombinator.com/item?id=47885014 Points: 156 # Comments: 18",
       "source": "Hacker News",
       "published": "2026-04-24T03:07:54+00:00",
       "link": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro"
@@ -234,7 +297,7 @@ const FEED_DATA = {
     },
     {
       "title": "GPT-5.5: Mythos-Like Hacking, Open to All",
-      "summary": "Article URL: https://xbow.com/blog/mythos-like-hacking-open-to-all Comments URL: https://news.ycombinator.com/item?id=47879330 Points: 71 # Comments: 21",
+      "summary": "Article URL: https://xbow.com/blog/mythos-like-hacking-open-to-all Comments URL: https://news.ycombinator.com/item?id=47879330 Points: 74 # Comments: 22",
       "source": "Hacker News",
       "published": "2026-04-23T18:16:55+00:00",
       "link": "https://xbow.com/blog/mythos-like-hacking-open-to-all"
@@ -248,7 +311,7 @@ const FEED_DATA = {
     },
     {
       "title": "GPT-5.5",
-      "summary": "Article URL: https://openai.com/index/introducing-gpt-5-5/ Comments URL: https://news.ycombinator.com/item?id=47879092 Points: 1492 # Comments: 995",
+      "summary": "Article URL: https://openai.com/index/introducing-gpt-5-5/ Comments URL: https://news.ycombinator.com/item?id=47879092 Points: 1520 # Comments: 1014",
       "source": "Hacker News",
       "published": "2026-04-23T18:01:39+00:00",
       "link": "https://openai.com/index/introducing-gpt-5-5/"
@@ -269,7 +332,7 @@ const FEED_DATA = {
     },
     {
       "title": "MeshCore development team splits over trademark dispute and AI-generated code",
-      "summary": "Article URL: https://blog.meshcore.io/2026/04/23/the-split Comments URL: https://news.ycombinator.com/item?id=47878117 Points: 263 # Comments: 147",
+      "summary": "Article URL: https://blog.meshcore.io/2026/04/23/the-split Comments URL: https://news.ycombinator.com/item?id=47878117 Points: 272 # Comments: 164",
       "source": "Hacker News",
       "published": "2026-04-23T16:55:13+00:00",
       "link": "https://blog.meshcore.io/2026/04/23/the-split"
@@ -402,7 +465,7 @@ const FEED_DATA = {
     },
     {
       "title": "Our newsroom AI policy",
-      "summary": "Article URL: https://arstechnica.com/staff/2026/04/our-newsroom-ai-policy/ Comments URL: https://news.ycombinator.com/item?id=47872452 Points: 203 # Comments: 129",
+      "summary": "Article URL: https://arstechnica.com/staff/2026/04/our-newsroom-ai-policy/ Comments URL: https://news.ycombinator.com/item?id=47872452 Points: 205 # Comments: 130",
       "source": "Hacker News",
       "published": "2026-04-23T05:14:05+00:00",
       "link": "https://arstechnica.com/staff/2026/04/our-newsroom-ai-policy/"
@@ -577,7 +640,7 @@ const FEED_DATA = {
     },
     {
       "title": "Top MAGA influencer revealed to be AI",
-      "summary": "Article URL: https://nypost.com/2026/04/21/us-news/top-maga-influencer-emily-hart-revealed-to-be-ai-created-by-a-guy-in-india/ Comments URL: https://news.ycombinator.com/item?id=47864808 Points: 97 # Comments: 54",
+      "summary": "Article URL: https://nypost.com/2026/04/21/us-news/top-maga-influencer-emily-hart-revealed-to-be-ai-created-by-a-guy-in-india/ Comments URL: https://news.ycombinator.com/item?id=47864808 Points: 98 # Comments: 54",
       "source": "Hacker News",
       "published": "2026-04-22T15:15:04+00:00",
       "link": "https://nypost.com/2026/04/21/us-news/top-maga-influencer-emily-hart-revealed-to-be-ai-created-by-a-guy-in-india/"
@@ -1337,69 +1400,6 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-04-19T16:01:00+00:00",
       "link": "https://techcrunch.com/2026/04/19/techcrunch-mobility-uber-enters-its-assetmaxxing-era/"
-    },
-    {
-      "title": "Anthropic's revenue surge reportedly fuels talk of trillion-dollar valuation",
-      "summary": "Anthropic reportedly has flipped from money-loser to revenue powerhouse in just a few months. Annualized revenue now tops $30 billion, possibly edging out OpenAI, and investors are already floating valuations as high as $1 trillion.",
-      "source": "The Decoder",
-      "published": "2026-04-19T14:40:00+00:00",
-      "link": "https://the-decoder.com/anthropics-revenue-surge-reportedly-fuels-talk-of-trillion-dollar-valuation/"
-    },
-    {
-      "title": "German court rules AI comic adaptation of copyrighted photo doesn't violate the original",
-      "summary": "An AI turns a photo into a comic—and according to a German Higher Regional Court, that's fair game as long as only the motif is copied. The article German court rules AI comic adaptation of copyrighted photo doesn't violate the original appeared first on The Decoder.",
-      "source": "The Decoder",
-      "published": "2026-04-19T13:08:17+00:00",
-      "link": "https://the-decoder.com/german-court-rules-ai-comic-adaptation-of-copyrighted-photo-doesnt-violate-the-original/"
-    },
-    {
-      "title": "First token counts reveal Opus 4.7 costs significantly more than 4.6 despite Anthropic's flat pricing",
-      "summary": "Anthropic's Opus 4.7 matches its predecessor's per-token price, but each request ends up costing significantly more. The reason: a new tokenizer that breaks the same text into up to 47 percent more tokens.",
-      "source": "The Decoder",
-      "published": "2026-04-19T10:01:53+00:00",
-      "link": "https://the-decoder.com/first-token-counts-reveal-opus-4-7-costs-significantly-more-than-4-6-despite-anthropics-flat-pricing/"
-    },
-    {
-      "title": "AI-generated influencers flood social media with pro-Trump content ahead of midterms",
-      "summary": "Hundreds of AI avatars are flooding TikTok, Instagram, and YouTube with pro-Trump messaging. Some accounts have pulled in more than 35,000 followers and millions of views, and Trump himself has already shared AI-generated content.",
-      "source": "The Decoder",
-      "published": "2026-04-19T09:07:54+00:00",
-      "link": "https://the-decoder.com/ai-generated-influencers-flood-social-media-with-pro-trump-content-ahead-of-midterms/"
-    },
-    {
-      "title": "Even the best AI models lose about half their performance when charts get complicated, new benchmark finds",
-      "summary": "The RealChart2Code benchmark puts 14 leading AI models to the test on complex visualizations built from real-world datasets. Even the top proprietary models lose nearly half their performance compared to simpler tests.",
-      "source": "The Decoder",
-      "published": "2026-04-19T08:35:10+00:00",
-      "link": "https://the-decoder.com/even-the-best-ai-models-lose-about-half-their-performance-when-charts-get-complicated-new-benchmark-finds/"
-    },
-    {
-      "title": "Always-on Ray-Ban Meta glasses powered by OpenClaw speed up everyday tasks in new study",
-      "summary": "A research team developed an OpenClaw agent for smart glasses to find out how continuously perceiving AI changes the way people use agentic AI systems.",
-      "source": "The Decoder",
-      "published": "2026-04-19T07:55:33+00:00",
-      "link": "https://the-decoder.com/always-on-ray-ban-meta-glasses-powered-by-openclaw-speed-up-everyday-tasks-in-new-study/"
-    },
-    {
-      "title": "Google launches generative UI standard for AI agents",
-      "summary": "Google's A2UI 0.9 is a framework-agnostic standard that lets AI agents generate UI elements on the fly, tapping into an app's existing components across web, mobile, and other platforms.",
-      "source": "The Decoder",
-      "published": "2026-04-19T07:16:51+00:00",
-      "link": "https://the-decoder.com/google-launches-generative-ui-standard-for-ai-agents/"
-    },
-    {
-      "title": "Tesla brings its robotaxi service to Dallas and Houston",
-      "summary": "The company now offers robotaxi service in three cities, all of them in Texas, after launching in Austin last year and starting to offer rides without safety drivers in January 2026.",
-      "source": "TechCrunch",
-      "published": "2026-04-18T21:37:15+00:00",
-      "link": "https://techcrunch.com/2026/04/18/tesla-brings-its-robotaxi-service-to-dallas-and-houston/"
-    },
-    {
-      "title": "The RAM shortage could last years",
-      "summary": "According to Nikkei Asia, even as suppliers ramp up DRAM production, manufacturers are only expected to meet 60 percent of demand by the end of 2027. SK Group chairman has even said that shortages could last until 2030.",
-      "source": "The Verge",
-      "published": "2026-04-18T21:08:45+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/914672/the-ram-shortage-could-last-years"
     }
   ]
 };
