@@ -1,6 +1,20 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-04-23T21:39:12.044645+00:00",
+  "lastUpdated": "2026-04-24T04:16:33.380462+00:00",
   "items": [
+    {
+      "title": "DeepSeek-V4: Towards Highly Efficient Million-Token Context Intelligence",
+      "summary": "Article URL: https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro Comments URL: https://news.ycombinator.com/item?id=47885014 Points: 87 # Comments: 8",
+      "source": "Hacker News",
+      "published": "2026-04-24T03:07:54+00:00",
+      "link": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro"
+    },
+    {
+      "title": "Claude is connecting directly to your personal apps like Spotify, Uber Eats, and TurboTax",
+      "summary": "Claude users can access more apps with Anthropic's AI now thanks to new connectors for everything from hiking to grocery shopping.",
+      "source": "The Verge",
+      "published": "2026-04-23T22:27:11+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/917871/anthropic-claude-personal-app-connectors"
+    },
     {
       "title": "Bret Taylor’s Sierra buys YC-backed AI startup Fragment",
       "summary": "Sierra, the AI customer service agent startup founded by technologist Bret Taylor, announced today that it has acquired the YC-backed French startup Fragment.",
@@ -52,7 +66,7 @@ const FEED_DATA = {
     },
     {
       "title": "GPT-5.5",
-      "summary": "Article URL: https://openai.com/index/introducing-gpt-5-5/ Comments URL: https://news.ycombinator.com/item?id=47879092 Points: 832 # Comments: 437",
+      "summary": "Article URL: https://openai.com/index/introducing-gpt-5-5/ Comments URL: https://news.ycombinator.com/item?id=47879092 Points: 1182 # Comments: 807",
       "source": "Hacker News",
       "published": "2026-04-23T18:01:39+00:00",
       "link": "https://openai.com/index/introducing-gpt-5-5/"
@@ -73,7 +87,7 @@ const FEED_DATA = {
     },
     {
       "title": "MeshCore development team splits over trademark dispute and AI-generated code",
-      "summary": "Article URL: https://blog.meshcore.io/2026/04/23/the-split Comments URL: https://news.ycombinator.com/item?id=47878117 Points: 103 # Comments: 59",
+      "summary": "Article URL: https://blog.meshcore.io/2026/04/23/the-split Comments URL: https://news.ycombinator.com/item?id=47878117 Points: 180 # Comments: 100",
       "source": "Hacker News",
       "published": "2026-04-23T16:55:13+00:00",
       "link": "https://blog.meshcore.io/2026/04/23/the-split"
@@ -199,14 +213,14 @@ const FEED_DATA = {
     },
     {
       "title": "Do you want the US to \"win\" AI?",
-      "summary": "Article URL: https://geohot.github.io//blog/jekyll/update/2026/04/23/us-win-ai.html Comments URL: https://news.ycombinator.com/item?id=47873796 Points: 50 # Comments: 101",
+      "summary": "Article URL: https://geohot.github.io//blog/jekyll/update/2026/04/23/us-win-ai.html Comments URL: https://news.ycombinator.com/item?id=47873796 Points: 52 # Comments: 102",
       "source": "Hacker News",
       "published": "2026-04-23T09:41:20+00:00",
       "link": "https://geohot.github.io//blog/jekyll/update/2026/04/23/us-win-ai.html"
     },
     {
       "title": "Our newsroom AI policy",
-      "summary": "Article URL: https://arstechnica.com/staff/2026/04/our-newsroom-ai-policy/ Comments URL: https://news.ycombinator.com/item?id=47872452 Points: 179 # Comments: 122",
+      "summary": "Article URL: https://arstechnica.com/staff/2026/04/our-newsroom-ai-policy/ Comments URL: https://news.ycombinator.com/item?id=47872452 Points: 190 # Comments: 125",
       "source": "Hacker News",
       "published": "2026-04-23T05:14:05+00:00",
       "link": "https://arstechnica.com/staff/2026/04/our-newsroom-ai-policy/"
@@ -353,7 +367,7 @@ const FEED_DATA = {
     },
     {
       "title": "Startups brag they spend more money on AI than human employees",
-      "summary": "Article URL: https://www.404media.co/startups-brag-they-spend-more-money-on-ai-than-human-employees/ Comments URL: https://news.ycombinator.com/item?id=47865923 Points: 52 # Comments: 47",
+      "summary": "Article URL: https://www.404media.co/startups-brag-they-spend-more-money-on-ai-than-human-employees/ Comments URL: https://news.ycombinator.com/item?id=47865923 Points: 53 # Comments: 47",
       "source": "Hacker News",
       "published": "2026-04-22T16:34:21+00:00",
       "link": "https://www.404media.co/startups-brag-they-spend-more-money-on-ai-than-human-employees/"
@@ -381,7 +395,7 @@ const FEED_DATA = {
     },
     {
       "title": "Top MAGA influencer revealed to be AI",
-      "summary": "Article URL: https://nypost.com/2026/04/21/us-news/top-maga-influencer-emily-hart-revealed-to-be-ai-created-by-a-guy-in-india/ Comments URL: https://news.ycombinator.com/item?id=47864808 Points: 96 # Comments: 53",
+      "summary": "Article URL: https://nypost.com/2026/04/21/us-news/top-maga-influencer-emily-hart-revealed-to-be-ai-created-by-a-guy-in-india/ Comments URL: https://news.ycombinator.com/item?id=47864808 Points: 96 # Comments: 54",
       "source": "Hacker News",
       "published": "2026-04-22T15:15:04+00:00",
       "link": "https://nypost.com/2026/04/21/us-news/top-maga-influencer-emily-hart-revealed-to-be-ai-created-by-a-guy-in-india/"
@@ -479,7 +493,7 @@ const FEED_DATA = {
     },
     {
       "title": "Kernel code removals driven by LLM-created security reports",
-      "summary": "Article URL: https://lwn.net/Articles/1068928/ Comments URL: https://news.ycombinator.com/item?id=47862230 Points: 120 # Comments: 114",
+      "summary": "Article URL: https://lwn.net/Articles/1068928/ Comments URL: https://news.ycombinator.com/item?id=47862230 Points: 120 # Comments: 115",
       "source": "Hacker News",
       "published": "2026-04-22T11:48:07+00:00",
       "link": "https://lwn.net/Articles/1068928/"
@@ -514,7 +528,7 @@ const FEED_DATA = {
     },
     {
       "title": "Meta employees are up in arms over a mandatory program to train AI on their",
-      "summary": "Article URL: https://www.businessinsider.com/meta-new-ai-tool-tracks-staff-activity-sparks-concern-2026-4 Comments URL: https://news.ycombinator.com/item?id=47860961 Points: 115 # Comments: 89",
+      "summary": "Article URL: https://www.businessinsider.com/meta-new-ai-tool-tracks-staff-activity-sparks-concern-2026-4 Comments URL: https://news.ycombinator.com/item?id=47860961 Points: 116 # Comments: 89",
       "source": "Hacker News",
       "published": "2026-04-22T09:02:46+00:00",
       "link": "https://www.businessinsider.com/meta-new-ai-tool-tracks-staff-activity-sparks-concern-2026-4"
@@ -661,7 +675,7 @@ const FEED_DATA = {
     },
     {
       "title": "Meta to start capturing employee mouse movements, keystrokes for AI training",
-      "summary": "Alt link: https://tech.yahoo.com/ai/meta-ai/articles/exclusive-meta-st... Comments URL: https://news.ycombinator.com/item?id=47851948 Points: 789 # Comments: 522",
+      "summary": "Alt link: https://tech.yahoo.com/ai/meta-ai/articles/exclusive-meta-st... Comments URL: https://news.ycombinator.com/item?id=47851948 Points: 791 # Comments: 523",
       "source": "Hacker News",
       "published": "2026-04-21T17:40:39+00:00",
       "link": "https://www.reuters.com/sustainability/boards-policy-regulation/meta-start-capturing-employee-mouse-movements-keystrokes-ai-training-data-2026-04-21/"
@@ -752,7 +766,7 @@ const FEED_DATA = {
     },
     {
       "title": "Scammer used an AI-generated MAGA girl to grift men",
-      "summary": "https://archive.is/kXVNR Comments URL: https://news.ycombinator.com/item?id=47849494 Points: 80 # Comments: 35",
+      "summary": "https://archive.is/kXVNR Comments URL: https://news.ycombinator.com/item?id=47849494 Points: 81 # Comments: 35",
       "source": "Hacker News",
       "published": "2026-04-21T14:41:36+00:00",
       "link": "https://www.wired.com/story/ai-generated-maga-girls/"
@@ -1386,20 +1400,6 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-04-17T18:30:49+00:00",
       "link": "https://the-decoder.com/the-white-house-weighs-whether-anthropics-mythos-is-too-valuable-for-the-federal-government-to-refuse/"
-    },
-    {
-      "title": "Alibaba's open model Qwen3.6 leads Google's Gemma 4 across agentic coding benchmarks",
-      "summary": "Alibaba's new open-source Qwen3.6-35B-A3B activates just three of its 35 billion parameters at a time, yet beats Google's larger Gemma 4-31B on coding and reasoning benchmarks.",
-      "source": "The Decoder",
-      "published": "2026-04-17T18:11:25+00:00",
-      "link": "https://the-decoder.com/alibabas-open-model-qwen3-6-leads-googles-gemma-4-across-agentic-coding-benchmarks/"
-    },
-    {
-      "title": "ChatGPT bleeds market share as Claude posts explosive monthly growth",
-      "summary": "Claude doubles its market share in a single month, jumping past Deepseek and Grok. ChatGPT still leads the pack but is losing ground fast, especially to Google Gemini, which now captures a quarter of all AI traffic.",
-      "source": "The Decoder",
-      "published": "2026-04-17T17:44:22+00:00",
-      "link": "https://the-decoder.com/chatgpt-bleeds-market-share-as-claude-posts-explosive-monthly-growth/"
     }
   ]
 };
