@@ -1,6 +1,76 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-04-24T10:14:35.892543+00:00",
+  "lastUpdated": "2026-04-24T14:45:51.141571+00:00",
   "items": [
+    {
+      "title": "AirPods, Touch Bars, and the rest of Tim Cook’s legacy",
+      "summary": "We knew at some point Tim Cook would step down from his position as Apple's CEO. Over the last year, it has become increasingly obvious that John Ternus was his likely successor.",
+      "source": "The Verge",
+      "published": "2026-04-24T14:43:07+00:00",
+      "link": "https://www.theverge.com/podcast/917965/apple-ceo-cook-ternus-transition"
+    },
+    {
+      "title": "China moves to block tech firms from taking US money without government approval",
+      "summary": "China plans to block tech companies from accepting US capital without government approval, according to Bloomberg. The article China moves to block tech firms from taking US money without government approval appeared first on The Decoder.",
+      "source": "The Decoder",
+      "published": "2026-04-24T14:33:59+00:00",
+      "link": "https://the-decoder.com/china-moves-to-block-tech-firms-from-taking-us-money-without-government-approval/"
+    },
+    {
+      "title": "Meta buys tens of millions of AWS Graviton 5 processor cores from Amazon",
+      "summary": "Meta is purchasing tens of millions of AWS Graviton 5 processor cores from Amazon, making it one of the largest Graviton customers in the world. The article Meta buys tens of millions of AWS Graviton 5 processor cores from Amazon appeared first on The Decoder.",
+      "source": "The Decoder",
+      "published": "2026-04-24T14:12:58+00:00",
+      "link": "https://the-decoder.com/meta-buys-tens-of-millions-of-aws-graviton-5-processor-cores-from-amazon/"
+    },
+    {
+      "title": "Nothing introduces an AI-powered dictation tool",
+      "summary": "Nothing's new on-device dictation tool supports over 100 languages.",
+      "source": "TechCrunch",
+      "published": "2026-04-24T13:41:42+00:00",
+      "link": "https://techcrunch.com/2026/04/24/nothing-introduces-an-ai-powered-dictation-tool/"
+    },
+    {
+      "title": "DeepSeek previews new AI model that ‘closes the gap’ with frontier models",
+      "summary": "DeepSeek says both models are more efficient and performant than DeepSeek V3.2 due to architectural improvements, and have almost \"closed the gap\" with current leading models, both open and closed, on reasoning benchmarks.",
+      "source": "TechCrunch",
+      "published": "2026-04-24T13:30:59+00:00",
+      "link": "https://techcrunch.com/2026/04/24/deepseek-previews-new-ai-model-that-closes-the-gap-with-frontier-models/"
+    },
+    {
+      "title": "Cohere takes over Aleph Alpha shortly after the German startup ousted its original founder",
+      "summary": "Just months after founder Jonas Andrulis was pushed out, Canadian AI company Cohere is taking over Aleph Alpha - once hailed as Germany's answer to OpenAI. The Schwarz Group is putting $600 million into the deal.",
+      "source": "The Decoder",
+      "published": "2026-04-24T12:55:19+00:00",
+      "link": "https://the-decoder.com/cohere-takes-over-aleph-alpha-shortly-after-the-german-startup-ousted-its-original-founder/"
+    },
+    {
+      "title": "The Download: supercharged scams and studying AI healthcare",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. We’re in a new era of AI-driven scams When ChatGPT was released in late 2022, it showed how easily generative AI could create human-like text.",
+      "source": "MIT Tech Review",
+      "published": "2026-04-24T12:10:00+00:00",
+      "link": "https://www.technologyreview.com/2026/04/24/1136400/the-download-supercharged-scams-questionable-ai-healthcare/"
+    },
+    {
+      "title": "In another wild turn for AI chips, Meta signs deal for millions of Amazon AI CPUs",
+      "summary": "Meta has commandeered a big chunk of Amazon's homegrown CPUs (not GPUs) for AI agentic workloads, signaling that a new kind of chip race has begun.",
+      "source": "TechCrunch",
+      "published": "2026-04-24T12:00:00+00:00",
+      "link": "https://techcrunch.com/2026/04/24/in-another-wild-turn-for-ai-chips-meta-signs-deal-for-millions-of-amazon-ai-cpus/"
+    },
+    {
+      "title": "Musk vs. Altman is here, and it’s going to get messy",
+      "summary": "Elon Musk cofounded OpenAI, and then flounced off in a huff when he wasn't anointed CEO, leaving Sam Altman as the last power-hungry man standing. Now, Musk is back with a lawsuit, and a trial is scheduled to start in Oakland, California, on April 27th.",
+      "source": "The Verge",
+      "published": "2026-04-24T12:00:00+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/917755/musk-altman-openai-xai-gossip"
+    },
+    {
+      "title": "Anthropic confirms Claude Code problems and promises stricter quality controls",
+      "summary": "Users complained about declining quality in Claude Code. Anthropic identified and fixed three separate sources of error.",
+      "source": "The Decoder",
+      "published": "2026-04-24T10:52:07+00:00",
+      "link": "https://the-decoder.com/anthropic-confirms-claude-code-problems-and-promises-stricter-quality-controls/"
+    },
     {
       "title": "China’s DeepSeek previews new AI model a year after jolting US rivals",
       "summary": "Chinese AI company DeepSeek released a preview of its hotly anticipated next-generation AI model V4 on Friday, saying that the open-source model can compete with leading closed-source systems from US rivals including Anthropic, Google, and OpenAI.",
@@ -14,6 +84,13 @@ const FEED_DATA = {
       "source": "The Verge",
       "published": "2026-04-24T09:40:07+00:00",
       "link": "https://www.theverge.com/gadgets/918016/prestigious-photo-contest-answers-what-is-a-photo"
+    },
+    {
+      "title": "These AI Thirst Trap Creators Say They're Misunderstood",
+      "summary": "A viral red carpet moment shone light on a group of hunky Instagram influencers—and the followers who are too horny to care that they’re not real.",
+      "source": "Wired",
+      "published": "2026-04-24T09:30:00+00:00",
+      "link": "https://www.wired.com/story/gay-ai-instagram-influencers-red-carpet/"
     },
     {
       "title": "The Men Behind Your Favorite AI Gay Thirst Traps",
@@ -1323,83 +1400,6 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-04-18T12:45:14+00:00",
       "link": "https://the-decoder.com/just-ten-minutes-of-using-ai-as-an-answer-machine-can-measurably-erode-problem-solving-skills-new-study-finds/"
-    },
-    {
-      "title": "It Takes 2 Minutes to Hack the EU’s New Age-Verification App",
-      "summary": "Plus: Major data breaches at a gym chain and hotel giant, a disruptive DDoS attack against Bluesky, dubious ICE hires, and more.",
-      "source": "Wired",
-      "published": "2026-04-18T10:30:00+00:00",
-      "link": "https://www.wired.com/story/security-news-this-week-it-takes-2-minutes-to-hack-the-eus-new-age-verification-app/"
-    },
-    {
-      "title": "Schematik Is ‘Cursor for Hardware.’ Anthropic Wants In",
-      "summary": "Schematik is a program that aims to help people vibe code for physical devices. Hopefully, it won’t blow anything up.",
-      "source": "Wired",
-      "published": "2026-04-18T10:30:00+00:00",
-      "link": "https://www.wired.com/story/schematik-is-cursor-for-hardware-anthropic-wants-in-on-it/"
-    },
-    {
-      "title": "Anthropic CEO Amodei declares \"there is no end to the rainbow\" for AI scaling",
-      "summary": "Anthropic CEO Dario Amodei sees no limits to AI scaling and is urging the industry not to downplay the risk of job losses, but to make the upside big enough to offset the disruption.",
-      "source": "The Decoder",
-      "published": "2026-04-18T10:17:28+00:00",
-      "link": "https://the-decoder.com/anthropic-ceo-amodei-declares-there-is-no-end-to-the-rainbow-for-ai-scaling/"
-    },
-    {
-      "title": "Self-improving AI startup Recursive Superintelligence pulls in $500 million just four months after founding",
-      "summary": "A four-month-old startup has raised at least $500 million at a $4 billion valuation. Recursive Superintelligence is backed by former researchers from Google Deepmind and OpenAI who want to build an AI that improves itself.",
-      "source": "The Decoder",
-      "published": "2026-04-18T09:32:57+00:00",
-      "link": "https://the-decoder.com/self-improving-ai-startup-recursive-superintelligence-pulls-in-500-million-just-four-months-after-founding/"
-    },
-    {
-      "title": "The myth of Claude Mythos crumbles as small open models hunt the same cybersecurity bugs Anthropic showcased",
-      "summary": "Anthropic has kept its Claude Mythos cybersecurity model on a short leash, pointing to capabilities it says no rival can match. But two new studies suggest that even small, openly available models can reproduce most of the vulnerability analyses Anthropic has put on display.",
-      "source": "The Decoder",
-      "published": "2026-04-18T08:48:05+00:00",
-      "link": "https://the-decoder.com/the-myth-of-claude-mythos-crumbles-as-small-open-models-hunt-the-same-cybersecurity-bugs-anthropic-showcased/"
-    },
-    {
-      "title": "Deepseek reportedly seeks outside funding for the first time at $10 billion valuation",
-      "summary": "Deepseek is reportedly ready to give up its independence. The Chinese AI startup is seeking outside backers for the first time, aiming to raise at least $300 million.",
-      "source": "The Decoder",
-      "published": "2026-04-18T08:20:17+00:00",
-      "link": "https://the-decoder.com/deepseek-reportedly-seeks-outside-funding-for-the-first-time-at-10-billion-valuation/"
-    },
-    {
-      "title": "Zuckerberg reportedly trades headcount for compute as Meta readies to cut 10 percent of its workforce to fund AI infrastructure",
-      "summary": "Meta is preparing to cut around 8,000 jobs on May 20, with a second wave planned for later this year. In total, more than 20 percent of the workforce could be let go as the company moves to offset its massive AI spending.",
-      "source": "The Decoder",
-      "published": "2026-04-18T08:05:35+00:00",
-      "link": "https://the-decoder.com/zuckerberg-reportedly-trades-headcount-for-compute-as-meta-readies-to-cut-10-percent-of-its-workforce-to-fund-ai-infrastructure/"
-    },
-    {
-      "title": "OpenAI loses three executives in one swoop as restructuring reshapes its product lineup",
-      "summary": "Three high-profile executives are walking away from OpenAI. The departures come as the company restructures and doubles down on coding and enterprise customers.",
-      "source": "The Decoder",
-      "published": "2026-04-18T07:20:45+00:00",
-      "link": "https://the-decoder.com/openai-loses-three-executives-in-one-swoop-as-restructuring-reshapes-its-product-lineup/"
-    },
-    {
-      "title": "Ternary Bonsai: Top Intelligence at 1.58 Bits",
-      "summary": "Article URL: https://prismml.com/news/ternary-bonsai Comments URL: https://news.ycombinator.com/item?id=47812749 Points: 218 # Comments: 54",
-      "source": "Hacker News",
-      "published": "2026-04-18T02:51:34+00:00",
-      "link": "https://prismml.com/news/ternary-bonsai"
-    },
-    {
-      "title": "Sam Altman’s project World looks to scale its human verification empire. First stop: Tinder.",
-      "summary": "World, which has raised eyebrows (but also a lot of interest) with its Orb-centered anonymous verification project, is looking to expand its influence via a bevy of new partnerships.",
-      "source": "TechCrunch",
-      "published": "2026-04-17T22:34:02+00:00",
-      "link": "https://techcrunch.com/2026/04/17/sam-altmans-project-world-looks-to-scale-its-human-verification-empire-first-stop-tinder/"
-    },
-    {
-      "title": "US-sanctioned currency exchange says $15 million heist done by \"unfriendly states\"",
-      "summary": "Grinex says needed hacking resources \"available exclusively to... unfriendly states.\"",
-      "source": "Ars Technica",
-      "published": "2026-04-17T21:28:35+00:00",
-      "link": "https://arstechnica.com/security/2026/04/russia-friendly-exchange-says-western-special-service-behind-15-million-cyberattack/"
     }
   ]
 };
