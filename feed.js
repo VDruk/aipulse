@@ -1,9 +1,9 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-04-24T04:16:33.380462+00:00",
+  "lastUpdated": "2026-04-24T07:04:36.794861+00:00",
   "items": [
     {
       "title": "DeepSeek-V4: Towards Highly Efficient Million-Token Context Intelligence",
-      "summary": "Article URL: https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro Comments URL: https://news.ycombinator.com/item?id=47885014 Points: 87 # Comments: 8",
+      "summary": "Article URL: https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro Comments URL: https://news.ycombinator.com/item?id=47885014 Points: 147 # Comments: 14",
       "source": "Hacker News",
       "published": "2026-04-24T03:07:54+00:00",
       "link": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro"
@@ -58,6 +58,13 @@ const FEED_DATA = {
       "link": "https://www.wired.com/story/stanford-cs-class-ai-coachella-ben-horowitz/"
     },
     {
+      "title": "GPT-5.5: Mythos-Like Hacking, Open to All",
+      "summary": "Article URL: https://xbow.com/blog/mythos-like-hacking-open-to-all Comments URL: https://news.ycombinator.com/item?id=47879330 Points: 55 # Comments: 13",
+      "source": "Hacker News",
+      "published": "2026-04-23T18:16:55+00:00",
+      "link": "https://xbow.com/blog/mythos-like-hacking-open-to-all"
+    },
+    {
       "title": "Trump science advisor says Chinese actors are copying American AI at massive scale",
       "summary": "The US government says it has evidence of large-scale, industrial distillation campaigns targeting American frontier models, with China as the primary culprit. Now the Trump administration is moving to fight back.",
       "source": "The Decoder",
@@ -66,7 +73,7 @@ const FEED_DATA = {
     },
     {
       "title": "GPT-5.5",
-      "summary": "Article URL: https://openai.com/index/introducing-gpt-5-5/ Comments URL: https://news.ycombinator.com/item?id=47879092 Points: 1182 # Comments: 807",
+      "summary": "Article URL: https://openai.com/index/introducing-gpt-5-5/ Comments URL: https://news.ycombinator.com/item?id=47879092 Points: 1285 # Comments: 860",
       "source": "Hacker News",
       "published": "2026-04-23T18:01:39+00:00",
       "link": "https://openai.com/index/introducing-gpt-5-5/"
@@ -87,7 +94,7 @@ const FEED_DATA = {
     },
     {
       "title": "MeshCore development team splits over trademark dispute and AI-generated code",
-      "summary": "Article URL: https://blog.meshcore.io/2026/04/23/the-split Comments URL: https://news.ycombinator.com/item?id=47878117 Points: 180 # Comments: 100",
+      "summary": "Article URL: https://blog.meshcore.io/2026/04/23/the-split Comments URL: https://news.ycombinator.com/item?id=47878117 Points: 203 # Comments: 105",
       "source": "Hacker News",
       "published": "2026-04-23T16:55:13+00:00",
       "link": "https://blog.meshcore.io/2026/04/23/the-split"
@@ -213,14 +220,14 @@ const FEED_DATA = {
     },
     {
       "title": "Do you want the US to \"win\" AI?",
-      "summary": "Article URL: https://geohot.github.io//blog/jekyll/update/2026/04/23/us-win-ai.html Comments URL: https://news.ycombinator.com/item?id=47873796 Points: 52 # Comments: 102",
+      "summary": "Article URL: https://geohot.github.io//blog/jekyll/update/2026/04/23/us-win-ai.html Comments URL: https://news.ycombinator.com/item?id=47873796 Points: 52 # Comments: 103",
       "source": "Hacker News",
       "published": "2026-04-23T09:41:20+00:00",
       "link": "https://geohot.github.io//blog/jekyll/update/2026/04/23/us-win-ai.html"
     },
     {
       "title": "Our newsroom AI policy",
-      "summary": "Article URL: https://arstechnica.com/staff/2026/04/our-newsroom-ai-policy/ Comments URL: https://news.ycombinator.com/item?id=47872452 Points: 190 # Comments: 125",
+      "summary": "Article URL: https://arstechnica.com/staff/2026/04/our-newsroom-ai-policy/ Comments URL: https://news.ycombinator.com/item?id=47872452 Points: 192 # Comments: 125",
       "source": "Hacker News",
       "published": "2026-04-23T05:14:05+00:00",
       "link": "https://arstechnica.com/staff/2026/04/our-newsroom-ai-policy/"
@@ -402,7 +409,7 @@ const FEED_DATA = {
     },
     {
       "title": "Scoring Show HN submissions for AI design patterns",
-      "summary": "Article URL: https://www.adriankrebs.ch/blog/design-slop/ Comments URL: https://news.ycombinator.com/item?id=47864393 Points: 326 # Comments: 231",
+      "summary": "Article URL: https://www.adriankrebs.ch/blog/design-slop/ Comments URL: https://news.ycombinator.com/item?id=47864393 Points: 327 # Comments: 231",
       "source": "Hacker News",
       "published": "2026-04-22T14:44:32+00:00",
       "link": "https://www.adriankrebs.ch/blog/design-slop/"
@@ -766,7 +773,7 @@ const FEED_DATA = {
     },
     {
       "title": "Scammer used an AI-generated MAGA girl to grift men",
-      "summary": "https://archive.is/kXVNR Comments URL: https://news.ycombinator.com/item?id=47849494 Points: 81 # Comments: 35",
+      "summary": "https://archive.is/kXVNR Comments URL: https://news.ycombinator.com/item?id=47849494 Points: 82 # Comments: 35",
       "source": "Hacker News",
       "published": "2026-04-21T14:41:36+00:00",
       "link": "https://www.wired.com/story/ai-generated-maga-girls/"
@@ -1393,13 +1400,6 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-04-17T18:45:35+00:00",
       "link": "https://the-decoder.com/google-finds-new-ways-to-keep-you-from-ever-visiting-a-website-directly-again/"
-    },
-    {
-      "title": "The White House weighs whether Anthropic's Mythos is too valuable for the federal government to refuse",
-      "summary": "Anthropic CEO Dario Amodei is meeting Trump's Chief of Staff Susie Wiles at the White House to end a months-long standoff with the Pentagon. The new Mythos model's cybersecurity chops reportedly opened the door.",
-      "source": "The Decoder",
-      "published": "2026-04-17T18:30:49+00:00",
-      "link": "https://the-decoder.com/the-white-house-weighs-whether-anthropics-mythos-is-too-valuable-for-the-federal-government-to-refuse/"
     }
   ]
 };
