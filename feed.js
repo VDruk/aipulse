@@ -1,9 +1,58 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-04-24T07:04:36.794861+00:00",
+  "lastUpdated": "2026-04-24T10:14:35.892543+00:00",
   "items": [
     {
+      "title": "China’s DeepSeek previews new AI model a year after jolting US rivals",
+      "summary": "Chinese AI company DeepSeek released a preview of its hotly anticipated next-generation AI model V4 on Friday, saying that the open-source model can compete with leading closed-source systems from US rivals including Anthropic, Google, and OpenAI.",
+      "source": "The Verge",
+      "published": "2026-04-24T09:45:30+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/918035/deepseek-preview-v4-ai-model"
+    },
+    {
+      "title": "Prestigious photo contest answers ‘what is a photo?’",
+      "summary": "We love to muse over how \"real\" photography is defined here at The Verge now that generative AI is so prolific, and the World Press Photo competition might have the answer. The prestigious award celebrates the best of photojournalism, where capturing reality is paramount.",
+      "source": "The Verge",
+      "published": "2026-04-24T09:40:07+00:00",
+      "link": "https://www.theverge.com/gadgets/918016/prestigious-photo-contest-answers-what-is-a-photo"
+    },
+    {
+      "title": "The Men Behind Your Favorite AI Gay Thirst Traps",
+      "summary": "A viral red carpet moment shone light on a group of hunky Instagram influencers—and the followers who are too horny to care that they’re not real.",
+      "source": "Wired",
+      "published": "2026-04-24T09:30:00+00:00",
+      "link": "https://www.wired.com/story/gay-ai-instagram-influencers-red-carpet/"
+    },
+    {
+      "title": "Health-care AI is here. We don’t know if it actually helps patients.",
+      "summary": "I don’t need to tell you that AI is everywhere. Or that it is being used, increasingly, in hospitals.",
+      "source": "MIT Tech Review",
+      "published": "2026-04-24T09:00:00+00:00",
+      "link": "https://www.technologyreview.com/2026/04/24/1136352/health-care-ai-dont-know-actually-helps-patients/"
+    },
+    {
+      "title": "5 Reasons to Think Twice Before Using ChatGPT—or Any Chatbot—for Financial Advice",
+      "summary": "As people increasingly rely on AI chatbots for guidance, even on financial matters, a healthy dose of skepticism is critical.",
+      "source": "Wired",
+      "published": "2026-04-24T09:00:00+00:00",
+      "link": "https://www.wired.com/story/5-reasons-to-think-twice-before-using-chatgpt-for-financial-advice/"
+    },
+    {
+      "title": "As agentic AI pushes rivals to raise prices and cap usage, Deepseek ships a good-enough model for almost nothing",
+      "summary": "Chinese AI lab Deepseek has released V4-Pro and V4-Flash, two new models with up to 1.6 trillion parameters and a one-million-token context window. Pricing sits well below OpenAI, Google, and Anthropic.",
+      "source": "The Decoder",
+      "published": "2026-04-24T08:35:28+00:00",
+      "link": "https://the-decoder.com/as-agentic-ai-pushes-rivals-to-raise-prices-and-cap-usage-deepseek-ships-a-good-enough-model-for-almost-nothing/"
+    },
+    {
+      "title": "How AI models use real-time cryptocurrency data to interpret market behaviour",
+      "summary": "AI systems are increasingly built around data that does not really pause. Financial markets are an obvious example, where inputs keep updating, not arriving in fixed batches.",
+      "source": "AI News",
+      "published": "2026-04-24T07:47:32+00:00",
+      "link": "https://www.artificialintelligence-news.com/news/how-ai-models-use-real-time-cryptocurrency-data-to-interpret-market-behaviour/"
+    },
+    {
       "title": "DeepSeek-V4: Towards Highly Efficient Million-Token Context Intelligence",
-      "summary": "Article URL: https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro Comments URL: https://news.ycombinator.com/item?id=47885014 Points: 147 # Comments: 14",
+      "summary": "Article URL: https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro Comments URL: https://news.ycombinator.com/item?id=47885014 Points: 152 # Comments: 15",
       "source": "Hacker News",
       "published": "2026-04-24T03:07:54+00:00",
       "link": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro"
@@ -59,7 +108,7 @@ const FEED_DATA = {
     },
     {
       "title": "GPT-5.5: Mythos-Like Hacking, Open to All",
-      "summary": "Article URL: https://xbow.com/blog/mythos-like-hacking-open-to-all Comments URL: https://news.ycombinator.com/item?id=47879330 Points: 55 # Comments: 13",
+      "summary": "Article URL: https://xbow.com/blog/mythos-like-hacking-open-to-all Comments URL: https://news.ycombinator.com/item?id=47879330 Points: 60 # Comments: 17",
       "source": "Hacker News",
       "published": "2026-04-23T18:16:55+00:00",
       "link": "https://xbow.com/blog/mythos-like-hacking-open-to-all"
@@ -73,7 +122,7 @@ const FEED_DATA = {
     },
     {
       "title": "GPT-5.5",
-      "summary": "Article URL: https://openai.com/index/introducing-gpt-5-5/ Comments URL: https://news.ycombinator.com/item?id=47879092 Points: 1285 # Comments: 860",
+      "summary": "Article URL: https://openai.com/index/introducing-gpt-5-5/ Comments URL: https://news.ycombinator.com/item?id=47879092 Points: 1378 # Comments: 906",
       "source": "Hacker News",
       "published": "2026-04-23T18:01:39+00:00",
       "link": "https://openai.com/index/introducing-gpt-5-5/"
@@ -94,7 +143,7 @@ const FEED_DATA = {
     },
     {
       "title": "MeshCore development team splits over trademark dispute and AI-generated code",
-      "summary": "Article URL: https://blog.meshcore.io/2026/04/23/the-split Comments URL: https://news.ycombinator.com/item?id=47878117 Points: 203 # Comments: 105",
+      "summary": "Article URL: https://blog.meshcore.io/2026/04/23/the-split Comments URL: https://news.ycombinator.com/item?id=47878117 Points: 222 # Comments: 118",
       "source": "Hacker News",
       "published": "2026-04-23T16:55:13+00:00",
       "link": "https://blog.meshcore.io/2026/04/23/the-split"
@@ -220,14 +269,14 @@ const FEED_DATA = {
     },
     {
       "title": "Do you want the US to \"win\" AI?",
-      "summary": "Article URL: https://geohot.github.io//blog/jekyll/update/2026/04/23/us-win-ai.html Comments URL: https://news.ycombinator.com/item?id=47873796 Points: 52 # Comments: 103",
+      "summary": "Article URL: https://geohot.github.io//blog/jekyll/update/2026/04/23/us-win-ai.html Comments URL: https://news.ycombinator.com/item?id=47873796 Points: 53 # Comments: 104",
       "source": "Hacker News",
       "published": "2026-04-23T09:41:20+00:00",
       "link": "https://geohot.github.io//blog/jekyll/update/2026/04/23/us-win-ai.html"
     },
     {
       "title": "Our newsroom AI policy",
-      "summary": "Article URL: https://arstechnica.com/staff/2026/04/our-newsroom-ai-policy/ Comments URL: https://news.ycombinator.com/item?id=47872452 Points: 192 # Comments: 125",
+      "summary": "Article URL: https://arstechnica.com/staff/2026/04/our-newsroom-ai-policy/ Comments URL: https://news.ycombinator.com/item?id=47872452 Points: 196 # Comments: 128",
       "source": "Hacker News",
       "published": "2026-04-23T05:14:05+00:00",
       "link": "https://arstechnica.com/staff/2026/04/our-newsroom-ai-policy/"
@@ -402,14 +451,14 @@ const FEED_DATA = {
     },
     {
       "title": "Top MAGA influencer revealed to be AI",
-      "summary": "Article URL: https://nypost.com/2026/04/21/us-news/top-maga-influencer-emily-hart-revealed-to-be-ai-created-by-a-guy-in-india/ Comments URL: https://news.ycombinator.com/item?id=47864808 Points: 96 # Comments: 54",
+      "summary": "Article URL: https://nypost.com/2026/04/21/us-news/top-maga-influencer-emily-hart-revealed-to-be-ai-created-by-a-guy-in-india/ Comments URL: https://news.ycombinator.com/item?id=47864808 Points: 97 # Comments: 54",
       "source": "Hacker News",
       "published": "2026-04-22T15:15:04+00:00",
       "link": "https://nypost.com/2026/04/21/us-news/top-maga-influencer-emily-hart-revealed-to-be-ai-created-by-a-guy-in-india/"
     },
     {
       "title": "Scoring Show HN submissions for AI design patterns",
-      "summary": "Article URL: https://www.adriankrebs.ch/blog/design-slop/ Comments URL: https://news.ycombinator.com/item?id=47864393 Points: 327 # Comments: 231",
+      "summary": "Article URL: https://www.adriankrebs.ch/blog/design-slop/ Comments URL: https://news.ycombinator.com/item?id=47864393 Points: 327 # Comments: 233",
       "source": "Hacker News",
       "published": "2026-04-22T14:44:32+00:00",
       "link": "https://www.adriankrebs.ch/blog/design-slop/"
@@ -500,7 +549,7 @@ const FEED_DATA = {
     },
     {
       "title": "Kernel code removals driven by LLM-created security reports",
-      "summary": "Article URL: https://lwn.net/Articles/1068928/ Comments URL: https://news.ycombinator.com/item?id=47862230 Points: 120 # Comments: 115",
+      "summary": "Article URL: https://lwn.net/Articles/1068928/ Comments URL: https://news.ycombinator.com/item?id=47862230 Points: 120 # Comments: 117",
       "source": "Hacker News",
       "published": "2026-04-22T11:48:07+00:00",
       "link": "https://lwn.net/Articles/1068928/"
@@ -535,7 +584,7 @@ const FEED_DATA = {
     },
     {
       "title": "Meta employees are up in arms over a mandatory program to train AI on their",
-      "summary": "Article URL: https://www.businessinsider.com/meta-new-ai-tool-tracks-staff-activity-sparks-concern-2026-4 Comments URL: https://news.ycombinator.com/item?id=47860961 Points: 116 # Comments: 89",
+      "summary": "Article URL: https://www.businessinsider.com/meta-new-ai-tool-tracks-staff-activity-sparks-concern-2026-4 Comments URL: https://news.ycombinator.com/item?id=47860961 Points: 116 # Comments: 90",
       "source": "Hacker News",
       "published": "2026-04-22T09:02:46+00:00",
       "link": "https://www.businessinsider.com/meta-new-ai-tool-tracks-staff-activity-sparks-concern-2026-4"
@@ -1351,55 +1400,6 @@ const FEED_DATA = {
       "source": "Ars Technica",
       "published": "2026-04-17T21:28:35+00:00",
       "link": "https://arstechnica.com/security/2026/04/russia-friendly-exchange-says-western-special-service-behind-15-million-cyberattack/"
-    },
-    {
-      "title": "OpenAI’s former Sora boss is leaving",
-      "summary": "Last month, OpenAI gave up on its Sora video generation tool, and on Friday, the Sora team's leader, Bill Peebles, announced that he is leaving the company.",
-      "source": "The Verge",
-      "published": "2026-04-17T21:13:25+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/914463/openai-sora-bill-peebles-kevin-weil-leaving-departing"
-    },
-    {
-      "title": "Kevin Weil and Bill Peebles exit OpenAI as company continues to shed ‘side quests’",
-      "summary": "Kevin Weil and Bill Peebles are leaving OpenAI as the company shuts down Sora and folds its science team, signaling a sharp pivot away from consumer moonshots toward enterprise AI.",
-      "source": "TechCrunch",
-      "published": "2026-04-17T20:38:17+00:00",
-      "link": "https://techcrunch.com/2026/04/17/kevin-weil-and-bill-peebles-exit-openai-as-company-continues-to-shed-side-quests/"
-    },
-    {
-      "title": "Anthropic’s new cybersecurity model could get it back in the government’s good graces",
-      "summary": "The Trump administration has spent nearly two months fighting with AI company Anthropic. It's dubbed the company a \"RADICAL LEFT, WOKE COMPANY\" full of \"Leftwing nut jobs\" and a menace to national security.",
-      "source": "The Verge",
-      "published": "2026-04-17T20:14:21+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/914229/tides-turning-anthropic-trump-administration-cybersecurity-mythos-preview"
-    },
-    {
-      "title": "OpenAI Executive Kevin Weil Is Leaving the Company",
-      "summary": "The former Instagram VP is departing the ChatGPT-maker, which is folding the AI science application he led into Codex.",
-      "source": "Wired",
-      "published": "2026-04-17T19:56:42+00:00",
-      "link": "https://www.wired.com/story/openai-executive-kevin-weil-is-leaving-the-company/"
-    },
-    {
-      "title": "Sources: Cursor in talks to raise $2B+ at $50B valuation as enterprise growth surges",
-      "summary": "Returning backers a16z and Thrive are expected to lead the round.",
-      "source": "TechCrunch",
-      "published": "2026-04-17T19:17:26+00:00",
-      "link": "https://techcrunch.com/2026/04/17/sources-cursor-in-talks-to-raise-2b-at-50b-valuation-as-enterprise-growth-surges/"
-    },
-    {
-      "title": "Google Deepmind's Gemini Robotics-ER 1.6 gives robots a sharper brain for planning and perception",
-      "summary": "Google Deepmind's Gemini Robotics-ER 1.6 helps robots plan and act more precisely, with a new knack for reading measuring instruments. The article Google Deepmind's Gemini Robotics-ER 1.6 gives robots a sharper brain for planning and perception appeared first on The Decoder.",
-      "source": "The Decoder",
-      "published": "2026-04-17T18:59:56+00:00",
-      "link": "https://the-decoder.com/google-deepminds-gemini-robotics-er-1-6-gives-robots-a-sharper-brain-for-planning-and-perception/"
-    },
-    {
-      "title": "Google finds new ways to keep you from ever visiting a website directly again",
-      "summary": "Google is pushing AI mode deeper into Chrome: websites will soon open directly next to the AI response. That makes the traditional page visit even less relevant.",
-      "source": "The Decoder",
-      "published": "2026-04-17T18:45:35+00:00",
-      "link": "https://the-decoder.com/google-finds-new-ways-to-keep-you-from-ever-visiting-a-website-directly-again/"
     }
   ]
 };
