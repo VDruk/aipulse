@@ -1,6 +1,48 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-04-24T14:45:51.141571+00:00",
+  "lastUpdated": "2026-04-24T17:45:32.698375+00:00",
   "items": [
+    {
+      "title": "AI-Designed Drugs by a DeepMind Spinoff Are Headed to Human Trials",
+      "summary": "Isomorphic Labs president Max Jaderberg said at WIRED Health in London that the startup has built a “broad and exciting pipeline of new medicines.”",
+      "source": "Wired",
+      "published": "2026-04-24T17:17:36+00:00",
+      "link": "https://www.wired.com/story/wired-health-2026-how-ai-is-powering-drug-discovery-max-jaderberg/"
+    },
+    {
+      "title": "How Project Maven taught the military to love AI",
+      "summary": "In the first 24 hours of the assault on Iran, the US military struck more than 1,000 targets, nearly double the scale of the \"shock and awe\" attack on Iraq over two decades ago. This acceleration was made possible by AI systems that speed up the targeting process.",
+      "source": "The Verge",
+      "published": "2026-04-24T17:00:00+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/917996/project-maven-military-ai-katrina-manson"
+    },
+    {
+      "title": "Marked-up Mac minis flood eBay amid shortages driven by AI",
+      "summary": "Apple’s sold-out Mac mini is spawning marked-up eBay listings as demand surges for the compact desktop, now favored for running local AI models and tools.",
+      "source": "TechCrunch",
+      "published": "2026-04-24T16:42:19+00:00",
+      "link": "https://techcrunch.com/2026/04/24/mac-mini-price-expensive-ebay-shortage-ai-memory/"
+    },
+    {
+      "title": "Why AI agents need interaction infrastructure",
+      "summary": "To stop automation waste, enterprises must deploy interaction infrastructure that physically governs how independent AI agents operate. AI agents now populate corporate networks, reasoning through tasks and executing decisions with increasing autonomy.",
+      "source": "AI News",
+      "published": "2026-04-24T16:24:17+00:00",
+      "link": "https://www.artificialintelligence-news.com/news/why-ai-agents-need-interaction-infrastructure/"
+    },
+    {
+      "title": "GPT-5.5 tops benchmarks but still hallucinates frequently and costs 20 percent more over the API",
+      "summary": "GPT-5.5 pushes OpenAI back to the top of the AI benchmarks. The price went up, but it still looks like the best bang for your buck among proprietary models.",
+      "source": "The Decoder",
+      "published": "2026-04-24T15:20:49+00:00",
+      "link": "https://the-decoder.com/gpt-5-5-tops-benchmarks-but-still-hallucinates-frequently-and-costs-20-percent-more-over-the-api/"
+    },
+    {
+      "title": "Apple's Next CEO Needs to Launch a Killer AI Product",
+      "summary": "Tim Cook was a great CEO, but he didn’t crack AI. It’s job number 1 for John Ternus.",
+      "source": "Wired",
+      "published": "2026-04-24T15:00:00+00:00",
+      "link": "https://www.wired.com/story/apples-next-ceo-needs-to-launch-a-killer-ai-product/"
+    },
     {
       "title": "AirPods, Touch Bars, and the rest of Tim Cook’s legacy",
       "summary": "We knew at some point Tim Cook would step down from his position as Apple's CEO. Over the last year, it has become increasingly obvious that John Ternus was his likely successor.",
@@ -86,7 +128,7 @@ const FEED_DATA = {
       "link": "https://www.theverge.com/gadgets/918016/prestigious-photo-contest-answers-what-is-a-photo"
     },
     {
-      "title": "These AI Thirst Trap Creators Say They're Misunderstood",
+      "title": "These AI Thirst Trap Creators Say They’re Misunderstood",
       "summary": "A viral red carpet moment shone light on a group of hunky Instagram influencers—and the followers who are too horny to care that they’re not real.",
       "source": "Wired",
       "published": "2026-04-24T09:30:00+00:00",
@@ -98,6 +140,13 @@ const FEED_DATA = {
       "source": "Wired",
       "published": "2026-04-24T09:30:00+00:00",
       "link": "https://www.wired.com/story/gay-ai-instagram-influencers-red-carpet/"
+    },
+    {
+      "title": "South Korea police arrest man for posting AI photo of runaway wolf",
+      "summary": "Article URL: https://www.bbc.com/news/articles/c4gx1n0dl9no Comments URL: https://news.ycombinator.com/item?id=47887683 Points: 207 # Comments: 130",
+      "source": "Hacker News",
+      "published": "2026-04-24T09:17:57+00:00",
+      "link": "https://www.bbc.com/news/articles/c4gx1n0dl9no"
     },
     {
       "title": "Health-care AI is here. We don’t know if it actually helps patients.",
@@ -129,7 +178,7 @@ const FEED_DATA = {
     },
     {
       "title": "DeepSeek-V4: Towards Highly Efficient Million-Token Context Intelligence",
-      "summary": "Article URL: https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro Comments URL: https://news.ycombinator.com/item?id=47885014 Points: 152 # Comments: 15",
+      "summary": "Article URL: https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro Comments URL: https://news.ycombinator.com/item?id=47885014 Points: 154 # Comments: 17",
       "source": "Hacker News",
       "published": "2026-04-24T03:07:54+00:00",
       "link": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro"
@@ -185,7 +234,7 @@ const FEED_DATA = {
     },
     {
       "title": "GPT-5.5: Mythos-Like Hacking, Open to All",
-      "summary": "Article URL: https://xbow.com/blog/mythos-like-hacking-open-to-all Comments URL: https://news.ycombinator.com/item?id=47879330 Points: 60 # Comments: 17",
+      "summary": "Article URL: https://xbow.com/blog/mythos-like-hacking-open-to-all Comments URL: https://news.ycombinator.com/item?id=47879330 Points: 71 # Comments: 21",
       "source": "Hacker News",
       "published": "2026-04-23T18:16:55+00:00",
       "link": "https://xbow.com/blog/mythos-like-hacking-open-to-all"
@@ -199,7 +248,7 @@ const FEED_DATA = {
     },
     {
       "title": "GPT-5.5",
-      "summary": "Article URL: https://openai.com/index/introducing-gpt-5-5/ Comments URL: https://news.ycombinator.com/item?id=47879092 Points: 1378 # Comments: 906",
+      "summary": "Article URL: https://openai.com/index/introducing-gpt-5-5/ Comments URL: https://news.ycombinator.com/item?id=47879092 Points: 1492 # Comments: 995",
       "source": "Hacker News",
       "published": "2026-04-23T18:01:39+00:00",
       "link": "https://openai.com/index/introducing-gpt-5-5/"
@@ -220,7 +269,7 @@ const FEED_DATA = {
     },
     {
       "title": "MeshCore development team splits over trademark dispute and AI-generated code",
-      "summary": "Article URL: https://blog.meshcore.io/2026/04/23/the-split Comments URL: https://news.ycombinator.com/item?id=47878117 Points: 222 # Comments: 118",
+      "summary": "Article URL: https://blog.meshcore.io/2026/04/23/the-split Comments URL: https://news.ycombinator.com/item?id=47878117 Points: 263 # Comments: 147",
       "source": "Hacker News",
       "published": "2026-04-23T16:55:13+00:00",
       "link": "https://blog.meshcore.io/2026/04/23/the-split"
@@ -353,7 +402,7 @@ const FEED_DATA = {
     },
     {
       "title": "Our newsroom AI policy",
-      "summary": "Article URL: https://arstechnica.com/staff/2026/04/our-newsroom-ai-policy/ Comments URL: https://news.ycombinator.com/item?id=47872452 Points: 196 # Comments: 128",
+      "summary": "Article URL: https://arstechnica.com/staff/2026/04/our-newsroom-ai-policy/ Comments URL: https://news.ycombinator.com/item?id=47872452 Points: 203 # Comments: 129",
       "source": "Hacker News",
       "published": "2026-04-23T05:14:05+00:00",
       "link": "https://arstechnica.com/staff/2026/04/our-newsroom-ai-policy/"
@@ -458,7 +507,7 @@ const FEED_DATA = {
     },
     {
       "title": "Anker made its own chip to bring AI to all its products",
-      "summary": "Article URL: https://www.theverge.com/tech/916463/anker-thus-chip-announcement Comments URL: https://news.ycombinator.com/item?id=47866368 Points: 67 # Comments: 47",
+      "summary": "Article URL: https://www.theverge.com/tech/916463/anker-thus-chip-announcement Comments URL: https://news.ycombinator.com/item?id=47866368 Points: 67 # Comments: 48",
       "source": "Hacker News",
       "published": "2026-04-22T17:10:46+00:00",
       "link": "https://www.theverge.com/tech/916463/anker-thus-chip-announcement"
@@ -535,7 +584,7 @@ const FEED_DATA = {
     },
     {
       "title": "Scoring Show HN submissions for AI design patterns",
-      "summary": "Article URL: https://www.adriankrebs.ch/blog/design-slop/ Comments URL: https://news.ycombinator.com/item?id=47864393 Points: 327 # Comments: 233",
+      "summary": "Article URL: https://www.adriankrebs.ch/blog/design-slop/ Comments URL: https://news.ycombinator.com/item?id=47864393 Points: 330 # Comments: 233",
       "source": "Hacker News",
       "published": "2026-04-22T14:44:32+00:00",
       "link": "https://www.adriankrebs.ch/blog/design-slop/"
@@ -626,7 +675,7 @@ const FEED_DATA = {
     },
     {
       "title": "Kernel code removals driven by LLM-created security reports",
-      "summary": "Article URL: https://lwn.net/Articles/1068928/ Comments URL: https://news.ycombinator.com/item?id=47862230 Points: 120 # Comments: 117",
+      "summary": "Article URL: https://lwn.net/Articles/1068928/ Comments URL: https://news.ycombinator.com/item?id=47862230 Points: 123 # Comments: 117",
       "source": "Hacker News",
       "published": "2026-04-22T11:48:07+00:00",
       "link": "https://lwn.net/Articles/1068928/"
@@ -1011,7 +1060,7 @@ const FEED_DATA = {
     },
     {
       "title": "Less human AI agents, please",
-      "summary": "Article URL: https://nial.se/blog/less-human-ai-agents-please/ Comments URL: https://news.ycombinator.com/item?id=47845429 Points: 158 # Comments: 168",
+      "summary": "Article URL: https://nial.se/blog/less-human-ai-agents-please/ Comments URL: https://news.ycombinator.com/item?id=47845429 Points: 159 # Comments: 168",
       "source": "Hacker News",
       "published": "2026-04-21T06:58:08+00:00",
       "link": "https://nial.se/blog/less-human-ai-agents-please/"
@@ -1351,55 +1400,6 @@ const FEED_DATA = {
       "source": "The Verge",
       "published": "2026-04-18T21:08:45+00:00",
       "link": "https://www.theverge.com/ai-artificial-intelligence/914672/the-ram-shortage-could-last-years"
-    },
-    {
-      "title": "AI chip startup Cerebras files for IPO",
-      "summary": "In recent months, the company announced an agreement with Amazon Web Services to use Cerebras chips in Amazon data centers, as well as a deal with OpenAI reportedly worth more than $10 billion.",
-      "source": "TechCrunch",
-      "published": "2026-04-18T19:19:11+00:00",
-      "link": "https://techcrunch.com/2026/04/18/ai-chip-startup-cerebras-files-for-ipo/"
-    },
-    {
-      "title": "College instructor turns to typewriters to curb AI-written work",
-      "summary": "Article URL: https://sentinelcolorado.com/uncategorized/a-college-instructor-turns-to-typewriters-to-curb-ai-written-work-and-teach-life-lessons/ Comments URL: https://news.ycombinator.com/item?id=47818485 Points: 490 # Comments: 429",
-      "source": "Hacker News",
-      "published": "2026-04-18T19:00:00+00:00",
-      "link": "https://sentinelcolorado.com/uncategorized/a-college-instructor-turns-to-typewriters-to-curb-ai-written-work-and-teach-life-lessons/"
-    },
-    {
-      "title": "Graphs that explain the state of AI in 2026",
-      "summary": "Article URL: https://spectrum.ieee.org/state-of-ai-index-2026 Comments URL: https://news.ycombinator.com/item?id=47817581 Points: 113 # Comments: 61",
-      "source": "Hacker News",
-      "published": "2026-04-18T17:12:44+00:00",
-      "link": "https://spectrum.ieee.org/state-of-ai-index-2026"
-    },
-    {
-      "title": "Anthropic’s relationship with the Trump administration seems to be thawing",
-      "summary": "Despite recently being designated a supply-chain risk by the Pentagon, Anthropic is still talking to high-level members of the Trump administration.",
-      "source": "TechCrunch",
-      "published": "2026-04-18T14:56:48+00:00",
-      "link": "https://techcrunch.com/2026/04/18/anthropics-relationship-with-the-trump-administration-seems-to-be-thawing/"
-    },
-    {
-      "title": "Salesforce CEO Marc Benioff says APIs are the new UI for AI agents",
-      "summary": "Salesforce is opening its entire platform to AI agents. With \"Headless 360,\" the API becomes the user interface and the browser becomes obsolete.",
-      "source": "The Decoder",
-      "published": "2026-04-18T13:06:19+00:00",
-      "link": "https://the-decoder.com/salesforce-ceo-marc-benioff-says-apis-are-the-new-ui-for-ai-agents/"
-    },
-    {
-      "title": "The App Store is booming again, and AI may be why",
-      "summary": "New data from Appfigures shows a swell of new app launches in 2026, suggesting AI tools could be fueling a mobile software boom.",
-      "source": "TechCrunch",
-      "published": "2026-04-18T13:00:00+00:00",
-      "link": "https://techcrunch.com/2026/04/18/the-app-store-is-booming-again-and-ai-may-be-why/"
-    },
-    {
-      "title": "Just ten minutes of using AI as an answer machine can measurably erode problem-solving skills, new study finds",
-      "summary": "Just 10 to 15 minutes with an AI assistant is enough to measurably weaken problem-solving ability and persistence on later tasks done without AI, according to a new study from researchers in the US and UK.",
-      "source": "The Decoder",
-      "published": "2026-04-18T12:45:14+00:00",
-      "link": "https://the-decoder.com/just-ten-minutes-of-using-ai-as-an-answer-machine-can-measurably-erode-problem-solving-skills-new-study-finds/"
     }
   ]
 };
