@@ -1,12 +1,47 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-04-25T09:39:43.675583+00:00",
+  "lastUpdated": "2026-04-25T14:03:46.765189+00:00",
   "items": [
+    {
+      "title": "US programmer job growth nearly halved since ChatGPT launched, Fed study finds",
+      "summary": "Programmers are among the professional groups whose everyday lives have changed the most as a result of generative AI. A new study by the Federal Reserve Board now provides evidence that this is also reflected in employment figures.",
+      "source": "The Decoder",
+      "published": "2026-04-25T12:44:29+00:00",
+      "link": "https://the-decoder.com/us-programmer-job-growth-nearly-halved-since-chatgpt-launched-fed-study-finds/"
+    },
+    {
+      "title": "Qwen3.6-27B beats much larger predecessor on most coding benchmarks",
+      "summary": "Alibaba's new open-source model Qwen3.6-27B beats its 15-times-larger predecessor across coding benchmarks with just 27 billion parameters. The article Qwen3.6-27B beats much larger predecessor on most coding benchmarks appeared first on The Decoder.",
+      "source": "The Decoder",
+      "published": "2026-04-25T12:16:13+00:00",
+      "link": "https://the-decoder.com/qwen3-6-27b-beats-much-larger-predecessor-on-most-coding-benchmarks/"
+    },
+    {
+      "title": "Discord Sleuths Gained Unauthorized Access to Anthropic’s Mythos",
+      "summary": "Plus: Spy firms tap into a global telecom weakness to track targets, 500,000 UK health records go up for sale on Alibaba, Apple patches a revealing notification bug, and more.",
+      "source": "Wired",
+      "published": "2026-04-25T10:30:00+00:00",
+      "link": "https://www.wired.com/story/security-news-this-week-discord-sleuths-gained-unauthorized-access-to-anthropics-mythos/"
+    },
+    {
+      "title": "Anthropic says stronger AI models cut better deals, and the losers don't even notice",
+      "summary": "Anthropic let 69 AI agents trade on behalf of employees in an internal marketplace for a week. Stronger models scored better deals, and the people stuck with weaker agents never noticed.",
+      "source": "The Decoder",
+      "published": "2026-04-25T10:18:31+00:00",
+      "link": "https://the-decoder.com/anthropic-says-stronger-ai-models-cut-better-deals-and-the-losers-dont-even-notice/"
+    },
     {
       "title": "The UAE wants half its government run by autonomous AI agents within two years",
       "summary": "The United Arab Emirates plans to shift half of its government operations to autonomous AI systems within two years. The article The UAE wants half its government run by autonomous AI agents within two years appeared first on The Decoder.",
       "source": "The Decoder",
       "published": "2026-04-25T09:08:57+00:00",
       "link": "https://the-decoder.com/the-uae-wants-half-its-government-run-by-autonomous-ai-agents-within-two-years/"
+    },
+    {
+      "title": "Show HN: A Karpathy-style LLM wiki your agents maintain (Markdown and Git)",
+      "summary": "I shipped a wiki layer for AI agents that uses markdown + git as the source of truth, with a bleve (BM25) + SQLite index on top.",
+      "source": "Hacker News",
+      "published": "2026-04-25T08:53:53+00:00",
+      "link": "https://github.com/nex-crm/wuphf"
     },
     {
       "title": "OpenAI unveils GPT-5.5, claims a \"new class of intelligence\" at double the API price",
@@ -21,6 +56,13 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-04-25T08:26:11+00:00",
       "link": "https://the-decoder.com/google-pours-up-to-40-billion-into-chatgpt-rival-anthropic/"
+    },
+    {
+      "title": "Open source memory layer so any AI agent can do what Claude.ai and ChatGPT do",
+      "summary": "Article URL: https://alash3al.github.io/stash?_v01 Comments URL: https://news.ycombinator.com/item?id=47897790 Points: 95 # Comments: 45",
+      "source": "Hacker News",
+      "published": "2026-04-25T01:24:40+00:00",
+      "link": "https://alash3al.github.io/stash?_v01"
     },
     {
       "title": "Three reasons why DeepSeek’s new model matters",
@@ -59,7 +101,7 @@ const FEED_DATA = {
     },
     {
       "title": "OpenAI releases GPT-5.5 and GPT-5.5 Pro in the API",
-      "summary": "GPT-5.5 - https://news.ycombinator.com/item?id=47879092 - April 2026 (1010 comments) Comments URL: https://news.ycombinator.com/item?id=47894000 Points: 234 # Comments: 129",
+      "summary": "GPT-5.5 - https://news.ycombinator.com/item?id=47879092 - April 2026 (1010 comments) Comments URL: https://news.ycombinator.com/item?id=47894000 Points: 250 # Comments: 139",
       "source": "Hacker News",
       "published": "2026-04-24T18:23:32+00:00",
       "link": "https://developers.openai.com/api/docs/changelog"
@@ -234,7 +276,7 @@ const FEED_DATA = {
     },
     {
       "title": "South Korea police arrest man for posting AI photo of runaway wolf",
-      "summary": "Article URL: https://www.bbc.com/news/articles/c4gx1n0dl9no Comments URL: https://news.ycombinator.com/item?id=47887683 Points: 223 # Comments: 149",
+      "summary": "Article URL: https://www.bbc.com/news/articles/c4gx1n0dl9no Comments URL: https://news.ycombinator.com/item?id=47887683 Points: 232 # Comments: 151",
       "source": "Hacker News",
       "published": "2026-04-24T09:17:57+00:00",
       "link": "https://www.bbc.com/news/articles/c4gx1n0dl9no"
@@ -269,7 +311,7 @@ const FEED_DATA = {
     },
     {
       "title": "DeepSeek-V4: Towards Highly Efficient Million-Token Context Intelligence",
-      "summary": "Article URL: https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro Comments URL: https://news.ycombinator.com/item?id=47885014 Points: 158 # Comments: 18",
+      "summary": "Article URL: https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro Comments URL: https://news.ycombinator.com/item?id=47885014 Points: 158 # Comments: 19",
       "source": "Hacker News",
       "published": "2026-04-24T03:07:54+00:00",
       "link": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro"
@@ -318,7 +360,7 @@ const FEED_DATA = {
     },
     {
       "title": "GPT-5.5: Mythos-Like Hacking, Open to All",
-      "summary": "Article URL: https://xbow.com/blog/mythos-like-hacking-open-to-all Comments URL: https://news.ycombinator.com/item?id=47879330 Points: 75 # Comments: 23",
+      "summary": "Article URL: https://xbow.com/blog/mythos-like-hacking-open-to-all Comments URL: https://news.ycombinator.com/item?id=47879330 Points: 75 # Comments: 24",
       "source": "Hacker News",
       "published": "2026-04-23T18:16:55+00:00",
       "link": "https://xbow.com/blog/mythos-like-hacking-open-to-all"
@@ -332,7 +374,7 @@ const FEED_DATA = {
     },
     {
       "title": "GPT-5.5",
-      "summary": "Article URL: https://openai.com/index/introducing-gpt-5-5/ Comments URL: https://news.ycombinator.com/item?id=47879092 Points: 1543 # Comments: 1028",
+      "summary": "Article URL: https://openai.com/index/introducing-gpt-5-5/ Comments URL: https://news.ycombinator.com/item?id=47879092 Points: 1552 # Comments: 1030",
       "source": "Hacker News",
       "published": "2026-04-23T18:01:39+00:00",
       "link": "https://openai.com/index/introducing-gpt-5-5/"
@@ -353,7 +395,7 @@ const FEED_DATA = {
     },
     {
       "title": "MeshCore development team splits over trademark dispute and AI-generated code",
-      "summary": "Article URL: https://blog.meshcore.io/2026/04/23/the-split Comments URL: https://news.ycombinator.com/item?id=47878117 Points: 275 # Comments: 169",
+      "summary": "Article URL: https://blog.meshcore.io/2026/04/23/the-split Comments URL: https://news.ycombinator.com/item?id=47878117 Points: 275 # Comments: 175",
       "source": "Hacker News",
       "published": "2026-04-23T16:55:13+00:00",
       "link": "https://blog.meshcore.io/2026/04/23/the-split"
@@ -479,14 +521,14 @@ const FEED_DATA = {
     },
     {
       "title": "Do you want the US to \"win\" AI?",
-      "summary": "Article URL: https://geohot.github.io//blog/jekyll/update/2026/04/23/us-win-ai.html Comments URL: https://news.ycombinator.com/item?id=47873796 Points: 54 # Comments: 104",
+      "summary": "Article URL: https://geohot.github.io//blog/jekyll/update/2026/04/23/us-win-ai.html Comments URL: https://news.ycombinator.com/item?id=47873796 Points: 54 # Comments: 105",
       "source": "Hacker News",
       "published": "2026-04-23T09:41:20+00:00",
       "link": "https://geohot.github.io//blog/jekyll/update/2026/04/23/us-win-ai.html"
     },
     {
       "title": "Our newsroom AI policy",
-      "summary": "Article URL: https://arstechnica.com/staff/2026/04/our-newsroom-ai-policy/ Comments URL: https://news.ycombinator.com/item?id=47872452 Points: 205 # Comments: 130",
+      "summary": "Article URL: https://arstechnica.com/staff/2026/04/our-newsroom-ai-policy/ Comments URL: https://news.ycombinator.com/item?id=47872452 Points: 206 # Comments: 130",
       "source": "Hacker News",
       "published": "2026-04-23T05:14:05+00:00",
       "link": "https://arstechnica.com/staff/2026/04/our-newsroom-ai-policy/"
@@ -1358,48 +1400,6 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-04-20T09:26:04+00:00",
       "link": "https://the-decoder.com/the-nsa-is-using-anthropics-most-powerful-ai-model-mythos/"
-    },
-    {
-      "title": "Chinese tech workers are starting to train their AI doubles—and pushing back",
-      "summary": "Tech workers in China are being instructed by their bosses to train AI agents to replace them—and it’s prompting a wave of soul-searching among otherwise enthusiastic early adopters.",
-      "source": "MIT Tech Review",
-      "published": "2026-04-20T09:00:00+00:00",
-      "link": "https://www.technologyreview.com/2026/04/20/1136149/chinese-tech-workers-ai-colleagues/"
-    },
-    {
-      "title": "Anthropic walks into the White House and Mythos is the reason Washington let it in",
-      "summary": "When we covered Project Glasswing earlier this month, the story was about a model too dangerous to release publicly and what Anthropic decided to do with it instead. That story has moved.",
-      "source": "AI News",
-      "published": "2026-04-20T08:00:00+00:00",
-      "link": "https://www.artificialintelligence-news.com/news/anthropic-mythos-ai-cybersecurity-white-house/"
-    },
-    {
-      "title": "The Uncanny Valley and the Rising Power of Anti-AI Sentiment",
-      "summary": "Article URL: https://localscribe.co/posts/uncanny-valley-and-rising-power-of-anti-ai-sentiment/ Comments URL: https://news.ycombinator.com/item?id=47829058 Points: 52 # Comments: 78",
-      "source": "Hacker News",
-      "published": "2026-04-20T00:34:39+00:00",
-      "link": "https://localscribe.co/posts/uncanny-valley-and-rising-power-of-anti-ai-sentiment/"
-    },
-    {
-      "title": "Swiss AI Initiative (2023)",
-      "summary": "Article URL: https://www.swiss-ai.org Comments URL: https://news.ycombinator.com/item?id=47828444 Points: 88 # Comments: 26",
-      "source": "Hacker News",
-      "published": "2026-04-19T22:58:35+00:00",
-      "link": "https://www.swiss-ai.org"
-    },
-    {
-      "title": "CEOs admit AI had no impact on employment or productivity",
-      "summary": "Article URL: https://fortune.com/article/why-do-thousands-of-ceos-believe-ai-not-having-impact-productivity-employment-study/ Comments URL: https://news.ycombinator.com/item?id=47827985 Points: 90 # Comments: 82",
-      "source": "Hacker News",
-      "published": "2026-04-19T21:56:22+00:00",
-      "link": "https://fortune.com/article/why-do-thousands-of-ceos-believe-ai-not-having-impact-productivity-employment-study/"
-    },
-    {
-      "title": "OpenAI’s existential questions",
-      "summary": "On the latest episode of Equity, we discuss OpenAI's latest acquisitions and whether they address \"two big existential problems\" for the company.",
-      "source": "TechCrunch",
-      "published": "2026-04-19T21:24:06+00:00",
-      "link": "https://techcrunch.com/2026/04/19/openais-existential-questions/"
     }
   ]
 };
