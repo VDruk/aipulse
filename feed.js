@@ -1,6 +1,41 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-04-25T14:03:46.765189+00:00",
+  "lastUpdated": "2026-04-25T17:33:34.921984+00:00",
   "items": [
+    {
+      "title": "OpenAI CEO apologizes to Tumbler Ridge community",
+      "summary": "In a letter to the residents of Tumbler Ridge, Canada, OpenAI CEO Sam Altman said he is “deeply sorry” that his company failed to alert law enforcement about the suspect in a recent mass shooting.",
+      "source": "TechCrunch",
+      "published": "2026-04-25T17:17:56+00:00",
+      "link": "https://techcrunch.com/2026/04/25/openai-ceo-apologizes-to-tumbler-ridge-community/"
+    },
+    {
+      "title": "GPT-5.5 tops benchmarks but still hallucinates frequently and costs 20 percent more over the API",
+      "summary": "GPT-5.5 pushes OpenAI back to the top of the AI benchmarks. The price went up, but it still looks like the best bang for your buck among proprietary models.",
+      "source": "The Decoder",
+      "published": "2026-04-25T16:50:49+00:00",
+      "link": "https://the-decoder.com/gpt-5-5-tops-benchmarks-but-still-hallucinates-frequently-and-costs-20-percent-more-over-the-api/"
+    },
+    {
+      "title": "Why Cohere is merging with Aleph Alpha",
+      "summary": "Canadian AI startup Cohere is taking over Germany-based Aleph Alpha with support from Lidl’s owner, Schwarz Group. With the blessing of their governments, the companies intend to offer a sovereign alternative to enterprises in an AI landscape dominated by American players.",
+      "source": "TechCrunch",
+      "published": "2026-04-25T16:00:00+00:00",
+      "link": "https://techcrunch.com/2026/04/25/why-cohere-is-merging-with-aleph-alpha/"
+    },
+    {
+      "title": "Why Tokyo is the most important tech destination of 2026",
+      "summary": "SusHi Tech Tokyo 2026 has four tightly defined technology domains, each backed by live demonstrations, dedicated exhibit floors, and sessions featuring the people actually building and funding these technologies globally.",
+      "source": "TechCrunch",
+      "published": "2026-04-25T15:03:00+00:00",
+      "link": "https://techcrunch.com/2026/04/25/why-tokyo-is-the-most-important-tech-destination-of-2026/"
+    },
+    {
+      "title": "GPT 5.5 biosafety bounty",
+      "summary": "Article URL: https://openai.com/index/gpt-5-5-bio-bug-bounty/ Comments URL: https://news.ycombinator.com/item?id=47901734 Points: 55 # Comments: 52",
+      "source": "Hacker News",
+      "published": "2026-04-25T14:17:31+00:00",
+      "link": "https://openai.com/index/gpt-5-5-bio-bug-bounty/"
+    },
     {
       "title": "US programmer job growth nearly halved since ChatGPT launched, Fed study finds",
       "summary": "Programmers are among the professional groups whose everyday lives have changed the most as a result of generative AI. A new study by the Federal Reserve Board now provides evidence that this is also reflected in employment figures.",
@@ -14,6 +49,13 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-04-25T12:16:13+00:00",
       "link": "https://the-decoder.com/qwen3-6-27b-beats-much-larger-predecessor-on-most-coding-benchmarks/"
+    },
+    {
+      "title": "Lambda Calculus Benchmark for AI",
+      "summary": "Article URL: https://victortaelin.github.io/lambench/ Comments URL: https://news.ycombinator.com/item?id=47900506 Points: 81 # Comments: 29",
+      "source": "Hacker News",
+      "published": "2026-04-25T11:16:23+00:00",
+      "link": "https://victortaelin.github.io/lambench/"
     },
     {
       "title": "Discord Sleuths Gained Unauthorized Access to Anthropic’s Mythos",
@@ -59,7 +101,7 @@ const FEED_DATA = {
     },
     {
       "title": "Open source memory layer so any AI agent can do what Claude.ai and ChatGPT do",
-      "summary": "Article URL: https://alash3al.github.io/stash?_v01 Comments URL: https://news.ycombinator.com/item?id=47897790 Points: 95 # Comments: 45",
+      "summary": "Article URL: https://alash3al.github.io/stash?_v01 Comments URL: https://news.ycombinator.com/item?id=47897790 Points: 139 # Comments: 58",
       "source": "Hacker News",
       "published": "2026-04-25T01:24:40+00:00",
       "link": "https://alash3al.github.io/stash?_v01"
@@ -101,7 +143,7 @@ const FEED_DATA = {
     },
     {
       "title": "OpenAI releases GPT-5.5 and GPT-5.5 Pro in the API",
-      "summary": "GPT-5.5 - https://news.ycombinator.com/item?id=47879092 - April 2026 (1010 comments) Comments URL: https://news.ycombinator.com/item?id=47894000 Points: 250 # Comments: 139",
+      "summary": "GPT-5.5 - https://news.ycombinator.com/item?id=47879092 - April 2026 (1010 comments) Comments URL: https://news.ycombinator.com/item?id=47894000 Points: 251 # Comments: 148",
       "source": "Hacker News",
       "published": "2026-04-24T18:23:32+00:00",
       "link": "https://developers.openai.com/api/docs/changelog"
@@ -129,7 +171,7 @@ const FEED_DATA = {
     },
     {
       "title": "Tesla discloses $2B AI hardware company acquisition in filing",
-      "summary": "Article URL: https://electrek.co/2026/04/23/tesla-tsla-quietly-discloses-2-billion-ai-hardware-acquisition-10q/ Comments URL: https://news.ycombinator.com/item?id=47892765 Points: 75 # Comments: 47",
+      "summary": "Article URL: https://electrek.co/2026/04/23/tesla-tsla-quietly-discloses-2-billion-ai-hardware-acquisition-10q/ Comments URL: https://news.ycombinator.com/item?id=47892765 Points: 76 # Comments: 47",
       "source": "Hacker News",
       "published": "2026-04-24T16:51:46+00:00",
       "link": "https://electrek.co/2026/04/23/tesla-tsla-quietly-discloses-2-billion-ai-hardware-acquisition-10q/"
@@ -147,13 +189,6 @@ const FEED_DATA = {
       "source": "AI News",
       "published": "2026-04-24T16:24:17+00:00",
       "link": "https://www.artificialintelligence-news.com/news/why-ai-agents-need-interaction-infrastructure/"
-    },
-    {
-      "title": "GPT-5.5 tops benchmarks but still hallucinates frequently and costs 20 percent more over the API",
-      "summary": "GPT-5.5 pushes OpenAI back to the top of the AI benchmarks. The price went up, but it still looks like the best bang for your buck among proprietary models.",
-      "source": "The Decoder",
-      "published": "2026-04-24T15:20:49+00:00",
-      "link": "https://the-decoder.com/gpt-5-5-tops-benchmarks-but-still-hallucinates-frequently-and-costs-20-percent-more-over-the-api/"
     },
     {
       "title": "Apple's Next CEO Needs to Launch a Killer AI Product",
@@ -276,7 +311,7 @@ const FEED_DATA = {
     },
     {
       "title": "South Korea police arrest man for posting AI photo of runaway wolf",
-      "summary": "Article URL: https://www.bbc.com/news/articles/c4gx1n0dl9no Comments URL: https://news.ycombinator.com/item?id=47887683 Points: 232 # Comments: 151",
+      "summary": "Article URL: https://www.bbc.com/news/articles/c4gx1n0dl9no Comments URL: https://news.ycombinator.com/item?id=47887683 Points: 233 # Comments: 152",
       "source": "Hacker News",
       "published": "2026-04-24T09:17:57+00:00",
       "link": "https://www.bbc.com/news/articles/c4gx1n0dl9no"
@@ -360,7 +395,7 @@ const FEED_DATA = {
     },
     {
       "title": "GPT-5.5: Mythos-Like Hacking, Open to All",
-      "summary": "Article URL: https://xbow.com/blog/mythos-like-hacking-open-to-all Comments URL: https://news.ycombinator.com/item?id=47879330 Points: 75 # Comments: 24",
+      "summary": "Article URL: https://xbow.com/blog/mythos-like-hacking-open-to-all Comments URL: https://news.ycombinator.com/item?id=47879330 Points: 77 # Comments: 24",
       "source": "Hacker News",
       "published": "2026-04-23T18:16:55+00:00",
       "link": "https://xbow.com/blog/mythos-like-hacking-open-to-all"
@@ -374,7 +409,7 @@ const FEED_DATA = {
     },
     {
       "title": "GPT-5.5",
-      "summary": "Article URL: https://openai.com/index/introducing-gpt-5-5/ Comments URL: https://news.ycombinator.com/item?id=47879092 Points: 1552 # Comments: 1030",
+      "summary": "Article URL: https://openai.com/index/introducing-gpt-5-5/ Comments URL: https://news.ycombinator.com/item?id=47879092 Points: 1556 # Comments: 1032",
       "source": "Hacker News",
       "published": "2026-04-23T18:01:39+00:00",
       "link": "https://openai.com/index/introducing-gpt-5-5/"
@@ -395,7 +430,7 @@ const FEED_DATA = {
     },
     {
       "title": "MeshCore development team splits over trademark dispute and AI-generated code",
-      "summary": "Article URL: https://blog.meshcore.io/2026/04/23/the-split Comments URL: https://news.ycombinator.com/item?id=47878117 Points: 275 # Comments: 175",
+      "summary": "Article URL: https://blog.meshcore.io/2026/04/23/the-split Comments URL: https://news.ycombinator.com/item?id=47878117 Points: 276 # Comments: 176",
       "source": "Hacker News",
       "published": "2026-04-23T16:55:13+00:00",
       "link": "https://blog.meshcore.io/2026/04/23/the-split"
@@ -422,18 +457,18 @@ const FEED_DATA = {
       "link": "https://the-decoder.com/claude-survey-new-capabilities-beat-speed-as-top-ai-benefit-but-creatives-feel-left-behind/"
     },
     {
-      "title": "Another customer of troubled startup Delve suffered a big security incident",
-      "summary": "TechCrunch has confirmed that Delve was the compliance company that performed the security certifications for Context AI, the AI agent training startup that last week disclosed a security incident.",
-      "source": "TechCrunch",
-      "published": "2026-04-23T14:00:00+00:00",
-      "link": "https://techcrunch.com/2026/04/23/another-customer-of-troubled-startup-delve-suffered-a-big-security-incident/"
-    },
-    {
       "title": "THE PEOPLE DO NOT YEARN FOR AUTOMATION",
       "summary": "Today on Decoder, I want to lay out an idea that’s been banging around my head for weeks now as we’ve been reporting on AI and having conversations here on this show.",
       "source": "The Verge",
       "published": "2026-04-23T14:00:00+00:00",
       "link": "https://www.theverge.com/podcast/917029/software-brain-ai-backlash-databases-automation"
+    },
+    {
+      "title": "Another customer of troubled startup Delve suffered a big security incident",
+      "summary": "TechCrunch has confirmed that Delve was the compliance company that performed the security certifications for Context AI, the AI agent training startup that last week disclosed a security incident.",
+      "source": "TechCrunch",
+      "published": "2026-04-23T14:00:00+00:00",
+      "link": "https://techcrunch.com/2026/04/23/another-customer-of-troubled-startup-delve-suffered-a-big-security-incident/"
     },
     {
       "title": "OpenAI releases open-source model that strips personal data from text",
@@ -633,7 +668,7 @@ const FEED_DATA = {
     },
     {
       "title": "Anker made its own chip to bring AI to all its products",
-      "summary": "Article URL: https://www.theverge.com/tech/916463/anker-thus-chip-announcement Comments URL: https://news.ycombinator.com/item?id=47866368 Points: 67 # Comments: 48",
+      "summary": "Article URL: https://www.theverge.com/tech/916463/anker-thus-chip-announcement Comments URL: https://news.ycombinator.com/item?id=47866368 Points: 67 # Comments: 49",
       "source": "Hacker News",
       "published": "2026-04-22T17:10:46+00:00",
       "link": "https://www.theverge.com/tech/916463/anker-thus-chip-announcement"
@@ -1365,41 +1400,6 @@ const FEED_DATA = {
       "source": "MIT Tech Review",
       "published": "2026-04-20T12:10:00+00:00",
       "link": "https://www.technologyreview.com/2026/04/20/1136154/the-download-murderous-mirror-bacteria-chinese-workers-fight-ai-agents/"
-    },
-    {
-      "title": "A Pascal's Wager for AI doomers",
-      "summary": "Article URL: https://pluralistic.net/2026/04/16/pascals-wager/ Comments URL: https://news.ycombinator.com/item?id=47832887 Points: 67 # Comments: 115",
-      "source": "Hacker News",
-      "published": "2026-04-20T11:42:17+00:00",
-      "link": "https://pluralistic.net/2026/04/16/pascals-wager/"
-    },
-    {
-      "title": "How to prepare for and remediate an AI system incident",
-      "summary": "For all the possibilities AI gives us, there is always a chance of the technology malfunctioning or becoming compromised.",
-      "source": "AI News",
-      "published": "2026-04-20T11:39:41+00:00",
-      "link": "https://www.artificialintelligence-news.com/news/how-to-prepare-for-and-remediate-an-ai-system-incident/"
-    },
-    {
-      "title": "Tech CEOs Think AI Will Let Them Be Everywhere at Once",
-      "summary": "Mark Zuckerberg and Jack Dorsey have different visions for how to use AI for management purposes, but both imagine a system of heightened control.",
-      "source": "Wired",
-      "published": "2026-04-20T11:00:00+00:00",
-      "link": "https://www.wired.com/story/tech-ceos-using-ai-to-be-everywhere-at-once/"
-    },
-    {
-      "title": "Colossal Biosciences said it cloned red wolves. Is it for real?",
-      "summary": "If you want to capture something wolflike, it’s best to embark before dawn. So on a morning this January, with the eastern horizon still pink-hued, I drove with two young scientists into a blanket of fog.",
-      "source": "MIT Tech Review",
-      "published": "2026-04-20T10:00:00+00:00",
-      "link": "https://www.technologyreview.com/2026/04/20/1135222/red-wolves-colossal-biosciences-clones/"
-    },
-    {
-      "title": "The NSA is using Anthropic's most powerful AI model Mythos",
-      "summary": "The NSA, the US intelligence agency responsible for electronic surveillance, is using Anthropic's most powerful AI model, \"Mythos Preview.\" The article The NSA is using Anthropic's most powerful AI model Mythos appeared first on The Decoder.",
-      "source": "The Decoder",
-      "published": "2026-04-20T09:26:04+00:00",
-      "link": "https://the-decoder.com/the-nsa-is-using-anthropics-most-powerful-ai-model-mythos/"
     }
   ]
 };
