@@ -1,6 +1,27 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-04-25T06:20:45.456736+00:00",
+  "lastUpdated": "2026-04-25T09:39:43.675583+00:00",
   "items": [
+    {
+      "title": "The UAE wants half its government run by autonomous AI agents within two years",
+      "summary": "The United Arab Emirates plans to shift half of its government operations to autonomous AI systems within two years. The article The UAE wants half its government run by autonomous AI agents within two years appeared first on The Decoder.",
+      "source": "The Decoder",
+      "published": "2026-04-25T09:08:57+00:00",
+      "link": "https://the-decoder.com/the-uae-wants-half-its-government-run-by-autonomous-ai-agents-within-two-years/"
+    },
+    {
+      "title": "OpenAI unveils GPT-5.5, claims a \"new class of intelligence\" at double the API price",
+      "summary": "OpenAI has announced GPT-5.5, an agentic model designed to work through complex tasks autonomously by switching between multiple tools. The article OpenAI unveils GPT-5.5, claims a \"new class of intelligence\" at double the API price appeared first on The Decoder.",
+      "source": "The Decoder",
+      "published": "2026-04-25T08:38:07+00:00",
+      "link": "https://the-decoder.com/openai-unveils-gpt-5-5-claims-a-new-class-of-intelligence-at-double-the-api-price/"
+    },
+    {
+      "title": "Google pours up to $40 billion into ChatGPT rival Anthropic",
+      "summary": "Google is investing up to 40 billion dollars in Anthropic. Together with Amazon's pledge of 25 billion dollars, up to 65 billion dollars will flow into the AI company behind Claude in just a few weeks.",
+      "source": "The Decoder",
+      "published": "2026-04-25T08:26:11+00:00",
+      "link": "https://the-decoder.com/google-pours-up-to-40-billion-into-chatgpt-rival-anthropic/"
+    },
     {
       "title": "Three reasons why DeepSeek’s new model matters",
       "summary": "On Friday, Chinese AI firm DeepSeek released a preview of V4, its long-awaited new flagship model. Notably, the model can process much longer prompts than its last generation, thanks to a new design that helps it handle large amounts of text more efficiently.",
@@ -38,7 +59,7 @@ const FEED_DATA = {
     },
     {
       "title": "OpenAI releases GPT-5.5 and GPT-5.5 Pro in the API",
-      "summary": "GPT-5.5 - https://news.ycombinator.com/item?id=47879092 - April 2026 (1010 comments) Comments URL: https://news.ycombinator.com/item?id=47894000 Points: 222 # Comments: 124",
+      "summary": "GPT-5.5 - https://news.ycombinator.com/item?id=47879092 - April 2026 (1010 comments) Comments URL: https://news.ycombinator.com/item?id=47894000 Points: 234 # Comments: 129",
       "source": "Hacker News",
       "published": "2026-04-24T18:23:32+00:00",
       "link": "https://developers.openai.com/api/docs/changelog"
@@ -66,7 +87,7 @@ const FEED_DATA = {
     },
     {
       "title": "Tesla discloses $2B AI hardware company acquisition in filing",
-      "summary": "Article URL: https://electrek.co/2026/04/23/tesla-tsla-quietly-discloses-2-billion-ai-hardware-acquisition-10q/ Comments URL: https://news.ycombinator.com/item?id=47892765 Points: 72 # Comments: 47",
+      "summary": "Article URL: https://electrek.co/2026/04/23/tesla-tsla-quietly-discloses-2-billion-ai-hardware-acquisition-10q/ Comments URL: https://news.ycombinator.com/item?id=47892765 Points: 75 # Comments: 47",
       "source": "Hacker News",
       "published": "2026-04-24T16:51:46+00:00",
       "link": "https://electrek.co/2026/04/23/tesla-tsla-quietly-discloses-2-billion-ai-hardware-acquisition-10q/"
@@ -213,7 +234,7 @@ const FEED_DATA = {
     },
     {
       "title": "South Korea police arrest man for posting AI photo of runaway wolf",
-      "summary": "Article URL: https://www.bbc.com/news/articles/c4gx1n0dl9no Comments URL: https://news.ycombinator.com/item?id=47887683 Points: 220 # Comments: 145",
+      "summary": "Article URL: https://www.bbc.com/news/articles/c4gx1n0dl9no Comments URL: https://news.ycombinator.com/item?id=47887683 Points: 223 # Comments: 149",
       "source": "Hacker News",
       "published": "2026-04-24T09:17:57+00:00",
       "link": "https://www.bbc.com/news/articles/c4gx1n0dl9no"
@@ -248,7 +269,7 @@ const FEED_DATA = {
     },
     {
       "title": "DeepSeek-V4: Towards Highly Efficient Million-Token Context Intelligence",
-      "summary": "Article URL: https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro Comments URL: https://news.ycombinator.com/item?id=47885014 Points: 157 # Comments: 18",
+      "summary": "Article URL: https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro Comments URL: https://news.ycombinator.com/item?id=47885014 Points: 158 # Comments: 18",
       "source": "Hacker News",
       "published": "2026-04-24T03:07:54+00:00",
       "link": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro"
@@ -273,13 +294,6 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-04-23T19:38:25+00:00",
       "link": "https://techcrunch.com/2026/04/23/meet-noscroll-an-ai-bot-that-does-your-doomscrolling-for-you/"
-    },
-    {
-      "title": "OpenAI unveils GPT-5.5, claims a \"new class of intelligence\" at double the API price",
-      "summary": "OpenAI has announced GPT-5.5, an agentic model designed to work through complex tasks autonomously by switching between multiple tools. The article OpenAI unveils GPT-5.5, claims a \"new class of intelligence\" at double the API price appeared first on The Decoder.",
-      "source": "The Decoder",
-      "published": "2026-04-23T19:01:07+00:00",
-      "link": "https://the-decoder.com/openai-unveils-gpt-5-5-claims-a-new-class-of-intelligence-at-double-the-api-price/"
     },
     {
       "title": "OpenAI releases GPT-5.5, bringing company one step closer to an AI ‘super app’",
@@ -318,7 +332,7 @@ const FEED_DATA = {
     },
     {
       "title": "GPT-5.5",
-      "summary": "Article URL: https://openai.com/index/introducing-gpt-5-5/ Comments URL: https://news.ycombinator.com/item?id=47879092 Points: 1531 # Comments: 1020",
+      "summary": "Article URL: https://openai.com/index/introducing-gpt-5-5/ Comments URL: https://news.ycombinator.com/item?id=47879092 Points: 1543 # Comments: 1028",
       "source": "Hacker News",
       "published": "2026-04-23T18:01:39+00:00",
       "link": "https://openai.com/index/introducing-gpt-5-5/"
@@ -339,7 +353,7 @@ const FEED_DATA = {
     },
     {
       "title": "MeshCore development team splits over trademark dispute and AI-generated code",
-      "summary": "Article URL: https://blog.meshcore.io/2026/04/23/the-split Comments URL: https://news.ycombinator.com/item?id=47878117 Points: 273 # Comments: 168",
+      "summary": "Article URL: https://blog.meshcore.io/2026/04/23/the-split Comments URL: https://news.ycombinator.com/item?id=47878117 Points: 275 # Comments: 169",
       "source": "Hacker News",
       "published": "2026-04-23T16:55:13+00:00",
       "link": "https://blog.meshcore.io/2026/04/23/the-split"
@@ -1386,20 +1400,6 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-04-19T21:24:06+00:00",
       "link": "https://techcrunch.com/2026/04/19/openais-existential-questions/"
-    },
-    {
-      "title": "The 12-month window",
-      "summary": "A lot of AI startups exist partly because the foundation models haven't expanded into their category yet. As many jokingly acknowledge, that won't last forever.",
-      "source": "TechCrunch",
-      "published": "2026-04-19T19:30:00+00:00",
-      "link": "https://techcrunch.com/2026/04/19/the-12-month-window/"
-    },
-    {
-      "title": "Uber’s Anthropic AI push hits a wall",
-      "summary": "Article URL: https://finance.yahoo.com/sectors/technology/articles/ubers-anthropic-ai-push-hits-223109852.html Comments URL: https://news.ycombinator.com/item?id=47826328 Points: 94 # Comments: 103",
-      "source": "Hacker News",
-      "published": "2026-04-19T18:13:32+00:00",
-      "link": "https://finance.yahoo.com/sectors/technology/articles/ubers-anthropic-ai-push-hits-223109852.html"
     }
   ]
 };
