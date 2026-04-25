@@ -1,6 +1,13 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-04-25T17:33:34.921984+00:00",
+  "lastUpdated": "2026-04-25T21:29:28.990121+00:00",
   "items": [
+    {
+      "title": "Maine’s governor vetoes data center moratorium",
+      "summary": "L.D. 307 would have imposed the country’s first statewide moratorium on new data centers — lasting, in this case, until November 1, 2027.",
+      "source": "TechCrunch",
+      "published": "2026-04-25T20:57:08+00:00",
+      "link": "https://techcrunch.com/2026/04/25/maines-governor-vetoes-data-center-moratorium/"
+    },
     {
       "title": "OpenAI CEO apologizes to Tumbler Ridge community",
       "summary": "In a letter to the residents of Tumbler Ridge, Canada, OpenAI CEO Sam Altman said he is “deeply sorry” that his company failed to alert law enforcement about the suspect in a recent mass shooting.",
@@ -30,6 +37,13 @@ const FEED_DATA = {
       "link": "https://techcrunch.com/2026/04/25/why-tokyo-is-the-most-important-tech-destination-of-2026/"
     },
     {
+      "title": "GPT‑5.5 Bio Bug Bounty",
+      "summary": "Article URL: https://openai.com/index/gpt-5-5-bio-bug-bounty/ Comments URL: https://news.ycombinator.com/item?id=47901734 Points: 106 # Comments: 87",
+      "source": "Hacker News",
+      "published": "2026-04-25T14:17:31+00:00",
+      "link": "https://openai.com/index/gpt-5-5-bio-bug-bounty/"
+    },
+    {
       "title": "GPT 5.5 biosafety bounty",
       "summary": "Article URL: https://openai.com/index/gpt-5-5-bio-bug-bounty/ Comments URL: https://news.ycombinator.com/item?id=47901734 Points: 55 # Comments: 52",
       "source": "Hacker News",
@@ -52,7 +66,7 @@ const FEED_DATA = {
     },
     {
       "title": "Lambda Calculus Benchmark for AI",
-      "summary": "Article URL: https://victortaelin.github.io/lambench/ Comments URL: https://news.ycombinator.com/item?id=47900506 Points: 81 # Comments: 29",
+      "summary": "Article URL: https://victortaelin.github.io/lambench/ Comments URL: https://news.ycombinator.com/item?id=47900506 Points: 116 # Comments: 36",
       "source": "Hacker News",
       "published": "2026-04-25T11:16:23+00:00",
       "link": "https://victortaelin.github.io/lambench/"
@@ -101,7 +115,7 @@ const FEED_DATA = {
     },
     {
       "title": "Open source memory layer so any AI agent can do what Claude.ai and ChatGPT do",
-      "summary": "Article URL: https://alash3al.github.io/stash?_v01 Comments URL: https://news.ycombinator.com/item?id=47897790 Points: 139 # Comments: 58",
+      "summary": "Article URL: https://alash3al.github.io/stash?_v01 Comments URL: https://news.ycombinator.com/item?id=47897790 Points: 158 # Comments: 67",
       "source": "Hacker News",
       "published": "2026-04-25T01:24:40+00:00",
       "link": "https://alash3al.github.io/stash?_v01"
@@ -143,7 +157,7 @@ const FEED_DATA = {
     },
     {
       "title": "OpenAI releases GPT-5.5 and GPT-5.5 Pro in the API",
-      "summary": "GPT-5.5 - https://news.ycombinator.com/item?id=47879092 - April 2026 (1010 comments) Comments URL: https://news.ycombinator.com/item?id=47894000 Points: 251 # Comments: 148",
+      "summary": "GPT-5.5 - https://news.ycombinator.com/item?id=47879092 - April 2026 (1010 comments) Comments URL: https://news.ycombinator.com/item?id=47894000 Points: 253 # Comments: 151",
       "source": "Hacker News",
       "published": "2026-04-24T18:23:32+00:00",
       "link": "https://developers.openai.com/api/docs/changelog"
@@ -311,7 +325,7 @@ const FEED_DATA = {
     },
     {
       "title": "South Korea police arrest man for posting AI photo of runaway wolf",
-      "summary": "Article URL: https://www.bbc.com/news/articles/c4gx1n0dl9no Comments URL: https://news.ycombinator.com/item?id=47887683 Points: 233 # Comments: 152",
+      "summary": "Article URL: https://www.bbc.com/news/articles/c4gx1n0dl9no Comments URL: https://news.ycombinator.com/item?id=47887683 Points: 234 # Comments: 153",
       "source": "Hacker News",
       "published": "2026-04-24T09:17:57+00:00",
       "link": "https://www.bbc.com/news/articles/c4gx1n0dl9no"
@@ -346,7 +360,7 @@ const FEED_DATA = {
     },
     {
       "title": "DeepSeek-V4: Towards Highly Efficient Million-Token Context Intelligence",
-      "summary": "Article URL: https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro Comments URL: https://news.ycombinator.com/item?id=47885014 Points: 158 # Comments: 19",
+      "summary": "Article URL: https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro Comments URL: https://news.ycombinator.com/item?id=47885014 Points: 159 # Comments: 19",
       "source": "Hacker News",
       "published": "2026-04-24T03:07:54+00:00",
       "link": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro"
@@ -395,7 +409,7 @@ const FEED_DATA = {
     },
     {
       "title": "GPT-5.5: Mythos-Like Hacking, Open to All",
-      "summary": "Article URL: https://xbow.com/blog/mythos-like-hacking-open-to-all Comments URL: https://news.ycombinator.com/item?id=47879330 Points: 77 # Comments: 24",
+      "summary": "Article URL: https://xbow.com/blog/mythos-like-hacking-open-to-all Comments URL: https://news.ycombinator.com/item?id=47879330 Points: 77 # Comments: 25",
       "source": "Hacker News",
       "published": "2026-04-23T18:16:55+00:00",
       "link": "https://xbow.com/blog/mythos-like-hacking-open-to-all"
@@ -409,7 +423,7 @@ const FEED_DATA = {
     },
     {
       "title": "GPT-5.5",
-      "summary": "Article URL: https://openai.com/index/introducing-gpt-5-5/ Comments URL: https://news.ycombinator.com/item?id=47879092 Points: 1556 # Comments: 1032",
+      "summary": "Article URL: https://openai.com/index/introducing-gpt-5-5/ Comments URL: https://news.ycombinator.com/item?id=47879092 Points: 1557 # Comments: 1034",
       "source": "Hacker News",
       "published": "2026-04-23T18:01:39+00:00",
       "link": "https://openai.com/index/introducing-gpt-5-5/"
@@ -563,7 +577,7 @@ const FEED_DATA = {
     },
     {
       "title": "Our newsroom AI policy",
-      "summary": "Article URL: https://arstechnica.com/staff/2026/04/our-newsroom-ai-policy/ Comments URL: https://news.ycombinator.com/item?id=47872452 Points: 206 # Comments: 130",
+      "summary": "Article URL: https://arstechnica.com/staff/2026/04/our-newsroom-ai-policy/ Comments URL: https://news.ycombinator.com/item?id=47872452 Points: 207 # Comments: 130",
       "source": "Hacker News",
       "published": "2026-04-23T05:14:05+00:00",
       "link": "https://arstechnica.com/staff/2026/04/our-newsroom-ai-policy/"
@@ -1386,20 +1400,6 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-04-20T13:11:39+00:00",
       "link": "https://the-decoder.com/salesforce-bets-on-agent-albert-to-prove-ai-wont-kill-enterprise-software/"
-    },
-    {
-      "title": "Atlassian enables default data collection to train AI",
-      "summary": "Article URL: https://letsdatascience.com/news/atlassian-enables-default-data-collection-to-train-ai-f71343d8 Comments URL: https://news.ycombinator.com/item?id=47833247 Points: 599 # Comments: 134",
-      "source": "Hacker News",
-      "published": "2026-04-20T12:23:39+00:00",
-      "link": "https://letsdatascience.com/news/atlassian-enables-default-data-collection-to-train-ai-f71343d8"
-    },
-    {
-      "title": "The Download: murderous ‘mirror’ bacteria, and Chinese workers fighting AI doubles",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.",
-      "source": "MIT Tech Review",
-      "published": "2026-04-20T12:10:00+00:00",
-      "link": "https://www.technologyreview.com/2026/04/20/1136154/the-download-murderous-mirror-bacteria-chinese-workers-fight-ai-agents/"
     }
   ]
 };
