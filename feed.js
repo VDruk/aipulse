@@ -1,6 +1,13 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-04-24T21:40:46.575900+00:00",
+  "lastUpdated": "2026-04-25T03:51:12.020997+00:00",
   "items": [
+    {
+      "title": "Three reasons why DeepSeek’s new model matters",
+      "summary": "On Friday, Chinese AI firm DeepSeek released a preview of V4, its long-awaited new flagship model. Notably, the model can process much longer prompts than its last generation, thanks to a new design that helps it handle large amounts of text more efficiently.",
+      "source": "MIT Tech Review",
+      "published": "2026-04-24T21:40:58+00:00",
+      "link": "https://www.technologyreview.com/2026/04/24/1136422/why-deepseeks-v4-matters/"
+    },
     {
       "title": "Meta’s loss is Thinking Machines’ gain",
       "summary": "Meta has been poaching talent from Thinking Machines Lab. But it's a two-way street.",
@@ -31,7 +38,7 @@ const FEED_DATA = {
     },
     {
       "title": "OpenAI releases GPT-5.5 and GPT-5.5 Pro in the API",
-      "summary": "GPT-5.5 - https://news.ycombinator.com/item?id=47879092 - April 2026 (1010 comments) Comments URL: https://news.ycombinator.com/item?id=47894000 Points: 161 # Comments: 97",
+      "summary": "GPT-5.5 - https://news.ycombinator.com/item?id=47879092 - April 2026 (1010 comments) Comments URL: https://news.ycombinator.com/item?id=47894000 Points: 222 # Comments: 124",
       "source": "Hacker News",
       "published": "2026-04-24T18:23:32+00:00",
       "link": "https://developers.openai.com/api/docs/changelog"
@@ -59,7 +66,7 @@ const FEED_DATA = {
     },
     {
       "title": "Tesla discloses $2B AI hardware company acquisition in filing",
-      "summary": "Article URL: https://electrek.co/2026/04/23/tesla-tsla-quietly-discloses-2-billion-ai-hardware-acquisition-10q/ Comments URL: https://news.ycombinator.com/item?id=47892765 Points: 62 # Comments: 43",
+      "summary": "Article URL: https://electrek.co/2026/04/23/tesla-tsla-quietly-discloses-2-billion-ai-hardware-acquisition-10q/ Comments URL: https://news.ycombinator.com/item?id=47892765 Points: 72 # Comments: 47",
       "source": "Hacker News",
       "published": "2026-04-24T16:51:46+00:00",
       "link": "https://electrek.co/2026/04/23/tesla-tsla-quietly-discloses-2-billion-ai-hardware-acquisition-10q/"
@@ -150,7 +157,7 @@ const FEED_DATA = {
     },
     {
       "title": "Show HN: Atomic – Local-first, AI-augmented personal knowledge base",
-      "summary": "Article URL: https://atomicapp.ai/ Comments URL: https://news.ycombinator.com/item?id=47889110 Points: 52 # Comments: 37",
+      "summary": "Hey HN - I first posted about my knowledge base product, Atomic, here around a month ago; since then, a viral tweet by Karpathy has produced a torrent of AI powered knowledge base projects.",
       "source": "Hacker News",
       "published": "2026-04-24T12:07:30+00:00",
       "link": "https://atomicapp.ai/"
@@ -206,7 +213,7 @@ const FEED_DATA = {
     },
     {
       "title": "South Korea police arrest man for posting AI photo of runaway wolf",
-      "summary": "Article URL: https://www.bbc.com/news/articles/c4gx1n0dl9no Comments URL: https://news.ycombinator.com/item?id=47887683 Points: 215 # Comments: 138",
+      "summary": "Article URL: https://www.bbc.com/news/articles/c4gx1n0dl9no Comments URL: https://news.ycombinator.com/item?id=47887683 Points: 220 # Comments: 145",
       "source": "Hacker News",
       "published": "2026-04-24T09:17:57+00:00",
       "link": "https://www.bbc.com/news/articles/c4gx1n0dl9no"
@@ -241,7 +248,7 @@ const FEED_DATA = {
     },
     {
       "title": "DeepSeek-V4: Towards Highly Efficient Million-Token Context Intelligence",
-      "summary": "Article URL: https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro Comments URL: https://news.ycombinator.com/item?id=47885014 Points: 156 # Comments: 18",
+      "summary": "Article URL: https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro Comments URL: https://news.ycombinator.com/item?id=47885014 Points: 157 # Comments: 18",
       "source": "Hacker News",
       "published": "2026-04-24T03:07:54+00:00",
       "link": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro"
@@ -297,7 +304,7 @@ const FEED_DATA = {
     },
     {
       "title": "GPT-5.5: Mythos-Like Hacking, Open to All",
-      "summary": "Article URL: https://xbow.com/blog/mythos-like-hacking-open-to-all Comments URL: https://news.ycombinator.com/item?id=47879330 Points: 74 # Comments: 22",
+      "summary": "Article URL: https://xbow.com/blog/mythos-like-hacking-open-to-all Comments URL: https://news.ycombinator.com/item?id=47879330 Points: 75 # Comments: 23",
       "source": "Hacker News",
       "published": "2026-04-23T18:16:55+00:00",
       "link": "https://xbow.com/blog/mythos-like-hacking-open-to-all"
@@ -311,7 +318,7 @@ const FEED_DATA = {
     },
     {
       "title": "GPT-5.5",
-      "summary": "Article URL: https://openai.com/index/introducing-gpt-5-5/ Comments URL: https://news.ycombinator.com/item?id=47879092 Points: 1520 # Comments: 1014",
+      "summary": "Article URL: https://openai.com/index/introducing-gpt-5-5/ Comments URL: https://news.ycombinator.com/item?id=47879092 Points: 1531 # Comments: 1020",
       "source": "Hacker News",
       "published": "2026-04-23T18:01:39+00:00",
       "link": "https://openai.com/index/introducing-gpt-5-5/"
@@ -332,7 +339,7 @@ const FEED_DATA = {
     },
     {
       "title": "MeshCore development team splits over trademark dispute and AI-generated code",
-      "summary": "Article URL: https://blog.meshcore.io/2026/04/23/the-split Comments URL: https://news.ycombinator.com/item?id=47878117 Points: 272 # Comments: 164",
+      "summary": "Article URL: https://blog.meshcore.io/2026/04/23/the-split Comments URL: https://news.ycombinator.com/item?id=47878117 Points: 273 # Comments: 168",
       "source": "Hacker News",
       "published": "2026-04-23T16:55:13+00:00",
       "link": "https://blog.meshcore.io/2026/04/23/the-split"
@@ -458,7 +465,7 @@ const FEED_DATA = {
     },
     {
       "title": "Do you want the US to \"win\" AI?",
-      "summary": "Article URL: https://geohot.github.io//blog/jekyll/update/2026/04/23/us-win-ai.html Comments URL: https://news.ycombinator.com/item?id=47873796 Points: 53 # Comments: 104",
+      "summary": "Article URL: https://geohot.github.io//blog/jekyll/update/2026/04/23/us-win-ai.html Comments URL: https://news.ycombinator.com/item?id=47873796 Points: 54 # Comments: 104",
       "source": "Hacker News",
       "published": "2026-04-23T09:41:20+00:00",
       "link": "https://geohot.github.io//blog/jekyll/update/2026/04/23/us-win-ai.html"
@@ -773,7 +780,7 @@ const FEED_DATA = {
     },
     {
       "title": "Meta employees are up in arms over a mandatory program to train AI on their",
-      "summary": "Article URL: https://www.businessinsider.com/meta-new-ai-tool-tracks-staff-activity-sparks-concern-2026-4 Comments URL: https://news.ycombinator.com/item?id=47860961 Points: 116 # Comments: 90",
+      "summary": "Article URL: https://www.businessinsider.com/meta-new-ai-tool-tracks-staff-activity-sparks-concern-2026-4 Comments URL: https://news.ycombinator.com/item?id=47860961 Points: 116 # Comments: 89",
       "source": "Hacker News",
       "published": "2026-04-22T09:02:46+00:00",
       "link": "https://www.businessinsider.com/meta-new-ai-tool-tracks-staff-activity-sparks-concern-2026-4"
@@ -920,7 +927,7 @@ const FEED_DATA = {
     },
     {
       "title": "Meta to start capturing employee mouse movements, keystrokes for AI training",
-      "summary": "Alt link: https://tech.yahoo.com/ai/meta-ai/articles/exclusive-meta-st... Comments URL: https://news.ycombinator.com/item?id=47851948 Points: 791 # Comments: 523",
+      "summary": "Alt link: https://tech.yahoo.com/ai/meta-ai/articles/exclusive-meta-st... Comments URL: https://news.ycombinator.com/item?id=47851948 Points: 792 # Comments: 524",
       "source": "Hacker News",
       "published": "2026-04-21T17:40:39+00:00",
       "link": "https://www.reuters.com/sustainability/boards-policy-regulation/meta-start-capturing-employee-mouse-movements-keystrokes-ai-training-data-2026-04-21/"
@@ -1393,13 +1400,6 @@ const FEED_DATA = {
       "source": "Hacker News",
       "published": "2026-04-19T18:13:32+00:00",
       "link": "https://finance.yahoo.com/sectors/technology/articles/ubers-anthropic-ai-push-hits-223109852.html"
-    },
-    {
-      "title": "TechCrunch Mobility: Uber enters its assetmaxxing era",
-      "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, how AI is playing a part.",
-      "source": "TechCrunch",
-      "published": "2026-04-19T16:01:00+00:00",
-      "link": "https://techcrunch.com/2026/04/19/techcrunch-mobility-uber-enters-its-assetmaxxing-era/"
     }
   ]
 };
