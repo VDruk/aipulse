@@ -1,6 +1,13 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-04-26T14:05:19.835111+00:00",
+  "lastUpdated": "2026-04-26T17:34:21.737446+00:00",
   "items": [
+    {
+      "title": "To buy this Bay Area home, you’ll need Anthropic equity",
+      "summary": "Someone’s offering an unusual deal for a 13-acre property in Mill Valley, just north of South Francisco.",
+      "source": "TechCrunch",
+      "published": "2026-04-26T15:30:00+00:00",
+      "link": "https://techcrunch.com/2026/04/26/to-buy-this-bay-area-home-youll-need-anthropic-equity/"
+    },
     {
       "title": "OpenAI kills its dedicated coding model Codex again, folding it into GPT-5.5",
       "summary": "OpenAI has once again retired its dedicated Codex coding model, folding its capabilities directly into the main model. GPT-5.5 promises stronger agentic coding and lower token usage, OpenAI says.",
@@ -31,7 +38,7 @@ const FEED_DATA = {
     },
     {
       "title": "Eden AI – European Alternative to OpenRouter",
-      "summary": "Article URL: https://www.edenai.co Comments URL: https://news.ycombinator.com/item?id=47908433 Points: 90 # Comments: 47",
+      "summary": "Article URL: https://www.edenai.co Comments URL: https://news.ycombinator.com/item?id=47908433 Points: 109 # Comments: 57",
       "source": "Hacker News",
       "published": "2026-04-26T08:18:09+00:00",
       "link": "https://www.edenai.co"
@@ -52,7 +59,7 @@ const FEED_DATA = {
     },
     {
       "title": "The AI industry is discovering that the public hates it",
-      "summary": "Article URL: https://newrepublic.com/article/209163/ai-industry-discovering-public-backlash Comments URL: https://news.ycombinator.com/item?id=47904568 Points: 246 # Comments: 331",
+      "summary": "Article URL: https://newrepublic.com/article/209163/ai-industry-discovering-public-backlash Comments URL: https://news.ycombinator.com/item?id=47904568 Points: 254 # Comments: 335",
       "source": "Hacker News",
       "published": "2026-04-25T21:11:11+00:00",
       "link": "https://newrepublic.com/article/209163/ai-industry-discovering-public-backlash"
@@ -101,7 +108,7 @@ const FEED_DATA = {
     },
     {
       "title": "GPT‑5.5 Bio Bug Bounty",
-      "summary": "Article URL: https://openai.com/index/gpt-5-5-bio-bug-bounty/ Comments URL: https://news.ycombinator.com/item?id=47901734 Points: 150 # Comments: 101",
+      "summary": "Article URL: https://openai.com/index/gpt-5-5-bio-bug-bounty/ Comments URL: https://news.ycombinator.com/item?id=47901734 Points: 151 # Comments: 101",
       "source": "Hacker News",
       "published": "2026-04-25T14:17:31+00:00",
       "link": "https://openai.com/index/gpt-5-5-bio-bug-bounty/"
@@ -129,7 +136,7 @@ const FEED_DATA = {
     },
     {
       "title": "Lambda Calculus Benchmark for AI",
-      "summary": "Article URL: https://victortaelin.github.io/lambench/ Comments URL: https://news.ycombinator.com/item?id=47900506 Points: 137 # Comments: 41",
+      "summary": "Article URL: https://victortaelin.github.io/lambench/ Comments URL: https://news.ycombinator.com/item?id=47900506 Points: 139 # Comments: 41",
       "source": "Hacker News",
       "published": "2026-04-25T11:16:23+00:00",
       "link": "https://victortaelin.github.io/lambench/"
@@ -178,7 +185,7 @@ const FEED_DATA = {
     },
     {
       "title": "Open source memory layer so any AI agent can do what Claude.ai and ChatGPT do",
-      "summary": "Article URL: https://alash3al.github.io/stash?_v01 Comments URL: https://news.ycombinator.com/item?id=47897790 Points: 173 # Comments: 73",
+      "summary": "Article URL: https://alash3al.github.io/stash?_v01 Comments URL: https://news.ycombinator.com/item?id=47897790 Points: 175 # Comments: 74",
       "source": "Hacker News",
       "published": "2026-04-25T01:24:40+00:00",
       "link": "https://alash3al.github.io/stash?_v01"
@@ -220,7 +227,7 @@ const FEED_DATA = {
     },
     {
       "title": "OpenAI releases GPT-5.5 and GPT-5.5 Pro in the API",
-      "summary": "GPT-5.5 - https://news.ycombinator.com/item?id=47879092 - April 2026 (1010 comments) Comments URL: https://news.ycombinator.com/item?id=47894000 Points: 255 # Comments: 154",
+      "summary": "GPT-5.5 - https://news.ycombinator.com/item?id=47879092 - April 2026 (1010 comments) Comments URL: https://news.ycombinator.com/item?id=47894000 Points: 255 # Comments: 157",
       "source": "Hacker News",
       "published": "2026-04-24T18:23:32+00:00",
       "link": "https://developers.openai.com/api/docs/changelog"
@@ -388,7 +395,7 @@ const FEED_DATA = {
     },
     {
       "title": "South Korea police arrest man for posting AI photo of runaway wolf",
-      "summary": "Article URL: https://www.bbc.com/news/articles/c4gx1n0dl9no Comments URL: https://news.ycombinator.com/item?id=47887683 Points: 234 # Comments: 154",
+      "summary": "Article URL: https://www.bbc.com/news/articles/c4gx1n0dl9no Comments URL: https://news.ycombinator.com/item?id=47887683 Points: 234 # Comments: 155",
       "source": "Hacker News",
       "published": "2026-04-24T09:17:57+00:00",
       "link": "https://www.bbc.com/news/articles/c4gx1n0dl9no"
@@ -486,7 +493,7 @@ const FEED_DATA = {
     },
     {
       "title": "GPT-5.5",
-      "summary": "Article URL: https://openai.com/index/introducing-gpt-5-5/ Comments URL: https://news.ycombinator.com/item?id=47879092 Points: 1562 # Comments: 1040",
+      "summary": "Article URL: https://openai.com/index/introducing-gpt-5-5/ Comments URL: https://news.ycombinator.com/item?id=47879092 Points: 1563 # Comments: 1040",
       "source": "Hacker News",
       "published": "2026-04-23T18:01:39+00:00",
       "link": "https://openai.com/index/introducing-gpt-5-5/"
@@ -1393,13 +1400,6 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-04-20T16:06:21+00:00",
       "link": "https://techcrunch.com/2026/04/20/nsa-spies-are-reportedly-using-anthropics-mythos-despite-pentagon-feud/"
-    },
-    {
-      "title": "Peter Thiel Is Building a Parallel Justice System – Powered by AI",
-      "summary": "Article URL: https://www.codastory.com/polarization/can-we-trust-an-ai-jury-to-judge-journalism/ Comments URL: https://news.ycombinator.com/item?id=47836226 Points: 74 # Comments: 22",
-      "source": "Hacker News",
-      "published": "2026-04-20T16:02:26+00:00",
-      "link": "https://www.codastory.com/polarization/can-we-trust-an-ai-jury-to-judge-journalism/"
     }
   ]
 };
