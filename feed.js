@@ -1,6 +1,27 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-04-26T06:59:36.161414+00:00",
+  "lastUpdated": "2026-04-26T09:41:19.346460+00:00",
   "items": [
+    {
+      "title": "500 investment bankers review AI outputs and find none ready for client delivery",
+      "summary": "A new benchmark puts top models like GPT-5.4 and Claude Opus 4.6 to work on the kinds of tasks junior investment bankers handle every day. Not a single AI output was rated ready to send to a client; the results are too imprecise or flat-out wrong.",
+      "source": "The Decoder",
+      "published": "2026-04-26T09:18:16+00:00",
+      "link": "https://the-decoder.com/500-investment-bankers-review-ai-outputs-and-find-none-ready-for-client-delivery/"
+    },
+    {
+      "title": "Survey finds Claude's weekly active users in the US skew far wealthier than any rival AI assistant",
+      "summary": "A survey shows Claude users earn significantly more than users of other AI services. Here's how income breaks down across ChatGPT, Gemini, and the rest.",
+      "source": "The Decoder",
+      "published": "2026-04-26T08:50:02+00:00",
+      "link": "https://the-decoder.com/survey-finds-claudes-weekly-active-users-in-the-us-skew-far-wealthier-than-any-rival-ai-assistant/"
+    },
+    {
+      "title": "AI agents aren't replacing software engineering but expanding it far beyond code, researchers argue",
+      "summary": "The popular story goes that AI agents are swallowing up more programming work and developers are headed for obsolescence. A new paper from researchers at Chalmers University of Technology and the Volvo Group argues that view misses the mark.",
+      "source": "The Decoder",
+      "published": "2026-04-26T08:12:17+00:00",
+      "link": "https://the-decoder.com/ai-agents-arent-replacing-software-engineering-but-expanding-it-far-beyond-code-researchers-argue/"
+    },
     {
       "title": "Anthropic created a test marketplace for agent-on-agent commerce",
       "summary": "In a recent experiment, Anthropic created a classified marketplace where AI agents represented both buyers and sellers, striking real deals for real goods and real money.",
@@ -10,7 +31,7 @@ const FEED_DATA = {
     },
     {
       "title": "The AI industry is discovering that the public hates it",
-      "summary": "Article URL: https://newrepublic.com/article/209163/ai-industry-discovering-public-backlash Comments URL: https://news.ycombinator.com/item?id=47904568 Points: 229 # Comments: 307",
+      "summary": "Article URL: https://newrepublic.com/article/209163/ai-industry-discovering-public-backlash Comments URL: https://news.ycombinator.com/item?id=47904568 Points: 238 # Comments: 323",
       "source": "Hacker News",
       "published": "2026-04-25T21:11:11+00:00",
       "link": "https://newrepublic.com/article/209163/ai-industry-discovering-public-backlash"
@@ -52,7 +73,7 @@ const FEED_DATA = {
     },
     {
       "title": "GPT‑5.5 Bio Bug Bounty",
-      "summary": "Article URL: https://openai.com/index/gpt-5-5-bio-bug-bounty/ Comments URL: https://news.ycombinator.com/item?id=47901734 Points: 143 # Comments: 101",
+      "summary": "Article URL: https://openai.com/index/gpt-5-5-bio-bug-bounty/ Comments URL: https://news.ycombinator.com/item?id=47901734 Points: 146 # Comments: 101",
       "source": "Hacker News",
       "published": "2026-04-25T14:17:31+00:00",
       "link": "https://openai.com/index/gpt-5-5-bio-bug-bounty/"
@@ -80,7 +101,7 @@ const FEED_DATA = {
     },
     {
       "title": "Lambda Calculus Benchmark for AI",
-      "summary": "Article URL: https://victortaelin.github.io/lambench/ Comments URL: https://news.ycombinator.com/item?id=47900506 Points: 135 # Comments: 40",
+      "summary": "Article URL: https://victortaelin.github.io/lambench/ Comments URL: https://news.ycombinator.com/item?id=47900506 Points: 136 # Comments: 41",
       "source": "Hacker News",
       "published": "2026-04-25T11:16:23+00:00",
       "link": "https://victortaelin.github.io/lambench/"
@@ -129,7 +150,7 @@ const FEED_DATA = {
     },
     {
       "title": "Open source memory layer so any AI agent can do what Claude.ai and ChatGPT do",
-      "summary": "Article URL: https://alash3al.github.io/stash?_v01 Comments URL: https://news.ycombinator.com/item?id=47897790 Points: 168 # Comments: 70",
+      "summary": "Article URL: https://alash3al.github.io/stash?_v01 Comments URL: https://news.ycombinator.com/item?id=47897790 Points: 171 # Comments: 72",
       "source": "Hacker News",
       "published": "2026-04-25T01:24:40+00:00",
       "link": "https://alash3al.github.io/stash?_v01"
@@ -171,7 +192,7 @@ const FEED_DATA = {
     },
     {
       "title": "OpenAI releases GPT-5.5 and GPT-5.5 Pro in the API",
-      "summary": "GPT-5.5 - https://news.ycombinator.com/item?id=47879092 - April 2026 (1010 comments) Comments URL: https://news.ycombinator.com/item?id=47894000 Points: 255 # Comments: 152",
+      "summary": "GPT-5.5 - https://news.ycombinator.com/item?id=47879092 - April 2026 (1010 comments) Comments URL: https://news.ycombinator.com/item?id=47894000 Points: 255 # Comments: 153",
       "source": "Hacker News",
       "published": "2026-04-24T18:23:32+00:00",
       "link": "https://developers.openai.com/api/docs/changelog"
@@ -437,7 +458,7 @@ const FEED_DATA = {
     },
     {
       "title": "GPT-5.5",
-      "summary": "Article URL: https://openai.com/index/introducing-gpt-5-5/ Comments URL: https://news.ycombinator.com/item?id=47879092 Points: 1561 # Comments: 1040",
+      "summary": "Article URL: https://openai.com/index/introducing-gpt-5-5/ Comments URL: https://news.ycombinator.com/item?id=47879092 Points: 1561 # Comments: 1041",
       "source": "Hacker News",
       "published": "2026-04-23T18:01:39+00:00",
       "link": "https://openai.com/index/introducing-gpt-5-5/"
@@ -458,7 +479,7 @@ const FEED_DATA = {
     },
     {
       "title": "MeshCore development team splits over trademark dispute and AI-generated code",
-      "summary": "Article URL: https://blog.meshcore.io/2026/04/23/the-split Comments URL: https://news.ycombinator.com/item?id=47878117 Points: 277 # Comments: 176",
+      "summary": "Article URL: https://blog.meshcore.io/2026/04/23/the-split Comments URL: https://news.ycombinator.com/item?id=47878117 Points: 278 # Comments: 176",
       "source": "Hacker News",
       "published": "2026-04-23T16:55:13+00:00",
       "link": "https://blog.meshcore.io/2026/04/23/the-split"
@@ -1379,27 +1400,6 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-04-20T14:39:14+00:00",
       "link": "https://the-decoder.com/adobe-fights-ai-disruption-of-its-own-business-model-with-new-enterprise-agent-platform/"
-    },
-    {
-      "title": "AI chatbots could be making you stupider",
-      "summary": "Article URL: https://www.bbc.com/future/article/20260417-ai-chatbots-could-be-making-you-stupider Comments URL: https://news.ycombinator.com/item?id=47834134 Points: 56 # Comments: 65",
-      "source": "Hacker News",
-      "published": "2026-04-20T13:36:11+00:00",
-      "link": "https://www.bbc.com/future/article/20260417-ai-chatbots-could-be-making-you-stupider"
-    },
-    {
-      "title": "Humanoid robots outrun humans at Beijing's second robot half marathon",
-      "summary": "At the second half marathon for humanoid robots in Beijing, Chinese machines posted dramatically faster times on Sunday compared to last year. The article Humanoid robots outrun humans at Beijing's second robot half marathon appeared first on The Decoder.",
-      "source": "The Decoder",
-      "published": "2026-04-20T13:24:02+00:00",
-      "link": "https://the-decoder.com/humanoid-robots-outrun-humans-at-beijings-second-robot-half-marathon/"
-    },
-    {
-      "title": "Bobyard 2.0 offers improved takeoffs and unified AI for estimators",
-      "summary": "AI platform, Bobyard, has unveiled Bobyard 2.0, its latest platform update delivering accelerated takeoff workflows and a unified AI workbench, designed to keep pace with the estimators (those responsible for calculating project budgets) who use it every day throughout the...",
-      "source": "AI News",
-      "published": "2026-04-20T13:15:51+00:00",
-      "link": "https://www.artificialintelligence-news.com/news/bobyard-2-0-offers-improved-takeoffs-and-unified-ai-for-estimators/"
     }
   ]
 };
