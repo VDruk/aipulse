@@ -1,6 +1,27 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-04-26T17:34:21.737446+00:00",
+  "lastUpdated": "2026-04-26T21:31:20.261641+00:00",
   "items": [
+    {
+      "title": "AI should elevate your thinking, not replace it",
+      "summary": "Article URL: https://www.koshyjohn.com/blog/ai-should-elevate-your-thinking-not-replace-it/ Comments URL: https://news.ycombinator.com/item?id=47913650 Points: 114 # Comments: 105",
+      "source": "Hacker News",
+      "published": "2026-04-26T20:03:12+00:00",
+      "link": "https://www.koshyjohn.com/blog/ai-should-elevate-your-thinking-not-replace-it/"
+    },
+    {
+      "title": "Have you tried Clean Architecture as foundation for your AI project?",
+      "summary": "Comments URL: https://news.ycombinator.com/item?id=47913561 Points: 92 # Comments: 1",
+      "source": "Hacker News",
+      "published": "2026-04-26T19:55:25+00:00",
+      "link": "https://news.ycombinator.com/item?id=47913561"
+    },
+    {
+      "title": "An AI agent deleted our production database. The agent's confession is below",
+      "summary": "Article URL: https://twitter.com/lifeof_jer/status/2048103471019434248 Comments URL: https://news.ycombinator.com/item?id=47911524 Points: 282 # Comments: 362",
+      "source": "Hacker News",
+      "published": "2026-04-26T16:27:29+00:00",
+      "link": "https://twitter.com/lifeof_jer/status/2048103471019434248"
+    },
     {
       "title": "To buy this Bay Area home, you’ll need Anthropic equity",
       "summary": "Someone’s offering an unusual deal for a 13-acre property in Mill Valley, just north of South Francisco.",
@@ -38,7 +59,7 @@ const FEED_DATA = {
     },
     {
       "title": "Eden AI – European Alternative to OpenRouter",
-      "summary": "Article URL: https://www.edenai.co Comments URL: https://news.ycombinator.com/item?id=47908433 Points: 109 # Comments: 57",
+      "summary": "Article URL: https://www.edenai.co Comments URL: https://news.ycombinator.com/item?id=47908433 Points: 123 # Comments: 64",
       "source": "Hacker News",
       "published": "2026-04-26T08:18:09+00:00",
       "link": "https://www.edenai.co"
@@ -59,7 +80,7 @@ const FEED_DATA = {
     },
     {
       "title": "The AI industry is discovering that the public hates it",
-      "summary": "Article URL: https://newrepublic.com/article/209163/ai-industry-discovering-public-backlash Comments URL: https://news.ycombinator.com/item?id=47904568 Points: 254 # Comments: 335",
+      "summary": "Article URL: https://newrepublic.com/article/209163/ai-industry-discovering-public-backlash Comments URL: https://news.ycombinator.com/item?id=47904568 Points: 265 # Comments: 346",
       "source": "Hacker News",
       "published": "2026-04-25T21:11:11+00:00",
       "link": "https://newrepublic.com/article/209163/ai-industry-discovering-public-backlash"
@@ -70,6 +91,13 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-04-25T20:57:08+00:00",
       "link": "https://techcrunch.com/2026/04/25/maines-governor-vetoes-data-center-moratorium/"
+    },
+    {
+      "title": "AI Might Be Lying to Your Boss",
+      "summary": "Article URL: https://williamoconnell.me/blog/post/ai-ide/ Comments URL: https://news.ycombinator.com/item?id=47904252 Points: 52 # Comments: 5",
+      "source": "Hacker News",
+      "published": "2026-04-25T20:19:53+00:00",
+      "link": "https://williamoconnell.me/blog/post/ai-ide/"
     },
     {
       "title": "OpenAI CEO apologizes to Tumbler Ridge community",
@@ -108,7 +136,7 @@ const FEED_DATA = {
     },
     {
       "title": "GPT‑5.5 Bio Bug Bounty",
-      "summary": "Article URL: https://openai.com/index/gpt-5-5-bio-bug-bounty/ Comments URL: https://news.ycombinator.com/item?id=47901734 Points: 151 # Comments: 101",
+      "summary": "Article URL: https://openai.com/index/gpt-5-5-bio-bug-bounty/ Comments URL: https://news.ycombinator.com/item?id=47901734 Points: 154 # Comments: 103",
       "source": "Hacker News",
       "published": "2026-04-25T14:17:31+00:00",
       "link": "https://openai.com/index/gpt-5-5-bio-bug-bounty/"
@@ -136,7 +164,7 @@ const FEED_DATA = {
     },
     {
       "title": "Lambda Calculus Benchmark for AI",
-      "summary": "Article URL: https://victortaelin.github.io/lambench/ Comments URL: https://news.ycombinator.com/item?id=47900506 Points: 139 # Comments: 41",
+      "summary": "Article URL: https://victortaelin.github.io/lambench/ Comments URL: https://news.ycombinator.com/item?id=47900506 Points: 142 # Comments: 43",
       "source": "Hacker News",
       "published": "2026-04-25T11:16:23+00:00",
       "link": "https://victortaelin.github.io/lambench/"
@@ -185,7 +213,7 @@ const FEED_DATA = {
     },
     {
       "title": "Open source memory layer so any AI agent can do what Claude.ai and ChatGPT do",
-      "summary": "Article URL: https://alash3al.github.io/stash?_v01 Comments URL: https://news.ycombinator.com/item?id=47897790 Points: 175 # Comments: 74",
+      "summary": "Article URL: https://alash3al.github.io/stash?_v01 Comments URL: https://news.ycombinator.com/item?id=47897790 Points: 179 # Comments: 74",
       "source": "Hacker News",
       "published": "2026-04-25T01:24:40+00:00",
       "link": "https://alash3al.github.io/stash?_v01"
@@ -227,7 +255,7 @@ const FEED_DATA = {
     },
     {
       "title": "OpenAI releases GPT-5.5 and GPT-5.5 Pro in the API",
-      "summary": "GPT-5.5 - https://news.ycombinator.com/item?id=47879092 - April 2026 (1010 comments) Comments URL: https://news.ycombinator.com/item?id=47894000 Points: 255 # Comments: 157",
+      "summary": "GPT-5.5 - https://news.ycombinator.com/item?id=47879092 - April 2026 (1010 comments) Comments URL: https://news.ycombinator.com/item?id=47894000 Points: 255 # Comments: 158",
       "source": "Hacker News",
       "published": "2026-04-24T18:23:32+00:00",
       "link": "https://developers.openai.com/api/docs/changelog"
@@ -395,7 +423,7 @@ const FEED_DATA = {
     },
     {
       "title": "South Korea police arrest man for posting AI photo of runaway wolf",
-      "summary": "Article URL: https://www.bbc.com/news/articles/c4gx1n0dl9no Comments URL: https://news.ycombinator.com/item?id=47887683 Points: 234 # Comments: 155",
+      "summary": "Article URL: https://www.bbc.com/news/articles/c4gx1n0dl9no Comments URL: https://news.ycombinator.com/item?id=47887683 Points: 234 # Comments: 156",
       "source": "Hacker News",
       "published": "2026-04-24T09:17:57+00:00",
       "link": "https://www.bbc.com/news/articles/c4gx1n0dl9no"
@@ -493,7 +521,7 @@ const FEED_DATA = {
     },
     {
       "title": "GPT-5.5",
-      "summary": "Article URL: https://openai.com/index/introducing-gpt-5-5/ Comments URL: https://news.ycombinator.com/item?id=47879092 Points: 1563 # Comments: 1040",
+      "summary": "Article URL: https://openai.com/index/introducing-gpt-5-5/ Comments URL: https://news.ycombinator.com/item?id=47879092 Points: 1564 # Comments: 1045",
       "source": "Hacker News",
       "published": "2026-04-23T18:01:39+00:00",
       "link": "https://openai.com/index/introducing-gpt-5-5/"
@@ -514,7 +542,7 @@ const FEED_DATA = {
     },
     {
       "title": "MeshCore development team splits over trademark dispute and AI-generated code",
-      "summary": "Article URL: https://blog.meshcore.io/2026/04/23/the-split Comments URL: https://news.ycombinator.com/item?id=47878117 Points: 279 # Comments: 176",
+      "summary": "Article URL: https://blog.meshcore.io/2026/04/23/the-split Comments URL: https://news.ycombinator.com/item?id=47878117 Points: 280 # Comments: 177",
       "source": "Hacker News",
       "published": "2026-04-23T16:55:13+00:00",
       "link": "https://blog.meshcore.io/2026/04/23/the-split"
@@ -1372,34 +1400,6 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-04-20T18:41:32+00:00",
       "link": "https://the-decoder.com/openais-codex-now-watches-your-screen-to-remember-what-youre-working-on/"
-    },
-    {
-      "title": "Open-weight Kimi K2.6 takes on GPT-5.4 and Claude Opus 4.6 with agent swarms",
-      "summary": "Moonshot AI has released Kimi K2.6 as an open-weight model. It's built to match GPT-5.4 and Claude Opus 4.6 on coding benchmarks, and it can run up to 300 agents in parallel.",
-      "source": "The Decoder",
-      "published": "2026-04-20T17:13:04+00:00",
-      "link": "https://the-decoder.com/open-weight-kimi-k2-6-takes-on-gpt-5-4-and-claude-opus-4-6-with-agent-swarms/"
-    },
-    {
-      "title": "Fortnite developers can make AI characters now — just don’t try to date them",
-      "summary": "Following last year's AI-powered Darth Vader in Fortnite that swore in a re-creation of James Earl Jones' voice, Epic Games is now letting Fortnite creators experiment with a new \"conversations\" tool to create AI-powered characters that players can talk and interact with.",
-      "source": "The Verge",
-      "published": "2026-04-20T16:58:39+00:00",
-      "link": "https://www.theverge.com/games/914963/fortnite-ai-characters-developers-conversations"
-    },
-    {
-      "title": "Google builds elite team to close the coding gap with Anthropic",
-      "summary": "Google is doubling down on AI coding and betting on models that can eventually improve themselves. Sergey Brin is once again leading the charge to keep Google's AI competitive.",
-      "source": "The Decoder",
-      "published": "2026-04-20T16:30:15+00:00",
-      "link": "https://the-decoder.com/google-builds-elite-team-to-close-the-coding-gap-with-anthropic/"
-    },
-    {
-      "title": "NSA spies are reportedly using Anthropic’s Mythos, despite Pentagon feud",
-      "summary": "NSA is said to be using Anthropic's restricted Mythos AI model.",
-      "source": "TechCrunch",
-      "published": "2026-04-20T16:06:21+00:00",
-      "link": "https://techcrunch.com/2026/04/20/nsa-spies-are-reportedly-using-anthropics-mythos-despite-pentagon-feud/"
     }
   ]
 };
