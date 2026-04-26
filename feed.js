@@ -1,6 +1,20 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-04-25T21:29:28.990121+00:00",
+  "lastUpdated": "2026-04-26T04:21:46.444138+00:00",
   "items": [
+    {
+      "title": "Anthropic created a test marketplace for agent-on-agent commerce",
+      "summary": "In a recent experiment, Anthropic created a classified marketplace where AI agents represented both buyers and sellers, striking real deals for real goods and real money.",
+      "source": "TechCrunch",
+      "published": "2026-04-25T21:43:37+00:00",
+      "link": "https://techcrunch.com/2026/04/25/anthropic-created-a-test-marketplace-for-agent-on-agent-commerce/"
+    },
+    {
+      "title": "The AI industry is discovering that the public hates it",
+      "summary": "Article URL: https://newrepublic.com/article/209163/ai-industry-discovering-public-backlash Comments URL: https://news.ycombinator.com/item?id=47904568 Points: 219 # Comments: 294",
+      "source": "Hacker News",
+      "published": "2026-04-25T21:11:11+00:00",
+      "link": "https://newrepublic.com/article/209163/ai-industry-discovering-public-backlash"
+    },
     {
       "title": "Maine’s governor vetoes data center moratorium",
       "summary": "L.D. 307 would have imposed the country’s first statewide moratorium on new data centers — lasting, in this case, until November 1, 2027.",
@@ -38,7 +52,7 @@ const FEED_DATA = {
     },
     {
       "title": "GPT‑5.5 Bio Bug Bounty",
-      "summary": "Article URL: https://openai.com/index/gpt-5-5-bio-bug-bounty/ Comments URL: https://news.ycombinator.com/item?id=47901734 Points: 106 # Comments: 87",
+      "summary": "Article URL: https://openai.com/index/gpt-5-5-bio-bug-bounty/ Comments URL: https://news.ycombinator.com/item?id=47901734 Points: 139 # Comments: 99",
       "source": "Hacker News",
       "published": "2026-04-25T14:17:31+00:00",
       "link": "https://openai.com/index/gpt-5-5-bio-bug-bounty/"
@@ -66,7 +80,7 @@ const FEED_DATA = {
     },
     {
       "title": "Lambda Calculus Benchmark for AI",
-      "summary": "Article URL: https://victortaelin.github.io/lambench/ Comments URL: https://news.ycombinator.com/item?id=47900506 Points: 116 # Comments: 36",
+      "summary": "Article URL: https://victortaelin.github.io/lambench/ Comments URL: https://news.ycombinator.com/item?id=47900506 Points: 135 # Comments: 40",
       "source": "Hacker News",
       "published": "2026-04-25T11:16:23+00:00",
       "link": "https://victortaelin.github.io/lambench/"
@@ -115,7 +129,7 @@ const FEED_DATA = {
     },
     {
       "title": "Open source memory layer so any AI agent can do what Claude.ai and ChatGPT do",
-      "summary": "Article URL: https://alash3al.github.io/stash?_v01 Comments URL: https://news.ycombinator.com/item?id=47897790 Points: 158 # Comments: 67",
+      "summary": "Article URL: https://alash3al.github.io/stash?_v01 Comments URL: https://news.ycombinator.com/item?id=47897790 Points: 164 # Comments: 70",
       "source": "Hacker News",
       "published": "2026-04-25T01:24:40+00:00",
       "link": "https://alash3al.github.io/stash?_v01"
@@ -157,7 +171,7 @@ const FEED_DATA = {
     },
     {
       "title": "OpenAI releases GPT-5.5 and GPT-5.5 Pro in the API",
-      "summary": "GPT-5.5 - https://news.ycombinator.com/item?id=47879092 - April 2026 (1010 comments) Comments URL: https://news.ycombinator.com/item?id=47894000 Points: 253 # Comments: 151",
+      "summary": "GPT-5.5 - https://news.ycombinator.com/item?id=47879092 - April 2026 (1010 comments) Comments URL: https://news.ycombinator.com/item?id=47894000 Points: 255 # Comments: 152",
       "source": "Hacker News",
       "published": "2026-04-24T18:23:32+00:00",
       "link": "https://developers.openai.com/api/docs/changelog"
@@ -325,7 +339,7 @@ const FEED_DATA = {
     },
     {
       "title": "South Korea police arrest man for posting AI photo of runaway wolf",
-      "summary": "Article URL: https://www.bbc.com/news/articles/c4gx1n0dl9no Comments URL: https://news.ycombinator.com/item?id=47887683 Points: 234 # Comments: 153",
+      "summary": "Article URL: https://www.bbc.com/news/articles/c4gx1n0dl9no Comments URL: https://news.ycombinator.com/item?id=47887683 Points: 234 # Comments: 154",
       "source": "Hacker News",
       "published": "2026-04-24T09:17:57+00:00",
       "link": "https://www.bbc.com/news/articles/c4gx1n0dl9no"
@@ -423,7 +437,7 @@ const FEED_DATA = {
     },
     {
       "title": "GPT-5.5",
-      "summary": "Article URL: https://openai.com/index/introducing-gpt-5-5/ Comments URL: https://news.ycombinator.com/item?id=47879092 Points: 1557 # Comments: 1034",
+      "summary": "Article URL: https://openai.com/index/introducing-gpt-5-5/ Comments URL: https://news.ycombinator.com/item?id=47879092 Points: 1559 # Comments: 1040",
       "source": "Hacker News",
       "published": "2026-04-23T18:01:39+00:00",
       "link": "https://openai.com/index/introducing-gpt-5-5/"
@@ -444,7 +458,7 @@ const FEED_DATA = {
     },
     {
       "title": "MeshCore development team splits over trademark dispute and AI-generated code",
-      "summary": "Article URL: https://blog.meshcore.io/2026/04/23/the-split Comments URL: https://news.ycombinator.com/item?id=47878117 Points: 276 # Comments: 176",
+      "summary": "Article URL: https://blog.meshcore.io/2026/04/23/the-split Comments URL: https://news.ycombinator.com/item?id=47878117 Points: 277 # Comments: 176",
       "source": "Hacker News",
       "published": "2026-04-23T16:55:13+00:00",
       "link": "https://blog.meshcore.io/2026/04/23/the-split"
@@ -1386,20 +1400,6 @@ const FEED_DATA = {
       "source": "AI News",
       "published": "2026-04-20T13:15:51+00:00",
       "link": "https://www.artificialintelligence-news.com/news/bobyard-2-0-offers-improved-takeoffs-and-unified-ai-for-estimators/"
-    },
-    {
-      "title": "Google plans nearly two million new AI chips as it turns to Marvell for custom designs",
-      "summary": "Google is in talks with chip designer Marvell Technology to develop two new specialized chips for its data centers, according to The Information, citing two sources.",
-      "source": "The Decoder",
-      "published": "2026-04-20T13:15:39+00:00",
-      "link": "https://the-decoder.com/google-plans-nearly-two-million-new-ai-chips-as-it-turns-to-marvell-for-custom-designs/"
-    },
-    {
-      "title": "Salesforce bets on \"Agent Albert\" to prove AI won't kill enterprise software",
-      "summary": "Wall Street worries AI could make traditional enterprise software obsolete. Salesforce CEO Marc Benioff is pushing back with a new AI product and a homegrown metric.",
-      "source": "The Decoder",
-      "published": "2026-04-20T13:11:39+00:00",
-      "link": "https://the-decoder.com/salesforce-bets-on-agent-albert-to-prove-ai-wont-kill-enterprise-software/"
     }
   ]
 };
