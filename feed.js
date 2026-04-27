@@ -1,23 +1,44 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-04-27T04:32:04.699805+00:00",
+  "lastUpdated": "2026-04-27T07:35:15.423652+00:00",
   "items": [
     {
+      "title": "AI can cost more than human workers now",
+      "summary": "Article URL: https://www.axios.com/2026/04/26/ai-cost-human-workers Comments URL: https://news.ycombinator.com/item?id=47918009 Points: 58 # Comments: 31",
+      "source": "Hacker News",
+      "published": "2026-04-27T05:28:39+00:00",
+      "link": "https://www.axios.com/2026/04/26/ai-cost-human-workers"
+    },
+    {
+      "title": "Google banks on AI edge to catch up to cloud rivals Amazon and Microsoft",
+      "summary": "Article URL: https://www.ft.com/content/2429f0f0-b685-4747-b425-bf8001a2e94c Comments URL: https://news.ycombinator.com/item?id=47916410 Points: 96 # Comments: 81",
+      "source": "Hacker News",
+      "published": "2026-04-27T00:34:30+00:00",
+      "link": "https://www.ft.com/content/2429f0f0-b685-4747-b425-bf8001a2e94c"
+    },
+    {
+      "title": "Show HN: AI memory with biological decay (52% recall)",
+      "summary": "Most RAG setups fail because they treat memory like a static filing cabinet.",
+      "source": "Hacker News",
+      "published": "2026-04-26T20:58:31+00:00",
+      "link": "https://github.com/sachitrafa/YourMemory"
+    },
+    {
       "title": "AI should elevate your thinking, not replace it",
-      "summary": "Article URL: https://www.koshyjohn.com/blog/ai-should-elevate-your-thinking-not-replace-it/ Comments URL: https://news.ycombinator.com/item?id=47913650 Points: 114 # Comments: 105",
+      "summary": "Article URL: https://www.koshyjohn.com/blog/ai-should-elevate-your-thinking-not-replace-it/ Comments URL: https://news.ycombinator.com/item?id=47913650 Points: 430 # Comments: 321",
       "source": "Hacker News",
       "published": "2026-04-26T20:03:12+00:00",
       "link": "https://www.koshyjohn.com/blog/ai-should-elevate-your-thinking-not-replace-it/"
     },
     {
       "title": "Have you tried Clean Architecture as foundation for your AI project?",
-      "summary": "Comments URL: https://news.ycombinator.com/item?id=47913561 Points: 92 # Comments: 1",
+      "summary": "Comments URL: https://news.ycombinator.com/item?id=47913561 Points: 94 # Comments: 1",
       "source": "Hacker News",
       "published": "2026-04-26T19:55:25+00:00",
       "link": "https://news.ycombinator.com/item?id=47913561"
     },
     {
       "title": "An AI agent deleted our production database. The agent's confession is below",
-      "summary": "Article URL: https://twitter.com/lifeof_jer/status/2048103471019434248 Comments URL: https://news.ycombinator.com/item?id=47911524 Points: 282 # Comments: 362",
+      "summary": "Article URL: https://twitter.com/lifeof_jer/status/2048103471019434248 Comments URL: https://news.ycombinator.com/item?id=47911524 Points: 625 # Comments: 785",
       "source": "Hacker News",
       "published": "2026-04-26T16:27:29+00:00",
       "link": "https://twitter.com/lifeof_jer/status/2048103471019434248"
@@ -59,7 +80,7 @@ const FEED_DATA = {
     },
     {
       "title": "Eden AI – European Alternative to OpenRouter",
-      "summary": "Article URL: https://www.edenai.co Comments URL: https://news.ycombinator.com/item?id=47908433 Points: 123 # Comments: 64",
+      "summary": "Article URL: https://www.edenai.co Comments URL: https://news.ycombinator.com/item?id=47908433 Points: 128 # Comments: 67",
       "source": "Hacker News",
       "published": "2026-04-26T08:18:09+00:00",
       "link": "https://www.edenai.co"
@@ -80,7 +101,7 @@ const FEED_DATA = {
     },
     {
       "title": "The AI industry is discovering that the public hates it",
-      "summary": "Article URL: https://newrepublic.com/article/209163/ai-industry-discovering-public-backlash Comments URL: https://news.ycombinator.com/item?id=47904568 Points: 265 # Comments: 346",
+      "summary": "Article URL: https://newrepublic.com/article/209163/ai-industry-discovering-public-backlash Comments URL: https://news.ycombinator.com/item?id=47904568 Points: 270 # Comments: 361",
       "source": "Hacker News",
       "published": "2026-04-25T21:11:11+00:00",
       "link": "https://newrepublic.com/article/209163/ai-industry-discovering-public-backlash"
@@ -94,7 +115,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI Might Be Lying to Your Boss",
-      "summary": "Article URL: https://williamoconnell.me/blog/post/ai-ide/ Comments URL: https://news.ycombinator.com/item?id=47904252 Points: 52 # Comments: 5",
+      "summary": "Article URL: https://williamoconnell.me/blog/post/ai-ide/ Comments URL: https://news.ycombinator.com/item?id=47904252 Points: 58 # Comments: 6",
       "source": "Hacker News",
       "published": "2026-04-25T20:19:53+00:00",
       "link": "https://williamoconnell.me/blog/post/ai-ide/"
@@ -136,7 +157,7 @@ const FEED_DATA = {
     },
     {
       "title": "GPT‑5.5 Bio Bug Bounty",
-      "summary": "Article URL: https://openai.com/index/gpt-5-5-bio-bug-bounty/ Comments URL: https://news.ycombinator.com/item?id=47901734 Points: 154 # Comments: 103",
+      "summary": "Article URL: https://openai.com/index/gpt-5-5-bio-bug-bounty/ Comments URL: https://news.ycombinator.com/item?id=47901734 Points: 154 # Comments: 104",
       "source": "Hacker News",
       "published": "2026-04-25T14:17:31+00:00",
       "link": "https://openai.com/index/gpt-5-5-bio-bug-bounty/"
@@ -213,10 +234,17 @@ const FEED_DATA = {
     },
     {
       "title": "Open source memory layer so any AI agent can do what Claude.ai and ChatGPT do",
-      "summary": "Article URL: https://alash3al.github.io/stash?_v01 Comments URL: https://news.ycombinator.com/item?id=47897790 Points: 179 # Comments: 74",
+      "summary": "Article URL: https://alash3al.github.io/stash?_v01 Comments URL: https://news.ycombinator.com/item?id=47897790 Points: 180 # Comments: 76",
       "source": "Hacker News",
       "published": "2026-04-25T01:24:40+00:00",
       "link": "https://alash3al.github.io/stash?_v01"
+    },
+    {
+      "title": "Agentic AI systems violate the implicit assumptions of database design",
+      "summary": "Article URL: https://arpitbhayani.me/blogs/defensive-databases/ Comments URL: https://news.ycombinator.com/item?id=47897140 Points: 98 # Comments: 99",
+      "source": "Hacker News",
+      "published": "2026-04-24T23:41:38+00:00",
+      "link": "https://arpitbhayani.me/blogs/defensive-databases/"
     },
     {
       "title": "Three reasons why DeepSeek’s new model matters",
@@ -1372,34 +1400,6 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-04-20T22:00:00+00:00",
       "link": "https://techcrunch.com/2026/04/20/google-rolls-out-gemini-in-chrome-in-seven-new-countries/"
-    },
-    {
-      "title": "AI Resistance: some recent anti-AI stuff that’s worth discussing",
-      "summary": "Article URL: https://stephvee.ca/blog/artificial%20intelligence/ai-resistance-is-growing/ Comments URL: https://news.ycombinator.com/item?id=47839951 Points: 387 # Comments: 413",
-      "source": "Hacker News",
-      "published": "2026-04-20T20:19:13+00:00",
-      "link": "https://stephvee.ca/blog/artificial%20intelligence/ai-resistance-is-growing/"
-    },
-    {
-      "title": "AI Resistance Is Growing",
-      "summary": "Article URL: https://stephvee.ca/blog/artificial%20intelligence/ai-resistance-is-growing/ Comments URL: https://news.ycombinator.com/item?id=47839951 Points: 181 # Comments: 122",
-      "source": "Hacker News",
-      "published": "2026-04-20T20:19:13+00:00",
-      "link": "https://stephvee.ca/blog/artificial%20intelligence/ai-resistance-is-growing/"
-    },
-    {
-      "title": "It’s not just one thing — it’s another thing",
-      "summary": "This sentence construction (\"It's not just this — it's that\") has become so common in AI-generated writing that it's no longer just a clue that a piece of writing may be synthetic — it's almost a guarantee.",
-      "source": "TechCrunch",
-      "published": "2026-04-20T19:37:07+00:00",
-      "link": "https://techcrunch.com/2026/04/20/ai-writing-its-not-just-this-its-that-barrons/"
-    },
-    {
-      "title": "OpenAI's Codex now watches your screen to remember what you're working on",
-      "summary": "OpenAI is giving Codex a memory of what's on screen. The new Chronicle feature tracks what users are working on and remembers it for future tasks, but it also amplifies familiar security risks.",
-      "source": "The Decoder",
-      "published": "2026-04-20T18:41:32+00:00",
-      "link": "https://the-decoder.com/openais-codex-now-watches-your-screen-to-remember-what-youre-working-on/"
     }
   ]
 };
