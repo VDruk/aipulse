@@ -1,6 +1,118 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-04-27T10:51:18.722997+00:00",
+  "lastUpdated": "2026-04-27T15:09:18.577256+00:00",
   "items": [
+    {
+      "title": "Canva apologizes after its AI tool replaces ‘Palestine’ in designs",
+      "summary": "One of Canva's new AI features has been caught replacing the word \"Palestine\" in designs.",
+      "source": "The Verge",
+      "published": "2026-04-27T14:29:23+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/919028/canva-magic-layers-ai-replacing-palestine"
+    },
+    {
+      "title": "OpenAI and Microsoft rewrite their deal: no more exclusivity, no more AGI clause",
+      "summary": "OpenAI is free to distribute its products through any cloud provider, Microsoft loses its exclusive license to OpenAI's technology, and the controversial AGI clause is gone.",
+      "source": "The Decoder",
+      "published": "2026-04-27T14:18:40+00:00",
+      "link": "https://the-decoder.com/openai-and-microsoft-rewrite-their-deal-no-more-exclusivity-no-more-agi-clause/"
+    },
+    {
+      "title": "The Man Behind AlphaGo Thinks AI Is Taking the Wrong Path",
+      "summary": "David Silver has a new billion-dollar company that aims to build AI “superlearners.”",
+      "source": "Wired",
+      "published": "2026-04-27T14:00:00+00:00",
+      "link": "https://www.wired.com/story/david-silver-ai-ineffable-intelligence-reinforcement-learning/"
+    },
+    {
+      "title": "Sam Altman outlines five principles that double as justification for OpenAI's business decisions",
+      "summary": "OpenAI's CEO has laid out five guiding principles for the company's future work. They also serve as a rationale for some of OpenAI's more unconventional business moves.",
+      "source": "The Decoder",
+      "published": "2026-04-27T13:59:05+00:00",
+      "link": "https://the-decoder.com/sam-altman-outlines-five-principles-that-double-as-justification-for-openais-business-decisions/"
+    },
+    {
+      "title": "Microsoft to Stop Sharing Revenue with Main AI Partner OpenAI",
+      "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-04-27/microsoft-to-stop-sharing-revenue-with-main-ai-partner-openai Comments URL: https://news.ycombinator.com/item?id=47921248 Points: 76 # Comments: 15",
+      "source": "Hacker News",
+      "published": "2026-04-27T13:22:42+00:00",
+      "link": "https://www.bloomberg.com/news/articles/2026-04-27/microsoft-to-stop-sharing-revenue-with-main-ai-partner-openai"
+    },
+    {
+      "title": "China blocks Meta’s $2B Manus deal after months-long probe",
+      "summary": "China has ordered Meta to unwind its multibillion-dollar Manus acquisition, dealing a potential setback to Zuckerberg’s push into AI agents.",
+      "source": "TechCrunch",
+      "published": "2026-04-27T13:16:55+00:00",
+      "link": "https://techcrunch.com/2026/04/27/china-vetoes-metas-2b-manus-deal-after-months-long-probe/"
+    },
+    {
+      "title": "OpenAI could be making a phone with AI agents replacing apps",
+      "summary": "The phone could go in mass production in 2028, an analyst says.",
+      "source": "TechCrunch",
+      "published": "2026-04-27T13:08:59+00:00",
+      "link": "https://techcrunch.com/2026/04/27/openai-could-be-making-a-phone-with-ai-agents-replacing-apps/"
+    },
+    {
+      "title": "Rebuilding the data stack for AI",
+      "summary": "Artificial intelligence may be dominating boardroom agendas, but many enterprises are discovering that the biggest obstacle to meaningful adoption is the state of their data.",
+      "source": "MIT Tech Review",
+      "published": "2026-04-27T13:00:00+00:00",
+      "link": "https://www.technologyreview.com/2026/04/27/1136322/rebuilding-the-data-stack-for-ai/"
+    },
+    {
+      "title": "Meta wants to power AI data centers with solar energy from space",
+      "summary": "Meta has signed a deal with startup Overview Energy for up to 1 gigawatt of space-based solar power. The only catch: the technology doesn't exist yet.",
+      "source": "The Decoder",
+      "published": "2026-04-27T12:57:10+00:00",
+      "link": "https://the-decoder.com/meta-wants-to-power-ai-data-centers-with-solar-energy-from-space/"
+    },
+    {
+      "title": "The Download: DeepSeek’s latest AI breakthrough, and the race to build world models",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.",
+      "source": "MIT Tech Review",
+      "published": "2026-04-27T12:10:00+00:00",
+      "link": "https://www.technologyreview.com/2026/04/27/1136438/the-download-deepseek-v4-ai-world-models/"
+    },
+    {
+      "title": "Google warns malicious web pages are poisoning AI agents",
+      "summary": "Public web pages are actively hijacking enterprise AI agents via indirect prompt injections, Google researchers warn. Security teams scanning the Common Crawl repository (a massive database of billions of public web pages) have uncovered a growing trend of digital booby traps.",
+      "source": "AI News",
+      "published": "2026-04-27T11:12:52+00:00",
+      "link": "https://www.artificialintelligence-news.com/news/google-warns-malicious-web-pages-poisoning-ai-agents/"
+    },
+    {
+      "title": "China blocks Meta's $2 billion acquisition of AI startup Manus",
+      "summary": "Beijing orders the unwinding of the already completed acquisition. The move comes amid intensifying technological rivalry between the US and China.",
+      "source": "The Decoder",
+      "published": "2026-04-27T11:08:32+00:00",
+      "link": "https://the-decoder.com/china-blocks-metas-2-billion-acquisition-of-ai-startup-manus/"
+    },
+    {
+      "title": "The AI-designed car is taking shape",
+      "summary": "The auto design world is full of advanced 3D visualization tools and VR sculpting platforms, but your average new car still enters the world as a sketch.",
+      "source": "The Verge",
+      "published": "2026-04-27T11:00:00+00:00",
+      "link": "https://www.theverge.com/transportation/918411/gm-ai-car-design-nissan-neural-concept"
+    },
+    {
+      "title": "France's Mistral Built a $14B AI Empire by Not Being American",
+      "summary": "Article URL: https://www.forbes.com/sites/iainmartin/2026/04/16/how-frances-mistral-built-a-14-billion-ai-empire-by-not-being-american/ Comments URL: https://news.ycombinator.com/item?id=47919725 Points: 147 # Comments: 96",
+      "source": "Hacker News",
+      "published": "2026-04-27T10:14:15+00:00",
+      "link": "https://www.forbes.com/sites/iainmartin/2026/04/16/how-frances-mistral-built-a-14-billion-ai-empire-by-not-being-american/"
+    },
+    {
+      "title": "4TB of voice samples just stolen from 40k AI contractors at Mercor",
+      "summary": "Article URL: https://app.oravys.com/blog/mercor-breach-2026 Comments URL: https://news.ycombinator.com/item?id=47919630 Points: 131 # Comments: 48",
+      "source": "Hacker News",
+      "published": "2026-04-27T09:57:10+00:00",
+      "link": "https://app.oravys.com/blog/mercor-breach-2026"
+    },
+    {
+      "title": "Moleskine's AI Lord of the Rings collection can only mock",
+      "summary": "Article URL: https://cjleo.com/blog/moleskine-ai-lord-of-the-rings-collection-can-only-mock/ Comments URL: https://news.ycombinator.com/item?id=47919386 Points: 65 # Comments: 84",
+      "source": "Hacker News",
+      "published": "2026-04-27T09:19:06+00:00",
+      "link": "https://cjleo.com/blog/moleskine-ai-lord-of-the-rings-collection-can-only-mock/"
+    },
     {
       "title": "The company with a monopoly on AI's most critical machine is racing to build more",
       "summary": "ASML plans to significantly increase production of its EUV lithography machines to keep pace with growing demand for AI chips, the Wall Street Journal reports.",
@@ -17,14 +129,14 @@ const FEED_DATA = {
     },
     {
       "title": "AI can cost more than human workers now",
-      "summary": "Article URL: https://www.axios.com/2026/04/26/ai-cost-human-workers Comments URL: https://news.ycombinator.com/item?id=47918009 Points: 74 # Comments: 48",
+      "summary": "Article URL: https://www.axios.com/2026/04/26/ai-cost-human-workers Comments URL: https://news.ycombinator.com/item?id=47918009 Points: 81 # Comments: 52",
       "source": "Hacker News",
       "published": "2026-04-27T05:28:39+00:00",
       "link": "https://www.axios.com/2026/04/26/ai-cost-human-workers"
     },
     {
       "title": "Google banks on AI edge to catch up to cloud rivals Amazon and Microsoft",
-      "summary": "Article URL: https://www.ft.com/content/2429f0f0-b685-4747-b425-bf8001a2e94c Comments URL: https://news.ycombinator.com/item?id=47916410 Points: 103 # Comments: 85",
+      "summary": "Article URL: https://www.ft.com/content/2429f0f0-b685-4747-b425-bf8001a2e94c Comments URL: https://news.ycombinator.com/item?id=47916410 Points: 103 # Comments: 99",
       "source": "Hacker News",
       "published": "2026-04-27T00:34:30+00:00",
       "link": "https://www.ft.com/content/2429f0f0-b685-4747-b425-bf8001a2e94c"
@@ -38,7 +150,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI should elevate your thinking, not replace it",
-      "summary": "Article URL: https://www.koshyjohn.com/blog/ai-should-elevate-your-thinking-not-replace-it/ Comments URL: https://news.ycombinator.com/item?id=47913650 Points: 521 # Comments: 380",
+      "summary": "Article URL: https://www.koshyjohn.com/blog/ai-should-elevate-your-thinking-not-replace-it/ Comments URL: https://news.ycombinator.com/item?id=47913650 Points: 691 # Comments: 492",
       "source": "Hacker News",
       "published": "2026-04-26T20:03:12+00:00",
       "link": "https://www.koshyjohn.com/blog/ai-should-elevate-your-thinking-not-replace-it/"
@@ -52,7 +164,7 @@ const FEED_DATA = {
     },
     {
       "title": "An AI agent deleted our production database. The agent's confession is below",
-      "summary": "Article URL: https://twitter.com/lifeof_jer/status/2048103471019434248 Comments URL: https://news.ycombinator.com/item?id=47911524 Points: 708 # Comments: 851",
+      "summary": "Article URL: https://twitter.com/lifeof_jer/status/2048103471019434248 Comments URL: https://news.ycombinator.com/item?id=47911524 Points: 780 # Comments: 914",
       "source": "Hacker News",
       "published": "2026-04-26T16:27:29+00:00",
       "link": "https://twitter.com/lifeof_jer/status/2048103471019434248"
@@ -94,7 +206,7 @@ const FEED_DATA = {
     },
     {
       "title": "Eden AI – European Alternative to OpenRouter",
-      "summary": "Article URL: https://www.edenai.co Comments URL: https://news.ycombinator.com/item?id=47908433 Points: 129 # Comments: 67",
+      "summary": "Article URL: https://www.edenai.co Comments URL: https://news.ycombinator.com/item?id=47908433 Points: 131 # Comments: 67",
       "source": "Hacker News",
       "published": "2026-04-26T08:18:09+00:00",
       "link": "https://www.edenai.co"
@@ -115,7 +227,7 @@ const FEED_DATA = {
     },
     {
       "title": "The AI industry is discovering that the public hates it",
-      "summary": "Article URL: https://newrepublic.com/article/209163/ai-industry-discovering-public-backlash Comments URL: https://news.ycombinator.com/item?id=47904568 Points: 270 # Comments: 359",
+      "summary": "Article URL: https://newrepublic.com/article/209163/ai-industry-discovering-public-backlash Comments URL: https://news.ycombinator.com/item?id=47904568 Points: 273 # Comments: 363",
       "source": "Hacker News",
       "published": "2026-04-25T21:11:11+00:00",
       "link": "https://newrepublic.com/article/209163/ai-industry-discovering-public-backlash"
@@ -129,7 +241,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI Might Be Lying to Your Boss",
-      "summary": "Article URL: https://williamoconnell.me/blog/post/ai-ide/ Comments URL: https://news.ycombinator.com/item?id=47904252 Points: 60 # Comments: 7",
+      "summary": "Article URL: https://williamoconnell.me/blog/post/ai-ide/ Comments URL: https://news.ycombinator.com/item?id=47904252 Points: 61 # Comments: 8",
       "source": "Hacker News",
       "published": "2026-04-25T20:19:53+00:00",
       "link": "https://williamoconnell.me/blog/post/ai-ide/"
@@ -255,7 +367,7 @@ const FEED_DATA = {
     },
     {
       "title": "Agentic AI systems violate the implicit assumptions of database design",
-      "summary": "Article URL: https://arpitbhayani.me/blogs/defensive-databases/ Comments URL: https://news.ycombinator.com/item?id=47897140 Points: 102 # Comments: 100",
+      "summary": "Article URL: https://arpitbhayani.me/blogs/defensive-databases/ Comments URL: https://news.ycombinator.com/item?id=47897140 Points: 105 # Comments: 101",
       "source": "Hacker News",
       "published": "2026-04-24T23:41:38+00:00",
       "link": "https://arpitbhayani.me/blogs/defensive-databases/"
@@ -1288,118 +1400,6 @@ const FEED_DATA = {
       "source": "Hacker News",
       "published": "2026-04-21T14:11:53+00:00",
       "link": "https://github.com/ENTERPILOT/GOModel/"
-    },
-    {
-      "title": "John Ternus’ first big problem is AI",
-      "summary": "Less than a year ago, Apple made headlines for a lack of AI announcements at its annual WWDC event.",
-      "source": "The Verge",
-      "published": "2026-04-21T13:37:55+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/915662/john-ternus-apple-ceo-tim-cook-ai-problem-siri"
-    },
-    {
-      "title": "John Ternus’s first big problem is AI",
-      "summary": "Less than a year ago, Apple made headlines for a lack of AI announcements at its annual WWDC event.",
-      "source": "The Verge",
-      "published": "2026-04-21T13:37:55+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/915662/john-ternus-apple-ceo-tim-cook-ai-problem-siri"
-    },
-    {
-      "title": "GRAI believes AI can make music more social, not replace artists",
-      "summary": "AI music startup GRAI says fans want to remix tracks, not generate songs from scratch.",
-      "source": "TechCrunch",
-      "published": "2026-04-21T13:00:00+00:00",
-      "link": "https://techcrunch.com/2026/04/21/grai-believes-ai-can-make-music-more-social-not-replace-artists/"
-    },
-    {
-      "title": "The flood of AI music is reshaping how streaming platforms handle new uploads",
-      "summary": "Music streaming service Deezer reports that 44 percent of all songs uploaded to its platform daily are now fully AI-generated. The company uses its own detection technology and plans to license it to the broader music industry.",
-      "source": "The Decoder",
-      "published": "2026-04-21T12:24:00+00:00",
-      "link": "https://the-decoder.com/the-flood-of-ai-music-is-reshaping-how-streaming-platforms-handle-new-uploads/"
-    },
-    {
-      "title": "Corporate America's favorite ChatGPT phrase doubled twice since 2024",
-      "summary": "A new language analysis reveals how one telltale sentence pattern exposes companies that are letting ChatGPT handle their communications. Usage has quadrupled since 2024.",
-      "source": "The Decoder",
-      "published": "2026-04-21T12:20:48+00:00",
-      "link": "https://the-decoder.com/corporate-americas-favorite-chatgpt-phrase-doubled-twice-since-2024/"
-    },
-    {
-      "title": "The Download: turning down human noise, and LA’s stunning subway upgrade",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The noise we make is hurting animals.",
-      "source": "MIT Tech Review",
-      "published": "2026-04-21T12:10:00+00:00",
-      "link": "https://www.technologyreview.com/2026/04/21/1136246/the-download-human-noise-la-subway-upgrade/"
-    },
-    {
-      "title": "This Scammer Used an AI-Generated MAGA Girl to Grift ‘Super Dumb’ Men",
-      "summary": "A med student says he’s made thousands of dollars selling photos and videos of a young conservative woman he created using generative tools. He’s not alone.",
-      "source": "Wired",
-      "published": "2026-04-21T11:00:00+00:00",
-      "link": "https://www.wired.com/story/ai-generated-maga-girls/"
-    },
-    {
-      "title": "Yelp is making its AI chatbot way more useful",
-      "summary": "Yelp is giving its chatbot assistant a major upgrade, turning the platform into something closer to a digital concierge with a suite of new features designed for \"getting things done.\" The move, one of several AI-focused updates in recent months, is part of a broader industry...",
-      "source": "The Verge",
-      "published": "2026-04-21T11:00:00+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/915626/yelp-ai-assistant-chatbot-major-upgrade"
-    },
-    {
-      "title": "Anthropic is building its first data center team outside the US",
-      "summary": "According to job listings spotted by Data Center Dynamics, Anthropic is hiring data center contract specialists in Europe and Australia. The article Anthropic is building its first data center team outside the US appeared first on The Decoder.",
-      "source": "The Decoder",
-      "published": "2026-04-21T10:34:06+00:00",
-      "link": "https://the-decoder.com/anthropic-is-building-its-first-data-center-team-outside-the-us/"
-    },
-    {
-      "title": "Siemens introduces AI system for automation engineering",
-      "summary": "Siemens has introduced the Eigen Engineering Agent, an AI system designed to plan and validate automation engineering tasks in operational environments.",
-      "source": "AI News",
-      "published": "2026-04-21T10:00:00+00:00",
-      "link": "https://www.artificialintelligence-news.com/news/siemens-ai-automation-engineering-workflows/"
-    },
-    {
-      "title": "Amazon pours $33B into Anthropic, which promises to spend $100B right back on AWS",
-      "summary": "Amazon is pouring up to another $25 billion into Anthropic. In return, the AI company has committed to spending more than $100 billion on AWS infrastructure over the next ten years.",
-      "source": "The Decoder",
-      "published": "2026-04-21T09:56:21+00:00",
-      "link": "https://the-decoder.com/amazon-pours-33b-into-anthropic-which-promises-to-spend-100b-right-back-on-aws/"
-    },
-    {
-      "title": "Jeff Bezos nears $10 billion funding round for AI lab \"Project Prometheus\"",
-      "summary": "Jeff Bezos is about to close a $10 billion funding round for his AI lab codenamed \"Project Prometheus,\" the Financial Times reports. The article Jeff Bezos nears $10 billion funding round for AI lab \"Project Prometheus\" appeared first on The Decoder.",
-      "source": "The Decoder",
-      "published": "2026-04-21T09:53:48+00:00",
-      "link": "https://the-decoder.com/jeff-bezos-nears-10-billion-funding-round-for-ai-lab-project-prometheus/"
-    },
-    {
-      "title": "Less human AI agents, please",
-      "summary": "Article URL: https://nial.se/blog/less-human-ai-agents-please/ Comments URL: https://news.ycombinator.com/item?id=47845429 Points: 159 # Comments: 168",
-      "source": "Hacker News",
-      "published": "2026-04-21T06:58:08+00:00",
-      "link": "https://nial.se/blog/less-human-ai-agents-please/"
-    },
-    {
-      "title": "A Roblox cheat and one AI tool brought down Vercel's platform",
-      "summary": "Article URL: https://webmatrices.com/post/how-a-roblox-cheat-and-one-ai-tool-brought-down-vercel-s-entire-platform Comments URL: https://news.ycombinator.com/item?id=47844431 Points: 283 # Comments: 162",
-      "source": "Hacker News",
-      "published": "2026-04-21T04:12:12+00:00",
-      "link": "https://webmatrices.com/post/how-a-roblox-cheat-and-one-ai-tool-brought-down-vercel-s-entire-platform"
-    },
-    {
-      "title": "Anthropic takes $5B from Amazon and pledges $100B in cloud spending in return",
-      "summary": "Amazon has made another circular AI deal: It's investing another $5 billion in Anthropic. Anthropic has agreed to spend $100 billion on AWS in return.",
-      "source": "TechCrunch",
-      "published": "2026-04-20T23:10:27+00:00",
-      "link": "https://techcrunch.com/2026/04/20/anthropic-takes-5b-from-amazon-and-pledges-100b-in-cloud-spending-in-return/"
-    },
-    {
-      "title": "A Humanoid Robot Set a Half-Marathon Record in China",
-      "summary": "An autonomous robot from the company Honor ran a half marathon in 50:26, beating the human record by 7 minutes.",
-      "source": "Wired",
-      "published": "2026-04-20T22:33:27+00:00",
-      "link": "https://www.wired.com/story/a-humanoid-robot-set-a-half-marathon-record-in-china/"
     }
   ]
 };
