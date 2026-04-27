@@ -1,5 +1,5 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-04-26T21:31:20.261641+00:00",
+  "lastUpdated": "2026-04-27T04:32:04.699805+00:00",
   "items": [
     {
       "title": "AI should elevate your thinking, not replace it",
