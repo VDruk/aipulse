@@ -1,9 +1,30 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-04-27T18:02:20.752610+00:00",
+  "lastUpdated": "2026-04-27T21:49:13.235152+00:00",
   "items": [
     {
+      "title": "Canonical lays out a plan for AI in Ubuntu Linux",
+      "summary": "One of the most popular Linux distributions is about to get an influx of AI features. As reported by Phoronix, Jon Seager, VP of engineering at Ubuntu developer Canonical, shared a blog post on Monday detailing plans to add AI features to the Linux distro over the next year.",
+      "source": "The Verge",
+      "published": "2026-04-27T20:47:45+00:00",
+      "link": "https://www.theverge.com/tech/919411/canonical-ubuntu-linux-ai-features"
+    },
+    {
+      "title": "Elon Musk Boosts New Yorker’s Sam Altman Exposé on X as Trial Begins",
+      "summary": "The move comes as the trial for Elon Musk’s lawsuit against OpenAI kicks off in federal court in Oakland.",
+      "source": "Wired",
+      "published": "2026-04-27T20:08:51+00:00",
+      "link": "https://www.wired.com/story/elon-musk-boost-new-yorker-article-sam-altman-x/"
+    },
+    {
+      "title": "Google employees ask Sundar Pichai to say no to classified military AI use",
+      "summary": "Over 600 Google employees signed a letter to CEO Sundar Pichai demanding that Google block the Pentagon from using its AI models for classified purposes, reports the The Washington Post.",
+      "source": "The Verge",
+      "published": "2026-04-27T18:17:12+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/919326/google-ai-pentagon-classified-letter"
+    },
+    {
       "title": "OpenAI ends Microsoft legal peril over its $50B Amazon deal",
-      "summary": "OpenAI has won major concessions from its largest shareholder, Microsoft, that will allow it to sell products on AWS, while Microsoft get more cash in a revenue-share agreement.",
+      "summary": "OpenAI has won major concessions from its largest shareholder, Microsoft, that will allow it to sell products on AWS, while Microsoft gets more cash in a revenue-share agreement.",
       "source": "TechCrunch",
       "published": "2026-04-27T17:40:38+00:00",
       "link": "https://techcrunch.com/2026/04/27/openai-ends-microsoft-legal-peril-over-its-50b-amazon-deal/"
@@ -87,7 +108,7 @@ const FEED_DATA = {
     },
     {
       "title": "OpenAI could be making a phone with AI agents replacing apps",
-      "summary": "The phone could go into mass production in 2028, an analyst says.",
+      "summary": "There have been plenty of rumors about OpenAI's hardware plans, which involve launching a pair of earbuds. A new note from industry analyst Ming-Chi Kuo suggests that the AI company might be working on a phone in collaboration with MediaTek, Qualcomm, and Luxshare.",
       "source": "TechCrunch",
       "published": "2026-04-27T13:08:59+00:00",
       "link": "https://techcrunch.com/2026/04/27/openai-could-be-making-a-phone-with-ai-agents-replacing-apps/"
@@ -114,6 +135,13 @@ const FEED_DATA = {
       "link": "https://www.technologyreview.com/2026/04/27/1136438/the-download-deepseek-v4-ai-world-models/"
     },
     {
+      "title": "China blocks Meta's acquisition of AI startup Manus",
+      "summary": "https://www.reuters.com/world/asia-pacific/china-blocks-fore...https://www.bbc.com/news/articles/cj0v0gr2yz7o Comments URL: https://news.ycombinator.com/item?id=47920315 Points: 203 # Comments: 125",
+      "source": "Hacker News",
+      "published": "2026-04-27T11:43:59+00:00",
+      "link": "https://www.cnbc.com/2026/04/27/meta-manus-china-blocks-acquisition-ai-startup.html"
+    },
+    {
       "title": "Google warns malicious web pages are poisoning AI agents",
       "summary": "Public web pages are actively hijacking enterprise AI agents via indirect prompt injections, Google researchers warn. Security teams scanning the Common Crawl repository (a massive database of billions of public web pages) have uncovered a growing trend of digital booby traps.",
       "source": "AI News",
@@ -136,7 +164,7 @@ const FEED_DATA = {
     },
     {
       "title": "Mistral built a $14B AI empire by not being American",
-      "summary": "Article URL: https://www.forbes.com/sites/iainmartin/2026/04/16/how-frances-mistral-built-a-14-billion-ai-empire-by-not-being-american/ Comments URL: https://news.ycombinator.com/item?id=47919725 Points: 184 # Comments: 145",
+      "summary": "Article URL: https://www.forbes.com/sites/iainmartin/2026/04/16/how-frances-mistral-built-a-14-billion-ai-empire-by-not-being-american/ Comments URL: https://news.ycombinator.com/item?id=47919725 Points: 199 # Comments: 156",
       "source": "Hacker News",
       "published": "2026-04-27T10:14:15+00:00",
       "link": "https://www.forbes.com/sites/iainmartin/2026/04/16/how-frances-mistral-built-a-14-billion-ai-empire-by-not-being-american/"
@@ -150,14 +178,14 @@ const FEED_DATA = {
     },
     {
       "title": "4TB of voice samples just stolen from 40k AI contractors at Mercor",
-      "summary": "Article URL: https://app.oravys.com/blog/mercor-breach-2026 Comments URL: https://news.ycombinator.com/item?id=47919630 Points: 279 # Comments: 112",
+      "summary": "Article URL: https://app.oravys.com/blog/mercor-breach-2026 Comments URL: https://news.ycombinator.com/item?id=47919630 Points: 388 # Comments: 150",
       "source": "Hacker News",
       "published": "2026-04-27T09:57:10+00:00",
       "link": "https://app.oravys.com/blog/mercor-breach-2026"
     },
     {
       "title": "Moleskine's AI Lord of the Rings collection can only mock",
-      "summary": "Article URL: https://cjleo.com/blog/moleskine-ai-lord-of-the-rings-collection-can-only-mock/ Comments URL: https://news.ycombinator.com/item?id=47919386 Points: 69 # Comments: 95",
+      "summary": "Article URL: https://cjleo.com/blog/moleskine-ai-lord-of-the-rings-collection-can-only-mock/ Comments URL: https://news.ycombinator.com/item?id=47919386 Points: 71 # Comments: 96",
       "source": "Hacker News",
       "published": "2026-04-27T09:19:06+00:00",
       "link": "https://cjleo.com/blog/moleskine-ai-lord-of-the-rings-collection-can-only-mock/"
@@ -178,14 +206,14 @@ const FEED_DATA = {
     },
     {
       "title": "AI can cost more than human workers now",
-      "summary": "Article URL: https://www.axios.com/2026/04/26/ai-cost-human-workers Comments URL: https://news.ycombinator.com/item?id=47918009 Points: 83 # Comments: 56",
+      "summary": "Article URL: https://www.axios.com/2026/04/26/ai-cost-human-workers Comments URL: https://news.ycombinator.com/item?id=47918009 Points: 83 # Comments: 57",
       "source": "Hacker News",
       "published": "2026-04-27T05:28:39+00:00",
       "link": "https://www.axios.com/2026/04/26/ai-cost-human-workers"
     },
     {
       "title": "Google banks on AI edge to catch up to cloud rivals Amazon and Microsoft",
-      "summary": "Article URL: https://www.ft.com/content/2429f0f0-b685-4747-b425-bf8001a2e94c Comments URL: https://news.ycombinator.com/item?id=47916410 Points: 104 # Comments: 103",
+      "summary": "Article URL: https://www.ft.com/content/2429f0f0-b685-4747-b425-bf8001a2e94c Comments URL: https://news.ycombinator.com/item?id=47916410 Points: 107 # Comments: 109",
       "source": "Hacker News",
       "published": "2026-04-27T00:34:30+00:00",
       "link": "https://www.ft.com/content/2429f0f0-b685-4747-b425-bf8001a2e94c"
@@ -199,7 +227,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI should elevate your thinking, not replace it",
-      "summary": "Article URL: https://www.koshyjohn.com/blog/ai-should-elevate-your-thinking-not-replace-it/ Comments URL: https://news.ycombinator.com/item?id=47913650 Points: 768 # Comments: 546",
+      "summary": "Article URL: https://www.koshyjohn.com/blog/ai-should-elevate-your-thinking-not-replace-it/ Comments URL: https://news.ycombinator.com/item?id=47913650 Points: 803 # Comments: 563",
       "source": "Hacker News",
       "published": "2026-04-26T20:03:12+00:00",
       "link": "https://www.koshyjohn.com/blog/ai-should-elevate-your-thinking-not-replace-it/"
@@ -213,7 +241,7 @@ const FEED_DATA = {
     },
     {
       "title": "An AI agent deleted our production database. The agent's confession is below",
-      "summary": "Article URL: https://twitter.com/lifeof_jer/status/2048103471019434248 Comments URL: https://news.ycombinator.com/item?id=47911524 Points: 803 # Comments: 942",
+      "summary": "Article URL: https://twitter.com/lifeof_jer/status/2048103471019434248 Comments URL: https://news.ycombinator.com/item?id=47911524 Points: 814 # Comments: 969",
       "source": "Hacker News",
       "published": "2026-04-26T16:27:29+00:00",
       "link": "https://twitter.com/lifeof_jer/status/2048103471019434248"
@@ -255,7 +283,7 @@ const FEED_DATA = {
     },
     {
       "title": "Eden AI – European Alternative to OpenRouter",
-      "summary": "Article URL: https://www.edenai.co Comments URL: https://news.ycombinator.com/item?id=47908433 Points: 132 # Comments: 68",
+      "summary": "Article URL: https://www.edenai.co Comments URL: https://news.ycombinator.com/item?id=47908433 Points: 133 # Comments: 69",
       "source": "Hacker News",
       "published": "2026-04-26T08:18:09+00:00",
       "link": "https://www.edenai.co"
@@ -276,7 +304,7 @@ const FEED_DATA = {
     },
     {
       "title": "The AI industry is discovering that the public hates it",
-      "summary": "Article URL: https://newrepublic.com/article/209163/ai-industry-discovering-public-backlash Comments URL: https://news.ycombinator.com/item?id=47904568 Points: 274 # Comments: 364",
+      "summary": "Article URL: https://newrepublic.com/article/209163/ai-industry-discovering-public-backlash Comments URL: https://news.ycombinator.com/item?id=47904568 Points: 275 # Comments: 366",
       "source": "Hacker News",
       "published": "2026-04-25T21:11:11+00:00",
       "link": "https://newrepublic.com/article/209163/ai-industry-discovering-public-backlash"
@@ -318,7 +346,7 @@ const FEED_DATA = {
     },
     {
       "title": "Why Cohere is merging with Aleph Alpha",
-      "summary": "Canadian AI startup Cohere is taking over Germany-based Aleph Alpha with support from Lidl’s owner, Schwarz Group. With the blessing of their governments, the companies intend to offer a sovereign alternative to enterprises in an AI landscape dominated by American players.",
+      "summary": "Canadian AI startup Cohere is taking over Germany-based Aleph Alpha with support from Schwarz Group. With the blessing of their governments, the companies intend to offer a sovereign alternative to enterprises in an AI landscape dominated by American players.",
       "source": "TechCrunch",
       "published": "2026-04-25T16:00:00+00:00",
       "link": "https://techcrunch.com/2026/04/25/why-cohere-is-merging-with-aleph-alpha/"
@@ -332,7 +360,7 @@ const FEED_DATA = {
     },
     {
       "title": "GPT‑5.5 Bio Bug Bounty",
-      "summary": "Article URL: https://openai.com/index/gpt-5-5-bio-bug-bounty/ Comments URL: https://news.ycombinator.com/item?id=47901734 Points: 155 # Comments: 103",
+      "summary": "Article URL: https://openai.com/index/gpt-5-5-bio-bug-bounty/ Comments URL: https://news.ycombinator.com/item?id=47901734 Points: 157 # Comments: 103",
       "source": "Hacker News",
       "published": "2026-04-25T14:17:31+00:00",
       "link": "https://openai.com/index/gpt-5-5-bio-bug-bounty/"
@@ -416,7 +444,7 @@ const FEED_DATA = {
     },
     {
       "title": "Agentic AI systems violate the implicit assumptions of database design",
-      "summary": "Article URL: https://arpitbhayani.me/blogs/defensive-databases/ Comments URL: https://news.ycombinator.com/item?id=47897140 Points: 108 # Comments: 103",
+      "summary": "Article URL: https://arpitbhayani.me/blogs/defensive-databases/ Comments URL: https://news.ycombinator.com/item?id=47897140 Points: 110 # Comments: 103",
       "source": "Hacker News",
       "published": "2026-04-24T23:41:38+00:00",
       "link": "https://arpitbhayani.me/blogs/defensive-databases/"
@@ -1372,34 +1400,6 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-04-21T17:11:01+00:00",
       "link": "https://techcrunch.com/2026/04/21/clarifai-okcupid-facial-recognition-ai-ftc-settlement/"
-    },
-    {
-      "title": "Meta to start capturing employee mouse movement, keystrokes for AI training data",
-      "summary": "Article URL: https://tech.yahoo.com/ai/meta-ai/articles/exclusive-meta-start-capturing-employee-162745587.html Comments URL: https://news.ycombinator.com/item?id=47851086 Points: 58 # Comments: 4",
-      "source": "Hacker News",
-      "published": "2026-04-21T16:32:26+00:00",
-      "link": "https://tech.yahoo.com/ai/meta-ai/articles/exclusive-meta-start-capturing-employee-162745587.html"
-    },
-    {
-      "title": "Ordering with the Starbucks ChatGPT app was a true coffee nightmare",
-      "summary": "Venti iced coffee, light skim milk. That's what I get at Starbucks.",
-      "source": "The Verge",
-      "published": "2026-04-21T16:19:40+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/915821/starbucks-chatgpt-app-testing"
-    },
-    {
-      "title": "AI Dungeon maker Latitude unveils Voyage, a platform for creating AI-powered RPGs",
-      "summary": "Latitude's new AI-native platform, Voyage, aims to help gamers create their very own role-playing game.",
-      "source": "TechCrunch",
-      "published": "2026-04-21T16:00:00+00:00",
-      "link": "https://techcrunch.com/2026/04/21/voyage-is-an-ai-rpg-platform-for-creating-custom-gaming-worlds-with-ai-generated-npc-interactions/"
-    },
-    {
-      "title": "OpenAI teases GPT-Image 2 with an AI-generated screenshot that looks completely real",
-      "summary": "OpenAI is unveiling a new image model tonight that has been making waves on social media for weeks under the codename \"gpt-image-2.\" Early test images are nearly impossible to tell apart from real photos.",
-      "source": "The Decoder",
-      "published": "2026-04-21T15:58:49+00:00",
-      "link": "https://the-decoder.com/openai-teases-gpt-image-2-with-an-ai-generated-screenshot-that-looks-completely-real/"
     }
   ]
 };
