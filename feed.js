@@ -1,16 +1,30 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-04-27T07:35:15.423652+00:00",
+  "lastUpdated": "2026-04-27T10:51:18.722997+00:00",
   "items": [
     {
+      "title": "The company with a monopoly on AI's most critical machine is racing to build more",
+      "summary": "ASML plans to significantly increase production of its EUV lithography machines to keep pace with growing demand for AI chips, the Wall Street Journal reports.",
+      "source": "The Decoder",
+      "published": "2026-04-27T08:58:25+00:00",
+      "link": "https://the-decoder.com/the-company-with-a-monopoly-on-ais-most-critical-machine-is-racing-to-build-more/"
+    },
+    {
+      "title": "OpenAI reportedly developing its own smartphone chips with MediaTek and Qualcomm",
+      "summary": "According to analyst Ming-Chi Kuo, OpenAI is working with MediaTek and Qualcomm on custom smartphone processors, with Luxshare as the exclusive partner for system design and manufacturing.",
+      "source": "The Decoder",
+      "published": "2026-04-27T08:55:45+00:00",
+      "link": "https://the-decoder.com/openai-reportedly-developing-its-own-smartphone-chips-with-mediatek-and-qualcomm/"
+    },
+    {
       "title": "AI can cost more than human workers now",
-      "summary": "Article URL: https://www.axios.com/2026/04/26/ai-cost-human-workers Comments URL: https://news.ycombinator.com/item?id=47918009 Points: 58 # Comments: 31",
+      "summary": "Article URL: https://www.axios.com/2026/04/26/ai-cost-human-workers Comments URL: https://news.ycombinator.com/item?id=47918009 Points: 74 # Comments: 48",
       "source": "Hacker News",
       "published": "2026-04-27T05:28:39+00:00",
       "link": "https://www.axios.com/2026/04/26/ai-cost-human-workers"
     },
     {
       "title": "Google banks on AI edge to catch up to cloud rivals Amazon and Microsoft",
-      "summary": "Article URL: https://www.ft.com/content/2429f0f0-b685-4747-b425-bf8001a2e94c Comments URL: https://news.ycombinator.com/item?id=47916410 Points: 96 # Comments: 81",
+      "summary": "Article URL: https://www.ft.com/content/2429f0f0-b685-4747-b425-bf8001a2e94c Comments URL: https://news.ycombinator.com/item?id=47916410 Points: 103 # Comments: 85",
       "source": "Hacker News",
       "published": "2026-04-27T00:34:30+00:00",
       "link": "https://www.ft.com/content/2429f0f0-b685-4747-b425-bf8001a2e94c"
@@ -24,7 +38,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI should elevate your thinking, not replace it",
-      "summary": "Article URL: https://www.koshyjohn.com/blog/ai-should-elevate-your-thinking-not-replace-it/ Comments URL: https://news.ycombinator.com/item?id=47913650 Points: 430 # Comments: 321",
+      "summary": "Article URL: https://www.koshyjohn.com/blog/ai-should-elevate-your-thinking-not-replace-it/ Comments URL: https://news.ycombinator.com/item?id=47913650 Points: 521 # Comments: 380",
       "source": "Hacker News",
       "published": "2026-04-26T20:03:12+00:00",
       "link": "https://www.koshyjohn.com/blog/ai-should-elevate-your-thinking-not-replace-it/"
@@ -38,7 +52,7 @@ const FEED_DATA = {
     },
     {
       "title": "An AI agent deleted our production database. The agent's confession is below",
-      "summary": "Article URL: https://twitter.com/lifeof_jer/status/2048103471019434248 Comments URL: https://news.ycombinator.com/item?id=47911524 Points: 625 # Comments: 785",
+      "summary": "Article URL: https://twitter.com/lifeof_jer/status/2048103471019434248 Comments URL: https://news.ycombinator.com/item?id=47911524 Points: 708 # Comments: 851",
       "source": "Hacker News",
       "published": "2026-04-26T16:27:29+00:00",
       "link": "https://twitter.com/lifeof_jer/status/2048103471019434248"
@@ -80,7 +94,7 @@ const FEED_DATA = {
     },
     {
       "title": "Eden AI – European Alternative to OpenRouter",
-      "summary": "Article URL: https://www.edenai.co Comments URL: https://news.ycombinator.com/item?id=47908433 Points: 128 # Comments: 67",
+      "summary": "Article URL: https://www.edenai.co Comments URL: https://news.ycombinator.com/item?id=47908433 Points: 129 # Comments: 67",
       "source": "Hacker News",
       "published": "2026-04-26T08:18:09+00:00",
       "link": "https://www.edenai.co"
@@ -101,7 +115,7 @@ const FEED_DATA = {
     },
     {
       "title": "The AI industry is discovering that the public hates it",
-      "summary": "Article URL: https://newrepublic.com/article/209163/ai-industry-discovering-public-backlash Comments URL: https://news.ycombinator.com/item?id=47904568 Points: 270 # Comments: 361",
+      "summary": "Article URL: https://newrepublic.com/article/209163/ai-industry-discovering-public-backlash Comments URL: https://news.ycombinator.com/item?id=47904568 Points: 270 # Comments: 359",
       "source": "Hacker News",
       "published": "2026-04-25T21:11:11+00:00",
       "link": "https://newrepublic.com/article/209163/ai-industry-discovering-public-backlash"
@@ -115,7 +129,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI Might Be Lying to Your Boss",
-      "summary": "Article URL: https://williamoconnell.me/blog/post/ai-ide/ Comments URL: https://news.ycombinator.com/item?id=47904252 Points: 58 # Comments: 6",
+      "summary": "Article URL: https://williamoconnell.me/blog/post/ai-ide/ Comments URL: https://news.ycombinator.com/item?id=47904252 Points: 60 # Comments: 7",
       "source": "Hacker News",
       "published": "2026-04-25T20:19:53+00:00",
       "link": "https://williamoconnell.me/blog/post/ai-ide/"
@@ -157,7 +171,7 @@ const FEED_DATA = {
     },
     {
       "title": "GPT‑5.5 Bio Bug Bounty",
-      "summary": "Article URL: https://openai.com/index/gpt-5-5-bio-bug-bounty/ Comments URL: https://news.ycombinator.com/item?id=47901734 Points: 154 # Comments: 104",
+      "summary": "Article URL: https://openai.com/index/gpt-5-5-bio-bug-bounty/ Comments URL: https://news.ycombinator.com/item?id=47901734 Points: 155 # Comments: 103",
       "source": "Hacker News",
       "published": "2026-04-25T14:17:31+00:00",
       "link": "https://openai.com/index/gpt-5-5-bio-bug-bounty/"
@@ -234,21 +248,21 @@ const FEED_DATA = {
     },
     {
       "title": "Open source memory layer so any AI agent can do what Claude.ai and ChatGPT do",
-      "summary": "Article URL: https://alash3al.github.io/stash?_v01 Comments URL: https://news.ycombinator.com/item?id=47897790 Points: 180 # Comments: 76",
+      "summary": "Article URL: https://alash3al.github.io/stash?_v01 Comments URL: https://news.ycombinator.com/item?id=47897790 Points: 182 # Comments: 76",
       "source": "Hacker News",
       "published": "2026-04-25T01:24:40+00:00",
       "link": "https://alash3al.github.io/stash?_v01"
     },
     {
       "title": "Agentic AI systems violate the implicit assumptions of database design",
-      "summary": "Article URL: https://arpitbhayani.me/blogs/defensive-databases/ Comments URL: https://news.ycombinator.com/item?id=47897140 Points: 98 # Comments: 99",
+      "summary": "Article URL: https://arpitbhayani.me/blogs/defensive-databases/ Comments URL: https://news.ycombinator.com/item?id=47897140 Points: 102 # Comments: 100",
       "source": "Hacker News",
       "published": "2026-04-24T23:41:38+00:00",
       "link": "https://arpitbhayani.me/blogs/defensive-databases/"
     },
     {
       "title": "Three reasons why DeepSeek’s new model matters",
-      "summary": "On Friday, Chinese AI firm DeepSeek released a preview of V4, its long-awaited new flagship model. Notably, the model can process much longer prompts than its last generation, thanks to a new design that helps it handle large amounts of text more efficiently.",
+      "summary": "On April 24, Chinese AI firm DeepSeek released a preview of V4, its long-awaited new flagship model. The model can process much longer prompts than its last generation, thanks to a new design that helps it handle large amounts of text more efficiently.",
       "source": "MIT Tech Review",
       "published": "2026-04-24T21:40:58+00:00",
       "link": "https://www.technologyreview.com/2026/04/24/1136422/why-deepseeks-v4-matters/"
@@ -283,7 +297,7 @@ const FEED_DATA = {
     },
     {
       "title": "OpenAI releases GPT-5.5 and GPT-5.5 Pro in the API",
-      "summary": "GPT-5.5 - https://news.ycombinator.com/item?id=47879092 - April 2026 (1010 comments) Comments URL: https://news.ycombinator.com/item?id=47894000 Points: 255 # Comments: 158",
+      "summary": "GPT-5.5 - https://news.ycombinator.com/item?id=47879092 - April 2026 (1010 comments) Comments URL: https://news.ycombinator.com/item?id=47894000 Points: 256 # Comments: 159",
       "source": "Hacker News",
       "published": "2026-04-24T18:23:32+00:00",
       "link": "https://developers.openai.com/api/docs/changelog"
@@ -311,7 +325,7 @@ const FEED_DATA = {
     },
     {
       "title": "Tesla discloses $2B AI hardware company acquisition in filing",
-      "summary": "Article URL: https://electrek.co/2026/04/23/tesla-tsla-quietly-discloses-2-billion-ai-hardware-acquisition-10q/ Comments URL: https://news.ycombinator.com/item?id=47892765 Points: 76 # Comments: 47",
+      "summary": "Article URL: https://electrek.co/2026/04/23/tesla-tsla-quietly-discloses-2-billion-ai-hardware-acquisition-10q/ Comments URL: https://news.ycombinator.com/item?id=47892765 Points: 77 # Comments: 47",
       "source": "Hacker News",
       "published": "2026-04-24T16:51:46+00:00",
       "link": "https://electrek.co/2026/04/23/tesla-tsla-quietly-discloses-2-billion-ai-hardware-acquisition-10q/"
@@ -451,7 +465,7 @@ const FEED_DATA = {
     },
     {
       "title": "South Korea police arrest man for posting AI photo of runaway wolf",
-      "summary": "Article URL: https://www.bbc.com/news/articles/c4gx1n0dl9no Comments URL: https://news.ycombinator.com/item?id=47887683 Points: 234 # Comments: 156",
+      "summary": "Article URL: https://www.bbc.com/news/articles/c4gx1n0dl9no Comments URL: https://news.ycombinator.com/item?id=47887683 Points: 235 # Comments: 157",
       "source": "Hacker News",
       "published": "2026-04-24T09:17:57+00:00",
       "link": "https://www.bbc.com/news/articles/c4gx1n0dl9no"
@@ -1386,20 +1400,6 @@ const FEED_DATA = {
       "source": "Wired",
       "published": "2026-04-20T22:33:27+00:00",
       "link": "https://www.wired.com/story/a-humanoid-robot-set-a-half-marathon-record-in-china/"
-    },
-    {
-      "title": "Google rolls out Gemini in Chrome in APAC countries",
-      "summary": "Google is rolling out Gemini in Chrome in Australia, Indonesia, Japan, the Philippines, Singapore, South Korea, and Vietnam. The company is rolling this feature out to both desktop and iOS in all of these countries except Japan.",
-      "source": "TechCrunch",
-      "published": "2026-04-20T22:00:00+00:00",
-      "link": "https://techcrunch.com/2026/04/20/google-rolls-out-gemini-in-chrome-in-seven-new-countries/"
-    },
-    {
-      "title": "Google rolls out Gemini in Chrome in 7 new countries",
-      "summary": "Google is rolling out Gemini in Chrome in Australia, Indonesia, Japan, the Philippines, Singapore, South Korea, and Vietnam. The company is rolling this feature out to both desktop and iOS in all of these countries except Japan.",
-      "source": "TechCrunch",
-      "published": "2026-04-20T22:00:00+00:00",
-      "link": "https://techcrunch.com/2026/04/20/google-rolls-out-gemini-in-chrome-in-seven-new-countries/"
     }
   ]
 };
