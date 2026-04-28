@@ -1,6 +1,104 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-04-28T10:51:00.837236+00:00",
+  "lastUpdated": "2026-04-28T15:28:03.229696+00:00",
   "items": [
+    {
+      "title": "Mistral AI takes on enterprise AI orchestration with Workflows",
+      "summary": "Mistral AI has rolled out Workflows, an orchestration layer that helps companies turn AI-powered processes into production-ready systems. The article Mistral AI takes on enterprise AI orchestration with Workflows appeared first on The Decoder.",
+      "source": "The Decoder",
+      "published": "2026-04-28T14:58:24+00:00",
+      "link": "https://the-decoder.com/mistral-ai-takes-on-enterprise-ai-orchestration-with-workflows/"
+    },
+    {
+      "title": "Musk and Altman go to court",
+      "summary": "The trial between Elon Musk and OpenAI is officially upon us. And it is going to be a mess.",
+      "source": "The Verge",
+      "published": "2026-04-28T14:47:21+00:00",
+      "link": "https://www.theverge.com/podcast/919534/musk-openai-trial-vergecast"
+    },
+    {
+      "title": "Meta scrambles to unwind Manus deal as Beijing's deadline looms",
+      "summary": "Meta is actively preparing to unwind the Manus acquisition, according to the Wall Street Journal. The article Meta scrambles to unwind Manus deal as Beijing's deadline looms appeared first on The Decoder.",
+      "source": "The Decoder",
+      "published": "2026-04-28T14:40:42+00:00",
+      "link": "https://the-decoder.com/meta-scrambles-to-unwind-manus-deal-as-beijings-deadline-looms/"
+    },
+    {
+      "title": "YouTube is testing an AI-powered search feature that shows guided answers",
+      "summary": "YouTube is rolling out the new AI search feature to Premium subscribers in the U.S. on an opt-in basis.",
+      "source": "TechCrunch",
+      "published": "2026-04-28T13:54:06+00:00",
+      "link": "https://techcrunch.com/2026/04/28/youtube-is-testing-an-ai-powered-search-feature-that-shows-guided-answers/"
+    },
+    {
+      "title": "Red Hat’s OpenClaw maintainer just made enterprise Claw deployments a lot safer",
+      "summary": "Tank OS puts OpenClaw AI agents into a container that let's it run reliably and more safely, especially for those running fleets of them.",
+      "source": "TechCrunch",
+      "published": "2026-04-28T13:00:00+00:00",
+      "link": "https://techcrunch.com/2026/04/28/red-hats-openclaw-maintainer-just-made-enterprise-claw-deployments-a-lot-safer/"
+    },
+    {
+      "title": "The Race Is on to Keep AI Agents From Running Wild With Your Credit Cards",
+      "summary": "AI agents may soon be buying your stuff for you. The FIDO Alliance has teamed up with Google and Mastercard to try to ensure that shopping in the near future isn't a complete disaster.",
+      "source": "Wired",
+      "published": "2026-04-28T13:00:00+00:00",
+      "link": "https://www.wired.com/story/the-race-is-on-to-keep-ai-agents-from-running-wild-with-your-credit-cards/"
+    },
+    {
+      "title": "Researchers find AI text is making the internet more uniform and weirdly cheerful",
+      "summary": "A large-scale analysis of websites from the Internet Archive shows just how much AI text already saturates the web. According to the researchers, though, the actual effects look quite different from what the public assumes.",
+      "source": "The Decoder",
+      "published": "2026-04-28T12:51:47+00:00",
+      "link": "https://the-decoder.com/researchers-find-ai-text-is-making-the-internet-more-uniform-and-weirdly-cheerful/"
+    },
+    {
+      "title": "The Download: Musk and Altman’s legal showdown, and AI’s profit problem",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.",
+      "source": "MIT Tech Review",
+      "published": "2026-04-28T12:10:00+00:00",
+      "link": "https://www.technologyreview.com/2026/04/28/1136479/the-download-musk-altman-openai-trial-ai-profit-problem/"
+    },
+    {
+      "title": "Microsoft VibeVoice: Open-Source Frontier Voice AI",
+      "summary": "Article URL: https://github.com/microsoft/VibeVoice Comments URL: https://news.ycombinator.com/item?id=47933236 Points: 151 # Comments: 97",
+      "source": "Hacker News",
+      "published": "2026-04-28T11:56:04+00:00",
+      "link": "https://github.com/microsoft/VibeVoice"
+    },
+    {
+      "title": "Google's \"Ask YouTube\" turns video search into a conversation",
+      "summary": "Google is testing \"Ask YouTube,\" a conversational search feature that replaces the standard video list with a results page combining text, full-length videos, and Shorts. The article Google's \"Ask YouTube\" turns video search into a conversation appeared first on The Decoder.",
+      "source": "The Decoder",
+      "published": "2026-04-28T11:30:41+00:00",
+      "link": "https://the-decoder.com/googles-ask-youtube-turns-video-search-into-a-conversation/"
+    },
+    {
+      "title": "Google signs AI deal with the Pentagon, ignoring protest from over 600 employees",
+      "summary": "Despite an open letter from hundreds of employees, Google has signed a contract giving the U.S. Department of Defense access to its AI models for classified work.",
+      "source": "The Decoder",
+      "published": "2026-04-28T11:10:05+00:00",
+      "link": "https://the-decoder.com/google-signs-ai-deal-with-the-pentagon-ignoring-protest-from-over-600-employees/"
+    },
+    {
+      "title": "Google and Pentagon reportedly agree on deal for ‘any lawful’ use of AI",
+      "summary": "Google has signed a classified deal that allows the US Department of Defense to use its AI models for \"any lawful government purpose,\" The Information reports.",
+      "source": "The Verge",
+      "published": "2026-04-28T11:09:32+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/919494/google-pentagon-classified-ai-deal"
+    },
+    {
+      "title": "Attack of the killer script kiddies",
+      "summary": "Last August, some of the best cybersecurity teams in the business gathered in Las Vegas to demonstrate the strength of their AI bug-finding systems at DARPA's Artificial Intelligence Cyber Challenge (AIxCC).",
+      "source": "The Verge",
+      "published": "2026-04-28T11:00:00+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/915660/mythos-script-kiddies-hackers-attack-cybersecurity-ai"
+    },
+    {
+      "title": "The Social Edge of Intelligence: Individual Gain, Collective Loss",
+      "summary": "Article URL: https://www.theideasletter.org/essay/the-social-edge-of-intelligence/ Comments URL: https://news.ycombinator.com/item?id=47932446 Points: 64 # Comments: 77",
+      "source": "Hacker News",
+      "published": "2026-04-28T10:08:38+00:00",
+      "link": "https://www.theideasletter.org/essay/the-social-edge-of-intelligence/"
+    },
     {
       "title": "OpenAI misses revenue targets as Anthropic and Google close in",
       "summary": "OpenAI fell short of internal revenue goals for the first quarter of 2026. Meanwhile, pressure from competitors like Anthropic and Google is mounting, and tensions inside the company over massive spending commitments are growing.",
@@ -185,7 +283,7 @@ const FEED_DATA = {
     },
     {
       "title": "China blocks Meta's acquisition of AI startup Manus",
-      "summary": "https://www.reuters.com/world/asia-pacific/china-blocks-fore...https://www.bbc.com/news/articles/cj0v0gr2yz7o Comments URL: https://news.ycombinator.com/item?id=47920315 Points: 371 # Comments: 273",
+      "summary": "https://www.reuters.com/world/asia-pacific/china-blocks-fore...https://www.bbc.com/news/articles/cj0v0gr2yz7o Comments URL: https://news.ycombinator.com/item?id=47920315 Points: 384 # Comments: 293",
       "source": "Hacker News",
       "published": "2026-04-27T11:43:59+00:00",
       "link": "https://www.cnbc.com/2026/04/27/meta-manus-china-blocks-acquisition-ai-startup.html"
@@ -213,7 +311,7 @@ const FEED_DATA = {
     },
     {
       "title": "Mistral built a $14B AI empire by not being American",
-      "summary": "Article URL: https://www.forbes.com/sites/iainmartin/2026/04/16/how-frances-mistral-built-a-14-billion-ai-empire-by-not-being-american/ Comments URL: https://news.ycombinator.com/item?id=47919725 Points: 216 # Comments: 167",
+      "summary": "Article URL: https://www.forbes.com/sites/iainmartin/2026/04/16/how-frances-mistral-built-a-14-billion-ai-empire-by-not-being-american/ Comments URL: https://news.ycombinator.com/item?id=47919725 Points: 219 # Comments: 173",
       "source": "Hacker News",
       "published": "2026-04-27T10:14:15+00:00",
       "link": "https://www.forbes.com/sites/iainmartin/2026/04/16/how-frances-mistral-built-a-14-billion-ai-empire-by-not-being-american/"
@@ -227,7 +325,7 @@ const FEED_DATA = {
     },
     {
       "title": "4TB of voice samples just stolen from 40k AI contractors at Mercor",
-      "summary": "Article URL: https://app.oravys.com/blog/mercor-breach-2026 Comments URL: https://news.ycombinator.com/item?id=47919630 Points: 537 # Comments: 205",
+      "summary": "Article URL: https://app.oravys.com/blog/mercor-breach-2026 Comments URL: https://news.ycombinator.com/item?id=47919630 Points: 578 # Comments: 218",
       "source": "Hacker News",
       "published": "2026-04-27T09:57:10+00:00",
       "link": "https://app.oravys.com/blog/mercor-breach-2026"
@@ -255,7 +353,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI can cost more than human workers now",
-      "summary": "Article URL: https://www.axios.com/2026/04/26/ai-cost-human-workers Comments URL: https://news.ycombinator.com/item?id=47918009 Points: 87 # Comments: 58",
+      "summary": "Article URL: https://www.axios.com/2026/04/26/ai-cost-human-workers Comments URL: https://news.ycombinator.com/item?id=47918009 Points: 88 # Comments: 58",
       "source": "Hacker News",
       "published": "2026-04-27T05:28:39+00:00",
       "link": "https://www.axios.com/2026/04/26/ai-cost-human-workers"
@@ -276,7 +374,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI should elevate your thinking, not replace it",
-      "summary": "Article URL: https://www.koshyjohn.com/blog/ai-should-elevate-your-thinking-not-replace-it/ Comments URL: https://news.ycombinator.com/item?id=47913650 Points: 833 # Comments: 579",
+      "summary": "Article URL: https://www.koshyjohn.com/blog/ai-should-elevate-your-thinking-not-replace-it/ Comments URL: https://news.ycombinator.com/item?id=47913650 Points: 844 # Comments: 584",
       "source": "Hacker News",
       "published": "2026-04-26T20:03:12+00:00",
       "link": "https://www.koshyjohn.com/blog/ai-should-elevate-your-thinking-not-replace-it/"
@@ -290,7 +388,7 @@ const FEED_DATA = {
     },
     {
       "title": "An AI agent deleted our production database. The agent's confession is below",
-      "summary": "Article URL: https://twitter.com/lifeof_jer/status/2048103471019434248 Comments URL: https://news.ycombinator.com/item?id=47911524 Points: 831 # Comments: 997",
+      "summary": "Article URL: https://twitter.com/lifeof_jer/status/2048103471019434248 Comments URL: https://news.ycombinator.com/item?id=47911524 Points: 833 # Comments: 1003",
       "source": "Hacker News",
       "published": "2026-04-26T16:27:29+00:00",
       "link": "https://twitter.com/lifeof_jer/status/2048103471019434248"
@@ -1302,104 +1400,6 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-04-21T22:58:22+00:00",
       "link": "https://techcrunch.com/2026/04/21/spacex-is-working-with-cursor-and-has-an-option-to-buy-the-startup-for-60-billion/"
-    },
-    {
-      "title": "SpaceX cuts a deal to maybe buy Cursor for $60 billion",
-      "summary": "With an IPO looming for Elon Musk's SpaceX / xAI / X combo platter of companies, SpaceX has announced an odd arrangement to either acquire the automated programming platform Cursor for $60 billion or pay a fee of $10 billion.",
-      "source": "The Verge",
-      "published": "2026-04-21T22:45:37+00:00",
-      "link": "https://www.theverge.com/science/916427/spacex-cursor-potential-deal-acquisition"
-    },
-    {
-      "title": "Roundtables: Unveiling The 10 Things That Matter in AI Right Now",
-      "summary": "Listen to the session or watch below Subscribers saw a special edition of Roundtables simulcast live from EmTech AI, MIT Technology Review’s signature conference for AI leadership.",
-      "source": "MIT Tech Review",
-      "published": "2026-04-21T22:09:25+00:00",
-      "link": "https://www.technologyreview.com/2026/04/21/1135486/roundtables-unveiling-the-10-things-that-matter-in-ai-right-now/"
-    },
-    {
-      "title": "This tool could show how consciousness works",
-      "summary": "How does the physical matter in our brains translate into thoughts, sensations, and emotions? It’s hard to explore that question without neurosurgery.",
-      "source": "MIT Tech Review",
-      "published": "2026-04-21T21:00:00+00:00",
-      "link": "https://www.technologyreview.com/2026/04/21/1134862/this-tool-could-show-how-consciousness-works/"
-    },
-    {
-      "title": "AI at MIT",
-      "summary": "At MIT, AI has become so pervasive that you can almost find your way into it without meaning to. Take Sili Deng, an associate professor of mechanical engineering.",
-      "source": "MIT Tech Review",
-      "published": "2026-04-21T21:00:00+00:00",
-      "link": "https://www.technologyreview.com/2026/04/21/1134938/ai-at-mit/"
-    },
-    {
-      "title": "Inventor recalls eye imaging breakthrough",
-      "summary": "If you’ve been to an eye doctor and had an image taken of the inside of your eye, chances are good it was done with optical coherence tomography (OCT)—a technology invented by clinician-scientist David Huang ’85, SM ’89, PhD ’93, and now used in 40 million procedures per year.",
-      "source": "MIT Tech Review",
-      "published": "2026-04-21T21:00:00+00:00",
-      "link": "https://www.technologyreview.com/2026/04/21/1134945/inventor-recalls-eye-imaging-breakthrough/"
-    },
-    {
-      "title": "ChatGPT Images 2.0 is a breakthrough that could fundamentally reshape graphic generation",
-      "summary": "OpenAI is adding reasoning and web search to its ChatGPT Images 2.0 image generator. The model can now create up to eight consistent images from a single prompt and handles text in general, and especially in non-Latin scripts, significantly better.",
-      "source": "The Decoder",
-      "published": "2026-04-21T19:55:49+00:00",
-      "link": "https://the-decoder.com/openais-chatgpt-images-2-0-thinks-before-it-generates-adding-reasoning-and-web-search-to-image-creation/"
-    },
-    {
-      "title": "AI research lab NeoCognition lands $40M seed to build agents that learn like humans",
-      "summary": "Founded by an OSU researcher, the startup is developing AI agents that can become experts in any domain.",
-      "source": "TechCrunch",
-      "published": "2026-04-21T19:11:29+00:00",
-      "link": "https://techcrunch.com/2026/04/21/ai-research-lab-neocognition-lands-40m-seed-to-build-agents-that-learn-like-humans/"
-    },
-    {
-      "title": "AI backlash is coming for elections",
-      "summary": "Ask Americans how they feel about AI and most say they have concerns. Communities have mounted resistance to data center projects, stalling them across the US.",
-      "source": "The Verge",
-      "published": "2026-04-21T19:00:05+00:00",
-      "link": "https://www.theverge.com/policy/916210/ai-midterm-elections-data-centers-jobs"
-    },
-    {
-      "title": "OpenAI Beefs Up ChatGPT’s Image Generation Model",
-      "summary": "The ChatGPT Images 2.0 model is here. Our testing shows it’s better at creating more detailed images and rendering text, but it still struggles with languages other than English.",
-      "source": "Wired",
-      "published": "2026-04-21T19:00:00+00:00",
-      "link": "https://www.wired.com/story/openai-beefs-up-chatgpts-image-generation-model/"
-    },
-    {
-      "title": "ChatGPT’s new Images 2.0 model is surprisingly good at generating text",
-      "summary": "ChatGPT Images 2.0, the newest image-generation model from OpenAI, shows just how much AI capabilities have evolved over the last few years.",
-      "source": "TechCrunch",
-      "published": "2026-04-21T19:00:00+00:00",
-      "link": "https://techcrunch.com/2026/04/21/chatgpts-new-images-2-0-model-is-surprisingly-good-at-generating-text/"
-    },
-    {
-      "title": "OpenAI’s updated image generator can now pull information from the web",
-      "summary": "OpenAI is rolling out the latest version of its AI-powered image generator with new \"thinking capabilities,\" allowing it to search the web to help it create multiple images from a single prompt.",
-      "source": "The Verge",
-      "published": "2026-04-21T19:00:00+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/916166/openai-chatgpt-images-2"
-    },
-    {
-      "title": "Sam Altman throws shade at Anthropic’s cyber model, Mythos: ‘fear-based marketing’",
-      "summary": "This week, during a podcast appearance, OpenAI CEO Sam Altman called out his competitor's new cybersecurity model, noting that the company was using fear to make its product sound more impressive than it actually is.",
-      "source": "TechCrunch",
-      "published": "2026-04-21T18:51:52+00:00",
-      "link": "https://techcrunch.com/2026/04/21/sam-altman-throws-shade-at-anthropics-cyber-model-mythos-fear-based-marketing/"
-    },
-    {
-      "title": "Mozilla Used Anthropic’s Mythos to Find and Fix 271 Bugs in Firefox",
-      "summary": "The Firefox team doesn’t think emerging AI capabilities will upend cybersecurity long term, but they warn that software developers are likely in for a rocky transition.",
-      "source": "Wired",
-      "published": "2026-04-21T18:30:00+00:00",
-      "link": "https://www.wired.com/story/mozilla-used-anthropics-mythos-to-find-271-bugs-in-firefox/"
-    },
-    {
-      "title": "Google launches Deep Research and Deep Research Max agents to automate complex research",
-      "summary": "Google Deepmind is rolling out Deep Research Max, a new AI agent built on Gemini 3.1 Pro that runs autonomous research across the web and proprietary data sources.",
-      "source": "The Decoder",
-      "published": "2026-04-21T18:11:38+00:00",
-      "link": "https://the-decoder.com/google-launches-deep-research-and-deep-research-max-agents-to-automate-complex-research/"
     }
   ]
 };
