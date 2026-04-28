@@ -1,6 +1,41 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-04-28T15:28:03.229696+00:00",
+  "lastUpdated": "2026-04-28T18:13:43.655551+00:00",
   "items": [
+    {
+      "title": "Here is what an LLM that knows nothing after 1930 thinks our world looks like in 2026",
+      "summary": "\"Talkie\" is a 13B-parameter language model trained only on texts written before 1931. It doubts a second world war will happen and pictures 2026 as a world of steamships, railroads, and penny novels.",
+      "source": "The Decoder",
+      "published": "2026-04-28T18:07:13+00:00",
+      "link": "https://the-decoder.com/here-is-what-an-llm-that-knows-nothing-after-1930-thinks-our-world-looks-like-in-2026/"
+    },
+    {
+      "title": "Live updates from Elon Musk and Sam Altman’s court battle over the future of OpenAI",
+      "summary": "Sam Altman and Elon Musk are set to face off in a high-stakes trial that could alter the future of tech’s leading AI startup, OpenAI.",
+      "source": "The Verge",
+      "published": "2026-04-28T17:45:16+00:00",
+      "link": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit"
+    },
+    {
+      "title": "IBM launches AI platform Bob to regulate SDLC costs",
+      "summary": "To regulate software delivery costs and SDLC governance, IBM is launching Bob, an AI platform built to anchor enterprise engineering. Accumulated technical debt, hybrid cloud structures, and rigid compliance requirements clash with the raw speed of coding assistants.",
+      "source": "AI News",
+      "published": "2026-04-28T17:34:21+00:00",
+      "link": "https://www.artificialintelligence-news.com/news/ibm-launches-ai-platform-bob-to-regulate-sdlc-costs/"
+    },
+    {
+      "title": "Claude can now plug directly into Photoshop, Blender, and Ableton",
+      "summary": "Anthropic has launched a set of connectors for Claude that allow the AI chatbot to tap into popular creative software, including Adobe's Creative Cloud apps, Affinity, Blender, Ableton, Autodesk, and more.",
+      "source": "The Verge",
+      "published": "2026-04-28T16:49:08+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/919648/anthropic-claude-creative-connectors-adobe-blender"
+    },
+    {
+      "title": "AI's Economics Don't Make Sense",
+      "summary": "Article URL: https://www.wheresyoured.at/ais-economics-dont-make-sense/ Comments URL: https://news.ycombinator.com/item?id=47936867 Points: 89 # Comments: 48",
+      "source": "Hacker News",
+      "published": "2026-04-28T16:39:53+00:00",
+      "link": "https://www.wheresyoured.at/ais-economics-dont-make-sense/"
+    },
     {
       "title": "Mistral AI takes on enterprise AI orchestration with Workflows",
       "summary": "Mistral AI has rolled out Workflows, an orchestration layer that helps companies turn AI-powered processes into production-ready systems. The article Mistral AI takes on enterprise AI orchestration with Workflows appeared first on The Decoder.",
@@ -30,8 +65,15 @@ const FEED_DATA = {
       "link": "https://techcrunch.com/2026/04/28/youtube-is-testing-an-ai-powered-search-feature-that-shows-guided-answers/"
     },
     {
+      "title": "The evolution of encoders: From simple models to multimodal AI",
+      "summary": "When people talk about artificial intelligence, they usually focus on what it produces: Human-like text, stunning images, or eerily accurate recommendations. What rarely gets attention is how AI understands anything in the first place.",
+      "source": "AI News",
+      "published": "2026-04-28T13:01:51+00:00",
+      "link": "https://www.artificialintelligence-news.com/news/the-evolution-of-encoders-from-simple-models-to-multimodal-ai/"
+    },
+    {
       "title": "Red Hat’s OpenClaw maintainer just made enterprise Claw deployments a lot safer",
-      "summary": "Tank OS puts OpenClaw AI agents into a container that let's it run reliably and more safely, especially for those running fleets of them.",
+      "summary": "Tank OS puts OpenClaw AI agents into a container that lets it run reliably and more safely, especially for those running fleets of them.",
       "source": "TechCrunch",
       "published": "2026-04-28T13:00:00+00:00",
       "link": "https://techcrunch.com/2026/04/28/red-hats-openclaw-maintainer-just-made-enterprise-claw-deployments-a-lot-safer/"
@@ -58,8 +100,15 @@ const FEED_DATA = {
       "link": "https://www.technologyreview.com/2026/04/28/1136479/the-download-musk-altman-openai-trial-ai-profit-problem/"
     },
     {
+      "title": "Otter’s new feature lets users search across their enterprise tools",
+      "summary": "With this launch, users can connect their Gmail, Google Drive, Notion, Jira, and Salesforce accounts and query that data along with existing meeting data. The company said that it will soon allow connections with Microsoft Outlook, Teams, SharePoint, and Slack.",
+      "source": "TechCrunch",
+      "published": "2026-04-28T12:00:00+00:00",
+      "link": "https://techcrunch.com/2026/04/28/otters-new-feature-lets-users-search-across-their-enterprise-tools/"
+    },
+    {
       "title": "Microsoft VibeVoice: Open-Source Frontier Voice AI",
-      "summary": "Article URL: https://github.com/microsoft/VibeVoice Comments URL: https://news.ycombinator.com/item?id=47933236 Points: 151 # Comments: 97",
+      "summary": "Article URL: https://github.com/microsoft/VibeVoice Comments URL: https://news.ycombinator.com/item?id=47933236 Points: 237 # Comments: 145",
       "source": "Hacker News",
       "published": "2026-04-28T11:56:04+00:00",
       "link": "https://github.com/microsoft/VibeVoice"
@@ -94,10 +143,24 @@ const FEED_DATA = {
     },
     {
       "title": "The Social Edge of Intelligence: Individual Gain, Collective Loss",
-      "summary": "Article URL: https://www.theideasletter.org/essay/the-social-edge-of-intelligence/ Comments URL: https://news.ycombinator.com/item?id=47932446 Points: 64 # Comments: 77",
+      "summary": "Article URL: https://www.theideasletter.org/essay/the-social-edge-of-intelligence/ Comments URL: https://news.ycombinator.com/item?id=47932446 Points: 69 # Comments: 80",
       "source": "Hacker News",
       "published": "2026-04-28T10:08:38+00:00",
       "link": "https://www.theideasletter.org/essay/the-social-edge-of-intelligence/"
+    },
+    {
+      "title": "Kakao Mobility details Level 4 autonomous driving roadmap for physical AI",
+      "summary": "Kakao Mobility has set out plans to develop Level 4 autonomous driving technologies in-house as part of its physical AI strategy.",
+      "source": "AI News",
+      "published": "2026-04-28T10:00:00+00:00",
+      "link": "https://www.artificialintelligence-news.com/news/kakao-mobility-level-4-autonomous-driving-roadmap/"
+    },
+    {
+      "title": "Lightelligence’s 400% debut is a bet that AI’s next bottleneck is the optical interconnect",
+      "summary": "When a company with US$15.5 million in annual revenue debuts on a stock exchange and its market capitalisation briefly hits US$10 billion, the obvious question is: what do investors know that the financials don’t show yet?",
+      "source": "AI News",
+      "published": "2026-04-28T10:00:00+00:00",
+      "link": "https://www.artificialintelligence-news.com/news/lightelligence-ipo-optical-interconnect-ai-infrastructure/"
     },
     {
       "title": "OpenAI misses revenue targets as Anthropic and Google close in",
@@ -115,7 +178,7 @@ const FEED_DATA = {
     },
     {
       "title": "The Bloomberg Terminal Is Getting an AI Makeover, Like It or Not",
-      "summary": "WIRED spoke with Bloomberg's chief technology officer about the big, chatbot-style changes coming to the iconic platform for traders.",
+      "summary": "WIRED spoke with Bloomberg’s chief technology officer about the big, chatbot-style changes coming to the iconic platform for traders.",
       "source": "Wired",
       "published": "2026-04-28T08:30:00+00:00",
       "link": "https://www.wired.com/story/the-bloomberg-terminal-is-getting-an-ai-makeover-like-it-or-not/"
@@ -212,10 +275,10 @@ const FEED_DATA = {
       "link": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit"
     },
     {
-      "title": "Canva apologizes after its AI tool replaces ‘Palestine’ in designs",
-      "summary": "One of Canva's new AI features has been caught replacing the word \"Palestine\" in designs.",
-      "source": "The Verge",
-      "published": "2026-04-27T14:29:23+00:00",
+      "title": "Canva apologizes after its AI tool replaces 'Palestine' in designs",
+      "summary": "Article URL: https://www.theverge.com/ai-artificial-intelligence/919028/canva-magic-layers-ai-replacing-palestine Comments URL: https://news.ycombinator.com/item?id=47922518 Points: 77 # Comments: 31",
+      "source": "Hacker News",
+      "published": "2026-04-27T14:58:48+00:00",
       "link": "https://www.theverge.com/ai-artificial-intelligence/919028/canva-magic-layers-ai-replacing-palestine"
     },
     {
@@ -283,7 +346,7 @@ const FEED_DATA = {
     },
     {
       "title": "China blocks Meta's acquisition of AI startup Manus",
-      "summary": "https://www.reuters.com/world/asia-pacific/china-blocks-fore...https://www.bbc.com/news/articles/cj0v0gr2yz7o Comments URL: https://news.ycombinator.com/item?id=47920315 Points: 384 # Comments: 293",
+      "summary": "https://www.reuters.com/world/asia-pacific/china-blocks-fore...https://www.bbc.com/news/articles/cj0v0gr2yz7o Comments URL: https://news.ycombinator.com/item?id=47920315 Points: 389 # Comments: 303",
       "source": "Hacker News",
       "published": "2026-04-27T11:43:59+00:00",
       "link": "https://www.cnbc.com/2026/04/27/meta-manus-china-blocks-acquisition-ai-startup.html"
@@ -325,7 +388,7 @@ const FEED_DATA = {
     },
     {
       "title": "4TB of voice samples just stolen from 40k AI contractors at Mercor",
-      "summary": "Article URL: https://app.oravys.com/blog/mercor-breach-2026 Comments URL: https://news.ycombinator.com/item?id=47919630 Points: 578 # Comments: 218",
+      "summary": "Article URL: https://app.oravys.com/blog/mercor-breach-2026 Comments URL: https://news.ycombinator.com/item?id=47919630 Points: 581 # Comments: 220",
       "source": "Hacker News",
       "published": "2026-04-27T09:57:10+00:00",
       "link": "https://app.oravys.com/blog/mercor-breach-2026"
@@ -360,7 +423,7 @@ const FEED_DATA = {
     },
     {
       "title": "Google banks on AI edge to catch up to cloud rivals Amazon and Microsoft",
-      "summary": "Article URL: https://www.ft.com/content/2429f0f0-b685-4747-b425-bf8001a2e94c Comments URL: https://news.ycombinator.com/item?id=47916410 Points: 107 # Comments: 112",
+      "summary": "Article URL: https://www.ft.com/content/2429f0f0-b685-4747-b425-bf8001a2e94c Comments URL: https://news.ycombinator.com/item?id=47916410 Points: 107 # Comments: 113",
       "source": "Hacker News",
       "published": "2026-04-27T00:34:30+00:00",
       "link": "https://www.ft.com/content/2429f0f0-b685-4747-b425-bf8001a2e94c"
@@ -374,7 +437,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI should elevate your thinking, not replace it",
-      "summary": "Article URL: https://www.koshyjohn.com/blog/ai-should-elevate-your-thinking-not-replace-it/ Comments URL: https://news.ycombinator.com/item?id=47913650 Points: 844 # Comments: 584",
+      "summary": "Article URL: https://www.koshyjohn.com/blog/ai-should-elevate-your-thinking-not-replace-it/ Comments URL: https://news.ycombinator.com/item?id=47913650 Points: 846 # Comments: 589",
       "source": "Hacker News",
       "published": "2026-04-26T20:03:12+00:00",
       "link": "https://www.koshyjohn.com/blog/ai-should-elevate-your-thinking-not-replace-it/"
@@ -388,7 +451,7 @@ const FEED_DATA = {
     },
     {
       "title": "An AI agent deleted our production database. The agent's confession is below",
-      "summary": "Article URL: https://twitter.com/lifeof_jer/status/2048103471019434248 Comments URL: https://news.ycombinator.com/item?id=47911524 Points: 833 # Comments: 1003",
+      "summary": "Article URL: https://twitter.com/lifeof_jer/status/2048103471019434248 Comments URL: https://news.ycombinator.com/item?id=47911524 Points: 834 # Comments: 1009",
       "source": "Hacker News",
       "published": "2026-04-26T16:27:29+00:00",
       "link": "https://twitter.com/lifeof_jer/status/2048103471019434248"
@@ -451,7 +514,7 @@ const FEED_DATA = {
     },
     {
       "title": "The AI industry is discovering that the public hates it",
-      "summary": "Article URL: https://newrepublic.com/article/209163/ai-industry-discovering-public-backlash Comments URL: https://news.ycombinator.com/item?id=47904568 Points: 275 # Comments: 367",
+      "summary": "Article URL: https://newrepublic.com/article/209163/ai-industry-discovering-public-backlash Comments URL: https://news.ycombinator.com/item?id=47904568 Points: 276 # Comments: 367",
       "source": "Hacker News",
       "published": "2026-04-25T21:11:11+00:00",
       "link": "https://newrepublic.com/article/209163/ai-industry-discovering-public-backlash"
@@ -1337,69 +1400,6 @@ const FEED_DATA = {
       "source": "MIT Tech Review",
       "published": "2026-04-22T10:05:06+00:00",
       "link": "https://www.technologyreview.com/2026/04/22/1135295/ai-needs-a-strong-data-fabric-to-deliver-business-value/"
-    },
-    {
-      "title": "Join Our Livestream: Musk v. Altman and the Future of OpenAI",
-      "summary": "On May 8, we’re going live to answer your questions about the Musk v. Altman trial that could determine the fate of OpenAI.",
-      "source": "Wired",
-      "published": "2026-04-22T10:00:00+00:00",
-      "link": "https://www.wired.com/story/livestream-musk-v-altman-trial/"
-    },
-    {
-      "title": "The Pope’s Warnings About AI Were AI-Generated, a Detection Tool Claims",
-      "summary": "Pangram Labs’ updated Chrome extension puts warning labels on AI slop as you scroll your social feeds.",
-      "source": "Wired",
-      "published": "2026-04-22T09:30:00+00:00",
-      "link": "https://www.wired.com/story/pope-tweets-ai-generated-pangram-chrome-extension/"
-    },
-    {
-      "title": "Anthropic’s most dangerous AI model just fell into the wrong hands",
-      "summary": "Anthropic's Mythos AI model, a powerful cybersecurity tool that the company said could be dangerous in the wrong hands, has been accessed by a \"small group of unauthorized users,\" Bloomberg reports.",
-      "source": "The Verge",
-      "published": "2026-04-22T09:18:40+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/916501/anthropic-mythos-unauthorized-users-access-security"
-    },
-    {
-      "title": "Meta employees are up in arms over a mandatory program to train AI on their",
-      "summary": "Article URL: https://www.businessinsider.com/meta-new-ai-tool-tracks-staff-activity-sparks-concern-2026-4 Comments URL: https://news.ycombinator.com/item?id=47860961 Points: 116 # Comments: 89",
-      "source": "Hacker News",
-      "published": "2026-04-22T09:02:46+00:00",
-      "link": "https://www.businessinsider.com/meta-new-ai-tool-tracks-staff-activity-sparks-concern-2026-4"
-    },
-    {
-      "title": "The role of AI in modern forex bot development",
-      "summary": "Artificial intelligence has become a defining force in financial markets. And currency trading is no exception.",
-      "source": "AI News",
-      "published": "2026-04-22T07:34:01+00:00",
-      "link": "https://www.artificialintelligence-news.com/news/the-role-of-ai-in-modern-forex-bot-development/"
-    },
-    {
-      "title": "Tell HN: I'm sick of AI everything",
-      "summary": "A while back, I stopped using Facebook because I just couldn't take it anymore. Just totally sick of it.",
-      "source": "Hacker News",
-      "published": "2026-04-22T01:19:30+00:00",
-      "link": "https://news.ycombinator.com/item?id=47857461"
-    },
-    {
-      "title": "Meta will record employees’ keystrokes and use it to train its AI models",
-      "summary": "Meta says that it has a new internal tool that is converting mouse movements and button clicks into data that can train its AI models.",
-      "source": "TechCrunch",
-      "published": "2026-04-21T23:45:21+00:00",
-      "link": "https://techcrunch.com/2026/04/21/meta-will-record-employees-keystrokes-and-use-it-to-train-its-ai-models/"
-    },
-    {
-      "title": "Unauthorized group has gained access to Anthropic’s exclusive cyber tool Mythos, report claims",
-      "summary": "Anthropic told TechCrunch it is investigating the claims, but maintains that there is no evidence that its systems have been impacted.",
-      "source": "TechCrunch",
-      "published": "2026-04-21T23:26:45+00:00",
-      "link": "https://techcrunch.com/2026/04/21/unauthorized-group-has-gained-access-to-anthropics-exclusive-cyber-tool-mythos-report-claims/"
-    },
-    {
-      "title": "SpaceX is working with Cursor and has an option to buy the startup for $60B",
-      "summary": "The move could shore up weaknesses at each company, but it also reveals them. Neither Cursor nor xAI has proprietary models that can match the leading offerings from Anthropic and OpenAI — the same companies now competing directly with Cursor for the developer market.",
-      "source": "TechCrunch",
-      "published": "2026-04-21T22:58:22+00:00",
-      "link": "https://techcrunch.com/2026/04/21/spacex-is-working-with-cursor-and-has-an-option-to-buy-the-startup-for-60-billion/"
     }
   ]
 };
