@@ -1,6 +1,34 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-04-27T21:49:13.235152+00:00",
+  "lastUpdated": "2026-04-28T04:33:07.206373+00:00",
   "items": [
+    {
+      "title": "Jury selection in Musk v. Altman: ‘People don’t like him’",
+      "summary": "On Monday, the courtroom battle between Elon Musk and Sam Altman over alleged broken promises at OpenAI started, as usual, with jury selection. The only tricky part?",
+      "source": "The Verge",
+      "published": "2026-04-28T03:39:33+00:00",
+      "link": "https://www.theverge.com/tech/919469/elon-musk-dont-like"
+    },
+    {
+      "title": "Some Musk v. Altman Jurors Don't Like Elon Musk",
+      "summary": "Musk’s lawsuit challenges OpenAI’s evolution under Sam Altman. But during jury selection, several potential jurors voiced negative views of Musk himself.",
+      "source": "Wired",
+      "published": "2026-04-28T00:39:30+00:00",
+      "link": "https://www.wired.com/story/some-musk-v-altman-jurors-dont-like-elon-musk/"
+    },
+    {
+      "title": "Google is testing AI chatbot search for YouTube",
+      "summary": "Google is trying out an AI Mode-like search experience for YouTube. The company is now testing \"a new way to search on YouTube that feels more like a conversation,\" with results pulling in things like longform videos, YouTube Shorts, and text about what you're searching for.",
+      "source": "The Verge",
+      "published": "2026-04-28T00:01:54+00:00",
+      "link": "https://www.theverge.com/streaming/919441/google-ask-youtube-ai-chatbot-search"
+    },
+    {
+      "title": "Elon Musk and Sam Altman are going to court over OpenAI’s future",
+      "summary": "After a yearslong legal feud, Elon Musk and OpenAI CEO Sam Altman are heading to trial this week in Northern California in a case that could have sweeping consequences.",
+      "source": "MIT Tech Review",
+      "published": "2026-04-27T22:52:57+00:00",
+      "link": "https://www.technologyreview.com/2026/04/27/1136466/elon-musk-and-sam-altman-are-going-to-court-over-openais-future/"
+    },
     {
       "title": "Canonical lays out a plan for AI in Ubuntu Linux",
       "summary": "One of the most popular Linux distributions is about to get an influx of AI features. As reported by Phoronix, Jon Seager, VP of engineering at Ubuntu developer Canonical, shared a blog post on Monday detailing plans to add AI features to the Linux distro over the next year.",
@@ -136,7 +164,7 @@ const FEED_DATA = {
     },
     {
       "title": "China blocks Meta's acquisition of AI startup Manus",
-      "summary": "https://www.reuters.com/world/asia-pacific/china-blocks-fore...https://www.bbc.com/news/articles/cj0v0gr2yz7o Comments URL: https://news.ycombinator.com/item?id=47920315 Points: 203 # Comments: 125",
+      "summary": "https://www.reuters.com/world/asia-pacific/china-blocks-fore...https://www.bbc.com/news/articles/cj0v0gr2yz7o Comments URL: https://news.ycombinator.com/item?id=47920315 Points: 333 # Comments: 223",
       "source": "Hacker News",
       "published": "2026-04-27T11:43:59+00:00",
       "link": "https://www.cnbc.com/2026/04/27/meta-manus-china-blocks-acquisition-ai-startup.html"
@@ -164,7 +192,7 @@ const FEED_DATA = {
     },
     {
       "title": "Mistral built a $14B AI empire by not being American",
-      "summary": "Article URL: https://www.forbes.com/sites/iainmartin/2026/04/16/how-frances-mistral-built-a-14-billion-ai-empire-by-not-being-american/ Comments URL: https://news.ycombinator.com/item?id=47919725 Points: 199 # Comments: 156",
+      "summary": "Article URL: https://www.forbes.com/sites/iainmartin/2026/04/16/how-frances-mistral-built-a-14-billion-ai-empire-by-not-being-american/ Comments URL: https://news.ycombinator.com/item?id=47919725 Points: 208 # Comments: 161",
       "source": "Hacker News",
       "published": "2026-04-27T10:14:15+00:00",
       "link": "https://www.forbes.com/sites/iainmartin/2026/04/16/how-frances-mistral-built-a-14-billion-ai-empire-by-not-being-american/"
@@ -178,14 +206,14 @@ const FEED_DATA = {
     },
     {
       "title": "4TB of voice samples just stolen from 40k AI contractors at Mercor",
-      "summary": "Article URL: https://app.oravys.com/blog/mercor-breach-2026 Comments URL: https://news.ycombinator.com/item?id=47919630 Points: 388 # Comments: 150",
+      "summary": "Article URL: https://app.oravys.com/blog/mercor-breach-2026 Comments URL: https://news.ycombinator.com/item?id=47919630 Points: 468 # Comments: 173",
       "source": "Hacker News",
       "published": "2026-04-27T09:57:10+00:00",
       "link": "https://app.oravys.com/blog/mercor-breach-2026"
     },
     {
       "title": "Moleskine's AI Lord of the Rings collection can only mock",
-      "summary": "Article URL: https://cjleo.com/blog/moleskine-ai-lord-of-the-rings-collection-can-only-mock/ Comments URL: https://news.ycombinator.com/item?id=47919386 Points: 71 # Comments: 96",
+      "summary": "Article URL: https://cjleo.com/blog/moleskine-ai-lord-of-the-rings-collection-can-only-mock/ Comments URL: https://news.ycombinator.com/item?id=47919386 Points: 72 # Comments: 97",
       "source": "Hacker News",
       "published": "2026-04-27T09:19:06+00:00",
       "link": "https://cjleo.com/blog/moleskine-ai-lord-of-the-rings-collection-can-only-mock/"
@@ -206,14 +234,14 @@ const FEED_DATA = {
     },
     {
       "title": "AI can cost more than human workers now",
-      "summary": "Article URL: https://www.axios.com/2026/04/26/ai-cost-human-workers Comments URL: https://news.ycombinator.com/item?id=47918009 Points: 83 # Comments: 57",
+      "summary": "Article URL: https://www.axios.com/2026/04/26/ai-cost-human-workers Comments URL: https://news.ycombinator.com/item?id=47918009 Points: 86 # Comments: 58",
       "source": "Hacker News",
       "published": "2026-04-27T05:28:39+00:00",
       "link": "https://www.axios.com/2026/04/26/ai-cost-human-workers"
     },
     {
       "title": "Google banks on AI edge to catch up to cloud rivals Amazon and Microsoft",
-      "summary": "Article URL: https://www.ft.com/content/2429f0f0-b685-4747-b425-bf8001a2e94c Comments URL: https://news.ycombinator.com/item?id=47916410 Points: 107 # Comments: 109",
+      "summary": "Article URL: https://www.ft.com/content/2429f0f0-b685-4747-b425-bf8001a2e94c Comments URL: https://news.ycombinator.com/item?id=47916410 Points: 107 # Comments: 111",
       "source": "Hacker News",
       "published": "2026-04-27T00:34:30+00:00",
       "link": "https://www.ft.com/content/2429f0f0-b685-4747-b425-bf8001a2e94c"
@@ -227,7 +255,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI should elevate your thinking, not replace it",
-      "summary": "Article URL: https://www.koshyjohn.com/blog/ai-should-elevate-your-thinking-not-replace-it/ Comments URL: https://news.ycombinator.com/item?id=47913650 Points: 803 # Comments: 563",
+      "summary": "Article URL: https://www.koshyjohn.com/blog/ai-should-elevate-your-thinking-not-replace-it/ Comments URL: https://news.ycombinator.com/item?id=47913650 Points: 823 # Comments: 575",
       "source": "Hacker News",
       "published": "2026-04-26T20:03:12+00:00",
       "link": "https://www.koshyjohn.com/blog/ai-should-elevate-your-thinking-not-replace-it/"
@@ -241,7 +269,7 @@ const FEED_DATA = {
     },
     {
       "title": "An AI agent deleted our production database. The agent's confession is below",
-      "summary": "Article URL: https://twitter.com/lifeof_jer/status/2048103471019434248 Comments URL: https://news.ycombinator.com/item?id=47911524 Points: 814 # Comments: 969",
+      "summary": "Article URL: https://twitter.com/lifeof_jer/status/2048103471019434248 Comments URL: https://news.ycombinator.com/item?id=47911524 Points: 824 # Comments: 984",
       "source": "Hacker News",
       "published": "2026-04-26T16:27:29+00:00",
       "link": "https://twitter.com/lifeof_jer/status/2048103471019434248"
@@ -304,7 +332,7 @@ const FEED_DATA = {
     },
     {
       "title": "The AI industry is discovering that the public hates it",
-      "summary": "Article URL: https://newrepublic.com/article/209163/ai-industry-discovering-public-backlash Comments URL: https://news.ycombinator.com/item?id=47904568 Points: 275 # Comments: 366",
+      "summary": "Article URL: https://newrepublic.com/article/209163/ai-industry-discovering-public-backlash Comments URL: https://news.ycombinator.com/item?id=47904568 Points: 275 # Comments: 367",
       "source": "Hacker News",
       "published": "2026-04-25T21:11:11+00:00",
       "link": "https://newrepublic.com/article/209163/ai-industry-discovering-public-backlash"
@@ -318,7 +346,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI Might Be Lying to Your Boss",
-      "summary": "Article URL: https://williamoconnell.me/blog/post/ai-ide/ Comments URL: https://news.ycombinator.com/item?id=47904252 Points: 62 # Comments: 8",
+      "summary": "Article URL: https://williamoconnell.me/blog/post/ai-ide/ Comments URL: https://news.ycombinator.com/item?id=47904252 Points: 63 # Comments: 8",
       "source": "Hacker News",
       "published": "2026-04-25T20:19:53+00:00",
       "link": "https://williamoconnell.me/blog/post/ai-ide/"
@@ -360,7 +388,7 @@ const FEED_DATA = {
     },
     {
       "title": "GPT‑5.5 Bio Bug Bounty",
-      "summary": "Article URL: https://openai.com/index/gpt-5-5-bio-bug-bounty/ Comments URL: https://news.ycombinator.com/item?id=47901734 Points: 157 # Comments: 103",
+      "summary": "Article URL: https://openai.com/index/gpt-5-5-bio-bug-bounty/ Comments URL: https://news.ycombinator.com/item?id=47901734 Points: 158 # Comments: 103",
       "source": "Hacker News",
       "published": "2026-04-25T14:17:31+00:00",
       "link": "https://openai.com/index/gpt-5-5-bio-bug-bounty/"
@@ -444,7 +472,7 @@ const FEED_DATA = {
     },
     {
       "title": "Agentic AI systems violate the implicit assumptions of database design",
-      "summary": "Article URL: https://arpitbhayani.me/blogs/defensive-databases/ Comments URL: https://news.ycombinator.com/item?id=47897140 Points: 110 # Comments: 103",
+      "summary": "Article URL: https://arpitbhayani.me/blogs/defensive-databases/ Comments URL: https://news.ycombinator.com/item?id=47897140 Points: 112 # Comments: 103",
       "source": "Hacker News",
       "published": "2026-04-24T23:41:38+00:00",
       "link": "https://arpitbhayani.me/blogs/defensive-databases/"
@@ -1372,34 +1400,6 @@ const FEED_DATA = {
       "source": "Hacker News",
       "published": "2026-04-21T17:40:39+00:00",
       "link": "https://economictimes.indiatimes.com/tech/technology/meta-to-start-capturing-employee-mouse-movements-keystrokes-for-ai-training-data/articleshow/130422612.cms?from=mdr"
-    },
-    {
-      "title": "Tim Cook’s Legacy Is Turning Apple Into a Subscription",
-      "summary": "The soon-to-exit Apple CEO went all in on services. Now, the incoming CEO, John Ternus, will need to embrace the AI era.",
-      "source": "Wired",
-      "published": "2026-04-21T17:35:12+00:00",
-      "link": "https://www.wired.com/story/apple-tim-cook-subscription-business/"
-    },
-    {
-      "title": "Celebrities will be able to find and request removal of AI deepfakes on YouTube",
-      "summary": "YouTube is expanding its AI deepfake monitoring feature to Hollywood - meaning some celebrity AI videos could soon disappear. The platform's likeness detection feature searches YouTube for AI deepfake content and flags it for public figures enrolled in the program.",
-      "source": "The Verge",
-      "published": "2026-04-21T17:30:24+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/915872/celebrities-will-be-able-to-find-and-request-removal-of-ai-deepfakes-on-youtube"
-    },
-    {
-      "title": "Building agent-first governance and security",
-      "summary": "As AI agents increasingly work alongside humans across organizations, companies could be inadvertently opening a new attack surface. Insecure agents can be manipulated to access sensitive systems and proprietary data, increasing enterprise risk.",
-      "source": "MIT Tech Review",
-      "published": "2026-04-21T17:22:54+00:00",
-      "link": "https://www.technologyreview.com/2026/04/21/1136158/building-agent-first-governance-and-security/"
-    },
-    {
-      "title": "Clarifai deletes 3 million photos that OkCupid provided to train facial recognition AI, report says",
-      "summary": "The photo deletion comes after an FTC settlement with Clarifai. The company had asked OkCupid — whose executives had invested in Clarifai — to share data in 2014, according to court documents.",
-      "source": "TechCrunch",
-      "published": "2026-04-21T17:11:01+00:00",
-      "link": "https://techcrunch.com/2026/04/21/clarifai-okcupid-facial-recognition-ai-ftc-settlement/"
     }
   ]
 };
