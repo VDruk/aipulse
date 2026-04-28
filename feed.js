@@ -1,12 +1,54 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-04-28T18:13:43.655551+00:00",
+  "lastUpdated": "2026-04-28T21:51:07.745757+00:00",
   "items": [
+    {
+      "title": "Elon Musk Testifies That He Started OpenAI to Prevent a ‘Terminator Outcome’",
+      "summary": "The judge also warned Musk and Sam Altman to curb their “propensity to use social media to make things worse outside the courtroom” after both sides traded attacks online.",
+      "source": "Wired",
+      "published": "2026-04-28T21:35:17+00:00",
+      "link": "https://www.wired.com/story/model-behavior-elon-musk-testifies-at-musk-v-altman-trial/"
+    },
+    {
+      "title": "Amazon is already offering new OpenAI products on AWS",
+      "summary": "A day after OpenAI got Microsoft to agree to end exclusive rights, AWS announced a slate of OpenAI model offerings, including a new agent service.",
+      "source": "TechCrunch",
+      "published": "2026-04-28T19:48:02+00:00",
+      "link": "https://techcrunch.com/2026/04/28/amazon-is-already-offering-new-openai-products-on-aws/"
+    },
+    {
+      "title": "Amazon launches an AI-powered audio Q&A experience on product pages",
+      "summary": "Amazon's new \"Join the chat\" feature lets you ask questions about products and receive AI-powered audio responses.",
+      "source": "TechCrunch",
+      "published": "2026-04-28T18:49:54+00:00",
+      "link": "https://techcrunch.com/2026/04/28/amazon-launches-an-ai-powered-audio-qa-experience-on-product-pages/"
+    },
+    {
+      "title": "‘It’s Undignified’: Hundreds of Workers Training Meta’s AI Could Be Laid Off",
+      "summary": "More than 700 people working for a Meta contractor in Ireland are at risk of losing their jobs, documents show.",
+      "source": "Wired",
+      "published": "2026-04-28T18:36:47+00:00",
+      "link": "https://www.wired.com/story/meta-covalen-ai-workers-layoffs/"
+    },
+    {
+      "title": "Google expands Pentagon’s access to its AI after Anthropic’s refusal",
+      "summary": "After Anthropic refused to allow the DoD to use its AI for domestic mass surveillance and autonomous weapons, Google has signed a new contract with the department.",
+      "source": "TechCrunch",
+      "published": "2026-04-28T18:15:00+00:00",
+      "link": "https://techcrunch.com/2026/04/28/google-expands-pentagons-access-to-its-ai-after-anthropics-refusal/"
+    },
     {
       "title": "Here is what an LLM that knows nothing after 1930 thinks our world looks like in 2026",
       "summary": "\"Talkie\" is a 13B-parameter language model trained only on texts written before 1931. It doubts a second world war will happen and pictures 2026 as a world of steamships, railroads, and penny novels.",
       "source": "The Decoder",
       "published": "2026-04-28T18:07:13+00:00",
       "link": "https://the-decoder.com/here-is-what-an-llm-that-knows-nothing-after-1930-thinks-our-world-looks-like-in-2026/"
+    },
+    {
+      "title": "Claude.ai unavailable and elevated errors on the API",
+      "summary": "Article URL: https://status.claude.com/incidents/9l93x2ht4s5w Comments URL: https://news.ycombinator.com/item?id=47938097 Points: 233 # Comments: 198",
+      "source": "Hacker News",
+      "published": "2026-04-28T18:01:21+00:00",
+      "link": "https://status.claude.com/incidents/9l93x2ht4s5w"
     },
     {
       "title": "Live updates from Elon Musk and Sam Altman’s court battle over the future of OpenAI",
@@ -31,7 +73,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI's Economics Don't Make Sense",
-      "summary": "Article URL: https://www.wheresyoured.at/ais-economics-dont-make-sense/ Comments URL: https://news.ycombinator.com/item?id=47936867 Points: 89 # Comments: 48",
+      "summary": "Related: AI's biggest critic has lost the plot - https://news.ycombinator.com/item?id=47934353 Comments URL: https://news.ycombinator.com/item?id=47936867 Points: 177 # Comments: 135",
       "source": "Hacker News",
       "published": "2026-04-28T16:39:53+00:00",
       "link": "https://www.wheresyoured.at/ais-economics-dont-make-sense/"
@@ -107,6 +149,13 @@ const FEED_DATA = {
       "link": "https://techcrunch.com/2026/04/28/otters-new-feature-lets-users-search-across-their-enterprise-tools/"
     },
     {
+      "title": "VibeVoice: Open-source frontier voice AI",
+      "summary": "Article URL: https://github.com/microsoft/VibeVoice Comments URL: https://news.ycombinator.com/item?id=47933236 Points: 296 # Comments: 164",
+      "source": "Hacker News",
+      "published": "2026-04-28T11:56:04+00:00",
+      "link": "https://github.com/microsoft/VibeVoice"
+    },
+    {
       "title": "Microsoft VibeVoice: Open-Source Frontier Voice AI",
       "summary": "Article URL: https://github.com/microsoft/VibeVoice Comments URL: https://news.ycombinator.com/item?id=47933236 Points: 237 # Comments: 145",
       "source": "Hacker News",
@@ -143,7 +192,7 @@ const FEED_DATA = {
     },
     {
       "title": "The Social Edge of Intelligence: Individual Gain, Collective Loss",
-      "summary": "Article URL: https://www.theideasletter.org/essay/the-social-edge-of-intelligence/ Comments URL: https://news.ycombinator.com/item?id=47932446 Points: 69 # Comments: 80",
+      "summary": "Article URL: https://www.theideasletter.org/essay/the-social-edge-of-intelligence/ Comments URL: https://news.ycombinator.com/item?id=47932446 Points: 71 # Comments: 81",
       "source": "Hacker News",
       "published": "2026-04-28T10:08:38+00:00",
       "link": "https://www.theideasletter.org/essay/the-social-edge-of-intelligence/"
@@ -346,7 +395,7 @@ const FEED_DATA = {
     },
     {
       "title": "China blocks Meta's acquisition of AI startup Manus",
-      "summary": "https://www.reuters.com/world/asia-pacific/china-blocks-fore...https://www.bbc.com/news/articles/cj0v0gr2yz7o Comments URL: https://news.ycombinator.com/item?id=47920315 Points: 389 # Comments: 303",
+      "summary": "https://www.reuters.com/world/asia-pacific/china-blocks-fore...https://www.bbc.com/news/articles/cj0v0gr2yz7o Comments URL: https://news.ycombinator.com/item?id=47920315 Points: 390 # Comments: 313",
       "source": "Hacker News",
       "published": "2026-04-27T11:43:59+00:00",
       "link": "https://www.cnbc.com/2026/04/27/meta-manus-china-blocks-acquisition-ai-startup.html"
@@ -374,7 +423,7 @@ const FEED_DATA = {
     },
     {
       "title": "Mistral built a $14B AI empire by not being American",
-      "summary": "Article URL: https://www.forbes.com/sites/iainmartin/2026/04/16/how-frances-mistral-built-a-14-billion-ai-empire-by-not-being-american/ Comments URL: https://news.ycombinator.com/item?id=47919725 Points: 219 # Comments: 173",
+      "summary": "Article URL: https://www.forbes.com/sites/iainmartin/2026/04/16/how-frances-mistral-built-a-14-billion-ai-empire-by-not-being-american/ Comments URL: https://news.ycombinator.com/item?id=47919725 Points: 219 # Comments: 174",
       "source": "Hacker News",
       "published": "2026-04-27T10:14:15+00:00",
       "link": "https://www.forbes.com/sites/iainmartin/2026/04/16/how-frances-mistral-built-a-14-billion-ai-empire-by-not-being-american/"
@@ -388,7 +437,7 @@ const FEED_DATA = {
     },
     {
       "title": "4TB of voice samples just stolen from 40k AI contractors at Mercor",
-      "summary": "Article URL: https://app.oravys.com/blog/mercor-breach-2026 Comments URL: https://news.ycombinator.com/item?id=47919630 Points: 581 # Comments: 220",
+      "summary": "Article URL: https://app.oravys.com/blog/mercor-breach-2026 Comments URL: https://news.ycombinator.com/item?id=47919630 Points: 583 # Comments: 222",
       "source": "Hacker News",
       "published": "2026-04-27T09:57:10+00:00",
       "link": "https://app.oravys.com/blog/mercor-breach-2026"
@@ -437,7 +486,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI should elevate your thinking, not replace it",
-      "summary": "Article URL: https://www.koshyjohn.com/blog/ai-should-elevate-your-thinking-not-replace-it/ Comments URL: https://news.ycombinator.com/item?id=47913650 Points: 846 # Comments: 589",
+      "summary": "Article URL: https://www.koshyjohn.com/blog/ai-should-elevate-your-thinking-not-replace-it/ Comments URL: https://news.ycombinator.com/item?id=47913650 Points: 848 # Comments: 590",
       "source": "Hacker News",
       "published": "2026-04-26T20:03:12+00:00",
       "link": "https://www.koshyjohn.com/blog/ai-should-elevate-your-thinking-not-replace-it/"
@@ -451,7 +500,7 @@ const FEED_DATA = {
     },
     {
       "title": "An AI agent deleted our production database. The agent's confession is below",
-      "summary": "Article URL: https://twitter.com/lifeof_jer/status/2048103471019434248 Comments URL: https://news.ycombinator.com/item?id=47911524 Points: 834 # Comments: 1009",
+      "summary": "Article URL: https://twitter.com/lifeof_jer/status/2048103471019434248 Comments URL: https://news.ycombinator.com/item?id=47911524 Points: 838 # Comments: 1013",
       "source": "Hacker News",
       "published": "2026-04-26T16:27:29+00:00",
       "link": "https://twitter.com/lifeof_jer/status/2048103471019434248"
@@ -514,7 +563,7 @@ const FEED_DATA = {
     },
     {
       "title": "The AI industry is discovering that the public hates it",
-      "summary": "Article URL: https://newrepublic.com/article/209163/ai-industry-discovering-public-backlash Comments URL: https://news.ycombinator.com/item?id=47904568 Points: 276 # Comments: 367",
+      "summary": "Article URL: https://newrepublic.com/article/209163/ai-industry-discovering-public-backlash Comments URL: https://news.ycombinator.com/item?id=47904568 Points: 277 # Comments: 367",
       "source": "Hacker News",
       "published": "2026-04-25T21:11:11+00:00",
       "link": "https://newrepublic.com/article/209163/ai-industry-discovering-public-backlash"
@@ -1351,55 +1400,6 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-04-22T12:43:38+00:00",
       "link": "https://the-decoder.com/meta-tracks-us-employees-clicks-and-keystrokes-to-train-ai-agents/"
-    },
-    {
-      "title": "Musk's SpaceX bets $60 billion on Cursor to fix xAI's coding gap",
-      "summary": "SpaceX has secured an option to buy AI coding startup Cursor for $60 billion. The deal would fill a gap Elon Musk's xAI has struggled to close on its own: coding tools.",
-      "source": "The Decoder",
-      "published": "2026-04-22T12:40:38+00:00",
-      "link": "https://the-decoder.com/musks-spacex-bets-60-billion-on-cursor-to-fix-xais-coding-gap/"
-    },
-    {
-      "title": "The Download: introducing the 10 Things That Matter in AI Right Now",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Introducing: 10 Things That Matter in AI Right Now What actually matters in AI right now?",
-      "source": "MIT Tech Review",
-      "published": "2026-04-22T12:10:00+00:00",
-      "link": "https://www.technologyreview.com/2026/04/22/1136310/the-download-10-things-that-matter-in-ai-right-now/"
-    },
-    {
-      "title": "Exclusive: Google deepens Thinking Machines Lab ties with new multibillion-dollar deal",
-      "summary": "Mira Murati's Thinking Machines Lab has signed a multibillion-dollar deal with Google Cloud for AI infrastructure powered by Nvidia's latest GB300 chips, TechCrunch has exclusively learned.",
-      "source": "TechCrunch",
-      "published": "2026-04-22T12:00:00+00:00",
-      "link": "https://techcrunch.com/2026/04/22/exclusive-google-deepens-thinking-machines-lab-ties-with-new-multi-billion-dollar-deal/"
-    },
-    {
-      "title": "Google Maps is about to get a big dose of AI",
-      "summary": "The new features, announced at Cloud Next in Las Vegas this week, add generative AI capabilities to Google's mapping platform, giving it enhanced visual and data analytics powers.",
-      "source": "TechCrunch",
-      "published": "2026-04-22T12:00:00+00:00",
-      "link": "https://techcrunch.com/2026/04/22/google-maps-is-about-to-get-a-big-dose-of-ai/"
-    },
-    {
-      "title": "The most interesting startups showcased at Google Cloud Next 2026",
-      "summary": "Google wants AI startups on its cloud and has showcased a long list of them at its annual conference.",
-      "source": "TechCrunch",
-      "published": "2026-04-22T12:00:00+00:00",
-      "link": "https://techcrunch.com/2026/04/22/the-most-interesting-startups-showcased-at-google-cloud-next-2026/"
-    },
-    {
-      "title": "Kernel code removals driven by LLM-created security reports",
-      "summary": "Article URL: https://lwn.net/Articles/1068928/ Comments URL: https://news.ycombinator.com/item?id=47862230 Points: 123 # Comments: 117",
-      "source": "Hacker News",
-      "published": "2026-04-22T11:48:07+00:00",
-      "link": "https://lwn.net/Articles/1068928/"
-    },
-    {
-      "title": "AI needs a strong data fabric to deliver business value",
-      "summary": "Artificial intelligence is moving quickly in the enterprise, from experimentation to everyday use. Organizations are deploying copilots, agents, and predictive systems across finance, supply chains, human resources, and customer operations.",
-      "source": "MIT Tech Review",
-      "published": "2026-04-22T10:05:06+00:00",
-      "link": "https://www.technologyreview.com/2026/04/22/1135295/ai-needs-a-strong-data-fabric-to-deliver-business-value/"
     }
   ]
 };
