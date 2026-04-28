@@ -1,6 +1,27 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-04-28T07:32:18.366720+00:00",
+  "lastUpdated": "2026-04-28T10:51:00.837236+00:00",
   "items": [
+    {
+      "title": "OpenAI misses revenue targets as Anthropic and Google close in",
+      "summary": "OpenAI fell short of internal revenue goals for the first quarter of 2026. Meanwhile, pressure from competitors like Anthropic and Google is mounting, and tensions inside the company over massive spending commitments are growing.",
+      "source": "The Decoder",
+      "published": "2026-04-28T09:29:03+00:00",
+      "link": "https://the-decoder.com/openai-misses-revenue-targets-as-anthropic-and-google-close-in/"
+    },
+    {
+      "title": "GitHub Copilot switches to token-based billing in June 2026",
+      "summary": "Starting June 1, 2026, GitHub will charge Copilot users based on actual usage instead of premium request counts. The article GitHub Copilot switches to token-based billing in June 2026 appeared first on The Decoder.",
+      "source": "The Decoder",
+      "published": "2026-04-28T09:19:53+00:00",
+      "link": "https://the-decoder.com/github-copilot-switches-to-token-based-billing-in-june-2026/"
+    },
+    {
+      "title": "The Bloomberg Terminal Is Getting an AI Makeover, Like It or Not",
+      "summary": "WIRED spoke with Bloomberg's chief technology officer about the big, chatbot-style changes coming to the iconic platform for traders.",
+      "source": "Wired",
+      "published": "2026-04-28T08:30:00+00:00",
+      "link": "https://www.wired.com/story/the-bloomberg-terminal-is-getting-an-ai-makeover-like-it-or-not/"
+    },
     {
       "title": "Jury selection in Musk v. Altman: ‘People don’t like him’",
       "summary": "On Monday, the courtroom battle between Elon Musk and Sam Altman over alleged broken promises at OpenAI started, as usual, with jury selection. The only tricky part?",
@@ -164,7 +185,7 @@ const FEED_DATA = {
     },
     {
       "title": "China blocks Meta's acquisition of AI startup Manus",
-      "summary": "https://www.reuters.com/world/asia-pacific/china-blocks-fore...https://www.bbc.com/news/articles/cj0v0gr2yz7o Comments URL: https://news.ycombinator.com/item?id=47920315 Points: 365 # Comments: 261",
+      "summary": "https://www.reuters.com/world/asia-pacific/china-blocks-fore...https://www.bbc.com/news/articles/cj0v0gr2yz7o Comments URL: https://news.ycombinator.com/item?id=47920315 Points: 371 # Comments: 273",
       "source": "Hacker News",
       "published": "2026-04-27T11:43:59+00:00",
       "link": "https://www.cnbc.com/2026/04/27/meta-manus-china-blocks-acquisition-ai-startup.html"
@@ -192,7 +213,7 @@ const FEED_DATA = {
     },
     {
       "title": "Mistral built a $14B AI empire by not being American",
-      "summary": "Article URL: https://www.forbes.com/sites/iainmartin/2026/04/16/how-frances-mistral-built-a-14-billion-ai-empire-by-not-being-american/ Comments URL: https://news.ycombinator.com/item?id=47919725 Points: 212 # Comments: 166",
+      "summary": "Article URL: https://www.forbes.com/sites/iainmartin/2026/04/16/how-frances-mistral-built-a-14-billion-ai-empire-by-not-being-american/ Comments URL: https://news.ycombinator.com/item?id=47919725 Points: 216 # Comments: 167",
       "source": "Hacker News",
       "published": "2026-04-27T10:14:15+00:00",
       "link": "https://www.forbes.com/sites/iainmartin/2026/04/16/how-frances-mistral-built-a-14-billion-ai-empire-by-not-being-american/"
@@ -206,14 +227,14 @@ const FEED_DATA = {
     },
     {
       "title": "4TB of voice samples just stolen from 40k AI contractors at Mercor",
-      "summary": "Article URL: https://app.oravys.com/blog/mercor-breach-2026 Comments URL: https://news.ycombinator.com/item?id=47919630 Points: 511 # Comments: 183",
+      "summary": "Article URL: https://app.oravys.com/blog/mercor-breach-2026 Comments URL: https://news.ycombinator.com/item?id=47919630 Points: 537 # Comments: 205",
       "source": "Hacker News",
       "published": "2026-04-27T09:57:10+00:00",
       "link": "https://app.oravys.com/blog/mercor-breach-2026"
     },
     {
       "title": "Moleskine's AI Lord of the Rings collection can only mock",
-      "summary": "Article URL: https://cjleo.com/blog/moleskine-ai-lord-of-the-rings-collection-can-only-mock/ Comments URL: https://news.ycombinator.com/item?id=47919386 Points: 73 # Comments: 98",
+      "summary": "Article URL: https://cjleo.com/blog/moleskine-ai-lord-of-the-rings-collection-can-only-mock/ Comments URL: https://news.ycombinator.com/item?id=47919386 Points: 73 # Comments: 100",
       "source": "Hacker News",
       "published": "2026-04-27T09:19:06+00:00",
       "link": "https://cjleo.com/blog/moleskine-ai-lord-of-the-rings-collection-can-only-mock/"
@@ -255,7 +276,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI should elevate your thinking, not replace it",
-      "summary": "Article URL: https://www.koshyjohn.com/blog/ai-should-elevate-your-thinking-not-replace-it/ Comments URL: https://news.ycombinator.com/item?id=47913650 Points: 831 # Comments: 577",
+      "summary": "Article URL: https://www.koshyjohn.com/blog/ai-should-elevate-your-thinking-not-replace-it/ Comments URL: https://news.ycombinator.com/item?id=47913650 Points: 833 # Comments: 579",
       "source": "Hacker News",
       "published": "2026-04-26T20:03:12+00:00",
       "link": "https://www.koshyjohn.com/blog/ai-should-elevate-your-thinking-not-replace-it/"
@@ -269,7 +290,7 @@ const FEED_DATA = {
     },
     {
       "title": "An AI agent deleted our production database. The agent's confession is below",
-      "summary": "Article URL: https://twitter.com/lifeof_jer/status/2048103471019434248 Comments URL: https://news.ycombinator.com/item?id=47911524 Points: 827 # Comments: 990",
+      "summary": "Article URL: https://twitter.com/lifeof_jer/status/2048103471019434248 Comments URL: https://news.ycombinator.com/item?id=47911524 Points: 831 # Comments: 997",
       "source": "Hacker News",
       "published": "2026-04-26T16:27:29+00:00",
       "link": "https://twitter.com/lifeof_jer/status/2048103471019434248"
@@ -472,7 +493,7 @@ const FEED_DATA = {
     },
     {
       "title": "Agentic AI systems violate the implicit assumptions of database design",
-      "summary": "Article URL: https://arpitbhayani.me/blogs/defensive-databases/ Comments URL: https://news.ycombinator.com/item?id=47897140 Points: 112 # Comments: 104",
+      "summary": "Article URL: https://arpitbhayani.me/blogs/defensive-databases/ Comments URL: https://news.ycombinator.com/item?id=47897140 Points: 112 # Comments: 105",
       "source": "Hacker News",
       "published": "2026-04-24T23:41:38+00:00",
       "link": "https://arpitbhayani.me/blogs/defensive-databases/"
@@ -1379,27 +1400,6 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-04-21T18:11:38+00:00",
       "link": "https://the-decoder.com/google-launches-deep-research-and-deep-research-max-agents-to-automate-complex-research/"
-    },
-    {
-      "title": "Framework’s first eGPUs turn its laptop into a desktop PC",
-      "summary": "Remember when Framework made the first laptop where you can easily upgrade its entire internal video card in three minutes flat? The company's getting into the external graphics game, too.",
-      "source": "The Verge",
-      "published": "2026-04-21T18:07:24+00:00",
-      "link": "https://www.theverge.com/gadgets/915328/framework-oculink-egpu-dev-kit-laptop-16"
-    },
-    {
-      "title": "Meta to start capturing employee mouse movements, keystrokes for AI training",
-      "summary": "Alt link: https://tech.yahoo.com/ai/meta-ai/articles/exclusive-meta-st... Comments URL: https://news.ycombinator.com/item?id=47851948 Points: 792 # Comments: 524",
-      "source": "Hacker News",
-      "published": "2026-04-21T17:40:39+00:00",
-      "link": "https://www.reuters.com/sustainability/boards-policy-regulation/meta-start-capturing-employee-mouse-movements-keystrokes-ai-training-data-2026-04-21/"
-    },
-    {
-      "title": "Meta capturing employee mouse movements, keystrokes for AI training data",
-      "summary": "Article URL: https://economictimes.indiatimes.com/tech/technology/meta-to-start-capturing-employee-mouse-movements-keystrokes-for-ai-training-data/articleshow/130422612.cms?from=mdr Comments URL: https://news.ycombinator.com/item?id=47851948 Points: 140 # Comments: 86",
-      "source": "Hacker News",
-      "published": "2026-04-21T17:40:39+00:00",
-      "link": "https://economictimes.indiatimes.com/tech/technology/meta-to-start-capturing-employee-mouse-movements-keystrokes-for-ai-training-data/articleshow/130422612.cms?from=mdr"
     }
   ]
 };
