@@ -1,12 +1,75 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-04-29T18:08:42.290297+00:00",
+  "lastUpdated": "2026-04-29T21:54:33.138554+00:00",
   "items": [
+    {
+      "title": "Google gains 25M subscriptions in Q1, driven by YouTube and Google One",
+      "summary": "Google added 25M paid subscriptions in Q1, reaching 350M total, as YouTube and Google One grow.",
+      "source": "TechCrunch",
+      "published": "2026-04-29T20:59:00+00:00",
+      "link": "https://techcrunch.com/2026/04/29/google-gains-25m-subscriptions-in-q1-driven-by-youtube-and-google-one/"
+    },
+    {
+      "title": "Taylor Swift Wants to Trademark Her Likeness. These TikTok Deepfake Ads Show Why",
+      "summary": "Researchers show scammers are using AI-manipulated footage of celebrity interviews to trick users into sharing their personal data.",
+      "source": "Wired",
+      "published": "2026-04-29T20:36:53+00:00",
+      "link": "https://www.wired.com/story/taylor-swift-rihanna-tiktok-deepfake-ads/"
+    },
+    {
+      "title": "Google Search queries hit an ‘all time high’ last quarter",
+      "summary": "Google Search queries hit an \"all time high\" in the first quarter of 2026, according to a statement from CEO Sundar Pichai published as part of Alphabet's earnings on Wednesday. \"Our AI investments and full stack approach are lighting up every part of the business,\" Pichai says.",
+      "source": "The Verge",
+      "published": "2026-04-29T20:28:11+00:00",
+      "link": "https://www.theverge.com/tech/920815/google-alphabet-q1-2026-earnings-sundar-pichai"
+    },
+    {
+      "title": "\"People who don't use AI will be left behind\"",
+      "summary": "Article URL: https://migrainebrain.bearblog.dev/people-who-dont-use-ai-will-be-left-behind/ Comments URL: https://news.ycombinator.com/item?id=47953011 Points: 133 # Comments: 166",
+      "source": "Hacker News",
+      "published": "2026-04-29T19:15:52+00:00",
+      "link": "https://migrainebrain.bearblog.dev/people-who-dont-use-ai-will-be-left-behind/"
+    },
+    {
+      "title": "Is AI video just a prequel? Runway’s CEO thinks world models are next",
+      "summary": "AI-generated video has gone from novelty to creative tool almost overnight, and Runway has a front row seat to the shift.",
+      "source": "TechCrunch",
+      "published": "2026-04-29T18:59:44+00:00",
+      "link": "https://techcrunch.com/podcast/equity-podcast-runway-ceo-cristobal-valenzuela-ai-video-world-models/"
+    },
+    {
+      "title": "Parallel Web Systems hits $2B valuation five months after its last big raise",
+      "summary": "The AI agent-tool startup founded by former Twitter CEO Parag Agrawal has raised $100 million, led by Sequoia, months after raising a previous $100 million.",
+      "source": "TechCrunch",
+      "published": "2026-04-29T18:33:05+00:00",
+      "link": "https://techcrunch.com/2026/04/29/parallel-web-systems-hits-2b-valuation-five-months-after-its-last-big-raise/"
+    },
+    {
+      "title": "Mistral's Le Chat spreads Iran war disinformation in 60 percent of leading prompts",
+      "summary": "A NewsGuard audit found that Mistral's Le Chat repeats state-sponsored disinformation about the Iran war about half the time. The error rate ranged from 10 percent for neutral queries to 80 percent for malicious ones.",
+      "source": "The Decoder",
+      "published": "2026-04-29T18:31:33+00:00",
+      "link": "https://the-decoder.com/mistrals-le-chat-spreads-iran-war-disinformation-in-60-percent-of-leading-prompts/"
+    },
+    {
+      "title": "Ramp's Sheets AI Exfiltrates Financials",
+      "summary": "Article URL: https://www.promptarmor.com/resources/ramps-sheets-ai-exfiltrates-financials Comments URL: https://news.ycombinator.com/item?id=47951786 Points: 72 # Comments: 24",
+      "source": "Hacker News",
+      "published": "2026-04-29T17:44:21+00:00",
+      "link": "https://www.promptarmor.com/resources/ramps-sheets-ai-exfiltrates-financials"
+    },
     {
       "title": "Ubuntu’s AI plans have Linux users looking for a ‘kill switch’",
       "summary": "Canonical's plan to add AI features to Ubuntu has some users asking for \"a version of Ubuntu that does not include these features,\" while others say they'll stick with older versions of the Linux distro or even switch to a different one.",
       "source": "The Verge",
       "published": "2026-04-29T17:32:02+00:00",
       "link": "https://www.theverge.com/tech/920723/linux-ubuntu-ai-features-ai-kill-switch"
+    },
+    {
+      "title": "The Abstraction Fallacy: Why AI can simulate but not instantiate consciousness",
+      "summary": "Article URL: https://deepmind.google/research/publications/231971/ Comments URL: https://news.ycombinator.com/item?id=47951582 Points: 64 # Comments: 109",
+      "source": "Hacker News",
+      "published": "2026-04-29T17:30:15+00:00",
+      "link": "https://deepmind.google/research/publications/231971/"
     },
     {
       "title": "Sanctioned Chinese AI Firm SenseTime Releases Image Model Built for Speed",
@@ -24,7 +87,7 @@ const FEED_DATA = {
     },
     {
       "title": "Google Photos uses AI to make the iconic closet from ‘Clueless’ a reality",
-      "summary": "Google recreates Cher's closet from \"Clueless\" with AI.",
+      "summary": "Google says the new feature will leverage AI technology to automatically create a copy of your wardrobe that's based on the pieces of clothing appearing in your Google Photos library.",
       "source": "TechCrunch",
       "published": "2026-04-29T16:42:33+00:00",
       "link": "https://techcrunch.com/2026/04/29/google-photos-uses-ai-to-make-the-iconic-closet-from-clueless-a-reality/"
@@ -52,7 +115,7 @@ const FEED_DATA = {
     },
     {
       "title": "Why AI companies want you to be afraid of them",
-      "summary": "Article URL: https://www.bbc.com/future/article/20260428-ai-companies-want-you-to-be-afraid-of-them Comments URL: https://news.ycombinator.com/item?id=47949750 Points: 232 # Comments: 169",
+      "summary": "Article URL: https://www.bbc.com/future/article/20260428-ai-companies-want-you-to-be-afraid-of-them Comments URL: https://news.ycombinator.com/item?id=47949750 Points: 262 # Comments: 201",
       "source": "Hacker News",
       "published": "2026-04-29T15:26:01+00:00",
       "link": "https://www.bbc.com/future/article/20260428-ai-companies-want-you-to-be-afraid-of-them"
@@ -63,6 +126,13 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-04-29T15:24:12+00:00",
       "link": "https://the-decoder.com/openai-researchers-explain-why-math-is-the-road-to-agi/"
+    },
+    {
+      "title": "Making AI chatbots friendly leads to mistakes and support of conspiracy theories",
+      "summary": "Article URL: https://www.theguardian.com/technology/2026/apr/29/making-ai-chatbots-more-friendly-mistakes-support-false-beliefs-conspiracy-theories-study Comments URL: https://news.ycombinator.com/item?id=47949538 Points: 67 # Comments: 61",
+      "source": "Hacker News",
+      "published": "2026-04-29T15:11:12+00:00",
+      "link": "https://www.theguardian.com/technology/2026/apr/29/making-ai-chatbots-more-friendly-mistakes-support-false-beliefs-conspiracy-theories-study"
     },
     {
       "title": "Tumbler Ridge families are suing OpenAI",
@@ -143,14 +213,14 @@ const FEED_DATA = {
     },
     {
       "title": "Letting AI play my game – building an agentic test harness to help play-testing",
-      "summary": "Article URL: https://blog.jeffschomay.com/letting-ai-play-my-game Comments URL: https://news.ycombinator.com/item?id=47947525 Points: 86 # Comments: 17",
+      "summary": "Article URL: https://blog.jeffschomay.com/letting-ai-play-my-game Comments URL: https://news.ycombinator.com/item?id=47947525 Points: 116 # Comments: 23",
       "source": "Hacker News",
       "published": "2026-04-29T12:43:12+00:00",
       "link": "https://blog.jeffschomay.com/letting-ai-play-my-game"
     },
     {
       "title": "He asked AI to count carbs 27000 times. It couldn't give the same answer twice",
-      "summary": "Article URL: https://www.diabettech.com/i-asked-ai-to-count-my-carbs-27000-times-it-couldnt-give-me-the-same-answer-twice/ Comments URL: https://news.ycombinator.com/item?id=47947490 Points: 222 # Comments: 281",
+      "summary": "Article URL: https://www.diabettech.com/i-asked-ai-to-count-my-carbs-27000-times-it-couldnt-give-me-the-same-answer-twice/ Comments URL: https://news.ycombinator.com/item?id=47947490 Points: 230 # Comments: 295",
       "source": "Hacker News",
       "published": "2026-04-29T12:38:50+00:00",
       "link": "https://www.diabettech.com/i-asked-ai-to-count-my-carbs-27000-times-it-couldnt-give-me-the-same-answer-twice/"
@@ -241,7 +311,7 @@ const FEED_DATA = {
     },
     {
       "title": "We decreased our LLM costs with Opus",
-      "summary": "Article URL: https://www.mendral.com/blog/frontier-model-lower-costs Comments URL: https://news.ycombinator.com/item?id=47942903 Points: 101 # Comments: 31",
+      "summary": "Article URL: https://www.mendral.com/blog/frontier-model-lower-costs Comments URL: https://news.ycombinator.com/item?id=47942903 Points: 102 # Comments: 31",
       "source": "Hacker News",
       "published": "2026-04-29T00:57:12+00:00",
       "link": "https://www.mendral.com/blog/frontier-model-lower-costs"
@@ -325,7 +395,7 @@ const FEED_DATA = {
     },
     {
       "title": "Claude.ai unavailable and elevated errors on the API",
-      "summary": "Article URL: https://status.claude.com/incidents/9l93x2ht4s5w Comments URL: https://news.ycombinator.com/item?id=47938097 Points: 293 # Comments: 250",
+      "summary": "Article URL: https://status.claude.com/incidents/9l93x2ht4s5w Comments URL: https://news.ycombinator.com/item?id=47938097 Points: 294 # Comments: 251",
       "source": "Hacker News",
       "published": "2026-04-28T18:01:21+00:00",
       "link": "https://status.claude.com/incidents/9l93x2ht4s5w"
@@ -346,14 +416,14 @@ const FEED_DATA = {
     },
     {
       "title": "AI's economics don't make sense",
-      "summary": "Related: AI's biggest critic has lost the plot - https://news.ycombinator.com/item?id=47934353 Comments URL: https://news.ycombinator.com/item?id=47936867 Points: 224 # Comments: 182",
+      "summary": "Related: AI's biggest critic has lost the plot - https://news.ycombinator.com/item?id=47934353 Comments URL: https://news.ycombinator.com/item?id=47936867 Points: 227 # Comments: 185",
       "source": "Hacker News",
       "published": "2026-04-28T16:39:53+00:00",
       "link": "https://www.wheresyoured.at/ais-economics-dont-make-sense/"
     },
     {
       "title": "Google and Pentagon reportedly agree on deal for 'any lawful' use of AI",
-      "summary": "Article URL: https://www.theverge.com/ai-artificial-intelligence/919494/google-pentagon-classified-ai-deal Comments URL: https://news.ycombinator.com/item?id=47936156 Points: 305 # Comments: 274",
+      "summary": "Article URL: https://www.theverge.com/ai-artificial-intelligence/919494/google-pentagon-classified-ai-deal Comments URL: https://news.ycombinator.com/item?id=47936156 Points: 308 # Comments: 275",
       "source": "Hacker News",
       "published": "2026-04-28T15:49:22+00:00",
       "link": "https://www.theverge.com/ai-artificial-intelligence/919494/google-pentagon-classified-ai-deal"
@@ -437,7 +507,7 @@ const FEED_DATA = {
     },
     {
       "title": "VibeVoice: Open-source frontier voice AI",
-      "summary": "Article URL: https://github.com/microsoft/VibeVoice Comments URL: https://news.ycombinator.com/item?id=47933236 Points: 381 # Comments: 176",
+      "summary": "Article URL: https://github.com/microsoft/VibeVoice Comments URL: https://news.ycombinator.com/item?id=47933236 Points: 384 # Comments: 180",
       "source": "Hacker News",
       "published": "2026-04-28T11:56:04+00:00",
       "link": "https://github.com/microsoft/VibeVoice"
@@ -675,7 +745,7 @@ const FEED_DATA = {
     },
     {
       "title": "China blocks Meta's acquisition of AI startup Manus",
-      "summary": "https://www.reuters.com/world/asia-pacific/china-blocks-fore...https://www.bbc.com/news/articles/cj0v0gr2yz7o Comments URL: https://news.ycombinator.com/item?id=47920315 Points: 394 # Comments: 324",
+      "summary": "https://www.reuters.com/world/asia-pacific/china-blocks-fore...https://www.bbc.com/news/articles/cj0v0gr2yz7o Comments URL: https://news.ycombinator.com/item?id=47920315 Points: 395 # Comments: 326",
       "source": "Hacker News",
       "published": "2026-04-27T11:43:59+00:00",
       "link": "https://www.cnbc.com/2026/04/27/meta-manus-china-blocks-acquisition-ai-startup.html"
@@ -717,7 +787,7 @@ const FEED_DATA = {
     },
     {
       "title": "4TB of voice samples just stolen from 40k AI contractors at Mercor",
-      "summary": "Article URL: https://app.oravys.com/blog/mercor-breach-2026 Comments URL: https://news.ycombinator.com/item?id=47919630 Points: 588 # Comments: 223",
+      "summary": "Article URL: https://app.oravys.com/blog/mercor-breach-2026 Comments URL: https://news.ycombinator.com/item?id=47919630 Points: 589 # Comments: 225",
       "source": "Hacker News",
       "published": "2026-04-27T09:57:10+00:00",
       "link": "https://app.oravys.com/blog/mercor-breach-2026"
@@ -745,7 +815,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI can cost more than human workers now",
-      "summary": "Article URL: https://www.axios.com/2026/04/26/ai-cost-human-workers Comments URL: https://news.ycombinator.com/item?id=47918009 Points: 90 # Comments: 60",
+      "summary": "Article URL: https://www.axios.com/2026/04/26/ai-cost-human-workers Comments URL: https://news.ycombinator.com/item?id=47918009 Points: 91 # Comments: 60",
       "source": "Hacker News",
       "published": "2026-04-27T05:28:39+00:00",
       "link": "https://www.axios.com/2026/04/26/ai-cost-human-workers"
@@ -1330,76 +1400,6 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-04-23T16:00:00+00:00",
       "link": "https://techcrunch.com/2026/04/23/era-computer-raises-11m-to-build-a-software-platform-for-ai-gadgets/"
-    },
-    {
-      "title": "Claude survey: new capabilities beat speed as top AI benefit, but creatives feel left behind",
-      "summary": "A survey of 81,000 Claude users shows that gaining new capabilities ranks slightly ahead of speed as the most common productivity benefit. Creatives, meanwhile, feel both limited and threatened by AI.",
-      "source": "The Decoder",
-      "published": "2026-04-23T14:10:54+00:00",
-      "link": "https://the-decoder.com/claude-survey-new-capabilities-beat-speed-as-top-ai-benefit-but-creatives-feel-left-behind/"
-    },
-    {
-      "title": "THE PEOPLE DO NOT YEARN FOR AUTOMATION",
-      "summary": "Today on Decoder, I want to lay out an idea that’s been banging around my head for weeks now as we’ve been reporting on AI and having conversations here on this show.",
-      "source": "The Verge",
-      "published": "2026-04-23T14:00:00+00:00",
-      "link": "https://www.theverge.com/podcast/917029/software-brain-ai-backlash-databases-automation"
-    },
-    {
-      "title": "Another customer of troubled startup Delve suffered a big security incident",
-      "summary": "TechCrunch has confirmed that Delve was the compliance company that performed the security certifications for Context AI, the AI agent training startup that last week disclosed a security incident.",
-      "source": "TechCrunch",
-      "published": "2026-04-23T14:00:00+00:00",
-      "link": "https://techcrunch.com/2026/04/23/another-customer-of-troubled-startup-delve-suffered-a-big-security-incident/"
-    },
-    {
-      "title": "OpenAI releases open-source model that strips personal data from text",
-      "summary": "OpenAI has released Privacy Filter, an open-source model designed to detect and redact personal data in text. The article OpenAI releases open-source model that strips personal data from text appeared first on The Decoder.",
-      "source": "The Decoder",
-      "published": "2026-04-23T13:53:13+00:00",
-      "link": "https://the-decoder.com/openai-releases-open-source-model-that-strips-personal-data-from-text/"
-    },
-    {
-      "title": "You’re about to feel the AI money squeeze",
-      "summary": "Earlier this month, millions of OpenClaw users woke up to a sweeping mandate: The viral AI agent tool, which this year took the worldwide tech industry by storm, had been severely restricted by Anthropic.",
-      "source": "The Verge",
-      "published": "2026-04-23T13:45:00+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/917380/ai-monetization-anthropic-openai-token-economics-revenue"
-    },
-    {
-      "title": "Researchers warn US politics is repeating its ChatGPT mistake with world models",
-      "summary": "The next phase of AI development is moving beyond text and into the physical world. Researchers warn that US policymakers don't yet grasp the scale of what's coming, while China is already pulling ahead in robotics.",
-      "source": "The Decoder",
-      "published": "2026-04-23T13:33:58+00:00",
-      "link": "https://the-decoder.com/researchers-warn-us-politics-is-repeating-its-chatgpt-mistake-with-world-models/"
-    },
-    {
-      "title": "Google says 75 percent of its new code is now written by AI",
-      "summary": "75 percent of new code at Google is now generated by AI and then reviewed by human developers, the company says. The article Google says 75 percent of its new code is now written by AI appeared first on The Decoder.",
-      "source": "The Decoder",
-      "published": "2026-04-23T13:23:56+00:00",
-      "link": "https://the-decoder.com/google-says-75-percent-of-its-new-code-is-now-written-by-ai/"
-    },
-    {
-      "title": "Sony AI builds the first robot to reach expert level in a sport",
-      "summary": "Sony's table tennis robot \"Ace\" is the first robot to reach expert-level performance in a sport, according to the company. The article Sony AI builds the first robot to reach expert level in a sport appeared first on The Decoder.",
-      "source": "The Decoder",
-      "published": "2026-04-23T13:12:13+00:00",
-      "link": "https://the-decoder.com/sony-ai-builds-the-first-robot-to-reach-expert-level-in-a-sport/"
-    },
-    {
-      "title": "AI galaxy hunters are adding to the global GPU crunch",
-      "summary": "Astronomers are turning to GPUs to find needles in the galactic haystack.",
-      "source": "TechCrunch",
-      "published": "2026-04-23T13:00:00+00:00",
-      "link": "https://techcrunch.com/2026/04/23/ai-galaxy-hunters-are-adding-to-the-global-gpu-crunch/"
-    },
-    {
-      "title": "The billion-dollar startup with a different idea for AI",
-      "summary": "A billion dollars in startup funding for a company that employs 12 people is an indication that investors still have faith in AI.",
-      "source": "AI News",
-      "published": "2026-04-23T12:30:00+00:00",
-      "link": "https://www.artificialintelligence-news.com/news/the-billion-dollar-startup-with-a-different-idea-for-ai-ami-labs-yann-lecun/"
     }
   ]
 };
