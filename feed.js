@@ -1,6 +1,27 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-04-28T21:51:07.745757+00:00",
+  "lastUpdated": "2026-04-29T04:28:25.090534+00:00",
   "items": [
+    {
+      "title": "We decreased our LLM costs with Opus",
+      "summary": "Article URL: https://www.mendral.com/blog/frontier-model-lower-costs Comments URL: https://news.ycombinator.com/item?id=47942903 Points: 63 # Comments: 19",
+      "source": "Hacker News",
+      "published": "2026-04-29T00:57:12+00:00",
+      "link": "https://www.mendral.com/blog/frontier-model-lower-costs"
+    },
+    {
+      "title": "At his OpenAI trial, Musk relitigates an old friendship",
+      "summary": "It's a story Musk has told before -- in interviews and to author Walter Isaacson for his bestselling biography of Musk -- but Tuesday was the first time he said it under oath.",
+      "source": "TechCrunch",
+      "published": "2026-04-29T00:40:16+00:00",
+      "link": "https://techcrunch.com/2026/04/28/at-his-openai-trial-musk-relitigates-an-old-friendship/"
+    },
+    {
+      "title": "OpenAI Really Wants Codex to Shut Up About Goblins",
+      "summary": "“Never talk about goblins, gremlins, raccoons, trolls, ogres, pigeons, or other animals or creatures unless it is absolutely and unambiguously relevant,” reads OpenAI’s coding agent instructions.",
+      "source": "Wired",
+      "published": "2026-04-28T23:45:05+00:00",
+      "link": "https://www.wired.com/story/openai-really-wants-codex-to-shut-up-about-goblins/"
+    },
     {
       "title": "Elon Musk Testifies That He Started OpenAI to Prevent a ‘Terminator Outcome’",
       "summary": "The judge also warned Musk and Sam Altman to curb their “propensity to use social media to make things worse outside the courtroom” after both sides traded attacks online.",
@@ -9,11 +30,39 @@ const FEED_DATA = {
       "link": "https://www.wired.com/story/model-behavior-elon-musk-testifies-at-musk-v-altman-trial/"
     },
     {
+      "title": "Elon Musk tells the jury that all he wants to do is save humanity",
+      "summary": "On the stand, Elon Musk is positioning himself as a savior. In the high-profile trial between him and his fellow OpenAI co-founder, now CEO, Sam Altman, Musk opened by going through his background.",
+      "source": "The Verge",
+      "published": "2026-04-28T20:46:54+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/920048/elon-musk-testimony-save-humanity"
+    },
+    {
+      "title": "Taylor Swift is stepping up the legal war on AI copycats",
+      "summary": "Taylor Swift has been at the center of AI imitation controversies for years, and now, she's become the latest celebrity who's escalating attempts to protect herself from AI copycats.",
+      "source": "The Verge",
+      "published": "2026-04-28T20:30:00+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/919827/taylor-swift-trademarks-ai-copycats"
+    },
+    {
       "title": "Amazon is already offering new OpenAI products on AWS",
       "summary": "A day after OpenAI got Microsoft to agree to end exclusive rights, AWS announced a slate of OpenAI model offerings, including a new agent service.",
       "source": "TechCrunch",
       "published": "2026-04-28T19:48:02+00:00",
       "link": "https://techcrunch.com/2026/04/28/amazon-is-already-offering-new-openai-products-on-aws/"
+    },
+    {
+      "title": "Live updates from Elon Musk and Sam Altman’s court battle over the future of OpenAI",
+      "summary": "Sam Altman and Elon Musk are facing off in a high-stakes trial that could alter the future of OpenAI and its most well-known product, ChatGPT.",
+      "source": "The Verge",
+      "published": "2026-04-28T19:27:50+00:00",
+      "link": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit"
+    },
+    {
+      "title": "Elon Musk takes the stand in high-profile trial against OpenAI",
+      "summary": "Elon Musk officially began his testimony in the trial he has brought against OpenAI CEO Sam Altman and company president Greg Brockman.",
+      "source": "The Verge",
+      "published": "2026-04-28T19:00:13+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/917052/elon-musk-takes-stand-trial-openai-sam-altman"
     },
     {
       "title": "Amazon launches an AI-powered audio Q&A experience on product pages",
@@ -45,17 +94,10 @@ const FEED_DATA = {
     },
     {
       "title": "Claude.ai unavailable and elevated errors on the API",
-      "summary": "Article URL: https://status.claude.com/incidents/9l93x2ht4s5w Comments URL: https://news.ycombinator.com/item?id=47938097 Points: 233 # Comments: 198",
+      "summary": "Article URL: https://status.claude.com/incidents/9l93x2ht4s5w Comments URL: https://news.ycombinator.com/item?id=47938097 Points: 278 # Comments: 236",
       "source": "Hacker News",
       "published": "2026-04-28T18:01:21+00:00",
       "link": "https://status.claude.com/incidents/9l93x2ht4s5w"
-    },
-    {
-      "title": "Live updates from Elon Musk and Sam Altman’s court battle over the future of OpenAI",
-      "summary": "Sam Altman and Elon Musk are set to face off in a high-stakes trial that could alter the future of tech’s leading AI startup, OpenAI.",
-      "source": "The Verge",
-      "published": "2026-04-28T17:45:16+00:00",
-      "link": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit"
     },
     {
       "title": "IBM launches AI platform Bob to regulate SDLC costs",
@@ -72,8 +114,8 @@ const FEED_DATA = {
       "link": "https://www.theverge.com/ai-artificial-intelligence/919648/anthropic-claude-creative-connectors-adobe-blender"
     },
     {
-      "title": "AI's Economics Don't Make Sense",
-      "summary": "Related: AI's biggest critic has lost the plot - https://news.ycombinator.com/item?id=47934353 Comments URL: https://news.ycombinator.com/item?id=47936867 Points: 177 # Comments: 135",
+      "title": "AI's economics don't make sense",
+      "summary": "Related: AI's biggest critic has lost the plot - https://news.ycombinator.com/item?id=47934353 Comments URL: https://news.ycombinator.com/item?id=47936867 Points: 199 # Comments: 160",
       "source": "Hacker News",
       "published": "2026-04-28T16:39:53+00:00",
       "link": "https://www.wheresyoured.at/ais-economics-dont-make-sense/"
@@ -135,6 +177,13 @@ const FEED_DATA = {
       "link": "https://the-decoder.com/researchers-find-ai-text-is-making-the-internet-more-uniform-and-weirdly-cheerful/"
     },
     {
+      "title": "OpenAI misses revenue, is the AI bubble bursting?",
+      "summary": "Article URL: https://www.cnbc.com/2026/04/28/openai-reportedly-missed-revenue-targets-shares-of-oracle-and-these-chip-stocks-are-falling.html Comments URL: https://news.ycombinator.com/item?id=47933430 Points: 51 # Comments: 33",
+      "source": "Hacker News",
+      "published": "2026-04-28T12:15:13+00:00",
+      "link": "https://www.cnbc.com/2026/04/28/openai-reportedly-missed-revenue-targets-shares-of-oracle-and-these-chip-stocks-are-falling.html"
+    },
+    {
       "title": "The Download: Musk and Altman’s legal showdown, and AI’s profit problem",
       "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.",
       "source": "MIT Tech Review",
@@ -150,7 +199,7 @@ const FEED_DATA = {
     },
     {
       "title": "VibeVoice: Open-source frontier voice AI",
-      "summary": "Article URL: https://github.com/microsoft/VibeVoice Comments URL: https://news.ycombinator.com/item?id=47933236 Points: 296 # Comments: 164",
+      "summary": "Article URL: https://github.com/microsoft/VibeVoice Comments URL: https://news.ycombinator.com/item?id=47933236 Points: 339 # Comments: 167",
       "source": "Hacker News",
       "published": "2026-04-28T11:56:04+00:00",
       "link": "https://github.com/microsoft/VibeVoice"
@@ -192,7 +241,7 @@ const FEED_DATA = {
     },
     {
       "title": "The Social Edge of Intelligence: Individual Gain, Collective Loss",
-      "summary": "Article URL: https://www.theideasletter.org/essay/the-social-edge-of-intelligence/ Comments URL: https://news.ycombinator.com/item?id=47932446 Points: 71 # Comments: 81",
+      "summary": "Article URL: https://www.theideasletter.org/essay/the-social-edge-of-intelligence/ Comments URL: https://news.ycombinator.com/item?id=47932446 Points: 71 # Comments: 86",
       "source": "Hacker News",
       "published": "2026-04-28T10:08:38+00:00",
       "link": "https://www.theideasletter.org/essay/the-social-edge-of-intelligence/"
@@ -325,7 +374,7 @@ const FEED_DATA = {
     },
     {
       "title": "Canva apologizes after its AI tool replaces 'Palestine' in designs",
-      "summary": "Article URL: https://www.theverge.com/ai-artificial-intelligence/919028/canva-magic-layers-ai-replacing-palestine Comments URL: https://news.ycombinator.com/item?id=47922518 Points: 77 # Comments: 31",
+      "summary": "Article URL: https://www.theverge.com/ai-artificial-intelligence/919028/canva-magic-layers-ai-replacing-palestine Comments URL: https://news.ycombinator.com/item?id=47922518 Points: 79 # Comments: 31",
       "source": "Hacker News",
       "published": "2026-04-27T14:58:48+00:00",
       "link": "https://www.theverge.com/ai-artificial-intelligence/919028/canva-magic-layers-ai-replacing-palestine"
@@ -395,7 +444,7 @@ const FEED_DATA = {
     },
     {
       "title": "China blocks Meta's acquisition of AI startup Manus",
-      "summary": "https://www.reuters.com/world/asia-pacific/china-blocks-fore...https://www.bbc.com/news/articles/cj0v0gr2yz7o Comments URL: https://news.ycombinator.com/item?id=47920315 Points: 390 # Comments: 313",
+      "summary": "https://www.reuters.com/world/asia-pacific/china-blocks-fore...https://www.bbc.com/news/articles/cj0v0gr2yz7o Comments URL: https://news.ycombinator.com/item?id=47920315 Points: 392 # Comments: 320",
       "source": "Hacker News",
       "published": "2026-04-27T11:43:59+00:00",
       "link": "https://www.cnbc.com/2026/04/27/meta-manus-china-blocks-acquisition-ai-startup.html"
@@ -437,7 +486,7 @@ const FEED_DATA = {
     },
     {
       "title": "4TB of voice samples just stolen from 40k AI contractors at Mercor",
-      "summary": "Article URL: https://app.oravys.com/blog/mercor-breach-2026 Comments URL: https://news.ycombinator.com/item?id=47919630 Points: 583 # Comments: 222",
+      "summary": "Article URL: https://app.oravys.com/blog/mercor-breach-2026 Comments URL: https://news.ycombinator.com/item?id=47919630 Points: 585 # Comments: 222",
       "source": "Hacker News",
       "published": "2026-04-27T09:57:10+00:00",
       "link": "https://app.oravys.com/blog/mercor-breach-2026"
@@ -465,14 +514,14 @@ const FEED_DATA = {
     },
     {
       "title": "AI can cost more than human workers now",
-      "summary": "Article URL: https://www.axios.com/2026/04/26/ai-cost-human-workers Comments URL: https://news.ycombinator.com/item?id=47918009 Points: 88 # Comments: 58",
+      "summary": "Article URL: https://www.axios.com/2026/04/26/ai-cost-human-workers Comments URL: https://news.ycombinator.com/item?id=47918009 Points: 88 # Comments: 59",
       "source": "Hacker News",
       "published": "2026-04-27T05:28:39+00:00",
       "link": "https://www.axios.com/2026/04/26/ai-cost-human-workers"
     },
     {
       "title": "Google banks on AI edge to catch up to cloud rivals Amazon and Microsoft",
-      "summary": "Article URL: https://www.ft.com/content/2429f0f0-b685-4747-b425-bf8001a2e94c Comments URL: https://news.ycombinator.com/item?id=47916410 Points: 107 # Comments: 113",
+      "summary": "Article URL: https://www.ft.com/content/2429f0f0-b685-4747-b425-bf8001a2e94c Comments URL: https://news.ycombinator.com/item?id=47916410 Points: 107 # Comments: 114",
       "source": "Hacker News",
       "published": "2026-04-27T00:34:30+00:00",
       "link": "https://www.ft.com/content/2429f0f0-b685-4747-b425-bf8001a2e94c"
@@ -486,7 +535,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI should elevate your thinking, not replace it",
-      "summary": "Article URL: https://www.koshyjohn.com/blog/ai-should-elevate-your-thinking-not-replace-it/ Comments URL: https://news.ycombinator.com/item?id=47913650 Points: 848 # Comments: 590",
+      "summary": "Article URL: https://www.koshyjohn.com/blog/ai-should-elevate-your-thinking-not-replace-it/ Comments URL: https://news.ycombinator.com/item?id=47913650 Points: 848 # Comments: 591",
       "source": "Hacker News",
       "published": "2026-04-26T20:03:12+00:00",
       "link": "https://www.koshyjohn.com/blog/ai-should-elevate-your-thinking-not-replace-it/"
@@ -500,7 +549,7 @@ const FEED_DATA = {
     },
     {
       "title": "An AI agent deleted our production database. The agent's confession is below",
-      "summary": "Article URL: https://twitter.com/lifeof_jer/status/2048103471019434248 Comments URL: https://news.ycombinator.com/item?id=47911524 Points: 838 # Comments: 1013",
+      "summary": "Article URL: https://twitter.com/lifeof_jer/status/2048103471019434248 Comments URL: https://news.ycombinator.com/item?id=47911524 Points: 840 # Comments: 1015",
       "source": "Hacker News",
       "published": "2026-04-26T16:27:29+00:00",
       "link": "https://twitter.com/lifeof_jer/status/2048103471019434248"
@@ -1351,55 +1400,6 @@ const FEED_DATA = {
       "source": "Hacker News",
       "published": "2026-04-22T14:44:32+00:00",
       "link": "https://www.adriankrebs.ch/blog/design-slop/"
-    },
-    {
-      "title": "Now Meta will track what employees do on their computers to train its AI agents",
-      "summary": "Meta employees' activity at work is now being used to train the company's AI agents.",
-      "source": "The Verge",
-      "published": "2026-04-22T14:22:35+00:00",
-      "link": "https://www.theverge.com/tech/916681/meta-ai-agents-employee-tracking"
-    },
-    {
-      "title": "OpenAI teams up with Infosys to bring AI tools to more businesses",
-      "summary": "Infosys said the integration will be used to help its clients modernize software development, automate workflows, and deploy AI systems, initially focusing software engineering, legacy modernization, and DevOps.",
-      "source": "TechCrunch",
-      "published": "2026-04-22T14:22:10+00:00",
-      "link": "https://techcrunch.com/2026/04/22/openai-teams-up-with-infosys-to-bring-ai-tools-to-more-businesses/"
-    },
-    {
-      "title": "AI in law firms entering its closing summaries",
-      "summary": "In an interview with Artificial Lawyer, Paris-based AI-native consulting firm owner, Olivier Chaduteau, set out a three-part account of the current state of AI in the legal sector. At first, lawyers dismissed AI as irrelevant to expert work.",
-      "source": "AI News",
-      "published": "2026-04-22T13:51:00+00:00",
-      "link": "https://www.artificialintelligence-news.com/news/ai-in-law-firms-entering-its-closing-summaries/"
-    },
-    {
-      "title": "Anthropic manager hints that Pro and Max plans are outgrown by today's Claude workloads",
-      "summary": "Anthropic briefly removed Claude Code from its Pro subscription for new customers and reversed the change after public pushback. Head of Growth Amol Avasare signaled that the current subscription plans fundamentally no longer match how people are using Claude.",
-      "source": "The Decoder",
-      "published": "2026-04-22T13:38:59+00:00",
-      "link": "https://the-decoder.com/anthropic-manager-hints-that-pro-and-max-plans-are-outgrown-by-todays-claude-workloads/"
-    },
-    {
-      "title": "AI is spitting out more potential drugs than ever. This startup wants to figure out which ones matter.",
-      "summary": "10x Science has raised a $4.8 million seed round to help pharmaceutical researchers understand complex molecules.",
-      "source": "TechCrunch",
-      "published": "2026-04-22T13:00:00+00:00",
-      "link": "https://techcrunch.com/2026/04/22/ai-is-spitting-out-more-potential-drugs-than-ever-this-start-up-wants-to-figure-out-which-ones-matter/"
-    },
-    {
-      "title": "Unauthorized users breach Anthropic's restricted Mythos AI model",
-      "summary": "A small group of unauthorized users gained access to Anthropic's new AI model Claude Mythos, Bloomberg reports. The article Unauthorized users breach Anthropic's restricted Mythos AI model appeared first on The Decoder.",
-      "source": "The Decoder",
-      "published": "2026-04-22T12:54:43+00:00",
-      "link": "https://the-decoder.com/unauthorized-users-breach-anthropics-restricted-mythos-ai-model/"
-    },
-    {
-      "title": "Meta tracks US employees' clicks and keystrokes to train AI agents",
-      "summary": "Meta is installing new surveillance software on its US employees' computers that captures mouse movements, clicks, and keystrokes to train AI models. The article Meta tracks US employees' clicks and keystrokes to train AI agents appeared first on The Decoder.",
-      "source": "The Decoder",
-      "published": "2026-04-22T12:43:38+00:00",
-      "link": "https://the-decoder.com/meta-tracks-us-employees-clicks-and-keystrokes-to-train-ai-agents/"
     }
   ]
 };
