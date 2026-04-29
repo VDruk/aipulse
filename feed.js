@@ -1,9 +1,9 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-04-29T04:28:25.090534+00:00",
+  "lastUpdated": "2026-04-29T07:25:19.143572+00:00",
   "items": [
     {
       "title": "We decreased our LLM costs with Opus",
-      "summary": "Article URL: https://www.mendral.com/blog/frontier-model-lower-costs Comments URL: https://news.ycombinator.com/item?id=47942903 Points: 63 # Comments: 19",
+      "summary": "Article URL: https://www.mendral.com/blog/frontier-model-lower-costs Comments URL: https://news.ycombinator.com/item?id=47942903 Points: 85 # Comments: 29",
       "source": "Hacker News",
       "published": "2026-04-29T00:57:12+00:00",
       "link": "https://www.mendral.com/blog/frontier-model-lower-costs"
@@ -94,7 +94,7 @@ const FEED_DATA = {
     },
     {
       "title": "Claude.ai unavailable and elevated errors on the API",
-      "summary": "Article URL: https://status.claude.com/incidents/9l93x2ht4s5w Comments URL: https://news.ycombinator.com/item?id=47938097 Points: 278 # Comments: 236",
+      "summary": "Article URL: https://status.claude.com/incidents/9l93x2ht4s5w Comments URL: https://news.ycombinator.com/item?id=47938097 Points: 282 # Comments: 242",
       "source": "Hacker News",
       "published": "2026-04-28T18:01:21+00:00",
       "link": "https://status.claude.com/incidents/9l93x2ht4s5w"
@@ -115,7 +115,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI's economics don't make sense",
-      "summary": "Related: AI's biggest critic has lost the plot - https://news.ycombinator.com/item?id=47934353 Comments URL: https://news.ycombinator.com/item?id=47936867 Points: 199 # Comments: 160",
+      "summary": "Related: AI's biggest critic has lost the plot - https://news.ycombinator.com/item?id=47934353 Comments URL: https://news.ycombinator.com/item?id=47936867 Points: 211 # Comments: 168",
       "source": "Hacker News",
       "published": "2026-04-28T16:39:53+00:00",
       "link": "https://www.wheresyoured.at/ais-economics-dont-make-sense/"
@@ -178,7 +178,7 @@ const FEED_DATA = {
     },
     {
       "title": "OpenAI misses revenue, is the AI bubble bursting?",
-      "summary": "Article URL: https://www.cnbc.com/2026/04/28/openai-reportedly-missed-revenue-targets-shares-of-oracle-and-these-chip-stocks-are-falling.html Comments URL: https://news.ycombinator.com/item?id=47933430 Points: 51 # Comments: 33",
+      "summary": "Article URL: https://www.cnbc.com/2026/04/28/openai-reportedly-missed-revenue-targets-shares-of-oracle-and-these-chip-stocks-are-falling.html Comments URL: https://news.ycombinator.com/item?id=47933430 Points: 53 # Comments: 35",
       "source": "Hacker News",
       "published": "2026-04-28T12:15:13+00:00",
       "link": "https://www.cnbc.com/2026/04/28/openai-reportedly-missed-revenue-targets-shares-of-oracle-and-these-chip-stocks-are-falling.html"
@@ -199,7 +199,7 @@ const FEED_DATA = {
     },
     {
       "title": "VibeVoice: Open-source frontier voice AI",
-      "summary": "Article URL: https://github.com/microsoft/VibeVoice Comments URL: https://news.ycombinator.com/item?id=47933236 Points: 339 # Comments: 167",
+      "summary": "Article URL: https://github.com/microsoft/VibeVoice Comments URL: https://news.ycombinator.com/item?id=47933236 Points: 348 # Comments: 169",
       "source": "Hacker News",
       "published": "2026-04-28T11:56:04+00:00",
       "link": "https://github.com/microsoft/VibeVoice"
@@ -241,7 +241,7 @@ const FEED_DATA = {
     },
     {
       "title": "The Social Edge of Intelligence: Individual Gain, Collective Loss",
-      "summary": "Article URL: https://www.theideasletter.org/essay/the-social-edge-of-intelligence/ Comments URL: https://news.ycombinator.com/item?id=47932446 Points: 71 # Comments: 86",
+      "summary": "Article URL: https://www.theideasletter.org/essay/the-social-edge-of-intelligence/ Comments URL: https://news.ycombinator.com/item?id=47932446 Points: 73 # Comments: 86",
       "source": "Hacker News",
       "published": "2026-04-28T10:08:38+00:00",
       "link": "https://www.theideasletter.org/essay/the-social-edge-of-intelligence/"
@@ -444,7 +444,7 @@ const FEED_DATA = {
     },
     {
       "title": "China blocks Meta's acquisition of AI startup Manus",
-      "summary": "https://www.reuters.com/world/asia-pacific/china-blocks-fore...https://www.bbc.com/news/articles/cj0v0gr2yz7o Comments URL: https://news.ycombinator.com/item?id=47920315 Points: 392 # Comments: 320",
+      "summary": "https://www.reuters.com/world/asia-pacific/china-blocks-fore...https://www.bbc.com/news/articles/cj0v0gr2yz7o Comments URL: https://news.ycombinator.com/item?id=47920315 Points: 393 # Comments: 320",
       "source": "Hacker News",
       "published": "2026-04-27T11:43:59+00:00",
       "link": "https://www.cnbc.com/2026/04/27/meta-manus-china-blocks-acquisition-ai-startup.html"
@@ -486,7 +486,7 @@ const FEED_DATA = {
     },
     {
       "title": "4TB of voice samples just stolen from 40k AI contractors at Mercor",
-      "summary": "Article URL: https://app.oravys.com/blog/mercor-breach-2026 Comments URL: https://news.ycombinator.com/item?id=47919630 Points: 585 # Comments: 222",
+      "summary": "Article URL: https://app.oravys.com/blog/mercor-breach-2026 Comments URL: https://news.ycombinator.com/item?id=47919630 Points: 586 # Comments: 222",
       "source": "Hacker News",
       "published": "2026-04-27T09:57:10+00:00",
       "link": "https://app.oravys.com/blog/mercor-breach-2026"
@@ -535,7 +535,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI should elevate your thinking, not replace it",
-      "summary": "Article URL: https://www.koshyjohn.com/blog/ai-should-elevate-your-thinking-not-replace-it/ Comments URL: https://news.ycombinator.com/item?id=47913650 Points: 848 # Comments: 591",
+      "summary": "Article URL: https://www.koshyjohn.com/blog/ai-should-elevate-your-thinking-not-replace-it/ Comments URL: https://news.ycombinator.com/item?id=47913650 Points: 848 # Comments: 592",
       "source": "Hacker News",
       "published": "2026-04-26T20:03:12+00:00",
       "link": "https://www.koshyjohn.com/blog/ai-should-elevate-your-thinking-not-replace-it/"
@@ -549,7 +549,7 @@ const FEED_DATA = {
     },
     {
       "title": "An AI agent deleted our production database. The agent's confession is below",
-      "summary": "Article URL: https://twitter.com/lifeof_jer/status/2048103471019434248 Comments URL: https://news.ycombinator.com/item?id=47911524 Points: 840 # Comments: 1015",
+      "summary": "Article URL: https://twitter.com/lifeof_jer/status/2048103471019434248 Comments URL: https://news.ycombinator.com/item?id=47911524 Points: 841 # Comments: 1014",
       "source": "Hacker News",
       "published": "2026-04-26T16:27:29+00:00",
       "link": "https://twitter.com/lifeof_jer/status/2048103471019434248"
