@@ -1,6 +1,97 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-04-29T10:44:44.071423+00:00",
+  "lastUpdated": "2026-04-29T15:17:00.956480+00:00",
   "items": [
+    {
+      "title": "Tumbler Ridge families sue OpenAI for not alerting police to the suspect’s ChatGPT activity",
+      "summary": "Seven families of victims injured or killed in the Tumbler Ridge school shooting in Canada have filed lawsuits against OpenAI and CEO Sam Altman, accusing the company and its leadership of negligence after they failed to alert police to the suspected shooter's ChatGPT activity.",
+      "source": "The Verge",
+      "published": "2026-04-29T14:47:57+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/920479/tumbler-ridge-chagpt-openai-lawsuit"
+    },
+    {
+      "title": "ChatGPT downloads are slowing — and may cause problems for OpenAI’s IPO",
+      "summary": "ChatGPT is struggling to keep up its once-explosive growth as users uninstall the app or opt for rival chatbots instead. According to data from market intelligence firm Sensor Tower, ChatGPT experienced a 132 percent increase in uninstalls year over year in April.",
+      "source": "The Verge",
+      "published": "2026-04-29T14:43:41+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/920476/openai-chatgpt-downloads-slow-down-ipo"
+    },
+    {
+      "title": "IDC: How EMEA CIOs can jumpstart AI rollouts",
+      "summary": "Getting stalled enterprise AI rollouts in the EMEA region moving again will require CIOs to aggressively audit their systems. Over the past 18 months, AI deployments across Europe advanced far beyond initial testing.",
+      "source": "AI News",
+      "published": "2026-04-29T14:02:45+00:00",
+      "link": "https://www.artificialintelligence-news.com/news/idc-how-emea-cios-can-jumpstart-ai-rollouts/"
+    },
+    {
+      "title": "Larry’s risky business",
+      "summary": "If you want to know whether the AI bubble is bursting, there's only one publicly traded company that will tell you: Oracle. That's right, the database company.",
+      "source": "The Verge",
+      "published": "2026-04-29T13:57:16+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/920378/oracle-openai-datacenter-buildout"
+    },
+    {
+      "title": "White House moves to restore Anthropic access after Pentagon standoff",
+      "summary": "The White House is drafting guidance that would let federal agencies work with Anthropic again, including access to the company's new model Mythos. The article White House moves to restore Anthropic access after Pentagon standoff appeared first on The Decoder.",
+      "source": "The Decoder",
+      "published": "2026-04-29T13:23:39+00:00",
+      "link": "https://the-decoder.com/white-house-moves-to-restore-anthropic-access-after-pentagon-standoff/"
+    },
+    {
+      "title": "Firestorm Labs raises $82M to take drone factories into the field",
+      "summary": "A defense startup just raised $82 million to put drone factories inside shipping containers and bring manufacturing to the front lines.",
+      "source": "TechCrunch",
+      "published": "2026-04-29T13:10:57+00:00",
+      "link": "https://techcrunch.com/2026/04/29/firestorm-labs-raises-82m-to-take-drone-factories-into-the-field/"
+    },
+    {
+      "title": "OpenAI lands on AWS one day after Microsoft deal restructuring",
+      "summary": "Microsoft and OpenAI dissolve their exclusivity deal. One day later, AWS rolls out three new OpenAI offerings on its Bedrock platform, including a jointly built agent service.",
+      "source": "The Decoder",
+      "published": "2026-04-29T13:06:01+00:00",
+      "link": "https://the-decoder.com/openai-lands-on-aws-one-day-after-microsoft-deal-restructuring/"
+    },
+    {
+      "title": "Meet Shapes, the app bringing humans and AI into the same group chats",
+      "summary": "Think Discord chats, but with AI characters in addition to humans.",
+      "source": "TechCrunch",
+      "published": "2026-04-29T13:00:00+00:00",
+      "link": "https://techcrunch.com/2026/04/29/meet-shapes-the-app-bringing-humans-and-ai-into-the-same-group-chats/"
+    },
+    {
+      "title": "Taylor Swift deepfakes are pushing scams on TikTok",
+      "summary": "Scammers are using AI-generated videos of celebrities including Taylor Swift and Rihanna to promote shady services on TikTok, according to authentication company Copyleaks.",
+      "source": "The Verge",
+      "published": "2026-04-29T13:00:00+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/920351/ai-celebrity-deepfake-ads-tiktok-copyleaks"
+    },
+    {
+      "title": "Musk and Altman face off in court over OpenAI's for-profit pivot",
+      "summary": "The closely watched trial between Elon Musk and OpenAI CEO Sam Altman kicked off in federal court in Oakland. Both sides laid out wildly different versions of the AI lab's early days.",
+      "source": "The Decoder",
+      "published": "2026-04-29T12:59:56+00:00",
+      "link": "https://the-decoder.com/musk-and-altman-face-off-in-court-over-openais-for-profit-pivot/"
+    },
+    {
+      "title": "The Download: storing nuclear waste and orchestrating agents",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. It’s time to make a plan for nuclear waste Today, nuclear energy enjoys rare support across the political spectrum.",
+      "source": "MIT Tech Review",
+      "published": "2026-04-29T12:10:00+00:00",
+      "link": "https://www.technologyreview.com/2026/04/29/1136666/the-download-nuclear-waste-orchestrated-ai-agents/"
+    },
+    {
+      "title": "Google rolls out Gemini memory in Europe and wants you to bring your ChatGPT data along",
+      "summary": "Gemini can now remember your preferences and import your chat history from other AI apps. The article Google rolls out Gemini memory in Europe and wants you to bring your ChatGPT data along appeared first on The Decoder.",
+      "source": "The Decoder",
+      "published": "2026-04-29T11:50:10+00:00",
+      "link": "https://the-decoder.com/google-rolls-out-gemini-memory-in-europe-and-wants-you-to-bring-your-chatgpt-data-along/"
+    },
+    {
+      "title": "Why a recent supply-chain attack singled out security firms Checkmarx and Bitwarden",
+      "summary": "Security firms find themselves especially exposed.",
+      "source": "Ars Technica",
+      "published": "2026-04-29T11:00:24+00:00",
+      "link": "https://arstechnica.com/information-technology/2026/04/why-a-recent-supply-chain-attack-singled-out-security-firms-checkmarx-and-bitwarden/"
+    },
     {
       "title": "China freezes new robotaxi licenses after Baidu chaos",
       "summary": "China has suspended new licenses for autonomous vehicles, Bloomberg reports, citing unnamed people familiar with the matter. The move comes after dozens of robotaxis operated by Chinese tech giant Baidu ground to a halt in traffic last month in Wuhan, creating chaos.",
@@ -9,11 +100,25 @@ const FEED_DATA = {
       "link": "https://www.theverge.com/ai-artificial-intelligence/920312/china-suspends-autonomous-vehicle-permits-baidu-chaos"
     },
     {
+      "title": "I've Covered Robots for Years. This One Is Different",
+      "summary": "From sorting chicken nuggets to screwing in lightbulbs, Eka’s robotic claw feels like we're approaching a ChatGPT moment for the physical world.",
+      "source": "Wired",
+      "published": "2026-04-29T10:00:00+00:00",
+      "link": "https://www.wired.com/story/when-robots-have-their-chatgpt-moment-remember-these-pincers/"
+    },
+    {
       "title": "When Robots Have Their ChatGPT Moment, Remember These Pincers",
       "summary": "From sorting chicken nuggets to screwing in light bulbs, Eka’s robots are eerily lifelike. But do they have real physical smarts?",
       "source": "Wired",
       "published": "2026-04-29T10:00:00+00:00",
       "link": "https://www.wired.com/story/when-robots-have-their-chatgpt-moment-remember-these-pincers/"
+    },
+    {
+      "title": "Colby Adcock’s Scout AI raises $100M to train its models for war. We visited its bootcamp",
+      "summary": "We visited Scout AI's training ground where it's working on AI agents that can help individual soldiers control fleets of autonomous vehicles.",
+      "source": "TechCrunch",
+      "published": "2026-04-29T09:45:00+00:00",
+      "link": "https://techcrunch.com/2026/04/29/coby-adcocks-scout-ai-raises-100-million-to-train-models-for-war-we-visited-its-bootcamp/"
     },
     {
       "title": "Coby Adcock’s Scout AI raises $100 million to train its models for war. We visited its bootcamp.",
@@ -35,6 +140,13 @@ const FEED_DATA = {
       "source": "The Verge",
       "published": "2026-04-29T09:14:38+00:00",
       "link": "https://www.theverge.com/transportation/920285/general-motors-gm-gemini-ai-update"
+    },
+    {
+      "title": "GPT-5.5 is OpenAI’s most capable agentic AI model yet",
+      "summary": "OpenAI launched GPT-5.5 on April 23 as what it calls “a new class of intelligence for real work and powering agents,” and the framing is deliberate.",
+      "source": "AI News",
+      "published": "2026-04-29T09:08:13+00:00",
+      "link": "https://www.artificialintelligence-news.com/news/gpt-5-5-is-openais-most-capable-agentic-ai-model-yet-at-twice-the-api-price/"
     },
     {
       "title": "How AI Could Help Combat Antibiotic Resistance",
@@ -1288,118 +1400,6 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-04-22T22:25:53+00:00",
       "link": "https://techcrunch.com/2026/04/22/hands-on-with-xs-new-ai-powered-custom-feeds/"
-    },
-    {
-      "title": "AI failure could trigger the next financial crisis, warns Elizabeth Warren",
-      "summary": "\"I know a bubble when I see one.\" That's what Sen. Elizabeth Warren (D-MA), who led the push to create a new consumer financial regulator in the wake of the 2008 recession, told a crowd at a Vanderbilt Policy Accelerator event in Washington, DC, on Wednesday.",
-      "source": "The Verge",
-      "published": "2026-04-22T20:29:05+00:00",
-      "link": "https://www.theverge.com/policy/917026/ai-economy-bubble-elizabeth-warren"
-    },
-    {
-      "title": "OpenAI now lets teams make custom bots that can do work on their own",
-      "summary": "OpenAI is giving users of its Business, Enterprise, Edu, and Teachers plans access to cloud-based \"workspace\" agents available in ChatGPT that can perform business tasks.",
-      "source": "The Verge",
-      "published": "2026-04-22T20:09:02+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/917065/openai-chatgpt-workspace-agents-custom-teams-bots"
-    },
-    {
-      "title": "How SpaceX preempted a $2B fundraise with a $60B buyout offer",
-      "summary": "Cursor was on track to close a $2 billion funding round this week but chose to halt discussions after SpaceX offered a $10 billion \"collaboration fee\" and a path to a $60 billion acquisition.",
-      "source": "TechCrunch",
-      "published": "2026-04-22T19:51:51+00:00",
-      "link": "https://techcrunch.com/2026/04/22/how-spacex-preempted-a-2b-fundraise-with-a-60b-buyout-offer/"
-    },
-    {
-      "title": "Microsoft issues emergency update for macOS and Linux ASP.NET threat",
-      "summary": "When authentication fails, things can go very, very wrong.",
-      "source": "Ars Technica",
-      "published": "2026-04-22T19:32:56+00:00",
-      "link": "https://arstechnica.com/security/2026/04/microsoft-issues-emergency-update-for-macos-and-linux-asp-net-threat/"
-    },
-    {
-      "title": "Ex-OpenAI researcher Jerry Tworek launches Core Automation to build the most automated AI lab in the world",
-      "summary": "New AI lab, familiar face: former OpenAI researcher Jerry Tworek wants to push past the limits of today's AI architectures with a small team and new learning methods.",
-      "source": "The Decoder",
-      "published": "2026-04-22T18:44:36+00:00",
-      "link": "https://the-decoder.com/ex-openai-researcher-jerry-tworek-launches-core-automation-to-build-the-most-automated-ai-lab-in-the-world/"
-    },
-    {
-      "title": "Google Cloud launches two new AI chips to compete with Nvidia",
-      "summary": "Google's newest TPUs are faster and cheaper than the previous versions. But the company is still embracing Nvidia in its cloud — for now.",
-      "source": "TechCrunch",
-      "published": "2026-04-22T18:39:27+00:00",
-      "link": "https://techcrunch.com/2026/04/22/google-cloud-next-new-tpu-ai-chips-compete-with-nvidia/"
-    },
-    {
-      "title": "OpenAI launches workspace agents that turn ChatGPT from a chatbot into a team automation platform",
-      "summary": "OpenAI is rolling out workspace agents in ChatGPT, an evolution of custom GPTs. Powered by Codex, the agents automate complex team workflows and keep running even when no one is watching.",
-      "source": "The Decoder",
-      "published": "2026-04-22T18:23:33+00:00",
-      "link": "https://the-decoder.com/openai-launches-workspace-agents-that-turn-chatgpt-from-a-chatbot-into-a-team-automation-platform/"
-    },
-    {
-      "title": "5 AI Models Tried to Scam Me. Some of Them Were Scary Good",
-      "summary": "The cyber capabilities of AI models have experts rattled. AI’s social skills may be just as dangerous.",
-      "source": "Wired",
-      "published": "2026-04-22T18:00:00+00:00",
-      "link": "https://www.wired.com/story/ai-model-phishing-attack-cybersecurity/"
-    },
-    {
-      "title": "Google turns Chrome into an AI co-worker for the workplace",
-      "summary": "Google brings Gemini-powered \"auto browse\" capabilities to Chrome for enterprise users, letting workers automate tasks like research, data entry, and more.",
-      "source": "TechCrunch",
-      "published": "2026-04-22T17:30:00+00:00",
-      "link": "https://techcrunch.com/2026/04/22/google-turns-chrome-into-an-ai-coworker-for-the-workplace/"
-    },
-    {
-      "title": "Google's new AI tools put film scouting in Street View and promise to cut weeks of satellite analysis to minutes",
-      "summary": "At Cloud Next, Google unveiled three new AI imaging tools.",
-      "source": "The Decoder",
-      "published": "2026-04-22T17:22:59+00:00",
-      "link": "https://the-decoder.com/googles-new-ai-tools-put-film-scouting-in-street-view-and-promise-to-cut-weeks-of-satellite-analysis-to-minutes/"
-    },
-    {
-      "title": "Anker made its own chip to bring AI to all its products",
-      "summary": "Article URL: https://www.theverge.com/tech/916463/anker-thus-chip-announcement Comments URL: https://news.ycombinator.com/item?id=47866368 Points: 67 # Comments: 49",
-      "source": "Hacker News",
-      "published": "2026-04-22T17:10:46+00:00",
-      "link": "https://www.theverge.com/tech/916463/anker-thus-chip-announcement"
-    },
-    {
-      "title": "Google makes an interesting choice with its new agent-building tool for enterprises",
-      "summary": "Gemini Enterprise Agent Platform takes an interesting approach: It is geared for IT and technical users.",
-      "source": "TechCrunch",
-      "published": "2026-04-22T16:58:27+00:00",
-      "link": "https://techcrunch.com/2026/04/22/google-makes-an-interesting-choice-with-its-new-agent-building-tool-for-enterprises/"
-    },
-    {
-      "title": "Google makes an interesting choice with its new agent building tool for enterprises",
-      "summary": "Gemini Enterprise Agent Platform takes an interesting approach: it is geared for IT and technical users.",
-      "source": "TechCrunch",
-      "published": "2026-04-22T16:58:27+00:00",
-      "link": "https://techcrunch.com/2026/04/22/google-makes-an-interesting-choice-with-its-new-agent-building-tool-for-enterprises/"
-    },
-    {
-      "title": "Anthropic’s Mythos rollout has missed America’s cybersecurity agency",
-      "summary": "Several US federal agencies are taking up Anthropic's new cybersecurity model to find vulnerabilities, but one is reportedly not getting in on the action: the nation's central cybersecurity coordinator.",
-      "source": "The Verge",
-      "published": "2026-04-22T16:57:36+00:00",
-      "link": "https://www.theverge.com/policy/916758/anthropic-mythos-preview-cisa-left-out"
-    },
-    {
-      "title": "AI Overviews are coming to your Gmail at work",
-      "summary": "The AI Overviews will offer instant summaries pulled from across multiple emails.",
-      "source": "TechCrunch",
-      "published": "2026-04-22T16:46:10+00:00",
-      "link": "https://techcrunch.com/2026/04/22/ai-overviews-are-coming-to-your-gmail-at-work/"
-    },
-    {
-      "title": "Google Meet will take AI notes for in-person meetings too",
-      "summary": "Google's AI meeting notetaker is no longer limited to Google Meets - Gemini can also generate summaries and transcripts of in-person meetings now, as well as meetings on Zoom and Microsoft Teams, as first reported by 9to5Google.",
-      "source": "The Verge",
-      "published": "2026-04-22T16:38:19+00:00",
-      "link": "https://www.theverge.com/tech/916779/google-meet-ai-notetaker-in-person-meetings"
     }
   ]
 };
