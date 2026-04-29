@@ -1,6 +1,76 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-04-29T15:17:00.956480+00:00",
+  "lastUpdated": "2026-04-29T18:08:42.290297+00:00",
   "items": [
+    {
+      "title": "Ubuntu’s AI plans have Linux users looking for a ‘kill switch’",
+      "summary": "Canonical's plan to add AI features to Ubuntu has some users asking for \"a version of Ubuntu that does not include these features,\" while others say they'll stick with older versions of the Linux distro or even switch to a different one.",
+      "source": "The Verge",
+      "published": "2026-04-29T17:32:02+00:00",
+      "link": "https://www.theverge.com/tech/920723/linux-ubuntu-ai-features-ai-kill-switch"
+    },
+    {
+      "title": "Sanctioned Chinese AI Firm SenseTime Releases Image Model Built for Speed",
+      "summary": "With US restrictions limiting its access to advanced tech, SenseTime is doubling down on open source with a new model optimized to run on Chinese-made chips.",
+      "source": "Wired",
+      "published": "2026-04-29T17:23:52+00:00",
+      "link": "https://www.wired.com/story/chinese-ai-giant-sensetime-is-running-its-new-model-on-chinese-chips/"
+    },
+    {
+      "title": "Google Gemini now generates full documents, spreadsheets, and presentations directly inside the chat",
+      "summary": "Google Gemini now creates documents directly in the chat, from PDFs and Word files to Excel spreadsheets. The article Google Gemini now generates full documents, spreadsheets, and presentations directly inside the chat appeared first on The Decoder.",
+      "source": "The Decoder",
+      "published": "2026-04-29T17:18:57+00:00",
+      "link": "https://the-decoder.com/google-gemini-now-generates-full-documents-spreadsheets-and-presentations-directly-inside-the-chat/"
+    },
+    {
+      "title": "Google Photos uses AI to make the iconic closet from ‘Clueless’ a reality",
+      "summary": "Google recreates Cher's closet from \"Clueless\" with AI.",
+      "source": "TechCrunch",
+      "published": "2026-04-29T16:42:33+00:00",
+      "link": "https://techcrunch.com/2026/04/29/google-photos-uses-ai-to-make-the-iconic-closet-from-clueless-a-reality/"
+    },
+    {
+      "title": "More Gemini features are coming to Google TV",
+      "summary": "Google TV just got more Gemini features, including the ability to transform photos and videos with tools Nano Banana and Veo.",
+      "source": "TechCrunch",
+      "published": "2026-04-29T16:40:49+00:00",
+      "link": "https://techcrunch.com/2026/04/29/more-gemini-features-are-coming-to-google-tv/"
+    },
+    {
+      "title": "Google Photos launches an AI try-on feature for clothes you already have",
+      "summary": "Google Photos is launching a new AI-powered feature you can use to virtually try on clothes you already have. Using the photos in your gallery, Google will create a virtual \"wardrobe,\" allowing you to mix and match outfits, save the looks you like, and share them with friends.",
+      "source": "The Verge",
+      "published": "2026-04-29T16:00:00+00:00",
+      "link": "https://www.theverge.com/tech/920420/google-photos-ai-try-on-wardrobe"
+    },
+    {
+      "title": "Live updates from Elon Musk and Sam Altman’s court battle over the future of OpenAI",
+      "summary": "Sam Altman and Elon Musk are facing off in a high-stakes trial that could alter the future of OpenAI and its most well-known product, ChatGPT.",
+      "source": "The Verge",
+      "published": "2026-04-29T15:35:32+00:00",
+      "link": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit"
+    },
+    {
+      "title": "Why AI companies want you to be afraid of them",
+      "summary": "Article URL: https://www.bbc.com/future/article/20260428-ai-companies-want-you-to-be-afraid-of-them Comments URL: https://news.ycombinator.com/item?id=47949750 Points: 232 # Comments: 169",
+      "source": "Hacker News",
+      "published": "2026-04-29T15:26:01+00:00",
+      "link": "https://www.bbc.com/future/article/20260428-ai-companies-want-you-to-be-afraid-of-them"
+    },
+    {
+      "title": "OpenAI researchers explain why math is the road to AGI",
+      "summary": "AI models have jumped from grade-school arithmetic to olympiad-level and research mathematics in only two years. In the OpenAI Podcast, OpenAI researchers Sebastian Bubeck and Ernest Ryu explain why math has become the key test on the road to artificial general intelligence.",
+      "source": "The Decoder",
+      "published": "2026-04-29T15:24:12+00:00",
+      "link": "https://the-decoder.com/openai-researchers-explain-why-math-is-the-road-to-agi/"
+    },
+    {
+      "title": "Tumbler Ridge families are suing OpenAI",
+      "summary": "Seven families of victims injured or killed in the Tumbler Ridge school shooting in Canada have filed lawsuits against OpenAI and CEO Sam Altman, accusing the company and its leadership of negligence after they failed to alert police to the suspected shooter's ChatGPT activity.",
+      "source": "The Verge",
+      "published": "2026-04-29T14:47:57+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/920479/tumbler-ridge-chagpt-openai-lawsuit"
+    },
     {
       "title": "Tumbler Ridge families sue OpenAI for not alerting police to the suspect’s ChatGPT activity",
       "summary": "Seven families of victims injured or killed in the Tumbler Ridge school shooting in Canada have filed lawsuits against OpenAI and CEO Sam Altman, accusing the company and its leadership of negligence after they failed to alert police to the suspected shooter's ChatGPT activity.",
@@ -72,6 +142,20 @@ const FEED_DATA = {
       "link": "https://the-decoder.com/musk-and-altman-face-off-in-court-over-openais-for-profit-pivot/"
     },
     {
+      "title": "Letting AI play my game – building an agentic test harness to help play-testing",
+      "summary": "Article URL: https://blog.jeffschomay.com/letting-ai-play-my-game Comments URL: https://news.ycombinator.com/item?id=47947525 Points: 86 # Comments: 17",
+      "source": "Hacker News",
+      "published": "2026-04-29T12:43:12+00:00",
+      "link": "https://blog.jeffschomay.com/letting-ai-play-my-game"
+    },
+    {
+      "title": "He asked AI to count carbs 27000 times. It couldn't give the same answer twice",
+      "summary": "Article URL: https://www.diabettech.com/i-asked-ai-to-count-my-carbs-27000-times-it-couldnt-give-me-the-same-answer-twice/ Comments URL: https://news.ycombinator.com/item?id=47947490 Points: 222 # Comments: 281",
+      "source": "Hacker News",
+      "published": "2026-04-29T12:38:50+00:00",
+      "link": "https://www.diabettech.com/i-asked-ai-to-count-my-carbs-27000-times-it-couldnt-give-me-the-same-answer-twice/"
+    },
+    {
       "title": "The Download: storing nuclear waste and orchestrating agents",
       "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. It’s time to make a plan for nuclear waste Today, nuclear energy enjoys rare support across the political spectrum.",
       "source": "MIT Tech Review",
@@ -114,7 +198,7 @@ const FEED_DATA = {
       "link": "https://www.wired.com/story/when-robots-have-their-chatgpt-moment-remember-these-pincers/"
     },
     {
-      "title": "Colby Adcock’s Scout AI raises $100M to train its models for war. We visited its bootcamp",
+      "title": "Colby Adcock’s Scout AI raises $100M to train its models for war: We visited its bootcamp",
       "summary": "We visited Scout AI's training ground where it's working on AI agents that can help individual soldiers control fleets of autonomous vehicles.",
       "source": "TechCrunch",
       "published": "2026-04-29T09:45:00+00:00",
@@ -157,7 +241,7 @@ const FEED_DATA = {
     },
     {
       "title": "We decreased our LLM costs with Opus",
-      "summary": "Article URL: https://www.mendral.com/blog/frontier-model-lower-costs Comments URL: https://news.ycombinator.com/item?id=47942903 Points: 89 # Comments: 29",
+      "summary": "Article URL: https://www.mendral.com/blog/frontier-model-lower-costs Comments URL: https://news.ycombinator.com/item?id=47942903 Points: 101 # Comments: 31",
       "source": "Hacker News",
       "published": "2026-04-29T00:57:12+00:00",
       "link": "https://www.mendral.com/blog/frontier-model-lower-costs"
@@ -205,13 +289,6 @@ const FEED_DATA = {
       "link": "https://techcrunch.com/2026/04/28/amazon-is-already-offering-new-openai-products-on-aws/"
     },
     {
-      "title": "Live updates from Elon Musk and Sam Altman’s court battle over the future of OpenAI",
-      "summary": "Sam Altman and Elon Musk are facing off in a high-stakes trial that could alter the future of OpenAI and its most well-known product, ChatGPT.",
-      "source": "The Verge",
-      "published": "2026-04-28T19:27:50+00:00",
-      "link": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit"
-    },
-    {
       "title": "Elon Musk takes the stand in high-profile trial against OpenAI",
       "summary": "Elon Musk officially began his testimony in the trial he has brought against OpenAI CEO Sam Altman and company president Greg Brockman.",
       "source": "The Verge",
@@ -248,7 +325,7 @@ const FEED_DATA = {
     },
     {
       "title": "Claude.ai unavailable and elevated errors on the API",
-      "summary": "Article URL: https://status.claude.com/incidents/9l93x2ht4s5w Comments URL: https://news.ycombinator.com/item?id=47938097 Points: 284 # Comments: 246",
+      "summary": "Article URL: https://status.claude.com/incidents/9l93x2ht4s5w Comments URL: https://news.ycombinator.com/item?id=47938097 Points: 293 # Comments: 250",
       "source": "Hacker News",
       "published": "2026-04-28T18:01:21+00:00",
       "link": "https://status.claude.com/incidents/9l93x2ht4s5w"
@@ -269,14 +346,14 @@ const FEED_DATA = {
     },
     {
       "title": "AI's economics don't make sense",
-      "summary": "Related: AI's biggest critic has lost the plot - https://news.ycombinator.com/item?id=47934353 Comments URL: https://news.ycombinator.com/item?id=47936867 Points: 217 # Comments: 174",
+      "summary": "Related: AI's biggest critic has lost the plot - https://news.ycombinator.com/item?id=47934353 Comments URL: https://news.ycombinator.com/item?id=47936867 Points: 224 # Comments: 182",
       "source": "Hacker News",
       "published": "2026-04-28T16:39:53+00:00",
       "link": "https://www.wheresyoured.at/ais-economics-dont-make-sense/"
     },
     {
       "title": "Google and Pentagon reportedly agree on deal for 'any lawful' use of AI",
-      "summary": "Article URL: https://www.theverge.com/ai-artificial-intelligence/919494/google-pentagon-classified-ai-deal Comments URL: https://news.ycombinator.com/item?id=47936156 Points: 293 # Comments: 270",
+      "summary": "Article URL: https://www.theverge.com/ai-artificial-intelligence/919494/google-pentagon-classified-ai-deal Comments URL: https://news.ycombinator.com/item?id=47936156 Points: 305 # Comments: 274",
       "source": "Hacker News",
       "published": "2026-04-28T15:49:22+00:00",
       "link": "https://www.theverge.com/ai-artificial-intelligence/919494/google-pentagon-classified-ai-deal"
@@ -339,7 +416,7 @@ const FEED_DATA = {
     },
     {
       "title": "OpenAI misses revenue, is the AI bubble bursting?",
-      "summary": "Article URL: https://www.cnbc.com/2026/04/28/openai-reportedly-missed-revenue-targets-shares-of-oracle-and-these-chip-stocks-are-falling.html Comments URL: https://news.ycombinator.com/item?id=47933430 Points: 56 # Comments: 35",
+      "summary": "Article URL: https://www.cnbc.com/2026/04/28/openai-reportedly-missed-revenue-targets-shares-of-oracle-and-these-chip-stocks-are-falling.html Comments URL: https://news.ycombinator.com/item?id=47933430 Points: 57 # Comments: 35",
       "source": "Hacker News",
       "published": "2026-04-28T12:15:13+00:00",
       "link": "https://www.cnbc.com/2026/04/28/openai-reportedly-missed-revenue-targets-shares-of-oracle-and-these-chip-stocks-are-falling.html"
@@ -360,7 +437,7 @@ const FEED_DATA = {
     },
     {
       "title": "VibeVoice: Open-source frontier voice AI",
-      "summary": "Article URL: https://github.com/microsoft/VibeVoice Comments URL: https://news.ycombinator.com/item?id=47933236 Points: 372 # Comments: 169",
+      "summary": "Article URL: https://github.com/microsoft/VibeVoice Comments URL: https://news.ycombinator.com/item?id=47933236 Points: 381 # Comments: 176",
       "source": "Hacker News",
       "published": "2026-04-28T11:56:04+00:00",
       "link": "https://github.com/microsoft/VibeVoice"
@@ -395,7 +472,7 @@ const FEED_DATA = {
     },
     {
       "title": "The Social Edge of Intelligence: Individual Gain, Collective Loss",
-      "summary": "Article URL: https://www.theideasletter.org/essay/the-social-edge-of-intelligence/ Comments URL: https://news.ycombinator.com/item?id=47932446 Points: 73 # Comments: 86",
+      "summary": "Article URL: https://www.theideasletter.org/essay/the-social-edge-of-intelligence/ Comments URL: https://news.ycombinator.com/item?id=47932446 Points: 75 # Comments: 87",
       "source": "Hacker News",
       "published": "2026-04-28T10:08:38+00:00",
       "link": "https://www.theideasletter.org/essay/the-social-edge-of-intelligence/"
@@ -598,7 +675,7 @@ const FEED_DATA = {
     },
     {
       "title": "China blocks Meta's acquisition of AI startup Manus",
-      "summary": "https://www.reuters.com/world/asia-pacific/china-blocks-fore...https://www.bbc.com/news/articles/cj0v0gr2yz7o Comments URL: https://news.ycombinator.com/item?id=47920315 Points: 394 # Comments: 322",
+      "summary": "https://www.reuters.com/world/asia-pacific/china-blocks-fore...https://www.bbc.com/news/articles/cj0v0gr2yz7o Comments URL: https://news.ycombinator.com/item?id=47920315 Points: 394 # Comments: 324",
       "source": "Hacker News",
       "published": "2026-04-27T11:43:59+00:00",
       "link": "https://www.cnbc.com/2026/04/27/meta-manus-china-blocks-acquisition-ai-startup.html"
@@ -626,7 +703,7 @@ const FEED_DATA = {
     },
     {
       "title": "Mistral built a $14B AI empire by not being American",
-      "summary": "Article URL: https://www.forbes.com/sites/iainmartin/2026/04/16/how-frances-mistral-built-a-14-billion-ai-empire-by-not-being-american/ Comments URL: https://news.ycombinator.com/item?id=47919725 Points: 219 # Comments: 174",
+      "summary": "Article URL: https://www.forbes.com/sites/iainmartin/2026/04/16/how-frances-mistral-built-a-14-billion-ai-empire-by-not-being-american/ Comments URL: https://news.ycombinator.com/item?id=47919725 Points: 219 # Comments: 176",
       "source": "Hacker News",
       "published": "2026-04-27T10:14:15+00:00",
       "link": "https://www.forbes.com/sites/iainmartin/2026/04/16/how-frances-mistral-built-a-14-billion-ai-empire-by-not-being-american/"
@@ -640,14 +717,14 @@ const FEED_DATA = {
     },
     {
       "title": "4TB of voice samples just stolen from 40k AI contractors at Mercor",
-      "summary": "Article URL: https://app.oravys.com/blog/mercor-breach-2026 Comments URL: https://news.ycombinator.com/item?id=47919630 Points: 587 # Comments: 223",
+      "summary": "Article URL: https://app.oravys.com/blog/mercor-breach-2026 Comments URL: https://news.ycombinator.com/item?id=47919630 Points: 588 # Comments: 223",
       "source": "Hacker News",
       "published": "2026-04-27T09:57:10+00:00",
       "link": "https://app.oravys.com/blog/mercor-breach-2026"
     },
     {
       "title": "Moleskine's AI Lord of the Rings collection can only mock",
-      "summary": "Article URL: https://cjleo.com/blog/moleskine-ai-lord-of-the-rings-collection-can-only-mock/ Comments URL: https://news.ycombinator.com/item?id=47919386 Points: 73 # Comments: 101",
+      "summary": "Article URL: https://cjleo.com/blog/moleskine-ai-lord-of-the-rings-collection-can-only-mock/ Comments URL: https://news.ycombinator.com/item?id=47919386 Points: 73 # Comments: 102",
       "source": "Hacker News",
       "published": "2026-04-27T09:19:06+00:00",
       "link": "https://cjleo.com/blog/moleskine-ai-lord-of-the-rings-collection-can-only-mock/"
@@ -668,7 +745,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI can cost more than human workers now",
-      "summary": "Article URL: https://www.axios.com/2026/04/26/ai-cost-human-workers Comments URL: https://news.ycombinator.com/item?id=47918009 Points: 89 # Comments: 59",
+      "summary": "Article URL: https://www.axios.com/2026/04/26/ai-cost-human-workers Comments URL: https://news.ycombinator.com/item?id=47918009 Points: 90 # Comments: 60",
       "source": "Hacker News",
       "published": "2026-04-27T05:28:39+00:00",
       "link": "https://www.axios.com/2026/04/26/ai-cost-human-workers"
@@ -689,7 +766,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI should elevate your thinking, not replace it",
-      "summary": "Article URL: https://www.koshyjohn.com/blog/ai-should-elevate-your-thinking-not-replace-it/ Comments URL: https://news.ycombinator.com/item?id=47913650 Points: 849 # Comments: 592",
+      "summary": "Article URL: https://www.koshyjohn.com/blog/ai-should-elevate-your-thinking-not-replace-it/ Comments URL: https://news.ycombinator.com/item?id=47913650 Points: 855 # Comments: 593",
       "source": "Hacker News",
       "published": "2026-04-26T20:03:12+00:00",
       "link": "https://www.koshyjohn.com/blog/ai-should-elevate-your-thinking-not-replace-it/"
@@ -1323,83 +1400,6 @@ const FEED_DATA = {
       "source": "AI News",
       "published": "2026-04-23T12:30:00+00:00",
       "link": "https://www.artificialintelligence-news.com/news/the-billion-dollar-startup-with-a-different-idea-for-ai-ami-labs-yann-lecun/"
-    },
-    {
-      "title": "NVIDIA and Google infrastructure cuts AI inference costs",
-      "summary": "At the Google Cloud Next conference, Google and NVIDIA outlined their hardware roadmap designed to address the cost of AI inference at scale. The companies detailed the new A5X bare-metal instances, which run on NVIDIA Vera Rubin NVL72 rack-scale systems.",
-      "source": "AI News",
-      "published": "2026-04-23T12:19:36+00:00",
-      "link": "https://www.artificialintelligence-news.com/news/nvidia-and-google-infrastructure-cuts-ai-inference-costs/"
-    },
-    {
-      "title": "The Download: introducing the Nature issue",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Introducing: the Nature issue When we talk about “nature,” we usually mean something untouched by humans.",
-      "source": "MIT Tech Review",
-      "published": "2026-04-23T12:10:00+00:00",
-      "link": "https://www.technologyreview.com/2026/04/23/1136346/the-download-introducing-nature-issue/"
-    },
-    {
-      "title": "Microsoft launches ‘vibe working’ in Word, Excel, and PowerPoint",
-      "summary": "Microsoft is rolling out a new Agent Mode inside Office apps like Word, Excel, and PowerPoint this week.",
-      "source": "The Verge",
-      "published": "2026-04-23T11:34:18+00:00",
-      "link": "https://www.theverge.com/news/917328/microsoft-agent-mode-vibe-working-office-word-excel-powerpoint"
-    },
-    {
-      "title": "OpenAI says its new ChatGPT for Clinicians outperforms doctors on clinical tasks even when they have unlimited time and web access",
-      "summary": "OpenAI is rolling out ChatGPT for Clinicians, a free version of its chatbot for medical professionals. A new benchmark claims GPT-5.4 beats human doctors on clinical tasks, even when those doctors have unlimited time and internet access.",
-      "source": "The Decoder",
-      "published": "2026-04-23T10:21:15+00:00",
-      "link": "https://the-decoder.com/openai-says-its-new-chatgpt-for-clinicians-outperforms-doctors-on-clinical-tasks-even-when-they-have-unlimited-time-and-web-access/"
-    },
-    {
-      "title": "Sony AI robot beats players as humanoid robot wins Beijing race",
-      "summary": "An autonomous table tennis robot developed by Sony AI has competed against and defeated high-level human players in regulated matches, according to Reuters.",
-      "source": "AI News",
-      "published": "2026-04-23T10:00:00+00:00",
-      "link": "https://www.artificialintelligence-news.com/news/sony-ai-robot-table-tennis-humanoid-robot-beijing-race/"
-    },
-    {
-      "title": "Do you want the US to \"win\" AI?",
-      "summary": "Article URL: https://geohot.github.io//blog/jekyll/update/2026/04/23/us-win-ai.html Comments URL: https://news.ycombinator.com/item?id=47873796 Points: 54 # Comments: 105",
-      "source": "Hacker News",
-      "published": "2026-04-23T09:41:20+00:00",
-      "link": "https://geohot.github.io//blog/jekyll/update/2026/04/23/us-win-ai.html"
-    },
-    {
-      "title": "Our newsroom AI policy",
-      "summary": "Article URL: https://arstechnica.com/staff/2026/04/our-newsroom-ai-policy/ Comments URL: https://news.ycombinator.com/item?id=47872452 Points: 207 # Comments: 131",
-      "source": "Hacker News",
-      "published": "2026-04-23T05:14:05+00:00",
-      "link": "https://arstechnica.com/staff/2026/04/our-newsroom-ai-policy/"
-    },
-    {
-      "title": "India’s app market is booming — but global platforms are capturing most of the gains",
-      "summary": "Non-gaming apps, led by streaming and AI, are driving growth, even as India's spending per user lags global peers.",
-      "source": "TechCrunch",
-      "published": "2026-04-23T04:38:45+00:00",
-      "link": "https://techcrunch.com/2026/04/22/indias-app-market-is-booming-but-global-platforms-are-capturing-most-of-the-gains/"
-    },
-    {
-      "title": "Tesla just increased its spending plan to $25B — here’s where the money is going",
-      "summary": "Tesla's planned capex for 2026 is three times higher than what the company has historically spent. Its CFO said, as a result, Tesla will have a negative free cash flow the rest of the year.",
-      "source": "TechCrunch",
-      "published": "2026-04-22T23:56:52+00:00",
-      "link": "https://techcrunch.com/2026/04/22/tesla-just-increased-its-capex-to-25b-heres-where-the-money-is-going/"
-    },
-    {
-      "title": "Google updates Workspace to make AI your new office intern",
-      "summary": "Google has introduced a host of new automated functions into Workspace, all of which are driven by Workspace Intelligence, its new AI system.",
-      "source": "TechCrunch",
-      "published": "2026-04-22T22:44:26+00:00",
-      "link": "https://techcrunch.com/2026/04/22/google-updates-workspace-to-make-ai-your-new-office-intern/"
-    },
-    {
-      "title": "Hands on with X’s new AI-powered custom feeds",
-      "summary": "X's AI-powered custom timelines are replacing Communities, with Grok-curated feeds...and new ad slots.",
-      "source": "TechCrunch",
-      "published": "2026-04-22T22:25:53+00:00",
-      "link": "https://techcrunch.com/2026/04/22/hands-on-with-xs-new-ai-powered-custom-feeds/"
     }
   ]
 };
