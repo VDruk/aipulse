@@ -1,9 +1,51 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-04-29T07:25:19.143572+00:00",
+  "lastUpdated": "2026-04-29T10:44:44.071423+00:00",
   "items": [
     {
+      "title": "China freezes new robotaxi licenses after Baidu chaos",
+      "summary": "China has suspended new licenses for autonomous vehicles, Bloomberg reports, citing unnamed people familiar with the matter. The move comes after dozens of robotaxis operated by Chinese tech giant Baidu ground to a halt in traffic last month in Wuhan, creating chaos.",
+      "source": "The Verge",
+      "published": "2026-04-29T10:39:21+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/920312/china-suspends-autonomous-vehicle-permits-baidu-chaos"
+    },
+    {
+      "title": "When Robots Have Their ChatGPT Moment, Remember These Pincers",
+      "summary": "From sorting chicken nuggets to screwing in light bulbs, Eka’s robots are eerily lifelike. But do they have real physical smarts?",
+      "source": "Wired",
+      "published": "2026-04-29T10:00:00+00:00",
+      "link": "https://www.wired.com/story/when-robots-have-their-chatgpt-moment-remember-these-pincers/"
+    },
+    {
+      "title": "Coby Adcock’s Scout AI raises $100 million to train its models for war. We visited its bootcamp.",
+      "summary": "We visited Scout AI's training ground where it's working on AI agents that give individual soldiers control of fleets of autonomous vehicles.",
+      "source": "TechCrunch",
+      "published": "2026-04-29T09:45:00+00:00",
+      "link": "https://techcrunch.com/2026/04/29/coby-adcocks-scout-ai-raises-100-million-to-train-models-for-war-we-visited-its-bootcamp/"
+    },
+    {
+      "title": "With Nemotron 3 Nano Omni, Nvidia reveals what really goes into a modern multimodal model",
+      "summary": "Nvidia releases Nemotron 3 Nano Omni, an open multimodal model for text, image, video and audio. Not only the performance is exciting, but also a look at the training data: it comes from Qwen, GPT-OSS, Kimi and DeepSeek OCR, among others.",
+      "source": "The Decoder",
+      "published": "2026-04-29T09:28:29+00:00",
+      "link": "https://the-decoder.com/with-nemotron-3-nano-omni-nvidia-reveals-what-really-goes-into-a-modern-multimodal-model/"
+    },
+    {
+      "title": "General Motors is adding Gemini to four million cars",
+      "summary": "General Motors is planning to bring Google's Gemini AI assistant to around four million vehicles across the US.",
+      "source": "The Verge",
+      "published": "2026-04-29T09:14:38+00:00",
+      "link": "https://www.theverge.com/transportation/920285/general-motors-gm-gemini-ai-update"
+    },
+    {
+      "title": "How AI Could Help Combat Antibiotic Resistance",
+      "summary": "At WIRED Health, British surgeon Ara Darzi said AI is set to transform the diagnosis and treatment of drug-resistant infections. But a lack of incentives means innovation may not reach patients.",
+      "source": "Wired",
+      "published": "2026-04-29T09:00:00+00:00",
+      "link": "https://www.wired.com/story/wired-health-2026-tackling-antimicrobial-resistance-ara-darzi/"
+    },
+    {
       "title": "We decreased our LLM costs with Opus",
-      "summary": "Article URL: https://www.mendral.com/blog/frontier-model-lower-costs Comments URL: https://news.ycombinator.com/item?id=47942903 Points: 85 # Comments: 29",
+      "summary": "Article URL: https://www.mendral.com/blog/frontier-model-lower-costs Comments URL: https://news.ycombinator.com/item?id=47942903 Points: 89 # Comments: 29",
       "source": "Hacker News",
       "published": "2026-04-29T00:57:12+00:00",
       "link": "https://www.mendral.com/blog/frontier-model-lower-costs"
@@ -31,7 +73,7 @@ const FEED_DATA = {
     },
     {
       "title": "Elon Musk tells the jury that all he wants to do is save humanity",
-      "summary": "On the stand, Elon Musk is positioning himself as a savior. In the high-profile trial between him and his fellow OpenAI co-founder, now CEO, Sam Altman, Musk opened by going through his background.",
+      "summary": "On the stand, Elon Musk is positioning himself as a savior. In the high-profile trial between him and his fellow OpenAI cofounder, now CEO, Sam Altman, Musk opened by going through his background.",
       "source": "The Verge",
       "published": "2026-04-28T20:46:54+00:00",
       "link": "https://www.theverge.com/ai-artificial-intelligence/920048/elon-musk-testimony-save-humanity"
@@ -94,7 +136,7 @@ const FEED_DATA = {
     },
     {
       "title": "Claude.ai unavailable and elevated errors on the API",
-      "summary": "Article URL: https://status.claude.com/incidents/9l93x2ht4s5w Comments URL: https://news.ycombinator.com/item?id=47938097 Points: 282 # Comments: 242",
+      "summary": "Article URL: https://status.claude.com/incidents/9l93x2ht4s5w Comments URL: https://news.ycombinator.com/item?id=47938097 Points: 284 # Comments: 246",
       "source": "Hacker News",
       "published": "2026-04-28T18:01:21+00:00",
       "link": "https://status.claude.com/incidents/9l93x2ht4s5w"
@@ -115,10 +157,17 @@ const FEED_DATA = {
     },
     {
       "title": "AI's economics don't make sense",
-      "summary": "Related: AI's biggest critic has lost the plot - https://news.ycombinator.com/item?id=47934353 Comments URL: https://news.ycombinator.com/item?id=47936867 Points: 211 # Comments: 168",
+      "summary": "Related: AI's biggest critic has lost the plot - https://news.ycombinator.com/item?id=47934353 Comments URL: https://news.ycombinator.com/item?id=47936867 Points: 217 # Comments: 174",
       "source": "Hacker News",
       "published": "2026-04-28T16:39:53+00:00",
       "link": "https://www.wheresyoured.at/ais-economics-dont-make-sense/"
+    },
+    {
+      "title": "Google and Pentagon reportedly agree on deal for 'any lawful' use of AI",
+      "summary": "Article URL: https://www.theverge.com/ai-artificial-intelligence/919494/google-pentagon-classified-ai-deal Comments URL: https://news.ycombinator.com/item?id=47936156 Points: 293 # Comments: 270",
+      "source": "Hacker News",
+      "published": "2026-04-28T15:49:22+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/919494/google-pentagon-classified-ai-deal"
     },
     {
       "title": "Mistral AI takes on enterprise AI orchestration with Workflows",
@@ -178,7 +227,7 @@ const FEED_DATA = {
     },
     {
       "title": "OpenAI misses revenue, is the AI bubble bursting?",
-      "summary": "Article URL: https://www.cnbc.com/2026/04/28/openai-reportedly-missed-revenue-targets-shares-of-oracle-and-these-chip-stocks-are-falling.html Comments URL: https://news.ycombinator.com/item?id=47933430 Points: 53 # Comments: 35",
+      "summary": "Article URL: https://www.cnbc.com/2026/04/28/openai-reportedly-missed-revenue-targets-shares-of-oracle-and-these-chip-stocks-are-falling.html Comments URL: https://news.ycombinator.com/item?id=47933430 Points: 56 # Comments: 35",
       "source": "Hacker News",
       "published": "2026-04-28T12:15:13+00:00",
       "link": "https://www.cnbc.com/2026/04/28/openai-reportedly-missed-revenue-targets-shares-of-oracle-and-these-chip-stocks-are-falling.html"
@@ -199,7 +248,7 @@ const FEED_DATA = {
     },
     {
       "title": "VibeVoice: Open-source frontier voice AI",
-      "summary": "Article URL: https://github.com/microsoft/VibeVoice Comments URL: https://news.ycombinator.com/item?id=47933236 Points: 348 # Comments: 169",
+      "summary": "Article URL: https://github.com/microsoft/VibeVoice Comments URL: https://news.ycombinator.com/item?id=47933236 Points: 372 # Comments: 169",
       "source": "Hacker News",
       "published": "2026-04-28T11:56:04+00:00",
       "link": "https://github.com/microsoft/VibeVoice"
@@ -224,13 +273,6 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-04-28T11:10:05+00:00",
       "link": "https://the-decoder.com/google-signs-ai-deal-with-the-pentagon-ignoring-protest-from-over-600-employees/"
-    },
-    {
-      "title": "Google and Pentagon reportedly agree on deal for ‘any lawful’ use of AI",
-      "summary": "Google has signed a classified deal that allows the US Department of Defense to use its AI models for \"any lawful government purpose,\" The Information reports.",
-      "source": "The Verge",
-      "published": "2026-04-28T11:09:32+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/919494/google-pentagon-classified-ai-deal"
     },
     {
       "title": "Attack of the killer script kiddies",
@@ -444,7 +486,7 @@ const FEED_DATA = {
     },
     {
       "title": "China blocks Meta's acquisition of AI startup Manus",
-      "summary": "https://www.reuters.com/world/asia-pacific/china-blocks-fore...https://www.bbc.com/news/articles/cj0v0gr2yz7o Comments URL: https://news.ycombinator.com/item?id=47920315 Points: 393 # Comments: 320",
+      "summary": "https://www.reuters.com/world/asia-pacific/china-blocks-fore...https://www.bbc.com/news/articles/cj0v0gr2yz7o Comments URL: https://news.ycombinator.com/item?id=47920315 Points: 394 # Comments: 322",
       "source": "Hacker News",
       "published": "2026-04-27T11:43:59+00:00",
       "link": "https://www.cnbc.com/2026/04/27/meta-manus-china-blocks-acquisition-ai-startup.html"
@@ -486,14 +528,14 @@ const FEED_DATA = {
     },
     {
       "title": "4TB of voice samples just stolen from 40k AI contractors at Mercor",
-      "summary": "Article URL: https://app.oravys.com/blog/mercor-breach-2026 Comments URL: https://news.ycombinator.com/item?id=47919630 Points: 586 # Comments: 222",
+      "summary": "Article URL: https://app.oravys.com/blog/mercor-breach-2026 Comments URL: https://news.ycombinator.com/item?id=47919630 Points: 587 # Comments: 223",
       "source": "Hacker News",
       "published": "2026-04-27T09:57:10+00:00",
       "link": "https://app.oravys.com/blog/mercor-breach-2026"
     },
     {
       "title": "Moleskine's AI Lord of the Rings collection can only mock",
-      "summary": "Article URL: https://cjleo.com/blog/moleskine-ai-lord-of-the-rings-collection-can-only-mock/ Comments URL: https://news.ycombinator.com/item?id=47919386 Points: 73 # Comments: 100",
+      "summary": "Article URL: https://cjleo.com/blog/moleskine-ai-lord-of-the-rings-collection-can-only-mock/ Comments URL: https://news.ycombinator.com/item?id=47919386 Points: 73 # Comments: 101",
       "source": "Hacker News",
       "published": "2026-04-27T09:19:06+00:00",
       "link": "https://cjleo.com/blog/moleskine-ai-lord-of-the-rings-collection-can-only-mock/"
@@ -514,7 +556,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI can cost more than human workers now",
-      "summary": "Article URL: https://www.axios.com/2026/04/26/ai-cost-human-workers Comments URL: https://news.ycombinator.com/item?id=47918009 Points: 88 # Comments: 59",
+      "summary": "Article URL: https://www.axios.com/2026/04/26/ai-cost-human-workers Comments URL: https://news.ycombinator.com/item?id=47918009 Points: 89 # Comments: 59",
       "source": "Hacker News",
       "published": "2026-04-27T05:28:39+00:00",
       "link": "https://www.axios.com/2026/04/26/ai-cost-human-workers"
@@ -535,7 +577,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI should elevate your thinking, not replace it",
-      "summary": "Article URL: https://www.koshyjohn.com/blog/ai-should-elevate-your-thinking-not-replace-it/ Comments URL: https://news.ycombinator.com/item?id=47913650 Points: 848 # Comments: 592",
+      "summary": "Article URL: https://www.koshyjohn.com/blog/ai-should-elevate-your-thinking-not-replace-it/ Comments URL: https://news.ycombinator.com/item?id=47913650 Points: 849 # Comments: 592",
       "source": "Hacker News",
       "published": "2026-04-26T20:03:12+00:00",
       "link": "https://www.koshyjohn.com/blog/ai-should-elevate-your-thinking-not-replace-it/"
@@ -549,7 +591,7 @@ const FEED_DATA = {
     },
     {
       "title": "An AI agent deleted our production database. The agent's confession is below",
-      "summary": "Article URL: https://twitter.com/lifeof_jer/status/2048103471019434248 Comments URL: https://news.ycombinator.com/item?id=47911524 Points: 841 # Comments: 1014",
+      "summary": "Article URL: https://twitter.com/lifeof_jer/status/2048103471019434248 Comments URL: https://news.ycombinator.com/item?id=47911524 Points: 842 # Comments: 1015",
       "source": "Hacker News",
       "published": "2026-04-26T16:27:29+00:00",
       "link": "https://twitter.com/lifeof_jer/status/2048103471019434248"
@@ -1358,48 +1400,6 @@ const FEED_DATA = {
       "source": "The Verge",
       "published": "2026-04-22T16:38:19+00:00",
       "link": "https://www.theverge.com/tech/916779/google-meet-ai-notetaker-in-person-meetings"
-    },
-    {
-      "title": "Startups brag they spend more money on AI than human employees",
-      "summary": "Article URL: https://www.404media.co/startups-brag-they-spend-more-money-on-ai-than-human-employees/ Comments URL: https://news.ycombinator.com/item?id=47865923 Points: 53 # Comments: 47",
-      "source": "Hacker News",
-      "published": "2026-04-22T16:34:21+00:00",
-      "link": "https://www.404media.co/startups-brag-they-spend-more-money-on-ai-than-human-employees/"
-    },
-    {
-      "title": "AI Tools Are Helping Mediocre North Korean Hackers Steal Millions",
-      "summary": "One group of hackers used AI for everything from vibe coding their malware to creating fake company websites—and stole as much as $12 million in three months.",
-      "source": "Wired",
-      "published": "2026-04-22T16:00:00+00:00",
-      "link": "https://www.wired.com/story/ai-tools-are-helping-mediocre-north-korean-hackers-steal-millions/"
-    },
-    {
-      "title": "Reversing enterprise security costs with AI vulnerability discovery",
-      "summary": "Automated AI vulnerability discovery is reversing the enterprise security costs that traditionally favour attackers. Bringing exploits to zero was once viewed as an unrealistic goal.",
-      "source": "AI News",
-      "published": "2026-04-22T15:45:14+00:00",
-      "link": "https://www.artificialintelligence-news.com/news/reversing-enterprise-security-costs-with-ai-vulnerability-discovery/"
-    },
-    {
-      "title": "Google unveils 8th-gen TPUs, agent platform, and Workspace AI layer at Cloud Next '26",
-      "summary": "Google used its Cloud Next '26 conference to unveil its eighth-generation TPUs, a revamped agent platform, and a new AI layer for Workspace.",
-      "source": "The Decoder",
-      "published": "2026-04-22T15:34:51+00:00",
-      "link": "https://the-decoder.com/google-unveils-8th-gen-tpus-agent-platform-and-workspace-ai-layer-at-cloud-next-26/"
-    },
-    {
-      "title": "Top MAGA influencer revealed to be AI",
-      "summary": "Article URL: https://nypost.com/2026/04/21/us-news/top-maga-influencer-emily-hart-revealed-to-be-ai-created-by-a-guy-in-india/ Comments URL: https://news.ycombinator.com/item?id=47864808 Points: 98 # Comments: 54",
-      "source": "Hacker News",
-      "published": "2026-04-22T15:15:04+00:00",
-      "link": "https://nypost.com/2026/04/21/us-news/top-maga-influencer-emily-hart-revealed-to-be-ai-created-by-a-guy-in-india/"
-    },
-    {
-      "title": "Scoring Show HN submissions for AI design patterns",
-      "summary": "Article URL: https://www.adriankrebs.ch/blog/design-slop/ Comments URL: https://news.ycombinator.com/item?id=47864393 Points: 330 # Comments: 233",
-      "source": "Hacker News",
-      "published": "2026-04-22T14:44:32+00:00",
-      "link": "https://www.adriankrebs.ch/blog/design-slop/"
     }
   ]
 };
