@@ -1,6 +1,125 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-04-30T10:43:30.059038+00:00",
+  "lastUpdated": "2026-04-30T15:11:56.195993+00:00",
   "items": [
+    {
+      "title": "All these smart glasses and nothing to do",
+      "summary": "I'm currently wearing a pair of smart glasses called the Even Realities G2. Another two pairs, from Rokid, sit on my desk.",
+      "source": "The Verge",
+      "published": "2026-04-30T15:00:00+00:00",
+      "link": "https://www.theverge.com/tech/921159/smart-glasses-review-wearable-even-realities-g2-meta-ray-ban-rokid-lucyd-oakley-meta-vanguard"
+    },
+    {
+      "title": "OpenAI talks about not talking about goblins",
+      "summary": "OpenAI is opening up about its goblin problem.",
+      "source": "The Verge",
+      "published": "2026-04-30T13:42:29+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/921181/openai-codex-goblins"
+    },
+    {
+      "title": "Google CEO says Pichai says people \"love\" AI Overviews and keep coming back to search more",
+      "summary": "Alphabet is investing up to $190 billion in AI and cloud infrastructure through 2026, and the company says spending will rise \"significantly\" again in 2027.",
+      "source": "The Decoder",
+      "published": "2026-04-30T13:38:54+00:00",
+      "link": "https://the-decoder.com/google-ceo-says-pichai-says-people-love-ai-overviews-and-keep-coming-back-to-search-more/"
+    },
+    {
+      "title": "Verified by Spotify badge lets you know this artist isn’t AI",
+      "summary": "Spotify is launching a new verification program to combat spam, fakes, and AI. Some artists will now have a \"Verified by Spotify\" badge and a green checkmark on their profile, indicating that the company has confirmed a real person is behind the music and the profile.",
+      "source": "The Verge",
+      "published": "2026-04-30T13:08:23+00:00",
+      "link": "https://www.theverge.com/tech/921048/verified-by-spotify-badge"
+    },
+    {
+      "title": "OpenAI says it hit its 10 gigawatt compute goal years ahead of schedule",
+      "summary": "OpenAI says it has reached its goal of 10 gigawatts of AI compute capacity in the United States several years ahead of schedule. The article OpenAI says it hit its 10 gigawatt compute goal years ahead of schedule appeared first on The Decoder.",
+      "source": "The Decoder",
+      "published": "2026-04-30T12:45:11+00:00",
+      "link": "https://the-decoder.com/openai-says-it-hit-its-10-gigawatt-compute-goal-years-ahead-of-schedule/"
+    },
+    {
+      "title": "Anthropic's new benchmark claims Claude can match human experts in bioinformatics",
+      "summary": "With BioMysteryBench, Anthropic wants to show that Claude can solve real bioinformatics problems at an expert level. The results are promising, but come with important caveats.",
+      "source": "The Decoder",
+      "published": "2026-04-30T12:31:31+00:00",
+      "link": "https://the-decoder.com/anthropics-new-benchmark-claims-claude-can-match-human-experts-in-bioinformatics/"
+    },
+    {
+      "title": "Tencent's 440 MB AI model translates 33 languages offline on your phone",
+      "summary": "Tencent has released a compact AI translation model as an open-weight model that it claims outperforms Google Translate and runs completely offline on smartphones. The article Tencent's 440 MB AI model translates 33 languages offline on your phone appeared first on The Decoder.",
+      "source": "The Decoder",
+      "published": "2026-04-30T12:24:34+00:00",
+      "link": "https://the-decoder.com/tencents-440-mb-ai-model-translates-33-languages-offline-on-your-phone/"
+    },
+    {
+      "title": "White House worried about compute limits as it blocks wider access to Anthropic's Mythos",
+      "summary": "The White House has rejected Anthropic's plan to expand access to its AI model Mythos to roughly 70 additional companies, the Wall Street Journal reports.",
+      "source": "The Decoder",
+      "published": "2026-04-30T12:14:46+00:00",
+      "link": "https://the-decoder.com/white-house-worried-about-compute-limits-as-it-blocks-wider-access-to-anthropics-mythos/"
+    },
+    {
+      "title": "FDA bets on AI and cloud monitoring for clinical trials as it looks to rebuild after DOGE layoffs",
+      "summary": "The FDA is launching a pilot program to monitor clinical trials in real time using AI and cloud computing, a move the agency says could dramatically shorten the time it takes to approve new drugs.",
+      "source": "The Decoder",
+      "published": "2026-04-30T12:11:22+00:00",
+      "link": "https://the-decoder.com/fda-bets-on-ai-and-cloud-monitoring-for-clinical-trials-as-it-looks-to-rebuild-after-doge-layoffs/"
+    },
+    {
+      "title": "The Download: the North Pole’s future and humanoid data",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.",
+      "source": "MIT Tech Review",
+      "published": "2026-04-30T12:10:00+00:00",
+      "link": "https://www.technologyreview.com/2026/04/30/1136713/the-download-north-pole-future-humanoid-data/"
+    },
+    {
+      "title": "Meta says its business AI now facilitates 10 million conversations a week",
+      "summary": "Meta said over 8 billion advertisers have used at least one of its gen AI tools",
+      "source": "TechCrunch",
+      "published": "2026-04-30T12:08:45+00:00",
+      "link": "https://techcrunch.com/2026/04/30/meta-says-its-business-ai-now-facilitates-10-million-conversations-a-week/"
+    },
+    {
+      "title": "Anthropic reviewing investor offers that would value the company at over $900 billion",
+      "summary": "Anthropic is reviewing investor offers for a new funding round that would value the AI company at over $900 billion, Bloomberg reports. The article Anthropic reviewing investor offers that would value the company at over $900 billion appeared first on The Decoder.",
+      "source": "The Decoder",
+      "published": "2026-04-30T12:07:24+00:00",
+      "link": "https://the-decoder.com/anthropic-reviewing-investor-offers-that-would-value-the-company-at-over-900-billion/"
+    },
+    {
+      "title": "Softbank plans IPO for new AI and robotics company valued at up to $100 billion",
+      "summary": "Softbank is planning to launch and take public a new AI and robotics company called Roze in the United States, the Financial Times reports. The article Softbank plans IPO for new AI and robotics company valued at up to $100 billion appeared first on The Decoder.",
+      "source": "The Decoder",
+      "published": "2026-04-30T12:05:10+00:00",
+      "link": "https://the-decoder.com/softbank-plans-ipo-for-new-ai-and-robotics-company-valued-at-up-to-100-billion/"
+    },
+    {
+      "title": "Meta lost 20 million users last quarter",
+      "summary": "Meta is planning to pump billions more into AI investments this year, despite noting that millions of users have seemingly started to abandon its platforms.",
+      "source": "The Verge",
+      "published": "2026-04-30T11:38:26+00:00",
+      "link": "https://www.theverge.com/tech/921089/meta-earnings-q1-2026-user-decline-ai-investments"
+    },
+    {
+      "title": "A guide to APIs, MCPs, and MCP Gateways",
+      "summary": "APIs and MCPs are often mentioned in the same breath as ways that systems can exchange information, but they are designed differently and have different purposes.",
+      "source": "AI News",
+      "published": "2026-04-30T11:18:00+00:00",
+      "link": "https://www.artificialintelligence-news.com/news/a-guide-to-apis-and-mcps-and-mcp-gateways/"
+    },
+    {
+      "title": "OpenAI’s new security model is for ‘critical cyber defenders’ only",
+      "summary": "OpenAI is preparing to launch a new frontier cybersecurity model, GPT-5.5-Cyber.",
+      "source": "The Verge",
+      "published": "2026-04-30T11:09:01+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/921073/openai-sam-altman-new-cybersecurity-model-gpt-5-5-cyber"
+    },
+    {
+      "title": "The more young people use AI, the more they hate it",
+      "summary": "It's been almost three years since Silicon Valley started aggressively pushing large language model-based chatbots like ChatGPT as the supposedly inevitable future of everything, and there's no group that has felt the pressure quite like Gen Z.",
+      "source": "The Verge",
+      "published": "2026-04-30T11:00:00+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/920401/gen-z-ai"
+    },
     {
       "title": "These Men Allegedly Profit Off Teaching People How to Make AI Porn",
       "summary": "Three Arizona women have filed a lawsuit against a group of men that alleges they used the women’s photos to make AI porn influencers, then offered online courses showing others how to do it.",
@@ -9,11 +128,32 @@ const FEED_DATA = {
       "link": "https://www.wired.com/story/ai-porn-lawsuit-arizona/"
     },
     {
+      "title": "AI agent governance takes focus as regulators flag control gaps",
+      "summary": "Australia’s financial regulator has warned financial firms that AI agent governance and assurance practices are poorly governed. The warning comes as banks and superannuation trustees expand AI in internal and customer-facing operations.",
+      "source": "AI News",
+      "published": "2026-04-30T10:00:00+00:00",
+      "link": "https://www.artificialintelligence-news.com/news/ai-agent-governance-control-gaps/"
+    },
+    {
+      "title": "Big Tech just proved AI infrastructure spending works. Then it raised the bill anyway",
+      "summary": "Every cloud beat. Every capex forecast rose.",
+      "source": "AI News",
+      "published": "2026-04-30T10:00:00+00:00",
+      "link": "https://www.artificialintelligence-news.com/news/big-tech-ai-infrastructure-spending-q1-2026-results/"
+    },
+    {
       "title": "Reid Hoffman Thinks Doctors Should Ask AI for a Second Opinion",
       "summary": "The LinkedIn cofounder now has an AI drug discovery startup—and thinks not asking chatbots for medical advice is “bordering on committing malpractice.”",
       "source": "Wired",
       "published": "2026-04-30T09:00:00+00:00",
       "link": "https://www.wired.com/story/reid-hoffman-ai-doctor-second-opinion-wired-health/"
+    },
+    {
+      "title": "DataCenter.FM – background noise app featuring the sound of the AI bubble",
+      "summary": "Article URL: https://datacenter.fm/ Comments URL: https://news.ycombinator.com/item?id=47959513 Points: 90 # Comments: 18",
+      "source": "Hacker News",
+      "published": "2026-04-30T07:52:12+00:00",
+      "link": "https://datacenter.fm/"
     },
     {
       "title": "SoftBank is creating a robotics company that builds data centers — and already eyeing a $100B IPO",
@@ -24,7 +164,7 @@ const FEED_DATA = {
     },
     {
       "title": "The Zig project's rationale for their anti-AI contribution policy",
-      "summary": "Article URL: https://simonwillison.net/2026/Apr/30/zig-anti-ai/ Comments URL: https://news.ycombinator.com/item?id=47957294 Points: 304 # Comments: 143",
+      "summary": "Article URL: https://simonwillison.net/2026/Apr/30/zig-anti-ai/ Comments URL: https://news.ycombinator.com/item?id=47957294 Points: 489 # Comments: 265",
       "source": "Hacker News",
       "published": "2026-04-30T02:15:47+00:00",
       "link": "https://simonwillison.net/2026/Apr/30/zig-anti-ai/"
@@ -38,14 +178,14 @@ const FEED_DATA = {
     },
     {
       "title": "Claude.ai and API unavailable [fixed]",
-      "summary": "https://status.claude.com/ Comments URL: https://news.ycombinator.com/item?id=47956895 Points: 115 # Comments: 112",
+      "summary": "https://status.claude.com/ Comments URL: https://news.ycombinator.com/item?id=47956895 Points: 118 # Comments: 115",
       "source": "Hacker News",
       "published": "2026-04-30T01:21:03+00:00",
       "link": "https://status.claude.com/incidents/2gf1jpyty350"
     },
     {
       "title": "Mike: open-source legal AI",
-      "summary": "Article URL: https://mikeoss.com/ Comments URL: https://news.ycombinator.com/item?id=47956739 Points: 103 # Comments: 42",
+      "summary": "Article URL: https://mikeoss.com/ Comments URL: https://news.ycombinator.com/item?id=47956739 Points: 165 # Comments: 79",
       "source": "Hacker News",
       "published": "2026-04-30T00:56:23+00:00",
       "link": "https://mikeoss.com/"
@@ -129,14 +269,14 @@ const FEED_DATA = {
     },
     {
       "title": "Your CEO is suffering from AI psychosis",
-      "summary": "Article URL: https://handyai.substack.com/p/your-ceo-is-suffering-from-ai-psychosis Comments URL: https://news.ycombinator.com/item?id=47953484 Points: 88 # Comments: 30",
+      "summary": "Article URL: https://handyai.substack.com/p/your-ceo-is-suffering-from-ai-psychosis Comments URL: https://news.ycombinator.com/item?id=47953484 Points: 97 # Comments: 31",
       "source": "Hacker News",
       "published": "2026-04-29T19:46:18+00:00",
       "link": "https://handyai.substack.com/p/your-ceo-is-suffering-from-ai-psychosis"
     },
     {
       "title": "\"People who don't use AI will be left behind\"",
-      "summary": "Article URL: https://migrainebrain.bearblog.dev/people-who-dont-use-ai-will-be-left-behind/ Comments URL: https://news.ycombinator.com/item?id=47953011 Points: 162 # Comments: 230",
+      "summary": "Article URL: https://migrainebrain.bearblog.dev/people-who-dont-use-ai-will-be-left-behind/ Comments URL: https://news.ycombinator.com/item?id=47953011 Points: 163 # Comments: 245",
       "source": "Hacker News",
       "published": "2026-04-29T19:15:52+00:00",
       "link": "https://migrainebrain.bearblog.dev/people-who-dont-use-ai-will-be-left-behind/"
@@ -164,7 +304,7 @@ const FEED_DATA = {
     },
     {
       "title": "Ramp's Sheets AI Exfiltrates Financials",
-      "summary": "Article URL: https://www.promptarmor.com/resources/ramps-sheets-ai-exfiltrates-financials Comments URL: https://news.ycombinator.com/item?id=47951786 Points: 130 # Comments: 42",
+      "summary": "Article URL: https://www.promptarmor.com/resources/ramps-sheets-ai-exfiltrates-financials Comments URL: https://news.ycombinator.com/item?id=47951786 Points: 132 # Comments: 48",
       "source": "Hacker News",
       "published": "2026-04-29T17:44:21+00:00",
       "link": "https://www.promptarmor.com/resources/ramps-sheets-ai-exfiltrates-financials"
@@ -178,7 +318,7 @@ const FEED_DATA = {
     },
     {
       "title": "The Abstraction Fallacy: Why AI can simulate but not instantiate consciousness",
-      "summary": "Article URL: https://deepmind.google/research/publications/231971/ Comments URL: https://news.ycombinator.com/item?id=47951582 Points: 67 # Comments: 120",
+      "summary": "Article URL: https://deepmind.google/research/publications/231971/ Comments URL: https://news.ycombinator.com/item?id=47951582 Points: 67 # Comments: 122",
       "source": "Hacker News",
       "published": "2026-04-29T17:30:15+00:00",
       "link": "https://deepmind.google/research/publications/231971/"
@@ -227,7 +367,7 @@ const FEED_DATA = {
     },
     {
       "title": "Why AI companies want you to be afraid of them",
-      "summary": "Article URL: https://www.bbc.com/future/article/20260428-ai-companies-want-you-to-be-afraid-of-them Comments URL: https://news.ycombinator.com/item?id=47949750 Points: 277 # Comments: 213",
+      "summary": "Article URL: https://www.bbc.com/future/article/20260428-ai-companies-want-you-to-be-afraid-of-them Comments URL: https://news.ycombinator.com/item?id=47949750 Points: 280 # Comments: 215",
       "source": "Hacker News",
       "published": "2026-04-29T15:26:01+00:00",
       "link": "https://www.bbc.com/future/article/20260428-ai-companies-want-you-to-be-afraid-of-them"
@@ -241,7 +381,7 @@ const FEED_DATA = {
     },
     {
       "title": "Making AI chatbots friendly leads to mistakes and support of conspiracy theories",
-      "summary": "Article URL: https://www.theguardian.com/technology/2026/apr/29/making-ai-chatbots-more-friendly-mistakes-support-false-beliefs-conspiracy-theories-study Comments URL: https://news.ycombinator.com/item?id=47949538 Points: 86 # Comments: 65",
+      "summary": "Article URL: https://www.theguardian.com/technology/2026/apr/29/making-ai-chatbots-more-friendly-mistakes-support-false-beliefs-conspiracy-theories-study Comments URL: https://news.ycombinator.com/item?id=47949538 Points: 88 # Comments: 70",
       "source": "Hacker News",
       "published": "2026-04-29T15:11:12+00:00",
       "link": "https://www.theguardian.com/technology/2026/apr/29/making-ai-chatbots-more-friendly-mistakes-support-false-beliefs-conspiracy-theories-study"
@@ -325,14 +465,14 @@ const FEED_DATA = {
     },
     {
       "title": "Letting AI play my game – building an agentic test harness to help play-testing",
-      "summary": "Article URL: https://blog.jeffschomay.com/letting-ai-play-my-game Comments URL: https://news.ycombinator.com/item?id=47947525 Points: 128 # Comments: 29",
+      "summary": "Article URL: https://blog.jeffschomay.com/letting-ai-play-my-game Comments URL: https://news.ycombinator.com/item?id=47947525 Points: 128 # Comments: 32",
       "source": "Hacker News",
       "published": "2026-04-29T12:43:12+00:00",
       "link": "https://blog.jeffschomay.com/letting-ai-play-my-game"
     },
     {
       "title": "He asked AI to count carbs 27000 times. It couldn't give the same answer twice",
-      "summary": "Article URL: https://www.diabettech.com/i-asked-ai-to-count-my-carbs-27000-times-it-couldnt-give-me-the-same-answer-twice/ Comments URL: https://news.ycombinator.com/item?id=47947490 Points: 238 # Comments: 297",
+      "summary": "Article URL: https://www.diabettech.com/i-asked-ai-to-count-my-carbs-27000-times-it-couldnt-give-me-the-same-answer-twice/ Comments URL: https://news.ycombinator.com/item?id=47947490 Points: 240 # Comments: 298",
       "source": "Hacker News",
       "published": "2026-04-29T12:38:50+00:00",
       "link": "https://www.diabettech.com/i-asked-ai-to-count-my-carbs-27000-times-it-couldnt-give-me-the-same-answer-twice/"
@@ -507,7 +647,7 @@ const FEED_DATA = {
     },
     {
       "title": "Claude.ai unavailable and elevated errors on the API",
-      "summary": "Article URL: https://status.claude.com/incidents/9l93x2ht4s5w Comments URL: https://news.ycombinator.com/item?id=47938097 Points: 295 # Comments: 250",
+      "summary": "Article URL: https://status.claude.com/incidents/9l93x2ht4s5w Comments URL: https://news.ycombinator.com/item?id=47938097 Points: 297 # Comments: 250",
       "source": "Hacker News",
       "published": "2026-04-28T18:01:21+00:00",
       "link": "https://status.claude.com/incidents/9l93x2ht4s5w"
@@ -528,14 +668,14 @@ const FEED_DATA = {
     },
     {
       "title": "AI's economics don't make sense",
-      "summary": "Related: AI's biggest critic has lost the plot - https://news.ycombinator.com/item?id=47934353 Comments URL: https://news.ycombinator.com/item?id=47936867 Points: 232 # Comments: 187",
+      "summary": "Related: AI's biggest critic has lost the plot - https://news.ycombinator.com/item?id=47934353 Comments URL: https://news.ycombinator.com/item?id=47936867 Points: 233 # Comments: 187",
       "source": "Hacker News",
       "published": "2026-04-28T16:39:53+00:00",
       "link": "https://www.wheresyoured.at/ais-economics-dont-make-sense/"
     },
     {
       "title": "Google and Pentagon reportedly agree on deal for 'any lawful' use of AI",
-      "summary": "Article URL: https://www.theverge.com/ai-artificial-intelligence/919494/google-pentagon-classified-ai-deal Comments URL: https://news.ycombinator.com/item?id=47936156 Points: 310 # Comments: 277",
+      "summary": "Article URL: https://www.theverge.com/ai-artificial-intelligence/919494/google-pentagon-classified-ai-deal Comments URL: https://news.ycombinator.com/item?id=47936156 Points: 312 # Comments: 278",
       "source": "Hacker News",
       "published": "2026-04-28T15:49:22+00:00",
       "link": "https://www.theverge.com/ai-artificial-intelligence/919494/google-pentagon-classified-ai-deal"
@@ -619,7 +759,7 @@ const FEED_DATA = {
     },
     {
       "title": "VibeVoice: Open-source frontier voice AI",
-      "summary": "Article URL: https://github.com/microsoft/VibeVoice Comments URL: https://news.ycombinator.com/item?id=47933236 Points: 385 # Comments: 179",
+      "summary": "Article URL: https://github.com/microsoft/VibeVoice Comments URL: https://news.ycombinator.com/item?id=47933236 Points: 385 # Comments: 180",
       "source": "Hacker News",
       "published": "2026-04-28T11:56:04+00:00",
       "link": "https://github.com/microsoft/VibeVoice"
@@ -1260,146 +1400,6 @@ const FEED_DATA = {
       "source": "Wired",
       "published": "2026-04-24T15:00:00+00:00",
       "link": "https://www.wired.com/story/apples-next-ceo-needs-to-launch-a-killer-ai-product/"
-    },
-    {
-      "title": "AirPods, Touch Bars, and the rest of Tim Cook’s legacy",
-      "summary": "We knew at some point Tim Cook would step down from his position as Apple's CEO. Over the last year, it has become increasingly obvious that John Ternus was his likely successor.",
-      "source": "The Verge",
-      "published": "2026-04-24T14:43:07+00:00",
-      "link": "https://www.theverge.com/podcast/917965/apple-ceo-cook-ternus-transition"
-    },
-    {
-      "title": "China moves to block tech firms from taking US money without government approval",
-      "summary": "China plans to block tech companies from accepting US capital without government approval, according to Bloomberg. The article China moves to block tech firms from taking US money without government approval appeared first on The Decoder.",
-      "source": "The Decoder",
-      "published": "2026-04-24T14:33:59+00:00",
-      "link": "https://the-decoder.com/china-moves-to-block-tech-firms-from-taking-us-money-without-government-approval/"
-    },
-    {
-      "title": "Show HN: Browser Harness – Gives LLM freedom to complete any browser task",
-      "summary": "Hey HN,We got tired of browser frameworks restricting the LLM, so we removed the framework and gave the LLM maximum freedom to do whatever it's trained on.",
-      "source": "Hacker News",
-      "published": "2026-04-24T14:31:38+00:00",
-      "link": "https://github.com/browser-use/browser-harness"
-    },
-    {
-      "title": "Meta buys tens of millions of AWS Graviton 5 processor cores from Amazon",
-      "summary": "Meta is purchasing tens of millions of AWS Graviton 5 processor cores from Amazon, making it one of the largest Graviton customers in the world. The article Meta buys tens of millions of AWS Graviton 5 processor cores from Amazon appeared first on The Decoder.",
-      "source": "The Decoder",
-      "published": "2026-04-24T14:12:58+00:00",
-      "link": "https://the-decoder.com/meta-buys-tens-of-millions-of-aws-graviton-5-processor-cores-from-amazon/"
-    },
-    {
-      "title": "Nothing introduces an AI-powered dictation tool",
-      "summary": "Nothing's new on-device dictation tool supports over 100 languages.",
-      "source": "TechCrunch",
-      "published": "2026-04-24T13:41:42+00:00",
-      "link": "https://techcrunch.com/2026/04/24/nothing-introduces-an-ai-powered-dictation-tool/"
-    },
-    {
-      "title": "DeepSeek previews new AI model that ‘closes the gap’ with frontier models",
-      "summary": "DeepSeek says both models are more efficient and performant than DeepSeek V3.2 due to architectural improvements, and have almost \"closed the gap\" with current leading models, both open and closed, on reasoning benchmarks.",
-      "source": "TechCrunch",
-      "published": "2026-04-24T13:30:59+00:00",
-      "link": "https://techcrunch.com/2026/04/24/deepseek-previews-new-ai-model-that-closes-the-gap-with-frontier-models/"
-    },
-    {
-      "title": "Cohere takes over Aleph Alpha shortly after the German startup ousted its original founder",
-      "summary": "Just months after founder Jonas Andrulis was pushed out, Canadian AI company Cohere is taking over Aleph Alpha - once hailed as Germany's answer to OpenAI. The Schwarz Group is putting $600 million into the deal.",
-      "source": "The Decoder",
-      "published": "2026-04-24T12:55:19+00:00",
-      "link": "https://the-decoder.com/cohere-takes-over-aleph-alpha-shortly-after-the-german-startup-ousted-its-original-founder/"
-    },
-    {
-      "title": "The Download: supercharged scams and studying AI healthcare",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. We’re in a new era of AI-driven scams When ChatGPT was released in late 2022, it showed how easily generative AI could create human-like text.",
-      "source": "MIT Tech Review",
-      "published": "2026-04-24T12:10:00+00:00",
-      "link": "https://www.technologyreview.com/2026/04/24/1136400/the-download-supercharged-scams-questionable-ai-healthcare/"
-    },
-    {
-      "title": "Show HN: Atomic – Local-first, AI-augmented personal knowledge base",
-      "summary": "Hey HN - I first posted about my knowledge base product, Atomic, here around a month ago; since then, a viral tweet by Karpathy has produced a torrent of AI powered knowledge base projects.",
-      "source": "Hacker News",
-      "published": "2026-04-24T12:07:30+00:00",
-      "link": "https://atomicapp.ai/"
-    },
-    {
-      "title": "Musk vs. Altman is here, and it’s going to get messy",
-      "summary": "Elon Musk cofounded OpenAI, and then flounced off in a huff when he wasn't anointed CEO, leaving Sam Altman as the last power-hungry man standing. Now, Musk is back with a lawsuit, and a trial is scheduled to start in Oakland, California, on April 27th.",
-      "source": "The Verge",
-      "published": "2026-04-24T12:00:00+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/917755/musk-altman-openai-xai-gossip"
-    },
-    {
-      "title": "In another wild turn for AI chips, Meta signs deal for millions of Amazon AI CPUs",
-      "summary": "Meta has commandeered a big chunk of Amazon's homegrown CPUs (not GPUs) for AI agentic workloads, signaling that a new kind of chip race has begun.",
-      "source": "TechCrunch",
-      "published": "2026-04-24T12:00:00+00:00",
-      "link": "https://techcrunch.com/2026/04/24/in-another-wild-turn-for-ai-chips-meta-signs-deal-for-millions-of-amazon-ai-cpus/"
-    },
-    {
-      "title": "Anthropic confirms Claude Code problems and promises stricter quality controls",
-      "summary": "Users complained about declining quality in Claude Code. Anthropic identified and fixed three separate sources of error.",
-      "source": "The Decoder",
-      "published": "2026-04-24T10:52:07+00:00",
-      "link": "https://the-decoder.com/anthropic-confirms-claude-code-problems-and-promises-stricter-quality-controls/"
-    },
-    {
-      "title": "China’s DeepSeek previews new AI model a year after jolting US rivals",
-      "summary": "Chinese AI company DeepSeek released a preview of its hotly anticipated next-generation AI model V4 on Friday, saying that the open-source model can compete with leading closed-source systems from US rivals including Anthropic, Google, and OpenAI.",
-      "source": "The Verge",
-      "published": "2026-04-24T09:45:30+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/918035/deepseek-preview-v4-ai-model"
-    },
-    {
-      "title": "Prestigious photo contest answers ‘what is a photo?’",
-      "summary": "We love to muse over how \"real\" photography is defined here at The Verge now that generative AI is so prolific, and the World Press Photo competition might have the answer. The prestigious award celebrates the best of photojournalism, where capturing reality is paramount.",
-      "source": "The Verge",
-      "published": "2026-04-24T09:40:07+00:00",
-      "link": "https://www.theverge.com/gadgets/918016/prestigious-photo-contest-answers-what-is-a-photo"
-    },
-    {
-      "title": "These AI Thirst Trap Creators Say They’re Misunderstood",
-      "summary": "A viral red carpet moment shone light on a group of hunky Instagram influencers—and the followers who are too horny to care that they’re not real.",
-      "source": "Wired",
-      "published": "2026-04-24T09:30:00+00:00",
-      "link": "https://www.wired.com/story/gay-ai-instagram-influencers-red-carpet/"
-    },
-    {
-      "title": "The Men Behind Your Favorite AI Gay Thirst Traps",
-      "summary": "A viral red carpet moment shone light on a group of hunky Instagram influencers—and the followers who are too horny to care that they’re not real.",
-      "source": "Wired",
-      "published": "2026-04-24T09:30:00+00:00",
-      "link": "https://www.wired.com/story/gay-ai-instagram-influencers-red-carpet/"
-    },
-    {
-      "title": "South Korea police arrest man for posting AI photo of runaway wolf",
-      "summary": "Article URL: https://www.bbc.com/news/articles/c4gx1n0dl9no Comments URL: https://news.ycombinator.com/item?id=47887683 Points: 235 # Comments: 157",
-      "source": "Hacker News",
-      "published": "2026-04-24T09:17:57+00:00",
-      "link": "https://www.bbc.com/news/articles/c4gx1n0dl9no"
-    },
-    {
-      "title": "Health-care AI is here. We don’t know if it actually helps patients.",
-      "summary": "I don’t need to tell you that AI is everywhere. Or that it is being used, increasingly, in hospitals.",
-      "source": "MIT Tech Review",
-      "published": "2026-04-24T09:00:00+00:00",
-      "link": "https://www.technologyreview.com/2026/04/24/1136352/health-care-ai-dont-know-actually-helps-patients/"
-    },
-    {
-      "title": "5 Reasons to Think Twice Before Using ChatGPT—or Any Chatbot—for Financial Advice",
-      "summary": "As people increasingly rely on AI chatbots for guidance, even on financial matters, a healthy dose of skepticism is critical.",
-      "source": "Wired",
-      "published": "2026-04-24T09:00:00+00:00",
-      "link": "https://www.wired.com/story/5-reasons-to-think-twice-before-using-chatgpt-for-financial-advice/"
-    },
-    {
-      "title": "As agentic AI pushes rivals to raise prices and cap usage, Deepseek ships a good-enough model for almost nothing",
-      "summary": "Chinese AI lab Deepseek has released V4-Pro and V4-Flash, two new models with up to 1.6 trillion parameters and a one-million-token context window. Pricing sits well below OpenAI, Google, and Anthropic.",
-      "source": "The Decoder",
-      "published": "2026-04-24T08:35:28+00:00",
-      "link": "https://the-decoder.com/as-agentic-ai-pushes-rivals-to-raise-prices-and-cap-usage-deepseek-ships-a-good-enough-model-for-almost-nothing/"
     }
   ]
 };
