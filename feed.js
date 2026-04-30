@@ -1,5 +1,5 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-04-30T04:31:32.700119+00:00",
+  "lastUpdated": "2026-04-30T07:29:03.148045+00:00",
   "items": [
     {
       "title": "SoftBank is creating a robotics company that builds data centers — and already eyeing a $100B IPO",
@@ -9,11 +9,25 @@ const FEED_DATA = {
       "link": "https://techcrunch.com/2026/04/29/softbank-is-creating-a-robotics-company-that-builds-data-centers-and-already-eyeing-a-100b-ipo/"
     },
     {
+      "title": "The Zig project's rationale for their firm anti-AI contribution policy",
+      "summary": "Article URL: https://simonwillison.net/2026/Apr/30/zig-anti-ai/ Comments URL: https://news.ycombinator.com/item?id=47957294 Points: 169 # Comments: 75",
+      "source": "Hacker News",
+      "published": "2026-04-30T02:15:47+00:00",
+      "link": "https://simonwillison.net/2026/Apr/30/zig-anti-ai/"
+    },
+    {
       "title": "Claude.ai and API unavailable [fixed]",
-      "summary": "https://status.claude.com/ Comments URL: https://news.ycombinator.com/item?id=47956895 Points: 107 # Comments: 95",
+      "summary": "https://status.claude.com/ Comments URL: https://news.ycombinator.com/item?id=47956895 Points: 113 # Comments: 107",
       "source": "Hacker News",
       "published": "2026-04-30T01:21:03+00:00",
       "link": "https://status.claude.com/incidents/2gf1jpyty350"
+    },
+    {
+      "title": "Mike: open-source legal AI",
+      "summary": "Article URL: https://mikeoss.com/ Comments URL: https://news.ycombinator.com/item?id=47956739 Points: 73 # Comments: 25",
+      "source": "Hacker News",
+      "published": "2026-04-30T00:56:23+00:00",
+      "link": "https://mikeoss.com/"
     },
     {
       "title": "Amazon’s cloud business is surging — and so is its capital spending",
@@ -94,14 +108,14 @@ const FEED_DATA = {
     },
     {
       "title": "Your CEO is suffering from AI psychosis",
-      "summary": "Article URL: https://handyai.substack.com/p/your-ceo-is-suffering-from-ai-psychosis Comments URL: https://news.ycombinator.com/item?id=47953484 Points: 68 # Comments: 23",
+      "summary": "Article URL: https://handyai.substack.com/p/your-ceo-is-suffering-from-ai-psychosis Comments URL: https://news.ycombinator.com/item?id=47953484 Points: 81 # Comments: 30",
       "source": "Hacker News",
       "published": "2026-04-29T19:46:18+00:00",
       "link": "https://handyai.substack.com/p/your-ceo-is-suffering-from-ai-psychosis"
     },
     {
       "title": "\"People who don't use AI will be left behind\"",
-      "summary": "Article URL: https://migrainebrain.bearblog.dev/people-who-dont-use-ai-will-be-left-behind/ Comments URL: https://news.ycombinator.com/item?id=47953011 Points: 153 # Comments: 206",
+      "summary": "Article URL: https://migrainebrain.bearblog.dev/people-who-dont-use-ai-will-be-left-behind/ Comments URL: https://news.ycombinator.com/item?id=47953011 Points: 157 # Comments: 215",
       "source": "Hacker News",
       "published": "2026-04-29T19:15:52+00:00",
       "link": "https://migrainebrain.bearblog.dev/people-who-dont-use-ai-will-be-left-behind/"
@@ -129,7 +143,7 @@ const FEED_DATA = {
     },
     {
       "title": "Ramp's Sheets AI Exfiltrates Financials",
-      "summary": "Article URL: https://www.promptarmor.com/resources/ramps-sheets-ai-exfiltrates-financials Comments URL: https://news.ycombinator.com/item?id=47951786 Points: 119 # Comments: 35",
+      "summary": "Article URL: https://www.promptarmor.com/resources/ramps-sheets-ai-exfiltrates-financials Comments URL: https://news.ycombinator.com/item?id=47951786 Points: 127 # Comments: 39",
       "source": "Hacker News",
       "published": "2026-04-29T17:44:21+00:00",
       "link": "https://www.promptarmor.com/resources/ramps-sheets-ai-exfiltrates-financials"
@@ -143,7 +157,7 @@ const FEED_DATA = {
     },
     {
       "title": "The Abstraction Fallacy: Why AI can simulate but not instantiate consciousness",
-      "summary": "Article URL: https://deepmind.google/research/publications/231971/ Comments URL: https://news.ycombinator.com/item?id=47951582 Points: 64 # Comments: 116",
+      "summary": "Article URL: https://deepmind.google/research/publications/231971/ Comments URL: https://news.ycombinator.com/item?id=47951582 Points: 66 # Comments: 119",
       "source": "Hacker News",
       "published": "2026-04-29T17:30:15+00:00",
       "link": "https://deepmind.google/research/publications/231971/"
@@ -192,7 +206,7 @@ const FEED_DATA = {
     },
     {
       "title": "Why AI companies want you to be afraid of them",
-      "summary": "Article URL: https://www.bbc.com/future/article/20260428-ai-companies-want-you-to-be-afraid-of-them Comments URL: https://news.ycombinator.com/item?id=47949750 Points: 269 # Comments: 208",
+      "summary": "Article URL: https://www.bbc.com/future/article/20260428-ai-companies-want-you-to-be-afraid-of-them Comments URL: https://news.ycombinator.com/item?id=47949750 Points: 276 # Comments: 212",
       "source": "Hacker News",
       "published": "2026-04-29T15:26:01+00:00",
       "link": "https://www.bbc.com/future/article/20260428-ai-companies-want-you-to-be-afraid-of-them"
@@ -206,7 +220,7 @@ const FEED_DATA = {
     },
     {
       "title": "Making AI chatbots friendly leads to mistakes and support of conspiracy theories",
-      "summary": "Article URL: https://www.theguardian.com/technology/2026/apr/29/making-ai-chatbots-more-friendly-mistakes-support-false-beliefs-conspiracy-theories-study Comments URL: https://news.ycombinator.com/item?id=47949538 Points: 78 # Comments: 63",
+      "summary": "Article URL: https://www.theguardian.com/technology/2026/apr/29/making-ai-chatbots-more-friendly-mistakes-support-false-beliefs-conspiracy-theories-study Comments URL: https://news.ycombinator.com/item?id=47949538 Points: 84 # Comments: 65",
       "source": "Hacker News",
       "published": "2026-04-29T15:11:12+00:00",
       "link": "https://www.theguardian.com/technology/2026/apr/29/making-ai-chatbots-more-friendly-mistakes-support-false-beliefs-conspiracy-theories-study"
@@ -290,14 +304,14 @@ const FEED_DATA = {
     },
     {
       "title": "Letting AI play my game – building an agentic test harness to help play-testing",
-      "summary": "Article URL: https://blog.jeffschomay.com/letting-ai-play-my-game Comments URL: https://news.ycombinator.com/item?id=47947525 Points: 125 # Comments: 29",
+      "summary": "Article URL: https://blog.jeffschomay.com/letting-ai-play-my-game Comments URL: https://news.ycombinator.com/item?id=47947525 Points: 128 # Comments: 29",
       "source": "Hacker News",
       "published": "2026-04-29T12:43:12+00:00",
       "link": "https://blog.jeffschomay.com/letting-ai-play-my-game"
     },
     {
       "title": "He asked AI to count carbs 27000 times. It couldn't give the same answer twice",
-      "summary": "Article URL: https://www.diabettech.com/i-asked-ai-to-count-my-carbs-27000-times-it-couldnt-give-me-the-same-answer-twice/ Comments URL: https://news.ycombinator.com/item?id=47947490 Points: 235 # Comments: 296",
+      "summary": "Article URL: https://www.diabettech.com/i-asked-ai-to-count-my-carbs-27000-times-it-couldnt-give-me-the-same-answer-twice/ Comments URL: https://news.ycombinator.com/item?id=47947490 Points: 237 # Comments: 297",
       "source": "Hacker News",
       "published": "2026-04-29T12:38:50+00:00",
       "link": "https://www.diabettech.com/i-asked-ai-to-count-my-carbs-27000-times-it-couldnt-give-me-the-same-answer-twice/"
@@ -493,14 +507,14 @@ const FEED_DATA = {
     },
     {
       "title": "AI's economics don't make sense",
-      "summary": "Related: AI's biggest critic has lost the plot - https://news.ycombinator.com/item?id=47934353 Comments URL: https://news.ycombinator.com/item?id=47936867 Points: 229 # Comments: 186",
+      "summary": "Related: AI's biggest critic has lost the plot - https://news.ycombinator.com/item?id=47934353 Comments URL: https://news.ycombinator.com/item?id=47936867 Points: 230 # Comments: 186",
       "source": "Hacker News",
       "published": "2026-04-28T16:39:53+00:00",
       "link": "https://www.wheresyoured.at/ais-economics-dont-make-sense/"
     },
     {
       "title": "Google and Pentagon reportedly agree on deal for 'any lawful' use of AI",
-      "summary": "Article URL: https://www.theverge.com/ai-artificial-intelligence/919494/google-pentagon-classified-ai-deal Comments URL: https://news.ycombinator.com/item?id=47936156 Points: 310 # Comments: 276",
+      "summary": "Article URL: https://www.theverge.com/ai-artificial-intelligence/919494/google-pentagon-classified-ai-deal Comments URL: https://news.ycombinator.com/item?id=47936156 Points: 310 # Comments: 277",
       "source": "Hacker News",
       "published": "2026-04-28T15:49:22+00:00",
       "link": "https://www.theverge.com/ai-artificial-intelligence/919494/google-pentagon-classified-ai-deal"
@@ -619,7 +633,7 @@ const FEED_DATA = {
     },
     {
       "title": "The Social Edge of Intelligence: Individual Gain, Collective Loss",
-      "summary": "Article URL: https://www.theideasletter.org/essay/the-social-edge-of-intelligence/ Comments URL: https://news.ycombinator.com/item?id=47932446 Points: 75 # Comments: 87",
+      "summary": "Article URL: https://www.theideasletter.org/essay/the-social-edge-of-intelligence/ Comments URL: https://news.ycombinator.com/item?id=47932446 Points: 76 # Comments: 87",
       "source": "Hacker News",
       "published": "2026-04-28T10:08:38+00:00",
       "link": "https://www.theideasletter.org/essay/the-social-edge-of-intelligence/"
@@ -1386,20 +1400,6 @@ const FEED_DATA = {
       "source": "The Verge",
       "published": "2026-04-23T22:27:11+00:00",
       "link": "https://www.theverge.com/ai-artificial-intelligence/917871/anthropic-claude-personal-app-connectors"
-    },
-    {
-      "title": "Bret Taylor’s Sierra buys YC-backed AI startup Fragment",
-      "summary": "Sierra, the AI customer service agent startup founded by technologist Bret Taylor, announced today that it has acquired the YC-backed French startup Fragment.",
-      "source": "TechCrunch",
-      "published": "2026-04-23T21:00:00+00:00",
-      "link": "https://techcrunch.com/2026/04/23/bret-taylors-sierra-buys-yc-backed-ai-startup-fragment/"
-    },
-    {
-      "title": "Meet Noscroll, an AI bot that does your doomscrolling for you",
-      "summary": "Noscroll wants to cure doomscrolling with an AI bot that reads the internet for you.",
-      "source": "TechCrunch",
-      "published": "2026-04-23T19:38:25+00:00",
-      "link": "https://techcrunch.com/2026/04/23/meet-noscroll-an-ai-bot-that-does-your-doomscrolling-for-you/"
     }
   ]
 };
