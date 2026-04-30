@@ -1,6 +1,118 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-04-30T15:11:56.195993+00:00",
+  "lastUpdated": "2026-04-30T18:07:10.153028+00:00",
   "items": [
+    {
+      "title": "Elon Musk testifies that xAI trained Grok on OpenAI models",
+      "summary": "\"Distillation\" is a hot topic as frontier labs try to prevent smaller competitors from copying their models.",
+      "source": "TechCrunch",
+      "published": "2026-04-30T18:03:57+00:00",
+      "link": "https://techcrunch.com/2026/04/30/elon-musk-testifies-that-xai-trained-grok-on-openai-models/"
+    },
+    {
+      "title": "FDA approval, fundraising, and the reality of building in healthcare according to BioticsAI founder",
+      "summary": "BioticsAI CEO Robhy Bustami joined Isabelle Johannessen on Build Mode to discuss how the company has navigated a highly regulated space and kept the team motivated while cutting through all the red tape.",
+      "source": "TechCrunch",
+      "published": "2026-04-30T17:53:53+00:00",
+      "link": "https://techcrunch.com/2026/04/30/fda-approval-fundraising-and-the-reality-of-building-in-healthcare-according-to-bioticsai-founder/"
+    },
+    {
+      "title": "Microsoft CEO Satya Nadella says AI success is \"more about getting intense users and intense usage\" than seat counts",
+      "summary": "Microsoft is posting record profits and strong cloud growth, but just like Google, the company is saying little about how its generative AI business is actually performing.",
+      "source": "The Decoder",
+      "published": "2026-04-30T17:49:04+00:00",
+      "link": "https://the-decoder.com/microsoft-ceo-satya-nadella-says-ai-success-is-more-about-getting-intense-users-and-intense-usage-than-seat-counts/"
+    },
+    {
+      "title": "Google’s Gemini AI assistant is hitting the road in millions of vehicles",
+      "summary": "Google announced on Thursday that it will begin rolling out Gemini to cars with Google built-in, marking a significant upgrade from the current Google Assistant. The move signals Google’s push to bring more advanced, conversational AI into the driving experience.",
+      "source": "TechCrunch",
+      "published": "2026-04-30T17:46:54+00:00",
+      "link": "https://techcrunch.com/2026/04/30/googles-gemini-ai-assistant-is-hitting-the-road-in-millions-of-vehicles/"
+    },
+    {
+      "title": "Elon Musk Seemingly Admits xAI Has Used OpenAI's Models to Train Its Own",
+      "summary": "While answering questions under oath, Musk argued it’s standard practice for AI labs to use their competitors' models.",
+      "source": "Wired",
+      "published": "2026-04-30T17:41:14+00:00",
+      "link": "https://www.wired.com/story/elon-musk-distill-openai-models-partly-xai/"
+    },
+    {
+      "title": "OpenAI Rolls Out ‘Advanced’ Security Mode for At-Risk Accounts",
+      "summary": "OpenAI is rolling out Advanced Account Security for people concerned that their ChatGPT or Codex accounts could be potential targets of phishing attacks.",
+      "source": "Wired",
+      "published": "2026-04-30T17:30:39+00:00",
+      "link": "https://www.wired.com/story/openai-chatgpt-codex-advanced-account-security/"
+    },
+    {
+      "title": "Stripe introduces Link, a digital wallet that autonomous AI agents can use, too",
+      "summary": "Link lets users connect cards, banks, and subscriptions, then authorize AI agents to spend securely via approval flows.",
+      "source": "TechCrunch",
+      "published": "2026-04-30T17:15:19+00:00",
+      "link": "https://techcrunch.com/2026/04/30/stripe-link-digital-wallet-ai-agents-shopping/"
+    },
+    {
+      "title": "Live updates from Elon Musk and Sam Altman’s court battle over the future of OpenAI",
+      "summary": "Sam Altman and Elon Musk are facing off in a high-stakes trial that could alter the future of OpenAI and its most well-known product, ChatGPT.",
+      "source": "The Verge",
+      "published": "2026-04-30T16:57:14+00:00",
+      "link": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit"
+    },
+    {
+      "title": "Meta is running get-rich-quick ads for its AI tools",
+      "summary": "Manus, an AI company Meta acquired for $2 billion last year is running ads promising quick, easy money with AI: Find local businesses without websites or with bad websites, have AI build them one, then call them up and sell it to them.",
+      "source": "The Verge",
+      "published": "2026-04-30T16:48:13+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/915970/meta-manus-ai-ads-website-slop"
+    },
+    {
+      "title": "Shai-Hulud Themed Malware Found in the PyTorch Lightning AI Training Library",
+      "summary": "Article URL: https://semgrep.dev/blog/2026/malicious-dependency-in-pytorch-lightning-used-for-ai-training/ Comments URL: https://news.ycombinator.com/item?id=47964617 Points: 117 # Comments: 22",
+      "source": "Hacker News",
+      "published": "2026-04-30T16:09:26+00:00",
+      "link": "https://semgrep.dev/blog/2026/malicious-dependency-in-pytorch-lightning-used-for-ai-training/"
+    },
+    {
+      "title": "Salesforce is crowdsourcing its AI roadmap — with customers",
+      "summary": "Salesforce lets its customers lead its product roadmap with the thinking that if one enterprise customer has a problem, the others likely do too.",
+      "source": "TechCrunch",
+      "published": "2026-04-30T16:06:49+00:00",
+      "link": "https://techcrunch.com/2026/04/30/salesforce-is-crowdsourcing-its-ai-roadmap-with-customers/"
+    },
+    {
+      "title": "Gemini is rolling out to cars with Google built-in",
+      "summary": "Google is preparing to update vehicles that have Google built-in with its Gemini AI assistant.",
+      "source": "The Verge",
+      "published": "2026-04-30T16:00:00+00:00",
+      "link": "https://www.theverge.com/tech/921117/google-gemini-ai-assistant-cars-upgrade"
+    },
+    {
+      "title": "Here’s how the new Microsoft and OpenAI deal breaks down",
+      "summary": "Microsoft's relationship with OpenAI has always been complicated, so I expected the close partnership-turned-situationship to end in tears.",
+      "source": "The Verge",
+      "published": "2026-04-30T16:00:00+00:00",
+      "link": "https://www.theverge.com/tech/921210/microsoft-openai-partnership-divorce-notepad"
+    },
+    {
+      "title": "What LG and NVIDIA’s talks reveal about the future of physical AI",
+      "summary": "LG is currently engaged in exploratory discussions with NVIDIA concerning physical AI, data centres, and mobility.",
+      "source": "AI News",
+      "published": "2026-04-30T15:59:54+00:00",
+      "link": "https://www.artificialintelligence-news.com/news/what-lg-and-nvidia-talks-reveal-future-of-physical-ai/"
+    },
+    {
+      "title": "This startup’s new mechanistic interpretability tool lets you debug LLMs",
+      "summary": "The San Francisco–based startup Goodfire just released a new tool, called Silico, that lets researchers and engineers peer inside an AI model and adjust its parameters—the settings that determine a model’s behavior—during training.",
+      "source": "MIT Tech Review",
+      "published": "2026-04-30T15:59:41+00:00",
+      "link": "https://www.technologyreview.com/2026/04/30/1136721/this-startups-new-mechanistic-interpretability-tool-lets-you-debug-llms/"
+    },
+    {
+      "title": "X announces a rebuilt ad platform powered by AI",
+      "summary": "X is rolling out a rebuilt ads platform powered by AI as it works to grow revenue again.",
+      "source": "TechCrunch",
+      "published": "2026-04-30T15:14:55+00:00",
+      "link": "https://techcrunch.com/2026/04/30/x-announces-a-rebuilt-ad-platform-powered-by-ai/"
+    },
     {
       "title": "All these smart glasses and nothing to do",
       "summary": "I'm currently wearing a pair of smart glasses called the Even Realities G2. Another two pairs, from Rokid, sit on my desk.",
@@ -73,7 +185,7 @@ const FEED_DATA = {
     },
     {
       "title": "Meta says its business AI now facilitates 10 million conversations a week",
-      "summary": "Meta said over 8 billion advertisers have used at least one of its gen AI tools",
+      "summary": "Meta said over 8 billion advertisers have used at least one of its GenAI tools",
       "source": "TechCrunch",
       "published": "2026-04-30T12:08:45+00:00",
       "link": "https://techcrunch.com/2026/04/30/meta-says-its-business-ai-now-facilitates-10-million-conversations-a-week/"
@@ -150,21 +262,21 @@ const FEED_DATA = {
     },
     {
       "title": "DataCenter.FM – background noise app featuring the sound of the AI bubble",
-      "summary": "Article URL: https://datacenter.fm/ Comments URL: https://news.ycombinator.com/item?id=47959513 Points: 90 # Comments: 18",
+      "summary": "Article URL: https://datacenter.fm/ Comments URL: https://news.ycombinator.com/item?id=47959513 Points: 115 # Comments: 22",
       "source": "Hacker News",
       "published": "2026-04-30T07:52:12+00:00",
       "link": "https://datacenter.fm/"
     },
     {
       "title": "SoftBank is creating a robotics company that builds data centers — and already eyeing a $100B IPO",
-      "summary": "You need infrastructure to build AI a and robots, but apparently you also need AI and robots to build infrastructure.",
+      "summary": "You need infrastructure to build AI and robots, but apparently you also need AI and robots to build infrastructure.",
       "source": "TechCrunch",
       "published": "2026-04-30T03:58:22+00:00",
       "link": "https://techcrunch.com/2026/04/29/softbank-is-creating-a-robotics-company-that-builds-data-centers-and-already-eyeing-a-100b-ipo/"
     },
     {
       "title": "The Zig project's rationale for their anti-AI contribution policy",
-      "summary": "Article URL: https://simonwillison.net/2026/Apr/30/zig-anti-ai/ Comments URL: https://news.ycombinator.com/item?id=47957294 Points: 489 # Comments: 265",
+      "summary": "Article URL: https://simonwillison.net/2026/Apr/30/zig-anti-ai/ Comments URL: https://news.ycombinator.com/item?id=47957294 Points: 572 # Comments: 351",
       "source": "Hacker News",
       "published": "2026-04-30T02:15:47+00:00",
       "link": "https://simonwillison.net/2026/Apr/30/zig-anti-ai/"
@@ -178,14 +290,14 @@ const FEED_DATA = {
     },
     {
       "title": "Claude.ai and API unavailable [fixed]",
-      "summary": "https://status.claude.com/ Comments URL: https://news.ycombinator.com/item?id=47956895 Points: 118 # Comments: 115",
+      "summary": "https://status.claude.com/ Comments URL: https://news.ycombinator.com/item?id=47956895 Points: 118 # Comments: 118",
       "source": "Hacker News",
       "published": "2026-04-30T01:21:03+00:00",
       "link": "https://status.claude.com/incidents/2gf1jpyty350"
     },
     {
       "title": "Mike: open-source legal AI",
-      "summary": "Article URL: https://mikeoss.com/ Comments URL: https://news.ycombinator.com/item?id=47956739 Points: 165 # Comments: 79",
+      "summary": "Article URL: https://mikeoss.com/ Comments URL: https://news.ycombinator.com/item?id=47956739 Points: 176 # Comments: 88",
       "source": "Hacker News",
       "published": "2026-04-30T00:56:23+00:00",
       "link": "https://mikeoss.com/"
@@ -199,7 +311,7 @@ const FEED_DATA = {
     },
     {
       "title": "Sources: Anthropic could raise a new $50B round at a valuation of $900B",
-      "summary": "The maker of Claude has received multiple pre-emptive offers at valuations in the $850 billion to $900 billion range, according to sources familiar with the matter.",
+      "summary": "The maker of Claude has received multiple preemptive offers at valuations in the $850 billion to $900 billion range, according to sources familiar with the matter.",
       "source": "TechCrunch",
       "published": "2026-04-30T00:07:15+00:00",
       "link": "https://techcrunch.com/2026/04/29/sources-anthropic-could-raise-a-new-50b-round-at-a-valuation-of-900b/"
@@ -226,7 +338,7 @@ const FEED_DATA = {
       "link": "https://techcrunch.com/2026/04/29/satya-nadella-says-hes-ready-to-exploit-the-new-openai-deal/"
     },
     {
-      "title": "How Elon Musk Squeezed OpenAI: They 'Are Gonna Want to Kill Me’",
+      "title": "How Elon Musk Squeezed OpenAI: They ‘Are Gonna Want to Kill Me’",
       "summary": "Tensions flared on the third day of trial in Musk v. Altman as OpenAI’s lawyers cross-examined Musk.",
       "source": "Wired",
       "published": "2026-04-29T23:41:51+00:00",
@@ -269,14 +381,14 @@ const FEED_DATA = {
     },
     {
       "title": "Your CEO is suffering from AI psychosis",
-      "summary": "Article URL: https://handyai.substack.com/p/your-ceo-is-suffering-from-ai-psychosis Comments URL: https://news.ycombinator.com/item?id=47953484 Points: 97 # Comments: 31",
+      "summary": "Article URL: https://handyai.substack.com/p/your-ceo-is-suffering-from-ai-psychosis Comments URL: https://news.ycombinator.com/item?id=47953484 Points: 98 # Comments: 31",
       "source": "Hacker News",
       "published": "2026-04-29T19:46:18+00:00",
       "link": "https://handyai.substack.com/p/your-ceo-is-suffering-from-ai-psychosis"
     },
     {
       "title": "\"People who don't use AI will be left behind\"",
-      "summary": "Article URL: https://migrainebrain.bearblog.dev/people-who-dont-use-ai-will-be-left-behind/ Comments URL: https://news.ycombinator.com/item?id=47953011 Points: 163 # Comments: 245",
+      "summary": "Article URL: https://migrainebrain.bearblog.dev/people-who-dont-use-ai-will-be-left-behind/ Comments URL: https://news.ycombinator.com/item?id=47953011 Points: 164 # Comments: 253",
       "source": "Hacker News",
       "published": "2026-04-29T19:15:52+00:00",
       "link": "https://migrainebrain.bearblog.dev/people-who-dont-use-ai-will-be-left-behind/"
@@ -304,7 +416,7 @@ const FEED_DATA = {
     },
     {
       "title": "Ramp's Sheets AI Exfiltrates Financials",
-      "summary": "Article URL: https://www.promptarmor.com/resources/ramps-sheets-ai-exfiltrates-financials Comments URL: https://news.ycombinator.com/item?id=47951786 Points: 132 # Comments: 48",
+      "summary": "Article URL: https://www.promptarmor.com/resources/ramps-sheets-ai-exfiltrates-financials Comments URL: https://news.ycombinator.com/item?id=47951786 Points: 135 # Comments: 49",
       "source": "Hacker News",
       "published": "2026-04-29T17:44:21+00:00",
       "link": "https://www.promptarmor.com/resources/ramps-sheets-ai-exfiltrates-financials"
@@ -359,13 +471,6 @@ const FEED_DATA = {
       "link": "https://www.theverge.com/tech/920420/google-photos-ai-try-on-wardrobe"
     },
     {
-      "title": "Live updates from Elon Musk and Sam Altman’s court battle over the future of OpenAI",
-      "summary": "Sam Altman and Elon Musk are facing off in a high-stakes trial that could alter the future of OpenAI and its most well-known product, ChatGPT.",
-      "source": "The Verge",
-      "published": "2026-04-29T15:35:32+00:00",
-      "link": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit"
-    },
-    {
       "title": "Why AI companies want you to be afraid of them",
       "summary": "Article URL: https://www.bbc.com/future/article/20260428-ai-companies-want-you-to-be-afraid-of-them Comments URL: https://news.ycombinator.com/item?id=47949750 Points: 280 # Comments: 215",
       "source": "Hacker News",
@@ -381,7 +486,7 @@ const FEED_DATA = {
     },
     {
       "title": "Making AI chatbots friendly leads to mistakes and support of conspiracy theories",
-      "summary": "Article URL: https://www.theguardian.com/technology/2026/apr/29/making-ai-chatbots-more-friendly-mistakes-support-false-beliefs-conspiracy-theories-study Comments URL: https://news.ycombinator.com/item?id=47949538 Points: 88 # Comments: 70",
+      "summary": "Article URL: https://www.theguardian.com/technology/2026/apr/29/making-ai-chatbots-more-friendly-mistakes-support-false-beliefs-conspiracy-theories-study Comments URL: https://news.ycombinator.com/item?id=47949538 Points: 89 # Comments: 71",
       "source": "Hacker News",
       "published": "2026-04-29T15:11:12+00:00",
       "link": "https://www.theguardian.com/technology/2026/apr/29/making-ai-chatbots-more-friendly-mistakes-support-false-beliefs-conspiracy-theories-study"
@@ -465,7 +570,7 @@ const FEED_DATA = {
     },
     {
       "title": "Letting AI play my game – building an agentic test harness to help play-testing",
-      "summary": "Article URL: https://blog.jeffschomay.com/letting-ai-play-my-game Comments URL: https://news.ycombinator.com/item?id=47947525 Points: 128 # Comments: 32",
+      "summary": "Article URL: https://blog.jeffschomay.com/letting-ai-play-my-game Comments URL: https://news.ycombinator.com/item?id=47947525 Points: 129 # Comments: 32",
       "source": "Hacker News",
       "published": "2026-04-29T12:43:12+00:00",
       "link": "https://blog.jeffschomay.com/letting-ai-play-my-game"
@@ -668,14 +773,14 @@ const FEED_DATA = {
     },
     {
       "title": "AI's economics don't make sense",
-      "summary": "Related: AI's biggest critic has lost the plot - https://news.ycombinator.com/item?id=47934353 Comments URL: https://news.ycombinator.com/item?id=47936867 Points: 233 # Comments: 187",
+      "summary": "Related: AI's biggest critic has lost the plot - https://news.ycombinator.com/item?id=47934353 Comments URL: https://news.ycombinator.com/item?id=47936867 Points: 235 # Comments: 187",
       "source": "Hacker News",
       "published": "2026-04-28T16:39:53+00:00",
       "link": "https://www.wheresyoured.at/ais-economics-dont-make-sense/"
     },
     {
       "title": "Google and Pentagon reportedly agree on deal for 'any lawful' use of AI",
-      "summary": "Article URL: https://www.theverge.com/ai-artificial-intelligence/919494/google-pentagon-classified-ai-deal Comments URL: https://news.ycombinator.com/item?id=47936156 Points: 312 # Comments: 278",
+      "summary": "Article URL: https://www.theverge.com/ai-artificial-intelligence/919494/google-pentagon-classified-ai-deal Comments URL: https://news.ycombinator.com/item?id=47936156 Points: 313 # Comments: 278",
       "source": "Hacker News",
       "published": "2026-04-28T15:49:22+00:00",
       "link": "https://www.theverge.com/ai-artificial-intelligence/919494/google-pentagon-classified-ai-deal"
@@ -1295,111 +1400,6 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-04-25T08:26:11+00:00",
       "link": "https://the-decoder.com/google-pours-up-to-40-billion-into-chatgpt-rival-anthropic/"
-    },
-    {
-      "title": "Open source memory layer so any AI agent can do what Claude.ai and ChatGPT do",
-      "summary": "Article URL: https://alash3al.github.io/stash?_v01 Comments URL: https://news.ycombinator.com/item?id=47897790 Points: 183 # Comments: 76",
-      "source": "Hacker News",
-      "published": "2026-04-25T01:24:40+00:00",
-      "link": "https://alash3al.github.io/stash?_v01"
-    },
-    {
-      "title": "Agentic AI systems violate the implicit assumptions of database design",
-      "summary": "Article URL: https://arpitbhayani.me/blogs/defensive-databases/ Comments URL: https://news.ycombinator.com/item?id=47897140 Points: 112 # Comments: 105",
-      "source": "Hacker News",
-      "published": "2026-04-24T23:41:38+00:00",
-      "link": "https://arpitbhayani.me/blogs/defensive-databases/"
-    },
-    {
-      "title": "Three reasons why DeepSeek’s new model matters",
-      "summary": "On April 24, Chinese AI firm DeepSeek released a preview of V4, its long-awaited new flagship model. The model can process much longer prompts than its last generation, thanks to a new design that helps it handle large amounts of text more efficiently.",
-      "source": "MIT Tech Review",
-      "published": "2026-04-24T21:40:58+00:00",
-      "link": "https://www.technologyreview.com/2026/04/24/1136422/why-deepseeks-v4-matters/"
-    },
-    {
-      "title": "Meta’s loss is Thinking Machines’ gain",
-      "summary": "Meta has been poaching talent from Thinking Machines Lab. But it's a two-way street.",
-      "source": "TechCrunch",
-      "published": "2026-04-24T20:52:07+00:00",
-      "link": "https://techcrunch.com/2026/04/24/metas-loss-is-thinking-machines-gain/"
-    },
-    {
-      "title": "ComfyUI hits $500M valuation as creators seek more control over AI-generated media",
-      "summary": "ComfyUI, whose tools give creators more control over AI image, video, and audio generation, just raised $30 million.",
-      "source": "TechCrunch",
-      "published": "2026-04-24T19:49:35+00:00",
-      "link": "https://techcrunch.com/2026/04/24/comfyui-hits-500m-valuation-as-creators-seek-more-control-over-ai-generated-media/"
-    },
-    {
-      "title": "Why are top university websites serving porn? It comes down to shoddy housekeeping.",
-      "summary": "Hundreds of subdomains from dozens of universities have been hijacked by scammers.",
-      "source": "Ars Technica",
-      "published": "2026-04-24T19:00:39+00:00",
-      "link": "https://arstechnica.com/security/2026/04/why-are-top-university-websites-serving-porn-it-comes-down-to-shoddy-housekeeping/"
-    },
-    {
-      "title": "OpenAI's chief scientist says AI progress has been \"surprisingly slow\" and promises big leaps ahead",
-      "summary": "OpenAI has released GPT-5.5, and the company's leadership says the real breakthroughs are still ahead.",
-      "source": "The Decoder",
-      "published": "2026-04-24T18:31:15+00:00",
-      "link": "https://the-decoder.com/openais-chief-scientist-says-ai-progress-has-been-surprisingly-slow-and-promises-big-leaps-ahead/"
-    },
-    {
-      "title": "OpenAI releases GPT-5.5 and GPT-5.5 Pro in the API",
-      "summary": "GPT-5.5 - https://news.ycombinator.com/item?id=47879092 - April 2026 (1010 comments) Comments URL: https://news.ycombinator.com/item?id=47894000 Points: 256 # Comments: 159",
-      "source": "Hacker News",
-      "published": "2026-04-24T18:23:32+00:00",
-      "link": "https://developers.openai.com/api/docs/changelog"
-    },
-    {
-      "title": "Google to invest up to $40B in Anthropic in cash and compute",
-      "summary": "Google plans up to $40B investment in Anthropic as AI rivals race to secure massive compute capacity, following the limited release of its powerful, cybersecurity-focused Mythos model.",
-      "source": "TechCrunch",
-      "published": "2026-04-24T18:00:03+00:00",
-      "link": "https://techcrunch.com/2026/04/24/google-to-invest-up-to-40b-in-anthropic-in-cash-and-compute/"
-    },
-    {
-      "title": "AI-Designed Drugs by a DeepMind Spinoff Are Headed to Human Trials",
-      "summary": "Isomorphic Labs president Max Jaderberg said at WIRED Health in London that the startup has built a “broad and exciting pipeline of new medicines.”",
-      "source": "Wired",
-      "published": "2026-04-24T17:17:36+00:00",
-      "link": "https://www.wired.com/story/wired-health-2026-how-ai-is-powering-drug-discovery-max-jaderberg/"
-    },
-    {
-      "title": "How Project Maven taught the military to love AI",
-      "summary": "In the first 24 hours of the assault on Iran, the US military struck more than 1,000 targets, nearly double the scale of the \"shock and awe\" attack on Iraq over two decades ago. This acceleration was made possible by AI systems that speed up the targeting process.",
-      "source": "The Verge",
-      "published": "2026-04-24T17:00:00+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/917996/project-maven-military-ai-katrina-manson"
-    },
-    {
-      "title": "Tesla discloses $2B AI hardware company acquisition in filing",
-      "summary": "Article URL: https://electrek.co/2026/04/23/tesla-tsla-quietly-discloses-2-billion-ai-hardware-acquisition-10q/ Comments URL: https://news.ycombinator.com/item?id=47892765 Points: 77 # Comments: 47",
-      "source": "Hacker News",
-      "published": "2026-04-24T16:51:46+00:00",
-      "link": "https://electrek.co/2026/04/23/tesla-tsla-quietly-discloses-2-billion-ai-hardware-acquisition-10q/"
-    },
-    {
-      "title": "Marked-up Mac minis flood eBay amid shortages driven by AI",
-      "summary": "Apple’s sold-out Mac mini is spawning marked-up eBay listings as demand surges for the compact desktop, now favored for running local AI models and tools.",
-      "source": "TechCrunch",
-      "published": "2026-04-24T16:42:19+00:00",
-      "link": "https://techcrunch.com/2026/04/24/mac-mini-price-expensive-ebay-shortage-ai-memory/"
-    },
-    {
-      "title": "Why AI agents need interaction infrastructure",
-      "summary": "To stop automation waste, enterprises must deploy interaction infrastructure that physically governs how independent AI agents operate. AI agents now populate corporate networks, reasoning through tasks and executing decisions with increasing autonomy.",
-      "source": "AI News",
-      "published": "2026-04-24T16:24:17+00:00",
-      "link": "https://www.artificialintelligence-news.com/news/why-ai-agents-need-interaction-infrastructure/"
-    },
-    {
-      "title": "Apple's Next CEO Needs to Launch a Killer AI Product",
-      "summary": "Tim Cook was a great CEO, but he didn’t crack AI. It’s job number 1 for John Ternus.",
-      "source": "Wired",
-      "published": "2026-04-24T15:00:00+00:00",
-      "link": "https://www.wired.com/story/apples-next-ceo-needs-to-launch-a-killer-ai-product/"
     }
   ]
 };
