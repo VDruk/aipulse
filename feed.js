@@ -1,6 +1,55 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-04-30T18:07:10.153028+00:00",
+  "lastUpdated": "2026-04-30T21:51:11.507679+00:00",
   "items": [
+    {
+      "title": "The most severe Linux threat to surface in years catches the world flat-footed",
+      "summary": "CopyFail threatens multi-tenant servers, CI/CD work flows, Kubernetes containers, and more.",
+      "source": "Ars Technica",
+      "published": "2026-04-30T20:20:48+00:00",
+      "link": "https://arstechnica.com/security/2026/04/as-the-most-severe-linux-threat-in-years-surfaces-the-world-scrambles/"
+    },
+    {
+      "title": "Legal AI startup Legora hits $5.6B valuation and its battle with Harvey just got hotter",
+      "summary": "The two wildly fast-growing rivals have raised massive sums, pushed into each other's home turf, and now have dueling ad campaigns.",
+      "source": "TechCrunch",
+      "published": "2026-04-30T20:14:47+00:00",
+      "link": "https://techcrunch.com/2026/04/30/legal-ai-startup-legora-hits-5-6-valuation-and-its-battle-with-harvey-just-got-hotter/"
+    },
+    {
+      "title": "After dissing Anthropic for limiting Mythos, OpenAI restricts access to Cyber, too",
+      "summary": "OpenAI will begin rolling out its cybersecurity testing tool, GPT-5.5 Cyber only \"to critical cyber defenders\" at first.",
+      "source": "TechCrunch",
+      "published": "2026-04-30T19:27:41+00:00",
+      "link": "https://techcrunch.com/2026/04/30/after-dissing-anthropic-for-limiting-mythos-openai-restricts-access-to-cyber-too/"
+    },
+    {
+      "title": "Musk v. Altman Kicks Off, DOJ Guts Voting Rights Unit, and Is the AI Job Apocalypse Overhyped?",
+      "summary": "In this episode of Uncanny Valley, we get into how the Elon Musk-Sam Altman trial goes way beyond their rivalry and could have major implications both for OpenAI and also the AI industry at large.",
+      "source": "Wired",
+      "published": "2026-04-30T18:54:54+00:00",
+      "link": "https://www.wired.com/story/uncanny-valley-podcast-musk-v-altman-doj-guts-voting-rights-unit-is-ai-job-apocalypse-overhyped/"
+    },
+    {
+      "title": "Exclusive eBook: Inside the stealthy startup that pitched brainless human clones",
+      "summary": "The ultimate plan to live forever is a brand new body. This subscriber-only eBook explores R3 Bio, a small startup that has pitched a startling and ethically charged vision for “brainless clones” to serve the role of backup human bodies.",
+      "source": "MIT Tech Review",
+      "published": "2026-04-30T18:42:50+00:00",
+      "link": "https://www.technologyreview.com/2026/04/30/1136684/exclusive-ebook-inside-the-stealthy-startup-that-pitched-brainless-human-clones/"
+    },
+    {
+      "title": "OpenAI announces new advanced security for ChatGPT accounts, including a partnership with Yubico",
+      "summary": "OpenAI is launching additional opt-in protections for ChatGPT accounts. The new security initiative includes a new partnership with security key provider Yubico.",
+      "source": "TechCrunch",
+      "published": "2026-04-30T18:20:03+00:00",
+      "link": "https://techcrunch.com/2026/04/30/openai-announces-new-advanced-security-for-chatgpt-accounts-including-a-partnership-with-yubico/"
+    },
+    {
+      "title": "Elon Musk confirms xAI used OpenAI’s models to train Grok",
+      "summary": "In a federal courtroom in California on Thursday, Elon Musk testified that his own AI startup, xAI, has used OpenAI's models to improve its own.",
+      "source": "The Verge",
+      "published": "2026-04-30T18:16:57+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/921546/elon-musk-xai-openai-trial-model-distillation"
+    },
     {
       "title": "Elon Musk testifies that xAI trained Grok on OpenAI models",
       "summary": "\"Distillation\" is a hot topic as frontier labs try to prevent smaller competitors from copying their models.",
@@ -24,14 +73,14 @@ const FEED_DATA = {
     },
     {
       "title": "Google’s Gemini AI assistant is hitting the road in millions of vehicles",
-      "summary": "Google announced on Thursday that it will begin rolling out Gemini to cars with Google built-in, marking a significant upgrade from the current Google Assistant. The move signals Google’s push to bring more advanced, conversational AI into the driving experience.",
+      "summary": "The move signals Google’s push to bring more advanced, conversational AI into the driving experience.",
       "source": "TechCrunch",
       "published": "2026-04-30T17:46:54+00:00",
       "link": "https://techcrunch.com/2026/04/30/googles-gemini-ai-assistant-is-hitting-the-road-in-millions-of-vehicles/"
     },
     {
-      "title": "Elon Musk Seemingly Admits xAI Has Used OpenAI's Models to Train Its Own",
-      "summary": "While answering questions under oath, Musk argued it’s standard practice for AI labs to use their competitors' models.",
+      "title": "Elon Musk Seemingly Admits xAI Has Used OpenAI’s Models to Train Its Own",
+      "summary": "While answering questions under oath, Musk argued it’s standard practice for AI labs to use their competitors’ models.",
       "source": "Wired",
       "published": "2026-04-30T17:41:14+00:00",
       "link": "https://www.wired.com/story/elon-musk-distill-openai-models-partly-xai/"
@@ -66,7 +115,7 @@ const FEED_DATA = {
     },
     {
       "title": "Shai-Hulud Themed Malware Found in the PyTorch Lightning AI Training Library",
-      "summary": "Article URL: https://semgrep.dev/blog/2026/malicious-dependency-in-pytorch-lightning-used-for-ai-training/ Comments URL: https://news.ycombinator.com/item?id=47964617 Points: 117 # Comments: 22",
+      "summary": "Article URL: https://semgrep.dev/blog/2026/malicious-dependency-in-pytorch-lightning-used-for-ai-training/ Comments URL: https://news.ycombinator.com/item?id=47964617 Points: 270 # Comments: 83",
       "source": "Hacker News",
       "published": "2026-04-30T16:09:26+00:00",
       "link": "https://semgrep.dev/blog/2026/malicious-dependency-in-pytorch-lightning-used-for-ai-training/"
@@ -119,6 +168,13 @@ const FEED_DATA = {
       "source": "The Verge",
       "published": "2026-04-30T15:00:00+00:00",
       "link": "https://www.theverge.com/tech/921159/smart-glasses-review-wearable-even-realities-g2-meta-ray-ban-rokid-lucyd-oakley-meta-vanguard"
+    },
+    {
+      "title": "The More Young People Use AI, the More They Hate It",
+      "summary": "Article URL: https://www.theverge.com/ai-artificial-intelligence/920401/gen-z-ai Comments URL: https://news.ycombinator.com/item?id=47963163 Points: 109 # Comments: 123",
+      "source": "Hacker News",
+      "published": "2026-04-30T14:34:36+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/920401/gen-z-ai"
     },
     {
       "title": "OpenAI talks about not talking about goblins",
@@ -226,13 +282,6 @@ const FEED_DATA = {
       "link": "https://www.theverge.com/ai-artificial-intelligence/921073/openai-sam-altman-new-cybersecurity-model-gpt-5-5-cyber"
     },
     {
-      "title": "The more young people use AI, the more they hate it",
-      "summary": "It's been almost three years since Silicon Valley started aggressively pushing large language model-based chatbots like ChatGPT as the supposedly inevitable future of everything, and there's no group that has felt the pressure quite like Gen Z.",
-      "source": "The Verge",
-      "published": "2026-04-30T11:00:00+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/920401/gen-z-ai"
-    },
-    {
       "title": "These Men Allegedly Profit Off Teaching People How to Make AI Porn",
       "summary": "Three Arizona women have filed a lawsuit against a group of men that alleges they used the women’s photos to make AI porn influencers, then offered online courses showing others how to do it.",
       "source": "Wired",
@@ -262,7 +311,7 @@ const FEED_DATA = {
     },
     {
       "title": "DataCenter.FM – background noise app featuring the sound of the AI bubble",
-      "summary": "Article URL: https://datacenter.fm/ Comments URL: https://news.ycombinator.com/item?id=47959513 Points: 115 # Comments: 22",
+      "summary": "Article URL: https://datacenter.fm/ Comments URL: https://news.ycombinator.com/item?id=47959513 Points: 125 # Comments: 24",
       "source": "Hacker News",
       "published": "2026-04-30T07:52:12+00:00",
       "link": "https://datacenter.fm/"
@@ -276,7 +325,7 @@ const FEED_DATA = {
     },
     {
       "title": "The Zig project's rationale for their anti-AI contribution policy",
-      "summary": "Article URL: https://simonwillison.net/2026/Apr/30/zig-anti-ai/ Comments URL: https://news.ycombinator.com/item?id=47957294 Points: 572 # Comments: 351",
+      "summary": "Article URL: https://simonwillison.net/2026/Apr/30/zig-anti-ai/ Comments URL: https://news.ycombinator.com/item?id=47957294 Points: 627 # Comments: 412",
       "source": "Hacker News",
       "published": "2026-04-30T02:15:47+00:00",
       "link": "https://simonwillison.net/2026/Apr/30/zig-anti-ai/"
@@ -290,14 +339,14 @@ const FEED_DATA = {
     },
     {
       "title": "Claude.ai and API unavailable [fixed]",
-      "summary": "https://status.claude.com/ Comments URL: https://news.ycombinator.com/item?id=47956895 Points: 118 # Comments: 118",
+      "summary": "https://status.claude.com/ Comments URL: https://news.ycombinator.com/item?id=47956895 Points: 118 # Comments: 119",
       "source": "Hacker News",
       "published": "2026-04-30T01:21:03+00:00",
       "link": "https://status.claude.com/incidents/2gf1jpyty350"
     },
     {
       "title": "Mike: open-source legal AI",
-      "summary": "Article URL: https://mikeoss.com/ Comments URL: https://news.ycombinator.com/item?id=47956739 Points: 176 # Comments: 88",
+      "summary": "Article URL: https://mikeoss.com/ Comments URL: https://news.ycombinator.com/item?id=47956739 Points: 183 # Comments: 89",
       "source": "Hacker News",
       "published": "2026-04-30T00:56:23+00:00",
       "link": "https://mikeoss.com/"
@@ -381,14 +430,14 @@ const FEED_DATA = {
     },
     {
       "title": "Your CEO is suffering from AI psychosis",
-      "summary": "Article URL: https://handyai.substack.com/p/your-ceo-is-suffering-from-ai-psychosis Comments URL: https://news.ycombinator.com/item?id=47953484 Points: 98 # Comments: 31",
+      "summary": "Article URL: https://handyai.substack.com/p/your-ceo-is-suffering-from-ai-psychosis Comments URL: https://news.ycombinator.com/item?id=47953484 Points: 103 # Comments: 31",
       "source": "Hacker News",
       "published": "2026-04-29T19:46:18+00:00",
       "link": "https://handyai.substack.com/p/your-ceo-is-suffering-from-ai-psychosis"
     },
     {
       "title": "\"People who don't use AI will be left behind\"",
-      "summary": "Article URL: https://migrainebrain.bearblog.dev/people-who-dont-use-ai-will-be-left-behind/ Comments URL: https://news.ycombinator.com/item?id=47953011 Points: 164 # Comments: 253",
+      "summary": "Article URL: https://migrainebrain.bearblog.dev/people-who-dont-use-ai-will-be-left-behind/ Comments URL: https://news.ycombinator.com/item?id=47953011 Points: 165 # Comments: 254",
       "source": "Hacker News",
       "published": "2026-04-29T19:15:52+00:00",
       "link": "https://migrainebrain.bearblog.dev/people-who-dont-use-ai-will-be-left-behind/"
@@ -416,7 +465,7 @@ const FEED_DATA = {
     },
     {
       "title": "Ramp's Sheets AI Exfiltrates Financials",
-      "summary": "Article URL: https://www.promptarmor.com/resources/ramps-sheets-ai-exfiltrates-financials Comments URL: https://news.ycombinator.com/item?id=47951786 Points: 135 # Comments: 49",
+      "summary": "Article URL: https://www.promptarmor.com/resources/ramps-sheets-ai-exfiltrates-financials Comments URL: https://news.ycombinator.com/item?id=47951786 Points: 138 # Comments: 49",
       "source": "Hacker News",
       "published": "2026-04-29T17:44:21+00:00",
       "link": "https://www.promptarmor.com/resources/ramps-sheets-ai-exfiltrates-financials"
@@ -430,7 +479,7 @@ const FEED_DATA = {
     },
     {
       "title": "The Abstraction Fallacy: Why AI can simulate but not instantiate consciousness",
-      "summary": "Article URL: https://deepmind.google/research/publications/231971/ Comments URL: https://news.ycombinator.com/item?id=47951582 Points: 67 # Comments: 122",
+      "summary": "Article URL: https://deepmind.google/research/publications/231971/ Comments URL: https://news.ycombinator.com/item?id=47951582 Points: 69 # Comments: 123",
       "source": "Hacker News",
       "published": "2026-04-29T17:30:15+00:00",
       "link": "https://deepmind.google/research/publications/231971/"
@@ -472,7 +521,7 @@ const FEED_DATA = {
     },
     {
       "title": "Why AI companies want you to be afraid of them",
-      "summary": "Article URL: https://www.bbc.com/future/article/20260428-ai-companies-want-you-to-be-afraid-of-them Comments URL: https://news.ycombinator.com/item?id=47949750 Points: 280 # Comments: 215",
+      "summary": "Article URL: https://www.bbc.com/future/article/20260428-ai-companies-want-you-to-be-afraid-of-them Comments URL: https://news.ycombinator.com/item?id=47949750 Points: 281 # Comments: 216",
       "source": "Hacker News",
       "published": "2026-04-29T15:26:01+00:00",
       "link": "https://www.bbc.com/future/article/20260428-ai-companies-want-you-to-be-afraid-of-them"
@@ -486,7 +535,7 @@ const FEED_DATA = {
     },
     {
       "title": "Making AI chatbots friendly leads to mistakes and support of conspiracy theories",
-      "summary": "Article URL: https://www.theguardian.com/technology/2026/apr/29/making-ai-chatbots-more-friendly-mistakes-support-false-beliefs-conspiracy-theories-study Comments URL: https://news.ycombinator.com/item?id=47949538 Points: 89 # Comments: 71",
+      "summary": "Article URL: https://www.theguardian.com/technology/2026/apr/29/making-ai-chatbots-more-friendly-mistakes-support-false-beliefs-conspiracy-theories-study Comments URL: https://news.ycombinator.com/item?id=47949538 Points: 91 # Comments: 73",
       "source": "Hacker News",
       "published": "2026-04-29T15:11:12+00:00",
       "link": "https://www.theguardian.com/technology/2026/apr/29/making-ai-chatbots-more-friendly-mistakes-support-false-beliefs-conspiracy-theories-study"
@@ -577,7 +626,7 @@ const FEED_DATA = {
     },
     {
       "title": "He asked AI to count carbs 27000 times. It couldn't give the same answer twice",
-      "summary": "Article URL: https://www.diabettech.com/i-asked-ai-to-count-my-carbs-27000-times-it-couldnt-give-me-the-same-answer-twice/ Comments URL: https://news.ycombinator.com/item?id=47947490 Points: 240 # Comments: 298",
+      "summary": "Article URL: https://www.diabettech.com/i-asked-ai-to-count-my-carbs-27000-times-it-couldnt-give-me-the-same-answer-twice/ Comments URL: https://news.ycombinator.com/item?id=47947490 Points: 240 # Comments: 299",
       "source": "Hacker News",
       "published": "2026-04-29T12:38:50+00:00",
       "link": "https://www.diabettech.com/i-asked-ai-to-count-my-carbs-27000-times-it-couldnt-give-me-the-same-answer-twice/"
@@ -773,14 +822,14 @@ const FEED_DATA = {
     },
     {
       "title": "AI's economics don't make sense",
-      "summary": "Related: AI's biggest critic has lost the plot - https://news.ycombinator.com/item?id=47934353 Comments URL: https://news.ycombinator.com/item?id=47936867 Points: 235 # Comments: 187",
+      "summary": "Related: AI's biggest critic has lost the plot - https://news.ycombinator.com/item?id=47934353 Comments URL: https://news.ycombinator.com/item?id=47936867 Points: 236 # Comments: 188",
       "source": "Hacker News",
       "published": "2026-04-28T16:39:53+00:00",
       "link": "https://www.wheresyoured.at/ais-economics-dont-make-sense/"
     },
     {
       "title": "Google and Pentagon reportedly agree on deal for 'any lawful' use of AI",
-      "summary": "Article URL: https://www.theverge.com/ai-artificial-intelligence/919494/google-pentagon-classified-ai-deal Comments URL: https://news.ycombinator.com/item?id=47936156 Points: 313 # Comments: 278",
+      "summary": "Article URL: https://www.theverge.com/ai-artificial-intelligence/919494/google-pentagon-classified-ai-deal Comments URL: https://news.ycombinator.com/item?id=47936156 Points: 314 # Comments: 278",
       "source": "Hacker News",
       "published": "2026-04-28T15:49:22+00:00",
       "link": "https://www.theverge.com/ai-artificial-intelligence/919494/google-pentagon-classified-ai-deal"
@@ -1351,55 +1400,6 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-04-25T12:16:13+00:00",
       "link": "https://the-decoder.com/qwen3-6-27b-beats-much-larger-predecessor-on-most-coding-benchmarks/"
-    },
-    {
-      "title": "Lambda Calculus Benchmark for AI",
-      "summary": "Article URL: https://victortaelin.github.io/lambench/ Comments URL: https://news.ycombinator.com/item?id=47900506 Points: 142 # Comments: 43",
-      "source": "Hacker News",
-      "published": "2026-04-25T11:16:23+00:00",
-      "link": "https://victortaelin.github.io/lambench/"
-    },
-    {
-      "title": "Discord Sleuths Gained Unauthorized Access to Anthropic’s Mythos",
-      "summary": "Plus: Spy firms tap into a global telecom weakness to track targets, 500,000 UK health records go up for sale on Alibaba, Apple patches a revealing notification bug, and more.",
-      "source": "Wired",
-      "published": "2026-04-25T10:30:00+00:00",
-      "link": "https://www.wired.com/story/security-news-this-week-discord-sleuths-gained-unauthorized-access-to-anthropics-mythos/"
-    },
-    {
-      "title": "Anthropic says stronger AI models cut better deals, and the losers don't even notice",
-      "summary": "Anthropic let 69 AI agents trade on behalf of employees in an internal marketplace for a week. Stronger models scored better deals, and the people stuck with weaker agents never noticed.",
-      "source": "The Decoder",
-      "published": "2026-04-25T10:18:31+00:00",
-      "link": "https://the-decoder.com/anthropic-says-stronger-ai-models-cut-better-deals-and-the-losers-dont-even-notice/"
-    },
-    {
-      "title": "The UAE wants half its government run by autonomous AI agents within two years",
-      "summary": "The United Arab Emirates plans to shift half of its government operations to autonomous AI systems within two years. The article The UAE wants half its government run by autonomous AI agents within two years appeared first on The Decoder.",
-      "source": "The Decoder",
-      "published": "2026-04-25T09:08:57+00:00",
-      "link": "https://the-decoder.com/the-uae-wants-half-its-government-run-by-autonomous-ai-agents-within-two-years/"
-    },
-    {
-      "title": "Show HN: A Karpathy-style LLM wiki your agents maintain (Markdown and Git)",
-      "summary": "I shipped a wiki layer for AI agents that uses markdown + git as the source of truth, with a bleve (BM25) + SQLite index on top.",
-      "source": "Hacker News",
-      "published": "2026-04-25T08:53:53+00:00",
-      "link": "https://github.com/nex-crm/wuphf"
-    },
-    {
-      "title": "OpenAI unveils GPT-5.5, claims a \"new class of intelligence\" at double the API price",
-      "summary": "OpenAI has announced GPT-5.5, an agentic model designed to work through complex tasks autonomously by switching between multiple tools. The article OpenAI unveils GPT-5.5, claims a \"new class of intelligence\" at double the API price appeared first on The Decoder.",
-      "source": "The Decoder",
-      "published": "2026-04-25T08:38:07+00:00",
-      "link": "https://the-decoder.com/openai-unveils-gpt-5-5-claims-a-new-class-of-intelligence-at-double-the-api-price/"
-    },
-    {
-      "title": "Google pours up to $40 billion into ChatGPT rival Anthropic",
-      "summary": "Google is investing up to 40 billion dollars in Anthropic. Together with Amazon's pledge of 25 billion dollars, up to 65 billion dollars will flow into the AI company behind Claude in just a few weeks.",
-      "source": "The Decoder",
-      "published": "2026-04-25T08:26:11+00:00",
-      "link": "https://the-decoder.com/google-pours-up-to-40-billion-into-chatgpt-rival-anthropic/"
     }
   ]
 };
