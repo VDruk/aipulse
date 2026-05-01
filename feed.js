@@ -1,6 +1,27 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-05-01T07:26:29.074889+00:00",
+  "lastUpdated": "2026-05-01T10:13:07.871553+00:00",
   "items": [
+    {
+      "title": "Google Deepmind's \"AI co-clinician\" beats GPT-5.4 in blind doctor tests but still trails experienced physicians",
+      "summary": "Google Deepmind is building an \"AI co-clinician\" to help doctors care for patients. The system shows promising results in simulation studies but still trails experienced physicians.",
+      "source": "The Decoder",
+      "published": "2026-05-01T09:21:32+00:00",
+      "link": "https://the-decoder.com/google-deepminds-ai-co-clinician-beats-gpt-5-4-in-blind-doctor-tests-but-still-trails-experienced-physicians/"
+    },
+    {
+      "title": "A new US phone network for Christians aims to block porn and gender-related content",
+      "summary": "A new US-wide cell phone network marketed to Christians is set to launch next week. It blocks porn, which experts in network security say marks the first time a US cell plan has used network-level blocking for such content that can’t be turned off even by adult account owners.",
+      "source": "MIT Tech Review",
+      "published": "2026-05-01T09:00:00+00:00",
+      "link": "https://www.technologyreview.com/2026/05/01/1136739/a-new-t-mobile-network-for-christians-aims-to-block-porn-and-gender-related-content/"
+    },
+    {
+      "title": "Mistral's new flagship Medium 3.5 folds chat, reasoning, and code into one model",
+      "summary": "Mistral's new flagship, Mistral Medium 3.5, merges what used to be separate models for chat, reasoning, and code into a single product. The French company is also adding asynchronous cloud agents to its coding tool Vibe and giving Le Chat a new agent mode.",
+      "source": "The Decoder",
+      "published": "2026-05-01T08:21:14+00:00",
+      "link": "https://the-decoder.com/mistrals-new-flagship-medium-3-5-folds-chat-reasoning-and-code-into-one-model/"
+    },
     {
       "title": "ChatGPT Images 2.0 is a hit in India, but not a big winner elsewhere, yet",
       "summary": "Users in India are embracing ChatGPT Images 2.0 for creative, personal visuals — from avatars to cinematic portraits.",
@@ -157,7 +178,7 @@ const FEED_DATA = {
     },
     {
       "title": "Shai-Hulud Themed Malware Found in the PyTorch Lightning AI Training Library",
-      "summary": "Article URL: https://semgrep.dev/blog/2026/malicious-dependency-in-pytorch-lightning-used-for-ai-training/ Comments URL: https://news.ycombinator.com/item?id=47964617 Points: 382 # Comments: 131",
+      "summary": "Article URL: https://semgrep.dev/blog/2026/malicious-dependency-in-pytorch-lightning-used-for-ai-training/ Comments URL: https://news.ycombinator.com/item?id=47964617 Points: 397 # Comments: 137",
       "source": "Hacker News",
       "published": "2026-04-30T16:09:26+00:00",
       "link": "https://semgrep.dev/blog/2026/malicious-dependency-in-pytorch-lightning-used-for-ai-training/"
@@ -213,7 +234,7 @@ const FEED_DATA = {
     },
     {
       "title": "The More Young People Use AI, the More They Hate It",
-      "summary": "Article URL: https://www.theverge.com/ai-artificial-intelligence/920401/gen-z-ai Comments URL: https://news.ycombinator.com/item?id=47963163 Points: 116 # Comments: 134",
+      "summary": "Article URL: https://www.theverge.com/ai-artificial-intelligence/920401/gen-z-ai Comments URL: https://news.ycombinator.com/item?id=47963163 Points: 121 # Comments: 134",
       "source": "Hacker News",
       "published": "2026-04-30T14:34:36+00:00",
       "link": "https://www.theverge.com/ai-artificial-intelligence/920401/gen-z-ai"
@@ -353,7 +374,7 @@ const FEED_DATA = {
     },
     {
       "title": "DataCenter.FM – background noise app featuring the sound of the AI bubble",
-      "summary": "Article URL: https://datacenter.fm/ Comments URL: https://news.ycombinator.com/item?id=47959513 Points: 136 # Comments: 28",
+      "summary": "Article URL: https://datacenter.fm/ Comments URL: https://news.ycombinator.com/item?id=47959513 Points: 137 # Comments: 28",
       "source": "Hacker News",
       "published": "2026-04-30T07:52:12+00:00",
       "link": "https://datacenter.fm/"
@@ -367,7 +388,7 @@ const FEED_DATA = {
     },
     {
       "title": "The Zig project's rationale for their anti-AI contribution policy",
-      "summary": "Article URL: https://simonwillison.net/2026/Apr/30/zig-anti-ai/ Comments URL: https://news.ycombinator.com/item?id=47957294 Points: 649 # Comments: 432",
+      "summary": "Article URL: https://simonwillison.net/2026/Apr/30/zig-anti-ai/ Comments URL: https://news.ycombinator.com/item?id=47957294 Points: 655 # Comments: 438",
       "source": "Hacker News",
       "published": "2026-04-30T02:15:47+00:00",
       "link": "https://simonwillison.net/2026/Apr/30/zig-anti-ai/"
@@ -388,7 +409,7 @@ const FEED_DATA = {
     },
     {
       "title": "Mike: open-source legal AI",
-      "summary": "Article URL: https://mikeoss.com/ Comments URL: https://news.ycombinator.com/item?id=47956739 Points: 197 # Comments: 97",
+      "summary": "Article URL: https://mikeoss.com/ Comments URL: https://news.ycombinator.com/item?id=47956739 Points: 199 # Comments: 99",
       "source": "Hacker News",
       "published": "2026-04-30T00:56:23+00:00",
       "link": "https://mikeoss.com/"
@@ -479,7 +500,7 @@ const FEED_DATA = {
     },
     {
       "title": "\"People who don't use AI will be left behind\"",
-      "summary": "Article URL: https://migrainebrain.bearblog.dev/people-who-dont-use-ai-will-be-left-behind/ Comments URL: https://news.ycombinator.com/item?id=47953011 Points: 167 # Comments: 257",
+      "summary": "Article URL: https://migrainebrain.bearblog.dev/people-who-dont-use-ai-will-be-left-behind/ Comments URL: https://news.ycombinator.com/item?id=47953011 Points: 167 # Comments: 258",
       "source": "Hacker News",
       "published": "2026-04-29T19:15:52+00:00",
       "link": "https://migrainebrain.bearblog.dev/people-who-dont-use-ai-will-be-left-behind/"
@@ -563,7 +584,7 @@ const FEED_DATA = {
     },
     {
       "title": "Why AI companies want you to be afraid of them",
-      "summary": "Article URL: https://www.bbc.com/future/article/20260428-ai-companies-want-you-to-be-afraid-of-them Comments URL: https://news.ycombinator.com/item?id=47949750 Points: 283 # Comments: 217",
+      "summary": "Article URL: https://www.bbc.com/future/article/20260428-ai-companies-want-you-to-be-afraid-of-them Comments URL: https://news.ycombinator.com/item?id=47949750 Points: 283 # Comments: 218",
       "source": "Hacker News",
       "published": "2026-04-29T15:26:01+00:00",
       "link": "https://www.bbc.com/future/article/20260428-ai-companies-want-you-to-be-afraid-of-them"
@@ -1379,27 +1400,6 @@ const FEED_DATA = {
       "source": "Hacker News",
       "published": "2026-04-25T20:19:53+00:00",
       "link": "https://williamoconnell.me/blog/post/ai-ide/"
-    },
-    {
-      "title": "OpenAI CEO apologizes to Tumbler Ridge community",
-      "summary": "In a letter to the residents of Tumbler Ridge, Canada, OpenAI CEO Sam Altman said he is “deeply sorry” that his company failed to alert law enforcement about the suspect in a recent mass shooting.",
-      "source": "TechCrunch",
-      "published": "2026-04-25T17:17:56+00:00",
-      "link": "https://techcrunch.com/2026/04/25/openai-ceo-apologizes-to-tumbler-ridge-community/"
-    },
-    {
-      "title": "GPT-5.5 tops benchmarks but still hallucinates frequently at a 20 percent higher API cost",
-      "summary": "GPT-5.5 pushes OpenAI back to the top of the AI benchmarks. The price went up, but it still looks like the best bang for your buck among proprietary models.",
-      "source": "The Decoder",
-      "published": "2026-04-25T16:50:49+00:00",
-      "link": "https://the-decoder.com/gpt-5-5-tops-benchmarks-but-still-hallucinates-frequently-at-a-20-percent-higher-api-cost/"
-    },
-    {
-      "title": "GPT-5.5 tops benchmarks but still hallucinates frequently and costs 20 percent more over the API",
-      "summary": "GPT-5.5 pushes OpenAI back to the top of the AI benchmarks. The price went up, but it still looks like the best bang for your buck among proprietary models.",
-      "source": "The Decoder",
-      "published": "2026-04-25T16:50:49+00:00",
-      "link": "https://the-decoder.com/gpt-5-5-tops-benchmarks-but-still-hallucinates-frequently-and-costs-20-percent-more-over-the-api/"
     }
   ]
 };
