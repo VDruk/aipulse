@@ -1,12 +1,33 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-05-01T17:54:35.622351+00:00",
+  "lastUpdated": "2026-05-01T21:44:28.879592+00:00",
   "items": [
+    {
+      "title": "A Dark-Money Campaign Is Paying Influencers to Frame Chinese AI as a Threat",
+      "summary": "Build American AI, a nonprofit linked to a super PAC bankrolled by executives at OpenAI and Andreessen Horowitz, is funding a campaign to spread pro-AI messaging and stoke fears about China.",
+      "source": "Wired",
+      "published": "2026-05-01T20:25:28+00:00",
+      "link": "https://www.wired.com/story/super-pac-backed-by-openai-and-palantir-is-paying-tiktok-influencers-to-fear-monger-about-china/"
+    },
     {
       "title": "Did you know you can’t steal a charity? Don’t worry. Elon Musk will remind you.",
       "summary": "Elon Musk spent the better part of three days on the witness stand this week in his lawsuit against OpenAI, and it’s already getting messy. Emails, texts, and his own tweets are surfacing in court, and there are plenty more witnesses to come.",
       "source": "TechCrunch",
       "published": "2026-05-01T17:44:29+00:00",
       "link": "https://techcrunch.com/podcast/did-you-know-you-cant-steal-a-charity-dont-worry-elon-musk-will-remind-you/"
+    },
+    {
+      "title": "AI uses less water than the public thinks",
+      "summary": "Article URL: https://californiawaterblog.com/2026/04/26/ai-water-use-distractions-and-lessons-for-california/ Comments URL: https://news.ycombinator.com/item?id=47977383 Points: 271 # Comments: 246",
+      "source": "Hacker News",
+      "published": "2026-05-01T17:18:58+00:00",
+      "link": "https://californiawaterblog.com/2026/04/26/ai-water-use-distractions-and-lessons-for-california/"
+    },
+    {
+      "title": "Spotify adds 'Verified' badges to distinguish human artists from AI",
+      "summary": "Article URL: https://www.bbc.com/news/articles/c5yerr4m1yno Comments URL: https://news.ycombinator.com/item?id=47976856 Points: 158 # Comments: 178",
+      "source": "Hacker News",
+      "published": "2026-05-01T16:42:41+00:00",
+      "link": "https://www.bbc.com/news/articles/c5yerr4m1yno"
     },
     {
       "title": "Eight tech giants sign Pentagon deals to build an \"AI-first fighting force\" across classified networks",
@@ -16,8 +37,8 @@ const FEED_DATA = {
       "link": "https://the-decoder.com/eight-tech-giants-sign-pentagon-deals-to-build-an-ai-first-fighting-force-across-classified-networks/"
     },
     {
-      "title": "Uber Torches 2026 AI Budget on Claude Code in Four Months",
-      "summary": "Article URL: https://www.briefs.co/news/uber-torches-entire-2026-ai-budget-on-claude-code-in-four-months/ Comments URL: https://news.ycombinator.com/item?id=47976415 Points: 203 # Comments: 215",
+      "title": "Uber torches 2026 AI budget on Claude Code in four months",
+      "summary": "Article URL: https://www.briefs.co/news/uber-torches-entire-2026-ai-budget-on-claude-code-in-four-months/ Comments URL: https://news.ycombinator.com/item?id=47976415 Points: 354 # Comments: 400",
       "source": "Hacker News",
       "published": "2026-05-01T16:08:53+00:00",
       "link": "https://www.briefs.co/news/uber-torches-entire-2026-ai-budget-on-claude-code-in-four-months/"
@@ -332,7 +353,7 @@ const FEED_DATA = {
     },
     {
       "title": "Shai-Hulud Themed Malware Found in the PyTorch Lightning AI Training Library",
-      "summary": "Article URL: https://semgrep.dev/blog/2026/malicious-dependency-in-pytorch-lightning-used-for-ai-training/ Comments URL: https://news.ycombinator.com/item?id=47964617 Points: 447 # Comments: 170",
+      "summary": "Also: https://socket.dev/blog/lightning-pypi-package-compromised Comments URL: https://news.ycombinator.com/item?id=47964617 Points: 454 # Comments: 177",
       "source": "Hacker News",
       "published": "2026-04-30T16:09:26+00:00",
       "link": "https://semgrep.dev/blog/2026/malicious-dependency-in-pytorch-lightning-used-for-ai-training/"
@@ -388,7 +409,7 @@ const FEED_DATA = {
     },
     {
       "title": "The More Young People Use AI, the More They Hate It",
-      "summary": "Article URL: https://www.theverge.com/ai-artificial-intelligence/920401/gen-z-ai Comments URL: https://news.ycombinator.com/item?id=47963163 Points: 122 # Comments: 133",
+      "summary": "Article URL: https://www.theverge.com/ai-artificial-intelligence/920401/gen-z-ai Comments URL: https://news.ycombinator.com/item?id=47963163 Points: 122 # Comments: 139",
       "source": "Hacker News",
       "published": "2026-04-30T14:34:36+00:00",
       "link": "https://www.theverge.com/ai-artificial-intelligence/920401/gen-z-ai"
@@ -528,7 +549,7 @@ const FEED_DATA = {
     },
     {
       "title": "DataCenter.FM – background noise app featuring the sound of the AI bubble",
-      "summary": "Article URL: https://datacenter.fm/ Comments URL: https://news.ycombinator.com/item?id=47959513 Points: 143 # Comments: 28",
+      "summary": "Article URL: https://datacenter.fm/ Comments URL: https://news.ycombinator.com/item?id=47959513 Points: 145 # Comments: 28",
       "source": "Hacker News",
       "published": "2026-04-30T07:52:12+00:00",
       "link": "https://datacenter.fm/"
@@ -542,7 +563,7 @@ const FEED_DATA = {
     },
     {
       "title": "The Zig project's rationale for their anti-AI contribution policy",
-      "summary": "Article URL: https://simonwillison.net/2026/Apr/30/zig-anti-ai/ Comments URL: https://news.ycombinator.com/item?id=47957294 Points: 662 # Comments: 448",
+      "summary": "Article URL: https://simonwillison.net/2026/Apr/30/zig-anti-ai/ Comments URL: https://news.ycombinator.com/item?id=47957294 Points: 668 # Comments: 450",
       "source": "Hacker News",
       "published": "2026-04-30T02:15:47+00:00",
       "link": "https://simonwillison.net/2026/Apr/30/zig-anti-ai/"
@@ -563,7 +584,7 @@ const FEED_DATA = {
     },
     {
       "title": "Mike: open-source legal AI",
-      "summary": "Article URL: https://mikeoss.com/ Comments URL: https://news.ycombinator.com/item?id=47956739 Points: 201 # Comments: 100",
+      "summary": "Article URL: https://mikeoss.com/ Comments URL: https://news.ycombinator.com/item?id=47956739 Points: 202 # Comments: 100",
       "source": "Hacker News",
       "published": "2026-04-30T00:56:23+00:00",
       "link": "https://mikeoss.com/"
@@ -752,7 +773,7 @@ const FEED_DATA = {
     },
     {
       "title": "Making AI chatbots friendly leads to mistakes and support of conspiracy theories",
-      "summary": "Article URL: https://www.theguardian.com/technology/2026/apr/29/making-ai-chatbots-more-friendly-mistakes-support-false-beliefs-conspiracy-theories-study Comments URL: https://news.ycombinator.com/item?id=47949538 Points: 93 # Comments: 76",
+      "summary": "Article URL: https://www.theguardian.com/technology/2026/apr/29/making-ai-chatbots-more-friendly-mistakes-support-false-beliefs-conspiracy-theories-study Comments URL: https://news.ycombinator.com/item?id=47949538 Points: 93 # Comments: 80",
       "source": "Hacker News",
       "published": "2026-04-29T15:11:12+00:00",
       "link": "https://www.theguardian.com/technology/2026/apr/29/making-ai-chatbots-more-friendly-mistakes-support-false-beliefs-conspiracy-theories-study"
@@ -836,14 +857,14 @@ const FEED_DATA = {
     },
     {
       "title": "Letting AI play my game – building an agentic test harness to help play-testing",
-      "summary": "Article URL: https://blog.jeffschomay.com/letting-ai-play-my-game Comments URL: https://news.ycombinator.com/item?id=47947525 Points: 132 # Comments: 34",
+      "summary": "Article URL: https://blog.jeffschomay.com/letting-ai-play-my-game Comments URL: https://news.ycombinator.com/item?id=47947525 Points: 132 # Comments: 35",
       "source": "Hacker News",
       "published": "2026-04-29T12:43:12+00:00",
       "link": "https://blog.jeffschomay.com/letting-ai-play-my-game"
     },
     {
       "title": "He asked AI to count carbs 27000 times. It couldn't give the same answer twice",
-      "summary": "Article URL: https://www.diabettech.com/i-asked-ai-to-count-my-carbs-27000-times-it-couldnt-give-me-the-same-answer-twice/ Comments URL: https://news.ycombinator.com/item?id=47947490 Points: 240 # Comments: 305",
+      "summary": "Article URL: https://www.diabettech.com/i-asked-ai-to-count-my-carbs-27000-times-it-couldnt-give-me-the-same-answer-twice/ Comments URL: https://news.ycombinator.com/item?id=47947490 Points: 241 # Comments: 305",
       "source": "Hacker News",
       "published": "2026-04-29T12:38:50+00:00",
       "link": "https://www.diabettech.com/i-asked-ai-to-count-my-carbs-27000-times-it-couldnt-give-me-the-same-answer-twice/"
@@ -1379,27 +1400,6 @@ const FEED_DATA = {
       "source": "AI News",
       "published": "2026-04-27T11:12:52+00:00",
       "link": "https://www.artificialintelligence-news.com/news/google-warns-malicious-web-pages-poisoning-ai-agents/"
-    },
-    {
-      "title": "China blocks Meta's $2 billion acquisition of AI startup Manus",
-      "summary": "Beijing orders the unwinding of the already completed acquisition. The move comes amid intensifying technological rivalry between the US and China.",
-      "source": "The Decoder",
-      "published": "2026-04-27T11:08:32+00:00",
-      "link": "https://the-decoder.com/china-blocks-metas-2-billion-acquisition-of-ai-startup-manus/"
-    },
-    {
-      "title": "The AI-designed car is taking shape",
-      "summary": "The auto design world is full of advanced 3D visualization tools and VR sculpting platforms, but your average new car still enters the world as a sketch.",
-      "source": "The Verge",
-      "published": "2026-04-27T11:00:00+00:00",
-      "link": "https://www.theverge.com/transportation/918411/gm-ai-car-design-nissan-neural-concept"
-    },
-    {
-      "title": "Mistral built a $14B AI empire by not being American",
-      "summary": "Article URL: https://www.forbes.com/sites/iainmartin/2026/04/16/how-frances-mistral-built-a-14-billion-ai-empire-by-not-being-american/ Comments URL: https://news.ycombinator.com/item?id=47919725 Points: 220 # Comments: 176",
-      "source": "Hacker News",
-      "published": "2026-04-27T10:14:15+00:00",
-      "link": "https://www.forbes.com/sites/iainmartin/2026/04/16/how-frances-mistral-built-a-14-billion-ai-empire-by-not-being-american/"
     }
   ]
 };
