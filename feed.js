@@ -1,6 +1,34 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-05-02T07:02:02.900251+00:00",
+  "lastUpdated": "2026-05-02T09:50:47.260019+00:00",
   "items": [
+    {
+      "title": "Elon Musk calls himself a fool for giving OpenAI $38 million that became an $800 billion company",
+      "summary": "Elon Musk called himself a \"fool\" in court, warned of a \"Terminator\" future, and admitted that xAI taps OpenAI's models for its own AI training. Week one of Musk's trial against Sam Altman delivered plenty of drama; and the best may still be ahead.",
+      "source": "The Decoder",
+      "published": "2026-05-02T09:27:21+00:00",
+      "link": "https://the-decoder.com/elon-musk-calls-himself-a-fool-for-giving-openai-38-million-that-became-an-800-billion-company/"
+    },
+    {
+      "title": "ChatGPT now tracks users for ads by default as OpenAI looks for new revenue",
+      "summary": "OpenAI has turned on marketing cookies by default for free ChatGPT users in countries where ads are running. Tracking is automatically active for free accounts but not for paying subscribers.",
+      "source": "The Decoder",
+      "published": "2026-05-02T08:30:15+00:00",
+      "link": "https://the-decoder.com/chatgpt-now-tracks-users-for-ads-by-default-as-openai-looks-for-new-revenue/"
+    },
+    {
+      "title": "Meta acquires Assured Robot Intelligence to accelerate humanoid robot push",
+      "summary": "Meta has acquired robotics AI startup Assured Robot Intelligence to accelerate its work on humanoid robots. The goal is an open platform for the entire industry, similar to what Android did for smartphones.",
+      "source": "The Decoder",
+      "published": "2026-05-02T08:02:06+00:00",
+      "link": "https://the-decoder.com/meta-acquires-assured-robot-intelligence-to-accelerate-humanoid-robot-push/"
+    },
+    {
+      "title": "xAI drops Grok 4.3 with steep price cuts and an Imagine agent mode for creative projects",
+      "summary": "With Grok 4.3, xAI is leaning into low prices and better tool use. The model shows gains on practical tasks, but it still trails the top models from OpenAI and Anthropic.",
+      "source": "The Decoder",
+      "published": "2026-05-02T07:35:24+00:00",
+      "link": "https://the-decoder.com/xai-drops-grok-4-3-with-steep-price-cuts-and-an-imagine-agent-mode-for-creative-projects/"
+    },
     {
       "title": "Meta buys robotics startup to bolster its humanoid AI ambitions",
       "summary": "Meta bought humanoid startup Assured Robot Intelligence to beef up its AI models for robots, the company said.",
@@ -38,14 +66,14 @@ const FEED_DATA = {
     },
     {
       "title": "AI uses less water than the public thinks",
-      "summary": "Article URL: https://californiawaterblog.com/2026/04/26/ai-water-use-distractions-and-lessons-for-california/ Comments URL: https://news.ycombinator.com/item?id=47977383 Points: 371 # Comments: 336",
+      "summary": "Article URL: https://californiawaterblog.com/2026/04/26/ai-water-use-distractions-and-lessons-for-california/ Comments URL: https://news.ycombinator.com/item?id=47977383 Points: 375 # Comments: 349",
       "source": "Hacker News",
       "published": "2026-05-01T17:18:58+00:00",
       "link": "https://californiawaterblog.com/2026/04/26/ai-water-use-distractions-and-lessons-for-california/"
     },
     {
       "title": "Spotify adds 'Verified' badges to distinguish human artists from AI",
-      "summary": "Article URL: https://www.bbc.com/news/articles/c5yerr4m1yno Comments URL: https://news.ycombinator.com/item?id=47976856 Points: 234 # Comments: 259",
+      "summary": "Article URL: https://www.bbc.com/news/articles/c5yerr4m1yno Comments URL: https://news.ycombinator.com/item?id=47976856 Points: 243 # Comments: 268",
       "source": "Hacker News",
       "published": "2026-05-01T16:42:41+00:00",
       "link": "https://www.bbc.com/news/articles/c5yerr4m1yno"
@@ -59,7 +87,7 @@ const FEED_DATA = {
     },
     {
       "title": "Uber torches 2026 AI budget on Claude Code in four months",
-      "summary": "Article URL: https://www.briefs.co/news/uber-torches-entire-2026-ai-budget-on-claude-code-in-four-months/ Comments URL: https://news.ycombinator.com/item?id=47976415 Points: 376 # Comments: 445",
+      "summary": "Article URL: https://www.briefs.co/news/uber-torches-entire-2026-ai-budget-on-claude-code-in-four-months/ Comments URL: https://news.ycombinator.com/item?id=47976415 Points: 380 # Comments: 452",
       "source": "Hacker News",
       "published": "2026-05-01T16:08:53+00:00",
       "link": "https://www.briefs.co/news/uber-torches-entire-2026-ai-budget-on-claude-code-in-four-months/"
@@ -175,6 +203,13 @@ const FEED_DATA = {
       "source": "AI News",
       "published": "2026-05-01T11:00:00+00:00",
       "link": "https://www.artificialintelligence-news.com/news/per-token-ai-charging-comes-to-github-copilot/"
+    },
+    {
+      "title": "Show HN: Loopsy, a way for terminals and AI agents on different machines to talk",
+      "summary": "I've always had the urge to have my two macbooks communicate. Having one idle while working on the other felt like underutilization of resources.",
+      "source": "Hacker News",
+      "published": "2026-05-01T10:25:41+00:00",
+      "link": "https://github.com/leox255/loopsy"
     },
     {
       "title": "GPT-5.5 matches Claude Mythos in cyber attack tests, UK AI Security Institute finds",
@@ -374,7 +409,7 @@ const FEED_DATA = {
     },
     {
       "title": "Shai-Hulud Themed Malware Found in the PyTorch Lightning AI Training Library",
-      "summary": "Also: https://socket.dev/blog/lightning-pypi-package-compromised Comments URL: https://news.ycombinator.com/item?id=47964617 Points: 457 # Comments: 177",
+      "summary": "Also: https://socket.dev/blog/lightning-pypi-package-compromised Comments URL: https://news.ycombinator.com/item?id=47964617 Points: 458 # Comments: 177",
       "source": "Hacker News",
       "published": "2026-04-30T16:09:26+00:00",
       "link": "https://semgrep.dev/blog/2026/malicious-dependency-in-pytorch-lightning-used-for-ai-training/"
@@ -430,7 +465,7 @@ const FEED_DATA = {
     },
     {
       "title": "The More Young People Use AI, the More They Hate It",
-      "summary": "Article URL: https://www.theverge.com/ai-artificial-intelligence/920401/gen-z-ai Comments URL: https://news.ycombinator.com/item?id=47963163 Points: 124 # Comments: 139",
+      "summary": "Article URL: https://www.theverge.com/ai-artificial-intelligence/920401/gen-z-ai Comments URL: https://news.ycombinator.com/item?id=47963163 Points: 125 # Comments: 139",
       "source": "Hacker News",
       "published": "2026-04-30T14:34:36+00:00",
       "link": "https://www.theverge.com/ai-artificial-intelligence/920401/gen-z-ai"
@@ -1365,41 +1400,6 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-04-27T13:59:05+00:00",
       "link": "https://the-decoder.com/sam-altman-outlines-five-principles-that-double-as-justification-for-openais-business-decisions/"
-    },
-    {
-      "title": "Microsoft to Stop Sharing Revenue with Main AI Partner OpenAI",
-      "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-04-27/microsoft-to-stop-sharing-revenue-with-main-ai-partner-openai Comments URL: https://news.ycombinator.com/item?id=47921248 Points: 76 # Comments: 15",
-      "source": "Hacker News",
-      "published": "2026-04-27T13:22:42+00:00",
-      "link": "https://www.bloomberg.com/news/articles/2026-04-27/microsoft-to-stop-sharing-revenue-with-main-ai-partner-openai"
-    },
-    {
-      "title": "China blocks Meta’s $2B Manus deal after months-long probe",
-      "summary": "China has ordered Meta to unwind its multibillion-dollar Manus acquisition, dealing a potential setback to Zuckerberg’s push into AI agents.",
-      "source": "TechCrunch",
-      "published": "2026-04-27T13:16:55+00:00",
-      "link": "https://techcrunch.com/2026/04/27/china-vetoes-metas-2b-manus-deal-after-months-long-probe/"
-    },
-    {
-      "title": "OpenAI could be making a phone with AI agents replacing apps",
-      "summary": "There have been plenty of rumors about OpenAI's hardware plans, which involve launching a pair of earbuds. A new note from industry analyst Ming-Chi Kuo suggests that the AI company might be working on a phone in collaboration with MediaTek, Qualcomm, and Luxshare.",
-      "source": "TechCrunch",
-      "published": "2026-04-27T13:08:59+00:00",
-      "link": "https://techcrunch.com/2026/04/27/openai-could-be-making-a-phone-with-ai-agents-replacing-apps/"
-    },
-    {
-      "title": "Rebuilding the data stack for AI",
-      "summary": "Artificial intelligence may be dominating boardroom agendas, but many enterprises are discovering that the biggest obstacle to meaningful adoption is the state of their data.",
-      "source": "MIT Tech Review",
-      "published": "2026-04-27T13:00:00+00:00",
-      "link": "https://www.technologyreview.com/2026/04/27/1136322/rebuilding-the-data-stack-for-ai/"
-    },
-    {
-      "title": "Meta wants to power AI data centers with solar energy from space",
-      "summary": "Meta has signed a deal with startup Overview Energy for up to 1 gigawatt of space-based solar power. The only catch: the technology doesn't exist yet.",
-      "source": "The Decoder",
-      "published": "2026-04-27T12:57:10+00:00",
-      "link": "https://the-decoder.com/meta-wants-to-power-ai-data-centers-with-solar-energy-from-space/"
     }
   ]
 };
