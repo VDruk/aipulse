@@ -1,6 +1,13 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-05-02T14:10:54.692332+00:00",
+  "lastUpdated": "2026-05-02T17:39:22.802101+00:00",
   "items": [
+    {
+      "title": "The best AI dictation apps, tested and ranked",
+      "summary": "AI-powered dictation apps are useful for replying to emails, taking notes, and even coding through your voice",
+      "source": "TechCrunch",
+      "published": "2026-05-02T16:00:00+00:00",
+      "link": "https://techcrunch.com/2026/05/02/the-best-ai-powered-dictation-apps-of-2025/"
+    },
     {
       "title": "Even the latest AI models make three systematic reasoning errors, ARC-AGI-3 analysis shows",
       "summary": "The ARC Prize Foundation analyzed 160 game runs of OpenAI's GPT-5.5 and Anthropic's Opus 4.7 on the ARC-AGI-3 benchmark. Three systematic error patterns explain why both models stay below 1 percent on tasks that humans can solve without much trouble.",
@@ -28,6 +35,13 @@ const FEED_DATA = {
       "source": "Wired",
       "published": "2026-05-02T10:30:00+00:00",
       "link": "https://www.wired.com/story/security-news-this-week-disneyland-now-uses-face-recognition-on-visitors/"
+    },
+    {
+      "title": "Show HN: Mljar Studio – local AI data analyst that saves analysis as notebooks",
+      "summary": "Hi HN,I’ve been working on mljar-supervised (open-source AutoML for tabular data) for a few years.",
+      "source": "Hacker News",
+      "published": "2026-05-02T10:21:31+00:00",
+      "link": "https://mljar.com/"
     },
     {
       "title": "Elon Musk calls himself a fool for giving OpenAI $38 million that became an $800 billion company",
@@ -101,14 +115,14 @@ const FEED_DATA = {
     },
     {
       "title": "AI uses less water than the public thinks",
-      "summary": "Article URL: https://californiawaterblog.com/2026/04/26/ai-water-use-distractions-and-lessons-for-california/ Comments URL: https://news.ycombinator.com/item?id=47977383 Points: 380 # Comments: 360",
+      "summary": "Article URL: https://californiawaterblog.com/2026/04/26/ai-water-use-distractions-and-lessons-for-california/ Comments URL: https://news.ycombinator.com/item?id=47977383 Points: 389 # Comments: 367",
       "source": "Hacker News",
       "published": "2026-05-01T17:18:58+00:00",
       "link": "https://californiawaterblog.com/2026/04/26/ai-water-use-distractions-and-lessons-for-california/"
     },
     {
       "title": "Spotify adds 'Verified' badges to distinguish human artists from AI",
-      "summary": "Article URL: https://www.bbc.com/news/articles/c5yerr4m1yno Comments URL: https://news.ycombinator.com/item?id=47976856 Points: 248 # Comments: 272",
+      "summary": "Article URL: https://www.bbc.com/news/articles/c5yerr4m1yno Comments URL: https://news.ycombinator.com/item?id=47976856 Points: 259 # Comments: 288",
       "source": "Hacker News",
       "published": "2026-05-01T16:42:41+00:00",
       "link": "https://www.bbc.com/news/articles/c5yerr4m1yno"
@@ -122,7 +136,7 @@ const FEED_DATA = {
     },
     {
       "title": "Uber torches 2026 AI budget on Claude Code in four months",
-      "summary": "Article URL: https://www.briefs.co/news/uber-torches-entire-2026-ai-budget-on-claude-code-in-four-months/ Comments URL: https://news.ycombinator.com/item?id=47976415 Points: 386 # Comments: 456",
+      "summary": "Article URL: https://www.briefs.co/news/uber-torches-entire-2026-ai-budget-on-claude-code-in-four-months/ Comments URL: https://news.ycombinator.com/item?id=47976415 Points: 391 # Comments: 462",
       "source": "Hacker News",
       "published": "2026-05-01T16:08:53+00:00",
       "link": "https://www.briefs.co/news/uber-torches-entire-2026-ai-budget-on-claude-code-in-four-months/"
@@ -444,7 +458,7 @@ const FEED_DATA = {
     },
     {
       "title": "Shai-Hulud Themed Malware Found in the PyTorch Lightning AI Training Library",
-      "summary": "Also: https://socket.dev/blog/lightning-pypi-package-compromised Comments URL: https://news.ycombinator.com/item?id=47964617 Points: 459 # Comments: 177",
+      "summary": "Also: https://socket.dev/blog/lightning-pypi-package-compromised Comments URL: https://news.ycombinator.com/item?id=47964617 Points: 461 # Comments: 177",
       "source": "Hacker News",
       "published": "2026-04-30T16:09:26+00:00",
       "link": "https://semgrep.dev/blog/2026/malicious-dependency-in-pytorch-lightning-used-for-ai-training/"
@@ -640,7 +654,7 @@ const FEED_DATA = {
     },
     {
       "title": "DataCenter.FM – background noise app featuring the sound of the AI bubble",
-      "summary": "Article URL: https://datacenter.fm/ Comments URL: https://news.ycombinator.com/item?id=47959513 Points: 146 # Comments: 28",
+      "summary": "Article URL: https://datacenter.fm/ Comments URL: https://news.ycombinator.com/item?id=47959513 Points: 147 # Comments: 28",
       "source": "Hacker News",
       "published": "2026-04-30T07:52:12+00:00",
       "link": "https://datacenter.fm/"
@@ -675,7 +689,7 @@ const FEED_DATA = {
     },
     {
       "title": "Mike: open-source legal AI",
-      "summary": "Article URL: https://mikeoss.com/ Comments URL: https://news.ycombinator.com/item?id=47956739 Points: 203 # Comments: 106",
+      "summary": "Article URL: https://mikeoss.com/ Comments URL: https://news.ycombinator.com/item?id=47956739 Points: 204 # Comments: 106",
       "source": "Hacker News",
       "published": "2026-04-30T00:56:23+00:00",
       "link": "https://mikeoss.com/"
@@ -948,7 +962,7 @@ const FEED_DATA = {
     },
     {
       "title": "Letting AI play my game – building an agentic test harness to help play-testing",
-      "summary": "Article URL: https://blog.jeffschomay.com/letting-ai-play-my-game Comments URL: https://news.ycombinator.com/item?id=47947525 Points: 133 # Comments: 35",
+      "summary": "Article URL: https://blog.jeffschomay.com/letting-ai-play-my-game Comments URL: https://news.ycombinator.com/item?id=47947525 Points: 134 # Comments: 35",
       "source": "Hacker News",
       "published": "2026-04-29T12:43:12+00:00",
       "link": "https://blog.jeffschomay.com/letting-ai-play-my-game"
@@ -1386,20 +1400,6 @@ const FEED_DATA = {
       "source": "The Verge",
       "published": "2026-04-27T16:15:47+00:00",
       "link": "https://www.theverge.com/ai-artificial-intelligence/918981/openai-microsoft-renegotiate-contract"
-    },
-    {
-      "title": "The missing step between hype and profit",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here.",
-      "source": "MIT Tech Review",
-      "published": "2026-04-27T16:13:41+00:00",
-      "link": "https://www.technologyreview.com/2026/04/27/1136456/the-missing-step-between-hype-and-profit/"
-    },
-    {
-      "title": "Investors back Skye’s AI home screen app for iPhone ahead of launch",
-      "summary": "Skye's new AI app attracted investors before it even launched — a sign of interest in a more AI-aware iPhone.",
-      "source": "TechCrunch",
-      "published": "2026-04-27T16:13:02+00:00",
-      "link": "https://techcrunch.com/2026/04/27/investors-back-skye-signull-labs-ai-home-screen-app-for-iphone-ahead-of-launch/"
     }
   ]
 };
