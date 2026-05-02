@@ -1,6 +1,20 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-05-01T21:44:28.879592+00:00",
+  "lastUpdated": "2026-05-02T04:17:42.932693+00:00",
   "items": [
+    {
+      "title": "Meta buys robotics startup to bolster its humanoid AI ambitions",
+      "summary": "Meta bought humanoid startup Assured Robot Intelligence to beef up its AI models for robots, the company said.",
+      "source": "TechCrunch",
+      "published": "2026-05-01T22:13:27+00:00",
+      "link": "https://techcrunch.com/2026/05/01/meta-buys-robotics-startup-to-bolster-its-humanoid-ai-ambitions/"
+    },
+    {
+      "title": "Musk v. Altman week 1: Elon Musk says he was duped, warns AI could kill us all, and admits that xAI distills OpenAI’s models",
+      "summary": "In the first week of the landmark trial between Elon Musk and OpenAI, Musk took the stand in a crisp black suit and tie and argued that OpenAI CEO Sam Altman and president Greg Brockman had deceived him into bankrolling the company.",
+      "source": "MIT Tech Review",
+      "published": "2026-05-01T22:08:19+00:00",
+      "link": "https://www.technologyreview.com/2026/05/01/1136800/musk-v-altman-week-1-musk-says-he-was-duped-warns-ai-could-kill-us-all-and-admits-that-xai-distills-openais-models/"
+    },
     {
       "title": "A Dark-Money Campaign Is Paying Influencers to Frame Chinese AI as a Threat",
       "summary": "Build American AI, a nonprofit linked to a super PAC bankrolled by executives at OpenAI and Andreessen Horowitz, is funding a campaign to spread pro-AI messaging and stoke fears about China.",
@@ -16,15 +30,22 @@ const FEED_DATA = {
       "link": "https://techcrunch.com/podcast/did-you-know-you-cant-steal-a-charity-dont-worry-elon-musk-will-remind-you/"
     },
     {
+      "title": "Show HN: AI CAD Harness",
+      "summary": "Hi HN, I'm Zach, one of the co-founders of Adam (https://adam.new).We've been on HN twice before with text-to-CAD/3D experiments [1][2].",
+      "source": "Hacker News",
+      "published": "2026-05-01T17:43:53+00:00",
+      "link": "https://fusion.adam.new/install"
+    },
+    {
       "title": "AI uses less water than the public thinks",
-      "summary": "Article URL: https://californiawaterblog.com/2026/04/26/ai-water-use-distractions-and-lessons-for-california/ Comments URL: https://news.ycombinator.com/item?id=47977383 Points: 271 # Comments: 246",
+      "summary": "Article URL: https://californiawaterblog.com/2026/04/26/ai-water-use-distractions-and-lessons-for-california/ Comments URL: https://news.ycombinator.com/item?id=47977383 Points: 361 # Comments: 321",
       "source": "Hacker News",
       "published": "2026-05-01T17:18:58+00:00",
       "link": "https://californiawaterblog.com/2026/04/26/ai-water-use-distractions-and-lessons-for-california/"
     },
     {
       "title": "Spotify adds 'Verified' badges to distinguish human artists from AI",
-      "summary": "Article URL: https://www.bbc.com/news/articles/c5yerr4m1yno Comments URL: https://news.ycombinator.com/item?id=47976856 Points: 158 # Comments: 178",
+      "summary": "Article URL: https://www.bbc.com/news/articles/c5yerr4m1yno Comments URL: https://news.ycombinator.com/item?id=47976856 Points: 223 # Comments: 247",
       "source": "Hacker News",
       "published": "2026-05-01T16:42:41+00:00",
       "link": "https://www.bbc.com/news/articles/c5yerr4m1yno"
@@ -38,7 +59,7 @@ const FEED_DATA = {
     },
     {
       "title": "Uber torches 2026 AI budget on Claude Code in four months",
-      "summary": "Article URL: https://www.briefs.co/news/uber-torches-entire-2026-ai-budget-on-claude-code-in-four-months/ Comments URL: https://news.ycombinator.com/item?id=47976415 Points: 354 # Comments: 400",
+      "summary": "Article URL: https://www.briefs.co/news/uber-torches-entire-2026-ai-budget-on-claude-code-in-four-months/ Comments URL: https://news.ycombinator.com/item?id=47976415 Points: 373 # Comments: 436",
       "source": "Hacker News",
       "published": "2026-05-01T16:08:53+00:00",
       "link": "https://www.briefs.co/news/uber-torches-entire-2026-ai-budget-on-claude-code-in-four-months/"
@@ -353,7 +374,7 @@ const FEED_DATA = {
     },
     {
       "title": "Shai-Hulud Themed Malware Found in the PyTorch Lightning AI Training Library",
-      "summary": "Also: https://socket.dev/blog/lightning-pypi-package-compromised Comments URL: https://news.ycombinator.com/item?id=47964617 Points: 454 # Comments: 177",
+      "summary": "Also: https://socket.dev/blog/lightning-pypi-package-compromised Comments URL: https://news.ycombinator.com/item?id=47964617 Points: 456 # Comments: 177",
       "source": "Hacker News",
       "published": "2026-04-30T16:09:26+00:00",
       "link": "https://semgrep.dev/blog/2026/malicious-dependency-in-pytorch-lightning-used-for-ai-training/"
@@ -409,7 +430,7 @@ const FEED_DATA = {
     },
     {
       "title": "The More Young People Use AI, the More They Hate It",
-      "summary": "Article URL: https://www.theverge.com/ai-artificial-intelligence/920401/gen-z-ai Comments URL: https://news.ycombinator.com/item?id=47963163 Points: 122 # Comments: 139",
+      "summary": "Article URL: https://www.theverge.com/ai-artificial-intelligence/920401/gen-z-ai Comments URL: https://news.ycombinator.com/item?id=47963163 Points: 123 # Comments: 139",
       "source": "Hacker News",
       "published": "2026-04-30T14:34:36+00:00",
       "link": "https://www.theverge.com/ai-artificial-intelligence/920401/gen-z-ai"
@@ -549,7 +570,7 @@ const FEED_DATA = {
     },
     {
       "title": "DataCenter.FM – background noise app featuring the sound of the AI bubble",
-      "summary": "Article URL: https://datacenter.fm/ Comments URL: https://news.ycombinator.com/item?id=47959513 Points: 145 # Comments: 28",
+      "summary": "Article URL: https://datacenter.fm/ Comments URL: https://news.ycombinator.com/item?id=47959513 Points: 146 # Comments: 28",
       "source": "Hacker News",
       "published": "2026-04-30T07:52:12+00:00",
       "link": "https://datacenter.fm/"
@@ -563,7 +584,7 @@ const FEED_DATA = {
     },
     {
       "title": "The Zig project's rationale for their anti-AI contribution policy",
-      "summary": "Article URL: https://simonwillison.net/2026/Apr/30/zig-anti-ai/ Comments URL: https://news.ycombinator.com/item?id=47957294 Points: 668 # Comments: 450",
+      "summary": "Article URL: https://simonwillison.net/2026/Apr/30/zig-anti-ai/ Comments URL: https://news.ycombinator.com/item?id=47957294 Points: 669 # Comments: 453",
       "source": "Hacker News",
       "published": "2026-04-30T02:15:47+00:00",
       "link": "https://simonwillison.net/2026/Apr/30/zig-anti-ai/"
@@ -584,7 +605,7 @@ const FEED_DATA = {
     },
     {
       "title": "Mike: open-source legal AI",
-      "summary": "Article URL: https://mikeoss.com/ Comments URL: https://news.ycombinator.com/item?id=47956739 Points: 202 # Comments: 100",
+      "summary": "Article URL: https://mikeoss.com/ Comments URL: https://news.ycombinator.com/item?id=47956739 Points: 203 # Comments: 101",
       "source": "Hacker News",
       "published": "2026-04-30T00:56:23+00:00",
       "link": "https://mikeoss.com/"
@@ -703,7 +724,7 @@ const FEED_DATA = {
     },
     {
       "title": "Ramp's Sheets AI Exfiltrates Financials",
-      "summary": "Article URL: https://www.promptarmor.com/resources/ramps-sheets-ai-exfiltrates-financials Comments URL: https://news.ycombinator.com/item?id=47951786 Points: 141 # Comments: 50",
+      "summary": "Article URL: https://www.promptarmor.com/resources/ramps-sheets-ai-exfiltrates-financials Comments URL: https://news.ycombinator.com/item?id=47951786 Points: 143 # Comments: 50",
       "source": "Hacker News",
       "published": "2026-04-29T17:44:21+00:00",
       "link": "https://www.promptarmor.com/resources/ramps-sheets-ai-exfiltrates-financials"
@@ -717,7 +738,7 @@ const FEED_DATA = {
     },
     {
       "title": "The Abstraction Fallacy: Why AI can simulate but not instantiate consciousness",
-      "summary": "Article URL: https://deepmind.google/research/publications/231971/ Comments URL: https://news.ycombinator.com/item?id=47951582 Points: 71 # Comments: 126",
+      "summary": "Article URL: https://deepmind.google/research/publications/231971/ Comments URL: https://news.ycombinator.com/item?id=47951582 Points: 71 # Comments: 128",
       "source": "Hacker News",
       "published": "2026-04-29T17:30:15+00:00",
       "link": "https://deepmind.google/research/publications/231971/"
@@ -857,7 +878,7 @@ const FEED_DATA = {
     },
     {
       "title": "Letting AI play my game – building an agentic test harness to help play-testing",
-      "summary": "Article URL: https://blog.jeffschomay.com/letting-ai-play-my-game Comments URL: https://news.ycombinator.com/item?id=47947525 Points: 132 # Comments: 35",
+      "summary": "Article URL: https://blog.jeffschomay.com/letting-ai-play-my-game Comments URL: https://news.ycombinator.com/item?id=47947525 Points: 133 # Comments: 35",
       "source": "Hacker News",
       "published": "2026-04-29T12:43:12+00:00",
       "link": "https://blog.jeffschomay.com/letting-ai-play-my-game"
@@ -1379,27 +1400,6 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-04-27T12:57:10+00:00",
       "link": "https://the-decoder.com/meta-wants-to-power-ai-data-centers-with-solar-energy-from-space/"
-    },
-    {
-      "title": "The Download: DeepSeek’s latest AI breakthrough, and the race to build world models",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.",
-      "source": "MIT Tech Review",
-      "published": "2026-04-27T12:10:00+00:00",
-      "link": "https://www.technologyreview.com/2026/04/27/1136438/the-download-deepseek-v4-ai-world-models/"
-    },
-    {
-      "title": "China blocks Meta's acquisition of AI startup Manus",
-      "summary": "https://www.reuters.com/world/asia-pacific/china-blocks-fore...https://www.bbc.com/news/articles/cj0v0gr2yz7o Comments URL: https://news.ycombinator.com/item?id=47920315 Points: 398 # Comments: 333",
-      "source": "Hacker News",
-      "published": "2026-04-27T11:43:59+00:00",
-      "link": "https://www.cnbc.com/2026/04/27/meta-manus-china-blocks-acquisition-ai-startup.html"
-    },
-    {
-      "title": "Google warns malicious web pages are poisoning AI agents",
-      "summary": "Public web pages are actively hijacking enterprise AI agents via indirect prompt injections, Google researchers warn. Security teams scanning the Common Crawl repository (a massive database of billions of public web pages) have uncovered a growing trend of digital booby traps.",
-      "source": "AI News",
-      "published": "2026-04-27T11:12:52+00:00",
-      "link": "https://www.artificialintelligence-news.com/news/google-warns-malicious-web-pages-poisoning-ai-agents/"
     }
   ]
 };
