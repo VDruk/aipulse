@@ -1,6 +1,34 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-05-02T09:50:47.260019+00:00",
+  "lastUpdated": "2026-05-02T14:10:54.692332+00:00",
   "items": [
+    {
+      "title": "Even the latest AI models make three systematic reasoning errors, ARC-AGI-3 analysis shows",
+      "summary": "The ARC Prize Foundation analyzed 160 game runs of OpenAI's GPT-5.5 and Anthropic's Opus 4.7 on the ARC-AGI-3 benchmark. Three systematic error patterns explain why both models stay below 1 percent on tasks that humans can solve without much trouble.",
+      "source": "The Decoder",
+      "published": "2026-05-02T13:31:52+00:00",
+      "link": "https://the-decoder.com/even-the-latest-ai-models-make-three-systematic-reasoning-errors-arc-agi-3-analysis-shows/"
+    },
+    {
+      "title": "xAI's new Custom Voices feature turns a minute of speech into a usable voice clone",
+      "summary": "xAI now lets developers clone their own voices for AI applications. The new \"Custom Voices\" feature builds on the recently launched Grok Speech-to-Text and Text-to-Speech APIs.",
+      "source": "The Decoder",
+      "published": "2026-05-02T12:14:46+00:00",
+      "link": "https://the-decoder.com/xais-new-custom-voices-feature-turns-a-minute-of-speech-into-a-usable-voice-clone/"
+    },
+    {
+      "title": "Nvidia CEO Jensen Huang calls out tech leaders' \"god complex\" over reckless AI job loss predictions",
+      "summary": "AI scaremongering costs jobs instead of protecting them, says Nvidia CEO Jensen Huang. Talking young people out of future careers, he argues, does real harm to society.",
+      "source": "The Decoder",
+      "published": "2026-05-02T10:32:09+00:00",
+      "link": "https://the-decoder.com/nvidia-ceo-jensen-huang-calls-out-tech-leaders-god-complex-over-reckless-ai-job-loss-predictions/"
+    },
+    {
+      "title": "Disneyland Now Uses Face Recognition on Visitors",
+      "summary": "Plus: The NSA tests Anthropic’s Mythos Preview to find vulnerabilities, a Finnish teen is charged over the Scattered Spider hacking spree, and more.",
+      "source": "Wired",
+      "published": "2026-05-02T10:30:00+00:00",
+      "link": "https://www.wired.com/story/security-news-this-week-disneyland-now-uses-face-recognition-on-visitors/"
+    },
     {
       "title": "Elon Musk calls himself a fool for giving OpenAI $38 million that became an $800 billion company",
       "summary": "Elon Musk called himself a \"fool\" in court, warned of a \"Terminator\" future, and admitted that xAI taps OpenAI's models for its own AI training. Week one of Musk's trial against Sam Altman delivered plenty of drama; and the best may still be ahead.",
@@ -28,6 +56,13 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-05-02T07:35:24+00:00",
       "link": "https://the-decoder.com/xai-drops-grok-4-3-with-steep-price-cuts-and-an-imagine-agent-mode-for-creative-projects/"
+    },
+    {
+      "title": "Show HN: Agent-desktop – Native desktop automation CLI for AI agents",
+      "summary": "I've been building computer-use tools for a while, and I quietly launched this about a month ago (122 Stars on GH). I figured it was worth sharing here.Over the last few months, a lot of computer-use agents have come out: Codex, Claude Code, CUA, and others.",
+      "source": "Hacker News",
+      "published": "2026-05-02T02:18:24+00:00",
+      "link": "https://github.com/lahfir/agent-desktop"
     },
     {
       "title": "Meta buys robotics startup to bolster its humanoid AI ambitions",
@@ -66,14 +101,14 @@ const FEED_DATA = {
     },
     {
       "title": "AI uses less water than the public thinks",
-      "summary": "Article URL: https://californiawaterblog.com/2026/04/26/ai-water-use-distractions-and-lessons-for-california/ Comments URL: https://news.ycombinator.com/item?id=47977383 Points: 375 # Comments: 349",
+      "summary": "Article URL: https://californiawaterblog.com/2026/04/26/ai-water-use-distractions-and-lessons-for-california/ Comments URL: https://news.ycombinator.com/item?id=47977383 Points: 380 # Comments: 360",
       "source": "Hacker News",
       "published": "2026-05-01T17:18:58+00:00",
       "link": "https://californiawaterblog.com/2026/04/26/ai-water-use-distractions-and-lessons-for-california/"
     },
     {
       "title": "Spotify adds 'Verified' badges to distinguish human artists from AI",
-      "summary": "Article URL: https://www.bbc.com/news/articles/c5yerr4m1yno Comments URL: https://news.ycombinator.com/item?id=47976856 Points: 243 # Comments: 268",
+      "summary": "Article URL: https://www.bbc.com/news/articles/c5yerr4m1yno Comments URL: https://news.ycombinator.com/item?id=47976856 Points: 248 # Comments: 272",
       "source": "Hacker News",
       "published": "2026-05-01T16:42:41+00:00",
       "link": "https://www.bbc.com/news/articles/c5yerr4m1yno"
@@ -87,7 +122,7 @@ const FEED_DATA = {
     },
     {
       "title": "Uber torches 2026 AI budget on Claude Code in four months",
-      "summary": "Article URL: https://www.briefs.co/news/uber-torches-entire-2026-ai-budget-on-claude-code-in-four-months/ Comments URL: https://news.ycombinator.com/item?id=47976415 Points: 380 # Comments: 452",
+      "summary": "Article URL: https://www.briefs.co/news/uber-torches-entire-2026-ai-budget-on-claude-code-in-four-months/ Comments URL: https://news.ycombinator.com/item?id=47976415 Points: 386 # Comments: 456",
       "source": "Hacker News",
       "published": "2026-05-01T16:08:53+00:00",
       "link": "https://www.briefs.co/news/uber-torches-entire-2026-ai-budget-on-claude-code-in-four-months/"
@@ -409,7 +444,7 @@ const FEED_DATA = {
     },
     {
       "title": "Shai-Hulud Themed Malware Found in the PyTorch Lightning AI Training Library",
-      "summary": "Also: https://socket.dev/blog/lightning-pypi-package-compromised Comments URL: https://news.ycombinator.com/item?id=47964617 Points: 458 # Comments: 177",
+      "summary": "Also: https://socket.dev/blog/lightning-pypi-package-compromised Comments URL: https://news.ycombinator.com/item?id=47964617 Points: 459 # Comments: 177",
       "source": "Hacker News",
       "published": "2026-04-30T16:09:26+00:00",
       "link": "https://semgrep.dev/blog/2026/malicious-dependency-in-pytorch-lightning-used-for-ai-training/"
@@ -619,7 +654,7 @@ const FEED_DATA = {
     },
     {
       "title": "The Zig project's rationale for their anti-AI contribution policy",
-      "summary": "Article URL: https://simonwillison.net/2026/Apr/30/zig-anti-ai/ Comments URL: https://news.ycombinator.com/item?id=47957294 Points: 669 # Comments: 454",
+      "summary": "Article URL: https://simonwillison.net/2026/Apr/30/zig-anti-ai/ Comments URL: https://news.ycombinator.com/item?id=47957294 Points: 669 # Comments: 455",
       "source": "Hacker News",
       "published": "2026-04-30T02:15:47+00:00",
       "link": "https://simonwillison.net/2026/Apr/30/zig-anti-ai/"
@@ -640,7 +675,7 @@ const FEED_DATA = {
     },
     {
       "title": "Mike: open-source legal AI",
-      "summary": "Article URL: https://mikeoss.com/ Comments URL: https://news.ycombinator.com/item?id=47956739 Points: 203 # Comments: 101",
+      "summary": "Article URL: https://mikeoss.com/ Comments URL: https://news.ycombinator.com/item?id=47956739 Points: 203 # Comments: 106",
       "source": "Hacker News",
       "published": "2026-04-30T00:56:23+00:00",
       "link": "https://mikeoss.com/"
@@ -1365,41 +1400,6 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-04-27T16:13:02+00:00",
       "link": "https://techcrunch.com/2026/04/27/investors-back-skye-signull-labs-ai-home-screen-app-for-iphone-ahead-of-launch/"
-    },
-    {
-      "title": "Elon Musk and Sam Altman’s court battle over the future of OpenAI",
-      "summary": "Sam Altman and Elon Musk are set to face off in a high-stakes trial that could alter the future of tech’s leading AI startup, OpenAI.",
-      "source": "The Verge",
-      "published": "2026-04-27T15:50:29+00:00",
-      "link": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit"
-    },
-    {
-      "title": "Canva apologizes after its AI tool replaces 'Palestine' in designs",
-      "summary": "Article URL: https://www.theverge.com/ai-artificial-intelligence/919028/canva-magic-layers-ai-replacing-palestine Comments URL: https://news.ycombinator.com/item?id=47922518 Points: 79 # Comments: 31",
-      "source": "Hacker News",
-      "published": "2026-04-27T14:58:48+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/919028/canva-magic-layers-ai-replacing-palestine"
-    },
-    {
-      "title": "OpenAI and Microsoft rewrite their deal: no more exclusivity, no more AGI clause",
-      "summary": "OpenAI is free to distribute its products through any cloud provider, Microsoft loses its exclusive license to OpenAI's technology, and the controversial AGI clause is gone.",
-      "source": "The Decoder",
-      "published": "2026-04-27T14:18:40+00:00",
-      "link": "https://the-decoder.com/openai-and-microsoft-rewrite-their-deal-no-more-exclusivity-no-more-agi-clause/"
-    },
-    {
-      "title": "The Man Behind AlphaGo Thinks AI Is Taking the Wrong Path",
-      "summary": "David Silver has a new billion-dollar company that aims to build AI “superlearners.”",
-      "source": "Wired",
-      "published": "2026-04-27T14:00:00+00:00",
-      "link": "https://www.wired.com/story/david-silver-ai-ineffable-intelligence-reinforcement-learning/"
-    },
-    {
-      "title": "Sam Altman outlines five principles that double as justification for OpenAI's business decisions",
-      "summary": "OpenAI's CEO has laid out five guiding principles for the company's future work. They also serve as a rationale for some of OpenAI's more unconventional business moves.",
-      "source": "The Decoder",
-      "published": "2026-04-27T13:59:05+00:00",
-      "link": "https://the-decoder.com/sam-altman-outlines-five-principles-that-double-as-justification-for-openais-business-decisions/"
     }
   ]
 };
