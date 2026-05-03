@@ -1,6 +1,20 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-05-02T21:33:17.317895+00:00",
+  "lastUpdated": "2026-05-03T04:39:42.734590+00:00",
   "items": [
+    {
+      "title": "The Claude Delusion: Richard Dawkins believes his AI chatbot is conscious",
+      "summary": "Article URL: https://www.dailygrail.com/2026/05/the-claude-delusion-richard-dawkins-believes-his-female-ai-chatbot-is-conscious/ Comments URL: https://news.ycombinator.com/item?id=47991340 Points: 60 # Comments: 85",
+      "source": "Hacker News",
+      "published": "2026-05-02T22:44:23+00:00",
+      "link": "https://www.dailygrail.com/2026/05/the-claude-delusion-richard-dawkins-believes-his-female-ai-chatbot-is-conscious/"
+    },
+    {
+      "title": "AI-generated actors and scripts are now ineligible for Oscars",
+      "summary": "Bad news for Tilly Norwood.",
+      "source": "TechCrunch",
+      "published": "2026-05-02T21:54:58+00:00",
+      "link": "https://techcrunch.com/2026/05/02/ai-generated-actors-and-scripts-are-now-ineligible-for-oscars/"
+    },
     {
       "title": "The best AI dictation apps, tested and ranked",
       "summary": "AI-powered dictation apps are useful for replying to emails, taking notes, and even coding through your voice",
@@ -10,7 +24,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI Self-preferencing in Algorithmic Hiring: Empirical Evidence and Insights",
-      "summary": "Article URL: https://arxiv.org/abs/2509.00462 Comments URL: https://news.ycombinator.com/item?id=47987256 Points: 313 # Comments: 167",
+      "summary": "Article URL: https://arxiv.org/abs/2509.00462 Comments URL: https://news.ycombinator.com/item?id=47987256 Points: 319 # Comments: 170",
       "source": "Hacker News",
       "published": "2026-05-02T15:28:13+00:00",
       "link": "https://arxiv.org/abs/2509.00462"
@@ -56,6 +70,13 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-05-02T09:27:21+00:00",
       "link": "https://the-decoder.com/elon-musk-calls-himself-a-fool-for-giving-openai-38-million-that-became-an-800-billion-company/"
+    },
+    {
+      "title": "Show HN: Filling PDF forms with AI using client-side tool calling",
+      "summary": "Hey HN!I built SimplePDF Copilot: an AI assistant that can interact with the PDF editor.",
+      "source": "Hacker News",
+      "published": "2026-05-02T08:54:27+00:00",
+      "link": "https://copilot.simplepdf.com/?share=a7d00ad073c75a75d493228e6ff7b11eb3f2d945b6175913e87898ec96ca8076&form=w9&lang=en"
     },
     {
       "title": "ChatGPT now tracks users for ads by default as OpenAI looks for new revenue",
@@ -122,14 +143,14 @@ const FEED_DATA = {
     },
     {
       "title": "AI uses less water than the public thinks",
-      "summary": "Article URL: https://californiawaterblog.com/2026/04/26/ai-water-use-distractions-and-lessons-for-california/ Comments URL: https://news.ycombinator.com/item?id=47977383 Points: 395 # Comments: 374",
+      "summary": "Article URL: https://californiawaterblog.com/2026/04/26/ai-water-use-distractions-and-lessons-for-california/ Comments URL: https://news.ycombinator.com/item?id=47977383 Points: 400 # Comments: 376",
       "source": "Hacker News",
       "published": "2026-05-01T17:18:58+00:00",
       "link": "https://californiawaterblog.com/2026/04/26/ai-water-use-distractions-and-lessons-for-california/"
     },
     {
       "title": "Spotify adds 'Verified' badges to distinguish human artists from AI",
-      "summary": "Article URL: https://www.bbc.com/news/articles/c5yerr4m1yno Comments URL: https://news.ycombinator.com/item?id=47976856 Points: 265 # Comments: 296",
+      "summary": "Article URL: https://www.bbc.com/news/articles/c5yerr4m1yno Comments URL: https://news.ycombinator.com/item?id=47976856 Points: 271 # Comments: 299",
       "source": "Hacker News",
       "published": "2026-05-01T16:42:41+00:00",
       "link": "https://www.bbc.com/news/articles/c5yerr4m1yno"
@@ -143,7 +164,7 @@ const FEED_DATA = {
     },
     {
       "title": "Uber torches 2026 AI budget on Claude Code in four months",
-      "summary": "Article URL: https://www.briefs.co/news/uber-torches-entire-2026-ai-budget-on-claude-code-in-four-months/ Comments URL: https://news.ycombinator.com/item?id=47976415 Points: 396 # Comments: 467",
+      "summary": "Article URL: https://www.briefs.co/news/uber-torches-entire-2026-ai-budget-on-claude-code-in-four-months/ Comments URL: https://news.ycombinator.com/item?id=47976415 Points: 397 # Comments: 467",
       "source": "Hacker News",
       "published": "2026-05-01T16:08:53+00:00",
       "link": "https://www.briefs.co/news/uber-torches-entire-2026-ai-budget-on-claude-code-in-four-months/"
@@ -521,7 +542,7 @@ const FEED_DATA = {
     },
     {
       "title": "The More Young People Use AI, the More They Hate It",
-      "summary": "Article URL: https://www.theverge.com/ai-artificial-intelligence/920401/gen-z-ai Comments URL: https://news.ycombinator.com/item?id=47963163 Points: 125 # Comments: 140",
+      "summary": "Article URL: https://www.theverge.com/ai-artificial-intelligence/920401/gen-z-ai Comments URL: https://news.ycombinator.com/item?id=47963163 Points: 125 # Comments: 142",
       "source": "Hacker News",
       "published": "2026-04-30T14:34:36+00:00",
       "link": "https://www.theverge.com/ai-artificial-intelligence/920401/gen-z-ai"
@@ -675,7 +696,7 @@ const FEED_DATA = {
     },
     {
       "title": "The Zig project's rationale for their anti-AI contribution policy",
-      "summary": "Article URL: https://simonwillison.net/2026/Apr/30/zig-anti-ai/ Comments URL: https://news.ycombinator.com/item?id=47957294 Points: 670 # Comments: 455",
+      "summary": "Article URL: https://simonwillison.net/2026/Apr/30/zig-anti-ai/ Comments URL: https://news.ycombinator.com/item?id=47957294 Points: 670 # Comments: 456",
       "source": "Hacker News",
       "published": "2026-04-30T02:15:47+00:00",
       "link": "https://simonwillison.net/2026/Apr/30/zig-anti-ai/"
@@ -829,7 +850,7 @@ const FEED_DATA = {
     },
     {
       "title": "The Abstraction Fallacy: Why AI can simulate but not instantiate consciousness",
-      "summary": "Article URL: https://deepmind.google/research/publications/231971/ Comments URL: https://news.ycombinator.com/item?id=47951582 Points: 71 # Comments: 130",
+      "summary": "Article URL: https://deepmind.google/research/publications/231971/ Comments URL: https://news.ycombinator.com/item?id=47951582 Points: 71 # Comments: 131",
       "source": "Hacker News",
       "published": "2026-04-29T17:30:15+00:00",
       "link": "https://deepmind.google/research/publications/231971/"
@@ -1379,27 +1400,6 @@ const FEED_DATA = {
       "source": "Wired",
       "published": "2026-04-27T20:08:51+00:00",
       "link": "https://www.wired.com/story/elon-musk-boost-new-yorker-article-sam-altman-x/"
-    },
-    {
-      "title": "Google employees ask Sundar Pichai to say no to classified military AI use",
-      "summary": "Over 600 Google employees signed a letter to CEO Sundar Pichai demanding that Google block the Pentagon from using its AI models for classified purposes, reports the The Washington Post.",
-      "source": "The Verge",
-      "published": "2026-04-27T18:17:12+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/919326/google-ai-pentagon-classified-letter"
-    },
-    {
-      "title": "OpenAI ends Microsoft legal peril over its $50B Amazon deal",
-      "summary": "OpenAI has won major concessions from its largest shareholder, Microsoft, that will allow it to sell products on AWS, while Microsoft gets more cash in a revenue-share agreement.",
-      "source": "TechCrunch",
-      "published": "2026-04-27T17:40:38+00:00",
-      "link": "https://techcrunch.com/2026/04/27/openai-ends-microsoft-legal-peril-over-its-50b-amazon-deal/"
-    },
-    {
-      "title": "DeepMind’s David Silver just raised $1.1B to build an AI that learns without human data",
-      "summary": "Ineffable Intelligence, a British AI lab founded a mere few months ago by former DeepMind researcher David Silver, has raised $1.1 billion in funding at a valuation of $5.1 billion.",
-      "source": "TechCrunch",
-      "published": "2026-04-27T17:24:21+00:00",
-      "link": "https://techcrunch.com/2026/04/27/deepminds-david-silver-just-raised-1-1b-to-build-an-ai-that-learns-without-human-data/"
     }
   ]
 };
