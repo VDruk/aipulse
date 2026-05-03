@@ -1,12 +1,33 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-05-03T04:39:42.734590+00:00",
+  "lastUpdated": "2026-05-03T07:20:20.289357+00:00",
   "items": [
     {
+      "title": "Same prompt, different morals: how frontier AI models diverge on ethical dilemmas",
+      "summary": "A new benchmark puts leading language models through 100 everyday ethical scenarios, from data misuse in sales to protocol violations in oncology. Behind the results lies a bigger question: who decides what an AI is allowed to do, and whose ethics does it follow?",
+      "source": "The Decoder",
+      "published": "2026-05-03T07:00:50+00:00",
+      "link": "https://the-decoder.com/same-prompt-different-morals-how-frontier-ai-models-diverge-on-ethical-dilemmas/"
+    },
+    {
+      "title": "Kimi K2.6 just beat Claude, GPT-5.5, and Gemini in a coding challenge",
+      "summary": "Article URL: https://thinkpol.ca/2026/04/30/an-open-weights-chinese-model-just-beat-claude-gpt-5-5-and-gemini-in-a-programming-challenge/ Comments URL: https://news.ycombinator.com/item?id=47993235 Points: 225 # Comments: 101",
+      "source": "Hacker News",
+      "published": "2026-05-03T04:05:28+00:00",
+      "link": "https://thinkpol.ca/2026/04/30/an-open-weights-chinese-model-just-beat-claude-gpt-5-5-and-gemini-in-a-programming-challenge/"
+    },
+    {
       "title": "The Claude Delusion: Richard Dawkins believes his AI chatbot is conscious",
-      "summary": "Article URL: https://www.dailygrail.com/2026/05/the-claude-delusion-richard-dawkins-believes-his-female-ai-chatbot-is-conscious/ Comments URL: https://news.ycombinator.com/item?id=47991340 Points: 60 # Comments: 85",
+      "summary": "Article URL: https://www.dailygrail.com/2026/05/the-claude-delusion-richard-dawkins-believes-his-female-ai-chatbot-is-conscious/ Comments URL: https://news.ycombinator.com/item?id=47991340 Points: 64 # Comments: 91",
       "source": "Hacker News",
       "published": "2026-05-02T22:44:23+00:00",
       "link": "https://www.dailygrail.com/2026/05/the-claude-delusion-richard-dawkins-believes-his-female-ai-chatbot-is-conscious/"
+    },
+    {
+      "title": "Voice-AI-for-Beginners – A curated learning path for developers",
+      "summary": "Article URL: https://github.com/mahimairaja/voiceai Comments URL: https://news.ycombinator.com/item?id=47991018 Points: 70 # Comments: 4",
+      "source": "Hacker News",
+      "published": "2026-05-02T22:03:15+00:00",
+      "link": "https://github.com/mahimairaja/voiceai"
     },
     {
       "title": "AI-generated actors and scripts are now ineligible for Oscars",
@@ -24,7 +45,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI Self-preferencing in Algorithmic Hiring: Empirical Evidence and Insights",
-      "summary": "Article URL: https://arxiv.org/abs/2509.00462 Comments URL: https://news.ycombinator.com/item?id=47987256 Points: 319 # Comments: 170",
+      "summary": "Article URL: https://arxiv.org/abs/2509.00462 Comments URL: https://news.ycombinator.com/item?id=47987256 Points: 323 # Comments: 171",
       "source": "Hacker News",
       "published": "2026-05-02T15:28:13+00:00",
       "link": "https://arxiv.org/abs/2509.00462"
@@ -143,14 +164,14 @@ const FEED_DATA = {
     },
     {
       "title": "AI uses less water than the public thinks",
-      "summary": "Article URL: https://californiawaterblog.com/2026/04/26/ai-water-use-distractions-and-lessons-for-california/ Comments URL: https://news.ycombinator.com/item?id=47977383 Points: 400 # Comments: 376",
+      "summary": "Article URL: https://californiawaterblog.com/2026/04/26/ai-water-use-distractions-and-lessons-for-california/ Comments URL: https://news.ycombinator.com/item?id=47977383 Points: 400 # Comments: 377",
       "source": "Hacker News",
       "published": "2026-05-01T17:18:58+00:00",
       "link": "https://californiawaterblog.com/2026/04/26/ai-water-use-distractions-and-lessons-for-california/"
     },
     {
       "title": "Spotify adds 'Verified' badges to distinguish human artists from AI",
-      "summary": "Article URL: https://www.bbc.com/news/articles/c5yerr4m1yno Comments URL: https://news.ycombinator.com/item?id=47976856 Points: 271 # Comments: 299",
+      "summary": "Article URL: https://www.bbc.com/news/articles/c5yerr4m1yno Comments URL: https://news.ycombinator.com/item?id=47976856 Points: 272 # Comments: 299",
       "source": "Hacker News",
       "published": "2026-05-01T16:42:41+00:00",
       "link": "https://www.bbc.com/news/articles/c5yerr4m1yno"
@@ -486,7 +507,7 @@ const FEED_DATA = {
     },
     {
       "title": "Shai-Hulud Themed Malware Found in the PyTorch Lightning AI Training Library",
-      "summary": "Also: https://socket.dev/blog/lightning-pypi-package-compromised Comments URL: https://news.ycombinator.com/item?id=47964617 Points: 461 # Comments: 177",
+      "summary": "Also: https://socket.dev/blog/lightning-pypi-package-compromised Comments URL: https://news.ycombinator.com/item?id=47964617 Points: 462 # Comments: 177",
       "source": "Hacker News",
       "published": "2026-04-30T16:09:26+00:00",
       "link": "https://semgrep.dev/blog/2026/malicious-dependency-in-pytorch-lightning-used-for-ai-training/"
@@ -542,7 +563,7 @@ const FEED_DATA = {
     },
     {
       "title": "The More Young People Use AI, the More They Hate It",
-      "summary": "Article URL: https://www.theverge.com/ai-artificial-intelligence/920401/gen-z-ai Comments URL: https://news.ycombinator.com/item?id=47963163 Points: 125 # Comments: 142",
+      "summary": "Article URL: https://www.theverge.com/ai-artificial-intelligence/920401/gen-z-ai Comments URL: https://news.ycombinator.com/item?id=47963163 Points: 125 # Comments: 144",
       "source": "Hacker News",
       "published": "2026-04-30T14:34:36+00:00",
       "link": "https://www.theverge.com/ai-artificial-intelligence/920401/gen-z-ai"
@@ -696,7 +717,7 @@ const FEED_DATA = {
     },
     {
       "title": "The Zig project's rationale for their anti-AI contribution policy",
-      "summary": "Article URL: https://simonwillison.net/2026/Apr/30/zig-anti-ai/ Comments URL: https://news.ycombinator.com/item?id=47957294 Points: 670 # Comments: 456",
+      "summary": "Article URL: https://simonwillison.net/2026/Apr/30/zig-anti-ai/ Comments URL: https://news.ycombinator.com/item?id=47957294 Points: 671 # Comments: 456",
       "source": "Hacker News",
       "published": "2026-04-30T02:15:47+00:00",
       "link": "https://simonwillison.net/2026/Apr/30/zig-anti-ai/"
@@ -710,7 +731,7 @@ const FEED_DATA = {
     },
     {
       "title": "Claude.ai and API unavailable [fixed]",
-      "summary": "https://status.claude.com/ Comments URL: https://news.ycombinator.com/item?id=47956895 Points: 118 # Comments: 120",
+      "summary": "https://status.claude.com/ Comments URL: https://news.ycombinator.com/item?id=47956895 Points: 118 # Comments: 121",
       "source": "Hacker News",
       "published": "2026-04-30T01:21:03+00:00",
       "link": "https://status.claude.com/incidents/2gf1jpyty350"
@@ -808,7 +829,7 @@ const FEED_DATA = {
     },
     {
       "title": "\"People who don't use AI will be left behind\"",
-      "summary": "Article URL: https://migrainebrain.bearblog.dev/people-who-dont-use-ai-will-be-left-behind/ Comments URL: https://news.ycombinator.com/item?id=47953011 Points: 168 # Comments: 264",
+      "summary": "Article URL: https://migrainebrain.bearblog.dev/people-who-dont-use-ai-will-be-left-behind/ Comments URL: https://news.ycombinator.com/item?id=47953011 Points: 169 # Comments: 264",
       "source": "Hacker News",
       "published": "2026-04-29T19:15:52+00:00",
       "link": "https://migrainebrain.bearblog.dev/people-who-dont-use-ai-will-be-left-behind/"
@@ -1379,27 +1400,6 @@ const FEED_DATA = {
       "source": "The Verge",
       "published": "2026-04-28T00:01:54+00:00",
       "link": "https://www.theverge.com/streaming/919441/google-ask-youtube-ai-chatbot-search"
-    },
-    {
-      "title": "Elon Musk and Sam Altman are going to court over OpenAI’s future",
-      "summary": "After a yearslong legal feud, Elon Musk and OpenAI CEO Sam Altman are heading to trial this week in Northern California in a case that could have sweeping consequences.",
-      "source": "MIT Tech Review",
-      "published": "2026-04-27T22:52:57+00:00",
-      "link": "https://www.technologyreview.com/2026/04/27/1136466/elon-musk-and-sam-altman-are-going-to-court-over-openais-future/"
-    },
-    {
-      "title": "Canonical lays out a plan for AI in Ubuntu Linux",
-      "summary": "One of the most popular Linux distributions is about to get an influx of AI features. As reported by Phoronix, Jon Seager, VP of engineering at Ubuntu developer Canonical, shared a blog post on Monday detailing plans to add AI features to the Linux distro over the next year.",
-      "source": "The Verge",
-      "published": "2026-04-27T20:47:45+00:00",
-      "link": "https://www.theverge.com/tech/919411/canonical-ubuntu-linux-ai-features"
-    },
-    {
-      "title": "Elon Musk Boosts New Yorker’s Sam Altman Exposé on X as Trial Begins",
-      "summary": "The move comes as the trial for Elon Musk’s lawsuit against OpenAI kicks off in federal court in Oakland.",
-      "source": "Wired",
-      "published": "2026-04-27T20:08:51+00:00",
-      "link": "https://www.wired.com/story/elon-musk-boost-new-yorker-article-sam-altman-x/"
     }
   ]
 };
