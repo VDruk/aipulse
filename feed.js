@@ -1,6 +1,34 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-05-03T07:20:20.289357+00:00",
+  "lastUpdated": "2026-05-03T09:57:13.495774+00:00",
   "items": [
+    {
+      "title": "Microsoft caught sneaking \"Co-Authored-by Copilot\" into VS Code commits - even with AI off",
+      "summary": "Microsoft quietly slipped a \"Co-Authored-by Copilot\" line into Git commits in Visual Studio Code - even for developers who had turned off the AI features entirely.",
+      "source": "The Decoder",
+      "published": "2026-05-03T09:31:15+00:00",
+      "link": "https://the-decoder.com/co-pilot-becomes-a-co-author-in-vs-code-without-being-asked/"
+    },
+    {
+      "title": "MIT study explains why scaling language models works so reliably",
+      "summary": "MIT researchers have a mechanistic explanation for why large language model performance scales so reliably with size. The answer comes down to a phenomenon called superposition.",
+      "source": "The Decoder",
+      "published": "2026-05-03T08:42:45+00:00",
+      "link": "https://the-decoder.com/mit-study-explains-why-scaling-language-models-works-so-reliably/"
+    },
+    {
+      "title": "China is falling behind in the AI race, according to a US government benchmark",
+      "summary": "A US government agency says China is now eight months behind in the AI race, but independent data doesn't back that up. And while US labs keep chasing smarter models, the price edge from Deepseek and other Chinese players may end up being the stronger argument.",
+      "source": "The Decoder",
+      "published": "2026-05-03T08:12:00+00:00",
+      "link": "https://the-decoder.com/china-is-falling-behind-in-the-ai-race-according-to-a-us-government-benchmark/"
+    },
+    {
+      "title": "Xiaomi's open-weight MiMo-V2.5-Pro takes aim at Claude Opus with hours-long autonomous coding",
+      "summary": "Xiaomi's new MiMo-V2.5-Pro nearly matches Anthropic's Claude Opus 4.6 on coding benchmarks while burning 40 to 60 percent fewer tokens, according to the company.",
+      "source": "The Decoder",
+      "published": "2026-05-03T07:24:01+00:00",
+      "link": "https://the-decoder.com/xiaomis-open-weight-mimo-v2-5-pro-takes-aim-at-claude-opus-with-hours-long-autonomous-coding/"
+    },
     {
       "title": "Same prompt, different morals: how frontier AI models diverge on ethical dilemmas",
       "summary": "A new benchmark puts leading language models through 100 everyday ethical scenarios, from data misuse in sales to protocol violations in oncology. Behind the results lies a bigger question: who decides what an AI is allowed to do, and whose ethics does it follow?",
@@ -9,15 +37,22 @@ const FEED_DATA = {
       "link": "https://the-decoder.com/same-prompt-different-morals-how-frontier-ai-models-diverge-on-ethical-dilemmas/"
     },
     {
+      "title": "Specsmaxxing – On overcoming AI psychosis, and why I write specs in YAML",
+      "summary": "Article URL: https://acai.sh/blog/specsmaxxing Comments URL: https://news.ycombinator.com/item?id=47994012 Points: 108 # Comments: 104",
+      "source": "Hacker News",
+      "published": "2026-05-03T06:33:38+00:00",
+      "link": "https://acai.sh/blog/specsmaxxing"
+    },
+    {
       "title": "Kimi K2.6 just beat Claude, GPT-5.5, and Gemini in a coding challenge",
-      "summary": "Article URL: https://thinkpol.ca/2026/04/30/an-open-weights-chinese-model-just-beat-claude-gpt-5-5-and-gemini-in-a-programming-challenge/ Comments URL: https://news.ycombinator.com/item?id=47993235 Points: 225 # Comments: 101",
+      "summary": "Article URL: https://thinkpol.ca/2026/04/30/an-open-weights-chinese-model-just-beat-claude-gpt-5-5-and-gemini-in-a-programming-challenge/ Comments URL: https://news.ycombinator.com/item?id=47993235 Points: 279 # Comments: 138",
       "source": "Hacker News",
       "published": "2026-05-03T04:05:28+00:00",
       "link": "https://thinkpol.ca/2026/04/30/an-open-weights-chinese-model-just-beat-claude-gpt-5-5-and-gemini-in-a-programming-challenge/"
     },
     {
       "title": "The Claude Delusion: Richard Dawkins believes his AI chatbot is conscious",
-      "summary": "Article URL: https://www.dailygrail.com/2026/05/the-claude-delusion-richard-dawkins-believes-his-female-ai-chatbot-is-conscious/ Comments URL: https://news.ycombinator.com/item?id=47991340 Points: 64 # Comments: 91",
+      "summary": "Article URL: https://www.dailygrail.com/2026/05/the-claude-delusion-richard-dawkins-believes-his-female-ai-chatbot-is-conscious/ Comments URL: https://news.ycombinator.com/item?id=47991340 Points: 69 # Comments: 101",
       "source": "Hacker News",
       "published": "2026-05-02T22:44:23+00:00",
       "link": "https://www.dailygrail.com/2026/05/the-claude-delusion-richard-dawkins-believes-his-female-ai-chatbot-is-conscious/"
@@ -45,7 +80,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI Self-preferencing in Algorithmic Hiring: Empirical Evidence and Insights",
-      "summary": "Article URL: https://arxiv.org/abs/2509.00462 Comments URL: https://news.ycombinator.com/item?id=47987256 Points: 323 # Comments: 171",
+      "summary": "Article URL: https://arxiv.org/abs/2509.00462 Comments URL: https://news.ycombinator.com/item?id=47987256 Points: 324 # Comments: 171",
       "source": "Hacker News",
       "published": "2026-05-02T15:28:13+00:00",
       "link": "https://arxiv.org/abs/2509.00462"
@@ -171,7 +206,7 @@ const FEED_DATA = {
     },
     {
       "title": "Spotify adds 'Verified' badges to distinguish human artists from AI",
-      "summary": "Article URL: https://www.bbc.com/news/articles/c5yerr4m1yno Comments URL: https://news.ycombinator.com/item?id=47976856 Points: 272 # Comments: 299",
+      "summary": "Article URL: https://www.bbc.com/news/articles/c5yerr4m1yno Comments URL: https://news.ycombinator.com/item?id=47976856 Points: 272 # Comments: 300",
       "source": "Hacker News",
       "published": "2026-05-01T16:42:41+00:00",
       "link": "https://www.bbc.com/news/articles/c5yerr4m1yno"
@@ -185,7 +220,7 @@ const FEED_DATA = {
     },
     {
       "title": "Uber torches 2026 AI budget on Claude Code in four months",
-      "summary": "Article URL: https://www.briefs.co/news/uber-torches-entire-2026-ai-budget-on-claude-code-in-four-months/ Comments URL: https://news.ycombinator.com/item?id=47976415 Points: 397 # Comments: 467",
+      "summary": "Article URL: https://www.briefs.co/news/uber-torches-entire-2026-ai-budget-on-claude-code-in-four-months/ Comments URL: https://news.ycombinator.com/item?id=47976415 Points: 397 # Comments: 468",
       "source": "Hacker News",
       "published": "2026-05-01T16:08:53+00:00",
       "link": "https://www.briefs.co/news/uber-torches-entire-2026-ai-budget-on-claude-code-in-four-months/"
@@ -1365,41 +1400,6 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-04-28T09:29:03+00:00",
       "link": "https://the-decoder.com/openai-misses-revenue-targets-as-anthropic-and-google-close-in/"
-    },
-    {
-      "title": "GitHub Copilot switches to token-based billing in June 2026",
-      "summary": "Starting June 1, 2026, GitHub will charge Copilot users based on actual usage instead of premium request counts. The article GitHub Copilot switches to token-based billing in June 2026 appeared first on The Decoder.",
-      "source": "The Decoder",
-      "published": "2026-04-28T09:19:53+00:00",
-      "link": "https://the-decoder.com/github-copilot-switches-to-token-based-billing-in-june-2026/"
-    },
-    {
-      "title": "The Bloomberg Terminal Is Getting an AI Makeover, Like It or Not",
-      "summary": "WIRED spoke with Bloomberg’s chief technology officer about the big, chatbot-style changes coming to the iconic platform for traders.",
-      "source": "Wired",
-      "published": "2026-04-28T08:30:00+00:00",
-      "link": "https://www.wired.com/story/the-bloomberg-terminal-is-getting-an-ai-makeover-like-it-or-not/"
-    },
-    {
-      "title": "Jury selection in Musk v. Altman: ‘People don’t like him’",
-      "summary": "On Monday, the courtroom battle between Elon Musk and Sam Altman over alleged broken promises at OpenAI started, as usual, with jury selection. The only tricky part?",
-      "source": "The Verge",
-      "published": "2026-04-28T03:39:33+00:00",
-      "link": "https://www.theverge.com/tech/919469/elon-musk-dont-like"
-    },
-    {
-      "title": "Some Musk v. Altman Jurors Don't Like Elon Musk",
-      "summary": "Musk’s lawsuit challenges OpenAI’s evolution under Sam Altman. But during jury selection, several potential jurors voiced negative views of Musk himself.",
-      "source": "Wired",
-      "published": "2026-04-28T00:39:30+00:00",
-      "link": "https://www.wired.com/story/some-musk-v-altman-jurors-dont-like-elon-musk/"
-    },
-    {
-      "title": "Google is testing AI chatbot search for YouTube",
-      "summary": "Google is trying out an AI Mode-like search experience for YouTube. The company is now testing \"a new way to search on YouTube that feels more like a conversation,\" with results pulling in things like longform videos, YouTube Shorts, and text about what you're searching for.",
-      "source": "The Verge",
-      "published": "2026-04-28T00:01:54+00:00",
-      "link": "https://www.theverge.com/streaming/919441/google-ask-youtube-ai-chatbot-search"
     }
   ]
 };
