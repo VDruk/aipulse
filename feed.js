@@ -1,6 +1,20 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-05-03T09:57:13.495774+00:00",
+  "lastUpdated": "2026-05-03T14:11:39.529940+00:00",
   "items": [
+    {
+      "title": "How the internet’s favorite squirrel dad made the hottest camera app of 2026",
+      "summary": "It's not hyperbole to call DualShot Recorder an overnight sensation. It took only 12 hours from the time it was released to hit number one on the App Store's list of top paid apps.",
+      "source": "The Verge",
+      "published": "2026-05-03T13:00:00+00:00",
+      "link": "https://www.theverge.com/tech/921690/dualshot-recorder-iphone-camera-app-derrick-downey-jr"
+    },
+    {
+      "title": "AI music is flooding streaming services — but who wants it?",
+      "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on how AI is changing music and the music industry, follow Terrence O'Brien.",
+      "source": "The Verge",
+      "published": "2026-05-03T12:00:00+00:00",
+      "link": "https://www.theverge.com/column/921599/ai-music-is-flooding-streaming-services-but-who-wants-it"
+    },
     {
       "title": "Microsoft caught sneaking \"Co-Authored-by Copilot\" into VS Code commits - even with AI off",
       "summary": "Microsoft quietly slipped a \"Co-Authored-by Copilot\" line into Git commits in Visual Studio Code - even for developers who had turned off the AI features entirely.",
@@ -38,28 +52,35 @@ const FEED_DATA = {
     },
     {
       "title": "Specsmaxxing – On overcoming AI psychosis, and why I write specs in YAML",
-      "summary": "Article URL: https://acai.sh/blog/specsmaxxing Comments URL: https://news.ycombinator.com/item?id=47994012 Points: 108 # Comments: 104",
+      "summary": "Article URL: https://acai.sh/blog/specsmaxxing Comments URL: https://news.ycombinator.com/item?id=47994012 Points: 178 # Comments: 201",
       "source": "Hacker News",
       "published": "2026-05-03T06:33:38+00:00",
       "link": "https://acai.sh/blog/specsmaxxing"
     },
     {
       "title": "Kimi K2.6 just beat Claude, GPT-5.5, and Gemini in a coding challenge",
-      "summary": "Article URL: https://thinkpol.ca/2026/04/30/an-open-weights-chinese-model-just-beat-claude-gpt-5-5-and-gemini-in-a-programming-challenge/ Comments URL: https://news.ycombinator.com/item?id=47993235 Points: 279 # Comments: 138",
+      "summary": "Article URL: https://thinkpol.ca/2026/04/30/an-open-weights-chinese-model-just-beat-claude-gpt-5-5-and-gemini-in-a-programming-challenge/ Comments URL: https://news.ycombinator.com/item?id=47993235 Points: 328 # Comments: 183",
       "source": "Hacker News",
       "published": "2026-05-03T04:05:28+00:00",
       "link": "https://thinkpol.ca/2026/04/30/an-open-weights-chinese-model-just-beat-claude-gpt-5-5-and-gemini-in-a-programming-challenge/"
     },
     {
+      "title": "AI, Intimacy, and the Data You Never Meant to Share",
+      "summary": "Article URL: https://fshot.org/techzone/the-algorithm-knows.php Comments URL: https://news.ycombinator.com/item?id=47992802 Points: 51 # Comments: 2",
+      "source": "Hacker News",
+      "published": "2026-05-03T02:42:43+00:00",
+      "link": "https://fshot.org/techzone/the-algorithm-knows.php"
+    },
+    {
       "title": "The Claude Delusion: Richard Dawkins believes his AI chatbot is conscious",
-      "summary": "Article URL: https://www.dailygrail.com/2026/05/the-claude-delusion-richard-dawkins-believes-his-female-ai-chatbot-is-conscious/ Comments URL: https://news.ycombinator.com/item?id=47991340 Points: 69 # Comments: 101",
+      "summary": "Article URL: https://www.dailygrail.com/2026/05/the-claude-delusion-richard-dawkins-believes-his-female-ai-chatbot-is-conscious/ Comments URL: https://news.ycombinator.com/item?id=47991340 Points: 71 # Comments: 104",
       "source": "Hacker News",
       "published": "2026-05-02T22:44:23+00:00",
       "link": "https://www.dailygrail.com/2026/05/the-claude-delusion-richard-dawkins-believes-his-female-ai-chatbot-is-conscious/"
     },
     {
       "title": "Voice-AI-for-Beginners – A curated learning path for developers",
-      "summary": "Article URL: https://github.com/mahimairaja/voiceai Comments URL: https://news.ycombinator.com/item?id=47991018 Points: 70 # Comments: 4",
+      "summary": "Article URL: https://github.com/mahimairaja/voiceai Comments URL: https://news.ycombinator.com/item?id=47991018 Points: 74 # Comments: 4",
       "source": "Hacker News",
       "published": "2026-05-02T22:03:15+00:00",
       "link": "https://github.com/mahimairaja/voiceai"
@@ -80,7 +101,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI Self-preferencing in Algorithmic Hiring: Empirical Evidence and Insights",
-      "summary": "Article URL: https://arxiv.org/abs/2509.00462 Comments URL: https://news.ycombinator.com/item?id=47987256 Points: 324 # Comments: 171",
+      "summary": "Article URL: https://arxiv.org/abs/2509.00462 Comments URL: https://news.ycombinator.com/item?id=47987256 Points: 326 # Comments: 174",
       "source": "Hacker News",
       "published": "2026-05-02T15:28:13+00:00",
       "link": "https://arxiv.org/abs/2509.00462"
@@ -199,14 +220,14 @@ const FEED_DATA = {
     },
     {
       "title": "AI uses less water than the public thinks",
-      "summary": "Article URL: https://californiawaterblog.com/2026/04/26/ai-water-use-distractions-and-lessons-for-california/ Comments URL: https://news.ycombinator.com/item?id=47977383 Points: 400 # Comments: 377",
+      "summary": "Article URL: https://californiawaterblog.com/2026/04/26/ai-water-use-distractions-and-lessons-for-california/ Comments URL: https://news.ycombinator.com/item?id=47977383 Points: 400 # Comments: 378",
       "source": "Hacker News",
       "published": "2026-05-01T17:18:58+00:00",
       "link": "https://californiawaterblog.com/2026/04/26/ai-water-use-distractions-and-lessons-for-california/"
     },
     {
       "title": "Spotify adds 'Verified' badges to distinguish human artists from AI",
-      "summary": "Article URL: https://www.bbc.com/news/articles/c5yerr4m1yno Comments URL: https://news.ycombinator.com/item?id=47976856 Points: 272 # Comments: 300",
+      "summary": "Article URL: https://www.bbc.com/news/articles/c5yerr4m1yno Comments URL: https://news.ycombinator.com/item?id=47976856 Points: 273 # Comments: 300",
       "source": "Hacker News",
       "published": "2026-05-01T16:42:41+00:00",
       "link": "https://www.bbc.com/news/articles/c5yerr4m1yno"
@@ -220,7 +241,7 @@ const FEED_DATA = {
     },
     {
       "title": "Uber torches 2026 AI budget on Claude Code in four months",
-      "summary": "Article URL: https://www.briefs.co/news/uber-torches-entire-2026-ai-budget-on-claude-code-in-four-months/ Comments URL: https://news.ycombinator.com/item?id=47976415 Points: 397 # Comments: 468",
+      "summary": "Article URL: https://www.briefs.co/news/uber-torches-entire-2026-ai-budget-on-claude-code-in-four-months/ Comments URL: https://news.ycombinator.com/item?id=47976415 Points: 398 # Comments: 469",
       "source": "Hacker News",
       "published": "2026-05-01T16:08:53+00:00",
       "link": "https://www.briefs.co/news/uber-torches-entire-2026-ai-budget-on-claude-code-in-four-months/"
@@ -1379,27 +1400,6 @@ const FEED_DATA = {
       "source": "Hacker News",
       "published": "2026-04-28T10:08:38+00:00",
       "link": "https://www.theideasletter.org/essay/the-social-edge-of-intelligence/"
-    },
-    {
-      "title": "Kakao Mobility details Level 4 autonomous driving roadmap for physical AI",
-      "summary": "Kakao Mobility has set out plans to develop Level 4 autonomous driving technologies in-house as part of its physical AI strategy.",
-      "source": "AI News",
-      "published": "2026-04-28T10:00:00+00:00",
-      "link": "https://www.artificialintelligence-news.com/news/kakao-mobility-level-4-autonomous-driving-roadmap/"
-    },
-    {
-      "title": "Lightelligence’s 400% debut is a bet that AI’s next bottleneck is the optical interconnect",
-      "summary": "When a company with US$15.5 million in annual revenue debuts on a stock exchange and its market capitalisation briefly hits US$10 billion, the obvious question is: what do investors know that the financials don’t show yet?",
-      "source": "AI News",
-      "published": "2026-04-28T10:00:00+00:00",
-      "link": "https://www.artificialintelligence-news.com/news/lightelligence-ipo-optical-interconnect-ai-infrastructure/"
-    },
-    {
-      "title": "OpenAI misses revenue targets as Anthropic and Google close in",
-      "summary": "OpenAI fell short of internal revenue goals for the first quarter of 2026. Meanwhile, pressure from competitors like Anthropic and Google is mounting, and tensions inside the company over massive spending commitments are growing.",
-      "source": "The Decoder",
-      "published": "2026-04-28T09:29:03+00:00",
-      "link": "https://the-decoder.com/openai-misses-revenue-targets-as-anthropic-and-google-close-in/"
     }
   ]
 };
