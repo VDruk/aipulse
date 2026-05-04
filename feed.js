@@ -1,6 +1,41 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-05-04T10:52:41.208150+00:00",
+  "lastUpdated": "2026-05-04T15:11:04.206423+00:00",
   "items": [
+    {
+      "title": "OpenAI raises over $4 billion for new enterprise deployment venture",
+      "summary": "OpenAI has raised more than $4 billion for a new joint venture called \"The Deployment Company,\" according to Bloomberg. The article OpenAI raises over $4 billion for new enterprise deployment venture appeared first on The Decoder.",
+      "source": "The Decoder",
+      "published": "2026-05-04T14:02:18+00:00",
+      "link": "https://the-decoder.com/openai-raises-over-4-billion-for-new-enterprise-deployment-venture/"
+    },
+    {
+      "title": "Building AI data centers is becoming a stress test for banks",
+      "summary": "The construction of new AI data centers devours billions in borrowed capital. Major banks such as JPMorgan and Morgan Stanley are now looking for ways to pass on the growing credit risks to other investors.",
+      "source": "The Decoder",
+      "published": "2026-05-04T13:21:07+00:00",
+      "link": "https://the-decoder.com/building-ai-data-centers-is-becoming-a-stress-test-for-banks/"
+    },
+    {
+      "title": "Tailoring AI solutions for health care needs",
+      "summary": "The AI market is full of big promises of grand transformation. Health care is a prime target for those promises, beset as it is by financial pressures, labor shortages, and the growing burden of caring for an aging population.",
+      "source": "MIT Tech Review",
+      "published": "2026-05-04T13:00:00+00:00",
+      "link": "https://www.technologyreview.com/2026/05/04/1134425/tailoring-ai-solutions-for-health-care-needs/"
+    },
+    {
+      "title": "Cerebras targets $40 billion valuation in second IPO attempt",
+      "summary": "AI chip maker Cerebras Systems is heading to the Nasdaq under the ticker CBRS. The IPO roadshow kicks off Monday, with shares targeted between $115 and $125, Reuters reports, citing a person familiar with the matter.",
+      "source": "The Decoder",
+      "published": "2026-05-04T11:11:13+00:00",
+      "link": "https://the-decoder.com/cerebras-targets-40-billion-valuation-in-second-ipo-attempt/"
+    },
+    {
+      "title": "Physical AI raises governance questions for autonomous systems",
+      "summary": "Governance around Physical AI is becoming harder as autonomous AI systems move into robots, sensors, and industrial equipment. The issue is not only whether AI agents can complete tasks.",
+      "source": "AI News",
+      "published": "2026-05-04T11:00:00+00:00",
+      "link": "https://www.artificialintelligence-news.com/news/physical-ai-governance-autonomous-systems/"
+    },
     {
       "title": "Google made agentic AI governance a product. Enterprises still have to catch up.",
       "summary": "Two weeks ago at Google Cloud Next ’26 in Las Vegas, Google did something the enterprise AI industry has been dancing around for the better part of two years: it made agentic AI governance a native product feature, not an afterthought.",
@@ -31,7 +66,7 @@ const FEED_DATA = {
     },
     {
       "title": "The Oscars just banned AI from winning acting and writing awards",
-      "summary": "Article URL: https://gizmodo.com/the-oscars-just-banned-ai-from-winning-acting-and-writing-awards-2000753740 Comments URL: https://news.ycombinator.com/item?id=47999346 Points: 74 # Comments: 50",
+      "summary": "Article URL: https://gizmodo.com/the-oscars-just-banned-ai-from-winning-acting-and-writing-awards-2000753740 Comments URL: https://news.ycombinator.com/item?id=47999346 Points: 75 # Comments: 54",
       "source": "Hacker News",
       "published": "2026-05-03T17:34:15+00:00",
       "link": "https://gizmodo.com/the-oscars-just-banned-ai-from-winning-acting-and-writing-awards-2000753740"
@@ -87,28 +122,28 @@ const FEED_DATA = {
     },
     {
       "title": "Specsmaxxing – On overcoming AI psychosis, and why I write specs in YAML",
-      "summary": "Article URL: https://acai.sh/blog/specsmaxxing Comments URL: https://news.ycombinator.com/item?id=47994012 Points: 268 # Comments: 282",
+      "summary": "Article URL: https://acai.sh/blog/specsmaxxing Comments URL: https://news.ycombinator.com/item?id=47994012 Points: 271 # Comments: 288",
       "source": "Hacker News",
       "published": "2026-05-03T06:33:38+00:00",
       "link": "https://acai.sh/blog/specsmaxxing"
     },
     {
       "title": "Kimi K2.6 just beat Claude, GPT-5.5, and Gemini in a coding challenge",
-      "summary": "Article URL: https://thinkpol.ca/2026/04/30/an-open-weights-chinese-model-just-beat-claude-gpt-5-5-and-gemini-in-a-programming-challenge/ Comments URL: https://news.ycombinator.com/item?id=47993235 Points: 363 # Comments: 217",
+      "summary": "Article URL: https://thinkpol.ca/2026/04/30/an-open-weights-chinese-model-just-beat-claude-gpt-5-5-and-gemini-in-a-programming-challenge/ Comments URL: https://news.ycombinator.com/item?id=47993235 Points: 368 # Comments: 217",
       "source": "Hacker News",
       "published": "2026-05-03T04:05:28+00:00",
       "link": "https://thinkpol.ca/2026/04/30/an-open-weights-chinese-model-just-beat-claude-gpt-5-5-and-gemini-in-a-programming-challenge/"
     },
     {
       "title": "AI, Intimacy, and the Data You Never Meant to Share",
-      "summary": "Article URL: https://fshot.org/techzone/the-algorithm-knows.php Comments URL: https://news.ycombinator.com/item?id=47992802 Points: 77 # Comments: 6",
+      "summary": "Article URL: https://fshot.org/techzone/the-algorithm-knows.php Comments URL: https://news.ycombinator.com/item?id=47992802 Points: 78 # Comments: 6",
       "source": "Hacker News",
       "published": "2026-05-03T02:42:43+00:00",
       "link": "https://fshot.org/techzone/the-algorithm-knows.php"
     },
     {
       "title": "The Claude Delusion: Richard Dawkins believes his AI chatbot is conscious",
-      "summary": "Article URL: https://www.dailygrail.com/2026/05/the-claude-delusion-richard-dawkins-believes-his-female-ai-chatbot-is-conscious/ Comments URL: https://news.ycombinator.com/item?id=47991340 Points: 75 # Comments: 123",
+      "summary": "Article URL: https://www.dailygrail.com/2026/05/the-claude-delusion-richard-dawkins-believes-his-female-ai-chatbot-is-conscious/ Comments URL: https://news.ycombinator.com/item?id=47991340 Points: 75 # Comments: 124",
       "source": "Hacker News",
       "published": "2026-05-02T22:44:23+00:00",
       "link": "https://www.dailygrail.com/2026/05/the-claude-delusion-richard-dawkins-believes-his-female-ai-chatbot-is-conscious/"
@@ -136,7 +171,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI Self-preferencing in Algorithmic Hiring: Empirical Evidence and Insights",
-      "summary": "Article URL: https://arxiv.org/abs/2509.00462 Comments URL: https://news.ycombinator.com/item?id=47987256 Points: 329 # Comments: 178",
+      "summary": "Article URL: https://arxiv.org/abs/2509.00462 Comments URL: https://news.ycombinator.com/item?id=47987256 Points: 330 # Comments: 178",
       "source": "Hacker News",
       "published": "2026-05-02T15:28:13+00:00",
       "link": "https://arxiv.org/abs/2509.00462"
@@ -255,14 +290,14 @@ const FEED_DATA = {
     },
     {
       "title": "AI uses less water than the public thinks",
-      "summary": "Article URL: https://californiawaterblog.com/2026/04/26/ai-water-use-distractions-and-lessons-for-california/ Comments URL: https://news.ycombinator.com/item?id=47977383 Points: 407 # Comments: 384",
+      "summary": "Article URL: https://californiawaterblog.com/2026/04/26/ai-water-use-distractions-and-lessons-for-california/ Comments URL: https://news.ycombinator.com/item?id=47977383 Points: 407 # Comments: 386",
       "source": "Hacker News",
       "published": "2026-05-01T17:18:58+00:00",
       "link": "https://californiawaterblog.com/2026/04/26/ai-water-use-distractions-and-lessons-for-california/"
     },
     {
       "title": "Spotify adds 'Verified' badges to distinguish human artists from AI",
-      "summary": "Article URL: https://www.bbc.com/news/articles/c5yerr4m1yno Comments URL: https://news.ycombinator.com/item?id=47976856 Points: 284 # Comments: 305",
+      "summary": "Article URL: https://www.bbc.com/news/articles/c5yerr4m1yno Comments URL: https://news.ycombinator.com/item?id=47976856 Points: 285 # Comments: 305",
       "source": "Hacker News",
       "published": "2026-05-01T16:42:41+00:00",
       "link": "https://www.bbc.com/news/articles/c5yerr4m1yno"
@@ -276,7 +311,7 @@ const FEED_DATA = {
     },
     {
       "title": "Uber torches 2026 AI budget on Claude Code in four months",
-      "summary": "Article URL: https://www.briefs.co/news/uber-torches-entire-2026-ai-budget-on-claude-code-in-four-months/ Comments URL: https://news.ycombinator.com/item?id=47976415 Points: 401 # Comments: 472",
+      "summary": "Article URL: https://www.briefs.co/news/uber-torches-entire-2026-ai-budget-on-claude-code-in-four-months/ Comments URL: https://news.ycombinator.com/item?id=47976415 Points: 401 # Comments: 474",
       "source": "Hacker News",
       "published": "2026-05-01T16:08:53+00:00",
       "link": "https://www.briefs.co/news/uber-torches-entire-2026-ai-budget-on-claude-code-in-four-months/"
@@ -430,7 +465,7 @@ const FEED_DATA = {
     },
     {
       "title": "When Dawkins met Claude – Could this AI be conscious?",
-      "summary": "https://archive.ph/Rq5bw Comments URL: https://news.ycombinator.com/item?id=47972481 Points: 57 # Comments: 398",
+      "summary": "https://archive.ph/Rq5bw Comments URL: https://news.ycombinator.com/item?id=47972481 Points: 57 # Comments: 406",
       "source": "Hacker News",
       "published": "2026-05-01T08:36:19+00:00",
       "link": "https://unherd.com/2026/04/is-ai-the-next-phase-of-evolution/"
@@ -815,7 +850,7 @@ const FEED_DATA = {
     },
     {
       "title": "The Zig project's rationale for their anti-AI contribution policy",
-      "summary": "Article URL: https://simonwillison.net/2026/Apr/30/zig-anti-ai/ Comments URL: https://news.ycombinator.com/item?id=47957294 Points: 677 # Comments: 457",
+      "summary": "Article URL: https://simonwillison.net/2026/Apr/30/zig-anti-ai/ Comments URL: https://news.ycombinator.com/item?id=47957294 Points: 677 # Comments: 460",
       "source": "Hacker News",
       "published": "2026-04-30T02:15:47+00:00",
       "link": "https://simonwillison.net/2026/Apr/30/zig-anti-ai/"
@@ -1365,41 +1400,6 @@ const FEED_DATA = {
       "source": "Wired",
       "published": "2026-04-28T13:00:00+00:00",
       "link": "https://www.wired.com/story/the-race-is-on-to-keep-ai-agents-from-running-wild-with-your-credit-cards/"
-    },
-    {
-      "title": "Red Hat’s OpenClaw maintainer just made enterprise Claw deployments a lot safer",
-      "summary": "Tank OS puts OpenClaw AI agents into a container that lets it run reliably and more safely, especially for those running fleets of them.",
-      "source": "TechCrunch",
-      "published": "2026-04-28T13:00:00+00:00",
-      "link": "https://techcrunch.com/2026/04/28/red-hats-openclaw-maintainer-just-made-enterprise-claw-deployments-a-lot-safer/"
-    },
-    {
-      "title": "Researchers find AI text is making the internet more uniform and weirdly cheerful",
-      "summary": "A large-scale analysis of websites from the Internet Archive shows just how much AI text already saturates the web. According to the researchers, though, the actual effects look quite different from what the public assumes.",
-      "source": "The Decoder",
-      "published": "2026-04-28T12:51:47+00:00",
-      "link": "https://the-decoder.com/researchers-find-ai-text-is-making-the-internet-more-uniform-and-weirdly-cheerful/"
-    },
-    {
-      "title": "OpenAI misses revenue, is the AI bubble bursting?",
-      "summary": "Article URL: https://www.cnbc.com/2026/04/28/openai-reportedly-missed-revenue-targets-shares-of-oracle-and-these-chip-stocks-are-falling.html Comments URL: https://news.ycombinator.com/item?id=47933430 Points: 57 # Comments: 36",
-      "source": "Hacker News",
-      "published": "2026-04-28T12:15:13+00:00",
-      "link": "https://www.cnbc.com/2026/04/28/openai-reportedly-missed-revenue-targets-shares-of-oracle-and-these-chip-stocks-are-falling.html"
-    },
-    {
-      "title": "The Download: Musk and Altman’s legal showdown, and AI’s profit problem",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.",
-      "source": "MIT Tech Review",
-      "published": "2026-04-28T12:10:00+00:00",
-      "link": "https://www.technologyreview.com/2026/04/28/1136479/the-download-musk-altman-openai-trial-ai-profit-problem/"
-    },
-    {
-      "title": "Otter’s new feature lets users search across their enterprise tools",
-      "summary": "With this launch, users can connect their Gmail, Google Drive, Notion, Jira, and Salesforce accounts and query that data along with existing meeting data. The company said that it will soon allow connections with Microsoft Outlook, Teams, SharePoint, and Slack.",
-      "source": "TechCrunch",
-      "published": "2026-04-28T12:00:00+00:00",
-      "link": "https://techcrunch.com/2026/04/28/otters-new-feature-lets-users-search-across-their-enterprise-tools/"
     }
   ]
 };
