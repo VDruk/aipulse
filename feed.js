@@ -1,6 +1,62 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-05-04T15:11:04.206423+00:00",
+  "lastUpdated": "2026-05-04T18:10:45.357155+00:00",
   "items": [
+    {
+      "title": "Anthropic and OpenAI now agree on one thing: selling AI requires a lot more than just the AI",
+      "summary": "Anthropic, Blackstone, Hellman & Friedman, and Goldman Sachs are launching a new AI services company to help mid-market businesses adopt Claude. The article Anthropic and OpenAI now agree on one thing: selling AI requires a lot more than just the AI appeared first on The Decoder.",
+      "source": "The Decoder",
+      "published": "2026-05-04T18:04:35+00:00",
+      "link": "https://the-decoder.com/anthropic-and-openai-now-agree-on-one-thing-selling-ai-requires-a-lot-more-than-just-the-ai/"
+    },
+    {
+      "title": "Elon Musk’s only AI expert witness at the OpenAI trial fears an AGI arms race",
+      "summary": "Stuart Russell is a long-time AI researcher who thinks governments need to restrain frontier labs.",
+      "source": "TechCrunch",
+      "published": "2026-05-04T16:57:47+00:00",
+      "link": "https://techcrunch.com/2026/05/04/elon-musks-only-expert-witness-at-the-openai-trial-fears-an-agi-arms-race/"
+    },
+    {
+      "title": "Sierra raises $950M as the race to own enterprise AI gets serious",
+      "summary": "The raise gives Sierra more than $1 billion to work with — capital the company says it will use to become the \"global standard\" for AI-powered customer experiences.",
+      "source": "TechCrunch",
+      "published": "2026-05-04T16:45:55+00:00",
+      "link": "https://techcrunch.com/2026/05/04/sierra-raises-950m-as-the-race-to-own-enterprise-ai-gets-serious/"
+    },
+    {
+      "title": "Elon Musk sent ominous texts to Greg Brockman, Sam Altman after asking for a settlement, OpenAI claims",
+      "summary": "Musk texted OpenAI's president and co-founder saying that he and CEO Sam Altman \"will be the most hated men in America.\"",
+      "source": "TechCrunch",
+      "published": "2026-05-04T16:36:03+00:00",
+      "link": "https://techcrunch.com/2026/05/04/elon-musk-sent-ominous-texts-to-greg-brockman-sam-altman-after-asking-for-a-settlement-openai-claims/"
+    },
+    {
+      "title": "OpenAI, Google, and Microsoft Back Bill to Fund 'AI Literacy' in Schools",
+      "summary": "Article URL: https://www.404media.co/literacy-in-future-technologies-artificial-intelligence-act-adam-schiff-mike-rounds/ Comments URL: https://news.ycombinator.com/item?id=48010774 Points: 50 # Comments: 45",
+      "source": "Hacker News",
+      "published": "2026-05-04T16:21:38+00:00",
+      "link": "https://www.404media.co/literacy-in-future-technologies-artificial-intelligence-act-adam-schiff-mike-rounds/"
+    },
+    {
+      "title": "Anthropic and OpenAI are both launching joint ventures for enterprise AI services",
+      "summary": "Both Anthropic and OpenAI have partnered with asset managers to more aggressively market their enterprise AI products.",
+      "source": "TechCrunch",
+      "published": "2026-05-04T15:59:24+00:00",
+      "link": "https://techcrunch.com/2026/05/04/anthropic-and-openai-are-both-launching-joint-ventures-for-enterprise-ai-services/"
+    },
+    {
+      "title": "Week one of the Musk v. Altman trial: What it was like in the room",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here.",
+      "source": "MIT Tech Review",
+      "published": "2026-05-04T15:51:27+00:00",
+      "link": "https://www.technologyreview.com/2026/05/04/1136826/week-one-of-the-musk-v-altman-trial-what-it-was-like-in-the-room/"
+    },
+    {
+      "title": "Live updates from Elon Musk and Sam Altman’s court battle over the future of OpenAI",
+      "summary": "Sam Altman and Elon Musk are facing off in a high-stakes trial that could alter the future of OpenAI and its most well-known product, ChatGPT.",
+      "source": "The Verge",
+      "published": "2026-05-04T15:43:49+00:00",
+      "link": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit"
+    },
     {
       "title": "OpenAI raises over $4 billion for new enterprise deployment venture",
       "summary": "OpenAI has raised more than $4 billion for a new joint venture called \"The Deployment Company,\" according to Bloomberg. The article OpenAI raises over $4 billion for new enterprise deployment venture appeared first on The Decoder.",
@@ -14,6 +70,13 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-05-04T13:21:07+00:00",
       "link": "https://the-decoder.com/building-ai-data-centers-is-becoming-a-stress-test-for-banks/"
+    },
+    {
+      "title": "DoorDash adds AI tools to speed up merchant onboarding, edit photos of dishes",
+      "summary": "DoorDash on Monday added new AI-powered tools that let merchants speed up onboarding, edit photos to make dishes look better, and create new websites from existing content.",
+      "source": "TechCrunch",
+      "published": "2026-05-04T13:00:00+00:00",
+      "link": "https://techcrunch.com/2026/05/04/doordash-adds-ai-tools-to-speed-up-merchant-onboarding-edit-photos-of-dishes/"
     },
     {
       "title": "Tailoring AI solutions for health care needs",
@@ -66,7 +129,7 @@ const FEED_DATA = {
     },
     {
       "title": "The Oscars just banned AI from winning acting and writing awards",
-      "summary": "Article URL: https://gizmodo.com/the-oscars-just-banned-ai-from-winning-acting-and-writing-awards-2000753740 Comments URL: https://news.ycombinator.com/item?id=47999346 Points: 75 # Comments: 54",
+      "summary": "Article URL: https://gizmodo.com/the-oscars-just-banned-ai-from-winning-acting-and-writing-awards-2000753740 Comments URL: https://news.ycombinator.com/item?id=47999346 Points: 75 # Comments: 61",
       "source": "Hacker News",
       "published": "2026-05-03T17:34:15+00:00",
       "link": "https://gizmodo.com/the-oscars-just-banned-ai-from-winning-acting-and-writing-awards-2000753740"
@@ -122,21 +185,21 @@ const FEED_DATA = {
     },
     {
       "title": "Specsmaxxing – On overcoming AI psychosis, and why I write specs in YAML",
-      "summary": "Article URL: https://acai.sh/blog/specsmaxxing Comments URL: https://news.ycombinator.com/item?id=47994012 Points: 271 # Comments: 288",
+      "summary": "Article URL: https://acai.sh/blog/specsmaxxing Comments URL: https://news.ycombinator.com/item?id=47994012 Points: 274 # Comments: 288",
       "source": "Hacker News",
       "published": "2026-05-03T06:33:38+00:00",
       "link": "https://acai.sh/blog/specsmaxxing"
     },
     {
       "title": "Kimi K2.6 just beat Claude, GPT-5.5, and Gemini in a coding challenge",
-      "summary": "Article URL: https://thinkpol.ca/2026/04/30/an-open-weights-chinese-model-just-beat-claude-gpt-5-5-and-gemini-in-a-programming-challenge/ Comments URL: https://news.ycombinator.com/item?id=47993235 Points: 368 # Comments: 217",
+      "summary": "Article URL: https://thinkpol.ca/2026/04/30/an-open-weights-chinese-model-just-beat-claude-gpt-5-5-and-gemini-in-a-programming-challenge/ Comments URL: https://news.ycombinator.com/item?id=47993235 Points: 370 # Comments: 218",
       "source": "Hacker News",
       "published": "2026-05-03T04:05:28+00:00",
       "link": "https://thinkpol.ca/2026/04/30/an-open-weights-chinese-model-just-beat-claude-gpt-5-5-and-gemini-in-a-programming-challenge/"
     },
     {
       "title": "AI, Intimacy, and the Data You Never Meant to Share",
-      "summary": "Article URL: https://fshot.org/techzone/the-algorithm-knows.php Comments URL: https://news.ycombinator.com/item?id=47992802 Points: 78 # Comments: 6",
+      "summary": "Article URL: https://fshot.org/techzone/the-algorithm-knows.php Comments URL: https://news.ycombinator.com/item?id=47992802 Points: 79 # Comments: 6",
       "source": "Hacker News",
       "published": "2026-05-03T02:42:43+00:00",
       "link": "https://fshot.org/techzone/the-algorithm-knows.php"
@@ -171,7 +234,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI Self-preferencing in Algorithmic Hiring: Empirical Evidence and Insights",
-      "summary": "Article URL: https://arxiv.org/abs/2509.00462 Comments URL: https://news.ycombinator.com/item?id=47987256 Points: 330 # Comments: 178",
+      "summary": "Article URL: https://arxiv.org/abs/2509.00462 Comments URL: https://news.ycombinator.com/item?id=47987256 Points: 331 # Comments: 178",
       "source": "Hacker News",
       "published": "2026-05-02T15:28:13+00:00",
       "link": "https://arxiv.org/abs/2509.00462"
@@ -465,7 +528,7 @@ const FEED_DATA = {
     },
     {
       "title": "When Dawkins met Claude – Could this AI be conscious?",
-      "summary": "https://archive.ph/Rq5bw Comments URL: https://news.ycombinator.com/item?id=47972481 Points: 57 # Comments: 406",
+      "summary": "https://archive.ph/Rq5bw Comments URL: https://news.ycombinator.com/item?id=47972481 Points: 59 # Comments: 413",
       "source": "Hacker News",
       "published": "2026-05-01T08:36:19+00:00",
       "link": "https://unherd.com/2026/04/is-ai-the-next-phase-of-evolution/"
@@ -625,13 +688,6 @@ const FEED_DATA = {
       "link": "https://techcrunch.com/2026/04/30/stripe-link-digital-wallet-ai-agents-shopping/"
     },
     {
-      "title": "Live updates from Elon Musk and Sam Altman’s court battle over the future of OpenAI",
-      "summary": "Sam Altman and Elon Musk are facing off in a high-stakes trial that could alter the future of OpenAI and its most well-known product, ChatGPT.",
-      "source": "The Verge",
-      "published": "2026-04-30T16:57:14+00:00",
-      "link": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit"
-    },
-    {
       "title": "Meta is running get-rich-quick ads for its AI tools",
       "summary": "Manus, an AI company Meta acquired for $2 billion last year is running ads promising quick, easy money with AI: Find local businesses without websites or with bad websites, have AI build them one, then call them up and sell it to them.",
       "source": "The Verge",
@@ -640,7 +696,7 @@ const FEED_DATA = {
     },
     {
       "title": "Shai-Hulud Themed Malware Found in the PyTorch Lightning AI Training Library",
-      "summary": "Also: https://socket.dev/blog/lightning-pypi-package-compromised Comments URL: https://news.ycombinator.com/item?id=47964617 Points: 463 # Comments: 177",
+      "summary": "Also: https://socket.dev/blog/lightning-pypi-package-compromised Comments URL: https://news.ycombinator.com/item?id=47964617 Points: 464 # Comments: 177",
       "source": "Hacker News",
       "published": "2026-04-30T16:09:26+00:00",
       "link": "https://semgrep.dev/blog/2026/malicious-dependency-in-pytorch-lightning-used-for-ai-training/"
@@ -836,7 +892,7 @@ const FEED_DATA = {
     },
     {
       "title": "DataCenter.FM – background noise app featuring the sound of the AI bubble",
-      "summary": "Article URL: https://datacenter.fm/ Comments URL: https://news.ycombinator.com/item?id=47959513 Points: 147 # Comments: 28",
+      "summary": "Article URL: https://datacenter.fm/ Comments URL: https://news.ycombinator.com/item?id=47959513 Points: 148 # Comments: 28",
       "source": "Hacker News",
       "published": "2026-04-30T07:52:12+00:00",
       "link": "https://datacenter.fm/"
@@ -1344,62 +1400,6 @@ const FEED_DATA = {
       "source": "The Verge",
       "published": "2026-04-28T16:49:08+00:00",
       "link": "https://www.theverge.com/ai-artificial-intelligence/919648/anthropic-claude-creative-connectors-adobe-blender"
-    },
-    {
-      "title": "AI's economics don't make sense",
-      "summary": "Related: AI's biggest critic has lost the plot - https://news.ycombinator.com/item?id=47934353 Comments URL: https://news.ycombinator.com/item?id=47936867 Points: 236 # Comments: 189",
-      "source": "Hacker News",
-      "published": "2026-04-28T16:39:53+00:00",
-      "link": "https://www.wheresyoured.at/ais-economics-dont-make-sense/"
-    },
-    {
-      "title": "Google and Pentagon reportedly agree on deal for 'any lawful' use of AI",
-      "summary": "Article URL: https://www.theverge.com/ai-artificial-intelligence/919494/google-pentagon-classified-ai-deal Comments URL: https://news.ycombinator.com/item?id=47936156 Points: 314 # Comments: 281",
-      "source": "Hacker News",
-      "published": "2026-04-28T15:49:22+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/919494/google-pentagon-classified-ai-deal"
-    },
-    {
-      "title": "Mistral AI takes on enterprise AI orchestration with Workflows",
-      "summary": "Mistral AI has rolled out Workflows, an orchestration layer that helps companies turn AI-powered processes into production-ready systems. The article Mistral AI takes on enterprise AI orchestration with Workflows appeared first on The Decoder.",
-      "source": "The Decoder",
-      "published": "2026-04-28T14:58:24+00:00",
-      "link": "https://the-decoder.com/mistral-ai-takes-on-enterprise-ai-orchestration-with-workflows/"
-    },
-    {
-      "title": "Musk and Altman go to court",
-      "summary": "The trial between Elon Musk and OpenAI is officially upon us. And it is going to be a mess.",
-      "source": "The Verge",
-      "published": "2026-04-28T14:47:21+00:00",
-      "link": "https://www.theverge.com/podcast/919534/musk-openai-trial-vergecast"
-    },
-    {
-      "title": "Meta scrambles to unwind Manus deal as Beijing's deadline looms",
-      "summary": "Meta is actively preparing to unwind the Manus acquisition, according to the Wall Street Journal. The article Meta scrambles to unwind Manus deal as Beijing's deadline looms appeared first on The Decoder.",
-      "source": "The Decoder",
-      "published": "2026-04-28T14:40:42+00:00",
-      "link": "https://the-decoder.com/meta-scrambles-to-unwind-manus-deal-as-beijings-deadline-looms/"
-    },
-    {
-      "title": "YouTube is testing an AI-powered search feature that shows guided answers",
-      "summary": "YouTube is rolling out the new AI search feature to Premium subscribers in the U.S. on an opt-in basis.",
-      "source": "TechCrunch",
-      "published": "2026-04-28T13:54:06+00:00",
-      "link": "https://techcrunch.com/2026/04/28/youtube-is-testing-an-ai-powered-search-feature-that-shows-guided-answers/"
-    },
-    {
-      "title": "The evolution of encoders: From simple models to multimodal AI",
-      "summary": "When people talk about artificial intelligence, they usually focus on what it produces: Human-like text, stunning images, or eerily accurate recommendations. What rarely gets attention is how AI understands anything in the first place.",
-      "source": "AI News",
-      "published": "2026-04-28T13:01:51+00:00",
-      "link": "https://www.artificialintelligence-news.com/news/the-evolution-of-encoders-from-simple-models-to-multimodal-ai/"
-    },
-    {
-      "title": "The Race Is on to Keep AI Agents From Running Wild With Your Credit Cards",
-      "summary": "AI agents may soon be buying your stuff for you. The FIDO Alliance has teamed up with Google and Mastercard to try to ensure that shopping in the near future isn't a complete disaster.",
-      "source": "Wired",
-      "published": "2026-04-28T13:00:00+00:00",
-      "link": "https://www.wired.com/story/the-race-is-on-to-keep-ai-agents-from-running-wild-with-your-credit-cards/"
     }
   ]
 };
