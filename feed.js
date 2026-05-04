@@ -1,12 +1,40 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-05-04T18:10:45.357155+00:00",
+  "lastUpdated": "2026-05-04T21:54:28.812384+00:00",
   "items": [
+    {
+      "title": "OpenAI’s cozy partner Cerebras is on track for a blockbuster IPO",
+      "summary": "AI chip maker Cerebras is heading for a blockbuster IPO that could value it at $26.6 billion or more. It's relationship with OpenAI is deep and rich.",
+      "source": "TechCrunch",
+      "published": "2026-05-04T21:53:21+00:00",
+      "link": "https://techcrunch.com/2026/05/04/openais-cozy-partner-cerebras-is-on-track-for-a-blockbuster-ipo/"
+    },
+    {
+      "title": "How OpenAI delivers low-latency voice AI at scale",
+      "summary": "Article URL: https://openai.com/index/delivering-low-latency-voice-ai-at-scale/ Comments URL: https://news.ycombinator.com/item?id=48013919 Points: 112 # Comments: 53",
+      "source": "Hacker News",
+      "published": "2026-05-04T19:42:47+00:00",
+      "link": "https://openai.com/index/delivering-low-latency-voice-ai-at-scale/"
+    },
+    {
+      "title": "Image AI models now drive app growth, beating chatbot upgrades",
+      "summary": "Appfigures finds visual model launches generate 6.5x more downloads — but most don’t convert that spike into revenue.",
+      "source": "TechCrunch",
+      "published": "2026-05-04T19:12:49+00:00",
+      "link": "https://techcrunch.com/2026/05/04/image-ai-models-now-drive-app-growth-beating-chatbot-upgrades/"
+    },
     {
       "title": "Anthropic and OpenAI now agree on one thing: selling AI requires a lot more than just the AI",
       "summary": "Anthropic, Blackstone, Hellman & Friedman, and Goldman Sachs are launching a new AI services company to help mid-market businesses adopt Claude. The article Anthropic and OpenAI now agree on one thing: selling AI requires a lot more than just the AI appeared first on The Decoder.",
       "source": "The Decoder",
       "published": "2026-05-04T18:04:35+00:00",
       "link": "https://the-decoder.com/anthropic-and-openai-now-agree-on-one-thing-selling-ai-requires-a-lot-more-than-just-the-ai/"
+    },
+    {
+      "title": "GameStop offers $56 billion for eBay, struggles to explain how it'll pay for it",
+      "summary": "Amid falling revenue and store closures, GameStop wants to buy the much larger eBay.",
+      "source": "Ars Technica",
+      "published": "2026-05-04T17:57:46+00:00",
+      "link": "https://arstechnica.com/tech-policy/2026/05/gamestop-offers-56-billion-for-ebay-struggles-to-explain-how-itll-pay-for-it/"
     },
     {
       "title": "Elon Musk’s only AI expert witness at the OpenAI trial fears an AGI arms race",
@@ -24,14 +52,14 @@ const FEED_DATA = {
     },
     {
       "title": "Elon Musk sent ominous texts to Greg Brockman, Sam Altman after asking for a settlement, OpenAI claims",
-      "summary": "Musk texted OpenAI's president and co-founder saying that he and CEO Sam Altman \"will be the most hated men in America.\"",
+      "summary": "Musk texted OpenAI's president and co-founder saying that he and CEO Sam Altman \"will be the most hated men in America\" if OpenAI doesn't settle the suit.",
       "source": "TechCrunch",
       "published": "2026-05-04T16:36:03+00:00",
       "link": "https://techcrunch.com/2026/05/04/elon-musk-sent-ominous-texts-to-greg-brockman-sam-altman-after-asking-for-a-settlement-openai-claims/"
     },
     {
       "title": "OpenAI, Google, and Microsoft Back Bill to Fund 'AI Literacy' in Schools",
-      "summary": "Article URL: https://www.404media.co/literacy-in-future-technologies-artificial-intelligence-act-adam-schiff-mike-rounds/ Comments URL: https://news.ycombinator.com/item?id=48010774 Points: 50 # Comments: 45",
+      "summary": "https://archive.ph/gLnMk Comments URL: https://news.ycombinator.com/item?id=48010774 Points: 101 # Comments: 93",
       "source": "Hacker News",
       "published": "2026-05-04T16:21:38+00:00",
       "link": "https://www.404media.co/literacy-in-future-technologies-artificial-intelligence-act-adam-schiff-mike-rounds/"
@@ -56,6 +84,13 @@ const FEED_DATA = {
       "source": "The Verge",
       "published": "2026-05-04T15:43:49+00:00",
       "link": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit"
+    },
+    {
+      "title": "UK Fuel Price Intelligence – Market analytics from reporting stations",
+      "summary": "Article URL: https://www.fuelinsight.co.uk Comments URL: https://news.ycombinator.com/item?id=48009747 Points: 139 # Comments: 69",
+      "source": "Hacker News",
+      "published": "2026-05-04T15:15:21+00:00",
+      "link": "https://www.fuelinsight.co.uk"
     },
     {
       "title": "OpenAI raises over $4 billion for new enterprise deployment venture",
@@ -129,7 +164,7 @@ const FEED_DATA = {
     },
     {
       "title": "The Oscars just banned AI from winning acting and writing awards",
-      "summary": "Article URL: https://gizmodo.com/the-oscars-just-banned-ai-from-winning-acting-and-writing-awards-2000753740 Comments URL: https://news.ycombinator.com/item?id=47999346 Points: 75 # Comments: 61",
+      "summary": "Article URL: https://gizmodo.com/the-oscars-just-banned-ai-from-winning-acting-and-writing-awards-2000753740 Comments URL: https://news.ycombinator.com/item?id=47999346 Points: 76 # Comments: 62",
       "source": "Hacker News",
       "published": "2026-05-03T17:34:15+00:00",
       "link": "https://gizmodo.com/the-oscars-just-banned-ai-from-winning-acting-and-writing-awards-2000753740"
@@ -185,21 +220,21 @@ const FEED_DATA = {
     },
     {
       "title": "Specsmaxxing – On overcoming AI psychosis, and why I write specs in YAML",
-      "summary": "Article URL: https://acai.sh/blog/specsmaxxing Comments URL: https://news.ycombinator.com/item?id=47994012 Points: 274 # Comments: 288",
+      "summary": "Article URL: https://acai.sh/blog/specsmaxxing Comments URL: https://news.ycombinator.com/item?id=47994012 Points: 278 # Comments: 288",
       "source": "Hacker News",
       "published": "2026-05-03T06:33:38+00:00",
       "link": "https://acai.sh/blog/specsmaxxing"
     },
     {
       "title": "Kimi K2.6 just beat Claude, GPT-5.5, and Gemini in a coding challenge",
-      "summary": "Article URL: https://thinkpol.ca/2026/04/30/an-open-weights-chinese-model-just-beat-claude-gpt-5-5-and-gemini-in-a-programming-challenge/ Comments URL: https://news.ycombinator.com/item?id=47993235 Points: 370 # Comments: 218",
+      "summary": "Article URL: https://thinkpol.ca/2026/04/30/an-open-weights-chinese-model-just-beat-claude-gpt-5-5-and-gemini-in-a-programming-challenge/ Comments URL: https://news.ycombinator.com/item?id=47993235 Points: 374 # Comments: 218",
       "source": "Hacker News",
       "published": "2026-05-03T04:05:28+00:00",
       "link": "https://thinkpol.ca/2026/04/30/an-open-weights-chinese-model-just-beat-claude-gpt-5-5-and-gemini-in-a-programming-challenge/"
     },
     {
       "title": "AI, Intimacy, and the Data You Never Meant to Share",
-      "summary": "Article URL: https://fshot.org/techzone/the-algorithm-knows.php Comments URL: https://news.ycombinator.com/item?id=47992802 Points: 79 # Comments: 6",
+      "summary": "Article URL: https://fshot.org/techzone/the-algorithm-knows.php Comments URL: https://news.ycombinator.com/item?id=47992802 Points: 80 # Comments: 6",
       "source": "Hacker News",
       "published": "2026-05-03T02:42:43+00:00",
       "link": "https://fshot.org/techzone/the-algorithm-knows.php"
@@ -220,7 +255,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI-generated actors and scripts are now ineligible for Oscars",
-      "summary": "Bad news for Tilly Norwood.",
+      "summary": "The Academy of Motion Picture Arts and Sciences said that only performances “credited in the film’s legal billing and demonstrably performed by humans with their consent” will be eligible for Academy Awards.",
       "source": "TechCrunch",
       "published": "2026-05-02T21:54:58+00:00",
       "link": "https://techcrunch.com/2026/05/02/ai-generated-actors-and-scripts-are-now-ineligible-for-oscars/"
@@ -234,7 +269,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI Self-preferencing in Algorithmic Hiring: Empirical Evidence and Insights",
-      "summary": "Article URL: https://arxiv.org/abs/2509.00462 Comments URL: https://news.ycombinator.com/item?id=47987256 Points: 331 # Comments: 178",
+      "summary": "Article URL: https://arxiv.org/abs/2509.00462 Comments URL: https://news.ycombinator.com/item?id=47987256 Points: 332 # Comments: 178",
       "source": "Hacker News",
       "published": "2026-05-02T15:28:13+00:00",
       "link": "https://arxiv.org/abs/2509.00462"
@@ -353,7 +388,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI uses less water than the public thinks",
-      "summary": "Article URL: https://californiawaterblog.com/2026/04/26/ai-water-use-distractions-and-lessons-for-california/ Comments URL: https://news.ycombinator.com/item?id=47977383 Points: 407 # Comments: 386",
+      "summary": "Article URL: https://californiawaterblog.com/2026/04/26/ai-water-use-distractions-and-lessons-for-california/ Comments URL: https://news.ycombinator.com/item?id=47977383 Points: 407 # Comments: 387",
       "source": "Hacker News",
       "published": "2026-05-01T17:18:58+00:00",
       "link": "https://californiawaterblog.com/2026/04/26/ai-water-use-distractions-and-lessons-for-california/"
@@ -528,7 +563,7 @@ const FEED_DATA = {
     },
     {
       "title": "When Dawkins met Claude – Could this AI be conscious?",
-      "summary": "https://archive.ph/Rq5bw Comments URL: https://news.ycombinator.com/item?id=47972481 Points: 59 # Comments: 413",
+      "summary": "https://archive.ph/Rq5bw Comments URL: https://news.ycombinator.com/item?id=47972481 Points: 59 # Comments: 419",
       "source": "Hacker News",
       "published": "2026-05-01T08:36:19+00:00",
       "link": "https://unherd.com/2026/04/is-ai-the-next-phase-of-evolution/"
@@ -1365,41 +1400,6 @@ const FEED_DATA = {
       "source": "Wired",
       "published": "2026-04-28T18:36:47+00:00",
       "link": "https://www.wired.com/story/meta-covalen-ai-workers-layoffs/"
-    },
-    {
-      "title": "Google expands Pentagon’s access to its AI after Anthropic’s refusal",
-      "summary": "After Anthropic refused to allow the DoD to use its AI for domestic mass surveillance and autonomous weapons, Google has signed a new contract with the department.",
-      "source": "TechCrunch",
-      "published": "2026-04-28T18:15:00+00:00",
-      "link": "https://techcrunch.com/2026/04/28/google-expands-pentagons-access-to-its-ai-after-anthropics-refusal/"
-    },
-    {
-      "title": "Here is what an LLM that knows nothing after 1930 thinks our world looks like in 2026",
-      "summary": "\"Talkie\" is a 13B-parameter language model trained only on texts written before 1931. It doubts a second world war will happen and pictures 2026 as a world of steamships, railroads, and penny novels.",
-      "source": "The Decoder",
-      "published": "2026-04-28T18:07:13+00:00",
-      "link": "https://the-decoder.com/here-is-what-an-llm-that-knows-nothing-after-1930-thinks-our-world-looks-like-in-2026/"
-    },
-    {
-      "title": "Claude.ai unavailable and elevated errors on the API",
-      "summary": "Article URL: https://status.claude.com/incidents/9l93x2ht4s5w Comments URL: https://news.ycombinator.com/item?id=47938097 Points: 297 # Comments: 251",
-      "source": "Hacker News",
-      "published": "2026-04-28T18:01:21+00:00",
-      "link": "https://status.claude.com/incidents/9l93x2ht4s5w"
-    },
-    {
-      "title": "IBM launches AI platform Bob to regulate SDLC costs",
-      "summary": "To regulate software delivery costs and SDLC governance, IBM is launching Bob, an AI platform built to anchor enterprise engineering. Accumulated technical debt, hybrid cloud structures, and rigid compliance requirements clash with the raw speed of coding assistants.",
-      "source": "AI News",
-      "published": "2026-04-28T17:34:21+00:00",
-      "link": "https://www.artificialintelligence-news.com/news/ibm-launches-ai-platform-bob-to-regulate-sdlc-costs/"
-    },
-    {
-      "title": "Claude can now plug directly into Photoshop, Blender, and Ableton",
-      "summary": "Anthropic has launched a set of connectors for Claude that allow the AI chatbot to tap into popular creative software, including Adobe's Creative Cloud apps, Affinity, Blender, Ableton, Autodesk, and more.",
-      "source": "The Verge",
-      "published": "2026-04-28T16:49:08+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/919648/anthropic-claude-creative-connectors-adobe-blender"
     }
   ]
 };
