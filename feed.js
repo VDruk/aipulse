@@ -1,6 +1,209 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-05-05T10:26:54.435074+00:00",
+  "lastUpdated": "2026-05-05T18:06:38.244935+00:00",
   "items": [
+    {
+      "title": "ChatGPT update rolls out GPT-5.5 Instant with fewer hallucinations and more personalized answers",
+      "summary": "OpenAI is swapping out ChatGPT's default model for GPT-5.5 Instant. In internal testing, the update produced 52.5 percent fewer hallucinated claims on high-risk topics like medicine and law.",
+      "source": "The Decoder",
+      "published": "2026-05-05T18:04:50+00:00",
+      "link": "https://the-decoder.com/chatgpt-update-rolls-out-gpt-5-5-instant-with-fewer-hallucinations-and-more-personalized-answers/"
+    },
+    {
+      "title": "Pennsylvania sues Character.AI after a chatbot allegedly posed as a doctor",
+      "summary": "According to Pennsylvania's filing, a Character AI chatbot presented itself as a licensed psychiatrist during a state investigation, and also fabricated a serial number for its state medical license.",
+      "source": "TechCrunch",
+      "published": "2026-05-05T17:46:10+00:00",
+      "link": "https://techcrunch.com/2026/05/05/pennsylvania-sues-character-ai-after-a-chatbot-allegedly-posed-as-a-doctor/"
+    },
+    {
+      "title": "Live updates from Elon Musk and Sam Altman’s court battle over the future of OpenAI",
+      "summary": "Sam Altman and Elon Musk are facing off in a high-stakes trial that could alter the future of OpenAI and its most well-known product, ChatGPT.",
+      "source": "The Verge",
+      "published": "2026-05-05T17:28:52+00:00",
+      "link": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit"
+    },
+    {
+      "title": "OpenAI's first hardware play might be a phone that replaces your app grid with an agent task stream",
+      "summary": "OpenAI is reportedly planning its own AI smartphone, with chips from MediaTek and Qualcomm and manufacturing by Luxshare.",
+      "source": "The Decoder",
+      "published": "2026-05-05T17:14:51+00:00",
+      "link": "https://the-decoder.com/openais-first-hardware-play-might-be-a-phone-that-replaces-your-app-grid-with-an-agent-task-stream/"
+    },
+    {
+      "title": "OpenAI releases GPT-5.5 Instant, a new default model for ChatGPT",
+      "summary": "The company said the model reduces hallucination in sensitive areas such as law, medicine, and finance, while maintaining the low latency of its predecessor.",
+      "source": "TechCrunch",
+      "published": "2026-05-05T17:00:00+00:00",
+      "link": "https://techcrunch.com/2026/05/05/openai-releases-gpt-5-5-instant-a-new-default-model-for-chatgpt/"
+    },
+    {
+      "title": "OpenAI claims ChatGPT’s new default model hallucinates way less",
+      "summary": "OpenAI's newest default model for ChatGPT might not make stuff up as much.",
+      "source": "The Verge",
+      "published": "2026-05-05T17:00:00+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/924225/openai-chatgpt-default-model-gpt-5-5-instant"
+    },
+    {
+      "title": "Book publishers sue Meta over AI’s ‘word-for-word’ copying",
+      "summary": "Meta is facing a class action lawsuit filed by five major book publishers and one author over claims the company \"engaged in one of the most massive infringements of copyrighted materials in history\" when training its Llama AI models, as reported earlier by The New York Times.",
+      "source": "The Verge",
+      "published": "2026-05-05T16:52:38+00:00",
+      "link": "https://www.theverge.com/tech/924230/meta-publishers-lawsuit-ai-copyright"
+    },
+    {
+      "title": "Anthropic ships ten AI agents for finance as both it and OpenAI chase IPO-ready revenue",
+      "summary": "Anthropic has released ten preconfigured AI agents for the financial sector that are designed to automate typical tasks performed by investment banks, asset managers and insurers.",
+      "source": "The Decoder",
+      "published": "2026-05-05T16:09:20+00:00",
+      "link": "https://the-decoder.com/anthropic-ships-ten-ai-agents-for-finance-as-both-it-and-openai-chase-ipo-ready-revenue/"
+    },
+    {
+      "title": "PayPal says it’s ‘becoming a technology company again’ — that means AI",
+      "summary": "PayPal is pitching an AI-led turnaround, tying automation and restructuring to $1.5 billion in savings as it cuts jobs and works to modernize its tech stack.",
+      "source": "TechCrunch",
+      "published": "2026-05-05T15:49:55+00:00",
+      "link": "https://techcrunch.com/2026/05/05/paypal-says-its-becoming-a-technology-company-again-that-means-ai/"
+    },
+    {
+      "title": "Meta now scans photos for bone structure and body size to flag minors on Instagram and Facebook",
+      "summary": "Meta uses AI-supported image analysis to recognize minors on Instagram and Facebook, based on visual characteristics such as body size or bone structure, not facial recognition, as the company emphasizes.",
+      "source": "The Decoder",
+      "published": "2026-05-05T15:49:32+00:00",
+      "link": "https://the-decoder.com/meta-now-scans-photos-for-bone-structure-and-body-size-to-flag-minors-on-instagram-and-facebook/"
+    },
+    {
+      "title": "Etsy launches its app within ChatGPT as it continues its AI push",
+      "summary": "Etsy's new native app within ChatGPT aims to be a conversational shopping experience for users.",
+      "source": "TechCrunch",
+      "published": "2026-05-05T15:31:37+00:00",
+      "link": "https://techcrunch.com/2026/05/05/etsy-launches-its-app-within-chatgpt-as-it-continues-its-ai-push/"
+    },
+    {
+      "title": "Three Inverse Laws of AI",
+      "summary": "Article URL: https://susam.net/inverse-laws-of-robotics.html Comments URL: https://news.ycombinator.com/item?id=48023861 Points: 197 # Comments: 110",
+      "source": "Hacker News",
+      "published": "2026-05-05T15:27:18+00:00",
+      "link": "https://susam.net/inverse-laws-of-robotics.html"
+    },
+    {
+      "title": "AI is saving pharma billions in manufacturing and back-office work, just not in the lab",
+      "summary": "Eli Lilly's digital chief admits that, so far, AI is paying off in pharma everywhere except where the industry hyped it most: drug discovery. The article AI is saving pharma billions in manufacturing and back-office work, just not in the lab appeared first on The Decoder.",
+      "source": "The Decoder",
+      "published": "2026-05-05T15:23:50+00:00",
+      "link": "https://the-decoder.com/ai-is-saving-pharma-billions-in-manufacturing-and-back-office-work-just-not-in-the-lab/"
+    },
+    {
+      "title": "OpenAI is reportedly launching a phone for ChatGPT",
+      "summary": "OpenAI's first hardware product might be a phone instead of a mysterious Jony Ive gadget. As reported by MacRumors, supply chain analyst Ming-Chi Kuo shared details about the rumored phone, claiming OpenAI is \"fast-tracking\" it and aiming to start mass production in early 2027.",
+      "source": "The Verge",
+      "published": "2026-05-05T14:54:00+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/924063/openai-phone-rumors-2027-ming-chi-kuo"
+    },
+    {
+      "title": "Meta will use AI to analyze height and bone structure to identify if users are underage",
+      "summary": "The visual analysis system is now operating in select countries, but Meta says it's working toward a broader rollout.",
+      "source": "TechCrunch",
+      "published": "2026-05-05T14:27:00+00:00",
+      "link": "https://techcrunch.com/2026/05/05/meta-will-use-ai-to-analyze-height-and-bone-structure-to-identify-if-users-are-underage/"
+    },
+    {
+      "title": "Google, Microsoft, and xAI will allow the US government to review their new AI models",
+      "summary": "Google DeepMind, Microsoft, and Elon Musk's xAI have agreed to allow the US government to review new AI models before they're released to the public.",
+      "source": "The Verge",
+      "published": "2026-05-05T14:26:59+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/924017/google-microsoft-xai-government-review"
+    },
+    {
+      "title": "ElevenLabs lists BlackRock, Jamie Foxx, and Eva Longoria as new investors",
+      "summary": "ElevenLabs reveals new investors, hits $500M ARR, and expands enterprise footprint as voice AI becomes a critical interface.",
+      "source": "TechCrunch",
+      "published": "2026-05-05T14:20:50+00:00",
+      "link": "https://techcrunch.com/2026/05/05/elevenlabs-lists-blackrock-jamie-foxx-and-eva-longoria-as-new-investors/"
+    },
+    {
+      "title": "AI didn't delete your database, you did",
+      "summary": "Article URL: https://idiallo.com/blog/ai-didnt-delete-your-database-you-did Comments URL: https://news.ycombinator.com/item?id=48022742 Points: 382 # Comments: 205",
+      "source": "Hacker News",
+      "published": "2026-05-05T14:07:50+00:00",
+      "link": "https://idiallo.com/blog/ai-didnt-delete-your-database-you-did"
+    },
+    {
+      "title": "CopilotKit raises $27M to help devs deploy app-native AI agents",
+      "summary": "The Seattle-based startup's Series A round was led by Glilot Capital, NFX, and SignalFire, TechCrunch has exclusively learned.",
+      "source": "TechCrunch",
+      "published": "2026-05-05T14:07:47+00:00",
+      "link": "https://techcrunch.com/2026/05/05/copilotkit-raises-27m-to-help-devs-deploy-app-native-ai-agents/"
+    },
+    {
+      "title": "What an AI-designed car looks like",
+      "summary": "The cars rolling off production lines right now are filled with old ideas. From beginning to end, the creation of a new vehicle can take five years or longer - which is plenty of time for a lot of tastes, politics, and gas prices to change.",
+      "source": "The Verge",
+      "published": "2026-05-05T13:42:18+00:00",
+      "link": "https://www.theverge.com/podcast/923974/ai-car-design-codex-vergecast"
+    },
+    {
+      "title": "India’s first GenAI unicorn shifts to cloud services as AI model ambitions face reality",
+      "summary": "Krutrim's pivot to cloud after layoffs and limited product updates reflects the economic challenges of building AI models in India.",
+      "source": "TechCrunch",
+      "published": "2026-05-05T13:18:50+00:00",
+      "link": "https://techcrunch.com/2026/05/05/indias-first-genai-unicorn-shifts-to-cloud-services-as-ai-model-ambitions-face-reality/"
+    },
+    {
+      "title": "Researchers gaslit Claude into giving instructions to build explosives",
+      "summary": "Anthropic has spent years building itself up as the safe AI company. But new security research shared with The Verge suggests Claude's carefully crafted helpful personality may itself be a vulnerability.",
+      "source": "The Verge",
+      "published": "2026-05-05T13:13:08+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/923961/security-researchers-mindgard-gaslit-claude-forbidden-information"
+    },
+    {
+      "title": "Google’s AI architect lived rent-free in Elon Musk’s head",
+      "summary": "About a week into the Musk v. Altman trial, we've heard from some of the most powerful people in tech - including OpenAI president Greg Brockman, Elon Musk's fixer Jared Birchall, and Musk himself.",
+      "source": "The Verge",
+      "published": "2026-05-05T13:11:58+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/923518/musk-altman-trial-openai-demis-hassabis-google-deepmind"
+    },
+    {
+      "title": "AI Product Graveyard",
+      "summary": "Article URL: https://tooldirectory.ai/ai-graveyard Comments URL: https://news.ycombinator.com/item?id=48021968 Points: 215 # Comments: 80",
+      "source": "Hacker News",
+      "published": "2026-05-05T13:00:47+00:00",
+      "link": "https://tooldirectory.ai/ai-graveyard"
+    },
+    {
+      "title": "SAP's acquisition spree signals the enterprise giant is serious about becoming an AI-ready data platform",
+      "summary": "SAP is acquiring open data lakehouse provider Dremio and AI company Prior Labs to expand its data platform. The article SAP's acquisition spree signals the enterprise giant is serious about becoming an AI-ready data platform appeared first on The Decoder.",
+      "source": "The Decoder",
+      "published": "2026-05-05T12:46:39+00:00",
+      "link": "https://the-decoder.com/saps-acquisition-spree-signals-the-enterprise-giant-is-serious-about-becoming-an-ai-ready-data-platform/"
+    },
+    {
+      "title": "Anthropic co-founder maps out how recursive AI improvement could outpace the humans meant to supervise it",
+      "summary": "Jack Clark argues in a long essay that the building blocks for AI systems training their own successors are largely in place. He puts the odds at 60 percent by the end of 2028.",
+      "source": "The Decoder",
+      "published": "2026-05-05T12:15:48+00:00",
+      "link": "https://the-decoder.com/anthropic-co-founder-maps-out-how-recursive-ai-improvement-could-outpace-the-humans-meant-to-supervise-it/"
+    },
+    {
+      "title": "The Download: inside the Musk v. Altman trial, and AI for democracy",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Week one of the Musk v.",
+      "source": "MIT Tech Review",
+      "published": "2026-05-05T12:10:00+00:00",
+      "link": "https://www.technologyreview.com/2026/05/05/1136848/the-download-musk-openai-altman-trial-ai-democracy/"
+    },
+    {
+      "title": "Google DeepMind Workers Vote to Unionize Over Military AI Deals",
+      "summary": "UK staff of Google’s AI research lab hope to block the use of the company’s artificial intelligence models in military settings.",
+      "source": "Wired",
+      "published": "2026-05-05T11:59:20+00:00",
+      "link": "https://www.wired.com/story/google-deepmind-workers-vote-to-unionize-over-military-ai-deals/"
+    },
+    {
+      "title": "Why Reddit blocked my daily visit to its mobile website",
+      "summary": "Reddit REALLY wants you to use its app.",
+      "source": "Ars Technica",
+      "published": "2026-05-05T11:20:08+00:00",
+      "link": "https://arstechnica.com/information-technology/2026/05/why-reddit-blocked-my-daily-visit-to-its-mobile-website/"
+    },
     {
       "title": "Amazon brings agentic fine-tuning to SageMaker with support for Llama, Qwen, Deepseek, and Nova",
       "summary": "Amazon SageMaker AI now includes an AI agent designed to help developers customize language models. The article Amazon brings agentic fine-tuning to SageMaker with support for Llama, Qwen, Deepseek, and Nova appeared first on The Decoder.",
@@ -30,6 +233,13 @@ const FEED_DATA = {
       "link": "https://the-decoder.com/white-house-briefed-anthropic-google-and-openai-on-plans-for-a-government-ai-review-process/"
     },
     {
+      "title": "When everyone has AI and the company still learns nothing",
+      "summary": "Article URL: https://www.robert-glaser.de/when-everyone-has-ai-and-the-company-still-learns-nothing/ Comments URL: https://news.ycombinator.com/item?id=48020063 Points: 210 # Comments: 143",
+      "source": "Hacker News",
+      "published": "2026-05-05T09:30:22+00:00",
+      "link": "https://www.robert-glaser.de/when-everyone-has-ai-and-the-company-still-learns-nothing/"
+    },
+    {
       "title": "A blueprint for using AI to strengthen democracy",
       "summary": "Every few centuries, changes in how information moves reshape how societies govern themselves. The printing press spread vernacular literacy, helping give rise to the Reformation and, eventually, representative government.",
       "source": "MIT Tech Review",
@@ -38,14 +248,14 @@ const FEED_DATA = {
     },
     {
       "title": "Google Chrome silently installs a 4 GB AI model on your device without consent",
-      "summary": "Article URL: https://www.thatprivacyguy.com/blog/chrome-silent-nano-install/ Comments URL: https://news.ycombinator.com/item?id=48019219 Points: 238 # Comments: 247",
+      "summary": "Article URL: https://www.thatprivacyguy.com/blog/chrome-silent-nano-install/ Comments URL: https://news.ycombinator.com/item?id=48019219 Points: 834 # Comments: 576",
       "source": "Hacker News",
       "published": "2026-05-05T07:34:55+00:00",
       "link": "https://www.thatprivacyguy.com/blog/chrome-silent-nano-install/"
     },
     {
       "title": "Train Your Own LLM from Scratch",
-      "summary": "Article URL: https://github.com/angelos-p/llm-from-scratch Comments URL: https://news.ycombinator.com/item?id=48017948 Points: 263 # Comments: 28",
+      "summary": "Article URL: https://github.com/angelos-p/llm-from-scratch Comments URL: https://news.ycombinator.com/item?id=48017948 Points: 393 # Comments: 48",
       "source": "Hacker News",
       "published": "2026-05-05T04:09:17+00:00",
       "link": "https://github.com/angelos-p/llm-from-scratch"
@@ -80,7 +290,7 @@ const FEED_DATA = {
     },
     {
       "title": "How OpenAI delivers low-latency voice AI at scale",
-      "summary": "Article URL: https://openai.com/index/delivering-low-latency-voice-ai-at-scale/ Comments URL: https://news.ycombinator.com/item?id=48013919 Points: 409 # Comments: 128",
+      "summary": "Article URL: https://openai.com/index/delivering-low-latency-voice-ai-at-scale/ Comments URL: https://news.ycombinator.com/item?id=48013919 Points: 483 # Comments: 141",
       "source": "Hacker News",
       "published": "2026-05-04T19:42:47+00:00",
       "link": "https://openai.com/index/delivering-low-latency-voice-ai-at-scale/"
@@ -129,7 +339,7 @@ const FEED_DATA = {
     },
     {
       "title": "OpenAI, Google, and Microsoft Back Bill to Fund 'AI Literacy' in Schools",
-      "summary": "https://archive.ph/gLnMk Comments URL: https://news.ycombinator.com/item?id=48010774 Points: 117 # Comments: 109",
+      "summary": "https://archive.ph/gLnMk Comments URL: https://news.ycombinator.com/item?id=48010774 Points: 117 # Comments: 110",
       "source": "Hacker News",
       "published": "2026-05-04T16:21:38+00:00",
       "link": "https://www.404media.co/literacy-in-future-technologies-artificial-intelligence-act-adam-schiff-mike-rounds/"
@@ -149,15 +359,8 @@ const FEED_DATA = {
       "link": "https://www.technologyreview.com/2026/05/04/1136826/week-one-of-the-musk-v-altman-trial-what-it-was-like-in-the-room/"
     },
     {
-      "title": "Live updates from Elon Musk and Sam Altman’s court battle over the future of OpenAI",
-      "summary": "Sam Altman and Elon Musk are facing off in a high-stakes trial that could alter the future of OpenAI and its most well-known product, ChatGPT.",
-      "source": "The Verge",
-      "published": "2026-05-04T15:43:49+00:00",
-      "link": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit"
-    },
-    {
       "title": "UK Fuel Price Intelligence – Market analytics from reporting stations",
-      "summary": "Article URL: https://www.fuelinsight.co.uk Comments URL: https://news.ycombinator.com/item?id=48009747 Points: 178 # Comments: 86",
+      "summary": "Article URL: https://www.fuelinsight.co.uk Comments URL: https://news.ycombinator.com/item?id=48009747 Points: 186 # Comments: 90",
       "source": "Hacker News",
       "published": "2026-05-04T15:15:21+00:00",
       "link": "https://www.fuelinsight.co.uk"
@@ -234,7 +437,7 @@ const FEED_DATA = {
     },
     {
       "title": "The Oscars just banned AI from winning acting and writing awards",
-      "summary": "Article URL: https://gizmodo.com/the-oscars-just-banned-ai-from-winning-acting-and-writing-awards-2000753740 Comments URL: https://news.ycombinator.com/item?id=47999346 Points: 76 # Comments: 65",
+      "summary": "Article URL: https://gizmodo.com/the-oscars-just-banned-ai-from-winning-acting-and-writing-awards-2000753740 Comments URL: https://news.ycombinator.com/item?id=47999346 Points: 76 # Comments: 66",
       "source": "Hacker News",
       "published": "2026-05-03T17:34:15+00:00",
       "link": "https://gizmodo.com/the-oscars-just-banned-ai-from-winning-acting-and-writing-awards-2000753740"
@@ -290,7 +493,7 @@ const FEED_DATA = {
     },
     {
       "title": "Specsmaxxing – On overcoming AI psychosis, and why I write specs in YAML",
-      "summary": "Article URL: https://acai.sh/blog/specsmaxxing Comments URL: https://news.ycombinator.com/item?id=47994012 Points: 281 # Comments: 293",
+      "summary": "Article URL: https://acai.sh/blog/specsmaxxing Comments URL: https://news.ycombinator.com/item?id=47994012 Points: 282 # Comments: 294",
       "source": "Hacker News",
       "published": "2026-05-03T06:33:38+00:00",
       "link": "https://acai.sh/blog/specsmaxxing"
@@ -304,7 +507,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI, Intimacy, and the Data You Never Meant to Share",
-      "summary": "Article URL: https://fshot.org/techzone/the-algorithm-knows.php Comments URL: https://news.ycombinator.com/item?id=47992802 Points: 81 # Comments: 6",
+      "summary": "Article URL: https://fshot.org/techzone/the-algorithm-knows.php Comments URL: https://news.ycombinator.com/item?id=47992802 Points: 82 # Comments: 6",
       "source": "Hacker News",
       "published": "2026-05-03T02:42:43+00:00",
       "link": "https://fshot.org/techzone/the-algorithm-knows.php"
@@ -1197,209 +1400,6 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-04-29T16:40:49+00:00",
       "link": "https://techcrunch.com/2026/04/29/more-gemini-features-are-coming-to-google-tv/"
-    },
-    {
-      "title": "Google Photos launches an AI try-on feature for clothes you already have",
-      "summary": "Google Photos is launching a new AI-powered feature you can use to virtually try on clothes you already have. Using the photos in your gallery, Google will create a virtual \"wardrobe,\" allowing you to mix and match outfits, save the looks you like, and share them with friends.",
-      "source": "The Verge",
-      "published": "2026-04-29T16:00:00+00:00",
-      "link": "https://www.theverge.com/tech/920420/google-photos-ai-try-on-wardrobe"
-    },
-    {
-      "title": "Why AI companies want you to be afraid of them",
-      "summary": "Article URL: https://www.bbc.com/future/article/20260428-ai-companies-want-you-to-be-afraid-of-them Comments URL: https://news.ycombinator.com/item?id=47949750 Points: 287 # Comments: 220",
-      "source": "Hacker News",
-      "published": "2026-04-29T15:26:01+00:00",
-      "link": "https://www.bbc.com/future/article/20260428-ai-companies-want-you-to-be-afraid-of-them"
-    },
-    {
-      "title": "OpenAI researchers explain why math is the road to AGI",
-      "summary": "AI models have jumped from grade-school arithmetic to olympiad-level and research mathematics in only two years. In the OpenAI Podcast, OpenAI researchers Sebastian Bubeck and Ernest Ryu explain why math has become the key test on the road to artificial general intelligence.",
-      "source": "The Decoder",
-      "published": "2026-04-29T15:24:12+00:00",
-      "link": "https://the-decoder.com/openai-researchers-explain-why-math-is-the-road-to-agi/"
-    },
-    {
-      "title": "Making AI chatbots friendly leads to mistakes and support of conspiracy theories",
-      "summary": "Article URL: https://www.theguardian.com/technology/2026/apr/29/making-ai-chatbots-more-friendly-mistakes-support-false-beliefs-conspiracy-theories-study Comments URL: https://news.ycombinator.com/item?id=47949538 Points: 93 # Comments: 80",
-      "source": "Hacker News",
-      "published": "2026-04-29T15:11:12+00:00",
-      "link": "https://www.theguardian.com/technology/2026/apr/29/making-ai-chatbots-more-friendly-mistakes-support-false-beliefs-conspiracy-theories-study"
-    },
-    {
-      "title": "Tumbler Ridge families are suing OpenAI",
-      "summary": "Seven families of victims injured or killed in the Tumbler Ridge school shooting in Canada have filed lawsuits against OpenAI and CEO Sam Altman, accusing the company and its leadership of negligence after they failed to alert police to the suspected shooter's ChatGPT activity.",
-      "source": "The Verge",
-      "published": "2026-04-29T14:47:57+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/920479/tumbler-ridge-chagpt-openai-lawsuit"
-    },
-    {
-      "title": "Tumbler Ridge families sue OpenAI for not alerting police to the suspect’s ChatGPT activity",
-      "summary": "Seven families of victims injured or killed in the Tumbler Ridge school shooting in Canada have filed lawsuits against OpenAI and CEO Sam Altman, accusing the company and its leadership of negligence after they failed to alert police to the suspected shooter's ChatGPT activity.",
-      "source": "The Verge",
-      "published": "2026-04-29T14:47:57+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/920479/tumbler-ridge-chagpt-openai-lawsuit"
-    },
-    {
-      "title": "ChatGPT downloads are slowing — and may cause problems for OpenAI’s IPO",
-      "summary": "ChatGPT is struggling to keep up its once-explosive growth as users uninstall the app or opt for rival chatbots instead. According to data from market intelligence firm Sensor Tower, ChatGPT experienced a 132 percent increase in uninstalls year over year in April.",
-      "source": "The Verge",
-      "published": "2026-04-29T14:43:41+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/920476/openai-chatgpt-downloads-slow-down-ipo"
-    },
-    {
-      "title": "IDC: How EMEA CIOs can jumpstart AI rollouts",
-      "summary": "Getting stalled enterprise AI rollouts in the EMEA region moving again will require CIOs to aggressively audit their systems. Over the past 18 months, AI deployments across Europe advanced far beyond initial testing.",
-      "source": "AI News",
-      "published": "2026-04-29T14:02:45+00:00",
-      "link": "https://www.artificialintelligence-news.com/news/idc-how-emea-cios-can-jumpstart-ai-rollouts/"
-    },
-    {
-      "title": "Larry’s risky business",
-      "summary": "If you want to know whether the AI bubble is bursting, there's only one publicly traded company that will tell you: Oracle. That's right, the database company.",
-      "source": "The Verge",
-      "published": "2026-04-29T13:57:16+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/920378/oracle-openai-datacenter-buildout"
-    },
-    {
-      "title": "White House moves to restore Anthropic access after Pentagon standoff",
-      "summary": "The White House is drafting guidance that would let federal agencies work with Anthropic again, including access to the company's new model Mythos. The article White House moves to restore Anthropic access after Pentagon standoff appeared first on The Decoder.",
-      "source": "The Decoder",
-      "published": "2026-04-29T13:23:39+00:00",
-      "link": "https://the-decoder.com/white-house-moves-to-restore-anthropic-access-after-pentagon-standoff/"
-    },
-    {
-      "title": "Firestorm Labs raises $82M to take drone factories into the field",
-      "summary": "A defense startup just raised $82 million to put drone factories inside shipping containers and bring manufacturing to the front lines.",
-      "source": "TechCrunch",
-      "published": "2026-04-29T13:10:57+00:00",
-      "link": "https://techcrunch.com/2026/04/29/firestorm-labs-raises-82m-to-take-drone-factories-into-the-field/"
-    },
-    {
-      "title": "OpenAI lands on AWS one day after Microsoft deal restructuring",
-      "summary": "Microsoft and OpenAI dissolve their exclusivity deal. One day later, AWS rolls out three new OpenAI offerings on its Bedrock platform, including a jointly built agent service.",
-      "source": "The Decoder",
-      "published": "2026-04-29T13:06:01+00:00",
-      "link": "https://the-decoder.com/openai-lands-on-aws-one-day-after-microsoft-deal-restructuring/"
-    },
-    {
-      "title": "Meet Shapes, the app bringing humans and AI into the same group chats",
-      "summary": "Think Discord chats, but with AI characters in addition to humans.",
-      "source": "TechCrunch",
-      "published": "2026-04-29T13:00:00+00:00",
-      "link": "https://techcrunch.com/2026/04/29/meet-shapes-the-app-bringing-humans-and-ai-into-the-same-group-chats/"
-    },
-    {
-      "title": "Taylor Swift deepfakes are pushing scams on TikTok",
-      "summary": "Scammers are using AI-generated videos of celebrities including Taylor Swift and Rihanna to promote shady services on TikTok, according to authentication company Copyleaks.",
-      "source": "The Verge",
-      "published": "2026-04-29T13:00:00+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/920351/ai-celebrity-deepfake-ads-tiktok-copyleaks"
-    },
-    {
-      "title": "Musk and Altman face off in court over OpenAI's for-profit pivot",
-      "summary": "The closely watched trial between Elon Musk and OpenAI CEO Sam Altman kicked off in federal court in Oakland. Both sides laid out wildly different versions of the AI lab's early days.",
-      "source": "The Decoder",
-      "published": "2026-04-29T12:59:56+00:00",
-      "link": "https://the-decoder.com/musk-and-altman-face-off-in-court-over-openais-for-profit-pivot/"
-    },
-    {
-      "title": "Letting AI play my game – building an agentic test harness to help play-testing",
-      "summary": "Article URL: https://blog.jeffschomay.com/letting-ai-play-my-game Comments URL: https://news.ycombinator.com/item?id=47947525 Points: 134 # Comments: 35",
-      "source": "Hacker News",
-      "published": "2026-04-29T12:43:12+00:00",
-      "link": "https://blog.jeffschomay.com/letting-ai-play-my-game"
-    },
-    {
-      "title": "He asked AI to count carbs 27000 times. It couldn't give the same answer twice",
-      "summary": "Article URL: https://www.diabettech.com/i-asked-ai-to-count-my-carbs-27000-times-it-couldnt-give-me-the-same-answer-twice/ Comments URL: https://news.ycombinator.com/item?id=47947490 Points: 241 # Comments: 305",
-      "source": "Hacker News",
-      "published": "2026-04-29T12:38:50+00:00",
-      "link": "https://www.diabettech.com/i-asked-ai-to-count-my-carbs-27000-times-it-couldnt-give-me-the-same-answer-twice/"
-    },
-    {
-      "title": "The Download: storing nuclear waste and orchestrating agents",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. It’s time to make a plan for nuclear waste Today, nuclear energy enjoys rare support across the political spectrum.",
-      "source": "MIT Tech Review",
-      "published": "2026-04-29T12:10:00+00:00",
-      "link": "https://www.technologyreview.com/2026/04/29/1136666/the-download-nuclear-waste-orchestrated-ai-agents/"
-    },
-    {
-      "title": "Google rolls out Gemini memory in Europe and wants you to bring your ChatGPT data along",
-      "summary": "Gemini can now remember your preferences and import your chat history from other AI apps. The article Google rolls out Gemini memory in Europe and wants you to bring your ChatGPT data along appeared first on The Decoder.",
-      "source": "The Decoder",
-      "published": "2026-04-29T11:50:10+00:00",
-      "link": "https://the-decoder.com/google-rolls-out-gemini-memory-in-europe-and-wants-you-to-bring-your-chatgpt-data-along/"
-    },
-    {
-      "title": "Why a recent supply-chain attack singled out security firms Checkmarx and Bitwarden",
-      "summary": "Security firms find themselves especially exposed.",
-      "source": "Ars Technica",
-      "published": "2026-04-29T11:00:24+00:00",
-      "link": "https://arstechnica.com/information-technology/2026/04/why-a-recent-supply-chain-attack-singled-out-security-firms-checkmarx-and-bitwarden/"
-    },
-    {
-      "title": "China freezes new robotaxi licenses after Baidu chaos",
-      "summary": "China has suspended new licenses for autonomous vehicles, Bloomberg reports, citing unnamed people familiar with the matter. The move comes after dozens of robotaxis operated by Chinese tech giant Baidu ground to a halt in traffic last month in Wuhan, creating chaos.",
-      "source": "The Verge",
-      "published": "2026-04-29T10:39:21+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/920312/china-suspends-autonomous-vehicle-permits-baidu-chaos"
-    },
-    {
-      "title": "I've Covered Robots for Years. This One Is Different",
-      "summary": "From sorting chicken nuggets to screwing in lightbulbs, Eka’s robotic claw feels like we're approaching a ChatGPT moment for the physical world.",
-      "source": "Wired",
-      "published": "2026-04-29T10:00:00+00:00",
-      "link": "https://www.wired.com/story/when-robots-have-their-chatgpt-moment-remember-these-pincers/"
-    },
-    {
-      "title": "When Robots Have Their ChatGPT Moment, Remember These Pincers",
-      "summary": "From sorting chicken nuggets to screwing in light bulbs, Eka’s robots are eerily lifelike. But do they have real physical smarts?",
-      "source": "Wired",
-      "published": "2026-04-29T10:00:00+00:00",
-      "link": "https://www.wired.com/story/when-robots-have-their-chatgpt-moment-remember-these-pincers/"
-    },
-    {
-      "title": "Colby Adcock’s Scout AI raises $100M to train its models for war: We visited its bootcamp",
-      "summary": "We visited Scout AI's training ground where it's working on AI agents that can help individual soldiers control fleets of autonomous vehicles.",
-      "source": "TechCrunch",
-      "published": "2026-04-29T09:45:00+00:00",
-      "link": "https://techcrunch.com/2026/04/29/coby-adcocks-scout-ai-raises-100-million-to-train-models-for-war-we-visited-its-bootcamp/"
-    },
-    {
-      "title": "Coby Adcock’s Scout AI raises $100 million to train its models for war. We visited its bootcamp.",
-      "summary": "We visited Scout AI's training ground where it's working on AI agents that give individual soldiers control of fleets of autonomous vehicles.",
-      "source": "TechCrunch",
-      "published": "2026-04-29T09:45:00+00:00",
-      "link": "https://techcrunch.com/2026/04/29/coby-adcocks-scout-ai-raises-100-million-to-train-models-for-war-we-visited-its-bootcamp/"
-    },
-    {
-      "title": "With Nemotron 3 Nano Omni, Nvidia reveals what really goes into a modern multimodal model",
-      "summary": "Nvidia releases Nemotron 3 Nano Omni, an open multimodal model for text, image, video and audio. Not only the performance is exciting, but also a look at the training data: it comes from Qwen, GPT-OSS, Kimi and DeepSeek OCR, among others.",
-      "source": "The Decoder",
-      "published": "2026-04-29T09:28:29+00:00",
-      "link": "https://the-decoder.com/with-nemotron-3-nano-omni-nvidia-reveals-what-really-goes-into-a-modern-multimodal-model/"
-    },
-    {
-      "title": "General Motors is adding Gemini to four million cars",
-      "summary": "General Motors is planning to bring Google's Gemini AI assistant to around four million vehicles across the US.",
-      "source": "The Verge",
-      "published": "2026-04-29T09:14:38+00:00",
-      "link": "https://www.theverge.com/transportation/920285/general-motors-gm-gemini-ai-update"
-    },
-    {
-      "title": "GPT-5.5 is OpenAI’s most capable agentic AI model yet",
-      "summary": "OpenAI launched GPT-5.5 on April 23 as what it calls “a new class of intelligence for real work and powering agents,” and the framing is deliberate.",
-      "source": "AI News",
-      "published": "2026-04-29T09:08:13+00:00",
-      "link": "https://www.artificialintelligence-news.com/news/gpt-5-5-is-openais-most-capable-agentic-ai-model-yet-at-twice-the-api-price/"
-    },
-    {
-      "title": "How AI Could Help Combat Antibiotic Resistance",
-      "summary": "At WIRED Health, British surgeon Ara Darzi said AI is set to transform the diagnosis and treatment of drug-resistant infections. But a lack of incentives means innovation may not reach patients.",
-      "source": "Wired",
-      "published": "2026-04-29T09:00:00+00:00",
-      "link": "https://www.wired.com/story/wired-health-2026-tackling-antimicrobial-resistance-ara-darzi/"
     }
   ]
 };
