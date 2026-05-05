@@ -1,6 +1,13 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-05-05T04:15:25.271156+00:00",
+  "lastUpdated": "2026-05-05T07:19:50.285153+00:00",
   "items": [
+    {
+      "title": "Train Your Own LLM from Scratch",
+      "summary": "Article URL: https://github.com/angelos-p/llm-from-scratch Comments URL: https://news.ycombinator.com/item?id=48017948 Points: 139 # Comments: 17",
+      "source": "Hacker News",
+      "published": "2026-05-05T04:09:17+00:00",
+      "link": "https://github.com/angelos-p/llm-from-scratch"
+    },
     {
       "title": "As workers worry about AI, Nvidia’s Jensen Huang says AI is ‘creating an enormous number of jobs’",
       "summary": "The Nvidia CEO seems to feel that claims of AI's job-killing potential have been greatly exaggerated.",
@@ -31,7 +38,7 @@ const FEED_DATA = {
     },
     {
       "title": "How OpenAI delivers low-latency voice AI at scale",
-      "summary": "Article URL: https://openai.com/index/delivering-low-latency-voice-ai-at-scale/ Comments URL: https://news.ycombinator.com/item?id=48013919 Points: 326 # Comments: 109",
+      "summary": "Article URL: https://openai.com/index/delivering-low-latency-voice-ai-at-scale/ Comments URL: https://news.ycombinator.com/item?id=48013919 Points: 382 # Comments: 120",
       "source": "Hacker News",
       "published": "2026-05-04T19:42:47+00:00",
       "link": "https://openai.com/index/delivering-low-latency-voice-ai-at-scale/"
@@ -80,7 +87,7 @@ const FEED_DATA = {
     },
     {
       "title": "OpenAI, Google, and Microsoft Back Bill to Fund 'AI Literacy' in Schools",
-      "summary": "https://archive.ph/gLnMk Comments URL: https://news.ycombinator.com/item?id=48010774 Points: 115 # Comments: 104",
+      "summary": "https://archive.ph/gLnMk Comments URL: https://news.ycombinator.com/item?id=48010774 Points: 116 # Comments: 106",
       "source": "Hacker News",
       "published": "2026-05-04T16:21:38+00:00",
       "link": "https://www.404media.co/literacy-in-future-technologies-artificial-intelligence-act-adam-schiff-mike-rounds/"
@@ -108,7 +115,7 @@ const FEED_DATA = {
     },
     {
       "title": "UK Fuel Price Intelligence – Market analytics from reporting stations",
-      "summary": "Article URL: https://www.fuelinsight.co.uk Comments URL: https://news.ycombinator.com/item?id=48009747 Points: 168 # Comments: 78",
+      "summary": "Article URL: https://www.fuelinsight.co.uk Comments URL: https://news.ycombinator.com/item?id=48009747 Points: 173 # Comments: 82",
       "source": "Hacker News",
       "published": "2026-05-04T15:15:21+00:00",
       "link": "https://www.fuelinsight.co.uk"
@@ -185,7 +192,7 @@ const FEED_DATA = {
     },
     {
       "title": "The Oscars just banned AI from winning acting and writing awards",
-      "summary": "Article URL: https://gizmodo.com/the-oscars-just-banned-ai-from-winning-acting-and-writing-awards-2000753740 Comments URL: https://news.ycombinator.com/item?id=47999346 Points: 76 # Comments: 62",
+      "summary": "Article URL: https://gizmodo.com/the-oscars-just-banned-ai-from-winning-acting-and-writing-awards-2000753740 Comments URL: https://news.ycombinator.com/item?id=47999346 Points: 76 # Comments: 65",
       "source": "Hacker News",
       "published": "2026-05-03T17:34:15+00:00",
       "link": "https://gizmodo.com/the-oscars-just-banned-ai-from-winning-acting-and-writing-awards-2000753740"
@@ -241,7 +248,7 @@ const FEED_DATA = {
     },
     {
       "title": "Specsmaxxing – On overcoming AI psychosis, and why I write specs in YAML",
-      "summary": "Article URL: https://acai.sh/blog/specsmaxxing Comments URL: https://news.ycombinator.com/item?id=47994012 Points: 281 # Comments: 291",
+      "summary": "Article URL: https://acai.sh/blog/specsmaxxing Comments URL: https://news.ycombinator.com/item?id=47994012 Points: 281 # Comments: 292",
       "source": "Hacker News",
       "published": "2026-05-03T06:33:38+00:00",
       "link": "https://acai.sh/blog/specsmaxxing"
@@ -409,7 +416,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI uses less water than the public thinks",
-      "summary": "Article URL: https://californiawaterblog.com/2026/04/26/ai-water-use-distractions-and-lessons-for-california/ Comments URL: https://news.ycombinator.com/item?id=47977383 Points: 407 # Comments: 389",
+      "summary": "Article URL: https://californiawaterblog.com/2026/04/26/ai-water-use-distractions-and-lessons-for-california/ Comments URL: https://news.ycombinator.com/item?id=47977383 Points: 408 # Comments: 389",
       "source": "Hacker News",
       "published": "2026-05-01T17:18:58+00:00",
       "link": "https://californiawaterblog.com/2026/04/26/ai-water-use-distractions-and-lessons-for-california/"
@@ -584,7 +591,7 @@ const FEED_DATA = {
     },
     {
       "title": "When Dawkins met Claude – Could this AI be conscious?",
-      "summary": "https://archive.ph/Rq5bw Comments URL: https://news.ycombinator.com/item?id=47972481 Points: 60 # Comments: 421",
+      "summary": "https://archive.ph/Rq5bw Comments URL: https://news.ycombinator.com/item?id=47972481 Points: 60 # Comments: 422",
       "source": "Hacker News",
       "published": "2026-05-01T08:36:19+00:00",
       "link": "https://unherd.com/2026/04/is-ai-the-next-phase-of-evolution/"
@@ -1393,13 +1400,6 @@ const FEED_DATA = {
       "source": "The Verge",
       "published": "2026-04-28T20:30:00+00:00",
       "link": "https://www.theverge.com/ai-artificial-intelligence/919827/taylor-swift-trademarks-ai-copycats"
-    },
-    {
-      "title": "Amazon is already offering new OpenAI products on AWS",
-      "summary": "A day after OpenAI got Microsoft to agree to end exclusive rights, AWS announced a slate of OpenAI model offerings, including a new agent service.",
-      "source": "TechCrunch",
-      "published": "2026-04-28T19:48:02+00:00",
-      "link": "https://techcrunch.com/2026/04/28/amazon-is-already-offering-new-openai-products-on-aws/"
     }
   ]
 };
