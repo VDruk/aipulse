@@ -1,9 +1,51 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-05-05T07:19:50.285153+00:00",
+  "lastUpdated": "2026-05-05T10:26:54.435074+00:00",
   "items": [
     {
+      "title": "Amazon brings agentic fine-tuning to SageMaker with support for Llama, Qwen, Deepseek, and Nova",
+      "summary": "Amazon SageMaker AI now includes an AI agent designed to help developers customize language models. The article Amazon brings agentic fine-tuning to SageMaker with support for Llama, Qwen, Deepseek, and Nova appeared first on The Decoder.",
+      "source": "The Decoder",
+      "published": "2026-05-05T10:08:45+00:00",
+      "link": "https://the-decoder.com/amazon-brings-agentic-fine-tuning-to-sagemaker-with-support-for-llama-qwen-deepseek-and-nova/"
+    },
+    {
+      "title": "Google DeepMind workers are unionizing over AI military contracts",
+      "summary": "Staffers at Google DeepMind's headquarters have voted to unionize in an effort to prevent the AI firm's technology from being used by Israel and the US military.",
+      "source": "The Verge",
+      "published": "2026-05-05T10:08:33+00:00",
+      "link": "https://www.theverge.com/tech/923918/google-deepmind-union-bid-ai-military-israel"
+    },
+    {
+      "title": "He Couldn’t Land a Job Interview. Was AI to Blame?",
+      "summary": "Armed with some Python and a white-hot sense of injustice, one medical student spent six months trying to figure out whether an algorithm trashed his job application.",
+      "source": "Wired",
+      "published": "2026-05-05T10:00:00+00:00",
+      "link": "https://www.wired.com/story/he-couldnt-land-a-job-interview-was-ai-to-blame/"
+    },
+    {
+      "title": "White House briefed Anthropic, Google, and OpenAI on plans for a government AI review process",
+      "summary": "After a year of deregulation, the White House is now discussing an executive order that could subject new AI models to government review before they are released. The trigger is said to be Anthropic's \"Mythos\" model.",
+      "source": "The Decoder",
+      "published": "2026-05-05T09:53:31+00:00",
+      "link": "https://the-decoder.com/white-house-briefed-anthropic-google-and-openai-on-plans-for-a-government-ai-review-process/"
+    },
+    {
+      "title": "A blueprint for using AI to strengthen democracy",
+      "summary": "Every few centuries, changes in how information moves reshape how societies govern themselves. The printing press spread vernacular literacy, helping give rise to the Reformation and, eventually, representative government.",
+      "source": "MIT Tech Review",
+      "published": "2026-05-05T09:00:00+00:00",
+      "link": "https://www.technologyreview.com/2026/05/05/1136843/ai-democracy-blueprint/"
+    },
+    {
+      "title": "Google Chrome silently installs a 4 GB AI model on your device without consent",
+      "summary": "Article URL: https://www.thatprivacyguy.com/blog/chrome-silent-nano-install/ Comments URL: https://news.ycombinator.com/item?id=48019219 Points: 238 # Comments: 247",
+      "source": "Hacker News",
+      "published": "2026-05-05T07:34:55+00:00",
+      "link": "https://www.thatprivacyguy.com/blog/chrome-silent-nano-install/"
+    },
+    {
       "title": "Train Your Own LLM from Scratch",
-      "summary": "Article URL: https://github.com/angelos-p/llm-from-scratch Comments URL: https://news.ycombinator.com/item?id=48017948 Points: 139 # Comments: 17",
+      "summary": "Article URL: https://github.com/angelos-p/llm-from-scratch Comments URL: https://news.ycombinator.com/item?id=48017948 Points: 263 # Comments: 28",
       "source": "Hacker News",
       "published": "2026-05-05T04:09:17+00:00",
       "link": "https://github.com/angelos-p/llm-from-scratch"
@@ -38,7 +80,7 @@ const FEED_DATA = {
     },
     {
       "title": "How OpenAI delivers low-latency voice AI at scale",
-      "summary": "Article URL: https://openai.com/index/delivering-low-latency-voice-ai-at-scale/ Comments URL: https://news.ycombinator.com/item?id=48013919 Points: 382 # Comments: 120",
+      "summary": "Article URL: https://openai.com/index/delivering-low-latency-voice-ai-at-scale/ Comments URL: https://news.ycombinator.com/item?id=48013919 Points: 409 # Comments: 128",
       "source": "Hacker News",
       "published": "2026-05-04T19:42:47+00:00",
       "link": "https://openai.com/index/delivering-low-latency-voice-ai-at-scale/"
@@ -87,7 +129,7 @@ const FEED_DATA = {
     },
     {
       "title": "OpenAI, Google, and Microsoft Back Bill to Fund 'AI Literacy' in Schools",
-      "summary": "https://archive.ph/gLnMk Comments URL: https://news.ycombinator.com/item?id=48010774 Points: 116 # Comments: 106",
+      "summary": "https://archive.ph/gLnMk Comments URL: https://news.ycombinator.com/item?id=48010774 Points: 117 # Comments: 109",
       "source": "Hacker News",
       "published": "2026-05-04T16:21:38+00:00",
       "link": "https://www.404media.co/literacy-in-future-technologies-artificial-intelligence-act-adam-schiff-mike-rounds/"
@@ -115,7 +157,7 @@ const FEED_DATA = {
     },
     {
       "title": "UK Fuel Price Intelligence – Market analytics from reporting stations",
-      "summary": "Article URL: https://www.fuelinsight.co.uk Comments URL: https://news.ycombinator.com/item?id=48009747 Points: 173 # Comments: 82",
+      "summary": "Article URL: https://www.fuelinsight.co.uk Comments URL: https://news.ycombinator.com/item?id=48009747 Points: 178 # Comments: 86",
       "source": "Hacker News",
       "published": "2026-05-04T15:15:21+00:00",
       "link": "https://www.fuelinsight.co.uk"
@@ -248,7 +290,7 @@ const FEED_DATA = {
     },
     {
       "title": "Specsmaxxing – On overcoming AI psychosis, and why I write specs in YAML",
-      "summary": "Article URL: https://acai.sh/blog/specsmaxxing Comments URL: https://news.ycombinator.com/item?id=47994012 Points: 281 # Comments: 292",
+      "summary": "Article URL: https://acai.sh/blog/specsmaxxing Comments URL: https://news.ycombinator.com/item?id=47994012 Points: 281 # Comments: 293",
       "source": "Hacker News",
       "published": "2026-05-03T06:33:38+00:00",
       "link": "https://acai.sh/blog/specsmaxxing"
@@ -416,7 +458,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI uses less water than the public thinks",
-      "summary": "Article URL: https://californiawaterblog.com/2026/04/26/ai-water-use-distractions-and-lessons-for-california/ Comments URL: https://news.ycombinator.com/item?id=47977383 Points: 408 # Comments: 389",
+      "summary": "Article URL: https://californiawaterblog.com/2026/04/26/ai-water-use-distractions-and-lessons-for-california/ Comments URL: https://news.ycombinator.com/item?id=47977383 Points: 408 # Comments: 390",
       "source": "Hacker News",
       "published": "2026-05-01T17:18:58+00:00",
       "link": "https://californiawaterblog.com/2026/04/26/ai-water-use-distractions-and-lessons-for-california/"
@@ -1358,48 +1400,6 @@ const FEED_DATA = {
       "source": "Wired",
       "published": "2026-04-29T09:00:00+00:00",
       "link": "https://www.wired.com/story/wired-health-2026-tackling-antimicrobial-resistance-ara-darzi/"
-    },
-    {
-      "title": "We decreased our LLM costs with Opus",
-      "summary": "Article URL: https://www.mendral.com/blog/frontier-model-lower-costs Comments URL: https://news.ycombinator.com/item?id=47942903 Points: 105 # Comments: 31",
-      "source": "Hacker News",
-      "published": "2026-04-29T00:57:12+00:00",
-      "link": "https://www.mendral.com/blog/frontier-model-lower-costs"
-    },
-    {
-      "title": "At his OpenAI trial, Musk relitigates an old friendship",
-      "summary": "It's a story Musk has told before -- in interviews and to author Walter Isaacson for his bestselling biography of Musk -- but Tuesday was the first time he said it under oath.",
-      "source": "TechCrunch",
-      "published": "2026-04-29T00:40:16+00:00",
-      "link": "https://techcrunch.com/2026/04/28/at-his-openai-trial-musk-relitigates-an-old-friendship/"
-    },
-    {
-      "title": "OpenAI Really Wants Codex to Shut Up About Goblins",
-      "summary": "“Never talk about goblins, gremlins, raccoons, trolls, ogres, pigeons, or other animals or creatures unless it is absolutely and unambiguously relevant,” reads OpenAI’s coding agent instructions.",
-      "source": "Wired",
-      "published": "2026-04-28T23:45:05+00:00",
-      "link": "https://www.wired.com/story/openai-really-wants-codex-to-shut-up-about-goblins/"
-    },
-    {
-      "title": "Elon Musk Testifies That He Started OpenAI to Prevent a ‘Terminator Outcome’",
-      "summary": "The judge also warned Musk and Sam Altman to curb their “propensity to use social media to make things worse outside the courtroom” after both sides traded attacks online.",
-      "source": "Wired",
-      "published": "2026-04-28T21:35:17+00:00",
-      "link": "https://www.wired.com/story/model-behavior-elon-musk-testifies-at-musk-v-altman-trial/"
-    },
-    {
-      "title": "Elon Musk tells the jury that all he wants to do is save humanity",
-      "summary": "On the stand, Elon Musk is positioning himself as a savior. In the high-profile trial between him and his fellow OpenAI cofounder, now CEO, Sam Altman, Musk opened by going through his background.",
-      "source": "The Verge",
-      "published": "2026-04-28T20:46:54+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/920048/elon-musk-testimony-save-humanity"
-    },
-    {
-      "title": "Taylor Swift is stepping up the legal war on AI copycats",
-      "summary": "Taylor Swift has been at the center of AI imitation controversies for years, and now, she's become the latest celebrity who's escalating attempts to protect herself from AI copycats.",
-      "source": "The Verge",
-      "published": "2026-04-28T20:30:00+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/919827/taylor-swift-trademarks-ai-copycats"
     }
   ]
 };
