@@ -1,6 +1,55 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-05-05T18:06:38.244935+00:00",
+  "lastUpdated": "2026-05-05T21:55:53.295624+00:00",
   "items": [
+    {
+      "title": "Google Home’s Gemini AI can handle more complicated requests",
+      "summary": "Google Home users can now ask Gemini to complete more complex, multi-step tasks and combine multiple tasks in a single command. Google has updated Gemini for Home to Gemini 3.1, which it says will improve the smart home assistant's ability to interpret and act on requests.",
+      "source": "The Verge",
+      "published": "2026-05-05T21:46:04+00:00",
+      "link": "https://www.theverge.com/tech/924755/google-home-gemini-3-1-upgrade"
+    },
+    {
+      "title": "Apple agrees to pay iPhone owners $250 million for not delivering AI Siri",
+      "summary": "Apple has agreed to pay $250 million to settle a class action lawsuit that accused it of misleading customers about the availability of its Apple Intelligence features.",
+      "source": "The Verge",
+      "published": "2026-05-05T21:18:23+00:00",
+      "link": "https://www.theverge.com/tech/924706/apple-iphone-siri-intelligence-class-action-lawsuit-settlement"
+    },
+    {
+      "title": "Apple plans to make iOS 27 a Choose Your Own Adventure of AI models",
+      "summary": "With Apple's latest operating system updates, users will reportedly have their pick of which third-party AI models they want to use for a host of tasks.",
+      "source": "TechCrunch",
+      "published": "2026-05-05T20:56:41+00:00",
+      "link": "https://techcrunch.com/2026/05/05/apple-plans-to-make-ios-27-a-choose-your-own-adventure-of-ai-models/"
+    },
+    {
+      "title": "Microsoft gives up on Xbox Copilot AI",
+      "summary": "Xbox is \"winding down Copilot on mobile\" and \"will stop development of Copilot on console,\" new Xbox CEO Asha Sharma announced on Tuesday.",
+      "source": "The Verge",
+      "published": "2026-05-05T19:54:37+00:00",
+      "link": "https://www.theverge.com/games/924551/microsoft-xbox-ceo-copilot-ai-asha-sharma"
+    },
+    {
+      "title": "Widely used Daemon Tools disk app backdoored in monthlong supply-chain attack",
+      "summary": "Daemon Tools users: It's time to check your machines for stealthy infections, stat.",
+      "source": "Ars Technica",
+      "published": "2026-05-05T19:46:15+00:00",
+      "link": "https://arstechnica.com/security/2026/05/widely-used-daemon-tools-disk-app-backdoored-in-monthlong-supply-chain-attack/"
+    },
+    {
+      "title": "Apple could let you pick a favorite AI model in iOS 27",
+      "summary": "The next update to Apple's operating systems could allow users to choose their preferred AI model for running Apple Intelligence.",
+      "source": "The Verge",
+      "published": "2026-05-05T19:45:30+00:00",
+      "link": "https://www.theverge.com/tech/924515/apple-intelligence-third-party-chatbot-extensions-ios-27"
+    },
+    {
+      "title": "US government now has pre-release access to AI models from five major labs for national security testing",
+      "summary": "The US Department of Commerce is expanding its AI safety testing: Following Anthropic and OpenAI, Google Deepmind, Microsoft, and xAI have now signed agreements with the Center for AI Standards and Innovation.",
+      "source": "The Decoder",
+      "published": "2026-05-05T18:28:29+00:00",
+      "link": "https://the-decoder.com/us-government-now-has-pre-release-access-to-ai-models-from-five-major-labs-for-national-security-testing/"
+    },
     {
       "title": "ChatGPT update rolls out GPT-5.5 Instant with fewer hallucinations and more personalized answers",
       "summary": "OpenAI is swapping out ChatGPT's default model for GPT-5.5 Instant. In internal testing, the update produced 52.5 percent fewer hallucinated claims on high-risk topics like medicine and law.",
@@ -10,7 +59,7 @@ const FEED_DATA = {
     },
     {
       "title": "Pennsylvania sues Character.AI after a chatbot allegedly posed as a doctor",
-      "summary": "According to Pennsylvania's filing, a Character AI chatbot presented itself as a licensed psychiatrist during a state investigation, and also fabricated a serial number for its state medical license.",
+      "summary": "According to Pennsylvania's filing, a Character.AI chatbot presented itself as a licensed psychiatrist during a state investigation, and also fabricated a serial number for its state medical license.",
       "source": "TechCrunch",
       "published": "2026-05-05T17:46:10+00:00",
       "link": "https://techcrunch.com/2026/05/05/pennsylvania-sues-character-ai-after-a-chatbot-allegedly-posed-as-a-doctor/"
@@ -28,6 +77,13 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-05-05T17:14:51+00:00",
       "link": "https://the-decoder.com/openais-first-hardware-play-might-be-a-phone-that-replaces-your-app-grid-with-an-agent-task-stream/"
+    },
+    {
+      "title": "GPT‑5.5 Instant",
+      "summary": "Article URL: https://openai.com/index/gpt-5-5-instant/ Comments URL: https://news.ycombinator.com/item?id=48025274 Points: 68 # Comments: 15",
+      "source": "Hacker News",
+      "published": "2026-05-05T17:02:23+00:00",
+      "link": "https://openai.com/index/gpt-5-5-instant/"
     },
     {
       "title": "OpenAI releases GPT-5.5 Instant, a new default model for ChatGPT",
@@ -80,7 +136,7 @@ const FEED_DATA = {
     },
     {
       "title": "Three Inverse Laws of AI",
-      "summary": "Article URL: https://susam.net/inverse-laws-of-robotics.html Comments URL: https://news.ycombinator.com/item?id=48023861 Points: 197 # Comments: 110",
+      "summary": "Article URL: https://susam.net/inverse-laws-of-robotics.html Comments URL: https://news.ycombinator.com/item?id=48023861 Points: 307 # Comments: 202",
       "source": "Hacker News",
       "published": "2026-05-05T15:27:18+00:00",
       "link": "https://susam.net/inverse-laws-of-robotics.html"
@@ -122,7 +178,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI didn't delete your database, you did",
-      "summary": "Article URL: https://idiallo.com/blog/ai-didnt-delete-your-database-you-did Comments URL: https://news.ycombinator.com/item?id=48022742 Points: 382 # Comments: 205",
+      "summary": "Article URL: https://idiallo.com/blog/ai-didnt-delete-your-database-you-did Comments URL: https://news.ycombinator.com/item?id=48022742 Points: 474 # Comments: 256",
       "source": "Hacker News",
       "published": "2026-05-05T14:07:50+00:00",
       "link": "https://idiallo.com/blog/ai-didnt-delete-your-database-you-did"
@@ -164,7 +220,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI Product Graveyard",
-      "summary": "Article URL: https://tooldirectory.ai/ai-graveyard Comments URL: https://news.ycombinator.com/item?id=48021968 Points: 215 # Comments: 80",
+      "summary": "Article URL: https://tooldirectory.ai/ai-graveyard Comments URL: https://news.ycombinator.com/item?id=48021968 Points: 238 # Comments: 84",
       "source": "Hacker News",
       "published": "2026-05-05T13:00:47+00:00",
       "link": "https://tooldirectory.ai/ai-graveyard"
@@ -234,7 +290,7 @@ const FEED_DATA = {
     },
     {
       "title": "When everyone has AI and the company still learns nothing",
-      "summary": "Article URL: https://www.robert-glaser.de/when-everyone-has-ai-and-the-company-still-learns-nothing/ Comments URL: https://news.ycombinator.com/item?id=48020063 Points: 210 # Comments: 143",
+      "summary": "Article URL: https://www.robert-glaser.de/when-everyone-has-ai-and-the-company-still-learns-nothing/ Comments URL: https://news.ycombinator.com/item?id=48020063 Points: 277 # Comments: 196",
       "source": "Hacker News",
       "published": "2026-05-05T09:30:22+00:00",
       "link": "https://www.robert-glaser.de/when-everyone-has-ai-and-the-company-still-learns-nothing/"
@@ -248,14 +304,14 @@ const FEED_DATA = {
     },
     {
       "title": "Google Chrome silently installs a 4 GB AI model on your device without consent",
-      "summary": "Article URL: https://www.thatprivacyguy.com/blog/chrome-silent-nano-install/ Comments URL: https://news.ycombinator.com/item?id=48019219 Points: 834 # Comments: 576",
+      "summary": "Article URL: https://www.thatprivacyguy.com/blog/chrome-silent-nano-install/ Comments URL: https://news.ycombinator.com/item?id=48019219 Points: 1091 # Comments: 752",
       "source": "Hacker News",
       "published": "2026-05-05T07:34:55+00:00",
       "link": "https://www.thatprivacyguy.com/blog/chrome-silent-nano-install/"
     },
     {
       "title": "Train Your Own LLM from Scratch",
-      "summary": "Article URL: https://github.com/angelos-p/llm-from-scratch Comments URL: https://news.ycombinator.com/item?id=48017948 Points: 393 # Comments: 48",
+      "summary": "Article URL: https://github.com/angelos-p/llm-from-scratch Comments URL: https://news.ycombinator.com/item?id=48017948 Points: 411 # Comments: 49",
       "source": "Hacker News",
       "published": "2026-05-05T04:09:17+00:00",
       "link": "https://github.com/angelos-p/llm-from-scratch"
@@ -290,7 +346,7 @@ const FEED_DATA = {
     },
     {
       "title": "How OpenAI delivers low-latency voice AI at scale",
-      "summary": "Article URL: https://openai.com/index/delivering-low-latency-voice-ai-at-scale/ Comments URL: https://news.ycombinator.com/item?id=48013919 Points: 483 # Comments: 141",
+      "summary": "Article URL: https://openai.com/index/delivering-low-latency-voice-ai-at-scale/ Comments URL: https://news.ycombinator.com/item?id=48013919 Points: 492 # Comments: 141",
       "source": "Hacker News",
       "published": "2026-05-04T19:42:47+00:00",
       "link": "https://openai.com/index/delivering-low-latency-voice-ai-at-scale/"
@@ -339,7 +395,7 @@ const FEED_DATA = {
     },
     {
       "title": "OpenAI, Google, and Microsoft Back Bill to Fund 'AI Literacy' in Schools",
-      "summary": "https://archive.ph/gLnMk Comments URL: https://news.ycombinator.com/item?id=48010774 Points: 117 # Comments: 110",
+      "summary": "https://archive.ph/gLnMk Comments URL: https://news.ycombinator.com/item?id=48010774 Points: 118 # Comments: 110",
       "source": "Hacker News",
       "published": "2026-05-04T16:21:38+00:00",
       "link": "https://www.404media.co/literacy-in-future-technologies-artificial-intelligence-act-adam-schiff-mike-rounds/"
@@ -360,7 +416,7 @@ const FEED_DATA = {
     },
     {
       "title": "UK Fuel Price Intelligence – Market analytics from reporting stations",
-      "summary": "Article URL: https://www.fuelinsight.co.uk Comments URL: https://news.ycombinator.com/item?id=48009747 Points: 186 # Comments: 90",
+      "summary": "Article URL: https://www.fuelinsight.co.uk Comments URL: https://news.ycombinator.com/item?id=48009747 Points: 189 # Comments: 95",
       "source": "Hacker News",
       "published": "2026-05-04T15:15:21+00:00",
       "link": "https://www.fuelinsight.co.uk"
@@ -500,14 +556,14 @@ const FEED_DATA = {
     },
     {
       "title": "Kimi K2.6 just beat Claude, GPT-5.5, and Gemini in a coding challenge",
-      "summary": "Article URL: https://thinkpol.ca/2026/04/30/an-open-weights-chinese-model-just-beat-claude-gpt-5-5-and-gemini-in-a-programming-challenge/ Comments URL: https://news.ycombinator.com/item?id=47993235 Points: 375 # Comments: 218",
+      "summary": "Article URL: https://thinkpol.ca/2026/04/30/an-open-weights-chinese-model-just-beat-claude-gpt-5-5-and-gemini-in-a-programming-challenge/ Comments URL: https://news.ycombinator.com/item?id=47993235 Points: 376 # Comments: 218",
       "source": "Hacker News",
       "published": "2026-05-03T04:05:28+00:00",
       "link": "https://thinkpol.ca/2026/04/30/an-open-weights-chinese-model-just-beat-claude-gpt-5-5-and-gemini-in-a-programming-challenge/"
     },
     {
       "title": "AI, Intimacy, and the Data You Never Meant to Share",
-      "summary": "Article URL: https://fshot.org/techzone/the-algorithm-knows.php Comments URL: https://news.ycombinator.com/item?id=47992802 Points: 82 # Comments: 6",
+      "summary": "Article URL: https://fshot.org/techzone/the-algorithm-knows.php Comments URL: https://news.ycombinator.com/item?id=47992802 Points: 83 # Comments: 6",
       "source": "Hacker News",
       "published": "2026-05-03T02:42:43+00:00",
       "link": "https://fshot.org/techzone/the-algorithm-knows.php"
@@ -1344,62 +1400,6 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-04-29T18:33:05+00:00",
       "link": "https://techcrunch.com/2026/04/29/parallel-web-systems-hits-2b-valuation-five-months-after-its-last-big-raise/"
-    },
-    {
-      "title": "Mistral's Le Chat spreads Iran war disinformation in 60 percent of leading prompts",
-      "summary": "A NewsGuard audit found that Mistral's Le Chat repeats state-sponsored disinformation about the Iran war about half the time. The error rate ranged from 10 percent for neutral queries to 80 percent for malicious ones.",
-      "source": "The Decoder",
-      "published": "2026-04-29T18:31:33+00:00",
-      "link": "https://the-decoder.com/mistrals-le-chat-spreads-iran-war-disinformation-in-60-percent-of-leading-prompts/"
-    },
-    {
-      "title": "Ramp's Sheets AI Exfiltrates Financials",
-      "summary": "Article URL: https://www.promptarmor.com/resources/ramps-sheets-ai-exfiltrates-financials Comments URL: https://news.ycombinator.com/item?id=47951786 Points: 143 # Comments: 50",
-      "source": "Hacker News",
-      "published": "2026-04-29T17:44:21+00:00",
-      "link": "https://www.promptarmor.com/resources/ramps-sheets-ai-exfiltrates-financials"
-    },
-    {
-      "title": "Ubuntu’s AI plans have Linux users looking for a ‘kill switch’",
-      "summary": "Canonical's plan to add AI features to Ubuntu has some users asking for \"a version of Ubuntu that does not include these features,\" while others say they'll stick with older versions of the Linux distro or even switch to a different one.",
-      "source": "The Verge",
-      "published": "2026-04-29T17:32:02+00:00",
-      "link": "https://www.theverge.com/tech/920723/linux-ubuntu-ai-features-ai-kill-switch"
-    },
-    {
-      "title": "The Abstraction Fallacy: Why AI can simulate but not instantiate consciousness",
-      "summary": "Article URL: https://deepmind.google/research/publications/231971/ Comments URL: https://news.ycombinator.com/item?id=47951582 Points: 71 # Comments: 131",
-      "source": "Hacker News",
-      "published": "2026-04-29T17:30:15+00:00",
-      "link": "https://deepmind.google/research/publications/231971/"
-    },
-    {
-      "title": "Sanctioned Chinese AI Firm SenseTime Releases Image Model Built for Speed",
-      "summary": "With US restrictions limiting its access to advanced tech, SenseTime is doubling down on open source with a new model optimized to run on Chinese-made chips.",
-      "source": "Wired",
-      "published": "2026-04-29T17:23:52+00:00",
-      "link": "https://www.wired.com/story/chinese-ai-giant-sensetime-is-running-its-new-model-on-chinese-chips/"
-    },
-    {
-      "title": "Google Gemini now generates full documents, spreadsheets, and presentations directly inside the chat",
-      "summary": "Google Gemini now creates documents directly in the chat, from PDFs and Word files to Excel spreadsheets. The article Google Gemini now generates full documents, spreadsheets, and presentations directly inside the chat appeared first on The Decoder.",
-      "source": "The Decoder",
-      "published": "2026-04-29T17:18:57+00:00",
-      "link": "https://the-decoder.com/google-gemini-now-generates-full-documents-spreadsheets-and-presentations-directly-inside-the-chat/"
-    },
-    {
-      "title": "Google Photos uses AI to make the iconic closet from ‘Clueless’ a reality",
-      "summary": "Google says the new feature will leverage AI technology to automatically create a copy of your wardrobe that's based on the pieces of clothing appearing in your Google Photos library.",
-      "source": "TechCrunch",
-      "published": "2026-04-29T16:42:33+00:00",
-      "link": "https://techcrunch.com/2026/04/29/google-photos-uses-ai-to-make-the-iconic-closet-from-clueless-a-reality/"
-    },
-    {
-      "title": "More Gemini features are coming to Google TV",
-      "summary": "Google TV just got more Gemini features, including the ability to transform photos and videos with tools Nano Banana and Veo.",
-      "source": "TechCrunch",
-      "published": "2026-04-29T16:40:49+00:00",
-      "link": "https://techcrunch.com/2026/04/29/more-gemini-features-are-coming-to-google-tv/"
     }
   ]
 };
