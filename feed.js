@@ -1,6 +1,34 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-05-06T07:36:10.942632+00:00",
+  "lastUpdated": "2026-05-06T10:53:05.459684+00:00",
   "items": [
+    {
+      "title": "Apple Will Pay $250 Million to Settle Lawsuit Over Siri's AI Features",
+      "summary": "If you bought an iPhone 15 or 16 in the US, you could be set to pocket up to $95 per device as Apple settles class-action lawsuit.",
+      "source": "Wired",
+      "published": "2026-05-06T10:41:37+00:00",
+      "link": "https://www.wired.com/story/apple-will-pay-dollar250-million-to-settle-lawsuit-over-siris-ai-features/"
+    },
+    {
+      "title": "Chrome’s AI features may be hogging 4GB of your computer storage",
+      "summary": "Google Chrome may be taking up more of your storage than expected thanks to a large on-device AI model file that, in some cases, is being automatically downloaded to the browser's system folders.",
+      "source": "The Verge",
+      "published": "2026-05-06T10:13:09+00:00",
+      "link": "https://www.theverge.com/tech/924933/google-chrome-4gb-gemini-nano-ai-features"
+    },
+    {
+      "title": "Hasan Piker, Self-Described ‘Ayatollah of Woke,’ Wants AI to Die",
+      "summary": "The far-left Twitch streamer says AI is rotting our brains. He’s also addicted to Twitter and listens to at least eight podcasts.",
+      "source": "Wired",
+      "published": "2026-05-06T10:00:00+00:00",
+      "link": "https://www.wired.com/story/hasan-piker-user-behavior/"
+    },
+    {
+      "title": "Google tests Remy AI agent for Gemini as focus turns to user control",
+      "summary": "Google is testing Remy, a new AI personal agent for Gemini, according to Business Insider. The tool is designed to take actions for users in work and daily tasks.",
+      "source": "AI News",
+      "published": "2026-05-06T10:00:00+00:00",
+      "link": "https://www.artificialintelligence-news.com/news/google-remy-ai-agent-gemini-user-control/"
+    },
     {
       "title": "Peter Sarlin’s QuTwo reaches $380M valuation in angel round",
       "summary": "QyTw0, the Finnish AI lab founded by former AMD Silo AI CEO Peter Sarlin, is now valued at €325 million (approximately $380 million) after raising a €25 million angel round ($29 million).",
@@ -17,7 +45,7 @@ const FEED_DATA = {
     },
     {
       "title": "Telus Uses AI to Alter Call-Agent Accents",
-      "summary": "Article URL: https://letsdatascience.com/news/telus-uses-ai-to-alter-call-agent-accents-a3868f63 Comments URL: https://news.ycombinator.com/item?id=48031109 Points: 127 # Comments: 77",
+      "summary": "Article URL: https://letsdatascience.com/news/telus-uses-ai-to-alter-call-agent-accents-a3868f63 Comments URL: https://news.ycombinator.com/item?id=48031109 Points: 157 # Comments: 125",
       "source": "Hacker News",
       "published": "2026-05-06T01:38:44+00:00",
       "link": "https://letsdatascience.com/news/telus-uses-ai-to-alter-call-agent-accents-a3868f63"
@@ -45,7 +73,7 @@ const FEED_DATA = {
     },
     {
       "title": "Xbox CEO ends Copilot AI development and overhauls leadership",
-      "summary": "Article URL: https://www.dexerto.com/gaming/xbox-ceo-ends-copilot-ai-development-overhauls-leadership-3361353/ Comments URL: https://news.ycombinator.com/item?id=48029753 Points: 92 # Comments: 25",
+      "summary": "Article URL: https://www.dexerto.com/gaming/xbox-ceo-ends-copilot-ai-development-overhauls-leadership-3361353/ Comments URL: https://news.ycombinator.com/item?id=48029753 Points: 100 # Comments: 31",
       "source": "Hacker News",
       "published": "2026-05-05T22:43:47+00:00",
       "link": "https://www.dexerto.com/gaming/xbox-ceo-ends-copilot-ai-development-overhauls-leadership-3361353/"
@@ -129,7 +157,7 @@ const FEED_DATA = {
     },
     {
       "title": "GPT‑5.5 Instant",
-      "summary": "Article URL: https://openai.com/index/gpt-5-5-instant/ Comments URL: https://news.ycombinator.com/item?id=48025274 Points: 78 # Comments: 18",
+      "summary": "Article URL: https://openai.com/index/gpt-5-5-instant/ Comments URL: https://news.ycombinator.com/item?id=48025274 Points: 80 # Comments: 18",
       "source": "Hacker News",
       "published": "2026-05-05T17:02:23+00:00",
       "link": "https://openai.com/index/gpt-5-5-instant/"
@@ -185,7 +213,7 @@ const FEED_DATA = {
     },
     {
       "title": "Three Inverse Laws of AI",
-      "summary": "Article URL: https://susam.net/inverse-laws-of-robotics.html Comments URL: https://news.ycombinator.com/item?id=48023861 Points: 425 # Comments: 286",
+      "summary": "Article URL: https://susam.net/inverse-laws-of-robotics.html Comments URL: https://news.ycombinator.com/item?id=48023861 Points: 455 # Comments: 315",
       "source": "Hacker News",
       "published": "2026-05-05T15:27:18+00:00",
       "link": "https://susam.net/inverse-laws-of-robotics.html"
@@ -227,7 +255,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI didn't delete your database, you did",
-      "summary": "Article URL: https://idiallo.com/blog/ai-didnt-delete-your-database-you-did Comments URL: https://news.ycombinator.com/item?id=48022742 Points: 516 # Comments: 287",
+      "summary": "Article URL: https://idiallo.com/blog/ai-didnt-delete-your-database-you-did Comments URL: https://news.ycombinator.com/item?id=48022742 Points: 523 # Comments: 292",
       "source": "Hacker News",
       "published": "2026-05-05T14:07:50+00:00",
       "link": "https://idiallo.com/blog/ai-didnt-delete-your-database-you-did"
@@ -269,7 +297,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI Product Graveyard",
-      "summary": "Article URL: https://tooldirectory.ai/ai-graveyard Comments URL: https://news.ycombinator.com/item?id=48021968 Points: 247 # Comments: 88",
+      "summary": "Article URL: https://tooldirectory.ai/ai-graveyard Comments URL: https://news.ycombinator.com/item?id=48021968 Points: 249 # Comments: 89",
       "source": "Hacker News",
       "published": "2026-05-05T13:00:47+00:00",
       "link": "https://tooldirectory.ai/ai-graveyard"
@@ -339,7 +367,7 @@ const FEED_DATA = {
     },
     {
       "title": "When everyone has AI and the company still learns nothing",
-      "summary": "Article URL: https://www.robert-glaser.de/when-everyone-has-ai-and-the-company-still-learns-nothing/ Comments URL: https://news.ycombinator.com/item?id=48020063 Points: 350 # Comments: 234",
+      "summary": "Article URL: https://www.robert-glaser.de/when-everyone-has-ai-and-the-company-still-learns-nothing/ Comments URL: https://news.ycombinator.com/item?id=48020063 Points: 364 # Comments: 242",
       "source": "Hacker News",
       "published": "2026-05-05T09:30:22+00:00",
       "link": "https://www.robert-glaser.de/when-everyone-has-ai-and-the-company-still-learns-nothing/"
@@ -353,14 +381,14 @@ const FEED_DATA = {
     },
     {
       "title": "Google Chrome silently installs a 4 GB AI model on your device without consent",
-      "summary": "Article URL: https://www.thatprivacyguy.com/blog/chrome-silent-nano-install/ Comments URL: https://news.ycombinator.com/item?id=48019219 Points: 1398 # Comments: 925",
+      "summary": "Article URL: https://www.thatprivacyguy.com/blog/chrome-silent-nano-install/ Comments URL: https://news.ycombinator.com/item?id=48019219 Points: 1464 # Comments: 985",
       "source": "Hacker News",
       "published": "2026-05-05T07:34:55+00:00",
       "link": "https://www.thatprivacyguy.com/blog/chrome-silent-nano-install/"
     },
     {
       "title": "Train Your Own LLM from Scratch",
-      "summary": "Article URL: https://github.com/angelos-p/llm-from-scratch Comments URL: https://news.ycombinator.com/item?id=48017948 Points: 441 # Comments: 50",
+      "summary": "Article URL: https://github.com/angelos-p/llm-from-scratch Comments URL: https://news.ycombinator.com/item?id=48017948 Points: 448 # Comments: 50",
       "source": "Hacker News",
       "published": "2026-05-05T04:09:17+00:00",
       "link": "https://github.com/angelos-p/llm-from-scratch"
@@ -395,7 +423,7 @@ const FEED_DATA = {
     },
     {
       "title": "How OpenAI delivers low-latency voice AI at scale",
-      "summary": "Article URL: https://openai.com/index/delivering-low-latency-voice-ai-at-scale/ Comments URL: https://news.ycombinator.com/item?id=48013919 Points: 496 # Comments: 143",
+      "summary": "Article URL: https://openai.com/index/delivering-low-latency-voice-ai-at-scale/ Comments URL: https://news.ycombinator.com/item?id=48013919 Points: 497 # Comments: 143",
       "source": "Hacker News",
       "published": "2026-05-04T19:42:47+00:00",
       "link": "https://openai.com/index/delivering-low-latency-voice-ai-at-scale/"
@@ -548,6 +576,13 @@ const FEED_DATA = {
       "link": "https://gizmodo.com/the-oscars-just-banned-ai-from-winning-acting-and-writing-awards-2000753740"
     },
     {
+      "title": "Wiki Builder: Skill to Build LLM Knowledge Bases",
+      "summary": "Article URL: https://academy.dair.ai/blog/wiki-builder-claude-code-plugin Comments URL: https://news.ycombinator.com/item?id=47997915 Points: 62 # Comments: 7",
+      "source": "Hacker News",
+      "published": "2026-05-03T15:28:48+00:00",
+      "link": "https://academy.dair.ai/blog/wiki-builder-claude-code-plugin"
+    },
+    {
       "title": "How the internet’s favorite squirrel dad made the hottest camera app of 2026",
       "summary": "It's not hyperbole to call DualShot Recorder an overnight sensation. It took only 12 hours from the time it was released to hit number one on the App Store's list of top paid apps.",
       "source": "The Verge",
@@ -598,7 +633,7 @@ const FEED_DATA = {
     },
     {
       "title": "Specsmaxxing – On overcoming AI psychosis, and why I write specs in YAML",
-      "summary": "Article URL: https://acai.sh/blog/specsmaxxing Comments URL: https://news.ycombinator.com/item?id=47994012 Points: 284 # Comments: 294",
+      "summary": "Article URL: https://acai.sh/blog/specsmaxxing Comments URL: https://news.ycombinator.com/item?id=47994012 Points: 285 # Comments: 294",
       "source": "Hacker News",
       "published": "2026-05-03T06:33:38+00:00",
       "link": "https://acai.sh/blog/specsmaxxing"
@@ -1365,41 +1400,6 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-04-29T23:58:36+00:00",
       "link": "https://techcrunch.com/2026/04/29/on-the-stand-elon-musk-cant-escape-his-own-tweets/"
-    },
-    {
-      "title": "Meta is still burning money on AR/VR",
-      "summary": "Meta is losing billions on Reality Labs each quarter, and its AI expenditures are only going to increase its spending.",
-      "source": "TechCrunch",
-      "published": "2026-04-29T23:58:26+00:00",
-      "link": "https://techcrunch.com/2026/04/29/meta-is-still-burning-money-on-ar-vr/"
-    },
-    {
-      "title": "Satya Nadella says he’s ready to ‘exploit’ the new OpenAI deal",
-      "summary": "Microsoft gets to offer OpenAI's tech to its cloud customers and doesn't have to pay for it. \"We fully plan to exploit it,\" Nadella said.",
-      "source": "TechCrunch",
-      "published": "2026-04-29T23:55:23+00:00",
-      "link": "https://techcrunch.com/2026/04/29/satya-nadella-says-hes-ready-to-exploit-the-new-openai-deal/"
-    },
-    {
-      "title": "How Elon Musk Squeezed OpenAI: They ‘Are Gonna Want to Kill Me’",
-      "summary": "Tensions flared on the third day of trial in Musk v. Altman as OpenAI’s lawyers cross-examined Musk.",
-      "source": "Wired",
-      "published": "2026-04-29T23:41:51+00:00",
-      "link": "https://www.wired.com/story/model-behavior-elon-musk-cross-examined-sam-altman/"
-    },
-    {
-      "title": "Microsoft says it has over 20M paid Copilot users, and they really are using it",
-      "summary": "Despite the lingering perception that no one really uses Copilot, Microsoft said on Wednesday that the number of users and engagement is growing.",
-      "source": "TechCrunch",
-      "published": "2026-04-29T23:02:23+00:00",
-      "link": "https://techcrunch.com/2026/04/29/microsoft-says-it-has-over-20m-paid-copilot-users-and-they-really-are-using-it/"
-    },
-    {
-      "title": "Google Cloud surpasses $20B, but says growth was capacity-constrained",
-      "summary": "Google Cloud topped $20B in quarterly revenue for the first time, fueled by surging demand for AI. But capacity constraints mean it could have grown even faster.",
-      "source": "TechCrunch",
-      "published": "2026-04-29T22:20:48+00:00",
-      "link": "https://techcrunch.com/2026/04/29/google-cloud-surpasses-20b-but-says-growth-was-capacity-constrained/"
     }
   ]
 };
