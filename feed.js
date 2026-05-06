@@ -1,6 +1,90 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-05-06T15:27:33.502560+00:00",
+  "lastUpdated": "2026-05-06T18:11:44.478500+00:00",
   "items": [
+    {
+      "title": "Using AI for Just 10 Minutes Might Make You Lazy and Dumb, Study Shows",
+      "summary": "New research suggests that reliance on AI assistants can have a negative impact on people’s ability to think and problem solve.",
+      "source": "Wired",
+      "published": "2026-05-06T18:00:00+00:00",
+      "link": "https://www.wired.com/story/using-ai-negative-impact-thinking-problem-solving-study/"
+    },
+    {
+      "title": "Mira Murati tells the court that she couldn’t trust Sam Altman’s words",
+      "summary": "Mira Murati, OpenAI's former CTO, has testified under oath that CEO Sam Altman lied to her about the safety standards for a new AI model. In a video deposition shown during the ongoing Musk v.",
+      "source": "The Verge",
+      "published": "2026-05-06T17:55:53+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/925338/openai-musk-v-altman-mira-murati"
+    },
+    {
+      "title": "SpaceX may spend up to $119B on ‘Terafab’ chip factory in Texas",
+      "summary": "SpaceX, Elon Musk's space company that also houses his AI company, xAI, is considering spending $55 billion, at least initially, to build a semiconductor factory in Texas, according to a filing with Grimes County.",
+      "source": "TechCrunch",
+      "published": "2026-05-06T17:23:08+00:00",
+      "link": "https://techcrunch.com/2026/05/06/spacex-may-spend-up-to-119-billion-on-terafab-chip-factory-in-texas/"
+    },
+    {
+      "title": "DeepSeek could hit $45B valuation from its first investment round",
+      "summary": "The Chinese AI lab came to prominence in early 2025 after launching a large language model that trained on a fraction of the compute power and at a fraction of the cost of the big U.S. models like those from OpenAI and Anthropic.",
+      "source": "TechCrunch",
+      "published": "2026-05-06T17:20:34+00:00",
+      "link": "https://techcrunch.com/2026/05/06/deepseek-could-hit-45b-valuation-from-its-first-investment-round/"
+    },
+    {
+      "title": "I Am Begging AI Companies to Stop Naming Features After Human Processes",
+      "summary": "Anthropic announced “dreaming” for AI agents to sort through “memories” at its developer conference. Can we not?",
+      "source": "Wired",
+      "published": "2026-05-06T16:51:12+00:00",
+      "link": "https://www.wired.com/story/i-am-begging-ai-companies-to-stop-naming-features-after-human-processes/"
+    },
+    {
+      "title": "Google speeds up Gemma 4 threefold with multi-token prediction",
+      "summary": "Google has released multi-token prediction drafters for its Gemma 4 open model family that speed up text generation by up to three times. A small auxiliary model suggests several tokens at once while the main model checks them in a single pass.",
+      "source": "The Decoder",
+      "published": "2026-05-06T16:05:28+00:00",
+      "link": "https://the-decoder.com/google-speeds-up-gemma-4-threefold-with-multi-token-prediction/"
+    },
+    {
+      "title": "Google updates AI search to include quotes from Reddit and other sources",
+      "summary": "While citing web forums and discussion boards can help users find answers to more niche queries, this design choice could also prove chaotic.",
+      "source": "TechCrunch",
+      "published": "2026-05-06T15:49:39+00:00",
+      "link": "https://techcrunch.com/2026/05/06/google-updates-ai-search-to-include-expert-advice-from-reddit-and-other-web-forums/"
+    },
+    {
+      "title": "Hackers Hate AI Slop Even More Than You Do",
+      "summary": "It's not just you. Scammers, hackers, and other cybercriminals are complaining about “AI shit” flooding platforms where they discuss cyberattacks and other illegal activity.",
+      "source": "Wired",
+      "published": "2026-05-06T15:49:12+00:00",
+      "link": "https://www.wired.com/story/cybercriminals-are-complaining-about-ai-slop-flooding-their-forums/"
+    },
+    {
+      "title": "Khosla-backed robotics startup Genesis AI has gone full stack, demo shows",
+      "summary": "Genesis AI, a startup that raised a $105 million seed round to build foundational AI for robotics, has unveiled its first model, GENE-26.5, but also a demo showcasing a set of robotic hands performing complex tasks.",
+      "source": "TechCrunch",
+      "published": "2026-05-06T15:46:38+00:00",
+      "link": "https://techcrunch.com/2026/05/06/khosla-backed-robotics-startup-genesis-ai-has-gone-full-stack-demo-shows/"
+    },
+    {
+      "title": "Live updates from Elon Musk and Sam Altman’s court battle over the future of OpenAI",
+      "summary": "Sam Altman and Elon Musk are facing off in a high-stakes trial that could alter the future of OpenAI and its most well-known product, ChatGPT.",
+      "source": "The Verge",
+      "published": "2026-05-06T15:37:32+00:00",
+      "link": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit"
+    },
+    {
+      "title": "Tinder owner Match Group is slowing hiring to pay for its increased use of AI tools",
+      "summary": "Match Group said that it's slowing its hiring plans for the rest of the year because AI tools \"cost a lot of money.\"",
+      "source": "TechCrunch",
+      "published": "2026-05-06T15:27:36+00:00",
+      "link": "https://techcrunch.com/2026/05/06/tinder-owner-match-group-is-slowing-hiring-to-pay-for-its-increased-use-of-ai-tools/"
+    },
+    {
+      "title": "HP and the art of AI and data for the enterprise",
+      "summary": "Ahead of the AI & Big Data Expo at the San Jose McEnery Convention Center, May 18-19, we spoke to Jerome Gabryszewski, the company’s AI & Data Science Business Development Manager about AI, processing data for AI ingestion, and local versus cloud compute.",
+      "source": "AI News",
+      "published": "2026-05-06T15:14:00+00:00",
+      "link": "https://www.artificialintelligence-news.com/news/hps-ai-and-data-offerings-for-the-enterprise/"
+    },
     {
       "title": "Apple to pay $250M to settle lawsuit over Siri’s delayed AI features",
       "summary": "Apple has agreed to pay $250 million to settle a class action lawsuit for overpromising the arrival of Siri's AI features.",
@@ -10,7 +94,7 @@ const FEED_DATA = {
     },
     {
       "title": "Ethos raises $22.75M from a16z for its expert network with voice onboarding",
-      "summary": "Ethos says it is onboarding 35,000 experts per week",
+      "summary": "Ethos says it is onboarding 35,000 experts per week.",
       "source": "TechCrunch",
       "published": "2026-05-06T15:00:00+00:00",
       "link": "https://techcrunch.com/2026/05/06/ethos-raises-22-75m-from-a16z-for-its-expert-network-with-voice-onboarding/"
@@ -101,10 +185,17 @@ const FEED_DATA = {
     },
     {
       "title": "Peter Sarlin’s QuTwo reaches $380M valuation in angel round",
-      "summary": "QuTwo, the Finnish AI lab founded by former AMD Silo AI CEO Peter Sarlin, is now valued at €325 million (approximately $380 million) after raising a €25 million angel round ($29 million).",
+      "summary": "Enterprise AI will be QuTwo’s bread and butter. “AI is the north star that we will continue to aim for.",
       "source": "TechCrunch",
       "published": "2026-05-06T06:47:12+00:00",
       "link": "https://techcrunch.com/2026/05/05/peter-sarlins-qutwo-reaches-380m-valuation-in-angel-round/"
+    },
+    {
+      "title": "Marc Lore says that AI will soon enable anyone to open a restaurant",
+      "summary": "Wonder wants to turn its robotic kitchens into AI-powered “restaurant factories,” letting anyone spin up a virtual food brand with a prompt.",
+      "source": "TechCrunch",
+      "published": "2026-05-06T06:34:32+00:00",
+      "link": "https://techcrunch.com/2026/05/05/marc-lore-says-that-ai-will-soon-enable-anyone-open-a-restaurant/"
     },
     {
       "title": "Marc Lore says that AI will soon enable anyone open a restaurant",
@@ -115,14 +206,14 @@ const FEED_DATA = {
     },
     {
       "title": "FFmpeg developer calls out OxideAV for AI license laundering of his code",
-      "summary": "Article URL: https://github.com/OxideAV/oxideav-magicyuv/issues/3 Comments URL: https://news.ycombinator.com/item?id=48031185 Points: 68 # Comments: 6",
+      "summary": "Article URL: https://github.com/OxideAV/oxideav-magicyuv/issues/3 Comments URL: https://news.ycombinator.com/item?id=48031185 Points: 72 # Comments: 6",
       "source": "Hacker News",
       "published": "2026-05-06T01:50:42+00:00",
       "link": "https://github.com/OxideAV/oxideav-magicyuv/issues/3"
     },
     {
       "title": "Telus Uses AI to Alter Call-Agent Accents",
-      "summary": "Article URL: https://letsdatascience.com/news/telus-uses-ai-to-alter-call-agent-accents-a3868f63 Comments URL: https://news.ycombinator.com/item?id=48031109 Points: 207 # Comments: 179",
+      "summary": "Article URL: https://letsdatascience.com/news/telus-uses-ai-to-alter-call-agent-accents-a3868f63 Comments URL: https://news.ycombinator.com/item?id=48031109 Points: 218 # Comments: 196",
       "source": "Hacker News",
       "published": "2026-05-06T01:38:44+00:00",
       "link": "https://letsdatascience.com/news/telus-uses-ai-to-alter-call-agent-accents-a3868f63"
@@ -150,7 +241,7 @@ const FEED_DATA = {
     },
     {
       "title": "Xbox CEO ends Copilot AI development and overhauls leadership",
-      "summary": "Article URL: https://www.dexerto.com/gaming/xbox-ceo-ends-copilot-ai-development-overhauls-leadership-3361353/ Comments URL: https://news.ycombinator.com/item?id=48029753 Points: 107 # Comments: 37",
+      "summary": "Article URL: https://www.dexerto.com/gaming/xbox-ceo-ends-copilot-ai-development-overhauls-leadership-3361353/ Comments URL: https://news.ycombinator.com/item?id=48029753 Points: 108 # Comments: 37",
       "source": "Hacker News",
       "published": "2026-05-05T22:43:47+00:00",
       "link": "https://www.dexerto.com/gaming/xbox-ceo-ends-copilot-ai-development-overhauls-leadership-3361353/"
@@ -219,13 +310,6 @@ const FEED_DATA = {
       "link": "https://techcrunch.com/2026/05/05/pennsylvania-sues-character-ai-after-a-chatbot-allegedly-posed-as-a-doctor/"
     },
     {
-      "title": "Live updates from Elon Musk and Sam Altman’s court battle over the future of OpenAI",
-      "summary": "Sam Altman and Elon Musk are facing off in a high-stakes trial that could alter the future of OpenAI and its most well-known product, ChatGPT.",
-      "source": "The Verge",
-      "published": "2026-05-05T17:28:52+00:00",
-      "link": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit"
-    },
-    {
       "title": "OpenAI's first hardware play might be a phone that replaces your app grid with an agent task stream",
       "summary": "OpenAI is reportedly planning its own AI smartphone, with chips from MediaTek and Qualcomm and manufacturing by Luxshare.",
       "source": "The Decoder",
@@ -234,7 +318,7 @@ const FEED_DATA = {
     },
     {
       "title": "GPT‑5.5 Instant",
-      "summary": "Article URL: https://openai.com/index/gpt-5-5-instant/ Comments URL: https://news.ycombinator.com/item?id=48025274 Points: 83 # Comments: 19",
+      "summary": "Article URL: https://openai.com/index/gpt-5-5-instant/ Comments URL: https://news.ycombinator.com/item?id=48025274 Points: 85 # Comments: 19",
       "source": "Hacker News",
       "published": "2026-05-05T17:02:23+00:00",
       "link": "https://openai.com/index/gpt-5-5-instant/"
@@ -290,7 +374,7 @@ const FEED_DATA = {
     },
     {
       "title": "Three Inverse Laws of AI",
-      "summary": "Article URL: https://susam.net/inverse-laws-of-robotics.html Comments URL: https://news.ycombinator.com/item?id=48023861 Points: 499 # Comments: 328",
+      "summary": "Article URL: https://susam.net/inverse-laws-of-robotics.html Comments URL: https://news.ycombinator.com/item?id=48023861 Points: 515 # Comments: 335",
       "source": "Hacker News",
       "published": "2026-05-05T15:27:18+00:00",
       "link": "https://susam.net/inverse-laws-of-robotics.html"
@@ -311,7 +395,7 @@ const FEED_DATA = {
     },
     {
       "title": "SubQ: a sub-quadratic LLM with 12M-token context",
-      "summary": "Article URL: https://subq.ai/introducing-subq Comments URL: https://news.ycombinator.com/item?id=48023079 Points: 55 # Comments: 22",
+      "summary": "Article URL: https://subq.ai/introducing-subq Comments URL: https://news.ycombinator.com/item?id=48023079 Points: 57 # Comments: 24",
       "source": "Hacker News",
       "published": "2026-05-05T14:37:12+00:00",
       "link": "https://subq.ai/introducing-subq"
@@ -339,7 +423,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI didn't delete your database, you did",
-      "summary": "Article URL: https://idiallo.com/blog/ai-didnt-delete-your-database-you-did Comments URL: https://news.ycombinator.com/item?id=48022742 Points: 530 # Comments: 293",
+      "summary": "Article URL: https://idiallo.com/blog/ai-didnt-delete-your-database-you-did Comments URL: https://news.ycombinator.com/item?id=48022742 Points: 534 # Comments: 294",
       "source": "Hacker News",
       "published": "2026-05-05T14:07:50+00:00",
       "link": "https://idiallo.com/blog/ai-didnt-delete-your-database-you-did"
@@ -381,7 +465,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI Product Graveyard",
-      "summary": "Article URL: https://tooldirectory.ai/ai-graveyard Comments URL: https://news.ycombinator.com/item?id=48021968 Points: 250 # Comments: 89",
+      "summary": "Article URL: https://tooldirectory.ai/ai-graveyard Comments URL: https://news.ycombinator.com/item?id=48021968 Points: 251 # Comments: 89",
       "source": "Hacker News",
       "published": "2026-05-05T13:00:47+00:00",
       "link": "https://tooldirectory.ai/ai-graveyard"
@@ -451,7 +535,7 @@ const FEED_DATA = {
     },
     {
       "title": "When everyone has AI and the company still learns nothing",
-      "summary": "Article URL: https://www.robert-glaser.de/when-everyone-has-ai-and-the-company-still-learns-nothing/ Comments URL: https://news.ycombinator.com/item?id=48020063 Points: 372 # Comments: 249",
+      "summary": "Article URL: https://www.robert-glaser.de/when-everyone-has-ai-and-the-company-still-learns-nothing/ Comments URL: https://news.ycombinator.com/item?id=48020063 Points: 373 # Comments: 252",
       "source": "Hacker News",
       "published": "2026-05-05T09:30:22+00:00",
       "link": "https://www.robert-glaser.de/when-everyone-has-ai-and-the-company-still-learns-nothing/"
@@ -465,14 +549,14 @@ const FEED_DATA = {
     },
     {
       "title": "Google Chrome silently installs a 4 GB AI model on your device without consent",
-      "summary": "Article URL: https://www.thatprivacyguy.com/blog/chrome-silent-nano-install/ Comments URL: https://news.ycombinator.com/item?id=48019219 Points: 1556 # Comments: 1037",
+      "summary": "Article URL: https://www.thatprivacyguy.com/blog/chrome-silent-nano-install/ Comments URL: https://news.ycombinator.com/item?id=48019219 Points: 1597 # Comments: 1059",
       "source": "Hacker News",
       "published": "2026-05-05T07:34:55+00:00",
       "link": "https://www.thatprivacyguy.com/blog/chrome-silent-nano-install/"
     },
     {
       "title": "Train Your Own LLM from Scratch",
-      "summary": "Article URL: https://github.com/angelos-p/llm-from-scratch Comments URL: https://news.ycombinator.com/item?id=48017948 Points: 458 # Comments: 50",
+      "summary": "Article URL: https://github.com/angelos-p/llm-from-scratch Comments URL: https://news.ycombinator.com/item?id=48017948 Points: 461 # Comments: 50",
       "source": "Hacker News",
       "published": "2026-05-05T04:09:17+00:00",
       "link": "https://github.com/angelos-p/llm-from-scratch"
@@ -507,7 +591,7 @@ const FEED_DATA = {
     },
     {
       "title": "How OpenAI delivers low-latency voice AI at scale",
-      "summary": "Article URL: https://openai.com/index/delivering-low-latency-voice-ai-at-scale/ Comments URL: https://news.ycombinator.com/item?id=48013919 Points: 498 # Comments: 143",
+      "summary": "Article URL: https://openai.com/index/delivering-low-latency-voice-ai-at-scale/ Comments URL: https://news.ycombinator.com/item?id=48013919 Points: 499 # Comments: 143",
       "source": "Hacker News",
       "published": "2026-05-04T19:42:47+00:00",
       "link": "https://openai.com/index/delivering-low-latency-voice-ai-at-scale/"
@@ -577,7 +661,7 @@ const FEED_DATA = {
     },
     {
       "title": "UK Fuel Price Intelligence – Market analytics from reporting stations",
-      "summary": "Article URL: https://www.fuelinsight.co.uk Comments URL: https://news.ycombinator.com/item?id=48009747 Points: 191 # Comments: 97",
+      "summary": "Article URL: https://www.fuelinsight.co.uk Comments URL: https://news.ycombinator.com/item?id=48009747 Points: 192 # Comments: 98",
       "source": "Hacker News",
       "published": "2026-05-04T15:15:21+00:00",
       "link": "https://www.fuelinsight.co.uk"
@@ -661,7 +745,7 @@ const FEED_DATA = {
     },
     {
       "title": "Wiki Builder: Skill to Build LLM Knowledge Bases",
-      "summary": "Article URL: https://academy.dair.ai/blog/wiki-builder-claude-code-plugin Comments URL: https://news.ycombinator.com/item?id=47997915 Points: 102 # Comments: 12",
+      "summary": "Article URL: https://academy.dair.ai/blog/wiki-builder-claude-code-plugin Comments URL: https://news.ycombinator.com/item?id=47997915 Points: 110 # Comments: 15",
       "source": "Hacker News",
       "published": "2026-05-03T15:28:48+00:00",
       "link": "https://academy.dair.ai/blog/wiki-builder-claude-code-plugin"
@@ -1316,90 +1400,6 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-04-30T12:45:11+00:00",
       "link": "https://the-decoder.com/openai-says-it-hit-its-10-gigawatt-compute-goal-years-ahead-of-schedule/"
-    },
-    {
-      "title": "Anthropic's new benchmark claims Claude can match human experts in bioinformatics",
-      "summary": "With BioMysteryBench, Anthropic wants to show that Claude can solve real bioinformatics problems at an expert level. The results are promising, but come with important caveats.",
-      "source": "The Decoder",
-      "published": "2026-04-30T12:31:31+00:00",
-      "link": "https://the-decoder.com/anthropics-new-benchmark-claims-claude-can-match-human-experts-in-bioinformatics/"
-    },
-    {
-      "title": "Tencent's 440 MB AI model translates 33 languages offline on your phone",
-      "summary": "Tencent has released a compact AI translation model as an open-weight model that it claims outperforms Google Translate and runs completely offline on smartphones. The article Tencent's 440 MB AI model translates 33 languages offline on your phone appeared first on The Decoder.",
-      "source": "The Decoder",
-      "published": "2026-04-30T12:24:34+00:00",
-      "link": "https://the-decoder.com/tencents-440-mb-ai-model-translates-33-languages-offline-on-your-phone/"
-    },
-    {
-      "title": "White House worried about compute limits as it blocks wider access to Anthropic's Mythos",
-      "summary": "The White House has rejected Anthropic's plan to expand access to its AI model Mythos to roughly 70 additional companies, the Wall Street Journal reports.",
-      "source": "The Decoder",
-      "published": "2026-04-30T12:14:46+00:00",
-      "link": "https://the-decoder.com/white-house-worried-about-compute-limits-as-it-blocks-wider-access-to-anthropics-mythos/"
-    },
-    {
-      "title": "FDA bets on AI and cloud monitoring for clinical trials as it looks to rebuild after DOGE layoffs",
-      "summary": "The FDA is launching a pilot program to monitor clinical trials in real time using AI and cloud computing, a move the agency says could dramatically shorten the time it takes to approve new drugs.",
-      "source": "The Decoder",
-      "published": "2026-04-30T12:11:22+00:00",
-      "link": "https://the-decoder.com/fda-bets-on-ai-and-cloud-monitoring-for-clinical-trials-as-it-looks-to-rebuild-after-doge-layoffs/"
-    },
-    {
-      "title": "The Download: the North Pole’s future and humanoid data",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.",
-      "source": "MIT Tech Review",
-      "published": "2026-04-30T12:10:00+00:00",
-      "link": "https://www.technologyreview.com/2026/04/30/1136713/the-download-north-pole-future-humanoid-data/"
-    },
-    {
-      "title": "Meta says its business AI now facilitates 10 million conversations a week",
-      "summary": "Meta said over 8 billion advertisers have used at least one of its GenAI tools",
-      "source": "TechCrunch",
-      "published": "2026-04-30T12:08:45+00:00",
-      "link": "https://techcrunch.com/2026/04/30/meta-says-its-business-ai-now-facilitates-10-million-conversations-a-week/"
-    },
-    {
-      "title": "Anthropic reviewing investor offers that would value the company at over $900 billion",
-      "summary": "Anthropic is reviewing investor offers for a new funding round that would value the AI company at over $900 billion, Bloomberg reports. The article Anthropic reviewing investor offers that would value the company at over $900 billion appeared first on The Decoder.",
-      "source": "The Decoder",
-      "published": "2026-04-30T12:07:24+00:00",
-      "link": "https://the-decoder.com/anthropic-reviewing-investor-offers-that-would-value-the-company-at-over-900-billion/"
-    },
-    {
-      "title": "Softbank plans IPO for new AI and robotics company valued at up to $100 billion",
-      "summary": "Softbank is planning to launch and take public a new AI and robotics company called Roze in the United States, the Financial Times reports. The article Softbank plans IPO for new AI and robotics company valued at up to $100 billion appeared first on The Decoder.",
-      "source": "The Decoder",
-      "published": "2026-04-30T12:05:10+00:00",
-      "link": "https://the-decoder.com/softbank-plans-ipo-for-new-ai-and-robotics-company-valued-at-up-to-100-billion/"
-    },
-    {
-      "title": "Meta lost 20 million users last quarter",
-      "summary": "Meta is planning to pump billions more into AI investments this year, despite noting that millions of users have seemingly started to abandon its platforms.",
-      "source": "The Verge",
-      "published": "2026-04-30T11:38:26+00:00",
-      "link": "https://www.theverge.com/tech/921089/meta-earnings-q1-2026-user-decline-ai-investments"
-    },
-    {
-      "title": "A guide to APIs, MCPs, and MCP Gateways",
-      "summary": "APIs and MCPs are often mentioned in the same breath as ways that systems can exchange information, but they are designed differently and have different purposes.",
-      "source": "AI News",
-      "published": "2026-04-30T11:18:00+00:00",
-      "link": "https://www.artificialintelligence-news.com/news/a-guide-to-apis-and-mcps-and-mcp-gateways/"
-    },
-    {
-      "title": "OpenAI’s new security model is for ‘critical cyber defenders’ only",
-      "summary": "OpenAI is preparing to launch a new frontier cybersecurity model, GPT-5.5-Cyber.",
-      "source": "The Verge",
-      "published": "2026-04-30T11:09:01+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/921073/openai-sam-altman-new-cybersecurity-model-gpt-5-5-cyber"
-    },
-    {
-      "title": "These Men Allegedly Profit Off Teaching People How to Make AI Porn",
-      "summary": "Three Arizona women have filed a lawsuit against a group of men that alleges they used the women’s photos to make AI porn influencers, then offered online courses showing others how to do it.",
-      "source": "Wired",
-      "published": "2026-04-30T10:30:00+00:00",
-      "link": "https://www.wired.com/story/ai-porn-lawsuit-arizona/"
     }
   ]
 };
