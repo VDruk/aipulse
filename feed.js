@@ -1,9 +1,79 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-05-06T10:53:05.459684+00:00",
+  "lastUpdated": "2026-05-06T15:27:33.502560+00:00",
   "items": [
     {
-      "title": "Apple Will Pay $250 Million to Settle Lawsuit Over Siri's AI Features",
-      "summary": "If you bought an iPhone 15 or 16 in the US, you could be set to pocket up to $95 per device as Apple settles class-action lawsuit.",
+      "title": "Apple to pay $250M to settle lawsuit over Siri’s delayed AI features",
+      "summary": "Apple has agreed to pay $250 million to settle a class action lawsuit for overpromising the arrival of Siri's AI features.",
+      "source": "TechCrunch",
+      "published": "2026-05-06T15:12:49+00:00",
+      "link": "https://techcrunch.com/2026/05/06/apple-to-pay-250m-to-settle-lawsuit-over-siris-delayed-ai-features/"
+    },
+    {
+      "title": "Ethos raises $22.75M from a16z for its expert network with voice onboarding",
+      "summary": "Ethos says it is onboarding 35,000 experts per week",
+      "source": "TechCrunch",
+      "published": "2026-05-06T15:00:00+00:00",
+      "link": "https://techcrunch.com/2026/05/06/ethos-raises-22-75m-from-a16z-for-its-expert-network-with-voice-onboarding/"
+    },
+    {
+      "title": "AI boom pushes Samsung to $1T",
+      "summary": "Samsung crossed the $1 trillion valuation mark after shares surged on AI-driven chip demand, making it only the second Asian company after TSMC to hit the milestone.",
+      "source": "TechCrunch",
+      "published": "2026-05-06T13:54:09+00:00",
+      "link": "https://techcrunch.com/2026/05/06/ai-boom-pushes-samsung-to-1t/"
+    },
+    {
+      "title": "ChatGPT ads are now open to small businesses as OpenAI builds a full self-serve ad platform",
+      "summary": "Advertisers in the US can now book ads in ChatGPT on their own. The $50,000 minimum budget is gone.",
+      "source": "The Decoder",
+      "published": "2026-05-06T13:28:38+00:00",
+      "link": "https://the-decoder.com/chatgpt-ads-are-now-open-to-small-businesses-as-openai-builds-a-full-self-serve-ad-platform/"
+    },
+    {
+      "title": "Deepseek nears $45 billion valuation as China's state chip fund leads round",
+      "summary": "Deepseek is close to a funding round that could value the Chinese AI lab at roughly $45 billion, according to the Financial Times. The article Deepseek nears $45 billion valuation as China's state chip fund leads round appeared first on The Decoder.",
+      "source": "The Decoder",
+      "published": "2026-05-06T13:22:12+00:00",
+      "link": "https://the-decoder.com/deepseek-nears-45-billion-valuation-as-chinas-state-chip-fund-leads-round/"
+    },
+    {
+      "title": "Google’s AI search summaries will now quote Reddit",
+      "summary": "Google is updating its AI Search features to make it easier for users to find information from sources they know and trust.",
+      "source": "The Verge",
+      "published": "2026-05-06T13:00:30+00:00",
+      "link": "https://www.theverge.com/tech/924993/google-ai-search-mode-overviews-update-reddit-links"
+    },
+    {
+      "title": "Google and Meta race to build personal AI agents as Anthropic and OpenAI pull further ahead",
+      "summary": "Google and Meta are both internally testing personal AI agents - codenamed \"Remy\" and \"Hatch\" - designed to handle everyday tasks on their own, a direct response to the lead built by Anthropic and OpenAI. Google shut down its browser agent project Mariner to focus on the effort.",
+      "source": "The Decoder",
+      "published": "2026-05-06T12:53:38+00:00",
+      "link": "https://the-decoder.com/google-and-meta-race-to-build-personal-ai-agents-as-anthropic-and-openai-pull-further-ahead/"
+    },
+    {
+      "title": "Anthropic commits $200 billion to Google Cloud over five years",
+      "summary": "According to a report by The Information, Anthropic has committed to spending roughly $200 billion on Google Cloud over the next five years - more than 40 percent of Google's entire cloud backlog.",
+      "source": "The Decoder",
+      "published": "2026-05-06T12:45:12+00:00",
+      "link": "https://the-decoder.com/anthropic-commits-200-billion-to-google-cloud-over-five-years/"
+    },
+    {
+      "title": "US government increases AI suppliers and rethinks Anthropic’s role",
+      "summary": "The US administration has added four more AI companies to its roster of favoured suppliers, with the Pentagon signing agreements with Microsoft, Reflection AI (which has yet to release a publicly-available model), Amazon, and Nvidia that mean their products can be used on...",
+      "source": "AI News",
+      "published": "2026-05-06T12:23:00+00:00",
+      "link": "https://www.artificialintelligence-news.com/news/us-government-increases-ai-in-defence-suppliers-roster-and-rethinks-anthropics-role/"
+    },
+    {
+      "title": "The Download: seafloor science and military chatbots",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.",
+      "source": "MIT Tech Review",
+      "published": "2026-05-06T12:10:00+00:00",
+      "link": "https://www.technologyreview.com/2026/05/06/1136917/the-download-seafloor-science-military-ai-chatbots/"
+    },
+    {
+      "title": "Apple Will Pay $250 Million to Settle Lawsuit Over Siri’s AI Features",
+      "summary": "If you bought an iPhone 15 or 16 in the US, you could be set to pocket up to $95 per device as part of the settlement.",
       "source": "Wired",
       "published": "2026-05-06T10:41:37+00:00",
       "link": "https://www.wired.com/story/apple-will-pay-dollar250-million-to-settle-lawsuit-over-siris-ai-features/"
@@ -31,7 +101,7 @@ const FEED_DATA = {
     },
     {
       "title": "Peter Sarlin’s QuTwo reaches $380M valuation in angel round",
-      "summary": "QyTw0, the Finnish AI lab founded by former AMD Silo AI CEO Peter Sarlin, is now valued at €325 million (approximately $380 million) after raising a €25 million angel round ($29 million).",
+      "summary": "QuTwo, the Finnish AI lab founded by former AMD Silo AI CEO Peter Sarlin, is now valued at €325 million (approximately $380 million) after raising a €25 million angel round ($29 million).",
       "source": "TechCrunch",
       "published": "2026-05-06T06:47:12+00:00",
       "link": "https://techcrunch.com/2026/05/05/peter-sarlins-qutwo-reaches-380m-valuation-in-angel-round/"
@@ -44,8 +114,15 @@ const FEED_DATA = {
       "link": "https://techcrunch.com/2026/05/05/marc-lore-says-that-ai-will-soon-enable-anyone-open-a-restaurant/"
     },
     {
+      "title": "FFmpeg developer calls out OxideAV for AI license laundering of his code",
+      "summary": "Article URL: https://github.com/OxideAV/oxideav-magicyuv/issues/3 Comments URL: https://news.ycombinator.com/item?id=48031185 Points: 68 # Comments: 6",
+      "source": "Hacker News",
+      "published": "2026-05-06T01:50:42+00:00",
+      "link": "https://github.com/OxideAV/oxideav-magicyuv/issues/3"
+    },
+    {
       "title": "Telus Uses AI to Alter Call-Agent Accents",
-      "summary": "Article URL: https://letsdatascience.com/news/telus-uses-ai-to-alter-call-agent-accents-a3868f63 Comments URL: https://news.ycombinator.com/item?id=48031109 Points: 157 # Comments: 125",
+      "summary": "Article URL: https://letsdatascience.com/news/telus-uses-ai-to-alter-call-agent-accents-a3868f63 Comments URL: https://news.ycombinator.com/item?id=48031109 Points: 207 # Comments: 179",
       "source": "Hacker News",
       "published": "2026-05-06T01:38:44+00:00",
       "link": "https://letsdatascience.com/news/telus-uses-ai-to-alter-call-agent-accents-a3868f63"
@@ -73,7 +150,7 @@ const FEED_DATA = {
     },
     {
       "title": "Xbox CEO ends Copilot AI development and overhauls leadership",
-      "summary": "Article URL: https://www.dexerto.com/gaming/xbox-ceo-ends-copilot-ai-development-overhauls-leadership-3361353/ Comments URL: https://news.ycombinator.com/item?id=48029753 Points: 100 # Comments: 31",
+      "summary": "Article URL: https://www.dexerto.com/gaming/xbox-ceo-ends-copilot-ai-development-overhauls-leadership-3361353/ Comments URL: https://news.ycombinator.com/item?id=48029753 Points: 107 # Comments: 37",
       "source": "Hacker News",
       "published": "2026-05-05T22:43:47+00:00",
       "link": "https://www.dexerto.com/gaming/xbox-ceo-ends-copilot-ai-development-overhauls-leadership-3361353/"
@@ -157,7 +234,7 @@ const FEED_DATA = {
     },
     {
       "title": "GPT‑5.5 Instant",
-      "summary": "Article URL: https://openai.com/index/gpt-5-5-instant/ Comments URL: https://news.ycombinator.com/item?id=48025274 Points: 80 # Comments: 18",
+      "summary": "Article URL: https://openai.com/index/gpt-5-5-instant/ Comments URL: https://news.ycombinator.com/item?id=48025274 Points: 83 # Comments: 19",
       "source": "Hacker News",
       "published": "2026-05-05T17:02:23+00:00",
       "link": "https://openai.com/index/gpt-5-5-instant/"
@@ -213,7 +290,7 @@ const FEED_DATA = {
     },
     {
       "title": "Three Inverse Laws of AI",
-      "summary": "Article URL: https://susam.net/inverse-laws-of-robotics.html Comments URL: https://news.ycombinator.com/item?id=48023861 Points: 455 # Comments: 315",
+      "summary": "Article URL: https://susam.net/inverse-laws-of-robotics.html Comments URL: https://news.ycombinator.com/item?id=48023861 Points: 499 # Comments: 328",
       "source": "Hacker News",
       "published": "2026-05-05T15:27:18+00:00",
       "link": "https://susam.net/inverse-laws-of-robotics.html"
@@ -231,6 +308,13 @@ const FEED_DATA = {
       "source": "The Verge",
       "published": "2026-05-05T14:54:00+00:00",
       "link": "https://www.theverge.com/ai-artificial-intelligence/924063/openai-phone-rumors-2027-ming-chi-kuo"
+    },
+    {
+      "title": "SubQ: a sub-quadratic LLM with 12M-token context",
+      "summary": "Article URL: https://subq.ai/introducing-subq Comments URL: https://news.ycombinator.com/item?id=48023079 Points: 55 # Comments: 22",
+      "source": "Hacker News",
+      "published": "2026-05-05T14:37:12+00:00",
+      "link": "https://subq.ai/introducing-subq"
     },
     {
       "title": "Meta will use AI to analyze height and bone structure to identify if users are underage",
@@ -255,7 +339,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI didn't delete your database, you did",
-      "summary": "Article URL: https://idiallo.com/blog/ai-didnt-delete-your-database-you-did Comments URL: https://news.ycombinator.com/item?id=48022742 Points: 523 # Comments: 292",
+      "summary": "Article URL: https://idiallo.com/blog/ai-didnt-delete-your-database-you-did Comments URL: https://news.ycombinator.com/item?id=48022742 Points: 530 # Comments: 293",
       "source": "Hacker News",
       "published": "2026-05-05T14:07:50+00:00",
       "link": "https://idiallo.com/blog/ai-didnt-delete-your-database-you-did"
@@ -297,7 +381,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI Product Graveyard",
-      "summary": "Article URL: https://tooldirectory.ai/ai-graveyard Comments URL: https://news.ycombinator.com/item?id=48021968 Points: 249 # Comments: 89",
+      "summary": "Article URL: https://tooldirectory.ai/ai-graveyard Comments URL: https://news.ycombinator.com/item?id=48021968 Points: 250 # Comments: 89",
       "source": "Hacker News",
       "published": "2026-05-05T13:00:47+00:00",
       "link": "https://tooldirectory.ai/ai-graveyard"
@@ -367,7 +451,7 @@ const FEED_DATA = {
     },
     {
       "title": "When everyone has AI and the company still learns nothing",
-      "summary": "Article URL: https://www.robert-glaser.de/when-everyone-has-ai-and-the-company-still-learns-nothing/ Comments URL: https://news.ycombinator.com/item?id=48020063 Points: 364 # Comments: 242",
+      "summary": "Article URL: https://www.robert-glaser.de/when-everyone-has-ai-and-the-company-still-learns-nothing/ Comments URL: https://news.ycombinator.com/item?id=48020063 Points: 372 # Comments: 249",
       "source": "Hacker News",
       "published": "2026-05-05T09:30:22+00:00",
       "link": "https://www.robert-glaser.de/when-everyone-has-ai-and-the-company-still-learns-nothing/"
@@ -381,14 +465,14 @@ const FEED_DATA = {
     },
     {
       "title": "Google Chrome silently installs a 4 GB AI model on your device without consent",
-      "summary": "Article URL: https://www.thatprivacyguy.com/blog/chrome-silent-nano-install/ Comments URL: https://news.ycombinator.com/item?id=48019219 Points: 1464 # Comments: 985",
+      "summary": "Article URL: https://www.thatprivacyguy.com/blog/chrome-silent-nano-install/ Comments URL: https://news.ycombinator.com/item?id=48019219 Points: 1556 # Comments: 1037",
       "source": "Hacker News",
       "published": "2026-05-05T07:34:55+00:00",
       "link": "https://www.thatprivacyguy.com/blog/chrome-silent-nano-install/"
     },
     {
       "title": "Train Your Own LLM from Scratch",
-      "summary": "Article URL: https://github.com/angelos-p/llm-from-scratch Comments URL: https://news.ycombinator.com/item?id=48017948 Points: 448 # Comments: 50",
+      "summary": "Article URL: https://github.com/angelos-p/llm-from-scratch Comments URL: https://news.ycombinator.com/item?id=48017948 Points: 458 # Comments: 50",
       "source": "Hacker News",
       "published": "2026-05-05T04:09:17+00:00",
       "link": "https://github.com/angelos-p/llm-from-scratch"
@@ -423,7 +507,7 @@ const FEED_DATA = {
     },
     {
       "title": "How OpenAI delivers low-latency voice AI at scale",
-      "summary": "Article URL: https://openai.com/index/delivering-low-latency-voice-ai-at-scale/ Comments URL: https://news.ycombinator.com/item?id=48013919 Points: 497 # Comments: 143",
+      "summary": "Article URL: https://openai.com/index/delivering-low-latency-voice-ai-at-scale/ Comments URL: https://news.ycombinator.com/item?id=48013919 Points: 498 # Comments: 143",
       "source": "Hacker News",
       "published": "2026-05-04T19:42:47+00:00",
       "link": "https://openai.com/index/delivering-low-latency-voice-ai-at-scale/"
@@ -493,7 +577,7 @@ const FEED_DATA = {
     },
     {
       "title": "UK Fuel Price Intelligence – Market analytics from reporting stations",
-      "summary": "Article URL: https://www.fuelinsight.co.uk Comments URL: https://news.ycombinator.com/item?id=48009747 Points: 190 # Comments: 96",
+      "summary": "Article URL: https://www.fuelinsight.co.uk Comments URL: https://news.ycombinator.com/item?id=48009747 Points: 191 # Comments: 97",
       "source": "Hacker News",
       "published": "2026-05-04T15:15:21+00:00",
       "link": "https://www.fuelinsight.co.uk"
@@ -570,14 +654,14 @@ const FEED_DATA = {
     },
     {
       "title": "The Oscars just banned AI from winning acting and writing awards",
-      "summary": "Article URL: https://gizmodo.com/the-oscars-just-banned-ai-from-winning-acting-and-writing-awards-2000753740 Comments URL: https://news.ycombinator.com/item?id=47999346 Points: 76 # Comments: 66",
+      "summary": "Article URL: https://gizmodo.com/the-oscars-just-banned-ai-from-winning-acting-and-writing-awards-2000753740 Comments URL: https://news.ycombinator.com/item?id=47999346 Points: 76 # Comments: 67",
       "source": "Hacker News",
       "published": "2026-05-03T17:34:15+00:00",
       "link": "https://gizmodo.com/the-oscars-just-banned-ai-from-winning-acting-and-writing-awards-2000753740"
     },
     {
       "title": "Wiki Builder: Skill to Build LLM Knowledge Bases",
-      "summary": "Article URL: https://academy.dair.ai/blog/wiki-builder-claude-code-plugin Comments URL: https://news.ycombinator.com/item?id=47997915 Points: 62 # Comments: 7",
+      "summary": "Article URL: https://academy.dair.ai/blog/wiki-builder-claude-code-plugin Comments URL: https://news.ycombinator.com/item?id=47997915 Points: 102 # Comments: 12",
       "source": "Hacker News",
       "published": "2026-05-03T15:28:48+00:00",
       "link": "https://academy.dair.ai/blog/wiki-builder-claude-code-plugin"
@@ -1316,90 +1400,6 @@ const FEED_DATA = {
       "source": "Wired",
       "published": "2026-04-30T10:30:00+00:00",
       "link": "https://www.wired.com/story/ai-porn-lawsuit-arizona/"
-    },
-    {
-      "title": "AI agent governance takes focus as regulators flag control gaps",
-      "summary": "Australia’s financial regulator has warned financial firms that AI agent governance and assurance practices are poorly governed. The warning comes as banks and superannuation trustees expand AI in internal and customer-facing operations.",
-      "source": "AI News",
-      "published": "2026-04-30T10:00:00+00:00",
-      "link": "https://www.artificialintelligence-news.com/news/ai-agent-governance-control-gaps/"
-    },
-    {
-      "title": "Big Tech just proved AI infrastructure spending works. Then it raised the bill anyway",
-      "summary": "Every cloud beat. Every capex forecast rose.",
-      "source": "AI News",
-      "published": "2026-04-30T10:00:00+00:00",
-      "link": "https://www.artificialintelligence-news.com/news/big-tech-ai-infrastructure-spending-q1-2026-results/"
-    },
-    {
-      "title": "Reid Hoffman Thinks Doctors Should Ask AI for a Second Opinion",
-      "summary": "The LinkedIn cofounder now has an AI drug discovery startup—and thinks not asking chatbots for medical advice is “bordering on committing malpractice.”",
-      "source": "Wired",
-      "published": "2026-04-30T09:00:00+00:00",
-      "link": "https://www.wired.com/story/reid-hoffman-ai-doctor-second-opinion-wired-health/"
-    },
-    {
-      "title": "DataCenter.FM – background noise app featuring the sound of the AI bubble",
-      "summary": "Article URL: https://datacenter.fm/ Comments URL: https://news.ycombinator.com/item?id=47959513 Points: 148 # Comments: 28",
-      "source": "Hacker News",
-      "published": "2026-04-30T07:52:12+00:00",
-      "link": "https://datacenter.fm/"
-    },
-    {
-      "title": "SoftBank is creating a robotics company that builds data centers — and already eyeing a $100B IPO",
-      "summary": "You need infrastructure to build AI and robots, but apparently you also need AI and robots to build infrastructure.",
-      "source": "TechCrunch",
-      "published": "2026-04-30T03:58:22+00:00",
-      "link": "https://techcrunch.com/2026/04/29/softbank-is-creating-a-robotics-company-that-builds-data-centers-and-already-eyeing-a-100b-ipo/"
-    },
-    {
-      "title": "The Zig project's rationale for their anti-AI contribution policy",
-      "summary": "Article URL: https://simonwillison.net/2026/Apr/30/zig-anti-ai/ Comments URL: https://news.ycombinator.com/item?id=47957294 Points: 677 # Comments: 460",
-      "source": "Hacker News",
-      "published": "2026-04-30T02:15:47+00:00",
-      "link": "https://simonwillison.net/2026/Apr/30/zig-anti-ai/"
-    },
-    {
-      "title": "The Zig project's rationale for their firm anti-AI contribution policy",
-      "summary": "Article URL: https://simonwillison.net/2026/Apr/30/zig-anti-ai/ Comments URL: https://news.ycombinator.com/item?id=47957294 Points: 169 # Comments: 75",
-      "source": "Hacker News",
-      "published": "2026-04-30T02:15:47+00:00",
-      "link": "https://simonwillison.net/2026/Apr/30/zig-anti-ai/"
-    },
-    {
-      "title": "Claude.ai and API unavailable [fixed]",
-      "summary": "https://status.claude.com/ Comments URL: https://news.ycombinator.com/item?id=47956895 Points: 118 # Comments: 121",
-      "source": "Hacker News",
-      "published": "2026-04-30T01:21:03+00:00",
-      "link": "https://status.claude.com/incidents/2gf1jpyty350"
-    },
-    {
-      "title": "Mike: open-source legal AI",
-      "summary": "Article URL: https://mikeoss.com/ Comments URL: https://news.ycombinator.com/item?id=47956739 Points: 204 # Comments: 108",
-      "source": "Hacker News",
-      "published": "2026-04-30T00:56:23+00:00",
-      "link": "https://mikeoss.com/"
-    },
-    {
-      "title": "Amazon’s cloud business is surging — and so is its capital spending",
-      "summary": "The e-commerce giant is making more money than expected from AWS but it's also spending a lot, and will continue to do so in the near term, its chief executive said.",
-      "source": "TechCrunch",
-      "published": "2026-04-30T00:14:23+00:00",
-      "link": "https://techcrunch.com/2026/04/29/amazons-cloud-business-is-surging-and-so-is-its-capital-spending/"
-    },
-    {
-      "title": "Sources: Anthropic could raise a new $50B round at a valuation of $900B",
-      "summary": "The maker of Claude has received multiple preemptive offers at valuations in the $850 billion to $900 billion range, according to sources familiar with the matter.",
-      "source": "TechCrunch",
-      "published": "2026-04-30T00:07:15+00:00",
-      "link": "https://techcrunch.com/2026/04/29/sources-anthropic-could-raise-a-new-50b-round-at-a-valuation-of-900b/"
-    },
-    {
-      "title": "On the stand, Elon Musk can’t escape his own tweets",
-      "summary": "Elon Musk took the stand for the second day for his attempt to legally dismantle OpenAI.",
-      "source": "TechCrunch",
-      "published": "2026-04-29T23:58:36+00:00",
-      "link": "https://techcrunch.com/2026/04/29/on-the-stand-elon-musk-cant-escape-his-own-tweets/"
     }
   ]
 };
