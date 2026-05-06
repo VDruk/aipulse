@@ -1,6 +1,41 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-05-05T21:55:53.295624+00:00",
+  "lastUpdated": "2026-05-06T04:33:07.360834+00:00",
   "items": [
+    {
+      "title": "Telus Uses AI to Alter Call-Agent Accents",
+      "summary": "Article URL: https://letsdatascience.com/news/telus-uses-ai-to-alter-call-agent-accents-a3868f63 Comments URL: https://news.ycombinator.com/item?id=48031109 Points: 67 # Comments: 32",
+      "source": "Hacker News",
+      "published": "2026-05-06T01:38:44+00:00",
+      "link": "https://letsdatascience.com/news/telus-uses-ai-to-alter-call-agent-accents-a3868f63"
+    },
+    {
+      "title": "SAP bets $1.16B on 18-month-old German AI lab and says yes to NemoClaw",
+      "summary": "SAP plans to buy German AI startup Prior Labs and invest heavily in it. It is also prohibiting customers' agents use to a select few like Nvidia's NemoClaw.",
+      "source": "TechCrunch",
+      "published": "2026-05-05T23:50:10+00:00",
+      "link": "https://techcrunch.com/2026/05/05/sap-bets-1-16b-on-18-month-old-german-ai-lab-and-says-yes-to-nemoclaw/"
+    },
+    {
+      "title": "‘I Actually Thought He Was Going to Hit Me,’ OpenAI’s Greg Brockman Says of Elon Musk",
+      "summary": "OpenAI’s president wrapped his testimony on Tuesday by revealing a fiery meeting with Musk in 2017 and subsequent efforts to remove several board members.",
+      "source": "Wired",
+      "published": "2026-05-05T23:24:58+00:00",
+      "link": "https://www.wired.com/story/greg-brockman-testifies-elon-musk-fight-trial/"
+    },
+    {
+      "title": "Altara secures $7M to bridge the data gap that’s slowing down physical sciences",
+      "summary": "Altara’s AI aims to diagnose failures and help speed up R&D by unifying data siloed across spreadsheets and legacy systems.",
+      "source": "TechCrunch",
+      "published": "2026-05-05T22:57:41+00:00",
+      "link": "https://techcrunch.com/2026/05/05/altara-secures-7m-to-bridge-the-data-gap-thats-slowing-down-physical-sciences/"
+    },
+    {
+      "title": "Xbox CEO ends Copilot AI development and overhauls leadership",
+      "summary": "Article URL: https://www.dexerto.com/gaming/xbox-ceo-ends-copilot-ai-development-overhauls-leadership-3361353/ Comments URL: https://news.ycombinator.com/item?id=48029753 Points: 74 # Comments: 14",
+      "source": "Hacker News",
+      "published": "2026-05-05T22:43:47+00:00",
+      "link": "https://www.dexerto.com/gaming/xbox-ceo-ends-copilot-ai-development-overhauls-leadership-3361353/"
+    },
     {
       "title": "Google Home’s Gemini AI can handle more complicated requests",
       "summary": "Google Home users can now ask Gemini to complete more complex, multi-step tasks and combine multiple tasks in a single command. Google has updated Gemini for Home to Gemini 3.1, which it says will improve the smart home assistant's ability to interpret and act on requests.",
@@ -80,7 +115,7 @@ const FEED_DATA = {
     },
     {
       "title": "GPT‑5.5 Instant",
-      "summary": "Article URL: https://openai.com/index/gpt-5-5-instant/ Comments URL: https://news.ycombinator.com/item?id=48025274 Points: 68 # Comments: 15",
+      "summary": "Article URL: https://openai.com/index/gpt-5-5-instant/ Comments URL: https://news.ycombinator.com/item?id=48025274 Points: 75 # Comments: 17",
       "source": "Hacker News",
       "published": "2026-05-05T17:02:23+00:00",
       "link": "https://openai.com/index/gpt-5-5-instant/"
@@ -136,7 +171,7 @@ const FEED_DATA = {
     },
     {
       "title": "Three Inverse Laws of AI",
-      "summary": "Article URL: https://susam.net/inverse-laws-of-robotics.html Comments URL: https://news.ycombinator.com/item?id=48023861 Points: 307 # Comments: 202",
+      "summary": "Article URL: https://susam.net/inverse-laws-of-robotics.html Comments URL: https://news.ycombinator.com/item?id=48023861 Points: 391 # Comments: 265",
       "source": "Hacker News",
       "published": "2026-05-05T15:27:18+00:00",
       "link": "https://susam.net/inverse-laws-of-robotics.html"
@@ -178,7 +213,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI didn't delete your database, you did",
-      "summary": "Article URL: https://idiallo.com/blog/ai-didnt-delete-your-database-you-did Comments URL: https://news.ycombinator.com/item?id=48022742 Points: 474 # Comments: 256",
+      "summary": "Article URL: https://idiallo.com/blog/ai-didnt-delete-your-database-you-did Comments URL: https://news.ycombinator.com/item?id=48022742 Points: 505 # Comments: 282",
       "source": "Hacker News",
       "published": "2026-05-05T14:07:50+00:00",
       "link": "https://idiallo.com/blog/ai-didnt-delete-your-database-you-did"
@@ -220,7 +255,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI Product Graveyard",
-      "summary": "Article URL: https://tooldirectory.ai/ai-graveyard Comments URL: https://news.ycombinator.com/item?id=48021968 Points: 238 # Comments: 84",
+      "summary": "Article URL: https://tooldirectory.ai/ai-graveyard Comments URL: https://news.ycombinator.com/item?id=48021968 Points: 245 # Comments: 88",
       "source": "Hacker News",
       "published": "2026-05-05T13:00:47+00:00",
       "link": "https://tooldirectory.ai/ai-graveyard"
@@ -290,7 +325,7 @@ const FEED_DATA = {
     },
     {
       "title": "When everyone has AI and the company still learns nothing",
-      "summary": "Article URL: https://www.robert-glaser.de/when-everyone-has-ai-and-the-company-still-learns-nothing/ Comments URL: https://news.ycombinator.com/item?id=48020063 Points: 277 # Comments: 196",
+      "summary": "Article URL: https://www.robert-glaser.de/when-everyone-has-ai-and-the-company-still-learns-nothing/ Comments URL: https://news.ycombinator.com/item?id=48020063 Points: 334 # Comments: 225",
       "source": "Hacker News",
       "published": "2026-05-05T09:30:22+00:00",
       "link": "https://www.robert-glaser.de/when-everyone-has-ai-and-the-company-still-learns-nothing/"
@@ -304,14 +339,14 @@ const FEED_DATA = {
     },
     {
       "title": "Google Chrome silently installs a 4 GB AI model on your device without consent",
-      "summary": "Article URL: https://www.thatprivacyguy.com/blog/chrome-silent-nano-install/ Comments URL: https://news.ycombinator.com/item?id=48019219 Points: 1091 # Comments: 752",
+      "summary": "Article URL: https://www.thatprivacyguy.com/blog/chrome-silent-nano-install/ Comments URL: https://news.ycombinator.com/item?id=48019219 Points: 1319 # Comments: 885",
       "source": "Hacker News",
       "published": "2026-05-05T07:34:55+00:00",
       "link": "https://www.thatprivacyguy.com/blog/chrome-silent-nano-install/"
     },
     {
       "title": "Train Your Own LLM from Scratch",
-      "summary": "Article URL: https://github.com/angelos-p/llm-from-scratch Comments URL: https://news.ycombinator.com/item?id=48017948 Points: 411 # Comments: 49",
+      "summary": "Article URL: https://github.com/angelos-p/llm-from-scratch Comments URL: https://news.ycombinator.com/item?id=48017948 Points: 430 # Comments: 49",
       "source": "Hacker News",
       "published": "2026-05-05T04:09:17+00:00",
       "link": "https://github.com/angelos-p/llm-from-scratch"
@@ -346,7 +381,7 @@ const FEED_DATA = {
     },
     {
       "title": "How OpenAI delivers low-latency voice AI at scale",
-      "summary": "Article URL: https://openai.com/index/delivering-low-latency-voice-ai-at-scale/ Comments URL: https://news.ycombinator.com/item?id=48013919 Points: 492 # Comments: 141",
+      "summary": "Article URL: https://openai.com/index/delivering-low-latency-voice-ai-at-scale/ Comments URL: https://news.ycombinator.com/item?id=48013919 Points: 495 # Comments: 143",
       "source": "Hacker News",
       "published": "2026-05-04T19:42:47+00:00",
       "link": "https://openai.com/index/delivering-low-latency-voice-ai-at-scale/"
@@ -395,7 +430,7 @@ const FEED_DATA = {
     },
     {
       "title": "OpenAI, Google, and Microsoft Back Bill to Fund 'AI Literacy' in Schools",
-      "summary": "https://archive.ph/gLnMk Comments URL: https://news.ycombinator.com/item?id=48010774 Points: 118 # Comments: 110",
+      "summary": "https://archive.ph/gLnMk Comments URL: https://news.ycombinator.com/item?id=48010774 Points: 118 # Comments: 113",
       "source": "Hacker News",
       "published": "2026-05-04T16:21:38+00:00",
       "link": "https://www.404media.co/literacy-in-future-technologies-artificial-intelligence-act-adam-schiff-mike-rounds/"
@@ -416,7 +451,7 @@ const FEED_DATA = {
     },
     {
       "title": "UK Fuel Price Intelligence – Market analytics from reporting stations",
-      "summary": "Article URL: https://www.fuelinsight.co.uk Comments URL: https://news.ycombinator.com/item?id=48009747 Points: 189 # Comments: 95",
+      "summary": "Article URL: https://www.fuelinsight.co.uk Comments URL: https://news.ycombinator.com/item?id=48009747 Points: 190 # Comments: 96",
       "source": "Hacker News",
       "published": "2026-05-04T15:15:21+00:00",
       "link": "https://www.fuelinsight.co.uk"
@@ -436,18 +471,18 @@ const FEED_DATA = {
       "link": "https://the-decoder.com/building-ai-data-centers-is-becoming-a-stress-test-for-banks/"
     },
     {
-      "title": "DoorDash adds AI tools to speed up merchant onboarding, edit photos of dishes",
-      "summary": "DoorDash on Monday added new AI-powered tools that let merchants speed up onboarding, edit photos to make dishes look better, and create new websites from existing content.",
-      "source": "TechCrunch",
-      "published": "2026-05-04T13:00:00+00:00",
-      "link": "https://techcrunch.com/2026/05/04/doordash-adds-ai-tools-to-speed-up-merchant-onboarding-edit-photos-of-dishes/"
-    },
-    {
       "title": "Tailoring AI solutions for health care needs",
       "summary": "The AI market is full of big promises of grand transformation. Health care is a prime target for those promises, beset as it is by financial pressures, labor shortages, and the growing burden of caring for an aging population.",
       "source": "MIT Tech Review",
       "published": "2026-05-04T13:00:00+00:00",
       "link": "https://www.technologyreview.com/2026/05/04/1134425/tailoring-ai-solutions-for-health-care-needs/"
+    },
+    {
+      "title": "DoorDash adds AI tools to speed up merchant onboarding, edit photos of dishes",
+      "summary": "DoorDash on Monday added new AI-powered tools that let merchants speed up onboarding, edit photos to make dishes look better, and create new websites from existing content.",
+      "source": "TechCrunch",
+      "published": "2026-05-04T13:00:00+00:00",
+      "link": "https://techcrunch.com/2026/05/04/doordash-adds-ai-tools-to-speed-up-merchant-onboarding-edit-photos-of-dishes/"
     },
     {
       "title": "Cerebras targets $40 billion valuation in second IPO attempt",
@@ -549,7 +584,7 @@ const FEED_DATA = {
     },
     {
       "title": "Specsmaxxing – On overcoming AI psychosis, and why I write specs in YAML",
-      "summary": "Article URL: https://acai.sh/blog/specsmaxxing Comments URL: https://news.ycombinator.com/item?id=47994012 Points: 282 # Comments: 294",
+      "summary": "Article URL: https://acai.sh/blog/specsmaxxing Comments URL: https://news.ycombinator.com/item?id=47994012 Points: 284 # Comments: 294",
       "source": "Hacker News",
       "published": "2026-05-03T06:33:38+00:00",
       "link": "https://acai.sh/blog/specsmaxxing"
@@ -1365,41 +1400,6 @@ const FEED_DATA = {
       "source": "Wired",
       "published": "2026-04-29T20:36:53+00:00",
       "link": "https://www.wired.com/story/taylor-swift-rihanna-tiktok-deepfake-ads/"
-    },
-    {
-      "title": "Google Search queries hit an ‘all time high’ last quarter",
-      "summary": "Google Search queries hit an \"all time high\" in the first quarter of 2026, according to a statement from CEO Sundar Pichai published as part of Alphabet's earnings on Wednesday. \"Our AI investments and full stack approach are lighting up every part of the business,\" Pichai says.",
-      "source": "The Verge",
-      "published": "2026-04-29T20:28:11+00:00",
-      "link": "https://www.theverge.com/tech/920815/google-alphabet-q1-2026-earnings-sundar-pichai"
-    },
-    {
-      "title": "Your CEO is suffering from AI psychosis",
-      "summary": "Article URL: https://handyai.substack.com/p/your-ceo-is-suffering-from-ai-psychosis Comments URL: https://news.ycombinator.com/item?id=47953484 Points: 108 # Comments: 31",
-      "source": "Hacker News",
-      "published": "2026-04-29T19:46:18+00:00",
-      "link": "https://handyai.substack.com/p/your-ceo-is-suffering-from-ai-psychosis"
-    },
-    {
-      "title": "\"People who don't use AI will be left behind\"",
-      "summary": "Article URL: https://migrainebrain.bearblog.dev/people-who-dont-use-ai-will-be-left-behind/ Comments URL: https://news.ycombinator.com/item?id=47953011 Points: 169 # Comments: 264",
-      "source": "Hacker News",
-      "published": "2026-04-29T19:15:52+00:00",
-      "link": "https://migrainebrain.bearblog.dev/people-who-dont-use-ai-will-be-left-behind/"
-    },
-    {
-      "title": "Is AI video just a prequel? Runway’s CEO thinks world models are next",
-      "summary": "AI-generated video has gone from novelty to creative tool almost overnight, and Runway has a front row seat to the shift.",
-      "source": "TechCrunch",
-      "published": "2026-04-29T18:59:44+00:00",
-      "link": "https://techcrunch.com/podcast/equity-podcast-runway-ceo-cristobal-valenzuela-ai-video-world-models/"
-    },
-    {
-      "title": "Parallel Web Systems hits $2B valuation five months after its last big raise",
-      "summary": "The AI agent-tool startup founded by former Twitter CEO Parag Agrawal has raised $100 million, led by Sequoia, months after raising a previous $100 million.",
-      "source": "TechCrunch",
-      "published": "2026-04-29T18:33:05+00:00",
-      "link": "https://techcrunch.com/2026/04/29/parallel-web-systems-hits-2b-valuation-five-months-after-its-last-big-raise/"
     }
   ]
 };
