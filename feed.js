@@ -1,6 +1,97 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-05-07T18:19:33.550312+00:00",
+  "lastUpdated": "2026-05-07T21:48:50.809868+00:00",
   "items": [
+    {
+      "title": "Trump Pivots on AI Regulation, Worker Ousted by DOGE Runs for Office, and Hantavirus Explained",
+      "summary": "Today on Uncanny Valley, we’re diving into recent reports that the Trump administration is considering an executive order that would establish some sort of federal oversight over new AI models.",
+      "source": "Wired",
+      "published": "2026-05-07T21:37:20+00:00",
+      "link": "https://www.wired.com/story/uncanny-valley-podcast-trump-pivots-ai-regulation-worker-ousted-by-doge-runs-for-office-hantavirus-explained/"
+    },
+    {
+      "title": "Voi founders’ new AI startup Pit has become the latest rising star out of Stockholm",
+      "summary": "AI startup Pit is led by the cofounders of European scooter giant Voi and backed by a16z, which is leading the startup’s $16 million seed round.",
+      "source": "TechCrunch",
+      "published": "2026-05-07T21:02:11+00:00",
+      "link": "https://techcrunch.com/2026/05/07/voi-founders-new-ai-startup-pit-has-become-the-latest-rising-star-out-of-stockholm/"
+    },
+    {
+      "title": "How to Disable Google's Gemini in Chrome",
+      "summary": "Chrome users were caught off guard by a 4-GB Google AI model baked into Chrome, sparking privacy concerns. The good news: You can easily uninstall it.",
+      "source": "Wired",
+      "published": "2026-05-07T20:31:57+00:00",
+      "link": "https://www.wired.com/story/you-can-disable-gemini-in-chrome-if-its-freaking-you-out/"
+    },
+    {
+      "title": "OpenAI introduces new ‘Trusted Contact’ safeguard for cases of possible self-harm",
+      "summary": "The company is expanding its efforts to protect ChatGPT users in cases where conversations may turn to self-harm.",
+      "source": "TechCrunch",
+      "published": "2026-05-07T20:20:20+00:00",
+      "link": "https://techcrunch.com/2026/05/07/openai-introduces-new-trusted-contact-safeguard-for-cases-of-possible-self-harm/"
+    },
+    {
+      "title": "Perplexity’s Personal Computer is now available to everyone on Mac",
+      "summary": "Perplexity's Personal Computer brings AI agents to your Mac, and is now open to everyone.",
+      "source": "TechCrunch",
+      "published": "2026-05-07T19:57:59+00:00",
+      "link": "https://techcrunch.com/2026/05/07/perplexitys-personal-computer-is-now-available-everyone-on-mac/"
+    },
+    {
+      "title": "Mira Murati’s deposition pulled back the curtain on Sam Altman’s ouster",
+      "summary": "The week leading up to Thanksgiving 2023 was the AI industry's biggest soap opera moment. OpenAI CEO Sam Altman was abruptly ousted from his role at the ChatGPT-maker.",
+      "source": "The Verge",
+      "published": "2026-05-07T19:55:22+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/926383/mira-murati-sam-altman-musk-trial-ouster"
+    },
+    {
+      "title": "Apple’s AirPods with cameras for AI are apparently close to production",
+      "summary": "Apple's rumored AirPods with cameras are nearing a stage where the company will test early mass production, Bloomberg's Mark Gurman reports.",
+      "source": "The Verge",
+      "published": "2026-05-07T19:39:22+00:00",
+      "link": "https://www.theverge.com/tech/926376/apple-airpods-cameras-ai-production"
+    },
+    {
+      "title": "SpaceX has a $55 billion plan to build AI chips in Texas",
+      "summary": "Elon Musk's plans to get into the AI chip manufacturing business are going to be costly. As the New York Times and CNBC report, SpaceX is planning to invest at least $55 billion into its \"Terafab\" chip plant in Austin, Texas.",
+      "source": "The Verge",
+      "published": "2026-05-07T19:26:16+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/926356/spacex-terafab-plant-cost-ai-chips"
+    },
+    {
+      "title": "Elon Musk’s lawsuit is putting OpenAI’s safety record under the microscope",
+      "summary": "Elon Musk's legal effort to dismantle OpenAI may hinge on how its for-profit subsidiary enhances or detracts from the frontier lab's founding mission of ensuring that humanity benefits from artificial general intelligence.",
+      "source": "TechCrunch",
+      "published": "2026-05-07T19:21:21+00:00",
+      "link": "https://techcrunch.com/2026/05/07/elon-musks-lawsuit-is-putting-openais-safety-record-under-the-microscope/"
+    },
+    {
+      "title": "Mozilla says 271 vulnerabilities found by Mythos have \"almost no false positives\"",
+      "summary": "The developer of Firefox says it has \"completely bought in\" on AI-assisted bug discovery.",
+      "source": "Ars Technica",
+      "published": "2026-05-07T19:18:16+00:00",
+      "link": "https://arstechnica.com/information-technology/2026/05/mozilla-says-271-vulnerabilities-found-by-mythos-have-almost-no-false-positives/"
+    },
+    {
+      "title": "Bumble is getting rid of the swipe, CEO says",
+      "summary": "Based on Whitney Wolfe Herd's past comments about Bumble's new direction, the company is expected to lean into AI -- Bumble is even working on an AI dating assistant called Bee, and the CEO has made many comments over the years about how AI will be \"a supercharger to love and...",
+      "source": "TechCrunch",
+      "published": "2026-05-07T19:06:17+00:00",
+      "link": "https://techcrunch.com/2026/05/07/bumble-is-getting-rid-of-the-swipe-ceo-says/"
+    },
+    {
+      "title": "AI slop is killing online communities",
+      "summary": "Article URL: https://rmoff.net/2026/05/06/ai-slop-is-killing-online-communities/ Comments URL: https://news.ycombinator.com/item?id=48053203 Points: 243 # Comments: 233",
+      "source": "Hacker News",
+      "published": "2026-05-07T18:46:25+00:00",
+      "link": "https://rmoff.net/2026/05/06/ai-slop-is-killing-online-communities/"
+    },
+    {
+      "title": "OpenAI's new voice model brings GPT-5-level reasoning to real-time conversations",
+      "summary": "OpenAI is shipping three new voice models—GPT-Realtime-2, GPT-Realtime-Translate, and GPT-Realtime-Whisper—that can reason in real time, translate across 70+ languages, and transcribe live speech. GPT-Realtime-2 brings reasoning that OpenAI says matches GPT-5.",
+      "source": "The Decoder",
+      "published": "2026-05-07T18:44:08+00:00",
+      "link": "https://the-decoder.com/openais-new-voice-model-brings-gpt-5-level-reasoning-to-real-time-conversations/"
+    },
     {
       "title": "ChatGPT’s ‘Trusted Contact’ will alert loved ones of safety concerns",
       "summary": "OpenAI is launching an optional safety feature for ChatGPT that allows adult users to assign an emergency contact for mental health and safety concerns.",
@@ -23,8 +114,8 @@ const FEED_DATA = {
       "link": "https://the-decoder.com/europes-answer-to-ai-regulation-complexity-is-to-just-delay-most-of-it/"
     },
     {
-      "title": "ChatGPT Has 'Goblin' Mania in the US. In China It Will 'Catch You Steadily'",
-      "summary": "OpenAI's chatbot has some weird linguistic tics in Chinese that are driving users crazy.",
+      "title": "ChatGPT Has ‘Goblin’ Mania in the US. In China It Will ‘Catch You Steadily’",
+      "summary": "OpenAI’s chatbot has some weird linguistic tics in Chinese that are driving users crazy.",
       "source": "Wired",
       "published": "2026-05-07T16:25:48+00:00",
       "link": "https://www.wired.com/story/chatgpt-chinese-catch-you-steadily-sycophancy/"
@@ -150,7 +241,7 @@ const FEED_DATA = {
     },
     {
       "title": "Making LLM Training Faster with Unsloth and NVIDIA",
-      "summary": "Article URL: https://unsloth.ai/blog/nvidia-collab Comments URL: https://news.ycombinator.com/item?id=48046397 Points: 101 # Comments: 19",
+      "summary": "Article URL: https://unsloth.ai/blog/nvidia-collab Comments URL: https://news.ycombinator.com/item?id=48046397 Points: 106 # Comments: 20",
       "source": "Hacker News",
       "published": "2026-05-07T07:15:11+00:00",
       "link": "https://unsloth.ai/blog/nvidia-collab"
@@ -394,18 +485,18 @@ const FEED_DATA = {
       "link": "https://www.theverge.com/tech/924933/google-chrome-4gb-gemini-nano-ai-features"
     },
     {
-      "title": "Hasan Piker, Self-Described ‘Ayatollah of Woke,’ Wants AI to Die",
-      "summary": "The far-left Twitch streamer says AI is rotting our brains. He’s also addicted to Twitter and listens to at least eight podcasts.",
-      "source": "Wired",
-      "published": "2026-05-06T10:00:00+00:00",
-      "link": "https://www.wired.com/story/hasan-piker-user-behavior/"
-    },
-    {
       "title": "Google tests Remy AI agent for Gemini as focus turns to user control",
       "summary": "Google is testing Remy, a new AI personal agent for Gemini, according to Business Insider. The tool is designed to take actions for users in work and daily tasks.",
       "source": "AI News",
       "published": "2026-05-06T10:00:00+00:00",
       "link": "https://www.artificialintelligence-news.com/news/google-remy-ai-agent-gemini-user-control/"
+    },
+    {
+      "title": "Hasan Piker, Self-Described ‘Ayatollah of Woke,’ Wants AI to Die",
+      "summary": "The far-left Twitch streamer says AI is rotting our brains. He’s also addicted to Twitter and listens to at least eight podcasts.",
+      "source": "Wired",
+      "published": "2026-05-06T10:00:00+00:00",
+      "link": "https://www.wired.com/story/hasan-piker-user-behavior/"
     },
     {
       "title": "Peter Sarlin’s QuTwo reaches $380M valuation in angel round",
@@ -598,7 +689,7 @@ const FEED_DATA = {
     },
     {
       "title": "Three Inverse Laws of AI",
-      "summary": "Article URL: https://susam.net/inverse-laws-of-robotics.html Comments URL: https://news.ycombinator.com/item?id=48023861 Points: 537 # Comments: 349",
+      "summary": "Article URL: https://susam.net/inverse-laws-of-robotics.html Comments URL: https://news.ycombinator.com/item?id=48023861 Points: 538 # Comments: 349",
       "source": "Hacker News",
       "published": "2026-05-05T15:27:18+00:00",
       "link": "https://susam.net/inverse-laws-of-robotics.html"
@@ -619,7 +710,7 @@ const FEED_DATA = {
     },
     {
       "title": "SubQ: a sub-quadratic LLM with 12M-token context",
-      "summary": "Article URL: https://subq.ai/introducing-subq Comments URL: https://news.ycombinator.com/item?id=48023079 Points: 71 # Comments: 24",
+      "summary": "Article URL: https://subq.ai/introducing-subq Comments URL: https://news.ycombinator.com/item?id=48023079 Points: 72 # Comments: 24",
       "source": "Hacker News",
       "published": "2026-05-05T14:37:12+00:00",
       "link": "https://subq.ai/introducing-subq"
@@ -647,7 +738,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI didn't delete your database, you did",
-      "summary": "Article URL: https://idiallo.com/blog/ai-didnt-delete-your-database-you-did Comments URL: https://news.ycombinator.com/item?id=48022742 Points: 539 # Comments: 299",
+      "summary": "Article URL: https://idiallo.com/blog/ai-didnt-delete-your-database-you-did Comments URL: https://news.ycombinator.com/item?id=48022742 Points: 539 # Comments: 300",
       "source": "Hacker News",
       "published": "2026-05-05T14:07:50+00:00",
       "link": "https://idiallo.com/blog/ai-didnt-delete-your-database-you-did"
@@ -759,7 +850,7 @@ const FEED_DATA = {
     },
     {
       "title": "When everyone has AI and the company still learns nothing",
-      "summary": "Article URL: https://www.robert-glaser.de/when-everyone-has-ai-and-the-company-still-learns-nothing/ Comments URL: https://news.ycombinator.com/item?id=48020063 Points: 383 # Comments: 269",
+      "summary": "Article URL: https://www.robert-glaser.de/when-everyone-has-ai-and-the-company-still-learns-nothing/ Comments URL: https://news.ycombinator.com/item?id=48020063 Points: 384 # Comments: 269",
       "source": "Hacker News",
       "published": "2026-05-05T09:30:22+00:00",
       "link": "https://www.robert-glaser.de/when-everyone-has-ai-and-the-company-still-learns-nothing/"
@@ -773,14 +864,14 @@ const FEED_DATA = {
     },
     {
       "title": "Google Chrome silently installs a 4 GB AI model on your device without consent",
-      "summary": "Article URL: https://www.thatprivacyguy.com/blog/chrome-silent-nano-install/ Comments URL: https://news.ycombinator.com/item?id=48019219 Points: 1697 # Comments: 1117",
+      "summary": "Article URL: https://www.thatprivacyguy.com/blog/chrome-silent-nano-install/ Comments URL: https://news.ycombinator.com/item?id=48019219 Points: 1709 # Comments: 1117",
       "source": "Hacker News",
       "published": "2026-05-05T07:34:55+00:00",
       "link": "https://www.thatprivacyguy.com/blog/chrome-silent-nano-install/"
     },
     {
       "title": "Train Your Own LLM from Scratch",
-      "summary": "Article URL: https://github.com/angelos-p/llm-from-scratch Comments URL: https://news.ycombinator.com/item?id=48017948 Points: 467 # Comments: 50",
+      "summary": "Article URL: https://github.com/angelos-p/llm-from-scratch Comments URL: https://news.ycombinator.com/item?id=48017948 Points: 468 # Comments: 50",
       "source": "Hacker News",
       "published": "2026-05-05T04:09:17+00:00",
       "link": "https://github.com/angelos-p/llm-from-scratch"
@@ -815,7 +906,7 @@ const FEED_DATA = {
     },
     {
       "title": "How OpenAI delivers low-latency voice AI at scale",
-      "summary": "Article URL: https://openai.com/index/delivering-low-latency-voice-ai-at-scale/ Comments URL: https://news.ycombinator.com/item?id=48013919 Points: 504 # Comments: 144",
+      "summary": "Article URL: https://openai.com/index/delivering-low-latency-voice-ai-at-scale/ Comments URL: https://news.ycombinator.com/item?id=48013919 Points: 506 # Comments: 146",
       "source": "Hacker News",
       "published": "2026-05-04T19:42:47+00:00",
       "link": "https://openai.com/index/delivering-low-latency-voice-ai-at-scale/"
@@ -969,7 +1060,7 @@ const FEED_DATA = {
     },
     {
       "title": "Wiki Builder: Skill to Build LLM Knowledge Bases",
-      "summary": "Article URL: https://academy.dair.ai/blog/wiki-builder-claude-code-plugin Comments URL: https://news.ycombinator.com/item?id=47997915 Points: 130 # Comments: 17",
+      "summary": "Article URL: https://academy.dair.ai/blog/wiki-builder-claude-code-plugin Comments URL: https://news.ycombinator.com/item?id=47997915 Points: 130 # Comments: 18",
       "source": "Hacker News",
       "published": "2026-05-03T15:28:48+00:00",
       "link": "https://academy.dair.ai/blog/wiki-builder-claude-code-plugin"
@@ -1309,97 +1400,6 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-05-01T13:00:10+00:00",
       "link": "https://the-decoder.com/anthropic-launches-claude-security-to-give-defenders-the-same-ai-edge-attackers-already-have/"
-    },
-    {
-      "title": "The Download: a new Christian phone network, and debugging LLMs",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.",
-      "source": "MIT Tech Review",
-      "published": "2026-05-01T12:10:00+00:00",
-      "link": "https://www.technologyreview.com/2026/05/01/1136762/the-download-christian-phone-network-debugging-llms/"
-    },
-    {
-      "title": "Microsoft wants lawyers to trust its new AI agent in Word documents",
-      "summary": "Microsoft is launching a new AI agent inside Word that's specifically designed for legal teams. Legal Agent handles document edits, negotiation history, and complex documents to help legal teams handle tasks like reviewing contracts.",
-      "source": "The Verge",
-      "published": "2026-05-01T11:18:54+00:00",
-      "link": "https://www.theverge.com/news/921944/microsoft-word-legal-agent-ai"
-    },
-    {
-      "title": "Per-token AI charges come to GitHub Copilot",
-      "summary": "As of 1st June 2026, GitHub Copilot will charge its users on the basis of the tokens they use, rather than a flat rate subscription model. The model that’s seeing the shutters closed on it is, or rather was, simple to understand and use.",
-      "source": "AI News",
-      "published": "2026-05-01T11:00:00+00:00",
-      "link": "https://www.artificialintelligence-news.com/news/per-token-ai-charging-comes-to-github-copilot/"
-    },
-    {
-      "title": "Show HN: Loopsy, a way for terminals and AI agents on different machines to talk",
-      "summary": "I've always had the urge to have my two macbooks communicate. Having one idle while working on the other felt like underutilization of resources.",
-      "source": "Hacker News",
-      "published": "2026-05-01T10:25:41+00:00",
-      "link": "https://github.com/leox255/loopsy"
-    },
-    {
-      "title": "GPT-5.5 matches Claude Mythos in cyber attack tests, UK AI Security Institute finds",
-      "summary": "OpenAI's GPT-5.5 is the second AI model capable of autonomously solving a full network attack simulation, according to the UK AI Security Institute. Its performance is nearly on par with Anthropic's Claude Mythos, which is still only available to a small group.",
-      "source": "The Decoder",
-      "published": "2026-05-01T10:25:37+00:00",
-      "link": "https://the-decoder.com/gpt-5-5-matches-claude-mythos-in-cyber-attack-tests-uk-ai-security-institute-finds/"
-    },
-    {
-      "title": "Inexpensive seafloor-hopping submersibles could stoke deep-sea science—and mining",
-      "summary": "Smack dab between Australia and South America, the US National Oceanic and Atmospheric Administration (NOAA) research vessel Rainier is currently on a mission to map more than 8,000 square nautical miles of the Pacific seafloor in search of critical mineral deposits.",
-      "source": "MIT Tech Review",
-      "published": "2026-05-01T10:00:00+00:00",
-      "link": "https://www.technologyreview.com/2026/05/01/1136734/inexpensive-seafloor-hopping-submersibles-could-stoke-deep-sea-science-and-mining/"
-    },
-    {
-      "title": "Google Deepmind's \"AI co-clinician\" beats GPT-5.4 in blind doctor tests but still trails experienced physicians",
-      "summary": "Google Deepmind is building an \"AI co-clinician\" to help doctors care for patients. The system shows promising results in simulation studies but still trails experienced physicians.",
-      "source": "The Decoder",
-      "published": "2026-05-01T09:21:32+00:00",
-      "link": "https://the-decoder.com/google-deepminds-ai-co-clinician-beats-gpt-5-4-in-blind-doctor-tests-but-still-trails-experienced-physicians/"
-    },
-    {
-      "title": "A new US phone network for Christians aims to block porn and gender-related content",
-      "summary": "A new US-wide cell phone network marketed to Christians is set to launch next week. It blocks porn, which experts in network security say marks the first time a US cell plan has used network-level blocking for such content that can’t be turned off even by adult account owners.",
-      "source": "MIT Tech Review",
-      "published": "2026-05-01T09:00:00+00:00",
-      "link": "https://www.technologyreview.com/2026/05/01/1136739/a-new-t-mobile-network-for-christians-aims-to-block-porn-and-gender-related-content/"
-    },
-    {
-      "title": "When Dawkins met Claude – Could this AI be conscious?",
-      "summary": "https://archive.ph/Rq5bw Comments URL: https://news.ycombinator.com/item?id=47972481 Points: 60 # Comments: 422",
-      "source": "Hacker News",
-      "published": "2026-05-01T08:36:19+00:00",
-      "link": "https://unherd.com/2026/04/is-ai-the-next-phase-of-evolution/"
-    },
-    {
-      "title": "Mistral's new flagship Medium 3.5 folds chat, reasoning, and code into one model",
-      "summary": "Mistral's new flagship, Mistral Medium 3.5, merges what used to be separate models for chat, reasoning, and code into a single product. The French company is also adding asynchronous cloud agents to its coding tool Vibe and giving Le Chat a new agent mode.",
-      "source": "The Decoder",
-      "published": "2026-05-01T08:21:14+00:00",
-      "link": "https://the-decoder.com/mistrals-new-flagship-medium-3-5-folds-chat-reasoning-and-code-into-one-model/"
-    },
-    {
-      "title": "ChatGPT Images 2.0 is a hit in India, but not a big winner elsewhere, yet",
-      "summary": "Users in India are embracing ChatGPT Images 2.0 for creative, personal visuals — from avatars to cinematic portraits.",
-      "source": "TechCrunch",
-      "published": "2026-05-01T02:00:00+00:00",
-      "link": "https://techcrunch.com/2026/04/30/chatgpt-images-2-0-is-a-hit-in-india-but-not-a-big-winner-elsewhere-yet/"
-    },
-    {
-      "title": "How Shivon Zilis Operated as Elon Musk’s OpenAI Insider",
-      "summary": "Messages presented at trial reveal how Zilis, the mother of four of Musk’s children, acted as an intermediary between him and OpenAI.",
-      "source": "Wired",
-      "published": "2026-05-01T00:51:18+00:00",
-      "link": "https://www.wired.com/story/model-behavior-why-everything-in-musk-v-altman-leads-back-to-shivon-zelis/"
-    },
-    {
-      "title": "Sources: Anthropic potential $900B+ valuation round could happen within 2 weeks",
-      "summary": "Anthropic is asking investors to submit allocations for the AI company’s latest fundraise within the next 48 hours, according to sources familiar with the matter.",
-      "source": "TechCrunch",
-      "published": "2026-04-30T23:07:56+00:00",
-      "link": "https://techcrunch.com/2026/04/30/anthropic-potential-900b-valuation-round-could-happen-within-two-weeks/"
     }
   ]
 };
