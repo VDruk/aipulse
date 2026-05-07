@@ -1,6 +1,104 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-05-07T10:56:49.401057+00:00",
+  "lastUpdated": "2026-05-07T15:28:40.658647+00:00",
   "items": [
+    {
+      "title": "AI translation company DeepL cuts around 250 jobs to rebuild as an \"AI-native\" organization",
+      "summary": "DeepL, the German AI-powered translation service that competes with Google Translate and other machine translation tools, is laying off roughly 250 employees.",
+      "source": "The Decoder",
+      "published": "2026-05-07T14:45:19+00:00",
+      "link": "https://the-decoder.com/ai-translation-company-deepl-cuts-around-250-jobs-to-rebuild-as-an-ai-native-organization/"
+    },
+    {
+      "title": "OpenClaw and Claude can put your AI-generated podcasts in Spotify",
+      "summary": "Save to Spotify is a new command-line tool designed specifically for AI agents like OpenClaw, Claude Code, or OpenAI Codex.",
+      "source": "The Verge",
+      "published": "2026-05-07T14:15:40+00:00",
+      "link": "https://www.theverge.com/entertainment/925916/save-to-spotify-ai-podcasts"
+    },
+    {
+      "title": "How Anthropic's 80x growth blew past its own infrastructure and straight into Musk's data center",
+      "summary": "Anthropic is set to tap into Elon Musk's Colossus 1 supercomputer. Behind the surprise deal lie a compute crunch, a looming IPO, and a remarkable about-face by Musk.",
+      "source": "The Decoder",
+      "published": "2026-05-07T14:09:49+00:00",
+      "link": "https://the-decoder.com/how-anthropics-80x-growth-blew-past-its-own-infrastructure-and-straight-into-musks-data-center/"
+    },
+    {
+      "title": "Google’s taking a big swing at AI health with the Fitbit Air",
+      "summary": "It's a Whoop dupe. That was my first thought when I saw the new $99 Google Fitbit Air.",
+      "source": "The Verge",
+      "published": "2026-05-07T14:00:00+00:00",
+      "link": "https://www.theverge.com/gadgets/925458/google-health-fitbit-air-ai-coaching-wearables-fitness-trackers"
+    },
+    {
+      "title": "China’s Moonshot AI raises $2B at $20B valuation as demand for open-source AI skyrockets",
+      "summary": "Moonshot's annualized recurring revenue topped $200 million in April, driven by rapid growth in paid subscriptions and API usage.",
+      "source": "TechCrunch",
+      "published": "2026-05-07T13:44:25+00:00",
+      "link": "https://techcrunch.com/2026/05/07/chinas-moonshot-ai-raises-2b-at-20b-valuation-as-demand-for-open-source-ai-skyrockets/"
+    },
+    {
+      "title": "Spotify wants to become the home for AI-generated personal audio",
+      "summary": "Users will be able to create a podcast from Codex or Claude Code and import it to Spotify",
+      "source": "TechCrunch",
+      "published": "2026-05-07T13:00:00+00:00",
+      "link": "https://techcrunch.com/2026/05/07/spotify-wants-to-become-the-home-for-ai-generated-personal-audio/"
+    },
+    {
+      "title": "AI models follow their values better when they first learn why those values matter",
+      "summary": "A study from the Anthropic Fellows Program shows that training a language model on texts explaining its intended values before teaching it specific behaviors leads to significantly better adherence to those values, even in situations never encountered during training.",
+      "source": "The Decoder",
+      "published": "2026-05-07T12:45:25+00:00",
+      "link": "https://the-decoder.com/ai-models-follow-their-values-better-when-they-first-learn-why-those-values-matter/"
+    },
+    {
+      "title": "Spotify’s AI DJ now supports French, German, Italian and Brazilian Portuguese",
+      "summary": "Spotify's AI DJ feature now supports French, German, Italian, and Brazilian Portuguese.",
+      "source": "TechCrunch",
+      "published": "2026-05-07T12:20:04+00:00",
+      "link": "https://techcrunch.com/2026/05/07/spotifys-ai-dj-now-supports-french-german-italian-and-brazilian-portuguese/"
+    },
+    {
+      "title": "The Download: the tech reshaping IVF and the rise of balcony solar",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. What’s next for IVF IVF has brought millions of babies into the world over the last four decades.",
+      "source": "MIT Tech Review",
+      "published": "2026-05-07T12:10:00+00:00",
+      "link": "https://www.technologyreview.com/2026/05/07/1136956/the-download-ivf-tech-balcony-solar/"
+    },
+    {
+      "title": "Google Deepmind takes a stake in EVE Online studio to test AI models",
+      "summary": "Google Deepmind is acquiring a minority stake in the studio behind the space MMO EVE Online and will use the game as a testing ground for AI models. The article Google Deepmind takes a stake in EVE Online studio to test AI models appeared first on The Decoder.",
+      "source": "The Decoder",
+      "published": "2026-05-07T11:15:37+00:00",
+      "link": "https://the-decoder.com/google-deepmind-takes-a-stake-in-eve-online-studio-to-test-ai-models/"
+    },
+    {
+      "title": "The US and China are considering formal talks on AI",
+      "summary": "The US and China are exploring official talks on artificial intelligence, the Wall Street Journal reports. The article The US and China are considering formal talks on AI appeared first on The Decoder.",
+      "source": "The Decoder",
+      "published": "2026-05-07T11:13:12+00:00",
+      "link": "https://the-decoder.com/the-us-and-china-are-considering-formal-talks-on-ai/"
+    },
+    {
+      "title": "Thousands of Vibe-Coded Apps Expose Corporate and Personal Data on the Open Web",
+      "summary": "Companies like Lovable, Base44, Replit, and Netlify use AI to let anyone build a web app in seconds—and in thousands of cases, spill highly sensitive data onto the public internet.",
+      "source": "Wired",
+      "published": "2026-05-07T11:00:00+00:00",
+      "link": "https://www.wired.com/story/thousands-of-vibe-coded-apps-expose-corporate-and-personal-data-on-the-open-web/"
+    },
+    {
+      "title": "This Reggae Band Is in a Nightmare Battle Against AI Slop Remixes",
+      "summary": "When Stick Figure’s seven-year-old song shot up the charts, the band was thrilled. But its viral moment was spurred by unauthorized AI remixes.",
+      "source": "Wired",
+      "published": "2026-05-07T11:00:00+00:00",
+      "link": "https://www.wired.com/story/this-reggae-band-is-in-a-nightmare-battle-against-ai-slop-remixes/"
+    },
+    {
+      "title": "Claude's new \"Dreaming\" feature is designed to let AI agents learn from their mistakes",
+      "summary": "Anthropic is adding \"Dreaming\" to Claude Managed Agents, an asynchronous process that reviews past agent sessions, cleans up duplicate or outdated memory entries, and distills new insights.",
+      "source": "The Decoder",
+      "published": "2026-05-07T10:59:37+00:00",
+      "link": "https://the-decoder.com/claudes-new-dreaming-feature-is-designed-to-let-ai-agents-learn-from-their-mistakes/"
+    },
     {
       "title": "AI helping ease the UK’s NHS burden",
       "summary": "The words “pressure” and “NHS” go hand in hand in the UK and unfortunately there is no sign of a reduction in the strain the institution suffers any time soon.",
@@ -10,7 +108,7 @@ const FEED_DATA = {
     },
     {
       "title": "Making LLM Training Faster with Unsloth and NVIDIA",
-      "summary": "Article URL: https://unsloth.ai/blog/nvidia-collab Comments URL: https://news.ycombinator.com/item?id=48046397 Points: 52 # Comments: 8",
+      "summary": "Article URL: https://unsloth.ai/blog/nvidia-collab Comments URL: https://news.ycombinator.com/item?id=48046397 Points: 94 # Comments: 15",
       "source": "Hacker News",
       "published": "2026-05-07T07:15:11+00:00",
       "link": "https://unsloth.ai/blog/nvidia-collab"
@@ -297,14 +395,14 @@ const FEED_DATA = {
     },
     {
       "title": "FFmpeg developer calls out OxideAV for AI license laundering of his code",
-      "summary": "Article URL: https://github.com/OxideAV/oxideav-magicyuv/issues/3 Comments URL: https://news.ycombinator.com/item?id=48031185 Points: 79 # Comments: 6",
+      "summary": "Article URL: https://github.com/OxideAV/oxideav-magicyuv/issues/3 Comments URL: https://news.ycombinator.com/item?id=48031185 Points: 81 # Comments: 6",
       "source": "Hacker News",
       "published": "2026-05-06T01:50:42+00:00",
       "link": "https://github.com/OxideAV/oxideav-magicyuv/issues/3"
     },
     {
       "title": "Telus Uses AI to Alter Call-Agent Accents",
-      "summary": "Article URL: https://letsdatascience.com/news/telus-uses-ai-to-alter-call-agent-accents-a3868f63 Comments URL: https://news.ycombinator.com/item?id=48031109 Points: 232 # Comments: 209",
+      "summary": "Article URL: https://letsdatascience.com/news/telus-uses-ai-to-alter-call-agent-accents-a3868f63 Comments URL: https://news.ycombinator.com/item?id=48031109 Points: 233 # Comments: 210",
       "source": "Hacker News",
       "published": "2026-05-06T01:38:44+00:00",
       "link": "https://letsdatascience.com/news/telus-uses-ai-to-alter-call-agent-accents-a3868f63"
@@ -465,7 +563,7 @@ const FEED_DATA = {
     },
     {
       "title": "Three Inverse Laws of AI",
-      "summary": "Article URL: https://susam.net/inverse-laws-of-robotics.html Comments URL: https://news.ycombinator.com/item?id=48023861 Points: 531 # Comments: 348",
+      "summary": "Article URL: https://susam.net/inverse-laws-of-robotics.html Comments URL: https://news.ycombinator.com/item?id=48023861 Points: 535 # Comments: 349",
       "source": "Hacker News",
       "published": "2026-05-05T15:27:18+00:00",
       "link": "https://susam.net/inverse-laws-of-robotics.html"
@@ -486,7 +584,7 @@ const FEED_DATA = {
     },
     {
       "title": "SubQ: a sub-quadratic LLM with 12M-token context",
-      "summary": "Article URL: https://subq.ai/introducing-subq Comments URL: https://news.ycombinator.com/item?id=48023079 Points: 68 # Comments: 26",
+      "summary": "Article URL: https://subq.ai/introducing-subq Comments URL: https://news.ycombinator.com/item?id=48023079 Points: 69 # Comments: 26",
       "source": "Hacker News",
       "published": "2026-05-05T14:37:12+00:00",
       "link": "https://subq.ai/introducing-subq"
@@ -626,7 +724,7 @@ const FEED_DATA = {
     },
     {
       "title": "When everyone has AI and the company still learns nothing",
-      "summary": "Article URL: https://www.robert-glaser.de/when-everyone-has-ai-and-the-company-still-learns-nothing/ Comments URL: https://news.ycombinator.com/item?id=48020063 Points: 379 # Comments: 267",
+      "summary": "Article URL: https://www.robert-glaser.de/when-everyone-has-ai-and-the-company-still-learns-nothing/ Comments URL: https://news.ycombinator.com/item?id=48020063 Points: 383 # Comments: 269",
       "source": "Hacker News",
       "published": "2026-05-05T09:30:22+00:00",
       "link": "https://www.robert-glaser.de/when-everyone-has-ai-and-the-company-still-learns-nothing/"
@@ -640,14 +738,14 @@ const FEED_DATA = {
     },
     {
       "title": "Google Chrome silently installs a 4 GB AI model on your device without consent",
-      "summary": "Article URL: https://www.thatprivacyguy.com/blog/chrome-silent-nano-install/ Comments URL: https://news.ycombinator.com/item?id=48019219 Points: 1675 # Comments: 1105",
+      "summary": "Article URL: https://www.thatprivacyguy.com/blog/chrome-silent-nano-install/ Comments URL: https://news.ycombinator.com/item?id=48019219 Points: 1690 # Comments: 1111",
       "source": "Hacker News",
       "published": "2026-05-05T07:34:55+00:00",
       "link": "https://www.thatprivacyguy.com/blog/chrome-silent-nano-install/"
     },
     {
       "title": "Train Your Own LLM from Scratch",
-      "summary": "Article URL: https://github.com/angelos-p/llm-from-scratch Comments URL: https://news.ycombinator.com/item?id=48017948 Points: 466 # Comments: 50",
+      "summary": "Article URL: https://github.com/angelos-p/llm-from-scratch Comments URL: https://news.ycombinator.com/item?id=48017948 Points: 467 # Comments: 50",
       "source": "Hacker News",
       "published": "2026-05-05T04:09:17+00:00",
       "link": "https://github.com/angelos-p/llm-from-scratch"
@@ -682,7 +780,7 @@ const FEED_DATA = {
     },
     {
       "title": "How OpenAI delivers low-latency voice AI at scale",
-      "summary": "Article URL: https://openai.com/index/delivering-low-latency-voice-ai-at-scale/ Comments URL: https://news.ycombinator.com/item?id=48013919 Points: 502 # Comments: 144",
+      "summary": "Article URL: https://openai.com/index/delivering-low-latency-voice-ai-at-scale/ Comments URL: https://news.ycombinator.com/item?id=48013919 Points: 504 # Comments: 144",
       "source": "Hacker News",
       "published": "2026-05-04T19:42:47+00:00",
       "link": "https://openai.com/index/delivering-low-latency-voice-ai-at-scale/"
@@ -829,14 +927,14 @@ const FEED_DATA = {
     },
     {
       "title": "The Oscars just banned AI from winning acting and writing awards",
-      "summary": "Article URL: https://gizmodo.com/the-oscars-just-banned-ai-from-winning-acting-and-writing-awards-2000753740 Comments URL: https://news.ycombinator.com/item?id=47999346 Points: 76 # Comments: 67",
+      "summary": "Article URL: https://gizmodo.com/the-oscars-just-banned-ai-from-winning-acting-and-writing-awards-2000753740 Comments URL: https://news.ycombinator.com/item?id=47999346 Points: 76 # Comments: 68",
       "source": "Hacker News",
       "published": "2026-05-03T17:34:15+00:00",
       "link": "https://gizmodo.com/the-oscars-just-banned-ai-from-winning-acting-and-writing-awards-2000753740"
     },
     {
       "title": "Wiki Builder: Skill to Build LLM Knowledge Bases",
-      "summary": "Article URL: https://academy.dair.ai/blog/wiki-builder-claude-code-plugin Comments URL: https://news.ycombinator.com/item?id=47997915 Points: 126 # Comments: 16",
+      "summary": "Article URL: https://academy.dair.ai/blog/wiki-builder-claude-code-plugin Comments URL: https://news.ycombinator.com/item?id=47997915 Points: 129 # Comments: 16",
       "source": "Hacker News",
       "published": "2026-05-03T15:28:48+00:00",
       "link": "https://academy.dair.ai/blog/wiki-builder-claude-code-plugin"
@@ -1302,104 +1400,6 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-04-30T20:14:47+00:00",
       "link": "https://techcrunch.com/2026/04/30/legal-ai-startup-legora-hits-5-6-valuation-and-its-battle-with-harvey-just-got-hotter/"
-    },
-    {
-      "title": "After dissing Anthropic for limiting Mythos, OpenAI restricts access to Cyber, too",
-      "summary": "OpenAI will begin rolling out its cybersecurity testing tool, GPT-5.5 Cyber only \"to critical cyber defenders\" at first.",
-      "source": "TechCrunch",
-      "published": "2026-04-30T19:27:41+00:00",
-      "link": "https://techcrunch.com/2026/04/30/after-dissing-anthropic-for-limiting-mythos-openai-restricts-access-to-cyber-too/"
-    },
-    {
-      "title": "Musk v. Altman Kicks Off, DOJ Guts Voting Rights Unit, and Is the AI Job Apocalypse Overhyped?",
-      "summary": "In this episode of Uncanny Valley, we get into how the Elon Musk-Sam Altman trial goes way beyond their rivalry and could have major implications both for OpenAI and also the AI industry at large.",
-      "source": "Wired",
-      "published": "2026-04-30T18:54:54+00:00",
-      "link": "https://www.wired.com/story/uncanny-valley-podcast-musk-v-altman-doj-guts-voting-rights-unit-is-ai-job-apocalypse-overhyped/"
-    },
-    {
-      "title": "Exclusive eBook: Inside the stealthy startup that pitched brainless human clones",
-      "summary": "The ultimate plan to live forever is a brand new body. This subscriber-only eBook explores R3 Bio, a small startup that has pitched a startling and ethically charged vision for “brainless clones” to serve the role of backup human bodies.",
-      "source": "MIT Tech Review",
-      "published": "2026-04-30T18:42:50+00:00",
-      "link": "https://www.technologyreview.com/2026/04/30/1136684/exclusive-ebook-inside-the-stealthy-startup-that-pitched-brainless-human-clones/"
-    },
-    {
-      "title": "OpenAI announces new advanced security for ChatGPT accounts, including a partnership with Yubico",
-      "summary": "OpenAI is launching additional opt-in protections for ChatGPT accounts. The new security initiative includes a new partnership with security key provider Yubico.",
-      "source": "TechCrunch",
-      "published": "2026-04-30T18:20:03+00:00",
-      "link": "https://techcrunch.com/2026/04/30/openai-announces-new-advanced-security-for-chatgpt-accounts-including-a-partnership-with-yubico/"
-    },
-    {
-      "title": "Elon Musk confirms xAI used OpenAI’s models to train Grok",
-      "summary": "In a federal courtroom in California on Thursday, Elon Musk testified that his own AI startup, xAI, has used OpenAI's models to improve its own.",
-      "source": "The Verge",
-      "published": "2026-04-30T18:16:57+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/921546/elon-musk-xai-openai-trial-model-distillation"
-    },
-    {
-      "title": "Elon Musk testifies that xAI trained Grok on OpenAI models",
-      "summary": "\"Distillation\" is a hot topic as frontier labs try to prevent smaller competitors from copying their models.",
-      "source": "TechCrunch",
-      "published": "2026-04-30T18:03:57+00:00",
-      "link": "https://techcrunch.com/2026/04/30/elon-musk-testifies-that-xai-trained-grok-on-openai-models/"
-    },
-    {
-      "title": "FDA approval, fundraising, and the reality of building in healthcare according to BioticsAI founder",
-      "summary": "BioticsAI CEO Robhy Bustami joined Isabelle Johannessen on Build Mode to discuss how the company has navigated a highly regulated space and kept the team motivated while cutting through all the red tape.",
-      "source": "TechCrunch",
-      "published": "2026-04-30T17:53:53+00:00",
-      "link": "https://techcrunch.com/2026/04/30/fda-approval-fundraising-and-the-reality-of-building-in-healthcare-according-to-bioticsai-founder/"
-    },
-    {
-      "title": "Microsoft CEO Satya Nadella says AI success is \"more about getting intense users and intense usage\" than seat counts",
-      "summary": "Microsoft is posting record profits and strong cloud growth, but just like Google, the company is saying little about how its generative AI business is actually performing.",
-      "source": "The Decoder",
-      "published": "2026-04-30T17:49:04+00:00",
-      "link": "https://the-decoder.com/microsoft-ceo-satya-nadella-says-ai-success-is-more-about-getting-intense-users-and-intense-usage-than-seat-counts/"
-    },
-    {
-      "title": "Google’s Gemini AI assistant is hitting the road in millions of vehicles",
-      "summary": "The move signals Google’s push to bring more advanced, conversational AI into the driving experience.",
-      "source": "TechCrunch",
-      "published": "2026-04-30T17:46:54+00:00",
-      "link": "https://techcrunch.com/2026/04/30/googles-gemini-ai-assistant-is-hitting-the-road-in-millions-of-vehicles/"
-    },
-    {
-      "title": "Elon Musk Seemingly Admits xAI Has Used OpenAI’s Models to Train Its Own",
-      "summary": "While answering questions under oath, Musk argued it’s standard practice for AI labs to use their competitors’ models.",
-      "source": "Wired",
-      "published": "2026-04-30T17:41:14+00:00",
-      "link": "https://www.wired.com/story/elon-musk-distill-openai-models-partly-xai/"
-    },
-    {
-      "title": "OpenAI Rolls Out ‘Advanced’ Security Mode for At-Risk Accounts",
-      "summary": "OpenAI is rolling out Advanced Account Security for people concerned that their ChatGPT or Codex accounts could be potential targets of phishing attacks.",
-      "source": "Wired",
-      "published": "2026-04-30T17:30:39+00:00",
-      "link": "https://www.wired.com/story/openai-chatgpt-codex-advanced-account-security/"
-    },
-    {
-      "title": "Stripe updates Link, a digital wallet that autonomous AI agents can use, too",
-      "summary": "Link lets users connect cards, banks, and subscriptions, then authorize AI agents to spend securely via approval flows.",
-      "source": "TechCrunch",
-      "published": "2026-04-30T17:15:19+00:00",
-      "link": "https://techcrunch.com/2026/04/30/stripe-link-digital-wallet-ai-agents-shopping/"
-    },
-    {
-      "title": "Stripe introduces Link, a digital wallet that autonomous AI agents can use, too",
-      "summary": "Link lets users connect cards, banks, and subscriptions, then authorize AI agents to spend securely via approval flows.",
-      "source": "TechCrunch",
-      "published": "2026-04-30T17:15:19+00:00",
-      "link": "https://techcrunch.com/2026/04/30/stripe-link-digital-wallet-ai-agents-shopping/"
-    },
-    {
-      "title": "Meta is running get-rich-quick ads for its AI tools",
-      "summary": "Manus, an AI company Meta acquired for $2 billion last year is running ads promising quick, easy money with AI: Find local businesses without websites or with bad websites, have AI build them one, then call them up and sell it to them.",
-      "source": "The Verge",
-      "published": "2026-04-30T16:48:13+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/915970/meta-manus-ai-ads-website-slop"
     }
   ]
 };
