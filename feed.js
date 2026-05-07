@@ -1,6 +1,48 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-05-07T15:28:40.658647+00:00",
+  "lastUpdated": "2026-05-07T18:19:33.550312+00:00",
   "items": [
+    {
+      "title": "ChatGPT’s ‘Trusted Contact’ will alert loved ones of safety concerns",
+      "summary": "OpenAI is launching an optional safety feature for ChatGPT that allows adult users to assign an emergency contact for mental health and safety concerns.",
+      "source": "The Verge",
+      "published": "2026-05-07T18:00:00+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/925874/chatgpt-trusted-contact-emergency-self-harm-notification"
+    },
+    {
+      "title": "Live updates from Elon Musk and Sam Altman’s court battle over the future of OpenAI",
+      "summary": "Sam Altman and Elon Musk are facing off in a high-stakes trial that could alter the future of OpenAI and its most well-known product, ChatGPT.",
+      "source": "The Verge",
+      "published": "2026-05-07T17:40:50+00:00",
+      "link": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit"
+    },
+    {
+      "title": "Europe's answer to AI regulation complexity is to just delay most of it",
+      "summary": "The EU has agreed on simplified AI rules. The \"Digital Omnibus on AI\" pushes back deadlines for high-risk AI to late 2027 or 2028 and eases requirements for small and medium-sized businesses.",
+      "source": "The Decoder",
+      "published": "2026-05-07T17:36:39+00:00",
+      "link": "https://the-decoder.com/europes-answer-to-ai-regulation-complexity-is-to-just-delay-most-of-it/"
+    },
+    {
+      "title": "ChatGPT Has 'Goblin' Mania in the US. In China It Will 'Catch You Steadily'",
+      "summary": "OpenAI's chatbot has some weird linguistic tics in Chinese that are driving users crazy.",
+      "source": "Wired",
+      "published": "2026-05-07T16:25:48+00:00",
+      "link": "https://www.wired.com/story/chatgpt-chinese-catch-you-steadily-sycophancy/"
+    },
+    {
+      "title": "How Anthropic’s Mythos has rewritten Firefox’s approach to cybersecurity",
+      "summary": "Security researchers at Mozilla say Anthropic's Mythos has unearthed a wealth of high-severity bugs in Firefox.",
+      "source": "TechCrunch",
+      "published": "2026-05-07T16:05:48+00:00",
+      "link": "https://techcrunch.com/2026/05/07/how-anthropics-mythos-has-rewritten-firefoxs-approach-to-cybersecurity/"
+    },
+    {
+      "title": "Motherboard sales 'collapse' amid unprecedented shortages fueled by AI",
+      "summary": "Article URL:...",
+      "source": "Hacker News",
+      "published": "2026-05-07T15:23:23+00:00",
+      "link": "https://www.tomshardware.com/pc-components/motherboards/motherboard-sales-collapse-by-more-than-25-percent-as-chipmakers-strangle-enthusiast-pc-market-to-build-more-ai-chips-asus-projected-to-sell-5-million-fewer-boards-in-2025-gigabyte-msi-and-asrock-also-expected-to-see-reduced-sales-numbers"
+    },
     {
       "title": "AI translation company DeepL cuts around 250 jobs to rebuild as an \"AI-native\" organization",
       "summary": "DeepL, the German AI-powered translation service that competes with Google Translate and other machine translation tools, is laying off roughly 250 employees.",
@@ -30,7 +72,7 @@ const FEED_DATA = {
       "link": "https://www.theverge.com/gadgets/925458/google-health-fitbit-air-ai-coaching-wearables-fitness-trackers"
     },
     {
-      "title": "China’s Moonshot AI raises $2B at $20B valuation as demand for open-source AI skyrockets",
+      "title": "China’s Moonshot AI raises $2B at $20B valuation as demand for open source AI skyrockets",
       "summary": "Moonshot's annualized recurring revenue topped $200 million in April, driven by rapid growth in paid subscriptions and API usage.",
       "source": "TechCrunch",
       "published": "2026-05-07T13:44:25+00:00",
@@ -38,7 +80,7 @@ const FEED_DATA = {
     },
     {
       "title": "Spotify wants to become the home for AI-generated personal audio",
-      "summary": "Users will be able to create a podcast from Codex or Claude Code and import it to Spotify",
+      "summary": "Users will be able to create a podcast from Codex or Claude Code and import it to Spotify.",
       "source": "TechCrunch",
       "published": "2026-05-07T13:00:00+00:00",
       "link": "https://techcrunch.com/2026/05/07/spotify-wants-to-become-the-home-for-ai-generated-personal-audio/"
@@ -51,7 +93,7 @@ const FEED_DATA = {
       "link": "https://the-decoder.com/ai-models-follow-their-values-better-when-they-first-learn-why-those-values-matter/"
     },
     {
-      "title": "Spotify’s AI DJ now supports French, German, Italian and Brazilian Portuguese",
+      "title": "Spotify’s AI DJ now supports French, German, Italian, and Brazilian Portuguese",
       "summary": "Spotify's AI DJ feature now supports French, German, Italian, and Brazilian Portuguese.",
       "source": "TechCrunch",
       "published": "2026-05-07T12:20:04+00:00",
@@ -108,14 +150,14 @@ const FEED_DATA = {
     },
     {
       "title": "Making LLM Training Faster with Unsloth and NVIDIA",
-      "summary": "Article URL: https://unsloth.ai/blog/nvidia-collab Comments URL: https://news.ycombinator.com/item?id=48046397 Points: 94 # Comments: 15",
+      "summary": "Article URL: https://unsloth.ai/blog/nvidia-collab Comments URL: https://news.ycombinator.com/item?id=48046397 Points: 101 # Comments: 19",
       "source": "Hacker News",
       "published": "2026-05-07T07:15:11+00:00",
       "link": "https://unsloth.ai/blog/nvidia-collab"
     },
     {
       "title": "Five architects of the AI economy explain where the wheels are coming off",
-      "summary": "Earlier this week, five people who touch every layer of the AI supply chain sat down at the Milken Global Conference in Beverly Hills, where they talked with TechCrunch about everything from chip shortages to orbital data centers to the possibility that the whole architecture...",
+      "summary": "Earlier this week, five people who touch every layer of the AI supply chain sat down at the Milken Institute Global Conference in Beverly Hills, where they talked with TechCrunch about everything from chip shortages to orbital data centers to the possibility that the whole...",
       "source": "TechCrunch",
       "published": "2026-05-07T05:25:10+00:00",
       "link": "https://techcrunch.com/2026/05/06/five-architects-of-the-ai-economy-explain-where-the-wheels-are-coming-off/"
@@ -252,13 +294,6 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-05-06T15:46:38+00:00",
       "link": "https://techcrunch.com/2026/05/06/khosla-backed-robotics-startup-genesis-ai-has-gone-full-stack-demo-shows/"
-    },
-    {
-      "title": "Live updates from Elon Musk and Sam Altman’s court battle over the future of OpenAI",
-      "summary": "Sam Altman and Elon Musk are facing off in a high-stakes trial that could alter the future of OpenAI and its most well-known product, ChatGPT.",
-      "source": "The Verge",
-      "published": "2026-05-06T15:37:32+00:00",
-      "link": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit"
     },
     {
       "title": "Tinder owner Match Group is slowing hiring to pay for its increased use of AI tools",
@@ -563,7 +598,7 @@ const FEED_DATA = {
     },
     {
       "title": "Three Inverse Laws of AI",
-      "summary": "Article URL: https://susam.net/inverse-laws-of-robotics.html Comments URL: https://news.ycombinator.com/item?id=48023861 Points: 535 # Comments: 349",
+      "summary": "Article URL: https://susam.net/inverse-laws-of-robotics.html Comments URL: https://news.ycombinator.com/item?id=48023861 Points: 537 # Comments: 349",
       "source": "Hacker News",
       "published": "2026-05-05T15:27:18+00:00",
       "link": "https://susam.net/inverse-laws-of-robotics.html"
@@ -584,7 +619,7 @@ const FEED_DATA = {
     },
     {
       "title": "SubQ: a sub-quadratic LLM with 12M-token context",
-      "summary": "Article URL: https://subq.ai/introducing-subq Comments URL: https://news.ycombinator.com/item?id=48023079 Points: 69 # Comments: 26",
+      "summary": "Article URL: https://subq.ai/introducing-subq Comments URL: https://news.ycombinator.com/item?id=48023079 Points: 71 # Comments: 24",
       "source": "Hacker News",
       "published": "2026-05-05T14:37:12+00:00",
       "link": "https://subq.ai/introducing-subq"
@@ -612,7 +647,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI didn't delete your database, you did",
-      "summary": "Article URL: https://idiallo.com/blog/ai-didnt-delete-your-database-you-did Comments URL: https://news.ycombinator.com/item?id=48022742 Points: 538 # Comments: 299",
+      "summary": "Article URL: https://idiallo.com/blog/ai-didnt-delete-your-database-you-did Comments URL: https://news.ycombinator.com/item?id=48022742 Points: 539 # Comments: 299",
       "source": "Hacker News",
       "published": "2026-05-05T14:07:50+00:00",
       "link": "https://idiallo.com/blog/ai-didnt-delete-your-database-you-did"
@@ -738,7 +773,7 @@ const FEED_DATA = {
     },
     {
       "title": "Google Chrome silently installs a 4 GB AI model on your device without consent",
-      "summary": "Article URL: https://www.thatprivacyguy.com/blog/chrome-silent-nano-install/ Comments URL: https://news.ycombinator.com/item?id=48019219 Points: 1690 # Comments: 1111",
+      "summary": "Article URL: https://www.thatprivacyguy.com/blog/chrome-silent-nano-install/ Comments URL: https://news.ycombinator.com/item?id=48019219 Points: 1697 # Comments: 1117",
       "source": "Hacker News",
       "published": "2026-05-05T07:34:55+00:00",
       "link": "https://www.thatprivacyguy.com/blog/chrome-silent-nano-install/"
@@ -934,7 +969,7 @@ const FEED_DATA = {
     },
     {
       "title": "Wiki Builder: Skill to Build LLM Knowledge Bases",
-      "summary": "Article URL: https://academy.dair.ai/blog/wiki-builder-claude-code-plugin Comments URL: https://news.ycombinator.com/item?id=47997915 Points: 129 # Comments: 16",
+      "summary": "Article URL: https://academy.dair.ai/blog/wiki-builder-claude-code-plugin Comments URL: https://news.ycombinator.com/item?id=47997915 Points: 130 # Comments: 17",
       "source": "Hacker News",
       "published": "2026-05-03T15:28:48+00:00",
       "link": "https://academy.dair.ai/blog/wiki-builder-claude-code-plugin"
@@ -997,7 +1032,7 @@ const FEED_DATA = {
     },
     {
       "title": "Kimi K2.6 just beat Claude, GPT-5.5, and Gemini in a coding challenge",
-      "summary": "Article URL: https://thinkpol.ca/2026/04/30/an-open-weights-chinese-model-just-beat-claude-gpt-5-5-and-gemini-in-a-programming-challenge/ Comments URL: https://news.ycombinator.com/item?id=47993235 Points: 377 # Comments: 218",
+      "summary": "Article URL: https://thinkpol.ca/2026/04/30/an-open-weights-chinese-model-just-beat-claude-gpt-5-5-and-gemini-in-a-programming-challenge/ Comments URL: https://news.ycombinator.com/item?id=47993235 Points: 378 # Comments: 218",
       "source": "Hacker News",
       "published": "2026-05-03T04:05:28+00:00",
       "link": "https://thinkpol.ca/2026/04/30/an-open-weights-chinese-model-just-beat-claude-gpt-5-5-and-gemini-in-a-programming-challenge/"
@@ -1365,41 +1400,6 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-04-30T23:07:56+00:00",
       "link": "https://techcrunch.com/2026/04/30/anthropic-potential-900b-valuation-round-could-happen-within-two-weeks/"
-    },
-    {
-      "title": "Good Luck Getting a Mac Mini for the Next ‘Several Months’",
-      "summary": "Apple CEO Tim Cook told analysts that AI adoption has happened faster than expected.",
-      "source": "Wired",
-      "published": "2026-04-30T23:00:51+00:00",
-      "link": "https://www.wired.com/story/apple-sold-out-mac-mini-openclaw/"
-    },
-    {
-      "title": "The craziest part of Musk v. Altman happened while the jury was out of the room",
-      "summary": "Okay, I am not a lawyer so I only understood about half of what just happened. But I am fairly sure, given the context, that Elon Musk's lawyers may have just fucked up big.",
-      "source": "The Verge",
-      "published": "2026-04-30T22:59:51+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/921713/musk-v-altman-jared-birchall-screw-up-xai"
-    },
-    {
-      "title": "Apple was surprised by AI-driven demand for Macs",
-      "summary": "Apple said it will be supply-constrained on Mac mini, Studio, and Neo in the next quarter, too.",
-      "source": "TechCrunch",
-      "published": "2026-04-30T22:12:52+00:00",
-      "link": "https://techcrunch.com/2026/04/30/apple-was-surprised-by-ai-driven-demand-for-macs/"
-    },
-    {
-      "title": "The most severe Linux threat to surface in years catches the world flat-footed",
-      "summary": "CopyFail threatens multi-tenant servers, CI/CD work flows, Kubernetes containers, and more.",
-      "source": "Ars Technica",
-      "published": "2026-04-30T20:20:48+00:00",
-      "link": "https://arstechnica.com/security/2026/04/as-the-most-severe-linux-threat-in-years-surfaces-the-world-scrambles/"
-    },
-    {
-      "title": "Legal AI startup Legora hits $5.6B valuation and its battle with Harvey just got hotter",
-      "summary": "The two wildly fast-growing rivals have raised massive sums, pushed into each other's home turf, and now have dueling ad campaigns.",
-      "source": "TechCrunch",
-      "published": "2026-04-30T20:14:47+00:00",
-      "link": "https://techcrunch.com/2026/04/30/legal-ai-startup-legora-hits-5-6-valuation-and-its-battle-with-harvey-just-got-hotter/"
     }
   ]
 };
