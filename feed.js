@@ -1,6 +1,13 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-05-07T04:33:37.358259+00:00",
+  "lastUpdated": "2026-05-07T07:43:15.230308+00:00",
   "items": [
+    {
+      "title": "Five architects of the AI economy explain where the wheels are coming off",
+      "summary": "Earlier this week, five people who touch every layer of the AI supply chain sat down at the Milken Global Conference in Beverly Hills, where they talked with TechCrunch about everything from chip shortages to orbital data centers to the possibility that the whole architecture...",
+      "source": "TechCrunch",
+      "published": "2026-05-07T05:25:10+00:00",
+      "link": "https://techcrunch.com/2026/05/06/five-architects-of-the-ai-economy-explain-where-the-wheels-are-coming-off/"
+    },
     {
       "title": "Musk’s biggest loyalist became his biggest liability",
       "summary": "I sat down in the Musk v. Altman trial courtroom today, painfully aware that no one was going to ask Shivon Zilis the question on everyone's minds: Girl, what the fuck are you doing?",
@@ -276,14 +283,14 @@ const FEED_DATA = {
     },
     {
       "title": "FFmpeg developer calls out OxideAV for AI license laundering of his code",
-      "summary": "Article URL: https://github.com/OxideAV/oxideav-magicyuv/issues/3 Comments URL: https://news.ycombinator.com/item?id=48031185 Points: 78 # Comments: 6",
+      "summary": "Article URL: https://github.com/OxideAV/oxideav-magicyuv/issues/3 Comments URL: https://news.ycombinator.com/item?id=48031185 Points: 79 # Comments: 6",
       "source": "Hacker News",
       "published": "2026-05-06T01:50:42+00:00",
       "link": "https://github.com/OxideAV/oxideav-magicyuv/issues/3"
     },
     {
       "title": "Telus Uses AI to Alter Call-Agent Accents",
-      "summary": "Article URL: https://letsdatascience.com/news/telus-uses-ai-to-alter-call-agent-accents-a3868f63 Comments URL: https://news.ycombinator.com/item?id=48031109 Points: 229 # Comments: 208",
+      "summary": "Article URL: https://letsdatascience.com/news/telus-uses-ai-to-alter-call-agent-accents-a3868f63 Comments URL: https://news.ycombinator.com/item?id=48031109 Points: 232 # Comments: 209",
       "source": "Hacker News",
       "published": "2026-05-06T01:38:44+00:00",
       "link": "https://letsdatascience.com/news/telus-uses-ai-to-alter-call-agent-accents-a3868f63"
@@ -444,7 +451,7 @@ const FEED_DATA = {
     },
     {
       "title": "Three Inverse Laws of AI",
-      "summary": "Article URL: https://susam.net/inverse-laws-of-robotics.html Comments URL: https://news.ycombinator.com/item?id=48023861 Points: 525 # Comments: 346",
+      "summary": "Article URL: https://susam.net/inverse-laws-of-robotics.html Comments URL: https://news.ycombinator.com/item?id=48023861 Points: 530 # Comments: 347",
       "source": "Hacker News",
       "published": "2026-05-05T15:27:18+00:00",
       "link": "https://susam.net/inverse-laws-of-robotics.html"
@@ -465,7 +472,7 @@ const FEED_DATA = {
     },
     {
       "title": "SubQ: a sub-quadratic LLM with 12M-token context",
-      "summary": "Article URL: https://subq.ai/introducing-subq Comments URL: https://news.ycombinator.com/item?id=48023079 Points: 63 # Comments: 25",
+      "summary": "Article URL: https://subq.ai/introducing-subq Comments URL: https://news.ycombinator.com/item?id=48023079 Points: 67 # Comments: 26",
       "source": "Hacker News",
       "published": "2026-05-05T14:37:12+00:00",
       "link": "https://subq.ai/introducing-subq"
@@ -493,7 +500,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI didn't delete your database, you did",
-      "summary": "Article URL: https://idiallo.com/blog/ai-didnt-delete-your-database-you-did Comments URL: https://news.ycombinator.com/item?id=48022742 Points: 538 # Comments: 298",
+      "summary": "Article URL: https://idiallo.com/blog/ai-didnt-delete-your-database-you-did Comments URL: https://news.ycombinator.com/item?id=48022742 Points: 538 # Comments: 299",
       "source": "Hacker News",
       "published": "2026-05-05T14:07:50+00:00",
       "link": "https://idiallo.com/blog/ai-didnt-delete-your-database-you-did"
@@ -605,7 +612,7 @@ const FEED_DATA = {
     },
     {
       "title": "When everyone has AI and the company still learns nothing",
-      "summary": "Article URL: https://www.robert-glaser.de/when-everyone-has-ai-and-the-company-still-learns-nothing/ Comments URL: https://news.ycombinator.com/item?id=48020063 Points: 379 # Comments: 266",
+      "summary": "Article URL: https://www.robert-glaser.de/when-everyone-has-ai-and-the-company-still-learns-nothing/ Comments URL: https://news.ycombinator.com/item?id=48020063 Points: 379 # Comments: 267",
       "source": "Hacker News",
       "published": "2026-05-05T09:30:22+00:00",
       "link": "https://www.robert-glaser.de/when-everyone-has-ai-and-the-company-still-learns-nothing/"
@@ -619,7 +626,7 @@ const FEED_DATA = {
     },
     {
       "title": "Google Chrome silently installs a 4 GB AI model on your device without consent",
-      "summary": "Article URL: https://www.thatprivacyguy.com/blog/chrome-silent-nano-install/ Comments URL: https://news.ycombinator.com/item?id=48019219 Points: 1657 # Comments: 1098",
+      "summary": "Article URL: https://www.thatprivacyguy.com/blog/chrome-silent-nano-install/ Comments URL: https://news.ycombinator.com/item?id=48019219 Points: 1668 # Comments: 1101",
       "source": "Hacker News",
       "published": "2026-05-05T07:34:55+00:00",
       "link": "https://www.thatprivacyguy.com/blog/chrome-silent-nano-install/"
@@ -731,7 +738,7 @@ const FEED_DATA = {
     },
     {
       "title": "UK Fuel Price Intelligence – Market analytics from reporting stations",
-      "summary": "Article URL: https://www.fuelinsight.co.uk Comments URL: https://news.ycombinator.com/item?id=48009747 Points: 193 # Comments: 98",
+      "summary": "Article URL: https://www.fuelinsight.co.uk Comments URL: https://news.ycombinator.com/item?id=48009747 Points: 193 # Comments: 100",
       "source": "Hacker News",
       "published": "2026-05-04T15:15:21+00:00",
       "link": "https://www.fuelinsight.co.uk"
@@ -815,7 +822,7 @@ const FEED_DATA = {
     },
     {
       "title": "Wiki Builder: Skill to Build LLM Knowledge Bases",
-      "summary": "Article URL: https://academy.dair.ai/blog/wiki-builder-claude-code-plugin Comments URL: https://news.ycombinator.com/item?id=47997915 Points: 121 # Comments: 16",
+      "summary": "Article URL: https://academy.dair.ai/blog/wiki-builder-claude-code-plugin Comments URL: https://news.ycombinator.com/item?id=47997915 Points: 125 # Comments: 16",
       "source": "Hacker News",
       "published": "2026-05-03T15:28:48+00:00",
       "link": "https://academy.dair.ai/blog/wiki-builder-claude-code-plugin"
@@ -878,7 +885,7 @@ const FEED_DATA = {
     },
     {
       "title": "Kimi K2.6 just beat Claude, GPT-5.5, and Gemini in a coding challenge",
-      "summary": "Article URL: https://thinkpol.ca/2026/04/30/an-open-weights-chinese-model-just-beat-claude-gpt-5-5-and-gemini-in-a-programming-challenge/ Comments URL: https://news.ycombinator.com/item?id=47993235 Points: 376 # Comments: 218",
+      "summary": "Article URL: https://thinkpol.ca/2026/04/30/an-open-weights-chinese-model-just-beat-claude-gpt-5-5-and-gemini-in-a-programming-challenge/ Comments URL: https://news.ycombinator.com/item?id=47993235 Points: 377 # Comments: 218",
       "source": "Hacker News",
       "published": "2026-05-03T04:05:28+00:00",
       "link": "https://thinkpol.ca/2026/04/30/an-open-weights-chinese-model-just-beat-claude-gpt-5-5-and-gemini-in-a-programming-challenge/"
@@ -1393,13 +1400,6 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-04-30T16:06:49+00:00",
       "link": "https://techcrunch.com/2026/04/30/salesforce-is-crowdsourcing-its-ai-roadmap-with-customers/"
-    },
-    {
-      "title": "Gemini is rolling out to cars with Google built-in",
-      "summary": "Google is preparing to update vehicles that have Google built-in with its Gemini AI assistant.",
-      "source": "The Verge",
-      "published": "2026-04-30T16:00:00+00:00",
-      "link": "https://www.theverge.com/tech/921117/google-gemini-ai-assistant-cars-upgrade"
     }
   ]
 };
