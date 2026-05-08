@@ -1,6 +1,27 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-05-08T18:05:33.952872+00:00",
+  "lastUpdated": "2026-05-08T21:52:53.080095+00:00",
   "items": [
+    {
+      "title": "All the latest updates on AI data centers",
+      "summary": "Massive new data centers are the physical foundation for tech companies’ hopes and dreams for AI.",
+      "source": "The Verge",
+      "published": "2026-05-08T18:45:08+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/902546/data-centers-ai-energy-power-grids-controversy"
+    },
+    {
+      "title": "Cloudflare says AI made 1,100 jobs obsolete, even as revenue hit a record high",
+      "summary": "Cloudflare announced its first large-scale layoff. CEO Matthew Prince says because of AI efficiency gains, the company doesn't need as many support roles.",
+      "source": "TechCrunch",
+      "published": "2026-05-08T18:33:21+00:00",
+      "link": "https://techcrunch.com/2026/05/08/cloudflare-says-ai-made-1100-jobs-obsolete-even-as-revenue-hit-a-record-high/"
+    },
+    {
+      "title": "AI is breaking two vulnerability cultures",
+      "summary": "Article URL: https://www.jefftk.com/p/ai-is-breaking-two-vulnerability-cultures Comments URL: https://news.ycombinator.com/item?id=48066524 Points: 140 # Comments: 61",
+      "source": "Hacker News",
+      "published": "2026-05-08T17:55:08+00:00",
+      "link": "https://www.jefftk.com/p/ai-is-breaking-two-vulnerability-cultures"
+    },
     {
       "title": "AI money keeps flowing as Deepseek plans record raise and Core Automation quadruples valuation in weeks",
       "summary": "Deepseek is planning a funding round of up to $7.35 billion, the largest ever for a Chinese AI company. Deepseek V4.1 is set to launch in June.",
@@ -72,6 +93,13 @@ const FEED_DATA = {
       "link": "https://the-decoder.com/anthropic-approaches-1-trillion-valuation-as-revenue-grows-fivefold/"
     },
     {
+      "title": "Show HN: Git for AI Agents",
+      "summary": "hi guys. been working on something i think is fundamentally missing in today's workflow with ai agents.vcs.i find myself struggling with questions that agents can't answer like \"why did you do it?\", \"when did u delete this folder?",
+      "source": "Hacker News",
+      "published": "2026-05-08T14:15:36+00:00",
+      "link": "https://github.com/regent-vcs/re_gent"
+    },
+    {
       "title": "Everybody wants to rule the AI world",
       "summary": "Sometimes, companies pick CEOs based on carefully laid succession plans designed to maximize investor confidence and future performance.",
       "source": "The Verge",
@@ -84,6 +112,13 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-05-08T13:21:02+00:00",
       "link": "https://the-decoder.com/ai-safety-tests-have-a-new-problem-models-are-now-faking-their-own-reasoning-traces/"
+    },
+    {
+      "title": "Nanoleaf bets its future on robots, red light therapy, and AI",
+      "summary": "Smart lighting company Nanoleaf has been unusually quiet recently.",
+      "source": "The Verge",
+      "published": "2026-05-08T12:15:00+00:00",
+      "link": "https://www.theverge.com/tech/926342/nanoleaf-smart-lighting-ai-robotics-red-light-wellness"
     },
     {
       "title": "The Download: AI malaise and babymaking tech",
@@ -136,7 +171,7 @@ const FEED_DATA = {
     },
     {
       "title": "GPT-5.5 Price Increase: What It Costs",
-      "summary": "Article URL: https://openrouter.ai/announcements/gpt55-cost-analysis Comments URL: https://news.ycombinator.com/item?id=48057209 Points: 132 # Comments: 29",
+      "summary": "Article URL: https://openrouter.ai/announcements/gpt55-cost-analysis Comments URL: https://news.ycombinator.com/item?id=48057209 Points: 188 # Comments: 59",
       "source": "Hacker News",
       "published": "2026-05-08T01:02:28+00:00",
       "link": "https://openrouter.ai/announcements/gpt55-cost-analysis"
@@ -199,7 +234,7 @@ const FEED_DATA = {
     },
     {
       "title": "Two Home Affairs officials suspended after AI 'hallucinations' found",
-      "summary": "Article URL: https://www.citizen.co.za/news/home-affairs-officials-suspended-ai-hallucinations/ Comments URL: https://news.ycombinator.com/item?id=48053842 Points: 125 # Comments: 30",
+      "summary": "Article URL: https://www.citizen.co.za/news/home-affairs-officials-suspended-ai-hallucinations/ Comments URL: https://news.ycombinator.com/item?id=48053842 Points: 134 # Comments: 36",
       "source": "Hacker News",
       "published": "2026-05-07T19:38:36+00:00",
       "link": "https://www.citizen.co.za/news/home-affairs-officials-suspended-ai-hallucinations/"
@@ -234,7 +269,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI slop is killing online communities",
-      "summary": "Article URL: https://rmoff.net/2026/05/06/ai-slop-is-killing-online-communities/ Comments URL: https://news.ycombinator.com/item?id=48053203 Points: 754 # Comments: 649",
+      "summary": "Article URL: https://rmoff.net/2026/05/06/ai-slop-is-killing-online-communities/ Comments URL: https://news.ycombinator.com/item?id=48053203 Points: 794 # Comments: 687",
       "source": "Hacker News",
       "published": "2026-05-07T18:46:25+00:00",
       "link": "https://rmoff.net/2026/05/06/ai-slop-is-killing-online-communities/"
@@ -395,7 +430,7 @@ const FEED_DATA = {
     },
     {
       "title": "Making LLM Training Faster with Unsloth and NVIDIA",
-      "summary": "Article URL: https://unsloth.ai/blog/nvidia-collab Comments URL: https://news.ycombinator.com/item?id=48046397 Points: 120 # Comments: 24",
+      "summary": "Article URL: https://unsloth.ai/blog/nvidia-collab Comments URL: https://news.ycombinator.com/item?id=48046397 Points: 125 # Comments: 24",
       "source": "Hacker News",
       "published": "2026-05-07T07:15:11+00:00",
       "link": "https://unsloth.ai/blog/nvidia-collab"
@@ -511,6 +546,13 @@ const FEED_DATA = {
       "source": "Wired",
       "published": "2026-05-06T16:51:12+00:00",
       "link": "https://www.wired.com/story/i-am-begging-ai-companies-to-stop-naming-features-after-human-processes/"
+    },
+    {
+      "title": "Canadian fiddler sues Google after AI Overview claimed he was a sex offender",
+      "summary": "Article URL: https://www.theguardian.com/music/2026/may/05/canadian-ashley-macisaac-fiddler-musician-singer-songwriter-sues-google-ai-sex-offender-ntwnfb Comments URL: https://news.ycombinator.com/item?id=48037923 Points: 52 # Comments: 24",
+      "source": "Hacker News",
+      "published": "2026-05-06T16:12:50+00:00",
+      "link": "https://www.theguardian.com/music/2026/may/05/canadian-ashley-macisaac-fiddler-musician-singer-songwriter-sues-google-ai-sex-offender-ntwnfb"
     },
     {
       "title": "Google speeds up Gemma 4 threefold with multi-token prediction",
@@ -682,7 +724,7 @@ const FEED_DATA = {
     },
     {
       "title": "Telus Uses AI to Alter Call-Agent Accents",
-      "summary": "Article URL: https://letsdatascience.com/news/telus-uses-ai-to-alter-call-agent-accents-a3868f63 Comments URL: https://news.ycombinator.com/item?id=48031109 Points: 235 # Comments: 211",
+      "summary": "Article URL: https://letsdatascience.com/news/telus-uses-ai-to-alter-call-agent-accents-a3868f63 Comments URL: https://news.ycombinator.com/item?id=48031109 Points: 235 # Comments: 213",
       "source": "Hacker News",
       "published": "2026-05-06T01:38:44+00:00",
       "link": "https://letsdatascience.com/news/telus-uses-ai-to-alter-call-agent-accents-a3868f63"
@@ -787,7 +829,7 @@ const FEED_DATA = {
     },
     {
       "title": "GPT‑5.5 Instant",
-      "summary": "Article URL: https://openai.com/index/gpt-5-5-instant/ Comments URL: https://news.ycombinator.com/item?id=48025274 Points: 86 # Comments: 20",
+      "summary": "Article URL: https://openai.com/index/gpt-5-5-instant/ Comments URL: https://news.ycombinator.com/item?id=48025274 Points: 87 # Comments: 20",
       "source": "Hacker News",
       "published": "2026-05-05T17:02:23+00:00",
       "link": "https://openai.com/index/gpt-5-5-instant/"
@@ -864,7 +906,7 @@ const FEED_DATA = {
     },
     {
       "title": "SubQ: a sub-quadratic LLM with 12M-token context",
-      "summary": "Article URL: https://subq.ai/introducing-subq Comments URL: https://news.ycombinator.com/item?id=48023079 Points: 72 # Comments: 28",
+      "summary": "Article URL: https://subq.ai/introducing-subq Comments URL: https://news.ycombinator.com/item?id=48023079 Points: 73 # Comments: 28",
       "source": "Hacker News",
       "published": "2026-05-05T14:37:12+00:00",
       "link": "https://subq.ai/introducing-subq"
@@ -892,7 +934,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI didn't delete your database, you did",
-      "summary": "Article URL: https://idiallo.com/blog/ai-didnt-delete-your-database-you-did Comments URL: https://news.ycombinator.com/item?id=48022742 Points: 542 # Comments: 302",
+      "summary": "Article URL: https://idiallo.com/blog/ai-didnt-delete-your-database-you-did Comments URL: https://news.ycombinator.com/item?id=48022742 Points: 543 # Comments: 302",
       "source": "Hacker News",
       "published": "2026-05-05T14:07:50+00:00",
       "link": "https://idiallo.com/blog/ai-didnt-delete-your-database-you-did"
@@ -1018,7 +1060,7 @@ const FEED_DATA = {
     },
     {
       "title": "Google Chrome silently installs a 4 GB AI model on your device without consent",
-      "summary": "Article URL: https://www.thatprivacyguy.com/blog/chrome-silent-nano-install/ Comments URL: https://news.ycombinator.com/item?id=48019219 Points: 1724 # Comments: 1123",
+      "summary": "Article URL: https://www.thatprivacyguy.com/blog/chrome-silent-nano-install/ Comments URL: https://news.ycombinator.com/item?id=48019219 Points: 1730 # Comments: 1128",
       "source": "Hacker News",
       "published": "2026-05-05T07:34:55+00:00",
       "link": "https://www.thatprivacyguy.com/blog/chrome-silent-nano-install/"
@@ -1358,48 +1400,6 @@ const FEED_DATA = {
       "source": "Hacker News",
       "published": "2026-05-02T10:21:31+00:00",
       "link": "https://mljar.com/"
-    },
-    {
-      "title": "Elon Musk calls himself a fool for giving OpenAI $38 million that became an $800 billion company",
-      "summary": "Elon Musk called himself a \"fool\" in court, warned of a \"Terminator\" future, and admitted that xAI taps OpenAI's models for its own AI training. Week one of Musk's trial against Sam Altman delivered plenty of drama; and the best may still be ahead.",
-      "source": "The Decoder",
-      "published": "2026-05-02T09:27:21+00:00",
-      "link": "https://the-decoder.com/elon-musk-calls-himself-a-fool-for-giving-openai-38-million-that-became-an-800-billion-company/"
-    },
-    {
-      "title": "Show HN: Filling PDF forms with AI using client-side tool calling",
-      "summary": "Hey HN!I built SimplePDF Copilot: an AI assistant that can interact with the PDF editor.",
-      "source": "Hacker News",
-      "published": "2026-05-02T08:54:27+00:00",
-      "link": "https://copilot.simplepdf.com/?share=a7d00ad073c75a75d493228e6ff7b11eb3f2d945b6175913e87898ec96ca8076&form=w9&lang=en"
-    },
-    {
-      "title": "ChatGPT now tracks users for ads by default as OpenAI looks for new revenue",
-      "summary": "OpenAI has turned on marketing cookies by default for free ChatGPT users in countries where ads are running. Tracking is automatically active for free accounts but not for paying subscribers.",
-      "source": "The Decoder",
-      "published": "2026-05-02T08:30:15+00:00",
-      "link": "https://the-decoder.com/chatgpt-now-tracks-users-for-ads-by-default-as-openai-looks-for-new-revenue/"
-    },
-    {
-      "title": "Meta acquires Assured Robot Intelligence to accelerate humanoid robot push",
-      "summary": "Meta has acquired robotics AI startup Assured Robot Intelligence to accelerate its work on humanoid robots. The goal is an open platform for the entire industry, similar to what Android did for smartphones.",
-      "source": "The Decoder",
-      "published": "2026-05-02T08:02:06+00:00",
-      "link": "https://the-decoder.com/meta-acquires-assured-robot-intelligence-to-accelerate-humanoid-robot-push/"
-    },
-    {
-      "title": "xAI drops Grok 4.3 with steep price cuts and an Imagine agent mode for creative projects",
-      "summary": "With Grok 4.3, xAI is leaning into low prices and better tool use. The model shows gains on practical tasks, but it still trails the top models from OpenAI and Anthropic.",
-      "source": "The Decoder",
-      "published": "2026-05-02T07:35:24+00:00",
-      "link": "https://the-decoder.com/xai-drops-grok-4-3-with-steep-price-cuts-and-an-imagine-agent-mode-for-creative-projects/"
-    },
-    {
-      "title": "Show HN: Agent-desktop – Native desktop automation CLI for AI agents",
-      "summary": "I've been building computer-use tools for a while, and I quietly launched this about a month ago (122 Stars on GH). I figured it was worth sharing here.Over the last few months, a lot of computer-use agents have come out: Codex, Claude Code, CUA, and others.",
-      "source": "Hacker News",
-      "published": "2026-05-02T02:18:24+00:00",
-      "link": "https://github.com/lahfir/agent-desktop"
     }
   ]
 };
