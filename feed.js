@@ -1,6 +1,69 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-05-08T14:53:15.963864+00:00",
+  "lastUpdated": "2026-05-08T18:05:33.952872+00:00",
   "items": [
+    {
+      "title": "AI money keeps flowing as Deepseek plans record raise and Core Automation quadruples valuation in weeks",
+      "summary": "Deepseek is planning a funding round of up to $7.35 billion, the largest ever for a Chinese AI company. Deepseek V4.1 is set to launch in June.",
+      "source": "The Decoder",
+      "published": "2026-05-08T17:50:53+00:00",
+      "link": "https://the-decoder.com/ai-money-keeps-flowing-as-deepseek-plans-record-raise-and-core-automation-quadruples-valuation-in-weeks/"
+    },
+    {
+      "title": "PlayStation sees AI as a ‘powerful tool’ to help make games",
+      "summary": "As part of an earnings presentation on Friday, Sony shared how it's thinking about AI at the company, including many details about how it's evaluating AI as part of making PlayStation games.",
+      "source": "The Verge",
+      "published": "2026-05-08T16:30:56+00:00",
+      "link": "https://www.theverge.com/games/926914/sony-playstation-ai-powerful-tool-games"
+    },
+    {
+      "title": "SoftBank reportedly slashes OpenAI-backed loan from $10 billion to $6 billion as lenders balk at private AI valuations",
+      "summary": "SoftBank has reduced a loan secured by OpenAI shares from 10 to around 6 billion dollars. Lenders are apparently reluctant to reliably assess the value of an unlisted company like OpenAI.",
+      "source": "The Decoder",
+      "published": "2026-05-08T16:26:58+00:00",
+      "link": "https://the-decoder.com/softbank-reportedly-slashes-openai-backed-loan-from-10-billion-to-6-billion-as-lenders-balk-at-private-ai-valuations/"
+    },
+    {
+      "title": "Here’s what you need to know about the cruise ship hantavirus outbreak",
+      "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here.",
+      "source": "MIT Tech Review",
+      "published": "2026-05-08T16:19:40+00:00",
+      "link": "https://www.technologyreview.com/2026/05/08/1136988/heres-what-you-need-to-know-about-the-cruise-ship-hantavirus-outbreak/"
+    },
+    {
+      "title": "The “people’s airline” and the enterprise AI gold rush",
+      "summary": "Everyone wants a piece of the enterprise AI pie, and this week, we saw a string of companies making their moves.",
+      "source": "TechCrunch",
+      "published": "2026-05-08T15:46:17+00:00",
+      "link": "https://techcrunch.com/podcast/the-peoples-airline-and-the-enterprise-ai-gold-rush/"
+    },
+    {
+      "title": "Microsoft was worried OpenAI would run off to Amazon and ‘shit-talk’ Azure",
+      "summary": "When OpenAI was busy experimenting with AI-powered gaming bots, Microsoft CEO Satya Nadella and OpenAI CEO Sam Altman were in the early days of forming an AI partnership. Court documents from the ongoing Musk v.",
+      "source": "The Verge",
+      "published": "2026-05-08T15:25:02+00:00",
+      "link": "https://www.theverge.com/report/926771/microsoft-openai-amazon-worries-shit-talk-azure"
+    },
+    {
+      "title": "Nick Bostrom Has a Plan for Humanity’s ‘Big Retirement’",
+      "summary": "The philosopher thinks humans should pursue advanced AI and the promise of a “solved world.”",
+      "source": "Wired",
+      "published": "2026-05-08T15:00:00+00:00",
+      "link": "https://www.wired.com/story/nick-bostrom-has-a-plan-for-humanitys-big-retirement/"
+    },
+    {
+      "title": "There’s a Long-Shot Proposal to Protect California Workers From AI",
+      "summary": "California gubernatorial candidate Tom Steyer is proposing a new jobs guarantee for workers displaced by artificial intelligence.",
+      "source": "Wired",
+      "published": "2026-05-08T15:00:00+00:00",
+      "link": "https://www.wired.com/story/tom-steyer-proposes-jobs-guarantee-to-protect-california-workers-from-ai/"
+    },
+    {
+      "title": "RingCentral adds Shopify, Calendly, and WhatsApp to AI Receptionist",
+      "summary": "RingCentral has expanded its AI Receptionist product with new links to Shopify, Calendly and WhatsApp, as the communications software company tries to push the product beyond basic call answering and into more routine customer service tasks.",
+      "source": "AI News",
+      "published": "2026-05-08T14:54:00+00:00",
+      "link": "https://www.artificialintelligence-news.com/news/ringcentral-ai-adds-shopify-calendly-and-whatsapp-to-ai-receptionist/"
+    },
     {
       "title": "Anthropic approaches $1 trillion valuation as revenue grows fivefold",
       "summary": "According to the Financial Times, Anthropic's planned funding round is taking shape. The round aims to raise up to $50 billion, which would value the company at roughly $900 billion.",
@@ -49,6 +112,13 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-05-08T09:23:28+00:00",
       "link": "https://the-decoder.com/mozillas-agentic-ai-pipeline-turns-claude-mythos-preview-loose-and-finds-271-unknown-firefox-vulnerabilities/"
+    },
+    {
+      "title": "The fax machine is the bottleneck in US healthcare, and VCs are starting to notice",
+      "summary": "Like many AI companies automating work that humans currently do, Basata will eventually face a harder question about where the line is between augmenting workers and displacing them.",
+      "source": "TechCrunch",
+      "published": "2026-05-08T04:42:29+00:00",
+      "link": "https://techcrunch.com/2026/05/07/the-back-office-problem-that-explains-why-specialists-never-call-you-back/"
     },
     {
       "title": "Why you can never get your doctor to call you back",
@@ -1330,76 +1400,6 @@ const FEED_DATA = {
       "source": "Hacker News",
       "published": "2026-05-02T02:18:24+00:00",
       "link": "https://github.com/lahfir/agent-desktop"
-    },
-    {
-      "title": "Meta buys robotics startup to bolster its humanoid AI ambitions",
-      "summary": "Meta bought humanoid startup Assured Robot Intelligence to beef up its AI models for robots, the company said.",
-      "source": "TechCrunch",
-      "published": "2026-05-01T22:13:27+00:00",
-      "link": "https://techcrunch.com/2026/05/01/meta-buys-robotics-startup-to-bolster-its-humanoid-ai-ambitions/"
-    },
-    {
-      "title": "Musk v. Altman week 1: Elon Musk says he was duped, warns AI could kill us all, and admits that xAI distills OpenAI’s models",
-      "summary": "In the first week of the landmark trial between Elon Musk and OpenAI, Musk took the stand in a crisp black suit and tie and argued that OpenAI CEO Sam Altman and president Greg Brockman had deceived him into bankrolling the company.",
-      "source": "MIT Tech Review",
-      "published": "2026-05-01T22:08:19+00:00",
-      "link": "https://www.technologyreview.com/2026/05/01/1136800/musk-v-altman-week-1-musk-says-he-was-duped-warns-ai-could-kill-us-all-and-admits-that-xai-distills-openais-models/"
-    },
-    {
-      "title": "A Dark-Money Campaign Is Paying Influencers to Frame Chinese AI as a Threat",
-      "summary": "Build American AI, a nonprofit linked to a super PAC bankrolled by executives at OpenAI and Andreessen Horowitz, is funding a campaign to spread pro-AI messaging and stoke fears about China.",
-      "source": "Wired",
-      "published": "2026-05-01T20:25:28+00:00",
-      "link": "https://www.wired.com/story/super-pac-backed-by-openai-and-palantir-is-paying-tiktok-influencers-to-fear-monger-about-china/"
-    },
-    {
-      "title": "Did you know you can’t steal a charity? Don’t worry. Elon Musk will remind you.",
-      "summary": "Elon Musk spent the better part of three days on the witness stand this week in his lawsuit against OpenAI, and it’s already getting messy. Emails, texts, and his own tweets are surfacing in court, and there are plenty more witnesses to come.",
-      "source": "TechCrunch",
-      "published": "2026-05-01T17:44:29+00:00",
-      "link": "https://techcrunch.com/podcast/did-you-know-you-cant-steal-a-charity-dont-worry-elon-musk-will-remind-you/"
-    },
-    {
-      "title": "Show HN: AI CAD Harness",
-      "summary": "Hi HN, I'm Zach, one of the co-founders of Adam (https://adam.new).We've been on HN twice before with text-to-CAD/3D experiments [1][2].",
-      "source": "Hacker News",
-      "published": "2026-05-01T17:43:53+00:00",
-      "link": "https://fusion.adam.new/install"
-    },
-    {
-      "title": "AI uses less water than the public thinks",
-      "summary": "Article URL: https://californiawaterblog.com/2026/04/26/ai-water-use-distractions-and-lessons-for-california/ Comments URL: https://news.ycombinator.com/item?id=47977383 Points: 408 # Comments: 390",
-      "source": "Hacker News",
-      "published": "2026-05-01T17:18:58+00:00",
-      "link": "https://californiawaterblog.com/2026/04/26/ai-water-use-distractions-and-lessons-for-california/"
-    },
-    {
-      "title": "Spotify adds 'Verified' badges to distinguish human artists from AI",
-      "summary": "Article URL: https://www.bbc.com/news/articles/c5yerr4m1yno Comments URL: https://news.ycombinator.com/item?id=47976856 Points: 286 # Comments: 306",
-      "source": "Hacker News",
-      "published": "2026-05-01T16:42:41+00:00",
-      "link": "https://www.bbc.com/news/articles/c5yerr4m1yno"
-    },
-    {
-      "title": "Eight tech giants sign Pentagon deals to build an \"AI-first fighting force\" across classified networks",
-      "summary": "Eight tech companies are supplying AI for classified US military networks, part of the Pentagon's push to build an \"AI-first fighting force.\" Anthropic is notably absent from the list after the company rejected a usage clause and got flagged as a security risk.",
-      "source": "The Decoder",
-      "published": "2026-05-01T16:30:38+00:00",
-      "link": "https://the-decoder.com/eight-tech-giants-sign-pentagon-deals-to-build-an-ai-first-fighting-force-across-classified-networks/"
-    },
-    {
-      "title": "Uber torches 2026 AI budget on Claude Code in four months",
-      "summary": "Article URL: https://www.briefs.co/news/uber-torches-entire-2026-ai-budget-on-claude-code-in-four-months/ Comments URL: https://news.ycombinator.com/item?id=47976415 Points: 401 # Comments: 474",
-      "source": "Hacker News",
-      "published": "2026-05-01T16:08:53+00:00",
-      "link": "https://www.briefs.co/news/uber-torches-entire-2026-ai-budget-on-claude-code-in-four-months/"
-    },
-    {
-      "title": "First Chinese AI startups are reportedly ditching offshore structures to register directly in China",
-      "summary": "After Beijing blocked Meta's takeover of Manus, China's securities regulator signaled that companies hoping to go public should be registered at home.",
-      "source": "The Decoder",
-      "published": "2026-05-01T16:06:04+00:00",
-      "link": "https://the-decoder.com/first-chinese-ai-startups-are-reportedly-ditching-offshore-structures-to-register-directly-in-china/"
     }
   ]
 };
