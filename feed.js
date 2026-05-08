@@ -1,6 +1,20 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-05-08T06:53:01.890054+00:00",
+  "lastUpdated": "2026-05-08T10:13:56.813402+00:00",
   "items": [
+    {
+      "title": "The New Wild West of AI Kids’ Toys",
+      "summary": "These cuddly, connected companions could disrupt everything from make-believe to bedtime stories. No wonder some lawmakers want them banned.",
+      "source": "Wired",
+      "published": "2026-05-08T10:00:00+00:00",
+      "link": "https://www.wired.com/story/the-new-wild-west-of-ai-kids-toys/"
+    },
+    {
+      "title": "Mozilla's agentic AI pipeline turns Claude Mythos Preview loose and finds 271 unknown Firefox vulnerabilities",
+      "summary": "Anthropic's Claude Mythos Preview uncovered 271 previously unknown security vulnerabilities in Firefox 150, including bugs up to 20 years old. Mozilla describes an agentic pipeline where the AI builds and runs its own test cases to filter out false positives.",
+      "source": "The Decoder",
+      "published": "2026-05-08T09:23:28+00:00",
+      "link": "https://the-decoder.com/mozillas-agentic-ai-pipeline-turns-claude-mythos-preview-loose-and-finds-271-unknown-firefox-vulnerabilities/"
+    },
     {
       "title": "Why you can never get your doctor to call you back",
       "summary": "Like many AI companies automating work that humans currently do, Basata will eventually face a harder question about where the line is between augmenting workers and displacing them.",
@@ -73,14 +87,14 @@ const FEED_DATA = {
     },
     {
       "title": "Two Home Affairs officials suspended after AI 'hallucinations' found",
-      "summary": "Article URL: https://www.citizen.co.za/news/home-affairs-officials-suspended-ai-hallucinations/ Comments URL: https://news.ycombinator.com/item?id=48053842 Points: 78 # Comments: 18",
+      "summary": "Article URL: https://www.citizen.co.za/news/home-affairs-officials-suspended-ai-hallucinations/ Comments URL: https://news.ycombinator.com/item?id=48053842 Points: 100 # Comments: 22",
       "source": "Hacker News",
       "published": "2026-05-07T19:38:36+00:00",
       "link": "https://www.citizen.co.za/news/home-affairs-officials-suspended-ai-hallucinations/"
     },
     {
       "title": "SpaceX has a $55 billion plan to build AI chips in Texas",
-      "summary": "Elon Musk's plans to get into the AI chip manufacturing business are going to be costly. As the New York Times and CNBC report, SpaceX is planning to invest at least $55 billion into its \"Terafab\" chip plant in Austin, Texas.",
+      "summary": "Elon Musk's plans to get into the AI chip manufacturing business are going to be costly. As the The New York Times and CNBC report, SpaceX is planning to invest at least $55 billion into its \"Terafab\" chip plant in Austin, Texas.",
       "source": "The Verge",
       "published": "2026-05-07T19:26:16+00:00",
       "link": "https://www.theverge.com/ai-artificial-intelligence/926356/spacex-terafab-plant-cost-ai-chips"
@@ -108,7 +122,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI slop is killing online communities",
-      "summary": "Article URL: https://rmoff.net/2026/05/06/ai-slop-is-killing-online-communities/ Comments URL: https://news.ycombinator.com/item?id=48053203 Points: 590 # Comments: 532",
+      "summary": "Article URL: https://rmoff.net/2026/05/06/ai-slop-is-killing-online-communities/ Comments URL: https://news.ycombinator.com/item?id=48053203 Points: 669 # Comments: 572",
       "source": "Hacker News",
       "published": "2026-05-07T18:46:25+00:00",
       "link": "https://rmoff.net/2026/05/06/ai-slop-is-killing-online-communities/"
@@ -269,7 +283,7 @@ const FEED_DATA = {
     },
     {
       "title": "Making LLM Training Faster with Unsloth and NVIDIA",
-      "summary": "Article URL: https://unsloth.ai/blog/nvidia-collab Comments URL: https://news.ycombinator.com/item?id=48046397 Points: 115 # Comments: 21",
+      "summary": "Article URL: https://unsloth.ai/blog/nvidia-collab Comments URL: https://news.ycombinator.com/item?id=48046397 Points: 117 # Comments: 22",
       "source": "Hacker News",
       "published": "2026-05-07T07:15:11+00:00",
       "link": "https://unsloth.ai/blog/nvidia-collab"
@@ -717,7 +731,7 @@ const FEED_DATA = {
     },
     {
       "title": "Three Inverse Laws of AI",
-      "summary": "Article URL: https://susam.net/inverse-laws-of-robotics.html Comments URL: https://news.ycombinator.com/item?id=48023861 Points: 540 # Comments: 349",
+      "summary": "Article URL: https://susam.net/inverse-laws-of-robotics.html Comments URL: https://news.ycombinator.com/item?id=48023861 Points: 541 # Comments: 349",
       "source": "Hacker News",
       "published": "2026-05-05T15:27:18+00:00",
       "link": "https://susam.net/inverse-laws-of-robotics.html"
@@ -766,7 +780,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI didn't delete your database, you did",
-      "summary": "Article URL: https://idiallo.com/blog/ai-didnt-delete-your-database-you-did Comments URL: https://news.ycombinator.com/item?id=48022742 Points: 541 # Comments: 301",
+      "summary": "Article URL: https://idiallo.com/blog/ai-didnt-delete-your-database-you-did Comments URL: https://news.ycombinator.com/item?id=48022742 Points: 542 # Comments: 301",
       "source": "Hacker News",
       "published": "2026-05-05T14:07:50+00:00",
       "link": "https://idiallo.com/blog/ai-didnt-delete-your-database-you-did"
@@ -892,7 +906,7 @@ const FEED_DATA = {
     },
     {
       "title": "Google Chrome silently installs a 4 GB AI model on your device without consent",
-      "summary": "Article URL: https://www.thatprivacyguy.com/blog/chrome-silent-nano-install/ Comments URL: https://news.ycombinator.com/item?id=48019219 Points: 1720 # Comments: 1123",
+      "summary": "Article URL: https://www.thatprivacyguy.com/blog/chrome-silent-nano-install/ Comments URL: https://news.ycombinator.com/item?id=48019219 Points: 1721 # Comments: 1123",
       "source": "Hacker News",
       "published": "2026-05-05T07:34:55+00:00",
       "link": "https://www.thatprivacyguy.com/blog/chrome-silent-nano-install/"
@@ -1386,20 +1400,6 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-05-01T14:00:00+00:00",
       "link": "https://techcrunch.com/video/musk-v-altman-is-just-getting-started/"
-    },
-    {
-      "title": "ChatGPT's goblin obsession may be hilarious, but it points to a deeper problem in AI training",
-      "summary": "A faulty reward signal during training caused ChatGPT models to start dropping goblins, gremlins, and other mythical creatures into their answers at a surprising rate. OpenAI says it's an example of how small, poorly tuned training incentives can produce unexpected side effects.",
-      "source": "The Decoder",
-      "published": "2026-05-01T13:47:57+00:00",
-      "link": "https://the-decoder.com/chatgpts-goblin-obsession-may-be-hilarious-but-it-points-to-a-deeper-problem-in-ai-training/"
-    },
-    {
-      "title": "Elon Musk had a bad week in court",
-      "summary": "Elon Musk is the one who wanted this trial. He has spent months claiming OpenAI \"stole a nonprofit,\" and saying he was the actual driving force behind one of the most important companies currently in tech.",
-      "source": "The Verge",
-      "published": "2026-05-01T13:33:15+00:00",
-      "link": "https://www.theverge.com/podcast/922009/musk-openai-trial-testimony-vergecast"
     }
   ]
 };
