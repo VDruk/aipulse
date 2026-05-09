@@ -1,9 +1,23 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-05-09T07:08:46.264639+00:00",
+  "lastUpdated": "2026-05-09T09:58:36.153074+00:00",
   "items": [
     {
+      "title": "All my clients wanted a carousel, now it's an AI chatbot",
+      "summary": "Article URL: https://adele.pages.casa/md/blog/all-my-clients-wanted-a-carousel-now-it-s-an-ai-chatbot.md Comments URL: https://news.ycombinator.com/item?id=48072720 Points: 86 # Comments: 35",
+      "source": "Hacker News",
+      "published": "2026-05-09T07:23:40+00:00",
+      "link": "https://adele.pages.casa/md/blog/all-my-clients-wanted-a-carousel-now-it-s-an-ai-chatbot.md"
+    },
+    {
+      "title": "Pseudoscientific emotion AI is invading the workplace, an Atlantic report shows",
+      "summary": "Software that claims to read human emotions using AI is quietly becoming a fixture of everyday work life, Ellen Cushing reports in a feature for The Atlantic.",
+      "source": "The Decoder",
+      "published": "2026-05-09T07:20:09+00:00",
+      "link": "https://the-decoder.com/pseudoscientific-emotion-ai-is-invading-the-workplace-an-atlantic-report-shows/"
+    },
+    {
       "title": "People Hate AI Art",
-      "summary": "Article URL: https://mccue.dev/pages/5-8-26-ai-art Comments URL: https://news.ycombinator.com/item?id=48070548 Points: 109 # Comments: 125",
+      "summary": "Article URL: https://mccue.dev/pages/5-8-26-ai-art Comments URL: https://news.ycombinator.com/item?id=48070548 Points: 116 # Comments: 130",
       "source": "Hacker News",
       "published": "2026-05-09T00:39:58+00:00",
       "link": "https://mccue.dev/pages/5-8-26-ai-art"
@@ -38,7 +52,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI is breaking two vulnerability cultures",
-      "summary": "Article URL: https://www.jefftk.com/p/ai-is-breaking-two-vulnerability-cultures Comments URL: https://news.ycombinator.com/item?id=48066524 Points: 310 # Comments: 128",
+      "summary": "Article URL: https://www.jefftk.com/p/ai-is-breaking-two-vulnerability-cultures Comments URL: https://news.ycombinator.com/item?id=48066524 Points: 331 # Comments: 133",
       "source": "Hacker News",
       "published": "2026-05-08T17:55:08+00:00",
       "link": "https://www.jefftk.com/p/ai-is-breaking-two-vulnerability-cultures"
@@ -192,7 +206,7 @@ const FEED_DATA = {
     },
     {
       "title": "GPT-5.5 Price Increase: What It Costs",
-      "summary": "Article URL: https://openrouter.ai/announcements/gpt55-cost-analysis Comments URL: https://news.ycombinator.com/item?id=48057209 Points: 206 # Comments: 63",
+      "summary": "Article URL: https://openrouter.ai/announcements/gpt55-cost-analysis Comments URL: https://news.ycombinator.com/item?id=48057209 Points: 206 # Comments: 64",
       "source": "Hacker News",
       "published": "2026-05-08T01:02:28+00:00",
       "link": "https://openrouter.ai/announcements/gpt55-cost-analysis"
@@ -290,7 +304,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI slop is killing online communities",
-      "summary": "Article URL: https://rmoff.net/2026/05/06/ai-slop-is-killing-online-communities/ Comments URL: https://news.ycombinator.com/item?id=48053203 Points: 809 # Comments: 705",
+      "summary": "Article URL: https://rmoff.net/2026/05/06/ai-slop-is-killing-online-communities/ Comments URL: https://news.ycombinator.com/item?id=48053203 Points: 811 # Comments: 707",
       "source": "Hacker News",
       "published": "2026-05-07T18:46:25+00:00",
       "link": "https://rmoff.net/2026/05/06/ai-slop-is-killing-online-communities/"
@@ -1081,7 +1095,7 @@ const FEED_DATA = {
     },
     {
       "title": "Google Chrome silently installs a 4 GB AI model on your device without consent",
-      "summary": "Article URL: https://www.thatprivacyguy.com/blog/chrome-silent-nano-install/ Comments URL: https://news.ycombinator.com/item?id=48019219 Points: 1732 # Comments: 1128",
+      "summary": "Article URL: https://www.thatprivacyguy.com/blog/chrome-silent-nano-install/ Comments URL: https://news.ycombinator.com/item?id=48019219 Points: 1733 # Comments: 1128",
       "source": "Hacker News",
       "published": "2026-05-05T07:34:55+00:00",
       "link": "https://www.thatprivacyguy.com/blog/chrome-silent-nano-install/"
@@ -1386,20 +1400,6 @@ const FEED_DATA = {
       "source": "Hacker News",
       "published": "2026-05-02T15:28:13+00:00",
       "link": "https://arxiv.org/abs/2509.00462"
-    },
-    {
-      "title": "Even the latest AI models make three systematic reasoning errors, ARC-AGI-3 analysis shows",
-      "summary": "The ARC Prize Foundation analyzed 160 game runs of OpenAI's GPT-5.5 and Anthropic's Opus 4.7 on the ARC-AGI-3 benchmark. Three systematic error patterns explain why both models stay below 1 percent on tasks that humans can solve without much trouble.",
-      "source": "The Decoder",
-      "published": "2026-05-02T13:31:52+00:00",
-      "link": "https://the-decoder.com/even-the-latest-ai-models-make-three-systematic-reasoning-errors-arc-agi-3-analysis-shows/"
-    },
-    {
-      "title": "xAI's new Custom Voices feature turns a minute of speech into a usable voice clone",
-      "summary": "xAI now lets developers clone their own voices for AI applications. The new \"Custom Voices\" feature builds on the recently launched Grok Speech-to-Text and Text-to-Speech APIs.",
-      "source": "The Decoder",
-      "published": "2026-05-02T12:14:46+00:00",
-      "link": "https://the-decoder.com/xais-new-custom-voices-feature-turns-a-minute-of-speech-into-a-usable-voice-clone/"
     }
   ]
 };
