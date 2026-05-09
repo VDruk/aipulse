@@ -1,6 +1,27 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-05-08T21:52:53.080095+00:00",
+  "lastUpdated": "2026-05-09T04:22:06.603420+00:00",
   "items": [
+    {
+      "title": "People Hate AI Art",
+      "summary": "Article URL: https://mccue.dev/pages/5-8-26-ai-art Comments URL: https://news.ycombinator.com/item?id=48070548 Points: 102 # Comments: 110",
+      "source": "Hacker News",
+      "published": "2026-05-09T00:39:58+00:00",
+      "link": "https://mccue.dev/pages/5-8-26-ai-art"
+    },
+    {
+      "title": "Musk v. Altman week 2: OpenAI fires back, and Shivon Zilis reveals that Musk tried to poach Sam Altman",
+      "summary": "In the second week of the landmark trial between Elon Musk and OpenAI, Musk’s motivations for bringing the suit were under scrutiny.",
+      "source": "MIT Tech Review",
+      "published": "2026-05-08T23:59:19+00:00",
+      "link": "https://www.technologyreview.com/2026/05/08/1137008/musk-v-altman-week-2-openai-fires-back-and-shivon-zilis-reveals-that-musk-tried-to-poach-sam-altman/"
+    },
+    {
+      "title": "Laid-off Oracle workers tried to negotiate better severance. Oracle said no.",
+      "summary": "Some found out they didn't qualify for WARN Act protections like two-months notice because the company had classified them as remote workers.",
+      "source": "TechCrunch",
+      "published": "2026-05-08T22:59:05+00:00",
+      "link": "https://techcrunch.com/2026/05/08/laid-off-oracle-workers-tried-to-negotiate-better-severance-oracle-said-no/"
+    },
     {
       "title": "All the latest updates on AI data centers",
       "summary": "Massive new data centers are the physical foundation for tech companies’ hopes and dreams for AI.",
@@ -17,7 +38,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI is breaking two vulnerability cultures",
-      "summary": "Article URL: https://www.jefftk.com/p/ai-is-breaking-two-vulnerability-cultures Comments URL: https://news.ycombinator.com/item?id=48066524 Points: 140 # Comments: 61",
+      "summary": "Article URL: https://www.jefftk.com/p/ai-is-breaking-two-vulnerability-cultures Comments URL: https://news.ycombinator.com/item?id=48066524 Points: 281 # Comments: 123",
       "source": "Hacker News",
       "published": "2026-05-08T17:55:08+00:00",
       "link": "https://www.jefftk.com/p/ai-is-breaking-two-vulnerability-cultures"
@@ -171,7 +192,7 @@ const FEED_DATA = {
     },
     {
       "title": "GPT-5.5 Price Increase: What It Costs",
-      "summary": "Article URL: https://openrouter.ai/announcements/gpt55-cost-analysis Comments URL: https://news.ycombinator.com/item?id=48057209 Points: 188 # Comments: 59",
+      "summary": "Article URL: https://openrouter.ai/announcements/gpt55-cost-analysis Comments URL: https://news.ycombinator.com/item?id=48057209 Points: 202 # Comments: 63",
       "source": "Hacker News",
       "published": "2026-05-08T01:02:28+00:00",
       "link": "https://openrouter.ai/announcements/gpt55-cost-analysis"
@@ -234,7 +255,7 @@ const FEED_DATA = {
     },
     {
       "title": "Two Home Affairs officials suspended after AI 'hallucinations' found",
-      "summary": "Article URL: https://www.citizen.co.za/news/home-affairs-officials-suspended-ai-hallucinations/ Comments URL: https://news.ycombinator.com/item?id=48053842 Points: 134 # Comments: 36",
+      "summary": "Article URL: https://www.citizen.co.za/news/home-affairs-officials-suspended-ai-hallucinations/ Comments URL: https://news.ycombinator.com/item?id=48053842 Points: 137 # Comments: 36",
       "source": "Hacker News",
       "published": "2026-05-07T19:38:36+00:00",
       "link": "https://www.citizen.co.za/news/home-affairs-officials-suspended-ai-hallucinations/"
@@ -269,7 +290,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI slop is killing online communities",
-      "summary": "Article URL: https://rmoff.net/2026/05/06/ai-slop-is-killing-online-communities/ Comments URL: https://news.ycombinator.com/item?id=48053203 Points: 794 # Comments: 687",
+      "summary": "Article URL: https://rmoff.net/2026/05/06/ai-slop-is-killing-online-communities/ Comments URL: https://news.ycombinator.com/item?id=48053203 Points: 806 # Comments: 699",
       "source": "Hacker News",
       "published": "2026-05-07T18:46:25+00:00",
       "link": "https://rmoff.net/2026/05/06/ai-slop-is-killing-online-communities/"
@@ -430,7 +451,7 @@ const FEED_DATA = {
     },
     {
       "title": "Making LLM Training Faster with Unsloth and NVIDIA",
-      "summary": "Article URL: https://unsloth.ai/blog/nvidia-collab Comments URL: https://news.ycombinator.com/item?id=48046397 Points: 125 # Comments: 24",
+      "summary": "Article URL: https://unsloth.ai/blog/nvidia-collab Comments URL: https://news.ycombinator.com/item?id=48046397 Points: 125 # Comments: 25",
       "source": "Hacker News",
       "published": "2026-05-07T07:15:11+00:00",
       "link": "https://unsloth.ai/blog/nvidia-collab"
@@ -549,7 +570,7 @@ const FEED_DATA = {
     },
     {
       "title": "Canadian fiddler sues Google after AI Overview claimed he was a sex offender",
-      "summary": "Article URL: https://www.theguardian.com/music/2026/may/05/canadian-ashley-macisaac-fiddler-musician-singer-songwriter-sues-google-ai-sex-offender-ntwnfb Comments URL: https://news.ycombinator.com/item?id=48037923 Points: 52 # Comments: 24",
+      "summary": "Article URL: https://www.theguardian.com/music/2026/may/05/canadian-ashley-macisaac-fiddler-musician-singer-songwriter-sues-google-ai-sex-offender-ntwnfb Comments URL: https://news.ycombinator.com/item?id=48037923 Points: 54 # Comments: 25",
       "source": "Hacker News",
       "published": "2026-05-06T16:12:50+00:00",
       "link": "https://www.theguardian.com/music/2026/may/05/canadian-ashley-macisaac-fiddler-musician-singer-songwriter-sues-google-ai-sex-offender-ntwnfb"
@@ -724,7 +745,7 @@ const FEED_DATA = {
     },
     {
       "title": "Telus Uses AI to Alter Call-Agent Accents",
-      "summary": "Article URL: https://letsdatascience.com/news/telus-uses-ai-to-alter-call-agent-accents-a3868f63 Comments URL: https://news.ycombinator.com/item?id=48031109 Points: 235 # Comments: 213",
+      "summary": "Article URL: https://letsdatascience.com/news/telus-uses-ai-to-alter-call-agent-accents-a3868f63 Comments URL: https://news.ycombinator.com/item?id=48031109 Points: 235 # Comments: 214",
       "source": "Hacker News",
       "published": "2026-05-06T01:38:44+00:00",
       "link": "https://letsdatascience.com/news/telus-uses-ai-to-alter-call-agent-accents-a3868f63"
@@ -1060,14 +1081,14 @@ const FEED_DATA = {
     },
     {
       "title": "Google Chrome silently installs a 4 GB AI model on your device without consent",
-      "summary": "Article URL: https://www.thatprivacyguy.com/blog/chrome-silent-nano-install/ Comments URL: https://news.ycombinator.com/item?id=48019219 Points: 1730 # Comments: 1128",
+      "summary": "Article URL: https://www.thatprivacyguy.com/blog/chrome-silent-nano-install/ Comments URL: https://news.ycombinator.com/item?id=48019219 Points: 1732 # Comments: 1128",
       "source": "Hacker News",
       "published": "2026-05-05T07:34:55+00:00",
       "link": "https://www.thatprivacyguy.com/blog/chrome-silent-nano-install/"
     },
     {
       "title": "Train Your Own LLM from Scratch",
-      "summary": "Article URL: https://github.com/angelos-p/llm-from-scratch Comments URL: https://news.ycombinator.com/item?id=48017948 Points: 473 # Comments: 50",
+      "summary": "Article URL: https://github.com/angelos-p/llm-from-scratch Comments URL: https://news.ycombinator.com/item?id=48017948 Points: 474 # Comments: 50",
       "source": "Hacker News",
       "published": "2026-05-05T04:09:17+00:00",
       "link": "https://github.com/angelos-p/llm-from-scratch"
@@ -1379,27 +1400,6 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-05-02T12:14:46+00:00",
       "link": "https://the-decoder.com/xais-new-custom-voices-feature-turns-a-minute-of-speech-into-a-usable-voice-clone/"
-    },
-    {
-      "title": "Nvidia CEO Jensen Huang calls out tech leaders' \"god complex\" over reckless AI job loss predictions",
-      "summary": "AI scaremongering costs jobs instead of protecting them, says Nvidia CEO Jensen Huang. Talking young people out of future careers, he argues, does real harm to society.",
-      "source": "The Decoder",
-      "published": "2026-05-02T10:32:09+00:00",
-      "link": "https://the-decoder.com/nvidia-ceo-jensen-huang-calls-out-tech-leaders-god-complex-over-reckless-ai-job-loss-predictions/"
-    },
-    {
-      "title": "Disneyland Now Uses Face Recognition on Visitors",
-      "summary": "Plus: The NSA tests Anthropic’s Mythos Preview to find vulnerabilities, a Finnish teen is charged over the Scattered Spider hacking spree, and more.",
-      "source": "Wired",
-      "published": "2026-05-02T10:30:00+00:00",
-      "link": "https://www.wired.com/story/security-news-this-week-disneyland-now-uses-face-recognition-on-visitors/"
-    },
-    {
-      "title": "Show HN: Mljar Studio – local AI data analyst that saves analysis as notebooks",
-      "summary": "Hi HN,I’ve been working on mljar-supervised (open-source AutoML for tabular data) for a few years.",
-      "source": "Hacker News",
-      "published": "2026-05-02T10:21:31+00:00",
-      "link": "https://mljar.com/"
     }
   ]
 };
