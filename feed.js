@@ -1,9 +1,23 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-05-09T09:58:36.153074+00:00",
+  "lastUpdated": "2026-05-09T14:17:35.375439+00:00",
   "items": [
     {
+      "title": "Broadcom reportedly won't build OpenAI's custom chip unless Microsoft buys 40 percent of them",
+      "summary": "OpenAI's custom AI chip project with Broadcom has hit a funding wall. Broadcom won't finance production unless Microsoft commits to buying 40 percent of the chips, and Microsoft hasn't agreed yet.",
+      "source": "The Decoder",
+      "published": "2026-05-09T10:45:18+00:00",
+      "link": "https://the-decoder.com/broadcom-reportedly-wont-build-openais-custom-chip-unless-microsoft-buys-40-percent-of-them/"
+    },
+    {
+      "title": "Google's \"Preferred Sources\" feature is a free pass for more garbage in search",
+      "summary": "Google frames \"Preferred Sources\" as a way to bring more quality journalism into search. In practice, it shifts responsibility to a manual setting almost no one will use.",
+      "source": "The Decoder",
+      "published": "2026-05-09T10:29:00+00:00",
+      "link": "https://the-decoder.com/googles-preferred-sources-feature-is-a-free-pass-for-more-garbage-in-search/"
+    },
+    {
       "title": "All my clients wanted a carousel, now it's an AI chatbot",
-      "summary": "Article URL: https://adele.pages.casa/md/blog/all-my-clients-wanted-a-carousel-now-it-s-an-ai-chatbot.md Comments URL: https://news.ycombinator.com/item?id=48072720 Points: 86 # Comments: 35",
+      "summary": "Article URL: https://adele.pages.casa/md/blog/all-my-clients-wanted-a-carousel-now-it-s-an-ai-chatbot.md Comments URL: https://news.ycombinator.com/item?id=48072720 Points: 117 # Comments: 53",
       "source": "Hacker News",
       "published": "2026-05-09T07:23:40+00:00",
       "link": "https://adele.pages.casa/md/blog/all-my-clients-wanted-a-carousel-now-it-s-an-ai-chatbot.md"
@@ -16,8 +30,15 @@ const FEED_DATA = {
       "link": "https://the-decoder.com/pseudoscientific-emotion-ai-is-invading-the-workplace-an-atlantic-report-shows/"
     },
     {
+      "title": "I Will Never Use AI to Code",
+      "summary": "Article URL: https://antman-does-software.com/i-will-never-use-ai-to-code-or-write Comments URL: https://news.ycombinator.com/item?id=48072319 Points: 50 # Comments: 60",
+      "source": "Hacker News",
+      "published": "2026-05-09T06:14:20+00:00",
+      "link": "https://antman-does-software.com/i-will-never-use-ai-to-code-or-write"
+    },
+    {
       "title": "People Hate AI Art",
-      "summary": "Article URL: https://mccue.dev/pages/5-8-26-ai-art Comments URL: https://news.ycombinator.com/item?id=48070548 Points: 116 # Comments: 130",
+      "summary": "Article URL: https://mccue.dev/pages/5-8-26-ai-art Comments URL: https://news.ycombinator.com/item?id=48070548 Points: 124 # Comments: 145",
       "source": "Hacker News",
       "published": "2026-05-09T00:39:58+00:00",
       "link": "https://mccue.dev/pages/5-8-26-ai-art"
@@ -52,7 +73,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI is breaking two vulnerability cultures",
-      "summary": "Article URL: https://www.jefftk.com/p/ai-is-breaking-two-vulnerability-cultures Comments URL: https://news.ycombinator.com/item?id=48066524 Points: 331 # Comments: 133",
+      "summary": "Article URL: https://www.jefftk.com/p/ai-is-breaking-two-vulnerability-cultures Comments URL: https://news.ycombinator.com/item?id=48066524 Points: 364 # Comments: 143",
       "source": "Hacker News",
       "published": "2026-05-08T17:55:08+00:00",
       "link": "https://www.jefftk.com/p/ai-is-breaking-two-vulnerability-cultures"
@@ -206,7 +227,7 @@ const FEED_DATA = {
     },
     {
       "title": "GPT-5.5 Price Increase: What It Costs",
-      "summary": "Article URL: https://openrouter.ai/announcements/gpt55-cost-analysis Comments URL: https://news.ycombinator.com/item?id=48057209 Points: 206 # Comments: 64",
+      "summary": "Article URL: https://openrouter.ai/announcements/gpt55-cost-analysis Comments URL: https://news.ycombinator.com/item?id=48057209 Points: 206 # Comments: 65",
       "source": "Hacker News",
       "published": "2026-05-08T01:02:28+00:00",
       "link": "https://openrouter.ai/announcements/gpt55-cost-analysis"
@@ -269,7 +290,7 @@ const FEED_DATA = {
     },
     {
       "title": "Two Home Affairs officials suspended after AI 'hallucinations' found",
-      "summary": "Article URL: https://www.citizen.co.za/news/home-affairs-officials-suspended-ai-hallucinations/ Comments URL: https://news.ycombinator.com/item?id=48053842 Points: 138 # Comments: 37",
+      "summary": "Article URL: https://www.citizen.co.za/news/home-affairs-officials-suspended-ai-hallucinations/ Comments URL: https://news.ycombinator.com/item?id=48053842 Points: 139 # Comments: 38",
       "source": "Hacker News",
       "published": "2026-05-07T19:38:36+00:00",
       "link": "https://www.citizen.co.za/news/home-affairs-officials-suspended-ai-hallucinations/"
@@ -304,7 +325,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI slop is killing online communities",
-      "summary": "Article URL: https://rmoff.net/2026/05/06/ai-slop-is-killing-online-communities/ Comments URL: https://news.ycombinator.com/item?id=48053203 Points: 811 # Comments: 707",
+      "summary": "Article URL: https://rmoff.net/2026/05/06/ai-slop-is-killing-online-communities/ Comments URL: https://news.ycombinator.com/item?id=48053203 Points: 817 # Comments: 707",
       "source": "Hacker News",
       "published": "2026-05-07T18:46:25+00:00",
       "link": "https://rmoff.net/2026/05/06/ai-slop-is-killing-online-communities/"
@@ -465,7 +486,7 @@ const FEED_DATA = {
     },
     {
       "title": "Making LLM Training Faster with Unsloth and NVIDIA",
-      "summary": "Article URL: https://unsloth.ai/blog/nvidia-collab Comments URL: https://news.ycombinator.com/item?id=48046397 Points: 125 # Comments: 25",
+      "summary": "Article URL: https://unsloth.ai/blog/nvidia-collab Comments URL: https://news.ycombinator.com/item?id=48046397 Points: 126 # Comments: 25",
       "source": "Hacker News",
       "published": "2026-05-07T07:15:11+00:00",
       "link": "https://unsloth.ai/blog/nvidia-collab"
@@ -787,7 +808,7 @@ const FEED_DATA = {
     },
     {
       "title": "Xbox CEO ends Copilot AI development and overhauls leadership",
-      "summary": "Article URL: https://www.dexerto.com/gaming/xbox-ceo-ends-copilot-ai-development-overhauls-leadership-3361353/ Comments URL: https://news.ycombinator.com/item?id=48029753 Points: 111 # Comments: 41",
+      "summary": "Article URL: https://www.dexerto.com/gaming/xbox-ceo-ends-copilot-ai-development-overhauls-leadership-3361353/ Comments URL: https://news.ycombinator.com/item?id=48029753 Points: 112 # Comments: 41",
       "source": "Hacker News",
       "published": "2026-05-05T22:43:47+00:00",
       "link": "https://www.dexerto.com/gaming/xbox-ceo-ends-copilot-ai-development-overhauls-leadership-3361353/"
@@ -920,7 +941,7 @@ const FEED_DATA = {
     },
     {
       "title": "Three Inverse Laws of AI",
-      "summary": "Article URL: https://susam.net/inverse-laws-of-robotics.html Comments URL: https://news.ycombinator.com/item?id=48023861 Points: 542 # Comments: 349",
+      "summary": "Article URL: https://susam.net/inverse-laws-of-robotics.html Comments URL: https://news.ycombinator.com/item?id=48023861 Points: 543 # Comments: 349",
       "source": "Hacker News",
       "published": "2026-05-05T15:27:18+00:00",
       "link": "https://susam.net/inverse-laws-of-robotics.html"
@@ -1081,7 +1102,7 @@ const FEED_DATA = {
     },
     {
       "title": "When everyone has AI and the company still learns nothing",
-      "summary": "Article URL: https://www.robert-glaser.de/when-everyone-has-ai-and-the-company-still-learns-nothing/ Comments URL: https://news.ycombinator.com/item?id=48020063 Points: 387 # Comments: 269",
+      "summary": "Article URL: https://www.robert-glaser.de/when-everyone-has-ai-and-the-company-still-learns-nothing/ Comments URL: https://news.ycombinator.com/item?id=48020063 Points: 387 # Comments: 271",
       "source": "Hacker News",
       "published": "2026-05-05T09:30:22+00:00",
       "link": "https://www.robert-glaser.de/when-everyone-has-ai-and-the-company-still-learns-nothing/"
@@ -1379,27 +1400,6 @@ const FEED_DATA = {
       "source": "Hacker News",
       "published": "2026-05-02T22:03:15+00:00",
       "link": "https://github.com/mahimairaja/voiceai"
-    },
-    {
-      "title": "AI-generated actors and scripts are now ineligible for Oscars",
-      "summary": "The Academy of Motion Picture Arts and Sciences said that only performances “credited in the film’s legal billing and demonstrably performed by humans with their consent” will be eligible for Academy Awards.",
-      "source": "TechCrunch",
-      "published": "2026-05-02T21:54:58+00:00",
-      "link": "https://techcrunch.com/2026/05/02/ai-generated-actors-and-scripts-are-now-ineligible-for-oscars/"
-    },
-    {
-      "title": "The best AI dictation apps, tested and ranked",
-      "summary": "AI-powered dictation apps are useful for replying to emails, taking notes, and even coding through your voice",
-      "source": "TechCrunch",
-      "published": "2026-05-02T16:00:00+00:00",
-      "link": "https://techcrunch.com/2026/05/02/the-best-ai-powered-dictation-apps-of-2025/"
-    },
-    {
-      "title": "AI Self-preferencing in Algorithmic Hiring: Empirical Evidence and Insights",
-      "summary": "Article URL: https://arxiv.org/abs/2509.00462 Comments URL: https://news.ycombinator.com/item?id=47987256 Points: 332 # Comments: 178",
-      "source": "Hacker News",
-      "published": "2026-05-02T15:28:13+00:00",
-      "link": "https://arxiv.org/abs/2509.00462"
     }
   ]
 };
