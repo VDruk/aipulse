@@ -1,6 +1,20 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-05-10T10:03:57.598927+00:00",
+  "lastUpdated": "2026-05-10T14:20:32.768946+00:00",
   "items": [
+    {
+      "title": "AI agents can now hack computers and copy themselves, and they're getting better fast",
+      "summary": "Palisade Research shows that AI agents can hack remote computers, copy themselves onto them, and form replication chains. In one year, the success rate jumped from 6 to 81 percent.",
+      "source": "The Decoder",
+      "published": "2026-05-10T11:45:41+00:00",
+      "link": "https://the-decoder.com/ai-agents-can-now-hack-computers-and-copy-themselves-and-theyre-getting-better-fast/"
+    },
+    {
+      "title": "Anthropic and OpenAI sit down with religious leaders to seek ethical advice",
+      "summary": "Anthropic and OpenAI are turning to religious leaders for help with AI ethics. At the first \"Faith-AI Covenant\" roundtable in New York, representatives from both companies met with faith leaders from various religions.",
+      "source": "The Decoder",
+      "published": "2026-05-10T10:41:00+00:00",
+      "link": "https://the-decoder.com/anthropic-and-openai-sit-down-with-religious-leaders-to-seek-ethical-advice/"
+    },
     {
       "title": "ByteDance plans over $30 billion for AI expansion, bets big on Chinese chips",
       "summary": "ByteDance is raising its planned AI spending for 2026 to over 200 billion yuan (roughly $30 billion), at least a 25 percent jump from earlier plans. The TikTok parent is increasingly turning to Chinese chips.",
@@ -1386,20 +1400,6 @@ const FEED_DATA = {
       "source": "The Verge",
       "published": "2026-05-03T13:00:00+00:00",
       "link": "https://www.theverge.com/tech/921690/dualshot-recorder-iphone-camera-app-derrick-downey-jr"
-    },
-    {
-      "title": "AI music is flooding streaming services — but who wants it?",
-      "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on how AI is changing music and the music industry, follow Terrence O'Brien.",
-      "source": "The Verge",
-      "published": "2026-05-03T12:00:00+00:00",
-      "link": "https://www.theverge.com/column/921599/ai-music-is-flooding-streaming-services-but-who-wants-it"
-    },
-    {
-      "title": "Microsoft caught sneaking \"Co-Authored-by Copilot\" into VS Code commits - even with AI off",
-      "summary": "Microsoft quietly slipped a \"Co-Authored-by Copilot\" line into Git commits in Visual Studio Code - even for developers who had turned off the AI features entirely.",
-      "source": "The Decoder",
-      "published": "2026-05-03T09:31:15+00:00",
-      "link": "https://the-decoder.com/co-pilot-becomes-a-co-author-in-vs-code-without-being-asked/"
     }
   ]
 };
