@@ -1,6 +1,13 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-05-11T18:53:59.723836+00:00",
+  "lastUpdated": "2026-05-11T21:59:03.092202+00:00",
   "items": [
+    {
+      "title": "If AI writes your code, why use Python?",
+      "summary": "Article URL: https://medium.com/@NMitchem/if-ai-writes-your-code-why-use-python-bf8c4ba1a055 Comments URL: https://news.ycombinator.com/item?id=48100433 Points: 51 # Comments: 48",
+      "source": "Hacker News",
+      "published": "2026-05-11T20:45:55+00:00",
+      "link": "https://medium.com/@NMitchem/if-ai-writes-your-code-why-use-python-bf8c4ba1a055"
+    },
     {
       "title": "The EU wants to regulate AI but needs OpenAI and Anthropic to let regulators through the door",
       "summary": "OpenAI has offered the EU Commission direct access to its new GPT-5.5 Cyber model for security review, with talks already underway. Anthropic is proving harder to pin down: after four to five meetings on its Mythos model, regulators still don't have access.",
@@ -24,7 +31,7 @@ const FEED_DATA = {
     },
     {
       "title": "Digg tries again, this time as an AI news aggregator",
-      "summary": "Digg returns (again) as another place to read AI news.",
+      "summary": "In an email to beta testers, the company said the site's goal is to \"track the most influential voices in a space\" and to surface the news that's actually worth \"paying attention to.\"",
       "source": "TechCrunch",
       "published": "2026-05-11T17:02:35+00:00",
       "link": "https://techcrunch.com/2026/05/11/digg-tries-again-this-time-as-an-ai-news-aggregator/"
@@ -38,7 +45,7 @@ const FEED_DATA = {
     },
     {
       "title": "Students Boo Commencement Speaker After She Calls AI Next Industrial Revolution",
-      "summary": "Article URL: https://www.404media.co/ucf-ai-commencement-speaker-booed/ Comments URL: https://news.ycombinator.com/item?id=48096674 Points: 100 # Comments: 77",
+      "summary": "Article URL: https://www.404media.co/ucf-ai-commencement-speaker-booed/ Comments URL: https://news.ycombinator.com/item?id=48096674 Points: 142 # Comments: 166",
       "source": "Hacker News",
       "published": "2026-05-11T15:53:23+00:00",
       "link": "https://www.404media.co/ucf-ai-commencement-speaker-booed/"
@@ -129,7 +136,7 @@ const FEED_DATA = {
     },
     {
       "title": "I work in Hollywood. Everyone who used to make TV is now training AI",
-      "summary": "Article URL: https://www.wired.com/story/i-work-in-hollywood-everyone-who-used-to-make-tv-now-training-ai/ Comments URL: https://news.ycombinator.com/item?id=48093446 Points: 96 # Comments: 73",
+      "summary": "Article URL: https://www.wired.com/story/i-work-in-hollywood-everyone-who-used-to-make-tv-now-training-ai/ Comments URL: https://news.ycombinator.com/item?id=48093446 Points: 100 # Comments: 75",
       "source": "Hacker News",
       "published": "2026-05-11T11:05:04+00:00",
       "link": "https://www.wired.com/story/i-work-in-hollywood-everyone-who-used-to-make-tv-now-training-ai/"
@@ -164,14 +171,14 @@ const FEED_DATA = {
     },
     {
       "title": "An AI coding agent, used to write code, needs to reduce your maintenance costs",
-      "summary": "Article URL: https://www.jamesshore.com/v2/blog/2026/you-need-ai-that-reduces-your-maintenance-costs Comments URL: https://news.ycombinator.com/item?id=48089289 Points: 318 # Comments: 93",
+      "summary": "Article URL: https://www.jamesshore.com/v2/blog/2026/you-need-ai-that-reduces-your-maintenance-costs Comments URL: https://news.ycombinator.com/item?id=48089289 Points: 338 # Comments: 100",
       "source": "Hacker News",
       "published": "2026-05-10T23:39:55+00:00",
       "link": "https://www.jamesshore.com/v2/blog/2026/you-need-ai-that-reduces-your-maintenance-costs"
     },
     {
       "title": "PS3 Emulator Devs Politely Ask That People Stop Flooding It with AI PRs",
-      "summary": "Article URL: https://kotaku.com/playstation-3-emulator-devs-politely-ask-that-people-stop-flooding-it-with-ai-code-pull-requests-2000694656 Comments URL: https://news.ycombinator.com/item?id=48089263 Points: 177 # Comments: 140",
+      "summary": "Article URL: https://kotaku.com/playstation-3-emulator-devs-politely-ask-that-people-stop-flooding-it-with-ai-code-pull-requests-2000694656 Comments URL: https://news.ycombinator.com/item?id=48089263 Points: 178 # Comments: 142",
       "source": "Hacker News",
       "published": "2026-05-10T23:36:48+00:00",
       "link": "https://kotaku.com/playstation-3-emulator-devs-politely-ask-that-people-stop-flooding-it-with-ai-code-pull-requests-2000694656"
@@ -192,14 +199,14 @@ const FEED_DATA = {
     },
     {
       "title": "Local AI needs to be the norm",
-      "summary": "Article URL: https://unix.foo/posts/local-ai-needs-to-be-norm/ Comments URL: https://news.ycombinator.com/item?id=48085821 Points: 1673 # Comments: 658",
+      "summary": "Article URL: https://unix.foo/posts/local-ai-needs-to-be-norm/ Comments URL: https://news.ycombinator.com/item?id=48085821 Points: 1735 # Comments: 685",
       "source": "Hacker News",
       "published": "2026-05-10T17:19:28+00:00",
       "link": "https://unix.foo/posts/local-ai-needs-to-be-norm/"
     },
     {
       "title": "Training an LLM in Swift, Part 1: Taking matrix mult from Gflop/s to Tflop/s",
-      "summary": "Article URL: https://www.cocoawithlove.com/blog/matrix-multiplications-swift.html Comments URL: https://news.ycombinator.com/item?id=48085685 Points: 158 # Comments: 8",
+      "summary": "Article URL: https://www.cocoawithlove.com/blog/matrix-multiplications-swift.html Comments URL: https://news.ycombinator.com/item?id=48085685 Points: 192 # Comments: 10",
       "source": "Hacker News",
       "published": "2026-05-10T17:05:05+00:00",
       "link": "https://www.cocoawithlove.com/blog/matrix-multiplications-swift.html"
@@ -255,7 +262,7 @@ const FEED_DATA = {
     },
     {
       "title": "Gen Z Resentment Toward AI Grows as Adoption Stagnates and Workplace Fears Mount",
-      "summary": "Article URL: https://www.waltonfamilyfoundation.org/about-us/newsroom/gen-z-resentment-toward-ai-grows-as-adoption-stagnates-and-workplace-fears-mount Comments URL: https://news.ycombinator.com/item?id=48081942 Points: 96 # Comments: 158",
+      "summary": "Article URL: https://www.waltonfamilyfoundation.org/about-us/newsroom/gen-z-resentment-toward-ai-grows-as-adoption-stagnates-and-workplace-fears-mount Comments URL: https://news.ycombinator.com/item?id=48081942 Points: 96 # Comments: 159",
       "source": "Hacker News",
       "published": "2026-05-10T08:03:15+00:00",
       "link": "https://www.waltonfamilyfoundation.org/about-us/newsroom/gen-z-resentment-toward-ai-grows-as-adoption-stagnates-and-workplace-fears-mount"
@@ -269,10 +276,17 @@ const FEED_DATA = {
     },
     {
       "title": "Task Paralysis and AI",
-      "summary": "Article URL: https://g5t.de/articles/20260510-task-paralysis-and-ai/index.html Comments URL: https://news.ycombinator.com/item?id=48081469 Points: 250 # Comments: 129",
+      "summary": "Article URL: https://g5t.de/articles/20260510-task-paralysis-and-ai/index.html Comments URL: https://news.ycombinator.com/item?id=48081469 Points: 252 # Comments: 129",
       "source": "Hacker News",
       "published": "2026-05-10T06:20:50+00:00",
       "link": "https://g5t.de/articles/20260510-task-paralysis-and-ai/index.html"
+    },
+    {
+      "title": "Voice AI in India is hard — Wispr Flow is betting on it anyway",
+      "summary": "Wispr Flow says growth accelerated in India after its Hinglish rollout, even as voice AI products continue to face challenges.",
+      "source": "TechCrunch",
+      "published": "2026-05-10T02:00:00+00:00",
+      "link": "https://techcrunch.com/2026/05/09/voice-ai-in-india-is-hard-wispr-flow-is-betting-on-it-anyway/"
     },
     {
       "title": "Voice AI in India is hard. Wispr Flow is betting on it anyway.",
@@ -290,7 +304,7 @@ const FEED_DATA = {
     },
     {
       "title": "Meta's embrace of AI is making its employees miserable",
-      "summary": "Article URL: https://www.nytimes.com/2026/05/08/technology/meta-ai-employees-miserable.html Comments URL: https://news.ycombinator.com/item?id=48077126 Points: 454 # Comments: 520",
+      "summary": "Article URL: https://www.nytimes.com/2026/05/08/technology/meta-ai-employees-miserable.html Comments URL: https://news.ycombinator.com/item?id=48077126 Points: 455 # Comments: 521",
       "source": "Hacker News",
       "published": "2026-05-09T18:33:36+00:00",
       "link": "https://www.nytimes.com/2026/05/08/technology/meta-ai-employees-miserable.html"
@@ -325,7 +339,7 @@ const FEED_DATA = {
     },
     {
       "title": "All my clients wanted a carousel, now it's an AI chatbot",
-      "summary": "Article URL: https://adele.pages.casa/md/blog/all-my-clients-wanted-a-carousel-now-it-s-an-ai-chatbot.md Comments URL: https://news.ycombinator.com/item?id=48072720 Points: 187 # Comments: 77",
+      "summary": "Article URL: https://adele.pages.casa/md/blog/all-my-clients-wanted-a-carousel-now-it-s-an-ai-chatbot.md Comments URL: https://news.ycombinator.com/item?id=48072720 Points: 188 # Comments: 78",
       "source": "Hacker News",
       "published": "2026-05-09T07:23:40+00:00",
       "link": "https://adele.pages.casa/md/blog/all-my-clients-wanted-a-carousel-now-it-s-an-ai-chatbot.md"
@@ -339,7 +353,7 @@ const FEED_DATA = {
     },
     {
       "title": "I Will Never Use AI to Code",
-      "summary": "Article URL: https://antman-does-software.com/i-will-never-use-ai-to-code-or-write Comments URL: https://news.ycombinator.com/item?id=48072319 Points: 68 # Comments: 86",
+      "summary": "Article URL: https://antman-does-software.com/i-will-never-use-ai-to-code-or-write Comments URL: https://news.ycombinator.com/item?id=48072319 Points: 68 # Comments: 87",
       "source": "Hacker News",
       "published": "2026-05-09T06:14:20+00:00",
       "link": "https://antman-does-software.com/i-will-never-use-ai-to-code-or-write"
@@ -381,7 +395,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI is breaking two vulnerability cultures",
-      "summary": "Article URL: https://www.jefftk.com/p/ai-is-breaking-two-vulnerability-cultures Comments URL: https://news.ycombinator.com/item?id=48066524 Points: 426 # Comments: 171",
+      "summary": "Article URL: https://www.jefftk.com/p/ai-is-breaking-two-vulnerability-cultures Comments URL: https://news.ycombinator.com/item?id=48066524 Points: 427 # Comments: 171",
       "source": "Hacker News",
       "published": "2026-05-08T17:55:08+00:00",
       "link": "https://www.jefftk.com/p/ai-is-breaking-two-vulnerability-cultures"
@@ -633,7 +647,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI slop is killing online communities",
-      "summary": "Article URL: https://rmoff.net/2026/05/06/ai-slop-is-killing-online-communities/ Comments URL: https://news.ycombinator.com/item?id=48053203 Points: 830 # Comments: 729",
+      "summary": "Article URL: https://rmoff.net/2026/05/06/ai-slop-is-killing-online-communities/ Comments URL: https://news.ycombinator.com/item?id=48053203 Points: 830 # Comments: 731",
       "source": "Hacker News",
       "published": "2026-05-07T18:46:25+00:00",
       "link": "https://rmoff.net/2026/05/06/ai-slop-is-killing-online-communities/"
@@ -1386,20 +1400,6 @@ const FEED_DATA = {
       "source": "Wired",
       "published": "2026-05-05T10:00:00+00:00",
       "link": "https://www.wired.com/story/he-couldnt-land-a-job-interview-was-ai-to-blame/"
-    },
-    {
-      "title": "White House briefed Anthropic, Google, and OpenAI on plans for a government AI review process",
-      "summary": "After a year of deregulation, the White House is now discussing an executive order that could subject new AI models to government review before they are released. The trigger is said to be Anthropic's \"Mythos\" model.",
-      "source": "The Decoder",
-      "published": "2026-05-05T09:53:31+00:00",
-      "link": "https://the-decoder.com/white-house-briefed-anthropic-google-and-openai-on-plans-for-a-government-ai-review-process/"
-    },
-    {
-      "title": "When everyone has AI and the company still learns nothing",
-      "summary": "Article URL: https://www.robert-glaser.de/when-everyone-has-ai-and-the-company-still-learns-nothing/ Comments URL: https://news.ycombinator.com/item?id=48020063 Points: 387 # Comments: 272",
-      "source": "Hacker News",
-      "published": "2026-05-05T09:30:22+00:00",
-      "link": "https://www.robert-glaser.de/when-everyone-has-ai-and-the-company-still-learns-nothing/"
     }
   ]
 };
