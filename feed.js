@@ -1,6 +1,48 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-05-11T15:56:14.895122+00:00",
+  "lastUpdated": "2026-05-11T18:53:59.723836+00:00",
   "items": [
+    {
+      "title": "The EU wants to regulate AI but needs OpenAI and Anthropic to let regulators through the door",
+      "summary": "OpenAI has offered the EU Commission direct access to its new GPT-5.5 Cyber model for security review, with talks already underway. Anthropic is proving harder to pin down: after four to five meetings on its Mythos model, regulators still don't have access.",
+      "source": "The Decoder",
+      "published": "2026-05-11T18:19:50+00:00",
+      "link": "https://the-decoder.com/the-eu-wants-to-regulate-ai-but-needs-openai-and-anthropic-to-let-regulators-through-the-door/"
+    },
+    {
+      "title": "Three things in AI to watch, according to a Nobel-winning economist",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here.",
+      "source": "MIT Tech Review",
+      "published": "2026-05-11T17:35:12+00:00",
+      "link": "https://www.technologyreview.com/2026/05/11/1137090/three-things-in-ai-to-watch-according-to-a-nobel-winning-economist/"
+    },
+    {
+      "title": "Baidu's Ernie 5.1 cuts 94 percent of pre-training costs while competing with top models",
+      "summary": "Baidu's Ernie 5.1 uses just a third of its predecessor's parameters and reportedly cost only six percent of what comparable models require to pre-train. That's possible thanks to a \"Once-For-All\" approach that extracts smaller sub-models from a single training run.",
+      "source": "The Decoder",
+      "published": "2026-05-11T17:08:06+00:00",
+      "link": "https://the-decoder.com/baidus-ernie-5-1-cuts-94-percent-of-pre-training-costs-while-competing-with-top-models/"
+    },
+    {
+      "title": "Digg tries again, this time as an AI news aggregator",
+      "summary": "Digg returns (again) as another place to read AI news.",
+      "source": "TechCrunch",
+      "published": "2026-05-11T17:02:35+00:00",
+      "link": "https://techcrunch.com/2026/05/11/digg-tries-again-this-time-as-an-ai-news-aggregator/"
+    },
+    {
+      "title": "Google stopped a zero-day hack that it says was developed with AI",
+      "summary": "For the first time, Google says it has spotted and stopped a zero-day exploit developed with AI.",
+      "source": "The Verge",
+      "published": "2026-05-11T16:09:42+00:00",
+      "link": "https://www.theverge.com/tech/928007/google-ai-zero-day-exploit-stopped"
+    },
+    {
+      "title": "Students Boo Commencement Speaker After She Calls AI Next Industrial Revolution",
+      "summary": "Article URL: https://www.404media.co/ucf-ai-commencement-speaker-booed/ Comments URL: https://news.ycombinator.com/item?id=48096674 Points: 100 # Comments: 77",
+      "source": "Hacker News",
+      "published": "2026-05-11T15:53:23+00:00",
+      "link": "https://www.404media.co/ucf-ai-commencement-speaker-booed/"
+    },
     {
       "title": "OpenAI's DeployCo subsidiary adopts Palantir's playbook, building a moat from workflows no lab can simulate",
       "summary": "OpenAI is building a consulting and implementation business. The \"OpenAI Deployment Company,\" internally called DeployCo, is a majority-controlled subsidiary designed to help companies integrate AI systems into their core operations.",
@@ -44,8 +86,8 @@ const FEED_DATA = {
       "link": "https://www.technologyreview.com/2026/05/11/1136967/fostering-breakthrough-ai-innovation-through-customer-back-engineering/"
     },
     {
-      "title": "There aren’t enough rockets for space data centers. Cowboy Space raised $275 million to build them.",
-      "summary": "Cowboy Space Corporation wants to put data centers in orbit. First, it has to build the rockets to get them there.",
+      "title": "There aren’t enough rockets for space data centers — Cowboy Space raised $275M to build them",
+      "summary": "The apparently insatiable demand for AI compute has data center entrepreneurs looking to the stars. There's a key problem: There aren't enough rockets to put data centers in orbit around Earth, and they're too expensive.",
       "source": "TechCrunch",
       "published": "2026-05-11T13:00:00+00:00",
       "link": "https://techcrunch.com/2026/05/11/there-arent-enough-rockets-for-space-data-centers-cowboy-space-raised-275-million-to-build-them/"
@@ -56,6 +98,13 @@ const FEED_DATA = {
       "source": "MIT Tech Review",
       "published": "2026-05-11T13:00:00+00:00",
       "link": "https://www.technologyreview.com/2026/05/11/1136786/implementing-advanced-ai-technologies-in-finance/"
+    },
+    {
+      "title": "There aren’t enough rockets for space data centers. Cowboy Space raised $275 million to build them.",
+      "summary": "Cowboy Space Corporation wants to put data centers in orbit. First, it has to build the rockets to get them there.",
+      "source": "TechCrunch",
+      "published": "2026-05-11T13:00:00+00:00",
+      "link": "https://techcrunch.com/2026/05/11/there-arent-enough-rockets-for-space-data-centers-cowboy-space-raised-275-million-to-build-them/"
     },
     {
       "title": "Generative AI turns identity theft into an industrial-scale operation",
@@ -79,8 +128,8 @@ const FEED_DATA = {
       "link": "https://www.technologyreview.com/2026/05/11/1137031/the-download-hantavirus-outbreak-musk-altman-trial/"
     },
     {
-      "title": "I Work in Hollywood. Everyone Who Used to Make TV Is Now Training AI",
-      "summary": "Article URL: https://www.wired.com/story/i-work-in-hollywood-everyone-who-used-to-make-tv-now-training-ai/ Comments URL: https://news.ycombinator.com/item?id=48093446 Points: 89 # Comments: 57",
+      "title": "I work in Hollywood. Everyone who used to make TV is now training AI",
+      "summary": "Article URL: https://www.wired.com/story/i-work-in-hollywood-everyone-who-used-to-make-tv-now-training-ai/ Comments URL: https://news.ycombinator.com/item?id=48093446 Points: 96 # Comments: 73",
       "source": "Hacker News",
       "published": "2026-05-11T11:05:04+00:00",
       "link": "https://www.wired.com/story/i-work-in-hollywood-everyone-who-used-to-make-tv-now-training-ai/"
@@ -115,14 +164,14 @@ const FEED_DATA = {
     },
     {
       "title": "An AI coding agent, used to write code, needs to reduce your maintenance costs",
-      "summary": "Article URL: https://www.jamesshore.com/v2/blog/2026/you-need-ai-that-reduces-your-maintenance-costs Comments URL: https://news.ycombinator.com/item?id=48089289 Points: 277 # Comments: 83",
+      "summary": "Article URL: https://www.jamesshore.com/v2/blog/2026/you-need-ai-that-reduces-your-maintenance-costs Comments URL: https://news.ycombinator.com/item?id=48089289 Points: 318 # Comments: 93",
       "source": "Hacker News",
       "published": "2026-05-10T23:39:55+00:00",
       "link": "https://www.jamesshore.com/v2/blog/2026/you-need-ai-that-reduces-your-maintenance-costs"
     },
     {
       "title": "PS3 Emulator Devs Politely Ask That People Stop Flooding It with AI PRs",
-      "summary": "Article URL: https://kotaku.com/playstation-3-emulator-devs-politely-ask-that-people-stop-flooding-it-with-ai-code-pull-requests-2000694656 Comments URL: https://news.ycombinator.com/item?id=48089263 Points: 176 # Comments: 131",
+      "summary": "Article URL: https://kotaku.com/playstation-3-emulator-devs-politely-ask-that-people-stop-flooding-it-with-ai-code-pull-requests-2000694656 Comments URL: https://news.ycombinator.com/item?id=48089263 Points: 177 # Comments: 140",
       "source": "Hacker News",
       "published": "2026-05-10T23:36:48+00:00",
       "link": "https://kotaku.com/playstation-3-emulator-devs-politely-ask-that-people-stop-flooding-it-with-ai-code-pull-requests-2000694656"
@@ -143,14 +192,14 @@ const FEED_DATA = {
     },
     {
       "title": "Local AI needs to be the norm",
-      "summary": "Article URL: https://unix.foo/posts/local-ai-needs-to-be-norm/ Comments URL: https://news.ycombinator.com/item?id=48085821 Points: 1548 # Comments: 598",
+      "summary": "Article URL: https://unix.foo/posts/local-ai-needs-to-be-norm/ Comments URL: https://news.ycombinator.com/item?id=48085821 Points: 1673 # Comments: 658",
       "source": "Hacker News",
       "published": "2026-05-10T17:19:28+00:00",
       "link": "https://unix.foo/posts/local-ai-needs-to-be-norm/"
     },
     {
       "title": "Training an LLM in Swift, Part 1: Taking matrix mult from Gflop/s to Tflop/s",
-      "summary": "Article URL: https://www.cocoawithlove.com/blog/matrix-multiplications-swift.html Comments URL: https://news.ycombinator.com/item?id=48085685 Points: 73 # Comments: 3",
+      "summary": "Article URL: https://www.cocoawithlove.com/blog/matrix-multiplications-swift.html Comments URL: https://news.ycombinator.com/item?id=48085685 Points: 158 # Comments: 8",
       "source": "Hacker News",
       "published": "2026-05-10T17:05:05+00:00",
       "link": "https://www.cocoawithlove.com/blog/matrix-multiplications-swift.html"
@@ -206,7 +255,7 @@ const FEED_DATA = {
     },
     {
       "title": "Gen Z Resentment Toward AI Grows as Adoption Stagnates and Workplace Fears Mount",
-      "summary": "Article URL: https://www.waltonfamilyfoundation.org/about-us/newsroom/gen-z-resentment-toward-ai-grows-as-adoption-stagnates-and-workplace-fears-mount Comments URL: https://news.ycombinator.com/item?id=48081942 Points: 96 # Comments: 157",
+      "summary": "Article URL: https://www.waltonfamilyfoundation.org/about-us/newsroom/gen-z-resentment-toward-ai-grows-as-adoption-stagnates-and-workplace-fears-mount Comments URL: https://news.ycombinator.com/item?id=48081942 Points: 96 # Comments: 158",
       "source": "Hacker News",
       "published": "2026-05-10T08:03:15+00:00",
       "link": "https://www.waltonfamilyfoundation.org/about-us/newsroom/gen-z-resentment-toward-ai-grows-as-adoption-stagnates-and-workplace-fears-mount"
@@ -220,7 +269,7 @@ const FEED_DATA = {
     },
     {
       "title": "Task Paralysis and AI",
-      "summary": "Article URL: https://g5t.de/articles/20260510-task-paralysis-and-ai/index.html Comments URL: https://news.ycombinator.com/item?id=48081469 Points: 248 # Comments: 128",
+      "summary": "Article URL: https://g5t.de/articles/20260510-task-paralysis-and-ai/index.html Comments URL: https://news.ycombinator.com/item?id=48081469 Points: 250 # Comments: 129",
       "source": "Hacker News",
       "published": "2026-05-10T06:20:50+00:00",
       "link": "https://g5t.de/articles/20260510-task-paralysis-and-ai/index.html"
@@ -241,7 +290,7 @@ const FEED_DATA = {
     },
     {
       "title": "Meta's embrace of AI is making its employees miserable",
-      "summary": "Article URL: https://www.nytimes.com/2026/05/08/technology/meta-ai-employees-miserable.html Comments URL: https://news.ycombinator.com/item?id=48077126 Points: 453 # Comments: 517",
+      "summary": "Article URL: https://www.nytimes.com/2026/05/08/technology/meta-ai-employees-miserable.html Comments URL: https://news.ycombinator.com/item?id=48077126 Points: 454 # Comments: 520",
       "source": "Hacker News",
       "published": "2026-05-09T18:33:36+00:00",
       "link": "https://www.nytimes.com/2026/05/08/technology/meta-ai-employees-miserable.html"
@@ -290,7 +339,7 @@ const FEED_DATA = {
     },
     {
       "title": "I Will Never Use AI to Code",
-      "summary": "Article URL: https://antman-does-software.com/i-will-never-use-ai-to-code-or-write Comments URL: https://news.ycombinator.com/item?id=48072319 Points: 68 # Comments: 85",
+      "summary": "Article URL: https://antman-does-software.com/i-will-never-use-ai-to-code-or-write Comments URL: https://news.ycombinator.com/item?id=48072319 Points: 68 # Comments: 86",
       "source": "Hacker News",
       "published": "2026-05-09T06:14:20+00:00",
       "link": "https://antman-does-software.com/i-will-never-use-ai-to-code-or-write"
@@ -332,7 +381,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI is breaking two vulnerability cultures",
-      "summary": "Article URL: https://www.jefftk.com/p/ai-is-breaking-two-vulnerability-cultures Comments URL: https://news.ycombinator.com/item?id=48066524 Points: 425 # Comments: 170",
+      "summary": "Article URL: https://www.jefftk.com/p/ai-is-breaking-two-vulnerability-cultures Comments URL: https://news.ycombinator.com/item?id=48066524 Points: 426 # Comments: 171",
       "source": "Hacker News",
       "published": "2026-05-08T17:55:08+00:00",
       "link": "https://www.jefftk.com/p/ai-is-breaking-two-vulnerability-cultures"
@@ -380,18 +429,18 @@ const FEED_DATA = {
       "link": "https://www.theverge.com/report/926771/microsoft-openai-amazon-worries-shit-talk-azure"
     },
     {
-      "title": "There’s a Long-Shot Proposal to Protect California Workers From AI",
-      "summary": "California gubernatorial candidate Tom Steyer is proposing a new jobs guarantee for workers displaced by artificial intelligence.",
-      "source": "Wired",
-      "published": "2026-05-08T15:00:00+00:00",
-      "link": "https://www.wired.com/story/tom-steyer-proposes-jobs-guarantee-to-protect-california-workers-from-ai/"
-    },
-    {
       "title": "Nick Bostrom Has a Plan for Humanity’s ‘Big Retirement’",
       "summary": "The philosopher thinks humans should pursue advanced AI and the promise of a “solved world.”",
       "source": "Wired",
       "published": "2026-05-08T15:00:00+00:00",
       "link": "https://www.wired.com/story/nick-bostrom-has-a-plan-for-humanitys-big-retirement/"
+    },
+    {
+      "title": "There’s a Long-Shot Proposal to Protect California Workers From AI",
+      "summary": "California gubernatorial candidate Tom Steyer is proposing a new jobs guarantee for workers displaced by artificial intelligence.",
+      "source": "Wired",
+      "published": "2026-05-08T15:00:00+00:00",
+      "link": "https://www.wired.com/story/tom-steyer-proposes-jobs-guarantee-to-protect-california-workers-from-ai/"
     },
     {
       "title": "RingCentral adds Shopify, Calendly, and WhatsApp to AI Receptionist",
@@ -584,7 +633,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI slop is killing online communities",
-      "summary": "Article URL: https://rmoff.net/2026/05/06/ai-slop-is-killing-online-communities/ Comments URL: https://news.ycombinator.com/item?id=48053203 Points: 829 # Comments: 727",
+      "summary": "Article URL: https://rmoff.net/2026/05/06/ai-slop-is-killing-online-communities/ Comments URL: https://news.ycombinator.com/item?id=48053203 Points: 830 # Comments: 729",
       "source": "Hacker News",
       "published": "2026-05-07T18:46:25+00:00",
       "link": "https://rmoff.net/2026/05/06/ai-slop-is-killing-online-communities/"
@@ -1351,55 +1400,6 @@ const FEED_DATA = {
       "source": "Hacker News",
       "published": "2026-05-05T09:30:22+00:00",
       "link": "https://www.robert-glaser.de/when-everyone-has-ai-and-the-company-still-learns-nothing/"
-    },
-    {
-      "title": "A blueprint for using AI to strengthen democracy",
-      "summary": "Every few centuries, changes in how information moves reshape how societies govern themselves. The printing press spread vernacular literacy, helping give rise to the Reformation and, eventually, representative government.",
-      "source": "MIT Tech Review",
-      "published": "2026-05-05T09:00:00+00:00",
-      "link": "https://www.technologyreview.com/2026/05/05/1136843/ai-democracy-blueprint/"
-    },
-    {
-      "title": "Google Chrome silently installs a 4 GB AI model on your device without consent",
-      "summary": "Article URL: https://www.thatprivacyguy.com/blog/chrome-silent-nano-install/ Comments URL: https://news.ycombinator.com/item?id=48019219 Points: 1733 # Comments: 1128",
-      "source": "Hacker News",
-      "published": "2026-05-05T07:34:55+00:00",
-      "link": "https://www.thatprivacyguy.com/blog/chrome-silent-nano-install/"
-    },
-    {
-      "title": "Train Your Own LLM from Scratch",
-      "summary": "Article URL: https://github.com/angelos-p/llm-from-scratch Comments URL: https://news.ycombinator.com/item?id=48017948 Points: 474 # Comments: 50",
-      "source": "Hacker News",
-      "published": "2026-05-05T04:09:17+00:00",
-      "link": "https://github.com/angelos-p/llm-from-scratch"
-    },
-    {
-      "title": "As workers worry about AI, Nvidia’s Jensen Huang says AI is ‘creating an enormous number of jobs’",
-      "summary": "The Nvidia CEO seems to feel that claims of AI's job-killing potential have been greatly exaggerated.",
-      "source": "TechCrunch",
-      "published": "2026-05-05T03:31:54+00:00",
-      "link": "https://techcrunch.com/2026/05/04/as-workers-worry-about-ai-nvidias-jensen-huang-says-ai-is-creating-an-enormous-number-of-jobs/"
-    },
-    {
-      "title": "OpenAI’s president does ‘all the things,’ except answer a question",
-      "summary": "The strongest witness for Elon Musk's case against OpenAI so far has been Greg Brockman's journal. Brockman himself is running as a close second.",
-      "source": "The Verge",
-      "published": "2026-05-04T23:49:33+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/923684/musk-brockman-altman-openai-trial"
-    },
-    {
-      "title": "Greg Brockman Defends $30B OpenAI Stake: ‘Blood, Sweat, and Tears’",
-      "summary": "OpenAI’s cofounder and president revealed in federal court on Monday that he’s one of the largest individual stakeholders in the AI lab.",
-      "source": "Wired",
-      "published": "2026-05-04T23:19:52+00:00",
-      "link": "https://www.wired.com/story/greg-brockman-testifies-musk-v-altman-trial/"
-    },
-    {
-      "title": "OpenAI’s cozy partner Cerebras is on track for a blockbuster IPO",
-      "summary": "AI chip maker Cerebras is heading for a blockbuster IPO that could value it at $26.6 billion or more. Its relationship with OpenAI is deep and rich.",
-      "source": "TechCrunch",
-      "published": "2026-05-04T21:53:21+00:00",
-      "link": "https://techcrunch.com/2026/05/04/openais-cozy-partner-cerebras-is-on-track-for-a-blockbuster-ipo/"
     }
   ]
 };
