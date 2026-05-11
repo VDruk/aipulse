@@ -1,16 +1,16 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-05-11T04:57:16.204115+00:00",
+  "lastUpdated": "2026-05-11T08:25:14.398781+00:00",
   "items": [
     {
       "title": "An AI coding agent, used to write code, needs to reduce your maintenance costs",
-      "summary": "Article URL: https://www.jamesshore.com/v2/blog/2026/you-need-ai-that-reduces-your-maintenance-costs Comments URL: https://news.ycombinator.com/item?id=48089289 Points: 80 # Comments: 14",
+      "summary": "Article URL: https://www.jamesshore.com/v2/blog/2026/you-need-ai-that-reduces-your-maintenance-costs Comments URL: https://news.ycombinator.com/item?id=48089289 Points: 145 # Comments: 37",
       "source": "Hacker News",
       "published": "2026-05-10T23:39:55+00:00",
       "link": "https://www.jamesshore.com/v2/blog/2026/you-need-ai-that-reduces-your-maintenance-costs"
     },
     {
       "title": "PS3 Emulator Devs Politely Ask That People Stop Flooding It with AI PRs",
-      "summary": "Article URL: https://kotaku.com/playstation-3-emulator-devs-politely-ask-that-people-stop-flooding-it-with-ai-code-pull-requests-2000694656 Comments URL: https://news.ycombinator.com/item?id=48089263 Points: 121 # Comments: 79",
+      "summary": "Article URL: https://kotaku.com/playstation-3-emulator-devs-politely-ask-that-people-stop-flooding-it-with-ai-code-pull-requests-2000694656 Comments URL: https://news.ycombinator.com/item?id=48089263 Points: 160 # Comments: 113",
       "source": "Hacker News",
       "published": "2026-05-10T23:36:48+00:00",
       "link": "https://kotaku.com/playstation-3-emulator-devs-politely-ask-that-people-stop-flooding-it-with-ai-code-pull-requests-2000694656"
@@ -31,7 +31,7 @@ const FEED_DATA = {
     },
     {
       "title": "Local AI needs to be the norm",
-      "summary": "Article URL: https://unix.foo/posts/local-ai-needs-to-be-norm/ Comments URL: https://news.ycombinator.com/item?id=48085821 Points: 780 # Comments: 354",
+      "summary": "Article URL: https://unix.foo/posts/local-ai-needs-to-be-norm/ Comments URL: https://news.ycombinator.com/item?id=48085821 Points: 1053 # Comments: 451",
       "source": "Hacker News",
       "published": "2026-05-10T17:19:28+00:00",
       "link": "https://unix.foo/posts/local-ai-needs-to-be-norm/"
@@ -45,7 +45,7 @@ const FEED_DATA = {
     },
     {
       "title": "Chrome's AI features may be hogging 4GB of your computer storage",
-      "summary": "Article URL: https://www.theverge.com/tech/924933/google-chrome-4gb-gemini-nano-ai-features Comments URL: https://news.ycombinator.com/item?id=48084710 Points: 101 # Comments: 54",
+      "summary": "Article URL: https://www.theverge.com/tech/924933/google-chrome-4gb-gemini-nano-ai-features Comments URL: https://news.ycombinator.com/item?id=48084710 Points: 108 # Comments: 55",
       "source": "Hacker News",
       "published": "2026-05-10T15:22:46+00:00",
       "link": "https://www.theverge.com/tech/924933/google-chrome-4gb-gemini-nano-ai-features"
@@ -87,7 +87,7 @@ const FEED_DATA = {
     },
     {
       "title": "Gen Z Resentment Toward AI Grows as Adoption Stagnates and Workplace Fears Mount",
-      "summary": "Article URL: https://www.waltonfamilyfoundation.org/about-us/newsroom/gen-z-resentment-toward-ai-grows-as-adoption-stagnates-and-workplace-fears-mount Comments URL: https://news.ycombinator.com/item?id=48081942 Points: 93 # Comments: 151",
+      "summary": "Article URL: https://www.waltonfamilyfoundation.org/about-us/newsroom/gen-z-resentment-toward-ai-grows-as-adoption-stagnates-and-workplace-fears-mount Comments URL: https://news.ycombinator.com/item?id=48081942 Points: 95 # Comments: 154",
       "source": "Hacker News",
       "published": "2026-05-10T08:03:15+00:00",
       "link": "https://www.waltonfamilyfoundation.org/about-us/newsroom/gen-z-resentment-toward-ai-grows-as-adoption-stagnates-and-workplace-fears-mount"
@@ -101,7 +101,7 @@ const FEED_DATA = {
     },
     {
       "title": "Task Paralysis and AI",
-      "summary": "Article URL: https://g5t.de/articles/20260510-task-paralysis-and-ai/index.html Comments URL: https://news.ycombinator.com/item?id=48081469 Points: 213 # Comments: 110",
+      "summary": "Article URL: https://g5t.de/articles/20260510-task-paralysis-and-ai/index.html Comments URL: https://news.ycombinator.com/item?id=48081469 Points: 235 # Comments: 113",
       "source": "Hacker News",
       "published": "2026-05-10T06:20:50+00:00",
       "link": "https://g5t.de/articles/20260510-task-paralysis-and-ai/index.html"
@@ -122,7 +122,7 @@ const FEED_DATA = {
     },
     {
       "title": "Meta's embrace of AI is making its employees miserable",
-      "summary": "Article URL: https://www.nytimes.com/2026/05/08/technology/meta-ai-employees-miserable.html Comments URL: https://news.ycombinator.com/item?id=48077126 Points: 436 # Comments: 512",
+      "summary": "Article URL: https://www.nytimes.com/2026/05/08/technology/meta-ai-employees-miserable.html Comments URL: https://news.ycombinator.com/item?id=48077126 Points: 443 # Comments: 516",
       "source": "Hacker News",
       "published": "2026-05-09T18:33:36+00:00",
       "link": "https://www.nytimes.com/2026/05/08/technology/meta-ai-employees-miserable.html"
@@ -171,14 +171,14 @@ const FEED_DATA = {
     },
     {
       "title": "I Will Never Use AI to Code",
-      "summary": "Article URL: https://antman-does-software.com/i-will-never-use-ai-to-code-or-write Comments URL: https://news.ycombinator.com/item?id=48072319 Points: 68 # Comments: 83",
+      "summary": "Article URL: https://antman-does-software.com/i-will-never-use-ai-to-code-or-write Comments URL: https://news.ycombinator.com/item?id=48072319 Points: 68 # Comments: 84",
       "source": "Hacker News",
       "published": "2026-05-09T06:14:20+00:00",
       "link": "https://antman-does-software.com/i-will-never-use-ai-to-code-or-write"
     },
     {
       "title": "People Hate AI Art",
-      "summary": "Article URL: https://mccue.dev/pages/5-8-26-ai-art Comments URL: https://news.ycombinator.com/item?id=48070548 Points: 150 # Comments: 172",
+      "summary": "Article URL: https://mccue.dev/pages/5-8-26-ai-art Comments URL: https://news.ycombinator.com/item?id=48070548 Points: 150 # Comments: 173",
       "source": "Hacker News",
       "published": "2026-05-09T00:39:58+00:00",
       "link": "https://mccue.dev/pages/5-8-26-ai-art"
@@ -213,7 +213,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI is breaking two vulnerability cultures",
-      "summary": "Article URL: https://www.jefftk.com/p/ai-is-breaking-two-vulnerability-cultures Comments URL: https://news.ycombinator.com/item?id=48066524 Points: 423 # Comments: 170",
+      "summary": "Article URL: https://www.jefftk.com/p/ai-is-breaking-two-vulnerability-cultures Comments URL: https://news.ycombinator.com/item?id=48066524 Points: 424 # Comments: 170",
       "source": "Hacker News",
       "published": "2026-05-08T17:55:08+00:00",
       "link": "https://www.jefftk.com/p/ai-is-breaking-two-vulnerability-cultures"
@@ -367,7 +367,7 @@ const FEED_DATA = {
     },
     {
       "title": "GPT-5.5 Price Increase: What It Costs",
-      "summary": "Article URL: https://openrouter.ai/announcements/gpt55-cost-analysis Comments URL: https://news.ycombinator.com/item?id=48057209 Points: 212 # Comments: 69",
+      "summary": "Article URL: https://openrouter.ai/announcements/gpt55-cost-analysis Comments URL: https://news.ycombinator.com/item?id=48057209 Points: 212 # Comments: 70",
       "source": "Hacker News",
       "published": "2026-05-08T01:02:28+00:00",
       "link": "https://openrouter.ai/announcements/gpt55-cost-analysis"
@@ -430,7 +430,7 @@ const FEED_DATA = {
     },
     {
       "title": "Two Home Affairs officials suspended after AI 'hallucinations' found",
-      "summary": "Article URL: https://www.citizen.co.za/news/home-affairs-officials-suspended-ai-hallucinations/ Comments URL: https://news.ycombinator.com/item?id=48053842 Points: 140 # Comments: 39",
+      "summary": "Article URL: https://www.citizen.co.za/news/home-affairs-officials-suspended-ai-hallucinations/ Comments URL: https://news.ycombinator.com/item?id=48053842 Points: 140 # Comments: 38",
       "source": "Hacker News",
       "published": "2026-05-07T19:38:36+00:00",
       "link": "https://www.citizen.co.za/news/home-affairs-officials-suspended-ai-hallucinations/"
@@ -465,7 +465,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI slop is killing online communities",
-      "summary": "Article URL: https://rmoff.net/2026/05/06/ai-slop-is-killing-online-communities/ Comments URL: https://news.ycombinator.com/item?id=48053203 Points: 828 # Comments: 719",
+      "summary": "Article URL: https://rmoff.net/2026/05/06/ai-slop-is-killing-online-communities/ Comments URL: https://news.ycombinator.com/item?id=48053203 Points: 829 # Comments: 722",
       "source": "Hacker News",
       "published": "2026-05-07T18:46:25+00:00",
       "link": "https://rmoff.net/2026/05/06/ai-slop-is-killing-online-communities/"
