@@ -1,6 +1,90 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-05-11T11:53:42.429320+00:00",
+  "lastUpdated": "2026-05-11T15:56:14.895122+00:00",
   "items": [
+    {
+      "title": "OpenAI's DeployCo subsidiary adopts Palantir's playbook, building a moat from workflows no lab can simulate",
+      "summary": "OpenAI is building a consulting and implementation business. The \"OpenAI Deployment Company,\" internally called DeployCo, is a majority-controlled subsidiary designed to help companies integrate AI systems into their core operations.",
+      "source": "The Decoder",
+      "published": "2026-05-11T15:40:35+00:00",
+      "link": "https://the-decoder.com/openais-deployco-subsidiary-adopts-palantirs-playbook-building-a-moat-from-workflows-no-lab-can-simulate/"
+    },
+    {
+      "title": "Live updates from Elon Musk and Sam Altman’s court battle over the future of OpenAI",
+      "summary": "Sam Altman and Elon Musk are facing off in a high-stakes trial that could alter the future of OpenAI and its most well-known product, ChatGPT.",
+      "source": "The Verge",
+      "published": "2026-05-11T15:27:12+00:00",
+      "link": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit"
+    },
+    {
+      "title": "Lawsuit claims ChatGPT coached FSU shooter on gun operation, timing, and victim thresholds",
+      "summary": "OpenAI is facing a lawsuit over the mass shooting at Florida State University. According to the complaint, the shooter spent months talking to ChatGPT about guns and shootings.",
+      "source": "The Decoder",
+      "published": "2026-05-11T15:19:44+00:00",
+      "link": "https://the-decoder.com/lawsuit-claims-chatgpt-coached-fsu-shooter-on-gun-operation-timing-and-victim-thresholds/"
+    },
+    {
+      "title": "AI automates HR compliance, except for the area tech companies need",
+      "summary": "Artificial intelligence is transforming how companies handle compliance. Background checks run in real-time.",
+      "source": "AI News",
+      "published": "2026-05-11T14:34:05+00:00",
+      "link": "https://www.artificialintelligence-news.com/news/ai-automates-hr-compliance-except-for-the-area-tech-companies-need/"
+    },
+    {
+      "title": "AI turns patches into working exploits in 30 minutes, and the 90-day disclosure window is the casualty",
+      "summary": "Language models find security flaws faster and turn patches into working exploits in minutes. A veteran researcher says the established disclosure process needs to change.",
+      "source": "The Decoder",
+      "published": "2026-05-11T13:53:20+00:00",
+      "link": "https://the-decoder.com/ai-turns-patches-into-working-exploits-in-30-minutes-and-the-90-day-disclosure-window-is-the-casualty/"
+    },
+    {
+      "title": "Fostering breakthrough AI innovation through customer-back engineering",
+      "summary": "Despite years of digitization, organizations capture less than one-third of the value expected from digital investments, according to McKinsey research.",
+      "source": "MIT Tech Review",
+      "published": "2026-05-11T13:33:06+00:00",
+      "link": "https://www.technologyreview.com/2026/05/11/1136967/fostering-breakthrough-ai-innovation-through-customer-back-engineering/"
+    },
+    {
+      "title": "There aren’t enough rockets for space data centers. Cowboy Space raised $275 million to build them.",
+      "summary": "Cowboy Space Corporation wants to put data centers in orbit. First, it has to build the rockets to get them there.",
+      "source": "TechCrunch",
+      "published": "2026-05-11T13:00:00+00:00",
+      "link": "https://techcrunch.com/2026/05/11/there-arent-enough-rockets-for-space-data-centers-cowboy-space-raised-275-million-to-build-them/"
+    },
+    {
+      "title": "Implementing advanced AI technologies in finance",
+      "summary": "In finance departments that have long been defined by precision and control, AI has arrived less as a neatly managed upgrade than as a quiet insurgency. Employees are already using it while leadership races to impose structure, governance, and strategy after the fact.",
+      "source": "MIT Tech Review",
+      "published": "2026-05-11T13:00:00+00:00",
+      "link": "https://www.technologyreview.com/2026/05/11/1136786/implementing-advanced-ai-technologies-in-finance/"
+    },
+    {
+      "title": "Generative AI turns identity theft into an industrial-scale operation",
+      "summary": "A Bloomberg investigation shows how generative AI and autonomous agents are supercharging identity theft in the US, from social security number lookups on the darknet to deepfake driver's licenses.",
+      "source": "The Decoder",
+      "published": "2026-05-11T12:54:06+00:00",
+      "link": "https://the-decoder.com/generative-ai-turns-identity-theft-into-an-industrial-scale-operation/"
+    },
+    {
+      "title": "Nvidia pumps over 40 billion dollars into AI partners so far in 2026",
+      "summary": "Nvidia has invested more than $40 billion in AI companies in 2025, cementing its role as the industry's biggest backer. The article Nvidia pumps over 40 billion dollars into AI partners so far in 2026 appeared first on The Decoder.",
+      "source": "The Decoder",
+      "published": "2026-05-11T12:50:51+00:00",
+      "link": "https://the-decoder.com/nvidia-pumps-over-40-billion-dollars-into-ai-partners-so-far-in-2026/"
+    },
+    {
+      "title": "The Download: the hantavirus outbreak and Musk v. Altman week 2",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.",
+      "source": "MIT Tech Review",
+      "published": "2026-05-11T12:10:00+00:00",
+      "link": "https://www.technologyreview.com/2026/05/11/1137031/the-download-hantavirus-outbreak-musk-altman-trial/"
+    },
+    {
+      "title": "I Work in Hollywood. Everyone Who Used to Make TV Is Now Training AI",
+      "summary": "Article URL: https://www.wired.com/story/i-work-in-hollywood-everyone-who-used-to-make-tv-now-training-ai/ Comments URL: https://news.ycombinator.com/item?id=48093446 Points: 89 # Comments: 57",
+      "source": "Hacker News",
+      "published": "2026-05-11T11:05:04+00:00",
+      "link": "https://www.wired.com/story/i-work-in-hollywood-everyone-who-used-to-make-tv-now-training-ai/"
+    },
     {
       "title": "OpenAI's internal share sale minted roughly 75 multimillionaires who each cashed out the $30 million cap",
       "summary": "In October 2025, OpenAI organized a $6.6 billion share sale for over 600 current and former employees. Around 75 of them cashed out the maximum cap of $30 million each.",
@@ -31,14 +115,14 @@ const FEED_DATA = {
     },
     {
       "title": "An AI coding agent, used to write code, needs to reduce your maintenance costs",
-      "summary": "Article URL: https://www.jamesshore.com/v2/blog/2026/you-need-ai-that-reduces-your-maintenance-costs Comments URL: https://news.ycombinator.com/item?id=48089289 Points: 197 # Comments: 47",
+      "summary": "Article URL: https://www.jamesshore.com/v2/blog/2026/you-need-ai-that-reduces-your-maintenance-costs Comments URL: https://news.ycombinator.com/item?id=48089289 Points: 277 # Comments: 83",
       "source": "Hacker News",
       "published": "2026-05-10T23:39:55+00:00",
       "link": "https://www.jamesshore.com/v2/blog/2026/you-need-ai-that-reduces-your-maintenance-costs"
     },
     {
       "title": "PS3 Emulator Devs Politely Ask That People Stop Flooding It with AI PRs",
-      "summary": "Article URL: https://kotaku.com/playstation-3-emulator-devs-politely-ask-that-people-stop-flooding-it-with-ai-code-pull-requests-2000694656 Comments URL: https://news.ycombinator.com/item?id=48089263 Points: 166 # Comments: 123",
+      "summary": "Article URL: https://kotaku.com/playstation-3-emulator-devs-politely-ask-that-people-stop-flooding-it-with-ai-code-pull-requests-2000694656 Comments URL: https://news.ycombinator.com/item?id=48089263 Points: 176 # Comments: 131",
       "source": "Hacker News",
       "published": "2026-05-10T23:36:48+00:00",
       "link": "https://kotaku.com/playstation-3-emulator-devs-politely-ask-that-people-stop-flooding-it-with-ai-code-pull-requests-2000694656"
@@ -59,10 +143,17 @@ const FEED_DATA = {
     },
     {
       "title": "Local AI needs to be the norm",
-      "summary": "Article URL: https://unix.foo/posts/local-ai-needs-to-be-norm/ Comments URL: https://news.ycombinator.com/item?id=48085821 Points: 1264 # Comments: 532",
+      "summary": "Article URL: https://unix.foo/posts/local-ai-needs-to-be-norm/ Comments URL: https://news.ycombinator.com/item?id=48085821 Points: 1548 # Comments: 598",
       "source": "Hacker News",
       "published": "2026-05-10T17:19:28+00:00",
       "link": "https://unix.foo/posts/local-ai-needs-to-be-norm/"
+    },
+    {
+      "title": "Training an LLM in Swift, Part 1: Taking matrix mult from Gflop/s to Tflop/s",
+      "summary": "Article URL: https://www.cocoawithlove.com/blog/matrix-multiplications-swift.html Comments URL: https://news.ycombinator.com/item?id=48085685 Points: 73 # Comments: 3",
+      "source": "Hacker News",
+      "published": "2026-05-10T17:05:05+00:00",
+      "link": "https://www.cocoawithlove.com/blog/matrix-multiplications-swift.html"
     },
     {
       "title": "We’re feeling cynical about xAI’s big deal with Anthropic",
@@ -73,7 +164,7 @@ const FEED_DATA = {
     },
     {
       "title": "Chrome's AI features may be hogging 4GB of your computer storage",
-      "summary": "Article URL: https://www.theverge.com/tech/924933/google-chrome-4gb-gemini-nano-ai-features Comments URL: https://news.ycombinator.com/item?id=48084710 Points: 109 # Comments: 56",
+      "summary": "Article URL: https://www.theverge.com/tech/924933/google-chrome-4gb-gemini-nano-ai-features Comments URL: https://news.ycombinator.com/item?id=48084710 Points: 113 # Comments: 58",
       "source": "Hacker News",
       "published": "2026-05-10T15:22:46+00:00",
       "link": "https://www.theverge.com/tech/924933/google-chrome-4gb-gemini-nano-ai-features"
@@ -115,7 +206,7 @@ const FEED_DATA = {
     },
     {
       "title": "Gen Z Resentment Toward AI Grows as Adoption Stagnates and Workplace Fears Mount",
-      "summary": "Article URL: https://www.waltonfamilyfoundation.org/about-us/newsroom/gen-z-resentment-toward-ai-grows-as-adoption-stagnates-and-workplace-fears-mount Comments URL: https://news.ycombinator.com/item?id=48081942 Points: 96 # Comments: 156",
+      "summary": "Article URL: https://www.waltonfamilyfoundation.org/about-us/newsroom/gen-z-resentment-toward-ai-grows-as-adoption-stagnates-and-workplace-fears-mount Comments URL: https://news.ycombinator.com/item?id=48081942 Points: 96 # Comments: 157",
       "source": "Hacker News",
       "published": "2026-05-10T08:03:15+00:00",
       "link": "https://www.waltonfamilyfoundation.org/about-us/newsroom/gen-z-resentment-toward-ai-grows-as-adoption-stagnates-and-workplace-fears-mount"
@@ -129,7 +220,7 @@ const FEED_DATA = {
     },
     {
       "title": "Task Paralysis and AI",
-      "summary": "Article URL: https://g5t.de/articles/20260510-task-paralysis-and-ai/index.html Comments URL: https://news.ycombinator.com/item?id=48081469 Points: 244 # Comments: 124",
+      "summary": "Article URL: https://g5t.de/articles/20260510-task-paralysis-and-ai/index.html Comments URL: https://news.ycombinator.com/item?id=48081469 Points: 248 # Comments: 128",
       "source": "Hacker News",
       "published": "2026-05-10T06:20:50+00:00",
       "link": "https://g5t.de/articles/20260510-task-paralysis-and-ai/index.html"
@@ -150,7 +241,7 @@ const FEED_DATA = {
     },
     {
       "title": "Meta's embrace of AI is making its employees miserable",
-      "summary": "Article URL: https://www.nytimes.com/2026/05/08/technology/meta-ai-employees-miserable.html Comments URL: https://news.ycombinator.com/item?id=48077126 Points: 448 # Comments: 516",
+      "summary": "Article URL: https://www.nytimes.com/2026/05/08/technology/meta-ai-employees-miserable.html Comments URL: https://news.ycombinator.com/item?id=48077126 Points: 453 # Comments: 517",
       "source": "Hacker News",
       "published": "2026-05-09T18:33:36+00:00",
       "link": "https://www.nytimes.com/2026/05/08/technology/meta-ai-employees-miserable.html"
@@ -185,7 +276,7 @@ const FEED_DATA = {
     },
     {
       "title": "All my clients wanted a carousel, now it's an AI chatbot",
-      "summary": "Article URL: https://adele.pages.casa/md/blog/all-my-clients-wanted-a-carousel-now-it-s-an-ai-chatbot.md Comments URL: https://news.ycombinator.com/item?id=48072720 Points: 186 # Comments: 77",
+      "summary": "Article URL: https://adele.pages.casa/md/blog/all-my-clients-wanted-a-carousel-now-it-s-an-ai-chatbot.md Comments URL: https://news.ycombinator.com/item?id=48072720 Points: 187 # Comments: 77",
       "source": "Hacker News",
       "published": "2026-05-09T07:23:40+00:00",
       "link": "https://adele.pages.casa/md/blog/all-my-clients-wanted-a-carousel-now-it-s-an-ai-chatbot.md"
@@ -206,7 +297,7 @@ const FEED_DATA = {
     },
     {
       "title": "People Hate AI Art",
-      "summary": "Article URL: https://mccue.dev/pages/5-8-26-ai-art Comments URL: https://news.ycombinator.com/item?id=48070548 Points: 150 # Comments: 172",
+      "summary": "Article URL: https://mccue.dev/pages/5-8-26-ai-art Comments URL: https://news.ycombinator.com/item?id=48070548 Points: 151 # Comments: 172",
       "source": "Hacker News",
       "published": "2026-05-09T00:39:58+00:00",
       "link": "https://mccue.dev/pages/5-8-26-ai-art"
@@ -458,7 +549,7 @@ const FEED_DATA = {
     },
     {
       "title": "Two Home Affairs officials suspended after AI 'hallucinations' found",
-      "summary": "Article URL: https://www.citizen.co.za/news/home-affairs-officials-suspended-ai-hallucinations/ Comments URL: https://news.ycombinator.com/item?id=48053842 Points: 140 # Comments: 38",
+      "summary": "Article URL: https://www.citizen.co.za/news/home-affairs-officials-suspended-ai-hallucinations/ Comments URL: https://news.ycombinator.com/item?id=48053842 Points: 141 # Comments: 38",
       "source": "Hacker News",
       "published": "2026-05-07T19:38:36+00:00",
       "link": "https://www.citizen.co.za/news/home-affairs-officials-suspended-ai-hallucinations/"
@@ -493,7 +584,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI slop is killing online communities",
-      "summary": "Article URL: https://rmoff.net/2026/05/06/ai-slop-is-killing-online-communities/ Comments URL: https://news.ycombinator.com/item?id=48053203 Points: 829 # Comments: 726",
+      "summary": "Article URL: https://rmoff.net/2026/05/06/ai-slop-is-killing-online-communities/ Comments URL: https://news.ycombinator.com/item?id=48053203 Points: 829 # Comments: 727",
       "source": "Hacker News",
       "published": "2026-05-07T18:46:25+00:00",
       "link": "https://rmoff.net/2026/05/06/ai-slop-is-killing-online-communities/"
@@ -511,13 +602,6 @@ const FEED_DATA = {
       "source": "The Verge",
       "published": "2026-05-07T18:00:00+00:00",
       "link": "https://www.theverge.com/ai-artificial-intelligence/925874/chatgpt-trusted-contact-emergency-self-harm-notification"
-    },
-    {
-      "title": "Live updates from Elon Musk and Sam Altman’s court battle over the future of OpenAI",
-      "summary": "Sam Altman and Elon Musk are facing off in a high-stakes trial that could alter the future of OpenAI and its most well-known product, ChatGPT.",
-      "source": "The Verge",
-      "published": "2026-05-07T17:40:50+00:00",
-      "link": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit"
     },
     {
       "title": "Europe's answer to AI regulation complexity is to just delay most of it",
@@ -1316,90 +1400,6 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-05-04T21:53:21+00:00",
       "link": "https://techcrunch.com/2026/05/04/openais-cozy-partner-cerebras-is-on-track-for-a-blockbuster-ipo/"
-    },
-    {
-      "title": "How OpenAI delivers low-latency voice AI at scale",
-      "summary": "Article URL: https://openai.com/index/delivering-low-latency-voice-ai-at-scale/ Comments URL: https://news.ycombinator.com/item?id=48013919 Points: 508 # Comments: 146",
-      "source": "Hacker News",
-      "published": "2026-05-04T19:42:47+00:00",
-      "link": "https://openai.com/index/delivering-low-latency-voice-ai-at-scale/"
-    },
-    {
-      "title": "Image AI models now drive app growth, beating chatbot upgrades",
-      "summary": "Appfigures finds visual model launches generate 6.5x more downloads — but most don’t convert that spike into revenue.",
-      "source": "TechCrunch",
-      "published": "2026-05-04T19:12:49+00:00",
-      "link": "https://techcrunch.com/2026/05/04/image-ai-models-now-drive-app-growth-beating-chatbot-upgrades/"
-    },
-    {
-      "title": "Anthropic and OpenAI now agree on one thing: selling AI requires a lot more than just the AI",
-      "summary": "Anthropic, Blackstone, Hellman & Friedman, and Goldman Sachs are launching a new AI services company to help mid-market businesses adopt Claude. The article Anthropic and OpenAI now agree on one thing: selling AI requires a lot more than just the AI appeared first on The Decoder.",
-      "source": "The Decoder",
-      "published": "2026-05-04T18:04:35+00:00",
-      "link": "https://the-decoder.com/anthropic-and-openai-now-agree-on-one-thing-selling-ai-requires-a-lot-more-than-just-the-ai/"
-    },
-    {
-      "title": "GameStop offers $56 billion for eBay, struggles to explain how it'll pay for it",
-      "summary": "Amid falling revenue and store closures, GameStop wants to buy the much larger eBay.",
-      "source": "Ars Technica",
-      "published": "2026-05-04T17:57:46+00:00",
-      "link": "https://arstechnica.com/tech-policy/2026/05/gamestop-offers-56-billion-for-ebay-struggles-to-explain-how-itll-pay-for-it/"
-    },
-    {
-      "title": "Elon Musk’s only AI expert witness at the OpenAI trial fears an AGI arms race",
-      "summary": "Stuart Russell is a long-time AI researcher who thinks governments need to restrain frontier labs.",
-      "source": "TechCrunch",
-      "published": "2026-05-04T16:57:47+00:00",
-      "link": "https://techcrunch.com/2026/05/04/elon-musks-only-expert-witness-at-the-openai-trial-fears-an-agi-arms-race/"
-    },
-    {
-      "title": "Sierra raises $950M as the race to own enterprise AI gets serious",
-      "summary": "The raise gives Sierra more than $1 billion to work with — capital the company says it will use to become the \"global standard\" for AI-powered customer experiences.",
-      "source": "TechCrunch",
-      "published": "2026-05-04T16:45:55+00:00",
-      "link": "https://techcrunch.com/2026/05/04/sierra-raises-950m-as-the-race-to-own-enterprise-ai-gets-serious/"
-    },
-    {
-      "title": "Elon Musk sent ominous texts to Greg Brockman, Sam Altman after asking for a settlement, OpenAI claims",
-      "summary": "Musk texted OpenAI's president and co-founder saying that he and CEO Sam Altman \"will be the most hated men in America\" if OpenAI doesn't settle the suit.",
-      "source": "TechCrunch",
-      "published": "2026-05-04T16:36:03+00:00",
-      "link": "https://techcrunch.com/2026/05/04/elon-musk-sent-ominous-texts-to-greg-brockman-sam-altman-after-asking-for-a-settlement-openai-claims/"
-    },
-    {
-      "title": "OpenAI, Google, and Microsoft Back Bill to Fund 'AI Literacy' in Schools",
-      "summary": "https://archive.ph/gLnMk Comments URL: https://news.ycombinator.com/item?id=48010774 Points: 119 # Comments: 113",
-      "source": "Hacker News",
-      "published": "2026-05-04T16:21:38+00:00",
-      "link": "https://www.404media.co/literacy-in-future-technologies-artificial-intelligence-act-adam-schiff-mike-rounds/"
-    },
-    {
-      "title": "Anthropic and OpenAI are both launching joint ventures for enterprise AI services",
-      "summary": "Both Anthropic and OpenAI have partnered with asset managers to more aggressively market their enterprise AI products.",
-      "source": "TechCrunch",
-      "published": "2026-05-04T15:59:24+00:00",
-      "link": "https://techcrunch.com/2026/05/04/anthropic-and-openai-are-both-launching-joint-ventures-for-enterprise-ai-services/"
-    },
-    {
-      "title": "Week one of the Musk v. Altman trial: What it was like in the room",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here.",
-      "source": "MIT Tech Review",
-      "published": "2026-05-04T15:51:27+00:00",
-      "link": "https://www.technologyreview.com/2026/05/04/1136826/week-one-of-the-musk-v-altman-trial-what-it-was-like-in-the-room/"
-    },
-    {
-      "title": "UK Fuel Price Intelligence – Market analytics from reporting stations",
-      "summary": "Article URL: https://www.fuelinsight.co.uk Comments URL: https://news.ycombinator.com/item?id=48009747 Points: 194 # Comments: 100",
-      "source": "Hacker News",
-      "published": "2026-05-04T15:15:21+00:00",
-      "link": "https://www.fuelinsight.co.uk"
-    },
-    {
-      "title": "OpenAI raises over $4 billion for new enterprise deployment venture",
-      "summary": "OpenAI has raised more than $4 billion for a new joint venture called \"The Deployment Company,\" according to Bloomberg. The article OpenAI raises over $4 billion for new enterprise deployment venture appeared first on The Decoder.",
-      "source": "The Decoder",
-      "published": "2026-05-04T14:02:18+00:00",
-      "link": "https://the-decoder.com/openai-raises-over-4-billion-for-new-enterprise-deployment-venture/"
     }
   ]
 };
