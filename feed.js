@@ -1,6 +1,146 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-05-12T15:40:43.697895+00:00",
+  "lastUpdated": "2026-05-12T18:52:52.656170+00:00",
   "items": [
+    {
+      "title": "Anthropic expands legal AI offerings with new Claude Cowork plugins",
+      "summary": "Anthropic launches twelve new Claude plugins for legal work covering contract law, employment law, and litigation, while connecting the chatbot to services like Thomson Reuters' CoCounsel Legal and Harvey.",
+      "source": "The Decoder",
+      "published": "2026-05-12T18:41:05+00:00",
+      "link": "https://the-decoder.com/anthropic-expands-legal-ai-offerings-with-new-cowork-plugins/"
+    },
+    {
+      "title": "Google says it stopped a mass cyberattack after AI was used to discover a zero-day exploit",
+      "summary": "Google's Threat Intelligence Group has identified the first known case of an attacker using AI to discover and weaponize a zero-day vulnerability. Google says it stopped the planned mass attack.",
+      "source": "The Decoder",
+      "published": "2026-05-12T18:17:42+00:00",
+      "link": "https://the-decoder.com/google-says-it-stopped-a-mass-cyberattack-after-ai-was-used-to-discover-a-zero-day-exploit/"
+    },
+    {
+      "title": "Musk mulled handing OpenAI to his children, Altman testifies",
+      "summary": "OpenAI's CEO recalls a \"particularly hair-raising\" conversation with the SpaceX founder.",
+      "source": "TechCrunch",
+      "published": "2026-05-12T18:05:15+00:00",
+      "link": "https://techcrunch.com/2026/05/12/musk-mulled-handing-openai-to-his-children-altman-testifies/"
+    },
+    {
+      "title": "Alphabet's Isomorphic Labs raises $2.1 billion to scale AI drug discovery toward clinical trials",
+      "summary": "Isomorphic Labs, the AI drug research company led by DeepMind co-founder Demis Hassabis, has closed a $2.1 billion Series B round led by Thrive Capital. The funding will go toward expanding its in-house platform IsoDDE and advancing drug candidates toward clinical trials.",
+      "source": "The Decoder",
+      "published": "2026-05-12T17:50:40+00:00",
+      "link": "https://the-decoder.com/alphabets-isomorphic-labs-raises-2-1-billion-to-scale-ai-drug-discovery-toward-clinical-trials/"
+    },
+    {
+      "title": "Anthropic warns investors against secondary platforms offering access to its shares",
+      "summary": "The company named Open Doors Partners, Unicorns Exchange, Pachamama Capital, Lionheart Ventures, Hiive, Forge Global, Sydecar and Upmarket as companies that are not authorized to provide access to buy or sell its shares.",
+      "source": "TechCrunch",
+      "published": "2026-05-12T17:36:34+00:00",
+      "link": "https://techcrunch.com/2026/05/12/anthropic-warns-investors-against-secondary-platforms-offering-access-to-its-shares/"
+    },
+    {
+      "title": "Sam Altman says Elon Musk’s mind games were damaging OpenAI",
+      "summary": "OpenAI CEO Sam Altman says Elon Musk did \"huge damage\" to the culture of the AI startup.",
+      "source": "The Verge",
+      "published": "2026-05-12T17:34:09+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/928861/openai-sam-altman-elon-musk-damage"
+    },
+    {
+      "title": "Report: Google and SpaceX in talks to put data centers into orbit",
+      "summary": "Google and SpaceX are in talks to build data centers in orbit, pitching space as the future home for AI compute, even as costs today remain far higher than on the ground.",
+      "source": "TechCrunch",
+      "published": "2026-05-12T17:30:57+00:00",
+      "link": "https://techcrunch.com/2026/05/12/report-google-and-spacex-in-talks-to-put-data-centers-into-orbit/"
+    },
+    {
+      "title": "Everything Google announced at its Android Show, from Googlebooks to vibe-coded widgets",
+      "summary": "Google unveiled its new AI-first Googlebooks laptops, more agentic Gemini features, vibe-coded Android widgets, Gemini in Chrome, refreshed Android Auto, and more ahead of I/O.",
+      "source": "TechCrunch",
+      "published": "2026-05-12T17:01:00+00:00",
+      "link": "https://techcrunch.com/2026/05/12/everything-google-announced-at-its-android-show-from-googlebooks-to-vibe-coded-widgets/"
+    },
+    {
+      "title": "Google brings agentic AI and vibe-coded widgets to Android",
+      "summary": "Gemini Intelligence will also include Gboard based dictation and form filling capabilities",
+      "source": "TechCrunch",
+      "published": "2026-05-12T17:00:00+00:00",
+      "link": "https://techcrunch.com/2026/05/12/google-brings-agentic-ai-and-vibe-coded-widgets-to-android/"
+    },
+    {
+      "title": "The AI legal services industry is heating up. Anthropic is getting in on the action.",
+      "summary": "As the AI legal services industry heats up, Anthropic is launching its own suite of features designed to assist law firms.",
+      "source": "TechCrunch",
+      "published": "2026-05-12T17:00:00+00:00",
+      "link": "https://techcrunch.com/2026/05/12/the-ai-legal-services-industry-is-heating-up-anthropic-is-getting-in-on-the-action/"
+    },
+    {
+      "title": "Google adds Gemini-powered Dictation to Gboard, which could be bad news for dictation startups",
+      "summary": "Google's transcription feature will initially launch with Samsung Galaxy and Google Pixel phones",
+      "source": "TechCrunch",
+      "published": "2026-05-12T17:00:00+00:00",
+      "link": "https://techcrunch.com/2026/05/12/google-adds-gemini-powered-dictation-to-gboard-which-could-be-bad-news-for-dictation-startups/"
+    },
+    {
+      "title": "The 9 biggest new features in Android 17",
+      "summary": "Would it shock you to hear that Android 17 is filled with new AI-enabled features, like improved dictation and vibe-coded widgets? Fortunately, that's not all.",
+      "source": "The Verge",
+      "published": "2026-05-12T17:00:00+00:00",
+      "link": "https://www.theverge.com/tech/928653/google-android-17-9-biggest-new-features-android-show-io"
+    },
+    {
+      "title": "Gemini’s latest updates are all about controlling your phone",
+      "summary": "It is, once again, Gemini season. Google is announcing a host of new Gemini features during its pre-I/O Android showcase, many of which aim to help use your phone for you.",
+      "source": "The Verge",
+      "published": "2026-05-12T17:00:00+00:00",
+      "link": "https://www.theverge.com/tech/928724/gemini-intelligence-android-io-autofill"
+    },
+    {
+      "title": "Threads tests a Meta AI integration that works similarly to Grok",
+      "summary": "The feature is designed to help people get real-time context about trends and breaking stories, as well as receive recommendations, all within conversations.",
+      "source": "TechCrunch",
+      "published": "2026-05-12T16:34:36+00:00",
+      "link": "https://techcrunch.com/2026/05/12/threads-tests-a-meta-ai-integration-that-works-similarly-to-grok/"
+    },
+    {
+      "title": "Parents say ChatGPT got their son killed with bad advice on party drugs",
+      "summary": "The family of a 19-year-old college student is suing OpenAI over claims that his conversations with ChatGPT led to an accidental overdose.",
+      "source": "The Verge",
+      "published": "2026-05-12T16:30:33+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/928691/openai-chatgpt-wrongful-death-overdose"
+    },
+    {
+      "title": "Amazon employees are \"tokenmaxxing\" due to pressure to use AI tools",
+      "summary": "Article URL: https://arstechnica.com/ai/2026/05/amazon-employees-are-tokenmaxxing-due-to-pressure-to-use-ai-tools/ Comments URL: https://news.ycombinator.com/item?id=48110529 Points: 163 # Comments: 141",
+      "source": "Hacker News",
+      "published": "2026-05-12T16:29:21+00:00",
+      "link": "https://arstechnica.com/ai/2026/05/amazon-employees-are-tokenmaxxing-due-to-pressure-to-use-ai-tools/"
+    },
+    {
+      "title": "World Models: 10 Things That Matter in AI Right Now",
+      "summary": "World models recently made our list of 10 Things That Matter in AI Right Now. Watch executive editor Niall Firth explain why this emerging area of AI is gaining so much attention.",
+      "source": "MIT Tech Review",
+      "published": "2026-05-12T16:22:15+00:00",
+      "link": "https://www.technologyreview.com/2026/05/12/1137134/world-models-10-things-that-matter-in-ai-right-now/"
+    },
+    {
+      "title": "Sam Altman takes the stand in trial against Elon Musk",
+      "summary": "OpenAI CEO Sam Altman has begun his testimony against Elon Musk in a high-profile jury trial in a California federal courtroom. Altman, alongside OpenAI president Greg Brockman, is a primary defendant in the trial brought by Musk.",
+      "source": "The Verge",
+      "published": "2026-05-12T16:05:20+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/916975/altman-takes-stand-elon-musk-openai-trial"
+    },
+    {
+      "title": "George Clooney, Tom Hanks, and Meryl Streep back new ‘Human Consent Standard’ for AI licensing",
+      "summary": "Hollywood actors and producers are standing behind a new AI licensing standard that will tell AI systems whether they'll need to pay to use a person's likeness, creative work, characters, and designs.",
+      "source": "The Verge",
+      "published": "2026-05-12T16:00:00+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/928534/rsl-media-human-consent-standard"
+    },
+    {
+      "title": "Rivian’s AI-powered voice assistant is ready to roll",
+      "summary": "Rivian's AI-powered voice assistant is rolling out today to the company's vehicle fleet.",
+      "source": "The Verge",
+      "published": "2026-05-12T15:51:38+00:00",
+      "link": "https://www.theverge.com/transportation/928651/rivian-ai-voice-assistant-r1-r2"
+    },
     {
       "title": "JBS Dev: On imperfect data and the AI last mile – from model capability to cost sustainability",
       "summary": "Joe Rose, president at strategic technology provider JBS Dev, wants to cut through one of the myths of working with generative and agentic AI systems. “It’s a common misconception that your data has to be perfect before you do any of these types of workloads,” he explains.",
@@ -35,6 +175,13 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-05-12T13:16:03+00:00",
       "link": "https://the-decoder.com/thinking-machines-lab-ships-its-first-model-and-argues-interactivity-is-what-openai-gets-wrong-about-voice/"
+    },
+    {
+      "title": "Dessn raises $6M for its production-focused design tool",
+      "summary": "A new startup called Dessn has raised $6 million to build AI-powered design tools that work directly with production codebases.",
+      "source": "TechCrunch",
+      "published": "2026-05-12T13:00:00+00:00",
+      "link": "https://techcrunch.com/2026/05/12/dessn-raises-6m-for-its-production-focused-design-tool/"
     },
     {
       "title": "Dessn raises $6M for its production focused design tool",
@@ -94,7 +241,7 @@ const FEED_DATA = {
     },
     {
       "title": "GM just laid off IT workers to hire those with stronger AI skills",
-      "summary": "Article URL: https://techcrunch.com/2026/05/11/gm-just-laid-off-hundreds-of-it-workers-to-hire-those-with-stronger-ai-skills/ Comments URL: https://news.ycombinator.com/item?id=48102198 Points: 63 # Comments: 83",
+      "summary": "Article URL: https://techcrunch.com/2026/05/11/gm-just-laid-off-hundreds-of-it-workers-to-hire-those-with-stronger-ai-skills/ Comments URL: https://news.ycombinator.com/item?id=48102198 Points: 65 # Comments: 86",
       "source": "Hacker News",
       "published": "2026-05-11T23:33:04+00:00",
       "link": "https://techcrunch.com/2026/05/11/gm-just-laid-off-hundreds-of-it-workers-to-hire-those-with-stronger-ai-skills/"
@@ -122,14 +269,14 @@ const FEED_DATA = {
     },
     {
       "title": "I let AI build a tool to help me figure out what was waking me up at night",
-      "summary": "Article URL: https://martin.sh/i-let-ai-build-a-tool-to-help-me-figure-out-what-was-waking-me-up-at-night/ Comments URL: https://news.ycombinator.com/item?id=48100662 Points: 245 # Comments: 246",
+      "summary": "Article URL: https://martin.sh/i-let-ai-build-a-tool-to-help-me-figure-out-what-was-waking-me-up-at-night/ Comments URL: https://news.ycombinator.com/item?id=48100662 Points: 259 # Comments: 273",
       "source": "Hacker News",
       "published": "2026-05-11T21:04:10+00:00",
       "link": "https://martin.sh/i-let-ai-build-a-tool-to-help-me-figure-out-what-was-waking-me-up-at-night/"
     },
     {
       "title": "If AI writes your code, why use Python?",
-      "summary": "Article URL: https://medium.com/@NMitchem/if-ai-writes-your-code-why-use-python-bf8c4ba1a055 Comments URL: https://news.ycombinator.com/item?id=48100433 Points: 723 # Comments: 741",
+      "summary": "Article URL: https://medium.com/@NMitchem/if-ai-writes-your-code-why-use-python-bf8c4ba1a055 Comments URL: https://news.ycombinator.com/item?id=48100433 Points: 803 # Comments: 844",
       "source": "Hacker News",
       "published": "2026-05-11T20:45:55+00:00",
       "link": "https://medium.com/@NMitchem/if-ai-writes-your-code-why-use-python-bf8c4ba1a055"
@@ -171,7 +318,7 @@ const FEED_DATA = {
     },
     {
       "title": "Students boo commencement speaker after she calls AI next industrial revolution",
-      "summary": "Article URL: https://www.404media.co/ucf-ai-commencement-speaker-booed/ Comments URL: https://news.ycombinator.com/item?id=48096674 Points: 168 # Comments: 203",
+      "summary": "Article URL: https://www.404media.co/ucf-ai-commencement-speaker-booed/ Comments URL: https://news.ycombinator.com/item?id=48096674 Points: 171 # Comments: 208",
       "source": "Hacker News",
       "published": "2026-05-11T15:53:23+00:00",
       "link": "https://www.404media.co/ucf-ai-commencement-speaker-booed/"
@@ -269,14 +416,14 @@ const FEED_DATA = {
     },
     {
       "title": "What a Japanese cooking principle taught me about overcoming AI fatigue",
-      "summary": "Article URL: https://www.devas.life/what-a-japanese-cooking-principle-taught-me-about-overcoming-ai-fatigue/ Comments URL: https://news.ycombinator.com/item?id=48093466 Points: 79 # Comments: 3",
+      "summary": "Article URL: https://www.devas.life/what-a-japanese-cooking-principle-taught-me-about-overcoming-ai-fatigue/ Comments URL: https://news.ycombinator.com/item?id=48093466 Points: 80 # Comments: 4",
       "source": "Hacker News",
       "published": "2026-05-11T11:07:10+00:00",
       "link": "https://www.devas.life/what-a-japanese-cooking-principle-taught-me-about-overcoming-ai-fatigue/"
     },
     {
       "title": "I work in Hollywood. Everyone who used to make TV is now training AI",
-      "summary": "Article URL: https://www.wired.com/story/i-work-in-hollywood-everyone-who-used-to-make-tv-now-training-ai/ Comments URL: https://news.ycombinator.com/item?id=48093446 Points: 102 # Comments: 84",
+      "summary": "Article URL: https://www.wired.com/story/i-work-in-hollywood-everyone-who-used-to-make-tv-now-training-ai/ Comments URL: https://news.ycombinator.com/item?id=48093446 Points: 102 # Comments: 85",
       "source": "Hacker News",
       "published": "2026-05-11T11:05:04+00:00",
       "link": "https://www.wired.com/story/i-work-in-hollywood-everyone-who-used-to-make-tv-now-training-ai/"
@@ -311,7 +458,7 @@ const FEED_DATA = {
     },
     {
       "title": "An AI coding agent, used to write code, needs to reduce your maintenance costs",
-      "summary": "Article URL: https://www.jamesshore.com/v2/blog/2026/you-need-ai-that-reduces-your-maintenance-costs Comments URL: https://news.ycombinator.com/item?id=48089289 Points: 361 # Comments: 105",
+      "summary": "Article URL: https://www.jamesshore.com/v2/blog/2026/you-need-ai-that-reduces-your-maintenance-costs Comments URL: https://news.ycombinator.com/item?id=48089289 Points: 363 # Comments: 107",
       "source": "Hacker News",
       "published": "2026-05-10T23:39:55+00:00",
       "link": "https://www.jamesshore.com/v2/blog/2026/you-need-ai-that-reduces-your-maintenance-costs"
@@ -339,14 +486,14 @@ const FEED_DATA = {
     },
     {
       "title": "Local AI needs to be the norm",
-      "summary": "Article URL: https://unix.foo/posts/local-ai-needs-to-be-norm/ Comments URL: https://news.ycombinator.com/item?id=48085821 Points: 1821 # Comments: 726",
+      "summary": "Article URL: https://unix.foo/posts/local-ai-needs-to-be-norm/ Comments URL: https://news.ycombinator.com/item?id=48085821 Points: 1834 # Comments: 729",
       "source": "Hacker News",
       "published": "2026-05-10T17:19:28+00:00",
       "link": "https://unix.foo/posts/local-ai-needs-to-be-norm/"
     },
     {
       "title": "Training an LLM in Swift, Part 1: Taking matrix mult from Gflop/s to Tflop/s",
-      "summary": "Article URL: https://www.cocoawithlove.com/blog/matrix-multiplications-swift.html Comments URL: https://news.ycombinator.com/item?id=48085685 Points: 249 # Comments: 12",
+      "summary": "Article URL: https://www.cocoawithlove.com/blog/matrix-multiplications-swift.html Comments URL: https://news.ycombinator.com/item?id=48085685 Points: 251 # Comments: 12",
       "source": "Hacker News",
       "published": "2026-05-10T17:05:05+00:00",
       "link": "https://www.cocoawithlove.com/blog/matrix-multiplications-swift.html"
@@ -360,7 +507,7 @@ const FEED_DATA = {
     },
     {
       "title": "Chrome's AI features may be hogging 4GB of your computer storage",
-      "summary": "Article URL: https://www.theverge.com/tech/924933/google-chrome-4gb-gemini-nano-ai-features Comments URL: https://news.ycombinator.com/item?id=48084710 Points: 113 # Comments: 58",
+      "summary": "Article URL: https://www.theverge.com/tech/924933/google-chrome-4gb-gemini-nano-ai-features Comments URL: https://news.ycombinator.com/item?id=48084710 Points: 114 # Comments: 58",
       "source": "Hacker News",
       "published": "2026-05-10T15:22:46+00:00",
       "link": "https://www.theverge.com/tech/924933/google-chrome-4gb-gemini-nano-ai-features"
@@ -416,7 +563,7 @@ const FEED_DATA = {
     },
     {
       "title": "Task Paralysis and AI",
-      "summary": "Article URL: https://g5t.de/articles/20260510-task-paralysis-and-ai/index.html Comments URL: https://news.ycombinator.com/item?id=48081469 Points: 255 # Comments: 129",
+      "summary": "Article URL: https://g5t.de/articles/20260510-task-paralysis-and-ai/index.html Comments URL: https://news.ycombinator.com/item?id=48081469 Points: 256 # Comments: 129",
       "source": "Hacker News",
       "published": "2026-05-10T06:20:50+00:00",
       "link": "https://g5t.de/articles/20260510-task-paralysis-and-ai/index.html"
@@ -1253,153 +1400,6 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-05-05T22:57:41+00:00",
       "link": "https://techcrunch.com/2026/05/05/altara-secures-7m-to-bridge-the-data-gap-thats-slowing-down-physical-sciences/"
-    },
-    {
-      "title": "Xbox CEO ends Copilot AI development and overhauls leadership",
-      "summary": "Article URL: https://www.dexerto.com/gaming/xbox-ceo-ends-copilot-ai-development-overhauls-leadership-3361353/ Comments URL: https://news.ycombinator.com/item?id=48029753 Points: 113 # Comments: 42",
-      "source": "Hacker News",
-      "published": "2026-05-05T22:43:47+00:00",
-      "link": "https://www.dexerto.com/gaming/xbox-ceo-ends-copilot-ai-development-overhauls-leadership-3361353/"
-    },
-    {
-      "title": "Google Home’s Gemini AI can handle more complicated requests",
-      "summary": "Google Home users can now ask Gemini to complete more complex, multi-step tasks and combine multiple tasks in a single command. Google has updated Gemini for Home to Gemini 3.1, which it says will improve the smart home assistant's ability to interpret and act on requests.",
-      "source": "The Verge",
-      "published": "2026-05-05T21:46:04+00:00",
-      "link": "https://www.theverge.com/tech/924755/google-home-gemini-3-1-upgrade"
-    },
-    {
-      "title": "Apple agrees to pay iPhone owners $250 million for not delivering AI Siri",
-      "summary": "Apple has agreed to pay $250 million to settle a class action lawsuit that accused it of misleading customers about the availability of its Apple Intelligence features.",
-      "source": "The Verge",
-      "published": "2026-05-05T21:18:23+00:00",
-      "link": "https://www.theverge.com/tech/924706/apple-iphone-siri-intelligence-class-action-lawsuit-settlement"
-    },
-    {
-      "title": "Apple plans to make iOS 27 a Choose Your Own Adventure of AI models",
-      "summary": "With Apple's latest operating system updates, users will reportedly have their pick of which third-party AI models they want to use for a host of tasks.",
-      "source": "TechCrunch",
-      "published": "2026-05-05T20:56:41+00:00",
-      "link": "https://techcrunch.com/2026/05/05/apple-plans-to-make-ios-27-a-choose-your-own-adventure-of-ai-models/"
-    },
-    {
-      "title": "Microsoft gives up on Xbox Copilot AI",
-      "summary": "Xbox is \"winding down Copilot on mobile\" and \"will stop development of Copilot on console,\" new Xbox CEO Asha Sharma announced on Tuesday.",
-      "source": "The Verge",
-      "published": "2026-05-05T19:54:37+00:00",
-      "link": "https://www.theverge.com/games/924551/microsoft-xbox-ceo-copilot-ai-asha-sharma"
-    },
-    {
-      "title": "Widely used Daemon Tools disk app backdoored in monthlong supply-chain attack",
-      "summary": "Daemon Tools users: It's time to check your machines for stealthy infections, stat.",
-      "source": "Ars Technica",
-      "published": "2026-05-05T19:46:15+00:00",
-      "link": "https://arstechnica.com/security/2026/05/widely-used-daemon-tools-disk-app-backdoored-in-monthlong-supply-chain-attack/"
-    },
-    {
-      "title": "Apple could let you pick a favorite AI model in iOS 27",
-      "summary": "The next update to Apple's operating systems could allow users to choose their preferred AI model for running Apple Intelligence.",
-      "source": "The Verge",
-      "published": "2026-05-05T19:45:30+00:00",
-      "link": "https://www.theverge.com/tech/924515/apple-intelligence-third-party-chatbot-extensions-ios-27"
-    },
-    {
-      "title": "US government now has pre-release access to AI models from five major labs for national security testing",
-      "summary": "The US Department of Commerce is expanding its AI safety testing: Following Anthropic and OpenAI, Google Deepmind, Microsoft, and xAI have now signed agreements with the Center for AI Standards and Innovation.",
-      "source": "The Decoder",
-      "published": "2026-05-05T18:28:29+00:00",
-      "link": "https://the-decoder.com/us-government-now-has-pre-release-access-to-ai-models-from-five-major-labs-for-national-security-testing/"
-    },
-    {
-      "title": "ChatGPT update rolls out GPT-5.5 Instant with fewer hallucinations and more personalized answers",
-      "summary": "OpenAI is swapping out ChatGPT's default model for GPT-5.5 Instant. In internal testing, the update produced 52.5 percent fewer hallucinated claims on high-risk topics like medicine and law.",
-      "source": "The Decoder",
-      "published": "2026-05-05T18:04:50+00:00",
-      "link": "https://the-decoder.com/chatgpt-update-rolls-out-gpt-5-5-instant-with-fewer-hallucinations-and-more-personalized-answers/"
-    },
-    {
-      "title": "Pennsylvania sues Character.AI after a chatbot allegedly posed as a doctor",
-      "summary": "According to Pennsylvania's filing, a Character.AI chatbot presented itself as a licensed psychiatrist during a state investigation, and also fabricated a serial number for its state medical license.",
-      "source": "TechCrunch",
-      "published": "2026-05-05T17:46:10+00:00",
-      "link": "https://techcrunch.com/2026/05/05/pennsylvania-sues-character-ai-after-a-chatbot-allegedly-posed-as-a-doctor/"
-    },
-    {
-      "title": "OpenAI's first hardware play might be a phone that replaces your app grid with an agent task stream",
-      "summary": "OpenAI is reportedly planning its own AI smartphone, with chips from MediaTek and Qualcomm and manufacturing by Luxshare.",
-      "source": "The Decoder",
-      "published": "2026-05-05T17:14:51+00:00",
-      "link": "https://the-decoder.com/openais-first-hardware-play-might-be-a-phone-that-replaces-your-app-grid-with-an-agent-task-stream/"
-    },
-    {
-      "title": "GPT‑5.5 Instant",
-      "summary": "Article URL: https://openai.com/index/gpt-5-5-instant/ Comments URL: https://news.ycombinator.com/item?id=48025274 Points: 87 # Comments: 20",
-      "source": "Hacker News",
-      "published": "2026-05-05T17:02:23+00:00",
-      "link": "https://openai.com/index/gpt-5-5-instant/"
-    },
-    {
-      "title": "OpenAI releases GPT-5.5 Instant, a new default model for ChatGPT",
-      "summary": "The company said the model reduces hallucination in sensitive areas such as law, medicine, and finance, while maintaining the low latency of its predecessor.",
-      "source": "TechCrunch",
-      "published": "2026-05-05T17:00:00+00:00",
-      "link": "https://techcrunch.com/2026/05/05/openai-releases-gpt-5-5-instant-a-new-default-model-for-chatgpt/"
-    },
-    {
-      "title": "OpenAI claims ChatGPT’s new default model hallucinates way less",
-      "summary": "OpenAI's newest default model for ChatGPT might not make stuff up as much.",
-      "source": "The Verge",
-      "published": "2026-05-05T17:00:00+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/924225/openai-chatgpt-default-model-gpt-5-5-instant"
-    },
-    {
-      "title": "Book publishers sue Meta over AI’s ‘word-for-word’ copying",
-      "summary": "Meta is facing a class action lawsuit filed by five major book publishers and one author over claims the company \"engaged in one of the most massive infringements of copyrighted materials in history\" when training its Llama AI models, as reported earlier by The New York Times.",
-      "source": "The Verge",
-      "published": "2026-05-05T16:52:38+00:00",
-      "link": "https://www.theverge.com/tech/924230/meta-publishers-lawsuit-ai-copyright"
-    },
-    {
-      "title": "Anthropic ships ten AI agents for finance as both it and OpenAI chase IPO-ready revenue",
-      "summary": "Anthropic has released ten preconfigured AI agents for the financial sector that are designed to automate typical tasks performed by investment banks, asset managers and insurers.",
-      "source": "The Decoder",
-      "published": "2026-05-05T16:09:20+00:00",
-      "link": "https://the-decoder.com/anthropic-ships-ten-ai-agents-for-finance-as-both-it-and-openai-chase-ipo-ready-revenue/"
-    },
-    {
-      "title": "PayPal says it’s ‘becoming a technology company again’ — that means AI",
-      "summary": "PayPal is pitching an AI-led turnaround, tying automation and restructuring to $1.5 billion in savings as it cuts jobs and works to modernize its tech stack.",
-      "source": "TechCrunch",
-      "published": "2026-05-05T15:49:55+00:00",
-      "link": "https://techcrunch.com/2026/05/05/paypal-says-its-becoming-a-technology-company-again-that-means-ai/"
-    },
-    {
-      "title": "Meta now scans photos for bone structure and body size to flag minors on Instagram and Facebook",
-      "summary": "Meta uses AI-supported image analysis to recognize minors on Instagram and Facebook, based on visual characteristics such as body size or bone structure, not facial recognition, as the company emphasizes.",
-      "source": "The Decoder",
-      "published": "2026-05-05T15:49:32+00:00",
-      "link": "https://the-decoder.com/meta-now-scans-photos-for-bone-structure-and-body-size-to-flag-minors-on-instagram-and-facebook/"
-    },
-    {
-      "title": "Etsy launches its app within ChatGPT as it continues its AI push",
-      "summary": "Etsy's new native app within ChatGPT aims to be a conversational shopping experience for users.",
-      "source": "TechCrunch",
-      "published": "2026-05-05T15:31:37+00:00",
-      "link": "https://techcrunch.com/2026/05/05/etsy-launches-its-app-within-chatgpt-as-it-continues-its-ai-push/"
-    },
-    {
-      "title": "Three Inverse Laws of AI",
-      "summary": "Article URL: https://susam.net/inverse-laws-of-robotics.html Comments URL: https://news.ycombinator.com/item?id=48023861 Points: 544 # Comments: 349",
-      "source": "Hacker News",
-      "published": "2026-05-05T15:27:18+00:00",
-      "link": "https://susam.net/inverse-laws-of-robotics.html"
-    },
-    {
-      "title": "AI is saving pharma billions in manufacturing and back-office work, just not in the lab",
-      "summary": "Eli Lilly's digital chief admits that, so far, AI is paying off in pharma everywhere except where the industry hyped it most: drug discovery. The article AI is saving pharma billions in manufacturing and back-office work, just not in the lab appeared first on The Decoder.",
-      "source": "The Decoder",
-      "published": "2026-05-05T15:23:50+00:00",
-      "link": "https://the-decoder.com/ai-is-saving-pharma-billions-in-manufacturing-and-back-office-work-just-not-in-the-lab/"
     }
   ]
 };
