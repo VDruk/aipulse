@@ -1,9 +1,51 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-05-11T21:59:03.092202+00:00",
+  "lastUpdated": "2026-05-12T04:34:37.364559+00:00",
   "items": [
     {
+      "title": "Riding an AI rally, Robinhood preps second retail venture IPO",
+      "summary": "Robinhood files confidentially for its second venture fund, this time targeting growth and early-stage startups.",
+      "source": "TechCrunch",
+      "published": "2026-05-12T00:09:01+00:00",
+      "link": "https://techcrunch.com/2026/05/11/riding-an-ai-rally-robinhood-preps-second-retail-venture-ipo/"
+    },
+    {
+      "title": "Ilya Sutskever Stands by His Role in Sam Altman’s OpenAI Ouster: ‘I Didn’t Want It to Be Destroyed’",
+      "summary": "The former OpenAI chief scientist may be estranged from the company, but he still came to its defense as he testified on Monday.",
+      "source": "Wired",
+      "published": "2026-05-11T23:51:35+00:00",
+      "link": "https://www.wired.com/story/ilya-sutskever-testifies-musk-v-altman-trial/"
+    },
+    {
+      "title": "OpenAI just released its answer to Claude Mythos",
+      "summary": "OpenAI is launching Daybreak, an AI initiative focused on detecting and patching vulnerabilities before attackers find them.",
+      "source": "The Verge",
+      "published": "2026-05-11T23:05:01+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/928342/openai-daybreak-security-ai"
+    },
+    {
+      "title": "GM just laid off hundreds of IT workers to hire those with stronger AI skills",
+      "summary": "Some of the positions focus on AI-native development, data engineering and analytics, cloud-based engineering, and agent and model development as well as prompt engineering and new AI workflows.",
+      "source": "TechCrunch",
+      "published": "2026-05-11T23:04:10+00:00",
+      "link": "https://techcrunch.com/2026/05/11/gm-just-laid-off-hundreds-of-it-workers-to-hire-those-with-stronger-ai-skills/"
+    },
+    {
+      "title": "Here’s what Mira Murati’s AI company is up to",
+      "summary": "Thinking Machines, the AI company founded by former OpenAI CTO Mira Murati, announced Monday that it's working on something called \"interaction models.\" The idea behind interaction models, according to Thinking Machines, is that they will let people \"collaborate with AI the way...",
+      "source": "The Verge",
+      "published": "2026-05-11T22:19:15+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/928309/mira-murati-thinking-machines-ai-interaction-model"
+    },
+    {
+      "title": "I let AI build a tool to help me figure out what was waking me up at night",
+      "summary": "Article URL: https://martin.sh/i-let-ai-build-a-tool-to-help-me-figure-out-what-was-waking-me-up-at-night/ Comments URL: https://news.ycombinator.com/item?id=48100662 Points: 110 # Comments: 117",
+      "source": "Hacker News",
+      "published": "2026-05-11T21:04:10+00:00",
+      "link": "https://martin.sh/i-let-ai-build-a-tool-to-help-me-figure-out-what-was-waking-me-up-at-night/"
+    },
+    {
       "title": "If AI writes your code, why use Python?",
-      "summary": "Article URL: https://medium.com/@NMitchem/if-ai-writes-your-code-why-use-python-bf8c4ba1a055 Comments URL: https://news.ycombinator.com/item?id=48100433 Points: 51 # Comments: 48",
+      "summary": "Article URL: https://medium.com/@NMitchem/if-ai-writes-your-code-why-use-python-bf8c4ba1a055 Comments URL: https://news.ycombinator.com/item?id=48100433 Points: 280 # Comments: 280",
       "source": "Hacker News",
       "published": "2026-05-11T20:45:55+00:00",
       "link": "https://medium.com/@NMitchem/if-ai-writes-your-code-why-use-python-bf8c4ba1a055"
@@ -45,7 +87,7 @@ const FEED_DATA = {
     },
     {
       "title": "Students Boo Commencement Speaker After She Calls AI Next Industrial Revolution",
-      "summary": "Article URL: https://www.404media.co/ucf-ai-commencement-speaker-booed/ Comments URL: https://news.ycombinator.com/item?id=48096674 Points: 142 # Comments: 166",
+      "summary": "Article URL: https://www.404media.co/ucf-ai-commencement-speaker-booed/ Comments URL: https://news.ycombinator.com/item?id=48096674 Points: 154 # Comments: 187",
       "source": "Hacker News",
       "published": "2026-05-11T15:53:23+00:00",
       "link": "https://www.404media.co/ucf-ai-commencement-speaker-booed/"
@@ -93,6 +135,13 @@ const FEED_DATA = {
       "link": "https://www.technologyreview.com/2026/05/11/1136967/fostering-breakthrough-ai-innovation-through-customer-back-engineering/"
     },
     {
+      "title": "Google says criminal hackers used AI to find a major software flaw",
+      "summary": "Unlocked: https://www.nytimes.com/2026/05/11/us/politics/google-hacker..., https://archive.ph/I4Ui5https://apnews.com/article/google-ai-cybersecurity-exploitat...https://www.cnbc.com/2026/05/11/google-thwarts-effort-hacker...",
+      "source": "Hacker News",
+      "published": "2026-05-11T13:20:14+00:00",
+      "link": "https://www.nytimes.com/2026/05/11/us/politics/google-hackers-attack-ai.html"
+    },
+    {
       "title": "There aren’t enough rockets for space data centers — Cowboy Space raised $275M to build them",
       "summary": "The apparently insatiable demand for AI compute has data center entrepreneurs looking to the stars. There's a key problem: There aren't enough rockets to put data centers in orbit around Earth, and they're too expensive.",
       "source": "TechCrunch",
@@ -135,8 +184,15 @@ const FEED_DATA = {
       "link": "https://www.technologyreview.com/2026/05/11/1137031/the-download-hantavirus-outbreak-musk-altman-trial/"
     },
     {
+      "title": "What a Japanese cooking principle taught me about overcoming AI fatigue",
+      "summary": "Article URL: https://www.devas.life/what-a-japanese-cooking-principle-taught-me-about-overcoming-ai-fatigue/ Comments URL: https://news.ycombinator.com/item?id=48093466 Points: 54 # Comments: 1",
+      "source": "Hacker News",
+      "published": "2026-05-11T11:07:10+00:00",
+      "link": "https://www.devas.life/what-a-japanese-cooking-principle-taught-me-about-overcoming-ai-fatigue/"
+    },
+    {
       "title": "I work in Hollywood. Everyone who used to make TV is now training AI",
-      "summary": "Article URL: https://www.wired.com/story/i-work-in-hollywood-everyone-who-used-to-make-tv-now-training-ai/ Comments URL: https://news.ycombinator.com/item?id=48093446 Points: 100 # Comments: 75",
+      "summary": "Article URL: https://www.wired.com/story/i-work-in-hollywood-everyone-who-used-to-make-tv-now-training-ai/ Comments URL: https://news.ycombinator.com/item?id=48093446 Points: 101 # Comments: 79",
       "source": "Hacker News",
       "published": "2026-05-11T11:05:04+00:00",
       "link": "https://www.wired.com/story/i-work-in-hollywood-everyone-who-used-to-make-tv-now-training-ai/"
@@ -171,14 +227,14 @@ const FEED_DATA = {
     },
     {
       "title": "An AI coding agent, used to write code, needs to reduce your maintenance costs",
-      "summary": "Article URL: https://www.jamesshore.com/v2/blog/2026/you-need-ai-that-reduces-your-maintenance-costs Comments URL: https://news.ycombinator.com/item?id=48089289 Points: 338 # Comments: 100",
+      "summary": "Article URL: https://www.jamesshore.com/v2/blog/2026/you-need-ai-that-reduces-your-maintenance-costs Comments URL: https://news.ycombinator.com/item?id=48089289 Points: 353 # Comments: 101",
       "source": "Hacker News",
       "published": "2026-05-10T23:39:55+00:00",
       "link": "https://www.jamesshore.com/v2/blog/2026/you-need-ai-that-reduces-your-maintenance-costs"
     },
     {
       "title": "PS3 Emulator Devs Politely Ask That People Stop Flooding It with AI PRs",
-      "summary": "Article URL: https://kotaku.com/playstation-3-emulator-devs-politely-ask-that-people-stop-flooding-it-with-ai-code-pull-requests-2000694656 Comments URL: https://news.ycombinator.com/item?id=48089263 Points: 178 # Comments: 142",
+      "summary": "Article URL: https://kotaku.com/playstation-3-emulator-devs-politely-ask-that-people-stop-flooding-it-with-ai-code-pull-requests-2000694656 Comments URL: https://news.ycombinator.com/item?id=48089263 Points: 184 # Comments: 142",
       "source": "Hacker News",
       "published": "2026-05-10T23:36:48+00:00",
       "link": "https://kotaku.com/playstation-3-emulator-devs-politely-ask-that-people-stop-flooding-it-with-ai-code-pull-requests-2000694656"
@@ -199,14 +255,14 @@ const FEED_DATA = {
     },
     {
       "title": "Local AI needs to be the norm",
-      "summary": "Article URL: https://unix.foo/posts/local-ai-needs-to-be-norm/ Comments URL: https://news.ycombinator.com/item?id=48085821 Points: 1735 # Comments: 685",
+      "summary": "Article URL: https://unix.foo/posts/local-ai-needs-to-be-norm/ Comments URL: https://news.ycombinator.com/item?id=48085821 Points: 1778 # Comments: 705",
       "source": "Hacker News",
       "published": "2026-05-10T17:19:28+00:00",
       "link": "https://unix.foo/posts/local-ai-needs-to-be-norm/"
     },
     {
       "title": "Training an LLM in Swift, Part 1: Taking matrix mult from Gflop/s to Tflop/s",
-      "summary": "Article URL: https://www.cocoawithlove.com/blog/matrix-multiplications-swift.html Comments URL: https://news.ycombinator.com/item?id=48085685 Points: 192 # Comments: 10",
+      "summary": "Article URL: https://www.cocoawithlove.com/blog/matrix-multiplications-swift.html Comments URL: https://news.ycombinator.com/item?id=48085685 Points: 225 # Comments: 11",
       "source": "Hacker News",
       "published": "2026-05-10T17:05:05+00:00",
       "link": "https://www.cocoawithlove.com/blog/matrix-multiplications-swift.html"
@@ -262,7 +318,7 @@ const FEED_DATA = {
     },
     {
       "title": "Gen Z Resentment Toward AI Grows as Adoption Stagnates and Workplace Fears Mount",
-      "summary": "Article URL: https://www.waltonfamilyfoundation.org/about-us/newsroom/gen-z-resentment-toward-ai-grows-as-adoption-stagnates-and-workplace-fears-mount Comments URL: https://news.ycombinator.com/item?id=48081942 Points: 96 # Comments: 159",
+      "summary": "Article URL: https://www.waltonfamilyfoundation.org/about-us/newsroom/gen-z-resentment-toward-ai-grows-as-adoption-stagnates-and-workplace-fears-mount Comments URL: https://news.ycombinator.com/item?id=48081942 Points: 97 # Comments: 160",
       "source": "Hacker News",
       "published": "2026-05-10T08:03:15+00:00",
       "link": "https://www.waltonfamilyfoundation.org/about-us/newsroom/gen-z-resentment-toward-ai-grows-as-adoption-stagnates-and-workplace-fears-mount"
@@ -276,7 +332,7 @@ const FEED_DATA = {
     },
     {
       "title": "Task Paralysis and AI",
-      "summary": "Article URL: https://g5t.de/articles/20260510-task-paralysis-and-ai/index.html Comments URL: https://news.ycombinator.com/item?id=48081469 Points: 252 # Comments: 129",
+      "summary": "Article URL: https://g5t.de/articles/20260510-task-paralysis-and-ai/index.html Comments URL: https://news.ycombinator.com/item?id=48081469 Points: 254 # Comments: 129",
       "source": "Hacker News",
       "published": "2026-05-10T06:20:50+00:00",
       "link": "https://g5t.de/articles/20260510-task-paralysis-and-ai/index.html"
@@ -339,7 +395,7 @@ const FEED_DATA = {
     },
     {
       "title": "All my clients wanted a carousel, now it's an AI chatbot",
-      "summary": "Article URL: https://adele.pages.casa/md/blog/all-my-clients-wanted-a-carousel-now-it-s-an-ai-chatbot.md Comments URL: https://news.ycombinator.com/item?id=48072720 Points: 188 # Comments: 78",
+      "summary": "Article URL: https://adele.pages.casa/md/blog/all-my-clients-wanted-a-carousel-now-it-s-an-ai-chatbot.md Comments URL: https://news.ycombinator.com/item?id=48072720 Points: 189 # Comments: 78",
       "source": "Hacker News",
       "published": "2026-05-09T07:23:40+00:00",
       "link": "https://adele.pages.casa/md/blog/all-my-clients-wanted-a-carousel-now-it-s-an-ai-chatbot.md"
@@ -1344,62 +1400,6 @@ const FEED_DATA = {
       "source": "Hacker News",
       "published": "2026-05-05T13:00:47+00:00",
       "link": "https://tooldirectory.ai/ai-graveyard"
-    },
-    {
-      "title": "SAP's acquisition spree signals the enterprise giant is serious about becoming an AI-ready data platform",
-      "summary": "SAP is acquiring open data lakehouse provider Dremio and AI company Prior Labs to expand its data platform. The article SAP's acquisition spree signals the enterprise giant is serious about becoming an AI-ready data platform appeared first on The Decoder.",
-      "source": "The Decoder",
-      "published": "2026-05-05T12:46:39+00:00",
-      "link": "https://the-decoder.com/saps-acquisition-spree-signals-the-enterprise-giant-is-serious-about-becoming-an-ai-ready-data-platform/"
-    },
-    {
-      "title": "Anthropic co-founder maps out how recursive AI improvement could outpace the humans meant to supervise it",
-      "summary": "Jack Clark argues in a long essay that the building blocks for AI systems training their own successors are largely in place. He puts the odds at 60 percent by the end of 2028.",
-      "source": "The Decoder",
-      "published": "2026-05-05T12:15:48+00:00",
-      "link": "https://the-decoder.com/anthropic-co-founder-maps-out-how-recursive-ai-improvement-could-outpace-the-humans-meant-to-supervise-it/"
-    },
-    {
-      "title": "The Download: inside the Musk v. Altman trial, and AI for democracy",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Week one of the Musk v.",
-      "source": "MIT Tech Review",
-      "published": "2026-05-05T12:10:00+00:00",
-      "link": "https://www.technologyreview.com/2026/05/05/1136848/the-download-musk-openai-altman-trial-ai-democracy/"
-    },
-    {
-      "title": "Google DeepMind Workers Vote to Unionize Over Military AI Deals",
-      "summary": "UK staff of Google’s AI research lab hope to block the use of the company’s artificial intelligence models in military settings.",
-      "source": "Wired",
-      "published": "2026-05-05T11:59:20+00:00",
-      "link": "https://www.wired.com/story/google-deepmind-workers-vote-to-unionize-over-military-ai-deals/"
-    },
-    {
-      "title": "Why Reddit blocked my daily visit to its mobile website",
-      "summary": "Reddit REALLY wants you to use its app.",
-      "source": "Ars Technica",
-      "published": "2026-05-05T11:20:08+00:00",
-      "link": "https://arstechnica.com/information-technology/2026/05/why-reddit-blocked-my-daily-visit-to-its-mobile-website/"
-    },
-    {
-      "title": "Amazon brings agentic fine-tuning to SageMaker with support for Llama, Qwen, Deepseek, and Nova",
-      "summary": "Amazon SageMaker AI now includes an AI agent designed to help developers customize language models. The article Amazon brings agentic fine-tuning to SageMaker with support for Llama, Qwen, Deepseek, and Nova appeared first on The Decoder.",
-      "source": "The Decoder",
-      "published": "2026-05-05T10:08:45+00:00",
-      "link": "https://the-decoder.com/amazon-brings-agentic-fine-tuning-to-sagemaker-with-support-for-llama-qwen-deepseek-and-nova/"
-    },
-    {
-      "title": "Google DeepMind workers are unionizing over AI military contracts",
-      "summary": "Staffers at Google DeepMind's headquarters have voted to unionize in an effort to prevent the AI firm's technology from being used by Israel and the US military.",
-      "source": "The Verge",
-      "published": "2026-05-05T10:08:33+00:00",
-      "link": "https://www.theverge.com/tech/923918/google-deepmind-union-bid-ai-military-israel"
-    },
-    {
-      "title": "He Couldn’t Land a Job Interview. Was AI to Blame?",
-      "summary": "Armed with some Python and a white-hot sense of injustice, one medical student spent six months trying to figure out whether an algorithm trashed his job application.",
-      "source": "Wired",
-      "published": "2026-05-05T10:00:00+00:00",
-      "link": "https://www.wired.com/story/he-couldnt-land-a-job-interview-was-ai-to-blame/"
     }
   ]
 };
