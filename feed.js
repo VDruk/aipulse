@@ -1,6 +1,20 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-05-12T18:52:52.656170+00:00",
+  "lastUpdated": "2026-05-12T22:06:03.038126+00:00",
   "items": [
+    {
+      "title": "Meta won’t let you block its AI account on Threads",
+      "summary": "Meta announced on Tuesday that it's testing a Threads feature that lets users tag a Meta AI account to get answers to questions or context about a conversation on the platform.",
+      "source": "The Verge",
+      "published": "2026-05-12T20:35:23+00:00",
+      "link": "https://www.theverge.com/tech/929091/meta-ai-threads-account-block"
+    },
+    {
+      "title": "Android gets AI agents that book trips, fill forms, and clean up your texts",
+      "summary": "With Gemini Intelligence, Google is introducing new AI features for Android that automate multi-step tasks, summarize web content, fill out forms, and turn spoken thoughts into polished text messages.",
+      "source": "The Decoder",
+      "published": "2026-05-12T19:22:49+00:00",
+      "link": "https://the-decoder.com/gemini-intelligence-makes-autofill-chrome-and-gboard-on-android-smarter/"
+    },
     {
       "title": "Anthropic expands legal AI offerings with new Claude Cowork plugins",
       "summary": "Anthropic launches twelve new Claude plugins for legal work covering contract law, employment law, and litigation, while connecting the chatbot to services like Thomson Reuters' CoCounsel Legal and Harvey.",
@@ -17,7 +31,7 @@ const FEED_DATA = {
     },
     {
       "title": "Musk mulled handing OpenAI to his children, Altman testifies",
-      "summary": "OpenAI's CEO recalls a \"particularly hair-raising\" conversation with the SpaceX founder.",
+      "summary": "Altman said that Musk's focus on controlling the initial for-profit gave him pause because OpenAI was dedicated to keeping advanced AI out of the hands of a single person, and Altman, with his experience running the prominent startup accelerator Y Combinator, knew \"founders who...",
       "source": "TechCrunch",
       "published": "2026-05-12T18:05:15+00:00",
       "link": "https://techcrunch.com/2026/05/12/musk-mulled-handing-openai-to-his-children-altman-testifies/"
@@ -30,8 +44,15 @@ const FEED_DATA = {
       "link": "https://the-decoder.com/alphabets-isomorphic-labs-raises-2-1-billion-to-scale-ai-drug-discovery-toward-clinical-trials/"
     },
     {
+      "title": "Reimagining the mouse pointer for the AI era",
+      "summary": "Article URL: https://deepmind.google/blog/ai-pointer/ Comments URL: https://news.ycombinator.com/item?id=48111581 Points: 85 # Comments: 71",
+      "source": "Hacker News",
+      "published": "2026-05-12T17:40:13+00:00",
+      "link": "https://deepmind.google/blog/ai-pointer/"
+    },
+    {
       "title": "Anthropic warns investors against secondary platforms offering access to its shares",
-      "summary": "The company named Open Doors Partners, Unicorns Exchange, Pachamama Capital, Lionheart Ventures, Hiive, Forge Global, Sydecar and Upmarket as companies that are not authorized to provide access to buy or sell its shares.",
+      "summary": "\"Any sale or transfer of Anthropic stock, or any interest in Anthropic stock, offered by these firms is void and will not be recognized on our books and records,\" the company's support page reads.",
       "source": "TechCrunch",
       "published": "2026-05-12T17:36:34+00:00",
       "link": "https://techcrunch.com/2026/05/12/anthropic-warns-investors-against-secondary-platforms-offering-access-to-its-shares/"
@@ -58,25 +79,32 @@ const FEED_DATA = {
       "link": "https://techcrunch.com/2026/05/12/everything-google-announced-at-its-android-show-from-googlebooks-to-vibe-coded-widgets/"
     },
     {
-      "title": "Google brings agentic AI and vibe-coded widgets to Android",
-      "summary": "Gemini Intelligence will also include Gboard based dictation and form filling capabilities",
+      "title": "Google adds Gemini-powered dictation to Gboard, which could be bad news for dictation startups",
+      "summary": "Google's transcription feature will initially launch with Samsung Galaxy and Google Pixel phones.",
       "source": "TechCrunch",
       "published": "2026-05-12T17:00:00+00:00",
-      "link": "https://techcrunch.com/2026/05/12/google-brings-agentic-ai-and-vibe-coded-widgets-to-android/"
+      "link": "https://techcrunch.com/2026/05/12/google-adds-gemini-powered-dictation-to-gboard-which-could-be-bad-news-for-dictation-startups/"
     },
     {
-      "title": "The AI legal services industry is heating up. Anthropic is getting in on the action.",
-      "summary": "As the AI legal services industry heats up, Anthropic is launching its own suite of features designed to assist law firms.",
+      "title": "The AI legal services industry is heating up — Anthropic is getting in on the action",
+      "summary": "Anthropic's new tools are designed to help law firms automate specific clerical functions — things like document search and review, case law resources, deposition prep, document drafting, and other related areas.",
       "source": "TechCrunch",
       "published": "2026-05-12T17:00:00+00:00",
       "link": "https://techcrunch.com/2026/05/12/the-ai-legal-services-industry-is-heating-up-anthropic-is-getting-in-on-the-action/"
     },
     {
-      "title": "Google adds Gemini-powered Dictation to Gboard, which could be bad news for dictation startups",
-      "summary": "Google's transcription feature will initially launch with Samsung Galaxy and Google Pixel phones",
+      "title": "Google brings agentic AI and vibe-coded widgets to Android",
+      "summary": "Gemini Intelligence will also include Gboard-based dictation and form-filling capabilities.",
       "source": "TechCrunch",
       "published": "2026-05-12T17:00:00+00:00",
-      "link": "https://techcrunch.com/2026/05/12/google-adds-gemini-powered-dictation-to-gboard-which-could-be-bad-news-for-dictation-startups/"
+      "link": "https://techcrunch.com/2026/05/12/google-brings-agentic-ai-and-vibe-coded-widgets-to-android/"
+    },
+    {
+      "title": "Google’s ‘Create My Widget’ feature will let you vibe-code your own widgets",
+      "summary": "To create a widget, users will be able to describe what they want using natural language. For example, you could ask the feature to \"suggest three high-protein meal prep recipes every week\" in order to get a custom dashboard that you can add and resize on your home screen.",
+      "source": "TechCrunch",
+      "published": "2026-05-12T17:00:00+00:00",
+      "link": "https://techcrunch.com/2026/05/12/googles-create-my-widget-feature-will-let-you-vibe-code-your-own-widgets/"
     },
     {
       "title": "The 9 biggest new features in Android 17",
@@ -91,6 +119,13 @@ const FEED_DATA = {
       "source": "The Verge",
       "published": "2026-05-12T17:00:00+00:00",
       "link": "https://www.theverge.com/tech/928724/gemini-intelligence-android-io-autofill"
+    },
+    {
+      "title": "The AI legal services industry is heating up. Anthropic is getting in on the action.",
+      "summary": "As the AI legal services industry heats up, Anthropic is launching its own suite of features designed to assist law firms.",
+      "source": "TechCrunch",
+      "published": "2026-05-12T17:00:00+00:00",
+      "link": "https://techcrunch.com/2026/05/12/the-ai-legal-services-industry-is-heating-up-anthropic-is-getting-in-on-the-action/"
     },
     {
       "title": "Threads tests a Meta AI integration that works similarly to Grok",
@@ -108,7 +143,7 @@ const FEED_DATA = {
     },
     {
       "title": "Amazon employees are \"tokenmaxxing\" due to pressure to use AI tools",
-      "summary": "Article URL: https://arstechnica.com/ai/2026/05/amazon-employees-are-tokenmaxxing-due-to-pressure-to-use-ai-tools/ Comments URL: https://news.ycombinator.com/item?id=48110529 Points: 163 # Comments: 141",
+      "summary": "Article URL: https://arstechnica.com/ai/2026/05/amazon-employees-are-tokenmaxxing-due-to-pressure-to-use-ai-tools/ Comments URL: https://news.ycombinator.com/item?id=48110529 Points: 198 # Comments: 210",
       "source": "Hacker News",
       "published": "2026-05-12T16:29:21+00:00",
       "link": "https://arstechnica.com/ai/2026/05/amazon-employees-are-tokenmaxxing-due-to-pressure-to-use-ai-tools/"
@@ -199,7 +234,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI voice startup Vapi hits $500M valuation after winning Amazon Ring over 40 rivals",
-      "summary": "Vapi says its enterprise business has grown 10-fold since early 2025 as companies shift customer support and sales calls to AI agents.",
+      "summary": "Vapi says its enterprise business has grown tenfold since early 2025 as companies shift customer support and sales calls to AI agents.",
       "source": "TechCrunch",
       "published": "2026-05-12T11:30:00+00:00",
       "link": "https://techcrunch.com/2026/05/12/vapi-hits-500m-valuation-as-amazon-ring-chose-its-ai-platform-over-40-rivals/"
@@ -241,7 +276,7 @@ const FEED_DATA = {
     },
     {
       "title": "GM just laid off IT workers to hire those with stronger AI skills",
-      "summary": "Article URL: https://techcrunch.com/2026/05/11/gm-just-laid-off-hundreds-of-it-workers-to-hire-those-with-stronger-ai-skills/ Comments URL: https://news.ycombinator.com/item?id=48102198 Points: 65 # Comments: 86",
+      "summary": "Article URL: https://techcrunch.com/2026/05/11/gm-just-laid-off-hundreds-of-it-workers-to-hire-those-with-stronger-ai-skills/ Comments URL: https://news.ycombinator.com/item?id=48102198 Points: 65 # Comments: 87",
       "source": "Hacker News",
       "published": "2026-05-11T23:33:04+00:00",
       "link": "https://techcrunch.com/2026/05/11/gm-just-laid-off-hundreds-of-it-workers-to-hire-those-with-stronger-ai-skills/"
@@ -269,14 +304,14 @@ const FEED_DATA = {
     },
     {
       "title": "I let AI build a tool to help me figure out what was waking me up at night",
-      "summary": "Article URL: https://martin.sh/i-let-ai-build-a-tool-to-help-me-figure-out-what-was-waking-me-up-at-night/ Comments URL: https://news.ycombinator.com/item?id=48100662 Points: 259 # Comments: 273",
+      "summary": "Article URL: https://martin.sh/i-let-ai-build-a-tool-to-help-me-figure-out-what-was-waking-me-up-at-night/ Comments URL: https://news.ycombinator.com/item?id=48100662 Points: 262 # Comments: 274",
       "source": "Hacker News",
       "published": "2026-05-11T21:04:10+00:00",
       "link": "https://martin.sh/i-let-ai-build-a-tool-to-help-me-figure-out-what-was-waking-me-up-at-night/"
     },
     {
       "title": "If AI writes your code, why use Python?",
-      "summary": "Article URL: https://medium.com/@NMitchem/if-ai-writes-your-code-why-use-python-bf8c4ba1a055 Comments URL: https://news.ycombinator.com/item?id=48100433 Points: 803 # Comments: 844",
+      "summary": "Article URL: https://medium.com/@NMitchem/if-ai-writes-your-code-why-use-python-bf8c4ba1a055 Comments URL: https://news.ycombinator.com/item?id=48100433 Points: 840 # Comments: 892",
       "source": "Hacker News",
       "published": "2026-05-11T20:45:55+00:00",
       "link": "https://medium.com/@NMitchem/if-ai-writes-your-code-why-use-python-bf8c4ba1a055"
@@ -318,7 +353,7 @@ const FEED_DATA = {
     },
     {
       "title": "Students boo commencement speaker after she calls AI next industrial revolution",
-      "summary": "Article URL: https://www.404media.co/ucf-ai-commencement-speaker-booed/ Comments URL: https://news.ycombinator.com/item?id=48096674 Points: 171 # Comments: 208",
+      "summary": "Article URL: https://www.404media.co/ucf-ai-commencement-speaker-booed/ Comments URL: https://news.ycombinator.com/item?id=48096674 Points: 171 # Comments: 209",
       "source": "Hacker News",
       "published": "2026-05-11T15:53:23+00:00",
       "link": "https://www.404media.co/ucf-ai-commencement-speaker-booed/"
@@ -416,14 +451,14 @@ const FEED_DATA = {
     },
     {
       "title": "What a Japanese cooking principle taught me about overcoming AI fatigue",
-      "summary": "Article URL: https://www.devas.life/what-a-japanese-cooking-principle-taught-me-about-overcoming-ai-fatigue/ Comments URL: https://news.ycombinator.com/item?id=48093466 Points: 80 # Comments: 4",
+      "summary": "Article URL: https://www.devas.life/what-a-japanese-cooking-principle-taught-me-about-overcoming-ai-fatigue/ Comments URL: https://news.ycombinator.com/item?id=48093466 Points: 81 # Comments: 4",
       "source": "Hacker News",
       "published": "2026-05-11T11:07:10+00:00",
       "link": "https://www.devas.life/what-a-japanese-cooking-principle-taught-me-about-overcoming-ai-fatigue/"
     },
     {
       "title": "I work in Hollywood. Everyone who used to make TV is now training AI",
-      "summary": "Article URL: https://www.wired.com/story/i-work-in-hollywood-everyone-who-used-to-make-tv-now-training-ai/ Comments URL: https://news.ycombinator.com/item?id=48093446 Points: 102 # Comments: 85",
+      "summary": "Article URL: https://www.wired.com/story/i-work-in-hollywood-everyone-who-used-to-make-tv-now-training-ai/ Comments URL: https://news.ycombinator.com/item?id=48093446 Points: 103 # Comments: 85",
       "source": "Hacker News",
       "published": "2026-05-11T11:05:04+00:00",
       "link": "https://www.wired.com/story/i-work-in-hollywood-everyone-who-used-to-make-tv-now-training-ai/"
@@ -458,7 +493,7 @@ const FEED_DATA = {
     },
     {
       "title": "An AI coding agent, used to write code, needs to reduce your maintenance costs",
-      "summary": "Article URL: https://www.jamesshore.com/v2/blog/2026/you-need-ai-that-reduces-your-maintenance-costs Comments URL: https://news.ycombinator.com/item?id=48089289 Points: 363 # Comments: 107",
+      "summary": "Article URL: https://www.jamesshore.com/v2/blog/2026/you-need-ai-that-reduces-your-maintenance-costs Comments URL: https://news.ycombinator.com/item?id=48089289 Points: 365 # Comments: 107",
       "source": "Hacker News",
       "published": "2026-05-10T23:39:55+00:00",
       "link": "https://www.jamesshore.com/v2/blog/2026/you-need-ai-that-reduces-your-maintenance-costs"
@@ -486,14 +521,14 @@ const FEED_DATA = {
     },
     {
       "title": "Local AI needs to be the norm",
-      "summary": "Article URL: https://unix.foo/posts/local-ai-needs-to-be-norm/ Comments URL: https://news.ycombinator.com/item?id=48085821 Points: 1834 # Comments: 729",
+      "summary": "Article URL: https://unix.foo/posts/local-ai-needs-to-be-norm/ Comments URL: https://news.ycombinator.com/item?id=48085821 Points: 1838 # Comments: 733",
       "source": "Hacker News",
       "published": "2026-05-10T17:19:28+00:00",
       "link": "https://unix.foo/posts/local-ai-needs-to-be-norm/"
     },
     {
       "title": "Training an LLM in Swift, Part 1: Taking matrix mult from Gflop/s to Tflop/s",
-      "summary": "Article URL: https://www.cocoawithlove.com/blog/matrix-multiplications-swift.html Comments URL: https://news.ycombinator.com/item?id=48085685 Points: 251 # Comments: 12",
+      "summary": "Article URL: https://www.cocoawithlove.com/blog/matrix-multiplications-swift.html Comments URL: https://news.ycombinator.com/item?id=48085685 Points: 252 # Comments: 12",
       "source": "Hacker News",
       "published": "2026-05-10T17:05:05+00:00",
       "link": "https://www.cocoawithlove.com/blog/matrix-multiplications-swift.html"
@@ -507,7 +542,7 @@ const FEED_DATA = {
     },
     {
       "title": "Chrome's AI features may be hogging 4GB of your computer storage",
-      "summary": "Article URL: https://www.theverge.com/tech/924933/google-chrome-4gb-gemini-nano-ai-features Comments URL: https://news.ycombinator.com/item?id=48084710 Points: 114 # Comments: 58",
+      "summary": "Article URL: https://www.theverge.com/tech/924933/google-chrome-4gb-gemini-nano-ai-features Comments URL: https://news.ycombinator.com/item?id=48084710 Points: 115 # Comments: 59",
       "source": "Hacker News",
       "published": "2026-05-10T15:22:46+00:00",
       "link": "https://www.theverge.com/tech/924933/google-chrome-4gb-gemini-nano-ai-features"
@@ -549,7 +584,7 @@ const FEED_DATA = {
     },
     {
       "title": "Gen Z Resentment Toward AI Grows as Adoption Stagnates and Workplace Fears Mount",
-      "summary": "Article URL: https://www.waltonfamilyfoundation.org/about-us/newsroom/gen-z-resentment-toward-ai-grows-as-adoption-stagnates-and-workplace-fears-mount Comments URL: https://news.ycombinator.com/item?id=48081942 Points: 97 # Comments: 160",
+      "summary": "Article URL: https://www.waltonfamilyfoundation.org/about-us/newsroom/gen-z-resentment-toward-ai-grows-as-adoption-stagnates-and-workplace-fears-mount Comments URL: https://news.ycombinator.com/item?id=48081942 Points: 97 # Comments: 161",
       "source": "Hacker News",
       "published": "2026-05-10T08:03:15+00:00",
       "link": "https://www.waltonfamilyfoundation.org/about-us/newsroom/gen-z-resentment-toward-ai-grows-as-adoption-stagnates-and-workplace-fears-mount"
@@ -591,7 +626,7 @@ const FEED_DATA = {
     },
     {
       "title": "Meta's embrace of AI is making its employees miserable",
-      "summary": "Article URL: https://www.nytimes.com/2026/05/08/technology/meta-ai-employees-miserable.html Comments URL: https://news.ycombinator.com/item?id=48077126 Points: 456 # Comments: 523",
+      "summary": "Article URL: https://www.nytimes.com/2026/05/08/technology/meta-ai-employees-miserable.html Comments URL: https://news.ycombinator.com/item?id=48077126 Points: 456 # Comments: 524",
       "source": "Hacker News",
       "published": "2026-05-09T18:33:36+00:00",
       "link": "https://www.nytimes.com/2026/05/08/technology/meta-ai-employees-miserable.html"
@@ -1365,41 +1400,6 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-05-06T06:34:32+00:00",
       "link": "https://techcrunch.com/2026/05/05/marc-lore-says-that-ai-will-soon-enable-anyone-open-a-restaurant/"
-    },
-    {
-      "title": "FFmpeg developer calls out OxideAV for AI license laundering of his code",
-      "summary": "Article URL: https://github.com/OxideAV/oxideav-magicyuv/issues/3 Comments URL: https://news.ycombinator.com/item?id=48031185 Points: 81 # Comments: 6",
-      "source": "Hacker News",
-      "published": "2026-05-06T01:50:42+00:00",
-      "link": "https://github.com/OxideAV/oxideav-magicyuv/issues/3"
-    },
-    {
-      "title": "Telus Uses AI to Alter Call-Agent Accents",
-      "summary": "Article URL: https://letsdatascience.com/news/telus-uses-ai-to-alter-call-agent-accents-a3868f63 Comments URL: https://news.ycombinator.com/item?id=48031109 Points: 235 # Comments: 213",
-      "source": "Hacker News",
-      "published": "2026-05-06T01:38:44+00:00",
-      "link": "https://letsdatascience.com/news/telus-uses-ai-to-alter-call-agent-accents-a3868f63"
-    },
-    {
-      "title": "SAP bets $1.16B on 18-month-old German AI lab and says yes to NemoClaw",
-      "summary": "SAP plans to buy German AI startup Prior Labs and invest heavily in it. It is also prohibiting customers' agents use to a select few like Nvidia's NemoClaw.",
-      "source": "TechCrunch",
-      "published": "2026-05-05T23:50:10+00:00",
-      "link": "https://techcrunch.com/2026/05/05/sap-bets-1-16b-on-18-month-old-german-ai-lab-and-says-yes-to-nemoclaw/"
-    },
-    {
-      "title": "‘I Actually Thought He Was Going to Hit Me,’ OpenAI’s Greg Brockman Says of Elon Musk",
-      "summary": "OpenAI’s president wrapped his testimony on Tuesday by revealing a fiery meeting with Musk in 2017 and subsequent efforts to remove several board members.",
-      "source": "Wired",
-      "published": "2026-05-05T23:24:58+00:00",
-      "link": "https://www.wired.com/story/greg-brockman-testifies-elon-musk-fight-trial/"
-    },
-    {
-      "title": "Altara secures $7M to bridge the data gap that’s slowing down physical sciences",
-      "summary": "Altara’s AI aims to diagnose failures and help speed up R&D by unifying data siloed across spreadsheets and legacy systems.",
-      "source": "TechCrunch",
-      "published": "2026-05-05T22:57:41+00:00",
-      "link": "https://techcrunch.com/2026/05/05/altara-secures-7m-to-bridge-the-data-gap-thats-slowing-down-physical-sciences/"
     }
   ]
 };
