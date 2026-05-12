@@ -1,6 +1,13 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-05-12T07:44:01.096570+00:00",
+  "lastUpdated": "2026-05-12T11:08:59.769356+00:00",
   "items": [
+    {
+      "title": "Sam Altman's personal investments face political scrutiny ahead of OpenAI's planned IPO",
+      "summary": "Sam Altman's personal investments face political scrutiny ahead of OpenAI's planned IPO. The article Sam Altman's personal investments face political scrutiny ahead of OpenAI's planned IPO appeared first on The Decoder.",
+      "source": "The Decoder",
+      "published": "2026-05-12T10:13:23+00:00",
+      "link": "https://the-decoder.com/sam-altmans-personal-investments-face-political-scrutiny-ahead-of-openais-planned-ipo/"
+    },
     {
       "title": "Thinking Machines wants to build an AI that actually listens while it talks",
       "summary": "Right now, every AI model you've ever used works the same way. You talk, it listens.",
@@ -24,7 +31,7 @@ const FEED_DATA = {
     },
     {
       "title": "GM just laid off IT workers to hire those with stronger AI skills",
-      "summary": "Article URL: https://techcrunch.com/2026/05/11/gm-just-laid-off-hundreds-of-it-workers-to-hire-those-with-stronger-ai-skills/ Comments URL: https://news.ycombinator.com/item?id=48102198 Points: 55 # Comments: 74",
+      "summary": "Article URL: https://techcrunch.com/2026/05/11/gm-just-laid-off-hundreds-of-it-workers-to-hire-those-with-stronger-ai-skills/ Comments URL: https://news.ycombinator.com/item?id=48102198 Points: 58 # Comments: 78",
       "source": "Hacker News",
       "published": "2026-05-11T23:33:04+00:00",
       "link": "https://techcrunch.com/2026/05/11/gm-just-laid-off-hundreds-of-it-workers-to-hire-those-with-stronger-ai-skills/"
@@ -52,14 +59,14 @@ const FEED_DATA = {
     },
     {
       "title": "I let AI build a tool to help me figure out what was waking me up at night",
-      "summary": "Article URL: https://martin.sh/i-let-ai-build-a-tool-to-help-me-figure-out-what-was-waking-me-up-at-night/ Comments URL: https://news.ycombinator.com/item?id=48100662 Points: 158 # Comments: 163",
+      "summary": "Article URL: https://martin.sh/i-let-ai-build-a-tool-to-help-me-figure-out-what-was-waking-me-up-at-night/ Comments URL: https://news.ycombinator.com/item?id=48100662 Points: 189 # Comments: 207",
       "source": "Hacker News",
       "published": "2026-05-11T21:04:10+00:00",
       "link": "https://martin.sh/i-let-ai-build-a-tool-to-help-me-figure-out-what-was-waking-me-up-at-night/"
     },
     {
       "title": "If AI writes your code, why use Python?",
-      "summary": "Article URL: https://medium.com/@NMitchem/if-ai-writes-your-code-why-use-python-bf8c4ba1a055 Comments URL: https://news.ycombinator.com/item?id=48100433 Points: 419 # Comments: 435",
+      "summary": "Article URL: https://medium.com/@NMitchem/if-ai-writes-your-code-why-use-python-bf8c4ba1a055 Comments URL: https://news.ycombinator.com/item?id=48100433 Points: 530 # Comments: 575",
       "source": "Hacker News",
       "published": "2026-05-11T20:45:55+00:00",
       "link": "https://medium.com/@NMitchem/if-ai-writes-your-code-why-use-python-bf8c4ba1a055"
@@ -101,7 +108,7 @@ const FEED_DATA = {
     },
     {
       "title": "Students boo commencement speaker after she calls AI next industrial revolution",
-      "summary": "Article URL: https://www.404media.co/ucf-ai-commencement-speaker-booed/ Comments URL: https://news.ycombinator.com/item?id=48096674 Points: 157 # Comments: 190",
+      "summary": "Article URL: https://www.404media.co/ucf-ai-commencement-speaker-booed/ Comments URL: https://news.ycombinator.com/item?id=48096674 Points: 163 # Comments: 193",
       "source": "Hacker News",
       "published": "2026-05-11T15:53:23+00:00",
       "link": "https://www.404media.co/ucf-ai-commencement-speaker-booed/"
@@ -199,14 +206,14 @@ const FEED_DATA = {
     },
     {
       "title": "What a Japanese cooking principle taught me about overcoming AI fatigue",
-      "summary": "Article URL: https://www.devas.life/what-a-japanese-cooking-principle-taught-me-about-overcoming-ai-fatigue/ Comments URL: https://news.ycombinator.com/item?id=48093466 Points: 66 # Comments: 3",
+      "summary": "Article URL: https://www.devas.life/what-a-japanese-cooking-principle-taught-me-about-overcoming-ai-fatigue/ Comments URL: https://news.ycombinator.com/item?id=48093466 Points: 75 # Comments: 3",
       "source": "Hacker News",
       "published": "2026-05-11T11:07:10+00:00",
       "link": "https://www.devas.life/what-a-japanese-cooking-principle-taught-me-about-overcoming-ai-fatigue/"
     },
     {
       "title": "I work in Hollywood. Everyone who used to make TV is now training AI",
-      "summary": "Article URL: https://www.wired.com/story/i-work-in-hollywood-everyone-who-used-to-make-tv-now-training-ai/ Comments URL: https://news.ycombinator.com/item?id=48093446 Points: 102 # Comments: 79",
+      "summary": "Article URL: https://www.wired.com/story/i-work-in-hollywood-everyone-who-used-to-make-tv-now-training-ai/ Comments URL: https://news.ycombinator.com/item?id=48093446 Points: 102 # Comments: 80",
       "source": "Hacker News",
       "published": "2026-05-11T11:05:04+00:00",
       "link": "https://www.wired.com/story/i-work-in-hollywood-everyone-who-used-to-make-tv-now-training-ai/"
@@ -241,7 +248,7 @@ const FEED_DATA = {
     },
     {
       "title": "An AI coding agent, used to write code, needs to reduce your maintenance costs",
-      "summary": "Article URL: https://www.jamesshore.com/v2/blog/2026/you-need-ai-that-reduces-your-maintenance-costs Comments URL: https://news.ycombinator.com/item?id=48089289 Points: 356 # Comments: 101",
+      "summary": "Article URL: https://www.jamesshore.com/v2/blog/2026/you-need-ai-that-reduces-your-maintenance-costs Comments URL: https://news.ycombinator.com/item?id=48089289 Points: 358 # Comments: 101",
       "source": "Hacker News",
       "published": "2026-05-10T23:39:55+00:00",
       "link": "https://www.jamesshore.com/v2/blog/2026/you-need-ai-that-reduces-your-maintenance-costs"
@@ -269,14 +276,14 @@ const FEED_DATA = {
     },
     {
       "title": "Local AI needs to be the norm",
-      "summary": "Article URL: https://unix.foo/posts/local-ai-needs-to-be-norm/ Comments URL: https://news.ycombinator.com/item?id=48085821 Points: 1796 # Comments: 716",
+      "summary": "Article URL: https://unix.foo/posts/local-ai-needs-to-be-norm/ Comments URL: https://news.ycombinator.com/item?id=48085821 Points: 1806 # Comments: 719",
       "source": "Hacker News",
       "published": "2026-05-10T17:19:28+00:00",
       "link": "https://unix.foo/posts/local-ai-needs-to-be-norm/"
     },
     {
       "title": "Training an LLM in Swift, Part 1: Taking matrix mult from Gflop/s to Tflop/s",
-      "summary": "Article URL: https://www.cocoawithlove.com/blog/matrix-multiplications-swift.html Comments URL: https://news.ycombinator.com/item?id=48085685 Points: 233 # Comments: 12",
+      "summary": "Article URL: https://www.cocoawithlove.com/blog/matrix-multiplications-swift.html Comments URL: https://news.ycombinator.com/item?id=48085685 Points: 243 # Comments: 12",
       "source": "Hacker News",
       "published": "2026-05-10T17:05:05+00:00",
       "link": "https://www.cocoawithlove.com/blog/matrix-multiplications-swift.html"
@@ -1393,13 +1400,6 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-05-05T13:18:50+00:00",
       "link": "https://techcrunch.com/2026/05/05/indias-first-genai-unicorn-shifts-to-cloud-services-as-ai-model-ambitions-face-reality/"
-    },
-    {
-      "title": "Researchers gaslit Claude into giving instructions to build explosives",
-      "summary": "Anthropic has spent years building itself up as the safe AI company. But new security research shared with The Verge suggests Claude's carefully crafted helpful personality may itself be a vulnerability.",
-      "source": "The Verge",
-      "published": "2026-05-05T13:13:08+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/923961/security-researchers-mindgard-gaslit-claude-forbidden-information"
     }
   ]
 };
