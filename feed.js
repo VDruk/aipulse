@@ -1,6 +1,48 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-05-13T07:50:56.518979+00:00",
+  "lastUpdated": "2026-05-13T11:22:31.095527+00:00",
   "items": [
+    {
+      "title": "Submit Your Questions: AI Is Changing Your Job—Now What?",
+      "summary": "Pose your questions ahead of our May 27 livestream AMA, where a panel of WIRED experts will discuss how AI is transforming work.",
+      "source": "Wired",
+      "published": "2026-05-13T11:00:00+00:00",
+      "link": "https://www.wired.com/story/livestream-ai-is-changing-your-job-now-what/"
+    },
+    {
+      "title": "AI startup Recursive emerges from stealth with $650 million to build self-improving AI",
+      "summary": "AI startup Recursive has officially emerged from stealth, calling recursive self-improvement the \"fastest path to superintelligence.\" The article AI startup Recursive emerges from stealth with $650 million to build self-improving AI appeared first on The Decoder.",
+      "source": "The Decoder",
+      "published": "2026-05-13T10:40:06+00:00",
+      "link": "https://the-decoder.com/ai-startup-recursive-emerges-from-stealth-with-650-million-to-build-self-improving-ai/"
+    },
+    {
+      "title": "Google is hiring hundreds of engineers to help customers adopt its AI",
+      "summary": "Google is hiring now also hundreds of engineers to help customers adopt its AI. A sign that implementation remains difficult.",
+      "source": "The Decoder",
+      "published": "2026-05-13T10:17:12+00:00",
+      "link": "https://the-decoder.com/google-is-hiring-hundreds-of-engineers-to-help-customers-adopt-its-ai/"
+    },
+    {
+      "title": "Meet the Sad Wives of AI",
+      "summary": "Are you married to a man who’s obsessed with AI? I’m so, so sorry.",
+      "source": "Wired",
+      "published": "2026-05-13T10:00:00+00:00",
+      "link": "https://www.wired.com/story/meet-the-sad-wives-of-ai/"
+    },
+    {
+      "title": "From Prompt to Pointer Engineering: Deepmind tries to reinvent the mouse cursor for the AI era",
+      "summary": "Pointer Engineering: Deepmind wants to turn the mouse cursor into the key variable in context engineering. The article From Prompt to Pointer Engineering: Deepmind tries to reinvent the mouse cursor for the AI era appeared first on The Decoder.",
+      "source": "The Decoder",
+      "published": "2026-05-13T09:36:52+00:00",
+      "link": "https://the-decoder.com/from-prompt-to-pointer-engineering-deepmind-tries-to-reinvent-the-mouse-cursor-for-the-ai-era/"
+    },
+    {
+      "title": "Data centers are coming for rural America",
+      "summary": "At its peak, the Androscoggin paper mill in Jay, Maine, a rural town about 67 miles northwest of Portland, employed about 1,500 people - until a pulp digester exploded in 2020, forcing the mill to close permanently.",
+      "source": "The Verge",
+      "published": "2026-05-13T09:00:00+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/928963/data-center-rural-america-jobs-jay-maine"
+    },
     {
       "title": "Medicare’s new payment model is built for AI, and most of the tech world has no idea",
       "summary": "There is no governmental mechanism to pay for an AI agent that monitors a patient between visits, calls to check in, coordinates a housing referral, or makes sure someone picks up their medication. ACCESS creates that mechanism for the first time.",
@@ -66,7 +108,7 @@ const FEED_DATA = {
     },
     {
       "title": "Reimagining the mouse pointer for the AI era",
-      "summary": "Article URL: https://deepmind.google/blog/ai-pointer/ Comments URL: https://news.ycombinator.com/item?id=48111581 Points: 188 # Comments: 160",
+      "summary": "Article URL: https://deepmind.google/blog/ai-pointer/ Comments URL: https://news.ycombinator.com/item?id=48111581 Points: 212 # Comments: 178",
       "source": "Hacker News",
       "published": "2026-05-12T17:40:13+00:00",
       "link": "https://deepmind.google/blog/ai-pointer/"
@@ -156,6 +198,13 @@ const FEED_DATA = {
       "link": "https://techcrunch.com/2026/05/12/threads-tests-a-meta-ai-integration-that-works-similarly-to-grok/"
     },
     {
+      "title": "Show HN: Gigacatalyst – Extend your SaaS with an embedded AI builder",
+      "summary": "Hi HN, I’m Namanyay from Gigacatalyst (link: https://gigacatalyst.com/).",
+      "source": "Hacker News",
+      "published": "2026-05-12T16:32:54+00:00",
+      "link": "https://news.ycombinator.com/item?id=48110593"
+    },
+    {
       "title": "Parents say ChatGPT got their son killed with bad advice on party drugs",
       "summary": "The family of a 19-year-old college student is suing OpenAI over claims that his conversations with ChatGPT led to an accidental overdose.",
       "source": "The Verge",
@@ -164,7 +213,7 @@ const FEED_DATA = {
     },
     {
       "title": "Amazon employees are \"tokenmaxxing\" due to pressure to use AI tools",
-      "summary": "Article URL: https://arstechnica.com/ai/2026/05/amazon-employees-are-tokenmaxxing-due-to-pressure-to-use-ai-tools/ Comments URL: https://news.ycombinator.com/item?id=48110529 Points: 220 # Comments: 226",
+      "summary": "Article URL: https://arstechnica.com/ai/2026/05/amazon-employees-are-tokenmaxxing-due-to-pressure-to-use-ai-tools/ Comments URL: https://news.ycombinator.com/item?id=48110529 Points: 226 # Comments: 231",
       "source": "Hacker News",
       "published": "2026-05-12T16:29:21+00:00",
       "link": "https://arstechnica.com/ai/2026/05/amazon-employees-are-tokenmaxxing-due-to-pressure-to-use-ai-tools/"
@@ -311,7 +360,7 @@ const FEED_DATA = {
     },
     {
       "title": "GM just laid off IT workers to hire those with stronger AI skills",
-      "summary": "Article URL: https://techcrunch.com/2026/05/11/gm-just-laid-off-hundreds-of-it-workers-to-hire-those-with-stronger-ai-skills/ Comments URL: https://news.ycombinator.com/item?id=48102198 Points: 66 # Comments: 87",
+      "summary": "Article URL: https://techcrunch.com/2026/05/11/gm-just-laid-off-hundreds-of-it-workers-to-hire-those-with-stronger-ai-skills/ Comments URL: https://news.ycombinator.com/item?id=48102198 Points: 66 # Comments: 88",
       "source": "Hacker News",
       "published": "2026-05-11T23:33:04+00:00",
       "link": "https://techcrunch.com/2026/05/11/gm-just-laid-off-hundreds-of-it-workers-to-hire-those-with-stronger-ai-skills/"
@@ -339,14 +388,14 @@ const FEED_DATA = {
     },
     {
       "title": "I let AI build a tool to help me figure out what was waking me up at night",
-      "summary": "Article URL: https://martin.sh/i-let-ai-build-a-tool-to-help-me-figure-out-what-was-waking-me-up-at-night/ Comments URL: https://news.ycombinator.com/item?id=48100662 Points: 264 # Comments: 277",
+      "summary": "Article URL: https://martin.sh/i-let-ai-build-a-tool-to-help-me-figure-out-what-was-waking-me-up-at-night/ Comments URL: https://news.ycombinator.com/item?id=48100662 Points: 265 # Comments: 277",
       "source": "Hacker News",
       "published": "2026-05-11T21:04:10+00:00",
       "link": "https://martin.sh/i-let-ai-build-a-tool-to-help-me-figure-out-what-was-waking-me-up-at-night/"
     },
     {
       "title": "If AI writes your code, why use Python?",
-      "summary": "Article URL: https://medium.com/@NMitchem/if-ai-writes-your-code-why-use-python-bf8c4ba1a055 Comments URL: https://news.ycombinator.com/item?id=48100433 Points: 870 # Comments: 924",
+      "summary": "Article URL: https://medium.com/@NMitchem/if-ai-writes-your-code-why-use-python-bf8c4ba1a055 Comments URL: https://news.ycombinator.com/item?id=48100433 Points: 883 # Comments: 934",
       "source": "Hacker News",
       "published": "2026-05-11T20:45:55+00:00",
       "link": "https://medium.com/@NMitchem/if-ai-writes-your-code-why-use-python-bf8c4ba1a055"
@@ -388,7 +437,7 @@ const FEED_DATA = {
     },
     {
       "title": "Students boo commencement speaker after she calls AI next industrial revolution",
-      "summary": "Article URL: https://www.404media.co/ucf-ai-commencement-speaker-booed/ Comments URL: https://news.ycombinator.com/item?id=48096674 Points: 172 # Comments: 209",
+      "summary": "Article URL: https://www.404media.co/ucf-ai-commencement-speaker-booed/ Comments URL: https://news.ycombinator.com/item?id=48096674 Points: 173 # Comments: 210",
       "source": "Hacker News",
       "published": "2026-05-11T15:53:23+00:00",
       "link": "https://www.404media.co/ucf-ai-commencement-speaker-booed/"
@@ -493,7 +542,7 @@ const FEED_DATA = {
     },
     {
       "title": "I work in Hollywood. Everyone who used to make TV is now training AI",
-      "summary": "Article URL: https://www.wired.com/story/i-work-in-hollywood-everyone-who-used-to-make-tv-now-training-ai/ Comments URL: https://news.ycombinator.com/item?id=48093446 Points: 104 # Comments: 85",
+      "summary": "Article URL: https://www.wired.com/story/i-work-in-hollywood-everyone-who-used-to-make-tv-now-training-ai/ Comments URL: https://news.ycombinator.com/item?id=48093446 Points: 105 # Comments: 86",
       "source": "Hacker News",
       "published": "2026-05-11T11:05:04+00:00",
       "link": "https://www.wired.com/story/i-work-in-hollywood-everyone-who-used-to-make-tv-now-training-ai/"
@@ -528,7 +577,7 @@ const FEED_DATA = {
     },
     {
       "title": "An AI coding agent, used to write code, needs to reduce your maintenance costs",
-      "summary": "Article URL: https://www.jamesshore.com/v2/blog/2026/you-need-ai-that-reduces-your-maintenance-costs Comments URL: https://news.ycombinator.com/item?id=48089289 Points: 368 # Comments: 109",
+      "summary": "Article URL: https://www.jamesshore.com/v2/blog/2026/you-need-ai-that-reduces-your-maintenance-costs Comments URL: https://news.ycombinator.com/item?id=48089289 Points: 369 # Comments: 109",
       "source": "Hacker News",
       "published": "2026-05-10T23:39:55+00:00",
       "link": "https://www.jamesshore.com/v2/blog/2026/you-need-ai-that-reduces-your-maintenance-costs"
@@ -556,14 +605,14 @@ const FEED_DATA = {
     },
     {
       "title": "Local AI needs to be the norm",
-      "summary": "Article URL: https://unix.foo/posts/local-ai-needs-to-be-norm/ Comments URL: https://news.ycombinator.com/item?id=48085821 Points: 1847 # Comments: 736",
+      "summary": "Article URL: https://unix.foo/posts/local-ai-needs-to-be-norm/ Comments URL: https://news.ycombinator.com/item?id=48085821 Points: 1850 # Comments: 738",
       "source": "Hacker News",
       "published": "2026-05-10T17:19:28+00:00",
       "link": "https://unix.foo/posts/local-ai-needs-to-be-norm/"
     },
     {
       "title": "Training an LLM in Swift, Part 1: Taking matrix mult from Gflop/s to Tflop/s",
-      "summary": "Article URL: https://www.cocoawithlove.com/blog/matrix-multiplications-swift.html Comments URL: https://news.ycombinator.com/item?id=48085685 Points: 255 # Comments: 12",
+      "summary": "Article URL: https://www.cocoawithlove.com/blog/matrix-multiplications-swift.html Comments URL: https://news.ycombinator.com/item?id=48085685 Points: 256 # Comments: 12",
       "source": "Hacker News",
       "published": "2026-05-10T17:05:05+00:00",
       "link": "https://www.cocoawithlove.com/blog/matrix-multiplications-swift.html"
@@ -591,7 +640,7 @@ const FEED_DATA = {
     },
     {
       "title": "Israel's AI targeting system: how data from a phone become a death sentence",
-      "summary": "Article URL: https://www.latimes.com/world-nation/story/2026-05-04/inside-israels-ai-targeting-system-how-data-from-phone-become-death-sentence Comments URL: https://news.ycombinator.com/item?id=48082763 Points: 134 # Comments: 45",
+      "summary": "Article URL: https://www.latimes.com/world-nation/story/2026-05-04/inside-israels-ai-targeting-system-how-data-from-phone-become-death-sentence Comments URL: https://news.ycombinator.com/item?id=48082763 Points: 153 # Comments: 49",
       "source": "Hacker News",
       "published": "2026-05-10T10:51:47+00:00",
       "link": "https://www.latimes.com/world-nation/story/2026-05-04/inside-israels-ai-targeting-system-how-data-from-phone-become-death-sentence"
@@ -1351,55 +1400,6 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-05-06T13:54:09+00:00",
       "link": "https://techcrunch.com/2026/05/06/ai-boom-pushes-samsung-to-1t/"
-    },
-    {
-      "title": "ChatGPT ads are now open to small businesses as OpenAI builds a full self-serve ad platform",
-      "summary": "Advertisers in the US can now book ads in ChatGPT on their own. The $50,000 minimum budget is gone.",
-      "source": "The Decoder",
-      "published": "2026-05-06T13:28:38+00:00",
-      "link": "https://the-decoder.com/chatgpt-ads-are-now-open-to-small-businesses-as-openai-builds-a-full-self-serve-ad-platform/"
-    },
-    {
-      "title": "Deepseek nears $45 billion valuation as China's state chip fund leads round",
-      "summary": "Deepseek is close to a funding round that could value the Chinese AI lab at roughly $45 billion, according to the Financial Times. The article Deepseek nears $45 billion valuation as China's state chip fund leads round appeared first on The Decoder.",
-      "source": "The Decoder",
-      "published": "2026-05-06T13:22:12+00:00",
-      "link": "https://the-decoder.com/deepseek-nears-45-billion-valuation-as-chinas-state-chip-fund-leads-round/"
-    },
-    {
-      "title": "Google’s AI search summaries will now quote Reddit",
-      "summary": "Google is updating its AI Search features to make it easier for users to find information from sources they know and trust.",
-      "source": "The Verge",
-      "published": "2026-05-06T13:00:30+00:00",
-      "link": "https://www.theverge.com/tech/924993/google-ai-search-mode-overviews-update-reddit-links"
-    },
-    {
-      "title": "Google and Meta race to build personal AI agents as Anthropic and OpenAI pull further ahead",
-      "summary": "Google and Meta are both internally testing personal AI agents - codenamed \"Remy\" and \"Hatch\" - designed to handle everyday tasks on their own, a direct response to the lead built by Anthropic and OpenAI. Google shut down its browser agent project Mariner to focus on the effort.",
-      "source": "The Decoder",
-      "published": "2026-05-06T12:53:38+00:00",
-      "link": "https://the-decoder.com/google-and-meta-race-to-build-personal-ai-agents-as-anthropic-and-openai-pull-further-ahead/"
-    },
-    {
-      "title": "Anthropic commits $200 billion to Google Cloud over five years",
-      "summary": "According to a report by The Information, Anthropic has committed to spending roughly $200 billion on Google Cloud over the next five years - more than 40 percent of Google's entire cloud backlog.",
-      "source": "The Decoder",
-      "published": "2026-05-06T12:45:12+00:00",
-      "link": "https://the-decoder.com/anthropic-commits-200-billion-to-google-cloud-over-five-years/"
-    },
-    {
-      "title": "US government increases AI suppliers and rethinks Anthropic’s role",
-      "summary": "The US administration has added four more AI companies to its roster of favoured suppliers, with the Pentagon signing agreements with Microsoft, Reflection AI (which has yet to release a publicly-available model), Amazon, and Nvidia that mean their products can be used on...",
-      "source": "AI News",
-      "published": "2026-05-06T12:23:00+00:00",
-      "link": "https://www.artificialintelligence-news.com/news/us-government-increases-ai-in-defence-suppliers-roster-and-rethinks-anthropics-role/"
-    },
-    {
-      "title": "The Download: seafloor science and military chatbots",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.",
-      "source": "MIT Tech Review",
-      "published": "2026-05-06T12:10:00+00:00",
-      "link": "https://www.technologyreview.com/2026/05/06/1136917/the-download-seafloor-science-military-ai-chatbots/"
     }
   ]
 };
