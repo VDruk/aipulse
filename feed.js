@@ -1,6 +1,90 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-05-13T11:22:31.095527+00:00",
+  "lastUpdated": "2026-05-13T15:45:03.007341+00:00",
   "items": [
+    {
+      "title": "Live updates from Elon Musk and Sam Altman’s court battle over the future of OpenAI",
+      "summary": "Sam Altman and Elon Musk are facing off in a high-stakes trial that could alter the future of OpenAI and its most well-known product, ChatGPT.",
+      "source": "The Verge",
+      "published": "2026-05-13T15:28:21+00:00",
+      "link": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit"
+    },
+    {
+      "title": "Amazon launches an AI shopping assistant for the search bar, powered by Alexa+",
+      "summary": "Alexa for Shopping is a new personalized AI shopping assistant in the Amazon search bar that replaces its Rufus assistant.",
+      "source": "TechCrunch",
+      "published": "2026-05-13T14:59:32+00:00",
+      "link": "https://techcrunch.com/2026/05/13/amazon-launches-an-ai-shopping-assistant-for-the-search-bar-powered-by-alexa/"
+    },
+    {
+      "title": "WhatsApp adds an incognito mode in Meta AI chats",
+      "summary": "Meta said these incognito conversations are not saved, and messages will disappear by default once you close the chat.",
+      "source": "TechCrunch",
+      "published": "2026-05-13T14:00:00+00:00",
+      "link": "https://techcrunch.com/2026/05/13/whatsapp-adds-an-incognito-mode-in-meta-ai-chats/"
+    },
+    {
+      "title": "Anthropic now has more business customers than OpenAI, according to Ramp data",
+      "summary": "For the first time, Anthropic has more verified business customers than OpenAI, according to this month’s AI Index from the fintech firm Ramp.",
+      "source": "TechCrunch",
+      "published": "2026-05-13T14:00:00+00:00",
+      "link": "https://techcrunch.com/2026/05/13/anthropic-now-has-more-business-customers-than-openai-according-to-ramp-data/"
+    },
+    {
+      "title": "WhatsApp Adds Meta AI Chats That Are Built to Be Fully Private",
+      "summary": "The company says its new Incognito Chat allows you to use its AI chatbot without anyone else—including Meta—being able to access your conversations.",
+      "source": "Wired",
+      "published": "2026-05-13T14:00:00+00:00",
+      "link": "https://www.wired.com/story/whatsapp-incognito-chat-meta-ai/"
+    },
+    {
+      "title": "Physical AI Conference Comes to San Jose as Robotics & Autonomous AI Go Mainstream",
+      "summary": "The Physical AI Conference shaping the future of robotics, autonomous systems and real-world AI deployment lands in Silicon Valley this May, bringing together the engineers, builders and AI pioneers turning intelligence into physical action.",
+      "source": "AI News",
+      "published": "2026-05-13T13:43:38+00:00",
+      "link": "https://www.artificialintelligence-news.com/news/physical-ai-conference-comes-to-san-jose-as-robotics-autonomous-ai-go-mainstream/"
+    },
+    {
+      "title": "China's AI suppliers can't keep up as critical component shortages hit production",
+      "summary": "China's AI hardware suppliers can't keep up with surging demand because critical components are scarce and production capacity is lacking, Bloomberg reports.",
+      "source": "The Decoder",
+      "published": "2026-05-13T13:37:31+00:00",
+      "link": "https://the-decoder.com/chinas-ai-suppliers-cant-keep-up-as-critical-component-shortages-hit-production/"
+    },
+    {
+      "title": "Software Developers Say AI Is Rotting Their Brains",
+      "summary": "Article URL: https://www.404media.co/software-developers-say-ai-is-rotting-their-brains/ Comments URL: https://news.ycombinator.com/item?id=48121717 Points: 64 # Comments: 91",
+      "source": "Hacker News",
+      "published": "2026-05-13T13:34:51+00:00",
+      "link": "https://www.404media.co/software-developers-say-ai-is-rotting-their-brains/"
+    },
+    {
+      "title": "Poppy debuts a proactive AI assistant to help organize your digital life",
+      "summary": "Poppy is an AI-powered app that connects your calendar, email, messages, and other services to surface reminders, suggestions, and tasks based on what’s happening in your life.",
+      "source": "TechCrunch",
+      "published": "2026-05-13T13:27:09+00:00",
+      "link": "https://techcrunch.com/2026/05/13/poppy-debuts-a-proactive-ai-assistant-to-help-organize-your-digital-life/"
+    },
+    {
+      "title": "Alexa is moving into Amazon․com",
+      "summary": "Amazon is bringing Alexa Plus to Amazon.com, integrating its LLM-powered AI assistant directly into the company's shopping experience.",
+      "source": "The Verge",
+      "published": "2026-05-13T13:00:00+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/929457/amazon-announces-alexa-for-shopping-ai-assistant-rufus"
+    },
+    {
+      "title": "Adaption aims big with AutoScientist, an AI tool that helps models train themselves",
+      "summary": "Adaption's new AutoScientist tool is designed to let models adapt to specific capabilities quickly through an automated approach to conventional fine-tuning.",
+      "source": "TechCrunch",
+      "published": "2026-05-13T12:11:33+00:00",
+      "link": "https://techcrunch.com/2026/05/13/adaption-aims-big-with-autoscientist-an-ai-tool-that-helps-models-train-themselves/"
+    },
+    {
+      "title": "The Download: making drugs in orbit and NASA’s nuclear-powered spacecraft",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.",
+      "source": "MIT Tech Review",
+      "published": "2026-05-13T12:10:00+00:00",
+      "link": "https://www.technologyreview.com/2026/05/13/1137176/the-download-drugs-in-orbit-nasa-nuclear-spacecraft/"
+    },
     {
       "title": "Submit Your Questions: AI Is Changing Your Job—Now What?",
       "summary": "Pose your questions ahead of our May 27 livestream AMA, where a panel of WIRED experts will discuss how AI is transforming work.",
@@ -108,7 +192,7 @@ const FEED_DATA = {
     },
     {
       "title": "Reimagining the mouse pointer for the AI era",
-      "summary": "Article URL: https://deepmind.google/blog/ai-pointer/ Comments URL: https://news.ycombinator.com/item?id=48111581 Points: 212 # Comments: 178",
+      "summary": "Article URL: https://deepmind.google/blog/ai-pointer/ Comments URL: https://news.ycombinator.com/item?id=48111581 Points: 236 # Comments: 202",
       "source": "Hacker News",
       "published": "2026-05-12T17:40:13+00:00",
       "link": "https://deepmind.google/blog/ai-pointer/"
@@ -213,7 +297,7 @@ const FEED_DATA = {
     },
     {
       "title": "Amazon employees are \"tokenmaxxing\" due to pressure to use AI tools",
-      "summary": "Article URL: https://arstechnica.com/ai/2026/05/amazon-employees-are-tokenmaxxing-due-to-pressure-to-use-ai-tools/ Comments URL: https://news.ycombinator.com/item?id=48110529 Points: 226 # Comments: 231",
+      "summary": "Article URL: https://arstechnica.com/ai/2026/05/amazon-employees-are-tokenmaxxing-due-to-pressure-to-use-ai-tools/ Comments URL: https://news.ycombinator.com/item?id=48110529 Points: 237 # Comments: 238",
       "source": "Hacker News",
       "published": "2026-05-12T16:29:21+00:00",
       "link": "https://arstechnica.com/ai/2026/05/amazon-employees-are-tokenmaxxing-due-to-pressure-to-use-ai-tools/"
@@ -388,14 +472,14 @@ const FEED_DATA = {
     },
     {
       "title": "I let AI build a tool to help me figure out what was waking me up at night",
-      "summary": "Article URL: https://martin.sh/i-let-ai-build-a-tool-to-help-me-figure-out-what-was-waking-me-up-at-night/ Comments URL: https://news.ycombinator.com/item?id=48100662 Points: 265 # Comments: 277",
+      "summary": "Article URL: https://martin.sh/i-let-ai-build-a-tool-to-help-me-figure-out-what-was-waking-me-up-at-night/ Comments URL: https://news.ycombinator.com/item?id=48100662 Points: 267 # Comments: 279",
       "source": "Hacker News",
       "published": "2026-05-11T21:04:10+00:00",
       "link": "https://martin.sh/i-let-ai-build-a-tool-to-help-me-figure-out-what-was-waking-me-up-at-night/"
     },
     {
       "title": "If AI writes your code, why use Python?",
-      "summary": "Article URL: https://medium.com/@NMitchem/if-ai-writes-your-code-why-use-python-bf8c4ba1a055 Comments URL: https://news.ycombinator.com/item?id=48100433 Points: 883 # Comments: 934",
+      "summary": "Article URL: https://medium.com/@NMitchem/if-ai-writes-your-code-why-use-python-bf8c4ba1a055 Comments URL: https://news.ycombinator.com/item?id=48100433 Points: 889 # Comments: 944",
       "source": "Hacker News",
       "published": "2026-05-11T20:45:55+00:00",
       "link": "https://medium.com/@NMitchem/if-ai-writes-your-code-why-use-python-bf8c4ba1a055"
@@ -437,7 +521,7 @@ const FEED_DATA = {
     },
     {
       "title": "Students boo commencement speaker after she calls AI next industrial revolution",
-      "summary": "Article URL: https://www.404media.co/ucf-ai-commencement-speaker-booed/ Comments URL: https://news.ycombinator.com/item?id=48096674 Points: 173 # Comments: 210",
+      "summary": "Article URL: https://www.404media.co/ucf-ai-commencement-speaker-booed/ Comments URL: https://news.ycombinator.com/item?id=48096674 Points: 173 # Comments: 213",
       "source": "Hacker News",
       "published": "2026-05-11T15:53:23+00:00",
       "link": "https://www.404media.co/ucf-ai-commencement-speaker-booed/"
@@ -448,13 +532,6 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-05-11T15:40:35+00:00",
       "link": "https://the-decoder.com/openais-deployco-subsidiary-adopts-palantirs-playbook-building-a-moat-from-workflows-no-lab-can-simulate/"
-    },
-    {
-      "title": "Live updates from Elon Musk and Sam Altman’s court battle over the future of OpenAI",
-      "summary": "Sam Altman and Elon Musk are facing off in a high-stakes trial that could alter the future of OpenAI and its most well-known product, ChatGPT.",
-      "source": "The Verge",
-      "published": "2026-05-11T15:27:12+00:00",
-      "link": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit"
     },
     {
       "title": "Lawsuit claims ChatGPT coached FSU shooter on gun operation, timing, and victim thresholds",
@@ -492,18 +569,18 @@ const FEED_DATA = {
       "link": "https://www.nytimes.com/2026/05/11/us/politics/google-hackers-attack-ai.html"
     },
     {
-      "title": "There aren’t enough rockets for space data centers — Cowboy Space raised $275M to build them",
-      "summary": "The apparently insatiable demand for AI compute has data center entrepreneurs looking to the stars. There's a key problem: There aren't enough rockets to put data centers in orbit around Earth, and they're too expensive.",
-      "source": "TechCrunch",
-      "published": "2026-05-11T13:00:00+00:00",
-      "link": "https://techcrunch.com/2026/05/11/there-arent-enough-rockets-for-space-data-centers-cowboy-space-raised-275-million-to-build-them/"
-    },
-    {
       "title": "Implementing advanced AI technologies in finance",
       "summary": "In finance departments that have long been defined by precision and control, AI has arrived less as a neatly managed upgrade than as a quiet insurgency. Employees are already using it while leadership races to impose structure, governance, and strategy after the fact.",
       "source": "MIT Tech Review",
       "published": "2026-05-11T13:00:00+00:00",
       "link": "https://www.technologyreview.com/2026/05/11/1136786/implementing-advanced-ai-technologies-in-finance/"
+    },
+    {
+      "title": "There aren’t enough rockets for space data centers — Cowboy Space raised $275M to build them",
+      "summary": "The apparently insatiable demand for AI compute has data center entrepreneurs looking to the stars. There's a key problem: There aren't enough rockets to put data centers in orbit around Earth, and they're too expensive.",
+      "source": "TechCrunch",
+      "published": "2026-05-11T13:00:00+00:00",
+      "link": "https://techcrunch.com/2026/05/11/there-arent-enough-rockets-for-space-data-centers-cowboy-space-raised-275-million-to-build-them/"
     },
     {
       "title": "There aren’t enough rockets for space data centers. Cowboy Space raised $275 million to build them.",
@@ -535,7 +612,7 @@ const FEED_DATA = {
     },
     {
       "title": "What a Japanese cooking principle taught me about overcoming AI fatigue",
-      "summary": "Article URL: https://www.devas.life/what-a-japanese-cooking-principle-taught-me-about-overcoming-ai-fatigue/ Comments URL: https://news.ycombinator.com/item?id=48093466 Points: 84 # Comments: 4",
+      "summary": "Article URL: https://www.devas.life/what-a-japanese-cooking-principle-taught-me-about-overcoming-ai-fatigue/ Comments URL: https://news.ycombinator.com/item?id=48093466 Points: 85 # Comments: 4",
       "source": "Hacker News",
       "published": "2026-05-11T11:07:10+00:00",
       "link": "https://www.devas.life/what-a-japanese-cooking-principle-taught-me-about-overcoming-ai-fatigue/"
@@ -577,7 +654,7 @@ const FEED_DATA = {
     },
     {
       "title": "An AI coding agent, used to write code, needs to reduce your maintenance costs",
-      "summary": "Article URL: https://www.jamesshore.com/v2/blog/2026/you-need-ai-that-reduces-your-maintenance-costs Comments URL: https://news.ycombinator.com/item?id=48089289 Points: 369 # Comments: 109",
+      "summary": "Article URL: https://www.jamesshore.com/v2/blog/2026/you-need-ai-that-reduces-your-maintenance-costs Comments URL: https://news.ycombinator.com/item?id=48089289 Points: 370 # Comments: 109",
       "source": "Hacker News",
       "published": "2026-05-10T23:39:55+00:00",
       "link": "https://www.jamesshore.com/v2/blog/2026/you-need-ai-that-reduces-your-maintenance-costs"
@@ -605,14 +682,14 @@ const FEED_DATA = {
     },
     {
       "title": "Local AI needs to be the norm",
-      "summary": "Article URL: https://unix.foo/posts/local-ai-needs-to-be-norm/ Comments URL: https://news.ycombinator.com/item?id=48085821 Points: 1850 # Comments: 738",
+      "summary": "Article URL: https://unix.foo/posts/local-ai-needs-to-be-norm/ Comments URL: https://news.ycombinator.com/item?id=48085821 Points: 1859 # Comments: 740",
       "source": "Hacker News",
       "published": "2026-05-10T17:19:28+00:00",
       "link": "https://unix.foo/posts/local-ai-needs-to-be-norm/"
     },
     {
       "title": "Training an LLM in Swift, Part 1: Taking matrix mult from Gflop/s to Tflop/s",
-      "summary": "Article URL: https://www.cocoawithlove.com/blog/matrix-multiplications-swift.html Comments URL: https://news.ycombinator.com/item?id=48085685 Points: 256 # Comments: 12",
+      "summary": "Article URL: https://www.cocoawithlove.com/blog/matrix-multiplications-swift.html Comments URL: https://news.ycombinator.com/item?id=48085685 Points: 257 # Comments: 12",
       "source": "Hacker News",
       "published": "2026-05-10T17:05:05+00:00",
       "link": "https://www.cocoawithlove.com/blog/matrix-multiplications-swift.html"
@@ -640,7 +717,7 @@ const FEED_DATA = {
     },
     {
       "title": "Israel's AI targeting system: how data from a phone become a death sentence",
-      "summary": "Article URL: https://www.latimes.com/world-nation/story/2026-05-04/inside-israels-ai-targeting-system-how-data-from-phone-become-death-sentence Comments URL: https://news.ycombinator.com/item?id=48082763 Points: 153 # Comments: 49",
+      "summary": "Article URL: https://www.latimes.com/world-nation/story/2026-05-04/inside-israels-ai-targeting-system-how-data-from-phone-become-death-sentence Comments URL: https://news.ycombinator.com/item?id=48082763 Points: 180 # Comments: 68",
       "source": "Hacker News",
       "published": "2026-05-10T10:51:47+00:00",
       "link": "https://www.latimes.com/world-nation/story/2026-05-04/inside-israels-ai-targeting-system-how-data-from-phone-become-death-sentence"
@@ -1323,83 +1400,6 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-05-06T17:20:34+00:00",
       "link": "https://techcrunch.com/2026/05/06/deepseek-could-hit-45b-valuation-from-its-first-investment-round/"
-    },
-    {
-      "title": "I Am Begging AI Companies to Stop Naming Features After Human Processes",
-      "summary": "Anthropic announced “dreaming” for AI agents to sort through “memories” at its developer conference. Can we not?",
-      "source": "Wired",
-      "published": "2026-05-06T16:51:12+00:00",
-      "link": "https://www.wired.com/story/i-am-begging-ai-companies-to-stop-naming-features-after-human-processes/"
-    },
-    {
-      "title": "Canadian fiddler sues Google after AI Overview claimed he was a sex offender",
-      "summary": "Article URL: https://www.theguardian.com/music/2026/may/05/canadian-ashley-macisaac-fiddler-musician-singer-songwriter-sues-google-ai-sex-offender-ntwnfb Comments URL: https://news.ycombinator.com/item?id=48037923 Points: 55 # Comments: 27",
-      "source": "Hacker News",
-      "published": "2026-05-06T16:12:50+00:00",
-      "link": "https://www.theguardian.com/music/2026/may/05/canadian-ashley-macisaac-fiddler-musician-singer-songwriter-sues-google-ai-sex-offender-ntwnfb"
-    },
-    {
-      "title": "Google speeds up Gemma 4 threefold with multi-token prediction",
-      "summary": "Google has released multi-token prediction drafters for its Gemma 4 open model family that speed up text generation by up to three times. A small auxiliary model suggests several tokens at once while the main model checks them in a single pass.",
-      "source": "The Decoder",
-      "published": "2026-05-06T16:05:28+00:00",
-      "link": "https://the-decoder.com/google-speeds-up-gemma-4-threefold-with-multi-token-prediction/"
-    },
-    {
-      "title": "Google updates AI search to include quotes from Reddit and other sources",
-      "summary": "While citing web forums and discussion boards can help users find answers to more niche queries, this design choice could also prove chaotic.",
-      "source": "TechCrunch",
-      "published": "2026-05-06T15:49:39+00:00",
-      "link": "https://techcrunch.com/2026/05/06/google-updates-ai-search-to-include-expert-advice-from-reddit-and-other-web-forums/"
-    },
-    {
-      "title": "Hackers Hate AI Slop Even More Than You Do",
-      "summary": "It's not just you. Scammers, hackers, and other cybercriminals are complaining about “AI shit” flooding platforms where they discuss cyberattacks and other illegal activity.",
-      "source": "Wired",
-      "published": "2026-05-06T15:49:12+00:00",
-      "link": "https://www.wired.com/story/cybercriminals-are-complaining-about-ai-slop-flooding-their-forums/"
-    },
-    {
-      "title": "Khosla-backed robotics startup Genesis AI has gone full stack, demo shows",
-      "summary": "Genesis AI, a startup that raised a $105 million seed round to build foundational AI for robotics, has unveiled its first model, GENE-26.5, but also a demo showcasing a set of robotic hands performing complex tasks.",
-      "source": "TechCrunch",
-      "published": "2026-05-06T15:46:38+00:00",
-      "link": "https://techcrunch.com/2026/05/06/khosla-backed-robotics-startup-genesis-ai-has-gone-full-stack-demo-shows/"
-    },
-    {
-      "title": "Tinder owner Match Group is slowing hiring to pay for its increased use of AI tools",
-      "summary": "Match Group said that it's slowing its hiring plans for the rest of the year because AI tools \"cost a lot of money.\"",
-      "source": "TechCrunch",
-      "published": "2026-05-06T15:27:36+00:00",
-      "link": "https://techcrunch.com/2026/05/06/tinder-owner-match-group-is-slowing-hiring-to-pay-for-its-increased-use-of-ai-tools/"
-    },
-    {
-      "title": "HP and the art of AI and data for the enterprise",
-      "summary": "Ahead of the AI & Big Data Expo at the San Jose McEnery Convention Center, May 18-19, we spoke to Jerome Gabryszewski, the company’s AI & Data Science Business Development Manager about AI, processing data for AI ingestion, and local versus cloud compute.",
-      "source": "AI News",
-      "published": "2026-05-06T15:14:00+00:00",
-      "link": "https://www.artificialintelligence-news.com/news/hps-ai-and-data-offerings-for-the-enterprise/"
-    },
-    {
-      "title": "Apple to pay $250M to settle lawsuit over Siri’s delayed AI features",
-      "summary": "Apple has agreed to pay $250 million to settle a class action lawsuit for overpromising the arrival of Siri's AI features.",
-      "source": "TechCrunch",
-      "published": "2026-05-06T15:12:49+00:00",
-      "link": "https://techcrunch.com/2026/05/06/apple-to-pay-250m-to-settle-lawsuit-over-siris-delayed-ai-features/"
-    },
-    {
-      "title": "Ethos raises $22.75M from a16z for its expert network with voice onboarding",
-      "summary": "Ethos says it is onboarding 35,000 experts per week.",
-      "source": "TechCrunch",
-      "published": "2026-05-06T15:00:00+00:00",
-      "link": "https://techcrunch.com/2026/05/06/ethos-raises-22-75m-from-a16z-for-its-expert-network-with-voice-onboarding/"
-    },
-    {
-      "title": "AI boom pushes Samsung to $1T",
-      "summary": "Samsung crossed the $1 trillion valuation mark after shares surged on AI-driven chip demand, making it only the second Asian company after TSMC to hit the milestone.",
-      "source": "TechCrunch",
-      "published": "2026-05-06T13:54:09+00:00",
-      "link": "https://techcrunch.com/2026/05/06/ai-boom-pushes-samsung-to-1t/"
     }
   ]
 };
