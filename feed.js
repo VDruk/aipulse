@@ -1,6 +1,83 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-05-13T15:45:03.007341+00:00",
+  "lastUpdated": "2026-05-13T18:53:56.923709+00:00",
   "items": [
+    {
+      "title": "Tencent plans to ramp up AI spending as China's chip supply allegedly improves",
+      "summary": "Tencent plans to significantly boost AI infrastructure spending in the second half of 2026, as Chinese chipmakers ramp up domestic AI chip production. The company also posted strong first-quarter results and is in talks for a stake in Deepseek.",
+      "source": "The Decoder",
+      "published": "2026-05-13T18:46:46+00:00",
+      "link": "https://the-decoder.com/tencent-plans-to-ramp-up-ai-spending-as-chinas-chip-supply-allegedly-improves/"
+    },
+    {
+      "title": "Anthropic overtakes OpenAI in B2B adoption for the first time according to Ramp spending data",
+      "summary": "Anthropic now leads OpenAI in B2B adoption for the first time, with 34.4 percent of US companies on the Ramp AI Index compared to OpenAI's 32.3 percent. Anthropic quadrupled its reach in just one year, but three factors could erode that lead quickly.",
+      "source": "The Decoder",
+      "published": "2026-05-13T18:23:15+00:00",
+      "link": "https://the-decoder.com/anthropic-overtakes-openai-in-b2b-adoption-for-the-first-time-according-to-ramp-spending-data/"
+    },
+    {
+      "title": "AI chatbots are giving out people’s real phone numbers",
+      "summary": "People report that their personal contact info was surfaced by Google AI—and there’s apparently no easy way to prevent it.",
+      "source": "MIT Tech Review",
+      "published": "2026-05-13T18:09:03+00:00",
+      "link": "https://www.technologyreview.com/2026/05/13/1137203/ai-chatbots-are-giving-out-peoples-real-phone-numbers/"
+    },
+    {
+      "title": "Overworked AI Agents Turn Marxist, Researchers Find",
+      "summary": "In a recent experiment, mistreated AI agents started grumbling about inequality and calling for collective bargaining rights.",
+      "source": "Wired",
+      "published": "2026-05-13T18:08:33+00:00",
+      "link": "https://www.wired.com/story/overworked-ai-agents-turn-marxist-study/"
+    },
+    {
+      "title": "Meta AI gets a private mode where no conversation data is stored on servers",
+      "summary": "Meta is rolling out \"Incognito Chat\" for Meta AI on WhatsApp and in the Meta AI app. According to Mark Zuckerberg, conversations are processed in a protected server environment that even Meta can't access, and chat histories disappear when the session ends.",
+      "source": "The Decoder",
+      "published": "2026-05-13T17:47:02+00:00",
+      "link": "https://the-decoder.com/meta-ai-gets-a-private-mode-where-no-conversation-data-is-stored-on-servers/"
+    },
+    {
+      "title": "Anthropic launches Claude for Small Business to embed AI into the tools you forgot you pay for",
+      "summary": "Anthropic is launching \"Claude for Small Business,\" a package of 15 agent-based workflows and integrations for tools like QuickBooks, PayPal, and HubSpot.",
+      "source": "The Decoder",
+      "published": "2026-05-13T17:28:42+00:00",
+      "link": "https://the-decoder.com/anthropic-launches-claude-for-small-business-to-embed-ai-into-the-tools-you-forgot-you-pay-for/"
+    },
+    {
+      "title": "OpenAI Brings Its Ass to Court",
+      "summary": "In Musk v. Altman, the company sought to show the jury a remarkable trophy as physical proof of Elon Musk’s concerning behavior.",
+      "source": "Wired",
+      "published": "2026-05-13T17:08:01+00:00",
+      "link": "https://www.wired.com/story/musk-altman-trial-ass-statue-evidence/"
+    },
+    {
+      "title": "Mark Zuckerberg announces ‘completely private’ encrypted Meta AI chat",
+      "summary": "Meta CEO Mark Zuckerberg says its new Incognito Chat is \"the first major AI product where there is no log of your conversations stored on servers.\" Messages in Incognito Chat aren't saved or stored in users' chat history, similar to incognito modes on other AI chatbots, but Meta...",
+      "source": "The Verge",
+      "published": "2026-05-13T16:45:43+00:00",
+      "link": "https://www.theverge.com/tech/929791/meta-ai-incognito-chats"
+    },
+    {
+      "title": "Origin Lab raises $8M to help video game companies sell data to world-model builders",
+      "summary": "Origin Lab will serve as a marketplace where AI labs can buy high-quality licensed data, and video-game companies can sell it.",
+      "source": "TechCrunch",
+      "published": "2026-05-13T16:22:01+00:00",
+      "link": "https://techcrunch.com/2026/05/13/origin-lab-raises-8m-to-help-video-game-companies-sell-data-to-world-model-builders/"
+    },
+    {
+      "title": "Anthropic courts a new kind of customer: small business owners",
+      "summary": "For founders and investors, Anthropic's new offering signals that the AI platform wars are expanding downmarket and that the next major battleground for user acquisition isn't the Fortune 500; it's the 36 million small businesses that make up the backbone of the U.S. economy.",
+      "source": "TechCrunch",
+      "published": "2026-05-13T16:00:00+00:00",
+      "link": "https://techcrunch.com/2026/05/13/anthropic-courts-a-new-kind-of-customer-small-business-owners/"
+    },
+    {
+      "title": "Luma opens Uni-1.1 image model API at prices and quality matching OpenAI and Google",
+      "summary": "Luma is making its Uni-1.1 image model available via API, with prices starting at $0.04 per image at 2,048-pixel resolution. On the Arena leaderboard, the model ranks third, right behind Google and OpenAI.",
+      "source": "The Decoder",
+      "published": "2026-05-13T15:45:46+00:00",
+      "link": "https://the-decoder.com/luma-opens-uni-1-1-image-model-api-at-prices-and-quality-matching-openai-and-google/"
+    },
     {
       "title": "Live updates from Elon Musk and Sam Altman’s court battle over the future of OpenAI",
       "summary": "Sam Altman and Elon Musk are facing off in a high-stakes trial that could alter the future of OpenAI and its most well-known product, ChatGPT.",
@@ -10,10 +87,17 @@ const FEED_DATA = {
     },
     {
       "title": "Amazon launches an AI shopping assistant for the search bar, powered by Alexa+",
-      "summary": "Alexa for Shopping is a new personalized AI shopping assistant in the Amazon search bar that replaces its Rufus assistant.",
+      "summary": "Alexa for Shopping offers a voice- and touch-enabled shopping experience across mobile, desktop, and Echo Show smart displays. Alexa for Shopping provides more personalized recommendations and automates the shopping experience across Amazon and other online retailers.",
       "source": "TechCrunch",
       "published": "2026-05-13T14:59:32+00:00",
       "link": "https://techcrunch.com/2026/05/13/amazon-launches-an-ai-shopping-assistant-for-the-search-bar-powered-by-alexa/"
+    },
+    {
+      "title": "The AI Backlash Could Get Ugly",
+      "summary": "Article URL: https://www.theatlantic.com/technology/2026/05/ai-backlash-data-centers-political-violence/687151/ Comments URL: https://news.ycombinator.com/item?id=48122624 Points: 56 # Comments: 125",
+      "source": "Hacker News",
+      "published": "2026-05-13T14:44:41+00:00",
+      "link": "https://www.theatlantic.com/technology/2026/05/ai-backlash-data-centers-political-violence/687151/"
     },
     {
       "title": "WhatsApp adds an incognito mode in Meta AI chats",
@@ -24,7 +108,7 @@ const FEED_DATA = {
     },
     {
       "title": "Anthropic now has more business customers than OpenAI, according to Ramp data",
-      "summary": "For the first time, Anthropic has more verified business customers than OpenAI, according to this month’s AI Index from the fintech firm Ramp.",
+      "summary": "A survey compiled from fintech firm Ramp’s clients’ expense data shows 34.4% of participating businesses are paying for Anthropic services, more than any other AI lab, while only 32.3% pay for OpenAI.",
       "source": "TechCrunch",
       "published": "2026-05-13T14:00:00+00:00",
       "link": "https://techcrunch.com/2026/05/13/anthropic-now-has-more-business-customers-than-openai-according-to-ramp-data/"
@@ -35,6 +119,13 @@ const FEED_DATA = {
       "source": "Wired",
       "published": "2026-05-13T14:00:00+00:00",
       "link": "https://www.wired.com/story/whatsapp-incognito-chat-meta-ai/"
+    },
+    {
+      "title": "The US is winning the AI race where it matters most: commercialization",
+      "summary": "Article URL: https://avkcode.github.io/blog/us-winning-ai-race.html Comments URL: https://news.ycombinator.com/item?id=48121929 Points: 77 # Comments: 211",
+      "source": "Hacker News",
+      "published": "2026-05-13T13:53:53+00:00",
+      "link": "https://avkcode.github.io/blog/us-winning-ai-race.html"
     },
     {
       "title": "Physical AI Conference Comes to San Jose as Robotics & Autonomous AI Go Mainstream",
@@ -52,7 +143,7 @@ const FEED_DATA = {
     },
     {
       "title": "Software Developers Say AI Is Rotting Their Brains",
-      "summary": "Article URL: https://www.404media.co/software-developers-say-ai-is-rotting-their-brains/ Comments URL: https://news.ycombinator.com/item?id=48121717 Points: 64 # Comments: 91",
+      "summary": "Article URL: https://www.404media.co/software-developers-say-ai-is-rotting-their-brains/ Comments URL: https://news.ycombinator.com/item?id=48121717 Points: 78 # Comments: 99",
       "source": "Hacker News",
       "published": "2026-05-13T13:34:51+00:00",
       "link": "https://www.404media.co/software-developers-say-ai-is-rotting-their-brains/"
@@ -192,7 +283,7 @@ const FEED_DATA = {
     },
     {
       "title": "Reimagining the mouse pointer for the AI era",
-      "summary": "Article URL: https://deepmind.google/blog/ai-pointer/ Comments URL: https://news.ycombinator.com/item?id=48111581 Points: 236 # Comments: 202",
+      "summary": "Article URL: https://deepmind.google/blog/ai-pointer/ Comments URL: https://news.ycombinator.com/item?id=48111581 Points: 243 # Comments: 211",
       "source": "Hacker News",
       "published": "2026-05-12T17:40:13+00:00",
       "link": "https://deepmind.google/blog/ai-pointer/"
@@ -297,7 +388,7 @@ const FEED_DATA = {
     },
     {
       "title": "Amazon employees are \"tokenmaxxing\" due to pressure to use AI tools",
-      "summary": "Article URL: https://arstechnica.com/ai/2026/05/amazon-employees-are-tokenmaxxing-due-to-pressure-to-use-ai-tools/ Comments URL: https://news.ycombinator.com/item?id=48110529 Points: 237 # Comments: 238",
+      "summary": "Article URL: https://arstechnica.com/ai/2026/05/amazon-employees-are-tokenmaxxing-due-to-pressure-to-use-ai-tools/ Comments URL: https://news.ycombinator.com/item?id=48110529 Points: 241 # Comments: 243",
       "source": "Hacker News",
       "published": "2026-05-12T16:29:21+00:00",
       "link": "https://arstechnica.com/ai/2026/05/amazon-employees-are-tokenmaxxing-due-to-pressure-to-use-ai-tools/"
@@ -444,7 +535,7 @@ const FEED_DATA = {
     },
     {
       "title": "GM just laid off IT workers to hire those with stronger AI skills",
-      "summary": "Article URL: https://techcrunch.com/2026/05/11/gm-just-laid-off-hundreds-of-it-workers-to-hire-those-with-stronger-ai-skills/ Comments URL: https://news.ycombinator.com/item?id=48102198 Points: 66 # Comments: 88",
+      "summary": "Article URL: https://techcrunch.com/2026/05/11/gm-just-laid-off-hundreds-of-it-workers-to-hire-those-with-stronger-ai-skills/ Comments URL: https://news.ycombinator.com/item?id=48102198 Points: 67 # Comments: 88",
       "source": "Hacker News",
       "published": "2026-05-11T23:33:04+00:00",
       "link": "https://techcrunch.com/2026/05/11/gm-just-laid-off-hundreds-of-it-workers-to-hire-those-with-stronger-ai-skills/"
@@ -472,14 +563,14 @@ const FEED_DATA = {
     },
     {
       "title": "I let AI build a tool to help me figure out what was waking me up at night",
-      "summary": "Article URL: https://martin.sh/i-let-ai-build-a-tool-to-help-me-figure-out-what-was-waking-me-up-at-night/ Comments URL: https://news.ycombinator.com/item?id=48100662 Points: 267 # Comments: 279",
+      "summary": "Article URL: https://martin.sh/i-let-ai-build-a-tool-to-help-me-figure-out-what-was-waking-me-up-at-night/ Comments URL: https://news.ycombinator.com/item?id=48100662 Points: 267 # Comments: 280",
       "source": "Hacker News",
       "published": "2026-05-11T21:04:10+00:00",
       "link": "https://martin.sh/i-let-ai-build-a-tool-to-help-me-figure-out-what-was-waking-me-up-at-night/"
     },
     {
       "title": "If AI writes your code, why use Python?",
-      "summary": "Article URL: https://medium.com/@NMitchem/if-ai-writes-your-code-why-use-python-bf8c4ba1a055 Comments URL: https://news.ycombinator.com/item?id=48100433 Points: 889 # Comments: 944",
+      "summary": "Article URL: https://medium.com/@NMitchem/if-ai-writes-your-code-why-use-python-bf8c4ba1a055 Comments URL: https://news.ycombinator.com/item?id=48100433 Points: 895 # Comments: 953",
       "source": "Hacker News",
       "published": "2026-05-11T20:45:55+00:00",
       "link": "https://medium.com/@NMitchem/if-ai-writes-your-code-why-use-python-bf8c4ba1a055"
@@ -619,7 +710,7 @@ const FEED_DATA = {
     },
     {
       "title": "I work in Hollywood. Everyone who used to make TV is now training AI",
-      "summary": "Article URL: https://www.wired.com/story/i-work-in-hollywood-everyone-who-used-to-make-tv-now-training-ai/ Comments URL: https://news.ycombinator.com/item?id=48093446 Points: 105 # Comments: 86",
+      "summary": "Article URL: https://www.wired.com/story/i-work-in-hollywood-everyone-who-used-to-make-tv-now-training-ai/ Comments URL: https://news.ycombinator.com/item?id=48093446 Points: 106 # Comments: 86",
       "source": "Hacker News",
       "published": "2026-05-11T11:05:04+00:00",
       "link": "https://www.wired.com/story/i-work-in-hollywood-everyone-who-used-to-make-tv-now-training-ai/"
@@ -639,13 +730,6 @@ const FEED_DATA = {
       "link": "https://www.wired.com/story/cuda-proves-nvidia-is-a-software-company/"
     },
     {
-      "title": "I Work in Hollywood. Everyone Who Used to Make TV Is Now Secretly Training AI",
-      "summary": "For screenwriters like me—and job seekers all over—AI gig work is the new waiting tables. In eight months, I’ve done 20 of these soul-crushing contracts for five different platforms.",
-      "source": "Wired",
-      "published": "2026-05-11T10:00:00+00:00",
-      "link": "https://www.wired.com/story/i-work-in-hollywood-everyone-who-used-to-make-tv-now-training-ai/"
-    },
-    {
       "title": "Bain sees US$100 billion SaaS market in agentic AI automation",
       "summary": "Bain & Company has estimated a US$100 billion market in the US for SaaS companies using agentic AI. The firm said the market is tied to automating coordination work in enterprise systems.",
       "source": "AI News",
@@ -653,8 +737,15 @@ const FEED_DATA = {
       "link": "https://www.artificialintelligence-news.com/news/bain-agentic-ai-saas-market/"
     },
     {
+      "title": "I Work in Hollywood. Everyone Who Used to Make TV Is Now Secretly Training AI",
+      "summary": "For screenwriters like me—and job seekers all over—AI gig work is the new waiting tables. In eight months, I’ve done 20 of these soul-crushing contracts for five different platforms.",
+      "source": "Wired",
+      "published": "2026-05-11T10:00:00+00:00",
+      "link": "https://www.wired.com/story/i-work-in-hollywood-everyone-who-used-to-make-tv-now-training-ai/"
+    },
+    {
       "title": "An AI coding agent, used to write code, needs to reduce your maintenance costs",
-      "summary": "Article URL: https://www.jamesshore.com/v2/blog/2026/you-need-ai-that-reduces-your-maintenance-costs Comments URL: https://news.ycombinator.com/item?id=48089289 Points: 370 # Comments: 109",
+      "summary": "Article URL: https://www.jamesshore.com/v2/blog/2026/you-need-ai-that-reduces-your-maintenance-costs Comments URL: https://news.ycombinator.com/item?id=48089289 Points: 371 # Comments: 109",
       "source": "Hacker News",
       "published": "2026-05-10T23:39:55+00:00",
       "link": "https://www.jamesshore.com/v2/blog/2026/you-need-ai-that-reduces-your-maintenance-costs"
@@ -682,14 +773,14 @@ const FEED_DATA = {
     },
     {
       "title": "Local AI needs to be the norm",
-      "summary": "Article URL: https://unix.foo/posts/local-ai-needs-to-be-norm/ Comments URL: https://news.ycombinator.com/item?id=48085821 Points: 1859 # Comments: 740",
+      "summary": "Article URL: https://unix.foo/posts/local-ai-needs-to-be-norm/ Comments URL: https://news.ycombinator.com/item?id=48085821 Points: 1860 # Comments: 740",
       "source": "Hacker News",
       "published": "2026-05-10T17:19:28+00:00",
       "link": "https://unix.foo/posts/local-ai-needs-to-be-norm/"
     },
     {
       "title": "Training an LLM in Swift, Part 1: Taking matrix mult from Gflop/s to Tflop/s",
-      "summary": "Article URL: https://www.cocoawithlove.com/blog/matrix-multiplications-swift.html Comments URL: https://news.ycombinator.com/item?id=48085685 Points: 257 # Comments: 12",
+      "summary": "Article URL: https://www.cocoawithlove.com/blog/matrix-multiplications-swift.html Comments URL: https://news.ycombinator.com/item?id=48085685 Points: 258 # Comments: 12",
       "source": "Hacker News",
       "published": "2026-05-10T17:05:05+00:00",
       "link": "https://www.cocoawithlove.com/blog/matrix-multiplications-swift.html"
@@ -1309,97 +1400,6 @@ const FEED_DATA = {
       "source": "The Verge",
       "published": "2026-05-06T23:37:02+00:00",
       "link": "https://www.theverge.com/ai-artificial-intelligence/925665/musk-altman-trial-shivon-zilis-testimony"
-    },
-    {
-      "title": "Elon Musk’s Last-Ditch Effort to Control OpenAI: Recruit Sam Altman to Tesla",
-      "summary": "Messages between Shivon Zilis and Tesla executives reveal plans in 2017 to start a rival AI lab, potentially led by Altman or Demis Hassabis.",
-      "source": "Wired",
-      "published": "2026-05-06T23:23:45+00:00",
-      "link": "https://www.wired.com/story/elon-musk-recruit-sam-altman-tesla-ai-lab-trial/"
-    },
-    {
-      "title": "Barry Diller trusts Sam Altman. But ‘trust is irrelevant’ as AGI nears, he says.",
-      "summary": "Barry Diller defended OpenAI CEO Sam Altman, while warning that AGI remains an unpredictable force needing guardrails.",
-      "source": "TechCrunch",
-      "published": "2026-05-06T21:57:56+00:00",
-      "link": "https://techcrunch.com/2026/05/06/barry-diller-trusts-sam-altman-but-trust-is-irrelevant-as-agi-nears-he-says/"
-    },
-    {
-      "title": "Snap says its $400M deal with Perplexity ‘amicably ended’",
-      "summary": "The deal, announced last November, would have seen Perplexity's AI search engine integrated directly into Snapchat.",
-      "source": "TechCrunch",
-      "published": "2026-05-06T21:43:24+00:00",
-      "link": "https://techcrunch.com/2026/05/06/snap-says-its-400m-deal-with-perplexity-amicably-ended/"
-    },
-    {
-      "title": "Is xAI a neocloud now?",
-      "summary": "xAI's real business may be more about building data centers than training AI models.",
-      "source": "TechCrunch",
-      "published": "2026-05-06T21:32:55+00:00",
-      "link": "https://techcrunch.com/2026/05/06/is-xai-a-neocloud-now/"
-    },
-    {
-      "title": "Google shuts down Project Mariner",
-      "summary": "Google has pulled the plug on Project Mariner, an experimental feature designed to perform tasks for you across the web, as reported earlier by Wired's Maxwell Zeff. The Project Mariner landing page now contains a message that says: \"Thank you for using Project Mariner.",
-      "source": "The Verge",
-      "published": "2026-05-06T21:21:45+00:00",
-      "link": "https://www.theverge.com/tech/925559/google-project-mariner-shut-down"
-    },
-    {
-      "title": "OpenAI built a networking protocol with AMD, Broadcom, Intel, Microsoft, and NVIDIA to fix AI supercomputer bottlenecks",
-      "summary": "OpenAI has teamed up with AMD, Broadcom, Intel, Microsoft, and NVIDIA to develop MRC, an open source network protocol that sends data across hundreds of paths simultaneously between GPUs.",
-      "source": "The Decoder",
-      "published": "2026-05-06T19:13:21+00:00",
-      "link": "https://the-decoder.com/openai-built-a-networking-protocol-with-amd-broadcom-intel-microsoft-and-nvidia-to-fix-ai-supercomputer-bottlenecks/"
-    },
-    {
-      "title": "Anthropic taps SpaceX's Colossus-1 data center for 220,000 GPUs to power Claude",
-      "summary": "Anthropic is taking over the full computing capacity of SpaceX's Colossus 1 data center, more than 300 megawatts and over 220,000 NVIDIA GPUs, expected to come online within a month.",
-      "source": "The Decoder",
-      "published": "2026-05-06T18:42:24+00:00",
-      "link": "https://the-decoder.com/anthropic-taps-spacexs-colossus-1-data-center-for-220000-gpus-to-power-claude/"
-    },
-    {
-      "title": "Anthropic Gets in Bed With SpaceX as the AI Race Turns Weird",
-      "summary": "In an unexpected turn, the two companies signed a deal for Anthropic to use computing resources from Elon Musk’s xAI.",
-      "source": "Wired",
-      "published": "2026-05-06T18:28:52+00:00",
-      "link": "https://www.wired.com/story/anthropic-spacex-compute-deal-colossus/"
-    },
-    {
-      "title": "How Elon Musk left OpenAI, according to Greg Brockman",
-      "summary": "Cutthroat negotiations between startup founders are rarely shared so publicly, especially when a company becomes as world-changing as OpenAI.",
-      "source": "TechCrunch",
-      "published": "2026-05-06T18:23:54+00:00",
-      "link": "https://techcrunch.com/2026/05/06/how-elon-musk-left-openai-according-to-greg-brockman/"
-    },
-    {
-      "title": "Using AI for Just 10 Minutes Might Make You Lazy and Dumb, Study Shows",
-      "summary": "New research suggests that reliance on AI assistants can have a negative impact on people’s ability to think and problem solve.",
-      "source": "Wired",
-      "published": "2026-05-06T18:00:00+00:00",
-      "link": "https://www.wired.com/story/using-ai-negative-impact-thinking-problem-solving-study/"
-    },
-    {
-      "title": "Mira Murati tells the court that she couldn’t trust Sam Altman’s words",
-      "summary": "Mira Murati, OpenAI's former CTO, has testified under oath that CEO Sam Altman lied to her about the safety standards for a new AI model. In a video deposition shown during the ongoing Musk v.",
-      "source": "The Verge",
-      "published": "2026-05-06T17:55:53+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/925338/openai-musk-v-altman-mira-murati"
-    },
-    {
-      "title": "SpaceX may spend up to $119B on ‘Terafab’ chip factory in Texas",
-      "summary": "SpaceX, Elon Musk's space company that also houses his AI company, xAI, is considering spending $55 billion, at least initially, to build a semiconductor factory in Texas, according to a filing with Grimes County.",
-      "source": "TechCrunch",
-      "published": "2026-05-06T17:23:08+00:00",
-      "link": "https://techcrunch.com/2026/05/06/spacex-may-spend-up-to-119-billion-on-terafab-chip-factory-in-texas/"
-    },
-    {
-      "title": "DeepSeek could hit $45B valuation from its first investment round",
-      "summary": "The Chinese AI lab came to prominence in early 2025 after launching a large language model that trained on a fraction of the compute power and at a fraction of the cost of the big U.S. models like those from OpenAI and Anthropic.",
-      "source": "TechCrunch",
-      "published": "2026-05-06T17:20:34+00:00",
-      "link": "https://techcrunch.com/2026/05/06/deepseek-could-hit-45b-valuation-from-its-first-investment-round/"
     }
   ]
 };
