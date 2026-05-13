@@ -1,6 +1,55 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-05-13T18:53:56.923709+00:00",
+  "lastUpdated": "2026-05-13T22:05:05.386052+00:00",
   "items": [
+    {
+      "title": "Microsoft’s Edge Copilot update uses AI to pull information from across your tabs",
+      "summary": "Microsoft Edge is adding a new feature that will allow its Copilot AI chatbot to gather information from all of your open tabs.",
+      "source": "The Verge",
+      "published": "2026-05-13T22:04:28+00:00",
+      "link": "https://www.theverge.com/tech/930188/microsoft-edge-copilot-ai-tabs"
+    },
+    {
+      "title": "Everyone at the Musk v. Altman Trial Is Using Fancy Butt Cushions",
+      "summary": "The plaintiffs and defense have rested their cases, as well as their rear ends.",
+      "source": "Wired",
+      "published": "2026-05-13T21:58:47+00:00",
+      "link": "https://www.wired.com/story/fancy-butt-pillows-musk-v-altman-trial/"
+    },
+    {
+      "title": "Notion just turned its workspace into a hub for AI agents",
+      "summary": "Notion’s new developer platform lets teams connect AI agents, external data sources, and custom code directly into their workspace as the company pushes deeper into agentic productivity software.",
+      "source": "TechCrunch",
+      "published": "2026-05-13T21:45:09+00:00",
+      "link": "https://techcrunch.com/2026/05/13/notion-just-turned-its-workspace-into-a-hub-for-ai-agents/"
+    },
+    {
+      "title": "Musk’s xAI is running nearly 50 gas turbines unchecked at its Mississippi data center",
+      "summary": "Gas turbines at xAI's Colossus 2 data center have drawn a lawsuit over the company's use of \"mobile\" gas turbines as power plants.",
+      "source": "TechCrunch",
+      "published": "2026-05-13T19:49:42+00:00",
+      "link": "https://techcrunch.com/2026/05/13/musks-xai-is-running-nearly-50-gas-turbines-unchecked-at-its-mississippi-data-center/"
+    },
+    {
+      "title": "Anthropic’s Cat Wu says that, in the future, AI will anticipate your needs before you know what they are",
+      "summary": "The head of product for Claude Code and Cowork says that the next big step for AI is proactivity.",
+      "source": "TechCrunch",
+      "published": "2026-05-13T19:28:06+00:00",
+      "link": "https://techcrunch.com/2026/05/13/anthropics-cat-wu-says-that-in-the-future-ai-will-anticipate-your-needs-before-you-know-what-they-are/"
+    },
+    {
+      "title": "What It Will Take to Make AI Sustainable",
+      "summary": "Researcher Sasha Luccioni argues we need better emissions data and a better sense of how people are using AI in the first place.",
+      "source": "Wired",
+      "published": "2026-05-13T19:15:59+00:00",
+      "link": "https://www.wired.com/story/what-it-will-take-to-make-ai-sustainable/"
+    },
+    {
+      "title": "DHS Plans Experiment Running ‘Reconnaissance’ Drones Along the US-Canada Border",
+      "summary": "Autonomous drones and ground vehicles will stream “battlefield intelligence” over 5G along the US-Canada border in a bilateral DHS experiment this fall.",
+      "source": "Wired",
+      "published": "2026-05-13T19:03:19+00:00",
+      "link": "https://www.wired.com/story/dhs-plans-experiment-running-reconnaissance-drones-along-the-us-canada-border/"
+    },
     {
       "title": "Tencent plans to ramp up AI spending as China's chip supply allegedly improves",
       "summary": "Tencent plans to significantly boost AI infrastructure spending in the second half of 2026, as Chinese chipmakers ramp up domestic AI chip production. The company also posted strong first-quarter results and is in talks for a stake in Deepseek.",
@@ -45,7 +94,7 @@ const FEED_DATA = {
     },
     {
       "title": "OpenAI Brings Its Ass to Court",
-      "summary": "In Musk v. Altman, the company sought to show the jury a remarkable trophy as physical proof of Elon Musk’s concerning behavior.",
+      "summary": "In Musk v. Altman, the company claimed a remarkable trophy was physical proof of Elon Musk’s concerning behavior.",
       "source": "Wired",
       "published": "2026-05-13T17:08:01+00:00",
       "link": "https://www.wired.com/story/musk-altman-trial-ass-statue-evidence/"
@@ -94,7 +143,7 @@ const FEED_DATA = {
     },
     {
       "title": "The AI Backlash Could Get Ugly",
-      "summary": "Article URL: https://www.theatlantic.com/technology/2026/05/ai-backlash-data-centers-political-violence/687151/ Comments URL: https://news.ycombinator.com/item?id=48122624 Points: 56 # Comments: 125",
+      "summary": "Article URL: https://www.theatlantic.com/technology/2026/05/ai-backlash-data-centers-political-violence/687151/ Comments URL: https://news.ycombinator.com/item?id=48122624 Points: 66 # Comments: 137",
       "source": "Hacker News",
       "published": "2026-05-13T14:44:41+00:00",
       "link": "https://www.theatlantic.com/technology/2026/05/ai-backlash-data-centers-political-violence/687151/"
@@ -122,7 +171,7 @@ const FEED_DATA = {
     },
     {
       "title": "The US is winning the AI race where it matters most: commercialization",
-      "summary": "Article URL: https://avkcode.github.io/blog/us-winning-ai-race.html Comments URL: https://news.ycombinator.com/item?id=48121929 Points: 77 # Comments: 211",
+      "summary": "Article URL: https://avkcode.github.io/blog/us-winning-ai-race.html Comments URL: https://news.ycombinator.com/item?id=48121929 Points: 132 # Comments: 361",
       "source": "Hacker News",
       "published": "2026-05-13T13:53:53+00:00",
       "link": "https://avkcode.github.io/blog/us-winning-ai-race.html"
@@ -143,7 +192,7 @@ const FEED_DATA = {
     },
     {
       "title": "Software Developers Say AI Is Rotting Their Brains",
-      "summary": "Article URL: https://www.404media.co/software-developers-say-ai-is-rotting-their-brains/ Comments URL: https://news.ycombinator.com/item?id=48121717 Points: 78 # Comments: 99",
+      "summary": "Article URL: https://www.404media.co/software-developers-say-ai-is-rotting-their-brains/ Comments URL: https://news.ycombinator.com/item?id=48121717 Points: 86 # Comments: 102",
       "source": "Hacker News",
       "published": "2026-05-13T13:34:51+00:00",
       "link": "https://www.404media.co/software-developers-say-ai-is-rotting-their-brains/"
@@ -283,7 +332,7 @@ const FEED_DATA = {
     },
     {
       "title": "Reimagining the mouse pointer for the AI era",
-      "summary": "Article URL: https://deepmind.google/blog/ai-pointer/ Comments URL: https://news.ycombinator.com/item?id=48111581 Points: 243 # Comments: 211",
+      "summary": "Article URL: https://deepmind.google/blog/ai-pointer/ Comments URL: https://news.ycombinator.com/item?id=48111581 Points: 245 # Comments: 212",
       "source": "Hacker News",
       "published": "2026-05-12T17:40:13+00:00",
       "link": "https://deepmind.google/blog/ai-pointer/"
@@ -338,18 +387,18 @@ const FEED_DATA = {
       "link": "https://techcrunch.com/2026/05/12/google-brings-agentic-ai-and-vibe-coded-widgets-to-android/"
     },
     {
-      "title": "Google’s ‘Create My Widget’ feature will let you vibe-code your own widgets",
-      "summary": "To create a widget, users will be able to describe what they want using natural language. For example, you could ask the feature to \"suggest three high-protein meal prep recipes every week\" in order to get a custom dashboard that you can add and resize on your home screen.",
-      "source": "TechCrunch",
-      "published": "2026-05-12T17:00:00+00:00",
-      "link": "https://techcrunch.com/2026/05/12/googles-create-my-widget-feature-will-let-you-vibe-code-your-own-widgets/"
-    },
-    {
       "title": "The 9 biggest new features in Android 17",
       "summary": "Would it shock you to hear that Android 17 is filled with new AI-enabled features, like improved dictation and vibe-coded widgets? Fortunately, that's not all.",
       "source": "The Verge",
       "published": "2026-05-12T17:00:00+00:00",
       "link": "https://www.theverge.com/tech/928653/google-android-17-9-biggest-new-features-android-show-io"
+    },
+    {
+      "title": "Google’s ‘Create My Widget’ feature will let you vibe-code your own widgets",
+      "summary": "To create a widget, users will be able to describe what they want using natural language. For example, you could ask the feature to \"suggest three high-protein meal prep recipes every week\" in order to get a custom dashboard that you can add and resize on your home screen.",
+      "source": "TechCrunch",
+      "published": "2026-05-12T17:00:00+00:00",
+      "link": "https://techcrunch.com/2026/05/12/googles-create-my-widget-feature-will-let-you-vibe-code-your-own-widgets/"
     },
     {
       "title": "Gemini’s latest updates are all about controlling your phone",
@@ -388,7 +437,7 @@ const FEED_DATA = {
     },
     {
       "title": "Amazon employees are \"tokenmaxxing\" due to pressure to use AI tools",
-      "summary": "Article URL: https://arstechnica.com/ai/2026/05/amazon-employees-are-tokenmaxxing-due-to-pressure-to-use-ai-tools/ Comments URL: https://news.ycombinator.com/item?id=48110529 Points: 241 # Comments: 243",
+      "summary": "Article URL: https://arstechnica.com/ai/2026/05/amazon-employees-are-tokenmaxxing-due-to-pressure-to-use-ai-tools/ Comments URL: https://news.ycombinator.com/item?id=48110529 Points: 242 # Comments: 245",
       "source": "Hacker News",
       "published": "2026-05-12T16:29:21+00:00",
       "link": "https://arstechnica.com/ai/2026/05/amazon-employees-are-tokenmaxxing-due-to-pressure-to-use-ai-tools/"
@@ -441,6 +490,13 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-05-12T15:27:29+00:00",
       "link": "https://the-decoder.com/microsoft-ousts-its-israel-chief-following-reports-that-azure-quietly-powered-military-ai-targeting-in-gaza/"
+    },
+    {
+      "title": "Show HN: Reducing LLM input tokens by 70%",
+      "summary": "Article URL: https://adola.app/ Comments URL: https://news.ycombinator.com/item?id=48109600 Points: 53 # Comments: 32",
+      "source": "Hacker News",
+      "published": "2026-05-12T15:18:33+00:00",
+      "link": "https://adola.app/"
     },
     {
       "title": "Show HN: Statewright – Visual state machines that make AI agents reliable",
@@ -563,14 +619,14 @@ const FEED_DATA = {
     },
     {
       "title": "I let AI build a tool to help me figure out what was waking me up at night",
-      "summary": "Article URL: https://martin.sh/i-let-ai-build-a-tool-to-help-me-figure-out-what-was-waking-me-up-at-night/ Comments URL: https://news.ycombinator.com/item?id=48100662 Points: 267 # Comments: 280",
+      "summary": "Article URL: https://martin.sh/i-let-ai-build-a-tool-to-help-me-figure-out-what-was-waking-me-up-at-night/ Comments URL: https://news.ycombinator.com/item?id=48100662 Points: 267 # Comments: 281",
       "source": "Hacker News",
       "published": "2026-05-11T21:04:10+00:00",
       "link": "https://martin.sh/i-let-ai-build-a-tool-to-help-me-figure-out-what-was-waking-me-up-at-night/"
     },
     {
       "title": "If AI writes your code, why use Python?",
-      "summary": "Article URL: https://medium.com/@NMitchem/if-ai-writes-your-code-why-use-python-bf8c4ba1a055 Comments URL: https://news.ycombinator.com/item?id=48100433 Points: 895 # Comments: 953",
+      "summary": "Article URL: https://medium.com/@NMitchem/if-ai-writes-your-code-why-use-python-bf8c4ba1a055 Comments URL: https://news.ycombinator.com/item?id=48100433 Points: 901 # Comments: 955",
       "source": "Hacker News",
       "published": "2026-05-11T20:45:55+00:00",
       "link": "https://medium.com/@NMitchem/if-ai-writes-your-code-why-use-python-bf8c4ba1a055"
@@ -612,7 +668,7 @@ const FEED_DATA = {
     },
     {
       "title": "Students boo commencement speaker after she calls AI next industrial revolution",
-      "summary": "Article URL: https://www.404media.co/ucf-ai-commencement-speaker-booed/ Comments URL: https://news.ycombinator.com/item?id=48096674 Points: 173 # Comments: 213",
+      "summary": "Article URL: https://www.404media.co/ucf-ai-commencement-speaker-booed/ Comments URL: https://news.ycombinator.com/item?id=48096674 Points: 173 # Comments: 214",
       "source": "Hacker News",
       "published": "2026-05-11T15:53:23+00:00",
       "link": "https://www.404media.co/ucf-ai-commencement-speaker-booed/"
@@ -723,18 +779,18 @@ const FEED_DATA = {
       "link": "https://the-decoder.com/openais-internal-share-sale-minted-roughly-75-multimillionaires-who-each-cashed-out-the-30-million-cap/"
     },
     {
-      "title": "CUDA Proves Nvidia Is a Software Company",
-      "summary": "There’s a deep, forbidding moat that surrounds Nvidia—and it has nothing to do with hardware.",
-      "source": "Wired",
-      "published": "2026-05-11T10:00:00+00:00",
-      "link": "https://www.wired.com/story/cuda-proves-nvidia-is-a-software-company/"
-    },
-    {
       "title": "Bain sees US$100 billion SaaS market in agentic AI automation",
       "summary": "Bain & Company has estimated a US$100 billion market in the US for SaaS companies using agentic AI. The firm said the market is tied to automating coordination work in enterprise systems.",
       "source": "AI News",
       "published": "2026-05-11T10:00:00+00:00",
       "link": "https://www.artificialintelligence-news.com/news/bain-agentic-ai-saas-market/"
+    },
+    {
+      "title": "CUDA Proves Nvidia Is a Software Company",
+      "summary": "There’s a deep, forbidding moat that surrounds Nvidia—and it has nothing to do with hardware.",
+      "source": "Wired",
+      "published": "2026-05-11T10:00:00+00:00",
+      "link": "https://www.wired.com/story/cuda-proves-nvidia-is-a-software-company/"
     },
     {
       "title": "I Work in Hollywood. Everyone Who Used to Make TV Is Now Secretly Training AI",
@@ -745,14 +801,14 @@ const FEED_DATA = {
     },
     {
       "title": "An AI coding agent, used to write code, needs to reduce your maintenance costs",
-      "summary": "Article URL: https://www.jamesshore.com/v2/blog/2026/you-need-ai-that-reduces-your-maintenance-costs Comments URL: https://news.ycombinator.com/item?id=48089289 Points: 371 # Comments: 109",
+      "summary": "Article URL: https://www.jamesshore.com/v2/blog/2026/you-need-ai-that-reduces-your-maintenance-costs Comments URL: https://news.ycombinator.com/item?id=48089289 Points: 372 # Comments: 109",
       "source": "Hacker News",
       "published": "2026-05-10T23:39:55+00:00",
       "link": "https://www.jamesshore.com/v2/blog/2026/you-need-ai-that-reduces-your-maintenance-costs"
     },
     {
       "title": "PS3 Emulator Devs Politely Ask That People Stop Flooding It with AI PRs",
-      "summary": "Article URL: https://kotaku.com/playstation-3-emulator-devs-politely-ask-that-people-stop-flooding-it-with-ai-code-pull-requests-2000694656 Comments URL: https://news.ycombinator.com/item?id=48089263 Points: 185 # Comments: 145",
+      "summary": "Article URL: https://kotaku.com/playstation-3-emulator-devs-politely-ask-that-people-stop-flooding-it-with-ai-code-pull-requests-2000694656 Comments URL: https://news.ycombinator.com/item?id=48089263 Points: 185 # Comments: 146",
       "source": "Hacker News",
       "published": "2026-05-10T23:36:48+00:00",
       "link": "https://kotaku.com/playstation-3-emulator-devs-politely-ask-that-people-stop-flooding-it-with-ai-code-pull-requests-2000694656"
@@ -773,7 +829,7 @@ const FEED_DATA = {
     },
     {
       "title": "Local AI needs to be the norm",
-      "summary": "Article URL: https://unix.foo/posts/local-ai-needs-to-be-norm/ Comments URL: https://news.ycombinator.com/item?id=48085821 Points: 1860 # Comments: 740",
+      "summary": "Article URL: https://unix.foo/posts/local-ai-needs-to-be-norm/ Comments URL: https://news.ycombinator.com/item?id=48085821 Points: 1864 # Comments: 740",
       "source": "Hacker News",
       "published": "2026-05-10T17:19:28+00:00",
       "link": "https://unix.foo/posts/local-ai-needs-to-be-norm/"
@@ -1344,62 +1400,6 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-05-07T11:15:37+00:00",
       "link": "https://the-decoder.com/google-deepmind-takes-a-stake-in-eve-online-studio-to-test-ai-models/"
-    },
-    {
-      "title": "The US and China are considering formal talks on AI",
-      "summary": "The US and China are exploring official talks on artificial intelligence, the Wall Street Journal reports. The article The US and China are considering formal talks on AI appeared first on The Decoder.",
-      "source": "The Decoder",
-      "published": "2026-05-07T11:13:12+00:00",
-      "link": "https://the-decoder.com/the-us-and-china-are-considering-formal-talks-on-ai/"
-    },
-    {
-      "title": "Thousands of Vibe-Coded Apps Expose Corporate and Personal Data on the Open Web",
-      "summary": "Companies like Lovable, Base44, Replit, and Netlify use AI to let anyone build a web app in seconds—and in thousands of cases, spill highly sensitive data onto the public internet.",
-      "source": "Wired",
-      "published": "2026-05-07T11:00:00+00:00",
-      "link": "https://www.wired.com/story/thousands-of-vibe-coded-apps-expose-corporate-and-personal-data-on-the-open-web/"
-    },
-    {
-      "title": "This Reggae Band Is in a Nightmare Battle Against AI Slop Remixes",
-      "summary": "When Stick Figure’s seven-year-old song shot up the charts, the band was thrilled. But its viral moment was spurred by unauthorized AI remixes.",
-      "source": "Wired",
-      "published": "2026-05-07T11:00:00+00:00",
-      "link": "https://www.wired.com/story/this-reggae-band-is-in-a-nightmare-battle-against-ai-slop-remixes/"
-    },
-    {
-      "title": "Claude's new \"Dreaming\" feature is designed to let AI agents learn from their mistakes",
-      "summary": "Anthropic is adding \"Dreaming\" to Claude Managed Agents, an asynchronous process that reviews past agent sessions, cleans up duplicate or outdated memory entries, and distills new insights.",
-      "source": "The Decoder",
-      "published": "2026-05-07T10:59:37+00:00",
-      "link": "https://the-decoder.com/claudes-new-dreaming-feature-is-designed-to-let-ai-agents-learn-from-their-mistakes/"
-    },
-    {
-      "title": "AI helping ease the UK’s NHS burden",
-      "summary": "The words “pressure” and “NHS” go hand in hand in the UK and unfortunately there is no sign of a reduction in the strain the institution suffers any time soon.",
-      "source": "AI News",
-      "published": "2026-05-07T09:35:00+00:00",
-      "link": "https://www.artificialintelligence-news.com/news/ai-in-the-nhs-helping-ease-doctors-burdens/"
-    },
-    {
-      "title": "Making LLM Training Faster with Unsloth and NVIDIA",
-      "summary": "Article URL: https://unsloth.ai/blog/nvidia-collab Comments URL: https://news.ycombinator.com/item?id=48046397 Points: 127 # Comments: 25",
-      "source": "Hacker News",
-      "published": "2026-05-07T07:15:11+00:00",
-      "link": "https://unsloth.ai/blog/nvidia-collab"
-    },
-    {
-      "title": "Five architects of the AI economy explain where the wheels are coming off",
-      "summary": "Earlier this week, five people who touch every layer of the AI supply chain sat down at the Milken Institute Global Conference in Beverly Hills, where they talked with TechCrunch about everything from chip shortages to orbital data centers to the possibility that the whole...",
-      "source": "TechCrunch",
-      "published": "2026-05-07T05:25:10+00:00",
-      "link": "https://techcrunch.com/2026/05/06/five-architects-of-the-ai-economy-explain-where-the-wheels-are-coming-off/"
-    },
-    {
-      "title": "Musk’s biggest loyalist became his biggest liability",
-      "summary": "I sat down in the Musk v. Altman trial courtroom today, painfully aware that no one was going to ask Shivon Zilis the question on everyone's minds: Girl, what the fuck are you doing?",
-      "source": "The Verge",
-      "published": "2026-05-06T23:37:02+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/925665/musk-altman-trial-shivon-zilis-testimony"
     }
   ]
 };
