@@ -1,6 +1,27 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-05-12T22:06:03.038126+00:00",
+  "lastUpdated": "2026-05-13T04:42:20.323890+00:00",
   "items": [
+    {
+      "title": "Medicare’s new payment model is built for AI, and most of the tech world has no idea",
+      "summary": "There is no governmental mechanism to pay for an AI agent that monitors a patient between visits, calls to check in, coordinates a housing referral, or makes sure someone picks up their medication. ACCESS creates that mechanism for the first time.",
+      "source": "TechCrunch",
+      "published": "2026-05-13T00:26:48+00:00",
+      "link": "https://techcrunch.com/2026/05/12/medicares-new-payment-model-is-built-for-ai-and-most-of-the-tech-world-has-no-idea/"
+    },
+    {
+      "title": "Elon Musk Had ‘Hair-Raising’ Idea of Passing OpenAI On to His Kids, Sam Altman Says",
+      "summary": "Musk’s lawyers questioned Altman over allegations of deception and his network of financial investments, but the OpenAI CEO painted a picture of Musk as obsessed with controlling the company.",
+      "source": "Wired",
+      "published": "2026-05-13T00:10:05+00:00",
+      "link": "https://www.wired.com/story/sam-altman-testifies-musk-v-altman-trial/"
+    },
+    {
+      "title": "xAI Adds 19 New Gas Turbines Despite Ongoing Lawsuit",
+      "summary": "Emails show that Elon Musk’s company is expanding its use of portable gas-fired power at its Colossus 2 site as a fight over air quality continues.",
+      "source": "Wired",
+      "published": "2026-05-13T00:00:00+00:00",
+      "link": "https://www.wired.com/story/xai-adds-19-new-gas-turbines-despite-ongoing-lawsuit/"
+    },
     {
       "title": "Meta won’t let you block its AI account on Threads",
       "summary": "Meta announced on Tuesday that it's testing a Threads feature that lets users tag a Meta AI account to get answers to questions or context about a conversation on the platform.",
@@ -45,7 +66,7 @@ const FEED_DATA = {
     },
     {
       "title": "Reimagining the mouse pointer for the AI era",
-      "summary": "Article URL: https://deepmind.google/blog/ai-pointer/ Comments URL: https://news.ycombinator.com/item?id=48111581 Points: 85 # Comments: 71",
+      "summary": "Article URL: https://deepmind.google/blog/ai-pointer/ Comments URL: https://news.ycombinator.com/item?id=48111581 Points: 170 # Comments: 140",
       "source": "Hacker News",
       "published": "2026-05-12T17:40:13+00:00",
       "link": "https://deepmind.google/blog/ai-pointer/"
@@ -143,7 +164,7 @@ const FEED_DATA = {
     },
     {
       "title": "Amazon employees are \"tokenmaxxing\" due to pressure to use AI tools",
-      "summary": "Article URL: https://arstechnica.com/ai/2026/05/amazon-employees-are-tokenmaxxing-due-to-pressure-to-use-ai-tools/ Comments URL: https://news.ycombinator.com/item?id=48110529 Points: 198 # Comments: 210",
+      "summary": "Article URL: https://arstechnica.com/ai/2026/05/amazon-employees-are-tokenmaxxing-due-to-pressure-to-use-ai-tools/ Comments URL: https://news.ycombinator.com/item?id=48110529 Points: 212 # Comments: 220",
       "source": "Hacker News",
       "published": "2026-05-12T16:29:21+00:00",
       "link": "https://arstechnica.com/ai/2026/05/amazon-employees-are-tokenmaxxing-due-to-pressure-to-use-ai-tools/"
@@ -189,6 +210,13 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-05-12T15:27:29+00:00",
       "link": "https://the-decoder.com/microsoft-ousts-its-israel-chief-following-reports-that-azure-quietly-powered-military-ai-targeting-in-gaza/"
+    },
+    {
+      "title": "Show HN: Statewright – Visual state machines that make AI agents reliable",
+      "summary": "Agentic problem solving in its current state is very brittle.",
+      "source": "Hacker News",
+      "published": "2026-05-12T14:24:55+00:00",
+      "link": "https://github.com/statewright/statewright"
     },
     {
       "title": "\"Tokenmaxxing\" spreads at Amazon as employees game internal AI leaderboards",
@@ -304,14 +332,14 @@ const FEED_DATA = {
     },
     {
       "title": "I let AI build a tool to help me figure out what was waking me up at night",
-      "summary": "Article URL: https://martin.sh/i-let-ai-build-a-tool-to-help-me-figure-out-what-was-waking-me-up-at-night/ Comments URL: https://news.ycombinator.com/item?id=48100662 Points: 262 # Comments: 274",
+      "summary": "Article URL: https://martin.sh/i-let-ai-build-a-tool-to-help-me-figure-out-what-was-waking-me-up-at-night/ Comments URL: https://news.ycombinator.com/item?id=48100662 Points: 262 # Comments: 276",
       "source": "Hacker News",
       "published": "2026-05-11T21:04:10+00:00",
       "link": "https://martin.sh/i-let-ai-build-a-tool-to-help-me-figure-out-what-was-waking-me-up-at-night/"
     },
     {
       "title": "If AI writes your code, why use Python?",
-      "summary": "Article URL: https://medium.com/@NMitchem/if-ai-writes-your-code-why-use-python-bf8c4ba1a055 Comments URL: https://news.ycombinator.com/item?id=48100433 Points: 840 # Comments: 892",
+      "summary": "Article URL: https://medium.com/@NMitchem/if-ai-writes-your-code-why-use-python-bf8c4ba1a055 Comments URL: https://news.ycombinator.com/item?id=48100433 Points: 859 # Comments: 919",
       "source": "Hacker News",
       "published": "2026-05-11T20:45:55+00:00",
       "link": "https://medium.com/@NMitchem/if-ai-writes-your-code-why-use-python-bf8c4ba1a055"
@@ -451,7 +479,7 @@ const FEED_DATA = {
     },
     {
       "title": "What a Japanese cooking principle taught me about overcoming AI fatigue",
-      "summary": "Article URL: https://www.devas.life/what-a-japanese-cooking-principle-taught-me-about-overcoming-ai-fatigue/ Comments URL: https://news.ycombinator.com/item?id=48093466 Points: 81 # Comments: 4",
+      "summary": "Article URL: https://www.devas.life/what-a-japanese-cooking-principle-taught-me-about-overcoming-ai-fatigue/ Comments URL: https://news.ycombinator.com/item?id=48093466 Points: 83 # Comments: 4",
       "source": "Hacker News",
       "published": "2026-05-11T11:07:10+00:00",
       "link": "https://www.devas.life/what-a-japanese-cooking-principle-taught-me-about-overcoming-ai-fatigue/"
@@ -493,14 +521,14 @@ const FEED_DATA = {
     },
     {
       "title": "An AI coding agent, used to write code, needs to reduce your maintenance costs",
-      "summary": "Article URL: https://www.jamesshore.com/v2/blog/2026/you-need-ai-that-reduces-your-maintenance-costs Comments URL: https://news.ycombinator.com/item?id=48089289 Points: 365 # Comments: 107",
+      "summary": "Article URL: https://www.jamesshore.com/v2/blog/2026/you-need-ai-that-reduces-your-maintenance-costs Comments URL: https://news.ycombinator.com/item?id=48089289 Points: 366 # Comments: 109",
       "source": "Hacker News",
       "published": "2026-05-10T23:39:55+00:00",
       "link": "https://www.jamesshore.com/v2/blog/2026/you-need-ai-that-reduces-your-maintenance-costs"
     },
     {
       "title": "PS3 Emulator Devs Politely Ask That People Stop Flooding It with AI PRs",
-      "summary": "Article URL: https://kotaku.com/playstation-3-emulator-devs-politely-ask-that-people-stop-flooding-it-with-ai-code-pull-requests-2000694656 Comments URL: https://news.ycombinator.com/item?id=48089263 Points: 184 # Comments: 142",
+      "summary": "Article URL: https://kotaku.com/playstation-3-emulator-devs-politely-ask-that-people-stop-flooding-it-with-ai-code-pull-requests-2000694656 Comments URL: https://news.ycombinator.com/item?id=48089263 Points: 185 # Comments: 144",
       "source": "Hacker News",
       "published": "2026-05-10T23:36:48+00:00",
       "link": "https://kotaku.com/playstation-3-emulator-devs-politely-ask-that-people-stop-flooding-it-with-ai-code-pull-requests-2000694656"
@@ -521,14 +549,14 @@ const FEED_DATA = {
     },
     {
       "title": "Local AI needs to be the norm",
-      "summary": "Article URL: https://unix.foo/posts/local-ai-needs-to-be-norm/ Comments URL: https://news.ycombinator.com/item?id=48085821 Points: 1838 # Comments: 733",
+      "summary": "Article URL: https://unix.foo/posts/local-ai-needs-to-be-norm/ Comments URL: https://news.ycombinator.com/item?id=48085821 Points: 1844 # Comments: 735",
       "source": "Hacker News",
       "published": "2026-05-10T17:19:28+00:00",
       "link": "https://unix.foo/posts/local-ai-needs-to-be-norm/"
     },
     {
       "title": "Training an LLM in Swift, Part 1: Taking matrix mult from Gflop/s to Tflop/s",
-      "summary": "Article URL: https://www.cocoawithlove.com/blog/matrix-multiplications-swift.html Comments URL: https://news.ycombinator.com/item?id=48085685 Points: 252 # Comments: 12",
+      "summary": "Article URL: https://www.cocoawithlove.com/blog/matrix-multiplications-swift.html Comments URL: https://news.ycombinator.com/item?id=48085685 Points: 254 # Comments: 12",
       "source": "Hacker News",
       "published": "2026-05-10T17:05:05+00:00",
       "link": "https://www.cocoawithlove.com/blog/matrix-multiplications-swift.html"
@@ -542,7 +570,7 @@ const FEED_DATA = {
     },
     {
       "title": "Chrome's AI features may be hogging 4GB of your computer storage",
-      "summary": "Article URL: https://www.theverge.com/tech/924933/google-chrome-4gb-gemini-nano-ai-features Comments URL: https://news.ycombinator.com/item?id=48084710 Points: 115 # Comments: 59",
+      "summary": "Article URL: https://www.theverge.com/tech/924933/google-chrome-4gb-gemini-nano-ai-features Comments URL: https://news.ycombinator.com/item?id=48084710 Points: 116 # Comments: 59",
       "source": "Hacker News",
       "published": "2026-05-10T15:22:46+00:00",
       "link": "https://www.theverge.com/tech/924933/google-chrome-4gb-gemini-nano-ai-features"
@@ -553,6 +581,13 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-05-10T11:45:41+00:00",
       "link": "https://the-decoder.com/ai-agents-can-now-hack-computers-and-copy-themselves-and-theyre-getting-better-fast/"
+    },
+    {
+      "title": "Israel's AI targeting system: how data from a phone become a death sentence",
+      "summary": "Article URL: https://www.latimes.com/world-nation/story/2026-05-04/inside-israels-ai-targeting-system-how-data-from-phone-become-death-sentence Comments URL: https://news.ycombinator.com/item?id=48082763 Points: 110 # Comments: 35",
+      "source": "Hacker News",
+      "published": "2026-05-10T10:51:47+00:00",
+      "link": "https://www.latimes.com/world-nation/story/2026-05-04/inside-israels-ai-targeting-system-how-data-from-phone-become-death-sentence"
     },
     {
       "title": "Anthropic and OpenAI sit down with religious leaders to seek ethical advice",
@@ -584,7 +619,7 @@ const FEED_DATA = {
     },
     {
       "title": "Gen Z Resentment Toward AI Grows as Adoption Stagnates and Workplace Fears Mount",
-      "summary": "Article URL: https://www.waltonfamilyfoundation.org/about-us/newsroom/gen-z-resentment-toward-ai-grows-as-adoption-stagnates-and-workplace-fears-mount Comments URL: https://news.ycombinator.com/item?id=48081942 Points: 97 # Comments: 161",
+      "summary": "Article URL: https://www.waltonfamilyfoundation.org/about-us/newsroom/gen-z-resentment-toward-ai-grows-as-adoption-stagnates-and-workplace-fears-mount Comments URL: https://news.ycombinator.com/item?id=48081942 Points: 97 # Comments: 160",
       "source": "Hacker News",
       "published": "2026-05-10T08:03:15+00:00",
       "link": "https://www.waltonfamilyfoundation.org/about-us/newsroom/gen-z-resentment-toward-ai-grows-as-adoption-stagnates-and-workplace-fears-mount"
@@ -626,7 +661,7 @@ const FEED_DATA = {
     },
     {
       "title": "Meta's embrace of AI is making its employees miserable",
-      "summary": "Article URL: https://www.nytimes.com/2026/05/08/technology/meta-ai-employees-miserable.html Comments URL: https://news.ycombinator.com/item?id=48077126 Points: 456 # Comments: 524",
+      "summary": "Article URL: https://www.nytimes.com/2026/05/08/technology/meta-ai-employees-miserable.html Comments URL: https://news.ycombinator.com/item?id=48077126 Points: 457 # Comments: 525",
       "source": "Hacker News",
       "published": "2026-05-09T18:33:36+00:00",
       "link": "https://www.nytimes.com/2026/05/08/technology/meta-ai-employees-miserable.html"
@@ -1365,41 +1400,6 @@ const FEED_DATA = {
       "source": "Wired",
       "published": "2026-05-06T10:41:37+00:00",
       "link": "https://www.wired.com/story/apple-will-pay-dollar250-million-to-settle-lawsuit-over-siris-ai-features/"
-    },
-    {
-      "title": "Google tests Remy AI agent for Gemini as focus turns to user control",
-      "summary": "Google is testing Remy, a new AI personal agent for Gemini, according to Business Insider. The tool is designed to take actions for users in work and daily tasks.",
-      "source": "AI News",
-      "published": "2026-05-06T10:00:00+00:00",
-      "link": "https://www.artificialintelligence-news.com/news/google-remy-ai-agent-gemini-user-control/"
-    },
-    {
-      "title": "Hasan Piker, Self-Described ‘Ayatollah of Woke,’ Wants AI to Die",
-      "summary": "The far-left Twitch streamer says AI is rotting our brains. He’s also addicted to Twitter and listens to at least eight podcasts.",
-      "source": "Wired",
-      "published": "2026-05-06T10:00:00+00:00",
-      "link": "https://www.wired.com/story/hasan-piker-user-behavior/"
-    },
-    {
-      "title": "Peter Sarlin’s QuTwo reaches $380M valuation in angel round",
-      "summary": "Enterprise AI will be QuTwo’s bread and butter. “AI is the north star that we will continue to aim for.",
-      "source": "TechCrunch",
-      "published": "2026-05-06T06:47:12+00:00",
-      "link": "https://techcrunch.com/2026/05/05/peter-sarlins-qutwo-reaches-380m-valuation-in-angel-round/"
-    },
-    {
-      "title": "Marc Lore says that AI will soon enable anyone to open a restaurant",
-      "summary": "Wonder wants to turn its robotic kitchens into AI-powered “restaurant factories,” letting anyone spin up a virtual food brand with a prompt.",
-      "source": "TechCrunch",
-      "published": "2026-05-06T06:34:32+00:00",
-      "link": "https://techcrunch.com/2026/05/05/marc-lore-says-that-ai-will-soon-enable-anyone-open-a-restaurant/"
-    },
-    {
-      "title": "Marc Lore says that AI will soon enable anyone open a restaurant",
-      "summary": "Wonder wants to turn its robotic kitchens into AI-powered “restaurant factories,” letting anyone spin up a virtual food brand with a prompt.",
-      "source": "TechCrunch",
-      "published": "2026-05-06T06:34:32+00:00",
-      "link": "https://techcrunch.com/2026/05/05/marc-lore-says-that-ai-will-soon-enable-anyone-open-a-restaurant/"
     }
   ]
 };
