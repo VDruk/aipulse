@@ -1,6 +1,90 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-05-14T11:06:24.382748+00:00",
+  "lastUpdated": "2026-05-14T15:21:38.216223+00:00",
   "items": [
+    {
+      "title": "Khosla Ventures is betting $10M on Ian Crosby, whose last startup, Bench, imploded",
+      "summary": "Crosby is building Synthetic, a fully autonomous AI bookkeeping service for other startups.",
+      "source": "TechCrunch",
+      "published": "2026-05-14T15:20:18+00:00",
+      "link": "https://techcrunch.com/2026/05/14/khosla-ventures-is-betting-10m-on-ian-crosby-whose-last-startup-bench-imploded/"
+    },
+    {
+      "title": "Ten Chinese firms including ByteDance reportedly get US clearance for AI chips they're not allowed to accept",
+      "summary": "The US has cleared roughly ten Chinese companies—including Alibaba, Tencent, and ByteDance—to buy up to 75,000 Nvidia H200 chips each. But not a single chip has shipped.",
+      "source": "The Decoder",
+      "published": "2026-05-14T14:55:18+00:00",
+      "link": "https://the-decoder.com/ten-chinese-firms-including-bytedance-reportedly-get-us-clearance-for-ai-chips-theyre-not-allowed-to-accept/"
+    },
+    {
+      "title": "Cisco cuts nearly 4,000 jobs to spend more on AI, reports ‘record quarterly revenue’",
+      "summary": "This is Cisco's latest layoff in recent years, while the company's chief executive touts record revenue and growth.",
+      "source": "TechCrunch",
+      "published": "2026-05-14T14:01:14+00:00",
+      "link": "https://techcrunch.com/2026/05/14/cisco-cuts-nearly-4000-jobs-to-spend-more-on-ai-reports-record-quarterly-revenue/"
+    },
+    {
+      "title": "Wirestock raises $23M to supply creative multi-modal data to AI labs",
+      "summary": "Wirestock has over 700,000 creators on its platform, which supplies photos, videos and 3D content to AI labs.",
+      "source": "TechCrunch",
+      "published": "2026-05-14T14:00:00+00:00",
+      "link": "https://techcrunch.com/2026/05/14/wirestock-raises-23m-to-supply-multi-modal-data-to-ai-labs/"
+    },
+    {
+      "title": "Alibaba's Qwen-Image-2.0 doubles compression and cuts generation steps from 40 to 4",
+      "summary": "Alibaba's technical report on Qwen-Image-2.0 breaks down how the image model compresses images twice as aggressively as most competitors, stabilizes training with a reworked transformer, and uses a dedicated module that automatically expands short user input into detailed...",
+      "source": "The Decoder",
+      "published": "2026-05-14T13:17:44+00:00",
+      "link": "https://the-decoder.com/alibabas-qwen-image-2-0-doubles-compression-and-cuts-generation-steps-from-40-to-4/"
+    },
+    {
+      "title": "Data readiness for agentic AI in financial services",
+      "summary": "Financial services companies have unique needs when it comes to business AI. They operate in one of the most highly regulated sectors while responding to external events that are updated by the second.",
+      "source": "MIT Tech Review",
+      "published": "2026-05-14T13:00:00+00:00",
+      "link": "https://www.technologyreview.com/2026/05/14/1137034/data-readiness-for-agentic-ai-in-financial-services/"
+    },
+    {
+      "title": "Establishing AI and data sovereignty in the age of autonomous systems",
+      "summary": "When generative AI first moved from research labs into real-world business applications, enterprises made a tacit bargain: “Capability now, control later.” Feed your proprietary data into third-party AI models, and you will get powerful results.",
+      "source": "MIT Tech Review",
+      "published": "2026-05-14T13:00:00+00:00",
+      "link": "https://www.technologyreview.com/2026/05/14/1137168/establishing-ai-and-data-sovereignty-in-the-age-of-autonomous-systems/"
+    },
+    {
+      "title": "AI Promised the Audemars Piguet x Swatch Wristwatch. China Will Deliver It",
+      "summary": "Watch fans spent a week falling in love with colorful Royal Oak wristwatches that didn’t exist—then the real thing arrived. Now, fantasy is becoming a manufacturing opportunity.",
+      "source": "Wired",
+      "published": "2026-05-14T12:52:28+00:00",
+      "link": "https://www.wired.com/story/ai-ruined-the-audemars-piguet-x-swatch-collaboration-china-could-save-it/"
+    },
+    {
+      "title": "The Download: deepfake porn’s stolen bodies and AI sharing private numbers",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.",
+      "source": "MIT Tech Review",
+      "published": "2026-05-14T12:10:00+00:00",
+      "link": "https://www.technologyreview.com/2026/05/14/1137257/the-download-deepfake-porn-bodies-ai-exposing-phone-numbers/"
+    },
+    {
+      "title": "ChatGPT's web traffic share dropped from 78% to 54% in one year as Gemini quietly tripled its reach",
+      "summary": "ChatGPT's website traffic share dropped from 77.6% to 53.7% in just twelve months, according to Similarweb. Google Gemini is the biggest winner, jumping from 7.3% to 26.7%.",
+      "source": "The Decoder",
+      "published": "2026-05-14T12:07:25+00:00",
+      "link": "https://the-decoder.com/chatgpts-web-traffic-share-dropped-from-78-to-54-in-one-year-as-gemini-quietly-tripled-its-reach/"
+    },
+    {
+      "title": "New Claude Mythos becomes the first AI model to clear all cyberattack simulations from Britain's AI safety agency",
+      "summary": "The UK's AI Security Institute has revised its estimate of how fast AI cyber capabilities are doubling—twice. First from eight months down to 4.7, and now Anthropic's Claude Mythos Preview and OpenAI's GPT-5.5 have blown past even that accelerated timeline.",
+      "source": "The Decoder",
+      "published": "2026-05-14T11:28:35+00:00",
+      "link": "https://the-decoder.com/new-claude-mythos-becomes-the-first-ai-model-to-clear-all-cyberattack-simulations-from-britains-ai-safety-agency/"
+    },
+    {
+      "title": "Physical AI moves closer to factory floors as companies test humanoid robots",
+      "summary": "British technology company Humanoid will deploy humanoid robots at factories operated by German industrial supplier Schaeffler, Reuters reported.",
+      "source": "AI News",
+      "published": "2026-05-14T10:00:00+00:00",
+      "link": "https://www.artificialintelligence-news.com/news/physical-ai-humanoid-robots-factories/"
+    },
     {
       "title": "Microsoft's Edge Copilot can now read all your open tabs at once and write for you on LinkedIn",
       "summary": "Microsoft is upgrading Edge's Copilot AI chatbot so it can read all open tabs at once, compare products, and summarize articles. New additions include long-term memory, a tool that turns tabs into AI podcasts, and a quiz mode.",
@@ -14,6 +98,13 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-05-14T07:54:03+00:00",
       "link": "https://the-decoder.com/claude-subscriptions-get-separate-budgets-for-programmatic-use-billed-at-full-api-prices/"
+    },
+    {
+      "title": "Top real estate app development companies in the US: Abilities and costs",
+      "summary": "Real estate products depend on integrations, data flows, and compliance layers that rarely appear in marketing pages. A vendor may look strong on reviews about general software development and struggle once MLS feeds, payment systems, and document workflows enter the build.",
+      "source": "AI News",
+      "published": "2026-05-14T07:51:58+00:00",
+      "link": "https://www.artificialintelligence-news.com/news/top-real-estate-app-development-companies-in-the-us-abilities-and-costs/"
     },
     {
       "title": "Who decides what AI tells you? Campbell Brown, once Meta’s news chief, has thoughts",
@@ -115,7 +206,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI chatbots are giving out people’s real phone numbers",
-      "summary": "People report that their personal contact info was surfaced by Google AI—and there’s apparently no easy way to prevent it.",
+      "summary": "A Redditor recently wrote that he was “desperate for help”: for about a month, he said, his phone had been inundated by calls from “strangers” who were “looking for a lawyer, a product designer, a locksmith.” Callers were apparently misdirected by Google’s generative AI.",
       "source": "MIT Tech Review",
       "published": "2026-05-13T18:09:03+00:00",
       "link": "https://www.technologyreview.com/2026/05/13/1137203/ai-chatbots-are-giving-out-peoples-real-phone-numbers/"
@@ -133,6 +224,13 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-05-13T17:47:02+00:00",
       "link": "https://the-decoder.com/meta-ai-gets-a-private-mode-where-no-conversation-data-is-stored-on-servers/"
+    },
+    {
+      "title": "Claude for Small Business ships 15 agent workflows that handle payroll, invoices, and tax prep",
+      "summary": "Anthropic is launching \"Claude for Small Business,\" a package of 15 agent-based workflows and integrations for tools like QuickBooks, PayPal, and HubSpot.",
+      "source": "The Decoder",
+      "published": "2026-05-13T17:28:42+00:00",
+      "link": "https://the-decoder.com/anthropic-launches-claude-for-small-business-to-embed-ai-into-the-tools-you-forgot-you-pay-for/"
     },
     {
       "title": "Anthropic launches Claude for Small Business to embed AI into the tools you forgot you pay for",
@@ -1302,104 +1400,6 @@ const FEED_DATA = {
       "source": "The Verge",
       "published": "2026-05-07T19:39:22+00:00",
       "link": "https://www.theverge.com/tech/926376/apple-airpods-cameras-ai-production"
-    },
-    {
-      "title": "Two Home Affairs officials suspended after AI 'hallucinations' found",
-      "summary": "Article URL: https://www.citizen.co.za/news/home-affairs-officials-suspended-ai-hallucinations/ Comments URL: https://news.ycombinator.com/item?id=48053842 Points: 141 # Comments: 38",
-      "source": "Hacker News",
-      "published": "2026-05-07T19:38:36+00:00",
-      "link": "https://www.citizen.co.za/news/home-affairs-officials-suspended-ai-hallucinations/"
-    },
-    {
-      "title": "SpaceX has a $55 billion plan to build AI chips in Texas",
-      "summary": "Elon Musk's plans to get into the AI chip manufacturing business are going to be costly. As the The New York Times and CNBC report, SpaceX is planning to invest at least $55 billion into its \"Terafab\" chip plant in Austin, Texas.",
-      "source": "The Verge",
-      "published": "2026-05-07T19:26:16+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/926356/spacex-terafab-plant-cost-ai-chips"
-    },
-    {
-      "title": "Elon Musk’s lawsuit is putting OpenAI’s safety record under the microscope",
-      "summary": "Elon Musk's legal effort to dismantle OpenAI may hinge on how its for-profit subsidiary enhances or detracts from the frontier lab's founding mission of ensuring that humanity benefits from artificial general intelligence.",
-      "source": "TechCrunch",
-      "published": "2026-05-07T19:21:21+00:00",
-      "link": "https://techcrunch.com/2026/05/07/elon-musks-lawsuit-is-putting-openais-safety-record-under-the-microscope/"
-    },
-    {
-      "title": "Mozilla says 271 vulnerabilities found by Mythos have \"almost no false positives\"",
-      "summary": "The developer of Firefox says it has \"completely bought in\" on AI-assisted bug discovery.",
-      "source": "Ars Technica",
-      "published": "2026-05-07T19:18:16+00:00",
-      "link": "https://arstechnica.com/information-technology/2026/05/mozilla-says-271-vulnerabilities-found-by-mythos-have-almost-no-false-positives/"
-    },
-    {
-      "title": "Bumble is getting rid of the swipe, CEO says",
-      "summary": "Based on Whitney Wolfe Herd's past comments about Bumble's new direction, the company is expected to lean into AI -- Bumble is even working on an AI dating assistant called Bee, and the CEO has made many comments over the years about how AI will be \"a supercharger to love and...",
-      "source": "TechCrunch",
-      "published": "2026-05-07T19:06:17+00:00",
-      "link": "https://techcrunch.com/2026/05/07/bumble-is-getting-rid-of-the-swipe-ceo-says/"
-    },
-    {
-      "title": "AI slop is killing online communities",
-      "summary": "Article URL: https://rmoff.net/2026/05/06/ai-slop-is-killing-online-communities/ Comments URL: https://news.ycombinator.com/item?id=48053203 Points: 830 # Comments: 731",
-      "source": "Hacker News",
-      "published": "2026-05-07T18:46:25+00:00",
-      "link": "https://rmoff.net/2026/05/06/ai-slop-is-killing-online-communities/"
-    },
-    {
-      "title": "OpenAI's new voice model brings GPT-5-level reasoning to real-time conversations",
-      "summary": "OpenAI is shipping three new voice models—GPT-Realtime-2, GPT-Realtime-Translate, and GPT-Realtime-Whisper—that can reason in real time, translate across 70+ languages, and transcribe live speech. GPT-Realtime-2 brings reasoning that OpenAI says matches GPT-5.",
-      "source": "The Decoder",
-      "published": "2026-05-07T18:44:08+00:00",
-      "link": "https://the-decoder.com/openais-new-voice-model-brings-gpt-5-level-reasoning-to-real-time-conversations/"
-    },
-    {
-      "title": "ChatGPT’s ‘Trusted Contact’ will alert loved ones of safety concerns",
-      "summary": "OpenAI is launching an optional safety feature for ChatGPT that allows adult users to assign an emergency contact for mental health and safety concerns.",
-      "source": "The Verge",
-      "published": "2026-05-07T18:00:00+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/925874/chatgpt-trusted-contact-emergency-self-harm-notification"
-    },
-    {
-      "title": "Europe's answer to AI regulation complexity is to just delay most of it",
-      "summary": "The EU has agreed on simplified AI rules. The \"Digital Omnibus on AI\" pushes back deadlines for high-risk AI to late 2027 or 2028 and eases requirements for small and medium-sized businesses.",
-      "source": "The Decoder",
-      "published": "2026-05-07T17:36:39+00:00",
-      "link": "https://the-decoder.com/europes-answer-to-ai-regulation-complexity-is-to-just-delay-most-of-it/"
-    },
-    {
-      "title": "ChatGPT Has ‘Goblin’ Mania in the US. In China It Will ‘Catch You Steadily’",
-      "summary": "OpenAI’s chatbot has some weird linguistic tics in Chinese that are driving users crazy.",
-      "source": "Wired",
-      "published": "2026-05-07T16:25:48+00:00",
-      "link": "https://www.wired.com/story/chatgpt-chinese-catch-you-steadily-sycophancy/"
-    },
-    {
-      "title": "How Anthropic’s Mythos has rewritten Firefox’s approach to cybersecurity",
-      "summary": "Security researchers at Mozilla say Anthropic's Mythos has unearthed a wealth of high-severity bugs in Firefox.",
-      "source": "TechCrunch",
-      "published": "2026-05-07T16:05:48+00:00",
-      "link": "https://techcrunch.com/2026/05/07/how-anthropics-mythos-has-rewritten-firefoxs-approach-to-cybersecurity/"
-    },
-    {
-      "title": "Motherboard sales 'collapse' amid unprecedented shortages fueled by AI",
-      "summary": "Article URL:...",
-      "source": "Hacker News",
-      "published": "2026-05-07T15:23:23+00:00",
-      "link": "https://www.tomshardware.com/pc-components/motherboards/motherboard-sales-collapse-by-more-than-25-percent-as-chipmakers-strangle-enthusiast-pc-market-to-build-more-ai-chips-asus-projected-to-sell-5-million-fewer-boards-in-2025-gigabyte-msi-and-asrock-also-expected-to-see-reduced-sales-numbers"
-    },
-    {
-      "title": "AI translation company DeepL cuts around 250 jobs to rebuild as an \"AI-native\" organization",
-      "summary": "DeepL, the German AI-powered translation service that competes with Google Translate and other machine translation tools, is laying off roughly 250 employees.",
-      "source": "The Decoder",
-      "published": "2026-05-07T14:45:19+00:00",
-      "link": "https://the-decoder.com/ai-translation-company-deepl-cuts-around-250-jobs-to-rebuild-as-an-ai-native-organization/"
-    },
-    {
-      "title": "OpenClaw and Claude can put your AI-generated podcasts in Spotify",
-      "summary": "Save to Spotify is a new command-line tool designed specifically for AI agents like OpenClaw, Claude Code, or OpenAI Codex.",
-      "source": "The Verge",
-      "published": "2026-05-07T14:15:40+00:00",
-      "link": "https://www.theverge.com/entertainment/925916/save-to-spotify-ai-podcasts"
     }
   ]
 };
