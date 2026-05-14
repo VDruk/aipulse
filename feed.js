@@ -1,6 +1,55 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-05-14T15:21:38.216223+00:00",
+  "lastUpdated": "2026-05-14T18:49:40.430984+00:00",
   "items": [
+    {
+      "title": "Americans would rather live next to a nuclear plant than an AI data center, Gallup poll finds",
+      "summary": "According to a new Gallup poll, 71 percent of Americans oppose building AI data centers near their homes, far more than the 53 percent who object to a nearby nuclear power plant. The top concerns are high water and energy use, pollution, and rising utility costs.",
+      "source": "The Decoder",
+      "published": "2026-05-14T17:58:13+00:00",
+      "link": "https://the-decoder.com/americans-would-rather-live-next-to-a-nuclear-plant-than-an-ai-data-center-gallup-poll-finds/"
+    },
+    {
+      "title": "Use this map to find the data centers in your backyard",
+      "summary": "When Oregon resident Isabelle Reksopuro heard Google was gobbling up public land to fuel its data centers in her home state, she didn't initially know what to believe. \"There's a lot of misinformation about data centers,\" she said.",
+      "source": "The Verge",
+      "published": "2026-05-14T17:40:00+00:00",
+      "link": "https://www.theverge.com/policy/930629/data-center-policy-map-interactive"
+    },
+    {
+      "title": "Cerebras raises $5.5B, then stock pops $108%, in the first huge tech IPO of 2026",
+      "summary": "A year ago, it looked like this day would never happen for Cerebras.",
+      "source": "TechCrunch",
+      "published": "2026-05-14T16:30:02+00:00",
+      "link": "https://techcrunch.com/2026/05/14/cerebras-raises-5-5b-kicking-off-2026s-ipo-season-with-a-bang/"
+    },
+    {
+      "title": "Live updates from Elon Musk and Sam Altman’s court battle over the future of OpenAI",
+      "summary": "Sam Altman and Elon Musk are facing off in a high-stakes trial that could alter the future of OpenAI and its most well-known product, ChatGPT.",
+      "source": "The Verge",
+      "published": "2026-05-14T15:46:04+00:00",
+      "link": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit"
+    },
+    {
+      "title": "Microsoft pits more than 100 AI agents against each other to find Windows vulnerabilities",
+      "summary": "Microsoft has built MDASH, a system that pits more than 100 specialized AI agents against each other to find software vulnerabilities. On Patch Tuesday alone, the system uncovered 16 security flaws in Windows, four of them critical.",
+      "source": "The Decoder",
+      "published": "2026-05-14T15:35:41+00:00",
+      "link": "https://the-decoder.com/microsoft-pits-more-than-100-ai-agents-against-each-other-to-find-windows-vulnerabilities/"
+    },
+    {
+      "title": "Americans do not want AI data centers in their backyards",
+      "summary": "Over 70 percent of Americans oppose AI data center construction in their area, according to a new Gallup survey. Just 7 percent said they were \"strongly\" in favor of new data centers.",
+      "source": "The Verge",
+      "published": "2026-05-14T15:24:53+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/930477/ai-data-centers-gallup-survey-70-percent-opposition"
+    },
+    {
+      "title": "Khosla Ventures is betting $10M on Ian Crosby, whose first startup, Bench, imploded",
+      "summary": "Crosby is building Synthetic, a fully autonomous AI bookkeeping service for other startups.",
+      "source": "TechCrunch",
+      "published": "2026-05-14T15:20:18+00:00",
+      "link": "https://techcrunch.com/2026/05/14/khosla-ventures-is-betting-10m-on-ian-crosby-whose-last-startup-bench-imploded/"
+    },
     {
       "title": "Khosla Ventures is betting $10M on Ian Crosby, whose last startup, Bench, imploded",
       "summary": "Crosby is building Synthetic, a fully autonomous AI bookkeeping service for other startups.",
@@ -16,6 +65,13 @@ const FEED_DATA = {
       "link": "https://the-decoder.com/ten-chinese-firms-including-bytedance-reportedly-get-us-clearance-for-ai-chips-theyre-not-allowed-to-accept/"
     },
     {
+      "title": "Claude AI recovers an 11 yrs old BTC wallet holding 400k USD",
+      "summary": "Article URL: https://www.tomshardware.com/tech-industry/cryptocurrency/bitcoin-trader-recovers-usd400-000-using-claude-ai-after-losing-wallet-password-11-years-ago-bot-tried-3-5-trillion-passwords-before-decrypting-an-old-wallet-backup Comments URL:...",
+      "source": "Hacker News",
+      "published": "2026-05-14T14:49:48+00:00",
+      "link": "https://www.tomshardware.com/tech-industry/cryptocurrency/bitcoin-trader-recovers-usd400-000-using-claude-ai-after-losing-wallet-password-11-years-ago-bot-tried-3-5-trillion-passwords-before-decrypting-an-old-wallet-backup"
+    },
+    {
       "title": "Cisco cuts nearly 4,000 jobs to spend more on AI, reports ‘record quarterly revenue’",
       "summary": "This is Cisco's latest layoff in recent years, while the company's chief executive touts record revenue and growth.",
       "source": "TechCrunch",
@@ -23,8 +79,8 @@ const FEED_DATA = {
       "link": "https://techcrunch.com/2026/05/14/cisco-cuts-nearly-4000-jobs-to-spend-more-on-ai-reports-record-quarterly-revenue/"
     },
     {
-      "title": "Wirestock raises $23M to supply creative multi-modal data to AI labs",
-      "summary": "Wirestock has over 700,000 creators on its platform, which supplies photos, videos and 3D content to AI labs.",
+      "title": "Wirestock raises $23M to supply creative multimodal data to AI labs",
+      "summary": "The company pivoted to being a data provider in 2023 and now supplies datasets of images, videos, design assets, and gaming and 3D content to AI labs.",
       "source": "TechCrunch",
       "published": "2026-05-14T14:00:00+00:00",
       "link": "https://techcrunch.com/2026/05/14/wirestock-raises-23m-to-supply-multi-modal-data-to-ai-labs/"
@@ -56,6 +112,13 @@ const FEED_DATA = {
       "source": "Wired",
       "published": "2026-05-14T12:52:28+00:00",
       "link": "https://www.wired.com/story/ai-ruined-the-audemars-piguet-x-swatch-collaboration-china-could-save-it/"
+    },
+    {
+      "title": "What happens when you post a real Monet and say it's AI?",
+      "summary": "Article URL: https://twitter.com/jediwolf/status/2054776716770320631 Comments URL: https://news.ycombinator.com/item?id=48134400 Points: 72 # Comments: 73",
+      "source": "Hacker News",
+      "published": "2026-05-14T12:23:27+00:00",
+      "link": "https://twitter.com/jediwolf/status/2054776716770320631"
     },
     {
       "title": "The Download: deepfake porn’s stolen bodies and AI sharing private numbers",
@@ -108,7 +171,7 @@ const FEED_DATA = {
     },
     {
       "title": "Who decides what AI tells you? Campbell Brown, once Meta’s news chief, has thoughts",
-      "summary": "\"The conversation is sort of happening in Silicon Valley around one thing, and a totally different conversation is happening among consumers.\"",
+      "summary": "\"The conversation is sort of happening in Silicon Valley around one thing, and a totally different conversation is happening among consumers,\" Campbell Brown said at StrictlyVC.",
       "source": "TechCrunch",
       "published": "2026-05-14T06:05:31+00:00",
       "link": "https://techcrunch.com/2026/05/13/who-decides-what-ai-tells-you-campbell-brown-once-metas-news-chief-has-thoughts/"
@@ -129,7 +192,7 @@ const FEED_DATA = {
     },
     {
       "title": "The other half of AI safety",
-      "summary": "Article URL: https://personalaisafety.com/p/the-other-half-of-ai-safety Comments URL: https://news.ycombinator.com/item?id=48129561 Points: 82 # Comments: 106",
+      "summary": "Article URL: https://personalaisafety.com/p/the-other-half-of-ai-safety Comments URL: https://news.ycombinator.com/item?id=48129561 Points: 96 # Comments: 120",
       "source": "Hacker News",
       "published": "2026-05-14T00:27:20+00:00",
       "link": "https://personalaisafety.com/p/the-other-half-of-ai-safety"
@@ -157,10 +220,17 @@ const FEED_DATA = {
     },
     {
       "title": "Medicare's new payment model is built for AI. Most of the tech world has no idea",
-      "summary": "Article URL: https://techcrunch.com/2026/05/12/medicares-new-payment-model-is-built-for-ai-and-most-of-the-tech-world-has-no-idea/ Comments URL: https://news.ycombinator.com/item?id=48127815 Points: 76 # Comments: 51",
+      "summary": "Article URL: https://techcrunch.com/2026/05/12/medicares-new-payment-model-is-built-for-ai-and-most-of-the-tech-world-has-no-idea/ Comments URL: https://news.ycombinator.com/item?id=48127815 Points: 83 # Comments: 57",
       "source": "Hacker News",
       "published": "2026-05-13T21:24:14+00:00",
       "link": "https://techcrunch.com/2026/05/12/medicares-new-payment-model-is-built-for-ai-and-most-of-the-tech-world-has-no-idea/"
+    },
+    {
+      "title": "Meta won't let you block its AI account on Threads",
+      "summary": "Article URL: https://www.theverge.com/tech/929091/meta-ai-threads-account-block Comments URL: https://news.ycombinator.com/item?id=48126981 Points: 186 # Comments: 78",
+      "source": "Hacker News",
+      "published": "2026-05-13T20:22:21+00:00",
+      "link": "https://www.theverge.com/tech/929091/meta-ai-threads-account-block"
     },
     {
       "title": "Musk’s xAI is running nearly 50 gas turbines unchecked at its Mississippi data center",
@@ -262,7 +332,7 @@ const FEED_DATA = {
     },
     {
       "title": "U.S. intelligence shows Iran retains substantial missile capabilities",
-      "summary": "Article URL: https://www.nytimes.com/2026/05/12/us/politics/iran-missiles-us-intelligence.html Comments URL: https://news.ycombinator.com/item?id=48123900 Points: 51 # Comments: 29",
+      "summary": "Article URL: https://www.nytimes.com/2026/05/12/us/politics/iran-missiles-us-intelligence.html Comments URL: https://news.ycombinator.com/item?id=48123900 Points: 52 # Comments: 31",
       "source": "Hacker News",
       "published": "2026-05-13T16:15:09+00:00",
       "link": "https://www.nytimes.com/2026/05/12/us/politics/iran-missiles-us-intelligence.html"
@@ -282,13 +352,6 @@ const FEED_DATA = {
       "link": "https://the-decoder.com/luma-opens-uni-1-1-image-model-api-at-prices-and-quality-matching-openai-and-google/"
     },
     {
-      "title": "Live updates from Elon Musk and Sam Altman’s court battle over the future of OpenAI",
-      "summary": "Sam Altman and Elon Musk are facing off in a high-stakes trial that could alter the future of OpenAI and its most well-known product, ChatGPT.",
-      "source": "The Verge",
-      "published": "2026-05-13T15:28:21+00:00",
-      "link": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit"
-    },
-    {
       "title": "Amazon launches an AI shopping assistant for the search bar, powered by Alexa+",
       "summary": "Alexa for Shopping offers a voice- and touch-enabled shopping experience across mobile, desktop, and Echo Show smart displays. Alexa for Shopping provides more personalized recommendations and automates the shopping experience across Amazon and other online retailers.",
       "source": "TechCrunch",
@@ -297,7 +360,7 @@ const FEED_DATA = {
     },
     {
       "title": "The AI Backlash Could Get Ugly",
-      "summary": "Article URL: https://www.theatlantic.com/technology/2026/05/ai-backlash-data-centers-political-violence/687151/ Comments URL: https://news.ycombinator.com/item?id=48122624 Points: 77 # Comments: 166",
+      "summary": "Article URL: https://www.theatlantic.com/technology/2026/05/ai-backlash-data-centers-political-violence/687151/ Comments URL: https://news.ycombinator.com/item?id=48122624 Points: 77 # Comments: 175",
       "source": "Hacker News",
       "published": "2026-05-13T14:44:41+00:00",
       "link": "https://www.theatlantic.com/technology/2026/05/ai-backlash-data-centers-political-violence/687151/"
@@ -325,7 +388,7 @@ const FEED_DATA = {
     },
     {
       "title": "The US is winning the AI race where it matters most: commercialization",
-      "summary": "Article URL: https://avkcode.github.io/blog/us-winning-ai-race.html Comments URL: https://news.ycombinator.com/item?id=48121929 Points: 205 # Comments: 556",
+      "summary": "Article URL: https://avkcode.github.io/blog/us-winning-ai-race.html Comments URL: https://news.ycombinator.com/item?id=48121929 Points: 229 # Comments: 644",
       "source": "Hacker News",
       "published": "2026-05-13T13:53:53+00:00",
       "link": "https://avkcode.github.io/blog/us-winning-ai-race.html"
@@ -346,7 +409,7 @@ const FEED_DATA = {
     },
     {
       "title": "Software Developers Say AI Is Rotting Their Brains",
-      "summary": "Article URL: https://www.404media.co/software-developers-say-ai-is-rotting-their-brains/ Comments URL: https://news.ycombinator.com/item?id=48121717 Points: 94 # Comments: 108",
+      "summary": "Article URL: https://www.404media.co/software-developers-say-ai-is-rotting-their-brains/ Comments URL: https://news.ycombinator.com/item?id=48121717 Points: 95 # Comments: 109",
       "source": "Hacker News",
       "published": "2026-05-13T13:34:51+00:00",
       "link": "https://www.404media.co/software-developers-say-ai-is-rotting-their-brains/"
@@ -443,13 +506,6 @@ const FEED_DATA = {
       "link": "https://www.wired.com/story/xai-adds-19-new-gas-turbines-despite-ongoing-lawsuit/"
     },
     {
-      "title": "Meta won’t let you block its AI account on Threads",
-      "summary": "Meta announced on Tuesday that it's testing a Threads feature that lets users tag a Meta AI account to get answers to questions or context about a conversation on the platform.",
-      "source": "The Verge",
-      "published": "2026-05-12T20:35:23+00:00",
-      "link": "https://www.theverge.com/tech/929091/meta-ai-threads-account-block"
-    },
-    {
       "title": "Android gets AI agents that book trips, fill forms, and clean up your texts",
       "summary": "With Gemini Intelligence, Google is introducing new AI features for Android that automate multi-step tasks, summarize web content, fill out forms, and turn spoken thoughts into polished text messages.",
       "source": "The Decoder",
@@ -486,7 +542,7 @@ const FEED_DATA = {
     },
     {
       "title": "Reimagining the mouse pointer for the AI era",
-      "summary": "Article URL: https://deepmind.google/blog/ai-pointer/ Comments URL: https://news.ycombinator.com/item?id=48111581 Points: 247 # Comments: 212",
+      "summary": "Article URL: https://deepmind.google/blog/ai-pointer/ Comments URL: https://news.ycombinator.com/item?id=48111581 Points: 250 # Comments: 213",
       "source": "Hacker News",
       "published": "2026-05-12T17:40:13+00:00",
       "link": "https://deepmind.google/blog/ai-pointer/"
@@ -591,7 +647,7 @@ const FEED_DATA = {
     },
     {
       "title": "Amazon employees are \"tokenmaxxing\" due to pressure to use AI tools",
-      "summary": "Article URL: https://arstechnica.com/ai/2026/05/amazon-employees-are-tokenmaxxing-due-to-pressure-to-use-ai-tools/ Comments URL: https://news.ycombinator.com/item?id=48110529 Points: 246 # Comments: 248",
+      "summary": "Article URL: https://arstechnica.com/ai/2026/05/amazon-employees-are-tokenmaxxing-due-to-pressure-to-use-ai-tools/ Comments URL: https://news.ycombinator.com/item?id=48110529 Points: 247 # Comments: 252",
       "source": "Hacker News",
       "published": "2026-05-12T16:29:21+00:00",
       "link": "https://arstechnica.com/ai/2026/05/amazon-employees-are-tokenmaxxing-due-to-pressure-to-use-ai-tools/"
@@ -773,14 +829,14 @@ const FEED_DATA = {
     },
     {
       "title": "I let AI build a tool to help me figure out what was waking me up at night",
-      "summary": "Article URL: https://martin.sh/i-let-ai-build-a-tool-to-help-me-figure-out-what-was-waking-me-up-at-night/ Comments URL: https://news.ycombinator.com/item?id=48100662 Points: 270 # Comments: 282",
+      "summary": "Article URL: https://martin.sh/i-let-ai-build-a-tool-to-help-me-figure-out-what-was-waking-me-up-at-night/ Comments URL: https://news.ycombinator.com/item?id=48100662 Points: 270 # Comments: 283",
       "source": "Hacker News",
       "published": "2026-05-11T21:04:10+00:00",
       "link": "https://martin.sh/i-let-ai-build-a-tool-to-help-me-figure-out-what-was-waking-me-up-at-night/"
     },
     {
       "title": "If AI writes your code, why use Python?",
-      "summary": "Article URL: https://medium.com/@NMitchem/if-ai-writes-your-code-why-use-python-bf8c4ba1a055 Comments URL: https://news.ycombinator.com/item?id=48100433 Points: 906 # Comments: 962",
+      "summary": "Article URL: https://medium.com/@NMitchem/if-ai-writes-your-code-why-use-python-bf8c4ba1a055 Comments URL: https://news.ycombinator.com/item?id=48100433 Points: 909 # Comments: 965",
       "source": "Hacker News",
       "published": "2026-05-11T20:45:55+00:00",
       "link": "https://medium.com/@NMitchem/if-ai-writes-your-code-why-use-python-bf8c4ba1a055"
@@ -822,7 +878,7 @@ const FEED_DATA = {
     },
     {
       "title": "Students boo commencement speaker after she calls AI next industrial revolution",
-      "summary": "Article URL: https://www.404media.co/ucf-ai-commencement-speaker-booed/ Comments URL: https://news.ycombinator.com/item?id=48096674 Points: 174 # Comments: 214",
+      "summary": "Article URL: https://www.404media.co/ucf-ai-commencement-speaker-booed/ Comments URL: https://news.ycombinator.com/item?id=48096674 Points: 175 # Comments: 215",
       "source": "Hacker News",
       "published": "2026-05-11T15:53:23+00:00",
       "link": "https://www.404media.co/ucf-ai-commencement-speaker-booed/"
@@ -1344,62 +1400,6 @@ const FEED_DATA = {
       "source": "Hacker News",
       "published": "2026-05-08T01:02:28+00:00",
       "link": "https://openrouter.ai/announcements/gpt55-cost-analysis"
-    },
-    {
-      "title": "OpenAI launches new voice intelligence features in its API",
-      "summary": "The new features could be handy for customer service systems, but OpenAI says they have applications that work across a variety of other fields, including education and creator platforms.",
-      "source": "TechCrunch",
-      "published": "2026-05-07T22:24:50+00:00",
-      "link": "https://techcrunch.com/2026/05/07/openai-launches-new-voice-intelligence-features-in-its-api/"
-    },
-    {
-      "title": "Trump Pivots on AI Regulation, Worker Ousted by DOGE Runs for Office, and Hantavirus Explained",
-      "summary": "Today on Uncanny Valley, we’re diving into recent reports that the Trump administration is considering an executive order that would establish some sort of federal oversight over new AI models.",
-      "source": "Wired",
-      "published": "2026-05-07T21:37:20+00:00",
-      "link": "https://www.wired.com/story/uncanny-valley-podcast-trump-pivots-ai-regulation-worker-ousted-by-doge-runs-for-office-hantavirus-explained/"
-    },
-    {
-      "title": "Voi founders’ new AI startup Pit has become the latest rising star out of Stockholm",
-      "summary": "AI startup Pit is led by the co-founders of European scooter giant Voi and backed by a16z, which is leading the startup’s $16 million seed round.",
-      "source": "TechCrunch",
-      "published": "2026-05-07T21:02:11+00:00",
-      "link": "https://techcrunch.com/2026/05/07/voi-founders-new-ai-startup-pit-has-become-the-latest-rising-star-out-of-stockholm/"
-    },
-    {
-      "title": "How to Disable Google's Gemini in Chrome",
-      "summary": "Chrome users were caught off guard by a 4-GB Google AI model baked into Chrome, sparking privacy concerns. The good news: You can easily uninstall it.",
-      "source": "Wired",
-      "published": "2026-05-07T20:31:57+00:00",
-      "link": "https://www.wired.com/story/you-can-disable-gemini-in-chrome-if-its-freaking-you-out/"
-    },
-    {
-      "title": "OpenAI introduces new ‘Trusted Contact’ safeguard for cases of possible self-harm",
-      "summary": "The company is expanding its efforts to protect ChatGPT users in cases where conversations may turn to self-harm.",
-      "source": "TechCrunch",
-      "published": "2026-05-07T20:20:20+00:00",
-      "link": "https://techcrunch.com/2026/05/07/openai-introduces-new-trusted-contact-safeguard-for-cases-of-possible-self-harm/"
-    },
-    {
-      "title": "Perplexity’s Personal Computer is now available to everyone on Mac",
-      "summary": "Perplexity's Personal Computer brings AI agents to your Mac, and is now open to everyone.",
-      "source": "TechCrunch",
-      "published": "2026-05-07T19:57:59+00:00",
-      "link": "https://techcrunch.com/2026/05/07/perplexitys-personal-computer-is-now-available-everyone-on-mac/"
-    },
-    {
-      "title": "Mira Murati’s deposition pulled back the curtain on Sam Altman’s ouster",
-      "summary": "The week leading up to Thanksgiving 2023 was the AI industry's biggest soap opera moment. OpenAI CEO Sam Altman was abruptly ousted from his role at the ChatGPT maker.",
-      "source": "The Verge",
-      "published": "2026-05-07T19:55:22+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/926383/mira-murati-sam-altman-musk-trial-ouster"
-    },
-    {
-      "title": "Apple’s AirPods with cameras for AI are apparently close to production",
-      "summary": "Apple's rumored AirPods with cameras are nearing a stage where the company will test early mass production, Bloomberg's Mark Gurman reports.",
-      "source": "The Verge",
-      "published": "2026-05-07T19:39:22+00:00",
-      "link": "https://www.theverge.com/tech/926376/apple-airpods-cameras-ai-production"
     }
   ]
 };
