@@ -1,6 +1,90 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-05-14T18:49:40.430984+00:00",
+  "lastUpdated": "2026-05-14T22:03:33.393122+00:00",
   "items": [
+    {
+      "title": "Elon Musk’s SpaceXAI has been bleeding staff since its merger",
+      "summary": "More than 50 employees have reportedly left Elon Musk’s newly merged SpaceXAI since February, raising questions about burnout, leadership changes, talent poaching, and whether liquidity events weakened retention incentives.",
+      "source": "TechCrunch",
+      "published": "2026-05-14T21:30:44+00:00",
+      "link": "https://techcrunch.com/2026/05/14/elon-musks-spacexai-has-been-bleeding-staff-since-its-merger/"
+    },
+    {
+      "title": "OpenAI says Codex is coming to your phone",
+      "summary": "The update gives users enhanced flexibility over how they can manage their workflows.",
+      "source": "TechCrunch",
+      "published": "2026-05-14T20:58:55+00:00",
+      "link": "https://techcrunch.com/2026/05/14/openai-says-codex-is-coming-to-your-phone/"
+    },
+    {
+      "title": "An Engineer’s Post Protesting Laptop Surveillance Is Going Viral Inside Meta",
+      "summary": "Meta employees in the US and UK are organizing against corporate software that tracks workers’ keystrokes and mouse activity.",
+      "source": "Wired",
+      "published": "2026-05-14T20:27:34+00:00",
+      "link": "https://www.wired.com/story/meta-employee-protest-mouse-tracking-surveillance-ai-training/"
+    },
+    {
+      "title": "OpenAI’s Codex is now in the ChatGPT mobile app",
+      "summary": "OpenAI is going to let users access Codex, its desktop AI tool that can write code and use apps on your computer, from the ChatGPT app on your phone.",
+      "source": "The Verge",
+      "published": "2026-05-14T20:00:00+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/930763/openai-codex-chatgpt-ios-android-app-preview"
+    },
+    {
+      "title": "What happens when AI starts building itself?",
+      "summary": "Richard Socher's new $650 million startup wants to build an AI that can research and improve itself indefinitely — and he insists it will actually ship products.",
+      "source": "TechCrunch",
+      "published": "2026-05-14T19:57:20+00:00",
+      "link": "https://techcrunch.com/2026/05/14/what-happens-when-ai-starts-building-itself/"
+    },
+    {
+      "title": "OpenAI is reportedly preparing legal action against Apple; it wouldn’t be the first partner to feel burned",
+      "summary": "OpenAI is so frustrated with Apple over a ChatGPT integration that failed to deliver the subscribers and prominence it expected that the company is now actively exploring legal action against the iPhone maker.",
+      "source": "TechCrunch",
+      "published": "2026-05-14T19:12:03+00:00",
+      "link": "https://techcrunch.com/2026/05/14/openai-is-reportedly-preparing-legal-action-against-apple-it-wouldnt-be-the-first-partner-to-feel-burned/"
+    },
+    {
+      "title": "Clawdmeter turns your Claude Code usage stats into a tiny desktop dashboard",
+      "summary": "A new open source gadget called Clawdmeter turns Claude Code usage stats into a tiny desktop dashboard for AI coding power users.",
+      "source": "TechCrunch",
+      "published": "2026-05-14T19:05:01+00:00",
+      "link": "https://techcrunch.com/2026/05/14/clawdmeter-turns-your-claude-code-usage-stats-into-a-tiny-desktop-dashboard/"
+    },
+    {
+      "title": "Microsoft starts canceling Claude Code licenses",
+      "summary": "Microsoft first started opening up access to Claude Code in December, inviting thousands of its own developers to use Anthropic's AI coding tool daily.",
+      "source": "The Verge",
+      "published": "2026-05-14T19:00:00+00:00",
+      "link": "https://www.theverge.com/tech/930447/microsoft-claude-code-discontinued-notepad"
+    },
+    {
+      "title": "German intelligence offices snub Palantir software",
+      "summary": "Article URL: https://www.dw.com/en/german-intelligence-offices-snub-us-based-palantir-software/a-77160897 Comments URL: https://news.ycombinator.com/item?id=48139547 Points: 67 # Comments: 24",
+      "source": "Hacker News",
+      "published": "2026-05-14T18:50:02+00:00",
+      "link": "https://www.dw.com/en/german-intelligence-offices-snub-us-based-palantir-software/a-77160897"
+    },
+    {
+      "title": "The AI Zombification of Universities",
+      "summary": "Article URL: https://www.thenewcritic.com/p/the-great-zombification Comments URL: https://news.ycombinator.com/item?id=48139355 Points: 146 # Comments: 125",
+      "source": "Hacker News",
+      "published": "2026-05-14T18:37:08+00:00",
+      "link": "https://www.thenewcritic.com/p/the-great-zombification"
+    },
+    {
+      "title": "AI is making me dumb",
+      "summary": "Article URL: https://jpain.io/god-damn-ai-is-making-me-dumb/ Comments URL: https://news.ycombinator.com/item?id=48139148 Points: 319 # Comments: 212",
+      "source": "Hacker News",
+      "published": "2026-05-14T18:19:28+00:00",
+      "link": "https://jpain.io/god-damn-ai-is-making-me-dumb/"
+    },
+    {
+      "title": "You Don't Align an AI, You Align with It",
+      "summary": "Article URL: https://danieltan.weblog.lol/2026/05/you-dont-align-an-ai-you-align-with-it Comments URL: https://news.ycombinator.com/item?id=48139144 Points: 72 # Comments: 35",
+      "source": "Hacker News",
+      "published": "2026-05-14T18:19:13+00:00",
+      "link": "https://danieltan.weblog.lol/2026/05/you-dont-align-an-ai-you-align-with-it"
+    },
     {
       "title": "Americans would rather live next to a nuclear plant than an AI data center, Gallup poll finds",
       "summary": "According to a new Gallup poll, 71 percent of Americans oppose building AI data centers near their homes, far more than the 53 percent who object to a nearby nuclear power plant. The top concerns are high water and energy use, pollution, and rising utility costs.",
@@ -115,7 +199,7 @@ const FEED_DATA = {
     },
     {
       "title": "What happens when you post a real Monet and say it's AI?",
-      "summary": "Article URL: https://twitter.com/jediwolf/status/2054776716770320631 Comments URL: https://news.ycombinator.com/item?id=48134400 Points: 72 # Comments: 73",
+      "summary": "Article URL: https://twitter.com/jediwolf/status/2054776716770320631 Comments URL: https://news.ycombinator.com/item?id=48134400 Points: 79 # Comments: 73",
       "source": "Hacker News",
       "published": "2026-05-14T12:23:27+00:00",
       "link": "https://twitter.com/jediwolf/status/2054776716770320631"
@@ -192,7 +276,7 @@ const FEED_DATA = {
     },
     {
       "title": "The other half of AI safety",
-      "summary": "Article URL: https://personalaisafety.com/p/the-other-half-of-ai-safety Comments URL: https://news.ycombinator.com/item?id=48129561 Points: 96 # Comments: 120",
+      "summary": "Article URL: https://personalaisafety.com/p/the-other-half-of-ai-safety Comments URL: https://news.ycombinator.com/item?id=48129561 Points: 97 # Comments: 124",
       "source": "Hacker News",
       "published": "2026-05-14T00:27:20+00:00",
       "link": "https://personalaisafety.com/p/the-other-half-of-ai-safety"
@@ -227,7 +311,7 @@ const FEED_DATA = {
     },
     {
       "title": "Meta won't let you block its AI account on Threads",
-      "summary": "Article URL: https://www.theverge.com/tech/929091/meta-ai-threads-account-block Comments URL: https://news.ycombinator.com/item?id=48126981 Points: 186 # Comments: 78",
+      "summary": "Article URL: https://www.theverge.com/tech/929091/meta-ai-threads-account-block Comments URL: https://news.ycombinator.com/item?id=48126981 Points: 190 # Comments: 81",
       "source": "Hacker News",
       "published": "2026-05-13T20:22:21+00:00",
       "link": "https://www.theverge.com/tech/929091/meta-ai-threads-account-block"
@@ -388,7 +472,7 @@ const FEED_DATA = {
     },
     {
       "title": "The US is winning the AI race where it matters most: commercialization",
-      "summary": "Article URL: https://avkcode.github.io/blog/us-winning-ai-race.html Comments URL: https://news.ycombinator.com/item?id=48121929 Points: 229 # Comments: 644",
+      "summary": "Article URL: https://avkcode.github.io/blog/us-winning-ai-race.html Comments URL: https://news.ycombinator.com/item?id=48121929 Points: 231 # Comments: 652",
       "source": "Hacker News",
       "published": "2026-05-13T13:53:53+00:00",
       "link": "https://avkcode.github.io/blog/us-winning-ai-race.html"
@@ -409,7 +493,7 @@ const FEED_DATA = {
     },
     {
       "title": "Software Developers Say AI Is Rotting Their Brains",
-      "summary": "Article URL: https://www.404media.co/software-developers-say-ai-is-rotting-their-brains/ Comments URL: https://news.ycombinator.com/item?id=48121717 Points: 95 # Comments: 109",
+      "summary": "Article URL: https://www.404media.co/software-developers-say-ai-is-rotting-their-brains/ Comments URL: https://news.ycombinator.com/item?id=48121717 Points: 97 # Comments: 112",
       "source": "Hacker News",
       "published": "2026-05-13T13:34:51+00:00",
       "link": "https://www.404media.co/software-developers-say-ai-is-rotting-their-brains/"
@@ -1316,90 +1400,6 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-05-08T14:49:24+00:00",
       "link": "https://the-decoder.com/anthropic-approaches-1-trillion-valuation-as-revenue-grows-fivefold/"
-    },
-    {
-      "title": "Show HN: Git for AI Agents",
-      "summary": "hi guys. been working on something i think is fundamentally missing in today's workflow with ai agents.vcs.i find myself struggling with questions that agents can't answer like \"why did you do it?\", \"when did u delete this folder?",
-      "source": "Hacker News",
-      "published": "2026-05-08T14:15:36+00:00",
-      "link": "https://github.com/regent-vcs/re_gent"
-    },
-    {
-      "title": "Everybody wants to rule the AI world",
-      "summary": "Sometimes, companies pick CEOs based on carefully laid succession plans designed to maximize investor confidence and future performance.",
-      "source": "The Verge",
-      "published": "2026-05-08T13:31:37+00:00",
-      "link": "https://www.theverge.com/podcast/926707/openai-ceo-murati-musk-trial-vergecast"
-    },
-    {
-      "title": "AI safety tests have a new problem: Models are now faking their own reasoning traces",
-      "summary": "Anthropic's Natural Language Autoencoders make Claude Opus 4.6's internal activations readable as plain text.",
-      "source": "The Decoder",
-      "published": "2026-05-08T13:21:02+00:00",
-      "link": "https://the-decoder.com/ai-safety-tests-have-a-new-problem-models-are-now-faking-their-own-reasoning-traces/"
-    },
-    {
-      "title": "Nanoleaf bets its future on robots, red light therapy, and AI",
-      "summary": "Smart lighting company Nanoleaf has been unusually quiet recently.",
-      "source": "The Verge",
-      "published": "2026-05-08T12:15:00+00:00",
-      "link": "https://www.theverge.com/tech/926342/nanoleaf-smart-lighting-ai-robotics-red-light-wellness"
-    },
-    {
-      "title": "The Download: AI malaise and babymaking tech",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. We’ve entered the era of AI malaise AI is spreading everywhere, and it is not going away.",
-      "source": "MIT Tech Review",
-      "published": "2026-05-08T12:10:00+00:00",
-      "link": "https://www.technologyreview.com/2026/05/08/1136985/the-download-ai-malaise-babymaking-ivf-tech/"
-    },
-    {
-      "title": "OpenAI opens GPT-5.5-Cyber to vetted security researchers",
-      "summary": "OpenAI is releasing GPT-5.5-Cyber, a model variant that rejects far fewer security requests and even actively executes exploits against test servers. Access is limited to verified defenders of critical infrastructure, including partners like Cisco, CrowdStrike, and Cloudflare.",
-      "source": "The Decoder",
-      "published": "2026-05-08T11:07:28+00:00",
-      "link": "https://the-decoder.com/openai-opens-gpt-5-5-cyber-to-vetted-security-researchers/"
-    },
-    {
-      "title": "The New Wild West of AI Kids’ Toys",
-      "summary": "These cuddly, connected companions could disrupt everything from make-believe to bedtime stories. No wonder some lawmakers want them banned.",
-      "source": "Wired",
-      "published": "2026-05-08T10:00:00+00:00",
-      "link": "https://www.wired.com/story/the-new-wild-west-of-ai-kids-toys/"
-    },
-    {
-      "title": "Mozilla's agentic AI pipeline turns Claude Mythos Preview loose and finds 271 unknown Firefox vulnerabilities",
-      "summary": "Anthropic's Claude Mythos Preview uncovered 271 previously unknown security vulnerabilities in Firefox 150, including bugs up to 20 years old. Mozilla describes an agentic pipeline where the AI builds and runs its own test cases to filter out false positives.",
-      "source": "The Decoder",
-      "published": "2026-05-08T09:23:28+00:00",
-      "link": "https://the-decoder.com/mozillas-agentic-ai-pipeline-turns-claude-mythos-preview-loose-and-finds-271-unknown-firefox-vulnerabilities/"
-    },
-    {
-      "title": "The fax machine is the bottleneck in US healthcare, and VCs are starting to notice",
-      "summary": "Like many AI companies automating work that humans currently do, Basata will eventually face a harder question about where the line is between augmenting workers and displacing them.",
-      "source": "TechCrunch",
-      "published": "2026-05-08T04:42:29+00:00",
-      "link": "https://techcrunch.com/2026/05/07/the-back-office-problem-that-explains-why-specialists-never-call-you-back/"
-    },
-    {
-      "title": "Why you can never get your doctor to call you back",
-      "summary": "Like many AI companies automating work that humans currently do, Basata will eventually face a harder question about where the line is between augmenting workers and displacing them.",
-      "source": "TechCrunch",
-      "published": "2026-05-08T04:42:29+00:00",
-      "link": "https://techcrunch.com/2026/05/07/the-back-office-problem-that-explains-why-specialists-never-call-you-back/"
-    },
-    {
-      "title": "Musk v. Altman Evidence Shows What Microsoft Executives Thought of OpenAI",
-      "summary": "Leaders at the tech giant were skeptical of OpenAI—but wary of pushing it into the arms of Amazon, according to emails dating back to 2018.",
-      "source": "Wired",
-      "published": "2026-05-08T01:42:14+00:00",
-      "link": "https://www.wired.com/story/microsoft-executives-discuss-openai-sam-altman-2018/"
-    },
-    {
-      "title": "GPT-5.5 Price Increase: What It Costs",
-      "summary": "Article URL: https://openrouter.ai/announcements/gpt55-cost-analysis Comments URL: https://news.ycombinator.com/item?id=48057209 Points: 213 # Comments: 70",
-      "source": "Hacker News",
-      "published": "2026-05-08T01:02:28+00:00",
-      "link": "https://openrouter.ai/announcements/gpt55-cost-analysis"
     }
   ]
 };
