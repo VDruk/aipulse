@@ -1,6 +1,13 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-05-13T22:05:05.386052+00:00",
+  "lastUpdated": "2026-05-14T04:41:31.939237+00:00",
   "items": [
+    {
+      "title": "The Other Half of AI Safety",
+      "summary": "Article URL: https://personalaisafety.com/p/the-other-half-of-ai-safety Comments URL: https://news.ycombinator.com/item?id=48129561 Points: 52 # Comments: 69",
+      "source": "Hacker News",
+      "published": "2026-05-14T00:27:20+00:00",
+      "link": "https://personalaisafety.com/p/the-other-half-of-ai-safety"
+    },
     {
       "title": "Microsoft’s Edge Copilot update uses AI to pull information from across your tabs",
       "summary": "Microsoft Edge is adding a new feature that will allow its Copilot AI chatbot to gather information from all of your open tabs.",
@@ -21,6 +28,13 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-05-13T21:45:09+00:00",
       "link": "https://techcrunch.com/2026/05/13/notion-just-turned-its-workspace-into-a-hub-for-ai-agents/"
+    },
+    {
+      "title": "Medicare's new payment model is built for AI. Most of the tech world has no idea",
+      "summary": "Article URL: https://techcrunch.com/2026/05/12/medicares-new-payment-model-is-built-for-ai-and-most-of-the-tech-world-has-no-idea/ Comments URL: https://news.ycombinator.com/item?id=48127815 Points: 68 # Comments: 48",
+      "source": "Hacker News",
+      "published": "2026-05-13T21:24:14+00:00",
+      "link": "https://techcrunch.com/2026/05/12/medicares-new-payment-model-is-built-for-ai-and-most-of-the-tech-world-has-no-idea/"
     },
     {
       "title": "Musk’s xAI is running nearly 50 gas turbines unchecked at its Mississippi data center",
@@ -143,17 +157,10 @@ const FEED_DATA = {
     },
     {
       "title": "The AI Backlash Could Get Ugly",
-      "summary": "Article URL: https://www.theatlantic.com/technology/2026/05/ai-backlash-data-centers-political-violence/687151/ Comments URL: https://news.ycombinator.com/item?id=48122624 Points: 66 # Comments: 137",
+      "summary": "Article URL: https://www.theatlantic.com/technology/2026/05/ai-backlash-data-centers-political-violence/687151/ Comments URL: https://news.ycombinator.com/item?id=48122624 Points: 71 # Comments: 153",
       "source": "Hacker News",
       "published": "2026-05-13T14:44:41+00:00",
       "link": "https://www.theatlantic.com/technology/2026/05/ai-backlash-data-centers-political-violence/687151/"
-    },
-    {
-      "title": "WhatsApp adds an incognito mode in Meta AI chats",
-      "summary": "Meta said these incognito conversations are not saved, and messages will disappear by default once you close the chat.",
-      "source": "TechCrunch",
-      "published": "2026-05-13T14:00:00+00:00",
-      "link": "https://techcrunch.com/2026/05/13/whatsapp-adds-an-incognito-mode-in-meta-ai-chats/"
     },
     {
       "title": "Anthropic now has more business customers than OpenAI, according to Ramp data",
@@ -161,6 +168,13 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-05-13T14:00:00+00:00",
       "link": "https://techcrunch.com/2026/05/13/anthropic-now-has-more-business-customers-than-openai-according-to-ramp-data/"
+    },
+    {
+      "title": "WhatsApp adds an incognito mode in Meta AI chats",
+      "summary": "Meta said these incognito conversations are not saved, and messages will disappear by default once you close the chat.",
+      "source": "TechCrunch",
+      "published": "2026-05-13T14:00:00+00:00",
+      "link": "https://techcrunch.com/2026/05/13/whatsapp-adds-an-incognito-mode-in-meta-ai-chats/"
     },
     {
       "title": "WhatsApp Adds Meta AI Chats That Are Built to Be Fully Private",
@@ -171,7 +185,7 @@ const FEED_DATA = {
     },
     {
       "title": "The US is winning the AI race where it matters most: commercialization",
-      "summary": "Article URL: https://avkcode.github.io/blog/us-winning-ai-race.html Comments URL: https://news.ycombinator.com/item?id=48121929 Points: 132 # Comments: 361",
+      "summary": "Article URL: https://avkcode.github.io/blog/us-winning-ai-race.html Comments URL: https://news.ycombinator.com/item?id=48121929 Points: 174 # Comments: 493",
       "source": "Hacker News",
       "published": "2026-05-13T13:53:53+00:00",
       "link": "https://avkcode.github.io/blog/us-winning-ai-race.html"
@@ -192,7 +206,7 @@ const FEED_DATA = {
     },
     {
       "title": "Software Developers Say AI Is Rotting Their Brains",
-      "summary": "Article URL: https://www.404media.co/software-developers-say-ai-is-rotting-their-brains/ Comments URL: https://news.ycombinator.com/item?id=48121717 Points: 86 # Comments: 102",
+      "summary": "Article URL: https://www.404media.co/software-developers-say-ai-is-rotting-their-brains/ Comments URL: https://news.ycombinator.com/item?id=48121717 Points: 89 # Comments: 108",
       "source": "Hacker News",
       "published": "2026-05-13T13:34:51+00:00",
       "link": "https://www.404media.co/software-developers-say-ai-is-rotting-their-brains/"
@@ -437,7 +451,7 @@ const FEED_DATA = {
     },
     {
       "title": "Amazon employees are \"tokenmaxxing\" due to pressure to use AI tools",
-      "summary": "Article URL: https://arstechnica.com/ai/2026/05/amazon-employees-are-tokenmaxxing-due-to-pressure-to-use-ai-tools/ Comments URL: https://news.ycombinator.com/item?id=48110529 Points: 242 # Comments: 245",
+      "summary": "Article URL: https://arstechnica.com/ai/2026/05/amazon-employees-are-tokenmaxxing-due-to-pressure-to-use-ai-tools/ Comments URL: https://news.ycombinator.com/item?id=48110529 Points: 245 # Comments: 246",
       "source": "Hacker News",
       "published": "2026-05-12T16:29:21+00:00",
       "link": "https://arstechnica.com/ai/2026/05/amazon-employees-are-tokenmaxxing-due-to-pressure-to-use-ai-tools/"
@@ -493,7 +507,7 @@ const FEED_DATA = {
     },
     {
       "title": "Show HN: Reducing LLM input tokens by 70%",
-      "summary": "Article URL: https://adola.app/ Comments URL: https://news.ycombinator.com/item?id=48109600 Points: 53 # Comments: 32",
+      "summary": "Article URL: https://adola.app/ Comments URL: https://news.ycombinator.com/item?id=48109600 Points: 56 # Comments: 32",
       "source": "Hacker News",
       "published": "2026-05-12T15:18:33+00:00",
       "link": "https://adola.app/"
@@ -619,14 +633,14 @@ const FEED_DATA = {
     },
     {
       "title": "I let AI build a tool to help me figure out what was waking me up at night",
-      "summary": "Article URL: https://martin.sh/i-let-ai-build-a-tool-to-help-me-figure-out-what-was-waking-me-up-at-night/ Comments URL: https://news.ycombinator.com/item?id=48100662 Points: 267 # Comments: 281",
+      "summary": "Article URL: https://martin.sh/i-let-ai-build-a-tool-to-help-me-figure-out-what-was-waking-me-up-at-night/ Comments URL: https://news.ycombinator.com/item?id=48100662 Points: 268 # Comments: 281",
       "source": "Hacker News",
       "published": "2026-05-11T21:04:10+00:00",
       "link": "https://martin.sh/i-let-ai-build-a-tool-to-help-me-figure-out-what-was-waking-me-up-at-night/"
     },
     {
       "title": "If AI writes your code, why use Python?",
-      "summary": "Article URL: https://medium.com/@NMitchem/if-ai-writes-your-code-why-use-python-bf8c4ba1a055 Comments URL: https://news.ycombinator.com/item?id=48100433 Points: 901 # Comments: 955",
+      "summary": "Article URL: https://medium.com/@NMitchem/if-ai-writes-your-code-why-use-python-bf8c4ba1a055 Comments URL: https://news.ycombinator.com/item?id=48100433 Points: 904 # Comments: 960",
       "source": "Hacker News",
       "published": "2026-05-11T20:45:55+00:00",
       "link": "https://medium.com/@NMitchem/if-ai-writes-your-code-why-use-python-bf8c4ba1a055"
@@ -759,7 +773,7 @@ const FEED_DATA = {
     },
     {
       "title": "What a Japanese cooking principle taught me about overcoming AI fatigue",
-      "summary": "Article URL: https://www.devas.life/what-a-japanese-cooking-principle-taught-me-about-overcoming-ai-fatigue/ Comments URL: https://news.ycombinator.com/item?id=48093466 Points: 85 # Comments: 4",
+      "summary": "Article URL: https://www.devas.life/what-a-japanese-cooking-principle-taught-me-about-overcoming-ai-fatigue/ Comments URL: https://news.ycombinator.com/item?id=48093466 Points: 87 # Comments: 4",
       "source": "Hacker News",
       "published": "2026-05-11T11:07:10+00:00",
       "link": "https://www.devas.life/what-a-japanese-cooking-principle-taught-me-about-overcoming-ai-fatigue/"
@@ -801,7 +815,7 @@ const FEED_DATA = {
     },
     {
       "title": "An AI coding agent, used to write code, needs to reduce your maintenance costs",
-      "summary": "Article URL: https://www.jamesshore.com/v2/blog/2026/you-need-ai-that-reduces-your-maintenance-costs Comments URL: https://news.ycombinator.com/item?id=48089289 Points: 372 # Comments: 109",
+      "summary": "Article URL: https://www.jamesshore.com/v2/blog/2026/you-need-ai-that-reduces-your-maintenance-costs Comments URL: https://news.ycombinator.com/item?id=48089289 Points: 373 # Comments: 108",
       "source": "Hacker News",
       "published": "2026-05-10T23:39:55+00:00",
       "link": "https://www.jamesshore.com/v2/blog/2026/you-need-ai-that-reduces-your-maintenance-costs"
@@ -1386,20 +1400,6 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-05-07T12:20:04+00:00",
       "link": "https://techcrunch.com/2026/05/07/spotifys-ai-dj-now-supports-french-german-italian-and-brazilian-portuguese/"
-    },
-    {
-      "title": "The Download: the tech reshaping IVF and the rise of balcony solar",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. What’s next for IVF IVF has brought millions of babies into the world over the last four decades.",
-      "source": "MIT Tech Review",
-      "published": "2026-05-07T12:10:00+00:00",
-      "link": "https://www.technologyreview.com/2026/05/07/1136956/the-download-ivf-tech-balcony-solar/"
-    },
-    {
-      "title": "Google Deepmind takes a stake in EVE Online studio to test AI models",
-      "summary": "Google Deepmind is acquiring a minority stake in the studio behind the space MMO EVE Online and will use the game as a testing ground for AI models. The article Google Deepmind takes a stake in EVE Online studio to test AI models appeared first on The Decoder.",
-      "source": "The Decoder",
-      "published": "2026-05-07T11:15:37+00:00",
-      "link": "https://the-decoder.com/google-deepmind-takes-a-stake-in-eve-online-studio-to-test-ai-models/"
     }
   ]
 };
