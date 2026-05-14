@@ -1,6 +1,20 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-05-14T07:44:22.229301+00:00",
+  "lastUpdated": "2026-05-14T11:06:24.382748+00:00",
   "items": [
+    {
+      "title": "Microsoft's Edge Copilot can now read all your open tabs at once and write for you on LinkedIn",
+      "summary": "Microsoft is upgrading Edge's Copilot AI chatbot so it can read all open tabs at once, compare products, and summarize articles. New additions include long-term memory, a tool that turns tabs into AI podcasts, and a quiz mode.",
+      "source": "The Decoder",
+      "published": "2026-05-14T08:19:04+00:00",
+      "link": "https://the-decoder.com/microsofts-edge-copilot-can-now-read-all-your-open-tabs-at-once-and-write-for-you-on-linkedin/"
+    },
+    {
+      "title": "Claude subscriptions get separate budgets for programmatic use, billed at full API prices",
+      "summary": "As of June 15, Anthropic is splitting programmatic Claude usage out of the existing subscription quota. Instead, subscribers get a dedicated monthly credit ranging from $20 to $200 depending on their plan.",
+      "source": "The Decoder",
+      "published": "2026-05-14T07:54:03+00:00",
+      "link": "https://the-decoder.com/claude-subscriptions-get-separate-budgets-for-programmatic-use-billed-at-full-api-prices/"
+    },
     {
       "title": "Who decides what AI tells you? Campbell Brown, once Meta’s news chief, has thoughts",
       "summary": "\"The conversation is sort of happening in Silicon Valley around one thing, and a totally different conversation is happening among consumers.\"",
@@ -16,8 +30,15 @@ const FEED_DATA = {
       "link": "https://techcrunch.com/2026/05/13/clios-500m-milestone-arrives-just-as-anthropic-ups-the-ante/"
     },
     {
+      "title": "Arena AI Model ELO History",
+      "summary": "Hi HN,I built a live tracker to visualize the lifecycle and performance changes of flagship AI models.We've all experienced the phenomenon where a flagship model feels amazing at launch, but weeks later, it suddenly feels a bit off.",
+      "source": "Hacker News",
+      "published": "2026-05-14T03:19:05+00:00",
+      "link": "https://mayerwin.github.io/AI-Arena-History/"
+    },
+    {
       "title": "The other half of AI safety",
-      "summary": "Article URL: https://personalaisafety.com/p/the-other-half-of-ai-safety Comments URL: https://news.ycombinator.com/item?id=48129561 Points: 73 # Comments: 92",
+      "summary": "Article URL: https://personalaisafety.com/p/the-other-half-of-ai-safety Comments URL: https://news.ycombinator.com/item?id=48129561 Points: 82 # Comments: 106",
       "source": "Hacker News",
       "published": "2026-05-14T00:27:20+00:00",
       "link": "https://personalaisafety.com/p/the-other-half-of-ai-safety"
@@ -45,7 +66,7 @@ const FEED_DATA = {
     },
     {
       "title": "Medicare's new payment model is built for AI. Most of the tech world has no idea",
-      "summary": "Article URL: https://techcrunch.com/2026/05/12/medicares-new-payment-model-is-built-for-ai-and-most-of-the-tech-world-has-no-idea/ Comments URL: https://news.ycombinator.com/item?id=48127815 Points: 73 # Comments: 51",
+      "summary": "Article URL: https://techcrunch.com/2026/05/12/medicares-new-payment-model-is-built-for-ai-and-most-of-the-tech-world-has-no-idea/ Comments URL: https://news.ycombinator.com/item?id=48127815 Points: 76 # Comments: 51",
       "source": "Hacker News",
       "published": "2026-05-13T21:24:14+00:00",
       "link": "https://techcrunch.com/2026/05/12/medicares-new-payment-model-is-built-for-ai-and-most-of-the-tech-world-has-no-idea/"
@@ -142,6 +163,13 @@ const FEED_DATA = {
       "link": "https://techcrunch.com/2026/05/13/origin-lab-raises-8m-to-help-video-game-companies-sell-data-to-world-model-builders/"
     },
     {
+      "title": "U.S. intelligence shows Iran retains substantial missile capabilities",
+      "summary": "Article URL: https://www.nytimes.com/2026/05/12/us/politics/iran-missiles-us-intelligence.html Comments URL: https://news.ycombinator.com/item?id=48123900 Points: 51 # Comments: 29",
+      "source": "Hacker News",
+      "published": "2026-05-13T16:15:09+00:00",
+      "link": "https://www.nytimes.com/2026/05/12/us/politics/iran-missiles-us-intelligence.html"
+    },
+    {
       "title": "Anthropic courts a new kind of customer: small business owners",
       "summary": "For founders and investors, Anthropic's new offering signals that the AI platform wars are expanding downmarket and that the next major battleground for user acquisition isn't the Fortune 500; it's the 36 million small businesses that make up the backbone of the U.S. economy.",
       "source": "TechCrunch",
@@ -171,7 +199,7 @@ const FEED_DATA = {
     },
     {
       "title": "The AI Backlash Could Get Ugly",
-      "summary": "Article URL: https://www.theatlantic.com/technology/2026/05/ai-backlash-data-centers-political-violence/687151/ Comments URL: https://news.ycombinator.com/item?id=48122624 Points: 74 # Comments: 157",
+      "summary": "Article URL: https://www.theatlantic.com/technology/2026/05/ai-backlash-data-centers-political-violence/687151/ Comments URL: https://news.ycombinator.com/item?id=48122624 Points: 77 # Comments: 166",
       "source": "Hacker News",
       "published": "2026-05-13T14:44:41+00:00",
       "link": "https://www.theatlantic.com/technology/2026/05/ai-backlash-data-centers-political-violence/687151/"
@@ -199,7 +227,7 @@ const FEED_DATA = {
     },
     {
       "title": "The US is winning the AI race where it matters most: commercialization",
-      "summary": "Article URL: https://avkcode.github.io/blog/us-winning-ai-race.html Comments URL: https://news.ycombinator.com/item?id=48121929 Points: 193 # Comments: 521",
+      "summary": "Article URL: https://avkcode.github.io/blog/us-winning-ai-race.html Comments URL: https://news.ycombinator.com/item?id=48121929 Points: 205 # Comments: 556",
       "source": "Hacker News",
       "published": "2026-05-13T13:53:53+00:00",
       "link": "https://avkcode.github.io/blog/us-winning-ai-race.html"
@@ -220,7 +248,7 @@ const FEED_DATA = {
     },
     {
       "title": "Software Developers Say AI Is Rotting Their Brains",
-      "summary": "Article URL: https://www.404media.co/software-developers-say-ai-is-rotting-their-brains/ Comments URL: https://news.ycombinator.com/item?id=48121717 Points: 90 # Comments: 108",
+      "summary": "Article URL: https://www.404media.co/software-developers-say-ai-is-rotting-their-brains/ Comments URL: https://news.ycombinator.com/item?id=48121717 Points: 94 # Comments: 108",
       "source": "Hacker News",
       "published": "2026-05-13T13:34:51+00:00",
       "link": "https://www.404media.co/software-developers-say-ai-is-rotting-their-brains/"
@@ -360,7 +388,7 @@ const FEED_DATA = {
     },
     {
       "title": "Reimagining the mouse pointer for the AI era",
-      "summary": "Article URL: https://deepmind.google/blog/ai-pointer/ Comments URL: https://news.ycombinator.com/item?id=48111581 Points: 246 # Comments: 212",
+      "summary": "Article URL: https://deepmind.google/blog/ai-pointer/ Comments URL: https://news.ycombinator.com/item?id=48111581 Points: 247 # Comments: 212",
       "source": "Hacker News",
       "published": "2026-05-12T17:40:13+00:00",
       "link": "https://deepmind.google/blog/ai-pointer/"
@@ -465,7 +493,7 @@ const FEED_DATA = {
     },
     {
       "title": "Amazon employees are \"tokenmaxxing\" due to pressure to use AI tools",
-      "summary": "Article URL: https://arstechnica.com/ai/2026/05/amazon-employees-are-tokenmaxxing-due-to-pressure-to-use-ai-tools/ Comments URL: https://news.ycombinator.com/item?id=48110529 Points: 246 # Comments: 246",
+      "summary": "Article URL: https://arstechnica.com/ai/2026/05/amazon-employees-are-tokenmaxxing-due-to-pressure-to-use-ai-tools/ Comments URL: https://news.ycombinator.com/item?id=48110529 Points: 246 # Comments: 248",
       "source": "Hacker News",
       "published": "2026-05-12T16:29:21+00:00",
       "link": "https://arstechnica.com/ai/2026/05/amazon-employees-are-tokenmaxxing-due-to-pressure-to-use-ai-tools/"
@@ -647,14 +675,14 @@ const FEED_DATA = {
     },
     {
       "title": "I let AI build a tool to help me figure out what was waking me up at night",
-      "summary": "Article URL: https://martin.sh/i-let-ai-build-a-tool-to-help-me-figure-out-what-was-waking-me-up-at-night/ Comments URL: https://news.ycombinator.com/item?id=48100662 Points: 269 # Comments: 281",
+      "summary": "Article URL: https://martin.sh/i-let-ai-build-a-tool-to-help-me-figure-out-what-was-waking-me-up-at-night/ Comments URL: https://news.ycombinator.com/item?id=48100662 Points: 270 # Comments: 282",
       "source": "Hacker News",
       "published": "2026-05-11T21:04:10+00:00",
       "link": "https://martin.sh/i-let-ai-build-a-tool-to-help-me-figure-out-what-was-waking-me-up-at-night/"
     },
     {
       "title": "If AI writes your code, why use Python?",
-      "summary": "Article URL: https://medium.com/@NMitchem/if-ai-writes-your-code-why-use-python-bf8c4ba1a055 Comments URL: https://news.ycombinator.com/item?id=48100433 Points: 905 # Comments: 961",
+      "summary": "Article URL: https://medium.com/@NMitchem/if-ai-writes-your-code-why-use-python-bf8c4ba1a055 Comments URL: https://news.ycombinator.com/item?id=48100433 Points: 906 # Comments: 962",
       "source": "Hacker News",
       "published": "2026-05-11T20:45:55+00:00",
       "link": "https://medium.com/@NMitchem/if-ai-writes-your-code-why-use-python-bf8c4ba1a055"
@@ -696,7 +724,7 @@ const FEED_DATA = {
     },
     {
       "title": "Students boo commencement speaker after she calls AI next industrial revolution",
-      "summary": "Article URL: https://www.404media.co/ucf-ai-commencement-speaker-booed/ Comments URL: https://news.ycombinator.com/item?id=48096674 Points: 173 # Comments: 214",
+      "summary": "Article URL: https://www.404media.co/ucf-ai-commencement-speaker-booed/ Comments URL: https://news.ycombinator.com/item?id=48096674 Points: 174 # Comments: 214",
       "source": "Hacker News",
       "published": "2026-05-11T15:53:23+00:00",
       "link": "https://www.404media.co/ucf-ai-commencement-speaker-booed/"
@@ -787,7 +815,7 @@ const FEED_DATA = {
     },
     {
       "title": "What a Japanese cooking principle taught me about overcoming AI fatigue",
-      "summary": "Article URL: https://www.devas.life/what-a-japanese-cooking-principle-taught-me-about-overcoming-ai-fatigue/ Comments URL: https://news.ycombinator.com/item?id=48093466 Points: 87 # Comments: 4",
+      "summary": "Article URL: https://www.devas.life/what-a-japanese-cooking-principle-taught-me-about-overcoming-ai-fatigue/ Comments URL: https://news.ycombinator.com/item?id=48093466 Points: 88 # Comments: 4",
       "source": "Hacker News",
       "published": "2026-05-11T11:07:10+00:00",
       "link": "https://www.devas.life/what-a-japanese-cooking-principle-taught-me-about-overcoming-ai-fatigue/"
@@ -1372,34 +1400,6 @@ const FEED_DATA = {
       "source": "The Verge",
       "published": "2026-05-07T14:15:40+00:00",
       "link": "https://www.theverge.com/entertainment/925916/save-to-spotify-ai-podcasts"
-    },
-    {
-      "title": "How Anthropic's 80x growth blew past its own infrastructure and straight into Musk's data center",
-      "summary": "Anthropic is set to tap into Elon Musk's Colossus 1 supercomputer. Behind the surprise deal lie a compute crunch, a looming IPO, and a remarkable about-face by Musk.",
-      "source": "The Decoder",
-      "published": "2026-05-07T14:09:49+00:00",
-      "link": "https://the-decoder.com/how-anthropics-80x-growth-blew-past-its-own-infrastructure-and-straight-into-musks-data-center/"
-    },
-    {
-      "title": "Google’s taking a big swing at AI health with the Fitbit Air",
-      "summary": "It's a Whoop dupe. That was my first thought when I saw the new $99 Google Fitbit Air.",
-      "source": "The Verge",
-      "published": "2026-05-07T14:00:00+00:00",
-      "link": "https://www.theverge.com/gadgets/925458/google-health-fitbit-air-ai-coaching-wearables-fitness-trackers"
-    },
-    {
-      "title": "China’s Moonshot AI raises $2B at $20B valuation as demand for open source AI skyrockets",
-      "summary": "Moonshot's annualized recurring revenue topped $200 million in April, driven by rapid growth in paid subscriptions and API usage.",
-      "source": "TechCrunch",
-      "published": "2026-05-07T13:44:25+00:00",
-      "link": "https://techcrunch.com/2026/05/07/chinas-moonshot-ai-raises-2b-at-20b-valuation-as-demand-for-open-source-ai-skyrockets/"
-    },
-    {
-      "title": "Spotify wants to become the home for AI-generated personal audio",
-      "summary": "Users will be able to create a podcast from Codex or Claude Code and import it to Spotify.",
-      "source": "TechCrunch",
-      "published": "2026-05-07T13:00:00+00:00",
-      "link": "https://techcrunch.com/2026/05/07/spotify-wants-to-become-the-home-for-ai-generated-personal-audio/"
     }
   ]
 };
