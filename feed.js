@@ -1,6 +1,69 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-05-15T11:10:04.223715+00:00",
+  "lastUpdated": "2026-05-15T15:19:12.703606+00:00",
   "items": [
+    {
+      "title": "Deloitte: Scale ‘autonomous intelligence’ for real growth",
+      "summary": "Enterprise leaders must progress past generative applications and scale “autonomous intelligence” to capture real P&L margin growth.",
+      "source": "AI News",
+      "published": "2026-05-15T15:02:00+00:00",
+      "link": "https://www.artificialintelligence-news.com/news/deloitte-scale-autonomous-intelligence-for-real-growth/"
+    },
+    {
+      "title": "Runway started by helping filmmakers. Now it wants to beat Google at AI.",
+      "summary": "AI video generation startup Runway is betting that video generation is the path to world models. And that being an AI outsider is an advantage, not a liability.",
+      "source": "TechCrunch",
+      "published": "2026-05-15T14:00:00+00:00",
+      "link": "https://techcrunch.com/2026/05/15/runway-started-by-helping-filmmakers-now-it-wants-to-beat-google-at-ai/"
+    },
+    {
+      "title": "x.AI plays catch-up with Grok Build, its first terminal-based coding agent",
+      "summary": "Elon Musk's AI company x.AI is jumping into the coding agent space with Grok Build, a new terminal-based tool. The article x.AI plays catch-up with Grok Build, its first terminal-based coding agent appeared first on The Decoder.",
+      "source": "The Decoder",
+      "published": "2026-05-15T13:58:14+00:00",
+      "link": "https://the-decoder.com/x-ai-plays-catch-up-with-grok-build-its-first-terminal-based-coding-agent/"
+    },
+    {
+      "title": "The Wonders of AI: We Are Retiring Our Bug Bounty Program",
+      "summary": "Article URL: https://turso.tech/blog/the-wonders-of-ai Comments URL: https://news.ycombinator.com/item?id=48148391 Points: 172 # Comments: 107",
+      "source": "Hacker News",
+      "published": "2026-05-15T13:33:15+00:00",
+      "link": "https://turso.tech/blog/the-wonders-of-ai"
+    },
+    {
+      "title": "Amazon workers under pressure to up their AI usage–so they're making up tasks",
+      "summary": "Article URL: https://www.fastcompany.com/91541586/amazon-workers-pressured-to-up-ai-use-extraneous-tasks Comments URL: https://news.ycombinator.com/item?id=48148337 Points: 65 # Comments: 41",
+      "source": "Hacker News",
+      "published": "2026-05-15T13:28:55+00:00",
+      "link": "https://www.fastcompany.com/91541586/amazon-workers-pressured-to-up-ai-use-extraneous-tasks"
+    },
+    {
+      "title": "Microsoft pulls Claude Code licenses and pushes developers back toward its own AI tool",
+      "summary": "Thousands of Microsoft developers used Anthropic's Claude Code for programming. Now the company is revoking licenses and betting on GitHub Copilot CLI.",
+      "source": "The Decoder",
+      "published": "2026-05-15T12:39:55+00:00",
+      "link": "https://the-decoder.com/microsoft-pulls-claude-code-licenses-and-pushes-developers-back-toward-its-own-ai-tool/"
+    },
+    {
+      "title": "Osaurus brings both local and cloud AI models to your Mac",
+      "summary": "Osaurus￼ combines local and cloud AI models in a Mac app that keeps users’ memory, files, and tools on their own hardware.",
+      "source": "TechCrunch",
+      "published": "2026-05-15T12:19:48+00:00",
+      "link": "https://techcrunch.com/2026/05/15/osaurus-brings-both-local-and-cloud-ai-models-to-your-mac/"
+    },
+    {
+      "title": "Arxiv cracks down on unchecked AI-generated content in research papers",
+      "summary": "Arxiv, the influential preprint server where researchers worldwide publish their work before formal peer review, is tightening its rules on AI-generated content. The article Arxiv cracks down on unchecked AI-generated content in research papers appeared first on The Decoder.",
+      "source": "The Decoder",
+      "published": "2026-05-15T12:15:27+00:00",
+      "link": "https://the-decoder.com/arxiv-tightens-penalties-for-ai-bungling-in-scientific-papers/"
+    },
+    {
+      "title": "The Download: China’s AI drama factory and the WHO’s missing health targets",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.",
+      "source": "MIT Tech Review",
+      "published": "2026-05-15T12:10:00+00:00",
+      "link": "https://www.technologyreview.com/2026/05/15/1137341/the-download-china-short-drama-ai-who-health-targets/"
+    },
     {
       "title": "AI research papers are getting better, and it’s a big problem for scientists",
       "summary": "Last summer, Peter Degen's postdoctoral supervisor came to him with an unusual problem: One of his papers was being cited too much. Citations are the currency of academia, but there was something unusual about these.",
@@ -17,10 +80,17 @@ const FEED_DATA = {
     },
     {
       "title": "UK sovereign LLM inference",
-      "summary": "Article URL: https://relax.ai/docs Comments URL: https://news.ycombinator.com/item?id=48146424 Points: 59 # Comments: 52",
+      "summary": "Article URL: https://relax.ai/docs Comments URL: https://news.ycombinator.com/item?id=48146424 Points: 95 # Comments: 106",
       "source": "Hacker News",
       "published": "2026-05-15T09:27:26+00:00",
       "link": "https://relax.ai/docs"
+    },
+    {
+      "title": "Show HN: Find the best local LLM for your hardware, ranked by benchmarks",
+      "summary": "Article URL: https://github.com/Andyyyy64/whichllm Comments URL: https://news.ycombinator.com/item?id=48146369 Points: 256 # Comments: 52",
+      "source": "Hacker News",
+      "published": "2026-05-15T09:19:24+00:00",
+      "link": "https://github.com/Andyyyy64/whichllm"
     },
     {
       "title": "How Chinese short dramas became AI content machines",
@@ -44,8 +114,15 @@ const FEED_DATA = {
       "link": "https://the-decoder.com/openai-makes-its-ai-coding-assistant-codex-available-on-ios-and-android/"
     },
     {
+      "title": "Show HN: GlycemicGPT – Open-source AI-powered diabetes management",
+      "summary": "I'm a Type 1 diabetic and software engineer. Last year I went months between endocrinologists with no clinician reviewing my data.",
+      "source": "Hacker News",
+      "published": "2026-05-15T04:48:23+00:00",
+      "link": "https://github.com/GlycemicGPT/GlycemicGPT"
+    },
+    {
       "title": "Access to frontier AI will soon be limited by economic and security constraints",
-      "summary": "Article URL: https://writing.antonleicht.me/p/cut-off Comments URL: https://news.ycombinator.com/item?id=48143284 Points: 166 # Comments: 157",
+      "summary": "Article URL: https://writing.antonleicht.me/p/cut-off Comments URL: https://news.ycombinator.com/item?id=48143284 Points: 190 # Comments: 191",
       "source": "Hacker News",
       "published": "2026-05-15T01:08:04+00:00",
       "link": "https://writing.antonleicht.me/p/cut-off"
@@ -59,21 +136,21 @@ const FEED_DATA = {
     },
     {
       "title": "LLM Policy for Rust Compiler",
-      "summary": "Article URL: https://github.com/rust-lang/rust-forge/pull/1040 Comments URL: https://news.ycombinator.com/item?id=48142650 Points: 86 # Comments: 51",
+      "summary": "Article URL: https://github.com/rust-lang/rust-forge/pull/1040 Comments URL: https://news.ycombinator.com/item?id=48142650 Points: 94 # Comments: 72",
       "source": "Hacker News",
       "published": "2026-05-14T23:37:21+00:00",
       "link": "https://github.com/rust-lang/rust-forge/pull/1040"
     },
     {
       "title": "Have a Coherent AI Policy",
-      "summary": "Article URL: https://brianmeeker.me/2026/05/14/have-a-coherent-ai-policy/ Comments URL: https://news.ycombinator.com/item?id=48142553 Points: 66 # Comments: 60",
+      "summary": "Article URL: https://brianmeeker.me/2026/05/14/have-a-coherent-ai-policy/ Comments URL: https://news.ycombinator.com/item?id=48142553 Points: 68 # Comments: 60",
       "source": "Hacker News",
       "published": "2026-05-14T23:24:45+00:00",
       "link": "https://brianmeeker.me/2026/05/14/have-a-coherent-ai-policy/"
     },
     {
       "title": "Ontario auditors find doctors' AI note takers routinely blow basic facts",
-      "summary": "Article URL: https://www.theregister.com/ai-ml/2026/05/14/ontario-auditors-find-doctors-ai-note-takers-routinely-blow-basic-facts/5240771 Comments URL: https://news.ycombinator.com/item?id=48142188 Points: 243 # Comments: 114",
+      "summary": "Article URL: https://www.theregister.com/ai-ml/2026/05/14/ontario-auditors-find-doctors-ai-note-takers-routinely-blow-basic-facts/5240771 Comments URL: https://news.ycombinator.com/item?id=48142188 Points: 264 # Comments: 125",
       "source": "Hacker News",
       "published": "2026-05-14T22:37:40+00:00",
       "link": "https://www.theregister.com/ai-ml/2026/05/14/ontario-auditors-find-doctors-ai-note-takers-routinely-blow-basic-facts/5240771"
@@ -143,21 +220,21 @@ const FEED_DATA = {
     },
     {
       "title": "The AI zombification of universities",
-      "summary": "Article URL: https://www.thenewcritic.com/p/the-great-zombification Comments URL: https://news.ycombinator.com/item?id=48139355 Points: 185 # Comments: 190",
+      "summary": "Article URL: https://www.thenewcritic.com/p/the-great-zombification Comments URL: https://news.ycombinator.com/item?id=48139355 Points: 187 # Comments: 199",
       "source": "Hacker News",
       "published": "2026-05-14T18:37:08+00:00",
       "link": "https://www.thenewcritic.com/p/the-great-zombification"
     },
     {
       "title": "AI is making me dumb",
-      "summary": "Article URL: https://jpain.io/god-damn-ai-is-making-me-dumb/ Comments URL: https://news.ycombinator.com/item?id=48139148 Points: 492 # Comments: 292",
+      "summary": "Article URL: https://jpain.io/god-damn-ai-is-making-me-dumb/ Comments URL: https://news.ycombinator.com/item?id=48139148 Points: 514 # Comments: 297",
       "source": "Hacker News",
       "published": "2026-05-14T18:19:28+00:00",
       "link": "https://jpain.io/god-damn-ai-is-making-me-dumb/"
     },
     {
       "title": "The people writing AI alignment policy are not whose work is being replaced",
-      "summary": "Article URL: https://danieltan.weblog.lol/2026/05/you-dont-align-an-ai-you-align-with-it Comments URL: https://news.ycombinator.com/item?id=48139144 Points: 90 # Comments: 57",
+      "summary": "Article URL: https://danieltan.weblog.lol/2026/05/you-dont-align-an-ai-you-align-with-it Comments URL: https://news.ycombinator.com/item?id=48139144 Points: 90 # Comments: 61",
       "source": "Hacker News",
       "published": "2026-05-14T18:19:13+00:00",
       "link": "https://danieltan.weblog.lol/2026/05/you-dont-align-an-ai-you-align-with-it"
@@ -360,7 +437,7 @@ const FEED_DATA = {
     },
     {
       "title": "The other half of AI safety",
-      "summary": "Article URL: https://personalaisafety.com/p/the-other-half-of-ai-safety Comments URL: https://news.ycombinator.com/item?id=48129561 Points: 97 # Comments: 129",
+      "summary": "Article URL: https://personalaisafety.com/p/the-other-half-of-ai-safety Comments URL: https://news.ycombinator.com/item?id=48129561 Points: 97 # Comments: 130",
       "source": "Hacker News",
       "published": "2026-05-14T00:27:20+00:00",
       "link": "https://personalaisafety.com/p/the-other-half-of-ai-safety"
@@ -1323,83 +1400,6 @@ const FEED_DATA = {
       "source": "Hacker News",
       "published": "2026-05-09T18:33:36+00:00",
       "link": "https://www.nytimes.com/2026/05/08/technology/meta-ai-employees-miserable.html"
-    },
-    {
-      "title": "Nvidia has already committed $40B to equity AI deals this year",
-      "summary": "Nvidia continues to be a big investor in the AI ecosystem.",
-      "source": "TechCrunch",
-      "published": "2026-05-09T14:43:30+00:00",
-      "link": "https://techcrunch.com/2026/05/09/nvidia-has-already-committed-40b-to-equity-ai-deals-this-year/"
-    },
-    {
-      "title": "Fields Medalist says ChatGPT 5.5 Pro delivered \"PhD-level\" math research in under two hours with zero human help",
-      "summary": "Fields Medalist Timothy Gowers had ChatGPT 5.5 Pro tackle open problems in number theory. The model improved an exponential bound to a polynomial one in under an hour.",
-      "source": "The Decoder",
-      "published": "2026-05-09T14:32:14+00:00",
-      "link": "https://the-decoder.com/fields-medalist-says-chatgpt-5-5-pro-delivered-phd-level-math-research-in-under-two-hours-with-zero-human-help/"
-    },
-    {
-      "title": "Broadcom reportedly won't build OpenAI's custom chip unless Microsoft buys 40 percent of them",
-      "summary": "OpenAI's custom AI chip project with Broadcom has hit a funding wall. Broadcom won't finance production unless Microsoft commits to buying 40 percent of the chips, and Microsoft hasn't agreed yet.",
-      "source": "The Decoder",
-      "published": "2026-05-09T10:45:18+00:00",
-      "link": "https://the-decoder.com/broadcom-reportedly-wont-build-openais-custom-chip-unless-microsoft-buys-40-percent-of-them/"
-    },
-    {
-      "title": "Google's \"Preferred Sources\" feature is a free pass for more garbage in search",
-      "summary": "Google frames \"Preferred Sources\" as a way to bring more quality journalism into search. In practice, it shifts responsibility to a manual setting almost no one will use.",
-      "source": "The Decoder",
-      "published": "2026-05-09T10:29:00+00:00",
-      "link": "https://the-decoder.com/googles-preferred-sources-feature-is-a-free-pass-for-more-garbage-in-search/"
-    },
-    {
-      "title": "All my clients wanted a carousel, now it's an AI chatbot",
-      "summary": "Article URL: https://adele.pages.casa/md/blog/all-my-clients-wanted-a-carousel-now-it-s-an-ai-chatbot.md Comments URL: https://news.ycombinator.com/item?id=48072720 Points: 189 # Comments: 78",
-      "source": "Hacker News",
-      "published": "2026-05-09T07:23:40+00:00",
-      "link": "https://adele.pages.casa/md/blog/all-my-clients-wanted-a-carousel-now-it-s-an-ai-chatbot.md"
-    },
-    {
-      "title": "Pseudoscientific emotion AI is invading the workplace, an Atlantic report shows",
-      "summary": "Software that claims to read human emotions using AI is quietly becoming a fixture of everyday work life, Ellen Cushing reports in a feature for The Atlantic.",
-      "source": "The Decoder",
-      "published": "2026-05-09T07:20:09+00:00",
-      "link": "https://the-decoder.com/pseudoscientific-emotion-ai-is-invading-the-workplace-an-atlantic-report-shows/"
-    },
-    {
-      "title": "I Will Never Use AI to Code",
-      "summary": "Article URL: https://antman-does-software.com/i-will-never-use-ai-to-code-or-write Comments URL: https://news.ycombinator.com/item?id=48072319 Points: 68 # Comments: 87",
-      "source": "Hacker News",
-      "published": "2026-05-09T06:14:20+00:00",
-      "link": "https://antman-does-software.com/i-will-never-use-ai-to-code-or-write"
-    },
-    {
-      "title": "People Hate AI Art",
-      "summary": "Article URL: https://mccue.dev/pages/5-8-26-ai-art Comments URL: https://news.ycombinator.com/item?id=48070548 Points: 151 # Comments: 173",
-      "source": "Hacker News",
-      "published": "2026-05-09T00:39:58+00:00",
-      "link": "https://mccue.dev/pages/5-8-26-ai-art"
-    },
-    {
-      "title": "Musk v. Altman week 2: OpenAI fires back, and Shivon Zilis reveals that Musk tried to poach Sam Altman",
-      "summary": "In the second week of the landmark trial between Elon Musk and OpenAI, Musk’s motivations for bringing the suit were under scrutiny.",
-      "source": "MIT Tech Review",
-      "published": "2026-05-08T23:59:19+00:00",
-      "link": "https://www.technologyreview.com/2026/05/08/1137008/musk-v-altman-week-2-openai-fires-back-and-shivon-zilis-reveals-that-musk-tried-to-poach-sam-altman/"
-    },
-    {
-      "title": "Laid-off Oracle workers tried to negotiate better severance. Oracle said no.",
-      "summary": "Some found out they didn't qualify for WARN Act protections like two-months notice because the company had classified them as remote workers.",
-      "source": "TechCrunch",
-      "published": "2026-05-08T22:59:05+00:00",
-      "link": "https://techcrunch.com/2026/05/08/laid-off-oracle-workers-tried-to-negotiate-better-severance-oracle-said-no/"
-    },
-    {
-      "title": "All the latest updates on AI data centers",
-      "summary": "Massive new data centers are the physical foundation for tech companies’ hopes and dreams for AI.",
-      "source": "The Verge",
-      "published": "2026-05-08T18:45:08+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/902546/data-centers-ai-energy-power-grids-controversy"
     }
   ]
 };
