@@ -1,12 +1,75 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-05-15T15:19:12.703606+00:00",
+  "lastUpdated": "2026-05-15T18:17:54.089529+00:00",
   "items": [
     {
+      "title": "Silicon Valley’s vacationland needs a new energy provider just as AI is driving prices up",
+      "summary": "Lake Tahoe, Silicon Valley's favorite ski spot, is about to get hit with higher energy prices as AI drives demand for electricity.",
+      "source": "TechCrunch",
+      "published": "2026-05-15T18:14:44+00:00",
+      "link": "https://techcrunch.com/2026/05/15/silicon-valleys-vacationland-needs-a-new-energy-provider-just-as-ai-is-driving-prices-up/"
+    },
+    {
+      "title": "ChatGPT now wants access to your bank account so it can tell you to stop ordering takeout",
+      "summary": "OpenAI is turning ChatGPT into a personal financial assistant. Pro users in the US can now connect their bank accounts through Plaid to get personalized analysis based on real transaction data.",
+      "source": "The Decoder",
+      "published": "2026-05-15T17:43:49+00:00",
+      "link": "https://the-decoder.com/chatgpt-now-wants-access-to-your-bank-account-so-it-can-tell-you-to-stop-ordering-takeout/"
+    },
+    {
+      "title": "Greg Brockman Officially Takes Control of OpenAI’s Products in Latest Shake-Up",
+      "summary": "OpenAI is once again reorganizing its executive ranks as part of its effort to unify ChatGPT and Codex into one core product experience.",
+      "source": "Wired",
+      "published": "2026-05-15T17:09:17+00:00",
+      "link": "https://www.wired.com/story/openai-reorg-greg-brockman-product/"
+    },
+    {
+      "title": "AI radio hosts demonstrate why AI can’t be trusted alone",
+      "summary": "Andon Labs has been running a series of experiments in which AI agents run businesses without human intervention. Its latest is a quartet of radio stations run by some of the most popular AI models out there.",
+      "source": "The Verge",
+      "published": "2026-05-15T17:09:16+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/931479/andon-labs-ai-radio-companies"
+    },
+    {
+      "title": "Anthropic's $900 billion valuation would make it more valuable than OpenAI for the first time",
+      "summary": "Anthropic is raising another $30 billion just three months after a round of the same size. The AI lab's valuation jumps to $900 billion, surpassing rival OpenAI for the first time.",
+      "source": "The Decoder",
+      "published": "2026-05-15T16:49:05+00:00",
+      "link": "https://the-decoder.com/anthropics-900-billion-valuation-would-make-it-more-valuable-than-openai-for-the-first-time/"
+    },
+    {
+      "title": "Google updates its spam rules to include attempts to ‘manipulate’ AI",
+      "summary": "Google updated its spam policy to mark attempts to \"manipulate\" its AI model in search results as spam, including results in AI Overview or AI Mode in Search, as Search Engine Land reports: \"In the context of Google Search, spam refers to techniques used to deceive users or...",
+      "source": "The Verge",
+      "published": "2026-05-15T16:42:59+00:00",
+      "link": "https://www.theverge.com/tech/931416/google-ai-search-spam-policy"
+    },
+    {
+      "title": "OpenAI launches ChatGPT for personal finance, will let you connect bank accounts",
+      "summary": "Once users connect their accounts, they will see a dashboard of their portfolio performance, spending, subscriptions, and upcoming payments.",
+      "source": "TechCrunch",
+      "published": "2026-05-15T16:00:00+00:00",
+      "link": "https://techcrunch.com/2026/05/15/openai-launches-chatgpt-for-personal-finance-will-let-you-connect-bank-accounts/"
+    },
+    {
+      "title": "OpenAI now wants ChatGPT to access your bank accounts",
+      "summary": "Your trust in AI is about to be put to the test: OpenAI will soon let you give the chatbot direct access to your bank accounts.",
+      "source": "The Verge",
+      "published": "2026-05-15T16:00:00+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/931122/openai-chatgpt-financial-accounts-plaid-connection"
+    },
+    {
       "title": "Deloitte: Scale ‘autonomous intelligence’ for real growth",
-      "summary": "Enterprise leaders must progress past generative applications and scale “autonomous intelligence” to capture real P&L margin growth.",
+      "summary": "Enterprise leaders must progress past generative applications and scale “autonomous intelligence” to capture real growth.",
       "source": "AI News",
       "published": "2026-05-15T15:02:00+00:00",
       "link": "https://www.artificialintelligence-news.com/news/deloitte-scale-autonomous-intelligence-for-real-growth/"
+    },
+    {
+      "title": "Runway started by helping filmmakers — now it wants to beat Google at AI",
+      "summary": "AI video-generation startup Runway is betting that video generation is the path to world models. And that being an AI outsider is an advantage, not a liability.",
+      "source": "TechCrunch",
+      "published": "2026-05-15T14:00:00+00:00",
+      "link": "https://techcrunch.com/2026/05/15/runway-started-by-helping-filmmakers-now-it-wants-to-beat-google-at-ai/"
     },
     {
       "title": "Runway started by helping filmmakers. Now it wants to beat Google at AI.",
@@ -28,6 +91,13 @@ const FEED_DATA = {
       "source": "Hacker News",
       "published": "2026-05-15T13:33:15+00:00",
       "link": "https://turso.tech/blog/the-wonders-of-ai"
+    },
+    {
+      "title": "Amazon workers under pressure to up their AI usage are making up tasks",
+      "summary": "Article URL: https://www.fastcompany.com/91541586/amazon-workers-pressured-to-up-ai-use-extraneous-tasks Comments URL: https://news.ycombinator.com/item?id=48148337 Points: 210 # Comments: 202",
+      "source": "Hacker News",
+      "published": "2026-05-15T13:28:55+00:00",
+      "link": "https://www.fastcompany.com/91541586/amazon-workers-pressured-to-up-ai-use-extraneous-tasks"
     },
     {
       "title": "Amazon workers under pressure to up their AI usage–so they're making up tasks",
@@ -80,14 +150,14 @@ const FEED_DATA = {
     },
     {
       "title": "UK sovereign LLM inference",
-      "summary": "Article URL: https://relax.ai/docs Comments URL: https://news.ycombinator.com/item?id=48146424 Points: 95 # Comments: 106",
+      "summary": "Article URL: https://relax.ai/docs Comments URL: https://news.ycombinator.com/item?id=48146424 Points: 101 # Comments: 108",
       "source": "Hacker News",
       "published": "2026-05-15T09:27:26+00:00",
       "link": "https://relax.ai/docs"
     },
     {
       "title": "Show HN: Find the best local LLM for your hardware, ranked by benchmarks",
-      "summary": "Article URL: https://github.com/Andyyyy64/whichllm Comments URL: https://news.ycombinator.com/item?id=48146369 Points: 256 # Comments: 52",
+      "summary": "Article URL: https://github.com/Andyyyy64/whichllm Comments URL: https://news.ycombinator.com/item?id=48146369 Points: 273 # Comments: 63",
       "source": "Hacker News",
       "published": "2026-05-15T09:19:24+00:00",
       "link": "https://github.com/Andyyyy64/whichllm"
@@ -122,7 +192,7 @@ const FEED_DATA = {
     },
     {
       "title": "Access to frontier AI will soon be limited by economic and security constraints",
-      "summary": "Article URL: https://writing.antonleicht.me/p/cut-off Comments URL: https://news.ycombinator.com/item?id=48143284 Points: 190 # Comments: 191",
+      "summary": "Article URL: https://writing.antonleicht.me/p/cut-off Comments URL: https://news.ycombinator.com/item?id=48143284 Points: 201 # Comments: 199",
       "source": "Hacker News",
       "published": "2026-05-15T01:08:04+00:00",
       "link": "https://writing.antonleicht.me/p/cut-off"
@@ -136,21 +206,21 @@ const FEED_DATA = {
     },
     {
       "title": "LLM Policy for Rust Compiler",
-      "summary": "Article URL: https://github.com/rust-lang/rust-forge/pull/1040 Comments URL: https://news.ycombinator.com/item?id=48142650 Points: 94 # Comments: 72",
+      "summary": "Article URL: https://github.com/rust-lang/rust-forge/pull/1040 Comments URL: https://news.ycombinator.com/item?id=48142650 Points: 95 # Comments: 78",
       "source": "Hacker News",
       "published": "2026-05-14T23:37:21+00:00",
       "link": "https://github.com/rust-lang/rust-forge/pull/1040"
     },
     {
       "title": "Have a Coherent AI Policy",
-      "summary": "Article URL: https://brianmeeker.me/2026/05/14/have-a-coherent-ai-policy/ Comments URL: https://news.ycombinator.com/item?id=48142553 Points: 68 # Comments: 60",
+      "summary": "Article URL: https://brianmeeker.me/2026/05/14/have-a-coherent-ai-policy/ Comments URL: https://news.ycombinator.com/item?id=48142553 Points: 68 # Comments: 61",
       "source": "Hacker News",
       "published": "2026-05-14T23:24:45+00:00",
       "link": "https://brianmeeker.me/2026/05/14/have-a-coherent-ai-policy/"
     },
     {
       "title": "Ontario auditors find doctors' AI note takers routinely blow basic facts",
-      "summary": "Article URL: https://www.theregister.com/ai-ml/2026/05/14/ontario-auditors-find-doctors-ai-note-takers-routinely-blow-basic-facts/5240771 Comments URL: https://news.ycombinator.com/item?id=48142188 Points: 264 # Comments: 125",
+      "summary": "Article URL: https://www.theregister.com/ai-ml/2026/05/14/ontario-auditors-find-doctors-ai-note-takers-routinely-blow-basic-facts/5240771 Comments URL: https://news.ycombinator.com/item?id=48142188 Points: 279 # Comments: 132",
       "source": "Hacker News",
       "published": "2026-05-14T22:37:40+00:00",
       "link": "https://www.theregister.com/ai-ml/2026/05/14/ontario-auditors-find-doctors-ai-note-takers-routinely-blow-basic-facts/5240771"
@@ -220,21 +290,21 @@ const FEED_DATA = {
     },
     {
       "title": "The AI zombification of universities",
-      "summary": "Article URL: https://www.thenewcritic.com/p/the-great-zombification Comments URL: https://news.ycombinator.com/item?id=48139355 Points: 187 # Comments: 199",
+      "summary": "Article URL: https://www.thenewcritic.com/p/the-great-zombification Comments URL: https://news.ycombinator.com/item?id=48139355 Points: 189 # Comments: 205",
       "source": "Hacker News",
       "published": "2026-05-14T18:37:08+00:00",
       "link": "https://www.thenewcritic.com/p/the-great-zombification"
     },
     {
       "title": "AI is making me dumb",
-      "summary": "Article URL: https://jpain.io/god-damn-ai-is-making-me-dumb/ Comments URL: https://news.ycombinator.com/item?id=48139148 Points: 514 # Comments: 297",
+      "summary": "Article URL: https://jpain.io/god-damn-ai-is-making-me-dumb/ Comments URL: https://news.ycombinator.com/item?id=48139148 Points: 522 # Comments: 298",
       "source": "Hacker News",
       "published": "2026-05-14T18:19:28+00:00",
       "link": "https://jpain.io/god-damn-ai-is-making-me-dumb/"
     },
     {
       "title": "The people writing AI alignment policy are not whose work is being replaced",
-      "summary": "Article URL: https://danieltan.weblog.lol/2026/05/you-dont-align-an-ai-you-align-with-it Comments URL: https://news.ycombinator.com/item?id=48139144 Points: 90 # Comments: 61",
+      "summary": "Article URL: https://danieltan.weblog.lol/2026/05/you-dont-align-an-ai-you-align-with-it Comments URL: https://news.ycombinator.com/item?id=48139144 Points: 91 # Comments: 61",
       "source": "Hacker News",
       "published": "2026-05-14T18:19:13+00:00",
       "link": "https://danieltan.weblog.lol/2026/05/you-dont-align-an-ai-you-align-with-it"
@@ -633,7 +703,7 @@ const FEED_DATA = {
     },
     {
       "title": "The US is winning the AI race where it matters most: commercialization",
-      "summary": "Article URL: https://avkcode.github.io/blog/us-winning-ai-race.html Comments URL: https://news.ycombinator.com/item?id=48121929 Points: 233 # Comments: 665",
+      "summary": "Article URL: https://avkcode.github.io/blog/us-winning-ai-race.html Comments URL: https://news.ycombinator.com/item?id=48121929 Points: 236 # Comments: 667",
       "source": "Hacker News",
       "published": "2026-05-13T13:53:53+00:00",
       "link": "https://avkcode.github.io/blog/us-winning-ai-race.html"
@@ -1330,76 +1400,6 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-05-10T10:41:00+00:00",
       "link": "https://the-decoder.com/anthropic-and-openai-sit-down-with-religious-leaders-to-seek-ethical-advice/"
-    },
-    {
-      "title": "ByteDance plans over $30 billion for AI expansion, bets big on Chinese chips",
-      "summary": "ByteDance is raising its planned AI spending for 2026 to over 200 billion yuan (roughly $30 billion), at least a 25 percent jump from earlier plans. The TikTok parent is increasingly turning to Chinese chips.",
-      "source": "The Decoder",
-      "published": "2026-05-10T09:34:02+00:00",
-      "link": "https://the-decoder.com/bytedance-plans-over-30-billion-for-ai-expansion-bets-big-on-chinese-chips/"
-    },
-    {
-      "title": "METR says it can barely measure Claude Mythos, Palo Alto Networks warns of autonomous AI attackers",
-      "summary": "METR can barely measure Claude Mythos Preview with its current test suite. Only five out of 228 tasks cover the relevant capability range.",
-      "source": "The Decoder",
-      "published": "2026-05-10T09:25:22+00:00",
-      "link": "https://the-decoder.com/metr-says-it-can-barely-measure-claude-mythos-palo-alto-networks-warns-of-autonomous-ai-attackers/"
-    },
-    {
-      "title": "GPT-5.5 costs 49 to 92 percent more than its predecessor, depending on the input length",
-      "summary": "OpenAI doubled GPT-5.5's list price compared to GPT-5.4, claiming shorter responses would offset the increase. An OpenRouter analysis of real usage data tells a different story: actual costs rose 49 to 92 percent depending on input length.",
-      "source": "The Decoder",
-      "published": "2026-05-10T08:05:58+00:00",
-      "link": "https://the-decoder.com/gpt-5-5-costs-49-to-92-percent-more-than-its-predecessor-depending-on-the-input-length/"
-    },
-    {
-      "title": "Gen Z Resentment Toward AI Grows as Adoption Stagnates and Workplace Fears Mount",
-      "summary": "Article URL: https://www.waltonfamilyfoundation.org/about-us/newsroom/gen-z-resentment-toward-ai-grows-as-adoption-stagnates-and-workplace-fears-mount Comments URL: https://news.ycombinator.com/item?id=48081942 Points: 97 # Comments: 160",
-      "source": "Hacker News",
-      "published": "2026-05-10T08:03:15+00:00",
-      "link": "https://www.waltonfamilyfoundation.org/about-us/newsroom/gen-z-resentment-toward-ai-grows-as-adoption-stagnates-and-workplace-fears-mount"
-    },
-    {
-      "title": "Researchers may have found a way to stop AI models from intentionally playing dumb during safety evaluations",
-      "summary": "A study by researchers from the MATS program, Redwood Research, the University of Oxford, and Anthropic examines a safety problem that grows more pressing as AI systems become more capable: \"sandbagging,\" where a model deliberately hides its true abilities and delivers work that...",
-      "source": "The Decoder",
-      "published": "2026-05-10T07:38:34+00:00",
-      "link": "https://the-decoder.com/researchers-may-have-found-a-way-to-stop-ai-models-from-intentionally-playing-dumb-during-safety-evaluations/"
-    },
-    {
-      "title": "Task Paralysis and AI",
-      "summary": "Article URL: https://g5t.de/articles/20260510-task-paralysis-and-ai/index.html Comments URL: https://news.ycombinator.com/item?id=48081469 Points: 257 # Comments: 129",
-      "source": "Hacker News",
-      "published": "2026-05-10T06:20:50+00:00",
-      "link": "https://g5t.de/articles/20260510-task-paralysis-and-ai/index.html"
-    },
-    {
-      "title": "Voice AI in India is hard — Wispr Flow is betting on it anyway",
-      "summary": "Wispr Flow says growth accelerated in India after its Hinglish rollout, even as voice AI products continue to face challenges.",
-      "source": "TechCrunch",
-      "published": "2026-05-10T02:00:00+00:00",
-      "link": "https://techcrunch.com/2026/05/09/voice-ai-in-india-is-hard-wispr-flow-is-betting-on-it-anyway/"
-    },
-    {
-      "title": "Voice AI in India is hard. Wispr Flow is betting on it anyway.",
-      "summary": "Wispr Flow says growth accelerated in India after its Hinglish rollout, even as voice AI products continue to face challenges.",
-      "source": "TechCrunch",
-      "published": "2026-05-10T02:00:00+00:00",
-      "link": "https://techcrunch.com/2026/05/09/voice-ai-in-india-is-hard-wispr-flow-is-betting-on-it-anyway/"
-    },
-    {
-      "title": "So you’ve heard these AI terms and nodded along; let’s fix that",
-      "summary": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.",
-      "source": "TechCrunch",
-      "published": "2026-05-09T21:45:00+00:00",
-      "link": "https://techcrunch.com/2026/05/09/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/"
-    },
-    {
-      "title": "Meta's embrace of AI is making its employees miserable",
-      "summary": "Article URL: https://www.nytimes.com/2026/05/08/technology/meta-ai-employees-miserable.html Comments URL: https://news.ycombinator.com/item?id=48077126 Points: 457 # Comments: 525",
-      "source": "Hacker News",
-      "published": "2026-05-09T18:33:36+00:00",
-      "link": "https://www.nytimes.com/2026/05/08/technology/meta-ai-employees-miserable.html"
     }
   ]
 };
