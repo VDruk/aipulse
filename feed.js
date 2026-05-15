@@ -1,6 +1,27 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-05-14T22:03:33.393122+00:00",
+  "lastUpdated": "2026-05-15T04:49:18.684319+00:00",
   "items": [
+    {
+      "title": "The Real Losers of the Musk v. Altman Trial",
+      "summary": "A federal jury is now deciding whether Elon Musk will win his lawsuit against OpenAI and Sam Altman—but the trial has made everyone look bad.",
+      "source": "Wired",
+      "published": "2026-05-15T00:49:53+00:00",
+      "link": "https://www.wired.com/story/musk-v-altman-trial-closing-arguments/"
+    },
+    {
+      "title": "Have a Coherent AI Policy",
+      "summary": "Article URL: https://brianmeeker.me/2026/05/14/have-a-coherent-ai-policy/ Comments URL: https://news.ycombinator.com/item?id=48142553 Points: 61 # Comments: 54",
+      "source": "Hacker News",
+      "published": "2026-05-14T23:24:45+00:00",
+      "link": "https://brianmeeker.me/2026/05/14/have-a-coherent-ai-policy/"
+    },
+    {
+      "title": "Ontario auditors find doctors' AI note takers routinely blow basic facts",
+      "summary": "Article URL: https://www.theregister.com/ai-ml/2026/05/14/ontario-auditors-find-doctors-ai-note-takers-routinely-blow-basic-facts/5240771 Comments URL: https://news.ycombinator.com/item?id=48142188 Points: 169 # Comments: 75",
+      "source": "Hacker News",
+      "published": "2026-05-14T22:37:40+00:00",
+      "link": "https://www.theregister.com/ai-ml/2026/05/14/ontario-auditors-find-doctors-ai-note-takers-routinely-blow-basic-facts/5240771"
+    },
     {
       "title": "Elon Musk’s SpaceXAI has been bleeding staff since its merger",
       "summary": "More than 50 employees have reportedly left Elon Musk’s newly merged SpaceXAI since February, raising questions about burnout, leadership changes, talent poaching, and whether liquidity events weakened retention incentives.",
@@ -59,24 +80,31 @@ const FEED_DATA = {
     },
     {
       "title": "German intelligence offices snub Palantir software",
-      "summary": "Article URL: https://www.dw.com/en/german-intelligence-offices-snub-us-based-palantir-software/a-77160897 Comments URL: https://news.ycombinator.com/item?id=48139547 Points: 67 # Comments: 24",
+      "summary": "Article URL: https://www.dw.com/en/german-intelligence-offices-snub-us-based-palantir-software/a-77160897 Comments URL: https://news.ycombinator.com/item?id=48139547 Points: 71 # Comments: 29",
       "source": "Hacker News",
       "published": "2026-05-14T18:50:02+00:00",
       "link": "https://www.dw.com/en/german-intelligence-offices-snub-us-based-palantir-software/a-77160897"
     },
     {
       "title": "The AI Zombification of Universities",
-      "summary": "Article URL: https://www.thenewcritic.com/p/the-great-zombification Comments URL: https://news.ycombinator.com/item?id=48139355 Points: 146 # Comments: 125",
+      "summary": "Article URL: https://www.thenewcritic.com/p/the-great-zombification Comments URL: https://news.ycombinator.com/item?id=48139355 Points: 179 # Comments: 184",
       "source": "Hacker News",
       "published": "2026-05-14T18:37:08+00:00",
       "link": "https://www.thenewcritic.com/p/the-great-zombification"
     },
     {
       "title": "AI is making me dumb",
-      "summary": "Article URL: https://jpain.io/god-damn-ai-is-making-me-dumb/ Comments URL: https://news.ycombinator.com/item?id=48139148 Points: 319 # Comments: 212",
+      "summary": "Article URL: https://jpain.io/god-damn-ai-is-making-me-dumb/ Comments URL: https://news.ycombinator.com/item?id=48139148 Points: 456 # Comments: 279",
       "source": "Hacker News",
       "published": "2026-05-14T18:19:28+00:00",
       "link": "https://jpain.io/god-damn-ai-is-making-me-dumb/"
+    },
+    {
+      "title": "The people writing AI alignment policy are not whose work is being replaced",
+      "summary": "Article URL: https://danieltan.weblog.lol/2026/05/you-dont-align-an-ai-you-align-with-it Comments URL: https://news.ycombinator.com/item?id=48139144 Points: 89 # Comments: 55",
+      "source": "Hacker News",
+      "published": "2026-05-14T18:19:13+00:00",
+      "link": "https://danieltan.weblog.lol/2026/05/you-dont-align-an-ai-you-align-with-it"
     },
     {
       "title": "You Don't Align an AI, You Align with It",
@@ -199,7 +227,7 @@ const FEED_DATA = {
     },
     {
       "title": "What happens when you post a real Monet and say it's AI?",
-      "summary": "Article URL: https://twitter.com/jediwolf/status/2054776716770320631 Comments URL: https://news.ycombinator.com/item?id=48134400 Points: 79 # Comments: 73",
+      "summary": "Article URL: https://twitter.com/jediwolf/status/2054776716770320631 Comments URL: https://news.ycombinator.com/item?id=48134400 Points: 81 # Comments: 74",
       "source": "Hacker News",
       "published": "2026-05-14T12:23:27+00:00",
       "link": "https://twitter.com/jediwolf/status/2054776716770320631"
@@ -276,7 +304,7 @@ const FEED_DATA = {
     },
     {
       "title": "The other half of AI safety",
-      "summary": "Article URL: https://personalaisafety.com/p/the-other-half-of-ai-safety Comments URL: https://news.ycombinator.com/item?id=48129561 Points: 97 # Comments: 124",
+      "summary": "Article URL: https://personalaisafety.com/p/the-other-half-of-ai-safety Comments URL: https://news.ycombinator.com/item?id=48129561 Points: 97 # Comments: 129",
       "source": "Hacker News",
       "published": "2026-05-14T00:27:20+00:00",
       "link": "https://personalaisafety.com/p/the-other-half-of-ai-safety"
@@ -304,14 +332,14 @@ const FEED_DATA = {
     },
     {
       "title": "Medicare's new payment model is built for AI. Most of the tech world has no idea",
-      "summary": "Article URL: https://techcrunch.com/2026/05/12/medicares-new-payment-model-is-built-for-ai-and-most-of-the-tech-world-has-no-idea/ Comments URL: https://news.ycombinator.com/item?id=48127815 Points: 83 # Comments: 57",
+      "summary": "Article URL: https://techcrunch.com/2026/05/12/medicares-new-payment-model-is-built-for-ai-and-most-of-the-tech-world-has-no-idea/ Comments URL: https://news.ycombinator.com/item?id=48127815 Points: 85 # Comments: 58",
       "source": "Hacker News",
       "published": "2026-05-13T21:24:14+00:00",
       "link": "https://techcrunch.com/2026/05/12/medicares-new-payment-model-is-built-for-ai-and-most-of-the-tech-world-has-no-idea/"
     },
     {
       "title": "Meta won't let you block its AI account on Threads",
-      "summary": "Article URL: https://www.theverge.com/tech/929091/meta-ai-threads-account-block Comments URL: https://news.ycombinator.com/item?id=48126981 Points: 190 # Comments: 81",
+      "summary": "Article URL: https://www.theverge.com/tech/929091/meta-ai-threads-account-block Comments URL: https://news.ycombinator.com/item?id=48126981 Points: 192 # Comments: 82",
       "source": "Hacker News",
       "published": "2026-05-13T20:22:21+00:00",
       "link": "https://www.theverge.com/tech/929091/meta-ai-threads-account-block"
@@ -472,7 +500,7 @@ const FEED_DATA = {
     },
     {
       "title": "The US is winning the AI race where it matters most: commercialization",
-      "summary": "Article URL: https://avkcode.github.io/blog/us-winning-ai-race.html Comments URL: https://news.ycombinator.com/item?id=48121929 Points: 231 # Comments: 652",
+      "summary": "Article URL: https://avkcode.github.io/blog/us-winning-ai-race.html Comments URL: https://news.ycombinator.com/item?id=48121929 Points: 231 # Comments: 657",
       "source": "Hacker News",
       "published": "2026-05-13T13:53:53+00:00",
       "link": "https://avkcode.github.io/blog/us-winning-ai-race.html"
@@ -626,7 +654,7 @@ const FEED_DATA = {
     },
     {
       "title": "Reimagining the mouse pointer for the AI era",
-      "summary": "Article URL: https://deepmind.google/blog/ai-pointer/ Comments URL: https://news.ycombinator.com/item?id=48111581 Points: 250 # Comments: 213",
+      "summary": "Article URL: https://deepmind.google/blog/ai-pointer/ Comments URL: https://news.ycombinator.com/item?id=48111581 Points: 251 # Comments: 213",
       "source": "Hacker News",
       "published": "2026-05-12T17:40:13+00:00",
       "link": "https://deepmind.google/blog/ai-pointer/"
@@ -1372,34 +1400,6 @@ const FEED_DATA = {
       "source": "The Verge",
       "published": "2026-05-08T15:25:02+00:00",
       "link": "https://www.theverge.com/report/926771/microsoft-openai-amazon-worries-shit-talk-azure"
-    },
-    {
-      "title": "Nick Bostrom Has a Plan for Humanity’s ‘Big Retirement’",
-      "summary": "The philosopher thinks humans should pursue advanced AI and the promise of a “solved world.”",
-      "source": "Wired",
-      "published": "2026-05-08T15:00:00+00:00",
-      "link": "https://www.wired.com/story/nick-bostrom-has-a-plan-for-humanitys-big-retirement/"
-    },
-    {
-      "title": "There’s a Long-Shot Proposal to Protect California Workers From AI",
-      "summary": "California gubernatorial candidate Tom Steyer is proposing a new jobs guarantee for workers displaced by artificial intelligence.",
-      "source": "Wired",
-      "published": "2026-05-08T15:00:00+00:00",
-      "link": "https://www.wired.com/story/tom-steyer-proposes-jobs-guarantee-to-protect-california-workers-from-ai/"
-    },
-    {
-      "title": "RingCentral adds Shopify, Calendly, and WhatsApp to AI Receptionist",
-      "summary": "RingCentral has expanded its AI Receptionist product with new links to Shopify, Calendly and WhatsApp, as the communications software company tries to push the product beyond basic call answering and into more routine customer service tasks.",
-      "source": "AI News",
-      "published": "2026-05-08T14:54:00+00:00",
-      "link": "https://www.artificialintelligence-news.com/news/ringcentral-ai-adds-shopify-calendly-and-whatsapp-to-ai-receptionist/"
-    },
-    {
-      "title": "Anthropic approaches $1 trillion valuation as revenue grows fivefold",
-      "summary": "According to the Financial Times, Anthropic's planned funding round is taking shape. The round aims to raise up to $50 billion, which would value the company at roughly $900 billion.",
-      "source": "The Decoder",
-      "published": "2026-05-08T14:49:24+00:00",
-      "link": "https://the-decoder.com/anthropic-approaches-1-trillion-valuation-as-revenue-grows-fivefold/"
     }
   ]
 };
