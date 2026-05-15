@@ -1,9 +1,44 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-05-15T18:17:54.089529+00:00",
+  "lastUpdated": "2026-05-15T21:52:03.492182+00:00",
   "items": [
     {
+      "title": "ArXiv will ban researchers who upload papers full of AI slop",
+      "summary": "ArXiv, a popular platform for preprint academic research, is taking a new step to attempt to reduce the volume of papers that include AI slop.",
+      "source": "The Verge",
+      "published": "2026-05-15T20:38:19+00:00",
+      "link": "https://www.theverge.com/science/931766/arxiv-ai-slop-ban-researchers"
+    },
+    {
+      "title": "Mitchellh – I strongly believe there are entire companies now under AI psychosis",
+      "summary": "Article URL: https://twitter.com/mitchellh/status/2055380239711457578 Comments URL: https://news.ycombinator.com/item?id=48153379 Points: 261 # Comments: 83",
+      "source": "Hacker News",
+      "published": "2026-05-15T20:26:47+00:00",
+      "link": "https://twitter.com/mitchellh/status/2055380239711457578"
+    },
+    {
+      "title": "The OpenAI trial wraps up, and the Musk founder machine keeps spinning",
+      "summary": "The Musk v. Altman trial came to a close this week, and the final arguments kept circling back to one question: can we trust the people in charge of AI?",
+      "source": "TechCrunch",
+      "published": "2026-05-15T19:24:16+00:00",
+      "link": "https://techcrunch.com/podcast/the-openai-trial-wraps-up-and-the-musk-founder-machine-keeps-spinning/"
+    },
+    {
+      "title": "Google busts the myth that AI search needs its own SEO playbook",
+      "summary": "Google says the SEO industry's favorite new buzzwords, \"generative engine optimization\" and \"answer engine optimization,\" are just regular SEO by another name.",
+      "source": "The Decoder",
+      "published": "2026-05-15T18:42:56+00:00",
+      "link": "https://the-decoder.com/google-busts-the-myth-that-ai-search-needs-its-own-seo-playbook/"
+    },
+    {
+      "title": "OpenAI keeps shuffling its executives in bid to win AI agent battle",
+      "summary": "OpenAI announced yet another reorganization Friday, consolidating certain areas and making company president Greg Brockman the official lead of all things product.",
+      "source": "The Verge",
+      "published": "2026-05-15T18:21:35+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/931544/openai-keeps-shuffling-its-executives-in-bid-to-win-ai-agent-battle"
+    },
+    {
       "title": "Silicon Valley’s vacationland needs a new energy provider just as AI is driving prices up",
-      "summary": "Lake Tahoe, Silicon Valley's favorite ski spot, is about to get hit with higher energy prices as AI drives demand for electricity.",
+      "summary": "Lake Tahoe, Silicon Valley's favorite vacation spot, is about to get hit with higher energy prices as AI drives demand for electricity.",
       "source": "TechCrunch",
       "published": "2026-05-15T18:14:44+00:00",
       "link": "https://techcrunch.com/2026/05/15/silicon-valleys-vacationland-needs-a-new-energy-provider-just-as-ai-is-driving-prices-up/"
@@ -94,7 +129,7 @@ const FEED_DATA = {
     },
     {
       "title": "Amazon workers under pressure to up their AI usage are making up tasks",
-      "summary": "Article URL: https://www.fastcompany.com/91541586/amazon-workers-pressured-to-up-ai-use-extraneous-tasks Comments URL: https://news.ycombinator.com/item?id=48148337 Points: 210 # Comments: 202",
+      "summary": "Article URL: https://www.fastcompany.com/91541586/amazon-workers-pressured-to-up-ai-use-extraneous-tasks Comments URL: https://news.ycombinator.com/item?id=48148337 Points: 290 # Comments: 315",
       "source": "Hacker News",
       "published": "2026-05-15T13:28:55+00:00",
       "link": "https://www.fastcompany.com/91541586/amazon-workers-pressured-to-up-ai-use-extraneous-tasks"
@@ -149,15 +184,22 @@ const FEED_DATA = {
       "link": "https://the-decoder.com/anthropic-frames-ai-competition-with-china-as-a-now-or-never-moment-for-washington/"
     },
     {
+      "title": "Overseas fakers using AI videos to push a narrative of UK decline, BBC finds",
+      "summary": "Article URL: https://www.bbc.co.uk/news/articles/ckgpyn30dp3o Comments URL: https://news.ycombinator.com/item?id=48146656 Points: 52 # Comments: 36",
+      "source": "Hacker News",
+      "published": "2026-05-15T09:57:03+00:00",
+      "link": "https://www.bbc.co.uk/news/articles/ckgpyn30dp3o"
+    },
+    {
       "title": "UK sovereign LLM inference",
-      "summary": "Article URL: https://relax.ai/docs Comments URL: https://news.ycombinator.com/item?id=48146424 Points: 101 # Comments: 108",
+      "summary": "Article URL: https://relax.ai/docs Comments URL: https://news.ycombinator.com/item?id=48146424 Points: 104 # Comments: 109",
       "source": "Hacker News",
       "published": "2026-05-15T09:27:26+00:00",
       "link": "https://relax.ai/docs"
     },
     {
       "title": "Show HN: Find the best local LLM for your hardware, ranked by benchmarks",
-      "summary": "Article URL: https://github.com/Andyyyy64/whichllm Comments URL: https://news.ycombinator.com/item?id=48146369 Points: 273 # Comments: 63",
+      "summary": "Article URL: https://github.com/Andyyyy64/whichllm Comments URL: https://news.ycombinator.com/item?id=48146369 Points: 275 # Comments: 63",
       "source": "Hacker News",
       "published": "2026-05-15T09:19:24+00:00",
       "link": "https://github.com/Andyyyy64/whichllm"
@@ -192,7 +234,7 @@ const FEED_DATA = {
     },
     {
       "title": "Access to frontier AI will soon be limited by economic and security constraints",
-      "summary": "Article URL: https://writing.antonleicht.me/p/cut-off Comments URL: https://news.ycombinator.com/item?id=48143284 Points: 201 # Comments: 199",
+      "summary": "Article URL: https://writing.antonleicht.me/p/cut-off Comments URL: https://news.ycombinator.com/item?id=48143284 Points: 205 # Comments: 208",
       "source": "Hacker News",
       "published": "2026-05-15T01:08:04+00:00",
       "link": "https://writing.antonleicht.me/p/cut-off"
@@ -206,21 +248,21 @@ const FEED_DATA = {
     },
     {
       "title": "LLM Policy for Rust Compiler",
-      "summary": "Article URL: https://github.com/rust-lang/rust-forge/pull/1040 Comments URL: https://news.ycombinator.com/item?id=48142650 Points: 95 # Comments: 78",
+      "summary": "Article URL: https://github.com/rust-lang/rust-forge/pull/1040 Comments URL: https://news.ycombinator.com/item?id=48142650 Points: 95 # Comments: 80",
       "source": "Hacker News",
       "published": "2026-05-14T23:37:21+00:00",
       "link": "https://github.com/rust-lang/rust-forge/pull/1040"
     },
     {
       "title": "Have a Coherent AI Policy",
-      "summary": "Article URL: https://brianmeeker.me/2026/05/14/have-a-coherent-ai-policy/ Comments URL: https://news.ycombinator.com/item?id=48142553 Points: 68 # Comments: 61",
+      "summary": "Article URL: https://brianmeeker.me/2026/05/14/have-a-coherent-ai-policy/ Comments URL: https://news.ycombinator.com/item?id=48142553 Points: 70 # Comments: 62",
       "source": "Hacker News",
       "published": "2026-05-14T23:24:45+00:00",
       "link": "https://brianmeeker.me/2026/05/14/have-a-coherent-ai-policy/"
     },
     {
       "title": "Ontario auditors find doctors' AI note takers routinely blow basic facts",
-      "summary": "Article URL: https://www.theregister.com/ai-ml/2026/05/14/ontario-auditors-find-doctors-ai-note-takers-routinely-blow-basic-facts/5240771 Comments URL: https://news.ycombinator.com/item?id=48142188 Points: 279 # Comments: 132",
+      "summary": "Article URL: https://www.theregister.com/ai-ml/2026/05/14/ontario-auditors-find-doctors-ai-note-takers-routinely-blow-basic-facts/5240771 Comments URL: https://news.ycombinator.com/item?id=48142188 Points: 290 # Comments: 134",
       "source": "Hacker News",
       "published": "2026-05-14T22:37:40+00:00",
       "link": "https://www.theregister.com/ai-ml/2026/05/14/ontario-auditors-find-doctors-ai-note-takers-routinely-blow-basic-facts/5240771"
@@ -290,21 +332,21 @@ const FEED_DATA = {
     },
     {
       "title": "The AI zombification of universities",
-      "summary": "Article URL: https://www.thenewcritic.com/p/the-great-zombification Comments URL: https://news.ycombinator.com/item?id=48139355 Points: 189 # Comments: 205",
+      "summary": "Article URL: https://www.thenewcritic.com/p/the-great-zombification Comments URL: https://news.ycombinator.com/item?id=48139355 Points: 190 # Comments: 205",
       "source": "Hacker News",
       "published": "2026-05-14T18:37:08+00:00",
       "link": "https://www.thenewcritic.com/p/the-great-zombification"
     },
     {
       "title": "AI is making me dumb",
-      "summary": "Article URL: https://jpain.io/god-damn-ai-is-making-me-dumb/ Comments URL: https://news.ycombinator.com/item?id=48139148 Points: 522 # Comments: 298",
+      "summary": "Article URL: https://jpain.io/god-damn-ai-is-making-me-dumb/ Comments URL: https://news.ycombinator.com/item?id=48139148 Points: 528 # Comments: 302",
       "source": "Hacker News",
       "published": "2026-05-14T18:19:28+00:00",
       "link": "https://jpain.io/god-damn-ai-is-making-me-dumb/"
     },
     {
       "title": "The people writing AI alignment policy are not whose work is being replaced",
-      "summary": "Article URL: https://danieltan.weblog.lol/2026/05/you-dont-align-an-ai-you-align-with-it Comments URL: https://news.ycombinator.com/item?id=48139144 Points: 91 # Comments: 61",
+      "summary": "Article URL: https://danieltan.weblog.lol/2026/05/you-dont-align-an-ai-you-align-with-it Comments URL: https://news.ycombinator.com/item?id=48139144 Points: 92 # Comments: 62",
       "source": "Hacker News",
       "published": "2026-05-14T18:19:13+00:00",
       "link": "https://danieltan.weblog.lol/2026/05/you-dont-align-an-ai-you-align-with-it"
@@ -535,7 +577,7 @@ const FEED_DATA = {
     },
     {
       "title": "Medicare's new payment model is built for AI. Most of the tech world has no idea",
-      "summary": "Article URL: https://techcrunch.com/2026/05/12/medicares-new-payment-model-is-built-for-ai-and-most-of-the-tech-world-has-no-idea/ Comments URL: https://news.ycombinator.com/item?id=48127815 Points: 85 # Comments: 58",
+      "summary": "Article URL: https://techcrunch.com/2026/05/12/medicares-new-payment-model-is-built-for-ai-and-most-of-the-tech-world-has-no-idea/ Comments URL: https://news.ycombinator.com/item?id=48127815 Points: 85 # Comments: 59",
       "source": "Hacker News",
       "published": "2026-05-13T21:24:14+00:00",
       "link": "https://techcrunch.com/2026/05/12/medicares-new-payment-model-is-built-for-ai-and-most-of-the-tech-world-has-no-idea/"
@@ -1358,48 +1400,6 @@ const FEED_DATA = {
       "source": "Hacker News",
       "published": "2026-05-10T17:19:28+00:00",
       "link": "https://unix.foo/posts/local-ai-needs-to-be-norm/"
-    },
-    {
-      "title": "Training an LLM in Swift, Part 1: Taking matrix mult from Gflop/s to Tflop/s",
-      "summary": "Article URL: https://www.cocoawithlove.com/blog/matrix-multiplications-swift.html Comments URL: https://news.ycombinator.com/item?id=48085685 Points: 258 # Comments: 12",
-      "source": "Hacker News",
-      "published": "2026-05-10T17:05:05+00:00",
-      "link": "https://www.cocoawithlove.com/blog/matrix-multiplications-swift.html"
-    },
-    {
-      "title": "We’re feeling cynical about xAI’s big deal with Anthropic",
-      "summary": "On the latest episode of the Equity podcast, we discussed what xAI's deal with Anthropic might mean for parent company SpaceX.",
-      "source": "TechCrunch",
-      "published": "2026-05-10T15:34:25+00:00",
-      "link": "https://techcrunch.com/2026/05/10/were-feeling-cynical-about-xais-big-deal-with-anthropic/"
-    },
-    {
-      "title": "Chrome's AI features may be hogging 4GB of your computer storage",
-      "summary": "Article URL: https://www.theverge.com/tech/924933/google-chrome-4gb-gemini-nano-ai-features Comments URL: https://news.ycombinator.com/item?id=48084710 Points: 116 # Comments: 59",
-      "source": "Hacker News",
-      "published": "2026-05-10T15:22:46+00:00",
-      "link": "https://www.theverge.com/tech/924933/google-chrome-4gb-gemini-nano-ai-features"
-    },
-    {
-      "title": "AI agents can now hack computers and copy themselves, and they're getting better fast",
-      "summary": "Palisade Research shows that AI agents can hack remote computers, copy themselves onto them, and form replication chains. In one year, the success rate jumped from 6 to 81 percent.",
-      "source": "The Decoder",
-      "published": "2026-05-10T11:45:41+00:00",
-      "link": "https://the-decoder.com/ai-agents-can-now-hack-computers-and-copy-themselves-and-theyre-getting-better-fast/"
-    },
-    {
-      "title": "Israel's AI targeting system: how data from a phone become a death sentence",
-      "summary": "Article URL: https://www.latimes.com/world-nation/story/2026-05-04/inside-israels-ai-targeting-system-how-data-from-phone-become-death-sentence Comments URL: https://news.ycombinator.com/item?id=48082763 Points: 180 # Comments: 68",
-      "source": "Hacker News",
-      "published": "2026-05-10T10:51:47+00:00",
-      "link": "https://www.latimes.com/world-nation/story/2026-05-04/inside-israels-ai-targeting-system-how-data-from-phone-become-death-sentence"
-    },
-    {
-      "title": "Anthropic and OpenAI sit down with religious leaders to seek ethical advice",
-      "summary": "Anthropic and OpenAI are turning to religious leaders for help with AI ethics. At the first \"Faith-AI Covenant\" roundtable in New York, representatives from both companies met with faith leaders from various religions.",
-      "source": "The Decoder",
-      "published": "2026-05-10T10:41:00+00:00",
-      "link": "https://the-decoder.com/anthropic-and-openai-sit-down-with-religious-leaders-to-seek-ethical-advice/"
     }
   ]
 };
