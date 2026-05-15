@@ -1,6 +1,55 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-05-15T04:49:18.684319+00:00",
+  "lastUpdated": "2026-05-15T11:10:04.223715+00:00",
   "items": [
+    {
+      "title": "AI research papers are getting better, and it’s a big problem for scientists",
+      "summary": "Last summer, Peter Degen's postdoctoral supervisor came to him with an unusual problem: One of his papers was being cited too much. Citations are the currency of academia, but there was something unusual about these.",
+      "source": "The Verge",
+      "published": "2026-05-15T11:00:00+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/930522/ai-research-papers-slop-peer-review-problem"
+    },
+    {
+      "title": "Anthropic frames AI competition with China as a now-or-never moment for Washington",
+      "summary": "In a policy paper, Anthropic lays out two scenarios for 2028: either the US locks in its compute lead over China, or authoritarian regimes set the rules for the AI era. The timing is no coincidence.",
+      "source": "The Decoder",
+      "published": "2026-05-15T10:05:51+00:00",
+      "link": "https://the-decoder.com/anthropic-frames-ai-competition-with-china-as-a-now-or-never-moment-for-washington/"
+    },
+    {
+      "title": "UK sovereign LLM inference",
+      "summary": "Article URL: https://relax.ai/docs Comments URL: https://news.ycombinator.com/item?id=48146424 Points: 59 # Comments: 52",
+      "source": "Hacker News",
+      "published": "2026-05-15T09:27:26+00:00",
+      "link": "https://relax.ai/docs"
+    },
+    {
+      "title": "How Chinese short dramas became AI content machines",
+      "summary": "In a dimly lit bedroom, a frightened young woman is thrown onto a bed by a tall, muscular man. He grabs her hand, and flame-like vines crawl across her body, fusing with her flesh.",
+      "source": "MIT Tech Review",
+      "published": "2026-05-15T09:00:00+00:00",
+      "link": "https://www.technologyreview.com/2026/05/15/1137326/chinese-short-dramas-ai/"
+    },
+    {
+      "title": "Mira Murati Wants Her AI to ‘Keep Humans in the Loop’",
+      "summary": "The Thinking Machines Lab founder and former CTO of OpenAI tells WIRED she isn’t interested in automating people out of jobs. Instead, she’s building AI that can collaborate.",
+      "source": "Wired",
+      "published": "2026-05-15T09:00:00+00:00",
+      "link": "https://www.wired.com/story/mira-murati-humans-in-the-loop-ai-models-thinking-machines/"
+    },
+    {
+      "title": "OpenAI makes its AI coding assistant Codex available on iOS and Android",
+      "summary": "OpenAI brings its AI coding assistant Codex to the ChatGPT app on iOS and Android. The article OpenAI makes its AI coding assistant Codex available on iOS and Android appeared first on The Decoder.",
+      "source": "The Decoder",
+      "published": "2026-05-15T08:39:26+00:00",
+      "link": "https://the-decoder.com/openai-makes-its-ai-coding-assistant-codex-available-on-ios-and-android/"
+    },
+    {
+      "title": "Access to frontier AI will soon be limited by economic and security constraints",
+      "summary": "Article URL: https://writing.antonleicht.me/p/cut-off Comments URL: https://news.ycombinator.com/item?id=48143284 Points: 166 # Comments: 157",
+      "source": "Hacker News",
+      "published": "2026-05-15T01:08:04+00:00",
+      "link": "https://writing.antonleicht.me/p/cut-off"
+    },
     {
       "title": "The Real Losers of the Musk v. Altman Trial",
       "summary": "A federal jury is now deciding whether Elon Musk will win his lawsuit against OpenAI and Sam Altman—but the trial has made everyone look bad.",
@@ -9,15 +58,22 @@ const FEED_DATA = {
       "link": "https://www.wired.com/story/musk-v-altman-trial-closing-arguments/"
     },
     {
+      "title": "LLM Policy for Rust Compiler",
+      "summary": "Article URL: https://github.com/rust-lang/rust-forge/pull/1040 Comments URL: https://news.ycombinator.com/item?id=48142650 Points: 86 # Comments: 51",
+      "source": "Hacker News",
+      "published": "2026-05-14T23:37:21+00:00",
+      "link": "https://github.com/rust-lang/rust-forge/pull/1040"
+    },
+    {
       "title": "Have a Coherent AI Policy",
-      "summary": "Article URL: https://brianmeeker.me/2026/05/14/have-a-coherent-ai-policy/ Comments URL: https://news.ycombinator.com/item?id=48142553 Points: 61 # Comments: 54",
+      "summary": "Article URL: https://brianmeeker.me/2026/05/14/have-a-coherent-ai-policy/ Comments URL: https://news.ycombinator.com/item?id=48142553 Points: 66 # Comments: 60",
       "source": "Hacker News",
       "published": "2026-05-14T23:24:45+00:00",
       "link": "https://brianmeeker.me/2026/05/14/have-a-coherent-ai-policy/"
     },
     {
       "title": "Ontario auditors find doctors' AI note takers routinely blow basic facts",
-      "summary": "Article URL: https://www.theregister.com/ai-ml/2026/05/14/ontario-auditors-find-doctors-ai-note-takers-routinely-blow-basic-facts/5240771 Comments URL: https://news.ycombinator.com/item?id=48142188 Points: 169 # Comments: 75",
+      "summary": "Article URL: https://www.theregister.com/ai-ml/2026/05/14/ontario-auditors-find-doctors-ai-note-takers-routinely-blow-basic-facts/5240771 Comments URL: https://news.ycombinator.com/item?id=48142188 Points: 243 # Comments: 114",
       "source": "Hacker News",
       "published": "2026-05-14T22:37:40+00:00",
       "link": "https://www.theregister.com/ai-ml/2026/05/14/ontario-auditors-find-doctors-ai-note-takers-routinely-blow-basic-facts/5240771"
@@ -80,28 +136,28 @@ const FEED_DATA = {
     },
     {
       "title": "German intelligence offices snub Palantir software",
-      "summary": "Article URL: https://www.dw.com/en/german-intelligence-offices-snub-us-based-palantir-software/a-77160897 Comments URL: https://news.ycombinator.com/item?id=48139547 Points: 71 # Comments: 29",
+      "summary": "Article URL: https://www.dw.com/en/german-intelligence-offices-snub-us-based-palantir-software/a-77160897 Comments URL: https://news.ycombinator.com/item?id=48139547 Points: 75 # Comments: 29",
       "source": "Hacker News",
       "published": "2026-05-14T18:50:02+00:00",
       "link": "https://www.dw.com/en/german-intelligence-offices-snub-us-based-palantir-software/a-77160897"
     },
     {
-      "title": "The AI Zombification of Universities",
-      "summary": "Article URL: https://www.thenewcritic.com/p/the-great-zombification Comments URL: https://news.ycombinator.com/item?id=48139355 Points: 179 # Comments: 184",
+      "title": "The AI zombification of universities",
+      "summary": "Article URL: https://www.thenewcritic.com/p/the-great-zombification Comments URL: https://news.ycombinator.com/item?id=48139355 Points: 185 # Comments: 190",
       "source": "Hacker News",
       "published": "2026-05-14T18:37:08+00:00",
       "link": "https://www.thenewcritic.com/p/the-great-zombification"
     },
     {
       "title": "AI is making me dumb",
-      "summary": "Article URL: https://jpain.io/god-damn-ai-is-making-me-dumb/ Comments URL: https://news.ycombinator.com/item?id=48139148 Points: 456 # Comments: 279",
+      "summary": "Article URL: https://jpain.io/god-damn-ai-is-making-me-dumb/ Comments URL: https://news.ycombinator.com/item?id=48139148 Points: 492 # Comments: 292",
       "source": "Hacker News",
       "published": "2026-05-14T18:19:28+00:00",
       "link": "https://jpain.io/god-damn-ai-is-making-me-dumb/"
     },
     {
       "title": "The people writing AI alignment policy are not whose work is being replaced",
-      "summary": "Article URL: https://danieltan.weblog.lol/2026/05/you-dont-align-an-ai-you-align-with-it Comments URL: https://news.ycombinator.com/item?id=48139144 Points: 89 # Comments: 55",
+      "summary": "Article URL: https://danieltan.weblog.lol/2026/05/you-dont-align-an-ai-you-align-with-it Comments URL: https://news.ycombinator.com/item?id=48139144 Points: 90 # Comments: 57",
       "source": "Hacker News",
       "published": "2026-05-14T18:19:13+00:00",
       "link": "https://danieltan.weblog.lol/2026/05/you-dont-align-an-ai-you-align-with-it"
@@ -227,7 +283,7 @@ const FEED_DATA = {
     },
     {
       "title": "What happens when you post a real Monet and say it's AI?",
-      "summary": "Article URL: https://twitter.com/jediwolf/status/2054776716770320631 Comments URL: https://news.ycombinator.com/item?id=48134400 Points: 81 # Comments: 74",
+      "summary": "Article URL: https://twitter.com/jediwolf/status/2054776716770320631 Comments URL: https://news.ycombinator.com/item?id=48134400 Points: 83 # Comments: 74",
       "source": "Hacker News",
       "published": "2026-05-14T12:23:27+00:00",
       "link": "https://twitter.com/jediwolf/status/2054776716770320631"
@@ -339,7 +395,7 @@ const FEED_DATA = {
     },
     {
       "title": "Meta won't let you block its AI account on Threads",
-      "summary": "Article URL: https://www.theverge.com/tech/929091/meta-ai-threads-account-block Comments URL: https://news.ycombinator.com/item?id=48126981 Points: 192 # Comments: 82",
+      "summary": "Article URL: https://www.theverge.com/tech/929091/meta-ai-threads-account-block Comments URL: https://news.ycombinator.com/item?id=48126981 Points: 193 # Comments: 82",
       "source": "Hacker News",
       "published": "2026-05-13T20:22:21+00:00",
       "link": "https://www.theverge.com/tech/929091/meta-ai-threads-account-block"
@@ -444,7 +500,7 @@ const FEED_DATA = {
     },
     {
       "title": "U.S. intelligence shows Iran retains substantial missile capabilities",
-      "summary": "Article URL: https://www.nytimes.com/2026/05/12/us/politics/iran-missiles-us-intelligence.html Comments URL: https://news.ycombinator.com/item?id=48123900 Points: 52 # Comments: 31",
+      "summary": "Article URL: https://www.nytimes.com/2026/05/12/us/politics/iran-missiles-us-intelligence.html Comments URL: https://news.ycombinator.com/item?id=48123900 Points: 52 # Comments: 30",
       "source": "Hacker News",
       "published": "2026-05-13T16:15:09+00:00",
       "link": "https://www.nytimes.com/2026/05/12/us/politics/iran-missiles-us-intelligence.html"
@@ -472,7 +528,7 @@ const FEED_DATA = {
     },
     {
       "title": "The AI Backlash Could Get Ugly",
-      "summary": "Article URL: https://www.theatlantic.com/technology/2026/05/ai-backlash-data-centers-political-violence/687151/ Comments URL: https://news.ycombinator.com/item?id=48122624 Points: 77 # Comments: 175",
+      "summary": "Article URL: https://www.theatlantic.com/technology/2026/05/ai-backlash-data-centers-political-violence/687151/ Comments URL: https://news.ycombinator.com/item?id=48122624 Points: 77 # Comments: 177",
       "source": "Hacker News",
       "published": "2026-05-13T14:44:41+00:00",
       "link": "https://www.theatlantic.com/technology/2026/05/ai-backlash-data-centers-political-violence/687151/"
@@ -500,7 +556,7 @@ const FEED_DATA = {
     },
     {
       "title": "The US is winning the AI race where it matters most: commercialization",
-      "summary": "Article URL: https://avkcode.github.io/blog/us-winning-ai-race.html Comments URL: https://news.ycombinator.com/item?id=48121929 Points: 231 # Comments: 657",
+      "summary": "Article URL: https://avkcode.github.io/blog/us-winning-ai-race.html Comments URL: https://news.ycombinator.com/item?id=48121929 Points: 233 # Comments: 665",
       "source": "Hacker News",
       "published": "2026-05-13T13:53:53+00:00",
       "link": "https://avkcode.github.io/blog/us-winning-ai-race.html"
@@ -1344,62 +1400,6 @@ const FEED_DATA = {
       "source": "The Verge",
       "published": "2026-05-08T18:45:08+00:00",
       "link": "https://www.theverge.com/ai-artificial-intelligence/902546/data-centers-ai-energy-power-grids-controversy"
-    },
-    {
-      "title": "Cloudflare says AI made 1,100 jobs obsolete, even as revenue hit a record high",
-      "summary": "Cloudflare announced its first large-scale layoff. CEO Matthew Prince says because of AI efficiency gains, the company doesn't need as many support roles.",
-      "source": "TechCrunch",
-      "published": "2026-05-08T18:33:21+00:00",
-      "link": "https://techcrunch.com/2026/05/08/cloudflare-says-ai-made-1100-jobs-obsolete-even-as-revenue-hit-a-record-high/"
-    },
-    {
-      "title": "AI is breaking two vulnerability cultures",
-      "summary": "Article URL: https://www.jefftk.com/p/ai-is-breaking-two-vulnerability-cultures Comments URL: https://news.ycombinator.com/item?id=48066524 Points: 427 # Comments: 172",
-      "source": "Hacker News",
-      "published": "2026-05-08T17:55:08+00:00",
-      "link": "https://www.jefftk.com/p/ai-is-breaking-two-vulnerability-cultures"
-    },
-    {
-      "title": "AI money keeps flowing as Deepseek plans record raise and Core Automation quadruples valuation in weeks",
-      "summary": "Deepseek is planning a funding round of up to $7.35 billion, the largest ever for a Chinese AI company. Deepseek V4.1 is set to launch in June.",
-      "source": "The Decoder",
-      "published": "2026-05-08T17:50:53+00:00",
-      "link": "https://the-decoder.com/ai-money-keeps-flowing-as-deepseek-plans-record-raise-and-core-automation-quadruples-valuation-in-weeks/"
-    },
-    {
-      "title": "PlayStation sees AI as a ‘powerful tool’ to help make games",
-      "summary": "As part of an earnings presentation on Friday, Sony shared how it's thinking about AI at the company, including many details about how it's evaluating AI as part of making PlayStation games.",
-      "source": "The Verge",
-      "published": "2026-05-08T16:30:56+00:00",
-      "link": "https://www.theverge.com/games/926914/sony-playstation-ai-powerful-tool-games"
-    },
-    {
-      "title": "SoftBank reportedly slashes OpenAI-backed loan from $10 billion to $6 billion as lenders balk at private AI valuations",
-      "summary": "SoftBank has reduced a loan secured by OpenAI shares from 10 to around 6 billion dollars. Lenders are apparently reluctant to reliably assess the value of an unlisted company like OpenAI.",
-      "source": "The Decoder",
-      "published": "2026-05-08T16:26:58+00:00",
-      "link": "https://the-decoder.com/softbank-reportedly-slashes-openai-backed-loan-from-10-billion-to-6-billion-as-lenders-balk-at-private-ai-valuations/"
-    },
-    {
-      "title": "Here’s what you need to know about the cruise ship hantavirus outbreak",
-      "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here.",
-      "source": "MIT Tech Review",
-      "published": "2026-05-08T16:19:40+00:00",
-      "link": "https://www.technologyreview.com/2026/05/08/1136988/heres-what-you-need-to-know-about-the-cruise-ship-hantavirus-outbreak/"
-    },
-    {
-      "title": "The “people’s airline” and the enterprise AI gold rush",
-      "summary": "Everyone wants a piece of the enterprise AI pie, and this week, we saw a string of companies making their moves.",
-      "source": "TechCrunch",
-      "published": "2026-05-08T15:46:17+00:00",
-      "link": "https://techcrunch.com/podcast/the-peoples-airline-and-the-enterprise-ai-gold-rush/"
-    },
-    {
-      "title": "Microsoft was worried OpenAI would run off to Amazon and ‘shit-talk’ Azure",
-      "summary": "When OpenAI was busy experimenting with AI-powered gaming bots, Microsoft CEO Satya Nadella and OpenAI CEO Sam Altman were in the early days of forming an AI partnership. Court documents from the ongoing Musk v.",
-      "source": "The Verge",
-      "published": "2026-05-08T15:25:02+00:00",
-      "link": "https://www.theverge.com/report/926771/microsoft-openai-amazon-worries-shit-talk-azure"
     }
   ]
 };
