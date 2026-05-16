@@ -1,5 +1,5 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-05-16T04:27:52.594207+00:00",
+  "lastUpdated": "2026-05-16T07:16:29.576048+00:00",
   "items": [
     {
       "title": "Musk v. Altman week 3: Musk and Altman traded blows over each other’s credibility. Now the jury will pick a side.",
