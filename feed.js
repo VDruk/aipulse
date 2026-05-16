@@ -1,6 +1,27 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-05-16T14:22:31.876660+00:00",
+  "lastUpdated": "2026-05-16T17:51:41.629154+00:00",
   "items": [
+    {
+      "title": "Sony tries to explain that its AI Camera Assistant doesn’t suck",
+      "summary": "After Sony drew some unwanted attention for a post demonstrating its AI Camera Assistant on the Xperia 1 XIII, it's trying to clarify how the feature works. The company says it doesn't edit photos, but makes suggestions based on lighting, depth, and subject.",
+      "source": "The Verge",
+      "published": "2026-05-16T15:37:05+00:00",
+      "link": "https://www.theverge.com/tech/932133/sony-xperia-1-xiii-ai-camera-assistant"
+    },
+    {
+      "title": "OpenAI co-founder Greg Brockman reportedly takes charge of product strategy",
+      "summary": "OpenAI's latest shakeup comes as the company reportedly plans to combine ChatGPT and its programming product Codex.",
+      "source": "TechCrunch",
+      "published": "2026-05-16T15:33:33+00:00",
+      "link": "https://techcrunch.com/2026/05/16/openai-co-founder-greg-brockman-reportedly-takes-charge-of-product-strategy/"
+    },
+    {
+      "title": "DeepSeek-V4-Flash means LLM steering is interesting again",
+      "summary": "Article URL: https://www.seangoedecke.com/steering-vectors/ Comments URL: https://news.ycombinator.com/item?id=48160807 Points: 97 # Comments: 34",
+      "source": "Hacker News",
+      "published": "2026-05-16T14:58:16+00:00",
+      "link": "https://www.seangoedecke.com/steering-vectors/"
+    },
     {
       "title": "New benchmark shows Claude Mythos and GPT-5.5 can develop real browser exploits autonomously",
       "summary": "Researchers at Carnegie Mellon University built a new benchmark that measures how far AI agents can go when exploiting real vulnerabilities in Google's V8 engine. Mythos leads GPT-5.5 by a wide margin but costs twelve times as much.",
@@ -59,7 +80,7 @@ const FEED_DATA = {
     },
     {
       "title": "Frontier AI has broken the open CTF format",
-      "summary": "Article URL: https://kabir.au/blog/the-ctf-scene-is-dead Comments URL: https://news.ycombinator.com/item?id=48157559 Points: 226 # Comments: 190",
+      "summary": "Article URL: https://kabir.au/blog/the-ctf-scene-is-dead Comments URL: https://news.ycombinator.com/item?id=48157559 Points: 264 # Comments: 240",
       "source": "Hacker News",
       "published": "2026-05-16T07:01:55+00:00",
       "link": "https://kabir.au/blog/the-ctf-scene-is-dead"
@@ -70,6 +91,13 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-05-16T06:00:56+00:00",
       "link": "https://the-decoder.com/google-says-geo-and-aeo-are-a-myth-and-traditional-seo-is-all-you-need-for-ai-search/"
+    },
+    {
+      "title": "Musk v. Altman week 3: Elon Musk and Sam Altman traded blows over each other’s credibility. Now the jury will pick a side.",
+      "summary": "In the final week of the Musk v. Altman trial, lawyers traded blows over Elon Musk’s and OpenAI CEO Sam Altman’s credibility.",
+      "source": "MIT Tech Review",
+      "published": "2026-05-15T23:39:35+00:00",
+      "link": "https://www.technologyreview.com/2026/05/15/1137357/musk-v-altman-week-3/"
     },
     {
       "title": "Musk v. Altman week 3: Musk and Altman traded blows over each other’s credibility. Now the jury will pick a side.",
@@ -94,7 +122,7 @@ const FEED_DATA = {
     },
     {
       "title": "I believe there are entire companies right now under AI psychosis",
-      "summary": "https://xcancel.com/mitchellh/status/2055380239711457578https://hachyderm.io/@mitchellh/116580433508108130 Comments URL: https://news.ycombinator.com/item?id=48153379 Points: 1552 # Comments: 798",
+      "summary": "https://xcancel.com/mitchellh/status/2055380239711457578https://hachyderm.io/@mitchellh/116580433508108130 Comments URL: https://news.ycombinator.com/item?id=48153379 Points: 1688 # Comments: 908",
       "source": "Hacker News",
       "published": "2026-05-15T20:26:47+00:00",
       "link": "https://twitter.com/mitchellh/status/2055380239711457578"
@@ -220,7 +248,7 @@ const FEED_DATA = {
     },
     {
       "title": "Amazon workers under pressure to up their AI usage are making up tasks",
-      "summary": "Article URL: https://www.fastcompany.com/91541586/amazon-workers-pressured-to-up-ai-use-extraneous-tasks Comments URL: https://news.ycombinator.com/item?id=48148337 Points: 365 # Comments: 403",
+      "summary": "Article URL: https://www.fastcompany.com/91541586/amazon-workers-pressured-to-up-ai-use-extraneous-tasks Comments URL: https://news.ycombinator.com/item?id=48148337 Points: 369 # Comments: 412",
       "source": "Hacker News",
       "published": "2026-05-15T13:28:55+00:00",
       "link": "https://www.fastcompany.com/91541586/amazon-workers-pressured-to-up-ai-use-extraneous-tasks"
@@ -276,7 +304,7 @@ const FEED_DATA = {
     },
     {
       "title": "Overseas fakers using AI videos to push a narrative of UK decline, BBC finds",
-      "summary": "Article URL: https://www.bbc.co.uk/news/articles/ckgpyn30dp3o Comments URL: https://news.ycombinator.com/item?id=48146656 Points: 55 # Comments: 47",
+      "summary": "Article URL: https://www.bbc.co.uk/news/articles/ckgpyn30dp3o Comments URL: https://news.ycombinator.com/item?id=48146656 Points: 57 # Comments: 47",
       "source": "Hacker News",
       "published": "2026-05-15T09:57:03+00:00",
       "link": "https://www.bbc.co.uk/news/articles/ckgpyn30dp3o"
@@ -290,7 +318,7 @@ const FEED_DATA = {
     },
     {
       "title": "Show HN: Find the best local LLM for your hardware, ranked by benchmarks",
-      "summary": "Article URL: https://github.com/Andyyyy64/whichllm Comments URL: https://news.ycombinator.com/item?id=48146369 Points: 282 # Comments: 65",
+      "summary": "Article URL: https://github.com/Andyyyy64/whichllm Comments URL: https://news.ycombinator.com/item?id=48146369 Points: 282 # Comments: 66",
       "source": "Hacker News",
       "published": "2026-05-15T09:19:24+00:00",
       "link": "https://github.com/Andyyyy64/whichllm"
@@ -325,7 +353,7 @@ const FEED_DATA = {
     },
     {
       "title": "Access to frontier AI will soon be limited by economic and security constraints",
-      "summary": "Article URL: https://writing.antonleicht.me/p/cut-off Comments URL: https://news.ycombinator.com/item?id=48143284 Points: 218 # Comments: 214",
+      "summary": "Article URL: https://writing.antonleicht.me/p/cut-off Comments URL: https://news.ycombinator.com/item?id=48143284 Points: 218 # Comments: 215",
       "source": "Hacker News",
       "published": "2026-05-15T01:08:04+00:00",
       "link": "https://writing.antonleicht.me/p/cut-off"
@@ -353,7 +381,7 @@ const FEED_DATA = {
     },
     {
       "title": "Ontario auditors find doctors' AI note takers routinely blow basic facts",
-      "summary": "Article URL: https://www.theregister.com/ai-ml/2026/05/14/ontario-auditors-find-doctors-ai-note-takers-routinely-blow-basic-facts/5240771 Comments URL: https://news.ycombinator.com/item?id=48142188 Points: 305 # Comments: 136",
+      "summary": "Article URL: https://www.theregister.com/ai-ml/2026/05/14/ontario-auditors-find-doctors-ai-note-takers-routinely-blow-basic-facts/5240771 Comments URL: https://news.ycombinator.com/item?id=48142188 Points: 305 # Comments: 137",
       "source": "Hacker News",
       "published": "2026-05-14T22:37:40+00:00",
       "link": "https://www.theregister.com/ai-ml/2026/05/14/ontario-auditors-find-doctors-ai-note-takers-routinely-blow-basic-facts/5240771"
@@ -423,7 +451,7 @@ const FEED_DATA = {
     },
     {
       "title": "The AI zombification of universities",
-      "summary": "Article URL: https://www.thenewcritic.com/p/the-great-zombification Comments URL: https://news.ycombinator.com/item?id=48139355 Points: 193 # Comments: 213",
+      "summary": "Article URL: https://www.thenewcritic.com/p/the-great-zombification Comments URL: https://news.ycombinator.com/item?id=48139355 Points: 193 # Comments: 215",
       "source": "Hacker News",
       "published": "2026-05-14T18:37:08+00:00",
       "link": "https://www.thenewcritic.com/p/the-great-zombification"
@@ -1372,34 +1400,6 @@ const FEED_DATA = {
       "source": "Hacker News",
       "published": "2026-05-11T13:20:14+00:00",
       "link": "https://www.nytimes.com/2026/05/11/us/politics/google-hackers-attack-ai.html"
-    },
-    {
-      "title": "Implementing advanced AI technologies in finance",
-      "summary": "In finance departments that have long been defined by precision and control, AI has arrived less as a neatly managed upgrade than as a quiet insurgency. Employees are already using it while leadership races to impose structure, governance, and strategy after the fact.",
-      "source": "MIT Tech Review",
-      "published": "2026-05-11T13:00:00+00:00",
-      "link": "https://www.technologyreview.com/2026/05/11/1136786/implementing-advanced-ai-technologies-in-finance/"
-    },
-    {
-      "title": "There aren’t enough rockets for space data centers — Cowboy Space raised $275M to build them",
-      "summary": "The apparently insatiable demand for AI compute has data center entrepreneurs looking to the stars. There's a key problem: There aren't enough rockets to put data centers in orbit around Earth, and they're too expensive.",
-      "source": "TechCrunch",
-      "published": "2026-05-11T13:00:00+00:00",
-      "link": "https://techcrunch.com/2026/05/11/there-arent-enough-rockets-for-space-data-centers-cowboy-space-raised-275-million-to-build-them/"
-    },
-    {
-      "title": "There aren’t enough rockets for space data centers. Cowboy Space raised $275 million to build them.",
-      "summary": "Cowboy Space Corporation wants to put data centers in orbit. First, it has to build the rockets to get them there.",
-      "source": "TechCrunch",
-      "published": "2026-05-11T13:00:00+00:00",
-      "link": "https://techcrunch.com/2026/05/11/there-arent-enough-rockets-for-space-data-centers-cowboy-space-raised-275-million-to-build-them/"
-    },
-    {
-      "title": "Generative AI turns identity theft into an industrial-scale operation",
-      "summary": "A Bloomberg investigation shows how generative AI and autonomous agents are supercharging identity theft in the US, from social security number lookups on the darknet to deepfake driver's licenses.",
-      "source": "The Decoder",
-      "published": "2026-05-11T12:54:06+00:00",
-      "link": "https://the-decoder.com/generative-ai-turns-identity-theft-into-an-industrial-scale-operation/"
     }
   ]
 };
