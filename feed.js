@@ -1,12 +1,33 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-05-15T21:52:03.492182+00:00",
+  "lastUpdated": "2026-05-16T04:27:52.594207+00:00",
   "items": [
+    {
+      "title": "Musk v. Altman week 3: Musk and Altman traded blows over each other’s credibility. Now the jury will pick a side.",
+      "summary": "In the final week of the Musk v. Altman trial, lawyers traded blows over Elon Musk’s and OpenAI CEO Sam Altman’s credibility.",
+      "source": "MIT Tech Review",
+      "published": "2026-05-15T23:39:35+00:00",
+      "link": "https://www.technologyreview.com/2026/05/15/1137357/musk-v-altman-week-3/"
+    },
+    {
+      "title": "YouTube is expanding its AI deepfake detection tool to all adult users",
+      "summary": "YouTube is expanding its AI likeness detection program to all users over the age of 18 - meaning just about anyone can have the platform hunt for potential deepfakes of themselves.",
+      "source": "The Verge",
+      "published": "2026-05-15T22:25:00+00:00",
+      "link": "https://www.theverge.com/news/931884/youtube-likeness-detection-ai-deepfake-expansion-all-adults"
+    },
     {
       "title": "ArXiv will ban researchers who upload papers full of AI slop",
       "summary": "ArXiv, a popular platform for preprint academic research, is taking a new step to attempt to reduce the volume of papers that include AI slop.",
       "source": "The Verge",
       "published": "2026-05-15T20:38:19+00:00",
       "link": "https://www.theverge.com/science/931766/arxiv-ai-slop-ban-researchers"
+    },
+    {
+      "title": "I believe there are entire companies right now under AI psychosis",
+      "summary": "https://xcancel.com/mitchellh/status/2055380239711457578https://hachyderm.io/@mitchellh/116580433508108130 Comments URL: https://news.ycombinator.com/item?id=48153379 Points: 978 # Comments: 431",
+      "source": "Hacker News",
+      "published": "2026-05-15T20:26:47+00:00",
+      "link": "https://twitter.com/mitchellh/status/2055380239711457578"
     },
     {
       "title": "Mitchellh – I strongly believe there are entire companies now under AI psychosis",
@@ -129,7 +150,7 @@ const FEED_DATA = {
     },
     {
       "title": "Amazon workers under pressure to up their AI usage are making up tasks",
-      "summary": "Article URL: https://www.fastcompany.com/91541586/amazon-workers-pressured-to-up-ai-use-extraneous-tasks Comments URL: https://news.ycombinator.com/item?id=48148337 Points: 290 # Comments: 315",
+      "summary": "Article URL: https://www.fastcompany.com/91541586/amazon-workers-pressured-to-up-ai-use-extraneous-tasks Comments URL: https://news.ycombinator.com/item?id=48148337 Points: 329 # Comments: 361",
       "source": "Hacker News",
       "published": "2026-05-15T13:28:55+00:00",
       "link": "https://www.fastcompany.com/91541586/amazon-workers-pressured-to-up-ai-use-extraneous-tasks"
@@ -185,7 +206,7 @@ const FEED_DATA = {
     },
     {
       "title": "Overseas fakers using AI videos to push a narrative of UK decline, BBC finds",
-      "summary": "Article URL: https://www.bbc.co.uk/news/articles/ckgpyn30dp3o Comments URL: https://news.ycombinator.com/item?id=48146656 Points: 52 # Comments: 36",
+      "summary": "Article URL: https://www.bbc.co.uk/news/articles/ckgpyn30dp3o Comments URL: https://news.ycombinator.com/item?id=48146656 Points: 53 # Comments: 41",
       "source": "Hacker News",
       "published": "2026-05-15T09:57:03+00:00",
       "link": "https://www.bbc.co.uk/news/articles/ckgpyn30dp3o"
@@ -199,7 +220,7 @@ const FEED_DATA = {
     },
     {
       "title": "Show HN: Find the best local LLM for your hardware, ranked by benchmarks",
-      "summary": "Article URL: https://github.com/Andyyyy64/whichllm Comments URL: https://news.ycombinator.com/item?id=48146369 Points: 275 # Comments: 63",
+      "summary": "Article URL: https://github.com/Andyyyy64/whichllm Comments URL: https://news.ycombinator.com/item?id=48146369 Points: 279 # Comments: 63",
       "source": "Hacker News",
       "published": "2026-05-15T09:19:24+00:00",
       "link": "https://github.com/Andyyyy64/whichllm"
@@ -234,7 +255,7 @@ const FEED_DATA = {
     },
     {
       "title": "Access to frontier AI will soon be limited by economic and security constraints",
-      "summary": "Article URL: https://writing.antonleicht.me/p/cut-off Comments URL: https://news.ycombinator.com/item?id=48143284 Points: 205 # Comments: 208",
+      "summary": "Article URL: https://writing.antonleicht.me/p/cut-off Comments URL: https://news.ycombinator.com/item?id=48143284 Points: 209 # Comments: 214",
       "source": "Hacker News",
       "published": "2026-05-15T01:08:04+00:00",
       "link": "https://writing.antonleicht.me/p/cut-off"
@@ -248,7 +269,7 @@ const FEED_DATA = {
     },
     {
       "title": "LLM Policy for Rust Compiler",
-      "summary": "Article URL: https://github.com/rust-lang/rust-forge/pull/1040 Comments URL: https://news.ycombinator.com/item?id=48142650 Points: 95 # Comments: 80",
+      "summary": "Article URL: https://github.com/rust-lang/rust-forge/pull/1040 Comments URL: https://news.ycombinator.com/item?id=48142650 Points: 96 # Comments: 82",
       "source": "Hacker News",
       "published": "2026-05-14T23:37:21+00:00",
       "link": "https://github.com/rust-lang/rust-forge/pull/1040"
@@ -262,7 +283,7 @@ const FEED_DATA = {
     },
     {
       "title": "Ontario auditors find doctors' AI note takers routinely blow basic facts",
-      "summary": "Article URL: https://www.theregister.com/ai-ml/2026/05/14/ontario-auditors-find-doctors-ai-note-takers-routinely-blow-basic-facts/5240771 Comments URL: https://news.ycombinator.com/item?id=48142188 Points: 290 # Comments: 134",
+      "summary": "Article URL: https://www.theregister.com/ai-ml/2026/05/14/ontario-auditors-find-doctors-ai-note-takers-routinely-blow-basic-facts/5240771 Comments URL: https://news.ycombinator.com/item?id=48142188 Points: 299 # Comments: 135",
       "source": "Hacker News",
       "published": "2026-05-14T22:37:40+00:00",
       "link": "https://www.theregister.com/ai-ml/2026/05/14/ontario-auditors-find-doctors-ai-note-takers-routinely-blow-basic-facts/5240771"
@@ -325,28 +346,28 @@ const FEED_DATA = {
     },
     {
       "title": "German intelligence offices snub Palantir software",
-      "summary": "Article URL: https://www.dw.com/en/german-intelligence-offices-snub-us-based-palantir-software/a-77160897 Comments URL: https://news.ycombinator.com/item?id=48139547 Points: 75 # Comments: 29",
+      "summary": "Article URL: https://www.dw.com/en/german-intelligence-offices-snub-us-based-palantir-software/a-77160897 Comments URL: https://news.ycombinator.com/item?id=48139547 Points: 76 # Comments: 29",
       "source": "Hacker News",
       "published": "2026-05-14T18:50:02+00:00",
       "link": "https://www.dw.com/en/german-intelligence-offices-snub-us-based-palantir-software/a-77160897"
     },
     {
       "title": "The AI zombification of universities",
-      "summary": "Article URL: https://www.thenewcritic.com/p/the-great-zombification Comments URL: https://news.ycombinator.com/item?id=48139355 Points: 190 # Comments: 205",
+      "summary": "Article URL: https://www.thenewcritic.com/p/the-great-zombification Comments URL: https://news.ycombinator.com/item?id=48139355 Points: 190 # Comments: 207",
       "source": "Hacker News",
       "published": "2026-05-14T18:37:08+00:00",
       "link": "https://www.thenewcritic.com/p/the-great-zombification"
     },
     {
       "title": "AI is making me dumb",
-      "summary": "Article URL: https://jpain.io/god-damn-ai-is-making-me-dumb/ Comments URL: https://news.ycombinator.com/item?id=48139148 Points: 528 # Comments: 302",
+      "summary": "Article URL: https://jpain.io/god-damn-ai-is-making-me-dumb/ Comments URL: https://news.ycombinator.com/item?id=48139148 Points: 532 # Comments: 302",
       "source": "Hacker News",
       "published": "2026-05-14T18:19:28+00:00",
       "link": "https://jpain.io/god-damn-ai-is-making-me-dumb/"
     },
     {
       "title": "The people writing AI alignment policy are not whose work is being replaced",
-      "summary": "Article URL: https://danieltan.weblog.lol/2026/05/you-dont-align-an-ai-you-align-with-it Comments URL: https://news.ycombinator.com/item?id=48139144 Points: 92 # Comments: 62",
+      "summary": "Article URL: https://danieltan.weblog.lol/2026/05/you-dont-align-an-ai-you-align-with-it Comments URL: https://news.ycombinator.com/item?id=48139144 Points: 92 # Comments: 63",
       "source": "Hacker News",
       "published": "2026-05-14T18:19:13+00:00",
       "link": "https://danieltan.weblog.lol/2026/05/you-dont-align-an-ai-you-align-with-it"
@@ -689,7 +710,7 @@ const FEED_DATA = {
     },
     {
       "title": "U.S. intelligence shows Iran retains substantial missile capabilities",
-      "summary": "Article URL: https://www.nytimes.com/2026/05/12/us/politics/iran-missiles-us-intelligence.html Comments URL: https://news.ycombinator.com/item?id=48123900 Points: 52 # Comments: 30",
+      "summary": "Article URL: https://www.nytimes.com/2026/05/12/us/politics/iran-missiles-us-intelligence.html Comments URL: https://news.ycombinator.com/item?id=48123900 Points: 52 # Comments: 31",
       "source": "Hacker News",
       "published": "2026-05-13T16:15:09+00:00",
       "link": "https://www.nytimes.com/2026/05/12/us/politics/iran-missiles-us-intelligence.html"
@@ -1379,27 +1400,6 @@ const FEED_DATA = {
       "source": "Hacker News",
       "published": "2026-05-10T23:36:48+00:00",
       "link": "https://kotaku.com/playstation-3-emulator-devs-politely-ask-that-people-stop-flooding-it-with-ai-code-pull-requests-2000694656"
-    },
-    {
-      "title": "Maryland citizens hit with $2B power grid upgrade for out-of-state AI",
-      "summary": "Article URL:...",
-      "source": "Hacker News",
-      "published": "2026-05-10T21:16:58+00:00",
-      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/maryland-citizens-slapped-with-usd2-billion-grid-upgrade-bill-for-out-of-state-ai-data-centers-state-complains-to-federal-energy-regulators-says-additional-cost-breaks-ratepayer-protection-pledge-promises"
-    },
-    {
-      "title": "Anthropic says ‘evil’ portrayals of AI were responsible for Claude’s blackmail attempts",
-      "summary": "Fictional portrayals of artificial intelligence can have a real effect on AI models, according to Anthropic.",
-      "source": "TechCrunch",
-      "published": "2026-05-10T20:40:41+00:00",
-      "link": "https://techcrunch.com/2026/05/10/anthropic-says-evil-portrayals-of-ai-were-responsible-for-claudes-blackmail-attempts/"
-    },
-    {
-      "title": "Local AI needs to be the norm",
-      "summary": "Article URL: https://unix.foo/posts/local-ai-needs-to-be-norm/ Comments URL: https://news.ycombinator.com/item?id=48085821 Points: 1864 # Comments: 740",
-      "source": "Hacker News",
-      "published": "2026-05-10T17:19:28+00:00",
-      "link": "https://unix.foo/posts/local-ai-needs-to-be-norm/"
     }
   ]
 };
