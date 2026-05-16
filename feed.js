@@ -1,12 +1,33 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-05-16T17:51:41.629154+00:00",
+  "lastUpdated": "2026-05-16T21:41:08.277029+00:00",
   "items": [
+    {
+      "title": "The haves and have nots of the AI gold rush",
+      "summary": "The vibes around the current AI boom aren't great, even in the tech industry.",
+      "source": "TechCrunch",
+      "published": "2026-05-16T20:17:16+00:00",
+      "link": "https://techcrunch.com/2026/05/16/the-haves-and-have-nots-of-the-ai-gold-rush/"
+    },
+    {
+      "title": "Research repository ArXiv will ban authors for a year if they let AI do all the work",
+      "summary": "ArXiv is doing more to crack down on the careless use of large language models in scientific papers.",
+      "source": "TechCrunch",
+      "published": "2026-05-16T18:54:28+00:00",
+      "link": "https://techcrunch.com/2026/05/16/research-repository-arxiv-will-ban-authors-for-a-year-if-they-let-ai-do-all-the-work/"
+    },
     {
       "title": "Sony tries to explain that its AI Camera Assistant doesn’t suck",
       "summary": "After Sony drew some unwanted attention for a post demonstrating its AI Camera Assistant on the Xperia 1 XIII, it's trying to clarify how the feature works. The company says it doesn't edit photos, but makes suggestions based on lighting, depth, and subject.",
       "source": "The Verge",
       "published": "2026-05-16T15:37:05+00:00",
       "link": "https://www.theverge.com/tech/932133/sony-xperia-1-xiii-ai-camera-assistant"
+    },
+    {
+      "title": "OpenAI co-founder Greg Brockman takes charge of product strategy",
+      "summary": "OpenAI's latest shakeup comes as the company reportedly plans to combine ChatGPT and its programming product Codex.",
+      "source": "TechCrunch",
+      "published": "2026-05-16T15:33:33+00:00",
+      "link": "https://techcrunch.com/2026/05/16/openai-co-founder-greg-brockman-reportedly-takes-charge-of-product-strategy/"
     },
     {
       "title": "OpenAI co-founder Greg Brockman reportedly takes charge of product strategy",
@@ -1379,27 +1400,6 @@ const FEED_DATA = {
       "source": "AI News",
       "published": "2026-05-11T14:34:05+00:00",
       "link": "https://www.artificialintelligence-news.com/news/ai-automates-hr-compliance-except-for-the-area-tech-companies-need/"
-    },
-    {
-      "title": "AI turns patches into working exploits in 30 minutes, and the 90-day disclosure window is the casualty",
-      "summary": "Language models find security flaws faster and turn patches into working exploits in minutes. A veteran researcher says the established disclosure process needs to change.",
-      "source": "The Decoder",
-      "published": "2026-05-11T13:53:20+00:00",
-      "link": "https://the-decoder.com/ai-turns-patches-into-working-exploits-in-30-minutes-and-the-90-day-disclosure-window-is-the-casualty/"
-    },
-    {
-      "title": "Fostering breakthrough AI innovation through customer-back engineering",
-      "summary": "Despite years of digitization, organizations capture less than one-third of the value expected from digital investments, according to McKinsey research.",
-      "source": "MIT Tech Review",
-      "published": "2026-05-11T13:33:06+00:00",
-      "link": "https://www.technologyreview.com/2026/05/11/1136967/fostering-breakthrough-ai-innovation-through-customer-back-engineering/"
-    },
-    {
-      "title": "Google says criminal hackers used AI to find a major software flaw",
-      "summary": "Unlocked: https://www.nytimes.com/2026/05/11/us/politics/google-hacker..., https://archive.ph/I4Ui5https://apnews.com/article/google-ai-cybersecurity-exploitat...https://www.cnbc.com/2026/05/11/google-thwarts-effort-hacker...",
-      "source": "Hacker News",
-      "published": "2026-05-11T13:20:14+00:00",
-      "link": "https://www.nytimes.com/2026/05/11/us/politics/google-hackers-attack-ai.html"
     }
   ]
 };
