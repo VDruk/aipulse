@@ -1,6 +1,41 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-05-17T07:33:39.454524+00:00",
+  "lastUpdated": "2026-05-17T10:15:13.957752+00:00",
   "items": [
+    {
+      "title": "Greg Brockman consolidates OpenAI's product teams to build an \"agentic future\"",
+      "summary": "OpenAI is merging ChatGPT, its coding agent Codex, and the developer API into a single product team led by Codex boss Thibault Sottiaux. The goal: a \"super app\" that also integrates the Atlas browser.",
+      "source": "The Decoder",
+      "published": "2026-05-17T09:51:41+00:00",
+      "link": "https://the-decoder.com/greg-brockman-consolidates-openais-product-teams-to-build-an-agentic-future/"
+    },
+    {
+      "title": "Mistral CEO Arthur Mensch warns France against letting Anthropic's Mythos scan military code bases",
+      "summary": "Mistral CEO Arthur Mensch warns of Europe's growing cybersecurity dependency: France's military code bases should not be scanned by US AI models. Modern AI can orchestrate attacks and suggest exploits, including Mistral's own models.",
+      "source": "The Decoder",
+      "published": "2026-05-17T09:15:30+00:00",
+      "link": "https://the-decoder.com/mistral-ceo-arthur-mensch-warns-france-against-letting-anthropics-mythos-scan-military-code-bases/"
+    },
+    {
+      "title": "New math benchmark reveals AI models confidently solve problems that have no solution",
+      "summary": "A consortium of 64 mathematicians built SOOHAK, a new AI benchmark with 439 handwritten tasks, including 99 that are deliberately unsolvable. Google's Gemini 3 Pro leads on research-level problems at 30 percent.",
+      "source": "The Decoder",
+      "published": "2026-05-17T08:56:52+00:00",
+      "link": "https://the-decoder.com/new-math-benchmark-reveals-ai-models-confidently-solve-problems-that-have-no-solution/"
+    },
+    {
+      "title": "Four AI models ran radio stations for six months and the results ranged from competent to unhinged",
+      "summary": "Andon Labs has been letting four AI models each run their own radio station autonomously for six months.",
+      "source": "The Decoder",
+      "published": "2026-05-17T08:30:55+00:00",
+      "link": "https://the-decoder.com/four-ai-models-ran-radio-stations-for-six-months-and-the-results-ranged-from-competent-to-unhinged/"
+    },
+    {
+      "title": "Oppo open-sources Android AI agent X-OmniClaw that uses your camera, screen, and voice without leaving the phone",
+      "summary": "Oppo's Multi-X team released X-OmniClaw, an open-source agent that runs directly on Android devices and combines camera, screen, and voice to handle tasks in real apps.",
+      "source": "The Decoder",
+      "published": "2026-05-17T07:39:40+00:00",
+      "link": "https://the-decoder.com/oppo-open-sources-android-ai-agent-x-omniclaw-that-uses-your-camera-screen-and-voice-without-leaving-the-phone/"
+    },
     {
       "title": "The haves and have nots of the AI gold rush",
       "summary": "The vibes around the current AI boom aren't great, even in the tech industry.",
@@ -17,7 +52,7 @@ const FEED_DATA = {
     },
     {
       "title": "US is starting to see heavy job losses in roles exposed to AI",
-      "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-05-15/us-is-starting-to-see-heavy-job-losses-in-roles-exposed-to-ai Comments URL: https://news.ycombinator.com/item?id=48162354 Points: 153 # Comments: 238",
+      "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-05-15/us-is-starting-to-see-heavy-job-losses-in-roles-exposed-to-ai Comments URL: https://news.ycombinator.com/item?id=48162354 Points: 156 # Comments: 245",
       "source": "Hacker News",
       "published": "2026-05-16T17:59:45+00:00",
       "link": "https://www.bloomberg.com/news/articles/2026-05-15/us-is-starting-to-see-heavy-job-losses-in-roles-exposed-to-ai"
@@ -45,7 +80,7 @@ const FEED_DATA = {
     },
     {
       "title": "DeepSeek-V4-Flash means LLM steering is interesting again",
-      "summary": "Article URL: https://www.seangoedecke.com/steering-vectors/ Comments URL: https://news.ycombinator.com/item?id=48160807 Points: 230 # Comments: 72",
+      "summary": "Article URL: https://www.seangoedecke.com/steering-vectors/ Comments URL: https://news.ycombinator.com/item?id=48160807 Points: 239 # Comments: 72",
       "source": "Hacker News",
       "published": "2026-05-16T14:58:16+00:00",
       "link": "https://www.seangoedecke.com/steering-vectors/"
@@ -115,7 +150,7 @@ const FEED_DATA = {
     },
     {
       "title": "Frontier AI has broken the open CTF format",
-      "summary": "Article URL: https://kabir.au/blog/the-ctf-scene-is-dead Comments URL: https://news.ycombinator.com/item?id=48157559 Points: 366 # Comments: 366",
+      "summary": "Article URL: https://kabir.au/blog/the-ctf-scene-is-dead Comments URL: https://news.ycombinator.com/item?id=48157559 Points: 378 # Comments: 383",
       "source": "Hacker News",
       "published": "2026-05-16T07:01:55+00:00",
       "link": "https://kabir.au/blog/the-ctf-scene-is-dead"
@@ -157,7 +192,7 @@ const FEED_DATA = {
     },
     {
       "title": "I believe there are entire companies right now under AI psychosis",
-      "summary": "https://xcancel.com/mitchellh/status/2055380239711457578https://hachyderm.io/@mitchellh/116580433508108130 Comments URL: https://news.ycombinator.com/item?id=48153379 Points: 1938 # Comments: 1135",
+      "summary": "https://xcancel.com/mitchellh/status/2055380239711457578https://hachyderm.io/@mitchellh/116580433508108130 Comments URL: https://news.ycombinator.com/item?id=48153379 Points: 1974 # Comments: 1154",
       "source": "Hacker News",
       "published": "2026-05-15T20:26:47+00:00",
       "link": "https://twitter.com/mitchellh/status/2055380239711457578"
@@ -283,7 +318,7 @@ const FEED_DATA = {
     },
     {
       "title": "Amazon workers under pressure to up their AI usage are making up tasks",
-      "summary": "Article URL: https://www.fastcompany.com/91541586/amazon-workers-pressured-to-up-ai-use-extraneous-tasks Comments URL: https://news.ycombinator.com/item?id=48148337 Points: 387 # Comments: 426",
+      "summary": "Article URL: https://www.fastcompany.com/91541586/amazon-workers-pressured-to-up-ai-use-extraneous-tasks Comments URL: https://news.ycombinator.com/item?id=48148337 Points: 389 # Comments: 426",
       "source": "Hacker News",
       "published": "2026-05-15T13:28:55+00:00",
       "link": "https://www.fastcompany.com/91541586/amazon-workers-pressured-to-up-ai-use-extraneous-tasks"
@@ -346,7 +381,7 @@ const FEED_DATA = {
     },
     {
       "title": "UK sovereign LLM inference",
-      "summary": "Article URL: https://relax.ai/docs Comments URL: https://news.ycombinator.com/item?id=48146424 Points: 107 # Comments: 112",
+      "summary": "Article URL: https://relax.ai/docs Comments URL: https://news.ycombinator.com/item?id=48146424 Points: 107 # Comments: 113",
       "source": "Hacker News",
       "published": "2026-05-15T09:27:26+00:00",
       "link": "https://relax.ai/docs"
@@ -1365,41 +1400,6 @@ const FEED_DATA = {
       "source": "MIT Tech Review",
       "published": "2026-05-11T17:35:12+00:00",
       "link": "https://www.technologyreview.com/2026/05/11/1137090/three-things-in-ai-to-watch-according-to-a-nobel-winning-economist/"
-    },
-    {
-      "title": "Baidu's Ernie 5.1 cuts 94 percent of pre-training costs while competing with top models",
-      "summary": "Baidu's Ernie 5.1 uses just a third of its predecessor's parameters and reportedly cost only six percent of what comparable models require to pre-train. That's possible thanks to a \"Once-For-All\" approach that extracts smaller sub-models from a single training run.",
-      "source": "The Decoder",
-      "published": "2026-05-11T17:08:06+00:00",
-      "link": "https://the-decoder.com/baidus-ernie-5-1-cuts-94-percent-of-pre-training-costs-while-competing-with-top-models/"
-    },
-    {
-      "title": "Digg tries again, this time as an AI news aggregator",
-      "summary": "In an email to beta testers, the company said the site's goal is to \"track the most influential voices in a space\" and to surface the news that's actually worth \"paying attention to.\"",
-      "source": "TechCrunch",
-      "published": "2026-05-11T17:02:35+00:00",
-      "link": "https://techcrunch.com/2026/05/11/digg-tries-again-this-time-as-an-ai-news-aggregator/"
-    },
-    {
-      "title": "Google stopped a zero-day hack that it says was developed with AI",
-      "summary": "For the first time, Google says it has spotted and stopped a zero-day exploit developed with AI.",
-      "source": "The Verge",
-      "published": "2026-05-11T16:09:42+00:00",
-      "link": "https://www.theverge.com/tech/928007/google-ai-zero-day-exploit-stopped"
-    },
-    {
-      "title": "Students boo commencement speaker after she calls AI next industrial revolution",
-      "summary": "Article URL: https://www.404media.co/ucf-ai-commencement-speaker-booed/ Comments URL: https://news.ycombinator.com/item?id=48096674 Points: 175 # Comments: 215",
-      "source": "Hacker News",
-      "published": "2026-05-11T15:53:23+00:00",
-      "link": "https://www.404media.co/ucf-ai-commencement-speaker-booed/"
-    },
-    {
-      "title": "OpenAI's DeployCo subsidiary adopts Palantir's playbook, building a moat from workflows no lab can simulate",
-      "summary": "OpenAI is building a consulting and implementation business. The \"OpenAI Deployment Company,\" internally called DeployCo, is a majority-controlled subsidiary designed to help companies integrate AI systems into their core operations.",
-      "source": "The Decoder",
-      "published": "2026-05-11T15:40:35+00:00",
-      "link": "https://the-decoder.com/openais-deployco-subsidiary-adopts-palantirs-playbook-building-a-moat-from-workflows-no-lab-can-simulate/"
     }
   ]
 };
