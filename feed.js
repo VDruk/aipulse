@@ -1,5 +1,5 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-05-16T21:41:08.277029+00:00",
+  "lastUpdated": "2026-05-17T04:52:11.740012+00:00",
   "items": [
     {
       "title": "The haves and have nots of the AI gold rush",
@@ -14,6 +14,13 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-05-16T18:54:28+00:00",
       "link": "https://techcrunch.com/2026/05/16/research-repository-arxiv-will-ban-authors-for-a-year-if-they-let-ai-do-all-the-work/"
+    },
+    {
+      "title": "US is starting to see heavy job losses in roles exposed to AI",
+      "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-05-15/us-is-starting-to-see-heavy-job-losses-in-roles-exposed-to-ai Comments URL: https://news.ycombinator.com/item?id=48162354 Points: 148 # Comments: 235",
+      "source": "Hacker News",
+      "published": "2026-05-16T17:59:45+00:00",
+      "link": "https://www.bloomberg.com/news/articles/2026-05-15/us-is-starting-to-see-heavy-job-losses-in-roles-exposed-to-ai"
     },
     {
       "title": "Sony tries to explain that its AI Camera Assistant doesn’t suck",
@@ -38,7 +45,7 @@ const FEED_DATA = {
     },
     {
       "title": "DeepSeek-V4-Flash means LLM steering is interesting again",
-      "summary": "Article URL: https://www.seangoedecke.com/steering-vectors/ Comments URL: https://news.ycombinator.com/item?id=48160807 Points: 97 # Comments: 34",
+      "summary": "Article URL: https://www.seangoedecke.com/steering-vectors/ Comments URL: https://news.ycombinator.com/item?id=48160807 Points: 220 # Comments: 70",
       "source": "Hacker News",
       "published": "2026-05-16T14:58:16+00:00",
       "link": "https://www.seangoedecke.com/steering-vectors/"
@@ -93,6 +100,13 @@ const FEED_DATA = {
       "link": "https://the-decoder.com/ai-made-a-tiny-slice-of-silicon-valley-filthy-rich-and-left-the-rest-wondering-why-they-bother/"
     },
     {
+      "title": "Someone Shared a Real Monet Painting as AI and Asked for Critiques",
+      "summary": "Article URL: https://petapixel.com/2026/05/14/someone-shared-a-real-monet-painting-as-ai-and-asked-for-critiques/ Comments URL: https://news.ycombinator.com/item?id=48158110 Points: 54 # Comments: 64",
+      "source": "Hacker News",
+      "published": "2026-05-16T08:30:51+00:00",
+      "link": "https://petapixel.com/2026/05/14/someone-shared-a-real-monet-painting-as-ai-and-asked-for-critiques/"
+    },
+    {
       "title": "Researchers train AI model that hits near-full performance with just 12.5 percent of its experts",
       "summary": "Researchers at the Allen Institute for AI and UC Berkeley have built EMO, a mixture-of-experts model whose experts specialize in content domains instead of word types.",
       "source": "The Decoder",
@@ -101,7 +115,7 @@ const FEED_DATA = {
     },
     {
       "title": "Frontier AI has broken the open CTF format",
-      "summary": "Article URL: https://kabir.au/blog/the-ctf-scene-is-dead Comments URL: https://news.ycombinator.com/item?id=48157559 Points: 264 # Comments: 240",
+      "summary": "Article URL: https://kabir.au/blog/the-ctf-scene-is-dead Comments URL: https://news.ycombinator.com/item?id=48157559 Points: 351 # Comments: 351",
       "source": "Hacker News",
       "published": "2026-05-16T07:01:55+00:00",
       "link": "https://kabir.au/blog/the-ctf-scene-is-dead"
@@ -143,7 +157,7 @@ const FEED_DATA = {
     },
     {
       "title": "I believe there are entire companies right now under AI psychosis",
-      "summary": "https://xcancel.com/mitchellh/status/2055380239711457578https://hachyderm.io/@mitchellh/116580433508108130 Comments URL: https://news.ycombinator.com/item?id=48153379 Points: 1688 # Comments: 908",
+      "summary": "https://xcancel.com/mitchellh/status/2055380239711457578https://hachyderm.io/@mitchellh/116580433508108130 Comments URL: https://news.ycombinator.com/item?id=48153379 Points: 1918 # Comments: 1111",
       "source": "Hacker News",
       "published": "2026-05-15T20:26:47+00:00",
       "link": "https://twitter.com/mitchellh/status/2055380239711457578"
@@ -269,7 +283,7 @@ const FEED_DATA = {
     },
     {
       "title": "Amazon workers under pressure to up their AI usage are making up tasks",
-      "summary": "Article URL: https://www.fastcompany.com/91541586/amazon-workers-pressured-to-up-ai-use-extraneous-tasks Comments URL: https://news.ycombinator.com/item?id=48148337 Points: 369 # Comments: 412",
+      "summary": "Article URL: https://www.fastcompany.com/91541586/amazon-workers-pressured-to-up-ai-use-extraneous-tasks Comments URL: https://news.ycombinator.com/item?id=48148337 Points: 384 # Comments: 425",
       "source": "Hacker News",
       "published": "2026-05-15T13:28:55+00:00",
       "link": "https://www.fastcompany.com/91541586/amazon-workers-pressured-to-up-ai-use-extraneous-tasks"
@@ -325,21 +339,21 @@ const FEED_DATA = {
     },
     {
       "title": "Overseas fakers using AI videos to push a narrative of UK decline, BBC finds",
-      "summary": "Article URL: https://www.bbc.co.uk/news/articles/ckgpyn30dp3o Comments URL: https://news.ycombinator.com/item?id=48146656 Points: 57 # Comments: 47",
+      "summary": "Article URL: https://www.bbc.co.uk/news/articles/ckgpyn30dp3o Comments URL: https://news.ycombinator.com/item?id=48146656 Points: 58 # Comments: 47",
       "source": "Hacker News",
       "published": "2026-05-15T09:57:03+00:00",
       "link": "https://www.bbc.co.uk/news/articles/ckgpyn30dp3o"
     },
     {
       "title": "UK sovereign LLM inference",
-      "summary": "Article URL: https://relax.ai/docs Comments URL: https://news.ycombinator.com/item?id=48146424 Points: 106 # Comments: 111",
+      "summary": "Article URL: https://relax.ai/docs Comments URL: https://news.ycombinator.com/item?id=48146424 Points: 107 # Comments: 112",
       "source": "Hacker News",
       "published": "2026-05-15T09:27:26+00:00",
       "link": "https://relax.ai/docs"
     },
     {
       "title": "Show HN: Find the best local LLM for your hardware, ranked by benchmarks",
-      "summary": "Article URL: https://github.com/Andyyyy64/whichllm Comments URL: https://news.ycombinator.com/item?id=48146369 Points: 282 # Comments: 66",
+      "summary": "Article URL: https://github.com/Andyyyy64/whichllm Comments URL: https://news.ycombinator.com/item?id=48146369 Points: 283 # Comments: 66",
       "source": "Hacker News",
       "published": "2026-05-15T09:19:24+00:00",
       "link": "https://github.com/Andyyyy64/whichllm"
@@ -374,7 +388,7 @@ const FEED_DATA = {
     },
     {
       "title": "Access to frontier AI will soon be limited by economic and security constraints",
-      "summary": "Article URL: https://writing.antonleicht.me/p/cut-off Comments URL: https://news.ycombinator.com/item?id=48143284 Points: 218 # Comments: 215",
+      "summary": "Article URL: https://writing.antonleicht.me/p/cut-off Comments URL: https://news.ycombinator.com/item?id=48143284 Points: 222 # Comments: 215",
       "source": "Hacker News",
       "published": "2026-05-15T01:08:04+00:00",
       "link": "https://writing.antonleicht.me/p/cut-off"
@@ -402,7 +416,7 @@ const FEED_DATA = {
     },
     {
       "title": "Ontario auditors find doctors' AI note takers routinely blow basic facts",
-      "summary": "Article URL: https://www.theregister.com/ai-ml/2026/05/14/ontario-auditors-find-doctors-ai-note-takers-routinely-blow-basic-facts/5240771 Comments URL: https://news.ycombinator.com/item?id=48142188 Points: 305 # Comments: 137",
+      "summary": "Article URL: https://www.theregister.com/ai-ml/2026/05/14/ontario-auditors-find-doctors-ai-note-takers-routinely-blow-basic-facts/5240771 Comments URL: https://news.ycombinator.com/item?id=48142188 Points: 309 # Comments: 138",
       "source": "Hacker News",
       "published": "2026-05-14T22:37:40+00:00",
       "link": "https://www.theregister.com/ai-ml/2026/05/14/ontario-auditors-find-doctors-ai-note-takers-routinely-blow-basic-facts/5240771"
@@ -472,7 +486,7 @@ const FEED_DATA = {
     },
     {
       "title": "The AI zombification of universities",
-      "summary": "Article URL: https://www.thenewcritic.com/p/the-great-zombification Comments URL: https://news.ycombinator.com/item?id=48139355 Points: 193 # Comments: 215",
+      "summary": "Article URL: https://www.thenewcritic.com/p/the-great-zombification Comments URL: https://news.ycombinator.com/item?id=48139355 Points: 193 # Comments: 216",
       "source": "Hacker News",
       "published": "2026-05-14T18:37:08+00:00",
       "link": "https://www.thenewcritic.com/p/the-great-zombification"
@@ -486,7 +500,7 @@ const FEED_DATA = {
     },
     {
       "title": "The people writing AI alignment policy are not whose work is being replaced",
-      "summary": "Article URL: https://danieltan.weblog.lol/2026/05/you-dont-align-an-ai-you-align-with-it Comments URL: https://news.ycombinator.com/item?id=48139144 Points: 92 # Comments: 63",
+      "summary": "Article URL: https://danieltan.weblog.lol/2026/05/you-dont-align-an-ai-you-align-with-it Comments URL: https://news.ycombinator.com/item?id=48139144 Points: 92 # Comments: 64",
       "source": "Hacker News",
       "published": "2026-05-14T18:19:13+00:00",
       "link": "https://danieltan.weblog.lol/2026/05/you-dont-align-an-ai-you-align-with-it"
@@ -1386,20 +1400,6 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-05-11T15:40:35+00:00",
       "link": "https://the-decoder.com/openais-deployco-subsidiary-adopts-palantirs-playbook-building-a-moat-from-workflows-no-lab-can-simulate/"
-    },
-    {
-      "title": "Lawsuit claims ChatGPT coached FSU shooter on gun operation, timing, and victim thresholds",
-      "summary": "OpenAI is facing a lawsuit over the mass shooting at Florida State University. According to the complaint, the shooter spent months talking to ChatGPT about guns and shootings.",
-      "source": "The Decoder",
-      "published": "2026-05-11T15:19:44+00:00",
-      "link": "https://the-decoder.com/lawsuit-claims-chatgpt-coached-fsu-shooter-on-gun-operation-timing-and-victim-thresholds/"
-    },
-    {
-      "title": "AI automates HR compliance, except for the area tech companies need",
-      "summary": "Artificial intelligence is transforming how companies handle compliance. Background checks run in real-time.",
-      "source": "AI News",
-      "published": "2026-05-11T14:34:05+00:00",
-      "link": "https://www.artificialintelligence-news.com/news/ai-automates-hr-compliance-except-for-the-area-tech-companies-need/"
     }
   ]
 };
