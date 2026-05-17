@@ -1,6 +1,34 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-05-17T10:15:13.957752+00:00",
+  "lastUpdated": "2026-05-17T14:26:07.123931+00:00",
   "items": [
+    {
+      "title": "World Action Models give robots the ability to simulate consequences before they move",
+      "summary": "World Action Models tackle a basic weakness of today's robotics AI: current models learn which movements match which camera images, but they don't understand how the world actually changes as a result.",
+      "source": "The Decoder",
+      "published": "2026-05-17T13:15:25+00:00",
+      "link": "https://the-decoder.com/world-action-models-give-robots-the-ability-to-simulate-consequences-before-they-move/"
+    },
+    {
+      "title": "I don't think AI will make your processes go faster",
+      "summary": "Article URL: https://frederickvanbrabant.com/blog/2026-05-15-i-dont-think-ai-will-make-your-processes-go-faster/ Comments URL: https://news.ycombinator.com/item?id=48168221 Points: 129 # Comments: 67",
+      "source": "Hacker News",
+      "published": "2026-05-17T12:13:45+00:00",
+      "link": "https://frederickvanbrabant.com/blog/2026-05-15-i-dont-think-ai-will-make-your-processes-go-faster/"
+    },
+    {
+      "title": "Chatbots at the drive-thru are just the beginning",
+      "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more news about how AI is seeping into our daily lives, follow Emma Roth.",
+      "source": "The Verge",
+      "published": "2026-05-17T12:00:00+00:00",
+      "link": "https://www.theverge.com/column/928096/chatbots-ai-drive-thru-mcdonalds-wendys"
+    },
+    {
+      "title": "Every AI Subscription Is a Ticking Time Bomb for Enterprise",
+      "summary": "Article URL: https://www.thestateofbrand.com/news/ai-subscription-time-bomb Comments URL: https://news.ycombinator.com/item?id=48168056 Points: 103 # Comments: 65",
+      "source": "Hacker News",
+      "published": "2026-05-17T11:49:31+00:00",
+      "link": "https://www.thestateofbrand.com/news/ai-subscription-time-bomb"
+    },
     {
       "title": "Greg Brockman consolidates OpenAI's product teams to build an \"agentic future\"",
       "summary": "OpenAI is merging ChatGPT, its coding agent Codex, and the developer API into a single product team led by Codex boss Thibault Sottiaux. The goal: a \"super app\" that also integrates the Atlas browser.",
@@ -52,7 +80,7 @@ const FEED_DATA = {
     },
     {
       "title": "US is starting to see heavy job losses in roles exposed to AI",
-      "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-05-15/us-is-starting-to-see-heavy-job-losses-in-roles-exposed-to-ai Comments URL: https://news.ycombinator.com/item?id=48162354 Points: 156 # Comments: 245",
+      "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-05-15/us-is-starting-to-see-heavy-job-losses-in-roles-exposed-to-ai Comments URL: https://news.ycombinator.com/item?id=48162354 Points: 156 # Comments: 250",
       "source": "Hacker News",
       "published": "2026-05-16T17:59:45+00:00",
       "link": "https://www.bloomberg.com/news/articles/2026-05-15/us-is-starting-to-see-heavy-job-losses-in-roles-exposed-to-ai"
@@ -80,7 +108,7 @@ const FEED_DATA = {
     },
     {
       "title": "DeepSeek-V4-Flash means LLM steering is interesting again",
-      "summary": "Article URL: https://www.seangoedecke.com/steering-vectors/ Comments URL: https://news.ycombinator.com/item?id=48160807 Points: 239 # Comments: 72",
+      "summary": "Article URL: https://www.seangoedecke.com/steering-vectors/ Comments URL: https://news.ycombinator.com/item?id=48160807 Points: 248 # Comments: 73",
       "source": "Hacker News",
       "published": "2026-05-16T14:58:16+00:00",
       "link": "https://www.seangoedecke.com/steering-vectors/"
@@ -136,7 +164,7 @@ const FEED_DATA = {
     },
     {
       "title": "Someone Shared a Real Monet Painting as AI and Asked for Critiques",
-      "summary": "Article URL: https://petapixel.com/2026/05/14/someone-shared-a-real-monet-painting-as-ai-and-asked-for-critiques/ Comments URL: https://news.ycombinator.com/item?id=48158110 Points: 54 # Comments: 65",
+      "summary": "Article URL: https://petapixel.com/2026/05/14/someone-shared-a-real-monet-painting-as-ai-and-asked-for-critiques/ Comments URL: https://news.ycombinator.com/item?id=48158110 Points: 54 # Comments: 66",
       "source": "Hacker News",
       "published": "2026-05-16T08:30:51+00:00",
       "link": "https://petapixel.com/2026/05/14/someone-shared-a-real-monet-painting-as-ai-and-asked-for-critiques/"
@@ -150,7 +178,7 @@ const FEED_DATA = {
     },
     {
       "title": "Frontier AI has broken the open CTF format",
-      "summary": "Article URL: https://kabir.au/blog/the-ctf-scene-is-dead Comments URL: https://news.ycombinator.com/item?id=48157559 Points: 378 # Comments: 383",
+      "summary": "Article URL: https://kabir.au/blog/the-ctf-scene-is-dead Comments URL: https://news.ycombinator.com/item?id=48157559 Points: 399 # Comments: 418",
       "source": "Hacker News",
       "published": "2026-05-16T07:01:55+00:00",
       "link": "https://kabir.au/blog/the-ctf-scene-is-dead"
@@ -192,7 +220,7 @@ const FEED_DATA = {
     },
     {
       "title": "I believe there are entire companies right now under AI psychosis",
-      "summary": "https://xcancel.com/mitchellh/status/2055380239711457578https://hachyderm.io/@mitchellh/116580433508108130 Comments URL: https://news.ycombinator.com/item?id=48153379 Points: 1974 # Comments: 1154",
+      "summary": "https://xcancel.com/mitchellh/status/2055380239711457578https://hachyderm.io/@mitchellh/116580433508108130 Comments URL: https://news.ycombinator.com/item?id=48153379 Points: 2037 # Comments: 1192",
       "source": "Hacker News",
       "published": "2026-05-15T20:26:47+00:00",
       "link": "https://twitter.com/mitchellh/status/2055380239711457578"
@@ -318,7 +346,7 @@ const FEED_DATA = {
     },
     {
       "title": "Amazon workers under pressure to up their AI usage are making up tasks",
-      "summary": "Article URL: https://www.fastcompany.com/91541586/amazon-workers-pressured-to-up-ai-use-extraneous-tasks Comments URL: https://news.ycombinator.com/item?id=48148337 Points: 389 # Comments: 426",
+      "summary": "Article URL: https://www.fastcompany.com/91541586/amazon-workers-pressured-to-up-ai-use-extraneous-tasks Comments URL: https://news.ycombinator.com/item?id=48148337 Points: 394 # Comments: 427",
       "source": "Hacker News",
       "published": "2026-05-15T13:28:55+00:00",
       "link": "https://www.fastcompany.com/91541586/amazon-workers-pressured-to-up-ai-use-extraneous-tasks"
@@ -388,7 +416,7 @@ const FEED_DATA = {
     },
     {
       "title": "Show HN: Find the best local LLM for your hardware, ranked by benchmarks",
-      "summary": "Article URL: https://github.com/Andyyyy64/whichllm Comments URL: https://news.ycombinator.com/item?id=48146369 Points: 283 # Comments: 66",
+      "summary": "Article URL: https://github.com/Andyyyy64/whichllm Comments URL: https://news.ycombinator.com/item?id=48146369 Points: 283 # Comments: 68",
       "source": "Hacker News",
       "published": "2026-05-15T09:19:24+00:00",
       "link": "https://github.com/Andyyyy64/whichllm"
@@ -528,7 +556,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI is making me dumb",
-      "summary": "Article URL: https://jpain.io/god-damn-ai-is-making-me-dumb/ Comments URL: https://news.ycombinator.com/item?id=48139148 Points: 541 # Comments: 302",
+      "summary": "Article URL: https://jpain.io/god-damn-ai-is-making-me-dumb/ Comments URL: https://news.ycombinator.com/item?id=48139148 Points: 543 # Comments: 302",
       "source": "Hacker News",
       "published": "2026-05-14T18:19:28+00:00",
       "link": "https://jpain.io/god-damn-ai-is-making-me-dumb/"
@@ -1372,34 +1400,6 @@ const FEED_DATA = {
       "source": "The Verge",
       "published": "2026-05-11T22:19:15+00:00",
       "link": "https://www.theverge.com/ai-artificial-intelligence/928309/mira-murati-thinking-machines-ai-interaction-model"
-    },
-    {
-      "title": "I let AI build a tool to help me figure out what was waking me up at night",
-      "summary": "Article URL: https://martin.sh/i-let-ai-build-a-tool-to-help-me-figure-out-what-was-waking-me-up-at-night/ Comments URL: https://news.ycombinator.com/item?id=48100662 Points: 270 # Comments: 283",
-      "source": "Hacker News",
-      "published": "2026-05-11T21:04:10+00:00",
-      "link": "https://martin.sh/i-let-ai-build-a-tool-to-help-me-figure-out-what-was-waking-me-up-at-night/"
-    },
-    {
-      "title": "If AI writes your code, why use Python?",
-      "summary": "Article URL: https://medium.com/@NMitchem/if-ai-writes-your-code-why-use-python-bf8c4ba1a055 Comments URL: https://news.ycombinator.com/item?id=48100433 Points: 909 # Comments: 965",
-      "source": "Hacker News",
-      "published": "2026-05-11T20:45:55+00:00",
-      "link": "https://medium.com/@NMitchem/if-ai-writes-your-code-why-use-python-bf8c4ba1a055"
-    },
-    {
-      "title": "The EU wants to regulate AI but needs OpenAI and Anthropic to let regulators through the door",
-      "summary": "OpenAI has offered the EU Commission direct access to its new GPT-5.5 Cyber model for security review, with talks already underway. Anthropic is proving harder to pin down: after four to five meetings on its Mythos model, regulators still don't have access.",
-      "source": "The Decoder",
-      "published": "2026-05-11T18:19:50+00:00",
-      "link": "https://the-decoder.com/the-eu-wants-to-regulate-ai-but-needs-openai-and-anthropic-to-let-regulators-through-the-door/"
-    },
-    {
-      "title": "Three things in AI to watch, according to a Nobel-winning economist",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here.",
-      "source": "MIT Tech Review",
-      "published": "2026-05-11T17:35:12+00:00",
-      "link": "https://www.technologyreview.com/2026/05/11/1137090/three-things-in-ai-to-watch-according-to-a-nobel-winning-economist/"
     }
   ]
 };
