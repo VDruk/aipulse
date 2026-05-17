@@ -1,6 +1,27 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-05-17T14:26:07.123931+00:00",
+  "lastUpdated": "2026-05-17T17:53:48.153754+00:00",
   "items": [
+    {
+      "title": "University of Arizona students boo Eric Schmidt’s AI cheerleading during commencement",
+      "summary": "Former Google CEO Eric Schmidt delivered the commencement address at the University of Arizona on Friday. And, as his speech veered into talk of AI, he was repeatedly drowned out by boos.",
+      "source": "The Verge",
+      "published": "2026-05-17T17:22:23+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/932203/university-of-arizona-students-boo-eric-schmidt-ai-commencement"
+    },
+    {
+      "title": "If you’re giving a commencement speech in 2026, maybe don’t mention AI",
+      "summary": "It's tough to get graduating students excited about a future shaped by artificial intelligence.",
+      "source": "TechCrunch",
+      "published": "2026-05-17T16:32:04+00:00",
+      "link": "https://techcrunch.com/2026/05/17/if-youre-giving-a-commencement-speech-in-2026-maybe-dont-mention-ai/"
+    },
+    {
+      "title": "TechCrunch Mobility: The AI skills arms race is coming for automotive",
+      "summary": "Welcome back to TechCrunch Mobility — your central hub for news and insights on the future of transportation.",
+      "source": "TechCrunch",
+      "published": "2026-05-17T16:05:00+00:00",
+      "link": "https://techcrunch.com/2026/05/17/techcrunch-mobility-the-ai-skills-arms-race-is-coming-for-automotive/"
+    },
     {
       "title": "World Action Models give robots the ability to simulate consequences before they move",
       "summary": "World Action Models tackle a basic weakness of today's robotics AI: current models learn which movements match which camera images, but they don't understand how the world actually changes as a result.",
@@ -9,8 +30,15 @@ const FEED_DATA = {
       "link": "https://the-decoder.com/world-action-models-give-robots-the-ability-to-simulate-consequences-before-they-move/"
     },
     {
+      "title": "AI is a technology not a product",
+      "summary": "Article URL: https://daringfireball.net/2026/05/ai_is_technology_not_a_product Comments URL: https://news.ycombinator.com/item?id=48168626 Points: 167 # Comments: 54",
+      "source": "Hacker News",
+      "published": "2026-05-17T13:11:20+00:00",
+      "link": "https://daringfireball.net/2026/05/ai_is_technology_not_a_product"
+    },
+    {
       "title": "I don't think AI will make your processes go faster",
-      "summary": "Article URL: https://frederickvanbrabant.com/blog/2026-05-15-i-dont-think-ai-will-make-your-processes-go-faster/ Comments URL: https://news.ycombinator.com/item?id=48168221 Points: 129 # Comments: 67",
+      "summary": "Article URL: https://frederickvanbrabant.com/blog/2026-05-15-i-dont-think-ai-will-make-your-processes-go-faster/ Comments URL: https://news.ycombinator.com/item?id=48168221 Points: 331 # Comments: 259",
       "source": "Hacker News",
       "published": "2026-05-17T12:13:45+00:00",
       "link": "https://frederickvanbrabant.com/blog/2026-05-15-i-dont-think-ai-will-make-your-processes-go-faster/"
@@ -24,7 +52,7 @@ const FEED_DATA = {
     },
     {
       "title": "Every AI Subscription Is a Ticking Time Bomb for Enterprise",
-      "summary": "Article URL: https://www.thestateofbrand.com/news/ai-subscription-time-bomb Comments URL: https://news.ycombinator.com/item?id=48168056 Points: 103 # Comments: 65",
+      "summary": "Article URL: https://www.thestateofbrand.com/news/ai-subscription-time-bomb Comments URL: https://news.ycombinator.com/item?id=48168056 Points: 279 # Comments: 251",
       "source": "Hacker News",
       "published": "2026-05-17T11:49:31+00:00",
       "link": "https://www.thestateofbrand.com/news/ai-subscription-time-bomb"
@@ -80,7 +108,7 @@ const FEED_DATA = {
     },
     {
       "title": "US is starting to see heavy job losses in roles exposed to AI",
-      "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-05-15/us-is-starting-to-see-heavy-job-losses-in-roles-exposed-to-ai Comments URL: https://news.ycombinator.com/item?id=48162354 Points: 156 # Comments: 250",
+      "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-05-15/us-is-starting-to-see-heavy-job-losses-in-roles-exposed-to-ai Comments URL: https://news.ycombinator.com/item?id=48162354 Points: 159 # Comments: 259",
       "source": "Hacker News",
       "published": "2026-05-16T17:59:45+00:00",
       "link": "https://www.bloomberg.com/news/articles/2026-05-15/us-is-starting-to-see-heavy-job-losses-in-roles-exposed-to-ai"
@@ -108,7 +136,7 @@ const FEED_DATA = {
     },
     {
       "title": "DeepSeek-V4-Flash means LLM steering is interesting again",
-      "summary": "Article URL: https://www.seangoedecke.com/steering-vectors/ Comments URL: https://news.ycombinator.com/item?id=48160807 Points: 248 # Comments: 73",
+      "summary": "Article URL: https://www.seangoedecke.com/steering-vectors/ Comments URL: https://news.ycombinator.com/item?id=48160807 Points: 255 # Comments: 73",
       "source": "Hacker News",
       "published": "2026-05-16T14:58:16+00:00",
       "link": "https://www.seangoedecke.com/steering-vectors/"
@@ -164,7 +192,7 @@ const FEED_DATA = {
     },
     {
       "title": "Someone Shared a Real Monet Painting as AI and Asked for Critiques",
-      "summary": "Article URL: https://petapixel.com/2026/05/14/someone-shared-a-real-monet-painting-as-ai-and-asked-for-critiques/ Comments URL: https://news.ycombinator.com/item?id=48158110 Points: 54 # Comments: 66",
+      "summary": "Article URL: https://petapixel.com/2026/05/14/someone-shared-a-real-monet-painting-as-ai-and-asked-for-critiques/ Comments URL: https://news.ycombinator.com/item?id=48158110 Points: 56 # Comments: 66",
       "source": "Hacker News",
       "published": "2026-05-16T08:30:51+00:00",
       "link": "https://petapixel.com/2026/05/14/someone-shared-a-real-monet-painting-as-ai-and-asked-for-critiques/"
@@ -178,7 +206,7 @@ const FEED_DATA = {
     },
     {
       "title": "Frontier AI has broken the open CTF format",
-      "summary": "Article URL: https://kabir.au/blog/the-ctf-scene-is-dead Comments URL: https://news.ycombinator.com/item?id=48157559 Points: 399 # Comments: 418",
+      "summary": "Article URL: https://kabir.au/blog/the-ctf-scene-is-dead Comments URL: https://news.ycombinator.com/item?id=48157559 Points: 404 # Comments: 428",
       "source": "Hacker News",
       "published": "2026-05-16T07:01:55+00:00",
       "link": "https://kabir.au/blog/the-ctf-scene-is-dead"
@@ -220,7 +248,7 @@ const FEED_DATA = {
     },
     {
       "title": "I believe there are entire companies right now under AI psychosis",
-      "summary": "https://xcancel.com/mitchellh/status/2055380239711457578https://hachyderm.io/@mitchellh/116580433508108130 Comments URL: https://news.ycombinator.com/item?id=48153379 Points: 2037 # Comments: 1192",
+      "summary": "https://xcancel.com/mitchellh/status/2055380239711457578https://hachyderm.io/@mitchellh/116580433508108130 Comments URL: https://news.ycombinator.com/item?id=48153379 Points: 2061 # Comments: 1210",
       "source": "Hacker News",
       "published": "2026-05-15T20:26:47+00:00",
       "link": "https://twitter.com/mitchellh/status/2055380239711457578"
@@ -451,7 +479,7 @@ const FEED_DATA = {
     },
     {
       "title": "Access to frontier AI will soon be limited by economic and security constraints",
-      "summary": "Article URL: https://writing.antonleicht.me/p/cut-off Comments URL: https://news.ycombinator.com/item?id=48143284 Points: 222 # Comments: 215",
+      "summary": "Article URL: https://writing.antonleicht.me/p/cut-off Comments URL: https://news.ycombinator.com/item?id=48143284 Points: 224 # Comments: 215",
       "source": "Hacker News",
       "published": "2026-05-15T01:08:04+00:00",
       "link": "https://writing.antonleicht.me/p/cut-off"
@@ -479,7 +507,7 @@ const FEED_DATA = {
     },
     {
       "title": "Ontario auditors find doctors' AI note takers routinely blow basic facts",
-      "summary": "Article URL: https://www.theregister.com/ai-ml/2026/05/14/ontario-auditors-find-doctors-ai-note-takers-routinely-blow-basic-facts/5240771 Comments URL: https://news.ycombinator.com/item?id=48142188 Points: 309 # Comments: 138",
+      "summary": "Article URL: https://www.theregister.com/ai-ml/2026/05/14/ontario-auditors-find-doctors-ai-note-takers-routinely-blow-basic-facts/5240771 Comments URL: https://news.ycombinator.com/item?id=48142188 Points: 310 # Comments: 138",
       "source": "Hacker News",
       "published": "2026-05-14T22:37:40+00:00",
       "link": "https://www.theregister.com/ai-ml/2026/05/14/ontario-auditors-find-doctors-ai-note-takers-routinely-blow-basic-facts/5240771"
@@ -556,7 +584,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI is making me dumb",
-      "summary": "Article URL: https://jpain.io/god-damn-ai-is-making-me-dumb/ Comments URL: https://news.ycombinator.com/item?id=48139148 Points: 543 # Comments: 302",
+      "summary": "Article URL: https://jpain.io/god-damn-ai-is-making-me-dumb/ Comments URL: https://news.ycombinator.com/item?id=48139148 Points: 544 # Comments: 302",
       "source": "Hacker News",
       "published": "2026-05-14T18:19:28+00:00",
       "link": "https://jpain.io/god-damn-ai-is-making-me-dumb/"
@@ -1372,34 +1400,6 @@ const FEED_DATA = {
       "source": "Wired",
       "published": "2026-05-11T23:51:35+00:00",
       "link": "https://www.wired.com/story/ilya-sutskever-testifies-musk-v-altman-trial/"
-    },
-    {
-      "title": "GM just laid off IT workers to hire those with stronger AI skills",
-      "summary": "Article URL: https://techcrunch.com/2026/05/11/gm-just-laid-off-hundreds-of-it-workers-to-hire-those-with-stronger-ai-skills/ Comments URL: https://news.ycombinator.com/item?id=48102198 Points: 67 # Comments: 88",
-      "source": "Hacker News",
-      "published": "2026-05-11T23:33:04+00:00",
-      "link": "https://techcrunch.com/2026/05/11/gm-just-laid-off-hundreds-of-it-workers-to-hire-those-with-stronger-ai-skills/"
-    },
-    {
-      "title": "OpenAI just released its answer to Claude Mythos",
-      "summary": "OpenAI is launching Daybreak, an AI initiative focused on detecting and patching vulnerabilities before attackers find them.",
-      "source": "The Verge",
-      "published": "2026-05-11T23:05:01+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/928342/openai-daybreak-security-ai"
-    },
-    {
-      "title": "GM just laid off hundreds of IT workers to hire those with stronger AI skills",
-      "summary": "Some of the positions focus on AI-native development, data engineering and analytics, cloud-based engineering, and agent and model development as well as prompt engineering and new AI workflows.",
-      "source": "TechCrunch",
-      "published": "2026-05-11T23:04:10+00:00",
-      "link": "https://techcrunch.com/2026/05/11/gm-just-laid-off-hundreds-of-it-workers-to-hire-those-with-stronger-ai-skills/"
-    },
-    {
-      "title": "Here’s what Mira Murati’s AI company is up to",
-      "summary": "Thinking Machines, the AI company founded by former OpenAI CTO Mira Murati, announced Monday that it's working on something called \"interaction models.\" The idea behind interaction models, according to Thinking Machines, is that they will let people \"collaborate with AI the way...",
-      "source": "The Verge",
-      "published": "2026-05-11T22:19:15+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/928309/mira-murati-thinking-machines-ai-interaction-model"
     }
   ]
 };
