@@ -1,5 +1,5 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-05-17T04:52:11.740012+00:00",
+  "lastUpdated": "2026-05-17T07:33:39.454524+00:00",
   "items": [
     {
       "title": "The haves and have nots of the AI gold rush",
@@ -17,7 +17,7 @@ const FEED_DATA = {
     },
     {
       "title": "US is starting to see heavy job losses in roles exposed to AI",
-      "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-05-15/us-is-starting-to-see-heavy-job-losses-in-roles-exposed-to-ai Comments URL: https://news.ycombinator.com/item?id=48162354 Points: 148 # Comments: 235",
+      "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-05-15/us-is-starting-to-see-heavy-job-losses-in-roles-exposed-to-ai Comments URL: https://news.ycombinator.com/item?id=48162354 Points: 153 # Comments: 238",
       "source": "Hacker News",
       "published": "2026-05-16T17:59:45+00:00",
       "link": "https://www.bloomberg.com/news/articles/2026-05-15/us-is-starting-to-see-heavy-job-losses-in-roles-exposed-to-ai"
@@ -45,7 +45,7 @@ const FEED_DATA = {
     },
     {
       "title": "DeepSeek-V4-Flash means LLM steering is interesting again",
-      "summary": "Article URL: https://www.seangoedecke.com/steering-vectors/ Comments URL: https://news.ycombinator.com/item?id=48160807 Points: 220 # Comments: 70",
+      "summary": "Article URL: https://www.seangoedecke.com/steering-vectors/ Comments URL: https://news.ycombinator.com/item?id=48160807 Points: 230 # Comments: 72",
       "source": "Hacker News",
       "published": "2026-05-16T14:58:16+00:00",
       "link": "https://www.seangoedecke.com/steering-vectors/"
@@ -101,7 +101,7 @@ const FEED_DATA = {
     },
     {
       "title": "Someone Shared a Real Monet Painting as AI and Asked for Critiques",
-      "summary": "Article URL: https://petapixel.com/2026/05/14/someone-shared-a-real-monet-painting-as-ai-and-asked-for-critiques/ Comments URL: https://news.ycombinator.com/item?id=48158110 Points: 54 # Comments: 64",
+      "summary": "Article URL: https://petapixel.com/2026/05/14/someone-shared-a-real-monet-painting-as-ai-and-asked-for-critiques/ Comments URL: https://news.ycombinator.com/item?id=48158110 Points: 54 # Comments: 65",
       "source": "Hacker News",
       "published": "2026-05-16T08:30:51+00:00",
       "link": "https://petapixel.com/2026/05/14/someone-shared-a-real-monet-painting-as-ai-and-asked-for-critiques/"
@@ -115,7 +115,7 @@ const FEED_DATA = {
     },
     {
       "title": "Frontier AI has broken the open CTF format",
-      "summary": "Article URL: https://kabir.au/blog/the-ctf-scene-is-dead Comments URL: https://news.ycombinator.com/item?id=48157559 Points: 351 # Comments: 351",
+      "summary": "Article URL: https://kabir.au/blog/the-ctf-scene-is-dead Comments URL: https://news.ycombinator.com/item?id=48157559 Points: 366 # Comments: 366",
       "source": "Hacker News",
       "published": "2026-05-16T07:01:55+00:00",
       "link": "https://kabir.au/blog/the-ctf-scene-is-dead"
@@ -157,7 +157,7 @@ const FEED_DATA = {
     },
     {
       "title": "I believe there are entire companies right now under AI psychosis",
-      "summary": "https://xcancel.com/mitchellh/status/2055380239711457578https://hachyderm.io/@mitchellh/116580433508108130 Comments URL: https://news.ycombinator.com/item?id=48153379 Points: 1918 # Comments: 1111",
+      "summary": "https://xcancel.com/mitchellh/status/2055380239711457578https://hachyderm.io/@mitchellh/116580433508108130 Comments URL: https://news.ycombinator.com/item?id=48153379 Points: 1938 # Comments: 1135",
       "source": "Hacker News",
       "published": "2026-05-15T20:26:47+00:00",
       "link": "https://twitter.com/mitchellh/status/2055380239711457578"
@@ -283,7 +283,7 @@ const FEED_DATA = {
     },
     {
       "title": "Amazon workers under pressure to up their AI usage are making up tasks",
-      "summary": "Article URL: https://www.fastcompany.com/91541586/amazon-workers-pressured-to-up-ai-use-extraneous-tasks Comments URL: https://news.ycombinator.com/item?id=48148337 Points: 384 # Comments: 425",
+      "summary": "Article URL: https://www.fastcompany.com/91541586/amazon-workers-pressured-to-up-ai-use-extraneous-tasks Comments URL: https://news.ycombinator.com/item?id=48148337 Points: 387 # Comments: 426",
       "source": "Hacker News",
       "published": "2026-05-15T13:28:55+00:00",
       "link": "https://www.fastcompany.com/91541586/amazon-workers-pressured-to-up-ai-use-extraneous-tasks"
