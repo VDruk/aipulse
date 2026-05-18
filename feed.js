@@ -1,6 +1,27 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-05-18T18:28:12.213554+00:00",
+  "lastUpdated": "2026-05-18T21:58:46.465038+00:00",
   "items": [
+    {
+      "title": "SandboxAQ brings its drug discovery models to Claude — no PhD in computing required",
+      "summary": "Other venture-backed companies like Chai Discovery and Isomorphic Labs have raced to build better models. SandboxAQ is betting that the bigger obstacle is access, and that Claude solves it.",
+      "source": "TechCrunch",
+      "published": "2026-05-18T21:29:31+00:00",
+      "link": "https://techcrunch.com/2026/05/18/sandboxaq-brings-its-drug-discovery-models-to-claude-no-phd-in-computing-required/"
+    },
+    {
+      "title": "Anthropic has acquired the dev tools startup used by OpenAI, Google, and Cloudflare",
+      "summary": "Stainless, a New York-based startup, founded in 2022, rose to prominence in the emerging AI industry for automating the creation and maintenance of software development kits, or SDKs — the libraries developers use to interact with APIs.",
+      "source": "TechCrunch",
+      "published": "2026-05-18T19:27:52+00:00",
+      "link": "https://techcrunch.com/2026/05/18/anthropic-has-acquired-the-dev-tools-startup-used-by-openai-google-and-cloudflare/"
+    },
+    {
+      "title": "Musk v. Altman proved that AI is led by the wrong people",
+      "summary": "The tech trial of the year, Musk v. Altman, was ultimately a fight for control.",
+      "source": "The Verge",
+      "published": "2026-05-18T19:00:00+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/932464/musk-v-altman-proved-that-ai-is-led-by-the-wrong-people"
+    },
     {
       "title": "Elon Musk loses his $134 billion lawsuit against OpenAI after jury deliberates for just two hours",
       "summary": "Elon Musk has lost his lawsuit against Sam Altman and OpenAI. The jury in Oakland dismissed the case after just two hours of deliberation.",
@@ -38,7 +59,7 @@ const FEED_DATA = {
     },
     {
       "title": "Elon Musk has lost his lawsuit against Sam Altman and OpenAI",
-      "summary": "Elon Musk's claim that he was mistreated by his OpenAI cofounders failed after nine California jurors decided in a unanimous verdict that his lawsuits had been filed too late.",
+      "summary": "Elon Musk's claim that he was mistreated by his OpenAI co-founders failed after nine California jurors decided in a unanimous verdict that his lawsuits had been filed too late.",
       "source": "TechCrunch",
       "published": "2026-05-18T17:34:43+00:00",
       "link": "https://techcrunch.com/2026/05/18/elon-musk-has-lost-his-lawsuit-against-sam-altman-and-openai/"
@@ -80,7 +101,7 @@ const FEED_DATA = {
     },
     {
       "title": "We stopped AI bot spam in our GitHub repo using Git's –author flag",
-      "summary": "Article URL: https://archestra.ai/blog/only-responsible-ai Comments URL: https://news.ycombinator.com/item?id=48181125 Points: 253 # Comments: 113",
+      "summary": "Article URL: https://archestra.ai/blog/only-responsible-ai Comments URL: https://news.ycombinator.com/item?id=48181125 Points: 346 # Comments: 170",
       "source": "Hacker News",
       "published": "2026-05-18T15:24:19+00:00",
       "link": "https://archestra.ai/blog/only-responsible-ai"
@@ -101,21 +122,21 @@ const FEED_DATA = {
     },
     {
       "title": "Researchers Wanted Preschool Teachers to Wear Cameras to Train AI",
-      "summary": "Article URL: https://www.404media.co/researchers-wanted-preschool-teachers-to-wear-cameras-to-train-ai/ Comments URL: https://news.ycombinator.com/item?id=48179569 Points: 62 # Comments: 21",
+      "summary": "Article URL: https://www.404media.co/researchers-wanted-preschool-teachers-to-wear-cameras-to-train-ai/ Comments URL: https://news.ycombinator.com/item?id=48179569 Points: 77 # Comments: 27",
       "source": "Hacker News",
       "published": "2026-05-18T13:26:34+00:00",
       "link": "https://www.404media.co/researchers-wanted-preschool-teachers-to-wear-cameras-to-train-ai/"
     },
     {
       "title": "Enough with the AI FOMO, go slow-mo, says Domo CDO",
-      "summary": "Article URL: https://www.theregister.com/ai-ml/2026/05/17/enough-with-the-ai-fomo-go-slow-mo-says-domo-cdo/5240840 Comments URL: https://news.ycombinator.com/item?id=48179029 Points: 129 # Comments: 68",
+      "summary": "Article URL: https://www.theregister.com/ai-ml/2026/05/17/enough-with-the-ai-fomo-go-slow-mo-says-domo-cdo/5240840 Comments URL: https://news.ycombinator.com/item?id=48179029 Points: 143 # Comments: 73",
       "source": "Hacker News",
       "published": "2026-05-18T12:49:54+00:00",
       "link": "https://www.theregister.com/ai-ml/2026/05/17/enough-with-the-ai-fomo-go-slow-mo-says-domo-cdo/5240840"
     },
     {
       "title": "AI eats the world (Spring 26) [pdf]",
-      "summary": "Article URL: https://static1.squarespace.com/static/50363cf324ac8e905e7df861/t/6a0af5d0484fbf5fe9a7743e/1779103184855/2026-Spring-AI.pdf Comments URL: https://news.ycombinator.com/item?id=48179021 Points: 165 # Comments: 93",
+      "summary": "Article URL: https://static1.squarespace.com/static/50363cf324ac8e905e7df861/t/6a0af5d0484fbf5fe9a7743e/1779103184855/2026-Spring-AI.pdf Comments URL: https://news.ycombinator.com/item?id=48179021 Points: 180 # Comments: 105",
       "source": "Hacker News",
       "published": "2026-05-18T12:49:28+00:00",
       "link": "https://static1.squarespace.com/static/50363cf324ac8e905e7df861/t/6a0af5d0484fbf5fe9a7743e/1779103184855/2026-Spring-AI.pdf"
@@ -143,7 +164,7 @@ const FEED_DATA = {
     },
     {
       "title": "Voice AI Systems Are Vulnerable to Hidden Audio Attacks",
-      "summary": "Article URL: https://spectrum.ieee.org/voice-ai-audio-attacks Comments URL: https://news.ycombinator.com/item?id=48178378 Points: 68 # Comments: 20",
+      "summary": "Article URL: https://spectrum.ieee.org/voice-ai-audio-attacks Comments URL: https://news.ycombinator.com/item?id=48178378 Points: 98 # Comments: 27",
       "source": "Hacker News",
       "published": "2026-05-18T11:51:05+00:00",
       "link": "https://spectrum.ieee.org/voice-ai-audio-attacks"
@@ -157,7 +178,7 @@ const FEED_DATA = {
     },
     {
       "title": "Eric Schmidt speech about AI booed during graduation",
-      "summary": "Article URL: https://www.nbcnews.com/tech/tech-news/former-google-ceo-booed-graduation-speech-ai-rcna345585 Comments URL: https://news.ycombinator.com/item?id=48177785 Points: 322 # Comments: 350",
+      "summary": "Article URL: https://www.nbcnews.com/tech/tech-news/former-google-ceo-booed-graduation-speech-ai-rcna345585 Comments URL: https://news.ycombinator.com/item?id=48177785 Points: 332 # Comments: 361",
       "source": "Hacker News",
       "published": "2026-05-18T10:50:25+00:00",
       "link": "https://www.nbcnews.com/tech/tech-news/former-google-ceo-booed-graduation-speech-ai-rcna345585"
@@ -178,7 +199,7 @@ const FEED_DATA = {
     },
     {
       "title": "Multiple commencement speakers booed for AI comments during graduation speeches",
-      "summary": "Article URL: https://www.nbcnews.com/video/multiple-commencement-speakers-booed-for-ai-comments-during-graduation-speeches-263486021518 Comments URL: https://news.ycombinator.com/item?id=48177107 Points: 144 # Comments: 150",
+      "summary": "Article URL: https://www.nbcnews.com/video/multiple-commencement-speakers-booed-for-ai-comments-during-graduation-speeches-263486021518 Comments URL: https://news.ycombinator.com/item?id=48177107 Points: 150 # Comments: 155",
       "source": "Hacker News",
       "published": "2026-05-18T09:12:10+00:00",
       "link": "https://www.nbcnews.com/video/multiple-commencement-speakers-booed-for-ai-comments-during-graduation-speeches-263486021518"
@@ -192,28 +213,28 @@ const FEED_DATA = {
     },
     {
       "title": "Most Americans don't trust AI – or the people in charge of it (2025)",
-      "summary": "Article URL: https://www.theverge.com/ai-artificial-intelligence/644853/pew-gallup-data-americans-dont-trust-ai Comments URL: https://news.ycombinator.com/item?id=48174808 Points: 124 # Comments: 81",
+      "summary": "Article URL: https://www.theverge.com/ai-artificial-intelligence/644853/pew-gallup-data-americans-dont-trust-ai Comments URL: https://news.ycombinator.com/item?id=48174808 Points: 126 # Comments: 83",
       "source": "Hacker News",
       "published": "2026-05-18T01:39:30+00:00",
       "link": "https://www.theverge.com/ai-artificial-intelligence/644853/pew-gallup-data-americans-dont-trust-ai"
     },
     {
       "title": "The History of ThinkPad: From IBM’s Bento Box to Lenovo’s AI Workstations",
-      "summary": "Article URL: https://www.jdhodges.com/blog/thinkpad-history/ Comments URL: https://news.ycombinator.com/item?id=48173547 Points: 108 # Comments: 52",
+      "summary": "Article URL: https://www.jdhodges.com/blog/thinkpad-history/ Comments URL: https://news.ycombinator.com/item?id=48173547 Points: 109 # Comments: 53",
       "source": "Hacker News",
       "published": "2026-05-17T21:56:40+00:00",
       "link": "https://www.jdhodges.com/blog/thinkpad-history/"
     },
     {
       "title": "An AI Hate Wave Is Here",
-      "summary": "Article URL: https://www.axios.com/2026/05/17/ai-backlash-polling-sentiment Comments URL: https://news.ycombinator.com/item?id=48173318 Points: 96 # Comments: 118",
+      "summary": "Article URL: https://www.axios.com/2026/05/17/ai-backlash-polling-sentiment Comments URL: https://news.ycombinator.com/item?id=48173318 Points: 97 # Comments: 121",
       "source": "Hacker News",
       "published": "2026-05-17T21:23:25+00:00",
       "link": "https://www.axios.com/2026/05/17/ai-backlash-polling-sentiment"
     },
     {
       "title": "The Four Horsemen of the LLM Apocalypse",
-      "summary": "Article URL: https://anarc.at/blog/2026-05-16-four-horsemen/ Comments URL: https://news.ycombinator.com/item?id=48172680 Points: 50 # Comments: 9",
+      "summary": "Article URL: https://anarc.at/blog/2026-05-16-four-horsemen/ Comments URL: https://news.ycombinator.com/item?id=48172680 Points: 53 # Comments: 9",
       "source": "Hacker News",
       "published": "2026-05-17T19:58:27+00:00",
       "link": "https://anarc.at/blog/2026-05-16-four-horsemen/"
@@ -227,7 +248,7 @@ const FEED_DATA = {
     },
     {
       "title": "Eric Schmidt booed at University of Arizona after praising AI",
-      "summary": "Article URL: https://bsky.app/profile/404media.co/post/3mm2ivguvq22x Comments URL: https://news.ycombinator.com/item?id=48172419 Points: 66 # Comments: 60",
+      "summary": "Article URL: https://bsky.app/profile/404media.co/post/3mm2ivguvq22x Comments URL: https://news.ycombinator.com/item?id=48172419 Points: 67 # Comments: 60",
       "source": "Hacker News",
       "published": "2026-05-17T19:30:52+00:00",
       "link": "https://bsky.app/profile/404media.co/post/3mm2ivguvq22x"
@@ -241,7 +262,7 @@ const FEED_DATA = {
     },
     {
       "title": "The AI water issue is fake",
-      "summary": "Article URL: https://blog.andymasley.com/p/the-ai-water-issue-is-fake Comments URL: https://news.ycombinator.com/item?id=48171826 Points: 81 # Comments: 56",
+      "summary": "Article URL: https://blog.andymasley.com/p/the-ai-water-issue-is-fake Comments URL: https://news.ycombinator.com/item?id=48171826 Points: 82 # Comments: 57",
       "source": "Hacker News",
       "published": "2026-05-17T18:35:18+00:00",
       "link": "https://blog.andymasley.com/p/the-ai-water-issue-is-fake"
@@ -269,7 +290,7 @@ const FEED_DATA = {
     },
     {
       "title": "Mistral's CEO: Europe has 2 years to stop becoming America's AI 'vassal state'",
-      "summary": "Article URL: https://www.businessinsider.com/mistral-ceo-warns-europe-2-years-avoid-us-ai-dependence-2026-5 Comments URL: https://news.ycombinator.com/item?id=48170122 Points: 113 # Comments: 191",
+      "summary": "Article URL: https://www.businessinsider.com/mistral-ceo-warns-europe-2-years-avoid-us-ai-dependence-2026-5 Comments URL: https://news.ycombinator.com/item?id=48170122 Points: 114 # Comments: 191",
       "source": "Hacker News",
       "published": "2026-05-17T16:04:28+00:00",
       "link": "https://www.businessinsider.com/mistral-ceo-warns-europe-2-years-avoid-us-ai-dependence-2026-5"
@@ -290,14 +311,14 @@ const FEED_DATA = {
     },
     {
       "title": "AI is a technology not a product",
-      "summary": "Article URL: https://daringfireball.net/2026/05/ai_is_technology_not_a_product Comments URL: https://news.ycombinator.com/item?id=48168626 Points: 448 # Comments: 196",
+      "summary": "Article URL: https://daringfireball.net/2026/05/ai_is_technology_not_a_product Comments URL: https://news.ycombinator.com/item?id=48168626 Points: 455 # Comments: 199",
       "source": "Hacker News",
       "published": "2026-05-17T13:11:20+00:00",
       "link": "https://daringfireball.net/2026/05/ai_is_technology_not_a_product"
     },
     {
       "title": "I don't think AI will make your processes go faster",
-      "summary": "Article URL: https://frederickvanbrabant.com/blog/2026-05-15-i-dont-think-ai-will-make-your-processes-go-faster/ Comments URL: https://news.ycombinator.com/item?id=48168221 Points: 646 # Comments: 436",
+      "summary": "Article URL: https://frederickvanbrabant.com/blog/2026-05-15-i-dont-think-ai-will-make-your-processes-go-faster/ Comments URL: https://news.ycombinator.com/item?id=48168221 Points: 651 # Comments: 437",
       "source": "Hacker News",
       "published": "2026-05-17T12:13:45+00:00",
       "link": "https://frederickvanbrabant.com/blog/2026-05-15-i-dont-think-ai-will-make-your-processes-go-faster/"
@@ -311,7 +332,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI subscriptions are a ticking time bomb for enterprise",
-      "summary": "Article URL: https://www.thestateofbrand.com/news/ai-subscription-time-bomb Comments URL: https://news.ycombinator.com/item?id=48168056 Points: 407 # Comments: 394",
+      "summary": "Article URL: https://www.thestateofbrand.com/news/ai-subscription-time-bomb Comments URL: https://news.ycombinator.com/item?id=48168056 Points: 409 # Comments: 395",
       "source": "Hacker News",
       "published": "2026-05-17T11:49:31+00:00",
       "link": "https://www.thestateofbrand.com/news/ai-subscription-time-bomb"
@@ -395,7 +416,7 @@ const FEED_DATA = {
     },
     {
       "title": "OpenAI co-founder Greg Brockman takes charge of product strategy",
-      "summary": "OpenAI's latest shakeup comes as the company reportedly plans to combine ChatGPT and its programming product Codex.",
+      "summary": "OpenAI's latest shake-up comes as the company reportedly plans to combine ChatGPT and its programming product Codex.",
       "source": "TechCrunch",
       "published": "2026-05-16T15:33:33+00:00",
       "link": "https://techcrunch.com/2026/05/16/openai-co-founder-greg-brockman-reportedly-takes-charge-of-product-strategy/"
@@ -493,7 +514,7 @@ const FEED_DATA = {
     },
     {
       "title": "Musk v. Altman week 3: Elon Musk and Sam Altman traded blows over each other’s credibility. Now the jury will pick a side.",
-      "summary": "In the final week of the Musk v. Altman trial, lawyers traded blows over Elon Musk’s and OpenAI CEO Sam Altman’s credibility.",
+      "summary": "Update: On Monday May 18, the jury sided with OpenAI, delivering an advisory verdict finding that Musk’s claims are barred by the statute of limitations. US District Judge Yvonne Gonzalez Rogers accepted the verdict.",
       "source": "MIT Tech Review",
       "published": "2026-05-15T23:39:35+00:00",
       "link": "https://www.technologyreview.com/2026/05/15/1137357/musk-v-altman-week-3/"
@@ -1379,27 +1400,6 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-05-12T19:22:49+00:00",
       "link": "https://the-decoder.com/gemini-intelligence-makes-autofill-chrome-and-gboard-on-android-smarter/"
-    },
-    {
-      "title": "Anthropic expands legal AI offerings with new Claude Cowork plugins",
-      "summary": "Anthropic launches twelve new Claude plugins for legal work covering contract law, employment law, and litigation, while connecting the chatbot to services like Thomson Reuters' CoCounsel Legal and Harvey.",
-      "source": "The Decoder",
-      "published": "2026-05-12T18:41:05+00:00",
-      "link": "https://the-decoder.com/anthropic-expands-legal-ai-offerings-with-new-cowork-plugins/"
-    },
-    {
-      "title": "Google says it stopped a mass cyberattack after AI was used to discover a zero-day exploit",
-      "summary": "Google's Threat Intelligence Group has identified the first known case of an attacker using AI to discover and weaponize a zero-day vulnerability. Google says it stopped the planned mass attack.",
-      "source": "The Decoder",
-      "published": "2026-05-12T18:17:42+00:00",
-      "link": "https://the-decoder.com/google-says-it-stopped-a-mass-cyberattack-after-ai-was-used-to-discover-a-zero-day-exploit/"
-    },
-    {
-      "title": "Musk mulled handing OpenAI to his children, Altman testifies",
-      "summary": "Altman said that Musk's focus on controlling the initial for-profit gave him pause because OpenAI was dedicated to keeping advanced AI out of the hands of a single person, and Altman, with his experience running the prominent startup accelerator Y Combinator, knew \"founders who...",
-      "source": "TechCrunch",
-      "published": "2026-05-12T18:05:15+00:00",
-      "link": "https://techcrunch.com/2026/05/12/musk-mulled-handing-openai-to-his-children-altman-testifies/"
     }
   ]
 };
