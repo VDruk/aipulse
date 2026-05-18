@@ -1,6 +1,13 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-05-18T05:04:59.081918+00:00",
+  "lastUpdated": "2026-05-18T08:46:16.319526+00:00",
   "items": [
+    {
+      "title": "AI startup revenue hits $80 billion, but Anthropic and OpenAI take almost all of it",
+      "summary": "Anthropic and OpenAI now capture 89 percent of revenue among top AI startups, according to an analysis by The Information. The article AI startup revenue hits $80 billion, but Anthropic and OpenAI take almost all of it appeared first on The Decoder.",
+      "source": "The Decoder",
+      "published": "2026-05-18T07:52:38+00:00",
+      "link": "https://the-decoder.com/ai-startup-revenue-hits-80-billion-but-anthropic-and-openai-take-almost-all-of-it/"
+    },
     {
       "title": "Most Americans don't trust AI – or the people in charge of it (2025)",
       "summary": "Article URL: https://www.theverge.com/ai-artificial-intelligence/644853/pew-gallup-data-americans-dont-trust-ai Comments URL: https://news.ycombinator.com/item?id=48174808 Points: 61 # Comments: 41",
@@ -1393,13 +1400,6 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-05-12T13:16:03+00:00",
       "link": "https://the-decoder.com/thinking-machines-lab-ships-its-first-model-and-argues-interactivity-is-what-openai-gets-wrong-about-voice/"
-    },
-    {
-      "title": "Dessn raises $6M for its production-focused design tool",
-      "summary": "A new startup called Dessn has raised $6 million to build AI-powered design tools that work directly with production codebases.",
-      "source": "TechCrunch",
-      "published": "2026-05-12T13:00:00+00:00",
-      "link": "https://techcrunch.com/2026/05/12/dessn-raises-6m-for-its-production-focused-design-tool/"
     }
   ]
 };
