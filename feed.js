@@ -1,12 +1,68 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-05-18T16:26:30.791107+00:00",
+  "lastUpdated": "2026-05-18T18:28:12.213554+00:00",
   "items": [
+    {
+      "title": "Elon Musk loses his $134 billion lawsuit against OpenAI after jury deliberates for just two hours",
+      "summary": "Elon Musk has lost his lawsuit against Sam Altman and OpenAI. The jury in Oakland dismissed the case after just two hours of deliberation.",
+      "source": "The Decoder",
+      "published": "2026-05-18T18:20:50+00:00",
+      "link": "https://the-decoder.com/elon-musk-loses-his-134-billion-lawsuit-against-openai-after-jury-deliberates-for-just-two-hours/"
+    },
+    {
+      "title": "All of the updates from Elon Musk and Sam Altman’s battle over OpenAI",
+      "summary": "Sam Altman and Elon Musk are facing off in a high-stakes trial that could alter the future of OpenAI and its most well-known product, ChatGPT.",
+      "source": "The Verge",
+      "published": "2026-05-18T17:49:49+00:00",
+      "link": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit"
+    },
+    {
+      "title": "Elon Musk Loses Landmark Lawsuit Against OpenAI",
+      "summary": "The nine-member panel took only two hours to return a verdict in favor of OpenAI on Monday, which the judge quickly adopted as her own final decision.",
+      "source": "Wired",
+      "published": "2026-05-18T17:40:30+00:00",
+      "link": "https://www.wired.com/story/musk-v-altman-jury-verdict/"
+    },
+    {
+      "title": "Elon Musk loses his case against Sam Altman",
+      "summary": "After around two hours of deliberation, the jury has reached a unanimous verdict in Musk v. Altman, the tech trial of the year.",
+      "source": "The Verge",
+      "published": "2026-05-18T17:39:32+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/932383/jury-verdict-musk-v-altman-openai-trial"
+    },
+    {
+      "title": "What to expect from Google this week",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here.",
+      "source": "MIT Tech Review",
+      "published": "2026-05-18T17:35:43+00:00",
+      "link": "https://www.technologyreview.com/2026/05/18/1137439/what-to-expect-from-google-this-week/"
+    },
+    {
+      "title": "Elon Musk has lost his lawsuit against Sam Altman and OpenAI",
+      "summary": "Elon Musk's claim that he was mistreated by his OpenAI cofounders failed after nine California jurors decided in a unanimous verdict that his lawsuits had been filed too late.",
+      "source": "TechCrunch",
+      "published": "2026-05-18T17:34:43+00:00",
+      "link": "https://techcrunch.com/2026/05/18/elon-musk-has-lost-his-lawsuit-against-sam-altman-and-openai/"
+    },
+    {
+      "title": "Cursor's Composer 2.5 matches Opus 4.7 and GPT-5.5 benchmarks at a fraction of the cost",
+      "summary": "Cursor ships Composer 2.5, an AI coding model built on Kimi K2.5 and trained on 25x more synthetic tasks than its predecessor. It matches Opus 4.7 and GPT-5.5 on benchmarks at a fraction of the price.",
+      "source": "The Decoder",
+      "published": "2026-05-18T17:29:01+00:00",
+      "link": "https://the-decoder.com/cursors-composer-2-5-matches-opus-4-7-and-gpt-5-5-benchmarks-at-a-fraction-of-the-cost/"
+    },
     {
       "title": "Live updates from Elon Musk and Sam Altman’s court battle over the future of OpenAI",
       "summary": "Sam Altman and Elon Musk are facing off in a high-stakes trial that could alter the future of OpenAI and its most well-known product, ChatGPT.",
       "source": "The Verge",
       "published": "2026-05-18T16:24:03+00:00",
       "link": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit"
+    },
+    {
+      "title": "Inside Anduril and Meta’s quest to make smart glasses for warfare",
+      "summary": "The defense-tech company Anduril has shared new details about the augmented-reality headset for the military it’s prototyping with Meta, including a vision for ordering drone strikes via eye-tracking and voice commands.",
+      "source": "MIT Tech Review",
+      "published": "2026-05-18T16:01:39+00:00",
+      "link": "https://www.technologyreview.com/2026/05/18/1137412/inside-anduril-and-metas-quest-to-make-smart-glasses-for-warfare/"
     },
     {
       "title": "Amazon Alexa Plus can now create AI-generated podcasts",
@@ -24,7 +80,7 @@ const FEED_DATA = {
     },
     {
       "title": "We stopped AI bot spam in our GitHub repo using Git's –author flag",
-      "summary": "Article URL: https://archestra.ai/blog/only-responsible-ai Comments URL: https://news.ycombinator.com/item?id=48181125 Points: 101 # Comments: 34",
+      "summary": "Article URL: https://archestra.ai/blog/only-responsible-ai Comments URL: https://news.ycombinator.com/item?id=48181125 Points: 253 # Comments: 113",
       "source": "Hacker News",
       "published": "2026-05-18T15:24:19+00:00",
       "link": "https://archestra.ai/blog/only-responsible-ai"
@@ -44,15 +100,22 @@ const FEED_DATA = {
       "link": "https://the-decoder.com/a-stanford-student-reflects-on-his-chatgpt-class-and-a-culture-of-just-a-little-bit-of-fraud/"
     },
     {
+      "title": "Researchers Wanted Preschool Teachers to Wear Cameras to Train AI",
+      "summary": "Article URL: https://www.404media.co/researchers-wanted-preschool-teachers-to-wear-cameras-to-train-ai/ Comments URL: https://news.ycombinator.com/item?id=48179569 Points: 62 # Comments: 21",
+      "source": "Hacker News",
+      "published": "2026-05-18T13:26:34+00:00",
+      "link": "https://www.404media.co/researchers-wanted-preschool-teachers-to-wear-cameras-to-train-ai/"
+    },
+    {
       "title": "Enough with the AI FOMO, go slow-mo, says Domo CDO",
-      "summary": "Article URL: https://www.theregister.com/ai-ml/2026/05/17/enough-with-the-ai-fomo-go-slow-mo-says-domo-cdo/5240840 Comments URL: https://news.ycombinator.com/item?id=48179029 Points: 108 # Comments: 53",
+      "summary": "Article URL: https://www.theregister.com/ai-ml/2026/05/17/enough-with-the-ai-fomo-go-slow-mo-says-domo-cdo/5240840 Comments URL: https://news.ycombinator.com/item?id=48179029 Points: 129 # Comments: 68",
       "source": "Hacker News",
       "published": "2026-05-18T12:49:54+00:00",
       "link": "https://www.theregister.com/ai-ml/2026/05/17/enough-with-the-ai-fomo-go-slow-mo-says-domo-cdo/5240840"
     },
     {
       "title": "AI eats the world (Spring 26) [pdf]",
-      "summary": "Article URL: https://static1.squarespace.com/static/50363cf324ac8e905e7df861/t/6a0af5d0484fbf5fe9a7743e/1779103184855/2026-Spring-AI.pdf Comments URL: https://news.ycombinator.com/item?id=48179021 Points: 135 # Comments: 74",
+      "summary": "Article URL: https://static1.squarespace.com/static/50363cf324ac8e905e7df861/t/6a0af5d0484fbf5fe9a7743e/1779103184855/2026-Spring-AI.pdf Comments URL: https://news.ycombinator.com/item?id=48179021 Points: 165 # Comments: 93",
       "source": "Hacker News",
       "published": "2026-05-18T12:49:28+00:00",
       "link": "https://static1.squarespace.com/static/50363cf324ac8e905e7df861/t/6a0af5d0484fbf5fe9a7743e/1779103184855/2026-Spring-AI.pdf"
@@ -79,15 +142,22 @@ const FEED_DATA = {
       "link": "https://www.technologyreview.com/2026/05/18/1137407/the-download-musk-altman-trial-trump-tech-trading/"
     },
     {
+      "title": "Voice AI Systems Are Vulnerable to Hidden Audio Attacks",
+      "summary": "Article URL: https://spectrum.ieee.org/voice-ai-audio-attacks Comments URL: https://news.ycombinator.com/item?id=48178378 Points: 68 # Comments: 20",
+      "source": "Hacker News",
+      "published": "2026-05-18T11:51:05+00:00",
+      "link": "https://spectrum.ieee.org/voice-ai-audio-attacks"
+    },
+    {
       "title": "South Korea’s LetinAR is building optics behind AI glasses",
-      "summary": "A lens the size of a thumbnail — and the South Korean startup that makes it could become the optical backbone of the AI glasses era.",
+      "summary": "A lens the size of a thumbnail — and the South Korean startup that makes it — could become the optical backbone of the AI glasses era.",
       "source": "TechCrunch",
       "published": "2026-05-18T11:00:00+00:00",
       "link": "https://techcrunch.com/2026/05/18/south-koreas-letinar-is-building-the-optics-behind-ai-glasses/"
     },
     {
       "title": "Eric Schmidt speech about AI booed during graduation",
-      "summary": "Article URL: https://www.nbcnews.com/tech/tech-news/former-google-ceo-booed-graduation-speech-ai-rcna345585 Comments URL: https://news.ycombinator.com/item?id=48177785 Points: 311 # Comments: 325",
+      "summary": "Article URL: https://www.nbcnews.com/tech/tech-news/former-google-ceo-booed-graduation-speech-ai-rcna345585 Comments URL: https://news.ycombinator.com/item?id=48177785 Points: 322 # Comments: 350",
       "source": "Hacker News",
       "published": "2026-05-18T10:50:25+00:00",
       "link": "https://www.nbcnews.com/tech/tech-news/former-google-ceo-booed-graduation-speech-ai-rcna345585"
@@ -100,8 +170,15 @@ const FEED_DATA = {
       "link": "https://www.wired.com/story/normie-vibe-code/"
     },
     {
+      "title": "Amazon launches Alexa for Shopping as Rufus moves behind the scenes",
+      "summary": "Amazon has introduced Alexa for Shopping, combining its Rufus shopping chatbot with Alexa+ across its app, website, and Echo Show devices. The assistant can answer product questions, compare items, track prices, and support shopping reminders.",
+      "source": "AI News",
+      "published": "2026-05-18T10:00:00+00:00",
+      "link": "https://www.artificialintelligence-news.com/news/amazon-alexa-for-shopping-rufus-ai-assistant/"
+    },
+    {
       "title": "Multiple commencement speakers booed for AI comments during graduation speeches",
-      "summary": "Article URL: https://www.nbcnews.com/video/multiple-commencement-speakers-booed-for-ai-comments-during-graduation-speeches-263486021518 Comments URL: https://news.ycombinator.com/item?id=48177107 Points: 140 # Comments: 142",
+      "summary": "Article URL: https://www.nbcnews.com/video/multiple-commencement-speakers-booed-for-ai-comments-during-graduation-speeches-263486021518 Comments URL: https://news.ycombinator.com/item?id=48177107 Points: 144 # Comments: 150",
       "source": "Hacker News",
       "published": "2026-05-18T09:12:10+00:00",
       "link": "https://www.nbcnews.com/video/multiple-commencement-speakers-booed-for-ai-comments-during-graduation-speeches-263486021518"
@@ -115,24 +192,31 @@ const FEED_DATA = {
     },
     {
       "title": "Most Americans don't trust AI – or the people in charge of it (2025)",
-      "summary": "Article URL: https://www.theverge.com/ai-artificial-intelligence/644853/pew-gallup-data-americans-dont-trust-ai Comments URL: https://news.ycombinator.com/item?id=48174808 Points: 121 # Comments: 81",
+      "summary": "Article URL: https://www.theverge.com/ai-artificial-intelligence/644853/pew-gallup-data-americans-dont-trust-ai Comments URL: https://news.ycombinator.com/item?id=48174808 Points: 124 # Comments: 81",
       "source": "Hacker News",
       "published": "2026-05-18T01:39:30+00:00",
       "link": "https://www.theverge.com/ai-artificial-intelligence/644853/pew-gallup-data-americans-dont-trust-ai"
     },
     {
       "title": "The History of ThinkPad: From IBM’s Bento Box to Lenovo’s AI Workstations",
-      "summary": "Article URL: https://www.jdhodges.com/blog/thinkpad-history/ Comments URL: https://news.ycombinator.com/item?id=48173547 Points: 107 # Comments: 52",
+      "summary": "Article URL: https://www.jdhodges.com/blog/thinkpad-history/ Comments URL: https://news.ycombinator.com/item?id=48173547 Points: 108 # Comments: 52",
       "source": "Hacker News",
       "published": "2026-05-17T21:56:40+00:00",
       "link": "https://www.jdhodges.com/blog/thinkpad-history/"
     },
     {
       "title": "An AI Hate Wave Is Here",
-      "summary": "Article URL: https://www.axios.com/2026/05/17/ai-backlash-polling-sentiment Comments URL: https://news.ycombinator.com/item?id=48173318 Points: 94 # Comments: 114",
+      "summary": "Article URL: https://www.axios.com/2026/05/17/ai-backlash-polling-sentiment Comments URL: https://news.ycombinator.com/item?id=48173318 Points: 96 # Comments: 118",
       "source": "Hacker News",
       "published": "2026-05-17T21:23:25+00:00",
       "link": "https://www.axios.com/2026/05/17/ai-backlash-polling-sentiment"
+    },
+    {
+      "title": "The Four Horsemen of the LLM Apocalypse",
+      "summary": "Article URL: https://anarc.at/blog/2026-05-16-four-horsemen/ Comments URL: https://news.ycombinator.com/item?id=48172680 Points: 50 # Comments: 9",
+      "source": "Hacker News",
+      "published": "2026-05-17T19:58:27+00:00",
+      "link": "https://anarc.at/blog/2026-05-16-four-horsemen/"
     },
     {
       "title": "Why trust is a big question at the Elon Musk-OpenAI trial",
@@ -143,7 +227,7 @@ const FEED_DATA = {
     },
     {
       "title": "Eric Schmidt booed at University of Arizona after praising AI",
-      "summary": "Article URL: https://bsky.app/profile/404media.co/post/3mm2ivguvq22x Comments URL: https://news.ycombinator.com/item?id=48172419 Points: 64 # Comments: 59",
+      "summary": "Article URL: https://bsky.app/profile/404media.co/post/3mm2ivguvq22x Comments URL: https://news.ycombinator.com/item?id=48172419 Points: 66 # Comments: 60",
       "source": "Hacker News",
       "published": "2026-05-17T19:30:52+00:00",
       "link": "https://bsky.app/profile/404media.co/post/3mm2ivguvq22x"
@@ -157,7 +241,7 @@ const FEED_DATA = {
     },
     {
       "title": "The AI water issue is fake",
-      "summary": "Article URL: https://blog.andymasley.com/p/the-ai-water-issue-is-fake Comments URL: https://news.ycombinator.com/item?id=48171826 Points: 81 # Comments: 55",
+      "summary": "Article URL: https://blog.andymasley.com/p/the-ai-water-issue-is-fake Comments URL: https://news.ycombinator.com/item?id=48171826 Points: 81 # Comments: 56",
       "source": "Hacker News",
       "published": "2026-05-17T18:35:18+00:00",
       "link": "https://blog.andymasley.com/p/the-ai-water-issue-is-fake"
@@ -185,7 +269,7 @@ const FEED_DATA = {
     },
     {
       "title": "Mistral's CEO: Europe has 2 years to stop becoming America's AI 'vassal state'",
-      "summary": "Article URL: https://www.businessinsider.com/mistral-ceo-warns-europe-2-years-avoid-us-ai-dependence-2026-5 Comments URL: https://news.ycombinator.com/item?id=48170122 Points: 112 # Comments: 191",
+      "summary": "Article URL: https://www.businessinsider.com/mistral-ceo-warns-europe-2-years-avoid-us-ai-dependence-2026-5 Comments URL: https://news.ycombinator.com/item?id=48170122 Points: 113 # Comments: 191",
       "source": "Hacker News",
       "published": "2026-05-17T16:04:28+00:00",
       "link": "https://www.businessinsider.com/mistral-ceo-warns-europe-2-years-avoid-us-ai-dependence-2026-5"
@@ -206,14 +290,14 @@ const FEED_DATA = {
     },
     {
       "title": "AI is a technology not a product",
-      "summary": "Article URL: https://daringfireball.net/2026/05/ai_is_technology_not_a_product Comments URL: https://news.ycombinator.com/item?id=48168626 Points: 443 # Comments: 194",
+      "summary": "Article URL: https://daringfireball.net/2026/05/ai_is_technology_not_a_product Comments URL: https://news.ycombinator.com/item?id=48168626 Points: 448 # Comments: 196",
       "source": "Hacker News",
       "published": "2026-05-17T13:11:20+00:00",
       "link": "https://daringfireball.net/2026/05/ai_is_technology_not_a_product"
     },
     {
       "title": "I don't think AI will make your processes go faster",
-      "summary": "Article URL: https://frederickvanbrabant.com/blog/2026-05-15-i-dont-think-ai-will-make-your-processes-go-faster/ Comments URL: https://news.ycombinator.com/item?id=48168221 Points: 640 # Comments: 431",
+      "summary": "Article URL: https://frederickvanbrabant.com/blog/2026-05-15-i-dont-think-ai-will-make-your-processes-go-faster/ Comments URL: https://news.ycombinator.com/item?id=48168221 Points: 646 # Comments: 436",
       "source": "Hacker News",
       "published": "2026-05-17T12:13:45+00:00",
       "link": "https://frederickvanbrabant.com/blog/2026-05-15-i-dont-think-ai-will-make-your-processes-go-faster/"
@@ -227,7 +311,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI subscriptions are a ticking time bomb for enterprise",
-      "summary": "Article URL: https://www.thestateofbrand.com/news/ai-subscription-time-bomb Comments URL: https://news.ycombinator.com/item?id=48168056 Points: 405 # Comments: 394",
+      "summary": "Article URL: https://www.thestateofbrand.com/news/ai-subscription-time-bomb Comments URL: https://news.ycombinator.com/item?id=48168056 Points: 407 # Comments: 394",
       "source": "Hacker News",
       "published": "2026-05-17T11:49:31+00:00",
       "link": "https://www.thestateofbrand.com/news/ai-subscription-time-bomb"
@@ -275,6 +359,13 @@ const FEED_DATA = {
       "link": "https://the-decoder.com/oppo-open-sources-android-ai-agent-x-omniclaw-that-uses-your-camera-screen-and-voice-without-leaving-the-phone/"
     },
     {
+      "title": "The haves and have-nots of the AI gold rush",
+      "summary": "The vibes around the current AI boom aren't great, even in the tech industry.",
+      "source": "TechCrunch",
+      "published": "2026-05-16T20:17:16+00:00",
+      "link": "https://techcrunch.com/2026/05/16/the-haves-and-have-nots-of-the-ai-gold-rush/"
+    },
+    {
       "title": "The haves and have nots of the AI gold rush",
       "summary": "The vibes around the current AI boom aren't great, even in the tech industry.",
       "source": "TechCrunch",
@@ -290,7 +381,7 @@ const FEED_DATA = {
     },
     {
       "title": "US is starting to see heavy job losses in roles exposed to AI",
-      "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-05-15/us-is-starting-to-see-heavy-job-losses-in-roles-exposed-to-ai Comments URL: https://news.ycombinator.com/item?id=48162354 Points: 163 # Comments: 274",
+      "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-05-15/us-is-starting-to-see-heavy-job-losses-in-roles-exposed-to-ai Comments URL: https://news.ycombinator.com/item?id=48162354 Points: 164 # Comments: 274",
       "source": "Hacker News",
       "published": "2026-05-16T17:59:45+00:00",
       "link": "https://www.bloomberg.com/news/articles/2026-05-15/us-is-starting-to-see-heavy-job-losses-in-roles-exposed-to-ai"
@@ -1309,97 +1400,6 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-05-12T18:05:15+00:00",
       "link": "https://techcrunch.com/2026/05/12/musk-mulled-handing-openai-to-his-children-altman-testifies/"
-    },
-    {
-      "title": "Alphabet's Isomorphic Labs raises $2.1 billion to scale AI drug discovery toward clinical trials",
-      "summary": "Isomorphic Labs, the AI drug research company led by DeepMind co-founder Demis Hassabis, has closed a $2.1 billion Series B round led by Thrive Capital. The funding will go toward expanding its in-house platform IsoDDE and advancing drug candidates toward clinical trials.",
-      "source": "The Decoder",
-      "published": "2026-05-12T17:50:40+00:00",
-      "link": "https://the-decoder.com/alphabets-isomorphic-labs-raises-2-1-billion-to-scale-ai-drug-discovery-toward-clinical-trials/"
-    },
-    {
-      "title": "Reimagining the mouse pointer for the AI era",
-      "summary": "Article URL: https://deepmind.google/blog/ai-pointer/ Comments URL: https://news.ycombinator.com/item?id=48111581 Points: 251 # Comments: 213",
-      "source": "Hacker News",
-      "published": "2026-05-12T17:40:13+00:00",
-      "link": "https://deepmind.google/blog/ai-pointer/"
-    },
-    {
-      "title": "Anthropic warns investors against secondary platforms offering access to its shares",
-      "summary": "\"Any sale or transfer of Anthropic stock, or any interest in Anthropic stock, offered by these firms is void and will not be recognized on our books and records,\" the company's support page reads.",
-      "source": "TechCrunch",
-      "published": "2026-05-12T17:36:34+00:00",
-      "link": "https://techcrunch.com/2026/05/12/anthropic-warns-investors-against-secondary-platforms-offering-access-to-its-shares/"
-    },
-    {
-      "title": "Sam Altman says Elon Musk’s mind games were damaging OpenAI",
-      "summary": "OpenAI CEO Sam Altman says Elon Musk did \"huge damage\" to the culture of the AI startup.",
-      "source": "The Verge",
-      "published": "2026-05-12T17:34:09+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/928861/openai-sam-altman-elon-musk-damage"
-    },
-    {
-      "title": "Report: Google and SpaceX in talks to put data centers into orbit",
-      "summary": "Google and SpaceX are in talks to build data centers in orbit, pitching space as the future home for AI compute, even as costs today remain far higher than on the ground.",
-      "source": "TechCrunch",
-      "published": "2026-05-12T17:30:57+00:00",
-      "link": "https://techcrunch.com/2026/05/12/report-google-and-spacex-in-talks-to-put-data-centers-into-orbit/"
-    },
-    {
-      "title": "Everything Google announced at its Android Show, from Googlebooks to vibe-coded widgets",
-      "summary": "Google unveiled its new AI-first Googlebooks laptops, more agentic Gemini features, vibe-coded Android widgets, Gemini in Chrome, refreshed Android Auto, and more ahead of I/O.",
-      "source": "TechCrunch",
-      "published": "2026-05-12T17:01:00+00:00",
-      "link": "https://techcrunch.com/2026/05/12/everything-google-announced-at-its-android-show-from-googlebooks-to-vibe-coded-widgets/"
-    },
-    {
-      "title": "Google adds Gemini-powered dictation to Gboard, which could be bad news for dictation startups",
-      "summary": "Google's transcription feature will initially launch with Samsung Galaxy and Google Pixel phones.",
-      "source": "TechCrunch",
-      "published": "2026-05-12T17:00:00+00:00",
-      "link": "https://techcrunch.com/2026/05/12/google-adds-gemini-powered-dictation-to-gboard-which-could-be-bad-news-for-dictation-startups/"
-    },
-    {
-      "title": "The 9 biggest new features in Android 17",
-      "summary": "Would it shock you to hear that Android 17 is filled with new AI-enabled features, like improved dictation and vibe-coded widgets? Fortunately, that's not all.",
-      "source": "The Verge",
-      "published": "2026-05-12T17:00:00+00:00",
-      "link": "https://www.theverge.com/tech/928653/google-android-17-9-biggest-new-features-android-show-io"
-    },
-    {
-      "title": "The AI legal services industry is heating up — Anthropic is getting in on the action",
-      "summary": "Anthropic's new tools are designed to help law firms automate specific clerical functions — things like document search and review, case law resources, deposition prep, document drafting, and other related areas.",
-      "source": "TechCrunch",
-      "published": "2026-05-12T17:00:00+00:00",
-      "link": "https://techcrunch.com/2026/05/12/the-ai-legal-services-industry-is-heating-up-anthropic-is-getting-in-on-the-action/"
-    },
-    {
-      "title": "Google brings agentic AI and vibe-coded widgets to Android",
-      "summary": "Gemini Intelligence will also include Gboard-based dictation and form-filling capabilities.",
-      "source": "TechCrunch",
-      "published": "2026-05-12T17:00:00+00:00",
-      "link": "https://techcrunch.com/2026/05/12/google-brings-agentic-ai-and-vibe-coded-widgets-to-android/"
-    },
-    {
-      "title": "Google’s ‘Create My Widget’ feature will let you vibe-code your own widgets",
-      "summary": "To create a widget, users will be able to describe what they want using natural language. For example, you could ask the feature to \"suggest three high-protein meal prep recipes every week\" in order to get a custom dashboard that you can add and resize on your home screen.",
-      "source": "TechCrunch",
-      "published": "2026-05-12T17:00:00+00:00",
-      "link": "https://techcrunch.com/2026/05/12/googles-create-my-widget-feature-will-let-you-vibe-code-your-own-widgets/"
-    },
-    {
-      "title": "Gemini’s latest updates are all about controlling your phone",
-      "summary": "It is, once again, Gemini season. Google is announcing a host of new Gemini features during its pre-I/O Android showcase, many of which aim to help use your phone for you.",
-      "source": "The Verge",
-      "published": "2026-05-12T17:00:00+00:00",
-      "link": "https://www.theverge.com/tech/928724/gemini-intelligence-android-io-autofill"
-    },
-    {
-      "title": "The AI legal services industry is heating up. Anthropic is getting in on the action.",
-      "summary": "As the AI legal services industry heats up, Anthropic is launching its own suite of features designed to assist law firms.",
-      "source": "TechCrunch",
-      "published": "2026-05-12T17:00:00+00:00",
-      "link": "https://techcrunch.com/2026/05/12/the-ai-legal-services-industry-is-heating-up-anthropic-is-getting-in-on-the-action/"
     }
   ]
 };
