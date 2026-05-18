@@ -1,6 +1,27 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-05-17T21:47:06.329130+00:00",
+  "lastUpdated": "2026-05-18T05:04:59.081918+00:00",
   "items": [
+    {
+      "title": "Most Americans don't trust AI – or the people in charge of it (2025)",
+      "summary": "Article URL: https://www.theverge.com/ai-artificial-intelligence/644853/pew-gallup-data-americans-dont-trust-ai Comments URL: https://news.ycombinator.com/item?id=48174808 Points: 61 # Comments: 41",
+      "source": "Hacker News",
+      "published": "2026-05-18T01:39:30+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/644853/pew-gallup-data-americans-dont-trust-ai"
+    },
+    {
+      "title": "The History of ThinkPad: From IBM’s Bento Box to Lenovo’s AI Workstations",
+      "summary": "Article URL: https://www.jdhodges.com/blog/thinkpad-history/ Comments URL: https://news.ycombinator.com/item?id=48173547 Points: 75 # Comments: 41",
+      "source": "Hacker News",
+      "published": "2026-05-17T21:56:40+00:00",
+      "link": "https://www.jdhodges.com/blog/thinkpad-history/"
+    },
+    {
+      "title": "An AI Hate Wave Is Here",
+      "summary": "Article URL: https://www.axios.com/2026/05/17/ai-backlash-polling-sentiment Comments URL: https://news.ycombinator.com/item?id=48173318 Points: 77 # Comments: 101",
+      "source": "Hacker News",
+      "published": "2026-05-17T21:23:25+00:00",
+      "link": "https://www.axios.com/2026/05/17/ai-backlash-polling-sentiment"
+    },
     {
       "title": "Why trust is a big question at the Elon Musk-OpenAI trial",
       "summary": "A big theme in the trial’s final days was whether OpenAI CEO Sam Altman is trustworthy.",
@@ -17,7 +38,7 @@ const FEED_DATA = {
     },
     {
       "title": "The AI water issue is fake",
-      "summary": "Article URL: https://blog.andymasley.com/p/the-ai-water-issue-is-fake Comments URL: https://news.ycombinator.com/item?id=48171826 Points: 72 # Comments: 52",
+      "summary": "Article URL: https://blog.andymasley.com/p/the-ai-water-issue-is-fake Comments URL: https://news.ycombinator.com/item?id=48171826 Points: 79 # Comments: 56",
       "source": "Hacker News",
       "published": "2026-05-17T18:35:18+00:00",
       "link": "https://blog.andymasley.com/p/the-ai-water-issue-is-fake"
@@ -45,7 +66,7 @@ const FEED_DATA = {
     },
     {
       "title": "Mistral's CEO: Europe has 2 years to stop becoming America's AI 'vassal state'",
-      "summary": "Article URL: https://www.businessinsider.com/mistral-ceo-warns-europe-2-years-avoid-us-ai-dependence-2026-5 Comments URL: https://news.ycombinator.com/item?id=48170122 Points: 92 # Comments: 142",
+      "summary": "Article URL: https://www.businessinsider.com/mistral-ceo-warns-europe-2-years-avoid-us-ai-dependence-2026-5 Comments URL: https://news.ycombinator.com/item?id=48170122 Points: 98 # Comments: 157",
       "source": "Hacker News",
       "published": "2026-05-17T16:04:28+00:00",
       "link": "https://www.businessinsider.com/mistral-ceo-warns-europe-2-years-avoid-us-ai-dependence-2026-5"
@@ -59,14 +80,14 @@ const FEED_DATA = {
     },
     {
       "title": "AI is a technology not a product",
-      "summary": "Article URL: https://daringfireball.net/2026/05/ai_is_technology_not_a_product Comments URL: https://news.ycombinator.com/item?id=48168626 Points: 267 # Comments: 99",
+      "summary": "Article URL: https://daringfireball.net/2026/05/ai_is_technology_not_a_product Comments URL: https://news.ycombinator.com/item?id=48168626 Points: 368 # Comments: 158",
       "source": "Hacker News",
       "published": "2026-05-17T13:11:20+00:00",
       "link": "https://daringfireball.net/2026/05/ai_is_technology_not_a_product"
     },
     {
       "title": "I don't think AI will make your processes go faster",
-      "summary": "Article URL: https://frederickvanbrabant.com/blog/2026-05-15-i-dont-think-ai-will-make-your-processes-go-faster/ Comments URL: https://news.ycombinator.com/item?id=48168221 Points: 437 # Comments: 312",
+      "summary": "Article URL: https://frederickvanbrabant.com/blog/2026-05-15-i-dont-think-ai-will-make-your-processes-go-faster/ Comments URL: https://news.ycombinator.com/item?id=48168221 Points: 527 # Comments: 372",
       "source": "Hacker News",
       "published": "2026-05-17T12:13:45+00:00",
       "link": "https://frederickvanbrabant.com/blog/2026-05-15-i-dont-think-ai-will-make-your-processes-go-faster/"
@@ -80,7 +101,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI subscriptions are a ticking time bomb for enterprise",
-      "summary": "Article URL: https://www.thestateofbrand.com/news/ai-subscription-time-bomb Comments URL: https://news.ycombinator.com/item?id=48168056 Points: 354 # Comments: 361",
+      "summary": "Article URL: https://www.thestateofbrand.com/news/ai-subscription-time-bomb Comments URL: https://news.ycombinator.com/item?id=48168056 Points: 382 # Comments: 378",
       "source": "Hacker News",
       "published": "2026-05-17T11:49:31+00:00",
       "link": "https://www.thestateofbrand.com/news/ai-subscription-time-bomb"
@@ -143,7 +164,7 @@ const FEED_DATA = {
     },
     {
       "title": "US is starting to see heavy job losses in roles exposed to AI",
-      "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-05-15/us-is-starting-to-see-heavy-job-losses-in-roles-exposed-to-ai Comments URL: https://news.ycombinator.com/item?id=48162354 Points: 161 # Comments: 264",
+      "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-05-15/us-is-starting-to-see-heavy-job-losses-in-roles-exposed-to-ai Comments URL: https://news.ycombinator.com/item?id=48162354 Points: 162 # Comments: 268",
       "source": "Hacker News",
       "published": "2026-05-16T17:59:45+00:00",
       "link": "https://www.bloomberg.com/news/articles/2026-05-15/us-is-starting-to-see-heavy-job-losses-in-roles-exposed-to-ai"
@@ -171,7 +192,7 @@ const FEED_DATA = {
     },
     {
       "title": "DeepSeek-V4-Flash means LLM steering is interesting again",
-      "summary": "Article URL: https://www.seangoedecke.com/steering-vectors/ Comments URL: https://news.ycombinator.com/item?id=48160807 Points: 258 # Comments: 75",
+      "summary": "Article URL: https://www.seangoedecke.com/steering-vectors/ Comments URL: https://news.ycombinator.com/item?id=48160807 Points: 265 # Comments: 75",
       "source": "Hacker News",
       "published": "2026-05-16T14:58:16+00:00",
       "link": "https://www.seangoedecke.com/steering-vectors/"
@@ -241,7 +262,7 @@ const FEED_DATA = {
     },
     {
       "title": "Frontier AI has broken the open CTF format",
-      "summary": "Article URL: https://kabir.au/blog/the-ctf-scene-is-dead Comments URL: https://news.ycombinator.com/item?id=48157559 Points: 407 # Comments: 435",
+      "summary": "Article URL: https://kabir.au/blog/the-ctf-scene-is-dead Comments URL: https://news.ycombinator.com/item?id=48157559 Points: 412 # Comments: 438",
       "source": "Hacker News",
       "published": "2026-05-16T07:01:55+00:00",
       "link": "https://kabir.au/blog/the-ctf-scene-is-dead"
@@ -283,7 +304,7 @@ const FEED_DATA = {
     },
     {
       "title": "I believe there are entire companies right now under AI psychosis",
-      "summary": "https://xcancel.com/mitchellh/status/2055380239711457578https://hachyderm.io/@mitchellh/116580433508108130 Comments URL: https://news.ycombinator.com/item?id=48153379 Points: 2066 # Comments: 1220",
+      "summary": "https://xcancel.com/mitchellh/status/2055380239711457578https://hachyderm.io/@mitchellh/116580433508108130 Comments URL: https://news.ycombinator.com/item?id=48153379 Points: 2076 # Comments: 1231",
       "source": "Hacker News",
       "published": "2026-05-15T20:26:47+00:00",
       "link": "https://twitter.com/mitchellh/status/2055380239711457578"
@@ -409,7 +430,7 @@ const FEED_DATA = {
     },
     {
       "title": "Amazon workers under pressure to up their AI usage are making up tasks",
-      "summary": "Article URL: https://www.fastcompany.com/91541586/amazon-workers-pressured-to-up-ai-use-extraneous-tasks Comments URL: https://news.ycombinator.com/item?id=48148337 Points: 394 # Comments: 428",
+      "summary": "Article URL: https://www.fastcompany.com/91541586/amazon-workers-pressured-to-up-ai-use-extraneous-tasks Comments URL: https://news.ycombinator.com/item?id=48148337 Points: 395 # Comments: 428",
       "source": "Hacker News",
       "published": "2026-05-15T13:28:55+00:00",
       "link": "https://www.fastcompany.com/91541586/amazon-workers-pressured-to-up-ai-use-extraneous-tasks"
@@ -1379,27 +1400,6 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-05-12T13:00:00+00:00",
       "link": "https://techcrunch.com/2026/05/12/dessn-raises-6m-for-its-production-focused-design-tool/"
-    },
-    {
-      "title": "Dessn raises $6M for its production focused design tool",
-      "summary": "A new startup called Dessn has raised $6M to build AI-powered design tools that work directly with production codebases.",
-      "source": "TechCrunch",
-      "published": "2026-05-12T13:00:00+00:00",
-      "link": "https://techcrunch.com/2026/05/12/dessn-raises-6m-for-its-production-focused-design-tool/"
-    },
-    {
-      "title": "The Download: a Nobel winner on AI, and the case for fixing everything",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.",
-      "source": "MIT Tech Review",
-      "published": "2026-05-12T12:10:00+00:00",
-      "link": "https://www.technologyreview.com/2026/05/12/1137103/the-download-nobel-winner-ai-maintenance-of-everything/"
-    },
-    {
-      "title": "AI voice startup Vapi hits $500M valuation after winning Amazon Ring over 40 rivals",
-      "summary": "Vapi says its enterprise business has grown tenfold since early 2025 as companies shift customer support and sales calls to AI agents.",
-      "source": "TechCrunch",
-      "published": "2026-05-12T11:30:00+00:00",
-      "link": "https://techcrunch.com/2026/05/12/vapi-hits-500m-valuation-as-amazon-ring-chose-its-ai-platform-over-40-rivals/"
     }
   ]
 };
