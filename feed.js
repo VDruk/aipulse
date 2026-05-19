@@ -1,9 +1,58 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-05-19T08:29:12.107908+00:00",
+  "lastUpdated": "2026-05-19T11:51:59.592325+00:00",
   "items": [
     {
+      "title": "Mistral AI acquires Viennese physical AI startup Emmi AI",
+      "summary": "French AI company Mistral AI has acquired Vienna-based startup Emmi AI to expand its offering for industrial clients across Europe. The article Mistral AI acquires Viennese physical AI startup Emmi AI appeared first on The Decoder.",
+      "source": "The Decoder",
+      "published": "2026-05-19T11:27:09+00:00",
+      "link": "https://the-decoder.com/mistral-ai-acquires-viennese-physical-ai-startup-emmi-ai/"
+    },
+    {
+      "title": "Cloudflare says Anthropic's Mythos Preview finds exploit chains that earlier frontier models missed",
+      "summary": "Cloudflare tested Anthropic's security-focused AI model Mythos Preview across more than 50 of its own code repositories as part of Project Glasswing.",
+      "source": "The Decoder",
+      "published": "2026-05-19T11:13:48+00:00",
+      "link": "https://the-decoder.com/cloudflare-says-anthropics-mythos-preview-finds-exploit-chains-that-earlier-frontier-models-missed/"
+    },
+    {
+      "title": "Gemini is in danger of going full Copilot",
+      "summary": "Gemini has a creep problem. A few years ago, that little sparkle icon started showing up in all of our Google apps.",
+      "source": "The Verge",
+      "published": "2026-05-19T10:30:00+00:00",
+      "link": "https://www.theverge.com/tech/931752/google-io-2026-gemini-icon-docs-workspace"
+    },
+    {
+      "title": "Tom Steyer Wants to Save California From Billionaires. But Also Doesn’t Want Them to Leave",
+      "summary": "The hedge fund billionaire turned gubernatorial candidate wants to tax California’s ultrawealthy, regulate AI, and keep Silicon Valley happy at the same time. Good luck with that.",
+      "source": "Wired",
+      "published": "2026-05-19T10:30:00+00:00",
+      "link": "https://www.wired.com/story/the-big-interview-podcast-tom-steyer/"
+    },
+    {
+      "title": "Anthropic adds self-hosted sandboxes and MCP tunnels to Claude Managed Agents",
+      "summary": "Anthropic is expanding Claude Managed Agents with self-hosted sandboxes and MCP tunnels. Companies can now move their AI agents' tool execution into their own infrastructure.",
+      "source": "The Decoder",
+      "published": "2026-05-19T10:02:11+00:00",
+      "link": "https://the-decoder.com/anthropic-adds-self-hosted-sandboxes-and-mcp-tunnels-to-claude-managed-agents/"
+    },
+    {
+      "title": "The Nvidia H200 China deal survived the Trump-Xi summit–just not in the way anyone expected",
+      "summary": "President Trump flew to Beijing, brought Jensen Huang along at the last minute, and left two days later, telling reporters that “something could happen” on chip exports. Nothing did.",
+      "source": "AI News",
+      "published": "2026-05-19T10:00:00+00:00",
+      "link": "https://www.artificialintelligence-news.com/news/nvidia-h200-china-deal-stalled-trump-xi-summit-2026/"
+    },
+    {
+      "title": "Elon Musk appeals $134 billion OpenAI loss, calls verdict a \"calendar technicality\"",
+      "summary": "Elon Musk has lost his lawsuit against Sam Altman and OpenAI. The jury in Oakland dismissed the case after just two hours of deliberation.",
+      "source": "The Decoder",
+      "published": "2026-05-19T08:54:50+00:00",
+      "link": "https://the-decoder.com/elon-musk-appeals-134-billion-openai-loss-calls-verdict-a-calendar-technicality/"
+    },
+    {
       "title": "The American Rebellion Against AI Is Gaining Steam",
-      "summary": "Article URL: https://www.wsj.com/tech/ai/the-american-rebellion-against-ai-is-gaining-steam-94b72529 Comments URL: https://news.ycombinator.com/item?id=48188310 Points: 83 # Comments: 72",
+      "summary": "Article URL: https://www.wsj.com/tech/ai/the-american-rebellion-against-ai-is-gaining-steam-94b72529 Comments URL: https://news.ycombinator.com/item?id=48188310 Points: 107 # Comments: 107",
       "source": "Hacker News",
       "published": "2026-05-19T01:51:48+00:00",
       "link": "https://www.wsj.com/tech/ai/the-american-rebellion-against-ai-is-gaining-steam-94b72529"
@@ -24,7 +73,7 @@ const FEED_DATA = {
     },
     {
       "title": "What political censorship looks like inside an LLM's weights (Qwen 3.5)",
-      "summary": "Article URL: https://vas-blog.pages.dev/qwen-censorship/ Comments URL: https://news.ycombinator.com/item?id=48187680 Points: 72 # Comments: 35",
+      "summary": "Article URL: https://vas-blog.pages.dev/qwen-censorship/ Comments URL: https://news.ycombinator.com/item?id=48187680 Points: 79 # Comments: 40",
       "source": "Hacker News",
       "published": "2026-05-19T00:16:31+00:00",
       "link": "https://vas-blog.pages.dev/qwen-censorship/"
@@ -35,6 +84,13 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-05-18T21:29:31+00:00",
       "link": "https://techcrunch.com/2026/05/18/sandboxaq-brings-its-drug-discovery-models-to-claude-no-phd-in-computing-required/"
+    },
+    {
+      "title": "Alignment pretraining: AI discourse creates self-fulfilling (mis)alignment",
+      "summary": "Article URL: https://arxiv.org/abs/2601.10160 Comments URL: https://news.ycombinator.com/item?id=48185938 Points: 59 # Comments: 24",
+      "source": "Hacker News",
+      "published": "2026-05-18T21:29:13+00:00",
+      "link": "https://arxiv.org/abs/2601.10160"
     },
     {
       "title": "Anthropic has acquired the dev tools startup used by OpenAI, Google, and Cloudflare",
@@ -129,7 +185,7 @@ const FEED_DATA = {
     },
     {
       "title": "We stopped AI bot spam in our GitHub repo using Git's –author flag",
-      "summary": "Article URL: https://archestra.ai/blog/only-responsible-ai Comments URL: https://news.ycombinator.com/item?id=48181125 Points: 443 # Comments: 200",
+      "summary": "Article URL: https://archestra.ai/blog/only-responsible-ai Comments URL: https://news.ycombinator.com/item?id=48181125 Points: 472 # Comments: 230",
       "source": "Hacker News",
       "published": "2026-05-18T15:24:19+00:00",
       "link": "https://archestra.ai/blog/only-responsible-ai"
@@ -150,21 +206,21 @@ const FEED_DATA = {
     },
     {
       "title": "Researchers Wanted Preschool Teachers to Wear Cameras to Train AI",
-      "summary": "Article URL: https://www.404media.co/researchers-wanted-preschool-teachers-to-wear-cameras-to-train-ai/ Comments URL: https://news.ycombinator.com/item?id=48179569 Points: 92 # Comments: 29",
+      "summary": "Article URL: https://www.404media.co/researchers-wanted-preschool-teachers-to-wear-cameras-to-train-ai/ Comments URL: https://news.ycombinator.com/item?id=48179569 Points: 94 # Comments: 29",
       "source": "Hacker News",
       "published": "2026-05-18T13:26:34+00:00",
       "link": "https://www.404media.co/researchers-wanted-preschool-teachers-to-wear-cameras-to-train-ai/"
     },
     {
       "title": "Enough with the AI FOMO, go slow-mo, says Domo CDO",
-      "summary": "Article URL: https://www.theregister.com/ai-ml/2026/05/17/enough-with-the-ai-fomo-go-slow-mo-says-domo-cdo/5240840 Comments URL: https://news.ycombinator.com/item?id=48179029 Points: 152 # Comments: 81",
+      "summary": "Article URL: https://www.theregister.com/ai-ml/2026/05/17/enough-with-the-ai-fomo-go-slow-mo-says-domo-cdo/5240840 Comments URL: https://news.ycombinator.com/item?id=48179029 Points: 152 # Comments: 82",
       "source": "Hacker News",
       "published": "2026-05-18T12:49:54+00:00",
       "link": "https://www.theregister.com/ai-ml/2026/05/17/enough-with-the-ai-fomo-go-slow-mo-says-domo-cdo/5240840"
     },
     {
       "title": "AI eats the world (Spring 26) [pdf]",
-      "summary": "Article URL: https://static1.squarespace.com/static/50363cf324ac8e905e7df861/t/6a0af5d0484fbf5fe9a7743e/1779103184855/2026-Spring-AI.pdf Comments URL: https://news.ycombinator.com/item?id=48179021 Points: 190 # Comments: 108",
+      "summary": "Article URL: https://static1.squarespace.com/static/50363cf324ac8e905e7df861/t/6a0af5d0484fbf5fe9a7743e/1779103184855/2026-Spring-AI.pdf Comments URL: https://news.ycombinator.com/item?id=48179021 Points: 250 # Comments: 138",
       "source": "Hacker News",
       "published": "2026-05-18T12:49:28+00:00",
       "link": "https://static1.squarespace.com/static/50363cf324ac8e905e7df861/t/6a0af5d0484fbf5fe9a7743e/1779103184855/2026-Spring-AI.pdf"
@@ -192,7 +248,7 @@ const FEED_DATA = {
     },
     {
       "title": "Voice AI Systems Are Vulnerable to Hidden Audio Attacks",
-      "summary": "Article URL: https://spectrum.ieee.org/voice-ai-audio-attacks Comments URL: https://news.ycombinator.com/item?id=48178378 Points: 112 # Comments: 29",
+      "summary": "Article URL: https://spectrum.ieee.org/voice-ai-audio-attacks Comments URL: https://news.ycombinator.com/item?id=48178378 Points: 125 # Comments: 31",
       "source": "Hacker News",
       "published": "2026-05-18T11:51:05+00:00",
       "link": "https://spectrum.ieee.org/voice-ai-audio-attacks"
@@ -206,7 +262,7 @@ const FEED_DATA = {
     },
     {
       "title": "Eric Schmidt speech about AI booed during graduation",
-      "summary": "Article URL: https://www.nbcnews.com/tech/tech-news/former-google-ceo-booed-graduation-speech-ai-rcna345585 Comments URL: https://news.ycombinator.com/item?id=48177785 Points: 347 # Comments: 373",
+      "summary": "Article URL: https://www.nbcnews.com/tech/tech-news/former-google-ceo-booed-graduation-speech-ai-rcna345585 Comments URL: https://news.ycombinator.com/item?id=48177785 Points: 356 # Comments: 379",
       "source": "Hacker News",
       "published": "2026-05-18T10:50:25+00:00",
       "link": "https://www.nbcnews.com/tech/tech-news/former-google-ceo-booed-graduation-speech-ai-rcna345585"
@@ -227,7 +283,7 @@ const FEED_DATA = {
     },
     {
       "title": "Multiple commencement speakers booed for AI comments during graduation speeches",
-      "summary": "Article URL: https://www.nbcnews.com/video/multiple-commencement-speakers-booed-for-ai-comments-during-graduation-speeches-263486021518 Comments URL: https://news.ycombinator.com/item?id=48177107 Points: 152 # Comments: 161",
+      "summary": "Article URL: https://www.nbcnews.com/video/multiple-commencement-speakers-booed-for-ai-comments-during-graduation-speeches-263486021518 Comments URL: https://news.ycombinator.com/item?id=48177107 Points: 155 # Comments: 165",
       "source": "Hacker News",
       "published": "2026-05-18T09:12:10+00:00",
       "link": "https://www.nbcnews.com/video/multiple-commencement-speakers-booed-for-ai-comments-during-graduation-speeches-263486021518"
@@ -241,21 +297,21 @@ const FEED_DATA = {
     },
     {
       "title": "Most Americans don't trust AI – or the people in charge of it (2025)",
-      "summary": "Article URL: https://www.theverge.com/ai-artificial-intelligence/644853/pew-gallup-data-americans-dont-trust-ai Comments URL: https://news.ycombinator.com/item?id=48174808 Points: 131 # Comments: 85",
+      "summary": "Article URL: https://www.theverge.com/ai-artificial-intelligence/644853/pew-gallup-data-americans-dont-trust-ai Comments URL: https://news.ycombinator.com/item?id=48174808 Points: 133 # Comments: 88",
       "source": "Hacker News",
       "published": "2026-05-18T01:39:30+00:00",
       "link": "https://www.theverge.com/ai-artificial-intelligence/644853/pew-gallup-data-americans-dont-trust-ai"
     },
     {
       "title": "The History of ThinkPad: From IBM’s Bento Box to Lenovo’s AI Workstations",
-      "summary": "Article URL: https://www.jdhodges.com/blog/thinkpad-history/ Comments URL: https://news.ycombinator.com/item?id=48173547 Points: 110 # Comments: 56",
+      "summary": "Article URL: https://www.jdhodges.com/blog/thinkpad-history/ Comments URL: https://news.ycombinator.com/item?id=48173547 Points: 111 # Comments: 56",
       "source": "Hacker News",
       "published": "2026-05-17T21:56:40+00:00",
       "link": "https://www.jdhodges.com/blog/thinkpad-history/"
     },
     {
       "title": "An AI Hate Wave Is Here",
-      "summary": "Article URL: https://www.axios.com/2026/05/17/ai-backlash-polling-sentiment Comments URL: https://news.ycombinator.com/item?id=48173318 Points: 99 # Comments: 124",
+      "summary": "Article URL: https://www.axios.com/2026/05/17/ai-backlash-polling-sentiment Comments URL: https://news.ycombinator.com/item?id=48173318 Points: 103 # Comments: 126",
       "source": "Hacker News",
       "published": "2026-05-17T21:23:25+00:00",
       "link": "https://www.axios.com/2026/05/17/ai-backlash-polling-sentiment"
@@ -276,7 +332,7 @@ const FEED_DATA = {
     },
     {
       "title": "Eric Schmidt booed at University of Arizona after praising AI",
-      "summary": "Article URL: https://bsky.app/profile/404media.co/post/3mm2ivguvq22x Comments URL: https://news.ycombinator.com/item?id=48172419 Points: 69 # Comments: 60",
+      "summary": "Article URL: https://bsky.app/profile/404media.co/post/3mm2ivguvq22x Comments URL: https://news.ycombinator.com/item?id=48172419 Points: 73 # Comments: 60",
       "source": "Hacker News",
       "published": "2026-05-17T19:30:52+00:00",
       "link": "https://bsky.app/profile/404media.co/post/3mm2ivguvq22x"
@@ -318,14 +374,14 @@ const FEED_DATA = {
     },
     {
       "title": "Mistral's CEO: Europe has 2 years to stop becoming America's AI 'vassal state'",
-      "summary": "Article URL: https://www.businessinsider.com/mistral-ceo-warns-europe-2-years-avoid-us-ai-dependence-2026-5 Comments URL: https://news.ycombinator.com/item?id=48170122 Points: 114 # Comments: 192",
+      "summary": "Article URL: https://www.businessinsider.com/mistral-ceo-warns-europe-2-years-avoid-us-ai-dependence-2026-5 Comments URL: https://news.ycombinator.com/item?id=48170122 Points: 115 # Comments: 193",
       "source": "Hacker News",
       "published": "2026-05-17T16:04:28+00:00",
       "link": "https://www.businessinsider.com/mistral-ceo-warns-europe-2-years-avoid-us-ai-dependence-2026-5"
     },
     {
       "title": "AI license plate cameras tore this town apart and led to a state of emergency",
-      "summary": "Article URL: https://www.washingtonpost.com/nation/2026/05/17/citys-ai-license-plate-cameras-led-an-uproar-state-emergency/ Comments URL: https://news.ycombinator.com/item?id=48169819 Points: 51 # Comments: 19",
+      "summary": "Article URL: https://www.washingtonpost.com/nation/2026/05/17/citys-ai-license-plate-cameras-led-an-uproar-state-emergency/ Comments URL: https://news.ycombinator.com/item?id=48169819 Points: 52 # Comments: 19",
       "source": "Hacker News",
       "published": "2026-05-17T15:31:08+00:00",
       "link": "https://www.washingtonpost.com/nation/2026/05/17/citys-ai-license-plate-cameras-led-an-uproar-state-emergency/"
@@ -339,7 +395,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI is a technology not a product",
-      "summary": "Article URL: https://daringfireball.net/2026/05/ai_is_technology_not_a_product Comments URL: https://news.ycombinator.com/item?id=48168626 Points: 463 # Comments: 206",
+      "summary": "Article URL: https://daringfireball.net/2026/05/ai_is_technology_not_a_product Comments URL: https://news.ycombinator.com/item?id=48168626 Points: 469 # Comments: 207",
       "source": "Hacker News",
       "published": "2026-05-17T13:11:20+00:00",
       "link": "https://daringfireball.net/2026/05/ai_is_technology_not_a_product"
@@ -1344,62 +1400,6 @@ const FEED_DATA = {
       "source": "The Verge",
       "published": "2026-05-13T13:00:00+00:00",
       "link": "https://www.theverge.com/ai-artificial-intelligence/929457/amazon-announces-alexa-for-shopping-ai-assistant-rufus"
-    },
-    {
-      "title": "Adaption aims big with AutoScientist, an AI tool that helps models train themselves",
-      "summary": "Adaption's new AutoScientist tool is designed to let models adapt to specific capabilities quickly through an automated approach to conventional fine-tuning.",
-      "source": "TechCrunch",
-      "published": "2026-05-13T12:11:33+00:00",
-      "link": "https://techcrunch.com/2026/05/13/adaption-aims-big-with-autoscientist-an-ai-tool-that-helps-models-train-themselves/"
-    },
-    {
-      "title": "The Download: making drugs in orbit and NASA’s nuclear-powered spacecraft",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.",
-      "source": "MIT Tech Review",
-      "published": "2026-05-13T12:10:00+00:00",
-      "link": "https://www.technologyreview.com/2026/05/13/1137176/the-download-drugs-in-orbit-nasa-nuclear-spacecraft/"
-    },
-    {
-      "title": "Submit Your Questions: AI Is Changing Your Job—Now What?",
-      "summary": "Pose your questions ahead of our May 27 livestream AMA, where a panel of WIRED experts will discuss how AI is transforming work.",
-      "source": "Wired",
-      "published": "2026-05-13T11:00:00+00:00",
-      "link": "https://www.wired.com/story/livestream-ai-is-changing-your-job-now-what/"
-    },
-    {
-      "title": "AI startup Recursive emerges from stealth with $650 million to build self-improving AI",
-      "summary": "AI startup Recursive has officially emerged from stealth, calling recursive self-improvement the \"fastest path to superintelligence.\" The article AI startup Recursive emerges from stealth with $650 million to build self-improving AI appeared first on The Decoder.",
-      "source": "The Decoder",
-      "published": "2026-05-13T10:40:06+00:00",
-      "link": "https://the-decoder.com/ai-startup-recursive-emerges-from-stealth-with-650-million-to-build-self-improving-ai/"
-    },
-    {
-      "title": "Google is hiring hundreds of engineers to help customers adopt its AI",
-      "summary": "Google is hiring now also hundreds of engineers to help customers adopt its AI. A sign that implementation remains difficult.",
-      "source": "The Decoder",
-      "published": "2026-05-13T10:17:12+00:00",
-      "link": "https://the-decoder.com/google-is-hiring-hundreds-of-engineers-to-help-customers-adopt-its-ai/"
-    },
-    {
-      "title": "Meet the Sad Wives of AI",
-      "summary": "Are you married to a man who’s obsessed with AI? I’m so, so sorry.",
-      "source": "Wired",
-      "published": "2026-05-13T10:00:00+00:00",
-      "link": "https://www.wired.com/story/meet-the-sad-wives-of-ai/"
-    },
-    {
-      "title": "From Prompt to Pointer Engineering: Deepmind tries to reinvent the mouse cursor for the AI era",
-      "summary": "Pointer Engineering: Deepmind wants to turn the mouse cursor into the key variable in context engineering. The article From Prompt to Pointer Engineering: Deepmind tries to reinvent the mouse cursor for the AI era appeared first on The Decoder.",
-      "source": "The Decoder",
-      "published": "2026-05-13T09:36:52+00:00",
-      "link": "https://the-decoder.com/from-prompt-to-pointer-engineering-deepmind-tries-to-reinvent-the-mouse-cursor-for-the-ai-era/"
-    },
-    {
-      "title": "Data centers are coming for rural America",
-      "summary": "At its peak, the Androscoggin paper mill in Jay, Maine, a rural town about 67 miles northwest of Portland, employed about 1,500 people - until a pulp digester exploded in 2020, forcing the mill to close permanently.",
-      "source": "The Verge",
-      "published": "2026-05-13T09:00:00+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/928963/data-center-rural-america-jobs-jay-maine"
     }
   ]
 };
