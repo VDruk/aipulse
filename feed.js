@@ -1,5 +1,5 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-05-19T04:59:14.297449+00:00",
+  "lastUpdated": "2026-05-19T08:29:12.107908+00:00",
   "items": [
     {
       "title": "The American Rebellion Against AI Is Gaining Steam",
