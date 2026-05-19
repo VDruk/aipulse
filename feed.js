@@ -1,12 +1,103 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-05-19T18:57:07.175253+00:00",
+  "lastUpdated": "2026-05-19T22:09:14.013008+00:00",
   "items": [
+    {
+      "title": "Google just declared itself a contender in AI design at IO 2026",
+      "summary": "Google says it's designed the app to be accessible to everyone, from teachers to small business owners.",
+      "source": "TechCrunch",
+      "published": "2026-05-19T21:33:30+00:00",
+      "link": "https://techcrunch.com/2026/05/19/ai-design-tools-are-the-next-big-battleground-and-google-is-going-all-in-at-io-2026/"
+    },
+    {
+      "title": "You can now talk to your Gmail inbox, as seen at Google IO 2026",
+      "summary": "Google expands Gmail’s AI Inbox with conversational voice search, letting users ask Gemini to find buried email details.",
+      "source": "TechCrunch",
+      "published": "2026-05-19T21:25:31+00:00",
+      "link": "https://techcrunch.com/2026/05/19/you-can-now-talk-to-your-gmail-inbox-as-seen-at-google-io-2026/"
+    },
+    {
+      "title": "How to use Google’s new AI agents to go beyond your standard searches",
+      "summary": "Google is launching AI-powered “information agents” that can monitor topics in the background and proactively alert users to updates and changes.",
+      "source": "TechCrunch",
+      "published": "2026-05-19T21:16:25+00:00",
+      "link": "https://techcrunch.com/2026/05/19/how-to-use-googles-new-ai-agents-to-go-beyond-your-standard-searches/"
+    },
+    {
+      "title": "From teen hacker to Iron Dome researcher, this founder raised $28M to fight AI phishing",
+      "summary": "Ocean, an agentic email security platform, raised funding from Lightspeed Venture Partners.",
+      "source": "TechCrunch",
+      "published": "2026-05-19T21:08:51+00:00",
+      "link": "https://techcrunch.com/2026/05/19/from-teen-hacker-to-iron-dome-researcher-this-founder-raised-28m-to-fight-ai-phishing/"
+    },
+    {
+      "title": "Google’s AI future demands trust — and your personal data",
+      "summary": "Google has big promises for its AI-powered future - and a lot of it depends on your trust. At I/O 2026, Google described a bunch of new tools that it claims will make your life easier.",
+      "source": "The Verge",
+      "published": "2026-05-19T21:00:00+00:00",
+      "link": "https://www.theverge.com/tech/934172/google-io-gemini-ai-trust-personal-data"
+    },
+    {
+      "title": "Roundtables: Inside the Musk v. Altman Trial",
+      "summary": "Listen to the session or watch below Elon Musk lost his suit against OpenAI, in which he alleged CEO Sam Altman and President Greg Brockman had deceived him over the company’s non-profit status.",
+      "source": "MIT Tech Review",
+      "published": "2026-05-19T20:15:18+00:00",
+      "link": "https://www.technologyreview.com/2026/05/19/1137454/roundtables-inside-the-musk-v-altman-trial/"
+    },
+    {
+      "title": "Elon Musk said Sam Altman “stole” a non-profit — but the trial showed he had similar aims",
+      "summary": "“By the end of this week, you and Sam will be the most hated men in America.”",
+      "source": "TechCrunch",
+      "published": "2026-05-19T20:11:00+00:00",
+      "link": "https://techcrunch.com/2026/05/19/elon-musk-said-sam-altman-stole-a-non-profit-but-the-trial-showed-he-had-similar-aims/"
+    },
+    {
+      "title": "Everything Announced at Google I/O 2026: Gemini, Search, Smart Glasses",
+      "summary": "Google is sprucing up its Gemini models, revamping search, and enabling AI agents in everything. There are also some spiffy new smart glasses coming this fall.",
+      "source": "Wired",
+      "published": "2026-05-19T20:00:48+00:00",
+      "link": "https://www.wired.com/story/everything-google-announced-at-google-io-2026/"
+    },
+    {
+      "title": "OpenAI Adopts Google's SynthID Watermark for AI Images with Verification Tool",
+      "summary": "Article URL: https://openai.com/index/advancing-content-provenance/ Comments URL: https://news.ycombinator.com/item?id=48198291 Points: 94 # Comments: 38",
+      "source": "Hacker News",
+      "published": "2026-05-19T19:34:30+00:00",
+      "link": "https://openai.com/index/advancing-content-provenance/"
+    },
+    {
+      "title": "Google overhauls its AI subscriptions at I/O 2026 with three tiers starting at $10 a month",
+      "summary": "Google is restructuring its AI subscriptions at I/O 2026: three tiers from $7.99 to $99.99 per month with staggered usage limits, new models like Gemini Omni, and the AI agent Gemini Spark.",
+      "source": "The Decoder",
+      "published": "2026-05-19T19:33:12+00:00",
+      "link": "https://the-decoder.com/google-overhauls-its-ai-subscriptions-at-i-o-2026-with-three-tiers-starting-at-10-a-month/"
+    },
+    {
+      "title": "Google takes a page out of Meta’s book, announces new audio-powered smart glasses",
+      "summary": "Google is calling the new devices \"audio glasses,\" in that users will be able to issue verbal commands to them and get things done via its ecosystem of apps and services, including Gemini.",
+      "source": "TechCrunch",
+      "published": "2026-05-19T19:15:31+00:00",
+      "link": "https://techcrunch.com/2026/05/19/google-takes-a-page-out-of-metas-book-announces-new-audio-powered-smart-glasses/"
+    },
+    {
+      "title": "Mistral AI Acquires Emmi AI to Create the Leading AI Stack",
+      "summary": "Article URL: https://www.emmi.ai/news/mistral-ai-acquires-emmi-ai Comments URL: https://news.ycombinator.com/item?id=48197995 Points: 104 # Comments: 16",
+      "source": "Hacker News",
+      "published": "2026-05-19T19:14:12+00:00",
+      "link": "https://www.emmi.ai/news/mistral-ai-acquires-emmi-ai"
+    },
     {
       "title": "Sorry for the outages: Bot spam is pushing our servers to the limit",
       "summary": "Since May 17, our site has been hard to reach, and we want to say sorry for the trouble, especially to our subscribers. The article Sorry for the outages: Bot spam is pushing our servers to the limit appeared first on The Decoder.",
       "source": "The Decoder",
       "published": "2026-05-19T18:31:14+00:00",
       "link": "https://the-decoder.com/sorry-for-the-outages-bot-spam-is-pushing-our-servers-to-the-limit/"
+    },
+    {
+      "title": "In stunning display of stupid, secret CISA credentials found in public GitHub repo",
+      "summary": "SSH keys, plaintext passwords, other sensitive data had been up since November 2025.",
+      "source": "Ars Technica",
+      "published": "2026-05-19T18:27:08+00:00",
+      "link": "https://arstechnica.com/information-technology/2026/05/in-stunning-display-of-stupid-secret-cisa-credentials-found-in-public-github-repo/"
     },
     {
       "title": "Prominent AI researcher Andrej Karpathy picks Anthropic over former home OpenAI to get back into frontier LLM research",
@@ -52,7 +143,7 @@ const FEED_DATA = {
     },
     {
       "title": "Gemini 3.5 Flash: frontier intelligence with action",
-      "summary": "Article URL: https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/ Comments URL: https://news.ycombinator.com/item?id=48196656 Points: 140 # Comments: 73",
+      "summary": "Article URL: https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/ Comments URL: https://news.ycombinator.com/item?id=48196656 Points: 177 # Comments: 1",
       "source": "Hacker News",
       "published": "2026-05-19T17:49:50+00:00",
       "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/"
@@ -72,27 +163,6 @@ const FEED_DATA = {
       "link": "https://techcrunch.com/2026/05/19/google-search-as-you-know-it-is-over/"
     },
     {
-      "title": "Google’s AI Studio now lets anyone build Android apps in minutes",
-      "summary": "Google unveiled new web-based AI tools that can generate native Android apps in minutes, as the company expands its push into AI-powered software development.",
-      "source": "TechCrunch",
-      "published": "2026-05-19T17:45:00+00:00",
-      "link": "https://techcrunch.com/2026/05/19/googles-ai-studio-now-lets-anyone-build-android-apps-in-minutes/"
-    },
-    {
-      "title": "Google’s AI now lets you talk to your Gmail inbox",
-      "summary": "Google expands Gmail’s AI Inbox with conversational voice search, letting users ask Gemini to find buried email details.",
-      "source": "TechCrunch",
-      "published": "2026-05-19T17:45:00+00:00",
-      "link": "https://techcrunch.com/2026/05/19/googles-ai-now-lets-you-talk-to-your-gmail-inbox/"
-    },
-    {
-      "title": "Google’s Gemini Omni turns images, audio, and text into video — and that’s just the start",
-      "summary": "Google's Gemini Omni is a new multimodal model that reasons across text, images, audio, and video to generate and edit videos through simple conversation — starting with Omni Flash.",
-      "source": "TechCrunch",
-      "published": "2026-05-19T17:45:00+00:00",
-      "link": "https://techcrunch.com/2026/05/19/googles-gemini-omni-turns-images-audio-and-text-into-video-and-thats-just-the-start/"
-    },
-    {
       "title": "OpenAI is making it easier to check if an image was made by their models",
       "summary": "OpenAI announced two new measures to help detect AI generated imagery: joining the open C2PA standard and adding Google's SynthID to its products.",
       "source": "TechCrunch",
@@ -100,18 +170,39 @@ const FEED_DATA = {
       "link": "https://techcrunch.com/2026/05/19/openai-is-making-it-easier-to-check-if-an-image-was-made-by-their-models/"
     },
     {
-      "title": "Google launches Antigravity 2.0 with an updated desktop app and CLI tool",
-      "summary": "Google is debuting a new AI Ultra plan priced at $100, which will give users 5x more usage limit than the AI Pro plan alongside Antigravity 2.0 launch.",
+      "title": "Agentic app coding gets an upgrade with Google’s release of Android CLI",
+      "summary": "Google is embracing the rise of AI coding agents with new Android tools designed to work with platforms like Claude Code and OpenAI’s Codex, allowing developers — or their AI assistants — to build Android apps faster from the command line.",
       "source": "TechCrunch",
       "published": "2026-05-19T17:45:00+00:00",
-      "link": "https://techcrunch.com/2026/05/19/google-launches-antigravity-2-0-with-an-updated-desktop-app-and-cli-tool/"
+      "link": "https://techcrunch.com/2026/05/19/agentic-app-coding-gets-an-upgrade-with-googles-release-of-android-cli/"
     },
     {
-      "title": "Google’s new Universal Cart wants to follow you across the entire internet",
-      "summary": "The tech giant says it's aware that most people shop across multiple devices, many retailers, and over the course of many days, which is why it's launching Universal Cart.",
+      "title": "Google’s AI Studio now lets anyone build Android apps in minutes",
+      "summary": "Google unveiled new web-based AI tools that can generate native Android apps in minutes, as the company expands its push into AI-powered software development.",
       "source": "TechCrunch",
       "published": "2026-05-19T17:45:00+00:00",
-      "link": "https://techcrunch.com/2026/05/19/googles-new-universal-cart-wants-to-follow-you-across-the-entire-internet/"
+      "link": "https://techcrunch.com/2026/05/19/googles-ai-studio-now-lets-anyone-build-android-apps-in-minutes/"
+    },
+    {
+      "title": "Google’s new Universal Cart wants to follow your entire shopping journey across the internet",
+      "summary": "Most people shop across multiple devices, many retailers, and over the course of many days, which is why Google is launching Universal Cart.",
+      "source": "TechCrunch",
+      "published": "2026-05-19T17:45:00+00:00",
+      "link": "https://techcrunch.com/2026/05/19/googles-new-universal-cart-wants-to-follow-your-entire-shopping-journey-across-the-internet/"
+    },
+    {
+      "title": "Google launches Antigravity 2.0 with an updated desktop app and CLI tool at IO 2026",
+      "summary": "Google is debuting a new AI Ultra plan priced at $100, which will give users 5x more usage limit than the AI Pro plan alongside the Antigravity 2.0 launch.",
+      "source": "TechCrunch",
+      "published": "2026-05-19T17:45:00+00:00",
+      "link": "https://techcrunch.com/2026/05/19/google-launches-antigravity-2-0-with-an-updated-desktop-app-and-cli-tool-at-io-2026/"
+    },
+    {
+      "title": "Google introduces Gemini Spark, a 24/7 agentic assistant with Gmail integration, at IO 2026",
+      "summary": "At the Google I/O developer conference, the company announced a new agentic personal assistant called Gemini Spark, built from Gemini's base models and an agentic harness from Google Antigravity.",
+      "source": "TechCrunch",
+      "published": "2026-05-19T17:45:00+00:00",
+      "link": "https://techcrunch.com/2026/05/19/google-introduces-gemini-spark-a-24-7-agentic-assistant-with-gmail-integration/"
     },
     {
       "title": "Google adds voice-based prompting to Docs and Keep",
@@ -121,32 +212,18 @@ const FEED_DATA = {
       "link": "https://techcrunch.com/2026/05/19/google-adds-voice-based-prompting-to-docs-and-keep/"
     },
     {
-      "title": "Google introduces Gemini Spark, a 24/7 agentic assistant with Gmail integration",
-      "summary": "At the Google I/O developer conference, the company announced a new agentic personal assistant called Gemini Spark, built from Gemini's base models and an agentic harness from Google Antigravity.",
+      "title": "Google’s Gemini Omni turns images, audio, and text into video — and that’s just the start",
+      "summary": "Google's Gemini Omni is a new multimodal model that reasons across text, images, audio, and video to generate and edit videos through simple conversation — starting with Omni Flash.",
       "source": "TechCrunch",
       "published": "2026-05-19T17:45:00+00:00",
-      "link": "https://techcrunch.com/2026/05/19/google-introduces-gemini-spark-a-24-7-agentic-assistant-with-gmail-integration/"
+      "link": "https://techcrunch.com/2026/05/19/googles-gemini-omni-turns-images-audio-and-text-into-video-and-thats-just-the-start/"
     },
     {
-      "title": "Google just declared itself a contender in AI design",
-      "summary": "The tech giant says it's designed the app to be accessible to everyone, from teachers to small business owners.",
-      "source": "TechCrunch",
-      "published": "2026-05-19T17:45:00+00:00",
-      "link": "https://techcrunch.com/2026/05/19/ai-design-tools-are-the-next-big-battleground-and-google-is-going-all-in/"
-    },
-    {
-      "title": "Google updates its Gemini app to take on ChatGPT and Claude",
+      "title": "Google updates its Gemini app to take on ChatGPT and Claude at IO 2026",
       "summary": "The updates signal Google’s push to turn its Gemini app into an all-purpose AI hub rather than a stand-alone chatbot.",
       "source": "TechCrunch",
       "published": "2026-05-19T17:45:00+00:00",
-      "link": "https://techcrunch.com/2026/05/19/google-updates-its-gemini-app-to-take-on-chatgpt-and-claude/"
-    },
-    {
-      "title": "Agentic app coding gets an upgrade with Google’s release of Android CLI",
-      "summary": "Google is embracing the rise of AI coding agents with new Android tools designed to work with platforms like Claude Code and OpenAI’s Codex, allowing developers — or their AI assistants — to build Android apps faster from the command line.",
-      "source": "TechCrunch",
-      "published": "2026-05-19T17:45:00+00:00",
-      "link": "https://techcrunch.com/2026/05/19/agentic-app-coding-gets-an-upgrade-with-googles-release-of-android-cli/"
+      "link": "https://techcrunch.com/2026/05/19/google-updates-its-gemini-app-to-take-on-chatgpt-and-claude-at-io-2026/"
     },
     {
       "title": "Google can now vibe-code you an Android app",
@@ -184,18 +261,11 @@ const FEED_DATA = {
       "link": "https://www.theverge.com/tech/932996/google-gemini-spark-antigravity-io-2026"
     },
     {
-      "title": "Google Pics is a new app that tries to fix AI image editing",
-      "summary": "Google is launching a new AI image generation app to Workspace that it's calling Pics, and it has a new feature to try and reduce the hassle of iterating on AI images: Instead of having to write an entire prompt just to change one small aspect of an image, you'll be able to...",
-      "source": "The Verge",
+      "title": "Google Makes It Easy to Deepfake Yourself",
+      "summary": "Google’s overhaul of its AI creation software, Flow, includes a new video model and a tool for generating selfie videos called avatars.",
+      "source": "Wired",
       "published": "2026-05-19T17:45:00+00:00",
-      "link": "https://www.theverge.com/tech/933026/google-pics-app-workspace-ai-images-io-2026"
-    },
-    {
-      "title": "Google is trying to make deepfake detection more accessible for everyone",
-      "summary": "Google is expanding AI detection capabilities to Chrome and Search, with the aim of making it easier for people to identify deepfakes.",
-      "source": "The Verge",
-      "published": "2026-05-19T17:45:00+00:00",
-      "link": "https://www.theverge.com/tech/933424/google-synthid-c2pa-content-credentials-expansion"
+      "link": "https://www.wired.com/story/google-makes-it-easy-to-make-a-deepfake-of-yourself/"
     },
     {
       "title": "Demis Hassabis Thinks AI Job Cuts Are Dumb",
@@ -212,18 +282,53 @@ const FEED_DATA = {
       "link": "https://www.wired.com/story/google-search-goes-agentic-and-doesnt-need-you-anymore/"
     },
     {
-      "title": "Google Makes It Easy to Deepfake Yourself",
-      "summary": "Google’s overhaul of its AI creation software, Flow, includes a new video model and a tool for generating selfie videos called avatars.",
-      "source": "Wired",
-      "published": "2026-05-19T17:45:00+00:00",
-      "link": "https://www.wired.com/story/google-makes-it-easy-to-make-a-deepfake-of-yourself/"
-    },
-    {
       "title": "Gemini Spark Is Google’s Response to OpenClaw’s 24/7 AI Agent",
       "summary": "Google’s always-running, data-hungry AI agent is designed to spend your money and send your emails.",
       "source": "Wired",
       "published": "2026-05-19T17:45:00+00:00",
       "link": "https://www.wired.com/story/googles-response-to-openclaws-24-7-ai-agent/"
+    },
+    {
+      "title": "Google’s AI now lets you talk to your Gmail inbox",
+      "summary": "Google expands Gmail’s AI Inbox with conversational voice search, letting users ask Gemini to find buried email details.",
+      "source": "TechCrunch",
+      "published": "2026-05-19T17:45:00+00:00",
+      "link": "https://techcrunch.com/2026/05/19/googles-ai-now-lets-you-talk-to-your-gmail-inbox/"
+    },
+    {
+      "title": "Google’s new Universal Cart wants to follow you across the entire internet",
+      "summary": "The tech giant says it's aware that most people shop across multiple devices, many retailers, and over the course of many days, which is why it's launching Universal Cart.",
+      "source": "TechCrunch",
+      "published": "2026-05-19T17:45:00+00:00",
+      "link": "https://techcrunch.com/2026/05/19/googles-new-universal-cart-wants-to-follow-you-across-the-entire-internet/"
+    },
+    {
+      "title": "Google just declared itself a contender in AI design",
+      "summary": "The tech giant says it's designed the app to be accessible to everyone, from teachers to small business owners.",
+      "source": "TechCrunch",
+      "published": "2026-05-19T17:45:00+00:00",
+      "link": "https://techcrunch.com/2026/05/19/ai-design-tools-are-the-next-big-battleground-and-google-is-going-all-in/"
+    },
+    {
+      "title": "Google updates its Gemini app to take on ChatGPT and Claude",
+      "summary": "The updates signal Google’s push to turn its Gemini app into an all-purpose AI hub rather than a stand-alone chatbot.",
+      "source": "TechCrunch",
+      "published": "2026-05-19T17:45:00+00:00",
+      "link": "https://techcrunch.com/2026/05/19/google-updates-its-gemini-app-to-take-on-chatgpt-and-claude/"
+    },
+    {
+      "title": "Google Pics is a new app that tries to fix AI image editing",
+      "summary": "Google is launching a new AI image generation app to Workspace that it's calling Pics, and it has a new feature to try and reduce the hassle of iterating on AI images: Instead of having to write an entire prompt just to change one small aspect of an image, you'll be able to...",
+      "source": "The Verge",
+      "published": "2026-05-19T17:45:00+00:00",
+      "link": "https://www.theverge.com/tech/933026/google-pics-app-workspace-ai-images-io-2026"
+    },
+    {
+      "title": "Google is trying to make deepfake detection more accessible for everyone",
+      "summary": "Google is expanding AI detection capabilities to Chrome and Search, with the aim of making it easier for people to identify deepfakes.",
+      "source": "The Verge",
+      "published": "2026-05-19T17:45:00+00:00",
+      "link": "https://www.theverge.com/tech/933424/google-synthid-c2pa-content-credentials-expansion"
     },
     {
       "title": "Google's I/O announcements: new models, a cloud agent that never sleeps, and a redesigned Gemini app",
@@ -234,14 +339,14 @@ const FEED_DATA = {
     },
     {
       "title": "Graduates are booing pep talks on AI at college commencements",
-      "summary": "Article URL: https://apnews.com/article/ai-college-commencement-anxiety-boo-35aec9bac660eaeb05c5b8d392db2cac Comments URL: https://news.ycombinator.com/item?id=48196546 Points: 87 # Comments: 113",
+      "summary": "Article URL: https://apnews.com/article/ai-college-commencement-anxiety-boo-35aec9bac660eaeb05c5b8d392db2cac Comments URL: https://news.ycombinator.com/item?id=48196546 Points: 107 # Comments: 154",
       "source": "Hacker News",
       "published": "2026-05-19T17:42:11+00:00",
       "link": "https://apnews.com/article/ai-college-commencement-anxiety-boo-35aec9bac660eaeb05c5b8d392db2cac"
     },
     {
       "title": "AI is too expensive",
-      "summary": "Article URL: https://www.wheresyoured.at/ai-is-too-expensive/ Comments URL: https://news.ycombinator.com/item?id=48195100 Points: 114 # Comments: 118",
+      "summary": "Article URL: https://www.wheresyoured.at/ai-is-too-expensive/ Comments URL: https://news.ycombinator.com/item?id=48195100 Points: 126 # Comments: 137",
       "source": "Hacker News",
       "published": "2026-05-19T15:59:03+00:00",
       "link": "https://www.wheresyoured.at/ai-is-too-expensive/"
@@ -332,7 +437,7 @@ const FEED_DATA = {
     },
     {
       "title": "The American Rebellion Against AI Is Gaining Steam",
-      "summary": "Article URL: https://www.wsj.com/tech/ai/the-american-rebellion-against-ai-is-gaining-steam-94b72529 Comments URL: https://news.ycombinator.com/item?id=48188310 Points: 119 # Comments: 121",
+      "summary": "Article URL: https://www.wsj.com/tech/ai/the-american-rebellion-against-ai-is-gaining-steam-94b72529 Comments URL: https://news.ycombinator.com/item?id=48188310 Points: 122 # Comments: 121",
       "source": "Hacker News",
       "published": "2026-05-19T01:51:48+00:00",
       "link": "https://www.wsj.com/tech/ai/the-american-rebellion-against-ai-is-gaining-steam-94b72529"
@@ -353,7 +458,7 @@ const FEED_DATA = {
     },
     {
       "title": "What political censorship looks like inside an LLM's weights (Qwen 3.5)",
-      "summary": "Article URL: https://vas-blog.pages.dev/qwen-censorship/ Comments URL: https://news.ycombinator.com/item?id=48187680 Points: 80 # Comments: 41",
+      "summary": "Article URL: https://vas-blog.pages.dev/qwen-censorship/ Comments URL: https://news.ycombinator.com/item?id=48187680 Points: 80 # Comments: 42",
       "source": "Hacker News",
       "published": "2026-05-19T00:16:31+00:00",
       "link": "https://vas-blog.pages.dev/qwen-censorship/"
@@ -367,7 +472,7 @@ const FEED_DATA = {
     },
     {
       "title": "Alignment pretraining: AI discourse creates self-fulfilling (mis)alignment",
-      "summary": "Article URL: https://arxiv.org/abs/2601.10160 Comments URL: https://news.ycombinator.com/item?id=48185938 Points: 73 # Comments: 29",
+      "summary": "Article URL: https://arxiv.org/abs/2601.10160 Comments URL: https://news.ycombinator.com/item?id=48185938 Points: 74 # Comments: 29",
       "source": "Hacker News",
       "published": "2026-05-18T21:29:13+00:00",
       "link": "https://arxiv.org/abs/2601.10160"
@@ -465,7 +570,7 @@ const FEED_DATA = {
     },
     {
       "title": "We stopped AI bot spam in our GitHub repo using Git's –author flag",
-      "summary": "Article URL: https://archestra.ai/blog/only-responsible-ai Comments URL: https://news.ycombinator.com/item?id=48181125 Points: 486 # Comments: 234",
+      "summary": "Article URL: https://archestra.ai/blog/only-responsible-ai Comments URL: https://news.ycombinator.com/item?id=48181125 Points: 487 # Comments: 234",
       "source": "Hacker News",
       "published": "2026-05-18T15:24:19+00:00",
       "link": "https://archestra.ai/blog/only-responsible-ai"
@@ -493,14 +598,14 @@ const FEED_DATA = {
     },
     {
       "title": "Enough with the AI FOMO, go slow-mo, says Domo CDO",
-      "summary": "Article URL: https://www.theregister.com/ai-ml/2026/05/17/enough-with-the-ai-fomo-go-slow-mo-says-domo-cdo/5240840 Comments URL: https://news.ycombinator.com/item?id=48179029 Points: 153 # Comments: 84",
+      "summary": "Article URL: https://www.theregister.com/ai-ml/2026/05/17/enough-with-the-ai-fomo-go-slow-mo-says-domo-cdo/5240840 Comments URL: https://news.ycombinator.com/item?id=48179029 Points: 153 # Comments: 85",
       "source": "Hacker News",
       "published": "2026-05-18T12:49:54+00:00",
       "link": "https://www.theregister.com/ai-ml/2026/05/17/enough-with-the-ai-fomo-go-slow-mo-says-domo-cdo/5240840"
     },
     {
       "title": "AI eats the world (Spring 26) [pdf]",
-      "summary": "Article URL: https://static1.squarespace.com/static/50363cf324ac8e905e7df861/t/6a0af5d0484fbf5fe9a7743e/1779103184855/2026-Spring-AI.pdf Comments URL: https://news.ycombinator.com/item?id=48179021 Points: 284 # Comments: 152",
+      "summary": "Article URL: https://static1.squarespace.com/static/50363cf324ac8e905e7df861/t/6a0af5d0484fbf5fe9a7743e/1779103184855/2026-Spring-AI.pdf Comments URL: https://news.ycombinator.com/item?id=48179021 Points: 292 # Comments: 154",
       "source": "Hacker News",
       "published": "2026-05-18T12:49:28+00:00",
       "link": "https://static1.squarespace.com/static/50363cf324ac8e905e7df861/t/6a0af5d0484fbf5fe9a7743e/1779103184855/2026-Spring-AI.pdf"
@@ -528,7 +633,7 @@ const FEED_DATA = {
     },
     {
       "title": "Voice AI Systems Are Vulnerable to Hidden Audio Attacks",
-      "summary": "Article URL: https://spectrum.ieee.org/voice-ai-audio-attacks Comments URL: https://news.ycombinator.com/item?id=48178378 Points: 134 # Comments: 31",
+      "summary": "Article URL: https://spectrum.ieee.org/voice-ai-audio-attacks Comments URL: https://news.ycombinator.com/item?id=48178378 Points: 135 # Comments: 31",
       "source": "Hacker News",
       "published": "2026-05-18T11:51:05+00:00",
       "link": "https://spectrum.ieee.org/voice-ai-audio-attacks"
@@ -542,7 +647,7 @@ const FEED_DATA = {
     },
     {
       "title": "Eric Schmidt speech about AI booed during graduation",
-      "summary": "Article URL: https://www.nbcnews.com/tech/tech-news/former-google-ceo-booed-graduation-speech-ai-rcna345585 Comments URL: https://news.ycombinator.com/item?id=48177785 Points: 362 # Comments: 385",
+      "summary": "Article URL: https://www.nbcnews.com/tech/tech-news/former-google-ceo-booed-graduation-speech-ai-rcna345585 Comments URL: https://news.ycombinator.com/item?id=48177785 Points: 364 # Comments: 385",
       "source": "Hacker News",
       "published": "2026-05-18T10:50:25+00:00",
       "link": "https://www.nbcnews.com/tech/tech-news/former-google-ceo-booed-graduation-speech-ai-rcna345585"
@@ -563,7 +668,7 @@ const FEED_DATA = {
     },
     {
       "title": "Multiple commencement speakers booed for AI comments during graduation speeches",
-      "summary": "Article URL: https://www.nbcnews.com/video/multiple-commencement-speakers-booed-for-ai-comments-during-graduation-speeches-263486021518 Comments URL: https://news.ycombinator.com/item?id=48177107 Points: 159 # Comments: 167",
+      "summary": "Article URL: https://www.nbcnews.com/video/multiple-commencement-speakers-booed-for-ai-comments-during-graduation-speeches-263486021518 Comments URL: https://news.ycombinator.com/item?id=48177107 Points: 160 # Comments: 167",
       "source": "Hacker News",
       "published": "2026-05-18T09:12:10+00:00",
       "link": "https://www.nbcnews.com/video/multiple-commencement-speakers-booed-for-ai-comments-during-graduation-speeches-263486021518"
@@ -584,14 +689,14 @@ const FEED_DATA = {
     },
     {
       "title": "The History of ThinkPad: From IBM’s Bento Box to Lenovo’s AI Workstations",
-      "summary": "Article URL: https://www.jdhodges.com/blog/thinkpad-history/ Comments URL: https://news.ycombinator.com/item?id=48173547 Points: 111 # Comments: 56",
+      "summary": "Article URL: https://www.jdhodges.com/blog/thinkpad-history/ Comments URL: https://news.ycombinator.com/item?id=48173547 Points: 111 # Comments: 57",
       "source": "Hacker News",
       "published": "2026-05-17T21:56:40+00:00",
       "link": "https://www.jdhodges.com/blog/thinkpad-history/"
     },
     {
       "title": "An AI Hate Wave Is Here",
-      "summary": "Article URL: https://www.axios.com/2026/05/17/ai-backlash-polling-sentiment Comments URL: https://news.ycombinator.com/item?id=48173318 Points: 104 # Comments: 127",
+      "summary": "Article URL: https://www.axios.com/2026/05/17/ai-backlash-polling-sentiment Comments URL: https://news.ycombinator.com/item?id=48173318 Points: 105 # Comments: 127",
       "source": "Hacker News",
       "published": "2026-05-17T21:23:25+00:00",
       "link": "https://www.axios.com/2026/05/17/ai-backlash-polling-sentiment"
@@ -1295,111 +1400,6 @@ const FEED_DATA = {
       "source": "The Verge",
       "published": "2026-05-14T15:24:53+00:00",
       "link": "https://www.theverge.com/ai-artificial-intelligence/930477/ai-data-centers-gallup-survey-70-percent-opposition"
-    },
-    {
-      "title": "Khosla Ventures is betting $10M on Ian Crosby, whose first startup, Bench, imploded",
-      "summary": "Crosby is building Synthetic, a fully autonomous AI bookkeeping service for other startups.",
-      "source": "TechCrunch",
-      "published": "2026-05-14T15:20:18+00:00",
-      "link": "https://techcrunch.com/2026/05/14/khosla-ventures-is-betting-10m-on-ian-crosby-whose-last-startup-bench-imploded/"
-    },
-    {
-      "title": "Khosla Ventures is betting $10M on Ian Crosby, whose last startup, Bench, imploded",
-      "summary": "Crosby is building Synthetic, a fully autonomous AI bookkeeping service for other startups.",
-      "source": "TechCrunch",
-      "published": "2026-05-14T15:20:18+00:00",
-      "link": "https://techcrunch.com/2026/05/14/khosla-ventures-is-betting-10m-on-ian-crosby-whose-last-startup-bench-imploded/"
-    },
-    {
-      "title": "Ten Chinese firms including ByteDance reportedly get US clearance for AI chips they're not allowed to accept",
-      "summary": "The US has cleared roughly ten Chinese companies—including Alibaba, Tencent, and ByteDance—to buy up to 75,000 Nvidia H200 chips each. But not a single chip has shipped.",
-      "source": "The Decoder",
-      "published": "2026-05-14T14:55:18+00:00",
-      "link": "https://the-decoder.com/ten-chinese-firms-including-bytedance-reportedly-get-us-clearance-for-ai-chips-theyre-not-allowed-to-accept/"
-    },
-    {
-      "title": "Claude AI recovers an 11 yrs old BTC wallet holding 400k USD",
-      "summary": "Article URL: https://www.tomshardware.com/tech-industry/cryptocurrency/bitcoin-trader-recovers-usd400-000-using-claude-ai-after-losing-wallet-password-11-years-ago-bot-tried-3-5-trillion-passwords-before-decrypting-an-old-wallet-backup Comments URL:...",
-      "source": "Hacker News",
-      "published": "2026-05-14T14:49:48+00:00",
-      "link": "https://www.tomshardware.com/tech-industry/cryptocurrency/bitcoin-trader-recovers-usd400-000-using-claude-ai-after-losing-wallet-password-11-years-ago-bot-tried-3-5-trillion-passwords-before-decrypting-an-old-wallet-backup"
-    },
-    {
-      "title": "Cisco cuts nearly 4,000 jobs to spend more on AI, reports ‘record quarterly revenue’",
-      "summary": "This is Cisco's latest layoff in recent years, while the company's chief executive touts record revenue and growth.",
-      "source": "TechCrunch",
-      "published": "2026-05-14T14:01:14+00:00",
-      "link": "https://techcrunch.com/2026/05/14/cisco-cuts-nearly-4000-jobs-to-spend-more-on-ai-reports-record-quarterly-revenue/"
-    },
-    {
-      "title": "Wirestock raises $23M to supply creative multimodal data to AI labs",
-      "summary": "The company pivoted to being a data provider in 2023 and now supplies datasets of images, videos, design assets, and gaming and 3D content to AI labs.",
-      "source": "TechCrunch",
-      "published": "2026-05-14T14:00:00+00:00",
-      "link": "https://techcrunch.com/2026/05/14/wirestock-raises-23m-to-supply-multi-modal-data-to-ai-labs/"
-    },
-    {
-      "title": "Alibaba's Qwen-Image-2.0 doubles compression and cuts generation steps from 40 to 4",
-      "summary": "Alibaba's technical report on Qwen-Image-2.0 breaks down how the image model compresses images twice as aggressively as most competitors, stabilizes training with a reworked transformer, and uses a dedicated module that automatically expands short user input into detailed...",
-      "source": "The Decoder",
-      "published": "2026-05-14T13:17:44+00:00",
-      "link": "https://the-decoder.com/alibabas-qwen-image-2-0-doubles-compression-and-cuts-generation-steps-from-40-to-4/"
-    },
-    {
-      "title": "Data readiness for agentic AI in financial services",
-      "summary": "Financial services companies have unique needs when it comes to business AI. They operate in one of the most highly regulated sectors while responding to external events that are updated by the second.",
-      "source": "MIT Tech Review",
-      "published": "2026-05-14T13:00:00+00:00",
-      "link": "https://www.technologyreview.com/2026/05/14/1137034/data-readiness-for-agentic-ai-in-financial-services/"
-    },
-    {
-      "title": "Establishing AI and data sovereignty in the age of autonomous systems",
-      "summary": "When generative AI first moved from research labs into real-world business applications, enterprises made a tacit bargain: “Capability now, control later.” Feed your proprietary data into third-party AI models, and you will get powerful results.",
-      "source": "MIT Tech Review",
-      "published": "2026-05-14T13:00:00+00:00",
-      "link": "https://www.technologyreview.com/2026/05/14/1137168/establishing-ai-and-data-sovereignty-in-the-age-of-autonomous-systems/"
-    },
-    {
-      "title": "AI Promised the Audemars Piguet x Swatch Wristwatch. China Will Deliver It",
-      "summary": "Watch fans spent a week falling in love with colorful Royal Oak wristwatches that didn’t exist—then the real thing arrived. Now, fantasy is becoming a manufacturing opportunity.",
-      "source": "Wired",
-      "published": "2026-05-14T12:52:28+00:00",
-      "link": "https://www.wired.com/story/ai-ruined-the-audemars-piguet-x-swatch-collaboration-china-could-save-it/"
-    },
-    {
-      "title": "What happens when you post a real Monet and say it's AI?",
-      "summary": "Article URL: https://twitter.com/jediwolf/status/2054776716770320631 Comments URL: https://news.ycombinator.com/item?id=48134400 Points: 83 # Comments: 74",
-      "source": "Hacker News",
-      "published": "2026-05-14T12:23:27+00:00",
-      "link": "https://twitter.com/jediwolf/status/2054776716770320631"
-    },
-    {
-      "title": "The Download: deepfake porn’s stolen bodies and AI sharing private numbers",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.",
-      "source": "MIT Tech Review",
-      "published": "2026-05-14T12:10:00+00:00",
-      "link": "https://www.technologyreview.com/2026/05/14/1137257/the-download-deepfake-porn-bodies-ai-exposing-phone-numbers/"
-    },
-    {
-      "title": "ChatGPT's web traffic share dropped from 78% to 54% in one year as Gemini quietly tripled its reach",
-      "summary": "ChatGPT's website traffic share dropped from 77.6% to 53.7% in just twelve months, according to Similarweb. Google Gemini is the biggest winner, jumping from 7.3% to 26.7%.",
-      "source": "The Decoder",
-      "published": "2026-05-14T12:07:25+00:00",
-      "link": "https://the-decoder.com/chatgpts-web-traffic-share-dropped-from-78-to-54-in-one-year-as-gemini-quietly-tripled-its-reach/"
-    },
-    {
-      "title": "New Claude Mythos becomes the first AI model to clear all cyberattack simulations from Britain's AI safety agency",
-      "summary": "The UK's AI Security Institute has revised its estimate of how fast AI cyber capabilities are doubling—twice. First from eight months down to 4.7, and now Anthropic's Claude Mythos Preview and OpenAI's GPT-5.5 have blown past even that accelerated timeline.",
-      "source": "The Decoder",
-      "published": "2026-05-14T11:28:35+00:00",
-      "link": "https://the-decoder.com/new-claude-mythos-becomes-the-first-ai-model-to-clear-all-cyberattack-simulations-from-britains-ai-safety-agency/"
-    },
-    {
-      "title": "Physical AI moves closer to factory floors as companies test humanoid robots",
-      "summary": "British technology company Humanoid will deploy humanoid robots at factories operated by German industrial supplier Schaeffler, Reuters reported.",
-      "source": "AI News",
-      "published": "2026-05-14T10:00:00+00:00",
-      "link": "https://www.artificialintelligence-news.com/news/physical-ai-humanoid-robots-factories/"
     }
   ]
 };
