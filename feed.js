@@ -1,6 +1,90 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-05-20T11:39:41.806676+00:00",
+  "lastUpdated": "2026-05-20T16:27:17.557688+00:00",
   "items": [
+    {
+      "title": "Google Search’s AI evolution includes more ads",
+      "summary": "Google's AI-powered Search era apparently also extends to its ads. Now, when you search for a product, Google's Gemini AI chatbot will surface relevant items and generate a \"custom explainer\" about why you should purchase a specific one.",
+      "source": "The Verge",
+      "published": "2026-05-20T16:00:00+00:00",
+      "link": "https://www.theverge.com/tech/934585/google-ai-shopping-ads-search"
+    },
+    {
+      "title": "Google tests the app market version of the SaaSpocalypse",
+      "summary": "Google AI Studio can now generate native Android apps from a prompt - built in Kotlin with Jetpack Compose and testable in a browser emulator. For simple utility apps like trackers or checklists, the Play Store could become less and less relevant.",
+      "source": "The Decoder",
+      "published": "2026-05-20T15:27:50+00:00",
+      "link": "https://the-decoder.com/google-tests-the-app-version-of-the-saaspocalypse/"
+    },
+    {
+      "title": "AI search startups are blowing up",
+      "summary": "AI search has quietly become one of the most attractive targets in consumer AI.",
+      "source": "TechCrunch",
+      "published": "2026-05-20T15:04:45+00:00",
+      "link": "https://techcrunch.com/2026/05/20/ai-search-startups-are-blowing-up/"
+    },
+    {
+      "title": "Stability AI releases a new audio model that can create six-minute songs",
+      "summary": "Stability Audio 3.0 small model can run on-device and generate two-minute long tracks",
+      "source": "TechCrunch",
+      "published": "2026-05-20T15:00:00+00:00",
+      "link": "https://techcrunch.com/2026/05/20/stability-ai-release-a-new-audio-model-that-can-create-six-minute-songs/"
+    },
+    {
+      "title": "Stability AI launches Stable Audio 3.0 with up to six-minute tracks and open weights",
+      "summary": "Stability AI has unveiled Stable Audio 3.0, a new generation of audio models - three of which ship with open weights. The models generate music tracks up to six minutes long and were trained entirely on licensed data, according to the company.",
+      "source": "The Decoder",
+      "published": "2026-05-20T14:59:05+00:00",
+      "link": "https://the-decoder.com/stability-ai-launches-stable-audio-3-0-with-up-to-six-minute-tracks-and-open-weights/"
+    },
+    {
+      "title": "It’s make or break time for AI labeling systems",
+      "summary": "We're about to find out if the systems designed to make deepfakes and AI-generated content easy to spot are actually up to snuff.",
+      "source": "The Verge",
+      "published": "2026-05-20T14:12:54+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/934521/google-synthid-c2pa-content-credentials-ai-labelling-efforts"
+    },
+    {
+      "title": "NanoClaw creator turns down $20M buyout offer, raises $12M seed instead",
+      "summary": "NanoCo, the company behind OpenClaw alternative NanoClaw, has raised a $12 million seed after a viral launch, the founders tell TechCrunch.",
+      "source": "TechCrunch",
+      "published": "2026-05-20T14:00:00+00:00",
+      "link": "https://techcrunch.com/2026/05/20/nanoclaw-creator-turns-down-20m-buyout-offer-raises-12m-seed-instead/"
+    },
+    {
+      "title": "If Google can’t make AI agents useful, maybe no one can",
+      "summary": "For years, tech companies have promised AI will give everyone a capable personal assistant but delivered something more like a clueless intern. Over the past six months, that has started to change, thanks largely to the viral open-source AI agent platform OpenClaw.",
+      "source": "The Verge",
+      "published": "2026-05-20T13:24:22+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/934478/if-google-cant-make-ai-agents-useful-maybe-no-one-can"
+    },
+    {
+      "title": "Figma adds an AI assistant to its collaborative canvas",
+      "summary": "Figma's new AI assistant will be first available on Figma Design",
+      "source": "TechCrunch",
+      "published": "2026-05-20T13:00:00+00:00",
+      "link": "https://techcrunch.com/2026/05/20/figma-adds-an-ai-assistant-to-its-collaborative-canvas/"
+    },
+    {
+      "title": "Green steel startup Boston Metal is doubling down on critical metals",
+      "summary": "The startup Boston Metal has raised a $75 million funding round to produce critical metals, MIT Technology Review can exclusively report.",
+      "source": "MIT Tech Review",
+      "published": "2026-05-20T13:00:00+00:00",
+      "link": "https://www.technologyreview.com/2026/05/20/1137523/boston-metal-funding-critical-metals/"
+    },
+    {
+      "title": "The Download: fully artificial chicken eggs and why Musk lost",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.",
+      "source": "MIT Tech Review",
+      "published": "2026-05-20T12:10:00+00:00",
+      "link": "https://www.technologyreview.com/2026/05/20/1137579/the-download-colossal-biosciences-egg-musk-altman-trial/"
+    },
+    {
+      "title": "College students drown out AI-praising commencement speeches with boos",
+      "summary": "Article URL: https://www.tomshardware.com/tech-industry/artificial-intelligence/college-students-drown-out-ai-praising-commencement-speeches-with-boos-deal-with-it-one-speaker-fires-back-as-students-heckle-positive-pitches-for-ais-role Comments URL:...",
+      "source": "Hacker News",
+      "published": "2026-05-20T11:51:32+00:00",
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/college-students-drown-out-ai-praising-commencement-speeches-with-boos-deal-with-it-one-speaker-fires-back-as-students-heckle-positive-pitches-for-ais-role"
+    },
     {
       "title": "Google pairs its Genie world model with Street View to create explorable AI worlds based on real places",
       "summary": "Google Deepmind connects its Genie 3 world model to Street View imagery: users drop a pin on a map and get a walkable, AI-generated world based on a real place.",
@@ -9,11 +93,25 @@ const FEED_DATA = {
       "link": "https://the-decoder.com/google-pairs-its-genie-world-model-with-street-view-to-create-explorable-ai-worlds-based-on-real-places/"
     },
     {
+      "title": "Google's AI is being manipulated. The search giant is quietly fighting back",
+      "summary": "Article URL: https://www.bbc.com/future/article/20260519-google-tackles-attempts-to-hack-its-ai-results Comments URL: https://news.ycombinator.com/item?id=48205782 Points: 108 # Comments: 61",
+      "source": "Hacker News",
+      "published": "2026-05-20T10:57:09+00:00",
+      "link": "https://www.bbc.com/future/article/20260519-google-tackles-attempts-to-hack-its-ai-results"
+    },
+    {
       "title": "Google's Gemini 3.5 Flash follows Anthropic and OpenAI in making newer AI models significantly pricier",
       "summary": "Google's Gemini 3.5 Flash is a big step up from its predecessor, but in benchmark testing, it costs 5.5 times as much to run. On agent tasks, total costs even exceed the pricier Gemini 3.1 Pro by 75 percent because the model needs more interaction steps than any rival tested.",
       "source": "The Decoder",
       "published": "2026-05-20T10:40:51+00:00",
       "link": "https://the-decoder.com/googles-gemini-3-5-flash-follows-anthropic-and-openai-in-making-newer-ai-models-significantly-pricier/"
+    },
+    {
+      "title": "Learnings from 100K lines of Rust with AI (2025)",
+      "summary": "Article URL: https://zfhuang99.github.io/rust/claude%20code/codex/contracts/spec-driven%20development/2025/12/01/rust-with-ai.html Comments URL: https://news.ycombinator.com/item?id=48205415 Points: 107 # Comments: 106",
+      "source": "Hacker News",
+      "published": "2026-05-20T10:04:28+00:00",
+      "link": "https://zfhuang99.github.io/rust/claude%20code/codex/contracts/spec-driven%20development/2025/12/01/rust-with-ai.html"
     },
     {
       "title": "Alibaba is designing AI chips around agents, and that changes what the race is actually about",
@@ -31,7 +129,7 @@ const FEED_DATA = {
     },
     {
       "title": "Remove-AI-Watermarks – CLI and library for removing AI watermarks from images",
-      "summary": "Article URL: https://github.com/wiltodelta/remove-ai-watermarks Comments URL: https://news.ycombinator.com/item?id=48200569 Points: 302 # Comments: 176",
+      "summary": "Article URL: https://github.com/wiltodelta/remove-ai-watermarks Comments URL: https://news.ycombinator.com/item?id=48200569 Points: 354 # Comments: 220",
       "source": "Hacker News",
       "published": "2026-05-19T22:30:31+00:00",
       "link": "https://github.com/wiltodelta/remove-ai-watermarks"
@@ -101,7 +199,7 @@ const FEED_DATA = {
     },
     {
       "title": "OpenAI Adopts Google's SynthID Watermark for AI Images with Verification Tool",
-      "summary": "Article URL: https://openai.com/index/advancing-content-provenance/ Comments URL: https://news.ycombinator.com/item?id=48198291 Points: 293 # Comments: 157",
+      "summary": "Article URL: https://openai.com/index/advancing-content-provenance/ Comments URL: https://news.ycombinator.com/item?id=48198291 Points: 321 # Comments: 174",
       "source": "Hacker News",
       "published": "2026-05-19T19:34:30+00:00",
       "link": "https://openai.com/index/advancing-content-provenance/"
@@ -129,7 +227,7 @@ const FEED_DATA = {
     },
     {
       "title": "Mistral AI acquires Emmi AI",
-      "summary": "Article URL: https://www.emmi.ai/news/mistral-ai-acquires-emmi-ai Comments URL: https://news.ycombinator.com/item?id=48197995 Points: 269 # Comments: 82",
+      "summary": "Article URL: https://www.emmi.ai/news/mistral-ai-acquires-emmi-ai Comments URL: https://news.ycombinator.com/item?id=48197995 Points: 315 # Comments: 92",
       "source": "Hacker News",
       "published": "2026-05-19T19:14:12+00:00",
       "link": "https://www.emmi.ai/news/mistral-ai-acquires-emmi-ai"
@@ -261,6 +359,34 @@ const FEED_DATA = {
       "link": "https://techcrunch.com/2026/05/19/google-launches-antigravity-2-0-with-an-updated-desktop-app-and-cli-tool-at-io-2026/"
     },
     {
+      "title": "Demis Hassabis Thinks AI Job Cuts Are Dumb",
+      "summary": "The CEO of Google DeepMind tells WIRED that companies should use the productivity gains of AI to do more, not lay people off.",
+      "source": "Wired",
+      "published": "2026-05-19T17:45:00+00:00",
+      "link": "https://www.wired.com/story/demis-hassabis-ai-layoffs-deepmind-google-io/"
+    },
+    {
+      "title": "Google Makes It Easy to Deepfake Yourself",
+      "summary": "Google’s overhaul of its AI creation software, Flow, includes a new video model and a tool for generating selfie videos called avatars.",
+      "source": "Wired",
+      "published": "2026-05-19T17:45:00+00:00",
+      "link": "https://www.wired.com/story/google-makes-it-easy-to-make-a-deepfake-of-yourself/"
+    },
+    {
+      "title": "Google Search Goes Agentic—and Doesn’t Need You Anymore",
+      "summary": "Vibe-coded results! Super widgets!",
+      "source": "Wired",
+      "published": "2026-05-19T17:45:00+00:00",
+      "link": "https://www.wired.com/story/google-search-goes-agentic-and-doesnt-need-you-anymore/"
+    },
+    {
+      "title": "Gemini Spark Is Google’s Response to OpenClaw’s 24/7 AI Agent",
+      "summary": "Google’s always-running, data-hungry AI agent is designed to spend your money and send your emails.",
+      "source": "Wired",
+      "published": "2026-05-19T17:45:00+00:00",
+      "link": "https://www.wired.com/story/googles-response-to-openclaws-24-7-ai-agent/"
+    },
+    {
       "title": "Google introduces Gemini Spark, a 24/7 agentic assistant with Gmail integration, at IO 2026",
       "summary": "At the Google I/O developer conference, the company announced a new agentic personal assistant called Gemini Spark, built from Gemini's base models and an agentic harness from Google Antigravity.",
       "source": "TechCrunch",
@@ -308,34 +434,6 @@ const FEED_DATA = {
       "source": "The Verge",
       "published": "2026-05-19T17:45:00+00:00",
       "link": "https://www.theverge.com/tech/932973/google-gmail-live-ai-keep-docs-io-2026"
-    },
-    {
-      "title": "Demis Hassabis Thinks AI Job Cuts Are Dumb",
-      "summary": "The CEO of Google DeepMind tells WIRED that companies should use the productivity gains of AI to do more, not lay people off.",
-      "source": "Wired",
-      "published": "2026-05-19T17:45:00+00:00",
-      "link": "https://www.wired.com/story/demis-hassabis-ai-layoffs-deepmind-google-io/"
-    },
-    {
-      "title": "Google Makes It Easy to Deepfake Yourself",
-      "summary": "Google’s overhaul of its AI creation software, Flow, includes a new video model and a tool for generating selfie videos called avatars.",
-      "source": "Wired",
-      "published": "2026-05-19T17:45:00+00:00",
-      "link": "https://www.wired.com/story/google-makes-it-easy-to-make-a-deepfake-of-yourself/"
-    },
-    {
-      "title": "Google Search Goes Agentic—and Doesn’t Need You Anymore",
-      "summary": "Vibe-coded results! Super widgets!",
-      "source": "Wired",
-      "published": "2026-05-19T17:45:00+00:00",
-      "link": "https://www.wired.com/story/google-search-goes-agentic-and-doesnt-need-you-anymore/"
-    },
-    {
-      "title": "Gemini Spark Is Google’s Response to OpenClaw’s 24/7 AI Agent",
-      "summary": "Google’s always-running, data-hungry AI agent is designed to spend your money and send your emails.",
-      "source": "Wired",
-      "published": "2026-05-19T17:45:00+00:00",
-      "link": "https://www.wired.com/story/googles-response-to-openclaws-24-7-ai-agent/"
     },
     {
       "title": "Google is launching its own version of OpenClaw",
@@ -395,14 +493,14 @@ const FEED_DATA = {
     },
     {
       "title": "Graduates are booing pep talks on AI at college commencements",
-      "summary": "Article URL: https://apnews.com/article/ai-college-commencement-anxiety-boo-35aec9bac660eaeb05c5b8d392db2cac Comments URL: https://news.ycombinator.com/item?id=48196546 Points: 116 # Comments: 179",
+      "summary": "Article URL: https://apnews.com/article/ai-college-commencement-anxiety-boo-35aec9bac660eaeb05c5b8d392db2cac Comments URL: https://news.ycombinator.com/item?id=48196546 Points: 119 # Comments: 182",
       "source": "Hacker News",
       "published": "2026-05-19T17:42:11+00:00",
       "link": "https://apnews.com/article/ai-college-commencement-anxiety-boo-35aec9bac660eaeb05c5b8d392db2cac"
     },
     {
       "title": "AI is too expensive",
-      "summary": "Article URL: https://www.wheresyoured.at/ai-is-too-expensive/ Comments URL: https://news.ycombinator.com/item?id=48195100 Points: 139 # Comments: 144",
+      "summary": "Article URL: https://www.wheresyoured.at/ai-is-too-expensive/ Comments URL: https://news.ycombinator.com/item?id=48195100 Points: 140 # Comments: 144",
       "source": "Hacker News",
       "published": "2026-05-19T15:59:03+00:00",
       "link": "https://www.wheresyoured.at/ai-is-too-expensive/"
@@ -430,7 +528,7 @@ const FEED_DATA = {
     },
     {
       "title": "Going full AI engineer, not touching code anymore",
-      "summary": "Article URL: https://max.gp/writing/going-full-ai-engineer-not-touching-code-anymore/ Comments URL: https://news.ycombinator.com/item?id=48193524 Points: 55 # Comments: 114",
+      "summary": "Article URL: https://max.gp/writing/going-full-ai-engineer-not-touching-code-anymore/ Comments URL: https://news.ycombinator.com/item?id=48193524 Points: 55 # Comments: 116",
       "source": "Hacker News",
       "published": "2026-05-19T14:08:53+00:00",
       "link": "https://max.gp/writing/going-full-ai-engineer-not-touching-code-anymore/"
@@ -500,7 +598,7 @@ const FEED_DATA = {
     },
     {
       "title": "The American Rebellion Against AI Is Gaining Steam",
-      "summary": "Article URL: https://www.wsj.com/tech/ai/the-american-rebellion-against-ai-is-gaining-steam-94b72529 Comments URL: https://news.ycombinator.com/item?id=48188310 Points: 125 # Comments: 124",
+      "summary": "Article URL: https://www.wsj.com/tech/ai/the-american-rebellion-against-ai-is-gaining-steam-94b72529 Comments URL: https://news.ycombinator.com/item?id=48188310 Points: 126 # Comments: 126",
       "source": "Hacker News",
       "published": "2026-05-19T01:51:48+00:00",
       "link": "https://www.wsj.com/tech/ai/the-american-rebellion-against-ai-is-gaining-steam-94b72529"
@@ -521,7 +619,7 @@ const FEED_DATA = {
     },
     {
       "title": "What political censorship looks like inside an LLM's weights (Qwen 3.5)",
-      "summary": "Article URL: https://vas-blog.pages.dev/qwen-censorship/ Comments URL: https://news.ycombinator.com/item?id=48187680 Points: 81 # Comments: 44",
+      "summary": "Article URL: https://vas-blog.pages.dev/qwen-censorship/ Comments URL: https://news.ycombinator.com/item?id=48187680 Points: 81 # Comments: 45",
       "source": "Hacker News",
       "published": "2026-05-19T00:16:31+00:00",
       "link": "https://vas-blog.pages.dev/qwen-censorship/"
@@ -535,7 +633,7 @@ const FEED_DATA = {
     },
     {
       "title": "Alignment pretraining: AI discourse creates self-fulfilling (mis)alignment",
-      "summary": "Article URL: https://arxiv.org/abs/2601.10160 Comments URL: https://news.ycombinator.com/item?id=48185938 Points: 79 # Comments: 30",
+      "summary": "Article URL: https://arxiv.org/abs/2601.10160 Comments URL: https://news.ycombinator.com/item?id=48185938 Points: 81 # Comments: 30",
       "source": "Hacker News",
       "published": "2026-05-18T21:29:13+00:00",
       "link": "https://arxiv.org/abs/2601.10160"
@@ -633,7 +731,7 @@ const FEED_DATA = {
     },
     {
       "title": "We stopped AI bot spam in our GitHub repo using Git's –author flag",
-      "summary": "Article URL: https://archestra.ai/blog/only-responsible-ai Comments URL: https://news.ycombinator.com/item?id=48181125 Points: 493 # Comments: 234",
+      "summary": "Article URL: https://archestra.ai/blog/only-responsible-ai Comments URL: https://news.ycombinator.com/item?id=48181125 Points: 494 # Comments: 235",
       "source": "Hacker News",
       "published": "2026-05-18T15:24:19+00:00",
       "link": "https://archestra.ai/blog/only-responsible-ai"
@@ -661,14 +759,14 @@ const FEED_DATA = {
     },
     {
       "title": "Enough with the AI FOMO, go slow-mo, says Domo CDO",
-      "summary": "Article URL: https://www.theregister.com/ai-ml/2026/05/17/enough-with-the-ai-fomo-go-slow-mo-says-domo-cdo/5240840 Comments URL: https://news.ycombinator.com/item?id=48179029 Points: 153 # Comments: 85",
+      "summary": "Article URL: https://www.theregister.com/ai-ml/2026/05/17/enough-with-the-ai-fomo-go-slow-mo-says-domo-cdo/5240840 Comments URL: https://news.ycombinator.com/item?id=48179029 Points: 155 # Comments: 85",
       "source": "Hacker News",
       "published": "2026-05-18T12:49:54+00:00",
       "link": "https://www.theregister.com/ai-ml/2026/05/17/enough-with-the-ai-fomo-go-slow-mo-says-domo-cdo/5240840"
     },
     {
       "title": "AI eats the world (Spring 26) [pdf]",
-      "summary": "Article URL: https://static1.squarespace.com/static/50363cf324ac8e905e7df861/t/6a0af5d0484fbf5fe9a7743e/1779103184855/2026-Spring-AI.pdf Comments URL: https://news.ycombinator.com/item?id=48179021 Points: 295 # Comments: 167",
+      "summary": "Article URL: https://static1.squarespace.com/static/50363cf324ac8e905e7df861/t/6a0af5d0484fbf5fe9a7743e/1779103184855/2026-Spring-AI.pdf Comments URL: https://news.ycombinator.com/item?id=48179021 Points: 299 # Comments: 170",
       "source": "Hacker News",
       "published": "2026-05-18T12:49:28+00:00",
       "link": "https://static1.squarespace.com/static/50363cf324ac8e905e7df861/t/6a0af5d0484fbf5fe9a7743e/1779103184855/2026-Spring-AI.pdf"
@@ -696,7 +794,7 @@ const FEED_DATA = {
     },
     {
       "title": "Voice AI Systems Are Vulnerable to Hidden Audio Attacks",
-      "summary": "Article URL: https://spectrum.ieee.org/voice-ai-audio-attacks Comments URL: https://news.ycombinator.com/item?id=48178378 Points: 135 # Comments: 31",
+      "summary": "Article URL: https://spectrum.ieee.org/voice-ai-audio-attacks Comments URL: https://news.ycombinator.com/item?id=48178378 Points: 137 # Comments: 31",
       "source": "Hacker News",
       "published": "2026-05-18T11:51:05+00:00",
       "link": "https://spectrum.ieee.org/voice-ai-audio-attacks"
@@ -710,7 +808,7 @@ const FEED_DATA = {
     },
     {
       "title": "Eric Schmidt speech about AI booed during graduation",
-      "summary": "Article URL: https://www.nbcnews.com/tech/tech-news/former-google-ceo-booed-graduation-speech-ai-rcna345585 Comments URL: https://news.ycombinator.com/item?id=48177785 Points: 367 # Comments: 385",
+      "summary": "Article URL: https://www.nbcnews.com/tech/tech-news/former-google-ceo-booed-graduation-speech-ai-rcna345585 Comments URL: https://news.ycombinator.com/item?id=48177785 Points: 374 # Comments: 392",
       "source": "Hacker News",
       "published": "2026-05-18T10:50:25+00:00",
       "link": "https://www.nbcnews.com/tech/tech-news/former-google-ceo-booed-graduation-speech-ai-rcna345585"
@@ -731,7 +829,7 @@ const FEED_DATA = {
     },
     {
       "title": "Multiple commencement speakers booed for AI comments during graduation speeches",
-      "summary": "Article URL: https://www.nbcnews.com/video/multiple-commencement-speakers-booed-for-ai-comments-during-graduation-speeches-263486021518 Comments URL: https://news.ycombinator.com/item?id=48177107 Points: 163 # Comments: 167",
+      "summary": "Article URL: https://www.nbcnews.com/video/multiple-commencement-speakers-booed-for-ai-comments-during-graduation-speeches-263486021518 Comments URL: https://news.ycombinator.com/item?id=48177107 Points: 165 # Comments: 167",
       "source": "Hacker News",
       "published": "2026-05-18T09:12:10+00:00",
       "link": "https://www.nbcnews.com/video/multiple-commencement-speakers-booed-for-ai-comments-during-graduation-speeches-263486021518"
@@ -1302,104 +1400,6 @@ const FEED_DATA = {
       "source": "Hacker News",
       "published": "2026-05-15T04:48:23+00:00",
       "link": "https://github.com/GlycemicGPT/GlycemicGPT"
-    },
-    {
-      "title": "Access to frontier AI will soon be limited by economic and security constraints",
-      "summary": "Article URL: https://writing.antonleicht.me/p/cut-off Comments URL: https://news.ycombinator.com/item?id=48143284 Points: 225 # Comments: 215",
-      "source": "Hacker News",
-      "published": "2026-05-15T01:08:04+00:00",
-      "link": "https://writing.antonleicht.me/p/cut-off"
-    },
-    {
-      "title": "The Real Losers of the Musk v. Altman Trial",
-      "summary": "A federal jury is now deciding whether Elon Musk will win his lawsuit against OpenAI and Sam Altman—but the trial has made everyone look bad.",
-      "source": "Wired",
-      "published": "2026-05-15T00:49:53+00:00",
-      "link": "https://www.wired.com/story/musk-v-altman-trial-closing-arguments/"
-    },
-    {
-      "title": "LLM Policy for Rust Compiler",
-      "summary": "Article URL: https://github.com/rust-lang/rust-forge/pull/1040 Comments URL: https://news.ycombinator.com/item?id=48142650 Points: 98 # Comments: 83",
-      "source": "Hacker News",
-      "published": "2026-05-14T23:37:21+00:00",
-      "link": "https://github.com/rust-lang/rust-forge/pull/1040"
-    },
-    {
-      "title": "Have a Coherent AI Policy",
-      "summary": "Article URL: https://brianmeeker.me/2026/05/14/have-a-coherent-ai-policy/ Comments URL: https://news.ycombinator.com/item?id=48142553 Points: 70 # Comments: 62",
-      "source": "Hacker News",
-      "published": "2026-05-14T23:24:45+00:00",
-      "link": "https://brianmeeker.me/2026/05/14/have-a-coherent-ai-policy/"
-    },
-    {
-      "title": "Ontario auditors find doctors' AI note takers routinely blow basic facts",
-      "summary": "Article URL: https://www.theregister.com/ai-ml/2026/05/14/ontario-auditors-find-doctors-ai-note-takers-routinely-blow-basic-facts/5240771 Comments URL: https://news.ycombinator.com/item?id=48142188 Points: 311 # Comments: 138",
-      "source": "Hacker News",
-      "published": "2026-05-14T22:37:40+00:00",
-      "link": "https://www.theregister.com/ai-ml/2026/05/14/ontario-auditors-find-doctors-ai-note-takers-routinely-blow-basic-facts/5240771"
-    },
-    {
-      "title": "Elon Musk’s SpaceXAI has been bleeding staff since its merger",
-      "summary": "More than 50 employees have reportedly left Elon Musk’s newly merged SpaceXAI since February, raising questions about burnout, leadership changes, talent poaching, and whether liquidity events weakened retention incentives.",
-      "source": "TechCrunch",
-      "published": "2026-05-14T21:30:44+00:00",
-      "link": "https://techcrunch.com/2026/05/14/elon-musks-spacexai-has-been-bleeding-staff-since-its-merger/"
-    },
-    {
-      "title": "OpenAI says Codex is coming to your phone",
-      "summary": "The update gives users enhanced flexibility over how they can manage their workflows.",
-      "source": "TechCrunch",
-      "published": "2026-05-14T20:58:55+00:00",
-      "link": "https://techcrunch.com/2026/05/14/openai-says-codex-is-coming-to-your-phone/"
-    },
-    {
-      "title": "An Engineer’s Post Protesting Laptop Surveillance Is Going Viral Inside Meta",
-      "summary": "Meta employees in the US and UK are organizing against corporate software that tracks workers’ keystrokes and mouse activity.",
-      "source": "Wired",
-      "published": "2026-05-14T20:27:34+00:00",
-      "link": "https://www.wired.com/story/meta-employee-protest-mouse-tracking-surveillance-ai-training/"
-    },
-    {
-      "title": "OpenAI’s Codex is now in the ChatGPT mobile app",
-      "summary": "OpenAI is going to let users access Codex, its desktop AI tool that can write code and use apps on your computer, from the ChatGPT app on your phone.",
-      "source": "The Verge",
-      "published": "2026-05-14T20:00:00+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/930763/openai-codex-chatgpt-ios-android-app-preview"
-    },
-    {
-      "title": "What happens when AI starts building itself?",
-      "summary": "Richard Socher's new $650 million startup wants to build an AI that can research and improve itself indefinitely — and he insists it will actually ship products.",
-      "source": "TechCrunch",
-      "published": "2026-05-14T19:57:20+00:00",
-      "link": "https://techcrunch.com/2026/05/14/what-happens-when-ai-starts-building-itself/"
-    },
-    {
-      "title": "OpenAI is reportedly preparing legal action against Apple; it wouldn’t be the first partner to feel burned",
-      "summary": "OpenAI is so frustrated with Apple over a ChatGPT integration that failed to deliver the subscribers and prominence it expected that the company is now actively exploring legal action against the iPhone maker.",
-      "source": "TechCrunch",
-      "published": "2026-05-14T19:12:03+00:00",
-      "link": "https://techcrunch.com/2026/05/14/openai-is-reportedly-preparing-legal-action-against-apple-it-wouldnt-be-the-first-partner-to-feel-burned/"
-    },
-    {
-      "title": "Clawdmeter turns your Claude Code usage stats into a tiny desktop dashboard",
-      "summary": "A new open source gadget called Clawdmeter turns Claude Code usage stats into a tiny desktop dashboard for AI coding power users.",
-      "source": "TechCrunch",
-      "published": "2026-05-14T19:05:01+00:00",
-      "link": "https://techcrunch.com/2026/05/14/clawdmeter-turns-your-claude-code-usage-stats-into-a-tiny-desktop-dashboard/"
-    },
-    {
-      "title": "Microsoft starts canceling Claude Code licenses",
-      "summary": "Microsoft first started opening up access to Claude Code in December, inviting thousands of its own developers to use Anthropic's AI coding tool daily.",
-      "source": "The Verge",
-      "published": "2026-05-14T19:00:00+00:00",
-      "link": "https://www.theverge.com/tech/930447/microsoft-claude-code-discontinued-notepad"
-    },
-    {
-      "title": "German intelligence offices snub Palantir software",
-      "summary": "Article URL: https://www.dw.com/en/german-intelligence-offices-snub-us-based-palantir-software/a-77160897 Comments URL: https://news.ycombinator.com/item?id=48139547 Points: 76 # Comments: 29",
-      "source": "Hacker News",
-      "published": "2026-05-14T18:50:02+00:00",
-      "link": "https://www.dw.com/en/german-intelligence-offices-snub-us-based-palantir-software/a-77160897"
     }
   ]
 };
