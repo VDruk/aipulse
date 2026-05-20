@@ -1,6 +1,27 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-05-19T22:09:14.013008+00:00",
+  "lastUpdated": "2026-05-20T05:03:29.360791+00:00",
   "items": [
+    {
+      "title": "Literary Prizewinners Are Facing AI Allegations. It Feels Like the New Normal",
+      "summary": "Three of five regional winners of the prestigious Commonwealth Short Story Prize are suspected of relying on chatbots. They’re certainly not alone.",
+      "source": "Wired",
+      "published": "2026-05-19T22:53:04+00:00",
+      "link": "https://www.wired.com/story/commonwealth-short-story-prize-ai-allegations/"
+    },
+    {
+      "title": "Remove–AI–Watermarks – CLI and library for removing AI watermarks from images",
+      "summary": "Article URL: https://github.com/wiltodelta/remove-ai-watermarks Comments URL: https://news.ycombinator.com/item?id=48200569 Points: 187 # Comments: 107",
+      "source": "Hacker News",
+      "published": "2026-05-19T22:30:31+00:00",
+      "link": "https://github.com/wiltodelta/remove-ai-watermarks"
+    },
+    {
+      "title": "Demis Hassabis said this might be the ‘foothills of the singularity.’ What?",
+      "summary": "Welcome to a \"profound moment for humanity,\" according to Google DeepMind CEO Demis Hassabis, who closed out Google I/O's keynote presentation on Tuesday, saying: Google's cutting-edge research and products will help unlock AGI's incredible potential for the benefit of the...",
+      "source": "The Verge",
+      "published": "2026-05-19T22:16:02+00:00",
+      "link": "https://www.theverge.com/tech/934260/google-io-ai-singularity-demis-hassabis"
+    },
     {
       "title": "Google just declared itself a contender in AI design at IO 2026",
       "summary": "Google says it's designed the app to be accessible to everyone, from teachers to small business owners.",
@@ -24,7 +45,7 @@ const FEED_DATA = {
     },
     {
       "title": "From teen hacker to Iron Dome researcher, this founder raised $28M to fight AI phishing",
-      "summary": "Ocean, an agentic email security platform, raised funding from Lightspeed Venture Partners.",
+      "summary": "Ocean, an agentic email security platform, claims its AI can thoroughly analyze the context of every incoming email to detect fraud and impersonation attempts.",
       "source": "TechCrunch",
       "published": "2026-05-19T21:08:51+00:00",
       "link": "https://techcrunch.com/2026/05/19/from-teen-hacker-to-iron-dome-researcher-this-founder-raised-28m-to-fight-ai-phishing/"
@@ -44,8 +65,8 @@ const FEED_DATA = {
       "link": "https://www.technologyreview.com/2026/05/19/1137454/roundtables-inside-the-musk-v-altman-trial/"
     },
     {
-      "title": "Elon Musk said Sam Altman “stole” a non-profit — but the trial showed he had similar aims",
-      "summary": "“By the end of this week, you and Sam will be the most hated men in America.”",
+      "title": "Elon Musk said Sam Altman ‘stole’ a non-profit — but the trial showed he had similar aims",
+      "summary": "The jury's speedy decision to reject Elon Musk's lawsuit against the other founders of OpenAI and Microsoft confirmed what we saw in the courtroom: Musk's case was a weak one, in part because he waited so long to file it.",
       "source": "TechCrunch",
       "published": "2026-05-19T20:11:00+00:00",
       "link": "https://techcrunch.com/2026/05/19/elon-musk-said-sam-altman-stole-a-non-profit-but-the-trial-showed-he-had-similar-aims/"
@@ -59,7 +80,7 @@ const FEED_DATA = {
     },
     {
       "title": "OpenAI Adopts Google's SynthID Watermark for AI Images with Verification Tool",
-      "summary": "Article URL: https://openai.com/index/advancing-content-provenance/ Comments URL: https://news.ycombinator.com/item?id=48198291 Points: 94 # Comments: 38",
+      "summary": "Article URL: https://openai.com/index/advancing-content-provenance/ Comments URL: https://news.ycombinator.com/item?id=48198291 Points: 237 # Comments: 125",
       "source": "Hacker News",
       "published": "2026-05-19T19:34:30+00:00",
       "link": "https://openai.com/index/advancing-content-provenance/"
@@ -72,11 +93,25 @@ const FEED_DATA = {
       "link": "https://the-decoder.com/google-overhauls-its-ai-subscriptions-at-i-o-2026-with-three-tiers-starting-at-10-a-month/"
     },
     {
-      "title": "Google takes a page out of Meta’s book, announces new audio-powered smart glasses",
+      "title": "Enterprise AI roadblocks and roadmaps, security and physical AI: Day two at TechEx",
+      "summary": "Day two of TechEx North America has been more of a deeper, critical examination of AI in the enterprise, but with a optimistic bent.",
+      "source": "AI News",
+      "published": "2026-05-19T19:18:00+00:00",
+      "link": "https://www.artificialintelligence-news.com/news/tech-ex-north-america-day-two-roundup-of-themes-issues-discussions/"
+    },
+    {
+      "title": "Google takes a page out of Meta’s book, announces new audio-powered smart glasses at IO 2026",
       "summary": "Google is calling the new devices \"audio glasses,\" in that users will be able to issue verbal commands to them and get things done via its ecosystem of apps and services, including Gemini.",
       "source": "TechCrunch",
       "published": "2026-05-19T19:15:31+00:00",
-      "link": "https://techcrunch.com/2026/05/19/google-takes-a-page-out-of-metas-book-announces-new-audio-powered-smart-glasses/"
+      "link": "https://techcrunch.com/2026/05/19/google-takes-a-page-out-of-metas-book-announces-new-audio-powered-smart-glasses-at-io-2026/"
+    },
+    {
+      "title": "Mistral AI acquires Emmi AI",
+      "summary": "Article URL: https://www.emmi.ai/news/mistral-ai-acquires-emmi-ai Comments URL: https://news.ycombinator.com/item?id=48197995 Points: 204 # Comments: 55",
+      "source": "Hacker News",
+      "published": "2026-05-19T19:14:12+00:00",
+      "link": "https://www.emmi.ai/news/mistral-ai-acquires-emmi-ai"
     },
     {
       "title": "Mistral AI Acquires Emmi AI to Create the Leading AI Stack",
@@ -143,7 +178,7 @@ const FEED_DATA = {
     },
     {
       "title": "Gemini 3.5 Flash: frontier intelligence with action",
-      "summary": "Article URL: https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/ Comments URL: https://news.ycombinator.com/item?id=48196656 Points: 177 # Comments: 1",
+      "summary": "Article URL: https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/ Comments URL: https://news.ycombinator.com/item?id=48196656 Points: 178 # Comments: 1",
       "source": "Hacker News",
       "published": "2026-05-19T17:49:50+00:00",
       "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/"
@@ -212,18 +247,18 @@ const FEED_DATA = {
       "link": "https://techcrunch.com/2026/05/19/google-adds-voice-based-prompting-to-docs-and-keep/"
     },
     {
-      "title": "Google’s Gemini Omni turns images, audio, and text into video — and that’s just the start",
-      "summary": "Google's Gemini Omni is a new multimodal model that reasons across text, images, audio, and video to generate and edit videos through simple conversation — starting with Omni Flash.",
-      "source": "TechCrunch",
-      "published": "2026-05-19T17:45:00+00:00",
-      "link": "https://techcrunch.com/2026/05/19/googles-gemini-omni-turns-images-audio-and-text-into-video-and-thats-just-the-start/"
-    },
-    {
       "title": "Google updates its Gemini app to take on ChatGPT and Claude at IO 2026",
       "summary": "The updates signal Google’s push to turn its Gemini app into an all-purpose AI hub rather than a stand-alone chatbot.",
       "source": "TechCrunch",
       "published": "2026-05-19T17:45:00+00:00",
       "link": "https://techcrunch.com/2026/05/19/google-updates-its-gemini-app-to-take-on-chatgpt-and-claude-at-io-2026/"
+    },
+    {
+      "title": "Google’s Gemini Omni turns images, audio, and text into video — and that’s just the start",
+      "summary": "Google's Gemini Omni is a new multimodal model that reasons across text, images, audio, and video to generate and edit videos through simple conversation — starting with Omni Flash.",
+      "source": "TechCrunch",
+      "published": "2026-05-19T17:45:00+00:00",
+      "link": "https://techcrunch.com/2026/05/19/googles-gemini-omni-turns-images-audio-and-text-into-video-and-thats-just-the-start/"
     },
     {
       "title": "Google can now vibe-code you an Android app",
@@ -254,18 +289,11 @@ const FEED_DATA = {
       "link": "https://www.theverge.com/tech/932973/google-gmail-live-ai-keep-docs-io-2026"
     },
     {
-      "title": "Google is launching its own version of OpenClaw",
-      "summary": "Google is launching its own take on OpenClaw, the buzzy AI agent platform that caused a stir in the tech industry earlier this year.",
-      "source": "The Verge",
-      "published": "2026-05-19T17:45:00+00:00",
-      "link": "https://www.theverge.com/tech/932996/google-gemini-spark-antigravity-io-2026"
-    },
-    {
-      "title": "Google Makes It Easy to Deepfake Yourself",
-      "summary": "Google’s overhaul of its AI creation software, Flow, includes a new video model and a tool for generating selfie videos called avatars.",
+      "title": "Google Search Goes Agentic—and Doesn’t Need You Anymore",
+      "summary": "Vibe-coded results! Super widgets!",
       "source": "Wired",
       "published": "2026-05-19T17:45:00+00:00",
-      "link": "https://www.wired.com/story/google-makes-it-easy-to-make-a-deepfake-of-yourself/"
+      "link": "https://www.wired.com/story/google-search-goes-agentic-and-doesnt-need-you-anymore/"
     },
     {
       "title": "Demis Hassabis Thinks AI Job Cuts Are Dumb",
@@ -275,11 +303,11 @@ const FEED_DATA = {
       "link": "https://www.wired.com/story/demis-hassabis-ai-layoffs-deepmind-google-io/"
     },
     {
-      "title": "Google Search Goes Agentic—and Doesn’t Need You Anymore",
-      "summary": "Vibe-coded results! Super widgets!",
+      "title": "Google Makes It Easy to Deepfake Yourself",
+      "summary": "Google’s overhaul of its AI creation software, Flow, includes a new video model and a tool for generating selfie videos called avatars.",
       "source": "Wired",
       "published": "2026-05-19T17:45:00+00:00",
-      "link": "https://www.wired.com/story/google-search-goes-agentic-and-doesnt-need-you-anymore/"
+      "link": "https://www.wired.com/story/google-makes-it-easy-to-make-a-deepfake-of-yourself/"
     },
     {
       "title": "Gemini Spark Is Google’s Response to OpenClaw’s 24/7 AI Agent",
@@ -287,6 +315,13 @@ const FEED_DATA = {
       "source": "Wired",
       "published": "2026-05-19T17:45:00+00:00",
       "link": "https://www.wired.com/story/googles-response-to-openclaws-24-7-ai-agent/"
+    },
+    {
+      "title": "Google is launching its own version of OpenClaw",
+      "summary": "Google is launching its own take on OpenClaw, the buzzy AI agent platform that caused a stir in the tech industry earlier this year.",
+      "source": "The Verge",
+      "published": "2026-05-19T17:45:00+00:00",
+      "link": "https://www.theverge.com/tech/932996/google-gemini-spark-antigravity-io-2026"
     },
     {
       "title": "Google’s AI now lets you talk to your Gmail inbox",
@@ -339,14 +374,14 @@ const FEED_DATA = {
     },
     {
       "title": "Graduates are booing pep talks on AI at college commencements",
-      "summary": "Article URL: https://apnews.com/article/ai-college-commencement-anxiety-boo-35aec9bac660eaeb05c5b8d392db2cac Comments URL: https://news.ycombinator.com/item?id=48196546 Points: 107 # Comments: 154",
+      "summary": "Article URL: https://apnews.com/article/ai-college-commencement-anxiety-boo-35aec9bac660eaeb05c5b8d392db2cac Comments URL: https://news.ycombinator.com/item?id=48196546 Points: 114 # Comments: 171",
       "source": "Hacker News",
       "published": "2026-05-19T17:42:11+00:00",
       "link": "https://apnews.com/article/ai-college-commencement-anxiety-boo-35aec9bac660eaeb05c5b8d392db2cac"
     },
     {
       "title": "AI is too expensive",
-      "summary": "Article URL: https://www.wheresyoured.at/ai-is-too-expensive/ Comments URL: https://news.ycombinator.com/item?id=48195100 Points: 126 # Comments: 137",
+      "summary": "Article URL: https://www.wheresyoured.at/ai-is-too-expensive/ Comments URL: https://news.ycombinator.com/item?id=48195100 Points: 135 # Comments: 143",
       "source": "Hacker News",
       "published": "2026-05-19T15:59:03+00:00",
       "link": "https://www.wheresyoured.at/ai-is-too-expensive/"
@@ -371,6 +406,13 @@ const FEED_DATA = {
       "source": "Wired",
       "published": "2026-05-19T15:00:28+00:00",
       "link": "https://www.wired.com/story/ex-openai-staffers-warn-spacex-investors-of-ai-safety-risks/"
+    },
+    {
+      "title": "Going full AI engineer, not touching code anymore",
+      "summary": "Article URL: https://max.gp/writing/going-full-ai-engineer-not-touching-code-anymore/ Comments URL: https://news.ycombinator.com/item?id=48193524 Points: 52 # Comments: 112",
+      "source": "Hacker News",
+      "published": "2026-05-19T14:08:53+00:00",
+      "link": "https://max.gp/writing/going-full-ai-engineer-not-touching-code-anymore/"
     },
     {
       "title": "Agora-1 turns the N64 classic GoldenEye into a playable AI simulation for four players",
@@ -437,7 +479,7 @@ const FEED_DATA = {
     },
     {
       "title": "The American Rebellion Against AI Is Gaining Steam",
-      "summary": "Article URL: https://www.wsj.com/tech/ai/the-american-rebellion-against-ai-is-gaining-steam-94b72529 Comments URL: https://news.ycombinator.com/item?id=48188310 Points: 122 # Comments: 121",
+      "summary": "Article URL: https://www.wsj.com/tech/ai/the-american-rebellion-against-ai-is-gaining-steam-94b72529 Comments URL: https://news.ycombinator.com/item?id=48188310 Points: 125 # Comments: 125",
       "source": "Hacker News",
       "published": "2026-05-19T01:51:48+00:00",
       "link": "https://www.wsj.com/tech/ai/the-american-rebellion-against-ai-is-gaining-steam-94b72529"
@@ -458,7 +500,7 @@ const FEED_DATA = {
     },
     {
       "title": "What political censorship looks like inside an LLM's weights (Qwen 3.5)",
-      "summary": "Article URL: https://vas-blog.pages.dev/qwen-censorship/ Comments URL: https://news.ycombinator.com/item?id=48187680 Points: 80 # Comments: 42",
+      "summary": "Article URL: https://vas-blog.pages.dev/qwen-censorship/ Comments URL: https://news.ycombinator.com/item?id=48187680 Points: 81 # Comments: 44",
       "source": "Hacker News",
       "published": "2026-05-19T00:16:31+00:00",
       "link": "https://vas-blog.pages.dev/qwen-censorship/"
@@ -472,7 +514,7 @@ const FEED_DATA = {
     },
     {
       "title": "Alignment pretraining: AI discourse creates self-fulfilling (mis)alignment",
-      "summary": "Article URL: https://arxiv.org/abs/2601.10160 Comments URL: https://news.ycombinator.com/item?id=48185938 Points: 74 # Comments: 29",
+      "summary": "Article URL: https://arxiv.org/abs/2601.10160 Comments URL: https://news.ycombinator.com/item?id=48185938 Points: 77 # Comments: 29",
       "source": "Hacker News",
       "published": "2026-05-18T21:29:13+00:00",
       "link": "https://arxiv.org/abs/2601.10160"
@@ -570,7 +612,7 @@ const FEED_DATA = {
     },
     {
       "title": "We stopped AI bot spam in our GitHub repo using Git's –author flag",
-      "summary": "Article URL: https://archestra.ai/blog/only-responsible-ai Comments URL: https://news.ycombinator.com/item?id=48181125 Points: 487 # Comments: 234",
+      "summary": "Article URL: https://archestra.ai/blog/only-responsible-ai Comments URL: https://news.ycombinator.com/item?id=48181125 Points: 490 # Comments: 234",
       "source": "Hacker News",
       "published": "2026-05-18T15:24:19+00:00",
       "link": "https://archestra.ai/blog/only-responsible-ai"
@@ -605,7 +647,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI eats the world (Spring 26) [pdf]",
-      "summary": "Article URL: https://static1.squarespace.com/static/50363cf324ac8e905e7df861/t/6a0af5d0484fbf5fe9a7743e/1779103184855/2026-Spring-AI.pdf Comments URL: https://news.ycombinator.com/item?id=48179021 Points: 292 # Comments: 154",
+      "summary": "Article URL: https://static1.squarespace.com/static/50363cf324ac8e905e7df861/t/6a0af5d0484fbf5fe9a7743e/1779103184855/2026-Spring-AI.pdf Comments URL: https://news.ycombinator.com/item?id=48179021 Points: 295 # Comments: 159",
       "source": "Hacker News",
       "published": "2026-05-18T12:49:28+00:00",
       "link": "https://static1.squarespace.com/static/50363cf324ac8e905e7df861/t/6a0af5d0484fbf5fe9a7743e/1779103184855/2026-Spring-AI.pdf"
@@ -647,17 +689,10 @@ const FEED_DATA = {
     },
     {
       "title": "Eric Schmidt speech about AI booed during graduation",
-      "summary": "Article URL: https://www.nbcnews.com/tech/tech-news/former-google-ceo-booed-graduation-speech-ai-rcna345585 Comments URL: https://news.ycombinator.com/item?id=48177785 Points: 364 # Comments: 385",
+      "summary": "Article URL: https://www.nbcnews.com/tech/tech-news/former-google-ceo-booed-graduation-speech-ai-rcna345585 Comments URL: https://news.ycombinator.com/item?id=48177785 Points: 367 # Comments: 385",
       "source": "Hacker News",
       "published": "2026-05-18T10:50:25+00:00",
       "link": "https://www.nbcnews.com/tech/tech-news/former-google-ceo-booed-graduation-speech-ai-rcna345585"
-    },
-    {
-      "title": "I’m a Normie. Can Normies Really Vibe Code?",
-      "summary": "Apparently anyone can vibe code anything these days. So Claude and I tried to make a database for tracking the petty grievances of the masses.",
-      "source": "Wired",
-      "published": "2026-05-18T10:00:00+00:00",
-      "link": "https://www.wired.com/story/normie-vibe-code/"
     },
     {
       "title": "Amazon launches Alexa for Shopping as Rufus moves behind the scenes",
@@ -667,8 +702,15 @@ const FEED_DATA = {
       "link": "https://www.artificialintelligence-news.com/news/amazon-alexa-for-shopping-rufus-ai-assistant/"
     },
     {
+      "title": "I’m a Normie. Can Normies Really Vibe Code?",
+      "summary": "Apparently anyone can vibe code anything these days. So Claude and I tried to make a database for tracking the petty grievances of the masses.",
+      "source": "Wired",
+      "published": "2026-05-18T10:00:00+00:00",
+      "link": "https://www.wired.com/story/normie-vibe-code/"
+    },
+    {
       "title": "Multiple commencement speakers booed for AI comments during graduation speeches",
-      "summary": "Article URL: https://www.nbcnews.com/video/multiple-commencement-speakers-booed-for-ai-comments-during-graduation-speeches-263486021518 Comments URL: https://news.ycombinator.com/item?id=48177107 Points: 160 # Comments: 167",
+      "summary": "Article URL: https://www.nbcnews.com/video/multiple-commencement-speakers-booed-for-ai-comments-during-graduation-speeches-263486021518 Comments URL: https://news.ycombinator.com/item?id=48177107 Points: 162 # Comments: 167",
       "source": "Hacker News",
       "published": "2026-05-18T09:12:10+00:00",
       "link": "https://www.nbcnews.com/video/multiple-commencement-speakers-booed-for-ai-comments-during-graduation-speeches-263486021518"
@@ -696,7 +738,7 @@ const FEED_DATA = {
     },
     {
       "title": "An AI Hate Wave Is Here",
-      "summary": "Article URL: https://www.axios.com/2026/05/17/ai-backlash-polling-sentiment Comments URL: https://news.ycombinator.com/item?id=48173318 Points: 105 # Comments: 127",
+      "summary": "Article URL: https://www.axios.com/2026/05/17/ai-backlash-polling-sentiment Comments URL: https://news.ycombinator.com/item?id=48173318 Points: 106 # Comments: 127",
       "source": "Hacker News",
       "published": "2026-05-17T21:23:25+00:00",
       "link": "https://www.axios.com/2026/05/17/ai-backlash-polling-sentiment"
@@ -1358,48 +1400,6 @@ const FEED_DATA = {
       "source": "Hacker News",
       "published": "2026-05-14T18:19:13+00:00",
       "link": "https://danieltan.weblog.lol/2026/05/you-dont-align-an-ai-you-align-with-it"
-    },
-    {
-      "title": "You Don't Align an AI, You Align with It",
-      "summary": "Article URL: https://danieltan.weblog.lol/2026/05/you-dont-align-an-ai-you-align-with-it Comments URL: https://news.ycombinator.com/item?id=48139144 Points: 72 # Comments: 35",
-      "source": "Hacker News",
-      "published": "2026-05-14T18:19:13+00:00",
-      "link": "https://danieltan.weblog.lol/2026/05/you-dont-align-an-ai-you-align-with-it"
-    },
-    {
-      "title": "Americans would rather live next to a nuclear plant than an AI data center, Gallup poll finds",
-      "summary": "According to a new Gallup poll, 71 percent of Americans oppose building AI data centers near their homes, far more than the 53 percent who object to a nearby nuclear power plant. The top concerns are high water and energy use, pollution, and rising utility costs.",
-      "source": "The Decoder",
-      "published": "2026-05-14T17:58:13+00:00",
-      "link": "https://the-decoder.com/americans-would-rather-live-next-to-a-nuclear-plant-than-an-ai-data-center-gallup-poll-finds/"
-    },
-    {
-      "title": "Use this map to find the data centers in your backyard",
-      "summary": "When Oregon resident Isabelle Reksopuro heard Google was gobbling up public land to fuel its data centers in her home state, she didn't initially know what to believe. \"There's a lot of misinformation about data centers,\" she said.",
-      "source": "The Verge",
-      "published": "2026-05-14T17:40:00+00:00",
-      "link": "https://www.theverge.com/policy/930629/data-center-policy-map-interactive"
-    },
-    {
-      "title": "Cerebras raises $5.5B, then stock pops $108%, in the first huge tech IPO of 2026",
-      "summary": "A year ago, it looked like this day would never happen for Cerebras.",
-      "source": "TechCrunch",
-      "published": "2026-05-14T16:30:02+00:00",
-      "link": "https://techcrunch.com/2026/05/14/cerebras-raises-5-5b-kicking-off-2026s-ipo-season-with-a-bang/"
-    },
-    {
-      "title": "Microsoft pits more than 100 AI agents against each other to find Windows vulnerabilities",
-      "summary": "Microsoft has built MDASH, a system that pits more than 100 specialized AI agents against each other to find software vulnerabilities. On Patch Tuesday alone, the system uncovered 16 security flaws in Windows, four of them critical.",
-      "source": "The Decoder",
-      "published": "2026-05-14T15:35:41+00:00",
-      "link": "https://the-decoder.com/microsoft-pits-more-than-100-ai-agents-against-each-other-to-find-windows-vulnerabilities/"
-    },
-    {
-      "title": "Americans do not want AI data centers in their backyards",
-      "summary": "Over 70 percent of Americans oppose AI data center construction in their area, according to a new Gallup survey. Just 7 percent said they were \"strongly\" in favor of new data centers.",
-      "source": "The Verge",
-      "published": "2026-05-14T15:24:53+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/930477/ai-data-centers-gallup-survey-70-percent-opposition"
     }
   ]
 };
