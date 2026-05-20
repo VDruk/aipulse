@@ -1,5 +1,5 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-05-20T05:03:29.360791+00:00",
+  "lastUpdated": "2026-05-20T08:27:24.552950+00:00",
   "items": [
     {
       "title": "Literary Prizewinners Are Facing AI Allegations. It Feels Like the New Normal",
@@ -10,7 +10,7 @@ const FEED_DATA = {
     },
     {
       "title": "Remove–AI–Watermarks – CLI and library for removing AI watermarks from images",
-      "summary": "Article URL: https://github.com/wiltodelta/remove-ai-watermarks Comments URL: https://news.ycombinator.com/item?id=48200569 Points: 187 # Comments: 107",
+      "summary": "Article URL: https://github.com/wiltodelta/remove-ai-watermarks Comments URL: https://news.ycombinator.com/item?id=48200569 Points: 261 # Comments: 145",
       "source": "Hacker News",
       "published": "2026-05-19T22:30:31+00:00",
       "link": "https://github.com/wiltodelta/remove-ai-watermarks"
@@ -80,7 +80,7 @@ const FEED_DATA = {
     },
     {
       "title": "OpenAI Adopts Google's SynthID Watermark for AI Images with Verification Tool",
-      "summary": "Article URL: https://openai.com/index/advancing-content-provenance/ Comments URL: https://news.ycombinator.com/item?id=48198291 Points: 237 # Comments: 125",
+      "summary": "Article URL: https://openai.com/index/advancing-content-provenance/ Comments URL: https://news.ycombinator.com/item?id=48198291 Points: 273 # Comments: 140",
       "source": "Hacker News",
       "published": "2026-05-19T19:34:30+00:00",
       "link": "https://openai.com/index/advancing-content-provenance/"
@@ -108,7 +108,7 @@ const FEED_DATA = {
     },
     {
       "title": "Mistral AI acquires Emmi AI",
-      "summary": "Article URL: https://www.emmi.ai/news/mistral-ai-acquires-emmi-ai Comments URL: https://news.ycombinator.com/item?id=48197995 Points: 204 # Comments: 55",
+      "summary": "Article URL: https://www.emmi.ai/news/mistral-ai-acquires-emmi-ai Comments URL: https://news.ycombinator.com/item?id=48197995 Points: 250 # Comments: 70",
       "source": "Hacker News",
       "published": "2026-05-19T19:14:12+00:00",
       "link": "https://www.emmi.ai/news/mistral-ai-acquires-emmi-ai"
@@ -178,7 +178,7 @@ const FEED_DATA = {
     },
     {
       "title": "Gemini 3.5 Flash: frontier intelligence with action",
-      "summary": "Article URL: https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/ Comments URL: https://news.ycombinator.com/item?id=48196656 Points: 178 # Comments: 1",
+      "summary": "Article URL: https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/ Comments URL: https://news.ycombinator.com/item?id=48196656 Points: 180 # Comments: 1",
       "source": "Hacker News",
       "published": "2026-05-19T17:49:50+00:00",
       "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/"
@@ -219,6 +219,13 @@ const FEED_DATA = {
       "link": "https://techcrunch.com/2026/05/19/googles-ai-studio-now-lets-anyone-build-android-apps-in-minutes/"
     },
     {
+      "title": "Google updates its Gemini app to take on ChatGPT and Claude at IO 2026",
+      "summary": "The updates signal Google’s push to turn its Gemini app into an all-purpose AI hub rather than a stand-alone chatbot.",
+      "source": "TechCrunch",
+      "published": "2026-05-19T17:45:00+00:00",
+      "link": "https://techcrunch.com/2026/05/19/google-updates-its-gemini-app-to-take-on-chatgpt-and-claude-at-io-2026/"
+    },
+    {
       "title": "Google’s new Universal Cart wants to follow your entire shopping journey across the internet",
       "summary": "Most people shop across multiple devices, many retailers, and over the course of many days, which is why Google is launching Universal Cart.",
       "source": "TechCrunch",
@@ -245,13 +252,6 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-05-19T17:45:00+00:00",
       "link": "https://techcrunch.com/2026/05/19/google-adds-voice-based-prompting-to-docs-and-keep/"
-    },
-    {
-      "title": "Google updates its Gemini app to take on ChatGPT and Claude at IO 2026",
-      "summary": "The updates signal Google’s push to turn its Gemini app into an all-purpose AI hub rather than a stand-alone chatbot.",
-      "source": "TechCrunch",
-      "published": "2026-05-19T17:45:00+00:00",
-      "link": "https://techcrunch.com/2026/05/19/google-updates-its-gemini-app-to-take-on-chatgpt-and-claude-at-io-2026/"
     },
     {
       "title": "Google’s Gemini Omni turns images, audio, and text into video — and that’s just the start",
@@ -374,14 +374,14 @@ const FEED_DATA = {
     },
     {
       "title": "Graduates are booing pep talks on AI at college commencements",
-      "summary": "Article URL: https://apnews.com/article/ai-college-commencement-anxiety-boo-35aec9bac660eaeb05c5b8d392db2cac Comments URL: https://news.ycombinator.com/item?id=48196546 Points: 114 # Comments: 171",
+      "summary": "Article URL: https://apnews.com/article/ai-college-commencement-anxiety-boo-35aec9bac660eaeb05c5b8d392db2cac Comments URL: https://news.ycombinator.com/item?id=48196546 Points: 114 # Comments: 174",
       "source": "Hacker News",
       "published": "2026-05-19T17:42:11+00:00",
       "link": "https://apnews.com/article/ai-college-commencement-anxiety-boo-35aec9bac660eaeb05c5b8d392db2cac"
     },
     {
       "title": "AI is too expensive",
-      "summary": "Article URL: https://www.wheresyoured.at/ai-is-too-expensive/ Comments URL: https://news.ycombinator.com/item?id=48195100 Points: 135 # Comments: 143",
+      "summary": "Article URL: https://www.wheresyoured.at/ai-is-too-expensive/ Comments URL: https://news.ycombinator.com/item?id=48195100 Points: 137 # Comments: 144",
       "source": "Hacker News",
       "published": "2026-05-19T15:59:03+00:00",
       "link": "https://www.wheresyoured.at/ai-is-too-expensive/"
@@ -409,7 +409,7 @@ const FEED_DATA = {
     },
     {
       "title": "Going full AI engineer, not touching code anymore",
-      "summary": "Article URL: https://max.gp/writing/going-full-ai-engineer-not-touching-code-anymore/ Comments URL: https://news.ycombinator.com/item?id=48193524 Points: 52 # Comments: 112",
+      "summary": "Article URL: https://max.gp/writing/going-full-ai-engineer-not-touching-code-anymore/ Comments URL: https://news.ycombinator.com/item?id=48193524 Points: 54 # Comments: 115",
       "source": "Hacker News",
       "published": "2026-05-19T14:08:53+00:00",
       "link": "https://max.gp/writing/going-full-ai-engineer-not-touching-code-anymore/"
@@ -479,7 +479,7 @@ const FEED_DATA = {
     },
     {
       "title": "The American Rebellion Against AI Is Gaining Steam",
-      "summary": "Article URL: https://www.wsj.com/tech/ai/the-american-rebellion-against-ai-is-gaining-steam-94b72529 Comments URL: https://news.ycombinator.com/item?id=48188310 Points: 125 # Comments: 125",
+      "summary": "Article URL: https://www.wsj.com/tech/ai/the-american-rebellion-against-ai-is-gaining-steam-94b72529 Comments URL: https://news.ycombinator.com/item?id=48188310 Points: 125 # Comments: 124",
       "source": "Hacker News",
       "published": "2026-05-19T01:51:48+00:00",
       "link": "https://www.wsj.com/tech/ai/the-american-rebellion-against-ai-is-gaining-steam-94b72529"
@@ -514,7 +514,7 @@ const FEED_DATA = {
     },
     {
       "title": "Alignment pretraining: AI discourse creates self-fulfilling (mis)alignment",
-      "summary": "Article URL: https://arxiv.org/abs/2601.10160 Comments URL: https://news.ycombinator.com/item?id=48185938 Points: 77 # Comments: 29",
+      "summary": "Article URL: https://arxiv.org/abs/2601.10160 Comments URL: https://news.ycombinator.com/item?id=48185938 Points: 79 # Comments: 29",
       "source": "Hacker News",
       "published": "2026-05-18T21:29:13+00:00",
       "link": "https://arxiv.org/abs/2601.10160"
@@ -612,7 +612,7 @@ const FEED_DATA = {
     },
     {
       "title": "We stopped AI bot spam in our GitHub repo using Git's –author flag",
-      "summary": "Article URL: https://archestra.ai/blog/only-responsible-ai Comments URL: https://news.ycombinator.com/item?id=48181125 Points: 490 # Comments: 234",
+      "summary": "Article URL: https://archestra.ai/blog/only-responsible-ai Comments URL: https://news.ycombinator.com/item?id=48181125 Points: 491 # Comments: 234",
       "source": "Hacker News",
       "published": "2026-05-18T15:24:19+00:00",
       "link": "https://archestra.ai/blog/only-responsible-ai"
@@ -647,7 +647,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI eats the world (Spring 26) [pdf]",
-      "summary": "Article URL: https://static1.squarespace.com/static/50363cf324ac8e905e7df861/t/6a0af5d0484fbf5fe9a7743e/1779103184855/2026-Spring-AI.pdf Comments URL: https://news.ycombinator.com/item?id=48179021 Points: 295 # Comments: 159",
+      "summary": "Article URL: https://static1.squarespace.com/static/50363cf324ac8e905e7df861/t/6a0af5d0484fbf5fe9a7743e/1779103184855/2026-Spring-AI.pdf Comments URL: https://news.ycombinator.com/item?id=48179021 Points: 295 # Comments: 164",
       "source": "Hacker News",
       "published": "2026-05-18T12:49:28+00:00",
       "link": "https://static1.squarespace.com/static/50363cf324ac8e905e7df861/t/6a0af5d0484fbf5fe9a7743e/1779103184855/2026-Spring-AI.pdf"
