@@ -1,9 +1,44 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-05-20T16:27:17.557688+00:00",
+  "lastUpdated": "2026-05-20T19:18:30.993254+00:00",
   "items": [
     {
+      "title": "Deepseek wants to take on Claude Code and OpenAI's Codex with \"Deepseek Code\"",
+      "summary": "Deepseek is building a new team in Beijing to develop its own AI code agent, working title \"Deepseek Code,\" a direct competitor to Claude Code, Codex, and Cursor. Applicants should know agent loops, MCP, and context engineering and be heavy users of existing coding tools.",
+      "source": "The Decoder",
+      "published": "2026-05-20T18:48:47+00:00",
+      "link": "https://the-decoder.com/deepseek-wants-to-take-on-claude-code-and-openais-codex-with-deepseek-code/"
+    },
+    {
+      "title": "LinkedIn's war on AI slop is not just a policy update—it is an admission that the platform lost control of its feed",
+      "summary": "Linkedin is cracking down on AI-generated junk content it calls \"AI slop.\" In early tests, the platform says it correctly flagged generic posts 94 percent of the time. The irony: parent company Microsoft has been actively pushing AI use on LinkedIn itself.",
+      "source": "The Decoder",
+      "published": "2026-05-20T18:21:23+00:00",
+      "link": "https://the-decoder.com/linkedins-war-on-ai-slop-is-not-just-a-policy-update-it-is-an-admission-that-the-platform-lost-control-of-its-feed/"
+    },
+    {
+      "title": "I Gave My OpenClaw Agent a Physical Body",
+      "summary": "The coding skills of AI models are about to make it much easier to build and deploy robots.",
+      "source": "Wired",
+      "published": "2026-05-20T18:00:00+00:00",
+      "link": "https://www.wired.com/story/i-gave-my-openclaw-agent-physical-body-robot/"
+    },
+    {
+      "title": "OpenAI barrels toward IPO that may happen in September",
+      "summary": "A day after Elon Musk lost his lawsuit that threatened OpenAI's structure, leadership and finances, OpenAI is reportedly back to prepping for its IPO.",
+      "source": "TechCrunch",
+      "published": "2026-05-20T17:24:24+00:00",
+      "link": "https://techcrunch.com/2026/05/20/openai-barrels-toward-ipo-that-may-happen-in-september/"
+    },
+    {
+      "title": "You can now remix other people’s YouTube Shorts with AI",
+      "summary": "Google announced a new YouTube Shorts Remix feature that lets users restyle clips or even insert themselves into other people's videos using Gemini Omni. Now, at the bottom of a YouTube Short, when you click the remix icon, you'll see an option to \"reimagine\" it.",
+      "source": "The Verge",
+      "published": "2026-05-20T16:41:40+00:00",
+      "link": "https://www.theverge.com/tech/934704/google-gemini-omni-youtub-shorts-remix-ai"
+    },
+    {
       "title": "Google Search’s AI evolution includes more ads",
-      "summary": "Google's AI-powered Search era apparently also extends to its ads. Now, when you search for a product, Google's Gemini AI chatbot will surface relevant items and generate a \"custom explainer\" about why you should purchase a specific one.",
+      "summary": "Google's AI-powered Search era apparently also extends to its ads. Now, when you look for a product in Search, Google's Gemini AI model will surface relevant items and generate a \"custom explainer\" about why you should purchase a specific one.",
       "source": "The Verge",
       "published": "2026-05-20T16:00:00+00:00",
       "link": "https://www.theverge.com/tech/934585/google-ai-shopping-ads-search"
@@ -16,11 +51,25 @@ const FEED_DATA = {
       "link": "https://the-decoder.com/google-tests-the-app-version-of-the-saaspocalypse/"
     },
     {
+      "title": "Formal Verification Gates for AI Coding Loops",
+      "summary": "Article URL: https://reubenbrooks.dev/blog/structural-backpressure-beats-smarter-agents/ Comments URL: https://news.ycombinator.com/item?id=48209323 Points: 60 # Comments: 6",
+      "source": "Hacker News",
+      "published": "2026-05-20T15:25:45+00:00",
+      "link": "https://reubenbrooks.dev/blog/structural-backpressure-beats-smarter-agents/"
+    },
+    {
       "title": "AI search startups are blowing up",
       "summary": "AI search has quietly become one of the most attractive targets in consumer AI.",
       "source": "TechCrunch",
       "published": "2026-05-20T15:04:45+00:00",
       "link": "https://techcrunch.com/2026/05/20/ai-search-startups-are-blowing-up/"
+    },
+    {
+      "title": "Stability AI releases a new audio model that can create 6-minute songs",
+      "summary": "Stability Audio 3.0 small model can run on-device and generate two-minute long tracks.",
+      "source": "TechCrunch",
+      "published": "2026-05-20T15:00:00+00:00",
+      "link": "https://techcrunch.com/2026/05/20/stability-ai-release-a-new-audio-model-that-can-create-six-minute-songs/"
     },
     {
       "title": "Stability AI releases a new audio model that can create six-minute songs",
@@ -37,6 +86,13 @@ const FEED_DATA = {
       "link": "https://the-decoder.com/stability-ai-launches-stable-audio-3-0-with-up-to-six-minute-tracks-and-open-weights/"
     },
     {
+      "title": "Testing distributed systems with AI agents",
+      "summary": "Article URL: https://github.com/shenli/distributed-system-testing Comments URL: https://news.ycombinator.com/item?id=48208685 Points: 55 # Comments: 6",
+      "source": "Hacker News",
+      "published": "2026-05-20T14:40:42+00:00",
+      "link": "https://github.com/shenli/distributed-system-testing"
+    },
+    {
       "title": "It’s make or break time for AI labeling systems",
       "summary": "We're about to find out if the systems designed to make deepfakes and AI-generated content easy to spot are actually up to snuff.",
       "source": "The Verge",
@@ -45,7 +101,7 @@ const FEED_DATA = {
     },
     {
       "title": "NanoClaw creator turns down $20M buyout offer, raises $12M seed instead",
-      "summary": "NanoCo, the company behind OpenClaw alternative NanoClaw, has raised a $12 million seed after a viral launch, the founders tell TechCrunch.",
+      "summary": "NanoClaw was created as a secure alternative to OpenClaw to assist the Cohen brothers with their AI marketing firm that used agents to do much of the work. But instead of running directly on a computer, NanoClaw runs sandboxed in a container.",
       "source": "TechCrunch",
       "published": "2026-05-20T14:00:00+00:00",
       "link": "https://techcrunch.com/2026/05/20/nanoclaw-creator-turns-down-20m-buyout-offer-raises-12m-seed-instead/"
@@ -59,7 +115,7 @@ const FEED_DATA = {
     },
     {
       "title": "Figma adds an AI assistant to its collaborative canvas",
-      "summary": "Figma's new AI assistant will be first available on Figma Design",
+      "summary": "Figma says users can employ natural language text prompts to direct its new AI agent to generate new designs, edit existing ones, or automate tasks such as generating iterations of existing designs.",
       "source": "TechCrunch",
       "published": "2026-05-20T13:00:00+00:00",
       "link": "https://techcrunch.com/2026/05/20/figma-adds-an-ai-assistant-to-its-collaborative-canvas/"
@@ -94,7 +150,7 @@ const FEED_DATA = {
     },
     {
       "title": "Google's AI is being manipulated. The search giant is quietly fighting back",
-      "summary": "Article URL: https://www.bbc.com/future/article/20260519-google-tackles-attempts-to-hack-its-ai-results Comments URL: https://news.ycombinator.com/item?id=48205782 Points: 108 # Comments: 61",
+      "summary": "Article URL: https://www.bbc.com/future/article/20260519-google-tackles-attempts-to-hack-its-ai-results Comments URL: https://news.ycombinator.com/item?id=48205782 Points: 184 # Comments: 132",
       "source": "Hacker News",
       "published": "2026-05-20T10:57:09+00:00",
       "link": "https://www.bbc.com/future/article/20260519-google-tackles-attempts-to-hack-its-ai-results"
@@ -108,7 +164,7 @@ const FEED_DATA = {
     },
     {
       "title": "Learnings from 100K lines of Rust with AI (2025)",
-      "summary": "Article URL: https://zfhuang99.github.io/rust/claude%20code/codex/contracts/spec-driven%20development/2025/12/01/rust-with-ai.html Comments URL: https://news.ycombinator.com/item?id=48205415 Points: 107 # Comments: 106",
+      "summary": "Article URL: https://zfhuang99.github.io/rust/claude%20code/codex/contracts/spec-driven%20development/2025/12/01/rust-with-ai.html Comments URL: https://news.ycombinator.com/item?id=48205415 Points: 118 # Comments: 115",
       "source": "Hacker News",
       "published": "2026-05-20T10:04:28+00:00",
       "link": "https://zfhuang99.github.io/rust/claude%20code/codex/contracts/spec-driven%20development/2025/12/01/rust-with-ai.html"
@@ -121,6 +177,13 @@ const FEED_DATA = {
       "link": "https://www.artificialintelligence-news.com/news/alibaba-zhenwu-m890-ai-agent-chip-roadmap/"
     },
     {
+      "title": "Public have more fear than hope on AI and future of work, study finds",
+      "summary": "Article URL: https://www.kcl.ac.uk/news/one-in-five-britons-think-ai-will-create-civil-unrest-study-finds Comments URL: https://news.ycombinator.com/item?id=48205143 Points: 50 # Comments: 32",
+      "source": "Hacker News",
+      "published": "2026-05-20T09:26:39+00:00",
+      "link": "https://www.kcl.ac.uk/news/one-in-five-britons-think-ai-will-create-civil-unrest-study-finds"
+    },
+    {
       "title": "Literary Prizewinners Are Facing AI Allegations. It Feels Like the New Normal",
       "summary": "Three of five regional winners of the prestigious Commonwealth Short Story Prize are suspected of relying on chatbots. They’re certainly not alone.",
       "source": "Wired",
@@ -129,7 +192,7 @@ const FEED_DATA = {
     },
     {
       "title": "Remove-AI-Watermarks – CLI and library for removing AI watermarks from images",
-      "summary": "Article URL: https://github.com/wiltodelta/remove-ai-watermarks Comments URL: https://news.ycombinator.com/item?id=48200569 Points: 354 # Comments: 220",
+      "summary": "Article URL: https://github.com/wiltodelta/remove-ai-watermarks Comments URL: https://news.ycombinator.com/item?id=48200569 Points: 368 # Comments: 232",
       "source": "Hacker News",
       "published": "2026-05-19T22:30:31+00:00",
       "link": "https://github.com/wiltodelta/remove-ai-watermarks"
@@ -199,7 +262,7 @@ const FEED_DATA = {
     },
     {
       "title": "OpenAI Adopts Google's SynthID Watermark for AI Images with Verification Tool",
-      "summary": "Article URL: https://openai.com/index/advancing-content-provenance/ Comments URL: https://news.ycombinator.com/item?id=48198291 Points: 321 # Comments: 174",
+      "summary": "Article URL: https://openai.com/index/advancing-content-provenance/ Comments URL: https://news.ycombinator.com/item?id=48198291 Points: 323 # Comments: 174",
       "source": "Hacker News",
       "published": "2026-05-19T19:34:30+00:00",
       "link": "https://openai.com/index/advancing-content-provenance/"
@@ -227,7 +290,7 @@ const FEED_DATA = {
     },
     {
       "title": "Mistral AI acquires Emmi AI",
-      "summary": "Article URL: https://www.emmi.ai/news/mistral-ai-acquires-emmi-ai Comments URL: https://news.ycombinator.com/item?id=48197995 Points: 315 # Comments: 92",
+      "summary": "Article URL: https://www.emmi.ai/news/mistral-ai-acquires-emmi-ai Comments URL: https://news.ycombinator.com/item?id=48197995 Points: 323 # Comments: 92",
       "source": "Hacker News",
       "published": "2026-05-19T19:14:12+00:00",
       "link": "https://www.emmi.ai/news/mistral-ai-acquires-emmi-ai"
@@ -324,13 +387,6 @@ const FEED_DATA = {
       "link": "https://techcrunch.com/2026/05/19/openai-is-making-it-easier-to-check-if-an-image-was-made-by-their-models/"
     },
     {
-      "title": "Agentic app coding gets an upgrade with Google’s release of Android CLI",
-      "summary": "Google is embracing the rise of AI coding agents with new Android tools designed to work with platforms like Claude Code and OpenAI’s Codex, allowing developers — or their AI assistants — to build Android apps faster from the command line.",
-      "source": "TechCrunch",
-      "published": "2026-05-19T17:45:00+00:00",
-      "link": "https://techcrunch.com/2026/05/19/agentic-app-coding-gets-an-upgrade-with-googles-release-of-android-cli/"
-    },
-    {
       "title": "Google’s AI Studio now lets anyone build Android apps in minutes",
       "summary": "Google unveiled new web-based AI tools that can generate native Android apps in minutes, as the company expands its push into AI-powered software development.",
       "source": "TechCrunch",
@@ -338,11 +394,11 @@ const FEED_DATA = {
       "link": "https://techcrunch.com/2026/05/19/googles-ai-studio-now-lets-anyone-build-android-apps-in-minutes/"
     },
     {
-      "title": "Google updates its Gemini app to take on ChatGPT and Claude at IO 2026",
-      "summary": "The updates signal Google’s push to turn its Gemini app into an all-purpose AI hub rather than a stand-alone chatbot.",
+      "title": "Agentic app coding gets an upgrade with Google’s release of Android CLI",
+      "summary": "Google is embracing the rise of AI coding agents with new Android tools designed to work with platforms like Claude Code and OpenAI’s Codex, allowing developers — or their AI assistants — to build Android apps faster from the command line.",
       "source": "TechCrunch",
       "published": "2026-05-19T17:45:00+00:00",
-      "link": "https://techcrunch.com/2026/05/19/google-updates-its-gemini-app-to-take-on-chatgpt-and-claude-at-io-2026/"
+      "link": "https://techcrunch.com/2026/05/19/agentic-app-coding-gets-an-upgrade-with-googles-release-of-android-cli/"
     },
     {
       "title": "Google’s new Universal Cart wants to follow your entire shopping journey across the internet",
@@ -352,11 +408,11 @@ const FEED_DATA = {
       "link": "https://techcrunch.com/2026/05/19/googles-new-universal-cart-wants-to-follow-your-entire-shopping-journey-across-the-internet/"
     },
     {
-      "title": "Google launches Antigravity 2.0 with an updated desktop app and CLI tool at IO 2026",
-      "summary": "Google is debuting a new AI Ultra plan priced at $100, which will give users 5x more usage limit than the AI Pro plan alongside the Antigravity 2.0 launch.",
+      "title": "Google introduces Gemini Spark, a 24/7 agentic assistant with Gmail integration, at IO 2026",
+      "summary": "At the Google I/O developer conference, the company announced a new agentic personal assistant called Gemini Spark, built from Gemini's base models and an agentic harness from Google Antigravity.",
       "source": "TechCrunch",
       "published": "2026-05-19T17:45:00+00:00",
-      "link": "https://techcrunch.com/2026/05/19/google-launches-antigravity-2-0-with-an-updated-desktop-app-and-cli-tool-at-io-2026/"
+      "link": "https://techcrunch.com/2026/05/19/google-introduces-gemini-spark-a-24-7-agentic-assistant-with-gmail-integration/"
     },
     {
       "title": "Demis Hassabis Thinks AI Job Cuts Are Dumb",
@@ -387,11 +443,18 @@ const FEED_DATA = {
       "link": "https://www.wired.com/story/googles-response-to-openclaws-24-7-ai-agent/"
     },
     {
-      "title": "Google introduces Gemini Spark, a 24/7 agentic assistant with Gmail integration, at IO 2026",
-      "summary": "At the Google I/O developer conference, the company announced a new agentic personal assistant called Gemini Spark, built from Gemini's base models and an agentic harness from Google Antigravity.",
+      "title": "Google updates its Gemini app to take on ChatGPT and Claude at IO 2026",
+      "summary": "The updates signal Google’s push to turn its Gemini app into an all-purpose AI hub rather than a stand-alone chatbot.",
       "source": "TechCrunch",
       "published": "2026-05-19T17:45:00+00:00",
-      "link": "https://techcrunch.com/2026/05/19/google-introduces-gemini-spark-a-24-7-agentic-assistant-with-gmail-integration/"
+      "link": "https://techcrunch.com/2026/05/19/google-updates-its-gemini-app-to-take-on-chatgpt-and-claude-at-io-2026/"
+    },
+    {
+      "title": "Google launches Antigravity 2.0 with an updated desktop app and CLI tool at IO 2026",
+      "summary": "Google is debuting a new AI Ultra plan priced at $100, which will give users 5x more usage limit than the AI Pro plan alongside the Antigravity 2.0 launch.",
+      "source": "TechCrunch",
+      "published": "2026-05-19T17:45:00+00:00",
+      "link": "https://techcrunch.com/2026/05/19/google-launches-antigravity-2-0-with-an-updated-desktop-app-and-cli-tool-at-io-2026/"
     },
     {
       "title": "Google adds voice-based prompting to Docs and Keep",
@@ -493,14 +556,14 @@ const FEED_DATA = {
     },
     {
       "title": "Graduates are booing pep talks on AI at college commencements",
-      "summary": "Article URL: https://apnews.com/article/ai-college-commencement-anxiety-boo-35aec9bac660eaeb05c5b8d392db2cac Comments URL: https://news.ycombinator.com/item?id=48196546 Points: 119 # Comments: 182",
+      "summary": "Article URL: https://apnews.com/article/ai-college-commencement-anxiety-boo-35aec9bac660eaeb05c5b8d392db2cac Comments URL: https://news.ycombinator.com/item?id=48196546 Points: 119 # Comments: 186",
       "source": "Hacker News",
       "published": "2026-05-19T17:42:11+00:00",
       "link": "https://apnews.com/article/ai-college-commencement-anxiety-boo-35aec9bac660eaeb05c5b8d392db2cac"
     },
     {
       "title": "AI is too expensive",
-      "summary": "Article URL: https://www.wheresyoured.at/ai-is-too-expensive/ Comments URL: https://news.ycombinator.com/item?id=48195100 Points: 140 # Comments: 144",
+      "summary": "Article URL: https://www.wheresyoured.at/ai-is-too-expensive/ Comments URL: https://news.ycombinator.com/item?id=48195100 Points: 141 # Comments: 144",
       "source": "Hacker News",
       "published": "2026-05-19T15:59:03+00:00",
       "link": "https://www.wheresyoured.at/ai-is-too-expensive/"
@@ -528,7 +591,7 @@ const FEED_DATA = {
     },
     {
       "title": "Going full AI engineer, not touching code anymore",
-      "summary": "Article URL: https://max.gp/writing/going-full-ai-engineer-not-touching-code-anymore/ Comments URL: https://news.ycombinator.com/item?id=48193524 Points: 55 # Comments: 116",
+      "summary": "Article URL: https://max.gp/writing/going-full-ai-engineer-not-touching-code-anymore/ Comments URL: https://news.ycombinator.com/item?id=48193524 Points: 55 # Comments: 117",
       "source": "Hacker News",
       "published": "2026-05-19T14:08:53+00:00",
       "link": "https://max.gp/writing/going-full-ai-engineer-not-touching-code-anymore/"
@@ -731,7 +794,7 @@ const FEED_DATA = {
     },
     {
       "title": "We stopped AI bot spam in our GitHub repo using Git's –author flag",
-      "summary": "Article URL: https://archestra.ai/blog/only-responsible-ai Comments URL: https://news.ycombinator.com/item?id=48181125 Points: 494 # Comments: 235",
+      "summary": "Article URL: https://archestra.ai/blog/only-responsible-ai Comments URL: https://news.ycombinator.com/item?id=48181125 Points: 494 # Comments: 236",
       "source": "Hacker News",
       "published": "2026-05-18T15:24:19+00:00",
       "link": "https://archestra.ai/blog/only-responsible-ai"
@@ -766,7 +829,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI eats the world (Spring 26) [pdf]",
-      "summary": "Article URL: https://static1.squarespace.com/static/50363cf324ac8e905e7df861/t/6a0af5d0484fbf5fe9a7743e/1779103184855/2026-Spring-AI.pdf Comments URL: https://news.ycombinator.com/item?id=48179021 Points: 299 # Comments: 170",
+      "summary": "Article URL: https://static1.squarespace.com/static/50363cf324ac8e905e7df861/t/6a0af5d0484fbf5fe9a7743e/1779103184855/2026-Spring-AI.pdf Comments URL: https://news.ycombinator.com/item?id=48179021 Points: 300 # Comments: 171",
       "source": "Hacker News",
       "published": "2026-05-18T12:49:28+00:00",
       "link": "https://static1.squarespace.com/static/50363cf324ac8e905e7df861/t/6a0af5d0484fbf5fe9a7743e/1779103184855/2026-Spring-AI.pdf"
@@ -1337,69 +1400,6 @@ const FEED_DATA = {
       "source": "MIT Tech Review",
       "published": "2026-05-15T12:10:00+00:00",
       "link": "https://www.technologyreview.com/2026/05/15/1137341/the-download-china-short-drama-ai-who-health-targets/"
-    },
-    {
-      "title": "AI research papers are getting better, and it’s a big problem for scientists",
-      "summary": "Last summer, Peter Degen's postdoctoral supervisor came to him with an unusual problem: One of his papers was being cited too much. Citations are the currency of academia, but there was something unusual about these.",
-      "source": "The Verge",
-      "published": "2026-05-15T11:00:00+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/930522/ai-research-papers-slop-peer-review-problem"
-    },
-    {
-      "title": "Anthropic frames AI competition with China as a now-or-never moment for Washington",
-      "summary": "In a policy paper, Anthropic lays out two scenarios for 2028: either the US locks in its compute lead over China, or authoritarian regimes set the rules for the AI era. The timing is no coincidence.",
-      "source": "The Decoder",
-      "published": "2026-05-15T10:05:51+00:00",
-      "link": "https://the-decoder.com/anthropic-frames-ai-competition-with-china-as-a-now-or-never-moment-for-washington/"
-    },
-    {
-      "title": "Overseas fakers using AI videos to push a narrative of UK decline, BBC finds",
-      "summary": "Article URL: https://www.bbc.co.uk/news/articles/ckgpyn30dp3o Comments URL: https://news.ycombinator.com/item?id=48146656 Points: 58 # Comments: 47",
-      "source": "Hacker News",
-      "published": "2026-05-15T09:57:03+00:00",
-      "link": "https://www.bbc.co.uk/news/articles/ckgpyn30dp3o"
-    },
-    {
-      "title": "UK sovereign LLM inference",
-      "summary": "Article URL: https://relax.ai/docs Comments URL: https://news.ycombinator.com/item?id=48146424 Points: 107 # Comments: 113",
-      "source": "Hacker News",
-      "published": "2026-05-15T09:27:26+00:00",
-      "link": "https://relax.ai/docs"
-    },
-    {
-      "title": "Show HN: Find the best local LLM for your hardware, ranked by benchmarks",
-      "summary": "Article URL: https://github.com/Andyyyy64/whichllm Comments URL: https://news.ycombinator.com/item?id=48146369 Points: 283 # Comments: 68",
-      "source": "Hacker News",
-      "published": "2026-05-15T09:19:24+00:00",
-      "link": "https://github.com/Andyyyy64/whichllm"
-    },
-    {
-      "title": "Mira Murati Wants Her AI to ‘Keep Humans in the Loop’",
-      "summary": "The Thinking Machines Lab founder and former CTO of OpenAI tells WIRED she isn’t interested in automating people out of jobs. Instead, she’s building AI that can collaborate.",
-      "source": "Wired",
-      "published": "2026-05-15T09:00:00+00:00",
-      "link": "https://www.wired.com/story/mira-murati-humans-in-the-loop-ai-models-thinking-machines/"
-    },
-    {
-      "title": "How Chinese short dramas became AI content machines",
-      "summary": "In a dimly lit bedroom, a frightened young woman is thrown onto a bed by a tall, muscular man. He grabs her hand, and flame-like vines crawl across her body, fusing with her flesh.",
-      "source": "MIT Tech Review",
-      "published": "2026-05-15T09:00:00+00:00",
-      "link": "https://www.technologyreview.com/2026/05/15/1137326/chinese-short-dramas-ai/"
-    },
-    {
-      "title": "OpenAI makes its AI coding assistant Codex available on iOS and Android",
-      "summary": "OpenAI brings its AI coding assistant Codex to the ChatGPT app on iOS and Android. The article OpenAI makes its AI coding assistant Codex available on iOS and Android appeared first on The Decoder.",
-      "source": "The Decoder",
-      "published": "2026-05-15T08:39:26+00:00",
-      "link": "https://the-decoder.com/openai-makes-its-ai-coding-assistant-codex-available-on-ios-and-android/"
-    },
-    {
-      "title": "Show HN: GlycemicGPT – Open-source AI-powered diabetes management",
-      "summary": "I'm a Type 1 diabetic and software engineer. Last year I went months between endocrinologists with no clinician reviewing my data.",
-      "source": "Hacker News",
-      "published": "2026-05-15T04:48:23+00:00",
-      "link": "https://github.com/GlycemicGPT/GlycemicGPT"
     }
   ]
 };
