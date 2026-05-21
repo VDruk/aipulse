@@ -1,6 +1,139 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-05-21T11:58:54.714844+00:00",
+  "lastUpdated": "2026-05-21T16:16:17.314005+00:00",
   "items": [
+    {
+      "title": "OpenAI shifts the boundary of automated reasoning with a \"milestone in AI mathematics\" that experts are now unpacking",
+      "summary": "A reasoning model from OpenAI has disproved a conjecture by mathematician Paul Erdős on unit-distance geometry that stood open since 1946 - using tools from algebraic number theory that experts never expected in this context.",
+      "source": "The Decoder",
+      "published": "2026-05-21T16:11:50+00:00",
+      "link": "https://the-decoder.com/openai-shifts-the-boundary-of-automated-reasoning-with-a-milestone-in-ai-mathematics-that-experts-are-now-unpacking/"
+    },
+    {
+      "title": "Spotify is launching AI-generated remixes",
+      "summary": "Spotify and Universal Music Group (UMG) just announced a licensing deal that will allow users to prompt the creation of AI-generated remixes and covers for streaming songs. The tool will be a paid add-on for Premium subscribers.",
+      "source": "The Verge",
+      "published": "2026-05-21T15:54:03+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/935379/spotify-umg-ai-covers-remix"
+    },
+    {
+      "title": "I Cloned Myself With Gemini’s AI Avatar Tool. The Result Was Unnervingly Me",
+      "summary": "I used the Gemini app to generate lifelike videos featuring a digital clone of myself. Google sees this as the future of creation.",
+      "source": "Wired",
+      "published": "2026-05-21T15:48:24+00:00",
+      "link": "https://www.wired.com/story/i-cloned-myself-with-geminis-ai-avatar-tool-the-result-was-unnervingly-me/"
+    },
+    {
+      "title": "Spotify Studio’s AI agent creates a daily podcast just for you",
+      "summary": "Studio by Spotify Labs is a new standalone AI app that generates a daily briefing, podcasts, and playlists on your PC using chatbot prompts.",
+      "source": "The Verge",
+      "published": "2026-05-21T15:47:29+00:00",
+      "link": "https://www.theverge.com/entertainment/935390/spotify-studio-ai-app-personal-podcasts"
+    },
+    {
+      "title": "AI video is moving beyond clip slop",
+      "summary": "This is Lowpass by Janko Roettgers, a newsletter on the ever-evolving intersection of tech and entertainment, syndicated just for The Verge subscribers once a week. Hollywood is cooked - or so a growing number of people on social media would like you to believe.",
+      "source": "The Verge",
+      "published": "2026-05-21T15:30:00+00:00",
+      "link": "https://www.theverge.com/column/935310/ai-video-luma-hollywood"
+    },
+    {
+      "title": "Spotify adds AI-powered Q&A and briefing generation features to podcasts",
+      "summary": "Spotify will let you generate daily or weekly briefs based on your prompts",
+      "source": "TechCrunch",
+      "published": "2026-05-21T15:27:00+00:00",
+      "link": "https://techcrunch.com/2026/05/21/spotify-adds-ai-powered-qa-and-briefing-generation-features-to-podcasts/"
+    },
+    {
+      "title": "US Cyber Command races to deploy AI on top-secret networks",
+      "summary": "US Cyber Command has launched a task force to run AI models from OpenAI, Google, and others on the most classified Pentagon and NSA networks.",
+      "source": "The Decoder",
+      "published": "2026-05-21T15:20:44+00:00",
+      "link": "https://the-decoder.com/us-cyber-command-races-to-deploy-ai-on-top-secret-networks/"
+    },
+    {
+      "title": "Cohere open-sources its strongest model yet",
+      "summary": "The Canadian AI company Cohere is releasing its most powerful language model to date, Command A+, as open source under an Apache 2.0 license. The article Cohere open-sources its strongest model yet appeared first on The Decoder.",
+      "source": "The Decoder",
+      "published": "2026-05-21T15:17:35+00:00",
+      "link": "https://the-decoder.com/cohere-open-sources-its-strongest-model-yet/"
+    },
+    {
+      "title": "Anthropic is about to become the first profitable AI lab",
+      "summary": "Anthropic is approaching its first profitable quarter, the Wall Street Journal reports - with a projected operating profit of $559 million on $10.9 billion in Q2 revenue. Just last summer, the company didn't expect to turn a profit before 2028.",
+      "source": "The Decoder",
+      "published": "2026-05-21T15:15:30+00:00",
+      "link": "https://the-decoder.com/anthropic-is-about-to-become-the-first-profitable-ai-lab/"
+    },
+    {
+      "title": "OpenAI could file confidential IPO paperwork within days",
+      "summary": "OpenAI is also preparing an IPO, according to the Wall Street Journal, and could file confidential paperwork with the SEC within days. The article OpenAI could file confidential IPO paperwork within days appeared first on The Decoder.",
+      "source": "The Decoder",
+      "published": "2026-05-21T15:12:36+00:00",
+      "link": "https://the-decoder.com/openai-could-file-confidential-ipo-paperwork-within-days/"
+    },
+    {
+      "title": "SpaceX IPO filing shows billions in AI losses, a $2 trillion valuation target, and turbine spending that signals more data center conflicts ahead",
+      "summary": "SpaceX has filed for what could be the largest IPO ever, targeting a valuation of up to $2 trillion. The filing reveals xAI losses of $6.36 billion in 2025 and an Anthropic compute deal worth $15 billion per year.",
+      "source": "The Decoder",
+      "published": "2026-05-21T15:10:21+00:00",
+      "link": "https://the-decoder.com/spacex-ipo-filing-shows-billions-in-ai-losses-a-2-trillion-valuation-target-and-turbine-spending-that-signals-more-data-center-conflicts-ahead/"
+    },
+    {
+      "title": "SAP taps Mistral AI to help customers migrate legacy software",
+      "summary": "SAP uses Mistral AI models to simplify the migration to S/4HANA. The article SAP taps Mistral AI to help customers migrate legacy software appeared first on The Decoder.",
+      "source": "The Decoder",
+      "published": "2026-05-21T14:59:18+00:00",
+      "link": "https://the-decoder.com/sap-taps-mistral-ai-to-help-customers-migrate-legacy-software/"
+    },
+    {
+      "title": "Anthropic’s Code with Claude showed off coding’s future—whether you like it or not",
+      "summary": "The vibes were strong at Code with Claude, Anthropic’s two-day event for software developers in London that kicked off on May 19, the same day as Google’s I/O in Palo Alto.",
+      "source": "MIT Tech Review",
+      "published": "2026-05-21T14:30:45+00:00",
+      "link": "https://www.technologyreview.com/2026/05/21/1137735/anthropics-code-with-claude-showed-off-codings-future-whether-you-like-it-or-not/"
+    },
+    {
+      "title": "Hark raises $700M Series A for its secretive “universal” AI interface",
+      "summary": "Brett Adcock's new AI startup is now valued at $6 billion by its investors.",
+      "source": "TechCrunch",
+      "published": "2026-05-21T14:00:00+00:00",
+      "link": "https://techcrunch.com/2026/05/21/hark-raises-700m-series-a-for-its-secretive-universal-ai-interface/"
+    },
+    {
+      "title": "The Path, founded by Tony Robbins and Calm alums, hopes to offer safer AI therapy",
+      "summary": "The Path says its AI model has scored 95 on the mental health safety AI benchmark, Vera-MH. This compares to a top score of 65 for the consumer bots.",
+      "source": "TechCrunch",
+      "published": "2026-05-21T14:00:00+00:00",
+      "link": "https://techcrunch.com/2026/05/21/the-path-founded-by-tony-robbins-and-calm-alums-wants-to-offer-safer-ai-therapy/"
+    },
+    {
+      "title": "Google is pitching an AI agent ecosystem to consumers who may not buy it",
+      "summary": "The AI agents are coming. A lot of them.",
+      "source": "TechCrunch",
+      "published": "2026-05-21T13:52:23+00:00",
+      "link": "https://techcrunch.com/2026/05/21/google-is-pitching-an-ai-agent-ecosystem-to-consumers-who-may-not-buy-it/"
+    },
+    {
+      "title": "With aluminum prices up 20%, recycling startups bet on AI to cash in",
+      "summary": "Recycling startups are using AI to improve the recovery of critical minerals like aluminum, aiming to build a massive source of the metal.",
+      "source": "TechCrunch",
+      "published": "2026-05-21T13:38:42+00:00",
+      "link": "https://techcrunch.com/2026/05/21/with-aluminum-prices-up-20-recycling-startups-bet-on-ai-to-cash-in/"
+    },
+    {
+      "title": "Anthropic is paying $15 billion a year for access to Elon Musk’s data centers",
+      "summary": "Earlier this month, SpaceX and Anthropic announced a new compute partnership that provides access to the rocket company's Colossus data centers in Memphis, TN.",
+      "source": "The Verge",
+      "published": "2026-05-21T13:35:52+00:00",
+      "link": "https://www.theverge.com/science/935229/spacex-anthropic-ipo-ai-capacity-deal-colossus"
+    },
+    {
+      "title": "The Download: online safety’s future and climate tech’s big pivot",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.",
+      "source": "MIT Tech Review",
+      "published": "2026-05-21T12:10:00+00:00",
+      "link": "https://www.technologyreview.com/2026/05/21/1137733/the-download-online-safety-climate-tech-pivot/"
+    },
     {
       "title": "Google officially announces that ads will be included in AI Mode search results",
       "summary": "Article URL: https://blog.google/products/ads-commerce/google-marketing-live-search-ads/ Comments URL: https://news.ycombinator.com/item?id=48220105 Points: 144 # Comments: 155",
@@ -28,6 +161,13 @@ const FEED_DATA = {
       "source": "AI News",
       "published": "2026-05-21T08:00:00+00:00",
       "link": "https://www.artificialintelligence-news.com/news/nvidia-vera-chip-200-billion-market/"
+    },
+    {
+      "title": "In SpaceX’s IPO, Elon Musk is the risk factor",
+      "summary": "The SpaceX IPO is here, and it's more than just an historic public offering that could make Elon Musk the world's first trillionaire.",
+      "source": "The Verge",
+      "published": "2026-05-21T03:42:45+00:00",
+      "link": "https://www.theverge.com/science/935102/spacex-ipo-elon-musk-tesla-cybertruck-xai-risk-factor"
     },
     {
       "title": "In SpaceX’s IPO, Elon Musk is a risk factor",
@@ -254,18 +394,18 @@ const FEED_DATA = {
       "link": "https://www.theverge.com/ai-artificial-intelligence/934478/if-google-cant-make-ai-agents-useful-maybe-no-one-can"
     },
     {
-      "title": "Figma adds an AI assistant to its collaborative canvas",
-      "summary": "Figma says users can employ natural language text prompts to direct its new AI agent to generate new designs, edit existing ones, or automate tasks such as generating iterations of existing designs.",
-      "source": "TechCrunch",
-      "published": "2026-05-20T13:00:00+00:00",
-      "link": "https://techcrunch.com/2026/05/20/figma-adds-an-ai-assistant-to-its-collaborative-canvas/"
-    },
-    {
       "title": "Green steel startup Boston Metal is doubling down on critical metals",
       "summary": "The startup Boston Metal has raised a $75 million funding round to produce critical metals, MIT Technology Review can exclusively report.",
       "source": "MIT Tech Review",
       "published": "2026-05-20T13:00:00+00:00",
       "link": "https://www.technologyreview.com/2026/05/20/1137523/boston-metal-funding-critical-metals/"
+    },
+    {
+      "title": "Figma adds an AI assistant to its collaborative canvas",
+      "summary": "Figma says users can employ natural language text prompts to direct its new AI agent to generate new designs, edit existing ones, or automate tasks such as generating iterations of existing designs.",
+      "source": "TechCrunch",
+      "published": "2026-05-20T13:00:00+00:00",
+      "link": "https://techcrunch.com/2026/05/20/figma-adds-an-ai-assistant-to-its-collaborative-canvas/"
     },
     {
       "title": "The Download: fully artificial chicken eggs and why Musk lost",
@@ -1260,146 +1400,6 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-05-16T15:33:33+00:00",
       "link": "https://techcrunch.com/2026/05/16/openai-co-founder-greg-brockman-reportedly-takes-charge-of-product-strategy/"
-    },
-    {
-      "title": "OpenAI co-founder Greg Brockman reportedly takes charge of product strategy",
-      "summary": "OpenAI's latest shakeup comes as the company reportedly plans to combine ChatGPT and its programming product Codex.",
-      "source": "TechCrunch",
-      "published": "2026-05-16T15:33:33+00:00",
-      "link": "https://techcrunch.com/2026/05/16/openai-co-founder-greg-brockman-reportedly-takes-charge-of-product-strategy/"
-    },
-    {
-      "title": "DeepSeek-V4-Flash means LLM steering is interesting again",
-      "summary": "Article URL: https://www.seangoedecke.com/steering-vectors/ Comments URL: https://news.ycombinator.com/item?id=48160807 Points: 272 # Comments: 75",
-      "source": "Hacker News",
-      "published": "2026-05-16T14:58:16+00:00",
-      "link": "https://www.seangoedecke.com/steering-vectors/"
-    },
-    {
-      "title": "New benchmark shows Claude Mythos and GPT-5.5 can develop real browser exploits autonomously",
-      "summary": "Researchers at Carnegie Mellon University built a new benchmark that measures how far AI agents can go when exploiting real vulnerabilities in Google's V8 engine. Mythos leads GPT-5.5 by a wide margin but costs twelve times as much.",
-      "source": "The Decoder",
-      "published": "2026-05-16T13:08:05+00:00",
-      "link": "https://the-decoder.com/new-benchmark-shows-claude-mythos-and-gpt-5-5-can-develop-real-browser-exploits-autonomously/"
-    },
-    {
-      "title": "YouTube opens its deepfake face-swap detection tool to all adult creators",
-      "summary": "YouTube is opening its Likeness Detection tool to all creators 18 and older. The system spots AI-generated face fakes in other users' videos and lets creators file removal requests directly through YouTube Studio.",
-      "source": "The Decoder",
-      "published": "2026-05-16T12:21:39+00:00",
-      "link": "https://the-decoder.com/youtube-opens-its-deepfake-face-swap-detection-tool-to-all-adult-creators/"
-    },
-    {
-      "title": "New benchmark confirms AI video generators look stunning but still can't reason about the world",
-      "summary": "A new benchmark called WorldReasonBench tests video generators not on image quality, but on physical and logical plausibility. ByteDance's Seedance 2.0 leads the field ahead of Veo 3.1 and Sora 2, with commercial models scoring roughly twice as high as open-source alternatives.",
-      "source": "The Decoder",
-      "published": "2026-05-16T10:55:47+00:00",
-      "link": "https://the-decoder.com/new-benchmark-confirms-ai-video-generators-look-stunning-but-still-cant-reason-about-the-world/"
-    },
-    {
-      "title": "OpenAI bought a voice cloning startup famous for celebrity imitations",
-      "summary": "OpenAI has acquired Weights.gg, a small startup that let users create and share AI voice clones of celebrities like Taylor Swift and Donald Trump. The team of around six now works at OpenAI, but the company doesn't plan to release a standalone cloning product.",
-      "source": "The Decoder",
-      "published": "2026-05-16T10:23:55+00:00",
-      "link": "https://the-decoder.com/openai-bought-a-voice-cloning-startup-famous-for-celebrity-imitations/"
-    },
-    {
-      "title": "For $1.3 million a month, OpenClaw founder Peter Steinberger runs 100 AI agents that code, review PRs, and find bugs",
-      "summary": "A three-person team led by Peter Steinberger keeps about 100 Codex instances running for the open-source project OpenClaw, driving OpenAI API spend to $1.3 million a month.",
-      "source": "The Decoder",
-      "published": "2026-05-16T09:55:19+00:00",
-      "link": "https://the-decoder.com/for-1-3-million-a-month-openclaw-founder-peter-steinberger-runs-100-ai-agents-that-code-review-prs-and-find-bugs/"
-    },
-    {
-      "title": "Some Asexuals Are Using AI Companions for Intimacy Without the Sex",
-      "summary": "“I’ve got one hand on the keyboard, one hand down below,” an artist who role-plays with their chatbot tells WIRED. But some asexual advocates aren’t thrilled about the association.",
-      "source": "Wired",
-      "published": "2026-05-16T09:30:00+00:00",
-      "link": "https://www.wired.com/story/some-asexual-people-are-using-ai-companions-for-intimacy-without-the-sex/"
-    },
-    {
-      "title": "AI made a tiny slice of Silicon Valley filthy rich and left the rest wondering why they bother",
-      "summary": "According to Menlo Ventures partner Deedy Das, about 10,000 people in Silicon Valley have amassed fortunes of over $20 million thanks to the AI boom at Anthropic, OpenAI, xAI, Meta, and Nvidia. Everyone else feels left behind.",
-      "source": "The Decoder",
-      "published": "2026-05-16T08:48:55+00:00",
-      "link": "https://the-decoder.com/ai-made-a-tiny-slice-of-silicon-valley-filthy-rich-and-left-the-rest-wondering-why-they-bother/"
-    },
-    {
-      "title": "Someone Shared a Real Monet Painting as AI and Asked for Critiques",
-      "summary": "Article URL: https://petapixel.com/2026/05/14/someone-shared-a-real-monet-painting-as-ai-and-asked-for-critiques/ Comments URL: https://news.ycombinator.com/item?id=48158110 Points: 56 # Comments: 68",
-      "source": "Hacker News",
-      "published": "2026-05-16T08:30:51+00:00",
-      "link": "https://petapixel.com/2026/05/14/someone-shared-a-real-monet-painting-as-ai-and-asked-for-critiques/"
-    },
-    {
-      "title": "Researchers train AI model that hits near-full performance with just 12.5 percent of its experts",
-      "summary": "Researchers at the Allen Institute for AI and UC Berkeley have built EMO, a mixture-of-experts model whose experts specialize in content domains instead of word types.",
-      "source": "The Decoder",
-      "published": "2026-05-16T07:55:11+00:00",
-      "link": "https://the-decoder.com/researchers-train-ai-model-that-hits-near-full-performance-with-just-12-5-percent-of-its-experts/"
-    },
-    {
-      "title": "Frontier AI has broken the open CTF format",
-      "summary": "Article URL: https://kabir.au/blog/the-ctf-scene-is-dead Comments URL: https://news.ycombinator.com/item?id=48157559 Points: 412 # Comments: 443",
-      "source": "Hacker News",
-      "published": "2026-05-16T07:01:55+00:00",
-      "link": "https://kabir.au/blog/the-ctf-scene-is-dead"
-    },
-    {
-      "title": "Google says GEO and AEO are a myth and traditional SEO is all you need for AI search",
-      "summary": "Google says the SEO industry's favorite new buzzwords, \"generative engine optimization\" and \"answer engine optimization,\" are just regular SEO by another name.",
-      "source": "The Decoder",
-      "published": "2026-05-16T06:00:56+00:00",
-      "link": "https://the-decoder.com/google-says-geo-and-aeo-are-a-myth-and-traditional-seo-is-all-you-need-for-ai-search/"
-    },
-    {
-      "title": "Musk v. Altman week 3: Elon Musk and Sam Altman traded blows over each other’s credibility. Now the jury will pick a side.",
-      "summary": "Update: On Monday May 18, the jury sided with OpenAI, delivering an advisory verdict finding that Musk’s claims are barred by the statute of limitations. US District Judge Yvonne Gonzalez Rogers accepted the verdict.",
-      "source": "MIT Tech Review",
-      "published": "2026-05-15T23:39:35+00:00",
-      "link": "https://www.technologyreview.com/2026/05/15/1137357/musk-v-altman-week-3/"
-    },
-    {
-      "title": "Musk v. Altman week 3: Musk and Altman traded blows over each other’s credibility. Now the jury will pick a side.",
-      "summary": "In the final week of the Musk v. Altman trial, lawyers traded blows over Elon Musk’s and OpenAI CEO Sam Altman’s credibility.",
-      "source": "MIT Tech Review",
-      "published": "2026-05-15T23:39:35+00:00",
-      "link": "https://www.technologyreview.com/2026/05/15/1137357/musk-v-altman-week-3/"
-    },
-    {
-      "title": "YouTube is expanding its AI deepfake detection tool to all adult users",
-      "summary": "YouTube is expanding its AI likeness detection program to all users over the age of 18 - meaning just about anyone can have the platform hunt for potential deepfakes of themselves.",
-      "source": "The Verge",
-      "published": "2026-05-15T22:25:00+00:00",
-      "link": "https://www.theverge.com/news/931884/youtube-likeness-detection-ai-deepfake-expansion-all-adults"
-    },
-    {
-      "title": "ArXiv will ban researchers who upload papers full of AI slop",
-      "summary": "ArXiv, a popular platform for preprint academic research, is taking a new step to attempt to reduce the volume of papers that include AI slop.",
-      "source": "The Verge",
-      "published": "2026-05-15T20:38:19+00:00",
-      "link": "https://www.theverge.com/science/931766/arxiv-ai-slop-ban-researchers"
-    },
-    {
-      "title": "I believe there are entire companies right now under AI psychosis",
-      "summary": "https://xcancel.com/mitchellh/status/2055380239711457578https://hachyderm.io/@mitchellh/116580433508108130 Comments URL: https://news.ycombinator.com/item?id=48153379 Points: 2082 # Comments: 1238",
-      "source": "Hacker News",
-      "published": "2026-05-15T20:26:47+00:00",
-      "link": "https://twitter.com/mitchellh/status/2055380239711457578"
-    },
-    {
-      "title": "Mitchellh – I strongly believe there are entire companies now under AI psychosis",
-      "summary": "Article URL: https://twitter.com/mitchellh/status/2055380239711457578 Comments URL: https://news.ycombinator.com/item?id=48153379 Points: 261 # Comments: 83",
-      "source": "Hacker News",
-      "published": "2026-05-15T20:26:47+00:00",
-      "link": "https://twitter.com/mitchellh/status/2055380239711457578"
-    },
-    {
-      "title": "The OpenAI trial wraps up, and the Musk founder machine keeps spinning",
-      "summary": "The Musk v. Altman trial came to a close this week, and the final arguments kept circling back to one question: can we trust the people in charge of AI?",
-      "source": "TechCrunch",
-      "published": "2026-05-15T19:24:16+00:00",
-      "link": "https://techcrunch.com/podcast/the-openai-trial-wraps-up-and-the-musk-founder-machine-keeps-spinning/"
     }
   ]
 };
