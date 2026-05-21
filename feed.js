@@ -1,6 +1,69 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-05-20T22:19:47.276529+00:00",
+  "lastUpdated": "2026-05-21T05:08:20.198117+00:00",
   "items": [
+    {
+      "title": "In SpaceX’s IPO, Elon Musk is a risk factor",
+      "summary": "The SpaceX IPO is here, and it's more than just an historic public offering that could make Elon Musk the world's first trillionaire.",
+      "source": "The Verge",
+      "published": "2026-05-21T03:42:45+00:00",
+      "link": "https://www.theverge.com/science/935102/spacex-ipo-elon-musk-tesla-cybertruck-xai-risk-factor"
+    },
+    {
+      "title": "SpaceX Listed Grok’s ‘Spicy’ Mode as a Risk in Its IPO Filing",
+      "summary": "The rocket company has set aside more than $500 million for potential litigation losses, in part to account for complaints alleging that Grok created sexualized images.",
+      "source": "Wired",
+      "published": "2026-05-21T00:43:13+00:00",
+      "link": "https://www.wired.com/story/spacex-ipo-grok-spicy-mode-risks/"
+    },
+    {
+      "title": "Intuit to lay off over 3k employees to refocus on AI",
+      "summary": "Article URL: https://techcrunch.com/2026/05/20/intuit-to-lay-off-over-3000-employees-to-refocus-on-ai/ Comments URL: https://news.ycombinator.com/item?id=48216278 Points: 121 # Comments: 68",
+      "source": "Hacker News",
+      "published": "2026-05-21T00:36:01+00:00",
+      "link": "https://techcrunch.com/2026/05/20/intuit-to-lay-off-over-3000-employees-to-refocus-on-ai/"
+    },
+    {
+      "title": "Jensen Huang says he’s found a ‘brand new’ $200B market for Nvidia",
+      "summary": "The next big thing for Nvidia will be CPUs for AI agents, $200 billion worth, CEO Jensen Huang predicts.",
+      "source": "TechCrunch",
+      "published": "2026-05-21T00:28:31+00:00",
+      "link": "https://techcrunch.com/2026/05/20/jensen-huang-says-hes-found-a-brand-new-200b-market-for-nvidia/"
+    },
+    {
+      "title": "Anthropic says it’s about to have its first profitable quarter",
+      "summary": "Anthropic has told its investors that it will more than double revenue to around $10.9 billion in its second quarter.",
+      "source": "TechCrunch",
+      "published": "2026-05-21T00:21:21+00:00",
+      "link": "https://techcrunch.com/2026/05/20/anthropic-says-its-about-to-have-its-first-profitable-quarter/"
+    },
+    {
+      "title": "SpaceX Is Spending $2.8 Billion to Buy Gas Turbines for Its AI Data Centers",
+      "summary": "The investment comes as Elon Musk’s AI unit faces complaints about the carbon-emitting units and looks to become a big player in cloud computing.",
+      "source": "Wired",
+      "published": "2026-05-20T23:30:06+00:00",
+      "link": "https://www.wired.com/story/elon-musk-spacex-spending-gas-turbines-grok/"
+    },
+    {
+      "title": "Clouted wants to take the guesswork out of making short videos go viral",
+      "summary": "The video clipping startup raised a $7 million seed round led by Slow Ventures.",
+      "source": "TechCrunch",
+      "published": "2026-05-20T22:30:45+00:00",
+      "link": "https://techcrunch.com/2026/05/20/clouted-wants-to-take-the-guesswork-out-of-making-short-videos-go-viral/"
+    },
+    {
+      "title": "xAI burned $6.4B last year — SpaceX’s IPO filing shows why the spending is far from over",
+      "summary": "SpaceX's IPO filing reveals xAI lost $6.4 billion in 2025 while planning a massive Grok expansion — offering the first public look at Elon Musk's AI financials and more details about his ambitions.",
+      "source": "TechCrunch",
+      "published": "2026-05-20T22:26:08+00:00",
+      "link": "https://techcrunch.com/2026/05/20/xai-burned-6-4b-last-year-spacexs-ipo-filing-shows-why-the-spending-is-far-from-over/"
+    },
+    {
+      "title": "Nvidia posts another record quarter, reveals $43B of holdings in startups",
+      "summary": "Nvidia announced another record revenue figure after market close on Wednesday, but forecasted that revenue growth would slow in the following quarter.",
+      "source": "TechCrunch",
+      "published": "2026-05-20T22:03:51+00:00",
+      "link": "https://techcrunch.com/2026/05/20/nvidia-posts-another-record-quarter-reveals-43-billion-of-holdings-in-startups/"
+    },
     {
       "title": "Nvidia posts another record quarter, reveals $43 billion of holdings in startups",
       "summary": "Nvidia announced another record revenue figure after market close on Wednesday, but forecasted that revenue growth would slow in the following quarter.",
@@ -9,11 +72,25 @@ const FEED_DATA = {
       "link": "https://techcrunch.com/2026/05/20/nvidia-posts-another-record-quarter-reveals-43-billion-of-holdings-in-startups/"
     },
     {
+      "title": "Musk’s xAI is being sued over its data center generators — now it’s buying $2.8B more",
+      "summary": "Elon Musk's xAI said it will buy $2.8 billion worth of natural gas turbines over the next three years, according to SpaceX's IPO filing.",
+      "source": "TechCrunch",
+      "published": "2026-05-20T21:55:49+00:00",
+      "link": "https://techcrunch.com/2026/05/20/musks-xai-is-being-sued-over-its-data-center-generators-now-its-buying-2-8b-more/"
+    },
+    {
       "title": "Musk’s xAI is being sued over its data center generators. Now, it’s buying $2.8B more.",
       "summary": "Elon Muks's xAI said it will buy $2.8 billion worth of natural gas turbines over the next three years, according to SpaceX's IPO filing.",
       "source": "TechCrunch",
       "published": "2026-05-20T21:55:49+00:00",
       "link": "https://techcrunch.com/2026/05/20/musks-xai-is-being-sued-over-its-data-center-generators-now-its-buying-2-8b-more/"
+    },
+    {
+      "title": "Cloudflare CEO on how he chooses which employees to replace with AI",
+      "summary": "Article URL: https://www.wsj.com/opinion/how-i-choose-which-cloudflare-employees-to-replace-with-ai-40a197e5 Comments URL: https://news.ycombinator.com/item?id=48214617 Points: 54 # Comments: 27",
+      "source": "Hacker News",
+      "published": "2026-05-20T21:45:57+00:00",
+      "link": "https://www.wsj.com/opinion/how-i-choose-which-cloudflare-employees-to-replace-with-ai-40a197e5"
     },
     {
       "title": "Anthropic will pay xAI $1.25B per month for compute",
@@ -87,7 +164,7 @@ const FEED_DATA = {
     },
     {
       "title": "Formal Verification Gates for AI Coding Loops",
-      "summary": "Article URL: https://reubenbrooks.dev/blog/structural-backpressure-beats-smarter-agents/ Comments URL: https://news.ycombinator.com/item?id=48209323 Points: 89 # Comments: 20",
+      "summary": "Article URL: https://reubenbrooks.dev/blog/structural-backpressure-beats-smarter-agents/ Comments URL: https://news.ycombinator.com/item?id=48209323 Points: 115 # Comments: 30",
       "source": "Hacker News",
       "published": "2026-05-20T15:25:45+00:00",
       "link": "https://reubenbrooks.dev/blog/structural-backpressure-beats-smarter-agents/"
@@ -122,7 +199,7 @@ const FEED_DATA = {
     },
     {
       "title": "Testing distributed systems with AI agents",
-      "summary": "Article URL: https://github.com/shenli/distributed-system-testing Comments URL: https://news.ycombinator.com/item?id=48208685 Points: 70 # Comments: 10",
+      "summary": "Article URL: https://github.com/shenli/distributed-system-testing Comments URL: https://news.ycombinator.com/item?id=48208685 Points: 79 # Comments: 14",
       "source": "Hacker News",
       "published": "2026-05-20T14:40:42+00:00",
       "link": "https://github.com/shenli/distributed-system-testing"
@@ -185,7 +262,7 @@ const FEED_DATA = {
     },
     {
       "title": "Google's AI is being manipulated. The search giant is quietly fighting back",
-      "summary": "Article URL: https://www.bbc.com/future/article/20260519-google-tackles-attempts-to-hack-its-ai-results Comments URL: https://news.ycombinator.com/item?id=48205782 Points: 231 # Comments: 166",
+      "summary": "Article URL: https://www.bbc.com/future/article/20260519-google-tackles-attempts-to-hack-its-ai-results Comments URL: https://news.ycombinator.com/item?id=48205782 Points: 284 # Comments: 182",
       "source": "Hacker News",
       "published": "2026-05-20T10:57:09+00:00",
       "link": "https://www.bbc.com/future/article/20260519-google-tackles-attempts-to-hack-its-ai-results"
@@ -199,7 +276,7 @@ const FEED_DATA = {
     },
     {
       "title": "Learnings from 100K lines of Rust with AI (2025)",
-      "summary": "Article URL: https://zfhuang99.github.io/rust/claude%20code/codex/contracts/spec-driven%20development/2025/12/01/rust-with-ai.html Comments URL: https://news.ycombinator.com/item?id=48205415 Points: 125 # Comments: 130",
+      "summary": "Article URL: https://zfhuang99.github.io/rust/claude%20code/codex/contracts/spec-driven%20development/2025/12/01/rust-with-ai.html Comments URL: https://news.ycombinator.com/item?id=48205415 Points: 128 # Comments: 134",
       "source": "Hacker News",
       "published": "2026-05-20T10:04:28+00:00",
       "link": "https://zfhuang99.github.io/rust/claude%20code/codex/contracts/spec-driven%20development/2025/12/01/rust-with-ai.html"
@@ -213,7 +290,7 @@ const FEED_DATA = {
     },
     {
       "title": "Public have more fear than hope on AI and future of work, study finds",
-      "summary": "Article URL: https://www.kcl.ac.uk/news/one-in-five-britons-think-ai-will-create-civil-unrest-study-finds Comments URL: https://news.ycombinator.com/item?id=48205143 Points: 54 # Comments: 35",
+      "summary": "Article URL: https://www.kcl.ac.uk/news/one-in-five-britons-think-ai-will-create-civil-unrest-study-finds Comments URL: https://news.ycombinator.com/item?id=48205143 Points: 57 # Comments: 36",
       "source": "Hacker News",
       "published": "2026-05-20T09:26:39+00:00",
       "link": "https://www.kcl.ac.uk/news/one-in-five-britons-think-ai-will-create-civil-unrest-study-finds"
@@ -227,7 +304,7 @@ const FEED_DATA = {
     },
     {
       "title": "Remove-AI-Watermarks – CLI and library for removing AI watermarks from images",
-      "summary": "Article URL: https://github.com/wiltodelta/remove-ai-watermarks Comments URL: https://news.ycombinator.com/item?id=48200569 Points: 373 # Comments: 239",
+      "summary": "Article URL: https://github.com/wiltodelta/remove-ai-watermarks Comments URL: https://news.ycombinator.com/item?id=48200569 Points: 376 # Comments: 239",
       "source": "Hacker News",
       "published": "2026-05-19T22:30:31+00:00",
       "link": "https://github.com/wiltodelta/remove-ai-watermarks"
@@ -297,7 +374,7 @@ const FEED_DATA = {
     },
     {
       "title": "OpenAI Adopts Google's SynthID Watermark for AI Images with Verification Tool",
-      "summary": "Article URL: https://openai.com/index/advancing-content-provenance/ Comments URL: https://news.ycombinator.com/item?id=48198291 Points: 327 # Comments: 176",
+      "summary": "Article URL: https://openai.com/index/advancing-content-provenance/ Comments URL: https://news.ycombinator.com/item?id=48198291 Points: 327 # Comments: 178",
       "source": "Hacker News",
       "published": "2026-05-19T19:34:30+00:00",
       "link": "https://openai.com/index/advancing-content-provenance/"
@@ -325,7 +402,7 @@ const FEED_DATA = {
     },
     {
       "title": "Mistral AI acquires Emmi AI",
-      "summary": "Article URL: https://www.emmi.ai/news/mistral-ai-acquires-emmi-ai Comments URL: https://news.ycombinator.com/item?id=48197995 Points: 330 # Comments: 95",
+      "summary": "Article URL: https://www.emmi.ai/news/mistral-ai-acquires-emmi-ai Comments URL: https://news.ycombinator.com/item?id=48197995 Points: 332 # Comments: 95",
       "source": "Hacker News",
       "published": "2026-05-19T19:14:12+00:00",
       "link": "https://www.emmi.ai/news/mistral-ai-acquires-emmi-ai"
@@ -591,14 +668,21 @@ const FEED_DATA = {
     },
     {
       "title": "Graduates are booing pep talks on AI at college commencements",
-      "summary": "Article URL: https://apnews.com/article/ai-college-commencement-anxiety-boo-35aec9bac660eaeb05c5b8d392db2cac Comments URL: https://news.ycombinator.com/item?id=48196546 Points: 122 # Comments: 187",
+      "summary": "Article URL: https://apnews.com/article/ai-college-commencement-anxiety-boo-35aec9bac660eaeb05c5b8d392db2cac Comments URL: https://news.ycombinator.com/item?id=48196546 Points: 122 # Comments: 188",
       "source": "Hacker News",
       "published": "2026-05-19T17:42:11+00:00",
       "link": "https://apnews.com/article/ai-college-commencement-anxiety-boo-35aec9bac660eaeb05c5b8d392db2cac"
     },
     {
+      "title": "AI, \"Humanity\", and Dr. Manhattan Syndrome: A Communications Intervention",
+      "summary": "Article URL: https://www.personfamiliar.com/p/ai-humanity-and-dr-manhattan-syndrome Comments URL: https://news.ycombinator.com/item?id=48196303 Points: 50 # Comments: 16",
+      "source": "Hacker News",
+      "published": "2026-05-19T17:22:45+00:00",
+      "link": "https://www.personfamiliar.com/p/ai-humanity-and-dr-manhattan-syndrome"
+    },
+    {
       "title": "AI is too expensive",
-      "summary": "Article URL: https://www.wheresyoured.at/ai-is-too-expensive/ Comments URL: https://news.ycombinator.com/item?id=48195100 Points: 141 # Comments: 144",
+      "summary": "Article URL: https://www.wheresyoured.at/ai-is-too-expensive/ Comments URL: https://news.ycombinator.com/item?id=48195100 Points: 141 # Comments: 146",
       "source": "Hacker News",
       "published": "2026-05-19T15:59:03+00:00",
       "link": "https://www.wheresyoured.at/ai-is-too-expensive/"
@@ -696,7 +780,7 @@ const FEED_DATA = {
     },
     {
       "title": "The American Rebellion Against AI Is Gaining Steam",
-      "summary": "Article URL: https://www.wsj.com/tech/ai/the-american-rebellion-against-ai-is-gaining-steam-94b72529 Comments URL: https://news.ycombinator.com/item?id=48188310 Points: 126 # Comments: 126",
+      "summary": "Article URL: https://www.wsj.com/tech/ai/the-american-rebellion-against-ai-is-gaining-steam-94b72529 Comments URL: https://news.ycombinator.com/item?id=48188310 Points: 127 # Comments: 126",
       "source": "Hacker News",
       "published": "2026-05-19T01:51:48+00:00",
       "link": "https://www.wsj.com/tech/ai/the-american-rebellion-against-ai-is-gaining-steam-94b72529"
@@ -829,7 +913,7 @@ const FEED_DATA = {
     },
     {
       "title": "We stopped AI bot spam in our GitHub repo using Git's –author flag",
-      "summary": "Article URL: https://archestra.ai/blog/only-responsible-ai Comments URL: https://news.ycombinator.com/item?id=48181125 Points: 494 # Comments: 236",
+      "summary": "Article URL: https://archestra.ai/blog/only-responsible-ai Comments URL: https://news.ycombinator.com/item?id=48181125 Points: 495 # Comments: 236",
       "source": "Hacker News",
       "published": "2026-05-18T15:24:19+00:00",
       "link": "https://archestra.ai/blog/only-responsible-ai"
@@ -1316,90 +1400,6 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-05-15T17:43:49+00:00",
       "link": "https://the-decoder.com/chatgpt-now-wants-access-to-your-bank-account-so-it-can-tell-you-to-stop-ordering-takeout/"
-    },
-    {
-      "title": "Greg Brockman Officially Takes Control of OpenAI’s Products in Latest Shake-Up",
-      "summary": "OpenAI is once again reorganizing its executive ranks as part of its effort to unify ChatGPT and Codex into one core product experience.",
-      "source": "Wired",
-      "published": "2026-05-15T17:09:17+00:00",
-      "link": "https://www.wired.com/story/openai-reorg-greg-brockman-product/"
-    },
-    {
-      "title": "AI radio hosts demonstrate why AI can’t be trusted alone",
-      "summary": "Andon Labs has been running a series of experiments in which AI agents run businesses without human intervention. Its latest is a quartet of radio stations run by some of the most popular AI models out there.",
-      "source": "The Verge",
-      "published": "2026-05-15T17:09:16+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/931479/andon-labs-ai-radio-companies"
-    },
-    {
-      "title": "Anthropic's $900 billion valuation would make it more valuable than OpenAI for the first time",
-      "summary": "Anthropic is raising another $30 billion just three months after a round of the same size. The AI lab's valuation jumps to $900 billion, surpassing rival OpenAI for the first time.",
-      "source": "The Decoder",
-      "published": "2026-05-15T16:49:05+00:00",
-      "link": "https://the-decoder.com/anthropics-900-billion-valuation-would-make-it-more-valuable-than-openai-for-the-first-time/"
-    },
-    {
-      "title": "Google updates its spam rules to include attempts to ‘manipulate’ AI",
-      "summary": "Google updated its spam policy to mark attempts to \"manipulate\" its AI model in search results as spam, including results in AI Overview or AI Mode in Search, as Search Engine Land reports: \"In the context of Google Search, spam refers to techniques used to deceive users or...",
-      "source": "The Verge",
-      "published": "2026-05-15T16:42:59+00:00",
-      "link": "https://www.theverge.com/tech/931416/google-ai-search-spam-policy"
-    },
-    {
-      "title": "OpenAI launches ChatGPT for personal finance, will let you connect bank accounts",
-      "summary": "Once users connect their accounts, they will see a dashboard of their portfolio performance, spending, subscriptions, and upcoming payments.",
-      "source": "TechCrunch",
-      "published": "2026-05-15T16:00:00+00:00",
-      "link": "https://techcrunch.com/2026/05/15/openai-launches-chatgpt-for-personal-finance-will-let-you-connect-bank-accounts/"
-    },
-    {
-      "title": "OpenAI now wants ChatGPT to access your bank accounts",
-      "summary": "Your trust in AI is about to be put to the test: OpenAI will soon let you give the chatbot direct access to your bank accounts.",
-      "source": "The Verge",
-      "published": "2026-05-15T16:00:00+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/931122/openai-chatgpt-financial-accounts-plaid-connection"
-    },
-    {
-      "title": "Deloitte: Scale ‘autonomous intelligence’ for real growth",
-      "summary": "Enterprise leaders must progress past generative applications and scale “autonomous intelligence” to capture real growth.",
-      "source": "AI News",
-      "published": "2026-05-15T15:02:00+00:00",
-      "link": "https://www.artificialintelligence-news.com/news/deloitte-scale-autonomous-intelligence-for-real-growth/"
-    },
-    {
-      "title": "Runway started by helping filmmakers — now it wants to beat Google at AI",
-      "summary": "AI video-generation startup Runway is betting that video generation is the path to world models. And that being an AI outsider is an advantage, not a liability.",
-      "source": "TechCrunch",
-      "published": "2026-05-15T14:00:00+00:00",
-      "link": "https://techcrunch.com/2026/05/15/runway-started-by-helping-filmmakers-now-it-wants-to-beat-google-at-ai/"
-    },
-    {
-      "title": "Runway started by helping filmmakers. Now it wants to beat Google at AI.",
-      "summary": "AI video generation startup Runway is betting that video generation is the path to world models. And that being an AI outsider is an advantage, not a liability.",
-      "source": "TechCrunch",
-      "published": "2026-05-15T14:00:00+00:00",
-      "link": "https://techcrunch.com/2026/05/15/runway-started-by-helping-filmmakers-now-it-wants-to-beat-google-at-ai/"
-    },
-    {
-      "title": "x.AI plays catch-up with Grok Build, its first terminal-based coding agent",
-      "summary": "Elon Musk's AI company x.AI is jumping into the coding agent space with Grok Build, a new terminal-based tool. The article x.AI plays catch-up with Grok Build, its first terminal-based coding agent appeared first on The Decoder.",
-      "source": "The Decoder",
-      "published": "2026-05-15T13:58:14+00:00",
-      "link": "https://the-decoder.com/x-ai-plays-catch-up-with-grok-build-its-first-terminal-based-coding-agent/"
-    },
-    {
-      "title": "The Wonders of AI: We Are Retiring Our Bug Bounty Program",
-      "summary": "Article URL: https://turso.tech/blog/the-wonders-of-ai Comments URL: https://news.ycombinator.com/item?id=48148391 Points: 172 # Comments: 107",
-      "source": "Hacker News",
-      "published": "2026-05-15T13:33:15+00:00",
-      "link": "https://turso.tech/blog/the-wonders-of-ai"
-    },
-    {
-      "title": "Amazon workers under pressure to up their AI usage are making up tasks",
-      "summary": "Article URL: https://www.fastcompany.com/91541586/amazon-workers-pressured-to-up-ai-use-extraneous-tasks Comments URL: https://news.ycombinator.com/item?id=48148337 Points: 396 # Comments: 429",
-      "source": "Hacker News",
-      "published": "2026-05-15T13:28:55+00:00",
-      "link": "https://www.fastcompany.com/91541586/amazon-workers-pressured-to-up-ai-use-extraneous-tasks"
     }
   ]
 };
