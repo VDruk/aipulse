@@ -1,12 +1,75 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-05-21T18:56:32.869080+00:00",
+  "lastUpdated": "2026-05-21T22:14:07.866633+00:00",
   "items": [
+    {
+      "title": "Meta Is in Crisis, Google Search’s Makeover, and AI Gets Booed by Graduates",
+      "summary": "In this episode of Uncanny Valley, we unpack the mass layoffs at Meta, big announcements at Google I/O, and the latest backlash against AI.",
+      "source": "Wired",
+      "published": "2026-05-21T20:44:53+00:00",
+      "link": "https://www.wired.com/story/uncanny-valley-podcast-meta-in-crisis-google-search-makeover-ai-booed-by-graduates/"
+    },
+    {
+      "title": "Roundtables: Can AI Learn to Understand the World?",
+      "summary": "Listen to the session or watch below AI companies want to build systems that understand the external world and overcome the limitations of LLMs. Recent developments have brought world models to the forefront of the AI discussion.",
+      "source": "MIT Tech Review",
+      "published": "2026-05-21T20:41:05+00:00",
+      "link": "https://www.technologyreview.com/2026/05/21/1137756/roundtables-can-ai-learn-to-understand-the-world/"
+    },
+    {
+      "title": "All of the updates from Elon Musk and Sam Altman’s battle over OpenAI",
+      "summary": "Sam Altman and Elon Musk are facing off in a high-stakes trial that could alter the future of OpenAI and its most well-known product, ChatGPT.",
+      "source": "The Verge",
+      "published": "2026-05-21T20:15:18+00:00",
+      "link": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit"
+    },
+    {
+      "title": "In desperate times, graduates find hope in humiliating tech CEOs",
+      "summary": "University graduates are booing and heckling corporate executives who praise AI during their commencement ceremonies, and the only people who seem to be genuinely surprised by this are the executives themselves.",
+      "source": "The Verge",
+      "published": "2026-05-21T20:00:06+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/935602/graduates-boo-ai-ceos"
+    },
+    {
+      "title": "Spotify and Universal Music strike deal allowing fan-made AI covers and remixes",
+      "summary": "Spotify is partnering with Universal Music Group￼ to let Premium subscribers create AI-generated song covers and remixes, with participating artists receiving a share of the revenue.",
+      "source": "TechCrunch",
+      "published": "2026-05-21T19:45:00+00:00",
+      "link": "https://techcrunch.com/2026/05/21/spotify-and-universal-music-strike-deal-allowing-fan-made-ai-covers-and-remixes/"
+    },
+    {
+      "title": "Six search engines worth trying now that Google isn’t really Google anymore",
+      "summary": "Google is about to look really different, and if you're not a fan of the AI overview feature, then you're not going to like what's coming.",
+      "source": "TechCrunch",
+      "published": "2026-05-21T19:19:05+00:00",
+      "link": "https://techcrunch.com/2026/05/21/six-search-engines-worth-trying-now-that-google-isnt-really-google-anymore/"
+    },
+    {
+      "title": "Scaling creativity in the age of AI",
+      "summary": "Storytelling is core to humanity’s DNA, stemming from our impulse to express ideals, warnings, hopes, and experiences.",
+      "source": "MIT Tech Review",
+      "published": "2026-05-21T19:16:43+00:00",
+      "link": "https://www.technologyreview.com/2026/05/21/1137613/scaling-creativity-in-the-age-of-ai/"
+    },
+    {
+      "title": "Google checks websites for llms.txt in new agentic browsing audit",
+      "summary": "Google is testing how well websites handle AI agents through a new experimental category called \"Agentic Browsing\" in its Lighthouse analysis tool. The article Google checks websites for llms.txt in new agentic browsing audit appeared first on The Decoder.",
+      "source": "The Decoder",
+      "published": "2026-05-21T19:07:33+00:00",
+      "link": "https://the-decoder.com/google-tests-websites-for-llms-txt-and-agent-compatibility/"
+    },
     {
       "title": "Amazon, Facebook, FBI have access to a private intelligence-sharing network",
       "summary": "Article URL: https://prismreports.org/2026/05/20/seattle-shield-private-companies-surveillance/ Comments URL: https://news.ycombinator.com/item?id=48226588 Points: 172 # Comments: 51",
       "source": "Hacker News",
       "published": "2026-05-21T17:55:58+00:00",
       "link": "https://prismreports.org/2026/05/20/seattle-shield-private-companies-surveillance/"
+    },
+    {
+      "title": "Trump delays AI security executive order, saying language ‘could have been a blocker’",
+      "summary": "President Trump delayed signing an executive order that would have required pre-release government security reviews of AI models, citing dissatisfaction with the order's language.",
+      "source": "TechCrunch",
+      "published": "2026-05-21T17:30:45+00:00",
+      "link": "https://techcrunch.com/2026/05/21/trump-delays-ai-security-executive-order-i-dont-want-to-get-in-the-way-of-that-leading/"
     },
     {
       "title": "Trump delays AI security executive order: ‘I don’t want to get in the way of that leading’",
@@ -16,11 +79,25 @@ const FEED_DATA = {
       "link": "https://techcrunch.com/2026/05/21/trump-delays-ai-security-executive-order-i-dont-want-to-get-in-the-way-of-that-leading/"
     },
     {
+      "title": "This AI guitar pedal let me roll my own effects",
+      "summary": "I'm not sure anyone was really asking for an AI guitar pedal. But it was inevitable that someone would build one.",
+      "source": "The Verge",
+      "published": "2026-05-21T17:00:00+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/935219/polyend-endless-ai-guitar-effects-pedal"
+    },
+    {
       "title": "The Endless AI guitar pedal has potential",
       "summary": "I'm not sure anyone was really asking for an AI guitar pedal. But it was inevitable that someone would build one.",
       "source": "The Verge",
       "published": "2026-05-21T17:00:00+00:00",
       "link": "https://www.theverge.com/ai-artificial-intelligence/935219/polyend-endless-ai-guitar-effects-pedal"
+    },
+    {
+      "title": "The first AI proof worthy of math's top journal landed and it won't be the last",
+      "summary": "A reasoning model from OpenAI has disproved a conjecture by mathematician Paul Erdős on unit-distance geometry that stood open since 1946 - using tools from algebraic number theory that experts never expected in this context.",
+      "source": "The Decoder",
+      "published": "2026-05-21T16:11:50+00:00",
+      "link": "https://the-decoder.com/openai-shifts-the-boundary-of-automated-reasoning-with-a-milestone-in-ai-mathematics-that-experts-are-now-unpacking/"
     },
     {
       "title": "OpenAI shifts the boundary of automated reasoning with a \"milestone in AI mathematics\" that experts are now unpacking",
@@ -114,18 +191,18 @@ const FEED_DATA = {
       "link": "https://www.technologyreview.com/2026/05/21/1137735/anthropics-code-with-claude-showed-off-codings-future-whether-you-like-it-or-not/"
     },
     {
-      "title": "Hark raises $700M Series A for its secretive ‘universal’ AI interface",
-      "summary": "Hark expects to release its first multimodal models this summer, which it says will power a personal AI platform that works with existing products and services. The company expects to follow that with hardware devices built specifically for those systems.",
-      "source": "TechCrunch",
-      "published": "2026-05-21T14:00:00+00:00",
-      "link": "https://techcrunch.com/2026/05/21/hark-raises-700m-series-a-for-its-secretive-universal-ai-interface/"
-    },
-    {
       "title": "The Path, founded by Tony Robbins and Calm alums, hopes to offer safer AI therapy",
       "summary": "The Path says its AI model has scored 95 on the mental health safety AI benchmark, Vera-MH. This compares to a top score of 65 for the consumer bots.",
       "source": "TechCrunch",
       "published": "2026-05-21T14:00:00+00:00",
       "link": "https://techcrunch.com/2026/05/21/the-path-founded-by-tony-robbins-and-calm-alums-wants-to-offer-safer-ai-therapy/"
+    },
+    {
+      "title": "Hark raises $700M Series A for its secretive ‘universal’ AI interface",
+      "summary": "Hark expects to release its first multimodal models this summer, which it says will power a personal AI platform that works with existing products and services. The company expects to follow that with hardware devices built specifically for those systems.",
+      "source": "TechCrunch",
+      "published": "2026-05-21T14:00:00+00:00",
+      "link": "https://techcrunch.com/2026/05/21/hark-raises-700m-series-a-for-its-secretive-universal-ai-interface/"
     },
     {
       "title": "Google is pitching an AI agent ecosystem to consumers who may not buy it",
@@ -1059,13 +1136,6 @@ const FEED_DATA = {
       "link": "https://the-decoder.com/elon-musk-loses-his-134-billion-lawsuit-against-openai-after-jury-deliberates-for-just-two-hours/"
     },
     {
-      "title": "All of the updates from Elon Musk and Sam Altman’s battle over OpenAI",
-      "summary": "Sam Altman and Elon Musk are facing off in a high-stakes trial that could alter the future of OpenAI and its most well-known product, ChatGPT.",
-      "source": "The Verge",
-      "published": "2026-05-18T17:49:49+00:00",
-      "link": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit"
-    },
-    {
       "title": "Elon Musk Loses Landmark Lawsuit Against OpenAI",
       "summary": "The nine-member panel took only two hours to return a verdict in favor of OpenAI on Monday, which the judge quickly adopted as her own final decision.",
       "source": "Wired",
@@ -1330,76 +1400,6 @@ const FEED_DATA = {
       "source": "Hacker News",
       "published": "2026-05-17T15:31:08+00:00",
       "link": "https://www.washingtonpost.com/nation/2026/05/17/citys-ai-license-plate-cameras-led-an-uproar-state-emergency/"
-    },
-    {
-      "title": "World Action Models give robots the ability to simulate consequences before they move",
-      "summary": "World Action Models tackle a basic weakness of today's robotics AI: current models learn which movements match which camera images, but they don't understand how the world actually changes as a result.",
-      "source": "The Decoder",
-      "published": "2026-05-17T13:15:25+00:00",
-      "link": "https://the-decoder.com/world-action-models-give-robots-the-ability-to-simulate-consequences-before-they-move/"
-    },
-    {
-      "title": "AI is a technology not a product",
-      "summary": "Article URL: https://daringfireball.net/2026/05/ai_is_technology_not_a_product Comments URL: https://news.ycombinator.com/item?id=48168626 Points: 471 # Comments: 209",
-      "source": "Hacker News",
-      "published": "2026-05-17T13:11:20+00:00",
-      "link": "https://daringfireball.net/2026/05/ai_is_technology_not_a_product"
-    },
-    {
-      "title": "I don't think AI will make your processes go faster",
-      "summary": "Article URL: https://frederickvanbrabant.com/blog/2026-05-15-i-dont-think-ai-will-make-your-processes-go-faster/ Comments URL: https://news.ycombinator.com/item?id=48168221 Points: 657 # Comments: 443",
-      "source": "Hacker News",
-      "published": "2026-05-17T12:13:45+00:00",
-      "link": "https://frederickvanbrabant.com/blog/2026-05-15-i-dont-think-ai-will-make-your-processes-go-faster/"
-    },
-    {
-      "title": "Chatbots at the drive-thru are just the beginning",
-      "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more news about how AI is seeping into our daily lives, follow Emma Roth.",
-      "source": "The Verge",
-      "published": "2026-05-17T12:00:00+00:00",
-      "link": "https://www.theverge.com/column/928096/chatbots-ai-drive-thru-mcdonalds-wendys"
-    },
-    {
-      "title": "AI subscriptions are a ticking time bomb for enterprise",
-      "summary": "Article URL: https://www.thestateofbrand.com/news/ai-subscription-time-bomb Comments URL: https://news.ycombinator.com/item?id=48168056 Points: 409 # Comments: 395",
-      "source": "Hacker News",
-      "published": "2026-05-17T11:49:31+00:00",
-      "link": "https://www.thestateofbrand.com/news/ai-subscription-time-bomb"
-    },
-    {
-      "title": "Every AI Subscription Is a Ticking Time Bomb for Enterprise",
-      "summary": "Article URL: https://www.thestateofbrand.com/news/ai-subscription-time-bomb Comments URL: https://news.ycombinator.com/item?id=48168056 Points: 279 # Comments: 251",
-      "source": "Hacker News",
-      "published": "2026-05-17T11:49:31+00:00",
-      "link": "https://www.thestateofbrand.com/news/ai-subscription-time-bomb"
-    },
-    {
-      "title": "Greg Brockman consolidates OpenAI's product teams to build an \"agentic future\"",
-      "summary": "OpenAI is merging ChatGPT, its coding agent Codex, and the developer API into a single product team led by Codex boss Thibault Sottiaux. The goal: a \"super app\" that also integrates the Atlas browser.",
-      "source": "The Decoder",
-      "published": "2026-05-17T09:51:41+00:00",
-      "link": "https://the-decoder.com/greg-brockman-consolidates-openais-product-teams-to-build-an-agentic-future/"
-    },
-    {
-      "title": "Mistral CEO Arthur Mensch warns France against letting Anthropic's Mythos scan military code bases",
-      "summary": "Mistral CEO Arthur Mensch warns of Europe's growing cybersecurity dependency: France's military code bases should not be scanned by US AI models. Modern AI can orchestrate attacks and suggest exploits, including Mistral's own models.",
-      "source": "The Decoder",
-      "published": "2026-05-17T09:15:30+00:00",
-      "link": "https://the-decoder.com/mistral-ceo-arthur-mensch-warns-france-against-letting-anthropics-mythos-scan-military-code-bases/"
-    },
-    {
-      "title": "New math benchmark reveals AI models confidently solve problems that have no solution",
-      "summary": "A consortium of 64 mathematicians built SOOHAK, a new AI benchmark with 439 handwritten tasks, including 99 that are deliberately unsolvable. Google's Gemini 3 Pro leads on research-level problems at 30 percent.",
-      "source": "The Decoder",
-      "published": "2026-05-17T08:56:52+00:00",
-      "link": "https://the-decoder.com/new-math-benchmark-reveals-ai-models-confidently-solve-problems-that-have-no-solution/"
-    },
-    {
-      "title": "Four AI models ran radio stations for six months and the results ranged from competent to unhinged",
-      "summary": "Andon Labs has been letting four AI models each run their own radio station autonomously for six months.",
-      "source": "The Decoder",
-      "published": "2026-05-17T08:30:55+00:00",
-      "link": "https://the-decoder.com/four-ai-models-ran-radio-stations-for-six-months-and-the-results-ranged-from-competent-to-unhinged/"
     }
   ]
 };
