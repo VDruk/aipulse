@@ -1,6 +1,13 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-05-21T05:08:20.198117+00:00",
+  "lastUpdated": "2026-05-21T08:33:27.323906+00:00",
   "items": [
+    {
+      "title": "Nvidia’s Vera chip is the US$200 billion bet Jensen Huang doesn’t want you to overlook",
+      "summary": "The Nvidia Vera chip is rarely the headline when earnings beat estimates, but it should be.",
+      "source": "AI News",
+      "published": "2026-05-21T08:00:00+00:00",
+      "link": "https://www.artificialintelligence-news.com/news/nvidia-vera-chip-200-billion-market/"
+    },
     {
       "title": "In SpaceX’s IPO, Elon Musk is a risk factor",
       "summary": "The SpaceX IPO is here, and it's more than just an historic public offering that could make Elon Musk the world's first trillionaire.",
@@ -17,7 +24,7 @@ const FEED_DATA = {
     },
     {
       "title": "Intuit to lay off over 3k employees to refocus on AI",
-      "summary": "Article URL: https://techcrunch.com/2026/05/20/intuit-to-lay-off-over-3000-employees-to-refocus-on-ai/ Comments URL: https://news.ycombinator.com/item?id=48216278 Points: 121 # Comments: 68",
+      "summary": "Article URL: https://techcrunch.com/2026/05/20/intuit-to-lay-off-over-3000-employees-to-refocus-on-ai/ Comments URL: https://news.ycombinator.com/item?id=48216278 Points: 179 # Comments: 131",
       "source": "Hacker News",
       "published": "2026-05-21T00:36:01+00:00",
       "link": "https://techcrunch.com/2026/05/20/intuit-to-lay-off-over-3000-employees-to-refocus-on-ai/"
@@ -87,7 +94,7 @@ const FEED_DATA = {
     },
     {
       "title": "Cloudflare CEO on how he chooses which employees to replace with AI",
-      "summary": "Article URL: https://www.wsj.com/opinion/how-i-choose-which-cloudflare-employees-to-replace-with-ai-40a197e5 Comments URL: https://news.ycombinator.com/item?id=48214617 Points: 54 # Comments: 27",
+      "summary": "Article URL: https://www.wsj.com/opinion/how-i-choose-which-cloudflare-employees-to-replace-with-ai-40a197e5 Comments URL: https://news.ycombinator.com/item?id=48214617 Points: 67 # Comments: 29",
       "source": "Hacker News",
       "published": "2026-05-20T21:45:57+00:00",
       "link": "https://www.wsj.com/opinion/how-i-choose-which-cloudflare-employees-to-replace-with-ai-40a197e5"
@@ -164,7 +171,7 @@ const FEED_DATA = {
     },
     {
       "title": "Formal Verification Gates for AI Coding Loops",
-      "summary": "Article URL: https://reubenbrooks.dev/blog/structural-backpressure-beats-smarter-agents/ Comments URL: https://news.ycombinator.com/item?id=48209323 Points: 115 # Comments: 30",
+      "summary": "Article URL: https://reubenbrooks.dev/blog/structural-backpressure-beats-smarter-agents/ Comments URL: https://news.ycombinator.com/item?id=48209323 Points: 122 # Comments: 30",
       "source": "Hacker News",
       "published": "2026-05-20T15:25:45+00:00",
       "link": "https://reubenbrooks.dev/blog/structural-backpressure-beats-smarter-agents/"
@@ -199,7 +206,7 @@ const FEED_DATA = {
     },
     {
       "title": "Testing distributed systems with AI agents",
-      "summary": "Article URL: https://github.com/shenli/distributed-system-testing Comments URL: https://news.ycombinator.com/item?id=48208685 Points: 79 # Comments: 14",
+      "summary": "Article URL: https://github.com/shenli/distributed-system-testing Comments URL: https://news.ycombinator.com/item?id=48208685 Points: 86 # Comments: 15",
       "source": "Hacker News",
       "published": "2026-05-20T14:40:42+00:00",
       "link": "https://github.com/shenli/distributed-system-testing"
@@ -261,8 +268,8 @@ const FEED_DATA = {
       "link": "https://the-decoder.com/google-pairs-its-genie-world-model-with-street-view-to-create-explorable-ai-worlds-based-on-real-places/"
     },
     {
-      "title": "Google's AI is being manipulated. The search giant is quietly fighting back",
-      "summary": "Article URL: https://www.bbc.com/future/article/20260519-google-tackles-attempts-to-hack-its-ai-results Comments URL: https://news.ycombinator.com/item?id=48205782 Points: 284 # Comments: 182",
+      "title": "Google’s AI is being manipulated. The search giant is quietly fighting back",
+      "summary": "Article URL: https://www.bbc.com/future/article/20260519-google-tackles-attempts-to-hack-its-ai-results Comments URL: https://news.ycombinator.com/item?id=48205782 Points: 306 # Comments: 191",
       "source": "Hacker News",
       "published": "2026-05-20T10:57:09+00:00",
       "link": "https://www.bbc.com/future/article/20260519-google-tackles-attempts-to-hack-its-ai-results"
@@ -276,14 +283,14 @@ const FEED_DATA = {
     },
     {
       "title": "Learnings from 100K lines of Rust with AI (2025)",
-      "summary": "Article URL: https://zfhuang99.github.io/rust/claude%20code/codex/contracts/spec-driven%20development/2025/12/01/rust-with-ai.html Comments URL: https://news.ycombinator.com/item?id=48205415 Points: 128 # Comments: 134",
+      "summary": "Article URL: https://zfhuang99.github.io/rust/claude%20code/codex/contracts/spec-driven%20development/2025/12/01/rust-with-ai.html Comments URL: https://news.ycombinator.com/item?id=48205415 Points: 148 # Comments: 155",
       "source": "Hacker News",
       "published": "2026-05-20T10:04:28+00:00",
       "link": "https://zfhuang99.github.io/rust/claude%20code/codex/contracts/spec-driven%20development/2025/12/01/rust-with-ai.html"
     },
     {
       "title": "Alibaba is designing AI chips around agents, and that changes what the race is actually about",
-      "summary": "Alibaba has unveiled a new AI processor built specifically for AI agents, pairing the chip announcement with a multi-year silicon roadmap and a new large language model, signalling that the company is building an integrated AI stack, not just filling a gap left by US export...",
+      "summary": "Alibaba has unveiled a new AI processor built specifically for AI agents, pairing the chip announcement with a multi-year silicon roadmap and a new large language model, signalling that the company is building an integrated AI stack rather than just filling a gap left by US...",
       "source": "AI News",
       "published": "2026-05-20T10:00:00+00:00",
       "link": "https://www.artificialintelligence-news.com/news/alibaba-zhenwu-m890-ai-agent-chip-roadmap/"
@@ -304,7 +311,7 @@ const FEED_DATA = {
     },
     {
       "title": "Remove-AI-Watermarks – CLI and library for removing AI watermarks from images",
-      "summary": "Article URL: https://github.com/wiltodelta/remove-ai-watermarks Comments URL: https://news.ycombinator.com/item?id=48200569 Points: 376 # Comments: 239",
+      "summary": "Article URL: https://github.com/wiltodelta/remove-ai-watermarks Comments URL: https://news.ycombinator.com/item?id=48200569 Points: 378 # Comments: 252",
       "source": "Hacker News",
       "published": "2026-05-19T22:30:31+00:00",
       "link": "https://github.com/wiltodelta/remove-ai-watermarks"
@@ -374,7 +381,7 @@ const FEED_DATA = {
     },
     {
       "title": "OpenAI Adopts Google's SynthID Watermark for AI Images with Verification Tool",
-      "summary": "Article URL: https://openai.com/index/advancing-content-provenance/ Comments URL: https://news.ycombinator.com/item?id=48198291 Points: 327 # Comments: 178",
+      "summary": "Article URL: https://openai.com/index/advancing-content-provenance/ Comments URL: https://news.ycombinator.com/item?id=48198291 Points: 328 # Comments: 178",
       "source": "Hacker News",
       "published": "2026-05-19T19:34:30+00:00",
       "link": "https://openai.com/index/advancing-content-provenance/"
@@ -402,7 +409,7 @@ const FEED_DATA = {
     },
     {
       "title": "Mistral AI acquires Emmi AI",
-      "summary": "Article URL: https://www.emmi.ai/news/mistral-ai-acquires-emmi-ai Comments URL: https://news.ycombinator.com/item?id=48197995 Points: 332 # Comments: 95",
+      "summary": "Article URL: https://www.emmi.ai/news/mistral-ai-acquires-emmi-ai Comments URL: https://news.ycombinator.com/item?id=48197995 Points: 333 # Comments: 96",
       "source": "Hacker News",
       "published": "2026-05-19T19:14:12+00:00",
       "link": "https://www.emmi.ai/news/mistral-ai-acquires-emmi-ai"
@@ -682,7 +689,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI is too expensive",
-      "summary": "Article URL: https://www.wheresyoured.at/ai-is-too-expensive/ Comments URL: https://news.ycombinator.com/item?id=48195100 Points: 141 # Comments: 146",
+      "summary": "Article URL: https://www.wheresyoured.at/ai-is-too-expensive/ Comments URL: https://news.ycombinator.com/item?id=48195100 Points: 142 # Comments: 147",
       "source": "Hacker News",
       "published": "2026-05-19T15:59:03+00:00",
       "link": "https://www.wheresyoured.at/ai-is-too-expensive/"
@@ -1393,13 +1400,6 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-05-15T18:14:44+00:00",
       "link": "https://techcrunch.com/2026/05/15/silicon-valleys-vacationland-needs-a-new-energy-provider-just-as-ai-is-driving-prices-up/"
-    },
-    {
-      "title": "ChatGPT now wants access to your bank account so it can tell you to stop ordering takeout",
-      "summary": "OpenAI is turning ChatGPT into a personal financial assistant. Pro users in the US can now connect their bank accounts through Plaid to get personalized analysis based on real transaction data.",
-      "source": "The Decoder",
-      "published": "2026-05-15T17:43:49+00:00",
-      "link": "https://the-decoder.com/chatgpt-now-wants-access-to-your-bank-account-so-it-can-tell-you-to-stop-ordering-takeout/"
     }
   ]
 };
