@@ -1,6 +1,27 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-05-21T16:16:17.314005+00:00",
+  "lastUpdated": "2026-05-21T18:56:32.869080+00:00",
   "items": [
+    {
+      "title": "Amazon, Facebook, FBI have access to a private intelligence-sharing network",
+      "summary": "Article URL: https://prismreports.org/2026/05/20/seattle-shield-private-companies-surveillance/ Comments URL: https://news.ycombinator.com/item?id=48226588 Points: 172 # Comments: 51",
+      "source": "Hacker News",
+      "published": "2026-05-21T17:55:58+00:00",
+      "link": "https://prismreports.org/2026/05/20/seattle-shield-private-companies-surveillance/"
+    },
+    {
+      "title": "Trump delays AI security executive order: ‘I don’t want to get in the way of that leading’",
+      "summary": "President Trump delayed signing an executive order that would have required pre-release government security reviews of AI models, citing dissatisfaction with the order's language.",
+      "source": "TechCrunch",
+      "published": "2026-05-21T17:30:45+00:00",
+      "link": "https://techcrunch.com/2026/05/21/trump-delays-ai-security-executive-order-i-dont-want-to-get-in-the-way-of-that-leading/"
+    },
+    {
+      "title": "The Endless AI guitar pedal has potential",
+      "summary": "I'm not sure anyone was really asking for an AI guitar pedal. But it was inevitable that someone would build one.",
+      "source": "The Verge",
+      "published": "2026-05-21T17:00:00+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/935219/polyend-endless-ai-guitar-effects-pedal"
+    },
     {
       "title": "OpenAI shifts the boundary of automated reasoning with a \"milestone in AI mathematics\" that experts are now unpacking",
       "summary": "A reasoning model from OpenAI has disproved a conjecture by mathematician Paul Erdős on unit-distance geometry that stood open since 1946 - using tools from algebraic number theory that experts never expected in this context.",
@@ -93,8 +114,8 @@ const FEED_DATA = {
       "link": "https://www.technologyreview.com/2026/05/21/1137735/anthropics-code-with-claude-showed-off-codings-future-whether-you-like-it-or-not/"
     },
     {
-      "title": "Hark raises $700M Series A for its secretive “universal” AI interface",
-      "summary": "Brett Adcock's new AI startup is now valued at $6 billion by its investors.",
+      "title": "Hark raises $700M Series A for its secretive ‘universal’ AI interface",
+      "summary": "Hark expects to release its first multimodal models this summer, which it says will power a personal AI platform that works with existing products and services. The company expects to follow that with hardware devices built specifically for those systems.",
       "source": "TechCrunch",
       "published": "2026-05-21T14:00:00+00:00",
       "link": "https://techcrunch.com/2026/05/21/hark-raises-700m-series-a-for-its-secretive-universal-ai-interface/"
@@ -108,7 +129,7 @@ const FEED_DATA = {
     },
     {
       "title": "Google is pitching an AI agent ecosystem to consumers who may not buy it",
-      "summary": "The AI agents are coming. A lot of them.",
+      "summary": "One of the most promising introductions at Google’s I/O developer conference on Tuesday was a new way for consumers to use the web: AI agents. Unfortunately, it was also the most confusing.",
       "source": "TechCrunch",
       "published": "2026-05-21T13:52:23+00:00",
       "link": "https://techcrunch.com/2026/05/21/google-is-pitching-an-ai-agent-ecosystem-to-consumers-who-may-not-buy-it/"
@@ -119,6 +140,20 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-05-21T13:38:42+00:00",
       "link": "https://techcrunch.com/2026/05/21/with-aluminum-prices-up-20-recycling-startups-bet-on-ai-to-cash-in/"
+    },
+    {
+      "title": "AI is just unauthorised plagiarism at a bigger scale",
+      "summary": "Article URL: https://axelk.ee/ai-is-just-unauthorised-plagiarism-at-a-bigger-scale/ Comments URL: https://news.ycombinator.com/item?id=48222383 Points: 676 # Comments: 561",
+      "source": "Hacker News",
+      "published": "2026-05-21T13:38:12+00:00",
+      "link": "https://axelk.ee/ai-is-just-unauthorised-plagiarism-at-a-bigger-scale/"
+    },
+    {
+      "title": "Shunning AI is the human choice",
+      "summary": "Article URL: https://www.thehandbasket.co/p/hating-ai-is-good-actually Comments URL: https://news.ycombinator.com/item?id=48222366 Points: 327 # Comments: 474",
+      "source": "Hacker News",
+      "published": "2026-05-21T13:36:06+00:00",
+      "link": "https://www.thehandbasket.co/p/hating-ai-is-good-actually"
     },
     {
       "title": "Anthropic is paying $15 billion a year for access to Elon Musk’s data centers",
@@ -140,6 +175,13 @@ const FEED_DATA = {
       "source": "Hacker News",
       "published": "2026-05-21T09:49:46+00:00",
       "link": "https://blog.google/products/ads-commerce/google-marketing-live-search-ads/"
+    },
+    {
+      "title": "Stop throwing AI-generated walls of text into conversations",
+      "summary": "Article URL: https://noslopgrenade.com/ Comments URL: https://news.ycombinator.com/item?id=48219992 Points: 362 # Comments: 207",
+      "source": "Hacker News",
+      "published": "2026-05-21T09:31:15+00:00",
+      "link": "https://noslopgrenade.com/"
     },
     {
       "title": "Meta lays off thousands of employees to offset AI investments",
@@ -185,7 +227,7 @@ const FEED_DATA = {
     },
     {
       "title": "Intuit to lay off over 3k employees to refocus on AI",
-      "summary": "Article URL: https://techcrunch.com/2026/05/20/intuit-to-lay-off-over-3000-employees-to-refocus-on-ai/ Comments URL: https://news.ycombinator.com/item?id=48216278 Points: 206 # Comments: 152",
+      "summary": "Article URL: https://techcrunch.com/2026/05/20/intuit-to-lay-off-over-3000-employees-to-refocus-on-ai/ Comments URL: https://news.ycombinator.com/item?id=48216278 Points: 240 # Comments: 175",
       "source": "Hacker News",
       "published": "2026-05-21T00:36:01+00:00",
       "link": "https://techcrunch.com/2026/05/20/intuit-to-lay-off-over-3000-employees-to-refocus-on-ai/"
@@ -255,7 +297,7 @@ const FEED_DATA = {
     },
     {
       "title": "Cloudflare CEO on how he chooses which employees to replace with AI",
-      "summary": "Article URL: https://www.wsj.com/opinion/how-i-choose-which-cloudflare-employees-to-replace-with-ai-40a197e5 Comments URL: https://news.ycombinator.com/item?id=48214617 Points: 77 # Comments: 34",
+      "summary": "Article URL: https://www.wsj.com/opinion/how-i-choose-which-cloudflare-employees-to-replace-with-ai-40a197e5 Comments URL: https://news.ycombinator.com/item?id=48214617 Points: 99 # Comments: 42",
       "source": "Hacker News",
       "published": "2026-05-20T21:45:57+00:00",
       "link": "https://www.wsj.com/opinion/how-i-choose-which-cloudflare-employees-to-replace-with-ai-40a197e5"
@@ -332,7 +374,7 @@ const FEED_DATA = {
     },
     {
       "title": "Formal Verification Gates for AI Coding Loops",
-      "summary": "Article URL: https://reubenbrooks.dev/blog/structural-backpressure-beats-smarter-agents/ Comments URL: https://news.ycombinator.com/item?id=48209323 Points: 129 # Comments: 30",
+      "summary": "Article URL: https://reubenbrooks.dev/blog/structural-backpressure-beats-smarter-agents/ Comments URL: https://news.ycombinator.com/item?id=48209323 Points: 135 # Comments: 30",
       "source": "Hacker News",
       "published": "2026-05-20T15:25:45+00:00",
       "link": "https://reubenbrooks.dev/blog/structural-backpressure-beats-smarter-agents/"
@@ -367,7 +409,7 @@ const FEED_DATA = {
     },
     {
       "title": "Testing distributed systems with AI agents",
-      "summary": "Article URL: https://github.com/shenli/distributed-system-testing Comments URL: https://news.ycombinator.com/item?id=48208685 Points: 89 # Comments: 17",
+      "summary": "Article URL: https://github.com/shenli/distributed-system-testing Comments URL: https://news.ycombinator.com/item?id=48208685 Points: 91 # Comments: 18",
       "source": "Hacker News",
       "published": "2026-05-20T14:40:42+00:00",
       "link": "https://github.com/shenli/distributed-system-testing"
@@ -430,7 +472,7 @@ const FEED_DATA = {
     },
     {
       "title": "Google’s AI is being manipulated. The search giant is quietly fighting back",
-      "summary": "Article URL: https://www.bbc.com/future/article/20260519-google-tackles-attempts-to-hack-its-ai-results Comments URL: https://news.ycombinator.com/item?id=48205782 Points: 320 # Comments: 202",
+      "summary": "Article URL: https://www.bbc.com/future/article/20260519-google-tackles-attempts-to-hack-its-ai-results Comments URL: https://news.ycombinator.com/item?id=48205782 Points: 329 # Comments: 209",
       "source": "Hacker News",
       "published": "2026-05-20T10:57:09+00:00",
       "link": "https://www.bbc.com/future/article/20260519-google-tackles-attempts-to-hack-its-ai-results"
@@ -444,7 +486,7 @@ const FEED_DATA = {
     },
     {
       "title": "Learnings from 100K lines of Rust with AI (2025)",
-      "summary": "Article URL: https://zfhuang99.github.io/rust/claude%20code/codex/contracts/spec-driven%20development/2025/12/01/rust-with-ai.html Comments URL: https://news.ycombinator.com/item?id=48205415 Points: 156 # Comments: 181",
+      "summary": "Article URL: https://zfhuang99.github.io/rust/claude%20code/codex/contracts/spec-driven%20development/2025/12/01/rust-with-ai.html Comments URL: https://news.ycombinator.com/item?id=48205415 Points: 167 # Comments: 195",
       "source": "Hacker News",
       "published": "2026-05-20T10:04:28+00:00",
       "link": "https://zfhuang99.github.io/rust/claude%20code/codex/contracts/spec-driven%20development/2025/12/01/rust-with-ai.html"
@@ -458,10 +500,17 @@ const FEED_DATA = {
     },
     {
       "title": "Public have more fear than hope on AI and future of work, study finds",
-      "summary": "Article URL: https://www.kcl.ac.uk/news/one-in-five-britons-think-ai-will-create-civil-unrest-study-finds Comments URL: https://news.ycombinator.com/item?id=48205143 Points: 57 # Comments: 36",
+      "summary": "Article URL: https://www.kcl.ac.uk/news/one-in-five-britons-think-ai-will-create-civil-unrest-study-finds Comments URL: https://news.ycombinator.com/item?id=48205143 Points: 58 # Comments: 37",
       "source": "Hacker News",
       "published": "2026-05-20T09:26:39+00:00",
       "link": "https://www.kcl.ac.uk/news/one-in-five-britons-think-ai-will-create-civil-unrest-study-finds"
+    },
+    {
+      "title": "Alternatives to HN for \"tech outside of AI\" discussion?",
+      "summary": "I'm not the first to opine that recently there seems to be an effect on HN whereby the AI hypetrain has essentially drowned out discussions of anything other than stories either directly or indirectly related to AI and other terrible decisions coming out of the US.While I do...",
+      "source": "Hacker News",
+      "published": "2026-05-20T02:43:07+00:00",
+      "link": "https://news.ycombinator.com/item?id=48202486"
     },
     {
       "title": "Literary Prizewinners Are Facing AI Allegations. It Feels Like the New Normal",
@@ -472,7 +521,7 @@ const FEED_DATA = {
     },
     {
       "title": "Remove-AI-Watermarks – CLI and library for removing AI watermarks from images",
-      "summary": "Article URL: https://github.com/wiltodelta/remove-ai-watermarks Comments URL: https://news.ycombinator.com/item?id=48200569 Points: 378 # Comments: 252",
+      "summary": "Article URL: https://github.com/wiltodelta/remove-ai-watermarks Comments URL: https://news.ycombinator.com/item?id=48200569 Points: 382 # Comments: 253",
       "source": "Hacker News",
       "published": "2026-05-19T22:30:31+00:00",
       "link": "https://github.com/wiltodelta/remove-ai-watermarks"
@@ -542,7 +591,7 @@ const FEED_DATA = {
     },
     {
       "title": "OpenAI Adopts Google's SynthID Watermark for AI Images with Verification Tool",
-      "summary": "Article URL: https://openai.com/index/advancing-content-provenance/ Comments URL: https://news.ycombinator.com/item?id=48198291 Points: 328 # Comments: 178",
+      "summary": "Article URL: https://openai.com/index/advancing-content-provenance/ Comments URL: https://news.ycombinator.com/item?id=48198291 Points: 331 # Comments: 179",
       "source": "Hacker News",
       "published": "2026-05-19T19:34:30+00:00",
       "link": "https://openai.com/index/advancing-content-provenance/"
@@ -570,7 +619,7 @@ const FEED_DATA = {
     },
     {
       "title": "Mistral AI acquires Emmi AI",
-      "summary": "Article URL: https://www.emmi.ai/news/mistral-ai-acquires-emmi-ai Comments URL: https://news.ycombinator.com/item?id=48197995 Points: 333 # Comments: 97",
+      "summary": "Article URL: https://www.emmi.ai/news/mistral-ai-acquires-emmi-ai Comments URL: https://news.ycombinator.com/item?id=48197995 Points: 335 # Comments: 97",
       "source": "Hacker News",
       "published": "2026-05-19T19:14:12+00:00",
       "link": "https://www.emmi.ai/news/mistral-ai-acquires-emmi-ai"
@@ -836,21 +885,21 @@ const FEED_DATA = {
     },
     {
       "title": "Graduates are booing pep talks on AI at college commencements",
-      "summary": "Article URL: https://apnews.com/article/ai-college-commencement-anxiety-boo-35aec9bac660eaeb05c5b8d392db2cac Comments URL: https://news.ycombinator.com/item?id=48196546 Points: 122 # Comments: 188",
+      "summary": "Article URL: https://apnews.com/article/ai-college-commencement-anxiety-boo-35aec9bac660eaeb05c5b8d392db2cac Comments URL: https://news.ycombinator.com/item?id=48196546 Points: 122 # Comments: 189",
       "source": "Hacker News",
       "published": "2026-05-19T17:42:11+00:00",
       "link": "https://apnews.com/article/ai-college-commencement-anxiety-boo-35aec9bac660eaeb05c5b8d392db2cac"
     },
     {
       "title": "AI, \"Humanity\", and Dr. Manhattan Syndrome: A Communications Intervention",
-      "summary": "Article URL: https://www.personfamiliar.com/p/ai-humanity-and-dr-manhattan-syndrome Comments URL: https://news.ycombinator.com/item?id=48196303 Points: 50 # Comments: 16",
+      "summary": "Article URL: https://www.personfamiliar.com/p/ai-humanity-and-dr-manhattan-syndrome Comments URL: https://news.ycombinator.com/item?id=48196303 Points: 51 # Comments: 16",
       "source": "Hacker News",
       "published": "2026-05-19T17:22:45+00:00",
       "link": "https://www.personfamiliar.com/p/ai-humanity-and-dr-manhattan-syndrome"
     },
     {
       "title": "AI is too expensive",
-      "summary": "Article URL: https://www.wheresyoured.at/ai-is-too-expensive/ Comments URL: https://news.ycombinator.com/item?id=48195100 Points: 142 # Comments: 148",
+      "summary": "Article URL: https://www.wheresyoured.at/ai-is-too-expensive/ Comments URL: https://news.ycombinator.com/item?id=48195100 Points: 142 # Comments: 151",
       "source": "Hacker News",
       "published": "2026-05-19T15:59:03+00:00",
       "link": "https://www.wheresyoured.at/ai-is-too-expensive/"
@@ -1351,55 +1400,6 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-05-17T08:30:55+00:00",
       "link": "https://the-decoder.com/four-ai-models-ran-radio-stations-for-six-months-and-the-results-ranged-from-competent-to-unhinged/"
-    },
-    {
-      "title": "Oppo open-sources Android AI agent X-OmniClaw that uses your camera, screen, and voice without leaving the phone",
-      "summary": "Oppo's Multi-X team released X-OmniClaw, an open-source agent that runs directly on Android devices and combines camera, screen, and voice to handle tasks in real apps.",
-      "source": "The Decoder",
-      "published": "2026-05-17T07:39:40+00:00",
-      "link": "https://the-decoder.com/oppo-open-sources-android-ai-agent-x-omniclaw-that-uses-your-camera-screen-and-voice-without-leaving-the-phone/"
-    },
-    {
-      "title": "The haves and have-nots of the AI gold rush",
-      "summary": "The vibes around the current AI boom aren't great, even in the tech industry.",
-      "source": "TechCrunch",
-      "published": "2026-05-16T20:17:16+00:00",
-      "link": "https://techcrunch.com/2026/05/16/the-haves-and-have-nots-of-the-ai-gold-rush/"
-    },
-    {
-      "title": "The haves and have nots of the AI gold rush",
-      "summary": "The vibes around the current AI boom aren't great, even in the tech industry.",
-      "source": "TechCrunch",
-      "published": "2026-05-16T20:17:16+00:00",
-      "link": "https://techcrunch.com/2026/05/16/the-haves-and-have-nots-of-the-ai-gold-rush/"
-    },
-    {
-      "title": "Research repository ArXiv will ban authors for a year if they let AI do all the work",
-      "summary": "ArXiv is doing more to crack down on the careless use of large language models in scientific papers.",
-      "source": "TechCrunch",
-      "published": "2026-05-16T18:54:28+00:00",
-      "link": "https://techcrunch.com/2026/05/16/research-repository-arxiv-will-ban-authors-for-a-year-if-they-let-ai-do-all-the-work/"
-    },
-    {
-      "title": "US is starting to see heavy job losses in roles exposed to AI",
-      "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-05-15/us-is-starting-to-see-heavy-job-losses-in-roles-exposed-to-ai Comments URL: https://news.ycombinator.com/item?id=48162354 Points: 164 # Comments: 274",
-      "source": "Hacker News",
-      "published": "2026-05-16T17:59:45+00:00",
-      "link": "https://www.bloomberg.com/news/articles/2026-05-15/us-is-starting-to-see-heavy-job-losses-in-roles-exposed-to-ai"
-    },
-    {
-      "title": "Sony tries to explain that its AI Camera Assistant doesn’t suck",
-      "summary": "After Sony drew some unwanted attention for a post demonstrating its AI Camera Assistant on the Xperia 1 XIII, it's trying to clarify how the feature works. The company says it doesn't edit photos, but makes suggestions based on lighting, depth, and subject.",
-      "source": "The Verge",
-      "published": "2026-05-16T15:37:05+00:00",
-      "link": "https://www.theverge.com/tech/932133/sony-xperia-1-xiii-ai-camera-assistant"
-    },
-    {
-      "title": "OpenAI co-founder Greg Brockman takes charge of product strategy",
-      "summary": "OpenAI's latest shake-up comes as the company reportedly plans to combine ChatGPT and its programming product Codex.",
-      "source": "TechCrunch",
-      "published": "2026-05-16T15:33:33+00:00",
-      "link": "https://techcrunch.com/2026/05/16/openai-co-founder-greg-brockman-reportedly-takes-charge-of-product-strategy/"
     }
   ]
 };
