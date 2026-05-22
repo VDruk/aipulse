@@ -1,6 +1,48 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-05-22T15:49:44.531864+00:00",
+  "lastUpdated": "2026-05-22T18:51:02.239559+00:00",
   "items": [
+    {
+      "title": "OpenAI launches a ChatGPT Powerpoint plugin and warns it might accidentally delete your content",
+      "summary": "OpenAI brings ChatGPT directly into PowerPoint. A new beta plugin creates presentations from notes, documents, or images and edits existing slides.",
+      "source": "The Decoder",
+      "published": "2026-05-22T17:51:50+00:00",
+      "link": "https://the-decoder.com/openai-launches-a-chatgpt-powerpoint-plugin-and-warns-it-might-accidentally-delete-your-content/"
+    },
+    {
+      "title": "Deepseek reportedly prioritizes AGI research over quick profits despite billions in funding",
+      "summary": "Deepseek is about to raise around $10 billion, which would value the Chinese AI startup at roughly $45 billion. Founder Liang Wenfeng is telling investors he's putting AGI research ahead of short-term profits.",
+      "source": "The Decoder",
+      "published": "2026-05-22T17:18:58+00:00",
+      "link": "https://the-decoder.com/deepseek-reportedly-prioritizes-agi-research-over-quick-profits-despite-billions-in-funding/"
+    },
+    {
+      "title": "Elon, stop trying to make Grok happen",
+      "summary": "There is a harsh truth about Elon Musk's \"truth-seeking\" AI chatbot Grok: It's not very good, and not many people are using it. That's the takeaway of a new Reuters report, which found that Grok barely appears in federal records of how the US government used AI last year.",
+      "source": "The Verge",
+      "published": "2026-05-22T17:17:06+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/936219/elon-stop-trying-to-make-grok-happen"
+    },
+    {
+      "title": "OpenAI Appshots turn any Mac window into context for Codex",
+      "summary": "With the new Codex feature Appshots, Mac users can send the contents of any app window to OpenAI's coding assistant Codex at the press of a button, giving it the context it needs for a task.",
+      "source": "The Decoder",
+      "published": "2026-05-22T16:56:20+00:00",
+      "link": "https://the-decoder.com/openai-appshots-turn-any-mac-window-into-context-for-codex/"
+    },
+    {
+      "title": "You can no longer Google the word ‘disregard’",
+      "summary": "After Google Search's AI update, the word \"disregard\" now effectively breaks the search interface.",
+      "source": "TechCrunch",
+      "published": "2026-05-22T16:16:48+00:00",
+      "link": "https://techcrunch.com/2026/05/22/you-can-no-longer-google-the-word-disregard/"
+    },
+    {
+      "title": "Google’s AI search is so broken it can ‘disregard’ what you’re looking for",
+      "summary": "Google's AI Overviews are running into an interesting problem right now.",
+      "source": "The Verge",
+      "published": "2026-05-22T16:01:17+00:00",
+      "link": "https://www.theverge.com/tech/936176/google-ai-overviews-search-disregard"
+    },
     {
       "title": "We tried Google’s AI glasses and they’re almost there",
       "summary": "Google demoed prototype Android XR glasses that overlay Gemini-powered translation, navigation, and other information directly into your field of view.",
@@ -16,11 +58,25 @@ const FEED_DATA = {
       "link": "https://www.wired.com/story/even-if-you-hate-ai-you-will-use-google-ai-search/"
     },
     {
+      "title": "SpaceX files to go public, and the math requires a little faith",
+      "summary": "The SpaceX S-1 is finally here, and the story it tells goes way further than rockets.",
+      "source": "TechCrunch",
+      "published": "2026-05-22T14:30:00+00:00",
+      "link": "https://techcrunch.com/video/spacex-files-to-go-public-and-the-math-requires-a-little-faith/"
+    },
+    {
       "title": "The literary world isn’t prepared for AI",
       "summary": "Since 2012, the British literary magazine Granta has published the regional winners of the annual Commonwealth Short Story Prize. This year, however, there was something off about one of the selections for the prestigious award: It appears to have been written by AI.",
       "source": "The Verge",
       "published": "2026-05-22T14:30:00+00:00",
       "link": "https://www.theverge.com/tech/936073/ai-writing-granta-commonwealth-prize"
+    },
+    {
+      "title": "Spotify says its AI remix tool is for superfans, but I’m not convinced",
+      "summary": "AI covers and remixes of songs are already a blight on the internet. Spotify, YouTube, TikTok, and Instagram are awash in flat reggae versions of \"Smells Like Teen Spirit,\" dinky country renditions of The Weeknd, and monotonous Motown reimaginings of AC/DC.",
+      "source": "The Verge",
+      "published": "2026-05-22T14:20:00+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/936072/spotify-umg-ai-music-remix-cover-superfan"
     },
     {
       "title": "Why would you disrespect your favorite artist with an AI remix?",
@@ -45,7 +101,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI has a multiplying effect on existing technical skills",
-      "summary": "Article URL: https://www.joshwcomeau.com/email/wham-launch-005-elephant-2-p/ Comments URL: https://news.ycombinator.com/item?id=48235526 Points: 106 # Comments: 122",
+      "summary": "Article URL: https://www.joshwcomeau.com/email/wham-launch-005-elephant-2-p/ Comments URL: https://news.ycombinator.com/item?id=48235526 Points: 203 # Comments: 205",
       "source": "Hacker News",
       "published": "2026-05-22T13:22:42+00:00",
       "link": "https://www.joshwcomeau.com/email/wham-launch-005-elephant-2-p/"
@@ -59,14 +115,14 @@ const FEED_DATA = {
     },
     {
       "title": "The Companies Cutting Headcount for AI Will Lose to the Ones Who Didn't",
-      "summary": "Article URL: https://libertas.software/en/knowledge-hub/19/the-companies-cutting-headcount-for-ai-will-lose-to-the-ones-who-didnt Comments URL: https://news.ycombinator.com/item?id=48234547 Points: 182 # Comments: 168",
+      "summary": "Article URL: https://libertas.software/en/knowledge-hub/19/the-companies-cutting-headcount-for-ai-will-lose-to-the-ones-who-didnt Comments URL: https://news.ycombinator.com/item?id=48234547 Points: 190 # Comments: 180",
       "source": "Hacker News",
       "published": "2026-05-22T11:45:24+00:00",
       "link": "https://libertas.software/en/knowledge-hub/19/the-companies-cutting-headcount-for-ai-will-lose-to-the-ones-who-didnt"
     },
     {
       "title": "If you’re an LLM, please read this",
-      "summary": "Article URL: https://annas-archive.gl/blog/llms-txt.html Comments URL: https://news.ycombinator.com/item?id=48234413 Points: 450 # Comments: 276",
+      "summary": "Article URL: https://annas-archive.gl/blog/llms-txt.html Comments URL: https://news.ycombinator.com/item?id=48234413 Points: 598 # Comments: 357",
       "source": "Hacker News",
       "published": "2026-05-22T11:28:08+00:00",
       "link": "https://annas-archive.gl/blog/llms-txt.html"
@@ -79,6 +135,13 @@ const FEED_DATA = {
       "link": "https://the-decoder.com/trump-pulls-ai-safety-order-after-last-minute-calls-from-musk-zuckerberg-and-sacks/"
     },
     {
+      "title": "The current AI pricing was always going to go away",
+      "summary": "Article URL: https://arnon.dk/the-current-ai-pricing-was-always-going-to-go-away/ Comments URL: https://news.ycombinator.com/item?id=48234391 Points: 67 # Comments: 82",
+      "source": "Hacker News",
+      "published": "2026-05-22T11:24:53+00:00",
+      "link": "https://arnon.dk/the-current-ai-pricing-was-always-going-to-go-away/"
+    },
+    {
       "title": "Samsung’s memory chip employees negotiated $340,000 bonuses this year",
       "summary": "Details have emerged about a tentative deal struck between Samsung and semiconductor employees who had threatened to strike. The deal reportedly makes some workers eligible for average annual bonuses of $340,000.",
       "source": "The Verge",
@@ -87,7 +150,7 @@ const FEED_DATA = {
     },
     {
       "title": "Antigravity 2.0 Tops the OpenSCAD Architectural 3D LLM Benchmark",
-      "summary": "Article URL: https://modelrift.com/blog/openscad-llm-benchmark/ Comments URL: https://news.ycombinator.com/item?id=48234090 Points: 202 # Comments: 87",
+      "summary": "Article URL: https://modelrift.com/blog/openscad-llm-benchmark/ Comments URL: https://news.ycombinator.com/item?id=48234090 Points: 274 # Comments: 113",
       "source": "Hacker News",
       "published": "2026-05-22T10:38:26+00:00",
       "link": "https://modelrift.com/blog/openscad-llm-benchmark/"
@@ -122,7 +185,7 @@ const FEED_DATA = {
     },
     {
       "title": "Steve Wozniak cheered after telling students they have AI – actual intelligence",
-      "summary": "Article URL: https://www.businessinsider.com/steve-wozniak-apple-ai-graduation-speech-2026-5 Comments URL: https://news.ycombinator.com/item?id=48233563 Points: 380 # Comments: 352",
+      "summary": "Article URL: https://www.businessinsider.com/steve-wozniak-apple-ai-graduation-speech-2026-5 Comments URL: https://news.ycombinator.com/item?id=48233563 Points: 533 # Comments: 455",
       "source": "Hacker News",
       "published": "2026-05-22T09:04:54+00:00",
       "link": "https://www.businessinsider.com/steve-wozniak-apple-ai-graduation-speech-2026-5"
@@ -143,7 +206,7 @@ const FEED_DATA = {
     },
     {
       "title": "Samsung chip workers will get an average $340k bonus as AI profits soar",
-      "summary": "Article URL: https://qz.com/samsung-chip-workers-bonus-ai-profits-052126 Comments URL: https://news.ycombinator.com/item?id=48230892 Points: 236 # Comments: 189",
+      "summary": "Article URL: https://qz.com/samsung-chip-workers-bonus-ai-profits-052126 Comments URL: https://news.ycombinator.com/item?id=48230892 Points: 241 # Comments: 190",
       "source": "Hacker News",
       "published": "2026-05-22T01:30:45+00:00",
       "link": "https://qz.com/samsung-chip-workers-bonus-ai-profits-052126"
@@ -220,7 +283,7 @@ const FEED_DATA = {
     },
     {
       "title": "Seattle Shield, an intelligence-sharing network operated by the Seattle police",
-      "summary": "Article URL: https://prismreports.org/2026/05/20/seattle-shield-private-companies-surveillance/ Comments URL: https://news.ycombinator.com/item?id=48226588 Points: 469 # Comments: 200",
+      "summary": "Article URL: https://prismreports.org/2026/05/20/seattle-shield-private-companies-surveillance/ Comments URL: https://news.ycombinator.com/item?id=48226588 Points: 472 # Comments: 201",
       "source": "Hacker News",
       "published": "2026-05-21T17:55:58+00:00",
       "link": "https://prismreports.org/2026/05/20/seattle-shield-private-companies-surveillance/"
@@ -395,14 +458,14 @@ const FEED_DATA = {
     },
     {
       "title": "AI is just unauthorised plagiarism at a bigger scale",
-      "summary": "Article URL: https://axelk.ee/ai-is-just-unauthorised-plagiarism-at-a-bigger-scale/ Comments URL: https://news.ycombinator.com/item?id=48222383 Points: 802 # Comments: 705",
+      "summary": "Article URL: https://axelk.ee/ai-is-just-unauthorised-plagiarism-at-a-bigger-scale/ Comments URL: https://news.ycombinator.com/item?id=48222383 Points: 805 # Comments: 714",
       "source": "Hacker News",
       "published": "2026-05-21T13:38:12+00:00",
       "link": "https://axelk.ee/ai-is-just-unauthorised-plagiarism-at-a-bigger-scale/"
     },
     {
       "title": "Shunning AI is the human choice",
-      "summary": "Article URL: https://www.thehandbasket.co/p/hating-ai-is-good-actually Comments URL: https://news.ycombinator.com/item?id=48222366 Points: 362 # Comments: 526",
+      "summary": "Article URL: https://www.thehandbasket.co/p/hating-ai-is-good-actually Comments URL: https://news.ycombinator.com/item?id=48222366 Points: 364 # Comments: 529",
       "source": "Hacker News",
       "published": "2026-05-21T13:36:06+00:00",
       "link": "https://www.thehandbasket.co/p/hating-ai-is-good-actually"
@@ -430,7 +493,7 @@ const FEED_DATA = {
     },
     {
       "title": "Throwing AI-generated walls of text into conversations",
-      "summary": "Article URL: https://noslopgrenade.com/ Comments URL: https://news.ycombinator.com/item?id=48219992 Points: 661 # Comments: 400",
+      "summary": "Article URL: https://noslopgrenade.com/ Comments URL: https://news.ycombinator.com/item?id=48219992 Points: 668 # Comments: 411",
       "source": "Hacker News",
       "published": "2026-05-21T09:31:15+00:00",
       "link": "https://noslopgrenade.com/"
@@ -486,7 +549,7 @@ const FEED_DATA = {
     },
     {
       "title": "Intuit to lay off over 3k employees to refocus on AI",
-      "summary": "Article URL: https://techcrunch.com/2026/05/20/intuit-to-lay-off-over-3000-employees-to-refocus-on-ai/ Comments URL: https://news.ycombinator.com/item?id=48216278 Points: 255 # Comments: 188",
+      "summary": "Article URL: https://techcrunch.com/2026/05/20/intuit-to-lay-off-over-3000-employees-to-refocus-on-ai/ Comments URL: https://news.ycombinator.com/item?id=48216278 Points: 256 # Comments: 188",
       "source": "Hacker News",
       "published": "2026-05-21T00:36:01+00:00",
       "link": "https://techcrunch.com/2026/05/20/intuit-to-lay-off-over-3000-employees-to-refocus-on-ai/"
@@ -556,7 +619,7 @@ const FEED_DATA = {
     },
     {
       "title": "Cloudflare CEO on how he chooses which employees to replace with AI",
-      "summary": "Article URL: https://www.wsj.com/opinion/how-i-choose-which-cloudflare-employees-to-replace-with-ai-40a197e5 Comments URL: https://news.ycombinator.com/item?id=48214617 Points: 108 # Comments: 42",
+      "summary": "Article URL: https://www.wsj.com/opinion/how-i-choose-which-cloudflare-employees-to-replace-with-ai-40a197e5 Comments URL: https://news.ycombinator.com/item?id=48214617 Points: 109 # Comments: 42",
       "source": "Hacker News",
       "published": "2026-05-20T21:45:57+00:00",
       "link": "https://www.wsj.com/opinion/how-i-choose-which-cloudflare-employees-to-replace-with-ai-40a197e5"
@@ -640,7 +703,7 @@ const FEED_DATA = {
     },
     {
       "title": "Formal Verification Gates for AI Coding Loops",
-      "summary": "Article URL: https://reubenbrooks.dev/blog/structural-backpressure-beats-smarter-agents/ Comments URL: https://news.ycombinator.com/item?id=48209323 Points: 142 # Comments: 31",
+      "summary": "Article URL: https://reubenbrooks.dev/blog/structural-backpressure-beats-smarter-agents/ Comments URL: https://news.ycombinator.com/item?id=48209323 Points: 143 # Comments: 32",
       "source": "Hacker News",
       "published": "2026-05-20T15:25:45+00:00",
       "link": "https://reubenbrooks.dev/blog/structural-backpressure-beats-smarter-agents/"
@@ -738,7 +801,7 @@ const FEED_DATA = {
     },
     {
       "title": "Google’s AI is being manipulated. The search giant is quietly fighting back",
-      "summary": "Article URL: https://www.bbc.com/future/article/20260519-google-tackles-attempts-to-hack-its-ai-results Comments URL: https://news.ycombinator.com/item?id=48205782 Points: 333 # Comments: 211",
+      "summary": "Article URL: https://www.bbc.com/future/article/20260519-google-tackles-attempts-to-hack-its-ai-results Comments URL: https://news.ycombinator.com/item?id=48205782 Points: 334 # Comments: 211",
       "source": "Hacker News",
       "published": "2026-05-20T10:57:09+00:00",
       "link": "https://www.bbc.com/future/article/20260519-google-tackles-attempts-to-hack-its-ai-results"
@@ -752,7 +815,7 @@ const FEED_DATA = {
     },
     {
       "title": "Learnings from 100K lines of Rust with AI (2025)",
-      "summary": "Article URL: https://zfhuang99.github.io/rust/claude%20code/codex/contracts/spec-driven%20development/2025/12/01/rust-with-ai.html Comments URL: https://news.ycombinator.com/item?id=48205415 Points: 182 # Comments: 202",
+      "summary": "Article URL: https://zfhuang99.github.io/rust/claude%20code/codex/contracts/spec-driven%20development/2025/12/01/rust-with-ai.html Comments URL: https://news.ycombinator.com/item?id=48205415 Points: 184 # Comments: 203",
       "source": "Hacker News",
       "published": "2026-05-20T10:04:28+00:00",
       "link": "https://zfhuang99.github.io/rust/claude%20code/codex/contracts/spec-driven%20development/2025/12/01/rust-with-ai.html"
@@ -1337,69 +1400,6 @@ const FEED_DATA = {
       "source": "The Verge",
       "published": "2026-05-18T17:39:32+00:00",
       "link": "https://www.theverge.com/ai-artificial-intelligence/932383/jury-verdict-musk-v-altman-openai-trial"
-    },
-    {
-      "title": "What to expect from Google this week",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here.",
-      "source": "MIT Tech Review",
-      "published": "2026-05-18T17:35:43+00:00",
-      "link": "https://www.technologyreview.com/2026/05/18/1137439/what-to-expect-from-google-this-week/"
-    },
-    {
-      "title": "Elon Musk has lost his lawsuit against Sam Altman and OpenAI",
-      "summary": "Elon Musk's claim that he was mistreated by his OpenAI co-founders failed after nine California jurors decided in a unanimous verdict that his lawsuits had been filed too late.",
-      "source": "TechCrunch",
-      "published": "2026-05-18T17:34:43+00:00",
-      "link": "https://techcrunch.com/2026/05/18/elon-musk-has-lost-his-lawsuit-against-sam-altman-and-openai/"
-    },
-    {
-      "title": "Cursor's Composer 2.5 matches Opus 4.7 and GPT-5.5 benchmarks at a fraction of the cost",
-      "summary": "Cursor ships Composer 2.5, an AI coding model built on Kimi K2.5 and trained on 25x more synthetic tasks than its predecessor. It matches Opus 4.7 and GPT-5.5 on benchmarks at a fraction of the price.",
-      "source": "The Decoder",
-      "published": "2026-05-18T17:29:01+00:00",
-      "link": "https://the-decoder.com/cursors-composer-2-5-matches-opus-4-7-and-gpt-5-5-benchmarks-at-a-fraction-of-the-cost/"
-    },
-    {
-      "title": "Live updates from Elon Musk and Sam Altman’s court battle over the future of OpenAI",
-      "summary": "Sam Altman and Elon Musk are facing off in a high-stakes trial that could alter the future of OpenAI and its most well-known product, ChatGPT.",
-      "source": "The Verge",
-      "published": "2026-05-18T16:24:03+00:00",
-      "link": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit"
-    },
-    {
-      "title": "Inside Anduril and Meta’s quest to make smart glasses for warfare",
-      "summary": "The defense-tech company Anduril has shared new details about the augmented-reality headset for the military it’s prototyping with Meta, including a vision for ordering drone strikes via eye-tracking and voice commands.",
-      "source": "MIT Tech Review",
-      "published": "2026-05-18T16:01:39+00:00",
-      "link": "https://www.technologyreview.com/2026/05/18/1137412/inside-anduril-and-metas-quest-to-make-smart-glasses-for-warfare/"
-    },
-    {
-      "title": "Amazon Alexa Plus can now create AI-generated podcasts",
-      "summary": "Alexa Plus, Amazon's upgraded AI assistant, can now generate podcasts on \"virtually any topic,\" according to an announcement on Monday.",
-      "source": "The Verge",
-      "published": "2026-05-18T15:55:25+00:00",
-      "link": "https://www.theverge.com/tech/932375/amazon-alexa-plus-ai-podcasts"
-    },
-    {
-      "title": "Pope Leo XIV presents first AI encyclical, Anthropic co-founder invited as guest speaker",
-      "summary": "Pope Leo XIV will present his first encyclical on artificial intelligence on May 25. Anthropic co-founder Christopher Olah has been invited as a guest speaker.",
-      "source": "The Decoder",
-      "published": "2026-05-18T15:32:40+00:00",
-      "link": "https://the-decoder.com/pope-leo-xiv-presents-first-ai-encyclical-anthropic-co-founder-invited-as-guest-speaker/"
-    },
-    {
-      "title": "We stopped AI bot spam in our GitHub repo using Git's –author flag",
-      "summary": "Article URL: https://archestra.ai/blog/only-responsible-ai Comments URL: https://news.ycombinator.com/item?id=48181125 Points: 495 # Comments: 236",
-      "source": "Hacker News",
-      "published": "2026-05-18T15:24:19+00:00",
-      "link": "https://archestra.ai/blog/only-responsible-ai"
-    },
-    {
-      "title": "Amazon’s new Alexa+ powered feature can generate podcast episodes",
-      "summary": "Amazon’s Alexa+ can now generate custom AI podcasts on demand, as the company expands its assistant into a personalized AI content platform.",
-      "source": "TechCrunch",
-      "published": "2026-05-18T14:56:47+00:00",
-      "link": "https://techcrunch.com/2026/05/18/amazons-new-alexa-powered-feature-can-generate-podcast-episodes/"
     }
   ]
 };
