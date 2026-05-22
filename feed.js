@@ -1,6 +1,76 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-05-22T11:36:26.851051+00:00",
+  "lastUpdated": "2026-05-22T15:49:44.531864+00:00",
   "items": [
+    {
+      "title": "We tried Google’s AI glasses and they’re almost there",
+      "summary": "Google demoed prototype Android XR glasses that overlay Gemini-powered translation, navigation, and other information directly into your field of view.",
+      "source": "TechCrunch",
+      "published": "2026-05-22T15:37:15+00:00",
+      "link": "https://techcrunch.com/2026/05/22/we-tried-googles-ai-glasses-and-theyre-almost-there/"
+    },
+    {
+      "title": "Even If You Hate AI, You Will Use Google AI Search",
+      "summary": "The search giant’s AI-crafted answers are so convenient, you’ll be sucked in—to the detriment of the web and the artists and thinkers behind it.",
+      "source": "Wired",
+      "published": "2026-05-22T15:00:00+00:00",
+      "link": "https://www.wired.com/story/even-if-you-hate-ai-you-will-use-google-ai-search/"
+    },
+    {
+      "title": "The literary world isn’t prepared for AI",
+      "summary": "Since 2012, the British literary magazine Granta has published the regional winners of the annual Commonwealth Short Story Prize. This year, however, there was something off about one of the selections for the prestigious award: It appears to have been written by AI.",
+      "source": "The Verge",
+      "published": "2026-05-22T14:30:00+00:00",
+      "link": "https://www.theverge.com/tech/936073/ai-writing-granta-commonwealth-prize"
+    },
+    {
+      "title": "Why would you disrespect your favorite artist with an AI remix?",
+      "summary": "AI covers and remixes of songs are already a blight on the internet. Spotify, YouTube, TikTok, and Instagram are awash in flat reggae versions of \"Smells Like Teen Spirit,\" dinky country renditions of The Weeknd, and monotonous Motown reimaginings of AC/DC.",
+      "source": "The Verge",
+      "published": "2026-05-22T14:20:00+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/936072/spotify-umg-ai-music-remix-cover-superfan"
+    },
+    {
+      "title": "OpenAI burned through $1.22 per dollar earned even after stripping out stock-based compensation",
+      "summary": "OpenAI pulled in about $5.7 billion in Q1 2026 revenue but still lost $1.22 for every dollar earned, putting its adjusted operating margin at minus 122 percent.",
+      "source": "The Decoder",
+      "published": "2026-05-22T14:18:32+00:00",
+      "link": "https://the-decoder.com/openai-burned-through-1-22-per-dollar-earned-even-after-stripping-out-stock-based-compensation/"
+    },
+    {
+      "title": "California governor signs first US executive order to protect workers from AI job loss",
+      "summary": "California's governor just signed the first executive order by a US governor aimed at protecting workers from AI-driven job loss. The article California governor signs first US executive order to protect workers from AI job loss appeared first on The Decoder.",
+      "source": "The Decoder",
+      "published": "2026-05-22T13:36:27+00:00",
+      "link": "https://the-decoder.com/california-governor-signs-first-us-executive-order-to-protect-workers-from-ai-job-loss/"
+    },
+    {
+      "title": "AI has a multiplying effect on existing technical skills",
+      "summary": "Article URL: https://www.joshwcomeau.com/email/wham-launch-005-elephant-2-p/ Comments URL: https://news.ycombinator.com/item?id=48235526 Points: 106 # Comments: 122",
+      "source": "Hacker News",
+      "published": "2026-05-22T13:22:42+00:00",
+      "link": "https://www.joshwcomeau.com/email/wham-launch-005-elephant-2-p/"
+    },
+    {
+      "title": "The Download: coding’s future, the ‘Steroid Olympics,’ and AI-driven science",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.",
+      "source": "MIT Tech Review",
+      "published": "2026-05-22T12:10:00+00:00",
+      "link": "https://www.technologyreview.com/2026/05/22/1137845/the-download-coding-future-steroid-olympics-ai-science/"
+    },
+    {
+      "title": "The Companies Cutting Headcount for AI Will Lose to the Ones Who Didn't",
+      "summary": "Article URL: https://libertas.software/en/knowledge-hub/19/the-companies-cutting-headcount-for-ai-will-lose-to-the-ones-who-didnt Comments URL: https://news.ycombinator.com/item?id=48234547 Points: 182 # Comments: 168",
+      "source": "Hacker News",
+      "published": "2026-05-22T11:45:24+00:00",
+      "link": "https://libertas.software/en/knowledge-hub/19/the-companies-cutting-headcount-for-ai-will-lose-to-the-ones-who-didnt"
+    },
+    {
+      "title": "If you’re an LLM, please read this",
+      "summary": "Article URL: https://annas-archive.gl/blog/llms-txt.html Comments URL: https://news.ycombinator.com/item?id=48234413 Points: 450 # Comments: 276",
+      "source": "Hacker News",
+      "published": "2026-05-22T11:28:08+00:00",
+      "link": "https://annas-archive.gl/blog/llms-txt.html"
+    },
     {
       "title": "Trump pulls AI safety order after last-minute calls from Musk, Zuckerberg, and Sacks",
       "summary": "Trump killed an executive order on AI safety at the last minute after calls from Elon Musk, Mark Zuckerberg, and former advisor David Sacks. The order would have created a voluntary review system for frontier models with a 90-day window before release.",
@@ -14,6 +84,20 @@ const FEED_DATA = {
       "source": "The Verge",
       "published": "2026-05-22T11:05:25+00:00",
       "link": "https://www.theverge.com/tech/936002/samsung-memory-chip-employees-deal-strike-bonus"
+    },
+    {
+      "title": "Antigravity 2.0 Tops the OpenSCAD Architectural 3D LLM Benchmark",
+      "summary": "Article URL: https://modelrift.com/blog/openscad-llm-benchmark/ Comments URL: https://news.ycombinator.com/item?id=48234090 Points: 202 # Comments: 87",
+      "source": "Hacker News",
+      "published": "2026-05-22T10:38:26+00:00",
+      "link": "https://modelrift.com/blog/openscad-llm-benchmark/"
+    },
+    {
+      "title": "A hacker group is poisoning open source code at an unprecedented scale",
+      "summary": "GitHub is just the latest victim of TeamPCP, a gang that has carried out a spree of software supply chain attacks.",
+      "source": "Ars Technica",
+      "published": "2026-05-22T10:30:14+00:00",
+      "link": "https://arstechnica.com/information-technology/2026/05/a-hacker-group-is-poisoning-open-source-code-at-an-unprecedented-scale/"
     },
     {
       "title": "Google I/O showed how the path for AI-driven science is shifting",
@@ -38,7 +122,7 @@ const FEED_DATA = {
     },
     {
       "title": "Steve Wozniak cheered after telling students they have AI – actual intelligence",
-      "summary": "Article URL: https://www.businessinsider.com/steve-wozniak-apple-ai-graduation-speech-2026-5 Comments URL: https://news.ycombinator.com/item?id=48233563 Points: 93 # Comments: 47",
+      "summary": "Article URL: https://www.businessinsider.com/steve-wozniak-apple-ai-graduation-speech-2026-5 Comments URL: https://news.ycombinator.com/item?id=48233563 Points: 380 # Comments: 352",
       "source": "Hacker News",
       "published": "2026-05-22T09:04:54+00:00",
       "link": "https://www.businessinsider.com/steve-wozniak-apple-ai-graduation-speech-2026-5"
@@ -59,7 +143,7 @@ const FEED_DATA = {
     },
     {
       "title": "Samsung chip workers will get an average $340k bonus as AI profits soar",
-      "summary": "Article URL: https://qz.com/samsung-chip-workers-bonus-ai-profits-052126 Comments URL: https://news.ycombinator.com/item?id=48230892 Points: 222 # Comments: 181",
+      "summary": "Article URL: https://qz.com/samsung-chip-workers-bonus-ai-profits-052126 Comments URL: https://news.ycombinator.com/item?id=48230892 Points: 236 # Comments: 189",
       "source": "Hacker News",
       "published": "2026-05-22T01:30:45+00:00",
       "link": "https://qz.com/samsung-chip-workers-bonus-ai-profits-052126"
@@ -136,7 +220,7 @@ const FEED_DATA = {
     },
     {
       "title": "Seattle Shield, an intelligence-sharing network operated by the Seattle police",
-      "summary": "Article URL: https://prismreports.org/2026/05/20/seattle-shield-private-companies-surveillance/ Comments URL: https://news.ycombinator.com/item?id=48226588 Points: 464 # Comments: 195",
+      "summary": "Article URL: https://prismreports.org/2026/05/20/seattle-shield-private-companies-surveillance/ Comments URL: https://news.ycombinator.com/item?id=48226588 Points: 469 # Comments: 200",
       "source": "Hacker News",
       "published": "2026-05-21T17:55:58+00:00",
       "link": "https://prismreports.org/2026/05/20/seattle-shield-private-companies-surveillance/"
@@ -311,14 +395,14 @@ const FEED_DATA = {
     },
     {
       "title": "AI is just unauthorised plagiarism at a bigger scale",
-      "summary": "Article URL: https://axelk.ee/ai-is-just-unauthorised-plagiarism-at-a-bigger-scale/ Comments URL: https://news.ycombinator.com/item?id=48222383 Points: 788 # Comments: 689",
+      "summary": "Article URL: https://axelk.ee/ai-is-just-unauthorised-plagiarism-at-a-bigger-scale/ Comments URL: https://news.ycombinator.com/item?id=48222383 Points: 802 # Comments: 705",
       "source": "Hacker News",
       "published": "2026-05-21T13:38:12+00:00",
       "link": "https://axelk.ee/ai-is-just-unauthorised-plagiarism-at-a-bigger-scale/"
     },
     {
       "title": "Shunning AI is the human choice",
-      "summary": "Article URL: https://www.thehandbasket.co/p/hating-ai-is-good-actually Comments URL: https://news.ycombinator.com/item?id=48222366 Points: 359 # Comments: 511",
+      "summary": "Article URL: https://www.thehandbasket.co/p/hating-ai-is-good-actually Comments URL: https://news.ycombinator.com/item?id=48222366 Points: 362 # Comments: 526",
       "source": "Hacker News",
       "published": "2026-05-21T13:36:06+00:00",
       "link": "https://www.thehandbasket.co/p/hating-ai-is-good-actually"
@@ -346,7 +430,7 @@ const FEED_DATA = {
     },
     {
       "title": "Throwing AI-generated walls of text into conversations",
-      "summary": "Article URL: https://noslopgrenade.com/ Comments URL: https://news.ycombinator.com/item?id=48219992 Points: 634 # Comments: 369",
+      "summary": "Article URL: https://noslopgrenade.com/ Comments URL: https://news.ycombinator.com/item?id=48219992 Points: 661 # Comments: 400",
       "source": "Hacker News",
       "published": "2026-05-21T09:31:15+00:00",
       "link": "https://noslopgrenade.com/"
@@ -556,7 +640,7 @@ const FEED_DATA = {
     },
     {
       "title": "Formal Verification Gates for AI Coding Loops",
-      "summary": "Article URL: https://reubenbrooks.dev/blog/structural-backpressure-beats-smarter-agents/ Comments URL: https://news.ycombinator.com/item?id=48209323 Points: 141 # Comments: 31",
+      "summary": "Article URL: https://reubenbrooks.dev/blog/structural-backpressure-beats-smarter-agents/ Comments URL: https://news.ycombinator.com/item?id=48209323 Points: 142 # Comments: 31",
       "source": "Hacker News",
       "published": "2026-05-20T15:25:45+00:00",
       "link": "https://reubenbrooks.dev/blog/structural-backpressure-beats-smarter-agents/"
@@ -591,7 +675,7 @@ const FEED_DATA = {
     },
     {
       "title": "Testing distributed systems with AI agents",
-      "summary": "Article URL: https://github.com/shenli/distributed-system-testing Comments URL: https://news.ycombinator.com/item?id=48208685 Points: 93 # Comments: 20",
+      "summary": "Article URL: https://github.com/shenli/distributed-system-testing Comments URL: https://news.ycombinator.com/item?id=48208685 Points: 93 # Comments: 22",
       "source": "Hacker News",
       "published": "2026-05-20T14:40:42+00:00",
       "link": "https://github.com/shenli/distributed-system-testing"
@@ -654,7 +738,7 @@ const FEED_DATA = {
     },
     {
       "title": "Google’s AI is being manipulated. The search giant is quietly fighting back",
-      "summary": "Article URL: https://www.bbc.com/future/article/20260519-google-tackles-attempts-to-hack-its-ai-results Comments URL: https://news.ycombinator.com/item?id=48205782 Points: 332 # Comments: 211",
+      "summary": "Article URL: https://www.bbc.com/future/article/20260519-google-tackles-attempts-to-hack-its-ai-results Comments URL: https://news.ycombinator.com/item?id=48205782 Points: 333 # Comments: 211",
       "source": "Hacker News",
       "published": "2026-05-20T10:57:09+00:00",
       "link": "https://www.bbc.com/future/article/20260519-google-tackles-attempts-to-hack-its-ai-results"
@@ -668,7 +752,7 @@ const FEED_DATA = {
     },
     {
       "title": "Learnings from 100K lines of Rust with AI (2025)",
-      "summary": "Article URL: https://zfhuang99.github.io/rust/claude%20code/codex/contracts/spec-driven%20development/2025/12/01/rust-with-ai.html Comments URL: https://news.ycombinator.com/item?id=48205415 Points: 180 # Comments: 202",
+      "summary": "Article URL: https://zfhuang99.github.io/rust/claude%20code/codex/contracts/spec-driven%20development/2025/12/01/rust-with-ai.html Comments URL: https://news.ycombinator.com/item?id=48205415 Points: 182 # Comments: 202",
       "source": "Hacker News",
       "published": "2026-05-20T10:04:28+00:00",
       "link": "https://zfhuang99.github.io/rust/claude%20code/codex/contracts/spec-driven%20development/2025/12/01/rust-with-ai.html"
@@ -682,7 +766,7 @@ const FEED_DATA = {
     },
     {
       "title": "Public have more fear than hope on AI and future of work, study finds",
-      "summary": "Article URL: https://www.kcl.ac.uk/news/one-in-five-britons-think-ai-will-create-civil-unrest-study-finds Comments URL: https://news.ycombinator.com/item?id=48205143 Points: 59 # Comments: 40",
+      "summary": "Article URL: https://www.kcl.ac.uk/news/one-in-five-britons-think-ai-will-create-civil-unrest-study-finds Comments URL: https://news.ycombinator.com/item?id=48205143 Points: 59 # Comments: 42",
       "source": "Hacker News",
       "published": "2026-05-20T09:26:39+00:00",
       "link": "https://www.kcl.ac.uk/news/one-in-five-britons-think-ai-will-create-civil-unrest-study-finds"
@@ -1316,90 +1400,6 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-05-18T14:56:47+00:00",
       "link": "https://techcrunch.com/2026/05/18/amazons-new-alexa-powered-feature-can-generate-podcast-episodes/"
-    },
-    {
-      "title": "A Stanford student reflects on his ChatGPT class and a culture of \"just a little bit of fraud\"",
-      "summary": "Stanford student Theo Baker describes in a guest essay for the New York Times how ChatGPT shaped his entire graduating class. His conclusion: AI turned an already existing culture of dishonesty at the elite university into the default.",
-      "source": "The Decoder",
-      "published": "2026-05-18T13:42:07+00:00",
-      "link": "https://the-decoder.com/a-stanford-student-reflects-on-his-chatgpt-class-and-a-culture-of-just-a-little-bit-of-fraud/"
-    },
-    {
-      "title": "Researchers Wanted Preschool Teachers to Wear Cameras to Train AI",
-      "summary": "Article URL: https://www.404media.co/researchers-wanted-preschool-teachers-to-wear-cameras-to-train-ai/ Comments URL: https://news.ycombinator.com/item?id=48179569 Points: 94 # Comments: 30",
-      "source": "Hacker News",
-      "published": "2026-05-18T13:26:34+00:00",
-      "link": "https://www.404media.co/researchers-wanted-preschool-teachers-to-wear-cameras-to-train-ai/"
-    },
-    {
-      "title": "Enough with the AI FOMO, go slow-mo, says Domo CDO",
-      "summary": "Article URL: https://www.theregister.com/ai-ml/2026/05/17/enough-with-the-ai-fomo-go-slow-mo-says-domo-cdo/5240840 Comments URL: https://news.ycombinator.com/item?id=48179029 Points: 156 # Comments: 85",
-      "source": "Hacker News",
-      "published": "2026-05-18T12:49:54+00:00",
-      "link": "https://www.theregister.com/ai-ml/2026/05/17/enough-with-the-ai-fomo-go-slow-mo-says-domo-cdo/5240840"
-    },
-    {
-      "title": "AI eats the world (Spring 26) [pdf]",
-      "summary": "Article URL: https://static1.squarespace.com/static/50363cf324ac8e905e7df861/t/6a0af5d0484fbf5fe9a7743e/1779103184855/2026-Spring-AI.pdf Comments URL: https://news.ycombinator.com/item?id=48179021 Points: 300 # Comments: 171",
-      "source": "Hacker News",
-      "published": "2026-05-18T12:49:28+00:00",
-      "link": "https://static1.squarespace.com/static/50363cf324ac8e905e7df861/t/6a0af5d0484fbf5fe9a7743e/1779103184855/2026-Spring-AI.pdf"
-    },
-    {
-      "title": "MAGA-aligned groups want government oversight of frontier AI models",
-      "summary": "A coalition of conservative organizations led by Humans First has called on President Donald Trump in an open letter to issue an executive order requiring mandatory safety testing for frontier AI models before they ship.",
-      "source": "The Decoder",
-      "published": "2026-05-18T12:48:55+00:00",
-      "link": "https://the-decoder.com/maga-aligned-groups-want-government-oversight-of-frontier-ai-models/"
-    },
-    {
-      "title": "Anthropic to brief global financial regulators on cyber flaws found by Claude Mythos",
-      "summary": "Anthropic will brief leading finance ministries and central banks on vulnerabilities in the global financial system's cyber defenses that its new AI model Claude Mythos Preview has uncovered.",
-      "source": "The Decoder",
-      "published": "2026-05-18T12:40:41+00:00",
-      "link": "https://the-decoder.com/anthropic-to-brief-global-financial-regulators-on-cyber-flaws-found-by-claude-mythos/"
-    },
-    {
-      "title": "The Download: Musk v. Altman week 3, and Trump’s tech trading",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Musk v.",
-      "source": "MIT Tech Review",
-      "published": "2026-05-18T12:10:00+00:00",
-      "link": "https://www.technologyreview.com/2026/05/18/1137407/the-download-musk-altman-trial-trump-tech-trading/"
-    },
-    {
-      "title": "Voice AI Systems Are Vulnerable to Hidden Audio Attacks",
-      "summary": "Article URL: https://spectrum.ieee.org/voice-ai-audio-attacks Comments URL: https://news.ycombinator.com/item?id=48178378 Points: 137 # Comments: 31",
-      "source": "Hacker News",
-      "published": "2026-05-18T11:51:05+00:00",
-      "link": "https://spectrum.ieee.org/voice-ai-audio-attacks"
-    },
-    {
-      "title": "South Korea’s LetinAR is building optics behind AI glasses",
-      "summary": "A lens the size of a thumbnail — and the South Korean startup that makes it — could become the optical backbone of the AI glasses era.",
-      "source": "TechCrunch",
-      "published": "2026-05-18T11:00:00+00:00",
-      "link": "https://techcrunch.com/2026/05/18/south-koreas-letinar-is-building-the-optics-behind-ai-glasses/"
-    },
-    {
-      "title": "Eric Schmidt speech about AI booed during graduation",
-      "summary": "Article URL: https://www.nbcnews.com/tech/tech-news/former-google-ceo-booed-graduation-speech-ai-rcna345585 Comments URL: https://news.ycombinator.com/item?id=48177785 Points: 374 # Comments: 392",
-      "source": "Hacker News",
-      "published": "2026-05-18T10:50:25+00:00",
-      "link": "https://www.nbcnews.com/tech/tech-news/former-google-ceo-booed-graduation-speech-ai-rcna345585"
-    },
-    {
-      "title": "Amazon launches Alexa for Shopping as Rufus moves behind the scenes",
-      "summary": "Amazon has introduced Alexa for Shopping, combining its Rufus shopping chatbot with Alexa+ across its app, website, and Echo Show devices. The assistant can answer product questions, compare items, track prices, and support shopping reminders.",
-      "source": "AI News",
-      "published": "2026-05-18T10:00:00+00:00",
-      "link": "https://www.artificialintelligence-news.com/news/amazon-alexa-for-shopping-rufus-ai-assistant/"
-    },
-    {
-      "title": "I’m a Normie. Can Normies Really Vibe Code?",
-      "summary": "Apparently anyone can vibe code anything these days. So Claude and I tried to make a database for tracking the petty grievances of the masses.",
-      "source": "Wired",
-      "published": "2026-05-18T10:00:00+00:00",
-      "link": "https://www.wired.com/story/normie-vibe-code/"
     }
   ]
 };
