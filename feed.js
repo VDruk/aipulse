@@ -1,6 +1,27 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-05-21T22:14:07.866633+00:00",
+  "lastUpdated": "2026-05-22T04:59:16.015661+00:00",
   "items": [
+    {
+      "title": "Samsung chip workers will get an average $340k bonus as AI profits soar",
+      "summary": "Article URL: https://qz.com/samsung-chip-workers-bonus-ai-profits-052126 Comments URL: https://news.ycombinator.com/item?id=48230892 Points: 146 # Comments: 65",
+      "source": "Hacker News",
+      "published": "2026-05-22T01:30:45+00:00",
+      "link": "https://qz.com/samsung-chip-workers-bonus-ai-profits-052126"
+    },
+    {
+      "title": "Can OpenAI’s ‘Master of Disaster’ Fix AI’s Reputation Crisis?",
+      "summary": "Global affairs chief Chris Lehane wants to tone down the debate over AI’s societal impacts—and get states to pass laws that won’t derail OpenAI’s meteoric rise.",
+      "source": "Wired",
+      "published": "2026-05-22T00:04:25+00:00",
+      "link": "https://www.wired.com/story/openai-chris-lehane-global-affairs-pr/"
+    },
+    {
+      "title": "Tell HN: I'm tired of AI-generated answers",
+      "summary": "I found GitHub repositories that were spreading malware. I asked AI what I should do about it, but it gave me nothing useful.",
+      "source": "Hacker News",
+      "published": "2026-05-21T23:37:14+00:00",
+      "link": "https://news.ycombinator.com/item?id=48230104"
+    },
     {
       "title": "Meta Is in Crisis, Google Search’s Makeover, and AI Gets Booed by Graduates",
       "summary": "In this episode of Uncanny Valley, we unpack the mass layoffs at Meta, big announcements at Google I/O, and the latest backlash against AI.",
@@ -56,6 +77,13 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-05-21T19:07:33+00:00",
       "link": "https://the-decoder.com/google-tests-websites-for-llms-txt-and-agent-compatibility/"
+    },
+    {
+      "title": "Seattle Shield, an intelligence-sharing network operated by the Seattle police",
+      "summary": "Article URL: https://prismreports.org/2026/05/20/seattle-shield-private-companies-surveillance/ Comments URL: https://news.ycombinator.com/item?id=48226588 Points: 435 # Comments: 170",
+      "source": "Hacker News",
+      "published": "2026-05-21T17:55:58+00:00",
+      "link": "https://prismreports.org/2026/05/20/seattle-shield-private-companies-surveillance/"
     },
     {
       "title": "Amazon, Facebook, FBI have access to a private intelligence-sharing network",
@@ -142,6 +170,13 @@ const FEED_DATA = {
       "link": "https://techcrunch.com/2026/05/21/spotify-adds-ai-powered-qa-and-briefing-generation-features-to-podcasts/"
     },
     {
+      "title": "Spotify launches an ElevenLabs-powered audiobook creation tool",
+      "summary": "The AI-powered audiobook generation won't bind authors to an exclusive contract, meaning they are free to publish their generated audiobooks anywhere.",
+      "source": "TechCrunch",
+      "published": "2026-05-21T15:27:00+00:00",
+      "link": "https://techcrunch.com/2026/05/21/spotify-launches-an-elevenlabs-powered-audiobook-creation-tool/"
+    },
+    {
       "title": "US Cyber Command races to deploy AI on top-secret networks",
       "summary": "US Cyber Command has launched a task force to run AI models from OpenAI, Google, and others on the most classified Pentagon and NSA networks.",
       "source": "The Decoder",
@@ -220,14 +255,14 @@ const FEED_DATA = {
     },
     {
       "title": "AI is just unauthorised plagiarism at a bigger scale",
-      "summary": "Article URL: https://axelk.ee/ai-is-just-unauthorised-plagiarism-at-a-bigger-scale/ Comments URL: https://news.ycombinator.com/item?id=48222383 Points: 676 # Comments: 561",
+      "summary": "Article URL: https://axelk.ee/ai-is-just-unauthorised-plagiarism-at-a-bigger-scale/ Comments URL: https://news.ycombinator.com/item?id=48222383 Points: 762 # Comments: 661",
       "source": "Hacker News",
       "published": "2026-05-21T13:38:12+00:00",
       "link": "https://axelk.ee/ai-is-just-unauthorised-plagiarism-at-a-bigger-scale/"
     },
     {
       "title": "Shunning AI is the human choice",
-      "summary": "Article URL: https://www.thehandbasket.co/p/hating-ai-is-good-actually Comments URL: https://news.ycombinator.com/item?id=48222366 Points: 327 # Comments: 474",
+      "summary": "Article URL: https://www.thehandbasket.co/p/hating-ai-is-good-actually Comments URL: https://news.ycombinator.com/item?id=48222366 Points: 353 # Comments: 494",
       "source": "Hacker News",
       "published": "2026-05-21T13:36:06+00:00",
       "link": "https://www.thehandbasket.co/p/hating-ai-is-good-actually"
@@ -252,6 +287,13 @@ const FEED_DATA = {
       "source": "Hacker News",
       "published": "2026-05-21T09:49:46+00:00",
       "link": "https://blog.google/products/ads-commerce/google-marketing-live-search-ads/"
+    },
+    {
+      "title": "Throwing AI-generated walls of text into conversations",
+      "summary": "Article URL: https://noslopgrenade.com/ Comments URL: https://news.ycombinator.com/item?id=48219992 Points: 541 # Comments: 318",
+      "source": "Hacker News",
+      "published": "2026-05-21T09:31:15+00:00",
+      "link": "https://noslopgrenade.com/"
     },
     {
       "title": "Stop throwing AI-generated walls of text into conversations",
@@ -304,7 +346,7 @@ const FEED_DATA = {
     },
     {
       "title": "Intuit to lay off over 3k employees to refocus on AI",
-      "summary": "Article URL: https://techcrunch.com/2026/05/20/intuit-to-lay-off-over-3000-employees-to-refocus-on-ai/ Comments URL: https://news.ycombinator.com/item?id=48216278 Points: 240 # Comments: 175",
+      "summary": "Article URL: https://techcrunch.com/2026/05/20/intuit-to-lay-off-over-3000-employees-to-refocus-on-ai/ Comments URL: https://news.ycombinator.com/item?id=48216278 Points: 252 # Comments: 187",
       "source": "Hacker News",
       "published": "2026-05-21T00:36:01+00:00",
       "link": "https://techcrunch.com/2026/05/20/intuit-to-lay-off-over-3000-employees-to-refocus-on-ai/"
@@ -374,7 +416,7 @@ const FEED_DATA = {
     },
     {
       "title": "Cloudflare CEO on how he chooses which employees to replace with AI",
-      "summary": "Article URL: https://www.wsj.com/opinion/how-i-choose-which-cloudflare-employees-to-replace-with-ai-40a197e5 Comments URL: https://news.ycombinator.com/item?id=48214617 Points: 99 # Comments: 42",
+      "summary": "Article URL: https://www.wsj.com/opinion/how-i-choose-which-cloudflare-employees-to-replace-with-ai-40a197e5 Comments URL: https://news.ycombinator.com/item?id=48214617 Points: 107 # Comments: 42",
       "source": "Hacker News",
       "published": "2026-05-20T21:45:57+00:00",
       "link": "https://www.wsj.com/opinion/how-i-choose-which-cloudflare-employees-to-replace-with-ai-40a197e5"
@@ -385,6 +427,13 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-05-20T21:29:22+00:00",
       "link": "https://techcrunch.com/2026/05/20/anthropic-will-pay-xai-1-25-billion-per-month-for-compute/"
+    },
+    {
+      "title": "PopuLoRA: Co-Evolving LLM Populations for Reasoning Self- Play",
+      "summary": "Article URL: https://vmax.ai/team/populora-co-evolving-llm-populations-for-reasoning-self-play Comments URL: https://news.ycombinator.com/item?id=48214188 Points: 50 # Comments: 6",
+      "source": "Hacker News",
+      "published": "2026-05-20T21:11:55+00:00",
+      "link": "https://vmax.ai/team/populora-co-evolving-llm-populations-for-reasoning-self-play"
     },
     {
       "title": "OpenAI claims it solved an 80-year-old math problem — for real this time",
@@ -451,7 +500,7 @@ const FEED_DATA = {
     },
     {
       "title": "Formal Verification Gates for AI Coding Loops",
-      "summary": "Article URL: https://reubenbrooks.dev/blog/structural-backpressure-beats-smarter-agents/ Comments URL: https://news.ycombinator.com/item?id=48209323 Points: 135 # Comments: 30",
+      "summary": "Article URL: https://reubenbrooks.dev/blog/structural-backpressure-beats-smarter-agents/ Comments URL: https://news.ycombinator.com/item?id=48209323 Points: 139 # Comments: 31",
       "source": "Hacker News",
       "published": "2026-05-20T15:25:45+00:00",
       "link": "https://reubenbrooks.dev/blog/structural-backpressure-beats-smarter-agents/"
@@ -486,7 +535,7 @@ const FEED_DATA = {
     },
     {
       "title": "Testing distributed systems with AI agents",
-      "summary": "Article URL: https://github.com/shenli/distributed-system-testing Comments URL: https://news.ycombinator.com/item?id=48208685 Points: 91 # Comments: 18",
+      "summary": "Article URL: https://github.com/shenli/distributed-system-testing Comments URL: https://news.ycombinator.com/item?id=48208685 Points: 93 # Comments: 20",
       "source": "Hacker News",
       "published": "2026-05-20T14:40:42+00:00",
       "link": "https://github.com/shenli/distributed-system-testing"
@@ -549,7 +598,7 @@ const FEED_DATA = {
     },
     {
       "title": "Google’s AI is being manipulated. The search giant is quietly fighting back",
-      "summary": "Article URL: https://www.bbc.com/future/article/20260519-google-tackles-attempts-to-hack-its-ai-results Comments URL: https://news.ycombinator.com/item?id=48205782 Points: 329 # Comments: 209",
+      "summary": "Article URL: https://www.bbc.com/future/article/20260519-google-tackles-attempts-to-hack-its-ai-results Comments URL: https://news.ycombinator.com/item?id=48205782 Points: 331 # Comments: 210",
       "source": "Hacker News",
       "published": "2026-05-20T10:57:09+00:00",
       "link": "https://www.bbc.com/future/article/20260519-google-tackles-attempts-to-hack-its-ai-results"
@@ -563,7 +612,7 @@ const FEED_DATA = {
     },
     {
       "title": "Learnings from 100K lines of Rust with AI (2025)",
-      "summary": "Article URL: https://zfhuang99.github.io/rust/claude%20code/codex/contracts/spec-driven%20development/2025/12/01/rust-with-ai.html Comments URL: https://news.ycombinator.com/item?id=48205415 Points: 167 # Comments: 195",
+      "summary": "Article URL: https://zfhuang99.github.io/rust/claude%20code/codex/contracts/spec-driven%20development/2025/12/01/rust-with-ai.html Comments URL: https://news.ycombinator.com/item?id=48205415 Points: 174 # Comments: 200",
       "source": "Hacker News",
       "published": "2026-05-20T10:04:28+00:00",
       "link": "https://zfhuang99.github.io/rust/claude%20code/codex/contracts/spec-driven%20development/2025/12/01/rust-with-ai.html"
@@ -577,7 +626,7 @@ const FEED_DATA = {
     },
     {
       "title": "Public have more fear than hope on AI and future of work, study finds",
-      "summary": "Article URL: https://www.kcl.ac.uk/news/one-in-five-britons-think-ai-will-create-civil-unrest-study-finds Comments URL: https://news.ycombinator.com/item?id=48205143 Points: 58 # Comments: 37",
+      "summary": "Article URL: https://www.kcl.ac.uk/news/one-in-five-britons-think-ai-will-create-civil-unrest-study-finds Comments URL: https://news.ycombinator.com/item?id=48205143 Points: 59 # Comments: 40",
       "source": "Hacker News",
       "published": "2026-05-20T09:26:39+00:00",
       "link": "https://www.kcl.ac.uk/news/one-in-five-britons-think-ai-will-create-civil-unrest-study-finds"
@@ -598,7 +647,7 @@ const FEED_DATA = {
     },
     {
       "title": "Remove-AI-Watermarks – CLI and library for removing AI watermarks from images",
-      "summary": "Article URL: https://github.com/wiltodelta/remove-ai-watermarks Comments URL: https://news.ycombinator.com/item?id=48200569 Points: 382 # Comments: 253",
+      "summary": "Article URL: https://github.com/wiltodelta/remove-ai-watermarks Comments URL: https://news.ycombinator.com/item?id=48200569 Points: 383 # Comments: 253",
       "source": "Hacker News",
       "published": "2026-05-19T22:30:31+00:00",
       "link": "https://github.com/wiltodelta/remove-ai-watermarks"
@@ -668,7 +717,7 @@ const FEED_DATA = {
     },
     {
       "title": "OpenAI Adopts Google's SynthID Watermark for AI Images with Verification Tool",
-      "summary": "Article URL: https://openai.com/index/advancing-content-provenance/ Comments URL: https://news.ycombinator.com/item?id=48198291 Points: 331 # Comments: 179",
+      "summary": "Article URL: https://openai.com/index/advancing-content-provenance/ Comments URL: https://news.ycombinator.com/item?id=48198291 Points: 331 # Comments: 180",
       "source": "Hacker News",
       "published": "2026-05-19T19:34:30+00:00",
       "link": "https://openai.com/index/advancing-content-provenance/"
@@ -696,7 +745,7 @@ const FEED_DATA = {
     },
     {
       "title": "Mistral AI acquires Emmi AI",
-      "summary": "Article URL: https://www.emmi.ai/news/mistral-ai-acquires-emmi-ai Comments URL: https://news.ycombinator.com/item?id=48197995 Points: 335 # Comments: 97",
+      "summary": "Article URL: https://www.emmi.ai/news/mistral-ai-acquires-emmi-ai Comments URL: https://news.ycombinator.com/item?id=48197995 Points: 336 # Comments: 98",
       "source": "Hacker News",
       "published": "2026-05-19T19:14:12+00:00",
       "link": "https://www.emmi.ai/news/mistral-ai-acquires-emmi-ai"
@@ -1351,55 +1400,6 @@ const FEED_DATA = {
       "source": "Hacker News",
       "published": "2026-05-17T19:30:52+00:00",
       "link": "https://bsky.app/profile/404media.co/post/3mm2ivguvq22x"
-    },
-    {
-      "title": "Revamped Siri will reportedly offer autodeleting chats",
-      "summary": "Apple is hoping that its record on privacy can be the differentiator on the AI front and maybe even buy it a little slack as it continues to lag behind the competition.",
-      "source": "The Verge",
-      "published": "2026-05-17T18:40:28+00:00",
-      "link": "https://www.theverge.com/tech/932207/siri-apple-intelligence-auto-deleting-chats"
-    },
-    {
-      "title": "University of Arizona students boo Eric Schmidt's AI cheerleading",
-      "summary": "Article URL: https://www.theverge.com/ai-artificial-intelligence/932203/university-of-arizona-students-boo-eric-schmidt-ai-commencement Comments URL: https://news.ycombinator.com/item?id=48171852 Points: 102 # Comments: 1",
-      "source": "Hacker News",
-      "published": "2026-05-17T18:37:59+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/932203/university-of-arizona-students-boo-eric-schmidt-ai-commencement"
-    },
-    {
-      "title": "The AI water issue is fake",
-      "summary": "Article URL: https://blog.andymasley.com/p/the-ai-water-issue-is-fake Comments URL: https://news.ycombinator.com/item?id=48171826 Points: 82 # Comments: 58",
-      "source": "Hacker News",
-      "published": "2026-05-17T18:35:18+00:00",
-      "link": "https://blog.andymasley.com/p/the-ai-water-issue-is-fake"
-    },
-    {
-      "title": "If you’re giving a commencement speech in 2026, maybe don’t mention AI",
-      "summary": "It's tough to get graduating students excited about a future shaped by artificial intelligence.",
-      "source": "TechCrunch",
-      "published": "2026-05-17T16:32:04+00:00",
-      "link": "https://techcrunch.com/2026/05/17/if-youre-giving-a-commencement-speech-in-2026-maybe-dont-mention-ai/"
-    },
-    {
-      "title": "TechCrunch Mobility: The AI skills arms race is coming for automotive",
-      "summary": "Welcome back to TechCrunch Mobility — your central hub for news and insights on the future of transportation.",
-      "source": "TechCrunch",
-      "published": "2026-05-17T16:05:00+00:00",
-      "link": "https://techcrunch.com/2026/05/17/techcrunch-mobility-the-ai-skills-arms-race-is-coming-for-automotive/"
-    },
-    {
-      "title": "Mistral's CEO: Europe has 2 years to stop becoming America's AI 'vassal state'",
-      "summary": "Article URL: https://www.businessinsider.com/mistral-ceo-warns-europe-2-years-avoid-us-ai-dependence-2026-5 Comments URL: https://news.ycombinator.com/item?id=48170122 Points: 115 # Comments: 194",
-      "source": "Hacker News",
-      "published": "2026-05-17T16:04:28+00:00",
-      "link": "https://www.businessinsider.com/mistral-ceo-warns-europe-2-years-avoid-us-ai-dependence-2026-5"
-    },
-    {
-      "title": "AI license plate cameras tore this town apart and led to a state of emergency",
-      "summary": "Article URL: https://www.washingtonpost.com/nation/2026/05/17/citys-ai-license-plate-cameras-led-an-uproar-state-emergency/ Comments URL: https://news.ycombinator.com/item?id=48169819 Points: 53 # Comments: 19",
-      "source": "Hacker News",
-      "published": "2026-05-17T15:31:08+00:00",
-      "link": "https://www.washingtonpost.com/nation/2026/05/17/citys-ai-license-plate-cameras-led-an-uproar-state-emergency/"
     }
   ]
 };
