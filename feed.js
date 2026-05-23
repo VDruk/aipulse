@@ -1,6 +1,20 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-05-23T14:40:35.217243+00:00",
+  "lastUpdated": "2026-05-23T17:56:24.400265+00:00",
   "items": [
+    {
+      "title": "Deepseek makes its 75 percent discount permanent, pricing output tokens at least 34x below GPT-5.5",
+      "summary": "Deepseek is making the 75 percent discount on its top model V4-Pro permanent. At $0.435 per million input tokens, it's at least 11.5 times cheaper than GPT-5.5 and over 34 times cheaper on output.",
+      "source": "The Decoder",
+      "published": "2026-05-23T17:10:59+00:00",
+      "link": "https://the-decoder.com/deepseek-makes-its-75-percent-discount-permanent-pricing-output-tokens-at-least-34x-below-gpt-5-5/"
+    },
+    {
+      "title": "Ferrari is using IBM’s AI to create F1 superfans",
+      "summary": "IBM and Scuderia Ferrari HP take TechCrunch inside how they are redefining the fan experience.",
+      "source": "TechCrunch",
+      "published": "2026-05-23T15:08:00+00:00",
+      "link": "https://techcrunch.com/2026/05/23/ferrari-is-using-ai-to-create-f1-superfans/"
+    },
     {
       "title": "Elon Musk has given up on solar power (on Earth)",
       "summary": "Elon Muks's xAI has gone all in on natural gas, while SpaceX is obsessed with orbital data centers. What happened to the \"solar-electric economy\" he promised?",
@@ -1386,20 +1400,6 @@ const FEED_DATA = {
       "source": "MIT Tech Review",
       "published": "2026-05-19T12:10:00+00:00",
       "link": "https://www.technologyreview.com/2026/05/19/1137505/the-download-musk-altman-trial-smart-glasses-warfare-google-i-o/"
-    },
-    {
-      "title": "Mistral AI acquires Viennese physical AI startup Emmi AI",
-      "summary": "French AI company Mistral AI has acquired Vienna-based startup Emmi AI to expand its offering for industrial clients across Europe. The article Mistral AI acquires Viennese physical AI startup Emmi AI appeared first on The Decoder.",
-      "source": "The Decoder",
-      "published": "2026-05-19T11:27:09+00:00",
-      "link": "https://the-decoder.com/mistral-ai-acquires-viennese-physical-ai-startup-emmi-ai/"
-    },
-    {
-      "title": "Cloudflare says Anthropic's Mythos Preview finds exploit chains that earlier frontier models missed",
-      "summary": "Cloudflare tested Anthropic's security-focused AI model Mythos Preview across more than 50 of its own code repositories as part of Project Glasswing.",
-      "source": "The Decoder",
-      "published": "2026-05-19T11:13:48+00:00",
-      "link": "https://the-decoder.com/cloudflare-says-anthropics-mythos-preview-finds-exploit-chains-that-earlier-frontier-models-missed/"
     }
   ]
 };
