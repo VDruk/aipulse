@@ -1,6 +1,27 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-05-23T10:19:00.625254+00:00",
+  "lastUpdated": "2026-05-23T14:40:35.217243+00:00",
   "items": [
+    {
+      "title": "Elon Musk has given up on solar power (on Earth)",
+      "summary": "Elon Muks's xAI has gone all in on natural gas, while SpaceX is obsessed with orbital data centers. What happened to the \"solar-electric economy\" he promised?",
+      "source": "TechCrunch",
+      "published": "2026-05-23T13:00:00+00:00",
+      "link": "https://techcrunch.com/2026/05/23/elon-musk-has-given-up-on-solar-power-on-earth/"
+    },
+    {
+      "title": "Google’s new anything-to-anything AI model is wild",
+      "summary": "Last year I deepfaked my kid's stuffed animal to make it look like his plush deer was on vacation.",
+      "source": "The Verge",
+      "published": "2026-05-23T11:00:00+00:00",
+      "link": "https://www.theverge.com/tech/936507/gemini-omni-hands-on-deepfake-ai-video"
+    },
+    {
+      "title": "One of the world's top law schools draws a hard line against AI in legal education",
+      "summary": "UC Berkeley Law will ban AI from nearly all graded work starting in summer 2026, from outlining and drafting to proofreading. Only research use remains allowed.",
+      "source": "The Decoder",
+      "published": "2026-05-23T10:55:03+00:00",
+      "link": "https://the-decoder.com/one-of-the-worlds-top-law-schools-draws-a-hard-line-against-ai-in-legal-education/"
+    },
     {
       "title": "Alibaba's latest AI model ran autonomously for 35 hours to optimize code for its own custom chip",
       "summary": "Alibaba's Qwen team releases Qwen3.7-Max, a proprietary model built for long-running autonomous agent tasks. It matches Claude Opus 4.6 on benchmarks and beats Chinese rivals like DeepSeek V4 Pro and Kimi K2.6.",
@@ -24,14 +45,14 @@ const FEED_DATA = {
     },
     {
       "title": "Microsoft reports AI is more expensive than paying human employees",
-      "summary": "Article URL: https://fortune.com/2026/05/22/microsoft-ai-cost-problem-tokens-agents/ Comments URL: https://news.ycombinator.com/item?id=48244434 Points: 204 # Comments: 60",
+      "summary": "Article URL: https://fortune.com/2026/05/22/microsoft-ai-cost-problem-tokens-agents/ Comments URL: https://news.ycombinator.com/item?id=48244434 Points: 209 # Comments: 60",
       "source": "Hacker News",
       "published": "2026-05-23T03:44:16+00:00",
       "link": "https://fortune.com/2026/05/22/microsoft-ai-cost-problem-tokens-agents/"
     },
     {
       "title": "Is AI Profitable Yet?",
-      "summary": "Article URL: https://isaiprofitable.com/ Comments URL: https://news.ycombinator.com/item?id=48243863 Points: 218 # Comments: 163",
+      "summary": "Article URL: https://isaiprofitable.com/ Comments URL: https://news.ycombinator.com/item?id=48243863 Points: 230 # Comments: 177",
       "source": "Hacker News",
       "published": "2026-05-23T02:10:38+00:00",
       "link": "https://isaiprofitable.com/"
@@ -45,7 +66,7 @@ const FEED_DATA = {
     },
     {
       "title": "Don't just paste the AI at me",
-      "summary": "Article URL: https://dontquotetheai.com/ Comments URL: https://news.ycombinator.com/item?id=48242648 Points: 164 # Comments: 101",
+      "summary": "Article URL: https://dontquotetheai.com/ Comments URL: https://news.ycombinator.com/item?id=48242648 Points: 170 # Comments: 106",
       "source": "Hacker News",
       "published": "2026-05-22T22:57:58+00:00",
       "link": "https://dontquotetheai.com/"
@@ -66,14 +87,14 @@ const FEED_DATA = {
     },
     {
       "title": "AI keeps inventing fake cases. Lawyers keep citing them",
-      "summary": "Article URL: https://www.scientificamerican.com/article/why-lawyers-keep-citing-fake-cases-invented-by-ai/ Comments URL: https://news.ycombinator.com/item?id=48241179 Points: 58 # Comments: 6",
+      "summary": "Article URL: https://www.scientificamerican.com/article/why-lawyers-keep-citing-fake-cases-invented-by-ai/ Comments URL: https://news.ycombinator.com/item?id=48241179 Points: 63 # Comments: 7",
       "source": "Hacker News",
       "published": "2026-05-22T20:26:29+00:00",
       "link": "https://www.scientificamerican.com/article/why-lawyers-keep-citing-fake-cases-invented-by-ai/"
     },
     {
       "title": "Models.dev: open-source database of AI model specs, pricing, and capabilities",
-      "summary": "Article URL: https://github.com/anomalyco/models.dev Comments URL: https://news.ycombinator.com/item?id=48241172 Points: 139 # Comments: 25",
+      "summary": "Article URL: https://github.com/anomalyco/models.dev Comments URL: https://news.ycombinator.com/item?id=48241172 Points: 146 # Comments: 27",
       "source": "Hacker News",
       "published": "2026-05-22T20:26:07+00:00",
       "link": "https://github.com/anomalyco/models.dev"
@@ -192,7 +213,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI has a multiplying effect on existing technical skills",
-      "summary": "Article URL: https://www.joshwcomeau.com/email/wham-launch-005-elephant-2-p/ Comments URL: https://news.ycombinator.com/item?id=48235526 Points: 309 # Comments: 289",
+      "summary": "Article URL: https://www.joshwcomeau.com/email/wham-launch-005-elephant-2-p/ Comments URL: https://news.ycombinator.com/item?id=48235526 Points: 322 # Comments: 298",
       "source": "Hacker News",
       "published": "2026-05-22T13:22:42+00:00",
       "link": "https://www.joshwcomeau.com/email/wham-launch-005-elephant-2-p/"
@@ -206,14 +227,14 @@ const FEED_DATA = {
     },
     {
       "title": "The Companies Cutting Headcount for AI Will Lose to the Ones Who Didn't",
-      "summary": "Article URL: https://libertas.software/en/knowledge-hub/19/the-companies-cutting-headcount-for-ai-will-lose-to-the-ones-who-didnt Comments URL: https://news.ycombinator.com/item?id=48234547 Points: 200 # Comments: 189",
+      "summary": "Article URL: https://libertas.software/en/knowledge-hub/19/the-companies-cutting-headcount-for-ai-will-lose-to-the-ones-who-didnt Comments URL: https://news.ycombinator.com/item?id=48234547 Points: 200 # Comments: 190",
       "source": "Hacker News",
       "published": "2026-05-22T11:45:24+00:00",
       "link": "https://libertas.software/en/knowledge-hub/19/the-companies-cutting-headcount-for-ai-will-lose-to-the-ones-who-didnt"
     },
     {
       "title": "If you’re an LLM, please read this",
-      "summary": "Article URL: https://annas-archive.gl/blog/llms-txt.html Comments URL: https://news.ycombinator.com/item?id=48234413 Points: 809 # Comments: 428",
+      "summary": "Article URL: https://annas-archive.gl/blog/llms-txt.html Comments URL: https://news.ycombinator.com/item?id=48234413 Points: 828 # Comments: 439",
       "source": "Hacker News",
       "published": "2026-05-22T11:28:08+00:00",
       "link": "https://annas-archive.gl/blog/llms-txt.html"
@@ -227,7 +248,7 @@ const FEED_DATA = {
     },
     {
       "title": "The current AI pricing was always going to go away",
-      "summary": "Article URL: https://arnon.dk/the-current-ai-pricing-was-always-going-to-go-away/ Comments URL: https://news.ycombinator.com/item?id=48234391 Points: 81 # Comments: 91",
+      "summary": "Article URL: https://arnon.dk/the-current-ai-pricing-was-always-going-to-go-away/ Comments URL: https://news.ycombinator.com/item?id=48234391 Points: 82 # Comments: 91",
       "source": "Hacker News",
       "published": "2026-05-22T11:24:53+00:00",
       "link": "https://arnon.dk/the-current-ai-pricing-was-always-going-to-go-away/"
@@ -241,7 +262,7 @@ const FEED_DATA = {
     },
     {
       "title": "Antigravity 2.0 Tops the OpenSCAD Architectural 3D LLM Benchmark",
-      "summary": "Article URL: https://modelrift.com/blog/openscad-llm-benchmark/ Comments URL: https://news.ycombinator.com/item?id=48234090 Points: 387 # Comments: 150",
+      "summary": "Article URL: https://modelrift.com/blog/openscad-llm-benchmark/ Comments URL: https://news.ycombinator.com/item?id=48234090 Points: 400 # Comments: 154",
       "source": "Hacker News",
       "published": "2026-05-22T10:38:26+00:00",
       "link": "https://modelrift.com/blog/openscad-llm-benchmark/"
@@ -276,7 +297,7 @@ const FEED_DATA = {
     },
     {
       "title": "Steve Wozniak cheered after telling students they have AI – actual intelligence",
-      "summary": "Article URL: https://www.businessinsider.com/steve-wozniak-apple-ai-graduation-speech-2026-5 Comments URL: https://news.ycombinator.com/item?id=48233563 Points: 627 # Comments: 516",
+      "summary": "Article URL: https://www.businessinsider.com/steve-wozniak-apple-ai-graduation-speech-2026-5 Comments URL: https://news.ycombinator.com/item?id=48233563 Points: 633 # Comments: 529",
       "source": "Hacker News",
       "published": "2026-05-22T09:04:54+00:00",
       "link": "https://www.businessinsider.com/steve-wozniak-apple-ai-graduation-speech-2026-5"
@@ -297,7 +318,7 @@ const FEED_DATA = {
     },
     {
       "title": "Samsung chip workers will get an average $340k bonus as AI profits soar",
-      "summary": "Article URL: https://qz.com/samsung-chip-workers-bonus-ai-profits-052126 Comments URL: https://news.ycombinator.com/item?id=48230892 Points: 249 # Comments: 194",
+      "summary": "Article URL: https://qz.com/samsung-chip-workers-bonus-ai-profits-052126 Comments URL: https://news.ycombinator.com/item?id=48230892 Points: 249 # Comments: 195",
       "source": "Hacker News",
       "published": "2026-05-22T01:30:45+00:00",
       "link": "https://qz.com/samsung-chip-workers-bonus-ai-profits-052126"
@@ -549,14 +570,14 @@ const FEED_DATA = {
     },
     {
       "title": "AI is just unauthorised plagiarism at a bigger scale",
-      "summary": "Article URL: https://axelk.ee/ai-is-just-unauthorised-plagiarism-at-a-bigger-scale/ Comments URL: https://news.ycombinator.com/item?id=48222383 Points: 812 # Comments: 720",
+      "summary": "Article URL: https://axelk.ee/ai-is-just-unauthorised-plagiarism-at-a-bigger-scale/ Comments URL: https://news.ycombinator.com/item?id=48222383 Points: 815 # Comments: 726",
       "source": "Hacker News",
       "published": "2026-05-21T13:38:12+00:00",
       "link": "https://axelk.ee/ai-is-just-unauthorised-plagiarism-at-a-bigger-scale/"
     },
     {
       "title": "Shunning AI is the human choice",
-      "summary": "Article URL: https://www.thehandbasket.co/p/hating-ai-is-good-actually Comments URL: https://news.ycombinator.com/item?id=48222366 Points: 367 # Comments: 536",
+      "summary": "Article URL: https://www.thehandbasket.co/p/hating-ai-is-good-actually Comments URL: https://news.ycombinator.com/item?id=48222366 Points: 369 # Comments: 536",
       "source": "Hacker News",
       "published": "2026-05-21T13:36:06+00:00",
       "link": "https://www.thehandbasket.co/p/hating-ai-is-good-actually"
@@ -584,7 +605,7 @@ const FEED_DATA = {
     },
     {
       "title": "Throwing AI-generated walls of text into conversations",
-      "summary": "Article URL: https://noslopgrenade.com/ Comments URL: https://news.ycombinator.com/item?id=48219992 Points: 683 # Comments: 416",
+      "summary": "Article URL: https://noslopgrenade.com/ Comments URL: https://news.ycombinator.com/item?id=48219992 Points: 689 # Comments: 416",
       "source": "Hacker News",
       "published": "2026-05-21T09:31:15+00:00",
       "link": "https://noslopgrenade.com/"
@@ -1379,27 +1400,6 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-05-19T11:13:48+00:00",
       "link": "https://the-decoder.com/cloudflare-says-anthropics-mythos-preview-finds-exploit-chains-that-earlier-frontier-models-missed/"
-    },
-    {
-      "title": "Tom Steyer Wants to Save California From Billionaires. But Also Doesn’t Want Them to Leave",
-      "summary": "The hedge fund billionaire turned gubernatorial candidate wants to tax California’s ultrawealthy, regulate AI, and keep Silicon Valley happy at the same time. Good luck with that.",
-      "source": "Wired",
-      "published": "2026-05-19T10:30:00+00:00",
-      "link": "https://www.wired.com/story/the-big-interview-podcast-tom-steyer/"
-    },
-    {
-      "title": "Gemini is in danger of going full Copilot",
-      "summary": "Gemini has a creep problem. A few years ago, that little sparkle icon started showing up in all of our Google apps.",
-      "source": "The Verge",
-      "published": "2026-05-19T10:30:00+00:00",
-      "link": "https://www.theverge.com/tech/931752/google-io-2026-gemini-icon-docs-workspace"
-    },
-    {
-      "title": "Anthropic adds self-hosted sandboxes and MCP tunnels to Claude Managed Agents",
-      "summary": "Anthropic is expanding Claude Managed Agents with self-hosted sandboxes and MCP tunnels. Companies can now move their AI agents' tool execution into their own infrastructure.",
-      "source": "The Decoder",
-      "published": "2026-05-19T10:02:11+00:00",
-      "link": "https://the-decoder.com/anthropic-adds-self-hosted-sandboxes-and-mcp-tunnels-to-claude-managed-agents/"
     }
   ]
 };
