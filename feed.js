@@ -1,6 +1,27 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-05-24T07:50:12.828693+00:00",
+  "lastUpdated": "2026-05-24T10:24:13.557158+00:00",
   "items": [
+    {
+      "title": "Why you shouldn't leave model selection on default in Copilot, Gemini and other AI tools",
+      "summary": "When analyzing data, Microsoft Copilot invents country differences where none exist. Mathematician Adam Kucharski fed the tool identical datasets with different country labels, and Copilot delivered detailed stereotypes instead of accurate results.",
+      "source": "The Decoder",
+      "published": "2026-05-24T10:17:46+00:00",
+      "link": "https://the-decoder.com/why-you-shouldnt-leave-model-selection-on-default-in-copilot-gemini-and-other-ai-tools/"
+    },
+    {
+      "title": "Anthropic may keep supplying Claude to the NSA despite being flagged as a supply chain risk by the Pentagon",
+      "summary": "Anthropic will likely keep supplying AI models to the NSA despite being labeled a \"supply chain risk.\" Intelligence agencies lack Nvidia's latest Grace Blackwell chips, and Anthropic's \"Mythos\" model reportedly runs on older hardware too.",
+      "source": "The Decoder",
+      "published": "2026-05-24T08:51:02+00:00",
+      "link": "https://the-decoder.com/anthropic-may-keep-supplying-claude-to-the-nsa-despite-being-flagged-as-a-supply-chain-risk-by-the-pentagon/"
+    },
+    {
+      "title": "Researchers let Claude Code discover AI scaling algorithms that humans probably wouldn't have designed",
+      "summary": "Researchers from UMD, Google, Meta, and other institutions use AutoTTS to let a coding agent independently discover control algorithms for AI reasoning. The algorithm it found cuts compute by about 70 percent compared to standard self-consistency while matching its accuracy.",
+      "source": "The Decoder",
+      "published": "2026-05-24T08:06:35+00:00",
+      "link": "https://the-decoder.com/researchers-let-claude-code-discover-ai-scaling-algorithms-that-humans-probably-wouldnt-have-designed/"
+    },
     {
       "title": "Deepseek makes its 75 percent discount permanent, pricing output tokens at least 34x below GPT-5.5",
       "summary": "Deepseek is making the 75 percent discount on its top model V4-Pro permanent. At $0.435 per million input tokens, it's at least 11.5 times cheaper than GPT-5.5 and over 34 times cheaper on output.",
@@ -59,7 +80,7 @@ const FEED_DATA = {
     },
     {
       "title": "Microsoft reports AI is more expensive than paying human employees",
-      "summary": "Article URL: https://fortune.com/2026/05/22/microsoft-ai-cost-problem-tokens-agents/ Comments URL: https://news.ycombinator.com/item?id=48244434 Points: 224 # Comments: 65",
+      "summary": "Article URL: https://fortune.com/2026/05/22/microsoft-ai-cost-problem-tokens-agents/ Comments URL: https://news.ycombinator.com/item?id=48244434 Points: 225 # Comments: 65",
       "source": "Hacker News",
       "published": "2026-05-23T03:44:16+00:00",
       "link": "https://fortune.com/2026/05/22/microsoft-ai-cost-problem-tokens-agents/"
@@ -80,7 +101,7 @@ const FEED_DATA = {
     },
     {
       "title": "Don't just paste the AI at me",
-      "summary": "Article URL: https://dontquotetheai.com/ Comments URL: https://news.ycombinator.com/item?id=48242648 Points: 178 # Comments: 113",
+      "summary": "Article URL: https://dontquotetheai.com/ Comments URL: https://news.ycombinator.com/item?id=48242648 Points: 179 # Comments: 113",
       "source": "Hacker News",
       "published": "2026-05-22T22:57:58+00:00",
       "link": "https://dontquotetheai.com/"
@@ -108,7 +129,7 @@ const FEED_DATA = {
     },
     {
       "title": "Models.dev: open-source database of AI model specs, pricing, and capabilities",
-      "summary": "Article URL: https://github.com/anomalyco/models.dev Comments URL: https://news.ycombinator.com/item?id=48241172 Points: 153 # Comments: 27",
+      "summary": "Article URL: https://github.com/anomalyco/models.dev Comments URL: https://news.ycombinator.com/item?id=48241172 Points: 155 # Comments: 27",
       "source": "Hacker News",
       "published": "2026-05-22T20:26:07+00:00",
       "link": "https://github.com/anomalyco/models.dev"
@@ -227,7 +248,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI has a multiplying effect on existing technical skills",
-      "summary": "Article URL: https://www.joshwcomeau.com/email/wham-launch-005-elephant-2-p/ Comments URL: https://news.ycombinator.com/item?id=48235526 Points: 332 # Comments: 309",
+      "summary": "Article URL: https://www.joshwcomeau.com/email/wham-launch-005-elephant-2-p/ Comments URL: https://news.ycombinator.com/item?id=48235526 Points: 335 # Comments: 310",
       "source": "Hacker News",
       "published": "2026-05-22T13:22:42+00:00",
       "link": "https://www.joshwcomeau.com/email/wham-launch-005-elephant-2-p/"
@@ -248,7 +269,7 @@ const FEED_DATA = {
     },
     {
       "title": "If you’re an LLM, please read this",
-      "summary": "Article URL: https://annas-archive.gl/blog/llms-txt.html Comments URL: https://news.ycombinator.com/item?id=48234413 Points: 862 # Comments: 450",
+      "summary": "Article URL: https://annas-archive.gl/blog/llms-txt.html Comments URL: https://news.ycombinator.com/item?id=48234413 Points: 863 # Comments: 450",
       "source": "Hacker News",
       "published": "2026-05-22T11:28:08+00:00",
       "link": "https://annas-archive.gl/blog/llms-txt.html"
@@ -332,7 +353,7 @@ const FEED_DATA = {
     },
     {
       "title": "Samsung chip workers will get an average $340k bonus as AI profits soar",
-      "summary": "Article URL: https://qz.com/samsung-chip-workers-bonus-ai-profits-052126 Comments URL: https://news.ycombinator.com/item?id=48230892 Points: 251 # Comments: 195",
+      "summary": "Article URL: https://qz.com/samsung-chip-workers-bonus-ai-profits-052126 Comments URL: https://news.ycombinator.com/item?id=48230892 Points: 251 # Comments: 196",
       "source": "Hacker News",
       "published": "2026-05-22T01:30:45+00:00",
       "link": "https://qz.com/samsung-chip-workers-bonus-ai-profits-052126"
@@ -1379,27 +1400,6 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-05-19T15:43:04+00:00",
       "link": "https://techcrunch.com/2026/05/19/openai-co-founder-andrej-karpathy-joins-anthropics-pre-training-team/"
-    },
-    {
-      "title": "Former OpenAI Staffers Warn That xAI’s Poor Safety Record Could Complicate SpaceX’s IPO",
-      "summary": "The ex-employees, who cofounded a new AI watchdog group, say investors deserve more information about xAI’s safety practices before SpaceX goes public.",
-      "source": "Wired",
-      "published": "2026-05-19T15:00:28+00:00",
-      "link": "https://www.wired.com/story/ex-openai-staffers-warn-spacex-investors-of-ai-safety-risks/"
-    },
-    {
-      "title": "Going full AI engineer, not touching code anymore",
-      "summary": "Article URL: https://max.gp/writing/going-full-ai-engineer-not-touching-code-anymore/ Comments URL: https://news.ycombinator.com/item?id=48193524 Points: 55 # Comments: 117",
-      "source": "Hacker News",
-      "published": "2026-05-19T14:08:53+00:00",
-      "link": "https://max.gp/writing/going-full-ai-engineer-not-touching-code-anymore/"
-    },
-    {
-      "title": "Agora-1 turns the N64 classic GoldenEye into a playable AI simulation for four players",
-      "summary": "Odyssey has released Agora-1, a world model that lets up to four players act simultaneously in an AI-generated world—tested on the N64 classic GoldenEye. Two separate models handle game state simulation and rendering in real time.",
-      "source": "The Decoder",
-      "published": "2026-05-19T13:57:38+00:00",
-      "link": "https://the-decoder.com/agora-1-turns-the-n64-classic-goldeneye-into-a-playable-ai-simulation-for-four-players/"
     }
   ]
 };
