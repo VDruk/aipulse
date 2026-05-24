@@ -1,5 +1,5 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-05-23T21:46:20.503067+00:00",
+  "lastUpdated": "2026-05-24T05:00:30.953698+00:00",
   "items": [
     {
       "title": "Deepseek makes its 75 percent discount permanent, pricing output tokens at least 34x below GPT-5.5",
@@ -59,14 +59,14 @@ const FEED_DATA = {
     },
     {
       "title": "Microsoft reports AI is more expensive than paying human employees",
-      "summary": "Article URL: https://fortune.com/2026/05/22/microsoft-ai-cost-problem-tokens-agents/ Comments URL: https://news.ycombinator.com/item?id=48244434 Points: 209 # Comments: 60",
+      "summary": "Article URL: https://fortune.com/2026/05/22/microsoft-ai-cost-problem-tokens-agents/ Comments URL: https://news.ycombinator.com/item?id=48244434 Points: 220 # Comments: 65",
       "source": "Hacker News",
       "published": "2026-05-23T03:44:16+00:00",
       "link": "https://fortune.com/2026/05/22/microsoft-ai-cost-problem-tokens-agents/"
     },
     {
       "title": "Is AI Profitable Yet?",
-      "summary": "Article URL: https://isaiprofitable.com/ Comments URL: https://news.ycombinator.com/item?id=48243863 Points: 230 # Comments: 177",
+      "summary": "Article URL: https://isaiprofitable.com/ Comments URL: https://news.ycombinator.com/item?id=48243863 Points: 248 # Comments: 194",
       "source": "Hacker News",
       "published": "2026-05-23T02:10:38+00:00",
       "link": "https://isaiprofitable.com/"
@@ -80,7 +80,7 @@ const FEED_DATA = {
     },
     {
       "title": "Don't just paste the AI at me",
-      "summary": "Article URL: https://dontquotetheai.com/ Comments URL: https://news.ycombinator.com/item?id=48242648 Points: 170 # Comments: 106",
+      "summary": "Article URL: https://dontquotetheai.com/ Comments URL: https://news.ycombinator.com/item?id=48242648 Points: 177 # Comments: 113",
       "source": "Hacker News",
       "published": "2026-05-22T22:57:58+00:00",
       "link": "https://dontquotetheai.com/"
@@ -101,14 +101,14 @@ const FEED_DATA = {
     },
     {
       "title": "AI keeps inventing fake cases. Lawyers keep citing them",
-      "summary": "Article URL: https://www.scientificamerican.com/article/why-lawyers-keep-citing-fake-cases-invented-by-ai/ Comments URL: https://news.ycombinator.com/item?id=48241179 Points: 63 # Comments: 7",
+      "summary": "Article URL: https://www.scientificamerican.com/article/why-lawyers-keep-citing-fake-cases-invented-by-ai/ Comments URL: https://news.ycombinator.com/item?id=48241179 Points: 69 # Comments: 8",
       "source": "Hacker News",
       "published": "2026-05-22T20:26:29+00:00",
       "link": "https://www.scientificamerican.com/article/why-lawyers-keep-citing-fake-cases-invented-by-ai/"
     },
     {
       "title": "Models.dev: open-source database of AI model specs, pricing, and capabilities",
-      "summary": "Article URL: https://github.com/anomalyco/models.dev Comments URL: https://news.ycombinator.com/item?id=48241172 Points: 146 # Comments: 27",
+      "summary": "Article URL: https://github.com/anomalyco/models.dev Comments URL: https://news.ycombinator.com/item?id=48241172 Points: 153 # Comments: 27",
       "source": "Hacker News",
       "published": "2026-05-22T20:26:07+00:00",
       "link": "https://github.com/anomalyco/models.dev"
@@ -227,7 +227,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI has a multiplying effect on existing technical skills",
-      "summary": "Article URL: https://www.joshwcomeau.com/email/wham-launch-005-elephant-2-p/ Comments URL: https://news.ycombinator.com/item?id=48235526 Points: 322 # Comments: 298",
+      "summary": "Article URL: https://www.joshwcomeau.com/email/wham-launch-005-elephant-2-p/ Comments URL: https://news.ycombinator.com/item?id=48235526 Points: 330 # Comments: 309",
       "source": "Hacker News",
       "published": "2026-05-22T13:22:42+00:00",
       "link": "https://www.joshwcomeau.com/email/wham-launch-005-elephant-2-p/"
@@ -241,14 +241,14 @@ const FEED_DATA = {
     },
     {
       "title": "The Companies Cutting Headcount for AI Will Lose to the Ones Who Didn't",
-      "summary": "Article URL: https://libertas.software/en/knowledge-hub/19/the-companies-cutting-headcount-for-ai-will-lose-to-the-ones-who-didnt Comments URL: https://news.ycombinator.com/item?id=48234547 Points: 200 # Comments: 190",
+      "summary": "Article URL: https://libertas.software/en/knowledge-hub/19/the-companies-cutting-headcount-for-ai-will-lose-to-the-ones-who-didnt Comments URL: https://news.ycombinator.com/item?id=48234547 Points: 202 # Comments: 190",
       "source": "Hacker News",
       "published": "2026-05-22T11:45:24+00:00",
       "link": "https://libertas.software/en/knowledge-hub/19/the-companies-cutting-headcount-for-ai-will-lose-to-the-ones-who-didnt"
     },
     {
       "title": "If you’re an LLM, please read this",
-      "summary": "Article URL: https://annas-archive.gl/blog/llms-txt.html Comments URL: https://news.ycombinator.com/item?id=48234413 Points: 828 # Comments: 439",
+      "summary": "Article URL: https://annas-archive.gl/blog/llms-txt.html Comments URL: https://news.ycombinator.com/item?id=48234413 Points: 858 # Comments: 450",
       "source": "Hacker News",
       "published": "2026-05-22T11:28:08+00:00",
       "link": "https://annas-archive.gl/blog/llms-txt.html"
@@ -276,7 +276,7 @@ const FEED_DATA = {
     },
     {
       "title": "Antigravity 2.0 Tops the OpenSCAD Architectural 3D LLM Benchmark",
-      "summary": "Article URL: https://modelrift.com/blog/openscad-llm-benchmark/ Comments URL: https://news.ycombinator.com/item?id=48234090 Points: 400 # Comments: 154",
+      "summary": "Article URL: https://modelrift.com/blog/openscad-llm-benchmark/ Comments URL: https://news.ycombinator.com/item?id=48234090 Points: 415 # Comments: 157",
       "source": "Hacker News",
       "published": "2026-05-22T10:38:26+00:00",
       "link": "https://modelrift.com/blog/openscad-llm-benchmark/"
@@ -311,7 +311,7 @@ const FEED_DATA = {
     },
     {
       "title": "Steve Wozniak cheered after telling students they have AI – actual intelligence",
-      "summary": "Article URL: https://www.businessinsider.com/steve-wozniak-apple-ai-graduation-speech-2026-5 Comments URL: https://news.ycombinator.com/item?id=48233563 Points: 633 # Comments: 529",
+      "summary": "Article URL: https://www.businessinsider.com/steve-wozniak-apple-ai-graduation-speech-2026-5 Comments URL: https://news.ycombinator.com/item?id=48233563 Points: 640 # Comments: 540",
       "source": "Hacker News",
       "published": "2026-05-22T09:04:54+00:00",
       "link": "https://www.businessinsider.com/steve-wozniak-apple-ai-graduation-speech-2026-5"
@@ -332,7 +332,7 @@ const FEED_DATA = {
     },
     {
       "title": "Samsung chip workers will get an average $340k bonus as AI profits soar",
-      "summary": "Article URL: https://qz.com/samsung-chip-workers-bonus-ai-profits-052126 Comments URL: https://news.ycombinator.com/item?id=48230892 Points: 249 # Comments: 195",
+      "summary": "Article URL: https://qz.com/samsung-chip-workers-bonus-ai-profits-052126 Comments URL: https://news.ycombinator.com/item?id=48230892 Points: 251 # Comments: 195",
       "source": "Hacker News",
       "published": "2026-05-22T01:30:45+00:00",
       "link": "https://qz.com/samsung-chip-workers-bonus-ai-profits-052126"
@@ -409,7 +409,7 @@ const FEED_DATA = {
     },
     {
       "title": "Seattle Shield, an intelligence-sharing network operated by the Seattle police",
-      "summary": "Article URL: https://prismreports.org/2026/05/20/seattle-shield-private-companies-surveillance/ Comments URL: https://news.ycombinator.com/item?id=48226588 Points: 483 # Comments: 204",
+      "summary": "Article URL: https://prismreports.org/2026/05/20/seattle-shield-private-companies-surveillance/ Comments URL: https://news.ycombinator.com/item?id=48226588 Points: 486 # Comments: 204",
       "source": "Hacker News",
       "published": "2026-05-21T17:55:58+00:00",
       "link": "https://prismreports.org/2026/05/20/seattle-shield-private-companies-surveillance/"
@@ -584,14 +584,14 @@ const FEED_DATA = {
     },
     {
       "title": "AI is just unauthorised plagiarism at a bigger scale",
-      "summary": "Article URL: https://axelk.ee/ai-is-just-unauthorised-plagiarism-at-a-bigger-scale/ Comments URL: https://news.ycombinator.com/item?id=48222383 Points: 815 # Comments: 726",
+      "summary": "Article URL: https://axelk.ee/ai-is-just-unauthorised-plagiarism-at-a-bigger-scale/ Comments URL: https://news.ycombinator.com/item?id=48222383 Points: 816 # Comments: 731",
       "source": "Hacker News",
       "published": "2026-05-21T13:38:12+00:00",
       "link": "https://axelk.ee/ai-is-just-unauthorised-plagiarism-at-a-bigger-scale/"
     },
     {
       "title": "Shunning AI is the human choice",
-      "summary": "Article URL: https://www.thehandbasket.co/p/hating-ai-is-good-actually Comments URL: https://news.ycombinator.com/item?id=48222366 Points: 369 # Comments: 536",
+      "summary": "Article URL: https://www.thehandbasket.co/p/hating-ai-is-good-actually Comments URL: https://news.ycombinator.com/item?id=48222366 Points: 370 # Comments: 538",
       "source": "Hacker News",
       "published": "2026-05-21T13:36:06+00:00",
       "link": "https://www.thehandbasket.co/p/hating-ai-is-good-actually"
@@ -619,7 +619,7 @@ const FEED_DATA = {
     },
     {
       "title": "Throwing AI-generated walls of text into conversations",
-      "summary": "Article URL: https://noslopgrenade.com/ Comments URL: https://news.ycombinator.com/item?id=48219992 Points: 689 # Comments: 416",
+      "summary": "Article URL: https://noslopgrenade.com/ Comments URL: https://news.ycombinator.com/item?id=48219992 Points: 698 # Comments: 417",
       "source": "Hacker News",
       "published": "2026-05-21T09:31:15+00:00",
       "link": "https://noslopgrenade.com/"
@@ -637,6 +637,13 @@ const FEED_DATA = {
       "source": "The Verge",
       "published": "2026-05-21T09:20:46+00:00",
       "link": "https://www.theverge.com/tech/935163/meta-layoffs-ai-investment-offset-memo"
+    },
+    {
+      "title": "AI Engineering from Scratch",
+      "summary": "Article URL: https://aiengineeringfromscratch.com Comments URL: https://news.ycombinator.com/item?id=48219853 Points: 56 # Comments: 15",
+      "source": "Hacker News",
+      "published": "2026-05-21T09:14:13+00:00",
+      "link": "https://aiengineeringfromscratch.com"
     },
     {
       "title": "Tech researchers are suing the Trump administration over the future of online safety",
@@ -675,7 +682,7 @@ const FEED_DATA = {
     },
     {
       "title": "Intuit to lay off over 3k employees to refocus on AI",
-      "summary": "Article URL: https://techcrunch.com/2026/05/20/intuit-to-lay-off-over-3000-employees-to-refocus-on-ai/ Comments URL: https://news.ycombinator.com/item?id=48216278 Points: 258 # Comments: 194",
+      "summary": "Article URL: https://techcrunch.com/2026/05/20/intuit-to-lay-off-over-3000-employees-to-refocus-on-ai/ Comments URL: https://news.ycombinator.com/item?id=48216278 Points: 259 # Comments: 196",
       "source": "Hacker News",
       "published": "2026-05-21T00:36:01+00:00",
       "link": "https://techcrunch.com/2026/05/20/intuit-to-lay-off-over-3000-employees-to-refocus-on-ai/"
@@ -1393,13 +1400,6 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-05-19T13:57:38+00:00",
       "link": "https://the-decoder.com/agora-1-turns-the-n64-classic-goldeneye-into-a-playable-ai-simulation-for-four-players/"
-    },
-    {
-      "title": "The Download: Musk v. Altman, smart glasses for warfare, and Google I/O",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.",
-      "source": "MIT Tech Review",
-      "published": "2026-05-19T12:10:00+00:00",
-      "link": "https://www.technologyreview.com/2026/05/19/1137505/the-download-musk-altman-trial-smart-glasses-warfare-google-i-o/"
     }
   ]
 };
