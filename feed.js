@@ -1,6 +1,13 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-05-24T14:25:38.322452+00:00",
+  "lastUpdated": "2026-05-24T17:54:53.820531+00:00",
   "items": [
+    {
+      "title": "I tried Amazon’s Bee wearable and am both intrigued and slightly creeped out",
+      "summary": "Like other AI wearables, Amazon's Bee offers an odd combination of convenience and privacy anxiety.",
+      "source": "TechCrunch",
+      "published": "2026-05-24T15:00:00+00:00",
+      "link": "https://techcrunch.com/2026/05/24/i-tried-amazons-bee-wearable-and-am-both-intrigued-and-slightly-creeped-out/"
+    },
     {
       "title": "ByteDance study finds that asking LMMs questions beats making it transcribe text for long document training",
       "summary": "ByteDance Seed shows that a 7B model can answer questions on long, image-heavy documents more reliably than much larger models, even when documents are four times longer than anything it saw during training.",
@@ -1393,13 +1400,6 @@ const FEED_DATA = {
       "source": "Hacker News",
       "published": "2026-05-19T17:42:11+00:00",
       "link": "https://apnews.com/article/ai-college-commencement-anxiety-boo-35aec9bac660eaeb05c5b8d392db2cac"
-    },
-    {
-      "title": "AI, \"Humanity\", and Dr. Manhattan Syndrome: A Communications Intervention",
-      "summary": "Article URL: https://www.personfamiliar.com/p/ai-humanity-and-dr-manhattan-syndrome Comments URL: https://news.ycombinator.com/item?id=48196303 Points: 51 # Comments: 16",
-      "source": "Hacker News",
-      "published": "2026-05-19T17:22:45+00:00",
-      "link": "https://www.personfamiliar.com/p/ai-humanity-and-dr-manhattan-syndrome"
     }
   ]
 };
