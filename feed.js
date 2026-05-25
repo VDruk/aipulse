@@ -1,6 +1,27 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-05-25T08:58:36.779174+00:00",
+  "lastUpdated": "2026-05-25T12:15:30.845493+00:00",
   "items": [
+    {
+      "title": "Google Deepmind's AlphaProof Nexus solves decades-old math problems for a few hundred dollars",
+      "summary": "Google Deepmind's AlphaProof Nexus has autonomously solved nine open Erdős problems, including two that stumped mathematicians for 56 years, for just a few hundred dollars per problem in inference costs.",
+      "source": "The Decoder",
+      "published": "2026-05-25T10:41:19+00:00",
+      "link": "https://the-decoder.com/google-deepminds-alphaproof-nexus-solves-decades-old-math-problems-for-a-few-hundred-dollars/"
+    },
+    {
+      "title": "The AI Era Is Creating a Bug Hunting Arms Race",
+      "summary": "As attackers ramp up their AI exploit development, the search for software vulnerabilities is changing rapidly.",
+      "source": "Wired",
+      "published": "2026-05-25T10:30:00+00:00",
+      "link": "https://www.wired.com/story/the-ai-era-is-creating-a-bug-hunting-arms-race/"
+    },
+    {
+      "title": "George Hotz says coding agents will be \"one of the most costly mistakes\" in software development",
+      "summary": "Programmer George Hotz warns that AI coding agents will become one of the industry's most costly mistakes. After six months of testing, his verdict: LLMs deliver fast prototypes but fall apart on the details, producing bugs that keep getting harder to spot.",
+      "source": "The Decoder",
+      "published": "2026-05-25T09:05:34+00:00",
+      "link": "https://the-decoder.com/george-hotz-says-coding-agents-will-be-one-of-the-most-costly-mistakes-in-software-development/"
+    },
     {
       "title": "AI models often give the right answers but point to the wrong sources",
       "summary": "Leading AI models like GPT and Gemini routinely cite text passages in document analyses that don't actually support their answers. Even when the answer is right, the cited evidence is often wrong.",
@@ -17,14 +38,14 @@ const FEED_DATA = {
     },
     {
       "title": "Memory has grown to nearly two-thirds of AI chip component costs",
-      "summary": "Article URL: https://epoch.ai/data-insights/ai-chip-component-cost-shares Comments URL: https://news.ycombinator.com/item?id=48258684 Points: 382 # Comments: 389",
+      "summary": "Article URL: https://epoch.ai/data-insights/ai-chip-component-cost-shares Comments URL: https://news.ycombinator.com/item?id=48258684 Points: 401 # Comments: 425",
       "source": "Hacker News",
       "published": "2026-05-24T16:31:29+00:00",
       "link": "https://epoch.ai/data-insights/ai-chip-component-cost-shares"
     },
     {
       "title": "'AI washing': firms are scrambling to rebrand themselves as tech-focused",
-      "summary": "Article URL: https://www.theguardian.com/technology/2026/may/24/ai-washing-pr-firms-scrambling-rebrand Comments URL: https://news.ycombinator.com/item?id=48257980 Points: 163 # Comments: 150",
+      "summary": "Article URL: https://www.theguardian.com/technology/2026/may/24/ai-washing-pr-firms-scrambling-rebrand Comments URL: https://news.ycombinator.com/item?id=48257980 Points: 164 # Comments: 150",
       "source": "Hacker News",
       "published": "2026-05-24T15:21:28+00:00",
       "link": "https://www.theguardian.com/technology/2026/may/24/ai-washing-pr-firms-scrambling-rebrand"
@@ -38,7 +59,7 @@ const FEED_DATA = {
     },
     {
       "title": "DeepSeek to Make Permanent 75% Discount on Flagship AI Model",
-      "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-05-23/deepseek-to-make-permanent-75-discount-on-flagship-ai-model Comments URL: https://news.ycombinator.com/item?id=48257410 Points: 206 # Comments: 2",
+      "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-05-23/deepseek-to-make-permanent-75-discount-on-flagship-ai-model Comments URL: https://news.ycombinator.com/item?id=48257410 Points: 208 # Comments: 2",
       "source": "Hacker News",
       "published": "2026-05-24T14:09:33+00:00",
       "link": "https://www.bloomberg.com/news/articles/2026-05-23/deepseek-to-make-permanent-75-discount-on-flagship-ai-model"
@@ -52,7 +73,7 @@ const FEED_DATA = {
     },
     {
       "title": "Constraint Decay: The Fragility of LLM Agents in Back End Code Generation",
-      "summary": "Article URL: https://arxiv.org/abs/2605.06445 Comments URL: https://news.ycombinator.com/item?id=48256912 Points: 232 # Comments: 127",
+      "summary": "Article URL: https://arxiv.org/abs/2605.06445 Comments URL: https://news.ycombinator.com/item?id=48256912 Points: 250 # Comments: 144",
       "source": "Hacker News",
       "published": "2026-05-24T12:55:53+00:00",
       "link": "https://arxiv.org/abs/2605.06445"
@@ -157,7 +178,7 @@ const FEED_DATA = {
     },
     {
       "title": "Is AI Profitable Yet?",
-      "summary": "Article URL: https://isaiprofitable.com/ Comments URL: https://news.ycombinator.com/item?id=48243863 Points: 259 # Comments: 201",
+      "summary": "Article URL: https://isaiprofitable.com/ Comments URL: https://news.ycombinator.com/item?id=48243863 Points: 259 # Comments: 202",
       "source": "Hacker News",
       "published": "2026-05-23T02:10:38+00:00",
       "link": "https://isaiprofitable.com/"
@@ -192,7 +213,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI keeps inventing fake cases. Lawyers keep citing them",
-      "summary": "Article URL: https://www.scientificamerican.com/article/why-lawyers-keep-citing-fake-cases-invented-by-ai/ Comments URL: https://news.ycombinator.com/item?id=48241179 Points: 69 # Comments: 8",
+      "summary": "Article URL: https://www.scientificamerican.com/article/why-lawyers-keep-citing-fake-cases-invented-by-ai/ Comments URL: https://news.ycombinator.com/item?id=48241179 Points: 70 # Comments: 8",
       "source": "Hacker News",
       "published": "2026-05-22T20:26:29+00:00",
       "link": "https://www.scientificamerican.com/article/why-lawyers-keep-citing-fake-cases-invented-by-ai/"
@@ -339,7 +360,7 @@ const FEED_DATA = {
     },
     {
       "title": "If you’re an LLM, please read this",
-      "summary": "Article URL: https://annas-archive.gl/blog/llms-txt.html Comments URL: https://news.ycombinator.com/item?id=48234413 Points: 875 # Comments: 450",
+      "summary": "Article URL: https://annas-archive.gl/blog/llms-txt.html Comments URL: https://news.ycombinator.com/item?id=48234413 Points: 876 # Comments: 450",
       "source": "Hacker News",
       "published": "2026-05-22T11:28:08+00:00",
       "link": "https://annas-archive.gl/blog/llms-txt.html"
@@ -402,7 +423,7 @@ const FEED_DATA = {
     },
     {
       "title": "Steve Wozniak cheered after telling students they have AI – actual intelligence",
-      "summary": "Article URL: https://www.businessinsider.com/steve-wozniak-apple-ai-graduation-speech-2026-5 Comments URL: https://news.ycombinator.com/item?id=48233563 Points: 646 # Comments: 544",
+      "summary": "Article URL: https://www.businessinsider.com/steve-wozniak-apple-ai-graduation-speech-2026-5 Comments URL: https://news.ycombinator.com/item?id=48233563 Points: 647 # Comments: 544",
       "source": "Hacker News",
       "published": "2026-05-22T09:04:54+00:00",
       "link": "https://www.businessinsider.com/steve-wozniak-apple-ai-graduation-speech-2026-5"
@@ -675,7 +696,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI is just unauthorised plagiarism at a bigger scale",
-      "summary": "Article URL: https://axelk.ee/ai-is-just-unauthorised-plagiarism-at-a-bigger-scale/ Comments URL: https://news.ycombinator.com/item?id=48222383 Points: 818 # Comments: 731",
+      "summary": "Article URL: https://axelk.ee/ai-is-just-unauthorised-plagiarism-at-a-bigger-scale/ Comments URL: https://news.ycombinator.com/item?id=48222383 Points: 820 # Comments: 732",
       "source": "Hacker News",
       "published": "2026-05-21T13:38:12+00:00",
       "link": "https://axelk.ee/ai-is-just-unauthorised-plagiarism-at-a-bigger-scale/"
@@ -1379,27 +1400,6 @@ const FEED_DATA = {
       "source": "The Verge",
       "published": "2026-05-19T17:45:00+00:00",
       "link": "https://www.theverge.com/tech/932973/google-gmail-live-ai-keep-docs-io-2026"
-    },
-    {
-      "title": "Google is launching its own version of OpenClaw",
-      "summary": "Google is launching its own take on OpenClaw, the buzzy AI agent platform that caused a stir in the tech industry earlier this year.",
-      "source": "The Verge",
-      "published": "2026-05-19T17:45:00+00:00",
-      "link": "https://www.theverge.com/tech/932996/google-gemini-spark-antigravity-io-2026"
-    },
-    {
-      "title": "Google’s AI now lets you talk to your Gmail inbox",
-      "summary": "Google expands Gmail’s AI Inbox with conversational voice search, letting users ask Gemini to find buried email details.",
-      "source": "TechCrunch",
-      "published": "2026-05-19T17:45:00+00:00",
-      "link": "https://techcrunch.com/2026/05/19/googles-ai-now-lets-you-talk-to-your-gmail-inbox/"
-    },
-    {
-      "title": "Google’s new Universal Cart wants to follow you across the entire internet",
-      "summary": "The tech giant says it's aware that most people shop across multiple devices, many retailers, and over the course of many days, which is why it's launching Universal Cart.",
-      "source": "TechCrunch",
-      "published": "2026-05-19T17:45:00+00:00",
-      "link": "https://techcrunch.com/2026/05/19/googles-new-universal-cart-wants-to-follow-you-across-the-entire-internet/"
     }
   ]
 };
