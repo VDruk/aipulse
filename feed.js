@@ -1,6 +1,13 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-05-25T15:52:47.413553+00:00",
+  "lastUpdated": "2026-05-25T18:22:47.033304+00:00",
   "items": [
+    {
+      "title": "What ClickUp’s mass layoff tells us about the future of work",
+      "summary": "The nine-year-old startup is replacing hundreds of employees with thousands of AI agents.",
+      "source": "TechCrunch",
+      "published": "2026-05-25T16:00:00+00:00",
+      "link": "https://techcrunch.com/2026/05/25/what-clickups-mass-layoff-tells-us-about-the-future-of-work/"
+    },
     {
       "title": "The pope’s AI encyclical isn’t really about AI",
       "summary": "Pope Leo XIV's first encyclical uses AI as a lens to diagnose older problems: concentrated power, eroding democracy, and a tech elite that shapes the world to its own advantage.",
@@ -24,21 +31,21 @@ const FEED_DATA = {
     },
     {
       "title": "Pope Leo XIV says AI must serve humanity, not the powerful few",
-      "summary": "Article URL: https://religionnews.com/2026/05/25/in-his-first-encyclical-pope-leo-xiv-says-ai-must-serve-humanity-not-the-powerful-few/ Comments URL: https://news.ycombinator.com/item?id=48266485 Points: 244 # Comments: 99",
+      "summary": "Article URL: https://religionnews.com/2026/05/25/in-his-first-encyclical-pope-leo-xiv-says-ai-must-serve-humanity-not-the-powerful-few/ Comments URL: https://news.ycombinator.com/item?id=48266485 Points: 326 # Comments: 173",
       "source": "Hacker News",
       "published": "2026-05-25T13:17:58+00:00",
       "link": "https://religionnews.com/2026/05/25/in-his-first-encyclical-pope-leo-xiv-says-ai-must-serve-humanity-not-the-powerful-few/"
     },
     {
       "title": "Pope Leo: opaque AI run by few firms risks \"New Forms of Dehumanization\"",
-      "summary": "Article URL: https://variety.com/2026/biz/global/pope-leo-ai-encyclical-algorithms-threaten-dehumanisation-1236758186/ Comments URL: https://news.ycombinator.com/item?id=48266435 Points: 104 # Comments: 8",
+      "summary": "Article URL: https://variety.com/2026/biz/global/pope-leo-ai-encyclical-algorithms-threaten-dehumanisation-1236758186/ Comments URL: https://news.ycombinator.com/item?id=48266435 Points: 158 # Comments: 2",
       "source": "Hacker News",
       "published": "2026-05-25T13:12:40+00:00",
       "link": "https://variety.com/2026/biz/global/pope-leo-ai-encyclical-algorithms-threaten-dehumanisation-1236758186/"
     },
     {
       "title": "GPT Guesses Between 1 and 100",
-      "summary": "Article URL: https://github.com/exmergo/research-chatgpt-guesses-between-1-and-100 Comments URL: https://news.ycombinator.com/item?id=48265745 Points: 76 # Comments: 60",
+      "summary": "Article URL: https://github.com/exmergo/research-chatgpt-guesses-between-1-and-100 Comments URL: https://news.ycombinator.com/item?id=48265745 Points: 79 # Comments: 60",
       "source": "Hacker News",
       "published": "2026-05-25T11:46:09+00:00",
       "link": "https://github.com/exmergo/research-chatgpt-guesses-between-1-and-100"
@@ -80,14 +87,14 @@ const FEED_DATA = {
     },
     {
       "title": "Memory has grown to nearly two-thirds of AI chip component costs",
-      "summary": "Article URL: https://epoch.ai/data-insights/ai-chip-component-cost-shares Comments URL: https://news.ycombinator.com/item?id=48258684 Points: 413 # Comments: 450",
+      "summary": "Article URL: https://epoch.ai/data-insights/ai-chip-component-cost-shares Comments URL: https://news.ycombinator.com/item?id=48258684 Points: 419 # Comments: 462",
       "source": "Hacker News",
       "published": "2026-05-24T16:31:29+00:00",
       "link": "https://epoch.ai/data-insights/ai-chip-component-cost-shares"
     },
     {
       "title": "'AI washing': firms are scrambling to rebrand themselves as tech-focused",
-      "summary": "Article URL: https://www.theguardian.com/technology/2026/may/24/ai-washing-pr-firms-scrambling-rebrand Comments URL: https://news.ycombinator.com/item?id=48257980 Points: 171 # Comments: 154",
+      "summary": "Article URL: https://www.theguardian.com/technology/2026/may/24/ai-washing-pr-firms-scrambling-rebrand Comments URL: https://news.ycombinator.com/item?id=48257980 Points: 174 # Comments: 159",
       "source": "Hacker News",
       "published": "2026-05-24T15:21:28+00:00",
       "link": "https://www.theguardian.com/technology/2026/may/24/ai-washing-pr-firms-scrambling-rebrand"
@@ -115,7 +122,7 @@ const FEED_DATA = {
     },
     {
       "title": "Constraint Decay: The Fragility of LLM Agents in Back End Code Generation",
-      "summary": "Article URL: https://arxiv.org/abs/2605.06445 Comments URL: https://news.ycombinator.com/item?id=48256912 Points: 267 # Comments: 163",
+      "summary": "Article URL: https://arxiv.org/abs/2605.06445 Comments URL: https://news.ycombinator.com/item?id=48256912 Points: 271 # Comments: 174",
       "source": "Hacker News",
       "published": "2026-05-24T12:55:53+00:00",
       "link": "https://arxiv.org/abs/2605.06445"
@@ -339,7 +346,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI errno(2) values",
-      "summary": "Article URL: https://www.netmeister.org/blog/ai-errno.html Comments URL: https://news.ycombinator.com/item?id=48236816 Points: 67 # Comments: 14",
+      "summary": "Article URL: https://www.netmeister.org/blog/ai-errno.html Comments URL: https://news.ycombinator.com/item?id=48236816 Points: 84 # Comments: 17",
       "source": "Hacker News",
       "published": "2026-05-22T14:56:57+00:00",
       "link": "https://www.netmeister.org/blog/ai-errno.html"
@@ -388,7 +395,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI has a multiplying effect on existing technical skills",
-      "summary": "Article URL: https://www.joshwcomeau.com/email/wham-launch-005-elephant-2-p/ Comments URL: https://news.ycombinator.com/item?id=48235526 Points: 338 # Comments: 312",
+      "summary": "Article URL: https://www.joshwcomeau.com/email/wham-launch-005-elephant-2-p/ Comments URL: https://news.ycombinator.com/item?id=48235526 Points: 338 # Comments: 313",
       "source": "Hacker News",
       "published": "2026-05-22T13:22:42+00:00",
       "link": "https://www.joshwcomeau.com/email/wham-launch-005-elephant-2-p/"
@@ -1393,13 +1400,6 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-05-19T17:45:00+00:00",
       "link": "https://techcrunch.com/2026/05/19/google-introduces-gemini-spark-a-24-7-agentic-assistant-with-gmail-integration/"
-    },
-    {
-      "title": "Google updates its Gemini app to take on ChatGPT and Claude at IO 2026",
-      "summary": "The updates signal Google’s push to turn its Gemini app into an all-purpose AI hub rather than a stand-alone chatbot.",
-      "source": "TechCrunch",
-      "published": "2026-05-19T17:45:00+00:00",
-      "link": "https://techcrunch.com/2026/05/19/google-updates-its-gemini-app-to-take-on-chatgpt-and-claude-at-io-2026/"
     }
   ]
 };
