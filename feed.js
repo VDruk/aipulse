@@ -1,9 +1,16 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-05-25T22:03:26.283967+00:00",
+  "lastUpdated": "2026-05-26T05:02:26.804856+00:00",
   "items": [
     {
+      "title": "Using AI to write better code more slowly",
+      "summary": "Article URL: https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly/ Comments URL: https://news.ycombinator.com/item?id=48272984 Points: 328 # Comments: 128",
+      "source": "Hacker News",
+      "published": "2026-05-25T23:16:59+00:00",
+      "link": "https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly/"
+    },
+    {
       "title": "Norway's 2 petabytes of Huawei flash storage and LLM training",
-      "summary": "Article URL: https://www.blocksandfiles.com/flash/2026/05/22/norways-2-petabytes-of-huawei-flash-storage-and-llm-training/5244910 Comments URL: https://news.ycombinator.com/item?id=48270770 Points: 75 # Comments: 45",
+      "summary": "Article URL: https://www.blocksandfiles.com/flash/2026/05/22/norways-2-petabytes-of-huawei-flash-storage-and-llm-training/5244910 Comments URL: https://news.ycombinator.com/item?id=48270770 Points: 207 # Comments: 104",
       "source": "Hacker News",
       "published": "2026-05-25T19:37:57+00:00",
       "link": "https://www.blocksandfiles.com/flash/2026/05/22/norways-2-petabytes-of-huawei-flash-storage-and-llm-training/5244910"
@@ -38,21 +45,21 @@ const FEED_DATA = {
     },
     {
       "title": "Pope Leo XIV says AI must serve humanity, not the powerful few",
-      "summary": "Article URL: https://religionnews.com/2026/05/25/in-his-first-encyclical-pope-leo-xiv-says-ai-must-serve-humanity-not-the-powerful-few/ Comments URL: https://news.ycombinator.com/item?id=48266485 Points: 331 # Comments: 66",
+      "summary": "Article URL: https://religionnews.com/2026/05/25/in-his-first-encyclical-pope-leo-xiv-says-ai-must-serve-humanity-not-the-powerful-few/ Comments URL: https://news.ycombinator.com/item?id=48266485 Points: 335 # Comments: 68",
       "source": "Hacker News",
       "published": "2026-05-25T13:17:58+00:00",
       "link": "https://religionnews.com/2026/05/25/in-his-first-encyclical-pope-leo-xiv-says-ai-must-serve-humanity-not-the-powerful-few/"
     },
     {
       "title": "Pope Leo: opaque AI run by few firms risks \"New Forms of Dehumanization\"",
-      "summary": "Article URL: https://variety.com/2026/biz/global/pope-leo-ai-encyclical-algorithms-threaten-dehumanisation-1236758186/ Comments URL: https://news.ycombinator.com/item?id=48266435 Points: 162 # Comments: 2",
+      "summary": "Article URL: https://variety.com/2026/biz/global/pope-leo-ai-encyclical-algorithms-threaten-dehumanisation-1236758186/ Comments URL: https://news.ycombinator.com/item?id=48266435 Points: 164 # Comments: 2",
       "source": "Hacker News",
       "published": "2026-05-25T13:12:40+00:00",
       "link": "https://variety.com/2026/biz/global/pope-leo-ai-encyclical-algorithms-threaten-dehumanisation-1236758186/"
     },
     {
       "title": "GPT Guesses Between 1 and 100",
-      "summary": "Article URL: https://github.com/exmergo/research-chatgpt-guesses-between-1-and-100 Comments URL: https://news.ycombinator.com/item?id=48265745 Points: 82 # Comments: 65",
+      "summary": "Article URL: https://github.com/exmergo/research-chatgpt-guesses-between-1-and-100 Comments URL: https://news.ycombinator.com/item?id=48265745 Points: 84 # Comments: 67",
       "source": "Hacker News",
       "published": "2026-05-25T11:46:09+00:00",
       "link": "https://github.com/exmergo/research-chatgpt-guesses-between-1-and-100"
@@ -94,14 +101,14 @@ const FEED_DATA = {
     },
     {
       "title": "Memory has grown to nearly two-thirds of AI chip component costs",
-      "summary": "Article URL: https://epoch.ai/data-insights/ai-chip-component-cost-shares Comments URL: https://news.ycombinator.com/item?id=48258684 Points: 427 # Comments: 467",
+      "summary": "Article URL: https://epoch.ai/data-insights/ai-chip-component-cost-shares Comments URL: https://news.ycombinator.com/item?id=48258684 Points: 431 # Comments: 478",
       "source": "Hacker News",
       "published": "2026-05-24T16:31:29+00:00",
       "link": "https://epoch.ai/data-insights/ai-chip-component-cost-shares"
     },
     {
       "title": "'AI washing': firms are scrambling to rebrand themselves as tech-focused",
-      "summary": "Article URL: https://www.theguardian.com/technology/2026/may/24/ai-washing-pr-firms-scrambling-rebrand Comments URL: https://news.ycombinator.com/item?id=48257980 Points: 177 # Comments: 160",
+      "summary": "Article URL: https://www.theguardian.com/technology/2026/may/24/ai-washing-pr-firms-scrambling-rebrand Comments URL: https://news.ycombinator.com/item?id=48257980 Points: 177 # Comments: 163",
       "source": "Hacker News",
       "published": "2026-05-24T15:21:28+00:00",
       "link": "https://www.theguardian.com/technology/2026/may/24/ai-washing-pr-firms-scrambling-rebrand"
@@ -129,7 +136,7 @@ const FEED_DATA = {
     },
     {
       "title": "Constraint Decay: The Fragility of LLM Agents in Back End Code Generation",
-      "summary": "Article URL: https://arxiv.org/abs/2605.06445 Comments URL: https://news.ycombinator.com/item?id=48256912 Points: 277 # Comments: 183",
+      "summary": "Article URL: https://arxiv.org/abs/2605.06445 Comments URL: https://news.ycombinator.com/item?id=48256912 Points: 278 # Comments: 187",
       "source": "Hacker News",
       "published": "2026-05-24T12:55:53+00:00",
       "link": "https://arxiv.org/abs/2605.06445"
@@ -353,7 +360,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI errno(2) values",
-      "summary": "Article URL: https://www.netmeister.org/blog/ai-errno.html Comments URL: https://news.ycombinator.com/item?id=48236816 Points: 110 # Comments: 18",
+      "summary": "Article URL: https://www.netmeister.org/blog/ai-errno.html Comments URL: https://news.ycombinator.com/item?id=48236816 Points: 121 # Comments: 18",
       "source": "Hacker News",
       "published": "2026-05-22T14:56:57+00:00",
       "link": "https://www.netmeister.org/blog/ai-errno.html"
@@ -402,7 +409,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI has a multiplying effect on existing technical skills",
-      "summary": "Article URL: https://www.joshwcomeau.com/email/wham-launch-005-elephant-2-p/ Comments URL: https://news.ycombinator.com/item?id=48235526 Points: 340 # Comments: 314",
+      "summary": "Article URL: https://www.joshwcomeau.com/email/wham-launch-005-elephant-2-p/ Comments URL: https://news.ycombinator.com/item?id=48235526 Points: 341 # Comments: 314",
       "source": "Hacker News",
       "published": "2026-05-22T13:22:42+00:00",
       "link": "https://www.joshwcomeau.com/email/wham-launch-005-elephant-2-p/"
@@ -423,7 +430,7 @@ const FEED_DATA = {
     },
     {
       "title": "If you’re an LLM, please read this",
-      "summary": "Article URL: https://annas-archive.gl/blog/llms-txt.html Comments URL: https://news.ycombinator.com/item?id=48234413 Points: 880 # Comments: 453",
+      "summary": "Article URL: https://annas-archive.gl/blog/llms-txt.html Comments URL: https://news.ycombinator.com/item?id=48234413 Points: 881 # Comments: 453",
       "source": "Hacker News",
       "published": "2026-05-22T11:28:08+00:00",
       "link": "https://annas-archive.gl/blog/llms-txt.html"
@@ -1393,13 +1400,6 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-05-19T17:45:00+00:00",
       "link": "https://techcrunch.com/2026/05/19/agentic-app-coding-gets-an-upgrade-with-googles-release-of-android-cli/"
-    },
-    {
-      "title": "Google’s new Universal Cart wants to follow your entire shopping journey across the internet",
-      "summary": "Most people shop across multiple devices, many retailers, and over the course of many days, which is why Google is launching Universal Cart.",
-      "source": "TechCrunch",
-      "published": "2026-05-19T17:45:00+00:00",
-      "link": "https://techcrunch.com/2026/05/19/googles-new-universal-cart-wants-to-follow-your-entire-shopping-journey-across-the-internet/"
     }
   ]
 };
