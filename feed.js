@@ -1,16 +1,30 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-05-26T16:43:40.194165+00:00",
+  "lastUpdated": "2026-05-26T19:13:13.651736+00:00",
   "items": [
     {
+      "title": "OpenRouter more than doubles valuation to $1.3B in a year",
+      "summary": "OpenRouter has raised a $113 million Series B led by CapitalG. Its 5x growth in usage over six months indicates the multi-AI-model future is here.",
+      "source": "TechCrunch",
+      "published": "2026-05-26T18:33:01+00:00",
+      "link": "https://techcrunch.com/2026/05/26/openrouter-more-than-doubles-valuation-to-1-3b-in-a-year/"
+    },
+    {
+      "title": "Claude Mythos reportedly solves OpenAI's landmark Erdős problem with a \"cute, simple proof\"",
+      "summary": "Shortly after OpenAI disproved Erdős' unit-distance conjecture, Anthropic shows Claude Mythos can solve the problem too - \"over the weekend.\" Engineer Sholto Douglas says Mythos cracked the 1946 conjecture with a \"cute, simple proof,\" a sign of \"serious overhang\" in AI-driven...",
+      "source": "The Decoder",
+      "published": "2026-05-26T18:31:07+00:00",
+      "link": "https://the-decoder.com/claude-mythos-reportedly-solves-openais-landmark-erdos-problem-with-a-cute-simple-proof/"
+    },
+    {
       "title": "This startup is betting India’s gig economy can train the world’s robots",
-      "summary": "Human Archive, a startup founded by Berkeley and Stanford researchers, is paying gig workers in India to wear camera-equipped caps and sensor devices to collect the real-world physical training data that AI and robotics labs are racing to acquire.",
+      "summary": "Human Archive, a startup founded by UC Berkeley and Stanford researchers, is paying gig workers in India to wear camera-equipped caps and sensor devices to collect the real-world physical training data that AI and robotics labs are racing to acquire.",
       "source": "TechCrunch",
       "published": "2026-05-26T16:00:00+00:00",
       "link": "https://techcrunch.com/2026/05/26/human-archive-taps-into-indias-services-startups-to-collect-data-for-physical-ai/"
     },
     {
       "title": "Universal Music Group and TikTok renew agreement to combat unauthorized AI music",
-      "summary": "For years, UMG has pushed platforms, streaming services, and AI companies to implement stricter content moderation policies",
+      "summary": "For years, UMG has pushed platforms, streaming services, and AI companies to implement stricter content moderation policies.",
       "source": "TechCrunch",
       "published": "2026-05-26T14:55:05+00:00",
       "link": "https://techcrunch.com/2026/05/26/universal-music-group-and-tiktok-renew-agreement-to-combat-unauthorized-ai-music/"
@@ -65,6 +79,13 @@ const FEED_DATA = {
       "link": "https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/"
     },
     {
+      "title": "Outsourcing plus local AI will soon become more economical vs. frontier labs",
+      "summary": "Article URL: https://www.signalbloom.ai/posts/outsourcing-plus-localai-will-soon-become-more-economical-vs-frontier-labs/ Comments URL: https://news.ycombinator.com/item?id=48278610 Points: 164 # Comments: 168",
+      "source": "Hacker News",
+      "published": "2026-05-26T12:08:33+00:00",
+      "link": "https://www.signalbloom.ai/posts/outsourcing-plus-localai-will-soon-become-more-economical-vs-frontier-labs/"
+    },
+    {
       "title": "AI warfare is already here",
       "summary": "The Convention on Certain Conventional Weapons, an international forum that focuses on lethal autonomous systems, is hosted twice a year at the United Nations in Geneva.",
       "source": "The Verge",
@@ -87,17 +108,10 @@ const FEED_DATA = {
     },
     {
       "title": "The AI bubble isn't like the internet bubble",
-      "summary": "Article URL: https://pluralistic.net/2026/05/26/the-ai-will-continue/#until-morale-improves Comments URL: https://news.ycombinator.com/item?id=48277784 Points: 58 # Comments: 85",
+      "summary": "Article URL: https://pluralistic.net/2026/05/26/the-ai-will-continue/#until-morale-improves Comments URL: https://news.ycombinator.com/item?id=48277784 Points: 63 # Comments: 86",
       "source": "Hacker News",
       "published": "2026-05-26T10:37:15+00:00",
       "link": "https://pluralistic.net/2026/05/26/the-ai-will-continue/#until-morale-improves"
-    },
-    {
-      "title": "AI Agents Plunged the Tech World Into Chaos. Here’s Exactly How That Happened",
-      "summary": "The definitive story of how Claude Code and OpenClaw kicked off computing’s biggest transformation possibly ever.",
-      "source": "Wired",
-      "published": "2026-05-26T10:00:00+00:00",
-      "link": "https://www.wired.com/story/how-ai-agents-plunged-tech-world-into-chaos/"
     },
     {
       "title": "Quiz: Will AI Destroy Your Career?",
@@ -112,6 +126,13 @@ const FEED_DATA = {
       "source": "Wired",
       "published": "2026-05-26T10:00:00+00:00",
       "link": "https://www.wired.com/story/ai-takes-over-debt-collection/"
+    },
+    {
+      "title": "AI Agents Plunged the Tech World Into Chaos. Here’s Exactly How That Happened",
+      "summary": "The definitive story of how Claude Code and OpenClaw kicked off computing’s biggest transformation possibly ever.",
+      "source": "Wired",
+      "published": "2026-05-26T10:00:00+00:00",
+      "link": "https://www.wired.com/story/how-ai-agents-plunged-tech-world-into-chaos/"
     },
     {
       "title": "To Land a Job in AI, Try Reading Kant",
@@ -178,21 +199,21 @@ const FEED_DATA = {
     },
     {
       "title": "Notes on Pope Leo XIV's Encyclical on AI",
-      "summary": "Article URL: https://simonwillison.net/2026/May/25/encyclical-on-ai/ Comments URL: https://news.ycombinator.com/item?id=48275098 Points: 57 # Comments: 11",
+      "summary": "Article URL: https://simonwillison.net/2026/May/25/encyclical-on-ai/ Comments URL: https://news.ycombinator.com/item?id=48275098 Points: 59 # Comments: 11",
       "source": "Hacker News",
       "published": "2026-05-26T04:45:29+00:00",
       "link": "https://simonwillison.net/2026/May/25/encyclical-on-ai/"
     },
     {
       "title": "Using AI to write better code more slowly",
-      "summary": "Article URL: https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly/ Comments URL: https://news.ycombinator.com/item?id=48272984 Points: 987 # Comments: 370",
+      "summary": "Article URL: https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly/ Comments URL: https://news.ycombinator.com/item?id=48272984 Points: 1078 # Comments: 396",
       "source": "Hacker News",
       "published": "2026-05-25T23:16:59+00:00",
       "link": "https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly/"
     },
     {
       "title": "Norway's 2 petabytes of Huawei flash storage and LLM training",
-      "summary": "Article URL: https://www.blocksandfiles.com/flash/2026/05/22/norways-2-petabytes-of-huawei-flash-storage-and-llm-training/5244910 Comments URL: https://news.ycombinator.com/item?id=48270770 Points: 313 # Comments: 197",
+      "summary": "Article URL: https://www.blocksandfiles.com/flash/2026/05/22/norways-2-petabytes-of-huawei-flash-storage-and-llm-training/5244910 Comments URL: https://news.ycombinator.com/item?id=48270770 Points: 317 # Comments: 201",
       "source": "Hacker News",
       "published": "2026-05-25T19:37:57+00:00",
       "link": "https://www.blocksandfiles.com/flash/2026/05/22/norways-2-petabytes-of-huawei-flash-storage-and-llm-training/5244910"
@@ -227,7 +248,7 @@ const FEED_DATA = {
     },
     {
       "title": "Pope Leo XIV says AI must serve humanity, not the powerful few",
-      "summary": "Article URL: https://religionnews.com/2026/05/25/in-his-first-encyclical-pope-leo-xiv-says-ai-must-serve-humanity-not-the-powerful-few/ Comments URL: https://news.ycombinator.com/item?id=48266485 Points: 341 # Comments: 67",
+      "summary": "Article URL: https://religionnews.com/2026/05/25/in-his-first-encyclical-pope-leo-xiv-says-ai-must-serve-humanity-not-the-powerful-few/ Comments URL: https://news.ycombinator.com/item?id=48266485 Points: 343 # Comments: 67",
       "source": "Hacker News",
       "published": "2026-05-25T13:17:58+00:00",
       "link": "https://religionnews.com/2026/05/25/in-his-first-encyclical-pope-leo-xiv-says-ai-must-serve-humanity-not-the-powerful-few/"
@@ -252,6 +273,13 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-05-25T10:41:19+00:00",
       "link": "https://the-decoder.com/google-deepminds-alphaproof-nexus-solves-decades-old-math-problems-for-a-few-hundred-dollars/"
+    },
+    {
+      "title": "The AI Era Is Creating a Bug-Hunting Arms Race",
+      "summary": "As attackers ramp up their AI exploit development, the search for software vulnerabilities is changing rapidly.",
+      "source": "Wired",
+      "published": "2026-05-25T10:30:00+00:00",
+      "link": "https://www.wired.com/story/the-ai-era-is-creating-a-bug-hunting-arms-race/"
     },
     {
       "title": "The AI Era Is Creating a Bug Hunting Arms Race",
@@ -283,7 +311,7 @@ const FEED_DATA = {
     },
     {
       "title": "Memory has grown to nearly two-thirds of AI chip component costs",
-      "summary": "Article URL: https://epoch.ai/data-insights/ai-chip-component-cost-shares Comments URL: https://news.ycombinator.com/item?id=48258684 Points: 440 # Comments: 489",
+      "summary": "Article URL: https://epoch.ai/data-insights/ai-chip-component-cost-shares Comments URL: https://news.ycombinator.com/item?id=48258684 Points: 441 # Comments: 489",
       "source": "Hacker News",
       "published": "2026-05-24T16:31:29+00:00",
       "link": "https://epoch.ai/data-insights/ai-chip-component-cost-shares"
@@ -423,7 +451,7 @@ const FEED_DATA = {
     },
     {
       "title": "Is AI Profitable Yet?",
-      "summary": "Article URL: https://isaiprofitable.com/ Comments URL: https://news.ycombinator.com/item?id=48243863 Points: 264 # Comments: 205",
+      "summary": "Article URL: https://isaiprofitable.com/ Comments URL: https://news.ycombinator.com/item?id=48243863 Points: 264 # Comments: 206",
       "source": "Hacker News",
       "published": "2026-05-23T02:10:38+00:00",
       "link": "https://isaiprofitable.com/"
@@ -1372,34 +1400,6 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-05-19T21:33:30+00:00",
       "link": "https://techcrunch.com/2026/05/19/ai-design-tools-are-the-next-big-battleground-and-google-is-going-all-in-at-io-2026/"
-    },
-    {
-      "title": "You can now talk to your Gmail inbox, as seen at Google IO 2026",
-      "summary": "Google expands Gmail’s AI Inbox with conversational voice search, letting users ask Gemini to find buried email details.",
-      "source": "TechCrunch",
-      "published": "2026-05-19T21:25:31+00:00",
-      "link": "https://techcrunch.com/2026/05/19/you-can-now-talk-to-your-gmail-inbox-as-seen-at-google-io-2026/"
-    },
-    {
-      "title": "How to use Google’s new AI agents to go beyond your standard searches",
-      "summary": "Google is launching AI-powered “information agents” that can monitor topics in the background and proactively alert users to updates and changes.",
-      "source": "TechCrunch",
-      "published": "2026-05-19T21:16:25+00:00",
-      "link": "https://techcrunch.com/2026/05/19/how-to-use-googles-new-ai-agents-to-go-beyond-your-standard-searches/"
-    },
-    {
-      "title": "From teen hacker to Iron Dome researcher, this founder raised $28M to fight AI phishing",
-      "summary": "Ocean, an agentic email security platform, claims its AI can thoroughly analyze the context of every incoming email to detect fraud and impersonation attempts.",
-      "source": "TechCrunch",
-      "published": "2026-05-19T21:08:51+00:00",
-      "link": "https://techcrunch.com/2026/05/19/from-teen-hacker-to-iron-dome-researcher-this-founder-raised-28m-to-fight-ai-phishing/"
-    },
-    {
-      "title": "Google’s AI future demands trust — and your personal data",
-      "summary": "Google has big promises for its AI-powered future - and a lot of it depends on your trust. At I/O 2026, Google described a bunch of new tools that it claims will make your life easier.",
-      "source": "The Verge",
-      "published": "2026-05-19T21:00:00+00:00",
-      "link": "https://www.theverge.com/tech/934172/google-io-gemini-ai-trust-personal-data"
     }
   ]
 };
