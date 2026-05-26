@@ -1,6 +1,27 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-05-26T19:13:13.651736+00:00",
+  "lastUpdated": "2026-05-26T22:15:18.463383+00:00",
   "items": [
+    {
+      "title": "Why the Vatican Invited Anthropic to the Pope’s AI Encyclical Presentation",
+      "summary": "Pope Leo’s first encyclical marks an unprecedented alliance between the Church and Silicon Valley.",
+      "source": "Wired",
+      "published": "2026-05-26T20:46:03+00:00",
+      "link": "https://www.wired.com/story/anthropic-christopher-olah-pope-ai-encyclical/"
+    },
+    {
+      "title": "What Pope Leo XIV’s First Encyclical Says About the Power of AI",
+      "summary": "In Magnifica Humanitas, the Pope decries the concentration of technological power in a few global players.",
+      "source": "Wired",
+      "published": "2026-05-26T20:17:47+00:00",
+      "link": "https://www.wired.com/story/what-pope-leo-xivs-first-encyclical-says-about-the-power-of-ai/"
+    },
+    {
+      "title": "Millions of AI agents imperiled by critical vulnerability in open source package",
+      "summary": "\"BadHost\" was found in Starlette, a package with 325 million weekly downloads.",
+      "source": "Ars Technica",
+      "published": "2026-05-26T19:50:33+00:00",
+      "link": "https://arstechnica.com/information-technology/2026/05/millions-of-ai-agents-imperiled-by-critical-vulnerability-in-open-source-package/"
+    },
     {
       "title": "OpenRouter more than doubles valuation to $1.3B in a year",
       "summary": "OpenRouter has raised a $113 million Series B led by CapitalG. Its 5x growth in usage over six months indicates the multi-AI-model future is here.",
@@ -80,7 +101,7 @@ const FEED_DATA = {
     },
     {
       "title": "Outsourcing plus local AI will soon become more economical vs. frontier labs",
-      "summary": "Article URL: https://www.signalbloom.ai/posts/outsourcing-plus-localai-will-soon-become-more-economical-vs-frontier-labs/ Comments URL: https://news.ycombinator.com/item?id=48278610 Points: 164 # Comments: 168",
+      "summary": "Article URL: https://www.signalbloom.ai/posts/outsourcing-plus-localai-will-soon-become-more-economical-vs-frontier-labs/ Comments URL: https://news.ycombinator.com/item?id=48278610 Points: 213 # Comments: 236",
       "source": "Hacker News",
       "published": "2026-05-26T12:08:33+00:00",
       "link": "https://www.signalbloom.ai/posts/outsourcing-plus-localai-will-soon-become-more-economical-vs-frontier-labs/"
@@ -108,17 +129,17 @@ const FEED_DATA = {
     },
     {
       "title": "The AI bubble isn't like the internet bubble",
-      "summary": "Article URL: https://pluralistic.net/2026/05/26/the-ai-will-continue/#until-morale-improves Comments URL: https://news.ycombinator.com/item?id=48277784 Points: 63 # Comments: 86",
+      "summary": "Article URL: https://pluralistic.net/2026/05/26/the-ai-will-continue/#until-morale-improves Comments URL: https://news.ycombinator.com/item?id=48277784 Points: 68 # Comments: 87",
       "source": "Hacker News",
       "published": "2026-05-26T10:37:15+00:00",
       "link": "https://pluralistic.net/2026/05/26/the-ai-will-continue/#until-morale-improves"
     },
     {
-      "title": "Quiz: Will AI Destroy Your Career?",
-      "summary": "Some jobs may be toast. Some will survive.",
+      "title": "AI Agents Plunged the Tech World Into Chaos. Here’s Exactly How That Happened",
+      "summary": "The definitive story of how Claude Code and OpenClaw kicked off computing’s biggest transformation possibly ever.",
       "source": "Wired",
       "published": "2026-05-26T10:00:00+00:00",
-      "link": "https://www.wired.com/story/quiz-will-ai-destroy-your-career/"
+      "link": "https://www.wired.com/story/how-ai-agents-plunged-tech-world-into-chaos/"
     },
     {
       "title": "AI Is Taking Over the Most Cursed Job in the World",
@@ -128,11 +149,11 @@ const FEED_DATA = {
       "link": "https://www.wired.com/story/ai-takes-over-debt-collection/"
     },
     {
-      "title": "AI Agents Plunged the Tech World Into Chaos. Here’s Exactly How That Happened",
-      "summary": "The definitive story of how Claude Code and OpenClaw kicked off computing’s biggest transformation possibly ever.",
+      "title": "Quiz: Will AI Destroy Your Career?",
+      "summary": "Some jobs may be toast. Some will survive.",
       "source": "Wired",
       "published": "2026-05-26T10:00:00+00:00",
-      "link": "https://www.wired.com/story/how-ai-agents-plunged-tech-world-into-chaos/"
+      "link": "https://www.wired.com/story/quiz-will-ai-destroy-your-career/"
     },
     {
       "title": "To Land a Job in AI, Try Reading Kant",
@@ -199,21 +220,21 @@ const FEED_DATA = {
     },
     {
       "title": "Notes on Pope Leo XIV's Encyclical on AI",
-      "summary": "Article URL: https://simonwillison.net/2026/May/25/encyclical-on-ai/ Comments URL: https://news.ycombinator.com/item?id=48275098 Points: 59 # Comments: 11",
+      "summary": "Article URL: https://simonwillison.net/2026/May/25/encyclical-on-ai/ Comments URL: https://news.ycombinator.com/item?id=48275098 Points: 60 # Comments: 12",
       "source": "Hacker News",
       "published": "2026-05-26T04:45:29+00:00",
       "link": "https://simonwillison.net/2026/May/25/encyclical-on-ai/"
     },
     {
       "title": "Using AI to write better code more slowly",
-      "summary": "Article URL: https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly/ Comments URL: https://news.ycombinator.com/item?id=48272984 Points: 1078 # Comments: 396",
+      "summary": "Article URL: https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly/ Comments URL: https://news.ycombinator.com/item?id=48272984 Points: 1124 # Comments: 415",
       "source": "Hacker News",
       "published": "2026-05-25T23:16:59+00:00",
       "link": "https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly/"
     },
     {
       "title": "Norway's 2 petabytes of Huawei flash storage and LLM training",
-      "summary": "Article URL: https://www.blocksandfiles.com/flash/2026/05/22/norways-2-petabytes-of-huawei-flash-storage-and-llm-training/5244910 Comments URL: https://news.ycombinator.com/item?id=48270770 Points: 317 # Comments: 201",
+      "summary": "Article URL: https://www.blocksandfiles.com/flash/2026/05/22/norways-2-petabytes-of-huawei-flash-storage-and-llm-training/5244910 Comments URL: https://news.ycombinator.com/item?id=48270770 Points: 320 # Comments: 202",
       "source": "Hacker News",
       "published": "2026-05-25T19:37:57+00:00",
       "link": "https://www.blocksandfiles.com/flash/2026/05/22/norways-2-petabytes-of-huawei-flash-storage-and-llm-training/5244910"
@@ -248,7 +269,7 @@ const FEED_DATA = {
     },
     {
       "title": "Pope Leo XIV says AI must serve humanity, not the powerful few",
-      "summary": "Article URL: https://religionnews.com/2026/05/25/in-his-first-encyclical-pope-leo-xiv-says-ai-must-serve-humanity-not-the-powerful-few/ Comments URL: https://news.ycombinator.com/item?id=48266485 Points: 343 # Comments: 67",
+      "summary": "Article URL: https://religionnews.com/2026/05/25/in-his-first-encyclical-pope-leo-xiv-says-ai-must-serve-humanity-not-the-powerful-few/ Comments URL: https://news.ycombinator.com/item?id=48266485 Points: 344 # Comments: 67",
       "source": "Hacker News",
       "published": "2026-05-25T13:17:58+00:00",
       "link": "https://religionnews.com/2026/05/25/in-his-first-encyclical-pope-leo-xiv-says-ai-must-serve-humanity-not-the-powerful-few/"
@@ -262,7 +283,7 @@ const FEED_DATA = {
     },
     {
       "title": "GPT Guesses Between 1 and 100",
-      "summary": "Article URL: https://github.com/exmergo/research-chatgpt-guesses-between-1-and-100 Comments URL: https://news.ycombinator.com/item?id=48265745 Points: 87 # Comments: 69",
+      "summary": "Article URL: https://github.com/exmergo/research-chatgpt-guesses-between-1-and-100 Comments URL: https://news.ycombinator.com/item?id=48265745 Points: 87 # Comments: 70",
       "source": "Hacker News",
       "published": "2026-05-25T11:46:09+00:00",
       "link": "https://github.com/exmergo/research-chatgpt-guesses-between-1-and-100"
@@ -311,7 +332,7 @@ const FEED_DATA = {
     },
     {
       "title": "Memory has grown to nearly two-thirds of AI chip component costs",
-      "summary": "Article URL: https://epoch.ai/data-insights/ai-chip-component-cost-shares Comments URL: https://news.ycombinator.com/item?id=48258684 Points: 441 # Comments: 489",
+      "summary": "Article URL: https://epoch.ai/data-insights/ai-chip-component-cost-shares Comments URL: https://news.ycombinator.com/item?id=48258684 Points: 441 # Comments: 490",
       "source": "Hacker News",
       "published": "2026-05-24T16:31:29+00:00",
       "link": "https://epoch.ai/data-insights/ai-chip-component-cost-shares"
@@ -346,7 +367,7 @@ const FEED_DATA = {
     },
     {
       "title": "Constraint Decay: The Fragility of LLM Agents in Back End Code Generation",
-      "summary": "Article URL: https://arxiv.org/abs/2605.06445 Comments URL: https://news.ycombinator.com/item?id=48256912 Points: 283 # Comments: 191",
+      "summary": "Article URL: https://arxiv.org/abs/2605.06445 Comments URL: https://news.ycombinator.com/item?id=48256912 Points: 283 # Comments: 192",
       "source": "Hacker News",
       "published": "2026-05-24T12:55:53+00:00",
       "link": "https://arxiv.org/abs/2605.06445"
@@ -493,7 +514,7 @@ const FEED_DATA = {
     },
     {
       "title": "Models.dev: open-source database of AI model specs, pricing, and capabilities",
-      "summary": "Article URL: https://github.com/anomalyco/models.dev Comments URL: https://news.ycombinator.com/item?id=48241172 Points: 159 # Comments: 27",
+      "summary": "Article URL: https://github.com/anomalyco/models.dev Comments URL: https://news.ycombinator.com/item?id=48241172 Points: 159 # Comments: 28",
       "source": "Hacker News",
       "published": "2026-05-22T20:26:07+00:00",
       "link": "https://github.com/anomalyco/models.dev"
@@ -570,7 +591,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI errno(2) values",
-      "summary": "Article URL: https://www.netmeister.org/blog/ai-errno.html Comments URL: https://news.ycombinator.com/item?id=48236816 Points: 125 # Comments: 18",
+      "summary": "Article URL: https://www.netmeister.org/blog/ai-errno.html Comments URL: https://news.ycombinator.com/item?id=48236816 Points: 127 # Comments: 18",
       "source": "Hacker News",
       "published": "2026-05-22T14:56:57+00:00",
       "link": "https://www.netmeister.org/blog/ai-errno.html"
@@ -1379,27 +1400,6 @@ const FEED_DATA = {
       "source": "Wired",
       "published": "2026-05-19T22:53:04+00:00",
       "link": "https://www.wired.com/story/commonwealth-short-story-prize-ai-allegations/"
-    },
-    {
-      "title": "Remove-AI-Watermarks – CLI and library for removing AI watermarks from images",
-      "summary": "Article URL: https://github.com/wiltodelta/remove-ai-watermarks Comments URL: https://news.ycombinator.com/item?id=48200569 Points: 383 # Comments: 251",
-      "source": "Hacker News",
-      "published": "2026-05-19T22:30:31+00:00",
-      "link": "https://github.com/wiltodelta/remove-ai-watermarks"
-    },
-    {
-      "title": "Demis Hassabis said this might be the ‘foothills of the singularity.’ What?",
-      "summary": "Welcome to a \"profound moment for humanity,\" according to Google DeepMind CEO Demis Hassabis, who closed out Google I/O's keynote presentation on Tuesday, saying: Google's cutting-edge research and products will help unlock AGI's incredible potential for the benefit of the...",
-      "source": "The Verge",
-      "published": "2026-05-19T22:16:02+00:00",
-      "link": "https://www.theverge.com/tech/934260/google-io-ai-singularity-demis-hassabis"
-    },
-    {
-      "title": "Google just declared itself a contender in AI design at IO 2026",
-      "summary": "Google says it's designed the app to be accessible to everyone, from teachers to small business owners.",
-      "source": "TechCrunch",
-      "published": "2026-05-19T21:33:30+00:00",
-      "link": "https://techcrunch.com/2026/05/19/ai-design-tools-are-the-next-big-battleground-and-google-is-going-all-in-at-io-2026/"
     }
   ]
 };
