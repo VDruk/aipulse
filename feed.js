@@ -1,5 +1,5 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-05-26T05:02:26.804856+00:00",
+  "lastUpdated": "2026-05-26T08:34:14.650421+00:00",
   "items": [
     {
       "title": "Using AI to write better code more slowly",
