@@ -1,16 +1,198 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-05-26T08:34:14.650421+00:00",
+  "lastUpdated": "2026-05-26T16:43:40.194165+00:00",
   "items": [
     {
+      "title": "This startup is betting India’s gig economy can train the world’s robots",
+      "summary": "Human Archive, a startup founded by Berkeley and Stanford researchers, is paying gig workers in India to wear camera-equipped caps and sensor devices to collect the real-world physical training data that AI and robotics labs are racing to acquire.",
+      "source": "TechCrunch",
+      "published": "2026-05-26T16:00:00+00:00",
+      "link": "https://techcrunch.com/2026/05/26/human-archive-taps-into-indias-services-startups-to-collect-data-for-physical-ai/"
+    },
+    {
+      "title": "Universal Music Group and TikTok renew agreement to combat unauthorized AI music",
+      "summary": "For years, UMG has pushed platforms, streaming services, and AI companies to implement stricter content moderation policies",
+      "source": "TechCrunch",
+      "published": "2026-05-26T14:55:05+00:00",
+      "link": "https://techcrunch.com/2026/05/26/universal-music-group-and-tiktok-renew-agreement-to-combat-unauthorized-ai-music/"
+    },
+    {
+      "title": "Rethinking organizational design in the age of agentic AI",
+      "summary": "Amid rapidly growing adoption of enterprise-level AI agents, there’s a disconnect emerging between ambition and execution.",
+      "source": "MIT Tech Review",
+      "published": "2026-05-26T14:54:10+00:00",
+      "link": "https://www.technologyreview.com/2026/05/26/1137584/rethinking-organizational-design-in-the-age-of-agentic-ai/"
+    },
+    {
+      "title": "China reportedly now requires top AI researchers to get permission before leaving the country",
+      "summary": "China is now restricting overseas travel for top AI researchers at private companies like Alibaba and DeepSeek. Those affected need official approval before leaving the country.",
+      "source": "The Decoder",
+      "published": "2026-05-26T14:25:50+00:00",
+      "link": "https://the-decoder.com/china-reportedly-now-requires-top-ai-researchers-to-get-permission-before-leaving-the-country/"
+    },
+    {
+      "title": "Sundar Pichai on AI, the future of search, and what’s happening to the web",
+      "summary": "Today, I’m talking with Google and Alphabet CEO Sundar Pichai, in a conversation we recorded just after the Google I/O developer conference. This is the fifth year Sundar and I have sat down after I/O, and it’s become one of my favorite Decoder traditions.",
+      "source": "The Verge",
+      "published": "2026-05-26T14:00:00+00:00",
+      "link": "https://www.theverge.com/podcast/936445/sundar-pichai-ai-search-google-zero-youtube-web"
+    },
+    {
+      "title": "Google Cloud COO says AI security belongs in the boardroom, not just the server room",
+      "summary": "Google Cloud COO Francis de Souza is urging companies to build security into their AI strategy from day one. The article Google Cloud COO says AI security belongs in the boardroom, not just the server room appeared first on The Decoder.",
+      "source": "The Decoder",
+      "published": "2026-05-26T13:25:58+00:00",
+      "link": "https://the-decoder.com/google-cloud-coo-says-ai-security-belongs-in-the-boardroom-not-just-the-server-room/"
+    },
+    {
+      "title": "Nobody wants to tell me why they only listen to their own Suno slop",
+      "summary": "There's this alarming trend in the Suno subreddit. People aren't just prompting AI songs; they're sitting around listening almost exclusively to their own slop.",
+      "source": "The Verge",
+      "published": "2026-05-26T12:46:03+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/937059/nobody-wants-to-tell-me-why-they-only-listen-their-own-suno-slop"
+    },
+    {
+      "title": "AI-hallucinated citations are creeping into papers that shape clinical guidelines, researchers warn",
+      "summary": "An audit of 2.5 million biomedical papers by Columbia University and other institutions shows that the rate of fabricated references has increased more than twelvefold since 2023.",
+      "source": "The Decoder",
+      "published": "2026-05-26T12:36:11+00:00",
+      "link": "https://the-decoder.com/ai-hallucinated-citations-are-creeping-into-papers-that-shape-clinical-guidelines-researchers-warn/"
+    },
+    {
+      "title": "The Download: puncturing the AI jobs panic",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.",
+      "source": "MIT Tech Review",
+      "published": "2026-05-26T12:10:00+00:00",
+      "link": "https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/"
+    },
+    {
+      "title": "AI warfare is already here",
+      "summary": "The Convention on Certain Conventional Weapons, an international forum that focuses on lethal autonomous systems, is hosted twice a year at the United Nations in Geneva.",
+      "source": "The Verge",
+      "published": "2026-05-26T12:00:00+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/937028/military-ai-warfare-red-lines"
+    },
+    {
+      "title": "Y Combinator founder Paul Graham says AI-written founder emails feel like being lied to",
+      "summary": "Y Combinator founder Paul Graham ignores emails clearly written by AI—they feel \"like being lied to,\" he says. That's coming from one of OpenAI's earliest investors.",
+      "source": "The Decoder",
+      "published": "2026-05-26T11:00:57+00:00",
+      "link": "https://the-decoder.com/y-combinator-founder-paul-graham-says-ai-written-founder-emails-feel-like-being-lied-to/"
+    },
+    {
+      "title": "The AI justice gap solution is slowly turning into an existential paperwork nightmare for US federal courts",
+      "summary": "A new study from MIT and the University of Southern California shows that lawsuits filed without a lawyer at US federal courts have nearly doubled since ChatGPT went mainstream. One in five complaints now contains AI-generated text.",
+      "source": "The Decoder",
+      "published": "2026-05-26T10:42:00+00:00",
+      "link": "https://the-decoder.com/the-ai-justice-gap-solution-is-slowly-turning-into-an-existential-paperwork-nightmare-for-us-federal-courts/"
+    },
+    {
+      "title": "The AI bubble isn't like the internet bubble",
+      "summary": "Article URL: https://pluralistic.net/2026/05/26/the-ai-will-continue/#until-morale-improves Comments URL: https://news.ycombinator.com/item?id=48277784 Points: 58 # Comments: 85",
+      "source": "Hacker News",
+      "published": "2026-05-26T10:37:15+00:00",
+      "link": "https://pluralistic.net/2026/05/26/the-ai-will-continue/#until-morale-improves"
+    },
+    {
+      "title": "AI Agents Plunged the Tech World Into Chaos. Here’s Exactly How That Happened",
+      "summary": "The definitive story of how Claude Code and OpenClaw kicked off computing’s biggest transformation possibly ever.",
+      "source": "Wired",
+      "published": "2026-05-26T10:00:00+00:00",
+      "link": "https://www.wired.com/story/how-ai-agents-plunged-tech-world-into-chaos/"
+    },
+    {
+      "title": "Quiz: Will AI Destroy Your Career?",
+      "summary": "Some jobs may be toast. Some will survive.",
+      "source": "Wired",
+      "published": "2026-05-26T10:00:00+00:00",
+      "link": "https://www.wired.com/story/quiz-will-ai-destroy-your-career/"
+    },
+    {
+      "title": "AI Is Taking Over the Most Cursed Job in the World",
+      "summary": "There’s a mad dash to automate the world’s most hated calls. Have an unpaid bill?",
+      "source": "Wired",
+      "published": "2026-05-26T10:00:00+00:00",
+      "link": "https://www.wired.com/story/ai-takes-over-debt-collection/"
+    },
+    {
+      "title": "To Land a Job in AI, Try Reading Kant",
+      "summary": "The world’s leading AI labs are hiring philosophers to think through ethical edge cases and grand questions of mind and morality. Are they another instrument of hype?",
+      "source": "Wired",
+      "published": "2026-05-26T10:00:00+00:00",
+      "link": "https://www.wired.com/story/to-land-a-job-in-ai-try-reading-kant/"
+    },
+    {
+      "title": "Take This Mandatory AI Workplace Training Right Now—or Else",
+      "summary": "AI could make you redundant. Here’s what you need to know.",
+      "source": "Wired",
+      "published": "2026-05-26T10:00:00+00:00",
+      "link": "https://www.wired.com/story/ai-or-die-trying/"
+    },
+    {
+      "title": "I’m a Professional Fact-Checker. AI Is Wrong More Often Than You Think",
+      "summary": "Can AI do fact-checking? A WIRED fact-checker fact-checks.",
+      "source": "Wired",
+      "published": "2026-05-26T10:00:00+00:00",
+      "link": "https://www.wired.com/story/fact-checking-ai/"
+    },
+    {
+      "title": "7 Ways to Get So Good at AI, People Will Think You Are AI",
+      "summary": "From killing your chatbots to optimizing your prompts, here are the best ways to go full AI native and conquer the new world.",
+      "source": "Wired",
+      "published": "2026-05-26T10:00:00+00:00",
+      "link": "https://www.wired.com/story/7-ways-to-get-so-good-at-ai-people-will-think-you-are-ai/"
+    },
+    {
+      "title": "Autonomous AI systems test governance in physical environments",
+      "summary": "Autonomous AI systems are beginning to move beyond software environments and into warehouses, delivery networks, and public spaces. The development is drawing attention to whether current AI rules cover systems that operate in physical environments.",
+      "source": "AI News",
+      "published": "2026-05-26T10:00:00+00:00",
+      "link": "https://www.artificialintelligence-news.com/news/autonomous-ai-systems-governance-physical-environments/"
+    },
+    {
+      "title": "Uber president says AI spending is getting ‘harder to justify’",
+      "summary": "After reportedly exhausting its annual AI budget just four months into 2026, Uber is now questioning whether it's actually seeing meaningful returns on its investments.",
+      "source": "The Verge",
+      "published": "2026-05-26T09:55:09+00:00",
+      "link": "https://www.theverge.com/transportation/937116/uber-ai-investment-hard-to-justify"
+    },
+    {
+      "title": "US Law Enforcement Warns of ‘Anti-Tech Extremism’ as AI Hatred Grows",
+      "summary": "As Americans stew over the looming risk of job-stealing AI and data centers in their back yards, the feds are raising the alarm about a new category of threat, documents obtained by WIRED show.",
+      "source": "Wired",
+      "published": "2026-05-26T09:30:00+00:00",
+      "link": "https://www.wired.com/story/us-law-enforcement-warns-of-anti-tech-extremism/"
+    },
+    {
+      "title": "A reality check on the AI jobs hysteria",
+      "summary": "Haven’t you heard? White-collar jobs are going away, decimated by AI.",
+      "source": "MIT Tech Review",
+      "published": "2026-05-26T09:00:00+00:00",
+      "link": "https://www.technologyreview.com/2026/05/26/1137855/a-reality-check-on-the-ai-jobs-hysteria/"
+    },
+    {
+      "title": "It’s time to address the looming crisis in entry-level work.",
+      "summary": "Artificial intelligence has not so far produced a clean story of mass unemployment. Aggregate employment in developed countries remains broadly stable, and recent assessments have found limited evidence that AI has shifted the headline numbers.",
+      "source": "MIT Tech Review",
+      "published": "2026-05-26T09:00:00+00:00",
+      "link": "https://www.technologyreview.com/2026/05/26/1137865/its-time-to-address-the-looming-crisis-in-entry-level-work/"
+    },
+    {
+      "title": "Notes on Pope Leo XIV's Encyclical on AI",
+      "summary": "Article URL: https://simonwillison.net/2026/May/25/encyclical-on-ai/ Comments URL: https://news.ycombinator.com/item?id=48275098 Points: 57 # Comments: 11",
+      "source": "Hacker News",
+      "published": "2026-05-26T04:45:29+00:00",
+      "link": "https://simonwillison.net/2026/May/25/encyclical-on-ai/"
+    },
+    {
       "title": "Using AI to write better code more slowly",
-      "summary": "Article URL: https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly/ Comments URL: https://news.ycombinator.com/item?id=48272984 Points: 328 # Comments: 128",
+      "summary": "Article URL: https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly/ Comments URL: https://news.ycombinator.com/item?id=48272984 Points: 987 # Comments: 370",
       "source": "Hacker News",
       "published": "2026-05-25T23:16:59+00:00",
       "link": "https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly/"
     },
     {
       "title": "Norway's 2 petabytes of Huawei flash storage and LLM training",
-      "summary": "Article URL: https://www.blocksandfiles.com/flash/2026/05/22/norways-2-petabytes-of-huawei-flash-storage-and-llm-training/5244910 Comments URL: https://news.ycombinator.com/item?id=48270770 Points: 207 # Comments: 104",
+      "summary": "Article URL: https://www.blocksandfiles.com/flash/2026/05/22/norways-2-petabytes-of-huawei-flash-storage-and-llm-training/5244910 Comments URL: https://news.ycombinator.com/item?id=48270770 Points: 313 # Comments: 197",
       "source": "Hacker News",
       "published": "2026-05-25T19:37:57+00:00",
       "link": "https://www.blocksandfiles.com/flash/2026/05/22/norways-2-petabytes-of-huawei-flash-storage-and-llm-training/5244910"
@@ -45,7 +227,7 @@ const FEED_DATA = {
     },
     {
       "title": "Pope Leo XIV says AI must serve humanity, not the powerful few",
-      "summary": "Article URL: https://religionnews.com/2026/05/25/in-his-first-encyclical-pope-leo-xiv-says-ai-must-serve-humanity-not-the-powerful-few/ Comments URL: https://news.ycombinator.com/item?id=48266485 Points: 335 # Comments: 68",
+      "summary": "Article URL: https://religionnews.com/2026/05/25/in-his-first-encyclical-pope-leo-xiv-says-ai-must-serve-humanity-not-the-powerful-few/ Comments URL: https://news.ycombinator.com/item?id=48266485 Points: 341 # Comments: 67",
       "source": "Hacker News",
       "published": "2026-05-25T13:17:58+00:00",
       "link": "https://religionnews.com/2026/05/25/in-his-first-encyclical-pope-leo-xiv-says-ai-must-serve-humanity-not-the-powerful-few/"
@@ -59,7 +241,7 @@ const FEED_DATA = {
     },
     {
       "title": "GPT Guesses Between 1 and 100",
-      "summary": "Article URL: https://github.com/exmergo/research-chatgpt-guesses-between-1-and-100 Comments URL: https://news.ycombinator.com/item?id=48265745 Points: 84 # Comments: 67",
+      "summary": "Article URL: https://github.com/exmergo/research-chatgpt-guesses-between-1-and-100 Comments URL: https://news.ycombinator.com/item?id=48265745 Points: 87 # Comments: 69",
       "source": "Hacker News",
       "published": "2026-05-25T11:46:09+00:00",
       "link": "https://github.com/exmergo/research-chatgpt-guesses-between-1-and-100"
@@ -101,14 +283,14 @@ const FEED_DATA = {
     },
     {
       "title": "Memory has grown to nearly two-thirds of AI chip component costs",
-      "summary": "Article URL: https://epoch.ai/data-insights/ai-chip-component-cost-shares Comments URL: https://news.ycombinator.com/item?id=48258684 Points: 431 # Comments: 478",
+      "summary": "Article URL: https://epoch.ai/data-insights/ai-chip-component-cost-shares Comments URL: https://news.ycombinator.com/item?id=48258684 Points: 440 # Comments: 489",
       "source": "Hacker News",
       "published": "2026-05-24T16:31:29+00:00",
       "link": "https://epoch.ai/data-insights/ai-chip-component-cost-shares"
     },
     {
       "title": "'AI washing': firms are scrambling to rebrand themselves as tech-focused",
-      "summary": "Article URL: https://www.theguardian.com/technology/2026/may/24/ai-washing-pr-firms-scrambling-rebrand Comments URL: https://news.ycombinator.com/item?id=48257980 Points: 177 # Comments: 163",
+      "summary": "Article URL: https://www.theguardian.com/technology/2026/may/24/ai-washing-pr-firms-scrambling-rebrand Comments URL: https://news.ycombinator.com/item?id=48257980 Points: 179 # Comments: 163",
       "source": "Hacker News",
       "published": "2026-05-24T15:21:28+00:00",
       "link": "https://www.theguardian.com/technology/2026/may/24/ai-washing-pr-firms-scrambling-rebrand"
@@ -136,7 +318,7 @@ const FEED_DATA = {
     },
     {
       "title": "Constraint Decay: The Fragility of LLM Agents in Back End Code Generation",
-      "summary": "Article URL: https://arxiv.org/abs/2605.06445 Comments URL: https://news.ycombinator.com/item?id=48256912 Points: 278 # Comments: 187",
+      "summary": "Article URL: https://arxiv.org/abs/2605.06445 Comments URL: https://news.ycombinator.com/item?id=48256912 Points: 283 # Comments: 191",
       "source": "Hacker News",
       "published": "2026-05-24T12:55:53+00:00",
       "link": "https://arxiv.org/abs/2605.06445"
@@ -241,7 +423,7 @@ const FEED_DATA = {
     },
     {
       "title": "Is AI Profitable Yet?",
-      "summary": "Article URL: https://isaiprofitable.com/ Comments URL: https://news.ycombinator.com/item?id=48243863 Points: 262 # Comments: 204",
+      "summary": "Article URL: https://isaiprofitable.com/ Comments URL: https://news.ycombinator.com/item?id=48243863 Points: 264 # Comments: 205",
       "source": "Hacker News",
       "published": "2026-05-23T02:10:38+00:00",
       "link": "https://isaiprofitable.com/"
@@ -283,7 +465,7 @@ const FEED_DATA = {
     },
     {
       "title": "Models.dev: open-source database of AI model specs, pricing, and capabilities",
-      "summary": "Article URL: https://github.com/anomalyco/models.dev Comments URL: https://news.ycombinator.com/item?id=48241172 Points: 158 # Comments: 27",
+      "summary": "Article URL: https://github.com/anomalyco/models.dev Comments URL: https://news.ycombinator.com/item?id=48241172 Points: 159 # Comments: 27",
       "source": "Hacker News",
       "published": "2026-05-22T20:26:07+00:00",
       "link": "https://github.com/anomalyco/models.dev"
@@ -360,7 +542,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI errno(2) values",
-      "summary": "Article URL: https://www.netmeister.org/blog/ai-errno.html Comments URL: https://news.ycombinator.com/item?id=48236816 Points: 121 # Comments: 18",
+      "summary": "Article URL: https://www.netmeister.org/blog/ai-errno.html Comments URL: https://news.ycombinator.com/item?id=48236816 Points: 125 # Comments: 18",
       "source": "Hacker News",
       "published": "2026-05-22T14:56:57+00:00",
       "link": "https://www.netmeister.org/blog/ai-errno.html"
@@ -409,7 +591,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI has a multiplying effect on existing technical skills",
-      "summary": "Article URL: https://www.joshwcomeau.com/email/wham-launch-005-elephant-2-p/ Comments URL: https://news.ycombinator.com/item?id=48235526 Points: 341 # Comments: 314",
+      "summary": "Article URL: https://www.joshwcomeau.com/email/wham-launch-005-elephant-2-p/ Comments URL: https://news.ycombinator.com/item?id=48235526 Points: 341 # Comments: 316",
       "source": "Hacker News",
       "published": "2026-05-22T13:22:42+00:00",
       "link": "https://www.joshwcomeau.com/email/wham-launch-005-elephant-2-p/"
@@ -499,18 +681,18 @@ const FEED_DATA = {
       "link": "https://www.businessinsider.com/steve-wozniak-apple-ai-graduation-speech-2026-5"
     },
     {
-      "title": "The Gulf’s AI Boom Has an Undersea Cable Problem",
-      "summary": "Hyperscalers are pushing the Gulf to rethink internet infrastructure as AI raises the stakes of cable disruptions.",
-      "source": "Wired",
-      "published": "2026-05-22T09:00:00+00:00",
-      "link": "https://www.wired.com/story/the-gulfs-ai-boom-has-an-undersea-cable-problem/"
-    },
-    {
       "title": "Musk and Zuckerberg convinced Trump to scrap AI executive order",
       "summary": "The ceremony was scheduled. The CEOs were on the guest list.",
       "source": "AI News",
       "published": "2026-05-22T09:00:00+00:00",
       "link": "https://www.artificialintelligence-news.com/news/trump-ai-executive-order-scrapped-musk-zuckerberg-china/"
+    },
+    {
+      "title": "The Gulf’s AI Boom Has an Undersea Cable Problem",
+      "summary": "Hyperscalers are pushing the Gulf to rethink internet infrastructure as AI raises the stakes of cable disruptions.",
+      "source": "Wired",
+      "published": "2026-05-22T09:00:00+00:00",
+      "link": "https://www.wired.com/story/the-gulfs-ai-boom-has-an-undersea-cable-problem/"
     },
     {
       "title": "Samsung chip workers will get an average $340k bonus as AI profits soar",
@@ -1157,6 +1339,13 @@ const FEED_DATA = {
       "link": "https://news.ycombinator.com/item?id=48202486"
     },
     {
+      "title": "Proving the case on day two at TechEx North America",
+      "summary": "The AI and Big Data programme on day two of TechEx North America referred at least once to the “AI graveyard,” meaning the large number of pilots that never become durable systems. That phrase set the tone.",
+      "source": "AI News",
+      "published": "2026-05-20T02:37:00+00:00",
+      "link": "https://www.artificialintelligence-news.com/news/proving-the-case-on-day-two-at-techex-north-america/"
+    },
+    {
       "title": "Literary Prizewinners Are Facing AI Allegations. It Feels Like the New Normal",
       "summary": "Three of five regional winners of the prestigious Commonwealth Short Story Prize are suspected of relying on chatbots. They’re certainly not alone.",
       "source": "Wired",
@@ -1211,195 +1400,6 @@ const FEED_DATA = {
       "source": "The Verge",
       "published": "2026-05-19T21:00:00+00:00",
       "link": "https://www.theverge.com/tech/934172/google-io-gemini-ai-trust-personal-data"
-    },
-    {
-      "title": "Roundtables: Inside the Musk v. Altman Trial",
-      "summary": "Listen to the session or watch below Elon Musk lost his suit against OpenAI, in which he alleged CEO Sam Altman and President Greg Brockman had deceived him over the company’s non-profit status.",
-      "source": "MIT Tech Review",
-      "published": "2026-05-19T20:15:18+00:00",
-      "link": "https://www.technologyreview.com/2026/05/19/1137454/roundtables-inside-the-musk-v-altman-trial/"
-    },
-    {
-      "title": "Elon Musk said Sam Altman ‘stole’ a non-profit — but the trial showed he had similar aims",
-      "summary": "The jury's speedy decision to reject Elon Musk's lawsuit against the other founders of OpenAI and Microsoft confirmed what we saw in the courtroom: Musk's case was a weak one, in part because he waited so long to file it.",
-      "source": "TechCrunch",
-      "published": "2026-05-19T20:11:00+00:00",
-      "link": "https://techcrunch.com/2026/05/19/elon-musk-said-sam-altman-stole-a-non-profit-but-the-trial-showed-he-had-similar-aims/"
-    },
-    {
-      "title": "Everything Announced at Google I/O 2026: Gemini, Search, Smart Glasses",
-      "summary": "Google is sprucing up its Gemini models, revamping search, and enabling AI agents in everything. There are also some spiffy new smart glasses coming this fall.",
-      "source": "Wired",
-      "published": "2026-05-19T20:00:48+00:00",
-      "link": "https://www.wired.com/story/everything-google-announced-at-google-io-2026/"
-    },
-    {
-      "title": "OpenAI Adopts Google's SynthID Watermark for AI Images with Verification Tool",
-      "summary": "Article URL: https://openai.com/index/advancing-content-provenance/ Comments URL: https://news.ycombinator.com/item?id=48198291 Points: 331 # Comments: 180",
-      "source": "Hacker News",
-      "published": "2026-05-19T19:34:30+00:00",
-      "link": "https://openai.com/index/advancing-content-provenance/"
-    },
-    {
-      "title": "Google overhauls its AI subscriptions at I/O 2026 with three tiers starting at $10 a month",
-      "summary": "Google is restructuring its AI subscriptions at I/O 2026: three tiers from $7.99 to $99.99 per month with staggered usage limits, new models like Gemini Omni, and the AI agent Gemini Spark.",
-      "source": "The Decoder",
-      "published": "2026-05-19T19:33:12+00:00",
-      "link": "https://the-decoder.com/google-overhauls-its-ai-subscriptions-at-i-o-2026-with-three-tiers-starting-at-10-a-month/"
-    },
-    {
-      "title": "Enterprise AI roadblocks and roadmaps, security and physical AI: Day two at TechEx",
-      "summary": "Day two of TechEx North America has been more of a deeper, critical examination of AI in the enterprise, but with a optimistic bent.",
-      "source": "AI News",
-      "published": "2026-05-19T19:18:00+00:00",
-      "link": "https://www.artificialintelligence-news.com/news/tech-ex-north-america-day-two-roundup-of-themes-issues-discussions/"
-    },
-    {
-      "title": "Google takes a page out of Meta’s book, announces new audio-powered smart glasses at IO 2026",
-      "summary": "Google is calling the new devices \"audio glasses,\" in that users will be able to issue verbal commands to them and get things done via its ecosystem of apps and services, including Gemini.",
-      "source": "TechCrunch",
-      "published": "2026-05-19T19:15:31+00:00",
-      "link": "https://techcrunch.com/2026/05/19/google-takes-a-page-out-of-metas-book-announces-new-audio-powered-smart-glasses-at-io-2026/"
-    },
-    {
-      "title": "Mistral AI acquires Emmi AI",
-      "summary": "Article URL: https://www.emmi.ai/news/mistral-ai-acquires-emmi-ai Comments URL: https://news.ycombinator.com/item?id=48197995 Points: 336 # Comments: 98",
-      "source": "Hacker News",
-      "published": "2026-05-19T19:14:12+00:00",
-      "link": "https://www.emmi.ai/news/mistral-ai-acquires-emmi-ai"
-    },
-    {
-      "title": "Mistral AI Acquires Emmi AI to Create the Leading AI Stack",
-      "summary": "Article URL: https://www.emmi.ai/news/mistral-ai-acquires-emmi-ai Comments URL: https://news.ycombinator.com/item?id=48197995 Points: 104 # Comments: 16",
-      "source": "Hacker News",
-      "published": "2026-05-19T19:14:12+00:00",
-      "link": "https://www.emmi.ai/news/mistral-ai-acquires-emmi-ai"
-    },
-    {
-      "title": "Sorry for the outages: Bot spam is pushing our servers to the limit",
-      "summary": "Since May 17, our site has been hard to reach, and we want to say sorry for the trouble, especially to our subscribers. The article Sorry for the outages: Bot spam is pushing our servers to the limit appeared first on The Decoder.",
-      "source": "The Decoder",
-      "published": "2026-05-19T18:31:14+00:00",
-      "link": "https://the-decoder.com/sorry-for-the-outages-bot-spam-is-pushing-our-servers-to-the-limit/"
-    },
-    {
-      "title": "In stunning display of stupid, secret CISA credentials found in public GitHub repo",
-      "summary": "SSH keys, plaintext passwords, other sensitive data had been up since November 2025.",
-      "source": "Ars Technica",
-      "published": "2026-05-19T18:27:08+00:00",
-      "link": "https://arstechnica.com/information-technology/2026/05/in-stunning-display-of-stupid-secret-cisa-credentials-found-in-public-github-repo/"
-    },
-    {
-      "title": "Prominent AI researcher Andrej Karpathy picks Anthropic over former home OpenAI to get back into frontier LLM research",
-      "summary": "Andrej Karpathy, one of the biggest names in AI, is joining Anthropic.",
-      "source": "The Decoder",
-      "published": "2026-05-19T18:23:27+00:00",
-      "link": "https://the-decoder.com/prominent-ai-researcher-andrej-karpathy-picks-anthropic-over-former-home-openai-to-get-back-into-frontier-llm-research/"
-    },
-    {
-      "title": "Gemini will use Volvo’s external cameras to interpret parking signs",
-      "summary": "Gemini is gaining the power of sight and mobility. Today at the I/O conference, Google and Volvo announced that the AI-powered assistant will be able to access external cameras in the upcoming EX60 SUV to help explain and interpret its surroundings to vehicle owners.",
-      "source": "The Verge",
-      "published": "2026-05-19T18:00:00+00:00",
-      "link": "https://www.theverge.com/transportation/933556/google-io-gemini-volvo-ex60-camera-ai-parking"
-    },
-    {
-      "title": "The 13 biggest announcements at Google I/O 2026",
-      "summary": "Google's I/O 2026 keynote today was once again full of AI-related announcements including a new family of Gemini 3.5 AI models, new features for Search and Gmail, and updates about its Project Aura smart glasses.",
-      "source": "The Verge",
-      "published": "2026-05-19T17:54:33+00:00",
-      "link": "https://www.theverge.com/tech/933415/google-io-2026-biggest-announcements-ai-gemini"
-    },
-    {
-      "title": "Google’s Genie world model can now simulate real streets with Street View",
-      "summary": "Google DeepMind is integrating Street View with Project Genie to create immersive, interactive world simulations for robotics, gaming, and travel, allowing users to explore environments, weather changes, and rare scenarios.",
-      "source": "TechCrunch",
-      "published": "2026-05-19T17:51:39+00:00",
-      "link": "https://techcrunch.com/2026/05/19/googles-genie-world-model-can-now-simulate-real-streets-with-street-view/"
-    },
-    {
-      "title": "With Gemini 3.5 Flash, Google bets its next AI wave on agents, not chatbots",
-      "summary": "Google launched Gemini 3.5 Flash, its most powerful coding and agentic AI model yet, at the company's annual developer conference. It is capable of autonomously executing complex tasks and building software from scratch.",
-      "source": "TechCrunch",
-      "published": "2026-05-19T17:51:30+00:00",
-      "link": "https://techcrunch.com/2026/05/19/with-gemini-3-5-flash-google-bets-its-next-ai-wave-on-agents-not-chatbots/"
-    },
-    {
-      "title": "How to use Google’s new information agents",
-      "summary": "Google is launching AI-powered “information agents” that can monitor topics in the background and proactively alert users to updates and changes.",
-      "source": "TechCrunch",
-      "published": "2026-05-19T17:50:00+00:00",
-      "link": "https://techcrunch.com/2026/05/19/how-to-use-googles-new-information-agents/"
-    },
-    {
-      "title": "Gemini 3.5 Flash: frontier intelligence with action",
-      "summary": "Article URL: https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/ Comments URL: https://news.ycombinator.com/item?id=48196656 Points: 180 # Comments: 1",
-      "source": "Hacker News",
-      "published": "2026-05-19T17:49:50+00:00",
-      "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/"
-    },
-    {
-      "title": "Google wants to compete with Anthropic’s Mythos",
-      "summary": "Google is making a big push into cybersecurity. At I/O, the company announced that it was inviting select groups of experts to test the API for CodeMender, an \"AI agent for code security\" it debuted last October.",
-      "source": "The Verge",
-      "published": "2026-05-19T17:48:22+00:00",
-      "link": "https://www.theverge.com/tech/933921/google-wants-to-compete-with-anthropics-mythos"
-    },
-    {
-      "title": "Google Search as you know it is over",
-      "summary": "Google is transforming Search from a list of links into an AI-powered experience filled with conversational answers, autonomous agents, and interactive interfaces — a shift that could further reduce traffic to publishers across the web.",
-      "source": "TechCrunch",
-      "published": "2026-05-19T17:46:00+00:00",
-      "link": "https://techcrunch.com/2026/05/19/google-search-as-you-know-it-is-over/"
-    },
-    {
-      "title": "Demis Hassabis Thinks AI Job Cuts Are Dumb",
-      "summary": "The CEO of Google DeepMind tells WIRED that companies should use the productivity gains of AI to do more, not lay people off.",
-      "source": "Wired",
-      "published": "2026-05-19T17:45:00+00:00",
-      "link": "https://www.wired.com/story/demis-hassabis-ai-layoffs-deepmind-google-io/"
-    },
-    {
-      "title": "Google Makes It Easy to Deepfake Yourself",
-      "summary": "Google’s overhaul of its AI creation software, Flow, includes a new video model and a tool for generating selfie videos called avatars.",
-      "source": "Wired",
-      "published": "2026-05-19T17:45:00+00:00",
-      "link": "https://www.wired.com/story/google-makes-it-easy-to-make-a-deepfake-of-yourself/"
-    },
-    {
-      "title": "Google Search Goes Agentic—and Doesn’t Need You Anymore",
-      "summary": "Vibe-coded results! Super widgets!",
-      "source": "Wired",
-      "published": "2026-05-19T17:45:00+00:00",
-      "link": "https://www.wired.com/story/google-search-goes-agentic-and-doesnt-need-you-anymore/"
-    },
-    {
-      "title": "Gemini Spark Is Google’s Response to OpenClaw’s 24/7 AI Agent",
-      "summary": "Google’s always-running, data-hungry AI agent is designed to spend your money and send your emails.",
-      "source": "Wired",
-      "published": "2026-05-19T17:45:00+00:00",
-      "link": "https://www.wired.com/story/googles-response-to-openclaws-24-7-ai-agent/"
-    },
-    {
-      "title": "OpenAI is making it easier to check if an image was made by their models",
-      "summary": "OpenAI announced two new measures to help detect AI generated imagery: joining the open C2PA standard and adding Google's SynthID to its products.",
-      "source": "TechCrunch",
-      "published": "2026-05-19T17:45:00+00:00",
-      "link": "https://techcrunch.com/2026/05/19/openai-is-making-it-easier-to-check-if-an-image-was-made-by-their-models/"
-    },
-    {
-      "title": "Google’s AI Studio now lets anyone build Android apps in minutes",
-      "summary": "Google unveiled new web-based AI tools that can generate native Android apps in minutes, as the company expands its push into AI-powered software development.",
-      "source": "TechCrunch",
-      "published": "2026-05-19T17:45:00+00:00",
-      "link": "https://techcrunch.com/2026/05/19/googles-ai-studio-now-lets-anyone-build-android-apps-in-minutes/"
-    },
-    {
-      "title": "Agentic app coding gets an upgrade with Google’s release of Android CLI",
-      "summary": "Google is embracing the rise of AI coding agents with new Android tools designed to work with platforms like Claude Code and OpenAI’s Codex, allowing developers — or their AI assistants — to build Android apps faster from the command line.",
-      "source": "TechCrunch",
-      "published": "2026-05-19T17:45:00+00:00",
-      "link": "https://techcrunch.com/2026/05/19/agentic-app-coding-gets-an-upgrade-with-googles-release-of-android-cli/"
     }
   ]
 };
