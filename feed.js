@@ -1,6 +1,62 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-05-27T16:39:21.014311+00:00",
+  "lastUpdated": "2026-05-27T19:20:06.347043+00:00",
   "items": [
+    {
+      "title": "Your SEO strategy is optimized for a search engine that no longer exists.",
+      "summary": "Google I/O made it official: AI-generated answers are now front and center in search, and most brands have almost no visibility into how AI is describing them to their customers.",
+      "source": "TechCrunch",
+      "published": "2026-05-27T18:39:17+00:00",
+      "link": "https://techcrunch.com/podcast/your-seo-strategy-is-optimized-for-a-search-engine-that-no-longer-exists/"
+    },
+    {
+      "title": "Microsoft's MAI-Image-2.5 pulls even with Google's Nano Banana 2 on benchmarks",
+      "summary": "Microsoft's MAI-Image-2.5 ranks third on Arena's text-to-image leaderboard, on par with Google's Nano Banana 2 but still behind OpenAI's Image-2. The model shows clear gains over its predecessor, especially in rendering text inside images and commercial visuals.",
+      "source": "The Decoder",
+      "published": "2026-05-27T18:31:10+00:00",
+      "link": "https://the-decoder.com/microsofts-mai-image-2-5-pulls-even-with-googles-nano-banana-2-on-benchmarks/"
+    },
+    {
+      "title": "AI coding agent Devin maker Cognition more than doubles its valuation to $26 billion in under nine months",
+      "summary": "Cognition, the company behind AI software developer Devin, has raised over $1 billion at a valuation north of $26 billion. The massive round shows just how much investor money is flowing into AI coding agents, even as their real-world value remains hotly debated.",
+      "source": "The Decoder",
+      "published": "2026-05-27T18:09:51+00:00",
+      "link": "https://the-decoder.com/ai-coding-agent-devin-maker-cognition-more-than-doubles-its-valuation-to-26-billion-in-under-nine-months/"
+    },
+    {
+      "title": "Meta launches Instagram, Facebook, and WhatsApp subscriptions, with more to come, including AI plans",
+      "summary": "Meta is rolling out paid subscription plans for Instagram, Facebook, and WhatsApp worldwide, while also testing new AI, creator, and business-focused offerings under its broader “Meta One” subscription brand.",
+      "source": "TechCrunch",
+      "published": "2026-05-27T18:00:00+00:00",
+      "link": "https://techcrunch.com/2026/05/27/meta-officially-launches-instagram-facebook-and-whatsapp-subscriptions-with-more-to-come-including-ai-plans/"
+    },
+    {
+      "title": "Robinhood lets AI agents trade shares and make credit card purchases for customers",
+      "summary": "Robinhood now lets customers connect AI agents like Anthropic's Claude to a separate investment account via MCP. The agents can trade stocks on their own.",
+      "source": "The Decoder",
+      "published": "2026-05-27T17:42:57+00:00",
+      "link": "https://the-decoder.com/robinhood-lets-ai-agents-trade-shares-and-make-credit-card-purchases-for-customers/"
+    },
+    {
+      "title": "YouTube will try to automatically flag AI videos starting this month",
+      "summary": "YouTube is tightening its AI labeling rules. Labels for photorealistic or heavily AI-altered content will now show up in more visible spots, below the player for long videos and as an overlay on Shorts.",
+      "source": "The Decoder",
+      "published": "2026-05-27T16:54:14+00:00",
+      "link": "https://the-decoder.com/youtube-will-try-to-automatically-flag-ai-videos-starting-this-month/"
+    },
+    {
+      "title": "DuckDuckGo search saw 28% more visits after Google said people love AI mode",
+      "summary": "Article URL: https://www.pcgamer.com/hardware/duckduckgos-ai-free-search-saw-nearly-28-percent-more-visits-in-the-week-following-googles-insistence-that-people-love-ai-mode/ Comments URL: https://news.ycombinator.com/item?id=48296649 Points: 346 # Comments: 184",
+      "source": "Hacker News",
+      "published": "2026-05-27T16:28:41+00:00",
+      "link": "https://www.pcgamer.com/hardware/duckduckgos-ai-free-search-saw-nearly-28-percent-more-visits-in-the-week-following-googles-insistence-that-people-love-ai-mode/"
+    },
+    {
+      "title": "Training our own AI models",
+      "summary": "Article URL: https://posthog.com/blog/training-ai-models Comments URL: https://news.ycombinator.com/item?id=48296359 Points: 157 # Comments: 103",
+      "source": "Hacker News",
+      "published": "2026-05-27T16:08:42+00:00",
+      "link": "https://posthog.com/blog/training-ai-models"
+    },
     {
       "title": "AI coding startup Cognition raises $1B at $25B pre-money valuation",
       "summary": "As Cognition reaches $492 million in annualized revenue run rate, it more than doubled its valuation in eight months, it says.",
@@ -23,13 +79,6 @@ const FEED_DATA = {
       "link": "https://www.theverge.com/ai-artificial-intelligence/938095/robinhood-ai-agent-stock-trading"
     },
     {
-      "title": "SOND, a sleep tech startup from Bose’s former head of sleep, exits stealth with $7M",
-      "summary": "SOND, a startup led by Bose’s former head of sleep products, emerged from stealth with $7M in funding for its AI-powered sleep earbuds.",
-      "source": "TechCrunch",
-      "published": "2026-05-27T14:00:00+00:00",
-      "link": "https://techcrunch.com/2026/05/27/sond-a-sleep-tech-startup-from-boses-former-head-of-sleep-exits-stealth-with-7m/"
-    },
-    {
       "title": "This smart bird feeder captures more of my backyard drama",
       "summary": "Since moving to South Carolina's Lowcountry, I've been spellbound by the myriad of beautiful birds that share the coast with us - ospreys raising their babies in towering nests beside the road to my daughter's school, roseate spoonbills wading in the marsh on my morning walks,...",
       "source": "The Verge",
@@ -42,6 +91,13 @@ const FEED_DATA = {
       "source": "Wired",
       "published": "2026-05-27T14:00:00+00:00",
       "link": "https://www.wired.com/story/ex-google-apple-ai-researchers-want-to-make-ai-that-gets-smarter-as-you-use-it/"
+    },
+    {
+      "title": "SOND, a sleep tech startup from Bose’s former head of sleep, exits stealth with $7M",
+      "summary": "SOND, a startup led by Bose’s former head of sleep products, emerged from stealth with $7M in funding for its AI-powered sleep earbuds.",
+      "source": "TechCrunch",
+      "published": "2026-05-27T14:00:00+00:00",
+      "link": "https://techcrunch.com/2026/05/27/sond-a-sleep-tech-startup-from-boses-former-head-of-sleep-exits-stealth-with-7m/"
     },
     {
       "title": "China is increasingly keeping its best AI talent to itself",
@@ -136,7 +192,7 @@ const FEED_DATA = {
     },
     {
       "title": "I'm Tired of Talking to AI",
-      "summary": "Article URL: https://orchidfiles.com/im-tired-of-ai-generated-answers/ Comments URL: https://news.ycombinator.com/item?id=48292224 Points: 1404 # Comments: 701",
+      "summary": "Article URL: https://orchidfiles.com/im-tired-of-ai-generated-answers/ Comments URL: https://news.ycombinator.com/item?id=48292224 Points: 1762 # Comments: 852",
       "source": "Hacker News",
       "published": "2026-05-27T10:43:25+00:00",
       "link": "https://orchidfiles.com/im-tired-of-ai-generated-answers/"
@@ -178,7 +234,7 @@ const FEED_DATA = {
     },
     {
       "title": "Bay Area mom out thousands after scammers use AI to mimic daughter's voice",
-      "summary": "Article URL: https://abc7news.com/post/bay-area-mom-thousands-scammers-use-ai-mimic-daughters-voice-fake-kidnapping-part-growing-trend/19154381/ Comments URL: https://news.ycombinator.com/item?id=48285484 Points: 53 # Comments: 22",
+      "summary": "Article URL: https://abc7news.com/post/bay-area-mom-thousands-scammers-use-ai-mimic-daughters-voice-fake-kidnapping-part-growing-trend/19154381/ Comments URL: https://news.ycombinator.com/item?id=48285484 Points: 54 # Comments: 22",
       "source": "Hacker News",
       "published": "2026-05-26T20:23:40+00:00",
       "link": "https://abc7news.com/post/bay-area-mom-thousands-scammers-use-ai-mimic-daughters-voice-fake-kidnapping-part-growing-trend/19154381/"
@@ -276,7 +332,7 @@ const FEED_DATA = {
     },
     {
       "title": "Outsourcing plus local AI will soon become more economical vs. frontier labs",
-      "summary": "Article URL: https://www.signalbloom.ai/posts/outsourcing-plus-localai-will-soon-become-more-economical-vs-frontier-labs/ Comments URL: https://news.ycombinator.com/item?id=48278610 Points: 306 # Comments: 344",
+      "summary": "Article URL: https://www.signalbloom.ai/posts/outsourcing-plus-localai-will-soon-become-more-economical-vs-frontier-labs/ Comments URL: https://news.ycombinator.com/item?id=48278610 Points: 309 # Comments: 353",
       "source": "Hacker News",
       "published": "2026-05-26T12:08:33+00:00",
       "link": "https://www.signalbloom.ai/posts/outsourcing-plus-localai-will-soon-become-more-economical-vs-frontier-labs/"
@@ -304,14 +360,14 @@ const FEED_DATA = {
     },
     {
       "title": "The AI bubble isn't like the internet bubble",
-      "summary": "Article URL: https://pluralistic.net/2026/05/26/the-ai-will-continue/#until-morale-improves Comments URL: https://news.ycombinator.com/item?id=48277784 Points: 76 # Comments: 89",
+      "summary": "Article URL: https://pluralistic.net/2026/05/26/the-ai-will-continue/#until-morale-improves Comments URL: https://news.ycombinator.com/item?id=48277784 Points: 77 # Comments: 90",
       "source": "Hacker News",
       "published": "2026-05-26T10:37:15+00:00",
       "link": "https://pluralistic.net/2026/05/26/the-ai-will-continue/#until-morale-improves"
     },
     {
       "title": "Uber president says AI spending is getting 'harder to justify'",
-      "summary": "Article URL: https://www.theverge.com/transportation/937116/uber-ai-investment-hard-to-justify Comments URL: https://news.ycombinator.com/item?id=48277485 Points: 298 # Comments: 151",
+      "summary": "Article URL: https://www.theverge.com/transportation/937116/uber-ai-investment-hard-to-justify Comments URL: https://news.ycombinator.com/item?id=48277485 Points: 298 # Comments: 154",
       "source": "Hacker News",
       "published": "2026-05-26T10:01:39+00:00",
       "link": "https://www.theverge.com/transportation/937116/uber-ai-investment-hard-to-justify"
@@ -345,18 +401,18 @@ const FEED_DATA = {
       "link": "https://www.wired.com/story/fact-checking-ai/"
     },
     {
-      "title": "Take This Mandatory AI Workplace Training Right Now—or Else",
-      "summary": "AI could make you redundant. Here’s what you need to know.",
-      "source": "Wired",
-      "published": "2026-05-26T10:00:00+00:00",
-      "link": "https://www.wired.com/story/ai-or-die-trying/"
-    },
-    {
       "title": "Autonomous AI systems test governance in physical environments",
       "summary": "Autonomous AI systems are beginning to move beyond software environments and into warehouses, delivery networks, and public spaces. The development is drawing attention to whether current AI rules cover systems that operate in physical environments.",
       "source": "AI News",
       "published": "2026-05-26T10:00:00+00:00",
       "link": "https://www.artificialintelligence-news.com/news/autonomous-ai-systems-governance-physical-environments/"
+    },
+    {
+      "title": "Take This Mandatory AI Workplace Training Right Now—or Else",
+      "summary": "AI could make you redundant. Here’s what you need to know.",
+      "source": "Wired",
+      "published": "2026-05-26T10:00:00+00:00",
+      "link": "https://www.wired.com/story/ai-or-die-trying/"
     },
     {
       "title": "To Land a Job in AI, Try Reading Kant",
@@ -402,14 +458,14 @@ const FEED_DATA = {
     },
     {
       "title": "Using AI to write better code more slowly",
-      "summary": "Article URL: https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly/ Comments URL: https://news.ycombinator.com/item?id=48272984 Points: 1205 # Comments: 443",
+      "summary": "Article URL: https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly/ Comments URL: https://news.ycombinator.com/item?id=48272984 Points: 1210 # Comments: 445",
       "source": "Hacker News",
       "published": "2026-05-25T23:16:59+00:00",
       "link": "https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly/"
     },
     {
       "title": "Norway's 2 petabytes of Huawei flash storage and LLM training",
-      "summary": "Article URL: https://www.blocksandfiles.com/flash/2026/05/22/norways-2-petabytes-of-huawei-flash-storage-and-llm-training/5244910 Comments URL: https://news.ycombinator.com/item?id=48270770 Points: 321 # Comments: 207",
+      "summary": "Article URL: https://www.blocksandfiles.com/flash/2026/05/22/norways-2-petabytes-of-huawei-flash-storage-and-llm-training/5244910 Comments URL: https://news.ycombinator.com/item?id=48270770 Points: 322 # Comments: 208",
       "source": "Hacker News",
       "published": "2026-05-25T19:37:57+00:00",
       "link": "https://www.blocksandfiles.com/flash/2026/05/22/norways-2-petabytes-of-huawei-flash-storage-and-llm-training/5244910"
@@ -1344,62 +1400,6 @@ const FEED_DATA = {
       "source": "Hacker News",
       "published": "2026-05-20T21:45:57+00:00",
       "link": "https://www.wsj.com/opinion/how-i-choose-which-cloudflare-employees-to-replace-with-ai-40a197e5"
-    },
-    {
-      "title": "Anthropic will pay xAI $1.25B per month for compute",
-      "summary": "Elon Musk's xAI surprised the AI world when it made a deal to sell compute to Anthropic. Now we know how much it's worth.",
-      "source": "TechCrunch",
-      "published": "2026-05-20T21:29:22+00:00",
-      "link": "https://techcrunch.com/2026/05/20/anthropic-will-pay-xai-1-25-billion-per-month-for-compute/"
-    },
-    {
-      "title": "PopuLoRA: Co-Evolving LLM Populations for Reasoning Self- Play",
-      "summary": "Article URL: https://vmax.ai/team/populora-co-evolving-llm-populations-for-reasoning-self-play Comments URL: https://news.ycombinator.com/item?id=48214188 Points: 50 # Comments: 6",
-      "source": "Hacker News",
-      "published": "2026-05-20T21:11:55+00:00",
-      "link": "https://vmax.ai/team/populora-co-evolving-llm-populations-for-reasoning-self-play"
-    },
-    {
-      "title": "OpenAI claims it solved an 80-year-old math problem — for real this time",
-      "summary": "OpenAI claims its reasoning model disproved a geometry conjecture unsolved since 1946 — and this time, the mathematicians who exposed its last embarrassing claim are backing it up.",
-      "source": "TechCrunch",
-      "published": "2026-05-20T20:28:27+00:00",
-      "link": "https://techcrunch.com/2026/05/20/openai-claims-it-solved-an-80-year-old-math-problem-for-real-this-time/"
-    },
-    {
-      "title": "IrisGo, a startup backed by Andrew Ng, looks to become the AI desktop buddy you never knew you needed",
-      "summary": "Initially billed as an \"AI butler,\" Iris watches what happens on a user's desktop and automatically learns how to do tasks for them, its co-founder says.",
-      "source": "TechCrunch",
-      "published": "2026-05-20T19:47:20+00:00",
-      "link": "https://techcrunch.com/2026/05/20/irisgo-a-startup-backed-by-andrew-ng-looks-to-become-the-ai-desktop-buddy-you-never-knew-you-needed/"
-    },
-    {
-      "title": "Deepseek wants to take on Claude Code and OpenAI's Codex with \"Deepseek Code\"",
-      "summary": "Deepseek is building a new team in Beijing to develop its own AI code agent, working title \"Deepseek Code,\" a direct competitor to Claude Code, Codex, and Cursor. Applicants should know agent loops, MCP, and context engineering and be heavy users of existing coding tools.",
-      "source": "The Decoder",
-      "published": "2026-05-20T18:48:47+00:00",
-      "link": "https://the-decoder.com/deepseek-wants-to-take-on-claude-code-and-openais-codex-with-deepseek-code/"
-    },
-    {
-      "title": "LinkedIn's war on AI slop is not just a policy update—it is an admission that the platform lost control of its feed",
-      "summary": "Linkedin is cracking down on AI-generated junk content it calls \"AI slop.\" In early tests, the platform says it correctly flagged generic posts 94 percent of the time. The irony: parent company Microsoft has been actively pushing AI use on LinkedIn itself.",
-      "source": "The Decoder",
-      "published": "2026-05-20T18:21:23+00:00",
-      "link": "https://the-decoder.com/linkedins-war-on-ai-slop-is-not-just-a-policy-update-it-is-an-admission-that-the-platform-lost-control-of-its-feed/"
-    },
-    {
-      "title": "I Gave My OpenClaw Agent a Physical Body",
-      "summary": "The coding skills of AI models are about to make it much easier to build and deploy robots.",
-      "source": "Wired",
-      "published": "2026-05-20T18:00:00+00:00",
-      "link": "https://www.wired.com/story/i-gave-my-openclaw-agent-physical-body-robot/"
-    },
-    {
-      "title": "OpenAI barrels toward IPO that may happen in September",
-      "summary": "A day after Elon Musk lost his lawsuit that threatened OpenAI's structure, leadership, and finances, OpenAI is reportedly back to prepping for its IPO.",
-      "source": "TechCrunch",
-      "published": "2026-05-20T17:24:24+00:00",
-      "link": "https://techcrunch.com/2026/05/20/openai-barrels-toward-ipo-that-may-happen-in-september/"
     }
   ]
 };
