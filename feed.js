@@ -1,6 +1,34 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-05-26T22:15:18.463383+00:00",
+  "lastUpdated": "2026-05-27T05:13:56.350630+00:00",
   "items": [
+    {
+      "title": "Did the Pope use AI to write about the dangers of AI?",
+      "summary": "It's possible that AI was used to write parts of Pope Leo XIV's latest encyclical about AI's impact on humanity.",
+      "source": "The Verge",
+      "published": "2026-05-27T00:38:11+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/937801/pope-leo-xiv-magnifica-humanitas-ai-pangram"
+    },
+    {
+      "title": "AI tools are only as good as your judgment",
+      "summary": "Article URL: https://theaileverageweekly.com/posts/your-ai-tools-are-only-as-good-as-your-judgment-and-that-s-the-point.html Comments URL: https://news.ycombinator.com/item?id=48287649 Points: 72 # Comments: 22",
+      "source": "Hacker News",
+      "published": "2026-05-27T00:00:35+00:00",
+      "link": "https://theaileverageweekly.com/posts/your-ai-tools-are-only-as-good-as-your-judgment-and-that-s-the-point.html"
+    },
+    {
+      "title": "Pope Leo Schooled the Tech Bros on Tolkien",
+      "summary": "The Holy Father referenced The Lord of the Rings in his encyclical about AI—an expert (if unintentional) troll of tech billionaires who keep misinterpreting the series.",
+      "source": "Wired",
+      "published": "2026-05-26T23:19:03+00:00",
+      "link": "https://www.wired.com/story/pope-leo-schooled-the-tech-bros-on-tolkien/"
+    },
+    {
+      "title": "DuckDuckGo installs are up 30% as users reject being ‘force-fed’ Google’s AI Search",
+      "summary": "Google overhauled Search at I/O 2026, replacing blue links with AI agents. The backlash has been swift.",
+      "source": "TechCrunch",
+      "published": "2026-05-26T22:32:56+00:00",
+      "link": "https://techcrunch.com/2026/05/26/duckduckgo-installs-are-up-30-as-users-reject-being-force-fed-googles-ai-search/"
+    },
     {
       "title": "Why the Vatican Invited Anthropic to the Pope’s AI Encyclical Presentation",
       "summary": "Pope Leo’s first encyclical marks an unprecedented alliance between the Church and Silicon Valley.",
@@ -101,7 +129,7 @@ const FEED_DATA = {
     },
     {
       "title": "Outsourcing plus local AI will soon become more economical vs. frontier labs",
-      "summary": "Article URL: https://www.signalbloom.ai/posts/outsourcing-plus-localai-will-soon-become-more-economical-vs-frontier-labs/ Comments URL: https://news.ycombinator.com/item?id=48278610 Points: 213 # Comments: 236",
+      "summary": "Article URL: https://www.signalbloom.ai/posts/outsourcing-plus-localai-will-soon-become-more-economical-vs-frontier-labs/ Comments URL: https://news.ycombinator.com/item?id=48278610 Points: 263 # Comments: 285",
       "source": "Hacker News",
       "published": "2026-05-26T12:08:33+00:00",
       "link": "https://www.signalbloom.ai/posts/outsourcing-plus-localai-will-soon-become-more-economical-vs-frontier-labs/"
@@ -129,17 +157,17 @@ const FEED_DATA = {
     },
     {
       "title": "The AI bubble isn't like the internet bubble",
-      "summary": "Article URL: https://pluralistic.net/2026/05/26/the-ai-will-continue/#until-morale-improves Comments URL: https://news.ycombinator.com/item?id=48277784 Points: 68 # Comments: 87",
+      "summary": "Article URL: https://pluralistic.net/2026/05/26/the-ai-will-continue/#until-morale-improves Comments URL: https://news.ycombinator.com/item?id=48277784 Points: 71 # Comments: 88",
       "source": "Hacker News",
       "published": "2026-05-26T10:37:15+00:00",
       "link": "https://pluralistic.net/2026/05/26/the-ai-will-continue/#until-morale-improves"
     },
     {
-      "title": "AI Agents Plunged the Tech World Into Chaos. Here’s Exactly How That Happened",
-      "summary": "The definitive story of how Claude Code and OpenClaw kicked off computing’s biggest transformation possibly ever.",
+      "title": "Quiz: Will AI Destroy Your Career?",
+      "summary": "Some jobs may be toast. Some will survive.",
       "source": "Wired",
       "published": "2026-05-26T10:00:00+00:00",
-      "link": "https://www.wired.com/story/how-ai-agents-plunged-tech-world-into-chaos/"
+      "link": "https://www.wired.com/story/quiz-will-ai-destroy-your-career/"
     },
     {
       "title": "AI Is Taking Over the Most Cursed Job in the World",
@@ -149,11 +177,11 @@ const FEED_DATA = {
       "link": "https://www.wired.com/story/ai-takes-over-debt-collection/"
     },
     {
-      "title": "Quiz: Will AI Destroy Your Career?",
-      "summary": "Some jobs may be toast. Some will survive.",
+      "title": "AI Agents Plunged the Tech World Into Chaos. Here’s Exactly How That Happened",
+      "summary": "The definitive story of how Claude Code and OpenClaw kicked off computing’s biggest transformation possibly ever.",
       "source": "Wired",
       "published": "2026-05-26T10:00:00+00:00",
-      "link": "https://www.wired.com/story/quiz-will-ai-destroy-your-career/"
+      "link": "https://www.wired.com/story/how-ai-agents-plunged-tech-world-into-chaos/"
     },
     {
       "title": "To Land a Job in AI, Try Reading Kant",
@@ -170,13 +198,6 @@ const FEED_DATA = {
       "link": "https://www.wired.com/story/ai-or-die-trying/"
     },
     {
-      "title": "I’m a Professional Fact-Checker. AI Is Wrong More Often Than You Think",
-      "summary": "Can AI do fact-checking? A WIRED fact-checker fact-checks.",
-      "source": "Wired",
-      "published": "2026-05-26T10:00:00+00:00",
-      "link": "https://www.wired.com/story/fact-checking-ai/"
-    },
-    {
       "title": "7 Ways to Get So Good at AI, People Will Think You Are AI",
       "summary": "From killing your chatbots to optimizing your prompts, here are the best ways to go full AI native and conquer the new world.",
       "source": "Wired",
@@ -189,6 +210,13 @@ const FEED_DATA = {
       "source": "AI News",
       "published": "2026-05-26T10:00:00+00:00",
       "link": "https://www.artificialintelligence-news.com/news/autonomous-ai-systems-governance-physical-environments/"
+    },
+    {
+      "title": "I’m a Professional Fact-Checker. AI Is Wrong More Often Than You Think",
+      "summary": "Can AI do fact-checking? A WIRED fact-checker fact-checks.",
+      "source": "Wired",
+      "published": "2026-05-26T10:00:00+00:00",
+      "link": "https://www.wired.com/story/fact-checking-ai/"
     },
     {
       "title": "Uber president says AI spending is getting ‘harder to justify’",
@@ -220,14 +248,14 @@ const FEED_DATA = {
     },
     {
       "title": "Notes on Pope Leo XIV's Encyclical on AI",
-      "summary": "Article URL: https://simonwillison.net/2026/May/25/encyclical-on-ai/ Comments URL: https://news.ycombinator.com/item?id=48275098 Points: 60 # Comments: 12",
+      "summary": "Article URL: https://simonwillison.net/2026/May/25/encyclical-on-ai/ Comments URL: https://news.ycombinator.com/item?id=48275098 Points: 61 # Comments: 12",
       "source": "Hacker News",
       "published": "2026-05-26T04:45:29+00:00",
       "link": "https://simonwillison.net/2026/May/25/encyclical-on-ai/"
     },
     {
       "title": "Using AI to write better code more slowly",
-      "summary": "Article URL: https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly/ Comments URL: https://news.ycombinator.com/item?id=48272984 Points: 1124 # Comments: 415",
+      "summary": "Article URL: https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly/ Comments URL: https://news.ycombinator.com/item?id=48272984 Points: 1156 # Comments: 420",
       "source": "Hacker News",
       "published": "2026-05-25T23:16:59+00:00",
       "link": "https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly/"
@@ -283,7 +311,7 @@ const FEED_DATA = {
     },
     {
       "title": "GPT Guesses Between 1 and 100",
-      "summary": "Article URL: https://github.com/exmergo/research-chatgpt-guesses-between-1-and-100 Comments URL: https://news.ycombinator.com/item?id=48265745 Points: 87 # Comments: 70",
+      "summary": "Article URL: https://github.com/exmergo/research-chatgpt-guesses-between-1-and-100 Comments URL: https://news.ycombinator.com/item?id=48265745 Points: 87 # Comments: 72",
       "source": "Hacker News",
       "published": "2026-05-25T11:46:09+00:00",
       "link": "https://github.com/exmergo/research-chatgpt-guesses-between-1-and-100"
@@ -332,7 +360,7 @@ const FEED_DATA = {
     },
     {
       "title": "Memory has grown to nearly two-thirds of AI chip component costs",
-      "summary": "Article URL: https://epoch.ai/data-insights/ai-chip-component-cost-shares Comments URL: https://news.ycombinator.com/item?id=48258684 Points: 441 # Comments: 490",
+      "summary": "Article URL: https://epoch.ai/data-insights/ai-chip-component-cost-shares Comments URL: https://news.ycombinator.com/item?id=48258684 Points: 443 # Comments: 493",
       "source": "Hacker News",
       "published": "2026-05-24T16:31:29+00:00",
       "link": "https://epoch.ai/data-insights/ai-chip-component-cost-shares"
@@ -367,7 +395,7 @@ const FEED_DATA = {
     },
     {
       "title": "Constraint Decay: The Fragility of LLM Agents in Back End Code Generation",
-      "summary": "Article URL: https://arxiv.org/abs/2605.06445 Comments URL: https://news.ycombinator.com/item?id=48256912 Points: 283 # Comments: 192",
+      "summary": "Article URL: https://arxiv.org/abs/2605.06445 Comments URL: https://news.ycombinator.com/item?id=48256912 Points: 284 # Comments: 192",
       "source": "Hacker News",
       "published": "2026-05-24T12:55:53+00:00",
       "link": "https://arxiv.org/abs/2605.06445"
@@ -472,7 +500,7 @@ const FEED_DATA = {
     },
     {
       "title": "Is AI Profitable Yet?",
-      "summary": "Article URL: https://isaiprofitable.com/ Comments URL: https://news.ycombinator.com/item?id=48243863 Points: 264 # Comments: 206",
+      "summary": "Article URL: https://isaiprofitable.com/ Comments URL: https://news.ycombinator.com/item?id=48243863 Points: 265 # Comments: 206",
       "source": "Hacker News",
       "published": "2026-05-23T02:10:38+00:00",
       "link": "https://isaiprofitable.com/"
@@ -1372,34 +1400,6 @@ const FEED_DATA = {
       "source": "AI News",
       "published": "2026-05-20T10:00:00+00:00",
       "link": "https://www.artificialintelligence-news.com/news/alibaba-zhenwu-m890-ai-agent-chip-roadmap/"
-    },
-    {
-      "title": "Public have more fear than hope on AI and future of work, study finds",
-      "summary": "Article URL: https://www.kcl.ac.uk/news/one-in-five-britons-think-ai-will-create-civil-unrest-study-finds Comments URL: https://news.ycombinator.com/item?id=48205143 Points: 59 # Comments: 42",
-      "source": "Hacker News",
-      "published": "2026-05-20T09:26:39+00:00",
-      "link": "https://www.kcl.ac.uk/news/one-in-five-britons-think-ai-will-create-civil-unrest-study-finds"
-    },
-    {
-      "title": "Alternatives to HN for \"tech outside of AI\" discussion?",
-      "summary": "I'm not the first to opine that recently there seems to be an effect on HN whereby the AI hypetrain has essentially drowned out discussions of anything other than stories either directly or indirectly related to AI and other terrible decisions coming out of the US.While I do...",
-      "source": "Hacker News",
-      "published": "2026-05-20T02:43:07+00:00",
-      "link": "https://news.ycombinator.com/item?id=48202486"
-    },
-    {
-      "title": "Proving the case on day two at TechEx North America",
-      "summary": "The AI and Big Data programme on day two of TechEx North America referred at least once to the “AI graveyard,” meaning the large number of pilots that never become durable systems. That phrase set the tone.",
-      "source": "AI News",
-      "published": "2026-05-20T02:37:00+00:00",
-      "link": "https://www.artificialintelligence-news.com/news/proving-the-case-on-day-two-at-techex-north-america/"
-    },
-    {
-      "title": "Literary Prizewinners Are Facing AI Allegations. It Feels Like the New Normal",
-      "summary": "Three of five regional winners of the prestigious Commonwealth Short Story Prize are suspected of relying on chatbots. They’re certainly not alone.",
-      "source": "Wired",
-      "published": "2026-05-19T22:53:04+00:00",
-      "link": "https://www.wired.com/story/commonwealth-short-story-prize-ai-allegations/"
     }
   ]
 };
