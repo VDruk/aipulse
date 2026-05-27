@@ -1,6 +1,146 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-05-27T08:39:58.177775+00:00",
+  "lastUpdated": "2026-05-27T16:39:21.014311+00:00",
   "items": [
+    {
+      "title": "AI coding startup Cognition raises $1B at $25B pre-money valuation",
+      "summary": "As Cognition reaches $492 million in annualized revenue run rate, it more than doubled its valuation in eight months, it says.",
+      "source": "TechCrunch",
+      "published": "2026-05-27T16:00:00+00:00",
+      "link": "https://techcrunch.com/2026/05/27/ai-coding-startup-cognition-raises-1b-at-25b-pre-money-valuation/"
+    },
+    {
+      "title": "AI tried to bury this politician — now people have actually heard of him",
+      "summary": "By the time that the Democratic primary for New York's 12th congressional district wraps up in June, Anthropic and OpenAI will have spent millions on their battle over the political future of AI: who gets to regulate it, or who will be punished for trying to regulate it.",
+      "source": "The Verge",
+      "published": "2026-05-27T15:40:00+00:00",
+      "link": "https://www.theverge.com/policy/937650/ai-alex-bores-openai-anthropic-ny12"
+    },
+    {
+      "title": "Robinhood will let your AI agent trade stocks and make (or lose) lots of money",
+      "summary": "Robinhood is opening its trading platform to AI agents. In an announcement on Wednesday, Robinhood says traders can now create a separate account for an AI agent and add a specific amount of money, allowing the agent to buy and sell stocks across the market.",
+      "source": "The Verge",
+      "published": "2026-05-27T14:36:10+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/938095/robinhood-ai-agent-stock-trading"
+    },
+    {
+      "title": "SOND, a sleep tech startup from Bose’s former head of sleep, exits stealth with $7M",
+      "summary": "SOND, a startup led by Bose’s former head of sleep products, emerged from stealth with $7M in funding for its AI-powered sleep earbuds.",
+      "source": "TechCrunch",
+      "published": "2026-05-27T14:00:00+00:00",
+      "link": "https://techcrunch.com/2026/05/27/sond-a-sleep-tech-startup-from-boses-former-head-of-sleep-exits-stealth-with-7m/"
+    },
+    {
+      "title": "This smart bird feeder captures more of my backyard drama",
+      "summary": "Since moving to South Carolina's Lowcountry, I've been spellbound by the myriad of beautiful birds that share the coast with us - ospreys raising their babies in towering nests beside the road to my daughter's school, roseate spoonbills wading in the marsh on my morning walks,...",
+      "source": "The Verge",
+      "published": "2026-05-27T14:00:00+00:00",
+      "link": "https://www.theverge.com/tech/937628/coolfly-aura-smart-bird-feeder-review"
+    },
+    {
+      "title": "Former Google and Apple Researchers Launch a Startup to Build AI’s Missing Feedback Loop",
+      "summary": "Trajectory is betting the rapid iteration cycle that supercharged vibe-coding can help all kinds of companies build AI products that learn continuously.",
+      "source": "Wired",
+      "published": "2026-05-27T14:00:00+00:00",
+      "link": "https://www.wired.com/story/ex-google-apple-ai-researchers-want-to-make-ai-that-gets-smarter-as-you-use-it/"
+    },
+    {
+      "title": "China is increasingly keeping its best AI talent to itself",
+      "summary": "China's AI boom is producing world-class talent, and Beijing is increasingly reluctant to let them go elsewhere.",
+      "source": "TechCrunch",
+      "published": "2026-05-27T13:48:41+00:00",
+      "link": "https://techcrunch.com/2026/05/27/china-is-increasingly-keeping-its-best-ai-talent-to-itself/"
+    },
+    {
+      "title": "Google folds Display Ads into AI-first Demand Gen platform",
+      "summary": "Google is folding Display Ads into its AI-powered Demand Gen platform, marking the end of a long-standing digital advertising model. The Google Display Network (GDN) has been a staple of the open internet for almost twenty years.",
+      "source": "AI News",
+      "published": "2026-05-27T13:12:06+00:00",
+      "link": "https://www.artificialintelligence-news.com/news/google-folds-display-ads-ai-first-demand-gen-platform/"
+    },
+    {
+      "title": "The AI boom drove Nvidia's yearly Taiwan spending from $15 billion to $150 billion",
+      "summary": "Nvidia now spends up to $150 billion a year on suppliers like TSMC in Taiwan. The article The AI boom drove Nvidia's yearly Taiwan spending from $15 billion to $150 billion appeared first on The Decoder.",
+      "source": "The Decoder",
+      "published": "2026-05-27T13:07:39+00:00",
+      "link": "https://the-decoder.com/the-ai-boom-drove-nvidias-yearly-taiwan-spending-from-15-billion-to-150-billion/"
+    },
+    {
+      "title": "China turns its aging camera network into an AI-powered mass surveillance apparatus",
+      "summary": "China's police are upgrading millions of old surveillance cameras with AI. Manufacturers like Hikvision and Huawei now ship cameras with built-in computer vision and language models that automatically detect crowds, suspicious behavior, or unauthorized access.",
+      "source": "The Decoder",
+      "published": "2026-05-27T13:02:22+00:00",
+      "link": "https://the-decoder.com/china-turns-its-aging-camera-network-into-an-ai-powered-mass-surveillance-apparatus/"
+    },
+    {
+      "title": "YouTube will now automatically label AI videos",
+      "summary": "YouTube will now automatically label videos that use significant photorealistic AI, instead of relying solely on creators to disclose AI-generated content themselves. It's also making AI labels more prominent.",
+      "source": "TechCrunch",
+      "published": "2026-05-27T13:00:00+00:00",
+      "link": "https://techcrunch.com/2026/05/27/youtube-will-now-automatically-label-ai-videos/"
+    },
+    {
+      "title": "YouTube is putting AI labels where you’ll actually see them",
+      "summary": "In the wake of Google expanding its AI verification efforts at I/O, YouTube is now finally going to start taking AI labeling seriously.",
+      "source": "The Verge",
+      "published": "2026-05-27T13:00:00+00:00",
+      "link": "https://www.theverge.com/streaming/937915/youtube-ai-labels-shorts-automatic-identification-updates"
+    },
+    {
+      "title": "Exploring the Benefits of AI Bots for Forex Trading in Forex Markets",
+      "summary": "The foreign exchange market is really moving away from pure intuition and toward a space shaped by speed, data and precision. By using automated systems in your routine, you can approach volatility with a level of discipline that manual trading often struggles to maintain.",
+      "source": "AI News",
+      "published": "2026-05-27T12:38:44+00:00",
+      "link": "https://www.artificialintelligence-news.com/news/exploring-the-benefits-of-ai-bots-for-forex-trading-in-forex-markets/"
+    },
+    {
+      "title": "Sam Altman and Dario Amodei walk back their AI job apocalypse predictions",
+      "summary": "Sam Altman and Dario Amodei row back on their prophecies of the AI job apocalypse, just in time for billion-dollar IPOs. The article Sam Altman and Dario Amodei walk back their AI job apocalypse predictions appeared first on The Decoder.",
+      "source": "The Decoder",
+      "published": "2026-05-27T12:37:39+00:00",
+      "link": "https://the-decoder.com/sam-altman-and-dario-amodei-walk-back-their-ai-job-apocalypse-predictions/"
+    },
+    {
+      "title": "Robinhood now lets your AI agents trade stocks",
+      "summary": "Robinhood will let users create a separate account with pre-loaded balance that an agent use to trade",
+      "source": "TechCrunch",
+      "published": "2026-05-27T12:30:00+00:00",
+      "link": "https://techcrunch.com/2026/05/27/robinhood-now-lets-your-ai-agents-trade-stocks/"
+    },
+    {
+      "title": "Tech CEOs are apparently suffering from AI psychosis",
+      "summary": "\"CEOs are uniquely prone to AI psychosis,\" Box CEO Aaron Levie opines. Maybe that explains the almost religious belief in AI productivity gains.",
+      "source": "TechCrunch",
+      "published": "2026-05-27T12:30:00+00:00",
+      "link": "https://techcrunch.com/2026/05/27/tech-ceos-are-apparently-suffering-from-ai-psychosis/"
+    },
+    {
+      "title": "The Download: keeping up with AI, and the future of IVF",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.",
+      "source": "MIT Tech Review",
+      "published": "2026-05-27T12:10:00+00:00",
+      "link": "https://www.technologyreview.com/2026/05/27/1138048/the-download-ai-future-ivf-technology/"
+    },
+    {
+      "title": "The AI fight brewing inside The New York Times",
+      "summary": "How newsrooms should use AI - or if they should at all - has been a recurrent debate within the media industry over the last several years. Increasingly, these rules are being hammered out at the bargaining table between unions and publishers.",
+      "source": "The Verge",
+      "published": "2026-05-27T12:00:00+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/937689/new-york-times-tech-guild-ai-monitoring-performance-union-contract"
+    },
+    {
+      "title": "The Pope isn’t AGI-pilled",
+      "summary": "On Monday, Pope Leo XIV unveiled an encyclical letter addressing the societal implications of artificial intelligence.",
+      "source": "The Verge",
+      "published": "2026-05-27T12:00:00+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/937933/pope-ai-encyclical-tech-industry-reactions"
+    },
+    {
+      "title": "I'm Tired of Talking to AI",
+      "summary": "Article URL: https://orchidfiles.com/im-tired-of-ai-generated-answers/ Comments URL: https://news.ycombinator.com/item?id=48292224 Points: 1404 # Comments: 701",
+      "source": "Hacker News",
+      "published": "2026-05-27T10:43:25+00:00",
+      "link": "https://orchidfiles.com/im-tired-of-ai-generated-answers/"
+    },
     {
       "title": "Did the Pope use AI to write about the dangers of AI?",
       "summary": "It's possible that AI was used to write parts of Pope Leo XIV's latest encyclical about AI's impact on humanity.",
@@ -10,7 +150,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI tools are only as good as your judgment",
-      "summary": "Article URL: https://theaileverageweekly.com/posts/your-ai-tools-are-only-as-good-as-your-judgment-and-that-s-the-point.html Comments URL: https://news.ycombinator.com/item?id=48287649 Points: 79 # Comments: 22",
+      "summary": "Article URL: https://theaileverageweekly.com/posts/your-ai-tools-are-only-as-good-as-your-judgment-and-that-s-the-point.html Comments URL: https://news.ycombinator.com/item?id=48287649 Points: 80 # Comments: 22",
       "source": "Hacker News",
       "published": "2026-05-27T00:00:35+00:00",
       "link": "https://theaileverageweekly.com/posts/your-ai-tools-are-only-as-good-as-your-judgment-and-that-s-the-point.html"
@@ -35,6 +175,13 @@ const FEED_DATA = {
       "source": "Wired",
       "published": "2026-05-26T20:46:03+00:00",
       "link": "https://www.wired.com/story/anthropic-christopher-olah-pope-ai-encyclical/"
+    },
+    {
+      "title": "Bay Area mom out thousands after scammers use AI to mimic daughter's voice",
+      "summary": "Article URL: https://abc7news.com/post/bay-area-mom-thousands-scammers-use-ai-mimic-daughters-voice-fake-kidnapping-part-growing-trend/19154381/ Comments URL: https://news.ycombinator.com/item?id=48285484 Points: 53 # Comments: 22",
+      "source": "Hacker News",
+      "published": "2026-05-26T20:23:40+00:00",
+      "link": "https://abc7news.com/post/bay-area-mom-thousands-scammers-use-ai-mimic-daughters-voice-fake-kidnapping-part-growing-trend/19154381/"
     },
     {
       "title": "What Pope Leo XIV’s First Encyclical Says About the Power of AI",
@@ -129,7 +276,7 @@ const FEED_DATA = {
     },
     {
       "title": "Outsourcing plus local AI will soon become more economical vs. frontier labs",
-      "summary": "Article URL: https://www.signalbloom.ai/posts/outsourcing-plus-localai-will-soon-become-more-economical-vs-frontier-labs/ Comments URL: https://news.ycombinator.com/item?id=48278610 Points: 283 # Comments: 301",
+      "summary": "Article URL: https://www.signalbloom.ai/posts/outsourcing-plus-localai-will-soon-become-more-economical-vs-frontier-labs/ Comments URL: https://news.ycombinator.com/item?id=48278610 Points: 306 # Comments: 344",
       "source": "Hacker News",
       "published": "2026-05-26T12:08:33+00:00",
       "link": "https://www.signalbloom.ai/posts/outsourcing-plus-localai-will-soon-become-more-economical-vs-frontier-labs/"
@@ -157,10 +304,17 @@ const FEED_DATA = {
     },
     {
       "title": "The AI bubble isn't like the internet bubble",
-      "summary": "Article URL: https://pluralistic.net/2026/05/26/the-ai-will-continue/#until-morale-improves Comments URL: https://news.ycombinator.com/item?id=48277784 Points: 74 # Comments: 89",
+      "summary": "Article URL: https://pluralistic.net/2026/05/26/the-ai-will-continue/#until-morale-improves Comments URL: https://news.ycombinator.com/item?id=48277784 Points: 76 # Comments: 89",
       "source": "Hacker News",
       "published": "2026-05-26T10:37:15+00:00",
       "link": "https://pluralistic.net/2026/05/26/the-ai-will-continue/#until-morale-improves"
+    },
+    {
+      "title": "Uber president says AI spending is getting 'harder to justify'",
+      "summary": "Article URL: https://www.theverge.com/transportation/937116/uber-ai-investment-hard-to-justify Comments URL: https://news.ycombinator.com/item?id=48277485 Points: 298 # Comments: 151",
+      "source": "Hacker News",
+      "published": "2026-05-26T10:01:39+00:00",
+      "link": "https://www.theverge.com/transportation/937116/uber-ai-investment-hard-to-justify"
     },
     {
       "title": "AI Agents Plunged the Tech World Into Chaos. Here’s Exactly How That Happened",
@@ -170,13 +324,6 @@ const FEED_DATA = {
       "link": "https://www.wired.com/story/how-ai-agents-plunged-tech-world-into-chaos/"
     },
     {
-      "title": "Quiz: Will AI Destroy Your Career?",
-      "summary": "Some jobs may be toast. Some will survive.",
-      "source": "Wired",
-      "published": "2026-05-26T10:00:00+00:00",
-      "link": "https://www.wired.com/story/quiz-will-ai-destroy-your-career/"
-    },
-    {
       "title": "AI Is Taking Over the Most Cursed Job in the World",
       "summary": "There’s a mad dash to automate the world’s most hated calls. Have an unpaid bill?",
       "source": "Wired",
@@ -184,32 +331,11 @@ const FEED_DATA = {
       "link": "https://www.wired.com/story/ai-takes-over-debt-collection/"
     },
     {
-      "title": "To Land a Job in AI, Try Reading Kant",
-      "summary": "The world’s leading AI labs are hiring philosophers to think through ethical edge cases and grand questions of mind and morality. Are they another instrument of hype?",
+      "title": "Quiz: Will AI Destroy Your Career?",
+      "summary": "Some jobs may be toast. Some will survive.",
       "source": "Wired",
       "published": "2026-05-26T10:00:00+00:00",
-      "link": "https://www.wired.com/story/to-land-a-job-in-ai-try-reading-kant/"
-    },
-    {
-      "title": "Take This Mandatory AI Workplace Training Right Now—or Else",
-      "summary": "AI could make you redundant. Here’s what you need to know.",
-      "source": "Wired",
-      "published": "2026-05-26T10:00:00+00:00",
-      "link": "https://www.wired.com/story/ai-or-die-trying/"
-    },
-    {
-      "title": "7 Ways to Get So Good at AI, People Will Think You Are AI",
-      "summary": "From killing your chatbots to optimizing your prompts, here are the best ways to go full AI native and conquer the new world.",
-      "source": "Wired",
-      "published": "2026-05-26T10:00:00+00:00",
-      "link": "https://www.wired.com/story/7-ways-to-get-so-good-at-ai-people-will-think-you-are-ai/"
-    },
-    {
-      "title": "Autonomous AI systems test governance in physical environments",
-      "summary": "Autonomous AI systems are beginning to move beyond software environments and into warehouses, delivery networks, and public spaces. The development is drawing attention to whether current AI rules cover systems that operate in physical environments.",
-      "source": "AI News",
-      "published": "2026-05-26T10:00:00+00:00",
-      "link": "https://www.artificialintelligence-news.com/news/autonomous-ai-systems-governance-physical-environments/"
+      "link": "https://www.wired.com/story/quiz-will-ai-destroy-your-career/"
     },
     {
       "title": "I’m a Professional Fact-Checker. AI Is Wrong More Often Than You Think",
@@ -219,11 +345,32 @@ const FEED_DATA = {
       "link": "https://www.wired.com/story/fact-checking-ai/"
     },
     {
-      "title": "Uber president says AI spending is getting ‘harder to justify’",
-      "summary": "After reportedly exhausting its annual AI budget just four months into 2026, Uber is now questioning whether it's actually seeing meaningful returns on its investments.",
-      "source": "The Verge",
-      "published": "2026-05-26T09:55:09+00:00",
-      "link": "https://www.theverge.com/transportation/937116/uber-ai-investment-hard-to-justify"
+      "title": "Take This Mandatory AI Workplace Training Right Now—or Else",
+      "summary": "AI could make you redundant. Here’s what you need to know.",
+      "source": "Wired",
+      "published": "2026-05-26T10:00:00+00:00",
+      "link": "https://www.wired.com/story/ai-or-die-trying/"
+    },
+    {
+      "title": "Autonomous AI systems test governance in physical environments",
+      "summary": "Autonomous AI systems are beginning to move beyond software environments and into warehouses, delivery networks, and public spaces. The development is drawing attention to whether current AI rules cover systems that operate in physical environments.",
+      "source": "AI News",
+      "published": "2026-05-26T10:00:00+00:00",
+      "link": "https://www.artificialintelligence-news.com/news/autonomous-ai-systems-governance-physical-environments/"
+    },
+    {
+      "title": "To Land a Job in AI, Try Reading Kant",
+      "summary": "The world’s leading AI labs are hiring philosophers to think through ethical edge cases and grand questions of mind and morality. Are they another instrument of hype?",
+      "source": "Wired",
+      "published": "2026-05-26T10:00:00+00:00",
+      "link": "https://www.wired.com/story/to-land-a-job-in-ai-try-reading-kant/"
+    },
+    {
+      "title": "7 Ways to Get So Good at AI, People Will Think You Are AI",
+      "summary": "From killing your chatbots to optimizing your prompts, here are the best ways to go full AI native and conquer the new world.",
+      "source": "Wired",
+      "published": "2026-05-26T10:00:00+00:00",
+      "link": "https://www.wired.com/story/7-ways-to-get-so-good-at-ai-people-will-think-you-are-ai/"
     },
     {
       "title": "US Law Enforcement Warns of ‘Anti-Tech Extremism’ as AI Hatred Grows",
@@ -255,14 +402,14 @@ const FEED_DATA = {
     },
     {
       "title": "Using AI to write better code more slowly",
-      "summary": "Article URL: https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly/ Comments URL: https://news.ycombinator.com/item?id=48272984 Points: 1173 # Comments: 433",
+      "summary": "Article URL: https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly/ Comments URL: https://news.ycombinator.com/item?id=48272984 Points: 1205 # Comments: 443",
       "source": "Hacker News",
       "published": "2026-05-25T23:16:59+00:00",
       "link": "https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly/"
     },
     {
       "title": "Norway's 2 petabytes of Huawei flash storage and LLM training",
-      "summary": "Article URL: https://www.blocksandfiles.com/flash/2026/05/22/norways-2-petabytes-of-huawei-flash-storage-and-llm-training/5244910 Comments URL: https://news.ycombinator.com/item?id=48270770 Points: 320 # Comments: 204",
+      "summary": "Article URL: https://www.blocksandfiles.com/flash/2026/05/22/norways-2-petabytes-of-huawei-flash-storage-and-llm-training/5244910 Comments URL: https://news.ycombinator.com/item?id=48270770 Points: 321 # Comments: 207",
       "source": "Hacker News",
       "published": "2026-05-25T19:37:57+00:00",
       "link": "https://www.blocksandfiles.com/flash/2026/05/22/norways-2-petabytes-of-huawei-flash-storage-and-llm-training/5244910"
@@ -297,7 +444,7 @@ const FEED_DATA = {
     },
     {
       "title": "Pope Leo XIV says AI must serve humanity, not the powerful few",
-      "summary": "Article URL: https://religionnews.com/2026/05/25/in-his-first-encyclical-pope-leo-xiv-says-ai-must-serve-humanity-not-the-powerful-few/ Comments URL: https://news.ycombinator.com/item?id=48266485 Points: 344 # Comments: 67",
+      "summary": "Article URL: https://religionnews.com/2026/05/25/in-his-first-encyclical-pope-leo-xiv-says-ai-must-serve-humanity-not-the-powerful-few/ Comments URL: https://news.ycombinator.com/item?id=48266485 Points: 345 # Comments: 67",
       "source": "Hacker News",
       "published": "2026-05-25T13:17:58+00:00",
       "link": "https://religionnews.com/2026/05/25/in-his-first-encyclical-pope-leo-xiv-says-ai-must-serve-humanity-not-the-powerful-few/"
@@ -360,14 +507,14 @@ const FEED_DATA = {
     },
     {
       "title": "Memory has grown to nearly two-thirds of AI chip component costs",
-      "summary": "Article URL: https://epoch.ai/data-insights/ai-chip-component-cost-shares Comments URL: https://news.ycombinator.com/item?id=48258684 Points: 443 # Comments: 493",
+      "summary": "Article URL: https://epoch.ai/data-insights/ai-chip-component-cost-shares Comments URL: https://news.ycombinator.com/item?id=48258684 Points: 444 # Comments: 494",
       "source": "Hacker News",
       "published": "2026-05-24T16:31:29+00:00",
       "link": "https://epoch.ai/data-insights/ai-chip-component-cost-shares"
     },
     {
       "title": "'AI washing': firms are scrambling to rebrand themselves as tech-focused",
-      "summary": "Article URL: https://www.theguardian.com/technology/2026/may/24/ai-washing-pr-firms-scrambling-rebrand Comments URL: https://news.ycombinator.com/item?id=48257980 Points: 179 # Comments: 164",
+      "summary": "Article URL: https://www.theguardian.com/technology/2026/may/24/ai-washing-pr-firms-scrambling-rebrand Comments URL: https://news.ycombinator.com/item?id=48257980 Points: 179 # Comments: 166",
       "source": "Hacker News",
       "published": "2026-05-24T15:21:28+00:00",
       "link": "https://www.theguardian.com/technology/2026/may/24/ai-washing-pr-firms-scrambling-rebrand"
@@ -395,7 +542,7 @@ const FEED_DATA = {
     },
     {
       "title": "Constraint Decay: The Fragility of LLM Agents in Back End Code Generation",
-      "summary": "Article URL: https://arxiv.org/abs/2605.06445 Comments URL: https://news.ycombinator.com/item?id=48256912 Points: 284 # Comments: 193",
+      "summary": "Article URL: https://arxiv.org/abs/2605.06445 Comments URL: https://news.ycombinator.com/item?id=48256912 Points: 285 # Comments: 194",
       "source": "Hacker News",
       "published": "2026-05-24T12:55:53+00:00",
       "link": "https://arxiv.org/abs/2605.06445"
@@ -493,7 +640,7 @@ const FEED_DATA = {
     },
     {
       "title": "Microsoft reports AI is more expensive than paying human employees",
-      "summary": "Article URL: https://fortune.com/2026/05/22/microsoft-ai-cost-problem-tokens-agents/ Comments URL: https://news.ycombinator.com/item?id=48244434 Points: 229 # Comments: 70",
+      "summary": "Article URL: https://fortune.com/2026/05/22/microsoft-ai-cost-problem-tokens-agents/ Comments URL: https://news.ycombinator.com/item?id=48244434 Points: 229 # Comments: 71",
       "source": "Hacker News",
       "published": "2026-05-23T03:44:16+00:00",
       "link": "https://fortune.com/2026/05/22/microsoft-ai-cost-problem-tokens-agents/"
@@ -1253,153 +1400,6 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-05-20T17:24:24+00:00",
       "link": "https://techcrunch.com/2026/05/20/openai-barrels-toward-ipo-that-may-happen-in-september/"
-    },
-    {
-      "title": "You can now remix other people’s YouTube Shorts with AI",
-      "summary": "Google announced a new YouTube Shorts Remix feature that lets users restyle clips or even insert themselves into other people's videos using Gemini Omni. Now, at the bottom of a YouTube Short, when you click the remix icon, you'll see an option to \"reimagine\" it.",
-      "source": "The Verge",
-      "published": "2026-05-20T16:41:40+00:00",
-      "link": "https://www.theverge.com/tech/934704/google-gemini-omni-youtub-shorts-remix-ai"
-    },
-    {
-      "title": "Google Search’s AI evolution includes more ads",
-      "summary": "Google's AI-powered Search era apparently also extends to its ads. Now, when you look for a product in Search, Google's Gemini AI model will surface relevant items and generate a \"custom explainer\" about why you should purchase a specific one.",
-      "source": "The Verge",
-      "published": "2026-05-20T16:00:00+00:00",
-      "link": "https://www.theverge.com/tech/934585/google-ai-shopping-ads-search"
-    },
-    {
-      "title": "Google tests the app market version of the SaaSpocalypse",
-      "summary": "Google AI Studio can now generate native Android apps from a prompt - built in Kotlin with Jetpack Compose and testable in a browser emulator. For simple utility apps like trackers or checklists, the Play Store could become less and less relevant.",
-      "source": "The Decoder",
-      "published": "2026-05-20T15:27:50+00:00",
-      "link": "https://the-decoder.com/google-tests-the-app-version-of-the-saaspocalypse/"
-    },
-    {
-      "title": "Formal Verification Gates for AI Coding Loops",
-      "summary": "Article URL: https://reubenbrooks.dev/blog/structural-backpressure-beats-smarter-agents/ Comments URL: https://news.ycombinator.com/item?id=48209323 Points: 144 # Comments: 32",
-      "source": "Hacker News",
-      "published": "2026-05-20T15:25:45+00:00",
-      "link": "https://reubenbrooks.dev/blog/structural-backpressure-beats-smarter-agents/"
-    },
-    {
-      "title": "AI search startups are blowing up",
-      "summary": "AI search has quietly become one of the most attractive targets in consumer AI.",
-      "source": "TechCrunch",
-      "published": "2026-05-20T15:04:45+00:00",
-      "link": "https://techcrunch.com/2026/05/20/ai-search-startups-are-blowing-up/"
-    },
-    {
-      "title": "Stability AI releases a new audio model that can create 6-minute songs",
-      "summary": "Stability Audio 3.0 small model can run on-device and generate two-minute long tracks.",
-      "source": "TechCrunch",
-      "published": "2026-05-20T15:00:00+00:00",
-      "link": "https://techcrunch.com/2026/05/20/stability-ai-release-a-new-audio-model-that-can-create-six-minute-songs/"
-    },
-    {
-      "title": "Stability AI releases a new audio model that can create six-minute songs",
-      "summary": "Stability Audio 3.0 small model can run on-device and generate two-minute long tracks",
-      "source": "TechCrunch",
-      "published": "2026-05-20T15:00:00+00:00",
-      "link": "https://techcrunch.com/2026/05/20/stability-ai-release-a-new-audio-model-that-can-create-six-minute-songs/"
-    },
-    {
-      "title": "Stability AI launches Stable Audio 3.0 with up to six-minute tracks and open weights",
-      "summary": "Stability AI has unveiled Stable Audio 3.0, a new generation of audio models - three of which ship with open weights. The models generate music tracks up to six minutes long and were trained entirely on licensed data, according to the company.",
-      "source": "The Decoder",
-      "published": "2026-05-20T14:59:05+00:00",
-      "link": "https://the-decoder.com/stability-ai-launches-stable-audio-3-0-with-up-to-six-minute-tracks-and-open-weights/"
-    },
-    {
-      "title": "Testing distributed systems with AI agents",
-      "summary": "Article URL: https://github.com/shenli/distributed-system-testing Comments URL: https://news.ycombinator.com/item?id=48208685 Points: 94 # Comments: 22",
-      "source": "Hacker News",
-      "published": "2026-05-20T14:40:42+00:00",
-      "link": "https://github.com/shenli/distributed-system-testing"
-    },
-    {
-      "title": "It’s make or break time for AI labeling systems",
-      "summary": "We're about to find out if the systems designed to make deepfakes and AI-generated content easy to spot are actually up to snuff.",
-      "source": "The Verge",
-      "published": "2026-05-20T14:12:54+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/934521/google-synthid-c2pa-content-credentials-ai-labelling-efforts"
-    },
-    {
-      "title": "NanoClaw creator turns down $20M buyout offer, raises $12M seed instead",
-      "summary": "NanoClaw was created as a secure alternative to OpenClaw to assist the Cohen brothers with their AI marketing firm that used agents to do much of the work. But instead of running directly on a computer, NanoClaw runs sandboxed in a container.",
-      "source": "TechCrunch",
-      "published": "2026-05-20T14:00:00+00:00",
-      "link": "https://techcrunch.com/2026/05/20/nanoclaw-creator-turns-down-20m-buyout-offer-raises-12m-seed-instead/"
-    },
-    {
-      "title": "If Google can’t make AI agents useful, maybe no one can",
-      "summary": "For years, tech companies have promised AI will give everyone a capable personal assistant but delivered something more like a clueless intern. Over the past six months, that has started to change, thanks largely to the viral open-source AI agent platform OpenClaw.",
-      "source": "The Verge",
-      "published": "2026-05-20T13:24:22+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/934478/if-google-cant-make-ai-agents-useful-maybe-no-one-can"
-    },
-    {
-      "title": "Green steel startup Boston Metal is doubling down on critical metals",
-      "summary": "The startup Boston Metal has raised a $75 million funding round to produce critical metals, MIT Technology Review can exclusively report.",
-      "source": "MIT Tech Review",
-      "published": "2026-05-20T13:00:00+00:00",
-      "link": "https://www.technologyreview.com/2026/05/20/1137523/boston-metal-funding-critical-metals/"
-    },
-    {
-      "title": "Figma adds an AI assistant to its collaborative canvas",
-      "summary": "Figma says users can employ natural language text prompts to direct its new AI agent to generate new designs, edit existing ones, or automate tasks such as generating iterations of existing designs.",
-      "source": "TechCrunch",
-      "published": "2026-05-20T13:00:00+00:00",
-      "link": "https://techcrunch.com/2026/05/20/figma-adds-an-ai-assistant-to-its-collaborative-canvas/"
-    },
-    {
-      "title": "The Download: fully artificial chicken eggs and why Musk lost",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.",
-      "source": "MIT Tech Review",
-      "published": "2026-05-20T12:10:00+00:00",
-      "link": "https://www.technologyreview.com/2026/05/20/1137579/the-download-colossal-biosciences-egg-musk-altman-trial/"
-    },
-    {
-      "title": "College students drown out AI-praising commencement speeches with boos",
-      "summary": "Article URL: https://www.tomshardware.com/tech-industry/artificial-intelligence/college-students-drown-out-ai-praising-commencement-speeches-with-boos-deal-with-it-one-speaker-fires-back-as-students-heckle-positive-pitches-for-ais-role Comments URL:...",
-      "source": "Hacker News",
-      "published": "2026-05-20T11:51:32+00:00",
-      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/college-students-drown-out-ai-praising-commencement-speeches-with-boos-deal-with-it-one-speaker-fires-back-as-students-heckle-positive-pitches-for-ais-role"
-    },
-    {
-      "title": "Google pairs its Genie world model with Street View to create explorable AI worlds based on real places",
-      "summary": "Google Deepmind connects its Genie 3 world model to Street View imagery: users drop a pin on a map and get a walkable, AI-generated world based on a real place.",
-      "source": "The Decoder",
-      "published": "2026-05-20T11:30:28+00:00",
-      "link": "https://the-decoder.com/google-pairs-its-genie-world-model-with-street-view-to-create-explorable-ai-worlds-based-on-real-places/"
-    },
-    {
-      "title": "Google’s AI is being manipulated. The search giant is quietly fighting back",
-      "summary": "Article URL: https://www.bbc.com/future/article/20260519-google-tackles-attempts-to-hack-its-ai-results Comments URL: https://news.ycombinator.com/item?id=48205782 Points: 335 # Comments: 211",
-      "source": "Hacker News",
-      "published": "2026-05-20T10:57:09+00:00",
-      "link": "https://www.bbc.com/future/article/20260519-google-tackles-attempts-to-hack-its-ai-results"
-    },
-    {
-      "title": "Google's Gemini 3.5 Flash follows Anthropic and OpenAI in making newer AI models significantly pricier",
-      "summary": "Google's Gemini 3.5 Flash is a big step up from its predecessor, but in benchmark testing, it costs 5.5 times as much to run. On agent tasks, total costs even exceed the pricier Gemini 3.1 Pro by 75 percent because the model needs more interaction steps than any rival tested.",
-      "source": "The Decoder",
-      "published": "2026-05-20T10:40:51+00:00",
-      "link": "https://the-decoder.com/googles-gemini-3-5-flash-follows-anthropic-and-openai-in-making-newer-ai-models-significantly-pricier/"
-    },
-    {
-      "title": "Learnings from 100K lines of Rust with AI (2025)",
-      "summary": "Article URL: https://zfhuang99.github.io/rust/claude%20code/codex/contracts/spec-driven%20development/2025/12/01/rust-with-ai.html Comments URL: https://news.ycombinator.com/item?id=48205415 Points: 184 # Comments: 203",
-      "source": "Hacker News",
-      "published": "2026-05-20T10:04:28+00:00",
-      "link": "https://zfhuang99.github.io/rust/claude%20code/codex/contracts/spec-driven%20development/2025/12/01/rust-with-ai.html"
-    },
-    {
-      "title": "Alibaba is designing AI chips around agents, and that changes what the race is actually about",
-      "summary": "Alibaba has unveiled a new AI processor built specifically for AI agents, pairing the chip announcement with a multi-year silicon roadmap and a new large language model, signalling that the company is building an integrated AI stack rather than just filling a gap left by US...",
-      "source": "AI News",
-      "published": "2026-05-20T10:00:00+00:00",
-      "link": "https://www.artificialintelligence-news.com/news/alibaba-zhenwu-m890-ai-agent-chip-roadmap/"
     }
   ]
 };
