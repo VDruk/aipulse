@@ -1,8 +1,64 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-05-28T19:33:53.891213+00:00",
+  "lastUpdated": "2026-05-28T22:28:52.447631+00:00",
   "items": [
     {
-      "title": "Anthropic raises $65 Billion, nears $1T valuation ahead of IPO",
+      "title": "Claude company Anthropic nears a trillion-dollar valuation after raising $65 billion in Series H",
+      "summary": "Anthropic raises $65 billion in a Series H round at a $965 billion valuation. Annualized revenue tops $47 billion, according to CFO Krishna Rao.",
+      "source": "The Decoder",
+      "published": "2026-05-28T21:30:58+00:00",
+      "link": "https://the-decoder.com/claude-company-anthropic-nears-a-trillion-dollar-valuation-after-raising-65-billion-in-series-h/"
+    },
+    {
+      "title": "The internet is being rebuilt for machines",
+      "summary": "As AI agents move from experiments to production, AWS, Cloudflare, and others are redesigning cloud infrastructure for a future dominated by machine-generated internet traffic instead of human users.",
+      "source": "TechCrunch",
+      "published": "2026-05-28T21:24:01+00:00",
+      "link": "https://techcrunch.com/2026/05/28/the-internet-is-being-rebuilt-for-machines/"
+    },
+    {
+      "title": "Anthropic ships Claude Opus 4.8 as a \"modest but tangible improvement\" that tops GPT-5.5 in most benchmarks",
+      "summary": "Anthropic releases Claude Opus 4.8, which beats GPT-5.5 and Gemini 3.1 Pro in most benchmarks. The model also catches its own coding errors four times more often than its predecessor.",
+      "source": "The Decoder",
+      "published": "2026-05-28T21:20:09+00:00",
+      "link": "https://the-decoder.com/anthropic-ships-claude-opus-4-8-as-a-modest-but-tangible-improvement-that-tops-gpt-5-5-in-most-benchmarks/"
+    },
+    {
+      "title": "Fed up with vibe coders, dev sneaks data-nuking prompt injection into their code",
+      "summary": "Undisclosed addition in jqwik instructed AI coding agents to delete app output.",
+      "source": "Ars Technica",
+      "published": "2026-05-28T20:29:53+00:00",
+      "link": "https://arstechnica.com/security/2026/05/fed-up-with-vibe-coders-dev-sneaks-data-nuking-prompt-injection-into-their-code/"
+    },
+    {
+      "title": "Microsoft 365 Copilot gets a speed boost and cleaner design",
+      "summary": "Microsoft is launching a revamped version of Microsoft 365 Copilot, offering a cleaner design that the company claims loads twice as fast. As part of this update, Copilot will provide more reliable and structured responses that are easier to scan, according to Microsoft.",
+      "source": "The Verge",
+      "published": "2026-05-28T20:14:07+00:00",
+      "link": "https://www.theverge.com/tech/939273/microsoft-365-copilot-redesign"
+    },
+    {
+      "title": "Asana acquires no-code agent-builder StackAI",
+      "summary": "Asana will incorporate StackAI into its growing suite of AI workflow tools.",
+      "source": "TechCrunch",
+      "published": "2026-05-28T20:06:07+00:00",
+      "link": "https://techcrunch.com/2026/05/28/asana-acquires-no-code-agent-builder-stack-ai/"
+    },
+    {
+      "title": "Sam Altman and Dario Amodei are both walking back AI jobs apocalypse predictions",
+      "summary": "Article URL: https://fortune.com/2026/05/26/sam-altman-dario-amodei-walking-back-ai-jobs-apocalypse-prophecies-ipo/ Comments URL: https://news.ycombinator.com/item?id=48314363 Points: 122 # Comments: 101",
+      "source": "Hacker News",
+      "published": "2026-05-28T19:43:14+00:00",
+      "link": "https://fortune.com/2026/05/26/sam-altman-dario-amodei-walking-back-ai-jobs-apocalypse-prophecies-ipo/"
+    },
+    {
+      "title": "Various LLM Smells",
+      "summary": "Article URL: https://shvbsle.in/various-llm-smells/ Comments URL: https://news.ycombinator.com/item?id=48313810 Points: 113 # Comments: 76",
+      "source": "Hacker News",
+      "published": "2026-05-28T19:02:18+00:00",
+      "link": "https://shvbsle.in/various-llm-smells/"
+    },
+    {
+      "title": "Anthropic raises $65 billion, nears $1T valuation ahead of IPO",
       "summary": "Anthropic has closed a $65 billion Series H round at a $965 billion post-money valuation, marking what could be the AI startup's final private fundraise before a highly anticipated IPO.",
       "source": "TechCrunch",
       "published": "2026-05-28T18:52:51+00:00",
@@ -37,7 +93,7 @@ const FEED_DATA = {
       "link": "https://www.theverge.com/entertainment/939067/ai-film-dreams-of-violets-tribeca"
     },
     {
-      "title": "How long is Anthropic’s lease with SpaceX? Opinions vary.",
+      "title": "How long is Anthropic’s lease with SpaceX? Opinions vary",
       "summary": "Elon Musk is publicly reframing xAI’s massive Anthropic compute deal as short-term and cancellable, despite SpaceX’s own S-1 filing describing payments through May 2029.",
       "source": "TechCrunch",
       "published": "2026-05-28T15:36:00+00:00",
@@ -136,7 +192,7 @@ const FEED_DATA = {
     },
     {
       "title": "Show HN: Continue? Y/N: A 60-second game about AI agent permission fatigue",
-      "summary": "Article URL: https://llmgame.scalex.dev Comments URL: https://news.ycombinator.com/item?id=48308376 Points: 147 # Comments: 70",
+      "summary": "Article URL: https://llmgame.scalex.dev Comments URL: https://news.ycombinator.com/item?id=48308376 Points: 203 # Comments: 96",
       "source": "Hacker News",
       "published": "2026-05-28T13:02:00+00:00",
       "link": "https://llmgame.scalex.dev"
@@ -171,7 +227,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI sticker shock hits corporate America",
-      "summary": "Article URL: https://www.axios.com/2026/05/28/ai-spending-roi-enterprise-costs Comments URL: https://news.ycombinator.com/item?id=48307098 Points: 145 # Comments: 131",
+      "summary": "Article URL: https://www.axios.com/2026/05/28/ai-spending-roi-enterprise-costs Comments URL: https://news.ycombinator.com/item?id=48307098 Points: 154 # Comments: 132",
       "source": "Hacker News",
       "published": "2026-05-28T10:39:32+00:00",
       "link": "https://www.axios.com/2026/05/28/ai-spending-roi-enterprise-costs"
@@ -227,7 +283,7 @@ const FEED_DATA = {
     },
     {
       "title": "A Eureka machine that thinks like nature and explores what AI cannot",
-      "summary": "Article URL: https://iisc.ac.in/a-eureka-machine-that-thinks-like-nature-and-explores-what-ai-cannot/ Comments URL: https://news.ycombinator.com/item?id=48305446 Points: 139 # Comments: 42",
+      "summary": "Article URL: https://iisc.ac.in/a-eureka-machine-that-thinks-like-nature-and-explores-what-ai-cannot/ Comments URL: https://news.ycombinator.com/item?id=48305446 Points: 143 # Comments: 42",
       "source": "Hacker News",
       "published": "2026-05-28T06:40:31+00:00",
       "link": "https://iisc.ac.in/a-eureka-machine-that-thinks-like-nature-and-explores-what-ai-cannot/"
@@ -269,7 +325,7 @@ const FEED_DATA = {
     },
     {
       "title": "YouTube to automatically label AI-generated videos",
-      "summary": "https://variety.com/2026/digital/news/youtube-ai-video-label... Comments URL: https://news.ycombinator.com/item?id=48299753 Points: 1236 # Comments: 729",
+      "summary": "https://variety.com/2026/digital/news/youtube-ai-video-label... Comments URL: https://news.ycombinator.com/item?id=48299753 Points: 1260 # Comments: 751",
       "source": "Hacker News",
       "published": "2026-05-27T20:00:51+00:00",
       "link": "https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/"
@@ -332,14 +388,14 @@ const FEED_DATA = {
     },
     {
       "title": "DuckDuckGo search saw 28% more visits after Google said people love AI mode",
-      "summary": "Article URL: https://www.pcgamer.com/hardware/duckduckgos-ai-free-search-saw-nearly-28-percent-more-visits-in-the-week-following-googles-insistence-that-people-love-ai-mode/ Comments URL: https://news.ycombinator.com/item?id=48296649 Points: 1034 # Comments: 499",
+      "summary": "Article URL: https://www.pcgamer.com/hardware/duckduckgos-ai-free-search-saw-nearly-28-percent-more-visits-in-the-week-following-googles-insistence-that-people-love-ai-mode/ Comments URL: https://news.ycombinator.com/item?id=48296649 Points: 1041 # Comments: 504",
       "source": "Hacker News",
       "published": "2026-05-27T16:28:41+00:00",
       "link": "https://www.pcgamer.com/hardware/duckduckgos-ai-free-search-saw-nearly-28-percent-more-visits-in-the-week-following-googles-insistence-that-people-love-ai-mode/"
     },
     {
       "title": "Training our own AI models",
-      "summary": "Article URL: https://posthog.com/blog/training-ai-models Comments URL: https://news.ycombinator.com/item?id=48296359 Points: 209 # Comments: 143",
+      "summary": "Article URL: https://posthog.com/blog/training-ai-models Comments URL: https://news.ycombinator.com/item?id=48296359 Points: 210 # Comments: 143",
       "source": "Hacker News",
       "published": "2026-05-27T16:08:42+00:00",
       "link": "https://posthog.com/blog/training-ai-models"
@@ -360,7 +416,7 @@ const FEED_DATA = {
     },
     {
       "title": "Tech CEOs are apparently suffering from AI psychosis",
-      "summary": "Article URL: https://techcrunch.com/2026/05/27/tech-ceos-are-apparently-suffering-from-ai-psychosis/ Comments URL: https://news.ycombinator.com/item?id=48295679 Points: 693 # Comments: 348",
+      "summary": "Article URL: https://techcrunch.com/2026/05/27/tech-ceos-are-apparently-suffering-from-ai-psychosis/ Comments URL: https://news.ycombinator.com/item?id=48295679 Points: 702 # Comments: 350",
       "source": "Hacker News",
       "published": "2026-05-27T15:20:47+00:00",
       "link": "https://techcrunch.com/2026/05/27/tech-ceos-are-apparently-suffering-from-ai-psychosis/"
@@ -373,18 +429,18 @@ const FEED_DATA = {
       "link": "https://www.theverge.com/ai-artificial-intelligence/938095/robinhood-ai-agent-stock-trading"
     },
     {
-      "title": "This smart bird feeder captures more of my backyard drama",
-      "summary": "Since moving to South Carolina's Lowcountry, I've been spellbound by the myriad of beautiful birds that share the coast with us - ospreys raising their babies in towering nests beside the road to my daughter's school, roseate spoonbills wading in the marsh on my morning walks,...",
-      "source": "The Verge",
-      "published": "2026-05-27T14:00:00+00:00",
-      "link": "https://www.theverge.com/tech/937628/coolfly-aura-smart-bird-feeder-review"
-    },
-    {
       "title": "Former Google and Apple Researchers Launch a Startup to Build AI’s Missing Feedback Loop",
       "summary": "Trajectory is betting the rapid iteration cycle that supercharged vibe-coding can help all kinds of companies build AI products that learn continuously.",
       "source": "Wired",
       "published": "2026-05-27T14:00:00+00:00",
       "link": "https://www.wired.com/story/ex-google-apple-ai-researchers-want-to-make-ai-that-gets-smarter-as-you-use-it/"
+    },
+    {
+      "title": "This smart bird feeder captures more of my backyard drama",
+      "summary": "Since moving to South Carolina's Lowcountry, I've been spellbound by the myriad of beautiful birds that share the coast with us - ospreys raising their babies in towering nests beside the road to my daughter's school, roseate spoonbills wading in the marsh on my morning walks,...",
+      "source": "The Verge",
+      "published": "2026-05-27T14:00:00+00:00",
+      "link": "https://www.theverge.com/tech/937628/coolfly-aura-smart-bird-feeder-review"
     },
     {
       "title": "SOND, a sleep tech startup from Bose’s former head of sleep, exits stealth with $7M",
@@ -479,14 +535,14 @@ const FEED_DATA = {
     },
     {
       "title": "Ripgrep AI Policy",
-      "summary": "Article URL: https://github.com/BurntSushi/ripgrep/blob/master/AI_POLICY.md Comments URL: https://news.ycombinator.com/item?id=48292718 Points: 93 # Comments: 14",
+      "summary": "Article URL: https://github.com/BurntSushi/ripgrep/blob/master/AI_POLICY.md Comments URL: https://news.ycombinator.com/item?id=48292718 Points: 96 # Comments: 16",
       "source": "Hacker News",
       "published": "2026-05-27T11:40:49+00:00",
       "link": "https://github.com/BurntSushi/ripgrep/blob/master/AI_POLICY.md"
     },
     {
       "title": "I'm Tired of Talking to AI",
-      "summary": "Article URL: https://orchidfiles.com/im-tired-of-ai-generated-answers/ Comments URL: https://news.ycombinator.com/item?id=48292224 Points: 1952 # Comments: 929",
+      "summary": "Article URL: https://orchidfiles.com/im-tired-of-ai-generated-answers/ Comments URL: https://news.ycombinator.com/item?id=48292224 Points: 1960 # Comments: 933",
       "source": "Hacker News",
       "published": "2026-05-27T10:43:25+00:00",
       "link": "https://orchidfiles.com/im-tired-of-ai-generated-answers/"
@@ -626,7 +682,7 @@ const FEED_DATA = {
     },
     {
       "title": "Outsourcing plus local AI will soon become more economical vs. frontier labs",
-      "summary": "Article URL: https://www.signalbloom.ai/posts/outsourcing-plus-localai-will-soon-become-more-economical-vs-frontier-labs/ Comments URL: https://news.ycombinator.com/item?id=48278610 Points: 321 # Comments: 364",
+      "summary": "Article URL: https://www.signalbloom.ai/posts/outsourcing-plus-localai-will-soon-become-more-economical-vs-frontier-labs/ Comments URL: https://news.ycombinator.com/item?id=48278610 Points: 321 # Comments: 365",
       "source": "Hacker News",
       "published": "2026-05-26T12:08:33+00:00",
       "link": "https://www.signalbloom.ai/posts/outsourcing-plus-localai-will-soon-become-more-economical-vs-frontier-labs/"
@@ -745,7 +801,7 @@ const FEED_DATA = {
     },
     {
       "title": "Investigating how prompt politeness affects LLM accuracy (2025)",
-      "summary": "Article URL: https://arxiv.org/abs/2510.04950 Comments URL: https://news.ycombinator.com/item?id=48276429 Points: 134 # Comments: 175",
+      "summary": "Article URL: https://arxiv.org/abs/2510.04950 Comments URL: https://news.ycombinator.com/item?id=48276429 Points: 137 # Comments: 181",
       "source": "Hacker News",
       "published": "2026-05-26T07:43:22+00:00",
       "link": "https://arxiv.org/abs/2510.04950"
@@ -1344,62 +1400,6 @@ const FEED_DATA = {
       "source": "MIT Tech Review",
       "published": "2026-05-21T19:16:43+00:00",
       "link": "https://www.technologyreview.com/2026/05/21/1137613/scaling-creativity-in-the-age-of-ai/"
-    },
-    {
-      "title": "Google checks websites for llms.txt in new agentic browsing audit",
-      "summary": "Google is testing how well websites handle AI agents through a new experimental category called \"Agentic Browsing\" in its Lighthouse analysis tool. The article Google checks websites for llms.txt in new agentic browsing audit appeared first on The Decoder.",
-      "source": "The Decoder",
-      "published": "2026-05-21T19:07:33+00:00",
-      "link": "https://the-decoder.com/google-tests-websites-for-llms-txt-and-agent-compatibility/"
-    },
-    {
-      "title": "Seattle Shield, an intelligence-sharing network operated by the Seattle police",
-      "summary": "Article URL: https://prismreports.org/2026/05/20/seattle-shield-private-companies-surveillance/ Comments URL: https://news.ycombinator.com/item?id=48226588 Points: 488 # Comments: 205",
-      "source": "Hacker News",
-      "published": "2026-05-21T17:55:58+00:00",
-      "link": "https://prismreports.org/2026/05/20/seattle-shield-private-companies-surveillance/"
-    },
-    {
-      "title": "Amazon, Facebook, FBI have access to a private intelligence-sharing network",
-      "summary": "Article URL: https://prismreports.org/2026/05/20/seattle-shield-private-companies-surveillance/ Comments URL: https://news.ycombinator.com/item?id=48226588 Points: 172 # Comments: 51",
-      "source": "Hacker News",
-      "published": "2026-05-21T17:55:58+00:00",
-      "link": "https://prismreports.org/2026/05/20/seattle-shield-private-companies-surveillance/"
-    },
-    {
-      "title": "Trump delays AI security executive order, saying language ‘could have been a blocker’",
-      "summary": "President Trump delayed signing an executive order that would have required pre-release government security reviews of AI models, citing dissatisfaction with the order's language.",
-      "source": "TechCrunch",
-      "published": "2026-05-21T17:30:45+00:00",
-      "link": "https://techcrunch.com/2026/05/21/trump-delays-ai-security-executive-order-i-dont-want-to-get-in-the-way-of-that-leading/"
-    },
-    {
-      "title": "Trump delays AI security executive order: ‘I don’t want to get in the way of that leading’",
-      "summary": "President Trump delayed signing an executive order that would have required pre-release government security reviews of AI models, citing dissatisfaction with the order's language.",
-      "source": "TechCrunch",
-      "published": "2026-05-21T17:30:45+00:00",
-      "link": "https://techcrunch.com/2026/05/21/trump-delays-ai-security-executive-order-i-dont-want-to-get-in-the-way-of-that-leading/"
-    },
-    {
-      "title": "This AI guitar pedal let me roll my own effects",
-      "summary": "I'm not sure anyone was really asking for an AI guitar pedal. But it was inevitable that someone would build one.",
-      "source": "The Verge",
-      "published": "2026-05-21T17:00:00+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/935219/polyend-endless-ai-guitar-effects-pedal"
-    },
-    {
-      "title": "The Endless AI guitar pedal has potential",
-      "summary": "I'm not sure anyone was really asking for an AI guitar pedal. But it was inevitable that someone would build one.",
-      "source": "The Verge",
-      "published": "2026-05-21T17:00:00+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/935219/polyend-endless-ai-guitar-effects-pedal"
-    },
-    {
-      "title": "The first AI proof worthy of math's top journal landed and it won't be the last",
-      "summary": "A reasoning model from OpenAI has disproved a conjecture by mathematician Paul Erdős on unit-distance geometry that stood open since 1946 - using tools from algebraic number theory that experts never expected in this context.",
-      "source": "The Decoder",
-      "published": "2026-05-21T16:11:50+00:00",
-      "link": "https://the-decoder.com/openai-shifts-the-boundary-of-automated-reasoning-with-a-milestone-in-ai-mathematics-that-experts-are-now-unpacking/"
     }
   ]
 };
