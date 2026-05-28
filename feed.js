@@ -1,6 +1,132 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-05-28T12:16:57.699476+00:00",
+  "lastUpdated": "2026-05-28T16:54:51.681387+00:00",
   "items": [
+    {
+      "title": "A $2,000 AI-generated film will make its debut at Tribeca",
+      "summary": "Next month's Tribeca Festival will include the premiere of an AI-generated film: Dreams of Violets.",
+      "source": "The Verge",
+      "published": "2026-05-28T16:08:45+00:00",
+      "link": "https://www.theverge.com/entertainment/939067/ai-film-dreams-of-violets-tribeca"
+    },
+    {
+      "title": "How long is Anthropic’s lease with SpaceX? Opinions vary.",
+      "summary": "Elon Musk is publicly reframing xAI’s massive Anthropic compute deal as short-term and cancellable, despite SpaceX’s own S-1 filing describing payments through May 2029.",
+      "source": "TechCrunch",
+      "published": "2026-05-28T15:36:00+00:00",
+      "link": "https://techcrunch.com/2026/05/28/how-long-is-anthropics-lease-with-spacex-opinions-vary/"
+    },
+    {
+      "title": "Google Cloud responds to AI-accelerated cyberattacks with a platform that aims to close security gaps in minutes",
+      "summary": "Google Cloud has unveiled \"AI Threat Defense,\" a platform designed to automatically find, assess, and patch security flaws in enterprise systems. The company bundles technologies it partly acquired through acquisitions.",
+      "source": "The Decoder",
+      "published": "2026-05-28T15:35:58+00:00",
+      "link": "https://the-decoder.com/google-cloud-responds-to-ai-accelerated-cyberattacks-with-a-platform-that-aims-to-close-security-gaps-in-minutes/"
+    },
+    {
+      "title": "Sesame, the conversational AI startup from Oculus founders, launches its iOS app",
+      "summary": "Sesame’s new iOS app brings its conversational AI agents to the public, offering more natural back-and-forth interactions designed to feel less like traditional chatbots and more like talking to a person.",
+      "source": "TechCrunch",
+      "published": "2026-05-28T15:35:43+00:00",
+      "link": "https://techcrunch.com/2026/05/28/sesame-the-conversational-ai-startup-from-oculus-founders-launches-its-ios-app/"
+    },
+    {
+      "title": "Here Comes Ojai, Waymo’s New Chinese-Made Robotaxi",
+      "summary": "The pale-blue Ojai vehicles will start picking up members of the public in California and Arizona in the next few weeks.",
+      "source": "Wired",
+      "published": "2026-05-28T15:00:00+00:00",
+      "link": "https://www.wired.com/story/here-comes-ojai-waymos-new-chinese-made-robotaxi/"
+    },
+    {
+      "title": "Google Pay preps for AI agents with Universal Commerce Protocol",
+      "summary": "Google Pay is overhauling its payment infrastructure for an impending wave of transactions from AI agents.",
+      "source": "AI News",
+      "published": "2026-05-28T14:55:43+00:00",
+      "link": "https://www.artificialintelligence-news.com/news/google-pay-ai-agents-universal-commerce-protocol/"
+    },
+    {
+      "title": "Sneak peek at new Siri app reveals Apple’s plans to take on ChatGPT and more",
+      "summary": "New renders offer a closer look at Apple’s planned AI overhaul for iOS 27, including a redesigned Siri experience powered and standalone Siri app.",
+      "source": "TechCrunch",
+      "published": "2026-05-28T14:45:13+00:00",
+      "link": "https://techcrunch.com/2026/05/28/sneak-peek-at-new-siri-app-reveals-apples-plans-to-take-on-chatgpt-and-more/"
+    },
+    {
+      "title": "These new iOS 27 renders hint at Siri’s big redesign",
+      "summary": "Apple's long-awaited Siri overhaul, expected to arrive in iOS 27, might look a lot like ChatGPT with a splash of Liquid Glass. Renders from Bloomberg offer a preview of iOS 27, including the new app and chat interface for Siri.",
+      "source": "The Verge",
+      "published": "2026-05-28T14:33:31+00:00",
+      "link": "https://www.theverge.com/tech/938915/ios-27-siri-renders-bloomberg"
+    },
+    {
+      "title": "RSI is the new AGI — and it’s just as hard to pin down",
+      "summary": "A new crop of AI labs are focused on recursive self-improvement — but the goal is proving elusive.",
+      "source": "TechCrunch",
+      "published": "2026-05-28T14:30:17+00:00",
+      "link": "https://techcrunch.com/2026/05/28/rsi-is-the-new-agi-and-its-just-as-hard-to-pin-down/"
+    },
+    {
+      "title": "At TechCrunch Disrupt 2026: Databricks’ co-founder on what kills enterprise AI deals",
+      "summary": "Enterprise AI is entering a different phase now, one where enterprises are no longer evaluating whether AI is exciting. They are evaluating whether it is safe to deploy broadly.",
+      "source": "TechCrunch",
+      "published": "2026-05-28T14:30:00+00:00",
+      "link": "https://techcrunch.com/2026/05/28/techcrunch-disrupt-2026-databricks-co-founder-on-what-kills-enterprise-ai-deals/"
+    },
+    {
+      "title": "Google launches a tiny board that runs Gemma 3 locally",
+      "summary": "Google unveiled the new Coral Board at Google I/O - a compact single-board computer for on-device AI. The article Google launches a tiny board that runs Gemma 3 locally appeared first on The Decoder.",
+      "source": "The Decoder",
+      "published": "2026-05-28T14:29:01+00:00",
+      "link": "https://the-decoder.com/google-launches-a-tiny-board-that-runs-gemma-3-locally/"
+    },
+    {
+      "title": "YouTube adds new podcast features, including an AI recommendation tool and ‘Auto speed’",
+      "summary": "The update signals YouTube's ongoing efforts to compete with other platforms for podcast audiences.",
+      "source": "TechCrunch",
+      "published": "2026-05-28T14:28:47+00:00",
+      "link": "https://techcrunch.com/2026/05/28/youtube-adds-new-podcast-features-including-an-ai-recommendation-tool-and-auto-speed/"
+    },
+    {
+      "title": "CNN sues Perplexity over ‘verbatim’ copycat articles",
+      "summary": "CNN has filed a lawsuit against Perplexity, claiming that the startup's AI tools generate \"verbatim\" copies of its work, as reported earlier by CNN.",
+      "source": "The Verge",
+      "published": "2026-05-28T14:08:36+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/938893/cnn-perplexity-ai-copyright-lawsuit"
+    },
+    {
+      "title": "Visa invests in Replit to power agentic payments for developers",
+      "summary": "Visa said that over 1,000 employees has been using Replit for prototyping and development",
+      "source": "TechCrunch",
+      "published": "2026-05-28T14:00:00+00:00",
+      "link": "https://techcrunch.com/2026/05/28/visa-invests-in-replit-to-power-agentic-payments-for-developers/"
+    },
+    {
+      "title": "Rivian’s software chief thinks you don’t need CarPlay or buttons",
+      "summary": "Today, I’m talking with Wassym Bensaid, the chief software officer at Rivian, and the co-CEO of Rivian’s platform joint venture with Volkswagen, which everyone just calls RV Tech.",
+      "source": "The Verge",
+      "published": "2026-05-28T14:00:00+00:00",
+      "link": "https://www.theverge.com/podcast/929940/rivian-wassym-bensaid-software-volkswagen-carplay-assistant-ai"
+    },
+    {
+      "title": "Show HN: Continue? Y/N: A 60-second game about AI agent permission fatigue",
+      "summary": "Article URL: https://llmgame.scalex.dev Comments URL: https://news.ycombinator.com/item?id=48308376 Points: 62 # Comments: 35",
+      "source": "Hacker News",
+      "published": "2026-05-28T13:02:00+00:00",
+      "link": "https://llmgame.scalex.dev"
+    },
+    {
+      "title": "Has the hunt for AI compute uncovered the next Cerebras?",
+      "summary": "General Compute is betting SambaNova will be the next breakout chipmaker.",
+      "source": "TechCrunch",
+      "published": "2026-05-28T13:00:00+00:00",
+      "link": "https://techcrunch.com/2026/05/28/has-the-hunt-for-ai-compute-uncovered-the-next-cerebras/"
+    },
+    {
+      "title": "Mistral rebrands LeChat as Vibe, betting its chatbot's future is as a full-blown work agent",
+      "summary": "Mistral AI is renaming its chatbot Le Chat to Vibe and bundling chat, coding agents and a new Work Mode under one brand. The Work Mode docks onto Google Workspace, Outlook, Slack or GitHub and processes tasks such as emails, reports or pull requests independently.",
+      "source": "The Decoder",
+      "published": "2026-05-28T12:23:32+00:00",
+      "link": "https://the-decoder.com/mistral-rebrands-lechat-as-vibe-betting-its-chatbots-future-is-as-a-full-blown-work-agent/"
+    },
     {
       "title": "The Download: climate tech goes public and the AI Hype Index returns",
       "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Climate tech companies are going public.",
@@ -17,7 +143,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI sticker shock hits corporate America",
-      "summary": "Article URL: https://www.axios.com/2026/05/28/ai-spending-roi-enterprise-costs Comments URL: https://news.ycombinator.com/item?id=48307098 Points: 54 # Comments: 22",
+      "summary": "Article URL: https://www.axios.com/2026/05/28/ai-spending-roi-enterprise-costs Comments URL: https://news.ycombinator.com/item?id=48307098 Points: 136 # Comments: 125",
       "source": "Hacker News",
       "published": "2026-05-28T10:39:32+00:00",
       "link": "https://www.axios.com/2026/05/28/ai-spending-roi-enterprise-costs"
@@ -66,21 +192,21 @@ const FEED_DATA = {
     },
     {
       "title": "Vertu wants CEOs to run companies from an AI foldable starting at $6,880",
-      "summary": "Built on top of the open-source Hermes project, Vertu's new foldable combines AI-agent workflows, enterprise integrations, and ultra-premium luxury finishes.",
+      "summary": "Built on top of the open source Hermes project, Vertu's new foldable combines AI-agent workflows, enterprise integrations, and ultra-premium luxury finishes.",
       "source": "TechCrunch",
       "published": "2026-05-28T07:00:00+00:00",
       "link": "https://techcrunch.com/2026/05/28/vertu-wants-ceos-to-run-companies-from-an-ai-foldable-starting-at-6880/"
     },
     {
       "title": "A Eureka machine that thinks like nature and explores what AI cannot",
-      "summary": "Article URL: https://iisc.ac.in/a-eureka-machine-that-thinks-like-nature-and-explores-what-ai-cannot/ Comments URL: https://news.ycombinator.com/item?id=48305446 Points: 98 # Comments: 30",
+      "summary": "Article URL: https://iisc.ac.in/a-eureka-machine-that-thinks-like-nature-and-explores-what-ai-cannot/ Comments URL: https://news.ycombinator.com/item?id=48305446 Points: 138 # Comments: 40",
       "source": "Hacker News",
       "published": "2026-05-28T06:40:31+00:00",
       "link": "https://iisc.ac.in/a-eureka-machine-that-thinks-like-nature-and-explores-what-ai-cannot/"
     },
     {
       "title": "Zig 2026: No-AI Policy, $670K Foundation, Left GitHub and Why Zig Isn't 1.0 [video]",
-      "summary": "Article URL: https://www.youtube.com/watch?v=iqddnwKF8HQ Comments URL: https://news.ycombinator.com/item?id=48303273 Points: 63 # Comments: 7",
+      "summary": "Article URL: https://www.youtube.com/watch?v=iqddnwKF8HQ Comments URL: https://news.ycombinator.com/item?id=48303273 Points: 75 # Comments: 8",
       "source": "Hacker News",
       "published": "2026-05-28T01:40:24+00:00",
       "link": "https://www.youtube.com/watch?v=iqddnwKF8HQ"
@@ -108,7 +234,7 @@ const FEED_DATA = {
     },
     {
       "title": "YouTube to automatically label AI-generated videos",
-      "summary": "https://variety.com/2026/digital/news/youtube-ai-video-label... Comments URL: https://news.ycombinator.com/item?id=48299753 Points: 978 # Comments: 585",
+      "summary": "https://variety.com/2026/digital/news/youtube-ai-video-label... Comments URL: https://news.ycombinator.com/item?id=48299753 Points: 1181 # Comments: 700",
       "source": "Hacker News",
       "published": "2026-05-27T20:00:51+00:00",
       "link": "https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/"
@@ -157,7 +283,7 @@ const FEED_DATA = {
     },
     {
       "title": "Multi-Agent LLM System for Automated Vulnerability Discovery and Reproduction",
-      "summary": "Article URL: https://arxiv.org/abs/2605.21779 Comments URL: https://news.ycombinator.com/item?id=48297723 Points: 51 # Comments: 6",
+      "summary": "Article URL: https://arxiv.org/abs/2605.21779 Comments URL: https://news.ycombinator.com/item?id=48297723 Points: 54 # Comments: 8",
       "source": "Hacker News",
       "published": "2026-05-27T17:42:24+00:00",
       "link": "https://arxiv.org/abs/2605.21779"
@@ -171,14 +297,14 @@ const FEED_DATA = {
     },
     {
       "title": "DuckDuckGo search saw 28% more visits after Google said people love AI mode",
-      "summary": "Article URL: https://www.pcgamer.com/hardware/duckduckgos-ai-free-search-saw-nearly-28-percent-more-visits-in-the-week-following-googles-insistence-that-people-love-ai-mode/ Comments URL: https://news.ycombinator.com/item?id=48296649 Points: 911 # Comments: 436",
+      "summary": "Article URL: https://www.pcgamer.com/hardware/duckduckgos-ai-free-search-saw-nearly-28-percent-more-visits-in-the-week-following-googles-insistence-that-people-love-ai-mode/ Comments URL: https://news.ycombinator.com/item?id=48296649 Points: 1007 # Comments: 488",
       "source": "Hacker News",
       "published": "2026-05-27T16:28:41+00:00",
       "link": "https://www.pcgamer.com/hardware/duckduckgos-ai-free-search-saw-nearly-28-percent-more-visits-in-the-week-following-googles-insistence-that-people-love-ai-mode/"
     },
     {
       "title": "Training our own AI models",
-      "summary": "Article URL: https://posthog.com/blog/training-ai-models Comments URL: https://news.ycombinator.com/item?id=48296359 Points: 203 # Comments: 139",
+      "summary": "Article URL: https://posthog.com/blog/training-ai-models Comments URL: https://news.ycombinator.com/item?id=48296359 Points: 207 # Comments: 141",
       "source": "Hacker News",
       "published": "2026-05-27T16:08:42+00:00",
       "link": "https://posthog.com/blog/training-ai-models"
@@ -196,6 +322,13 @@ const FEED_DATA = {
       "source": "The Verge",
       "published": "2026-05-27T15:40:00+00:00",
       "link": "https://www.theverge.com/policy/937650/ai-alex-bores-openai-anthropic-ny12"
+    },
+    {
+      "title": "Tech CEOs are apparently suffering from AI psychosis",
+      "summary": "Article URL: https://techcrunch.com/2026/05/27/tech-ceos-are-apparently-suffering-from-ai-psychosis/ Comments URL: https://news.ycombinator.com/item?id=48295679 Points: 684 # Comments: 343",
+      "source": "Hacker News",
+      "published": "2026-05-27T15:20:47+00:00",
+      "link": "https://techcrunch.com/2026/05/27/tech-ceos-are-apparently-suffering-from-ai-psychosis/"
     },
     {
       "title": "Robinhood will let your AI agent trade stocks and make (or lose) lots of money",
@@ -254,18 +387,18 @@ const FEED_DATA = {
       "link": "https://the-decoder.com/china-turns-its-aging-camera-network-into-an-ai-powered-mass-surveillance-apparatus/"
     },
     {
-      "title": "YouTube will now automatically label AI videos",
-      "summary": "YouTube will now automatically label videos that use significant photorealistic AI, instead of relying solely on creators to disclose AI-generated content themselves. It's also making AI labels more prominent.",
-      "source": "TechCrunch",
-      "published": "2026-05-27T13:00:00+00:00",
-      "link": "https://techcrunch.com/2026/05/27/youtube-will-now-automatically-label-ai-videos/"
-    },
-    {
       "title": "YouTube is putting AI labels where you’ll actually see them",
       "summary": "In the wake of Google expanding its AI verification efforts at I/O, YouTube is now finally going to start taking AI labeling seriously.",
       "source": "The Verge",
       "published": "2026-05-27T13:00:00+00:00",
       "link": "https://www.theverge.com/streaming/937915/youtube-ai-labels-shorts-automatic-identification-updates"
+    },
+    {
+      "title": "YouTube will now automatically label AI videos",
+      "summary": "YouTube will now automatically label videos that use significant photorealistic AI, instead of relying solely on creators to disclose AI-generated content themselves. It's also making AI labels more prominent.",
+      "source": "TechCrunch",
+      "published": "2026-05-27T13:00:00+00:00",
+      "link": "https://techcrunch.com/2026/05/27/youtube-will-now-automatically-label-ai-videos/"
     },
     {
       "title": "Exploring the Benefits of AI Bots for Forex Trading in Forex Markets",
@@ -287,13 +420,6 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-05-27T12:30:00+00:00",
       "link": "https://techcrunch.com/2026/05/27/robinhood-now-lets-your-ai-agents-trade-stocks/"
-    },
-    {
-      "title": "Tech CEOs are apparently suffering from AI psychosis",
-      "summary": "\"CEOs are uniquely prone to AI psychosis,\" Box CEO Aaron Levie opines. Maybe that explains the almost religious belief in AI productivity gains.",
-      "source": "TechCrunch",
-      "published": "2026-05-27T12:30:00+00:00",
-      "link": "https://techcrunch.com/2026/05/27/tech-ceos-are-apparently-suffering-from-ai-psychosis/"
     },
     {
       "title": "The Download: keeping up with AI, and the future of IVF",
@@ -318,14 +444,14 @@ const FEED_DATA = {
     },
     {
       "title": "Ripgrep AI Policy",
-      "summary": "Article URL: https://github.com/BurntSushi/ripgrep/blob/master/AI_POLICY.md Comments URL: https://news.ycombinator.com/item?id=48292718 Points: 76 # Comments: 11",
+      "summary": "Article URL: https://github.com/BurntSushi/ripgrep/blob/master/AI_POLICY.md Comments URL: https://news.ycombinator.com/item?id=48292718 Points: 88 # Comments: 14",
       "source": "Hacker News",
       "published": "2026-05-27T11:40:49+00:00",
       "link": "https://github.com/BurntSushi/ripgrep/blob/master/AI_POLICY.md"
     },
     {
       "title": "I'm Tired of Talking to AI",
-      "summary": "Article URL: https://orchidfiles.com/im-tired-of-ai-generated-answers/ Comments URL: https://news.ycombinator.com/item?id=48292224 Points: 1926 # Comments: 918",
+      "summary": "Article URL: https://orchidfiles.com/im-tired-of-ai-generated-answers/ Comments URL: https://news.ycombinator.com/item?id=48292224 Points: 1947 # Comments: 927",
       "source": "Hacker News",
       "published": "2026-05-27T10:43:25+00:00",
       "link": "https://orchidfiles.com/im-tired-of-ai-generated-answers/"
@@ -367,7 +493,7 @@ const FEED_DATA = {
     },
     {
       "title": "Bay Area mom out thousands after scammers use AI to mimic daughter's voice",
-      "summary": "Article URL: https://abc7news.com/post/bay-area-mom-thousands-scammers-use-ai-mimic-daughters-voice-fake-kidnapping-part-growing-trend/19154381/ Comments URL: https://news.ycombinator.com/item?id=48285484 Points: 54 # Comments: 22",
+      "summary": "Article URL: https://abc7news.com/post/bay-area-mom-thousands-scammers-use-ai-mimic-daughters-voice-fake-kidnapping-part-growing-trend/19154381/ Comments URL: https://news.ycombinator.com/item?id=48285484 Points: 55 # Comments: 22",
       "source": "Hacker News",
       "published": "2026-05-26T20:23:40+00:00",
       "link": "https://abc7news.com/post/bay-area-mom-thousands-scammers-use-ai-mimic-daughters-voice-fake-kidnapping-part-growing-trend/19154381/"
@@ -465,7 +591,7 @@ const FEED_DATA = {
     },
     {
       "title": "Outsourcing plus local AI will soon become more economical vs. frontier labs",
-      "summary": "Article URL: https://www.signalbloom.ai/posts/outsourcing-plus-localai-will-soon-become-more-economical-vs-frontier-labs/ Comments URL: https://news.ycombinator.com/item?id=48278610 Points: 319 # Comments: 363",
+      "summary": "Article URL: https://www.signalbloom.ai/posts/outsourcing-plus-localai-will-soon-become-more-economical-vs-frontier-labs/ Comments URL: https://news.ycombinator.com/item?id=48278610 Points: 321 # Comments: 364",
       "source": "Hacker News",
       "published": "2026-05-26T12:08:33+00:00",
       "link": "https://www.signalbloom.ai/posts/outsourcing-plus-localai-will-soon-become-more-economical-vs-frontier-labs/"
@@ -500,7 +626,7 @@ const FEED_DATA = {
     },
     {
       "title": "Uber president says AI spending is getting 'harder to justify'",
-      "summary": "Article URL: https://www.theverge.com/transportation/937116/uber-ai-investment-hard-to-justify Comments URL: https://news.ycombinator.com/item?id=48277485 Points: 303 # Comments: 157",
+      "summary": "Article URL: https://www.theverge.com/transportation/937116/uber-ai-investment-hard-to-justify Comments URL: https://news.ycombinator.com/item?id=48277485 Points: 303 # Comments: 158",
       "source": "Hacker News",
       "published": "2026-05-26T10:01:39+00:00",
       "link": "https://www.theverge.com/transportation/937116/uber-ai-investment-hard-to-justify"
@@ -513,18 +639,18 @@ const FEED_DATA = {
       "link": "https://www.wired.com/story/how-ai-agents-plunged-tech-world-into-chaos/"
     },
     {
-      "title": "AI Is Taking Over the Most Cursed Job in the World",
-      "summary": "There’s a mad dash to automate the world’s most hated calls. Have an unpaid bill?",
-      "source": "Wired",
-      "published": "2026-05-26T10:00:00+00:00",
-      "link": "https://www.wired.com/story/ai-takes-over-debt-collection/"
-    },
-    {
       "title": "Autonomous AI systems test governance in physical environments",
       "summary": "Autonomous AI systems are beginning to move beyond software environments and into warehouses, delivery networks, and public spaces. The development is drawing attention to whether current AI rules cover systems that operate in physical environments.",
       "source": "AI News",
       "published": "2026-05-26T10:00:00+00:00",
       "link": "https://www.artificialintelligence-news.com/news/autonomous-ai-systems-governance-physical-environments/"
+    },
+    {
+      "title": "AI Is Taking Over the Most Cursed Job in the World",
+      "summary": "There’s a mad dash to automate the world’s most hated calls. Have an unpaid bill?",
+      "source": "Wired",
+      "published": "2026-05-26T10:00:00+00:00",
+      "link": "https://www.wired.com/story/ai-takes-over-debt-collection/"
     },
     {
       "title": "Quiz: Will AI Destroy Your Career?",
@@ -584,7 +710,7 @@ const FEED_DATA = {
     },
     {
       "title": "Investigating how prompt politeness affects LLM accuracy (2025)",
-      "summary": "Article URL: https://arxiv.org/abs/2510.04950 Comments URL: https://news.ycombinator.com/item?id=48276429 Points: 83 # Comments: 77",
+      "summary": "Article URL: https://arxiv.org/abs/2510.04950 Comments URL: https://news.ycombinator.com/item?id=48276429 Points: 123 # Comments: 157",
       "source": "Hacker News",
       "published": "2026-05-26T07:43:22+00:00",
       "link": "https://arxiv.org/abs/2510.04950"
@@ -1274,132 +1400,6 @@ const FEED_DATA = {
       "source": "The Verge",
       "published": "2026-05-21T15:30:00+00:00",
       "link": "https://www.theverge.com/column/935310/ai-video-luma-hollywood"
-    },
-    {
-      "title": "Spotify adds AI-powered Q&A and briefing generation features to podcasts",
-      "summary": "Spotify will let you generate daily or weekly briefs based on your prompts",
-      "source": "TechCrunch",
-      "published": "2026-05-21T15:27:00+00:00",
-      "link": "https://techcrunch.com/2026/05/21/spotify-adds-ai-powered-qa-and-briefing-generation-features-to-podcasts/"
-    },
-    {
-      "title": "Spotify launches an ElevenLabs-powered audiobook creation tool",
-      "summary": "The AI-powered audiobook generation won't bind authors to an exclusive contract, meaning they are free to publish their generated audiobooks anywhere.",
-      "source": "TechCrunch",
-      "published": "2026-05-21T15:27:00+00:00",
-      "link": "https://techcrunch.com/2026/05/21/spotify-launches-an-elevenlabs-powered-audiobook-creation-tool/"
-    },
-    {
-      "title": "US Cyber Command races to deploy AI on top-secret networks",
-      "summary": "US Cyber Command has launched a task force to run AI models from OpenAI, Google, and others on the most classified Pentagon and NSA networks.",
-      "source": "The Decoder",
-      "published": "2026-05-21T15:20:44+00:00",
-      "link": "https://the-decoder.com/us-cyber-command-races-to-deploy-ai-on-top-secret-networks/"
-    },
-    {
-      "title": "Cohere open-sources its strongest model yet",
-      "summary": "The Canadian AI company Cohere is releasing its most powerful language model to date, Command A+, as open source under an Apache 2.0 license. The article Cohere open-sources its strongest model yet appeared first on The Decoder.",
-      "source": "The Decoder",
-      "published": "2026-05-21T15:17:35+00:00",
-      "link": "https://the-decoder.com/cohere-open-sources-its-strongest-model-yet/"
-    },
-    {
-      "title": "Anthropic is about to become the first profitable AI lab",
-      "summary": "Anthropic is approaching its first profitable quarter, the Wall Street Journal reports - with a projected operating profit of $559 million on $10.9 billion in Q2 revenue. Just last summer, the company didn't expect to turn a profit before 2028.",
-      "source": "The Decoder",
-      "published": "2026-05-21T15:15:30+00:00",
-      "link": "https://the-decoder.com/anthropic-is-about-to-become-the-first-profitable-ai-lab/"
-    },
-    {
-      "title": "OpenAI could file confidential IPO paperwork within days",
-      "summary": "OpenAI is also preparing an IPO, according to the Wall Street Journal, and could file confidential paperwork with the SEC within days. The article OpenAI could file confidential IPO paperwork within days appeared first on The Decoder.",
-      "source": "The Decoder",
-      "published": "2026-05-21T15:12:36+00:00",
-      "link": "https://the-decoder.com/openai-could-file-confidential-ipo-paperwork-within-days/"
-    },
-    {
-      "title": "SpaceX IPO filing shows billions in AI losses, a $2 trillion valuation target, and turbine spending that signals more data center conflicts ahead",
-      "summary": "SpaceX has filed for what could be the largest IPO ever, targeting a valuation of up to $2 trillion. The filing reveals xAI losses of $6.36 billion in 2025 and an Anthropic compute deal worth $15 billion per year.",
-      "source": "The Decoder",
-      "published": "2026-05-21T15:10:21+00:00",
-      "link": "https://the-decoder.com/spacex-ipo-filing-shows-billions-in-ai-losses-a-2-trillion-valuation-target-and-turbine-spending-that-signals-more-data-center-conflicts-ahead/"
-    },
-    {
-      "title": "SAP taps Mistral AI to help customers migrate legacy software",
-      "summary": "SAP uses Mistral AI models to simplify the migration to S/4HANA. The article SAP taps Mistral AI to help customers migrate legacy software appeared first on The Decoder.",
-      "source": "The Decoder",
-      "published": "2026-05-21T14:59:18+00:00",
-      "link": "https://the-decoder.com/sap-taps-mistral-ai-to-help-customers-migrate-legacy-software/"
-    },
-    {
-      "title": "Anthropic’s Code with Claude showed off coding’s future—whether you like it or not",
-      "summary": "The vibes were strong at Code with Claude, Anthropic’s two-day event for software developers in London that kicked off on May 19, the same day as Google’s I/O in Palo Alto.",
-      "source": "MIT Tech Review",
-      "published": "2026-05-21T14:30:45+00:00",
-      "link": "https://www.technologyreview.com/2026/05/21/1137735/anthropics-code-with-claude-showed-off-codings-future-whether-you-like-it-or-not/"
-    },
-    {
-      "title": "The Path, founded by Tony Robbins and Calm alums, hopes to offer safer AI therapy",
-      "summary": "The Path says its AI model has scored 95 on the mental health safety AI benchmark, Vera-MH. This compares to a top score of 65 for the consumer bots.",
-      "source": "TechCrunch",
-      "published": "2026-05-21T14:00:00+00:00",
-      "link": "https://techcrunch.com/2026/05/21/the-path-founded-by-tony-robbins-and-calm-alums-wants-to-offer-safer-ai-therapy/"
-    },
-    {
-      "title": "Hark raises $700M Series A for its secretive ‘universal’ AI interface",
-      "summary": "Hark expects to release its first multimodal models this summer, which it says will power a personal AI platform that works with existing products and services. The company expects to follow that with hardware devices built specifically for those systems.",
-      "source": "TechCrunch",
-      "published": "2026-05-21T14:00:00+00:00",
-      "link": "https://techcrunch.com/2026/05/21/hark-raises-700m-series-a-for-its-secretive-universal-ai-interface/"
-    },
-    {
-      "title": "Google is pitching an AI agent ecosystem to consumers who may not buy it",
-      "summary": "One of the most promising introductions at Google’s I/O developer conference on Tuesday was a new way for consumers to use the web: AI agents. Unfortunately, it was also the most confusing.",
-      "source": "TechCrunch",
-      "published": "2026-05-21T13:52:23+00:00",
-      "link": "https://techcrunch.com/2026/05/21/google-is-pitching-an-ai-agent-ecosystem-to-consumers-who-may-not-buy-it/"
-    },
-    {
-      "title": "With aluminum prices up 20%, recycling startups bet on AI to cash in",
-      "summary": "Recycling startups are using AI to improve the recovery of critical minerals like aluminum, aiming to build a massive source of the metal.",
-      "source": "TechCrunch",
-      "published": "2026-05-21T13:38:42+00:00",
-      "link": "https://techcrunch.com/2026/05/21/with-aluminum-prices-up-20-recycling-startups-bet-on-ai-to-cash-in/"
-    },
-    {
-      "title": "AI is just unauthorised plagiarism at a bigger scale",
-      "summary": "Article URL: https://axelk.ee/ai-is-just-unauthorised-plagiarism-at-a-bigger-scale/ Comments URL: https://news.ycombinator.com/item?id=48222383 Points: 820 # Comments: 732",
-      "source": "Hacker News",
-      "published": "2026-05-21T13:38:12+00:00",
-      "link": "https://axelk.ee/ai-is-just-unauthorised-plagiarism-at-a-bigger-scale/"
-    },
-    {
-      "title": "Shunning AI is the human choice",
-      "summary": "Article URL: https://www.thehandbasket.co/p/hating-ai-is-good-actually Comments URL: https://news.ycombinator.com/item?id=48222366 Points: 370 # Comments: 538",
-      "source": "Hacker News",
-      "published": "2026-05-21T13:36:06+00:00",
-      "link": "https://www.thehandbasket.co/p/hating-ai-is-good-actually"
-    },
-    {
-      "title": "Anthropic is paying $15 billion a year for access to Elon Musk’s data centers",
-      "summary": "Earlier this month, SpaceX and Anthropic announced a new compute partnership that provides access to the rocket company's Colossus data centers in Memphis, TN.",
-      "source": "The Verge",
-      "published": "2026-05-21T13:35:52+00:00",
-      "link": "https://www.theverge.com/science/935229/spacex-anthropic-ipo-ai-capacity-deal-colossus"
-    },
-    {
-      "title": "The Download: online safety’s future and climate tech’s big pivot",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.",
-      "source": "MIT Tech Review",
-      "published": "2026-05-21T12:10:00+00:00",
-      "link": "https://www.technologyreview.com/2026/05/21/1137733/the-download-online-safety-climate-tech-pivot/"
-    },
-    {
-      "title": "Google officially announces that ads will be included in AI Mode search results",
-      "summary": "Article URL: https://blog.google/products/ads-commerce/google-marketing-live-search-ads/ Comments URL: https://news.ycombinator.com/item?id=48220105 Points: 144 # Comments: 155",
-      "source": "Hacker News",
-      "published": "2026-05-21T09:49:46+00:00",
-      "link": "https://blog.google/products/ads-commerce/google-marketing-live-search-ads/"
     }
   ]
 };
