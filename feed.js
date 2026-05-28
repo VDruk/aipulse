@@ -1,6 +1,20 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-05-27T22:26:42.430087+00:00",
+  "lastUpdated": "2026-05-28T05:07:56.124519+00:00",
   "items": [
+    {
+      "title": "Why Google’s AI can’t spell Google (or anything else)",
+      "summary": "Google is embarrassing itself, again.",
+      "source": "TechCrunch",
+      "published": "2026-05-28T00:17:41+00:00",
+      "link": "https://techcrunch.com/2026/05/27/why-googles-ai-cant-spell-google-or-anything-else/"
+    },
+    {
+      "title": "Illinois Lawmakers Just Passed America’s Strongest AI Safety Bill",
+      "summary": "The bill requires companies like OpenAI, Anthropic, and Google to have third parties confirm they’re following safety standards. Illinois governor JB Pritzker says he’ll sign it.",
+      "source": "Wired",
+      "published": "2026-05-28T00:10:42+00:00",
+      "link": "https://www.wired.com/story/illinois-pass-major-ai-safety-law-pritzker/"
+    },
     {
       "title": "In more good news for Amazon, Snowflake signs $6B deal with AWS for AI CPU chips",
       "summary": "Snowflake has signed a new, enormous five-year deal with Amazon to secure chips for AI usage. Nvidia is once again being put on notice.",
@@ -10,7 +24,7 @@ const FEED_DATA = {
     },
     {
       "title": "YouTube to automatically label AI-generated videos",
-      "summary": "https://variety.com/2026/digital/news/youtube-ai-video-label... Comments URL: https://news.ycombinator.com/item?id=48299753 Points: 321 # Comments: 168",
+      "summary": "https://variety.com/2026/digital/news/youtube-ai-video-label... Comments URL: https://news.ycombinator.com/item?id=48299753 Points: 650 # Comments: 385",
       "source": "Hacker News",
       "published": "2026-05-27T20:00:51+00:00",
       "link": "https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/"
@@ -66,14 +80,14 @@ const FEED_DATA = {
     },
     {
       "title": "DuckDuckGo search saw 28% more visits after Google said people love AI mode",
-      "summary": "Article URL: https://www.pcgamer.com/hardware/duckduckgos-ai-free-search-saw-nearly-28-percent-more-visits-in-the-week-following-googles-insistence-that-people-love-ai-mode/ Comments URL: https://news.ycombinator.com/item?id=48296649 Points: 559 # Comments: 284",
+      "summary": "Article URL: https://www.pcgamer.com/hardware/duckduckgos-ai-free-search-saw-nearly-28-percent-more-visits-in-the-week-following-googles-insistence-that-people-love-ai-mode/ Comments URL: https://news.ycombinator.com/item?id=48296649 Points: 733 # Comments: 358",
       "source": "Hacker News",
       "published": "2026-05-27T16:28:41+00:00",
       "link": "https://www.pcgamer.com/hardware/duckduckgos-ai-free-search-saw-nearly-28-percent-more-visits-in-the-week-following-googles-insistence-that-people-love-ai-mode/"
     },
     {
       "title": "Training our own AI models",
-      "summary": "Article URL: https://posthog.com/blog/training-ai-models Comments URL: https://news.ycombinator.com/item?id=48296359 Points: 181 # Comments: 123",
+      "summary": "Article URL: https://posthog.com/blog/training-ai-models Comments URL: https://news.ycombinator.com/item?id=48296359 Points: 195 # Comments: 136",
       "source": "Hacker News",
       "published": "2026-05-27T16:08:42+00:00",
       "link": "https://posthog.com/blog/training-ai-models"
@@ -212,8 +226,15 @@ const FEED_DATA = {
       "link": "https://www.theverge.com/ai-artificial-intelligence/937933/pope-ai-encyclical-tech-industry-reactions"
     },
     {
+      "title": "Ripgrep AI Policy",
+      "summary": "Article URL: https://github.com/BurntSushi/ripgrep/blob/master/AI_POLICY.md Comments URL: https://news.ycombinator.com/item?id=48292718 Points: 53 # Comments: 8",
+      "source": "Hacker News",
+      "published": "2026-05-27T11:40:49+00:00",
+      "link": "https://github.com/BurntSushi/ripgrep/blob/master/AI_POLICY.md"
+    },
+    {
       "title": "I'm Tired of Talking to AI",
-      "summary": "Article URL: https://orchidfiles.com/im-tired-of-ai-generated-answers/ Comments URL: https://news.ycombinator.com/item?id=48292224 Points: 1811 # Comments: 884",
+      "summary": "Article URL: https://orchidfiles.com/im-tired-of-ai-generated-answers/ Comments URL: https://news.ycombinator.com/item?id=48292224 Points: 1869 # Comments: 901",
       "source": "Hacker News",
       "published": "2026-05-27T10:43:25+00:00",
       "link": "https://orchidfiles.com/im-tired-of-ai-generated-answers/"
@@ -353,7 +374,7 @@ const FEED_DATA = {
     },
     {
       "title": "Outsourcing plus local AI will soon become more economical vs. frontier labs",
-      "summary": "Article URL: https://www.signalbloom.ai/posts/outsourcing-plus-localai-will-soon-become-more-economical-vs-frontier-labs/ Comments URL: https://news.ycombinator.com/item?id=48278610 Points: 313 # Comments: 355",
+      "summary": "Article URL: https://www.signalbloom.ai/posts/outsourcing-plus-localai-will-soon-become-more-economical-vs-frontier-labs/ Comments URL: https://news.ycombinator.com/item?id=48278610 Points: 314 # Comments: 359",
       "source": "Hacker News",
       "published": "2026-05-26T12:08:33+00:00",
       "link": "https://www.signalbloom.ai/posts/outsourcing-plus-localai-will-soon-become-more-economical-vs-frontier-labs/"
@@ -388,7 +409,7 @@ const FEED_DATA = {
     },
     {
       "title": "Uber president says AI spending is getting 'harder to justify'",
-      "summary": "Article URL: https://www.theverge.com/transportation/937116/uber-ai-investment-hard-to-justify Comments URL: https://news.ycombinator.com/item?id=48277485 Points: 302 # Comments: 156",
+      "summary": "Article URL: https://www.theverge.com/transportation/937116/uber-ai-investment-hard-to-justify Comments URL: https://news.ycombinator.com/item?id=48277485 Points: 303 # Comments: 157",
       "source": "Hacker News",
       "published": "2026-05-26T10:01:39+00:00",
       "link": "https://www.theverge.com/transportation/937116/uber-ai-investment-hard-to-justify"
@@ -415,18 +436,18 @@ const FEED_DATA = {
       "link": "https://www.wired.com/story/quiz-will-ai-destroy-your-career/"
     },
     {
-      "title": "I’m a Professional Fact-Checker. AI Is Wrong More Often Than You Think",
-      "summary": "Can AI do fact-checking? A WIRED fact-checker fact-checks.",
-      "source": "Wired",
-      "published": "2026-05-26T10:00:00+00:00",
-      "link": "https://www.wired.com/story/fact-checking-ai/"
-    },
-    {
       "title": "Autonomous AI systems test governance in physical environments",
       "summary": "Autonomous AI systems are beginning to move beyond software environments and into warehouses, delivery networks, and public spaces. The development is drawing attention to whether current AI rules cover systems that operate in physical environments.",
       "source": "AI News",
       "published": "2026-05-26T10:00:00+00:00",
       "link": "https://www.artificialintelligence-news.com/news/autonomous-ai-systems-governance-physical-environments/"
+    },
+    {
+      "title": "I’m a Professional Fact-Checker. AI Is Wrong More Often Than You Think",
+      "summary": "Can AI do fact-checking? A WIRED fact-checker fact-checks.",
+      "source": "Wired",
+      "published": "2026-05-26T10:00:00+00:00",
+      "link": "https://www.wired.com/story/fact-checking-ai/"
     },
     {
       "title": "Take This Mandatory AI Workplace Training Right Now—or Else",
@@ -479,14 +500,14 @@ const FEED_DATA = {
     },
     {
       "title": "Using AI to write better code more slowly",
-      "summary": "Article URL: https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly/ Comments URL: https://news.ycombinator.com/item?id=48272984 Points: 1219 # Comments: 445",
+      "summary": "Article URL: https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly/ Comments URL: https://news.ycombinator.com/item?id=48272984 Points: 1222 # Comments: 445",
       "source": "Hacker News",
       "published": "2026-05-25T23:16:59+00:00",
       "link": "https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly/"
     },
     {
       "title": "Norway's 2 petabytes of Huawei flash storage and LLM training",
-      "summary": "Article URL: https://www.blocksandfiles.com/flash/2026/05/22/norways-2-petabytes-of-huawei-flash-storage-and-llm-training/5244910 Comments URL: https://news.ycombinator.com/item?id=48270770 Points: 323 # Comments: 213",
+      "summary": "Article URL: https://www.blocksandfiles.com/flash/2026/05/22/norways-2-petabytes-of-huawei-flash-storage-and-llm-training/5244910 Comments URL: https://news.ycombinator.com/item?id=48270770 Points: 323 # Comments: 214",
       "source": "Hacker News",
       "published": "2026-05-25T19:37:57+00:00",
       "link": "https://www.blocksandfiles.com/flash/2026/05/22/norways-2-petabytes-of-huawei-flash-storage-and-llm-training/5244910"
@@ -584,7 +605,7 @@ const FEED_DATA = {
     },
     {
       "title": "Memory has grown to nearly two-thirds of AI chip component costs",
-      "summary": "Article URL: https://epoch.ai/data-insights/ai-chip-component-cost-shares Comments URL: https://news.ycombinator.com/item?id=48258684 Points: 444 # Comments: 495",
+      "summary": "Article URL: https://epoch.ai/data-insights/ai-chip-component-cost-shares Comments URL: https://news.ycombinator.com/item?id=48258684 Points: 444 # Comments: 496",
       "source": "Hacker News",
       "published": "2026-05-24T16:31:29+00:00",
       "link": "https://epoch.ai/data-insights/ai-chip-component-cost-shares"
@@ -1379,27 +1400,6 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-05-20T22:30:45+00:00",
       "link": "https://techcrunch.com/2026/05/20/clouted-wants-to-take-the-guesswork-out-of-making-short-videos-go-viral/"
-    },
-    {
-      "title": "xAI burned $6.4B last year — SpaceX’s IPO filing shows why the spending is far from over",
-      "summary": "SpaceX's IPO filing reveals xAI lost $6.4 billion in 2025 while planning a massive Grok expansion — offering the first public look at Elon Musk's AI financials and more details about his ambitions.",
-      "source": "TechCrunch",
-      "published": "2026-05-20T22:26:08+00:00",
-      "link": "https://techcrunch.com/2026/05/20/xai-burned-6-4b-last-year-spacexs-ipo-filing-shows-why-the-spending-is-far-from-over/"
-    },
-    {
-      "title": "Nvidia posts another record quarter, reveals $43B of holdings in startups",
-      "summary": "Nvidia announced another record revenue figure after market close on Wednesday, but forecasted that revenue growth would slow in the following quarter.",
-      "source": "TechCrunch",
-      "published": "2026-05-20T22:03:51+00:00",
-      "link": "https://techcrunch.com/2026/05/20/nvidia-posts-another-record-quarter-reveals-43-billion-of-holdings-in-startups/"
-    },
-    {
-      "title": "Nvidia posts another record quarter, reveals $43 billion of holdings in startups",
-      "summary": "Nvidia announced another record revenue figure after market close on Wednesday, but forecasted that revenue growth would slow in the following quarter.",
-      "source": "TechCrunch",
-      "published": "2026-05-20T22:03:51+00:00",
-      "link": "https://techcrunch.com/2026/05/20/nvidia-posts-another-record-quarter-reveals-43-billion-of-holdings-in-startups/"
     }
   ]
 };
