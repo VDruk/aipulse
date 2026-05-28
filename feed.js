@@ -1,6 +1,62 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-05-28T08:43:15.395047+00:00",
+  "lastUpdated": "2026-05-28T12:16:57.699476+00:00",
   "items": [
+    {
+      "title": "The Download: climate tech goes public and the AI Hype Index returns",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Climate tech companies are going public.",
+      "source": "MIT Tech Review",
+      "published": "2026-05-28T12:10:00+00:00",
+      "link": "https://www.technologyreview.com/2026/05/28/1138085/the-download-climate-tech-ipos-ai-hype-index/"
+    },
+    {
+      "title": "New Moms Are Returning to Coding Jobs Radically Reshaped by AI",
+      "summary": "New mothers working in software development are staring down an AI-pilled workplace they barely recognize.",
+      "source": "Wired",
+      "published": "2026-05-28T11:00:00+00:00",
+      "link": "https://www.wired.com/story/women-parental-leave-return-office-ai/"
+    },
+    {
+      "title": "AI sticker shock hits corporate America",
+      "summary": "Article URL: https://www.axios.com/2026/05/28/ai-spending-roi-enterprise-costs Comments URL: https://news.ycombinator.com/item?id=48307098 Points: 54 # Comments: 22",
+      "source": "Hacker News",
+      "published": "2026-05-28T10:39:32+00:00",
+      "link": "https://www.axios.com/2026/05/28/ai-spending-roi-enterprise-costs"
+    },
+    {
+      "title": "NBA plans AI system for automatic out-of-bounds calls",
+      "summary": "NBA Commissioner Adam Silver said the league plans to introduce an automated system for certain officiating decisions, including out-of-bounds calls. The system would use AI and cameras placed around the court to determine possession.",
+      "source": "AI News",
+      "published": "2026-05-28T10:00:00+00:00",
+      "link": "https://www.artificialintelligence-news.com/news/nba-ai-out-of-bounds-calls/"
+    },
+    {
+      "title": "The AI Hype Index: AI gets booed in graduation season",
+      "summary": "It is one thing to say AI will change the world. It is another to expect the class of 2026 to applaud it.",
+      "source": "MIT Tech Review",
+      "published": "2026-05-28T09:51:11+00:00",
+      "link": "https://www.technologyreview.com/2026/05/28/1138053/the-ai-hype-index-ai-gets-booed-in-graduation-season/"
+    },
+    {
+      "title": "Meta One: Zuckerberg finally puts a price tag on all that AI spending",
+      "summary": "Meta is rolling out paid add-ons for Instagram, Facebook, and WhatsApp worldwide while building a separate paid AI offering. The article Meta One: Zuckerberg finally puts a price tag on all that AI spending appeared first on The Decoder.",
+      "source": "The Decoder",
+      "published": "2026-05-28T09:45:20+00:00",
+      "link": "https://the-decoder.com/meta-one-zuckerberg-finally-puts-a-price-tag-on-all-that-ai-spending/"
+    },
+    {
+      "title": "Amazon builds its own AI production platform and greenlights three AI animated series for Prime Video",
+      "summary": "Amazon MGM Studios and AWS are launching a \"GenAI Creators' Fund\" that gives filmmakers money and access to the in-house AI platform \"Project Nara.\" Three animated series are already in production - the teams had five weeks for their pilots.",
+      "source": "The Decoder",
+      "published": "2026-05-28T08:59:21+00:00",
+      "link": "https://the-decoder.com/amazon-builds-its-own-ai-production-platform-and-greenlights-three-ai-animated-series-for-prime-video/"
+    },
+    {
+      "title": "YouTube will let you ask AI to make a custom video feed",
+      "summary": "YouTube is launching a new AI feature that creates a personalized video feed based on descriptions of what you want to watch.",
+      "source": "The Verge",
+      "published": "2026-05-28T08:49:07+00:00",
+      "link": "https://www.theverge.com/streaming/938759/youtube-custom-ai-feed-prompt-availability"
+    },
     {
       "title": "ElevenLabs Music v2 promises opera-to-metal transitions without losing musical coherence",
       "summary": "ElevenLabs has released Music v2, an upgraded AI music generation model that works across genres: a single song can shift between opera, heavy metal, and rap. New inpainting lets users regenerate specific sections without touching the rest.",
@@ -14,6 +70,20 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-05-28T07:00:00+00:00",
       "link": "https://techcrunch.com/2026/05/28/vertu-wants-ceos-to-run-companies-from-an-ai-foldable-starting-at-6880/"
+    },
+    {
+      "title": "A Eureka machine that thinks like nature and explores what AI cannot",
+      "summary": "Article URL: https://iisc.ac.in/a-eureka-machine-that-thinks-like-nature-and-explores-what-ai-cannot/ Comments URL: https://news.ycombinator.com/item?id=48305446 Points: 98 # Comments: 30",
+      "source": "Hacker News",
+      "published": "2026-05-28T06:40:31+00:00",
+      "link": "https://iisc.ac.in/a-eureka-machine-that-thinks-like-nature-and-explores-what-ai-cannot/"
+    },
+    {
+      "title": "Zig 2026: No-AI Policy, $670K Foundation, Left GitHub and Why Zig Isn't 1.0 [video]",
+      "summary": "Article URL: https://www.youtube.com/watch?v=iqddnwKF8HQ Comments URL: https://news.ycombinator.com/item?id=48303273 Points: 63 # Comments: 7",
+      "source": "Hacker News",
+      "published": "2026-05-28T01:40:24+00:00",
+      "link": "https://www.youtube.com/watch?v=iqddnwKF8HQ"
     },
     {
       "title": "Why Google’s AI can’t spell Google (or anything else)",
@@ -38,7 +108,7 @@ const FEED_DATA = {
     },
     {
       "title": "YouTube to automatically label AI-generated videos",
-      "summary": "https://variety.com/2026/digital/news/youtube-ai-video-label... Comments URL: https://news.ycombinator.com/item?id=48299753 Points: 841 # Comments: 511",
+      "summary": "https://variety.com/2026/digital/news/youtube-ai-video-label... Comments URL: https://news.ycombinator.com/item?id=48299753 Points: 978 # Comments: 585",
       "source": "Hacker News",
       "published": "2026-05-27T20:00:51+00:00",
       "link": "https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/"
@@ -86,6 +156,13 @@ const FEED_DATA = {
       "link": "https://the-decoder.com/robinhood-lets-ai-agents-trade-shares-and-make-credit-card-purchases-for-customers/"
     },
     {
+      "title": "Multi-Agent LLM System for Automated Vulnerability Discovery and Reproduction",
+      "summary": "Article URL: https://arxiv.org/abs/2605.21779 Comments URL: https://news.ycombinator.com/item?id=48297723 Points: 51 # Comments: 6",
+      "source": "Hacker News",
+      "published": "2026-05-27T17:42:24+00:00",
+      "link": "https://arxiv.org/abs/2605.21779"
+    },
+    {
       "title": "YouTube will try to automatically flag AI videos starting this month",
       "summary": "YouTube is tightening its AI labeling rules. Labels for photorealistic or heavily AI-altered content will now show up in more visible spots, below the player for long videos and as an overlay on Shorts.",
       "source": "The Decoder",
@@ -94,14 +171,14 @@ const FEED_DATA = {
     },
     {
       "title": "DuckDuckGo search saw 28% more visits after Google said people love AI mode",
-      "summary": "Article URL: https://www.pcgamer.com/hardware/duckduckgos-ai-free-search-saw-nearly-28-percent-more-visits-in-the-week-following-googles-insistence-that-people-love-ai-mode/ Comments URL: https://news.ycombinator.com/item?id=48296649 Points: 845 # Comments: 398",
+      "summary": "Article URL: https://www.pcgamer.com/hardware/duckduckgos-ai-free-search-saw-nearly-28-percent-more-visits-in-the-week-following-googles-insistence-that-people-love-ai-mode/ Comments URL: https://news.ycombinator.com/item?id=48296649 Points: 911 # Comments: 436",
       "source": "Hacker News",
       "published": "2026-05-27T16:28:41+00:00",
       "link": "https://www.pcgamer.com/hardware/duckduckgos-ai-free-search-saw-nearly-28-percent-more-visits-in-the-week-following-googles-insistence-that-people-love-ai-mode/"
     },
     {
       "title": "Training our own AI models",
-      "summary": "Article URL: https://posthog.com/blog/training-ai-models Comments URL: https://news.ycombinator.com/item?id=48296359 Points: 199 # Comments: 138",
+      "summary": "Article URL: https://posthog.com/blog/training-ai-models Comments URL: https://news.ycombinator.com/item?id=48296359 Points: 203 # Comments: 139",
       "source": "Hacker News",
       "published": "2026-05-27T16:08:42+00:00",
       "link": "https://posthog.com/blog/training-ai-models"
@@ -241,14 +318,14 @@ const FEED_DATA = {
     },
     {
       "title": "Ripgrep AI Policy",
-      "summary": "Article URL: https://github.com/BurntSushi/ripgrep/blob/master/AI_POLICY.md Comments URL: https://news.ycombinator.com/item?id=48292718 Points: 69 # Comments: 10",
+      "summary": "Article URL: https://github.com/BurntSushi/ripgrep/blob/master/AI_POLICY.md Comments URL: https://news.ycombinator.com/item?id=48292718 Points: 76 # Comments: 11",
       "source": "Hacker News",
       "published": "2026-05-27T11:40:49+00:00",
       "link": "https://github.com/BurntSushi/ripgrep/blob/master/AI_POLICY.md"
     },
     {
       "title": "I'm Tired of Talking to AI",
-      "summary": "Article URL: https://orchidfiles.com/im-tired-of-ai-generated-answers/ Comments URL: https://news.ycombinator.com/item?id=48292224 Points: 1906 # Comments: 911",
+      "summary": "Article URL: https://orchidfiles.com/im-tired-of-ai-generated-answers/ Comments URL: https://news.ycombinator.com/item?id=48292224 Points: 1926 # Comments: 918",
       "source": "Hacker News",
       "published": "2026-05-27T10:43:25+00:00",
       "link": "https://orchidfiles.com/im-tired-of-ai-generated-answers/"
@@ -388,7 +465,7 @@ const FEED_DATA = {
     },
     {
       "title": "Outsourcing plus local AI will soon become more economical vs. frontier labs",
-      "summary": "Article URL: https://www.signalbloom.ai/posts/outsourcing-plus-localai-will-soon-become-more-economical-vs-frontier-labs/ Comments URL: https://news.ycombinator.com/item?id=48278610 Points: 316 # Comments: 360",
+      "summary": "Article URL: https://www.signalbloom.ai/posts/outsourcing-plus-localai-will-soon-become-more-economical-vs-frontier-labs/ Comments URL: https://news.ycombinator.com/item?id=48278610 Points: 319 # Comments: 363",
       "source": "Hacker News",
       "published": "2026-05-26T12:08:33+00:00",
       "link": "https://www.signalbloom.ai/posts/outsourcing-plus-localai-will-soon-become-more-economical-vs-frontier-labs/"
@@ -443,18 +520,18 @@ const FEED_DATA = {
       "link": "https://www.wired.com/story/ai-takes-over-debt-collection/"
     },
     {
-      "title": "Quiz: Will AI Destroy Your Career?",
-      "summary": "Some jobs may be toast. Some will survive.",
-      "source": "Wired",
-      "published": "2026-05-26T10:00:00+00:00",
-      "link": "https://www.wired.com/story/quiz-will-ai-destroy-your-career/"
-    },
-    {
       "title": "Autonomous AI systems test governance in physical environments",
       "summary": "Autonomous AI systems are beginning to move beyond software environments and into warehouses, delivery networks, and public spaces. The development is drawing attention to whether current AI rules cover systems that operate in physical environments.",
       "source": "AI News",
       "published": "2026-05-26T10:00:00+00:00",
       "link": "https://www.artificialintelligence-news.com/news/autonomous-ai-systems-governance-physical-environments/"
+    },
+    {
+      "title": "Quiz: Will AI Destroy Your Career?",
+      "summary": "Some jobs may be toast. Some will survive.",
+      "source": "Wired",
+      "published": "2026-05-26T10:00:00+00:00",
+      "link": "https://www.wired.com/story/quiz-will-ai-destroy-your-career/"
     },
     {
       "title": "I’m a Professional Fact-Checker. AI Is Wrong More Often Than You Think",
@@ -507,7 +584,7 @@ const FEED_DATA = {
     },
     {
       "title": "Investigating how prompt politeness affects LLM accuracy (2025)",
-      "summary": "Article URL: https://arxiv.org/abs/2510.04950 Comments URL: https://news.ycombinator.com/item?id=48276429 Points: 69 # Comments: 67",
+      "summary": "Article URL: https://arxiv.org/abs/2510.04950 Comments URL: https://news.ycombinator.com/item?id=48276429 Points: 83 # Comments: 77",
       "source": "Hacker News",
       "published": "2026-05-26T07:43:22+00:00",
       "link": "https://arxiv.org/abs/2510.04950"
@@ -521,7 +598,7 @@ const FEED_DATA = {
     },
     {
       "title": "Using AI to write better code more slowly",
-      "summary": "Article URL: https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly/ Comments URL: https://news.ycombinator.com/item?id=48272984 Points: 1225 # Comments: 446",
+      "summary": "Article URL: https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly/ Comments URL: https://news.ycombinator.com/item?id=48272984 Points: 1232 # Comments: 446",
       "source": "Hacker News",
       "published": "2026-05-25T23:16:59+00:00",
       "link": "https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly/"
@@ -563,7 +640,7 @@ const FEED_DATA = {
     },
     {
       "title": "Pope Leo XIV says AI must serve humanity, not the powerful few",
-      "summary": "Article URL: https://religionnews.com/2026/05/25/in-his-first-encyclical-pope-leo-xiv-says-ai-must-serve-humanity-not-the-powerful-few/ Comments URL: https://news.ycombinator.com/item?id=48266485 Points: 345 # Comments: 66",
+      "summary": "Article URL: https://religionnews.com/2026/05/25/in-his-first-encyclical-pope-leo-xiv-says-ai-must-serve-humanity-not-the-powerful-few/ Comments URL: https://news.ycombinator.com/item?id=48266485 Points: 345 # Comments: 67",
       "source": "Hacker News",
       "published": "2026-05-25T13:17:58+00:00",
       "link": "https://religionnews.com/2026/05/25/in-his-first-encyclical-pope-leo-xiv-says-ai-must-serve-humanity-not-the-powerful-few/"
@@ -1323,83 +1400,6 @@ const FEED_DATA = {
       "source": "Hacker News",
       "published": "2026-05-21T09:49:46+00:00",
       "link": "https://blog.google/products/ads-commerce/google-marketing-live-search-ads/"
-    },
-    {
-      "title": "Throwing AI-generated walls of text into conversations",
-      "summary": "Article URL: https://noslopgrenade.com/ Comments URL: https://news.ycombinator.com/item?id=48219992 Points: 699 # Comments: 417",
-      "source": "Hacker News",
-      "published": "2026-05-21T09:31:15+00:00",
-      "link": "https://noslopgrenade.com/"
-    },
-    {
-      "title": "Stop throwing AI-generated walls of text into conversations",
-      "summary": "Article URL: https://noslopgrenade.com/ Comments URL: https://news.ycombinator.com/item?id=48219992 Points: 362 # Comments: 207",
-      "source": "Hacker News",
-      "published": "2026-05-21T09:31:15+00:00",
-      "link": "https://noslopgrenade.com/"
-    },
-    {
-      "title": "Meta lays off thousands of employees to offset AI investments",
-      "summary": "Meta has reportedly notified thousands of employees that they've been laid off as the company attempts to compensate for its hefty AI investments.",
-      "source": "The Verge",
-      "published": "2026-05-21T09:20:46+00:00",
-      "link": "https://www.theverge.com/tech/935163/meta-layoffs-ai-investment-offset-memo"
-    },
-    {
-      "title": "AI Engineering from Scratch",
-      "summary": "Article URL: https://aiengineeringfromscratch.com Comments URL: https://news.ycombinator.com/item?id=48219853 Points: 57 # Comments: 15",
-      "source": "Hacker News",
-      "published": "2026-05-21T09:14:13+00:00",
-      "link": "https://aiengineeringfromscratch.com"
-    },
-    {
-      "title": "Tech researchers are suing the Trump administration over the future of online safety",
-      "summary": "Since its earliest days back in office, the Trump administration has been going after researchers who study and try to counter hate speech, harassment, propaganda, and disinformation online. Now, some of those researchers are fighting back.",
-      "source": "MIT Tech Review",
-      "published": "2026-05-21T09:00:00+00:00",
-      "link": "https://www.technologyreview.com/2026/05/21/1137632/lawsuit-trump-administration-online-safety-coalition-for-independent-technology-research/"
-    },
-    {
-      "title": "Nvidia’s Vera chip is the US$200 billion bet Jensen Huang doesn’t want you to overlook",
-      "summary": "The Nvidia Vera chip is rarely the headline when earnings beat estimates, but it should be.",
-      "source": "AI News",
-      "published": "2026-05-21T08:00:00+00:00",
-      "link": "https://www.artificialintelligence-news.com/news/nvidia-vera-chip-200-billion-market/"
-    },
-    {
-      "title": "In SpaceX’s IPO, Elon Musk is the risk factor",
-      "summary": "The SpaceX IPO is here, and it's more than just an historic public offering that could make Elon Musk the world's first trillionaire.",
-      "source": "The Verge",
-      "published": "2026-05-21T03:42:45+00:00",
-      "link": "https://www.theverge.com/science/935102/spacex-ipo-elon-musk-tesla-cybertruck-xai-risk-factor"
-    },
-    {
-      "title": "In SpaceX’s IPO, Elon Musk is a risk factor",
-      "summary": "The SpaceX IPO is here, and it's more than just an historic public offering that could make Elon Musk the world's first trillionaire.",
-      "source": "The Verge",
-      "published": "2026-05-21T03:42:45+00:00",
-      "link": "https://www.theverge.com/science/935102/spacex-ipo-elon-musk-tesla-cybertruck-xai-risk-factor"
-    },
-    {
-      "title": "SpaceX Listed Grok’s ‘Spicy’ Mode as a Risk in Its IPO Filing",
-      "summary": "The rocket company has set aside more than $500 million for potential litigation losses, in part to account for complaints alleging that Grok created sexualized images.",
-      "source": "Wired",
-      "published": "2026-05-21T00:43:13+00:00",
-      "link": "https://www.wired.com/story/spacex-ipo-grok-spicy-mode-risks/"
-    },
-    {
-      "title": "Intuit to lay off over 3k employees to refocus on AI",
-      "summary": "Article URL: https://techcrunch.com/2026/05/20/intuit-to-lay-off-over-3000-employees-to-refocus-on-ai/ Comments URL: https://news.ycombinator.com/item?id=48216278 Points: 259 # Comments: 196",
-      "source": "Hacker News",
-      "published": "2026-05-21T00:36:01+00:00",
-      "link": "https://techcrunch.com/2026/05/20/intuit-to-lay-off-over-3000-employees-to-refocus-on-ai/"
-    },
-    {
-      "title": "Jensen Huang says he’s found a ‘brand new’ $200B market for Nvidia",
-      "summary": "The next big thing for Nvidia will be CPUs for AI agents, $200 billion worth, CEO Jensen Huang predicts.",
-      "source": "TechCrunch",
-      "published": "2026-05-21T00:28:31+00:00",
-      "link": "https://techcrunch.com/2026/05/20/jensen-huang-says-hes-found-a-brand-new-200b-market-for-nvidia/"
     }
   ]
 };
