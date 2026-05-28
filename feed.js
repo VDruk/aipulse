@@ -1,6 +1,34 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-05-28T16:54:51.681387+00:00",
+  "lastUpdated": "2026-05-28T19:33:53.891213+00:00",
   "items": [
+    {
+      "title": "Anthropic raises $65 Billion, nears $1T valuation ahead of IPO",
+      "summary": "Anthropic has closed a $65 billion Series H round at a $965 billion post-money valuation, marking what could be the AI startup's final private fundraise before a highly anticipated IPO.",
+      "source": "TechCrunch",
+      "published": "2026-05-28T18:52:51+00:00",
+      "link": "https://techcrunch.com/2026/05/28/anthropic-raises-65-billion-nears-1t-valuation-ahead-of-ipo/"
+    },
+    {
+      "title": "Just like gold and oil, we’ll soon be able to trade AI token futures",
+      "summary": "Large exchanges are designing derivative products around AI tokens, which are increasingly being considered less a computational output and more a raw material input, like electricity or bandwidth.",
+      "source": "TechCrunch",
+      "published": "2026-05-28T18:32:25+00:00",
+      "link": "https://techcrunch.com/2026/05/28/just-like-gold-and-oil-well-soon-be-able-to-trade-ai-token-futures/"
+    },
+    {
+      "title": "Anthropic releases Opus 4.8 with new ‘dynamic workflow’ tool",
+      "summary": "The new Opus model comes with a tool called Dynamic Workflows, for coordinating swarms of subagents.",
+      "source": "TechCrunch",
+      "published": "2026-05-28T17:00:09+00:00",
+      "link": "https://techcrunch.com/2026/05/28/anthropic-releases-opus-4-8-with-new-dynamic-workflow-tool/"
+    },
+    {
+      "title": "Claude’s new model is more ‘honest’ when it messes up",
+      "summary": "Anthropic is releasing Claude Opus 4.8 on Thursday, and the company is touting the model's \"honesty.\" According to Anthropic, it trains \"all [its] models to be honest - for instance, to avoid making claims that they can't support.\" But it notes that \"a general problem with AI...",
+      "source": "The Verge",
+      "published": "2026-05-28T17:00:00+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/939094/anthropic-claude-4-8-opus-honesty-effort"
+    },
     {
       "title": "A $2,000 AI-generated film will make its debut at Tribeca",
       "summary": "Next month's Tribeca Festival will include the premiere of an AI-generated film: Dreams of Violets.",
@@ -45,7 +73,7 @@ const FEED_DATA = {
     },
     {
       "title": "Sneak peek at new Siri app reveals Apple’s plans to take on ChatGPT and more",
-      "summary": "New renders offer a closer look at Apple’s planned AI overhaul for iOS 27, including a redesigned Siri experience powered and standalone Siri app.",
+      "summary": "New renders offer a closer look at Apple’s planned AI overhaul for iOS 27, including a redesigned Siri experience and standalone Siri app.",
       "source": "TechCrunch",
       "published": "2026-05-28T14:45:13+00:00",
       "link": "https://techcrunch.com/2026/05/28/sneak-peek-at-new-siri-app-reveals-apples-plans-to-take-on-chatgpt-and-more/"
@@ -94,7 +122,7 @@ const FEED_DATA = {
     },
     {
       "title": "Visa invests in Replit to power agentic payments for developers",
-      "summary": "Visa said that over 1,000 employees has been using Replit for prototyping and development",
+      "summary": "Visa said that over 1,000 employees have been using Replit for prototyping and development.",
       "source": "TechCrunch",
       "published": "2026-05-28T14:00:00+00:00",
       "link": "https://techcrunch.com/2026/05/28/visa-invests-in-replit-to-power-agentic-payments-for-developers/"
@@ -108,7 +136,7 @@ const FEED_DATA = {
     },
     {
       "title": "Show HN: Continue? Y/N: A 60-second game about AI agent permission fatigue",
-      "summary": "Article URL: https://llmgame.scalex.dev Comments URL: https://news.ycombinator.com/item?id=48308376 Points: 62 # Comments: 35",
+      "summary": "Article URL: https://llmgame.scalex.dev Comments URL: https://news.ycombinator.com/item?id=48308376 Points: 147 # Comments: 70",
       "source": "Hacker News",
       "published": "2026-05-28T13:02:00+00:00",
       "link": "https://llmgame.scalex.dev"
@@ -143,7 +171,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI sticker shock hits corporate America",
-      "summary": "Article URL: https://www.axios.com/2026/05/28/ai-spending-roi-enterprise-costs Comments URL: https://news.ycombinator.com/item?id=48307098 Points: 136 # Comments: 125",
+      "summary": "Article URL: https://www.axios.com/2026/05/28/ai-spending-roi-enterprise-costs Comments URL: https://news.ycombinator.com/item?id=48307098 Points: 145 # Comments: 131",
       "source": "Hacker News",
       "published": "2026-05-28T10:39:32+00:00",
       "link": "https://www.axios.com/2026/05/28/ai-spending-roi-enterprise-costs"
@@ -199,14 +227,14 @@ const FEED_DATA = {
     },
     {
       "title": "A Eureka machine that thinks like nature and explores what AI cannot",
-      "summary": "Article URL: https://iisc.ac.in/a-eureka-machine-that-thinks-like-nature-and-explores-what-ai-cannot/ Comments URL: https://news.ycombinator.com/item?id=48305446 Points: 138 # Comments: 40",
+      "summary": "Article URL: https://iisc.ac.in/a-eureka-machine-that-thinks-like-nature-and-explores-what-ai-cannot/ Comments URL: https://news.ycombinator.com/item?id=48305446 Points: 139 # Comments: 42",
       "source": "Hacker News",
       "published": "2026-05-28T06:40:31+00:00",
       "link": "https://iisc.ac.in/a-eureka-machine-that-thinks-like-nature-and-explores-what-ai-cannot/"
     },
     {
       "title": "Zig 2026: No-AI Policy, $670K Foundation, Left GitHub and Why Zig Isn't 1.0 [video]",
-      "summary": "Article URL: https://www.youtube.com/watch?v=iqddnwKF8HQ Comments URL: https://news.ycombinator.com/item?id=48303273 Points: 75 # Comments: 8",
+      "summary": "Article URL: https://www.youtube.com/watch?v=iqddnwKF8HQ Comments URL: https://news.ycombinator.com/item?id=48303273 Points: 81 # Comments: 8",
       "source": "Hacker News",
       "published": "2026-05-28T01:40:24+00:00",
       "link": "https://www.youtube.com/watch?v=iqddnwKF8HQ"
@@ -226,6 +254,13 @@ const FEED_DATA = {
       "link": "https://www.wired.com/story/illinois-pass-major-ai-safety-law-pritzker/"
     },
     {
+      "title": "Show HN: Open-Source AI Racing Harness",
+      "summary": "Hi I'm Dan from Elodin, making an open source real-time capable flight software simulation.For AI Grand Prix contestants, the wait for the Round 1 virtual qualifier simulation has been grueling.If you’re competing, check out our simulation harness to tide you over, built to...",
+      "source": "Hacker News",
+      "published": "2026-05-27T20:37:42+00:00",
+      "link": "https://www.elodin.systems/post/elodin-ai-grand-prix-race-sim-harness"
+    },
+    {
       "title": "In more good news for Amazon, Snowflake signs $6B deal with AWS for AI CPU chips",
       "summary": "Snowflake has signed a new, enormous five-year deal with Amazon to secure chips for AI usage. Nvidia is once again being put on notice.",
       "source": "TechCrunch",
@@ -234,7 +269,7 @@ const FEED_DATA = {
     },
     {
       "title": "YouTube to automatically label AI-generated videos",
-      "summary": "https://variety.com/2026/digital/news/youtube-ai-video-label... Comments URL: https://news.ycombinator.com/item?id=48299753 Points: 1181 # Comments: 700",
+      "summary": "https://variety.com/2026/digital/news/youtube-ai-video-label... Comments URL: https://news.ycombinator.com/item?id=48299753 Points: 1236 # Comments: 729",
       "source": "Hacker News",
       "published": "2026-05-27T20:00:51+00:00",
       "link": "https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/"
@@ -297,14 +332,14 @@ const FEED_DATA = {
     },
     {
       "title": "DuckDuckGo search saw 28% more visits after Google said people love AI mode",
-      "summary": "Article URL: https://www.pcgamer.com/hardware/duckduckgos-ai-free-search-saw-nearly-28-percent-more-visits-in-the-week-following-googles-insistence-that-people-love-ai-mode/ Comments URL: https://news.ycombinator.com/item?id=48296649 Points: 1007 # Comments: 488",
+      "summary": "Article URL: https://www.pcgamer.com/hardware/duckduckgos-ai-free-search-saw-nearly-28-percent-more-visits-in-the-week-following-googles-insistence-that-people-love-ai-mode/ Comments URL: https://news.ycombinator.com/item?id=48296649 Points: 1034 # Comments: 499",
       "source": "Hacker News",
       "published": "2026-05-27T16:28:41+00:00",
       "link": "https://www.pcgamer.com/hardware/duckduckgos-ai-free-search-saw-nearly-28-percent-more-visits-in-the-week-following-googles-insistence-that-people-love-ai-mode/"
     },
     {
       "title": "Training our own AI models",
-      "summary": "Article URL: https://posthog.com/blog/training-ai-models Comments URL: https://news.ycombinator.com/item?id=48296359 Points: 207 # Comments: 141",
+      "summary": "Article URL: https://posthog.com/blog/training-ai-models Comments URL: https://news.ycombinator.com/item?id=48296359 Points: 209 # Comments: 143",
       "source": "Hacker News",
       "published": "2026-05-27T16:08:42+00:00",
       "link": "https://posthog.com/blog/training-ai-models"
@@ -325,7 +360,7 @@ const FEED_DATA = {
     },
     {
       "title": "Tech CEOs are apparently suffering from AI psychosis",
-      "summary": "Article URL: https://techcrunch.com/2026/05/27/tech-ceos-are-apparently-suffering-from-ai-psychosis/ Comments URL: https://news.ycombinator.com/item?id=48295679 Points: 684 # Comments: 343",
+      "summary": "Article URL: https://techcrunch.com/2026/05/27/tech-ceos-are-apparently-suffering-from-ai-psychosis/ Comments URL: https://news.ycombinator.com/item?id=48295679 Points: 693 # Comments: 348",
       "source": "Hacker News",
       "published": "2026-05-27T15:20:47+00:00",
       "link": "https://techcrunch.com/2026/05/27/tech-ceos-are-apparently-suffering-from-ai-psychosis/"
@@ -444,14 +479,14 @@ const FEED_DATA = {
     },
     {
       "title": "Ripgrep AI Policy",
-      "summary": "Article URL: https://github.com/BurntSushi/ripgrep/blob/master/AI_POLICY.md Comments URL: https://news.ycombinator.com/item?id=48292718 Points: 88 # Comments: 14",
+      "summary": "Article URL: https://github.com/BurntSushi/ripgrep/blob/master/AI_POLICY.md Comments URL: https://news.ycombinator.com/item?id=48292718 Points: 93 # Comments: 14",
       "source": "Hacker News",
       "published": "2026-05-27T11:40:49+00:00",
       "link": "https://github.com/BurntSushi/ripgrep/blob/master/AI_POLICY.md"
     },
     {
       "title": "I'm Tired of Talking to AI",
-      "summary": "Article URL: https://orchidfiles.com/im-tired-of-ai-generated-answers/ Comments URL: https://news.ycombinator.com/item?id=48292224 Points: 1947 # Comments: 927",
+      "summary": "Article URL: https://orchidfiles.com/im-tired-of-ai-generated-answers/ Comments URL: https://news.ycombinator.com/item?id=48292224 Points: 1952 # Comments: 929",
       "source": "Hacker News",
       "published": "2026-05-27T10:43:25+00:00",
       "link": "https://orchidfiles.com/im-tired-of-ai-generated-answers/"
@@ -710,7 +745,7 @@ const FEED_DATA = {
     },
     {
       "title": "Investigating how prompt politeness affects LLM accuracy (2025)",
-      "summary": "Article URL: https://arxiv.org/abs/2510.04950 Comments URL: https://news.ycombinator.com/item?id=48276429 Points: 123 # Comments: 157",
+      "summary": "Article URL: https://arxiv.org/abs/2510.04950 Comments URL: https://news.ycombinator.com/item?id=48276429 Points: 134 # Comments: 175",
       "source": "Hacker News",
       "published": "2026-05-26T07:43:22+00:00",
       "link": "https://arxiv.org/abs/2510.04950"
@@ -724,7 +759,7 @@ const FEED_DATA = {
     },
     {
       "title": "Using AI to write better code more slowly",
-      "summary": "Article URL: https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly/ Comments URL: https://news.ycombinator.com/item?id=48272984 Points: 1232 # Comments: 446",
+      "summary": "Article URL: https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly/ Comments URL: https://news.ycombinator.com/item?id=48272984 Points: 1235 # Comments: 446",
       "source": "Hacker News",
       "published": "2026-05-25T23:16:59+00:00",
       "link": "https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly/"
@@ -1199,13 +1234,6 @@ const FEED_DATA = {
       "link": "https://arstechnica.com/information-technology/2026/05/a-hacker-group-is-poisoning-open-source-code-at-an-unprecedented-scale/"
     },
     {
-      "title": "Google I/O showed how the path for AI-driven science is shifting",
-      "summary": "During Tuesday’s Google I/O keynote, Demis Hassabis, the CEO of Google DeepMind, proclaimed that we are currently “standing in the foothills of the singularity.” It was a striking statement—the singularity is the theoretical future moment when AI rapidly exceeds human...",
-      "source": "MIT Tech Review",
-      "published": "2026-05-22T10:00:00+00:00",
-      "link": "https://www.technologyreview.com/2026/05/22/1137813/google-i-o-showed-how-the-path-for-ai-science-is-shifting/"
-    },
-    {
       "title": "OpenAI opens Singapore AI lab as IMDA updates AI framework",
       "summary": "OpenAI will open its first Applied AI Lab outside the US in Singapore. The lab is part of a new partnership with the Ministry of Digital Development and Information.",
       "source": "AI News",
@@ -1218,6 +1246,13 @@ const FEED_DATA = {
       "source": "AI News",
       "published": "2026-05-22T10:00:00+00:00",
       "link": "https://www.artificialintelligence-news.com/news/ai-energy-grid-mapping-china/"
+    },
+    {
+      "title": "Google I/O showed how the path for AI-driven science is shifting",
+      "summary": "During Tuesday’s Google I/O keynote, Demis Hassabis, the CEO of Google DeepMind, proclaimed that we are currently “standing in the foothills of the singularity.” It was a striking statement—the singularity is the theoretical future moment when AI rapidly exceeds human...",
+      "source": "MIT Tech Review",
+      "published": "2026-05-22T10:00:00+00:00",
+      "link": "https://www.technologyreview.com/2026/05/22/1137813/google-i-o-showed-how-the-path-for-ai-science-is-shifting/"
     },
     {
       "title": "Steve Wozniak cheered after telling students they have AI – actual intelligence",
@@ -1365,41 +1400,6 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-05-21T16:11:50+00:00",
       "link": "https://the-decoder.com/openai-shifts-the-boundary-of-automated-reasoning-with-a-milestone-in-ai-mathematics-that-experts-are-now-unpacking/"
-    },
-    {
-      "title": "OpenAI shifts the boundary of automated reasoning with a \"milestone in AI mathematics\" that experts are now unpacking",
-      "summary": "A reasoning model from OpenAI has disproved a conjecture by mathematician Paul Erdős on unit-distance geometry that stood open since 1946 - using tools from algebraic number theory that experts never expected in this context.",
-      "source": "The Decoder",
-      "published": "2026-05-21T16:11:50+00:00",
-      "link": "https://the-decoder.com/openai-shifts-the-boundary-of-automated-reasoning-with-a-milestone-in-ai-mathematics-that-experts-are-now-unpacking/"
-    },
-    {
-      "title": "Spotify is launching AI-generated remixes",
-      "summary": "Spotify and Universal Music Group (UMG) just announced a licensing deal that will allow users to prompt the creation of AI-generated remixes and covers for streaming songs. The tool will be a paid add-on for Premium subscribers.",
-      "source": "The Verge",
-      "published": "2026-05-21T15:54:03+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/935379/spotify-umg-ai-covers-remix"
-    },
-    {
-      "title": "I Cloned Myself With Gemini’s AI Avatar Tool. The Result Was Unnervingly Me",
-      "summary": "I used the Gemini app to generate lifelike videos featuring a digital clone of myself. Google sees this as the future of creation.",
-      "source": "Wired",
-      "published": "2026-05-21T15:48:24+00:00",
-      "link": "https://www.wired.com/story/i-cloned-myself-with-geminis-ai-avatar-tool-the-result-was-unnervingly-me/"
-    },
-    {
-      "title": "Spotify Studio’s AI agent creates a daily podcast just for you",
-      "summary": "Studio by Spotify Labs is a new standalone AI app that generates a daily briefing, podcasts, and playlists on your PC using chatbot prompts.",
-      "source": "The Verge",
-      "published": "2026-05-21T15:47:29+00:00",
-      "link": "https://www.theverge.com/entertainment/935390/spotify-studio-ai-app-personal-podcasts"
-    },
-    {
-      "title": "AI video is moving beyond clip slop",
-      "summary": "This is Lowpass by Janko Roettgers, a newsletter on the ever-evolving intersection of tech and entertainment, syndicated just for The Verge subscribers once a week. Hollywood is cooked - or so a growing number of people on social media would like you to believe.",
-      "source": "The Verge",
-      "published": "2026-05-21T15:30:00+00:00",
-      "link": "https://www.theverge.com/column/935310/ai-video-luma-hollywood"
     }
   ]
 };
