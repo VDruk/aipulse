@@ -1,6 +1,76 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-05-29T16:42:25.957258+00:00",
+  "lastUpdated": "2026-05-29T19:29:41.540296+00:00",
   "items": [
+    {
+      "title": "Hands-On With Gemini Spark: I Gave It Access to My Life and It Friend-Zoned My Boyfriend",
+      "summary": "Google's new AI agent combed through my emails, documents, and calendar to plan a birthday party and still didn’t clock the person most important to me.",
+      "source": "Wired",
+      "published": "2026-05-29T19:07:46+00:00",
+      "link": "https://www.wired.com/story/google-gemini-spark-ai-agent-hands-on/"
+    },
+    {
+      "title": "So you’ve heard these AI terms and nodded along; let’s fix that",
+      "summary": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.",
+      "source": "TechCrunch",
+      "published": "2026-05-29T18:49:19+00:00",
+      "link": "https://techcrunch.com/2026/05/29/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/"
+    },
+    {
+      "title": "OpenAI gives GPT-5.5 Instant a readability upgrade while phasing out two older models",
+      "summary": "OpenAI is updating GPT-5.5 Instant for more natural responses and dropping the Canvas feature from its latest models. Writing and coding tasks will run directly in the chat instead.",
+      "source": "The Decoder",
+      "published": "2026-05-29T18:11:34+00:00",
+      "link": "https://the-decoder.com/openai-gives-gpt-5-5-instant-a-readability-upgrade-while-phasing-out-two-older-models/"
+    },
+    {
+      "title": "What happens when companies become too AI-pilled?",
+      "summary": "The people deciding that AI can replace your job are also the ones least likely to understand what your job truly involves, according to Box founder Aaron Levie, who pointed to this as an example of “AI psychosis.” Indeed, ClickUp recently cut 22% of its workforce for AI agents,...",
+      "source": "TechCrunch",
+      "published": "2026-05-29T17:57:05+00:00",
+      "link": "https://techcrunch.com/video/what-happens-when-companies-become-too-ai-pilled/"
+    },
+    {
+      "title": "Google fixes several bugs in Gemini usage limits that burned through quotas too fast",
+      "summary": "A bug in Google's Gemini app caused just one or two Omni videos to eat up the entire usage quota. Google has fixed the bug, Ultra members now get twice as many video generations, and failed requests are no longer charged.",
+      "source": "The Decoder",
+      "published": "2026-05-29T17:51:46+00:00",
+      "link": "https://the-decoder.com/google-fixes-several-bugs-in-gemini-usage-limits-that-burned-through-quotas-too-fast/"
+    },
+    {
+      "title": "Robinhood now lets your AI agents trade stocks",
+      "summary": "Article URL: https://techcrunch.com/2026/05/27/robinhood-now-lets-your-ai-agents-trade-stocks/ Comments URL: https://news.ycombinator.com/item?id=48326659 Points: 52 # Comments: 84",
+      "source": "Hacker News",
+      "published": "2026-05-29T17:46:27+00:00",
+      "link": "https://techcrunch.com/2026/05/27/robinhood-now-lets-your-ai-agents-trade-stocks/"
+    },
+    {
+      "title": "Tech companies desperately want to film you doing chores",
+      "summary": "This week, an AI training startup called Shift said it would clean New Yorkers' homes for free. It has plans to expand into other cities as well, including London, and looking around my flat, I get the appeal.",
+      "source": "The Verge",
+      "published": "2026-05-29T17:37:43+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/940007/ai-companies-will-pay-for-robot-training-data"
+    },
+    {
+      "title": "One company reportedly spent $500 million on Claude in one month after failing to cap AI usage",
+      "summary": "An unnamed company allegedly blew half a billion dollars on Claude licenses in a single month because nobody set usage limits. Cases like this show that without real AI expertise in model selection and context engineering, productivity promises just turn into runaway costs.",
+      "source": "The Decoder",
+      "published": "2026-05-29T17:35:26+00:00",
+      "link": "https://the-decoder.com/one-company-reportedly-spent-500-million-on-claude-in-one-month-after-failing-to-cap-ai-usage/"
+    },
+    {
+      "title": "After Nvidia’s $20B not-aqui-hire, AI chip startup Groq reportedly raising $650M",
+      "summary": "Chipmaker Groq is looking to raise $650 million in internal funding as it pivots from hardware to focus more on AI inference, the process of refining the way AI models respond to prompted requests, per Axios.",
+      "source": "TechCrunch",
+      "published": "2026-05-29T17:27:13+00:00",
+      "link": "https://techcrunch.com/2026/05/29/after-nvidias-20b-not-aqui-hire-ai-chip-startup-groq-reportedly-raising-650m/"
+    },
+    {
+      "title": "OpenAI is giving away its life sciences AI model to help governments prepare for the next pandemic",
+      "summary": "OpenAI is offering its life sciences model GPT-Rosalind for free through the new Rosalind Biodefense program, aimed at pandemic preparedness and biodefense. Early partners include Lawrence Livermore National Laboratory, Johns Hopkins, and vaccine initiative CEPI.",
+      "source": "The Decoder",
+      "published": "2026-05-29T16:51:30+00:00",
+      "link": "https://the-decoder.com/openai-is-giving-away-its-life-sciences-ai-model-to-help-governments-prepare-for-the-next-pandemic/"
+    },
     {
       "title": "We Asked the ‘Future of Truth’ Author to Explain How He Used AI. It Didn’t Go Well",
       "summary": "A book about how AI shapes perceptions of reality came under fire for using AI-generated quotes. Its problems go beyond that.",
@@ -14,6 +84,13 @@ const FEED_DATA = {
       "source": "AI News",
       "published": "2026-05-29T16:24:58+00:00",
       "link": "https://www.artificialintelligence-news.com/news/scaling-safe-enterprise-ai-openai-governance-frameworks/"
+    },
+    {
+      "title": "Notes from the Mistral AI Now Summit in Paris",
+      "summary": "Article URL: https://koenvangilst.nl/lab/mistral-ai-now-summit Comments URL: https://news.ycombinator.com/item?id=48325340 Points: 198 # Comments: 51",
+      "source": "Hacker News",
+      "published": "2026-05-29T16:22:01+00:00",
+      "link": "https://koenvangilst.nl/lab/mistral-ai-now-summit"
     },
     {
       "title": "Cognition’s Scott Wu says AI coding agents shouldn’t replace humans",
@@ -31,7 +108,7 @@ const FEED_DATA = {
     },
     {
       "title": "Please Use AI",
-      "summary": "Article URL: https://shawnsmucker.substack.com/p/please-use-ai Comments URL: https://news.ycombinator.com/item?id=48323101 Points: 629 # Comments: 295",
+      "summary": "Article URL: https://shawnsmucker.substack.com/p/please-use-ai Comments URL: https://news.ycombinator.com/item?id=48323101 Points: 670 # Comments: 339",
       "source": "Hacker News",
       "published": "2026-05-29T13:50:25+00:00",
       "link": "https://shawnsmucker.substack.com/p/please-use-ai"
@@ -44,8 +121,8 @@ const FEED_DATA = {
       "link": "https://github.com/scanaislop/aislop"
     },
     {
-      "title": "Expertise in the Age of AI",
-      "summary": "Article URL: https://www.moderndescartes.com/essays/ai_and_expertise/ Comments URL: https://news.ycombinator.com/item?id=48322929 Points: 51 # Comments: 51",
+      "title": "Expertise in the age of AI",
+      "summary": "Article URL: https://www.moderndescartes.com/essays/ai_and_expertise/ Comments URL: https://news.ycombinator.com/item?id=48322929 Points: 72 # Comments: 76",
       "source": "Hacker News",
       "published": "2026-05-29T13:35:13+00:00",
       "link": "https://www.moderndescartes.com/essays/ai_and_expertise/"
@@ -94,7 +171,7 @@ const FEED_DATA = {
     },
     {
       "title": "Is AI causing a repeat of Front end's Lost Decade?",
-      "summary": "Article URL: https://mastrojs.github.io/blog/2026-05-23-is-AI-causing-a-repeat-of-frontends-lost-decade/ Comments URL: https://news.ycombinator.com/item?id=48321631 Points: 180 # Comments: 174",
+      "summary": "Article URL: https://mastrojs.github.io/blog/2026-05-23-is-AI-causing-a-repeat-of-frontends-lost-decade/ Comments URL: https://news.ycombinator.com/item?id=48321631 Points: 199 # Comments: 189",
       "source": "Hacker News",
       "published": "2026-05-29T11:09:32+00:00",
       "link": "https://mastrojs.github.io/blog/2026-05-23-is-AI-causing-a-repeat-of-frontends-lost-decade/"
@@ -122,7 +199,7 @@ const FEED_DATA = {
     },
     {
       "title": "Real-time LLM Inference on Standard GPUs: 3k tokens/s per request",
-      "summary": "Article URL: https://blog.kog.ai/real-time-llm-inference-on-standard-gpus-3-000-tokens-s-per-request/ Comments URL: https://news.ycombinator.com/item?id=48321076 Points: 139 # Comments: 66",
+      "summary": "Article URL: https://blog.kog.ai/real-time-llm-inference-on-standard-gpus-3-000-tokens-s-per-request/ Comments URL: https://news.ycombinator.com/item?id=48321076 Points: 179 # Comments: 79",
       "source": "Hacker News",
       "published": "2026-05-29T09:47:23+00:00",
       "link": "https://blog.kog.ai/real-time-llm-inference-on-standard-gpus-3-000-tokens-s-per-request/"
@@ -140,6 +217,13 @@ const FEED_DATA = {
       "source": "Hacker News",
       "published": "2026-05-29T09:34:37+00:00",
       "link": "https://firethering.com/hell-grind-ai-film-cannes-premiere-higgsfield/"
+    },
+    {
+      "title": "Undisclosed addition in jqwik instructed AI coding agents to delete app output",
+      "summary": "Article URL: https://arstechnica.com/security/2026/05/fed-up-with-vibe-coders-dev-sneaks-data-nuking-prompt-injection-into-their-code/ Comments URL: https://news.ycombinator.com/item?id=48319968 Points: 54 # Comments: 67",
+      "source": "Hacker News",
+      "published": "2026-05-29T07:05:31+00:00",
+      "link": "https://arstechnica.com/security/2026/05/fed-up-with-vibe-coders-dev-sneaks-data-nuking-prompt-injection-into-their-code/"
     },
     {
       "title": "Microsoft data suggests using AI is more expensive than hiring people",
@@ -164,7 +248,7 @@ const FEED_DATA = {
     },
     {
       "title": "The mysterious Hy3 LLM is topping OpenRouter Model Rankings by a large margin",
-      "summary": "Article URL: https://minimaxir.com/2026/05/openrouter-hy3/ Comments URL: https://news.ycombinator.com/item?id=48317294 Points: 89 # Comments: 76",
+      "summary": "Article URL: https://minimaxir.com/2026/05/openrouter-hy3/ Comments URL: https://news.ycombinator.com/item?id=48317294 Points: 89 # Comments: 80",
       "source": "Hacker News",
       "published": "2026-05-29T00:09:35+00:00",
       "link": "https://minimaxir.com/2026/05/openrouter-hy3/"
@@ -192,7 +276,7 @@ const FEED_DATA = {
     },
     {
       "title": "Amazon scraps AI leaderboard to stop workers chasing usage scores",
-      "summary": "Article URL: https://www.ft.com/content/b1a62a7f-6df5-4c90-94ce-64ce9c9961b6 Comments URL: https://news.ycombinator.com/item?id=48315583 Points: 65 # Comments: 18",
+      "summary": "Article URL: https://www.ft.com/content/b1a62a7f-6df5-4c90-94ce-64ce9c9961b6 Comments URL: https://news.ycombinator.com/item?id=48315583 Points: 71 # Comments: 19",
       "source": "Hacker News",
       "published": "2026-05-28T21:14:22+00:00",
       "link": "https://www.ft.com/content/b1a62a7f-6df5-4c90-94ce-64ce9c9961b6"
@@ -220,14 +304,14 @@ const FEED_DATA = {
     },
     {
       "title": "Sam Altman and Dario Amodei are both walking back AI jobs apocalypse predictions",
-      "summary": "https://archive.ph/50zy3 Comments URL: https://news.ycombinator.com/item?id=48314363 Points: 224 # Comments: 173",
+      "summary": "https://archive.ph/50zy3 Comments URL: https://news.ycombinator.com/item?id=48314363 Points: 229 # Comments: 175",
       "source": "Hacker News",
       "published": "2026-05-28T19:43:14+00:00",
       "link": "https://fortune.com/2026/05/26/sam-altman-dario-amodei-walking-back-ai-jobs-apocalypse-prophecies-ipo/"
     },
     {
       "title": "Various LLM Smells",
-      "summary": "Article URL: https://shvbsle.in/various-llm-smells/ Comments URL: https://news.ycombinator.com/item?id=48313810 Points: 343 # Comments: 266",
+      "summary": "Article URL: https://shvbsle.in/various-llm-smells/ Comments URL: https://news.ycombinator.com/item?id=48313810 Points: 348 # Comments: 269",
       "source": "Hacker News",
       "published": "2026-05-28T19:02:18+00:00",
       "link": "https://shvbsle.in/various-llm-smells/"
@@ -367,7 +451,7 @@ const FEED_DATA = {
     },
     {
       "title": "Show HN: Continue? Y/N: A 60-second game about AI agent permission fatigue",
-      "summary": "Article URL: https://llmgame.scalex.dev Comments URL: https://news.ycombinator.com/item?id=48308376 Points: 362 # Comments: 147",
+      "summary": "Article URL: https://llmgame.scalex.dev Comments URL: https://news.ycombinator.com/item?id=48308376 Points: 364 # Comments: 147",
       "source": "Hacker News",
       "published": "2026-05-28T13:02:00+00:00",
       "link": "https://llmgame.scalex.dev"
@@ -402,7 +486,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI sticker shock hits corporate America",
-      "summary": "Article URL: https://www.axios.com/2026/05/28/ai-spending-roi-enterprise-costs Comments URL: https://news.ycombinator.com/item?id=48307098 Points: 164 # Comments: 143",
+      "summary": "Article URL: https://www.axios.com/2026/05/28/ai-spending-roi-enterprise-costs Comments URL: https://news.ycombinator.com/item?id=48307098 Points: 165 # Comments: 143",
       "source": "Hacker News",
       "published": "2026-05-28T10:39:32+00:00",
       "link": "https://www.axios.com/2026/05/28/ai-spending-roi-enterprise-costs"
@@ -458,14 +542,14 @@ const FEED_DATA = {
     },
     {
       "title": "A Eureka machine that thinks like nature and explores what AI cannot",
-      "summary": "Article URL: https://iisc.ac.in/a-eureka-machine-that-thinks-like-nature-and-explores-what-ai-cannot/ Comments URL: https://news.ycombinator.com/item?id=48305446 Points: 145 # Comments: 42",
+      "summary": "Article URL: https://iisc.ac.in/a-eureka-machine-that-thinks-like-nature-and-explores-what-ai-cannot/ Comments URL: https://news.ycombinator.com/item?id=48305446 Points: 145 # Comments: 44",
       "source": "Hacker News",
       "published": "2026-05-28T06:40:31+00:00",
       "link": "https://iisc.ac.in/a-eureka-machine-that-thinks-like-nature-and-explores-what-ai-cannot/"
     },
     {
       "title": "Zig 2026: No-AI Policy, $670K Foundation, Left GitHub and Why Zig Isn't 1.0 [video]",
-      "summary": "Article URL: https://www.youtube.com/watch?v=iqddnwKF8HQ Comments URL: https://news.ycombinator.com/item?id=48303273 Points: 84 # Comments: 9",
+      "summary": "Article URL: https://www.youtube.com/watch?v=iqddnwKF8HQ Comments URL: https://news.ycombinator.com/item?id=48303273 Points: 86 # Comments: 9",
       "source": "Hacker News",
       "published": "2026-05-28T01:40:24+00:00",
       "link": "https://www.youtube.com/watch?v=iqddnwKF8HQ"
@@ -500,7 +584,7 @@ const FEED_DATA = {
     },
     {
       "title": "YouTube to automatically label AI-generated videos",
-      "summary": "https://variety.com/2026/digital/news/youtube-ai-video-label... Comments URL: https://news.ycombinator.com/item?id=48299753 Points: 1299 # Comments: 806",
+      "summary": "https://variety.com/2026/digital/news/youtube-ai-video-label... Comments URL: https://news.ycombinator.com/item?id=48299753 Points: 1303 # Comments: 810",
       "source": "Hacker News",
       "published": "2026-05-27T20:00:51+00:00",
       "link": "https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/"
@@ -679,13 +763,6 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-05-27T12:37:39+00:00",
       "link": "https://the-decoder.com/sam-altman-and-dario-amodei-walk-back-their-ai-job-apocalypse-predictions/"
-    },
-    {
-      "title": "Robinhood now lets your AI agents trade stocks",
-      "summary": "While these agents would be able to read and analyze users' portfolios to come up with trading strategies and suggest investments, they'll only be able to access the pre-loaded balance in the dedicated wallet to place orders.",
-      "source": "TechCrunch",
-      "published": "2026-05-27T12:30:00+00:00",
-      "link": "https://techcrunch.com/2026/05/27/robinhood-now-lets-your-ai-agents-trade-stocks/"
     },
     {
       "title": "The Download: keeping up with AI, and the future of IVF",
@@ -1323,83 +1400,6 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-05-22T16:56:20+00:00",
       "link": "https://the-decoder.com/openai-appshots-turn-any-mac-window-into-context-for-codex/"
-    },
-    {
-      "title": "Built AI forensic accounting software with my dad",
-      "summary": "Article URL: https://case-trail.com/blog/ai-forensic-accounting-automation Comments URL: https://news.ycombinator.com/item?id=48237985 Points: 50 # Comments: 40",
-      "source": "Hacker News",
-      "published": "2026-05-22T16:19:29+00:00",
-      "link": "https://case-trail.com/blog/ai-forensic-accounting-automation"
-    },
-    {
-      "title": "You can no longer Google the word ‘disregard’",
-      "summary": "After Google Search's AI update, the word \"disregard\" now effectively breaks the search interface.",
-      "source": "TechCrunch",
-      "published": "2026-05-22T16:16:48+00:00",
-      "link": "https://techcrunch.com/2026/05/22/you-can-no-longer-google-the-word-disregard/"
-    },
-    {
-      "title": "We tried Google’s AI glasses and they’re almost there",
-      "summary": "Google demoed prototype Android XR glasses that overlay Gemini-powered translation, navigation, and other information directly into your field of view.",
-      "source": "TechCrunch",
-      "published": "2026-05-22T15:37:15+00:00",
-      "link": "https://techcrunch.com/2026/05/22/we-tried-googles-ai-glasses-and-theyre-almost-there/"
-    },
-    {
-      "title": "Even If You Hate AI, You Will Use Google AI Search",
-      "summary": "The search giant’s AI-crafted answers are so convenient, you’ll be sucked in—to the detriment of the web and the artists and thinkers behind it.",
-      "source": "Wired",
-      "published": "2026-05-22T15:00:00+00:00",
-      "link": "https://www.wired.com/story/even-if-you-hate-ai-you-will-use-google-ai-search/"
-    },
-    {
-      "title": "AI errno(2) values",
-      "summary": "Article URL: https://www.netmeister.org/blog/ai-errno.html Comments URL: https://news.ycombinator.com/item?id=48236816 Points: 127 # Comments: 18",
-      "source": "Hacker News",
-      "published": "2026-05-22T14:56:57+00:00",
-      "link": "https://www.netmeister.org/blog/ai-errno.html"
-    },
-    {
-      "title": "SpaceX files to go public, and the math requires a little faith",
-      "summary": "The SpaceX S-1 is finally here, and the story it tells goes way further than rockets.",
-      "source": "TechCrunch",
-      "published": "2026-05-22T14:30:00+00:00",
-      "link": "https://techcrunch.com/video/spacex-files-to-go-public-and-the-math-requires-a-little-faith/"
-    },
-    {
-      "title": "The literary world isn’t prepared for AI",
-      "summary": "Since 2012, the British literary magazine Granta has published the regional winners of the annual Commonwealth Short Story Prize. This year, however, there was something off about one of the selections for the prestigious award: It appears to have been written by AI.",
-      "source": "The Verge",
-      "published": "2026-05-22T14:30:00+00:00",
-      "link": "https://www.theverge.com/tech/936073/ai-writing-granta-commonwealth-prize"
-    },
-    {
-      "title": "Spotify says its AI remix tool is for superfans, but I’m not convinced",
-      "summary": "AI covers and remixes of songs are already a blight on the internet. Spotify, YouTube, TikTok, and Instagram are awash in flat reggae versions of \"Smells Like Teen Spirit,\" dinky country renditions of The Weeknd, and monotonous Motown reimaginings of AC/DC.",
-      "source": "The Verge",
-      "published": "2026-05-22T14:20:00+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/936072/spotify-umg-ai-music-remix-cover-superfan"
-    },
-    {
-      "title": "Why would you disrespect your favorite artist with an AI remix?",
-      "summary": "AI covers and remixes of songs are already a blight on the internet. Spotify, YouTube, TikTok, and Instagram are awash in flat reggae versions of \"Smells Like Teen Spirit,\" dinky country renditions of The Weeknd, and monotonous Motown reimaginings of AC/DC.",
-      "source": "The Verge",
-      "published": "2026-05-22T14:20:00+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/936072/spotify-umg-ai-music-remix-cover-superfan"
-    },
-    {
-      "title": "OpenAI burned through $1.22 per dollar earned even after stripping out stock-based compensation",
-      "summary": "OpenAI pulled in about $5.7 billion in Q1 2026 revenue but still lost $1.22 for every dollar earned, putting its adjusted operating margin at minus 122 percent.",
-      "source": "The Decoder",
-      "published": "2026-05-22T14:18:32+00:00",
-      "link": "https://the-decoder.com/openai-burned-through-1-22-per-dollar-earned-even-after-stripping-out-stock-based-compensation/"
-    },
-    {
-      "title": "California governor signs first US executive order to protect workers from AI job loss",
-      "summary": "California's governor just signed the first executive order by a US governor aimed at protecting workers from AI-driven job loss. The article California governor signs first US executive order to protect workers from AI job loss appeared first on The Decoder.",
-      "source": "The Decoder",
-      "published": "2026-05-22T13:36:27+00:00",
-      "link": "https://the-decoder.com/california-governor-signs-first-us-executive-order-to-protect-workers-from-ai-job-loss/"
     }
   ]
 };
