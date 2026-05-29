@@ -1,12 +1,26 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-05-29T05:12:09.546603+00:00",
+  "lastUpdated": "2026-05-29T08:42:47.483830+00:00",
   "items": [
+    {
+      "title": "Microsoft data suggests using AI is more expensive than hiring people",
+      "summary": "Article URL: https://finance.yahoo.com/sectors/technology/articles/microsoft-data-suggests-using-ai-225900743.html Comments URL: https://news.ycombinator.com/item?id=48317563 Points: 51 # Comments: 6",
+      "source": "Hacker News",
+      "published": "2026-05-29T00:49:05+00:00",
+      "link": "https://finance.yahoo.com/sectors/technology/articles/microsoft-data-suggests-using-ai-225900743.html"
+    },
     {
       "title": "Glean’s top line crosses $300M as AI budget-cutting becomes its major selling point",
       "summary": "The enterprise AI search startup tripled its annual revenue even as tech giants entered the category.",
       "source": "TechCrunch",
       "published": "2026-05-29T00:44:37+00:00",
       "link": "https://techcrunch.com/2026/05/28/gleans-top-line-crosses-300m-as-ai-budget-cutting-becomes-its-major-selling-point/"
+    },
+    {
+      "title": "The mysterious Hy3 LLM is topping OpenRouter Model Rankings by a large margin",
+      "summary": "Article URL: https://minimaxir.com/2026/05/openrouter-hy3/ Comments URL: https://news.ycombinator.com/item?id=48317294 Points: 71 # Comments: 45",
+      "source": "Hacker News",
+      "published": "2026-05-29T00:09:35+00:00",
+      "link": "https://minimaxir.com/2026/05/openrouter-hy3/"
     },
     {
       "title": "Claude company Anthropic nears a trillion-dollar valuation after raising $65 billion in Series H",
@@ -28,6 +42,13 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-05-28T21:20:09+00:00",
       "link": "https://the-decoder.com/anthropic-ships-claude-opus-4-8-as-a-modest-but-tangible-improvement-that-tops-gpt-5-5-in-most-benchmarks/"
+    },
+    {
+      "title": "Amazon scraps AI leaderboard to stop workers chasing usage scores",
+      "summary": "Article URL: https://www.ft.com/content/b1a62a7f-6df5-4c90-94ce-64ce9c9961b6 Comments URL: https://news.ycombinator.com/item?id=48315583 Points: 58 # Comments: 16",
+      "source": "Hacker News",
+      "published": "2026-05-28T21:14:22+00:00",
+      "link": "https://www.ft.com/content/b1a62a7f-6df5-4c90-94ce-64ce9c9961b6"
     },
     {
       "title": "Fed up with vibe coders, dev sneaks data-nuking prompt injection into their code",
@@ -52,14 +73,14 @@ const FEED_DATA = {
     },
     {
       "title": "Sam Altman and Dario Amodei are both walking back AI jobs apocalypse predictions",
-      "summary": "Article URL: https://fortune.com/2026/05/26/sam-altman-dario-amodei-walking-back-ai-jobs-apocalypse-prophecies-ipo/ Comments URL: https://news.ycombinator.com/item?id=48314363 Points: 193 # Comments: 157",
+      "summary": "https://archive.ph/50zy3 Comments URL: https://news.ycombinator.com/item?id=48314363 Points: 210 # Comments: 161",
       "source": "Hacker News",
       "published": "2026-05-28T19:43:14+00:00",
       "link": "https://fortune.com/2026/05/26/sam-altman-dario-amodei-walking-back-ai-jobs-apocalypse-prophecies-ipo/"
     },
     {
       "title": "Various LLM Smells",
-      "summary": "Article URL: https://shvbsle.in/various-llm-smells/ Comments URL: https://news.ycombinator.com/item?id=48313810 Points: 268 # Comments: 196",
+      "summary": "Article URL: https://shvbsle.in/various-llm-smells/ Comments URL: https://news.ycombinator.com/item?id=48313810 Points: 298 # Comments: 228",
       "source": "Hacker News",
       "published": "2026-05-28T19:02:18+00:00",
       "link": "https://shvbsle.in/various-llm-smells/"
@@ -199,7 +220,7 @@ const FEED_DATA = {
     },
     {
       "title": "Show HN: Continue? Y/N: A 60-second game about AI agent permission fatigue",
-      "summary": "Article URL: https://llmgame.scalex.dev Comments URL: https://news.ycombinator.com/item?id=48308376 Points: 279 # Comments: 117",
+      "summary": "Article URL: https://llmgame.scalex.dev Comments URL: https://news.ycombinator.com/item?id=48308376 Points: 310 # Comments: 129",
       "source": "Hacker News",
       "published": "2026-05-28T13:02:00+00:00",
       "link": "https://llmgame.scalex.dev"
@@ -234,7 +255,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI sticker shock hits corporate America",
-      "summary": "Article URL: https://www.axios.com/2026/05/28/ai-spending-roi-enterprise-costs Comments URL: https://news.ycombinator.com/item?id=48307098 Points: 158 # Comments: 134",
+      "summary": "Article URL: https://www.axios.com/2026/05/28/ai-spending-roi-enterprise-costs Comments URL: https://news.ycombinator.com/item?id=48307098 Points: 159 # Comments: 134",
       "source": "Hacker News",
       "published": "2026-05-28T10:39:32+00:00",
       "link": "https://www.axios.com/2026/05/28/ai-spending-roi-enterprise-costs"
@@ -297,7 +318,7 @@ const FEED_DATA = {
     },
     {
       "title": "Zig 2026: No-AI Policy, $670K Foundation, Left GitHub and Why Zig Isn't 1.0 [video]",
-      "summary": "Article URL: https://www.youtube.com/watch?v=iqddnwKF8HQ Comments URL: https://news.ycombinator.com/item?id=48303273 Points: 82 # Comments: 9",
+      "summary": "Article URL: https://www.youtube.com/watch?v=iqddnwKF8HQ Comments URL: https://news.ycombinator.com/item?id=48303273 Points: 83 # Comments: 9",
       "source": "Hacker News",
       "published": "2026-05-28T01:40:24+00:00",
       "link": "https://www.youtube.com/watch?v=iqddnwKF8HQ"
@@ -332,7 +353,7 @@ const FEED_DATA = {
     },
     {
       "title": "YouTube to automatically label AI-generated videos",
-      "summary": "https://variety.com/2026/digital/news/youtube-ai-video-label... Comments URL: https://news.ycombinator.com/item?id=48299753 Points: 1280 # Comments: 778",
+      "summary": "https://variety.com/2026/digital/news/youtube-ai-video-label... Comments URL: https://news.ycombinator.com/item?id=48299753 Points: 1286 # Comments: 785",
       "source": "Hacker News",
       "published": "2026-05-27T20:00:51+00:00",
       "link": "https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/"
@@ -395,14 +416,14 @@ const FEED_DATA = {
     },
     {
       "title": "DuckDuckGo search saw 28% more visits after Google said people love AI mode",
-      "summary": "Article URL: https://www.pcgamer.com/hardware/duckduckgos-ai-free-search-saw-nearly-28-percent-more-visits-in-the-week-following-googles-insistence-that-people-love-ai-mode/ Comments URL: https://news.ycombinator.com/item?id=48296649 Points: 1049 # Comments: 509",
+      "summary": "Article URL: https://www.pcgamer.com/hardware/duckduckgos-ai-free-search-saw-nearly-28-percent-more-visits-in-the-week-following-googles-insistence-that-people-love-ai-mode/ Comments URL: https://news.ycombinator.com/item?id=48296649 Points: 1051 # Comments: 511",
       "source": "Hacker News",
       "published": "2026-05-27T16:28:41+00:00",
       "link": "https://www.pcgamer.com/hardware/duckduckgos-ai-free-search-saw-nearly-28-percent-more-visits-in-the-week-following-googles-insistence-that-people-love-ai-mode/"
     },
     {
       "title": "Training our own AI models",
-      "summary": "Article URL: https://posthog.com/blog/training-ai-models Comments URL: https://news.ycombinator.com/item?id=48296359 Points: 211 # Comments: 143",
+      "summary": "Article URL: https://posthog.com/blog/training-ai-models Comments URL: https://news.ycombinator.com/item?id=48296359 Points: 212 # Comments: 143",
       "source": "Hacker News",
       "published": "2026-05-27T16:08:42+00:00",
       "link": "https://posthog.com/blog/training-ai-models"
@@ -423,7 +444,7 @@ const FEED_DATA = {
     },
     {
       "title": "Tech CEOs are apparently suffering from AI psychosis",
-      "summary": "Article URL: https://techcrunch.com/2026/05/27/tech-ceos-are-apparently-suffering-from-ai-psychosis/ Comments URL: https://news.ycombinator.com/item?id=48295679 Points: 707 # Comments: 350",
+      "summary": "Article URL: https://techcrunch.com/2026/05/27/tech-ceos-are-apparently-suffering-from-ai-psychosis/ Comments URL: https://news.ycombinator.com/item?id=48295679 Points: 712 # Comments: 352",
       "source": "Hacker News",
       "published": "2026-05-27T15:20:47+00:00",
       "link": "https://techcrunch.com/2026/05/27/tech-ceos-are-apparently-suffering-from-ai-psychosis/"
@@ -542,14 +563,14 @@ const FEED_DATA = {
     },
     {
       "title": "Ripgrep AI Policy",
-      "summary": "Article URL: https://github.com/BurntSushi/ripgrep/blob/master/AI_POLICY.md Comments URL: https://news.ycombinator.com/item?id=48292718 Points: 98 # Comments: 19",
+      "summary": "Article URL: https://github.com/BurntSushi/ripgrep/blob/master/AI_POLICY.md Comments URL: https://news.ycombinator.com/item?id=48292718 Points: 98 # Comments: 21",
       "source": "Hacker News",
       "published": "2026-05-27T11:40:49+00:00",
       "link": "https://github.com/BurntSushi/ripgrep/blob/master/AI_POLICY.md"
     },
     {
       "title": "I'm Tired of Talking to AI",
-      "summary": "Article URL: https://orchidfiles.com/im-tired-of-ai-generated-answers/ Comments URL: https://news.ycombinator.com/item?id=48292224 Points: 1969 # Comments: 939",
+      "summary": "Article URL: https://orchidfiles.com/im-tired-of-ai-generated-answers/ Comments URL: https://news.ycombinator.com/item?id=48292224 Points: 1974 # Comments: 940",
       "source": "Hacker News",
       "published": "2026-05-27T10:43:25+00:00",
       "link": "https://orchidfiles.com/im-tired-of-ai-generated-answers/"
@@ -1379,27 +1400,6 @@ const FEED_DATA = {
       "source": "The Verge",
       "published": "2026-05-21T20:15:18+00:00",
       "link": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit"
-    },
-    {
-      "title": "In desperate times, graduates find hope in humiliating tech CEOs",
-      "summary": "University graduates are booing and heckling corporate executives who praise AI during their commencement ceremonies, and the only people who seem to be genuinely surprised by this are the executives themselves.",
-      "source": "The Verge",
-      "published": "2026-05-21T20:00:06+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/935602/graduates-boo-ai-ceos"
-    },
-    {
-      "title": "Spotify and Universal Music strike deal allowing fan-made AI covers and remixes",
-      "summary": "Spotify is partnering with Universal Music Group￼ to let Premium subscribers create AI-generated song covers and remixes, with participating artists receiving a share of the revenue.",
-      "source": "TechCrunch",
-      "published": "2026-05-21T19:45:00+00:00",
-      "link": "https://techcrunch.com/2026/05/21/spotify-and-universal-music-strike-deal-allowing-fan-made-ai-covers-and-remixes/"
-    },
-    {
-      "title": "Six search engines worth trying now that Google isn’t really Google anymore",
-      "summary": "Google is about to look really different, and if you're not a fan of the AI overview feature, then you're not going to like what's coming.",
-      "source": "TechCrunch",
-      "published": "2026-05-21T19:19:05+00:00",
-      "link": "https://techcrunch.com/2026/05/21/six-search-engines-worth-trying-now-that-google-isnt-really-google-anymore/"
     }
   ]
 };
