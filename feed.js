@@ -1,6 +1,83 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-05-29T11:59:49.830313+00:00",
+  "lastUpdated": "2026-05-29T16:42:25.957258+00:00",
   "items": [
+    {
+      "title": "We Asked the ‘Future of Truth’ Author to Explain How He Used AI. It Didn’t Go Well",
+      "summary": "A book about how AI shapes perceptions of reality came under fire for using AI-generated quotes. Its problems go beyond that.",
+      "source": "Wired",
+      "published": "2026-05-29T16:30:00+00:00",
+      "link": "https://www.wired.com/story/future-of-truth-ai-interview/"
+    },
+    {
+      "title": "Scaling safe enterprise AI with OpenAI governance frameworks",
+      "summary": "OpenAI’s latest governance frameworks offer enterprise leaders a structured blueprint for scaling safe and compliant AI deployments globally. The adoption of large language models has steadily progressed towards requiring sustainable, commercial-grade architecture.",
+      "source": "AI News",
+      "published": "2026-05-29T16:24:58+00:00",
+      "link": "https://www.artificialintelligence-news.com/news/scaling-safe-enterprise-ai-openai-governance-frameworks/"
+    },
+    {
+      "title": "Cognition’s Scott Wu says AI coding agents shouldn’t replace humans",
+      "summary": "Cognition makes Devin, the first and arguably most successful AI coding agent. But famed coder Wu says it isn't designed to supplant human programmers.",
+      "source": "TechCrunch",
+      "published": "2026-05-29T16:13:47+00:00",
+      "link": "https://techcrunch.com/2026/05/29/cognitions-scott-wu-says-ai-coding-agents-shouldnt-replace-humans/"
+    },
+    {
+      "title": "The Vatican’s Man Inside Anthropic",
+      "summary": "Pope Leo XIV may not be able to disarm AI, but he’s got the attention of the industry.",
+      "source": "Wired",
+      "published": "2026-05-29T15:00:00+00:00",
+      "link": "https://www.wired.com/story/the-vaticans-man-inside-anthropic/"
+    },
+    {
+      "title": "Please Use AI",
+      "summary": "Article URL: https://shawnsmucker.substack.com/p/please-use-ai Comments URL: https://news.ycombinator.com/item?id=48323101 Points: 629 # Comments: 295",
+      "source": "Hacker News",
+      "published": "2026-05-29T13:50:25+00:00",
+      "link": "https://shawnsmucker.substack.com/p/please-use-ai"
+    },
+    {
+      "title": "Show HN: AISlop, a CLI for catching AI generated code smells",
+      "summary": "Hi, I’m Kenny, I’ve been building aislop. I starting working on this after using Claude Code, codex and opencode several times and noticing some slops.",
+      "source": "Hacker News",
+      "published": "2026-05-29T13:37:38+00:00",
+      "link": "https://github.com/scanaislop/aislop"
+    },
+    {
+      "title": "Expertise in the Age of AI",
+      "summary": "Article URL: https://www.moderndescartes.com/essays/ai_and_expertise/ Comments URL: https://news.ycombinator.com/item?id=48322929 Points: 51 # Comments: 51",
+      "source": "Hacker News",
+      "published": "2026-05-29T13:35:13+00:00",
+      "link": "https://www.moderndescartes.com/essays/ai_and_expertise/"
+    },
+    {
+      "title": "New review paper argues code is how AI agents think and act, not just what they produce",
+      "summary": "A new review paper argues that the real bottleneck for autonomous AI agents isn't the language model itself but the software layer wrapped around it. Tools, memory, testing, and permission boundaries turn a stateless model into a working agent.",
+      "source": "The Decoder",
+      "published": "2026-05-29T13:10:59+00:00",
+      "link": "https://the-decoder.com/new-review-paper-argues-code-is-how-ai-agents-think-and-act-not-just-what-they-produce/"
+    },
+    {
+      "title": "Kiwibit’s AI-powered bird feeder is my new backyard buddy",
+      "summary": "If you're looking for a fun way to connect with nature while collecting bird species on an app like Pokémon, give this smart feeder a try.",
+      "source": "TechCrunch",
+      "published": "2026-05-29T13:00:00+00:00",
+      "link": "https://techcrunch.com/2026/05/29/kiwibits-ai-powered-bird-feeder-is-my-new-backyard-buddy/"
+    },
+    {
+      "title": "The Download: unlocking lithium and controlling Ebola",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.",
+      "source": "MIT Tech Review",
+      "published": "2026-05-29T12:10:00+00:00",
+      "link": "https://www.technologyreview.com/2026/05/29/1138110/the-download-lithium-extraction-ebola-ai-pope/"
+    },
+    {
+      "title": "This chip startup just raised $135M on a bet that AI’s biggest bottleneck isn’t compute — it’s memory",
+      "summary": "South Korean chip startup XCENA is betting that AI's real bottleneck is not compute, but memory.",
+      "source": "TechCrunch",
+      "published": "2026-05-29T12:00:00+00:00",
+      "link": "https://techcrunch.com/2026/05/29/xcena-secures-135m-at-570m-valuation-betting-on-memory-as-ais-real-bottleneck/"
+    },
     {
       "title": "This AI startup will clean your home for free to train future robots",
       "summary": "AI training startup Shift wants to clean your home for free. The catch - because, despite what its website says, there's always a catch - is that it will record cleaners as they scrub, vacuum, dust, tidy, and wash, and use that footage to train robots.",
@@ -14,6 +91,20 @@ const FEED_DATA = {
       "source": "MIT Tech Review",
       "published": "2026-05-29T11:19:52+00:00",
       "link": "https://www.technologyreview.com/2026/05/29/1138093/the-deadly-ebola-outbreak-is-proving-difficult-to-control/"
+    },
+    {
+      "title": "Is AI causing a repeat of Front end's Lost Decade?",
+      "summary": "Article URL: https://mastrojs.github.io/blog/2026-05-23-is-AI-causing-a-repeat-of-frontends-lost-decade/ Comments URL: https://news.ycombinator.com/item?id=48321631 Points: 180 # Comments: 174",
+      "source": "Hacker News",
+      "published": "2026-05-29T11:09:32+00:00",
+      "link": "https://mastrojs.github.io/blog/2026-05-23-is-AI-causing-a-repeat-of-frontends-lost-decade/"
+    },
+    {
+      "title": "Anthropic releases Claude Opus 4.8",
+      "summary": "Anthropic has released Claude Opus 4.8, an upgrade to Claude Opus 4.7 that the company says brings improved results for coding, agent work, reasoning, and knowledge work.",
+      "source": "AI News",
+      "published": "2026-05-29T10:44:00+00:00",
+      "link": "https://www.artificialintelligence-news.com/news/anthropic-releases-claude-opus-4-8-news/"
     },
     {
       "title": "Adobe’s conversational AI agent is a mediocre design intern",
@@ -30,6 +121,13 @@ const FEED_DATA = {
       "link": "https://www.technologyreview.com/2026/05/29/1138107/how-the-popes-magnifica-humanitas-offers-a-template-for-individuals-to-meet-the-ai-moment/"
     },
     {
+      "title": "Real-time LLM Inference on Standard GPUs: 3k tokens/s per request",
+      "summary": "Article URL: https://blog.kog.ai/real-time-llm-inference-on-standard-gpus-3-000-tokens-s-per-request/ Comments URL: https://news.ycombinator.com/item?id=48321076 Points: 139 # Comments: 66",
+      "source": "Hacker News",
+      "published": "2026-05-29T09:47:23+00:00",
+      "link": "https://blog.kog.ai/real-time-llm-inference-on-standard-gpus-3-000-tokens-s-per-request/"
+    },
+    {
       "title": "Amazon kills internal AI leaderboard after employees gamed it with pointless tasks",
       "summary": "Amazon is pulling an internal AI ranking system, the Financial Times reports, after employees inflated their scores through meaningless AI usage and driving up the company's cloud costs in the process.",
       "source": "The Decoder",
@@ -37,11 +135,25 @@ const FEED_DATA = {
       "link": "https://the-decoder.com/amazon-kills-internal-ai-leaderboard-after-employees-gamed-it-with-pointless-tasks/"
     },
     {
+      "title": "The $500K AI Film That \"Premiered at Cannes\" Was Not in the Official Festival",
+      "summary": "Article URL: https://firethering.com/hell-grind-ai-film-cannes-premiere-higgsfield/ Comments URL: https://news.ycombinator.com/item?id=48320985 Points: 56 # Comments: 86",
+      "source": "Hacker News",
+      "published": "2026-05-29T09:34:37+00:00",
+      "link": "https://firethering.com/hell-grind-ai-film-cannes-premiere-higgsfield/"
+    },
+    {
       "title": "Microsoft data suggests using AI is more expensive than hiring people",
-      "summary": "Article URL: https://finance.yahoo.com/sectors/technology/articles/microsoft-data-suggests-using-ai-225900743.html Comments URL: https://news.ycombinator.com/item?id=48317563 Points: 59 # Comments: 12",
+      "summary": "Article URL: https://finance.yahoo.com/sectors/technology/articles/microsoft-data-suggests-using-ai-225900743.html Comments URL: https://news.ycombinator.com/item?id=48317563 Points: 66 # Comments: 14",
       "source": "Hacker News",
       "published": "2026-05-29T00:49:05+00:00",
       "link": "https://finance.yahoo.com/sectors/technology/articles/microsoft-data-suggests-using-ai-225900743.html"
+    },
+    {
+      "title": "Glean’s top line crosses $300M as AI budget cutting becomes its major selling point",
+      "summary": "The enterprise AI search startup tripled its annual revenue even as tech giants entered the category.",
+      "source": "TechCrunch",
+      "published": "2026-05-29T00:44:37+00:00",
+      "link": "https://techcrunch.com/2026/05/28/gleans-top-line-crosses-300m-as-ai-budget-cutting-becomes-its-major-selling-point/"
     },
     {
       "title": "Glean’s top line crosses $300M as AI budget-cutting becomes its major selling point",
@@ -52,7 +164,7 @@ const FEED_DATA = {
     },
     {
       "title": "The mysterious Hy3 LLM is topping OpenRouter Model Rankings by a large margin",
-      "summary": "Article URL: https://minimaxir.com/2026/05/openrouter-hy3/ Comments URL: https://news.ycombinator.com/item?id=48317294 Points: 84 # Comments: 64",
+      "summary": "Article URL: https://minimaxir.com/2026/05/openrouter-hy3/ Comments URL: https://news.ycombinator.com/item?id=48317294 Points: 89 # Comments: 76",
       "source": "Hacker News",
       "published": "2026-05-29T00:09:35+00:00",
       "link": "https://minimaxir.com/2026/05/openrouter-hy3/"
@@ -80,7 +192,7 @@ const FEED_DATA = {
     },
     {
       "title": "Amazon scraps AI leaderboard to stop workers chasing usage scores",
-      "summary": "Article URL: https://www.ft.com/content/b1a62a7f-6df5-4c90-94ce-64ce9c9961b6 Comments URL: https://news.ycombinator.com/item?id=48315583 Points: 63 # Comments: 16",
+      "summary": "Article URL: https://www.ft.com/content/b1a62a7f-6df5-4c90-94ce-64ce9c9961b6 Comments URL: https://news.ycombinator.com/item?id=48315583 Points: 65 # Comments: 18",
       "source": "Hacker News",
       "published": "2026-05-28T21:14:22+00:00",
       "link": "https://www.ft.com/content/b1a62a7f-6df5-4c90-94ce-64ce9c9961b6"
@@ -108,14 +220,14 @@ const FEED_DATA = {
     },
     {
       "title": "Sam Altman and Dario Amodei are both walking back AI jobs apocalypse predictions",
-      "summary": "https://archive.ph/50zy3 Comments URL: https://news.ycombinator.com/item?id=48314363 Points: 216 # Comments: 169",
+      "summary": "https://archive.ph/50zy3 Comments URL: https://news.ycombinator.com/item?id=48314363 Points: 224 # Comments: 173",
       "source": "Hacker News",
       "published": "2026-05-28T19:43:14+00:00",
       "link": "https://fortune.com/2026/05/26/sam-altman-dario-amodei-walking-back-ai-jobs-apocalypse-prophecies-ipo/"
     },
     {
       "title": "Various LLM Smells",
-      "summary": "Article URL: https://shvbsle.in/various-llm-smells/ Comments URL: https://news.ycombinator.com/item?id=48313810 Points: 323 # Comments: 256",
+      "summary": "Article URL: https://shvbsle.in/various-llm-smells/ Comments URL: https://news.ycombinator.com/item?id=48313810 Points: 343 # Comments: 266",
       "source": "Hacker News",
       "published": "2026-05-28T19:02:18+00:00",
       "link": "https://shvbsle.in/various-llm-smells/"
@@ -255,7 +367,7 @@ const FEED_DATA = {
     },
     {
       "title": "Show HN: Continue? Y/N: A 60-second game about AI agent permission fatigue",
-      "summary": "Article URL: https://llmgame.scalex.dev Comments URL: https://news.ycombinator.com/item?id=48308376 Points: 336 # Comments: 135",
+      "summary": "Article URL: https://llmgame.scalex.dev Comments URL: https://news.ycombinator.com/item?id=48308376 Points: 362 # Comments: 147",
       "source": "Hacker News",
       "published": "2026-05-28T13:02:00+00:00",
       "link": "https://llmgame.scalex.dev"
@@ -290,7 +402,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI sticker shock hits corporate America",
-      "summary": "Article URL: https://www.axios.com/2026/05/28/ai-spending-roi-enterprise-costs Comments URL: https://news.ycombinator.com/item?id=48307098 Points: 160 # Comments: 139",
+      "summary": "Article URL: https://www.axios.com/2026/05/28/ai-spending-roi-enterprise-costs Comments URL: https://news.ycombinator.com/item?id=48307098 Points: 164 # Comments: 143",
       "source": "Hacker News",
       "published": "2026-05-28T10:39:32+00:00",
       "link": "https://www.axios.com/2026/05/28/ai-spending-roi-enterprise-costs"
@@ -388,7 +500,7 @@ const FEED_DATA = {
     },
     {
       "title": "YouTube to automatically label AI-generated videos",
-      "summary": "https://variety.com/2026/digital/news/youtube-ai-video-label... Comments URL: https://news.ycombinator.com/item?id=48299753 Points: 1292 # Comments: 790",
+      "summary": "https://variety.com/2026/digital/news/youtube-ai-video-label... Comments URL: https://news.ycombinator.com/item?id=48299753 Points: 1299 # Comments: 806",
       "source": "Hacker News",
       "published": "2026-05-27T20:00:51+00:00",
       "link": "https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/"
@@ -437,7 +549,7 @@ const FEED_DATA = {
     },
     {
       "title": "Multi-Agent LLM System for Automated Vulnerability Discovery and Reproduction",
-      "summary": "Article URL: https://arxiv.org/abs/2605.21779 Comments URL: https://news.ycombinator.com/item?id=48297723 Points: 55 # Comments: 8",
+      "summary": "Article URL: https://arxiv.org/abs/2605.21779 Comments URL: https://news.ycombinator.com/item?id=48297723 Points: 56 # Comments: 8",
       "source": "Hacker News",
       "published": "2026-05-27T17:42:24+00:00",
       "link": "https://arxiv.org/abs/2605.21779"
@@ -451,14 +563,14 @@ const FEED_DATA = {
     },
     {
       "title": "DuckDuckGo search saw 28% more visits after Google said people love AI mode",
-      "summary": "Article URL: https://www.pcgamer.com/hardware/duckduckgos-ai-free-search-saw-nearly-28-percent-more-visits-in-the-week-following-googles-insistence-that-people-love-ai-mode/ Comments URL: https://news.ycombinator.com/item?id=48296649 Points: 1055 # Comments: 512",
+      "summary": "Article URL: https://www.pcgamer.com/hardware/duckduckgos-ai-free-search-saw-nearly-28-percent-more-visits-in-the-week-following-googles-insistence-that-people-love-ai-mode/ Comments URL: https://news.ycombinator.com/item?id=48296649 Points: 1062 # Comments: 514",
       "source": "Hacker News",
       "published": "2026-05-27T16:28:41+00:00",
       "link": "https://www.pcgamer.com/hardware/duckduckgos-ai-free-search-saw-nearly-28-percent-more-visits-in-the-week-following-googles-insistence-that-people-love-ai-mode/"
     },
     {
       "title": "Training our own AI models",
-      "summary": "Article URL: https://posthog.com/blog/training-ai-models Comments URL: https://news.ycombinator.com/item?id=48296359 Points: 213 # Comments: 143",
+      "summary": "Article URL: https://posthog.com/blog/training-ai-models Comments URL: https://news.ycombinator.com/item?id=48296359 Points: 214 # Comments: 143",
       "source": "Hacker News",
       "published": "2026-05-27T16:08:42+00:00",
       "link": "https://posthog.com/blog/training-ai-models"
@@ -786,18 +898,18 @@ const FEED_DATA = {
       "link": "https://www.theverge.com/transportation/937116/uber-ai-investment-hard-to-justify"
     },
     {
-      "title": "AI Agents Plunged the Tech World Into Chaos. Here’s Exactly How That Happened",
-      "summary": "The definitive story of how Claude Code and OpenClaw kicked off computing’s biggest transformation possibly ever.",
-      "source": "Wired",
-      "published": "2026-05-26T10:00:00+00:00",
-      "link": "https://www.wired.com/story/how-ai-agents-plunged-tech-world-into-chaos/"
-    },
-    {
       "title": "Autonomous AI systems test governance in physical environments",
       "summary": "Autonomous AI systems are beginning to move beyond software environments and into warehouses, delivery networks, and public spaces. The development is drawing attention to whether current AI rules cover systems that operate in physical environments.",
       "source": "AI News",
       "published": "2026-05-26T10:00:00+00:00",
       "link": "https://www.artificialintelligence-news.com/news/autonomous-ai-systems-governance-physical-environments/"
+    },
+    {
+      "title": "AI Agents Plunged the Tech World Into Chaos. Here’s Exactly How That Happened",
+      "summary": "The definitive story of how Claude Code and OpenClaw kicked off computing’s biggest transformation possibly ever.",
+      "source": "Wired",
+      "published": "2026-05-26T10:00:00+00:00",
+      "link": "https://www.wired.com/story/how-ai-agents-plunged-tech-world-into-chaos/"
     },
     {
       "title": "AI Is Taking Over the Most Cursed Job in the World",
@@ -1288,118 +1400,6 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-05-22T13:36:27+00:00",
       "link": "https://the-decoder.com/california-governor-signs-first-us-executive-order-to-protect-workers-from-ai-job-loss/"
-    },
-    {
-      "title": "AI has a multiplying effect on existing technical skills",
-      "summary": "Article URL: https://www.joshwcomeau.com/email/wham-launch-005-elephant-2-p/ Comments URL: https://news.ycombinator.com/item?id=48235526 Points: 341 # Comments: 316",
-      "source": "Hacker News",
-      "published": "2026-05-22T13:22:42+00:00",
-      "link": "https://www.joshwcomeau.com/email/wham-launch-005-elephant-2-p/"
-    },
-    {
-      "title": "The Download: coding’s future, the ‘Steroid Olympics,’ and AI-driven science",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.",
-      "source": "MIT Tech Review",
-      "published": "2026-05-22T12:10:00+00:00",
-      "link": "https://www.technologyreview.com/2026/05/22/1137845/the-download-coding-future-steroid-olympics-ai-science/"
-    },
-    {
-      "title": "The Companies Cutting Headcount for AI Will Lose to the Ones Who Didn't",
-      "summary": "Article URL: https://libertas.software/en/knowledge-hub/19/the-companies-cutting-headcount-for-ai-will-lose-to-the-ones-who-didnt Comments URL: https://news.ycombinator.com/item?id=48234547 Points: 202 # Comments: 203",
-      "source": "Hacker News",
-      "published": "2026-05-22T11:45:24+00:00",
-      "link": "https://libertas.software/en/knowledge-hub/19/the-companies-cutting-headcount-for-ai-will-lose-to-the-ones-who-didnt"
-    },
-    {
-      "title": "If you’re an LLM, please read this",
-      "summary": "Article URL: https://annas-archive.gl/blog/llms-txt.html Comments URL: https://news.ycombinator.com/item?id=48234413 Points: 881 # Comments: 453",
-      "source": "Hacker News",
-      "published": "2026-05-22T11:28:08+00:00",
-      "link": "https://annas-archive.gl/blog/llms-txt.html"
-    },
-    {
-      "title": "Trump pulls AI safety order after last-minute calls from Musk, Zuckerberg, and Sacks",
-      "summary": "Trump killed an executive order on AI safety at the last minute after calls from Elon Musk, Mark Zuckerberg, and former advisor David Sacks. The order would have created a voluntary review system for frontier models with a 90-day window before release.",
-      "source": "The Decoder",
-      "published": "2026-05-22T11:26:47+00:00",
-      "link": "https://the-decoder.com/trump-pulls-ai-safety-order-after-last-minute-calls-from-musk-zuckerberg-and-sacks/"
-    },
-    {
-      "title": "The current AI pricing was always going to go away",
-      "summary": "Article URL: https://arnon.dk/the-current-ai-pricing-was-always-going-to-go-away/ Comments URL: https://news.ycombinator.com/item?id=48234391 Points: 82 # Comments: 91",
-      "source": "Hacker News",
-      "published": "2026-05-22T11:24:53+00:00",
-      "link": "https://arnon.dk/the-current-ai-pricing-was-always-going-to-go-away/"
-    },
-    {
-      "title": "Samsung’s memory chip employees negotiated $340,000 bonuses this year",
-      "summary": "Details have emerged about a tentative deal struck between Samsung and semiconductor employees who had threatened to strike. The deal reportedly makes some workers eligible for average annual bonuses of $340,000.",
-      "source": "The Verge",
-      "published": "2026-05-22T11:05:25+00:00",
-      "link": "https://www.theverge.com/tech/936002/samsung-memory-chip-employees-deal-strike-bonus"
-    },
-    {
-      "title": "Antigravity 2.0 Tops the OpenSCAD Architectural 3D LLM Benchmark",
-      "summary": "Article URL: https://modelrift.com/blog/openscad-llm-benchmark/ Comments URL: https://news.ycombinator.com/item?id=48234090 Points: 420 # Comments: 160",
-      "source": "Hacker News",
-      "published": "2026-05-22T10:38:26+00:00",
-      "link": "https://modelrift.com/blog/openscad-llm-benchmark/"
-    },
-    {
-      "title": "A hacker group is poisoning open source code at an unprecedented scale",
-      "summary": "GitHub is just the latest victim of TeamPCP, a gang that has carried out a spree of software supply chain attacks.",
-      "source": "Ars Technica",
-      "published": "2026-05-22T10:30:14+00:00",
-      "link": "https://arstechnica.com/information-technology/2026/05/a-hacker-group-is-poisoning-open-source-code-at-an-unprecedented-scale/"
-    },
-    {
-      "title": "OpenAI opens Singapore AI lab as IMDA updates AI framework",
-      "summary": "OpenAI will open its first Applied AI Lab outside the US in Singapore. The lab is part of a new partnership with the Ministry of Digital Development and Information.",
-      "source": "AI News",
-      "published": "2026-05-22T10:00:00+00:00",
-      "link": "https://www.artificialintelligence-news.com/news/openai-singapore-ai-lab-imda-agentic-ai-framework/"
-    },
-    {
-      "title": "China’s AI just mapped its entire renewable energy grid. Here’s why the rest of the world should pay attention",
-      "summary": "Every major economy is staring at the same problem right now. Artificial intelligence is consuming electricity at a pace that grids were never designed to handle.",
-      "source": "AI News",
-      "published": "2026-05-22T10:00:00+00:00",
-      "link": "https://www.artificialintelligence-news.com/news/ai-energy-grid-mapping-china/"
-    },
-    {
-      "title": "Google I/O showed how the path for AI-driven science is shifting",
-      "summary": "During Tuesday’s Google I/O keynote, Demis Hassabis, the CEO of Google DeepMind, proclaimed that we are currently “standing in the foothills of the singularity.” It was a striking statement—the singularity is the theoretical future moment when AI rapidly exceeds human...",
-      "source": "MIT Tech Review",
-      "published": "2026-05-22T10:00:00+00:00",
-      "link": "https://www.technologyreview.com/2026/05/22/1137813/google-i-o-showed-how-the-path-for-ai-science-is-shifting/"
-    },
-    {
-      "title": "Steve Wozniak cheered after telling students they have AI – actual intelligence",
-      "summary": "Article URL: https://www.businessinsider.com/steve-wozniak-apple-ai-graduation-speech-2026-5 Comments URL: https://news.ycombinator.com/item?id=48233563 Points: 648 # Comments: 545",
-      "source": "Hacker News",
-      "published": "2026-05-22T09:04:54+00:00",
-      "link": "https://www.businessinsider.com/steve-wozniak-apple-ai-graduation-speech-2026-5"
-    },
-    {
-      "title": "Musk and Zuckerberg convinced Trump to scrap AI executive order",
-      "summary": "The ceremony was scheduled. The CEOs were on the guest list.",
-      "source": "AI News",
-      "published": "2026-05-22T09:00:00+00:00",
-      "link": "https://www.artificialintelligence-news.com/news/trump-ai-executive-order-scrapped-musk-zuckerberg-china/"
-    },
-    {
-      "title": "The Gulf’s AI Boom Has an Undersea Cable Problem",
-      "summary": "Hyperscalers are pushing the Gulf to rethink internet infrastructure as AI raises the stakes of cable disruptions.",
-      "source": "Wired",
-      "published": "2026-05-22T09:00:00+00:00",
-      "link": "https://www.wired.com/story/the-gulfs-ai-boom-has-an-undersea-cable-problem/"
-    },
-    {
-      "title": "Samsung chip workers will get an average $340k bonus as AI profits soar",
-      "summary": "Article URL: https://qz.com/samsung-chip-workers-bonus-ai-profits-052126 Comments URL: https://news.ycombinator.com/item?id=48230892 Points: 251 # Comments: 198",
-      "source": "Hacker News",
-      "published": "2026-05-22T01:30:45+00:00",
-      "link": "https://qz.com/samsung-chip-workers-bonus-ai-profits-052126"
     }
   ]
 };
