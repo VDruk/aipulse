@@ -1,6 +1,41 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-05-30T07:41:53.950645+00:00",
+  "lastUpdated": "2026-05-30T10:41:37.643522+00:00",
   "items": [
+    {
+      "title": "Attackers abuse shared ChatGPT and Claude chats to spread malware",
+      "summary": "Attackers are exploiting the chat-sharing features in ChatGPT and Claude to spread malware through shared conversations. The chats mimic error messages or install guides and slip past security tools undetected because they're hosted on trusted domains.",
+      "source": "The Decoder",
+      "published": "2026-05-30T10:32:22+00:00",
+      "link": "https://the-decoder.com/attackers-abuse-shared-chatgpt-and-claude-chats-to-spread-malware/"
+    },
+    {
+      "title": "OpenAI's Codex can now operate your Windows PC autonomously, hunting bugs and testing apps on its own",
+      "summary": "OpenAI's Codex app now runs on Windows 11 with \"Computer Use\": the AI can independently control programs, test apps, and hunt for bugs. When no one's at the PC, the ChatGPT mobile app lets users start and monitor tasks remotely from their phone.",
+      "source": "The Decoder",
+      "published": "2026-05-30T10:16:39+00:00",
+      "link": "https://the-decoder.com/openais-codex-can-now-operate-your-windows-pc-autonomously-hunting-bugs-and-testing-apps-on-its-own/"
+    },
+    {
+      "title": "Salesforce claims AI agents cut a 231-day migration to 13 days with fewer incidents",
+      "summary": "Salesforce says it moved its entire dev org to Anthropic's Claude Code with no token limits and reports massive productivity gains for April 2026: 79 percent more pull requests per developer, five percent fewer incidents. The numbers can't be independently verified.",
+      "source": "The Decoder",
+      "published": "2026-05-30T09:32:57+00:00",
+      "link": "https://the-decoder.com/salesforce-claims-ai-agents-cut-a-231-day-migration-to-13-days-with-fewer-incidents/"
+    },
+    {
+      "title": "Do You Actually Need to Pay for Transcription Software?",
+      "summary": "I tested Wispr Flow and various AI-powered transcription software to see whether you should bother subscribing or stick with free services.",
+      "source": "Wired",
+      "published": "2026-05-30T09:30:00+00:00",
+      "link": "https://www.wired.com/story/do-you-actually-need-to-pay-for-transcription-software/"
+    },
+    {
+      "title": "Meta's leaked memo reveals AI pendant, supersensing glasses, and enterprise wearables strategy",
+      "summary": "Meta has poured billions into AI with little commercial payoff so far. Its open-source strategy hasn't panned out, and research breakthroughs haven't turned into shipping products.",
+      "source": "The Decoder",
+      "published": "2026-05-30T08:37:42+00:00",
+      "link": "https://the-decoder.com/metas-leaked-memo-reveals-ai-pendant-supersensing-glasses-and-enterprise-wearables-strategy/"
+    },
     {
       "title": "Coders are refusing to work without AI — and that could come back to bite them",
       "summary": "While AI is helping coders produce code faster, it may not be producing better code, researchers warn. And that could cause problems down the road for them.",
@@ -14,6 +49,13 @@ const FEED_DATA = {
       "source": "Wired",
       "published": "2026-05-29T20:56:59+00:00",
       "link": "https://www.wired.com/story/story/amazon-is-making-an-ai-animated-good-advice-cupcake-tv-show-its-original-creator-is-furious/"
+    },
+    {
+      "title": "Show HN: Tiny-vLLM – high performance LLM inference engine in C++ and CUDA",
+      "summary": "Article URL: https://github.com/jmaczan/tiny-vllm Comments URL: https://news.ycombinator.com/item?id=48328184 Points: 149 # Comments: 13",
+      "source": "Hacker News",
+      "published": "2026-05-29T19:38:27+00:00",
+      "link": "https://github.com/jmaczan/tiny-vllm"
     },
     {
       "title": "Hands-On With Gemini Spark: I Gave It Access to My Life and It Friend-Zoned My Boyfriend",
@@ -52,7 +94,7 @@ const FEED_DATA = {
     },
     {
       "title": "Robinhood now lets your AI agents trade stocks",
-      "summary": "Article URL: https://techcrunch.com/2026/05/27/robinhood-now-lets-your-ai-agents-trade-stocks/ Comments URL: https://news.ycombinator.com/item?id=48326659 Points: 85 # Comments: 154",
+      "summary": "Article URL: https://techcrunch.com/2026/05/27/robinhood-now-lets-your-ai-agents-trade-stocks/ Comments URL: https://news.ycombinator.com/item?id=48326659 Points: 100 # Comments: 171",
       "source": "Hacker News",
       "published": "2026-05-29T17:46:27+00:00",
       "link": "https://techcrunch.com/2026/05/27/robinhood-now-lets-your-ai-agents-trade-stocks/"
@@ -107,6 +149,13 @@ const FEED_DATA = {
       "link": "https://www.artificialintelligence-news.com/news/scaling-safe-enterprise-ai-openai-governance-frameworks/"
     },
     {
+      "title": "Notes from the Mistral AI Now Summit",
+      "summary": "Article URL: https://koenvangilst.nl/lab/mistral-ai-now-summit Comments URL: https://news.ycombinator.com/item?id=48325340 Points: 383 # Comments: 161",
+      "source": "Hacker News",
+      "published": "2026-05-29T16:22:01+00:00",
+      "link": "https://koenvangilst.nl/lab/mistral-ai-now-summit"
+    },
+    {
       "title": "Notes from the Mistral AI Now Summit in Paris",
       "summary": "Article URL: https://koenvangilst.nl/lab/mistral-ai-now-summit Comments URL: https://news.ycombinator.com/item?id=48325340 Points: 282 # Comments: 91",
       "source": "Hacker News",
@@ -115,7 +164,7 @@ const FEED_DATA = {
     },
     {
       "title": "Liquid AI reveals 8B-A1B MoE trained on 38T",
-      "summary": "Article URL: https://www.liquid.ai/blog/lfm2-5-8b-a1b Comments URL: https://news.ycombinator.com/item?id=48325306 Points: 121 # Comments: 37",
+      "summary": "Article URL: https://www.liquid.ai/blog/lfm2-5-8b-a1b Comments URL: https://news.ycombinator.com/item?id=48325306 Points: 190 # Comments: 75",
       "source": "Hacker News",
       "published": "2026-05-29T16:19:54+00:00",
       "link": "https://www.liquid.ai/blog/lfm2-5-8b-a1b"
@@ -129,7 +178,7 @@ const FEED_DATA = {
     },
     {
       "title": "CAPTCHAs can still detect AI agents",
-      "summary": "Article URL: https://research.roundtable.ai/captchas-detect-ai/ Comments URL: https://news.ycombinator.com/item?id=48324910 Points: 55 # Comments: 45",
+      "summary": "Article URL: https://research.roundtable.ai/captchas-detect-ai/ Comments URL: https://news.ycombinator.com/item?id=48324910 Points: 75 # Comments: 61",
       "source": "Hacker News",
       "published": "2026-05-29T15:57:37+00:00",
       "link": "https://research.roundtable.ai/captchas-detect-ai/"
@@ -150,7 +199,7 @@ const FEED_DATA = {
     },
     {
       "title": "Please Use AI",
-      "summary": "Article URL: https://shawnsmucker.substack.com/p/please-use-ai Comments URL: https://news.ycombinator.com/item?id=48323101 Points: 699 # Comments: 358",
+      "summary": "Article URL: https://shawnsmucker.substack.com/p/please-use-ai Comments URL: https://news.ycombinator.com/item?id=48323101 Points: 746 # Comments: 379",
       "source": "Hacker News",
       "published": "2026-05-29T13:50:25+00:00",
       "link": "https://shawnsmucker.substack.com/p/please-use-ai"
@@ -164,7 +213,7 @@ const FEED_DATA = {
     },
     {
       "title": "Expertise in the age of AI",
-      "summary": "Article URL: https://www.moderndescartes.com/essays/ai_and_expertise/ Comments URL: https://news.ycombinator.com/item?id=48322929 Points: 95 # Comments: 94",
+      "summary": "Article URL: https://www.moderndescartes.com/essays/ai_and_expertise/ Comments URL: https://news.ycombinator.com/item?id=48322929 Points: 114 # Comments: 101",
       "source": "Hacker News",
       "published": "2026-05-29T13:35:13+00:00",
       "link": "https://www.moderndescartes.com/essays/ai_and_expertise/"
@@ -213,7 +262,7 @@ const FEED_DATA = {
     },
     {
       "title": "Is AI causing a repeat of frontend’s lost decade?",
-      "summary": "Article URL: https://mastrojs.github.io/blog/2026-05-23-is-AI-causing-a-repeat-of-frontends-lost-decade/ Comments URL: https://news.ycombinator.com/item?id=48321631 Points: 252 # Comments: 215",
+      "summary": "Article URL: https://mastrojs.github.io/blog/2026-05-23-is-AI-causing-a-repeat-of-frontends-lost-decade/ Comments URL: https://news.ycombinator.com/item?id=48321631 Points: 357 # Comments: 297",
       "source": "Hacker News",
       "published": "2026-05-29T11:09:32+00:00",
       "link": "https://mastrojs.github.io/blog/2026-05-23-is-AI-causing-a-repeat-of-frontends-lost-decade/"
@@ -248,7 +297,7 @@ const FEED_DATA = {
     },
     {
       "title": "Real-time LLM Inference on Standard GPUs: 3k tokens/s per request",
-      "summary": "Article URL: https://blog.kog.ai/real-time-llm-inference-on-standard-gpus-3-000-tokens-s-per-request/ Comments URL: https://news.ycombinator.com/item?id=48321076 Points: 193 # Comments: 88",
+      "summary": "Article URL: https://blog.kog.ai/real-time-llm-inference-on-standard-gpus-3-000-tokens-s-per-request/ Comments URL: https://news.ycombinator.com/item?id=48321076 Points: 204 # Comments: 91",
       "source": "Hacker News",
       "published": "2026-05-29T09:47:23+00:00",
       "link": "https://blog.kog.ai/real-time-llm-inference-on-standard-gpus-3-000-tokens-s-per-request/"
@@ -269,7 +318,7 @@ const FEED_DATA = {
     },
     {
       "title": "Undisclosed addition in jqwik instructed AI coding agents to delete app output",
-      "summary": "Article URL: https://arstechnica.com/security/2026/05/fed-up-with-vibe-coders-dev-sneaks-data-nuking-prompt-injection-into-their-code/ Comments URL: https://news.ycombinator.com/item?id=48319968 Points: 56 # Comments: 1",
+      "summary": "Article URL: https://arstechnica.com/security/2026/05/fed-up-with-vibe-coders-dev-sneaks-data-nuking-prompt-injection-into-their-code/ Comments URL: https://news.ycombinator.com/item?id=48319968 Points: 58 # Comments: 1",
       "source": "Hacker News",
       "published": "2026-05-29T07:05:31+00:00",
       "link": "https://arstechnica.com/security/2026/05/fed-up-with-vibe-coders-dev-sneaks-data-nuking-prompt-injection-into-their-code/"
@@ -297,7 +346,7 @@ const FEED_DATA = {
     },
     {
       "title": "The mysterious Hy3 LLM is topping OpenRouter Model Rankings by a large margin",
-      "summary": "Article URL: https://minimaxir.com/2026/05/openrouter-hy3/ Comments URL: https://news.ycombinator.com/item?id=48317294 Points: 92 # Comments: 88",
+      "summary": "Article URL: https://minimaxir.com/2026/05/openrouter-hy3/ Comments URL: https://news.ycombinator.com/item?id=48317294 Points: 133 # Comments: 103",
       "source": "Hacker News",
       "published": "2026-05-29T00:09:35+00:00",
       "link": "https://minimaxir.com/2026/05/openrouter-hy3/"
@@ -325,7 +374,7 @@ const FEED_DATA = {
     },
     {
       "title": "Amazon scraps AI leaderboard to stop workers chasing usage scores",
-      "summary": "Article URL: https://www.ft.com/content/b1a62a7f-6df5-4c90-94ce-64ce9c9961b6 Comments URL: https://news.ycombinator.com/item?id=48315583 Points: 71 # Comments: 19",
+      "summary": "Article URL: https://www.ft.com/content/b1a62a7f-6df5-4c90-94ce-64ce9c9961b6 Comments URL: https://news.ycombinator.com/item?id=48315583 Points: 72 # Comments: 19",
       "source": "Hacker News",
       "published": "2026-05-28T21:14:22+00:00",
       "link": "https://www.ft.com/content/b1a62a7f-6df5-4c90-94ce-64ce9c9961b6"
@@ -353,14 +402,14 @@ const FEED_DATA = {
     },
     {
       "title": "Sam Altman and Dario Amodei are both walking back AI jobs apocalypse predictions",
-      "summary": "https://archive.ph/50zy3 Comments URL: https://news.ycombinator.com/item?id=48314363 Points: 229 # Comments: 175",
+      "summary": "https://archive.ph/50zy3 Comments URL: https://news.ycombinator.com/item?id=48314363 Points: 232 # Comments: 178",
       "source": "Hacker News",
       "published": "2026-05-28T19:43:14+00:00",
       "link": "https://fortune.com/2026/05/26/sam-altman-dario-amodei-walking-back-ai-jobs-apocalypse-prophecies-ipo/"
     },
     {
       "title": "Various LLM Smells",
-      "summary": "Article URL: https://shvbsle.in/various-llm-smells/ Comments URL: https://news.ycombinator.com/item?id=48313810 Points: 351 # Comments: 276",
+      "summary": "Article URL: https://shvbsle.in/various-llm-smells/ Comments URL: https://news.ycombinator.com/item?id=48313810 Points: 357 # Comments: 284",
       "source": "Hacker News",
       "published": "2026-05-28T19:02:18+00:00",
       "link": "https://shvbsle.in/various-llm-smells/"
@@ -500,7 +549,7 @@ const FEED_DATA = {
     },
     {
       "title": "Show HN: Continue? Y/N: A 60-second game about AI agent permission fatigue",
-      "summary": "Article URL: https://llmgame.scalex.dev Comments URL: https://news.ycombinator.com/item?id=48308376 Points: 368 # Comments: 149",
+      "summary": "Article URL: https://llmgame.scalex.dev Comments URL: https://news.ycombinator.com/item?id=48308376 Points: 376 # Comments: 155",
       "source": "Hacker News",
       "published": "2026-05-28T13:02:00+00:00",
       "link": "https://llmgame.scalex.dev"
@@ -535,7 +584,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI sticker shock hits corporate America",
-      "summary": "Article URL: https://www.axios.com/2026/05/28/ai-spending-roi-enterprise-costs Comments URL: https://news.ycombinator.com/item?id=48307098 Points: 166 # Comments: 143",
+      "summary": "Article URL: https://www.axios.com/2026/05/28/ai-spending-roi-enterprise-costs Comments URL: https://news.ycombinator.com/item?id=48307098 Points: 167 # Comments: 143",
       "source": "Hacker News",
       "published": "2026-05-28T10:39:32+00:00",
       "link": "https://www.axios.com/2026/05/28/ai-spending-roi-enterprise-costs"
@@ -591,7 +640,7 @@ const FEED_DATA = {
     },
     {
       "title": "A Eureka machine that thinks like nature and explores what AI cannot",
-      "summary": "Article URL: https://iisc.ac.in/a-eureka-machine-that-thinks-like-nature-and-explores-what-ai-cannot/ Comments URL: https://news.ycombinator.com/item?id=48305446 Points: 145 # Comments: 44",
+      "summary": "Article URL: https://iisc.ac.in/a-eureka-machine-that-thinks-like-nature-and-explores-what-ai-cannot/ Comments URL: https://news.ycombinator.com/item?id=48305446 Points: 146 # Comments: 44",
       "source": "Hacker News",
       "published": "2026-05-28T06:40:31+00:00",
       "link": "https://iisc.ac.in/a-eureka-machine-that-thinks-like-nature-and-explores-what-ai-cannot/"
@@ -1351,55 +1400,6 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-05-23T07:42:10+00:00",
       "link": "https://the-decoder.com/anthropic-warns-claude-mythos-preview-finds-bugs-faster-than-developers-can-patch-them/"
-    },
-    {
-      "title": "Microsoft reports AI is more expensive than paying human employees",
-      "summary": "Article URL: https://fortune.com/2026/05/22/microsoft-ai-cost-problem-tokens-agents/ Comments URL: https://news.ycombinator.com/item?id=48244434 Points: 229 # Comments: 71",
-      "source": "Hacker News",
-      "published": "2026-05-23T03:44:16+00:00",
-      "link": "https://fortune.com/2026/05/22/microsoft-ai-cost-problem-tokens-agents/"
-    },
-    {
-      "title": "Is AI Profitable Yet?",
-      "summary": "Article URL: https://isaiprofitable.com/ Comments URL: https://news.ycombinator.com/item?id=48243863 Points: 266 # Comments: 206",
-      "source": "Hacker News",
-      "published": "2026-05-23T02:10:38+00:00",
-      "link": "https://isaiprofitable.com/"
-    },
-    {
-      "title": "AI is being used to resurrect the voices of dead pilots",
-      "summary": "People used AI on a spectrogram image of cockpit recordings to reconstruct them, forcing the NTSB to temporarily block access to its docket system.",
-      "source": "TechCrunch",
-      "published": "2026-05-22T23:03:33+00:00",
-      "link": "https://techcrunch.com/2026/05/22/ai-is-being-used-to-resurrect-the-voices-of-dead-pilots/"
-    },
-    {
-      "title": "Don't just paste the AI at me",
-      "summary": "Article URL: https://dontquotetheai.com/ Comments URL: https://news.ycombinator.com/item?id=48242648 Points: 181 # Comments: 113",
-      "source": "Hacker News",
-      "published": "2026-05-22T22:57:58+00:00",
-      "link": "https://dontquotetheai.com/"
-    },
-    {
-      "title": "How VCs and founders use inflated ‘ARR’ to crown AI startups",
-      "summary": "Some AI startups are stretching traditional revenue metrics when talking about progress publicly. And their investors are fully aware.",
-      "source": "TechCrunch",
-      "published": "2026-05-22T20:40:48+00:00",
-      "link": "https://techcrunch.com/2026/05/22/how-vcs-and-founders-use-inflated-arr-to-kingmake-ai-startups/"
-    },
-    {
-      "title": "Google’s AI search is so broken it can ‘disregard’ what you’re looking for",
-      "summary": "Google's AI Overviews are running into an interesting problem right now.",
-      "source": "The Verge",
-      "published": "2026-05-22T20:39:54+00:00",
-      "link": "https://www.theverge.com/tech/936176/google-ai-overviews-search-disregard"
-    },
-    {
-      "title": "AI keeps inventing fake cases. Lawyers keep citing them",
-      "summary": "Article URL: https://www.scientificamerican.com/article/why-lawyers-keep-citing-fake-cases-invented-by-ai/ Comments URL: https://news.ycombinator.com/item?id=48241179 Points: 70 # Comments: 8",
-      "source": "Hacker News",
-      "published": "2026-05-22T20:26:29+00:00",
-      "link": "https://www.scientificamerican.com/article/why-lawyers-keep-citing-fake-cases-invented-by-ai/"
     }
   ]
 };
