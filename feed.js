@@ -1,5 +1,5 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-05-29T22:24:28.709527+00:00",
+  "lastUpdated": "2026-05-30T04:52:05.243586+00:00",
   "items": [
     {
       "title": "Coders are refusing to work without AI — and that could come back to bite them",
