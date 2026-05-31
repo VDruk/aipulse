@@ -1,6 +1,34 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-05-31T08:15:41.292717+00:00",
+  "lastUpdated": "2026-05-31T10:50:14.702401+00:00",
   "items": [
+    {
+      "title": "Anthropic bans AI tools during job interviews to see how candidates actually think",
+      "summary": "Anthropic bans AI during job interviews and runs candidates through up to five rounds testing skills, values, and ethical thinking. Salaries go up to $850,000, and some applicants pay $4,600 for prep coaching run anonymously by current AI company employees.",
+      "source": "The Decoder",
+      "published": "2026-05-31T10:10:14+00:00",
+      "link": "https://the-decoder.com/anthropic-bans-ai-tools-during-job-interviews-to-see-how-candidates-actually-think/"
+    },
+    {
+      "title": "Anthropic study finds men use AI coding agents more than twice as often as women in social science research",
+      "summary": "Researchers with typically male names use coding agents more than twice as often as those with typically female names, even within the same discipline and career level, according to an Anthropic study.",
+      "source": "The Decoder",
+      "published": "2026-05-31T09:42:11+00:00",
+      "link": "https://the-decoder.com/anthropic-study-finds-men-use-ai-coding-agents-more-than-twice-as-often-as-women-in-social-science-research/"
+    },
+    {
+      "title": "How Turkey Hacked the Hair Transplant Industry",
+      "summary": "From specialized motors to the use of machine learning algorithms, Turkey’s billion-dollar hair-transplant industry is the result of a constant process of innovation.",
+      "source": "Wired",
+      "published": "2026-05-31T09:00:00+00:00",
+      "link": "https://www.wired.com/story/how-turkey-hacked-the-hair-transplant-industry/"
+    },
+    {
+      "title": "SoftBank plans 75 billion euro AI data center buildout in France",
+      "summary": "SoftBank plans to build AI data centers with up to 5 gigawatts of capacity in France, the company's largest AI infrastructure investment in Europe, at up to 75 billion euros. By 2031, facilities worth 45 billion euros are set to go up at three sites in northern France.",
+      "source": "The Decoder",
+      "published": "2026-05-31T08:45:46+00:00",
+      "link": "https://the-decoder.com/softbank-plans-75-billion-euro-ai-data-center-buildout-in-france/"
+    },
     {
       "title": "AI search agents often confirm what they already know instead of actually researching the web",
       "summary": "Leading AI search agents like GPT-5.4 and Kimi K2.6 don't appear to do much actual research on established benchmarks. They mostly just use the web to confirm what they already learned during training.",
@@ -31,7 +59,7 @@ const FEED_DATA = {
     },
     {
       "title": "To have a moral stance on AI is to be an outcast, and it sucks",
-      "summary": "Article URL: https://musings.martyn.berlin/to-have-a-moral-stance-on-ai-is-to-be-an-outcast-and-it-sucks Comments URL: https://news.ycombinator.com/item?id=48337676 Points: 129 # Comments: 286",
+      "summary": "Article URL: https://musings.martyn.berlin/to-have-a-moral-stance-on-ai-is-to-be-an-outcast-and-it-sucks Comments URL: https://news.ycombinator.com/item?id=48337676 Points: 131 # Comments: 291",
       "source": "Hacker News",
       "published": "2026-05-30T16:04:00+00:00",
       "link": "https://musings.martyn.berlin/to-have-a-moral-stance-on-ai-is-to-be-an-outcast-and-it-sucks"
@@ -52,7 +80,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI job grief: A psychological crisis hitting tech workers",
-      "summary": "Article URL: https://jackmaguire.org/blog/ai-job-grief/ Comments URL: https://news.ycombinator.com/item?id=48336760 Points: 143 # Comments: 136",
+      "summary": "Article URL: https://jackmaguire.org/blog/ai-job-grief/ Comments URL: https://news.ycombinator.com/item?id=48336760 Points: 153 # Comments: 151",
       "source": "Hacker News",
       "published": "2026-05-30T14:41:26+00:00",
       "link": "https://jackmaguire.org/blog/ai-job-grief/"
@@ -66,7 +94,7 @@ const FEED_DATA = {
     },
     {
       "title": "Anthropic surpasses OpenAI to become most valuable AI startup",
-      "summary": "Article URL: https://qazinform.com/news/anthropic-surpasses-openai-to-become-worlds-most-valuable-ai-startup Comments URL: https://news.ycombinator.com/item?id=48336233 Points: 400 # Comments: 457",
+      "summary": "Article URL: https://qazinform.com/news/anthropic-surpasses-openai-to-become-worlds-most-valuable-ai-startup Comments URL: https://news.ycombinator.com/item?id=48336233 Points: 406 # Comments: 459",
       "source": "Hacker News",
       "published": "2026-05-30T13:56:34+00:00",
       "link": "https://qazinform.com/news/anthropic-surpasses-openai-to-become-worlds-most-valuable-ai-startup"
@@ -101,7 +129,7 @@ const FEED_DATA = {
     },
     {
       "title": "Corporate America Is Starting to Ration AI as Cost Skyrockets",
-      "summary": "Article URL: https://www.wsj.com/tech/ai/corporate-america-is-starting-to-ration-ai-as-cost-skyrockets-1eb99d7a Comments URL: https://news.ycombinator.com/item?id=48335388 Points: 165 # Comments: 155",
+      "summary": "Article URL: https://www.wsj.com/tech/ai/corporate-america-is-starting-to-ration-ai-as-cost-skyrockets-1eb99d7a Comments URL: https://news.ycombinator.com/item?id=48335388 Points: 170 # Comments: 156",
       "source": "Hacker News",
       "published": "2026-05-30T12:17:33+00:00",
       "link": "https://www.wsj.com/tech/ai/corporate-america-is-starting-to-ration-ai-as-cost-skyrockets-1eb99d7a"
@@ -262,7 +290,7 @@ const FEED_DATA = {
     },
     {
       "title": "Notes from the Mistral AI Now Summit",
-      "summary": "Article URL: https://koenvangilst.nl/lab/mistral-ai-now-summit Comments URL: https://news.ycombinator.com/item?id=48325340 Points: 457 # Comments: 200",
+      "summary": "Article URL: https://koenvangilst.nl/lab/mistral-ai-now-summit Comments URL: https://news.ycombinator.com/item?id=48325340 Points: 458 # Comments: 200",
       "source": "Hacker News",
       "published": "2026-05-29T16:22:01+00:00",
       "link": "https://koenvangilst.nl/lab/mistral-ai-now-summit"
@@ -276,7 +304,7 @@ const FEED_DATA = {
     },
     {
       "title": "Liquid AI reveals 8B-A1B MoE trained on 38T",
-      "summary": "Article URL: https://www.liquid.ai/blog/lfm2-5-8b-a1b Comments URL: https://news.ycombinator.com/item?id=48325306 Points: 241 # Comments: 94",
+      "summary": "Article URL: https://www.liquid.ai/blog/lfm2-5-8b-a1b Comments URL: https://news.ycombinator.com/item?id=48325306 Points: 242 # Comments: 94",
       "source": "Hacker News",
       "published": "2026-05-29T16:19:54+00:00",
       "link": "https://www.liquid.ai/blog/lfm2-5-8b-a1b"
@@ -290,7 +318,7 @@ const FEED_DATA = {
     },
     {
       "title": "CAPTCHAs can still detect AI agents",
-      "summary": "Article URL: https://research.roundtable.ai/captchas-detect-ai/ Comments URL: https://news.ycombinator.com/item?id=48324910 Points: 83 # Comments: 64",
+      "summary": "Article URL: https://research.roundtable.ai/captchas-detect-ai/ Comments URL: https://news.ycombinator.com/item?id=48324910 Points: 83 # Comments: 65",
       "source": "Hacker News",
       "published": "2026-05-29T15:57:37+00:00",
       "link": "https://research.roundtable.ai/captchas-detect-ai/"
@@ -311,7 +339,7 @@ const FEED_DATA = {
     },
     {
       "title": "Please Use AI",
-      "summary": "Article URL: https://shawnsmucker.substack.com/p/please-use-ai Comments URL: https://news.ycombinator.com/item?id=48323101 Points: 772 # Comments: 390",
+      "summary": "Article URL: https://shawnsmucker.substack.com/p/please-use-ai Comments URL: https://news.ycombinator.com/item?id=48323101 Points: 772 # Comments: 391",
       "source": "Hacker News",
       "published": "2026-05-29T13:50:25+00:00",
       "link": "https://shawnsmucker.substack.com/p/please-use-ai"
@@ -325,7 +353,7 @@ const FEED_DATA = {
     },
     {
       "title": "Expertise in the age of AI",
-      "summary": "Article URL: https://www.moderndescartes.com/essays/ai_and_expertise/ Comments URL: https://news.ycombinator.com/item?id=48322929 Points: 123 # Comments: 105",
+      "summary": "Article URL: https://www.moderndescartes.com/essays/ai_and_expertise/ Comments URL: https://news.ycombinator.com/item?id=48322929 Points: 124 # Comments: 106",
       "source": "Hacker News",
       "published": "2026-05-29T13:35:13+00:00",
       "link": "https://www.moderndescartes.com/essays/ai_and_expertise/"
@@ -430,7 +458,7 @@ const FEED_DATA = {
     },
     {
       "title": "Undisclosed addition in jqwik instructed AI coding agents to delete app output",
-      "summary": "Article URL: https://arstechnica.com/security/2026/05/fed-up-with-vibe-coders-dev-sneaks-data-nuking-prompt-injection-into-their-code/ Comments URL: https://news.ycombinator.com/item?id=48319968 Points: 58 # Comments: 1",
+      "summary": "Article URL: https://arstechnica.com/security/2026/05/fed-up-with-vibe-coders-dev-sneaks-data-nuking-prompt-injection-into-their-code/ Comments URL: https://news.ycombinator.com/item?id=48319968 Points: 60 # Comments: 1",
       "source": "Hacker News",
       "published": "2026-05-29T07:05:31+00:00",
       "link": "https://arstechnica.com/security/2026/05/fed-up-with-vibe-coders-dev-sneaks-data-nuking-prompt-injection-into-their-code/"
@@ -1372,34 +1400,6 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-05-25T07:30:09+00:00",
       "link": "https://the-decoder.com/ai-models-often-give-the-right-answers-but-point-to-the-wrong-sources/"
-    },
-    {
-      "title": "Everyone is navigating AI security in real time — even Google",
-      "summary": "We're in the transition period -- all of us.",
-      "source": "TechCrunch",
-      "published": "2026-05-24T21:39:21+00:00",
-      "link": "https://techcrunch.com/2026/05/24/everyone-is-navigating-ai-security-in-real-time-even-google/"
-    },
-    {
-      "title": "Memory has grown to nearly two-thirds of AI chip component costs",
-      "summary": "Article URL: https://epoch.ai/data-insights/ai-chip-component-cost-shares Comments URL: https://news.ycombinator.com/item?id=48258684 Points: 444 # Comments: 496",
-      "source": "Hacker News",
-      "published": "2026-05-24T16:31:29+00:00",
-      "link": "https://epoch.ai/data-insights/ai-chip-component-cost-shares"
-    },
-    {
-      "title": "'AI washing': firms are scrambling to rebrand themselves as tech-focused",
-      "summary": "Article URL: https://www.theguardian.com/technology/2026/may/24/ai-washing-pr-firms-scrambling-rebrand Comments URL: https://news.ycombinator.com/item?id=48257980 Points: 179 # Comments: 166",
-      "source": "Hacker News",
-      "published": "2026-05-24T15:21:28+00:00",
-      "link": "https://www.theguardian.com/technology/2026/may/24/ai-washing-pr-firms-scrambling-rebrand"
-    },
-    {
-      "title": "I tried Amazon’s Bee wearable and am both intrigued and slightly creeped out",
-      "summary": "Like other AI wearables, Amazon's Bee offers an odd combination of convenience and privacy anxiety.",
-      "source": "TechCrunch",
-      "published": "2026-05-24T15:00:00+00:00",
-      "link": "https://techcrunch.com/2026/05/24/i-tried-amazons-bee-wearable-and-am-both-intrigued-and-slightly-creeped-out/"
     }
   ]
 };
