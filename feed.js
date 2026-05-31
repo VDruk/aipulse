@@ -1,6 +1,13 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-05-31T05:17:05.463596+00:00",
+  "lastUpdated": "2026-05-31T08:15:41.292717+00:00",
   "items": [
+    {
+      "title": "AI search agents often confirm what they already know instead of actually researching the web",
+      "summary": "Leading AI search agents like GPT-5.4 and Kimi K2.6 don't appear to do much actual research on established benchmarks. They mostly just use the web to confirm what they already learned during training.",
+      "source": "The Decoder",
+      "published": "2026-05-31T07:48:41+00:00",
+      "link": "https://the-decoder.com/ai-search-agents-often-confirm-what-they-already-know-instead-of-actually-researching-the-web/"
+    },
     {
       "title": "SoftBank says it will invest up to €75 billion to build French data centers",
       "summary": "The goal, the firm said, is to develop and operate up to 5 gigawatts of additional data center capacity.",
@@ -24,7 +31,7 @@ const FEED_DATA = {
     },
     {
       "title": "To have a moral stance on AI is to be an outcast, and it sucks",
-      "summary": "Article URL: https://musings.martyn.berlin/to-have-a-moral-stance-on-ai-is-to-be-an-outcast-and-it-sucks Comments URL: https://news.ycombinator.com/item?id=48337676 Points: 129 # Comments: 279",
+      "summary": "Article URL: https://musings.martyn.berlin/to-have-a-moral-stance-on-ai-is-to-be-an-outcast-and-it-sucks Comments URL: https://news.ycombinator.com/item?id=48337676 Points: 129 # Comments: 286",
       "source": "Hacker News",
       "published": "2026-05-30T16:04:00+00:00",
       "link": "https://musings.martyn.berlin/to-have-a-moral-stance-on-ai-is-to-be-an-outcast-and-it-sucks"
@@ -45,7 +52,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI job grief: A psychological crisis hitting tech workers",
-      "summary": "Article URL: https://jackmaguire.org/blog/ai-job-grief/ Comments URL: https://news.ycombinator.com/item?id=48336760 Points: 133 # Comments: 128",
+      "summary": "Article URL: https://jackmaguire.org/blog/ai-job-grief/ Comments URL: https://news.ycombinator.com/item?id=48336760 Points: 143 # Comments: 136",
       "source": "Hacker News",
       "published": "2026-05-30T14:41:26+00:00",
       "link": "https://jackmaguire.org/blog/ai-job-grief/"
@@ -59,7 +66,7 @@ const FEED_DATA = {
     },
     {
       "title": "Anthropic surpasses OpenAI to become most valuable AI startup",
-      "summary": "Article URL: https://qazinform.com/news/anthropic-surpasses-openai-to-become-worlds-most-valuable-ai-startup Comments URL: https://news.ycombinator.com/item?id=48336233 Points: 399 # Comments: 456",
+      "summary": "Article URL: https://qazinform.com/news/anthropic-surpasses-openai-to-become-worlds-most-valuable-ai-startup Comments URL: https://news.ycombinator.com/item?id=48336233 Points: 400 # Comments: 457",
       "source": "Hacker News",
       "published": "2026-05-30T13:56:34+00:00",
       "link": "https://qazinform.com/news/anthropic-surpasses-openai-to-become-worlds-most-valuable-ai-startup"
@@ -94,7 +101,7 @@ const FEED_DATA = {
     },
     {
       "title": "Corporate America Is Starting to Ration AI as Cost Skyrockets",
-      "summary": "Article URL: https://www.wsj.com/tech/ai/corporate-america-is-starting-to-ration-ai-as-cost-skyrockets-1eb99d7a Comments URL: https://news.ycombinator.com/item?id=48335388 Points: 156 # Comments: 150",
+      "summary": "Article URL: https://www.wsj.com/tech/ai/corporate-america-is-starting-to-ration-ai-as-cost-skyrockets-1eb99d7a Comments URL: https://news.ycombinator.com/item?id=48335388 Points: 165 # Comments: 155",
       "source": "Hacker News",
       "published": "2026-05-30T12:17:33+00:00",
       "link": "https://www.wsj.com/tech/ai/corporate-america-is-starting-to-ration-ai-as-cost-skyrockets-1eb99d7a"
@@ -157,7 +164,7 @@ const FEED_DATA = {
     },
     {
       "title": "Show HN: Tiny-vLLM – high performance LLM inference engine in C++ and CUDA",
-      "summary": "Article URL: https://github.com/jmaczan/tiny-vllm Comments URL: https://news.ycombinator.com/item?id=48328184 Points: 186 # Comments: 16",
+      "summary": "Article URL: https://github.com/jmaczan/tiny-vllm Comments URL: https://news.ycombinator.com/item?id=48328184 Points: 187 # Comments: 16",
       "source": "Hacker News",
       "published": "2026-05-29T19:38:27+00:00",
       "link": "https://github.com/jmaczan/tiny-vllm"
@@ -255,7 +262,7 @@ const FEED_DATA = {
     },
     {
       "title": "Notes from the Mistral AI Now Summit",
-      "summary": "Article URL: https://koenvangilst.nl/lab/mistral-ai-now-summit Comments URL: https://news.ycombinator.com/item?id=48325340 Points: 454 # Comments: 199",
+      "summary": "Article URL: https://koenvangilst.nl/lab/mistral-ai-now-summit Comments URL: https://news.ycombinator.com/item?id=48325340 Points: 457 # Comments: 200",
       "source": "Hacker News",
       "published": "2026-05-29T16:22:01+00:00",
       "link": "https://koenvangilst.nl/lab/mistral-ai-now-summit"
@@ -269,7 +276,7 @@ const FEED_DATA = {
     },
     {
       "title": "Liquid AI reveals 8B-A1B MoE trained on 38T",
-      "summary": "Article URL: https://www.liquid.ai/blog/lfm2-5-8b-a1b Comments URL: https://news.ycombinator.com/item?id=48325306 Points: 241 # Comments: 93",
+      "summary": "Article URL: https://www.liquid.ai/blog/lfm2-5-8b-a1b Comments URL: https://news.ycombinator.com/item?id=48325306 Points: 241 # Comments: 94",
       "source": "Hacker News",
       "published": "2026-05-29T16:19:54+00:00",
       "link": "https://www.liquid.ai/blog/lfm2-5-8b-a1b"
@@ -283,7 +290,7 @@ const FEED_DATA = {
     },
     {
       "title": "CAPTCHAs can still detect AI agents",
-      "summary": "Article URL: https://research.roundtable.ai/captchas-detect-ai/ Comments URL: https://news.ycombinator.com/item?id=48324910 Points: 82 # Comments: 63",
+      "summary": "Article URL: https://research.roundtable.ai/captchas-detect-ai/ Comments URL: https://news.ycombinator.com/item?id=48324910 Points: 83 # Comments: 64",
       "source": "Hacker News",
       "published": "2026-05-29T15:57:37+00:00",
       "link": "https://research.roundtable.ai/captchas-detect-ai/"
@@ -304,7 +311,7 @@ const FEED_DATA = {
     },
     {
       "title": "Please Use AI",
-      "summary": "Article URL: https://shawnsmucker.substack.com/p/please-use-ai Comments URL: https://news.ycombinator.com/item?id=48323101 Points: 766 # Comments: 390",
+      "summary": "Article URL: https://shawnsmucker.substack.com/p/please-use-ai Comments URL: https://news.ycombinator.com/item?id=48323101 Points: 772 # Comments: 390",
       "source": "Hacker News",
       "published": "2026-05-29T13:50:25+00:00",
       "link": "https://shawnsmucker.substack.com/p/please-use-ai"
@@ -318,7 +325,7 @@ const FEED_DATA = {
     },
     {
       "title": "Expertise in the age of AI",
-      "summary": "Article URL: https://www.moderndescartes.com/essays/ai_and_expertise/ Comments URL: https://news.ycombinator.com/item?id=48322929 Points: 122 # Comments: 104",
+      "summary": "Article URL: https://www.moderndescartes.com/essays/ai_and_expertise/ Comments URL: https://news.ycombinator.com/item?id=48322929 Points: 123 # Comments: 105",
       "source": "Hacker News",
       "published": "2026-05-29T13:35:13+00:00",
       "link": "https://www.moderndescartes.com/essays/ai_and_expertise/"
@@ -367,7 +374,7 @@ const FEED_DATA = {
     },
     {
       "title": "Is AI causing a repeat of frontend’s lost decade?",
-      "summary": "Article URL: https://mastrojs.github.io/blog/2026-05-23-is-AI-causing-a-repeat-of-frontends-lost-decade/ Comments URL: https://news.ycombinator.com/item?id=48321631 Points: 398 # Comments: 328",
+      "summary": "Article URL: https://mastrojs.github.io/blog/2026-05-23-is-AI-causing-a-repeat-of-frontends-lost-decade/ Comments URL: https://news.ycombinator.com/item?id=48321631 Points: 399 # Comments: 329",
       "source": "Hacker News",
       "published": "2026-05-29T11:09:32+00:00",
       "link": "https://mastrojs.github.io/blog/2026-05-23-is-AI-causing-a-repeat-of-frontends-lost-decade/"
@@ -402,7 +409,7 @@ const FEED_DATA = {
     },
     {
       "title": "Real-time LLM Inference on Standard GPUs: 3k tokens/s per request",
-      "summary": "Article URL: https://blog.kog.ai/real-time-llm-inference-on-standard-gpus-3-000-tokens-s-per-request/ Comments URL: https://news.ycombinator.com/item?id=48321076 Points: 212 # Comments: 94",
+      "summary": "Article URL: https://blog.kog.ai/real-time-llm-inference-on-standard-gpus-3-000-tokens-s-per-request/ Comments URL: https://news.ycombinator.com/item?id=48321076 Points: 214 # Comments: 95",
       "source": "Hacker News",
       "published": "2026-05-29T09:47:23+00:00",
       "link": "https://blog.kog.ai/real-time-llm-inference-on-standard-gpus-3-000-tokens-s-per-request/"
@@ -451,7 +458,7 @@ const FEED_DATA = {
     },
     {
       "title": "The mysterious Hy3 LLM is topping OpenRouter Model Rankings by a large margin",
-      "summary": "Article URL: https://minimaxir.com/2026/05/openrouter-hy3/ Comments URL: https://news.ycombinator.com/item?id=48317294 Points: 141 # Comments: 112",
+      "summary": "Article URL: https://minimaxir.com/2026/05/openrouter-hy3/ Comments URL: https://news.ycombinator.com/item?id=48317294 Points: 142 # Comments: 112",
       "source": "Hacker News",
       "published": "2026-05-29T00:09:35+00:00",
       "link": "https://minimaxir.com/2026/05/openrouter-hy3/"
@@ -507,14 +514,14 @@ const FEED_DATA = {
     },
     {
       "title": "Sam Altman and Dario Amodei are both walking back AI jobs apocalypse predictions",
-      "summary": "https://archive.ph/50zy3 Comments URL: https://news.ycombinator.com/item?id=48314363 Points: 234 # Comments: 179",
+      "summary": "https://archive.ph/50zy3 Comments URL: https://news.ycombinator.com/item?id=48314363 Points: 234 # Comments: 180",
       "source": "Hacker News",
       "published": "2026-05-28T19:43:14+00:00",
       "link": "https://fortune.com/2026/05/26/sam-altman-dario-amodei-walking-back-ai-jobs-apocalypse-prophecies-ipo/"
     },
     {
       "title": "Various LLM Smells",
-      "summary": "Article URL: https://shvbsle.in/various-llm-smells/ Comments URL: https://news.ycombinator.com/item?id=48313810 Points: 363 # Comments: 289",
+      "summary": "Article URL: https://shvbsle.in/various-llm-smells/ Comments URL: https://news.ycombinator.com/item?id=48313810 Points: 364 # Comments: 289",
       "source": "Hacker News",
       "published": "2026-05-28T19:02:18+00:00",
       "link": "https://shvbsle.in/various-llm-smells/"
@@ -1393,13 +1400,6 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-05-24T15:00:00+00:00",
       "link": "https://techcrunch.com/2026/05/24/i-tried-amazons-bee-wearable-and-am-both-intrigued-and-slightly-creeped-out/"
-    },
-    {
-      "title": "DeepSeek to Make Permanent 75% Discount on Flagship AI Model",
-      "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-05-23/deepseek-to-make-permanent-75-discount-on-flagship-ai-model Comments URL: https://news.ycombinator.com/item?id=48257410 Points: 209 # Comments: 2",
-      "source": "Hacker News",
-      "published": "2026-05-24T14:09:33+00:00",
-      "link": "https://www.bloomberg.com/news/articles/2026-05-23/deepseek-to-make-permanent-75-discount-on-flagship-ai-model"
     }
   ]
 };
