@@ -1,6 +1,55 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-06-01T14:43:26.706984+00:00",
+  "lastUpdated": "2026-06-01T18:41:19.535451+00:00",
   "items": [
+    {
+      "title": "Claude maker Anthropic files for IPO with the SEC",
+      "summary": "Anthropic has confidentially filed a draft IPO registration with the US Securities and Exchange Commission (SEC). The company behind the chatbot Claude is valued at just under $1 trillion after its latest funding round.",
+      "source": "The Decoder",
+      "published": "2026-06-01T17:26:59+00:00",
+      "link": "https://the-decoder.com/claude-maker-anthropic-files-for-ipo-with-the-sec/"
+    },
+    {
+      "title": "Anthropic Confidentially Files for What Could Be the Largest IPO Ever",
+      "summary": "The AI giant behind Claude submitted paperwork on Monday that would take it public, just a couple of weeks after SpaceX’s splashy IPO announcement.",
+      "source": "Wired",
+      "published": "2026-06-01T17:17:58+00:00",
+      "link": "https://www.wired.com/story/anthropic-files-s1-ipo-sec/"
+    },
+    {
+      "title": "Turing Award winner Richard Sutton says pure generative AI can't do real science",
+      "summary": "Turing Award winner Richard Sutton sees a central weakness in conventional generative AI: it can't evaluate its own results. Without that ability, real scientific discovery remains impossible: novelty flickers briefly and is lost again.",
+      "source": "The Decoder",
+      "published": "2026-06-01T17:10:26+00:00",
+      "link": "https://the-decoder.com/turing-award-winner-richard-sutton-says-pure-generative-ai-cant-do-real-science/"
+    },
+    {
+      "title": "Anthropic has officially filed to go public",
+      "summary": "After months of speculation about whether OpenAI or Anthropic would be first in their race to IPO, Anthropic on Monday reached a key milestone: filing to kick off the process with the U.S. Securities and Exchange Commission.",
+      "source": "The Verge",
+      "published": "2026-06-01T16:40:38+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/941016/anthropic-has-officially-filed-to-go-public"
+    },
+    {
+      "title": "Anthropic files to go public",
+      "summary": "The company said Monday it has filed confidentially for an IPO.",
+      "source": "TechCrunch",
+      "published": "2026-06-01T16:36:55+00:00",
+      "link": "https://techcrunch.com/2026/06/01/anthropic-files-to-go-public/"
+    },
+    {
+      "title": "This AI weather startup is out-forecasting government agencies",
+      "summary": "Windborne Systems' newest weather forecasting model beats the best government predictions by days.",
+      "source": "TechCrunch",
+      "published": "2026-06-01T16:00:00+00:00",
+      "link": "https://techcrunch.com/2026/06/01/this-ai-weather-startup-is-out-forecasting-government-agencies/"
+    },
+    {
+      "title": "DuckDuckGo makes its ‘no-AI’ search engine easier to access as its traffic booms",
+      "summary": "Alternative search engine DuckDuckGo launches 'no AI' web extensions for Chrome and Firefox users.",
+      "source": "TechCrunch",
+      "published": "2026-06-01T14:49:10+00:00",
+      "link": "https://techcrunch.com/2026/06/01/duckduckgo-makes-its-no-ai-search-engine-easier-to-access-as-its-traffic-booms/"
+    },
     {
       "title": "Microsoft to unveil new AI models and Windows improvements at Build",
       "summary": "Microsoft is heading to San Francisco this week in a bid to win back developers at its Build conference. I've been attending Build since the days when Microsoft called it the Professional Developers Conference, and I can't remember a more pivotal moment.",
@@ -231,6 +280,13 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-05-30T15:30:00+00:00",
       "link": "https://techcrunch.com/2026/05/30/i-put-googles-24-7-ai-assistant-gemini-spark-to-work-and-its-actually-pretty-useful/"
+    },
+    {
+      "title": "The groupthink boom: what 3 top VCs really think about the AI frenzy",
+      "summary": "\"If you're 22 years old in San Francisco and building something in AI, there may be a seed term sheet in your inbox — but if you're 19, oh my God, this means you're really good; you might already have a Series A [offer],\" said one, half-kiddingly.",
+      "source": "TechCrunch",
+      "published": "2026-05-30T14:49:27+00:00",
+      "link": "https://techcrunch.com/2026/05/30/the-groupthink-boom-what-three-top-vcs-really-think-about-the-ai-frenzy/"
     },
     {
       "title": "AI job grief: A psychological crisis hitting tech workers",
@@ -1344,62 +1400,6 @@ const FEED_DATA = {
       "source": "The Verge",
       "published": "2026-05-26T12:00:00+00:00",
       "link": "https://www.theverge.com/ai-artificial-intelligence/937028/military-ai-warfare-red-lines"
-    },
-    {
-      "title": "Y Combinator founder Paul Graham says AI-written founder emails feel like being lied to",
-      "summary": "Y Combinator founder Paul Graham ignores emails clearly written by AI—they feel \"like being lied to,\" he says. That's coming from one of OpenAI's earliest investors.",
-      "source": "The Decoder",
-      "published": "2026-05-26T11:00:57+00:00",
-      "link": "https://the-decoder.com/y-combinator-founder-paul-graham-says-ai-written-founder-emails-feel-like-being-lied-to/"
-    },
-    {
-      "title": "The AI justice gap solution is slowly turning into an existential paperwork nightmare for US federal courts",
-      "summary": "A new study from MIT and the University of Southern California shows that lawsuits filed without a lawyer at US federal courts have nearly doubled since ChatGPT went mainstream. One in five complaints now contains AI-generated text.",
-      "source": "The Decoder",
-      "published": "2026-05-26T10:42:00+00:00",
-      "link": "https://the-decoder.com/the-ai-justice-gap-solution-is-slowly-turning-into-an-existential-paperwork-nightmare-for-us-federal-courts/"
-    },
-    {
-      "title": "The AI bubble isn't like the internet bubble",
-      "summary": "Article URL: https://pluralistic.net/2026/05/26/the-ai-will-continue/#until-morale-improves Comments URL: https://news.ycombinator.com/item?id=48277784 Points: 78 # Comments: 91",
-      "source": "Hacker News",
-      "published": "2026-05-26T10:37:15+00:00",
-      "link": "https://pluralistic.net/2026/05/26/the-ai-will-continue/#until-morale-improves"
-    },
-    {
-      "title": "Uber president says AI spending is getting 'harder to justify'",
-      "summary": "Article URL: https://www.theverge.com/transportation/937116/uber-ai-investment-hard-to-justify Comments URL: https://news.ycombinator.com/item?id=48277485 Points: 303 # Comments: 158",
-      "source": "Hacker News",
-      "published": "2026-05-26T10:01:39+00:00",
-      "link": "https://www.theverge.com/transportation/937116/uber-ai-investment-hard-to-justify"
-    },
-    {
-      "title": "Autonomous AI systems test governance in physical environments",
-      "summary": "Autonomous AI systems are beginning to move beyond software environments and into warehouses, delivery networks, and public spaces. The development is drawing attention to whether current AI rules cover systems that operate in physical environments.",
-      "source": "AI News",
-      "published": "2026-05-26T10:00:00+00:00",
-      "link": "https://www.artificialintelligence-news.com/news/autonomous-ai-systems-governance-physical-environments/"
-    },
-    {
-      "title": "AI Agents Plunged the Tech World Into Chaos. Here’s Exactly How That Happened",
-      "summary": "The definitive story of how Claude Code and OpenClaw kicked off computing’s biggest transformation possibly ever.",
-      "source": "Wired",
-      "published": "2026-05-26T10:00:00+00:00",
-      "link": "https://www.wired.com/story/how-ai-agents-plunged-tech-world-into-chaos/"
-    },
-    {
-      "title": "AI Is Taking Over the Most Cursed Job in the World",
-      "summary": "There’s a mad dash to automate the world’s most hated calls. Have an unpaid bill?",
-      "source": "Wired",
-      "published": "2026-05-26T10:00:00+00:00",
-      "link": "https://www.wired.com/story/ai-takes-over-debt-collection/"
-    },
-    {
-      "title": "Quiz: Will AI Destroy Your Career?",
-      "summary": "Some jobs may be toast. Some will survive.",
-      "source": "Wired",
-      "published": "2026-05-26T10:00:00+00:00",
-      "link": "https://www.wired.com/story/quiz-will-ai-destroy-your-career/"
     }
   ]
 };
