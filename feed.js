@@ -1,6 +1,34 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-06-01T18:41:19.535451+00:00",
+  "lastUpdated": "2026-06-01T20:51:47.759481+00:00",
   "items": [
+    {
+      "title": "Florida sues OpenAI, Sam Altman, in first-of-its-kind lawsuit over violent incidents",
+      "summary": "The lawsuit partially revolves around a shooting at Florida State University last year, and ChatGPT's alleged role in the incident.",
+      "source": "TechCrunch",
+      "published": "2026-06-01T20:03:40+00:00",
+      "link": "https://techcrunch.com/2026/06/01/florida-sues-openai-sam-altman-in-first-of-its-kind-lawsuit-over-violent-incidents/"
+    },
+    {
+      "title": "This could be Windows’ M1 moment — but expect it to cost a ton",
+      "summary": "Nvidia's announcement that it's getting into the consumer laptop chip space with RTX Spark is huge. Apple has proved for years that Arm-based chips can perform incredibly well while also delivering great battery life - at least on the Mac.",
+      "source": "The Verge",
+      "published": "2026-06-01T20:02:31+00:00",
+      "link": "https://www.theverge.com/tech/941215/windows-laptops-nvidia-rtx-spark-apple-m1-arm-price-ram"
+    },
+    {
+      "title": "Gemini’s new AI agent is about as good as Google’s demo",
+      "summary": "Google's new \"24/7\" AI agent, Gemini Spark, can be shockingly good at doing things on your behalf. But I'm not sure it's worth the financial cost and potential privacy tradeoffs.",
+      "source": "The Verge",
+      "published": "2026-06-01T20:00:00+00:00",
+      "link": "https://www.theverge.com/tech/941138/google-gemini-spark-ai-agent-hands-on"
+    },
+    {
+      "title": "Meta’s own AI was exploited to hijack Instagram accounts",
+      "summary": "Meta's AI support chatbot helped hackers hijack Instagram accounts, as reported earlier by 404 Media.",
+      "source": "The Verge",
+      "published": "2026-06-01T19:20:47+00:00",
+      "link": "https://www.theverge.com/tech/941179/meta-instagram-ai-support-chatbot-exploit-hacked"
+    },
     {
       "title": "Claude maker Anthropic files for IPO with the SEC",
       "summary": "Anthropic has confidentially filed a draft IPO registration with the US Securities and Exchange Commission (SEC). The company behind the chatbot Claude is valued at just under $1 trillion after its latest funding round.",
@@ -23,6 +51,13 @@ const FEED_DATA = {
       "link": "https://the-decoder.com/turing-award-winner-richard-sutton-says-pure-generative-ai-cant-do-real-science/"
     },
     {
+      "title": "AI Agent Guidelines for CS336 at Stanford",
+      "summary": "Article URL: https://github.com/stanford-cs336/assignment1-basics/blob/main/CLAUDE.md Comments URL: https://news.ycombinator.com/item?id=48359232 Points: 203 # Comments: 91",
+      "source": "Hacker News",
+      "published": "2026-06-01T16:41:49+00:00",
+      "link": "https://github.com/stanford-cs336/assignment1-basics/blob/main/CLAUDE.md"
+    },
+    {
       "title": "Anthropic has officially filed to go public",
       "summary": "After months of speculation about whether OpenAI or Anthropic would be first in their race to IPO, Anthropic on Monday reached a key milestone: filing to kick off the process with the U.S. Securities and Exchange Commission.",
       "source": "The Verge",
@@ -37,8 +72,15 @@ const FEED_DATA = {
       "link": "https://techcrunch.com/2026/06/01/anthropic-files-to-go-public/"
     },
     {
+      "title": "Florida sues OpenAI and Sam Altman over AI risks",
+      "summary": "https://www.wsj.com/tech/ai/openai-sued-by-floridas-attorney...https://www.nbcnews.com/tech/tech-news/florida-sues-openai-s... Comments URL: https://news.ycombinator.com/item?id=48358667 Points: 71 # Comments: 38",
+      "source": "Hacker News",
+      "published": "2026-06-01T16:02:04+00:00",
+      "link": "https://www.politico.com/news/2026/06/01/openai-hit-with-florida-lawsuit-00944215"
+    },
+    {
       "title": "This AI weather startup is out-forecasting government agencies",
-      "summary": "Windborne Systems' newest weather forecasting model beats the best government predictions by days.",
+      "summary": "WindBorne benefits from its unique combination of model-building and data collection. The company now has about 400 balloons in flight gathering sensor readings at any given time, launched from 15 sites around the globe.",
       "source": "TechCrunch",
       "published": "2026-06-01T16:00:00+00:00",
       "link": "https://techcrunch.com/2026/06/01/this-ai-weather-startup-is-out-forecasting-government-agencies/"
@@ -108,7 +150,7 @@ const FEED_DATA = {
     },
     {
       "title": "When AI Crosses the Line: The Matplotlib Incident",
-      "summary": "Article URL: https://members.sigmazero.cc/posts/when-ai-crosses-159174096?postId=when-ai-crosses-159174096 Comments URL: https://news.ycombinator.com/item?id=48355751 Points: 101 # Comments: 79",
+      "summary": "Article URL: https://members.sigmazero.cc/posts/when-ai-crosses-159174096?postId=when-ai-crosses-159174096 Comments URL: https://news.ycombinator.com/item?id=48355751 Points: 128 # Comments: 135",
       "source": "Hacker News",
       "published": "2026-06-01T12:08:23+00:00",
       "link": "https://members.sigmazero.cc/posts/when-ai-crosses-159174096?postId=when-ai-crosses-159174096"
@@ -157,14 +199,14 @@ const FEED_DATA = {
     },
     {
       "title": "The Speed of Prototyping in the Age of AI",
-      "summary": "Article URL: https://darylcecile.net/notes/speed-of-prototyping-age-of-ai Comments URL: https://news.ycombinator.com/item?id=48347153 Points: 182 # Comments: 92",
+      "summary": "Article URL: https://darylcecile.net/notes/speed-of-prototyping-age-of-ai Comments URL: https://news.ycombinator.com/item?id=48347153 Points: 188 # Comments: 94",
       "source": "Hacker News",
       "published": "2026-05-31T16:37:34+00:00",
       "link": "https://darylcecile.net/notes/speed-of-prototyping-age-of-ai"
     },
     {
       "title": "Odysseus – self-hosted AI workspace",
-      "summary": "Article URL: https://github.com/pewdiepie-archdaemon/odysseus Comments URL: https://news.ycombinator.com/item?id=48346693 Points: 195 # Comments: 91",
+      "summary": "Article URL: https://github.com/pewdiepie-archdaemon/odysseus Comments URL: https://news.ycombinator.com/item?id=48346693 Points: 211 # Comments: 93",
       "source": "Hacker News",
       "published": "2026-05-31T15:50:34+00:00",
       "link": "https://github.com/pewdiepie-archdaemon/odysseus"
@@ -178,14 +220,14 @@ const FEED_DATA = {
     },
     {
       "title": "The solution might be cancelling my AI subscription",
-      "summary": "Article URL: https://thoughts.hmmz.org/2026-05-31.html Comments URL: https://news.ycombinator.com/item?id=48345896 Points: 367 # Comments: 230",
+      "summary": "Article URL: https://thoughts.hmmz.org/2026-05-31.html Comments URL: https://news.ycombinator.com/item?id=48345896 Points: 371 # Comments: 232",
       "source": "Hacker News",
       "published": "2026-05-31T14:23:30+00:00",
       "link": "https://thoughts.hmmz.org/2026-05-31.html"
     },
     {
       "title": "The people who actually want AI to replace humanity",
-      "summary": "Article URL: https://www.vox.com/future-perfect/489976/ai-successionism-transhumanism-posthumanism Comments URL: https://news.ycombinator.com/item?id=48345881 Points: 76 # Comments: 85",
+      "summary": "Article URL: https://www.vox.com/future-perfect/489976/ai-successionism-transhumanism-posthumanism Comments URL: https://news.ycombinator.com/item?id=48345881 Points: 80 # Comments: 88",
       "source": "Hacker News",
       "published": "2026-05-31T14:20:12+00:00",
       "link": "https://www.vox.com/future-perfect/489976/ai-successionism-transhumanism-posthumanism"
@@ -240,6 +282,13 @@ const FEED_DATA = {
       "link": "https://the-decoder.com/ai-search-agents-often-confirm-what-they-already-know-instead-of-actually-researching-the-web/"
     },
     {
+      "title": "SoftBank says it will invest up to €75B to build French data centers",
+      "summary": "The goal, the firm said, is to develop and operate up to 5 gigawatts of additional data center capacity.",
+      "source": "TechCrunch",
+      "published": "2026-05-30T21:45:00+00:00",
+      "link": "https://techcrunch.com/2026/05/30/softbank-says-it-will-invest-up-to-e75-billion-to-build-french-data-centers/"
+    },
+    {
       "title": "SoftBank says it will invest up to €75 billion to build French data centers",
       "summary": "The goal, the firm said, is to develop and operate up to 5 gigawatts of additional data center capacity.",
       "source": "TechCrunch",
@@ -247,8 +296,8 @@ const FEED_DATA = {
       "link": "https://techcrunch.com/2026/05/30/softbank-says-it-will-invest-up-to-e75-billion-to-build-french-data-centers/"
     },
     {
-      "title": "‘What a joke’: Github Copilot’s new token-based billing spurs consternation among devs",
-      "summary": "The golden age of Microsoft's Github Copilot appears to be at an end.",
+      "title": "‘What a joke’: GitHub Copilot’s new token-based billing spurs consternation among devs",
+      "summary": "The golden age of Microsoft's GitHub Copilot appears to be at an end.",
       "source": "TechCrunch",
       "published": "2026-05-30T16:30:00+00:00",
       "link": "https://techcrunch.com/2026/05/30/what-a-joke-github-copilots-new-token-based-billing-spurs-consternation-among-devs/"
@@ -262,7 +311,7 @@ const FEED_DATA = {
     },
     {
       "title": "To have a moral stance on AI is to be an outcast, and it sucks",
-      "summary": "Article URL: https://musings.martyn.berlin/to-have-a-moral-stance-on-ai-is-to-be-an-outcast-and-it-sucks Comments URL: https://news.ycombinator.com/item?id=48337676 Points: 145 # Comments: 311",
+      "summary": "Article URL: https://musings.martyn.berlin/to-have-a-moral-stance-on-ai-is-to-be-an-outcast-and-it-sucks Comments URL: https://news.ycombinator.com/item?id=48337676 Points: 146 # Comments: 313",
       "source": "Hacker News",
       "published": "2026-05-30T16:04:00+00:00",
       "link": "https://musings.martyn.berlin/to-have-a-moral-stance-on-ai-is-to-be-an-outcast-and-it-sucks"
@@ -290,7 +339,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI job grief: A psychological crisis hitting tech workers",
-      "summary": "Article URL: https://jackmaguire.org/blog/ai-job-grief/ Comments URL: https://news.ycombinator.com/item?id=48336760 Points: 195 # Comments: 200",
+      "summary": "Article URL: https://jackmaguire.org/blog/ai-job-grief/ Comments URL: https://news.ycombinator.com/item?id=48336760 Points: 197 # Comments: 200",
       "source": "Hacker News",
       "published": "2026-05-30T14:41:26+00:00",
       "link": "https://jackmaguire.org/blog/ai-job-grief/"
@@ -339,7 +388,7 @@ const FEED_DATA = {
     },
     {
       "title": "Corporate America Is Starting to Ration AI as Cost Skyrockets",
-      "summary": "Article URL: https://www.wsj.com/tech/ai/corporate-america-is-starting-to-ration-ai-as-cost-skyrockets-1eb99d7a Comments URL: https://news.ycombinator.com/item?id=48335388 Points: 183 # Comments: 171",
+      "summary": "Article URL: https://www.wsj.com/tech/ai/corporate-america-is-starting-to-ration-ai-as-cost-skyrockets-1eb99d7a Comments URL: https://news.ycombinator.com/item?id=48335388 Points: 183 # Comments: 173",
       "source": "Hacker News",
       "published": "2026-05-30T12:17:33+00:00",
       "link": "https://www.wsj.com/tech/ai/corporate-america-is-starting-to-ration-ai-as-cost-skyrockets-1eb99d7a"
@@ -402,7 +451,7 @@ const FEED_DATA = {
     },
     {
       "title": "Show HN: Tiny-vLLM – high performance LLM inference engine in C++ and CUDA",
-      "summary": "Article URL: https://github.com/jmaczan/tiny-vllm Comments URL: https://news.ycombinator.com/item?id=48328184 Points: 196 # Comments: 18",
+      "summary": "Article URL: https://github.com/jmaczan/tiny-vllm Comments URL: https://news.ycombinator.com/item?id=48328184 Points: 200 # Comments: 18",
       "source": "Hacker News",
       "published": "2026-05-29T19:38:27+00:00",
       "link": "https://github.com/jmaczan/tiny-vllm"
@@ -444,7 +493,7 @@ const FEED_DATA = {
     },
     {
       "title": "What if remote working, not AI, is to blame for weak junior hiring?",
-      "summary": "Article URL: https://www.ft.com/content/2205e2d0-50dc-4e80-9bf7-78d0272276c0 Comments URL: https://news.ycombinator.com/item?id=48326721 Points: 228 # Comments: 309",
+      "summary": "Article URL: https://www.ft.com/content/2205e2d0-50dc-4e80-9bf7-78d0272276c0 Comments URL: https://news.ycombinator.com/item?id=48326721 Points: 251 # Comments: 348",
       "source": "Hacker News",
       "published": "2026-05-29T17:50:11+00:00",
       "link": "https://www.ft.com/content/2205e2d0-50dc-4e80-9bf7-78d0272276c0"
@@ -535,7 +584,7 @@ const FEED_DATA = {
     },
     {
       "title": "CAPTCHAs can still detect AI agents",
-      "summary": "Article URL: https://research.roundtable.ai/captchas-detect-ai/ Comments URL: https://news.ycombinator.com/item?id=48324910 Points: 83 # Comments: 68",
+      "summary": "Article URL: https://research.roundtable.ai/captchas-detect-ai/ Comments URL: https://news.ycombinator.com/item?id=48324910 Points: 83 # Comments: 70",
       "source": "Hacker News",
       "published": "2026-05-29T15:57:37+00:00",
       "link": "https://research.roundtable.ai/captchas-detect-ai/"
@@ -556,7 +605,7 @@ const FEED_DATA = {
     },
     {
       "title": "Please Use AI",
-      "summary": "Article URL: https://shawnsmucker.substack.com/p/please-use-ai Comments URL: https://news.ycombinator.com/item?id=48323101 Points: 781 # Comments: 394",
+      "summary": "Article URL: https://shawnsmucker.substack.com/p/please-use-ai Comments URL: https://news.ycombinator.com/item?id=48323101 Points: 784 # Comments: 394",
       "source": "Hacker News",
       "published": "2026-05-29T13:50:25+00:00",
       "link": "https://shawnsmucker.substack.com/p/please-use-ai"
@@ -1351,55 +1400,6 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-05-26T14:25:50+00:00",
       "link": "https://the-decoder.com/china-reportedly-now-requires-top-ai-researchers-to-get-permission-before-leaving-the-country/"
-    },
-    {
-      "title": "Sundar Pichai on AI, the future of search, and what’s happening to the web",
-      "summary": "Today, I’m talking with Google and Alphabet CEO Sundar Pichai, in a conversation we recorded just after the Google I/O developer conference. This is the fifth year Sundar and I have sat down after I/O, and it’s become one of my favorite Decoder traditions.",
-      "source": "The Verge",
-      "published": "2026-05-26T14:00:00+00:00",
-      "link": "https://www.theverge.com/podcast/936445/sundar-pichai-ai-search-google-zero-youtube-web"
-    },
-    {
-      "title": "Google Cloud COO says AI security belongs in the boardroom, not just the server room",
-      "summary": "Google Cloud COO Francis de Souza is urging companies to build security into their AI strategy from day one. The article Google Cloud COO says AI security belongs in the boardroom, not just the server room appeared first on The Decoder.",
-      "source": "The Decoder",
-      "published": "2026-05-26T13:25:58+00:00",
-      "link": "https://the-decoder.com/google-cloud-coo-says-ai-security-belongs-in-the-boardroom-not-just-the-server-room/"
-    },
-    {
-      "title": "Nobody wants to tell me why they only listen to their own Suno slop",
-      "summary": "There's this alarming trend in the Suno subreddit. People aren't just prompting AI songs; they're sitting around listening almost exclusively to their own slop.",
-      "source": "The Verge",
-      "published": "2026-05-26T12:46:03+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/937059/nobody-wants-to-tell-me-why-they-only-listen-their-own-suno-slop"
-    },
-    {
-      "title": "AI-hallucinated citations are creeping into papers that shape clinical guidelines, researchers warn",
-      "summary": "An audit of 2.5 million biomedical papers by Columbia University and other institutions shows that the rate of fabricated references has increased more than twelvefold since 2023.",
-      "source": "The Decoder",
-      "published": "2026-05-26T12:36:11+00:00",
-      "link": "https://the-decoder.com/ai-hallucinated-citations-are-creeping-into-papers-that-shape-clinical-guidelines-researchers-warn/"
-    },
-    {
-      "title": "The Download: puncturing the AI jobs panic",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.",
-      "source": "MIT Tech Review",
-      "published": "2026-05-26T12:10:00+00:00",
-      "link": "https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/"
-    },
-    {
-      "title": "Outsourcing plus local AI will soon become more economical vs. frontier labs",
-      "summary": "Article URL: https://www.signalbloom.ai/posts/outsourcing-plus-localai-will-soon-become-more-economical-vs-frontier-labs/ Comments URL: https://news.ycombinator.com/item?id=48278610 Points: 321 # Comments: 365",
-      "source": "Hacker News",
-      "published": "2026-05-26T12:08:33+00:00",
-      "link": "https://www.signalbloom.ai/posts/outsourcing-plus-localai-will-soon-become-more-economical-vs-frontier-labs/"
-    },
-    {
-      "title": "AI warfare is already here",
-      "summary": "The Convention on Certain Conventional Weapons, an international forum that focuses on lethal autonomous systems, is hosted twice a year at the United Nations in Geneva.",
-      "source": "The Verge",
-      "published": "2026-05-26T12:00:00+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/937028/military-ai-warfare-red-lines"
     }
   ]
 };
