@@ -1,5 +1,5 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-05-31T21:52:46.662946+00:00",
+  "lastUpdated": "2026-06-01T06:01:32.647409+00:00",
   "items": [
     {
       "title": "Erin Brockovich takes aim at data center secrecy",
@@ -10,14 +10,14 @@ const FEED_DATA = {
     },
     {
       "title": "The Speed of Prototyping in the Age of AI",
-      "summary": "Article URL: https://darylcecile.net/notes/speed-of-prototyping-age-of-ai Comments URL: https://news.ycombinator.com/item?id=48347153 Points: 84 # Comments: 50",
+      "summary": "Article URL: https://darylcecile.net/notes/speed-of-prototyping-age-of-ai Comments URL: https://news.ycombinator.com/item?id=48347153 Points: 138 # Comments: 69",
       "source": "Hacker News",
       "published": "2026-05-31T16:37:34+00:00",
       "link": "https://darylcecile.net/notes/speed-of-prototyping-age-of-ai"
     },
     {
       "title": "Odysseus – self-hosted AI workspace",
-      "summary": "Article URL: https://github.com/pewdiepie-archdaemon/odysseus Comments URL: https://news.ycombinator.com/item?id=48346693 Points: 75 # Comments: 47",
+      "summary": "Article URL: https://github.com/pewdiepie-archdaemon/odysseus Comments URL: https://news.ycombinator.com/item?id=48346693 Points: 152 # Comments: 72",
       "source": "Hacker News",
       "published": "2026-05-31T15:50:34+00:00",
       "link": "https://github.com/pewdiepie-archdaemon/odysseus"
@@ -31,14 +31,14 @@ const FEED_DATA = {
     },
     {
       "title": "The solution might be cancelling my AI subscription",
-      "summary": "Article URL: https://thoughts.hmmz.org/2026-05-31.html Comments URL: https://news.ycombinator.com/item?id=48345896 Points: 327 # Comments: 220",
+      "summary": "Article URL: https://thoughts.hmmz.org/2026-05-31.html Comments URL: https://news.ycombinator.com/item?id=48345896 Points: 347 # Comments: 225",
       "source": "Hacker News",
       "published": "2026-05-31T14:23:30+00:00",
       "link": "https://thoughts.hmmz.org/2026-05-31.html"
     },
     {
       "title": "The people who actually want AI to replace humanity",
-      "summary": "Article URL: https://www.vox.com/future-perfect/489976/ai-successionism-transhumanism-posthumanism Comments URL: https://news.ycombinator.com/item?id=48345881 Points: 73 # Comments: 81",
+      "summary": "Article URL: https://www.vox.com/future-perfect/489976/ai-successionism-transhumanism-posthumanism Comments URL: https://news.ycombinator.com/item?id=48345881 Points: 74 # Comments: 83",
       "source": "Hacker News",
       "published": "2026-05-31T14:20:12+00:00",
       "link": "https://www.vox.com/future-perfect/489976/ai-successionism-transhumanism-posthumanism"
@@ -115,7 +115,7 @@ const FEED_DATA = {
     },
     {
       "title": "To have a moral stance on AI is to be an outcast, and it sucks",
-      "summary": "Article URL: https://musings.martyn.berlin/to-have-a-moral-stance-on-ai-is-to-be-an-outcast-and-it-sucks Comments URL: https://news.ycombinator.com/item?id=48337676 Points: 140 # Comments: 307",
+      "summary": "Article URL: https://musings.martyn.berlin/to-have-a-moral-stance-on-ai-is-to-be-an-outcast-and-it-sucks Comments URL: https://news.ycombinator.com/item?id=48337676 Points: 142 # Comments: 310",
       "source": "Hacker News",
       "published": "2026-05-30T16:04:00+00:00",
       "link": "https://musings.martyn.berlin/to-have-a-moral-stance-on-ai-is-to-be-an-outcast-and-it-sucks"
@@ -136,7 +136,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI job grief: A psychological crisis hitting tech workers",
-      "summary": "Article URL: https://jackmaguire.org/blog/ai-job-grief/ Comments URL: https://news.ycombinator.com/item?id=48336760 Points: 186 # Comments: 176",
+      "summary": "Article URL: https://jackmaguire.org/blog/ai-job-grief/ Comments URL: https://news.ycombinator.com/item?id=48336760 Points: 191 # Comments: 187",
       "source": "Hacker News",
       "published": "2026-05-30T14:41:26+00:00",
       "link": "https://jackmaguire.org/blog/ai-job-grief/"
@@ -150,7 +150,7 @@ const FEED_DATA = {
     },
     {
       "title": "Anthropic surpasses OpenAI to become most valuable AI startup",
-      "summary": "Article URL: https://qazinform.com/news/anthropic-surpasses-openai-to-become-worlds-most-valuable-ai-startup Comments URL: https://news.ycombinator.com/item?id=48336233 Points: 414 # Comments: 466",
+      "summary": "Article URL: https://qazinform.com/news/anthropic-surpasses-openai-to-become-worlds-most-valuable-ai-startup Comments URL: https://news.ycombinator.com/item?id=48336233 Points: 418 # Comments: 469",
       "source": "Hacker News",
       "published": "2026-05-30T13:56:34+00:00",
       "link": "https://qazinform.com/news/anthropic-surpasses-openai-to-become-worlds-most-valuable-ai-startup"
@@ -185,7 +185,7 @@ const FEED_DATA = {
     },
     {
       "title": "Corporate America Is Starting to Ration AI as Cost Skyrockets",
-      "summary": "Article URL: https://www.wsj.com/tech/ai/corporate-america-is-starting-to-ration-ai-as-cost-skyrockets-1eb99d7a Comments URL: https://news.ycombinator.com/item?id=48335388 Points: 179 # Comments: 167",
+      "summary": "Article URL: https://www.wsj.com/tech/ai/corporate-america-is-starting-to-ration-ai-as-cost-skyrockets-1eb99d7a Comments URL: https://news.ycombinator.com/item?id=48335388 Points: 181 # Comments: 171",
       "source": "Hacker News",
       "published": "2026-05-30T12:17:33+00:00",
       "link": "https://www.wsj.com/tech/ai/corporate-america-is-starting-to-ration-ai-as-cost-skyrockets-1eb99d7a"
@@ -248,7 +248,7 @@ const FEED_DATA = {
     },
     {
       "title": "Show HN: Tiny-vLLM – high performance LLM inference engine in C++ and CUDA",
-      "summary": "Article URL: https://github.com/jmaczan/tiny-vllm Comments URL: https://news.ycombinator.com/item?id=48328184 Points: 194 # Comments: 17",
+      "summary": "Article URL: https://github.com/jmaczan/tiny-vllm Comments URL: https://news.ycombinator.com/item?id=48328184 Points: 195 # Comments: 17",
       "source": "Hacker News",
       "published": "2026-05-29T19:38:27+00:00",
       "link": "https://github.com/jmaczan/tiny-vllm"
@@ -290,7 +290,7 @@ const FEED_DATA = {
     },
     {
       "title": "What if remote working, not AI, is to blame for weak junior hiring?",
-      "summary": "Article URL: https://www.ft.com/content/2205e2d0-50dc-4e80-9bf7-78d0272276c0 Comments URL: https://news.ycombinator.com/item?id=48326721 Points: 54 # Comments: 79",
+      "summary": "Article URL: https://www.ft.com/content/2205e2d0-50dc-4e80-9bf7-78d0272276c0 Comments URL: https://news.ycombinator.com/item?id=48326721 Points: 138 # Comments: 185",
       "source": "Hacker News",
       "published": "2026-05-29T17:50:11+00:00",
       "link": "https://www.ft.com/content/2205e2d0-50dc-4e80-9bf7-78d0272276c0"
@@ -381,7 +381,7 @@ const FEED_DATA = {
     },
     {
       "title": "CAPTCHAs can still detect AI agents",
-      "summary": "Article URL: https://research.roundtable.ai/captchas-detect-ai/ Comments URL: https://news.ycombinator.com/item?id=48324910 Points: 83 # Comments: 67",
+      "summary": "Article URL: https://research.roundtable.ai/captchas-detect-ai/ Comments URL: https://news.ycombinator.com/item?id=48324910 Points: 83 # Comments: 68",
       "source": "Hacker News",
       "published": "2026-05-29T15:57:37+00:00",
       "link": "https://research.roundtable.ai/captchas-detect-ai/"
@@ -402,7 +402,7 @@ const FEED_DATA = {
     },
     {
       "title": "Please Use AI",
-      "summary": "Article URL: https://shawnsmucker.substack.com/p/please-use-ai Comments URL: https://news.ycombinator.com/item?id=48323101 Points: 778 # Comments: 392",
+      "summary": "Article URL: https://shawnsmucker.substack.com/p/please-use-ai Comments URL: https://news.ycombinator.com/item?id=48323101 Points: 780 # Comments: 392",
       "source": "Hacker News",
       "published": "2026-05-29T13:50:25+00:00",
       "link": "https://shawnsmucker.substack.com/p/please-use-ai"
@@ -416,7 +416,7 @@ const FEED_DATA = {
     },
     {
       "title": "Expertise in the age of AI",
-      "summary": "Article URL: https://www.moderndescartes.com/essays/ai_and_expertise/ Comments URL: https://news.ycombinator.com/item?id=48322929 Points: 125 # Comments: 107",
+      "summary": "Article URL: https://www.moderndescartes.com/essays/ai_and_expertise/ Comments URL: https://news.ycombinator.com/item?id=48322929 Points: 125 # Comments: 108",
       "source": "Hacker News",
       "published": "2026-05-29T13:35:13+00:00",
       "link": "https://www.moderndescartes.com/essays/ai_and_expertise/"
@@ -465,7 +465,7 @@ const FEED_DATA = {
     },
     {
       "title": "Is AI causing a repeat of frontend’s lost decade?",
-      "summary": "Article URL: https://mastrojs.github.io/blog/2026-05-23-is-AI-causing-a-repeat-of-frontends-lost-decade/ Comments URL: https://news.ycombinator.com/item?id=48321631 Points: 402 # Comments: 331",
+      "summary": "Article URL: https://mastrojs.github.io/blog/2026-05-23-is-AI-causing-a-repeat-of-frontends-lost-decade/ Comments URL: https://news.ycombinator.com/item?id=48321631 Points: 402 # Comments: 332",
       "source": "Hacker News",
       "published": "2026-05-29T11:09:32+00:00",
       "link": "https://mastrojs.github.io/blog/2026-05-23-is-AI-causing-a-repeat-of-frontends-lost-decade/"
@@ -500,7 +500,7 @@ const FEED_DATA = {
     },
     {
       "title": "Real-time LLM Inference on Standard GPUs: 3k tokens/s per request",
-      "summary": "Article URL: https://blog.kog.ai/real-time-llm-inference-on-standard-gpus-3-000-tokens-s-per-request/ Comments URL: https://news.ycombinator.com/item?id=48321076 Points: 216 # Comments: 95",
+      "summary": "Article URL: https://blog.kog.ai/real-time-llm-inference-on-standard-gpus-3-000-tokens-s-per-request/ Comments URL: https://news.ycombinator.com/item?id=48321076 Points: 217 # Comments: 95",
       "source": "Hacker News",
       "published": "2026-05-29T09:47:23+00:00",
       "link": "https://blog.kog.ai/real-time-llm-inference-on-standard-gpus-3-000-tokens-s-per-request/"
