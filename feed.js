@@ -1,6 +1,27 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-06-01T06:01:32.647409+00:00",
+  "lastUpdated": "2026-06-01T10:21:46.848251+00:00",
   "items": [
+    {
+      "title": "The future of automated trading with the best forex robot reviews",
+      "summary": "Automation is becoming a bigger part of how financial markets are approached, and forex trading is one area where this is becoming easier to notice.",
+      "source": "AI News",
+      "published": "2026-06-01T08:51:42+00:00",
+      "link": "https://www.artificialintelligence-news.com/news/the-future-of-automated-trading-with-the-best-forex-robot-reviews/"
+    },
+    {
+      "title": "OpenAI starts with infrastructure robots but aims for \"everyone having a personal robot doing anything they need\"",
+      "summary": "OpenAI is building a robotics team again, five years after shutting the division down. The team grew out of the world simulation research program.",
+      "source": "The Decoder",
+      "published": "2026-06-01T08:47:33+00:00",
+      "link": "https://the-decoder.com/openai-starts-with-infrastructure-robots-but-aims-for-everyone-having-a-personal-robot-doing-anything-they-need/"
+    },
+    {
+      "title": "AI in video game development: How artificial intelligence is reshaping the industry",
+      "summary": "A Google Cloud survey found that 90% of developers are already integrating AI into their daily work, and on Steam, 7,818 titles disclosed AI use in 2025 alone, a 681% increase over the previous year. AI in video game development is not a side experiment.",
+      "source": "AI News",
+      "published": "2026-06-01T08:46:19+00:00",
+      "link": "https://www.artificialintelligence-news.com/news/ai-in-video-game-development/"
+    },
     {
       "title": "Erin Brockovich takes aim at data center secrecy",
       "summary": "Environmental activist Erin Brockovich has a new mission.",
@@ -1379,27 +1400,6 @@ const FEED_DATA = {
       "source": "Hacker News",
       "published": "2026-05-25T19:37:57+00:00",
       "link": "https://www.blocksandfiles.com/flash/2026/05/22/norways-2-petabytes-of-huawei-flash-storage-and-llm-training/5244910"
-    },
-    {
-      "title": "What ClickUp’s mass layoff tells us about the future of work",
-      "summary": "The nine-year-old startup is replacing hundreds of employees with thousands of AI agents.",
-      "source": "TechCrunch",
-      "published": "2026-05-25T16:00:00+00:00",
-      "link": "https://techcrunch.com/2026/05/25/what-clickups-mass-layoff-tells-us-about-the-future-of-work/"
-    },
-    {
-      "title": "The pope’s AI encyclical isn’t really about AI",
-      "summary": "Pope Leo XIV's first encyclical uses AI as a lens to diagnose older problems: concentrated power, eroding democracy, and a tech elite that shapes the world to its own advantage.",
-      "source": "TechCrunch",
-      "published": "2026-05-25T15:09:41+00:00",
-      "link": "https://techcrunch.com/2026/05/25/the-popes-ai-encyclical-isnt-really-about-ai/"
-    },
-    {
-      "title": "Pope Leo calls for being ‘profoundly human’ in the age of AI",
-      "summary": "Pope Leo XIV warned of the risks of AI and unconstrained technological power in his first major papal document released on Monday.",
-      "source": "The Verge",
-      "published": "2026-05-25T15:05:07+00:00",
-      "link": "https://www.theverge.com/news/936945/pope-leo-letter-encyclical-ai-anthropic-labor-warfare"
     }
   ]
 };
