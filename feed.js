@@ -1,6 +1,27 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-06-01T20:51:47.759481+00:00",
+  "lastUpdated": "2026-06-01T22:57:32.243091+00:00",
   "items": [
+    {
+      "title": "Alphabet plans to raise $80 billion to pay for AI buildout",
+      "summary": "The Google parent company plans to raise the funds by selling stock.",
+      "source": "TechCrunch",
+      "published": "2026-06-01T22:55:09+00:00",
+      "link": "https://techcrunch.com/2026/06/01/alphabet-plans-to-raise-80-billion-to-pay-for-ai-buildout/"
+    },
+    {
+      "title": "Nvidia chases $200B CPU market with AI agent PCs from Microsoft, Dell, and HP",
+      "summary": "If Nvidia has cracked a way to bring AI agents easily, safely, and usefully to the masses, it could — and should — be big.",
+      "source": "TechCrunch",
+      "published": "2026-06-01T21:35:00+00:00",
+      "link": "https://techcrunch.com/2026/06/01/nvidia-chases-200b-cpu-market-with-ai-agent-pcs-from-microsoft-dell-and-hp/"
+    },
+    {
+      "title": "Alphabet announces $80B equity capital raise to expand AI infra and compute",
+      "summary": "Article URL: https://abc.xyz/investor/news/news-details/2026/Alphabet-Announces-Proposed-80-Billion-Equity-Capital-Raise-to-Expand-AI-Infrastructure-and-Compute-2026-b0myAMewCa/default.aspx Comments URL: https://news.ycombinator.com/item?id=48362515 Points: 77 # Comments: 68",
+      "source": "Hacker News",
+      "published": "2026-06-01T20:55:15+00:00",
+      "link": "https://abc.xyz/investor/news/news-details/2026/Alphabet-Announces-Proposed-80-Billion-Equity-Capital-Raise-to-Expand-AI-Infrastructure-and-Compute-2026-b0myAMewCa/default.aspx"
+    },
     {
       "title": "Florida sues OpenAI, Sam Altman, in first-of-its-kind lawsuit over violent incidents",
       "summary": "The lawsuit partially revolves around a shooting at Florida State University last year, and ChatGPT's alleged role in the incident.",
@@ -30,6 +51,13 @@ const FEED_DATA = {
       "link": "https://www.theverge.com/tech/941179/meta-instagram-ai-support-chatbot-exploit-hacked"
     },
     {
+      "title": "Hackers Used Meta's AI Support Bot to Seize Instagram Accounts",
+      "summary": "Article URL: https://krebsonsecurity.com/2026/06/hackers-used-metas-ai-support-bot-to-seize-instagram-accounts/ Comments URL: https://news.ycombinator.com/item?id=48361346 Points: 50 # Comments: 18",
+      "source": "Hacker News",
+      "published": "2026-06-01T19:18:52+00:00",
+      "link": "https://krebsonsecurity.com/2026/06/hackers-used-metas-ai-support-bot-to-seize-instagram-accounts/"
+    },
+    {
       "title": "Claude maker Anthropic files for IPO with the SEC",
       "summary": "Anthropic has confidentially filed a draft IPO registration with the US Securities and Exchange Commission (SEC). The company behind the chatbot Claude is valued at just under $1 trillion after its latest funding round.",
       "source": "The Decoder",
@@ -52,7 +80,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI Agent Guidelines for CS336 at Stanford",
-      "summary": "Article URL: https://github.com/stanford-cs336/assignment1-basics/blob/main/CLAUDE.md Comments URL: https://news.ycombinator.com/item?id=48359232 Points: 203 # Comments: 91",
+      "summary": "Article URL: https://github.com/stanford-cs336/assignment1-basics/blob/main/CLAUDE.md Comments URL: https://news.ycombinator.com/item?id=48359232 Points: 270 # Comments: 106",
       "source": "Hacker News",
       "published": "2026-06-01T16:41:49+00:00",
       "link": "https://github.com/stanford-cs336/assignment1-basics/blob/main/CLAUDE.md"
@@ -66,14 +94,14 @@ const FEED_DATA = {
     },
     {
       "title": "Anthropic files to go public",
-      "summary": "The company said Monday it has filed confidentially for an IPO.",
+      "summary": "Anthropic, now an AI powerhouse that has landed top-tier enterprise customers, was once considered an underdog in the emerging world of large language models.",
       "source": "TechCrunch",
       "published": "2026-06-01T16:36:55+00:00",
       "link": "https://techcrunch.com/2026/06/01/anthropic-files-to-go-public/"
     },
     {
       "title": "Florida sues OpenAI and Sam Altman over AI risks",
-      "summary": "https://www.wsj.com/tech/ai/openai-sued-by-floridas-attorney...https://www.nbcnews.com/tech/tech-news/florida-sues-openai-s... Comments URL: https://news.ycombinator.com/item?id=48358667 Points: 71 # Comments: 38",
+      "summary": "https://www.wsj.com/tech/ai/openai-sued-by-floridas-attorney...https://www.nbcnews.com/tech/tech-news/florida-sues-openai-s... Comments URL: https://news.ycombinator.com/item?id=48358667 Points: 158 # Comments: 129",
       "source": "Hacker News",
       "published": "2026-06-01T16:02:04+00:00",
       "link": "https://www.politico.com/news/2026/06/01/openai-hit-with-florida-lawsuit-00944215"
@@ -150,7 +178,7 @@ const FEED_DATA = {
     },
     {
       "title": "When AI Crosses the Line: The Matplotlib Incident",
-      "summary": "Article URL: https://members.sigmazero.cc/posts/when-ai-crosses-159174096?postId=when-ai-crosses-159174096 Comments URL: https://news.ycombinator.com/item?id=48355751 Points: 128 # Comments: 135",
+      "summary": "Article URL: https://members.sigmazero.cc/posts/when-ai-crosses-159174096?postId=when-ai-crosses-159174096 Comments URL: https://news.ycombinator.com/item?id=48355751 Points: 129 # Comments: 135",
       "source": "Hacker News",
       "published": "2026-06-01T12:08:23+00:00",
       "link": "https://members.sigmazero.cc/posts/when-ai-crosses-159174096?postId=when-ai-crosses-159174096"
@@ -199,14 +227,14 @@ const FEED_DATA = {
     },
     {
       "title": "The Speed of Prototyping in the Age of AI",
-      "summary": "Article URL: https://darylcecile.net/notes/speed-of-prototyping-age-of-ai Comments URL: https://news.ycombinator.com/item?id=48347153 Points: 188 # Comments: 94",
+      "summary": "Article URL: https://darylcecile.net/notes/speed-of-prototyping-age-of-ai Comments URL: https://news.ycombinator.com/item?id=48347153 Points: 189 # Comments: 94",
       "source": "Hacker News",
       "published": "2026-05-31T16:37:34+00:00",
       "link": "https://darylcecile.net/notes/speed-of-prototyping-age-of-ai"
     },
     {
       "title": "Odysseus – self-hosted AI workspace",
-      "summary": "Article URL: https://github.com/pewdiepie-archdaemon/odysseus Comments URL: https://news.ycombinator.com/item?id=48346693 Points: 211 # Comments: 93",
+      "summary": "Article URL: https://github.com/pewdiepie-archdaemon/odysseus Comments URL: https://news.ycombinator.com/item?id=48346693 Points: 212 # Comments: 94",
       "source": "Hacker News",
       "published": "2026-05-31T15:50:34+00:00",
       "link": "https://github.com/pewdiepie-archdaemon/odysseus"
@@ -220,7 +248,7 @@ const FEED_DATA = {
     },
     {
       "title": "The solution might be cancelling my AI subscription",
-      "summary": "Article URL: https://thoughts.hmmz.org/2026-05-31.html Comments URL: https://news.ycombinator.com/item?id=48345896 Points: 371 # Comments: 232",
+      "summary": "Article URL: https://thoughts.hmmz.org/2026-05-31.html Comments URL: https://news.ycombinator.com/item?id=48345896 Points: 375 # Comments: 232",
       "source": "Hacker News",
       "published": "2026-05-31T14:23:30+00:00",
       "link": "https://thoughts.hmmz.org/2026-05-31.html"
@@ -388,7 +416,7 @@ const FEED_DATA = {
     },
     {
       "title": "Corporate America Is Starting to Ration AI as Cost Skyrockets",
-      "summary": "Article URL: https://www.wsj.com/tech/ai/corporate-america-is-starting-to-ration-ai-as-cost-skyrockets-1eb99d7a Comments URL: https://news.ycombinator.com/item?id=48335388 Points: 183 # Comments: 173",
+      "summary": "Article URL: https://www.wsj.com/tech/ai/corporate-america-is-starting-to-ration-ai-as-cost-skyrockets-1eb99d7a Comments URL: https://news.ycombinator.com/item?id=48335388 Points: 184 # Comments: 173",
       "source": "Hacker News",
       "published": "2026-05-30T12:17:33+00:00",
       "link": "https://www.wsj.com/tech/ai/corporate-america-is-starting-to-ration-ai-as-cost-skyrockets-1eb99d7a"
@@ -493,7 +521,7 @@ const FEED_DATA = {
     },
     {
       "title": "What if remote working, not AI, is to blame for weak junior hiring?",
-      "summary": "Article URL: https://www.ft.com/content/2205e2d0-50dc-4e80-9bf7-78d0272276c0 Comments URL: https://news.ycombinator.com/item?id=48326721 Points: 251 # Comments: 348",
+      "summary": "Article URL: https://www.ft.com/content/2205e2d0-50dc-4e80-9bf7-78d0272276c0 Comments URL: https://news.ycombinator.com/item?id=48326721 Points: 254 # Comments: 354",
       "source": "Hacker News",
       "published": "2026-05-29T17:50:11+00:00",
       "link": "https://www.ft.com/content/2205e2d0-50dc-4e80-9bf7-78d0272276c0"
@@ -1372,34 +1400,6 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-05-26T18:31:07+00:00",
       "link": "https://the-decoder.com/claude-mythos-reportedly-solves-openais-landmark-erdos-problem-with-a-cute-simple-proof/"
-    },
-    {
-      "title": "This startup is betting India’s gig economy can train the world’s robots",
-      "summary": "Human Archive, a startup founded by UC Berkeley and Stanford researchers, is paying gig workers in India to wear camera-equipped caps and sensor devices to collect the real-world physical training data that AI and robotics labs are racing to acquire.",
-      "source": "TechCrunch",
-      "published": "2026-05-26T16:00:00+00:00",
-      "link": "https://techcrunch.com/2026/05/26/human-archive-taps-into-indias-services-startups-to-collect-data-for-physical-ai/"
-    },
-    {
-      "title": "Universal Music Group and TikTok renew agreement to combat unauthorized AI music",
-      "summary": "For years, UMG has pushed platforms, streaming services, and AI companies to implement stricter content moderation policies.",
-      "source": "TechCrunch",
-      "published": "2026-05-26T14:55:05+00:00",
-      "link": "https://techcrunch.com/2026/05/26/universal-music-group-and-tiktok-renew-agreement-to-combat-unauthorized-ai-music/"
-    },
-    {
-      "title": "Rethinking organizational design in the age of agentic AI",
-      "summary": "Amid rapidly growing adoption of enterprise-level AI agents, there’s a disconnect emerging between ambition and execution.",
-      "source": "MIT Tech Review",
-      "published": "2026-05-26T14:54:10+00:00",
-      "link": "https://www.technologyreview.com/2026/05/26/1137584/rethinking-organizational-design-in-the-age-of-agentic-ai/"
-    },
-    {
-      "title": "China reportedly now requires top AI researchers to get permission before leaving the country",
-      "summary": "China is now restricting overseas travel for top AI researchers at private companies like Alibaba and DeepSeek. Those affected need official approval before leaving the country.",
-      "source": "The Decoder",
-      "published": "2026-05-26T14:25:50+00:00",
-      "link": "https://the-decoder.com/china-reportedly-now-requires-top-ai-researchers-to-get-permission-before-leaving-the-country/"
     }
   ]
 };
