@@ -1,6 +1,83 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-06-01T10:21:46.848251+00:00",
+  "lastUpdated": "2026-06-01T14:43:26.706984+00:00",
   "items": [
+    {
+      "title": "Microsoft to unveil new AI models and Windows improvements at Build",
+      "summary": "Microsoft is heading to San Francisco this week in a bid to win back developers at its Build conference. I've been attending Build since the days when Microsoft called it the Professional Developers Conference, and I can't remember a more pivotal moment.",
+      "source": "The Verge",
+      "published": "2026-06-01T14:39:03+00:00",
+      "link": "https://www.theverge.com/report/940861/microsoft-build-ai-models-windows-dev-mode-what-to-expect"
+    },
+    {
+      "title": "AI is blowing up music. How should the Grammys handle it?",
+      "summary": "Today I’m talking with Harvey Mason Jr., who is CEO of the Recording Academy — that’s the outfit that puts on the Grammy Awards.",
+      "source": "The Verge",
+      "published": "2026-06-01T14:30:00+00:00",
+      "link": "https://www.theverge.com/podcast/940831/ai-grammys-music-recording-harvey-mason"
+    },
+    {
+      "title": "Strava blames zero-code AI apps and scrapers as it tightens API access",
+      "summary": "The popular fitness-tracking platform, Strava, is restricting access to its API as part of efforts to clamp down on AI scraping, as reported earlier by TechCrunch. Developers who want to build an app using Strava's data now need to pay for a flat $11.99 / month subscription.",
+      "source": "The Verge",
+      "published": "2026-06-01T14:06:44+00:00",
+      "link": "https://www.theverge.com/gadgets/940854/strava-restricts-api-access-ai-apps"
+    },
+    {
+      "title": "MiniMax M3: Open-weight model with a million-token context challenges proprietary leaders",
+      "summary": "Chinese AI company MiniMax has released its new model M3. It's billed as the first open-weight model to combine top-tier coding performance, a one-million-token context window, and native multimodality.",
+      "source": "The Decoder",
+      "published": "2026-06-01T13:38:52+00:00",
+      "link": "https://the-decoder.com/minimax-m3-open-weight-model-with-a-million-token-context-challenges-proprietary-leaders/"
+    },
+    {
+      "title": "Nvidia's Nemotron 3 Ultra becomes the smartest open US model, but China still leads",
+      "summary": "According to benchmark platform Artificial Analysis, Nvidia's new Nemotron 3 Ultra is the most capable open AI model from the US to date. The article Nvidia's Nemotron 3 Ultra becomes the smartest open US model, but China still leads appeared first on The Decoder.",
+      "source": "The Decoder",
+      "published": "2026-06-01T13:32:51+00:00",
+      "link": "https://the-decoder.com/nvidias-nemotron-3-ultra-becomes-the-smartest-open-us-model-but-china-still-leads/"
+    },
+    {
+      "title": "Nvidia bets big on physical AI at GTC Taipei with a new world model, driving brain, and open humanoid robot",
+      "summary": "Nvidia used GTC Taipei to launch a series of models for robots, autonomous vehicles, and video systems. The centerpieces are the new world model Cosmos 3, a significantly scaled-up driving model called Alpamayo 2 Super, and an open reference platform for humanoid robots.",
+      "source": "The Decoder",
+      "published": "2026-06-01T13:26:35+00:00",
+      "link": "https://the-decoder.com/nvidia-bets-big-on-physical-ai-at-gtc-taipei-with-a-new-world-model-driving-brain-and-open-humanoid-robot/"
+    },
+    {
+      "title": "Nvidia pitches RTX Spark as the chip that finally makes local AI agents practical on Windows devices",
+      "summary": "Nvidia is attacking Apple Silicon and Qualcomm on Windows laptops with the RTX Spark. The chip combines a Blackwell GPU with an Arm-based Grace CPU and up to 128 GB of shared memory, with a calculated 1,000 TOPS in FP4.",
+      "source": "The Decoder",
+      "published": "2026-06-01T13:17:03+00:00",
+      "link": "https://the-decoder.com/nvidia-pitches-rtx-spark-as-the-chip-that-finally-makes-local-ai-agents-practical-on-windows-devices/"
+    },
+    {
+      "title": "The Download: China’s brain implant ambitions",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.",
+      "source": "MIT Tech Review",
+      "published": "2026-06-01T12:10:00+00:00",
+      "link": "https://www.technologyreview.com/2026/06/01/1138207/the-download-china-bci-brain-implant-nvidia-ai-chips-laptops/"
+    },
+    {
+      "title": "When AI Crosses the Line: The Matplotlib Incident",
+      "summary": "Article URL: https://members.sigmazero.cc/posts/when-ai-crosses-159174096?postId=when-ai-crosses-159174096 Comments URL: https://news.ycombinator.com/item?id=48355751 Points: 101 # Comments: 79",
+      "source": "Hacker News",
+      "published": "2026-06-01T12:08:23+00:00",
+      "link": "https://members.sigmazero.cc/posts/when-ai-crosses-159174096?postId=when-ai-crosses-159174096"
+    },
+    {
+      "title": "Norse Atlantic Airways Offers Dirt-Cheap Tickets. There’s a Catch",
+      "summary": "Dozens of people have complained to the Federal Trade Commission about Norse Atlantic Airways’ tech-first customer service operation. Some said they lost thousands of dollars.",
+      "source": "Wired",
+      "published": "2026-06-01T11:00:00+00:00",
+      "link": "https://www.wired.com/story/norse-airlines-ftc-complaints-ai-scams/"
+    },
+    {
+      "title": "China has approved the world’s first invasive brain-computer chip—here’s what’s next",
+      "summary": "One day last October, sitting in the courtyard of his house in China’s Henan province, Dong Hui decided to see if he could hold a pen to write. Dong, 39, had sustained spinal cord injuries in a car accident six years earlier that left him paralyzed from the neck down.",
+      "source": "MIT Tech Review",
+      "published": "2026-06-01T09:09:00+00:00",
+      "link": "https://www.technologyreview.com/2026/06/01/1138133/china-world-first-brain-chip/"
+    },
     {
       "title": "The future of automated trading with the best forex robot reviews",
       "summary": "Automation is becoming a bigger part of how financial markets are approached, and forex trading is one area where this is becoming easier to notice.",
@@ -31,14 +108,14 @@ const FEED_DATA = {
     },
     {
       "title": "The Speed of Prototyping in the Age of AI",
-      "summary": "Article URL: https://darylcecile.net/notes/speed-of-prototyping-age-of-ai Comments URL: https://news.ycombinator.com/item?id=48347153 Points: 138 # Comments: 69",
+      "summary": "Article URL: https://darylcecile.net/notes/speed-of-prototyping-age-of-ai Comments URL: https://news.ycombinator.com/item?id=48347153 Points: 182 # Comments: 92",
       "source": "Hacker News",
       "published": "2026-05-31T16:37:34+00:00",
       "link": "https://darylcecile.net/notes/speed-of-prototyping-age-of-ai"
     },
     {
       "title": "Odysseus – self-hosted AI workspace",
-      "summary": "Article URL: https://github.com/pewdiepie-archdaemon/odysseus Comments URL: https://news.ycombinator.com/item?id=48346693 Points: 152 # Comments: 72",
+      "summary": "Article URL: https://github.com/pewdiepie-archdaemon/odysseus Comments URL: https://news.ycombinator.com/item?id=48346693 Points: 195 # Comments: 91",
       "source": "Hacker News",
       "published": "2026-05-31T15:50:34+00:00",
       "link": "https://github.com/pewdiepie-archdaemon/odysseus"
@@ -52,14 +129,14 @@ const FEED_DATA = {
     },
     {
       "title": "The solution might be cancelling my AI subscription",
-      "summary": "Article URL: https://thoughts.hmmz.org/2026-05-31.html Comments URL: https://news.ycombinator.com/item?id=48345896 Points: 347 # Comments: 225",
+      "summary": "Article URL: https://thoughts.hmmz.org/2026-05-31.html Comments URL: https://news.ycombinator.com/item?id=48345896 Points: 367 # Comments: 230",
       "source": "Hacker News",
       "published": "2026-05-31T14:23:30+00:00",
       "link": "https://thoughts.hmmz.org/2026-05-31.html"
     },
     {
       "title": "The people who actually want AI to replace humanity",
-      "summary": "Article URL: https://www.vox.com/future-perfect/489976/ai-successionism-transhumanism-posthumanism Comments URL: https://news.ycombinator.com/item?id=48345881 Points: 74 # Comments: 83",
+      "summary": "Article URL: https://www.vox.com/future-perfect/489976/ai-successionism-transhumanism-posthumanism Comments URL: https://news.ycombinator.com/item?id=48345881 Points: 76 # Comments: 85",
       "source": "Hacker News",
       "published": "2026-05-31T14:20:12+00:00",
       "link": "https://www.vox.com/future-perfect/489976/ai-successionism-transhumanism-posthumanism"
@@ -136,7 +213,7 @@ const FEED_DATA = {
     },
     {
       "title": "To have a moral stance on AI is to be an outcast, and it sucks",
-      "summary": "Article URL: https://musings.martyn.berlin/to-have-a-moral-stance-on-ai-is-to-be-an-outcast-and-it-sucks Comments URL: https://news.ycombinator.com/item?id=48337676 Points: 142 # Comments: 310",
+      "summary": "Article URL: https://musings.martyn.berlin/to-have-a-moral-stance-on-ai-is-to-be-an-outcast-and-it-sucks Comments URL: https://news.ycombinator.com/item?id=48337676 Points: 145 # Comments: 311",
       "source": "Hacker News",
       "published": "2026-05-30T16:04:00+00:00",
       "link": "https://musings.martyn.berlin/to-have-a-moral-stance-on-ai-is-to-be-an-outcast-and-it-sucks"
@@ -157,7 +234,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI job grief: A psychological crisis hitting tech workers",
-      "summary": "Article URL: https://jackmaguire.org/blog/ai-job-grief/ Comments URL: https://news.ycombinator.com/item?id=48336760 Points: 191 # Comments: 187",
+      "summary": "Article URL: https://jackmaguire.org/blog/ai-job-grief/ Comments URL: https://news.ycombinator.com/item?id=48336760 Points: 195 # Comments: 200",
       "source": "Hacker News",
       "published": "2026-05-30T14:41:26+00:00",
       "link": "https://jackmaguire.org/blog/ai-job-grief/"
@@ -171,7 +248,7 @@ const FEED_DATA = {
     },
     {
       "title": "Anthropic surpasses OpenAI to become most valuable AI startup",
-      "summary": "Article URL: https://qazinform.com/news/anthropic-surpasses-openai-to-become-worlds-most-valuable-ai-startup Comments URL: https://news.ycombinator.com/item?id=48336233 Points: 418 # Comments: 469",
+      "summary": "Article URL: https://qazinform.com/news/anthropic-surpasses-openai-to-become-worlds-most-valuable-ai-startup Comments URL: https://news.ycombinator.com/item?id=48336233 Points: 420 # Comments: 471",
       "source": "Hacker News",
       "published": "2026-05-30T13:56:34+00:00",
       "link": "https://qazinform.com/news/anthropic-surpasses-openai-to-become-worlds-most-valuable-ai-startup"
@@ -206,7 +283,7 @@ const FEED_DATA = {
     },
     {
       "title": "Corporate America Is Starting to Ration AI as Cost Skyrockets",
-      "summary": "Article URL: https://www.wsj.com/tech/ai/corporate-america-is-starting-to-ration-ai-as-cost-skyrockets-1eb99d7a Comments URL: https://news.ycombinator.com/item?id=48335388 Points: 181 # Comments: 171",
+      "summary": "Article URL: https://www.wsj.com/tech/ai/corporate-america-is-starting-to-ration-ai-as-cost-skyrockets-1eb99d7a Comments URL: https://news.ycombinator.com/item?id=48335388 Points: 183 # Comments: 171",
       "source": "Hacker News",
       "published": "2026-05-30T12:17:33+00:00",
       "link": "https://www.wsj.com/tech/ai/corporate-america-is-starting-to-ration-ai-as-cost-skyrockets-1eb99d7a"
@@ -269,7 +346,7 @@ const FEED_DATA = {
     },
     {
       "title": "Show HN: Tiny-vLLM – high performance LLM inference engine in C++ and CUDA",
-      "summary": "Article URL: https://github.com/jmaczan/tiny-vllm Comments URL: https://news.ycombinator.com/item?id=48328184 Points: 195 # Comments: 17",
+      "summary": "Article URL: https://github.com/jmaczan/tiny-vllm Comments URL: https://news.ycombinator.com/item?id=48328184 Points: 196 # Comments: 18",
       "source": "Hacker News",
       "published": "2026-05-29T19:38:27+00:00",
       "link": "https://github.com/jmaczan/tiny-vllm"
@@ -311,14 +388,14 @@ const FEED_DATA = {
     },
     {
       "title": "What if remote working, not AI, is to blame for weak junior hiring?",
-      "summary": "Article URL: https://www.ft.com/content/2205e2d0-50dc-4e80-9bf7-78d0272276c0 Comments URL: https://news.ycombinator.com/item?id=48326721 Points: 138 # Comments: 185",
+      "summary": "Article URL: https://www.ft.com/content/2205e2d0-50dc-4e80-9bf7-78d0272276c0 Comments URL: https://news.ycombinator.com/item?id=48326721 Points: 228 # Comments: 309",
       "source": "Hacker News",
       "published": "2026-05-29T17:50:11+00:00",
       "link": "https://www.ft.com/content/2205e2d0-50dc-4e80-9bf7-78d0272276c0"
     },
     {
       "title": "Robinhood now lets your AI agents trade stocks",
-      "summary": "Article URL: https://techcrunch.com/2026/05/27/robinhood-now-lets-your-ai-agents-trade-stocks/ Comments URL: https://news.ycombinator.com/item?id=48326659 Points: 109 # Comments: 180",
+      "summary": "Article URL: https://techcrunch.com/2026/05/27/robinhood-now-lets-your-ai-agents-trade-stocks/ Comments URL: https://news.ycombinator.com/item?id=48326659 Points: 110 # Comments: 180",
       "source": "Hacker News",
       "published": "2026-05-29T17:46:27+00:00",
       "link": "https://techcrunch.com/2026/05/27/robinhood-now-lets-your-ai-agents-trade-stocks/"
@@ -374,7 +451,7 @@ const FEED_DATA = {
     },
     {
       "title": "Notes from the Mistral AI Now Summit",
-      "summary": "Article URL: https://koenvangilst.nl/lab/mistral-ai-now-summit Comments URL: https://news.ycombinator.com/item?id=48325340 Points: 463 # Comments: 210",
+      "summary": "Article URL: https://koenvangilst.nl/lab/mistral-ai-now-summit Comments URL: https://news.ycombinator.com/item?id=48325340 Points: 465 # Comments: 211",
       "source": "Hacker News",
       "published": "2026-05-29T16:22:01+00:00",
       "link": "https://koenvangilst.nl/lab/mistral-ai-now-summit"
@@ -423,7 +500,7 @@ const FEED_DATA = {
     },
     {
       "title": "Please Use AI",
-      "summary": "Article URL: https://shawnsmucker.substack.com/p/please-use-ai Comments URL: https://news.ycombinator.com/item?id=48323101 Points: 780 # Comments: 392",
+      "summary": "Article URL: https://shawnsmucker.substack.com/p/please-use-ai Comments URL: https://news.ycombinator.com/item?id=48323101 Points: 781 # Comments: 394",
       "source": "Hacker News",
       "published": "2026-05-29T13:50:25+00:00",
       "link": "https://shawnsmucker.substack.com/p/please-use-ai"
@@ -437,7 +514,7 @@ const FEED_DATA = {
     },
     {
       "title": "Expertise in the age of AI",
-      "summary": "Article URL: https://www.moderndescartes.com/essays/ai_and_expertise/ Comments URL: https://news.ycombinator.com/item?id=48322929 Points: 125 # Comments: 108",
+      "summary": "Article URL: https://www.moderndescartes.com/essays/ai_and_expertise/ Comments URL: https://news.ycombinator.com/item?id=48322929 Points: 125 # Comments: 109",
       "source": "Hacker News",
       "published": "2026-05-29T13:35:13+00:00",
       "link": "https://www.moderndescartes.com/essays/ai_and_expertise/"
@@ -486,7 +563,7 @@ const FEED_DATA = {
     },
     {
       "title": "Is AI causing a repeat of frontend’s lost decade?",
-      "summary": "Article URL: https://mastrojs.github.io/blog/2026-05-23-is-AI-causing-a-repeat-of-frontends-lost-decade/ Comments URL: https://news.ycombinator.com/item?id=48321631 Points: 402 # Comments: 332",
+      "summary": "Article URL: https://mastrojs.github.io/blog/2026-05-23-is-AI-causing-a-repeat-of-frontends-lost-decade/ Comments URL: https://news.ycombinator.com/item?id=48321631 Points: 403 # Comments: 333",
       "source": "Hacker News",
       "published": "2026-05-29T11:09:32+00:00",
       "link": "https://mastrojs.github.io/blog/2026-05-23-is-AI-causing-a-repeat-of-frontends-lost-decade/"
@@ -506,18 +583,18 @@ const FEED_DATA = {
       "link": "https://www.artificialintelligence-news.com/news/anthropic-releases-claude-opus-4-8-news/"
     },
     {
-      "title": "Adobe’s conversational AI agent is a mediocre design intern",
-      "summary": "AI image tools rarely make me feel like I'm part of the creative process. They are, after all, mostly designed so that people with no design experience can type in a few words and get back a usable result.",
-      "source": "The Verge",
-      "published": "2026-05-29T10:00:00+00:00",
-      "link": "https://www.theverge.com/tech/939686/adobes-conversational-ai-agent-is-a-mediocre-design-intern"
-    },
-    {
       "title": "How the Pope’s Magnifica Humanitas offers a template for individuals to meet the AI moment",
       "summary": "Pope Leo XIV’s new encyclical on artificial intelligence includes a statement that warrants serious attention from technologists and policymakers: “Technology is never neutral.” Magnifica Humanitas (“Magnificent Humanity”) is a clarion call to all people to act with courage and...",
       "source": "MIT Tech Review",
       "published": "2026-05-29T10:00:00+00:00",
       "link": "https://www.technologyreview.com/2026/05/29/1138107/how-the-popes-magnifica-humanitas-offers-a-template-for-individuals-to-meet-the-ai-moment/"
+    },
+    {
+      "title": "Adobe’s conversational AI agent is a mediocre design intern",
+      "summary": "AI image tools rarely make me feel like I'm part of the creative process. They are, after all, mostly designed so that people with no design experience can type in a few words and get back a usable result.",
+      "source": "The Verge",
+      "published": "2026-05-29T10:00:00+00:00",
+      "link": "https://www.theverge.com/tech/939686/adobes-conversational-ai-agent-is-a-mediocre-design-intern"
     },
     {
       "title": "Real-time LLM Inference on Standard GPUs: 3k tokens/s per request",
@@ -1323,83 +1400,6 @@ const FEED_DATA = {
       "source": "Wired",
       "published": "2026-05-26T10:00:00+00:00",
       "link": "https://www.wired.com/story/quiz-will-ai-destroy-your-career/"
-    },
-    {
-      "title": "I’m a Professional Fact-Checker. AI Is Wrong More Often Than You Think",
-      "summary": "Can AI do fact-checking? A WIRED fact-checker fact-checks.",
-      "source": "Wired",
-      "published": "2026-05-26T10:00:00+00:00",
-      "link": "https://www.wired.com/story/fact-checking-ai/"
-    },
-    {
-      "title": "Take This Mandatory AI Workplace Training Right Now—or Else",
-      "summary": "AI could make you redundant. Here’s what you need to know.",
-      "source": "Wired",
-      "published": "2026-05-26T10:00:00+00:00",
-      "link": "https://www.wired.com/story/ai-or-die-trying/"
-    },
-    {
-      "title": "To Land a Job in AI, Try Reading Kant",
-      "summary": "The world’s leading AI labs are hiring philosophers to think through ethical edge cases and grand questions of mind and morality. Are they another instrument of hype?",
-      "source": "Wired",
-      "published": "2026-05-26T10:00:00+00:00",
-      "link": "https://www.wired.com/story/to-land-a-job-in-ai-try-reading-kant/"
-    },
-    {
-      "title": "7 Ways to Get So Good at AI, People Will Think You Are AI",
-      "summary": "From killing your chatbots to optimizing your prompts, here are the best ways to go full AI native and conquer the new world.",
-      "source": "Wired",
-      "published": "2026-05-26T10:00:00+00:00",
-      "link": "https://www.wired.com/story/7-ways-to-get-so-good-at-ai-people-will-think-you-are-ai/"
-    },
-    {
-      "title": "US Law Enforcement Warns of ‘Anti-Tech Extremism’ as AI Hatred Grows",
-      "summary": "As Americans stew over the looming risk of job-stealing AI and data centers in their back yards, the feds are raising the alarm about a new category of threat, documents obtained by WIRED show.",
-      "source": "Wired",
-      "published": "2026-05-26T09:30:00+00:00",
-      "link": "https://www.wired.com/story/us-law-enforcement-warns-of-anti-tech-extremism/"
-    },
-    {
-      "title": "A reality check on the AI jobs hysteria",
-      "summary": "Haven’t you heard? White-collar jobs are going away, decimated by AI.",
-      "source": "MIT Tech Review",
-      "published": "2026-05-26T09:00:00+00:00",
-      "link": "https://www.technologyreview.com/2026/05/26/1137855/a-reality-check-on-the-ai-jobs-hysteria/"
-    },
-    {
-      "title": "It’s time to address the looming crisis in entry-level work.",
-      "summary": "Artificial intelligence has not so far produced a clean story of mass unemployment. Aggregate employment in developed countries remains broadly stable, and recent assessments have found limited evidence that AI has shifted the headline numbers.",
-      "source": "MIT Tech Review",
-      "published": "2026-05-26T09:00:00+00:00",
-      "link": "https://www.technologyreview.com/2026/05/26/1137865/its-time-to-address-the-looming-crisis-in-entry-level-work/"
-    },
-    {
-      "title": "Investigating how prompt politeness affects LLM accuracy (2025)",
-      "summary": "Article URL: https://arxiv.org/abs/2510.04950 Comments URL: https://news.ycombinator.com/item?id=48276429 Points: 139 # Comments: 187",
-      "source": "Hacker News",
-      "published": "2026-05-26T07:43:22+00:00",
-      "link": "https://arxiv.org/abs/2510.04950"
-    },
-    {
-      "title": "Notes on Pope Leo XIV's Encyclical on AI",
-      "summary": "Article URL: https://simonwillison.net/2026/May/25/encyclical-on-ai/ Comments URL: https://news.ycombinator.com/item?id=48275098 Points: 61 # Comments: 12",
-      "source": "Hacker News",
-      "published": "2026-05-26T04:45:29+00:00",
-      "link": "https://simonwillison.net/2026/May/25/encyclical-on-ai/"
-    },
-    {
-      "title": "Using AI to write better code more slowly",
-      "summary": "Article URL: https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly/ Comments URL: https://news.ycombinator.com/item?id=48272984 Points: 1235 # Comments: 446",
-      "source": "Hacker News",
-      "published": "2026-05-25T23:16:59+00:00",
-      "link": "https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly/"
-    },
-    {
-      "title": "Norway's 2 petabytes of Huawei flash storage and LLM training",
-      "summary": "Article URL: https://www.blocksandfiles.com/flash/2026/05/22/norways-2-petabytes-of-huawei-flash-storage-and-llm-training/5244910 Comments URL: https://news.ycombinator.com/item?id=48270770 Points: 323 # Comments: 215",
-      "source": "Hacker News",
-      "published": "2026-05-25T19:37:57+00:00",
-      "link": "https://www.blocksandfiles.com/flash/2026/05/22/norways-2-petabytes-of-huawei-flash-storage-and-llm-training/5244910"
     }
   ]
 };
