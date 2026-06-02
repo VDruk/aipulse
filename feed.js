@@ -1,6 +1,125 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-06-02T17:25:20.225038+00:00",
+  "lastUpdated": "2026-06-02T20:04:30.886563+00:00",
   "items": [
+    {
+      "title": "Microsoft Build 2026: the 7 biggest announcements",
+      "summary": "Microsoft just kicked off Build 2026 with a keynote from CEO Satya Nadella and other company leaders. As expected, it was filled with announcements, ranging from new Surface hardware to an always-on personal assistant and updates across Microsoft's in-house AI models.",
+      "source": "The Verge",
+      "published": "2026-06-02T19:23:52+00:00",
+      "link": "https://www.theverge.com/tech/941738/microsoft-build-2026-biggest-announcements"
+    },
+    {
+      "title": "Uber caps employee AI spending after blowing through budget in four months",
+      "summary": "Uber's cutback has occurred after the company had reportedly encouraged staff to use AI as much as possible.",
+      "source": "TechCrunch",
+      "published": "2026-06-02T19:11:48+00:00",
+      "link": "https://techcrunch.com/2026/06/02/uber-caps-employee-ai-spending-after-blowing-through-budget-in-four-months/"
+    },
+    {
+      "title": "New Microsoft tool lets devs spin up AI behavior tests using text descriptions",
+      "summary": "Microsoft on Tuesday took the wraps off Adaptive Spec-driven Scoring for Evaluation and Regression Testing, an open source framework for spinning up AI evaluations.",
+      "source": "TechCrunch",
+      "published": "2026-06-02T19:02:21+00:00",
+      "link": "https://techcrunch.com/2026/06/02/new-microsoft-tool-lets-devs-spin-up-ai-behavior-tests-using-text-descriptions/"
+    },
+    {
+      "title": "OpenAI expands Codex with role-specific plugins to build a general-purpose app for non-developers",
+      "summary": "OpenAI is expanding Codex with role-specific plugins for data analysis, sales, and investment banking. Five million people use the tool each week, and one in five isn't a developer, the company says.",
+      "source": "The Decoder",
+      "published": "2026-06-02T18:34:15+00:00",
+      "link": "https://the-decoder.com/openai-expands-codex-with-role-specific-plugins-to-build-a-general-purpose-app-for-non-developers/"
+    },
+    {
+      "title": "Trump signs executive order to review AI models before they’re released",
+      "summary": "President Donald Trump signed an executive order Tuesday creating a \"voluntary framework\" for AI companies to share their frontier models with the federal government before they're released \"to promote secure innovation and strengthen the cybersecurity of critical...",
+      "source": "The Verge",
+      "published": "2026-06-02T18:33:42+00:00",
+      "link": "https://www.theverge.com/policy/941775/trump-ai-executive-order"
+    },
+    {
+      "title": "Martin Scorsese becomes the latest — and most unlikely — Hollywood voice for AI",
+      "summary": "The caveat is that one of the world's most famous living directors is using the tech solely for storyboarding.",
+      "source": "TechCrunch",
+      "published": "2026-06-02T18:16:53+00:00",
+      "link": "https://techcrunch.com/2026/06/02/martin-scorsese-becomes-the-latest-and-most-unlikely-hollywood-voice-for-ai/"
+    },
+    {
+      "title": "Microsoft’s first advanced reasoning AI is here",
+      "summary": "Microsoft announced a bunch of new in-house AI models at Build 2026, including a new \"flagship\" model: MAI-Thinking-1.",
+      "source": "The Verge",
+      "published": "2026-06-02T18:12:44+00:00",
+      "link": "https://www.theverge.com/tech/941664/microsoft-ai-model-reasoning-mai-thinking-1-build-2026"
+    },
+    {
+      "title": "Anthropic IPO filing marks AI maturing into enterprise utility",
+      "summary": "Anthropic’s IPO filing marks the maturation of generative AI from a research-heavy venture phase into a stabilised enterprise utility. Model developers operating in private markets have prioritised rapid iteration and maximum compute performance over predictable billing cycles.",
+      "source": "AI News",
+      "published": "2026-06-02T18:04:03+00:00",
+      "link": "https://www.artificialintelligence-news.com/news/anthropic-ipo-filing-marks-ai-maturing-enterprise-utility/"
+    },
+    {
+      "title": "Microsoft launches Scout, an OpenClaw-inspired personal assistant",
+      "summary": "Launched at Build, Microsoft Scout is a new AI assistant meant to bring the power and flexibility of OpenClaw into the Microsoft 365 system.",
+      "source": "TechCrunch",
+      "published": "2026-06-02T18:02:44+00:00",
+      "link": "https://techcrunch.com/2026/06/02/microsoft-launches-scout-an-openclaw-inspired-personal-assistant/"
+    },
+    {
+      "title": "Google rolls out fake call detection to protect against AI deepfake impersonation scams",
+      "summary": "As people increasingly refuse to answer calls from unknown numbers, scammers are shifting their tactics by spoofing trusted phone numbers and using AI deepfake technology to sound like authority figures, family members, or employers.",
+      "source": "TechCrunch",
+      "published": "2026-06-02T18:00:00+00:00",
+      "link": "https://techcrunch.com/2026/06/02/google-rolls-out-fake-call-detection-to-protect-against-ai-deepfake-impersonation-scams/"
+    },
+    {
+      "title": "Microsoft offers devs a better way to control AI agent behavior",
+      "summary": "The specification lets developer, compliance, and security teams define their own policies for agents to follow in portable policy files.",
+      "source": "TechCrunch",
+      "published": "2026-06-02T18:00:00+00:00",
+      "link": "https://techcrunch.com/2026/06/02/microsoft-offers-devs-a-better-way-to-control-ai-agent-behavior/"
+    },
+    {
+      "title": "Microsoft Scout is a new AI personal assistant built on OpenClaw",
+      "summary": "Much like Google, Microsoft is launching its own version of OpenClaw.",
+      "source": "The Verge",
+      "published": "2026-06-02T18:00:00+00:00",
+      "link": "https://www.theverge.com/news/939713/microsoft-scout-assistant-openclaw"
+    },
+    {
+      "title": "Google’s Phone app will tell you if a scammer is impersonating one of your contacts",
+      "summary": "Google is launching a new feature for its Phone app that aims to protect you from AI impersonation scams.",
+      "source": "The Verge",
+      "published": "2026-06-02T18:00:00+00:00",
+      "link": "https://www.theverge.com/tech/941517/google-phone-scammer-ai-impersonation"
+    },
+    {
+      "title": "Meet Microsoft Scout, Your AI Coworker That Never Logs Off",
+      "summary": "Microsoft’s OpenClaw-style agent appears in Teams, just like a human colleague, and automates your dull office tasks.",
+      "source": "Wired",
+      "published": "2026-06-02T18:00:00+00:00",
+      "link": "https://www.wired.com/story/meet-microsoft-scout-your-ai-coworker-that-never-logs-off/"
+    },
+    {
+      "title": "Amazon faces class action lawsuit over Ring facial-recognition feature",
+      "summary": "The class action lawsuit, filed in Seattle by Virginia resident Charles Sigwalt, claims that Ring's Familiar Faces feature stores images of passersby without consent.",
+      "source": "TechCrunch",
+      "published": "2026-06-02T17:47:28+00:00",
+      "link": "https://techcrunch.com/2026/06/02/amazon-faces-class-action-lawsuit-over-ring-facial-recognition-feature/"
+    },
+    {
+      "title": "Microsoft’s Project Solara is an OS for AI agent gadgets",
+      "summary": "Microsoft just announced \"Project Solara,\" a new OS designed for gadgets that run AI agents, at Build 2026. The company is calling it \"a new platform built from the ground up to power agent-driven experiences.\" It's built on Android, not Windows.",
+      "source": "The Verge",
+      "published": "2026-06-02T17:31:02+00:00",
+      "link": "https://www.theverge.com/news/941830/microsoft-project-solara-os-ai-agent-gadgets"
+    },
+    {
+      "title": "Trump signs downsized AI order after weeks of reversals",
+      "summary": "https://www.whitehouse.gov/presidential-actions/2026/06/prom...https://www.nytimes.com/2026/06/02/technology/trump-executiv... Comments URL: https://news.ycombinator.com/item?id=48372628 Points: 76 # Comments: 56",
+      "source": "Hacker News",
+      "published": "2026-06-02T16:40:16+00:00",
+      "link": "https://www.politico.com/news/2026/06/02/trump-signs-downsized-ai-order-00946389"
+    },
     {
       "title": "Microsoft created the mini Surface dev box that Qualcomm couldn’t",
       "summary": "Microsoft only just announced a new Surface Laptop Ultra at the weekend, and it's now revealing a miniature Surface PC aimed at developers.",
@@ -24,21 +143,21 @@ const FEED_DATA = {
     },
     {
       "title": "OpenAI launches new Codex tools for white-collar work",
-      "summary": "OpenAI is getting serious about courting enterprise users. On Tuesday, the AI lab released a new set of capabilities for Codex, meant to expand the agentic tool’s uses in the workplace.",
+      "summary": "OpenAI released a set of six plug-ins aimed at specific jobs: data analytics, creative production, sales, product design, equity investing, and investment banking.",
       "source": "TechCrunch",
       "published": "2026-06-02T16:00:00+00:00",
       "link": "https://techcrunch.com/2026/06/02/openai-launches-new-codex-tools-for-white-collar-work/"
     },
     {
       "title": "Microsoft Build 2026: All the news about Windows, AI, RTX Spark, and more",
-      "summary": "Microsoft’s annual developer conference is kicking off on June 2nd in San Francisco with the keynote presentation streaming live at 12:30PM ET / 9:30AM PT, and we will be following along here with everything as it’s announced.",
+      "summary": "Microsoft Build 2026 kicked off with a keynote presentation that introduced some developer-focused Windows updates, an OpenClaw-based AI assistant called Scout, the new Majorana 2 quantum computing chip, and a Surface mini PC designed for AI developers.",
       "source": "The Verge",
       "published": "2026-06-02T15:59:58+00:00",
       "link": "https://www.theverge.com/tech/941668/microsoft-build-may-2026-live-news-updates"
     },
     {
       "title": "Americans don't know how to fight AI so they're fighting data centers",
-      "summary": "Article URL: https://www.vox.com/future-perfect/490350/data-center-moratoria-ai-backlash Comments URL: https://news.ycombinator.com/item?id=48371592 Points: 91 # Comments: 146",
+      "summary": "Article URL: https://www.vox.com/future-perfect/490350/data-center-moratoria-ai-backlash Comments URL: https://news.ycombinator.com/item?id=48371592 Points: 102 # Comments: 193",
       "source": "Hacker News",
       "published": "2026-06-02T15:32:06+00:00",
       "link": "https://www.vox.com/future-perfect/490350/data-center-moratoria-ai-backlash"
@@ -56,6 +175,13 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-06-02T14:44:21+00:00",
       "link": "https://techcrunch.com/2026/06/02/anthropic-scales-claude-mythos-to-critical-infrastructure-in-15-countries/"
+    },
+    {
+      "title": "AI Doesn't Have ROI",
+      "summary": "Article URL: https://www.wheresyoured.at/ai-doesnt-have-roi/ Comments URL: https://news.ycombinator.com/item?id=48370437 Points: 52 # Comments: 40",
+      "source": "Hacker News",
+      "published": "2026-06-02T14:06:52+00:00",
+      "link": "https://www.wheresyoured.at/ai-doesnt-have-roi/"
     },
     {
       "title": "Gemini Spark is the most impressive and terrifying AI experience I’ve had yet",
@@ -121,8 +247,8 @@ const FEED_DATA = {
       "link": "https://the-decoder.com/warren-buffetts-berkshire-hathaway-bets-10-billion-on-alphabets-ai-infrastructure-buildout/"
     },
     {
-      "title": "Adafruit Receives Demand Letter from Fenwick Legal Counsel on Behalf of Flux.ai",
-      "summary": "Article URL: https://blog.adafruit.com/ Comments URL: https://news.ycombinator.com/item?id=48368121 Points: 451 # Comments: 181",
+      "title": "Adafruit receives demand letter from Fenwick legal counsel on behalf of Flux.ai",
+      "summary": "Article URL: https://blog.adafruit.com/ Comments URL: https://news.ycombinator.com/item?id=48368121 Points: 514 # Comments: 222",
       "source": "Hacker News",
       "published": "2026-06-02T10:00:56+00:00",
       "link": "https://blog.adafruit.com/"
@@ -171,7 +297,7 @@ const FEED_DATA = {
     },
     {
       "title": "Alphabet announces $80B equity capital raise to expand AI infra and compute",
-      "summary": "Article URL: https://abc.xyz/investor/news/news-details/2026/Alphabet-Announces-Proposed-80-Billion-Equity-Capital-Raise-to-Expand-AI-Infrastructure-and-Compute-2026-b0myAMewCa/default.aspx Comments URL: https://news.ycombinator.com/item?id=48362515 Points: 238 # Comments: 216",
+      "summary": "Article URL: https://abc.xyz/investor/news/news-details/2026/Alphabet-Announces-Proposed-80-Billion-Equity-Capital-Raise-to-Expand-AI-Infrastructure-and-Compute-2026-b0myAMewCa/default.aspx Comments URL: https://news.ycombinator.com/item?id=48362515 Points: 245 # Comments: 219",
       "source": "Hacker News",
       "published": "2026-06-01T20:55:15+00:00",
       "link": "https://abc.xyz/investor/news/news-details/2026/Alphabet-Announces-Proposed-80-Billion-Equity-Capital-Raise-to-Expand-AI-Infrastructure-and-Compute-2026-b0myAMewCa/default.aspx"
@@ -206,7 +332,7 @@ const FEED_DATA = {
     },
     {
       "title": "Hackers Used Meta's AI Support Bot to Seize Instagram Accounts",
-      "summary": "Article URL: https://krebsonsecurity.com/2026/06/hackers-used-metas-ai-support-bot-to-seize-instagram-accounts/ Comments URL: https://news.ycombinator.com/item?id=48361346 Points: 54 # Comments: 19",
+      "summary": "Article URL: https://krebsonsecurity.com/2026/06/hackers-used-metas-ai-support-bot-to-seize-instagram-accounts/ Comments URL: https://news.ycombinator.com/item?id=48361346 Points: 55 # Comments: 19",
       "source": "Hacker News",
       "published": "2026-06-01T19:18:52+00:00",
       "link": "https://krebsonsecurity.com/2026/06/hackers-used-metas-ai-support-bot-to-seize-instagram-accounts/"
@@ -234,7 +360,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI Agent Guidelines for CS336 at Stanford",
-      "summary": "Article URL: https://github.com/stanford-cs336/assignment1-basics/blob/main/CLAUDE.md Comments URL: https://news.ycombinator.com/item?id=48359232 Points: 481 # Comments: 150",
+      "summary": "Article URL: https://github.com/stanford-cs336/assignment1-basics/blob/main/CLAUDE.md Comments URL: https://news.ycombinator.com/item?id=48359232 Points: 485 # Comments: 151",
       "source": "Hacker News",
       "published": "2026-06-01T16:41:49+00:00",
       "link": "https://github.com/stanford-cs336/assignment1-basics/blob/main/CLAUDE.md"
@@ -255,7 +381,7 @@ const FEED_DATA = {
     },
     {
       "title": "Florida sues OpenAI and Sam Altman over AI risks",
-      "summary": "https://www.wsj.com/tech/ai/openai-sued-by-floridas-attorney...https://www.nbcnews.com/tech/tech-news/florida-sues-openai-s... Comments URL: https://news.ycombinator.com/item?id=48358667 Points: 259 # Comments: 191",
+      "summary": "https://www.wsj.com/tech/ai/openai-sued-by-floridas-attorney...https://www.nbcnews.com/tech/tech-news/florida-sues-openai-s... Comments URL: https://news.ycombinator.com/item?id=48358667 Points: 261 # Comments: 192",
       "source": "Hacker News",
       "published": "2026-06-01T16:02:04+00:00",
       "link": "https://www.politico.com/news/2026/06/01/openai-hit-with-florida-lawsuit-00944215"
@@ -332,7 +458,7 @@ const FEED_DATA = {
     },
     {
       "title": "When AI Crosses the Line: The Matplotlib Incident",
-      "summary": "Article URL: https://members.sigmazero.cc/posts/when-ai-crosses-159174096?postId=when-ai-crosses-159174096 Comments URL: https://news.ycombinator.com/item?id=48355751 Points: 133 # Comments: 148",
+      "summary": "Article URL: https://members.sigmazero.cc/posts/when-ai-crosses-159174096?postId=when-ai-crosses-159174096 Comments URL: https://news.ycombinator.com/item?id=48355751 Points: 133 # Comments: 149",
       "source": "Hacker News",
       "published": "2026-06-01T12:08:23+00:00",
       "link": "https://members.sigmazero.cc/posts/when-ai-crosses-159174096?postId=when-ai-crosses-159174096"
@@ -381,14 +507,14 @@ const FEED_DATA = {
     },
     {
       "title": "The Speed of Prototyping in the Age of AI",
-      "summary": "Article URL: https://darylcecile.net/notes/speed-of-prototyping-age-of-ai Comments URL: https://news.ycombinator.com/item?id=48347153 Points: 196 # Comments: 97",
+      "summary": "Article URL: https://darylcecile.net/notes/speed-of-prototyping-age-of-ai Comments URL: https://news.ycombinator.com/item?id=48347153 Points: 197 # Comments: 98",
       "source": "Hacker News",
       "published": "2026-05-31T16:37:34+00:00",
       "link": "https://darylcecile.net/notes/speed-of-prototyping-age-of-ai"
     },
     {
       "title": "Odysseus – self-hosted AI workspace",
-      "summary": "Article URL: https://github.com/pewdiepie-archdaemon/odysseus Comments URL: https://news.ycombinator.com/item?id=48346693 Points: 221 # Comments: 96",
+      "summary": "Article URL: https://github.com/pewdiepie-archdaemon/odysseus Comments URL: https://news.ycombinator.com/item?id=48346693 Points: 223 # Comments: 96",
       "source": "Hacker News",
       "published": "2026-05-31T15:50:34+00:00",
       "link": "https://github.com/pewdiepie-archdaemon/odysseus"
@@ -528,7 +654,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI job grief: A psychological crisis hitting tech workers",
-      "summary": "Article URL: https://jackmaguire.org/blog/ai-job-grief/ Comments URL: https://news.ycombinator.com/item?id=48336760 Points: 199 # Comments: 201",
+      "summary": "Article URL: https://jackmaguire.org/blog/ai-job-grief/ Comments URL: https://news.ycombinator.com/item?id=48336760 Points: 200 # Comments: 202",
       "source": "Hacker News",
       "published": "2026-05-30T14:41:26+00:00",
       "link": "https://jackmaguire.org/blog/ai-job-grief/"
@@ -1274,132 +1400,6 @@ const FEED_DATA = {
       "source": "Hacker News",
       "published": "2026-05-27T20:00:51+00:00",
       "link": "https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/"
-    },
-    {
-      "title": "Payroll startup Remote says it grew revenue 50% per employee without adding headcount",
-      "summary": "Payroll service provider Remote recently surpassed $300 million in annual recurring revenue (ARR) and became cash-flow positive, thanks to a 50% increase in revenue per employee resulting from AI adoption.",
-      "source": "TechCrunch",
-      "published": "2026-05-27T19:39:45+00:00",
-      "link": "https://techcrunch.com/2026/05/27/payroll-startup-remote-says-it-grew-revenue-50-per-employee-without-adding-headcount/"
-    },
-    {
-      "title": "Your SEO strategy is optimized for a search engine that no longer exists.",
-      "summary": "Google I/O made it official: AI-generated answers are now front and center in search, and most brands have almost no visibility into how AI is describing them to their customers.",
-      "source": "TechCrunch",
-      "published": "2026-05-27T18:39:17+00:00",
-      "link": "https://techcrunch.com/podcast/your-seo-strategy-is-optimized-for-a-search-engine-that-no-longer-exists/"
-    },
-    {
-      "title": "Microsoft's MAI-Image-2.5 pulls even with Google's Nano Banana 2 on benchmarks",
-      "summary": "Microsoft's MAI-Image-2.5 ranks third on Arena's text-to-image leaderboard, on par with Google's Nano Banana 2 but still behind OpenAI's Image-2. The model shows clear gains over its predecessor, especially in rendering text inside images and commercial visuals.",
-      "source": "The Decoder",
-      "published": "2026-05-27T18:31:10+00:00",
-      "link": "https://the-decoder.com/microsofts-mai-image-2-5-pulls-even-with-googles-nano-banana-2-on-benchmarks/"
-    },
-    {
-      "title": "AI coding agent Devin maker Cognition more than doubles its valuation to $26 billion in under nine months",
-      "summary": "Cognition, the company behind AI software developer Devin, has raised over $1 billion at a valuation north of $26 billion. The massive round shows just how much investor money is flowing into AI coding agents, even as their real-world value remains hotly debated.",
-      "source": "The Decoder",
-      "published": "2026-05-27T18:09:51+00:00",
-      "link": "https://the-decoder.com/ai-coding-agent-devin-maker-cognition-more-than-doubles-its-valuation-to-26-billion-in-under-nine-months/"
-    },
-    {
-      "title": "Meta launches Instagram, Facebook, and WhatsApp subscriptions, with more to come, including AI plans",
-      "summary": "Meta is rolling out paid subscription plans for Instagram, Facebook, and WhatsApp worldwide, while also testing new AI, creator, and business-focused offerings under its broader “Meta One” subscription brand.",
-      "source": "TechCrunch",
-      "published": "2026-05-27T18:00:00+00:00",
-      "link": "https://techcrunch.com/2026/05/27/meta-officially-launches-instagram-facebook-and-whatsapp-subscriptions-with-more-to-come-including-ai-plans/"
-    },
-    {
-      "title": "Robinhood lets AI agents trade shares and make credit card purchases for customers",
-      "summary": "Robinhood now lets customers connect AI agents like Anthropic's Claude to a separate investment account via MCP. The agents can trade stocks on their own.",
-      "source": "The Decoder",
-      "published": "2026-05-27T17:42:57+00:00",
-      "link": "https://the-decoder.com/robinhood-lets-ai-agents-trade-shares-and-make-credit-card-purchases-for-customers/"
-    },
-    {
-      "title": "Multi-Agent LLM System for Automated Vulnerability Discovery and Reproduction",
-      "summary": "Article URL: https://arxiv.org/abs/2605.21779 Comments URL: https://news.ycombinator.com/item?id=48297723 Points: 56 # Comments: 8",
-      "source": "Hacker News",
-      "published": "2026-05-27T17:42:24+00:00",
-      "link": "https://arxiv.org/abs/2605.21779"
-    },
-    {
-      "title": "YouTube will try to automatically flag AI videos starting this month",
-      "summary": "YouTube is tightening its AI labeling rules. Labels for photorealistic or heavily AI-altered content will now show up in more visible spots, below the player for long videos and as an overlay on Shorts.",
-      "source": "The Decoder",
-      "published": "2026-05-27T16:54:14+00:00",
-      "link": "https://the-decoder.com/youtube-will-try-to-automatically-flag-ai-videos-starting-this-month/"
-    },
-    {
-      "title": "DuckDuckGo search saw 28% more visits after Google said people love AI mode",
-      "summary": "Article URL: https://www.pcgamer.com/hardware/duckduckgos-ai-free-search-saw-nearly-28-percent-more-visits-in-the-week-following-googles-insistence-that-people-love-ai-mode/ Comments URL: https://news.ycombinator.com/item?id=48296649 Points: 1062 # Comments: 514",
-      "source": "Hacker News",
-      "published": "2026-05-27T16:28:41+00:00",
-      "link": "https://www.pcgamer.com/hardware/duckduckgos-ai-free-search-saw-nearly-28-percent-more-visits-in-the-week-following-googles-insistence-that-people-love-ai-mode/"
-    },
-    {
-      "title": "Training our own AI models",
-      "summary": "Article URL: https://posthog.com/blog/training-ai-models Comments URL: https://news.ycombinator.com/item?id=48296359 Points: 214 # Comments: 143",
-      "source": "Hacker News",
-      "published": "2026-05-27T16:08:42+00:00",
-      "link": "https://posthog.com/blog/training-ai-models"
-    },
-    {
-      "title": "AI coding startup Cognition raises $1B at $25B pre-money valuation",
-      "summary": "As Cognition reaches $492 million in annualized revenue run rate, it more than doubled its valuation in eight months, it says.",
-      "source": "TechCrunch",
-      "published": "2026-05-27T16:00:00+00:00",
-      "link": "https://techcrunch.com/2026/05/27/ai-coding-startup-cognition-raises-1b-at-25b-pre-money-valuation/"
-    },
-    {
-      "title": "AI tried to bury this politician — now people have actually heard of him",
-      "summary": "By the time that the Democratic primary for New York's 12th congressional district wraps up in June, Anthropic and OpenAI will have spent millions on their battle over the political future of AI: who gets to regulate it, or who will be punished for trying to regulate it.",
-      "source": "The Verge",
-      "published": "2026-05-27T15:40:00+00:00",
-      "link": "https://www.theverge.com/policy/937650/ai-alex-bores-openai-anthropic-ny12"
-    },
-    {
-      "title": "Tech CEOs are apparently suffering from AI psychosis",
-      "summary": "Article URL: https://techcrunch.com/2026/05/27/tech-ceos-are-apparently-suffering-from-ai-psychosis/ Comments URL: https://news.ycombinator.com/item?id=48295679 Points: 713 # Comments: 352",
-      "source": "Hacker News",
-      "published": "2026-05-27T15:20:47+00:00",
-      "link": "https://techcrunch.com/2026/05/27/tech-ceos-are-apparently-suffering-from-ai-psychosis/"
-    },
-    {
-      "title": "Robinhood will let your AI agent trade stocks and make (or lose) lots of money",
-      "summary": "Robinhood is opening its trading platform to AI agents. In an announcement on Wednesday, Robinhood says traders can now create a separate account for an AI agent and add a specific amount of money, allowing the agent to buy and sell stocks across the market.",
-      "source": "The Verge",
-      "published": "2026-05-27T14:36:10+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/938095/robinhood-ai-agent-stock-trading"
-    },
-    {
-      "title": "Former Google and Apple Researchers Launch a Startup to Build AI’s Missing Feedback Loop",
-      "summary": "Trajectory is betting the rapid iteration cycle that supercharged vibe-coding can help all kinds of companies build AI products that learn continuously.",
-      "source": "Wired",
-      "published": "2026-05-27T14:00:00+00:00",
-      "link": "https://www.wired.com/story/ex-google-apple-ai-researchers-want-to-make-ai-that-gets-smarter-as-you-use-it/"
-    },
-    {
-      "title": "This smart bird feeder captures more of my backyard drama",
-      "summary": "Since moving to South Carolina's Lowcountry, I've been spellbound by the myriad of beautiful birds that share the coast with us - ospreys raising their babies in towering nests beside the road to my daughter's school, roseate spoonbills wading in the marsh on my morning walks,...",
-      "source": "The Verge",
-      "published": "2026-05-27T14:00:00+00:00",
-      "link": "https://www.theverge.com/tech/937628/coolfly-aura-smart-bird-feeder-review"
-    },
-    {
-      "title": "SOND, a sleep tech startup from Bose’s former head of sleep, exits stealth with $7M",
-      "summary": "SOND, a startup led by Bose’s former head of sleep products, emerged from stealth with $7M in funding for its AI-powered sleep earbuds.",
-      "source": "TechCrunch",
-      "published": "2026-05-27T14:00:00+00:00",
-      "link": "https://techcrunch.com/2026/05/27/sond-a-sleep-tech-startup-from-boses-former-head-of-sleep-exits-stealth-with-7m/"
-    },
-    {
-      "title": "China is increasingly keeping its best AI talent to itself",
-      "summary": "China's AI boom is producing world-class talent, and Beijing is increasingly reluctant to let them go elsewhere.",
-      "source": "TechCrunch",
-      "published": "2026-05-27T13:48:41+00:00",
-      "link": "https://techcrunch.com/2026/05/27/china-is-increasingly-keeping-its-best-ai-talent-to-itself/"
     }
   ]
 };
