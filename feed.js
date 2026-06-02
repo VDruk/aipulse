@@ -1,6 +1,76 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-06-02T09:08:49.327296+00:00",
+  "lastUpdated": "2026-06-02T12:31:59.912551+00:00",
   "items": [
+    {
+      "title": "The Download: AI can run your admin department now",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.",
+      "source": "MIT Tech Review",
+      "published": "2026-06-02T12:10:00+00:00",
+      "link": "https://www.technologyreview.com/2026/06/02/1138277/the-download-ai-tips-small-businesses-admin/"
+    },
+    {
+      "title": "Rocket engine startup Impulse raises $500 million to hire people, not AI",
+      "summary": "Engineering physical systems still depends on human talent, according to Impulse Space president Eric Romo.",
+      "source": "TechCrunch",
+      "published": "2026-06-02T12:00:00+00:00",
+      "link": "https://techcrunch.com/2026/06/02/rocket-engine-startup-impulse-raises-500-million-to-hire-people-not-ai/"
+    },
+    {
+      "title": "Hackers hijacked high-profile Instagram accounts by simply asking Meta's AI chatbot to change the email",
+      "summary": "Hackers took over prominent Instagram accounts, including the Obama White House page, by simply asking Meta's AI support chatbot to change the email address on file. Two-factor authentication was bypassed entirely.",
+      "source": "The Decoder",
+      "published": "2026-06-02T11:31:29+00:00",
+      "link": "https://the-decoder.com/hackers-hijacked-high-profile-instagram-accounts-by-simply-asking-metas-ai-chatbot-to-change-the-email/"
+    },
+    {
+      "title": "Rehumanizing global health care with agentic AI",
+      "summary": "The global health care sector is under increasing strain. Decades of chronic underinvestment and constraints in recruitment have coincided with a surge in demand for services for aging populations.",
+      "source": "MIT Tech Review",
+      "published": "2026-06-02T11:23:34+00:00",
+      "link": "https://www.technologyreview.com/2026/06/02/1137827/rehumanizing-global-health-care-with-agentic-ai/"
+    },
+    {
+      "title": "GitHub Copilot users see token-based price hikes",
+      "summary": "Since its announcement in April this year, the proposed changes to billing methods on GitHub Copilot were a source of much speculation: how much more or less would a pay-a-you-use AI cost an organisation or individual compared to a flat-rate, monthly subscription?",
+      "source": "AI News",
+      "published": "2026-06-02T11:09:00+00:00",
+      "link": "https://www.artificialintelligence-news.com/news/github-copilots-billing-changes-users-see-use-based-price-hikes/"
+    },
+    {
+      "title": "OpenAI turns ChatGPT into a career platform with job search and CV editor",
+      "summary": "OpenAI turns ChatGPT into a career tool: A new job search feature surfaces personalized listings from Indeed, Upwork, and Appcast, initially US-only. Resumes can also be created directly in ChatGPT and tailored to specific roles.",
+      "source": "The Decoder",
+      "published": "2026-06-02T10:40:22+00:00",
+      "link": "https://the-decoder.com/openai-turns-chatgpt-into-a-career-platform-with-job-search-and-cv-editor/"
+    },
+    {
+      "title": "Warren Buffett's Berkshire Hathaway bets $10 billion on Alphabet's AI infrastructure buildout",
+      "summary": "Alphabet is raising $80 billion to scale its AI infrastructure, backed by a $10 billion private investment from Warren Buffett. The company expects capital spending to hit $190 billion in 2026.",
+      "source": "The Decoder",
+      "published": "2026-06-02T10:15:30+00:00",
+      "link": "https://the-decoder.com/warren-buffetts-berkshire-hathaway-bets-10-billion-on-alphabets-ai-infrastructure-buildout/"
+    },
+    {
+      "title": "Adafruit Receives Demand Letter from Fenwick Legal Counsel on Behalf of Flux.ai",
+      "summary": "Article URL: https://blog.adafruit.com/ Comments URL: https://news.ycombinator.com/item?id=48368121 Points: 144 # Comments: 48",
+      "source": "Hacker News",
+      "published": "2026-06-02T10:00:56+00:00",
+      "link": "https://blog.adafruit.com/"
+    },
+    {
+      "title": "The Trump Administration Is at War With Itself Over AI Regulation",
+      "summary": "Donald Trump killed an executive order to regulate AI. Now, administration officials and AI executives are trying to figure out if there’s anything left to piece back together.",
+      "source": "Wired",
+      "published": "2026-06-02T09:30:00+00:00",
+      "link": "https://www.wired.com/story/the-white-house-is-at-war-with-itself-over-ai-regulation/"
+    },
+    {
+      "title": "How small businesses can leverage AI",
+      "summary": "This article is from Making AI Work, MIT Technology Review’s limited-run newsletter examining how to apply LLMs across industries. To receive it in your inbox,sign up here.",
+      "source": "MIT Tech Review",
+      "published": "2026-06-02T09:00:00+00:00",
+      "link": "https://www.technologyreview.com/2026/06/02/1138227/how-small-businesses-can-leverage-ai/"
+    },
     {
       "title": "OpenAI models now available on Amazon Web Services",
       "summary": "OpenAI is making GPT-5.5, GPT-5.4, and Codex available through Amazon Bedrock at the same prices as OpenAI's own platform. The models run in commercial and government AWS regions but are limited to the US for now.",
@@ -31,7 +101,7 @@ const FEED_DATA = {
     },
     {
       "title": "Alphabet announces $80B equity capital raise to expand AI infra and compute",
-      "summary": "Article URL: https://abc.xyz/investor/news/news-details/2026/Alphabet-Announces-Proposed-80-Billion-Equity-Capital-Raise-to-Expand-AI-Infrastructure-and-Compute-2026-b0myAMewCa/default.aspx Comments URL: https://news.ycombinator.com/item?id=48362515 Points: 180 # Comments: 156",
+      "summary": "Article URL: https://abc.xyz/investor/news/news-details/2026/Alphabet-Announces-Proposed-80-Billion-Equity-Capital-Raise-to-Expand-AI-Infrastructure-and-Compute-2026-b0myAMewCa/default.aspx Comments URL: https://news.ycombinator.com/item?id=48362515 Points: 213 # Comments: 199",
       "source": "Hacker News",
       "published": "2026-06-01T20:55:15+00:00",
       "link": "https://abc.xyz/investor/news/news-details/2026/Alphabet-Announces-Proposed-80-Billion-Equity-Capital-Raise-to-Expand-AI-Infrastructure-and-Compute-2026-b0myAMewCa/default.aspx"
@@ -66,7 +136,7 @@ const FEED_DATA = {
     },
     {
       "title": "Hackers Used Meta's AI Support Bot to Seize Instagram Accounts",
-      "summary": "Article URL: https://krebsonsecurity.com/2026/06/hackers-used-metas-ai-support-bot-to-seize-instagram-accounts/ Comments URL: https://news.ycombinator.com/item?id=48361346 Points: 52 # Comments: 18",
+      "summary": "Article URL: https://krebsonsecurity.com/2026/06/hackers-used-metas-ai-support-bot-to-seize-instagram-accounts/ Comments URL: https://news.ycombinator.com/item?id=48361346 Points: 53 # Comments: 19",
       "source": "Hacker News",
       "published": "2026-06-01T19:18:52+00:00",
       "link": "https://krebsonsecurity.com/2026/06/hackers-used-metas-ai-support-bot-to-seize-instagram-accounts/"
@@ -94,7 +164,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI Agent Guidelines for CS336 at Stanford",
-      "summary": "Article URL: https://github.com/stanford-cs336/assignment1-basics/blob/main/CLAUDE.md Comments URL: https://news.ycombinator.com/item?id=48359232 Points: 410 # Comments: 131",
+      "summary": "Article URL: https://github.com/stanford-cs336/assignment1-basics/blob/main/CLAUDE.md Comments URL: https://news.ycombinator.com/item?id=48359232 Points: 436 # Comments: 140",
       "source": "Hacker News",
       "published": "2026-06-01T16:41:49+00:00",
       "link": "https://github.com/stanford-cs336/assignment1-basics/blob/main/CLAUDE.md"
@@ -115,7 +185,7 @@ const FEED_DATA = {
     },
     {
       "title": "Florida sues OpenAI and Sam Altman over AI risks",
-      "summary": "https://www.wsj.com/tech/ai/openai-sued-by-floridas-attorney...https://www.nbcnews.com/tech/tech-news/florida-sues-openai-s... Comments URL: https://news.ycombinator.com/item?id=48358667 Points: 222 # Comments: 177",
+      "summary": "https://www.wsj.com/tech/ai/openai-sued-by-floridas-attorney...https://www.nbcnews.com/tech/tech-news/florida-sues-openai-s... Comments URL: https://news.ycombinator.com/item?id=48358667 Points: 246 # Comments: 182",
       "source": "Hacker News",
       "published": "2026-06-01T16:02:04+00:00",
       "link": "https://www.politico.com/news/2026/06/01/openai-hit-with-florida-lawsuit-00944215"
@@ -192,7 +262,7 @@ const FEED_DATA = {
     },
     {
       "title": "When AI Crosses the Line: The Matplotlib Incident",
-      "summary": "Article URL: https://members.sigmazero.cc/posts/when-ai-crosses-159174096?postId=when-ai-crosses-159174096 Comments URL: https://news.ycombinator.com/item?id=48355751 Points: 133 # Comments: 143",
+      "summary": "Article URL: https://members.sigmazero.cc/posts/when-ai-crosses-159174096?postId=when-ai-crosses-159174096 Comments URL: https://news.ycombinator.com/item?id=48355751 Points: 133 # Comments: 144",
       "source": "Hacker News",
       "published": "2026-06-01T12:08:23+00:00",
       "link": "https://members.sigmazero.cc/posts/when-ai-crosses-159174096?postId=when-ai-crosses-159174096"
@@ -241,7 +311,7 @@ const FEED_DATA = {
     },
     {
       "title": "The Speed of Prototyping in the Age of AI",
-      "summary": "Article URL: https://darylcecile.net/notes/speed-of-prototyping-age-of-ai Comments URL: https://news.ycombinator.com/item?id=48347153 Points: 193 # Comments: 96",
+      "summary": "Article URL: https://darylcecile.net/notes/speed-of-prototyping-age-of-ai Comments URL: https://news.ycombinator.com/item?id=48347153 Points: 195 # Comments: 97",
       "source": "Hacker News",
       "published": "2026-05-31T16:37:34+00:00",
       "link": "https://darylcecile.net/notes/speed-of-prototyping-age-of-ai"
@@ -262,7 +332,7 @@ const FEED_DATA = {
     },
     {
       "title": "The solution might be cancelling my AI subscription",
-      "summary": "Article URL: https://thoughts.hmmz.org/2026-05-31.html Comments URL: https://news.ycombinator.com/item?id=48345896 Points: 379 # Comments: 233",
+      "summary": "Article URL: https://thoughts.hmmz.org/2026-05-31.html Comments URL: https://news.ycombinator.com/item?id=48345896 Points: 380 # Comments: 237",
       "source": "Hacker News",
       "published": "2026-05-31T14:23:30+00:00",
       "link": "https://thoughts.hmmz.org/2026-05-31.html"
@@ -381,7 +451,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI job grief: A psychological crisis hitting tech workers",
-      "summary": "Article URL: https://jackmaguire.org/blog/ai-job-grief/ Comments URL: https://news.ycombinator.com/item?id=48336760 Points: 197 # Comments: 201",
+      "summary": "Article URL: https://jackmaguire.org/blog/ai-job-grief/ Comments URL: https://news.ycombinator.com/item?id=48336760 Points: 199 # Comments: 201",
       "source": "Hacker News",
       "published": "2026-05-30T14:41:26+00:00",
       "link": "https://jackmaguire.org/blog/ai-job-grief/"
@@ -430,7 +500,7 @@ const FEED_DATA = {
     },
     {
       "title": "Corporate America Is Starting to Ration AI as Cost Skyrockets",
-      "summary": "Article URL: https://www.wsj.com/tech/ai/corporate-america-is-starting-to-ration-ai-as-cost-skyrockets-1eb99d7a Comments URL: https://news.ycombinator.com/item?id=48335388 Points: 184 # Comments: 173",
+      "summary": "Article URL: https://www.wsj.com/tech/ai/corporate-america-is-starting-to-ration-ai-as-cost-skyrockets-1eb99d7a Comments URL: https://news.ycombinator.com/item?id=48335388 Points: 184 # Comments: 174",
       "source": "Hacker News",
       "published": "2026-05-30T12:17:33+00:00",
       "link": "https://www.wsj.com/tech/ai/corporate-america-is-starting-to-ration-ai-as-cost-skyrockets-1eb99d7a"
@@ -493,7 +563,7 @@ const FEED_DATA = {
     },
     {
       "title": "Show HN: Tiny-vLLM – high performance LLM inference engine in C++ and CUDA",
-      "summary": "Article URL: https://github.com/jmaczan/tiny-vllm Comments URL: https://news.ycombinator.com/item?id=48328184 Points: 202 # Comments: 18",
+      "summary": "Article URL: https://github.com/jmaczan/tiny-vllm Comments URL: https://news.ycombinator.com/item?id=48328184 Points: 203 # Comments: 18",
       "source": "Hacker News",
       "published": "2026-05-29T19:38:27+00:00",
       "link": "https://github.com/jmaczan/tiny-vllm"
@@ -535,7 +605,7 @@ const FEED_DATA = {
     },
     {
       "title": "What if remote working, not AI, is to blame for weak junior hiring?",
-      "summary": "Article URL: https://www.ft.com/content/2205e2d0-50dc-4e80-9bf7-78d0272276c0 Comments URL: https://news.ycombinator.com/item?id=48326721 Points: 258 # Comments: 359",
+      "summary": "Article URL: https://www.ft.com/content/2205e2d0-50dc-4e80-9bf7-78d0272276c0 Comments URL: https://news.ycombinator.com/item?id=48326721 Points: 259 # Comments: 359",
       "source": "Hacker News",
       "published": "2026-05-29T17:50:11+00:00",
       "link": "https://www.ft.com/content/2205e2d0-50dc-4e80-9bf7-78d0272276c0"
@@ -1330,76 +1400,6 @@ const FEED_DATA = {
       "source": "The Verge",
       "published": "2026-05-27T12:00:00+00:00",
       "link": "https://www.theverge.com/ai-artificial-intelligence/937933/pope-ai-encyclical-tech-industry-reactions"
-    },
-    {
-      "title": "Ripgrep AI Policy",
-      "summary": "Article URL: https://github.com/BurntSushi/ripgrep/blob/master/AI_POLICY.md Comments URL: https://news.ycombinator.com/item?id=48292718 Points: 101 # Comments: 22",
-      "source": "Hacker News",
-      "published": "2026-05-27T11:40:49+00:00",
-      "link": "https://github.com/BurntSushi/ripgrep/blob/master/AI_POLICY.md"
-    },
-    {
-      "title": "I'm Tired of Talking to AI",
-      "summary": "Article URL: https://orchidfiles.com/im-tired-of-ai-generated-answers/ Comments URL: https://news.ycombinator.com/item?id=48292224 Points: 1977 # Comments: 940",
-      "source": "Hacker News",
-      "published": "2026-05-27T10:43:25+00:00",
-      "link": "https://orchidfiles.com/im-tired-of-ai-generated-answers/"
-    },
-    {
-      "title": "Did the Pope use AI to write about the dangers of AI?",
-      "summary": "It's possible that AI was used to write parts of Pope Leo XIV's latest encyclical about AI's impact on humanity.",
-      "source": "The Verge",
-      "published": "2026-05-27T00:38:11+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/937801/pope-leo-xiv-magnifica-humanitas-ai-pangram"
-    },
-    {
-      "title": "AI tools are only as good as your judgment",
-      "summary": "Article URL: https://theaileverageweekly.com/posts/your-ai-tools-are-only-as-good-as-your-judgment-and-that-s-the-point.html Comments URL: https://news.ycombinator.com/item?id=48287649 Points: 81 # Comments: 22",
-      "source": "Hacker News",
-      "published": "2026-05-27T00:00:35+00:00",
-      "link": "https://theaileverageweekly.com/posts/your-ai-tools-are-only-as-good-as-your-judgment-and-that-s-the-point.html"
-    },
-    {
-      "title": "Pope Leo Schooled the Tech Bros on Tolkien",
-      "summary": "The Holy Father referenced The Lord of the Rings in his encyclical about AI—an expert (if unintentional) troll of tech billionaires who keep misinterpreting the series.",
-      "source": "Wired",
-      "published": "2026-05-26T23:19:03+00:00",
-      "link": "https://www.wired.com/story/pope-leo-schooled-the-tech-bros-on-tolkien/"
-    },
-    {
-      "title": "DuckDuckGo installs are up 30% as users reject being ‘force-fed’ Google’s AI Search",
-      "summary": "Google overhauled Search at I/O 2026, replacing blue links with AI agents. The backlash has been swift.",
-      "source": "TechCrunch",
-      "published": "2026-05-26T22:32:56+00:00",
-      "link": "https://techcrunch.com/2026/05/26/duckduckgo-installs-are-up-30-as-users-reject-being-force-fed-googles-ai-search/"
-    },
-    {
-      "title": "Why the Vatican Invited Anthropic to the Pope’s AI Encyclical Presentation",
-      "summary": "Pope Leo’s first encyclical marks an unprecedented alliance between the Church and Silicon Valley.",
-      "source": "Wired",
-      "published": "2026-05-26T20:46:03+00:00",
-      "link": "https://www.wired.com/story/anthropic-christopher-olah-pope-ai-encyclical/"
-    },
-    {
-      "title": "Bay Area mom out thousands after scammers use AI to mimic daughter's voice",
-      "summary": "Article URL: https://abc7news.com/post/bay-area-mom-thousands-scammers-use-ai-mimic-daughters-voice-fake-kidnapping-part-growing-trend/19154381/ Comments URL: https://news.ycombinator.com/item?id=48285484 Points: 56 # Comments: 22",
-      "source": "Hacker News",
-      "published": "2026-05-26T20:23:40+00:00",
-      "link": "https://abc7news.com/post/bay-area-mom-thousands-scammers-use-ai-mimic-daughters-voice-fake-kidnapping-part-growing-trend/19154381/"
-    },
-    {
-      "title": "What Pope Leo XIV’s First Encyclical Says About the Power of AI",
-      "summary": "In Magnifica Humanitas, the Pope decries the concentration of technological power in a few global players.",
-      "source": "Wired",
-      "published": "2026-05-26T20:17:47+00:00",
-      "link": "https://www.wired.com/story/what-pope-leo-xivs-first-encyclical-says-about-the-power-of-ai/"
-    },
-    {
-      "title": "Millions of AI agents imperiled by critical vulnerability in open source package",
-      "summary": "\"BadHost\" was found in Starlette, a package with 325 million weekly downloads.",
-      "source": "Ars Technica",
-      "published": "2026-05-26T19:50:33+00:00",
-      "link": "https://arstechnica.com/information-technology/2026/05/millions-of-ai-agents-imperiled-by-critical-vulnerability-in-open-source-package/"
     }
   ]
 };
