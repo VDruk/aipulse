@@ -1,15 +1,15 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-06-02T20:04:30.886563+00:00",
+  "lastUpdated": "2026-06-02T22:55:56.753834+00:00",
   "items": [
     {
-      "title": "Microsoft Build 2026: the 7 biggest announcements",
+      "title": "Microsoft Build 2026: The 7 biggest announcements",
       "summary": "Microsoft just kicked off Build 2026 with a keynote from CEO Satya Nadella and other company leaders. As expected, it was filled with announcements, ranging from new Surface hardware to an always-on personal assistant and updates across Microsoft's in-house AI models.",
       "source": "The Verge",
       "published": "2026-06-02T19:23:52+00:00",
       "link": "https://www.theverge.com/tech/941738/microsoft-build-2026-biggest-announcements"
     },
     {
-      "title": "Uber caps employee AI spending after blowing through budget in four months",
+      "title": "Uber caps employee AI spending after blowing through budget in 4 months",
       "summary": "Uber's cutback has occurred after the company had reportedly encouraged staff to use AI as much as possible.",
       "source": "TechCrunch",
       "published": "2026-06-02T19:11:48+00:00",
@@ -35,6 +35,13 @@ const FEED_DATA = {
       "source": "The Verge",
       "published": "2026-06-02T18:33:42+00:00",
       "link": "https://www.theverge.com/policy/941775/trump-ai-executive-order"
+    },
+    {
+      "title": "Microsoft announces Scout, an autonomous AI agent built on OpenClaw",
+      "summary": "https://www.microsoft.com/en-us/microsoft-365/blog/2026/06/0...https://www.404media.co/microsoft-wants-to-make-people-addic...https://www.wired.com/story/meet-microsoft-scout-your-ai-cow...",
+      "source": "Hacker News",
+      "published": "2026-06-02T18:19:27+00:00",
+      "link": "https://www.computerworld.com/article/4180103/microsoft-unveils-scout-an-autonomous-ai-agent-built-on-openclaw.html"
     },
     {
       "title": "Martin Scorsese becomes the latest — and most unlikely — Hollywood voice for AI",
@@ -115,7 +122,7 @@ const FEED_DATA = {
     },
     {
       "title": "Trump signs downsized AI order after weeks of reversals",
-      "summary": "https://www.whitehouse.gov/presidential-actions/2026/06/prom...https://www.nytimes.com/2026/06/02/technology/trump-executiv... Comments URL: https://news.ycombinator.com/item?id=48372628 Points: 76 # Comments: 56",
+      "summary": "https://www.whitehouse.gov/presidential-actions/2026/06/prom...https://www.nytimes.com/2026/06/02/technology/trump-executiv... Comments URL: https://news.ycombinator.com/item?id=48372628 Points: 148 # Comments: 102",
       "source": "Hacker News",
       "published": "2026-06-02T16:40:16+00:00",
       "link": "https://www.politico.com/news/2026/06/02/trump-signs-downsized-ai-order-00946389"
@@ -157,7 +164,7 @@ const FEED_DATA = {
     },
     {
       "title": "Americans don't know how to fight AI so they're fighting data centers",
-      "summary": "Article URL: https://www.vox.com/future-perfect/490350/data-center-moratoria-ai-backlash Comments URL: https://news.ycombinator.com/item?id=48371592 Points: 102 # Comments: 193",
+      "summary": "Article URL: https://www.vox.com/future-perfect/490350/data-center-moratoria-ai-backlash Comments URL: https://news.ycombinator.com/item?id=48371592 Points: 109 # Comments: 202",
       "source": "Hacker News",
       "published": "2026-06-02T15:32:06+00:00",
       "link": "https://www.vox.com/future-perfect/490350/data-center-moratoria-ai-backlash"
@@ -178,7 +185,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI Doesn't Have ROI",
-      "summary": "Article URL: https://www.wheresyoured.at/ai-doesnt-have-roi/ Comments URL: https://news.ycombinator.com/item?id=48370437 Points: 52 # Comments: 40",
+      "summary": "Article URL: https://www.wheresyoured.at/ai-doesnt-have-roi/ Comments URL: https://news.ycombinator.com/item?id=48370437 Points: 57 # Comments: 40",
       "source": "Hacker News",
       "published": "2026-06-02T14:06:52+00:00",
       "link": "https://www.wheresyoured.at/ai-doesnt-have-roi/"
@@ -248,7 +255,7 @@ const FEED_DATA = {
     },
     {
       "title": "Adafruit receives demand letter from Fenwick legal counsel on behalf of Flux.ai",
-      "summary": "Article URL: https://blog.adafruit.com/ Comments URL: https://news.ycombinator.com/item?id=48368121 Points: 514 # Comments: 222",
+      "summary": "Article URL: https://blog.adafruit.com/ Comments URL: https://news.ycombinator.com/item?id=48368121 Points: 583 # Comments: 240",
       "source": "Hacker News",
       "published": "2026-06-02T10:00:56+00:00",
       "link": "https://blog.adafruit.com/"
@@ -297,7 +304,7 @@ const FEED_DATA = {
     },
     {
       "title": "Alphabet announces $80B equity capital raise to expand AI infra and compute",
-      "summary": "Article URL: https://abc.xyz/investor/news/news-details/2026/Alphabet-Announces-Proposed-80-Billion-Equity-Capital-Raise-to-Expand-AI-Infrastructure-and-Compute-2026-b0myAMewCa/default.aspx Comments URL: https://news.ycombinator.com/item?id=48362515 Points: 245 # Comments: 219",
+      "summary": "Article URL: https://abc.xyz/investor/news/news-details/2026/Alphabet-Announces-Proposed-80-Billion-Equity-Capital-Raise-to-Expand-AI-Infrastructure-and-Compute-2026-b0myAMewCa/default.aspx Comments URL: https://news.ycombinator.com/item?id=48362515 Points: 247 # Comments: 224",
       "source": "Hacker News",
       "published": "2026-06-01T20:55:15+00:00",
       "link": "https://abc.xyz/investor/news/news-details/2026/Alphabet-Announces-Proposed-80-Billion-Equity-Capital-Raise-to-Expand-AI-Infrastructure-and-Compute-2026-b0myAMewCa/default.aspx"
@@ -360,7 +367,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI Agent Guidelines for CS336 at Stanford",
-      "summary": "Article URL: https://github.com/stanford-cs336/assignment1-basics/blob/main/CLAUDE.md Comments URL: https://news.ycombinator.com/item?id=48359232 Points: 485 # Comments: 151",
+      "summary": "Article URL: https://github.com/stanford-cs336/assignment1-basics/blob/main/CLAUDE.md Comments URL: https://news.ycombinator.com/item?id=48359232 Points: 490 # Comments: 152",
       "source": "Hacker News",
       "published": "2026-06-01T16:41:49+00:00",
       "link": "https://github.com/stanford-cs336/assignment1-basics/blob/main/CLAUDE.md"
@@ -381,7 +388,7 @@ const FEED_DATA = {
     },
     {
       "title": "Florida sues OpenAI and Sam Altman over AI risks",
-      "summary": "https://www.wsj.com/tech/ai/openai-sued-by-floridas-attorney...https://www.nbcnews.com/tech/tech-news/florida-sues-openai-s... Comments URL: https://news.ycombinator.com/item?id=48358667 Points: 261 # Comments: 192",
+      "summary": "https://www.wsj.com/tech/ai/openai-sued-by-floridas-attorney...https://www.nbcnews.com/tech/tech-news/florida-sues-openai-s... Comments URL: https://news.ycombinator.com/item?id=48358667 Points: 263 # Comments: 192",
       "source": "Hacker News",
       "published": "2026-06-01T16:02:04+00:00",
       "link": "https://www.politico.com/news/2026/06/01/openai-hit-with-florida-lawsuit-00944215"
@@ -458,7 +465,7 @@ const FEED_DATA = {
     },
     {
       "title": "When AI Crosses the Line: The Matplotlib Incident",
-      "summary": "Article URL: https://members.sigmazero.cc/posts/when-ai-crosses-159174096?postId=when-ai-crosses-159174096 Comments URL: https://news.ycombinator.com/item?id=48355751 Points: 133 # Comments: 149",
+      "summary": "Article URL: https://members.sigmazero.cc/posts/when-ai-crosses-159174096?postId=when-ai-crosses-159174096 Comments URL: https://news.ycombinator.com/item?id=48355751 Points: 133 # Comments: 150",
       "source": "Hacker News",
       "published": "2026-06-01T12:08:23+00:00",
       "link": "https://members.sigmazero.cc/posts/when-ai-crosses-159174096?postId=when-ai-crosses-159174096"
@@ -507,14 +514,14 @@ const FEED_DATA = {
     },
     {
       "title": "The Speed of Prototyping in the Age of AI",
-      "summary": "Article URL: https://darylcecile.net/notes/speed-of-prototyping-age-of-ai Comments URL: https://news.ycombinator.com/item?id=48347153 Points: 197 # Comments: 98",
+      "summary": "Article URL: https://darylcecile.net/notes/speed-of-prototyping-age-of-ai Comments URL: https://news.ycombinator.com/item?id=48347153 Points: 197 # Comments: 99",
       "source": "Hacker News",
       "published": "2026-05-31T16:37:34+00:00",
       "link": "https://darylcecile.net/notes/speed-of-prototyping-age-of-ai"
     },
     {
       "title": "Odysseus – self-hosted AI workspace",
-      "summary": "Article URL: https://github.com/pewdiepie-archdaemon/odysseus Comments URL: https://news.ycombinator.com/item?id=48346693 Points: 223 # Comments: 96",
+      "summary": "Article URL: https://github.com/pewdiepie-archdaemon/odysseus Comments URL: https://news.ycombinator.com/item?id=48346693 Points: 224 # Comments: 98",
       "source": "Hacker News",
       "published": "2026-05-31T15:50:34+00:00",
       "link": "https://github.com/pewdiepie-archdaemon/odysseus"
@@ -528,14 +535,14 @@ const FEED_DATA = {
     },
     {
       "title": "The solution might be cancelling my AI subscription",
-      "summary": "Article URL: https://thoughts.hmmz.org/2026-05-31.html Comments URL: https://news.ycombinator.com/item?id=48345896 Points: 381 # Comments: 237",
+      "summary": "Article URL: https://thoughts.hmmz.org/2026-05-31.html Comments URL: https://news.ycombinator.com/item?id=48345896 Points: 382 # Comments: 237",
       "source": "Hacker News",
       "published": "2026-05-31T14:23:30+00:00",
       "link": "https://thoughts.hmmz.org/2026-05-31.html"
     },
     {
       "title": "The people who actually want AI to replace humanity",
-      "summary": "Article URL: https://www.vox.com/future-perfect/489976/ai-successionism-transhumanism-posthumanism Comments URL: https://news.ycombinator.com/item?id=48345881 Points: 80 # Comments: 89",
+      "summary": "Article URL: https://www.vox.com/future-perfect/489976/ai-successionism-transhumanism-posthumanism Comments URL: https://news.ycombinator.com/item?id=48345881 Points: 81 # Comments: 89",
       "source": "Hacker News",
       "published": "2026-05-31T14:20:12+00:00",
       "link": "https://www.vox.com/future-perfect/489976/ai-successionism-transhumanism-posthumanism"
@@ -626,7 +633,7 @@ const FEED_DATA = {
     },
     {
       "title": "To have a moral stance on AI is to be an outcast, and it sucks",
-      "summary": "Article URL: https://musings.martyn.berlin/to-have-a-moral-stance-on-ai-is-to-be-an-outcast-and-it-sucks Comments URL: https://news.ycombinator.com/item?id=48337676 Points: 146 # Comments: 314",
+      "summary": "Article URL: https://musings.martyn.berlin/to-have-a-moral-stance-on-ai-is-to-be-an-outcast-and-it-sucks Comments URL: https://news.ycombinator.com/item?id=48337676 Points: 146 # Comments: 315",
       "source": "Hacker News",
       "published": "2026-05-30T16:04:00+00:00",
       "link": "https://musings.martyn.berlin/to-have-a-moral-stance-on-ai-is-to-be-an-outcast-and-it-sucks"
@@ -1393,13 +1400,6 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-05-27T20:10:00+00:00",
       "link": "https://techcrunch.com/2026/05/27/in-more-good-news-for-amazon-snowflake-signs-6b-deal-with-aws-for-ai-cpu-chips/"
-    },
-    {
-      "title": "YouTube to automatically label AI-generated videos",
-      "summary": "https://variety.com/2026/digital/news/youtube-ai-video-label... Comments URL: https://news.ycombinator.com/item?id=48299753 Points: 1303 # Comments: 810",
-      "source": "Hacker News",
-      "published": "2026-05-27T20:00:51+00:00",
-      "link": "https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/"
     }
   ]
 };
