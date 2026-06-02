@@ -1,6 +1,76 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-06-02T12:31:59.912551+00:00",
+  "lastUpdated": "2026-06-02T17:25:20.225038+00:00",
   "items": [
+    {
+      "title": "Microsoft created the mini Surface dev box that Qualcomm couldn’t",
+      "summary": "Microsoft only just announced a new Surface Laptop Ultra at the weekend, and it's now revealing a miniature Surface PC aimed at developers.",
+      "source": "The Verge",
+      "published": "2026-06-02T16:30:00+00:00",
+      "link": "https://www.theverge.com/news/941271/microsoft-surface-rtx-spark-dev-box-specs-availability"
+    },
+    {
+      "title": "Anthropic scales Project Glasswing to 150 partners across 15 countries to hunt critical software flaws",
+      "summary": "Anthropic is scaling up Project Glasswing with 150 new partners across more than 15 countries, all using Claude Mythos Preview to scan critical infrastructure for security flaws. Partners already on board have found over 10,000 serious vulnerabilities.",
+      "source": "The Decoder",
+      "published": "2026-06-02T16:29:42+00:00",
+      "link": "https://the-decoder.com/anthropic-scales-project-glasswing-to-150-partners-across-15-countries-to-hunt-critical-software-flaws/"
+    },
+    {
+      "title": "Trump signs narrower executive order on AI oversight after industry objections",
+      "summary": "After industry objections, President Trump signed a revised AI executive order requiring only voluntary prerelease government reviews of advanced models.",
+      "source": "TechCrunch",
+      "published": "2026-06-02T16:23:08+00:00",
+      "link": "https://techcrunch.com/2026/06/02/trump-signs-narrower-executive-order-on-ai-oversight-after-industry-objections/"
+    },
+    {
+      "title": "OpenAI launches new Codex tools for white-collar work",
+      "summary": "OpenAI is getting serious about courting enterprise users. On Tuesday, the AI lab released a new set of capabilities for Codex, meant to expand the agentic tool’s uses in the workplace.",
+      "source": "TechCrunch",
+      "published": "2026-06-02T16:00:00+00:00",
+      "link": "https://techcrunch.com/2026/06/02/openai-launches-new-codex-tools-for-white-collar-work/"
+    },
+    {
+      "title": "Microsoft Build 2026: All the news about Windows, AI, RTX Spark, and more",
+      "summary": "Microsoft’s annual developer conference is kicking off on June 2nd in San Francisco with the keynote presentation streaming live at 12:30PM ET / 9:30AM PT, and we will be following along here with everything as it’s announced.",
+      "source": "The Verge",
+      "published": "2026-06-02T15:59:58+00:00",
+      "link": "https://www.theverge.com/tech/941668/microsoft-build-may-2026-live-news-updates"
+    },
+    {
+      "title": "Americans don't know how to fight AI so they're fighting data centers",
+      "summary": "Article URL: https://www.vox.com/future-perfect/490350/data-center-moratoria-ai-backlash Comments URL: https://news.ycombinator.com/item?id=48371592 Points: 91 # Comments: 146",
+      "source": "Hacker News",
+      "published": "2026-06-02T15:32:06+00:00",
+      "link": "https://www.vox.com/future-perfect/490350/data-center-moratoria-ai-backlash"
+    },
+    {
+      "title": "Flush With Cash From OpenAI, Opal Is Making an AI-Powered Audio Gadget",
+      "summary": "Opal, the company famous for making a fancy webcam, has pivoted to making other consumer electronics. Fueled by big investments from OpenAI and Samsung, it’s working on an audio gadget first.",
+      "source": "Wired",
+      "published": "2026-06-02T15:30:00+00:00",
+      "link": "https://www.wired.com/story/opal-electronics-openai-investment-ai-powered-audio-gadget/"
+    },
+    {
+      "title": "Anthropic scales Claude Mythos to critical infrastructure in 15+ countries",
+      "summary": "Anthropic is expanding Project Glasswing, its security vulnerability program, and access to Mythos to 150 organizations across 15 countries — targeting critical infrastructure in power, water, healthcare, and communications where a cyberattack could affect 100 million people.",
+      "source": "TechCrunch",
+      "published": "2026-06-02T14:44:21+00:00",
+      "link": "https://techcrunch.com/2026/06/02/anthropic-scales-claude-mythos-to-critical-infrastructure-in-15-countries/"
+    },
+    {
+      "title": "Gemini Spark is the most impressive and terrifying AI experience I’ve had yet",
+      "summary": "According to every product demo from the last four years, planning a trip is a killer use case for AI.",
+      "source": "The Verge",
+      "published": "2026-06-02T12:38:08+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/941388/gemini-spark-ai-agent-trip-planning"
+    },
+    {
+      "title": "ZeroDrift raises $10M to protect AI models from themselves",
+      "summary": "A new AI compliance service sits between AI models and end users to flag and replace any messages that might present a compliance problem.",
+      "source": "TechCrunch",
+      "published": "2026-06-02T12:32:59+00:00",
+      "link": "https://techcrunch.com/2026/06/02/zerodrift-raises-10-million-to-protect-ai-models-from-themselves/"
+    },
     {
       "title": "The Download: AI can run your admin department now",
       "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.",
@@ -52,7 +122,7 @@ const FEED_DATA = {
     },
     {
       "title": "Adafruit Receives Demand Letter from Fenwick Legal Counsel on Behalf of Flux.ai",
-      "summary": "Article URL: https://blog.adafruit.com/ Comments URL: https://news.ycombinator.com/item?id=48368121 Points: 144 # Comments: 48",
+      "summary": "Article URL: https://blog.adafruit.com/ Comments URL: https://news.ycombinator.com/item?id=48368121 Points: 451 # Comments: 181",
       "source": "Hacker News",
       "published": "2026-06-02T10:00:56+00:00",
       "link": "https://blog.adafruit.com/"
@@ -101,7 +171,7 @@ const FEED_DATA = {
     },
     {
       "title": "Alphabet announces $80B equity capital raise to expand AI infra and compute",
-      "summary": "Article URL: https://abc.xyz/investor/news/news-details/2026/Alphabet-Announces-Proposed-80-Billion-Equity-Capital-Raise-to-Expand-AI-Infrastructure-and-Compute-2026-b0myAMewCa/default.aspx Comments URL: https://news.ycombinator.com/item?id=48362515 Points: 213 # Comments: 199",
+      "summary": "Article URL: https://abc.xyz/investor/news/news-details/2026/Alphabet-Announces-Proposed-80-Billion-Equity-Capital-Raise-to-Expand-AI-Infrastructure-and-Compute-2026-b0myAMewCa/default.aspx Comments URL: https://news.ycombinator.com/item?id=48362515 Points: 238 # Comments: 216",
       "source": "Hacker News",
       "published": "2026-06-01T20:55:15+00:00",
       "link": "https://abc.xyz/investor/news/news-details/2026/Alphabet-Announces-Proposed-80-Billion-Equity-Capital-Raise-to-Expand-AI-Infrastructure-and-Compute-2026-b0myAMewCa/default.aspx"
@@ -136,7 +206,7 @@ const FEED_DATA = {
     },
     {
       "title": "Hackers Used Meta's AI Support Bot to Seize Instagram Accounts",
-      "summary": "Article URL: https://krebsonsecurity.com/2026/06/hackers-used-metas-ai-support-bot-to-seize-instagram-accounts/ Comments URL: https://news.ycombinator.com/item?id=48361346 Points: 53 # Comments: 19",
+      "summary": "Article URL: https://krebsonsecurity.com/2026/06/hackers-used-metas-ai-support-bot-to-seize-instagram-accounts/ Comments URL: https://news.ycombinator.com/item?id=48361346 Points: 54 # Comments: 19",
       "source": "Hacker News",
       "published": "2026-06-01T19:18:52+00:00",
       "link": "https://krebsonsecurity.com/2026/06/hackers-used-metas-ai-support-bot-to-seize-instagram-accounts/"
@@ -164,7 +234,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI Agent Guidelines for CS336 at Stanford",
-      "summary": "Article URL: https://github.com/stanford-cs336/assignment1-basics/blob/main/CLAUDE.md Comments URL: https://news.ycombinator.com/item?id=48359232 Points: 436 # Comments: 140",
+      "summary": "Article URL: https://github.com/stanford-cs336/assignment1-basics/blob/main/CLAUDE.md Comments URL: https://news.ycombinator.com/item?id=48359232 Points: 481 # Comments: 150",
       "source": "Hacker News",
       "published": "2026-06-01T16:41:49+00:00",
       "link": "https://github.com/stanford-cs336/assignment1-basics/blob/main/CLAUDE.md"
@@ -185,7 +255,7 @@ const FEED_DATA = {
     },
     {
       "title": "Florida sues OpenAI and Sam Altman over AI risks",
-      "summary": "https://www.wsj.com/tech/ai/openai-sued-by-floridas-attorney...https://www.nbcnews.com/tech/tech-news/florida-sues-openai-s... Comments URL: https://news.ycombinator.com/item?id=48358667 Points: 246 # Comments: 182",
+      "summary": "https://www.wsj.com/tech/ai/openai-sued-by-floridas-attorney...https://www.nbcnews.com/tech/tech-news/florida-sues-openai-s... Comments URL: https://news.ycombinator.com/item?id=48358667 Points: 259 # Comments: 191",
       "source": "Hacker News",
       "published": "2026-06-01T16:02:04+00:00",
       "link": "https://www.politico.com/news/2026/06/01/openai-hit-with-florida-lawsuit-00944215"
@@ -262,7 +332,7 @@ const FEED_DATA = {
     },
     {
       "title": "When AI Crosses the Line: The Matplotlib Incident",
-      "summary": "Article URL: https://members.sigmazero.cc/posts/when-ai-crosses-159174096?postId=when-ai-crosses-159174096 Comments URL: https://news.ycombinator.com/item?id=48355751 Points: 133 # Comments: 144",
+      "summary": "Article URL: https://members.sigmazero.cc/posts/when-ai-crosses-159174096?postId=when-ai-crosses-159174096 Comments URL: https://news.ycombinator.com/item?id=48355751 Points: 133 # Comments: 148",
       "source": "Hacker News",
       "published": "2026-06-01T12:08:23+00:00",
       "link": "https://members.sigmazero.cc/posts/when-ai-crosses-159174096?postId=when-ai-crosses-159174096"
@@ -311,14 +381,14 @@ const FEED_DATA = {
     },
     {
       "title": "The Speed of Prototyping in the Age of AI",
-      "summary": "Article URL: https://darylcecile.net/notes/speed-of-prototyping-age-of-ai Comments URL: https://news.ycombinator.com/item?id=48347153 Points: 195 # Comments: 97",
+      "summary": "Article URL: https://darylcecile.net/notes/speed-of-prototyping-age-of-ai Comments URL: https://news.ycombinator.com/item?id=48347153 Points: 196 # Comments: 97",
       "source": "Hacker News",
       "published": "2026-05-31T16:37:34+00:00",
       "link": "https://darylcecile.net/notes/speed-of-prototyping-age-of-ai"
     },
     {
       "title": "Odysseus – self-hosted AI workspace",
-      "summary": "Article URL: https://github.com/pewdiepie-archdaemon/odysseus Comments URL: https://news.ycombinator.com/item?id=48346693 Points: 219 # Comments: 94",
+      "summary": "Article URL: https://github.com/pewdiepie-archdaemon/odysseus Comments URL: https://news.ycombinator.com/item?id=48346693 Points: 221 # Comments: 96",
       "source": "Hacker News",
       "published": "2026-05-31T15:50:34+00:00",
       "link": "https://github.com/pewdiepie-archdaemon/odysseus"
@@ -332,14 +402,14 @@ const FEED_DATA = {
     },
     {
       "title": "The solution might be cancelling my AI subscription",
-      "summary": "Article URL: https://thoughts.hmmz.org/2026-05-31.html Comments URL: https://news.ycombinator.com/item?id=48345896 Points: 380 # Comments: 237",
+      "summary": "Article URL: https://thoughts.hmmz.org/2026-05-31.html Comments URL: https://news.ycombinator.com/item?id=48345896 Points: 381 # Comments: 237",
       "source": "Hacker News",
       "published": "2026-05-31T14:23:30+00:00",
       "link": "https://thoughts.hmmz.org/2026-05-31.html"
     },
     {
       "title": "The people who actually want AI to replace humanity",
-      "summary": "Article URL: https://www.vox.com/future-perfect/489976/ai-successionism-transhumanism-posthumanism Comments URL: https://news.ycombinator.com/item?id=48345881 Points: 80 # Comments: 87",
+      "summary": "Article URL: https://www.vox.com/future-perfect/489976/ai-successionism-transhumanism-posthumanism Comments URL: https://news.ycombinator.com/item?id=48345881 Points: 80 # Comments: 89",
       "source": "Hacker News",
       "published": "2026-05-31T14:20:12+00:00",
       "link": "https://www.vox.com/future-perfect/489976/ai-successionism-transhumanism-posthumanism"
@@ -392,6 +462,13 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-05-31T07:48:41+00:00",
       "link": "https://the-decoder.com/ai-search-agents-often-confirm-what-they-already-know-instead-of-actually-researching-the-web/"
+    },
+    {
+      "title": "AI grifters are creating fake Black people to sell Shein junk",
+      "summary": "Article URL: https://www.theverge.com/ai-artificial-intelligence/938844/ai-tiktok-shop-blackface-shein-dropshipping Comments URL: https://news.ycombinator.com/item?id=48341921 Points: 51 # Comments: 15",
+      "source": "Hacker News",
+      "published": "2026-05-31T00:23:33+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/938844/ai-tiktok-shop-blackface-shein-dropshipping"
     },
     {
       "title": "SoftBank says it will invest up to €75B to build French data centers",
@@ -483,13 +560,6 @@ const FEED_DATA = {
       "source": "The Verge",
       "published": "2026-05-30T13:00:00+00:00",
       "link": "https://www.theverge.com/tech/938245/past-maps-website-google-zero-ai"
-    },
-    {
-      "title": "AI grifters are creating fake Black people to sell Shein junk",
-      "summary": "Aliyah, a light-skinned Black woman dressed in country-western gear, is struggling to sell metal buckles she handmade on TikTok.",
-      "source": "The Verge",
-      "published": "2026-05-30T13:00:00+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/938844/ai-tiktok-shop-blackface-shein-dropshipping"
     },
     {
       "title": "Making AI chatbots helpful weakens their ability to simulate human behavior, large-scale study finds",
@@ -605,7 +675,7 @@ const FEED_DATA = {
     },
     {
       "title": "What if remote working, not AI, is to blame for weak junior hiring?",
-      "summary": "Article URL: https://www.ft.com/content/2205e2d0-50dc-4e80-9bf7-78d0272276c0 Comments URL: https://news.ycombinator.com/item?id=48326721 Points: 259 # Comments: 359",
+      "summary": "Article URL: https://www.ft.com/content/2205e2d0-50dc-4e80-9bf7-78d0272276c0 Comments URL: https://news.ycombinator.com/item?id=48326721 Points: 260 # Comments: 362",
       "source": "Hacker News",
       "published": "2026-05-29T17:50:11+00:00",
       "link": "https://www.ft.com/content/2205e2d0-50dc-4e80-9bf7-78d0272276c0"
@@ -1330,76 +1400,6 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-05-27T13:48:41+00:00",
       "link": "https://techcrunch.com/2026/05/27/china-is-increasingly-keeping-its-best-ai-talent-to-itself/"
-    },
-    {
-      "title": "Google folds Display Ads into AI-first Demand Gen platform",
-      "summary": "Google is folding Display Ads into its AI-powered Demand Gen platform, marking the end of a long-standing digital advertising model. The Google Display Network (GDN) has been a staple of the open internet for almost twenty years.",
-      "source": "AI News",
-      "published": "2026-05-27T13:12:06+00:00",
-      "link": "https://www.artificialintelligence-news.com/news/google-folds-display-ads-ai-first-demand-gen-platform/"
-    },
-    {
-      "title": "The AI boom drove Nvidia's yearly Taiwan spending from $15 billion to $150 billion",
-      "summary": "Nvidia now spends up to $150 billion a year on suppliers like TSMC in Taiwan. The article The AI boom drove Nvidia's yearly Taiwan spending from $15 billion to $150 billion appeared first on The Decoder.",
-      "source": "The Decoder",
-      "published": "2026-05-27T13:07:39+00:00",
-      "link": "https://the-decoder.com/the-ai-boom-drove-nvidias-yearly-taiwan-spending-from-15-billion-to-150-billion/"
-    },
-    {
-      "title": "China turns its aging camera network into an AI-powered mass surveillance apparatus",
-      "summary": "China's police are upgrading millions of old surveillance cameras with AI. Manufacturers like Hikvision and Huawei now ship cameras with built-in computer vision and language models that automatically detect crowds, suspicious behavior, or unauthorized access.",
-      "source": "The Decoder",
-      "published": "2026-05-27T13:02:22+00:00",
-      "link": "https://the-decoder.com/china-turns-its-aging-camera-network-into-an-ai-powered-mass-surveillance-apparatus/"
-    },
-    {
-      "title": "YouTube is putting AI labels where you’ll actually see them",
-      "summary": "In the wake of Google expanding its AI verification efforts at I/O, YouTube is now finally going to start taking AI labeling seriously.",
-      "source": "The Verge",
-      "published": "2026-05-27T13:00:00+00:00",
-      "link": "https://www.theverge.com/streaming/937915/youtube-ai-labels-shorts-automatic-identification-updates"
-    },
-    {
-      "title": "YouTube will now automatically label AI videos",
-      "summary": "YouTube will now automatically label videos that use significant photorealistic AI, instead of relying solely on creators to disclose AI-generated content themselves. It's also making AI labels more prominent.",
-      "source": "TechCrunch",
-      "published": "2026-05-27T13:00:00+00:00",
-      "link": "https://techcrunch.com/2026/05/27/youtube-will-now-automatically-label-ai-videos/"
-    },
-    {
-      "title": "Exploring the Benefits of AI Bots for Forex Trading in Forex Markets",
-      "summary": "The foreign exchange market is really moving away from pure intuition and toward a space shaped by speed, data and precision. By using automated systems in your routine, you can approach volatility with a level of discipline that manual trading often struggles to maintain.",
-      "source": "AI News",
-      "published": "2026-05-27T12:38:44+00:00",
-      "link": "https://www.artificialintelligence-news.com/news/exploring-the-benefits-of-ai-bots-for-forex-trading-in-forex-markets/"
-    },
-    {
-      "title": "Sam Altman and Dario Amodei walk back their AI job apocalypse predictions",
-      "summary": "Sam Altman and Dario Amodei row back on their prophecies of the AI job apocalypse, just in time for billion-dollar IPOs. The article Sam Altman and Dario Amodei walk back their AI job apocalypse predictions appeared first on The Decoder.",
-      "source": "The Decoder",
-      "published": "2026-05-27T12:37:39+00:00",
-      "link": "https://the-decoder.com/sam-altman-and-dario-amodei-walk-back-their-ai-job-apocalypse-predictions/"
-    },
-    {
-      "title": "The Download: keeping up with AI, and the future of IVF",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.",
-      "source": "MIT Tech Review",
-      "published": "2026-05-27T12:10:00+00:00",
-      "link": "https://www.technologyreview.com/2026/05/27/1138048/the-download-ai-future-ivf-technology/"
-    },
-    {
-      "title": "The AI fight brewing inside The New York Times",
-      "summary": "How newsrooms should use AI - or if they should at all - has been a recurrent debate within the media industry over the last several years. Increasingly, these rules are being hammered out at the bargaining table between unions and publishers.",
-      "source": "The Verge",
-      "published": "2026-05-27T12:00:00+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/937689/new-york-times-tech-guild-ai-monitoring-performance-union-contract"
-    },
-    {
-      "title": "The Pope isn’t AGI-pilled",
-      "summary": "On Monday, Pope Leo XIV unveiled an encyclical letter addressing the societal implications of artificial intelligence.",
-      "source": "The Verge",
-      "published": "2026-05-27T12:00:00+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/937933/pope-ai-encyclical-tech-industry-reactions"
     }
   ]
 };
