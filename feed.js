@@ -1,6 +1,13 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-06-02T05:47:25.776752+00:00",
+  "lastUpdated": "2026-06-02T09:08:49.327296+00:00",
   "items": [
+    {
+      "title": "OpenAI models now available on Amazon Web Services",
+      "summary": "OpenAI is making GPT-5.5, GPT-5.4, and Codex available through Amazon Bedrock at the same prices as OpenAI's own platform. The models run in commercial and government AWS regions but are limited to the US for now.",
+      "source": "The Decoder",
+      "published": "2026-06-02T08:00:26+00:00",
+      "link": "https://the-decoder.com/openai-models-now-available-on-amazon-web-services/"
+    },
     {
       "title": "Alphabet plans to raise $80B to pay for AI buildout",
       "summary": "\"The company is experiencing strong demand for its AI solutions and services from enterprises and consumers, at levels that are exceeding the company’s available supply,\" Alphabet said in its statement.",
@@ -24,7 +31,7 @@ const FEED_DATA = {
     },
     {
       "title": "Alphabet announces $80B equity capital raise to expand AI infra and compute",
-      "summary": "Article URL: https://abc.xyz/investor/news/news-details/2026/Alphabet-Announces-Proposed-80-Billion-Equity-Capital-Raise-to-Expand-AI-Infrastructure-and-Compute-2026-b0myAMewCa/default.aspx Comments URL: https://news.ycombinator.com/item?id=48362515 Points: 150 # Comments: 139",
+      "summary": "Article URL: https://abc.xyz/investor/news/news-details/2026/Alphabet-Announces-Proposed-80-Billion-Equity-Capital-Raise-to-Expand-AI-Infrastructure-and-Compute-2026-b0myAMewCa/default.aspx Comments URL: https://news.ycombinator.com/item?id=48362515 Points: 180 # Comments: 156",
       "source": "Hacker News",
       "published": "2026-06-01T20:55:15+00:00",
       "link": "https://abc.xyz/investor/news/news-details/2026/Alphabet-Announces-Proposed-80-Billion-Equity-Capital-Raise-to-Expand-AI-Infrastructure-and-Compute-2026-b0myAMewCa/default.aspx"
@@ -87,7 +94,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI Agent Guidelines for CS336 at Stanford",
-      "summary": "Article URL: https://github.com/stanford-cs336/assignment1-basics/blob/main/CLAUDE.md Comments URL: https://news.ycombinator.com/item?id=48359232 Points: 370 # Comments: 124",
+      "summary": "Article URL: https://github.com/stanford-cs336/assignment1-basics/blob/main/CLAUDE.md Comments URL: https://news.ycombinator.com/item?id=48359232 Points: 410 # Comments: 131",
       "source": "Hacker News",
       "published": "2026-06-01T16:41:49+00:00",
       "link": "https://github.com/stanford-cs336/assignment1-basics/blob/main/CLAUDE.md"
@@ -108,7 +115,7 @@ const FEED_DATA = {
     },
     {
       "title": "Florida sues OpenAI and Sam Altman over AI risks",
-      "summary": "https://www.wsj.com/tech/ai/openai-sued-by-floridas-attorney...https://www.nbcnews.com/tech/tech-news/florida-sues-openai-s... Comments URL: https://news.ycombinator.com/item?id=48358667 Points: 198 # Comments: 164",
+      "summary": "https://www.wsj.com/tech/ai/openai-sued-by-floridas-attorney...https://www.nbcnews.com/tech/tech-news/florida-sues-openai-s... Comments URL: https://news.ycombinator.com/item?id=48358667 Points: 222 # Comments: 177",
       "source": "Hacker News",
       "published": "2026-06-01T16:02:04+00:00",
       "link": "https://www.politico.com/news/2026/06/01/openai-hit-with-florida-lawsuit-00944215"
@@ -185,7 +192,7 @@ const FEED_DATA = {
     },
     {
       "title": "When AI Crosses the Line: The Matplotlib Incident",
-      "summary": "Article URL: https://members.sigmazero.cc/posts/when-ai-crosses-159174096?postId=when-ai-crosses-159174096 Comments URL: https://news.ycombinator.com/item?id=48355751 Points: 132 # Comments: 140",
+      "summary": "Article URL: https://members.sigmazero.cc/posts/when-ai-crosses-159174096?postId=when-ai-crosses-159174096 Comments URL: https://news.ycombinator.com/item?id=48355751 Points: 133 # Comments: 143",
       "source": "Hacker News",
       "published": "2026-06-01T12:08:23+00:00",
       "link": "https://members.sigmazero.cc/posts/when-ai-crosses-159174096?postId=when-ai-crosses-159174096"
@@ -234,14 +241,14 @@ const FEED_DATA = {
     },
     {
       "title": "The Speed of Prototyping in the Age of AI",
-      "summary": "Article URL: https://darylcecile.net/notes/speed-of-prototyping-age-of-ai Comments URL: https://news.ycombinator.com/item?id=48347153 Points: 190 # Comments: 94",
+      "summary": "Article URL: https://darylcecile.net/notes/speed-of-prototyping-age-of-ai Comments URL: https://news.ycombinator.com/item?id=48347153 Points: 193 # Comments: 96",
       "source": "Hacker News",
       "published": "2026-05-31T16:37:34+00:00",
       "link": "https://darylcecile.net/notes/speed-of-prototyping-age-of-ai"
     },
     {
       "title": "Odysseus – self-hosted AI workspace",
-      "summary": "Article URL: https://github.com/pewdiepie-archdaemon/odysseus Comments URL: https://news.ycombinator.com/item?id=48346693 Points: 214 # Comments: 94",
+      "summary": "Article URL: https://github.com/pewdiepie-archdaemon/odysseus Comments URL: https://news.ycombinator.com/item?id=48346693 Points: 219 # Comments: 94",
       "source": "Hacker News",
       "published": "2026-05-31T15:50:34+00:00",
       "link": "https://github.com/pewdiepie-archdaemon/odysseus"
@@ -255,7 +262,7 @@ const FEED_DATA = {
     },
     {
       "title": "The solution might be cancelling my AI subscription",
-      "summary": "Article URL: https://thoughts.hmmz.org/2026-05-31.html Comments URL: https://news.ycombinator.com/item?id=48345896 Points: 377 # Comments: 233",
+      "summary": "Article URL: https://thoughts.hmmz.org/2026-05-31.html Comments URL: https://news.ycombinator.com/item?id=48345896 Points: 379 # Comments: 233",
       "source": "Hacker News",
       "published": "2026-05-31T14:23:30+00:00",
       "link": "https://thoughts.hmmz.org/2026-05-31.html"
@@ -374,7 +381,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI job grief: A psychological crisis hitting tech workers",
-      "summary": "Article URL: https://jackmaguire.org/blog/ai-job-grief/ Comments URL: https://news.ycombinator.com/item?id=48336760 Points: 197 # Comments: 200",
+      "summary": "Article URL: https://jackmaguire.org/blog/ai-job-grief/ Comments URL: https://news.ycombinator.com/item?id=48336760 Points: 197 # Comments: 201",
       "source": "Hacker News",
       "published": "2026-05-30T14:41:26+00:00",
       "link": "https://jackmaguire.org/blog/ai-job-grief/"
@@ -528,7 +535,7 @@ const FEED_DATA = {
     },
     {
       "title": "What if remote working, not AI, is to blame for weak junior hiring?",
-      "summary": "Article URL: https://www.ft.com/content/2205e2d0-50dc-4e80-9bf7-78d0272276c0 Comments URL: https://news.ycombinator.com/item?id=48326721 Points: 256 # Comments: 357",
+      "summary": "Article URL: https://www.ft.com/content/2205e2d0-50dc-4e80-9bf7-78d0272276c0 Comments URL: https://news.ycombinator.com/item?id=48326721 Points: 258 # Comments: 359",
       "source": "Hacker News",
       "published": "2026-05-29T17:50:11+00:00",
       "link": "https://www.ft.com/content/2205e2d0-50dc-4e80-9bf7-78d0272276c0"
@@ -591,7 +598,7 @@ const FEED_DATA = {
     },
     {
       "title": "Notes from the Mistral AI Now Summit",
-      "summary": "Article URL: https://koenvangilst.nl/lab/mistral-ai-now-summit Comments URL: https://news.ycombinator.com/item?id=48325340 Points: 465 # Comments: 211",
+      "summary": "Article URL: https://koenvangilst.nl/lab/mistral-ai-now-summit Comments URL: https://news.ycombinator.com/item?id=48325340 Points: 465 # Comments: 212",
       "source": "Hacker News",
       "published": "2026-05-29T16:22:01+00:00",
       "link": "https://koenvangilst.nl/lab/mistral-ai-now-summit"
@@ -1393,13 +1400,6 @@ const FEED_DATA = {
       "source": "Ars Technica",
       "published": "2026-05-26T19:50:33+00:00",
       "link": "https://arstechnica.com/information-technology/2026/05/millions-of-ai-agents-imperiled-by-critical-vulnerability-in-open-source-package/"
-    },
-    {
-      "title": "OpenRouter more than doubles valuation to $1.3B in a year",
-      "summary": "OpenRouter has raised a $113 million Series B led by CapitalG. Its 5x growth in usage over six months indicates the multi-AI-model future is here.",
-      "source": "TechCrunch",
-      "published": "2026-05-26T18:33:01+00:00",
-      "link": "https://techcrunch.com/2026/05/26/openrouter-more-than-doubles-valuation-to-1-3b-in-a-year/"
     }
   ]
 };
