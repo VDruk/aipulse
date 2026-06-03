@@ -1,6 +1,62 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-06-03T09:52:57.695864+00:00",
+  "lastUpdated": "2026-06-03T13:03:02.390362+00:00",
   "items": [
+    {
+      "title": "How E.ON uses SAP S/4HANA to modernise the grid with AI",
+      "summary": "Standardising grid data through SAP S/4HANA allows E.ON to modernise infrastructure and execute AI deployments. The utility giant manages infrastructure across three distinct domains: energy grids, customer solutions, and energy infrastructure solutions.",
+      "source": "AI News",
+      "published": "2026-06-03T12:29:42+00:00",
+      "link": "https://www.artificialintelligence-news.com/news/how-e-on-uses-sap-s-4hana-to-modernise-the-grid-with-ai/"
+    },
+    {
+      "title": "The Download: Trump’s new AI order, and smart glasses for warfare",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.",
+      "source": "MIT Tech Review",
+      "published": "2026-06-03T12:10:00+00:00",
+      "link": "https://www.technologyreview.com/2026/06/03/1138322/the-download-trump-ai-order-smart-glasses-warfare/"
+    },
+    {
+      "title": "AI music startup Suno doubles its valuation to $5.4 billion while fighting major record labels in court",
+      "summary": "AI music startup Suno has raised $400 million at a $5.4 billion valuation. The article AI music startup Suno doubles its valuation to $5.4 billion while fighting major record labels in court appeared first on The Decoder.",
+      "source": "The Decoder",
+      "published": "2026-06-03T11:21:11+00:00",
+      "link": "https://the-decoder.com/ai-music-startup-suno-doubles-its-valuation-to-5-4-billion-while-fighting-major-record-labels-in-court/"
+    },
+    {
+      "title": "Nvidia’s RTX Spark Laptops Look Hell-Bent on Disruption",
+      "summary": "The company’s RTX Spark chips might finally turn the “AI PC” into reality.",
+      "source": "Wired",
+      "published": "2026-06-03T11:00:00+00:00",
+      "link": "https://www.wired.com/story/nvidia-rtx-spark-laptop-disruption/"
+    },
+    {
+      "title": "Nous Research releases Hermes Desktop, an open-source AI agent for every platform",
+      "summary": "Nous Research has released Hermes Desktop, an open-source AI agent app under the MIT license. The article Nous Research releases Hermes Desktop, an open-source AI agent for every platform appeared first on The Decoder.",
+      "source": "The Decoder",
+      "published": "2026-06-03T10:56:38+00:00",
+      "link": "https://the-decoder.com/nous-research-releases-hermes-desktop-an-open-source-ai-agent-for-every-platform/"
+    },
+    {
+      "title": "Build 2026: Microsoft tops Google in image generation while playing catch-up on reasoning",
+      "summary": "At Build 2026, Microsoft announced seven new AI models developed in-house, including its first reasoning model. The company also introduced a new tuning method and an autonomous background agent.",
+      "source": "The Decoder",
+      "published": "2026-06-03T10:48:19+00:00",
+      "link": "https://the-decoder.com/build-2026-microsoft-tops-google-in-image-generation-while-playing-catch-up-on-reasoning/"
+    },
+    {
+      "title": "Mathematicians issue warning as AI rapidly gains ground",
+      "summary": "Article URL: https://www.science.org/content/article/mathematicians-issue-warning-ai-rapidly-gains-ground Comments URL: https://news.ycombinator.com/item?id=48382052 Points: 50 # Comments: 66",
+      "source": "Hacker News",
+      "published": "2026-06-03T10:05:48+00:00",
+      "link": "https://www.science.org/content/article/mathematicians-issue-warning-ai-rapidly-gains-ground"
+    },
+    {
+      "title": "What’s Worth More Than Cash in San Francisco Real Estate? Anthropic Stock",
+      "summary": "Several real estate listings in the San Francisco Bay Area are offering to exchange a home for a piece of the AI startup.",
+      "source": "Wired",
+      "published": "2026-06-03T10:00:00+00:00",
+      "link": "https://www.wired.com/story/whats-worth-more-than-san-francisco-real-estate-anthropic-stock/"
+    },
     {
       "title": "Walmart’s AI workflows meet the realities of the balance sheet",
       "summary": "Walmart has reportedly begun limiting employees’ use of an internal AI assistant called Code Puppy after demands placed on the LLM backing the tool were higher than expected.",
@@ -24,7 +80,7 @@ const FEED_DATA = {
     },
     {
       "title": "Microsoft’s Majorana 2 quantum chip is also a case study for agentic AI in R&D",
-      "summary": "Microsoft’s Majorana 2 quantum chip arrived this week with numbers that are genuinely difficult to contextualise: qubits 1,000 times more reliable than the first generation, a mean qubit lifetime of 20 seconds against an industry norm measured in microseconds, and a revised...",
+      "summary": "Microsoft’s Majorana 2 quantum chiparrived this week, with numbers that are genuinely difficult to contextualise: qubits 1,000 times more reliable than those of the first generation models, a mean qubit lifetime of 20 seconds against an industry norm measured in microseconds,...",
       "source": "AI News",
       "published": "2026-06-03T09:00:00+00:00",
       "link": "https://www.artificialintelligence-news.com/news/microsoft-discovery-agentic-ai-majorana-2/"
@@ -37,22 +93,29 @@ const FEED_DATA = {
       "link": "https://www.theverge.com/tech/942302/google-search-ai-overviews-uk-cma-publisher-opt-out"
     },
     {
+      "title": "U of T researchers demonstrate AI worm could target any online device",
+      "summary": "Article URL: https://www.utoronto.ca/news/u-t-researchers-demonstrate-ai-worm-could-target-any-online-device Comments URL: https://news.ycombinator.com/item?id=48379664 Points: 74 # Comments: 18",
+      "source": "Hacker News",
+      "published": "2026-06-03T03:47:21+00:00",
+      "link": "https://www.utoronto.ca/news/u-t-researchers-demonstrate-ai-worm-could-target-any-online-device"
+    },
+    {
       "title": "More than 6 out of 10 people turn to AI for psychological support",
-      "summary": "Article URL: https://www.axa.com/en/press/press-releases/2026-mind-health-report Comments URL: https://news.ycombinator.com/item?id=48377854 Points: 76 # Comments: 74",
+      "summary": "Article URL: https://www.axa.com/en/press/press-releases/2026-mind-health-report Comments URL: https://news.ycombinator.com/item?id=48377854 Points: 78 # Comments: 77",
       "source": "Hacker News",
       "published": "2026-06-02T23:55:04+00:00",
       "link": "https://www.axa.com/en/press/press-releases/2026-mind-health-report"
     },
     {
       "title": "AI outperforms law professors in Stanford Law study",
-      "summary": "https://law.stanford.edu/wp-content/uploads/2026/06/salinas_... Comments URL: https://news.ycombinator.com/item?id=48377761 Points: 240 # Comments: 182",
+      "summary": "https://law.stanford.edu/wp-content/uploads/2026/06/salinas_... Comments URL: https://news.ycombinator.com/item?id=48377761 Points: 310 # Comments: 258",
       "source": "Hacker News",
       "published": "2026-06-02T23:43:12+00:00",
       "link": "https://law.stanford.edu/press/ai-outperforms-law-professors-in-stanford-law-study/"
     },
     {
       "title": "Now AI agents need what RSS does",
-      "summary": "Article URL: https://julienreszka.com/blog/rss-is-back-ai-agents-are-reading-it/ Comments URL: https://news.ycombinator.com/item?id=48375673 Points: 74 # Comments: 56",
+      "summary": "Article URL: https://julienreszka.com/blog/rss-is-back-ai-agents-are-reading-it/ Comments URL: https://news.ycombinator.com/item?id=48375673 Points: 78 # Comments: 59",
       "source": "Hacker News",
       "published": "2026-06-02T20:19:11+00:00",
       "link": "https://julienreszka.com/blog/rss-is-back-ai-agents-are-reading-it/"
@@ -80,7 +143,7 @@ const FEED_DATA = {
     },
     {
       "title": "Microsoft Wants to 'Make People Addicted' to Its New AI Assistant",
-      "summary": "Article URL: https://www.404media.co/microsoft-wants-to-make-people-addicted-to-scout-its-new-ai-assistant-internal-documents-reveal/ Comments URL: https://news.ycombinator.com/item?id=48374503 Points: 50 # Comments: 11",
+      "summary": "Article URL: https://www.404media.co/microsoft-wants-to-make-people-addicted-to-scout-its-new-ai-assistant-internal-documents-reveal/ Comments URL: https://news.ycombinator.com/item?id=48374503 Points: 52 # Comments: 11",
       "source": "Hacker News",
       "published": "2026-06-02T18:49:28+00:00",
       "link": "https://www.404media.co/microsoft-wants-to-make-people-addicted-to-scout-its-new-ai-assistant-internal-documents-reveal/"
@@ -185,7 +248,7 @@ const FEED_DATA = {
     },
     {
       "title": "Trump signs downsized AI order after weeks of reversals",
-      "summary": "https://www.whitehouse.gov/presidential-actions/2026/06/prom...https://www.nytimes.com/2026/06/02/technology/trump-executiv... Comments URL: https://news.ycombinator.com/item?id=48372628 Points: 210 # Comments: 154",
+      "summary": "https://www.whitehouse.gov/presidential-actions/2026/06/prom...https://www.nytimes.com/2026/06/02/technology/trump-executiv... Comments URL: https://news.ycombinator.com/item?id=48372628 Points: 219 # Comments: 160",
       "source": "Hacker News",
       "published": "2026-06-02T16:40:16+00:00",
       "link": "https://www.politico.com/news/2026/06/02/trump-signs-downsized-ai-order-00946389"
@@ -227,7 +290,7 @@ const FEED_DATA = {
     },
     {
       "title": "Americans don't know how to fight AI so they're fighting data centers",
-      "summary": "Article URL: https://www.vox.com/future-perfect/490350/data-center-moratoria-ai-backlash Comments URL: https://news.ycombinator.com/item?id=48371592 Points: 117 # Comments: 207",
+      "summary": "Article URL: https://www.vox.com/future-perfect/490350/data-center-moratoria-ai-backlash Comments URL: https://news.ycombinator.com/item?id=48371592 Points: 118 # Comments: 209",
       "source": "Hacker News",
       "published": "2026-06-02T15:32:06+00:00",
       "link": "https://www.vox.com/future-perfect/490350/data-center-moratoria-ai-backlash"
@@ -248,7 +311,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI Doesn't Have ROI",
-      "summary": "Article URL: https://www.wheresyoured.at/ai-doesnt-have-roi/ Comments URL: https://news.ycombinator.com/item?id=48370437 Points: 60 # Comments: 46",
+      "summary": "Article URL: https://www.wheresyoured.at/ai-doesnt-have-roi/ Comments URL: https://news.ycombinator.com/item?id=48370437 Points: 60 # Comments: 48",
       "source": "Hacker News",
       "published": "2026-06-02T14:06:52+00:00",
       "link": "https://www.wheresyoured.at/ai-doesnt-have-roi/"
@@ -318,7 +381,7 @@ const FEED_DATA = {
     },
     {
       "title": "Adafruit receives demand letter from Fenwick legal counsel on behalf of Flux.ai",
-      "summary": "Article URL: https://blog.adafruit.com/ Comments URL: https://news.ycombinator.com/item?id=48368121 Points: 648 # Comments: 267",
+      "summary": "Article URL: https://blog.adafruit.com/ Comments URL: https://news.ycombinator.com/item?id=48368121 Points: 658 # Comments: 269",
       "source": "Hacker News",
       "published": "2026-06-02T10:00:56+00:00",
       "link": "https://blog.adafruit.com/"
@@ -374,7 +437,7 @@ const FEED_DATA = {
     },
     {
       "title": "Alphabet announces $80B equity capital raise to expand AI infra and compute",
-      "summary": "Article URL: https://abc.xyz/investor/news/news-details/2026/Alphabet-Announces-Proposed-80-Billion-Equity-Capital-Raise-to-Expand-AI-Infrastructure-and-Compute-2026-b0myAMewCa/default.aspx Comments URL: https://news.ycombinator.com/item?id=48362515 Points: 249 # Comments: 225",
+      "summary": "Article URL: https://abc.xyz/investor/news/news-details/2026/Alphabet-Announces-Proposed-80-Billion-Equity-Capital-Raise-to-Expand-AI-Infrastructure-and-Compute-2026-b0myAMewCa/default.aspx Comments URL: https://news.ycombinator.com/item?id=48362515 Points: 251 # Comments: 228",
       "source": "Hacker News",
       "published": "2026-06-01T20:55:15+00:00",
       "link": "https://abc.xyz/investor/news/news-details/2026/Alphabet-Announces-Proposed-80-Billion-Equity-Capital-Raise-to-Expand-AI-Infrastructure-and-Compute-2026-b0myAMewCa/default.aspx"
@@ -437,7 +500,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI Agent Guidelines for CS336 at Stanford",
-      "summary": "Article URL: https://github.com/stanford-cs336/assignment1-basics/blob/main/CLAUDE.md Comments URL: https://news.ycombinator.com/item?id=48359232 Points: 492 # Comments: 153",
+      "summary": "Article URL: https://github.com/stanford-cs336/assignment1-basics/blob/main/CLAUDE.md Comments URL: https://news.ycombinator.com/item?id=48359232 Points: 495 # Comments: 153",
       "source": "Hacker News",
       "published": "2026-06-01T16:41:49+00:00",
       "link": "https://github.com/stanford-cs336/assignment1-basics/blob/main/CLAUDE.md"
@@ -458,7 +521,7 @@ const FEED_DATA = {
     },
     {
       "title": "Florida sues OpenAI and Sam Altman over AI risks",
-      "summary": "https://www.wsj.com/tech/ai/openai-sued-by-floridas-attorney...https://www.nbcnews.com/tech/tech-news/florida-sues-openai-s... Comments URL: https://news.ycombinator.com/item?id=48358667 Points: 265 # Comments: 193",
+      "summary": "https://www.wsj.com/tech/ai/openai-sued-by-floridas-attorney...https://www.nbcnews.com/tech/tech-news/florida-sues-openai-s... Comments URL: https://news.ycombinator.com/item?id=48358667 Points: 266 # Comments: 193",
       "source": "Hacker News",
       "published": "2026-06-01T16:02:04+00:00",
       "link": "https://www.politico.com/news/2026/06/01/openai-hit-with-florida-lawsuit-00944215"
@@ -535,7 +598,7 @@ const FEED_DATA = {
     },
     {
       "title": "When AI Crosses the Line: The Matplotlib Incident",
-      "summary": "Article URL: https://members.sigmazero.cc/posts/when-ai-crosses-159174096?postId=when-ai-crosses-159174096 Comments URL: https://news.ycombinator.com/item?id=48355751 Points: 133 # Comments: 152",
+      "summary": "Article URL: https://members.sigmazero.cc/posts/when-ai-crosses-159174096?postId=when-ai-crosses-159174096 Comments URL: https://news.ycombinator.com/item?id=48355751 Points: 133 # Comments: 153",
       "source": "Hacker News",
       "published": "2026-06-01T12:08:23+00:00",
       "link": "https://members.sigmazero.cc/posts/when-ai-crosses-159174096?postId=when-ai-crosses-159174096"
@@ -1337,69 +1400,6 @@ const FEED_DATA = {
       "source": "The Verge",
       "published": "2026-05-28T14:00:00+00:00",
       "link": "https://www.theverge.com/podcast/929940/rivian-wassym-bensaid-software-volkswagen-carplay-assistant-ai"
-    },
-    {
-      "title": "Show HN: Continue? Y/N: A 60-second game about AI agent permission fatigue",
-      "summary": "Article URL: https://llmgame.scalex.dev Comments URL: https://news.ycombinator.com/item?id=48308376 Points: 376 # Comments: 156",
-      "source": "Hacker News",
-      "published": "2026-05-28T13:02:00+00:00",
-      "link": "https://llmgame.scalex.dev"
-    },
-    {
-      "title": "Has the hunt for AI compute uncovered the next Cerebras?",
-      "summary": "General Compute is betting SambaNova will be the next breakout chipmaker.",
-      "source": "TechCrunch",
-      "published": "2026-05-28T13:00:00+00:00",
-      "link": "https://techcrunch.com/2026/05/28/has-the-hunt-for-ai-compute-uncovered-the-next-cerebras/"
-    },
-    {
-      "title": "Mistral rebrands LeChat as Vibe, betting its chatbot's future is as a full-blown work agent",
-      "summary": "Mistral AI is renaming its chatbot Le Chat to Vibe and bundling chat, coding agents and a new Work Mode under one brand. The Work Mode docks onto Google Workspace, Outlook, Slack or GitHub and processes tasks such as emails, reports or pull requests independently.",
-      "source": "The Decoder",
-      "published": "2026-05-28T12:23:32+00:00",
-      "link": "https://the-decoder.com/mistral-rebrands-lechat-as-vibe-betting-its-chatbots-future-is-as-a-full-blown-work-agent/"
-    },
-    {
-      "title": "The Download: climate tech goes public and the AI Hype Index returns",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Climate tech companies are going public.",
-      "source": "MIT Tech Review",
-      "published": "2026-05-28T12:10:00+00:00",
-      "link": "https://www.technologyreview.com/2026/05/28/1138085/the-download-climate-tech-ipos-ai-hype-index/"
-    },
-    {
-      "title": "New Moms Are Returning to Coding Jobs Radically Reshaped by AI",
-      "summary": "New mothers working in software development are staring down an AI-pilled workplace they barely recognize.",
-      "source": "Wired",
-      "published": "2026-05-28T11:00:00+00:00",
-      "link": "https://www.wired.com/story/women-parental-leave-return-office-ai/"
-    },
-    {
-      "title": "AI sticker shock hits corporate America",
-      "summary": "Article URL: https://www.axios.com/2026/05/28/ai-spending-roi-enterprise-costs Comments URL: https://news.ycombinator.com/item?id=48307098 Points: 167 # Comments: 143",
-      "source": "Hacker News",
-      "published": "2026-05-28T10:39:32+00:00",
-      "link": "https://www.axios.com/2026/05/28/ai-spending-roi-enterprise-costs"
-    },
-    {
-      "title": "NBA plans AI system for automatic out-of-bounds calls",
-      "summary": "NBA Commissioner Adam Silver said the league plans to introduce an automated system for certain officiating decisions, including out-of-bounds calls. The system would use AI and cameras placed around the court to determine possession.",
-      "source": "AI News",
-      "published": "2026-05-28T10:00:00+00:00",
-      "link": "https://www.artificialintelligence-news.com/news/nba-ai-out-of-bounds-calls/"
-    },
-    {
-      "title": "The AI Hype Index: AI gets booed in graduation season",
-      "summary": "It is one thing to say AI will change the world. It is another to expect the class of 2026 to applaud it.",
-      "source": "MIT Tech Review",
-      "published": "2026-05-28T09:51:11+00:00",
-      "link": "https://www.technologyreview.com/2026/05/28/1138053/the-ai-hype-index-ai-gets-booed-in-graduation-season/"
-    },
-    {
-      "title": "Meta One: Zuckerberg finally puts a price tag on all that AI spending",
-      "summary": "Meta is rolling out paid add-ons for Instagram, Facebook, and WhatsApp worldwide while building a separate paid AI offering. The article Meta One: Zuckerberg finally puts a price tag on all that AI spending appeared first on The Decoder.",
-      "source": "The Decoder",
-      "published": "2026-05-28T09:45:20+00:00",
-      "link": "https://the-decoder.com/meta-one-zuckerberg-finally-puts-a-price-tag-on-all-that-ai-spending/"
     }
   ]
 };
