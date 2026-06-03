@@ -1,6 +1,27 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-06-02T22:55:56.753834+00:00",
+  "lastUpdated": "2026-06-03T06:02:24.996246+00:00",
   "items": [
+    {
+      "title": "More than 6 out of 10 people turn to AI for psychological support",
+      "summary": "Article URL: https://www.axa.com/en/press/press-releases/2026-mind-health-report Comments URL: https://news.ycombinator.com/item?id=48377854 Points: 67 # Comments: 70",
+      "source": "Hacker News",
+      "published": "2026-06-02T23:55:04+00:00",
+      "link": "https://www.axa.com/en/press/press-releases/2026-mind-health-report"
+    },
+    {
+      "title": "AI outperforms law professors in Stanford Law study",
+      "summary": "https://law.stanford.edu/wp-content/uploads/2026/06/salinas_... Comments URL: https://news.ycombinator.com/item?id=48377761 Points: 168 # Comments: 138",
+      "source": "Hacker News",
+      "published": "2026-06-02T23:43:12+00:00",
+      "link": "https://law.stanford.edu/press/ai-outperforms-law-professors-in-stanford-law-study/"
+    },
+    {
+      "title": "Now AI agents need what RSS does",
+      "summary": "Article URL: https://julienreszka.com/blog/rss-is-back-ai-agents-are-reading-it/ Comments URL: https://news.ycombinator.com/item?id=48375673 Points: 69 # Comments: 55",
+      "source": "Hacker News",
+      "published": "2026-06-02T20:19:11+00:00",
+      "link": "https://julienreszka.com/blog/rss-is-back-ai-agents-are-reading-it/"
+    },
     {
       "title": "Microsoft Build 2026: The 7 biggest announcements",
       "summary": "Microsoft just kicked off Build 2026 with a keynote from CEO Satya Nadella and other company leaders. As expected, it was filled with announcements, ranging from new Surface hardware to an always-on personal assistant and updates across Microsoft's in-house AI models.",
@@ -21,6 +42,13 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-06-02T19:02:21+00:00",
       "link": "https://techcrunch.com/2026/06/02/new-microsoft-tool-lets-devs-spin-up-ai-behavior-tests-using-text-descriptions/"
+    },
+    {
+      "title": "Microsoft Wants to 'Make People Addicted' to Its New AI Assistant",
+      "summary": "Article URL: https://www.404media.co/microsoft-wants-to-make-people-addicted-to-scout-its-new-ai-assistant-internal-documents-reveal/ Comments URL: https://news.ycombinator.com/item?id=48374503 Points: 50 # Comments: 8",
+      "source": "Hacker News",
+      "published": "2026-06-02T18:49:28+00:00",
+      "link": "https://www.404media.co/microsoft-wants-to-make-people-addicted-to-scout-its-new-ai-assistant-internal-documents-reveal/"
     },
     {
       "title": "OpenAI expands Codex with role-specific plugins to build a general-purpose app for non-developers",
@@ -122,7 +150,7 @@ const FEED_DATA = {
     },
     {
       "title": "Trump signs downsized AI order after weeks of reversals",
-      "summary": "https://www.whitehouse.gov/presidential-actions/2026/06/prom...https://www.nytimes.com/2026/06/02/technology/trump-executiv... Comments URL: https://news.ycombinator.com/item?id=48372628 Points: 148 # Comments: 102",
+      "summary": "https://www.whitehouse.gov/presidential-actions/2026/06/prom...https://www.nytimes.com/2026/06/02/technology/trump-executiv... Comments URL: https://news.ycombinator.com/item?id=48372628 Points: 197 # Comments: 147",
       "source": "Hacker News",
       "published": "2026-06-02T16:40:16+00:00",
       "link": "https://www.politico.com/news/2026/06/02/trump-signs-downsized-ai-order-00946389"
@@ -164,7 +192,7 @@ const FEED_DATA = {
     },
     {
       "title": "Americans don't know how to fight AI so they're fighting data centers",
-      "summary": "Article URL: https://www.vox.com/future-perfect/490350/data-center-moratoria-ai-backlash Comments URL: https://news.ycombinator.com/item?id=48371592 Points: 109 # Comments: 202",
+      "summary": "Article URL: https://www.vox.com/future-perfect/490350/data-center-moratoria-ai-backlash Comments URL: https://news.ycombinator.com/item?id=48371592 Points: 117 # Comments: 207",
       "source": "Hacker News",
       "published": "2026-06-02T15:32:06+00:00",
       "link": "https://www.vox.com/future-perfect/490350/data-center-moratoria-ai-backlash"
@@ -185,7 +213,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI Doesn't Have ROI",
-      "summary": "Article URL: https://www.wheresyoured.at/ai-doesnt-have-roi/ Comments URL: https://news.ycombinator.com/item?id=48370437 Points: 57 # Comments: 40",
+      "summary": "Article URL: https://www.wheresyoured.at/ai-doesnt-have-roi/ Comments URL: https://news.ycombinator.com/item?id=48370437 Points: 60 # Comments: 42",
       "source": "Hacker News",
       "published": "2026-06-02T14:06:52+00:00",
       "link": "https://www.wheresyoured.at/ai-doesnt-have-roi/"
@@ -255,7 +283,7 @@ const FEED_DATA = {
     },
     {
       "title": "Adafruit receives demand letter from Fenwick legal counsel on behalf of Flux.ai",
-      "summary": "Article URL: https://blog.adafruit.com/ Comments URL: https://news.ycombinator.com/item?id=48368121 Points: 583 # Comments: 240",
+      "summary": "Article URL: https://blog.adafruit.com/ Comments URL: https://news.ycombinator.com/item?id=48368121 Points: 645 # Comments: 261",
       "source": "Hacker News",
       "published": "2026-06-02T10:00:56+00:00",
       "link": "https://blog.adafruit.com/"
@@ -282,6 +310,13 @@ const FEED_DATA = {
       "link": "https://the-decoder.com/openai-models-now-available-on-amazon-web-services/"
     },
     {
+      "title": "Different attitudes towards AI in California's university system",
+      "summary": "https://archive.ph/TNLUr Comments URL: https://news.ycombinator.com/item?id=48367223 Points: 104 # Comments: 98",
+      "source": "Hacker News",
+      "published": "2026-06-02T07:46:20+00:00",
+      "link": "https://www.nytimes.com/2026/06/01/magazine/ai-university-college-california.html"
+    },
+    {
       "title": "Alphabet plans to raise $80B to pay for AI buildout",
       "summary": "\"The company is experiencing strong demand for its AI solutions and services from enterprises and consumers, at levels that are exceeding the company’s available supply,\" Alphabet said in its statement.",
       "source": "TechCrunch",
@@ -304,7 +339,7 @@ const FEED_DATA = {
     },
     {
       "title": "Alphabet announces $80B equity capital raise to expand AI infra and compute",
-      "summary": "Article URL: https://abc.xyz/investor/news/news-details/2026/Alphabet-Announces-Proposed-80-Billion-Equity-Capital-Raise-to-Expand-AI-Infrastructure-and-Compute-2026-b0myAMewCa/default.aspx Comments URL: https://news.ycombinator.com/item?id=48362515 Points: 247 # Comments: 224",
+      "summary": "Article URL: https://abc.xyz/investor/news/news-details/2026/Alphabet-Announces-Proposed-80-Billion-Equity-Capital-Raise-to-Expand-AI-Infrastructure-and-Compute-2026-b0myAMewCa/default.aspx Comments URL: https://news.ycombinator.com/item?id=48362515 Points: 248 # Comments: 225",
       "source": "Hacker News",
       "published": "2026-06-01T20:55:15+00:00",
       "link": "https://abc.xyz/investor/news/news-details/2026/Alphabet-Announces-Proposed-80-Billion-Equity-Capital-Raise-to-Expand-AI-Infrastructure-and-Compute-2026-b0myAMewCa/default.aspx"
@@ -367,7 +402,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI Agent Guidelines for CS336 at Stanford",
-      "summary": "Article URL: https://github.com/stanford-cs336/assignment1-basics/blob/main/CLAUDE.md Comments URL: https://news.ycombinator.com/item?id=48359232 Points: 490 # Comments: 152",
+      "summary": "Article URL: https://github.com/stanford-cs336/assignment1-basics/blob/main/CLAUDE.md Comments URL: https://news.ycombinator.com/item?id=48359232 Points: 491 # Comments: 153",
       "source": "Hacker News",
       "published": "2026-06-01T16:41:49+00:00",
       "link": "https://github.com/stanford-cs336/assignment1-basics/blob/main/CLAUDE.md"
@@ -388,7 +423,7 @@ const FEED_DATA = {
     },
     {
       "title": "Florida sues OpenAI and Sam Altman over AI risks",
-      "summary": "https://www.wsj.com/tech/ai/openai-sued-by-floridas-attorney...https://www.nbcnews.com/tech/tech-news/florida-sues-openai-s... Comments URL: https://news.ycombinator.com/item?id=48358667 Points: 263 # Comments: 192",
+      "summary": "https://www.wsj.com/tech/ai/openai-sued-by-floridas-attorney...https://www.nbcnews.com/tech/tech-news/florida-sues-openai-s... Comments URL: https://news.ycombinator.com/item?id=48358667 Points: 265 # Comments: 193",
       "source": "Hacker News",
       "published": "2026-06-01T16:02:04+00:00",
       "link": "https://www.politico.com/news/2026/06/01/openai-hit-with-florida-lawsuit-00944215"
@@ -465,7 +500,7 @@ const FEED_DATA = {
     },
     {
       "title": "When AI Crosses the Line: The Matplotlib Incident",
-      "summary": "Article URL: https://members.sigmazero.cc/posts/when-ai-crosses-159174096?postId=when-ai-crosses-159174096 Comments URL: https://news.ycombinator.com/item?id=48355751 Points: 133 # Comments: 150",
+      "summary": "Article URL: https://members.sigmazero.cc/posts/when-ai-crosses-159174096?postId=when-ai-crosses-159174096 Comments URL: https://news.ycombinator.com/item?id=48355751 Points: 133 # Comments: 152",
       "source": "Hacker News",
       "published": "2026-06-01T12:08:23+00:00",
       "link": "https://members.sigmazero.cc/posts/when-ai-crosses-159174096?postId=when-ai-crosses-159174096"
@@ -514,14 +549,14 @@ const FEED_DATA = {
     },
     {
       "title": "The Speed of Prototyping in the Age of AI",
-      "summary": "Article URL: https://darylcecile.net/notes/speed-of-prototyping-age-of-ai Comments URL: https://news.ycombinator.com/item?id=48347153 Points: 197 # Comments: 99",
+      "summary": "Article URL: https://darylcecile.net/notes/speed-of-prototyping-age-of-ai Comments URL: https://news.ycombinator.com/item?id=48347153 Points: 198 # Comments: 99",
       "source": "Hacker News",
       "published": "2026-05-31T16:37:34+00:00",
       "link": "https://darylcecile.net/notes/speed-of-prototyping-age-of-ai"
     },
     {
       "title": "Odysseus – self-hosted AI workspace",
-      "summary": "Article URL: https://github.com/pewdiepie-archdaemon/odysseus Comments URL: https://news.ycombinator.com/item?id=48346693 Points: 224 # Comments: 98",
+      "summary": "Article URL: https://github.com/pewdiepie-archdaemon/odysseus Comments URL: https://news.ycombinator.com/item?id=48346693 Points: 226 # Comments: 98",
       "source": "Hacker News",
       "published": "2026-05-31T15:50:34+00:00",
       "link": "https://github.com/pewdiepie-archdaemon/odysseus"
@@ -535,7 +570,7 @@ const FEED_DATA = {
     },
     {
       "title": "The solution might be cancelling my AI subscription",
-      "summary": "Article URL: https://thoughts.hmmz.org/2026-05-31.html Comments URL: https://news.ycombinator.com/item?id=48345896 Points: 382 # Comments: 237",
+      "summary": "Article URL: https://thoughts.hmmz.org/2026-05-31.html Comments URL: https://news.ycombinator.com/item?id=48345896 Points: 382 # Comments: 239",
       "source": "Hacker News",
       "published": "2026-05-31T14:23:30+00:00",
       "link": "https://thoughts.hmmz.org/2026-05-31.html"
@@ -1365,41 +1400,6 @@ const FEED_DATA = {
       "source": "Hacker News",
       "published": "2026-05-28T06:40:31+00:00",
       "link": "https://iisc.ac.in/a-eureka-machine-that-thinks-like-nature-and-explores-what-ai-cannot/"
-    },
-    {
-      "title": "Zig 2026: No-AI Policy, $670K Foundation, Left GitHub and Why Zig Isn't 1.0 [video]",
-      "summary": "Article URL: https://www.youtube.com/watch?v=iqddnwKF8HQ Comments URL: https://news.ycombinator.com/item?id=48303273 Points: 86 # Comments: 9",
-      "source": "Hacker News",
-      "published": "2026-05-28T01:40:24+00:00",
-      "link": "https://www.youtube.com/watch?v=iqddnwKF8HQ"
-    },
-    {
-      "title": "Why Google’s AI can’t spell Google (or anything else)",
-      "summary": "Google is embarrassing itself, again.",
-      "source": "TechCrunch",
-      "published": "2026-05-28T00:17:41+00:00",
-      "link": "https://techcrunch.com/2026/05/27/why-googles-ai-cant-spell-google-or-anything-else/"
-    },
-    {
-      "title": "Illinois Lawmakers Just Passed America’s Strongest AI Safety Bill",
-      "summary": "The bill requires companies like OpenAI, Anthropic, and Google to have third parties confirm they’re following safety standards. Illinois governor JB Pritzker says he’ll sign it.",
-      "source": "Wired",
-      "published": "2026-05-28T00:10:42+00:00",
-      "link": "https://www.wired.com/story/illinois-pass-major-ai-safety-law-pritzker/"
-    },
-    {
-      "title": "Show HN: Open-Source AI Racing Harness",
-      "summary": "Hi I'm Dan from Elodin, making an open source real-time capable flight software simulation.For AI Grand Prix contestants, the wait for the Round 1 virtual qualifier simulation has been grueling.If you’re competing, check out our simulation harness to tide you over, built to...",
-      "source": "Hacker News",
-      "published": "2026-05-27T20:37:42+00:00",
-      "link": "https://www.elodin.systems/post/elodin-ai-grand-prix-race-sim-harness"
-    },
-    {
-      "title": "In more good news for Amazon, Snowflake signs $6B deal with AWS for AI CPU chips",
-      "summary": "Snowflake has signed a new, enormous five-year deal with Amazon to secure chips for AI usage. Nvidia is once again being put on notice.",
-      "source": "TechCrunch",
-      "published": "2026-05-27T20:10:00+00:00",
-      "link": "https://techcrunch.com/2026/05/27/in-more-good-news-for-amazon-snowflake-signs-6b-deal-with-aws-for-ai-cpu-chips/"
     }
   ]
 };
