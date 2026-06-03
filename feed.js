@@ -1,6 +1,55 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-06-03T18:00:38.806495+00:00",
+  "lastUpdated": "2026-06-03T20:14:10.324881+00:00",
   "items": [
+    {
+      "title": "Google Deepmind's Gemma 4 12B squeezes multimodal AI onto a laptop with just 16 GB of RAM",
+      "summary": "Google Deepmind's Gemma 4 12B is an open-source model that processes text, images, and audio natively and runs on laptops with just 16 GB of RAM. It nearly matches the twice-as-large 26B model in benchmarks and ships under an Apache 2.0 license for commercial use.",
+      "source": "The Decoder",
+      "published": "2026-06-03T19:54:13+00:00",
+      "link": "https://the-decoder.com/google-deepminds-gemma-4-12b-squeezes-multimodal-ai-onto-a-laptop-with-just-16-gb-of-ram/"
+    },
+    {
+      "title": "Alphabet’s record-breaking $85B raise for Google’s AI business is a helluva good signal",
+      "summary": "If Alphabet's record-breaking, $85 billion stock sale signals investor appetite for AI-related offerings, we can see that investors are ready to chow.",
+      "source": "TechCrunch",
+      "published": "2026-06-03T19:38:32+00:00",
+      "link": "https://techcrunch.com/2026/06/03/alphabets-record-breaking-85b-raise-for-googles-ai-business-is-a-helluva-good-signal/"
+    },
+    {
+      "title": "Google lets sites opt out of AI search results, knowing most have nowhere else to go",
+      "summary": "For the first time, Google is giving website operators an opt-out toggle in Search Console for AI search features like AI Overviews and AI Mode, which together already reach more than 3.5 billion monthly users. New performance reports break out impressions separately.",
+      "source": "The Decoder",
+      "published": "2026-06-03T19:28:29+00:00",
+      "link": "https://the-decoder.com/google-lets-sites-opt-out-of-ai-search-results-knowing-most-have-nowhere-else-to-go/"
+    },
+    {
+      "title": "Google’s Dreambeans, its weirdest-named AI tool to date, will turn your life into a cartoon",
+      "summary": "Dreambeans is a curated list of AI-illustrated \"stories\" culled from the personal data in your Google account.",
+      "source": "TechCrunch",
+      "published": "2026-06-03T19:07:42+00:00",
+      "link": "https://techcrunch.com/2026/06/03/googles-dreambeans-its-weirdest-named-ai-tool-to-date-will-turn-your-life-into-a-cartoon/"
+    },
+    {
+      "title": "xAI Asks Court to Strip Alleged Grok Deepfake Nudes Victims of Anonymity",
+      "summary": "Four people suing Elon Musk's AI firm under pseudonyms due to the risks of being identified may face a difficult choice: Reveal your real names, or drop the lawsuit.",
+      "source": "Wired",
+      "published": "2026-06-03T18:49:32+00:00",
+      "link": "https://www.wired.com/story/xai-asks-court-to-strip-alleged-grok-deepfake-nudes-victims-of-anonymity/"
+    },
+    {
+      "title": "Ideogram 4.0 drops as an open-weight model with native 2K resolution and improved text rendering",
+      "summary": "Ideogram releases version 4.0 of its text-to-image model as an open-weight model with native 2K resolution, bounding box control, and improved text rendering.",
+      "source": "The Decoder",
+      "published": "2026-06-03T18:34:36+00:00",
+      "link": "https://the-decoder.com/ideogram-4-0-drops-as-an-open-weight-model-with-native-2k-resolution-and-improved-text-rendering/"
+    },
+    {
+      "title": "The Humanoid Robot of the Future Is a 6-Foot-Tall Beefcake With a Chinese Body and an American Brain",
+      "summary": "Spencer Huang, Nvidia’s robotics lead, tells WIRED that the new bot combines the best of both worlds.",
+      "source": "Wired",
+      "published": "2026-06-03T18:00:00+00:00",
+      "link": "https://www.wired.com/story/nvidia-unitree-humanoid-robot-h2-plus/"
+    },
     {
       "title": "Trump's new executive order wants AI companies to voluntarily submit models for government safety reviews",
       "summary": "The White House has issued an executive order requiring agencies like the Pentagon and CISA to strengthen cyber defense with AI tools within 30 days. AI developers can voluntarily submit models for security testing, but the order explicitly rules out mandatory approval.",
@@ -170,18 +219,18 @@ const FEED_DATA = {
       "link": "https://www.wired.com/story/redditors-are-using-ai-to-beat-obscene-fifa-world-cup-ticket-prices/"
     },
     {
-      "title": "AI has a water problem. Google thinks it has a fix",
-      "summary": "In the face of widespread backlash to the AI data center buildout throughout the US, Google is touting its efforts to minimize the environmental impact by actually increasing water for local communities.",
-      "source": "The Verge",
-      "published": "2026-06-03T09:00:00+00:00",
-      "link": "https://www.theverge.com/policy/942296/google-water-commitments-data-centers"
-    },
-    {
       "title": "Microsoft’s Majorana 2 quantum chip is also a case study for agentic AI in R&D",
       "summary": "Microsoft’s Majorana 2 quantum chiparrived this week, with numbers that are genuinely difficult to contextualise: qubits 1,000 times more reliable than those of the first generation models, a mean qubit lifetime of 20 seconds against an industry norm measured in microseconds,...",
       "source": "AI News",
       "published": "2026-06-03T09:00:00+00:00",
       "link": "https://www.artificialintelligence-news.com/news/microsoft-discovery-agentic-ai-majorana-2/"
+    },
+    {
+      "title": "AI has a water problem. Google thinks it has a fix",
+      "summary": "In the face of widespread backlash to the AI data center buildout throughout the US, Google is touting its efforts to minimize the environmental impact by actually increasing water for local communities.",
+      "source": "The Verge",
+      "published": "2026-06-03T09:00:00+00:00",
+      "link": "https://www.theverge.com/policy/942296/google-water-commitments-data-centers"
     },
     {
       "title": "Google must let publishers opt out of AI Search features, rules UK",
@@ -1351,55 +1400,6 @@ const FEED_DATA = {
       "source": "The Verge",
       "published": "2026-05-28T20:14:07+00:00",
       "link": "https://www.theverge.com/tech/939273/microsoft-365-copilot-redesign"
-    },
-    {
-      "title": "Asana acquires no-code agent-builder StackAI",
-      "summary": "Asana will incorporate StackAI into its growing suite of AI workflow tools.",
-      "source": "TechCrunch",
-      "published": "2026-05-28T20:06:07+00:00",
-      "link": "https://techcrunch.com/2026/05/28/asana-acquires-no-code-agent-builder-stack-ai/"
-    },
-    {
-      "title": "Sam Altman and Dario Amodei are both walking back AI jobs apocalypse predictions",
-      "summary": "https://archive.ph/50zy3 Comments URL: https://news.ycombinator.com/item?id=48314363 Points: 234 # Comments: 180",
-      "source": "Hacker News",
-      "published": "2026-05-28T19:43:14+00:00",
-      "link": "https://fortune.com/2026/05/26/sam-altman-dario-amodei-walking-back-ai-jobs-apocalypse-prophecies-ipo/"
-    },
-    {
-      "title": "Various LLM Smells",
-      "summary": "Article URL: https://shvbsle.in/various-llm-smells/ Comments URL: https://news.ycombinator.com/item?id=48313810 Points: 364 # Comments: 290",
-      "source": "Hacker News",
-      "published": "2026-05-28T19:02:18+00:00",
-      "link": "https://shvbsle.in/various-llm-smells/"
-    },
-    {
-      "title": "Anthropic raises $65 billion, nears $1T valuation ahead of IPO",
-      "summary": "Anthropic has closed a $65 billion Series H round at a $965 billion post-money valuation, marking what could be the AI startup's final private fundraise before a highly anticipated IPO.",
-      "source": "TechCrunch",
-      "published": "2026-05-28T18:52:51+00:00",
-      "link": "https://techcrunch.com/2026/05/28/anthropic-raises-65-billion-nears-1t-valuation-ahead-of-ipo/"
-    },
-    {
-      "title": "Just like gold and oil, we’ll soon be able to trade AI token futures",
-      "summary": "Large exchanges are designing derivative products around AI tokens, which are increasingly being considered less a computational output and more a raw material input, like electricity or bandwidth.",
-      "source": "TechCrunch",
-      "published": "2026-05-28T18:32:25+00:00",
-      "link": "https://techcrunch.com/2026/05/28/just-like-gold-and-oil-well-soon-be-able-to-trade-ai-token-futures/"
-    },
-    {
-      "title": "Anthropic releases Opus 4.8 with new ‘dynamic workflow’ tool",
-      "summary": "The new Opus model comes with a tool called Dynamic Workflows, for coordinating swarms of subagents.",
-      "source": "TechCrunch",
-      "published": "2026-05-28T17:00:09+00:00",
-      "link": "https://techcrunch.com/2026/05/28/anthropic-releases-opus-4-8-with-new-dynamic-workflow-tool/"
-    },
-    {
-      "title": "Claude’s new model is more ‘honest’ when it messes up",
-      "summary": "Anthropic is releasing Claude Opus 4.8 on Thursday, and the company is touting the model's \"honesty.\" According to Anthropic, it trains \"all [its] models to be honest - for instance, to avoid making claims that they can't support.\" But it notes that \"a general problem with AI...",
-      "source": "The Verge",
-      "published": "2026-05-28T17:00:00+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/939094/anthropic-claude-4-8-opus-honesty-effort"
     }
   ]
 };
