@@ -1,6 +1,97 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-06-03T13:03:02.390362+00:00",
+  "lastUpdated": "2026-06-03T18:00:38.806495+00:00",
   "items": [
+    {
+      "title": "Trump's new executive order wants AI companies to voluntarily submit models for government safety reviews",
+      "summary": "The White House has issued an executive order requiring agencies like the Pentagon and CISA to strengthen cyber defense with AI tools within 30 days. AI developers can voluntarily submit models for security testing, but the order explicitly rules out mandatory approval.",
+      "source": "The Decoder",
+      "published": "2026-06-03T17:55:21+00:00",
+      "link": "https://the-decoder.com/trumps-new-executive-order-wants-ai-companies-to-voluntarily-submit-models-for-government-safety-reviews/"
+    },
+    {
+      "title": "As AI gets better, it reveals an empty promise",
+      "summary": "This week we've got tandem hands-ons with Google's new Gemini AI agent - Spark - from my colleagues David Pierce and Jay Peters. Their takeaways are similar: It's so effective that it's scary.",
+      "source": "The Verge",
+      "published": "2026-06-03T17:45:35+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/942629/as-ai-gets-better-it-reveals-an-empty-promise"
+    },
+    {
+      "title": "If AI data centers are so great, why are they being built in secret?",
+      "summary": "Article URL: https://www.thebrockovichreport.com/p/if-data-centers-are-so-great-why Comments URL: https://news.ycombinator.com/item?id=48386529 Points: 57 # Comments: 51",
+      "source": "Hacker News",
+      "published": "2026-06-03T16:57:11+00:00",
+      "link": "https://www.thebrockovichreport.com/p/if-data-centers-are-so-great-why"
+    },
+    {
+      "title": "Amazon’s search bar will invent AI-generated products you can’t buy",
+      "summary": "Amazon's updated search bar will now show you AI-generated images of products as you describe them.",
+      "source": "The Verge",
+      "published": "2026-06-03T16:07:31+00:00",
+      "link": "https://www.theverge.com/tech/942547/amazon-search-bar-ai-images"
+    },
+    {
+      "title": "Amazon will show AI product images when you search for some reason",
+      "summary": "Amazon will use visual search and AI to show AI-generated product images that match your search queries. The retailer says it will help guide users to products.",
+      "source": "TechCrunch",
+      "published": "2026-06-03T15:50:26+00:00",
+      "link": "https://techcrunch.com/2026/06/03/amazon-will-show-ai-product-images-when-you-search-for-some-reason/"
+    },
+    {
+      "title": "This Is How Trump Finally Signed the AI Executive Order",
+      "summary": "After shelving the original executive order last month, Donald Trump finally got on board Monday night.",
+      "source": "Wired",
+      "published": "2026-06-03T15:46:52+00:00",
+      "link": "https://www.wired.com/story/this-is-how-trump-finally-signed-the-ai-executive-order/"
+    },
+    {
+      "title": "These two founders left Goldman and Meta to build voice AI for markets everyone else overlooked",
+      "summary": "The startup's own stack for Africa and Middle East is now handling more than 17,000 calls per day.",
+      "source": "TechCrunch",
+      "published": "2026-06-03T15:00:00+00:00",
+      "link": "https://techcrunch.com/2026/06/03/these-two-founders-left-goldman-and-meta-to-build-voice-ai-for-markets-everyone-else-overlooked/"
+    },
+    {
+      "title": "Publishers will be able to opt out of AI Search, thanks to new regulation",
+      "summary": "U.K. regulators are requiring Google offer a tool allowing website publishers to opt-out of generative AI search features.",
+      "source": "TechCrunch",
+      "published": "2026-06-03T14:58:33+00:00",
+      "link": "https://techcrunch.com/2026/06/03/publishers-will-be-able-to-opt-out-of-ai-search-thanks-to-new-regulation/"
+    },
+    {
+      "title": "Microsoft and OpenAI broke up — now they’re ready to fight",
+      "summary": "At Microsoft's annual Build conference on Tuesday, the company announced a slew of new or expanded AI initiatives, including a super app, in-house reasoning models, a cybersecurity tool, and OpenClaw-esque AI agents.",
+      "source": "The Verge",
+      "published": "2026-06-03T14:04:00+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/942242/microsoft-build-ai-agents-openai-competition"
+    },
+    {
+      "title": "Perplexity announces hybrid AI system that decides what runs locally or in the cloud",
+      "summary": "Perplexity has announced an orchestrator that combines AI models running on your own computer with powerful cloud models and automatically decides which task gets processed where.",
+      "source": "The Decoder",
+      "published": "2026-06-03T13:40:16+00:00",
+      "link": "https://the-decoder.com/perplexity-announces-hybrid-ai-system-that-decides-what-runs-locally-or-in-the-cloud/"
+    },
+    {
+      "title": "Meta’s AI agent for WhatsApp Business is now available globally",
+      "summary": "WhatsApp will charge businesses for using its AI agent based on token usage.",
+      "source": "TechCrunch",
+      "published": "2026-06-03T13:40:00+00:00",
+      "link": "https://techcrunch.com/2026/06/03/metas-ai-agent-for-whatsapp-business-is-now-available-globally/"
+    },
+    {
+      "title": "Coralogix raises $200M on bet that someone needs to watch the AI agents",
+      "summary": "Coralogix is among a growing number of infrastructure firms betting that as AI systems move into production, demand will rise for tools that can monitor their behavior, troubleshoot failures, and provide the operational data needed to keep them running reliably.",
+      "source": "TechCrunch",
+      "published": "2026-06-03T13:02:51+00:00",
+      "link": "https://techcrunch.com/2026/06/03/coralogix-raises-200m-in-race-to-build-the-monitoring-layer-for-ai-agents/"
+    },
+    {
+      "title": "32GB of DDR5 now costs $375 – AI shortage continues to squeeze PC building",
+      "summary": "Article URL: https://www.tomshardware.com/pc-components/ddr5/32gb-of-ddr5-now-costs-usd375-minimum-ai-shortage-continues-to-squeeze-pc-building Comments URL: https://news.ycombinator.com/item?id=48383241 Points: 262 # Comments: 260",
+      "source": "Hacker News",
+      "published": "2026-06-03T12:43:43+00:00",
+      "link": "https://www.tomshardware.com/pc-components/ddr5/32gb-of-ddr5-now-costs-usd375-minimum-ai-shortage-continues-to-squeeze-pc-building"
+    },
     {
       "title": "How E.ON uses SAP S/4HANA to modernise the grid with AI",
       "summary": "Standardising grid data through SAP S/4HANA allows E.ON to modernise infrastructure and execute AI deployments. The utility giant manages infrastructure across three distinct domains: energy grids, customer solutions, and energy infrastructure solutions.",
@@ -45,7 +136,7 @@ const FEED_DATA = {
     },
     {
       "title": "Mathematicians issue warning as AI rapidly gains ground",
-      "summary": "Article URL: https://www.science.org/content/article/mathematicians-issue-warning-ai-rapidly-gains-ground Comments URL: https://news.ycombinator.com/item?id=48382052 Points: 50 # Comments: 66",
+      "summary": "Article URL: https://www.science.org/content/article/mathematicians-issue-warning-ai-rapidly-gains-ground Comments URL: https://news.ycombinator.com/item?id=48382052 Points: 57 # Comments: 88",
       "source": "Hacker News",
       "published": "2026-06-03T10:05:48+00:00",
       "link": "https://www.science.org/content/article/mathematicians-issue-warning-ai-rapidly-gains-ground"
@@ -65,7 +156,7 @@ const FEED_DATA = {
       "link": "https://www.artificialintelligence-news.com/news/walmart-limits-ai-use-as-workflows-meet-the-realities-of-the-balance-sheet/"
     },
     {
-      "title": "AI has a water problem. Google thinks it has a fix",
+      "title": "AI has a water problem — Google thinks it has a fix",
       "summary": "In the face of widespread backlash to the AI data center buildout throughout the US, Google is touting its efforts to minimize the environmental impact by actually increasing water for local communities.",
       "source": "The Verge",
       "published": "2026-06-03T09:00:00+00:00",
@@ -77,6 +168,13 @@ const FEED_DATA = {
       "source": "Wired",
       "published": "2026-06-03T09:00:00+00:00",
       "link": "https://www.wired.com/story/redditors-are-using-ai-to-beat-obscene-fifa-world-cup-ticket-prices/"
+    },
+    {
+      "title": "AI has a water problem. Google thinks it has a fix",
+      "summary": "In the face of widespread backlash to the AI data center buildout throughout the US, Google is touting its efforts to minimize the environmental impact by actually increasing water for local communities.",
+      "source": "The Verge",
+      "published": "2026-06-03T09:00:00+00:00",
+      "link": "https://www.theverge.com/policy/942296/google-water-commitments-data-centers"
     },
     {
       "title": "Microsoft’s Majorana 2 quantum chip is also a case study for agentic AI in R&D",
@@ -93,29 +191,36 @@ const FEED_DATA = {
       "link": "https://www.theverge.com/tech/942302/google-search-ai-overviews-uk-cma-publisher-opt-out"
     },
     {
+      "title": "Leiden Declaration on Artificial Intelligence and Mathematics",
+      "summary": "Article URL: https://leidendeclaration.ai/ Comments URL: https://news.ycombinator.com/item?id=48380670 Points: 108 # Comments: 63",
+      "source": "Hacker News",
+      "published": "2026-06-03T06:33:27+00:00",
+      "link": "https://leidendeclaration.ai/"
+    },
+    {
       "title": "U of T researchers demonstrate AI worm could target any online device",
-      "summary": "Article URL: https://www.utoronto.ca/news/u-t-researchers-demonstrate-ai-worm-could-target-any-online-device Comments URL: https://news.ycombinator.com/item?id=48379664 Points: 74 # Comments: 18",
+      "summary": "Article URL: https://www.utoronto.ca/news/u-t-researchers-demonstrate-ai-worm-could-target-any-online-device Comments URL: https://news.ycombinator.com/item?id=48379664 Points: 125 # Comments: 38",
       "source": "Hacker News",
       "published": "2026-06-03T03:47:21+00:00",
       "link": "https://www.utoronto.ca/news/u-t-researchers-demonstrate-ai-worm-could-target-any-online-device"
     },
     {
       "title": "More than 6 out of 10 people turn to AI for psychological support",
-      "summary": "Article URL: https://www.axa.com/en/press/press-releases/2026-mind-health-report Comments URL: https://news.ycombinator.com/item?id=48377854 Points: 78 # Comments: 77",
+      "summary": "Article URL: https://www.axa.com/en/press/press-releases/2026-mind-health-report Comments URL: https://news.ycombinator.com/item?id=48377854 Points: 80 # Comments: 84",
       "source": "Hacker News",
       "published": "2026-06-02T23:55:04+00:00",
       "link": "https://www.axa.com/en/press/press-releases/2026-mind-health-report"
     },
     {
       "title": "AI outperforms law professors in Stanford Law study",
-      "summary": "https://law.stanford.edu/wp-content/uploads/2026/06/salinas_... Comments URL: https://news.ycombinator.com/item?id=48377761 Points: 310 # Comments: 258",
+      "summary": "https://law.stanford.edu/wp-content/uploads/2026/06/salinas_... Comments URL: https://news.ycombinator.com/item?id=48377761 Points: 381 # Comments: 329",
       "source": "Hacker News",
       "published": "2026-06-02T23:43:12+00:00",
       "link": "https://law.stanford.edu/press/ai-outperforms-law-professors-in-stanford-law-study/"
     },
     {
       "title": "Now AI agents need what RSS does",
-      "summary": "Article URL: https://julienreszka.com/blog/rss-is-back-ai-agents-are-reading-it/ Comments URL: https://news.ycombinator.com/item?id=48375673 Points: 78 # Comments: 59",
+      "summary": "Article URL: https://julienreszka.com/blog/rss-is-back-ai-agents-are-reading-it/ Comments URL: https://news.ycombinator.com/item?id=48375673 Points: 82 # Comments: 61",
       "source": "Hacker News",
       "published": "2026-06-02T20:19:11+00:00",
       "link": "https://julienreszka.com/blog/rss-is-back-ai-agents-are-reading-it/"
@@ -143,7 +248,7 @@ const FEED_DATA = {
     },
     {
       "title": "Microsoft Wants to 'Make People Addicted' to Its New AI Assistant",
-      "summary": "Article URL: https://www.404media.co/microsoft-wants-to-make-people-addicted-to-scout-its-new-ai-assistant-internal-documents-reveal/ Comments URL: https://news.ycombinator.com/item?id=48374503 Points: 52 # Comments: 11",
+      "summary": "Article URL: https://www.404media.co/microsoft-wants-to-make-people-addicted-to-scout-its-new-ai-assistant-internal-documents-reveal/ Comments URL: https://news.ycombinator.com/item?id=48374503 Points: 54 # Comments: 11",
       "source": "Hacker News",
       "published": "2026-06-02T18:49:28+00:00",
       "link": "https://www.404media.co/microsoft-wants-to-make-people-addicted-to-scout-its-new-ai-assistant-internal-documents-reveal/"
@@ -248,7 +353,7 @@ const FEED_DATA = {
     },
     {
       "title": "Trump signs downsized AI order after weeks of reversals",
-      "summary": "https://www.whitehouse.gov/presidential-actions/2026/06/prom...https://www.nytimes.com/2026/06/02/technology/trump-executiv... Comments URL: https://news.ycombinator.com/item?id=48372628 Points: 219 # Comments: 160",
+      "summary": "https://www.whitehouse.gov/presidential-actions/2026/06/prom...https://www.nytimes.com/2026/06/02/technology/trump-executiv... Comments URL: https://news.ycombinator.com/item?id=48372628 Points: 224 # Comments: 168",
       "source": "Hacker News",
       "published": "2026-06-02T16:40:16+00:00",
       "link": "https://www.politico.com/news/2026/06/02/trump-signs-downsized-ai-order-00946389"
@@ -290,7 +395,7 @@ const FEED_DATA = {
     },
     {
       "title": "Americans don't know how to fight AI so they're fighting data centers",
-      "summary": "Article URL: https://www.vox.com/future-perfect/490350/data-center-moratoria-ai-backlash Comments URL: https://news.ycombinator.com/item?id=48371592 Points: 118 # Comments: 209",
+      "summary": "Article URL: https://www.vox.com/future-perfect/490350/data-center-moratoria-ai-backlash Comments URL: https://news.ycombinator.com/item?id=48371592 Points: 119 # Comments: 211",
       "source": "Hacker News",
       "published": "2026-06-02T15:32:06+00:00",
       "link": "https://www.vox.com/future-perfect/490350/data-center-moratoria-ai-backlash"
@@ -311,7 +416,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI Doesn't Have ROI",
-      "summary": "Article URL: https://www.wheresyoured.at/ai-doesnt-have-roi/ Comments URL: https://news.ycombinator.com/item?id=48370437 Points: 60 # Comments: 48",
+      "summary": "Article URL: https://www.wheresyoured.at/ai-doesnt-have-roi/ Comments URL: https://news.ycombinator.com/item?id=48370437 Points: 60 # Comments: 49",
       "source": "Hacker News",
       "published": "2026-06-02T14:06:52+00:00",
       "link": "https://www.wheresyoured.at/ai-doesnt-have-roi/"
@@ -381,7 +486,7 @@ const FEED_DATA = {
     },
     {
       "title": "Adafruit receives demand letter from Fenwick legal counsel on behalf of Flux.ai",
-      "summary": "Article URL: https://blog.adafruit.com/ Comments URL: https://news.ycombinator.com/item?id=48368121 Points: 658 # Comments: 269",
+      "summary": "Article URL: https://blog.adafruit.com/ Comments URL: https://news.ycombinator.com/item?id=48368121 Points: 665 # Comments: 274",
       "source": "Hacker News",
       "published": "2026-06-02T10:00:56+00:00",
       "link": "https://blog.adafruit.com/"
@@ -409,7 +514,7 @@ const FEED_DATA = {
     },
     {
       "title": "Different attitudes towards AI in California's university system",
-      "summary": "https://archive.ph/TNLUr Comments URL: https://news.ycombinator.com/item?id=48367223 Points: 106 # Comments: 100",
+      "summary": "https://archive.ph/TNLUr Comments URL: https://news.ycombinator.com/item?id=48367223 Points: 106 # Comments: 104",
       "source": "Hacker News",
       "published": "2026-06-02T07:46:20+00:00",
       "link": "https://www.nytimes.com/2026/06/01/magazine/ai-university-college-california.html"
@@ -437,7 +542,7 @@ const FEED_DATA = {
     },
     {
       "title": "Alphabet announces $80B equity capital raise to expand AI infra and compute",
-      "summary": "Article URL: https://abc.xyz/investor/news/news-details/2026/Alphabet-Announces-Proposed-80-Billion-Equity-Capital-Raise-to-Expand-AI-Infrastructure-and-Compute-2026-b0myAMewCa/default.aspx Comments URL: https://news.ycombinator.com/item?id=48362515 Points: 251 # Comments: 228",
+      "summary": "Article URL: https://abc.xyz/investor/news/news-details/2026/Alphabet-Announces-Proposed-80-Billion-Equity-Capital-Raise-to-Expand-AI-Infrastructure-and-Compute-2026-b0myAMewCa/default.aspx Comments URL: https://news.ycombinator.com/item?id=48362515 Points: 251 # Comments: 231",
       "source": "Hacker News",
       "published": "2026-06-01T20:55:15+00:00",
       "link": "https://abc.xyz/investor/news/news-details/2026/Alphabet-Announces-Proposed-80-Billion-Equity-Capital-Raise-to-Expand-AI-Infrastructure-and-Compute-2026-b0myAMewCa/default.aspx"
@@ -500,7 +605,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI Agent Guidelines for CS336 at Stanford",
-      "summary": "Article URL: https://github.com/stanford-cs336/assignment1-basics/blob/main/CLAUDE.md Comments URL: https://news.ycombinator.com/item?id=48359232 Points: 495 # Comments: 153",
+      "summary": "Article URL: https://github.com/stanford-cs336/assignment1-basics/blob/main/CLAUDE.md Comments URL: https://news.ycombinator.com/item?id=48359232 Points: 499 # Comments: 153",
       "source": "Hacker News",
       "published": "2026-06-01T16:41:49+00:00",
       "link": "https://github.com/stanford-cs336/assignment1-basics/blob/main/CLAUDE.md"
@@ -520,6 +625,13 @@ const FEED_DATA = {
       "link": "https://techcrunch.com/2026/06/01/anthropic-files-to-go-public/"
     },
     {
+      "title": "DuckDuckGo makes its 'no-AI' search engine easier to access as its traffic booms",
+      "summary": "Article URL: https://techcrunch.com/2026/06/01/duckduckgo-makes-its-no-ai-search-engine-easier-to-access-as-its-traffic-booms/ Comments URL: https://news.ycombinator.com/item?id=48359130 Points: 309 # Comments: 149",
+      "source": "Hacker News",
+      "published": "2026-06-01T16:33:59+00:00",
+      "link": "https://techcrunch.com/2026/06/01/duckduckgo-makes-its-no-ai-search-engine-easier-to-access-as-its-traffic-booms/"
+    },
+    {
       "title": "Florida sues OpenAI and Sam Altman over AI risks",
       "summary": "https://www.wsj.com/tech/ai/openai-sued-by-floridas-attorney...https://www.nbcnews.com/tech/tech-news/florida-sues-openai-s... Comments URL: https://news.ycombinator.com/item?id=48358667 Points: 266 # Comments: 193",
       "source": "Hacker News",
@@ -532,13 +644,6 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-06-01T16:00:00+00:00",
       "link": "https://techcrunch.com/2026/06/01/this-ai-weather-startup-is-out-forecasting-government-agencies/"
-    },
-    {
-      "title": "DuckDuckGo makes its ‘no-AI’ search engine easier to access as its traffic booms",
-      "summary": "Alternative search engine DuckDuckGo launches 'no AI' web extensions for Chrome and Firefox users.",
-      "source": "TechCrunch",
-      "published": "2026-06-01T14:49:10+00:00",
-      "link": "https://techcrunch.com/2026/06/01/duckduckgo-makes-its-no-ai-search-engine-easier-to-access-as-its-traffic-booms/"
     },
     {
       "title": "Microsoft to unveil new AI models and Windows improvements at Build",
@@ -1295,111 +1400,6 @@ const FEED_DATA = {
       "source": "The Verge",
       "published": "2026-05-28T17:00:00+00:00",
       "link": "https://www.theverge.com/ai-artificial-intelligence/939094/anthropic-claude-4-8-opus-honesty-effort"
-    },
-    {
-      "title": "A $2,000 AI-generated film will make its debut at Tribeca",
-      "summary": "Next month's Tribeca Festival will include the premiere of an AI-generated film: Dreams of Violets.",
-      "source": "The Verge",
-      "published": "2026-05-28T16:08:45+00:00",
-      "link": "https://www.theverge.com/entertainment/939067/ai-film-dreams-of-violets-tribeca"
-    },
-    {
-      "title": "How long is Anthropic’s lease with SpaceX? Opinions vary",
-      "summary": "Elon Musk is publicly reframing xAI’s massive Anthropic compute deal as short-term and cancellable, despite SpaceX’s own S-1 filing describing payments through May 2029.",
-      "source": "TechCrunch",
-      "published": "2026-05-28T15:36:00+00:00",
-      "link": "https://techcrunch.com/2026/05/28/how-long-is-anthropics-lease-with-spacex-opinions-vary/"
-    },
-    {
-      "title": "Google Cloud responds to AI-accelerated cyberattacks with a platform that aims to close security gaps in minutes",
-      "summary": "Google Cloud has unveiled \"AI Threat Defense,\" a platform designed to automatically find, assess, and patch security flaws in enterprise systems. The company bundles technologies it partly acquired through acquisitions.",
-      "source": "The Decoder",
-      "published": "2026-05-28T15:35:58+00:00",
-      "link": "https://the-decoder.com/google-cloud-responds-to-ai-accelerated-cyberattacks-with-a-platform-that-aims-to-close-security-gaps-in-minutes/"
-    },
-    {
-      "title": "Sesame, the conversational AI startup from Oculus founders, launches its iOS app",
-      "summary": "Sesame’s new iOS app brings its conversational AI agents to the public, offering more natural back-and-forth interactions designed to feel less like traditional chatbots and more like talking to a person.",
-      "source": "TechCrunch",
-      "published": "2026-05-28T15:35:43+00:00",
-      "link": "https://techcrunch.com/2026/05/28/sesame-the-conversational-ai-startup-from-oculus-founders-launches-its-ios-app/"
-    },
-    {
-      "title": "Here Comes Ojai, Waymo’s New Chinese-Made Robotaxi",
-      "summary": "The pale-blue Ojai vehicles will start picking up members of the public in California and Arizona in the next few weeks.",
-      "source": "Wired",
-      "published": "2026-05-28T15:00:00+00:00",
-      "link": "https://www.wired.com/story/here-comes-ojai-waymos-new-chinese-made-robotaxi/"
-    },
-    {
-      "title": "Google Pay preps for AI agents with Universal Commerce Protocol",
-      "summary": "Google Pay is overhauling its payment infrastructure for an impending wave of transactions from AI agents.",
-      "source": "AI News",
-      "published": "2026-05-28T14:55:43+00:00",
-      "link": "https://www.artificialintelligence-news.com/news/google-pay-ai-agents-universal-commerce-protocol/"
-    },
-    {
-      "title": "Sneak peek at new Siri app reveals Apple’s plans to take on ChatGPT and more",
-      "summary": "New renders offer a closer look at Apple’s planned AI overhaul for iOS 27, including a redesigned Siri experience and standalone Siri app.",
-      "source": "TechCrunch",
-      "published": "2026-05-28T14:45:13+00:00",
-      "link": "https://techcrunch.com/2026/05/28/sneak-peek-at-new-siri-app-reveals-apples-plans-to-take-on-chatgpt-and-more/"
-    },
-    {
-      "title": "These new iOS 27 renders hint at Siri’s big redesign",
-      "summary": "Apple's long-awaited Siri overhaul, expected to arrive in iOS 27, might look a lot like ChatGPT with a splash of Liquid Glass. Renders from Bloomberg offer a preview of iOS 27, including the new app and chat interface for Siri.",
-      "source": "The Verge",
-      "published": "2026-05-28T14:33:31+00:00",
-      "link": "https://www.theverge.com/tech/938915/ios-27-siri-renders-bloomberg"
-    },
-    {
-      "title": "RSI is the new AGI — and it’s just as hard to pin down",
-      "summary": "A new crop of AI labs are focused on recursive self-improvement — but the goal is proving elusive.",
-      "source": "TechCrunch",
-      "published": "2026-05-28T14:30:17+00:00",
-      "link": "https://techcrunch.com/2026/05/28/rsi-is-the-new-agi-and-its-just-as-hard-to-pin-down/"
-    },
-    {
-      "title": "At TechCrunch Disrupt 2026: Databricks’ co-founder on what kills enterprise AI deals",
-      "summary": "Enterprise AI is entering a different phase now, one where enterprises are no longer evaluating whether AI is exciting. They are evaluating whether it is safe to deploy broadly.",
-      "source": "TechCrunch",
-      "published": "2026-05-28T14:30:00+00:00",
-      "link": "https://techcrunch.com/2026/05/28/techcrunch-disrupt-2026-databricks-co-founder-on-what-kills-enterprise-ai-deals/"
-    },
-    {
-      "title": "Google launches a tiny board that runs Gemma 3 locally",
-      "summary": "Google unveiled the new Coral Board at Google I/O - a compact single-board computer for on-device AI. The article Google launches a tiny board that runs Gemma 3 locally appeared first on The Decoder.",
-      "source": "The Decoder",
-      "published": "2026-05-28T14:29:01+00:00",
-      "link": "https://the-decoder.com/google-launches-a-tiny-board-that-runs-gemma-3-locally/"
-    },
-    {
-      "title": "YouTube adds new podcast features, including an AI recommendation tool and ‘Auto speed’",
-      "summary": "The update signals YouTube's ongoing efforts to compete with other platforms for podcast audiences.",
-      "source": "TechCrunch",
-      "published": "2026-05-28T14:28:47+00:00",
-      "link": "https://techcrunch.com/2026/05/28/youtube-adds-new-podcast-features-including-an-ai-recommendation-tool-and-auto-speed/"
-    },
-    {
-      "title": "CNN sues Perplexity over ‘verbatim’ copycat articles",
-      "summary": "CNN has filed a lawsuit against Perplexity, claiming that the startup's AI tools generate \"verbatim\" copies of its work, as reported earlier by CNN.",
-      "source": "The Verge",
-      "published": "2026-05-28T14:08:36+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/938893/cnn-perplexity-ai-copyright-lawsuit"
-    },
-    {
-      "title": "Visa invests in Replit to power agentic payments for developers",
-      "summary": "Visa said that over 1,000 employees have been using Replit for prototyping and development.",
-      "source": "TechCrunch",
-      "published": "2026-05-28T14:00:00+00:00",
-      "link": "https://techcrunch.com/2026/05/28/visa-invests-in-replit-to-power-agentic-payments-for-developers/"
-    },
-    {
-      "title": "Rivian’s software chief thinks you don’t need CarPlay or buttons",
-      "summary": "Today, I’m talking with Wassym Bensaid, the chief software officer at Rivian, and the co-CEO of Rivian’s platform joint venture with Volkswagen, which everyone just calls RV Tech.",
-      "source": "The Verge",
-      "published": "2026-05-28T14:00:00+00:00",
-      "link": "https://www.theverge.com/podcast/929940/rivian-wassym-bensaid-software-volkswagen-carplay-assistant-ai"
     }
   ]
 };
