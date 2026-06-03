@@ -1,23 +1,58 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-06-03T06:02:24.996246+00:00",
+  "lastUpdated": "2026-06-03T09:52:57.695864+00:00",
   "items": [
     {
+      "title": "Walmart’s AI workflows meet the realities of the balance sheet",
+      "summary": "Walmart has reportedly begun limiting employees’ use of an internal AI assistant called Code Puppy after demands placed on the LLM backing the tool were higher than expected.",
+      "source": "AI News",
+      "published": "2026-06-03T09:33:00+00:00",
+      "link": "https://www.artificialintelligence-news.com/news/walmart-limits-ai-use-as-workflows-meet-the-realities-of-the-balance-sheet/"
+    },
+    {
+      "title": "AI has a water problem. Google thinks it has a fix",
+      "summary": "In the face of widespread backlash to the AI data center buildout throughout the US, Google is touting its efforts to minimize the environmental impact by actually increasing water for local communities.",
+      "source": "The Verge",
+      "published": "2026-06-03T09:00:00+00:00",
+      "link": "https://www.theverge.com/policy/942296/google-water-commitments-data-centers"
+    },
+    {
+      "title": "Redditors Are Using AI to Beat Obscene World Cup Ticket Prices",
+      "summary": "Soccer fans on r/WorldCup2026Tickets are using Claude to build DIY ticketing software, exchanging on back channels, and leaving scalpers scrambling.",
+      "source": "Wired",
+      "published": "2026-06-03T09:00:00+00:00",
+      "link": "https://www.wired.com/story/redditors-are-using-ai-to-beat-obscene-fifa-world-cup-ticket-prices/"
+    },
+    {
+      "title": "Microsoft’s Majorana 2 quantum chip is also a case study for agentic AI in R&D",
+      "summary": "Microsoft’s Majorana 2 quantum chip arrived this week with numbers that are genuinely difficult to contextualise: qubits 1,000 times more reliable than the first generation, a mean qubit lifetime of 20 seconds against an industry norm measured in microseconds, and a revised...",
+      "source": "AI News",
+      "published": "2026-06-03T09:00:00+00:00",
+      "link": "https://www.artificialintelligence-news.com/news/microsoft-discovery-agentic-ai-majorana-2/"
+    },
+    {
+      "title": "Google must let publishers opt out of AI Search features, rules UK",
+      "summary": "Online publishers are getting more control over whether their websites appear in Google's AI Search features, thanks to a UK regulatory ruling.",
+      "source": "The Verge",
+      "published": "2026-06-03T08:45:48+00:00",
+      "link": "https://www.theverge.com/tech/942302/google-search-ai-overviews-uk-cma-publisher-opt-out"
+    },
+    {
       "title": "More than 6 out of 10 people turn to AI for psychological support",
-      "summary": "Article URL: https://www.axa.com/en/press/press-releases/2026-mind-health-report Comments URL: https://news.ycombinator.com/item?id=48377854 Points: 67 # Comments: 70",
+      "summary": "Article URL: https://www.axa.com/en/press/press-releases/2026-mind-health-report Comments URL: https://news.ycombinator.com/item?id=48377854 Points: 76 # Comments: 74",
       "source": "Hacker News",
       "published": "2026-06-02T23:55:04+00:00",
       "link": "https://www.axa.com/en/press/press-releases/2026-mind-health-report"
     },
     {
       "title": "AI outperforms law professors in Stanford Law study",
-      "summary": "https://law.stanford.edu/wp-content/uploads/2026/06/salinas_... Comments URL: https://news.ycombinator.com/item?id=48377761 Points: 168 # Comments: 138",
+      "summary": "https://law.stanford.edu/wp-content/uploads/2026/06/salinas_... Comments URL: https://news.ycombinator.com/item?id=48377761 Points: 240 # Comments: 182",
       "source": "Hacker News",
       "published": "2026-06-02T23:43:12+00:00",
       "link": "https://law.stanford.edu/press/ai-outperforms-law-professors-in-stanford-law-study/"
     },
     {
       "title": "Now AI agents need what RSS does",
-      "summary": "Article URL: https://julienreszka.com/blog/rss-is-back-ai-agents-are-reading-it/ Comments URL: https://news.ycombinator.com/item?id=48375673 Points: 69 # Comments: 55",
+      "summary": "Article URL: https://julienreszka.com/blog/rss-is-back-ai-agents-are-reading-it/ Comments URL: https://news.ycombinator.com/item?id=48375673 Points: 74 # Comments: 56",
       "source": "Hacker News",
       "published": "2026-06-02T20:19:11+00:00",
       "link": "https://julienreszka.com/blog/rss-is-back-ai-agents-are-reading-it/"
@@ -45,7 +80,7 @@ const FEED_DATA = {
     },
     {
       "title": "Microsoft Wants to 'Make People Addicted' to Its New AI Assistant",
-      "summary": "Article URL: https://www.404media.co/microsoft-wants-to-make-people-addicted-to-scout-its-new-ai-assistant-internal-documents-reveal/ Comments URL: https://news.ycombinator.com/item?id=48374503 Points: 50 # Comments: 8",
+      "summary": "Article URL: https://www.404media.co/microsoft-wants-to-make-people-addicted-to-scout-its-new-ai-assistant-internal-documents-reveal/ Comments URL: https://news.ycombinator.com/item?id=48374503 Points: 50 # Comments: 11",
       "source": "Hacker News",
       "published": "2026-06-02T18:49:28+00:00",
       "link": "https://www.404media.co/microsoft-wants-to-make-people-addicted-to-scout-its-new-ai-assistant-internal-documents-reveal/"
@@ -150,7 +185,7 @@ const FEED_DATA = {
     },
     {
       "title": "Trump signs downsized AI order after weeks of reversals",
-      "summary": "https://www.whitehouse.gov/presidential-actions/2026/06/prom...https://www.nytimes.com/2026/06/02/technology/trump-executiv... Comments URL: https://news.ycombinator.com/item?id=48372628 Points: 197 # Comments: 147",
+      "summary": "https://www.whitehouse.gov/presidential-actions/2026/06/prom...https://www.nytimes.com/2026/06/02/technology/trump-executiv... Comments URL: https://news.ycombinator.com/item?id=48372628 Points: 210 # Comments: 154",
       "source": "Hacker News",
       "published": "2026-06-02T16:40:16+00:00",
       "link": "https://www.politico.com/news/2026/06/02/trump-signs-downsized-ai-order-00946389"
@@ -213,7 +248,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI Doesn't Have ROI",
-      "summary": "Article URL: https://www.wheresyoured.at/ai-doesnt-have-roi/ Comments URL: https://news.ycombinator.com/item?id=48370437 Points: 60 # Comments: 42",
+      "summary": "Article URL: https://www.wheresyoured.at/ai-doesnt-have-roi/ Comments URL: https://news.ycombinator.com/item?id=48370437 Points: 60 # Comments: 46",
       "source": "Hacker News",
       "published": "2026-06-02T14:06:52+00:00",
       "link": "https://www.wheresyoured.at/ai-doesnt-have-roi/"
@@ -283,7 +318,7 @@ const FEED_DATA = {
     },
     {
       "title": "Adafruit receives demand letter from Fenwick legal counsel on behalf of Flux.ai",
-      "summary": "Article URL: https://blog.adafruit.com/ Comments URL: https://news.ycombinator.com/item?id=48368121 Points: 645 # Comments: 261",
+      "summary": "Article URL: https://blog.adafruit.com/ Comments URL: https://news.ycombinator.com/item?id=48368121 Points: 648 # Comments: 267",
       "source": "Hacker News",
       "published": "2026-06-02T10:00:56+00:00",
       "link": "https://blog.adafruit.com/"
@@ -311,7 +346,7 @@ const FEED_DATA = {
     },
     {
       "title": "Different attitudes towards AI in California's university system",
-      "summary": "https://archive.ph/TNLUr Comments URL: https://news.ycombinator.com/item?id=48367223 Points: 104 # Comments: 98",
+      "summary": "https://archive.ph/TNLUr Comments URL: https://news.ycombinator.com/item?id=48367223 Points: 106 # Comments: 100",
       "source": "Hacker News",
       "published": "2026-06-02T07:46:20+00:00",
       "link": "https://www.nytimes.com/2026/06/01/magazine/ai-university-college-california.html"
@@ -339,7 +374,7 @@ const FEED_DATA = {
     },
     {
       "title": "Alphabet announces $80B equity capital raise to expand AI infra and compute",
-      "summary": "Article URL: https://abc.xyz/investor/news/news-details/2026/Alphabet-Announces-Proposed-80-Billion-Equity-Capital-Raise-to-Expand-AI-Infrastructure-and-Compute-2026-b0myAMewCa/default.aspx Comments URL: https://news.ycombinator.com/item?id=48362515 Points: 248 # Comments: 225",
+      "summary": "Article URL: https://abc.xyz/investor/news/news-details/2026/Alphabet-Announces-Proposed-80-Billion-Equity-Capital-Raise-to-Expand-AI-Infrastructure-and-Compute-2026-b0myAMewCa/default.aspx Comments URL: https://news.ycombinator.com/item?id=48362515 Points: 249 # Comments: 225",
       "source": "Hacker News",
       "published": "2026-06-01T20:55:15+00:00",
       "link": "https://abc.xyz/investor/news/news-details/2026/Alphabet-Announces-Proposed-80-Billion-Equity-Capital-Raise-to-Expand-AI-Infrastructure-and-Compute-2026-b0myAMewCa/default.aspx"
@@ -402,7 +437,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI Agent Guidelines for CS336 at Stanford",
-      "summary": "Article URL: https://github.com/stanford-cs336/assignment1-basics/blob/main/CLAUDE.md Comments URL: https://news.ycombinator.com/item?id=48359232 Points: 491 # Comments: 153",
+      "summary": "Article URL: https://github.com/stanford-cs336/assignment1-basics/blob/main/CLAUDE.md Comments URL: https://news.ycombinator.com/item?id=48359232 Points: 492 # Comments: 153",
       "source": "Hacker News",
       "published": "2026-06-01T16:41:49+00:00",
       "link": "https://github.com/stanford-cs336/assignment1-basics/blob/main/CLAUDE.md"
@@ -556,7 +591,7 @@ const FEED_DATA = {
     },
     {
       "title": "Odysseus – self-hosted AI workspace",
-      "summary": "Article URL: https://github.com/pewdiepie-archdaemon/odysseus Comments URL: https://news.ycombinator.com/item?id=48346693 Points: 226 # Comments: 98",
+      "summary": "Article URL: https://github.com/pewdiepie-archdaemon/odysseus Comments URL: https://news.ycombinator.com/item?id=48346693 Points: 227 # Comments: 99",
       "source": "Hacker News",
       "published": "2026-05-31T15:50:34+00:00",
       "link": "https://github.com/pewdiepie-archdaemon/odysseus"
@@ -570,7 +605,7 @@ const FEED_DATA = {
     },
     {
       "title": "The solution might be cancelling my AI subscription",
-      "summary": "Article URL: https://thoughts.hmmz.org/2026-05-31.html Comments URL: https://news.ycombinator.com/item?id=48345896 Points: 382 # Comments: 239",
+      "summary": "Article URL: https://thoughts.hmmz.org/2026-05-31.html Comments URL: https://news.ycombinator.com/item?id=48345896 Points: 383 # Comments: 239",
       "source": "Hacker News",
       "published": "2026-05-31T14:23:30+00:00",
       "link": "https://thoughts.hmmz.org/2026-05-31.html"
@@ -1365,41 +1400,6 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-05-28T09:45:20+00:00",
       "link": "https://the-decoder.com/meta-one-zuckerberg-finally-puts-a-price-tag-on-all-that-ai-spending/"
-    },
-    {
-      "title": "Amazon builds its own AI production platform and greenlights three AI animated series for Prime Video",
-      "summary": "Amazon MGM Studios and AWS are launching a \"GenAI Creators' Fund\" that gives filmmakers money and access to the in-house AI platform \"Project Nara.\" Three animated series are already in production - the teams had five weeks for their pilots.",
-      "source": "The Decoder",
-      "published": "2026-05-28T08:59:21+00:00",
-      "link": "https://the-decoder.com/amazon-builds-its-own-ai-production-platform-and-greenlights-three-ai-animated-series-for-prime-video/"
-    },
-    {
-      "title": "YouTube will let you ask AI to make a custom video feed",
-      "summary": "YouTube is launching a new AI feature that creates a personalized video feed based on descriptions of what you want to watch.",
-      "source": "The Verge",
-      "published": "2026-05-28T08:49:07+00:00",
-      "link": "https://www.theverge.com/streaming/938759/youtube-custom-ai-feed-prompt-availability"
-    },
-    {
-      "title": "ElevenLabs Music v2 promises opera-to-metal transitions without losing musical coherence",
-      "summary": "ElevenLabs has released Music v2, an upgraded AI music generation model that works across genres: a single song can shift between opera, heavy metal, and rap. New inpainting lets users regenerate specific sections without touching the rest.",
-      "source": "The Decoder",
-      "published": "2026-05-28T07:33:43+00:00",
-      "link": "https://the-decoder.com/elevenlabs-music-v2-promises-opera-to-metal-transitions-without-losing-musical-coherence/"
-    },
-    {
-      "title": "Vertu wants CEOs to run companies from an AI foldable starting at $6,880",
-      "summary": "Built on top of the open source Hermes project, Vertu's new foldable combines AI-agent workflows, enterprise integrations, and ultra-premium luxury finishes.",
-      "source": "TechCrunch",
-      "published": "2026-05-28T07:00:00+00:00",
-      "link": "https://techcrunch.com/2026/05/28/vertu-wants-ceos-to-run-companies-from-an-ai-foldable-starting-at-6880/"
-    },
-    {
-      "title": "A Eureka machine that thinks like nature and explores what AI cannot",
-      "summary": "Article URL: https://iisc.ac.in/a-eureka-machine-that-thinks-like-nature-and-explores-what-ai-cannot/ Comments URL: https://news.ycombinator.com/item?id=48305446 Points: 146 # Comments: 44",
-      "source": "Hacker News",
-      "published": "2026-05-28T06:40:31+00:00",
-      "link": "https://iisc.ac.in/a-eureka-machine-that-thinks-like-nature-and-explores-what-ai-cannot/"
     }
   ]
 };
