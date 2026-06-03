@@ -1,6 +1,13 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-06-03T20:14:10.324881+00:00",
+  "lastUpdated": "2026-06-03T22:58:59.693916+00:00",
   "items": [
+    {
+      "title": "Lovable signs multi-year deal with Google Cloud to up usage 5x, source says",
+      "summary": "Lovable and Google signed an expanded multi-year deal athat involves a 5x expansion of Lovable's footprint on Google Cloud, and expanded access to Anthropic Claude.",
+      "source": "TechCrunch",
+      "published": "2026-06-03T22:56:51+00:00",
+      "link": "https://techcrunch.com/2026/06/03/lovable-signs-multi-year-deal-with-google-cloud-to-up-usage-5x-source-says/"
+    },
     {
       "title": "Google Deepmind's Gemma 4 12B squeezes multimodal AI onto a laptop with just 16 GB of RAM",
       "summary": "Google Deepmind's Gemma 4 12B is an open-source model that processes text, images, and audio natively and runs on laptops with just 16 GB of RAM. It nearly matches the twice-as-large 26B model in benchmarks and ships under an Apache 2.0 license for commercial use.",
@@ -9,8 +16,15 @@ const FEED_DATA = {
       "link": "https://the-decoder.com/google-deepminds-gemma-4-12b-squeezes-multimodal-ai-onto-a-laptop-with-just-16-gb-of-ram/"
     },
     {
+      "title": "Dashlane issues opaque advisory warning 20 encrypted vaults were stolen",
+      "summary": "Security advisory leaves out key details. Dashlane maintains complete silence.",
+      "source": "Ars Technica",
+      "published": "2026-06-03T19:53:14+00:00",
+      "link": "https://arstechnica.com/security/2026/06/dashlane-issues-opaque-advisory-warning-20-encrypted-vaults-were-stolen/"
+    },
+    {
       "title": "Alphabet’s record-breaking $85B raise for Google’s AI business is a helluva good signal",
-      "summary": "If Alphabet's record-breaking, $85 billion stock sale signals investor appetite for AI-related offerings, we can see that investors are ready to chow.",
+      "summary": "If Alphabet's record-breaking $85 billion stock sale signals investor appetite for AI-related offerings, we can see that investors are ready to chow.",
       "source": "TechCrunch",
       "published": "2026-06-03T19:38:32+00:00",
       "link": "https://techcrunch.com/2026/06/03/alphabets-record-breaking-85b-raise-for-googles-ai-business-is-a-helluva-good-signal/"
@@ -1386,20 +1400,6 @@ const FEED_DATA = {
       "source": "Hacker News",
       "published": "2026-05-28T21:14:22+00:00",
       "link": "https://www.ft.com/content/b1a62a7f-6df5-4c90-94ce-64ce9c9961b6"
-    },
-    {
-      "title": "Fed up with vibe coders, dev sneaks data-nuking prompt injection into their code",
-      "summary": "Undisclosed addition in jqwik instructed AI coding agents to delete app output.",
-      "source": "Ars Technica",
-      "published": "2026-05-28T20:29:53+00:00",
-      "link": "https://arstechnica.com/security/2026/05/fed-up-with-vibe-coders-dev-sneaks-data-nuking-prompt-injection-into-their-code/"
-    },
-    {
-      "title": "Microsoft 365 Copilot gets a speed boost and cleaner design",
-      "summary": "Microsoft is launching a revamped version of Microsoft 365 Copilot, offering a cleaner design that the company claims loads twice as fast. As part of this update, Copilot will provide more reliable and structured responses that are easier to scan, according to Microsoft.",
-      "source": "The Verge",
-      "published": "2026-05-28T20:14:07+00:00",
-      "link": "https://www.theverge.com/tech/939273/microsoft-365-copilot-redesign"
     }
   ]
 };
