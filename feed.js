@@ -1,9 +1,16 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-06-03T22:58:59.693916+00:00",
+  "lastUpdated": "2026-06-04T05:55:05.754659+00:00",
   "items": [
     {
-      "title": "Lovable signs multi-year deal with Google Cloud to up usage 5x, source says",
-      "summary": "Lovable and Google signed an expanded multi-year deal athat involves a 5x expansion of Lovable's footprint on Google Cloud, and expanded access to Anthropic Claude.",
+      "title": "OpenAI and Anthropic Sign Letter to Prevent AI-Developed Biological Weapons",
+      "summary": "Leading AI labs, executives, and scientists are sending a letter to lawmakers urging them to improve tracking of synthetic DNA sequences that could be used for bioweapons.",
+      "source": "Wired",
+      "published": "2026-06-04T01:01:00+00:00",
+      "link": "https://www.wired.com/story/openai-anthropic-letter-ai-biological-weapons/"
+    },
+    {
+      "title": "Lovable signs multiyear deal with Google Cloud to up usage 5x, source says",
+      "summary": "Lovable and Google signed an expanded multiyear deal that involves a 5x expansion of Lovable's footprint on Google Cloud, and expanded access to Anthropic Claude.",
       "source": "TechCrunch",
       "published": "2026-06-03T22:56:51+00:00",
       "link": "https://techcrunch.com/2026/06/03/lovable-signs-multi-year-deal-with-google-cloud-to-up-usage-5x-source-says/"
@@ -14,6 +21,13 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-06-03T19:54:13+00:00",
       "link": "https://the-decoder.com/google-deepminds-gemma-4-12b-squeezes-multimodal-ai-onto-a-laptop-with-just-16-gb-of-ram/"
+    },
+    {
+      "title": "Can't make sense of Dashlane's vault theft notification? You're not alone.",
+      "summary": "Security advisory leaves out key details. Dashlane maintains complete silence.",
+      "source": "Ars Technica",
+      "published": "2026-06-03T19:53:14+00:00",
+      "link": "https://arstechnica.com/security/2026/06/dashlane-issues-opaque-advisory-warning-20-encrypted-vaults-were-stolen/"
     },
     {
       "title": "Dashlane issues opaque advisory warning 20 encrypted vaults were stolen",
@@ -1386,20 +1400,6 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-05-28T21:24:01+00:00",
       "link": "https://techcrunch.com/2026/05/28/the-internet-is-being-rebuilt-for-machines/"
-    },
-    {
-      "title": "Anthropic ships Claude Opus 4.8 as a \"modest but tangible improvement\" that tops GPT-5.5 in most benchmarks",
-      "summary": "Anthropic releases Claude Opus 4.8, which beats GPT-5.5 and Gemini 3.1 Pro in most benchmarks. The model also catches its own coding errors four times more often than its predecessor.",
-      "source": "The Decoder",
-      "published": "2026-05-28T21:20:09+00:00",
-      "link": "https://the-decoder.com/anthropic-ships-claude-opus-4-8-as-a-modest-but-tangible-improvement-that-tops-gpt-5-5-in-most-benchmarks/"
-    },
-    {
-      "title": "Amazon scraps AI leaderboard to stop workers chasing usage scores",
-      "summary": "Article URL: https://www.ft.com/content/b1a62a7f-6df5-4c90-94ce-64ce9c9961b6 Comments URL: https://news.ycombinator.com/item?id=48315583 Points: 72 # Comments: 19",
-      "source": "Hacker News",
-      "published": "2026-05-28T21:14:22+00:00",
-      "link": "https://www.ft.com/content/b1a62a7f-6df5-4c90-94ce-64ce9c9961b6"
     }
   ]
 };
