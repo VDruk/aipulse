@@ -1,6 +1,13 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-06-04T05:55:05.754659+00:00",
+  "lastUpdated": "2026-06-04T08:51:33.544908+00:00",
   "items": [
+    {
+      "title": "xAI updates Grok Imagine to 1.5 with image-to-video generation at 720p resolution",
+      "summary": "xAI has released \"grok-imagine-video-1.5-preview,\" an image-to-video model that turns still images into cinematic videos at up to 720p based on text prompts. Multiple clips can be stitched together into longer scenes.",
+      "source": "The Decoder",
+      "published": "2026-06-04T08:04:48+00:00",
+      "link": "https://the-decoder.com/xai-updates-grok-imagine-to-1-5-with-image-to-video-generation-at-720p-resolution/"
+    },
     {
       "title": "OpenAI and Anthropic Sign Letter to Prevent AI-Developed Biological Weapons",
       "summary": "Leading AI labs, executives, and scientists are sending a letter to lawmakers urging them to improve tracking of synthetic DNA sequences that could be used for bioweapons.",
@@ -1393,13 +1400,6 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-05-28T21:30:58+00:00",
       "link": "https://the-decoder.com/claude-company-anthropic-nears-a-trillion-dollar-valuation-after-raising-65-billion-in-series-h/"
-    },
-    {
-      "title": "The internet is being rebuilt for machines",
-      "summary": "As AI agents move from experiments to production, AWS, Cloudflare, and others are redesigning cloud infrastructure for a future dominated by machine-generated internet traffic instead of human users.",
-      "source": "TechCrunch",
-      "published": "2026-05-28T21:24:01+00:00",
-      "link": "https://techcrunch.com/2026/05/28/the-internet-is-being-rebuilt-for-machines/"
     }
   ]
 };
