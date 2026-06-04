@@ -1,6 +1,41 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-06-04T16:20:36.918469+00:00",
+  "lastUpdated": "2026-06-04T19:19:41.449942+00:00",
   "items": [
+    {
+      "title": "Cloudflare CEO says the web's future is \"pay to crawl\" as bots overtake human traffic",
+      "summary": "Bot traffic now outpaces human traffic on the internet, Cloudflare CEO Matthew Prince says, years ahead of his late 2027 forecast. He blames AI agents for the surge.",
+      "source": "The Decoder",
+      "published": "2026-06-04T18:54:13+00:00",
+      "link": "https://the-decoder.com/cloudflare-ceo-says-the-webs-future-is-pay-to-crawl-as-bots-overtake-human-traffic/"
+    },
+    {
+      "title": "The AI IPO Race Heats Up, DOGE Whistleblower Sues Elon Musk, and Instagram Gets Hacked",
+      "summary": "On Uncanny Valley, we dive into the IPO bonanza that the top AI companies are embarking on to the point where some real estate listings are looking for not just regular old cash, but Anthropic stock.",
+      "source": "Wired",
+      "published": "2026-06-04T18:44:49+00:00",
+      "link": "https://www.wired.com/story/uncanny-valley-podcast-ai-ipo-race-elon-musk-doge-whistleblower-instagram-hacking-incident/"
+    },
+    {
+      "title": "Meta Business Agent drives AI-powered conversational commerce",
+      "summary": "Meta has launched Business Agent to automate conversational commerce workflows directly inside its messaging applications. The software allows global retail brands to execute transactions and field support tickets without human intervention.",
+      "source": "AI News",
+      "published": "2026-06-04T17:17:40+00:00",
+      "link": "https://www.artificialintelligence-news.com/news/meta-business-agent-ai-powered-conversational-commerce/"
+    },
+    {
+      "title": "ChatGPT now saves narrative dossiers about you sorted by work, hobbies, and travel preferences",
+      "summary": "ChatGPT's updated \"Dreaming\" memory system now builds coherent user profiles from conversations instead of saving scattered bullet points. OpenAI says the success rate for keeping information current jumped from 52.2 percent last year to 75.1 percent.",
+      "source": "The Decoder",
+      "published": "2026-06-04T16:47:48+00:00",
+      "link": "https://the-decoder.com/chatgpt-now-saves-narrative-dossiers-about-you-sorted-by-work-hobbies-and-travel-preferences/"
+    },
+    {
+      "title": "Meta rolls out a new AI creator assistant on Facebook",
+      "summary": "Creators often have to parse through charts and dashboards to understand their performance, but with the new AI assistant, they can get quick answers to questions like \"When should I post?\" and \"What are people saying in my comments?\"",
+      "source": "TechCrunch",
+      "published": "2026-06-04T16:32:48+00:00",
+      "link": "https://techcrunch.com/2026/06/04/meta-rolls-out-a-new-ai-creator-assistant-on-facebook/"
+    },
     {
       "title": "Bain study finds companies miss AI savings targets because humans keep getting in the way",
       "summary": "According to a Bain survey of 951 companies, almost 40 percent achieved less than 10 percent in AI cost savings, even though most had targeted 11 to 20 percent.",
@@ -51,6 +86,13 @@ const FEED_DATA = {
       "link": "https://www.technologyreview.com/2026/06/04/1138408/the-download-ai-lawsuits-virtual-power-plants-data-centers/"
     },
     {
+      "title": "Scout from M’Soft is the agentic Autopilot that works across M365",
+      "summary": "Microsoft has announced the wider testing of its new Autopilot feature at the Microsoft Build event this week, backed by a post on the company’s’ website. Autopilots are described as a new category of agents that can work autonomously on a user’s behalf.",
+      "source": "AI News",
+      "published": "2026-06-04T11:41:00+00:00",
+      "link": "https://www.artificialintelligence-news.com/news/microsofts-autopilot-scout-is-the-agentic-autopilot-that-works-across-m365/"
+    },
+    {
       "title": "How courts are coping with a flood of AI-generated lawsuits",
       "summary": "Most days in her chambers, Judge Maritza Braswell, a federal magistrate judge in Colorado, sifts through stacks of documents written by people without a lawyer. Many of them can’t afford to hire a lawyer, and others have cases too weak or too small to interest one.",
       "source": "MIT Tech Review",
@@ -77,6 +119,13 @@ const FEED_DATA = {
       "source": "Wired",
       "published": "2026-06-04T10:00:00+00:00",
       "link": "https://www.wired.com/story/alpha-schools-new-york-city-campus-isnt-actually-a-school/"
+    },
+    {
+      "title": "Amazon brings AI shopping assistant to retailers with Kate Spade",
+      "summary": "Amazon is offering its AI shopping technology to other retailers through a new Agentic Shopping Assistant built on AWS, with Kate Spade among the first brands to use it. The service allows retailers to build AI shopping assistants for their own websites and apps.",
+      "source": "AI News",
+      "published": "2026-06-04T10:00:00+00:00",
+      "link": "https://www.artificialintelligence-news.com/news/amazon-ai-shopping-assistant-kate-spade-retailers/"
     },
     {
       "title": "Amazon develops a warehouse robot that workers can speak to",
@@ -366,18 +415,18 @@ const FEED_DATA = {
       "link": "https://www.theverge.com/policy/942296/google-water-commitments-data-centers"
     },
     {
-      "title": "Redditors Are Using AI to Beat Obscene World Cup Ticket Prices",
-      "summary": "Soccer fans on r/WorldCup2026Tickets are using Claude to build DIY ticketing software, exchanging on back channels, and leaving scalpers scrambling.",
-      "source": "Wired",
-      "published": "2026-06-03T09:00:00+00:00",
-      "link": "https://www.wired.com/story/redditors-are-using-ai-to-beat-obscene-fifa-world-cup-ticket-prices/"
-    },
-    {
       "title": "Microsoft’s Majorana 2 quantum chip is also a case study for agentic AI in R&D",
       "summary": "Microsoft’s Majorana 2 quantum chiparrived this week, with numbers that are genuinely difficult to contextualise: qubits 1,000 times more reliable than those of the first generation models, a mean qubit lifetime of 20 seconds against an industry norm measured in microseconds,...",
       "source": "AI News",
       "published": "2026-06-03T09:00:00+00:00",
       "link": "https://www.artificialintelligence-news.com/news/microsoft-discovery-agentic-ai-majorana-2/"
+    },
+    {
+      "title": "Redditors Are Using AI to Beat Obscene World Cup Ticket Prices",
+      "summary": "Soccer fans on r/WorldCup2026Tickets are using Claude to build DIY ticketing software, exchanging on back channels, and leaving scalpers scrambling.",
+      "source": "Wired",
+      "published": "2026-06-03T09:00:00+00:00",
+      "link": "https://www.wired.com/story/redditors-are-using-ai-to-beat-obscene-fifa-world-cup-ticket-prices/"
     },
     {
       "title": "AI has a water problem. Google thinks it has a fix",
@@ -1351,55 +1400,6 @@ const FEED_DATA = {
       "source": "Wired",
       "published": "2026-05-29T15:00:00+00:00",
       "link": "https://www.wired.com/story/the-vaticans-man-inside-anthropic/"
-    },
-    {
-      "title": "Does your CEO have AI psychosis? Aaron Levie thinks most of them do.",
-      "summary": "The people deciding that AI can replace your job are also the ones least likely to understand what your job truly involves, according to Box founder Aaron Levie, who pointed to this as an example of “AI psychosis.” Indeed, ClickUp recently cut 22% of its workforce for AI agents,...",
-      "source": "TechCrunch",
-      "published": "2026-05-29T14:00:00+00:00",
-      "link": "https://techcrunch.com/podcast/does-your-ceo-have-ai-psychosis-aaron-levie-thinks-most-of-them-do/"
-    },
-    {
-      "title": "Please Use AI",
-      "summary": "Article URL: https://shawnsmucker.substack.com/p/please-use-ai Comments URL: https://news.ycombinator.com/item?id=48323101 Points: 784 # Comments: 394",
-      "source": "Hacker News",
-      "published": "2026-05-29T13:50:25+00:00",
-      "link": "https://shawnsmucker.substack.com/p/please-use-ai"
-    },
-    {
-      "title": "Show HN: AISlop, a CLI for catching AI generated code smells",
-      "summary": "Hi, I’m Kenny, I’ve been building aislop. I starting working on this after using Claude Code, codex and opencode several times and noticing some slops.",
-      "source": "Hacker News",
-      "published": "2026-05-29T13:37:38+00:00",
-      "link": "https://github.com/scanaislop/aislop"
-    },
-    {
-      "title": "Expertise in the age of AI",
-      "summary": "Article URL: https://www.moderndescartes.com/essays/ai_and_expertise/ Comments URL: https://news.ycombinator.com/item?id=48322929 Points: 125 # Comments: 109",
-      "source": "Hacker News",
-      "published": "2026-05-29T13:35:13+00:00",
-      "link": "https://www.moderndescartes.com/essays/ai_and_expertise/"
-    },
-    {
-      "title": "New review paper argues code is how AI agents think and act, not just what they produce",
-      "summary": "A new review paper argues that the real bottleneck for autonomous AI agents isn't the language model itself but the software layer wrapped around it. Tools, memory, testing, and permission boundaries turn a stateless model into a working agent.",
-      "source": "The Decoder",
-      "published": "2026-05-29T13:10:59+00:00",
-      "link": "https://the-decoder.com/new-review-paper-argues-code-is-how-ai-agents-think-and-act-not-just-what-they-produce/"
-    },
-    {
-      "title": "Kiwibit’s AI-powered bird feeder is my new backyard buddy",
-      "summary": "If you're looking for a fun way to connect with nature while collecting bird species on an app like Pokémon, give this smart feeder a try.",
-      "source": "TechCrunch",
-      "published": "2026-05-29T13:00:00+00:00",
-      "link": "https://techcrunch.com/2026/05/29/kiwibits-ai-powered-bird-feeder-is-my-new-backyard-buddy/"
-    },
-    {
-      "title": "The Download: unlocking lithium and controlling Ebola",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.",
-      "source": "MIT Tech Review",
-      "published": "2026-05-29T12:10:00+00:00",
-      "link": "https://www.technologyreview.com/2026/05/29/1138110/the-download-lithium-extraction-ebola-ai-pope/"
     }
   ]
 };
