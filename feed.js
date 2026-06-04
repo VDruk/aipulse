@@ -1,6 +1,20 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-06-04T19:19:41.449942+00:00",
+  "lastUpdated": "2026-06-04T22:16:36.650580+00:00",
   "items": [
+    {
+      "title": "Defense tech, AI, and fundraising take center stage at StrictlyVC Los Angeles on June 18",
+      "summary": "On Thursday, June 18, at The Aerospace Corporation Campus, investors, founders, and tech leaders will gather for an evening of conversation exploring some of the most consequential shifts taking place across venture capital, defense technology, artificial intelligence, and...",
+      "source": "TechCrunch",
+      "published": "2026-06-04T21:30:00+00:00",
+      "link": "https://techcrunch.com/2026/06/04/defense-tech-ai-and-fundraising-take-center-stage-at-strictlyvc-los-angeles-on-june-18/"
+    },
+    {
+      "title": "Apple approves Poke as the first AI agent on its Messages for Business platform",
+      "summary": "Poke, the startup that lets people use AI agents through simple text messages, has become the first AI agent approved for Apple’s Messages for Business platform.",
+      "source": "TechCrunch",
+      "published": "2026-06-04T19:20:58+00:00",
+      "link": "https://techcrunch.com/2026/06/04/apple-approves-poke-as-the-first-ai-agent-on-its-messages-for-business-platform/"
+    },
     {
       "title": "Cloudflare CEO says the web's future is \"pay to crawl\" as bots overtake human traffic",
       "summary": "Bot traffic now outpaces human traffic on the internet, Cloudflare CEO Matthew Prince says, years ahead of his late 2027 forecast. He blames AI agents for the surge.",
@@ -1386,20 +1400,6 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-05-29T16:13:47+00:00",
       "link": "https://techcrunch.com/2026/05/29/cognitions-scott-wu-says-ai-coding-agents-shouldnt-replace-humans/"
-    },
-    {
-      "title": "CAPTCHAs can still detect AI agents",
-      "summary": "Article URL: https://research.roundtable.ai/captchas-detect-ai/ Comments URL: https://news.ycombinator.com/item?id=48324910 Points: 83 # Comments: 70",
-      "source": "Hacker News",
-      "published": "2026-05-29T15:57:37+00:00",
-      "link": "https://research.roundtable.ai/captchas-detect-ai/"
-    },
-    {
-      "title": "The Vatican’s Man Inside Anthropic",
-      "summary": "Pope Leo XIV may not be able to disarm AI, but he’s got the attention of the industry.",
-      "source": "Wired",
-      "published": "2026-05-29T15:00:00+00:00",
-      "link": "https://www.wired.com/story/the-vaticans-man-inside-anthropic/"
     }
   ]
 };
