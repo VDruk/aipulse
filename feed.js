@@ -1,6 +1,41 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-06-04T08:51:33.544908+00:00",
+  "lastUpdated": "2026-06-04T11:41:53.791833+00:00",
   "items": [
+    {
+      "title": "How courts are coping with a flood of AI-generated lawsuits",
+      "summary": "Most days in her chambers, Judge Maritza Braswell, a federal magistrate judge in Colorado, sifts through stacks of documents written by people without a lawyer. Many of them can’t afford to hire a lawyer, and others have cases too weak or too small to interest one.",
+      "source": "MIT Tech Review",
+      "published": "2026-06-04T10:50:18+00:00",
+      "link": "https://www.technologyreview.com/2026/06/04/1138391/courts-coping-ai-lawsuits/"
+    },
+    {
+      "title": "Jeff Bezos Is Funding a Wild Hunt for the Brain’s ‘Core Algorithm’",
+      "summary": "With $500 million in funding and a reported $2.5 billion valuation, Flourish wants to reinvent AI by putting real neurons under the microscope.",
+      "source": "Wired",
+      "published": "2026-06-04T10:30:00+00:00",
+      "link": "https://www.wired.com/story/jeff-bezos-is-funding-a-wild-hunt-for-the-brains-core-algorithm/"
+    },
+    {
+      "title": "AI can now coach amateur virologists, and top tech leaders want Congress to act on DNA security",
+      "summary": "Sam Altman, Dario Amodei, Demis Hassabis, and other tech leaders are urging the US government to make screening of synthetic DNA orders a legal requirement.",
+      "source": "The Decoder",
+      "published": "2026-06-04T10:07:51+00:00",
+      "link": "https://the-decoder.com/ai-can-now-coach-amateur-virologists-and-top-tech-leaders-want-congress-to-act-on-dna-security/"
+    },
+    {
+      "title": "Alpha School’s Ritzy New York City Campus Costs $65,000 a Year—but Isn’t Actually a School",
+      "summary": "A homeschooling center in Manhattan is part of the company’s nationwide expansion. Internal documents reveal its strategy: “Opening date > safety.”",
+      "source": "Wired",
+      "published": "2026-06-04T10:00:00+00:00",
+      "link": "https://www.wired.com/story/alpha-schools-new-york-city-campus-isnt-actually-a-school/"
+    },
+    {
+      "title": "Amazon develops a warehouse robot workers can speak to",
+      "summary": "Amazon has announced a new version of its fully autonomous warehouse robot, Proteus, that will can interact using language instead of code. The expanded capabilities come as part of a growing pivot toward automation as the e-commerce giant replaces its human workers with robots.",
+      "source": "The Verge",
+      "published": "2026-06-04T09:31:14+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/942884/amazon-next-generation-warehouse-robot-proteus"
+    },
     {
       "title": "xAI updates Grok Imagine to 1.5 with image-to-video generation at 720p resolution",
       "summary": "xAI has released \"grok-imagine-video-1.5-preview,\" an image-to-video model that turns still images into cinematic videos at up to 720p based on text prompts. Multiple clips can be stitched together into longer scenes.",
@@ -1365,41 +1400,6 @@ const FEED_DATA = {
       "source": "Hacker News",
       "published": "2026-05-29T07:05:31+00:00",
       "link": "https://arstechnica.com/security/2026/05/fed-up-with-vibe-coders-dev-sneaks-data-nuking-prompt-injection-into-their-code/"
-    },
-    {
-      "title": "Microsoft data suggests using AI is more expensive than hiring people",
-      "summary": "Article URL: https://finance.yahoo.com/sectors/technology/articles/microsoft-data-suggests-using-ai-225900743.html Comments URL: https://news.ycombinator.com/item?id=48317563 Points: 68 # Comments: 14",
-      "source": "Hacker News",
-      "published": "2026-05-29T00:49:05+00:00",
-      "link": "https://finance.yahoo.com/sectors/technology/articles/microsoft-data-suggests-using-ai-225900743.html"
-    },
-    {
-      "title": "Glean’s top line crosses $300M as AI budget cutting becomes its major selling point",
-      "summary": "The enterprise AI search startup tripled its annual revenue even as tech giants entered the category.",
-      "source": "TechCrunch",
-      "published": "2026-05-29T00:44:37+00:00",
-      "link": "https://techcrunch.com/2026/05/28/gleans-top-line-crosses-300m-as-ai-budget-cutting-becomes-its-major-selling-point/"
-    },
-    {
-      "title": "Glean’s top line crosses $300M as AI budget-cutting becomes its major selling point",
-      "summary": "The enterprise AI search startup tripled its annual revenue even as tech giants entered the category.",
-      "source": "TechCrunch",
-      "published": "2026-05-29T00:44:37+00:00",
-      "link": "https://techcrunch.com/2026/05/28/gleans-top-line-crosses-300m-as-ai-budget-cutting-becomes-its-major-selling-point/"
-    },
-    {
-      "title": "The mysterious Hy3 LLM is topping OpenRouter Model Rankings by a large margin",
-      "summary": "Article URL: https://minimaxir.com/2026/05/openrouter-hy3/ Comments URL: https://news.ycombinator.com/item?id=48317294 Points: 144 # Comments: 112",
-      "source": "Hacker News",
-      "published": "2026-05-29T00:09:35+00:00",
-      "link": "https://minimaxir.com/2026/05/openrouter-hy3/"
-    },
-    {
-      "title": "Claude company Anthropic nears a trillion-dollar valuation after raising $65 billion in Series H",
-      "summary": "Anthropic raises $65 billion in a Series H round at a $965 billion valuation. Annualized revenue tops $47 billion, according to CFO Krishna Rao.",
-      "source": "The Decoder",
-      "published": "2026-05-28T21:30:58+00:00",
-      "link": "https://the-decoder.com/claude-company-anthropic-nears-a-trillion-dollar-valuation-after-raising-65-billion-in-series-h/"
     }
   ]
 };
