@@ -1,6 +1,62 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-06-05T08:43:57.676678+00:00",
+  "lastUpdated": "2026-06-05T11:54:15.776826+00:00",
   "items": [
+    {
+      "title": "How C3 AI agents will automate predictive maintenance for Shell",
+      "summary": "Shell will use agents from C3 AI to shift from basic anomaly detection towards fully-automated predictive maintenance.",
+      "source": "AI News",
+      "published": "2026-06-05T11:34:09+00:00",
+      "link": "https://www.artificialintelligence-news.com/news/how-c3-ai-agents-will-automate-predictive-maintenance-for-shell/"
+    },
+    {
+      "title": "Anthropic's Mythos model is reportedly powering NSA offensive cyber ops against China and Iran",
+      "summary": "Anthropic has reportedly stationed about half a dozen engineers directly at the NSA to adapt its Mythos AI model for offensive cyber operations. The model could be used to break into networks in China or Iran.",
+      "source": "The Decoder",
+      "published": "2026-06-05T11:15:28+00:00",
+      "link": "https://the-decoder.com/anthropics-mythos-model-is-reportedly-powering-nsa-offensive-cyber-ops-against-china-and-iran/"
+    },
+    {
+      "title": "OpenAI and Anthropic May Be Rivals, but Investors Aren’t Picking Sides",
+      "summary": "“Why wouldn’t you want to be in both Pepsi and Coke?” says one venture capitalist. “It’s the same here.”",
+      "source": "Wired",
+      "published": "2026-06-05T10:30:00+00:00",
+      "link": "https://www.wired.com/story/openai-and-anthropic-may-be-rivals-but-their-investors-arent-choosing-sides/"
+    },
+    {
+      "title": "Why Apple Might Put Cameras Into Its Next AirPods",
+      "summary": "From battery life to privacy, there are many hurdles to the idea taking off.",
+      "source": "Wired",
+      "published": "2026-06-05T10:00:00+00:00",
+      "link": "https://www.wired.com/story/why-apple-might-put-cameras-into-its-next-airpods/"
+    },
+    {
+      "title": "Are AI chatbots making us lose control of our brains?",
+      "summary": "This week I’ve been at SXSW London. There’s been music, film, and a lot—and I mean a lot—of talk about AI.",
+      "source": "MIT Tech Review",
+      "published": "2026-06-05T09:00:00+00:00",
+      "link": "https://www.technologyreview.com/2026/06/05/1138427/are-ai-chatbots-making-us-lose-control-of-our-brains/"
+    },
+    {
+      "title": "The Meta hack shows there’s more to AI security than Mythos",
+      "summary": "On June 5, 404 Media reported that attackers had been using Meta’s AI customer support agent to steal Instagram accounts. Their approach was simple: They asked the agent to link the accounts to email addresses that they controlled, and the agent complied.",
+      "source": "MIT Tech Review",
+      "published": "2026-06-05T09:00:00+00:00",
+      "link": "https://www.technologyreview.com/2026/06/05/1138437/the-meta-hack-shows-theres-more-to-ai-security-than-mythos/"
+    },
+    {
+      "title": "AI Has Come for Serif Fonts",
+      "summary": "AI companies are using serif to project humanity. Critics are calling it “tasteslop.”",
+      "source": "Wired",
+      "published": "2026-06-05T09:00:00+00:00",
+      "link": "https://www.wired.com/story/ai-has-come-for-serif-fonts/"
+    },
+    {
+      "title": "Anthropic says Claude now writes over 90% of its code and wants the world to have an AI pause button",
+      "summary": "Anthropic is sharing internal data showing how much Claude is speeding up its own AI development: more than 80 percent of production code now comes from Claude, and engineers are shipping eight times as much code per day as in 2024.",
+      "source": "The Decoder",
+      "published": "2026-06-05T08:45:29+00:00",
+      "link": "https://the-decoder.com/anthropic-says-claude-now-writes-over-90-of-its-code-and-wants-the-world-to-have-an-ai-pause-button/"
+    },
     {
       "title": "Mira Murati steps back into the spotlight, carefully",
       "summary": "In the current environment, remaining heads down has diminishing returns; at some point, you have to make some noise just to remind the market you exist.",
@@ -1344,62 +1400,6 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-05-30T08:37:42+00:00",
       "link": "https://the-decoder.com/metas-leaked-memo-reveals-ai-pendant-supersensing-glasses-and-enterprise-wearables-strategy/"
-    },
-    {
-      "title": "Coders are refusing to work without AI — and that could come back to bite them",
-      "summary": "While AI is helping coders produce code faster, it may not be producing better code, researchers warn. And that could cause problems down the road for them.",
-      "source": "TechCrunch",
-      "published": "2026-05-29T22:14:22+00:00",
-      "link": "https://techcrunch.com/2026/05/29/coders-are-refusing-to-work-without-ai-and-that-could-come-back-to-bite-them/"
-    },
-    {
-      "title": "Amazon Is Making an AI-Animated ‘Good Advice Cupcake’ TV Show. Its Original Creator Is Furious",
-      "summary": "Loryn Brantz created The Good Advice Cupcake for BuzzFeed years ago. The company licensed the character for a new Amazon series—made with AI—without her consent.",
-      "source": "Wired",
-      "published": "2026-05-29T20:56:59+00:00",
-      "link": "https://www.wired.com/story/story/amazon-is-making-an-ai-animated-good-advice-cupcake-tv-show-its-original-creator-is-furious/"
-    },
-    {
-      "title": "Show HN: Tiny-vLLM – high performance LLM inference engine in C++ and CUDA",
-      "summary": "Article URL: https://github.com/jmaczan/tiny-vllm Comments URL: https://news.ycombinator.com/item?id=48328184 Points: 203 # Comments: 18",
-      "source": "Hacker News",
-      "published": "2026-05-29T19:38:27+00:00",
-      "link": "https://github.com/jmaczan/tiny-vllm"
-    },
-    {
-      "title": "Hands-On With Gemini Spark: I Gave It Access to My Life and It Friend-Zoned My Boyfriend",
-      "summary": "Google’s new AI agent combed through my emails, documents, and calendar to plan a birthday party and still didn’t clock the person most important to me.",
-      "source": "Wired",
-      "published": "2026-05-29T19:07:46+00:00",
-      "link": "https://www.wired.com/story/google-gemini-spark-ai-agent-hands-on/"
-    },
-    {
-      "title": "So you’ve heard these AI terms and nodded along; let’s fix that",
-      "summary": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.",
-      "source": "TechCrunch",
-      "published": "2026-05-29T18:49:19+00:00",
-      "link": "https://techcrunch.com/2026/05/29/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/"
-    },
-    {
-      "title": "OpenAI gives GPT-5.5 Instant a readability upgrade while phasing out two older models",
-      "summary": "OpenAI is updating GPT-5.5 Instant for more natural responses and dropping the Canvas feature from its latest models. Writing and coding tasks will run directly in the chat instead.",
-      "source": "The Decoder",
-      "published": "2026-05-29T18:11:34+00:00",
-      "link": "https://the-decoder.com/openai-gives-gpt-5-5-instant-a-readability-upgrade-while-phasing-out-two-older-models/"
-    },
-    {
-      "title": "What happens when companies become too AI-pilled?",
-      "summary": "The people deciding that AI can replace your job are also the ones least likely to understand what your job truly involves, according to Box founder Aaron Levie, who pointed to this as an example of “AI psychosis.” Indeed, ClickUp recently cut 22% of its workforce for AI agents,...",
-      "source": "TechCrunch",
-      "published": "2026-05-29T17:57:05+00:00",
-      "link": "https://techcrunch.com/video/what-happens-when-companies-become-too-ai-pilled/"
-    },
-    {
-      "title": "Google fixes several bugs in Gemini usage limits that burned through quotas too fast",
-      "summary": "A bug in Google's Gemini app caused just one or two Omni videos to eat up the entire usage quota. Google has fixed the bug, Ultra members now get twice as many video generations, and failed requests are no longer charged.",
-      "source": "The Decoder",
-      "published": "2026-05-29T17:51:46+00:00",
-      "link": "https://the-decoder.com/google-fixes-several-bugs-in-gemini-usage-limits-that-burned-through-quotas-too-fast/"
     }
   ]
 };
