@@ -1,12 +1,61 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-06-04T22:16:36.650580+00:00",
+  "lastUpdated": "2026-06-05T05:15:32.351645+00:00",
   "items": [
+    {
+      "title": "Mira Murati steps back into the spotlight, carefully",
+      "summary": "In the current environment, remaining heads down has diminishing returns; at some point, you have to make some noise just to remind the market you exist.",
+      "source": "TechCrunch",
+      "published": "2026-06-05T05:06:37+00:00",
+      "link": "https://techcrunch.com/2026/06/04/mira-murati-steps-back-into-the-spotlight-carefully/"
+    },
+    {
+      "title": "Open Code Review – An AI-powered code review CLI tool",
+      "summary": "Article URL: https://github.com/alibaba/open-code-review Comments URL: https://news.ycombinator.com/item?id=48406358 Points: 102 # Comments: 23",
+      "source": "Hacker News",
+      "published": "2026-06-05T00:04:29+00:00",
+      "link": "https://github.com/alibaba/open-code-review"
+    },
+    {
+      "title": "South Korean Forums Will Need to Scan Every Images with AI Censorship Tools",
+      "summary": "Article URL: https://discuss.privacyguides.net/t/south-korean-online-communities-will-need-to-scan-every-images-with-ai-censorship-tools/38341 Comments URL: https://news.ycombinator.com/item?id=48406198 Points: 83 # Comments: 54",
+      "source": "Hacker News",
+      "published": "2026-06-04T23:45:56+00:00",
+      "link": "https://discuss.privacyguides.net/t/south-korean-online-communities-will-need-to-scan-every-images-with-ai-censorship-tools/38341"
+    },
+    {
+      "title": "Ahead of its IPO, Anthropic’s Daniela Amodei shrugs off doubts about AI’s returns",
+      "summary": "Anthropic has been growing at a breakneck pace. The company announced that annualized revenue crossed $47 billion in May, up dramatically from roughly $9 billion at the end of 2025.",
+      "source": "TechCrunch",
+      "published": "2026-06-04T22:43:26+00:00",
+      "link": "https://techcrunch.com/2026/06/04/ahead-of-its-ipo-anthropics-daniela-amodei-shrugs-off-doubts-about-ais-returns/"
+    },
+    {
+      "title": "Airbnb’s Brian Chesky plans to launch a new AI lab",
+      "summary": "The Airbnb CEO said last year it hasn't struck an LLM partnership because existing products weren't quite ready.",
+      "source": "TechCrunch",
+      "published": "2026-06-04T22:29:50+00:00",
+      "link": "https://techcrunch.com/2026/06/04/airbnbs-brian-chesky-plans-to-launch-a-new-ai-lab/"
+    },
     {
       "title": "Defense tech, AI, and fundraising take center stage at StrictlyVC Los Angeles on June 18",
       "summary": "On Thursday, June 18, at The Aerospace Corporation Campus, investors, founders, and tech leaders will gather for an evening of conversation exploring some of the most consequential shifts taking place across venture capital, defense technology, artificial intelligence, and...",
       "source": "TechCrunch",
       "published": "2026-06-04T21:30:00+00:00",
       "link": "https://techcrunch.com/2026/06/04/defense-tech-ai-and-fundraising-take-center-stage-at-strictlyvc-los-angeles-on-june-18/"
+    },
+    {
+      "title": "Anthropic's open-source framework for AI-powered vulnerability discovery",
+      "summary": "Article URL: https://github.com/anthropics/defending-code-reference-harness Comments URL: https://news.ycombinator.com/item?id=48403980 Points: 339 # Comments: 105",
+      "source": "Hacker News",
+      "published": "2026-06-04T20:11:20+00:00",
+      "link": "https://github.com/anthropics/defending-code-reference-harness"
+    },
+    {
+      "title": "Dashlane explains how attackers managed to download encrypted password vaults",
+      "summary": "By targeting large numbers of users, attackers increased their chances of success.",
+      "source": "Ars Technica",
+      "published": "2026-06-04T20:02:04+00:00",
+      "link": "https://arstechnica.com/security/2026/06/dashlane-explains-how-attackers-managed-to-download-encrypted-password-vaults/"
     },
     {
       "title": "Apple approves Poke as the first AI agent on its Messages for Business platform",
@@ -51,11 +100,39 @@ const FEED_DATA = {
       "link": "https://techcrunch.com/2026/06/04/meta-rolls-out-a-new-ai-creator-assistant-on-facebook/"
     },
     {
+      "title": "When AI Builds Itself: Our progress toward recursive self-improvement",
+      "summary": "Article URL: https://www.anthropic.com/institute/recursive-self-improvement Comments URL: https://news.ycombinator.com/item?id=48400842 Points: 398 # Comments: 528",
+      "source": "Hacker News",
+      "published": "2026-06-04T16:20:17+00:00",
+      "link": "https://www.anthropic.com/institute/recursive-self-improvement"
+    },
+    {
       "title": "Bain study finds companies miss AI savings targets because humans keep getting in the way",
       "summary": "According to a Bain survey of 951 companies, almost 40 percent achieved less than 10 percent in AI cost savings, even though most had targeted 11 to 20 percent.",
       "source": "The Decoder",
       "published": "2026-06-04T16:12:50+00:00",
       "link": "https://the-decoder.com/bain-study-finds-companies-miss-ai-savings-targets-because-humans-keep-getting-in-the-way/"
+    },
+    {
+      "title": "Google employees internally share memes about how its AI sucks",
+      "summary": "Article URL: https://www.404media.co/google-employees-internally-share-memes-about-how-its-ai-sucks/ Comments URL: https://news.ycombinator.com/item?id=48400311 Points: 153 # Comments: 103",
+      "source": "Hacker News",
+      "published": "2026-06-04T15:42:33+00:00",
+      "link": "https://www.404media.co/google-employees-internally-share-memes-about-how-its-ai-sucks/"
+    },
+    {
+      "title": "The LLM warnings Google fired Timnit Gebru over have all come true",
+      "summary": "Article URL: https://www.tumblr.com/dreaminginthedeepsouth/817865966907228160/darren-oconnor-timnit-gebru-was-fired-from Comments URL: https://news.ycombinator.com/item?id=48400213 Points: 109 # Comments: 100",
+      "source": "Hacker News",
+      "published": "2026-06-04T15:34:43+00:00",
+      "link": "https://www.tumblr.com/dreaminginthedeepsouth/817865966907228160/darren-oconnor-timnit-gebru-was-fired-from"
+    },
+    {
+      "title": "AI, Ashby Engineering, and the future",
+      "summary": "Article URL: https://www.ashbyhq.com/blog/engineering/ai-ashby-engineering-and-the-future Comments URL: https://news.ycombinator.com/item?id=48399528 Points: 58 # Comments: 41",
+      "source": "Hacker News",
+      "published": "2026-06-04T14:48:44+00:00",
+      "link": "https://www.ashbyhq.com/blog/engineering/ai-ashby-engineering-and-the-future"
     },
     {
       "title": "TSMC struggles to keep up with AI demand: ‘We can only support so much’",
@@ -171,7 +248,7 @@ const FEED_DATA = {
     },
     {
       "title": "Failing grades soar with AI usage, dwindling math skills in Berkeley CS classes",
-      "summary": "Article URL: https://www.dailycal.org/news/campus/academics/failing-grades-soar-as-professors-see-greater-ai-usage-dwindling-math-skills-in-uc-berkeley/article_16fad0bf-02cb-4b8c-8d88-888ffd9f8608.html Comments URL: https://news.ycombinator.com/item?id=48392004 Points: 556 #...",
+      "summary": "Article URL: https://www.dailycal.org/news/campus/academics/failing-grades-soar-as-professors-see-greater-ai-usage-dwindling-math-skills-in-uc-berkeley/article_16fad0bf-02cb-4b8c-8d88-888ffd9f8608.html Comments URL: https://news.ycombinator.com/item?id=48392004 Points: 748 #...",
       "source": "Hacker News",
       "published": "2026-06-04T00:18:02+00:00",
       "link": "https://www.dailycal.org/news/campus/academics/failing-grades-soar-as-professors-see-greater-ai-usage-dwindling-math-skills-in-uc-berkeley/article_16fad0bf-02cb-4b8c-8d88-888ffd9f8608.html"
@@ -185,7 +262,7 @@ const FEED_DATA = {
     },
     {
       "title": "Show HN: Mnemo – local-first AI memory layer for any LLM (Rust, SQLite,petgraph)",
-      "summary": "Article URL: https://github.com/zaydmulani09/mnemo Comments URL: https://news.ycombinator.com/item?id=48389586 Points: 53 # Comments: 25",
+      "summary": "Article URL: https://github.com/zaydmulani09/mnemo Comments URL: https://news.ycombinator.com/item?id=48389586 Points: 54 # Comments: 25",
       "source": "Hacker News",
       "published": "2026-06-03T20:32:10+00:00",
       "link": "https://github.com/zaydmulani09/mnemo"
@@ -261,6 +338,13 @@ const FEED_DATA = {
       "link": "https://the-decoder.com/trumps-new-executive-order-wants-ai-companies-to-voluntarily-submit-models-for-government-safety-reviews/"
     },
     {
+      "title": "Artificial intelligence is not conscious – Ted Chiang",
+      "summary": "https://archive.is/bcpZl Comments URL: https://news.ycombinator.com/item?id=48387270 Points: 748 # Comments: 1294",
+      "source": "Hacker News",
+      "published": "2026-06-03T17:51:37+00:00",
+      "link": "https://www.theatlantic.com/philosophy/2026/06/no-artificial-intelligence-is-not-conscious/687378/"
+    },
+    {
       "title": "Artificial intelligence is not conscious",
       "summary": "https://web.archive.org/web/20260603173839/https://www.theat...https://archive.is/bcpZl Comments URL: https://news.ycombinator.com/item?id=48387270 Points: 615 # Comments: 1012",
       "source": "Hacker News",
@@ -276,7 +360,7 @@ const FEED_DATA = {
     },
     {
       "title": "If AI data centers are so great, why are they being built in secret?",
-      "summary": "Article URL: https://www.thebrockovichreport.com/p/if-data-centers-are-so-great-why Comments URL: https://news.ycombinator.com/item?id=48386529 Points: 88 # Comments: 122",
+      "summary": "Article URL: https://www.thebrockovichreport.com/p/if-data-centers-are-so-great-why Comments URL: https://news.ycombinator.com/item?id=48386529 Points: 89 # Comments: 122",
       "source": "Hacker News",
       "published": "2026-06-03T16:57:11+00:00",
       "link": "https://www.thebrockovichreport.com/p/if-data-centers-are-so-great-why"
@@ -346,7 +430,7 @@ const FEED_DATA = {
     },
     {
       "title": "32GB of DDR5 now costs $375 – AI shortage continues to squeeze PC building",
-      "summary": "Article URL: https://www.tomshardware.com/pc-components/ddr5/32gb-of-ddr5-now-costs-usd375-minimum-ai-shortage-continues-to-squeeze-pc-building Comments URL: https://news.ycombinator.com/item?id=48383241 Points: 413 # Comments: 371",
+      "summary": "Article URL: https://www.tomshardware.com/pc-components/ddr5/32gb-of-ddr5-now-costs-usd375-minimum-ai-shortage-continues-to-squeeze-pc-building Comments URL: https://news.ycombinator.com/item?id=48383241 Points: 421 # Comments: 383",
       "source": "Hacker News",
       "published": "2026-06-03T12:43:43+00:00",
       "link": "https://www.tomshardware.com/pc-components/ddr5/32gb-of-ddr5-now-costs-usd375-minimum-ai-shortage-continues-to-squeeze-pc-building"
@@ -360,7 +444,7 @@ const FEED_DATA = {
     },
     {
       "title": "Uber's $1,500/month AI limit is a useful signal for AI tool pricing",
-      "summary": "https://www.bloomberg.com/news/articles/2026-06-02/uber-caps... (https://archive.ph/ZrwAy) Comments URL: https://news.ycombinator.com/item?id=48383056 Points: 563 # Comments: 688",
+      "summary": "https://www.bloomberg.com/news/articles/2026-06-02/uber-caps... (https://archive.ph/ZrwAy) Comments URL: https://news.ycombinator.com/item?id=48383056 Points: 607 # Comments: 750",
       "source": "Hacker News",
       "published": "2026-06-03T12:25:14+00:00",
       "link": "https://simonwillison.net/2026/Jun/3/uber-caps-usage/"
@@ -402,7 +486,7 @@ const FEED_DATA = {
     },
     {
       "title": "Mathematicians issue warning as AI rapidly gains ground",
-      "summary": "Article URL: https://www.science.org/content/article/mathematicians-issue-warning-ai-rapidly-gains-ground Comments URL: https://news.ycombinator.com/item?id=48382052 Points: 272 # Comments: 313",
+      "summary": "Article URL: https://www.science.org/content/article/mathematicians-issue-warning-ai-rapidly-gains-ground Comments URL: https://news.ycombinator.com/item?id=48382052 Points: 290 # Comments: 336",
       "source": "Hacker News",
       "published": "2026-06-03T10:05:48+00:00",
       "link": "https://www.science.org/content/article/mathematicians-issue-warning-ai-rapidly-gains-ground"
@@ -458,35 +542,35 @@ const FEED_DATA = {
     },
     {
       "title": "Leiden Declaration on Artificial Intelligence and Mathematics",
-      "summary": "Article URL: https://leidendeclaration.ai/ Comments URL: https://news.ycombinator.com/item?id=48380670 Points: 133 # Comments: 78",
+      "summary": "Article URL: https://leidendeclaration.ai/ Comments URL: https://news.ycombinator.com/item?id=48380670 Points: 138 # Comments: 79",
       "source": "Hacker News",
       "published": "2026-06-03T06:33:27+00:00",
       "link": "https://leidendeclaration.ai/"
     },
     {
       "title": "U of T researchers demonstrate AI worm could target any online device",
-      "summary": "Article URL: https://www.utoronto.ca/news/u-t-researchers-demonstrate-ai-worm-could-target-any-online-device Comments URL: https://news.ycombinator.com/item?id=48379664 Points: 146 # Comments: 45",
+      "summary": "Article URL: https://www.utoronto.ca/news/u-t-researchers-demonstrate-ai-worm-could-target-any-online-device Comments URL: https://news.ycombinator.com/item?id=48379664 Points: 148 # Comments: 46",
       "source": "Hacker News",
       "published": "2026-06-03T03:47:21+00:00",
       "link": "https://www.utoronto.ca/news/u-t-researchers-demonstrate-ai-worm-could-target-any-online-device"
     },
     {
       "title": "More than 6 out of 10 people turn to AI for psychological support",
-      "summary": "Article URL: https://www.axa.com/en/press/press-releases/2026-mind-health-report Comments URL: https://news.ycombinator.com/item?id=48377854 Points: 81 # Comments: 89",
+      "summary": "Article URL: https://www.axa.com/en/press/press-releases/2026-mind-health-report Comments URL: https://news.ycombinator.com/item?id=48377854 Points: 81 # Comments: 90",
       "source": "Hacker News",
       "published": "2026-06-02T23:55:04+00:00",
       "link": "https://www.axa.com/en/press/press-releases/2026-mind-health-report"
     },
     {
       "title": "AI outperforms law professors in Stanford Law study",
-      "summary": "https://law.stanford.edu/wp-content/uploads/2026/06/salinas_... Comments URL: https://news.ycombinator.com/item?id=48377761 Points: 406 # Comments: 356",
+      "summary": "https://law.stanford.edu/wp-content/uploads/2026/06/salinas_... Comments URL: https://news.ycombinator.com/item?id=48377761 Points: 409 # Comments: 357",
       "source": "Hacker News",
       "published": "2026-06-02T23:43:12+00:00",
       "link": "https://law.stanford.edu/press/ai-outperforms-law-professors-in-stanford-law-study/"
     },
     {
       "title": "Now AI agents need what RSS does",
-      "summary": "Article URL: https://julienreszka.com/blog/rss-is-back-ai-agents-are-reading-it/ Comments URL: https://news.ycombinator.com/item?id=48375673 Points: 84 # Comments: 63",
+      "summary": "Article URL: https://julienreszka.com/blog/rss-is-back-ai-agents-are-reading-it/ Comments URL: https://news.ycombinator.com/item?id=48375673 Points: 85 # Comments: 65",
       "source": "Hacker News",
       "published": "2026-06-02T20:19:11+00:00",
       "link": "https://julienreszka.com/blog/rss-is-back-ai-agents-are-reading-it/"
@@ -1316,90 +1400,6 @@ const FEED_DATA = {
       "source": "Hacker News",
       "published": "2026-05-29T17:50:11+00:00",
       "link": "https://www.ft.com/content/2205e2d0-50dc-4e80-9bf7-78d0272276c0"
-    },
-    {
-      "title": "Robinhood now lets your AI agents trade stocks",
-      "summary": "Article URL: https://techcrunch.com/2026/05/27/robinhood-now-lets-your-ai-agents-trade-stocks/ Comments URL: https://news.ycombinator.com/item?id=48326659 Points: 111 # Comments: 180",
-      "source": "Hacker News",
-      "published": "2026-05-29T17:46:27+00:00",
-      "link": "https://techcrunch.com/2026/05/27/robinhood-now-lets-your-ai-agents-trade-stocks/"
-    },
-    {
-      "title": "Tech companies desperately want to film you doing chores",
-      "summary": "This week, an AI training startup called Shift said it would clean New Yorkers' homes for free. It has plans to expand into other cities as well, including London, and looking around my flat, I get the appeal.",
-      "source": "The Verge",
-      "published": "2026-05-29T17:37:43+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/940007/ai-companies-will-pay-for-robot-training-data"
-    },
-    {
-      "title": "One company reportedly spent $500 million on Claude in one month after failing to cap AI usage",
-      "summary": "An unnamed company allegedly blew half a billion dollars on Claude licenses in a single month because nobody set usage limits. Cases like this show that without real AI expertise in model selection and context engineering, productivity promises just turn into runaway costs.",
-      "source": "The Decoder",
-      "published": "2026-05-29T17:35:26+00:00",
-      "link": "https://the-decoder.com/one-company-reportedly-spent-500-million-on-claude-in-one-month-after-failing-to-cap-ai-usage/"
-    },
-    {
-      "title": "After Nvidia’s $20B not-acqui-hire, AI chip startup Groq reportedly raising $650M",
-      "summary": "Chipmaker Groq is looking to raise $650 million in internal funding as it pivots from hardware to focus more on AI inference, the process of refining the way AI models respond to prompted requests, per Axios.",
-      "source": "TechCrunch",
-      "published": "2026-05-29T17:27:13+00:00",
-      "link": "https://techcrunch.com/2026/05/29/after-nvidias-20b-not-acqui-hire-ai-chip-startup-groq-reportedly-raising-650m/"
-    },
-    {
-      "title": "After Nvidia’s $20B not-aqui-hire, AI chip startup Groq reportedly raising $650M",
-      "summary": "Chipmaker Groq is looking to raise $650 million in internal funding as it pivots from hardware to focus more on AI inference, the process of refining the way AI models respond to prompted requests, per Axios.",
-      "source": "TechCrunch",
-      "published": "2026-05-29T17:27:13+00:00",
-      "link": "https://techcrunch.com/2026/05/29/after-nvidias-20b-not-aqui-hire-ai-chip-startup-groq-reportedly-raising-650m/"
-    },
-    {
-      "title": "OpenAI is giving away its life sciences AI model to help governments prepare for the next pandemic",
-      "summary": "OpenAI is offering its life sciences model GPT-Rosalind for free through the new Rosalind Biodefense program, aimed at pandemic preparedness and biodefense. Early partners include Lawrence Livermore National Laboratory, Johns Hopkins, and vaccine initiative CEPI.",
-      "source": "The Decoder",
-      "published": "2026-05-29T16:51:30+00:00",
-      "link": "https://the-decoder.com/openai-is-giving-away-its-life-sciences-ai-model-to-help-governments-prepare-for-the-next-pandemic/"
-    },
-    {
-      "title": "We Asked the ‘Future of Truth’ Author to Explain How He Used AI. It Didn’t Go Well",
-      "summary": "A book about how AI shapes perceptions of reality came under fire for using AI-generated quotes. Its problems go beyond that.",
-      "source": "Wired",
-      "published": "2026-05-29T16:30:00+00:00",
-      "link": "https://www.wired.com/story/future-of-truth-ai-interview/"
-    },
-    {
-      "title": "Scaling safe enterprise AI with OpenAI governance frameworks",
-      "summary": "OpenAI’s latest governance frameworks offer enterprise leaders a structured blueprint for scaling safe and compliant AI deployments globally. The adoption of large language models has steadily progressed towards requiring sustainable, commercial-grade architecture.",
-      "source": "AI News",
-      "published": "2026-05-29T16:24:58+00:00",
-      "link": "https://www.artificialintelligence-news.com/news/scaling-safe-enterprise-ai-openai-governance-frameworks/"
-    },
-    {
-      "title": "Notes from the Mistral AI Now Summit",
-      "summary": "Article URL: https://koenvangilst.nl/lab/mistral-ai-now-summit Comments URL: https://news.ycombinator.com/item?id=48325340 Points: 465 # Comments: 212",
-      "source": "Hacker News",
-      "published": "2026-05-29T16:22:01+00:00",
-      "link": "https://koenvangilst.nl/lab/mistral-ai-now-summit"
-    },
-    {
-      "title": "Notes from the Mistral AI Now Summit in Paris",
-      "summary": "Article URL: https://koenvangilst.nl/lab/mistral-ai-now-summit Comments URL: https://news.ycombinator.com/item?id=48325340 Points: 282 # Comments: 91",
-      "source": "Hacker News",
-      "published": "2026-05-29T16:22:01+00:00",
-      "link": "https://koenvangilst.nl/lab/mistral-ai-now-summit"
-    },
-    {
-      "title": "Liquid AI reveals 8B-A1B MoE trained on 38T",
-      "summary": "Article URL: https://www.liquid.ai/blog/lfm2-5-8b-a1b Comments URL: https://news.ycombinator.com/item?id=48325306 Points: 243 # Comments: 96",
-      "source": "Hacker News",
-      "published": "2026-05-29T16:19:54+00:00",
-      "link": "https://www.liquid.ai/blog/lfm2-5-8b-a1b"
-    },
-    {
-      "title": "Cognition’s Scott Wu says AI coding agents shouldn’t replace humans",
-      "summary": "Cognition makes Devin, the first and arguably most successful AI coding agent. But famed coder Wu says it isn't designed to supplant human programmers.",
-      "source": "TechCrunch",
-      "published": "2026-05-29T16:13:47+00:00",
-      "link": "https://techcrunch.com/2026/05/29/cognitions-scott-wu-says-ai-coding-agents-shouldnt-replace-humans/"
     }
   ]
 };
