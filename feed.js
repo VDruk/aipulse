@@ -1,6 +1,20 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-06-05T18:55:51.082228+00:00",
+  "lastUpdated": "2026-06-05T22:10:42.402943+00:00",
   "items": [
+    {
+      "title": "Hacker News, Sans AI",
+      "summary": "Article URL: https://elijahpotter.dev/articles/hacker-news-sans-AI Comments URL: https://news.ycombinator.com/item?id=48417916 Points: 68 # Comments: 42",
+      "source": "Hacker News",
+      "published": "2026-06-05T20:38:40+00:00",
+      "link": "https://elijahpotter.dev/articles/hacker-news-sans-AI"
+    },
+    {
+      "title": "Google will pay SpaceX $920M per month for compute",
+      "summary": "In a statement, a Google representative described the deal as a result of unexpected demand for its recently launched AI products.",
+      "source": "TechCrunch",
+      "published": "2026-06-05T18:57:20+00:00",
+      "link": "https://techcrunch.com/2026/06/05/google-will-pay-spacex-920m-per-month-for-compute/"
+    },
     {
       "title": "Florida's lawsuit against OpenAI and CEO Altman treats ChatGPT as a defective product and public nuisance",
       "summary": "Florida is the first US state to sue OpenAI and CEO Sam Altman personally over risks to minors, missing age checks, and inadequate safety investment. The 83-page complaint treats ChatGPT as a product subject to liability and threatens billions in penalties.",
@@ -31,7 +45,7 @@ const FEED_DATA = {
     },
     {
       "title": "Leak Reveals Microsoft Wants Its AI to Be 'Addictive'",
-      "summary": "Article URL: https://kotaku.com/microsoft-ai-scout-addictive-satya-nadella-404-media-copilot-2000702924 Comments URL: https://news.ycombinator.com/item?id=48413924 Points: 64 # Comments: 5",
+      "summary": "Article URL: https://kotaku.com/microsoft-ai-scout-addictive-satya-nadella-404-media-copilot-2000702924 Comments URL: https://news.ycombinator.com/item?id=48413924 Points: 65 # Comments: 5",
       "source": "Hacker News",
       "published": "2026-06-05T15:32:58+00:00",
       "link": "https://kotaku.com/microsoft-ai-scout-addictive-satya-nadella-404-media-copilot-2000702924"
@@ -157,7 +171,7 @@ const FEED_DATA = {
     },
     {
       "title": "Fine-tuning an LLM to write docs like it's 1995",
-      "summary": "Article URL: https://passo.uno/fine-tuning-docs-llm/ Comments URL: https://news.ycombinator.com/item?id=48408442 Points: 169 # Comments: 60",
+      "summary": "Article URL: https://passo.uno/fine-tuning-docs-llm/ Comments URL: https://news.ycombinator.com/item?id=48408442 Points: 172 # Comments: 64",
       "source": "Hacker News",
       "published": "2026-06-05T05:46:06+00:00",
       "link": "https://passo.uno/fine-tuning-docs-llm/"
@@ -171,21 +185,21 @@ const FEED_DATA = {
     },
     {
       "title": "The Pentagon is running an AI propaganda mill targeting Latin America",
-      "summary": "Article URL: https://theintercept.com/2026/06/02/la-tilde-propaganda-latin-america-pentagon/ Comments URL: https://news.ycombinator.com/item?id=48408031 Points: 98 # Comments: 98",
+      "summary": "Article URL: https://theintercept.com/2026/06/02/la-tilde-propaganda-latin-america-pentagon/ Comments URL: https://news.ycombinator.com/item?id=48408031 Points: 103 # Comments: 103",
       "source": "Hacker News",
       "published": "2026-06-05T04:38:41+00:00",
       "link": "https://theintercept.com/2026/06/02/la-tilde-propaganda-latin-america-pentagon/"
     },
     {
       "title": "Open Code Review – An AI-powered code review CLI tool",
-      "summary": "Article URL: https://github.com/alibaba/open-code-review Comments URL: https://news.ycombinator.com/item?id=48406358 Points: 247 # Comments: 67",
+      "summary": "Article URL: https://github.com/alibaba/open-code-review Comments URL: https://news.ycombinator.com/item?id=48406358 Points: 254 # Comments: 67",
       "source": "Hacker News",
       "published": "2026-06-05T00:04:29+00:00",
       "link": "https://github.com/alibaba/open-code-review"
     },
     {
       "title": "South Korean forums will need to scan every images with AI censorship tools",
-      "summary": "Article URL: https://discuss.privacyguides.net/t/south-korean-online-communities-will-need-to-scan-every-images-with-ai-censorship-tools/38341 Comments URL: https://news.ycombinator.com/item?id=48406198 Points: 180 # Comments: 124",
+      "summary": "Article URL: https://discuss.privacyguides.net/t/south-korean-online-communities-will-need-to-scan-every-images-with-ai-censorship-tools/38341 Comments URL: https://news.ycombinator.com/item?id=48406198 Points: 203 # Comments: 128",
       "source": "Hacker News",
       "published": "2026-06-04T23:45:56+00:00",
       "link": "https://discuss.privacyguides.net/t/south-korean-online-communities-will-need-to-scan-every-images-with-ai-censorship-tools/38341"
@@ -213,7 +227,7 @@ const FEED_DATA = {
     },
     {
       "title": "Anthropic's open-source framework for AI-powered vulnerability discovery",
-      "summary": "Article URL: https://github.com/anthropics/defending-code-reference-harness Comments URL: https://news.ycombinator.com/item?id=48403980 Points: 510 # Comments: 140",
+      "summary": "Article URL: https://github.com/anthropics/defending-code-reference-harness Comments URL: https://news.ycombinator.com/item?id=48403980 Points: 514 # Comments: 140",
       "source": "Hacker News",
       "published": "2026-06-04T20:11:20+00:00",
       "link": "https://github.com/anthropics/defending-code-reference-harness"
@@ -269,7 +283,7 @@ const FEED_DATA = {
     },
     {
       "title": "When AI Builds Itself: Our progress toward recursive self-improvement",
-      "summary": "Article URL: https://www.anthropic.com/institute/recursive-self-improvement Comments URL: https://news.ycombinator.com/item?id=48400842 Points: 497 # Comments: 667",
+      "summary": "Article URL: https://www.anthropic.com/institute/recursive-self-improvement Comments URL: https://news.ycombinator.com/item?id=48400842 Points: 502 # Comments: 672",
       "source": "Hacker News",
       "published": "2026-06-04T16:20:17+00:00",
       "link": "https://www.anthropic.com/institute/recursive-self-improvement"
@@ -283,7 +297,7 @@ const FEED_DATA = {
     },
     {
       "title": "Google employees internally share memes about how its AI sucks",
-      "summary": "Article URL: https://www.404media.co/google-employees-internally-share-memes-about-how-its-ai-sucks/ Comments URL: https://news.ycombinator.com/item?id=48400311 Points: 166 # Comments: 104",
+      "summary": "Article URL: https://www.404media.co/google-employees-internally-share-memes-about-how-its-ai-sucks/ Comments URL: https://news.ycombinator.com/item?id=48400311 Points: 167 # Comments: 104",
       "source": "Hacker News",
       "published": "2026-06-04T15:42:33+00:00",
       "link": "https://www.404media.co/google-employees-internally-share-memes-about-how-its-ai-sucks/"
@@ -297,7 +311,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI, Ashby Engineering, and the future",
-      "summary": "Article URL: https://www.ashbyhq.com/blog/engineering/ai-ashby-engineering-and-the-future Comments URL: https://news.ycombinator.com/item?id=48399528 Points: 60 # Comments: 50",
+      "summary": "Article URL: https://www.ashbyhq.com/blog/engineering/ai-ashby-engineering-and-the-future Comments URL: https://news.ycombinator.com/item?id=48399528 Points: 60 # Comments: 53",
       "source": "Hacker News",
       "published": "2026-06-04T14:48:44+00:00",
       "link": "https://www.ashbyhq.com/blog/engineering/ai-ashby-engineering-and-the-future"
@@ -416,7 +430,7 @@ const FEED_DATA = {
     },
     {
       "title": "Failing grades soar with AI usage, dwindling math skills in Berkeley CS classes",
-      "summary": "Article URL: https://www.dailycal.org/news/campus/academics/failing-grades-soar-as-professors-see-greater-ai-usage-dwindling-math-skills-in-uc-berkeley/article_16fad0bf-02cb-4b8c-8d88-888ffd9f8608.html Comments URL: https://news.ycombinator.com/item?id=48392004 Points: 803 #...",
+      "summary": "Article URL: https://www.dailycal.org/news/campus/academics/failing-grades-soar-as-professors-see-greater-ai-usage-dwindling-math-skills-in-uc-berkeley/article_16fad0bf-02cb-4b8c-8d88-888ffd9f8608.html Comments URL: https://news.ycombinator.com/item?id=48392004 Points: 807 #...",
       "source": "Hacker News",
       "published": "2026-06-04T00:18:02+00:00",
       "link": "https://www.dailycal.org/news/campus/academics/failing-grades-soar-as-professors-see-greater-ai-usage-dwindling-math-skills-in-uc-berkeley/article_16fad0bf-02cb-4b8c-8d88-888ffd9f8608.html"
@@ -507,7 +521,7 @@ const FEED_DATA = {
     },
     {
       "title": "Artificial intelligence is not conscious – Ted Chiang",
-      "summary": "https://archive.is/bcpZl Comments URL: https://news.ycombinator.com/item?id=48387270 Points: 769 # Comments: 1335",
+      "summary": "https://archive.is/bcpZl Comments URL: https://news.ycombinator.com/item?id=48387270 Points: 769 # Comments: 1343",
       "source": "Hacker News",
       "published": "2026-06-03T17:51:37+00:00",
       "link": "https://www.theatlantic.com/philosophy/2026/06/no-artificial-intelligence-is-not-conscious/687378/"
@@ -528,7 +542,7 @@ const FEED_DATA = {
     },
     {
       "title": "If AI data centers are so great, why are they being built in secret?",
-      "summary": "Article URL: https://www.thebrockovichreport.com/p/if-data-centers-are-so-great-why Comments URL: https://news.ycombinator.com/item?id=48386529 Points: 90 # Comments: 123",
+      "summary": "Article URL: https://www.thebrockovichreport.com/p/if-data-centers-are-so-great-why Comments URL: https://news.ycombinator.com/item?id=48386529 Points: 90 # Comments: 124",
       "source": "Hacker News",
       "published": "2026-06-03T16:57:11+00:00",
       "link": "https://www.thebrockovichreport.com/p/if-data-centers-are-so-great-why"
@@ -598,7 +612,7 @@ const FEED_DATA = {
     },
     {
       "title": "32GB of DDR5 now costs $375 – AI shortage continues to squeeze PC building",
-      "summary": "Article URL: https://www.tomshardware.com/pc-components/ddr5/32gb-of-ddr5-now-costs-usd375-minimum-ai-shortage-continues-to-squeeze-pc-building Comments URL: https://news.ycombinator.com/item?id=48383241 Points: 428 # Comments: 388",
+      "summary": "Article URL: https://www.tomshardware.com/pc-components/ddr5/32gb-of-ddr5-now-costs-usd375-minimum-ai-shortage-continues-to-squeeze-pc-building Comments URL: https://news.ycombinator.com/item?id=48383241 Points: 429 # Comments: 388",
       "source": "Hacker News",
       "published": "2026-06-03T12:43:43+00:00",
       "link": "https://www.tomshardware.com/pc-components/ddr5/32gb-of-ddr5-now-costs-usd375-minimum-ai-shortage-continues-to-squeeze-pc-building"
@@ -612,7 +626,7 @@ const FEED_DATA = {
     },
     {
       "title": "Uber's $1,500/month AI limit is a useful signal for AI tool pricing",
-      "summary": "https://www.bloomberg.com/news/articles/2026-06-02/uber-caps... (https://archive.ph/ZrwAy) Comments URL: https://news.ycombinator.com/item?id=48383056 Points: 611 # Comments: 759",
+      "summary": "https://www.bloomberg.com/news/articles/2026-06-02/uber-caps... (https://archive.ph/ZrwAy) Comments URL: https://news.ycombinator.com/item?id=48383056 Points: 612 # Comments: 761",
       "source": "Hacker News",
       "published": "2026-06-03T12:25:14+00:00",
       "link": "https://simonwillison.net/2026/Jun/3/uber-caps-usage/"
@@ -654,7 +668,7 @@ const FEED_DATA = {
     },
     {
       "title": "Mathematicians issue warning as AI rapidly gains ground",
-      "summary": "Article URL: https://www.science.org/content/article/mathematicians-issue-warning-ai-rapidly-gains-ground Comments URL: https://news.ycombinator.com/item?id=48382052 Points: 293 # Comments: 344",
+      "summary": "Article URL: https://www.science.org/content/article/mathematicians-issue-warning-ai-rapidly-gains-ground Comments URL: https://news.ycombinator.com/item?id=48382052 Points: 293 # Comments: 345",
       "source": "Hacker News",
       "published": "2026-06-03T10:05:48+00:00",
       "link": "https://www.science.org/content/article/mathematicians-issue-warning-ai-rapidly-gains-ground"
@@ -1386,20 +1400,6 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-05-30T16:18:56+00:00",
       "link": "https://the-decoder.com/microsoft-and-nvidia-reportedly-team-up-on-ai-pcs-that-run-actual-agents-instead-of-copilot/"
-    },
-    {
-      "title": "To have a moral stance on AI is to be an outcast, and it sucks",
-      "summary": "Article URL: https://musings.martyn.berlin/to-have-a-moral-stance-on-ai-is-to-be-an-outcast-and-it-sucks Comments URL: https://news.ycombinator.com/item?id=48337676 Points: 146 # Comments: 315",
-      "source": "Hacker News",
-      "published": "2026-05-30T16:04:00+00:00",
-      "link": "https://musings.martyn.berlin/to-have-a-moral-stance-on-ai-is-to-be-an-outcast-and-it-sucks"
-    },
-    {
-      "title": "Meta is reportedly developing an AI pendant",
-      "summary": "Meta seems to be making big bets on AI-powered hardware.",
-      "source": "TechCrunch",
-      "published": "2026-05-30T15:59:58+00:00",
-      "link": "https://techcrunch.com/2026/05/30/meta-is-reportedly-developing-an-ai-pendant/"
     }
   ]
 };
