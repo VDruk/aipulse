@@ -1,5 +1,5 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-06-05T05:15:32.351645+00:00",
+  "lastUpdated": "2026-06-05T08:43:57.676678+00:00",
   "items": [
     {
       "title": "Mira Murati steps back into the spotlight, carefully",
@@ -9,15 +9,22 @@ const FEED_DATA = {
       "link": "https://techcrunch.com/2026/06/04/mira-murati-steps-back-into-the-spotlight-carefully/"
     },
     {
+      "title": "The Pentagon is running an AI propaganda mill targeting Latin America",
+      "summary": "Article URL: https://theintercept.com/2026/06/02/la-tilde-propaganda-latin-america-pentagon/ Comments URL: https://news.ycombinator.com/item?id=48408031 Points: 63 # Comments: 54",
+      "source": "Hacker News",
+      "published": "2026-06-05T04:38:41+00:00",
+      "link": "https://theintercept.com/2026/06/02/la-tilde-propaganda-latin-america-pentagon/"
+    },
+    {
       "title": "Open Code Review – An AI-powered code review CLI tool",
-      "summary": "Article URL: https://github.com/alibaba/open-code-review Comments URL: https://news.ycombinator.com/item?id=48406358 Points: 102 # Comments: 23",
+      "summary": "Article URL: https://github.com/alibaba/open-code-review Comments URL: https://news.ycombinator.com/item?id=48406358 Points: 167 # Comments: 42",
       "source": "Hacker News",
       "published": "2026-06-05T00:04:29+00:00",
       "link": "https://github.com/alibaba/open-code-review"
     },
     {
       "title": "South Korean Forums Will Need to Scan Every Images with AI Censorship Tools",
-      "summary": "Article URL: https://discuss.privacyguides.net/t/south-korean-online-communities-will-need-to-scan-every-images-with-ai-censorship-tools/38341 Comments URL: https://news.ycombinator.com/item?id=48406198 Points: 83 # Comments: 54",
+      "summary": "Article URL: https://discuss.privacyguides.net/t/south-korean-online-communities-will-need-to-scan-every-images-with-ai-censorship-tools/38341 Comments URL: https://news.ycombinator.com/item?id=48406198 Points: 125 # Comments: 99",
       "source": "Hacker News",
       "published": "2026-06-04T23:45:56+00:00",
       "link": "https://discuss.privacyguides.net/t/south-korean-online-communities-will-need-to-scan-every-images-with-ai-censorship-tools/38341"
@@ -45,7 +52,7 @@ const FEED_DATA = {
     },
     {
       "title": "Anthropic's open-source framework for AI-powered vulnerability discovery",
-      "summary": "Article URL: https://github.com/anthropics/defending-code-reference-harness Comments URL: https://news.ycombinator.com/item?id=48403980 Points: 339 # Comments: 105",
+      "summary": "Article URL: https://github.com/anthropics/defending-code-reference-harness Comments URL: https://news.ycombinator.com/item?id=48403980 Points: 402 # Comments: 116",
       "source": "Hacker News",
       "published": "2026-06-04T20:11:20+00:00",
       "link": "https://github.com/anthropics/defending-code-reference-harness"
@@ -101,7 +108,7 @@ const FEED_DATA = {
     },
     {
       "title": "When AI Builds Itself: Our progress toward recursive self-improvement",
-      "summary": "Article URL: https://www.anthropic.com/institute/recursive-self-improvement Comments URL: https://news.ycombinator.com/item?id=48400842 Points: 398 # Comments: 528",
+      "summary": "Article URL: https://www.anthropic.com/institute/recursive-self-improvement Comments URL: https://news.ycombinator.com/item?id=48400842 Points: 448 # Comments: 597",
       "source": "Hacker News",
       "published": "2026-06-04T16:20:17+00:00",
       "link": "https://www.anthropic.com/institute/recursive-self-improvement"
@@ -115,21 +122,21 @@ const FEED_DATA = {
     },
     {
       "title": "Google employees internally share memes about how its AI sucks",
-      "summary": "Article URL: https://www.404media.co/google-employees-internally-share-memes-about-how-its-ai-sucks/ Comments URL: https://news.ycombinator.com/item?id=48400311 Points: 153 # Comments: 103",
+      "summary": "Article URL: https://www.404media.co/google-employees-internally-share-memes-about-how-its-ai-sucks/ Comments URL: https://news.ycombinator.com/item?id=48400311 Points: 157 # Comments: 103",
       "source": "Hacker News",
       "published": "2026-06-04T15:42:33+00:00",
       "link": "https://www.404media.co/google-employees-internally-share-memes-about-how-its-ai-sucks/"
     },
     {
       "title": "The LLM warnings Google fired Timnit Gebru over have all come true",
-      "summary": "Article URL: https://www.tumblr.com/dreaminginthedeepsouth/817865966907228160/darren-oconnor-timnit-gebru-was-fired-from Comments URL: https://news.ycombinator.com/item?id=48400213 Points: 109 # Comments: 100",
+      "summary": "Article URL: https://www.tumblr.com/dreaminginthedeepsouth/817865966907228160/darren-oconnor-timnit-gebru-was-fired-from Comments URL: https://news.ycombinator.com/item?id=48400213 Points: 111 # Comments: 104",
       "source": "Hacker News",
       "published": "2026-06-04T15:34:43+00:00",
       "link": "https://www.tumblr.com/dreaminginthedeepsouth/817865966907228160/darren-oconnor-timnit-gebru-was-fired-from"
     },
     {
       "title": "AI, Ashby Engineering, and the future",
-      "summary": "Article URL: https://www.ashbyhq.com/blog/engineering/ai-ashby-engineering-and-the-future Comments URL: https://news.ycombinator.com/item?id=48399528 Points: 58 # Comments: 41",
+      "summary": "Article URL: https://www.ashbyhq.com/blog/engineering/ai-ashby-engineering-and-the-future Comments URL: https://news.ycombinator.com/item?id=48399528 Points: 59 # Comments: 44",
       "source": "Hacker News",
       "published": "2026-06-04T14:48:44+00:00",
       "link": "https://www.ashbyhq.com/blog/engineering/ai-ashby-engineering-and-the-future"
@@ -248,7 +255,7 @@ const FEED_DATA = {
     },
     {
       "title": "Failing grades soar with AI usage, dwindling math skills in Berkeley CS classes",
-      "summary": "Article URL: https://www.dailycal.org/news/campus/academics/failing-grades-soar-as-professors-see-greater-ai-usage-dwindling-math-skills-in-uc-berkeley/article_16fad0bf-02cb-4b8c-8d88-888ffd9f8608.html Comments URL: https://news.ycombinator.com/item?id=48392004 Points: 748 #...",
+      "summary": "Article URL: https://www.dailycal.org/news/campus/academics/failing-grades-soar-as-professors-see-greater-ai-usage-dwindling-math-skills-in-uc-berkeley/article_16fad0bf-02cb-4b8c-8d88-888ffd9f8608.html Comments URL: https://news.ycombinator.com/item?id=48392004 Points: 767 #...",
       "source": "Hacker News",
       "published": "2026-06-04T00:18:02+00:00",
       "link": "https://www.dailycal.org/news/campus/academics/failing-grades-soar-as-professors-see-greater-ai-usage-dwindling-math-skills-in-uc-berkeley/article_16fad0bf-02cb-4b8c-8d88-888ffd9f8608.html"
@@ -339,7 +346,7 @@ const FEED_DATA = {
     },
     {
       "title": "Artificial intelligence is not conscious – Ted Chiang",
-      "summary": "https://archive.is/bcpZl Comments URL: https://news.ycombinator.com/item?id=48387270 Points: 748 # Comments: 1294",
+      "summary": "https://archive.is/bcpZl Comments URL: https://news.ycombinator.com/item?id=48387270 Points: 756 # Comments: 1308",
       "source": "Hacker News",
       "published": "2026-06-03T17:51:37+00:00",
       "link": "https://www.theatlantic.com/philosophy/2026/06/no-artificial-intelligence-is-not-conscious/687378/"
@@ -430,7 +437,7 @@ const FEED_DATA = {
     },
     {
       "title": "32GB of DDR5 now costs $375 – AI shortage continues to squeeze PC building",
-      "summary": "Article URL: https://www.tomshardware.com/pc-components/ddr5/32gb-of-ddr5-now-costs-usd375-minimum-ai-shortage-continues-to-squeeze-pc-building Comments URL: https://news.ycombinator.com/item?id=48383241 Points: 421 # Comments: 383",
+      "summary": "Article URL: https://www.tomshardware.com/pc-components/ddr5/32gb-of-ddr5-now-costs-usd375-minimum-ai-shortage-continues-to-squeeze-pc-building Comments URL: https://news.ycombinator.com/item?id=48383241 Points: 425 # Comments: 383",
       "source": "Hacker News",
       "published": "2026-06-03T12:43:43+00:00",
       "link": "https://www.tomshardware.com/pc-components/ddr5/32gb-of-ddr5-now-costs-usd375-minimum-ai-shortage-continues-to-squeeze-pc-building"
@@ -444,7 +451,7 @@ const FEED_DATA = {
     },
     {
       "title": "Uber's $1,500/month AI limit is a useful signal for AI tool pricing",
-      "summary": "https://www.bloomberg.com/news/articles/2026-06-02/uber-caps... (https://archive.ph/ZrwAy) Comments URL: https://news.ycombinator.com/item?id=48383056 Points: 607 # Comments: 750",
+      "summary": "https://www.bloomberg.com/news/articles/2026-06-02/uber-caps... (https://archive.ph/ZrwAy) Comments URL: https://news.ycombinator.com/item?id=48383056 Points: 607 # Comments: 753",
       "source": "Hacker News",
       "published": "2026-06-03T12:25:14+00:00",
       "link": "https://simonwillison.net/2026/Jun/3/uber-caps-usage/"
@@ -486,7 +493,7 @@ const FEED_DATA = {
     },
     {
       "title": "Mathematicians issue warning as AI rapidly gains ground",
-      "summary": "Article URL: https://www.science.org/content/article/mathematicians-issue-warning-ai-rapidly-gains-ground Comments URL: https://news.ycombinator.com/item?id=48382052 Points: 290 # Comments: 336",
+      "summary": "Article URL: https://www.science.org/content/article/mathematicians-issue-warning-ai-rapidly-gains-ground Comments URL: https://news.ycombinator.com/item?id=48382052 Points: 291 # Comments: 337",
       "source": "Hacker News",
       "published": "2026-06-03T10:05:48+00:00",
       "link": "https://www.science.org/content/article/mathematicians-issue-warning-ai-rapidly-gains-ground"
@@ -1393,13 +1400,6 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-05-29T17:51:46+00:00",
       "link": "https://the-decoder.com/google-fixes-several-bugs-in-gemini-usage-limits-that-burned-through-quotas-too-fast/"
-    },
-    {
-      "title": "What if remote working, not AI, is to blame for weak junior hiring?",
-      "summary": "Article URL: https://www.ft.com/content/2205e2d0-50dc-4e80-9bf7-78d0272276c0 Comments URL: https://news.ycombinator.com/item?id=48326721 Points: 260 # Comments: 362",
-      "source": "Hacker News",
-      "published": "2026-05-29T17:50:11+00:00",
-      "link": "https://www.ft.com/content/2205e2d0-50dc-4e80-9bf7-78d0272276c0"
     }
   ]
 };
