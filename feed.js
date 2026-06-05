@@ -1,6 +1,55 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-06-05T11:54:15.776826+00:00",
+  "lastUpdated": "2026-06-05T15:56:10.145490+00:00",
   "items": [
+    {
+      "title": "Satya Nadella publicly torches a VP's plan to make Microsoft's AI agent deliberately addictive",
+      "summary": "Microsoft CEO Satya Nadella has sharply criticized an internal memo proposing to make users \"addicted\" to the company's new AI agent Scout. \"Not sure who is writing and leaking this nonsense,\" Nadella wrote to about 50 top engineers.",
+      "source": "The Decoder",
+      "published": "2026-06-05T15:33:56+00:00",
+      "link": "https://the-decoder.com/satya-nadella-publicly-torches-a-vps-plan-to-make-microsofts-ai-agent-deliberately-addictive/"
+    },
+    {
+      "title": "Has Microsoft Lost Its Mojo (Again)?",
+      "summary": "Microsoft’s AI products aren’t selling and Github’s been plagued with troubles. WIRED spoke with VP Scott Hanselman about whether the company is in catch-up mode.",
+      "source": "Wired",
+      "published": "2026-06-05T15:00:00+00:00",
+      "link": "https://www.wired.com/story/has-microsoft-lost-its-mojo-again/"
+    },
+    {
+      "title": "The token bill comes due: Inside the industry scramble to manage AI’s runaway costs",
+      "summary": "\"The whole conversation shifted from tokenmaxxing and 'go fast' to 'we need guardrails, how do we control this?'\"",
+      "source": "TechCrunch",
+      "published": "2026-06-05T14:49:12+00:00",
+      "link": "https://techcrunch.com/2026/06/05/the-token-bill-comes-due-inside-the-industry-scramble-to-manage-ais-runaway-costs/"
+    },
+    {
+      "title": "This AI startup says it can tell if a script will make a hit film",
+      "summary": "When Quilty hit the industry trades earlier this year, the AI startup promised that its tool could accurately predict a film's success just by reading the script. When people actually got a chance to experiment with Quilty's product, though, they were left skeptical.",
+      "source": "The Verge",
+      "published": "2026-06-05T13:57:31+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/943531/ai-script-quilty-simon-horsman-daniel-wood"
+    },
+    {
+      "title": "AirTrunk commits $30B to build 5GW of AI data centers in India",
+      "summary": "The Australian data center operator plans to set up 5GW of capacity in India.",
+      "source": "TechCrunch",
+      "published": "2026-06-05T13:03:10+00:00",
+      "link": "https://techcrunch.com/2026/06/05/airtrunk-commits-30b-to-build-5gw-of-ai-data-centers-in-india/"
+    },
+    {
+      "title": "Microsoft trained its MAI models on unlicensed web data despite promising \"enterprise grade, clean and commercially licensed data\"",
+      "summary": "Microsoft sells its LLM training approach as different from other AI companies. It isn't.",
+      "source": "The Decoder",
+      "published": "2026-06-05T12:10:26+00:00",
+      "link": "https://the-decoder.com/microsoft-trained-its-mai-models-on-unlicensed-web-data-despite-promising-enterprise-grade-clean-and-commercially-licensed-data/"
+    },
+    {
+      "title": "The Download: AI hacking beyond Mythos, and chatbots’ impact on our brains",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.",
+      "source": "MIT Tech Review",
+      "published": "2026-06-05T12:10:00+00:00",
+      "link": "https://www.technologyreview.com/2026/06/05/1138452/the-download-ai-hacking-mythos-chatbots-brain-impacts/"
+    },
     {
       "title": "How C3 AI agents will automate predictive maintenance for Shell",
       "summary": "Shell will use agents from C3 AI to shift from basic anomaly detection towards fully-automated predictive maintenance.",
@@ -58,6 +107,13 @@ const FEED_DATA = {
       "link": "https://the-decoder.com/anthropic-says-claude-now-writes-over-90-of-its-code-and-wants-the-world-to-have-an-ai-pause-button/"
     },
     {
+      "title": "Fine-tuning an LLM to write docs like it's 1995",
+      "summary": "Article URL: https://passo.uno/fine-tuning-docs-llm/ Comments URL: https://news.ycombinator.com/item?id=48408442 Points: 147 # Comments: 51",
+      "source": "Hacker News",
+      "published": "2026-06-05T05:46:06+00:00",
+      "link": "https://passo.uno/fine-tuning-docs-llm/"
+    },
+    {
       "title": "Mira Murati steps back into the spotlight, carefully",
       "summary": "In the current environment, remaining heads down has diminishing returns; at some point, you have to make some noise just to remind the market you exist.",
       "source": "TechCrunch",
@@ -66,21 +122,21 @@ const FEED_DATA = {
     },
     {
       "title": "The Pentagon is running an AI propaganda mill targeting Latin America",
-      "summary": "Article URL: https://theintercept.com/2026/06/02/la-tilde-propaganda-latin-america-pentagon/ Comments URL: https://news.ycombinator.com/item?id=48408031 Points: 63 # Comments: 54",
+      "summary": "Article URL: https://theintercept.com/2026/06/02/la-tilde-propaganda-latin-america-pentagon/ Comments URL: https://news.ycombinator.com/item?id=48408031 Points: 86 # Comments: 88",
       "source": "Hacker News",
       "published": "2026-06-05T04:38:41+00:00",
       "link": "https://theintercept.com/2026/06/02/la-tilde-propaganda-latin-america-pentagon/"
     },
     {
       "title": "Open Code Review – An AI-powered code review CLI tool",
-      "summary": "Article URL: https://github.com/alibaba/open-code-review Comments URL: https://news.ycombinator.com/item?id=48406358 Points: 167 # Comments: 42",
+      "summary": "Article URL: https://github.com/alibaba/open-code-review Comments URL: https://news.ycombinator.com/item?id=48406358 Points: 233 # Comments: 66",
       "source": "Hacker News",
       "published": "2026-06-05T00:04:29+00:00",
       "link": "https://github.com/alibaba/open-code-review"
     },
     {
       "title": "South Korean Forums Will Need to Scan Every Images with AI Censorship Tools",
-      "summary": "Article URL: https://discuss.privacyguides.net/t/south-korean-online-communities-will-need-to-scan-every-images-with-ai-censorship-tools/38341 Comments URL: https://news.ycombinator.com/item?id=48406198 Points: 125 # Comments: 99",
+      "summary": "Article URL: https://discuss.privacyguides.net/t/south-korean-online-communities-will-need-to-scan-every-images-with-ai-censorship-tools/38341 Comments URL: https://news.ycombinator.com/item?id=48406198 Points: 167 # Comments: 122",
       "source": "Hacker News",
       "published": "2026-06-04T23:45:56+00:00",
       "link": "https://discuss.privacyguides.net/t/south-korean-online-communities-will-need-to-scan-every-images-with-ai-censorship-tools/38341"
@@ -108,7 +164,7 @@ const FEED_DATA = {
     },
     {
       "title": "Anthropic's open-source framework for AI-powered vulnerability discovery",
-      "summary": "Article URL: https://github.com/anthropics/defending-code-reference-harness Comments URL: https://news.ycombinator.com/item?id=48403980 Points: 402 # Comments: 116",
+      "summary": "Article URL: https://github.com/anthropics/defending-code-reference-harness Comments URL: https://news.ycombinator.com/item?id=48403980 Points: 487 # Comments: 137",
       "source": "Hacker News",
       "published": "2026-06-04T20:11:20+00:00",
       "link": "https://github.com/anthropics/defending-code-reference-harness"
@@ -164,7 +220,7 @@ const FEED_DATA = {
     },
     {
       "title": "When AI Builds Itself: Our progress toward recursive self-improvement",
-      "summary": "Article URL: https://www.anthropic.com/institute/recursive-self-improvement Comments URL: https://news.ycombinator.com/item?id=48400842 Points: 448 # Comments: 597",
+      "summary": "Article URL: https://www.anthropic.com/institute/recursive-self-improvement Comments URL: https://news.ycombinator.com/item?id=48400842 Points: 489 # Comments: 655",
       "source": "Hacker News",
       "published": "2026-06-04T16:20:17+00:00",
       "link": "https://www.anthropic.com/institute/recursive-self-improvement"
@@ -178,21 +234,21 @@ const FEED_DATA = {
     },
     {
       "title": "Google employees internally share memes about how its AI sucks",
-      "summary": "Article URL: https://www.404media.co/google-employees-internally-share-memes-about-how-its-ai-sucks/ Comments URL: https://news.ycombinator.com/item?id=48400311 Points: 157 # Comments: 103",
+      "summary": "Article URL: https://www.404media.co/google-employees-internally-share-memes-about-how-its-ai-sucks/ Comments URL: https://news.ycombinator.com/item?id=48400311 Points: 165 # Comments: 104",
       "source": "Hacker News",
       "published": "2026-06-04T15:42:33+00:00",
       "link": "https://www.404media.co/google-employees-internally-share-memes-about-how-its-ai-sucks/"
     },
     {
       "title": "The LLM warnings Google fired Timnit Gebru over have all come true",
-      "summary": "Article URL: https://www.tumblr.com/dreaminginthedeepsouth/817865966907228160/darren-oconnor-timnit-gebru-was-fired-from Comments URL: https://news.ycombinator.com/item?id=48400213 Points: 111 # Comments: 104",
+      "summary": "Article URL: https://www.tumblr.com/dreaminginthedeepsouth/817865966907228160/darren-oconnor-timnit-gebru-was-fired-from Comments URL: https://news.ycombinator.com/item?id=48400213 Points: 117 # Comments: 109",
       "source": "Hacker News",
       "published": "2026-06-04T15:34:43+00:00",
       "link": "https://www.tumblr.com/dreaminginthedeepsouth/817865966907228160/darren-oconnor-timnit-gebru-was-fired-from"
     },
     {
       "title": "AI, Ashby Engineering, and the future",
-      "summary": "Article URL: https://www.ashbyhq.com/blog/engineering/ai-ashby-engineering-and-the-future Comments URL: https://news.ycombinator.com/item?id=48399528 Points: 59 # Comments: 44",
+      "summary": "Article URL: https://www.ashbyhq.com/blog/engineering/ai-ashby-engineering-and-the-future Comments URL: https://news.ycombinator.com/item?id=48399528 Points: 59 # Comments: 50",
       "source": "Hacker News",
       "published": "2026-06-04T14:48:44+00:00",
       "link": "https://www.ashbyhq.com/blog/engineering/ai-ashby-engineering-and-the-future"
@@ -311,7 +367,7 @@ const FEED_DATA = {
     },
     {
       "title": "Failing grades soar with AI usage, dwindling math skills in Berkeley CS classes",
-      "summary": "Article URL: https://www.dailycal.org/news/campus/academics/failing-grades-soar-as-professors-see-greater-ai-usage-dwindling-math-skills-in-uc-berkeley/article_16fad0bf-02cb-4b8c-8d88-888ffd9f8608.html Comments URL: https://news.ycombinator.com/item?id=48392004 Points: 767 #...",
+      "summary": "Article URL: https://www.dailycal.org/news/campus/academics/failing-grades-soar-as-professors-see-greater-ai-usage-dwindling-math-skills-in-uc-berkeley/article_16fad0bf-02cb-4b8c-8d88-888ffd9f8608.html Comments URL: https://news.ycombinator.com/item?id=48392004 Points: 794 #...",
       "source": "Hacker News",
       "published": "2026-06-04T00:18:02+00:00",
       "link": "https://www.dailycal.org/news/campus/academics/failing-grades-soar-as-professors-see-greater-ai-usage-dwindling-math-skills-in-uc-berkeley/article_16fad0bf-02cb-4b8c-8d88-888ffd9f8608.html"
@@ -325,7 +381,7 @@ const FEED_DATA = {
     },
     {
       "title": "Show HN: Mnemo – local-first AI memory layer for any LLM (Rust, SQLite,petgraph)",
-      "summary": "Article URL: https://github.com/zaydmulani09/mnemo Comments URL: https://news.ycombinator.com/item?id=48389586 Points: 54 # Comments: 25",
+      "summary": "Article URL: https://github.com/zaydmulani09/mnemo Comments URL: https://news.ycombinator.com/item?id=48389586 Points: 59 # Comments: 26",
       "source": "Hacker News",
       "published": "2026-06-03T20:32:10+00:00",
       "link": "https://github.com/zaydmulani09/mnemo"
@@ -402,7 +458,7 @@ const FEED_DATA = {
     },
     {
       "title": "Artificial intelligence is not conscious – Ted Chiang",
-      "summary": "https://archive.is/bcpZl Comments URL: https://news.ycombinator.com/item?id=48387270 Points: 756 # Comments: 1308",
+      "summary": "https://archive.is/bcpZl Comments URL: https://news.ycombinator.com/item?id=48387270 Points: 767 # Comments: 1330",
       "source": "Hacker News",
       "published": "2026-06-03T17:51:37+00:00",
       "link": "https://www.theatlantic.com/philosophy/2026/06/no-artificial-intelligence-is-not-conscious/687378/"
@@ -423,7 +479,7 @@ const FEED_DATA = {
     },
     {
       "title": "If AI data centers are so great, why are they being built in secret?",
-      "summary": "Article URL: https://www.thebrockovichreport.com/p/if-data-centers-are-so-great-why Comments URL: https://news.ycombinator.com/item?id=48386529 Points: 89 # Comments: 122",
+      "summary": "Article URL: https://www.thebrockovichreport.com/p/if-data-centers-are-so-great-why Comments URL: https://news.ycombinator.com/item?id=48386529 Points: 90 # Comments: 123",
       "source": "Hacker News",
       "published": "2026-06-03T16:57:11+00:00",
       "link": "https://www.thebrockovichreport.com/p/if-data-centers-are-so-great-why"
@@ -493,7 +549,7 @@ const FEED_DATA = {
     },
     {
       "title": "32GB of DDR5 now costs $375 – AI shortage continues to squeeze PC building",
-      "summary": "Article URL: https://www.tomshardware.com/pc-components/ddr5/32gb-of-ddr5-now-costs-usd375-minimum-ai-shortage-continues-to-squeeze-pc-building Comments URL: https://news.ycombinator.com/item?id=48383241 Points: 425 # Comments: 383",
+      "summary": "Article URL: https://www.tomshardware.com/pc-components/ddr5/32gb-of-ddr5-now-costs-usd375-minimum-ai-shortage-continues-to-squeeze-pc-building Comments URL: https://news.ycombinator.com/item?id=48383241 Points: 427 # Comments: 385",
       "source": "Hacker News",
       "published": "2026-06-03T12:43:43+00:00",
       "link": "https://www.tomshardware.com/pc-components/ddr5/32gb-of-ddr5-now-costs-usd375-minimum-ai-shortage-continues-to-squeeze-pc-building"
@@ -507,7 +563,7 @@ const FEED_DATA = {
     },
     {
       "title": "Uber's $1,500/month AI limit is a useful signal for AI tool pricing",
-      "summary": "https://www.bloomberg.com/news/articles/2026-06-02/uber-caps... (https://archive.ph/ZrwAy) Comments URL: https://news.ycombinator.com/item?id=48383056 Points: 607 # Comments: 753",
+      "summary": "https://www.bloomberg.com/news/articles/2026-06-02/uber-caps... (https://archive.ph/ZrwAy) Comments URL: https://news.ycombinator.com/item?id=48383056 Points: 609 # Comments: 758",
       "source": "Hacker News",
       "published": "2026-06-03T12:25:14+00:00",
       "link": "https://simonwillison.net/2026/Jun/3/uber-caps-usage/"
@@ -549,7 +605,7 @@ const FEED_DATA = {
     },
     {
       "title": "Mathematicians issue warning as AI rapidly gains ground",
-      "summary": "Article URL: https://www.science.org/content/article/mathematicians-issue-warning-ai-rapidly-gains-ground Comments URL: https://news.ycombinator.com/item?id=48382052 Points: 291 # Comments: 337",
+      "summary": "Article URL: https://www.science.org/content/article/mathematicians-issue-warning-ai-rapidly-gains-ground Comments URL: https://news.ycombinator.com/item?id=48382052 Points: 293 # Comments: 343",
       "source": "Hacker News",
       "published": "2026-06-03T10:05:48+00:00",
       "link": "https://www.science.org/content/article/mathematicians-issue-warning-ai-rapidly-gains-ground"
@@ -569,18 +625,18 @@ const FEED_DATA = {
       "link": "https://www.artificialintelligence-news.com/news/walmart-limits-ai-use-as-workflows-meet-the-realities-of-the-balance-sheet/"
     },
     {
-      "title": "AI has a water problem — Google thinks it has a fix",
-      "summary": "In the face of widespread backlash to the AI data center buildout throughout the US, Google is touting its efforts to minimize the environmental impact by actually increasing water for local communities.",
-      "source": "The Verge",
-      "published": "2026-06-03T09:00:00+00:00",
-      "link": "https://www.theverge.com/policy/942296/google-water-commitments-data-centers"
-    },
-    {
       "title": "Microsoft’s Majorana 2 quantum chip is also a case study for agentic AI in R&D",
       "summary": "Microsoft’s Majorana 2 quantum chiparrived this week, with numbers that are genuinely difficult to contextualise: qubits 1,000 times more reliable than those of the first generation models, a mean qubit lifetime of 20 seconds against an industry norm measured in microseconds,...",
       "source": "AI News",
       "published": "2026-06-03T09:00:00+00:00",
       "link": "https://www.artificialintelligence-news.com/news/microsoft-discovery-agentic-ai-majorana-2/"
+    },
+    {
+      "title": "AI has a water problem — Google thinks it has a fix",
+      "summary": "In the face of widespread backlash to the AI data center buildout throughout the US, Google is touting its efforts to minimize the environmental impact by actually increasing water for local communities.",
+      "source": "The Verge",
+      "published": "2026-06-03T09:00:00+00:00",
+      "link": "https://www.theverge.com/policy/942296/google-water-commitments-data-centers"
     },
     {
       "title": "Redditors Are Using AI to Beat Obscene World Cup Ticket Prices",
@@ -612,7 +668,7 @@ const FEED_DATA = {
     },
     {
       "title": "U of T researchers demonstrate AI worm could target any online device",
-      "summary": "Article URL: https://www.utoronto.ca/news/u-t-researchers-demonstrate-ai-worm-could-target-any-online-device Comments URL: https://news.ycombinator.com/item?id=48379664 Points: 148 # Comments: 46",
+      "summary": "Article URL: https://www.utoronto.ca/news/u-t-researchers-demonstrate-ai-worm-could-target-any-online-device Comments URL: https://news.ycombinator.com/item?id=48379664 Points: 150 # Comments: 46",
       "source": "Hacker News",
       "published": "2026-06-03T03:47:21+00:00",
       "link": "https://www.utoronto.ca/news/u-t-researchers-demonstrate-ai-worm-could-target-any-online-device"
@@ -626,7 +682,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI outperforms law professors in Stanford Law study",
-      "summary": "https://law.stanford.edu/wp-content/uploads/2026/06/salinas_... Comments URL: https://news.ycombinator.com/item?id=48377761 Points: 409 # Comments: 357",
+      "summary": "https://law.stanford.edu/wp-content/uploads/2026/06/salinas_... Comments URL: https://news.ycombinator.com/item?id=48377761 Points: 410 # Comments: 357",
       "source": "Hacker News",
       "published": "2026-06-02T23:43:12+00:00",
       "link": "https://law.stanford.edu/press/ai-outperforms-law-professors-in-stanford-law-study/"
@@ -1344,62 +1400,6 @@ const FEED_DATA = {
       "source": "The Verge",
       "published": "2026-05-30T13:00:00+00:00",
       "link": "https://www.theverge.com/tech/938245/past-maps-website-google-zero-ai"
-    },
-    {
-      "title": "Making AI chatbots helpful weakens their ability to simulate human behavior, large-scale study finds",
-      "summary": "A large-scale study covering 208,000 participants and 26 million responses shows that the very training that turns language models into helpful chatbots weakens their ability to replicate human behavior. The effect gets worse with each new model generation.",
-      "source": "The Decoder",
-      "published": "2026-05-30T12:44:12+00:00",
-      "link": "https://the-decoder.com/making-ai-chatbots-helpful-weakens-their-ability-to-simulate-human-behavior-large-scale-study-finds/"
-    },
-    {
-      "title": "Corporate America Is Starting to Ration AI as Cost Skyrockets",
-      "summary": "Article URL: https://www.wsj.com/tech/ai/corporate-america-is-starting-to-ration-ai-as-cost-skyrockets-1eb99d7a Comments URL: https://news.ycombinator.com/item?id=48335388 Points: 184 # Comments: 174",
-      "source": "Hacker News",
-      "published": "2026-05-30T12:17:33+00:00",
-      "link": "https://www.wsj.com/tech/ai/corporate-america-is-starting-to-ration-ai-as-cost-skyrockets-1eb99d7a"
-    },
-    {
-      "title": "Terence Tao argues AI could bring division of labor to math for the first time in history",
-      "summary": "Mathematician Terence Tao describes how AI could reshape math research by enabling division of labor for the first time. Until now, researchers had to master every step themselves, from framing problems to verifying results.",
-      "source": "The Decoder",
-      "published": "2026-05-30T12:04:25+00:00",
-      "link": "https://the-decoder.com/terence-tao-argues-ai-could-bring-division-of-labor-to-math-for-the-first-time-in-history/"
-    },
-    {
-      "title": "Attackers abuse shared ChatGPT and Claude chats to spread malware",
-      "summary": "Attackers are exploiting the chat-sharing features in ChatGPT and Claude to spread malware through shared conversations. The chats mimic error messages or install guides and slip past security tools undetected because they're hosted on trusted domains.",
-      "source": "The Decoder",
-      "published": "2026-05-30T10:32:22+00:00",
-      "link": "https://the-decoder.com/attackers-abuse-shared-chatgpt-and-claude-chats-to-spread-malware/"
-    },
-    {
-      "title": "OpenAI's Codex can now operate your Windows PC autonomously, hunting bugs and testing apps on its own",
-      "summary": "OpenAI's Codex app now runs on Windows 11 with \"Computer Use\": the AI can independently control programs, test apps, and hunt for bugs. When no one's at the PC, the ChatGPT mobile app lets users start and monitor tasks remotely from their phone.",
-      "source": "The Decoder",
-      "published": "2026-05-30T10:16:39+00:00",
-      "link": "https://the-decoder.com/openais-codex-can-now-operate-your-windows-pc-autonomously-hunting-bugs-and-testing-apps-on-its-own/"
-    },
-    {
-      "title": "Salesforce claims AI agents cut a 231-day migration to 13 days with fewer incidents",
-      "summary": "Salesforce says it moved its entire dev org to Anthropic's Claude Code with no token limits and reports massive productivity gains for April 2026: 79 percent more pull requests per developer, five percent fewer incidents. The numbers can't be independently verified.",
-      "source": "The Decoder",
-      "published": "2026-05-30T09:32:57+00:00",
-      "link": "https://the-decoder.com/salesforce-claims-ai-agents-cut-a-231-day-migration-to-13-days-with-fewer-incidents/"
-    },
-    {
-      "title": "Do You Actually Need to Pay for Transcription Software?",
-      "summary": "I tested Wispr Flow and various AI-powered transcription software to see whether you should bother subscribing or stick with free services.",
-      "source": "Wired",
-      "published": "2026-05-30T09:30:00+00:00",
-      "link": "https://www.wired.com/story/do-you-actually-need-to-pay-for-transcription-software/"
-    },
-    {
-      "title": "Meta's leaked memo reveals AI pendant, supersensing glasses, and enterprise wearables strategy",
-      "summary": "Meta has poured billions into AI with little commercial payoff so far. Its open-source strategy hasn't panned out, and research breakthroughs haven't turned into shipping products.",
-      "source": "The Decoder",
-      "published": "2026-05-30T08:37:42+00:00",
-      "link": "https://the-decoder.com/metas-leaked-memo-reveals-ai-pendant-supersensing-glasses-and-enterprise-wearables-strategy/"
     }
   ]
 };
