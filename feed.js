@@ -1,6 +1,20 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-06-06T07:47:29.371972+00:00",
+  "lastUpdated": "2026-06-06T10:47:50.039558+00:00",
   "items": [
+    {
+      "title": "Crypto-Funded Chinese Peptide Labs Are Booming",
+      "summary": "Plus: Hackers use Meta’s AI bots to hack Instagram accounts, Anthropic helps NSA hackers, a decades-long GPS satellite mystery may have been solved, and more.",
+      "source": "Wired",
+      "published": "2026-06-06T10:30:00+00:00",
+      "link": "https://www.wired.com/story/security-news-this-week-crypto-funded-chinese-peptide-labs-are-booming/"
+    },
+    {
+      "title": "SpaceX signs $920 million per month deal with Google for 110,000 Nvidia AI chips ahead of IPO",
+      "summary": "SpaceX is leasing AI computing capacity to Google for $920 million per month, according to an SEC filing. The deal gives Google access to about 110,000 Nvidia chips to meet demand for its Gemini Enterprise platform.",
+      "source": "The Decoder",
+      "published": "2026-06-06T07:57:41+00:00",
+      "link": "https://the-decoder.com/spacex-signs-920-million-per-month-deal-with-google-for-110000-nvidia-ai-chips-ahead-of-ipo/"
+    },
     {
       "title": "OpenAI and the Trump administration are negotiating a government stake in the AI startup",
       "summary": "OpenAI and the Trump administration are negotiating a direct government stake in the AI startup. The idea is a \"Public Wealth Fund\" that would pay out directly to American citizens.",
@@ -31,7 +45,7 @@ const FEED_DATA = {
     },
     {
       "title": "Hacker News, Sans AI",
-      "summary": "Article URL: https://elijahpotter.dev/articles/hacker-news-sans-AI Comments URL: https://news.ycombinator.com/item?id=48417916 Points: 162 # Comments: 95",
+      "summary": "Article URL: https://elijahpotter.dev/articles/hacker-news-sans-AI Comments URL: https://news.ycombinator.com/item?id=48417916 Points: 168 # Comments: 95",
       "source": "Hacker News",
       "published": "2026-06-05T20:38:40+00:00",
       "link": "https://elijahpotter.dev/articles/hacker-news-sans-AI"
@@ -199,7 +213,7 @@ const FEED_DATA = {
     },
     {
       "title": "Fine-tuning an LLM to write docs like it's 1995",
-      "summary": "Article URL: https://passo.uno/fine-tuning-docs-llm/ Comments URL: https://news.ycombinator.com/item?id=48408442 Points: 183 # Comments: 65",
+      "summary": "Article URL: https://passo.uno/fine-tuning-docs-llm/ Comments URL: https://news.ycombinator.com/item?id=48408442 Points: 185 # Comments: 65",
       "source": "Hacker News",
       "published": "2026-06-05T05:46:06+00:00",
       "link": "https://passo.uno/fine-tuning-docs-llm/"
@@ -213,21 +227,21 @@ const FEED_DATA = {
     },
     {
       "title": "The Pentagon is running an AI propaganda mill targeting Latin America",
-      "summary": "Article URL: https://theintercept.com/2026/06/02/la-tilde-propaganda-latin-america-pentagon/ Comments URL: https://news.ycombinator.com/item?id=48408031 Points: 115 # Comments: 103",
+      "summary": "Article URL: https://theintercept.com/2026/06/02/la-tilde-propaganda-latin-america-pentagon/ Comments URL: https://news.ycombinator.com/item?id=48408031 Points: 116 # Comments: 103",
       "source": "Hacker News",
       "published": "2026-06-05T04:38:41+00:00",
       "link": "https://theintercept.com/2026/06/02/la-tilde-propaganda-latin-america-pentagon/"
     },
     {
       "title": "Open Code Review – An AI-powered code review CLI tool",
-      "summary": "Article URL: https://github.com/alibaba/open-code-review Comments URL: https://news.ycombinator.com/item?id=48406358 Points: 263 # Comments: 67",
+      "summary": "Article URL: https://github.com/alibaba/open-code-review Comments URL: https://news.ycombinator.com/item?id=48406358 Points: 266 # Comments: 67",
       "source": "Hacker News",
       "published": "2026-06-05T00:04:29+00:00",
       "link": "https://github.com/alibaba/open-code-review"
     },
     {
       "title": "South Korean forums will need to scan every images with AI censorship tools",
-      "summary": "Article URL: https://discuss.privacyguides.net/t/south-korean-online-communities-will-need-to-scan-every-images-with-ai-censorship-tools/38341 Comments URL: https://news.ycombinator.com/item?id=48406198 Points: 242 # Comments: 143",
+      "summary": "Article URL: https://discuss.privacyguides.net/t/south-korean-online-communities-will-need-to-scan-every-images-with-ai-censorship-tools/38341 Comments URL: https://news.ycombinator.com/item?id=48406198 Points: 244 # Comments: 145",
       "source": "Hacker News",
       "published": "2026-06-04T23:45:56+00:00",
       "link": "https://discuss.privacyguides.net/t/south-korean-online-communities-will-need-to-scan-every-images-with-ai-censorship-tools/38341"
@@ -255,7 +269,7 @@ const FEED_DATA = {
     },
     {
       "title": "Anthropic's open-source framework for AI-powered vulnerability discovery",
-      "summary": "Article URL: https://github.com/anthropics/defending-code-reference-harness Comments URL: https://news.ycombinator.com/item?id=48403980 Points: 522 # Comments: 140",
+      "summary": "Article URL: https://github.com/anthropics/defending-code-reference-harness Comments URL: https://news.ycombinator.com/item?id=48403980 Points: 523 # Comments: 141",
       "source": "Hacker News",
       "published": "2026-06-04T20:11:20+00:00",
       "link": "https://github.com/anthropics/defending-code-reference-harness"
@@ -311,7 +325,7 @@ const FEED_DATA = {
     },
     {
       "title": "When AI Builds Itself: Our progress toward recursive self-improvement",
-      "summary": "Article URL: https://www.anthropic.com/institute/recursive-self-improvement Comments URL: https://news.ycombinator.com/item?id=48400842 Points: 509 # Comments: 684",
+      "summary": "Article URL: https://www.anthropic.com/institute/recursive-self-improvement Comments URL: https://news.ycombinator.com/item?id=48400842 Points: 510 # Comments: 687",
       "source": "Hacker News",
       "published": "2026-06-04T16:20:17+00:00",
       "link": "https://www.anthropic.com/institute/recursive-self-improvement"
@@ -339,7 +353,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI, Ashby Engineering, and the future",
-      "summary": "Article URL: https://www.ashbyhq.com/blog/engineering/ai-ashby-engineering-and-the-future Comments URL: https://news.ycombinator.com/item?id=48399528 Points: 60 # Comments: 54",
+      "summary": "Article URL: https://www.ashbyhq.com/blog/engineering/ai-ashby-engineering-and-the-future Comments URL: https://news.ycombinator.com/item?id=48399528 Points: 60 # Comments: 55",
       "source": "Hacker News",
       "published": "2026-06-04T14:48:44+00:00",
       "link": "https://www.ashbyhq.com/blog/engineering/ai-ashby-engineering-and-the-future"
@@ -458,7 +472,7 @@ const FEED_DATA = {
     },
     {
       "title": "Failing grades soar with AI usage, dwindling math skills in Berkeley CS classes",
-      "summary": "Article URL: https://www.dailycal.org/news/campus/academics/failing-grades-soar-as-professors-see-greater-ai-usage-dwindling-math-skills-in-uc-berkeley/article_16fad0bf-02cb-4b8c-8d88-888ffd9f8608.html Comments URL: https://news.ycombinator.com/item?id=48392004 Points: 814 #...",
+      "summary": "Article URL: https://www.dailycal.org/news/campus/academics/failing-grades-soar-as-professors-see-greater-ai-usage-dwindling-math-skills-in-uc-berkeley/article_16fad0bf-02cb-4b8c-8d88-888ffd9f8608.html Comments URL: https://news.ycombinator.com/item?id=48392004 Points: 815 #...",
       "source": "Hacker News",
       "published": "2026-06-04T00:18:02+00:00",
       "link": "https://www.dailycal.org/news/campus/academics/failing-grades-soar-as-professors-see-greater-ai-usage-dwindling-math-skills-in-uc-berkeley/article_16fad0bf-02cb-4b8c-8d88-888ffd9f8608.html"
@@ -549,7 +563,7 @@ const FEED_DATA = {
     },
     {
       "title": "Artificial intelligence is not conscious – Ted Chiang",
-      "summary": "https://archive.is/bcpZl Comments URL: https://news.ycombinator.com/item?id=48387270 Points: 771 # Comments: 1353",
+      "summary": "https://archive.is/bcpZl Comments URL: https://news.ycombinator.com/item?id=48387270 Points: 772 # Comments: 1353",
       "source": "Hacker News",
       "published": "2026-06-03T17:51:37+00:00",
       "link": "https://www.theatlantic.com/philosophy/2026/06/no-artificial-intelligence-is-not-conscious/687378/"
@@ -640,7 +654,7 @@ const FEED_DATA = {
     },
     {
       "title": "32GB of DDR5 now costs $375 – AI shortage continues to squeeze PC building",
-      "summary": "Article URL: https://www.tomshardware.com/pc-components/ddr5/32gb-of-ddr5-now-costs-usd375-minimum-ai-shortage-continues-to-squeeze-pc-building Comments URL: https://news.ycombinator.com/item?id=48383241 Points: 429 # Comments: 390",
+      "summary": "Article URL: https://www.tomshardware.com/pc-components/ddr5/32gb-of-ddr5-now-costs-usd375-minimum-ai-shortage-continues-to-squeeze-pc-building Comments URL: https://news.ycombinator.com/item?id=48383241 Points: 429 # Comments: 391",
       "source": "Hacker News",
       "published": "2026-06-03T12:43:43+00:00",
       "link": "https://www.tomshardware.com/pc-components/ddr5/32gb-of-ddr5-now-costs-usd375-minimum-ai-shortage-continues-to-squeeze-pc-building"
@@ -1386,20 +1400,6 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-05-31T08:45:46+00:00",
       "link": "https://the-decoder.com/softbank-plans-75-billion-euro-ai-data-center-buildout-in-france/"
-    },
-    {
-      "title": "AI search agents often confirm what they already know instead of actually researching the web",
-      "summary": "Leading AI search agents like GPT-5.4 and Kimi K2.6 don't appear to do much actual research on established benchmarks. They mostly just use the web to confirm what they already learned during training.",
-      "source": "The Decoder",
-      "published": "2026-05-31T07:48:41+00:00",
-      "link": "https://the-decoder.com/ai-search-agents-often-confirm-what-they-already-know-instead-of-actually-researching-the-web/"
-    },
-    {
-      "title": "AI grifters are creating fake Black people to sell Shein junk",
-      "summary": "Article URL: https://www.theverge.com/ai-artificial-intelligence/938844/ai-tiktok-shop-blackface-shein-dropshipping Comments URL: https://news.ycombinator.com/item?id=48341921 Points: 51 # Comments: 15",
-      "source": "Hacker News",
-      "published": "2026-05-31T00:23:33+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/938844/ai-tiktok-shop-blackface-shein-dropshipping"
     }
   ]
 };
