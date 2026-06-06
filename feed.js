@@ -1,6 +1,48 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-06-06T10:47:50.039558+00:00",
+  "lastUpdated": "2026-06-06T14:42:58.208562+00:00",
   "items": [
+    {
+      "title": "Meta made its own AI-generated clickbait news feed",
+      "summary": "Facebook has long been filled with feeds of clickbait articles. Now, Meta is making its own clickbait articles with AI.",
+      "source": "The Verge",
+      "published": "2026-06-06T14:00:00+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/944235/meta-app-ai-clickbait-articles"
+    },
+    {
+      "title": "Sakana AI bets AI that improves itself can break the compute arms race of frontier labs",
+      "summary": "Sakana AI has launched a dedicated research lab for recursive self-improvement: AI that iteratively improves itself. The Japanese startup, co-founded by Transformer co-author Llion Jones, sees RSI as an alternative to the raw compute arms race among big US labs.",
+      "source": "The Decoder",
+      "published": "2026-06-06T13:57:52+00:00",
+      "link": "https://the-decoder.com/sakana-ai-bets-ai-that-improves-itself-can-break-the-compute-arms-race-of-frontier-labs/"
+    },
+    {
+      "title": "Here comes new Siri again",
+      "summary": "Apple has been on its back foot, AI-wise, for the past few years. But in a strange way, playing from behind might not be such a bad move.",
+      "source": "The Verge",
+      "published": "2026-06-06T12:00:00+00:00",
+      "link": "https://www.theverge.com/tech/944245/apple-wwdc-2026-ai-siri-gemini"
+    },
+    {
+      "title": "Meta's Hatch AI agent could cost up to $200 a month and marks its first paid AI product",
+      "summary": "Meta is developing a paid AI agent product called \"Hatch\" that could cost up to $200 per month. Users describe what they need in simple language, and Hatch builds working tools, schedules appointments, or sends emails.",
+      "source": "The Decoder",
+      "published": "2026-06-06T11:42:08+00:00",
+      "link": "https://the-decoder.com/metas-hatch-ai-agent-could-cost-up-to-200-a-month-and-marks-its-first-paid-ai-product/"
+    },
+    {
+      "title": "Elon Musk's xAI reportedly trained its coding models on Claude outputs for months before getting cut off",
+      "summary": "Elon Musk's xAI used Anthropic's Claude to train its own coding models for months and kept going even after Anthropic cut off access, using private accounts and the Blackbox AI service.",
+      "source": "The Decoder",
+      "published": "2026-06-06T11:22:28+00:00",
+      "link": "https://the-decoder.com/elon-musks-xai-reportedly-trained-its-coding-models-on-claude-outputs-for-months-before-getting-cut-off/"
+    },
+    {
+      "title": "New open-source voice model listens nonstop and decides every 0.4 seconds whether to speak or stay silent",
+      "summary": "Unlike GPT-4o or Qwen3.5-Omni, Audio Interaction doesn't wait for a recording to end: it translates, transcribes, chats, and picks up everyday noises like coughing in a single stream.",
+      "source": "The Decoder",
+      "published": "2026-06-06T10:50:21+00:00",
+      "link": "https://the-decoder.com/new-open-source-voice-model-listens-nonstop-and-decides-every-0-4-seconds-whether-to-speak-or-stay-silent/"
+    },
     {
       "title": "Crypto-Funded Chinese Peptide Labs Are Booming",
       "summary": "Plus: Hackers use Meta’s AI bots to hack Instagram accounts, Anthropic helps NSA hackers, a decades-long GPS satellite mystery may have been solved, and more.",
@@ -45,7 +87,7 @@ const FEED_DATA = {
     },
     {
       "title": "Hacker News, Sans AI",
-      "summary": "Article URL: https://elijahpotter.dev/articles/hacker-news-sans-AI Comments URL: https://news.ycombinator.com/item?id=48417916 Points: 168 # Comments: 95",
+      "summary": "Article URL: https://elijahpotter.dev/articles/hacker-news-sans-AI Comments URL: https://news.ycombinator.com/item?id=48417916 Points: 174 # Comments: 97",
       "source": "Hacker News",
       "published": "2026-06-05T20:38:40+00:00",
       "link": "https://elijahpotter.dev/articles/hacker-news-sans-AI"
@@ -213,7 +255,7 @@ const FEED_DATA = {
     },
     {
       "title": "Fine-tuning an LLM to write docs like it's 1995",
-      "summary": "Article URL: https://passo.uno/fine-tuning-docs-llm/ Comments URL: https://news.ycombinator.com/item?id=48408442 Points: 185 # Comments: 65",
+      "summary": "Article URL: https://passo.uno/fine-tuning-docs-llm/ Comments URL: https://news.ycombinator.com/item?id=48408442 Points: 188 # Comments: 66",
       "source": "Hacker News",
       "published": "2026-06-05T05:46:06+00:00",
       "link": "https://passo.uno/fine-tuning-docs-llm/"
@@ -227,21 +269,21 @@ const FEED_DATA = {
     },
     {
       "title": "The Pentagon is running an AI propaganda mill targeting Latin America",
-      "summary": "Article URL: https://theintercept.com/2026/06/02/la-tilde-propaganda-latin-america-pentagon/ Comments URL: https://news.ycombinator.com/item?id=48408031 Points: 116 # Comments: 103",
+      "summary": "Article URL: https://theintercept.com/2026/06/02/la-tilde-propaganda-latin-america-pentagon/ Comments URL: https://news.ycombinator.com/item?id=48408031 Points: 117 # Comments: 106",
       "source": "Hacker News",
       "published": "2026-06-05T04:38:41+00:00",
       "link": "https://theintercept.com/2026/06/02/la-tilde-propaganda-latin-america-pentagon/"
     },
     {
       "title": "Open Code Review – An AI-powered code review CLI tool",
-      "summary": "Article URL: https://github.com/alibaba/open-code-review Comments URL: https://news.ycombinator.com/item?id=48406358 Points: 266 # Comments: 67",
+      "summary": "Article URL: https://github.com/alibaba/open-code-review Comments URL: https://news.ycombinator.com/item?id=48406358 Points: 267 # Comments: 67",
       "source": "Hacker News",
       "published": "2026-06-05T00:04:29+00:00",
       "link": "https://github.com/alibaba/open-code-review"
     },
     {
       "title": "South Korean forums will need to scan every images with AI censorship tools",
-      "summary": "Article URL: https://discuss.privacyguides.net/t/south-korean-online-communities-will-need-to-scan-every-images-with-ai-censorship-tools/38341 Comments URL: https://news.ycombinator.com/item?id=48406198 Points: 244 # Comments: 145",
+      "summary": "Article URL: https://discuss.privacyguides.net/t/south-korean-online-communities-will-need-to-scan-every-images-with-ai-censorship-tools/38341 Comments URL: https://news.ycombinator.com/item?id=48406198 Points: 253 # Comments: 145",
       "source": "Hacker News",
       "published": "2026-06-04T23:45:56+00:00",
       "link": "https://discuss.privacyguides.net/t/south-korean-online-communities-will-need-to-scan-every-images-with-ai-censorship-tools/38341"
@@ -269,7 +311,7 @@ const FEED_DATA = {
     },
     {
       "title": "Anthropic's open-source framework for AI-powered vulnerability discovery",
-      "summary": "Article URL: https://github.com/anthropics/defending-code-reference-harness Comments URL: https://news.ycombinator.com/item?id=48403980 Points: 523 # Comments: 141",
+      "summary": "Article URL: https://github.com/anthropics/defending-code-reference-harness Comments URL: https://news.ycombinator.com/item?id=48403980 Points: 526 # Comments: 141",
       "source": "Hacker News",
       "published": "2026-06-04T20:11:20+00:00",
       "link": "https://github.com/anthropics/defending-code-reference-harness"
@@ -325,7 +367,7 @@ const FEED_DATA = {
     },
     {
       "title": "When AI Builds Itself: Our progress toward recursive self-improvement",
-      "summary": "Article URL: https://www.anthropic.com/institute/recursive-self-improvement Comments URL: https://news.ycombinator.com/item?id=48400842 Points: 510 # Comments: 687",
+      "summary": "Article URL: https://www.anthropic.com/institute/recursive-self-improvement Comments URL: https://news.ycombinator.com/item?id=48400842 Points: 515 # Comments: 688",
       "source": "Hacker News",
       "published": "2026-06-04T16:20:17+00:00",
       "link": "https://www.anthropic.com/institute/recursive-self-improvement"
@@ -346,7 +388,7 @@ const FEED_DATA = {
     },
     {
       "title": "The LLM warnings Google fired Timnit Gebru over have all come true",
-      "summary": "Article URL: https://www.tumblr.com/dreaminginthedeepsouth/817865966907228160/darren-oconnor-timnit-gebru-was-fired-from Comments URL: https://news.ycombinator.com/item?id=48400213 Points: 118 # Comments: 113",
+      "summary": "Article URL: https://www.tumblr.com/dreaminginthedeepsouth/817865966907228160/darren-oconnor-timnit-gebru-was-fired-from Comments URL: https://news.ycombinator.com/item?id=48400213 Points: 119 # Comments: 113",
       "source": "Hacker News",
       "published": "2026-06-04T15:34:43+00:00",
       "link": "https://www.tumblr.com/dreaminginthedeepsouth/817865966907228160/darren-oconnor-timnit-gebru-was-fired-from"
@@ -472,7 +514,7 @@ const FEED_DATA = {
     },
     {
       "title": "Failing grades soar with AI usage, dwindling math skills in Berkeley CS classes",
-      "summary": "Article URL: https://www.dailycal.org/news/campus/academics/failing-grades-soar-as-professors-see-greater-ai-usage-dwindling-math-skills-in-uc-berkeley/article_16fad0bf-02cb-4b8c-8d88-888ffd9f8608.html Comments URL: https://news.ycombinator.com/item?id=48392004 Points: 815 #...",
+      "summary": "Article URL: https://www.dailycal.org/news/campus/academics/failing-grades-soar-as-professors-see-greater-ai-usage-dwindling-math-skills-in-uc-berkeley/article_16fad0bf-02cb-4b8c-8d88-888ffd9f8608.html Comments URL: https://news.ycombinator.com/item?id=48392004 Points: 817 #...",
       "source": "Hacker News",
       "published": "2026-06-04T00:18:02+00:00",
       "link": "https://www.dailycal.org/news/campus/academics/failing-grades-soar-as-professors-see-greater-ai-usage-dwindling-math-skills-in-uc-berkeley/article_16fad0bf-02cb-4b8c-8d88-888ffd9f8608.html"
@@ -563,7 +605,7 @@ const FEED_DATA = {
     },
     {
       "title": "Artificial intelligence is not conscious – Ted Chiang",
-      "summary": "https://archive.is/bcpZl Comments URL: https://news.ycombinator.com/item?id=48387270 Points: 772 # Comments: 1353",
+      "summary": "https://archive.is/bcpZl Comments URL: https://news.ycombinator.com/item?id=48387270 Points: 774 # Comments: 1354",
       "source": "Hacker News",
       "published": "2026-06-03T17:51:37+00:00",
       "link": "https://www.theatlantic.com/philosophy/2026/06/no-artificial-intelligence-is-not-conscious/687378/"
@@ -1358,48 +1400,6 @@ const FEED_DATA = {
       "source": "Hacker News",
       "published": "2026-05-31T14:20:12+00:00",
       "link": "https://www.vox.com/future-perfect/489976/ai-successionism-transhumanism-posthumanism"
-    },
-    {
-      "title": "I went looking for the AI weed vape that gives you Bitcoin for smoking",
-      "summary": "The crypto weed vape found me on 4/20, the high holiday of cannabis enthusiasts everywhere. It arrived over Slack with the thumbnail of a man exhaling a plume of vapor, the words \"every hit delivers Bitcoin\" emblazoned across it.",
-      "source": "The Verge",
-      "published": "2026-05-31T13:00:00+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/933916/ai-powered-crypto-cannabis-vape"
-    },
-    {
-      "title": "Ask AI what goes with chicken and the answer depends on whether it learned from recipes or molecules",
-      "summary": "With \"Epicure,\" London-based startup Kaikaku.AI presents three AI models that are the first to clearly separate whether an ingredient fits a recipe or is chemically related.",
-      "source": "The Decoder",
-      "published": "2026-05-31T11:37:20+00:00",
-      "link": "https://the-decoder.com/ask-ai-what-goes-with-chicken-and-the-answer-depends-on-whether-it-learned-from-recipes-or-molecules/"
-    },
-    {
-      "title": "Anthropic bans AI tools during job interviews to see how candidates actually think",
-      "summary": "Anthropic bans AI during job interviews and runs candidates through up to five rounds testing skills, values, and ethical thinking. Salaries go up to $850,000, and some applicants pay $4,600 for prep coaching run anonymously by current AI company employees.",
-      "source": "The Decoder",
-      "published": "2026-05-31T10:10:14+00:00",
-      "link": "https://the-decoder.com/anthropic-bans-ai-tools-during-job-interviews-to-see-how-candidates-actually-think/"
-    },
-    {
-      "title": "Anthropic study finds men use AI coding agents more than twice as often as women in social science research",
-      "summary": "Researchers with typically male names use coding agents more than twice as often as those with typically female names, even within the same discipline and career level, according to an Anthropic study.",
-      "source": "The Decoder",
-      "published": "2026-05-31T09:42:11+00:00",
-      "link": "https://the-decoder.com/anthropic-study-finds-men-use-ai-coding-agents-more-than-twice-as-often-as-women-in-social-science-research/"
-    },
-    {
-      "title": "How Turkey Hacked the Hair Transplant Industry",
-      "summary": "From specialized motors to the use of machine learning algorithms, Turkey’s billion-dollar hair-transplant industry is the result of a constant process of innovation.",
-      "source": "Wired",
-      "published": "2026-05-31T09:00:00+00:00",
-      "link": "https://www.wired.com/story/how-turkey-hacked-the-hair-transplant-industry/"
-    },
-    {
-      "title": "SoftBank plans 75 billion euro AI data center buildout in France",
-      "summary": "SoftBank plans to build AI data centers with up to 5 gigawatts of capacity in France, the company's largest AI infrastructure investment in Europe, at up to 75 billion euros. By 2031, facilities worth 45 billion euros are set to go up at three sites in northern France.",
-      "source": "The Decoder",
-      "published": "2026-05-31T08:45:46+00:00",
-      "link": "https://the-decoder.com/softbank-plans-75-billion-euro-ai-data-center-buildout-in-france/"
     }
   ]
 };
