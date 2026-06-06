@@ -1,6 +1,27 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-06-06T14:42:58.208562+00:00",
+  "lastUpdated": "2026-06-06T18:02:19.016660+00:00",
   "items": [
+    {
+      "title": "Sriram Krishnan is leaving his role as White House AI advisor",
+      "summary": "Krishnan is reportedly starting a new institution to continue shaping Trump's AI policy.",
+      "source": "TechCrunch",
+      "published": "2026-06-06T17:42:15+00:00",
+      "link": "https://techcrunch.com/2026/06/06/sriram-krishnan-is-leaving-his-role-as-white-house-ai-advisor/"
+    },
+    {
+      "title": "The Trump administration might take an equity stake in OpenAI",
+      "summary": "President Donald Trump said he's discussing deals \"where the American people can benefit from the success of AI.\"",
+      "source": "TechCrunch",
+      "published": "2026-06-06T16:17:21+00:00",
+      "link": "https://techcrunch.com/2026/06/06/the-trump-administration-might-take-an-equity-stake-in-openai/"
+    },
+    {
+      "title": "Police in England and Wales told to halt AI use in court statements",
+      "summary": "Article URL: https://www.ft.com/content/229e5949-3ebc-4151-8a86-a01b5e259241 Comments URL: https://news.ycombinator.com/item?id=48426022 Points: 69 # Comments: 20",
+      "source": "Hacker News",
+      "published": "2026-06-06T15:35:49+00:00",
+      "link": "https://www.ft.com/content/229e5949-3ebc-4151-8a86-a01b5e259241"
+    },
     {
       "title": "Meta made its own AI-generated clickbait news feed",
       "summary": "Facebook has long been filled with feeds of clickbait articles. Now, Meta is making its own clickbait articles with AI.",
@@ -14,6 +35,13 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-06-06T13:57:52+00:00",
       "link": "https://the-decoder.com/sakana-ai-bets-ai-that-improves-itself-can-break-the-compute-arms-race-of-frontier-labs/"
+    },
+    {
+      "title": "US House lawmakers release draft bill to prohibit state AI rules",
+      "summary": "Article URL: https://www.reuters.com/business/us-house-lawmakers-release-draft-bill-regulate-ai-2026-06-04/ Comments URL: https://news.ycombinator.com/item?id=48425031 Points: 83 # Comments: 42",
+      "source": "Hacker News",
+      "published": "2026-06-06T13:40:22+00:00",
+      "link": "https://www.reuters.com/business/us-house-lawmakers-release-draft-bill-regulate-ai-2026-06-04/"
     },
     {
       "title": "Here comes new Siri again",
@@ -87,7 +115,7 @@ const FEED_DATA = {
     },
     {
       "title": "Hacker News, Sans AI",
-      "summary": "Article URL: https://elijahpotter.dev/articles/hacker-news-sans-AI Comments URL: https://news.ycombinator.com/item?id=48417916 Points: 174 # Comments: 97",
+      "summary": "Article URL: https://elijahpotter.dev/articles/hacker-news-sans-AI Comments URL: https://news.ycombinator.com/item?id=48417916 Points: 177 # Comments: 97",
       "source": "Hacker News",
       "published": "2026-06-05T20:38:40+00:00",
       "link": "https://elijahpotter.dev/articles/hacker-news-sans-AI"
@@ -255,7 +283,7 @@ const FEED_DATA = {
     },
     {
       "title": "Fine-tuning an LLM to write docs like it's 1995",
-      "summary": "Article URL: https://passo.uno/fine-tuning-docs-llm/ Comments URL: https://news.ycombinator.com/item?id=48408442 Points: 188 # Comments: 66",
+      "summary": "Article URL: https://passo.uno/fine-tuning-docs-llm/ Comments URL: https://news.ycombinator.com/item?id=48408442 Points: 189 # Comments: 66",
       "source": "Hacker News",
       "published": "2026-06-05T05:46:06+00:00",
       "link": "https://passo.uno/fine-tuning-docs-llm/"
@@ -269,21 +297,21 @@ const FEED_DATA = {
     },
     {
       "title": "The Pentagon is running an AI propaganda mill targeting Latin America",
-      "summary": "Article URL: https://theintercept.com/2026/06/02/la-tilde-propaganda-latin-america-pentagon/ Comments URL: https://news.ycombinator.com/item?id=48408031 Points: 117 # Comments: 106",
+      "summary": "Article URL: https://theintercept.com/2026/06/02/la-tilde-propaganda-latin-america-pentagon/ Comments URL: https://news.ycombinator.com/item?id=48408031 Points: 118 # Comments: 107",
       "source": "Hacker News",
       "published": "2026-06-05T04:38:41+00:00",
       "link": "https://theintercept.com/2026/06/02/la-tilde-propaganda-latin-america-pentagon/"
     },
     {
       "title": "Open Code Review – An AI-powered code review CLI tool",
-      "summary": "Article URL: https://github.com/alibaba/open-code-review Comments URL: https://news.ycombinator.com/item?id=48406358 Points: 267 # Comments: 67",
+      "summary": "Article URL: https://github.com/alibaba/open-code-review Comments URL: https://news.ycombinator.com/item?id=48406358 Points: 270 # Comments: 68",
       "source": "Hacker News",
       "published": "2026-06-05T00:04:29+00:00",
       "link": "https://github.com/alibaba/open-code-review"
     },
     {
       "title": "South Korean forums will need to scan every images with AI censorship tools",
-      "summary": "Article URL: https://discuss.privacyguides.net/t/south-korean-online-communities-will-need-to-scan-every-images-with-ai-censorship-tools/38341 Comments URL: https://news.ycombinator.com/item?id=48406198 Points: 253 # Comments: 145",
+      "summary": "Article URL: https://discuss.privacyguides.net/t/south-korean-online-communities-will-need-to-scan-every-images-with-ai-censorship-tools/38341 Comments URL: https://news.ycombinator.com/item?id=48406198 Points: 257 # Comments: 145",
       "source": "Hacker News",
       "published": "2026-06-04T23:45:56+00:00",
       "link": "https://discuss.privacyguides.net/t/south-korean-online-communities-will-need-to-scan-every-images-with-ai-censorship-tools/38341"
@@ -311,7 +339,7 @@ const FEED_DATA = {
     },
     {
       "title": "Anthropic's open-source framework for AI-powered vulnerability discovery",
-      "summary": "Article URL: https://github.com/anthropics/defending-code-reference-harness Comments URL: https://news.ycombinator.com/item?id=48403980 Points: 526 # Comments: 141",
+      "summary": "Article URL: https://github.com/anthropics/defending-code-reference-harness Comments URL: https://news.ycombinator.com/item?id=48403980 Points: 531 # Comments: 141",
       "source": "Hacker News",
       "published": "2026-06-04T20:11:20+00:00",
       "link": "https://github.com/anthropics/defending-code-reference-harness"
@@ -367,7 +395,7 @@ const FEED_DATA = {
     },
     {
       "title": "When AI Builds Itself: Our progress toward recursive self-improvement",
-      "summary": "Article URL: https://www.anthropic.com/institute/recursive-self-improvement Comments URL: https://news.ycombinator.com/item?id=48400842 Points: 515 # Comments: 688",
+      "summary": "Article URL: https://www.anthropic.com/institute/recursive-self-improvement Comments URL: https://news.ycombinator.com/item?id=48400842 Points: 517 # Comments: 689",
       "source": "Hacker News",
       "published": "2026-06-04T16:20:17+00:00",
       "link": "https://www.anthropic.com/institute/recursive-self-improvement"
@@ -388,7 +416,7 @@ const FEED_DATA = {
     },
     {
       "title": "The LLM warnings Google fired Timnit Gebru over have all come true",
-      "summary": "Article URL: https://www.tumblr.com/dreaminginthedeepsouth/817865966907228160/darren-oconnor-timnit-gebru-was-fired-from Comments URL: https://news.ycombinator.com/item?id=48400213 Points: 119 # Comments: 113",
+      "summary": "Article URL: https://www.tumblr.com/dreaminginthedeepsouth/817865966907228160/darren-oconnor-timnit-gebru-was-fired-from Comments URL: https://news.ycombinator.com/item?id=48400213 Points: 120 # Comments: 113",
       "source": "Hacker News",
       "published": "2026-06-04T15:34:43+00:00",
       "link": "https://www.tumblr.com/dreaminginthedeepsouth/817865966907228160/darren-oconnor-timnit-gebru-was-fired-from"
@@ -514,7 +542,7 @@ const FEED_DATA = {
     },
     {
       "title": "Failing grades soar with AI usage, dwindling math skills in Berkeley CS classes",
-      "summary": "Article URL: https://www.dailycal.org/news/campus/academics/failing-grades-soar-as-professors-see-greater-ai-usage-dwindling-math-skills-in-uc-berkeley/article_16fad0bf-02cb-4b8c-8d88-888ffd9f8608.html Comments URL: https://news.ycombinator.com/item?id=48392004 Points: 817 #...",
+      "summary": "Article URL: https://www.dailycal.org/news/campus/academics/failing-grades-soar-as-professors-see-greater-ai-usage-dwindling-math-skills-in-uc-berkeley/article_16fad0bf-02cb-4b8c-8d88-888ffd9f8608.html Comments URL: https://news.ycombinator.com/item?id=48392004 Points: 820 #...",
       "source": "Hacker News",
       "published": "2026-06-04T00:18:02+00:00",
       "link": "https://www.dailycal.org/news/campus/academics/failing-grades-soar-as-professors-see-greater-ai-usage-dwindling-math-skills-in-uc-berkeley/article_16fad0bf-02cb-4b8c-8d88-888ffd9f8608.html"
@@ -528,7 +556,7 @@ const FEED_DATA = {
     },
     {
       "title": "Show HN: Mnemo – local-first AI memory layer for any LLM (Rust, SQLite,petgraph)",
-      "summary": "Article URL: https://github.com/zaydmulani09/mnemo Comments URL: https://news.ycombinator.com/item?id=48389586 Points: 59 # Comments: 26",
+      "summary": "Article URL: https://github.com/zaydmulani09/mnemo Comments URL: https://news.ycombinator.com/item?id=48389586 Points: 59 # Comments: 28",
       "source": "Hacker News",
       "published": "2026-06-03T20:32:10+00:00",
       "link": "https://github.com/zaydmulani09/mnemo"
@@ -605,7 +633,7 @@ const FEED_DATA = {
     },
     {
       "title": "Artificial intelligence is not conscious – Ted Chiang",
-      "summary": "https://archive.is/bcpZl Comments URL: https://news.ycombinator.com/item?id=48387270 Points: 774 # Comments: 1354",
+      "summary": "https://archive.is/bcpZl Comments URL: https://news.ycombinator.com/item?id=48387270 Points: 774 # Comments: 1358",
       "source": "Hacker News",
       "published": "2026-06-03T17:51:37+00:00",
       "link": "https://www.theatlantic.com/philosophy/2026/06/no-artificial-intelligence-is-not-conscious/687378/"
@@ -1372,34 +1400,6 @@ const FEED_DATA = {
       "source": "Hacker News",
       "published": "2026-05-31T16:37:34+00:00",
       "link": "https://darylcecile.net/notes/speed-of-prototyping-age-of-ai"
-    },
-    {
-      "title": "Odysseus – self-hosted AI workspace",
-      "summary": "Article URL: https://github.com/pewdiepie-archdaemon/odysseus Comments URL: https://news.ycombinator.com/item?id=48346693 Points: 227 # Comments: 99",
-      "source": "Hacker News",
-      "published": "2026-05-31T15:50:34+00:00",
-      "link": "https://github.com/pewdiepie-archdaemon/odysseus"
-    },
-    {
-      "title": "Making sense of the debate over AI psychosis",
-      "summary": "On the latest episode of Equity, we debate whether tech CEOs are \"uniquely prone to AI psychosis.\"",
-      "source": "TechCrunch",
-      "published": "2026-05-31T15:30:00+00:00",
-      "link": "https://techcrunch.com/2026/05/31/making-sense-of-the-debate-over-ai-psychosis/"
-    },
-    {
-      "title": "The solution might be cancelling my AI subscription",
-      "summary": "Article URL: https://thoughts.hmmz.org/2026-05-31.html Comments URL: https://news.ycombinator.com/item?id=48345896 Points: 383 # Comments: 239",
-      "source": "Hacker News",
-      "published": "2026-05-31T14:23:30+00:00",
-      "link": "https://thoughts.hmmz.org/2026-05-31.html"
-    },
-    {
-      "title": "The people who actually want AI to replace humanity",
-      "summary": "Article URL: https://www.vox.com/future-perfect/489976/ai-successionism-transhumanism-posthumanism Comments URL: https://news.ycombinator.com/item?id=48345881 Points: 81 # Comments: 89",
-      "source": "Hacker News",
-      "published": "2026-05-31T14:20:12+00:00",
-      "link": "https://www.vox.com/future-perfect/489976/ai-successionism-transhumanism-posthumanism"
     }
   ]
 };
