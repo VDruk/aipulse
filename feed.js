@@ -1,6 +1,20 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-06-07T10:58:23.849497+00:00",
+  "lastUpdated": "2026-06-07T14:53:45.925858+00:00",
   "items": [
+    {
+      "title": "AI ‘content creators’ are getting harder to spot",
+      "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on AI confusion, follow Robert Hart.",
+      "source": "The Verge",
+      "published": "2026-06-07T12:00:00+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/943187/ai-content-creators"
+    },
+    {
+      "title": "OpenAI says \"chat is dead\" and plans to rebuild ChatGPT as a full-blown agent app",
+      "summary": "OpenAI is planning the biggest overhaul of ChatGPT since its launch. The chatbot will become a \"superapp\" bundling coding tools, AI agents, and partner apps like Canva and Booking.com.",
+      "source": "The Decoder",
+      "published": "2026-06-07T11:15:28+00:00",
+      "link": "https://the-decoder.com/openai-says-chat-is-dead-and-plans-to-rebuild-chatgpt-as-a-full-blown-agent-app/"
+    },
     {
       "title": "Perplexity's \"Search as Code\" lets AI models write their own search pipelines instead of calling fixed APIs",
       "summary": "Perplexity's new \"Search as Code\" architecture dumps rigid search APIs and lets AI models write their own search routines in Python.",
@@ -1386,20 +1400,6 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-06-01T13:17:03+00:00",
       "link": "https://the-decoder.com/nvidia-pitches-rtx-spark-as-the-chip-that-finally-makes-local-ai-agents-practical-on-windows-devices/"
-    },
-    {
-      "title": "The Download: China’s brain implant ambitions",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.",
-      "source": "MIT Tech Review",
-      "published": "2026-06-01T12:10:00+00:00",
-      "link": "https://www.technologyreview.com/2026/06/01/1138207/the-download-china-bci-brain-implant-nvidia-ai-chips-laptops/"
-    },
-    {
-      "title": "When AI Crosses the Line: The Matplotlib Incident",
-      "summary": "Article URL: https://members.sigmazero.cc/posts/when-ai-crosses-159174096?postId=when-ai-crosses-159174096 Comments URL: https://news.ycombinator.com/item?id=48355751 Points: 133 # Comments: 153",
-      "source": "Hacker News",
-      "published": "2026-06-01T12:08:23+00:00",
-      "link": "https://members.sigmazero.cc/posts/when-ai-crosses-159174096?postId=when-ai-crosses-159174096"
     }
   ]
 };
