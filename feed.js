@@ -1,6 +1,27 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-06-07T08:24:35.343521+00:00",
+  "lastUpdated": "2026-06-07T10:58:23.849497+00:00",
   "items": [
+    {
+      "title": "Perplexity's \"Search as Code\" lets AI models write their own search pipelines instead of calling fixed APIs",
+      "summary": "Perplexity's new \"Search as Code\" architecture dumps rigid search APIs and lets AI models write their own search routines in Python.",
+      "source": "The Decoder",
+      "published": "2026-06-07T10:28:33+00:00",
+      "link": "https://the-decoder.com/perplexitys-search-as-code-lets-ai-models-write-their-own-search-pipelines-instead-of-calling-fixed-apis/"
+    },
+    {
+      "title": "ChatGPT's new Lockdown Mode lets you disable web access and more to protect sensitive data from prompt injection",
+      "summary": "OpenAI's new Lockdown Mode for ChatGPT disables web access, Deep Research, and Agent Mode to make data theft through prompt injection attacks harder. The mode doesn't fully prevent such attacks, it only blocks the final step in an exfiltration chain.",
+      "source": "The Decoder",
+      "published": "2026-06-07T09:44:05+00:00",
+      "link": "https://the-decoder.com/chatgpts-new-lockdown-mode-lets-you-disable-web-access-and-more-to-protect-sensitive-data-from-prompt-injection/"
+    },
+    {
+      "title": "Anthropic poaches OpenAI's second-ever chip engineer as both companies race toward IPOs",
+      "summary": "Clive Chan, by his own account the second hardware employee in OpenAI's custom chip program, is moving to Anthropic. He brings experience from Tesla's Autopilot ASIC and the OpenAI-Broadcom partnership.",
+      "source": "The Decoder",
+      "published": "2026-06-07T08:33:06+00:00",
+      "link": "https://the-decoder.com/anthropic-poaches-openais-second-ever-chip-engineer-as-both-companies-race-toward-ipos/"
+    },
     {
       "title": "Researchers pinpoint why larger language models pick up skills that small ones miss",
       "summary": "Small language models fail at rare tasks because frequent ones constantly overwrite what they've learned.",
@@ -17,7 +38,7 @@ const FEED_DATA = {
     },
     {
       "title": "Meta confirms 1000s of Instagram accounts were hacked by abusing its AI chatbot",
-      "summary": "Article URL: https://this.weekinsecurity.com/meta-confirms-thousands-of-instagram-accounts-were-hacked-by-abusing-its-ai-chatbot/ Comments URL: https://news.ycombinator.com/item?id=48427643 Points: 564 # Comments: 204",
+      "summary": "Article URL: https://this.weekinsecurity.com/meta-confirms-thousands-of-instagram-accounts-were-hacked-by-abusing-its-ai-chatbot/ Comments URL: https://news.ycombinator.com/item?id=48427643 Points: 608 # Comments: 217",
       "source": "Hacker News",
       "published": "2026-06-06T18:35:27+00:00",
       "link": "https://this.weekinsecurity.com/meta-confirms-thousands-of-instagram-accounts-were-hacked-by-abusing-its-ai-chatbot/"
@@ -59,14 +80,14 @@ const FEED_DATA = {
     },
     {
       "title": "US House lawmakers release draft bill to prohibit state AI rules",
-      "summary": "Article URL: https://www.reuters.com/business/us-house-lawmakers-release-draft-bill-regulate-ai-2026-06-04/ Comments URL: https://news.ycombinator.com/item?id=48425031 Points: 117 # Comments: 77",
+      "summary": "Article URL: https://www.reuters.com/business/us-house-lawmakers-release-draft-bill-regulate-ai-2026-06-04/ Comments URL: https://news.ycombinator.com/item?id=48425031 Points: 119 # Comments: 78",
       "source": "Hacker News",
       "published": "2026-06-06T13:40:22+00:00",
       "link": "https://www.reuters.com/business/us-house-lawmakers-release-draft-bill-regulate-ai-2026-06-04/"
     },
     {
       "title": "Meta Keeps Delaying the Release of Its New AI Model to Developers",
-      "summary": "Article URL: https://www.wsj.com/tech/ai/meta-keeps-delaying-the-release-of-its-new-ai-model-to-developers-f8569c8c Comments URL: https://news.ycombinator.com/item?id=48424252 Points: 63 # Comments: 24",
+      "summary": "Article URL: https://www.wsj.com/tech/ai/meta-keeps-delaying-the-release-of-its-new-ai-model-to-developers-f8569c8c Comments URL: https://news.ycombinator.com/item?id=48424252 Points: 64 # Comments: 24",
       "source": "Hacker News",
       "published": "2026-06-06T12:15:59+00:00",
       "link": "https://www.wsj.com/tech/ai/meta-keeps-delaying-the-release-of-its-new-ai-model-to-developers-f8569c8c"
@@ -143,7 +164,7 @@ const FEED_DATA = {
     },
     {
       "title": "Hacker News, Sans AI",
-      "summary": "Article URL: https://elijahpotter.dev/articles/hacker-news-sans-AI Comments URL: https://news.ycombinator.com/item?id=48417916 Points: 181 # Comments: 100",
+      "summary": "Article URL: https://elijahpotter.dev/articles/hacker-news-sans-AI Comments URL: https://news.ycombinator.com/item?id=48417916 Points: 182 # Comments: 100",
       "source": "Hacker News",
       "published": "2026-06-05T20:38:40+00:00",
       "link": "https://elijahpotter.dev/articles/hacker-news-sans-AI"
@@ -185,7 +206,7 @@ const FEED_DATA = {
     },
     {
       "title": "Leak Reveals Microsoft Wants Its AI to Be 'Addictive'",
-      "summary": "Article URL: https://kotaku.com/microsoft-ai-scout-addictive-satya-nadella-404-media-copilot-2000702924 Comments URL: https://news.ycombinator.com/item?id=48413924 Points: 66 # Comments: 5",
+      "summary": "Article URL: https://kotaku.com/microsoft-ai-scout-addictive-satya-nadella-404-media-copilot-2000702924 Comments URL: https://news.ycombinator.com/item?id=48413924 Points: 67 # Comments: 5",
       "source": "Hacker News",
       "published": "2026-06-05T15:32:58+00:00",
       "link": "https://kotaku.com/microsoft-ai-scout-addictive-satya-nadella-404-media-copilot-2000702924"
@@ -339,7 +360,7 @@ const FEED_DATA = {
     },
     {
       "title": "South Korean forums will need to scan every images with AI censorship tools",
-      "summary": "Article URL: https://discuss.privacyguides.net/t/south-korean-online-communities-will-need-to-scan-every-images-with-ai-censorship-tools/38341 Comments URL: https://news.ycombinator.com/item?id=48406198 Points: 267 # Comments: 148",
+      "summary": "Article URL: https://discuss.privacyguides.net/t/south-korean-online-communities-will-need-to-scan-every-images-with-ai-censorship-tools/38341 Comments URL: https://news.ycombinator.com/item?id=48406198 Points: 268 # Comments: 149",
       "source": "Hacker News",
       "published": "2026-06-04T23:45:56+00:00",
       "link": "https://discuss.privacyguides.net/t/south-korean-online-communities-will-need-to-scan-every-images-with-ai-censorship-tools/38341"
@@ -423,7 +444,7 @@ const FEED_DATA = {
     },
     {
       "title": "When AI Builds Itself: Our progress toward recursive self-improvement",
-      "summary": "Article URL: https://www.anthropic.com/institute/recursive-self-improvement Comments URL: https://news.ycombinator.com/item?id=48400842 Points: 523 # Comments: 691",
+      "summary": "Article URL: https://www.anthropic.com/institute/recursive-self-improvement Comments URL: https://news.ycombinator.com/item?id=48400842 Points: 523 # Comments: 692",
       "source": "Hacker News",
       "published": "2026-06-04T16:20:17+00:00",
       "link": "https://www.anthropic.com/institute/recursive-self-improvement"
@@ -1379,27 +1400,6 @@ const FEED_DATA = {
       "source": "Hacker News",
       "published": "2026-06-01T12:08:23+00:00",
       "link": "https://members.sigmazero.cc/posts/when-ai-crosses-159174096?postId=when-ai-crosses-159174096"
-    },
-    {
-      "title": "Norse Atlantic Airways Offers Dirt-Cheap Tickets. There’s a Catch",
-      "summary": "Dozens of people have complained to the Federal Trade Commission about Norse Atlantic Airways’ tech-first customer service operation. Some said they lost thousands of dollars.",
-      "source": "Wired",
-      "published": "2026-06-01T11:00:00+00:00",
-      "link": "https://www.wired.com/story/norse-airlines-ftc-complaints-ai-scams/"
-    },
-    {
-      "title": "China has approved the world’s first invasive brain-computer chip—here’s what’s next",
-      "summary": "One day last October, sitting in the courtyard of his house in China’s Henan province, Dong Hui decided to see if he could hold a pen to write. Dong, 39, had sustained spinal cord injuries in a car accident six years earlier that left him paralyzed from the neck down.",
-      "source": "MIT Tech Review",
-      "published": "2026-06-01T09:09:00+00:00",
-      "link": "https://www.technologyreview.com/2026/06/01/1138133/china-world-first-brain-chip/"
-    },
-    {
-      "title": "The future of automated trading with the best forex robot reviews",
-      "summary": "Automation is becoming a bigger part of how financial markets are approached, and forex trading is one area where this is becoming easier to notice.",
-      "source": "AI News",
-      "published": "2026-06-01T08:51:42+00:00",
-      "link": "https://www.artificialintelligence-news.com/news/the-future-of-automated-trading-with-the-best-forex-robot-reviews/"
     }
   ]
 };
