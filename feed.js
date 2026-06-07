@@ -1,5 +1,5 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-06-06T21:58:21.375071+00:00",
+  "lastUpdated": "2026-06-07T05:20:56.122366+00:00",
   "items": [
     {
       "title": "OpenAI unveils Lockdown Mode to protect sensitive data from prompt injection attacks",
@@ -10,7 +10,7 @@ const FEED_DATA = {
     },
     {
       "title": "Meta confirms 1000s of Instagram accounts were hacked by abusing its AI chatbot",
-      "summary": "Article URL: https://this.weekinsecurity.com/meta-confirms-thousands-of-instagram-accounts-were-hacked-by-abusing-its-ai-chatbot/ Comments URL: https://news.ycombinator.com/item?id=48427643 Points: 212 # Comments: 74",
+      "summary": "Article URL: https://this.weekinsecurity.com/meta-confirms-thousands-of-instagram-accounts-were-hacked-by-abusing-its-ai-chatbot/ Comments URL: https://news.ycombinator.com/item?id=48427643 Points: 502 # Comments: 181",
       "source": "Hacker News",
       "published": "2026-06-06T18:35:27+00:00",
       "link": "https://this.weekinsecurity.com/meta-confirms-thousands-of-instagram-accounts-were-hacked-by-abusing-its-ai-chatbot/"
@@ -31,7 +31,7 @@ const FEED_DATA = {
     },
     {
       "title": "Police in England and Wales told to halt AI use in court statements",
-      "summary": "Article URL: https://www.ft.com/content/229e5949-3ebc-4151-8a86-a01b5e259241 Comments URL: https://news.ycombinator.com/item?id=48426022 Points: 133 # Comments: 45",
+      "summary": "Article URL: https://www.ft.com/content/229e5949-3ebc-4151-8a86-a01b5e259241 Comments URL: https://news.ycombinator.com/item?id=48426022 Points: 146 # Comments: 45",
       "source": "Hacker News",
       "published": "2026-06-06T15:35:49+00:00",
       "link": "https://www.ft.com/content/229e5949-3ebc-4151-8a86-a01b5e259241"
@@ -52,14 +52,14 @@ const FEED_DATA = {
     },
     {
       "title": "US House lawmakers release draft bill to prohibit state AI rules",
-      "summary": "Article URL: https://www.reuters.com/business/us-house-lawmakers-release-draft-bill-regulate-ai-2026-06-04/ Comments URL: https://news.ycombinator.com/item?id=48425031 Points: 102 # Comments: 68",
+      "summary": "Article URL: https://www.reuters.com/business/us-house-lawmakers-release-draft-bill-regulate-ai-2026-06-04/ Comments URL: https://news.ycombinator.com/item?id=48425031 Points: 115 # Comments: 74",
       "source": "Hacker News",
       "published": "2026-06-06T13:40:22+00:00",
       "link": "https://www.reuters.com/business/us-house-lawmakers-release-draft-bill-regulate-ai-2026-06-04/"
     },
     {
       "title": "Meta Keeps Delaying the Release of Its New AI Model to Developers",
-      "summary": "Article URL: https://www.wsj.com/tech/ai/meta-keeps-delaying-the-release-of-its-new-ai-model-to-developers-f8569c8c Comments URL: https://news.ycombinator.com/item?id=48424252 Points: 59 # Comments: 21",
+      "summary": "Article URL: https://www.wsj.com/tech/ai/meta-keeps-delaying-the-release-of-its-new-ai-model-to-developers-f8569c8c Comments URL: https://news.ycombinator.com/item?id=48424252 Points: 63 # Comments: 22",
       "source": "Hacker News",
       "published": "2026-06-06T12:15:59+00:00",
       "link": "https://www.wsj.com/tech/ai/meta-keeps-delaying-the-release-of-its-new-ai-model-to-developers-f8569c8c"
@@ -129,14 +129,14 @@ const FEED_DATA = {
     },
     {
       "title": "Microsoft wants users to be addicted to Scout, their AI personal assistant",
-      "summary": "Article URL: https://disassociated.com/microsoft-users-addicted-ai-personal-assistant/ Comments URL: https://news.ycombinator.com/item?id=48419023 Points: 68 # Comments: 3",
+      "summary": "Article URL: https://disassociated.com/microsoft-users-addicted-ai-personal-assistant/ Comments URL: https://news.ycombinator.com/item?id=48419023 Points: 69 # Comments: 5",
       "source": "Hacker News",
       "published": "2026-06-05T22:12:58+00:00",
       "link": "https://disassociated.com/microsoft-users-addicted-ai-personal-assistant/"
     },
     {
       "title": "Hacker News, Sans AI",
-      "summary": "Article URL: https://elijahpotter.dev/articles/hacker-news-sans-AI Comments URL: https://news.ycombinator.com/item?id=48417916 Points: 179 # Comments: 98",
+      "summary": "Article URL: https://elijahpotter.dev/articles/hacker-news-sans-AI Comments URL: https://news.ycombinator.com/item?id=48417916 Points: 180 # Comments: 99",
       "source": "Hacker News",
       "published": "2026-06-05T20:38:40+00:00",
       "link": "https://elijahpotter.dev/articles/hacker-news-sans-AI"
@@ -304,7 +304,7 @@ const FEED_DATA = {
     },
     {
       "title": "Fine-tuning an LLM to write docs like it's 1995",
-      "summary": "Article URL: https://passo.uno/fine-tuning-docs-llm/ Comments URL: https://news.ycombinator.com/item?id=48408442 Points: 189 # Comments: 66",
+      "summary": "Article URL: https://passo.uno/fine-tuning-docs-llm/ Comments URL: https://news.ycombinator.com/item?id=48408442 Points: 190 # Comments: 65",
       "source": "Hacker News",
       "published": "2026-06-05T05:46:06+00:00",
       "link": "https://passo.uno/fine-tuning-docs-llm/"
@@ -318,21 +318,21 @@ const FEED_DATA = {
     },
     {
       "title": "The Pentagon is running an AI propaganda mill targeting Latin America",
-      "summary": "Article URL: https://theintercept.com/2026/06/02/la-tilde-propaganda-latin-america-pentagon/ Comments URL: https://news.ycombinator.com/item?id=48408031 Points: 118 # Comments: 108",
+      "summary": "Article URL: https://theintercept.com/2026/06/02/la-tilde-propaganda-latin-america-pentagon/ Comments URL: https://news.ycombinator.com/item?id=48408031 Points: 119 # Comments: 108",
       "source": "Hacker News",
       "published": "2026-06-05T04:38:41+00:00",
       "link": "https://theintercept.com/2026/06/02/la-tilde-propaganda-latin-america-pentagon/"
     },
     {
       "title": "Open Code Review – An AI-powered code review CLI tool",
-      "summary": "Article URL: https://github.com/alibaba/open-code-review Comments URL: https://news.ycombinator.com/item?id=48406358 Points: 272 # Comments: 68",
+      "summary": "Article URL: https://github.com/alibaba/open-code-review Comments URL: https://news.ycombinator.com/item?id=48406358 Points: 276 # Comments: 68",
       "source": "Hacker News",
       "published": "2026-06-05T00:04:29+00:00",
       "link": "https://github.com/alibaba/open-code-review"
     },
     {
       "title": "South Korean forums will need to scan every images with AI censorship tools",
-      "summary": "Article URL: https://discuss.privacyguides.net/t/south-korean-online-communities-will-need-to-scan-every-images-with-ai-censorship-tools/38341 Comments URL: https://news.ycombinator.com/item?id=48406198 Points: 260 # Comments: 145",
+      "summary": "Article URL: https://discuss.privacyguides.net/t/south-korean-online-communities-will-need-to-scan-every-images-with-ai-censorship-tools/38341 Comments URL: https://news.ycombinator.com/item?id=48406198 Points: 264 # Comments: 148",
       "source": "Hacker News",
       "published": "2026-06-04T23:45:56+00:00",
       "link": "https://discuss.privacyguides.net/t/south-korean-online-communities-will-need-to-scan-every-images-with-ai-censorship-tools/38341"
@@ -416,7 +416,7 @@ const FEED_DATA = {
     },
     {
       "title": "When AI Builds Itself: Our progress toward recursive self-improvement",
-      "summary": "Article URL: https://www.anthropic.com/institute/recursive-self-improvement Comments URL: https://news.ycombinator.com/item?id=48400842 Points: 519 # Comments: 689",
+      "summary": "Article URL: https://www.anthropic.com/institute/recursive-self-improvement Comments URL: https://news.ycombinator.com/item?id=48400842 Points: 521 # Comments: 690",
       "source": "Hacker News",
       "published": "2026-06-04T16:20:17+00:00",
       "link": "https://www.anthropic.com/institute/recursive-self-improvement"
@@ -444,7 +444,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI, Ashby Engineering, and the future",
-      "summary": "Article URL: https://www.ashbyhq.com/blog/engineering/ai-ashby-engineering-and-the-future Comments URL: https://news.ycombinator.com/item?id=48399528 Points: 60 # Comments: 55",
+      "summary": "Article URL: https://www.ashbyhq.com/blog/engineering/ai-ashby-engineering-and-the-future Comments URL: https://news.ycombinator.com/item?id=48399528 Points: 61 # Comments: 55",
       "source": "Hacker News",
       "published": "2026-06-04T14:48:44+00:00",
       "link": "https://www.ashbyhq.com/blog/engineering/ai-ashby-engineering-and-the-future"
@@ -563,7 +563,7 @@ const FEED_DATA = {
     },
     {
       "title": "Failing grades soar with AI usage, dwindling math skills in Berkeley CS classes",
-      "summary": "Article URL: https://www.dailycal.org/news/campus/academics/failing-grades-soar-as-professors-see-greater-ai-usage-dwindling-math-skills-in-uc-berkeley/article_16fad0bf-02cb-4b8c-8d88-888ffd9f8608.html Comments URL: https://news.ycombinator.com/item?id=48392004 Points: 821 #...",
+      "summary": "Article URL: https://www.dailycal.org/news/campus/academics/failing-grades-soar-as-professors-see-greater-ai-usage-dwindling-math-skills-in-uc-berkeley/article_16fad0bf-02cb-4b8c-8d88-888ffd9f8608.html Comments URL: https://news.ycombinator.com/item?id=48392004 Points: 822 #...",
       "source": "Hacker News",
       "published": "2026-06-04T00:18:02+00:00",
       "link": "https://www.dailycal.org/news/campus/academics/failing-grades-soar-as-professors-see-greater-ai-usage-dwindling-math-skills-in-uc-berkeley/article_16fad0bf-02cb-4b8c-8d88-888ffd9f8608.html"
