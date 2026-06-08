@@ -1,6 +1,48 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-06-08T12:54:17.167510+00:00",
+  "lastUpdated": "2026-06-08T16:49:46.189937+00:00",
   "items": [
+    {
+      "title": "NotebookLM’s Gemini 3.5 upgrade adds a cloud computer and help finding sources",
+      "summary": "Google is rolling out \"across the board\" updates to NotebookLM. The AI-powered note-taking app now uses Google's upgraded Gemini 3.5 model, which will allow it to respond with \"more accurate and reliable information,\" according to a blog post on Monday.",
+      "source": "The Verge",
+      "published": "2026-06-08T16:00:00+00:00",
+      "link": "https://www.theverge.com/tech/944325/google-notebooklm-ai-gemini-update"
+    },
+    {
+      "title": "Amazon now lets you design custom merch using AI",
+      "summary": "A new feature in the Amazon Shopping app allows users to generate designs with Alexa, then print them on products like T-shirts, hoodies, and tumblers.",
+      "source": "TechCrunch",
+      "published": "2026-06-08T15:49:12+00:00",
+      "link": "https://techcrunch.com/2026/06/08/amazon-now-lets-you-design-custom-merch-using-ai/"
+    },
+    {
+      "title": "AI Is Slowing Down",
+      "summary": "Article URL: https://www.wheresyoured.at/ai-is-slowing-down/ Comments URL: https://news.ycombinator.com/item?id=48446893 Points: 58 # Comments: 63",
+      "source": "Hacker News",
+      "published": "2026-06-08T15:46:37+00:00",
+      "link": "https://www.wheresyoured.at/ai-is-slowing-down/"
+    },
+    {
+      "title": "Most companies are flying blind on AI spending",
+      "summary": "Only 26 percent of companies have full visibility into their AI costs, a KPMG survey finds. The article Most companies are flying blind on AI spending appeared first on The Decoder.",
+      "source": "The Decoder",
+      "published": "2026-06-08T14:00:03+00:00",
+      "link": "https://the-decoder.com/most-companies-are-flying-blind-on-ai-spending/"
+    },
+    {
+      "title": "Microsoft’s AI chief says superintelligence is near, but won’t take your job",
+      "summary": "Today I’m talking with Mustafa Suleyman, the CEO of Microsoft AI. And I’m actually going to keep today’s intro short — I’m working from my wife’s family farm this week, as you’ll see in the video, but also this is a real burner of an episode.",
+      "source": "The Verge",
+      "published": "2026-06-08T14:00:00+00:00",
+      "link": "https://www.theverge.com/podcast/944138/microsoft-ai-ceo-mustafa-suleyman-superintelligence-agi-openai-automation"
+    },
+    {
+      "title": "Frontier Radar #3: How agentic AI is turning tokens into a business metric",
+      "summary": "Monthly subscription, open chat, ask question: This is how generative AI used to work. Agentic workflows go beyond this model.",
+      "source": "The Decoder",
+      "published": "2026-06-08T13:54:16+00:00",
+      "link": "https://the-decoder.com/frontier-radar-3-how-agentic-ai-is-turning-tokens-into-a-business-metric/"
+    },
     {
       "title": "Instagram AI chatbot breach may have affected over to 20,000 accounts, Meta discloses",
       "summary": "Meta has put a number on the security breach in its AI support chatbot for Instagram for the first time: at least 20,225 accounts were compromised.",
@@ -52,7 +94,7 @@ const FEED_DATA = {
     },
     {
       "title": "DeepSeek V4 Pro beats GPT-5.5 Pro on precision",
-      "summary": "Article URL: https://runtimewire.com/article/deepseek-v4-pro-beats-gpt-5-5-pro-on-precision Comments URL: https://news.ycombinator.com/item?id=48440448 Points: 319 # Comments: 162",
+      "summary": "Article URL: https://runtimewire.com/article/deepseek-v4-pro-beats-gpt-5-5-pro-on-precision Comments URL: https://news.ycombinator.com/item?id=48440448 Points: 374 # Comments: 196",
       "source": "Hacker News",
       "published": "2026-06-08T01:39:30+00:00",
       "link": "https://runtimewire.com/article/deepseek-v4-pro-beats-gpt-5-5-pro-on-precision"
@@ -87,7 +129,7 @@ const FEED_DATA = {
     },
     {
       "title": "The OnlyFans Economy of American AI",
-      "summary": "Article URL: https://leoveanu.com/2026-06-06-qwen3.7max/ Comments URL: https://news.ycombinator.com/item?id=48435371 Points: 143 # Comments: 198",
+      "summary": "Article URL: https://leoveanu.com/2026-06-06-qwen3.7max/ Comments URL: https://news.ycombinator.com/item?id=48435371 Points: 144 # Comments: 202",
       "source": "Hacker News",
       "published": "2026-06-07T14:47:17+00:00",
       "link": "https://leoveanu.com/2026-06-06-qwen3.7max/"
@@ -143,7 +185,7 @@ const FEED_DATA = {
     },
     {
       "title": "Meta confirms 1000s of Instagram accounts were hacked by abusing its AI chatbot",
-      "summary": "Article URL: https://this.weekinsecurity.com/meta-confirms-thousands-of-instagram-accounts-were-hacked-by-abusing-its-ai-chatbot/ Comments URL: https://news.ycombinator.com/item?id=48427643 Points: 700 # Comments: 258",
+      "summary": "Article URL: https://this.weekinsecurity.com/meta-confirms-thousands-of-instagram-accounts-were-hacked-by-abusing-its-ai-chatbot/ Comments URL: https://news.ycombinator.com/item?id=48427643 Points: 702 # Comments: 262",
       "source": "Hacker News",
       "published": "2026-06-06T18:35:27+00:00",
       "link": "https://this.weekinsecurity.com/meta-confirms-thousands-of-instagram-accounts-were-hacked-by-abusing-its-ai-chatbot/"
@@ -164,7 +206,7 @@ const FEED_DATA = {
     },
     {
       "title": "Police in England and Wales told to halt AI use in court statements",
-      "summary": "Article URL: https://www.ft.com/content/229e5949-3ebc-4151-8a86-a01b5e259241 Comments URL: https://news.ycombinator.com/item?id=48426022 Points: 154 # Comments: 50",
+      "summary": "Article URL: https://www.ft.com/content/229e5949-3ebc-4151-8a86-a01b5e259241 Comments URL: https://news.ycombinator.com/item?id=48426022 Points: 157 # Comments: 50",
       "source": "Hacker News",
       "published": "2026-06-06T15:35:49+00:00",
       "link": "https://www.ft.com/content/229e5949-3ebc-4151-8a86-a01b5e259241"
@@ -185,7 +227,7 @@ const FEED_DATA = {
     },
     {
       "title": "US House lawmakers release draft bill to prohibit state AI rules",
-      "summary": "Article URL: https://www.reuters.com/business/us-house-lawmakers-release-draft-bill-regulate-ai-2026-06-04/ Comments URL: https://news.ycombinator.com/item?id=48425031 Points: 129 # Comments: 94",
+      "summary": "Article URL: https://www.reuters.com/business/us-house-lawmakers-release-draft-bill-regulate-ai-2026-06-04/ Comments URL: https://news.ycombinator.com/item?id=48425031 Points: 129 # Comments: 95",
       "source": "Hacker News",
       "published": "2026-06-06T13:40:22+00:00",
       "link": "https://www.reuters.com/business/us-house-lawmakers-release-draft-bill-regulate-ai-2026-06-04/"
@@ -262,7 +304,7 @@ const FEED_DATA = {
     },
     {
       "title": "Microsoft wants users to be addicted to Scout, their AI personal assistant",
-      "summary": "Article URL: https://disassociated.com/microsoft-users-addicted-ai-personal-assistant/ Comments URL: https://news.ycombinator.com/item?id=48419023 Points: 70 # Comments: 5",
+      "summary": "Article URL: https://disassociated.com/microsoft-users-addicted-ai-personal-assistant/ Comments URL: https://news.ycombinator.com/item?id=48419023 Points: 71 # Comments: 5",
       "source": "Hacker News",
       "published": "2026-06-05T22:12:58+00:00",
       "link": "https://disassociated.com/microsoft-users-addicted-ai-personal-assistant/"
@@ -451,21 +493,21 @@ const FEED_DATA = {
     },
     {
       "title": "The Pentagon is running an AI propaganda mill targeting Latin America",
-      "summary": "Article URL: https://theintercept.com/2026/06/02/la-tilde-propaganda-latin-america-pentagon/ Comments URL: https://news.ycombinator.com/item?id=48408031 Points: 119 # Comments: 113",
+      "summary": "Article URL: https://theintercept.com/2026/06/02/la-tilde-propaganda-latin-america-pentagon/ Comments URL: https://news.ycombinator.com/item?id=48408031 Points: 120 # Comments: 113",
       "source": "Hacker News",
       "published": "2026-06-05T04:38:41+00:00",
       "link": "https://theintercept.com/2026/06/02/la-tilde-propaganda-latin-america-pentagon/"
     },
     {
       "title": "Open Code Review – An AI-powered code review CLI tool",
-      "summary": "Article URL: https://github.com/alibaba/open-code-review Comments URL: https://news.ycombinator.com/item?id=48406358 Points: 279 # Comments: 71",
+      "summary": "Article URL: https://github.com/alibaba/open-code-review Comments URL: https://news.ycombinator.com/item?id=48406358 Points: 280 # Comments: 71",
       "source": "Hacker News",
       "published": "2026-06-05T00:04:29+00:00",
       "link": "https://github.com/alibaba/open-code-review"
     },
     {
       "title": "South Korean forums will need to scan every images with AI censorship tools",
-      "summary": "Article URL: https://discuss.privacyguides.net/t/south-korean-online-communities-will-need-to-scan-every-images-with-ai-censorship-tools/38341 Comments URL: https://news.ycombinator.com/item?id=48406198 Points: 277 # Comments: 156",
+      "summary": "Article URL: https://discuss.privacyguides.net/t/south-korean-online-communities-will-need-to-scan-every-images-with-ai-censorship-tools/38341 Comments URL: https://news.ycombinator.com/item?id=48406198 Points: 277 # Comments: 157",
       "source": "Hacker News",
       "published": "2026-06-04T23:45:56+00:00",
       "link": "https://discuss.privacyguides.net/t/south-korean-online-communities-will-need-to-scan-every-images-with-ai-censorship-tools/38341"
@@ -493,7 +535,7 @@ const FEED_DATA = {
     },
     {
       "title": "Anthropic's open-source framework for AI-powered vulnerability discovery",
-      "summary": "Article URL: https://github.com/anthropics/defending-code-reference-harness Comments URL: https://news.ycombinator.com/item?id=48403980 Points: 534 # Comments: 142",
+      "summary": "Article URL: https://github.com/anthropics/defending-code-reference-harness Comments URL: https://news.ycombinator.com/item?id=48403980 Points: 535 # Comments: 142",
       "source": "Hacker News",
       "published": "2026-06-04T20:11:20+00:00",
       "link": "https://github.com/anthropics/defending-code-reference-harness"
@@ -549,7 +591,7 @@ const FEED_DATA = {
     },
     {
       "title": "When AI Builds Itself: Our progress toward recursive self-improvement",
-      "summary": "Article URL: https://www.anthropic.com/institute/recursive-self-improvement Comments URL: https://news.ycombinator.com/item?id=48400842 Points: 529 # Comments: 695",
+      "summary": "Article URL: https://www.anthropic.com/institute/recursive-self-improvement Comments URL: https://news.ycombinator.com/item?id=48400842 Points: 529 # Comments: 697",
       "source": "Hacker News",
       "published": "2026-06-04T16:20:17+00:00",
       "link": "https://www.anthropic.com/institute/recursive-self-improvement"
@@ -1358,48 +1400,6 @@ const FEED_DATA = {
       "source": "The Verge",
       "published": "2026-06-01T20:02:31+00:00",
       "link": "https://www.theverge.com/tech/941215/windows-laptops-nvidia-rtx-spark-apple-m1-arm-price-ram"
-    },
-    {
-      "title": "Gemini’s new AI agent is about as good as Google’s demo",
-      "summary": "Google's new \"24/7\" AI agent, Gemini Spark, can be shockingly good at doing things on your behalf. But I'm not sure it's worth the financial cost and potential privacy tradeoffs.",
-      "source": "The Verge",
-      "published": "2026-06-01T20:00:00+00:00",
-      "link": "https://www.theverge.com/tech/941138/google-gemini-spark-ai-agent-hands-on"
-    },
-    {
-      "title": "Meta’s own AI was exploited to hijack Instagram accounts",
-      "summary": "Meta's AI support chatbot helped hackers hijack Instagram accounts, as reported earlier by 404 Media.",
-      "source": "The Verge",
-      "published": "2026-06-01T19:20:47+00:00",
-      "link": "https://www.theverge.com/tech/941179/meta-instagram-ai-support-chatbot-exploit-hacked"
-    },
-    {
-      "title": "Hackers Used Meta's AI Support Bot to Seize Instagram Accounts",
-      "summary": "Article URL: https://krebsonsecurity.com/2026/06/hackers-used-metas-ai-support-bot-to-seize-instagram-accounts/ Comments URL: https://news.ycombinator.com/item?id=48361346 Points: 55 # Comments: 19",
-      "source": "Hacker News",
-      "published": "2026-06-01T19:18:52+00:00",
-      "link": "https://krebsonsecurity.com/2026/06/hackers-used-metas-ai-support-bot-to-seize-instagram-accounts/"
-    },
-    {
-      "title": "Claude maker Anthropic files for IPO with the SEC",
-      "summary": "Anthropic has confidentially filed a draft IPO registration with the US Securities and Exchange Commission (SEC). The company behind the chatbot Claude is valued at just under $1 trillion after its latest funding round.",
-      "source": "The Decoder",
-      "published": "2026-06-01T17:26:59+00:00",
-      "link": "https://the-decoder.com/claude-maker-anthropic-files-for-ipo-with-the-sec/"
-    },
-    {
-      "title": "Anthropic Confidentially Files for What Could Be the Largest IPO Ever",
-      "summary": "The AI giant behind Claude submitted paperwork on Monday that would take it public, just a couple of weeks after SpaceX’s splashy IPO announcement.",
-      "source": "Wired",
-      "published": "2026-06-01T17:17:58+00:00",
-      "link": "https://www.wired.com/story/anthropic-files-s1-ipo-sec/"
-    },
-    {
-      "title": "Turing Award winner Richard Sutton says pure generative AI can't do real science",
-      "summary": "Turing Award winner Richard Sutton sees a central weakness in conventional generative AI: it can't evaluate its own results. Without that ability, real scientific discovery remains impossible: novelty flickers briefly and is lost again.",
-      "source": "The Decoder",
-      "published": "2026-06-01T17:10:26+00:00",
-      "link": "https://the-decoder.com/turing-award-winner-richard-sutton-says-pure-generative-ai-cant-do-real-science/"
     }
   ]
 };
