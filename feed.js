@@ -1,12 +1,61 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-06-08T19:17:45.917950+00:00",
+  "lastUpdated": "2026-06-08T22:20:19.805111+00:00",
   "items": [
     {
-      "title": "WWDC 2026: Everything announced on Siri AI, iOS 27, Apple Intelligence and more",
-      "summary": "Apple’s WWDC 2026 event kicked off this morning at 10 a.m. PT at Apple Park, starting a week full of expected announcements around Siri, iOS 27, Apple Intelligence and more, along with developer events and demos.",
+      "title": "Apple is using AI to fix Safari’s extension problem",
+      "summary": "Apple is trying to solve one of Safari's biggest weaknesses with AI. Safari has long lacked the robust library of extensions that its rivals have, mainly due to the stringent development requirements from Apple.",
+      "source": "The Verge",
+      "published": "2026-06-08T22:14:17+00:00",
+      "link": "https://www.theverge.com/tech/946345/apple-safari-ai-update-extensions"
+    },
+    {
+      "title": "OpenAI files for IPO, following Anthropic",
+      "summary": "OpenAI on Monday checked off a preliminary step in the IPO race that it and rival Anthropic have been competing in for the better part of a year: The company announced it has confidentially submitted a Form S-1 with the US Securities and Exchange Commission, following...",
+      "source": "The Verge",
+      "published": "2026-06-08T21:38:29+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/946335/openai-ipo-s-1-confidential"
+    },
+    {
+      "title": "OpenAI Confidentially Files for IPO on the Heels of SpaceX and Anthropic",
+      "summary": "The ChatGPT-maker announced it has filed paperwork to go public, just a week after rival Anthropic took the same step.",
+      "source": "Wired",
+      "published": "2026-06-08T21:31:58+00:00",
+      "link": "https://www.wired.com/story/openai-confidentially-files-for-ipo/"
+    },
+    {
+      "title": "Following Anthropic, OpenAI files confidentially for IPO",
+      "summary": "The filing comes a little more than a week after its main rival, Anthropic, also filed to go public, ramping up the race between the two AI firms.",
       "source": "TechCrunch",
-      "published": "2026-06-08T19:14:11+00:00",
+      "published": "2026-06-08T21:29:57+00:00",
+      "link": "https://techcrunch.com/2026/06/08/following-anthropic-openai-files-confidentially-for-ipo/"
+    },
+    {
+      "title": "Apple plays catch-up at WWDC",
+      "summary": "Apple spent much of its WWDC keynote highlighting fixes, performance improvements, and long-requested features before unveiling its upgraded AI-powered Siri, signaling that the company wants users to see AI as just one part of a broader effort to improve its software.",
+      "source": "TechCrunch",
+      "published": "2026-06-08T21:15:42+00:00",
+      "link": "https://techcrunch.com/2026/06/08/apple-plays-catch-up-at-wwdc/"
+    },
+    {
+      "title": "Apple bets cheaper AI will woo small developers",
+      "summary": "As AI experimentation grows more expensive, Apple is waiving cloud API costs for developers with fewer than 2 million first-time App Store downloads.",
+      "source": "TechCrunch",
+      "published": "2026-06-08T20:53:55+00:00",
+      "link": "https://techcrunch.com/2026/06/08/apple-bets-cheaper-ai-will-woo-small-developers/"
+    },
+    {
+      "title": "WWDC 2026: Everything announced on Siri AI, iOS 27, Apple Intelligence and more",
+      "summary": "Apple primarily made the case for an improved experience with its longstanding Siri assistant, which like most other announcements had a hefty helping of AI.",
+      "source": "TechCrunch",
+      "published": "2026-06-08T19:41:32+00:00",
       "link": "https://techcrunch.com/2026/06/08/wwdc-2026-everything-announced-on-siri-ai-os-27-apple-intelligence-and-more/"
+    },
+    {
+      "title": "Apple reveals new AI architecture built around Google Gemini models",
+      "summary": "Article URL: https://www.macrumors.com/2026/06/08/apple-reveals-new-ai-architecture/ Comments URL: https://news.ycombinator.com/item?id=48450142 Points: 276 # Comments: 232",
+      "source": "Hacker News",
+      "published": "2026-06-08T19:14:47+00:00",
+      "link": "https://www.macrumors.com/2026/06/08/apple-reveals-new-ai-architecture/"
     },
     {
       "title": "Apple just taught your iPhone to finish your sentences, your photos, and your workflows",
@@ -14,6 +63,13 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-06-08T18:48:45+00:00",
       "link": "https://techcrunch.com/2026/06/08/apple-just-taught-your-iphone-to-finish-your-sentences-your-photos-and-your-workflows/"
+    },
+    {
+      "title": "Apple Core AI Framework",
+      "summary": "Article URL: https://developer.apple.com/documentation/coreai/ Comments URL: https://news.ycombinator.com/item?id=48449665 Points: 85 # Comments: 4",
+      "source": "Hacker News",
+      "published": "2026-06-08T18:47:38+00:00",
+      "link": "https://developer.apple.com/documentation/coreai/"
     },
     {
       "title": "Apple will let you build workflows using AI in its new Shortcuts app",
@@ -37,6 +93,13 @@ const FEED_DATA = {
       "link": "https://techcrunch.com/2026/06/08/apples-photos-app-is-getting-new-ai-editing-features/"
     },
     {
+      "title": "For the 2nd time in weeks, Microsoft packages laced with credential stealer",
+      "summary": "73 packages run self-replicating stealer as soon as they're opened by an AI agent.",
+      "source": "Ars Technica",
+      "published": "2026-06-08T18:34:23+00:00",
+      "link": "https://arstechnica.com/security/2026/06/for-the-2nd-time-in-weeks-microsoft-packages-laced-with-credential-stealer/"
+    },
+    {
       "title": "Apple is fixing the headache of splitting the bill with its new Siri in Camera feature",
       "summary": "\"If you're grabbing a bite with friends and point your iPhone at the bill, then [you can] select what you ordered to split the tab with Apple Cash,\" said Apple VP of Software Sebastien Marineau-Mes.",
       "source": "TechCrunch",
@@ -44,8 +107,15 @@ const FEED_DATA = {
       "link": "https://techcrunch.com/2026/06/08/apple-is-fixing-the-headache-of-splitting-the-bill-with-its-new-siri-in-camera-feature/"
     },
     {
+      "title": "Ask HN: What are tools you have made for yourself since the advent of AI?",
+      "summary": "Comments URL: https://news.ycombinator.com/item?id=48449187 Points: 81 # Comments: 122",
+      "source": "Hacker News",
+      "published": "2026-06-08T18:22:39+00:00",
+      "link": "https://news.ycombinator.com/item?id=48449187"
+    },
+    {
       "title": "Siri AI",
-      "summary": "Article URL: https://www.apple.com/apple-intelligence/ Comments URL: https://news.ycombinator.com/item?id=48449084 Points: 93 # Comments: 90",
+      "summary": "Article URL: https://www.apple.com/apple-intelligence/ Comments URL: https://news.ycombinator.com/item?id=48449084 Points: 286 # Comments: 214",
       "source": "Hacker News",
       "published": "2026-06-08T18:17:53+00:00",
       "link": "https://www.apple.com/apple-intelligence/"
@@ -73,7 +143,7 @@ const FEED_DATA = {
     },
     {
       "title": "Amazon is launching AI-generated custom merch",
-      "summary": "Amazon is expanding its print-on-demand features to AI-generated designs created using Alexa for Shopping for products like T-shirts, water bottles, and hoodies. Shoppers can use text prompts to generate images that are then printed on to blanks for sale on Amazon.",
+      "summary": "Amazon is expanding its print-on-demand features to AI-generated designs created using Alexa for Shopping for products like T-shirts, water bottles, and hoodies. Shoppers can use text prompts to generate images that are then printed onto blanks for sale on Amazon.",
       "source": "The Verge",
       "published": "2026-06-08T17:52:51+00:00",
       "link": "https://www.theverge.com/news/945905/amazon-alexa-shopping-ai-generated-custom-merch-design-printing"
@@ -107,6 +177,13 @@ const FEED_DATA = {
       "link": "https://www.wired.com/story/meta-removes-face-recognition-code-meta-ai-app-smart-glasses/"
     },
     {
+      "title": "Show HN: Gitdot – a better GitHub. Open-source, anti-AI, and written in Rust",
+      "summary": "What works now: user signups, org creations, private/public repos, and importing GitHub repositories (both as read-only mirrors and full migrations).",
+      "source": "Hacker News",
+      "published": "2026-06-08T16:52:11+00:00",
+      "link": "https://gitdot.io/"
+    },
+    {
       "title": "NotebookLM’s Gemini 3.5 upgrade adds a cloud computer and help finding sources",
       "summary": "Google is rolling out \"across the board\" updates to NotebookLM. The AI-powered note-taking app now uses Google's upgraded Gemini 3.5 model, which will allow it to respond with \"more accurate and reliable information,\" according to a blog post on Monday.",
       "source": "The Verge",
@@ -121,8 +198,8 @@ const FEED_DATA = {
       "link": "https://techcrunch.com/2026/06/08/amazon-now-lets-you-design-custom-merch-using-ai/"
     },
     {
-      "title": "AI Is Slowing Down",
-      "summary": "Article URL: https://www.wheresyoured.at/ai-is-slowing-down/ Comments URL: https://news.ycombinator.com/item?id=48446893 Points: 153 # Comments: 167",
+      "title": "AI is slowing down",
+      "summary": "Article URL: https://www.wheresyoured.at/ai-is-slowing-down/ Comments URL: https://news.ycombinator.com/item?id=48446893 Points: 296 # Comments: 337",
       "source": "Hacker News",
       "published": "2026-06-08T15:46:37+00:00",
       "link": "https://www.wheresyoured.at/ai-is-slowing-down/"
@@ -199,14 +276,14 @@ const FEED_DATA = {
     },
     {
       "title": "SDSU Wired Its Dorms with 1,300 AI Cameras Without Telling Students",
-      "summary": "Article URL: https://reclaimthenet.org/sdsu-adds-1300-ai-cameras-330-in-student-dorms Comments URL: https://news.ycombinator.com/item?id=48440994 Points: 50 # Comments: 16",
+      "summary": "Article URL: https://reclaimthenet.org/sdsu-adds-1300-ai-cameras-330-in-student-dorms Comments URL: https://news.ycombinator.com/item?id=48440994 Points: 51 # Comments: 16",
       "source": "Hacker News",
       "published": "2026-06-08T03:24:44+00:00",
       "link": "https://reclaimthenet.org/sdsu-adds-1300-ai-cameras-330-in-student-dorms"
     },
     {
       "title": "DeepSeek V4 Pro beats GPT-5.5 Pro on precision",
-      "summary": "Article URL: https://runtimewire.com/article/deepseek-v4-pro-beats-gpt-5-5-pro-on-precision Comments URL: https://news.ycombinator.com/item?id=48440448 Points: 382 # Comments: 208",
+      "summary": "Article URL: https://runtimewire.com/article/deepseek-v4-pro-beats-gpt-5-5-pro-on-precision Comments URL: https://news.ycombinator.com/item?id=48440448 Points: 386 # Comments: 212",
       "source": "Hacker News",
       "published": "2026-06-08T01:39:30+00:00",
       "link": "https://runtimewire.com/article/deepseek-v4-pro-beats-gpt-5-5-pro-on-precision"
@@ -339,7 +416,7 @@ const FEED_DATA = {
     },
     {
       "title": "US House lawmakers release draft bill to prohibit state AI rules",
-      "summary": "Article URL: https://www.reuters.com/business/us-house-lawmakers-release-draft-bill-regulate-ai-2026-06-04/ Comments URL: https://news.ycombinator.com/item?id=48425031 Points: 129 # Comments: 96",
+      "summary": "Article URL: https://www.reuters.com/business/us-house-lawmakers-release-draft-bill-regulate-ai-2026-06-04/ Comments URL: https://news.ycombinator.com/item?id=48425031 Points: 129 # Comments: 97",
       "source": "Hacker News",
       "published": "2026-06-06T13:40:22+00:00",
       "link": "https://www.reuters.com/business/us-house-lawmakers-release-draft-bill-regulate-ai-2026-06-04/"
@@ -1323,83 +1400,6 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-06-02T16:29:42+00:00",
       "link": "https://the-decoder.com/anthropic-scales-project-glasswing-to-150-partners-across-15-countries-to-hunt-critical-software-flaws/"
-    },
-    {
-      "title": "Trump signs narrower executive order on AI oversight after industry objections",
-      "summary": "After industry objections, President Trump signed a revised AI executive order requiring only voluntary prerelease government reviews of advanced models.",
-      "source": "TechCrunch",
-      "published": "2026-06-02T16:23:08+00:00",
-      "link": "https://techcrunch.com/2026/06/02/trump-signs-narrower-executive-order-on-ai-oversight-after-industry-objections/"
-    },
-    {
-      "title": "OpenAI launches new Codex tools for white-collar work",
-      "summary": "OpenAI released a set of six plug-ins aimed at specific jobs: data analytics, creative production, sales, product design, equity investing, and investment banking.",
-      "source": "TechCrunch",
-      "published": "2026-06-02T16:00:00+00:00",
-      "link": "https://techcrunch.com/2026/06/02/openai-launches-new-codex-tools-for-white-collar-work/"
-    },
-    {
-      "title": "Microsoft Build 2026: All the news about Windows, AI, RTX Spark, and more",
-      "summary": "Microsoft Build 2026 kicked off with a keynote presentation that introduced some developer-focused Windows updates, an OpenClaw-based AI assistant called Scout, the new Majorana 2 quantum computing chip, and a Surface mini PC designed for AI developers.",
-      "source": "The Verge",
-      "published": "2026-06-02T15:59:58+00:00",
-      "link": "https://www.theverge.com/tech/941668/microsoft-build-may-2026-live-news-updates"
-    },
-    {
-      "title": "Americans don't know how to fight AI so they're fighting data centers",
-      "summary": "Article URL: https://www.vox.com/future-perfect/490350/data-center-moratoria-ai-backlash Comments URL: https://news.ycombinator.com/item?id=48371592 Points: 121 # Comments: 212",
-      "source": "Hacker News",
-      "published": "2026-06-02T15:32:06+00:00",
-      "link": "https://www.vox.com/future-perfect/490350/data-center-moratoria-ai-backlash"
-    },
-    {
-      "title": "Flush With Cash From OpenAI, Opal Is Making an AI-Powered Audio Gadget",
-      "summary": "Opal, the company famous for making a fancy webcam, has pivoted to making other consumer electronics. Fueled by big investments from OpenAI and Samsung, it’s working on an audio gadget first.",
-      "source": "Wired",
-      "published": "2026-06-02T15:30:00+00:00",
-      "link": "https://www.wired.com/story/opal-electronics-openai-investment-ai-powered-audio-gadget/"
-    },
-    {
-      "title": "Anthropic scales Claude Mythos to critical infrastructure in 15+ countries",
-      "summary": "Anthropic is expanding Project Glasswing, its security vulnerability program, and access to Mythos to 150 organizations across 15 countries — targeting critical infrastructure in power, water, healthcare, and communications where a cyberattack could affect 100 million people.",
-      "source": "TechCrunch",
-      "published": "2026-06-02T14:44:21+00:00",
-      "link": "https://techcrunch.com/2026/06/02/anthropic-scales-claude-mythos-to-critical-infrastructure-in-15-countries/"
-    },
-    {
-      "title": "AI Doesn't Have ROI",
-      "summary": "Article URL: https://www.wheresyoured.at/ai-doesnt-have-roi/ Comments URL: https://news.ycombinator.com/item?id=48370437 Points: 60 # Comments: 50",
-      "source": "Hacker News",
-      "published": "2026-06-02T14:06:52+00:00",
-      "link": "https://www.wheresyoured.at/ai-doesnt-have-roi/"
-    },
-    {
-      "title": "Gemini Spark is the most impressive and terrifying AI experience I’ve had yet",
-      "summary": "According to every product demo from the last four years, planning a trip is a killer use case for AI.",
-      "source": "The Verge",
-      "published": "2026-06-02T12:38:08+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/941388/gemini-spark-ai-agent-trip-planning"
-    },
-    {
-      "title": "ZeroDrift raises $10M to protect AI models from themselves",
-      "summary": "A new AI compliance service sits between AI models and end users to flag and replace any messages that might present a compliance problem.",
-      "source": "TechCrunch",
-      "published": "2026-06-02T12:32:59+00:00",
-      "link": "https://techcrunch.com/2026/06/02/zerodrift-raises-10-million-to-protect-ai-models-from-themselves/"
-    },
-    {
-      "title": "The Download: AI can run your admin department now",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.",
-      "source": "MIT Tech Review",
-      "published": "2026-06-02T12:10:00+00:00",
-      "link": "https://www.technologyreview.com/2026/06/02/1138277/the-download-ai-tips-small-businesses-admin/"
-    },
-    {
-      "title": "Rocket engine startup Impulse raises $500 million to hire people, not AI",
-      "summary": "Engineering physical systems still depends on human talent, according to Impulse Space president Eric Romo.",
-      "source": "TechCrunch",
-      "published": "2026-06-02T12:00:00+00:00",
-      "link": "https://techcrunch.com/2026/06/02/rocket-engine-startup-impulse-raises-500-million-to-hire-people-not-ai/"
     }
   ]
 };
