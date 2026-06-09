@@ -1,12 +1,54 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-06-09T19:09:48.579904+00:00",
+  "lastUpdated": "2026-06-09T22:18:12.665323+00:00",
   "items": [
+    {
+      "title": "GM thinks EVs can help offset AI’s energy suck with vehicle-to-grid tech",
+      "summary": "At an event in San Francisco today, General Motors made a series of announcements around EV batteries, energy storage, and grid resiliency in the face of growing electricity demand from AI data centers.",
+      "source": "The Verge",
+      "published": "2026-06-09T21:00:00+00:00",
+      "link": "https://www.theverge.com/transportation/946820/gm-energy-ev-v2g-storage-sodium-ion"
+    },
+    {
+      "title": "Hey Siri, here’s what I actually want from AI",
+      "summary": "I'm desperate for a personal AI assistant, but do I really want to become the kind of person who can't function without the friendly robot voice in my phone?",
+      "source": "TechCrunch",
+      "published": "2026-06-09T20:50:17+00:00",
+      "link": "https://techcrunch.com/2026/06/09/hey-siri-heres-what-i-actually-want-from-ai/"
+    },
+    {
+      "title": "Anthropic’s Fable 5 can make weirdly fun video games with the click of a button",
+      "summary": "Anthropic's Claude Fable 5 is going to be a big hit with the web's vibe coders.",
+      "source": "TechCrunch",
+      "published": "2026-06-09T20:37:49+00:00",
+      "link": "https://techcrunch.com/2026/06/09/anthropics-fable-5-can-make-weirdly-fun-video-games-with-the-click-of-a-button/"
+    },
+    {
+      "title": "Microsoft AI head calls out Anthropic for acting like Claude is conscious",
+      "summary": "Microsoft AI CEO Mustafa Suleyman says it's \"really, really dangerous\" for Anthropic to speculate about Claude's consciousness inside its \"constitution,\" or the instructions that tell the model how to behave.",
+      "source": "The Verge",
+      "published": "2026-06-09T20:24:25+00:00",
+      "link": "https://www.theverge.com/tech/947197/microsoft-ai-mustafa-suleyman-anthropic-claude-conscious"
+    },
     {
       "title": "Can tech companies learn to love cheaper AI models?",
       "summary": "If those same AI workloads can be handled by cheaper models without affecting quality, it would mean a massive shift in the economics of AI.",
       "source": "TechCrunch",
       "published": "2026-06-09T18:56:09+00:00",
       "link": "https://techcrunch.com/2026/06/09/can-tech-companies-learn-to-love-cheaper-models/"
+    },
+    {
+      "title": "Apple's AI Can Now Change Your Passwords. What Could Possibly Go Wrong?",
+      "summary": "Article URL: https://www.kylereddoch.me/blog/apples-ai-can-now-change-your-passwords-what-could-possibly-go-wrong/ Comments URL: https://news.ycombinator.com/item?id=48465744 Points: 78 # Comments: 39",
+      "source": "Hacker News",
+      "published": "2026-06-09T18:50:27+00:00",
+      "link": "https://www.kylereddoch.me/blog/apples-ai-can-now-change-your-passwords-what-could-possibly-go-wrong/"
+    },
+    {
+      "title": "CEOs Who Think AI Replaces Their Employees Are Just Bad CEOs",
+      "summary": "Article URL: https://www.techdirt.com/2026/06/09/ceos-who-think-ai-replaces-their-employees-are-just-bad-ceos/ Comments URL: https://news.ycombinator.com/item?id=48465675 Points: 229 # Comments: 106",
+      "source": "Hacker News",
+      "published": "2026-06-09T18:45:59+00:00",
+      "link": "https://www.techdirt.com/2026/06/09/ceos-who-think-ai-replaces-their-employees-are-just-bad-ceos/"
     },
     {
       "title": "Anthropic releases Claude Fable 5 and Mythos 5 with major gains in coding and science",
@@ -16,15 +58,22 @@ const FEED_DATA = {
       "link": "https://the-decoder.com/anthropic-releases-claude-fable-5-and-mythos-5-with-major-gains-in-coding-and-science/"
     },
     {
+      "title": "GPT-2: Too Dangerous To Release (2019)",
+      "summary": "Article URL: https://naokishibuya.github.io/blog/2022-12-30-gpt-2-2019/ Comments URL: https://news.ycombinator.com/item?id=48465269 Points: 240 # Comments: 92",
+      "source": "Hacker News",
+      "published": "2026-06-09T18:21:43+00:00",
+      "link": "https://naokishibuya.github.io/blog/2022-12-30-gpt-2-2019/"
+    },
+    {
       "title": "WWDC 2026: Everything announced on Siri AI, iOS 27, Apple Intelligence, and more",
-      "summary": "Apple primarily made the case for an improved experience with its longstanding Siri assistant, which like most other announcements had a hefty helping of AI.",
+      "summary": "Apple primarily made the case for an improved experience with its long-standing Siri assistant, which like most other announcements had a hefty helping of AI.",
       "source": "TechCrunch",
       "published": "2026-06-09T18:04:24+00:00",
       "link": "https://techcrunch.com/2026/06/09/wwdc-2026-everything-announced-on-siri-ai-os-27-apple-intelligence-and-more/"
     },
     {
       "title": "Where is the AI jobs crisis?",
-      "summary": "Article URL: https://www.apollo.com/wealth/the-daily-spark/where-is-the-ai-jobs-crisis Comments URL: https://news.ycombinator.com/item?id=48464333 Points: 78 # Comments: 99",
+      "summary": "Article URL: https://www.apollo.com/wealth/the-daily-spark/where-is-the-ai-jobs-crisis Comments URL: https://news.ycombinator.com/item?id=48464333 Points: 119 # Comments: 176",
       "source": "Hacker News",
       "published": "2026-06-09T17:29:17+00:00",
       "link": "https://www.apollo.com/wealth/the-daily-spark/where-is-the-ai-jobs-crisis"
@@ -48,7 +97,7 @@ const FEED_DATA = {
       "summary": "Anthropic is releasing Claude Fable 5, its first Mythos-class model available to the public. The model comes with guardrails that block responses in high-risk areas like cybersecurity and biology.",
       "source": "TechCrunch",
       "published": "2026-06-09T17:00:00+00:00",
-      "link": "https://techcrunch.com/2026/06/09/anthropic-released-claude-fable-5-its-most-powerful-model-publicly-days-after-warning-ai-is-getting-too-dangerous/"
+      "link": "https://techcrunch.com/2026/06/09/anthropics-claude-fable-5-is-a-version-of-mythos-the-public-can-access-today/"
     },
     {
       "title": "Anthropic releases its first Mythos-class model Claude Fable",
@@ -80,7 +129,7 @@ const FEED_DATA = {
     },
     {
       "title": "'Sloppenheimer:' Amazon Employees Mock the Company's AI on Slack",
-      "summary": "Article URL: https://www.404media.co/sloppenheimer-amazon-employees-mock-the-companys-ai-on-slack/ Comments URL: https://news.ycombinator.com/item?id=48462823 Points: 156 # Comments: 75",
+      "summary": "Article URL: https://www.404media.co/sloppenheimer-amazon-employees-mock-the-companys-ai-on-slack/ Comments URL: https://news.ycombinator.com/item?id=48462823 Points: 172 # Comments: 91",
       "source": "Hacker News",
       "published": "2026-06-09T15:59:41+00:00",
       "link": "https://www.404media.co/sloppenheimer-amazon-employees-mock-the-companys-ai-on-slack/"
@@ -91,6 +140,13 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-06-09T15:55:53+00:00",
       "link": "https://the-decoder.com/landmark-german-ruling-declares-googles-ai-overviews-are-googles-own-words-and-makes-it-liable-for-false-answers/"
+    },
+    {
+      "title": "Judge Learns Both Sides Used AI, Cancels Trial, Kicks Everyone Off the Case",
+      "summary": "Article URL: https://www.404media.co/judge-learns-lawyers-on-both-sides-of-case-used-ai-cancels-trial-kicks-everyone-off-the-case/ Comments URL: https://news.ycombinator.com/item?id=48462428 Points: 65 # Comments: 15",
+      "source": "Hacker News",
+      "published": "2026-06-09T15:30:19+00:00",
+      "link": "https://www.404media.co/judge-learns-lawyers-on-both-sides-of-case-used-ai-cancels-trial-kicks-everyone-off-the-case/"
     },
     {
       "title": "Microsoft AI chief walks back comments about AI taking over white-collar work",
@@ -192,7 +248,7 @@ const FEED_DATA = {
     },
     {
       "title": "Cleaning up after AI rockstar developers",
-      "summary": "Article URL: https://www.codingwithjesse.com/blog/rockstar-developers/ Comments URL: https://news.ycombinator.com/item?id=48458586 Points: 387 # Comments: 290",
+      "summary": "Article URL: https://www.codingwithjesse.com/blog/rockstar-developers/ Comments URL: https://news.ycombinator.com/item?id=48458586 Points: 433 # Comments: 313",
       "source": "Hacker News",
       "published": "2026-06-09T09:10:10+00:00",
       "link": "https://www.codingwithjesse.com/blog/rockstar-developers/"
@@ -213,7 +269,7 @@ const FEED_DATA = {
     },
     {
       "title": "Microsoft's open source tools were hacked to steal passwords of AI developers",
-      "summary": "Article URL: https://techcrunch.com/2026/06/08/microsofts-open-source-tools-were-hacked-to-steal-passwords-of-ai-developers/ Comments URL: https://news.ycombinator.com/item?id=48457830 Points: 469 # Comments: 166",
+      "summary": "Article URL: https://techcrunch.com/2026/06/08/microsofts-open-source-tools-were-hacked-to-steal-passwords-of-ai-developers/ Comments URL: https://news.ycombinator.com/item?id=48457830 Points: 514 # Comments: 175",
       "source": "Hacker News",
       "published": "2026-06-09T07:33:16+00:00",
       "link": "https://techcrunch.com/2026/06/08/microsofts-open-source-tools-were-hacked-to-steal-passwords-of-ai-developers/"
@@ -297,7 +353,7 @@ const FEED_DATA = {
     },
     {
       "title": "Apple reveals new AI architecture built around Google Gemini models",
-      "summary": "Article URL: https://www.macrumors.com/2026/06/08/apple-reveals-new-ai-architecture/ Comments URL: https://news.ycombinator.com/item?id=48450142 Points: 699 # Comments: 540",
+      "summary": "Article URL: https://www.macrumors.com/2026/06/08/apple-reveals-new-ai-architecture/ Comments URL: https://news.ycombinator.com/item?id=48450142 Points: 705 # Comments: 549",
       "source": "Hacker News",
       "published": "2026-06-08T19:14:47+00:00",
       "link": "https://www.macrumors.com/2026/06/08/apple-reveals-new-ai-architecture/"
@@ -311,7 +367,7 @@ const FEED_DATA = {
     },
     {
       "title": "Apple Core AI Framework",
-      "summary": "Article URL: https://developer.apple.com/documentation/coreai/ Comments URL: https://news.ycombinator.com/item?id=48449665 Points: 351 # Comments: 102",
+      "summary": "Article URL: https://developer.apple.com/documentation/coreai/ Comments URL: https://news.ycombinator.com/item?id=48449665 Points: 353 # Comments: 105",
       "source": "Hacker News",
       "published": "2026-06-08T18:47:38+00:00",
       "link": "https://developer.apple.com/documentation/coreai/"
@@ -353,14 +409,14 @@ const FEED_DATA = {
     },
     {
       "title": "Ask HN: What are tools you have made for yourself since the advent of AI?",
-      "summary": "Comments URL: https://news.ycombinator.com/item?id=48449187 Points: 402 # Comments: 674",
+      "summary": "Comments URL: https://news.ycombinator.com/item?id=48449187 Points: 411 # Comments: 692",
       "source": "Hacker News",
       "published": "2026-06-08T18:22:39+00:00",
       "link": "https://news.ycombinator.com/item?id=48449187"
     },
     {
       "title": "Siri AI",
-      "summary": "Article URL: https://www.apple.com/apple-intelligence/ Comments URL: https://news.ycombinator.com/item?id=48449084 Points: 656 # Comments: 664",
+      "summary": "Article URL: https://www.apple.com/apple-intelligence/ Comments URL: https://news.ycombinator.com/item?id=48449084 Points: 659 # Comments: 684",
       "source": "Hacker News",
       "published": "2026-06-08T18:17:53+00:00",
       "link": "https://www.apple.com/apple-intelligence/"
@@ -444,7 +500,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI is slowing down",
-      "summary": "Article URL: https://www.wheresyoured.at/ai-is-slowing-down/ Comments URL: https://news.ycombinator.com/item?id=48446893 Points: 640 # Comments: 724",
+      "summary": "Article URL: https://www.wheresyoured.at/ai-is-slowing-down/ Comments URL: https://news.ycombinator.com/item?id=48446893 Points: 642 # Comments: 736",
       "source": "Hacker News",
       "published": "2026-06-08T15:46:37+00:00",
       "link": "https://www.wheresyoured.at/ai-is-slowing-down/"
@@ -521,14 +577,14 @@ const FEED_DATA = {
     },
     {
       "title": "SDSU Wired Its Dorms with 1,300 AI Cameras Without Telling Students",
-      "summary": "Article URL: https://reclaimthenet.org/sdsu-adds-1300-ai-cameras-330-in-student-dorms Comments URL: https://news.ycombinator.com/item?id=48440994 Points: 54 # Comments: 18",
+      "summary": "Article URL: https://reclaimthenet.org/sdsu-adds-1300-ai-cameras-330-in-student-dorms Comments URL: https://news.ycombinator.com/item?id=48440994 Points: 54 # Comments: 19",
       "source": "Hacker News",
       "published": "2026-06-08T03:24:44+00:00",
       "link": "https://reclaimthenet.org/sdsu-adds-1300-ai-cameras-330-in-student-dorms"
     },
     {
       "title": "DeepSeek V4 Pro beats GPT-5.5 Pro on precision",
-      "summary": "Article URL: https://runtimewire.com/article/deepseek-v4-pro-beats-gpt-5-5-pro-on-precision Comments URL: https://news.ycombinator.com/item?id=48440448 Points: 395 # Comments: 220",
+      "summary": "Article URL: https://runtimewire.com/article/deepseek-v4-pro-beats-gpt-5-5-pro-on-precision Comments URL: https://news.ycombinator.com/item?id=48440448 Points: 395 # Comments: 221",
       "source": "Hacker News",
       "published": "2026-06-08T01:39:30+00:00",
       "link": "https://runtimewire.com/article/deepseek-v4-pro-beats-gpt-5-5-pro-on-precision"
@@ -1344,62 +1400,6 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-06-03T13:40:16+00:00",
       "link": "https://the-decoder.com/perplexity-announces-hybrid-ai-system-that-decides-what-runs-locally-or-in-the-cloud/"
-    },
-    {
-      "title": "Meta’s AI agent for WhatsApp Business is now available globally",
-      "summary": "WhatsApp will charge businesses for using its AI agent based on token usage.",
-      "source": "TechCrunch",
-      "published": "2026-06-03T13:40:00+00:00",
-      "link": "https://techcrunch.com/2026/06/03/metas-ai-agent-for-whatsapp-business-is-now-available-globally/"
-    },
-    {
-      "title": "Coralogix raises $200M on bet that someone needs to watch the AI agents",
-      "summary": "Coralogix is among a growing number of infrastructure firms betting that as AI systems move into production, demand will rise for tools that can monitor their behavior, troubleshoot failures, and provide the operational data needed to keep them running reliably.",
-      "source": "TechCrunch",
-      "published": "2026-06-03T13:02:51+00:00",
-      "link": "https://techcrunch.com/2026/06/03/coralogix-raises-200m-in-race-to-build-the-monitoring-layer-for-ai-agents/"
-    },
-    {
-      "title": "32GB of DDR5 now costs $375 – AI shortage continues to squeeze PC building",
-      "summary": "Article URL: https://www.tomshardware.com/pc-components/ddr5/32gb-of-ddr5-now-costs-usd375-minimum-ai-shortage-continues-to-squeeze-pc-building Comments URL: https://news.ycombinator.com/item?id=48383241 Points: 429 # Comments: 391",
-      "source": "Hacker News",
-      "published": "2026-06-03T12:43:43+00:00",
-      "link": "https://www.tomshardware.com/pc-components/ddr5/32gb-of-ddr5-now-costs-usd375-minimum-ai-shortage-continues-to-squeeze-pc-building"
-    },
-    {
-      "title": "How E.ON uses SAP S/4HANA to modernise the grid with AI",
-      "summary": "Standardising grid data through SAP S/4HANA allows E.ON to modernise infrastructure and execute AI deployments. The utility giant manages infrastructure across three distinct domains: energy grids, customer solutions, and energy infrastructure solutions.",
-      "source": "AI News",
-      "published": "2026-06-03T12:29:42+00:00",
-      "link": "https://www.artificialintelligence-news.com/news/how-e-on-uses-sap-s-4hana-to-modernise-the-grid-with-ai/"
-    },
-    {
-      "title": "Uber's $1,500/month AI limit is a useful signal for AI tool pricing",
-      "summary": "https://www.bloomberg.com/news/articles/2026-06-02/uber-caps... (https://archive.ph/ZrwAy) Comments URL: https://news.ycombinator.com/item?id=48383056 Points: 614 # Comments: 762",
-      "source": "Hacker News",
-      "published": "2026-06-03T12:25:14+00:00",
-      "link": "https://simonwillison.net/2026/Jun/3/uber-caps-usage/"
-    },
-    {
-      "title": "The Download: Trump’s new AI order, and smart glasses for warfare",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.",
-      "source": "MIT Tech Review",
-      "published": "2026-06-03T12:10:00+00:00",
-      "link": "https://www.technologyreview.com/2026/06/03/1138322/the-download-trump-ai-order-smart-glasses-warfare/"
-    },
-    {
-      "title": "AI music startup Suno doubles its valuation to $5.4 billion while fighting major record labels in court",
-      "summary": "AI music startup Suno has raised $400 million at a $5.4 billion valuation. The article AI music startup Suno doubles its valuation to $5.4 billion while fighting major record labels in court appeared first on The Decoder.",
-      "source": "The Decoder",
-      "published": "2026-06-03T11:21:11+00:00",
-      "link": "https://the-decoder.com/ai-music-startup-suno-doubles-its-valuation-to-5-4-billion-while-fighting-major-record-labels-in-court/"
-    },
-    {
-      "title": "Nvidia’s RTX Spark Laptops Look Hell-Bent on Disruption",
-      "summary": "The company’s RTX Spark chips might finally turn the “AI PC” into reality.",
-      "source": "Wired",
-      "published": "2026-06-03T11:00:00+00:00",
-      "link": "https://www.wired.com/story/nvidia-rtx-spark-laptop-disruption/"
     }
   ]
 };
