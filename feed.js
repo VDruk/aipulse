@@ -1,6 +1,69 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-06-09T08:31:28.077659+00:00",
+  "lastUpdated": "2026-06-09T11:50:31.194926+00:00",
   "items": [
+    {
+      "title": "Apple Intelligence gets a second shot with help from Google and Nvidia",
+      "summary": "At WWDC 2026, Apple showed off a rebuilt version of Siri. The assistant runs on foundation models developed with Google.",
+      "source": "The Decoder",
+      "published": "2026-06-09T11:15:23+00:00",
+      "link": "https://the-decoder.com/apple-intelligence-gets-a-second-go-with-the-help-of-google-and-nvidia/"
+    },
+    {
+      "title": "OpenAI now says \"entirely automating everything is not the future we want\"",
+      "summary": "OpenAI is backing away from fully autonomous AI research by 2028, now talking about a \"tandem\" between humans and machines. Altman and Pachocki also call for an international body that could slow frontier development if needed.",
+      "source": "The Decoder",
+      "published": "2026-06-09T10:40:44+00:00",
+      "link": "https://the-decoder.com/openai-says-entirely-automating-everything-is-not-the-future-we-want/"
+    },
+    {
+      "title": "Learning to lead in a hybrid human-AI enterprise",
+      "summary": "As adoption of AI agents looks set to surge by as much as 300% in the next two years, leadership teams are carefully considering the implications of a hybrid human-AI workforce.",
+      "source": "MIT Tech Review",
+      "published": "2026-06-09T10:20:06+00:00",
+      "link": "https://www.technologyreview.com/2026/06/09/1137830/learning-to-lead-in-a-hybrid-human-ai-enterprise/"
+    },
+    {
+      "title": "David Sinclair plans to test whole-body rejuvenation drugs in the XPrize competition",
+      "summary": "The outspoken longevity scientist David Sinclair has been predicting that one day, you’ll go to the doctor and get a prescription that will make you 10 years younger.",
+      "source": "MIT Tech Review",
+      "published": "2026-06-09T10:00:00+00:00",
+      "link": "https://www.technologyreview.com/2026/06/09/1138545/david-sinclair-plans-to-test-whole-body-rejuvenation-drugs-in-the-xprize-competition/"
+    },
+    {
+      "title": "OpenAI says going public is \"a complicated set of tradeoffs\" and is unsure about the timing",
+      "summary": "OpenAI has confidentially filed an S-1 registration with the SEC, taking the first formal step toward an IPO.",
+      "source": "The Decoder",
+      "published": "2026-06-09T09:30:05+00:00",
+      "link": "https://the-decoder.com/openai-says-going-public-is-a-complicated-set-of-tradeoffs-and-is-unsure-about-the-timing/"
+    },
+    {
+      "title": "Five things you need to know about AI",
+      "summary": "At SXSW London last week I gave a talk called “Five things you need to know about AI,” in which I shared what I think are the biggest themes in AI right now. I pulled a few things from our first AI10 list, an annual guide to the most important trends in this buzzy world,…",
+      "source": "MIT Tech Review",
+      "published": "2026-06-09T09:16:45+00:00",
+      "link": "https://www.technologyreview.com/2026/06/09/1138582/five-things-you-need-to-know-about-ai/"
+    },
+    {
+      "title": "How to sign PDFs easily online with a PDF signer",
+      "summary": "Signing PDFs has become an important task for businesses and individuals alike. Whether you’re handling contracts, legal agreements, or forms, the ability to quickly and securely sign PDFs online is essential.",
+      "source": "AI News",
+      "published": "2026-06-09T09:01:51+00:00",
+      "link": "https://www.artificialintelligence-news.com/news/how-to-sign-pdfs-easily-online-with-a-pdf-signer/"
+    },
+    {
+      "title": "Autonomous AI Data Loss in DevOps: Building Efficient Defenses",
+      "summary": "Autonomous AI agents are altering the speed at which software is shipped. Unfortunately, they are also shrinking the time it takes for a mistake to become a catastrophe, creating a dangerous blind spot in many security strategies.",
+      "source": "AI News",
+      "published": "2026-06-09T08:50:39+00:00",
+      "link": "https://www.artificialintelligence-news.com/news/autonomous-ai-data-loss-in-devops/"
+    },
+    {
+      "title": "Microsoft's open source tools were hacked to steal passwords of AI developers",
+      "summary": "Article URL: https://techcrunch.com/2026/06/08/microsofts-open-source-tools-were-hacked-to-steal-passwords-of-ai-developers/ Comments URL: https://news.ycombinator.com/item?id=48457830 Points: 225 # Comments: 96",
+      "source": "Hacker News",
+      "published": "2026-06-09T07:33:16+00:00",
+      "link": "https://techcrunch.com/2026/06/08/microsofts-open-source-tools-were-hacked-to-steal-passwords-of-ai-developers/"
+    },
     {
       "title": "Why Apple’s slow-and-steady AI bet is starting to look pretty smart",
       "summary": "Can Apple's new AI glow up put to bed accusations that it's losing an all-important industry race?",
@@ -28,6 +91,13 @@ const FEED_DATA = {
       "source": "The Verge",
       "published": "2026-06-08T22:14:17+00:00",
       "link": "https://www.theverge.com/tech/946345/apple-safari-ai-update-extensions"
+    },
+    {
+      "title": "Show HN: Command Center, the AI coding env for people who care about quality",
+      "summary": "Hi HN! We’re Jimmy and Ray.",
+      "source": "Hacker News",
+      "published": "2026-06-08T22:10:18+00:00",
+      "link": "https://www.cc.dev/"
     },
     {
       "title": "OpenAI files for IPO, following Anthropic",
@@ -80,7 +150,7 @@ const FEED_DATA = {
     },
     {
       "title": "Apple reveals new AI architecture built around Google Gemini models",
-      "summary": "Article URL: https://www.macrumors.com/2026/06/08/apple-reveals-new-ai-architecture/ Comments URL: https://news.ycombinator.com/item?id=48450142 Points: 450 # Comments: 367",
+      "summary": "Article URL: https://www.macrumors.com/2026/06/08/apple-reveals-new-ai-architecture/ Comments URL: https://news.ycombinator.com/item?id=48450142 Points: 617 # Comments: 472",
       "source": "Hacker News",
       "published": "2026-06-08T19:14:47+00:00",
       "link": "https://www.macrumors.com/2026/06/08/apple-reveals-new-ai-architecture/"
@@ -94,7 +164,7 @@ const FEED_DATA = {
     },
     {
       "title": "Apple Core AI Framework",
-      "summary": "Article URL: https://developer.apple.com/documentation/coreai/ Comments URL: https://news.ycombinator.com/item?id=48449665 Points: 238 # Comments: 55",
+      "summary": "Article URL: https://developer.apple.com/documentation/coreai/ Comments URL: https://news.ycombinator.com/item?id=48449665 Points: 314 # Comments: 82",
       "source": "Hacker News",
       "published": "2026-06-08T18:47:38+00:00",
       "link": "https://developer.apple.com/documentation/coreai/"
@@ -136,14 +206,14 @@ const FEED_DATA = {
     },
     {
       "title": "Ask HN: What are tools you have made for yourself since the advent of AI?",
-      "summary": "Comments URL: https://news.ycombinator.com/item?id=48449187 Points: 203 # Comments: 354",
+      "summary": "Comments URL: https://news.ycombinator.com/item?id=48449187 Points: 325 # Comments: 544",
       "source": "Hacker News",
       "published": "2026-06-08T18:22:39+00:00",
       "link": "https://news.ycombinator.com/item?id=48449187"
     },
     {
       "title": "Siri AI",
-      "summary": "Article URL: https://www.apple.com/apple-intelligence/ Comments URL: https://news.ycombinator.com/item?id=48449084 Points: 490 # Comments: 426",
+      "summary": "Article URL: https://www.apple.com/apple-intelligence/ Comments URL: https://news.ycombinator.com/item?id=48449084 Points: 601 # Comments: 558",
       "source": "Hacker News",
       "published": "2026-06-08T18:17:53+00:00",
       "link": "https://www.apple.com/apple-intelligence/"
@@ -227,7 +297,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI is slowing down",
-      "summary": "Article URL: https://www.wheresyoured.at/ai-is-slowing-down/ Comments URL: https://news.ycombinator.com/item?id=48446893 Points: 456 # Comments: 477",
+      "summary": "Article URL: https://www.wheresyoured.at/ai-is-slowing-down/ Comments URL: https://news.ycombinator.com/item?id=48446893 Points: 582 # Comments: 621",
       "source": "Hacker News",
       "published": "2026-06-08T15:46:37+00:00",
       "link": "https://www.wheresyoured.at/ai-is-slowing-down/"
@@ -304,14 +374,14 @@ const FEED_DATA = {
     },
     {
       "title": "SDSU Wired Its Dorms with 1,300 AI Cameras Without Telling Students",
-      "summary": "Article URL: https://reclaimthenet.org/sdsu-adds-1300-ai-cameras-330-in-student-dorms Comments URL: https://news.ycombinator.com/item?id=48440994 Points: 52 # Comments: 17",
+      "summary": "Article URL: https://reclaimthenet.org/sdsu-adds-1300-ai-cameras-330-in-student-dorms Comments URL: https://news.ycombinator.com/item?id=48440994 Points: 52 # Comments: 18",
       "source": "Hacker News",
       "published": "2026-06-08T03:24:44+00:00",
       "link": "https://reclaimthenet.org/sdsu-adds-1300-ai-cameras-330-in-student-dorms"
     },
     {
       "title": "DeepSeek V4 Pro beats GPT-5.5 Pro on precision",
-      "summary": "Article URL: https://runtimewire.com/article/deepseek-v4-pro-beats-gpt-5-5-pro-on-precision Comments URL: https://news.ycombinator.com/item?id=48440448 Points: 390 # Comments: 217",
+      "summary": "Article URL: https://runtimewire.com/article/deepseek-v4-pro-beats-gpt-5-5-pro-on-precision Comments URL: https://news.ycombinator.com/item?id=48440448 Points: 391 # Comments: 219",
       "source": "Hacker News",
       "published": "2026-06-08T01:39:30+00:00",
       "link": "https://runtimewire.com/article/deepseek-v4-pro-beats-gpt-5-5-pro-on-precision"
@@ -402,7 +472,7 @@ const FEED_DATA = {
     },
     {
       "title": "Meta confirms 1000s of Instagram accounts were hacked by abusing its AI chatbot",
-      "summary": "Article URL: https://this.weekinsecurity.com/meta-confirms-thousands-of-instagram-accounts-were-hacked-by-abusing-its-ai-chatbot/ Comments URL: https://news.ycombinator.com/item?id=48427643 Points: 703 # Comments: 262",
+      "summary": "Article URL: https://this.weekinsecurity.com/meta-confirms-thousands-of-instagram-accounts-were-hacked-by-abusing-its-ai-chatbot/ Comments URL: https://news.ycombinator.com/item?id=48427643 Points: 703 # Comments: 263",
       "source": "Hacker News",
       "published": "2026-06-06T18:35:27+00:00",
       "link": "https://this.weekinsecurity.com/meta-confirms-thousands-of-instagram-accounts-were-hacked-by-abusing-its-ai-chatbot/"
@@ -423,7 +493,7 @@ const FEED_DATA = {
     },
     {
       "title": "Police in England and Wales told to halt AI use in court statements",
-      "summary": "Article URL: https://www.ft.com/content/229e5949-3ebc-4151-8a86-a01b5e259241 Comments URL: https://news.ycombinator.com/item?id=48426022 Points: 157 # Comments: 50",
+      "summary": "Article URL: https://www.ft.com/content/229e5949-3ebc-4151-8a86-a01b5e259241 Comments URL: https://news.ycombinator.com/item?id=48426022 Points: 158 # Comments: 50",
       "source": "Hacker News",
       "published": "2026-06-06T15:35:49+00:00",
       "link": "https://www.ft.com/content/229e5949-3ebc-4151-8a86-a01b5e259241"
@@ -528,7 +598,7 @@ const FEED_DATA = {
     },
     {
       "title": "Hermes Agent – Open-source AI agent with persistent memory",
-      "summary": "Article URL: https://hermes-agent.org/ Comments URL: https://news.ycombinator.com/item?id=48419000 Points: 50 # Comments: 31",
+      "summary": "Article URL: https://hermes-agent.org/ Comments URL: https://news.ycombinator.com/item?id=48419000 Points: 50 # Comments: 40",
       "source": "Hacker News",
       "published": "2026-06-05T22:09:38+00:00",
       "link": "https://hermes-agent.org/"
@@ -1330,76 +1400,6 @@ const FEED_DATA = {
       "source": "The Verge",
       "published": "2026-06-02T18:33:42+00:00",
       "link": "https://www.theverge.com/policy/941775/trump-ai-executive-order"
-    },
-    {
-      "title": "Microsoft announces Scout, an autonomous AI agent built on OpenClaw",
-      "summary": "https://www.microsoft.com/en-us/microsoft-365/blog/2026/06/0...https://www.404media.co/microsoft-wants-to-make-people-addic...https://www.wired.com/story/meet-microsoft-scout-your-ai-cow...",
-      "source": "Hacker News",
-      "published": "2026-06-02T18:19:27+00:00",
-      "link": "https://www.computerworld.com/article/4180103/microsoft-unveils-scout-an-autonomous-ai-agent-built-on-openclaw.html"
-    },
-    {
-      "title": "Martin Scorsese becomes the latest — and most unlikely — Hollywood voice for AI",
-      "summary": "The caveat is that one of the world's most famous living directors is using the tech solely for storyboarding.",
-      "source": "TechCrunch",
-      "published": "2026-06-02T18:16:53+00:00",
-      "link": "https://techcrunch.com/2026/06/02/martin-scorsese-becomes-the-latest-and-most-unlikely-hollywood-voice-for-ai/"
-    },
-    {
-      "title": "Microsoft’s first advanced reasoning AI is here",
-      "summary": "Microsoft announced a bunch of new in-house AI models at Build 2026, including a new \"flagship\" model: MAI-Thinking-1.",
-      "source": "The Verge",
-      "published": "2026-06-02T18:12:44+00:00",
-      "link": "https://www.theverge.com/tech/941664/microsoft-ai-model-reasoning-mai-thinking-1-build-2026"
-    },
-    {
-      "title": "Anthropic IPO filing marks AI maturing into enterprise utility",
-      "summary": "Anthropic’s IPO filing marks the maturation of generative AI from a research-heavy venture phase into a stabilised enterprise utility. Model developers operating in private markets have prioritised rapid iteration and maximum compute performance over predictable billing cycles.",
-      "source": "AI News",
-      "published": "2026-06-02T18:04:03+00:00",
-      "link": "https://www.artificialintelligence-news.com/news/anthropic-ipo-filing-marks-ai-maturing-enterprise-utility/"
-    },
-    {
-      "title": "Microsoft launches Scout, an OpenClaw-inspired personal assistant",
-      "summary": "Launched at Build, Microsoft Scout is a new AI assistant meant to bring the power and flexibility of OpenClaw into the Microsoft 365 system.",
-      "source": "TechCrunch",
-      "published": "2026-06-02T18:02:44+00:00",
-      "link": "https://techcrunch.com/2026/06/02/microsoft-launches-scout-an-openclaw-inspired-personal-assistant/"
-    },
-    {
-      "title": "Google rolls out fake call detection to protect against AI deepfake impersonation scams",
-      "summary": "As people increasingly refuse to answer calls from unknown numbers, scammers are shifting their tactics by spoofing trusted phone numbers and using AI deepfake technology to sound like authority figures, family members, or employers.",
-      "source": "TechCrunch",
-      "published": "2026-06-02T18:00:00+00:00",
-      "link": "https://techcrunch.com/2026/06/02/google-rolls-out-fake-call-detection-to-protect-against-ai-deepfake-impersonation-scams/"
-    },
-    {
-      "title": "Microsoft offers devs a better way to control AI agent behavior",
-      "summary": "The specification lets developer, compliance, and security teams define their own policies for agents to follow in portable policy files.",
-      "source": "TechCrunch",
-      "published": "2026-06-02T18:00:00+00:00",
-      "link": "https://techcrunch.com/2026/06/02/microsoft-offers-devs-a-better-way-to-control-ai-agent-behavior/"
-    },
-    {
-      "title": "Microsoft Scout is a new AI personal assistant built on OpenClaw",
-      "summary": "Much like Google, Microsoft is launching its own version of OpenClaw.",
-      "source": "The Verge",
-      "published": "2026-06-02T18:00:00+00:00",
-      "link": "https://www.theverge.com/news/939713/microsoft-scout-assistant-openclaw"
-    },
-    {
-      "title": "Google’s Phone app will tell you if a scammer is impersonating one of your contacts",
-      "summary": "Google is launching a new feature for its Phone app that aims to protect you from AI impersonation scams.",
-      "source": "The Verge",
-      "published": "2026-06-02T18:00:00+00:00",
-      "link": "https://www.theverge.com/tech/941517/google-phone-scammer-ai-impersonation"
-    },
-    {
-      "title": "Meet Microsoft Scout, Your AI Coworker That Never Logs Off",
-      "summary": "Microsoft’s OpenClaw-style agent appears in Teams, just like a human colleague, and automates your dull office tasks.",
-      "source": "Wired",
-      "published": "2026-06-02T18:00:00+00:00",
-      "link": "https://www.wired.com/story/meet-microsoft-scout-your-ai-coworker-that-never-logs-off/"
     }
   ]
 };
