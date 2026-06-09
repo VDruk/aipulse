@@ -1,6 +1,90 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-06-09T15:57:49.894831+00:00",
+  "lastUpdated": "2026-06-09T19:09:48.579904+00:00",
   "items": [
+    {
+      "title": "Can tech companies learn to love cheaper AI models?",
+      "summary": "If those same AI workloads can be handled by cheaper models without affecting quality, it would mean a massive shift in the economics of AI.",
+      "source": "TechCrunch",
+      "published": "2026-06-09T18:56:09+00:00",
+      "link": "https://techcrunch.com/2026/06/09/can-tech-companies-learn-to-love-cheaper-models/"
+    },
+    {
+      "title": "Anthropic releases Claude Fable 5 and Mythos 5 with major gains in coding and science",
+      "summary": "Anthropic ships two new models, Claude Fable 5 and Mythos 5, that claim to blow past the current Opus generation, especially in coding and research. Fable 5 finished a code migration for Stripe in one day that would have taken a team two months.",
+      "source": "The Decoder",
+      "published": "2026-06-09T18:25:19+00:00",
+      "link": "https://the-decoder.com/anthropic-releases-claude-fable-5-and-mythos-5-with-major-gains-in-coding-and-science/"
+    },
+    {
+      "title": "WWDC 2026: Everything announced on Siri AI, iOS 27, Apple Intelligence, and more",
+      "summary": "Apple primarily made the case for an improved experience with its longstanding Siri assistant, which like most other announcements had a hefty helping of AI.",
+      "source": "TechCrunch",
+      "published": "2026-06-09T18:04:24+00:00",
+      "link": "https://techcrunch.com/2026/06/09/wwdc-2026-everything-announced-on-siri-ai-os-27-apple-intelligence-and-more/"
+    },
+    {
+      "title": "Where is the AI jobs crisis?",
+      "summary": "Article URL: https://www.apollo.com/wealth/the-daily-spark/where-is-the-ai-jobs-crisis Comments URL: https://news.ycombinator.com/item?id=48464333 Points: 78 # Comments: 99",
+      "source": "Hacker News",
+      "published": "2026-06-09T17:29:17+00:00",
+      "link": "https://www.apollo.com/wealth/the-daily-spark/where-is-the-ai-jobs-crisis"
+    },
+    {
+      "title": "Google's Gemini 3.5 Live Translate delivers real-time voice translation across 70+ languages",
+      "summary": "Google releases Gemini 3.5 Live Translate, an audio model for real-time translation across more than 70 languages. The system translates continuously without waiting for a sentence to end and claims to preserve the speaker's tone, pace, and pitch.",
+      "source": "The Decoder",
+      "published": "2026-06-09T17:18:59+00:00",
+      "link": "https://the-decoder.com/googles-gemini-3-5-live-translate-delivers-real-time-voice-translation-across-70-languages/"
+    },
+    {
+      "title": "Anthropic Offers Mythos Upgrade for Cyber Partners and a ‘Safe’ Version for the Rest of You",
+      "summary": "Anthropic is releasing Claude Mythos 5 to trusted organizations and Claude Fable 5 to the public, a version it says can’t be used for cyberattacks.",
+      "source": "Wired",
+      "published": "2026-06-09T17:00:46+00:00",
+      "link": "https://www.wired.com/story/anthropic-releases-claude-fable-5-mythos-5/"
+    },
+    {
+      "title": "Anthropic’s Claude Fable 5 is a version of Mythos the public can access today",
+      "summary": "Anthropic is releasing Claude Fable 5, its first Mythos-class model available to the public. The model comes with guardrails that block responses in high-risk areas like cybersecurity and biology.",
+      "source": "TechCrunch",
+      "published": "2026-06-09T17:00:00+00:00",
+      "link": "https://techcrunch.com/2026/06/09/anthropic-released-claude-fable-5-its-most-powerful-model-publicly-days-after-warning-ai-is-getting-too-dangerous/"
+    },
+    {
+      "title": "Anthropic releases its first Mythos-class model Claude Fable",
+      "summary": "Anthropic just announced Claude Fable 5, a new AI model it said is the most powerful model it has ever made widely available.",
+      "source": "The Verge",
+      "published": "2026-06-09T17:00:00+00:00",
+      "link": "https://www.theverge.com/news/946725/anthropic-releases-claude-fable-5-mythos"
+    },
+    {
+      "title": "Apple is embracing the fantasy of AI photo editing",
+      "summary": "Apple used to question whether generative AI-powered editing features were worth the risk of distorting our perceptions of the world. Now it seems Apple no longer believes that photos should accurately capture reality.",
+      "source": "The Verge",
+      "published": "2026-06-09T16:13:14+00:00",
+      "link": "https://www.theverge.com/tech/946850/apple-ai-photo-editing-tools-ios27-wwdc-2026-deepfakes"
+    },
+    {
+      "title": "SpaceX wants to put data centers in orbit, and Musk says it's no big deal",
+      "summary": "SpaceX wants to launch data centers into space, and Elon Musk is pitching it as a near-trivial engineering problem ahead of the company's IPO. A first AI satellite would match the output of a single Nvidia GB300 rack.",
+      "source": "The Decoder",
+      "published": "2026-06-09T16:09:18+00:00",
+      "link": "https://the-decoder.com/spacex-wants-to-put-data-centers-in-orbit-and-musk-says-its-no-big-deal/"
+    },
+    {
+      "title": "It’s not FAANG anymore. It’s MANGOS.",
+      "summary": "With SpaceX, Anthropic, and OpenAI all eyeing massive public debuts, the tech industry may soon have a new class of corporate overlords — and a new acronym to match. Say goodbye to FAANG and hello to MANGOS.",
+      "source": "TechCrunch",
+      "published": "2026-06-09T16:09:14+00:00",
+      "link": "https://techcrunch.com/2026/06/09/its-not-faang-anymore-its-mangos/"
+    },
+    {
+      "title": "'Sloppenheimer:' Amazon Employees Mock the Company's AI on Slack",
+      "summary": "Article URL: https://www.404media.co/sloppenheimer-amazon-employees-mock-the-companys-ai-on-slack/ Comments URL: https://news.ycombinator.com/item?id=48462823 Points: 156 # Comments: 75",
+      "source": "Hacker News",
+      "published": "2026-06-09T15:59:41+00:00",
+      "link": "https://www.404media.co/sloppenheimer-amazon-employees-mock-the-companys-ai-on-slack/"
+    },
     {
       "title": "Landmark German ruling declares Google's AI Overviews are Google's own words and makes it liable for false answers",
       "summary": "A German regional court has ruled that Google is directly liable for the content of its AI search overviews. According to the court, previous limited liability protections for search engine operators don't apply to AI overviews.",
@@ -31,7 +115,7 @@ const FEED_DATA = {
     },
     {
       "title": "Sandstone raises $30M to bring AI to in-house legal teams",
-      "summary": "Sandstone's Series A was led by Lightspeed Partners, with participation from Sequoia.",
+      "summary": "Sandstone's Series A comes just six months after a Sequoia-led seed round.",
       "source": "TechCrunch",
       "published": "2026-06-09T13:47:25+00:00",
       "link": "https://techcrunch.com/2026/06/09/sandstone-raises-30m-to-bring-ai-to-in-house-legal-teams/"
@@ -107,6 +191,13 @@ const FEED_DATA = {
       "link": "https://www.technologyreview.com/2026/06/09/1138582/five-things-you-need-to-know-about-ai/"
     },
     {
+      "title": "Cleaning up after AI rockstar developers",
+      "summary": "Article URL: https://www.codingwithjesse.com/blog/rockstar-developers/ Comments URL: https://news.ycombinator.com/item?id=48458586 Points: 387 # Comments: 290",
+      "source": "Hacker News",
+      "published": "2026-06-09T09:10:10+00:00",
+      "link": "https://www.codingwithjesse.com/blog/rockstar-developers/"
+    },
+    {
       "title": "How to sign PDFs easily online with a PDF signer",
       "summary": "Signing PDFs has become an important task for businesses and individuals alike. Whether you’re handling contracts, legal agreements, or forms, the ability to quickly and securely sign PDFs online is essential.",
       "source": "AI News",
@@ -122,14 +213,14 @@ const FEED_DATA = {
     },
     {
       "title": "Microsoft's open source tools were hacked to steal passwords of AI developers",
-      "summary": "Article URL: https://techcrunch.com/2026/06/08/microsofts-open-source-tools-were-hacked-to-steal-passwords-of-ai-developers/ Comments URL: https://news.ycombinator.com/item?id=48457830 Points: 225 # Comments: 96",
+      "summary": "Article URL: https://techcrunch.com/2026/06/08/microsofts-open-source-tools-were-hacked-to-steal-passwords-of-ai-developers/ Comments URL: https://news.ycombinator.com/item?id=48457830 Points: 469 # Comments: 166",
       "source": "Hacker News",
       "published": "2026-06-09T07:33:16+00:00",
       "link": "https://techcrunch.com/2026/06/08/microsofts-open-source-tools-were-hacked-to-steal-passwords-of-ai-developers/"
     },
     {
       "title": "Why Apple’s slow-and-steady AI bet is starting to look pretty smart",
-      "summary": "Can Apple's new AI glow up put to bed accusations that it's losing an all-important industry race?",
+      "summary": "Can Apple's new AI glow-up put to bed accusations that it's losing an all-important industry race?",
       "source": "TechCrunch",
       "published": "2026-06-09T01:56:48+00:00",
       "link": "https://techcrunch.com/2026/06/08/why-apples-slow-and-steady-ai-bet-is-starting-to-look-pretty-smart/"
@@ -205,15 +296,8 @@ const FEED_DATA = {
       "link": "https://techcrunch.com/2026/06/08/apple-bets-cheaper-ai-will-woo-small-developers/"
     },
     {
-      "title": "WWDC 2026: Everything announced on Siri AI, iOS 27, Apple Intelligence and more",
-      "summary": "Apple primarily made the case for an improved experience with its longstanding Siri assistant, which like most other announcements had a hefty helping of AI.",
-      "source": "TechCrunch",
-      "published": "2026-06-08T19:41:32+00:00",
-      "link": "https://techcrunch.com/2026/06/08/wwdc-2026-everything-announced-on-siri-ai-os-27-apple-intelligence-and-more/"
-    },
-    {
       "title": "Apple reveals new AI architecture built around Google Gemini models",
-      "summary": "Article URL: https://www.macrumors.com/2026/06/08/apple-reveals-new-ai-architecture/ Comments URL: https://news.ycombinator.com/item?id=48450142 Points: 617 # Comments: 472",
+      "summary": "Article URL: https://www.macrumors.com/2026/06/08/apple-reveals-new-ai-architecture/ Comments URL: https://news.ycombinator.com/item?id=48450142 Points: 699 # Comments: 540",
       "source": "Hacker News",
       "published": "2026-06-08T19:14:47+00:00",
       "link": "https://www.macrumors.com/2026/06/08/apple-reveals-new-ai-architecture/"
@@ -227,7 +311,7 @@ const FEED_DATA = {
     },
     {
       "title": "Apple Core AI Framework",
-      "summary": "Article URL: https://developer.apple.com/documentation/coreai/ Comments URL: https://news.ycombinator.com/item?id=48449665 Points: 314 # Comments: 82",
+      "summary": "Article URL: https://developer.apple.com/documentation/coreai/ Comments URL: https://news.ycombinator.com/item?id=48449665 Points: 351 # Comments: 102",
       "source": "Hacker News",
       "published": "2026-06-08T18:47:38+00:00",
       "link": "https://developer.apple.com/documentation/coreai/"
@@ -269,14 +353,14 @@ const FEED_DATA = {
     },
     {
       "title": "Ask HN: What are tools you have made for yourself since the advent of AI?",
-      "summary": "Comments URL: https://news.ycombinator.com/item?id=48449187 Points: 325 # Comments: 544",
+      "summary": "Comments URL: https://news.ycombinator.com/item?id=48449187 Points: 402 # Comments: 674",
       "source": "Hacker News",
       "published": "2026-06-08T18:22:39+00:00",
       "link": "https://news.ycombinator.com/item?id=48449187"
     },
     {
       "title": "Siri AI",
-      "summary": "Article URL: https://www.apple.com/apple-intelligence/ Comments URL: https://news.ycombinator.com/item?id=48449084 Points: 601 # Comments: 558",
+      "summary": "Article URL: https://www.apple.com/apple-intelligence/ Comments URL: https://news.ycombinator.com/item?id=48449084 Points: 656 # Comments: 664",
       "source": "Hacker News",
       "published": "2026-06-08T18:17:53+00:00",
       "link": "https://www.apple.com/apple-intelligence/"
@@ -360,7 +444,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI is slowing down",
-      "summary": "Article URL: https://www.wheresyoured.at/ai-is-slowing-down/ Comments URL: https://news.ycombinator.com/item?id=48446893 Points: 582 # Comments: 621",
+      "summary": "Article URL: https://www.wheresyoured.at/ai-is-slowing-down/ Comments URL: https://news.ycombinator.com/item?id=48446893 Points: 640 # Comments: 724",
       "source": "Hacker News",
       "published": "2026-06-08T15:46:37+00:00",
       "link": "https://www.wheresyoured.at/ai-is-slowing-down/"
@@ -437,14 +521,14 @@ const FEED_DATA = {
     },
     {
       "title": "SDSU Wired Its Dorms with 1,300 AI Cameras Without Telling Students",
-      "summary": "Article URL: https://reclaimthenet.org/sdsu-adds-1300-ai-cameras-330-in-student-dorms Comments URL: https://news.ycombinator.com/item?id=48440994 Points: 52 # Comments: 18",
+      "summary": "Article URL: https://reclaimthenet.org/sdsu-adds-1300-ai-cameras-330-in-student-dorms Comments URL: https://news.ycombinator.com/item?id=48440994 Points: 54 # Comments: 18",
       "source": "Hacker News",
       "published": "2026-06-08T03:24:44+00:00",
       "link": "https://reclaimthenet.org/sdsu-adds-1300-ai-cameras-330-in-student-dorms"
     },
     {
       "title": "DeepSeek V4 Pro beats GPT-5.5 Pro on precision",
-      "summary": "Article URL: https://runtimewire.com/article/deepseek-v4-pro-beats-gpt-5-5-pro-on-precision Comments URL: https://news.ycombinator.com/item?id=48440448 Points: 391 # Comments: 219",
+      "summary": "Article URL: https://runtimewire.com/article/deepseek-v4-pro-beats-gpt-5-5-pro-on-precision Comments URL: https://news.ycombinator.com/item?id=48440448 Points: 395 # Comments: 220",
       "source": "Hacker News",
       "published": "2026-06-08T01:39:30+00:00",
       "link": "https://runtimewire.com/article/deepseek-v4-pro-beats-gpt-5-5-pro-on-precision"
@@ -479,7 +563,7 @@ const FEED_DATA = {
     },
     {
       "title": "The OnlyFans Economy of American AI",
-      "summary": "Article URL: https://leoveanu.com/2026-06-06-qwen3.7max/ Comments URL: https://news.ycombinator.com/item?id=48435371 Points: 144 # Comments: 203",
+      "summary": "Article URL: https://leoveanu.com/2026-06-06-qwen3.7max/ Comments URL: https://news.ycombinator.com/item?id=48435371 Points: 145 # Comments: 202",
       "source": "Hacker News",
       "published": "2026-06-07T14:47:17+00:00",
       "link": "https://leoveanu.com/2026-06-06-qwen3.7max/"
@@ -535,7 +619,7 @@ const FEED_DATA = {
     },
     {
       "title": "Meta confirms 1000s of Instagram accounts were hacked by abusing its AI chatbot",
-      "summary": "Article URL: https://this.weekinsecurity.com/meta-confirms-thousands-of-instagram-accounts-were-hacked-by-abusing-its-ai-chatbot/ Comments URL: https://news.ycombinator.com/item?id=48427643 Points: 703 # Comments: 263",
+      "summary": "Article URL: https://this.weekinsecurity.com/meta-confirms-thousands-of-instagram-accounts-were-hacked-by-abusing-its-ai-chatbot/ Comments URL: https://news.ycombinator.com/item?id=48427643 Points: 703 # Comments: 264",
       "source": "Hacker News",
       "published": "2026-06-06T18:35:27+00:00",
       "link": "https://this.weekinsecurity.com/meta-confirms-thousands-of-instagram-accounts-were-hacked-by-abusing-its-ai-chatbot/"
@@ -1316,90 +1400,6 @@ const FEED_DATA = {
       "source": "Wired",
       "published": "2026-06-03T11:00:00+00:00",
       "link": "https://www.wired.com/story/nvidia-rtx-spark-laptop-disruption/"
-    },
-    {
-      "title": "Nous Research releases Hermes Desktop, an open-source AI agent for every platform",
-      "summary": "Nous Research has released Hermes Desktop, an open-source AI agent app under the MIT license. The article Nous Research releases Hermes Desktop, an open-source AI agent for every platform appeared first on The Decoder.",
-      "source": "The Decoder",
-      "published": "2026-06-03T10:56:38+00:00",
-      "link": "https://the-decoder.com/nous-research-releases-hermes-desktop-an-open-source-ai-agent-for-every-platform/"
-    },
-    {
-      "title": "Build 2026: Microsoft tops Google in image generation while playing catch-up on reasoning",
-      "summary": "At Build 2026, Microsoft announced seven new AI models developed in-house, including its first reasoning model. The company also introduced a new tuning method and an autonomous background agent.",
-      "source": "The Decoder",
-      "published": "2026-06-03T10:48:19+00:00",
-      "link": "https://the-decoder.com/build-2026-microsoft-tops-google-in-image-generation-while-playing-catch-up-on-reasoning/"
-    },
-    {
-      "title": "Mathematicians issue warning as AI rapidly gains ground",
-      "summary": "Article URL: https://www.science.org/content/article/mathematicians-issue-warning-ai-rapidly-gains-ground Comments URL: https://news.ycombinator.com/item?id=48382052 Points: 293 # Comments: 345",
-      "source": "Hacker News",
-      "published": "2026-06-03T10:05:48+00:00",
-      "link": "https://www.science.org/content/article/mathematicians-issue-warning-ai-rapidly-gains-ground"
-    },
-    {
-      "title": "What’s Worth More Than Cash in San Francisco Real Estate? Anthropic Stock",
-      "summary": "Several real estate listings in the San Francisco Bay Area are offering to exchange a home for a piece of the AI startup.",
-      "source": "Wired",
-      "published": "2026-06-03T10:00:00+00:00",
-      "link": "https://www.wired.com/story/whats-worth-more-than-san-francisco-real-estate-anthropic-stock/"
-    },
-    {
-      "title": "Walmart’s AI workflows meet the realities of the balance sheet",
-      "summary": "Walmart has reportedly begun limiting employees’ use of an internal AI assistant called Code Puppy after demands placed on the LLM backing the tool were higher than expected.",
-      "source": "AI News",
-      "published": "2026-06-03T09:33:00+00:00",
-      "link": "https://www.artificialintelligence-news.com/news/walmart-limits-ai-use-as-workflows-meet-the-realities-of-the-balance-sheet/"
-    },
-    {
-      "title": "Microsoft’s Majorana 2 quantum chip is also a case study for agentic AI in R&D",
-      "summary": "Microsoft’s Majorana 2 quantum chiparrived this week, with numbers that are genuinely difficult to contextualise: qubits 1,000 times more reliable than those of the first generation models, a mean qubit lifetime of 20 seconds against an industry norm measured in microseconds,...",
-      "source": "AI News",
-      "published": "2026-06-03T09:00:00+00:00",
-      "link": "https://www.artificialintelligence-news.com/news/microsoft-discovery-agentic-ai-majorana-2/"
-    },
-    {
-      "title": "AI has a water problem — Google thinks it has a fix",
-      "summary": "In the face of widespread backlash to the AI data center buildout throughout the US, Google is touting its efforts to minimize the environmental impact by actually increasing water for local communities.",
-      "source": "The Verge",
-      "published": "2026-06-03T09:00:00+00:00",
-      "link": "https://www.theverge.com/policy/942296/google-water-commitments-data-centers"
-    },
-    {
-      "title": "Redditors Are Using AI to Beat Obscene World Cup Ticket Prices",
-      "summary": "Soccer fans on r/WorldCup2026Tickets are using Claude to build DIY ticketing software, exchanging on back channels, and leaving scalpers scrambling.",
-      "source": "Wired",
-      "published": "2026-06-03T09:00:00+00:00",
-      "link": "https://www.wired.com/story/redditors-are-using-ai-to-beat-obscene-fifa-world-cup-ticket-prices/"
-    },
-    {
-      "title": "AI has a water problem. Google thinks it has a fix",
-      "summary": "In the face of widespread backlash to the AI data center buildout throughout the US, Google is touting its efforts to minimize the environmental impact by actually increasing water for local communities.",
-      "source": "The Verge",
-      "published": "2026-06-03T09:00:00+00:00",
-      "link": "https://www.theverge.com/policy/942296/google-water-commitments-data-centers"
-    },
-    {
-      "title": "Google must let publishers opt out of AI Search features, rules UK",
-      "summary": "Online publishers are getting more control over whether their websites appear in Google's AI Search features, thanks to a UK regulatory ruling.",
-      "source": "The Verge",
-      "published": "2026-06-03T08:45:48+00:00",
-      "link": "https://www.theverge.com/tech/942302/google-search-ai-overviews-uk-cma-publisher-opt-out"
-    },
-    {
-      "title": "Leiden Declaration on Artificial Intelligence and Mathematics",
-      "summary": "Article URL: https://leidendeclaration.ai/ Comments URL: https://news.ycombinator.com/item?id=48380670 Points: 138 # Comments: 79",
-      "source": "Hacker News",
-      "published": "2026-06-03T06:33:27+00:00",
-      "link": "https://leidendeclaration.ai/"
-    },
-    {
-      "title": "U of T researchers demonstrate AI worm could target any online device",
-      "summary": "Article URL: https://www.utoronto.ca/news/u-t-researchers-demonstrate-ai-worm-could-target-any-online-device Comments URL: https://news.ycombinator.com/item?id=48379664 Points: 150 # Comments: 46",
-      "source": "Hacker News",
-      "published": "2026-06-03T03:47:21+00:00",
-      "link": "https://www.utoronto.ca/news/u-t-researchers-demonstrate-ai-worm-could-target-any-online-device"
     }
   ]
 };
