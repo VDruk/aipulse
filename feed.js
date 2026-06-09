@@ -1,6 +1,27 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-06-08T22:20:19.805111+00:00",
+  "lastUpdated": "2026-06-09T05:04:14.611527+00:00",
   "items": [
+    {
+      "title": "Why Apple’s slow-and-steady AI bet is starting to look pretty smart",
+      "summary": "Can Apple's new AI glow up put to bed accusations that it's losing an all-important industry race?",
+      "source": "TechCrunch",
+      "published": "2026-06-09T01:56:48+00:00",
+      "link": "https://techcrunch.com/2026/06/08/why-apples-slow-and-steady-ai-bet-is-starting-to-look-pretty-smart/"
+    },
+    {
+      "title": "As OpenAI files for IPO, Sam Altman’s eye-scanning company is doing layoffs, report says",
+      "summary": "Tools for Humanity, Sam Altman's identity verification company, is reportedly struggling to generate revenue and will downsize its staff.",
+      "source": "TechCrunch",
+      "published": "2026-06-08T22:41:45+00:00",
+      "link": "https://techcrunch.com/2026/06/08/as-openai-files-for-ipo-sam-altmans-eye-scanning-company-is-doing-layoffs-report-says/"
+    },
+    {
+      "title": "Apple’s WWDC AI demos looked more real after $250M false ad settlement",
+      "summary": "The vibe of Apple's 2026 WWDC keynote felt like a spouse proudly listing all the honey-do-list items tackled. One subtle example: the many AI demos of someone standing, phone in hand.",
+      "source": "TechCrunch",
+      "published": "2026-06-08T22:39:57+00:00",
+      "link": "https://techcrunch.com/2026/06/08/apples-wwdc-ai-demos-looked-more-real-after-250m-false-ad-settlement/"
+    },
     {
       "title": "Apple is using AI to fix Safari’s extension problem",
       "summary": "Apple is trying to solve one of Safari's biggest weaknesses with AI. Safari has long lacked the robust library of extensions that its rivals have, mainly due to the stringent development requirements from Apple.",
@@ -21,6 +42,13 @@ const FEED_DATA = {
       "source": "Wired",
       "published": "2026-06-08T21:31:58+00:00",
       "link": "https://www.wired.com/story/openai-confidentially-files-for-ipo/"
+    },
+    {
+      "title": "OpenAI files confidentially for IPO, following Anthropic",
+      "summary": "The filing comes a little more than a week after its main rival, Anthropic, also filed to go public, ramping up the race between the two AI firms.",
+      "source": "TechCrunch",
+      "published": "2026-06-08T21:29:57+00:00",
+      "link": "https://techcrunch.com/2026/06/08/following-anthropic-openai-files-confidentially-for-ipo/"
     },
     {
       "title": "Following Anthropic, OpenAI files confidentially for IPO",
@@ -52,7 +80,7 @@ const FEED_DATA = {
     },
     {
       "title": "Apple reveals new AI architecture built around Google Gemini models",
-      "summary": "Article URL: https://www.macrumors.com/2026/06/08/apple-reveals-new-ai-architecture/ Comments URL: https://news.ycombinator.com/item?id=48450142 Points: 276 # Comments: 232",
+      "summary": "Article URL: https://www.macrumors.com/2026/06/08/apple-reveals-new-ai-architecture/ Comments URL: https://news.ycombinator.com/item?id=48450142 Points: 450 # Comments: 367",
       "source": "Hacker News",
       "published": "2026-06-08T19:14:47+00:00",
       "link": "https://www.macrumors.com/2026/06/08/apple-reveals-new-ai-architecture/"
@@ -66,7 +94,7 @@ const FEED_DATA = {
     },
     {
       "title": "Apple Core AI Framework",
-      "summary": "Article URL: https://developer.apple.com/documentation/coreai/ Comments URL: https://news.ycombinator.com/item?id=48449665 Points: 85 # Comments: 4",
+      "summary": "Article URL: https://developer.apple.com/documentation/coreai/ Comments URL: https://news.ycombinator.com/item?id=48449665 Points: 238 # Comments: 55",
       "source": "Hacker News",
       "published": "2026-06-08T18:47:38+00:00",
       "link": "https://developer.apple.com/documentation/coreai/"
@@ -108,14 +136,14 @@ const FEED_DATA = {
     },
     {
       "title": "Ask HN: What are tools you have made for yourself since the advent of AI?",
-      "summary": "Comments URL: https://news.ycombinator.com/item?id=48449187 Points: 81 # Comments: 122",
+      "summary": "Comments URL: https://news.ycombinator.com/item?id=48449187 Points: 203 # Comments: 354",
       "source": "Hacker News",
       "published": "2026-06-08T18:22:39+00:00",
       "link": "https://news.ycombinator.com/item?id=48449187"
     },
     {
       "title": "Siri AI",
-      "summary": "Article URL: https://www.apple.com/apple-intelligence/ Comments URL: https://news.ycombinator.com/item?id=48449084 Points: 286 # Comments: 214",
+      "summary": "Article URL: https://www.apple.com/apple-intelligence/ Comments URL: https://news.ycombinator.com/item?id=48449084 Points: 490 # Comments: 426",
       "source": "Hacker News",
       "published": "2026-06-08T18:17:53+00:00",
       "link": "https://www.apple.com/apple-intelligence/"
@@ -199,7 +227,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI is slowing down",
-      "summary": "Article URL: https://www.wheresyoured.at/ai-is-slowing-down/ Comments URL: https://news.ycombinator.com/item?id=48446893 Points: 296 # Comments: 337",
+      "summary": "Article URL: https://www.wheresyoured.at/ai-is-slowing-down/ Comments URL: https://news.ycombinator.com/item?id=48446893 Points: 456 # Comments: 477",
       "source": "Hacker News",
       "published": "2026-06-08T15:46:37+00:00",
       "link": "https://www.wheresyoured.at/ai-is-slowing-down/"
@@ -276,14 +304,14 @@ const FEED_DATA = {
     },
     {
       "title": "SDSU Wired Its Dorms with 1,300 AI Cameras Without Telling Students",
-      "summary": "Article URL: https://reclaimthenet.org/sdsu-adds-1300-ai-cameras-330-in-student-dorms Comments URL: https://news.ycombinator.com/item?id=48440994 Points: 51 # Comments: 16",
+      "summary": "Article URL: https://reclaimthenet.org/sdsu-adds-1300-ai-cameras-330-in-student-dorms Comments URL: https://news.ycombinator.com/item?id=48440994 Points: 52 # Comments: 17",
       "source": "Hacker News",
       "published": "2026-06-08T03:24:44+00:00",
       "link": "https://reclaimthenet.org/sdsu-adds-1300-ai-cameras-330-in-student-dorms"
     },
     {
       "title": "DeepSeek V4 Pro beats GPT-5.5 Pro on precision",
-      "summary": "Article URL: https://runtimewire.com/article/deepseek-v4-pro-beats-gpt-5-5-pro-on-precision Comments URL: https://news.ycombinator.com/item?id=48440448 Points: 386 # Comments: 212",
+      "summary": "Article URL: https://runtimewire.com/article/deepseek-v4-pro-beats-gpt-5-5-pro-on-precision Comments URL: https://news.ycombinator.com/item?id=48440448 Points: 390 # Comments: 217",
       "source": "Hacker News",
       "published": "2026-06-08T01:39:30+00:00",
       "link": "https://runtimewire.com/article/deepseek-v4-pro-beats-gpt-5-5-pro-on-precision"
@@ -416,7 +444,7 @@ const FEED_DATA = {
     },
     {
       "title": "US House lawmakers release draft bill to prohibit state AI rules",
-      "summary": "Article URL: https://www.reuters.com/business/us-house-lawmakers-release-draft-bill-regulate-ai-2026-06-04/ Comments URL: https://news.ycombinator.com/item?id=48425031 Points: 129 # Comments: 97",
+      "summary": "Article URL: https://www.reuters.com/business/us-house-lawmakers-release-draft-bill-regulate-ai-2026-06-04/ Comments URL: https://news.ycombinator.com/item?id=48425031 Points: 129 # Comments: 99",
       "source": "Hacker News",
       "published": "2026-06-06T13:40:22+00:00",
       "link": "https://www.reuters.com/business/us-house-lawmakers-release-draft-bill-regulate-ai-2026-06-04/"
@@ -497,6 +525,13 @@ const FEED_DATA = {
       "source": "Hacker News",
       "published": "2026-06-05T22:12:58+00:00",
       "link": "https://disassociated.com/microsoft-users-addicted-ai-personal-assistant/"
+    },
+    {
+      "title": "Hermes Agent – Open-source AI agent with persistent memory",
+      "summary": "Article URL: https://hermes-agent.org/ Comments URL: https://news.ycombinator.com/item?id=48419000 Points: 50 # Comments: 31",
+      "source": "Hacker News",
+      "published": "2026-06-05T22:09:38+00:00",
+      "link": "https://hermes-agent.org/"
     },
     {
       "title": "Hacker News, Sans AI",
@@ -1365,41 +1400,6 @@ const FEED_DATA = {
       "source": "Wired",
       "published": "2026-06-02T18:00:00+00:00",
       "link": "https://www.wired.com/story/meet-microsoft-scout-your-ai-coworker-that-never-logs-off/"
-    },
-    {
-      "title": "Amazon faces class action lawsuit over Ring facial-recognition feature",
-      "summary": "The class action lawsuit, filed in Seattle by Virginia resident Charles Sigwalt, claims that Ring's Familiar Faces feature stores images of passersby without consent.",
-      "source": "TechCrunch",
-      "published": "2026-06-02T17:47:28+00:00",
-      "link": "https://techcrunch.com/2026/06/02/amazon-faces-class-action-lawsuit-over-ring-facial-recognition-feature/"
-    },
-    {
-      "title": "Microsoft’s Project Solara is an OS for AI agent gadgets",
-      "summary": "Microsoft just announced \"Project Solara,\" a new OS designed for gadgets that run AI agents, at Build 2026. The company is calling it \"a new platform built from the ground up to power agent-driven experiences.\" It's built on Android, not Windows.",
-      "source": "The Verge",
-      "published": "2026-06-02T17:31:02+00:00",
-      "link": "https://www.theverge.com/news/941830/microsoft-project-solara-os-ai-agent-gadgets"
-    },
-    {
-      "title": "Trump signs downsized AI order after weeks of reversals",
-      "summary": "https://www.whitehouse.gov/presidential-actions/2026/06/prom...https://www.nytimes.com/2026/06/02/technology/trump-executiv... Comments URL: https://news.ycombinator.com/item?id=48372628 Points: 235 # Comments: 173",
-      "source": "Hacker News",
-      "published": "2026-06-02T16:40:16+00:00",
-      "link": "https://www.politico.com/news/2026/06/02/trump-signs-downsized-ai-order-00946389"
-    },
-    {
-      "title": "Microsoft created the mini Surface dev box that Qualcomm couldn’t",
-      "summary": "Microsoft only just announced a new Surface Laptop Ultra at the weekend, and it's now revealing a miniature Surface PC aimed at developers.",
-      "source": "The Verge",
-      "published": "2026-06-02T16:30:00+00:00",
-      "link": "https://www.theverge.com/news/941271/microsoft-surface-rtx-spark-dev-box-specs-availability"
-    },
-    {
-      "title": "Anthropic scales Project Glasswing to 150 partners across 15 countries to hunt critical software flaws",
-      "summary": "Anthropic is scaling up Project Glasswing with 150 new partners across more than 15 countries, all using Claude Mythos Preview to scan critical infrastructure for security flaws. Partners already on board have found over 10,000 serious vulnerabilities.",
-      "source": "The Decoder",
-      "published": "2026-06-02T16:29:42+00:00",
-      "link": "https://the-decoder.com/anthropic-scales-project-glasswing-to-150-partners-across-15-countries-to-hunt-critical-software-flaws/"
     }
   ]
 };
