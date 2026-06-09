@@ -1,6 +1,69 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-06-09T11:50:31.194926+00:00",
+  "lastUpdated": "2026-06-09T15:57:49.894831+00:00",
   "items": [
+    {
+      "title": "Landmark German ruling declares Google's AI Overviews are Google's own words and makes it liable for false answers",
+      "summary": "A German regional court has ruled that Google is directly liable for the content of its AI search overviews. According to the court, previous limited liability protections for search engine operators don't apply to AI overviews.",
+      "source": "The Decoder",
+      "published": "2026-06-09T15:55:53+00:00",
+      "link": "https://the-decoder.com/landmark-german-ruling-declares-googles-ai-overviews-are-googles-own-words-and-makes-it-liable-for-false-answers/"
+    },
+    {
+      "title": "Microsoft AI chief walks back comments about AI taking over white-collar work",
+      "summary": "Microsoft AI head Mustafa Suleyman is walking back his statement about AI automating jobs done by white-collar workers, including lawyers, accountants, and project managers.",
+      "source": "The Verge",
+      "published": "2026-06-09T14:54:51+00:00",
+      "link": "https://www.theverge.com/tech/946879/microsoft-mustafa-suleyman-ai-white-collar-jobs"
+    },
+    {
+      "title": "Apple’s AI promises are finally, almost, sort of here",
+      "summary": "Apple kicked off its annual developer conference with bold promises about AI.",
+      "source": "The Verge",
+      "published": "2026-06-09T14:18:18+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/946780/apples-ai-promises-are-finally-almost-sort-of-here"
+    },
+    {
+      "title": "Beijing's $295 billion AI buildout would require 80 percent domestic chips, locking out US suppliers",
+      "summary": "China plans to invest roughly $295 billion in a nationwide AI data center network over the next five years, Bloomberg reports. At least 80 percent of the technology would come from domestic suppliers like Huawei.",
+      "source": "The Decoder",
+      "published": "2026-06-09T13:54:49+00:00",
+      "link": "https://the-decoder.com/beijings-295-billion-ai-buildout-would-require-80-percent-domestic-chips-locking-out-us-suppliers/"
+    },
+    {
+      "title": "Sandstone raises $30M to bring AI to in-house legal teams",
+      "summary": "Sandstone's Series A was led by Lightspeed Partners, with participation from Sequoia.",
+      "source": "TechCrunch",
+      "published": "2026-06-09T13:47:25+00:00",
+      "link": "https://techcrunch.com/2026/06/09/sandstone-raises-30m-to-bring-ai-to-in-house-legal-teams/"
+    },
+    {
+      "title": "Apple’s best AI idea looks a lot like vibe coding",
+      "summary": "Most of Apple's current AI ideas are roughly the same as everyone else's AI ideas. A chatbot you can ask questions; quick ways to create or summarize text; bizarre, borderline creepy image-generation tools.",
+      "source": "The Verge",
+      "published": "2026-06-09T13:34:48+00:00",
+      "link": "https://www.theverge.com/tech/946733/apple-shortcuts-ai-safari-tabs-vibe-code"
+    },
+    {
+      "title": "Apple’s AI pitch will live or die by its privacy promise",
+      "summary": "As expected, yesterday's WWDC keynote was mostly about AI. And also as expected, Apple tried to turn its late arrival into its sales pitch: It didn't rush into AI because it was taking its time to do things right.",
+      "source": "The Verge",
+      "published": "2026-06-09T12:55:33+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/946705/apple-private-cloud-compute-ai-siri-intelligence-wwdc"
+    },
+    {
+      "title": "The Download: whole-body rejuvenation drugs and five things to know about AI",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.",
+      "source": "MIT Tech Review",
+      "published": "2026-06-09T12:10:00+00:00",
+      "link": "https://www.technologyreview.com/2026/06/09/1138604/the-download-anti-aging-drugs-ai-five-things-to-know/"
+    },
+    {
+      "title": "How an e-scooter founder raised $5 million to build space data centers",
+      "summary": "Orbital founder Euwyn Poon built 250,000 scooters at Spin. Now he wants to launch 10,000 space data centers.",
+      "source": "TechCrunch",
+      "published": "2026-06-09T12:00:00+00:00",
+      "link": "https://techcrunch.com/2026/06/09/how-an-e-scooter-founder-raised-5-million-to-build-space-data-centers/"
+    },
     {
       "title": "Apple Intelligence gets a second shot with help from Google and Nvidia",
       "summary": "At WWDC 2026, Apple showed off a rebuilt version of Siri. The assistant runs on foundation models developed with Google.",
@@ -1337,69 +1400,6 @@ const FEED_DATA = {
       "source": "Hacker News",
       "published": "2026-06-03T03:47:21+00:00",
       "link": "https://www.utoronto.ca/news/u-t-researchers-demonstrate-ai-worm-could-target-any-online-device"
-    },
-    {
-      "title": "More than 6 out of 10 people turn to AI for psychological support",
-      "summary": "Article URL: https://www.axa.com/en/press/press-releases/2026-mind-health-report Comments URL: https://news.ycombinator.com/item?id=48377854 Points: 81 # Comments: 90",
-      "source": "Hacker News",
-      "published": "2026-06-02T23:55:04+00:00",
-      "link": "https://www.axa.com/en/press/press-releases/2026-mind-health-report"
-    },
-    {
-      "title": "AI outperforms law professors in Stanford Law study",
-      "summary": "https://law.stanford.edu/wp-content/uploads/2026/06/salinas_... Comments URL: https://news.ycombinator.com/item?id=48377761 Points: 410 # Comments: 357",
-      "source": "Hacker News",
-      "published": "2026-06-02T23:43:12+00:00",
-      "link": "https://law.stanford.edu/press/ai-outperforms-law-professors-in-stanford-law-study/"
-    },
-    {
-      "title": "Now AI agents need what RSS does",
-      "summary": "Article URL: https://julienreszka.com/blog/rss-is-back-ai-agents-are-reading-it/ Comments URL: https://news.ycombinator.com/item?id=48375673 Points: 85 # Comments: 65",
-      "source": "Hacker News",
-      "published": "2026-06-02T20:19:11+00:00",
-      "link": "https://julienreszka.com/blog/rss-is-back-ai-agents-are-reading-it/"
-    },
-    {
-      "title": "Microsoft Build 2026: The 7 biggest announcements",
-      "summary": "Microsoft just kicked off Build 2026 with a keynote from CEO Satya Nadella and other company leaders. As expected, it was filled with announcements, ranging from new Surface hardware to an always-on personal assistant and updates across Microsoft's in-house AI models.",
-      "source": "The Verge",
-      "published": "2026-06-02T19:23:52+00:00",
-      "link": "https://www.theverge.com/tech/941738/microsoft-build-2026-biggest-announcements"
-    },
-    {
-      "title": "Uber caps employee AI spending after blowing through budget in 4 months",
-      "summary": "Uber's cutback has occurred after the company had reportedly encouraged staff to use AI as much as possible.",
-      "source": "TechCrunch",
-      "published": "2026-06-02T19:11:48+00:00",
-      "link": "https://techcrunch.com/2026/06/02/uber-caps-employee-ai-spending-after-blowing-through-budget-in-four-months/"
-    },
-    {
-      "title": "New Microsoft tool lets devs spin up AI behavior tests using text descriptions",
-      "summary": "Microsoft on Tuesday took the wraps off Adaptive Spec-driven Scoring for Evaluation and Regression Testing, an open source framework for spinning up AI evaluations.",
-      "source": "TechCrunch",
-      "published": "2026-06-02T19:02:21+00:00",
-      "link": "https://techcrunch.com/2026/06/02/new-microsoft-tool-lets-devs-spin-up-ai-behavior-tests-using-text-descriptions/"
-    },
-    {
-      "title": "Microsoft Wants to 'Make People Addicted' to Its New AI Assistant",
-      "summary": "Article URL: https://www.404media.co/microsoft-wants-to-make-people-addicted-to-scout-its-new-ai-assistant-internal-documents-reveal/ Comments URL: https://news.ycombinator.com/item?id=48374503 Points: 56 # Comments: 12",
-      "source": "Hacker News",
-      "published": "2026-06-02T18:49:28+00:00",
-      "link": "https://www.404media.co/microsoft-wants-to-make-people-addicted-to-scout-its-new-ai-assistant-internal-documents-reveal/"
-    },
-    {
-      "title": "OpenAI expands Codex with role-specific plugins to build a general-purpose app for non-developers",
-      "summary": "OpenAI is expanding Codex with role-specific plugins for data analysis, sales, and investment banking. Five million people use the tool each week, and one in five isn't a developer, the company says.",
-      "source": "The Decoder",
-      "published": "2026-06-02T18:34:15+00:00",
-      "link": "https://the-decoder.com/openai-expands-codex-with-role-specific-plugins-to-build-a-general-purpose-app-for-non-developers/"
-    },
-    {
-      "title": "Trump signs executive order to review AI models before they’re released",
-      "summary": "President Donald Trump signed an executive order Tuesday creating a \"voluntary framework\" for AI companies to share their frontier models with the federal government before they're released \"to promote secure innovation and strengthen the cybersecurity of critical...",
-      "source": "The Verge",
-      "published": "2026-06-02T18:33:42+00:00",
-      "link": "https://www.theverge.com/policy/941775/trump-ai-executive-order"
     }
   ]
 };
