@@ -1,6 +1,90 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-06-10T12:11:10.235040+00:00",
+  "lastUpdated": "2026-06-10T16:35:41.321026+00:00",
   "items": [
+    {
+      "title": "How memory tools can make AI models worse",
+      "summary": "New research suggests that AI memory systems can degrade model performance and encourage sycophantic tendencies.",
+      "source": "TechCrunch",
+      "published": "2026-06-10T16:11:08+00:00",
+      "link": "https://techcrunch.com/2026/06/10/how-memory-tools-can-make-ai-models-worse/"
+    },
+    {
+      "title": "Cybersecurity researchers aren’t happy about the guardrails on Anthropic’s Fable",
+      "summary": "Cybersecurity researchers are complaining that Anthropic's new model Fable has guardrails that are too strict for any cybersecurity work.",
+      "source": "TechCrunch",
+      "published": "2026-06-10T15:41:22+00:00",
+      "link": "https://techcrunch.com/2026/06/10/cybersecurity-researchers-arent-happy-about-the-guardrails-on-anthropics-fable/"
+    },
+    {
+      "title": "Apache Burr: Build reliable AI agents and applications",
+      "summary": "Article URL: https://burr.apache.org/ Comments URL: https://news.ycombinator.com/item?id=48477400 Points: 51 # Comments: 23",
+      "source": "Hacker News",
+      "published": "2026-06-10T15:01:06+00:00",
+      "link": "https://burr.apache.org/"
+    },
+    {
+      "title": "Datadog veterans launch AI coding startup Niteshift on a bet against Big AI lock-in",
+      "summary": "AI coding agent startup Niteshift has raised a $7 million seed round from a who's who of angels. It's betting companies will want power over, not lock-in with model makers.",
+      "source": "TechCrunch",
+      "published": "2026-06-10T15:00:00+00:00",
+      "link": "https://techcrunch.com/2026/06/10/datadog-veterans-launch-ai-coding-startup-niteshift-on-a-bet-against-big-ai-lock-in/"
+    },
+    {
+      "title": "Warner Music acquires AI attribution startup Sureel AI",
+      "summary": "Through the acquisition, WMG aims to better track when its artists' work is used in AI-generated content or for training AI models.",
+      "source": "TechCrunch",
+      "published": "2026-06-10T14:31:30+00:00",
+      "link": "https://techcrunch.com/2026/06/10/warner-music-acquires-ai-attribution-startup-sureel-ai/"
+    },
+    {
+      "title": "Wrongful Arrest Exposes Failures in One of the Oldest Police Face-Recognition Tools in the US",
+      "summary": "The ACLU is suing two Florida police departments over the arrest of a Fort Myers man in a child-abduction case, saying officers treated a flawed face-recognition match as a near-certain ID.",
+      "source": "Wired",
+      "published": "2026-06-10T14:00:00+00:00",
+      "link": "https://www.wired.com/story/wrongful-arrest-tests-one-of-the-oldest-police-face-recognition-tools-in-the-us/"
+    },
+    {
+      "title": "OpenAI wants its biggest data center yet, and Nvidia would back the bill",
+      "summary": "OpenAI is negotiating to lease a planned 10-gigawatt data center in Ohio that could be financially backed by Nvidia, according to The Information. The article OpenAI wants its biggest data center yet, and Nvidia would back the bill appeared first on The Decoder.",
+      "source": "The Decoder",
+      "published": "2026-06-10T13:59:48+00:00",
+      "link": "https://the-decoder.com/openai-wants-its-biggest-data-center-yet-and-nvidia-would-back-the-bill/"
+    },
+    {
+      "title": "A €0.01 bank transfer could compromise a banking AI agent",
+      "summary": "Article URL: https://blue41.com/blog/how-we-helped-bunq-secure-their-financial-ai-assistant/ Comments URL: https://news.ycombinator.com/item?id=48476136 Points: 60 # Comments: 43",
+      "source": "Hacker News",
+      "published": "2026-06-10T13:39:11+00:00",
+      "link": "https://blue41.com/blog/how-we-helped-bunq-secure-their-financial-ai-assistant/"
+    },
+    {
+      "title": "Claude Fable 5: The first Mythos model is powerful, expensive, and heavily filtered",
+      "summary": "Anthropic has released Claude Fable 5, the first model in its new Mythos class. It leads nearly every benchmark, including SWE-bench Verified at 95 percent, but costs twice as much as Opus 4.8 at 10 or 50 dollars per million tokens.",
+      "source": "The Decoder",
+      "published": "2026-06-10T13:34:40+00:00",
+      "link": "https://the-decoder.com/claude-fable-5-the-first-mythos-model-is-powerful-expensive-and-heavily-filtered/"
+    },
+    {
+      "title": "Jedify raises $24M to help companies arm AI agents with context on their business",
+      "summary": "The funding round was led by Norwest, with participation S Capital VC, Cerca Partners, and Oceans Ventures. Snowflake Ventures also participated as a strategic investor.",
+      "source": "TechCrunch",
+      "published": "2026-06-10T13:33:09+00:00",
+      "link": "https://techcrunch.com/2026/06/10/jedify-raises-24m-to-help-companies-arm-ai-agents-with-context-on-their-business/"
+    },
+    {
+      "title": "Decart’s new world model can simulate hours of photorealistic driving — with some caveats",
+      "summary": "Decart is launching Oasis 3, a real-time world model that generates photorealistic driving environments for autonomous vehicle testing, now available via API for developers to build on.",
+      "source": "TechCrunch",
+      "published": "2026-06-10T13:07:56+00:00",
+      "link": "https://techcrunch.com/2026/06/10/decarts-new-world-model-can-simulate-hours-of-photorealistic-driving-with-some-caveats/"
+    },
+    {
+      "title": "The Download: the “steroid olympics” and a safer Mythos",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.",
+      "source": "MIT Tech Review",
+      "published": "2026-06-10T12:10:00+00:00",
+      "link": "https://www.technologyreview.com/2026/06/10/1138739/the-download-steroid-olympics-enhanced-games-anthropic-mythos/"
+    },
     {
       "title": "Germany's National Security Council greenights an AI Safety Institute modeled after the UK's AISI",
       "summary": "Germany's National Security Council has decided to establish an AI security institute. The \"DE-AISI\" will test frontier models from Anthropic or OpenAI for security risks, following the British model.",
@@ -45,14 +129,14 @@ const FEED_DATA = {
     },
     {
       "title": "Rich Sutton on AI creativity and discovery",
-      "summary": "https://www.youtube.com/watch?v=K5LAFEjTlBA Comments URL: https://news.ycombinator.com/item?id=48470581 Points: 144 # Comments: 75",
+      "summary": "https://www.youtube.com/watch?v=K5LAFEjTlBA Comments URL: https://news.ycombinator.com/item?id=48470581 Points: 186 # Comments: 99",
       "source": "Hacker News",
       "published": "2026-06-10T02:25:24+00:00",
       "link": "https://twitter.com/RichardSSutton/status/2061216087744946656"
     },
     {
       "title": "German ruling declares Google liable for false answers in AI Overviews",
-      "summary": "Article URL: https://the-decoder.com/landmark-german-ruling-declares-googles-ai-overviews-are-googles-own-words-and-makes-it-liable-for-false-answers/ Comments URL: https://news.ycombinator.com/item?id=48470248 Points: 665 # Comments: 376",
+      "summary": "Article URL: https://the-decoder.com/landmark-german-ruling-declares-googles-ai-overviews-are-googles-own-words-and-makes-it-liable-for-false-answers/ Comments URL: https://news.ycombinator.com/item?id=48470248 Points: 848 # Comments: 471",
       "source": "Hacker News",
       "published": "2026-06-10T01:44:13+00:00",
       "link": "https://the-decoder.com/landmark-german-ruling-declares-googles-ai-overviews-are-googles-own-words-and-makes-it-liable-for-false-answers/"
@@ -80,7 +164,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI misidentification results in wrongful arrest; man seeks justice",
-      "summary": "Article URL: https://www.wsoctv.com/news/local/ai-misidentification-results-wrongful-arrest-man-seeks-justice/I7UQJWV33FBN3LMKHCSXI6FIVA/ Comments URL: https://news.ycombinator.com/item?id=48468789 Points: 88 # Comments: 42",
+      "summary": "Article URL: https://www.wsoctv.com/news/local/ai-misidentification-results-wrongful-arrest-man-seeks-justice/I7UQJWV33FBN3LMKHCSXI6FIVA/ Comments URL: https://news.ycombinator.com/item?id=48468789 Points: 92 # Comments: 42",
       "source": "Hacker News",
       "published": "2026-06-09T22:37:49+00:00",
       "link": "https://www.wsoctv.com/news/local/ai-misidentification-results-wrongful-arrest-man-seeks-justice/I7UQJWV33FBN3LMKHCSXI6FIVA/"
@@ -122,14 +206,14 @@ const FEED_DATA = {
     },
     {
       "title": "Apple's AI Can Now Change Your Passwords. What Could Possibly Go Wrong?",
-      "summary": "Article URL: https://www.kylereddoch.me/blog/apples-ai-can-now-change-your-passwords-what-could-possibly-go-wrong/ Comments URL: https://news.ycombinator.com/item?id=48465744 Points: 78 # Comments: 42",
+      "summary": "Article URL: https://www.kylereddoch.me/blog/apples-ai-can-now-change-your-passwords-what-could-possibly-go-wrong/ Comments URL: https://news.ycombinator.com/item?id=48465744 Points: 81 # Comments: 42",
       "source": "Hacker News",
       "published": "2026-06-09T18:50:27+00:00",
       "link": "https://www.kylereddoch.me/blog/apples-ai-can-now-change-your-passwords-what-could-possibly-go-wrong/"
     },
     {
       "title": "CEOs who think AI replaces their employees are just bad CEOs",
-      "summary": "Article URL: https://www.techdirt.com/2026/06/09/ceos-who-think-ai-replaces-their-employees-are-just-bad-ceos/ Comments URL: https://news.ycombinator.com/item?id=48465675 Points: 719 # Comments: 259",
+      "summary": "Article URL: https://www.techdirt.com/2026/06/09/ceos-who-think-ai-replaces-their-employees-are-just-bad-ceos/ Comments URL: https://news.ycombinator.com/item?id=48465675 Points: 786 # Comments: 290",
       "source": "Hacker News",
       "published": "2026-06-09T18:45:59+00:00",
       "link": "https://www.techdirt.com/2026/06/09/ceos-who-think-ai-replaces-their-employees-are-just-bad-ceos/"
@@ -143,7 +227,7 @@ const FEED_DATA = {
     },
     {
       "title": "GPT-2: Too Dangerous To Release (2019)",
-      "summary": "Article URL: https://naokishibuya.github.io/blog/2022-12-30-gpt-2-2019/ Comments URL: https://news.ycombinator.com/item?id=48465269 Points: 275 # Comments: 120",
+      "summary": "Article URL: https://naokishibuya.github.io/blog/2022-12-30-gpt-2-2019/ Comments URL: https://news.ycombinator.com/item?id=48465269 Points: 281 # Comments: 123",
       "source": "Hacker News",
       "published": "2026-06-09T18:21:43+00:00",
       "link": "https://naokishibuya.github.io/blog/2022-12-30-gpt-2-2019/"
@@ -157,7 +241,7 @@ const FEED_DATA = {
     },
     {
       "title": "Where is the AI jobs crisis?",
-      "summary": "Article URL: https://www.apollo.com/wealth/the-daily-spark/where-is-the-ai-jobs-crisis Comments URL: https://news.ycombinator.com/item?id=48464333 Points: 155 # Comments: 250",
+      "summary": "Article URL: https://www.apollo.com/wealth/the-daily-spark/where-is-the-ai-jobs-crisis Comments URL: https://news.ycombinator.com/item?id=48464333 Points: 157 # Comments: 252",
       "source": "Hacker News",
       "published": "2026-06-09T17:29:17+00:00",
       "link": "https://www.apollo.com/wealth/the-daily-spark/where-is-the-ai-jobs-crisis"
@@ -213,7 +297,7 @@ const FEED_DATA = {
     },
     {
       "title": "'Sloppenheimer:' Amazon employees mock the company's AI on Slack",
-      "summary": "Article URL: https://www.404media.co/sloppenheimer-amazon-employees-mock-the-companys-ai-on-slack/ Comments URL: https://news.ycombinator.com/item?id=48462823 Points: 194 # Comments: 93",
+      "summary": "Article URL: https://www.404media.co/sloppenheimer-amazon-employees-mock-the-companys-ai-on-slack/ Comments URL: https://news.ycombinator.com/item?id=48462823 Points: 196 # Comments: 96",
       "source": "Hacker News",
       "published": "2026-06-09T15:59:41+00:00",
       "link": "https://www.404media.co/sloppenheimer-amazon-employees-mock-the-companys-ai-on-slack/"
@@ -227,7 +311,7 @@ const FEED_DATA = {
     },
     {
       "title": "Judge Learns Both Sides Used AI, Cancels Trial, Kicks Everyone Off the Case",
-      "summary": "Article URL: https://www.404media.co/judge-learns-lawyers-on-both-sides-of-case-used-ai-cancels-trial-kicks-everyone-off-the-case/ Comments URL: https://news.ycombinator.com/item?id=48462428 Points: 89 # Comments: 20",
+      "summary": "Article URL: https://www.404media.co/judge-learns-lawyers-on-both-sides-of-case-used-ai-cancels-trial-kicks-everyone-off-the-case/ Comments URL: https://news.ycombinator.com/item?id=48462428 Points: 93 # Comments: 21",
       "source": "Hacker News",
       "published": "2026-06-09T15:30:19+00:00",
       "link": "https://www.404media.co/judge-learns-lawyers-on-both-sides-of-case-used-ai-cancels-trial-kicks-everyone-off-the-case/"
@@ -332,7 +416,7 @@ const FEED_DATA = {
     },
     {
       "title": "Cleaning up after AI rockstar developers",
-      "summary": "Article URL: https://www.codingwithjesse.com/blog/rockstar-developers/ Comments URL: https://news.ycombinator.com/item?id=48458586 Points: 472 # Comments: 346",
+      "summary": "Article URL: https://www.codingwithjesse.com/blog/rockstar-developers/ Comments URL: https://news.ycombinator.com/item?id=48458586 Points: 480 # Comments: 351",
       "source": "Hacker News",
       "published": "2026-06-09T09:10:10+00:00",
       "link": "https://www.codingwithjesse.com/blog/rockstar-developers/"
@@ -353,7 +437,7 @@ const FEED_DATA = {
     },
     {
       "title": "Microsoft's open source tools were hacked to steal passwords of AI developers",
-      "summary": "Article URL: https://techcrunch.com/2026/06/08/microsofts-open-source-tools-were-hacked-to-steal-passwords-of-ai-developers/ Comments URL: https://news.ycombinator.com/item?id=48457830 Points: 540 # Comments: 186",
+      "summary": "Article URL: https://techcrunch.com/2026/06/08/microsofts-open-source-tools-were-hacked-to-steal-passwords-of-ai-developers/ Comments URL: https://news.ycombinator.com/item?id=48457830 Points: 549 # Comments: 189",
       "source": "Hacker News",
       "published": "2026-06-09T07:33:16+00:00",
       "link": "https://techcrunch.com/2026/06/08/microsofts-open-source-tools-were-hacked-to-steal-passwords-of-ai-developers/"
@@ -430,14 +514,14 @@ const FEED_DATA = {
     },
     {
       "title": "Apple bets cheaper AI will woo small developers",
-      "summary": "As AI experimentation grows more expensive, Apple is waiving cloud API costs for developers with fewer than 2 million first-time App Store downloads.",
-      "source": "TechCrunch",
-      "published": "2026-06-08T20:53:55+00:00",
+      "summary": "Article URL: https://techcrunch.com/2026/06/08/apple-bets-cheaper-ai-will-woo-small-developers/ Comments URL: https://news.ycombinator.com/item?id=48452000 Points: 97 # Comments: 35",
+      "source": "Hacker News",
+      "published": "2026-06-08T21:02:00+00:00",
       "link": "https://techcrunch.com/2026/06/08/apple-bets-cheaper-ai-will-woo-small-developers/"
     },
     {
       "title": "Apple reveals new AI architecture built around Google Gemini models",
-      "summary": "Article URL: https://www.macrumors.com/2026/06/08/apple-reveals-new-ai-architecture/ Comments URL: https://news.ycombinator.com/item?id=48450142 Points: 719 # Comments: 555",
+      "summary": "Article URL: https://www.macrumors.com/2026/06/08/apple-reveals-new-ai-architecture/ Comments URL: https://news.ycombinator.com/item?id=48450142 Points: 723 # Comments: 555",
       "source": "Hacker News",
       "published": "2026-06-08T19:14:47+00:00",
       "link": "https://www.macrumors.com/2026/06/08/apple-reveals-new-ai-architecture/"
@@ -451,7 +535,7 @@ const FEED_DATA = {
     },
     {
       "title": "Apple Core AI Framework",
-      "summary": "Article URL: https://developer.apple.com/documentation/coreai/ Comments URL: https://news.ycombinator.com/item?id=48449665 Points: 358 # Comments: 106",
+      "summary": "Article URL: https://developer.apple.com/documentation/coreai/ Comments URL: https://news.ycombinator.com/item?id=48449665 Points: 361 # Comments: 107",
       "source": "Hacker News",
       "published": "2026-06-08T18:47:38+00:00",
       "link": "https://developer.apple.com/documentation/coreai/"
@@ -493,14 +577,14 @@ const FEED_DATA = {
     },
     {
       "title": "Ask HN: What are tools you have made for yourself since the advent of AI?",
-      "summary": "Comments URL: https://news.ycombinator.com/item?id=48449187 Points: 421 # Comments: 717",
+      "summary": "Comments URL: https://news.ycombinator.com/item?id=48449187 Points: 423 # Comments: 723",
       "source": "Hacker News",
       "published": "2026-06-08T18:22:39+00:00",
       "link": "https://news.ycombinator.com/item?id=48449187"
     },
     {
       "title": "Siri AI",
-      "summary": "Article URL: https://www.apple.com/apple-intelligence/ Comments URL: https://news.ycombinator.com/item?id=48449084 Points: 667 # Comments: 690",
+      "summary": "Article URL: https://www.apple.com/apple-intelligence/ Comments URL: https://news.ycombinator.com/item?id=48449084 Points: 668 # Comments: 690",
       "source": "Hacker News",
       "published": "2026-06-08T18:17:53+00:00",
       "link": "https://www.apple.com/apple-intelligence/"
@@ -584,7 +668,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI is slowing down",
-      "summary": "Article URL: https://www.wheresyoured.at/ai-is-slowing-down/ Comments URL: https://news.ycombinator.com/item?id=48446893 Points: 655 # Comments: 755",
+      "summary": "Article URL: https://www.wheresyoured.at/ai-is-slowing-down/ Comments URL: https://news.ycombinator.com/item?id=48446893 Points: 657 # Comments: 758",
       "source": "Hacker News",
       "published": "2026-06-08T15:46:37+00:00",
       "link": "https://www.wheresyoured.at/ai-is-slowing-down/"
@@ -1316,90 +1400,6 @@ const FEED_DATA = {
       "source": "Wired",
       "published": "2026-06-04T01:01:00+00:00",
       "link": "https://www.wired.com/story/openai-anthropic-letter-ai-biological-weapons/"
-    },
-    {
-      "title": "Failing grades soar with AI usage, dwindling math skills in Berkeley CS classes",
-      "summary": "Article URL: https://www.dailycal.org/news/campus/academics/failing-grades-soar-as-professors-see-greater-ai-usage-dwindling-math-skills-in-uc-berkeley/article_16fad0bf-02cb-4b8c-8d88-888ffd9f8608.html Comments URL: https://news.ycombinator.com/item?id=48392004 Points: 823 #...",
-      "source": "Hacker News",
-      "published": "2026-06-04T00:18:02+00:00",
-      "link": "https://www.dailycal.org/news/campus/academics/failing-grades-soar-as-professors-see-greater-ai-usage-dwindling-math-skills-in-uc-berkeley/article_16fad0bf-02cb-4b8c-8d88-888ffd9f8608.html"
-    },
-    {
-      "title": "Lovable signs multiyear deal with Google Cloud to up usage 5x, source says",
-      "summary": "Lovable and Google signed an expanded multiyear deal that involves a 5x expansion of Lovable's footprint on Google Cloud, and expanded access to Anthropic Claude.",
-      "source": "TechCrunch",
-      "published": "2026-06-03T22:56:51+00:00",
-      "link": "https://techcrunch.com/2026/06/03/lovable-signs-multi-year-deal-with-google-cloud-to-up-usage-5x-source-says/"
-    },
-    {
-      "title": "Show HN: Mnemo – local-first AI memory layer for any LLM (Rust, SQLite,petgraph)",
-      "summary": "Article URL: https://github.com/zaydmulani09/mnemo Comments URL: https://news.ycombinator.com/item?id=48389586 Points: 59 # Comments: 28",
-      "source": "Hacker News",
-      "published": "2026-06-03T20:32:10+00:00",
-      "link": "https://github.com/zaydmulani09/mnemo"
-    },
-    {
-      "title": "Google Deepmind's Gemma 4 12B squeezes multimodal AI onto a laptop with just 16 GB of RAM",
-      "summary": "Google Deepmind's Gemma 4 12B is an open-source model that processes text, images, and audio natively and runs on laptops with just 16 GB of RAM. It nearly matches the twice-as-large 26B model in benchmarks and ships under an Apache 2.0 license for commercial use.",
-      "source": "The Decoder",
-      "published": "2026-06-03T19:54:13+00:00",
-      "link": "https://the-decoder.com/google-deepminds-gemma-4-12b-squeezes-multimodal-ai-onto-a-laptop-with-just-16-gb-of-ram/"
-    },
-    {
-      "title": "Can't make sense of Dashlane's vault theft notification? You're not alone.",
-      "summary": "Security advisory leaves out key details. Dashlane maintains complete silence.",
-      "source": "Ars Technica",
-      "published": "2026-06-03T19:53:14+00:00",
-      "link": "https://arstechnica.com/security/2026/06/dashlane-issues-opaque-advisory-warning-20-encrypted-vaults-were-stolen/"
-    },
-    {
-      "title": "Dashlane issues opaque advisory warning 20 encrypted vaults were stolen",
-      "summary": "Security advisory leaves out key details. Dashlane maintains complete silence.",
-      "source": "Ars Technica",
-      "published": "2026-06-03T19:53:14+00:00",
-      "link": "https://arstechnica.com/security/2026/06/dashlane-issues-opaque-advisory-warning-20-encrypted-vaults-were-stolen/"
-    },
-    {
-      "title": "Alphabet’s record-breaking $85B raise for Google’s AI business is a helluva good signal",
-      "summary": "If Alphabet's record-breaking $85 billion stock sale signals investor appetite for AI-related offerings, we can see that investors are ready to chow.",
-      "source": "TechCrunch",
-      "published": "2026-06-03T19:38:32+00:00",
-      "link": "https://techcrunch.com/2026/06/03/alphabets-record-breaking-85b-raise-for-googles-ai-business-is-a-helluva-good-signal/"
-    },
-    {
-      "title": "Google lets sites opt out of AI search results, knowing most have nowhere else to go",
-      "summary": "For the first time, Google is giving website operators an opt-out toggle in Search Console for AI search features like AI Overviews and AI Mode, which together already reach more than 3.5 billion monthly users. New performance reports break out impressions separately.",
-      "source": "The Decoder",
-      "published": "2026-06-03T19:28:29+00:00",
-      "link": "https://the-decoder.com/google-lets-sites-opt-out-of-ai-search-results-knowing-most-have-nowhere-else-to-go/"
-    },
-    {
-      "title": "Google’s Dreambeans, its weirdest-named AI tool to date, will turn your life into a cartoon",
-      "summary": "Dreambeans is a curated list of AI-illustrated \"stories\" culled from the personal data in your Google account.",
-      "source": "TechCrunch",
-      "published": "2026-06-03T19:07:42+00:00",
-      "link": "https://techcrunch.com/2026/06/03/googles-dreambeans-its-weirdest-named-ai-tool-to-date-will-turn-your-life-into-a-cartoon/"
-    },
-    {
-      "title": "xAI Asks Court to Strip Alleged Grok Deepfake Nudes Victims of Anonymity",
-      "summary": "Four people suing Elon Musk's AI firm under pseudonyms due to the risks of being identified may face a difficult choice: Reveal your real names, or drop the lawsuit.",
-      "source": "Wired",
-      "published": "2026-06-03T18:49:32+00:00",
-      "link": "https://www.wired.com/story/xai-asks-court-to-strip-alleged-grok-deepfake-nudes-victims-of-anonymity/"
-    },
-    {
-      "title": "Ideogram 4.0 drops as an open-weight model with native 2K resolution and improved text rendering",
-      "summary": "Ideogram releases version 4.0 of its text-to-image model as an open-weight model with native 2K resolution, bounding box control, and improved text rendering.",
-      "source": "The Decoder",
-      "published": "2026-06-03T18:34:36+00:00",
-      "link": "https://the-decoder.com/ideogram-4-0-drops-as-an-open-weight-model-with-native-2k-resolution-and-improved-text-rendering/"
-    },
-    {
-      "title": "The Humanoid Robot of the Future Is a 6-Foot-Tall Beefcake With a Chinese Body and an American Brain",
-      "summary": "Spencer Huang, Nvidia’s robotics lead, tells WIRED that the new bot combines the best of both worlds.",
-      "source": "Wired",
-      "published": "2026-06-03T18:00:00+00:00",
-      "link": "https://www.wired.com/story/nvidia-unitree-humanoid-robot-h2-plus/"
     }
   ]
 };
