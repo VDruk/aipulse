@@ -1,6 +1,48 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-06-09T22:18:12.665323+00:00",
+  "lastUpdated": "2026-06-10T05:16:31.454400+00:00",
   "items": [
+    {
+      "title": "Rich Sutton on AI creativity and discovery",
+      "summary": "https://www.youtube.com/watch?v=K5LAFEjTlBA Comments URL: https://news.ycombinator.com/item?id=48470581 Points: 52 # Comments: 20",
+      "source": "Hacker News",
+      "published": "2026-06-10T02:25:24+00:00",
+      "link": "https://twitter.com/RichardSSutton/status/2061216087744946656"
+    },
+    {
+      "title": "German ruling declares Google liable for false answers in AI Overviews",
+      "summary": "Article URL: https://the-decoder.com/landmark-german-ruling-declares-googles-ai-overviews-are-googles-own-words-and-makes-it-liable-for-false-answers/ Comments URL: https://news.ycombinator.com/item?id=48470248 Points: 222 # Comments: 120",
+      "source": "Hacker News",
+      "published": "2026-06-10T01:44:13+00:00",
+      "link": "https://the-decoder.com/landmark-german-ruling-declares-googles-ai-overviews-are-googles-own-words-and-makes-it-liable-for-false-answers/"
+    },
+    {
+      "title": "Google just fired a warning shot in the AI subscription price wars",
+      "summary": "Google just made it significantly cheaper to enjoy its budget AI subscription tier.",
+      "source": "TechCrunch",
+      "published": "2026-06-10T00:26:10+00:00",
+      "link": "https://techcrunch.com/2026/06/09/google-just-fired-a-warning-shot-in-the-ai-subscription-price-wars/"
+    },
+    {
+      "title": "I tried Siri AI, and so far it actually works",
+      "summary": "Parents want one thing, and one thing only, out of AI: to add a list of soccer games or \"spirit week\" theme days from an email or a poorly formatted flyer onto their calendar in one shot. And I have good news for parents with iPhones - the new Siri can finally do this.",
+      "source": "The Verge",
+      "published": "2026-06-09T23:43:00+00:00",
+      "link": "https://www.theverge.com/tech/947432/siri-ai-apple-intelligence-ios-27-wwdc"
+    },
+    {
+      "title": "How Justin Ernest invested nearly $500M into hot startups without a traditional VC fund",
+      "summary": "Instead of spending a year raising a formal venture fund, the Sabertooth VC founder used a captive network of LPs to invest in startups like Anthropic, Anduril, and SpaceX.",
+      "source": "TechCrunch",
+      "published": "2026-06-09T23:17:51+00:00",
+      "link": "https://techcrunch.com/2026/06/09/how-justin-ernest-invested-nearly-500m-into-hot-startups-without-a-traditional-vc-fund/"
+    },
+    {
+      "title": "AI misidentification results in wrongful arrest; man seeks justice",
+      "summary": "Article URL: https://www.wsoctv.com/news/local/ai-misidentification-results-wrongful-arrest-man-seeks-justice/I7UQJWV33FBN3LMKHCSXI6FIVA/ Comments URL: https://news.ycombinator.com/item?id=48468789 Points: 82 # Comments: 38",
+      "source": "Hacker News",
+      "published": "2026-06-09T22:37:49+00:00",
+      "link": "https://www.wsoctv.com/news/local/ai-misidentification-results-wrongful-arrest-man-seeks-justice/I7UQJWV33FBN3LMKHCSXI6FIVA/"
+    },
     {
       "title": "GM thinks EVs can help offset AI’s energy suck with vehicle-to-grid tech",
       "summary": "At an event in San Francisco today, General Motors made a series of announcements around EV batteries, energy storage, and grid resiliency in the face of growing electricity demand from AI data centers.",
@@ -9,7 +51,7 @@ const FEED_DATA = {
       "link": "https://www.theverge.com/transportation/946820/gm-energy-ev-v2g-storage-sodium-ion"
     },
     {
-      "title": "Hey Siri, here’s what I actually want from AI",
+      "title": "Hey, Siri, here’s what I actually want from AI",
       "summary": "I'm desperate for a personal AI assistant, but do I really want to become the kind of person who can't function without the friendly robot voice in my phone?",
       "source": "TechCrunch",
       "published": "2026-06-09T20:50:17+00:00",
@@ -38,14 +80,14 @@ const FEED_DATA = {
     },
     {
       "title": "Apple's AI Can Now Change Your Passwords. What Could Possibly Go Wrong?",
-      "summary": "Article URL: https://www.kylereddoch.me/blog/apples-ai-can-now-change-your-passwords-what-could-possibly-go-wrong/ Comments URL: https://news.ycombinator.com/item?id=48465744 Points: 78 # Comments: 39",
+      "summary": "Article URL: https://www.kylereddoch.me/blog/apples-ai-can-now-change-your-passwords-what-could-possibly-go-wrong/ Comments URL: https://news.ycombinator.com/item?id=48465744 Points: 78 # Comments: 42",
       "source": "Hacker News",
       "published": "2026-06-09T18:50:27+00:00",
       "link": "https://www.kylereddoch.me/blog/apples-ai-can-now-change-your-passwords-what-could-possibly-go-wrong/"
     },
     {
-      "title": "CEOs Who Think AI Replaces Their Employees Are Just Bad CEOs",
-      "summary": "Article URL: https://www.techdirt.com/2026/06/09/ceos-who-think-ai-replaces-their-employees-are-just-bad-ceos/ Comments URL: https://news.ycombinator.com/item?id=48465675 Points: 229 # Comments: 106",
+      "title": "CEOs who think AI replaces their employees are just bad CEOs",
+      "summary": "Article URL: https://www.techdirt.com/2026/06/09/ceos-who-think-ai-replaces-their-employees-are-just-bad-ceos/ Comments URL: https://news.ycombinator.com/item?id=48465675 Points: 529 # Comments: 213",
       "source": "Hacker News",
       "published": "2026-06-09T18:45:59+00:00",
       "link": "https://www.techdirt.com/2026/06/09/ceos-who-think-ai-replaces-their-employees-are-just-bad-ceos/"
@@ -59,7 +101,7 @@ const FEED_DATA = {
     },
     {
       "title": "GPT-2: Too Dangerous To Release (2019)",
-      "summary": "Article URL: https://naokishibuya.github.io/blog/2022-12-30-gpt-2-2019/ Comments URL: https://news.ycombinator.com/item?id=48465269 Points: 240 # Comments: 92",
+      "summary": "Article URL: https://naokishibuya.github.io/blog/2022-12-30-gpt-2-2019/ Comments URL: https://news.ycombinator.com/item?id=48465269 Points: 263 # Comments: 110",
       "source": "Hacker News",
       "published": "2026-06-09T18:21:43+00:00",
       "link": "https://naokishibuya.github.io/blog/2022-12-30-gpt-2-2019/"
@@ -73,7 +115,7 @@ const FEED_DATA = {
     },
     {
       "title": "Where is the AI jobs crisis?",
-      "summary": "Article URL: https://www.apollo.com/wealth/the-daily-spark/where-is-the-ai-jobs-crisis Comments URL: https://news.ycombinator.com/item?id=48464333 Points: 119 # Comments: 176",
+      "summary": "Article URL: https://www.apollo.com/wealth/the-daily-spark/where-is-the-ai-jobs-crisis Comments URL: https://news.ycombinator.com/item?id=48464333 Points: 142 # Comments: 225",
       "source": "Hacker News",
       "published": "2026-06-09T17:29:17+00:00",
       "link": "https://www.apollo.com/wealth/the-daily-spark/where-is-the-ai-jobs-crisis"
@@ -128,8 +170,8 @@ const FEED_DATA = {
       "link": "https://techcrunch.com/2026/06/09/its-not-faang-anymore-its-mangos/"
     },
     {
-      "title": "'Sloppenheimer:' Amazon Employees Mock the Company's AI on Slack",
-      "summary": "Article URL: https://www.404media.co/sloppenheimer-amazon-employees-mock-the-companys-ai-on-slack/ Comments URL: https://news.ycombinator.com/item?id=48462823 Points: 172 # Comments: 91",
+      "title": "'Sloppenheimer:' Amazon employees mock the company's AI on Slack",
+      "summary": "Article URL: https://www.404media.co/sloppenheimer-amazon-employees-mock-the-companys-ai-on-slack/ Comments URL: https://news.ycombinator.com/item?id=48462823 Points: 186 # Comments: 93",
       "source": "Hacker News",
       "published": "2026-06-09T15:59:41+00:00",
       "link": "https://www.404media.co/sloppenheimer-amazon-employees-mock-the-companys-ai-on-slack/"
@@ -143,7 +185,7 @@ const FEED_DATA = {
     },
     {
       "title": "Judge Learns Both Sides Used AI, Cancels Trial, Kicks Everyone Off the Case",
-      "summary": "Article URL: https://www.404media.co/judge-learns-lawyers-on-both-sides-of-case-used-ai-cancels-trial-kicks-everyone-off-the-case/ Comments URL: https://news.ycombinator.com/item?id=48462428 Points: 65 # Comments: 15",
+      "summary": "Article URL: https://www.404media.co/judge-learns-lawyers-on-both-sides-of-case-used-ai-cancels-trial-kicks-everyone-off-the-case/ Comments URL: https://news.ycombinator.com/item?id=48462428 Points: 82 # Comments: 19",
       "source": "Hacker News",
       "published": "2026-06-09T15:30:19+00:00",
       "link": "https://www.404media.co/judge-learns-lawyers-on-both-sides-of-case-used-ai-cancels-trial-kicks-everyone-off-the-case/"
@@ -248,7 +290,7 @@ const FEED_DATA = {
     },
     {
       "title": "Cleaning up after AI rockstar developers",
-      "summary": "Article URL: https://www.codingwithjesse.com/blog/rockstar-developers/ Comments URL: https://news.ycombinator.com/item?id=48458586 Points: 433 # Comments: 313",
+      "summary": "Article URL: https://www.codingwithjesse.com/blog/rockstar-developers/ Comments URL: https://news.ycombinator.com/item?id=48458586 Points: 457 # Comments: 331",
       "source": "Hacker News",
       "published": "2026-06-09T09:10:10+00:00",
       "link": "https://www.codingwithjesse.com/blog/rockstar-developers/"
@@ -269,7 +311,7 @@ const FEED_DATA = {
     },
     {
       "title": "Microsoft's open source tools were hacked to steal passwords of AI developers",
-      "summary": "Article URL: https://techcrunch.com/2026/06/08/microsofts-open-source-tools-were-hacked-to-steal-passwords-of-ai-developers/ Comments URL: https://news.ycombinator.com/item?id=48457830 Points: 514 # Comments: 175",
+      "summary": "Article URL: https://techcrunch.com/2026/06/08/microsofts-open-source-tools-were-hacked-to-steal-passwords-of-ai-developers/ Comments URL: https://news.ycombinator.com/item?id=48457830 Points: 532 # Comments: 183",
       "source": "Hacker News",
       "published": "2026-06-09T07:33:16+00:00",
       "link": "https://techcrunch.com/2026/06/08/microsofts-open-source-tools-were-hacked-to-steal-passwords-of-ai-developers/"
@@ -353,7 +395,7 @@ const FEED_DATA = {
     },
     {
       "title": "Apple reveals new AI architecture built around Google Gemini models",
-      "summary": "Article URL: https://www.macrumors.com/2026/06/08/apple-reveals-new-ai-architecture/ Comments URL: https://news.ycombinator.com/item?id=48450142 Points: 705 # Comments: 549",
+      "summary": "Article URL: https://www.macrumors.com/2026/06/08/apple-reveals-new-ai-architecture/ Comments URL: https://news.ycombinator.com/item?id=48450142 Points: 716 # Comments: 553",
       "source": "Hacker News",
       "published": "2026-06-08T19:14:47+00:00",
       "link": "https://www.macrumors.com/2026/06/08/apple-reveals-new-ai-architecture/"
@@ -367,7 +409,7 @@ const FEED_DATA = {
     },
     {
       "title": "Apple Core AI Framework",
-      "summary": "Article URL: https://developer.apple.com/documentation/coreai/ Comments URL: https://news.ycombinator.com/item?id=48449665 Points: 353 # Comments: 105",
+      "summary": "Article URL: https://developer.apple.com/documentation/coreai/ Comments URL: https://news.ycombinator.com/item?id=48449665 Points: 355 # Comments: 106",
       "source": "Hacker News",
       "published": "2026-06-08T18:47:38+00:00",
       "link": "https://developer.apple.com/documentation/coreai/"
@@ -409,14 +451,14 @@ const FEED_DATA = {
     },
     {
       "title": "Ask HN: What are tools you have made for yourself since the advent of AI?",
-      "summary": "Comments URL: https://news.ycombinator.com/item?id=48449187 Points: 411 # Comments: 692",
+      "summary": "Comments URL: https://news.ycombinator.com/item?id=48449187 Points: 415 # Comments: 709",
       "source": "Hacker News",
       "published": "2026-06-08T18:22:39+00:00",
       "link": "https://news.ycombinator.com/item?id=48449187"
     },
     {
       "title": "Siri AI",
-      "summary": "Article URL: https://www.apple.com/apple-intelligence/ Comments URL: https://news.ycombinator.com/item?id=48449084 Points: 659 # Comments: 684",
+      "summary": "Article URL: https://www.apple.com/apple-intelligence/ Comments URL: https://news.ycombinator.com/item?id=48449084 Points: 664 # Comments: 687",
       "source": "Hacker News",
       "published": "2026-06-08T18:17:53+00:00",
       "link": "https://www.apple.com/apple-intelligence/"
@@ -500,7 +542,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI is slowing down",
-      "summary": "Article URL: https://www.wheresyoured.at/ai-is-slowing-down/ Comments URL: https://news.ycombinator.com/item?id=48446893 Points: 642 # Comments: 736",
+      "summary": "Article URL: https://www.wheresyoured.at/ai-is-slowing-down/ Comments URL: https://news.ycombinator.com/item?id=48446893 Points: 648 # Comments: 748",
       "source": "Hacker News",
       "published": "2026-06-08T15:46:37+00:00",
       "link": "https://www.wheresyoured.at/ai-is-slowing-down/"
@@ -584,7 +626,7 @@ const FEED_DATA = {
     },
     {
       "title": "DeepSeek V4 Pro beats GPT-5.5 Pro on precision",
-      "summary": "Article URL: https://runtimewire.com/article/deepseek-v4-pro-beats-gpt-5-5-pro-on-precision Comments URL: https://news.ycombinator.com/item?id=48440448 Points: 395 # Comments: 221",
+      "summary": "Article URL: https://runtimewire.com/article/deepseek-v4-pro-beats-gpt-5-5-pro-on-precision Comments URL: https://news.ycombinator.com/item?id=48440448 Points: 395 # Comments: 222",
       "source": "Hacker News",
       "published": "2026-06-08T01:39:30+00:00",
       "link": "https://runtimewire.com/article/deepseek-v4-pro-beats-gpt-5-5-pro-on-precision"
@@ -1358,48 +1400,6 @@ const FEED_DATA = {
       "source": "The Verge",
       "published": "2026-06-03T16:07:31+00:00",
       "link": "https://www.theverge.com/tech/942547/amazon-search-bar-ai-images"
-    },
-    {
-      "title": "Amazon will show AI product images when you search for some reason",
-      "summary": "Amazon will use visual search and AI to show AI-generated product images that match your search queries. The retailer says it will help guide users to products.",
-      "source": "TechCrunch",
-      "published": "2026-06-03T15:50:26+00:00",
-      "link": "https://techcrunch.com/2026/06/03/amazon-will-show-ai-product-images-when-you-search-for-some-reason/"
-    },
-    {
-      "title": "This Is How Trump Finally Signed the AI Executive Order",
-      "summary": "After shelving the original executive order last month, Donald Trump finally got on board Monday night.",
-      "source": "Wired",
-      "published": "2026-06-03T15:46:52+00:00",
-      "link": "https://www.wired.com/story/this-is-how-trump-finally-signed-the-ai-executive-order/"
-    },
-    {
-      "title": "These two founders left Goldman and Meta to build voice AI for markets everyone else overlooked",
-      "summary": "The startup's own stack for Africa and Middle East is now handling more than 17,000 calls per day.",
-      "source": "TechCrunch",
-      "published": "2026-06-03T15:00:00+00:00",
-      "link": "https://techcrunch.com/2026/06/03/these-two-founders-left-goldman-and-meta-to-build-voice-ai-for-markets-everyone-else-overlooked/"
-    },
-    {
-      "title": "Publishers will be able to opt out of AI Search, thanks to new regulation",
-      "summary": "U.K. regulators are requiring Google offer a tool allowing website publishers to opt-out of generative AI search features.",
-      "source": "TechCrunch",
-      "published": "2026-06-03T14:58:33+00:00",
-      "link": "https://techcrunch.com/2026/06/03/publishers-will-be-able-to-opt-out-of-ai-search-thanks-to-new-regulation/"
-    },
-    {
-      "title": "Microsoft and OpenAI broke up — now they’re ready to fight",
-      "summary": "At Microsoft's annual Build conference on Tuesday, the company announced a slew of new or expanded AI initiatives, including a super app, in-house reasoning models, a cybersecurity tool, and OpenClaw-esque AI agents.",
-      "source": "The Verge",
-      "published": "2026-06-03T14:04:00+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/942242/microsoft-build-ai-agents-openai-competition"
-    },
-    {
-      "title": "Perplexity announces hybrid AI system that decides what runs locally or in the cloud",
-      "summary": "Perplexity has announced an orchestrator that combines AI models running on your own computer with powerful cloud models and automatically decides which task gets processed where.",
-      "source": "The Decoder",
-      "published": "2026-06-03T13:40:16+00:00",
-      "link": "https://the-decoder.com/perplexity-announces-hybrid-ai-system-that-decides-what-runs-locally-or-in-the-cloud/"
     }
   ]
 };
