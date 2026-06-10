@@ -1,6 +1,76 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-06-10T16:35:41.321026+00:00",
+  "lastUpdated": "2026-06-10T19:29:48.038430+00:00",
   "items": [
+    {
+      "title": "Google's new open model DiffusionGemma generates text from noise instead of word by word",
+      "summary": "Google released DiffusionGemma, a 26-billion-parameter model that generates text not token by token but through diffusion, similar to how image AI turns noise into a picture.",
+      "source": "The Decoder",
+      "published": "2026-06-10T19:20:46+00:00",
+      "link": "https://the-decoder.com/googles-new-open-model-diffusiongemma-generates-text-from-noise-instead-of-word-by-word/"
+    },
+    {
+      "title": "Claude Fable won’t answer basic biology questions",
+      "summary": "Anthropic just released Claude Fable 5, calling it the most powerful AI model it has ever made widely available and praising its skills in biology, among others. But the model won't answer basic biology questions - the kind you'd expect a high schooler to handle.",
+      "source": "The Verge",
+      "published": "2026-06-10T18:43:34+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/947973/fable-wont-answer-basic-biology-questions"
+    },
+    {
+      "title": "OpenAI's IPO slips as Altman tells staff to expect a public offering \"within the next year\"",
+      "summary": "Sam Altman told employees he expects an OpenAI IPO \"within the next year,\" but a delay to 2027 is possible. He frames it as caution around self-improving AI, though Anthropic's stronger growth numbers and imminent IPO may be the real reason to wait.",
+      "source": "The Decoder",
+      "published": "2026-06-10T18:27:00+00:00",
+      "link": "https://the-decoder.com/openais-ipo-slips-as-altman-tells-staff-to-expect-a-public-offering-within-the-next-year/"
+    },
+    {
+      "title": "Microsoft, like, totally gets why students are booing AI-pilled graduation speakers",
+      "summary": "New college graduates around the country have been booing and heckling commencement speakers who hype up AI. Microsoft would like everyone to talk it out.",
+      "source": "The Verge",
+      "published": "2026-06-10T17:45:11+00:00",
+      "link": "https://www.theverge.com/news/947831/college-speakers-booed-ai-microsoft"
+    },
+    {
+      "title": "Anthropic study shows AI needs hours, not weeks, to build exploits from security patches",
+      "summary": "Anthropic's security team found that its Mythos Preview AI model can turn security patches for Firefox and the Windows kernel into working exploits within hours, for a few thousand dollars and no specialized knowledge.",
+      "source": "The Decoder",
+      "published": "2026-06-10T17:38:24+00:00",
+      "link": "https://the-decoder.com/anthropic-study-shows-ai-needs-hours-not-weeks-to-build-exploits-from-security-patches/"
+    },
+    {
+      "title": "The future of AI regulation is courting the strangest, most anxious bedfellows",
+      "summary": "Hello and welcome to Regulator, a newsletter for Verge subscribers about tech politics, tech influence, and tech shenanigans in Washington, DC.",
+      "source": "The Verge",
+      "published": "2026-06-10T17:38:00+00:00",
+      "link": "https://www.theverge.com/column/947838/washington-ai-network-honors-2026-midterms"
+    },
+    {
+      "title": "Google won’t just admit it’s feeding YouTube creators to its music AI",
+      "summary": "If you've uploaded a song to YouTube, Google almost certainly considers your video fair game for training its Lyria music AI, it just won't admit it right now.",
+      "source": "The Verge",
+      "published": "2026-06-10T17:20:36+00:00",
+      "link": "https://www.theverge.com/tech/947770/google-lyria-music-ai-lawsuit-youtube"
+    },
+    {
+      "title": "‘AI-pilled’ firms spend $7,500 per employee each month on AI",
+      "summary": "The most AI-obsessed firms are spending roughly $7,500 monthly per employee on AI, per Ramp AI Index. That's not more than an engineer's salary — yet.",
+      "source": "TechCrunch",
+      "published": "2026-06-10T17:07:35+00:00",
+      "link": "https://techcrunch.com/2026/06/10/ai-pilled-firms-spend-7500-per-employee-each-month-on-ai/"
+    },
+    {
+      "title": "Microsoft restricts Claude Fable for employees over data retention concerns",
+      "summary": "Anthropic released Claude Fable, its first Mythos-class AI model, yesterday and it's already causing concerns inside Microsoft. Sources tell me that Microsoft is limiting the use of Claude Fable 5 for employees because of Anthropic's new data retention requirements.",
+      "source": "The Verge",
+      "published": "2026-06-10T16:50:23+00:00",
+      "link": "https://www.theverge.com/report/947575/microsoft-claude-fable-5-restricted-internally"
+    },
+    {
+      "title": "Google will save your Lens photos, Search Live recordings, and Translate audio for AI training",
+      "summary": "Google is making some changes to how it saves your interactions with Search. In an email sent to users, Google says it will save the images, files, audio, and video you use to search under a new \"Search Services History\" setting.",
+      "source": "The Verge",
+      "published": "2026-06-10T16:18:45+00:00",
+      "link": "https://www.theverge.com/tech/947836/google-search-privacy-settings-images-audio"
+    },
     {
       "title": "How memory tools can make AI models worse",
       "summary": "New research suggests that AI memory systems can degrade model performance and encourage sycophantic tendencies.",
@@ -17,7 +87,7 @@ const FEED_DATA = {
     },
     {
       "title": "Apache Burr: Build reliable AI agents and applications",
-      "summary": "Article URL: https://burr.apache.org/ Comments URL: https://news.ycombinator.com/item?id=48477400 Points: 51 # Comments: 23",
+      "summary": "Article URL: https://burr.apache.org/ Comments URL: https://news.ycombinator.com/item?id=48477400 Points: 120 # Comments: 74",
       "source": "Hacker News",
       "published": "2026-06-10T15:01:06+00:00",
       "link": "https://burr.apache.org/"
@@ -52,7 +122,7 @@ const FEED_DATA = {
     },
     {
       "title": "A €0.01 bank transfer could compromise a banking AI agent",
-      "summary": "Article URL: https://blue41.com/blog/how-we-helped-bunq-secure-their-financial-ai-assistant/ Comments URL: https://news.ycombinator.com/item?id=48476136 Points: 60 # Comments: 43",
+      "summary": "Article URL: https://blue41.com/blog/how-we-helped-bunq-secure-their-financial-ai-assistant/ Comments URL: https://news.ycombinator.com/item?id=48476136 Points: 116 # Comments: 93",
       "source": "Hacker News",
       "published": "2026-06-10T13:39:11+00:00",
       "link": "https://blue41.com/blog/how-we-helped-bunq-secure-their-financial-ai-assistant/"
@@ -66,7 +136,7 @@ const FEED_DATA = {
     },
     {
       "title": "Jedify raises $24M to help companies arm AI agents with context on their business",
-      "summary": "The funding round was led by Norwest, with participation S Capital VC, Cerca Partners, and Oceans Ventures. Snowflake Ventures also participated as a strategic investor.",
+      "summary": "The funding round was led by Norwest, with participation from S Capital VC, Cerca Partners, and Oceans Ventures. Snowflake Ventures also participated as a strategic investor.",
       "source": "TechCrunch",
       "published": "2026-06-10T13:33:09+00:00",
       "link": "https://techcrunch.com/2026/06/10/jedify-raises-24m-to-help-companies-arm-ai-agents-with-context-on-their-business/"
@@ -129,14 +199,14 @@ const FEED_DATA = {
     },
     {
       "title": "Rich Sutton on AI creativity and discovery",
-      "summary": "https://www.youtube.com/watch?v=K5LAFEjTlBA Comments URL: https://news.ycombinator.com/item?id=48470581 Points: 186 # Comments: 99",
+      "summary": "https://www.youtube.com/watch?v=K5LAFEjTlBA Comments URL: https://news.ycombinator.com/item?id=48470581 Points: 193 # Comments: 104",
       "source": "Hacker News",
       "published": "2026-06-10T02:25:24+00:00",
       "link": "https://twitter.com/RichardSSutton/status/2061216087744946656"
     },
     {
       "title": "German ruling declares Google liable for false answers in AI Overviews",
-      "summary": "Article URL: https://the-decoder.com/landmark-german-ruling-declares-googles-ai-overviews-are-googles-own-words-and-makes-it-liable-for-false-answers/ Comments URL: https://news.ycombinator.com/item?id=48470248 Points: 848 # Comments: 471",
+      "summary": "Article URL: https://the-decoder.com/landmark-german-ruling-declares-googles-ai-overviews-are-googles-own-words-and-makes-it-liable-for-false-answers/ Comments URL: https://news.ycombinator.com/item?id=48470248 Points: 924 # Comments: 502",
       "source": "Hacker News",
       "published": "2026-06-10T01:44:13+00:00",
       "link": "https://the-decoder.com/landmark-german-ruling-declares-googles-ai-overviews-are-googles-own-words-and-makes-it-liable-for-false-answers/"
@@ -213,7 +283,7 @@ const FEED_DATA = {
     },
     {
       "title": "CEOs who think AI replaces their employees are just bad CEOs",
-      "summary": "Article URL: https://www.techdirt.com/2026/06/09/ceos-who-think-ai-replaces-their-employees-are-just-bad-ceos/ Comments URL: https://news.ycombinator.com/item?id=48465675 Points: 786 # Comments: 290",
+      "summary": "Article URL: https://www.techdirt.com/2026/06/09/ceos-who-think-ai-replaces-their-employees-are-just-bad-ceos/ Comments URL: https://news.ycombinator.com/item?id=48465675 Points: 801 # Comments: 292",
       "source": "Hacker News",
       "published": "2026-06-09T18:45:59+00:00",
       "link": "https://www.techdirt.com/2026/06/09/ceos-who-think-ai-replaces-their-employees-are-just-bad-ceos/"
@@ -227,7 +297,7 @@ const FEED_DATA = {
     },
     {
       "title": "GPT-2: Too Dangerous To Release (2019)",
-      "summary": "Article URL: https://naokishibuya.github.io/blog/2022-12-30-gpt-2-2019/ Comments URL: https://news.ycombinator.com/item?id=48465269 Points: 281 # Comments: 123",
+      "summary": "Article URL: https://naokishibuya.github.io/blog/2022-12-30-gpt-2-2019/ Comments URL: https://news.ycombinator.com/item?id=48465269 Points: 282 # Comments: 124",
       "source": "Hacker News",
       "published": "2026-06-09T18:21:43+00:00",
       "link": "https://naokishibuya.github.io/blog/2022-12-30-gpt-2-2019/"
@@ -241,7 +311,7 @@ const FEED_DATA = {
     },
     {
       "title": "Where is the AI jobs crisis?",
-      "summary": "Article URL: https://www.apollo.com/wealth/the-daily-spark/where-is-the-ai-jobs-crisis Comments URL: https://news.ycombinator.com/item?id=48464333 Points: 157 # Comments: 252",
+      "summary": "Article URL: https://www.apollo.com/wealth/the-daily-spark/where-is-the-ai-jobs-crisis Comments URL: https://news.ycombinator.com/item?id=48464333 Points: 158 # Comments: 256",
       "source": "Hacker News",
       "published": "2026-06-09T17:29:17+00:00",
       "link": "https://www.apollo.com/wealth/the-daily-spark/where-is-the-ai-jobs-crisis"
@@ -311,7 +381,7 @@ const FEED_DATA = {
     },
     {
       "title": "Judge Learns Both Sides Used AI, Cancels Trial, Kicks Everyone Off the Case",
-      "summary": "Article URL: https://www.404media.co/judge-learns-lawyers-on-both-sides-of-case-used-ai-cancels-trial-kicks-everyone-off-the-case/ Comments URL: https://news.ycombinator.com/item?id=48462428 Points: 93 # Comments: 21",
+      "summary": "Article URL: https://www.404media.co/judge-learns-lawyers-on-both-sides-of-case-used-ai-cancels-trial-kicks-everyone-off-the-case/ Comments URL: https://news.ycombinator.com/item?id=48462428 Points: 93 # Comments: 22",
       "source": "Hacker News",
       "published": "2026-06-09T15:30:19+00:00",
       "link": "https://www.404media.co/judge-learns-lawyers-on-both-sides-of-case-used-ai-cancels-trial-kicks-everyone-off-the-case/"
@@ -416,7 +486,7 @@ const FEED_DATA = {
     },
     {
       "title": "Cleaning up after AI rockstar developers",
-      "summary": "Article URL: https://www.codingwithjesse.com/blog/rockstar-developers/ Comments URL: https://news.ycombinator.com/item?id=48458586 Points: 480 # Comments: 351",
+      "summary": "Article URL: https://www.codingwithjesse.com/blog/rockstar-developers/ Comments URL: https://news.ycombinator.com/item?id=48458586 Points: 482 # Comments: 353",
       "source": "Hacker News",
       "published": "2026-06-09T09:10:10+00:00",
       "link": "https://www.codingwithjesse.com/blog/rockstar-developers/"
@@ -437,7 +507,7 @@ const FEED_DATA = {
     },
     {
       "title": "Microsoft's open source tools were hacked to steal passwords of AI developers",
-      "summary": "Article URL: https://techcrunch.com/2026/06/08/microsofts-open-source-tools-were-hacked-to-steal-passwords-of-ai-developers/ Comments URL: https://news.ycombinator.com/item?id=48457830 Points: 549 # Comments: 189",
+      "summary": "Article URL: https://techcrunch.com/2026/06/08/microsofts-open-source-tools-were-hacked-to-steal-passwords-of-ai-developers/ Comments URL: https://news.ycombinator.com/item?id=48457830 Points: 550 # Comments: 190",
       "source": "Hacker News",
       "published": "2026-06-09T07:33:16+00:00",
       "link": "https://techcrunch.com/2026/06/08/microsofts-open-source-tools-were-hacked-to-steal-passwords-of-ai-developers/"
@@ -521,7 +591,7 @@ const FEED_DATA = {
     },
     {
       "title": "Apple reveals new AI architecture built around Google Gemini models",
-      "summary": "Article URL: https://www.macrumors.com/2026/06/08/apple-reveals-new-ai-architecture/ Comments URL: https://news.ycombinator.com/item?id=48450142 Points: 723 # Comments: 555",
+      "summary": "Article URL: https://www.macrumors.com/2026/06/08/apple-reveals-new-ai-architecture/ Comments URL: https://news.ycombinator.com/item?id=48450142 Points: 724 # Comments: 556",
       "source": "Hacker News",
       "published": "2026-06-08T19:14:47+00:00",
       "link": "https://www.macrumors.com/2026/06/08/apple-reveals-new-ai-architecture/"
@@ -577,14 +647,14 @@ const FEED_DATA = {
     },
     {
       "title": "Ask HN: What are tools you have made for yourself since the advent of AI?",
-      "summary": "Comments URL: https://news.ycombinator.com/item?id=48449187 Points: 423 # Comments: 723",
+      "summary": "Comments URL: https://news.ycombinator.com/item?id=48449187 Points: 425 # Comments: 728",
       "source": "Hacker News",
       "published": "2026-06-08T18:22:39+00:00",
       "link": "https://news.ycombinator.com/item?id=48449187"
     },
     {
       "title": "Siri AI",
-      "summary": "Article URL: https://www.apple.com/apple-intelligence/ Comments URL: https://news.ycombinator.com/item?id=48449084 Points: 668 # Comments: 690",
+      "summary": "Article URL: https://www.apple.com/apple-intelligence/ Comments URL: https://news.ycombinator.com/item?id=48449084 Points: 668 # Comments: 693",
       "source": "Hacker News",
       "published": "2026-06-08T18:17:53+00:00",
       "link": "https://www.apple.com/apple-intelligence/"
@@ -668,7 +738,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI is slowing down",
-      "summary": "Article URL: https://www.wheresyoured.at/ai-is-slowing-down/ Comments URL: https://news.ycombinator.com/item?id=48446893 Points: 657 # Comments: 758",
+      "summary": "Article URL: https://www.wheresyoured.at/ai-is-slowing-down/ Comments URL: https://news.ycombinator.com/item?id=48446893 Points: 660 # Comments: 758",
       "source": "Hacker News",
       "published": "2026-06-08T15:46:37+00:00",
       "link": "https://www.wheresyoured.at/ai-is-slowing-down/"
@@ -1330,76 +1400,6 @@ const FEED_DATA = {
       "source": "MIT Tech Review",
       "published": "2026-06-04T12:10:00+00:00",
       "link": "https://www.technologyreview.com/2026/06/04/1138408/the-download-ai-lawsuits-virtual-power-plants-data-centers/"
-    },
-    {
-      "title": "Scout from M’Soft is the agentic Autopilot that works across M365",
-      "summary": "Microsoft has announced the wider testing of its new Autopilot feature at the Microsoft Build event this week, backed by a post on the company’s’ website. Autopilots are described as a new category of agents that can work autonomously on a user’s behalf.",
-      "source": "AI News",
-      "published": "2026-06-04T11:41:00+00:00",
-      "link": "https://www.artificialintelligence-news.com/news/microsofts-autopilot-scout-is-the-agentic-autopilot-that-works-across-m365/"
-    },
-    {
-      "title": "How courts are coping with a flood of AI-generated lawsuits",
-      "summary": "Most days in her chambers, Judge Maritza Braswell, a federal magistrate judge in Colorado, sifts through stacks of documents written by people without a lawyer. Many of them can’t afford to hire a lawyer, and others have cases too weak or too small to interest one.",
-      "source": "MIT Tech Review",
-      "published": "2026-06-04T10:50:18+00:00",
-      "link": "https://www.technologyreview.com/2026/06/04/1138391/courts-coping-ai-lawsuits/"
-    },
-    {
-      "title": "Jeff Bezos Is Funding a Wild Hunt for the Brain’s ‘Core Algorithm’",
-      "summary": "With $500 million in funding and a reported $2.5 billion valuation, Flourish wants to reinvent AI by putting real neurons under the microscope.",
-      "source": "Wired",
-      "published": "2026-06-04T10:30:00+00:00",
-      "link": "https://www.wired.com/story/jeff-bezos-is-funding-a-wild-hunt-for-the-brains-core-algorithm/"
-    },
-    {
-      "title": "AI can now coach amateur virologists, and top tech leaders want Congress to act on DNA security",
-      "summary": "Sam Altman, Dario Amodei, Demis Hassabis, and other tech leaders are urging the US government to make screening of synthetic DNA orders a legal requirement.",
-      "source": "The Decoder",
-      "published": "2026-06-04T10:07:51+00:00",
-      "link": "https://the-decoder.com/ai-can-now-coach-amateur-virologists-and-top-tech-leaders-want-congress-to-act-on-dna-security/"
-    },
-    {
-      "title": "Amazon brings AI shopping assistant to retailers with Kate Spade",
-      "summary": "Amazon is offering its AI shopping technology to other retailers through a new Agentic Shopping Assistant built on AWS, with Kate Spade among the first brands to use it. The service allows retailers to build AI shopping assistants for their own websites and apps.",
-      "source": "AI News",
-      "published": "2026-06-04T10:00:00+00:00",
-      "link": "https://www.artificialintelligence-news.com/news/amazon-ai-shopping-assistant-kate-spade-retailers/"
-    },
-    {
-      "title": "Alpha School’s Ritzy New York City Campus Costs $65,000 a Year—but Isn’t Actually a School",
-      "summary": "A homeschooling center in Manhattan is part of the company’s nationwide expansion. Internal documents reveal its strategy: “Opening date > safety.”",
-      "source": "Wired",
-      "published": "2026-06-04T10:00:00+00:00",
-      "link": "https://www.wired.com/story/alpha-schools-new-york-city-campus-isnt-actually-a-school/"
-    },
-    {
-      "title": "Amazon develops a warehouse robot that workers can speak to",
-      "summary": "Amazon has announced a new version of its fully autonomous warehouse robot, Proteus, that will interact using language instead of code. The expanded capabilities come as part of a growing pivot toward automation as the e-commerce giant replaces its human workers with robots.",
-      "source": "The Verge",
-      "published": "2026-06-04T09:31:14+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/942884/amazon-next-generation-warehouse-robot-proteus"
-    },
-    {
-      "title": "Amazon develops a warehouse robot workers can speak to",
-      "summary": "Amazon has announced a new version of its fully autonomous warehouse robot, Proteus, that will can interact using language instead of code. The expanded capabilities come as part of a growing pivot toward automation as the e-commerce giant replaces its human workers with robots.",
-      "source": "The Verge",
-      "published": "2026-06-04T09:31:14+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/942884/amazon-next-generation-warehouse-robot-proteus"
-    },
-    {
-      "title": "xAI updates Grok Imagine to 1.5 with image-to-video generation at 720p resolution",
-      "summary": "xAI has released \"grok-imagine-video-1.5-preview,\" an image-to-video model that turns still images into cinematic videos at up to 720p based on text prompts. Multiple clips can be stitched together into longer scenes.",
-      "source": "The Decoder",
-      "published": "2026-06-04T08:04:48+00:00",
-      "link": "https://the-decoder.com/xai-updates-grok-imagine-to-1-5-with-image-to-video-generation-at-720p-resolution/"
-    },
-    {
-      "title": "OpenAI and Anthropic Sign Letter to Prevent AI-Developed Biological Weapons",
-      "summary": "Leading AI labs, executives, and scientists are sending a letter to lawmakers urging them to improve tracking of synthetic DNA sequences that could be used for bioweapons.",
-      "source": "Wired",
-      "published": "2026-06-04T01:01:00+00:00",
-      "link": "https://www.wired.com/story/openai-anthropic-letter-ai-biological-weapons/"
     }
   ]
 };
