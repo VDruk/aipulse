@@ -1,6 +1,13 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-06-11T19:30:18.042430+00:00",
+  "lastUpdated": "2026-06-11T22:47:22.662468+00:00",
   "items": [
+    {
+      "title": "Meet the OpenAI Engineer Leading ChatGPT’s Biggest Transformation Yet",
+      "summary": "Thibault Sottiaux helped make AI coding one of OpenAI’s fastest-growing businesses. Now he’s overseeing a sweeping overhaul of ChatGPT.",
+      "source": "Wired",
+      "published": "2026-06-11T21:21:04+00:00",
+      "link": "https://www.wired.com/story/model-behavior-interview-with-openai-codex-lead-tibo-sottiaux/"
+    },
     {
       "title": "Landmark German ruling declares Google's AI Overviews are Google's own words and makes it liable for false answers",
       "summary": "A German regional court has ruled that Google is directly liable for the content of its AI search overviews. According to the court, previous limited liability protections for search engine operators don't apply to AI overviews.",
@@ -52,7 +59,7 @@ const FEED_DATA = {
     },
     {
       "title": "Workers are spending over 6 hours a week botsitting AI, fueling job frustration",
-      "summary": "Article URL: https://www.businessinsider.com/botsitting-ai-hidden-human-labor-at-work-2026-6 Comments URL: https://news.ycombinator.com/item?id=48490057 Points: 240 # Comments: 197",
+      "summary": "Article URL: https://www.businessinsider.com/botsitting-ai-hidden-human-labor-at-work-2026-6 Comments URL: https://news.ycombinator.com/item?id=48490057 Points: 255 # Comments: 204",
       "source": "Hacker News",
       "published": "2026-06-11T13:26:59+00:00",
       "link": "https://www.businessinsider.com/botsitting-ai-hidden-human-labor-at-work-2026-6"
@@ -122,7 +129,7 @@ const FEED_DATA = {
     },
     {
       "title": "Why AI hasn't replaced software engineers, and won't",
-      "summary": "Article URL: https://www.normaltech.ai/p/why-ai-hasnt-replaced-software-engineers Comments URL: https://news.ycombinator.com/item?id=48487540 Points: 252 # Comments: 301",
+      "summary": "Article URL: https://www.normaltech.ai/p/why-ai-hasnt-replaced-software-engineers Comments URL: https://news.ycombinator.com/item?id=48487540 Points: 269 # Comments: 316",
       "source": "Hacker News",
       "published": "2026-06-11T07:51:17+00:00",
       "link": "https://www.normaltech.ai/p/why-ai-hasnt-replaced-software-engineers"
@@ -150,7 +157,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI agent runs amok in Fedora and elsewhere",
-      "summary": "Article URL: https://lwn.net/SubscriberLink/1077035/c7e7c14fbd60fae9/ Comments URL: https://news.ycombinator.com/item?id=48484584 Points: 533 # Comments: 239",
+      "summary": "Article URL: https://lwn.net/SubscriberLink/1077035/c7e7c14fbd60fae9/ Comments URL: https://news.ycombinator.com/item?id=48484584 Points: 536 # Comments: 239",
       "source": "Hacker News",
       "published": "2026-06-11T00:10:08+00:00",
       "link": "https://lwn.net/SubscriberLink/1077035/c7e7c14fbd60fae9/"
@@ -185,7 +192,7 @@ const FEED_DATA = {
     },
     {
       "title": "Policy on the AI Exponential",
-      "summary": "Article URL: https://darioamodei.com/post/policy-on-the-ai-exponential Comments URL: https://news.ycombinator.com/item?id=48480719 Points: 163 # Comments: 238",
+      "summary": "Article URL: https://darioamodei.com/post/policy-on-the-ai-exponential Comments URL: https://news.ycombinator.com/item?id=48480719 Points: 163 # Comments: 241",
       "source": "Hacker News",
       "published": "2026-06-10T18:36:04+00:00",
       "link": "https://darioamodei.com/post/policy-on-the-ai-exponential"
@@ -262,7 +269,7 @@ const FEED_DATA = {
     },
     {
       "title": "Apache Burr: Build reliable AI agents and applications",
-      "summary": "Article URL: https://burr.apache.org/ Comments URL: https://news.ycombinator.com/item?id=48477400 Points: 238 # Comments: 112",
+      "summary": "Article URL: https://burr.apache.org/ Comments URL: https://news.ycombinator.com/item?id=48477400 Points: 242 # Comments: 113",
       "source": "Hacker News",
       "published": "2026-06-10T15:01:06+00:00",
       "link": "https://burr.apache.org/"
@@ -297,7 +304,7 @@ const FEED_DATA = {
     },
     {
       "title": "A €0.01 bank transfer could compromise a banking AI agent",
-      "summary": "Article URL: https://blue41.com/blog/how-we-helped-bunq-secure-their-financial-ai-assistant/ Comments URL: https://news.ycombinator.com/item?id=48476136 Points: 199 # Comments: 192",
+      "summary": "Article URL: https://blue41.com/blog/how-we-helped-bunq-secure-their-financial-ai-assistant/ Comments URL: https://news.ycombinator.com/item?id=48476136 Points: 204 # Comments: 195",
       "source": "Hacker News",
       "published": "2026-06-10T13:39:11+00:00",
       "link": "https://blue41.com/blog/how-we-helped-bunq-secure-their-financial-ai-assistant/"
@@ -374,14 +381,14 @@ const FEED_DATA = {
     },
     {
       "title": "Rich Sutton on AI creativity and discovery",
-      "summary": "https://www.youtube.com/watch?v=K5LAFEjTlBA Comments URL: https://news.ycombinator.com/item?id=48470581 Points: 205 # Comments: 122",
+      "summary": "https://www.youtube.com/watch?v=K5LAFEjTlBA Comments URL: https://news.ycombinator.com/item?id=48470581 Points: 206 # Comments: 123",
       "source": "Hacker News",
       "published": "2026-06-10T02:25:24+00:00",
       "link": "https://twitter.com/RichardSSutton/status/2061216087744946656"
     },
     {
       "title": "German ruling declares Google liable for false answers in AI Overviews",
-      "summary": "Article URL: https://the-decoder.com/landmark-german-ruling-declares-googles-ai-overviews-are-googles-own-words-and-makes-it-liable-for-false-answers/ Comments URL: https://news.ycombinator.com/item?id=48470248 Points: 997 # Comments: 530",
+      "summary": "Article URL: https://the-decoder.com/landmark-german-ruling-declares-googles-ai-overviews-are-googles-own-words-and-makes-it-liable-for-false-answers/ Comments URL: https://news.ycombinator.com/item?id=48470248 Points: 1001 # Comments: 531",
       "source": "Hacker News",
       "published": "2026-06-10T01:44:13+00:00",
       "link": "https://the-decoder.com/landmark-german-ruling-declares-googles-ai-overviews-are-googles-own-words-and-makes-it-liable-for-false-answers/"
@@ -409,7 +416,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI misidentification results in wrongful arrest; man seeks justice",
-      "summary": "Article URL: https://www.wsoctv.com/news/local/ai-misidentification-results-wrongful-arrest-man-seeks-justice/I7UQJWV33FBN3LMKHCSXI6FIVA/ Comments URL: https://news.ycombinator.com/item?id=48468789 Points: 96 # Comments: 42",
+      "summary": "Article URL: https://www.wsoctv.com/news/local/ai-misidentification-results-wrongful-arrest-man-seeks-justice/I7UQJWV33FBN3LMKHCSXI6FIVA/ Comments URL: https://news.ycombinator.com/item?id=48468789 Points: 97 # Comments: 42",
       "source": "Hacker News",
       "published": "2026-06-09T22:37:49+00:00",
       "link": "https://www.wsoctv.com/news/local/ai-misidentification-results-wrongful-arrest-man-seeks-justice/I7UQJWV33FBN3LMKHCSXI6FIVA/"
@@ -458,7 +465,7 @@ const FEED_DATA = {
     },
     {
       "title": "CEOs who think AI replaces their employees are just bad CEOs",
-      "summary": "Article URL: https://www.techdirt.com/2026/06/09/ceos-who-think-ai-replaces-their-employees-are-just-bad-ceos/ Comments URL: https://news.ycombinator.com/item?id=48465675 Points: 827 # Comments: 305",
+      "summary": "Article URL: https://www.techdirt.com/2026/06/09/ceos-who-think-ai-replaces-their-employees-are-just-bad-ceos/ Comments URL: https://news.ycombinator.com/item?id=48465675 Points: 828 # Comments: 306",
       "source": "Hacker News",
       "published": "2026-06-09T18:45:59+00:00",
       "link": "https://www.techdirt.com/2026/06/09/ceos-who-think-ai-replaces-their-employees-are-just-bad-ceos/"
@@ -542,14 +549,14 @@ const FEED_DATA = {
     },
     {
       "title": "'Sloppenheimer:' Amazon employees mock the company's AI on Slack",
-      "summary": "Article URL: https://www.404media.co/sloppenheimer-amazon-employees-mock-the-companys-ai-on-slack/ Comments URL: https://news.ycombinator.com/item?id=48462823 Points: 196 # Comments: 97",
+      "summary": "Article URL: https://www.404media.co/sloppenheimer-amazon-employees-mock-the-companys-ai-on-slack/ Comments URL: https://news.ycombinator.com/item?id=48462823 Points: 197 # Comments: 97",
       "source": "Hacker News",
       "published": "2026-06-09T15:59:41+00:00",
       "link": "https://www.404media.co/sloppenheimer-amazon-employees-mock-the-companys-ai-on-slack/"
     },
     {
       "title": "Judge Learns Both Sides Used AI, Cancels Trial, Kicks Everyone Off the Case",
-      "summary": "Article URL: https://www.404media.co/judge-learns-lawyers-on-both-sides-of-case-used-ai-cancels-trial-kicks-everyone-off-the-case/ Comments URL: https://news.ycombinator.com/item?id=48462428 Points: 94 # Comments: 22",
+      "summary": "Article URL: https://www.404media.co/judge-learns-lawyers-on-both-sides-of-case-used-ai-cancels-trial-kicks-everyone-off-the-case/ Comments URL: https://news.ycombinator.com/item?id=48462428 Points: 95 # Comments: 22",
       "source": "Hacker News",
       "published": "2026-06-09T15:30:19+00:00",
       "link": "https://www.404media.co/judge-learns-lawyers-on-both-sides-of-case-used-ai-cancels-trial-kicks-everyone-off-the-case/"
@@ -563,7 +570,7 @@ const FEED_DATA = {
     },
     {
       "title": "Build a Basic AI Agent from Scratch: Long Task Planning",
-      "summary": "Article URL: https://medium.com/@rogi23696/build-a-basic-ai-agent-from-scratch-long-task-planning-14e803f9bd6d Comments URL: https://news.ycombinator.com/item?id=48461635 Points: 115 # Comments: 46",
+      "summary": "Article URL: https://medium.com/@rogi23696/build-a-basic-ai-agent-from-scratch-long-task-planning-14e803f9bd6d Comments URL: https://news.ycombinator.com/item?id=48461635 Points: 124 # Comments: 47",
       "source": "Hacker News",
       "published": "2026-06-09T14:29:34+00:00",
       "link": "https://medium.com/@rogi23696/build-a-basic-ai-agent-from-scratch-long-task-planning-14e803f9bd6d"
@@ -661,7 +668,7 @@ const FEED_DATA = {
     },
     {
       "title": "Cleaning up after AI rockstar developers",
-      "summary": "Article URL: https://www.codingwithjesse.com/blog/rockstar-developers/ Comments URL: https://news.ycombinator.com/item?id=48458586 Points: 492 # Comments: 360",
+      "summary": "Article URL: https://www.codingwithjesse.com/blog/rockstar-developers/ Comments URL: https://news.ycombinator.com/item?id=48458586 Points: 493 # Comments: 360",
       "source": "Hacker News",
       "published": "2026-06-09T09:10:10+00:00",
       "link": "https://www.codingwithjesse.com/blog/rockstar-developers/"
@@ -682,7 +689,7 @@ const FEED_DATA = {
     },
     {
       "title": "Microsoft's open source tools were hacked to steal passwords of AI developers",
-      "summary": "Article URL: https://techcrunch.com/2026/06/08/microsofts-open-source-tools-were-hacked-to-steal-passwords-of-ai-developers/ Comments URL: https://news.ycombinator.com/item?id=48457830 Points: 558 # Comments: 193",
+      "summary": "Article URL: https://techcrunch.com/2026/06/08/microsofts-open-source-tools-were-hacked-to-steal-passwords-of-ai-developers/ Comments URL: https://news.ycombinator.com/item?id=48457830 Points: 559 # Comments: 193",
       "source": "Hacker News",
       "published": "2026-06-09T07:33:16+00:00",
       "link": "https://techcrunch.com/2026/06/08/microsofts-open-source-tools-were-hacked-to-steal-passwords-of-ai-developers/"
@@ -1393,13 +1400,6 @@ const FEED_DATA = {
       "source": "Hacker News",
       "published": "2026-06-05T05:46:06+00:00",
       "link": "https://passo.uno/fine-tuning-docs-llm/"
-    },
-    {
-      "title": "Mira Murati steps back into the spotlight, carefully",
-      "summary": "In the current environment, remaining heads down has diminishing returns; at some point, you have to make some noise just to remind the market you exist.",
-      "source": "TechCrunch",
-      "published": "2026-06-05T05:06:37+00:00",
-      "link": "https://techcrunch.com/2026/06/04/mira-murati-steps-back-into-the-spotlight-carefully/"
     }
   ]
 };
