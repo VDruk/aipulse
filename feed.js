@@ -1,6 +1,41 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-06-11T09:13:42.449602+00:00",
+  "lastUpdated": "2026-06-11T12:34:37.783320+00:00",
   "items": [
+    {
+      "title": "Anthropic apologizes for invisible Claude Fable guardrails",
+      "summary": "Anthropic has apologized for stealthily throttling its new AI model, Claude Fable 5, with hidden guardrails that undermine both researchers and rivals using it to develop competing systems.",
+      "source": "The Verge",
+      "published": "2026-06-11T11:40:43+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/948280/anthropic-claude-fable-invisible-distillation-guardrail"
+    },
+    {
+      "title": "Visa ChatGPT integration enables AI agent retail purchasing",
+      "summary": "Visa has linked its payment infrastructure to ChatGPT, enabling AI agents to recommend retail products and execute financial transactions. The deployment removes human intervention from the final stages of the retail funnel.",
+      "source": "AI News",
+      "published": "2026-06-11T11:08:17+00:00",
+      "link": "https://www.artificialintelligence-news.com/news/visa-chatgpt-integration-enables-ai-agent-retail-purchasing/"
+    },
+    {
+      "title": "Google DeepMind is worried about what happens when millions of agents start to interact",
+      "summary": "Google DeepMind is funding research into the potential dangers of situations where millions of different AI agents interact with each other online.",
+      "source": "MIT Tech Review",
+      "published": "2026-06-11T11:00:45+00:00",
+      "link": "https://www.technologyreview.com/2026/06/11/1138794/google-deepmind-is-worried-about-what-happens-when-millions-of-agents-start-to-interact/"
+    },
+    {
+      "title": "Xebia: Why AI agents fail without the right data foundation",
+      "summary": "If your remit is to help your organisation add AI agents to accelerate its processes, you have to start at the foundation – and that means making your data available for AI consumption. Agentic AI scales on data strength, as Niels Zeilemaker, global CTO at Xebia, explains.",
+      "source": "AI News",
+      "published": "2026-06-11T10:42:38+00:00",
+      "link": "https://www.artificialintelligence-news.com/news/xebia-on-building-the-data-foundation-for-ai-agents-and-then-accelerating/"
+    },
+    {
+      "title": "Inside soccer’s data renaissance",
+      "summary": "Imagine tuning in to the opening kickoff of a World Cup match and seeing a player intentionally send the ball all the way down the pitch and right out of bounds on the opponent’s end. Casual fans might scratch their heads.",
+      "source": "MIT Tech Review",
+      "published": "2026-06-11T10:00:00+00:00",
+      "link": "https://www.technologyreview.com/2026/06/11/1138506/inside-soccer-data-renaissance-jesse-davis/"
+    },
     {
       "title": "Claude Fable 5: Anthropic admits \"wrong tradeoff\" after invisibly throttling rival AI researchers",
       "summary": "Anthropic reverses course on a policy that would have secretly undermined AI researchers, but another point of contention persists. The article Claude Fable 5: Anthropic admits \"wrong tradeoff\" after invisibly throttling rival AI researchers appeared first on The Decoder.",
@@ -14,6 +49,13 @@ const FEED_DATA = {
       "source": "The Verge",
       "published": "2026-06-11T08:00:00+00:00",
       "link": "https://www.theverge.com/ai-artificial-intelligence/948153/deezer-ai-music-detector-spotify-apple"
+    },
+    {
+      "title": "Why AI hasn't replaced software engineers, and won't",
+      "summary": "Article URL: https://www.normaltech.ai/p/why-ai-hasnt-replaced-software-engineers Comments URL: https://news.ycombinator.com/item?id=48487540 Points: 72 # Comments: 92",
+      "source": "Hacker News",
+      "published": "2026-06-11T07:51:17+00:00",
+      "link": "https://www.normaltech.ai/p/why-ai-hasnt-replaced-software-engineers"
     },
     {
       "title": "Opendoor’s India exit is fueling a bigger conversation about AI and outsourcing",
@@ -38,7 +80,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI agent runs amok in Fedora and elsewhere",
-      "summary": "Article URL: https://lwn.net/SubscriberLink/1077035/c7e7c14fbd60fae9/ Comments URL: https://news.ycombinator.com/item?id=48484584 Points: 381 # Comments: 135",
+      "summary": "Article URL: https://lwn.net/SubscriberLink/1077035/c7e7c14fbd60fae9/ Comments URL: https://news.ycombinator.com/item?id=48484584 Points: 447 # Comments: 200",
       "source": "Hacker News",
       "published": "2026-06-11T00:10:08+00:00",
       "link": "https://lwn.net/SubscriberLink/1077035/c7e7c14fbd60fae9/"
@@ -73,7 +115,7 @@ const FEED_DATA = {
     },
     {
       "title": "Policy on the AI Exponential",
-      "summary": "Article URL: https://darioamodei.com/post/policy-on-the-ai-exponential Comments URL: https://news.ycombinator.com/item?id=48480719 Points: 152 # Comments: 210",
+      "summary": "Article URL: https://darioamodei.com/post/policy-on-the-ai-exponential Comments URL: https://news.ycombinator.com/item?id=48480719 Points: 156 # Comments: 216",
       "source": "Hacker News",
       "published": "2026-06-10T18:36:04+00:00",
       "link": "https://darioamodei.com/post/policy-on-the-ai-exponential"
@@ -150,7 +192,7 @@ const FEED_DATA = {
     },
     {
       "title": "Apache Burr: Build reliable AI agents and applications",
-      "summary": "Article URL: https://burr.apache.org/ Comments URL: https://news.ycombinator.com/item?id=48477400 Points: 215 # Comments: 107",
+      "summary": "Article URL: https://burr.apache.org/ Comments URL: https://news.ycombinator.com/item?id=48477400 Points: 230 # Comments: 110",
       "source": "Hacker News",
       "published": "2026-06-10T15:01:06+00:00",
       "link": "https://burr.apache.org/"
@@ -185,7 +227,7 @@ const FEED_DATA = {
     },
     {
       "title": "A €0.01 bank transfer could compromise a banking AI agent",
-      "summary": "Article URL: https://blue41.com/blog/how-we-helped-bunq-secure-their-financial-ai-assistant/ Comments URL: https://news.ycombinator.com/item?id=48476136 Points: 182 # Comments: 171",
+      "summary": "Article URL: https://blue41.com/blog/how-we-helped-bunq-secure-their-financial-ai-assistant/ Comments URL: https://news.ycombinator.com/item?id=48476136 Points: 192 # Comments: 181",
       "source": "Hacker News",
       "published": "2026-06-10T13:39:11+00:00",
       "link": "https://blue41.com/blog/how-we-helped-bunq-secure-their-financial-ai-assistant/"
@@ -262,14 +304,14 @@ const FEED_DATA = {
     },
     {
       "title": "Rich Sutton on AI creativity and discovery",
-      "summary": "https://www.youtube.com/watch?v=K5LAFEjTlBA Comments URL: https://news.ycombinator.com/item?id=48470581 Points: 201 # Comments: 116",
+      "summary": "https://www.youtube.com/watch?v=K5LAFEjTlBA Comments URL: https://news.ycombinator.com/item?id=48470581 Points: 203 # Comments: 116",
       "source": "Hacker News",
       "published": "2026-06-10T02:25:24+00:00",
       "link": "https://twitter.com/RichardSSutton/status/2061216087744946656"
     },
     {
       "title": "German ruling declares Google liable for false answers in AI Overviews",
-      "summary": "Article URL: https://the-decoder.com/landmark-german-ruling-declares-googles-ai-overviews-are-googles-own-words-and-makes-it-liable-for-false-answers/ Comments URL: https://news.ycombinator.com/item?id=48470248 Points: 980 # Comments: 519",
+      "summary": "Article URL: https://the-decoder.com/landmark-german-ruling-declares-googles-ai-overviews-are-googles-own-words-and-makes-it-liable-for-false-answers/ Comments URL: https://news.ycombinator.com/item?id=48470248 Points: 983 # Comments: 525",
       "source": "Hacker News",
       "published": "2026-06-10T01:44:13+00:00",
       "link": "https://the-decoder.com/landmark-german-ruling-declares-googles-ai-overviews-are-googles-own-words-and-makes-it-liable-for-false-answers/"
@@ -346,7 +388,7 @@ const FEED_DATA = {
     },
     {
       "title": "CEOs who think AI replaces their employees are just bad CEOs",
-      "summary": "Article URL: https://www.techdirt.com/2026/06/09/ceos-who-think-ai-replaces-their-employees-are-just-bad-ceos/ Comments URL: https://news.ycombinator.com/item?id=48465675 Points: 821 # Comments: 299",
+      "summary": "Article URL: https://www.techdirt.com/2026/06/09/ceos-who-think-ai-replaces-their-employees-are-just-bad-ceos/ Comments URL: https://news.ycombinator.com/item?id=48465675 Points: 824 # Comments: 300",
       "source": "Hacker News",
       "published": "2026-06-09T18:45:59+00:00",
       "link": "https://www.techdirt.com/2026/06/09/ceos-who-think-ai-replaces-their-employees-are-just-bad-ceos/"
@@ -444,7 +486,7 @@ const FEED_DATA = {
     },
     {
       "title": "Judge Learns Both Sides Used AI, Cancels Trial, Kicks Everyone Off the Case",
-      "summary": "Article URL: https://www.404media.co/judge-learns-lawyers-on-both-sides-of-case-used-ai-cancels-trial-kicks-everyone-off-the-case/ Comments URL: https://news.ycombinator.com/item?id=48462428 Points: 93 # Comments: 22",
+      "summary": "Article URL: https://www.404media.co/judge-learns-lawyers-on-both-sides-of-case-used-ai-cancels-trial-kicks-everyone-off-the-case/ Comments URL: https://news.ycombinator.com/item?id=48462428 Points: 94 # Comments: 22",
       "source": "Hacker News",
       "published": "2026-06-09T15:30:19+00:00",
       "link": "https://www.404media.co/judge-learns-lawyers-on-both-sides-of-case-used-ai-cancels-trial-kicks-everyone-off-the-case/"
@@ -549,7 +591,7 @@ const FEED_DATA = {
     },
     {
       "title": "Cleaning up after AI rockstar developers",
-      "summary": "Article URL: https://www.codingwithjesse.com/blog/rockstar-developers/ Comments URL: https://news.ycombinator.com/item?id=48458586 Points: 488 # Comments: 358",
+      "summary": "Article URL: https://www.codingwithjesse.com/blog/rockstar-developers/ Comments URL: https://news.ycombinator.com/item?id=48458586 Points: 491 # Comments: 358",
       "source": "Hacker News",
       "published": "2026-06-09T09:10:10+00:00",
       "link": "https://www.codingwithjesse.com/blog/rockstar-developers/"
@@ -570,7 +612,7 @@ const FEED_DATA = {
     },
     {
       "title": "Microsoft's open source tools were hacked to steal passwords of AI developers",
-      "summary": "Article URL: https://techcrunch.com/2026/06/08/microsofts-open-source-tools-were-hacked-to-steal-passwords-of-ai-developers/ Comments URL: https://news.ycombinator.com/item?id=48457830 Points: 555 # Comments: 193",
+      "summary": "Article URL: https://techcrunch.com/2026/06/08/microsofts-open-source-tools-were-hacked-to-steal-passwords-of-ai-developers/ Comments URL: https://news.ycombinator.com/item?id=48457830 Points: 556 # Comments: 193",
       "source": "Hacker News",
       "published": "2026-06-09T07:33:16+00:00",
       "link": "https://techcrunch.com/2026/06/08/microsofts-open-source-tools-were-hacked-to-steal-passwords-of-ai-developers/"
@@ -1358,48 +1400,6 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-06-04T18:54:13+00:00",
       "link": "https://the-decoder.com/cloudflare-ceo-says-the-webs-future-is-pay-to-crawl-as-bots-overtake-human-traffic/"
-    },
-    {
-      "title": "The AI IPO Race Heats Up, DOGE Whistleblower Sues Elon Musk, and Instagram Gets Hacked",
-      "summary": "On Uncanny Valley, we dive into the IPO bonanza that the top AI companies are embarking on to the point where some real estate listings are looking for not just regular old cash, but Anthropic stock.",
-      "source": "Wired",
-      "published": "2026-06-04T18:44:49+00:00",
-      "link": "https://www.wired.com/story/uncanny-valley-podcast-ai-ipo-race-elon-musk-doge-whistleblower-instagram-hacking-incident/"
-    },
-    {
-      "title": "Meta Business Agent drives AI-powered conversational commerce",
-      "summary": "Meta has launched Business Agent to automate conversational commerce workflows directly inside its messaging applications. The software allows global retail brands to execute transactions and field support tickets without human intervention.",
-      "source": "AI News",
-      "published": "2026-06-04T17:17:40+00:00",
-      "link": "https://www.artificialintelligence-news.com/news/meta-business-agent-ai-powered-conversational-commerce/"
-    },
-    {
-      "title": "ChatGPT now saves narrative dossiers about you sorted by work, hobbies, and travel preferences",
-      "summary": "ChatGPT's updated \"Dreaming\" memory system now builds coherent user profiles from conversations instead of saving scattered bullet points. OpenAI says the success rate for keeping information current jumped from 52.2 percent last year to 75.1 percent.",
-      "source": "The Decoder",
-      "published": "2026-06-04T16:47:48+00:00",
-      "link": "https://the-decoder.com/chatgpt-now-saves-narrative-dossiers-about-you-sorted-by-work-hobbies-and-travel-preferences/"
-    },
-    {
-      "title": "Meta rolls out a new AI creator assistant on Facebook",
-      "summary": "Creators often have to parse through charts and dashboards to understand their performance, but with the new AI assistant, they can get quick answers to questions like \"When should I post?\" and \"What are people saying in my comments?\"",
-      "source": "TechCrunch",
-      "published": "2026-06-04T16:32:48+00:00",
-      "link": "https://techcrunch.com/2026/06/04/meta-rolls-out-a-new-ai-creator-assistant-on-facebook/"
-    },
-    {
-      "title": "When AI Builds Itself: Our progress toward recursive self-improvement",
-      "summary": "Article URL: https://www.anthropic.com/institute/recursive-self-improvement Comments URL: https://news.ycombinator.com/item?id=48400842 Points: 529 # Comments: 697",
-      "source": "Hacker News",
-      "published": "2026-06-04T16:20:17+00:00",
-      "link": "https://www.anthropic.com/institute/recursive-self-improvement"
-    },
-    {
-      "title": "Bain study finds companies miss AI savings targets because humans keep getting in the way",
-      "summary": "According to a Bain survey of 951 companies, almost 40 percent achieved less than 10 percent in AI cost savings, even though most had targeted 11 to 20 percent.",
-      "source": "The Decoder",
-      "published": "2026-06-04T16:12:50+00:00",
-      "link": "https://the-decoder.com/bain-study-finds-companies-miss-ai-savings-targets-because-humans-keep-getting-in-the-way/"
     }
   ]
 };
