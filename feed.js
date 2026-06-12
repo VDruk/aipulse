@@ -1,12 +1,54 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-06-11T22:47:22.662468+00:00",
+  "lastUpdated": "2026-06-12T05:47:59.889230+00:00",
   "items": [
+    {
+      "title": "Cheaper, faster, and culturally aware, Avataar’s video AI is built for India’s scale",
+      "summary": "Avataar AI's distilled video model is priced at $0.005 for every second of generation",
+      "source": "TechCrunch",
+      "published": "2026-06-12T04:30:00+00:00",
+      "link": "https://techcrunch.com/2026/06/11/cheaper-faster-and-culturally-aware-avataars-video-ai-is-built-for-indias-scale/"
+    },
+    {
+      "title": "Theker just raised $85M to build the factory robot that doesn’t specialize in anything",
+      "summary": "Unlike humanoid robots designed around a fixed form — think Boston Dynamics — Theker's machines are built to be reconfigured.",
+      "source": "TechCrunch",
+      "published": "2026-06-12T01:48:07+00:00",
+      "link": "https://techcrunch.com/2026/06/11/theker-just-raised-85m-to-build-the-factory-robot-that-doesnt-specialize-in-anything/"
+    },
+    {
+      "title": "Jeff Bezos’s Prometheus raises $12B to build an ‘artificial general engineer’ for the physical world",
+      "summary": "The new round values the physical AI startup that aims to automate heavy engineering and drug design at $41 billion.",
+      "source": "TechCrunch",
+      "published": "2026-06-12T01:04:38+00:00",
+      "link": "https://techcrunch.com/2026/06/11/jeff-bezoss-prometheus-raises-12b-to-build-an-artificial-general-engineer-for-the-physical-world/"
+    },
+    {
+      "title": "Apple’s Camera Chief Thinks AI Can Give You Superpowers",
+      "summary": "The generative features in iOS 27’s new Photos app will add fake pixels to some of your shots, but Apple’s Jon McCormack says the company isn’t using AI “for the sake of AI.”",
+      "source": "Wired",
+      "published": "2026-06-12T01:00:00+00:00",
+      "link": "https://www.wired.com/story/apple-camera-chief-thinks-ai-can-give-you-superpowers/"
+    },
+    {
+      "title": "Why You Might Already Own SpaceX Shares, Siri’s AI Makeover, and Knicks Owner’s Surveillance Machine",
+      "summary": "Today on Uncanny Valley, we take an early look at the SpaceX IPO and why you might find yourself among the investors without even realizing it.",
+      "source": "Wired",
+      "published": "2026-06-11T23:37:49+00:00",
+      "link": "https://www.wired.com/story/uncanny-valley-podcast-why-you-might-already-own-spacex-shares-siri-ai-makeover-knicks-owner-surveillance-machine/"
+    },
     {
       "title": "Meet the OpenAI Engineer Leading ChatGPT’s Biggest Transformation Yet",
       "summary": "Thibault Sottiaux helped make AI coding one of OpenAI’s fastest-growing businesses. Now he’s overseeing a sweeping overhaul of ChatGPT.",
       "source": "Wired",
       "published": "2026-06-11T21:21:04+00:00",
       "link": "https://www.wired.com/story/model-behavior-interview-with-openai-codex-lead-tibo-sottiaux/"
+    },
+    {
+      "title": "Shall we play a game? My AI nuclear simulation",
+      "summary": "https://arxiv.org/pdf/2602.14740 Comments URL: https://news.ycombinator.com/item?id=48495575 Points: 188 # Comments: 177",
+      "source": "Hacker News",
+      "published": "2026-06-11T19:54:54+00:00",
+      "link": "https://www.kennethpayne.uk/p/shall-we-play-a-game"
     },
     {
       "title": "Landmark German ruling declares Google's AI Overviews are Google's own words and makes it liable for false answers",
@@ -59,7 +101,7 @@ const FEED_DATA = {
     },
     {
       "title": "Workers are spending over 6 hours a week botsitting AI, fueling job frustration",
-      "summary": "Article URL: https://www.businessinsider.com/botsitting-ai-hidden-human-labor-at-work-2026-6 Comments URL: https://news.ycombinator.com/item?id=48490057 Points: 255 # Comments: 204",
+      "summary": "Article URL: https://www.businessinsider.com/botsitting-ai-hidden-human-labor-at-work-2026-6 Comments URL: https://news.ycombinator.com/item?id=48490057 Points: 267 # Comments: 211",
       "source": "Hacker News",
       "published": "2026-06-11T13:26:59+00:00",
       "link": "https://www.businessinsider.com/botsitting-ai-hidden-human-labor-at-work-2026-6"
@@ -129,7 +171,7 @@ const FEED_DATA = {
     },
     {
       "title": "Why AI hasn't replaced software engineers, and won't",
-      "summary": "Article URL: https://www.normaltech.ai/p/why-ai-hasnt-replaced-software-engineers Comments URL: https://news.ycombinator.com/item?id=48487540 Points: 269 # Comments: 316",
+      "summary": "Article URL: https://www.normaltech.ai/p/why-ai-hasnt-replaced-software-engineers Comments URL: https://news.ycombinator.com/item?id=48487540 Points: 286 # Comments: 326",
       "source": "Hacker News",
       "published": "2026-06-11T07:51:17+00:00",
       "link": "https://www.normaltech.ai/p/why-ai-hasnt-replaced-software-engineers"
@@ -157,7 +199,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI agent runs amok in Fedora and elsewhere",
-      "summary": "Article URL: https://lwn.net/SubscriberLink/1077035/c7e7c14fbd60fae9/ Comments URL: https://news.ycombinator.com/item?id=48484584 Points: 536 # Comments: 239",
+      "summary": "Article URL: https://lwn.net/SubscriberLink/1077035/c7e7c14fbd60fae9/ Comments URL: https://news.ycombinator.com/item?id=48484584 Points: 541 # Comments: 239",
       "source": "Hacker News",
       "published": "2026-06-11T00:10:08+00:00",
       "link": "https://lwn.net/SubscriberLink/1077035/c7e7c14fbd60fae9/"
@@ -192,7 +234,7 @@ const FEED_DATA = {
     },
     {
       "title": "Policy on the AI Exponential",
-      "summary": "Article URL: https://darioamodei.com/post/policy-on-the-ai-exponential Comments URL: https://news.ycombinator.com/item?id=48480719 Points: 163 # Comments: 241",
+      "summary": "Article URL: https://darioamodei.com/post/policy-on-the-ai-exponential Comments URL: https://news.ycombinator.com/item?id=48480719 Points: 164 # Comments: 243",
       "source": "Hacker News",
       "published": "2026-06-10T18:36:04+00:00",
       "link": "https://darioamodei.com/post/policy-on-the-ai-exponential"
@@ -269,7 +311,7 @@ const FEED_DATA = {
     },
     {
       "title": "Apache Burr: Build reliable AI agents and applications",
-      "summary": "Article URL: https://burr.apache.org/ Comments URL: https://news.ycombinator.com/item?id=48477400 Points: 242 # Comments: 113",
+      "summary": "Article URL: https://burr.apache.org/ Comments URL: https://news.ycombinator.com/item?id=48477400 Points: 243 # Comments: 113",
       "source": "Hacker News",
       "published": "2026-06-10T15:01:06+00:00",
       "link": "https://burr.apache.org/"
@@ -304,7 +346,7 @@ const FEED_DATA = {
     },
     {
       "title": "A €0.01 bank transfer could compromise a banking AI agent",
-      "summary": "Article URL: https://blue41.com/blog/how-we-helped-bunq-secure-their-financial-ai-assistant/ Comments URL: https://news.ycombinator.com/item?id=48476136 Points: 204 # Comments: 195",
+      "summary": "Article URL: https://blue41.com/blog/how-we-helped-bunq-secure-their-financial-ai-assistant/ Comments URL: https://news.ycombinator.com/item?id=48476136 Points: 205 # Comments: 196",
       "source": "Hacker News",
       "published": "2026-06-10T13:39:11+00:00",
       "link": "https://blue41.com/blog/how-we-helped-bunq-secure-their-financial-ai-assistant/"
@@ -381,14 +423,14 @@ const FEED_DATA = {
     },
     {
       "title": "Rich Sutton on AI creativity and discovery",
-      "summary": "https://www.youtube.com/watch?v=K5LAFEjTlBA Comments URL: https://news.ycombinator.com/item?id=48470581 Points: 206 # Comments: 123",
+      "summary": "https://www.youtube.com/watch?v=K5LAFEjTlBA Comments URL: https://news.ycombinator.com/item?id=48470581 Points: 208 # Comments: 124",
       "source": "Hacker News",
       "published": "2026-06-10T02:25:24+00:00",
       "link": "https://twitter.com/RichardSSutton/status/2061216087744946656"
     },
     {
       "title": "German ruling declares Google liable for false answers in AI Overviews",
-      "summary": "Article URL: https://the-decoder.com/landmark-german-ruling-declares-googles-ai-overviews-are-googles-own-words-and-makes-it-liable-for-false-answers/ Comments URL: https://news.ycombinator.com/item?id=48470248 Points: 1001 # Comments: 531",
+      "summary": "Article URL: https://the-decoder.com/landmark-german-ruling-declares-googles-ai-overviews-are-googles-own-words-and-makes-it-liable-for-false-answers/ Comments URL: https://news.ycombinator.com/item?id=48470248 Points: 1007 # Comments: 535",
       "source": "Hacker News",
       "published": "2026-06-10T01:44:13+00:00",
       "link": "https://the-decoder.com/landmark-german-ruling-declares-googles-ai-overviews-are-googles-own-words-and-makes-it-liable-for-false-answers/"
@@ -465,7 +507,7 @@ const FEED_DATA = {
     },
     {
       "title": "CEOs who think AI replaces their employees are just bad CEOs",
-      "summary": "Article URL: https://www.techdirt.com/2026/06/09/ceos-who-think-ai-replaces-their-employees-are-just-bad-ceos/ Comments URL: https://news.ycombinator.com/item?id=48465675 Points: 828 # Comments: 306",
+      "summary": "Article URL: https://www.techdirt.com/2026/06/09/ceos-who-think-ai-replaces-their-employees-are-just-bad-ceos/ Comments URL: https://news.ycombinator.com/item?id=48465675 Points: 829 # Comments: 307",
       "source": "Hacker News",
       "published": "2026-06-09T18:45:59+00:00",
       "link": "https://www.techdirt.com/2026/06/09/ceos-who-think-ai-replaces-their-employees-are-just-bad-ceos/"
@@ -493,7 +535,7 @@ const FEED_DATA = {
     },
     {
       "title": "Where is the AI jobs crisis?",
-      "summary": "Article URL: https://www.apollo.com/wealth/the-daily-spark/where-is-the-ai-jobs-crisis Comments URL: https://news.ycombinator.com/item?id=48464333 Points: 161 # Comments: 266",
+      "summary": "Article URL: https://www.apollo.com/wealth/the-daily-spark/where-is-the-ai-jobs-crisis Comments URL: https://news.ycombinator.com/item?id=48464333 Points: 161 # Comments: 267",
       "source": "Hacker News",
       "published": "2026-06-09T17:29:17+00:00",
       "link": "https://www.apollo.com/wealth/the-daily-spark/where-is-the-ai-jobs-crisis"
@@ -570,7 +612,7 @@ const FEED_DATA = {
     },
     {
       "title": "Build a Basic AI Agent from Scratch: Long Task Planning",
-      "summary": "Article URL: https://medium.com/@rogi23696/build-a-basic-ai-agent-from-scratch-long-task-planning-14e803f9bd6d Comments URL: https://news.ycombinator.com/item?id=48461635 Points: 124 # Comments: 47",
+      "summary": "Article URL: https://medium.com/@rogi23696/build-a-basic-ai-agent-from-scratch-long-task-planning-14e803f9bd6d Comments URL: https://news.ycombinator.com/item?id=48461635 Points: 129 # Comments: 51",
       "source": "Hacker News",
       "published": "2026-06-09T14:29:34+00:00",
       "link": "https://medium.com/@rogi23696/build-a-basic-ai-agent-from-scratch-long-task-planning-14e803f9bd6d"
@@ -668,7 +710,7 @@ const FEED_DATA = {
     },
     {
       "title": "Cleaning up after AI rockstar developers",
-      "summary": "Article URL: https://www.codingwithjesse.com/blog/rockstar-developers/ Comments URL: https://news.ycombinator.com/item?id=48458586 Points: 493 # Comments: 360",
+      "summary": "Article URL: https://www.codingwithjesse.com/blog/rockstar-developers/ Comments URL: https://news.ycombinator.com/item?id=48458586 Points: 494 # Comments: 361",
       "source": "Hacker News",
       "published": "2026-06-09T09:10:10+00:00",
       "link": "https://www.codingwithjesse.com/blog/rockstar-developers/"
@@ -1358,48 +1400,6 @@ const FEED_DATA = {
       "source": "Wired",
       "published": "2026-06-05T10:00:00+00:00",
       "link": "https://www.wired.com/story/why-apple-might-put-cameras-into-its-next-airpods/"
-    },
-    {
-      "title": "Show HN: Lowfat – pluggable CLI filter that saved 91.8% of my LLM tokens",
-      "summary": "Hi HN, not sure if anyone would be interested, but just wanted to share that I've been maintaining my small tool called 'lowfat' that helps me filters some of my verbose CLI output. It's a single binary, works as an agent hook or a shell wrapper.",
-      "source": "Hacker News",
-      "published": "2026-06-05T09:10:42+00:00",
-      "link": "https://github.com/zdk/lowfat"
-    },
-    {
-      "title": "Are AI chatbots making us lose control of our brains?",
-      "summary": "This week I’ve been at SXSW London. There’s been music, film, and a lot—and I mean a lot—of talk about AI.",
-      "source": "MIT Tech Review",
-      "published": "2026-06-05T09:00:00+00:00",
-      "link": "https://www.technologyreview.com/2026/06/05/1138427/are-ai-chatbots-making-us-lose-control-of-our-brains/"
-    },
-    {
-      "title": "The Meta hack shows there’s more to AI security than Mythos",
-      "summary": "On June 5, 404 Media reported that attackers had been using Meta’s AI customer support agent to steal Instagram accounts. Their approach was simple: They asked the agent to link the accounts to email addresses that they controlled, and the agent complied.",
-      "source": "MIT Tech Review",
-      "published": "2026-06-05T09:00:00+00:00",
-      "link": "https://www.technologyreview.com/2026/06/05/1138437/the-meta-hack-shows-theres-more-to-ai-security-than-mythos/"
-    },
-    {
-      "title": "AI Has Come for Serif Fonts",
-      "summary": "AI companies are using serif to project humanity. Critics are calling it “tasteslop.”",
-      "source": "Wired",
-      "published": "2026-06-05T09:00:00+00:00",
-      "link": "https://www.wired.com/story/ai-has-come-for-serif-fonts/"
-    },
-    {
-      "title": "Anthropic says Claude now writes over 90% of its code and wants the world to have an AI pause button",
-      "summary": "Anthropic is sharing internal data showing how much Claude is speeding up its own AI development: more than 80 percent of production code now comes from Claude, and engineers are shipping eight times as much code per day as in 2024.",
-      "source": "The Decoder",
-      "published": "2026-06-05T08:45:29+00:00",
-      "link": "https://the-decoder.com/anthropic-says-claude-now-writes-over-90-of-its-code-and-wants-the-world-to-have-an-ai-pause-button/"
-    },
-    {
-      "title": "Fine-tuning an LLM to write docs like it's 1995",
-      "summary": "Article URL: https://passo.uno/fine-tuning-docs-llm/ Comments URL: https://news.ycombinator.com/item?id=48408442 Points: 194 # Comments: 66",
-      "source": "Hacker News",
-      "published": "2026-06-05T05:46:06+00:00",
-      "link": "https://passo.uno/fine-tuning-docs-llm/"
     }
   ]
 };
