@@ -1,6 +1,55 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-06-12T12:09:19.988515+00:00",
+  "lastUpdated": "2026-06-12T16:21:22.915447+00:00",
   "items": [
+    {
+      "title": "It’s hot IPO summer, and the MANGOS are ripe",
+      "summary": "The IPO market is back, and it’s not the same companies leading the charge. FAANG had a good run, but a new acronym is taking over: MANGOS — Meta (or Microsoft, depending on who you ask), Anthropic, Nvidia, Google, OpenAI, and SpaceX.",
+      "source": "TechCrunch",
+      "published": "2026-06-12T15:50:52+00:00",
+      "link": "https://techcrunch.com/podcast/its-hot-ipo-summer-and-the-mangos-are-ripe/"
+    },
+    {
+      "title": "Coinbase for Agents: Automating portfolio trading with AI",
+      "summary": "Coinbase for Agents connects AI to financial execution channels to automate trading and payments directly from user portfolios. Large language models process vast quantities of data but lack direct integration with active financial portfolios.",
+      "source": "AI News",
+      "published": "2026-06-12T15:34:23+00:00",
+      "link": "https://www.artificialintelligence-news.com/news/coinbase-for-agents-automating-portfolio-trading-with-ai/"
+    },
+    {
+      "title": "SpaceX’s massive IPO: all the latest news",
+      "summary": "SpaceX’s IPO on Friday allows the public to buy shares of the combined rocket, AI, and social media company for the first time, and is raising enough money to likely make Elon Musk the first trillionaire.",
+      "source": "The Verge",
+      "published": "2026-06-12T14:35:48+00:00",
+      "link": "https://www.theverge.com/business/948996/spacex-ipo-elon-musk"
+    },
+    {
+      "title": "Google files first joint lawsuit with FBI over Chinese AI scam network, OpenAI blocks PRC influence clusters",
+      "summary": "Within days of each other, Google and OpenAI separately exposed operations allegedly originating in China that use AI for fraud and covert influence campaigns. Both target US infrastructure and political debates.",
+      "source": "The Decoder",
+      "published": "2026-06-12T14:10:02+00:00",
+      "link": "https://the-decoder.com/google-files-first-joint-lawsuit-with-fbi-over-chinese-ai-scam-network-openai-blocks-prc-influence-clusters/"
+    },
+    {
+      "title": "Jeff Bezos’ AI startup aims to build an ‘artificial general engineer’",
+      "summary": "Amazon founder Jeff Bezos says his new AI startup will work toward developing an \"artificial general engineer,\" according to reports from The New York Times and CNBC.",
+      "source": "The Verge",
+      "published": "2026-06-12T14:03:39+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/949005/jeff-bezos-prometheus-artificial-general-engineer"
+    },
+    {
+      "title": "Mistral AI seeks 3 billion euros to fund its European AI push",
+      "summary": "French AI startup Mistral AI is negotiating a new funding round of around 3 billion euros at a valuation of approximately 20 billion euros. The article Mistral AI seeks 3 billion euros to fund its European AI push appeared first on The Decoder.",
+      "source": "The Decoder",
+      "published": "2026-06-12T13:48:31+00:00",
+      "link": "https://the-decoder.com/mistral-ai-seeks-3-billion-euros-to-fund-its-european-ai-push/"
+    },
+    {
+      "title": "The Download: “reprogramming” aging, and the hidden sense of interoception",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.",
+      "source": "MIT Tech Review",
+      "published": "2026-06-12T12:10:00+00:00",
+      "link": "https://www.technologyreview.com/2026/06/12/1138899/the-download-reprogramming-reverse-aging-interoception/"
+    },
     {
       "title": "The AI industry's platform trap is starting to look a lot like Microsoft's",
       "summary": "Anthropic is throttling its new Mythos model for certain tasks while building apps that directly compete with its largest customers. Customers, partners, and investors are pushing back.",
@@ -30,7 +79,7 @@ const FEED_DATA = {
       "link": "https://www.technologyreview.com/2026/06/12/1138829/reprogramming-buzziest-approach-reversing-aging-right-now/"
     },
     {
-      "title": "Inside Interoception: The hidden sense of how you feel inside",
+      "title": "Inside interoception: The hidden sense of how you feel inside",
       "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of science and technology to help you understand what’s coming next. You can read more from the series here.",
       "source": "MIT Tech Review",
       "published": "2026-06-12T09:00:00+00:00",
@@ -45,14 +94,14 @@ const FEED_DATA = {
     },
     {
       "title": "AI agent bankrupted their operator while trying to scan DN42",
-      "summary": "Article URL: https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/ Comments URL: https://news.ycombinator.com/item?id=48500012 Points: 750 # Comments: 293",
+      "summary": "Article URL: https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/ Comments URL: https://news.ycombinator.com/item?id=48500012 Points: 1205 # Comments: 442",
       "source": "Hacker News",
       "published": "2026-06-12T04:42:53+00:00",
       "link": "https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/"
     },
     {
       "title": "Cheaper, faster, and culturally aware, Avataar’s video AI is built for India’s scale",
-      "summary": "Avataar AI's distilled video model is priced at $0.005 for every second of generation",
+      "summary": "Avataar AI's distilled video model is priced at $0.005 for every second of generation.",
       "source": "TechCrunch",
       "published": "2026-06-12T04:30:00+00:00",
       "link": "https://techcrunch.com/2026/06/11/cheaper-faster-and-culturally-aware-avataars-video-ai-is-built-for-indias-scale/"
@@ -94,7 +143,7 @@ const FEED_DATA = {
     },
     {
       "title": "Shall we play a game? My AI nuclear simulation",
-      "summary": "https://arxiv.org/pdf/2602.14740 Comments URL: https://news.ycombinator.com/item?id=48495575 Points: 197 # Comments: 183",
+      "summary": "https://arxiv.org/pdf/2602.14740 Comments URL: https://news.ycombinator.com/item?id=48495575 Points: 202 # Comments: 189",
       "source": "Hacker News",
       "published": "2026-06-11T19:54:54+00:00",
       "link": "https://www.kennethpayne.uk/p/shall-we-play-a-game"
@@ -150,7 +199,7 @@ const FEED_DATA = {
     },
     {
       "title": "Workers are spending over 6 hours a week botsitting AI, fueling job frustration",
-      "summary": "Article URL: https://www.businessinsider.com/botsitting-ai-hidden-human-labor-at-work-2026-6 Comments URL: https://news.ycombinator.com/item?id=48490057 Points: 270 # Comments: 217",
+      "summary": "Article URL: https://www.businessinsider.com/botsitting-ai-hidden-human-labor-at-work-2026-6 Comments URL: https://news.ycombinator.com/item?id=48490057 Points: 272 # Comments: 220",
       "source": "Hacker News",
       "published": "2026-06-11T13:26:59+00:00",
       "link": "https://www.businessinsider.com/botsitting-ai-hidden-human-labor-at-work-2026-6"
@@ -205,6 +254,13 @@ const FEED_DATA = {
       "link": "https://www.technologyreview.com/2026/06/11/1138506/inside-soccer-data-renaissance-jesse-davis/"
     },
     {
+      "title": "Making a vintage LLM from scratch",
+      "summary": "Article URL: https://crlf.link/log/entries/260525-1/ Comments URL: https://news.ycombinator.com/item?id=48487829 Points: 76 # Comments: 21",
+      "source": "Hacker News",
+      "published": "2026-06-11T08:38:00+00:00",
+      "link": "https://crlf.link/log/entries/260525-1/"
+    },
+    {
       "title": "Claude Fable 5: Anthropic admits \"wrong tradeoff\" after invisibly throttling rival AI researchers",
       "summary": "Anthropic reverses course on a policy that would have secretly undermined AI researchers, but another point of contention persists. The article Claude Fable 5: Anthropic admits \"wrong tradeoff\" after invisibly throttling rival AI researchers appeared first on The Decoder.",
       "source": "The Decoder",
@@ -220,7 +276,7 @@ const FEED_DATA = {
     },
     {
       "title": "Why AI hasn't replaced software engineers, and won't",
-      "summary": "Article URL: https://www.normaltech.ai/p/why-ai-hasnt-replaced-software-engineers Comments URL: https://news.ycombinator.com/item?id=48487540 Points: 296 # Comments: 340",
+      "summary": "Article URL: https://www.normaltech.ai/p/why-ai-hasnt-replaced-software-engineers Comments URL: https://news.ycombinator.com/item?id=48487540 Points: 302 # Comments: 344",
       "source": "Hacker News",
       "published": "2026-06-11T07:51:17+00:00",
       "link": "https://www.normaltech.ai/p/why-ai-hasnt-replaced-software-engineers"
@@ -248,7 +304,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI agent runs amok in Fedora and elsewhere",
-      "summary": "Article URL: https://lwn.net/SubscriberLink/1077035/c7e7c14fbd60fae9/ Comments URL: https://news.ycombinator.com/item?id=48484584 Points: 545 # Comments: 242",
+      "summary": "Article URL: https://lwn.net/SubscriberLink/1077035/c7e7c14fbd60fae9/ Comments URL: https://news.ycombinator.com/item?id=48484584 Points: 546 # Comments: 242",
       "source": "Hacker News",
       "published": "2026-06-11T00:10:08+00:00",
       "link": "https://lwn.net/SubscriberLink/1077035/c7e7c14fbd60fae9/"
@@ -283,7 +339,7 @@ const FEED_DATA = {
     },
     {
       "title": "Policy on the AI Exponential",
-      "summary": "Article URL: https://darioamodei.com/post/policy-on-the-ai-exponential Comments URL: https://news.ycombinator.com/item?id=48480719 Points: 165 # Comments: 247",
+      "summary": "Article URL: https://darioamodei.com/post/policy-on-the-ai-exponential Comments URL: https://news.ycombinator.com/item?id=48480719 Points: 167 # Comments: 249",
       "source": "Hacker News",
       "published": "2026-06-10T18:36:04+00:00",
       "link": "https://darioamodei.com/post/policy-on-the-ai-exponential"
@@ -360,7 +416,7 @@ const FEED_DATA = {
     },
     {
       "title": "Apache Burr: Build reliable AI agents and applications",
-      "summary": "Article URL: https://burr.apache.org/ Comments URL: https://news.ycombinator.com/item?id=48477400 Points: 243 # Comments: 113",
+      "summary": "Article URL: https://burr.apache.org/ Comments URL: https://news.ycombinator.com/item?id=48477400 Points: 244 # Comments: 113",
       "source": "Hacker News",
       "published": "2026-06-10T15:01:06+00:00",
       "link": "https://burr.apache.org/"
@@ -395,7 +451,7 @@ const FEED_DATA = {
     },
     {
       "title": "A €0.01 bank transfer could compromise a banking AI agent",
-      "summary": "Article URL: https://blue41.com/blog/how-we-helped-bunq-secure-their-financial-ai-assistant/ Comments URL: https://news.ycombinator.com/item?id=48476136 Points: 205 # Comments: 196",
+      "summary": "Article URL: https://blue41.com/blog/how-we-helped-bunq-secure-their-financial-ai-assistant/ Comments URL: https://news.ycombinator.com/item?id=48476136 Points: 206 # Comments: 198",
       "source": "Hacker News",
       "published": "2026-06-10T13:39:11+00:00",
       "link": "https://blue41.com/blog/how-we-helped-bunq-secure-their-financial-ai-assistant/"
@@ -479,7 +535,7 @@ const FEED_DATA = {
     },
     {
       "title": "German ruling declares Google liable for false answers in AI Overviews",
-      "summary": "Article URL: https://the-decoder.com/landmark-german-ruling-declares-googles-ai-overviews-are-googles-own-words-and-makes-it-liable-for-false-answers/ Comments URL: https://news.ycombinator.com/item?id=48470248 Points: 1008 # Comments: 537",
+      "summary": "Article URL: https://the-decoder.com/landmark-german-ruling-declares-googles-ai-overviews-are-googles-own-words-and-makes-it-liable-for-false-answers/ Comments URL: https://news.ycombinator.com/item?id=48470248 Points: 1010 # Comments: 537",
       "source": "Hacker News",
       "published": "2026-06-10T01:44:13+00:00",
       "link": "https://the-decoder.com/landmark-german-ruling-declares-googles-ai-overviews-are-googles-own-words-and-makes-it-liable-for-false-answers/"
@@ -584,7 +640,7 @@ const FEED_DATA = {
     },
     {
       "title": "Where is the AI jobs crisis?",
-      "summary": "Article URL: https://www.apollo.com/wealth/the-daily-spark/where-is-the-ai-jobs-crisis Comments URL: https://news.ycombinator.com/item?id=48464333 Points: 161 # Comments: 267",
+      "summary": "Article URL: https://www.apollo.com/wealth/the-daily-spark/where-is-the-ai-jobs-crisis Comments URL: https://news.ycombinator.com/item?id=48464333 Points: 162 # Comments: 267",
       "source": "Hacker News",
       "published": "2026-06-09T17:29:17+00:00",
       "link": "https://www.apollo.com/wealth/the-daily-spark/where-is-the-ai-jobs-crisis"
@@ -661,7 +717,7 @@ const FEED_DATA = {
     },
     {
       "title": "Build a Basic AI Agent from Scratch: Long Task Planning",
-      "summary": "Article URL: https://medium.com/@rogi23696/build-a-basic-ai-agent-from-scratch-long-task-planning-14e803f9bd6d Comments URL: https://news.ycombinator.com/item?id=48461635 Points: 134 # Comments: 53",
+      "summary": "Article URL: https://medium.com/@rogi23696/build-a-basic-ai-agent-from-scratch-long-task-planning-14e803f9bd6d Comments URL: https://news.ycombinator.com/item?id=48461635 Points: 135 # Comments: 53",
       "source": "Hacker News",
       "published": "2026-06-09T14:29:34+00:00",
       "link": "https://medium.com/@rogi23696/build-a-basic-ai-agent-from-scratch-long-task-planning-14e803f9bd6d"
@@ -1344,62 +1400,6 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-06-05T17:17:06+00:00",
       "link": "https://techcrunch.com/video/the-most-interesting-startups-right-now-want-to-get-you-off-your-phone/"
-    },
-    {
-      "title": "This is your laptop… on AI",
-      "summary": "We're now deep into developer conference season, and one of the themes so far is the relentless conviction from Big Tech companies that AI is going to change everything about how we do everything.",
-      "source": "The Verge",
-      "published": "2026-06-05T16:39:07+00:00",
-      "link": "https://www.theverge.com/podcast/944058/ai-laptop-nvidia-build-gemini-spark-vergecast"
-    },
-    {
-      "title": "Satya Nadella publicly torches a VP's plan to make Microsoft's AI agent deliberately addictive",
-      "summary": "Microsoft CEO Satya Nadella has sharply criticized an internal memo proposing to make users \"addicted\" to the company's new AI agent Scout. \"Not sure who is writing and leaking this nonsense,\" Nadella wrote to about 50 top engineers.",
-      "source": "The Decoder",
-      "published": "2026-06-05T15:33:56+00:00",
-      "link": "https://the-decoder.com/satya-nadella-publicly-torches-a-vps-plan-to-make-microsofts-ai-agent-deliberately-addictive/"
-    },
-    {
-      "title": "Leak Reveals Microsoft Wants Its AI to Be 'Addictive'",
-      "summary": "Article URL: https://kotaku.com/microsoft-ai-scout-addictive-satya-nadella-404-media-copilot-2000702924 Comments URL: https://news.ycombinator.com/item?id=48413924 Points: 67 # Comments: 5",
-      "source": "Hacker News",
-      "published": "2026-06-05T15:32:58+00:00",
-      "link": "https://kotaku.com/microsoft-ai-scout-addictive-satya-nadella-404-media-copilot-2000702924"
-    },
-    {
-      "title": "Ask HN: What is your (AI) dev tech stack / workflow?",
-      "summary": "Hello, happy Friday!I am looking to do some in-person \"developer boot-up\" workshops, and seek your suggestions for \"modern tooling\".The background of the participants range from motivated newbie (\"I heard you can make your own app with AI!\") to existing software developers who...",
-      "source": "Hacker News",
-      "published": "2026-06-05T15:13:54+00:00",
-      "link": "https://news.ycombinator.com/item?id=48413629"
-    },
-    {
-      "title": "Has Microsoft Lost Its Mojo (Again)?",
-      "summary": "Microsoft’s AI products aren’t selling, and Github’s been plagued with troubles. WIRED spoke with VP Scott Hanselman about whether the company is in catch-up mode.",
-      "source": "Wired",
-      "published": "2026-06-05T15:00:00+00:00",
-      "link": "https://www.wired.com/story/has-microsoft-lost-its-mojo-again/"
-    },
-    {
-      "title": "The token bill comes due: Inside the industry scramble to manage AI’s runaway costs",
-      "summary": "\"The whole conversation shifted from tokenmaxxing and 'go fast' to 'we need guardrails, how do we control this?'\"",
-      "source": "TechCrunch",
-      "published": "2026-06-05T14:49:12+00:00",
-      "link": "https://techcrunch.com/2026/06/05/the-token-bill-comes-due-inside-the-industry-scramble-to-manage-ais-runaway-costs/"
-    },
-    {
-      "title": "The ‘together tech’ wave might be the most intriguing startup bet of 2026",
-      "summary": "While the AI fundraising machine keeps breaking its own records, some founders are building in the other direction. Mirror founder Brynn Putnam just raised money for Board, a startup focused on bringing people together through in-person games and social experiences.",
-      "source": "TechCrunch",
-      "published": "2026-06-05T14:00:00+00:00",
-      "link": "https://techcrunch.com/podcast/the-together-tech-wave-might-be-the-most-intriguing-startup-bet-of-2026/"
-    },
-    {
-      "title": "This AI startup says it can tell if a script will make a hit film",
-      "summary": "When Quilty hit the industry trades earlier this year, the AI startup promised that its tool could accurately predict a film's success just by reading the script. When people actually got a chance to experiment with Quilty's product, though, they were left skeptical.",
-      "source": "The Verge",
-      "published": "2026-06-05T13:57:31+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/943531/ai-script-quilty-simon-horsman-daniel-wood"
     }
   ]
 };
