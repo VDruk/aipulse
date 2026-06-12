@@ -1,6 +1,62 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-06-12T16:21:22.915447+00:00",
+  "lastUpdated": "2026-06-12T19:00:20.218337+00:00",
   "items": [
+    {
+      "title": "Over half of Americans fear losing both their jobs and their independent thinking to AI, survey finds",
+      "summary": "Anthropic surveyed nearly 52,000 Americans about their hopes and fears around AI. Sixty-four percent fear job losses, and 56 percent worry about losing the ability to think for themselves.",
+      "source": "The Decoder",
+      "published": "2026-06-12T18:40:26+00:00",
+      "link": "https://the-decoder.com/over-half-of-americans-fear-losing-both-their-jobs-and-their-independent-thinking-to-ai-survey-finds/"
+    },
+    {
+      "title": "Mistral is rumored to be raising €3B at €20B valuation",
+      "summary": "The funding round would value the company at around €20 billion (about $23.15 billion), nearly double its Series C valuation of €11.7 billion.",
+      "source": "TechCrunch",
+      "published": "2026-06-12T17:38:11+00:00",
+      "link": "https://techcrunch.com/2026/06/12/mistral-is-rumored-to-be-raising-e3b-at-e20-valuation/"
+    },
+    {
+      "title": "OpenAI kicks off the AI price wars with flexible rate-limit resets for its Codex coding agent",
+      "summary": "OpenAI now lets Codex users bank their rate-limit resets and trigger them manually instead of watching them expire on a fixed schedule. If you hit your usage cap mid-session, you can cash in a saved reset right away instead of waiting.",
+      "source": "The Decoder",
+      "published": "2026-06-12T17:34:23+00:00",
+      "link": "https://the-decoder.com/openai-kicks-off-the-ai-price-wars-with-flexible-rate-limit-resets-for-its-codex-coding-agent/"
+    },
+    {
+      "title": "Google sues alleged Chinese cybercrime operation that used AI to send scam texts",
+      "summary": "The tech giant said a group called \"Outsider Enterprise\" used AI to scam hundreds of thousands of victims, sending 2.5 million text messages over a span of two weeks.",
+      "source": "TechCrunch",
+      "published": "2026-06-12T17:26:08+00:00",
+      "link": "https://techcrunch.com/2026/06/12/google-sues-alleged-chinese-cybercrime-operation-that-used-ai-to-send-scam-texts/"
+    },
+    {
+      "title": "China Didn't Make People Hate Data Centers",
+      "summary": "GOP lawmakers, tech investors, and even OpenAI have tied the anti-data center movement in the US to Chinese interference. Experts say it’s much more complicated than that.",
+      "source": "Wired",
+      "published": "2026-06-12T17:17:10+00:00",
+      "link": "https://www.wired.com/story/china-us-data-center-opposition/"
+    },
+    {
+      "title": "Anthropic's Claude Fable 5 costs twice as much for 5.7 percent more performance",
+      "summary": "Claude Fable 5 tops the Artificial Analysis Intelligence Index with 64.9 points and sets records in five of ten benchmarks. But the gain over Opus 4.8 is just 5.7 percent at double the token price.",
+      "source": "The Decoder",
+      "published": "2026-06-12T17:10:34+00:00",
+      "link": "https://the-decoder.com/anthropics-claude-fable-5-costs-twice-as-much-for-5-7-percent-more-performance/"
+    },
+    {
+      "title": "Elon Musk is the world’s first trillionaire",
+      "summary": "Elon Musk's net worth has passed the trillion-dollar mark after SpaceX's IPO. His net worth, which was hovering around $800 billion before the IPO, includes the value of his 4.8 billion shares in SpaceX, along with his wealth from his other companies, like Tesla.",
+      "source": "The Verge",
+      "published": "2026-06-12T16:24:39+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/948409/elon-musk-trillionaire-spacex-ipo"
+    },
+    {
+      "title": "SpaceX, Anthropic, and OpenAI’s hot IPO summer",
+      "summary": "The IPO market is back, and it’s not the same companies leading the charge. FAANG had a good run, but a new acronym is taking over: MANGOS — Meta (or Microsoft, depending on who you ask), Anthropic, Nvidia, Google, OpenAI, and SpaceX.",
+      "source": "TechCrunch",
+      "published": "2026-06-12T16:23:25+00:00",
+      "link": "https://techcrunch.com/video/spacex-anthropic-and-openais-hot-ipo-summer/"
+    },
     {
       "title": "It’s hot IPO summer, and the MANGOS are ripe",
       "summary": "The IPO market is back, and it’s not the same companies leading the charge. FAANG had a good run, but a new acronym is taking over: MANGOS — Meta (or Microsoft, depending on who you ask), Anthropic, Nvidia, Google, OpenAI, and SpaceX.",
@@ -14,6 +70,13 @@ const FEED_DATA = {
       "source": "AI News",
       "published": "2026-06-12T15:34:23+00:00",
       "link": "https://www.artificialintelligence-news.com/news/coinbase-for-agents-automating-portfolio-trading-with-ai/"
+    },
+    {
+      "title": "Slightly reducing the sloppiness of AI generated front end",
+      "summary": "Article URL: https://envs.net/~volpe/blog/posts/reduce-slop.html Comments URL: https://news.ycombinator.com/item?id=48504912 Points: 115 # Comments: 74",
+      "source": "Hacker News",
+      "published": "2026-06-12T14:48:38+00:00",
+      "link": "https://envs.net/~volpe/blog/posts/reduce-slop.html"
     },
     {
       "title": "SpaceX’s massive IPO: all the latest news",
@@ -94,7 +157,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI agent bankrupted their operator while trying to scan DN42",
-      "summary": "Article URL: https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/ Comments URL: https://news.ycombinator.com/item?id=48500012 Points: 1205 # Comments: 442",
+      "summary": "Article URL: https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/ Comments URL: https://news.ycombinator.com/item?id=48500012 Points: 1299 # Comments: 473",
       "source": "Hacker News",
       "published": "2026-06-12T04:42:53+00:00",
       "link": "https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/"
@@ -143,7 +206,7 @@ const FEED_DATA = {
     },
     {
       "title": "Shall we play a game? My AI nuclear simulation",
-      "summary": "https://arxiv.org/pdf/2602.14740 Comments URL: https://news.ycombinator.com/item?id=48495575 Points: 202 # Comments: 189",
+      "summary": "https://arxiv.org/pdf/2602.14740 Comments URL: https://news.ycombinator.com/item?id=48495575 Points: 203 # Comments: 193",
       "source": "Hacker News",
       "published": "2026-06-11T19:54:54+00:00",
       "link": "https://www.kennethpayne.uk/p/shall-we-play-a-game"
@@ -199,7 +262,7 @@ const FEED_DATA = {
     },
     {
       "title": "Workers are spending over 6 hours a week botsitting AI, fueling job frustration",
-      "summary": "Article URL: https://www.businessinsider.com/botsitting-ai-hidden-human-labor-at-work-2026-6 Comments URL: https://news.ycombinator.com/item?id=48490057 Points: 272 # Comments: 220",
+      "summary": "Article URL: https://www.businessinsider.com/botsitting-ai-hidden-human-labor-at-work-2026-6 Comments URL: https://news.ycombinator.com/item?id=48490057 Points: 273 # Comments: 220",
       "source": "Hacker News",
       "published": "2026-06-11T13:26:59+00:00",
       "link": "https://www.businessinsider.com/botsitting-ai-hidden-human-labor-at-work-2026-6"
@@ -255,7 +318,7 @@ const FEED_DATA = {
     },
     {
       "title": "Making a vintage LLM from scratch",
-      "summary": "Article URL: https://crlf.link/log/entries/260525-1/ Comments URL: https://news.ycombinator.com/item?id=48487829 Points: 76 # Comments: 21",
+      "summary": "Article URL: https://crlf.link/log/entries/260525-1/ Comments URL: https://news.ycombinator.com/item?id=48487829 Points: 88 # Comments: 23",
       "source": "Hacker News",
       "published": "2026-06-11T08:38:00+00:00",
       "link": "https://crlf.link/log/entries/260525-1/"
@@ -276,7 +339,7 @@ const FEED_DATA = {
     },
     {
       "title": "Why AI hasn't replaced software engineers, and won't",
-      "summary": "Article URL: https://www.normaltech.ai/p/why-ai-hasnt-replaced-software-engineers Comments URL: https://news.ycombinator.com/item?id=48487540 Points: 302 # Comments: 344",
+      "summary": "Article URL: https://www.normaltech.ai/p/why-ai-hasnt-replaced-software-engineers Comments URL: https://news.ycombinator.com/item?id=48487540 Points: 304 # Comments: 347",
       "source": "Hacker News",
       "published": "2026-06-11T07:51:17+00:00",
       "link": "https://www.normaltech.ai/p/why-ai-hasnt-replaced-software-engineers"
@@ -304,7 +367,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI agent runs amok in Fedora and elsewhere",
-      "summary": "Article URL: https://lwn.net/SubscriberLink/1077035/c7e7c14fbd60fae9/ Comments URL: https://news.ycombinator.com/item?id=48484584 Points: 546 # Comments: 242",
+      "summary": "Article URL: https://lwn.net/SubscriberLink/1077035/c7e7c14fbd60fae9/ Comments URL: https://news.ycombinator.com/item?id=48484584 Points: 547 # Comments: 242",
       "source": "Hacker News",
       "published": "2026-06-11T00:10:08+00:00",
       "link": "https://lwn.net/SubscriberLink/1077035/c7e7c14fbd60fae9/"
@@ -416,7 +479,7 @@ const FEED_DATA = {
     },
     {
       "title": "Apache Burr: Build reliable AI agents and applications",
-      "summary": "Article URL: https://burr.apache.org/ Comments URL: https://news.ycombinator.com/item?id=48477400 Points: 244 # Comments: 113",
+      "summary": "Article URL: https://burr.apache.org/ Comments URL: https://news.ycombinator.com/item?id=48477400 Points: 244 # Comments: 114",
       "source": "Hacker News",
       "published": "2026-06-10T15:01:06+00:00",
       "link": "https://burr.apache.org/"
@@ -450,8 +513,15 @@ const FEED_DATA = {
       "link": "https://the-decoder.com/openai-wants-its-biggest-data-center-yet-and-nvidia-would-back-the-bill/"
     },
     {
+      "title": "Lua.ex: Sandboxed Lua 5.3 on the Beam, Built for AI Agents · Lua.ex",
+      "summary": "Article URL: https://deflua.com/ Comments URL: https://news.ycombinator.com/item?id=48476189 Points: 61 # Comments: 0",
+      "source": "Hacker News",
+      "published": "2026-06-10T13:44:54+00:00",
+      "link": "https://deflua.com/"
+    },
+    {
       "title": "A €0.01 bank transfer could compromise a banking AI agent",
-      "summary": "Article URL: https://blue41.com/blog/how-we-helped-bunq-secure-their-financial-ai-assistant/ Comments URL: https://news.ycombinator.com/item?id=48476136 Points: 206 # Comments: 198",
+      "summary": "Article URL: https://blue41.com/blog/how-we-helped-bunq-secure-their-financial-ai-assistant/ Comments URL: https://news.ycombinator.com/item?id=48476136 Points: 206 # Comments: 199",
       "source": "Hacker News",
       "published": "2026-06-10T13:39:11+00:00",
       "link": "https://blue41.com/blog/how-we-helped-bunq-secure-their-financial-ai-assistant/"
@@ -1330,76 +1400,6 @@ const FEED_DATA = {
       "source": "Wired",
       "published": "2026-06-06T10:30:00+00:00",
       "link": "https://www.wired.com/story/security-news-this-week-crypto-funded-chinese-peptide-labs-are-booming/"
-    },
-    {
-      "title": "SpaceX signs $920 million per month deal with Google for 110,000 Nvidia AI chips ahead of IPO",
-      "summary": "SpaceX is leasing AI computing capacity to Google for $920 million per month, according to an SEC filing. The deal gives Google access to about 110,000 Nvidia chips to meet demand for its Gemini Enterprise platform.",
-      "source": "The Decoder",
-      "published": "2026-06-06T07:57:41+00:00",
-      "link": "https://the-decoder.com/spacex-signs-920-million-per-month-deal-with-google-for-110000-nvidia-ai-chips-ahead-of-ipo/"
-    },
-    {
-      "title": "OpenAI and the Trump administration are negotiating a government stake in the AI startup",
-      "summary": "OpenAI and the Trump administration are negotiating a direct government stake in the AI startup. The idea is a \"Public Wealth Fund\" that would pay out directly to American citizens.",
-      "source": "The Decoder",
-      "published": "2026-06-06T07:30:43+00:00",
-      "link": "https://the-decoder.com/openai-and-the-trump-administration-are-negotiating-a-government-stake-in-the-ai-startup/"
-    },
-    {
-      "title": "Qwen3.7-Plus is Alibaba's bid to turn multimodal AI into a full-blown autonomous agent",
-      "summary": "Alibaba's Qwen team has released Qwen3.7-Plus, a multimodal agent model that combines visual perception, GUI operation, and coding in a single agent loop.",
-      "source": "The Decoder",
-      "published": "2026-06-06T06:54:29+00:00",
-      "link": "https://the-decoder.com/qwen3-7-plus-is-alibabas-bid-to-turn-multimodal-ai-into-a-full-blown-autonomous-agent/"
-    },
-    {
-      "title": "Ask HN: Why is the HN crowd so anti-AI?",
-      "summary": "Genuine question.Over the past six months, there hasn’t been a single day where I’ve checked the HN Best RSS feed without seeing a post about how AI “writes bad code,” “introduces bugs,” “creates technical debt,” or something along those lines.I’ll probably make a lot of enemies...",
-      "source": "Hacker News",
-      "published": "2026-06-06T02:31:51+00:00",
-      "link": "https://news.ycombinator.com/item?id=48420827"
-    },
-    {
-      "title": "Microsoft wants users to be addicted to Scout, their AI personal assistant",
-      "summary": "Article URL: https://disassociated.com/microsoft-users-addicted-ai-personal-assistant/ Comments URL: https://news.ycombinator.com/item?id=48419023 Points: 71 # Comments: 5",
-      "source": "Hacker News",
-      "published": "2026-06-05T22:12:58+00:00",
-      "link": "https://disassociated.com/microsoft-users-addicted-ai-personal-assistant/"
-    },
-    {
-      "title": "Hermes Agent – Open-source AI agent with persistent memory",
-      "summary": "Article URL: https://hermes-agent.org/ Comments URL: https://news.ycombinator.com/item?id=48419000 Points: 50 # Comments: 40",
-      "source": "Hacker News",
-      "published": "2026-06-05T22:09:38+00:00",
-      "link": "https://hermes-agent.org/"
-    },
-    {
-      "title": "Hacker News, Sans AI",
-      "summary": "Article URL: https://elijahpotter.dev/articles/hacker-news-sans-AI Comments URL: https://news.ycombinator.com/item?id=48417916 Points: 182 # Comments: 101",
-      "source": "Hacker News",
-      "published": "2026-06-05T20:38:40+00:00",
-      "link": "https://elijahpotter.dev/articles/hacker-news-sans-AI"
-    },
-    {
-      "title": "Google will pay SpaceX $920M per month for compute",
-      "summary": "In a statement, a Google representative described the deal as a result of unexpected demand for its recently launched AI products.",
-      "source": "TechCrunch",
-      "published": "2026-06-05T18:57:20+00:00",
-      "link": "https://techcrunch.com/2026/06/05/google-will-pay-spacex-920m-per-month-for-compute/"
-    },
-    {
-      "title": "Florida's lawsuit against OpenAI and CEO Altman treats ChatGPT as a defective product and public nuisance",
-      "summary": "Florida is the first US state to sue OpenAI and CEO Sam Altman personally over risks to minors, missing age checks, and inadequate safety investment. The 83-page complaint treats ChatGPT as a product subject to liability and threatens billions in penalties.",
-      "source": "The Decoder",
-      "published": "2026-06-05T18:19:31+00:00",
-      "link": "https://the-decoder.com/floridas-lawsuit-against-openai-and-ceo-altman-treats-chatgpt-as-a-defective-product-and-public-nuisance/"
-    },
-    {
-      "title": "The most interesting startups right now want to get you off your phone",
-      "summary": "While the AI fundraising machine keeps breaking its own records, some founders are building in the other direction. Mirror founder Brynn Putnam just raised money for Board, a startup focused on bringing people together through in-person games and social experiences.",
-      "source": "TechCrunch",
-      "published": "2026-06-05T17:17:06+00:00",
-      "link": "https://techcrunch.com/video/the-most-interesting-startups-right-now-want-to-get-you-off-your-phone/"
     }
   ]
 };
