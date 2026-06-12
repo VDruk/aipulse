@@ -1,6 +1,20 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-06-12T05:47:59.889230+00:00",
+  "lastUpdated": "2026-06-12T08:59:45.601380+00:00",
   "items": [
+    {
+      "title": "Siri won’t be your AI girlfriend",
+      "summary": "Our early testing has already shown that Siri AI knows when to shut up, and that's very much by design. In an interview with Mostly Human spotted by MacRumors, Craig Federighi said Apple's new Siri won't act all sycophantic like chatbots made by OpenAI, Google, and others.",
+      "source": "The Verge",
+      "published": "2026-06-12T07:00:31+00:00",
+      "link": "https://www.theverge.com/tech/948890/siri-wont-be-your-ai-girlfriend"
+    },
+    {
+      "title": "AI agent bankrupted their operator while trying to scan DN42",
+      "summary": "Article URL: https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/ Comments URL: https://news.ycombinator.com/item?id=48500012 Points: 467 # Comments: 164",
+      "source": "Hacker News",
+      "published": "2026-06-12T04:42:53+00:00",
+      "link": "https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/"
+    },
     {
       "title": "Cheaper, faster, and culturally aware, Avataar’s video AI is built for India’s scale",
       "summary": "Avataar AI's distilled video model is priced at $0.005 for every second of generation",
@@ -45,7 +59,7 @@ const FEED_DATA = {
     },
     {
       "title": "Shall we play a game? My AI nuclear simulation",
-      "summary": "https://arxiv.org/pdf/2602.14740 Comments URL: https://news.ycombinator.com/item?id=48495575 Points: 188 # Comments: 177",
+      "summary": "https://arxiv.org/pdf/2602.14740 Comments URL: https://news.ycombinator.com/item?id=48495575 Points: 192 # Comments: 180",
       "source": "Hacker News",
       "published": "2026-06-11T19:54:54+00:00",
       "link": "https://www.kennethpayne.uk/p/shall-we-play-a-game"
@@ -101,7 +115,7 @@ const FEED_DATA = {
     },
     {
       "title": "Workers are spending over 6 hours a week botsitting AI, fueling job frustration",
-      "summary": "Article URL: https://www.businessinsider.com/botsitting-ai-hidden-human-labor-at-work-2026-6 Comments URL: https://news.ycombinator.com/item?id=48490057 Points: 267 # Comments: 211",
+      "summary": "Article URL: https://www.businessinsider.com/botsitting-ai-hidden-human-labor-at-work-2026-6 Comments URL: https://news.ycombinator.com/item?id=48490057 Points: 269 # Comments: 214",
       "source": "Hacker News",
       "published": "2026-06-11T13:26:59+00:00",
       "link": "https://www.businessinsider.com/botsitting-ai-hidden-human-labor-at-work-2026-6"
@@ -171,7 +185,7 @@ const FEED_DATA = {
     },
     {
       "title": "Why AI hasn't replaced software engineers, and won't",
-      "summary": "Article URL: https://www.normaltech.ai/p/why-ai-hasnt-replaced-software-engineers Comments URL: https://news.ycombinator.com/item?id=48487540 Points: 286 # Comments: 326",
+      "summary": "Article URL: https://www.normaltech.ai/p/why-ai-hasnt-replaced-software-engineers Comments URL: https://news.ycombinator.com/item?id=48487540 Points: 293 # Comments: 338",
       "source": "Hacker News",
       "published": "2026-06-11T07:51:17+00:00",
       "link": "https://www.normaltech.ai/p/why-ai-hasnt-replaced-software-engineers"
@@ -199,7 +213,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI agent runs amok in Fedora and elsewhere",
-      "summary": "Article URL: https://lwn.net/SubscriberLink/1077035/c7e7c14fbd60fae9/ Comments URL: https://news.ycombinator.com/item?id=48484584 Points: 541 # Comments: 239",
+      "summary": "Article URL: https://lwn.net/SubscriberLink/1077035/c7e7c14fbd60fae9/ Comments URL: https://news.ycombinator.com/item?id=48484584 Points: 544 # Comments: 240",
       "source": "Hacker News",
       "published": "2026-06-11T00:10:08+00:00",
       "link": "https://lwn.net/SubscriberLink/1077035/c7e7c14fbd60fae9/"
@@ -234,7 +248,7 @@ const FEED_DATA = {
     },
     {
       "title": "Policy on the AI Exponential",
-      "summary": "Article URL: https://darioamodei.com/post/policy-on-the-ai-exponential Comments URL: https://news.ycombinator.com/item?id=48480719 Points: 164 # Comments: 243",
+      "summary": "Article URL: https://darioamodei.com/post/policy-on-the-ai-exponential Comments URL: https://news.ycombinator.com/item?id=48480719 Points: 164 # Comments: 246",
       "source": "Hacker News",
       "published": "2026-06-10T18:36:04+00:00",
       "link": "https://darioamodei.com/post/policy-on-the-ai-exponential"
@@ -423,14 +437,14 @@ const FEED_DATA = {
     },
     {
       "title": "Rich Sutton on AI creativity and discovery",
-      "summary": "https://www.youtube.com/watch?v=K5LAFEjTlBA Comments URL: https://news.ycombinator.com/item?id=48470581 Points: 208 # Comments: 124",
+      "summary": "https://www.youtube.com/watch?v=K5LAFEjTlBA Comments URL: https://news.ycombinator.com/item?id=48470581 Points: 209 # Comments: 124",
       "source": "Hacker News",
       "published": "2026-06-10T02:25:24+00:00",
       "link": "https://twitter.com/RichardSSutton/status/2061216087744946656"
     },
     {
       "title": "German ruling declares Google liable for false answers in AI Overviews",
-      "summary": "Article URL: https://the-decoder.com/landmark-german-ruling-declares-googles-ai-overviews-are-googles-own-words-and-makes-it-liable-for-false-answers/ Comments URL: https://news.ycombinator.com/item?id=48470248 Points: 1007 # Comments: 535",
+      "summary": "Article URL: https://the-decoder.com/landmark-german-ruling-declares-googles-ai-overviews-are-googles-own-words-and-makes-it-liable-for-false-answers/ Comments URL: https://news.ycombinator.com/item?id=48470248 Points: 1008 # Comments: 536",
       "source": "Hacker News",
       "published": "2026-06-10T01:44:13+00:00",
       "link": "https://the-decoder.com/landmark-german-ruling-declares-googles-ai-overviews-are-googles-own-words-and-makes-it-liable-for-false-answers/"
@@ -507,7 +521,7 @@ const FEED_DATA = {
     },
     {
       "title": "CEOs who think AI replaces their employees are just bad CEOs",
-      "summary": "Article URL: https://www.techdirt.com/2026/06/09/ceos-who-think-ai-replaces-their-employees-are-just-bad-ceos/ Comments URL: https://news.ycombinator.com/item?id=48465675 Points: 829 # Comments: 307",
+      "summary": "Article URL: https://www.techdirt.com/2026/06/09/ceos-who-think-ai-replaces-their-employees-are-just-bad-ceos/ Comments URL: https://news.ycombinator.com/item?id=48465675 Points: 831 # Comments: 307",
       "source": "Hacker News",
       "published": "2026-06-09T18:45:59+00:00",
       "link": "https://www.techdirt.com/2026/06/09/ceos-who-think-ai-replaces-their-employees-are-just-bad-ceos/"
@@ -598,7 +612,7 @@ const FEED_DATA = {
     },
     {
       "title": "Judge Learns Both Sides Used AI, Cancels Trial, Kicks Everyone Off the Case",
-      "summary": "Article URL: https://www.404media.co/judge-learns-lawyers-on-both-sides-of-case-used-ai-cancels-trial-kicks-everyone-off-the-case/ Comments URL: https://news.ycombinator.com/item?id=48462428 Points: 95 # Comments: 22",
+      "summary": "Article URL: https://www.404media.co/judge-learns-lawyers-on-both-sides-of-case-used-ai-cancels-trial-kicks-everyone-off-the-case/ Comments URL: https://news.ycombinator.com/item?id=48462428 Points: 96 # Comments: 22",
       "source": "Hacker News",
       "published": "2026-06-09T15:30:19+00:00",
       "link": "https://www.404media.co/judge-learns-lawyers-on-both-sides-of-case-used-ai-cancels-trial-kicks-everyone-off-the-case/"
@@ -612,7 +626,7 @@ const FEED_DATA = {
     },
     {
       "title": "Build a Basic AI Agent from Scratch: Long Task Planning",
-      "summary": "Article URL: https://medium.com/@rogi23696/build-a-basic-ai-agent-from-scratch-long-task-planning-14e803f9bd6d Comments URL: https://news.ycombinator.com/item?id=48461635 Points: 129 # Comments: 51",
+      "summary": "Article URL: https://medium.com/@rogi23696/build-a-basic-ai-agent-from-scratch-long-task-planning-14e803f9bd6d Comments URL: https://news.ycombinator.com/item?id=48461635 Points: 132 # Comments: 53",
       "source": "Hacker News",
       "published": "2026-06-09T14:29:34+00:00",
       "link": "https://medium.com/@rogi23696/build-a-basic-ai-agent-from-scratch-long-task-planning-14e803f9bd6d"
@@ -710,7 +724,7 @@ const FEED_DATA = {
     },
     {
       "title": "Cleaning up after AI rockstar developers",
-      "summary": "Article URL: https://www.codingwithjesse.com/blog/rockstar-developers/ Comments URL: https://news.ycombinator.com/item?id=48458586 Points: 494 # Comments: 361",
+      "summary": "Article URL: https://www.codingwithjesse.com/blog/rockstar-developers/ Comments URL: https://news.ycombinator.com/item?id=48458586 Points: 495 # Comments: 361",
       "source": "Hacker News",
       "published": "2026-06-09T09:10:10+00:00",
       "link": "https://www.codingwithjesse.com/blog/rockstar-developers/"
@@ -1386,20 +1400,6 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-06-05T11:15:28+00:00",
       "link": "https://the-decoder.com/anthropics-mythos-model-is-reportedly-powering-nsa-offensive-cyber-ops-against-china-and-iran/"
-    },
-    {
-      "title": "OpenAI and Anthropic May Be Rivals, but Investors Aren’t Picking Sides",
-      "summary": "“Why wouldn’t you want to be in both Pepsi and Coke?” says one venture capitalist. “It’s the same here.”",
-      "source": "Wired",
-      "published": "2026-06-05T10:30:00+00:00",
-      "link": "https://www.wired.com/story/openai-and-anthropic-may-be-rivals-but-their-investors-arent-choosing-sides/"
-    },
-    {
-      "title": "Why Apple Might Put Cameras Into Its Next AirPods",
-      "summary": "From battery life to privacy, there are many hurdles to the idea taking off.",
-      "source": "Wired",
-      "published": "2026-06-05T10:00:00+00:00",
-      "link": "https://www.wired.com/story/why-apple-might-put-cameras-into-its-next-airpods/"
     }
   ]
 };
