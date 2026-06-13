@@ -1,6 +1,27 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-06-13T18:03:55.150423+00:00",
+  "lastUpdated": "2026-06-13T21:57:05.382045+00:00",
   "items": [
+    {
+      "title": "Amazon security research reportedly led to the White House’s Anthropic Fable ban",
+      "summary": "According to the Wall Street Journal, the export control directive that led to Anthropic cutting off access to Fable 5 and Mythos 5 was triggered in part by cybersecurity research from Amazon and conversations between CEO Andy Jassy and the White House.",
+      "source": "The Verge",
+      "published": "2026-06-13T21:39:26+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/949601/amazon-anthropic-fablemythos-government-ban"
+    },
+    {
+      "title": "KPMG pulls report on AI usage due to apparent hallucinations",
+      "summary": "Once again, AI proves to be an unreliable source of information about AI.",
+      "source": "TechCrunch",
+      "published": "2026-06-13T20:42:31+00:00",
+      "link": "https://techcrunch.com/2026/06/13/kpmg-pulls-report-on-ai-usage-due-to-apparent-hallucinations/"
+    },
+    {
+      "title": "Amazon CEO reportedly raised Anthropic model concerns before government crackdown",
+      "summary": "Amazon CEO Andy Jassy may have been the source of security concerns that led Anthropic to cut off worldwide access to two models on Friday.",
+      "source": "TechCrunch",
+      "published": "2026-06-13T19:11:41+00:00",
+      "link": "https://techcrunch.com/2026/06/13/amazon-ceo-reportedly-raised-anthropic-model-concerns-before-government-crackdown/"
+    },
     {
       "title": "New AI model called \"Count Anything\" does exactly what it says, and that's harder than it sounds",
       "summary": "\"Count Anything\" is intended to be the first AI model capable of counting objects in any type of image, from crowds to cell samples under a microscope, using nothing more than a text prompt. In a comparative test, it cuts the error rate in half compared to previous systems.",
@@ -1379,27 +1400,6 @@ const FEED_DATA = {
       "source": "MIT Tech Review",
       "published": "2026-06-08T12:10:00+00:00",
       "link": "https://www.technologyreview.com/2026/06/08/1138485/the-download-world-cup-ball-openai-super-app/"
-    },
-    {
-      "title": "Moonshot AI targets a $30 billion valuation, more than six times its late-2025 worth",
-      "summary": "Moonshot AI, the Chinese company behind the Kimi chatbot, is looking for a valuation of up to $30 billion in a new funding round. The article Moonshot AI targets a $30 billion valuation, more than six times its late-2025 worth appeared first on The Decoder.",
-      "source": "The Decoder",
-      "published": "2026-06-08T11:22:10+00:00",
-      "link": "https://the-decoder.com/moonshot-ai-targets-a-30-billion-valuation-more-than-six-times-its-late-2025-worth/"
-    },
-    {
-      "title": "Momfluencers Are Pitching AI as a Better ‘Coparent’ Than Men",
-      "summary": "Moms are outsourcing tedious household tasks to ChatGPT and selling courses teaching others to do the same. Where are all the dads?",
-      "source": "Wired",
-      "published": "2026-06-08T10:30:00+00:00",
-      "link": "https://www.wired.com/story/momfluencers-are-pitching-ai-as-a-better-coparent-than-men/"
-    },
-    {
-      "title": "Weis Markets adds Instacart AI-powered shopping carts to stores",
-      "summary": "Weis Markets is adding Instacart’s AI-powered shopping carts, Caper Carts, to select stores in Pennsylvania, bringing digital coupons, loyalty features, and repeat-purchase recommendations into the grocery aisle.",
-      "source": "AI News",
-      "published": "2026-06-08T10:00:00+00:00",
-      "link": "https://www.artificialintelligence-news.com/news/weis-markets-instacart-ai-powered-shopping-caper-carts/"
     }
   ]
 };
