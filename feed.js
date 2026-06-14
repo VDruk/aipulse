@@ -1,6 +1,13 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-06-13T21:57:05.382045+00:00",
+  "lastUpdated": "2026-06-14T05:47:30.420773+00:00",
   "items": [
+    {
+      "title": "As Anthropic suspends access to new models, India debates its AI future",
+      "summary": "Tech leaders debate whether the Anthropic episode is a wake-up call for India’s AI ambitions.",
+      "source": "TechCrunch",
+      "published": "2026-06-14T03:00:00+00:00",
+      "link": "https://techcrunch.com/2026/06/13/as-anthropic-suspends-access-to-new-models-india-debates-its-ai-future/"
+    },
     {
       "title": "Amazon security research reportedly led to the White House’s Anthropic Fable ban",
       "summary": "According to the Wall Street Journal, the export control directive that led to Anthropic cutting off access to Fable 5 and Mythos 5 was triggered in part by cybersecurity research from Amazon and conversations between CEO Andy Jassy and the White House.",
@@ -16,11 +23,25 @@ const FEED_DATA = {
       "link": "https://techcrunch.com/2026/06/13/kpmg-pulls-report-on-ai-usage-due-to-apparent-hallucinations/"
     },
     {
+      "title": "Police officer investigated for using AI to 'create evidence' in multiple cases",
+      "summary": "Article URL: https://news.sky.com/story/derbyshire-police-officer-investigated-for-using-ai-to-create-evidence-in-multiple-cases-13553661 Comments URL: https://news.ycombinator.com/item?id=48520807 Points: 278 # Comments: 133",
+      "source": "Hacker News",
+      "published": "2026-06-13T19:54:55+00:00",
+      "link": "https://news.sky.com/story/derbyshire-police-officer-investigated-for-using-ai-to-create-evidence-in-multiple-cases-13553661"
+    },
+    {
       "title": "Amazon CEO reportedly raised Anthropic model concerns before government crackdown",
       "summary": "Amazon CEO Andy Jassy may have been the source of security concerns that led Anthropic to cut off worldwide access to two models on Friday.",
       "source": "TechCrunch",
       "published": "2026-06-13T19:11:41+00:00",
       "link": "https://techcrunch.com/2026/06/13/amazon-ceo-reportedly-raised-anthropic-model-concerns-before-government-crackdown/"
+    },
+    {
+      "title": "PwC Report: AI Making Medical Bills Higher",
+      "summary": "Article URL: https://fortune.com/2026/06/12/ai-making-medical-bills-higher/ Comments URL: https://news.ycombinator.com/item?id=48519519 Points: 72 # Comments: 15",
+      "source": "Hacker News",
+      "published": "2026-06-13T17:39:14+00:00",
+      "link": "https://fortune.com/2026/06/12/ai-making-medical-bills-higher/"
     },
     {
       "title": "New AI model called \"Count Anything\" does exactly what it says, and that's harder than it sounds",
@@ -37,8 +58,8 @@ const FEED_DATA = {
       "link": "https://techcrunch.com/2026/06/13/openai-faces-investigation-from-state-attorneys-general/"
     },
     {
-      "title": "AI Coding at Home Without Going Broke",
-      "summary": "Article URL: https://stephen.bochinski.dev/blog/2026/06/13/ai-coding-at-home-without-going-broke/ Comments URL: https://news.ycombinator.com/item?id=48518969 Points: 70 # Comments: 71",
+      "title": "AI coding at home without going broke",
+      "summary": "Article URL: https://stephen.bochinski.dev/blog/2026/06/13/ai-coding-at-home-without-going-broke/ Comments URL: https://news.ycombinator.com/item?id=48518969 Points: 269 # Comments: 230",
       "source": "Hacker News",
       "published": "2026-06-13T16:45:03+00:00",
       "link": "https://stephen.bochinski.dev/blog/2026/06/13/ai-coding-at-home-without-going-broke/"
@@ -80,7 +101,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI OSS tool repo goes archived over night after raising $7.3M Seed",
-      "summary": "Article URL: https://github.com/tensorzero/tensorzero Comments URL: https://news.ycombinator.com/item?id=48516504 Points: 190 # Comments: 134",
+      "summary": "Article URL: https://github.com/tensorzero/tensorzero Comments URL: https://news.ycombinator.com/item?id=48516504 Points: 252 # Comments: 162",
       "source": "Hacker News",
       "published": "2026-06-13T12:10:47+00:00",
       "link": "https://github.com/tensorzero/tensorzero"
@@ -171,7 +192,7 @@ const FEED_DATA = {
     },
     {
       "title": "Open source AI must win",
-      "summary": "Article URL: https://opensourceaimustwin.com/?share=v2 Comments URL: https://news.ycombinator.com/item?id=48511908 Points: 1402 # Comments: 432",
+      "summary": "Article URL: https://opensourceaimustwin.com/?share=v2 Comments URL: https://news.ycombinator.com/item?id=48511908 Points: 1528 # Comments: 464",
       "source": "Hacker News",
       "published": "2026-06-13T02:14:24+00:00",
       "link": "https://opensourceaimustwin.com/?share=v2"
@@ -283,7 +304,7 @@ const FEED_DATA = {
     },
     {
       "title": "Slightly reducing the sloppiness of AI generated front end",
-      "summary": "Article URL: https://envs.net/~volpe/blog/posts/reduce-slop.html Comments URL: https://news.ycombinator.com/item?id=48504912 Points: 215 # Comments: 128",
+      "summary": "Article URL: https://envs.net/~volpe/blog/posts/reduce-slop.html Comments URL: https://news.ycombinator.com/item?id=48504912 Points: 218 # Comments: 130",
       "source": "Hacker News",
       "published": "2026-06-12T14:48:38+00:00",
       "link": "https://envs.net/~volpe/blog/posts/reduce-slop.html"
@@ -367,7 +388,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI agent bankrupted their operator while trying to scan DN42",
-      "summary": "Article URL: https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/ Comments URL: https://news.ycombinator.com/item?id=48500012 Points: 1432 # Comments: 522",
+      "summary": "Article URL: https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/ Comments URL: https://news.ycombinator.com/item?id=48500012 Points: 1445 # Comments: 525",
       "source": "Hacker News",
       "published": "2026-06-12T04:42:53+00:00",
       "link": "https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/"
@@ -416,7 +437,7 @@ const FEED_DATA = {
     },
     {
       "title": "Shall we play a game? My AI nuclear simulation",
-      "summary": "https://arxiv.org/pdf/2602.14740 Comments URL: https://news.ycombinator.com/item?id=48495575 Points: 205 # Comments: 199",
+      "summary": "https://arxiv.org/pdf/2602.14740 Comments URL: https://news.ycombinator.com/item?id=48495575 Points: 205 # Comments: 201",
       "source": "Hacker News",
       "published": "2026-06-11T19:54:54+00:00",
       "link": "https://www.kennethpayne.uk/p/shall-we-play-a-game"
@@ -612,7 +633,7 @@ const FEED_DATA = {
     },
     {
       "title": "Policy on the AI Exponential",
-      "summary": "Article URL: https://darioamodei.com/post/policy-on-the-ai-exponential Comments URL: https://news.ycombinator.com/item?id=48480719 Points: 168 # Comments: 257",
+      "summary": "Article URL: https://darioamodei.com/post/policy-on-the-ai-exponential Comments URL: https://news.ycombinator.com/item?id=48480719 Points: 169 # Comments: 257",
       "source": "Hacker News",
       "published": "2026-06-10T18:36:04+00:00",
       "link": "https://darioamodei.com/post/policy-on-the-ai-exponential"
@@ -808,7 +829,7 @@ const FEED_DATA = {
     },
     {
       "title": "Rich Sutton on AI creativity and discovery",
-      "summary": "https://www.youtube.com/watch?v=K5LAFEjTlBA Comments URL: https://news.ycombinator.com/item?id=48470581 Points: 209 # Comments: 124",
+      "summary": "https://www.youtube.com/watch?v=K5LAFEjTlBA Comments URL: https://news.ycombinator.com/item?id=48470581 Points: 210 # Comments: 125",
       "source": "Hacker News",
       "published": "2026-06-10T02:25:24+00:00",
       "link": "https://twitter.com/RichardSSutton/status/2061216087744946656"
@@ -1379,27 +1400,6 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-06-08T12:34:03+00:00",
       "link": "https://the-decoder.com/instagram-ai-chatbot-breach-may-have-affected-over-to-20000-accounts-meta-discloses/"
-    },
-    {
-      "title": "Microsoft tightens rules for conflict zones after investigation into Israel's military use of Azure",
-      "summary": "Microsoft has wrapped up its investigation into Israel's military use of its Azure cloud and is rolling out new human rights checks.",
-      "source": "The Decoder",
-      "published": "2026-06-08T12:25:29+00:00",
-      "link": "https://the-decoder.com/microsoft-tightens-rules-for-conflict-zones-after-investigation-into-israels-military-use-of-azure/"
-    },
-    {
-      "title": "Aviva deploys AI to stop £230M in sophisticated insurance fraud",
-      "summary": "Aviva has uncovered a record £230 million in insurance fraud claims and is using AI tools to counter the growing problem. The battleground has changed, and the culprits are also coming armed with a new generation of tools.",
-      "source": "AI News",
-      "published": "2026-06-08T12:19:38+00:00",
-      "link": "https://www.artificialintelligence-news.com/news/aviva-deploys-ai-stop-230m-sophisticated-insurance-fraud/"
-    },
-    {
-      "title": "The Download: how the World Cup ball will fly and OpenAI’s “super app”",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Why this year’s World Cup ball may not fly as far Much is new about this month’s FIFA World Cup tournament.",
-      "source": "MIT Tech Review",
-      "published": "2026-06-08T12:10:00+00:00",
-      "link": "https://www.technologyreview.com/2026/06/08/1138485/the-download-world-cup-ball-openai-super-app/"
     }
   ]
 };
