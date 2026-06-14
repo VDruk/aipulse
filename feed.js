@@ -1,6 +1,20 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-06-14T11:20:46.376114+00:00",
+  "lastUpdated": "2026-06-14T15:07:31.161768+00:00",
   "items": [
+    {
+      "title": "Microsoft Research's Mirage gives video generation a persistent spatial memory that doesn't forget what's around the corner",
+      "summary": "Mirage, a video world model from Microsoft Research and several universities, stores scene information directly in latent space instead of pixel-based point clouds. That slashes compute time and graphics memory while keeping scenes spatially consistent through long camera moves.",
+      "source": "The Decoder",
+      "published": "2026-06-14T13:58:17+00:00",
+      "link": "https://the-decoder.com/microsoft-researchs-mirage-gives-video-generation-a-persistent-spatial-memory-that-doesnt-forget-whats-around-the-corner/"
+    },
+    {
+      "title": "Google Cloud's Open Knowledge Format turns scattered docs into Markdown files for AI agents",
+      "summary": "Google Cloud's new Open Knowledge Format (OKF) standardizes scattered organizational knowledge as Markdown files with YAML frontmatter, making it portable and usable for AI agents.",
+      "source": "The Decoder",
+      "published": "2026-06-14T13:29:52+00:00",
+      "link": "https://the-decoder.com/google-clouds-open-knowledge-format-turns-scattered-docs-into-markdown-files-for-ai-agents/"
+    },
     {
       "title": "KPMG fabricated AI case studies in a report designed to sell clients on AI adoption",
       "summary": "KPMG published a report on AI in business that contained fabricated case studies involving UBS, the NHS, and other organizations.",
@@ -30,6 +44,13 @@ const FEED_DATA = {
       "link": "https://techcrunch.com/2026/06/13/as-anthropic-suspends-access-to-new-models-india-debates-its-ai-future/"
     },
     {
+      "title": "Meta’s chaotic AI strategy",
+      "summary": "Article URL: https://www.wired.com/story/mark-zuckerberg-meta-employee-meeting-interrupt-ai/ Comments URL: https://news.ycombinator.com/item?id=48523271 Points: 68 # Comments: 74",
+      "source": "Hacker News",
+      "published": "2026-06-14T01:23:45+00:00",
+      "link": "https://www.wired.com/story/mark-zuckerberg-meta-employee-meeting-interrupt-ai/"
+    },
+    {
       "title": "Amazon security research reportedly led to the White House’s Anthropic Fable ban",
       "summary": "According to the Wall Street Journal, the export control directive that led to Anthropic cutting off access to Fable 5 and Mythos 5 was triggered in part by cybersecurity research from Amazon and conversations between CEO Andy Jassy and the White House.",
       "source": "The Verge",
@@ -45,7 +66,7 @@ const FEED_DATA = {
     },
     {
       "title": "Police officer investigated for using AI to 'create evidence' in multiple cases",
-      "summary": "Article URL: https://news.sky.com/story/derbyshire-police-officer-investigated-for-using-ai-to-create-evidence-in-multiple-cases-13553661 Comments URL: https://news.ycombinator.com/item?id=48520807 Points: 278 # Comments: 133",
+      "summary": "Article URL: https://news.sky.com/story/derbyshire-police-officer-investigated-for-using-ai-to-create-evidence-in-multiple-cases-13553661 Comments URL: https://news.ycombinator.com/item?id=48520807 Points: 353 # Comments: 179",
       "source": "Hacker News",
       "published": "2026-06-13T19:54:55+00:00",
       "link": "https://news.sky.com/story/derbyshire-police-officer-investigated-for-using-ai-to-create-evidence-in-multiple-cases-13553661"
@@ -59,7 +80,7 @@ const FEED_DATA = {
     },
     {
       "title": "PwC Report: AI Making Medical Bills Higher",
-      "summary": "Article URL: https://fortune.com/2026/06/12/ai-making-medical-bills-higher/ Comments URL: https://news.ycombinator.com/item?id=48519519 Points: 72 # Comments: 15",
+      "summary": "Article URL: https://fortune.com/2026/06/12/ai-making-medical-bills-higher/ Comments URL: https://news.ycombinator.com/item?id=48519519 Points: 78 # Comments: 16",
       "source": "Hacker News",
       "published": "2026-06-13T17:39:14+00:00",
       "link": "https://fortune.com/2026/06/12/ai-making-medical-bills-higher/"
@@ -80,7 +101,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI coding at home without going broke",
-      "summary": "Article URL: https://stephen.bochinski.dev/blog/2026/06/13/ai-coding-at-home-without-going-broke/ Comments URL: https://news.ycombinator.com/item?id=48518969 Points: 269 # Comments: 230",
+      "summary": "Article URL: https://stephen.bochinski.dev/blog/2026/06/13/ai-coding-at-home-without-going-broke/ Comments URL: https://news.ycombinator.com/item?id=48518969 Points: 316 # Comments: 260",
       "source": "Hacker News",
       "published": "2026-06-13T16:45:03+00:00",
       "link": "https://stephen.bochinski.dev/blog/2026/06/13/ai-coding-at-home-without-going-broke/"
@@ -122,7 +143,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI OSS tool repo goes archived over night after raising $7.3M Seed",
-      "summary": "Article URL: https://github.com/tensorzero/tensorzero Comments URL: https://news.ycombinator.com/item?id=48516504 Points: 252 # Comments: 162",
+      "summary": "Article URL: https://github.com/tensorzero/tensorzero Comments URL: https://news.ycombinator.com/item?id=48516504 Points: 269 # Comments: 166",
       "source": "Hacker News",
       "published": "2026-06-13T12:10:47+00:00",
       "link": "https://github.com/tensorzero/tensorzero"
@@ -213,7 +234,7 @@ const FEED_DATA = {
     },
     {
       "title": "Open source AI must win",
-      "summary": "Article URL: https://opensourceaimustwin.com/?share=v2 Comments URL: https://news.ycombinator.com/item?id=48511908 Points: 1528 # Comments: 464",
+      "summary": "Article URL: https://opensourceaimustwin.com/?share=v2 Comments URL: https://news.ycombinator.com/item?id=48511908 Points: 1546 # Comments: 467",
       "source": "Hacker News",
       "published": "2026-06-13T02:14:24+00:00",
       "link": "https://opensourceaimustwin.com/?share=v2"
@@ -409,7 +430,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI agent bankrupted their operator while trying to scan DN42",
-      "summary": "Article URL: https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/ Comments URL: https://news.ycombinator.com/item?id=48500012 Points: 1445 # Comments: 525",
+      "summary": "Article URL: https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/ Comments URL: https://news.ycombinator.com/item?id=48500012 Points: 1448 # Comments: 528",
       "source": "Hacker News",
       "published": "2026-06-12T04:42:53+00:00",
       "link": "https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/"
@@ -570,7 +591,7 @@ const FEED_DATA = {
     },
     {
       "title": "Making a vintage LLM from scratch",
-      "summary": "Article URL: https://crlf.link/log/entries/260525-1/ Comments URL: https://news.ycombinator.com/item?id=48487829 Points: 101 # Comments: 28",
+      "summary": "Article URL: https://crlf.link/log/entries/260525-1/ Comments URL: https://news.ycombinator.com/item?id=48487829 Points: 101 # Comments: 29",
       "source": "Hacker News",
       "published": "2026-06-11T08:38:00+00:00",
       "link": "https://crlf.link/log/entries/260525-1/"
@@ -591,7 +612,7 @@ const FEED_DATA = {
     },
     {
       "title": "Why AI hasn't replaced software engineers, and won't",
-      "summary": "Article URL: https://www.normaltech.ai/p/why-ai-hasnt-replaced-software-engineers Comments URL: https://news.ycombinator.com/item?id=48487540 Points: 307 # Comments: 356",
+      "summary": "Article URL: https://www.normaltech.ai/p/why-ai-hasnt-replaced-software-engineers Comments URL: https://news.ycombinator.com/item?id=48487540 Points: 309 # Comments: 356",
       "source": "Hacker News",
       "published": "2026-06-11T07:51:17+00:00",
       "link": "https://www.normaltech.ai/p/why-ai-hasnt-replaced-software-engineers"
@@ -1379,27 +1400,6 @@ const FEED_DATA = {
       "source": "The Verge",
       "published": "2026-06-08T16:00:00+00:00",
       "link": "https://www.theverge.com/tech/944325/google-notebooklm-ai-gemini-update"
-    },
-    {
-      "title": "Amazon now lets you design custom merch using AI",
-      "summary": "A new feature in the Amazon Shopping app allows users to generate designs with Alexa, then print them on products like T-shirts, hoodies, and tumblers.",
-      "source": "TechCrunch",
-      "published": "2026-06-08T15:49:12+00:00",
-      "link": "https://techcrunch.com/2026/06/08/amazon-now-lets-you-design-custom-merch-using-ai/"
-    },
-    {
-      "title": "AI is slowing down",
-      "summary": "Article URL: https://www.wheresyoured.at/ai-is-slowing-down/ Comments URL: https://news.ycombinator.com/item?id=48446893 Points: 660 # Comments: 758",
-      "source": "Hacker News",
-      "published": "2026-06-08T15:46:37+00:00",
-      "link": "https://www.wheresyoured.at/ai-is-slowing-down/"
-    },
-    {
-      "title": "Most companies are flying blind on AI spending",
-      "summary": "Only 26 percent of companies have full visibility into their AI costs, a KPMG survey finds. The article Most companies are flying blind on AI spending appeared first on The Decoder.",
-      "source": "The Decoder",
-      "published": "2026-06-08T14:00:03+00:00",
-      "link": "https://the-decoder.com/most-companies-are-flying-blind-on-ai-spending/"
     }
   ]
 };
