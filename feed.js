@@ -1,6 +1,27 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-06-14T15:07:31.161768+00:00",
+  "lastUpdated": "2026-06-14T18:08:20.579583+00:00",
   "items": [
+    {
+      "title": "As AI companies race to go public, who else is along for the ride?",
+      "summary": "Startups are trying to \"ride that SpaceX IPO wave.\"",
+      "source": "TechCrunch",
+      "published": "2026-06-14T16:38:09+00:00",
+      "link": "https://techcrunch.com/2026/06/14/as-ai-companies-race-to-go-public-who-else-is-along-for-the-ride/"
+    },
+    {
+      "title": "Rio de Janeiro's \"homegrown\" LLM appears to be a merge of an existing model",
+      "summary": "Article URL: https://github.com/nex-agi/Nex-N2/issues/4 Comments URL: https://news.ycombinator.com/item?id=48528371 Points: 108 # Comments: 61",
+      "source": "Hacker News",
+      "published": "2026-06-14T15:37:31+00:00",
+      "link": "https://github.com/nex-agi/Nex-N2/issues/4"
+    },
+    {
+      "title": "No, everyone is not using AI for everything",
+      "summary": "Article URL: https://gabrielweinberg.com/p/people-are-consuming-ai-like-they Comments URL: https://news.ycombinator.com/item?id=48527700 Points: 254 # Comments: 255",
+      "source": "Hacker News",
+      "published": "2026-06-14T14:44:29+00:00",
+      "link": "https://gabrielweinberg.com/p/people-are-consuming-ai-like-they"
+    },
     {
       "title": "Microsoft Research's Mirage gives video generation a persistent spatial memory that doesn't forget what's around the corner",
       "summary": "Mirage, a video world model from Microsoft Research and several universities, stores scene information directly in latent space instead of pixel-based point clouds. That slashes compute time and graphics memory while keeping scenes spatially consistent through long camera moves.",
@@ -45,7 +66,7 @@ const FEED_DATA = {
     },
     {
       "title": "Meta’s chaotic AI strategy",
-      "summary": "Article URL: https://www.wired.com/story/mark-zuckerberg-meta-employee-meeting-interrupt-ai/ Comments URL: https://news.ycombinator.com/item?id=48523271 Points: 68 # Comments: 74",
+      "summary": "Article URL: https://www.wired.com/story/mark-zuckerberg-meta-employee-meeting-interrupt-ai/ Comments URL: https://news.ycombinator.com/item?id=48523271 Points: 69 # Comments: 78",
       "source": "Hacker News",
       "published": "2026-06-14T01:23:45+00:00",
       "link": "https://www.wired.com/story/mark-zuckerberg-meta-employee-meeting-interrupt-ai/"
@@ -66,7 +87,7 @@ const FEED_DATA = {
     },
     {
       "title": "Police officer investigated for using AI to 'create evidence' in multiple cases",
-      "summary": "Article URL: https://news.sky.com/story/derbyshire-police-officer-investigated-for-using-ai-to-create-evidence-in-multiple-cases-13553661 Comments URL: https://news.ycombinator.com/item?id=48520807 Points: 353 # Comments: 179",
+      "summary": "Article URL: https://news.sky.com/story/derbyshire-police-officer-investigated-for-using-ai-to-create-evidence-in-multiple-cases-13553661 Comments URL: https://news.ycombinator.com/item?id=48520807 Points: 361 # Comments: 183",
       "source": "Hacker News",
       "published": "2026-06-13T19:54:55+00:00",
       "link": "https://news.sky.com/story/derbyshire-police-officer-investigated-for-using-ai-to-create-evidence-in-multiple-cases-13553661"
@@ -80,7 +101,7 @@ const FEED_DATA = {
     },
     {
       "title": "PwC Report: AI Making Medical Bills Higher",
-      "summary": "Article URL: https://fortune.com/2026/06/12/ai-making-medical-bills-higher/ Comments URL: https://news.ycombinator.com/item?id=48519519 Points: 78 # Comments: 16",
+      "summary": "Article URL: https://fortune.com/2026/06/12/ai-making-medical-bills-higher/ Comments URL: https://news.ycombinator.com/item?id=48519519 Points: 79 # Comments: 18",
       "source": "Hacker News",
       "published": "2026-06-13T17:39:14+00:00",
       "link": "https://fortune.com/2026/06/12/ai-making-medical-bills-higher/"
@@ -101,7 +122,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI coding at home without going broke",
-      "summary": "Article URL: https://stephen.bochinski.dev/blog/2026/06/13/ai-coding-at-home-without-going-broke/ Comments URL: https://news.ycombinator.com/item?id=48518969 Points: 316 # Comments: 260",
+      "summary": "Article URL: https://stephen.bochinski.dev/blog/2026/06/13/ai-coding-at-home-without-going-broke/ Comments URL: https://news.ycombinator.com/item?id=48518969 Points: 326 # Comments: 268",
       "source": "Hacker News",
       "published": "2026-06-13T16:45:03+00:00",
       "link": "https://stephen.bochinski.dev/blog/2026/06/13/ai-coding-at-home-without-going-broke/"
@@ -143,7 +164,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI OSS tool repo goes archived over night after raising $7.3M Seed",
-      "summary": "Article URL: https://github.com/tensorzero/tensorzero Comments URL: https://news.ycombinator.com/item?id=48516504 Points: 269 # Comments: 166",
+      "summary": "Article URL: https://github.com/tensorzero/tensorzero Comments URL: https://news.ycombinator.com/item?id=48516504 Points: 272 # Comments: 168",
       "source": "Hacker News",
       "published": "2026-06-13T12:10:47+00:00",
       "link": "https://github.com/tensorzero/tensorzero"
@@ -234,7 +255,7 @@ const FEED_DATA = {
     },
     {
       "title": "Open source AI must win",
-      "summary": "Article URL: https://opensourceaimustwin.com/?share=v2 Comments URL: https://news.ycombinator.com/item?id=48511908 Points: 1546 # Comments: 467",
+      "summary": "Article URL: https://opensourceaimustwin.com/?share=v2 Comments URL: https://news.ycombinator.com/item?id=48511908 Points: 1553 # Comments: 467",
       "source": "Hacker News",
       "published": "2026-06-13T02:14:24+00:00",
       "link": "https://opensourceaimustwin.com/?share=v2"
@@ -430,7 +451,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI agent bankrupted their operator while trying to scan DN42",
-      "summary": "Article URL: https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/ Comments URL: https://news.ycombinator.com/item?id=48500012 Points: 1448 # Comments: 528",
+      "summary": "Article URL: https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/ Comments URL: https://news.ycombinator.com/item?id=48500012 Points: 1449 # Comments: 528",
       "source": "Hacker News",
       "published": "2026-06-12T04:42:53+00:00",
       "link": "https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/"
@@ -1379,27 +1400,6 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-06-08T17:31:50+00:00",
       "link": "https://the-decoder.com/intel-gets-a-second-life-as-google-and-nvidia-explore-it-as-a-tsmc-backup-for-ai-chips/"
-    },
-    {
-      "title": "Meta Deletes Face-Recognition System From Its Smart Glasses App After WIRED Report",
-      "summary": "The code WIRED identified is gone from the latest version of Meta AI, the companion app for the company’s smart glasses. Meta won’t say why or whether it’s coming back.",
-      "source": "Wired",
-      "published": "2026-06-08T17:31:11+00:00",
-      "link": "https://www.wired.com/story/meta-removes-face-recognition-code-meta-ai-app-smart-glasses/"
-    },
-    {
-      "title": "Show HN: Gitdot – a better GitHub. Open-source, anti-AI, and written in Rust",
-      "summary": "What works now: user signups, org creations, private/public repos, and importing GitHub repositories (both as read-only mirrors and full migrations).",
-      "source": "Hacker News",
-      "published": "2026-06-08T16:52:11+00:00",
-      "link": "https://gitdot.io/"
-    },
-    {
-      "title": "NotebookLM’s Gemini 3.5 upgrade adds a cloud computer and help finding sources",
-      "summary": "Google is rolling out \"across the board\" updates to NotebookLM. The AI-powered note-taking app now uses Google's upgraded Gemini 3.5 model, which will allow it to respond with \"more accurate and reliable information,\" according to a blog post on Monday.",
-      "source": "The Verge",
-      "published": "2026-06-08T16:00:00+00:00",
-      "link": "https://www.theverge.com/tech/944325/google-notebooklm-ai-gemini-update"
     }
   ]
 };
