@@ -1,6 +1,13 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-06-14T18:08:20.579583+00:00",
+  "lastUpdated": "2026-06-14T22:03:09.190912+00:00",
   "items": [
+    {
+      "title": "China may have accessed Mythos",
+      "summary": "According to a new report from Semafor, the White House's decision to impose export restrictions on Anthropic's Mythos was driven in part by fears that it had been accessed by a group linked to China.",
+      "source": "The Verge",
+      "published": "2026-06-14T18:27:55+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/949644/china-white-house-anthropic-mythos"
+    },
     {
       "title": "As AI companies race to go public, who else is along for the ride?",
       "summary": "Startups are trying to \"ride that SpaceX IPO wave.\"",
@@ -10,10 +17,17 @@ const FEED_DATA = {
     },
     {
       "title": "Rio de Janeiro's \"homegrown\" LLM appears to be a merge of an existing model",
-      "summary": "Article URL: https://github.com/nex-agi/Nex-N2/issues/4 Comments URL: https://news.ycombinator.com/item?id=48528371 Points: 108 # Comments: 61",
+      "summary": "Article URL: https://github.com/nex-agi/Nex-N2/issues/4 Comments URL: https://news.ycombinator.com/item?id=48528371 Points: 227 # Comments: 126",
       "source": "Hacker News",
       "published": "2026-06-14T15:37:31+00:00",
       "link": "https://github.com/nex-agi/Nex-N2/issues/4"
+    },
+    {
+      "title": "Not everyone is using AI for everything",
+      "summary": "Article URL: https://gabrielweinberg.com/p/people-are-consuming-ai-like-they Comments URL: https://news.ycombinator.com/item?id=48527700 Points: 383 # Comments: 405",
+      "source": "Hacker News",
+      "published": "2026-06-14T14:44:29+00:00",
+      "link": "https://gabrielweinberg.com/p/people-are-consuming-ai-like-they"
     },
     {
       "title": "No, everyone is not using AI for everything",
@@ -66,7 +80,7 @@ const FEED_DATA = {
     },
     {
       "title": "Meta’s chaotic AI strategy",
-      "summary": "Article URL: https://www.wired.com/story/mark-zuckerberg-meta-employee-meeting-interrupt-ai/ Comments URL: https://news.ycombinator.com/item?id=48523271 Points: 69 # Comments: 78",
+      "summary": "Article URL: https://www.wired.com/story/mark-zuckerberg-meta-employee-meeting-interrupt-ai/ Comments URL: https://news.ycombinator.com/item?id=48523271 Points: 71 # Comments: 80",
       "source": "Hacker News",
       "published": "2026-06-14T01:23:45+00:00",
       "link": "https://www.wired.com/story/mark-zuckerberg-meta-employee-meeting-interrupt-ai/"
@@ -87,7 +101,7 @@ const FEED_DATA = {
     },
     {
       "title": "Police officer investigated for using AI to 'create evidence' in multiple cases",
-      "summary": "Article URL: https://news.sky.com/story/derbyshire-police-officer-investigated-for-using-ai-to-create-evidence-in-multiple-cases-13553661 Comments URL: https://news.ycombinator.com/item?id=48520807 Points: 361 # Comments: 183",
+      "summary": "Article URL: https://news.sky.com/story/derbyshire-police-officer-investigated-for-using-ai-to-create-evidence-in-multiple-cases-13553661 Comments URL: https://news.ycombinator.com/item?id=48520807 Points: 368 # Comments: 188",
       "source": "Hacker News",
       "published": "2026-06-13T19:54:55+00:00",
       "link": "https://news.sky.com/story/derbyshire-police-officer-investigated-for-using-ai-to-create-evidence-in-multiple-cases-13553661"
@@ -101,7 +115,7 @@ const FEED_DATA = {
     },
     {
       "title": "PwC Report: AI Making Medical Bills Higher",
-      "summary": "Article URL: https://fortune.com/2026/06/12/ai-making-medical-bills-higher/ Comments URL: https://news.ycombinator.com/item?id=48519519 Points: 79 # Comments: 18",
+      "summary": "Article URL: https://fortune.com/2026/06/12/ai-making-medical-bills-higher/ Comments URL: https://news.ycombinator.com/item?id=48519519 Points: 79 # Comments: 20",
       "source": "Hacker News",
       "published": "2026-06-13T17:39:14+00:00",
       "link": "https://fortune.com/2026/06/12/ai-making-medical-bills-higher/"
@@ -122,7 +136,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI coding at home without going broke",
-      "summary": "Article URL: https://stephen.bochinski.dev/blog/2026/06/13/ai-coding-at-home-without-going-broke/ Comments URL: https://news.ycombinator.com/item?id=48518969 Points: 326 # Comments: 268",
+      "summary": "Article URL: https://stephen.bochinski.dev/blog/2026/06/13/ai-coding-at-home-without-going-broke/ Comments URL: https://news.ycombinator.com/item?id=48518969 Points: 329 # Comments: 274",
       "source": "Hacker News",
       "published": "2026-06-13T16:45:03+00:00",
       "link": "https://stephen.bochinski.dev/blog/2026/06/13/ai-coding-at-home-without-going-broke/"
@@ -164,7 +178,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI OSS tool repo goes archived over night after raising $7.3M Seed",
-      "summary": "Article URL: https://github.com/tensorzero/tensorzero Comments URL: https://news.ycombinator.com/item?id=48516504 Points: 272 # Comments: 168",
+      "summary": "Article URL: https://github.com/tensorzero/tensorzero Comments URL: https://news.ycombinator.com/item?id=48516504 Points: 272 # Comments: 170",
       "source": "Hacker News",
       "published": "2026-06-13T12:10:47+00:00",
       "link": "https://github.com/tensorzero/tensorzero"
@@ -182,6 +196,13 @@ const FEED_DATA = {
       "source": "The Verge",
       "published": "2026-06-13T11:00:00+00:00",
       "link": "https://www.theverge.com/ai-artificial-intelligence/948425/tribeca-2026-dear-upstairs-neighbors-google-deepmind-openai"
+    },
+    {
+      "title": "KPMG's AI report turns into a demo of AI hallucinations",
+      "summary": "Article URL: https://www.theregister.com/ai-and-ml/2026/06/12/kpmgs-ai-report-turns-into-a-demo-of-ai-hallucinations/5255029 Comments URL: https://news.ycombinator.com/item?id=48515733 Points: 54 # Comments: 19",
+      "source": "Hacker News",
+      "published": "2026-06-13T10:32:38+00:00",
+      "link": "https://www.theregister.com/ai-and-ml/2026/06/12/kpmgs-ai-report-turns-into-a-demo-of-ai-hallucinations/5255029"
     },
     {
       "title": "Claude Fable 5 outpaces GPT-5.5 by 13 points on FrontierMath's toughest problems",
@@ -255,7 +276,7 @@ const FEED_DATA = {
     },
     {
       "title": "Open source AI must win",
-      "summary": "Article URL: https://opensourceaimustwin.com/?share=v2 Comments URL: https://news.ycombinator.com/item?id=48511908 Points: 1553 # Comments: 467",
+      "summary": "Article URL: https://opensourceaimustwin.com/?share=v2 Comments URL: https://news.ycombinator.com/item?id=48511908 Points: 1563 # Comments: 467",
       "source": "Hacker News",
       "published": "2026-06-13T02:14:24+00:00",
       "link": "https://opensourceaimustwin.com/?share=v2"
@@ -367,7 +388,7 @@ const FEED_DATA = {
     },
     {
       "title": "Slightly reducing the sloppiness of AI generated front end",
-      "summary": "Article URL: https://envs.net/~volpe/blog/posts/reduce-slop.html Comments URL: https://news.ycombinator.com/item?id=48504912 Points: 218 # Comments: 130",
+      "summary": "Article URL: https://envs.net/~volpe/blog/posts/reduce-slop.html Comments URL: https://news.ycombinator.com/item?id=48504912 Points: 218 # Comments: 134",
       "source": "Hacker News",
       "published": "2026-06-12T14:48:38+00:00",
       "link": "https://envs.net/~volpe/blog/posts/reduce-slop.html"
@@ -451,7 +472,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI agent bankrupted their operator while trying to scan DN42",
-      "summary": "Article URL: https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/ Comments URL: https://news.ycombinator.com/item?id=48500012 Points: 1449 # Comments: 528",
+      "summary": "Article URL: https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/ Comments URL: https://news.ycombinator.com/item?id=48500012 Points: 1450 # Comments: 529",
       "source": "Hacker News",
       "published": "2026-06-12T04:42:53+00:00",
       "link": "https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/"
@@ -1379,27 +1400,6 @@ const FEED_DATA = {
       "source": "The Verge",
       "published": "2026-06-08T17:52:51+00:00",
       "link": "https://www.theverge.com/news/945905/amazon-alexa-shopping-ai-generated-custom-merch-design-printing"
-    },
-    {
-      "title": "The UK Is Betting on a Billion-Dollar AI Supercomputer to Kick Its Addiction to US Tech",
-      "summary": "The British government thinks a state-backed infrastructure initiative will help supercharge homegrown chip startups.",
-      "source": "Wired",
-      "published": "2026-06-08T17:44:28+00:00",
-      "link": "https://www.wired.com/story/uk-supercomputer-investment-ai-homegrown-semiconductor/"
-    },
-    {
-      "title": "Apple announces Siri AI and its next generation of Apple Intelligence",
-      "summary": "Two years after first revealing its plans for Apple Intelligence and a smarter Siri that never fully materialized, at WWDC, Apple just revealed a new set of AI features and a smarter, more personalized Siri.",
-      "source": "The Verge",
-      "published": "2026-06-08T17:34:24+00:00",
-      "link": "https://www.theverge.com/tech/942416/apple-siri-ai-update-wwdc"
-    },
-    {
-      "title": "Intel gets a second life as Google and Nvidia explore it as a TSMC backup for AI chips",
-      "summary": "Google has ordered more than three million AI chips from Intel for 2028. Nvidia is testing Intel's manufacturing tech for its upcoming Feynman architecture.",
-      "source": "The Decoder",
-      "published": "2026-06-08T17:31:50+00:00",
-      "link": "https://the-decoder.com/intel-gets-a-second-life-as-google-and-nvidia-explore-it-as-a-tsmc-backup-for-ai-chips/"
     }
   ]
 };
