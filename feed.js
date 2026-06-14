@@ -1,6 +1,13 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-06-14T05:47:30.420773+00:00",
+  "lastUpdated": "2026-06-14T08:41:42.898984+00:00",
   "items": [
+    {
+      "title": "Amazon and five other companies reportedly triggered the government crackdown on Anthropic's Fable model",
+      "summary": "Amazon CEO Andy Jassy and executives from other tech companies reportedly warned the Trump administration about security vulnerabilities in Anthropic's Fable model, even though Amazon is one of Anthropic's largest investors.",
+      "source": "The Decoder",
+      "published": "2026-06-14T08:35:02+00:00",
+      "link": "https://the-decoder.com/amazon-and-five-other-companies-reportedly-triggered-the-government-crackdown-on-anthropics-fable-model/"
+    },
     {
       "title": "As Anthropic suspends access to new models, India debates its AI future",
       "summary": "Tech leaders debate whether the Anthropic episode is a wake-up call for India’s AI ambitions.",
@@ -1393,13 +1400,6 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-06-08T13:54:16+00:00",
       "link": "https://the-decoder.com/frontier-radar-3-how-agentic-ai-is-turning-tokens-into-a-business-metric/"
-    },
-    {
-      "title": "Instagram AI chatbot breach may have affected over to 20,000 accounts, Meta discloses",
-      "summary": "Meta has put a number on the security breach in its AI support chatbot for Instagram for the first time: at least 20,225 accounts were compromised.",
-      "source": "The Decoder",
-      "published": "2026-06-08T12:34:03+00:00",
-      "link": "https://the-decoder.com/instagram-ai-chatbot-breach-may-have-affected-over-to-20000-accounts-meta-discloses/"
     }
   ]
 };
