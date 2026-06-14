@@ -1,6 +1,20 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-06-14T08:41:42.898984+00:00",
+  "lastUpdated": "2026-06-14T11:20:46.376114+00:00",
   "items": [
+    {
+      "title": "KPMG fabricated AI case studies in a report designed to sell clients on AI adoption",
+      "summary": "KPMG published a report on AI in business that contained fabricated case studies involving UBS, the NHS, and other organizations.",
+      "source": "The Decoder",
+      "published": "2026-06-14T09:40:37+00:00",
+      "link": "https://the-decoder.com/kpmg-fabricated-ai-case-studies-in-a-report-designed-to-sell-clients-on-ai-adoption/"
+    },
+    {
+      "title": "AI coding agents find the right file but miss the exact lines that matter, study shows",
+      "summary": "AI coding agents like Claude Code or Codex reliably find the right file but miss most of the critical lines within it.",
+      "source": "The Decoder",
+      "published": "2026-06-14T08:54:47+00:00",
+      "link": "https://the-decoder.com/ai-coding-agents-find-the-right-file-but-miss-the-exact-lines-that-matter-study-shows/"
+    },
     {
       "title": "Amazon and five other companies reportedly triggered the government crackdown on Anthropic's Fable model",
       "summary": "Amazon CEO Andy Jassy and executives from other tech companies reportedly warned the Trump administration about security vulnerabilities in Anthropic's Fable model, even though Amazon is one of Anthropic's largest investors.",
@@ -1386,20 +1400,6 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-06-08T14:00:03+00:00",
       "link": "https://the-decoder.com/most-companies-are-flying-blind-on-ai-spending/"
-    },
-    {
-      "title": "Microsoft’s AI chief says superintelligence is near, but won’t take your job",
-      "summary": "Today I’m talking with Mustafa Suleyman, the CEO of Microsoft AI. And I’m actually going to keep today’s intro short — I’m working from my wife’s family farm this week, as you’ll see in the video, but also this is a real burner of an episode.",
-      "source": "The Verge",
-      "published": "2026-06-08T14:00:00+00:00",
-      "link": "https://www.theverge.com/podcast/944138/microsoft-ai-ceo-mustafa-suleyman-superintelligence-agi-openai-automation"
-    },
-    {
-      "title": "Frontier Radar #3: How agentic AI is turning tokens into a business metric",
-      "summary": "Monthly subscription, open chat, ask question: This is how generative AI used to work. Agentic workflows go beyond this model.",
-      "source": "The Decoder",
-      "published": "2026-06-08T13:54:16+00:00",
-      "link": "https://the-decoder.com/frontier-radar-3-how-agentic-ai-is-turning-tokens-into-a-business-metric/"
     }
   ]
 };
