@@ -1,6 +1,48 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-06-15T17:58:14.631527+00:00",
+  "lastUpdated": "2026-06-15T20:21:58.636412+00:00",
   "items": [
+    {
+      "title": "All the news about Anthropic’s new AI fight with the White House",
+      "summary": "Anthropic was already navigating one dispute with the government in its standoff with the Pentagon, and then came an order on June 12th to block off foreign access to its most recently released AI models, Fable 5 and Mythos 5.",
+      "source": "The Verge",
+      "published": "2026-06-15T19:04:53+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/950026/anthropic-fable-mythos-ban-ai-shutdown"
+    },
+    {
+      "title": "Why do South Koreans love AI so much?",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here.",
+      "source": "MIT Tech Review",
+      "published": "2026-06-15T18:46:08+00:00",
+      "link": "https://www.technologyreview.com/2026/06/15/1138983/why-do-south-koreans-love-ai-so-much/"
+    },
+    {
+      "title": "Meta’s new ‘AI Mode’ on Facebook pulls from public info across its platforms",
+      "summary": "Meta announced Monday that it's rolling out a wave of new AI features on Facebook, the latest sign of the company's effort to catch up in the AI race and keep users more engaged on the platform.",
+      "source": "TechCrunch",
+      "published": "2026-06-15T18:30:58+00:00",
+      "link": "https://techcrunch.com/2026/06/15/metas-new-ai-mode-on-facebook-pulls-from-public-info-across-its-platforms/"
+    },
+    {
+      "title": "Trump’s Anthropic shutdown just made the case for non-American AI",
+      "summary": "At Washington's request, Anthropic suddenly took its newest and most powerful AI models offline over the weekend. The American company said it had little choice after the White House demanded it block access for all foreign nationals, including its own employees.",
+      "source": "The Verge",
+      "published": "2026-06-15T18:10:27+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/949986/anthropic-fable-mythos-shutdown-sovereign-ai"
+    },
+    {
+      "title": "The US government may be asking Anthropic the impossible by demanding unhackable LLMs",
+      "summary": "Government officials accuse Anthropic of disregarding Trump's cyber directive and releasing Fable 5 without approval. \"They screwed us,\" one administration official said.",
+      "source": "The Decoder",
+      "published": "2026-06-15T18:06:33+00:00",
+      "link": "https://the-decoder.com/the-us-government-may-be-asking-anthropic-the-impossible-by-demanding-unhackable-llms/"
+    },
+    {
+      "title": "Big Tech’s desperate last push at AI regulation",
+      "summary": "For months, Big Tech's Washington lobbyists have chased after the holy grail of pro-AI legislation: preemption.",
+      "source": "The Verge",
+      "published": "2026-06-15T17:44:10+00:00",
+      "link": "https://www.theverge.com/policy/949970/ai-regulation-child-safety-kosa-congress"
+    },
     {
       "title": "Nvidia joins AI debt boom with $20 billion bond sale",
       "summary": "Nvidia wants to raise at least $20 billion through its first bond sale since 2021, Bloomberg reports, citing people with direct knowledge of the deal. The article Nvidia joins AI debt boom with $20 billion bond sale appeared first on The Decoder.",
@@ -24,14 +66,14 @@ const FEED_DATA = {
     },
     {
       "title": "My Homelab AI Dev Platform",
-      "summary": "Article URL: https://rsgm.dev/post/ai-dev-platform/ Comments URL: https://news.ycombinator.com/item?id=48542433 Points: 74 # Comments: 24",
+      "summary": "Article URL: https://rsgm.dev/post/ai-dev-platform/ Comments URL: https://news.ycombinator.com/item?id=48542433 Points: 157 # Comments: 33",
       "source": "Hacker News",
       "published": "2026-06-15T15:09:40+00:00",
       "link": "https://rsgm.dev/post/ai-dev-platform/"
     },
     {
       "title": "Ask HN: Has anyone replaced Claude/GPT with a local model for daily coding?",
-      "summary": "Has anyone here fully swapped Claude/GPT for a local model as their main coding tool, not just for side experiments? If so, please share your setup and performance (e.g tok/s) Comments URL: https://news.ycombinator.com/item?id=48542100 Points: 105 # Comments: 57",
+      "summary": "Has anyone here fully swapped Claude/GPT for a local model as their main coding tool, not just for side experiments? If so, please share your setup and performance (e.g tok/s) Comments URL: https://news.ycombinator.com/item?id=48542100 Points: 358 # Comments: 215",
       "source": "Hacker News",
       "published": "2026-06-15T14:46:53+00:00",
       "link": "https://news.ycombinator.com/item?id=48542100"
@@ -56,6 +98,13 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-06-15T13:46:08+00:00",
       "link": "https://techcrunch.com/2026/06/15/sarvam-becomes-indias-newest-ai-unicorn-with-234-million-funding-round-led-by-hcltech/"
+    },
+    {
+      "title": "Can Europe train a frontier AI model on the compute it owns?",
+      "summary": "Article URL: https://github.com/sammysltd/euromesh Comments URL: https://news.ycombinator.com/item?id=48541014 Points: 88 # Comments: 122",
+      "source": "Hacker News",
+      "published": "2026-06-15T13:31:09+00:00",
+      "link": "https://github.com/sammysltd/euromesh"
     },
     {
       "title": "Show HN: Can Europe train a frontier AI model on the compute it owns?",
@@ -115,7 +164,7 @@ const FEED_DATA = {
     },
     {
       "title": "Show HN: I wrote a C++ ray tracer from scratch without AI",
-      "summary": "Article URL: https://github.com/themartiano/luz Comments URL: https://news.ycombinator.com/item?id=48538833 Points: 131 # Comments: 55",
+      "summary": "Article URL: https://github.com/themartiano/luz Comments URL: https://news.ycombinator.com/item?id=48538833 Points: 136 # Comments: 58",
       "source": "Hacker News",
       "published": "2026-06-15T09:34:10+00:00",
       "link": "https://github.com/themartiano/luz"
@@ -143,14 +192,14 @@ const FEED_DATA = {
     },
     {
       "title": "The Jqwik Anti-AI Affair",
-      "summary": "Article URL: https://blog.johanneslink.net/2026/06/09/the-jqwik-anti-ai-affair/ Comments URL: https://news.ycombinator.com/item?id=48533736 Points: 52 # Comments: 78",
+      "summary": "Article URL: https://blog.johanneslink.net/2026/06/09/the-jqwik-anti-ai-affair/ Comments URL: https://news.ycombinator.com/item?id=48533736 Points: 52 # Comments: 80",
       "source": "Hacker News",
       "published": "2026-06-14T22:43:49+00:00",
       "link": "https://blog.johanneslink.net/2026/06/09/the-jqwik-anti-ai-affair/"
     },
     {
       "title": "AI is code – and can't be prompted into being smarter",
-      "summary": "Article URL: https://www.theregister.com/ai-and-ml/2026/06/14/ai-is-code-and-cant-be-prompted-into-being-smarter/5254141 Comments URL: https://news.ycombinator.com/item?id=48532178 Points: 149 # Comments: 136",
+      "summary": "Article URL: https://www.theregister.com/ai-and-ml/2026/06/14/ai-is-code-and-cant-be-prompted-into-being-smarter/5254141 Comments URL: https://news.ycombinator.com/item?id=48532178 Points: 152 # Comments: 138",
       "source": "Hacker News",
       "published": "2026-06-14T20:17:54+00:00",
       "link": "https://www.theregister.com/ai-and-ml/2026/06/14/ai-is-code-and-cant-be-prompted-into-being-smarter/5254141"
@@ -171,21 +220,21 @@ const FEED_DATA = {
     },
     {
       "title": "Rio de Janeiro's \"homegrown\" LLM appears to be a merge of an existing model",
-      "summary": "Article URL: https://github.com/nex-agi/Nex-N2/issues/4 Comments URL: https://news.ycombinator.com/item?id=48528371 Points: 388 # Comments: 208",
+      "summary": "Article URL: https://github.com/nex-agi/Nex-N2/issues/4 Comments URL: https://news.ycombinator.com/item?id=48528371 Points: 391 # Comments: 212",
       "source": "Hacker News",
       "published": "2026-06-14T15:37:31+00:00",
       "link": "https://github.com/nex-agi/Nex-N2/issues/4"
     },
     {
       "title": "Ponytail – make your AI agent think like the laziest senior dev in the room",
-      "summary": "Article URL: https://github.com/DietrichGebert/ponytail Comments URL: https://news.ycombinator.com/item?id=48527946 Points: 82 # Comments: 11",
+      "summary": "Article URL: https://github.com/DietrichGebert/ponytail Comments URL: https://news.ycombinator.com/item?id=48527946 Points: 84 # Comments: 11",
       "source": "Hacker News",
       "published": "2026-06-14T15:08:17+00:00",
       "link": "https://github.com/DietrichGebert/ponytail"
     },
     {
       "title": "Not everyone is using AI for everything",
-      "summary": "Article URL: https://gabrielweinberg.com/p/people-are-consuming-ai-like-they Comments URL: https://news.ycombinator.com/item?id=48527700 Points: 488 # Comments: 524",
+      "summary": "Article URL: https://gabrielweinberg.com/p/people-are-consuming-ai-like-they Comments URL: https://news.ycombinator.com/item?id=48527700 Points: 494 # Comments: 529",
       "source": "Hacker News",
       "published": "2026-06-14T14:44:29+00:00",
       "link": "https://gabrielweinberg.com/p/people-are-consuming-ai-like-they"
@@ -297,7 +346,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI coding at home without going broke",
-      "summary": "Article URL: https://stephen.bochinski.dev/blog/2026/06/13/ai-coding-at-home-without-going-broke/ Comments URL: https://news.ycombinator.com/item?id=48518969 Points: 349 # Comments: 283",
+      "summary": "Article URL: https://stephen.bochinski.dev/blog/2026/06/13/ai-coding-at-home-without-going-broke/ Comments URL: https://news.ycombinator.com/item?id=48518969 Points: 349 # Comments: 284",
       "source": "Hacker News",
       "published": "2026-06-13T16:45:03+00:00",
       "link": "https://stephen.bochinski.dev/blog/2026/06/13/ai-coding-at-home-without-going-broke/"
@@ -360,7 +409,7 @@ const FEED_DATA = {
     },
     {
       "title": "KPMG's AI report turns into a demo of AI hallucinations",
-      "summary": "Article URL: https://www.theregister.com/ai-and-ml/2026/06/12/kpmgs-ai-report-turns-into-a-demo-of-ai-hallucinations/5255029 Comments URL: https://news.ycombinator.com/item?id=48515733 Points: 54 # Comments: 22",
+      "summary": "Article URL: https://www.theregister.com/ai-and-ml/2026/06/12/kpmgs-ai-report-turns-into-a-demo-of-ai-hallucinations/5255029 Comments URL: https://news.ycombinator.com/item?id=48515733 Points: 55 # Comments: 22",
       "source": "Hacker News",
       "published": "2026-06-13T10:32:38+00:00",
       "link": "https://www.theregister.com/ai-and-ml/2026/06/12/kpmgs-ai-report-turns-into-a-demo-of-ai-hallucinations/5255029"
@@ -437,7 +486,7 @@ const FEED_DATA = {
     },
     {
       "title": "Open source AI must win",
-      "summary": "Article URL: https://opensourceaimustwin.com/?share=v2 Comments URL: https://news.ycombinator.com/item?id=48511908 Points: 1583 # Comments: 476",
+      "summary": "Article URL: https://opensourceaimustwin.com/?share=v2 Comments URL: https://news.ycombinator.com/item?id=48511908 Points: 1584 # Comments: 477",
       "source": "Hacker News",
       "published": "2026-06-13T02:14:24+00:00",
       "link": "https://opensourceaimustwin.com/?share=v2"
@@ -633,7 +682,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI agent bankrupted their operator while trying to scan DN42",
-      "summary": "Article URL: https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/ Comments URL: https://news.ycombinator.com/item?id=48500012 Points: 1459 # Comments: 531",
+      "summary": "Article URL: https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/ Comments URL: https://news.ycombinator.com/item?id=48500012 Points: 1460 # Comments: 531",
       "source": "Hacker News",
       "published": "2026-06-12T04:42:53+00:00",
       "link": "https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/"
@@ -1351,55 +1400,6 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-06-09T09:30:05+00:00",
       "link": "https://the-decoder.com/openai-says-going-public-is-a-complicated-set-of-tradeoffs-and-is-unsure-about-the-timing/"
-    },
-    {
-      "title": "Five things you need to know about AI",
-      "summary": "At SXSW London last week I gave a talk called “Five things you need to know about AI,” in which I shared what I think are the biggest themes in AI right now. I pulled a few things from our first AI10 list, an annual guide to the most important trends in this buzzy world,…",
-      "source": "MIT Tech Review",
-      "published": "2026-06-09T09:16:45+00:00",
-      "link": "https://www.technologyreview.com/2026/06/09/1138582/five-things-you-need-to-know-about-ai/"
-    },
-    {
-      "title": "Cleaning up after AI rockstar developers",
-      "summary": "Article URL: https://www.codingwithjesse.com/blog/rockstar-developers/ Comments URL: https://news.ycombinator.com/item?id=48458586 Points: 495 # Comments: 361",
-      "source": "Hacker News",
-      "published": "2026-06-09T09:10:10+00:00",
-      "link": "https://www.codingwithjesse.com/blog/rockstar-developers/"
-    },
-    {
-      "title": "How to sign PDFs easily online with a PDF signer",
-      "summary": "Signing PDFs has become an important task for businesses and individuals alike. Whether you’re handling contracts, legal agreements, or forms, the ability to quickly and securely sign PDFs online is essential.",
-      "source": "AI News",
-      "published": "2026-06-09T09:01:51+00:00",
-      "link": "https://www.artificialintelligence-news.com/news/how-to-sign-pdfs-easily-online-with-a-pdf-signer/"
-    },
-    {
-      "title": "Autonomous AI Data Loss in DevOps: Building Efficient Defenses",
-      "summary": "Autonomous AI agents are altering the speed at which software is shipped. Unfortunately, they are also shrinking the time it takes for a mistake to become a catastrophe, creating a dangerous blind spot in many security strategies.",
-      "source": "AI News",
-      "published": "2026-06-09T08:50:39+00:00",
-      "link": "https://www.artificialintelligence-news.com/news/autonomous-ai-data-loss-in-devops/"
-    },
-    {
-      "title": "Microsoft's open source tools were hacked to steal passwords of AI developers",
-      "summary": "Article URL: https://techcrunch.com/2026/06/08/microsofts-open-source-tools-were-hacked-to-steal-passwords-of-ai-developers/ Comments URL: https://news.ycombinator.com/item?id=48457830 Points: 559 # Comments: 193",
-      "source": "Hacker News",
-      "published": "2026-06-09T07:33:16+00:00",
-      "link": "https://techcrunch.com/2026/06/08/microsofts-open-source-tools-were-hacked-to-steal-passwords-of-ai-developers/"
-    },
-    {
-      "title": "Why Apple’s slow-and-steady AI bet is starting to look pretty smart",
-      "summary": "Can Apple's new AI glow-up put to bed accusations that it's losing an all-important industry race?",
-      "source": "TechCrunch",
-      "published": "2026-06-09T01:56:48+00:00",
-      "link": "https://techcrunch.com/2026/06/08/why-apples-slow-and-steady-ai-bet-is-starting-to-look-pretty-smart/"
-    },
-    {
-      "title": "As OpenAI files for IPO, Sam Altman’s eye-scanning company is doing layoffs, report says",
-      "summary": "Tools for Humanity, Sam Altman's identity verification company, is reportedly struggling to generate revenue and will downsize its staff.",
-      "source": "TechCrunch",
-      "published": "2026-06-08T22:41:45+00:00",
-      "link": "https://techcrunch.com/2026/06/08/as-openai-files-for-ipo-sam-altmans-eye-scanning-company-is-doing-layoffs-report-says/"
     }
   ]
 };
