@@ -1,6 +1,55 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-06-15T10:55:36.638446+00:00",
+  "lastUpdated": "2026-06-15T14:51:51.482056+00:00",
   "items": [
+    {
+      "title": "Salesforce acquires AI customer service platform Fin for $3.6 billion",
+      "summary": "Salesforce says it wants to use Fin's team and technology to improve Agentforce, its existing enterprise platform that businesses can use to build custom AI agents that automate tasks.",
+      "source": "TechCrunch",
+      "published": "2026-06-15T14:34:45+00:00",
+      "link": "https://techcrunch.com/2026/06/15/salesforce-acquires-ai-customer-service-platform-fin-for-3-6b/"
+    },
+    {
+      "title": "Skydio CEO Adam Bry on why Silicon Valley shouldn’t draw red lines for drone use",
+      "summary": "Today, I’m talking with Adam Bry, who is CEO of Skydio, the leading US maker of autonomous drones.",
+      "source": "The Verge",
+      "published": "2026-06-15T14:00:00+00:00",
+      "link": "https://www.theverge.com/podcast/949195/skydio-ceo-adam-bry-autonmous-drones-china-red-lines-military"
+    },
+    {
+      "title": "Sarvam becomes India’s newest AI unicorn with $234 million funding round led by HCLTech",
+      "summary": "Indian IT services company HCLTech is investing $150 million in the Bengaluru startup.",
+      "source": "TechCrunch",
+      "published": "2026-06-15T13:46:08+00:00",
+      "link": "https://techcrunch.com/2026/06/15/sarvam-becomes-indias-newest-ai-unicorn-with-234-million-funding-round-led-by-hcltech/"
+    },
+    {
+      "title": "Pokémon Go data helped train AI now linked to military drones",
+      "summary": "Volunteer AR scans from Pokémon Go players fed into Niantic's spatial AI models. That technology is now being combined with a US defense contractor's software for GPS-free navigation.",
+      "source": "The Decoder",
+      "published": "2026-06-15T13:27:50+00:00",
+      "link": "https://the-decoder.com/pokemon-go-data-helped-train-ai-now-linked-to-military-drones/"
+    },
+    {
+      "title": "As AI agents become employees, NewCore emerges with $66M to give them identities",
+      "summary": "NewCore argues the next challenge in enterprise security will be managing AI agents, not people.",
+      "source": "TechCrunch",
+      "published": "2026-06-15T13:00:00+00:00",
+      "link": "https://techcrunch.com/2026/06/15/ai-agents-are-becoming-employees-newcore-emerges-with-66m-to-give-them-identities/"
+    },
+    {
+      "title": "The Download: cutting AC emissions, and nature’s drug designer",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. These new solid-state ACs promise a cool future.",
+      "source": "MIT Tech Review",
+      "published": "2026-06-15T12:10:00+00:00",
+      "link": "https://www.technologyreview.com/2026/06/15/1138948/the-download-solid-state-air-conditioning-animal-drugs/"
+    },
+    {
+      "title": "HarmonyOS 7 steps into the AI gap Apple left open in China",
+      "summary": "Four days after Apple confirmed that Siri AI would not launch in China, Huawei took the stage in Dongguan and declared HarmonyOS 7 the beginning of the agent era. The gap Apple could not fill, Huawei has moved into with an architecture built specifically for it.",
+      "source": "AI News",
+      "published": "2026-06-15T11:00:00+00:00",
+      "link": "https://www.artificialintelligence-news.com/news/harmonyos-7-china-ai-apple-gap/"
+    },
     {
       "title": "Anthropic shutdown sparks sovereignty debate across Europe",
       "summary": "The European Commission is assessing the implications of the US order that forced Anthropic to shut down Fable 5 and Mythos 5 worldwide. European researchers are debating the right response: building their own foundation models or securing access through contracts.",
@@ -21,6 +70,13 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-06-15T09:39:14+00:00",
       "link": "https://the-decoder.com/microsoft-ceo-satya-nadella-warns-of-a-small-number-of-ai-systems-capturing-all-the-economic-returns/"
+    },
+    {
+      "title": "Show HN: I wrote a C++ ray tracer from scratch without AI",
+      "summary": "Article URL: https://github.com/themartiano/luz Comments URL: https://news.ycombinator.com/item?id=48538833 Points: 85 # Comments: 30",
+      "source": "Hacker News",
+      "published": "2026-06-15T09:34:10+00:00",
+      "link": "https://github.com/themartiano/luz"
     },
     {
       "title": "These new solid-state ACs promise a cool future. Scientists aren’t so sure.",
@@ -44,8 +100,15 @@ const FEED_DATA = {
       "link": "https://techcrunch.com/2026/06/15/the-ai-layoff-wave-is-becoming-a-powder-keg/"
     },
     {
+      "title": "The Jqwik Anti-AI Affair",
+      "summary": "Article URL: https://blog.johanneslink.net/2026/06/09/the-jqwik-anti-ai-affair/ Comments URL: https://news.ycombinator.com/item?id=48533736 Points: 51 # Comments: 72",
+      "source": "Hacker News",
+      "published": "2026-06-14T22:43:49+00:00",
+      "link": "https://blog.johanneslink.net/2026/06/09/the-jqwik-anti-ai-affair/"
+    },
+    {
       "title": "AI is code – and can't be prompted into being smarter",
-      "summary": "Article URL: https://www.theregister.com/ai-and-ml/2026/06/14/ai-is-code-and-cant-be-prompted-into-being-smarter/5254141 Comments URL: https://news.ycombinator.com/item?id=48532178 Points: 137 # Comments: 122",
+      "summary": "Article URL: https://www.theregister.com/ai-and-ml/2026/06/14/ai-is-code-and-cant-be-prompted-into-being-smarter/5254141 Comments URL: https://news.ycombinator.com/item?id=48532178 Points: 147 # Comments: 131",
       "source": "Hacker News",
       "published": "2026-06-14T20:17:54+00:00",
       "link": "https://www.theregister.com/ai-and-ml/2026/06/14/ai-is-code-and-cant-be-prompted-into-being-smarter/5254141"
@@ -66,21 +129,21 @@ const FEED_DATA = {
     },
     {
       "title": "Rio de Janeiro's \"homegrown\" LLM appears to be a merge of an existing model",
-      "summary": "Article URL: https://github.com/nex-agi/Nex-N2/issues/4 Comments URL: https://news.ycombinator.com/item?id=48528371 Points: 356 # Comments: 191",
+      "summary": "Article URL: https://github.com/nex-agi/Nex-N2/issues/4 Comments URL: https://news.ycombinator.com/item?id=48528371 Points: 377 # Comments: 199",
       "source": "Hacker News",
       "published": "2026-06-14T15:37:31+00:00",
       "link": "https://github.com/nex-agi/Nex-N2/issues/4"
     },
     {
       "title": "Ponytail – make your AI agent think like the laziest senior dev in the room",
-      "summary": "Article URL: https://github.com/DietrichGebert/ponytail Comments URL: https://news.ycombinator.com/item?id=48527946 Points: 66 # Comments: 8",
+      "summary": "Article URL: https://github.com/DietrichGebert/ponytail Comments URL: https://news.ycombinator.com/item?id=48527946 Points: 77 # Comments: 10",
       "source": "Hacker News",
       "published": "2026-06-14T15:08:17+00:00",
       "link": "https://github.com/DietrichGebert/ponytail"
     },
     {
       "title": "Not everyone is using AI for everything",
-      "summary": "Article URL: https://gabrielweinberg.com/p/people-are-consuming-ai-like-they Comments URL: https://news.ycombinator.com/item?id=48527700 Points: 466 # Comments: 503",
+      "summary": "Article URL: https://gabrielweinberg.com/p/people-are-consuming-ai-like-they Comments URL: https://news.ycombinator.com/item?id=48527700 Points: 481 # Comments: 517",
       "source": "Hacker News",
       "published": "2026-06-14T14:44:29+00:00",
       "link": "https://gabrielweinberg.com/p/people-are-consuming-ai-like-they"
@@ -157,7 +220,7 @@ const FEED_DATA = {
     },
     {
       "title": "Police officer investigated for using AI to 'create evidence' in multiple cases",
-      "summary": "Article URL: https://news.sky.com/story/derbyshire-police-officer-investigated-for-using-ai-to-create-evidence-in-multiple-cases-13553661 Comments URL: https://news.ycombinator.com/item?id=48520807 Points: 380 # Comments: 190",
+      "summary": "Article URL: https://news.sky.com/story/derbyshire-police-officer-investigated-for-using-ai-to-create-evidence-in-multiple-cases-13553661 Comments URL: https://news.ycombinator.com/item?id=48520807 Points: 385 # Comments: 190",
       "source": "Hacker News",
       "published": "2026-06-13T19:54:55+00:00",
       "link": "https://news.sky.com/story/derbyshire-police-officer-investigated-for-using-ai-to-create-evidence-in-multiple-cases-13553661"
@@ -192,7 +255,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI coding at home without going broke",
-      "summary": "Article URL: https://stephen.bochinski.dev/blog/2026/06/13/ai-coding-at-home-without-going-broke/ Comments URL: https://news.ycombinator.com/item?id=48518969 Points: 342 # Comments: 281",
+      "summary": "Article URL: https://stephen.bochinski.dev/blog/2026/06/13/ai-coding-at-home-without-going-broke/ Comments URL: https://news.ycombinator.com/item?id=48518969 Points: 347 # Comments: 282",
       "source": "Hacker News",
       "published": "2026-06-13T16:45:03+00:00",
       "link": "https://stephen.bochinski.dev/blog/2026/06/13/ai-coding-at-home-without-going-broke/"
@@ -234,7 +297,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI OSS tool repo goes archived over night after raising $7.3M Seed",
-      "summary": "Article URL: https://github.com/tensorzero/tensorzero Comments URL: https://news.ycombinator.com/item?id=48516504 Points: 277 # Comments: 170",
+      "summary": "Article URL: https://github.com/tensorzero/tensorzero Comments URL: https://news.ycombinator.com/item?id=48516504 Points: 278 # Comments: 170",
       "source": "Hacker News",
       "published": "2026-06-13T12:10:47+00:00",
       "link": "https://github.com/tensorzero/tensorzero"
@@ -255,7 +318,7 @@ const FEED_DATA = {
     },
     {
       "title": "KPMG's AI report turns into a demo of AI hallucinations",
-      "summary": "Article URL: https://www.theregister.com/ai-and-ml/2026/06/12/kpmgs-ai-report-turns-into-a-demo-of-ai-hallucinations/5255029 Comments URL: https://news.ycombinator.com/item?id=48515733 Points: 54 # Comments: 21",
+      "summary": "Article URL: https://www.theregister.com/ai-and-ml/2026/06/12/kpmgs-ai-report-turns-into-a-demo-of-ai-hallucinations/5255029 Comments URL: https://news.ycombinator.com/item?id=48515733 Points: 54 # Comments: 22",
       "source": "Hacker News",
       "published": "2026-06-13T10:32:38+00:00",
       "link": "https://www.theregister.com/ai-and-ml/2026/06/12/kpmgs-ai-report-turns-into-a-demo-of-ai-hallucinations/5255029"
@@ -332,7 +395,7 @@ const FEED_DATA = {
     },
     {
       "title": "Open source AI must win",
-      "summary": "Article URL: https://opensourceaimustwin.com/?share=v2 Comments URL: https://news.ycombinator.com/item?id=48511908 Points: 1577 # Comments: 471",
+      "summary": "Article URL: https://opensourceaimustwin.com/?share=v2 Comments URL: https://news.ycombinator.com/item?id=48511908 Points: 1581 # Comments: 476",
       "source": "Hacker News",
       "published": "2026-06-13T02:14:24+00:00",
       "link": "https://opensourceaimustwin.com/?share=v2"
@@ -528,7 +591,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI agent bankrupted their operator while trying to scan DN42",
-      "summary": "Article URL: https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/ Comments URL: https://news.ycombinator.com/item?id=48500012 Points: 1456 # Comments: 531",
+      "summary": "Article URL: https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/ Comments URL: https://news.ycombinator.com/item?id=48500012 Points: 1457 # Comments: 531",
       "source": "Hacker News",
       "published": "2026-06-12T04:42:53+00:00",
       "link": "https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/"
@@ -1337,69 +1400,6 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-06-08T21:29:57+00:00",
       "link": "https://techcrunch.com/2026/06/08/following-anthropic-openai-files-confidentially-for-ipo/"
-    },
-    {
-      "title": "Following Anthropic, OpenAI files confidentially for IPO",
-      "summary": "The filing comes a little more than a week after its main rival, Anthropic, also filed to go public, ramping up the race between the two AI firms.",
-      "source": "TechCrunch",
-      "published": "2026-06-08T21:29:57+00:00",
-      "link": "https://techcrunch.com/2026/06/08/following-anthropic-openai-files-confidentially-for-ipo/"
-    },
-    {
-      "title": "Apple plays catch-up at WWDC",
-      "summary": "Apple spent much of its WWDC keynote highlighting fixes, performance improvements, and long-requested features before unveiling its upgraded AI-powered Siri, signaling that the company wants users to see AI as just one part of a broader effort to improve its software.",
-      "source": "TechCrunch",
-      "published": "2026-06-08T21:15:42+00:00",
-      "link": "https://techcrunch.com/2026/06/08/apple-plays-catch-up-at-wwdc/"
-    },
-    {
-      "title": "Apple bets cheaper AI will woo small developers",
-      "summary": "Article URL: https://techcrunch.com/2026/06/08/apple-bets-cheaper-ai-will-woo-small-developers/ Comments URL: https://news.ycombinator.com/item?id=48452000 Points: 97 # Comments: 37",
-      "source": "Hacker News",
-      "published": "2026-06-08T21:02:00+00:00",
-      "link": "https://techcrunch.com/2026/06/08/apple-bets-cheaper-ai-will-woo-small-developers/"
-    },
-    {
-      "title": "Apple reveals new AI architecture built around Google Gemini models",
-      "summary": "Article URL: https://www.macrumors.com/2026/06/08/apple-reveals-new-ai-architecture/ Comments URL: https://news.ycombinator.com/item?id=48450142 Points: 730 # Comments: 559",
-      "source": "Hacker News",
-      "published": "2026-06-08T19:14:47+00:00",
-      "link": "https://www.macrumors.com/2026/06/08/apple-reveals-new-ai-architecture/"
-    },
-    {
-      "title": "Apple just taught your iPhone to finish your sentences, your photos, and your workflows",
-      "summary": "Apple is adding new AI-powered features to Safari, Shortcuts, and Password apps.",
-      "source": "TechCrunch",
-      "published": "2026-06-08T18:48:45+00:00",
-      "link": "https://techcrunch.com/2026/06/08/apple-just-taught-your-iphone-to-finish-your-sentences-your-photos-and-your-workflows/"
-    },
-    {
-      "title": "Apple Core AI Framework",
-      "summary": "Article URL: https://developer.apple.com/documentation/coreai/ Comments URL: https://news.ycombinator.com/item?id=48449665 Points: 363 # Comments: 107",
-      "source": "Hacker News",
-      "published": "2026-06-08T18:47:38+00:00",
-      "link": "https://developer.apple.com/documentation/coreai/"
-    },
-    {
-      "title": "Apple will let you build workflows using AI in its new Shortcuts app",
-      "summary": "Shortcuts gets an AI upgrade, letting you describe the workflow you want in a prompt.",
-      "source": "TechCrunch",
-      "published": "2026-06-08T18:45:12+00:00",
-      "link": "https://techcrunch.com/2026/06/08/apple-will-let-you-build-workflows-using-ai-in-its-new-shortcuts-app/"
-    },
-    {
-      "title": "Apple’s Image Playground doesn’t suck anymore",
-      "summary": "Apple's AI image generator is getting a makeover that could make it more competitive.",
-      "source": "TechCrunch",
-      "published": "2026-06-08T18:38:07+00:00",
-      "link": "https://techcrunch.com/2026/06/08/apples-image-playground-doesnt-suck-anymore/"
-    },
-    {
-      "title": "Apple’s Photos app is getting new AI editing features",
-      "summary": "A new spatial \"Reframe\" feature will let users use AI to adjust perspectives.",
-      "source": "TechCrunch",
-      "published": "2026-06-08T18:36:04+00:00",
-      "link": "https://techcrunch.com/2026/06/08/apples-photos-app-is-getting-new-ai-editing-features/"
     }
   ]
 };
