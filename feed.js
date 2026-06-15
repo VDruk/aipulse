@@ -1,6 +1,27 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-06-15T20:21:58.636412+00:00",
+  "lastUpdated": "2026-06-15T22:58:35.435673+00:00",
   "items": [
+    {
+      "title": "The US government’s Anthropic models ban was never about an AI jailbreak",
+      "summary": "The Trump administration's decision that forced Anthropic to pull its latest cybersecurity models could be reactionary, retaliatory, or both, but the message is clear: The AI industry isn't immune from U.S. government interference.",
+      "source": "TechCrunch",
+      "published": "2026-06-15T21:50:21+00:00",
+      "link": "https://techcrunch.com/2026/06/15/the-us-governments-anthropic-models-ban-was-never-about-an-ai-jailbreak/"
+    },
+    {
+      "title": "Meta CTO Andrew Bosworth Admits the Company’s AI Reorg Was ‘Atrocious’",
+      "summary": "In an internal memo seen by WIRED, Bosworth promised employees more stability, better communication, and the return of workplace perks as the company seeks to improve morale.",
+      "source": "Wired",
+      "published": "2026-06-15T21:33:46+00:00",
+      "link": "https://www.wired.com/story/andrew-bosworth-meta-employees-unrest/"
+    },
+    {
+      "title": "Facebook’s new AI Mode search gets its info from public posts",
+      "summary": "Your public Facebook posts could help inform AI-generated results in Meta's new AI Mode.",
+      "source": "The Verge",
+      "published": "2026-06-15T21:15:08+00:00",
+      "link": "https://www.theverge.com/tech/950264/meta-ai-mode-search-facebook"
+    },
     {
       "title": "All the news about Anthropic’s new AI fight with the White House",
       "summary": "Anthropic was already navigating one dispute with the government in its standoff with the Pentagon, and then came an order on June 12th to block off foreign access to its most recently released AI models, Fable 5 and Mythos 5.",
@@ -52,7 +73,7 @@ const FEED_DATA = {
     },
     {
       "title": "Cybersecurity vets protest ‘dangerous’ US government ban on Anthropic’s most powerful models",
-      "summary": "A group made up of dozens of cybersecurity experts urged the White House to remove export control restrictions on Anthropic’s models Fable and Mythos, arguing that the order is going to limit the ability of cybersecurity defenders to secure their software and products.",
+      "summary": "A group made up of dozens of cybersecurity experts urged the White House to remove export-control restrictions on Anthropic’s Fable and Mythos models, arguing that the order is going to limit the ability of cybersecurity defenders to secure their software and products.",
       "source": "TechCrunch",
       "published": "2026-06-15T15:29:51+00:00",
       "link": "https://techcrunch.com/2026/06/15/cybersecurity-vets-protest-dangerous-us-government-ban-on-anthropics-most-powerful-models/"
@@ -77,6 +98,13 @@ const FEED_DATA = {
       "source": "Hacker News",
       "published": "2026-06-15T14:46:53+00:00",
       "link": "https://news.ycombinator.com/item?id=48542100"
+    },
+    {
+      "title": "Salesforce acquires AI customer service platform Fin for $3.6B",
+      "summary": "Salesforce says it wants to use Fin's team and technology to improve Agentforce, its existing enterprise platform that businesses can use to build custom AI agents that automate tasks.",
+      "source": "TechCrunch",
+      "published": "2026-06-15T14:34:45+00:00",
+      "link": "https://techcrunch.com/2026/06/15/salesforce-acquires-ai-customer-service-platform-fin-for-3-6b/"
     },
     {
       "title": "Salesforce acquires AI customer service platform Fin for $3.6 billion",
@@ -1372,34 +1400,6 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-06-09T11:15:23+00:00",
       "link": "https://the-decoder.com/apple-intelligence-gets-a-second-go-with-the-help-of-google-and-nvidia/"
-    },
-    {
-      "title": "OpenAI now says \"entirely automating everything is not the future we want\"",
-      "summary": "OpenAI is backing away from fully autonomous AI research by 2028, now talking about a \"tandem\" between humans and machines. Altman and Pachocki also call for an international body that could slow frontier development if needed.",
-      "source": "The Decoder",
-      "published": "2026-06-09T10:40:44+00:00",
-      "link": "https://the-decoder.com/openai-says-entirely-automating-everything-is-not-the-future-we-want/"
-    },
-    {
-      "title": "Learning to lead in a hybrid human-AI enterprise",
-      "summary": "As adoption of AI agents looks set to surge by as much as 300% in the next two years, leadership teams are carefully considering the implications of a hybrid human-AI workforce.",
-      "source": "MIT Tech Review",
-      "published": "2026-06-09T10:20:06+00:00",
-      "link": "https://www.technologyreview.com/2026/06/09/1137830/learning-to-lead-in-a-hybrid-human-ai-enterprise/"
-    },
-    {
-      "title": "David Sinclair plans to test whole-body rejuvenation drugs in the XPrize competition",
-      "summary": "The outspoken longevity scientist David Sinclair has been predicting that one day, you’ll go to the doctor and get a prescription that will make you 10 years younger.",
-      "source": "MIT Tech Review",
-      "published": "2026-06-09T10:00:00+00:00",
-      "link": "https://www.technologyreview.com/2026/06/09/1138545/david-sinclair-plans-to-test-whole-body-rejuvenation-drugs-in-the-xprize-competition/"
-    },
-    {
-      "title": "OpenAI says going public is \"a complicated set of tradeoffs\" and is unsure about the timing",
-      "summary": "OpenAI has confidentially filed an S-1 registration with the SEC, taking the first formal step toward an IPO.",
-      "source": "The Decoder",
-      "published": "2026-06-09T09:30:05+00:00",
-      "link": "https://the-decoder.com/openai-says-going-public-is-a-complicated-set-of-tradeoffs-and-is-unsure-about-the-timing/"
     }
   ]
 };
