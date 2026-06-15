@@ -1,6 +1,41 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-06-15T14:51:51.482056+00:00",
+  "lastUpdated": "2026-06-15T17:58:14.631527+00:00",
   "items": [
+    {
+      "title": "Nvidia joins AI debt boom with $20 billion bond sale",
+      "summary": "Nvidia wants to raise at least $20 billion through its first bond sale since 2021, Bloomberg reports, citing people with direct knowledge of the deal. The article Nvidia joins AI debt boom with $20 billion bond sale appeared first on The Decoder.",
+      "source": "The Decoder",
+      "published": "2026-06-15T15:43:04+00:00",
+      "link": "https://the-decoder.com/nvidia-joins-ai-debt-boom-with-20-billion-bond-sale/"
+    },
+    {
+      "title": "Cybersecurity vets protest ‘dangerous’ US government ban on Anthropic’s most powerful models",
+      "summary": "A group made up of dozens of cybersecurity experts urged the White House to remove export control restrictions on Anthropic’s models Fable and Mythos, arguing that the order is going to limit the ability of cybersecurity defenders to secure their software and products.",
+      "source": "TechCrunch",
+      "published": "2026-06-15T15:29:51+00:00",
+      "link": "https://techcrunch.com/2026/06/15/cybersecurity-vets-protest-dangerous-us-government-ban-on-anthropics-most-powerful-models/"
+    },
+    {
+      "title": "This man with ALS is “the first power user” of a brain implant that lets him speak",
+      "summary": "Casey Harrell has had a set of electrodes embedded in his brain for almost three years. Harrell, who has amyotrophic lateral sclerosis (ALS) and is paralyzed, first used his brain-computer interface (BCI) to “speak” sentences with the help of a research team in 2023.",
+      "source": "MIT Tech Review",
+      "published": "2026-06-15T15:12:28+00:00",
+      "link": "https://www.technologyreview.com/2026/06/15/1138953/man-als-first-power-user-brain-implant-speak-bci/"
+    },
+    {
+      "title": "My Homelab AI Dev Platform",
+      "summary": "Article URL: https://rsgm.dev/post/ai-dev-platform/ Comments URL: https://news.ycombinator.com/item?id=48542433 Points: 74 # Comments: 24",
+      "source": "Hacker News",
+      "published": "2026-06-15T15:09:40+00:00",
+      "link": "https://rsgm.dev/post/ai-dev-platform/"
+    },
+    {
+      "title": "Ask HN: Has anyone replaced Claude/GPT with a local model for daily coding?",
+      "summary": "Has anyone here fully swapped Claude/GPT for a local model as their main coding tool, not just for side experiments? If so, please share your setup and performance (e.g tok/s) Comments URL: https://news.ycombinator.com/item?id=48542100 Points: 105 # Comments: 57",
+      "source": "Hacker News",
+      "published": "2026-06-15T14:46:53+00:00",
+      "link": "https://news.ycombinator.com/item?id=48542100"
+    },
     {
       "title": "Salesforce acquires AI customer service platform Fin for $3.6 billion",
       "summary": "Salesforce says it wants to use Fin's team and technology to improve Agentforce, its existing enterprise platform that businesses can use to build custom AI agents that automate tasks.",
@@ -21,6 +56,13 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-06-15T13:46:08+00:00",
       "link": "https://techcrunch.com/2026/06/15/sarvam-becomes-indias-newest-ai-unicorn-with-234-million-funding-round-led-by-hcltech/"
+    },
+    {
+      "title": "Show HN: Can Europe train a frontier AI model on the compute it owns?",
+      "summary": "Article URL: https://github.com/sammysltd/euromesh Comments URL: https://news.ycombinator.com/item?id=48541014 Points: 50 # Comments: 61",
+      "source": "Hacker News",
+      "published": "2026-06-15T13:31:09+00:00",
+      "link": "https://github.com/sammysltd/euromesh"
     },
     {
       "title": "Pokémon Go data helped train AI now linked to military drones",
@@ -73,7 +115,7 @@ const FEED_DATA = {
     },
     {
       "title": "Show HN: I wrote a C++ ray tracer from scratch without AI",
-      "summary": "Article URL: https://github.com/themartiano/luz Comments URL: https://news.ycombinator.com/item?id=48538833 Points: 85 # Comments: 30",
+      "summary": "Article URL: https://github.com/themartiano/luz Comments URL: https://news.ycombinator.com/item?id=48538833 Points: 131 # Comments: 55",
       "source": "Hacker News",
       "published": "2026-06-15T09:34:10+00:00",
       "link": "https://github.com/themartiano/luz"
@@ -94,21 +136,21 @@ const FEED_DATA = {
     },
     {
       "title": "The AI layoff wave is becoming a powder keg",
-      "summary": "What makes this combustible: at the very moment that tens of thousands of workers are being shown the door, a small cohort of AI insiders is becoming wealthy on a scale that's hard to comprehend.",
+      "summary": "At the very moment that tens of thousands of workers are being shown the door, a small cohort of AI insiders is becoming wealthy on a scale that's hard to comprehend.",
       "source": "TechCrunch",
       "published": "2026-06-15T07:25:41+00:00",
       "link": "https://techcrunch.com/2026/06/15/the-ai-layoff-wave-is-becoming-a-powder-keg/"
     },
     {
       "title": "The Jqwik Anti-AI Affair",
-      "summary": "Article URL: https://blog.johanneslink.net/2026/06/09/the-jqwik-anti-ai-affair/ Comments URL: https://news.ycombinator.com/item?id=48533736 Points: 51 # Comments: 72",
+      "summary": "Article URL: https://blog.johanneslink.net/2026/06/09/the-jqwik-anti-ai-affair/ Comments URL: https://news.ycombinator.com/item?id=48533736 Points: 52 # Comments: 78",
       "source": "Hacker News",
       "published": "2026-06-14T22:43:49+00:00",
       "link": "https://blog.johanneslink.net/2026/06/09/the-jqwik-anti-ai-affair/"
     },
     {
       "title": "AI is code – and can't be prompted into being smarter",
-      "summary": "Article URL: https://www.theregister.com/ai-and-ml/2026/06/14/ai-is-code-and-cant-be-prompted-into-being-smarter/5254141 Comments URL: https://news.ycombinator.com/item?id=48532178 Points: 147 # Comments: 131",
+      "summary": "Article URL: https://www.theregister.com/ai-and-ml/2026/06/14/ai-is-code-and-cant-be-prompted-into-being-smarter/5254141 Comments URL: https://news.ycombinator.com/item?id=48532178 Points: 149 # Comments: 136",
       "source": "Hacker News",
       "published": "2026-06-14T20:17:54+00:00",
       "link": "https://www.theregister.com/ai-and-ml/2026/06/14/ai-is-code-and-cant-be-prompted-into-being-smarter/5254141"
@@ -129,21 +171,21 @@ const FEED_DATA = {
     },
     {
       "title": "Rio de Janeiro's \"homegrown\" LLM appears to be a merge of an existing model",
-      "summary": "Article URL: https://github.com/nex-agi/Nex-N2/issues/4 Comments URL: https://news.ycombinator.com/item?id=48528371 Points: 377 # Comments: 199",
+      "summary": "Article URL: https://github.com/nex-agi/Nex-N2/issues/4 Comments URL: https://news.ycombinator.com/item?id=48528371 Points: 388 # Comments: 208",
       "source": "Hacker News",
       "published": "2026-06-14T15:37:31+00:00",
       "link": "https://github.com/nex-agi/Nex-N2/issues/4"
     },
     {
       "title": "Ponytail – make your AI agent think like the laziest senior dev in the room",
-      "summary": "Article URL: https://github.com/DietrichGebert/ponytail Comments URL: https://news.ycombinator.com/item?id=48527946 Points: 77 # Comments: 10",
+      "summary": "Article URL: https://github.com/DietrichGebert/ponytail Comments URL: https://news.ycombinator.com/item?id=48527946 Points: 82 # Comments: 11",
       "source": "Hacker News",
       "published": "2026-06-14T15:08:17+00:00",
       "link": "https://github.com/DietrichGebert/ponytail"
     },
     {
       "title": "Not everyone is using AI for everything",
-      "summary": "Article URL: https://gabrielweinberg.com/p/people-are-consuming-ai-like-they Comments URL: https://news.ycombinator.com/item?id=48527700 Points: 481 # Comments: 517",
+      "summary": "Article URL: https://gabrielweinberg.com/p/people-are-consuming-ai-like-they Comments URL: https://news.ycombinator.com/item?id=48527700 Points: 488 # Comments: 524",
       "source": "Hacker News",
       "published": "2026-06-14T14:44:29+00:00",
       "link": "https://gabrielweinberg.com/p/people-are-consuming-ai-like-they"
@@ -199,7 +241,7 @@ const FEED_DATA = {
     },
     {
       "title": "Meta’s chaotic AI strategy",
-      "summary": "Article URL: https://www.wired.com/story/mark-zuckerberg-meta-employee-meeting-interrupt-ai/ Comments URL: https://news.ycombinator.com/item?id=48523271 Points: 72 # Comments: 85",
+      "summary": "Article URL: https://www.wired.com/story/mark-zuckerberg-meta-employee-meeting-interrupt-ai/ Comments URL: https://news.ycombinator.com/item?id=48523271 Points: 72 # Comments: 86",
       "source": "Hacker News",
       "published": "2026-06-14T01:23:45+00:00",
       "link": "https://www.wired.com/story/mark-zuckerberg-meta-employee-meeting-interrupt-ai/"
@@ -220,7 +262,7 @@ const FEED_DATA = {
     },
     {
       "title": "Police officer investigated for using AI to 'create evidence' in multiple cases",
-      "summary": "Article URL: https://news.sky.com/story/derbyshire-police-officer-investigated-for-using-ai-to-create-evidence-in-multiple-cases-13553661 Comments URL: https://news.ycombinator.com/item?id=48520807 Points: 385 # Comments: 190",
+      "summary": "Article URL: https://news.sky.com/story/derbyshire-police-officer-investigated-for-using-ai-to-create-evidence-in-multiple-cases-13553661 Comments URL: https://news.ycombinator.com/item?id=48520807 Points: 390 # Comments: 191",
       "source": "Hacker News",
       "published": "2026-06-13T19:54:55+00:00",
       "link": "https://news.sky.com/story/derbyshire-police-officer-investigated-for-using-ai-to-create-evidence-in-multiple-cases-13553661"
@@ -255,7 +297,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI coding at home without going broke",
-      "summary": "Article URL: https://stephen.bochinski.dev/blog/2026/06/13/ai-coding-at-home-without-going-broke/ Comments URL: https://news.ycombinator.com/item?id=48518969 Points: 347 # Comments: 282",
+      "summary": "Article URL: https://stephen.bochinski.dev/blog/2026/06/13/ai-coding-at-home-without-going-broke/ Comments URL: https://news.ycombinator.com/item?id=48518969 Points: 349 # Comments: 283",
       "source": "Hacker News",
       "published": "2026-06-13T16:45:03+00:00",
       "link": "https://stephen.bochinski.dev/blog/2026/06/13/ai-coding-at-home-without-going-broke/"
@@ -297,7 +339,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI OSS tool repo goes archived over night after raising $7.3M Seed",
-      "summary": "Article URL: https://github.com/tensorzero/tensorzero Comments URL: https://news.ycombinator.com/item?id=48516504 Points: 278 # Comments: 170",
+      "summary": "Article URL: https://github.com/tensorzero/tensorzero Comments URL: https://news.ycombinator.com/item?id=48516504 Points: 279 # Comments: 171",
       "source": "Hacker News",
       "published": "2026-06-13T12:10:47+00:00",
       "link": "https://github.com/tensorzero/tensorzero"
@@ -395,7 +437,7 @@ const FEED_DATA = {
     },
     {
       "title": "Open source AI must win",
-      "summary": "Article URL: https://opensourceaimustwin.com/?share=v2 Comments URL: https://news.ycombinator.com/item?id=48511908 Points: 1581 # Comments: 476",
+      "summary": "Article URL: https://opensourceaimustwin.com/?share=v2 Comments URL: https://news.ycombinator.com/item?id=48511908 Points: 1583 # Comments: 476",
       "source": "Hacker News",
       "published": "2026-06-13T02:14:24+00:00",
       "link": "https://opensourceaimustwin.com/?share=v2"
@@ -591,7 +633,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI agent bankrupted their operator while trying to scan DN42",
-      "summary": "Article URL: https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/ Comments URL: https://news.ycombinator.com/item?id=48500012 Points: 1457 # Comments: 531",
+      "summary": "Article URL: https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/ Comments URL: https://news.ycombinator.com/item?id=48500012 Points: 1459 # Comments: 531",
       "source": "Hacker News",
       "published": "2026-06-12T04:42:53+00:00",
       "link": "https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/"
@@ -1358,48 +1400,6 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-06-08T22:41:45+00:00",
       "link": "https://techcrunch.com/2026/06/08/as-openai-files-for-ipo-sam-altmans-eye-scanning-company-is-doing-layoffs-report-says/"
-    },
-    {
-      "title": "Apple’s WWDC AI demos looked more real after $250M false ad settlement",
-      "summary": "The vibe of Apple's 2026 WWDC keynote felt like a spouse proudly listing all the honey-do-list items tackled. One subtle example: the many AI demos of someone standing, phone in hand.",
-      "source": "TechCrunch",
-      "published": "2026-06-08T22:39:57+00:00",
-      "link": "https://techcrunch.com/2026/06/08/apples-wwdc-ai-demos-looked-more-real-after-250m-false-ad-settlement/"
-    },
-    {
-      "title": "Apple is using AI to fix Safari’s extension problem",
-      "summary": "Apple is trying to solve one of Safari's biggest weaknesses with AI. Safari has long lacked the robust library of extensions that its rivals have, mainly due to the stringent development requirements from Apple.",
-      "source": "The Verge",
-      "published": "2026-06-08T22:14:17+00:00",
-      "link": "https://www.theverge.com/tech/946345/apple-safari-ai-update-extensions"
-    },
-    {
-      "title": "Show HN: Command Center, the AI coding env for people who care about quality",
-      "summary": "Hi HN! We’re Jimmy and Ray.",
-      "source": "Hacker News",
-      "published": "2026-06-08T22:10:18+00:00",
-      "link": "https://www.cc.dev/"
-    },
-    {
-      "title": "OpenAI files for IPO, following Anthropic",
-      "summary": "OpenAI on Monday checked off a preliminary step in the IPO race that it and rival Anthropic have been competing in for the better part of a year: The company announced it has confidentially submitted a Form S-1 with the US Securities and Exchange Commission, following...",
-      "source": "The Verge",
-      "published": "2026-06-08T21:38:29+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/946335/openai-ipo-s-1-confidential"
-    },
-    {
-      "title": "OpenAI Confidentially Files for IPO on the Heels of SpaceX and Anthropic",
-      "summary": "The ChatGPT-maker announced it has filed paperwork to go public, just a week after rival Anthropic took the same step.",
-      "source": "Wired",
-      "published": "2026-06-08T21:31:58+00:00",
-      "link": "https://www.wired.com/story/openai-confidentially-files-for-ipo/"
-    },
-    {
-      "title": "OpenAI files confidentially for IPO, following Anthropic",
-      "summary": "The filing comes a little more than a week after its main rival, Anthropic, also filed to go public, ramping up the race between the two AI firms.",
-      "source": "TechCrunch",
-      "published": "2026-06-08T21:29:57+00:00",
-      "link": "https://techcrunch.com/2026/06/08/following-anthropic-openai-files-confidentially-for-ipo/"
     }
   ]
 };
