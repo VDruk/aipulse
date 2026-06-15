@@ -1,6 +1,55 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-06-15T06:21:21.786166+00:00",
+  "lastUpdated": "2026-06-15T10:55:36.638446+00:00",
   "items": [
+    {
+      "title": "Anthropic shutdown sparks sovereignty debate across Europe",
+      "summary": "The European Commission is assessing the implications of the US order that forced Anthropic to shut down Fable 5 and Mythos 5 worldwide. European researchers are debating the right response: building their own foundation models or securing access through contracts.",
+      "source": "The Decoder",
+      "published": "2026-06-15T10:33:07+00:00",
+      "link": "https://the-decoder.com/anthropic-shutdown-sparks-sovereignty-debate-across-europe/"
+    },
+    {
+      "title": "Accenture: Consumers show growing trust in AI shopping agents",
+      "summary": "Consumers are showing a willingness to let AI agents take on more shopping-related tasks, according to new research from Accenture.",
+      "source": "AI News",
+      "published": "2026-06-15T10:00:00+00:00",
+      "link": "https://www.artificialintelligence-news.com/news/ai-shopping-agents-consumer-trust-accenture-report/"
+    },
+    {
+      "title": "Microsoft CEO Satya Nadella warns of \"a small number of AI systems capturing all the economic returns\"",
+      "summary": "Microsoft CEO Satya Nadella wants companies to build \"token capital\" alongside human capital, meaning their own AI capabilities built on internal data and proprietary learning loops. Without it, he warns, a few large models could absorb the value of entire industries.",
+      "source": "The Decoder",
+      "published": "2026-06-15T09:39:14+00:00",
+      "link": "https://the-decoder.com/microsoft-ceo-satya-nadella-warns-of-a-small-number-of-ai-systems-capturing-all-the-economic-returns/"
+    },
+    {
+      "title": "These new solid-state ACs promise a cool future. Scientists aren’t so sure.",
+      "summary": "After three years of record-­breaking heat, this one is set to be yet another scorcher. Air-conditioning?",
+      "source": "MIT Tech Review",
+      "published": "2026-06-15T09:00:00+00:00",
+      "link": "https://www.technologyreview.com/2026/06/15/1138552/solid-state-acs-promise-cool-future/"
+    },
+    {
+      "title": "The AI off switch: How Anthropic’s export controls sparked a global AI sovereignty scramble",
+      "summary": "Anthropic export controls turned an abstract policy fear into a live one last week: as of June 13, 2026, one US government directive took the company’s two most powerful AI models offline for users everywhere, including, briefly, Anthropic’s own foreign-born employees, and set...",
+      "source": "AI News",
+      "published": "2026-06-15T08:00:00+00:00",
+      "link": "https://www.artificialintelligence-news.com/news/anthropic-export-controls-ai-sovereignty/"
+    },
+    {
+      "title": "The AI layoff wave is becoming a powder keg",
+      "summary": "What makes this combustible: at the very moment that tens of thousands of workers are being shown the door, a small cohort of AI insiders is becoming wealthy on a scale that's hard to comprehend.",
+      "source": "TechCrunch",
+      "published": "2026-06-15T07:25:41+00:00",
+      "link": "https://techcrunch.com/2026/06/15/the-ai-layoff-wave-is-becoming-a-powder-keg/"
+    },
+    {
+      "title": "AI is code – and can't be prompted into being smarter",
+      "summary": "Article URL: https://www.theregister.com/ai-and-ml/2026/06/14/ai-is-code-and-cant-be-prompted-into-being-smarter/5254141 Comments URL: https://news.ycombinator.com/item?id=48532178 Points: 137 # Comments: 122",
+      "source": "Hacker News",
+      "published": "2026-06-14T20:17:54+00:00",
+      "link": "https://www.theregister.com/ai-and-ml/2026/06/14/ai-is-code-and-cant-be-prompted-into-being-smarter/5254141"
+    },
     {
       "title": "China may have accessed Mythos",
       "summary": "According to a new report from Semafor, the White House's decision to impose export restrictions on Anthropic's Mythos was driven in part by fears that it had been accessed by a group linked to China.",
@@ -17,14 +66,21 @@ const FEED_DATA = {
     },
     {
       "title": "Rio de Janeiro's \"homegrown\" LLM appears to be a merge of an existing model",
-      "summary": "Article URL: https://github.com/nex-agi/Nex-N2/issues/4 Comments URL: https://news.ycombinator.com/item?id=48528371 Points: 227 # Comments: 126",
+      "summary": "Article URL: https://github.com/nex-agi/Nex-N2/issues/4 Comments URL: https://news.ycombinator.com/item?id=48528371 Points: 356 # Comments: 191",
       "source": "Hacker News",
       "published": "2026-06-14T15:37:31+00:00",
       "link": "https://github.com/nex-agi/Nex-N2/issues/4"
     },
     {
+      "title": "Ponytail – make your AI agent think like the laziest senior dev in the room",
+      "summary": "Article URL: https://github.com/DietrichGebert/ponytail Comments URL: https://news.ycombinator.com/item?id=48527946 Points: 66 # Comments: 8",
+      "source": "Hacker News",
+      "published": "2026-06-14T15:08:17+00:00",
+      "link": "https://github.com/DietrichGebert/ponytail"
+    },
+    {
       "title": "Not everyone is using AI for everything",
-      "summary": "Article URL: https://gabrielweinberg.com/p/people-are-consuming-ai-like-they Comments URL: https://news.ycombinator.com/item?id=48527700 Points: 383 # Comments: 405",
+      "summary": "Article URL: https://gabrielweinberg.com/p/people-are-consuming-ai-like-they Comments URL: https://news.ycombinator.com/item?id=48527700 Points: 466 # Comments: 503",
       "source": "Hacker News",
       "published": "2026-06-14T14:44:29+00:00",
       "link": "https://gabrielweinberg.com/p/people-are-consuming-ai-like-they"
@@ -80,14 +136,14 @@ const FEED_DATA = {
     },
     {
       "title": "Meta’s chaotic AI strategy",
-      "summary": "Article URL: https://www.wired.com/story/mark-zuckerberg-meta-employee-meeting-interrupt-ai/ Comments URL: https://news.ycombinator.com/item?id=48523271 Points: 71 # Comments: 80",
+      "summary": "Article URL: https://www.wired.com/story/mark-zuckerberg-meta-employee-meeting-interrupt-ai/ Comments URL: https://news.ycombinator.com/item?id=48523271 Points: 72 # Comments: 85",
       "source": "Hacker News",
       "published": "2026-06-14T01:23:45+00:00",
       "link": "https://www.wired.com/story/mark-zuckerberg-meta-employee-meeting-interrupt-ai/"
     },
     {
       "title": "Amazon security research reportedly led to the White House’s Anthropic Fable ban",
-      "summary": "According to the Wall Street Journal, the export control directive that led to Anthropic cutting off access to Fable 5 and Mythos 5 was triggered in part by cybersecurity research from Amazon and conversations between CEO Andy Jassy and the White House.",
+      "summary": "According to the The Wall Street Journal, the export control directive that led to Anthropic cutting off access to Fable 5 and Mythos 5 was triggered in part by cybersecurity research from Amazon and conversations between CEO Andy Jassy and the White House.",
       "source": "The Verge",
       "published": "2026-06-13T21:39:26+00:00",
       "link": "https://www.theverge.com/ai-artificial-intelligence/949601/amazon-anthropic-fablemythos-government-ban"
@@ -101,7 +157,7 @@ const FEED_DATA = {
     },
     {
       "title": "Police officer investigated for using AI to 'create evidence' in multiple cases",
-      "summary": "Article URL: https://news.sky.com/story/derbyshire-police-officer-investigated-for-using-ai-to-create-evidence-in-multiple-cases-13553661 Comments URL: https://news.ycombinator.com/item?id=48520807 Points: 368 # Comments: 188",
+      "summary": "Article URL: https://news.sky.com/story/derbyshire-police-officer-investigated-for-using-ai-to-create-evidence-in-multiple-cases-13553661 Comments URL: https://news.ycombinator.com/item?id=48520807 Points: 380 # Comments: 190",
       "source": "Hacker News",
       "published": "2026-06-13T19:54:55+00:00",
       "link": "https://news.sky.com/story/derbyshire-police-officer-investigated-for-using-ai-to-create-evidence-in-multiple-cases-13553661"
@@ -115,7 +171,7 @@ const FEED_DATA = {
     },
     {
       "title": "PwC Report: AI Making Medical Bills Higher",
-      "summary": "Article URL: https://fortune.com/2026/06/12/ai-making-medical-bills-higher/ Comments URL: https://news.ycombinator.com/item?id=48519519 Points: 79 # Comments: 20",
+      "summary": "Article URL: https://fortune.com/2026/06/12/ai-making-medical-bills-higher/ Comments URL: https://news.ycombinator.com/item?id=48519519 Points: 80 # Comments: 21",
       "source": "Hacker News",
       "published": "2026-06-13T17:39:14+00:00",
       "link": "https://fortune.com/2026/06/12/ai-making-medical-bills-higher/"
@@ -136,7 +192,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI coding at home without going broke",
-      "summary": "Article URL: https://stephen.bochinski.dev/blog/2026/06/13/ai-coding-at-home-without-going-broke/ Comments URL: https://news.ycombinator.com/item?id=48518969 Points: 329 # Comments: 274",
+      "summary": "Article URL: https://stephen.bochinski.dev/blog/2026/06/13/ai-coding-at-home-without-going-broke/ Comments URL: https://news.ycombinator.com/item?id=48518969 Points: 342 # Comments: 281",
       "source": "Hacker News",
       "published": "2026-06-13T16:45:03+00:00",
       "link": "https://stephen.bochinski.dev/blog/2026/06/13/ai-coding-at-home-without-going-broke/"
@@ -178,7 +234,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI OSS tool repo goes archived over night after raising $7.3M Seed",
-      "summary": "Article URL: https://github.com/tensorzero/tensorzero Comments URL: https://news.ycombinator.com/item?id=48516504 Points: 272 # Comments: 170",
+      "summary": "Article URL: https://github.com/tensorzero/tensorzero Comments URL: https://news.ycombinator.com/item?id=48516504 Points: 277 # Comments: 170",
       "source": "Hacker News",
       "published": "2026-06-13T12:10:47+00:00",
       "link": "https://github.com/tensorzero/tensorzero"
@@ -199,7 +255,7 @@ const FEED_DATA = {
     },
     {
       "title": "KPMG's AI report turns into a demo of AI hallucinations",
-      "summary": "Article URL: https://www.theregister.com/ai-and-ml/2026/06/12/kpmgs-ai-report-turns-into-a-demo-of-ai-hallucinations/5255029 Comments URL: https://news.ycombinator.com/item?id=48515733 Points: 54 # Comments: 19",
+      "summary": "Article URL: https://www.theregister.com/ai-and-ml/2026/06/12/kpmgs-ai-report-turns-into-a-demo-of-ai-hallucinations/5255029 Comments URL: https://news.ycombinator.com/item?id=48515733 Points: 54 # Comments: 21",
       "source": "Hacker News",
       "published": "2026-06-13T10:32:38+00:00",
       "link": "https://www.theregister.com/ai-and-ml/2026/06/12/kpmgs-ai-report-turns-into-a-demo-of-ai-hallucinations/5255029"
@@ -276,7 +332,7 @@ const FEED_DATA = {
     },
     {
       "title": "Open source AI must win",
-      "summary": "Article URL: https://opensourceaimustwin.com/?share=v2 Comments URL: https://news.ycombinator.com/item?id=48511908 Points: 1563 # Comments: 467",
+      "summary": "Article URL: https://opensourceaimustwin.com/?share=v2 Comments URL: https://news.ycombinator.com/item?id=48511908 Points: 1577 # Comments: 471",
       "source": "Hacker News",
       "published": "2026-06-13T02:14:24+00:00",
       "link": "https://opensourceaimustwin.com/?share=v2"
@@ -472,7 +528,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI agent bankrupted their operator while trying to scan DN42",
-      "summary": "Article URL: https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/ Comments URL: https://news.ycombinator.com/item?id=48500012 Points: 1450 # Comments: 529",
+      "summary": "Article URL: https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/ Comments URL: https://news.ycombinator.com/item?id=48500012 Points: 1456 # Comments: 531",
       "source": "Hacker News",
       "published": "2026-06-12T04:42:53+00:00",
       "link": "https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/"
@@ -521,7 +577,7 @@ const FEED_DATA = {
     },
     {
       "title": "Shall we play a game? My AI nuclear simulation",
-      "summary": "https://arxiv.org/pdf/2602.14740 Comments URL: https://news.ycombinator.com/item?id=48495575 Points: 205 # Comments: 201",
+      "summary": "https://arxiv.org/pdf/2602.14740 Comments URL: https://news.ycombinator.com/item?id=48495575 Points: 206 # Comments: 201",
       "source": "Hacker News",
       "published": "2026-06-11T19:54:54+00:00",
       "link": "https://www.kennethpayne.uk/p/shall-we-play-a-game"
@@ -577,7 +633,7 @@ const FEED_DATA = {
     },
     {
       "title": "Workers are spending over 6 hours a week botsitting AI, fueling job frustration",
-      "summary": "Article URL: https://www.businessinsider.com/botsitting-ai-hidden-human-labor-at-work-2026-6 Comments URL: https://news.ycombinator.com/item?id=48490057 Points: 278 # Comments: 220",
+      "summary": "Article URL: https://www.businessinsider.com/botsitting-ai-hidden-human-labor-at-work-2026-6 Comments URL: https://news.ycombinator.com/item?id=48490057 Points: 279 # Comments: 220",
       "source": "Hacker News",
       "published": "2026-06-11T13:26:59+00:00",
       "link": "https://www.businessinsider.com/botsitting-ai-hidden-human-labor-at-work-2026-6"
@@ -654,7 +710,7 @@ const FEED_DATA = {
     },
     {
       "title": "Why AI hasn't replaced software engineers, and won't",
-      "summary": "Article URL: https://www.normaltech.ai/p/why-ai-hasnt-replaced-software-engineers Comments URL: https://news.ycombinator.com/item?id=48487540 Points: 309 # Comments: 356",
+      "summary": "Article URL: https://www.normaltech.ai/p/why-ai-hasnt-replaced-software-engineers Comments URL: https://news.ycombinator.com/item?id=48487540 Points: 310 # Comments: 356",
       "source": "Hacker News",
       "published": "2026-06-11T07:51:17+00:00",
       "link": "https://www.normaltech.ai/p/why-ai-hasnt-replaced-software-engineers"
@@ -1344,62 +1400,6 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-06-08T18:36:04+00:00",
       "link": "https://techcrunch.com/2026/06/08/apples-photos-app-is-getting-new-ai-editing-features/"
-    },
-    {
-      "title": "For the 2nd time in weeks, Microsoft packages laced with credential stealer",
-      "summary": "73 packages run self-replicating stealer as soon as they're opened by an AI agent.",
-      "source": "Ars Technica",
-      "published": "2026-06-08T18:34:23+00:00",
-      "link": "https://arstechnica.com/security/2026/06/for-the-2nd-time-in-weeks-microsoft-packages-laced-with-credential-stealer/"
-    },
-    {
-      "title": "Apple is fixing the headache of splitting the bill with its new Siri in Camera feature",
-      "summary": "\"If you're grabbing a bite with friends and point your iPhone at the bill, then [you can] select what you ordered to split the tab with Apple Cash,\" said Apple VP of Software Sebastien Marineau-Mes.",
-      "source": "TechCrunch",
-      "published": "2026-06-08T18:23:04+00:00",
-      "link": "https://techcrunch.com/2026/06/08/apple-is-fixing-the-headache-of-splitting-the-bill-with-its-new-siri-in-camera-feature/"
-    },
-    {
-      "title": "Ask HN: What are tools you have made for yourself since the advent of AI?",
-      "summary": "Comments URL: https://news.ycombinator.com/item?id=48449187 Points: 428 # Comments: 740",
-      "source": "Hacker News",
-      "published": "2026-06-08T18:22:39+00:00",
-      "link": "https://news.ycombinator.com/item?id=48449187"
-    },
-    {
-      "title": "Siri AI",
-      "summary": "Article URL: https://www.apple.com/apple-intelligence/ Comments URL: https://news.ycombinator.com/item?id=48449084 Points: 670 # Comments: 696",
-      "source": "Hacker News",
-      "published": "2026-06-08T18:17:53+00:00",
-      "link": "https://www.apple.com/apple-intelligence/"
-    },
-    {
-      "title": "Apple’s New Siri AI Is Ready to Get Personal",
-      "summary": "From a stand-alone app to a Google Gemini partnership, here’s everything you need to know from WWDC 2026 about Apple’s upcoming overhaul of Siri.",
-      "source": "Wired",
-      "published": "2026-06-08T18:17:44+00:00",
-      "link": "https://www.wired.com/story/apples-new-siri-ai-is-ready-to-get-personal/"
-    },
-    {
-      "title": "Microsoft Research's Lens proves detailed captions matter more than raw scale for training efficient image generators",
-      "summary": "Microsoft Research presents Lens, a text-to-image model with just 3.8 billion parameters that matches much larger rivals on benchmarks, at a fraction of the training cost. The secret sauce: 800 million detailed image captions generated by GPT-4.1 instead of vague web alt-text.",
-      "source": "The Decoder",
-      "published": "2026-06-08T17:57:40+00:00",
-      "link": "https://the-decoder.com/microsoft-researchs-lens-proves-detailed-captions-matter-more-than-raw-scale-for-training-efficient-image-generators/"
-    },
-    {
-      "title": "Apple’s long-awaited AI Siri overhaul is finally here",
-      "summary": "The idea behind the new \"Siri AI\" is to turn the assistant from a voice controlled assistant into an AI companion that can do a lot more.",
-      "source": "TechCrunch",
-      "published": "2026-06-08T17:56:21+00:00",
-      "link": "https://techcrunch.com/2026/06/08/apples-long-awaited-ai-siri-overhaul-is-finally-here/"
-    },
-    {
-      "title": "Amazon is launching AI-generated custom merch",
-      "summary": "Amazon is expanding its print-on-demand features to AI-generated designs created using Alexa for Shopping for products like T-shirts, water bottles, and hoodies. Shoppers can use text prompts to generate images that are then printed onto blanks for sale on Amazon.",
-      "source": "The Verge",
-      "published": "2026-06-08T17:52:51+00:00",
-      "link": "https://www.theverge.com/news/945905/amazon-alexa-shopping-ai-generated-custom-merch-design-printing"
     }
   ]
 };
