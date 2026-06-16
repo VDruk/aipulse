@@ -1,6 +1,20 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-06-16T20:10:22.360079+00:00",
+  "lastUpdated": "2026-06-16T22:49:23.823589+00:00",
   "items": [
+    {
+      "title": "Anthropic’s latest feud with the Trump admin may actually help it, sales data suggests",
+      "summary": "Anthropic's popularity with business users is growing so well that the latest beef with the government might actually boost it, data from Ramp suggests.",
+      "source": "TechCrunch",
+      "published": "2026-06-16T22:34:17+00:00",
+      "link": "https://techcrunch.com/2026/06/16/anthropics-latest-feud-with-the-trump-admin-may-actually-help-it-sales-data-suggests/"
+    },
+    {
+      "title": "Exclusive eBook: How AI is becoming the next military advisor",
+      "summary": "A collection of stories about how militaries are using AI models to make decisions.",
+      "source": "MIT Tech Review",
+      "published": "2026-06-16T20:35:02+00:00",
+      "link": "https://www.technologyreview.com/2026/06/16/1138905/exclusive-ebook-how-ai-is-becoming-the-next-military-advisor/"
+    },
     {
       "title": "Microsoft's Copilot Cowork moves to usage-based billing and may tap DeepSeek",
       "summary": "Microsoft is weighing a fine-tuned version of Deepseek V4 as a cheaper model option for Copilot Cowork. The company is also switching to usage-based billing, since Copilot head Charles Lamanna says flat-rate pricing isn't sustainable.",
@@ -23,11 +37,25 @@ const FEED_DATA = {
       "link": "https://techcrunch.com/2026/06/16/android-17-launches-with-new-multitasking-tools-as-google-expands-gemini-features/"
     },
     {
+      "title": "GPT‑NL: a sovereign language model for the Netherlands",
+      "summary": "Article URL: https://www.tno.nl/en/digital/artificial-intelligence/gpt-nl/ Comments URL: https://news.ycombinator.com/item?id=48559188 Points: 114 # Comments: 105",
+      "source": "Hacker News",
+      "published": "2026-06-16T17:54:02+00:00",
+      "link": "https://www.tno.nl/en/digital/artificial-intelligence/gpt-nl/"
+    },
+    {
       "title": "‘Dangerous’ AI Models Are Coming No Matter What",
       "summary": "The US government crackdown on Anthropic’s Claude Fable 5 and Mythos 5 hides a glaring truth: AI models with advanced hacking capabilities will soon be the norm.",
       "source": "Wired",
       "published": "2026-06-16T17:50:52+00:00",
       "link": "https://www.wired.com/story/dangerous-ai-models-are-coming-no-matter-what/"
+    },
+    {
+      "title": "Has AI already killed self-help nonfiction books?",
+      "summary": "Article URL: https://tim.blog/2026/06/12/has-ai-already-killed-nonfiction/ Comments URL: https://news.ycombinator.com/item?id=48558489 Points: 93 # Comments: 105",
+      "source": "Hacker News",
+      "published": "2026-06-16T17:11:05+00:00",
+      "link": "https://tim.blog/2026/06/12/has-ai-already-killed-nonfiction/"
     },
     {
       "title": "Apple 2027 rumors: AirPods with cameras for AI and the second folding iPhone",
@@ -49,6 +77,13 @@ const FEED_DATA = {
       "source": "AI News",
       "published": "2026-06-16T15:55:02+00:00",
       "link": "https://www.artificialintelligence-news.com/news/insurers-pivot-ai-strategy-toward-core-risk-underwriting/"
+    },
+    {
+      "title": "After AI takes everything",
+      "summary": "Article URL: https://ursb.me/en/posts/after-ai-takes-everything/ Comments URL: https://news.ycombinator.com/item?id=48556644 Points: 87 # Comments: 96",
+      "source": "Hacker News",
+      "published": "2026-06-16T15:20:05+00:00",
+      "link": "https://ursb.me/en/posts/after-ai-takes-everything/"
     },
     {
       "title": "SpaceX bets $60 billion on Cursor to catch OpenAI and Anthropic",
@@ -91,6 +126,13 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-06-16T13:23:33+00:00",
       "link": "https://the-decoder.com/doj-invokes-national-security-to-defend-xais-unpermitted-gas-turbines-in-naacp-lawsuit/"
+    },
+    {
+      "title": "Qwen-Robot Suite: A Foundation Model Suite for Physical World Intelligence",
+      "summary": "Article URL: https://qwen.ai/blog?id=qwen-robotsuite Comments URL: https://news.ycombinator.com/item?id=48554814 Points: 104 # Comments: 16",
+      "source": "Hacker News",
+      "published": "2026-06-16T13:15:15+00:00",
+      "link": "https://qwen.ai/blog?id=qwen-robotsuite"
     },
     {
       "title": "Probably raises $9M to build a more reliable kind of AI",
@@ -227,14 +269,14 @@ const FEED_DATA = {
     },
     {
       "title": "Microsoft turns to AWS as GitHub faces AI capacity crunch",
-      "summary": "Article URL: https://runtimewire.com/article/microsoft-github-aws-ai-capacity-crunch Comments URL: https://news.ycombinator.com/item?id=48549918 Points: 154 # Comments: 69",
+      "summary": "Article URL: https://runtimewire.com/article/microsoft-github-aws-ai-capacity-crunch Comments URL: https://news.ycombinator.com/item?id=48549918 Points: 154 # Comments: 70",
       "source": "Hacker News",
       "published": "2026-06-16T02:47:57+00:00",
       "link": "https://runtimewire.com/article/microsoft-github-aws-ai-capacity-crunch"
     },
     {
       "title": "Humanity isn't ready for the coming intelligence explosion",
-      "summary": "Article URL: https://www.economist.com/by-invitation/2026/06/15/humanity-isnt-ready-for-the-coming-intelligence-explosion Comments URL: https://news.ycombinator.com/item?id=48549628 Points: 155 # Comments: 425",
+      "summary": "Article URL: https://www.economist.com/by-invitation/2026/06/15/humanity-isnt-ready-for-the-coming-intelligence-explosion Comments URL: https://news.ycombinator.com/item?id=48549628 Points: 166 # Comments: 462",
       "source": "Hacker News",
       "published": "2026-06-16T02:00:45+00:00",
       "link": "https://www.economist.com/by-invitation/2026/06/15/humanity-isnt-ready-for-the-coming-intelligence-explosion"
@@ -346,14 +388,14 @@ const FEED_DATA = {
     },
     {
       "title": "My Homelab AI Dev Platform",
-      "summary": "Article URL: https://rsgm.dev/post/ai-dev-platform/ Comments URL: https://news.ycombinator.com/item?id=48542433 Points: 350 # Comments: 54",
+      "summary": "Article URL: https://rsgm.dev/post/ai-dev-platform/ Comments URL: https://news.ycombinator.com/item?id=48542433 Points: 354 # Comments: 56",
       "source": "Hacker News",
       "published": "2026-06-15T15:09:40+00:00",
       "link": "https://rsgm.dev/post/ai-dev-platform/"
     },
     {
       "title": "Ask HN: Has anyone replaced Claude/GPT with a local model for daily coding?",
-      "summary": "Has anyone here fully swapped Claude/GPT for a local model as their main coding tool, not just for side experiments? If so, please share your setup and performance (e.g tok/s) Comments URL: https://news.ycombinator.com/item?id=48542100 Points: 1216 # Comments: 515",
+      "summary": "Has anyone here fully swapped Claude/GPT for a local model as their main coding tool, not just for side experiments? If so, please share your setup and performance (e.g tok/s) Comments URL: https://news.ycombinator.com/item?id=48542100 Points: 1234 # Comments: 524",
       "source": "Hacker News",
       "published": "2026-06-15T14:46:53+00:00",
       "link": "https://news.ycombinator.com/item?id=48542100"
@@ -388,7 +430,7 @@ const FEED_DATA = {
     },
     {
       "title": "Can Europe train a frontier AI model on the compute it owns?",
-      "summary": "Article URL: https://github.com/sammysltd/euromesh Comments URL: https://news.ycombinator.com/item?id=48541014 Points: 137 # Comments: 278",
+      "summary": "Article URL: https://github.com/sammysltd/euromesh Comments URL: https://news.ycombinator.com/item?id=48541014 Points: 137 # Comments: 286",
       "source": "Hacker News",
       "published": "2026-06-15T13:31:09+00:00",
       "link": "https://github.com/sammysltd/euromesh"
@@ -486,7 +528,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI is code – and can't be prompted into being smarter",
-      "summary": "Article URL: https://www.theregister.com/ai-and-ml/2026/06/14/ai-is-code-and-cant-be-prompted-into-being-smarter/5254141 Comments URL: https://news.ycombinator.com/item?id=48532178 Points: 158 # Comments: 142",
+      "summary": "Article URL: https://www.theregister.com/ai-and-ml/2026/06/14/ai-is-code-and-cant-be-prompted-into-being-smarter/5254141 Comments URL: https://news.ycombinator.com/item?id=48532178 Points: 158 # Comments: 143",
       "source": "Hacker News",
       "published": "2026-06-14T20:17:54+00:00",
       "link": "https://www.theregister.com/ai-and-ml/2026/06/14/ai-is-code-and-cant-be-prompted-into-being-smarter/5254141"
@@ -507,14 +549,14 @@ const FEED_DATA = {
     },
     {
       "title": "Rio de Janeiro's \"homegrown\" LLM appears to be a merge of an existing model",
-      "summary": "Article URL: https://github.com/nex-agi/Nex-N2/issues/4 Comments URL: https://news.ycombinator.com/item?id=48528371 Points: 401 # Comments: 225",
+      "summary": "Article URL: https://github.com/nex-agi/Nex-N2/issues/4 Comments URL: https://news.ycombinator.com/item?id=48528371 Points: 401 # Comments: 229",
       "source": "Hacker News",
       "published": "2026-06-14T15:37:31+00:00",
       "link": "https://github.com/nex-agi/Nex-N2/issues/4"
     },
     {
       "title": "Ponytail – make your AI agent think like the laziest senior dev in the room",
-      "summary": "Article URL: https://github.com/DietrichGebert/ponytail Comments URL: https://news.ycombinator.com/item?id=48527946 Points: 88 # Comments: 12",
+      "summary": "Article URL: https://github.com/DietrichGebert/ponytail Comments URL: https://news.ycombinator.com/item?id=48527946 Points: 89 # Comments: 13",
       "source": "Hacker News",
       "published": "2026-06-14T15:08:17+00:00",
       "link": "https://github.com/DietrichGebert/ponytail"
@@ -598,7 +640,7 @@ const FEED_DATA = {
     },
     {
       "title": "Police officer investigated for using AI to 'create evidence' in multiple cases",
-      "summary": "Article URL: https://news.sky.com/story/derbyshire-police-officer-investigated-for-using-ai-to-create-evidence-in-multiple-cases-13553661 Comments URL: https://news.ycombinator.com/item?id=48520807 Points: 393 # Comments: 195",
+      "summary": "Article URL: https://news.sky.com/story/derbyshire-police-officer-investigated-for-using-ai-to-create-evidence-in-multiple-cases-13553661 Comments URL: https://news.ycombinator.com/item?id=48520807 Points: 393 # Comments: 196",
       "source": "Hacker News",
       "published": "2026-06-13T19:54:55+00:00",
       "link": "https://news.sky.com/story/derbyshire-police-officer-investigated-for-using-ai-to-create-evidence-in-multiple-cases-13553661"
@@ -1358,48 +1400,6 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-06-10T13:07:56+00:00",
       "link": "https://techcrunch.com/2026/06/10/decarts-new-world-model-can-simulate-hours-of-photorealistic-driving-with-some-caveats/"
-    },
-    {
-      "title": "The Download: the “steroid olympics” and a safer Mythos",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.",
-      "source": "MIT Tech Review",
-      "published": "2026-06-10T12:10:00+00:00",
-      "link": "https://www.technologyreview.com/2026/06/10/1138739/the-download-steroid-olympics-enhanced-games-anthropic-mythos/"
-    },
-    {
-      "title": "Germany's National Security Council greenights an AI Safety Institute modeled after the UK's AISI",
-      "summary": "Germany's National Security Council has decided to establish an AI security institute. The \"DE-AISI\" will test frontier models from Anthropic or OpenAI for security risks, following the British model.",
-      "source": "The Decoder",
-      "published": "2026-06-10T11:48:43+00:00",
-      "link": "https://the-decoder.com/germanys-national-security-council-greenights-an-ai-safety-institute-modeled-after-the-uks-aisi/"
-    },
-    {
-      "title": "Google's NotebookLM now runs its own cloud computer with code execution and agent-based research",
-      "summary": "Google is giving NotebookLM a major upgrade. The research tool now runs on Gemini 3.5 Flash, has its own cloud computer for code execution, and can find sources on its own via Google Search.",
-      "source": "The Decoder",
-      "published": "2026-06-10T11:05:19+00:00",
-      "link": "https://the-decoder.com/googles-notebooklm-now-runs-its-own-cloud-computer-with-code-execution-and-agent-based-research/"
-    },
-    {
-      "title": "Siri AI arrives with Google inside, and much of the world is locked out",
-      "summary": "“We’ve all had that moment where you search for something you know is there, but it just won’t show up.” Apple’s Stacey Ford, vice president of OS Program Management, was talking about Spotlight at WWDC 2026, but she could have been describing the company’s AI ambitions.",
-      "source": "AI News",
-      "published": "2026-06-10T11:00:00+00:00",
-      "link": "https://www.artificialintelligence-news.com/news/siri-ai-google-gemini-rollout/"
-    },
-    {
-      "title": "McDonald’s tests Google-backed AI drive-thru ordering system",
-      "summary": "McDonald’s is testing a new AI system that can take drive-thru orders and support restaurant operations. The system, called ArchIQ and nicknamed “Archy,” was introduced during the company’s Worldwide convention, according to Restaurant Business.",
-      "source": "AI News",
-      "published": "2026-06-10T10:00:00+00:00",
-      "link": "https://www.artificialintelligence-news.com/news/mcdonalds-ai-drive-thru-google-archiq/"
-    },
-    {
-      "title": "Artificial Intelligence Sneaks Into the World Cup Thanks to Google Gemini",
-      "summary": "The Argentine national team will be Google’s test bench and technological showcase during the World Cup.",
-      "source": "Wired",
-      "published": "2026-06-10T10:00:00+00:00",
-      "link": "https://www.wired.com/story/artificial-intelligence-sneaks-into-the-world-cup-thanks-to-google-gemini/"
     }
   ]
 };
