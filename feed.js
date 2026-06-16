@@ -1,6 +1,20 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-06-16T18:05:11.455042+00:00",
+  "lastUpdated": "2026-06-16T20:10:22.360079+00:00",
   "items": [
+    {
+      "title": "Microsoft's Copilot Cowork moves to usage-based billing and may tap DeepSeek",
+      "summary": "Microsoft is weighing a fine-tuned version of Deepseek V4 as a cheaper model option for Copilot Cowork. The company is also switching to usage-based billing, since Copilot head Charles Lamanna says flat-rate pricing isn't sustainable.",
+      "source": "The Decoder",
+      "published": "2026-06-16T19:32:38+00:00",
+      "link": "https://the-decoder.com/microsofts-copilot-cowork-moves-to-usage-based-billing-and-may-tap-deepseek/"
+    },
+    {
+      "title": "Berlin court rules Google's AI Overviews are just a new search format, not original content",
+      "summary": "A Berlin court has ruled that Google's AI-generated summaries are just a \"new search result format\" and that Google has no \"decisive influence\" over the content.",
+      "source": "The Decoder",
+      "published": "2026-06-16T18:19:40+00:00",
+      "link": "https://the-decoder.com/berlin-court-rules-googles-ai-overviews-are-just-a-new-search-format-not-original-content/"
+    },
     {
       "title": "Android 17 launches with new multitasking tools as Google expands Gemini features",
       "summary": "Google has released Android 17 and Wear OS 7, introducing new multitasking features, parental controls, security tools, and smartwatch upgrades. The launch is also accompanied by a Pixel Drop that brings Google’s latest AI models to its devices.",
@@ -112,6 +126,13 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-06-16T11:21:41+00:00",
       "link": "https://techcrunch.com/2026/06/16/spacex-to-acquire-cursor-for-60b-in-stock-days-after-blockbuster-ipo/"
+    },
+    {
+      "title": "Critical Copilot vulnerability allowed hackers to steal 2FA code from users",
+      "summary": "SearchLeak exploit shows why the industry's approach to LLM security fails over and over.",
+      "source": "Ars Technica",
+      "published": "2026-06-16T11:15:46+00:00",
+      "link": "https://arstechnica.com/security/2026/06/critical-copilot-vulnerability-allowed-hackers-to-seal-2fa-code-from-users/"
     },
     {
       "title": "Critical Copilot vulnerability allowed hackers to seal 2FA code from users",
@@ -1379,27 +1400,6 @@ const FEED_DATA = {
       "source": "Wired",
       "published": "2026-06-10T10:00:00+00:00",
       "link": "https://www.wired.com/story/artificial-intelligence-sneaks-into-the-world-cup-thanks-to-google-gemini/"
-    },
-    {
-      "title": "Meta signs first AI data center deal in India with Reliance",
-      "summary": "The 168-megawatt facility will support Meta's global AI computing needs and can be expanded over time.",
-      "source": "TechCrunch",
-      "published": "2026-06-10T07:05:26+00:00",
-      "link": "https://techcrunch.com/2026/06/10/meta-signs-first-ai-data-center-deal-in-india-with-reliance/"
-    },
-    {
-      "title": "Rich Sutton on AI creativity and discovery",
-      "summary": "https://www.youtube.com/watch?v=K5LAFEjTlBA Comments URL: https://news.ycombinator.com/item?id=48470581 Points: 210 # Comments: 125",
-      "source": "Hacker News",
-      "published": "2026-06-10T02:25:24+00:00",
-      "link": "https://twitter.com/RichardSSutton/status/2061216087744946656"
-    },
-    {
-      "title": "German ruling declares Google liable for false answers in AI Overviews",
-      "summary": "Article URL: https://the-decoder.com/landmark-german-ruling-declares-googles-ai-overviews-are-googles-own-words-and-makes-it-liable-for-false-answers/ Comments URL: https://news.ycombinator.com/item?id=48470248 Points: 1012 # Comments: 538",
-      "source": "Hacker News",
-      "published": "2026-06-10T01:44:13+00:00",
-      "link": "https://the-decoder.com/landmark-german-ruling-declares-googles-ai-overviews-are-googles-own-words-and-makes-it-liable-for-false-answers/"
     }
   ]
 };
