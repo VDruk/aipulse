@@ -1,6 +1,13 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-06-16T22:49:23.823589+00:00",
+  "lastUpdated": "2026-06-17T06:09:15.498955+00:00",
   "items": [
+    {
+      "title": "Wolfram Language and Mathematica Version 15, AI Assistant, Symbolic Music, More",
+      "summary": "Article URL: https://writings.stephenwolfram.com/2026/06/launching-version-15-of-wolfram-language-mathematica-built-in-useful-ai-lots-of-new-core-functionality/ Comments URL: https://news.ycombinator.com/item?id=48563609 Points: 127 # Comments: 43",
+      "source": "Hacker News",
+      "published": "2026-06-16T23:15:44+00:00",
+      "link": "https://writings.stephenwolfram.com/2026/06/launching-version-15-of-wolfram-language-mathematica-built-in-useful-ai-lots-of-new-core-functionality/"
+    },
     {
       "title": "Anthropic’s latest feud with the Trump admin may actually help it, sales data suggests",
       "summary": "Anthropic's popularity with business users is growing so well that the latest beef with the government might actually boost it, data from Ramp suggests.",
@@ -14,6 +21,13 @@ const FEED_DATA = {
       "source": "MIT Tech Review",
       "published": "2026-06-16T20:35:02+00:00",
       "link": "https://www.technologyreview.com/2026/06/16/1138905/exclusive-ebook-how-ai-is-becoming-the-next-military-advisor/"
+    },
+    {
+      "title": "AI is potentially a Dunning-Kruger effect amplifier",
+      "summary": "Article URL: https://twitter.com/i/status/2066825204207091926 Comments URL: https://news.ycombinator.com/item?id=48560913 Points: 55 # Comments: 24",
+      "source": "Hacker News",
+      "published": "2026-06-16T19:47:13+00:00",
+      "link": "https://twitter.com/i/status/2066825204207091926"
     },
     {
       "title": "Microsoft's Copilot Cowork moves to usage-based billing and may tap DeepSeek",
@@ -38,7 +52,7 @@ const FEED_DATA = {
     },
     {
       "title": "GPT‑NL: a sovereign language model for the Netherlands",
-      "summary": "Article URL: https://www.tno.nl/en/digital/artificial-intelligence/gpt-nl/ Comments URL: https://news.ycombinator.com/item?id=48559188 Points: 114 # Comments: 105",
+      "summary": "Article URL: https://www.tno.nl/en/digital/artificial-intelligence/gpt-nl/ Comments URL: https://news.ycombinator.com/item?id=48559188 Points: 177 # Comments: 153",
       "source": "Hacker News",
       "published": "2026-06-16T17:54:02+00:00",
       "link": "https://www.tno.nl/en/digital/artificial-intelligence/gpt-nl/"
@@ -52,7 +66,7 @@ const FEED_DATA = {
     },
     {
       "title": "Has AI already killed self-help nonfiction books?",
-      "summary": "Article URL: https://tim.blog/2026/06/12/has-ai-already-killed-nonfiction/ Comments URL: https://news.ycombinator.com/item?id=48558489 Points: 93 # Comments: 105",
+      "summary": "Article URL: https://tim.blog/2026/06/12/has-ai-already-killed-nonfiction/ Comments URL: https://news.ycombinator.com/item?id=48558489 Points: 233 # Comments: 247",
       "source": "Hacker News",
       "published": "2026-06-16T17:11:05+00:00",
       "link": "https://tim.blog/2026/06/12/has-ai-already-killed-nonfiction/"
@@ -80,7 +94,7 @@ const FEED_DATA = {
     },
     {
       "title": "After AI takes everything",
-      "summary": "Article URL: https://ursb.me/en/posts/after-ai-takes-everything/ Comments URL: https://news.ycombinator.com/item?id=48556644 Points: 87 # Comments: 96",
+      "summary": "Article URL: https://ursb.me/en/posts/after-ai-takes-everything/ Comments URL: https://news.ycombinator.com/item?id=48556644 Points: 92 # Comments: 105",
       "source": "Hacker News",
       "published": "2026-06-16T15:20:05+00:00",
       "link": "https://ursb.me/en/posts/after-ai-takes-everything/"
@@ -129,7 +143,7 @@ const FEED_DATA = {
     },
     {
       "title": "Qwen-Robot Suite: A Foundation Model Suite for Physical World Intelligence",
-      "summary": "Article URL: https://qwen.ai/blog?id=qwen-robotsuite Comments URL: https://news.ycombinator.com/item?id=48554814 Points: 104 # Comments: 16",
+      "summary": "Article URL: https://qwen.ai/blog?id=qwen-robotsuite Comments URL: https://news.ycombinator.com/item?id=48554814 Points: 150 # Comments: 23",
       "source": "Hacker News",
       "published": "2026-06-16T13:15:15+00:00",
       "link": "https://qwen.ai/blog?id=qwen-robotsuite"
@@ -269,14 +283,14 @@ const FEED_DATA = {
     },
     {
       "title": "Microsoft turns to AWS as GitHub faces AI capacity crunch",
-      "summary": "Article URL: https://runtimewire.com/article/microsoft-github-aws-ai-capacity-crunch Comments URL: https://news.ycombinator.com/item?id=48549918 Points: 154 # Comments: 70",
+      "summary": "Article URL: https://runtimewire.com/article/microsoft-github-aws-ai-capacity-crunch Comments URL: https://news.ycombinator.com/item?id=48549918 Points: 154 # Comments: 72",
       "source": "Hacker News",
       "published": "2026-06-16T02:47:57+00:00",
       "link": "https://runtimewire.com/article/microsoft-github-aws-ai-capacity-crunch"
     },
     {
       "title": "Humanity isn't ready for the coming intelligence explosion",
-      "summary": "Article URL: https://www.economist.com/by-invitation/2026/06/15/humanity-isnt-ready-for-the-coming-intelligence-explosion Comments URL: https://news.ycombinator.com/item?id=48549628 Points: 166 # Comments: 462",
+      "summary": "Article URL: https://www.economist.com/by-invitation/2026/06/15/humanity-isnt-ready-for-the-coming-intelligence-explosion Comments URL: https://news.ycombinator.com/item?id=48549628 Points: 170 # Comments: 477",
       "source": "Hacker News",
       "published": "2026-06-16T02:00:45+00:00",
       "link": "https://www.economist.com/by-invitation/2026/06/15/humanity-isnt-ready-for-the-coming-intelligence-explosion"
@@ -388,14 +402,14 @@ const FEED_DATA = {
     },
     {
       "title": "My Homelab AI Dev Platform",
-      "summary": "Article URL: https://rsgm.dev/post/ai-dev-platform/ Comments URL: https://news.ycombinator.com/item?id=48542433 Points: 354 # Comments: 56",
+      "summary": "Article URL: https://rsgm.dev/post/ai-dev-platform/ Comments URL: https://news.ycombinator.com/item?id=48542433 Points: 358 # Comments: 57",
       "source": "Hacker News",
       "published": "2026-06-15T15:09:40+00:00",
       "link": "https://rsgm.dev/post/ai-dev-platform/"
     },
     {
       "title": "Ask HN: Has anyone replaced Claude/GPT with a local model for daily coding?",
-      "summary": "Has anyone here fully swapped Claude/GPT for a local model as their main coding tool, not just for side experiments? If so, please share your setup and performance (e.g tok/s) Comments URL: https://news.ycombinator.com/item?id=48542100 Points: 1234 # Comments: 524",
+      "summary": "Has anyone here fully swapped Claude/GPT for a local model as their main coding tool, not just for side experiments? If so, please share your setup and performance (e.g tok/s) Comments URL: https://news.ycombinator.com/item?id=48542100 Points: 1247 # Comments: 534",
       "source": "Hacker News",
       "published": "2026-06-15T14:46:53+00:00",
       "link": "https://news.ycombinator.com/item?id=48542100"
@@ -430,7 +444,7 @@ const FEED_DATA = {
     },
     {
       "title": "Can Europe train a frontier AI model on the compute it owns?",
-      "summary": "Article URL: https://github.com/sammysltd/euromesh Comments URL: https://news.ycombinator.com/item?id=48541014 Points: 137 # Comments: 286",
+      "summary": "Article URL: https://github.com/sammysltd/euromesh Comments URL: https://news.ycombinator.com/item?id=48541014 Points: 138 # Comments: 288",
       "source": "Hacker News",
       "published": "2026-06-15T13:31:09+00:00",
       "link": "https://github.com/sammysltd/euromesh"
@@ -493,7 +507,7 @@ const FEED_DATA = {
     },
     {
       "title": "Show HN: I wrote a C++ ray tracer from scratch without AI",
-      "summary": "Article URL: https://github.com/themartiano/luz Comments URL: https://news.ycombinator.com/item?id=48538833 Points: 149 # Comments: 64",
+      "summary": "Article URL: https://github.com/themartiano/luz Comments URL: https://news.ycombinator.com/item?id=48538833 Points: 151 # Comments: 64",
       "source": "Hacker News",
       "published": "2026-06-15T09:34:10+00:00",
       "link": "https://github.com/themartiano/luz"
@@ -549,7 +563,7 @@ const FEED_DATA = {
     },
     {
       "title": "Rio de Janeiro's \"homegrown\" LLM appears to be a merge of an existing model",
-      "summary": "Article URL: https://github.com/nex-agi/Nex-N2/issues/4 Comments URL: https://news.ycombinator.com/item?id=48528371 Points: 401 # Comments: 229",
+      "summary": "Article URL: https://github.com/nex-agi/Nex-N2/issues/4 Comments URL: https://news.ycombinator.com/item?id=48528371 Points: 401 # Comments: 234",
       "source": "Hacker News",
       "published": "2026-06-14T15:37:31+00:00",
       "link": "https://github.com/nex-agi/Nex-N2/issues/4"
@@ -563,7 +577,7 @@ const FEED_DATA = {
     },
     {
       "title": "Not everyone is using AI for everything",
-      "summary": "Article URL: https://gabrielweinberg.com/p/people-are-consuming-ai-like-they Comments URL: https://news.ycombinator.com/item?id=48527700 Points: 506 # Comments: 543",
+      "summary": "Article URL: https://gabrielweinberg.com/p/people-are-consuming-ai-like-they Comments URL: https://news.ycombinator.com/item?id=48527700 Points: 508 # Comments: 543",
       "source": "Hacker News",
       "published": "2026-06-14T14:44:29+00:00",
       "link": "https://gabrielweinberg.com/p/people-are-consuming-ai-like-they"
@@ -577,7 +591,7 @@ const FEED_DATA = {
     },
     {
       "title": "KPMG pulls report on AI usage due to apparent hallucinations",
-      "summary": "Article URL: https://techcrunch.com/2026/06/13/kpmg-pulls-report-on-ai-usage-due-to-apparent-hallucinations/ Comments URL: https://news.ycombinator.com/item?id=48527297 Points: 153 # Comments: 32",
+      "summary": "Article URL: https://techcrunch.com/2026/06/13/kpmg-pulls-report-on-ai-usage-due-to-apparent-hallucinations/ Comments URL: https://news.ycombinator.com/item?id=48527297 Points: 154 # Comments: 33",
       "source": "Hacker News",
       "published": "2026-06-14T14:01:35+00:00",
       "link": "https://techcrunch.com/2026/06/13/kpmg-pulls-report-on-ai-usage-due-to-apparent-hallucinations/"
@@ -1386,20 +1400,6 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-06-10T13:34:40+00:00",
       "link": "https://the-decoder.com/claude-fable-5-the-first-mythos-model-is-powerful-expensive-and-heavily-filtered/"
-    },
-    {
-      "title": "Jedify raises $24M to help companies arm AI agents with context on their business",
-      "summary": "The funding round was led by Norwest, with participation from S Capital VC, Cerca Partners, and Oceans Ventures. Snowflake Ventures also participated as a strategic investor.",
-      "source": "TechCrunch",
-      "published": "2026-06-10T13:33:09+00:00",
-      "link": "https://techcrunch.com/2026/06/10/jedify-raises-24m-to-help-companies-arm-ai-agents-with-context-on-their-business/"
-    },
-    {
-      "title": "Decart’s new world model can simulate hours of photorealistic driving — with some caveats",
-      "summary": "Decart is launching Oasis 3, a real-time world model that generates photorealistic driving environments for autonomous vehicle testing, now available via API for developers to build on.",
-      "source": "TechCrunch",
-      "published": "2026-06-10T13:07:56+00:00",
-      "link": "https://techcrunch.com/2026/06/10/decarts-new-world-model-can-simulate-hours-of-photorealistic-driving-with-some-caveats/"
     }
   ]
 };
