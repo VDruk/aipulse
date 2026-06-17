@@ -1,6 +1,69 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-06-17T12:42:47.529529+00:00",
+  "lastUpdated": "2026-06-17T16:39:28.471865+00:00",
   "items": [
+    {
+      "title": "Google bets on Gemini to reinvent the smart home speaker",
+      "summary": "Google is betting generative AI can breathe new life into the smart speaker. The company's new $99.99 Google Home Speaker replaces the rigid commands of the Google Assistant era with more conversational Gemini interactions.",
+      "source": "TechCrunch",
+      "published": "2026-06-17T16:30:09+00:00",
+      "link": "https://techcrunch.com/2026/06/17/google-bets-on-gemini-to-reinvent-the-smart-home-speaker/"
+    },
+    {
+      "title": "Vibe-decoding the White House-Anthropic fight over Fable",
+      "summary": "Hello and welcome to Regulator, an email for Verge subscribers about technology, politics, and what happens when science crashes headlong into self-interest. Not a subscriber?",
+      "source": "The Verge",
+      "published": "2026-06-17T16:27:00+00:00",
+      "link": "https://www.theverge.com/column/951516/trump-anthropic-feud-mythos-fable-white-house"
+    },
+    {
+      "title": "Collecting robot training data is dirty, unglamorous work. Some AI labs are already paying XDOF to do it.",
+      "summary": "If physical AI is going to match the accomplishments of LLMs, there's a data problem that needs to be solved.",
+      "source": "TechCrunch",
+      "published": "2026-06-17T15:00:00+00:00",
+      "link": "https://techcrunch.com/2026/06/17/collecting-robot-training-data-is-dirty-unglamorous-work-some-ai-labs-are-already-paying-xdof-to-do-it/"
+    },
+    {
+      "title": "Nvidia research shows robots that train themselves through AI coding agents",
+      "summary": "Researchers from Nvidia, Carnegie Mellon University, and UC Berkeley are using AI coding agents to teach robots dexterous grasping in the real world. A fleet of eight robots hits up to 99 percent success on tricky tasks.",
+      "source": "The Decoder",
+      "published": "2026-06-17T14:55:28+00:00",
+      "link": "https://the-decoder.com/nvidia-research-shows-robots-that-train-themselves-through-ai-coding-agents/"
+    },
+    {
+      "title": "OpenAI researchers want to predict how often AI models will fail before launch",
+      "summary": "OpenAI researchers propose a method for predicting how often a new AI model will make mistakes after release. It could fill gaps left by standard safety testing.",
+      "source": "The Decoder",
+      "published": "2026-06-17T14:30:22+00:00",
+      "link": "https://the-decoder.com/openai-researchers-want-to-predict-how-often-ai-models-will-fail-before-launch/"
+    },
+    {
+      "title": "AI demands more engineering discipline. Not less",
+      "summary": "Article URL: https://charitydotwtf.substack.com/p/ai-demands-more-engineering-discipline Comments URL: https://news.ycombinator.com/item?id=48570948 Points: 124 # Comments: 43",
+      "source": "Hacker News",
+      "published": "2026-06-17T14:20:44+00:00",
+      "link": "https://charitydotwtf.substack.com/p/ai-demands-more-engineering-discipline"
+    },
+    {
+      "title": "Pramaana Labs raises $27M seed round from Khosla Ventures to bring formal verification to AI",
+      "summary": "Pramaana will focus on highly sensitive verticals like law, drug discovery, and tax preparation — where errors can be costly and reliability is at a premium.",
+      "source": "TechCrunch",
+      "published": "2026-06-17T14:15:22+00:00",
+      "link": "https://techcrunch.com/2026/06/17/pramaana-labs-raises-27-million-seed-round-from-khosla-ventures-to-bring-formal-verification-to-ai/"
+    },
+    {
+      "title": "AI search grounded in Facebook posts? What could go wrong?",
+      "summary": "AI is pretty reliable at putting things on your calendar these days, but it hasn't quite cracked answering the related and all-important question of \"What should I do this weekend?\" Meta's new AI Mode in search could be a useful tool - if it ever learns to stop getting stuff...",
+      "source": "The Verge",
+      "published": "2026-06-17T13:30:00+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/951099/meta-ai-mode-search-hands-on"
+    },
+    {
+      "title": "The Gemini-Powered Google Home Speaker Is Finally Here",
+      "summary": "Arriving six years after Google’s last smart speaker, the new HomePod-style device was redesigned to play host to Gemini’s chatbot.",
+      "source": "Wired",
+      "published": "2026-06-17T13:00:00+00:00",
+      "link": "https://www.wired.com/story/the-gemini-powered-google-home-speaker-is-finally-here/"
+    },
     {
       "title": "Canadian pension giant joins race to fund India’s AI-fueled data center boom",
       "summary": "The Canadian pension giant will acquire an 8.2% stake in CtrlS, a tech giant that operates more than 15 data centers across India.",
@@ -37,8 +100,15 @@ const FEED_DATA = {
       "link": "https://the-decoder.com/hyperscalers-may-soon-be-unable-to-fund-their-ai-buildout-from-cash-flow-alone/"
     },
     {
+      "title": "Show HN: I built 184 free browser tools – PDF, image, dev, AI tasks, no upload",
+      "summary": "Article URL: https://brevio.pro Comments URL: https://news.ycombinator.com/item?id=48568023 Points: 70 # Comments: 16",
+      "source": "Hacker News",
+      "published": "2026-06-17T09:48:59+00:00",
+      "link": "https://brevio.pro"
+    },
+    {
       "title": "GLM-5.2 is the new leading open weights model on Artificial Analysis",
-      "summary": "Article URL: https://artificialanalysis.ai/articles/glm-5-2-is-the-new-leading-open-weights-model-on-the-artificial-analysis-intelligence-index Comments URL: https://news.ycombinator.com/item?id=48567759 Points: 262 # Comments: 121",
+      "summary": "Article URL: https://artificialanalysis.ai/articles/glm-5-2-is-the-new-leading-open-weights-model-on-the-artificial-analysis-intelligence-index Comments URL: https://news.ycombinator.com/item?id=48567759 Points: 547 # Comments: 294",
       "source": "Hacker News",
       "published": "2026-06-17T09:12:00+00:00",
       "link": "https://artificialanalysis.ai/articles/glm-5-2-is-the-new-leading-open-weights-model-on-the-artificial-analysis-intelligence-index"
@@ -59,7 +129,7 @@ const FEED_DATA = {
     },
     {
       "title": "The founder's playbook: Building an AI-native startup",
-      "summary": "Article URL: https://claude.com/blog/the-founders-playbook Comments URL: https://news.ycombinator.com/item?id=48566832 Points: 115 # Comments: 110",
+      "summary": "Article URL: https://claude.com/blog/the-founders-playbook Comments URL: https://news.ycombinator.com/item?id=48566832 Points: 143 # Comments: 129",
       "source": "Hacker News",
       "published": "2026-06-17T07:04:42+00:00",
       "link": "https://claude.com/blog/the-founders-playbook"
@@ -87,7 +157,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI is potentially a Dunning-Kruger effect amplifier",
-      "summary": "Article URL: https://twitter.com/i/status/2066825204207091926 Comments URL: https://news.ycombinator.com/item?id=48560913 Points: 62 # Comments: 27",
+      "summary": "Article URL: https://twitter.com/i/status/2066825204207091926 Comments URL: https://news.ycombinator.com/item?id=48560913 Points: 65 # Comments: 27",
       "source": "Hacker News",
       "published": "2026-06-16T19:47:13+00:00",
       "link": "https://twitter.com/i/status/2066825204207091926"
@@ -115,7 +185,7 @@ const FEED_DATA = {
     },
     {
       "title": "GPT‑NL: a sovereign language model for the Netherlands",
-      "summary": "Article URL: https://www.tno.nl/en/digital/artificial-intelligence/gpt-nl/ Comments URL: https://news.ycombinator.com/item?id=48559188 Points: 225 # Comments: 240",
+      "summary": "Article URL: https://www.tno.nl/en/digital/artificial-intelligence/gpt-nl/ Comments URL: https://news.ycombinator.com/item?id=48559188 Points: 245 # Comments: 281",
       "source": "Hacker News",
       "published": "2026-06-16T17:54:02+00:00",
       "link": "https://www.tno.nl/en/digital/artificial-intelligence/gpt-nl/"
@@ -129,7 +199,7 @@ const FEED_DATA = {
     },
     {
       "title": "Has AI already killed self-help nonfiction books?",
-      "summary": "Article URL: https://tim.blog/2026/06/12/has-ai-already-killed-nonfiction/ Comments URL: https://news.ycombinator.com/item?id=48558489 Points: 333 # Comments: 389",
+      "summary": "Article URL: https://tim.blog/2026/06/12/has-ai-already-killed-nonfiction/ Comments URL: https://news.ycombinator.com/item?id=48558489 Points: 382 # Comments: 439",
       "source": "Hacker News",
       "published": "2026-06-16T17:11:05+00:00",
       "link": "https://tim.blog/2026/06/12/has-ai-already-killed-nonfiction/"
@@ -157,7 +227,7 @@ const FEED_DATA = {
     },
     {
       "title": "After AI takes everything",
-      "summary": "Article URL: https://ursb.me/en/posts/after-ai-takes-everything/ Comments URL: https://news.ycombinator.com/item?id=48556644 Points: 98 # Comments: 109",
+      "summary": "Article URL: https://ursb.me/en/posts/after-ai-takes-everything/ Comments URL: https://news.ycombinator.com/item?id=48556644 Points: 100 # Comments: 111",
       "source": "Hacker News",
       "published": "2026-06-16T15:20:05+00:00",
       "link": "https://ursb.me/en/posts/after-ai-takes-everything/"
@@ -206,7 +276,7 @@ const FEED_DATA = {
     },
     {
       "title": "Qwen-Robot Suite: A Foundation Model Suite for Physical World Intelligence",
-      "summary": "Article URL: https://qwen.ai/blog?id=qwen-robotsuite Comments URL: https://news.ycombinator.com/item?id=48554814 Points: 194 # Comments: 36",
+      "summary": "Article URL: https://qwen.ai/blog?id=qwen-robotsuite Comments URL: https://news.ycombinator.com/item?id=48554814 Points: 204 # Comments: 38",
       "source": "Hacker News",
       "published": "2026-06-16T13:15:15+00:00",
       "link": "https://qwen.ai/blog?id=qwen-robotsuite"
@@ -346,14 +416,14 @@ const FEED_DATA = {
     },
     {
       "title": "Microsoft turns to AWS as GitHub faces AI capacity crunch",
-      "summary": "Article URL: https://runtimewire.com/article/microsoft-github-aws-ai-capacity-crunch Comments URL: https://news.ycombinator.com/item?id=48549918 Points: 154 # Comments: 73",
+      "summary": "Article URL: https://runtimewire.com/article/microsoft-github-aws-ai-capacity-crunch Comments URL: https://news.ycombinator.com/item?id=48549918 Points: 154 # Comments: 75",
       "source": "Hacker News",
       "published": "2026-06-16T02:47:57+00:00",
       "link": "https://runtimewire.com/article/microsoft-github-aws-ai-capacity-crunch"
     },
     {
       "title": "Humanity isn't ready for the coming intelligence explosion",
-      "summary": "Article URL: https://www.economist.com/by-invitation/2026/06/15/humanity-isnt-ready-for-the-coming-intelligence-explosion Comments URL: https://news.ycombinator.com/item?id=48549628 Points: 177 # Comments: 487",
+      "summary": "Article URL: https://www.economist.com/by-invitation/2026/06/15/humanity-isnt-ready-for-the-coming-intelligence-explosion Comments URL: https://news.ycombinator.com/item?id=48549628 Points: 181 # Comments: 496",
       "source": "Hacker News",
       "published": "2026-06-16T02:00:45+00:00",
       "link": "https://www.economist.com/by-invitation/2026/06/15/humanity-isnt-ready-for-the-coming-intelligence-explosion"
@@ -472,7 +542,7 @@ const FEED_DATA = {
     },
     {
       "title": "Ask HN: Has anyone replaced Claude/GPT with a local model for daily coding?",
-      "summary": "Has anyone here fully swapped Claude/GPT for a local model as their main coding tool, not just for side experiments? If so, please share your setup and performance (e.g tok/s) Comments URL: https://news.ycombinator.com/item?id=48542100 Points: 1266 # Comments: 538",
+      "summary": "Has anyone here fully swapped Claude/GPT for a local model as their main coding tool, not just for side experiments? If so, please share your setup and performance (e.g tok/s) Comments URL: https://news.ycombinator.com/item?id=48542100 Points: 1276 # Comments: 541",
       "source": "Hacker News",
       "published": "2026-06-15T14:46:53+00:00",
       "link": "https://news.ycombinator.com/item?id=48542100"
@@ -507,7 +577,7 @@ const FEED_DATA = {
     },
     {
       "title": "Can Europe train a frontier AI model on the compute it owns?",
-      "summary": "Article URL: https://github.com/sammysltd/euromesh Comments URL: https://news.ycombinator.com/item?id=48541014 Points: 140 # Comments: 290",
+      "summary": "Article URL: https://github.com/sammysltd/euromesh Comments URL: https://news.ycombinator.com/item?id=48541014 Points: 142 # Comments: 291",
       "source": "Hacker News",
       "published": "2026-06-15T13:31:09+00:00",
       "link": "https://github.com/sammysltd/euromesh"
@@ -570,7 +640,7 @@ const FEED_DATA = {
     },
     {
       "title": "Show HN: I wrote a C++ ray tracer from scratch without AI",
-      "summary": "Article URL: https://github.com/themartiano/luz Comments URL: https://news.ycombinator.com/item?id=48538833 Points: 153 # Comments: 64",
+      "summary": "Article URL: https://github.com/themartiano/luz Comments URL: https://news.ycombinator.com/item?id=48538833 Points: 154 # Comments: 64",
       "source": "Hacker News",
       "published": "2026-06-15T09:34:10+00:00",
       "link": "https://github.com/themartiano/luz"
@@ -1330,76 +1400,6 @@ const FEED_DATA = {
       "source": "The Verge",
       "published": "2026-06-10T18:43:34+00:00",
       "link": "https://www.theverge.com/ai-artificial-intelligence/947973/fable-wont-answer-basic-biology-questions"
-    },
-    {
-      "title": "Policy on the AI Exponential",
-      "summary": "Article URL: https://darioamodei.com/post/policy-on-the-ai-exponential Comments URL: https://news.ycombinator.com/item?id=48480719 Points: 169 # Comments: 257",
-      "source": "Hacker News",
-      "published": "2026-06-10T18:36:04+00:00",
-      "link": "https://darioamodei.com/post/policy-on-the-ai-exponential"
-    },
-    {
-      "title": "OpenAI's IPO slips as Altman tells staff to expect a public offering \"within the next year\"",
-      "summary": "Sam Altman told employees he expects an OpenAI IPO \"within the next year,\" but a delay to 2027 is possible. He frames it as caution around self-improving AI, though Anthropic's stronger growth numbers and imminent IPO may be the real reason to wait.",
-      "source": "The Decoder",
-      "published": "2026-06-10T18:27:00+00:00",
-      "link": "https://the-decoder.com/openais-ipo-slips-as-altman-tells-staff-to-expect-a-public-offering-within-the-next-year/"
-    },
-    {
-      "title": "Microsoft, like, totally gets why students are booing AI-pilled graduation speakers",
-      "summary": "New college graduates around the country have been booing and heckling commencement speakers who hype up AI. Microsoft would like everyone to talk it out.",
-      "source": "The Verge",
-      "published": "2026-06-10T17:45:11+00:00",
-      "link": "https://www.theverge.com/news/947831/college-speakers-booed-ai-microsoft"
-    },
-    {
-      "title": "Anthropic study shows AI needs hours, not weeks, to build exploits from security patches",
-      "summary": "Anthropic's security team found that its Mythos Preview AI model can turn security patches for Firefox and the Windows kernel into working exploits within hours, for a few thousand dollars and no specialized knowledge.",
-      "source": "The Decoder",
-      "published": "2026-06-10T17:38:24+00:00",
-      "link": "https://the-decoder.com/anthropic-study-shows-ai-needs-hours-not-weeks-to-build-exploits-from-security-patches/"
-    },
-    {
-      "title": "The future of AI regulation is courting the strangest, most anxious bedfellows",
-      "summary": "Hello and welcome to Regulator, a newsletter for Verge subscribers about tech politics, tech influence, and tech shenanigans in Washington, DC.",
-      "source": "The Verge",
-      "published": "2026-06-10T17:38:00+00:00",
-      "link": "https://www.theverge.com/column/947838/washington-ai-network-honors-2026-midterms"
-    },
-    {
-      "title": "Google won’t just admit it’s feeding YouTube creators to its music AI",
-      "summary": "If you've uploaded a song to YouTube, Google almost certainly considers your video fair game for training its Lyria music AI, it just won't admit it right now.",
-      "source": "The Verge",
-      "published": "2026-06-10T17:20:36+00:00",
-      "link": "https://www.theverge.com/tech/947770/google-lyria-music-ai-lawsuit-youtube"
-    },
-    {
-      "title": "‘AI-pilled’ firms spend $7,500 per employee each month on AI",
-      "summary": "The most AI-obsessed firms are spending roughly $7,500 monthly per employee on AI, per Ramp AI Index. That's not more than an engineer's salary — yet.",
-      "source": "TechCrunch",
-      "published": "2026-06-10T17:07:35+00:00",
-      "link": "https://techcrunch.com/2026/06/10/ai-pilled-firms-spend-7500-per-employee-each-month-on-ai/"
-    },
-    {
-      "title": "Microsoft restricts Claude Fable for employees over data retention concerns",
-      "summary": "Anthropic released Claude Fable, its first Mythos-class AI model, yesterday and it's already causing concerns inside Microsoft. Sources tell me that Microsoft is limiting the use of Claude Fable 5 for employees because of Anthropic's new data retention requirements.",
-      "source": "The Verge",
-      "published": "2026-06-10T16:50:23+00:00",
-      "link": "https://www.theverge.com/report/947575/microsoft-claude-fable-5-restricted-internally"
-    },
-    {
-      "title": "Google will save your Lens photos, Search Live recordings, and Translate audio for AI training",
-      "summary": "Google is making some changes to how it saves your interactions with Search. In an email sent to users, Google says it will save the images, files, audio, and video you use to search under a new \"Search Services History\" setting.",
-      "source": "The Verge",
-      "published": "2026-06-10T16:18:45+00:00",
-      "link": "https://www.theverge.com/tech/947836/google-search-privacy-settings-images-audio"
-    },
-    {
-      "title": "How memory tools can make AI models worse",
-      "summary": "New research suggests that AI memory systems can degrade model performance and encourage sycophantic tendencies.",
-      "source": "TechCrunch",
-      "published": "2026-06-10T16:11:08+00:00",
-      "link": "https://techcrunch.com/2026/06/10/how-memory-tools-can-make-ai-models-worse/"
     }
   ]
 };
