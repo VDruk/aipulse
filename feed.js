@@ -1,6 +1,90 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-06-17T16:39:28.471865+00:00",
+  "lastUpdated": "2026-06-17T19:21:22.599664+00:00",
   "items": [
+    {
+      "title": "World leaders want American AI. They just don’t want America to be able to turn it off.",
+      "summary": "French President Macron and Indian PM Modi raised alarms at the G7 summit that the U.S. could cut off access to American AI overnight — a fear the Anthropic blackout just made real.",
+      "source": "TechCrunch",
+      "published": "2026-06-17T19:01:19+00:00",
+      "link": "https://techcrunch.com/2026/06/17/world-leaders-want-american-ai-they-just-dont-want-america-to-be-able-to-turn-it-off/"
+    },
+    {
+      "title": "Microsoft researcher builds a working neural network out of goats in Age of Empires II to critique AI science",
+      "summary": "A Microsoft researcher built a working neural network out of goats, bridges, and ice ramps in the Age of Empires II map editor. What looks like a joke is a pointed critique of AI research methods.",
+      "source": "The Decoder",
+      "published": "2026-06-17T18:43:47+00:00",
+      "link": "https://the-decoder.com/microsoft-researcher-builds-a-working-neural-network-out-of-goats-in-age-of-empires-ii-to-critique-ai-science/"
+    },
+    {
+      "title": "Anthropic becomes first AI startup to join the Frontier carbon removal coalition",
+      "summary": "Anthropic has joined the Frontier coalition, which received another $915M in pledges to fund carbon removal projects.",
+      "source": "TechCrunch",
+      "published": "2026-06-17T18:30:56+00:00",
+      "link": "https://techcrunch.com/2026/06/17/anthropic-becomes-first-ai-startup-to-join-the-frontier-carbon-removal-coalition/"
+    },
+    {
+      "title": "Anthropic got hit by export rules nobody understands",
+      "summary": "Anthropic has spent much of this week fighting to get its newest AI models back online after the Trump administration abruptly ordered the company to cut access for all foreign nationals, including users inside the US and its own employees, forcing Anthropic to block access to...",
+      "source": "The Verge",
+      "published": "2026-06-17T18:28:50+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/951703/anthropic-shutdown-export-controls"
+    },
+    {
+      "title": "Operating a Humanoid With Your Body Is a Hot Job in China’s Hardware Capital",
+      "summary": "In Shenzhen, workers at IO-AI Tech control humanoid robots using a VR rig reminiscent of Ready Player One.",
+      "source": "Wired",
+      "published": "2026-06-17T18:25:35+00:00",
+      "link": "https://www.wired.com/story/humanoid-robot-training-in-chinas-hardware-capital/"
+    },
+    {
+      "title": "Amazon, Nvidia, and AMD bet $310 million on AI startup building 3D world models",
+      "summary": "Amazon, Nvidia, and AMD are putting $310 million into world model startup Odyssey ML, now valued at $1.45 billion. CIA-linked fund IQT and Google chief scientist Jeff Dean are also backing the round.",
+      "source": "The Decoder",
+      "published": "2026-06-17T18:21:23+00:00",
+      "link": "https://the-decoder.com/amazon-nvidia-and-amd-bet-310-million-on-ai-startup-building-3d-world-models/"
+    },
+    {
+      "title": "\"Dangerous\" AI models are coming no matter what",
+      "summary": "AI models with advanced hacking capabilities will soon be the norm.",
+      "source": "Ars Technica",
+      "published": "2026-06-17T17:50:46+00:00",
+      "link": "https://arstechnica.com/ai/2026/06/dangerous-ai-models-are-coming-no-matter-what/"
+    },
+    {
+      "title": "World model maker Odyssey nabs $1.45B valuation backed by Amazon and other big names",
+      "summary": "World models are the next big thing in AI beyond LLMs and, with this round, Odyssey has cemented itself as one of the startups to watch.",
+      "source": "TechCrunch",
+      "published": "2026-06-17T17:43:07+00:00",
+      "link": "https://techcrunch.com/2026/06/17/world-model-maker-odyssey-nabs-1-45b-valuation-backed-by-amazon-and-other-big-names/"
+    },
+    {
+      "title": "Zhipu AI's GLM-5.2 closes in on closed-source leaders in coding marathons",
+      "summary": "Chinese AI lab Zhipu AI releases GLM-5.2 with a stable 1-million-token context under the MIT license. On FrontierSWE, a benchmark for hours-long coding tasks, the open-source model trails Anthropic's Claude Opus 4.8 by just one percentage point.",
+      "source": "The Decoder",
+      "published": "2026-06-17T17:30:00+00:00",
+      "link": "https://the-decoder.com/zhipu-ais-glm-5-2-closes-in-on-closed-source-leaders-in-coding-marathons/"
+    },
+    {
+      "title": "Two-thirds of Americans think AI is advancing too quickly",
+      "summary": "According to the latest Pew Research poll, 49 percent of Americans report using chatbots at least occasionally, but 63 percent think the tech is advancing too quickly. Overall, use of AI chatbots has increased dramatically since 2024, when only 33 percent reported using them.",
+      "source": "The Verge",
+      "published": "2026-06-17T17:20:24+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/951653/pew-research-ai-chatbot-usage-advancing-too-quickly"
+    },
+    {
+      "title": "Only 16 percent of Americans think AI will have a positive impact on society, a new study shows",
+      "summary": "Although Wall Street loves AI, every day Americans are significantly less optimistic about the industry, a new report from Pew Research shows.",
+      "source": "TechCrunch",
+      "published": "2026-06-17T17:00:01+00:00",
+      "link": "https://techcrunch.com/2026/06/17/only-16-percent-of-americans-think-ai-will-have-a-positive-impact-on-society-a-new-study-shows/"
+    },
+    {
+      "title": "The White House Wants Anthropic to Block All Jailbreaks. That May Not Be Possible",
+      "summary": "Trump administration officials tell WIRED that if Anthropic wants to rerelease Fable 5, it will need to ensure the model's guardrails can't be circumvented. Security experts say that can't be done.",
+      "source": "Wired",
+      "published": "2026-06-17T17:00:00+00:00",
+      "link": "https://www.wired.com/story/the-white-house-wants-anthropic-to-block-all-jailbreaks-that-may-not-be-possible/"
+    },
     {
       "title": "Google bets on Gemini to reinvent the smart home speaker",
       "summary": "Google is betting generative AI can breathe new life into the smart speaker. The company's new $99.99 Google Home Speaker replaces the rigid commands of the Google Assistant era with more conversational Gemini interactions.",
@@ -14,6 +98,13 @@ const FEED_DATA = {
       "source": "The Verge",
       "published": "2026-06-17T16:27:00+00:00",
       "link": "https://www.theverge.com/column/951516/trump-anthropic-feud-mythos-fable-white-house"
+    },
+    {
+      "title": "Launch HN: Adam (YC W25) – Open-Source AI CAD",
+      "summary": "Hey HN! I'm Zach from Adam (https://adam.new/).",
+      "source": "Hacker News",
+      "published": "2026-06-17T16:14:04+00:00",
+      "link": "https://github.com/Adam-CAD/CADAM"
     },
     {
       "title": "Collecting robot training data is dirty, unglamorous work. Some AI labs are already paying XDOF to do it.",
@@ -37,8 +128,15 @@ const FEED_DATA = {
       "link": "https://the-decoder.com/openai-researchers-want-to-predict-how-often-ai-models-will-fail-before-launch/"
     },
     {
+      "title": "Pentagon boasts of using AI to write reports mandated by Congress (1.5mil users)",
+      "summary": "Article URL: https://arstechnica.com/ai/2026/06/pentagon-boasts-of-using-ai-to-write-reports-mandated-by-congress/ Comments URL: https://news.ycombinator.com/item?id=48571016 Points: 62 # Comments: 43",
+      "source": "Hacker News",
+      "published": "2026-06-17T14:26:07+00:00",
+      "link": "https://arstechnica.com/ai/2026/06/pentagon-boasts-of-using-ai-to-write-reports-mandated-by-congress/"
+    },
+    {
       "title": "AI demands more engineering discipline. Not less",
-      "summary": "Article URL: https://charitydotwtf.substack.com/p/ai-demands-more-engineering-discipline Comments URL: https://news.ycombinator.com/item?id=48570948 Points: 124 # Comments: 43",
+      "summary": "Article URL: https://charitydotwtf.substack.com/p/ai-demands-more-engineering-discipline Comments URL: https://news.ycombinator.com/item?id=48570948 Points: 232 # Comments: 114",
       "source": "Hacker News",
       "published": "2026-06-17T14:20:44+00:00",
       "link": "https://charitydotwtf.substack.com/p/ai-demands-more-engineering-discipline"
@@ -101,14 +199,14 @@ const FEED_DATA = {
     },
     {
       "title": "Show HN: I built 184 free browser tools – PDF, image, dev, AI tasks, no upload",
-      "summary": "Article URL: https://brevio.pro Comments URL: https://news.ycombinator.com/item?id=48568023 Points: 70 # Comments: 16",
+      "summary": "Article URL: https://brevio.pro Comments URL: https://news.ycombinator.com/item?id=48568023 Points: 79 # Comments: 26",
       "source": "Hacker News",
       "published": "2026-06-17T09:48:59+00:00",
       "link": "https://brevio.pro"
     },
     {
       "title": "GLM-5.2 is the new leading open weights model on Artificial Analysis",
-      "summary": "Article URL: https://artificialanalysis.ai/articles/glm-5-2-is-the-new-leading-open-weights-model-on-the-artificial-analysis-intelligence-index Comments URL: https://news.ycombinator.com/item?id=48567759 Points: 547 # Comments: 294",
+      "summary": "Article URL: https://artificialanalysis.ai/articles/glm-5-2-is-the-new-leading-open-weights-model-on-the-artificial-analysis-intelligence-index Comments URL: https://news.ycombinator.com/item?id=48567759 Points: 639 # Comments: 332",
       "source": "Hacker News",
       "published": "2026-06-17T09:12:00+00:00",
       "link": "https://artificialanalysis.ai/articles/glm-5-2-is-the-new-leading-open-weights-model-on-the-artificial-analysis-intelligence-index"
@@ -129,7 +227,7 @@ const FEED_DATA = {
     },
     {
       "title": "The founder's playbook: Building an AI-native startup",
-      "summary": "Article URL: https://claude.com/blog/the-founders-playbook Comments URL: https://news.ycombinator.com/item?id=48566832 Points: 143 # Comments: 129",
+      "summary": "Article URL: https://claude.com/blog/the-founders-playbook Comments URL: https://news.ycombinator.com/item?id=48566832 Points: 170 # Comments: 137",
       "source": "Hacker News",
       "published": "2026-06-17T07:04:42+00:00",
       "link": "https://claude.com/blog/the-founders-playbook"
@@ -157,7 +255,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI is potentially a Dunning-Kruger effect amplifier",
-      "summary": "Article URL: https://twitter.com/i/status/2066825204207091926 Comments URL: https://news.ycombinator.com/item?id=48560913 Points: 65 # Comments: 27",
+      "summary": "Article URL: https://twitter.com/i/status/2066825204207091926 Comments URL: https://news.ycombinator.com/item?id=48560913 Points: 65 # Comments: 29",
       "source": "Hacker News",
       "published": "2026-06-16T19:47:13+00:00",
       "link": "https://twitter.com/i/status/2066825204207091926"
@@ -185,21 +283,14 @@ const FEED_DATA = {
     },
     {
       "title": "GPT‑NL: a sovereign language model for the Netherlands",
-      "summary": "Article URL: https://www.tno.nl/en/digital/artificial-intelligence/gpt-nl/ Comments URL: https://news.ycombinator.com/item?id=48559188 Points: 245 # Comments: 281",
+      "summary": "Article URL: https://www.tno.nl/en/digital/artificial-intelligence/gpt-nl/ Comments URL: https://news.ycombinator.com/item?id=48559188 Points: 248 # Comments: 285",
       "source": "Hacker News",
       "published": "2026-06-16T17:54:02+00:00",
       "link": "https://www.tno.nl/en/digital/artificial-intelligence/gpt-nl/"
     },
     {
-      "title": "‘Dangerous’ AI Models Are Coming No Matter What",
-      "summary": "The US government crackdown on Anthropic’s Claude Fable 5 and Mythos 5 hides a glaring truth: AI models with advanced hacking capabilities will soon be the norm.",
-      "source": "Wired",
-      "published": "2026-06-16T17:50:52+00:00",
-      "link": "https://www.wired.com/story/dangerous-ai-models-are-coming-no-matter-what/"
-    },
-    {
       "title": "Has AI already killed self-help nonfiction books?",
-      "summary": "Article URL: https://tim.blog/2026/06/12/has-ai-already-killed-nonfiction/ Comments URL: https://news.ycombinator.com/item?id=48558489 Points: 382 # Comments: 439",
+      "summary": "Article URL: https://tim.blog/2026/06/12/has-ai-already-killed-nonfiction/ Comments URL: https://news.ycombinator.com/item?id=48558489 Points: 385 # Comments: 456",
       "source": "Hacker News",
       "published": "2026-06-16T17:11:05+00:00",
       "link": "https://tim.blog/2026/06/12/has-ai-already-killed-nonfiction/"
@@ -227,7 +318,7 @@ const FEED_DATA = {
     },
     {
       "title": "After AI takes everything",
-      "summary": "Article URL: https://ursb.me/en/posts/after-ai-takes-everything/ Comments URL: https://news.ycombinator.com/item?id=48556644 Points: 100 # Comments: 111",
+      "summary": "Article URL: https://ursb.me/en/posts/after-ai-takes-everything/ Comments URL: https://news.ycombinator.com/item?id=48556644 Points: 100 # Comments: 112",
       "source": "Hacker News",
       "published": "2026-06-16T15:20:05+00:00",
       "link": "https://ursb.me/en/posts/after-ai-takes-everything/"
@@ -276,7 +367,7 @@ const FEED_DATA = {
     },
     {
       "title": "Qwen-Robot Suite: A Foundation Model Suite for Physical World Intelligence",
-      "summary": "Article URL: https://qwen.ai/blog?id=qwen-robotsuite Comments URL: https://news.ycombinator.com/item?id=48554814 Points: 204 # Comments: 38",
+      "summary": "Article URL: https://qwen.ai/blog?id=qwen-robotsuite Comments URL: https://news.ycombinator.com/item?id=48554814 Points: 206 # Comments: 39",
       "source": "Hacker News",
       "published": "2026-06-16T13:15:15+00:00",
       "link": "https://qwen.ai/blog?id=qwen-robotsuite"
@@ -423,7 +514,7 @@ const FEED_DATA = {
     },
     {
       "title": "Humanity isn't ready for the coming intelligence explosion",
-      "summary": "Article URL: https://www.economist.com/by-invitation/2026/06/15/humanity-isnt-ready-for-the-coming-intelligence-explosion Comments URL: https://news.ycombinator.com/item?id=48549628 Points: 181 # Comments: 496",
+      "summary": "Article URL: https://www.economist.com/by-invitation/2026/06/15/humanity-isnt-ready-for-the-coming-intelligence-explosion Comments URL: https://news.ycombinator.com/item?id=48549628 Points: 182 # Comments: 497",
       "source": "Hacker News",
       "published": "2026-06-16T02:00:45+00:00",
       "link": "https://www.economist.com/by-invitation/2026/06/15/humanity-isnt-ready-for-the-coming-intelligence-explosion"
@@ -535,14 +626,14 @@ const FEED_DATA = {
     },
     {
       "title": "My Homelab AI Dev Platform",
-      "summary": "Article URL: https://rsgm.dev/post/ai-dev-platform/ Comments URL: https://news.ycombinator.com/item?id=48542433 Points: 360 # Comments: 56",
+      "summary": "Article URL: https://rsgm.dev/post/ai-dev-platform/ Comments URL: https://news.ycombinator.com/item?id=48542433 Points: 361 # Comments: 56",
       "source": "Hacker News",
       "published": "2026-06-15T15:09:40+00:00",
       "link": "https://rsgm.dev/post/ai-dev-platform/"
     },
     {
       "title": "Ask HN: Has anyone replaced Claude/GPT with a local model for daily coding?",
-      "summary": "Has anyone here fully swapped Claude/GPT for a local model as their main coding tool, not just for side experiments? If so, please share your setup and performance (e.g tok/s) Comments URL: https://news.ycombinator.com/item?id=48542100 Points: 1276 # Comments: 541",
+      "summary": "Has anyone here fully swapped Claude/GPT for a local model as their main coding tool, not just for side experiments? If so, please share your setup and performance (e.g tok/s) Comments URL: https://news.ycombinator.com/item?id=48542100 Points: 1278 # Comments: 547",
       "source": "Hacker News",
       "published": "2026-06-15T14:46:53+00:00",
       "link": "https://news.ycombinator.com/item?id=48542100"
@@ -640,7 +731,7 @@ const FEED_DATA = {
     },
     {
       "title": "Show HN: I wrote a C++ ray tracer from scratch without AI",
-      "summary": "Article URL: https://github.com/themartiano/luz Comments URL: https://news.ycombinator.com/item?id=48538833 Points: 154 # Comments: 64",
+      "summary": "Article URL: https://github.com/themartiano/luz Comments URL: https://news.ycombinator.com/item?id=48538833 Points: 155 # Comments: 64",
       "source": "Hacker News",
       "published": "2026-06-15T09:34:10+00:00",
       "link": "https://github.com/themartiano/luz"
@@ -1309,97 +1400,6 @@ const FEED_DATA = {
       "source": "AI News",
       "published": "2026-06-11T10:42:38+00:00",
       "link": "https://www.artificialintelligence-news.com/news/xebia-on-building-the-data-foundation-for-ai-agents-and-then-accelerating/"
-    },
-    {
-      "title": "Inside soccer’s data renaissance",
-      "summary": "Imagine tuning in to the opening kickoff of a World Cup match and seeing a player intentionally send the ball all the way down the pitch and right out of bounds on the opponent’s end. Casual fans might scratch their heads.",
-      "source": "MIT Tech Review",
-      "published": "2026-06-11T10:00:00+00:00",
-      "link": "https://www.technologyreview.com/2026/06/11/1138506/inside-soccer-data-renaissance-jesse-davis/"
-    },
-    {
-      "title": "Making a vintage LLM from scratch",
-      "summary": "Article URL: https://crlf.link/log/entries/260525-1/ Comments URL: https://news.ycombinator.com/item?id=48487829 Points: 101 # Comments: 29",
-      "source": "Hacker News",
-      "published": "2026-06-11T08:38:00+00:00",
-      "link": "https://crlf.link/log/entries/260525-1/"
-    },
-    {
-      "title": "Claude Fable 5: Anthropic admits \"wrong tradeoff\" after invisibly throttling rival AI researchers",
-      "summary": "Anthropic reverses course on a policy that would have secretly undermined AI researchers, but another point of contention persists. The article Claude Fable 5: Anthropic admits \"wrong tradeoff\" after invisibly throttling rival AI researchers appeared first on The Decoder.",
-      "source": "The Decoder",
-      "published": "2026-06-11T08:20:54+00:00",
-      "link": "https://the-decoder.com/claude-fable-5-anthropic-admits-wrong-tradeoff-after-invisibly-throttling-rival-ai-researchers/"
-    },
-    {
-      "title": "Deezer launches an AI music detector for other streaming services",
-      "summary": "Deezer will now scan your playlists on other streaming platforms to detect AI-generated music. Deezer was the first of the big streaming services to start labeling AI-generated music.",
-      "source": "The Verge",
-      "published": "2026-06-11T08:00:00+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/948153/deezer-ai-music-detector-spotify-apple"
-    },
-    {
-      "title": "Why AI hasn't replaced software engineers, and won't",
-      "summary": "Article URL: https://www.normaltech.ai/p/why-ai-hasnt-replaced-software-engineers Comments URL: https://news.ycombinator.com/item?id=48487540 Points: 310 # Comments: 356",
-      "source": "Hacker News",
-      "published": "2026-06-11T07:51:17+00:00",
-      "link": "https://www.normaltech.ai/p/why-ai-hasnt-replaced-software-engineers"
-    },
-    {
-      "title": "Opendoor’s India exit is fueling a bigger conversation about AI and outsourcing",
-      "summary": "The decision comes as India emerges as the world’s largest GCC market.",
-      "source": "TechCrunch",
-      "published": "2026-06-11T04:02:19+00:00",
-      "link": "https://techcrunch.com/2026/06/10/opendoors-india-exit-is-fueling-a-bigger-conversation-about-ai-and-outsourcing/"
-    },
-    {
-      "title": "Anthropic’s Dario Amodei has just one direct report",
-      "summary": "If founders and other business leaders weren't already envious of Dario Amodei, who sits atop one of the world's fastest-growing AI companies, they're going to be seriously envious now.",
-      "source": "TechCrunch",
-      "published": "2026-06-11T03:53:06+00:00",
-      "link": "https://techcrunch.com/2026/06/10/anthropics-dario-amodei-has-just-one-direct-report/"
-    },
-    {
-      "title": "Anthropic Walks Back Policy That Could Have ‘Sabotaged’ AI Researchers Using Claude",
-      "summary": "The company changed course after researchers spoke out against the policy, which would have covertly limited Claude’s ability to develop competing AI models.",
-      "source": "Wired",
-      "published": "2026-06-11T03:11:22+00:00",
-      "link": "https://www.wired.com/story/anthropic-responds-to-backlash-on-claudes-secret-sabotage-on-ai-research/"
-    },
-    {
-      "title": "AI agent runs amok in Fedora and elsewhere",
-      "summary": "Article URL: https://lwn.net/SubscriberLink/1077035/c7e7c14fbd60fae9/ Comments URL: https://news.ycombinator.com/item?id=48484584 Points: 549 # Comments: 244",
-      "source": "Hacker News",
-      "published": "2026-06-11T00:10:08+00:00",
-      "link": "https://lwn.net/SubscriberLink/1077035/c7e7c14fbd60fae9/"
-    },
-    {
-      "title": "xAI fired an engineer who raised alarms about Grok safety, new lawsuit claims",
-      "summary": "A former xAI engineer is suing the company and SpaceX, alleging he was fired for raising AI safety concerns about Grok days before SpaceX's historic IPO.",
-      "source": "TechCrunch",
-      "published": "2026-06-10T22:31:19+00:00",
-      "link": "https://techcrunch.com/2026/06/10/xai-fired-an-engineer-who-raised-alarms-about-grok-safety-new-lawsuit-claims/"
-    },
-    {
-      "title": "Fresh off bond sale, Amazon borrows $17.5B from banks as AI spending continues",
-      "summary": "Companies are burning through exorbitant sums of money to keep pace in the AI arms race. Debt is climbing.",
-      "source": "TechCrunch",
-      "published": "2026-06-10T20:19:31+00:00",
-      "link": "https://techcrunch.com/2026/06/10/fresh-off-bond-sale-amazon-borrows-17-5-billion-from-banks-as-ai-spending-continues/"
-    },
-    {
-      "title": "Google's new open model DiffusionGemma generates text from noise instead of word by word",
-      "summary": "Google released DiffusionGemma, a 26-billion-parameter model that generates text not token by token but through diffusion, similar to how image AI turns noise into a picture.",
-      "source": "The Decoder",
-      "published": "2026-06-10T19:20:46+00:00",
-      "link": "https://the-decoder.com/googles-new-open-model-diffusiongemma-generates-text-from-noise-instead-of-word-by-word/"
-    },
-    {
-      "title": "Claude Fable won’t answer basic biology questions",
-      "summary": "Anthropic just released Claude Fable 5, calling it the most powerful AI model it has ever made widely available and praising its skills in biology, among others. But the model won't answer basic biology questions - the kind you'd expect a high schooler to handle.",
-      "source": "The Verge",
-      "published": "2026-06-10T18:43:34+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/947973/fable-wont-answer-basic-biology-questions"
     }
   ]
 };
