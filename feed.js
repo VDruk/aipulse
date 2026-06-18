@@ -1,6 +1,62 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-06-18T16:35:38.629904+00:00",
+  "lastUpdated": "2026-06-18T19:22:13.860979+00:00",
   "items": [
+    {
+      "title": "ChatGPT's new health upgrade beats doctor-written answers, OpenAI says",
+      "summary": "OpenAI has upgraded ChatGPT's healthcare capabilities with GPT-5.5 Instant. In the company's own comparative tests, the model now outscores answers written by doctors in accuracy, clarity, and completeness.",
+      "source": "The Decoder",
+      "published": "2026-06-18T19:17:00+00:00",
+      "link": "https://the-decoder.com/chatgpts-new-health-upgrade-beats-doctor-written-answers-openai-says/"
+    },
+    {
+      "title": "Anthropic brings Artifacts to Claude Code, letting teams share live pages from coding sessions",
+      "summary": "Claude Code can now turn work results into interactive web pages called \"artifacts\" and share them with your team. The pages pull from the full session context, update automatically when something changes, and keep a version history.",
+      "source": "The Decoder",
+      "published": "2026-06-18T19:02:14+00:00",
+      "link": "https://the-decoder.com/anthropic-brings-artifacts-to-claude-code-letting-teams-share-live-pages-from-coding-sessions/"
+    },
+    {
+      "title": "Alleged China ties at SK Telecom alarmed US officials and triggered Anthropic crisis",
+      "summary": "SK Telecom had access to Anthropic's AI model Claude Mythos through the company's partner program Project Glasswing until the White House stepped in. US officials saw ties between the South Korean conglomerate and China.",
+      "source": "The Decoder",
+      "published": "2026-06-18T18:54:09+00:00",
+      "link": "https://the-decoder.com/alleged-china-ties-at-sk-telecom-alarmed-us-officials-and-triggered-anthropic-crisis/"
+    },
+    {
+      "title": "Almost half of U.S. singles feel negatively about AI in dating, Match says",
+      "summary": "About 47% of singles look negatively at the use of AI in dating -- but, many dating app users are open to AI helping with profile punch-ups and conversation starters.",
+      "source": "TechCrunch",
+      "published": "2026-06-18T18:51:46+00:00",
+      "link": "https://techcrunch.com/2026/06/18/almost-half-of-u-s-singles-feel-negatively-about-ai-in-dating-match-says/"
+    },
+    {
+      "title": "Amazon hopes to challenge Nvidia more directly by selling its AI chips",
+      "summary": "AWS is in talks to sell its chips to other data centers. CEO Andy Jassy has said this represents a $50 billion opportunity for the company.",
+      "source": "TechCrunch",
+      "published": "2026-06-18T18:22:13+00:00",
+      "link": "https://techcrunch.com/2026/06/18/amazon-hopes-to-challenge-nvidia-more-directly-by-selling-its-ai-chips/"
+    },
+    {
+      "title": "Google Deepmind treats its own AI agents like rogue employees with office keys",
+      "summary": "Google Deepmind treats its own AI agents as potential insider threats. The company's new \"AI Control Roadmap\" ties security measures to measurable AI capabilities, and an analysis of one million coding tasks shows most problems stem from overzealous agents, not malicious intent.",
+      "source": "The Decoder",
+      "published": "2026-06-18T18:07:01+00:00",
+      "link": "https://the-decoder.com/google-deepmind-treats-its-own-ai-agents-like-rogue-employees-with-office-keys/"
+    },
+    {
+      "title": "AI data centers just got a government-mandated fast lane to the grid",
+      "summary": "FERC told grid operators to give data centers a fast lane for interconnections, but it failed to address electricity supply shortages.",
+      "source": "TechCrunch",
+      "published": "2026-06-18T17:49:23+00:00",
+      "link": "https://techcrunch.com/2026/06/18/ai-data-centers-just-got-a-government-mandated-fast-lane-to-the-grid/"
+    },
+    {
+      "title": "‘Queer Eye’s’ life coach Karamo Brown launches Kē, a wellness app featuring his AI digital clone",
+      "summary": "Karamo Brown, famous for his pep talks on Netflix’s “Queer Eye,” has jumped into the wellness and AI space with his new app, Kē.",
+      "source": "TechCrunch",
+      "published": "2026-06-18T16:55:04+00:00",
+      "link": "https://techcrunch.com/2026/06/18/queer-eyes-life-coach-karamo-brown-launches-ke-a-wellness-app-featuring-his-ai-digital-clone/"
+    },
     {
       "title": "3 Amazon Workers Say They’re Under Investigation for Speaking Out About Data Centers",
       "summary": "The software engineers filed a complaint with Seattle’s civil rights office accusing Amazon of illegally retaliating against them for expressing their personal political beliefs.",
@@ -1344,62 +1400,6 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-06-12T17:10:34+00:00",
       "link": "https://the-decoder.com/anthropics-claude-fable-5-costs-twice-as-much-for-5-7-percent-more-performance/"
-    },
-    {
-      "title": "Elon Musk is the world’s first trillionaire",
-      "summary": "Elon Musk's net worth has passed the trillion-dollar mark after SpaceX's IPO. His net worth, which was hovering around $800 billion before the IPO, includes the value of his 4.8 billion shares in SpaceX, along with his wealth from his other companies, like Tesla.",
-      "source": "The Verge",
-      "published": "2026-06-12T16:24:39+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/948409/elon-musk-trillionaire-spacex-ipo"
-    },
-    {
-      "title": "SpaceX, Anthropic, and OpenAI’s hot IPO summer",
-      "summary": "The IPO market is back, and it’s not the same companies leading the charge. FAANG had a good run, but a new acronym is taking over: MANGOS — Meta (or Microsoft, depending on who you ask), Anthropic, Nvidia, Google, OpenAI, and SpaceX.",
-      "source": "TechCrunch",
-      "published": "2026-06-12T16:23:25+00:00",
-      "link": "https://techcrunch.com/video/spacex-anthropic-and-openais-hot-ipo-summer/"
-    },
-    {
-      "title": "It’s hot IPO summer, and the MANGOS are ripe",
-      "summary": "The IPO market is back, and it’s not the same companies leading the charge. FAANG had a good run, but a new acronym is taking over: MANGOS — Meta (or Microsoft, depending on who you ask), Anthropic, Nvidia, Google, OpenAI, and SpaceX.",
-      "source": "TechCrunch",
-      "published": "2026-06-12T15:50:52+00:00",
-      "link": "https://techcrunch.com/podcast/its-hot-ipo-summer-and-the-mangos-are-ripe/"
-    },
-    {
-      "title": "Coinbase for Agents: Automating portfolio trading with AI",
-      "summary": "Coinbase for Agents connects AI to financial execution channels to automate trading and payments directly from user portfolios. Large language models process vast quantities of data but lack direct integration with active financial portfolios.",
-      "source": "AI News",
-      "published": "2026-06-12T15:34:23+00:00",
-      "link": "https://www.artificialintelligence-news.com/news/coinbase-for-agents-automating-portfolio-trading-with-ai/"
-    },
-    {
-      "title": "Slightly reducing the sloppiness of AI generated front end",
-      "summary": "Article URL: https://envs.net/~volpe/blog/posts/reduce-slop.html Comments URL: https://news.ycombinator.com/item?id=48504912 Points: 218 # Comments: 134",
-      "source": "Hacker News",
-      "published": "2026-06-12T14:48:38+00:00",
-      "link": "https://envs.net/~volpe/blog/posts/reduce-slop.html"
-    },
-    {
-      "title": "SpaceX’s massive IPO: all the latest news",
-      "summary": "SpaceX’s IPO on Friday allows the public to buy shares of the combined rocket, AI, and social media company for the first time, and raised enough money to make Elon Musk the first trillionaire.",
-      "source": "The Verge",
-      "published": "2026-06-12T14:35:48+00:00",
-      "link": "https://www.theverge.com/business/948996/spacex-ipo-elon-musk"
-    },
-    {
-      "title": "Google files first joint lawsuit with FBI over Chinese AI scam network, OpenAI blocks PRC influence clusters",
-      "summary": "Within days of each other, Google and OpenAI separately exposed operations allegedly originating in China that use AI for fraud and covert influence campaigns. Both target US infrastructure and political debates.",
-      "source": "The Decoder",
-      "published": "2026-06-12T14:10:02+00:00",
-      "link": "https://the-decoder.com/google-files-first-joint-lawsuit-with-fbi-over-chinese-ai-scam-network-openai-blocks-prc-influence-clusters/"
-    },
-    {
-      "title": "Jeff Bezos’ AI startup aims to build an ‘artificial general engineer’",
-      "summary": "Amazon founder Jeff Bezos says his new AI startup will work toward developing an \"artificial general engineer,\" according to reports from The New York Times and CNBC.",
-      "source": "The Verge",
-      "published": "2026-06-12T14:03:39+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/949005/jeff-bezos-prometheus-artificial-general-engineer"
     }
   ]
 };
