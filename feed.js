@@ -1,6 +1,27 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-06-18T05:54:09.107676+00:00",
+  "lastUpdated": "2026-06-18T09:16:24.127062+00:00",
   "items": [
+    {
+      "title": "Microsoft sells OpenAI models in China. OpenAI and Anthropic won’t.",
+      "summary": "Microsoft has quietly become the main supplier of OpenAI models in China, selling the technology to the country’s largest internet companies even as OpenAI and Anthropic keep their own models out of the market on intellectual-property and misuse grounds.",
+      "source": "AI News",
+      "published": "2026-06-18T09:00:00+00:00",
+      "link": "https://www.artificialintelligence-news.com/news/microsoft-sells-openai-models-china/"
+    },
+    {
+      "title": "Google's Gemini co-lead Noam Shazeer joins OpenAI after two-year return stint",
+      "summary": "Noam Shazeer, co-author of the landmark \"Attention Is All You Need\" paper and former co-lead of Google's Gemini models, is joining OpenAI. He only returned to Google from Character.AI in 2024 as part of a $2.7 billion deal.",
+      "source": "The Decoder",
+      "published": "2026-06-18T07:08:29+00:00",
+      "link": "https://the-decoder.com/googles-gemini-co-lead-noam-shazeer-joins-openai-after-two-year-return-stint/"
+    },
+    {
+      "title": "Midjourney goes from generating cat images to full-body ultrasound scans",
+      "summary": "Midjourney CEO David Holz just showed off the company's first hardware product and plans to build a San Francisco spa, which he admitted is a bit different from the \"cat pictures\" produced by its AI image generator.",
+      "source": "The Verge",
+      "published": "2026-06-18T03:12:31+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/952011/midjourney-medical-ai-ultrasound-scan"
+    },
     {
       "title": "Midjourney Medical goes from generating ‘cat images’ to full-body ultrasound scans",
       "summary": "Midjourney CEO David Holz just showed off the company's first hardware product and plans to build a San Francisco spa, which he admitted is a bit different from the \"cat pictures\" produced by its AI image generator.",
@@ -45,7 +66,7 @@ const FEED_DATA = {
     },
     {
       "title": "The hacker sent by Anthropic to calm the government's nerves about AI safety",
-      "summary": "Readable: https://www.wsj.com/tech/ai/anthropic-mythos-safety-nicholas... Comments URL: https://news.ycombinator.com/item?id=48575451 Points: 74 # Comments: 78",
+      "summary": "Readable: https://www.wsj.com/tech/ai/anthropic-mythos-safety-nicholas... Comments URL: https://news.ycombinator.com/item?id=48575451 Points: 76 # Comments: 80",
       "source": "Hacker News",
       "published": "2026-06-17T19:22:02+00:00",
       "link": "https://www.wsj.com/tech/ai/anthropic-mythos-safety-nicholas-carlini-20bceaa3"
@@ -115,7 +136,7 @@ const FEED_DATA = {
     },
     {
       "title": "Using AI to improve a challenging reaction in medicinal chemistry",
-      "summary": "Article URL: https://openai.com/index/ai-chemist-improves-reaction/ Comments URL: https://news.ycombinator.com/item?id=48573757 Points: 52 # Comments: 20",
+      "summary": "Article URL: https://openai.com/index/ai-chemist-improves-reaction/ Comments URL: https://news.ycombinator.com/item?id=48573757 Points: 54 # Comments: 20",
       "source": "Hacker News",
       "published": "2026-06-17T17:34:20+00:00",
       "link": "https://openai.com/index/ai-chemist-improves-reaction/"
@@ -136,7 +157,7 @@ const FEED_DATA = {
     },
     {
       "title": "The Competitive Moat That AI Can't Replicate",
-      "summary": "Article URL: https://ghostinthedata.info/posts/2026/2026-06-13-human-connection-moat/ Comments URL: https://news.ycombinator.com/item?id=48573435 Points: 136 # Comments: 113",
+      "summary": "Article URL: https://ghostinthedata.info/posts/2026/2026-06-13-human-connection-moat/ Comments URL: https://news.ycombinator.com/item?id=48573435 Points: 136 # Comments: 114",
       "source": "Hacker News",
       "published": "2026-06-17T17:14:21+00:00",
       "link": "https://ghostinthedata.info/posts/2026/2026-06-13-human-connection-moat/"
@@ -178,7 +199,7 @@ const FEED_DATA = {
     },
     {
       "title": "TREX: An AI code reviewer that runs your code",
-      "summary": "Article URL: https://www.greptile.com/blog/trex-code-execution Comments URL: https://news.ycombinator.com/item?id=48571851 Points: 55 # Comments: 10",
+      "summary": "Article URL: https://www.greptile.com/blog/trex-code-execution Comments URL: https://news.ycombinator.com/item?id=48571851 Points: 56 # Comments: 10",
       "source": "Hacker News",
       "published": "2026-06-17T15:29:01+00:00",
       "link": "https://www.greptile.com/blog/trex-code-execution"
@@ -206,14 +227,14 @@ const FEED_DATA = {
     },
     {
       "title": "Pentagon boasts of using AI to write reports mandated by Congress (1.5mil users)",
-      "summary": "Article URL: https://arstechnica.com/ai/2026/06/pentagon-boasts-of-using-ai-to-write-reports-mandated-by-congress/ Comments URL: https://news.ycombinator.com/item?id=48571016 Points: 71 # Comments: 54",
+      "summary": "Article URL: https://arstechnica.com/ai/2026/06/pentagon-boasts-of-using-ai-to-write-reports-mandated-by-congress/ Comments URL: https://news.ycombinator.com/item?id=48571016 Points: 73 # Comments: 54",
       "source": "Hacker News",
       "published": "2026-06-17T14:26:07+00:00",
       "link": "https://arstechnica.com/ai/2026/06/pentagon-boasts-of-using-ai-to-write-reports-mandated-by-congress/"
     },
     {
       "title": "AI demands more engineering discipline. Not less",
-      "summary": "Article URL: https://charitydotwtf.substack.com/p/ai-demands-more-engineering-discipline Comments URL: https://news.ycombinator.com/item?id=48570948 Points: 365 # Comments: 184",
+      "summary": "Article URL: https://charitydotwtf.substack.com/p/ai-demands-more-engineering-discipline Comments URL: https://news.ycombinator.com/item?id=48570948 Points: 379 # Comments: 186",
       "source": "Hacker News",
       "published": "2026-06-17T14:20:44+00:00",
       "link": "https://charitydotwtf.substack.com/p/ai-demands-more-engineering-discipline"
@@ -248,7 +269,7 @@ const FEED_DATA = {
     },
     {
       "title": "Sixty percent of US consumers say 'AI' in brand messaging is a turnoff",
-      "summary": "Article URL: https://wpvip.com/future-of-the-web-2026/ Comments URL: https://news.ycombinator.com/item?id=48569278 Points: 1025 # Comments: 536",
+      "summary": "Article URL: https://wpvip.com/future-of-the-web-2026/ Comments URL: https://news.ycombinator.com/item?id=48569278 Points: 1042 # Comments: 547",
       "source": "Hacker News",
       "published": "2026-06-17T12:11:27+00:00",
       "link": "https://wpvip.com/future-of-the-web-2026/"
@@ -283,14 +304,14 @@ const FEED_DATA = {
     },
     {
       "title": "Show HN: I built 184 free browser tools – PDF, image, dev, AI tasks, no upload",
-      "summary": "Article URL: https://brevio.pro Comments URL: https://news.ycombinator.com/item?id=48568023 Points: 86 # Comments: 28",
+      "summary": "Article URL: https://brevio.pro Comments URL: https://news.ycombinator.com/item?id=48568023 Points: 87 # Comments: 28",
       "source": "Hacker News",
       "published": "2026-06-17T09:48:59+00:00",
       "link": "https://brevio.pro"
     },
     {
       "title": "GLM-5.2 is the new leading open weights model on Artificial Analysis",
-      "summary": "Article URL: https://artificialanalysis.ai/articles/glm-5-2-is-the-new-leading-open-weights-model-on-the-artificial-analysis-intelligence-index Comments URL: https://news.ycombinator.com/item?id=48567759 Points: 830 # Comments: 401",
+      "summary": "Article URL: https://artificialanalysis.ai/articles/glm-5-2-is-the-new-leading-open-weights-model-on-the-artificial-analysis-intelligence-index Comments URL: https://news.ycombinator.com/item?id=48567759 Points: 850 # Comments: 414",
       "source": "Hacker News",
       "published": "2026-06-17T09:12:00+00:00",
       "link": "https://artificialanalysis.ai/articles/glm-5-2-is-the-new-leading-open-weights-model-on-the-artificial-analysis-intelligence-index"
@@ -311,7 +332,7 @@ const FEED_DATA = {
     },
     {
       "title": "The founder's playbook: Building an AI-native startup",
-      "summary": "Article URL: https://claude.com/blog/the-founders-playbook Comments URL: https://news.ycombinator.com/item?id=48566832 Points: 225 # Comments: 157",
+      "summary": "Article URL: https://claude.com/blog/the-founders-playbook Comments URL: https://news.ycombinator.com/item?id=48566832 Points: 229 # Comments: 160",
       "source": "Hacker News",
       "published": "2026-06-17T07:04:42+00:00",
       "link": "https://claude.com/blog/the-founders-playbook"
@@ -374,7 +395,7 @@ const FEED_DATA = {
     },
     {
       "title": "Has AI already killed self-help nonfiction books?",
-      "summary": "Article URL: https://tim.blog/2026/06/12/has-ai-already-killed-nonfiction/ Comments URL: https://news.ycombinator.com/item?id=48558489 Points: 397 # Comments: 465",
+      "summary": "Article URL: https://tim.blog/2026/06/12/has-ai-already-killed-nonfiction/ Comments URL: https://news.ycombinator.com/item?id=48558489 Points: 400 # Comments: 469",
       "source": "Hacker News",
       "published": "2026-06-16T17:11:05+00:00",
       "link": "https://tim.blog/2026/06/12/has-ai-already-killed-nonfiction/"
@@ -591,7 +612,7 @@ const FEED_DATA = {
     },
     {
       "title": "Humanity isn't ready for the coming intelligence explosion",
-      "summary": "Article URL: https://www.economist.com/by-invitation/2026/06/15/humanity-isnt-ready-for-the-coming-intelligence-explosion Comments URL: https://news.ycombinator.com/item?id=48549628 Points: 183 # Comments: 504",
+      "summary": "Article URL: https://www.economist.com/by-invitation/2026/06/15/humanity-isnt-ready-for-the-coming-intelligence-explosion Comments URL: https://news.ycombinator.com/item?id=48549628 Points: 183 # Comments: 505",
       "source": "Hacker News",
       "published": "2026-06-16T02:00:45+00:00",
       "link": "https://www.economist.com/by-invitation/2026/06/15/humanity-isnt-ready-for-the-coming-intelligence-explosion"
@@ -1379,27 +1400,6 @@ const FEED_DATA = {
       "source": "Hacker News",
       "published": "2026-06-11T19:54:54+00:00",
       "link": "https://www.kennethpayne.uk/p/shall-we-play-a-game"
-    },
-    {
-      "title": "Landmark German ruling declares Google's AI Overviews are Google's own words and makes it liable for false answers",
-      "summary": "A German regional court has ruled that Google is directly liable for the content of its AI search overviews. According to the court, previous limited liability protections for search engine operators don't apply to AI overviews.",
-      "source": "The Decoder",
-      "published": "2026-06-11T16:56:53+00:00",
-      "link": "https://the-decoder.com/landmark-german-ruling-declares-googles-ai-overviews-are-googles-own-words-and-makes-it-liable-for-false-answers/"
-    },
-    {
-      "title": "Deezer’s new tool can identify AI music from Spotify, Apple Music, and others",
-      "summary": "Deezer introduced a tool that scans playlists from Spotify, Apple Music, and other platforms to identify AI music.",
-      "source": "TechCrunch",
-      "published": "2026-06-11T16:36:20+00:00",
-      "link": "https://techcrunch.com/2026/06/11/deezers-new-tool-can-identify-ai-music-from-spotify-apple-music-and-others/"
-    },
-    {
-      "title": "Jeff Bezos' AI startup Prometheus closes $12 billion round at a $41 billion valuation",
-      "summary": "Jeff Bezos' AI startup Prometheus has closed a $12 billion funding round at a $41 billion valuation. The company launched just last November with $6.2 billion in seed funding.",
-      "source": "The Decoder",
-      "published": "2026-06-11T16:24:20+00:00",
-      "link": "https://the-decoder.com/jeff-bezos-ai-startup-prometheus-closes-12-billion-round-at-a-41-billion-valuation/"
     }
   ]
 };
