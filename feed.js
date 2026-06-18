@@ -1,6 +1,41 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-06-18T19:22:13.860979+00:00",
+  "lastUpdated": "2026-06-18T22:52:11.793282+00:00",
   "items": [
+    {
+      "title": "AI inference startup Baseten reportedly raising $1.5B months after its last mega-round",
+      "summary": "Startup Baseten is reportedly close to finalizing a $1.5 billion round at a $13 billion as the “inference gold rush\" marches on.",
+      "source": "TechCrunch",
+      "published": "2026-06-18T21:20:13+00:00",
+      "link": "https://techcrunch.com/2026/06/18/ai-inference-startup-baseten-reportedly-raising-1-5b-months-after-its-last-mega-round/"
+    },
+    {
+      "title": "The White House Is Making Up Its Rules for AI in Real Time",
+      "summary": "Anthropic still can’t distribute Claude Mythos or Fable 5 after running afoul of the Trump administration. But no one can say exactly what the company did wrong.",
+      "source": "Wired",
+      "published": "2026-06-18T21:03:43+00:00",
+      "link": "https://www.wired.com/story/anthropic-mythos-export-controls-ai-regulations/"
+    },
+    {
+      "title": "Snap spins off AI video team into new company, Dotmo, due to costs",
+      "summary": "The Snapchat maker is spinning off yet another internal unit. Dotmo will be composed of current Snap staff who are leaving the social media company to focus on AI video development.",
+      "source": "TechCrunch",
+      "published": "2026-06-18T20:30:00+00:00",
+      "link": "https://techcrunch.com/2026/06/18/snap-spins-off-ai-video-team-into-new-company-dotmo-due-to-costs/"
+    },
+    {
+      "title": "OpenAI is bringing on some big guns in the lead-up to its IPO",
+      "summary": "OpenAI is bulking up before its IPO, landing Transformer co-inventor Noam Shazeer from Google DeepMind and former Trump AI policy official Dean Ball in the same week.",
+      "source": "TechCrunch",
+      "published": "2026-06-18T19:59:22+00:00",
+      "link": "https://techcrunch.com/2026/06/18/openai-is-bringing-on-some-big-guns-in-the-lead-up-to-its-ipo/"
+    },
+    {
+      "title": "Meta’s AI Workers Are Revolting, Peter Thiel’s Secret Society, and SBF’s Plea to Trump",
+      "summary": "On today’s Uncanny Valley, we dive into the dysfunction in Meta’s newly formed AI unit and why it’s been driving already-low employee morale even further into the ground.",
+      "source": "Wired",
+      "published": "2026-06-18T19:29:51+00:00",
+      "link": "https://www.wired.com/story/uncanny-valley-podcast-meta-ai-workers-revolting-peter-thiel-secret-society-sbf-plea-to-trump/"
+    },
     {
       "title": "ChatGPT's new health upgrade beats doctor-written answers, OpenAI says",
       "summary": "OpenAI has upgraded ChatGPT's healthcare capabilities with GPT-5.5 Instant. In the company's own comparative tests, the model now outscores answers written by doctors in accuracy, clarity, and completeness.",
@@ -28,6 +63,13 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-06-18T18:51:46+00:00",
       "link": "https://techcrunch.com/2026/06/18/almost-half-of-u-s-singles-feel-negatively-about-ai-in-dating-match-says/"
+    },
+    {
+      "title": "The AI Hate Progression",
+      "summary": "Article URL: https://www.xodium.net/2026/06/the-ai-hate-progression.html Comments URL: https://news.ycombinator.com/item?id=48589485 Points: 96 # Comments: 129",
+      "source": "Hacker News",
+      "published": "2026-06-18T18:30:33+00:00",
+      "link": "https://www.xodium.net/2026/06/the-ai-hate-progression.html"
     },
     {
       "title": "Amazon hopes to challenge Nvidia more directly by selling its AI chips",
@@ -192,7 +234,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI Compute Extensions (ACE) Specification",
-      "summary": "Article URL: https://x86ecosystem.org/resource/ai-compute-extensions-ace-specification/ Comments URL: https://news.ycombinator.com/item?id=48579913 Points: 50 # Comments: 20",
+      "summary": "Article URL: https://x86ecosystem.org/resource/ai-compute-extensions-ace-specification/ Comments URL: https://news.ycombinator.com/item?id=48579913 Points: 51 # Comments: 21",
       "source": "Hacker News",
       "published": "2026-06-18T02:32:01+00:00",
       "link": "https://x86ecosystem.org/resource/ai-compute-extensions-ace-specification/"
@@ -234,7 +276,7 @@ const FEED_DATA = {
     },
     {
       "title": "The hacker sent by Anthropic to calm the government's nerves about AI safety",
-      "summary": "Readable: https://www.wsj.com/tech/ai/anthropic-mythos-safety-nicholas... Comments URL: https://news.ycombinator.com/item?id=48575451 Points: 85 # Comments: 89",
+      "summary": "Readable: https://www.wsj.com/tech/ai/anthropic-mythos-safety-nicholas... Comments URL: https://news.ycombinator.com/item?id=48575451 Points: 86 # Comments: 97",
       "source": "Hacker News",
       "published": "2026-06-17T19:22:02+00:00",
       "link": "https://www.wsj.com/tech/ai/anthropic-mythos-safety-nicholas-carlini-20bceaa3"
@@ -325,16 +367,16 @@ const FEED_DATA = {
     },
     {
       "title": "The Competitive Moat That AI Can't Replicate",
-      "summary": "Article URL: https://ghostinthedata.info/posts/2026/2026-06-13-human-connection-moat/ Comments URL: https://news.ycombinator.com/item?id=48573435 Points: 137 # Comments: 121",
+      "summary": "Article URL: https://ghostinthedata.info/posts/2026/2026-06-13-human-connection-moat/ Comments URL: https://news.ycombinator.com/item?id=48573435 Points: 139 # Comments: 122",
       "source": "Hacker News",
       "published": "2026-06-17T17:14:21+00:00",
       "link": "https://ghostinthedata.info/posts/2026/2026-06-13-human-connection-moat/"
     },
     {
-      "title": "Only 16 percent of Americans think AI will have a positive impact on society, a new study shows",
-      "summary": "Although Wall Street loves AI, every day Americans are significantly less optimistic about the industry, a new report from Pew Research shows.",
-      "source": "TechCrunch",
-      "published": "2026-06-17T17:00:01+00:00",
+      "title": "Only 16 Percent of Americans Think AI Will Have a Positive Impact on Society",
+      "summary": "Article URL: https://techcrunch.com/2026/06/17/only-16-percent-of-americans-think-ai-will-have-a-positive-impact-on-society-a-new-study-shows/ Comments URL: https://news.ycombinator.com/item?id=48573332 Points: 393 # Comments: 483",
+      "source": "Hacker News",
+      "published": "2026-06-17T17:07:32+00:00",
       "link": "https://techcrunch.com/2026/06/17/only-16-percent-of-americans-think-ai-will-have-a-positive-impact-on-society-a-new-study-shows/"
     },
     {
@@ -395,14 +437,14 @@ const FEED_DATA = {
     },
     {
       "title": "Pentagon boasts of using AI to write reports mandated by Congress (1.5mil users)",
-      "summary": "Article URL: https://arstechnica.com/ai/2026/06/pentagon-boasts-of-using-ai-to-write-reports-mandated-by-congress/ Comments URL: https://news.ycombinator.com/item?id=48571016 Points: 76 # Comments: 56",
+      "summary": "Article URL: https://arstechnica.com/ai/2026/06/pentagon-boasts-of-using-ai-to-write-reports-mandated-by-congress/ Comments URL: https://news.ycombinator.com/item?id=48571016 Points: 77 # Comments: 57",
       "source": "Hacker News",
       "published": "2026-06-17T14:26:07+00:00",
       "link": "https://arstechnica.com/ai/2026/06/pentagon-boasts-of-using-ai-to-write-reports-mandated-by-congress/"
     },
     {
       "title": "AI demands more engineering discipline. Not less",
-      "summary": "Article URL: https://charitydotwtf.substack.com/p/ai-demands-more-engineering-discipline Comments URL: https://news.ycombinator.com/item?id=48570948 Points: 400 # Comments: 199",
+      "summary": "Article URL: https://charitydotwtf.substack.com/p/ai-demands-more-engineering-discipline Comments URL: https://news.ycombinator.com/item?id=48570948 Points: 406 # Comments: 205",
       "source": "Hacker News",
       "published": "2026-06-17T14:20:44+00:00",
       "link": "https://charitydotwtf.substack.com/p/ai-demands-more-engineering-discipline"
@@ -437,7 +479,7 @@ const FEED_DATA = {
     },
     {
       "title": "Sixty percent of US consumers say 'AI' in brand messaging is a turnoff",
-      "summary": "Article URL: https://wpvip.com/future-of-the-web-2026/ Comments URL: https://news.ycombinator.com/item?id=48569278 Points: 1057 # Comments: 565",
+      "summary": "Article URL: https://wpvip.com/future-of-the-web-2026/ Comments URL: https://news.ycombinator.com/item?id=48569278 Points: 1064 # Comments: 572",
       "source": "Hacker News",
       "published": "2026-06-17T12:11:27+00:00",
       "link": "https://wpvip.com/future-of-the-web-2026/"
@@ -479,7 +521,7 @@ const FEED_DATA = {
     },
     {
       "title": "GLM-5.2 is the new leading open weights model on Artificial Analysis",
-      "summary": "Article URL: https://artificialanalysis.ai/articles/glm-5-2-is-the-new-leading-open-weights-model-on-the-artificial-analysis-intelligence-index Comments URL: https://news.ycombinator.com/item?id=48567759 Points: 863 # Comments: 426",
+      "summary": "Article URL: https://artificialanalysis.ai/articles/glm-5-2-is-the-new-leading-open-weights-model-on-the-artificial-analysis-intelligence-index Comments URL: https://news.ycombinator.com/item?id=48567759 Points: 874 # Comments: 430",
       "source": "Hacker News",
       "published": "2026-06-17T09:12:00+00:00",
       "link": "https://artificialanalysis.ai/articles/glm-5-2-is-the-new-leading-open-weights-model-on-the-artificial-analysis-intelligence-index"
@@ -500,7 +542,7 @@ const FEED_DATA = {
     },
     {
       "title": "The founder's playbook: Building an AI-native startup",
-      "summary": "Article URL: https://claude.com/blog/the-founders-playbook Comments URL: https://news.ycombinator.com/item?id=48566832 Points: 237 # Comments: 165",
+      "summary": "Article URL: https://claude.com/blog/the-founders-playbook Comments URL: https://news.ycombinator.com/item?id=48566832 Points: 238 # Comments: 166",
       "source": "Hacker News",
       "published": "2026-06-17T07:04:42+00:00",
       "link": "https://claude.com/blog/the-founders-playbook"
@@ -563,7 +605,7 @@ const FEED_DATA = {
     },
     {
       "title": "Has AI already killed self-help nonfiction books?",
-      "summary": "Article URL: https://tim.blog/2026/06/12/has-ai-already-killed-nonfiction/ Comments URL: https://news.ycombinator.com/item?id=48558489 Points: 406 # Comments: 476",
+      "summary": "Article URL: https://tim.blog/2026/06/12/has-ai-already-killed-nonfiction/ Comments URL: https://news.ycombinator.com/item?id=48558489 Points: 409 # Comments: 479",
       "source": "Hacker News",
       "published": "2026-06-16T17:11:05+00:00",
       "link": "https://tim.blog/2026/06/12/has-ai-already-killed-nonfiction/"
@@ -773,7 +815,7 @@ const FEED_DATA = {
     },
     {
       "title": "Microsoft turns to AWS as GitHub faces AI capacity crunch",
-      "summary": "Article URL: https://runtimewire.com/article/microsoft-github-aws-ai-capacity-crunch Comments URL: https://news.ycombinator.com/item?id=48549918 Points: 154 # Comments: 75",
+      "summary": "Article URL: https://runtimewire.com/article/microsoft-github-aws-ai-capacity-crunch Comments URL: https://news.ycombinator.com/item?id=48549918 Points: 154 # Comments: 76",
       "source": "Hacker News",
       "published": "2026-06-16T02:47:57+00:00",
       "link": "https://runtimewire.com/article/microsoft-github-aws-ai-capacity-crunch"
@@ -1358,48 +1400,6 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-06-12T18:40:26+00:00",
       "link": "https://the-decoder.com/over-half-of-americans-fear-losing-both-their-jobs-and-their-independent-thinking-to-ai-survey-finds/"
-    },
-    {
-      "title": "Mistral is rumored to be raising €3B at €20B valuation",
-      "summary": "The funding round would value the company at around €20 billion (about $23.15 billion), nearly double its Series C valuation of €11.7 billion.",
-      "source": "TechCrunch",
-      "published": "2026-06-12T17:38:11+00:00",
-      "link": "https://techcrunch.com/2026/06/12/mistral-is-rumored-to-be-raising-e3b-at-e20-valuation/"
-    },
-    {
-      "title": "OpenAI kicks off the AI price wars with flexible rate-limit resets for its Codex coding agent",
-      "summary": "OpenAI now lets Codex users bank their rate-limit resets and trigger them manually instead of watching them expire on a fixed schedule. If you hit your usage cap mid-session, you can cash in a saved reset right away instead of waiting.",
-      "source": "The Decoder",
-      "published": "2026-06-12T17:34:23+00:00",
-      "link": "https://the-decoder.com/openai-kicks-off-the-ai-price-wars-with-flexible-rate-limit-resets-for-its-codex-coding-agent/"
-    },
-    {
-      "title": "Google sues alleged Chinese cybercrime operation that used AI to send scam texts",
-      "summary": "The tech giant said a group called \"Outsider Enterprise\" used AI to scam hundreds of thousands of victims, sending 2.5 million text messages over a span of two weeks.",
-      "source": "TechCrunch",
-      "published": "2026-06-12T17:26:08+00:00",
-      "link": "https://techcrunch.com/2026/06/12/google-sues-alleged-chinese-cybercrime-operation-that-used-ai-to-send-scam-texts/"
-    },
-    {
-      "title": "China Didn’t Make Americans Hate Data Centers",
-      "summary": "GOP lawmakers, tech investors, and even OpenAI have tied the anti-data-center movement in the US to Chinese interference. Experts say it’s much more complicated than that.",
-      "source": "Wired",
-      "published": "2026-06-12T17:17:10+00:00",
-      "link": "https://www.wired.com/story/china-us-data-center-opposition/"
-    },
-    {
-      "title": "China Didn't Make People Hate Data Centers",
-      "summary": "GOP lawmakers, tech investors, and even OpenAI have tied the anti-data center movement in the US to Chinese interference. Experts say it’s much more complicated than that.",
-      "source": "Wired",
-      "published": "2026-06-12T17:17:10+00:00",
-      "link": "https://www.wired.com/story/china-us-data-center-opposition/"
-    },
-    {
-      "title": "Anthropic's Claude Fable 5 costs twice as much for 5.7 percent more performance",
-      "summary": "Claude Fable 5 tops the Artificial Analysis Intelligence Index with 64.9 points and sets records in five of ten benchmarks. But the gain over Opus 4.8 is just 5.7 percent at double the token price.",
-      "source": "The Decoder",
-      "published": "2026-06-12T17:10:34+00:00",
-      "link": "https://the-decoder.com/anthropics-claude-fable-5-costs-twice-as-much-for-5-7-percent-more-performance/"
     }
   ]
 };
