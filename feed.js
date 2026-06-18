@@ -1,12 +1,103 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-06-18T12:14:54.171163+00:00",
+  "lastUpdated": "2026-06-18T16:35:38.629904+00:00",
   "items": [
+    {
+      "title": "3 Amazon Workers Say They’re Under Investigation for Speaking Out About Data Centers",
+      "summary": "The software engineers filed a complaint with Seattle’s civil rights office accusing Amazon of illegally retaliating against them for expressing their personal political beliefs.",
+      "source": "Wired",
+      "published": "2026-06-18T16:03:27+00:00",
+      "link": "https://www.wired.com/story/amazon-workers-under-internal-investigation-after-speaking-out-about-data-centers/"
+    },
+    {
+      "title": "Computer vision deployments drive retail productivity gains",
+      "summary": "Computer vision deployments are driving retail productivity gains as operators automate physical shelf tracking to protect eroding margins. This hardware deployment directly addresses the persistent in-store execution failures currently costing the industry billions.",
+      "source": "AI News",
+      "published": "2026-06-18T15:57:46+00:00",
+      "link": "https://www.artificialintelligence-news.com/news/computer-vision-deployments-drive-retail-productivity-gains/"
+    },
+    {
+      "title": "General Intuition in talks to raise $300M at around $2B valuation",
+      "summary": "The startup trains embodied AI and world models using Medal’s dataset of 2 billion videos per year from 10 million monthly active users.",
+      "source": "TechCrunch",
+      "published": "2026-06-18T15:20:37+00:00",
+      "link": "https://techcrunch.com/2026/06/18/general-intuition-in-talks-to-raise-300m-at-around-2b-valuation/"
+    },
+    {
+      "title": "A tech worker-backed PAC is bringing a $5M knife to Big Tech’s $100M gunfight",
+      "summary": "Guardrails positions itself as a populist political movement that runs on small donations from people in the trenches of the AI boom.",
+      "source": "TechCrunch",
+      "published": "2026-06-18T15:13:21+00:00",
+      "link": "https://techcrunch.com/2026/06/18/a-tech-worker-backed-pac-is-bringing-a-5m-knife-to-big-techs-100m-gunfight/"
+    },
+    {
+      "title": "AI systems rival doctors in new Nature studies, but one result suggests the tech won't age well",
+      "summary": "Two new studies published in Nature show that specialized AI systems diagnose diseases and make treatment decisions as well as physicians in simulated patient cases, sometimes even better. Both systems run on base models that are already outdated.",
+      "source": "The Decoder",
+      "published": "2026-06-18T14:37:06+00:00",
+      "link": "https://the-decoder.com/ai-systems-rival-doctors-in-new-nature-studies-but-one-result-suggests-the-tech-wont-age-well/"
+    },
+    {
+      "title": "Who decides when AI is too dangerous?",
+      "summary": "On today’s episode of Decoder, my guest is Hayden Field, senior AI reporter for The Verge. Often when Hayden comes on the show, it’s because something has gone wrong in the world of AI.",
+      "source": "The Verge",
+      "published": "2026-06-18T14:00:00+00:00",
+      "link": "https://www.theverge.com/podcast/951542/anthropic-claude-fable-5-mythos-ban-pentagon-ai-regulation-trump"
+    },
+    {
+      "title": "Yann LeCun warns AI labs like OpenAI and Anthropic face a \"big bubble explosion\"",
+      "summary": "According to Yann LeCun, AI labs like OpenAI and Anthropic are heading for a \"big bubble explosion\": Their operations are effectively subsidized by investors, and operating costs aren't dropping fast enough, he says.",
+      "source": "The Decoder",
+      "published": "2026-06-18T13:35:47+00:00",
+      "link": "https://the-decoder.com/yann-lecun-warns-ai-labs-like-openai-and-anthropic-face-a-big-bubble-explosion/"
+    },
+    {
+      "title": "Midjourney, known for AI image generation, unveils a full-body ultrasound scanner and its own spa",
+      "summary": "Rumors about Midjourney hardware have circulated for years, but nobody saw this coming. The AI image startup is building a full-body ultrasound scanner and opening its own spa in San Francisco to house it.",
+      "source": "The Decoder",
+      "published": "2026-06-18T13:21:52+00:00",
+      "link": "https://the-decoder.com/midjourney-known-for-ai-image-generation-unveils-a-full-body-ultrasound-scanner-and-its-own-spa/"
+    },
+    {
+      "title": "Photoshop and Premiere now have AI assistants",
+      "summary": "Adobe's plan to stick AI assistants into all of its Creative Cloud suite is now fully underway, with new chatbots now rolling out to its biggest editing and design apps.",
+      "source": "The Verge",
+      "published": "2026-06-18T13:00:00+00:00",
+      "link": "https://www.theverge.com/tech/952099/adobe-ai-assistants-photoshop-premiere-illustrator-beta-launch"
+    },
+    {
+      "title": "Adobe’s redesigned AI studio remembers what your creations look like",
+      "summary": "Adobe is introducing some new capabilities for its Firefly AI assistant, alongside a \"reimagined\" AI studio that lets you edit and generate new designs from a single interface.",
+      "source": "The Verge",
+      "published": "2026-06-18T13:00:00+00:00",
+      "link": "https://www.theverge.com/tech/952104/adobe-firefly-ai-agent-elements-projects-update"
+    },
+    {
+      "title": "Adobe adds AI agents to Photoshop, Premiere, and more Creative Cloud apps",
+      "summary": "Adobe is rolling out its \"creative agent\" across its main Creative Cloud apps and third-party AI platforms like ChatGPT and Claude. Users describe what they want, and the software handles the multi-step work.",
+      "source": "The Decoder",
+      "published": "2026-06-18T12:59:00+00:00",
+      "link": "https://the-decoder.com/adobe-adds-ai-agents-to-photoshop-premiere-and-more-creative-cloud-apps/"
+    },
+    {
+      "title": "The Download: a new hunt for dark matter and Kenya’s case for going solar",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.",
+      "source": "MIT Tech Review",
+      "published": "2026-06-18T12:10:00+00:00",
+      "link": "https://www.technologyreview.com/2026/06/18/1139261/the-download-dark-matter-hunt-kenya-solar-power/"
+    },
     {
       "title": "Pixi’s new iOS app turns text messages into interactive AR experiences",
       "summary": "Forget stickers, GIFs, and emoji reactions. Pixi is betting that the next evolution of messaging is interactive augmented reality (AR).",
       "source": "TechCrunch",
       "published": "2026-06-18T12:00:00+00:00",
       "link": "https://techcrunch.com/2026/06/18/pixis-new-ios-app-turns-text-messages-into-interactive-ar-experiences/"
+    },
+    {
+      "title": "HSBC expands AI banking partnership with Google Cloud",
+      "summary": "HSBC has entered a multi-year partnership with Google Cloud to develop and deploy artificial intelligence tools across its global operations.",
+      "source": "AI News",
+      "published": "2026-06-18T10:00:00+00:00",
+      "link": "https://www.artificialintelligence-news.com/news/hsbc-google-cloud-ai-partnership/"
     },
     {
       "title": "The search for dark matter has been blown wide open",
@@ -42,6 +133,13 @@ const FEED_DATA = {
       "source": "The Verge",
       "published": "2026-06-18T03:12:31+00:00",
       "link": "https://www.theverge.com/ai-artificial-intelligence/952011/midjourney-medical-ai-ultrasound-scan"
+    },
+    {
+      "title": "AI Compute Extensions (ACE) Specification",
+      "summary": "Article URL: https://x86ecosystem.org/resource/ai-compute-extensions-ace-specification/ Comments URL: https://news.ycombinator.com/item?id=48579913 Points: 50 # Comments: 20",
+      "source": "Hacker News",
+      "published": "2026-06-18T02:32:01+00:00",
+      "link": "https://x86ecosystem.org/resource/ai-compute-extensions-ace-specification/"
     },
     {
       "title": "How to turn off AI in your Google Docs",
@@ -80,7 +178,7 @@ const FEED_DATA = {
     },
     {
       "title": "The hacker sent by Anthropic to calm the government's nerves about AI safety",
-      "summary": "Readable: https://www.wsj.com/tech/ai/anthropic-mythos-safety-nicholas... Comments URL: https://news.ycombinator.com/item?id=48575451 Points: 79 # Comments: 79",
+      "summary": "Readable: https://www.wsj.com/tech/ai/anthropic-mythos-safety-nicholas... Comments URL: https://news.ycombinator.com/item?id=48575451 Points: 85 # Comments: 89",
       "source": "Hacker News",
       "published": "2026-06-17T19:22:02+00:00",
       "link": "https://www.wsj.com/tech/ai/anthropic-mythos-safety-nicholas-carlini-20bceaa3"
@@ -171,7 +269,7 @@ const FEED_DATA = {
     },
     {
       "title": "The Competitive Moat That AI Can't Replicate",
-      "summary": "Article URL: https://ghostinthedata.info/posts/2026/2026-06-13-human-connection-moat/ Comments URL: https://news.ycombinator.com/item?id=48573435 Points: 137 # Comments: 115",
+      "summary": "Article URL: https://ghostinthedata.info/posts/2026/2026-06-13-human-connection-moat/ Comments URL: https://news.ycombinator.com/item?id=48573435 Points: 137 # Comments: 121",
       "source": "Hacker News",
       "published": "2026-06-17T17:14:21+00:00",
       "link": "https://ghostinthedata.info/posts/2026/2026-06-13-human-connection-moat/"
@@ -213,7 +311,7 @@ const FEED_DATA = {
     },
     {
       "title": "TREX: An AI code reviewer that runs your code",
-      "summary": "Article URL: https://www.greptile.com/blog/trex-code-execution Comments URL: https://news.ycombinator.com/item?id=48571851 Points: 57 # Comments: 10",
+      "summary": "Article URL: https://www.greptile.com/blog/trex-code-execution Comments URL: https://news.ycombinator.com/item?id=48571851 Points: 59 # Comments: 11",
       "source": "Hacker News",
       "published": "2026-06-17T15:29:01+00:00",
       "link": "https://www.greptile.com/blog/trex-code-execution"
@@ -241,14 +339,14 @@ const FEED_DATA = {
     },
     {
       "title": "Pentagon boasts of using AI to write reports mandated by Congress (1.5mil users)",
-      "summary": "Article URL: https://arstechnica.com/ai/2026/06/pentagon-boasts-of-using-ai-to-write-reports-mandated-by-congress/ Comments URL: https://news.ycombinator.com/item?id=48571016 Points: 73 # Comments: 54",
+      "summary": "Article URL: https://arstechnica.com/ai/2026/06/pentagon-boasts-of-using-ai-to-write-reports-mandated-by-congress/ Comments URL: https://news.ycombinator.com/item?id=48571016 Points: 76 # Comments: 56",
       "source": "Hacker News",
       "published": "2026-06-17T14:26:07+00:00",
       "link": "https://arstechnica.com/ai/2026/06/pentagon-boasts-of-using-ai-to-write-reports-mandated-by-congress/"
     },
     {
       "title": "AI demands more engineering discipline. Not less",
-      "summary": "Article URL: https://charitydotwtf.substack.com/p/ai-demands-more-engineering-discipline Comments URL: https://news.ycombinator.com/item?id=48570948 Points: 387 # Comments: 192",
+      "summary": "Article URL: https://charitydotwtf.substack.com/p/ai-demands-more-engineering-discipline Comments URL: https://news.ycombinator.com/item?id=48570948 Points: 400 # Comments: 199",
       "source": "Hacker News",
       "published": "2026-06-17T14:20:44+00:00",
       "link": "https://charitydotwtf.substack.com/p/ai-demands-more-engineering-discipline"
@@ -283,7 +381,7 @@ const FEED_DATA = {
     },
     {
       "title": "Sixty percent of US consumers say 'AI' in brand messaging is a turnoff",
-      "summary": "Article URL: https://wpvip.com/future-of-the-web-2026/ Comments URL: https://news.ycombinator.com/item?id=48569278 Points: 1046 # Comments: 557",
+      "summary": "Article URL: https://wpvip.com/future-of-the-web-2026/ Comments URL: https://news.ycombinator.com/item?id=48569278 Points: 1057 # Comments: 565",
       "source": "Hacker News",
       "published": "2026-06-17T12:11:27+00:00",
       "link": "https://wpvip.com/future-of-the-web-2026/"
@@ -318,14 +416,14 @@ const FEED_DATA = {
     },
     {
       "title": "Show HN: I built 184 free browser tools – PDF, image, dev, AI tasks, no upload",
-      "summary": "Article URL: https://brevio.pro Comments URL: https://news.ycombinator.com/item?id=48568023 Points: 87 # Comments: 28",
+      "summary": "Article URL: https://brevio.pro Comments URL: https://news.ycombinator.com/item?id=48568023 Points: 88 # Comments: 28",
       "source": "Hacker News",
       "published": "2026-06-17T09:48:59+00:00",
       "link": "https://brevio.pro"
     },
     {
       "title": "GLM-5.2 is the new leading open weights model on Artificial Analysis",
-      "summary": "Article URL: https://artificialanalysis.ai/articles/glm-5-2-is-the-new-leading-open-weights-model-on-the-artificial-analysis-intelligence-index Comments URL: https://news.ycombinator.com/item?id=48567759 Points: 857 # Comments: 417",
+      "summary": "Article URL: https://artificialanalysis.ai/articles/glm-5-2-is-the-new-leading-open-weights-model-on-the-artificial-analysis-intelligence-index Comments URL: https://news.ycombinator.com/item?id=48567759 Points: 863 # Comments: 426",
       "source": "Hacker News",
       "published": "2026-06-17T09:12:00+00:00",
       "link": "https://artificialanalysis.ai/articles/glm-5-2-is-the-new-leading-open-weights-model-on-the-artificial-analysis-intelligence-index"
@@ -346,7 +444,7 @@ const FEED_DATA = {
     },
     {
       "title": "The founder's playbook: Building an AI-native startup",
-      "summary": "Article URL: https://claude.com/blog/the-founders-playbook Comments URL: https://news.ycombinator.com/item?id=48566832 Points: 233 # Comments: 160",
+      "summary": "Article URL: https://claude.com/blog/the-founders-playbook Comments URL: https://news.ycombinator.com/item?id=48566832 Points: 237 # Comments: 165",
       "source": "Hacker News",
       "published": "2026-06-17T07:04:42+00:00",
       "link": "https://claude.com/blog/the-founders-playbook"
@@ -374,7 +472,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI is potentially a Dunning-Kruger effect amplifier",
-      "summary": "Article URL: https://twitter.com/i/status/2066825204207091926 Comments URL: https://news.ycombinator.com/item?id=48560913 Points: 66 # Comments: 29",
+      "summary": "Article URL: https://twitter.com/i/status/2066825204207091926 Comments URL: https://news.ycombinator.com/item?id=48560913 Points: 67 # Comments: 30",
       "source": "Hacker News",
       "published": "2026-06-16T19:47:13+00:00",
       "link": "https://twitter.com/i/status/2066825204207091926"
@@ -402,14 +500,14 @@ const FEED_DATA = {
     },
     {
       "title": "GPT‑NL: a sovereign language model for the Netherlands",
-      "summary": "Article URL: https://www.tno.nl/en/digital/artificial-intelligence/gpt-nl/ Comments URL: https://news.ycombinator.com/item?id=48559188 Points: 250 # Comments: 295",
+      "summary": "Article URL: https://www.tno.nl/en/digital/artificial-intelligence/gpt-nl/ Comments URL: https://news.ycombinator.com/item?id=48559188 Points: 250 # Comments: 299",
       "source": "Hacker News",
       "published": "2026-06-16T17:54:02+00:00",
       "link": "https://www.tno.nl/en/digital/artificial-intelligence/gpt-nl/"
     },
     {
       "title": "Has AI already killed self-help nonfiction books?",
-      "summary": "Article URL: https://tim.blog/2026/06/12/has-ai-already-killed-nonfiction/ Comments URL: https://news.ycombinator.com/item?id=48558489 Points: 401 # Comments: 473",
+      "summary": "Article URL: https://tim.blog/2026/06/12/has-ai-already-killed-nonfiction/ Comments URL: https://news.ycombinator.com/item?id=48558489 Points: 406 # Comments: 476",
       "source": "Hacker News",
       "published": "2026-06-16T17:11:05+00:00",
       "link": "https://tim.blog/2026/06/12/has-ai-already-killed-nonfiction/"
@@ -626,7 +724,7 @@ const FEED_DATA = {
     },
     {
       "title": "Humanity isn't ready for the coming intelligence explosion",
-      "summary": "Article URL: https://www.economist.com/by-invitation/2026/06/15/humanity-isnt-ready-for-the-coming-intelligence-explosion Comments URL: https://news.ycombinator.com/item?id=48549628 Points: 184 # Comments: 505",
+      "summary": "Article URL: https://www.economist.com/by-invitation/2026/06/15/humanity-isnt-ready-for-the-coming-intelligence-explosion Comments URL: https://news.ycombinator.com/item?id=48549628 Points: 184 # Comments: 508",
       "source": "Hacker News",
       "published": "2026-06-16T02:00:45+00:00",
       "link": "https://www.economist.com/by-invitation/2026/06/15/humanity-isnt-ready-for-the-coming-intelligence-explosion"
@@ -1302,104 +1400,6 @@ const FEED_DATA = {
       "source": "The Verge",
       "published": "2026-06-12T14:03:39+00:00",
       "link": "https://www.theverge.com/ai-artificial-intelligence/949005/jeff-bezos-prometheus-artificial-general-engineer"
-    },
-    {
-      "title": "Mistral AI seeks 3 billion euros to fund its European AI push",
-      "summary": "French AI startup Mistral AI is negotiating a new funding round of around 3 billion euros at a valuation of approximately 20 billion euros. The article Mistral AI seeks 3 billion euros to fund its European AI push appeared first on The Decoder.",
-      "source": "The Decoder",
-      "published": "2026-06-12T13:48:31+00:00",
-      "link": "https://the-decoder.com/mistral-ai-seeks-3-billion-euros-to-fund-its-european-ai-push/"
-    },
-    {
-      "title": "The Download: “reprogramming” aging, and the hidden sense of interoception",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.",
-      "source": "MIT Tech Review",
-      "published": "2026-06-12T12:10:00+00:00",
-      "link": "https://www.technologyreview.com/2026/06/12/1138899/the-download-reprogramming-reverse-aging-interoception/"
-    },
-    {
-      "title": "The AI industry's platform trap is starting to look a lot like Microsoft's",
-      "summary": "Anthropic is throttling its new Mythos model for certain tasks while building apps that directly compete with its largest customers. Customers, partners, and investors are pushing back.",
-      "source": "The Decoder",
-      "published": "2026-06-12T11:45:14+00:00",
-      "link": "https://the-decoder.com/the-ai-industrys-platform-trap-is-starting-to-look-a-lot-like-microsofts/"
-    },
-    {
-      "title": "OpenAI buys Ona to push Codex toward long-running, autonomous coding tasks",
-      "summary": "OpenAI is acquiring Ona, previously known as Gitpod, a startup founded in Kiel, Germany in 2020 that specializes in AI agents and secure cloud development environments for software development.",
-      "source": "The Decoder",
-      "published": "2026-06-12T10:13:55+00:00",
-      "link": "https://the-decoder.com/openai-buys-ona-to-push-codex-toward-long-running-autonomous-coding-tasks/"
-    },
-    {
-      "title": "You Probably Won’t Get Rich Off the SpaceX IPO",
-      "summary": "The company has set aside an unusually high number of shares for retail investors. Still, experts say, you’re just getting the crumbs.",
-      "source": "Wired",
-      "published": "2026-06-12T09:30:00+00:00",
-      "link": "https://www.wired.com/story/you-probably-wont-get-rich-off-the-spacex-ipo/"
-    },
-    {
-      "title": "Why “reprogramming” is the buzziest approach to reversing aging right now",
-      "summary": "Earlier this week, Life Biosciences, a biotech company focused on reversing age-related diseases, announced that it had dosed its first volunteer. A person with glaucoma has had an experimental treatment injected straight into their eyeball.",
-      "source": "MIT Tech Review",
-      "published": "2026-06-12T09:00:00+00:00",
-      "link": "https://www.technologyreview.com/2026/06/12/1138829/reprogramming-buzziest-approach-reversing-aging-right-now/"
-    },
-    {
-      "title": "Inside interoception: The hidden sense of how you feel inside",
-      "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of science and technology to help you understand what’s coming next. You can read more from the series here.",
-      "source": "MIT Tech Review",
-      "published": "2026-06-12T09:00:00+00:00",
-      "link": "https://www.technologyreview.com/2026/06/12/1138833/inside-interoception-brain-body/"
-    },
-    {
-      "title": "Siri won’t be your AI girlfriend",
-      "summary": "Our early testing has already shown that Siri AI knows when to shut up, and that's very much by design. In an interview with Mostly Human spotted by MacRumors, Craig Federighi said Apple's new Siri won't act all sycophantic like chatbots made by OpenAI, Google, and others.",
-      "source": "The Verge",
-      "published": "2026-06-12T07:00:31+00:00",
-      "link": "https://www.theverge.com/tech/948890/siri-wont-be-your-ai-girlfriend"
-    },
-    {
-      "title": "AI agent bankrupted their operator while trying to scan DN42",
-      "summary": "Article URL: https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/ Comments URL: https://news.ycombinator.com/item?id=48500012 Points: 1460 # Comments: 531",
-      "source": "Hacker News",
-      "published": "2026-06-12T04:42:53+00:00",
-      "link": "https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/"
-    },
-    {
-      "title": "Cheaper, faster, and culturally aware, Avataar’s video AI is built for India’s scale",
-      "summary": "Avataar AI's distilled video model is priced at $0.005 for every second of generation.",
-      "source": "TechCrunch",
-      "published": "2026-06-12T04:30:00+00:00",
-      "link": "https://techcrunch.com/2026/06/11/cheaper-faster-and-culturally-aware-avataars-video-ai-is-built-for-indias-scale/"
-    },
-    {
-      "title": "Theker just raised $85M to build the factory robot that doesn’t specialize in anything",
-      "summary": "Unlike humanoid robots designed around a fixed form — think Boston Dynamics — Theker's machines are built to be reconfigured.",
-      "source": "TechCrunch",
-      "published": "2026-06-12T01:48:07+00:00",
-      "link": "https://techcrunch.com/2026/06/11/theker-just-raised-85m-to-build-the-factory-robot-that-doesnt-specialize-in-anything/"
-    },
-    {
-      "title": "Jeff Bezos’s Prometheus raises $12B to build an ‘artificial general engineer’ for the physical world",
-      "summary": "The new round values the physical AI startup that aims to automate heavy engineering and drug design at $41 billion.",
-      "source": "TechCrunch",
-      "published": "2026-06-12T01:04:38+00:00",
-      "link": "https://techcrunch.com/2026/06/11/jeff-bezoss-prometheus-raises-12b-to-build-an-artificial-general-engineer-for-the-physical-world/"
-    },
-    {
-      "title": "Apple’s Camera Chief Thinks AI Can Give You Superpowers",
-      "summary": "The generative features in iOS 27’s new Photos app will add fake pixels to some of your shots, but Apple’s Jon McCormack says the company isn’t using AI “for the sake of AI.”",
-      "source": "Wired",
-      "published": "2026-06-12T01:00:00+00:00",
-      "link": "https://www.wired.com/story/apple-camera-chief-thinks-ai-can-give-you-superpowers/"
-    },
-    {
-      "title": "Why You Might Already Own SpaceX Shares, Siri’s AI Makeover, and Knicks Owner’s Surveillance Machine",
-      "summary": "Today on Uncanny Valley, we take an early look at the SpaceX IPO and why you might find yourself among the investors without even realizing it.",
-      "source": "Wired",
-      "published": "2026-06-11T23:37:49+00:00",
-      "link": "https://www.wired.com/story/uncanny-valley-podcast-why-you-might-already-own-spacex-shares-siri-ai-makeover-knicks-owner-surveillance-machine/"
     }
   ]
 };
