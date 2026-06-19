@@ -1,6 +1,55 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-06-19T12:38:30.026311+00:00",
+  "lastUpdated": "2026-06-19T16:07:01.523394+00:00",
   "items": [
+    {
+      "title": "The US banned Anthropic’s Fable 5 release, but the numbers don’t seem to care",
+      "summary": "Just as last week was ending, the US government forced Anthropic to pull its two newest models, Fable 5 and Mythos 5, citing national security concerns after Amazon researchers allegedly found a way to bypass Fable 5’s guardrails.",
+      "source": "TechCrunch",
+      "published": "2026-06-19T16:01:03+00:00",
+      "link": "https://techcrunch.com/podcast/the-us-banned-anthropics-fable-5-release-but-the-numbers-dont-seem-to-care/"
+    },
+    {
+      "title": "Billionaire Ambani wants AI in every call, app, and home",
+      "summary": "Reliance is weaving AI into telecom services used by more than 500 million people.",
+      "source": "TechCrunch",
+      "published": "2026-06-19T15:23:28+00:00",
+      "link": "https://techcrunch.com/2026/06/19/billionaire-ambani-wants-ai-in-every-call-app-and-home/"
+    },
+    {
+      "title": "More people get news from AI chatbots, but trust remains low",
+      "summary": "According to the Reuters Institute's Digital News Report 2026, 10 percent of people worldwide now use AI chatbots for news every week, up from 7 percent a year ago. Only 4 percent regularly click through to the original source.",
+      "source": "The Decoder",
+      "published": "2026-06-19T14:42:25+00:00",
+      "link": "https://the-decoder.com/more-people-get-news-from-ai-chatbots-but-trust-remains-low/"
+    },
+    {
+      "title": "The film about Sam Altman has been dropped by Amazon MGM",
+      "summary": "Luca Guadagnino's film about OpenAI CEO Sam Altman, Artificial, has reportedly been dropped by Amazon MGM.",
+      "source": "The Verge",
+      "published": "2026-06-19T14:15:29+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/952906/sam-altman-film-artificial-openai-amazon-mgm-dropped"
+    },
+    {
+      "title": "SAP and Google Cloud deploy agentic commerce architecture",
+      "summary": "SAP and Google Cloud are deploying agentic commerce architecture to automate multi-agent marketing and retail operations at enterprise scale. SAP research indicates 78 percent of businesses consider AI essential for retaining customers in 2026.",
+      "source": "AI News",
+      "published": "2026-06-19T14:02:20+00:00",
+      "link": "https://www.artificialintelligence-news.com/news/sap-and-google-cloud-deploy-agentic-commerce-architecture/"
+    },
+    {
+      "title": "New benchmark exposes how badly AI struggles with real knowledge work",
+      "summary": "Even the best AI model fails at realistic knowledge work, fully solving just 3 percent of tasks. The article New benchmark exposes how badly AI struggles with real knowledge work appeared first on The Decoder.",
+      "source": "The Decoder",
+      "published": "2026-06-19T13:50:55+00:00",
+      "link": "https://the-decoder.com/new-benchmark-exposes-how-badly-ai-struggles-with-real-knowledge-work/"
+    },
+    {
+      "title": "The CEO of Allbirds’ new AI biz has a plan, but no employees",
+      "summary": "Call it a startup with a sole founder and a very large seed round, but what's next is less clear.",
+      "source": "TechCrunch",
+      "published": "2026-06-19T13:00:00+00:00",
+      "link": "https://techcrunch.com/2026/06/19/the-ceo-of-allbirds-new-ai-biz-has-a-plan-but-no-employees/"
+    },
     {
       "title": "The Download: AI bottleneck debates, and BCI trials take off",
       "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.",
@@ -59,7 +108,7 @@ const FEED_DATA = {
     },
     {
       "title": "Generative AI Is Having Its Herbalife Moment",
-      "summary": "Article URL: https://www.whatwelo.st/p/generative-ai-is-having-its-herbalife Comments URL: https://news.ycombinator.com/item?id=48595144 Points: 53 # Comments: 54",
+      "summary": "Article URL: https://www.whatwelo.st/p/generative-ai-is-having-its-herbalife Comments URL: https://news.ycombinator.com/item?id=48595144 Points: 59 # Comments: 54",
       "source": "Hacker News",
       "published": "2026-06-19T05:37:51+00:00",
       "link": "https://www.whatwelo.st/p/generative-ai-is-having-its-herbalife"
@@ -101,7 +150,7 @@ const FEED_DATA = {
     },
     {
       "title": "Amazon investigating engineers who criticized AI data center expansion",
-      "summary": "Article URL: https://www.cnbc.com/2026/06/18/amazon-engineers-ai-data-center-opposition.html Comments URL: https://news.ycombinator.com/item?id=48590891 Points: 51 # Comments: 16",
+      "summary": "Article URL: https://www.cnbc.com/2026/06/18/amazon-engineers-ai-data-center-opposition.html Comments URL: https://news.ycombinator.com/item?id=48590891 Points: 53 # Comments: 17",
       "source": "Hacker News",
       "published": "2026-06-18T20:14:15+00:00",
       "link": "https://www.cnbc.com/2026/06/18/amazon-engineers-ai-data-center-opposition.html"
@@ -150,7 +199,7 @@ const FEED_DATA = {
     },
     {
       "title": "The AI Hate Progression",
-      "summary": "Article URL: https://www.xodium.net/2026/06/the-ai-hate-progression.html Comments URL: https://news.ycombinator.com/item?id=48589485 Points: 113 # Comments: 166",
+      "summary": "Article URL: https://www.xodium.net/2026/06/the-ai-hate-progression.html Comments URL: https://news.ycombinator.com/item?id=48589485 Points: 114 # Comments: 170",
       "source": "Hacker News",
       "published": "2026-06-18T18:30:33+00:00",
       "link": "https://www.xodium.net/2026/06/the-ai-hate-progression.html"
@@ -367,7 +416,7 @@ const FEED_DATA = {
     },
     {
       "title": "The hacker sent by Anthropic to calm the government's nerves about AI safety",
-      "summary": "Readable: https://www.wsj.com/tech/ai/anthropic-mythos-safety-nicholas... Comments URL: https://news.ycombinator.com/item?id=48575451 Points: 88 # Comments: 105",
+      "summary": "Readable: https://www.wsj.com/tech/ai/anthropic-mythos-safety-nicholas... Comments URL: https://news.ycombinator.com/item?id=48575451 Points: 88 # Comments: 109",
       "source": "Hacker News",
       "published": "2026-06-17T19:22:02+00:00",
       "link": "https://www.wsj.com/tech/ai/anthropic-mythos-safety-nicholas-carlini-20bceaa3"
@@ -458,14 +507,14 @@ const FEED_DATA = {
     },
     {
       "title": "The Competitive Moat That AI Can't Replicate",
-      "summary": "Article URL: https://ghostinthedata.info/posts/2026/2026-06-13-human-connection-moat/ Comments URL: https://news.ycombinator.com/item?id=48573435 Points: 140 # Comments: 122",
+      "summary": "Article URL: https://ghostinthedata.info/posts/2026/2026-06-13-human-connection-moat/ Comments URL: https://news.ycombinator.com/item?id=48573435 Points: 141 # Comments: 122",
       "source": "Hacker News",
       "published": "2026-06-17T17:14:21+00:00",
       "link": "https://ghostinthedata.info/posts/2026/2026-06-13-human-connection-moat/"
     },
     {
       "title": "Only 16 Percent of Americans Think AI Will Have a Positive Impact on Society",
-      "summary": "Article URL: https://techcrunch.com/2026/06/17/only-16-percent-of-americans-think-ai-will-have-a-positive-impact-on-society-a-new-study-shows/ Comments URL: https://news.ycombinator.com/item?id=48573332 Points: 393 # Comments: 491",
+      "summary": "Article URL: https://techcrunch.com/2026/06/17/only-16-percent-of-americans-think-ai-will-have-a-positive-impact-on-society-a-new-study-shows/ Comments URL: https://news.ycombinator.com/item?id=48573332 Points: 396 # Comments: 492",
       "source": "Hacker News",
       "published": "2026-06-17T17:07:32+00:00",
       "link": "https://techcrunch.com/2026/06/17/only-16-percent-of-americans-think-ai-will-have-a-positive-impact-on-society-a-new-study-shows/"
@@ -535,7 +584,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI demands more engineering discipline. Not less",
-      "summary": "Article URL: https://charitydotwtf.substack.com/p/ai-demands-more-engineering-discipline Comments URL: https://news.ycombinator.com/item?id=48570948 Points: 412 # Comments: 210",
+      "summary": "Article URL: https://charitydotwtf.substack.com/p/ai-demands-more-engineering-discipline Comments URL: https://news.ycombinator.com/item?id=48570948 Points: 419 # Comments: 211",
       "source": "Hacker News",
       "published": "2026-06-17T14:20:44+00:00",
       "link": "https://charitydotwtf.substack.com/p/ai-demands-more-engineering-discipline"
@@ -570,7 +619,7 @@ const FEED_DATA = {
     },
     {
       "title": "Sixty percent of US consumers say 'AI' in brand messaging is a turnoff",
-      "summary": "Article URL: https://wpvip.com/future-of-the-web-2026/ Comments URL: https://news.ycombinator.com/item?id=48569278 Points: 1069 # Comments: 573",
+      "summary": "Article URL: https://wpvip.com/future-of-the-web-2026/ Comments URL: https://news.ycombinator.com/item?id=48569278 Points: 1074 # Comments: 573",
       "source": "Hacker News",
       "published": "2026-06-17T12:11:27+00:00",
       "link": "https://wpvip.com/future-of-the-web-2026/"
@@ -612,7 +661,7 @@ const FEED_DATA = {
     },
     {
       "title": "GLM-5.2 is the new leading open weights model on Artificial Analysis",
-      "summary": "Article URL: https://artificialanalysis.ai/articles/glm-5-2-is-the-new-leading-open-weights-model-on-the-artificial-analysis-intelligence-index Comments URL: https://news.ycombinator.com/item?id=48567759 Points: 883 # Comments: 437",
+      "summary": "Article URL: https://artificialanalysis.ai/articles/glm-5-2-is-the-new-leading-open-weights-model-on-the-artificial-analysis-intelligence-index Comments URL: https://news.ycombinator.com/item?id=48567759 Points: 886 # Comments: 439",
       "source": "Hacker News",
       "published": "2026-06-17T09:12:00+00:00",
       "link": "https://artificialanalysis.ai/articles/glm-5-2-is-the-new-leading-open-weights-model-on-the-artificial-analysis-intelligence-index"
@@ -633,7 +682,7 @@ const FEED_DATA = {
     },
     {
       "title": "The founder's playbook: Building an AI-native startup",
-      "summary": "Article URL: https://claude.com/blog/the-founders-playbook Comments URL: https://news.ycombinator.com/item?id=48566832 Points: 240 # Comments: 167",
+      "summary": "Article URL: https://claude.com/blog/the-founders-playbook Comments URL: https://news.ycombinator.com/item?id=48566832 Points: 241 # Comments: 167",
       "source": "Hacker News",
       "published": "2026-06-17T07:04:42+00:00",
       "link": "https://claude.com/blog/the-founders-playbook"
@@ -1351,55 +1400,6 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-06-13T12:20:39+00:00",
       "link": "https://the-decoder.com/microsofts-skillopt-boosts-gpt-5-5-by-using-nothing-but-a-trained-markdown-file/"
-    },
-    {
-      "title": "AI OSS tool repo goes archived over night after raising $7.3M Seed",
-      "summary": "Article URL: https://github.com/tensorzero/tensorzero Comments URL: https://news.ycombinator.com/item?id=48516504 Points: 279 # Comments: 173",
-      "source": "Hacker News",
-      "published": "2026-06-13T12:10:47+00:00",
-      "link": "https://github.com/tensorzero/tensorzero"
-    },
-    {
-      "title": "Apple’s new AI photo editing tools mostly work, for better and worse",
-      "summary": "The most popular camera in the world just got its first set of serious AI photo editing features, and I don't think any of us are ready. As far as AI photo editing goes, the new features in iOS 27 are pretty tame compared to what you can do on, say, Google's Pixel phones.",
-      "source": "The Verge",
-      "published": "2026-06-13T12:00:00+00:00",
-      "link": "https://www.theverge.com/tech/949360/apple-ai-photo-edit-reframe-extend-clean-up-hands-on"
-    },
-    {
-      "title": "The future of Hollywood isn’t feeding prompts into vanilla gen AI models",
-      "summary": "For all the noise that's been made about how generative AI is poised to revolutionize the filmmaking industry, there haven't really been any projects created with the technology that felt like the sort of entertainment people would pay to see.",
-      "source": "The Verge",
-      "published": "2026-06-13T11:00:00+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/948425/tribeca-2026-dear-upstairs-neighbors-google-deepmind-openai"
-    },
-    {
-      "title": "KPMG's AI report turns into a demo of AI hallucinations",
-      "summary": "Article URL: https://www.theregister.com/ai-and-ml/2026/06/12/kpmgs-ai-report-turns-into-a-demo-of-ai-hallucinations/5255029 Comments URL: https://news.ycombinator.com/item?id=48515733 Points: 55 # Comments: 23",
-      "source": "Hacker News",
-      "published": "2026-06-13T10:32:38+00:00",
-      "link": "https://www.theregister.com/ai-and-ml/2026/06/12/kpmgs-ai-report-turns-into-a-demo-of-ai-hallucinations/5255029"
-    },
-    {
-      "title": "Claude Fable 5 outpaces GPT-5.5 by 13 points on FrontierMath's toughest problems",
-      "summary": "Anthropic's Claude Fable 5 hits 88 percent accuracy on the hardest FrontierMath tier, a massive jump from Opus 4.5, which sat below 10 percent in early 2026. OpenAI's GPT-5.5 reaches about 75 percent on the same tier.",
-      "source": "The Decoder",
-      "published": "2026-06-13T10:16:26+00:00",
-      "link": "https://the-decoder.com/claude-fable-5-outpaces-gpt-5-5-by-13-points-on-frontiermaths-toughest-problems/"
-    },
-    {
-      "title": "Meta shifts from \"tokenmaxxing\" to token managing as internal AI costs reportedly hit billions",
-      "summary": "An internal memo to 6,000 employees reveals Meta is heading toward billions in AI costs from internal use alone. Starting in 2027, budgets, allocations, and a central dashboard called \"AI Gateway\" will govern token consumption.",
-      "source": "The Decoder",
-      "published": "2026-06-13T09:49:28+00:00",
-      "link": "https://the-decoder.com/meta-shifts-from-tokenmaxxing-to-token-managing-as-internal-ai-costs-reportedly-hit-billions/"
-    },
-    {
-      "title": "Show HN: Paca – Lightweight Jira alternative for human-AI collaboration",
-      "summary": "I built Paca out of pure passion—a free and lightweight Jira alternative written in Go where humans and AI agents work together as equal teammates to plan sprints and assign tasks to each other.",
-      "source": "Hacker News",
-      "published": "2026-06-13T09:44:25+00:00",
-      "link": "https://github.com/Paca-AI/paca"
     }
   ]
 };
