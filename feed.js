@@ -1,6 +1,20 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-06-18T22:52:11.793282+00:00",
+  "lastUpdated": "2026-06-19T06:17:11.684360+00:00",
   "items": [
+    {
+      "title": "Barret Zoph is out at OpenAI again after just five months",
+      "summary": "Five months after returning to OpenAI, Barret Zoph - the company's head of enterprise AI sales - has departed, The Verge has learned.",
+      "source": "The Verge",
+      "published": "2026-06-19T04:49:33+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/952837/barret-zoph-openai-thinking-machines-lab"
+    },
+    {
+      "title": "Source: Elastic agrees to buy CRV-backed DeductiveAI for up to $85M",
+      "summary": "DeductiveAI, a startup that uses AI to catch and resolve bugs in software, was founded just three years ago.",
+      "source": "TechCrunch",
+      "published": "2026-06-19T00:51:11+00:00",
+      "link": "https://techcrunch.com/2026/06/18/source-elastic-agrees-to-buy-crv-backed-deductiveai-for-up-to-85m/"
+    },
     {
       "title": "AI inference startup Baseten reportedly raising $1.5B months after its last mega-round",
       "summary": "Startup Baseten is reportedly close to finalizing a $1.5 billion round at a $13 billion as the “inference gold rush\" marches on.",
@@ -58,8 +72,8 @@ const FEED_DATA = {
       "link": "https://the-decoder.com/alleged-china-ties-at-sk-telecom-alarmed-us-officials-and-triggered-anthropic-crisis/"
     },
     {
-      "title": "Almost half of U.S. singles feel negatively about AI in dating, Match says",
-      "summary": "About 47% of singles look negatively at the use of AI in dating -- but, many dating app users are open to AI helping with profile punch-ups and conversation starters.",
+      "title": "Almost half of US singles feel negatively about AI in dating, Match says",
+      "summary": "About 47% of singles look negatively at the use of AI in dating -- but many dating app users are open to AI helping with profile punch-ups and conversation starters.",
       "source": "TechCrunch",
       "published": "2026-06-18T18:51:46+00:00",
       "link": "https://techcrunch.com/2026/06/18/almost-half-of-u-s-singles-feel-negatively-about-ai-in-dating-match-says/"
@@ -91,6 +105,13 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-06-18T17:49:23+00:00",
       "link": "https://techcrunch.com/2026/06/18/ai-data-centers-just-got-a-government-mandated-fast-lane-to-the-grid/"
+    },
+    {
+      "title": "‘Queer Eye’ life coach Karamo Brown launches Kē, a wellness app featuring his AI digital clone",
+      "summary": "After spending a year and a half focusing on his own journey — from fitness and nutrition to meditation, sobriety, relationships, and personal growth — Brown wants to help others do the same.",
+      "source": "TechCrunch",
+      "published": "2026-06-18T16:55:04+00:00",
+      "link": "https://techcrunch.com/2026/06/18/queer-eyes-life-coach-karamo-brown-launches-ke-a-wellness-app-featuring-his-ai-digital-clone/"
     },
     {
       "title": "‘Queer Eye’s’ life coach Karamo Brown launches Kē, a wellness app featuring his AI digital clone",
@@ -1379,27 +1400,6 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-06-12T23:00:54+00:00",
       "link": "https://techcrunch.com/2026/06/12/metas-months-old-ai-unit-is-a-soul-crushing-gulag-say-the-engineers-stuck-inside-it/"
-    },
-    {
-      "title": "‘Tell Him He’s a Piece of Shit’: Meta’s New AI Unit Is a Total Mess",
-      "summary": "Executives and employees alike are struggling with Meta’s chaotic AI strategy, according to sources and internal discussions reviewed by WIRED.",
-      "source": "Wired",
-      "published": "2026-06-12T21:16:25+00:00",
-      "link": "https://www.wired.com/story/mark-zuckerberg-meta-employee-meeting-interrupt-ai/"
-    },
-    {
-      "title": "Chinese cybercrime operation that used AI to scam ‘hundreds of thousands of victims’ sued by Google",
-      "summary": "The tech giant said a group called \"Outsider Enterprise\" used AI to scam hundreds of thousands of victims, sending 2.5 million text messages over a span of two weeks.",
-      "source": "TechCrunch",
-      "published": "2026-06-12T20:38:09+00:00",
-      "link": "https://techcrunch.com/2026/06/12/chinese-cybercrime-operation-that-used-ai-to-scam-hundreds-of-thousands-of-victims-sued-by-google/"
-    },
-    {
-      "title": "Over half of Americans fear losing both their jobs and their independent thinking to AI, survey finds",
-      "summary": "Anthropic surveyed nearly 52,000 Americans about their hopes and fears around AI. Sixty-four percent fear job losses, and 56 percent worry about losing the ability to think for themselves.",
-      "source": "The Decoder",
-      "published": "2026-06-12T18:40:26+00:00",
-      "link": "https://the-decoder.com/over-half-of-americans-fear-losing-both-their-jobs-and-their-independent-thinking-to-ai-survey-finds/"
     }
   ]
 };
