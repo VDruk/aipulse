@@ -1,9 +1,16 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-06-19T21:58:38.823822+00:00",
+  "lastUpdated": "2026-06-20T05:12:25.892397+00:00",
   "items": [
     {
+      "title": "From PGP to Mythos: a brief history of export controls that didn’t stop anyone",
+      "summary": "For the last 30 years, stopping the flow of cybersecurity-related software has proven to be ineffective. It's unclear why it would work now with Anthropic’s cybersecurity model Mythos.",
+      "source": "TechCrunch",
+      "published": "2026-06-19T22:40:14+00:00",
+      "link": "https://techcrunch.com/2026/06/19/encryption-spyware-and-now-mythos-history-shows-why-cyber-export-control-doesnt-work/"
+    },
+    {
       "title": "Companies rein in AI usage as costs strain budgets",
-      "summary": "https://archive.ph/z24oE Comments URL: https://news.ycombinator.com/item?id=48602571 Points: 55 # Comments: 38",
+      "summary": "https://archive.ph/z24oE Comments URL: https://news.ycombinator.com/item?id=48602571 Points: 98 # Comments: 88",
       "source": "Hacker News",
       "published": "2026-06-19T19:57:18+00:00",
       "link": "https://www.ft.com/content/1d37cc08-e0aa-45a4-a45d-4ad282529314"
@@ -17,7 +24,7 @@ const FEED_DATA = {
     },
     {
       "title": "Is AI ruining our skills? Early results are in – and they're not good",
-      "summary": "Article URL: https://www.nature.com/articles/d41586-026-01947-1 Comments URL: https://news.ycombinator.com/item?id=48601286 Points: 184 # Comments: 249",
+      "summary": "Article URL: https://www.nature.com/articles/d41586-026-01947-1 Comments URL: https://news.ycombinator.com/item?id=48601286 Points: 211 # Comments: 278",
       "source": "Hacker News",
       "published": "2026-06-19T18:00:48+00:00",
       "link": "https://www.nature.com/articles/d41586-026-01947-1"
@@ -44,8 +51,15 @@ const FEED_DATA = {
       "link": "https://techcrunch.com/video/is-the-us-governments-anthropic-ban-accidentally-helping-the-brand/"
     },
     {
+      "title": "AI Engineer Claims to Have Cracked Linear A",
+      "summary": "Article URL: https://aiclambake.com/clamtakes/linear-a/ Comments URL: https://news.ycombinator.com/item?id=48600107 Points: 415 # Comments: 162",
+      "source": "Hacker News",
+      "published": "2026-06-19T16:04:42+00:00",
+      "link": "https://aiclambake.com/clamtakes/linear-a/"
+    },
+    {
       "title": "Norway imposes near ban on AI in elementary school",
-      "summary": "Article URL: https://www.reuters.com/technology/norway-imposes-near-ban-ai-elementary-school-2026-06-19/ Comments URL: https://news.ycombinator.com/item?id=48600093 Points: 83 # Comments: 55",
+      "summary": "Article URL: https://www.reuters.com/technology/norway-imposes-near-ban-ai-elementary-school-2026-06-19/ Comments URL: https://news.ycombinator.com/item?id=48600093 Points: 541 # Comments: 366",
       "source": "Hacker News",
       "published": "2026-06-19T16:03:15+00:00",
       "link": "https://www.reuters.com/technology/norway-imposes-near-ban-ai-elementary-school-2026-06-19/"
@@ -91,6 +105,13 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-06-19T13:50:55+00:00",
       "link": "https://the-decoder.com/new-benchmark-exposes-how-badly-ai-struggles-with-real-knowledge-work/"
+    },
+    {
+      "title": "The CEO of Allbirds’ new AI biz has a plan, but no team",
+      "summary": "Call it a startup with a sole founder and a very large seed round, but what's next is less clear.",
+      "source": "TechCrunch",
+      "published": "2026-06-19T13:00:00+00:00",
+      "link": "https://techcrunch.com/2026/06/19/the-ceo-of-allbirds-new-ai-biz-has-a-plan-but-no-employees/"
     },
     {
       "title": "The CEO of Allbirds’ new AI biz has a plan, but no employees",
@@ -149,6 +170,13 @@ const FEED_DATA = {
       "link": "https://the-decoder.com/website-in-the-weights-shows-whether-ai-models-know-who-you-are/"
     },
     {
+      "title": "The US says ASML’s top chip tool may be in China, but how?",
+      "summary": "There's a commercial logic that cuts against the idea that ASML would risk its export license to arm a Chinese customer.",
+      "source": "TechCrunch",
+      "published": "2026-06-19T07:59:12+00:00",
+      "link": "https://techcrunch.com/2026/06/19/the-us-says-asmls-top-chip-tool-may-be-in-china-asml-says-it-isnt/"
+    },
+    {
       "title": "The US says ASML’s top chip tool may be in China. ASML says it isn’t.",
       "summary": "There's a commercial logic that cuts against the idea that ASML would risk its export license to arm a Chinese customer.",
       "source": "TechCrunch",
@@ -157,7 +185,7 @@ const FEED_DATA = {
     },
     {
       "title": "Generative AI Is Having Its Herbalife Moment",
-      "summary": "Article URL: https://www.whatwelo.st/p/generative-ai-is-having-its-herbalife Comments URL: https://news.ycombinator.com/item?id=48595144 Points: 64 # Comments: 59",
+      "summary": "Article URL: https://www.whatwelo.st/p/generative-ai-is-having-its-herbalife Comments URL: https://news.ycombinator.com/item?id=48595144 Points: 68 # Comments: 61",
       "source": "Hacker News",
       "published": "2026-06-19T05:37:51+00:00",
       "link": "https://www.whatwelo.st/p/generative-ai-is-having-its-herbalife"
@@ -206,7 +234,7 @@ const FEED_DATA = {
     },
     {
       "title": "Amazon investigating engineers who criticized AI data center expansion",
-      "summary": "Article URL: https://www.cnbc.com/2026/06/18/amazon-engineers-ai-data-center-opposition.html Comments URL: https://news.ycombinator.com/item?id=48590891 Points: 55 # Comments: 15",
+      "summary": "Article URL: https://www.cnbc.com/2026/06/18/amazon-engineers-ai-data-center-opposition.html Comments URL: https://news.ycombinator.com/item?id=48590891 Points: 55 # Comments: 16",
       "source": "Hacker News",
       "published": "2026-06-18T20:14:15+00:00",
       "link": "https://www.cnbc.com/2026/06/18/amazon-engineers-ai-data-center-opposition.html"
@@ -255,7 +283,7 @@ const FEED_DATA = {
     },
     {
       "title": "The AI Hate Progression",
-      "summary": "Article URL: https://www.xodium.net/2026/06/the-ai-hate-progression.html Comments URL: https://news.ycombinator.com/item?id=48589485 Points: 121 # Comments: 180",
+      "summary": "Article URL: https://www.xodium.net/2026/06/the-ai-hate-progression.html Comments URL: https://news.ycombinator.com/item?id=48589485 Points: 123 # Comments: 186",
       "source": "Hacker News",
       "published": "2026-06-18T18:30:33+00:00",
       "link": "https://www.xodium.net/2026/06/the-ai-hate-progression.html"
@@ -280,6 +308,13 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-06-18T17:49:23+00:00",
       "link": "https://techcrunch.com/2026/06/18/ai-data-centers-just-got-a-government-mandated-fast-lane-to-the-grid/"
+    },
+    {
+      "title": "How to turn off AI in your Google Docs",
+      "summary": "Here's what you need to do to get those pesky \"write with Gemini\" pop-ups to go away.",
+      "source": "TechCrunch",
+      "published": "2026-06-18T17:00:00+00:00",
+      "link": "https://techcrunch.com/2026/06/18/how-to-turn-off-ai-in-your-google-docs/"
     },
     {
       "title": "‘Queer Eye’ life coach Karamo Brown launches Kē, a wellness app featuring his AI digital clone",
@@ -436,13 +471,6 @@ const FEED_DATA = {
       "link": "https://x86ecosystem.org/resource/ai-compute-extensions-ace-specification/"
     },
     {
-      "title": "How to turn off AI in your Google Docs",
-      "summary": "Here's what you need to do to get those pesky \"write with Gemini\" pop-ups to go away.",
-      "source": "TechCrunch",
-      "published": "2026-06-18T01:23:51+00:00",
-      "link": "https://techcrunch.com/2026/06/17/how-to-turn-off-ai-in-your-google-docs/"
-    },
-    {
       "title": "The Korean Telecom Giant at the Center of Anthropic’s Mythos Controversy",
       "summary": "Days before Anthropic took its most advanced AI models offline, the White House ordered the company to revoke SK Telecom’s access to Claude Mythos over claims of alleged ties to China.",
       "source": "Wired",
@@ -570,7 +598,7 @@ const FEED_DATA = {
     },
     {
       "title": "Only 16 Percent of Americans Think AI Will Have a Positive Impact on Society",
-      "summary": "Article URL: https://techcrunch.com/2026/06/17/only-16-percent-of-americans-think-ai-will-have-a-positive-impact-on-society-a-new-study-shows/ Comments URL: https://news.ycombinator.com/item?id=48573332 Points: 397 # Comments: 496",
+      "summary": "Article URL: https://techcrunch.com/2026/06/17/only-16-percent-of-americans-think-ai-will-have-a-positive-impact-on-society-a-new-study-shows/ Comments URL: https://news.ycombinator.com/item?id=48573332 Points: 397 # Comments: 498",
       "source": "Hacker News",
       "published": "2026-06-17T17:07:32+00:00",
       "link": "https://techcrunch.com/2026/06/17/only-16-percent-of-americans-think-ai-will-have-a-positive-impact-on-society-a-new-study-shows/"
@@ -675,7 +703,7 @@ const FEED_DATA = {
     },
     {
       "title": "Sixty percent of US consumers say 'AI' in brand messaging is a turnoff",
-      "summary": "Article URL: https://wpvip.com/future-of-the-web-2026/ Comments URL: https://news.ycombinator.com/item?id=48569278 Points: 1074 # Comments: 574",
+      "summary": "Article URL: https://wpvip.com/future-of-the-web-2026/ Comments URL: https://news.ycombinator.com/item?id=48569278 Points: 1075 # Comments: 574",
       "source": "Hacker News",
       "published": "2026-06-17T12:11:27+00:00",
       "link": "https://wpvip.com/future-of-the-web-2026/"
@@ -717,7 +745,7 @@ const FEED_DATA = {
     },
     {
       "title": "GLM-5.2 is the new leading open weights model on Artificial Analysis",
-      "summary": "Article URL: https://artificialanalysis.ai/articles/glm-5-2-is-the-new-leading-open-weights-model-on-the-artificial-analysis-intelligence-index Comments URL: https://news.ycombinator.com/item?id=48567759 Points: 888 # Comments: 442",
+      "summary": "Article URL: https://artificialanalysis.ai/articles/glm-5-2-is-the-new-leading-open-weights-model-on-the-artificial-analysis-intelligence-index Comments URL: https://news.ycombinator.com/item?id=48567759 Points: 891 # Comments: 442",
       "source": "Hacker News",
       "published": "2026-06-17T09:12:00+00:00",
       "link": "https://artificialanalysis.ai/articles/glm-5-2-is-the-new-leading-open-weights-model-on-the-artificial-analysis-intelligence-index"
@@ -738,7 +766,7 @@ const FEED_DATA = {
     },
     {
       "title": "The founder's playbook: Building an AI-native startup",
-      "summary": "Article URL: https://claude.com/blog/the-founders-playbook Comments URL: https://news.ycombinator.com/item?id=48566832 Points: 242 # Comments: 167",
+      "summary": "Article URL: https://claude.com/blog/the-founders-playbook Comments URL: https://news.ycombinator.com/item?id=48566832 Points: 243 # Comments: 167",
       "source": "Hacker News",
       "published": "2026-06-17T07:04:42+00:00",
       "link": "https://claude.com/blog/the-founders-playbook"
@@ -1372,34 +1400,6 @@ const FEED_DATA = {
       "source": "Hacker News",
       "published": "2026-06-14T01:23:45+00:00",
       "link": "https://www.wired.com/story/mark-zuckerberg-meta-employee-meeting-interrupt-ai/"
-    },
-    {
-      "title": "Amazon security research reportedly led to the White House’s Anthropic Fable ban",
-      "summary": "According to the The Wall Street Journal, the export control directive that led to Anthropic cutting off access to Fable 5 and Mythos 5 was triggered in part by cybersecurity research from Amazon and conversations between CEO Andy Jassy and the White House.",
-      "source": "The Verge",
-      "published": "2026-06-13T21:39:26+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/949601/amazon-anthropic-fablemythos-government-ban"
-    },
-    {
-      "title": "Police officer investigated for using AI to 'create evidence' in multiple cases",
-      "summary": "Article URL: https://news.sky.com/story/derbyshire-police-officer-investigated-for-using-ai-to-create-evidence-in-multiple-cases-13553661 Comments URL: https://news.ycombinator.com/item?id=48520807 Points: 393 # Comments: 196",
-      "source": "Hacker News",
-      "published": "2026-06-13T19:54:55+00:00",
-      "link": "https://news.sky.com/story/derbyshire-police-officer-investigated-for-using-ai-to-create-evidence-in-multiple-cases-13553661"
-    },
-    {
-      "title": "Amazon CEO reportedly raised Anthropic model concerns before government crackdown",
-      "summary": "Amazon CEO Andy Jassy may have been the source of security concerns that led Anthropic to cut off worldwide access to two models on Friday.",
-      "source": "TechCrunch",
-      "published": "2026-06-13T19:11:41+00:00",
-      "link": "https://techcrunch.com/2026/06/13/amazon-ceo-reportedly-raised-anthropic-model-concerns-before-government-crackdown/"
-    },
-    {
-      "title": "PwC Report: AI Making Medical Bills Higher",
-      "summary": "Article URL: https://fortune.com/2026/06/12/ai-making-medical-bills-higher/ Comments URL: https://news.ycombinator.com/item?id=48519519 Points: 80 # Comments: 21",
-      "source": "Hacker News",
-      "published": "2026-06-13T17:39:14+00:00",
-      "link": "https://fortune.com/2026/06/12/ai-making-medical-bills-higher/"
     }
   ]
 };
