@@ -1,6 +1,27 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-06-20T18:06:26.337774+00:00",
+  "lastUpdated": "2026-06-20T22:00:36.351810+00:00",
   "items": [
+    {
+      "title": "Signal’s Meredith Whittaker wants you to remember that AI chatbots ‘are not your friends’",
+      "summary": "\"These are not your friends. These are not conscious beings.",
+      "source": "TechCrunch",
+      "published": "2026-06-20T20:32:29+00:00",
+      "link": "https://techcrunch.com/2026/06/20/signals-meredith-whittaker-wants-you-to-remember-that-ai-chatbots-are-not-your-friends/"
+    },
+    {
+      "title": "In the Weights is your new AI-centric vanity search",
+      "summary": "So ... what's your In the Weights score?",
+      "source": "TechCrunch",
+      "published": "2026-06-20T19:41:11+00:00",
+      "link": "https://techcrunch.com/2026/06/20/in-the-weights-is-your-new-ai-centric-vanity-search/"
+    },
+    {
+      "title": "The Atlantic created a searchable database of the music used to train AI",
+      "summary": "Atlantic reporter Alex Reisner recently uncovered four datasets of music being used to train AI models and made them fully searchable for the public. Two of the sets are absolutely enormous at 12 million and 9 million tracks.",
+      "source": "The Verge",
+      "published": "2026-06-20T18:46:48+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/953183/the-atlantic-searchable-database-music-ai-training-data"
+    },
     {
       "title": "The EU doesn't really know what a deepfake is, and that's becoming a problem for retail",
       "summary": "Eurocommerce, the trade association behind Amazon, H&M, and IKEA, wants AI-generated ads exempt from the EU AI Act's transparency rules. The argument: an AI-generated living room image used to sell a sofa isn't a deepfake.",
@@ -30,8 +51,8 @@ const FEED_DATA = {
       "link": "https://the-decoder.com/nyu-finance-professor-damodaran-warns-an-ai-crash-could-hit-harder-than-the-dot-com-bust/"
     },
     {
-      "title": "Temporary Cloudflare Accounts for AI Agents",
-      "summary": "Article URL: https://blog.cloudflare.com/temporary-accounts/ Comments URL: https://news.ycombinator.com/item?id=48608394 Points: 69 # Comments: 45",
+      "title": "Temporary Cloudflare accounts for AI agents",
+      "summary": "Article URL: https://blog.cloudflare.com/temporary-accounts/ Comments URL: https://news.ycombinator.com/item?id=48608394 Points: 130 # Comments: 81",
       "source": "Hacker News",
       "published": "2026-06-20T11:19:05+00:00",
       "link": "https://blog.cloudflare.com/temporary-accounts/"
@@ -73,7 +94,7 @@ const FEED_DATA = {
     },
     {
       "title": "Companies rein in AI usage as costs strain budgets",
-      "summary": "https://archive.ph/z24oE Comments URL: https://news.ycombinator.com/item?id=48602571 Points: 117 # Comments: 103",
+      "summary": "https://archive.ph/z24oE Comments URL: https://news.ycombinator.com/item?id=48602571 Points: 118 # Comments: 104",
       "source": "Hacker News",
       "published": "2026-06-19T19:57:18+00:00",
       "link": "https://www.ft.com/content/1d37cc08-e0aa-45a4-a45d-4ad282529314"
@@ -87,7 +108,7 @@ const FEED_DATA = {
     },
     {
       "title": "Is AI ruining our skills? Early results are in – and they're not good",
-      "summary": "Article URL: https://www.nature.com/articles/d41586-026-01947-1 Comments URL: https://news.ycombinator.com/item?id=48601286 Points: 233 # Comments: 311",
+      "summary": "Article URL: https://www.nature.com/articles/d41586-026-01947-1 Comments URL: https://news.ycombinator.com/item?id=48601286 Points: 237 # Comments: 312",
       "source": "Hacker News",
       "published": "2026-06-19T18:00:48+00:00",
       "link": "https://www.nature.com/articles/d41586-026-01947-1"
@@ -108,7 +129,7 @@ const FEED_DATA = {
     },
     {
       "title": "GPT-5.5 hallucinates 3x more than MIT-licensed GLM-5.2",
-      "summary": "Article URL: https://arrowtsx.dev/bigger-models/ Comments URL: https://news.ycombinator.com/item?id=48600167 Points: 424 # Comments: 207",
+      "summary": "Article URL: https://arrowtsx.dev/bigger-models/ Comments URL: https://news.ycombinator.com/item?id=48600167 Points: 483 # Comments: 240",
       "source": "Hacker News",
       "published": "2026-06-19T16:11:25+00:00",
       "link": "https://arrowtsx.dev/bigger-models/"
@@ -122,14 +143,14 @@ const FEED_DATA = {
     },
     {
       "title": "AI Engineer Claims to Have Cracked Linear A",
-      "summary": "Article URL: https://aiclambake.com/clamtakes/linear-a/ Comments URL: https://news.ycombinator.com/item?id=48600107 Points: 431 # Comments: 169",
+      "summary": "Article URL: https://aiclambake.com/clamtakes/linear-a/ Comments URL: https://news.ycombinator.com/item?id=48600107 Points: 434 # Comments: 172",
       "source": "Hacker News",
       "published": "2026-06-19T16:04:42+00:00",
       "link": "https://aiclambake.com/clamtakes/linear-a/"
     },
     {
       "title": "Norway imposes near ban on AI in elementary school",
-      "summary": "Article URL: https://www.reuters.com/technology/norway-imposes-near-ban-ai-elementary-school-2026-06-19/ Comments URL: https://news.ycombinator.com/item?id=48600093 Points: 765 # Comments: 540",
+      "summary": "Article URL: https://www.reuters.com/technology/norway-imposes-near-ban-ai-elementary-school-2026-06-19/ Comments URL: https://news.ycombinator.com/item?id=48600093 Points: 776 # Comments: 561",
       "source": "Hacker News",
       "published": "2026-06-19T16:03:15+00:00",
       "link": "https://www.reuters.com/technology/norway-imposes-near-ban-ai-elementary-school-2026-06-19/"
@@ -255,7 +276,7 @@ const FEED_DATA = {
     },
     {
       "title": "Generative AI Is Having Its Herbalife Moment",
-      "summary": "Article URL: https://www.whatwelo.st/p/generative-ai-is-having-its-herbalife Comments URL: https://news.ycombinator.com/item?id=48595144 Points: 68 # Comments: 63",
+      "summary": "Article URL: https://www.whatwelo.st/p/generative-ai-is-having-its-herbalife Comments URL: https://news.ycombinator.com/item?id=48595144 Points: 68 # Comments: 64",
       "source": "Hacker News",
       "published": "2026-06-19T05:37:51+00:00",
       "link": "https://www.whatwelo.st/p/generative-ai-is-having-its-herbalife"
@@ -353,7 +374,7 @@ const FEED_DATA = {
     },
     {
       "title": "The AI Hate Progression",
-      "summary": "Article URL: https://www.xodium.net/2026/06/the-ai-hate-progression.html Comments URL: https://news.ycombinator.com/item?id=48589485 Points: 123 # Comments: 186",
+      "summary": "Article URL: https://www.xodium.net/2026/06/the-ai-hate-progression.html Comments URL: https://news.ycombinator.com/item?id=48589485 Points: 123 # Comments: 187",
       "source": "Hacker News",
       "published": "2026-06-18T18:30:33+00:00",
       "link": "https://www.xodium.net/2026/06/the-ai-hate-progression.html"
@@ -668,7 +689,7 @@ const FEED_DATA = {
     },
     {
       "title": "Only 16 Percent of Americans Think AI Will Have a Positive Impact on Society",
-      "summary": "Article URL: https://techcrunch.com/2026/06/17/only-16-percent-of-americans-think-ai-will-have-a-positive-impact-on-society-a-new-study-shows/ Comments URL: https://news.ycombinator.com/item?id=48573332 Points: 397 # Comments: 498",
+      "summary": "Article URL: https://techcrunch.com/2026/06/17/only-16-percent-of-americans-think-ai-will-have-a-positive-impact-on-society-a-new-study-shows/ Comments URL: https://news.ycombinator.com/item?id=48573332 Points: 398 # Comments: 499",
       "source": "Hacker News",
       "published": "2026-06-17T17:07:32+00:00",
       "link": "https://techcrunch.com/2026/06/17/only-16-percent-of-americans-think-ai-will-have-a-positive-impact-on-society-a-new-study-shows/"
@@ -731,14 +752,14 @@ const FEED_DATA = {
     },
     {
       "title": "Pentagon boasts of using AI to write reports mandated by Congress (1.5mil users)",
-      "summary": "Article URL: https://arstechnica.com/ai/2026/06/pentagon-boasts-of-using-ai-to-write-reports-mandated-by-congress/ Comments URL: https://news.ycombinator.com/item?id=48571016 Points: 77 # Comments: 57",
+      "summary": "Article URL: https://arstechnica.com/ai/2026/06/pentagon-boasts-of-using-ai-to-write-reports-mandated-by-congress/ Comments URL: https://news.ycombinator.com/item?id=48571016 Points: 78 # Comments: 57",
       "source": "Hacker News",
       "published": "2026-06-17T14:26:07+00:00",
       "link": "https://arstechnica.com/ai/2026/06/pentagon-boasts-of-using-ai-to-write-reports-mandated-by-congress/"
     },
     {
       "title": "AI demands more engineering discipline. Not less",
-      "summary": "Article URL: https://charitydotwtf.substack.com/p/ai-demands-more-engineering-discipline Comments URL: https://news.ycombinator.com/item?id=48570948 Points: 424 # Comments: 213",
+      "summary": "Article URL: https://charitydotwtf.substack.com/p/ai-demands-more-engineering-discipline Comments URL: https://news.ycombinator.com/item?id=48570948 Points: 425 # Comments: 213",
       "source": "Hacker News",
       "published": "2026-06-17T14:20:44+00:00",
       "link": "https://charitydotwtf.substack.com/p/ai-demands-more-engineering-discipline"
@@ -773,7 +794,7 @@ const FEED_DATA = {
     },
     {
       "title": "Sixty percent of US consumers say 'AI' in brand messaging is a turnoff",
-      "summary": "Article URL: https://wpvip.com/future-of-the-web-2026/ Comments URL: https://news.ycombinator.com/item?id=48569278 Points: 1076 # Comments: 575",
+      "summary": "Article URL: https://wpvip.com/future-of-the-web-2026/ Comments URL: https://news.ycombinator.com/item?id=48569278 Points: 1077 # Comments: 575",
       "source": "Hacker News",
       "published": "2026-06-17T12:11:27+00:00",
       "link": "https://wpvip.com/future-of-the-web-2026/"
@@ -1379,27 +1400,6 @@ const FEED_DATA = {
       "source": "The Verge",
       "published": "2026-06-14T18:27:55+00:00",
       "link": "https://www.theverge.com/ai-artificial-intelligence/949644/china-white-house-anthropic-mythos"
-    },
-    {
-      "title": "As AI companies race to go public, who else is along for the ride?",
-      "summary": "Startups are trying to \"ride that SpaceX IPO wave.\"",
-      "source": "TechCrunch",
-      "published": "2026-06-14T16:38:09+00:00",
-      "link": "https://techcrunch.com/2026/06/14/as-ai-companies-race-to-go-public-who-else-is-along-for-the-ride/"
-    },
-    {
-      "title": "Rio de Janeiro's \"homegrown\" LLM appears to be a merge of an existing model",
-      "summary": "Article URL: https://github.com/nex-agi/Nex-N2/issues/4 Comments URL: https://news.ycombinator.com/item?id=48528371 Points: 402 # Comments: 235",
-      "source": "Hacker News",
-      "published": "2026-06-14T15:37:31+00:00",
-      "link": "https://github.com/nex-agi/Nex-N2/issues/4"
-    },
-    {
-      "title": "Ponytail – make your AI agent think like the laziest senior dev in the room",
-      "summary": "Article URL: https://github.com/DietrichGebert/ponytail Comments URL: https://news.ycombinator.com/item?id=48527946 Points: 90 # Comments: 13",
-      "source": "Hacker News",
-      "published": "2026-06-14T15:08:17+00:00",
-      "link": "https://github.com/DietrichGebert/ponytail"
     }
   ]
 };
