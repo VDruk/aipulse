@@ -1,6 +1,20 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-06-21T08:57:58.967725+00:00",
+  "lastUpdated": "2026-06-21T11:36:45.646899+00:00",
   "items": [
+    {
+      "title": "28 Tips to Take Your ChatGPT Prompts to the Next Level",
+      "summary": "Sure, anyone can use OpenAI’s chatbot. But with smart engineering, you can get way more interesting results.",
+      "source": "Wired",
+      "published": "2026-06-21T10:30:00+00:00",
+      "link": "https://www.wired.com/story/28-tips-to-take-your-chatgpt-prompts-to-the-next-level/"
+    },
+    {
+      "title": "Sam Altman says a whole generation of researchers held AI back by underestimating what scaling could do",
+      "summary": "At a Stanford talk, Sam Altman defended LLM scaling and hit back at skeptics, saying a whole generation of researchers slowed the field by underestimating what scaling could do. He cited OpenAI's recent disproof of a mathematical conjecture as evidence.",
+      "source": "The Decoder",
+      "published": "2026-06-21T09:12:01+00:00",
+      "link": "https://the-decoder.com/sam-altman-says-a-whole-generation-of-researchers-held-ai-back-by-underestimating-what-scaling-could-do/"
+    },
     {
       "title": "AWS says AI agents lack business context and security, launches two services to patch the gaps",
       "summary": "At its summit in New York, AWS unveiled two new services. Continuum automatically detects, prioritizes, and fixes code vulnerabilities.",
@@ -9,8 +23,22 @@ const FEED_DATA = {
       "link": "https://the-decoder.com/aws-says-ai-agents-lack-business-context-and-security-launches-two-services-to-patch-the-gaps/"
     },
     {
+      "title": "The 100k Whys of AI",
+      "summary": "Article URL: https://lcamtuf.substack.com/p/the-100000-whys-of-ai Comments URL: https://news.ycombinator.com/item?id=48616017 Points: 113 # Comments: 67",
+      "source": "Hacker News",
+      "published": "2026-06-21T05:45:21+00:00",
+      "link": "https://lcamtuf.substack.com/p/the-100000-whys-of-ai"
+    },
+    {
+      "title": "Building reliable agentic AI systems",
+      "summary": "Article URL: https://martinfowler.com/articles/reliable-llm-bayer.html Comments URL: https://news.ycombinator.com/item?id=48615680 Points: 110 # Comments: 23",
+      "source": "Hacker News",
+      "published": "2026-06-21T04:28:39+00:00",
+      "link": "https://martinfowler.com/articles/reliable-llm-bayer.html"
+    },
+    {
       "title": "When I reject AI code even if it works",
-      "summary": "Article URL: https://vinibrasil.com/when-i-reject-ai-code-even-if-it-works/ Comments URL: https://news.ycombinator.com/item?id=48614631 Points: 125 # Comments: 72",
+      "summary": "Article URL: https://vinibrasil.com/when-i-reject-ai-code-even-if-it-works/ Comments URL: https://news.ycombinator.com/item?id=48614631 Points: 193 # Comments: 112",
       "source": "Hacker News",
       "published": "2026-06-21T00:58:13+00:00",
       "link": "https://vinibrasil.com/when-i-reject-ai-code-even-if-it-works/"
@@ -66,7 +94,7 @@ const FEED_DATA = {
     },
     {
       "title": "Temporary Cloudflare accounts for AI agents",
-      "summary": "Article URL: https://blog.cloudflare.com/temporary-accounts/ Comments URL: https://news.ycombinator.com/item?id=48608394 Points: 195 # Comments: 102",
+      "summary": "Article URL: https://blog.cloudflare.com/temporary-accounts/ Comments URL: https://news.ycombinator.com/item?id=48608394 Points: 218 # Comments: 115",
       "source": "Hacker News",
       "published": "2026-06-20T11:19:05+00:00",
       "link": "https://blog.cloudflare.com/temporary-accounts/"
@@ -122,7 +150,7 @@ const FEED_DATA = {
     },
     {
       "title": "Is AI ruining our skills? Early results are in – and they're not good",
-      "summary": "Article URL: https://www.nature.com/articles/d41586-026-01947-1 Comments URL: https://news.ycombinator.com/item?id=48601286 Points: 238 # Comments: 313",
+      "summary": "Article URL: https://www.nature.com/articles/d41586-026-01947-1 Comments URL: https://news.ycombinator.com/item?id=48601286 Points: 242 # Comments: 314",
       "source": "Hacker News",
       "published": "2026-06-19T18:00:48+00:00",
       "link": "https://www.nature.com/articles/d41586-026-01947-1"
@@ -143,7 +171,7 @@ const FEED_DATA = {
     },
     {
       "title": "GPT-5.5 hallucinates 3x more than MIT-licensed GLM-5.2",
-      "summary": "Article URL: https://arrowtsx.dev/bigger-models/ Comments URL: https://news.ycombinator.com/item?id=48600167 Points: 519 # Comments: 250",
+      "summary": "Article URL: https://arrowtsx.dev/bigger-models/ Comments URL: https://news.ycombinator.com/item?id=48600167 Points: 527 # Comments: 254",
       "source": "Hacker News",
       "published": "2026-06-19T16:11:25+00:00",
       "link": "https://arrowtsx.dev/bigger-models/"
@@ -157,14 +185,14 @@ const FEED_DATA = {
     },
     {
       "title": "AI Engineer Claims to Have Cracked Linear A",
-      "summary": "Article URL: https://aiclambake.com/clamtakes/linear-a/ Comments URL: https://news.ycombinator.com/item?id=48600107 Points: 440 # Comments: 173",
+      "summary": "Article URL: https://aiclambake.com/clamtakes/linear-a/ Comments URL: https://news.ycombinator.com/item?id=48600107 Points: 441 # Comments: 173",
       "source": "Hacker News",
       "published": "2026-06-19T16:04:42+00:00",
       "link": "https://aiclambake.com/clamtakes/linear-a/"
     },
     {
       "title": "Norway imposes near ban on AI in elementary school",
-      "summary": "Article URL: https://www.reuters.com/technology/norway-imposes-near-ban-ai-elementary-school-2026-06-19/ Comments URL: https://news.ycombinator.com/item?id=48600093 Points: 792 # Comments: 569",
+      "summary": "Article URL: https://www.reuters.com/technology/norway-imposes-near-ban-ai-elementary-school-2026-06-19/ Comments URL: https://news.ycombinator.com/item?id=48600093 Points: 801 # Comments: 575",
       "source": "Hacker News",
       "published": "2026-06-19T16:03:15+00:00",
       "link": "https://www.reuters.com/technology/norway-imposes-near-ban-ai-elementary-school-2026-06-19/"
@@ -570,7 +598,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI Compute Extensions (ACE) Specification",
-      "summary": "Article URL: https://x86ecosystem.org/resource/ai-compute-extensions-ace-specification/ Comments URL: https://news.ycombinator.com/item?id=48579913 Points: 53 # Comments: 24",
+      "summary": "Article URL: https://x86ecosystem.org/resource/ai-compute-extensions-ace-specification/ Comments URL: https://news.ycombinator.com/item?id=48579913 Points: 53 # Comments: 25",
       "source": "Hacker News",
       "published": "2026-06-18T02:32:01+00:00",
       "link": "https://x86ecosystem.org/resource/ai-compute-extensions-ace-specification/"
@@ -605,7 +633,7 @@ const FEED_DATA = {
     },
     {
       "title": "The hacker sent by Anthropic to calm the government's nerves about AI safety",
-      "summary": "Readable: https://www.wsj.com/tech/ai/anthropic-mythos-safety-nicholas... Comments URL: https://news.ycombinator.com/item?id=48575451 Points: 94 # Comments: 115",
+      "summary": "Readable: https://www.wsj.com/tech/ai/anthropic-mythos-safety-nicholas... Comments URL: https://news.ycombinator.com/item?id=48575451 Points: 94 # Comments: 117",
       "source": "Hacker News",
       "published": "2026-06-17T19:22:02+00:00",
       "link": "https://www.wsj.com/tech/ai/anthropic-mythos-safety-nicholas-carlini-20bceaa3"
@@ -1372,34 +1400,6 @@ const FEED_DATA = {
       "source": "Hacker News",
       "published": "2026-06-15T09:34:10+00:00",
       "link": "https://github.com/themartiano/luz"
-    },
-    {
-      "title": "These new solid-state ACs promise a cool future. Scientists aren’t so sure.",
-      "summary": "After three years of record-­breaking heat, this one is set to be yet another scorcher. Air-conditioning?",
-      "source": "MIT Tech Review",
-      "published": "2026-06-15T09:00:00+00:00",
-      "link": "https://www.technologyreview.com/2026/06/15/1138552/solid-state-acs-promise-cool-future/"
-    },
-    {
-      "title": "The AI off switch: How Anthropic’s export controls sparked a global AI sovereignty scramble",
-      "summary": "Anthropic export controls turned an abstract policy fear into a live one last week: as of June 13, 2026, one US government directive took the company’s two most powerful AI models offline for users everywhere, including, briefly, Anthropic’s own foreign-born employees, and set...",
-      "source": "AI News",
-      "published": "2026-06-15T08:00:00+00:00",
-      "link": "https://www.artificialintelligence-news.com/news/anthropic-export-controls-ai-sovereignty/"
-    },
-    {
-      "title": "The AI layoff wave is becoming a powder keg",
-      "summary": "At the very moment that tens of thousands of workers are being shown the door, a small cohort of AI insiders is becoming wealthy on a scale that's hard to comprehend.",
-      "source": "TechCrunch",
-      "published": "2026-06-15T07:25:41+00:00",
-      "link": "https://techcrunch.com/2026/06/15/the-ai-layoff-wave-is-becoming-a-powder-keg/"
-    },
-    {
-      "title": "The Jqwik Anti-AI Affair",
-      "summary": "Article URL: https://blog.johanneslink.net/2026/06/09/the-jqwik-anti-ai-affair/ Comments URL: https://news.ycombinator.com/item?id=48533736 Points: 53 # Comments: 83",
-      "source": "Hacker News",
-      "published": "2026-06-14T22:43:49+00:00",
-      "link": "https://blog.johanneslink.net/2026/06/09/the-jqwik-anti-ai-affair/"
     }
   ]
 };
