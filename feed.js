@@ -1,5 +1,5 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-06-21T18:15:38.101735+00:00",
+  "lastUpdated": "2026-06-21T22:08:39.497274+00:00",
   "items": [
     {
       "title": "When the Trump administration cracks down on Anthropic, who benefits?",
@@ -45,21 +45,28 @@ const FEED_DATA = {
     },
     {
       "title": "The 100k whys of AI",
-      "summary": "Article URL: https://lcamtuf.substack.com/p/the-100000-whys-of-ai Comments URL: https://news.ycombinator.com/item?id=48616017 Points: 136 # Comments: 79",
+      "summary": "Article URL: https://lcamtuf.substack.com/p/the-100000-whys-of-ai Comments URL: https://news.ycombinator.com/item?id=48616017 Points: 161 # Comments: 95",
       "source": "Hacker News",
       "published": "2026-06-21T05:45:21+00:00",
       "link": "https://lcamtuf.substack.com/p/the-100000-whys-of-ai"
     },
     {
+      "title": "Don’t use AI to write things that you present as your own work",
+      "summary": "Article URL: https://www.satisfice.com/blog/archives/488148 Comments URL: https://news.ycombinator.com/item?id=48615776 Points: 61 # Comments: 61",
+      "source": "Hacker News",
+      "published": "2026-06-21T04:50:46+00:00",
+      "link": "https://www.satisfice.com/blog/archives/488148"
+    },
+    {
       "title": "Building reliable agentic AI systems",
-      "summary": "Article URL: https://martinfowler.com/articles/reliable-llm-bayer.html Comments URL: https://news.ycombinator.com/item?id=48615680 Points: 169 # Comments: 40",
+      "summary": "Article URL: https://martinfowler.com/articles/reliable-llm-bayer.html Comments URL: https://news.ycombinator.com/item?id=48615680 Points: 176 # Comments: 44",
       "source": "Hacker News",
       "published": "2026-06-21T04:28:39+00:00",
       "link": "https://martinfowler.com/articles/reliable-llm-bayer.html"
     },
     {
       "title": "When I reject AI code even if it works",
-      "summary": "Article URL: https://vinibrasil.com/when-i-reject-ai-code-even-if-it-works/ Comments URL: https://news.ycombinator.com/item?id=48614631 Points: 211 # Comments: 148",
+      "summary": "Article URL: https://vinibrasil.com/when-i-reject-ai-code-even-if-it-works/ Comments URL: https://news.ycombinator.com/item?id=48614631 Points: 216 # Comments: 151",
       "source": "Hacker News",
       "published": "2026-06-21T00:58:13+00:00",
       "link": "https://vinibrasil.com/when-i-reject-ai-code-even-if-it-works/"
@@ -115,7 +122,7 @@ const FEED_DATA = {
     },
     {
       "title": "Temporary Cloudflare accounts for AI agents",
-      "summary": "Article URL: https://blog.cloudflare.com/temporary-accounts/ Comments URL: https://news.ycombinator.com/item?id=48608394 Points: 234 # Comments: 137",
+      "summary": "Article URL: https://blog.cloudflare.com/temporary-accounts/ Comments URL: https://news.ycombinator.com/item?id=48608394 Points: 239 # Comments: 141",
       "source": "Hacker News",
       "published": "2026-06-20T11:19:05+00:00",
       "link": "https://blog.cloudflare.com/temporary-accounts/"
@@ -171,7 +178,7 @@ const FEED_DATA = {
     },
     {
       "title": "Is AI ruining our skills? Early results are in – and they're not good",
-      "summary": "Article URL: https://www.nature.com/articles/d41586-026-01947-1 Comments URL: https://news.ycombinator.com/item?id=48601286 Points: 244 # Comments: 314",
+      "summary": "Article URL: https://www.nature.com/articles/d41586-026-01947-1 Comments URL: https://news.ycombinator.com/item?id=48601286 Points: 244 # Comments: 315",
       "source": "Hacker News",
       "published": "2026-06-19T18:00:48+00:00",
       "link": "https://www.nature.com/articles/d41586-026-01947-1"
@@ -192,7 +199,7 @@ const FEED_DATA = {
     },
     {
       "title": "GPT-5.5 hallucinates 3x more than MIT-licensed GLM-5.2",
-      "summary": "Article URL: https://arrowtsx.dev/bigger-models/ Comments URL: https://news.ycombinator.com/item?id=48600167 Points: 544 # Comments: 278",
+      "summary": "Article URL: https://arrowtsx.dev/bigger-models/ Comments URL: https://news.ycombinator.com/item?id=48600167 Points: 550 # Comments: 284",
       "source": "Hacker News",
       "published": "2026-06-19T16:11:25+00:00",
       "link": "https://arrowtsx.dev/bigger-models/"
@@ -206,14 +213,14 @@ const FEED_DATA = {
     },
     {
       "title": "AI Engineer Claims to Have Cracked Linear A",
-      "summary": "Article URL: https://aiclambake.com/clamtakes/linear-a/ Comments URL: https://news.ycombinator.com/item?id=48600107 Points: 442 # Comments: 173",
+      "summary": "Article URL: https://aiclambake.com/clamtakes/linear-a/ Comments URL: https://news.ycombinator.com/item?id=48600107 Points: 442 # Comments: 176",
       "source": "Hacker News",
       "published": "2026-06-19T16:04:42+00:00",
       "link": "https://aiclambake.com/clamtakes/linear-a/"
     },
     {
       "title": "Norway imposes near ban on AI in elementary school",
-      "summary": "Article URL: https://www.reuters.com/technology/norway-imposes-near-ban-ai-elementary-school-2026-06-19/ Comments URL: https://news.ycombinator.com/item?id=48600093 Points: 804 # Comments: 583",
+      "summary": "Article URL: https://www.reuters.com/technology/norway-imposes-near-ban-ai-elementary-school-2026-06-19/ Comments URL: https://news.ycombinator.com/item?id=48600093 Points: 806 # Comments: 583",
       "source": "Hacker News",
       "published": "2026-06-19T16:03:15+00:00",
       "link": "https://www.reuters.com/technology/norway-imposes-near-ban-ai-elementary-school-2026-06-19/"
@@ -259,6 +266,13 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-06-19T13:50:55+00:00",
       "link": "https://the-decoder.com/new-benchmark-exposes-how-badly-ai-struggles-with-real-knowledge-work/"
+    },
+    {
+      "title": "The CEO of Allbirds’ new AI biz has a plan. Now she needs a “brand-new team”",
+      "summary": "Call it a startup with a sole founder and a very large seed round, but what's next is less clear.",
+      "source": "TechCrunch",
+      "published": "2026-06-19T13:00:00+00:00",
+      "link": "https://techcrunch.com/2026/06/19/the-ceo-of-allbirds-new-ai-biz-has-a-plan-but-no-employees/"
     },
     {
       "title": "The CEO of Allbirds’ new AI biz has a plan, but no team",
@@ -388,7 +402,7 @@ const FEED_DATA = {
     },
     {
       "title": "Amazon investigating engineers who criticized AI data center expansion",
-      "summary": "Article URL: https://www.cnbc.com/2026/06/18/amazon-engineers-ai-data-center-opposition.html Comments URL: https://news.ycombinator.com/item?id=48590891 Points: 55 # Comments: 16",
+      "summary": "Article URL: https://www.cnbc.com/2026/06/18/amazon-engineers-ai-data-center-opposition.html Comments URL: https://news.ycombinator.com/item?id=48590891 Points: 56 # Comments: 16",
       "source": "Hacker News",
       "published": "2026-06-18T20:14:15+00:00",
       "link": "https://www.cnbc.com/2026/06/18/amazon-engineers-ai-data-center-opposition.html"
@@ -654,7 +668,7 @@ const FEED_DATA = {
     },
     {
       "title": "The hacker sent by Anthropic to calm the government's nerves about AI safety",
-      "summary": "Readable: https://www.wsj.com/tech/ai/anthropic-mythos-safety-nicholas... Comments URL: https://news.ycombinator.com/item?id=48575451 Points: 94 # Comments: 117",
+      "summary": "Readable: https://www.wsj.com/tech/ai/anthropic-mythos-safety-nicholas... Comments URL: https://news.ycombinator.com/item?id=48575451 Points: 95 # Comments: 117",
       "source": "Hacker News",
       "published": "2026-06-17T19:22:02+00:00",
       "link": "https://www.wsj.com/tech/ai/anthropic-mythos-safety-nicholas-carlini-20bceaa3"
@@ -1386,20 +1400,6 @@ const FEED_DATA = {
       "source": "MIT Tech Review",
       "published": "2026-06-15T12:10:00+00:00",
       "link": "https://www.technologyreview.com/2026/06/15/1138948/the-download-solid-state-air-conditioning-animal-drugs/"
-    },
-    {
-      "title": "HarmonyOS 7 steps into the AI gap Apple left open in China",
-      "summary": "Four days after Apple confirmed that Siri AI would not launch in China, Huawei took the stage in Dongguan and declared HarmonyOS 7 the beginning of the agent era. The gap Apple could not fill, Huawei has moved into with an architecture built specifically for it.",
-      "source": "AI News",
-      "published": "2026-06-15T11:00:00+00:00",
-      "link": "https://www.artificialintelligence-news.com/news/harmonyos-7-china-ai-apple-gap/"
-    },
-    {
-      "title": "Anthropic shutdown sparks sovereignty debate across Europe",
-      "summary": "The European Commission is assessing the implications of the US order that forced Anthropic to shut down Fable 5 and Mythos 5 worldwide. European researchers are debating the right response: building their own foundation models or securing access through contracts.",
-      "source": "The Decoder",
-      "published": "2026-06-15T10:33:07+00:00",
-      "link": "https://the-decoder.com/anthropic-shutdown-sparks-sovereignty-debate-across-europe/"
     }
   ]
 };
