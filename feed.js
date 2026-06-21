@@ -1,6 +1,20 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-06-21T11:36:45.646899+00:00",
+  "lastUpdated": "2026-06-21T15:12:18.797741+00:00",
   "items": [
+    {
+      "title": "Beyond Siri: Here are the practical AI features coming to your iPhone in iOS 27",
+      "summary": "Siri’s AI overhaul may have grabbed the headlines at WWDC, but some of Apple’s most useful AI features are arriving elsewhere in iOS 27.",
+      "source": "TechCrunch",
+      "published": "2026-06-21T14:40:28+00:00",
+      "link": "https://techcrunch.com/2026/06/21/beyond-siri-here-are-the-practical-ai-features-coming-to-your-iphone-in-ios-27/"
+    },
+    {
+      "title": "AI is inflating student grades, and the effect points to outsourced work, not better learning",
+      "summary": "A UC Berkeley study of more than 500,000 grades found that courses heavy on writing and coding saw grades jump after ChatGPT launched. The effect shows up mainly in homework, a sign that AI is replacing student work rather than improving learning.",
+      "source": "The Decoder",
+      "published": "2026-06-21T12:01:46+00:00",
+      "link": "https://the-decoder.com/ai-is-inflating-student-grades-and-the-effect-points-to-outsourced-work-not-better-learning/"
+    },
     {
       "title": "28 Tips to Take Your ChatGPT Prompts to the Next Level",
       "summary": "Sure, anyone can use OpenAI’s chatbot. But with smart engineering, you can get way more interesting results.",
@@ -24,21 +38,21 @@ const FEED_DATA = {
     },
     {
       "title": "The 100k Whys of AI",
-      "summary": "Article URL: https://lcamtuf.substack.com/p/the-100000-whys-of-ai Comments URL: https://news.ycombinator.com/item?id=48616017 Points: 113 # Comments: 67",
+      "summary": "Article URL: https://lcamtuf.substack.com/p/the-100000-whys-of-ai Comments URL: https://news.ycombinator.com/item?id=48616017 Points: 126 # Comments: 72",
       "source": "Hacker News",
       "published": "2026-06-21T05:45:21+00:00",
       "link": "https://lcamtuf.substack.com/p/the-100000-whys-of-ai"
     },
     {
       "title": "Building reliable agentic AI systems",
-      "summary": "Article URL: https://martinfowler.com/articles/reliable-llm-bayer.html Comments URL: https://news.ycombinator.com/item?id=48615680 Points: 110 # Comments: 23",
+      "summary": "Article URL: https://martinfowler.com/articles/reliable-llm-bayer.html Comments URL: https://news.ycombinator.com/item?id=48615680 Points: 137 # Comments: 34",
       "source": "Hacker News",
       "published": "2026-06-21T04:28:39+00:00",
       "link": "https://martinfowler.com/articles/reliable-llm-bayer.html"
     },
     {
       "title": "When I reject AI code even if it works",
-      "summary": "Article URL: https://vinibrasil.com/when-i-reject-ai-code-even-if-it-works/ Comments URL: https://news.ycombinator.com/item?id=48614631 Points: 193 # Comments: 112",
+      "summary": "Article URL: https://vinibrasil.com/when-i-reject-ai-code-even-if-it-works/ Comments URL: https://news.ycombinator.com/item?id=48614631 Points: 206 # Comments: 141",
       "source": "Hacker News",
       "published": "2026-06-21T00:58:13+00:00",
       "link": "https://vinibrasil.com/when-i-reject-ai-code-even-if-it-works/"
@@ -94,7 +108,7 @@ const FEED_DATA = {
     },
     {
       "title": "Temporary Cloudflare accounts for AI agents",
-      "summary": "Article URL: https://blog.cloudflare.com/temporary-accounts/ Comments URL: https://news.ycombinator.com/item?id=48608394 Points: 218 # Comments: 115",
+      "summary": "Article URL: https://blog.cloudflare.com/temporary-accounts/ Comments URL: https://news.ycombinator.com/item?id=48608394 Points: 231 # Comments: 130",
       "source": "Hacker News",
       "published": "2026-06-20T11:19:05+00:00",
       "link": "https://blog.cloudflare.com/temporary-accounts/"
@@ -150,7 +164,7 @@ const FEED_DATA = {
     },
     {
       "title": "Is AI ruining our skills? Early results are in – and they're not good",
-      "summary": "Article URL: https://www.nature.com/articles/d41586-026-01947-1 Comments URL: https://news.ycombinator.com/item?id=48601286 Points: 242 # Comments: 314",
+      "summary": "Article URL: https://www.nature.com/articles/d41586-026-01947-1 Comments URL: https://news.ycombinator.com/item?id=48601286 Points: 244 # Comments: 314",
       "source": "Hacker News",
       "published": "2026-06-19T18:00:48+00:00",
       "link": "https://www.nature.com/articles/d41586-026-01947-1"
@@ -171,7 +185,7 @@ const FEED_DATA = {
     },
     {
       "title": "GPT-5.5 hallucinates 3x more than MIT-licensed GLM-5.2",
-      "summary": "Article URL: https://arrowtsx.dev/bigger-models/ Comments URL: https://news.ycombinator.com/item?id=48600167 Points: 527 # Comments: 254",
+      "summary": "Article URL: https://arrowtsx.dev/bigger-models/ Comments URL: https://news.ycombinator.com/item?id=48600167 Points: 539 # Comments: 270",
       "source": "Hacker News",
       "published": "2026-06-19T16:11:25+00:00",
       "link": "https://arrowtsx.dev/bigger-models/"
@@ -185,7 +199,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI Engineer Claims to Have Cracked Linear A",
-      "summary": "Article URL: https://aiclambake.com/clamtakes/linear-a/ Comments URL: https://news.ycombinator.com/item?id=48600107 Points: 441 # Comments: 173",
+      "summary": "Article URL: https://aiclambake.com/clamtakes/linear-a/ Comments URL: https://news.ycombinator.com/item?id=48600107 Points: 442 # Comments: 173",
       "source": "Hacker News",
       "published": "2026-06-19T16:04:42+00:00",
       "link": "https://aiclambake.com/clamtakes/linear-a/"
@@ -1386,20 +1400,6 @@ const FEED_DATA = {
       "source": "AI News",
       "published": "2026-06-15T10:00:00+00:00",
       "link": "https://www.artificialintelligence-news.com/news/ai-shopping-agents-consumer-trust-accenture-report/"
-    },
-    {
-      "title": "Microsoft CEO Satya Nadella warns of \"a small number of AI systems capturing all the economic returns\"",
-      "summary": "Microsoft CEO Satya Nadella wants companies to build \"token capital\" alongside human capital, meaning their own AI capabilities built on internal data and proprietary learning loops. Without it, he warns, a few large models could absorb the value of entire industries.",
-      "source": "The Decoder",
-      "published": "2026-06-15T09:39:14+00:00",
-      "link": "https://the-decoder.com/microsoft-ceo-satya-nadella-warns-of-a-small-number-of-ai-systems-capturing-all-the-economic-returns/"
-    },
-    {
-      "title": "Show HN: I wrote a C++ ray tracer from scratch without AI",
-      "summary": "Article URL: https://github.com/themartiano/luz Comments URL: https://news.ycombinator.com/item?id=48538833 Points: 155 # Comments: 64",
-      "source": "Hacker News",
-      "published": "2026-06-15T09:34:10+00:00",
-      "link": "https://github.com/themartiano/luz"
     }
   ]
 };
