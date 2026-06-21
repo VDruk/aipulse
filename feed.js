@@ -1,6 +1,13 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-06-21T15:12:18.797741+00:00",
+  "lastUpdated": "2026-06-21T18:15:38.101735+00:00",
   "items": [
+    {
+      "title": "When the Trump administration cracks down on Anthropic, who benefits?",
+      "summary": "On the new episode of Equity, we discussed what actually prompted the administration's latest moves against Anthropic, and what this might mean for the AI ecosystem.",
+      "source": "TechCrunch",
+      "published": "2026-06-21T15:28:17+00:00",
+      "link": "https://techcrunch.com/2026/06/21/when-the-trump-administration-cracks-down-on-anthropic-who-benefits/"
+    },
     {
       "title": "Beyond Siri: Here are the practical AI features coming to your iPhone in iOS 27",
       "summary": "Siri’s AI overhaul may have grabbed the headlines at WWDC, but some of Apple’s most useful AI features are arriving elsewhere in iOS 27.",
@@ -37,22 +44,22 @@ const FEED_DATA = {
       "link": "https://the-decoder.com/aws-says-ai-agents-lack-business-context-and-security-launches-two-services-to-patch-the-gaps/"
     },
     {
-      "title": "The 100k Whys of AI",
-      "summary": "Article URL: https://lcamtuf.substack.com/p/the-100000-whys-of-ai Comments URL: https://news.ycombinator.com/item?id=48616017 Points: 126 # Comments: 72",
+      "title": "The 100k whys of AI",
+      "summary": "Article URL: https://lcamtuf.substack.com/p/the-100000-whys-of-ai Comments URL: https://news.ycombinator.com/item?id=48616017 Points: 136 # Comments: 79",
       "source": "Hacker News",
       "published": "2026-06-21T05:45:21+00:00",
       "link": "https://lcamtuf.substack.com/p/the-100000-whys-of-ai"
     },
     {
       "title": "Building reliable agentic AI systems",
-      "summary": "Article URL: https://martinfowler.com/articles/reliable-llm-bayer.html Comments URL: https://news.ycombinator.com/item?id=48615680 Points: 137 # Comments: 34",
+      "summary": "Article URL: https://martinfowler.com/articles/reliable-llm-bayer.html Comments URL: https://news.ycombinator.com/item?id=48615680 Points: 169 # Comments: 40",
       "source": "Hacker News",
       "published": "2026-06-21T04:28:39+00:00",
       "link": "https://martinfowler.com/articles/reliable-llm-bayer.html"
     },
     {
       "title": "When I reject AI code even if it works",
-      "summary": "Article URL: https://vinibrasil.com/when-i-reject-ai-code-even-if-it-works/ Comments URL: https://news.ycombinator.com/item?id=48614631 Points: 206 # Comments: 141",
+      "summary": "Article URL: https://vinibrasil.com/when-i-reject-ai-code-even-if-it-works/ Comments URL: https://news.ycombinator.com/item?id=48614631 Points: 211 # Comments: 148",
       "source": "Hacker News",
       "published": "2026-06-21T00:58:13+00:00",
       "link": "https://vinibrasil.com/when-i-reject-ai-code-even-if-it-works/"
@@ -108,7 +115,7 @@ const FEED_DATA = {
     },
     {
       "title": "Temporary Cloudflare accounts for AI agents",
-      "summary": "Article URL: https://blog.cloudflare.com/temporary-accounts/ Comments URL: https://news.ycombinator.com/item?id=48608394 Points: 231 # Comments: 130",
+      "summary": "Article URL: https://blog.cloudflare.com/temporary-accounts/ Comments URL: https://news.ycombinator.com/item?id=48608394 Points: 234 # Comments: 137",
       "source": "Hacker News",
       "published": "2026-06-20T11:19:05+00:00",
       "link": "https://blog.cloudflare.com/temporary-accounts/"
@@ -185,7 +192,7 @@ const FEED_DATA = {
     },
     {
       "title": "GPT-5.5 hallucinates 3x more than MIT-licensed GLM-5.2",
-      "summary": "Article URL: https://arrowtsx.dev/bigger-models/ Comments URL: https://news.ycombinator.com/item?id=48600167 Points: 539 # Comments: 270",
+      "summary": "Article URL: https://arrowtsx.dev/bigger-models/ Comments URL: https://news.ycombinator.com/item?id=48600167 Points: 544 # Comments: 278",
       "source": "Hacker News",
       "published": "2026-06-19T16:11:25+00:00",
       "link": "https://arrowtsx.dev/bigger-models/"
@@ -206,7 +213,7 @@ const FEED_DATA = {
     },
     {
       "title": "Norway imposes near ban on AI in elementary school",
-      "summary": "Article URL: https://www.reuters.com/technology/norway-imposes-near-ban-ai-elementary-school-2026-06-19/ Comments URL: https://news.ycombinator.com/item?id=48600093 Points: 801 # Comments: 575",
+      "summary": "Article URL: https://www.reuters.com/technology/norway-imposes-near-ban-ai-elementary-school-2026-06-19/ Comments URL: https://news.ycombinator.com/item?id=48600093 Points: 804 # Comments: 583",
       "source": "Hacker News",
       "published": "2026-06-19T16:03:15+00:00",
       "link": "https://www.reuters.com/technology/norway-imposes-near-ban-ai-elementary-school-2026-06-19/"
@@ -738,7 +745,7 @@ const FEED_DATA = {
     },
     {
       "title": "The Competitive Moat That AI Can't Replicate",
-      "summary": "Article URL: https://ghostinthedata.info/posts/2026/2026-06-13-human-connection-moat/ Comments URL: https://news.ycombinator.com/item?id=48573435 Points: 142 # Comments: 122",
+      "summary": "Article URL: https://ghostinthedata.info/posts/2026/2026-06-13-human-connection-moat/ Comments URL: https://news.ycombinator.com/item?id=48573435 Points: 142 # Comments: 123",
       "source": "Hacker News",
       "published": "2026-06-17T17:14:21+00:00",
       "link": "https://ghostinthedata.info/posts/2026/2026-06-13-human-connection-moat/"
@@ -1393,13 +1400,6 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-06-15T10:33:07+00:00",
       "link": "https://the-decoder.com/anthropic-shutdown-sparks-sovereignty-debate-across-europe/"
-    },
-    {
-      "title": "Accenture: Consumers show growing trust in AI shopping agents",
-      "summary": "Consumers are showing a willingness to let AI agents take on more shopping-related tasks, according to new research from Accenture.",
-      "source": "AI News",
-      "published": "2026-06-15T10:00:00+00:00",
-      "link": "https://www.artificialintelligence-news.com/news/ai-shopping-agents-consumer-trust-accenture-report/"
     }
   ]
 };
