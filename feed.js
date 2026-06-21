@@ -1,6 +1,13 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-06-21T05:59:18.662341+00:00",
+  "lastUpdated": "2026-06-21T08:57:58.967725+00:00",
   "items": [
+    {
+      "title": "AWS says AI agents lack business context and security, launches two services to patch the gaps",
+      "summary": "At its summit in New York, AWS unveiled two new services. Continuum automatically detects, prioritizes, and fixes code vulnerabilities.",
+      "source": "The Decoder",
+      "published": "2026-06-21T08:25:41+00:00",
+      "link": "https://the-decoder.com/aws-says-ai-agents-lack-business-context-and-security-launches-two-services-to-patch-the-gaps/"
+    },
     {
       "title": "When I reject AI code even if it works",
       "summary": "Article URL: https://vinibrasil.com/when-i-reject-ai-code-even-if-it-works/ Comments URL: https://news.ycombinator.com/item?id=48614631 Points: 125 # Comments: 72",
@@ -1393,13 +1400,6 @@ const FEED_DATA = {
       "source": "Hacker News",
       "published": "2026-06-14T22:43:49+00:00",
       "link": "https://blog.johanneslink.net/2026/06/09/the-jqwik-anti-ai-affair/"
-    },
-    {
-      "title": "AI is code – and can't be prompted into being smarter",
-      "summary": "Article URL: https://www.theregister.com/ai-and-ml/2026/06/14/ai-is-code-and-cant-be-prompted-into-being-smarter/5254141 Comments URL: https://news.ycombinator.com/item?id=48532178 Points: 158 # Comments: 143",
-      "source": "Hacker News",
-      "published": "2026-06-14T20:17:54+00:00",
-      "link": "https://www.theregister.com/ai-and-ml/2026/06/14/ai-is-code-and-cant-be-prompted-into-being-smarter/5254141"
     }
   ]
 };
