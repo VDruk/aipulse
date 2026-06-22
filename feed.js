@@ -1,6 +1,62 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-06-22T14:21:57.353845+00:00",
+  "lastUpdated": "2026-06-22T17:40:22.092688+00:00",
   "items": [
+    {
+      "title": "Amazon is testing Alexa+ in India with Hindi support",
+      "summary": "Amazon sent emails to customers inviting them to test Alexa+",
+      "source": "TechCrunch",
+      "published": "2026-06-22T17:31:29+00:00",
+      "link": "https://techcrunch.com/2026/06/22/amazon-is-testing-alexa-in-india-with-hindi-support/"
+    },
+    {
+      "title": "Anthropic and Micron want to co-design AI memory architecture",
+      "summary": "Micron is investing in Anthropic's Series H round and getting a multi-year deal to supply memory for Claude's infrastructure. Anthropic co-founder Tom Brown calls memory critical to training and running Claude.",
+      "source": "The Decoder",
+      "published": "2026-06-22T17:18:59+00:00",
+      "link": "https://the-decoder.com/anthropic-and-micron-want-to-co-design-ai-memory-architecture/"
+    },
+    {
+      "title": "OpenAI Launches Full-Scale Effort to Patch Open-Source Bugs as It Takes on Anthropic’s Mythos",
+      "summary": "Amid concerns about AI models’ cybersecurity capabilities, OpenAI revealed an improved version of GPT-5.5-Cyber and its “Patch the Planet” initiative to fix open-source software bugs.",
+      "source": "Wired",
+      "published": "2026-06-22T17:00:00+00:00",
+      "link": "https://www.wired.com/story/openai-launches-full-scale-effort-to-patch-open-source-bugs-as-it-takes-on-anthropics-mythos/"
+    },
+    {
+      "title": "SpaceX inks compute deal with Reflection AI, an open source AI lab",
+      "summary": "Reflection AI will pay $150 million a month beginning July 1, 2026 through 2029 for immediate access to Nvidia's latest GB300 AI chips and supporting hardware across SpaceX's Colossus 2 data center near Memphis, Tennessee.",
+      "source": "TechCrunch",
+      "published": "2026-06-22T16:51:29+00:00",
+      "link": "https://techcrunch.com/2026/06/22/spacex-inks-compute-deal-with-reflection-ai-an-open-source-ai-lab/"
+    },
+    {
+      "title": "Microsoft is building a 2-gigawatt data center in Texas with its own gas plant to dodge the grid",
+      "summary": "Microsoft is building a roughly 2-gigawatt data center campus in Pecos, Texas, one of the biggest single capacity adds in its history.",
+      "source": "The Decoder",
+      "published": "2026-06-22T16:35:54+00:00",
+      "link": "https://the-decoder.com/microsoft-is-building-a-2-gigawatt-data-center-in-texas-with-its-own-gas-plant-to-dodge-the-grid/"
+    },
+    {
+      "title": "Getty Images strikes multi-year deal to put licensed photos in ChatGPT search",
+      "summary": "Getty Images has entered into a multi-year licensing agreement with OpenAI. The article Getty Images strikes multi-year deal to put licensed photos in ChatGPT search appeared first on The Decoder.",
+      "source": "The Decoder",
+      "published": "2026-06-22T15:16:12+00:00",
+      "link": "https://the-decoder.com/getty-images-strikes-multi-year-deal-to-put-licensed-photos-in-chatgpt-search/"
+    },
+    {
+      "title": "Google Deepmind and A24 team up on AI filmmaking research",
+      "summary": "Google Deepmind and film studio A24 are entering a long-term research partnership. Google is also investing roughly $75 million in A24, according to the Wall Street Journal.",
+      "source": "The Decoder",
+      "published": "2026-06-22T15:03:46+00:00",
+      "link": "https://the-decoder.com/google-deepmind-and-a24-team-up-on-ai-filmmaking-research/"
+    },
+    {
+      "title": "Five Eyes intelligence alliance says frontier AI models could reshape offensive cyber ops in months",
+      "summary": "The Five Eyes intelligence agencies warn: AI models capable of taking down governments and businesses are only months away. That's according to the Guardian.",
+      "source": "The Decoder",
+      "published": "2026-06-22T14:35:39+00:00",
+      "link": "https://the-decoder.com/five-eyes-intelligence-alliance-says-frontier-ai-models-could-reshape-offensive-cyber-ops-in-months/"
+    },
     {
       "title": "Vibecoding is becoming a deal-breaker test for software acquisitions",
       "summary": "To assess the competitive advantage of potential acquisition targets, Bain & Company uses Vibecoding to replicate their software. These AI replicas are already influencing specific purchasing decisions.",
@@ -45,14 +101,14 @@ const FEED_DATA = {
     },
     {
       "title": "Good results fine tuning a local LLM like Qwen 3:0.6B to categorize questions",
-      "summary": "Article URL: https://www.teachmecoolstuff.com/viewarticle/fine-tuning-a-local-llm-to-categorize-questions Comments URL: https://news.ycombinator.com/item?id=48623434 Points: 142 # Comments: 30",
+      "summary": "Article URL: https://www.teachmecoolstuff.com/viewarticle/fine-tuning-a-local-llm-to-categorize-questions Comments URL: https://news.ycombinator.com/item?id=48623434 Points: 197 # Comments: 42",
       "source": "Hacker News",
       "published": "2026-06-21T22:55:23+00:00",
       "link": "https://www.teachmecoolstuff.com/viewarticle/fine-tuning-a-local-llm-to-categorize-questions"
     },
     {
       "title": "Apertus – Open Foundation Model for Sovereign AI",
-      "summary": "Article URL: https://apertvs.ai/ Comments URL: https://news.ycombinator.com/item?id=48622778 Points: 394 # Comments: 131",
+      "summary": "Article URL: https://apertvs.ai/ Comments URL: https://news.ycombinator.com/item?id=48622778 Points: 499 # Comments: 167",
       "source": "Hacker News",
       "published": "2026-06-21T21:29:43+00:00",
       "link": "https://apertvs.ai/"
@@ -101,28 +157,28 @@ const FEED_DATA = {
     },
     {
       "title": "The 100k whys of AI",
-      "summary": "Article URL: https://lcamtuf.substack.com/p/the-100000-whys-of-ai Comments URL: https://news.ycombinator.com/item?id=48616017 Points: 186 # Comments: 106",
+      "summary": "Article URL: https://lcamtuf.substack.com/p/the-100000-whys-of-ai Comments URL: https://news.ycombinator.com/item?id=48616017 Points: 190 # Comments: 106",
       "source": "Hacker News",
       "published": "2026-06-21T05:45:21+00:00",
       "link": "https://lcamtuf.substack.com/p/the-100000-whys-of-ai"
     },
     {
       "title": "Don’t use AI to write things that you present as your own work",
-      "summary": "Article URL: https://www.satisfice.com/blog/archives/488148 Comments URL: https://news.ycombinator.com/item?id=48615776 Points: 90 # Comments: 82",
+      "summary": "Article URL: https://www.satisfice.com/blog/archives/488148 Comments URL: https://news.ycombinator.com/item?id=48615776 Points: 98 # Comments: 87",
       "source": "Hacker News",
       "published": "2026-06-21T04:50:46+00:00",
       "link": "https://www.satisfice.com/blog/archives/488148"
     },
     {
       "title": "Building reliable agentic AI systems",
-      "summary": "Article URL: https://martinfowler.com/articles/reliable-llm-bayer.html Comments URL: https://news.ycombinator.com/item?id=48615680 Points: 192 # Comments: 47",
+      "summary": "Article URL: https://martinfowler.com/articles/reliable-llm-bayer.html Comments URL: https://news.ycombinator.com/item?id=48615680 Points: 194 # Comments: 48",
       "source": "Hacker News",
       "published": "2026-06-21T04:28:39+00:00",
       "link": "https://martinfowler.com/articles/reliable-llm-bayer.html"
     },
     {
       "title": "When I reject AI code even if it works",
-      "summary": "Article URL: https://vinibrasil.com/when-i-reject-ai-code-even-if-it-works/ Comments URL: https://news.ycombinator.com/item?id=48614631 Points: 223 # Comments: 165",
+      "summary": "Article URL: https://vinibrasil.com/when-i-reject-ai-code-even-if-it-works/ Comments URL: https://news.ycombinator.com/item?id=48614631 Points: 225 # Comments: 165",
       "source": "Hacker News",
       "published": "2026-06-21T00:58:13+00:00",
       "link": "https://vinibrasil.com/when-i-reject-ai-code-even-if-it-works/"
@@ -178,7 +234,7 @@ const FEED_DATA = {
     },
     {
       "title": "Temporary Cloudflare accounts for AI agents",
-      "summary": "Article URL: https://blog.cloudflare.com/temporary-accounts/ Comments URL: https://news.ycombinator.com/item?id=48608394 Points: 243 # Comments: 142",
+      "summary": "Article URL: https://blog.cloudflare.com/temporary-accounts/ Comments URL: https://news.ycombinator.com/item?id=48608394 Points: 245 # Comments: 144",
       "source": "Hacker News",
       "published": "2026-06-20T11:19:05+00:00",
       "link": "https://blog.cloudflare.com/temporary-accounts/"
@@ -220,7 +276,7 @@ const FEED_DATA = {
     },
     {
       "title": "Companies rein in AI usage as costs strain budgets",
-      "summary": "https://archive.ph/z24oE Comments URL: https://news.ycombinator.com/item?id=48602571 Points: 120 # Comments: 105",
+      "summary": "https://archive.ph/z24oE Comments URL: https://news.ycombinator.com/item?id=48602571 Points: 121 # Comments: 106",
       "source": "Hacker News",
       "published": "2026-06-19T19:57:18+00:00",
       "link": "https://www.ft.com/content/1d37cc08-e0aa-45a4-a45d-4ad282529314"
@@ -234,7 +290,7 @@ const FEED_DATA = {
     },
     {
       "title": "Is AI ruining our skills? Early results are in – and they're not good",
-      "summary": "Article URL: https://www.nature.com/articles/d41586-026-01947-1 Comments URL: https://news.ycombinator.com/item?id=48601286 Points: 246 # Comments: 315",
+      "summary": "Article URL: https://www.nature.com/articles/d41586-026-01947-1 Comments URL: https://news.ycombinator.com/item?id=48601286 Points: 247 # Comments: 315",
       "source": "Hacker News",
       "published": "2026-06-19T18:00:48+00:00",
       "link": "https://www.nature.com/articles/d41586-026-01947-1"
@@ -255,7 +311,7 @@ const FEED_DATA = {
     },
     {
       "title": "GPT-5.5 hallucinates 3x more than MIT-licensed GLM-5.2",
-      "summary": "Article URL: https://arrowtsx.dev/bigger-models/ Comments URL: https://news.ycombinator.com/item?id=48600167 Points: 563 # Comments: 287",
+      "summary": "Article URL: https://arrowtsx.dev/bigger-models/ Comments URL: https://news.ycombinator.com/item?id=48600167 Points: 570 # Comments: 290",
       "source": "Hacker News",
       "published": "2026-06-19T16:11:25+00:00",
       "link": "https://arrowtsx.dev/bigger-models/"
@@ -269,14 +325,14 @@ const FEED_DATA = {
     },
     {
       "title": "AI Engineer Claims to Have Cracked Linear A",
-      "summary": "Article URL: https://aiclambake.com/clamtakes/linear-a/ Comments URL: https://news.ycombinator.com/item?id=48600107 Points: 443 # Comments: 178",
+      "summary": "Article URL: https://aiclambake.com/clamtakes/linear-a/ Comments URL: https://news.ycombinator.com/item?id=48600107 Points: 445 # Comments: 178",
       "source": "Hacker News",
       "published": "2026-06-19T16:04:42+00:00",
       "link": "https://aiclambake.com/clamtakes/linear-a/"
     },
     {
       "title": "Norway imposes near ban on AI in elementary school",
-      "summary": "Article URL: https://www.reuters.com/technology/norway-imposes-near-ban-ai-elementary-school-2026-06-19/ Comments URL: https://news.ycombinator.com/item?id=48600093 Points: 809 # Comments: 587",
+      "summary": "Article URL: https://www.reuters.com/technology/norway-imposes-near-ban-ai-elementary-school-2026-06-19/ Comments URL: https://news.ycombinator.com/item?id=48600093 Points: 812 # Comments: 587",
       "source": "Hacker News",
       "published": "2026-06-19T16:03:15+00:00",
       "link": "https://www.reuters.com/technology/norway-imposes-near-ban-ai-elementary-school-2026-06-19/"
@@ -290,7 +346,7 @@ const FEED_DATA = {
     },
     {
       "title": "Munich 1991: The Roots of the Current AI Boom",
-      "summary": "Article URL: https://people.idsia.ch/~juergen/ai-boom-roots-munich-1991.html Comments URL: https://news.ycombinator.com/item?id=48599998 Points: 74 # Comments: 21",
+      "summary": "Article URL: https://people.idsia.ch/~juergen/ai-boom-roots-munich-1991.html Comments URL: https://news.ycombinator.com/item?id=48599998 Points: 179 # Comments: 80",
       "source": "Hacker News",
       "published": "2026-06-19T15:54:23+00:00",
       "link": "https://people.idsia.ch/~juergen/ai-boom-roots-munich-1991.html"
@@ -360,7 +416,7 @@ const FEED_DATA = {
     },
     {
       "title": "A startup claims it broke through a bottleneck that’s holding back LLMs",
-      "summary": "Miami-based AI startup Subquadratic came out of stealth mode last month with a huge claim. It announced that it had solved a mathematical bottleneck that had been holding back large language models for almost a decade.",
+      "summary": "The Miami-based AI startup Subquadratic came out of stealth mode last month with a huge claim. It announced that it had solved a mathematical bottleneck that had been holding back large language models for almost a decade.",
       "source": "MIT Tech Review",
       "published": "2026-06-19T10:40:24+00:00",
       "link": "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/"
@@ -1344,62 +1400,6 @@ const FEED_DATA = {
       "source": "The Verge",
       "published": "2026-06-15T18:10:27+00:00",
       "link": "https://www.theverge.com/ai-artificial-intelligence/949986/anthropic-fable-mythos-shutdown-sovereign-ai"
-    },
-    {
-      "title": "The US government may be asking Anthropic the impossible by demanding unhackable LLMs",
-      "summary": "Government officials accuse Anthropic of disregarding Trump's cyber directive and releasing Fable 5 without approval. \"They screwed us,\" one administration official said.",
-      "source": "The Decoder",
-      "published": "2026-06-15T18:06:33+00:00",
-      "link": "https://the-decoder.com/the-us-government-may-be-asking-anthropic-the-impossible-by-demanding-unhackable-llms/"
-    },
-    {
-      "title": "Show HN: Veterinarian turned founder, AI lawn diagnosis",
-      "summary": "I know, it's kind of weird. What is a veterinarian doing creating an analysis tool for lawn problems?Frankly, the idea was born of my own lawn care struggles.",
-      "source": "Hacker News",
-      "published": "2026-06-15T17:56:00+00:00",
-      "link": "https://grassdx.com/"
-    },
-    {
-      "title": "Big Tech’s desperate last push at AI regulation",
-      "summary": "For months, Big Tech's Washington lobbyists have chased after the holy grail of pro-AI legislation: preemption.",
-      "source": "The Verge",
-      "published": "2026-06-15T17:44:10+00:00",
-      "link": "https://www.theverge.com/policy/949970/ai-regulation-child-safety-kosa-congress"
-    },
-    {
-      "title": "Nvidia joins AI debt boom with $20 billion bond sale",
-      "summary": "Nvidia wants to raise at least $20 billion through its first bond sale since 2021, Bloomberg reports, citing people with direct knowledge of the deal. The article Nvidia joins AI debt boom with $20 billion bond sale appeared first on The Decoder.",
-      "source": "The Decoder",
-      "published": "2026-06-15T15:43:04+00:00",
-      "link": "https://the-decoder.com/nvidia-joins-ai-debt-boom-with-20-billion-bond-sale/"
-    },
-    {
-      "title": "Cybersecurity vets protest ‘dangerous’ US government ban on Anthropic’s most powerful models",
-      "summary": "A group made up of dozens of cybersecurity experts urged the White House to remove export-control restrictions on Anthropic’s Fable and Mythos models, arguing that the order is going to limit the ability of cybersecurity defenders to secure their software and products.",
-      "source": "TechCrunch",
-      "published": "2026-06-15T15:29:51+00:00",
-      "link": "https://techcrunch.com/2026/06/15/cybersecurity-vets-protest-dangerous-us-government-ban-on-anthropics-most-powerful-models/"
-    },
-    {
-      "title": "This man with ALS is “the first power user” of a brain implant that lets him speak",
-      "summary": "Casey Harrell has had a set of electrodes embedded in his brain for almost three years. Harrell, who has amyotrophic lateral sclerosis (ALS) and is paralyzed, first used his brain-computer interface (BCI) to “speak” sentences with the help of a research team in 2023.",
-      "source": "MIT Tech Review",
-      "published": "2026-06-15T15:12:28+00:00",
-      "link": "https://www.technologyreview.com/2026/06/15/1138953/man-als-first-power-user-brain-implant-speak-bci/"
-    },
-    {
-      "title": "My Homelab AI Dev Platform",
-      "summary": "Article URL: https://rsgm.dev/post/ai-dev-platform/ Comments URL: https://news.ycombinator.com/item?id=48542433 Points: 362 # Comments: 56",
-      "source": "Hacker News",
-      "published": "2026-06-15T15:09:40+00:00",
-      "link": "https://rsgm.dev/post/ai-dev-platform/"
-    },
-    {
-      "title": "Ask HN: Has anyone replaced Claude/GPT with a local model for daily coding?",
-      "summary": "Has anyone here fully swapped Claude/GPT for a local model as their main coding tool, not just for side experiments? If so, please share your setup and performance (e.g tok/s) Comments URL: https://news.ycombinator.com/item?id=48542100 Points: 1282 # Comments: 547",
-      "source": "Hacker News",
-      "published": "2026-06-15T14:46:53+00:00",
-      "link": "https://news.ycombinator.com/item?id=48542100"
     }
   ]
 };
