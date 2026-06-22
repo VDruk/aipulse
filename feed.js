@@ -1,9 +1,37 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-06-22T17:40:22.092688+00:00",
+  "lastUpdated": "2026-06-22T20:06:56.368155+00:00",
   "items": [
     {
+      "title": "AI is cursing renters with the promise of impossible homes",
+      "summary": "Joyce, a native New Yorker, didn't think finding her first solo apartment in the city would be easy.",
+      "source": "The Verge",
+      "published": "2026-06-22T20:00:00+00:00",
+      "link": "https://www.theverge.com/report/953888/ai-virtual-staging-real-estate-apartment-listings"
+    },
+    {
+      "title": "Google DeepMind bets $75M on AI’s future in Hollywood with A24 deal",
+      "summary": "Google DeepMind and A24 are teaming up to build AI filmmaking tools.",
+      "source": "TechCrunch",
+      "published": "2026-06-22T18:49:44+00:00",
+      "link": "https://techcrunch.com/2026/06/22/google-deepmind-bets-75m-on-ais-future-in-hollywood-with-a24-deal/"
+    },
+    {
+      "title": "Google makes Interactions API the default interface for Gemini models and agents",
+      "summary": "Google Deepmind has made the Interactions API the default interface for Gemini models and agents. It replaces the old generateContent API and uses a simplified schema with typed steps instead of role-based structures.",
+      "source": "The Decoder",
+      "published": "2026-06-22T18:11:34+00:00",
+      "link": "https://the-decoder.com/google-makes-interactions-api-the-default-interface-for-gemini-models-and-agents/"
+    },
+    {
+      "title": "Three things to watch amid Anthropic’s latest feud with the government",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here.",
+      "source": "MIT Tech Review",
+      "published": "2026-06-22T18:00:00+00:00",
+      "link": "https://www.technologyreview.com/2026/06/22/1139424/three-things-to-watch-amid-anthropics-latest-feud-with-the-government/"
+    },
+    {
       "title": "Amazon is testing Alexa+ in India with Hindi support",
-      "summary": "Amazon sent emails to customers inviting them to test Alexa+",
+      "summary": "Amazon is planning to increase the footprint of its new conversational AI assistant Alexa+ to India and is inviting users in the country to test out a Hindi-language version.",
       "source": "TechCrunch",
       "published": "2026-06-22T17:31:29+00:00",
       "link": "https://techcrunch.com/2026/06/22/amazon-is-testing-alexa-in-india-with-hindi-support/"
@@ -35,6 +63,13 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-06-22T16:35:54+00:00",
       "link": "https://the-decoder.com/microsoft-is-building-a-2-gigawatt-data-center-in-texas-with-its-own-gas-plant-to-dodge-the-grid/"
+    },
+    {
+      "title": "Mitigating vendor lock-in with Sakana AI Fugu multi-agent models",
+      "summary": "Sakana AI launched Fugu to orchestrate multi-agent operations and mitigate single-vendor dependency risks in enterprise deployments. Enterprises face operational vulnerabilities when relying entirely on monolithic AI APIs.",
+      "source": "AI News",
+      "published": "2026-06-22T16:11:21+00:00",
+      "link": "https://www.artificialintelligence-news.com/news/mitigating-vendor-lock-in-sakana-ai-fugu-multi-agent-models/"
     },
     {
       "title": "Getty Images strikes multi-year deal to put licensed photos in ChatGPT search",
@@ -101,14 +136,21 @@ const FEED_DATA = {
     },
     {
       "title": "Good results fine tuning a local LLM like Qwen 3:0.6B to categorize questions",
-      "summary": "Article URL: https://www.teachmecoolstuff.com/viewarticle/fine-tuning-a-local-llm-to-categorize-questions Comments URL: https://news.ycombinator.com/item?id=48623434 Points: 197 # Comments: 42",
+      "summary": "Article URL: https://www.teachmecoolstuff.com/viewarticle/fine-tuning-a-local-llm-to-categorize-questions Comments URL: https://news.ycombinator.com/item?id=48623434 Points: 200 # Comments: 44",
       "source": "Hacker News",
       "published": "2026-06-21T22:55:23+00:00",
       "link": "https://www.teachmecoolstuff.com/viewarticle/fine-tuning-a-local-llm-to-categorize-questions"
     },
     {
+      "title": "I Canceled My French Tutor and Built an LLM Tool That Does It Better",
+      "summary": "Article URL: https://alshe.substack.com/p/i-canceled-my-french-tutor-and-built Comments URL: https://news.ycombinator.com/item?id=48623371 Points: 50 # Comments: 22",
+      "source": "Hacker News",
+      "published": "2026-06-21T22:46:43+00:00",
+      "link": "https://alshe.substack.com/p/i-canceled-my-french-tutor-and-built"
+    },
+    {
       "title": "Apertus – Open Foundation Model for Sovereign AI",
-      "summary": "Article URL: https://apertvs.ai/ Comments URL: https://news.ycombinator.com/item?id=48622778 Points: 499 # Comments: 167",
+      "summary": "Article URL: https://apertvs.ai/ Comments URL: https://news.ycombinator.com/item?id=48622778 Points: 511 # Comments: 170",
       "source": "Hacker News",
       "published": "2026-06-21T21:29:43+00:00",
       "link": "https://apertvs.ai/"
@@ -157,28 +199,28 @@ const FEED_DATA = {
     },
     {
       "title": "The 100k whys of AI",
-      "summary": "Article URL: https://lcamtuf.substack.com/p/the-100000-whys-of-ai Comments URL: https://news.ycombinator.com/item?id=48616017 Points: 190 # Comments: 106",
+      "summary": "Article URL: https://lcamtuf.substack.com/p/the-100000-whys-of-ai Comments URL: https://news.ycombinator.com/item?id=48616017 Points: 191 # Comments: 106",
       "source": "Hacker News",
       "published": "2026-06-21T05:45:21+00:00",
       "link": "https://lcamtuf.substack.com/p/the-100000-whys-of-ai"
     },
     {
       "title": "Don’t use AI to write things that you present as your own work",
-      "summary": "Article URL: https://www.satisfice.com/blog/archives/488148 Comments URL: https://news.ycombinator.com/item?id=48615776 Points: 98 # Comments: 87",
+      "summary": "Article URL: https://www.satisfice.com/blog/archives/488148 Comments URL: https://news.ycombinator.com/item?id=48615776 Points: 100 # Comments: 92",
       "source": "Hacker News",
       "published": "2026-06-21T04:50:46+00:00",
       "link": "https://www.satisfice.com/blog/archives/488148"
     },
     {
       "title": "Building reliable agentic AI systems",
-      "summary": "Article URL: https://martinfowler.com/articles/reliable-llm-bayer.html Comments URL: https://news.ycombinator.com/item?id=48615680 Points: 194 # Comments: 48",
+      "summary": "Article URL: https://martinfowler.com/articles/reliable-llm-bayer.html Comments URL: https://news.ycombinator.com/item?id=48615680 Points: 194 # Comments: 49",
       "source": "Hacker News",
       "published": "2026-06-21T04:28:39+00:00",
       "link": "https://martinfowler.com/articles/reliable-llm-bayer.html"
     },
     {
       "title": "When I reject AI code even if it works",
-      "summary": "Article URL: https://vinibrasil.com/when-i-reject-ai-code-even-if-it-works/ Comments URL: https://news.ycombinator.com/item?id=48614631 Points: 225 # Comments: 165",
+      "summary": "Article URL: https://vinibrasil.com/when-i-reject-ai-code-even-if-it-works/ Comments URL: https://news.ycombinator.com/item?id=48614631 Points: 228 # Comments: 165",
       "source": "Hacker News",
       "published": "2026-06-21T00:58:13+00:00",
       "link": "https://vinibrasil.com/when-i-reject-ai-code-even-if-it-works/"
@@ -234,7 +276,7 @@ const FEED_DATA = {
     },
     {
       "title": "Temporary Cloudflare accounts for AI agents",
-      "summary": "Article URL: https://blog.cloudflare.com/temporary-accounts/ Comments URL: https://news.ycombinator.com/item?id=48608394 Points: 245 # Comments: 144",
+      "summary": "Article URL: https://blog.cloudflare.com/temporary-accounts/ Comments URL: https://news.ycombinator.com/item?id=48608394 Points: 245 # Comments: 146",
       "source": "Hacker News",
       "published": "2026-06-20T11:19:05+00:00",
       "link": "https://blog.cloudflare.com/temporary-accounts/"
@@ -311,7 +353,7 @@ const FEED_DATA = {
     },
     {
       "title": "GPT-5.5 hallucinates 3x more than MIT-licensed GLM-5.2",
-      "summary": "Article URL: https://arrowtsx.dev/bigger-models/ Comments URL: https://news.ycombinator.com/item?id=48600167 Points: 570 # Comments: 290",
+      "summary": "Article URL: https://arrowtsx.dev/bigger-models/ Comments URL: https://news.ycombinator.com/item?id=48600167 Points: 570 # Comments: 291",
       "source": "Hacker News",
       "published": "2026-06-19T16:11:25+00:00",
       "link": "https://arrowtsx.dev/bigger-models/"
@@ -346,7 +388,7 @@ const FEED_DATA = {
     },
     {
       "title": "Munich 1991: The Roots of the Current AI Boom",
-      "summary": "Article URL: https://people.idsia.ch/~juergen/ai-boom-roots-munich-1991.html Comments URL: https://news.ycombinator.com/item?id=48599998 Points: 179 # Comments: 80",
+      "summary": "Article URL: https://people.idsia.ch/~juergen/ai-boom-roots-munich-1991.html Comments URL: https://news.ycombinator.com/item?id=48599998 Points: 197 # Comments: 89",
       "source": "Hacker News",
       "published": "2026-06-19T15:54:23+00:00",
       "link": "https://people.idsia.ch/~juergen/ai-boom-roots-munich-1991.html"
@@ -570,7 +612,7 @@ const FEED_DATA = {
     },
     {
       "title": "The AI Hate Progression",
-      "summary": "Article URL: https://www.xodium.net/2026/06/the-ai-hate-progression.html Comments URL: https://news.ycombinator.com/item?id=48589485 Points: 123 # Comments: 188",
+      "summary": "Article URL: https://www.xodium.net/2026/06/the-ai-hate-progression.html Comments URL: https://news.ycombinator.com/item?id=48589485 Points: 123 # Comments: 189",
       "source": "Hacker News",
       "published": "2026-06-18T18:30:33+00:00",
       "link": "https://www.xodium.net/2026/06/the-ai-hate-progression.html"
@@ -1358,48 +1400,6 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-06-15T21:50:21+00:00",
       "link": "https://techcrunch.com/2026/06/15/the-us-governments-anthropic-models-ban-was-never-about-an-ai-jailbreak/"
-    },
-    {
-      "title": "Meta CTO Andrew Bosworth Admits the Company’s AI Reorg Was ‘Atrocious’",
-      "summary": "In an internal memo seen by WIRED, Bosworth promised employees more stability, better communication, and the return of workplace perks as the company seeks to improve morale.",
-      "source": "Wired",
-      "published": "2026-06-15T21:33:46+00:00",
-      "link": "https://www.wired.com/story/andrew-bosworth-meta-employees-unrest/"
-    },
-    {
-      "title": "Facebook’s new AI Mode search gets its info from public posts",
-      "summary": "Your public Facebook posts could help inform AI-generated results in Meta's new AI Mode.",
-      "source": "The Verge",
-      "published": "2026-06-15T21:15:08+00:00",
-      "link": "https://www.theverge.com/tech/950264/meta-ai-mode-search-facebook"
-    },
-    {
-      "title": "All the news about Anthropic’s new AI fight with the White House",
-      "summary": "Anthropic was already navigating one dispute with the government in its standoff with the Pentagon, and then came an order on June 12th to block off foreign access to its most recently released AI models, Fable 5 and Mythos 5.",
-      "source": "The Verge",
-      "published": "2026-06-15T19:04:53+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/950026/anthropic-fable-mythos-ban-ai-shutdown"
-    },
-    {
-      "title": "Why do South Koreans love AI so much?",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here.",
-      "source": "MIT Tech Review",
-      "published": "2026-06-15T18:46:08+00:00",
-      "link": "https://www.technologyreview.com/2026/06/15/1138983/why-do-south-koreans-love-ai-so-much/"
-    },
-    {
-      "title": "Meta’s new ‘AI Mode’ on Facebook pulls from public info across its platforms",
-      "summary": "Meta announced Monday that it's rolling out a wave of new AI features on Facebook, the latest sign of the company's effort to catch up in the AI race and keep users more engaged on the platform.",
-      "source": "TechCrunch",
-      "published": "2026-06-15T18:30:58+00:00",
-      "link": "https://techcrunch.com/2026/06/15/metas-new-ai-mode-on-facebook-pulls-from-public-info-across-its-platforms/"
-    },
-    {
-      "title": "Trump’s Anthropic shutdown just made the case for non-American AI",
-      "summary": "At Washington's request, Anthropic suddenly took its newest and most powerful AI models offline over the weekend. The American company said it had little choice after the White House demanded it block access for all foreign nationals, including its own employees.",
-      "source": "The Verge",
-      "published": "2026-06-15T18:10:27+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/949986/anthropic-fable-mythos-shutdown-sovereign-ai"
     }
   ]
 };
