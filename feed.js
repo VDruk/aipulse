@@ -1,6 +1,20 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-06-22T10:41:05.628946+00:00",
+  "lastUpdated": "2026-06-22T14:21:57.353845+00:00",
   "items": [
+    {
+      "title": "Vibecoding is becoming a deal-breaker test for software acquisitions",
+      "summary": "To assess the competitive advantage of potential acquisition targets, Bain & Company uses Vibecoding to replicate their software. These AI replicas are already influencing specific purchasing decisions.",
+      "source": "The Decoder",
+      "published": "2026-06-22T13:57:53+00:00",
+      "link": "https://the-decoder.com/vibecoding-is-becoming-a-deal-breaker-test-for-software-acquisitions/"
+    },
+    {
+      "title": "The Download: record-breaking subsea tunnels and flexible data centers",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.",
+      "source": "MIT Tech Review",
+      "published": "2026-06-22T12:10:00+00:00",
+      "link": "https://www.technologyreview.com/2026/06/22/1139385/the-download-rogfast-subsea-tunnel-flexible-data-centers/"
+    },
     {
       "title": "L’Oréal brings Maybelline virtual try-on to ChatGPT",
       "summary": "L’Oréal has announced a collaboration with OpenAI that will bring Maybelline New York’s virtual makeup try-on feature into ChatGPT. The announcement was made at VivaTech 2026.",
@@ -1386,20 +1400,6 @@ const FEED_DATA = {
       "source": "Hacker News",
       "published": "2026-06-15T14:46:53+00:00",
       "link": "https://news.ycombinator.com/item?id=48542100"
-    },
-    {
-      "title": "Salesforce acquires AI customer service platform Fin for $3.6B",
-      "summary": "Salesforce says it wants to use Fin's team and technology to improve Agentforce, its existing enterprise platform that businesses can use to build custom AI agents that automate tasks.",
-      "source": "TechCrunch",
-      "published": "2026-06-15T14:34:45+00:00",
-      "link": "https://techcrunch.com/2026/06/15/salesforce-acquires-ai-customer-service-platform-fin-for-3-6b/"
-    },
-    {
-      "title": "Salesforce acquires AI customer service platform Fin for $3.6 billion",
-      "summary": "Salesforce says it wants to use Fin's team and technology to improve Agentforce, its existing enterprise platform that businesses can use to build custom AI agents that automate tasks.",
-      "source": "TechCrunch",
-      "published": "2026-06-15T14:34:45+00:00",
-      "link": "https://techcrunch.com/2026/06/15/salesforce-acquires-ai-customer-service-platform-fin-for-3-6b/"
     }
   ]
 };
