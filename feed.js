@@ -1,6 +1,48 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-06-23T11:50:02.317679+00:00",
+  "lastUpdated": "2026-06-23T15:50:38.160993+00:00",
   "items": [
+    {
+      "title": "The Fitbit Air takes a smarter approach to the AI health dumpster fire",
+      "summary": "Google Health Coach seems to think I'm on the verge of physical collapse. My sleep is not where it needs to be, hence my unimpressive readiness score.",
+      "source": "The Verge",
+      "published": "2026-06-23T15:00:00+00:00",
+      "link": "https://www.theverge.com/tech/954768/google-fitbit-air-review-fitness-tracker-wearable-ai-health-coach"
+    },
+    {
+      "title": "Sony’s AI Camera Assistant is exactly as bad as it looks",
+      "summary": "When Sony announced the Xperia 1 VIII last month, it promoted the phone by sharing some of the worst photos taken on a Sony camera in years. These weren't just any photos, though: they were taken with Sony's new AI Camera Assistant.",
+      "source": "The Verge",
+      "published": "2026-06-23T13:25:42+00:00",
+      "link": "https://www.theverge.com/tech/954676/sony-xperia-1-viii-ai-camera-assistant"
+    },
+    {
+      "title": "Fika Jobs raises $4M to build a video-first hiring platform where AI agents interview candidates",
+      "summary": "Stockholm-based startup Fika Jobs is building a video-first hiring platform that combines AI interview agents with short-form video profiles, creating something that feels like a cross between LinkedIn and TikTok.",
+      "source": "TechCrunch",
+      "published": "2026-06-23T13:00:00+00:00",
+      "link": "https://techcrunch.com/2026/06/23/fika-jobs-raises-4m-to-build-a-video-first-hiring-platform-where-ai-agents-interview-candidates/"
+    },
+    {
+      "title": "ByteDance's Seedance 2.5 breaks the 30-second barrier for AI video generation",
+      "summary": "ByteDance introduced five new AI models at Volcano Engine's FORCE conference. The centerpiece is Seedance 2.5, a video model set to launch in early July.",
+      "source": "The Decoder",
+      "published": "2026-06-23T12:15:35+00:00",
+      "link": "https://the-decoder.com/bytedances-seedance-2-5-breaks-the-30-second-barrier-for-ai-video-generation/"
+    },
+    {
+      "title": "Cursor announces its own AI model, a new Git platform, and a mobile app",
+      "summary": "Cursor has revealed new details about its first AI model trained entirely in-house and announced two new products. The article Cursor announces its own AI model, a new Git platform, and a mobile app appeared first on The Decoder.",
+      "source": "The Decoder",
+      "published": "2026-06-23T12:12:40+00:00",
+      "link": "https://the-decoder.com/cursor-announces-its-own-ai-model-a-new-git-platform-and-a-mobile-app/"
+    },
+    {
+      "title": "The Download: the future of chipmaking and Anthropic’s government clash",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The $400 million machine powering the future of chipmaking It’s a bit of a schlep to get to the top of ASML’s newest machine.",
+      "source": "MIT Tech Review",
+      "published": "2026-06-23T12:10:00+00:00",
+      "link": "https://www.technologyreview.com/2026/06/23/1139483/the-download-chipmaking-future-asml-ai-anthropic-government-clash/"
+    },
     {
       "title": "OpenAI says new GPT-5.5-Cyber outperforms Anthropic's Mythos on cybersecurity benchmark",
       "summary": "OpenAI is expanding its Daybreak cybersecurity initiative with an updated Codex Security plugin, the full GPT-5.5-Cyber model, and a partner network with more than 25 security firms and several governments.",
@@ -24,7 +66,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI Built a Nuke and Still Lost",
-      "summary": "Article URL: https://www.lwilko.com/blog/i-gave-an-ai-a-civilization Comments URL: https://news.ycombinator.com/item?id=48641927 Points: 70 # Comments: 80",
+      "summary": "Article URL: https://www.lwilko.com/blog/i-gave-an-ai-a-civilization Comments URL: https://news.ycombinator.com/item?id=48641927 Points: 83 # Comments: 92",
       "source": "Hacker News",
       "published": "2026-06-23T08:16:45+00:00",
       "link": "https://www.lwilko.com/blog/i-gave-an-ai-a-civilization"
@@ -38,7 +80,7 @@ const FEED_DATA = {
     },
     {
       "title": "OpenAI DayBreak – GPT-5.5-Cyber",
-      "summary": "Article URL: https://openai.com/index/daybreak-securing-the-world/ Comments URL: https://news.ycombinator.com/item?id=48639063 Points: 127 # Comments: 68",
+      "summary": "Article URL: https://openai.com/index/daybreak-securing-the-world/ Comments URL: https://news.ycombinator.com/item?id=48639063 Points: 177 # Comments: 132",
       "source": "Hacker News",
       "published": "2026-06-23T01:36:08+00:00",
       "link": "https://openai.com/index/daybreak-securing-the-world/"
@@ -73,7 +115,7 @@ const FEED_DATA = {
     },
     {
       "title": "Meta pauses AI training program tracking employee keystrokes after internal leak",
-      "summary": "Article URL: https://www.businessinsider.com/meta-ai-training-data-leak-exposed-employee-activity-across-company-2026-6 Comments URL: https://news.ycombinator.com/item?id=48636632 Points: 93 # Comments: 23",
+      "summary": "Article URL: https://www.businessinsider.com/meta-ai-training-data-leak-exposed-employee-activity-across-company-2026-6 Comments URL: https://news.ycombinator.com/item?id=48636632 Points: 100 # Comments: 25",
       "source": "Hacker News",
       "published": "2026-06-22T21:43:22+00:00",
       "link": "https://www.businessinsider.com/meta-ai-training-data-leak-exposed-employee-activity-across-company-2026-6"
@@ -234,21 +276,21 @@ const FEED_DATA = {
     },
     {
       "title": "Good results fine tuning a local LLM like Qwen 3:0.6B to categorize questions",
-      "summary": "Article URL: https://www.teachmecoolstuff.com/viewarticle/fine-tuning-a-local-llm-to-categorize-questions Comments URL: https://news.ycombinator.com/item?id=48623434 Points: 206 # Comments: 49",
+      "summary": "Article URL: https://www.teachmecoolstuff.com/viewarticle/fine-tuning-a-local-llm-to-categorize-questions Comments URL: https://news.ycombinator.com/item?id=48623434 Points: 208 # Comments: 49",
       "source": "Hacker News",
       "published": "2026-06-21T22:55:23+00:00",
       "link": "https://www.teachmecoolstuff.com/viewarticle/fine-tuning-a-local-llm-to-categorize-questions"
     },
     {
       "title": "I Canceled My French Tutor and Built an LLM Tool That Does It Better",
-      "summary": "Article URL: https://alshe.substack.com/p/i-canceled-my-french-tutor-and-built Comments URL: https://news.ycombinator.com/item?id=48623371 Points: 58 # Comments: 25",
+      "summary": "Article URL: https://alshe.substack.com/p/i-canceled-my-french-tutor-and-built Comments URL: https://news.ycombinator.com/item?id=48623371 Points: 59 # Comments: 25",
       "source": "Hacker News",
       "published": "2026-06-21T22:46:43+00:00",
       "link": "https://alshe.substack.com/p/i-canceled-my-french-tutor-and-built"
     },
     {
       "title": "Apertus – Open Foundation Model for Sovereign AI",
-      "summary": "Article URL: https://apertvs.ai/ Comments URL: https://news.ycombinator.com/item?id=48622778 Points: 525 # Comments: 181",
+      "summary": "Article URL: https://apertvs.ai/ Comments URL: https://news.ycombinator.com/item?id=48622778 Points: 528 # Comments: 181",
       "source": "Hacker News",
       "published": "2026-06-21T21:29:43+00:00",
       "link": "https://apertvs.ai/"
@@ -297,14 +339,14 @@ const FEED_DATA = {
     },
     {
       "title": "The 100k whys of AI",
-      "summary": "Article URL: https://lcamtuf.substack.com/p/the-100000-whys-of-ai Comments URL: https://news.ycombinator.com/item?id=48616017 Points: 194 # Comments: 106",
+      "summary": "Article URL: https://lcamtuf.substack.com/p/the-100000-whys-of-ai Comments URL: https://news.ycombinator.com/item?id=48616017 Points: 196 # Comments: 107",
       "source": "Hacker News",
       "published": "2026-06-21T05:45:21+00:00",
       "link": "https://lcamtuf.substack.com/p/the-100000-whys-of-ai"
     },
     {
       "title": "Don’t use AI to write things that you present as your own work",
-      "summary": "Article URL: https://www.satisfice.com/blog/archives/488148 Comments URL: https://news.ycombinator.com/item?id=48615776 Points: 104 # Comments: 99",
+      "summary": "Article URL: https://www.satisfice.com/blog/archives/488148 Comments URL: https://news.ycombinator.com/item?id=48615776 Points: 105 # Comments: 99",
       "source": "Hacker News",
       "published": "2026-06-21T04:50:46+00:00",
       "link": "https://www.satisfice.com/blog/archives/488148"
@@ -318,7 +360,7 @@ const FEED_DATA = {
     },
     {
       "title": "When I reject AI code even if it works",
-      "summary": "Article URL: https://vinibrasil.com/when-i-reject-ai-code-even-if-it-works/ Comments URL: https://news.ycombinator.com/item?id=48614631 Points: 229 # Comments: 166",
+      "summary": "Article URL: https://vinibrasil.com/when-i-reject-ai-code-even-if-it-works/ Comments URL: https://news.ycombinator.com/item?id=48614631 Points: 230 # Comments: 166",
       "source": "Hacker News",
       "published": "2026-06-21T00:58:13+00:00",
       "link": "https://vinibrasil.com/when-i-reject-ai-code-even-if-it-works/"
@@ -374,7 +416,7 @@ const FEED_DATA = {
     },
     {
       "title": "Temporary Cloudflare accounts for AI agents",
-      "summary": "Article URL: https://blog.cloudflare.com/temporary-accounts/ Comments URL: https://news.ycombinator.com/item?id=48608394 Points: 245 # Comments: 147",
+      "summary": "Article URL: https://blog.cloudflare.com/temporary-accounts/ Comments URL: https://news.ycombinator.com/item?id=48608394 Points: 245 # Comments: 148",
       "source": "Hacker News",
       "published": "2026-06-20T11:19:05+00:00",
       "link": "https://blog.cloudflare.com/temporary-accounts/"
@@ -451,7 +493,7 @@ const FEED_DATA = {
     },
     {
       "title": "GPT-5.5 hallucinates 3x more than MIT-licensed GLM-5.2",
-      "summary": "Article URL: https://arrowtsx.dev/bigger-models/ Comments URL: https://news.ycombinator.com/item?id=48600167 Points: 574 # Comments: 292",
+      "summary": "Article URL: https://arrowtsx.dev/bigger-models/ Comments URL: https://news.ycombinator.com/item?id=48600167 Points: 575 # Comments: 292",
       "source": "Hacker News",
       "published": "2026-06-19T16:11:25+00:00",
       "link": "https://arrowtsx.dev/bigger-models/"
@@ -486,7 +528,7 @@ const FEED_DATA = {
     },
     {
       "title": "Munich 1991: The Roots of the Current AI Boom",
-      "summary": "Article URL: https://people.idsia.ch/~juergen/ai-boom-roots-munich-1991.html Comments URL: https://news.ycombinator.com/item?id=48599998 Points: 224 # Comments: 98",
+      "summary": "Article URL: https://people.idsia.ch/~juergen/ai-boom-roots-munich-1991.html Comments URL: https://news.ycombinator.com/item?id=48599998 Points: 226 # Comments: 100",
       "source": "Hacker News",
       "published": "2026-06-19T15:54:23+00:00",
       "link": "https://people.idsia.ch/~juergen/ai-boom-roots-munich-1991.html"
@@ -1358,48 +1400,6 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-06-16T11:28:13+00:00",
       "link": "https://the-decoder.com/how-easily-can-russian-propaganda-fool-ai-models-a-new-benchmark-finds-out/"
-    },
-    {
-      "title": "SpaceX to acquire Cursor for $60B in stock, days after blockbuster IPO",
-      "summary": "The deal is supposed to help SpaceX's struggling AI division. The company told IPO investors it sees a $26 trillion addressable market in AI.",
-      "source": "TechCrunch",
-      "published": "2026-06-16T11:21:41+00:00",
-      "link": "https://techcrunch.com/2026/06/16/spacex-to-acquire-cursor-for-60b-in-stock-days-after-blockbuster-ipo/"
-    },
-    {
-      "title": "Critical Copilot vulnerability allowed hackers to steal 2FA code from users",
-      "summary": "SearchLeak exploit shows why the industry's approach to LLM security fails over and over.",
-      "source": "Ars Technica",
-      "published": "2026-06-16T11:15:46+00:00",
-      "link": "https://arstechnica.com/security/2026/06/critical-copilot-vulnerability-allowed-hackers-to-seal-2fa-code-from-users/"
-    },
-    {
-      "title": "Critical Copilot vulnerability allowed hackers to seal 2FA code from users",
-      "summary": "SearchLeak exploit shows why the industry's approach to LLM security fails over and over.",
-      "source": "Ars Technica",
-      "published": "2026-06-16T11:15:46+00:00",
-      "link": "https://arstechnica.com/security/2026/06/critical-copilot-vulnerability-allowed-hackers-to-seal-2fa-code-from-users/"
-    },
-    {
-      "title": "SpaceX to buy Cursor AI coding agent operator Anysphere for $60B",
-      "summary": "Article URL: https://www.reuters.com/legal/transactional/spacex-buy-anysphere-60-billion-2026-06-16/ Comments URL: https://news.ycombinator.com/item?id=48553224 Points: 138 # Comments: 90",
-      "source": "Hacker News",
-      "published": "2026-06-16T10:44:24+00:00",
-      "link": "https://www.reuters.com/legal/transactional/spacex-buy-anysphere-60-billion-2026-06-16/"
-    },
-    {
-      "title": "ChatGPT’s market share slips below 50% for first time",
-      "summary": "The chatbot still remains the most popular AI assistant worldwide with over 1.1 billion monthly users, followed by Gemini with 662 million and Claude with 245 million.",
-      "source": "TechCrunch",
-      "published": "2026-06-16T10:30:00+00:00",
-      "link": "https://techcrunch.com/2026/06/16/chatgpts-market-share-slips-below-50-for-first-time/"
-    },
-    {
-      "title": "EU publishes its AI content labelling playbook ahead of the AI Act’s August deadline",
-      "summary": "The European Union has published its AI content labelling playbook, a voluntary Code of Practice meant to help companies meet transparency rules that become law across the bloc on August 2 onwards.",
-      "source": "AI News",
-      "published": "2026-06-16T10:00:00+00:00",
-      "link": "https://www.artificialintelligence-news.com/news/ai-content-labelling-eu-code-of-practice/"
     }
   ]
 };
