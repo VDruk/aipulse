@@ -1,9 +1,44 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-06-23T08:30:10.612995+00:00",
+  "lastUpdated": "2026-06-23T11:50:02.317679+00:00",
   "items": [
     {
+      "title": "OpenAI says new GPT-5.5-Cyber outperforms Anthropic's Mythos on cybersecurity benchmark",
+      "summary": "OpenAI is expanding its Daybreak cybersecurity initiative with an updated Codex Security plugin, the full GPT-5.5-Cyber model, and a partner network with more than 25 security firms and several governments.",
+      "source": "The Decoder",
+      "published": "2026-06-23T10:43:17+00:00",
+      "link": "https://the-decoder.com/openai-says-new-gpt-5-5-cyber-outperforms-anthropics-mythos-on-cybersecurity-benchmark/"
+    },
+    {
+      "title": "Sakana AI's Fugu orchestrates multiple LLMs to match Anthropic's Fable and Mythos benchmarks",
+      "summary": "Japanese AI startup Sakana AI is launching Fugu, a system that coordinates multiple AI models on the fly to compete with leaders like Anthropic's Fable 5. The approach also aims to cut dependence on any single AI provider.",
+      "source": "The Decoder",
+      "published": "2026-06-23T10:03:59+00:00",
+      "link": "https://the-decoder.com/sakana-ais-fugu-orchestrates-multiple-llms-to-match-anthropics-fable-and-mythos-benchmarks/"
+    },
+    {
+      "title": "Elephant alert! AI warning systems aim to avoid deadly clashes",
+      "summary": "India is home to about 60% of the world’s wild Asian elephants, and around 80% of the animals’ habitat lies outside protected areas, according to the Ministry of Environment, Forest, and Climate Change.",
+      "source": "MIT Tech Review",
+      "published": "2026-06-23T09:00:00+00:00",
+      "link": "https://www.technologyreview.com/2026/06/23/1138562/elephant-alert-ai-warning-systems-avoid-deadly-clashes-india/"
+    },
+    {
+      "title": "AI Built a Nuke and Still Lost",
+      "summary": "Article URL: https://www.lwilko.com/blog/i-gave-an-ai-a-civilization Comments URL: https://news.ycombinator.com/item?id=48641927 Points: 70 # Comments: 80",
+      "source": "Hacker News",
+      "published": "2026-06-23T08:16:45+00:00",
+      "link": "https://www.lwilko.com/blog/i-gave-an-ai-a-civilization"
+    },
+    {
+      "title": "Top spy agencies say AI cyber threats will impact you within months. Here’s why",
+      "summary": "The global surge in AI cyber threats is no longer a distant problem for corporate data centres, according to an urgent public warning from the world’s most powerful intelligence alliance.",
+      "source": "AI News",
+      "published": "2026-06-23T08:00:00+00:00",
+      "link": "https://www.artificialintelligence-news.com/news/five-eyes-warning-ai-cyber-threats/"
+    },
+    {
       "title": "OpenAI DayBreak – GPT-5.5-Cyber",
-      "summary": "Article URL: https://openai.com/index/daybreak-securing-the-world/ Comments URL: https://news.ycombinator.com/item?id=48639063 Points: 78 # Comments: 36",
+      "summary": "Article URL: https://openai.com/index/daybreak-securing-the-world/ Comments URL: https://news.ycombinator.com/item?id=48639063 Points: 127 # Comments: 68",
       "source": "Hacker News",
       "published": "2026-06-23T01:36:08+00:00",
       "link": "https://openai.com/index/daybreak-securing-the-world/"
@@ -38,7 +73,7 @@ const FEED_DATA = {
     },
     {
       "title": "Meta pauses AI training program tracking employee keystrokes after internal leak",
-      "summary": "Article URL: https://www.businessinsider.com/meta-ai-training-data-leak-exposed-employee-activity-across-company-2026-6 Comments URL: https://news.ycombinator.com/item?id=48636632 Points: 84 # Comments: 20",
+      "summary": "Article URL: https://www.businessinsider.com/meta-ai-training-data-leak-exposed-employee-activity-across-company-2026-6 Comments URL: https://news.ycombinator.com/item?id=48636632 Points: 93 # Comments: 23",
       "source": "Hacker News",
       "published": "2026-06-22T21:43:22+00:00",
       "link": "https://www.businessinsider.com/meta-ai-training-data-leak-exposed-employee-activity-across-company-2026-6"
@@ -198,29 +233,22 @@ const FEED_DATA = {
       "link": "https://www.wired.com/story/world-cup-scams-are-getting-harder-to-spot/"
     },
     {
-      "title": "Sakana AI's Fugu orchestrates multiple LLMs to match Anthropic's Fable and Mythos benchmarks",
-      "summary": "Japanese AI startup Sakana AI is launching Fugu, a system that coordinates multiple AI models on the fly to compete with leaders like Anthropic's Fable 5. The approach also aims to cut dependence on any single AI provider.",
-      "source": "The Decoder",
-      "published": "2026-06-22T08:18:59+00:00",
-      "link": "https://the-decoder.com/sakana-ais-fugu-orchestrates-multiple-llms-to-match-anthropics-fable-and-mythos-benchmarks/"
-    },
-    {
       "title": "Good results fine tuning a local LLM like Qwen 3:0.6B to categorize questions",
-      "summary": "Article URL: https://www.teachmecoolstuff.com/viewarticle/fine-tuning-a-local-llm-to-categorize-questions Comments URL: https://news.ycombinator.com/item?id=48623434 Points: 205 # Comments: 49",
+      "summary": "Article URL: https://www.teachmecoolstuff.com/viewarticle/fine-tuning-a-local-llm-to-categorize-questions Comments URL: https://news.ycombinator.com/item?id=48623434 Points: 206 # Comments: 49",
       "source": "Hacker News",
       "published": "2026-06-21T22:55:23+00:00",
       "link": "https://www.teachmecoolstuff.com/viewarticle/fine-tuning-a-local-llm-to-categorize-questions"
     },
     {
       "title": "I Canceled My French Tutor and Built an LLM Tool That Does It Better",
-      "summary": "Article URL: https://alshe.substack.com/p/i-canceled-my-french-tutor-and-built Comments URL: https://news.ycombinator.com/item?id=48623371 Points: 57 # Comments: 24",
+      "summary": "Article URL: https://alshe.substack.com/p/i-canceled-my-french-tutor-and-built Comments URL: https://news.ycombinator.com/item?id=48623371 Points: 58 # Comments: 25",
       "source": "Hacker News",
       "published": "2026-06-21T22:46:43+00:00",
       "link": "https://alshe.substack.com/p/i-canceled-my-french-tutor-and-built"
     },
     {
       "title": "Apertus – Open Foundation Model for Sovereign AI",
-      "summary": "Article URL: https://apertvs.ai/ Comments URL: https://news.ycombinator.com/item?id=48622778 Points: 523 # Comments: 180",
+      "summary": "Article URL: https://apertvs.ai/ Comments URL: https://news.ycombinator.com/item?id=48622778 Points: 525 # Comments: 181",
       "source": "Hacker News",
       "published": "2026-06-21T21:29:43+00:00",
       "link": "https://apertvs.ai/"
@@ -269,7 +297,7 @@ const FEED_DATA = {
     },
     {
       "title": "The 100k whys of AI",
-      "summary": "Article URL: https://lcamtuf.substack.com/p/the-100000-whys-of-ai Comments URL: https://news.ycombinator.com/item?id=48616017 Points: 193 # Comments: 106",
+      "summary": "Article URL: https://lcamtuf.substack.com/p/the-100000-whys-of-ai Comments URL: https://news.ycombinator.com/item?id=48616017 Points: 194 # Comments: 106",
       "source": "Hacker News",
       "published": "2026-06-21T05:45:21+00:00",
       "link": "https://lcamtuf.substack.com/p/the-100000-whys-of-ai"
@@ -346,7 +374,7 @@ const FEED_DATA = {
     },
     {
       "title": "Temporary Cloudflare accounts for AI agents",
-      "summary": "Article URL: https://blog.cloudflare.com/temporary-accounts/ Comments URL: https://news.ycombinator.com/item?id=48608394 Points: 245 # Comments: 146",
+      "summary": "Article URL: https://blog.cloudflare.com/temporary-accounts/ Comments URL: https://news.ycombinator.com/item?id=48608394 Points: 245 # Comments: 147",
       "source": "Hacker News",
       "published": "2026-06-20T11:19:05+00:00",
       "link": "https://blog.cloudflare.com/temporary-accounts/"
@@ -458,7 +486,7 @@ const FEED_DATA = {
     },
     {
       "title": "Munich 1991: The Roots of the Current AI Boom",
-      "summary": "Article URL: https://people.idsia.ch/~juergen/ai-boom-roots-munich-1991.html Comments URL: https://news.ycombinator.com/item?id=48599998 Points: 220 # Comments: 96",
+      "summary": "Article URL: https://people.idsia.ch/~juergen/ai-boom-roots-munich-1991.html Comments URL: https://news.ycombinator.com/item?id=48599998 Points: 224 # Comments: 98",
       "source": "Hacker News",
       "published": "2026-06-19T15:54:23+00:00",
       "link": "https://people.idsia.ch/~juergen/ai-boom-roots-munich-1991.html"
@@ -828,18 +856,18 @@ const FEED_DATA = {
       "link": "https://www.artificialintelligence-news.com/news/hsbc-google-cloud-ai-partnership/"
     },
     {
-      "title": "The search for dark matter has been blown wide open",
-      "summary": "Underneath an Apennine massif, below the Jinping Mountains of Sichuan, and at the bottom of a South Dakota mine, there is a cosmic hunt afoot.",
-      "source": "MIT Tech Review",
-      "published": "2026-06-18T09:00:00+00:00",
-      "link": "https://www.technologyreview.com/2026/06/18/1138755/search-for-dark-matter-blown-wide-open/"
-    },
-    {
       "title": "Microsoft sells OpenAI models in China. OpenAI and Anthropic won’t.",
       "summary": "Microsoft has quietly become the main supplier of OpenAI models in China, selling the technology to the country’s largest internet companies even as OpenAI and Anthropic keep their own models out of the market on intellectual-property and misuse grounds.",
       "source": "AI News",
       "published": "2026-06-18T09:00:00+00:00",
       "link": "https://www.artificialintelligence-news.com/news/microsoft-sells-openai-models-china/"
+    },
+    {
+      "title": "The search for dark matter has been blown wide open",
+      "summary": "Underneath an Apennine massif, below the Jinping Mountains of Sichuan, and at the bottom of a South Dakota mine, there is a cosmic hunt afoot.",
+      "source": "MIT Tech Review",
+      "published": "2026-06-18T09:00:00+00:00",
+      "link": "https://www.technologyreview.com/2026/06/18/1138755/search-for-dark-matter-blown-wide-open/"
     },
     {
       "title": "Google's Gemini co-lead Noam Shazeer joins OpenAI after two-year return stint",
@@ -1372,34 +1400,6 @@ const FEED_DATA = {
       "source": "AI News",
       "published": "2026-06-16T10:00:00+00:00",
       "link": "https://www.artificialintelligence-news.com/news/ai-content-labelling-eu-code-of-practice/"
-    },
-    {
-      "title": "Anthropic backs off unpopular billing overhaul as price war with OpenAI looms",
-      "summary": "Anthropic has pulled back its planned billing change for the Claude Agent SDK just before launch. Instead of separate credits, the SDK and third-party apps will keep drawing from regular subscription limits.",
-      "source": "The Decoder",
-      "published": "2026-06-16T09:44:48+00:00",
-      "link": "https://the-decoder.com/anthropic-backs-off-unpopular-billing-overhaul-as-price-war-with-openai-looms/"
-    },
-    {
-      "title": "DeepSeek takes outside money for the first time at a $50 billion valuation",
-      "summary": "Chinese AI startup DeepSeek has raised more than 50 billion yuan - about $7.4 billion - in its first external funding round. The article DeepSeek takes outside money for the first time at a $50 billion valuation appeared first on The Decoder.",
-      "source": "The Decoder",
-      "published": "2026-06-16T09:40:48+00:00",
-      "link": "https://the-decoder.com/deepseek-takes-outside-money-for-the-first-time-at-a-50-billion-valuation/"
-    },
-    {
-      "title": "‘Pretty Crazy’ Token Usage Is Testing Bosses’ Bet on AI",
-      "summary": "A Silicon Valley software maker and an ecommerce company reveal to WIRED how they are navigating the emerging challenge of “tokenomics.”",
-      "source": "Wired",
-      "published": "2026-06-16T09:30:00+00:00",
-      "link": "https://www.wired.com/story/claude-tokens-compute-cost-code-8x8/"
-    },
-    {
-      "title": "OpenAI burned through $34 billion last year",
-      "summary": "OpenAI spent $34 billion in the past year, far more than the year before. The article OpenAI burned through $34 billion last year appeared first on The Decoder.",
-      "source": "The Decoder",
-      "published": "2026-06-16T09:21:39+00:00",
-      "link": "https://the-decoder.com/openai-burned-through-34-billion-last-year/"
     }
   ]
 };
