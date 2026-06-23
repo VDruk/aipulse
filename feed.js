@@ -1,6 +1,20 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-06-22T22:42:47.901284+00:00",
+  "lastUpdated": "2026-06-23T04:58:46.706655+00:00",
   "items": [
+    {
+      "title": "The running list: major tech layoffs in 2026 where employers cited AI",
+      "summary": "A running look — in reverse chronological order — at the bigger tech companies that have announced significant layoffs this year with AI as a stated factor.",
+      "source": "TechCrunch",
+      "published": "2026-06-23T01:27:55+00:00",
+      "link": "https://techcrunch.com/2026/06/22/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/"
+    },
+    {
+      "title": "OpenAI launches new initiative to help find and patch open-source bugs",
+      "summary": "OpenAI is attempting to tackle the security issues of the open source software community.",
+      "source": "TechCrunch",
+      "published": "2026-06-23T00:11:31+00:00",
+      "link": "https://techcrunch.com/2026/06/22/openai-launches-new-initiative-to-help-find-and-patch-open-source-bugs/"
+    },
     {
       "title": "The AI world is getting ‘loopy’",
       "summary": "The loop takes agentic AI a step further by authorizing a swarm of agents to work continuously in the background, endlessly.",
@@ -1386,20 +1400,6 @@ const FEED_DATA = {
       "source": "Wired",
       "published": "2026-06-16T03:06:37+00:00",
       "link": "https://www.wired.com/story/doj-lawyers-argue-xai-vital-national-security-naacp-lawsuit/"
-    },
-    {
-      "title": "Inside the fight over Claude Mythos 5",
-      "summary": "As the rest of the country celebrated the USA's first World Cup win and the New York Knicks championship, Anthropic spent its weekend fighting the Trump administration over its latest model release.",
-      "source": "The Verge",
-      "published": "2026-06-16T03:00:00+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/950412/anthropic-trump-adminstration-claude-mythos-fable-5-export-controls"
-    },
-    {
-      "title": "Microsoft turns to AWS as GitHub faces AI capacity crunch",
-      "summary": "Article URL: https://runtimewire.com/article/microsoft-github-aws-ai-capacity-crunch Comments URL: https://news.ycombinator.com/item?id=48549918 Points: 154 # Comments: 76",
-      "source": "Hacker News",
-      "published": "2026-06-16T02:47:57+00:00",
-      "link": "https://runtimewire.com/article/microsoft-github-aws-ai-capacity-crunch"
     }
   ]
 };
