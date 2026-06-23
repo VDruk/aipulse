@@ -1,6 +1,62 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-06-23T19:06:15.389061+00:00",
+  "lastUpdated": "2026-06-23T22:07:19.597938+00:00",
   "items": [
+    {
+      "title": "Hollywood is bending the knee to OpenAI",
+      "summary": "Netflix, A24, Focus Features, and Warner Bros.' Clockwork have all reportedly decided to pass on picking up Artificial - director Luca Guadagnino's new biographical drama about OpenAI cofounder / CEO Sam Altman - for distribution deals.",
+      "source": "The Verge",
+      "published": "2026-06-23T22:03:18+00:00",
+      "link": "https://www.theverge.com/entertainment/954899/luca-guadagnino-artificial-sam-altman-amazon-a24-neon-mubi-chatgpt"
+    },
+    {
+      "title": "Sharing a love for calculus",
+      "summary": "The national conversation about the value of education is currently dominated by speculation about the risks and positive potential of AI.",
+      "source": "MIT Tech Review",
+      "published": "2026-06-23T21:00:00+00:00",
+      "link": "https://www.technologyreview.com/2026/06/23/1138271/sharing-a-love-for-calculus/"
+    },
+    {
+      "title": "Ultrasound imaging turns a robot hand into a skillful mimic",
+      "summary": "Our hands are the nimblest parts of our bodies, coordinating 34 muscles, 27 joints, and over 100 tendons and ligaments to perform countless nuanced movements and gestures.",
+      "source": "MIT Tech Review",
+      "published": "2026-06-23T21:00:00+00:00",
+      "link": "https://www.technologyreview.com/2026/06/23/1138279/ultrasound-imaging-turns-a-robot-hand-into-a-skillful-mimic/"
+    },
+    {
+      "title": "Reinventing the zipper",
+      "summary": "With an adaptable fastener designed at CSAIL, pitching a tent or adjusting the cast for a broken bone could be almost as easy as zipping your coat.",
+      "source": "MIT Tech Review",
+      "published": "2026-06-23T21:00:00+00:00",
+      "link": "https://www.technologyreview.com/2026/06/23/1138282/reinventing-the-zipper/"
+    },
+    {
+      "title": "Engineered “mini livers” could be injected as an alternative to transplantation",
+      "summary": "A technology developed by Professor Sangeeta Bhatia, SM ’93, PhD ’97, and colleagues could offer new hope to the thousands of Americans with chronic liver disease who are waiting for an organ transplant or not strong enough to tolerate one.",
+      "source": "MIT Tech Review",
+      "published": "2026-06-23T21:00:00+00:00",
+      "link": "https://www.technologyreview.com/2026/06/23/1138285/engineered-mini-livers-could-be-injected-as-an-alternative-to-transplantation/"
+    },
+    {
+      "title": "Plants appear to detect the patter of falling rain",
+      "summary": "MIT engineers have found the first direct evidence that plant seeds can sense sounds in nature: Rice submerged in shallow water germinated 30% to 40% more quickly when exposed to vibrations from water dripping on the surface. They think other types of seeds may respond similarly.",
+      "source": "MIT Tech Review",
+      "published": "2026-06-23T21:00:00+00:00",
+      "link": "https://www.technologyreview.com/2026/06/23/1138288/plants-appear-to-detect-the-patter-of-falling-rain/"
+    },
+    {
+      "title": "Oracle’s 21,000 layoffs help drive its debt-fueled AI investments",
+      "summary": "Oracle is spending billions on data center infrastructure to support AI.",
+      "source": "Ars Technica",
+      "published": "2026-06-23T20:17:38+00:00",
+      "link": "https://arstechnica.com/ai/2026/06/oracles-21000-layoffs-help-drive-its-debt-fueled-ai-investments/"
+    },
+    {
+      "title": "AI Hiring Tools Yield Racial Bias and Systemic Rejection; 26% Black & 15% Asian",
+      "summary": "Article URL: https://hai.stanford.edu/news/ai-hiring-tools-can-yield-racial-bias-and-systemic-rejection Comments URL: https://news.ycombinator.com/item?id=48649673 Points: 107 # Comments: 85",
+      "source": "Hacker News",
+      "published": "2026-06-23T18:56:19+00:00",
+      "link": "https://hai.stanford.edu/news/ai-hiring-tools-can-yield-racial-bias-and-systemic-rejection"
+    },
     {
       "title": "Anthropic’s Claude Tag is learning your company, one Slack message at a time",
       "summary": "Anthropic’s new Claude Tag brings an always-on AI teammate to Slack. But beyond productivity, the feature is a strategic play to capture organizational context, institutional knowledge, and enterprise workflows.",
@@ -16,6 +72,13 @@ const FEED_DATA = {
       "link": "https://www.theverge.com/policy/954970/ai-super-pacs-alex-bores-new-york-12th-district"
     },
     {
+      "title": "Omio scales travel product development using OpenAI models",
+      "summary": "Omio integrates OpenAI models across its engineering operations to accelerate travel product development and launch booking interfaces. The multimodal travel platform coordinates operations with over 3,000 transportation providers across 47 countries.",
+      "source": "AI News",
+      "published": "2026-06-23T16:32:28+00:00",
+      "link": "https://www.artificialintelligence-news.com/news/omio-scales-travel-product-development-using-openai-models/"
+    },
+    {
       "title": "Something’s off with Midjourney’s pivot to body scanners",
       "summary": "Last week, Midjourney, an AI startup best known for its image generator, made an unusual pivot: medical imaging.",
       "source": "The Verge",
@@ -24,7 +87,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI's Affordability Crisis",
-      "summary": "Article URL: https://blog.dshr.org/2026/06/ais-affordability-crisis.html Comments URL: https://news.ycombinator.com/item?id=48646276 Points: 172 # Comments: 224",
+      "summary": "Article URL: https://blog.dshr.org/2026/06/ais-affordability-crisis.html Comments URL: https://news.ycombinator.com/item?id=48646276 Points: 189 # Comments: 248",
       "source": "Hacker News",
       "published": "2026-06-23T15:11:17+00:00",
       "link": "https://blog.dshr.org/2026/06/ais-affordability-crisis.html"
@@ -73,7 +136,7 @@ const FEED_DATA = {
     },
     {
       "title": "The Low-Tech AI of Elden Ring",
-      "summary": "Article URL: https://nega.tv/posts/low-tech-ai-of-elden-ring.html Comments URL: https://news.ycombinator.com/item?id=48643489 Points: 56 # Comments: 32",
+      "summary": "Article URL: https://nega.tv/posts/low-tech-ai-of-elden-ring.html Comments URL: https://news.ycombinator.com/item?id=48643489 Points: 82 # Comments: 48",
       "source": "Hacker News",
       "published": "2026-06-23T11:40:50+00:00",
       "link": "https://nega.tv/posts/low-tech-ai-of-elden-ring.html"
@@ -115,7 +178,7 @@ const FEED_DATA = {
     },
     {
       "title": "OpenAI DayBreak – GPT-5.5-Cyber",
-      "summary": "Article URL: https://openai.com/index/daybreak-securing-the-world/ Comments URL: https://news.ycombinator.com/item?id=48639063 Points: 196 # Comments: 158",
+      "summary": "Article URL: https://openai.com/index/daybreak-securing-the-world/ Comments URL: https://news.ycombinator.com/item?id=48639063 Points: 203 # Comments: 161",
       "source": "Hacker News",
       "published": "2026-06-23T01:36:08+00:00",
       "link": "https://openai.com/index/daybreak-securing-the-world/"
@@ -150,7 +213,7 @@ const FEED_DATA = {
     },
     {
       "title": "Meta pauses AI training program tracking employee keystrokes after internal leak",
-      "summary": "Article URL: https://www.businessinsider.com/meta-ai-training-data-leak-exposed-employee-activity-across-company-2026-6 Comments URL: https://news.ycombinator.com/item?id=48636632 Points: 105 # Comments: 25",
+      "summary": "Article URL: https://www.businessinsider.com/meta-ai-training-data-leak-exposed-employee-activity-across-company-2026-6 Comments URL: https://news.ycombinator.com/item?id=48636632 Points: 106 # Comments: 25",
       "source": "Hacker News",
       "published": "2026-06-22T21:43:22+00:00",
       "link": "https://www.businessinsider.com/meta-ai-training-data-leak-exposed-employee-activity-across-company-2026-6"
@@ -311,7 +374,7 @@ const FEED_DATA = {
     },
     {
       "title": "Good results fine tuning a local LLM like Qwen 3:0.6B to categorize questions",
-      "summary": "Article URL: https://www.teachmecoolstuff.com/viewarticle/fine-tuning-a-local-llm-to-categorize-questions Comments URL: https://news.ycombinator.com/item?id=48623434 Points: 209 # Comments: 49",
+      "summary": "Article URL: https://www.teachmecoolstuff.com/viewarticle/fine-tuning-a-local-llm-to-categorize-questions Comments URL: https://news.ycombinator.com/item?id=48623434 Points: 210 # Comments: 49",
       "source": "Hacker News",
       "published": "2026-06-21T22:55:23+00:00",
       "link": "https://www.teachmecoolstuff.com/viewarticle/fine-tuning-a-local-llm-to-categorize-questions"
@@ -325,7 +388,7 @@ const FEED_DATA = {
     },
     {
       "title": "Apertus – Open Foundation Model for Sovereign AI",
-      "summary": "Article URL: https://apertvs.ai/ Comments URL: https://news.ycombinator.com/item?id=48622778 Points: 529 # Comments: 181",
+      "summary": "Article URL: https://apertvs.ai/ Comments URL: https://news.ycombinator.com/item?id=48622778 Points: 530 # Comments: 181",
       "source": "Hacker News",
       "published": "2026-06-21T21:29:43+00:00",
       "link": "https://apertvs.ai/"
@@ -451,7 +514,7 @@ const FEED_DATA = {
     },
     {
       "title": "Temporary Cloudflare accounts for AI agents",
-      "summary": "Article URL: https://blog.cloudflare.com/temporary-accounts/ Comments URL: https://news.ycombinator.com/item?id=48608394 Points: 245 # Comments: 149",
+      "summary": "Article URL: https://blog.cloudflare.com/temporary-accounts/ Comments URL: https://news.ycombinator.com/item?id=48608394 Points: 246 # Comments: 151",
       "source": "Hacker News",
       "published": "2026-06-20T11:19:05+00:00",
       "link": "https://blog.cloudflare.com/temporary-accounts/"
@@ -507,7 +570,7 @@ const FEED_DATA = {
     },
     {
       "title": "Is AI ruining our skills? Early results are in – and they're not good",
-      "summary": "Article URL: https://www.nature.com/articles/d41586-026-01947-1 Comments URL: https://news.ycombinator.com/item?id=48601286 Points: 249 # Comments: 316",
+      "summary": "Article URL: https://www.nature.com/articles/d41586-026-01947-1 Comments URL: https://news.ycombinator.com/item?id=48601286 Points: 250 # Comments: 316",
       "source": "Hacker News",
       "published": "2026-06-19T18:00:48+00:00",
       "link": "https://www.nature.com/articles/d41586-026-01947-1"
@@ -528,7 +591,7 @@ const FEED_DATA = {
     },
     {
       "title": "GPT-5.5 hallucinates 3x more than MIT-licensed GLM-5.2",
-      "summary": "Article URL: https://arrowtsx.dev/bigger-models/ Comments URL: https://news.ycombinator.com/item?id=48600167 Points: 575 # Comments: 292",
+      "summary": "Article URL: https://arrowtsx.dev/bigger-models/ Comments URL: https://news.ycombinator.com/item?id=48600167 Points: 576 # Comments: 292",
       "source": "Hacker News",
       "published": "2026-06-19T16:11:25+00:00",
       "link": "https://arrowtsx.dev/bigger-models/"
@@ -1337,69 +1400,6 @@ const FEED_DATA = {
       "source": "Hacker News",
       "published": "2026-06-16T17:11:05+00:00",
       "link": "https://tim.blog/2026/06/12/has-ai-already-killed-nonfiction/"
-    },
-    {
-      "title": "Apple 2027 rumors: AirPods with cameras for AI and the second folding iPhone",
-      "summary": "Now that we're clear of WWDC and all of the new AI-powered features coming to Apple's platforms, Bloomberg reporter Mark Gurman has more details about rumored new hardware, like the camera-equipped AirPods he'd previously written about.",
-      "source": "The Verge",
-      "published": "2026-06-16T17:04:05+00:00",
-      "link": "https://www.theverge.com/tech/950826/apple-airpod-camera-ai-foldable-iphone-rumor"
-    },
-    {
-      "title": "Insurers pivot AI strategy toward core risk underwriting",
-      "summary": "AI investments by insurers are now expected to generate tangible business value beyond mere efficiency.",
-      "source": "AI News",
-      "published": "2026-06-16T15:55:02+00:00",
-      "link": "https://www.artificialintelligence-news.com/news/insurers-pivot-ai-strategy-toward-core-risk-underwriting/"
-    },
-    {
-      "title": "After AI takes everything",
-      "summary": "Article URL: https://ursb.me/en/posts/after-ai-takes-everything/ Comments URL: https://news.ycombinator.com/item?id=48556644 Points: 101 # Comments: 113",
-      "source": "Hacker News",
-      "published": "2026-06-16T15:20:05+00:00",
-      "link": "https://ursb.me/en/posts/after-ai-takes-everything/"
-    },
-    {
-      "title": "SpaceX bets $60 billion on Cursor to catch OpenAI and Anthropic",
-      "summary": "Just two trading days after its IPO, Elon Musk's SpaceX is buying AI coding startup Anysphere. The deal is meant to help the struggling xAI division catch up with Anthropic and OpenAI.",
-      "source": "The Decoder",
-      "published": "2026-06-16T15:16:08+00:00",
-      "link": "https://the-decoder.com/spacex-bets-60-billion-on-cursor-to-catch-openai-and-anthropic/"
-    },
-    {
-      "title": "DOJ claims xAI’s unpermitted gas turbines are a matter of ‘national, economic, and energy security’",
-      "summary": "The Justice department says the Pentagon needs xAI to keep using its unpermitted gas turbines.",
-      "source": "TechCrunch",
-      "published": "2026-06-16T15:05:03+00:00",
-      "link": "https://techcrunch.com/2026/06/16/doj-claims-xais-unpermitted-gas-turbines-are-a-matter-of-national-economic-and-energy-security/"
-    },
-    {
-      "title": "Plaud says its software business topped $100M in ARR after shipping over 2M AI notetakers",
-      "summary": "Plaud is trying to make a mark in a crowded market full of AI-powered meeting notetakers.",
-      "source": "TechCrunch",
-      "published": "2026-06-16T15:00:00+00:00",
-      "link": "https://techcrunch.com/2026/06/16/plaud-says-its-software-business-topped-100m-in-arr-after-shipping-over-2m-ai-notetakers/"
-    },
-    {
-      "title": "Robinhood’s note on 10% layoffs shows blaming AI isn’t cutting it",
-      "summary": "Unlike many of his tech industry peers who have cut thousands of jobs citing the need to restructure to make the most of AI, Robinhood's CEO Vlad Tenev conspicuously made no mention of AI in his note about layoffs.",
-      "source": "TechCrunch",
-      "published": "2026-06-16T14:50:09+00:00",
-      "link": "https://techcrunch.com/2026/06/16/robinhoods-note-on-10-layoffs-shows-blaming-ai-isnt-cutting-it/"
-    },
-    {
-      "title": "My Father Wants to Age in Place. AI Will Be Watching",
-      "summary": "Devices that monitor seniors for safety are appealing to worried loved ones and underresourced home care agencies.",
-      "source": "Wired",
-      "published": "2026-06-16T14:00:00+00:00",
-      "link": "https://www.wired.com/story/sensi-ai-seniors-home-care-aging-in-place/"
-    },
-    {
-      "title": "DOJ invokes national security to defend xAI's unpermitted gas turbines in NAACP lawsuit",
-      "summary": "US Justice Department calls xAI's chatbot Grok essential to military operations, defending its controversial gas turbines. The article DOJ invokes national security to defend xAI's unpermitted gas turbines in NAACP lawsuit appeared first on The Decoder.",
-      "source": "The Decoder",
-      "published": "2026-06-16T13:23:33+00:00",
-      "link": "https://the-decoder.com/doj-invokes-national-security-to-defend-xais-unpermitted-gas-turbines-in-naacp-lawsuit/"
     }
   ]
 };
