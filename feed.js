@@ -1,6 +1,34 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-06-23T15:50:38.160993+00:00",
+  "lastUpdated": "2026-06-23T19:06:15.389061+00:00",
   "items": [
+    {
+      "title": "Anthropic’s Claude Tag is learning your company, one Slack message at a time",
+      "summary": "Anthropic’s new Claude Tag brings an always-on AI teammate to Slack. But beyond productivity, the feature is a strategic play to capture organizational context, institutional knowledge, and enterprise workflows.",
+      "source": "TechCrunch",
+      "published": "2026-06-23T17:00:00+00:00",
+      "link": "https://techcrunch.com/2026/06/23/anthropics-claude-tag-is-learning-your-company-one-slack-message-at-a-time/"
+    },
+    {
+      "title": "Why corporate AI super PACs spent $27 million on a local election",
+      "summary": "Hello and welcome to Regulator, the newsletter for Verge subscribers chronicling the misadventures of their favorite tech overlords and Washington swamp creatures. (\"Favorite\" is, of course, subjective.) Not a subscriber yet?",
+      "source": "The Verge",
+      "published": "2026-06-23T17:00:00+00:00",
+      "link": "https://www.theverge.com/policy/954970/ai-super-pacs-alex-bores-new-york-12th-district"
+    },
+    {
+      "title": "Something’s off with Midjourney’s pivot to body scanners",
+      "summary": "Last week, Midjourney, an AI startup best known for its image generator, made an unusual pivot: medical imaging.",
+      "source": "The Verge",
+      "published": "2026-06-23T15:56:35+00:00",
+      "link": "https://www.theverge.com/report/954826/midjourney-medical-ai-ultrasound-body-scanner-lacks-evidence"
+    },
+    {
+      "title": "AI's Affordability Crisis",
+      "summary": "Article URL: https://blog.dshr.org/2026/06/ais-affordability-crisis.html Comments URL: https://news.ycombinator.com/item?id=48646276 Points: 172 # Comments: 224",
+      "source": "Hacker News",
+      "published": "2026-06-23T15:11:17+00:00",
+      "link": "https://blog.dshr.org/2026/06/ais-affordability-crisis.html"
+    },
     {
       "title": "The Fitbit Air takes a smarter approach to the AI health dumpster fire",
       "summary": "Google Health Coach seems to think I'm on the verge of physical collapse. My sleep is not where it needs to be, hence my unimpressive readiness score.",
@@ -44,6 +72,13 @@ const FEED_DATA = {
       "link": "https://www.technologyreview.com/2026/06/23/1139483/the-download-chipmaking-future-asml-ai-anthropic-government-clash/"
     },
     {
+      "title": "The Low-Tech AI of Elden Ring",
+      "summary": "Article URL: https://nega.tv/posts/low-tech-ai-of-elden-ring.html Comments URL: https://news.ycombinator.com/item?id=48643489 Points: 56 # Comments: 32",
+      "source": "Hacker News",
+      "published": "2026-06-23T11:40:50+00:00",
+      "link": "https://nega.tv/posts/low-tech-ai-of-elden-ring.html"
+    },
+    {
       "title": "OpenAI says new GPT-5.5-Cyber outperforms Anthropic's Mythos on cybersecurity benchmark",
       "summary": "OpenAI is expanding its Daybreak cybersecurity initiative with an updated Codex Security plugin, the full GPT-5.5-Cyber model, and a partner network with more than 25 security firms and several governments.",
       "source": "The Decoder",
@@ -66,7 +101,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI Built a Nuke and Still Lost",
-      "summary": "Article URL: https://www.lwilko.com/blog/i-gave-an-ai-a-civilization Comments URL: https://news.ycombinator.com/item?id=48641927 Points: 83 # Comments: 92",
+      "summary": "Article URL: https://www.lwilko.com/blog/i-gave-an-ai-a-civilization Comments URL: https://news.ycombinator.com/item?id=48641927 Points: 86 # Comments: 93",
       "source": "Hacker News",
       "published": "2026-06-23T08:16:45+00:00",
       "link": "https://www.lwilko.com/blog/i-gave-an-ai-a-civilization"
@@ -80,7 +115,7 @@ const FEED_DATA = {
     },
     {
       "title": "OpenAI DayBreak – GPT-5.5-Cyber",
-      "summary": "Article URL: https://openai.com/index/daybreak-securing-the-world/ Comments URL: https://news.ycombinator.com/item?id=48639063 Points: 177 # Comments: 132",
+      "summary": "Article URL: https://openai.com/index/daybreak-securing-the-world/ Comments URL: https://news.ycombinator.com/item?id=48639063 Points: 196 # Comments: 158",
       "source": "Hacker News",
       "published": "2026-06-23T01:36:08+00:00",
       "link": "https://openai.com/index/daybreak-securing-the-world/"
@@ -115,7 +150,7 @@ const FEED_DATA = {
     },
     {
       "title": "Meta pauses AI training program tracking employee keystrokes after internal leak",
-      "summary": "Article URL: https://www.businessinsider.com/meta-ai-training-data-leak-exposed-employee-activity-across-company-2026-6 Comments URL: https://news.ycombinator.com/item?id=48636632 Points: 100 # Comments: 25",
+      "summary": "Article URL: https://www.businessinsider.com/meta-ai-training-data-leak-exposed-employee-activity-across-company-2026-6 Comments URL: https://news.ycombinator.com/item?id=48636632 Points: 105 # Comments: 25",
       "source": "Hacker News",
       "published": "2026-06-22T21:43:22+00:00",
       "link": "https://www.businessinsider.com/meta-ai-training-data-leak-exposed-employee-activity-across-company-2026-6"
@@ -276,7 +311,7 @@ const FEED_DATA = {
     },
     {
       "title": "Good results fine tuning a local LLM like Qwen 3:0.6B to categorize questions",
-      "summary": "Article URL: https://www.teachmecoolstuff.com/viewarticle/fine-tuning-a-local-llm-to-categorize-questions Comments URL: https://news.ycombinator.com/item?id=48623434 Points: 208 # Comments: 49",
+      "summary": "Article URL: https://www.teachmecoolstuff.com/viewarticle/fine-tuning-a-local-llm-to-categorize-questions Comments URL: https://news.ycombinator.com/item?id=48623434 Points: 209 # Comments: 49",
       "source": "Hacker News",
       "published": "2026-06-21T22:55:23+00:00",
       "link": "https://www.teachmecoolstuff.com/viewarticle/fine-tuning-a-local-llm-to-categorize-questions"
@@ -290,7 +325,7 @@ const FEED_DATA = {
     },
     {
       "title": "Apertus – Open Foundation Model for Sovereign AI",
-      "summary": "Article URL: https://apertvs.ai/ Comments URL: https://news.ycombinator.com/item?id=48622778 Points: 528 # Comments: 181",
+      "summary": "Article URL: https://apertvs.ai/ Comments URL: https://news.ycombinator.com/item?id=48622778 Points: 529 # Comments: 181",
       "source": "Hacker News",
       "published": "2026-06-21T21:29:43+00:00",
       "link": "https://apertvs.ai/"
@@ -339,14 +374,14 @@ const FEED_DATA = {
     },
     {
       "title": "The 100k whys of AI",
-      "summary": "Article URL: https://lcamtuf.substack.com/p/the-100000-whys-of-ai Comments URL: https://news.ycombinator.com/item?id=48616017 Points: 196 # Comments: 107",
+      "summary": "Article URL: https://lcamtuf.substack.com/p/the-100000-whys-of-ai Comments URL: https://news.ycombinator.com/item?id=48616017 Points: 196 # Comments: 108",
       "source": "Hacker News",
       "published": "2026-06-21T05:45:21+00:00",
       "link": "https://lcamtuf.substack.com/p/the-100000-whys-of-ai"
     },
     {
       "title": "Don’t use AI to write things that you present as your own work",
-      "summary": "Article URL: https://www.satisfice.com/blog/archives/488148 Comments URL: https://news.ycombinator.com/item?id=48615776 Points: 105 # Comments: 99",
+      "summary": "Article URL: https://www.satisfice.com/blog/archives/488148 Comments URL: https://news.ycombinator.com/item?id=48615776 Points: 105 # Comments: 98",
       "source": "Hacker News",
       "published": "2026-06-21T04:50:46+00:00",
       "link": "https://www.satisfice.com/blog/archives/488148"
@@ -416,7 +451,7 @@ const FEED_DATA = {
     },
     {
       "title": "Temporary Cloudflare accounts for AI agents",
-      "summary": "Article URL: https://blog.cloudflare.com/temporary-accounts/ Comments URL: https://news.ycombinator.com/item?id=48608394 Points: 245 # Comments: 148",
+      "summary": "Article URL: https://blog.cloudflare.com/temporary-accounts/ Comments URL: https://news.ycombinator.com/item?id=48608394 Points: 245 # Comments: 149",
       "source": "Hacker News",
       "published": "2026-06-20T11:19:05+00:00",
       "link": "https://blog.cloudflare.com/temporary-accounts/"
@@ -472,7 +507,7 @@ const FEED_DATA = {
     },
     {
       "title": "Is AI ruining our skills? Early results are in – and they're not good",
-      "summary": "Article URL: https://www.nature.com/articles/d41586-026-01947-1 Comments URL: https://news.ycombinator.com/item?id=48601286 Points: 248 # Comments: 316",
+      "summary": "Article URL: https://www.nature.com/articles/d41586-026-01947-1 Comments URL: https://news.ycombinator.com/item?id=48601286 Points: 249 # Comments: 316",
       "source": "Hacker News",
       "published": "2026-06-19T18:00:48+00:00",
       "link": "https://www.nature.com/articles/d41586-026-01947-1"
@@ -514,7 +549,7 @@ const FEED_DATA = {
     },
     {
       "title": "Norway imposes near ban on AI in elementary school",
-      "summary": "Article URL: https://www.reuters.com/technology/norway-imposes-near-ban-ai-elementary-school-2026-06-19/ Comments URL: https://news.ycombinator.com/item?id=48600093 Points: 812 # Comments: 588",
+      "summary": "Article URL: https://www.reuters.com/technology/norway-imposes-near-ban-ai-elementary-school-2026-06-19/ Comments URL: https://news.ycombinator.com/item?id=48600093 Points: 813 # Comments: 588",
       "source": "Hacker News",
       "published": "2026-06-19T16:03:15+00:00",
       "link": "https://www.reuters.com/technology/norway-imposes-near-ban-ai-elementary-school-2026-06-19/"
@@ -528,7 +563,7 @@ const FEED_DATA = {
     },
     {
       "title": "Munich 1991: The Roots of the Current AI Boom",
-      "summary": "Article URL: https://people.idsia.ch/~juergen/ai-boom-roots-munich-1991.html Comments URL: https://news.ycombinator.com/item?id=48599998 Points: 226 # Comments: 100",
+      "summary": "Article URL: https://people.idsia.ch/~juergen/ai-boom-roots-munich-1991.html Comments URL: https://news.ycombinator.com/item?id=48599998 Points: 228 # Comments: 101",
       "source": "Hacker News",
       "published": "2026-06-19T15:54:23+00:00",
       "link": "https://people.idsia.ch/~juergen/ai-boom-roots-munich-1991.html"
@@ -654,7 +689,7 @@ const FEED_DATA = {
     },
     {
       "title": "Generative AI Is Having Its Herbalife Moment",
-      "summary": "Article URL: https://www.whatwelo.st/p/generative-ai-is-having-its-herbalife Comments URL: https://news.ycombinator.com/item?id=48595144 Points: 69 # Comments: 64",
+      "summary": "Article URL: https://www.whatwelo.st/p/generative-ai-is-having-its-herbalife Comments URL: https://news.ycombinator.com/item?id=48595144 Points: 70 # Comments: 64",
       "source": "Hacker News",
       "published": "2026-06-19T05:37:51+00:00",
       "link": "https://www.whatwelo.st/p/generative-ai-is-having-its-herbalife"
@@ -1365,41 +1400,6 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-06-16T13:23:33+00:00",
       "link": "https://the-decoder.com/doj-invokes-national-security-to-defend-xais-unpermitted-gas-turbines-in-naacp-lawsuit/"
-    },
-    {
-      "title": "Qwen-Robot Suite: A Foundation Model Suite for Physical World Intelligence",
-      "summary": "Article URL: https://qwen.ai/blog?id=qwen-robotsuite Comments URL: https://news.ycombinator.com/item?id=48554814 Points: 211 # Comments: 41",
-      "source": "Hacker News",
-      "published": "2026-06-16T13:15:15+00:00",
-      "link": "https://qwen.ai/blog?id=qwen-robotsuite"
-    },
-    {
-      "title": "Probably raises $9M to build a more reliable kind of AI",
-      "summary": "Probably wants to prevent hallucinations and factual errors from reaching users, and achieve accuracy on par with deterministic systems.",
-      "source": "TechCrunch",
-      "published": "2026-06-16T13:15:09+00:00",
-      "link": "https://techcrunch.com/2026/06/16/probably-raises-9m-to-build-a-more-reliable-kind-of-ai/"
-    },
-    {
-      "title": "The Download: the first brain implant power user and South Korea’s AI obsession",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.",
-      "source": "MIT Tech Review",
-      "published": "2026-06-16T12:10:00+00:00",
-      "link": "https://www.technologyreview.com/2026/06/16/1139010/the-download-brain-implant-power-user-bci-south-korea-ai-obsession/"
-    },
-    {
-      "title": "SpaceX is officially buying Cursor for $60 billion",
-      "summary": "Days after its massive IPO, SpaceX says it is spending $60 billion to buy Cursor - a bet designed to help Elon Musk's sprawling rocket / AI / social media behemoth win over lucrative enterprise customers and close the gap with AI rivals like Anthropic and OpenAI.",
-      "source": "The Verge",
-      "published": "2026-06-16T11:41:31+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/950571/spacex-is-officially-buying-cursor-for-60-billion"
-    },
-    {
-      "title": "How easily can Russian propaganda fool AI models? A new benchmark finds out",
-      "summary": "The Institute of the Estonian Language has released a benchmark measuring how susceptible AI language models are to Russian propaganda. The article How easily can Russian propaganda fool AI models?",
-      "source": "The Decoder",
-      "published": "2026-06-16T11:28:13+00:00",
-      "link": "https://the-decoder.com/how-easily-can-russian-propaganda-fool-ai-models-a-new-benchmark-finds-out/"
     }
   ]
 };
