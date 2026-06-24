@@ -1,5 +1,5 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-06-24T05:01:08.384970+00:00",
+  "lastUpdated": "2026-06-24T08:25:08.206997+00:00",
   "items": [
     {
       "title": "India’s MoEngage bets that the future of marketing is millions of AI agents",
