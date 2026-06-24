@@ -1,6 +1,13 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-06-23T22:07:19.597938+00:00",
+  "lastUpdated": "2026-06-24T05:01:08.384970+00:00",
   "items": [
+    {
+      "title": "India’s MoEngage bets that the future of marketing is millions of AI agents",
+      "summary": "The all-cash deal gives MoEngage access to technology that assigns AI agents to individual customers.",
+      "source": "TechCrunch",
+      "published": "2026-06-23T23:30:00+00:00",
+      "link": "https://techcrunch.com/2026/06/23/indias-moengage-bets-marketings-future-on-millions-of-ai-agents/"
+    },
     {
       "title": "Hollywood is bending the knee to OpenAI",
       "summary": "Netflix, A24, Focus Features, and Warner Bros.' Clockwork have all reportedly decided to pass on picking up Artificial - director Luca Guadagnino's new biographical drama about OpenAI cofounder / CEO Sam Altman - for distribution deals.",
@@ -87,7 +94,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI's Affordability Crisis",
-      "summary": "Article URL: https://blog.dshr.org/2026/06/ais-affordability-crisis.html Comments URL: https://news.ycombinator.com/item?id=48646276 Points: 189 # Comments: 248",
+      "summary": "Article URL: https://blog.dshr.org/2026/06/ais-affordability-crisis.html Comments URL: https://news.ycombinator.com/item?id=48646276 Points: 269 # Comments: 355",
       "source": "Hacker News",
       "published": "2026-06-23T15:11:17+00:00",
       "link": "https://blog.dshr.org/2026/06/ais-affordability-crisis.html"
@@ -136,7 +143,7 @@ const FEED_DATA = {
     },
     {
       "title": "The Low-Tech AI of Elden Ring",
-      "summary": "Article URL: https://nega.tv/posts/low-tech-ai-of-elden-ring.html Comments URL: https://news.ycombinator.com/item?id=48643489 Points: 82 # Comments: 48",
+      "summary": "Article URL: https://nega.tv/posts/low-tech-ai-of-elden-ring.html Comments URL: https://news.ycombinator.com/item?id=48643489 Points: 127 # Comments: 60",
       "source": "Hacker News",
       "published": "2026-06-23T11:40:50+00:00",
       "link": "https://nega.tv/posts/low-tech-ai-of-elden-ring.html"
@@ -178,7 +185,7 @@ const FEED_DATA = {
     },
     {
       "title": "OpenAI DayBreak – GPT-5.5-Cyber",
-      "summary": "Article URL: https://openai.com/index/daybreak-securing-the-world/ Comments URL: https://news.ycombinator.com/item?id=48639063 Points: 203 # Comments: 161",
+      "summary": "Article URL: https://openai.com/index/daybreak-securing-the-world/ Comments URL: https://news.ycombinator.com/item?id=48639063 Points: 207 # Comments: 167",
       "source": "Hacker News",
       "published": "2026-06-23T01:36:08+00:00",
       "link": "https://openai.com/index/daybreak-securing-the-world/"
@@ -213,7 +220,7 @@ const FEED_DATA = {
     },
     {
       "title": "Meta pauses AI training program tracking employee keystrokes after internal leak",
-      "summary": "Article URL: https://www.businessinsider.com/meta-ai-training-data-leak-exposed-employee-activity-across-company-2026-6 Comments URL: https://news.ycombinator.com/item?id=48636632 Points: 106 # Comments: 25",
+      "summary": "Article URL: https://www.businessinsider.com/meta-ai-training-data-leak-exposed-employee-activity-across-company-2026-6 Comments URL: https://news.ycombinator.com/item?id=48636632 Points: 120 # Comments: 31",
       "source": "Hacker News",
       "published": "2026-06-22T21:43:22+00:00",
       "link": "https://www.businessinsider.com/meta-ai-training-data-leak-exposed-employee-activity-across-company-2026-6"
@@ -252,6 +259,13 @@ const FEED_DATA = {
       "source": "The Verge",
       "published": "2026-06-22T20:00:00+00:00",
       "link": "https://www.theverge.com/report/953888/ai-virtual-staging-real-estate-apartment-listings"
+    },
+    {
+      "title": "AI has already killed academia as we know it?",
+      "summary": "Article URL: https://truths-and-loves.ghost.io/ai-has-already-killed-academia-as-we-know-it/ Comments URL: https://news.ycombinator.com/item?id=48634966 Points: 65 # Comments: 50",
+      "source": "Hacker News",
+      "published": "2026-06-22T19:36:58+00:00",
+      "link": "https://truths-and-loves.ghost.io/ai-has-already-killed-academia-as-we-know-it/"
     },
     {
       "title": "Google DeepMind bets $75M on AI’s future in Hollywood with A24 deal",
@@ -374,21 +388,21 @@ const FEED_DATA = {
     },
     {
       "title": "Good results fine tuning a local LLM like Qwen 3:0.6B to categorize questions",
-      "summary": "Article URL: https://www.teachmecoolstuff.com/viewarticle/fine-tuning-a-local-llm-to-categorize-questions Comments URL: https://news.ycombinator.com/item?id=48623434 Points: 210 # Comments: 49",
+      "summary": "Article URL: https://www.teachmecoolstuff.com/viewarticle/fine-tuning-a-local-llm-to-categorize-questions Comments URL: https://news.ycombinator.com/item?id=48623434 Points: 211 # Comments: 49",
       "source": "Hacker News",
       "published": "2026-06-21T22:55:23+00:00",
       "link": "https://www.teachmecoolstuff.com/viewarticle/fine-tuning-a-local-llm-to-categorize-questions"
     },
     {
-      "title": "I Canceled My French Tutor and Built an LLM Tool That Does It Better",
-      "summary": "Article URL: https://alshe.substack.com/p/i-canceled-my-french-tutor-and-built Comments URL: https://news.ycombinator.com/item?id=48623371 Points: 59 # Comments: 25",
+      "title": "I canceled my French tutor and built an LLM tool that does it better",
+      "summary": "Article URL: https://alshe.substack.com/p/i-canceled-my-french-tutor-and-built Comments URL: https://news.ycombinator.com/item?id=48623371 Points: 59 # Comments: 26",
       "source": "Hacker News",
       "published": "2026-06-21T22:46:43+00:00",
       "link": "https://alshe.substack.com/p/i-canceled-my-french-tutor-and-built"
     },
     {
       "title": "Apertus – Open Foundation Model for Sovereign AI",
-      "summary": "Article URL: https://apertvs.ai/ Comments URL: https://news.ycombinator.com/item?id=48622778 Points: 530 # Comments: 181",
+      "summary": "Article URL: https://apertvs.ai/ Comments URL: https://news.ycombinator.com/item?id=48622778 Points: 531 # Comments: 181",
       "source": "Hacker News",
       "published": "2026-06-21T21:29:43+00:00",
       "link": "https://apertvs.ai/"
@@ -437,7 +451,7 @@ const FEED_DATA = {
     },
     {
       "title": "The 100k whys of AI",
-      "summary": "Article URL: https://lcamtuf.substack.com/p/the-100000-whys-of-ai Comments URL: https://news.ycombinator.com/item?id=48616017 Points: 196 # Comments: 108",
+      "summary": "Article URL: https://lcamtuf.substack.com/p/the-100000-whys-of-ai Comments URL: https://news.ycombinator.com/item?id=48616017 Points: 197 # Comments: 108",
       "source": "Hacker News",
       "published": "2026-06-21T05:45:21+00:00",
       "link": "https://lcamtuf.substack.com/p/the-100000-whys-of-ai"
@@ -451,14 +465,14 @@ const FEED_DATA = {
     },
     {
       "title": "Building reliable agentic AI systems",
-      "summary": "Article URL: https://martinfowler.com/articles/reliable-llm-bayer.html Comments URL: https://news.ycombinator.com/item?id=48615680 Points: 195 # Comments: 49",
+      "summary": "Article URL: https://martinfowler.com/articles/reliable-llm-bayer.html Comments URL: https://news.ycombinator.com/item?id=48615680 Points: 195 # Comments: 50",
       "source": "Hacker News",
       "published": "2026-06-21T04:28:39+00:00",
       "link": "https://martinfowler.com/articles/reliable-llm-bayer.html"
     },
     {
       "title": "When I reject AI code even if it works",
-      "summary": "Article URL: https://vinibrasil.com/when-i-reject-ai-code-even-if-it-works/ Comments URL: https://news.ycombinator.com/item?id=48614631 Points: 230 # Comments: 166",
+      "summary": "Article URL: https://vinibrasil.com/when-i-reject-ai-code-even-if-it-works/ Comments URL: https://news.ycombinator.com/item?id=48614631 Points: 231 # Comments: 167",
       "source": "Hacker News",
       "published": "2026-06-21T00:58:13+00:00",
       "link": "https://vinibrasil.com/when-i-reject-ai-code-even-if-it-works/"
@@ -556,7 +570,7 @@ const FEED_DATA = {
     },
     {
       "title": "Companies rein in AI usage as costs strain budgets",
-      "summary": "https://archive.ph/z24oE Comments URL: https://news.ycombinator.com/item?id=48602571 Points: 121 # Comments: 106",
+      "summary": "https://archive.ph/z24oE Comments URL: https://news.ycombinator.com/item?id=48602571 Points: 121 # Comments: 107",
       "source": "Hacker News",
       "published": "2026-06-19T19:57:18+00:00",
       "link": "https://www.ft.com/content/1d37cc08-e0aa-45a4-a45d-4ad282529314"
@@ -591,7 +605,7 @@ const FEED_DATA = {
     },
     {
       "title": "GPT-5.5 hallucinates 3x more than MIT-licensed GLM-5.2",
-      "summary": "Article URL: https://arrowtsx.dev/bigger-models/ Comments URL: https://news.ycombinator.com/item?id=48600167 Points: 576 # Comments: 292",
+      "summary": "Article URL: https://arrowtsx.dev/bigger-models/ Comments URL: https://news.ycombinator.com/item?id=48600167 Points: 577 # Comments: 292",
       "source": "Hacker News",
       "published": "2026-06-19T16:11:25+00:00",
       "link": "https://arrowtsx.dev/bigger-models/"
@@ -605,7 +619,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI Engineer Claims to Have Cracked Linear A",
-      "summary": "Article URL: https://aiclambake.com/clamtakes/linear-a/ Comments URL: https://news.ycombinator.com/item?id=48600107 Points: 445 # Comments: 178",
+      "summary": "Article URL: https://aiclambake.com/clamtakes/linear-a/ Comments URL: https://news.ycombinator.com/item?id=48600107 Points: 446 # Comments: 178",
       "source": "Hacker News",
       "published": "2026-06-19T16:04:42+00:00",
       "link": "https://aiclambake.com/clamtakes/linear-a/"
@@ -1386,20 +1400,6 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-06-16T18:00:00+00:00",
       "link": "https://techcrunch.com/2026/06/16/android-17-launches-with-new-multitasking-tools-as-google-expands-gemini-features/"
-    },
-    {
-      "title": "GPT‑NL: a sovereign language model for the Netherlands",
-      "summary": "Article URL: https://www.tno.nl/en/digital/artificial-intelligence/gpt-nl/ Comments URL: https://news.ycombinator.com/item?id=48559188 Points: 251 # Comments: 301",
-      "source": "Hacker News",
-      "published": "2026-06-16T17:54:02+00:00",
-      "link": "https://www.tno.nl/en/digital/artificial-intelligence/gpt-nl/"
-    },
-    {
-      "title": "Has AI already killed self-help nonfiction books?",
-      "summary": "Article URL: https://tim.blog/2026/06/12/has-ai-already-killed-nonfiction/ Comments URL: https://news.ycombinator.com/item?id=48558489 Points: 410 # Comments: 481",
-      "source": "Hacker News",
-      "published": "2026-06-16T17:11:05+00:00",
-      "link": "https://tim.blog/2026/06/12/has-ai-already-killed-nonfiction/"
     }
   ]
 };
