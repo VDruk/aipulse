@@ -1,6 +1,41 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-06-24T08:25:08.206997+00:00",
+  "lastUpdated": "2026-06-24T11:36:12.104728+00:00",
   "items": [
+    {
+      "title": "Pangram CEO says language models give themselves away by making the same arguments",
+      "summary": "Language models may write cleaner prose than most humans, but ask one for 100 arguments on a topic and they'll all cluster together. Human reasoning is far more diverse, says Pangram CEO Max Spero, and that's what might give AI away.",
+      "source": "The Decoder",
+      "published": "2026-06-24T10:55:31+00:00",
+      "link": "https://the-decoder.com/pangram-ceo-says-language-models-give-themselves-away-by-making-the-same-arguments/"
+    },
+    {
+      "title": "Claude Tag embeds Anthropic's AI in Slack, already writes 65 percent of internal code, company says",
+      "summary": "Claude Tag lets teams bring Anthropic's AI into Slack by tagging @Claude in any channel and assigning it tasks. Internally, the tool already generates 65 percent of the code on Anthropic's product team, the company says.",
+      "source": "The Decoder",
+      "published": "2026-06-24T09:32:01+00:00",
+      "link": "https://the-decoder.com/claude-tag-embeds-anthropics-ai-in-slack-already-writes-65-percent-of-internal-code-company-says/"
+    },
+    {
+      "title": "Mistral's new OCR model beats competitors in 72 percent of blind test cases, company says",
+      "summary": "Mistral AI has released OCR 4, a new model that reads text from documents like PDFs, Word files, and PowerPoint presentations. The article Mistral's new OCR model beats competitors in 72 percent of blind test cases, company says appeared first on The Decoder.",
+      "source": "The Decoder",
+      "published": "2026-06-24T09:28:40+00:00",
+      "link": "https://the-decoder.com/mistrals-new-ocr-model-beats-competitors-in-72-percent-of-blind-test-cases-company-says/"
+    },
+    {
+      "title": "This flying solar-powered platform could deliver better internet from the air",
+      "summary": "As soon as August, a giant silver bullet will cut its way through the dry air of the southwestern US and cross the Pacific to reach the coast of Japan.",
+      "source": "MIT Tech Review",
+      "published": "2026-06-24T09:00:00+00:00",
+      "link": "https://www.technologyreview.com/2026/06/24/1138771/solar-powered-platform-delivers-better-internet/"
+    },
+    {
+      "title": "All challenges big and small",
+      "summary": "When I was 18, I skipped my high school graduation and headed to Kuwait. It was 1991, the first Gulf War had just ended, and the country was in complete chaos.",
+      "source": "MIT Tech Review",
+      "published": "2026-06-24T09:00:00+00:00",
+      "link": "https://www.technologyreview.com/2026/06/24/1138853/editors-letter-july-2026/"
+    },
     {
       "title": "India’s MoEngage bets that the future of marketing is millions of AI agents",
       "summary": "The all-cash deal gives MoEngage access to technology that assigns AI agents to individual customers.",
@@ -94,7 +129,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI's Affordability Crisis",
-      "summary": "Article URL: https://blog.dshr.org/2026/06/ais-affordability-crisis.html Comments URL: https://news.ycombinator.com/item?id=48646276 Points: 269 # Comments: 355",
+      "summary": "Article URL: https://blog.dshr.org/2026/06/ais-affordability-crisis.html Comments URL: https://news.ycombinator.com/item?id=48646276 Points: 292 # Comments: 384",
       "source": "Hacker News",
       "published": "2026-06-23T15:11:17+00:00",
       "link": "https://blog.dshr.org/2026/06/ais-affordability-crisis.html"
@@ -143,7 +178,7 @@ const FEED_DATA = {
     },
     {
       "title": "The Low-Tech AI of Elden Ring",
-      "summary": "Article URL: https://nega.tv/posts/low-tech-ai-of-elden-ring.html Comments URL: https://news.ycombinator.com/item?id=48643489 Points: 127 # Comments: 60",
+      "summary": "Article URL: https://nega.tv/posts/low-tech-ai-of-elden-ring.html Comments URL: https://news.ycombinator.com/item?id=48643489 Points: 150 # Comments: 89",
       "source": "Hacker News",
       "published": "2026-06-23T11:40:50+00:00",
       "link": "https://nega.tv/posts/low-tech-ai-of-elden-ring.html"
@@ -171,7 +206,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI Built a Nuke and Still Lost",
-      "summary": "Article URL: https://www.lwilko.com/blog/i-gave-an-ai-a-civilization Comments URL: https://news.ycombinator.com/item?id=48641927 Points: 86 # Comments: 93",
+      "summary": "Article URL: https://www.lwilko.com/blog/i-gave-an-ai-a-civilization Comments URL: https://news.ycombinator.com/item?id=48641927 Points: 86 # Comments: 95",
       "source": "Hacker News",
       "published": "2026-06-23T08:16:45+00:00",
       "link": "https://www.lwilko.com/blog/i-gave-an-ai-a-civilization"
@@ -185,7 +220,7 @@ const FEED_DATA = {
     },
     {
       "title": "OpenAI DayBreak – GPT-5.5-Cyber",
-      "summary": "Article URL: https://openai.com/index/daybreak-securing-the-world/ Comments URL: https://news.ycombinator.com/item?id=48639063 Points: 207 # Comments: 167",
+      "summary": "Article URL: https://openai.com/index/daybreak-securing-the-world/ Comments URL: https://news.ycombinator.com/item?id=48639063 Points: 212 # Comments: 168",
       "source": "Hacker News",
       "published": "2026-06-23T01:36:08+00:00",
       "link": "https://openai.com/index/daybreak-securing-the-world/"
@@ -220,7 +255,7 @@ const FEED_DATA = {
     },
     {
       "title": "Meta pauses AI training program tracking employee keystrokes after internal leak",
-      "summary": "Article URL: https://www.businessinsider.com/meta-ai-training-data-leak-exposed-employee-activity-across-company-2026-6 Comments URL: https://news.ycombinator.com/item?id=48636632 Points: 120 # Comments: 31",
+      "summary": "Article URL: https://www.businessinsider.com/meta-ai-training-data-leak-exposed-employee-activity-across-company-2026-6 Comments URL: https://news.ycombinator.com/item?id=48636632 Points: 121 # Comments: 31",
       "source": "Hacker News",
       "published": "2026-06-22T21:43:22+00:00",
       "link": "https://www.businessinsider.com/meta-ai-training-data-leak-exposed-employee-activity-across-company-2026-6"
@@ -262,7 +297,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI has already killed academia as we know it?",
-      "summary": "Article URL: https://truths-and-loves.ghost.io/ai-has-already-killed-academia-as-we-know-it/ Comments URL: https://news.ycombinator.com/item?id=48634966 Points: 65 # Comments: 50",
+      "summary": "Article URL: https://truths-and-loves.ghost.io/ai-has-already-killed-academia-as-we-know-it/ Comments URL: https://news.ycombinator.com/item?id=48634966 Points: 66 # Comments: 51",
       "source": "Hacker News",
       "published": "2026-06-22T19:36:58+00:00",
       "link": "https://truths-and-loves.ghost.io/ai-has-already-killed-academia-as-we-know-it/"
@@ -402,7 +437,7 @@ const FEED_DATA = {
     },
     {
       "title": "Apertus – Open Foundation Model for Sovereign AI",
-      "summary": "Article URL: https://apertvs.ai/ Comments URL: https://news.ycombinator.com/item?id=48622778 Points: 531 # Comments: 181",
+      "summary": "Article URL: https://apertvs.ai/ Comments URL: https://news.ycombinator.com/item?id=48622778 Points: 531 # Comments: 182",
       "source": "Hacker News",
       "published": "2026-06-21T21:29:43+00:00",
       "link": "https://apertvs.ai/"
@@ -584,7 +619,7 @@ const FEED_DATA = {
     },
     {
       "title": "Is AI ruining our skills? Early results are in – and they're not good",
-      "summary": "Article URL: https://www.nature.com/articles/d41586-026-01947-1 Comments URL: https://news.ycombinator.com/item?id=48601286 Points: 250 # Comments: 316",
+      "summary": "Article URL: https://www.nature.com/articles/d41586-026-01947-1 Comments URL: https://news.ycombinator.com/item?id=48601286 Points: 250 # Comments: 317",
       "source": "Hacker News",
       "published": "2026-06-19T18:00:48+00:00",
       "link": "https://www.nature.com/articles/d41586-026-01947-1"
@@ -640,7 +675,7 @@ const FEED_DATA = {
     },
     {
       "title": "Munich 1991: The Roots of the Current AI Boom",
-      "summary": "Article URL: https://people.idsia.ch/~juergen/ai-boom-roots-munich-1991.html Comments URL: https://news.ycombinator.com/item?id=48599998 Points: 228 # Comments: 101",
+      "summary": "Article URL: https://people.idsia.ch/~juergen/ai-boom-roots-munich-1991.html Comments URL: https://news.ycombinator.com/item?id=48599998 Points: 228 # Comments: 103",
       "source": "Hacker News",
       "published": "2026-06-19T15:54:23+00:00",
       "link": "https://people.idsia.ch/~juergen/ai-boom-roots-munich-1991.html"
@@ -1365,41 +1400,6 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-06-16T22:34:17+00:00",
       "link": "https://techcrunch.com/2026/06/16/anthropics-latest-feud-with-the-trump-admin-may-actually-help-it-sales-data-suggests/"
-    },
-    {
-      "title": "Exclusive eBook: How AI is becoming the next military advisor",
-      "summary": "A collection of stories about how militaries are using AI models to make decisions.",
-      "source": "MIT Tech Review",
-      "published": "2026-06-16T20:35:02+00:00",
-      "link": "https://www.technologyreview.com/2026/06/16/1138905/exclusive-ebook-how-ai-is-becoming-the-next-military-advisor/"
-    },
-    {
-      "title": "AI is potentially a Dunning-Kruger effect amplifier",
-      "summary": "Article URL: https://twitter.com/i/status/2066825204207091926 Comments URL: https://news.ycombinator.com/item?id=48560913 Points: 67 # Comments: 30",
-      "source": "Hacker News",
-      "published": "2026-06-16T19:47:13+00:00",
-      "link": "https://twitter.com/i/status/2066825204207091926"
-    },
-    {
-      "title": "Microsoft's Copilot Cowork moves to usage-based billing and may tap DeepSeek",
-      "summary": "Microsoft is weighing a fine-tuned version of Deepseek V4 as a cheaper model option for Copilot Cowork. The company is also switching to usage-based billing, since Copilot head Charles Lamanna says flat-rate pricing isn't sustainable.",
-      "source": "The Decoder",
-      "published": "2026-06-16T19:32:38+00:00",
-      "link": "https://the-decoder.com/microsofts-copilot-cowork-moves-to-usage-based-billing-and-may-tap-deepseek/"
-    },
-    {
-      "title": "Berlin court rules Google's AI Overviews are just a new search format, not original content",
-      "summary": "A Berlin court has ruled that Google's AI-generated summaries are just a \"new search result format\" and that Google has no \"decisive influence\" over the content.",
-      "source": "The Decoder",
-      "published": "2026-06-16T18:19:40+00:00",
-      "link": "https://the-decoder.com/berlin-court-rules-googles-ai-overviews-are-just-a-new-search-format-not-original-content/"
-    },
-    {
-      "title": "Android 17 launches with new multitasking tools as Google expands Gemini features",
-      "summary": "Google has released Android 17 and Wear OS 7, introducing new multitasking features, parental controls, security tools, and smartwatch upgrades. The launch is also accompanied by a Pixel Drop that brings Google’s latest AI models to its devices.",
-      "source": "TechCrunch",
-      "published": "2026-06-16T18:00:00+00:00",
-      "link": "https://techcrunch.com/2026/06/16/android-17-launches-with-new-multitasking-tools-as-google-expands-gemini-features/"
     }
   ]
 };
