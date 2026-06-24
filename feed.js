@@ -1,6 +1,69 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-06-24T15:33:24.119557+00:00",
+  "lastUpdated": "2026-06-24T18:47:25.329882+00:00",
   "items": [
+    {
+      "title": "The $27 million Al proxy war over Alex Bores ends in a draw",
+      "summary": "The expensive, $27 million political proxy war between Anthropic and OpenAI came to a draw last night when Alex Bores, a New York state Assemblyman whose popularity surged after being targeted by a pro-AI super PAC, narrowly lost the Democratic primary to represent New York's...",
+      "source": "The Verge",
+      "published": "2026-06-24T17:25:00+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/956263/alex-bores-new-york-12th-district-congressional-primary-results"
+    },
+    {
+      "title": "Facebook rolls out an AI companion app for creators",
+      "summary": "The new app, which is currently being tested with select creators, will have Facebook's recently launched AI creator assistant built into it.",
+      "source": "TechCrunch",
+      "published": "2026-06-24T17:16:24+00:00",
+      "link": "https://techcrunch.com/2026/06/24/facebook-rolls-out-an-ai-companion-app-for-creators/"
+    },
+    {
+      "title": "Snowflake CEO finds GLM-5.2 competitive with Opus 4.7 at a fraction of the cost",
+      "summary": "Zhipu AI's GLM-5.2 nearly matches Claude Opus 4.7 in a Snowflake benchmark with 103 coding tasks at one-fifth the cost per output token. But the Chinese model burns through nearly twice as many tokens per task.",
+      "source": "The Decoder",
+      "published": "2026-06-24T17:07:37+00:00",
+      "link": "https://the-decoder.com/snowflake-ceo-finds-glm-5-2-competitive-with-opus-4-7-at-a-fraction-of-the-cost/"
+    },
+    {
+      "title": "Figma bets on human judgment at Config 2026 while the AI powering its canvas belongs to someone else",
+      "summary": "At Config 2026, Figma turned its canvas into a full workspace with code, animation, shaders, and AI agents. But the intelligence powering all of it is rented from API providers, squeezing margins.",
+      "source": "The Decoder",
+      "published": "2026-06-24T16:49:01+00:00",
+      "link": "https://the-decoder.com/figma-bets-on-human-judgment-at-config-2026-while-the-ai-powering-its-canvas-belongs-to-someone-else/"
+    },
+    {
+      "title": "Agility Robotics plans to go public via SPAC in a $2.5B deal",
+      "summary": "Agility Robotics, the humanoid robotics startup that spun out of Oregon State University in 2015, expects to generate $620 million in proceeds.",
+      "source": "TechCrunch",
+      "published": "2026-06-24T16:48:43+00:00",
+      "link": "https://techcrunch.com/2026/06/24/agility-robotics-plans-to-go-public-via-spac-in-a-2-5b-deal/"
+    },
+    {
+      "title": "Figma adds code layers, support for animations, more AI features in new update",
+      "summary": "Figma's update adds a new code layer, support for motion and shaders, and the ability to create custom plug-ins for various tasks using AI.",
+      "source": "TechCrunch",
+      "published": "2026-06-24T16:15:00+00:00",
+      "link": "https://techcrunch.com/2026/06/24/figma-adds-code-layers-support-for-animations-more-ai-features-in-new-update/"
+    },
+    {
+      "title": "Figma now has AI motion graphics and shader tools",
+      "summary": "Figma has revealed some new design and coding product updates at its annual Config conference that aim to help creatives \"push their ideas further\" and automate tedious tasks with AI.",
+      "source": "The Verge",
+      "published": "2026-06-24T16:15:00+00:00",
+      "link": "https://www.theverge.com/tech/955831/figma-code-design-tools-config-2026-announcements"
+    },
+    {
+      "title": "Europe’s extreme heat is shutting down power plants",
+      "summary": "Europe is in the middle of a record-breaking heat wave, and the grid is being pushed to its limits as people turn to fans and air-conditioning to try to stay cool. Some power plants won’t be online to help handle the load.",
+      "source": "MIT Tech Review",
+      "published": "2026-06-24T15:25:28+00:00",
+      "link": "https://www.technologyreview.com/2026/06/24/1139676/europe-heat-power-plants/"
+    },
+    {
+      "title": "The Trump White House Is Over Anthropic CEO Dario Amodei",
+      "summary": "At high-stakes meetings with the White House, Anthropic's cofounder—a \"weirdo,\" per one official—has been replaced by cofounder Tom Brown.",
+      "source": "Wired",
+      "published": "2026-06-24T15:15:00+00:00",
+      "link": "https://www.wired.com/story/the-trump-white-house-is-over-anthropics-dario-amodei/"
+    },
     {
       "title": "The Trump White House Is Over Anthropic's Dario Amodei",
       "summary": "At high-stakes meetings with the White House, Anthropic's CEO—a \"weirdo,\" per one official—has been replaced by cofounder Tom Brown.",
@@ -16,6 +79,20 @@ const FEED_DATA = {
       "link": "https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/"
     },
     {
+      "title": "For Most of the World, Open-Source AI Is the Only Way Forward",
+      "summary": "Article URL: https://techstrong.ai/articles/for-most-of-the-world-open-source-ai-is-the-only-way-forward/ Comments URL: https://news.ycombinator.com/item?id=48660839 Points: 117 # Comments: 84",
+      "source": "Hacker News",
+      "published": "2026-06-24T14:50:22+00:00",
+      "link": "https://techstrong.ai/articles/for-most-of-the-world-open-source-ai-is-the-only-way-forward/"
+    },
+    {
+      "title": "RubyLLM: A Ruby framework for all major AI providers",
+      "summary": "Article URL: https://rubyllm.com/ Comments URL: https://news.ycombinator.com/item?id=48660711 Points: 242 # Comments: 35",
+      "source": "Hacker News",
+      "published": "2026-06-24T14:41:41+00:00",
+      "link": "https://rubyllm.com/"
+    },
+    {
       "title": "OpenAI reveals its first AI processor: Jalapeño",
       "summary": "OpenAI has just revealed a new \"intelligence processor\" chip for AI servers made in partnership with Broadcom. The chip, called Jalapeño, is designed to power current and future large language models, according to an announcement on Wednesday.",
       "source": "The Verge",
@@ -28,6 +105,13 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-06-24T13:50:56+00:00",
       "link": "https://the-decoder.com/openai-and-broadcom-unveil-jalapeno-a-custom-chip-built-for-llm-inference/"
+    },
+    {
+      "title": "OpenAI and Broadcom unveil LLM-optimized inference chip",
+      "summary": "Article URL: https://openai.com/index/openai-broadcom-jalapeno-inference-chip/ Comments URL: https://news.ycombinator.com/item?id=48659257 Points: 140 # Comments: 1",
+      "source": "Hacker News",
+      "published": "2026-06-24T13:14:39+00:00",
+      "link": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip/"
     },
     {
       "title": "OpenAI's deployment chief on Codex growth, falling AI prices, and the ROI question",
@@ -45,7 +129,7 @@ const FEED_DATA = {
     },
     {
       "title": "Reid Hoffman says SpaceX 'not an AI company', xAI 'complete train wreck'",
-      "summary": "Article URL: https://fortune.com/2026/06/24/reid-hoffman-spacex-musk-openai-anthropic-gen-z-mistake/ Comments URL: https://news.ycombinator.com/item?id=48658647 Points: 172 # Comments: 188",
+      "summary": "Article URL: https://fortune.com/2026/06/24/reid-hoffman-spacex-musk-openai-anthropic-gen-z-mistake/ Comments URL: https://news.ycombinator.com/item?id=48658647 Points: 212 # Comments: 245",
       "source": "Hacker News",
       "published": "2026-06-24T12:23:59+00:00",
       "link": "https://fortune.com/2026/06/24/reid-hoffman-spacex-musk-openai-anthropic-gen-z-mistake/"
@@ -58,7 +142,7 @@ const FEED_DATA = {
       "link": "https://www.technologyreview.com/2026/06/24/1139658/the-download-introducing-engineering-issue/"
     },
     {
-      "title": "Stripe, Anthropic and OpenAI are backing an effort to stop respiratory infections",
+      "title": "Stripe, Anthropic, and OpenAI are backing an effort to stop respiratory infections",
       "summary": "The common cold comes for us all—often more than once a year. And there is no way to prevent it.",
       "source": "MIT Tech Review",
       "published": "2026-06-24T12:00:00+00:00",
@@ -70,6 +154,13 @@ const FEED_DATA = {
       "source": "MIT Tech Review",
       "published": "2026-06-24T11:59:54+00:00",
       "link": "https://www.technologyreview.com/2026/06/24/1139202/the-emergence-of-the-web-data-infrastructure-layer-for-ai/"
+    },
+    {
+      "title": "Haystack: Open-Source AI Framework for Production Ready Agents, RAG",
+      "summary": "Article URL: https://haystack.deepset.ai/ Comments URL: https://news.ycombinator.com/item?id=48658095 Points: 73 # Comments: 20",
+      "source": "Hacker News",
+      "published": "2026-06-24T11:21:32+00:00",
+      "link": "https://haystack.deepset.ai/"
     },
     {
       "title": "Pangram CEO says language models give themselves away by making the same arguments",
@@ -87,7 +178,7 @@ const FEED_DATA = {
     },
     {
       "title": "How to burst the AI bubble: Strike at its roots",
-      "summary": "Article URL: https://arstechnica.com/gadgets/2026/06/how-to-burst-the-ai-bubble-strike-at-its-roots/ Comments URL: https://news.ycombinator.com/item?id=48657518 Points: 56 # Comments: 45",
+      "summary": "Article URL: https://arstechnica.com/gadgets/2026/06/how-to-burst-the-ai-bubble-strike-at-its-roots/ Comments URL: https://news.ycombinator.com/item?id=48657518 Points: 58 # Comments: 46",
       "source": "Hacker News",
       "published": "2026-06-24T09:57:10+00:00",
       "link": "https://arstechnica.com/gadgets/2026/06/how-to-burst-the-ai-bubble-strike-at-its-roots/"
@@ -126,6 +217,13 @@ const FEED_DATA = {
       "source": "AI News",
       "published": "2026-06-24T09:00:00+00:00",
       "link": "https://www.artificialintelligence-news.com/news/anthropic-slack-workplace-ai-agents/"
+    },
+    {
+      "title": "US AI stock sell-off shakes markets from Wall Street to Asia",
+      "summary": "Article URL: https://www.theguardian.com/business/2026/jun/23/ai-stocks-sell-off-us-markets Comments URL: https://news.ycombinator.com/item?id=48654795 Points: 51 # Comments: 40",
+      "source": "Hacker News",
+      "published": "2026-06-24T03:36:50+00:00",
+      "link": "https://www.theguardian.com/business/2026/jun/23/ai-stocks-sell-off-us-markets"
     },
     {
       "title": "India’s MoEngage bets that the future of marketing is millions of AI agents",
@@ -220,7 +318,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI's Affordability Crisis",
-      "summary": "Article URL: https://blog.dshr.org/2026/06/ais-affordability-crisis.html Comments URL: https://news.ycombinator.com/item?id=48646276 Points: 307 # Comments: 399",
+      "summary": "Article URL: https://blog.dshr.org/2026/06/ais-affordability-crisis.html Comments URL: https://news.ycombinator.com/item?id=48646276 Points: 314 # Comments: 403",
       "source": "Hacker News",
       "published": "2026-06-23T15:11:17+00:00",
       "link": "https://blog.dshr.org/2026/06/ais-affordability-crisis.html"
@@ -269,7 +367,7 @@ const FEED_DATA = {
     },
     {
       "title": "The Low-Tech AI of Elden Ring",
-      "summary": "Article URL: https://nega.tv/posts/low-tech-ai-of-elden-ring.html Comments URL: https://news.ycombinator.com/item?id=48643489 Points: 156 # Comments: 93",
+      "summary": "Article URL: https://nega.tv/posts/low-tech-ai-of-elden-ring.html Comments URL: https://news.ycombinator.com/item?id=48643489 Points: 156 # Comments: 95",
       "source": "Hacker News",
       "published": "2026-06-23T11:40:50+00:00",
       "link": "https://nega.tv/posts/low-tech-ai-of-elden-ring.html"
@@ -297,7 +395,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI Built a Nuke and Still Lost",
-      "summary": "Article URL: https://www.lwilko.com/blog/i-gave-an-ai-a-civilization Comments URL: https://news.ycombinator.com/item?id=48641927 Points: 87 # Comments: 96",
+      "summary": "Article URL: https://www.lwilko.com/blog/i-gave-an-ai-a-civilization Comments URL: https://news.ycombinator.com/item?id=48641927 Points: 88 # Comments: 96",
       "source": "Hacker News",
       "published": "2026-06-23T08:16:45+00:00",
       "link": "https://www.lwilko.com/blog/i-gave-an-ai-a-civilization"
@@ -311,7 +409,7 @@ const FEED_DATA = {
     },
     {
       "title": "OpenAI DayBreak – GPT-5.5-Cyber",
-      "summary": "Article URL: https://openai.com/index/daybreak-securing-the-world/ Comments URL: https://news.ycombinator.com/item?id=48639063 Points: 215 # Comments: 170",
+      "summary": "Article URL: https://openai.com/index/daybreak-securing-the-world/ Comments URL: https://news.ycombinator.com/item?id=48639063 Points: 216 # Comments: 171",
       "source": "Hacker News",
       "published": "2026-06-23T01:36:08+00:00",
       "link": "https://openai.com/index/daybreak-securing-the-world/"
@@ -388,7 +486,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI has already killed academia as we know it?",
-      "summary": "Article URL: https://truths-and-loves.ghost.io/ai-has-already-killed-academia-as-we-know-it/ Comments URL: https://news.ycombinator.com/item?id=48634966 Points: 69 # Comments: 51",
+      "summary": "Article URL: https://truths-and-loves.ghost.io/ai-has-already-killed-academia-as-we-know-it/ Comments URL: https://news.ycombinator.com/item?id=48634966 Points: 69 # Comments: 52",
       "source": "Hacker News",
       "published": "2026-06-22T19:36:58+00:00",
       "link": "https://truths-and-loves.ghost.io/ai-has-already-killed-academia-as-we-know-it/"
@@ -528,7 +626,7 @@ const FEED_DATA = {
     },
     {
       "title": "Apertus – Open Foundation Model for Sovereign AI",
-      "summary": "Article URL: https://apertvs.ai/ Comments URL: https://news.ycombinator.com/item?id=48622778 Points: 531 # Comments: 182",
+      "summary": "Article URL: https://apertvs.ai/ Comments URL: https://news.ycombinator.com/item?id=48622778 Points: 531 # Comments: 183",
       "source": "Hacker News",
       "published": "2026-06-21T21:29:43+00:00",
       "link": "https://apertvs.ai/"
@@ -1302,104 +1400,6 @@ const FEED_DATA = {
       "source": "Hacker News",
       "published": "2026-06-17T17:14:21+00:00",
       "link": "https://ghostinthedata.info/posts/2026/2026-06-13-human-connection-moat/"
-    },
-    {
-      "title": "Only 16 Percent of Americans Think AI Will Have a Positive Impact on Society",
-      "summary": "Article URL: https://techcrunch.com/2026/06/17/only-16-percent-of-americans-think-ai-will-have-a-positive-impact-on-society-a-new-study-shows/ Comments URL: https://news.ycombinator.com/item?id=48573332 Points: 398 # Comments: 500",
-      "source": "Hacker News",
-      "published": "2026-06-17T17:07:32+00:00",
-      "link": "https://techcrunch.com/2026/06/17/only-16-percent-of-americans-think-ai-will-have-a-positive-impact-on-society-a-new-study-shows/"
-    },
-    {
-      "title": "The White House Wants Anthropic to Block All Jailbreaks. That May Not Be Possible",
-      "summary": "Trump administration officials tell WIRED that if Anthropic wants to rerelease Fable 5, it will need to ensure the model's guardrails can't be circumvented. Security experts say that can't be done.",
-      "source": "Wired",
-      "published": "2026-06-17T17:00:00+00:00",
-      "link": "https://www.wired.com/story/the-white-house-wants-anthropic-to-block-all-jailbreaks-that-may-not-be-possible/"
-    },
-    {
-      "title": "Google bets on Gemini to reinvent the smart home speaker",
-      "summary": "Google is betting generative AI can breathe new life into the smart speaker. The company's new $99.99 Google Home Speaker replaces the rigid commands of the Google Assistant era with more conversational Gemini interactions.",
-      "source": "TechCrunch",
-      "published": "2026-06-17T16:30:09+00:00",
-      "link": "https://techcrunch.com/2026/06/17/google-bets-on-gemini-to-reinvent-the-smart-home-speaker/"
-    },
-    {
-      "title": "Vibe-decoding the White House-Anthropic fight over Fable",
-      "summary": "Hello and welcome to Regulator, an email for Verge subscribers about technology, politics, and what happens when science crashes headlong into self-interest. Not a subscriber?",
-      "source": "The Verge",
-      "published": "2026-06-17T16:27:00+00:00",
-      "link": "https://www.theverge.com/column/951516/trump-anthropic-feud-mythos-fable-white-house"
-    },
-    {
-      "title": "Launch HN: Adam (YC W25) – Open-Source AI CAD",
-      "summary": "Hey HN! I'm Zach from Adam (https://adam.new/).",
-      "source": "Hacker News",
-      "published": "2026-06-17T16:14:04+00:00",
-      "link": "https://github.com/Adam-CAD/CADAM"
-    },
-    {
-      "title": "TREX: An AI code reviewer that runs your code",
-      "summary": "Article URL: https://www.greptile.com/blog/trex-code-execution Comments URL: https://news.ycombinator.com/item?id=48571851 Points: 60 # Comments: 11",
-      "source": "Hacker News",
-      "published": "2026-06-17T15:29:01+00:00",
-      "link": "https://www.greptile.com/blog/trex-code-execution"
-    },
-    {
-      "title": "Collecting robot training data is dirty, unglamorous work. Some AI labs are already paying XDOF to do it.",
-      "summary": "If physical AI is going to match the accomplishments of LLMs, there's a data problem that needs to be solved.",
-      "source": "TechCrunch",
-      "published": "2026-06-17T15:00:00+00:00",
-      "link": "https://techcrunch.com/2026/06/17/collecting-robot-training-data-is-dirty-unglamorous-work-some-ai-labs-are-already-paying-xdof-to-do-it/"
-    },
-    {
-      "title": "Nvidia research shows robots that train themselves through AI coding agents",
-      "summary": "Researchers from Nvidia, Carnegie Mellon University, and UC Berkeley are using AI coding agents to teach robots dexterous grasping in the real world. A fleet of eight robots hits up to 99 percent success on tricky tasks.",
-      "source": "The Decoder",
-      "published": "2026-06-17T14:55:28+00:00",
-      "link": "https://the-decoder.com/nvidia-research-shows-robots-that-train-themselves-through-ai-coding-agents/"
-    },
-    {
-      "title": "OpenAI researchers want to predict how often AI models will fail before launch",
-      "summary": "OpenAI researchers propose a method for predicting how often a new AI model will make mistakes after release. It could fill gaps left by standard safety testing.",
-      "source": "The Decoder",
-      "published": "2026-06-17T14:30:22+00:00",
-      "link": "https://the-decoder.com/openai-researchers-want-to-predict-how-often-ai-models-will-fail-before-launch/"
-    },
-    {
-      "title": "Pentagon boasts of using AI to write reports mandated by Congress (1.5mil users)",
-      "summary": "Article URL: https://arstechnica.com/ai/2026/06/pentagon-boasts-of-using-ai-to-write-reports-mandated-by-congress/ Comments URL: https://news.ycombinator.com/item?id=48571016 Points: 78 # Comments: 57",
-      "source": "Hacker News",
-      "published": "2026-06-17T14:26:07+00:00",
-      "link": "https://arstechnica.com/ai/2026/06/pentagon-boasts-of-using-ai-to-write-reports-mandated-by-congress/"
-    },
-    {
-      "title": "AI demands more engineering discipline. Not less",
-      "summary": "Article URL: https://charitydotwtf.substack.com/p/ai-demands-more-engineering-discipline Comments URL: https://news.ycombinator.com/item?id=48570948 Points: 426 # Comments: 213",
-      "source": "Hacker News",
-      "published": "2026-06-17T14:20:44+00:00",
-      "link": "https://charitydotwtf.substack.com/p/ai-demands-more-engineering-discipline"
-    },
-    {
-      "title": "Pramaana Labs raises $27M seed round from Khosla Ventures to bring formal verification to AI",
-      "summary": "Pramaana will focus on highly sensitive verticals like law, drug discovery, and tax preparation — where errors can be costly and reliability is at a premium.",
-      "source": "TechCrunch",
-      "published": "2026-06-17T14:15:22+00:00",
-      "link": "https://techcrunch.com/2026/06/17/pramaana-labs-raises-27-million-seed-round-from-khosla-ventures-to-bring-formal-verification-to-ai/"
-    },
-    {
-      "title": "AI search grounded in Facebook posts? What could go wrong?",
-      "summary": "AI is pretty reliable at putting things on your calendar these days, but it hasn't quite cracked answering the related and all-important question of \"What should I do this weekend?\" Meta's new AI Mode in search could be a useful tool - if it ever learns to stop getting stuff...",
-      "source": "The Verge",
-      "published": "2026-06-17T13:30:00+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/951099/meta-ai-mode-search-hands-on"
-    },
-    {
-      "title": "The Gemini-Powered Google Home Speaker Is Finally Here",
-      "summary": "Arriving six years after Google’s last smart speaker, the new HomePod-style device was redesigned to play host to Gemini’s chatbot.",
-      "source": "Wired",
-      "published": "2026-06-17T13:00:00+00:00",
-      "link": "https://www.wired.com/story/the-gemini-powered-google-home-speaker-is-finally-here/"
     }
   ]
 };
