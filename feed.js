@@ -1,6 +1,55 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-06-24T18:47:25.329882+00:00",
+  "lastUpdated": "2026-06-24T22:09:52.893872+00:00",
   "items": [
+    {
+      "title": "AI was supposed to kill engineering jobs, but new data suggests they’re the most resilient",
+      "summary": "While AI dominates the layoff narrative, engineers are actually making up a larger share of new hires, according to SignalFire data.",
+      "source": "TechCrunch",
+      "published": "2026-06-24T21:56:41+00:00",
+      "link": "https://techcrunch.com/2026/06/24/ai-was-supposed-to-kill-engineering-jobs-but-new-data-suggests-theyre-the-most-resilient/"
+    },
+    {
+      "title": "AI researchers continue to leave Google for its rivals",
+      "summary": "Top AI researchers Jonas Adler and Alexander Pritzel are leaving Google for Anthropic, following departures from top scientists Noam Shazeer and John Jumper.",
+      "source": "TechCrunch",
+      "published": "2026-06-24T21:42:07+00:00",
+      "link": "https://techcrunch.com/2026/06/24/ai-researchers-continue-to-leave-google-for-its-rivals/"
+    },
+    {
+      "title": "A24 Knows You’re Mad About the Google AI Collab",
+      "summary": "Indie movie fans are upset about Google DeepMind’s $75 million investment in the studio, which comes as AI companies are deepening their influence in Hollywood.",
+      "source": "Wired",
+      "published": "2026-06-24T21:05:51+00:00",
+      "link": "https://www.wired.com/story/a24-knows-youre-mad-about-the-google-ai-collab/"
+    },
+    {
+      "title": "Companies are scrambling to stop employees from maxing out AI budgets with small tasks",
+      "summary": "The tokenmaxxing era was brief. We now appear to be entering the era of token rationing.",
+      "source": "TechCrunch",
+      "published": "2026-06-24T20:09:45+00:00",
+      "link": "https://techcrunch.com/2026/06/24/companies-are-scrambling-to-stop-employees-from-maxing-out-ai-budgets-with-small-tasks/"
+    },
+    {
+      "title": "OpenAI says ChatGPT Instant now better understands what users actually want",
+      "summary": "OpenAI is updating GPT-5.5 Instant, its most-used ChatGPT model. The update targets conversation quality, with better intent recognition, improved context across multiple turns, and more reliable handling of complex, multi-condition prompts.",
+      "source": "The Decoder",
+      "published": "2026-06-24T19:54:23+00:00",
+      "link": "https://the-decoder.com/openai-says-chatgpt-instant-now-better-understands-what-users-actually-want/"
+    },
+    {
+      "title": "Congresswoman denies staff used AI to write defense funding amendment",
+      "summary": "Rep.",
+      "source": "The Verge",
+      "published": "2026-06-24T19:36:46+00:00",
+      "link": "https://www.theverge.com/policy/956394/florida-anna-paulina-luna-anthropic-claude"
+    },
+    {
+      "title": "I Met With China’s Top AI Experts. They’re Freaking Out, Too",
+      "summary": "The AI arms race between China and the US has researchers on both sides worried about a “Chernobyl moment.”",
+      "source": "Wired",
+      "published": "2026-06-24T18:45:00+00:00",
+      "link": "https://www.wired.com/story/ai-arms-race-china-us-cooperation/"
+    },
     {
       "title": "The $27 million Al proxy war over Alex Bores ends in a draw",
       "summary": "The expensive, $27 million political proxy war between Anthropic and OpenAI came to a draw last night when Alex Bores, a New York state Assemblyman whose popularity surged after being targeted by a pro-AI super PAC, narrowly lost the Democratic primary to represent New York's...",
@@ -35,6 +84,13 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-06-24T16:48:43+00:00",
       "link": "https://techcrunch.com/2026/06/24/agility-robotics-plans-to-go-public-via-spac-in-a-2-5b-deal/"
+    },
+    {
+      "title": "Big AI labs are hiring philosophers",
+      "summary": "https://archive.is/T1FJG Comments URL: https://news.ycombinator.com/item?id=48662452 Points: 87 # Comments: 70",
+      "source": "Hacker News",
+      "published": "2026-06-24T16:40:13+00:00",
+      "link": "https://www.economist.com/science-and-technology/2026/06/24/why-big-ai-labs-are-hiring-so-many-philosophers"
     },
     {
       "title": "Figma adds code layers, support for animations, more AI features in new update",
@@ -80,14 +136,14 @@ const FEED_DATA = {
     },
     {
       "title": "For Most of the World, Open-Source AI Is the Only Way Forward",
-      "summary": "Article URL: https://techstrong.ai/articles/for-most-of-the-world-open-source-ai-is-the-only-way-forward/ Comments URL: https://news.ycombinator.com/item?id=48660839 Points: 117 # Comments: 84",
+      "summary": "Article URL: https://techstrong.ai/articles/for-most-of-the-world-open-source-ai-is-the-only-way-forward/ Comments URL: https://news.ycombinator.com/item?id=48660839 Points: 183 # Comments: 123",
       "source": "Hacker News",
       "published": "2026-06-24T14:50:22+00:00",
       "link": "https://techstrong.ai/articles/for-most-of-the-world-open-source-ai-is-the-only-way-forward/"
     },
     {
       "title": "RubyLLM: A Ruby framework for all major AI providers",
-      "summary": "Article URL: https://rubyllm.com/ Comments URL: https://news.ycombinator.com/item?id=48660711 Points: 242 # Comments: 35",
+      "summary": "Article URL: https://rubyllm.com/ Comments URL: https://news.ycombinator.com/item?id=48660711 Points: 311 # Comments: 47",
       "source": "Hacker News",
       "published": "2026-06-24T14:41:41+00:00",
       "link": "https://rubyllm.com/"
@@ -108,7 +164,7 @@ const FEED_DATA = {
     },
     {
       "title": "OpenAI and Broadcom unveil LLM-optimized inference chip",
-      "summary": "Article URL: https://openai.com/index/openai-broadcom-jalapeno-inference-chip/ Comments URL: https://news.ycombinator.com/item?id=48659257 Points: 140 # Comments: 1",
+      "summary": "Article URL: https://openai.com/index/openai-broadcom-jalapeno-inference-chip/ Comments URL: https://news.ycombinator.com/item?id=48659257 Points: 141 # Comments: 1",
       "source": "Hacker News",
       "published": "2026-06-24T13:14:39+00:00",
       "link": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip/"
@@ -129,7 +185,7 @@ const FEED_DATA = {
     },
     {
       "title": "Reid Hoffman says SpaceX 'not an AI company', xAI 'complete train wreck'",
-      "summary": "Article URL: https://fortune.com/2026/06/24/reid-hoffman-spacex-musk-openai-anthropic-gen-z-mistake/ Comments URL: https://news.ycombinator.com/item?id=48658647 Points: 212 # Comments: 245",
+      "summary": "Article URL: https://fortune.com/2026/06/24/reid-hoffman-spacex-musk-openai-anthropic-gen-z-mistake/ Comments URL: https://news.ycombinator.com/item?id=48658647 Points: 217 # Comments: 254",
       "source": "Hacker News",
       "published": "2026-06-24T12:23:59+00:00",
       "link": "https://fortune.com/2026/06/24/reid-hoffman-spacex-musk-openai-anthropic-gen-z-mistake/"
@@ -157,7 +213,7 @@ const FEED_DATA = {
     },
     {
       "title": "Haystack: Open-Source AI Framework for Production Ready Agents, RAG",
-      "summary": "Article URL: https://haystack.deepset.ai/ Comments URL: https://news.ycombinator.com/item?id=48658095 Points: 73 # Comments: 20",
+      "summary": "Article URL: https://haystack.deepset.ai/ Comments URL: https://news.ycombinator.com/item?id=48658095 Points: 82 # Comments: 21",
       "source": "Hacker News",
       "published": "2026-06-24T11:21:32+00:00",
       "link": "https://haystack.deepset.ai/"
@@ -178,7 +234,7 @@ const FEED_DATA = {
     },
     {
       "title": "How to burst the AI bubble: Strike at its roots",
-      "summary": "Article URL: https://arstechnica.com/gadgets/2026/06/how-to-burst-the-ai-bubble-strike-at-its-roots/ Comments URL: https://news.ycombinator.com/item?id=48657518 Points: 58 # Comments: 46",
+      "summary": "Article URL: https://arstechnica.com/gadgets/2026/06/how-to-burst-the-ai-bubble-strike-at-its-roots/ Comments URL: https://news.ycombinator.com/item?id=48657518 Points: 61 # Comments: 46",
       "source": "Hacker News",
       "published": "2026-06-24T09:57:10+00:00",
       "link": "https://arstechnica.com/gadgets/2026/06/how-to-burst-the-ai-bubble-strike-at-its-roots/"
@@ -220,7 +276,7 @@ const FEED_DATA = {
     },
     {
       "title": "US AI stock sell-off shakes markets from Wall Street to Asia",
-      "summary": "Article URL: https://www.theguardian.com/business/2026/jun/23/ai-stocks-sell-off-us-markets Comments URL: https://news.ycombinator.com/item?id=48654795 Points: 51 # Comments: 40",
+      "summary": "Article URL: https://www.theguardian.com/business/2026/jun/23/ai-stocks-sell-off-us-markets Comments URL: https://news.ycombinator.com/item?id=48654795 Points: 52 # Comments: 40",
       "source": "Hacker News",
       "published": "2026-06-24T03:36:50+00:00",
       "link": "https://www.theguardian.com/business/2026/jun/23/ai-stocks-sell-off-us-markets"
@@ -318,10 +374,17 @@ const FEED_DATA = {
     },
     {
       "title": "AI's Affordability Crisis",
-      "summary": "Article URL: https://blog.dshr.org/2026/06/ais-affordability-crisis.html Comments URL: https://news.ycombinator.com/item?id=48646276 Points: 314 # Comments: 403",
+      "summary": "Article URL: https://blog.dshr.org/2026/06/ais-affordability-crisis.html Comments URL: https://news.ycombinator.com/item?id=48646276 Points: 319 # Comments: 407",
       "source": "Hacker News",
       "published": "2026-06-23T15:11:17+00:00",
       "link": "https://blog.dshr.org/2026/06/ais-affordability-crisis.html"
+    },
+    {
+      "title": "Show HN: peerd – AI agent harness that runs entirely in your browser",
+      "summary": "Hey HN. http://peerd.ai is an AI agent harness that lives entirely in your browser as a web extension.",
+      "source": "Hacker News",
+      "published": "2026-06-23T15:05:00+00:00",
+      "link": "https://github.com/NotASithLord/peerd"
     },
     {
       "title": "The Fitbit Air takes a smarter approach to the AI health dumpster fire",
@@ -367,7 +430,7 @@ const FEED_DATA = {
     },
     {
       "title": "The Low-Tech AI of Elden Ring",
-      "summary": "Article URL: https://nega.tv/posts/low-tech-ai-of-elden-ring.html Comments URL: https://news.ycombinator.com/item?id=48643489 Points: 156 # Comments: 95",
+      "summary": "Article URL: https://nega.tv/posts/low-tech-ai-of-elden-ring.html Comments URL: https://news.ycombinator.com/item?id=48643489 Points: 158 # Comments: 96",
       "source": "Hacker News",
       "published": "2026-06-23T11:40:50+00:00",
       "link": "https://nega.tv/posts/low-tech-ai-of-elden-ring.html"
@@ -395,7 +458,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI Built a Nuke and Still Lost",
-      "summary": "Article URL: https://www.lwilko.com/blog/i-gave-an-ai-a-civilization Comments URL: https://news.ycombinator.com/item?id=48641927 Points: 88 # Comments: 96",
+      "summary": "Article URL: https://www.lwilko.com/blog/i-gave-an-ai-a-civilization Comments URL: https://news.ycombinator.com/item?id=48641927 Points: 88 # Comments: 97",
       "source": "Hacker News",
       "published": "2026-06-23T08:16:45+00:00",
       "link": "https://www.lwilko.com/blog/i-gave-an-ai-a-civilization"
@@ -409,7 +472,7 @@ const FEED_DATA = {
     },
     {
       "title": "OpenAI DayBreak – GPT-5.5-Cyber",
-      "summary": "Article URL: https://openai.com/index/daybreak-securing-the-world/ Comments URL: https://news.ycombinator.com/item?id=48639063 Points: 216 # Comments: 171",
+      "summary": "Article URL: https://openai.com/index/daybreak-securing-the-world/ Comments URL: https://news.ycombinator.com/item?id=48639063 Points: 218 # Comments: 171",
       "source": "Hacker News",
       "published": "2026-06-23T01:36:08+00:00",
       "link": "https://openai.com/index/daybreak-securing-the-world/"
@@ -612,7 +675,7 @@ const FEED_DATA = {
     },
     {
       "title": "Good results fine tuning a local LLM like Qwen 3:0.6B to categorize questions",
-      "summary": "Article URL: https://www.teachmecoolstuff.com/viewarticle/fine-tuning-a-local-llm-to-categorize-questions Comments URL: https://news.ycombinator.com/item?id=48623434 Points: 211 # Comments: 49",
+      "summary": "Article URL: https://www.teachmecoolstuff.com/viewarticle/fine-tuning-a-local-llm-to-categorize-questions Comments URL: https://news.ycombinator.com/item?id=48623434 Points: 212 # Comments: 49",
       "source": "Hacker News",
       "published": "2026-06-21T22:55:23+00:00",
       "link": "https://www.teachmecoolstuff.com/viewarticle/fine-tuning-a-local-llm-to-categorize-questions"
@@ -626,7 +689,7 @@ const FEED_DATA = {
     },
     {
       "title": "Apertus – Open Foundation Model for Sovereign AI",
-      "summary": "Article URL: https://apertvs.ai/ Comments URL: https://news.ycombinator.com/item?id=48622778 Points: 531 # Comments: 183",
+      "summary": "Article URL: https://apertvs.ai/ Comments URL: https://news.ycombinator.com/item?id=48622778 Points: 532 # Comments: 183",
       "source": "Hacker News",
       "published": "2026-06-21T21:29:43+00:00",
       "link": "https://apertvs.ai/"
@@ -675,14 +738,14 @@ const FEED_DATA = {
     },
     {
       "title": "The 100k whys of AI",
-      "summary": "Article URL: https://lcamtuf.substack.com/p/the-100000-whys-of-ai Comments URL: https://news.ycombinator.com/item?id=48616017 Points: 197 # Comments: 108",
+      "summary": "Article URL: https://lcamtuf.substack.com/p/the-100000-whys-of-ai Comments URL: https://news.ycombinator.com/item?id=48616017 Points: 198 # Comments: 107",
       "source": "Hacker News",
       "published": "2026-06-21T05:45:21+00:00",
       "link": "https://lcamtuf.substack.com/p/the-100000-whys-of-ai"
     },
     {
       "title": "Don’t use AI to write things that you present as your own work",
-      "summary": "Article URL: https://www.satisfice.com/blog/archives/488148 Comments URL: https://news.ycombinator.com/item?id=48615776 Points: 105 # Comments: 98",
+      "summary": "Article URL: https://www.satisfice.com/blog/archives/488148 Comments URL: https://news.ycombinator.com/item?id=48615776 Points: 106 # Comments: 98",
       "source": "Hacker News",
       "published": "2026-06-21T04:50:46+00:00",
       "link": "https://www.satisfice.com/blog/archives/488148"
@@ -1337,69 +1400,6 @@ const FEED_DATA = {
       "source": "The Verge",
       "published": "2026-06-17T18:28:50+00:00",
       "link": "https://www.theverge.com/ai-artificial-intelligence/951703/anthropic-shutdown-export-controls"
-    },
-    {
-      "title": "Operating a Humanoid With Your Body Is a Hot Job in China’s Hardware Capital",
-      "summary": "In Shenzhen, workers at IO-AI Tech control humanoid robots using a VR rig reminiscent of Ready Player One.",
-      "source": "Wired",
-      "published": "2026-06-17T18:25:35+00:00",
-      "link": "https://www.wired.com/story/humanoid-robot-training-in-chinas-hardware-capital/"
-    },
-    {
-      "title": "Amazon, Nvidia, and AMD bet $310 million on AI startup building 3D world models",
-      "summary": "Amazon, Nvidia, and AMD are putting $310 million into world model startup Odyssey ML, now valued at $1.45 billion. CIA-linked fund IQT and Google chief scientist Jeff Dean are also backing the round.",
-      "source": "The Decoder",
-      "published": "2026-06-17T18:21:23+00:00",
-      "link": "https://the-decoder.com/amazon-nvidia-and-amd-bet-310-million-on-ai-startup-building-3d-world-models/"
-    },
-    {
-      "title": "NEA’s Tiffany Luck on AI IPOs, personal agents, and the ROI reckoning",
-      "summary": "Tokenmaxxing was the hottest trend in Silicon Valley earlier this year, with CEOs encouraging employees to push AI usage as far as it would go. Then the bill came due.",
-      "source": "TechCrunch",
-      "published": "2026-06-17T18:00:00+00:00",
-      "link": "https://techcrunch.com/podcast/neas-tiffany-luck-on-ai-ipos-personal-agents-and-the-roi-reckoning/"
-    },
-    {
-      "title": "\"Dangerous\" AI models are coming no matter what",
-      "summary": "AI models with advanced hacking capabilities will soon be the norm.",
-      "source": "Ars Technica",
-      "published": "2026-06-17T17:50:46+00:00",
-      "link": "https://arstechnica.com/ai/2026/06/dangerous-ai-models-are-coming-no-matter-what/"
-    },
-    {
-      "title": "World model maker Odyssey nabs $1.45B valuation backed by Amazon and other big names",
-      "summary": "World models are the next big thing in AI beyond LLMs and, with this round, Odyssey has cemented itself as one of the startups to watch.",
-      "source": "TechCrunch",
-      "published": "2026-06-17T17:43:07+00:00",
-      "link": "https://techcrunch.com/2026/06/17/world-model-maker-odyssey-nabs-1-45b-valuation-backed-by-amazon-and-other-big-names/"
-    },
-    {
-      "title": "Using AI to improve a challenging reaction in medicinal chemistry",
-      "summary": "Article URL: https://openai.com/index/ai-chemist-improves-reaction/ Comments URL: https://news.ycombinator.com/item?id=48573757 Points: 58 # Comments: 20",
-      "source": "Hacker News",
-      "published": "2026-06-17T17:34:20+00:00",
-      "link": "https://openai.com/index/ai-chemist-improves-reaction/"
-    },
-    {
-      "title": "Zhipu AI's GLM-5.2 closes in on closed-source leaders in coding marathons",
-      "summary": "Chinese AI lab Zhipu AI releases GLM-5.2 with a stable 1-million-token context under the MIT license. On FrontierSWE, a benchmark for hours-long coding tasks, the open-source model trails Anthropic's Claude Opus 4.8 by just one percentage point.",
-      "source": "The Decoder",
-      "published": "2026-06-17T17:30:00+00:00",
-      "link": "https://the-decoder.com/zhipu-ais-glm-5-2-closes-in-on-closed-source-leaders-in-coding-marathons/"
-    },
-    {
-      "title": "Two-thirds of Americans think AI is advancing too quickly",
-      "summary": "According to the latest Pew Research poll, 49 percent of Americans report using chatbots at least occasionally, but 63 percent think the tech is advancing too quickly. Overall, use of AI chatbots has increased dramatically since 2024, when only 33 percent reported using them.",
-      "source": "The Verge",
-      "published": "2026-06-17T17:20:24+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/951653/pew-research-ai-chatbot-usage-advancing-too-quickly"
-    },
-    {
-      "title": "The Competitive Moat That AI Can't Replicate",
-      "summary": "Article URL: https://ghostinthedata.info/posts/2026/2026-06-13-human-connection-moat/ Comments URL: https://news.ycombinator.com/item?id=48573435 Points: 142 # Comments: 123",
-      "source": "Hacker News",
-      "published": "2026-06-17T17:14:21+00:00",
-      "link": "https://ghostinthedata.info/posts/2026/2026-06-13-human-connection-moat/"
     }
   ]
 };
