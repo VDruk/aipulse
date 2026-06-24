@@ -1,12 +1,96 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-06-24T11:36:12.104728+00:00",
+  "lastUpdated": "2026-06-24T15:33:24.119557+00:00",
   "items": [
+    {
+      "title": "The Trump White House Is Over Anthropic's Dario Amodei",
+      "summary": "At high-stakes meetings with the White House, Anthropic's CEO—a \"weirdo,\" per one official—has been replaced by cofounder Tom Brown.",
+      "source": "Wired",
+      "published": "2026-06-24T15:15:00+00:00",
+      "link": "https://www.wired.com/story/the-trump-white-house-is-over-anthropics-dario-amodei/"
+    },
+    {
+      "title": "OpenAI unveils its first custom chip, built by Broadcom",
+      "summary": "Named Jalapeño, the new processor was designed specifically for the unique needs of OpenAI's inference systems.",
+      "source": "TechCrunch",
+      "published": "2026-06-24T14:54:46+00:00",
+      "link": "https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/"
+    },
+    {
+      "title": "OpenAI reveals its first AI processor: Jalapeño",
+      "summary": "OpenAI has just revealed a new \"intelligence processor\" chip for AI servers made in partnership with Broadcom. The chip, called Jalapeño, is designed to power current and future large language models, according to an announcement on Wednesday.",
+      "source": "The Verge",
+      "published": "2026-06-24T14:36:47+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/955939/openai-reveals-its-first-ai-processor-jalapeno"
+    },
+    {
+      "title": "OpenAI and Broadcom unveil \"Jalapeño,\" a custom chip built for LLM inference",
+      "summary": "OpenAI is adding custom hardware to its tech stack. The \"Jalapeño\" chip, developed with Broadcom, is tailored for large language model inference and is set to run at scale by late 2026.",
+      "source": "The Decoder",
+      "published": "2026-06-24T13:50:56+00:00",
+      "link": "https://the-decoder.com/openai-and-broadcom-unveil-jalapeno-a-custom-chip-built-for-llm-inference/"
+    },
+    {
+      "title": "OpenAI's deployment chief on Codex growth, falling AI prices, and the ROI question",
+      "summary": "OpenAI deployment chief Arnaud Fournier explains in an interview how DeployCo wants to embed AI deep inside large corporations using its own engineers.",
+      "source": "The Decoder",
+      "published": "2026-06-24T13:00:14+00:00",
+      "link": "https://the-decoder.com/openais-deployment-chief-on-codex-growth-falling-ai-prices-and-the-roi-question/"
+    },
+    {
+      "title": "Qualcomm Buys Buzzy Chip Startup Modular for Nearly $4 Billion",
+      "summary": "Modular, one of the most promising chip software startups of the AI era, heads for a multibillion-dollar exit.",
+      "source": "Wired",
+      "published": "2026-06-24T12:36:07+00:00",
+      "link": "https://www.wired.com/story/qualcomm-buys-buzzy-chip-startup-modular-for-nearly-dollar4-billion/"
+    },
+    {
+      "title": "Reid Hoffman says SpaceX 'not an AI company', xAI 'complete train wreck'",
+      "summary": "Article URL: https://fortune.com/2026/06/24/reid-hoffman-spacex-musk-openai-anthropic-gen-z-mistake/ Comments URL: https://news.ycombinator.com/item?id=48658647 Points: 172 # Comments: 188",
+      "source": "Hacker News",
+      "published": "2026-06-24T12:23:59+00:00",
+      "link": "https://fortune.com/2026/06/24/reid-hoffman-spacex-musk-openai-anthropic-gen-z-mistake/"
+    },
+    {
+      "title": "The Download: introducing the Engineering issue",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Introducing: the Engineering issue We can’t fix everything, but we can be ambitious.",
+      "source": "MIT Tech Review",
+      "published": "2026-06-24T12:10:00+00:00",
+      "link": "https://www.technologyreview.com/2026/06/24/1139658/the-download-introducing-engineering-issue/"
+    },
+    {
+      "title": "Stripe, Anthropic and OpenAI are backing an effort to stop respiratory infections",
+      "summary": "The common cold comes for us all—often more than once a year. And there is no way to prevent it.",
+      "source": "MIT Tech Review",
+      "published": "2026-06-24T12:00:00+00:00",
+      "link": "https://www.technologyreview.com/2026/06/24/1139621/stripe-anthropic-and-openai-are-backing-an-effort-to-stop-respiratory-infections/"
+    },
+    {
+      "title": "The emergence of the web data infrastructure layer for AI",
+      "summary": "AI is booming. New use cases are emerging each day.",
+      "source": "MIT Tech Review",
+      "published": "2026-06-24T11:59:54+00:00",
+      "link": "https://www.technologyreview.com/2026/06/24/1139202/the-emergence-of-the-web-data-infrastructure-layer-for-ai/"
+    },
     {
       "title": "Pangram CEO says language models give themselves away by making the same arguments",
       "summary": "Language models may write cleaner prose than most humans, but ask one for 100 arguments on a topic and they'll all cluster together. Human reasoning is far more diverse, says Pangram CEO Max Spero, and that's what might give AI away.",
       "source": "The Decoder",
       "published": "2026-06-24T10:55:31+00:00",
       "link": "https://the-decoder.com/pangram-ceo-says-language-models-give-themselves-away-by-making-the-same-arguments/"
+    },
+    {
+      "title": "Samsung opens ChatGPT Enterprise and Codex access after AI restrictions",
+      "summary": "Samsung Electronics is expanding employee access to ChatGPT Enterprise and Codex, giving staff wider use of AI tools for technical and non-technical work.",
+      "source": "AI News",
+      "published": "2026-06-24T10:00:00+00:00",
+      "link": "https://www.artificialintelligence-news.com/news/samsung-chatgpt-enterprise-codex-employee-ai-use/"
+    },
+    {
+      "title": "How to burst the AI bubble: Strike at its roots",
+      "summary": "Article URL: https://arstechnica.com/gadgets/2026/06/how-to-burst-the-ai-bubble-strike-at-its-roots/ Comments URL: https://news.ycombinator.com/item?id=48657518 Points: 56 # Comments: 45",
+      "source": "Hacker News",
+      "published": "2026-06-24T09:57:10+00:00",
+      "link": "https://arstechnica.com/gadgets/2026/06/how-to-burst-the-ai-bubble-strike-at-its-roots/"
     },
     {
       "title": "Claude Tag embeds Anthropic's AI in Slack, already writes 65 percent of internal code, company says",
@@ -35,6 +119,13 @@ const FEED_DATA = {
       "source": "MIT Tech Review",
       "published": "2026-06-24T09:00:00+00:00",
       "link": "https://www.technologyreview.com/2026/06/24/1138853/editors-letter-july-2026/"
+    },
+    {
+      "title": "Anthropic drops ‘workplace AI agents’ directly inside Slack",
+      "summary": "Anthropic launched a beta version of its Claude Tag feature for Enterprise and Team tiers, shifting its chat model into shared Slack channels.",
+      "source": "AI News",
+      "published": "2026-06-24T09:00:00+00:00",
+      "link": "https://www.artificialintelligence-news.com/news/anthropic-slack-workplace-ai-agents/"
     },
     {
       "title": "India’s MoEngage bets that the future of marketing is millions of AI agents",
@@ -129,7 +220,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI's Affordability Crisis",
-      "summary": "Article URL: https://blog.dshr.org/2026/06/ais-affordability-crisis.html Comments URL: https://news.ycombinator.com/item?id=48646276 Points: 292 # Comments: 384",
+      "summary": "Article URL: https://blog.dshr.org/2026/06/ais-affordability-crisis.html Comments URL: https://news.ycombinator.com/item?id=48646276 Points: 307 # Comments: 399",
       "source": "Hacker News",
       "published": "2026-06-23T15:11:17+00:00",
       "link": "https://blog.dshr.org/2026/06/ais-affordability-crisis.html"
@@ -178,7 +269,7 @@ const FEED_DATA = {
     },
     {
       "title": "The Low-Tech AI of Elden Ring",
-      "summary": "Article URL: https://nega.tv/posts/low-tech-ai-of-elden-ring.html Comments URL: https://news.ycombinator.com/item?id=48643489 Points: 150 # Comments: 89",
+      "summary": "Article URL: https://nega.tv/posts/low-tech-ai-of-elden-ring.html Comments URL: https://news.ycombinator.com/item?id=48643489 Points: 156 # Comments: 93",
       "source": "Hacker News",
       "published": "2026-06-23T11:40:50+00:00",
       "link": "https://nega.tv/posts/low-tech-ai-of-elden-ring.html"
@@ -206,7 +297,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI Built a Nuke and Still Lost",
-      "summary": "Article URL: https://www.lwilko.com/blog/i-gave-an-ai-a-civilization Comments URL: https://news.ycombinator.com/item?id=48641927 Points: 86 # Comments: 95",
+      "summary": "Article URL: https://www.lwilko.com/blog/i-gave-an-ai-a-civilization Comments URL: https://news.ycombinator.com/item?id=48641927 Points: 87 # Comments: 96",
       "source": "Hacker News",
       "published": "2026-06-23T08:16:45+00:00",
       "link": "https://www.lwilko.com/blog/i-gave-an-ai-a-civilization"
@@ -220,7 +311,7 @@ const FEED_DATA = {
     },
     {
       "title": "OpenAI DayBreak – GPT-5.5-Cyber",
-      "summary": "Article URL: https://openai.com/index/daybreak-securing-the-world/ Comments URL: https://news.ycombinator.com/item?id=48639063 Points: 212 # Comments: 168",
+      "summary": "Article URL: https://openai.com/index/daybreak-securing-the-world/ Comments URL: https://news.ycombinator.com/item?id=48639063 Points: 215 # Comments: 170",
       "source": "Hacker News",
       "published": "2026-06-23T01:36:08+00:00",
       "link": "https://openai.com/index/daybreak-securing-the-world/"
@@ -255,7 +346,7 @@ const FEED_DATA = {
     },
     {
       "title": "Meta pauses AI training program tracking employee keystrokes after internal leak",
-      "summary": "Article URL: https://www.businessinsider.com/meta-ai-training-data-leak-exposed-employee-activity-across-company-2026-6 Comments URL: https://news.ycombinator.com/item?id=48636632 Points: 121 # Comments: 31",
+      "summary": "Article URL: https://www.businessinsider.com/meta-ai-training-data-leak-exposed-employee-activity-across-company-2026-6 Comments URL: https://news.ycombinator.com/item?id=48636632 Points: 122 # Comments: 31",
       "source": "Hacker News",
       "published": "2026-06-22T21:43:22+00:00",
       "link": "https://www.businessinsider.com/meta-ai-training-data-leak-exposed-employee-activity-across-company-2026-6"
@@ -297,7 +388,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI has already killed academia as we know it?",
-      "summary": "Article URL: https://truths-and-loves.ghost.io/ai-has-already-killed-academia-as-we-know-it/ Comments URL: https://news.ycombinator.com/item?id=48634966 Points: 66 # Comments: 51",
+      "summary": "Article URL: https://truths-and-loves.ghost.io/ai-has-already-killed-academia-as-we-know-it/ Comments URL: https://news.ycombinator.com/item?id=48634966 Points: 69 # Comments: 51",
       "source": "Hacker News",
       "published": "2026-06-22T19:36:58+00:00",
       "link": "https://truths-and-loves.ghost.io/ai-has-already-killed-academia-as-we-know-it/"
@@ -1309,97 +1400,6 @@ const FEED_DATA = {
       "source": "Wired",
       "published": "2026-06-17T13:00:00+00:00",
       "link": "https://www.wired.com/story/the-gemini-powered-google-home-speaker-is-finally-here/"
-    },
-    {
-      "title": "Canadian pension giant joins race to fund India’s AI-fueled data center boom",
-      "summary": "The Canadian pension giant will acquire an 8.2% stake in CtrlS, a tech giant that operates more than 15 data centers across India.",
-      "source": "TechCrunch",
-      "published": "2026-06-17T12:38:09+00:00",
-      "link": "https://techcrunch.com/2026/06/17/canadian-pension-giant-joins-race-to-fund-indias-ai-fueled-data-center-boom/"
-    },
-    {
-      "title": "Sixty percent of US consumers say 'AI' in brand messaging is a turnoff",
-      "summary": "Article URL: https://wpvip.com/future-of-the-web-2026/ Comments URL: https://news.ycombinator.com/item?id=48569278 Points: 1078 # Comments: 576",
-      "source": "Hacker News",
-      "published": "2026-06-17T12:11:27+00:00",
-      "link": "https://wpvip.com/future-of-the-web-2026/"
-    },
-    {
-      "title": "The Download: a reality check for geoengineering and the science of interoception",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.",
-      "source": "MIT Tech Review",
-      "published": "2026-06-17T12:10:00+00:00",
-      "link": "https://www.technologyreview.com/2026/06/17/1139200/the-download-solar-geoengineering-interoception/"
-    },
-    {
-      "title": "Pinterest launches an experimental AI shopping app called ‘Ask Pinterest’",
-      "summary": "Pinterest has launched 'Ask Pinterest,' an experimental AI-powered shopping app that lets users seek recommendations and inspiration through a conversational interface.",
-      "source": "TechCrunch",
-      "published": "2026-06-17T11:00:00+00:00",
-      "link": "https://techcrunch.com/2026/06/17/pinterest-launches-an-experimental-ai-shopping-app-called-ask-pinterest/"
-    },
-    {
-      "title": "Google Cloud generative AI automates council planning operations",
-      "summary": "Government ministries are deploying Google Cloud generative AI across municipal agencies to automate council planning operations. Public sector administration handles vast volumes of unstructured data that delay infrastructure development.",
-      "source": "AI News",
-      "published": "2026-06-17T10:59:42+00:00",
-      "link": "https://www.artificialintelligence-news.com/news/google-cloud-generative-ai-automates-council-planning-operations/"
-    },
-    {
-      "title": "Hyperscalers may soon be unable to fund their AI buildout from cash flow alone",
-      "summary": "According to an Epoch AI analysis, Microsoft, Amazon, Alphabet, Meta, and Oracle are growing their AI infrastructure spending by about 70 percent a year, while operating cash flow is only rising at 23 percent.",
-      "source": "The Decoder",
-      "published": "2026-06-17T10:54:41+00:00",
-      "link": "https://the-decoder.com/hyperscalers-may-soon-be-unable-to-fund-their-ai-buildout-from-cash-flow-alone/"
-    },
-    {
-      "title": "Show HN: I built 184 free browser tools – PDF, image, dev, AI tasks, no upload",
-      "summary": "Article URL: https://brevio.pro Comments URL: https://news.ycombinator.com/item?id=48568023 Points: 88 # Comments: 28",
-      "source": "Hacker News",
-      "published": "2026-06-17T09:48:59+00:00",
-      "link": "https://brevio.pro"
-    },
-    {
-      "title": "GLM-5.2 is the new leading open weights model on Artificial Analysis",
-      "summary": "Article URL: https://artificialanalysis.ai/articles/glm-5-2-is-the-new-leading-open-weights-model-on-the-artificial-analysis-intelligence-index Comments URL: https://news.ycombinator.com/item?id=48567759 Points: 898 # Comments: 442",
-      "source": "Hacker News",
-      "published": "2026-06-17T09:12:00+00:00",
-      "link": "https://artificialanalysis.ai/articles/glm-5-2-is-the-new-leading-open-weights-model-on-the-artificial-analysis-intelligence-index"
-    },
-    {
-      "title": "Entrepreneurs in Nairobi make the case for going solar",
-      "summary": "Most of Kenya’s power grid runs on renewables. But with 25% of communities lacking centralized electricity, the nation is looking to off-grid solar to hit its goal of delivering universal electricity access by 2030 without driving up emissions.",
-      "source": "MIT Tech Review",
-      "published": "2026-06-17T09:00:00+00:00",
-      "link": "https://www.technologyreview.com/2026/06/17/1138600/entrepreneurs-nairobi-case-for-going-solar/"
-    },
-    {
-      "title": "Hacking the atmosphere: Geoengineering gets a reality check",
-      "summary": "Jim Franke pulls away the cover page of a presentation on the wraparound desk in his office, revealing an illustration of an odd-­looking aircraft with massive wings stretching out from a stubby fuselage.",
-      "source": "MIT Tech Review",
-      "published": "2026-06-17T09:00:00+00:00",
-      "link": "https://www.technologyreview.com/2026/06/17/1138743/hacking-atmosphere-geoengineering-reality-check/"
-    },
-    {
-      "title": "The founder's playbook: Building an AI-native startup",
-      "summary": "Article URL: https://claude.com/blog/the-founders-playbook Comments URL: https://news.ycombinator.com/item?id=48566832 Points: 243 # Comments: 167",
-      "source": "Hacker News",
-      "published": "2026-06-17T07:04:42+00:00",
-      "link": "https://claude.com/blog/the-founders-playbook"
-    },
-    {
-      "title": "Wolfram Language and Mathematica Version 15, AI Assistant, Symbolic Music, More",
-      "summary": "Article URL: https://writings.stephenwolfram.com/2026/06/launching-version-15-of-wolfram-language-mathematica-built-in-useful-ai-lots-of-new-core-functionality/ Comments URL: https://news.ycombinator.com/item?id=48563609 Points: 127 # Comments: 43",
-      "source": "Hacker News",
-      "published": "2026-06-16T23:15:44+00:00",
-      "link": "https://writings.stephenwolfram.com/2026/06/launching-version-15-of-wolfram-language-mathematica-built-in-useful-ai-lots-of-new-core-functionality/"
-    },
-    {
-      "title": "Anthropic’s latest feud with the Trump admin may actually help it, sales data suggests",
-      "summary": "Anthropic's popularity with business users is growing so well that the latest beef with the government might actually boost it, data from Ramp suggests.",
-      "source": "TechCrunch",
-      "published": "2026-06-16T22:34:17+00:00",
-      "link": "https://techcrunch.com/2026/06/16/anthropics-latest-feud-with-the-trump-admin-may-actually-help-it-sales-data-suggests/"
     }
   ]
 };
