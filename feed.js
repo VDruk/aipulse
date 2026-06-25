@@ -1,6 +1,27 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-06-24T22:09:52.893872+00:00",
+  "lastUpdated": "2026-06-25T05:04:10.050668+00:00",
   "items": [
+    {
+      "title": "Former Infosys chief has a new startup that wants to challenge the IT services world",
+      "summary": "Backed by Mayfield and Aramco Ventures, Vishal Sikka’s new venture brings together veterans from SAP, Infosys, and VianAI.",
+      "source": "TechCrunch",
+      "published": "2026-06-24T23:26:52+00:00",
+      "link": "https://techcrunch.com/2026/06/24/former-infosys-chief-has-a-new-startup-that-wants-to-challenge-the-it-services-world/"
+    },
+    {
+      "title": "Cerebras stock plunges after earnings as CEO says margin outlook was misunderstood",
+      "summary": "In its first earnings report since going public, the AI chipmaker forecast a narrower gross margin in its core business, scaring investors.",
+      "source": "TechCrunch",
+      "published": "2026-06-24T22:41:41+00:00",
+      "link": "https://techcrunch.com/2026/06/24/cerebras-stock-plunges-after-earnings-as-ceo-says-margin-outlook-was-misunderstood/"
+    },
+    {
+      "title": "How to Opt Out of Google Search’s New AI Data Training Feature",
+      "summary": "Google’s Search history update stores media uploads from your interactions, like images used in reverse image searches, for training its AI models.",
+      "source": "Wired",
+      "published": "2026-06-24T22:36:16+00:00",
+      "link": "https://www.wired.com/story/how-to-opt-out-of-google-search-new-ai-data-training/"
+    },
     {
       "title": "AI was supposed to kill engineering jobs, but new data suggests they’re the most resilient",
       "summary": "While AI dominates the layoff narrative, engineers are actually making up a larger share of new hires, according to SignalFire data.",
@@ -35,6 +56,13 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-06-24T19:54:23+00:00",
       "link": "https://the-decoder.com/openai-says-chatgpt-instant-now-better-understands-what-users-actually-want/"
+    },
+    {
+      "title": "Anthropic says Alibaba illicitly extracted Claude AI model capabilities",
+      "summary": "Article URL: https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/ Comments URL: https://news.ycombinator.com/item?id=48664814 Points: 209 # Comments: 358",
+      "source": "Hacker News",
+      "published": "2026-06-24T19:48:01+00:00",
+      "link": "https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/"
     },
     {
       "title": "Congresswoman denies staff used AI to write defense funding amendment",
@@ -87,7 +115,7 @@ const FEED_DATA = {
     },
     {
       "title": "Big AI labs are hiring philosophers",
-      "summary": "https://archive.is/T1FJG Comments URL: https://news.ycombinator.com/item?id=48662452 Points: 87 # Comments: 70",
+      "summary": "https://archive.is/T1FJG Comments URL: https://news.ycombinator.com/item?id=48662452 Points: 132 # Comments: 116",
       "source": "Hacker News",
       "published": "2026-06-24T16:40:13+00:00",
       "link": "https://www.economist.com/science-and-technology/2026/06/24/why-big-ai-labs-are-hiring-so-many-philosophers"
@@ -135,15 +163,15 @@ const FEED_DATA = {
       "link": "https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/"
     },
     {
-      "title": "For Most of the World, Open-Source AI Is the Only Way Forward",
-      "summary": "Article URL: https://techstrong.ai/articles/for-most-of-the-world-open-source-ai-is-the-only-way-forward/ Comments URL: https://news.ycombinator.com/item?id=48660839 Points: 183 # Comments: 123",
+      "title": "For most of the world, open-source AI is the only way forward",
+      "summary": "Article URL: https://techstrong.ai/articles/for-most-of-the-world-open-source-ai-is-the-only-way-forward/ Comments URL: https://news.ycombinator.com/item?id=48660839 Points: 209 # Comments: 134",
       "source": "Hacker News",
       "published": "2026-06-24T14:50:22+00:00",
       "link": "https://techstrong.ai/articles/for-most-of-the-world-open-source-ai-is-the-only-way-forward/"
     },
     {
       "title": "RubyLLM: A Ruby framework for all major AI providers",
-      "summary": "Article URL: https://rubyllm.com/ Comments URL: https://news.ycombinator.com/item?id=48660711 Points: 311 # Comments: 47",
+      "summary": "Article URL: https://rubyllm.com/ Comments URL: https://news.ycombinator.com/item?id=48660711 Points: 364 # Comments: 60",
       "source": "Hacker News",
       "published": "2026-06-24T14:41:41+00:00",
       "link": "https://rubyllm.com/"
@@ -185,7 +213,7 @@ const FEED_DATA = {
     },
     {
       "title": "Reid Hoffman says SpaceX 'not an AI company', xAI 'complete train wreck'",
-      "summary": "Article URL: https://fortune.com/2026/06/24/reid-hoffman-spacex-musk-openai-anthropic-gen-z-mistake/ Comments URL: https://news.ycombinator.com/item?id=48658647 Points: 217 # Comments: 254",
+      "summary": "Article URL: https://fortune.com/2026/06/24/reid-hoffman-spacex-musk-openai-anthropic-gen-z-mistake/ Comments URL: https://news.ycombinator.com/item?id=48658647 Points: 226 # Comments: 259",
       "source": "Hacker News",
       "published": "2026-06-24T12:23:59+00:00",
       "link": "https://fortune.com/2026/06/24/reid-hoffman-spacex-musk-openai-anthropic-gen-z-mistake/"
@@ -213,7 +241,7 @@ const FEED_DATA = {
     },
     {
       "title": "Haystack: Open-Source AI Framework for Production Ready Agents, RAG",
-      "summary": "Article URL: https://haystack.deepset.ai/ Comments URL: https://news.ycombinator.com/item?id=48658095 Points: 82 # Comments: 21",
+      "summary": "Article URL: https://haystack.deepset.ai/ Comments URL: https://news.ycombinator.com/item?id=48658095 Points: 86 # Comments: 21",
       "source": "Hacker News",
       "published": "2026-06-24T11:21:32+00:00",
       "link": "https://haystack.deepset.ai/"
@@ -234,7 +262,7 @@ const FEED_DATA = {
     },
     {
       "title": "How to burst the AI bubble: Strike at its roots",
-      "summary": "Article URL: https://arstechnica.com/gadgets/2026/06/how-to-burst-the-ai-bubble-strike-at-its-roots/ Comments URL: https://news.ycombinator.com/item?id=48657518 Points: 61 # Comments: 46",
+      "summary": "Article URL: https://arstechnica.com/gadgets/2026/06/how-to-burst-the-ai-bubble-strike-at-its-roots/ Comments URL: https://news.ycombinator.com/item?id=48657518 Points: 62 # Comments: 49",
       "source": "Hacker News",
       "published": "2026-06-24T09:57:10+00:00",
       "link": "https://arstechnica.com/gadgets/2026/06/how-to-burst-the-ai-bubble-strike-at-its-roots/"
@@ -276,7 +304,7 @@ const FEED_DATA = {
     },
     {
       "title": "US AI stock sell-off shakes markets from Wall Street to Asia",
-      "summary": "Article URL: https://www.theguardian.com/business/2026/jun/23/ai-stocks-sell-off-us-markets Comments URL: https://news.ycombinator.com/item?id=48654795 Points: 52 # Comments: 40",
+      "summary": "Article URL: https://www.theguardian.com/business/2026/jun/23/ai-stocks-sell-off-us-markets Comments URL: https://news.ycombinator.com/item?id=48654795 Points: 54 # Comments: 40",
       "source": "Hacker News",
       "published": "2026-06-24T03:36:50+00:00",
       "link": "https://www.theguardian.com/business/2026/jun/23/ai-stocks-sell-off-us-markets"
@@ -374,7 +402,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI's Affordability Crisis",
-      "summary": "Article URL: https://blog.dshr.org/2026/06/ais-affordability-crisis.html Comments URL: https://news.ycombinator.com/item?id=48646276 Points: 319 # Comments: 407",
+      "summary": "Article URL: https://blog.dshr.org/2026/06/ais-affordability-crisis.html Comments URL: https://news.ycombinator.com/item?id=48646276 Points: 322 # Comments: 411",
       "source": "Hacker News",
       "published": "2026-06-23T15:11:17+00:00",
       "link": "https://blog.dshr.org/2026/06/ais-affordability-crisis.html"
@@ -430,7 +458,7 @@ const FEED_DATA = {
     },
     {
       "title": "The Low-Tech AI of Elden Ring",
-      "summary": "Article URL: https://nega.tv/posts/low-tech-ai-of-elden-ring.html Comments URL: https://news.ycombinator.com/item?id=48643489 Points: 158 # Comments: 96",
+      "summary": "Article URL: https://nega.tv/posts/low-tech-ai-of-elden-ring.html Comments URL: https://news.ycombinator.com/item?id=48643489 Points: 161 # Comments: 96",
       "source": "Hacker News",
       "published": "2026-06-23T11:40:50+00:00",
       "link": "https://nega.tv/posts/low-tech-ai-of-elden-ring.html"
@@ -458,7 +486,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI Built a Nuke and Still Lost",
-      "summary": "Article URL: https://www.lwilko.com/blog/i-gave-an-ai-a-civilization Comments URL: https://news.ycombinator.com/item?id=48641927 Points: 88 # Comments: 97",
+      "summary": "Article URL: https://www.lwilko.com/blog/i-gave-an-ai-a-civilization Comments URL: https://news.ycombinator.com/item?id=48641927 Points: 89 # Comments: 97",
       "source": "Hacker News",
       "published": "2026-06-23T08:16:45+00:00",
       "link": "https://www.lwilko.com/blog/i-gave-an-ai-a-civilization"
@@ -472,7 +500,7 @@ const FEED_DATA = {
     },
     {
       "title": "OpenAI DayBreak – GPT-5.5-Cyber",
-      "summary": "Article URL: https://openai.com/index/daybreak-securing-the-world/ Comments URL: https://news.ycombinator.com/item?id=48639063 Points: 218 # Comments: 171",
+      "summary": "Article URL: https://openai.com/index/daybreak-securing-the-world/ Comments URL: https://news.ycombinator.com/item?id=48639063 Points: 220 # Comments: 173",
       "source": "Hacker News",
       "published": "2026-06-23T01:36:08+00:00",
       "link": "https://openai.com/index/daybreak-securing-the-world/"
@@ -507,7 +535,7 @@ const FEED_DATA = {
     },
     {
       "title": "Meta pauses AI training program tracking employee keystrokes after internal leak",
-      "summary": "Article URL: https://www.businessinsider.com/meta-ai-training-data-leak-exposed-employee-activity-across-company-2026-6 Comments URL: https://news.ycombinator.com/item?id=48636632 Points: 122 # Comments: 31",
+      "summary": "Article URL: https://www.businessinsider.com/meta-ai-training-data-leak-exposed-employee-activity-across-company-2026-6 Comments URL: https://news.ycombinator.com/item?id=48636632 Points: 123 # Comments: 31",
       "source": "Hacker News",
       "published": "2026-06-22T21:43:22+00:00",
       "link": "https://www.businessinsider.com/meta-ai-training-data-leak-exposed-employee-activity-across-company-2026-6"
@@ -689,7 +717,7 @@ const FEED_DATA = {
     },
     {
       "title": "Apertus – Open Foundation Model for Sovereign AI",
-      "summary": "Article URL: https://apertvs.ai/ Comments URL: https://news.ycombinator.com/item?id=48622778 Points: 532 # Comments: 183",
+      "summary": "Article URL: https://apertvs.ai/ Comments URL: https://news.ycombinator.com/item?id=48622778 Points: 533 # Comments: 183",
       "source": "Hacker News",
       "published": "2026-06-21T21:29:43+00:00",
       "link": "https://apertvs.ai/"
@@ -1372,34 +1400,6 @@ const FEED_DATA = {
       "source": "Hacker News",
       "published": "2026-06-17T19:22:02+00:00",
       "link": "https://www.wsj.com/tech/ai/anthropic-mythos-safety-nicholas-carlini-20bceaa3"
-    },
-    {
-      "title": "World leaders want American AI. They just don’t want America to be able to turn it off.",
-      "summary": "French President Macron and Indian PM Modi raised alarms at the G7 summit that the U.S. could cut off access to American AI overnight — a fear the Anthropic blackout just made real.",
-      "source": "TechCrunch",
-      "published": "2026-06-17T19:01:19+00:00",
-      "link": "https://techcrunch.com/2026/06/17/world-leaders-want-american-ai-they-just-dont-want-america-to-be-able-to-turn-it-off/"
-    },
-    {
-      "title": "Microsoft researcher builds a working neural network out of goats in Age of Empires II to critique AI science",
-      "summary": "A Microsoft researcher built a working neural network out of goats, bridges, and ice ramps in the Age of Empires II map editor. What looks like a joke is a pointed critique of AI research methods.",
-      "source": "The Decoder",
-      "published": "2026-06-17T18:43:47+00:00",
-      "link": "https://the-decoder.com/microsoft-researcher-builds-a-working-neural-network-out-of-goats-in-age-of-empires-ii-to-critique-ai-science/"
-    },
-    {
-      "title": "Anthropic becomes first AI startup to join the Frontier carbon removal coalition",
-      "summary": "Anthropic has joined the Frontier coalition, which received another $915M in pledges to fund carbon removal projects.",
-      "source": "TechCrunch",
-      "published": "2026-06-17T18:30:56+00:00",
-      "link": "https://techcrunch.com/2026/06/17/anthropic-becomes-first-ai-startup-to-join-the-frontier-carbon-removal-coalition/"
-    },
-    {
-      "title": "Anthropic got hit by export rules nobody understands",
-      "summary": "Anthropic has spent much of this week fighting to get its newest AI models back online after the Trump administration abruptly ordered the company to cut access for all foreign nationals, including users inside the US and its own employees, forcing Anthropic to block access to...",
-      "source": "The Verge",
-      "published": "2026-06-17T18:28:50+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/951703/anthropic-shutdown-export-controls"
     }
   ]
 };
