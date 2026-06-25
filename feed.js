@@ -1,6 +1,76 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-06-25T08:24:32.537454+00:00",
+  "lastUpdated": "2026-06-25T11:30:14.444064+00:00",
   "items": [
+    {
+      "title": "Authors Guild test finds some AI detectors perfectly identify human writing while others fail on every single text",
+      "summary": "The Authors Guild tested five AI detectors on human-written texts. Pangram and Grammarly correctly identified all of them, while Sidekicker and ZeroGPT flagged human-written articles as AI-generated.",
+      "source": "The Decoder",
+      "published": "2026-06-25T11:21:37+00:00",
+      "link": "https://the-decoder.com/authors-guild-test-finds-some-ai-detectors-perfectly-identify-human-writing-while-others-fail-on-every-single-text/"
+    },
+    {
+      "title": "World Cup Teams Are in a Race for AI Dominance",
+      "summary": "This year, FIFA is providing an AI agent that any team can use. Is it enough to level the playing field or will future winners be determined by which team can afford the best tools?",
+      "source": "Wired",
+      "published": "2026-06-25T11:00:00+00:00",
+      "link": "https://www.wired.com/story/fifa-world-cup-2026-artificial-intelligence-tools/"
+    },
+    {
+      "title": "Meta employees warn AI moderation rollout is too fast",
+      "summary": "By 2025, Meta will have already replaced about half of all human moderation requests with large language models and aims to increase that percentage to over 90 percent for certain types of content by the end of the year.",
+      "source": "The Decoder",
+      "published": "2026-06-25T10:07:19+00:00",
+      "link": "https://the-decoder.com/meta-employees-warn-ai-moderation-rollout-is-too-fast/"
+    },
+    {
+      "title": "Google keeps losing top AI researchers to rivals",
+      "summary": "Google appears to be hemorrhaging key AI researchers to competitors. The article Google keeps losing top AI researchers to rivals appeared first on The Decoder.",
+      "source": "The Decoder",
+      "published": "2026-06-25T10:04:32+00:00",
+      "link": "https://the-decoder.com/google-keeps-losing-top-ai-researchers-to-rivals/"
+    },
+    {
+      "title": "Qualcomm enters the data center market with its own processor",
+      "summary": "Qualcomm is pushing further into the data center market with a new processor called the Dragonfly C1000. The article Qualcomm enters the data center market with its own processor appeared first on The Decoder.",
+      "source": "The Decoder",
+      "published": "2026-06-25T10:03:21+00:00",
+      "link": "https://the-decoder.com/qualcomm-enters-the-data-center-market-with-its-own-processor/"
+    },
+    {
+      "title": "IBM has unveiled chip technology that could help extend Moore’s Law another decade",
+      "summary": "IBM has built a new prototype chip with around 100 billion transistors on an area the size of a fingernail, which is twice the density of the company’s previous state-of-the-art technology announced in 2021.",
+      "source": "MIT Tech Review",
+      "published": "2026-06-25T10:00:00+00:00",
+      "link": "https://www.technologyreview.com/2026/06/25/1139696/ibm-unveils-sub1nm-chip/"
+    },
+    {
+      "title": "British Police Built a Sprawling Crime-Prediction Machine. Some Results Couldn’t Be Trusted",
+      "summary": "As UK police embrace the AI revolution, a WIRED investigation reveals the messy inside story of one region’s experiment with predictive analytics.",
+      "source": "Wired",
+      "published": "2026-06-25T10:00:00+00:00",
+      "link": "https://www.wired.com/story/british-police-built-a-sprawling-crime-prediction-machine-some-results-couldnt-be-trusted/"
+    },
+    {
+      "title": "Facebook’s Creator Studio has been revived as an AI companion app",
+      "summary": "Meta is bringing back the Facebook Creator Studio page manager, now \"reimagined\" as a standalone AI companion app. The new app aims to make it easier for creators to connect with their audiences and show them \"exactly how to grow on Facebook,\" according to Meta's announcement.",
+      "source": "The Verge",
+      "published": "2026-06-25T09:06:19+00:00",
+      "link": "https://www.theverge.com/tech/956668/meta-facebook-creator-studio-ai-app-relaunch"
+    },
+    {
+      "title": "Google bakes computer control directly into Gemini 3.5 Flash, letting the model see and operate your screen",
+      "summary": "Google has integrated \"Computer Use\" directly into Gemini 3.5 Flash, letting the model operate computers, browsers, and mobile devices on its own. On the OSWorld benchmark, it scores 78.4, putting it on par with GPT-5.5.",
+      "source": "The Decoder",
+      "published": "2026-06-25T09:04:46+00:00",
+      "link": "https://the-decoder.com/google-bakes-computer-control-directly-into-gemini-3-5-flash-letting-the-model-see-and-operate-your-screen/"
+    },
+    {
+      "title": "The math behind the OpenAI Jalapeño chip",
+      "summary": "OpenAI’s financial trajectory hinges heavily on infrastructure costs, a reality that drove the development of the new custom OpenAI Jalapeño chip.",
+      "source": "AI News",
+      "published": "2026-06-25T06:00:00+00:00",
+      "link": "https://www.artificialintelligence-news.com/news/openai-jalapeno-chip-inference-economics/"
+    },
     {
       "title": "Former Infosys chief has a new startup that wants to challenge the IT services world",
       "summary": "Backed by Mayfield and Aramco Ventures, Vishal Sikka’s new venture brings together veterans from SAP, Infosys, and VianAI.",
@@ -59,7 +129,7 @@ const FEED_DATA = {
     },
     {
       "title": "Anthropic says Alibaba illicitly extracted Claude AI model capabilities",
-      "summary": "Article URL: https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/ Comments URL: https://news.ycombinator.com/item?id=48664814 Points: 374 # Comments: 632",
+      "summary": "Article URL: https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/ Comments URL: https://news.ycombinator.com/item?id=48664814 Points: 466 # Comments: 809",
       "source": "Hacker News",
       "published": "2026-06-24T19:48:01+00:00",
       "link": "https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/"
@@ -115,7 +185,7 @@ const FEED_DATA = {
     },
     {
       "title": "Big AI labs are hiring philosophers",
-      "summary": "https://archive.is/T1FJG Comments URL: https://news.ycombinator.com/item?id=48662452 Points: 136 # Comments: 121",
+      "summary": "https://archive.is/T1FJG Comments URL: https://news.ycombinator.com/item?id=48662452 Points: 139 # Comments: 126",
       "source": "Hacker News",
       "published": "2026-06-24T16:40:13+00:00",
       "link": "https://www.economist.com/science-and-technology/2026/06/24/why-big-ai-labs-are-hiring-so-many-philosophers"
@@ -164,14 +234,14 @@ const FEED_DATA = {
     },
     {
       "title": "For most of the world, open-source AI is the only way forward",
-      "summary": "Article URL: https://techstrong.ai/articles/for-most-of-the-world-open-source-ai-is-the-only-way-forward/ Comments URL: https://news.ycombinator.com/item?id=48660839 Points: 211 # Comments: 137",
+      "summary": "Article URL: https://techstrong.ai/articles/for-most-of-the-world-open-source-ai-is-the-only-way-forward/ Comments URL: https://news.ycombinator.com/item?id=48660839 Points: 217 # Comments: 139",
       "source": "Hacker News",
       "published": "2026-06-24T14:50:22+00:00",
       "link": "https://techstrong.ai/articles/for-most-of-the-world-open-source-ai-is-the-only-way-forward/"
     },
     {
       "title": "RubyLLM: A Ruby framework for all major AI providers",
-      "summary": "Article URL: https://rubyllm.com/ Comments URL: https://news.ycombinator.com/item?id=48660711 Points: 382 # Comments: 65",
+      "summary": "Article URL: https://rubyllm.com/ Comments URL: https://news.ycombinator.com/item?id=48660711 Points: 394 # Comments: 68",
       "source": "Hacker News",
       "published": "2026-06-24T14:41:41+00:00",
       "link": "https://rubyllm.com/"
@@ -213,7 +283,7 @@ const FEED_DATA = {
     },
     {
       "title": "Reid Hoffman says SpaceX 'not an AI company', xAI 'complete train wreck'",
-      "summary": "Article URL: https://fortune.com/2026/06/24/reid-hoffman-spacex-musk-openai-anthropic-gen-z-mistake/ Comments URL: https://news.ycombinator.com/item?id=48658647 Points: 227 # Comments: 261",
+      "summary": "Article URL: https://fortune.com/2026/06/24/reid-hoffman-spacex-musk-openai-anthropic-gen-z-mistake/ Comments URL: https://news.ycombinator.com/item?id=48658647 Points: 230 # Comments: 263",
       "source": "Hacker News",
       "published": "2026-06-24T12:23:59+00:00",
       "link": "https://fortune.com/2026/06/24/reid-hoffman-spacex-musk-openai-anthropic-gen-z-mistake/"
@@ -241,7 +311,7 @@ const FEED_DATA = {
     },
     {
       "title": "Haystack: Open-Source AI Framework for Production Ready Agents, RAG",
-      "summary": "Article URL: https://haystack.deepset.ai/ Comments URL: https://news.ycombinator.com/item?id=48658095 Points: 86 # Comments: 21",
+      "summary": "Article URL: https://haystack.deepset.ai/ Comments URL: https://news.ycombinator.com/item?id=48658095 Points: 87 # Comments: 21",
       "source": "Hacker News",
       "published": "2026-06-24T11:21:32+00:00",
       "link": "https://haystack.deepset.ai/"
@@ -402,7 +472,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI's Affordability Crisis",
-      "summary": "Article URL: https://blog.dshr.org/2026/06/ais-affordability-crisis.html Comments URL: https://news.ycombinator.com/item?id=48646276 Points: 324 # Comments: 411",
+      "summary": "Article URL: https://blog.dshr.org/2026/06/ais-affordability-crisis.html Comments URL: https://news.ycombinator.com/item?id=48646276 Points: 327 # Comments: 411",
       "source": "Hacker News",
       "published": "2026-06-23T15:11:17+00:00",
       "link": "https://blog.dshr.org/2026/06/ais-affordability-crisis.html"
@@ -458,7 +528,7 @@ const FEED_DATA = {
     },
     {
       "title": "The Low-Tech AI of Elden Ring",
-      "summary": "Article URL: https://nega.tv/posts/low-tech-ai-of-elden-ring.html Comments URL: https://news.ycombinator.com/item?id=48643489 Points: 161 # Comments: 96",
+      "summary": "Article URL: https://nega.tv/posts/low-tech-ai-of-elden-ring.html Comments URL: https://news.ycombinator.com/item?id=48643489 Points: 162 # Comments: 96",
       "source": "Hacker News",
       "published": "2026-06-23T11:40:50+00:00",
       "link": "https://nega.tv/posts/low-tech-ai-of-elden-ring.html"
@@ -1330,76 +1400,6 @@ const FEED_DATA = {
       "source": "AI News",
       "published": "2026-06-18T09:00:00+00:00",
       "link": "https://www.artificialintelligence-news.com/news/microsoft-sells-openai-models-china/"
-    },
-    {
-      "title": "The search for dark matter has been blown wide open",
-      "summary": "Underneath an Apennine massif, below the Jinping Mountains of Sichuan, and at the bottom of a South Dakota mine, there is a cosmic hunt afoot.",
-      "source": "MIT Tech Review",
-      "published": "2026-06-18T09:00:00+00:00",
-      "link": "https://www.technologyreview.com/2026/06/18/1138755/search-for-dark-matter-blown-wide-open/"
-    },
-    {
-      "title": "Google's Gemini co-lead Noam Shazeer joins OpenAI after two-year return stint",
-      "summary": "Noam Shazeer, co-author of the landmark \"Attention Is All You Need\" paper and former co-lead of Google's Gemini models, is joining OpenAI. He only returned to Google from Character.AI in 2024 as part of a $2.7 billion deal.",
-      "source": "The Decoder",
-      "published": "2026-06-18T07:08:29+00:00",
-      "link": "https://the-decoder.com/googles-gemini-co-lead-noam-shazeer-joins-openai-after-two-year-return-stint/"
-    },
-    {
-      "title": "Midjourney goes from generating cat images to full-body ultrasound scans",
-      "summary": "Midjourney CEO David Holz just showed off the company's first hardware product and plans to build a San Francisco spa, which he admitted is a bit different from the \"cat pictures\" produced by its AI image generator.",
-      "source": "The Verge",
-      "published": "2026-06-18T03:12:31+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/952011/midjourney-medical-ai-ultrasound-scan"
-    },
-    {
-      "title": "Midjourney Medical goes from generating ‘cat images’ to full-body ultrasound scans",
-      "summary": "Midjourney CEO David Holz just showed off the company's first hardware product and plans to build a San Francisco spa, which he admitted is a bit different from the \"cat pictures\" produced by its AI image generator.",
-      "source": "The Verge",
-      "published": "2026-06-18T03:12:31+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/952011/midjourney-medical-ai-ultrasound-scan"
-    },
-    {
-      "title": "AI Compute Extensions (ACE) Specification",
-      "summary": "Article URL: https://x86ecosystem.org/resource/ai-compute-extensions-ace-specification/ Comments URL: https://news.ycombinator.com/item?id=48579913 Points: 53 # Comments: 25",
-      "source": "Hacker News",
-      "published": "2026-06-18T02:32:01+00:00",
-      "link": "https://x86ecosystem.org/resource/ai-compute-extensions-ace-specification/"
-    },
-    {
-      "title": "The Korean Telecom Giant at the Center of Anthropic’s Mythos Controversy",
-      "summary": "Days before Anthropic took its most advanced AI models offline, the White House ordered the company to revoke SK Telecom’s access to Claude Mythos over claims of alleged ties to China.",
-      "source": "Wired",
-      "published": "2026-06-17T22:52:00+00:00",
-      "link": "https://www.wired.com/story/sk-telecom-anthropic-mythos-export-controls/"
-    },
-    {
-      "title": "After unveiling ridiculously expensive AR glasses, Snap’s stock takes a dive",
-      "summary": "Snap's long-awaited smart glasses debut hasn't exactly done wonders for the company's stock.",
-      "source": "TechCrunch",
-      "published": "2026-06-17T20:24:28+00:00",
-      "link": "https://techcrunch.com/2026/06/17/after-unveiling-ridiculously-expensive-ar-glasses-snaps-stock-takes-a-dive/"
-    },
-    {
-      "title": "NEA’s Tiffany Luck says enterprises are still figuring out their AI ROI",
-      "summary": "Tokenmaxxing was the hottest trend in Silicon Valley earlier this year, with CEOs encouraging employees to push AI usage as far as it would go. Then the bill came due.",
-      "source": "TechCrunch",
-      "published": "2026-06-17T20:17:38+00:00",
-      "link": "https://techcrunch.com/video/neas-tiffany-luck-says-enterprises-are-still-figuring-out-their-ai-roi/"
-    },
-    {
-      "title": "Tesco moving 40,000 server workloads off VMware amid Broadcom's “abusive conduct”",
-      "summary": "Tesco claimed Broadcom hiked its VMware prices by about 175 percent in UK court filings.",
-      "source": "Ars Technica",
-      "published": "2026-06-17T19:43:13+00:00",
-      "link": "https://arstechnica.com/information-technology/2026/06/tesco-moving-40000-server-workloads-off-vmware-amid-broadcoms-abusive-conduct/"
-    },
-    {
-      "title": "The hacker sent by Anthropic to calm the government's nerves about AI safety",
-      "summary": "Readable: https://www.wsj.com/tech/ai/anthropic-mythos-safety-nicholas... Comments URL: https://news.ycombinator.com/item?id=48575451 Points: 95 # Comments: 117",
-      "source": "Hacker News",
-      "published": "2026-06-17T19:22:02+00:00",
-      "link": "https://www.wsj.com/tech/ai/anthropic-mythos-safety-nicholas-carlini-20bceaa3"
     }
   ]
 };
