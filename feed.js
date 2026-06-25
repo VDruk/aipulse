@@ -1,5 +1,5 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-06-25T05:04:10.050668+00:00",
+  "lastUpdated": "2026-06-25T08:24:32.537454+00:00",
   "items": [
     {
       "title": "Former Infosys chief has a new startup that wants to challenge the IT services world",
@@ -59,7 +59,7 @@ const FEED_DATA = {
     },
     {
       "title": "Anthropic says Alibaba illicitly extracted Claude AI model capabilities",
-      "summary": "Article URL: https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/ Comments URL: https://news.ycombinator.com/item?id=48664814 Points: 209 # Comments: 358",
+      "summary": "Article URL: https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/ Comments URL: https://news.ycombinator.com/item?id=48664814 Points: 374 # Comments: 632",
       "source": "Hacker News",
       "published": "2026-06-24T19:48:01+00:00",
       "link": "https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/"
@@ -115,7 +115,7 @@ const FEED_DATA = {
     },
     {
       "title": "Big AI labs are hiring philosophers",
-      "summary": "https://archive.is/T1FJG Comments URL: https://news.ycombinator.com/item?id=48662452 Points: 132 # Comments: 116",
+      "summary": "https://archive.is/T1FJG Comments URL: https://news.ycombinator.com/item?id=48662452 Points: 136 # Comments: 121",
       "source": "Hacker News",
       "published": "2026-06-24T16:40:13+00:00",
       "link": "https://www.economist.com/science-and-technology/2026/06/24/why-big-ai-labs-are-hiring-so-many-philosophers"
@@ -164,14 +164,14 @@ const FEED_DATA = {
     },
     {
       "title": "For most of the world, open-source AI is the only way forward",
-      "summary": "Article URL: https://techstrong.ai/articles/for-most-of-the-world-open-source-ai-is-the-only-way-forward/ Comments URL: https://news.ycombinator.com/item?id=48660839 Points: 209 # Comments: 134",
+      "summary": "Article URL: https://techstrong.ai/articles/for-most-of-the-world-open-source-ai-is-the-only-way-forward/ Comments URL: https://news.ycombinator.com/item?id=48660839 Points: 211 # Comments: 137",
       "source": "Hacker News",
       "published": "2026-06-24T14:50:22+00:00",
       "link": "https://techstrong.ai/articles/for-most-of-the-world-open-source-ai-is-the-only-way-forward/"
     },
     {
       "title": "RubyLLM: A Ruby framework for all major AI providers",
-      "summary": "Article URL: https://rubyllm.com/ Comments URL: https://news.ycombinator.com/item?id=48660711 Points: 364 # Comments: 60",
+      "summary": "Article URL: https://rubyllm.com/ Comments URL: https://news.ycombinator.com/item?id=48660711 Points: 382 # Comments: 65",
       "source": "Hacker News",
       "published": "2026-06-24T14:41:41+00:00",
       "link": "https://rubyllm.com/"
@@ -192,7 +192,7 @@ const FEED_DATA = {
     },
     {
       "title": "OpenAI and Broadcom unveil LLM-optimized inference chip",
-      "summary": "Article URL: https://openai.com/index/openai-broadcom-jalapeno-inference-chip/ Comments URL: https://news.ycombinator.com/item?id=48659257 Points: 141 # Comments: 1",
+      "summary": "Article URL: https://openai.com/index/openai-broadcom-jalapeno-inference-chip/ Comments URL: https://news.ycombinator.com/item?id=48659257 Points: 142 # Comments: 1",
       "source": "Hacker News",
       "published": "2026-06-24T13:14:39+00:00",
       "link": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip/"
@@ -213,7 +213,7 @@ const FEED_DATA = {
     },
     {
       "title": "Reid Hoffman says SpaceX 'not an AI company', xAI 'complete train wreck'",
-      "summary": "Article URL: https://fortune.com/2026/06/24/reid-hoffman-spacex-musk-openai-anthropic-gen-z-mistake/ Comments URL: https://news.ycombinator.com/item?id=48658647 Points: 226 # Comments: 259",
+      "summary": "Article URL: https://fortune.com/2026/06/24/reid-hoffman-spacex-musk-openai-anthropic-gen-z-mistake/ Comments URL: https://news.ycombinator.com/item?id=48658647 Points: 227 # Comments: 261",
       "source": "Hacker News",
       "published": "2026-06-24T12:23:59+00:00",
       "link": "https://fortune.com/2026/06/24/reid-hoffman-spacex-musk-openai-anthropic-gen-z-mistake/"
@@ -304,7 +304,7 @@ const FEED_DATA = {
     },
     {
       "title": "US AI stock sell-off shakes markets from Wall Street to Asia",
-      "summary": "Article URL: https://www.theguardian.com/business/2026/jun/23/ai-stocks-sell-off-us-markets Comments URL: https://news.ycombinator.com/item?id=48654795 Points: 54 # Comments: 40",
+      "summary": "Article URL: https://www.theguardian.com/business/2026/jun/23/ai-stocks-sell-off-us-markets Comments URL: https://news.ycombinator.com/item?id=48654795 Points: 55 # Comments: 40",
       "source": "Hacker News",
       "published": "2026-06-24T03:36:50+00:00",
       "link": "https://www.theguardian.com/business/2026/jun/23/ai-stocks-sell-off-us-markets"
@@ -402,7 +402,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI's Affordability Crisis",
-      "summary": "Article URL: https://blog.dshr.org/2026/06/ais-affordability-crisis.html Comments URL: https://news.ycombinator.com/item?id=48646276 Points: 322 # Comments: 411",
+      "summary": "Article URL: https://blog.dshr.org/2026/06/ais-affordability-crisis.html Comments URL: https://news.ycombinator.com/item?id=48646276 Points: 324 # Comments: 411",
       "source": "Hacker News",
       "published": "2026-06-23T15:11:17+00:00",
       "link": "https://blog.dshr.org/2026/06/ais-affordability-crisis.html"
@@ -486,7 +486,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI Built a Nuke and Still Lost",
-      "summary": "Article URL: https://www.lwilko.com/blog/i-gave-an-ai-a-civilization Comments URL: https://news.ycombinator.com/item?id=48641927 Points: 89 # Comments: 97",
+      "summary": "Article URL: https://www.lwilko.com/blog/i-gave-an-ai-a-civilization Comments URL: https://news.ycombinator.com/item?id=48641927 Points: 89 # Comments: 98",
       "source": "Hacker News",
       "published": "2026-06-23T08:16:45+00:00",
       "link": "https://www.lwilko.com/blog/i-gave-an-ai-a-civilization"
@@ -703,7 +703,7 @@ const FEED_DATA = {
     },
     {
       "title": "Good results fine tuning a local LLM like Qwen 3:0.6B to categorize questions",
-      "summary": "Article URL: https://www.teachmecoolstuff.com/viewarticle/fine-tuning-a-local-llm-to-categorize-questions Comments URL: https://news.ycombinator.com/item?id=48623434 Points: 212 # Comments: 49",
+      "summary": "Article URL: https://www.teachmecoolstuff.com/viewarticle/fine-tuning-a-local-llm-to-categorize-questions Comments URL: https://news.ycombinator.com/item?id=48623434 Points: 213 # Comments: 49",
       "source": "Hacker News",
       "published": "2026-06-21T22:55:23+00:00",
       "link": "https://www.teachmecoolstuff.com/viewarticle/fine-tuning-a-local-llm-to-categorize-questions"
