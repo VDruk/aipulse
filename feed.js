@@ -1,5 +1,5 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-06-26T05:07:03.281193+00:00",
+  "lastUpdated": "2026-06-26T08:31:28.833175+00:00",
   "items": [
     {
       "title": "AI children's books, body horror edition",
@@ -17,7 +17,7 @@ const FEED_DATA = {
     },
     {
       "title": "The White House is asking OpenAI to slow roll the release of its new model over safety concerns",
-      "summary": "penAI reportedly plans to share its newest model, GPT 5.6, with a select group of partners instead of to the broader public. The reason: the Trump administration told it to.",
+      "summary": "OpenAI reportedly plans to share its newest model, GPT 5.6, with a select group of partners instead of with the broader public. The reason: the Trump administration told it to.",
       "source": "TechCrunch",
       "published": "2026-06-25T23:34:39+00:00",
       "link": "https://techcrunch.com/2026/06/25/the-white-house-is-asking-openai-to-slow-roll-the-release-of-its-new-model-over-safety-concerns/"
