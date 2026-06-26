@@ -1,6 +1,48 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-06-26T11:36:04.105511+00:00",
+  "lastUpdated": "2026-06-26T15:24:20.073662+00:00",
   "items": [
+    {
+      "title": "AI startup Lindy ditched Claude entirely for Deepseek, saving millions as cost pressure mounts on Anthropic",
+      "summary": "AI startup Lindy ditched Claude entirely for Deepseek after AI costs exceeded personnel costs.",
+      "source": "The Decoder",
+      "published": "2026-06-26T15:09:26+00:00",
+      "link": "https://the-decoder.com/ai-startup-lindy-ditched-claude-entirely-for-deepseek-saving-millions-as-cost-pressure-mounts-on-anthropic/"
+    },
+    {
+      "title": "Europe Is Fed Up and Wants Its Own AI",
+      "summary": "It's a stretch to think that the continent can build a top-tier model, but it has an advantage: Donald Trump.",
+      "source": "Wired",
+      "published": "2026-06-26T15:00:00+00:00",
+      "link": "https://www.wired.com/story/europe-is-fed-up-and-wants-its-own-ai/"
+    },
+    {
+      "title": "Anthropic’s Mythos mess is only getting worse",
+      "summary": "It's been two weeks since Anthropic took its Mythos-class models offline after a Friday evening ultimatum from the Trump administration. The company sprang into action immediately, sending a barrage of executives to Washington, DC.",
+      "source": "The Verge",
+      "published": "2026-06-26T14:07:03+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/957327/anthropic-mythos-fable-ai-trump-administration-negotiations"
+    },
+    {
+      "title": "SAP aligns commerce data for AI personalisation",
+      "summary": "SAP aligns fragmented commerce data structures to enable operational AI personalisation at the execution layer. Enterprise leadership routinely establishes objectives to anticipate customer requirements and deliver relevant interactions across digital touchpoints.",
+      "source": "AI News",
+      "published": "2026-06-26T12:55:48+00:00",
+      "link": "https://www.artificialintelligence-news.com/news/sap-aligns-commerce-data-for-ai-personalisation/"
+    },
+    {
+      "title": "Altman won't go public for less than $1 trillion, so OpenAI's IPO may slip to 2027",
+      "summary": "Advisors are telling OpenAI to hold off on going public until next year. The triggers: volatile tech markets and SpaceX's weak stock performance after its record IPO.",
+      "source": "The Decoder",
+      "published": "2026-06-26T12:43:53+00:00",
+      "link": "https://the-decoder.com/altman-wont-go-public-for-less-than-1-trillion-so-openais-ipo-may-slip-to-2027/"
+    },
+    {
+      "title": "The Download: brain-melting heatwaves and unprecedented OpenAI restrictions",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Heat waves mess with your brain.",
+      "source": "MIT Tech Review",
+      "published": "2026-06-26T12:10:00+00:00",
+      "link": "https://www.technologyreview.com/2026/06/26/1139780/the-download-heatwaves-brain-health-openai-restrictions/"
+    },
     {
       "title": "Anthropic doesn't need junior engineers anymore thanks to AI and warns of an economic shock when other industries follow",
       "summary": "\"Returns on intuition\": Why Anthropic no longer needs junior engineers and warns of an economic shock. The article Anthropic doesn't need junior engineers anymore thanks to AI and warns of an economic shock when other industries follow appeared first on The Decoder.",
@@ -583,18 +625,18 @@ const FEED_DATA = {
       "link": "https://the-decoder.com/mistrals-new-ocr-model-beats-competitors-in-72-percent-of-blind-test-cases-company-says/"
     },
     {
-      "title": "This flying solar-powered platform could deliver better internet from the air",
-      "summary": "As soon as August, a giant silver bullet will cut its way through the dry air of the southwestern US and cross the Pacific to reach the coast of Japan.",
-      "source": "MIT Tech Review",
-      "published": "2026-06-24T09:00:00+00:00",
-      "link": "https://www.technologyreview.com/2026/06/24/1138771/solar-powered-platform-delivers-better-internet/"
-    },
-    {
       "title": "Anthropic drops ‘workplace AI agents’ directly inside Slack",
       "summary": "Anthropic launched a beta version of its Claude Tag feature for Enterprise and Team tiers, shifting its chat model into shared Slack channels.",
       "source": "AI News",
       "published": "2026-06-24T09:00:00+00:00",
       "link": "https://www.artificialintelligence-news.com/news/anthropic-slack-workplace-ai-agents/"
+    },
+    {
+      "title": "This flying solar-powered platform could deliver better internet from the air",
+      "summary": "As soon as August, a giant silver bullet will cut its way through the dry air of the southwestern US and cross the Pacific to reach the coast of Japan.",
+      "source": "MIT Tech Review",
+      "published": "2026-06-24T09:00:00+00:00",
+      "link": "https://www.technologyreview.com/2026/06/24/1138771/solar-powered-platform-delivers-better-internet/"
     },
     {
       "title": "All challenges big and small",
@@ -1358,48 +1400,6 @@ const FEED_DATA = {
       "source": "MIT Tech Review",
       "published": "2026-06-19T09:00:00+00:00",
       "link": "https://www.technologyreview.com/2026/06/19/1139270/brain-computer-interface-trials-are-taking-off/"
-    },
-    {
-      "title": "Website \"In the Weights\" shows whether AI models know who you are",
-      "summary": "Two former OpenAI employees have built a website called \"In the Weights\" that reveals which people AI models can recall purely from their training data.",
-      "source": "The Decoder",
-      "published": "2026-06-19T08:24:50+00:00",
-      "link": "https://the-decoder.com/website-in-the-weights-shows-whether-ai-models-know-who-you-are/"
-    },
-    {
-      "title": "The US says ASML’s top chip tool may be in China, but how?",
-      "summary": "There's a commercial logic that cuts against the idea that ASML would risk its export license to arm a Chinese customer.",
-      "source": "TechCrunch",
-      "published": "2026-06-19T07:59:12+00:00",
-      "link": "https://techcrunch.com/2026/06/19/the-us-says-asmls-top-chip-tool-may-be-in-china-asml-says-it-isnt/"
-    },
-    {
-      "title": "The US says ASML’s top chip tool may be in China. ASML says it isn’t.",
-      "summary": "There's a commercial logic that cuts against the idea that ASML would risk its export license to arm a Chinese customer.",
-      "source": "TechCrunch",
-      "published": "2026-06-19T07:59:12+00:00",
-      "link": "https://techcrunch.com/2026/06/19/the-us-says-asmls-top-chip-tool-may-be-in-china-asml-says-it-isnt/"
-    },
-    {
-      "title": "Generative AI Is Having Its Herbalife Moment",
-      "summary": "Article URL: https://www.whatwelo.st/p/generative-ai-is-having-its-herbalife Comments URL: https://news.ycombinator.com/item?id=48595144 Points: 70 # Comments: 64",
-      "source": "Hacker News",
-      "published": "2026-06-19T05:37:51+00:00",
-      "link": "https://www.whatwelo.st/p/generative-ai-is-having-its-herbalife"
-    },
-    {
-      "title": "Barret Zoph is out at OpenAI again after just five months",
-      "summary": "Five months after returning to OpenAI, Barret Zoph - the company's head of enterprise AI sales - has departed, The Verge has learned.",
-      "source": "The Verge",
-      "published": "2026-06-19T04:49:33+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/952837/barret-zoph-openai-thinking-machines-lab"
-    },
-    {
-      "title": "Source: Elastic agrees to buy CRV-backed Deductive AI for up to $85M",
-      "summary": "Deductive AI, a startup that uses AI to catch and resolve bugs in software, was founded just three years ago.",
-      "source": "TechCrunch",
-      "published": "2026-06-19T00:51:11+00:00",
-      "link": "https://techcrunch.com/2026/06/18/source-elastic-agrees-to-buy-crv-backed-deductiveai-for-up-to-85m/"
     }
   ]
 };
