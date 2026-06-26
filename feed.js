@@ -1,6 +1,41 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-06-26T15:24:20.073662+00:00",
+  "lastUpdated": "2026-06-26T18:26:22.929324+00:00",
   "items": [
+    {
+      "title": "OpenAI poaches Uber India chief to lead its biggest market outside the U.S.",
+      "summary": "The hire marks OpenAI's latest push into India, expanding offices, partnerships and hiring.",
+      "source": "TechCrunch",
+      "published": "2026-06-26T18:19:36+00:00",
+      "link": "https://techcrunch.com/2026/06/26/openai-poaches-uber-india-chief-to-lead-its-biggest-market-outside-the-u-s/"
+    },
+    {
+      "title": "Why everyone from OpenAI to SpaceX is building their own chips (and turning up the heat on Nvidia)",
+      "summary": "Nvidia has dominated the AI chip market for years, but the era of total dependence might be ending.",
+      "source": "TechCrunch",
+      "published": "2026-06-26T17:43:22+00:00",
+      "link": "https://techcrunch.com/video/why-everyone-from-openai-to-spacex-is-building-their-own-chips-and-turning-up-the-heat-on-nvidia/"
+    },
+    {
+      "title": "An AI model programmed nonstop for 19 days on a single MirrorCode task that cost $2,600 to run",
+      "summary": "Epoch AI's new MirrorCode benchmark tests whether AI models can recreate complete programs without access to the original code. Claude Opus 4.7 leads with a 56 percent solve rate, rebuilding a 16,000-line toolkit in just 14 hours.",
+      "source": "The Decoder",
+      "published": "2026-06-26T17:24:27+00:00",
+      "link": "https://the-decoder.com/an-ai-model-programmed-nonstop-for-19-days-on-a-single-mirrorcode-task-that-cost-2600-to-run/"
+    },
+    {
+      "title": "OpenAI Has New AI Models. Here’s Why You Can’t Use Them",
+      "summary": "The White House asked OpenAI to delay the rollout of its GPT-5.6 AI models, two weeks after Anthropic had to take its most advanced AI models offline.",
+      "source": "Wired",
+      "published": "2026-06-26T17:05:40+00:00",
+      "link": "https://www.wired.com/story/openai-gpt-56-model-release-trump-admin-approval/"
+    },
+    {
+      "title": "It’s not about Anthropic vs. OpenAI anymore",
+      "summary": "AI models have progressed to the point where their capabilities have real political consequences. Dealing with those consequences will require collective action.",
+      "source": "TechCrunch",
+      "published": "2026-06-26T16:24:47+00:00",
+      "link": "https://techcrunch.com/2026/06/26/its-not-about-anthropic-vs-openai-anymore/"
+    },
     {
       "title": "AI startup Lindy ditched Claude entirely for Deepseek, saving millions as cost pressure mounts on Anthropic",
       "summary": "AI startup Lindy ditched Claude entirely for Deepseek after AI costs exceeded personnel costs.",
@@ -21,6 +56,13 @@ const FEED_DATA = {
       "source": "The Verge",
       "published": "2026-06-26T14:07:03+00:00",
       "link": "https://www.theverge.com/ai-artificial-intelligence/957327/anthropic-mythos-fable-ai-trump-administration-negotiations"
+    },
+    {
+      "title": "OpenAI’s Jalapeño chip is Big Tech’s spiciest move away from Nvidia",
+      "summary": "Nvidia has dominated the AI chip market for years, but the era of total dependence might be ending.",
+      "source": "TechCrunch",
+      "published": "2026-06-26T14:00:00+00:00",
+      "link": "https://techcrunch.com/podcast/openais-jalapeno-chip-is-big-techs-spiciest-move-away-from-nvidia/"
     },
     {
       "title": "SAP aligns commerce data for AI personalisation",
@@ -464,18 +506,18 @@ const FEED_DATA = {
       "link": "https://www.economist.com/science-and-technology/2026/06/24/why-big-ai-labs-are-hiring-so-many-philosophers"
     },
     {
-      "title": "Figma adds code layers, support for animations, more AI features in new update",
-      "summary": "Figma's update adds a new code layer, support for motion and shaders, and the ability to create custom plug-ins for various tasks using AI.",
-      "source": "TechCrunch",
-      "published": "2026-06-24T16:15:00+00:00",
-      "link": "https://techcrunch.com/2026/06/24/figma-adds-code-layers-support-for-animations-more-ai-features-in-new-update/"
-    },
-    {
       "title": "Figma now has AI motion graphics and shader tools",
       "summary": "Figma has revealed some new design and coding product updates at its annual Config conference that aim to help creatives \"push their ideas further\" and automate tedious tasks with AI.",
       "source": "The Verge",
       "published": "2026-06-24T16:15:00+00:00",
       "link": "https://www.theverge.com/tech/955831/figma-code-design-tools-config-2026-announcements"
+    },
+    {
+      "title": "Figma adds code layers, support for animations, more AI features in new update",
+      "summary": "Figma's update adds a new code layer, support for motion and shaders, and the ability to create custom plug-ins for various tasks using AI.",
+      "source": "TechCrunch",
+      "published": "2026-06-24T16:15:00+00:00",
+      "link": "https://techcrunch.com/2026/06/24/figma-adds-code-layers-support-for-animations-more-ai-features-in-new-update/"
     },
     {
       "title": "Europe’s extreme heat is shutting down power plants",
@@ -1358,48 +1400,6 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-06-19T13:00:00+00:00",
       "link": "https://techcrunch.com/2026/06/19/the-ceo-of-allbirds-new-ai-biz-has-a-plan-but-no-employees/"
-    },
-    {
-      "title": "The Download: AI bottleneck debates, and BCI trials take off",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.",
-      "source": "MIT Tech Review",
-      "published": "2026-06-19T12:10:00+00:00",
-      "link": "https://www.technologyreview.com/2026/06/19/1139327/the-download-llms-bottleneck-breakthrough-bci-trials-take-off/"
-    },
-    {
-      "title": "A startup claims it broke through a bottleneck that’s holding back LLMs",
-      "summary": "The Miami-based AI startup Subquadratic came out of stealth mode last month with a huge claim. It announced that it had solved a mathematical bottleneck that had been holding back large language models for almost a decade.",
-      "source": "MIT Tech Review",
-      "published": "2026-06-19T10:40:24+00:00",
-      "link": "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/"
-    },
-    {
-      "title": "OpenAI researchers show small doses of \"beneficial trait\" training make AI models broadly safer and harder to manipulate",
-      "summary": "OpenAI researchers show that reinforcement learning on desired behavioral traits like truthfulness and corrigibility works across domains. Training on health data also improved deception detection, and the model scored better on 44 out of 53 benchmarks.",
-      "source": "The Decoder",
-      "published": "2026-06-19T10:08:27+00:00",
-      "link": "https://the-decoder.com/openai-researchers-show-small-doses-of-beneficial-trait-training-make-ai-models-broadly-safer-and-harder-to-manipulate/"
-    },
-    {
-      "title": "e2e-assure introduces Cumulo, the U.K.’s only sovereign, AI-driven, zero-day SOC platform to secure IT and OT environments",
-      "summary": "Built around digital twin technology and customer-dedicated AI models, Cumulo answers the recent announcement by GCHQ for AI Cyber Shield, enabling early identification of threats and vulnerabilities before incidents occur Abingdon, U.K., 19 June, – SOC-as-a-service provider,...",
-      "source": "AI News",
-      "published": "2026-06-19T09:57:55+00:00",
-      "link": "https://www.artificialintelligence-news.com/news/e2e-assure-introduces-cumulo-the-u-k-s-only-sovereign-ai-driven-zero-day-soc-platform-to-secure-it-and-ot-environments/"
-    },
-    {
-      "title": "Google appeals ruling that made it directly liable for AI-generated search overview content",
-      "summary": "Google is appealing the ruling by Germany's Munich Regional Court, which held the company directly liable for inaccurate AI search results. The AI had falsely linked two Munich-based publishers to fraud schemes.",
-      "source": "The Decoder",
-      "published": "2026-06-19T09:49:22+00:00",
-      "link": "https://the-decoder.com/google-appeals-ruling-that-made-it-directly-liable-for-ai-generated-search-overview-content/"
-    },
-    {
-      "title": "Brain-computer interface trials are taking off",
-      "summary": "This week, I covered the story of Casey Harrell—a man with ALS who is “the first power user” of a brain implant, according to the researchers who worked with him. Harrell is paralyzed and unable to speak coherently without the device.",
-      "source": "MIT Tech Review",
-      "published": "2026-06-19T09:00:00+00:00",
-      "link": "https://www.technologyreview.com/2026/06/19/1139270/brain-computer-interface-trials-are-taking-off/"
     }
   ]
 };
