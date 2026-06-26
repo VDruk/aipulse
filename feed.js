@@ -1,9 +1,58 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-06-26T08:31:28.833175+00:00",
+  "lastUpdated": "2026-06-26T11:36:04.105511+00:00",
   "items": [
     {
+      "title": "Anthropic doesn't need junior engineers anymore thanks to AI and warns of an economic shock when other industries follow",
+      "summary": "\"Returns on intuition\": Why Anthropic no longer needs junior engineers and warns of an economic shock. The article Anthropic doesn't need junior engineers anymore thanks to AI and warns of an economic shock when other industries follow appeared first on The Decoder.",
+      "source": "The Decoder",
+      "published": "2026-06-26T11:18:07+00:00",
+      "link": "https://the-decoder.com/anthropic-doesnt-need-junior-engineers-anymore-thanks-to-ai-and-warns-of-an-economic-shock-when-other-industries-follow/"
+    },
+    {
+      "title": "Linux Foundation and 20 tech giants launch Akrites to fix open-source flaws before AI-powered attacks hit",
+      "summary": "About twenty tech companies, AI labs, and banks are joining forces through Akrites to fix vulnerabilities in critical open-source software before AI tools can exploit them.",
+      "source": "The Decoder",
+      "published": "2026-06-26T10:07:05+00:00",
+      "link": "https://the-decoder.com/linux-foundation-and-20-tech-giants-launch-akrites-to-fix-open-source-flaws-before-ai-powered-attacks-hit/"
+    },
+    {
+      "title": "Heat waves mess with your brain. Scientists are trying to figure out why.",
+      "summary": "It’s been hot in London this week. Really hot.",
+      "source": "MIT Tech Review",
+      "published": "2026-06-26T09:00:00+00:00",
+      "link": "https://www.technologyreview.com/2026/06/26/1139760/heat-waves-mess-with-your-brain-scientists-are-trying-to-figure-out-why/"
+    },
+    {
+      "title": "OpenAI's GPT 5.6 rollout now requires US government approval on a \"customer by customer basis\"",
+      "summary": "At the request of the U.S. government, OpenAI will initially make its new GPT-5.6 model available only to select partners, with access approved on a \"customer by customer\" basis.",
+      "source": "The Decoder",
+      "published": "2026-06-26T08:35:35+00:00",
+      "link": "https://the-decoder.com/openais-gpt-5-6-rollout-now-requires-us-government-approval-on-a-customer-by-customer-basis/"
+    },
+    {
+      "title": "Why current LLM costs are not sustainable",
+      "summary": "Article URL: https://aditya.patadia.org/p/ai-and-cloud-costs Comments URL: https://news.ycombinator.com/item?id=48683588 Points: 90 # Comments: 160",
+      "source": "Hacker News",
+      "published": "2026-06-26T07:44:11+00:00",
+      "link": "https://aditya.patadia.org/p/ai-and-cloud-costs"
+    },
+    {
+      "title": "US Govt to individually approve who gets GPT 5.6",
+      "summary": "Article URL: https://old.reddit.com/r/LocalLLaMA/comments/1ufo0un/us_govt_to_individually_approve_who_gets_gpt_56/ Comments URL: https://news.ycombinator.com/item?id=48683021 Points: 93 # Comments: 125",
+      "source": "Hacker News",
+      "published": "2026-06-26T06:24:39+00:00",
+      "link": "https://old.reddit.com/r/LocalLLaMA/comments/1ufo0un/us_govt_to_individually_approve_who_gets_gpt_56/"
+    },
+    {
+      "title": "What happened after 2k people tried to hack my AI assistant",
+      "summary": "Article URL: https://www.fernandoi.cl/posts/hackmyclaw/ Comments URL: https://news.ycombinator.com/item?id=48681687 Points: 192 # Comments: 71",
+      "source": "Hacker News",
+      "published": "2026-06-26T02:29:23+00:00",
+      "link": "https://www.fernandoi.cl/posts/hackmyclaw/"
+    },
+    {
       "title": "AI children's books, body horror edition",
-      "summary": "Article URL: https://lcamtuf.substack.com/p/ai-childrens-books-body-horror-edition Comments URL: https://news.ycombinator.com/item?id=48681250 Points: 161 # Comments: 52",
+      "summary": "Article URL: https://lcamtuf.substack.com/p/ai-childrens-books-body-horror-edition Comments URL: https://news.ycombinator.com/item?id=48681250 Points: 185 # Comments: 66",
       "source": "Hacker News",
       "published": "2026-06-26T01:15:14+00:00",
       "link": "https://lcamtuf.substack.com/p/ai-childrens-books-body-horror-edition"
@@ -37,6 +86,13 @@ const FEED_DATA = {
       "link": "https://www.theverge.com/ai-artificial-intelligence/957372/openai-will-delay-gpt-5-6-after-trump-administration-request"
     },
     {
+      "title": "OpenAI to Stagger Release of GPT 5.6 at Request of U.S. Government",
+      "summary": "Article URL: https://velo.xyz/news/1908 Comments URL: https://news.ycombinator.com/item?id=48678789 Points: 55 # Comments: 20",
+      "source": "Hacker News",
+      "published": "2026-06-25T20:28:25+00:00",
+      "link": "https://velo.xyz/news/1908"
+    },
+    {
       "title": "Patronus AI lands $50M to build ‘digital worlds’ that stress-test AI agents",
       "summary": "Agent-testing startup Patronus AI, founded by former Meta AI researchers, is experiencing nearly insatiable demand, its investor says.",
       "source": "TechCrunch",
@@ -52,7 +108,7 @@ const FEED_DATA = {
     },
     {
       "title": "Apple to skip high-end M6 Mac chips in favor of AI-focused M7 line",
-      "summary": "Giftlink: https://www.bloomberg.com/news/articles/2026-06-25/apple-to-...also https://www.msn.com/en-ca/lifestyle/shopping/apple-to-skip-h... Comments URL: https://news.ycombinator.com/item?id=48676795 Points: 163 # Comments: 127",
+      "summary": "Giftlink: https://www.bloomberg.com/news/articles/2026-06-25/apple-to-...also https://www.msn.com/en-ca/lifestyle/shopping/apple-to-skip-h... Comments URL: https://news.ycombinator.com/item?id=48676795 Points: 279 # Comments: 275",
       "source": "Hacker News",
       "published": "2026-06-25T17:38:44+00:00",
       "link": "https://www.bloomberg.com/news/articles/2026-06-25/apple-to-skip-high-end-m6-mac-chips-to-launch-m7-pro-m7-max-m7-ultra-instead?embedded-checkout=true"
@@ -94,7 +150,7 @@ const FEED_DATA = {
     },
     {
       "title": "Ford AI hiccups push carmaker to rehire ‘gray beard’ inspectors",
-      "summary": "https://archive.ph/DI4Cq Comments URL: https://news.ycombinator.com/item?id=48674446 Points: 582 # Comments: 307",
+      "summary": "https://archive.ph/DI4Cq Comments URL: https://news.ycombinator.com/item?id=48674446 Points: 589 # Comments: 315",
       "source": "Hacker News",
       "published": "2026-06-25T14:58:50+00:00",
       "link": "https://www.bloomberg.com/news/articles/2026-06-25/ford-has-been-rehiring-quality-inspectors-after-ai-fell-short"
@@ -143,14 +199,14 @@ const FEED_DATA = {
     },
     {
       "title": "Political bias in AI: Where the AI models stand",
-      "summary": "Article URL: https://trakkr.ai/bias Comments URL: https://news.ycombinator.com/item?id=48672779 Points: 133 # Comments: 245",
+      "summary": "Article URL: https://trakkr.ai/bias Comments URL: https://news.ycombinator.com/item?id=48672779 Points: 147 # Comments: 260",
       "source": "Hacker News",
       "published": "2026-06-25T13:08:31+00:00",
       "link": "https://trakkr.ai/bias"
     },
     {
       "title": "Why Does Everyone Hate AI?",
-      "summary": "Article URL: https://paulkrugman.substack.com/p/why-does-everyone-hate-ai Comments URL: https://news.ycombinator.com/item?id=48672694 Points: 82 # Comments: 141",
+      "summary": "Article URL: https://paulkrugman.substack.com/p/why-does-everyone-hate-ai Comments URL: https://news.ycombinator.com/item?id=48672694 Points: 85 # Comments: 142",
       "source": "Hacker News",
       "published": "2026-06-25T12:59:10+00:00",
       "link": "https://paulkrugman.substack.com/p/why-does-everyone-hate-ai"
@@ -304,7 +360,7 @@ const FEED_DATA = {
     },
     {
       "title": "Anthropic says Alibaba illicitly extracted Claude AI model capabilities",
-      "summary": "Article URL: https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/ Comments URL: https://news.ycombinator.com/item?id=48664814 Points: 756 # Comments: 1224",
+      "summary": "Article URL: https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/ Comments URL: https://news.ycombinator.com/item?id=48664814 Points: 762 # Comments: 1246",
       "source": "Hacker News",
       "published": "2026-06-24T19:48:01+00:00",
       "link": "https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/"
@@ -360,7 +416,7 @@ const FEED_DATA = {
     },
     {
       "title": "Big AI labs are hiring philosophers",
-      "summary": "https://archive.is/T1FJG Comments URL: https://news.ycombinator.com/item?id=48662452 Points: 147 # Comments: 133",
+      "summary": "https://archive.is/T1FJG Comments URL: https://news.ycombinator.com/item?id=48662452 Points: 149 # Comments: 135",
       "source": "Hacker News",
       "published": "2026-06-24T16:40:13+00:00",
       "link": "https://www.economist.com/science-and-technology/2026/06/24/why-big-ai-labs-are-hiring-so-many-philosophers"
@@ -416,7 +472,7 @@ const FEED_DATA = {
     },
     {
       "title": "RubyLLM: A Ruby framework for all major AI providers",
-      "summary": "Article URL: https://rubyllm.com/ Comments URL: https://news.ycombinator.com/item?id=48660711 Points: 442 # Comments: 78",
+      "summary": "Article URL: https://rubyllm.com/ Comments URL: https://news.ycombinator.com/item?id=48660711 Points: 442 # Comments: 81",
       "source": "Hacker News",
       "published": "2026-06-24T14:41:41+00:00",
       "link": "https://rubyllm.com/"
@@ -458,7 +514,7 @@ const FEED_DATA = {
     },
     {
       "title": "Reid Hoffman says SpaceX 'not an AI company', xAI 'complete train wreck'",
-      "summary": "Article URL: https://fortune.com/2026/06/24/reid-hoffman-spacex-musk-openai-anthropic-gen-z-mistake/ Comments URL: https://news.ycombinator.com/item?id=48658647 Points: 236 # Comments: 268",
+      "summary": "Article URL: https://fortune.com/2026/06/24/reid-hoffman-spacex-musk-openai-anthropic-gen-z-mistake/ Comments URL: https://news.ycombinator.com/item?id=48658647 Points: 236 # Comments: 266",
       "source": "Hacker News",
       "published": "2026-06-24T12:23:59+00:00",
       "link": "https://fortune.com/2026/06/24/reid-hoffman-spacex-musk-openai-anthropic-gen-z-mistake/"
@@ -486,7 +542,7 @@ const FEED_DATA = {
     },
     {
       "title": "Haystack: Open-Source AI Framework for Production Ready Agents, RAG",
-      "summary": "Article URL: https://haystack.deepset.ai/ Comments URL: https://news.ycombinator.com/item?id=48658095 Points: 89 # Comments: 21",
+      "summary": "Article URL: https://haystack.deepset.ai/ Comments URL: https://news.ycombinator.com/item?id=48658095 Points: 89 # Comments: 22",
       "source": "Hacker News",
       "published": "2026-06-24T11:21:32+00:00",
       "link": "https://haystack.deepset.ai/"
@@ -534,18 +590,18 @@ const FEED_DATA = {
       "link": "https://www.technologyreview.com/2026/06/24/1138771/solar-powered-platform-delivers-better-internet/"
     },
     {
-      "title": "All challenges big and small",
-      "summary": "When I was 18, I skipped my high school graduation and headed to Kuwait. It was 1991, the first Gulf War had just ended, and the country was in complete chaos.",
-      "source": "MIT Tech Review",
-      "published": "2026-06-24T09:00:00+00:00",
-      "link": "https://www.technologyreview.com/2026/06/24/1138853/editors-letter-july-2026/"
-    },
-    {
       "title": "Anthropic drops ‘workplace AI agents’ directly inside Slack",
       "summary": "Anthropic launched a beta version of its Claude Tag feature for Enterprise and Team tiers, shifting its chat model into shared Slack channels.",
       "source": "AI News",
       "published": "2026-06-24T09:00:00+00:00",
       "link": "https://www.artificialintelligence-news.com/news/anthropic-slack-workplace-ai-agents/"
+    },
+    {
+      "title": "All challenges big and small",
+      "summary": "When I was 18, I skipped my high school graduation and headed to Kuwait. It was 1991, the first Gulf War had just ended, and the country was in complete chaos.",
+      "source": "MIT Tech Review",
+      "published": "2026-06-24T09:00:00+00:00",
+      "link": "https://www.technologyreview.com/2026/06/24/1138853/editors-letter-july-2026/"
     },
     {
       "title": "US AI stock sell-off shakes markets from Wall Street to Asia",
@@ -647,7 +703,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI's Affordability Crisis",
-      "summary": "Article URL: https://blog.dshr.org/2026/06/ais-affordability-crisis.html Comments URL: https://news.ycombinator.com/item?id=48646276 Points: 329 # Comments: 417",
+      "summary": "Article URL: https://blog.dshr.org/2026/06/ais-affordability-crisis.html Comments URL: https://news.ycombinator.com/item?id=48646276 Points: 330 # Comments: 419",
       "source": "Hacker News",
       "published": "2026-06-23T15:11:17+00:00",
       "link": "https://blog.dshr.org/2026/06/ais-affordability-crisis.html"
@@ -1344,62 +1400,6 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-06-19T00:51:11+00:00",
       "link": "https://techcrunch.com/2026/06/18/source-elastic-agrees-to-buy-crv-backed-deductiveai-for-up-to-85m/"
-    },
-    {
-      "title": "Source: Elastic agrees to buy CRV-backed DeductiveAI for up to $85M",
-      "summary": "DeductiveAI, a startup that uses AI to catch and resolve bugs in software, was founded just three years ago.",
-      "source": "TechCrunch",
-      "published": "2026-06-19T00:51:11+00:00",
-      "link": "https://techcrunch.com/2026/06/18/source-elastic-agrees-to-buy-crv-backed-deductiveai-for-up-to-85m/"
-    },
-    {
-      "title": "AI inference startup Baseten reportedly raising $1.5B months after its last mega-round",
-      "summary": "Startup Baseten is reportedly close to finalizing a $1.5 billion round at a $13 billion as the “inference gold rush\" marches on.",
-      "source": "TechCrunch",
-      "published": "2026-06-18T21:20:13+00:00",
-      "link": "https://techcrunch.com/2026/06/18/ai-inference-startup-baseten-reportedly-raising-1-5b-months-after-its-last-mega-round/"
-    },
-    {
-      "title": "The White House Is Making Up Its Rules for AI in Real Time",
-      "summary": "Anthropic still can’t distribute Claude Mythos or Fable 5 after running afoul of the Trump administration. But no one can say exactly what the company did wrong.",
-      "source": "Wired",
-      "published": "2026-06-18T21:03:43+00:00",
-      "link": "https://www.wired.com/story/anthropic-mythos-export-controls-ai-regulations/"
-    },
-    {
-      "title": "Snap spins off AI video team into new company, Dotmo, due to costs",
-      "summary": "The Snapchat maker is spinning off yet another internal unit. Dotmo will be composed of current Snap staff who are leaving the social media company to focus on AI video development.",
-      "source": "TechCrunch",
-      "published": "2026-06-18T20:30:00+00:00",
-      "link": "https://techcrunch.com/2026/06/18/snap-spins-off-ai-video-team-into-new-company-dotmo-due-to-costs/"
-    },
-    {
-      "title": "Amazon investigating engineers who criticized AI data center expansion",
-      "summary": "Article URL: https://www.cnbc.com/2026/06/18/amazon-engineers-ai-data-center-opposition.html Comments URL: https://news.ycombinator.com/item?id=48590891 Points: 56 # Comments: 16",
-      "source": "Hacker News",
-      "published": "2026-06-18T20:14:15+00:00",
-      "link": "https://www.cnbc.com/2026/06/18/amazon-engineers-ai-data-center-opposition.html"
-    },
-    {
-      "title": "OpenAI is bringing on some big guns in the lead-up to its IPO",
-      "summary": "OpenAI is bulking up before its IPO, landing Transformer co-inventor Noam Shazeer from Google DeepMind and former Trump AI policy official Dean Ball in the same week.",
-      "source": "TechCrunch",
-      "published": "2026-06-18T19:59:22+00:00",
-      "link": "https://techcrunch.com/2026/06/18/openai-is-bringing-on-some-big-guns-in-the-lead-up-to-its-ipo/"
-    },
-    {
-      "title": "Meta’s AI Workers Are Revolting, Peter Thiel’s Secret Society, and SBF’s Plea to Trump",
-      "summary": "On today’s Uncanny Valley, we dive into the dysfunction in Meta’s newly formed AI unit and why it’s been driving already-low employee morale even further into the ground.",
-      "source": "Wired",
-      "published": "2026-06-18T19:29:51+00:00",
-      "link": "https://www.wired.com/story/uncanny-valley-podcast-meta-ai-workers-revolting-peter-thiel-secret-society-sbf-plea-to-trump/"
-    },
-    {
-      "title": "ChatGPT's new health upgrade beats doctor-written answers, OpenAI says",
-      "summary": "OpenAI has upgraded ChatGPT's healthcare capabilities with GPT-5.5 Instant. In the company's own comparative tests, the model now outscores answers written by doctors in accuracy, clarity, and completeness.",
-      "source": "The Decoder",
-      "published": "2026-06-18T19:17:00+00:00",
-      "link": "https://the-decoder.com/chatgpts-new-health-upgrade-beats-doctor-written-answers-openai-says/"
     }
   ]
 };
