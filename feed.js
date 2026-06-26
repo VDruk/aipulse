@@ -1,8 +1,29 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-06-26T18:26:22.929324+00:00",
+  "lastUpdated": "2026-06-26T22:04:59.212842+00:00",
   "items": [
     {
-      "title": "OpenAI poaches Uber India chief to lead its biggest market outside the U.S.",
+      "title": "OpenAI limits GPT-5.6 rollout after government request, says restrictions shouldn’t be the norm",
+      "summary": "“We don’t believe this kind of government access process should become the long-term default,” says OpenAI. “It keeps the best tools from users, developers, enterprises, cyber defenders, and global partners who need them.”",
+      "source": "TechCrunch",
+      "published": "2026-06-26T18:32:14+00:00",
+      "link": "https://techcrunch.com/2026/06/26/openai-limits-gpt-5-6-rollout-after-government-request-says-restrictions-shouldnt-be-the-norm/"
+    },
+    {
+      "title": "OpenAI's GPT-5.6 Sol launches to rival Claude Mythos under government access rules it calls unsustainable",
+      "summary": "OpenAI's new flagship GPT-5.6 Sol beats Anthropic's Claude Mythos 5 in coding benchmarks, but the US government is forcing a restricted rollout. OpenAI isn't happy about it.",
+      "source": "The Decoder",
+      "published": "2026-06-26T18:30:01+00:00",
+      "link": "https://the-decoder.com/openais-claude-mythos-competitor-gpt-5-6-sol-launches-under-government-controlled-access-it-calls-unsustainable/"
+    },
+    {
+      "title": "U.S. government will decide who gets to use GPT-5.6",
+      "summary": "https://archive.ph/PCQQl Comments URL: https://news.ycombinator.com/item?id=48690101 Points: 578 # Comments: 727",
+      "source": "Hacker News",
+      "published": "2026-06-26T18:23:14+00:00",
+      "link": "https://www.washingtonpost.com/technology/2026/06/26/openai-says-us-government-will-vet-users-its-latest-ai-model/"
+    },
+    {
+      "title": "OpenAI poaches Uber India chief to lead its biggest market outside the US",
       "summary": "The hire marks OpenAI's latest push into India, expanding offices, partnerships and hiring.",
       "source": "TechCrunch",
       "published": "2026-06-26T18:19:36+00:00",
@@ -23,11 +44,25 @@ const FEED_DATA = {
       "link": "https://the-decoder.com/an-ai-model-programmed-nonstop-for-19-days-on-a-single-mirrorcode-task-that-cost-2600-to-run/"
     },
     {
+      "title": "Previewing GPT‑5.6 Sol: a next-generation model",
+      "summary": "System card: https://deploymentsafety.openai.com/gpt-5-6-preview Comments URL: https://news.ycombinator.com/item?id=48689028 Points: 664 # Comments: 406",
+      "source": "Hacker News",
+      "published": "2026-06-26T17:06:55+00:00",
+      "link": "https://openai.com/index/previewing-gpt-5-6-sol/"
+    },
+    {
       "title": "OpenAI Has New AI Models. Here’s Why You Can’t Use Them",
       "summary": "The White House asked OpenAI to delay the rollout of its GPT-5.6 AI models, two weeks after Anthropic had to take its most advanced AI models offline.",
       "source": "Wired",
       "published": "2026-06-26T17:05:40+00:00",
       "link": "https://www.wired.com/story/openai-gpt-56-model-release-trump-admin-approval/"
+    },
+    {
+      "title": "OpenAI unveils GPT-5.6 amid US AI regulatory drama",
+      "summary": "Less than 24 hours after news broke that OpenAI would stagger its next model release at the request of the Trump administration, that model, GPT-5.6, is here.",
+      "source": "The Verge",
+      "published": "2026-06-26T17:00:00+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/957845/openai-gpt-5-6-trump-administration-ai-preview"
     },
     {
       "title": "It’s not about Anthropic vs. OpenAI anymore",
@@ -42,6 +77,13 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-06-26T15:09:26+00:00",
       "link": "https://the-decoder.com/ai-startup-lindy-ditched-claude-entirely-for-deepseek-saving-millions-as-cost-pressure-mounts-on-anthropic/"
+    },
+    {
+      "title": "The AI industry is pouring millions into US elections",
+      "summary": "Article URL: https://www.bloodinthemachine.com/p/the-ai-industry-is-pouring-hundreds Comments URL: https://news.ycombinator.com/item?id=48687483 Points: 108 # Comments: 78",
+      "source": "Hacker News",
+      "published": "2026-06-26T15:02:43+00:00",
+      "link": "https://www.bloodinthemachine.com/p/the-ai-industry-is-pouring-hundreds"
     },
     {
       "title": "Europe Is Fed Up and Wants Its Own AI",
@@ -63,6 +105,13 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-06-26T14:00:00+00:00",
       "link": "https://techcrunch.com/podcast/openais-jalapeno-chip-is-big-techs-spiciest-move-away-from-nvidia/"
+    },
+    {
+      "title": "The AI backlash is only getting started",
+      "summary": "Article URL: https://www.economist.com/leaders/2026/06/25/the-ai-backlash-is-only-getting-started Comments URL: https://news.ycombinator.com/item?id=48686219 Points: 84 # Comments: 244",
+      "source": "Hacker News",
+      "published": "2026-06-26T13:12:04+00:00",
+      "link": "https://www.economist.com/leaders/2026/06/25/the-ai-backlash-is-only-getting-started"
     },
     {
       "title": "SAP aligns commerce data for AI personalisation",
@@ -115,28 +164,28 @@ const FEED_DATA = {
     },
     {
       "title": "Why current LLM costs are not sustainable",
-      "summary": "Article URL: https://aditya.patadia.org/p/ai-and-cloud-costs Comments URL: https://news.ycombinator.com/item?id=48683588 Points: 90 # Comments: 160",
+      "summary": "Article URL: https://aditya.patadia.org/p/ai-and-cloud-costs Comments URL: https://news.ycombinator.com/item?id=48683588 Points: 107 # Comments: 188",
       "source": "Hacker News",
       "published": "2026-06-26T07:44:11+00:00",
       "link": "https://aditya.patadia.org/p/ai-and-cloud-costs"
     },
     {
       "title": "US Govt to individually approve who gets GPT 5.6",
-      "summary": "Article URL: https://old.reddit.com/r/LocalLLaMA/comments/1ufo0un/us_govt_to_individually_approve_who_gets_gpt_56/ Comments URL: https://news.ycombinator.com/item?id=48683021 Points: 93 # Comments: 125",
+      "summary": "Article URL: https://old.reddit.com/r/LocalLLaMA/comments/1ufo0un/us_govt_to_individually_approve_who_gets_gpt_56/ Comments URL: https://news.ycombinator.com/item?id=48683021 Points: 137 # Comments: 1",
       "source": "Hacker News",
       "published": "2026-06-26T06:24:39+00:00",
       "link": "https://old.reddit.com/r/LocalLLaMA/comments/1ufo0un/us_govt_to_individually_approve_who_gets_gpt_56/"
     },
     {
       "title": "What happened after 2k people tried to hack my AI assistant",
-      "summary": "Article URL: https://www.fernandoi.cl/posts/hackmyclaw/ Comments URL: https://news.ycombinator.com/item?id=48681687 Points: 192 # Comments: 71",
+      "summary": "Article URL: https://www.fernandoi.cl/posts/hackmyclaw/ Comments URL: https://news.ycombinator.com/item?id=48681687 Points: 345 # Comments: 156",
       "source": "Hacker News",
       "published": "2026-06-26T02:29:23+00:00",
       "link": "https://www.fernandoi.cl/posts/hackmyclaw/"
     },
     {
       "title": "AI children's books, body horror edition",
-      "summary": "Article URL: https://lcamtuf.substack.com/p/ai-childrens-books-body-horror-edition Comments URL: https://news.ycombinator.com/item?id=48681250 Points: 185 # Comments: 66",
+      "summary": "Article URL: https://lcamtuf.substack.com/p/ai-childrens-books-body-horror-edition Comments URL: https://news.ycombinator.com/item?id=48681250 Points: 203 # Comments: 77",
       "source": "Hacker News",
       "published": "2026-06-26T01:15:14+00:00",
       "link": "https://lcamtuf.substack.com/p/ai-childrens-books-body-horror-edition"
@@ -171,7 +220,7 @@ const FEED_DATA = {
     },
     {
       "title": "OpenAI to Stagger Release of GPT 5.6 at Request of U.S. Government",
-      "summary": "Article URL: https://velo.xyz/news/1908 Comments URL: https://news.ycombinator.com/item?id=48678789 Points: 55 # Comments: 20",
+      "summary": "Article URL: https://velo.xyz/news/1908 Comments URL: https://news.ycombinator.com/item?id=48678789 Points: 74 # Comments: 26",
       "source": "Hacker News",
       "published": "2026-06-25T20:28:25+00:00",
       "link": "https://velo.xyz/news/1908"
@@ -192,7 +241,7 @@ const FEED_DATA = {
     },
     {
       "title": "Apple to skip high-end M6 Mac chips in favor of AI-focused M7 line",
-      "summary": "Giftlink: https://www.bloomberg.com/news/articles/2026-06-25/apple-to-...also https://www.msn.com/en-ca/lifestyle/shopping/apple-to-skip-h... Comments URL: https://news.ycombinator.com/item?id=48676795 Points: 279 # Comments: 275",
+      "summary": "Giftlink: https://www.bloomberg.com/news/articles/2026-06-25/apple-to-...also https://www.msn.com/en-ca/lifestyle/shopping/apple-to-skip-h... Comments URL: https://news.ycombinator.com/item?id=48676795 Points: 304 # Comments: 350",
       "source": "Hacker News",
       "published": "2026-06-25T17:38:44+00:00",
       "link": "https://www.bloomberg.com/news/articles/2026-06-25/apple-to-skip-high-end-m6-mac-chips-to-launch-m7-pro-m7-max-m7-ultra-instead?embedded-checkout=true"
@@ -234,7 +283,7 @@ const FEED_DATA = {
     },
     {
       "title": "Ford AI hiccups push carmaker to rehire ‘gray beard’ inspectors",
-      "summary": "https://archive.ph/DI4Cq Comments URL: https://news.ycombinator.com/item?id=48674446 Points: 589 # Comments: 315",
+      "summary": "https://archive.ph/DI4Cq Comments URL: https://news.ycombinator.com/item?id=48674446 Points: 595 # Comments: 320",
       "source": "Hacker News",
       "published": "2026-06-25T14:58:50+00:00",
       "link": "https://www.bloomberg.com/news/articles/2026-06-25/ford-has-been-rehiring-quality-inspectors-after-ai-fell-short"
@@ -283,14 +332,14 @@ const FEED_DATA = {
     },
     {
       "title": "Political bias in AI: Where the AI models stand",
-      "summary": "Article URL: https://trakkr.ai/bias Comments URL: https://news.ycombinator.com/item?id=48672779 Points: 147 # Comments: 260",
+      "summary": "Article URL: https://trakkr.ai/bias Comments URL: https://news.ycombinator.com/item?id=48672779 Points: 167 # Comments: 299",
       "source": "Hacker News",
       "published": "2026-06-25T13:08:31+00:00",
       "link": "https://trakkr.ai/bias"
     },
     {
       "title": "Why Does Everyone Hate AI?",
-      "summary": "Article URL: https://paulkrugman.substack.com/p/why-does-everyone-hate-ai Comments URL: https://news.ycombinator.com/item?id=48672694 Points: 85 # Comments: 142",
+      "summary": "Article URL: https://paulkrugman.substack.com/p/why-does-everyone-hate-ai Comments URL: https://news.ycombinator.com/item?id=48672694 Points: 86 # Comments: 145",
       "source": "Hacker News",
       "published": "2026-06-25T12:59:10+00:00",
       "link": "https://paulkrugman.substack.com/p/why-does-everyone-hate-ai"
@@ -444,7 +493,7 @@ const FEED_DATA = {
     },
     {
       "title": "Anthropic says Alibaba illicitly extracted Claude AI model capabilities",
-      "summary": "Article URL: https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/ Comments URL: https://news.ycombinator.com/item?id=48664814 Points: 762 # Comments: 1246",
+      "summary": "Article URL: https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/ Comments URL: https://news.ycombinator.com/item?id=48664814 Points: 787 # Comments: 1281",
       "source": "Hacker News",
       "published": "2026-06-24T19:48:01+00:00",
       "link": "https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/"
@@ -500,7 +549,7 @@ const FEED_DATA = {
     },
     {
       "title": "Big AI labs are hiring philosophers",
-      "summary": "https://archive.is/T1FJG Comments URL: https://news.ycombinator.com/item?id=48662452 Points: 149 # Comments: 135",
+      "summary": "https://archive.is/T1FJG Comments URL: https://news.ycombinator.com/item?id=48662452 Points: 152 # Comments: 139",
       "source": "Hacker News",
       "published": "2026-06-24T16:40:13+00:00",
       "link": "https://www.economist.com/science-and-technology/2026/06/24/why-big-ai-labs-are-hiring-so-many-philosophers"
@@ -549,14 +598,14 @@ const FEED_DATA = {
     },
     {
       "title": "For most of the world, open-source AI is the only way forward",
-      "summary": "Article URL: https://techstrong.ai/articles/for-most-of-the-world-open-source-ai-is-the-only-way-forward/ Comments URL: https://news.ycombinator.com/item?id=48660839 Points: 232 # Comments: 144",
+      "summary": "Article URL: https://techstrong.ai/articles/for-most-of-the-world-open-source-ai-is-the-only-way-forward/ Comments URL: https://news.ycombinator.com/item?id=48660839 Points: 233 # Comments: 144",
       "source": "Hacker News",
       "published": "2026-06-24T14:50:22+00:00",
       "link": "https://techstrong.ai/articles/for-most-of-the-world-open-source-ai-is-the-only-way-forward/"
     },
     {
       "title": "RubyLLM: A Ruby framework for all major AI providers",
-      "summary": "Article URL: https://rubyllm.com/ Comments URL: https://news.ycombinator.com/item?id=48660711 Points: 442 # Comments: 81",
+      "summary": "Article URL: https://rubyllm.com/ Comments URL: https://news.ycombinator.com/item?id=48660711 Points: 443 # Comments: 82",
       "source": "Hacker News",
       "published": "2026-06-24T14:41:41+00:00",
       "link": "https://rubyllm.com/"
@@ -577,7 +626,7 @@ const FEED_DATA = {
     },
     {
       "title": "OpenAI and Broadcom unveil LLM-optimized inference chip",
-      "summary": "Article URL: https://openai.com/index/openai-broadcom-jalapeno-inference-chip/ Comments URL: https://news.ycombinator.com/item?id=48659257 Points: 142 # Comments: 1",
+      "summary": "Article URL: https://openai.com/index/openai-broadcom-jalapeno-inference-chip/ Comments URL: https://news.ycombinator.com/item?id=48659257 Points: 143 # Comments: 1",
       "source": "Hacker News",
       "published": "2026-06-24T13:14:39+00:00",
       "link": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip/"
@@ -598,7 +647,7 @@ const FEED_DATA = {
     },
     {
       "title": "Reid Hoffman says SpaceX 'not an AI company', xAI 'complete train wreck'",
-      "summary": "Article URL: https://fortune.com/2026/06/24/reid-hoffman-spacex-musk-openai-anthropic-gen-z-mistake/ Comments URL: https://news.ycombinator.com/item?id=48658647 Points: 236 # Comments: 266",
+      "summary": "Article URL: https://fortune.com/2026/06/24/reid-hoffman-spacex-musk-openai-anthropic-gen-z-mistake/ Comments URL: https://news.ycombinator.com/item?id=48658647 Points: 236 # Comments: 269",
       "source": "Hacker News",
       "published": "2026-06-24T12:23:59+00:00",
       "link": "https://fortune.com/2026/06/24/reid-hoffman-spacex-musk-openai-anthropic-gen-z-mistake/"
@@ -1351,55 +1400,6 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-06-19T15:23:28+00:00",
       "link": "https://techcrunch.com/2026/06/19/billionaire-ambani-wants-ai-in-every-call-app-and-home/"
-    },
-    {
-      "title": "More people get news from AI chatbots, but trust remains low",
-      "summary": "According to the Reuters Institute's Digital News Report 2026, 10 percent of people worldwide now use AI chatbots for news every week, up from 7 percent a year ago. Only 4 percent regularly click through to the original source.",
-      "source": "The Decoder",
-      "published": "2026-06-19T14:42:25+00:00",
-      "link": "https://the-decoder.com/more-people-get-news-from-ai-chatbots-but-trust-remains-low/"
-    },
-    {
-      "title": "The film about Sam Altman has been dropped by Amazon MGM",
-      "summary": "Luca Guadagnino's film about OpenAI CEO Sam Altman, Artificial, has reportedly been dropped by Amazon MGM.",
-      "source": "The Verge",
-      "published": "2026-06-19T14:15:29+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/952906/sam-altman-film-artificial-openai-amazon-mgm-dropped"
-    },
-    {
-      "title": "SAP and Google Cloud deploy agentic commerce architecture",
-      "summary": "SAP and Google Cloud are deploying agentic commerce architecture to automate multi-agent marketing and retail operations at enterprise scale. SAP research indicates 78 percent of businesses consider AI essential for retaining customers in 2026.",
-      "source": "AI News",
-      "published": "2026-06-19T14:02:20+00:00",
-      "link": "https://www.artificialintelligence-news.com/news/sap-and-google-cloud-deploy-agentic-commerce-architecture/"
-    },
-    {
-      "title": "New benchmark exposes how badly AI struggles with real knowledge work",
-      "summary": "Even the best AI model fails at realistic knowledge work, fully solving just 3 percent of tasks. The article New benchmark exposes how badly AI struggles with real knowledge work appeared first on The Decoder.",
-      "source": "The Decoder",
-      "published": "2026-06-19T13:50:55+00:00",
-      "link": "https://the-decoder.com/new-benchmark-exposes-how-badly-ai-struggles-with-real-knowledge-work/"
-    },
-    {
-      "title": "The CEO of Allbirds’ new AI biz has a plan. Now she needs a “brand-new team”",
-      "summary": "Call it a startup with a sole founder and a very large seed round, but what's next is less clear.",
-      "source": "TechCrunch",
-      "published": "2026-06-19T13:00:00+00:00",
-      "link": "https://techcrunch.com/2026/06/19/the-ceo-of-allbirds-new-ai-biz-has-a-plan-but-no-employees/"
-    },
-    {
-      "title": "The CEO of Allbirds’ new AI biz has a plan, but no team",
-      "summary": "Call it a startup with a sole founder and a very large seed round, but what's next is less clear.",
-      "source": "TechCrunch",
-      "published": "2026-06-19T13:00:00+00:00",
-      "link": "https://techcrunch.com/2026/06/19/the-ceo-of-allbirds-new-ai-biz-has-a-plan-but-no-employees/"
-    },
-    {
-      "title": "The CEO of Allbirds’ new AI biz has a plan, but no employees",
-      "summary": "Call it a startup with a sole founder and a very large seed round, but what's next is less clear.",
-      "source": "TechCrunch",
-      "published": "2026-06-19T13:00:00+00:00",
-      "link": "https://techcrunch.com/2026/06/19/the-ceo-of-allbirds-new-ai-biz-has-a-plan-but-no-employees/"
     }
   ]
 };
