@@ -1,6 +1,34 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-06-25T22:16:00.309478+00:00",
+  "lastUpdated": "2026-06-26T05:07:03.281193+00:00",
   "items": [
+    {
+      "title": "AI children's books, body horror edition",
+      "summary": "Article URL: https://lcamtuf.substack.com/p/ai-childrens-books-body-horror-edition Comments URL: https://news.ycombinator.com/item?id=48681250 Points: 161 # Comments: 52",
+      "source": "Hacker News",
+      "published": "2026-06-26T01:15:14+00:00",
+      "link": "https://lcamtuf.substack.com/p/ai-childrens-books-body-horror-edition"
+    },
+    {
+      "title": "Anthropic Thinks Its Own Success Is Key to Making AI Safe",
+      "summary": "Anthropic's critics argue it's rapidly accumulating power. The company says that's what responsible AI development looks like.",
+      "source": "Wired",
+      "published": "2026-06-26T00:49:13+00:00",
+      "link": "https://www.wired.com/story/anthropic-thinks-ai-can-only-be-safe-under-its-control/"
+    },
+    {
+      "title": "The White House is asking OpenAI to slow roll the release of its new model over safety concerns",
+      "summary": "penAI reportedly plans to share its newest model, GPT 5.6, with a select group of partners instead of to the broader public. The reason: the Trump administration told it to.",
+      "source": "TechCrunch",
+      "published": "2026-06-25T23:34:39+00:00",
+      "link": "https://techcrunch.com/2026/06/25/the-white-house-is-asking-openai-to-slow-roll-the-release-of-its-new-model-over-safety-concerns/"
+    },
+    {
+      "title": "Why Amazon Dropped Its OpenAI Movie, Data Center Workers Fight Back, and Meta Leaks Employee Data",
+      "summary": "The decision by Amazon-owned MGM Studios to drop the OpenAI movie is just part of AI and film industries becoming increasingly intertwined. On Uncanny Valley, we look at where this is all headed.",
+      "source": "Wired",
+      "published": "2026-06-25T23:13:45+00:00",
+      "link": "https://www.wired.com/story/uncanny-valley-podcast-amazon-mgm-openai-movie-data-center-workers-fight-back-meta-leaks-employee-data/"
+    },
     {
       "title": "OpenAI will delay GPT-5.6 after Trump administration request",
       "summary": "The Trump administration, apprehensive of potential security issues, has reportedly asked OpenAI to stagger the release of its next big-ticket model, GPT-5.6.",
@@ -21,6 +49,13 @@ const FEED_DATA = {
       "source": "Ars Technica",
       "published": "2026-06-25T19:04:57+00:00",
       "link": "https://arstechnica.com/gadgets/2026/06/notion-killing-skiff-influenced-email-app-since-most-users-use-ai-agents-instead/"
+    },
+    {
+      "title": "Apple to skip high-end M6 Mac chips in favor of AI-focused M7 line",
+      "summary": "Giftlink: https://www.bloomberg.com/news/articles/2026-06-25/apple-to-...also https://www.msn.com/en-ca/lifestyle/shopping/apple-to-skip-h... Comments URL: https://news.ycombinator.com/item?id=48676795 Points: 163 # Comments: 127",
+      "source": "Hacker News",
+      "published": "2026-06-25T17:38:44+00:00",
+      "link": "https://www.bloomberg.com/news/articles/2026-06-25/apple-to-skip-high-end-m6-mac-chips-to-launch-m7-pro-m7-max-m7-ultra-instead?embedded-checkout=true"
     },
     {
       "title": "Anthropic’s Claude is winning over paid consumers, a market owned by ChatGPT",
@@ -45,7 +80,7 @@ const FEED_DATA = {
     },
     {
       "title": "Show HN: OpenKnowledge – open source AI-first alternative to Obsidian/Notion",
-      "summary": "Hi HN, Nick here. We’re launching OpenKnowledge (https://openknowledge.ai/), a “what you see is what you get” markdown editor that has direct integrations with Claude, Codex, and Cursor.",
+      "summary": "Hi HN, Nick here. We’re launching OpenKnowledge (https://openknowledge.ai/), a “what you see is what you get” markdown editor that has direct integrations with Claude, Codex, and other agents.",
       "source": "Hacker News",
       "published": "2026-06-25T16:04:46+00:00",
       "link": "https://github.com/inkeep/open-knowledge"
@@ -59,7 +94,7 @@ const FEED_DATA = {
     },
     {
       "title": "Ford AI hiccups push carmaker to rehire ‘gray beard’ inspectors",
-      "summary": "https://archive.ph/DI4Cq Comments URL: https://news.ycombinator.com/item?id=48674446 Points: 560 # Comments: 295",
+      "summary": "https://archive.ph/DI4Cq Comments URL: https://news.ycombinator.com/item?id=48674446 Points: 582 # Comments: 307",
       "source": "Hacker News",
       "published": "2026-06-25T14:58:50+00:00",
       "link": "https://www.bloomberg.com/news/articles/2026-06-25/ford-has-been-rehiring-quality-inspectors-after-ai-fell-short"
@@ -108,14 +143,14 @@ const FEED_DATA = {
     },
     {
       "title": "Political bias in AI: Where the AI models stand",
-      "summary": "Article URL: https://trakkr.ai/bias Comments URL: https://news.ycombinator.com/item?id=48672779 Points: 86 # Comments: 183",
+      "summary": "Article URL: https://trakkr.ai/bias Comments URL: https://news.ycombinator.com/item?id=48672779 Points: 133 # Comments: 245",
       "source": "Hacker News",
       "published": "2026-06-25T13:08:31+00:00",
       "link": "https://trakkr.ai/bias"
     },
     {
       "title": "Why Does Everyone Hate AI?",
-      "summary": "Article URL: https://paulkrugman.substack.com/p/why-does-everyone-hate-ai Comments URL: https://news.ycombinator.com/item?id=48672694 Points: 79 # Comments: 136",
+      "summary": "Article URL: https://paulkrugman.substack.com/p/why-does-everyone-hate-ai Comments URL: https://news.ycombinator.com/item?id=48672694 Points: 82 # Comments: 141",
       "source": "Hacker News",
       "published": "2026-06-25T12:59:10+00:00",
       "link": "https://paulkrugman.substack.com/p/why-does-everyone-hate-ai"
@@ -269,7 +304,7 @@ const FEED_DATA = {
     },
     {
       "title": "Anthropic says Alibaba illicitly extracted Claude AI model capabilities",
-      "summary": "Article URL: https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/ Comments URL: https://news.ycombinator.com/item?id=48664814 Points: 738 # Comments: 1194",
+      "summary": "Article URL: https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/ Comments URL: https://news.ycombinator.com/item?id=48664814 Points: 756 # Comments: 1224",
       "source": "Hacker News",
       "published": "2026-06-24T19:48:01+00:00",
       "link": "https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/"
@@ -325,7 +360,7 @@ const FEED_DATA = {
     },
     {
       "title": "Big AI labs are hiring philosophers",
-      "summary": "https://archive.is/T1FJG Comments URL: https://news.ycombinator.com/item?id=48662452 Points: 147 # Comments: 132",
+      "summary": "https://archive.is/T1FJG Comments URL: https://news.ycombinator.com/item?id=48662452 Points: 147 # Comments: 133",
       "source": "Hacker News",
       "published": "2026-06-24T16:40:13+00:00",
       "link": "https://www.economist.com/science-and-technology/2026/06/24/why-big-ai-labs-are-hiring-so-many-philosophers"
@@ -374,14 +409,14 @@ const FEED_DATA = {
     },
     {
       "title": "For most of the world, open-source AI is the only way forward",
-      "summary": "Article URL: https://techstrong.ai/articles/for-most-of-the-world-open-source-ai-is-the-only-way-forward/ Comments URL: https://news.ycombinator.com/item?id=48660839 Points: 227 # Comments: 144",
+      "summary": "Article URL: https://techstrong.ai/articles/for-most-of-the-world-open-source-ai-is-the-only-way-forward/ Comments URL: https://news.ycombinator.com/item?id=48660839 Points: 232 # Comments: 144",
       "source": "Hacker News",
       "published": "2026-06-24T14:50:22+00:00",
       "link": "https://techstrong.ai/articles/for-most-of-the-world-open-source-ai-is-the-only-way-forward/"
     },
     {
       "title": "RubyLLM: A Ruby framework for all major AI providers",
-      "summary": "Article URL: https://rubyllm.com/ Comments URL: https://news.ycombinator.com/item?id=48660711 Points: 440 # Comments: 76",
+      "summary": "Article URL: https://rubyllm.com/ Comments URL: https://news.ycombinator.com/item?id=48660711 Points: 442 # Comments: 78",
       "source": "Hacker News",
       "published": "2026-06-24T14:41:41+00:00",
       "link": "https://rubyllm.com/"
@@ -423,7 +458,7 @@ const FEED_DATA = {
     },
     {
       "title": "Reid Hoffman says SpaceX 'not an AI company', xAI 'complete train wreck'",
-      "summary": "Article URL: https://fortune.com/2026/06/24/reid-hoffman-spacex-musk-openai-anthropic-gen-z-mistake/ Comments URL: https://news.ycombinator.com/item?id=48658647 Points: 235 # Comments: 267",
+      "summary": "Article URL: https://fortune.com/2026/06/24/reid-hoffman-spacex-musk-openai-anthropic-gen-z-mistake/ Comments URL: https://news.ycombinator.com/item?id=48658647 Points: 236 # Comments: 268",
       "source": "Hacker News",
       "published": "2026-06-24T12:23:59+00:00",
       "link": "https://fortune.com/2026/06/24/reid-hoffman-spacex-musk-openai-anthropic-gen-z-mistake/"
@@ -612,7 +647,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI's Affordability Crisis",
-      "summary": "Article URL: https://blog.dshr.org/2026/06/ais-affordability-crisis.html Comments URL: https://news.ycombinator.com/item?id=48646276 Points: 328 # Comments: 416",
+      "summary": "Article URL: https://blog.dshr.org/2026/06/ais-affordability-crisis.html Comments URL: https://news.ycombinator.com/item?id=48646276 Points: 329 # Comments: 417",
       "source": "Hacker News",
       "published": "2026-06-23T15:11:17+00:00",
       "link": "https://blog.dshr.org/2026/06/ais-affordability-crisis.html"
@@ -668,7 +703,7 @@ const FEED_DATA = {
     },
     {
       "title": "The Low-Tech AI of Elden Ring",
-      "summary": "Article URL: https://nega.tv/posts/low-tech-ai-of-elden-ring.html Comments URL: https://news.ycombinator.com/item?id=48643489 Points: 163 # Comments: 96",
+      "summary": "Article URL: https://nega.tv/posts/low-tech-ai-of-elden-ring.html Comments URL: https://news.ycombinator.com/item?id=48643489 Points: 164 # Comments: 96",
       "source": "Hacker News",
       "published": "2026-06-23T11:40:50+00:00",
       "link": "https://nega.tv/posts/low-tech-ai-of-elden-ring.html"
@@ -1365,41 +1400,6 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-06-18T19:17:00+00:00",
       "link": "https://the-decoder.com/chatgpts-new-health-upgrade-beats-doctor-written-answers-openai-says/"
-    },
-    {
-      "title": "Anthropic brings Artifacts to Claude Code, letting teams share live pages from coding sessions",
-      "summary": "Claude Code can now turn work results into interactive web pages called \"artifacts\" and share them with your team. The pages pull from the full session context, update automatically when something changes, and keep a version history.",
-      "source": "The Decoder",
-      "published": "2026-06-18T19:02:14+00:00",
-      "link": "https://the-decoder.com/anthropic-brings-artifacts-to-claude-code-letting-teams-share-live-pages-from-coding-sessions/"
-    },
-    {
-      "title": "Alleged China ties at SK Telecom alarmed US officials and triggered Anthropic crisis",
-      "summary": "SK Telecom had access to Anthropic's AI model Claude Mythos through the company's partner program Project Glasswing until the White House stepped in. US officials saw ties between the South Korean conglomerate and China.",
-      "source": "The Decoder",
-      "published": "2026-06-18T18:54:09+00:00",
-      "link": "https://the-decoder.com/alleged-china-ties-at-sk-telecom-alarmed-us-officials-and-triggered-anthropic-crisis/"
-    },
-    {
-      "title": "Almost half of US singles feel negatively about AI in dating, Match says",
-      "summary": "About 47% of singles look negatively at the use of AI in dating -- but many dating app users are open to AI helping with profile punch-ups and conversation starters.",
-      "source": "TechCrunch",
-      "published": "2026-06-18T18:51:46+00:00",
-      "link": "https://techcrunch.com/2026/06/18/almost-half-of-u-s-singles-feel-negatively-about-ai-in-dating-match-says/"
-    },
-    {
-      "title": "The AI Hate Progression",
-      "summary": "Article URL: https://www.xodium.net/2026/06/the-ai-hate-progression.html Comments URL: https://news.ycombinator.com/item?id=48589485 Points: 123 # Comments: 189",
-      "source": "Hacker News",
-      "published": "2026-06-18T18:30:33+00:00",
-      "link": "https://www.xodium.net/2026/06/the-ai-hate-progression.html"
-    },
-    {
-      "title": "Amazon hopes to challenge Nvidia more directly by selling its AI chips",
-      "summary": "AWS is in talks to sell its chips to other data centers. CEO Andy Jassy has said this represents a $50 billion opportunity for the company.",
-      "source": "TechCrunch",
-      "published": "2026-06-18T18:22:13+00:00",
-      "link": "https://techcrunch.com/2026/06/18/amazon-hopes-to-challenge-nvidia-more-directly-by-selling-its-ai-chips/"
     }
   ]
 };
