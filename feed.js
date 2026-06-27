@@ -1,12 +1,26 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-06-27T04:52:13.568642+00:00",
+  "lastUpdated": "2026-06-27T07:51:10.348195+00:00",
   "items": [
+    {
+      "title": "ByteDance's \"iLLaDA\" is a diffusion language model that keeps up with Qwen2.5",
+      "summary": "Researchers from Renmin University and ByteDance have released iLLaDA, an 8B language model that generates text differently than ChatGPT. It matches Qwen2.5 at the base level but falls behind after fine-tuning.",
+      "source": "The Decoder",
+      "published": "2026-06-27T07:48:29+00:00",
+      "link": "https://the-decoder.com/bytedances-illada-is-a-diffusion-language-model-that-keeps-up-with-qwen2-5/"
+    },
     {
       "title": "Trump Admin releases Anthropic Mythos to be used by more than 100 US companies, agencies",
       "summary": "Over 100 companies and government agencies are reportedly authorized to use Mythos 5, including their non-American employees.",
       "source": "TechCrunch",
       "published": "2026-06-27T01:01:37+00:00",
       "link": "https://techcrunch.com/2026/06/26/trump-admin-releases-anthropic-mythos-to-be-used-by-more-than-100-us-companies-agencies/"
+    },
+    {
+      "title": "Anthropic’s Mythos 5 is back",
+      "summary": "After a rollercoaster negotiation process with the Trump administration that dragged on for two weeks, Anthropic's Mythos 5 is finally back in action - at least, somewhat, for a select group of organizations, according to a letter from the government to Anthropic that was viewed...",
+      "source": "The Verge",
+      "published": "2026-06-27T00:33:44+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/958458/anthropic-mythos-5-is-back-trump-negotiations"
     },
     {
       "title": "Trump Administration Allows Anthropic to Release Mythos to Select US Organizations",
@@ -17,14 +31,14 @@ const FEED_DATA = {
     },
     {
       "title": "U.S. allows Anthropic to release Mythos AI to ‘trusted’ US organizations",
-      "summary": "https://archive.md/ArXuFhttps://www.nbcnews.com/tech/tech-news/us-government-gives-a... Comments URL: https://news.ycombinator.com/item?id=48692995 Points: 307 # Comments: 314",
+      "summary": "https://archive.md/ArXuFhttps://www.nbcnews.com/tech/tech-news/us-government-gives-a... Comments URL: https://news.ycombinator.com/item?id=48692995 Points: 395 # Comments: 396",
       "source": "Hacker News",
       "published": "2026-06-26T22:48:28+00:00",
       "link": "https://www.semafor.com/article/06/27/2026/us-releases-powerful-anthropic-model-mythos-to-some-us-companies"
     },
     {
       "title": "AI in mathematics is forcing big questions",
-      "summary": "Article URL: https://spectrum.ieee.org/ai-in-mathematics Comments URL: https://news.ycombinator.com/item?id=48692883 Points: 78 # Comments: 43",
+      "summary": "Article URL: https://spectrum.ieee.org/ai-in-mathematics Comments URL: https://news.ycombinator.com/item?id=48692883 Points: 108 # Comments: 76",
       "source": "Hacker News",
       "published": "2026-06-26T22:36:51+00:00",
       "link": "https://spectrum.ieee.org/ai-in-mathematics"
@@ -37,6 +51,13 @@ const FEED_DATA = {
       "link": "https://techcrunch.com/2026/06/26/openai-limits-gpt-5-6-rollout-after-government-request-says-restrictions-shouldnt-be-the-norm/"
     },
     {
+      "title": "OpenAI launches Claude Mythos rival GPT-5.6 Sol under government access it calls unsustainable",
+      "summary": "OpenAI's new flagship GPT-5.6 Sol beats Anthropic's Claude Mythos 5 in coding benchmarks, but the US government is forcing a restricted rollout. OpenAI isn't happy about it.",
+      "source": "The Decoder",
+      "published": "2026-06-26T18:30:01+00:00",
+      "link": "https://the-decoder.com/openais-claude-mythos-competitor-gpt-5-6-sol-launches-under-government-controlled-access-it-calls-unsustainable/"
+    },
+    {
       "title": "OpenAI's GPT-5.6 Sol launches to rival Claude Mythos under government access rules it calls unsustainable",
       "summary": "OpenAI's new flagship GPT-5.6 Sol beats Anthropic's Claude Mythos 5 in coding benchmarks, but the US government is forcing a restricted rollout. OpenAI isn't happy about it.",
       "source": "The Decoder",
@@ -45,7 +66,7 @@ const FEED_DATA = {
     },
     {
       "title": "U.S. government will decide who gets to use GPT-5.6",
-      "summary": "https://archive.ph/PCQQl Comments URL: https://news.ycombinator.com/item?id=48690101 Points: 913 # Comments: 983",
+      "summary": "https://archive.ph/PCQQl Comments URL: https://news.ycombinator.com/item?id=48690101 Points: 986 # Comments: 1043",
       "source": "Hacker News",
       "published": "2026-06-26T18:23:14+00:00",
       "link": "https://www.washingtonpost.com/technology/2026/06/26/openai-says-us-government-will-vet-users-its-latest-ai-model/"
@@ -73,7 +94,7 @@ const FEED_DATA = {
     },
     {
       "title": "Previewing GPT‑5.6 Sol: a next-generation model",
-      "summary": "System card: https://deploymentsafety.openai.com/gpt-5-6-preview Comments URL: https://news.ycombinator.com/item?id=48689028 Points: 906 # Comments: 551",
+      "summary": "System card: https://deploymentsafety.openai.com/gpt-5-6-preview Comments URL: https://news.ycombinator.com/item?id=48689028 Points: 969 # Comments: 601",
       "source": "Hacker News",
       "published": "2026-06-26T17:06:55+00:00",
       "link": "https://openai.com/index/previewing-gpt-5-6-sol/"
@@ -108,7 +129,7 @@ const FEED_DATA = {
     },
     {
       "title": "The AI industry is pouring millions into US elections",
-      "summary": "Article URL: https://www.bloodinthemachine.com/p/the-ai-industry-is-pouring-hundreds Comments URL: https://news.ycombinator.com/item?id=48687483 Points: 114 # Comments: 82",
+      "summary": "Article URL: https://www.bloodinthemachine.com/p/the-ai-industry-is-pouring-hundreds Comments URL: https://news.ycombinator.com/item?id=48687483 Points: 115 # Comments: 82",
       "source": "Hacker News",
       "published": "2026-06-26T15:02:43+00:00",
       "link": "https://www.bloodinthemachine.com/p/the-ai-industry-is-pouring-hundreds"
@@ -136,7 +157,7 @@ const FEED_DATA = {
     },
     {
       "title": "The AI backlash is only getting started",
-      "summary": "Article URL: https://www.economist.com/leaders/2026/06/25/the-ai-backlash-is-only-getting-started Comments URL: https://news.ycombinator.com/item?id=48686219 Points: 86 # Comments: 258",
+      "summary": "Article URL: https://www.economist.com/leaders/2026/06/25/the-ai-backlash-is-only-getting-started Comments URL: https://news.ycombinator.com/item?id=48686219 Points: 89 # Comments: 261",
       "source": "Hacker News",
       "published": "2026-06-26T13:12:04+00:00",
       "link": "https://www.economist.com/leaders/2026/06/25/the-ai-backlash-is-only-getting-started"
@@ -192,28 +213,28 @@ const FEED_DATA = {
     },
     {
       "title": "Why current LLM costs are not sustainable",
-      "summary": "Article URL: https://aditya.patadia.org/p/ai-and-cloud-costs Comments URL: https://news.ycombinator.com/item?id=48683588 Points: 109 # Comments: 190",
+      "summary": "Article URL: https://aditya.patadia.org/p/ai-and-cloud-costs Comments URL: https://news.ycombinator.com/item?id=48683588 Points: 111 # Comments: 189",
       "source": "Hacker News",
       "published": "2026-06-26T07:44:11+00:00",
       "link": "https://aditya.patadia.org/p/ai-and-cloud-costs"
     },
     {
       "title": "US Govt to individually approve who gets GPT 5.6",
-      "summary": "Article URL: https://old.reddit.com/r/LocalLLaMA/comments/1ufo0un/us_govt_to_individually_approve_who_gets_gpt_56/ Comments URL: https://news.ycombinator.com/item?id=48683021 Points: 140 # Comments: 1",
+      "summary": "Article URL: https://old.reddit.com/r/LocalLLaMA/comments/1ufo0un/us_govt_to_individually_approve_who_gets_gpt_56/ Comments URL: https://news.ycombinator.com/item?id=48683021 Points: 141 # Comments: 1",
       "source": "Hacker News",
       "published": "2026-06-26T06:24:39+00:00",
       "link": "https://old.reddit.com/r/LocalLLaMA/comments/1ufo0un/us_govt_to_individually_approve_who_gets_gpt_56/"
     },
     {
       "title": "What happened after 2k people tried to hack my AI assistant",
-      "summary": "Article URL: https://www.fernandoi.cl/posts/hackmyclaw/ Comments URL: https://news.ycombinator.com/item?id=48681687 Points: 356 # Comments: 159",
+      "summary": "Article URL: https://www.fernandoi.cl/posts/hackmyclaw/ Comments URL: https://news.ycombinator.com/item?id=48681687 Points: 360 # Comments: 160",
       "source": "Hacker News",
       "published": "2026-06-26T02:29:23+00:00",
       "link": "https://www.fernandoi.cl/posts/hackmyclaw/"
     },
     {
       "title": "AI children's books, body horror edition",
-      "summary": "Article URL: https://lcamtuf.substack.com/p/ai-childrens-books-body-horror-edition Comments URL: https://news.ycombinator.com/item?id=48681250 Points: 203 # Comments: 77",
+      "summary": "Article URL: https://lcamtuf.substack.com/p/ai-childrens-books-body-horror-edition Comments URL: https://news.ycombinator.com/item?id=48681250 Points: 204 # Comments: 77",
       "source": "Hacker News",
       "published": "2026-06-26T01:15:14+00:00",
       "link": "https://lcamtuf.substack.com/p/ai-childrens-books-body-horror-edition"
@@ -269,7 +290,7 @@ const FEED_DATA = {
     },
     {
       "title": "Apple to skip high-end M6 Mac chips in favor of AI-focused M7 line",
-      "summary": "Giftlink: https://www.bloomberg.com/news/articles/2026-06-25/apple-to-...also https://www.msn.com/en-ca/lifestyle/shopping/apple-to-skip-h... Comments URL: https://news.ycombinator.com/item?id=48676795 Points: 306 # Comments: 360",
+      "summary": "Giftlink: https://www.bloomberg.com/news/articles/2026-06-25/apple-to-...also https://www.msn.com/en-ca/lifestyle/shopping/apple-to-skip-h... Comments URL: https://news.ycombinator.com/item?id=48676795 Points: 306 # Comments: 362",
       "source": "Hacker News",
       "published": "2026-06-25T17:38:44+00:00",
       "link": "https://www.bloomberg.com/news/articles/2026-06-25/apple-to-skip-high-end-m6-mac-chips-to-launch-m7-pro-m7-max-m7-ultra-instead?embedded-checkout=true"
@@ -311,7 +332,7 @@ const FEED_DATA = {
     },
     {
       "title": "Ford AI hiccups push carmaker to rehire ‘gray beard’ inspectors",
-      "summary": "https://archive.ph/DI4Cq Comments URL: https://news.ycombinator.com/item?id=48674446 Points: 596 # Comments: 320",
+      "summary": "https://archive.ph/DI4Cq Comments URL: https://news.ycombinator.com/item?id=48674446 Points: 598 # Comments: 320",
       "source": "Hacker News",
       "published": "2026-06-25T14:58:50+00:00",
       "link": "https://www.bloomberg.com/news/articles/2026-06-25/ford-has-been-rehiring-quality-inspectors-after-ai-fell-short"
@@ -360,14 +381,14 @@ const FEED_DATA = {
     },
     {
       "title": "Political bias in AI: Where the AI models stand",
-      "summary": "Article URL: https://trakkr.ai/bias Comments URL: https://news.ycombinator.com/item?id=48672779 Points: 168 # Comments: 303",
+      "summary": "Article URL: https://trakkr.ai/bias Comments URL: https://news.ycombinator.com/item?id=48672779 Points: 172 # Comments: 304",
       "source": "Hacker News",
       "published": "2026-06-25T13:08:31+00:00",
       "link": "https://trakkr.ai/bias"
     },
     {
       "title": "Why Does Everyone Hate AI?",
-      "summary": "Article URL: https://paulkrugman.substack.com/p/why-does-everyone-hate-ai Comments URL: https://news.ycombinator.com/item?id=48672694 Points: 86 # Comments: 148",
+      "summary": "Article URL: https://paulkrugman.substack.com/p/why-does-everyone-hate-ai Comments URL: https://news.ycombinator.com/item?id=48672694 Points: 86 # Comments: 149",
       "source": "Hacker News",
       "published": "2026-06-25T12:59:10+00:00",
       "link": "https://paulkrugman.substack.com/p/why-does-everyone-hate-ai"
@@ -521,7 +542,7 @@ const FEED_DATA = {
     },
     {
       "title": "Anthropic says Alibaba illicitly extracted Claude AI model capabilities",
-      "summary": "Article URL: https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/ Comments URL: https://news.ycombinator.com/item?id=48664814 Points: 792 # Comments: 1290",
+      "summary": "Article URL: https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/ Comments URL: https://news.ycombinator.com/item?id=48664814 Points: 795 # Comments: 1293",
       "source": "Hacker News",
       "published": "2026-06-24T19:48:01+00:00",
       "link": "https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/"
@@ -1379,27 +1400,6 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-06-19T17:14:33+00:00",
       "link": "https://the-decoder.com/amazon-drops-its-openai-drama-film-after-signing-a-50-billion-deal-with-sam-altmans-company/"
-    },
-    {
-      "title": "GPT-5.5 hallucinates 3x more than MIT-licensed GLM-5.2",
-      "summary": "Article URL: https://arrowtsx.dev/bigger-models/ Comments URL: https://news.ycombinator.com/item?id=48600167 Points: 577 # Comments: 292",
-      "source": "Hacker News",
-      "published": "2026-06-19T16:11:25+00:00",
-      "link": "https://arrowtsx.dev/bigger-models/"
-    },
-    {
-      "title": "Is the US government’s Anthropic ban accidentally helping the brand?",
-      "summary": "Just as last week was ending, the US government forced Anthropic to pull its two newest models, Fable 5 and Mythos 5, citing national security concerns after Amazon researchers allegedly found a way to bypass Fable 5’s guardrails.",
-      "source": "TechCrunch",
-      "published": "2026-06-19T16:08:17+00:00",
-      "link": "https://techcrunch.com/video/is-the-us-governments-anthropic-ban-accidentally-helping-the-brand/"
-    },
-    {
-      "title": "AI Engineer Claims to Have Cracked Linear A",
-      "summary": "Article URL: https://aiclambake.com/clamtakes/linear-a/ Comments URL: https://news.ycombinator.com/item?id=48600107 Points: 446 # Comments: 178",
-      "source": "Hacker News",
-      "published": "2026-06-19T16:04:42+00:00",
-      "link": "https://aiclambake.com/clamtakes/linear-a/"
     }
   ]
 };
