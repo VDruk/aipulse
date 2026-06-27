@@ -1,6 +1,34 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-06-26T22:04:59.212842+00:00",
+  "lastUpdated": "2026-06-27T04:52:13.568642+00:00",
   "items": [
+    {
+      "title": "Trump Admin releases Anthropic Mythos to be used by more than 100 US companies, agencies",
+      "summary": "Over 100 companies and government agencies are reportedly authorized to use Mythos 5, including their non-American employees.",
+      "source": "TechCrunch",
+      "published": "2026-06-27T01:01:37+00:00",
+      "link": "https://techcrunch.com/2026/06/26/trump-admin-releases-anthropic-mythos-to-be-used-by-more-than-100-us-companies-agencies/"
+    },
+    {
+      "title": "Trump Administration Allows Anthropic to Release Mythos to Select US Organizations",
+      "summary": "After weeks of negotiations, the White House permitted Anthropic to grant access to its most advanced AI model to a select group of US companies and government agencies.",
+      "source": "Wired",
+      "published": "2026-06-27T00:26:14+00:00",
+      "link": "https://www.wired.com/story/anthropic-restores-access-to-mythos/"
+    },
+    {
+      "title": "U.S. allows Anthropic to release Mythos AI to ‘trusted’ US organizations",
+      "summary": "https://archive.md/ArXuFhttps://www.nbcnews.com/tech/tech-news/us-government-gives-a... Comments URL: https://news.ycombinator.com/item?id=48692995 Points: 307 # Comments: 314",
+      "source": "Hacker News",
+      "published": "2026-06-26T22:48:28+00:00",
+      "link": "https://www.semafor.com/article/06/27/2026/us-releases-powerful-anthropic-model-mythos-to-some-us-companies"
+    },
+    {
+      "title": "AI in mathematics is forcing big questions",
+      "summary": "Article URL: https://spectrum.ieee.org/ai-in-mathematics Comments URL: https://news.ycombinator.com/item?id=48692883 Points: 78 # Comments: 43",
+      "source": "Hacker News",
+      "published": "2026-06-26T22:36:51+00:00",
+      "link": "https://spectrum.ieee.org/ai-in-mathematics"
+    },
     {
       "title": "OpenAI limits GPT-5.6 rollout after government request, says restrictions shouldn’t be the norm",
       "summary": "“We don’t believe this kind of government access process should become the long-term default,” says OpenAI. “It keeps the best tools from users, developers, enterprises, cyber defenders, and global partners who need them.”",
@@ -17,7 +45,7 @@ const FEED_DATA = {
     },
     {
       "title": "U.S. government will decide who gets to use GPT-5.6",
-      "summary": "https://archive.ph/PCQQl Comments URL: https://news.ycombinator.com/item?id=48690101 Points: 578 # Comments: 727",
+      "summary": "https://archive.ph/PCQQl Comments URL: https://news.ycombinator.com/item?id=48690101 Points: 913 # Comments: 983",
       "source": "Hacker News",
       "published": "2026-06-26T18:23:14+00:00",
       "link": "https://www.washingtonpost.com/technology/2026/06/26/openai-says-us-government-will-vet-users-its-latest-ai-model/"
@@ -45,7 +73,7 @@ const FEED_DATA = {
     },
     {
       "title": "Previewing GPT‑5.6 Sol: a next-generation model",
-      "summary": "System card: https://deploymentsafety.openai.com/gpt-5-6-preview Comments URL: https://news.ycombinator.com/item?id=48689028 Points: 664 # Comments: 406",
+      "summary": "System card: https://deploymentsafety.openai.com/gpt-5-6-preview Comments URL: https://news.ycombinator.com/item?id=48689028 Points: 906 # Comments: 551",
       "source": "Hacker News",
       "published": "2026-06-26T17:06:55+00:00",
       "link": "https://openai.com/index/previewing-gpt-5-6-sol/"
@@ -80,7 +108,7 @@ const FEED_DATA = {
     },
     {
       "title": "The AI industry is pouring millions into US elections",
-      "summary": "Article URL: https://www.bloodinthemachine.com/p/the-ai-industry-is-pouring-hundreds Comments URL: https://news.ycombinator.com/item?id=48687483 Points: 108 # Comments: 78",
+      "summary": "Article URL: https://www.bloodinthemachine.com/p/the-ai-industry-is-pouring-hundreds Comments URL: https://news.ycombinator.com/item?id=48687483 Points: 114 # Comments: 82",
       "source": "Hacker News",
       "published": "2026-06-26T15:02:43+00:00",
       "link": "https://www.bloodinthemachine.com/p/the-ai-industry-is-pouring-hundreds"
@@ -108,7 +136,7 @@ const FEED_DATA = {
     },
     {
       "title": "The AI backlash is only getting started",
-      "summary": "Article URL: https://www.economist.com/leaders/2026/06/25/the-ai-backlash-is-only-getting-started Comments URL: https://news.ycombinator.com/item?id=48686219 Points: 84 # Comments: 244",
+      "summary": "Article URL: https://www.economist.com/leaders/2026/06/25/the-ai-backlash-is-only-getting-started Comments URL: https://news.ycombinator.com/item?id=48686219 Points: 86 # Comments: 258",
       "source": "Hacker News",
       "published": "2026-06-26T13:12:04+00:00",
       "link": "https://www.economist.com/leaders/2026/06/25/the-ai-backlash-is-only-getting-started"
@@ -164,21 +192,21 @@ const FEED_DATA = {
     },
     {
       "title": "Why current LLM costs are not sustainable",
-      "summary": "Article URL: https://aditya.patadia.org/p/ai-and-cloud-costs Comments URL: https://news.ycombinator.com/item?id=48683588 Points: 107 # Comments: 188",
+      "summary": "Article URL: https://aditya.patadia.org/p/ai-and-cloud-costs Comments URL: https://news.ycombinator.com/item?id=48683588 Points: 109 # Comments: 190",
       "source": "Hacker News",
       "published": "2026-06-26T07:44:11+00:00",
       "link": "https://aditya.patadia.org/p/ai-and-cloud-costs"
     },
     {
       "title": "US Govt to individually approve who gets GPT 5.6",
-      "summary": "Article URL: https://old.reddit.com/r/LocalLLaMA/comments/1ufo0un/us_govt_to_individually_approve_who_gets_gpt_56/ Comments URL: https://news.ycombinator.com/item?id=48683021 Points: 137 # Comments: 1",
+      "summary": "Article URL: https://old.reddit.com/r/LocalLLaMA/comments/1ufo0un/us_govt_to_individually_approve_who_gets_gpt_56/ Comments URL: https://news.ycombinator.com/item?id=48683021 Points: 140 # Comments: 1",
       "source": "Hacker News",
       "published": "2026-06-26T06:24:39+00:00",
       "link": "https://old.reddit.com/r/LocalLLaMA/comments/1ufo0un/us_govt_to_individually_approve_who_gets_gpt_56/"
     },
     {
       "title": "What happened after 2k people tried to hack my AI assistant",
-      "summary": "Article URL: https://www.fernandoi.cl/posts/hackmyclaw/ Comments URL: https://news.ycombinator.com/item?id=48681687 Points: 345 # Comments: 156",
+      "summary": "Article URL: https://www.fernandoi.cl/posts/hackmyclaw/ Comments URL: https://news.ycombinator.com/item?id=48681687 Points: 356 # Comments: 159",
       "source": "Hacker News",
       "published": "2026-06-26T02:29:23+00:00",
       "link": "https://www.fernandoi.cl/posts/hackmyclaw/"
@@ -241,7 +269,7 @@ const FEED_DATA = {
     },
     {
       "title": "Apple to skip high-end M6 Mac chips in favor of AI-focused M7 line",
-      "summary": "Giftlink: https://www.bloomberg.com/news/articles/2026-06-25/apple-to-...also https://www.msn.com/en-ca/lifestyle/shopping/apple-to-skip-h... Comments URL: https://news.ycombinator.com/item?id=48676795 Points: 304 # Comments: 350",
+      "summary": "Giftlink: https://www.bloomberg.com/news/articles/2026-06-25/apple-to-...also https://www.msn.com/en-ca/lifestyle/shopping/apple-to-skip-h... Comments URL: https://news.ycombinator.com/item?id=48676795 Points: 306 # Comments: 360",
       "source": "Hacker News",
       "published": "2026-06-25T17:38:44+00:00",
       "link": "https://www.bloomberg.com/news/articles/2026-06-25/apple-to-skip-high-end-m6-mac-chips-to-launch-m7-pro-m7-max-m7-ultra-instead?embedded-checkout=true"
@@ -283,7 +311,7 @@ const FEED_DATA = {
     },
     {
       "title": "Ford AI hiccups push carmaker to rehire ‘gray beard’ inspectors",
-      "summary": "https://archive.ph/DI4Cq Comments URL: https://news.ycombinator.com/item?id=48674446 Points: 595 # Comments: 320",
+      "summary": "https://archive.ph/DI4Cq Comments URL: https://news.ycombinator.com/item?id=48674446 Points: 596 # Comments: 320",
       "source": "Hacker News",
       "published": "2026-06-25T14:58:50+00:00",
       "link": "https://www.bloomberg.com/news/articles/2026-06-25/ford-has-been-rehiring-quality-inspectors-after-ai-fell-short"
@@ -332,14 +360,14 @@ const FEED_DATA = {
     },
     {
       "title": "Political bias in AI: Where the AI models stand",
-      "summary": "Article URL: https://trakkr.ai/bias Comments URL: https://news.ycombinator.com/item?id=48672779 Points: 167 # Comments: 299",
+      "summary": "Article URL: https://trakkr.ai/bias Comments URL: https://news.ycombinator.com/item?id=48672779 Points: 168 # Comments: 303",
       "source": "Hacker News",
       "published": "2026-06-25T13:08:31+00:00",
       "link": "https://trakkr.ai/bias"
     },
     {
       "title": "Why Does Everyone Hate AI?",
-      "summary": "Article URL: https://paulkrugman.substack.com/p/why-does-everyone-hate-ai Comments URL: https://news.ycombinator.com/item?id=48672694 Points: 86 # Comments: 145",
+      "summary": "Article URL: https://paulkrugman.substack.com/p/why-does-everyone-hate-ai Comments URL: https://news.ycombinator.com/item?id=48672694 Points: 86 # Comments: 148",
       "source": "Hacker News",
       "published": "2026-06-25T12:59:10+00:00",
       "link": "https://paulkrugman.substack.com/p/why-does-everyone-hate-ai"
@@ -493,7 +521,7 @@ const FEED_DATA = {
     },
     {
       "title": "Anthropic says Alibaba illicitly extracted Claude AI model capabilities",
-      "summary": "Article URL: https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/ Comments URL: https://news.ycombinator.com/item?id=48664814 Points: 787 # Comments: 1281",
+      "summary": "Article URL: https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/ Comments URL: https://news.ycombinator.com/item?id=48664814 Points: 792 # Comments: 1290",
       "source": "Hacker News",
       "published": "2026-06-24T19:48:01+00:00",
       "link": "https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/"
@@ -549,7 +577,7 @@ const FEED_DATA = {
     },
     {
       "title": "Big AI labs are hiring philosophers",
-      "summary": "https://archive.is/T1FJG Comments URL: https://news.ycombinator.com/item?id=48662452 Points: 152 # Comments: 139",
+      "summary": "https://archive.is/T1FJG Comments URL: https://news.ycombinator.com/item?id=48662452 Points: 153 # Comments: 140",
       "source": "Hacker News",
       "published": "2026-06-24T16:40:13+00:00",
       "link": "https://www.economist.com/science-and-technology/2026/06/24/why-big-ai-labs-are-hiring-so-many-philosophers"
@@ -605,7 +633,7 @@ const FEED_DATA = {
     },
     {
       "title": "RubyLLM: A Ruby framework for all major AI providers",
-      "summary": "Article URL: https://rubyllm.com/ Comments URL: https://news.ycombinator.com/item?id=48660711 Points: 443 # Comments: 82",
+      "summary": "Article URL: https://rubyllm.com/ Comments URL: https://news.ycombinator.com/item?id=48660711 Points: 445 # Comments: 82",
       "source": "Hacker News",
       "published": "2026-06-24T14:41:41+00:00",
       "link": "https://rubyllm.com/"
@@ -1372,34 +1400,6 @@ const FEED_DATA = {
       "source": "Hacker News",
       "published": "2026-06-19T16:04:42+00:00",
       "link": "https://aiclambake.com/clamtakes/linear-a/"
-    },
-    {
-      "title": "Norway imposes near ban on AI in elementary school",
-      "summary": "Article URL: https://www.reuters.com/technology/norway-imposes-near-ban-ai-elementary-school-2026-06-19/ Comments URL: https://news.ycombinator.com/item?id=48600093 Points: 813 # Comments: 588",
-      "source": "Hacker News",
-      "published": "2026-06-19T16:03:15+00:00",
-      "link": "https://www.reuters.com/technology/norway-imposes-near-ban-ai-elementary-school-2026-06-19/"
-    },
-    {
-      "title": "The US banned Anthropic’s Fable 5 release, but the numbers don’t seem to care",
-      "summary": "Just as last week was ending, the US government forced Anthropic to pull its two newest models, Fable 5 and Mythos 5, citing national security concerns after Amazon researchers allegedly found a way to bypass Fable 5’s guardrails.",
-      "source": "TechCrunch",
-      "published": "2026-06-19T16:01:03+00:00",
-      "link": "https://techcrunch.com/podcast/the-us-banned-anthropics-fable-5-release-but-the-numbers-dont-seem-to-care/"
-    },
-    {
-      "title": "Munich 1991: The Roots of the Current AI Boom",
-      "summary": "Article URL: https://people.idsia.ch/~juergen/ai-boom-roots-munich-1991.html Comments URL: https://news.ycombinator.com/item?id=48599998 Points: 228 # Comments: 103",
-      "source": "Hacker News",
-      "published": "2026-06-19T15:54:23+00:00",
-      "link": "https://people.idsia.ch/~juergen/ai-boom-roots-munich-1991.html"
-    },
-    {
-      "title": "Billionaire Ambani wants AI in every call, app, and home",
-      "summary": "Reliance is weaving AI into telecom services used by more than 500 million people.",
-      "source": "TechCrunch",
-      "published": "2026-06-19T15:23:28+00:00",
-      "link": "https://techcrunch.com/2026/06/19/billionaire-ambani-wants-ai-in-every-call-app-and-home/"
     }
   ]
 };
