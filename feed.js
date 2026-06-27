@@ -1,6 +1,41 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-06-27T10:50:43.942004+00:00",
+  "lastUpdated": "2026-06-27T14:44:07.952555+00:00",
   "items": [
+    {
+      "title": "The fittest founder in the room got cancer. Here’s how he used AI to fight back.",
+      "summary": "When confronted with cancer, Connor Christou fed everything tied tied to his regime — blood results, scan data, wearable output, journal entries — into Claude.",
+      "source": "TechCrunch",
+      "published": "2026-06-27T14:00:00+00:00",
+      "link": "https://techcrunch.com/2026/06/27/the-fittest-founder-in-the-room-got-cancer-heres-how-he-used-ai-to-fight-back/"
+    },
+    {
+      "title": "Why is Apple asking me to pay more for Big Tech’s AI obsession?",
+      "summary": "Tim Cook recently said price increases were \"unavoidable\" and described the company's pricing as \"unsustainable.\" The 16-inch MacBook Pro saw its price go up by $300. The 11-inch iPad Air went from $599 to $749.",
+      "source": "The Verge",
+      "published": "2026-06-27T13:30:00+00:00",
+      "link": "https://www.theverge.com/report/958678/apple-consumer-price-increase-ai-big-tech"
+    },
+    {
+      "title": "J.P. Morgan sees a pile of red flags in the AI market",
+      "summary": "J.P. Morgan warns that there are \"signs of investor exuberance\" in AI markets.",
+      "source": "The Decoder",
+      "published": "2026-06-27T13:22:44+00:00",
+      "link": "https://the-decoder.com/j-p-morgan-sees-a-pile-of-red-flags-in-the-ai-market/"
+    },
+    {
+      "title": "The companies most likely to automate your job are now funding a $1 billion program to retrain you",
+      "summary": "Former US Commerce Secretary Gina Raimondo has launched \"Raise Us,\" a bipartisan nonprofit to prepare American workers for AI-driven job shifts. Amazon, Anthropic, Microsoft, and the OpenAI Foundation are jointly funding the initiative.",
+      "source": "The Decoder",
+      "published": "2026-06-27T12:25:21+00:00",
+      "link": "https://the-decoder.com/the-companies-most-likely-to-automate-your-job-are-now-funding-a-1-billion-program-to-retrain-you/"
+    },
+    {
+      "title": "Asian AI startups launch Mythos-like models as Anthropic’s export ban drags on",
+      "summary": "New models are launching in Asia that promise Mythos-like capabilities without fear of an export ban. U.S.",
+      "source": "TechCrunch",
+      "published": "2026-06-27T12:00:00+00:00",
+      "link": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/"
+    },
     {
       "title": "Anthropic gets US approval to bring back Claude Mythos 5",
       "summary": "Anthropic has US approval to redeploy Claude Mythos 5 for organizations running critical infrastructure. The company is still negotiating broader access and the return of Fable 5, with no timeline set.",
@@ -1365,41 +1400,6 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-06-20T08:44:19+00:00",
       "link": "https://the-decoder.com/chatgpt-keeps-creeping-toward-becoming-your-ai-personal-assistant-with-new-scheduled-task-controls/"
-    },
-    {
-      "title": "OpenAI tripled revenue to $5.7 billion in Q1 but burned through $3.7 billion to get there",
-      "summary": "In the first quarter of 2026, OpenAI pulled in $5.7 billion in revenue and burned through about $3.7 billion, both figures tripled year over year. Stock-based compensation alone ate up over $2.3 billion.",
-      "source": "The Decoder",
-      "published": "2026-06-20T08:02:07+00:00",
-      "link": "https://the-decoder.com/openai-tripled-revenue-to-5-7-billion-in-q1-but-burned-through-3-7-billion-to-get-there/"
-    },
-    {
-      "title": "From PGP to Mythos: a brief history of export controls that didn’t stop anyone",
-      "summary": "For the last 30 years, stopping the flow of cybersecurity-related software has proven to be ineffective. It's unclear why it would work now with Anthropic’s cybersecurity model Mythos.",
-      "source": "TechCrunch",
-      "published": "2026-06-19T22:40:14+00:00",
-      "link": "https://techcrunch.com/2026/06/19/encryption-spyware-and-now-mythos-history-shows-why-cyber-export-control-doesnt-work/"
-    },
-    {
-      "title": "Companies rein in AI usage as costs strain budgets",
-      "summary": "https://archive.ph/z24oE Comments URL: https://news.ycombinator.com/item?id=48602571 Points: 121 # Comments: 107",
-      "source": "Hacker News",
-      "published": "2026-06-19T19:57:18+00:00",
-      "link": "https://www.ft.com/content/1d37cc08-e0aa-45a4-a45d-4ad282529314"
-    },
-    {
-      "title": "Norway bans generative AI tools in elementary schools to protect kids' basic learning skills",
-      "summary": "Norway is banning generative AI tools in elementary schools starting in late August. Students in grades 1 through 7 won't be allowed to use AI at all; secondary schools will permit it only under supervision.",
-      "source": "The Decoder",
-      "published": "2026-06-19T18:45:10+00:00",
-      "link": "https://the-decoder.com/norway-bans-generative-ai-tools-in-elementary-schools-to-protect-kids-basic-learning-skills/"
-    },
-    {
-      "title": "Is AI ruining our skills? Early results are in – and they're not good",
-      "summary": "Article URL: https://www.nature.com/articles/d41586-026-01947-1 Comments URL: https://news.ycombinator.com/item?id=48601286 Points: 250 # Comments: 317",
-      "source": "Hacker News",
-      "published": "2026-06-19T18:00:48+00:00",
-      "link": "https://www.nature.com/articles/d41586-026-01947-1"
     }
   ]
 };
