@@ -1,6 +1,27 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-06-27T14:44:07.952555+00:00",
+  "lastUpdated": "2026-06-27T17:57:18.017053+00:00",
   "items": [
+    {
+      "title": "Anthropic's Fable 5 could return within days as Trump administration prepares to lift restrictions",
+      "summary": "Anthropic's AI model, Fable 5, could be available again within days. According to Axios, the Trump administration is close to lifting the restrictions imposed on June 12 over safety concerns.",
+      "source": "The Decoder",
+      "published": "2026-06-27T17:03:06+00:00",
+      "link": "https://the-decoder.com/anthropics-fable-5-could-return-within-days-as-trump-administration-prepares-to-lift-restrictions/"
+    },
+    {
+      "title": "Apple Vision Pro exec is reportedly leaving for OpenAI",
+      "summary": "Paul Meade, the Apple vice president in charge of the Vision Pro headset, is reportedly leaving the company to join OpenAI’s hardware team.",
+      "source": "TechCrunch",
+      "published": "2026-06-27T16:45:09+00:00",
+      "link": "https://techcrunch.com/2026/06/27/apple-vision-pro-exec-is-reportedly-leaving-for-openai/"
+    },
+    {
+      "title": "Half of Claude users say AI can already handle half their work according to Anthropic survey",
+      "summary": "About half of Claude users say AI can already handle 50 percent or more of their work tasks, according to a survey of roughly 9,700 users by Anthropic. In 12 months, 26 percent expect AI to cover 60 to 90 percent of their work.",
+      "source": "The Decoder",
+      "published": "2026-06-27T15:28:59+00:00",
+      "link": "https://the-decoder.com/half-of-claude-users-say-ai-can-already-handle-half-their-work-according-to-anthropic-survey/"
+    },
     {
       "title": "The fittest founder in the room got cancer. Here’s how he used AI to fight back.",
       "summary": "When confronted with cancer, Connor Christou fed everything tied tied to his regime — blood results, scan data, wearable output, journal entries — into Claude.",
@@ -21,6 +42,13 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-06-27T13:22:44+00:00",
       "link": "https://the-decoder.com/j-p-morgan-sees-a-pile-of-red-flags-in-the-ai-market/"
+    },
+    {
+      "title": "Asian AI startups launch Mythos-like models",
+      "summary": "Article URL: https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/ Comments URL: https://news.ycombinator.com/item?id=48697958 Points: 58 # Comments: 57",
+      "source": "Hacker News",
+      "published": "2026-06-27T13:10:21+00:00",
+      "link": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/"
     },
     {
       "title": "The companies most likely to automate your job are now funding a $1 billion program to retrain you",
@@ -49,6 +77,13 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-06-27T09:23:42+00:00",
       "link": "https://the-decoder.com/gpt-5-6-sol-cheats-on-software-tests-more-than-any-model-before-it/"
+    },
+    {
+      "title": "DSpark: Speculative decoding accelerates LLM inference [pdf]",
+      "summary": "Article URL: https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf Comments URL: https://news.ycombinator.com/item?id=48696585 Points: 648 # Comments: 246",
+      "source": "Hacker News",
+      "published": "2026-06-27T09:18:52+00:00",
+      "link": "https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf"
     },
     {
       "title": "ByteDance's \"iLLaDA\" is a diffusion language model that keeps up with Qwen2.5",
@@ -80,14 +115,14 @@ const FEED_DATA = {
     },
     {
       "title": "U.S. allows Anthropic to release Mythos AI to ‘trusted’ US organizations",
-      "summary": "https://archive.md/ArXuFhttps://www.nbcnews.com/tech/tech-news/us-government-gives-a... Comments URL: https://news.ycombinator.com/item?id=48692995 Points: 451 # Comments: 535",
+      "summary": "https://archive.md/ArXuFhttps://www.nbcnews.com/tech/tech-news/us-government-gives-a... Comments URL: https://news.ycombinator.com/item?id=48692995 Points: 524 # Comments: 700",
       "source": "Hacker News",
       "published": "2026-06-26T22:48:28+00:00",
       "link": "https://www.semafor.com/article/06/27/2026/us-releases-powerful-anthropic-model-mythos-to-some-us-companies"
     },
     {
       "title": "AI in mathematics is forcing big questions",
-      "summary": "Article URL: https://spectrum.ieee.org/ai-in-mathematics Comments URL: https://news.ycombinator.com/item?id=48692883 Points: 133 # Comments: 99",
+      "summary": "Article URL: https://spectrum.ieee.org/ai-in-mathematics Comments URL: https://news.ycombinator.com/item?id=48692883 Points: 183 # Comments: 158",
       "source": "Hacker News",
       "published": "2026-06-26T22:36:51+00:00",
       "link": "https://spectrum.ieee.org/ai-in-mathematics"
@@ -115,7 +150,7 @@ const FEED_DATA = {
     },
     {
       "title": "U.S. government will decide who gets to use GPT-5.6",
-      "summary": "https://archive.ph/PCQQl Comments URL: https://news.ycombinator.com/item?id=48690101 Points: 1043 # Comments: 1101",
+      "summary": "https://archive.ph/PCQQl Comments URL: https://news.ycombinator.com/item?id=48690101 Points: 1128 # Comments: 1184",
       "source": "Hacker News",
       "published": "2026-06-26T18:23:14+00:00",
       "link": "https://www.washingtonpost.com/technology/2026/06/26/openai-says-us-government-will-vet-users-its-latest-ai-model/"
@@ -143,7 +178,7 @@ const FEED_DATA = {
     },
     {
       "title": "Previewing GPT‑5.6 Sol: a next-generation model",
-      "summary": "System card: https://deploymentsafety.openai.com/gpt-5-6-preview Comments URL: https://news.ycombinator.com/item?id=48689028 Points: 1018 # Comments: 639",
+      "summary": "System card: https://deploymentsafety.openai.com/gpt-5-6-preview Comments URL: https://news.ycombinator.com/item?id=48689028 Points: 1084 # Comments: 690",
       "source": "Hacker News",
       "published": "2026-06-26T17:06:55+00:00",
       "link": "https://openai.com/index/previewing-gpt-5-6-sol/"
@@ -178,7 +213,7 @@ const FEED_DATA = {
     },
     {
       "title": "The AI industry is pouring millions into US elections",
-      "summary": "Article URL: https://www.bloodinthemachine.com/p/the-ai-industry-is-pouring-hundreds Comments URL: https://news.ycombinator.com/item?id=48687483 Points: 117 # Comments: 82",
+      "summary": "Article URL: https://www.bloodinthemachine.com/p/the-ai-industry-is-pouring-hundreds Comments URL: https://news.ycombinator.com/item?id=48687483 Points: 120 # Comments: 82",
       "source": "Hacker News",
       "published": "2026-06-26T15:02:43+00:00",
       "link": "https://www.bloodinthemachine.com/p/the-ai-industry-is-pouring-hundreds"
@@ -206,7 +241,7 @@ const FEED_DATA = {
     },
     {
       "title": "The AI backlash is only getting started",
-      "summary": "Article URL: https://www.economist.com/leaders/2026/06/25/the-ai-backlash-is-only-getting-started Comments URL: https://news.ycombinator.com/item?id=48686219 Points: 91 # Comments: 263",
+      "summary": "Article URL: https://www.economist.com/leaders/2026/06/25/the-ai-backlash-is-only-getting-started Comments URL: https://news.ycombinator.com/item?id=48686219 Points: 92 # Comments: 264",
       "source": "Hacker News",
       "published": "2026-06-26T13:12:04+00:00",
       "link": "https://www.economist.com/leaders/2026/06/25/the-ai-backlash-is-only-getting-started"
@@ -262,28 +297,28 @@ const FEED_DATA = {
     },
     {
       "title": "Why current LLM costs are not sustainable",
-      "summary": "Article URL: https://aditya.patadia.org/p/ai-and-cloud-costs Comments URL: https://news.ycombinator.com/item?id=48683588 Points: 113 # Comments: 189",
+      "summary": "Article URL: https://aditya.patadia.org/p/ai-and-cloud-costs Comments URL: https://news.ycombinator.com/item?id=48683588 Points: 114 # Comments: 192",
       "source": "Hacker News",
       "published": "2026-06-26T07:44:11+00:00",
       "link": "https://aditya.patadia.org/p/ai-and-cloud-costs"
     },
     {
       "title": "US Govt to individually approve who gets GPT 5.6",
-      "summary": "Article URL: https://old.reddit.com/r/LocalLLaMA/comments/1ufo0un/us_govt_to_individually_approve_who_gets_gpt_56/ Comments URL: https://news.ycombinator.com/item?id=48683021 Points: 141 # Comments: 1",
+      "summary": "Article URL: https://old.reddit.com/r/LocalLLaMA/comments/1ufo0un/us_govt_to_individually_approve_who_gets_gpt_56/ Comments URL: https://news.ycombinator.com/item?id=48683021 Points: 143 # Comments: 1",
       "source": "Hacker News",
       "published": "2026-06-26T06:24:39+00:00",
       "link": "https://old.reddit.com/r/LocalLLaMA/comments/1ufo0un/us_govt_to_individually_approve_who_gets_gpt_56/"
     },
     {
       "title": "What happened after 2k people tried to hack my AI assistant",
-      "summary": "Article URL: https://www.fernandoi.cl/posts/hackmyclaw/ Comments URL: https://news.ycombinator.com/item?id=48681687 Points: 363 # Comments: 160",
+      "summary": "Article URL: https://www.fernandoi.cl/posts/hackmyclaw/ Comments URL: https://news.ycombinator.com/item?id=48681687 Points: 366 # Comments: 160",
       "source": "Hacker News",
       "published": "2026-06-26T02:29:23+00:00",
       "link": "https://www.fernandoi.cl/posts/hackmyclaw/"
     },
     {
       "title": "AI children's books, body horror edition",
-      "summary": "Article URL: https://lcamtuf.substack.com/p/ai-childrens-books-body-horror-edition Comments URL: https://news.ycombinator.com/item?id=48681250 Points: 206 # Comments: 77",
+      "summary": "Article URL: https://lcamtuf.substack.com/p/ai-childrens-books-body-horror-edition Comments URL: https://news.ycombinator.com/item?id=48681250 Points: 208 # Comments: 77",
       "source": "Hacker News",
       "published": "2026-06-26T01:15:14+00:00",
       "link": "https://lcamtuf.substack.com/p/ai-childrens-books-body-horror-edition"
@@ -339,7 +374,7 @@ const FEED_DATA = {
     },
     {
       "title": "Apple to skip high-end M6 Mac chips in favor of AI-focused M7 line",
-      "summary": "Giftlink: https://www.bloomberg.com/news/articles/2026-06-25/apple-to-...also https://www.msn.com/en-ca/lifestyle/shopping/apple-to-skip-h... Comments URL: https://news.ycombinator.com/item?id=48676795 Points: 309 # Comments: 365",
+      "summary": "Giftlink: https://www.bloomberg.com/news/articles/2026-06-25/apple-to-...also https://www.msn.com/en-ca/lifestyle/shopping/apple-to-skip-h... Comments URL: https://news.ycombinator.com/item?id=48676795 Points: 312 # Comments: 368",
       "source": "Hacker News",
       "published": "2026-06-25T17:38:44+00:00",
       "link": "https://www.bloomberg.com/news/articles/2026-06-25/apple-to-skip-high-end-m6-mac-chips-to-launch-m7-pro-m7-max-m7-ultra-instead?embedded-checkout=true"
@@ -381,7 +416,7 @@ const FEED_DATA = {
     },
     {
       "title": "Ford AI hiccups push carmaker to rehire ‘gray beard’ inspectors",
-      "summary": "https://archive.ph/DI4Cq Comments URL: https://news.ycombinator.com/item?id=48674446 Points: 600 # Comments: 320",
+      "summary": "https://archive.ph/DI4Cq Comments URL: https://news.ycombinator.com/item?id=48674446 Points: 600 # Comments: 321",
       "source": "Hacker News",
       "published": "2026-06-25T14:58:50+00:00",
       "link": "https://www.bloomberg.com/news/articles/2026-06-25/ford-has-been-rehiring-quality-inspectors-after-ai-fell-short"
@@ -430,7 +465,7 @@ const FEED_DATA = {
     },
     {
       "title": "Political bias in AI: Where the AI models stand",
-      "summary": "Article URL: https://trakkr.ai/bias Comments URL: https://news.ycombinator.com/item?id=48672779 Points: 173 # Comments: 304",
+      "summary": "Article URL: https://trakkr.ai/bias Comments URL: https://news.ycombinator.com/item?id=48672779 Points: 175 # Comments: 306",
       "source": "Hacker News",
       "published": "2026-06-25T13:08:31+00:00",
       "link": "https://trakkr.ai/bias"
@@ -591,7 +626,7 @@ const FEED_DATA = {
     },
     {
       "title": "Anthropic says Alibaba illicitly extracted Claude AI model capabilities",
-      "summary": "Article URL: https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/ Comments URL: https://news.ycombinator.com/item?id=48664814 Points: 796 # Comments: 1296",
+      "summary": "Article URL: https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/ Comments URL: https://news.ycombinator.com/item?id=48664814 Points: 801 # Comments: 1297",
       "source": "Hacker News",
       "published": "2026-06-24T19:48:01+00:00",
       "link": "https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/"
@@ -1365,41 +1400,6 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-06-20T13:15:08+00:00",
       "link": "https://the-decoder.com/openais-codex-can-now-watch-you-work-once-and-repeat-the-task-forever/"
-    },
-    {
-      "title": "NYU finance professor Damodaran warns an AI crash could hit harder than the dot-com bust",
-      "summary": "NYU finance professor Aswath Damodaran believes a potential AI crash would be more painful than the bursting of the dot-com bubble because the industry is building massive amounts of debt-financed physical infrastructure rather than lightweight software.",
-      "source": "The Decoder",
-      "published": "2026-06-20T12:26:57+00:00",
-      "link": "https://the-decoder.com/nyu-finance-professor-damodaran-warns-an-ai-crash-could-hit-harder-than-the-dot-com-bust/"
-    },
-    {
-      "title": "Temporary Cloudflare accounts for AI agents",
-      "summary": "Article URL: https://blog.cloudflare.com/temporary-accounts/ Comments URL: https://news.ycombinator.com/item?id=48608394 Points: 246 # Comments: 151",
-      "source": "Hacker News",
-      "published": "2026-06-20T11:19:05+00:00",
-      "link": "https://blog.cloudflare.com/temporary-accounts/"
-    },
-    {
-      "title": "Siri AI Hands On: A Smart, Helpful Assistant",
-      "summary": "The new Siri AI is conversational, omnipresent, and actually helpful.",
-      "source": "Wired",
-      "published": "2026-06-20T10:00:00+00:00",
-      "link": "https://www.wired.com/story/siri-ai-hands-on-iphone/"
-    },
-    {
-      "title": "Data2Story turns a CSV file into a verified interactive news article using seven AI agents",
-      "summary": "Seven AI agents work together like a newsroom. The \"Data Journalist Agent\" from Oxford and Stanford turns a CSV file into a finished interactive article with graphics, web research, and verifiable source links for 93 percent of all statements.",
-      "source": "The Decoder",
-      "published": "2026-06-20T09:51:55+00:00",
-      "link": "https://the-decoder.com/data2story-turns-a-csv-file-into-a-verified-interactive-news-article-using-seven-ai-agents/"
-    },
-    {
-      "title": "ChatGPT keeps creeping toward becoming your AI personal assistant with new scheduled task controls",
-      "summary": "OpenAI is upgrading ChatGPT's scheduling feature. A new \"Scheduled\" page in the sidebar puts all active tasks in one place, letting users view, pause, edit, or delete them.",
-      "source": "The Decoder",
-      "published": "2026-06-20T08:44:19+00:00",
-      "link": "https://the-decoder.com/chatgpt-keeps-creeping-toward-becoming-your-ai-personal-assistant-with-new-scheduled-task-controls/"
     }
   ]
 };
