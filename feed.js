@@ -1,6 +1,20 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-06-27T21:56:36.069198+00:00",
+  "lastUpdated": "2026-06-28T05:16:42.612002+00:00",
   "items": [
+    {
+      "title": "Ford hired AI and sacked humans. It backfired badly",
+      "summary": "Article URL: https://www.the-independent.com/tech/ford-ai-automation-human-workers-b3003787.html Comments URL: https://news.ycombinator.com/item?id=48703968 Points: 69 # Comments: 39",
+      "source": "Hacker News",
+      "published": "2026-06-28T03:09:13+00:00",
+      "link": "https://www.the-independent.com/tech/ford-ai-automation-human-workers-b3003787.html"
+    },
+    {
+      "title": "Response to AI slop is from Robin Williams",
+      "summary": "Article URL: https://jayacunzo.com/blog/your-move-chief Comments URL: https://news.ycombinator.com/item?id=48703452 Points: 128 # Comments: 73",
+      "source": "Hacker News",
+      "published": "2026-06-28T01:28:10+00:00",
+      "link": "https://jayacunzo.com/blog/your-move-chief"
+    },
     {
       "title": "Margaret Atwood says the problem with AI is ‘garbage in, garbage out’",
       "summary": "Maraget Atwood, the storied author of The Handmaid's Tale and The Blind Assassin, was interviewed as part of the Babell Literary and Cultural Festival in Porto, Portugal. As it usually does at these things, the issue of AI came up, and Atwood didn't mince words.",
@@ -52,7 +66,7 @@ const FEED_DATA = {
     },
     {
       "title": "Asian AI startups launch Mythos-like models",
-      "summary": "Article URL: https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/ Comments URL: https://news.ycombinator.com/item?id=48697958 Points: 84 # Comments: 79",
+      "summary": "Article URL: https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/ Comments URL: https://news.ycombinator.com/item?id=48697958 Points: 189 # Comments: 146",
       "source": "Hacker News",
       "published": "2026-06-27T13:10:21+00:00",
       "link": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/"
@@ -87,7 +101,7 @@ const FEED_DATA = {
     },
     {
       "title": "DSpark: Speculative decoding accelerates LLM inference [pdf]",
-      "summary": "Article URL: https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf Comments URL: https://news.ycombinator.com/item?id=48696585 Points: 701 # Comments: 288",
+      "summary": "Article URL: https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf Comments URL: https://news.ycombinator.com/item?id=48696585 Points: 745 # Comments: 311",
       "source": "Hacker News",
       "published": "2026-06-27T09:18:52+00:00",
       "link": "https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf"
@@ -122,14 +136,14 @@ const FEED_DATA = {
     },
     {
       "title": "U.S. allows Anthropic to release Mythos AI to ‘trusted’ US organizations",
-      "summary": "https://archive.md/ArXuFhttps://www.nbcnews.com/tech/tech-news/us-government-gives-a... Comments URL: https://news.ycombinator.com/item?id=48692995 Points: 539 # Comments: 730",
+      "summary": "https://archive.md/ArXuFhttps://www.nbcnews.com/tech/tech-news/us-government-gives-a... Comments URL: https://news.ycombinator.com/item?id=48692995 Points: 544 # Comments: 755",
       "source": "Hacker News",
       "published": "2026-06-26T22:48:28+00:00",
       "link": "https://www.semafor.com/article/06/27/2026/us-releases-powerful-anthropic-model-mythos-to-some-us-companies"
     },
     {
       "title": "AI in mathematics is forcing big questions",
-      "summary": "Article URL: https://spectrum.ieee.org/ai-in-mathematics Comments URL: https://news.ycombinator.com/item?id=48692883 Points: 193 # Comments: 166",
+      "summary": "Article URL: https://spectrum.ieee.org/ai-in-mathematics Comments URL: https://news.ycombinator.com/item?id=48692883 Points: 201 # Comments: 169",
       "source": "Hacker News",
       "published": "2026-06-26T22:36:51+00:00",
       "link": "https://spectrum.ieee.org/ai-in-mathematics"
@@ -157,7 +171,7 @@ const FEED_DATA = {
     },
     {
       "title": "U.S. government will decide who gets to use GPT-5.6",
-      "summary": "https://archive.ph/PCQQl Comments URL: https://news.ycombinator.com/item?id=48690101 Points: 1144 # Comments: 1204",
+      "summary": "https://archive.ph/PCQQl Comments URL: https://news.ycombinator.com/item?id=48690101 Points: 1154 # Comments: 1208",
       "source": "Hacker News",
       "published": "2026-06-26T18:23:14+00:00",
       "link": "https://www.washingtonpost.com/technology/2026/06/26/openai-says-us-government-will-vet-users-its-latest-ai-model/"
@@ -185,7 +199,7 @@ const FEED_DATA = {
     },
     {
       "title": "Previewing GPT‑5.6 Sol: a next-generation model",
-      "summary": "System card: https://deploymentsafety.openai.com/gpt-5-6-preview Comments URL: https://news.ycombinator.com/item?id=48689028 Points: 1099 # Comments: 709",
+      "summary": "System card: https://deploymentsafety.openai.com/gpt-5-6-preview Comments URL: https://news.ycombinator.com/item?id=48689028 Points: 1108 # Comments: 722",
       "source": "Hacker News",
       "published": "2026-06-26T17:06:55+00:00",
       "link": "https://openai.com/index/previewing-gpt-5-6-sol/"
@@ -248,7 +262,7 @@ const FEED_DATA = {
     },
     {
       "title": "The AI backlash is only getting started",
-      "summary": "Article URL: https://www.economist.com/leaders/2026/06/25/the-ai-backlash-is-only-getting-started Comments URL: https://news.ycombinator.com/item?id=48686219 Points: 94 # Comments: 265",
+      "summary": "Article URL: https://www.economist.com/leaders/2026/06/25/the-ai-backlash-is-only-getting-started Comments URL: https://news.ycombinator.com/item?id=48686219 Points: 95 # Comments: 265",
       "source": "Hacker News",
       "published": "2026-06-26T13:12:04+00:00",
       "link": "https://www.economist.com/leaders/2026/06/25/the-ai-backlash-is-only-getting-started"
@@ -318,14 +332,14 @@ const FEED_DATA = {
     },
     {
       "title": "What happened after 2k people tried to hack my AI assistant",
-      "summary": "Article URL: https://www.fernandoi.cl/posts/hackmyclaw/ Comments URL: https://news.ycombinator.com/item?id=48681687 Points: 368 # Comments: 160",
+      "summary": "Article URL: https://www.fernandoi.cl/posts/hackmyclaw/ Comments URL: https://news.ycombinator.com/item?id=48681687 Points: 369 # Comments: 160",
       "source": "Hacker News",
       "published": "2026-06-26T02:29:23+00:00",
       "link": "https://www.fernandoi.cl/posts/hackmyclaw/"
     },
     {
       "title": "AI children's books, body horror edition",
-      "summary": "Article URL: https://lcamtuf.substack.com/p/ai-childrens-books-body-horror-edition Comments URL: https://news.ycombinator.com/item?id=48681250 Points: 210 # Comments: 77",
+      "summary": "Article URL: https://lcamtuf.substack.com/p/ai-childrens-books-body-horror-edition Comments URL: https://news.ycombinator.com/item?id=48681250 Points: 212 # Comments: 77",
       "source": "Hacker News",
       "published": "2026-06-26T01:15:14+00:00",
       "link": "https://lcamtuf.substack.com/p/ai-childrens-books-body-horror-edition"
@@ -381,7 +395,7 @@ const FEED_DATA = {
     },
     {
       "title": "Apple to skip high-end M6 Mac chips in favor of AI-focused M7 line",
-      "summary": "Giftlink: https://www.bloomberg.com/news/articles/2026-06-25/apple-to-...also https://www.msn.com/en-ca/lifestyle/shopping/apple-to-skip-h... Comments URL: https://news.ycombinator.com/item?id=48676795 Points: 312 # Comments: 373",
+      "summary": "Giftlink: https://www.bloomberg.com/news/articles/2026-06-25/apple-to-...also https://www.msn.com/en-ca/lifestyle/shopping/apple-to-skip-h... Comments URL: https://news.ycombinator.com/item?id=48676795 Points: 313 # Comments: 374",
       "source": "Hacker News",
       "published": "2026-06-25T17:38:44+00:00",
       "link": "https://www.bloomberg.com/news/articles/2026-06-25/apple-to-skip-high-end-m6-mac-chips-to-launch-m7-pro-m7-max-m7-ultra-instead?embedded-checkout=true"
@@ -423,7 +437,7 @@ const FEED_DATA = {
     },
     {
       "title": "Ford AI hiccups push carmaker to rehire ‘gray beard’ inspectors",
-      "summary": "https://archive.ph/DI4Cq Comments URL: https://news.ycombinator.com/item?id=48674446 Points: 601 # Comments: 321",
+      "summary": "https://archive.ph/DI4Cq Comments URL: https://news.ycombinator.com/item?id=48674446 Points: 605 # Comments: 321",
       "source": "Hacker News",
       "published": "2026-06-25T14:58:50+00:00",
       "link": "https://www.bloomberg.com/news/articles/2026-06-25/ford-has-been-rehiring-quality-inspectors-after-ai-fell-short"
@@ -472,7 +486,7 @@ const FEED_DATA = {
     },
     {
       "title": "Political bias in AI: Where the AI models stand",
-      "summary": "Article URL: https://trakkr.ai/bias Comments URL: https://news.ycombinator.com/item?id=48672779 Points: 175 # Comments: 306",
+      "summary": "Article URL: https://trakkr.ai/bias Comments URL: https://news.ycombinator.com/item?id=48672779 Points: 176 # Comments: 306",
       "source": "Hacker News",
       "published": "2026-06-25T13:08:31+00:00",
       "link": "https://trakkr.ai/bias"
@@ -1386,20 +1400,6 @@ const FEED_DATA = {
       "source": "The Verge",
       "published": "2026-06-20T18:46:48+00:00",
       "link": "https://www.theverge.com/ai-artificial-intelligence/953183/the-atlantic-searchable-database-music-ai-training-data"
-    },
-    {
-      "title": "The EU doesn't really know what a deepfake is, and that's becoming a problem for retail",
-      "summary": "Eurocommerce, the trade association behind Amazon, H&M, and IKEA, wants AI-generated ads exempt from the EU AI Act's transparency rules. The argument: an AI-generated living room image used to sell a sofa isn't a deepfake.",
-      "source": "The Decoder",
-      "published": "2026-06-20T17:17:38+00:00",
-      "link": "https://the-decoder.com/the-eu-doesnt-really-know-what-a-deepfake-is-and-thats-becoming-a-problem-for-retail/"
-    },
-    {
-      "title": "Nobel laureate John Jumper is leaving DeepMind for rival Anthropic",
-      "summary": "Jumper isn't the only big name leaving Google DeepMind.",
-      "source": "TechCrunch",
-      "published": "2026-06-20T16:39:57+00:00",
-      "link": "https://techcrunch.com/2026/06/20/nobel-laureate-john-jumper-is-leaving-deepmind-for-rival-anthropic/"
     }
   ]
 };
