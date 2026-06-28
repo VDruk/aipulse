@@ -1,12 +1,33 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-06-28T05:16:42.612002+00:00",
+  "lastUpdated": "2026-06-28T08:22:51.860019+00:00",
   "items": [
     {
+      "title": "Sina's open model VibeThinker-3B aims to show reasoning compresses well but factual knowledge doesn't",
+      "summary": "Sina Weibo's VibeThinker-3B has just three billion parameters but matches models like DeepSeek V3.2 and Kimi K2.5 on math and coding benchmarks. Those models are up to 333 times larger.",
+      "source": "The Decoder",
+      "published": "2026-06-28T07:44:41+00:00",
+      "link": "https://the-decoder.com/sinas-open-model-vibethinker-3b-aims-to-show-reasoning-compresses-well-but-factual-knowledge-doesnt/"
+    },
+    {
+      "title": "Wayfinder Router: deterministic routing of queries between local and hosted LLM",
+      "summary": "Article URL: https://github.com/itsthelore/wayfinder-router Comments URL: https://news.ycombinator.com/item?id=48704373 Points: 52 # Comments: 9",
+      "source": "Hacker News",
+      "published": "2026-06-28T04:31:18+00:00",
+      "link": "https://github.com/itsthelore/wayfinder-router"
+    },
+    {
       "title": "Ford hired AI and sacked humans. It backfired badly",
-      "summary": "Article URL: https://www.the-independent.com/tech/ford-ai-automation-human-workers-b3003787.html Comments URL: https://news.ycombinator.com/item?id=48703968 Points: 69 # Comments: 39",
+      "summary": "Article URL: https://www.the-independent.com/tech/ford-ai-automation-human-workers-b3003787.html Comments URL: https://news.ycombinator.com/item?id=48703968 Points: 166 # Comments: 91",
       "source": "Hacker News",
       "published": "2026-06-28T03:09:13+00:00",
       "link": "https://www.the-independent.com/tech/ford-ai-automation-human-workers-b3003787.html"
+    },
+    {
+      "title": "The best response to AI slop and online noise is from Robin Williams",
+      "summary": "Article URL: https://jayacunzo.com/blog/your-move-chief Comments URL: https://news.ycombinator.com/item?id=48703452 Points: 196 # Comments: 112",
+      "source": "Hacker News",
+      "published": "2026-06-28T01:28:10+00:00",
+      "link": "https://jayacunzo.com/blog/your-move-chief"
     },
     {
       "title": "Response to AI slop is from Robin Williams",
@@ -14,6 +35,13 @@ const FEED_DATA = {
       "source": "Hacker News",
       "published": "2026-06-28T01:28:10+00:00",
       "link": "https://jayacunzo.com/blog/your-move-chief"
+    },
+    {
+      "title": "Everyone feared AI taking over; the real danger is AI serving just the few",
+      "summary": "Everyone feared AI would enslave humanity; but it looks like the real fight is stopping governments and Big Tech from enslaving AI for the benefit of the few.Amid the newly announced \"regulation\" of OpenAI's frontier models, I believe the future majority feared the most - sort...",
+      "source": "Hacker News",
+      "published": "2026-06-27T20:48:01+00:00",
+      "link": "https://news.ycombinator.com/item?id=48701615"
     },
     {
       "title": "Margaret Atwood says the problem with AI is ‘garbage in, garbage out’",
@@ -66,7 +94,7 @@ const FEED_DATA = {
     },
     {
       "title": "Asian AI startups launch Mythos-like models",
-      "summary": "Article URL: https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/ Comments URL: https://news.ycombinator.com/item?id=48697958 Points: 189 # Comments: 146",
+      "summary": "Article URL: https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/ Comments URL: https://news.ycombinator.com/item?id=48697958 Points: 219 # Comments: 169",
       "source": "Hacker News",
       "published": "2026-06-27T13:10:21+00:00",
       "link": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/"
@@ -101,7 +129,7 @@ const FEED_DATA = {
     },
     {
       "title": "DSpark: Speculative decoding accelerates LLM inference [pdf]",
-      "summary": "Article URL: https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf Comments URL: https://news.ycombinator.com/item?id=48696585 Points: 745 # Comments: 311",
+      "summary": "Article URL: https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf Comments URL: https://news.ycombinator.com/item?id=48696585 Points: 756 # Comments: 318",
       "source": "Hacker News",
       "published": "2026-06-27T09:18:52+00:00",
       "link": "https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf"
@@ -136,7 +164,7 @@ const FEED_DATA = {
     },
     {
       "title": "U.S. allows Anthropic to release Mythos AI to ‘trusted’ US organizations",
-      "summary": "https://archive.md/ArXuFhttps://www.nbcnews.com/tech/tech-news/us-government-gives-a... Comments URL: https://news.ycombinator.com/item?id=48692995 Points: 544 # Comments: 755",
+      "summary": "https://archive.md/ArXuFhttps://www.nbcnews.com/tech/tech-news/us-government-gives-a... Comments URL: https://news.ycombinator.com/item?id=48692995 Points: 546 # Comments: 759",
       "source": "Hacker News",
       "published": "2026-06-26T22:48:28+00:00",
       "link": "https://www.semafor.com/article/06/27/2026/us-releases-powerful-anthropic-model-mythos-to-some-us-companies"
@@ -171,7 +199,7 @@ const FEED_DATA = {
     },
     {
       "title": "U.S. government will decide who gets to use GPT-5.6",
-      "summary": "https://archive.ph/PCQQl Comments URL: https://news.ycombinator.com/item?id=48690101 Points: 1154 # Comments: 1208",
+      "summary": "https://archive.ph/PCQQl Comments URL: https://news.ycombinator.com/item?id=48690101 Points: 1161 # Comments: 1210",
       "source": "Hacker News",
       "published": "2026-06-26T18:23:14+00:00",
       "link": "https://www.washingtonpost.com/technology/2026/06/26/openai-says-us-government-will-vet-users-its-latest-ai-model/"
@@ -199,7 +227,7 @@ const FEED_DATA = {
     },
     {
       "title": "Previewing GPT‑5.6 Sol: a next-generation model",
-      "summary": "System card: https://deploymentsafety.openai.com/gpt-5-6-preview Comments URL: https://news.ycombinator.com/item?id=48689028 Points: 1108 # Comments: 722",
+      "summary": "System card: https://deploymentsafety.openai.com/gpt-5-6-preview Comments URL: https://news.ycombinator.com/item?id=48689028 Points: 1112 # Comments: 722",
       "source": "Hacker News",
       "published": "2026-06-26T17:06:55+00:00",
       "link": "https://openai.com/index/previewing-gpt-5-6-sol/"
@@ -332,7 +360,7 @@ const FEED_DATA = {
     },
     {
       "title": "What happened after 2k people tried to hack my AI assistant",
-      "summary": "Article URL: https://www.fernandoi.cl/posts/hackmyclaw/ Comments URL: https://news.ycombinator.com/item?id=48681687 Points: 369 # Comments: 160",
+      "summary": "Article URL: https://www.fernandoi.cl/posts/hackmyclaw/ Comments URL: https://news.ycombinator.com/item?id=48681687 Points: 370 # Comments: 160",
       "source": "Hacker News",
       "published": "2026-06-26T02:29:23+00:00",
       "link": "https://www.fernandoi.cl/posts/hackmyclaw/"
@@ -395,7 +423,7 @@ const FEED_DATA = {
     },
     {
       "title": "Apple to skip high-end M6 Mac chips in favor of AI-focused M7 line",
-      "summary": "Giftlink: https://www.bloomberg.com/news/articles/2026-06-25/apple-to-...also https://www.msn.com/en-ca/lifestyle/shopping/apple-to-skip-h... Comments URL: https://news.ycombinator.com/item?id=48676795 Points: 313 # Comments: 374",
+      "summary": "Giftlink: https://www.bloomberg.com/news/articles/2026-06-25/apple-to-...also https://www.msn.com/en-ca/lifestyle/shopping/apple-to-skip-h... Comments URL: https://news.ycombinator.com/item?id=48676795 Points: 313 # Comments: 375",
       "source": "Hacker News",
       "published": "2026-06-25T17:38:44+00:00",
       "link": "https://www.bloomberg.com/news/articles/2026-06-25/apple-to-skip-high-end-m6-mac-chips-to-launch-m7-pro-m7-max-m7-ultra-instead?embedded-checkout=true"
@@ -437,7 +465,7 @@ const FEED_DATA = {
     },
     {
       "title": "Ford AI hiccups push carmaker to rehire ‘gray beard’ inspectors",
-      "summary": "https://archive.ph/DI4Cq Comments URL: https://news.ycombinator.com/item?id=48674446 Points: 605 # Comments: 321",
+      "summary": "https://archive.ph/DI4Cq Comments URL: https://news.ycombinator.com/item?id=48674446 Points: 606 # Comments: 321",
       "source": "Hacker News",
       "published": "2026-06-25T14:58:50+00:00",
       "link": "https://www.bloomberg.com/news/articles/2026-06-25/ford-has-been-rehiring-quality-inspectors-after-ai-fell-short"
@@ -1372,34 +1400,6 @@ const FEED_DATA = {
       "source": "Hacker News",
       "published": "2026-06-21T04:28:39+00:00",
       "link": "https://martinfowler.com/articles/reliable-llm-bayer.html"
-    },
-    {
-      "title": "When I reject AI code even if it works",
-      "summary": "Article URL: https://vinibrasil.com/when-i-reject-ai-code-even-if-it-works/ Comments URL: https://news.ycombinator.com/item?id=48614631 Points: 231 # Comments: 167",
-      "source": "Hacker News",
-      "published": "2026-06-21T00:58:13+00:00",
-      "link": "https://vinibrasil.com/when-i-reject-ai-code-even-if-it-works/"
-    },
-    {
-      "title": "Signal’s Meredith Whittaker wants you to remember that AI chatbots ‘are not your friends’",
-      "summary": "\"These are not your friends. These are not conscious beings.",
-      "source": "TechCrunch",
-      "published": "2026-06-20T20:32:29+00:00",
-      "link": "https://techcrunch.com/2026/06/20/signals-meredith-whittaker-wants-you-to-remember-that-ai-chatbots-are-not-your-friends/"
-    },
-    {
-      "title": "In the Weights is your new AI-centric vanity search",
-      "summary": "So ... what's your In the Weights score?",
-      "source": "TechCrunch",
-      "published": "2026-06-20T19:41:11+00:00",
-      "link": "https://techcrunch.com/2026/06/20/in-the-weights-is-your-new-ai-centric-vanity-search/"
-    },
-    {
-      "title": "The Atlantic created a searchable database of the music used to train AI",
-      "summary": "Atlantic reporter Alex Reisner recently uncovered four datasets of music being used to train AI models and made them fully searchable for the public. Two of the sets are absolutely enormous at 12 million and 9 million tracks.",
-      "source": "The Verge",
-      "published": "2026-06-20T18:46:48+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/953183/the-atlantic-searchable-database-music-ai-training-data"
     }
   ]
 };
