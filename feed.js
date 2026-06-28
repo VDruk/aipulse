@@ -1,6 +1,27 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-06-28T10:56:58.768801+00:00",
+  "lastUpdated": "2026-06-28T14:49:25.047792+00:00",
   "items": [
+    {
+      "title": "Prosecutors used ChatGPT logs as evidence in the Palisades fire trial",
+      "summary": "Jonathan Rinderknecht was facing arson charges for setting a fire on New Year's Day in 2025, which became one of the deadliest wildfires in LA history. To make their case, prosecutors turned to location data from his iPhone, security camera footage, and witness testimony.",
+      "source": "The Verge",
+      "published": "2026-06-28T14:12:06+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/958751/prosecutors-chatgpt-palisades-wildfire-arson-mistrial"
+    },
+    {
+      "title": "AI won't become a real coworker until it stops answering and starts finishing tasks",
+      "summary": "A survey paper by Tencent and several Chinese universities traces the path from chatbot to \"digital colleague.\" AI systems won't become reliable coworkers, the researchers argue, until they finish entire tasks in persistent work environments instead of just generating answers.",
+      "source": "The Decoder",
+      "published": "2026-06-28T12:51:40+00:00",
+      "link": "https://the-decoder.com/ai-wont-become-a-real-coworker-until-it-stops-answering-and-starts-finishing-tasks/"
+    },
+    {
+      "title": "Coinbase joins the rush to Chinese AI models as Western labs face a pricing stress test",
+      "summary": "Coinbase CEO Brian Armstrong is switching his company to Chinese AI models like GLM 5.2 and Kimi 2.7. An automated routing system picks the best model for each request based on task and price, and better caching pushed the hit rate from 5 to 60 percent.",
+      "source": "The Decoder",
+      "published": "2026-06-28T12:14:38+00:00",
+      "link": "https://the-decoder.com/coinbase-joins-the-rush-to-chinese-ai-models-as-western-labs-face-a-pricing-stress-test/"
+    },
     {
       "title": "Only three AI models finished above starting capital in a 500-day startup survival test",
       "summary": "Researchers at Princeton University built CEO-Bench, a test where AI agents have to run a fictional software company for 500 simulated days. Most current models go broke, and a simple rule-based heuristic with no AI beats nearly all of them.",
@@ -24,21 +45,21 @@ const FEED_DATA = {
     },
     {
       "title": "Wayfinder Router: deterministic routing of queries between local and hosted LLM",
-      "summary": "Article URL: https://github.com/itsthelore/wayfinder-router Comments URL: https://news.ycombinator.com/item?id=48704373 Points: 52 # Comments: 9",
+      "summary": "Article URL: https://github.com/itsthelore/wayfinder-router Comments URL: https://news.ycombinator.com/item?id=48704373 Points: 89 # Comments: 45",
       "source": "Hacker News",
       "published": "2026-06-28T04:31:18+00:00",
       "link": "https://github.com/itsthelore/wayfinder-router"
     },
     {
       "title": "Ford hired AI and sacked humans. It backfired badly",
-      "summary": "Article URL: https://www.the-independent.com/tech/ford-ai-automation-human-workers-b3003787.html Comments URL: https://news.ycombinator.com/item?id=48703968 Points: 166 # Comments: 91",
+      "summary": "Article URL: https://www.the-independent.com/tech/ford-ai-automation-human-workers-b3003787.html Comments URL: https://news.ycombinator.com/item?id=48703968 Points: 213 # Comments: 155",
       "source": "Hacker News",
       "published": "2026-06-28T03:09:13+00:00",
       "link": "https://www.the-independent.com/tech/ford-ai-automation-human-workers-b3003787.html"
     },
     {
       "title": "The best response to AI slop and online noise is from Robin Williams",
-      "summary": "Article URL: https://jayacunzo.com/blog/your-move-chief Comments URL: https://news.ycombinator.com/item?id=48703452 Points: 196 # Comments: 112",
+      "summary": "Article URL: https://jayacunzo.com/blog/your-move-chief Comments URL: https://news.ycombinator.com/item?id=48703452 Points: 324 # Comments: 174",
       "source": "Hacker News",
       "published": "2026-06-28T01:28:10+00:00",
       "link": "https://jayacunzo.com/blog/your-move-chief"
@@ -108,7 +129,7 @@ const FEED_DATA = {
     },
     {
       "title": "Asian AI startups launch Mythos-like models",
-      "summary": "Article URL: https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/ Comments URL: https://news.ycombinator.com/item?id=48697958 Points: 219 # Comments: 169",
+      "summary": "Article URL: https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/ Comments URL: https://news.ycombinator.com/item?id=48697958 Points: 256 # Comments: 186",
       "source": "Hacker News",
       "published": "2026-06-27T13:10:21+00:00",
       "link": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/"
@@ -143,7 +164,7 @@ const FEED_DATA = {
     },
     {
       "title": "DSpark: Speculative decoding accelerates LLM inference [pdf]",
-      "summary": "Article URL: https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf Comments URL: https://news.ycombinator.com/item?id=48696585 Points: 756 # Comments: 318",
+      "summary": "Article URL: https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf Comments URL: https://news.ycombinator.com/item?id=48696585 Points: 775 # Comments: 335",
       "source": "Hacker News",
       "published": "2026-06-27T09:18:52+00:00",
       "link": "https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf"
@@ -178,14 +199,14 @@ const FEED_DATA = {
     },
     {
       "title": "U.S. allows Anthropic to release Mythos AI to ‘trusted’ US organizations",
-      "summary": "https://archive.md/ArXuFhttps://www.nbcnews.com/tech/tech-news/us-government-gives-a... Comments URL: https://news.ycombinator.com/item?id=48692995 Points: 546 # Comments: 759",
+      "summary": "https://archive.md/ArXuFhttps://www.nbcnews.com/tech/tech-news/us-government-gives-a... Comments URL: https://news.ycombinator.com/item?id=48692995 Points: 547 # Comments: 769",
       "source": "Hacker News",
       "published": "2026-06-26T22:48:28+00:00",
       "link": "https://www.semafor.com/article/06/27/2026/us-releases-powerful-anthropic-model-mythos-to-some-us-companies"
     },
     {
       "title": "AI in mathematics is forcing big questions",
-      "summary": "Article URL: https://spectrum.ieee.org/ai-in-mathematics Comments URL: https://news.ycombinator.com/item?id=48692883 Points: 201 # Comments: 169",
+      "summary": "Article URL: https://spectrum.ieee.org/ai-in-mathematics Comments URL: https://news.ycombinator.com/item?id=48692883 Points: 202 # Comments: 174",
       "source": "Hacker News",
       "published": "2026-06-26T22:36:51+00:00",
       "link": "https://spectrum.ieee.org/ai-in-mathematics"
@@ -213,7 +234,7 @@ const FEED_DATA = {
     },
     {
       "title": "U.S. government will decide who gets to use GPT-5.6",
-      "summary": "https://archive.ph/PCQQl Comments URL: https://news.ycombinator.com/item?id=48690101 Points: 1161 # Comments: 1210",
+      "summary": "https://archive.ph/PCQQl Comments URL: https://news.ycombinator.com/item?id=48690101 Points: 1166 # Comments: 1220",
       "source": "Hacker News",
       "published": "2026-06-26T18:23:14+00:00",
       "link": "https://www.washingtonpost.com/technology/2026/06/26/openai-says-us-government-will-vet-users-its-latest-ai-model/"
@@ -241,7 +262,7 @@ const FEED_DATA = {
     },
     {
       "title": "Previewing GPT‑5.6 Sol: a next-generation model",
-      "summary": "System card: https://deploymentsafety.openai.com/gpt-5-6-preview Comments URL: https://news.ycombinator.com/item?id=48689028 Points: 1112 # Comments: 722",
+      "summary": "System card: https://deploymentsafety.openai.com/gpt-5-6-preview Comments URL: https://news.ycombinator.com/item?id=48689028 Points: 1115 # Comments: 733",
       "source": "Hacker News",
       "published": "2026-06-26T17:06:55+00:00",
       "link": "https://openai.com/index/previewing-gpt-5-6-sol/"
@@ -276,7 +297,7 @@ const FEED_DATA = {
     },
     {
       "title": "The AI industry is pouring millions into US elections",
-      "summary": "Article URL: https://www.bloodinthemachine.com/p/the-ai-industry-is-pouring-hundreds Comments URL: https://news.ycombinator.com/item?id=48687483 Points: 120 # Comments: 82",
+      "summary": "Article URL: https://www.bloodinthemachine.com/p/the-ai-industry-is-pouring-hundreds Comments URL: https://news.ycombinator.com/item?id=48687483 Points: 122 # Comments: 82",
       "source": "Hacker News",
       "published": "2026-06-26T15:02:43+00:00",
       "link": "https://www.bloodinthemachine.com/p/the-ai-industry-is-pouring-hundreds"
@@ -360,7 +381,7 @@ const FEED_DATA = {
     },
     {
       "title": "Why current LLM costs are not sustainable",
-      "summary": "Article URL: https://aditya.patadia.org/p/ai-and-cloud-costs Comments URL: https://news.ycombinator.com/item?id=48683588 Points: 114 # Comments: 192",
+      "summary": "Article URL: https://aditya.patadia.org/p/ai-and-cloud-costs Comments URL: https://news.ycombinator.com/item?id=48683588 Points: 115 # Comments: 192",
       "source": "Hacker News",
       "published": "2026-06-26T07:44:11+00:00",
       "link": "https://aditya.patadia.org/p/ai-and-cloud-costs"
@@ -374,14 +395,14 @@ const FEED_DATA = {
     },
     {
       "title": "What happened after 2k people tried to hack my AI assistant",
-      "summary": "Article URL: https://www.fernandoi.cl/posts/hackmyclaw/ Comments URL: https://news.ycombinator.com/item?id=48681687 Points: 370 # Comments: 160",
+      "summary": "Article URL: https://www.fernandoi.cl/posts/hackmyclaw/ Comments URL: https://news.ycombinator.com/item?id=48681687 Points: 371 # Comments: 160",
       "source": "Hacker News",
       "published": "2026-06-26T02:29:23+00:00",
       "link": "https://www.fernandoi.cl/posts/hackmyclaw/"
     },
     {
       "title": "AI children's books, body horror edition",
-      "summary": "Article URL: https://lcamtuf.substack.com/p/ai-childrens-books-body-horror-edition Comments URL: https://news.ycombinator.com/item?id=48681250 Points: 212 # Comments: 77",
+      "summary": "Article URL: https://lcamtuf.substack.com/p/ai-childrens-books-body-horror-edition Comments URL: https://news.ycombinator.com/item?id=48681250 Points: 213 # Comments: 77",
       "source": "Hacker News",
       "published": "2026-06-26T01:15:14+00:00",
       "link": "https://lcamtuf.substack.com/p/ai-childrens-books-body-horror-edition"
@@ -1379,27 +1400,6 @@ const FEED_DATA = {
       "source": "Wired",
       "published": "2026-06-21T10:30:00+00:00",
       "link": "https://www.wired.com/story/28-tips-to-take-your-chatgpt-prompts-to-the-next-level/"
-    },
-    {
-      "title": "Sam Altman says a whole generation of researchers held AI back by underestimating what scaling could do",
-      "summary": "At a Stanford talk, Sam Altman defended LLM scaling and hit back at skeptics, saying a whole generation of researchers slowed the field by underestimating what scaling could do. He cited OpenAI's recent disproof of a mathematical conjecture as evidence.",
-      "source": "The Decoder",
-      "published": "2026-06-21T09:12:01+00:00",
-      "link": "https://the-decoder.com/sam-altman-says-a-whole-generation-of-researchers-held-ai-back-by-underestimating-what-scaling-could-do/"
-    },
-    {
-      "title": "AWS says AI agents lack business context and security, launches two services to patch the gaps",
-      "summary": "At its summit in New York, AWS unveiled two new services. Continuum automatically detects, prioritizes, and fixes code vulnerabilities.",
-      "source": "The Decoder",
-      "published": "2026-06-21T08:25:41+00:00",
-      "link": "https://the-decoder.com/aws-says-ai-agents-lack-business-context-and-security-launches-two-services-to-patch-the-gaps/"
-    },
-    {
-      "title": "The 100k whys of AI",
-      "summary": "Article URL: https://lcamtuf.substack.com/p/the-100000-whys-of-ai Comments URL: https://news.ycombinator.com/item?id=48616017 Points: 198 # Comments: 107",
-      "source": "Hacker News",
-      "published": "2026-06-21T05:45:21+00:00",
-      "link": "https://lcamtuf.substack.com/p/the-100000-whys-of-ai"
     }
   ]
 };
