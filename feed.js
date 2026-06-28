@@ -1,6 +1,20 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-06-28T08:22:51.860019+00:00",
+  "lastUpdated": "2026-06-28T10:56:58.768801+00:00",
   "items": [
+    {
+      "title": "Only three AI models finished above starting capital in a 500-day startup survival test",
+      "summary": "Researchers at Princeton University built CEO-Bench, a test where AI agents have to run a fictional software company for 500 simulated days. Most current models go broke, and a simple rule-based heuristic with no AI beats nearly all of them.",
+      "source": "The Decoder",
+      "published": "2026-06-28T10:16:13+00:00",
+      "link": "https://the-decoder.com/only-three-ai-models-finished-above-starting-capital-in-a-500-day-startup-survival-test/"
+    },
+    {
+      "title": "Chinese cybersecurity firm builds AI tools to rival Mythos and frames the race as cyber-nuclear deterrence",
+      "summary": "360 founder Zhou Hongyi presents two AI security tools designed to compete with Anthropic's Mythos. One has already flagged 3,432 vulnerabilities.",
+      "source": "The Decoder",
+      "published": "2026-06-28T09:30:18+00:00",
+      "link": "https://the-decoder.com/chinese-cybersecurity-firm-builds-ai-tools-to-rival-mythos-and-frames-the-race-as-cyber-nuclear-deterrence/"
+    },
     {
       "title": "Sina's open model VibeThinker-3B aims to show reasoning compresses well but factual knowledge doesn't",
       "summary": "Sina Weibo's VibeThinker-3B has just three billion parameters but matches models like DeepSeek V3.2 and Kimi K2.5 on math and coding benchmarks. Those models are up to 333 times larger.",
@@ -1386,20 +1400,6 @@ const FEED_DATA = {
       "source": "Hacker News",
       "published": "2026-06-21T05:45:21+00:00",
       "link": "https://lcamtuf.substack.com/p/the-100000-whys-of-ai"
-    },
-    {
-      "title": "Don’t use AI to write things that you present as your own work",
-      "summary": "Article URL: https://www.satisfice.com/blog/archives/488148 Comments URL: https://news.ycombinator.com/item?id=48615776 Points: 106 # Comments: 98",
-      "source": "Hacker News",
-      "published": "2026-06-21T04:50:46+00:00",
-      "link": "https://www.satisfice.com/blog/archives/488148"
-    },
-    {
-      "title": "Building reliable agentic AI systems",
-      "summary": "Article URL: https://martinfowler.com/articles/reliable-llm-bayer.html Comments URL: https://news.ycombinator.com/item?id=48615680 Points: 195 # Comments: 50",
-      "source": "Hacker News",
-      "published": "2026-06-21T04:28:39+00:00",
-      "link": "https://martinfowler.com/articles/reliable-llm-bayer.html"
     }
   ]
 };
