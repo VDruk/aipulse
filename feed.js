@@ -1,6 +1,20 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-06-29T05:48:55.585992+00:00",
+  "lastUpdated": "2026-06-29T09:49:12.991581+00:00",
   "items": [
+    {
+      "title": "Samsung and SK Hynix plan $590 billion chip investment as AI demand sends memory prices soaring",
+      "summary": "Samsung and SK Hynix, backed by the South Korean government, are pouring $590 billion into new chip factories and packaging centers as AI data center demand surges. According to Jefferies, memory prices could climb to 50 percent per quarter through 2027.",
+      "source": "The Decoder",
+      "published": "2026-06-29T08:17:41+00:00",
+      "link": "https://the-decoder.com/samsung-and-sk-hynix-plan-590-billion-chip-investment-as-ai-demand-sends-memory-prices-soaring/"
+    },
+    {
+      "title": "This Humanoid Robot Is a Terrifyingly Competent Office Intern",
+      "summary": "Flexion Robotics, a startup founded by ex-Nvidia engineers, has a clever way of training robots to do useful work.",
+      "source": "Wired",
+      "published": "2026-06-29T08:00:00+00:00",
+      "link": "https://www.wired.com/story/this-robot-is-going-to-replace-your-interns-flexion/"
+    },
     {
       "title": "AI boom risks global financial crash, warn central bankers",
       "summary": "Article URL: https://www.telegraph.co.uk/business/2026/06/28/ai-boom-risks-global-financial-crash-central-bankers-warn/ Comments URL: https://news.ycombinator.com/item?id=48713697 Points: 113 # Comments: 122",
@@ -1386,20 +1400,6 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-06-22T13:57:53+00:00",
       "link": "https://the-decoder.com/vibecoding-is-becoming-a-deal-breaker-test-for-software-acquisitions/"
-    },
-    {
-      "title": "The Download: record-breaking subsea tunnels and flexible data centers",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.",
-      "source": "MIT Tech Review",
-      "published": "2026-06-22T12:10:00+00:00",
-      "link": "https://www.technologyreview.com/2026/06/22/1139385/the-download-rogfast-subsea-tunnel-flexible-data-centers/"
-    },
-    {
-      "title": "L’Oréal brings Maybelline virtual try-on to ChatGPT",
-      "summary": "L’Oréal has announced a collaboration with OpenAI that will bring Maybelline New York’s virtual makeup try-on feature into ChatGPT. The announcement was made at VivaTech 2026.",
-      "source": "AI News",
-      "published": "2026-06-22T10:00:00+00:00",
-      "link": "https://www.artificialintelligence-news.com/news/loreal-maybelline-virtual-try-on-chatgpt/"
     }
   ]
 };
