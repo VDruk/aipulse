@@ -1,6 +1,62 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-06-29T12:53:20.951155+00:00",
+  "lastUpdated": "2026-06-29T16:38:34.023611+00:00",
   "items": [
+    {
+      "title": "TIDAL cracks down on AI music by cutting off monetization",
+      "summary": "TIDAL's new policy will prevent AI-generated music from making money on its service.",
+      "source": "TechCrunch",
+      "published": "2026-06-29T16:29:04+00:00",
+      "link": "https://techcrunch.com/2026/06/29/tidal-cracks-down-on-ai-music-by-cutting-off-monetization/"
+    },
+    {
+      "title": "Lawmakers want to ban AI companies from selling your health data",
+      "summary": "A new proposal would ban the sale of Americans' health and location information to data brokers - including information people reveal to an AI chatbot like ChatGPT or Claude.",
+      "source": "The Verge",
+      "published": "2026-06-29T16:00:00+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/959033/health-location-data-protection-act-ai-warren-scanlon"
+    },
+    {
+      "title": "Meta restricts use of Claude Code and Codex to keep rival AI out of its training data",
+      "summary": "Meta is restricting its engineers' use of Anthropic's Claude and OpenAI's Codex to prevent output from these AI tools from being incorporated into its own training data.",
+      "source": "The Decoder",
+      "published": "2026-06-29T15:47:43+00:00",
+      "link": "https://the-decoder.com/meta-restricts-use-of-claude-code-and-codex-to-keep-rival-ai-out-of-its-training-data/"
+    },
+    {
+      "title": "Deloitte tells its own consultants: AI is coming for the billable hour",
+      "summary": "An internal Deloitte presentation projects that the consulting industry's classic hourly billing model will shrink to a thin sliver of the total market by 2035, replaced by AI agents. \"Our model is toast,\" one consultant summed up the message.",
+      "source": "The Decoder",
+      "published": "2026-06-29T15:14:44+00:00",
+      "link": "https://the-decoder.com/deloitte-tells-its-own-consultants-ai-is-coming-for-the-billable-hour/"
+    },
+    {
+      "title": "Agent confidence on the technical frontier",
+      "summary": "Enterprise investment in AI is booming. Gartner is calling 2026 an “inflection year” for organizations to align their AI projects with strategic business objectives.",
+      "source": "MIT Tech Review",
+      "published": "2026-06-29T14:44:01+00:00",
+      "link": "https://www.technologyreview.com/2026/06/29/1139635/agent-confidence-on-the-technical-frontier/"
+    },
+    {
+      "title": "Robot hand company settles Tesla trade secret suit and announces $11M raise",
+      "summary": "The startup, Proception, is taking a unique approach to collecting training data to tackle one of the hardest problems in robotics: hands.",
+      "source": "TechCrunch",
+      "published": "2026-06-29T14:00:08+00:00",
+      "link": "https://techcrunch.com/2026/06/29/robot-hand-company-settles-tesla-trade-secret-suit-and-announces-11m-raise/"
+    },
+    {
+      "title": "Tidal AI Policy",
+      "summary": "Article URL: https://tidal.com/ai-policy Comments URL: https://news.ycombinator.com/item?id=48718840 Points: 192 # Comments: 219",
+      "source": "Hacker News",
+      "published": "2026-06-29T13:09:03+00:00",
+      "link": "https://tidal.com/ai-policy"
+    },
+    {
+      "title": "Omen AI’s plan to optimize data centers is all wet",
+      "summary": "Omen AI raised a $31 million Series A to monitor chip coolant and stop bacterial outbreaks in data centers.",
+      "source": "TechCrunch",
+      "published": "2026-06-29T13:00:00+00:00",
+      "link": "https://techcrunch.com/2026/06/29/omen-ais-plan-to-optimize-data-centers-is-all-wet/"
+    },
     {
       "title": "The US military used AI to pick thousands of targets but missed a note saying one was a school",
       "summary": "The probe into a missile strike on an Iranian school exposes serious gaps in the US military's targeting infrastructure. AI is supposed to close them.",
@@ -80,14 +136,14 @@ const FEED_DATA = {
     },
     {
       "title": "AI boom risks global financial crash, warn central bankers",
-      "summary": "Article URL: https://www.telegraph.co.uk/business/2026/06/28/ai-boom-risks-global-financial-crash-central-bankers-warn/ Comments URL: https://news.ycombinator.com/item?id=48713697 Points: 141 # Comments: 167",
+      "summary": "Article URL: https://www.telegraph.co.uk/business/2026/06/28/ai-boom-risks-global-financial-crash-central-bankers-warn/ Comments URL: https://news.ycombinator.com/item?id=48713697 Points: 148 # Comments: 187",
       "source": "Hacker News",
       "published": "2026-06-29T01:25:04+00:00",
       "link": "https://www.telegraph.co.uk/business/2026/06/28/ai-boom-risks-global-financial-crash-central-bankers-warn/"
     },
     {
       "title": "Better Images of AI",
-      "summary": "Article URL: https://betterimagesofai.org/ Comments URL: https://news.ycombinator.com/item?id=48713051 Points: 53 # Comments: 30",
+      "summary": "Article URL: https://betterimagesofai.org/ Comments URL: https://news.ycombinator.com/item?id=48713051 Points: 55 # Comments: 30",
       "source": "Hacker News",
       "published": "2026-06-28T23:50:58+00:00",
       "link": "https://betterimagesofai.org/"
@@ -136,14 +192,14 @@ const FEED_DATA = {
     },
     {
       "title": "Professor denounces mass AI fraud on an exam at Brown",
-      "summary": "Article URL: https://english.elpais.com/education/2026-06-28/ai-fraud-at-brown-university-academic-integrity-is-at-risk.html Comments URL: https://news.ycombinator.com/item?id=48708991 Points: 447 # Comments: 590",
+      "summary": "Article URL: https://english.elpais.com/education/2026-06-28/ai-fraud-at-brown-university-academic-integrity-is-at-risk.html Comments URL: https://news.ycombinator.com/item?id=48708991 Points: 505 # Comments: 648",
       "source": "Hacker News",
       "published": "2026-06-28T16:41:12+00:00",
       "link": "https://english.elpais.com/education/2026-06-28/ai-fraud-at-brown-university-academic-integrity-is-at-risk.html"
     },
     {
       "title": "Reflections on software engineering in the age of AI",
-      "summary": "Article URL: https://adiamond.me/2026/06/software-engineering-in-the-age-of-ai/ Comments URL: https://news.ycombinator.com/item?id=48708721 Points: 99 # Comments: 93",
+      "summary": "Article URL: https://adiamond.me/2026/06/software-engineering-in-the-age-of-ai/ Comments URL: https://news.ycombinator.com/item?id=48708721 Points: 102 # Comments: 94",
       "source": "Hacker News",
       "published": "2026-06-28T16:17:38+00:00",
       "link": "https://adiamond.me/2026/06/software-engineering-in-the-age-of-ai/"
@@ -164,7 +220,7 @@ const FEED_DATA = {
     },
     {
       "title": "Google limits Meta's use of its Gemini AI models",
-      "summary": "Article URL: https://www.cnbc.com/2026/06/28/google-limits-metas-use-of-its-gemini-ai-models-ft-reports.html Comments URL: https://news.ycombinator.com/item?id=48707103 Points: 156 # Comments: 72",
+      "summary": "Article URL: https://www.cnbc.com/2026/06/28/google-limits-metas-use-of-its-gemini-ai-models-ft-reports.html Comments URL: https://news.ycombinator.com/item?id=48707103 Points: 158 # Comments: 72",
       "source": "Hacker News",
       "published": "2026-06-28T13:30:06+00:00",
       "link": "https://www.cnbc.com/2026/06/28/google-limits-metas-use-of-its-gemini-ai-models-ft-reports.html"
@@ -213,14 +269,14 @@ const FEED_DATA = {
     },
     {
       "title": "Ford hired AI and sacked humans. It backfired badly",
-      "summary": "Article URL: https://www.the-independent.com/tech/ford-ai-automation-human-workers-b3003787.html Comments URL: https://news.ycombinator.com/item?id=48703968 Points: 234 # Comments: 4",
+      "summary": "Article URL: https://www.the-independent.com/tech/ford-ai-automation-human-workers-b3003787.html Comments URL: https://news.ycombinator.com/item?id=48703968 Points: 238 # Comments: 4",
       "source": "Hacker News",
       "published": "2026-06-28T03:09:13+00:00",
       "link": "https://www.the-independent.com/tech/ford-ai-automation-human-workers-b3003787.html"
     },
     {
       "title": "The best response to AI slop and online noise is from Robin Williams",
-      "summary": "Article URL: https://jayacunzo.com/blog/your-move-chief Comments URL: https://news.ycombinator.com/item?id=48703452 Points: 387 # Comments: 215",
+      "summary": "Article URL: https://jayacunzo.com/blog/your-move-chief Comments URL: https://news.ycombinator.com/item?id=48703452 Points: 394 # Comments: 217",
       "source": "Hacker News",
       "published": "2026-06-28T01:28:10+00:00",
       "link": "https://jayacunzo.com/blog/your-move-chief"
@@ -241,7 +297,7 @@ const FEED_DATA = {
     },
     {
       "title": "Margaret Atwood says the problem with AI is ‘garbage in, garbage out’",
-      "summary": "Maraget Atwood, the storied author of The Handmaid's Tale and The Blind Assassin, was interviewed as part of the Babell Literary and Cultural Festival in Porto, Portugal. As it usually does at these things, the issue of AI came up, and Atwood didn't mince words.",
+      "summary": "Margaret Atwood, the storied author of The Handmaid's Tale and The Blind Assassin, was interviewed as part of the Babell Literary and Cultural Festival in Porto, Portugal. As it usually does at these things, the issue of AI came up, and Atwood didn't mince words.",
       "source": "The Verge",
       "published": "2026-06-27T18:39:32+00:00",
       "link": "https://www.theverge.com/ai-artificial-intelligence/958715/margaret-atwood-ai-problem-garbage-in-garbage-out"
@@ -269,7 +325,7 @@ const FEED_DATA = {
     },
     {
       "title": "The fittest founder in the room got cancer. Here’s how he used AI to fight back.",
-      "summary": "When confronted with cancer, Connor Christou fed everything tied tied to his regime — blood results, scan data, wearable output, journal entries — into Claude.",
+      "summary": "When confronted with cancer, Conno Christou fed everything tied to his regime — blood results, scan data, wearable output, journal entries — into Claude.",
       "source": "TechCrunch",
       "published": "2026-06-27T14:00:00+00:00",
       "link": "https://techcrunch.com/2026/06/27/the-fittest-founder-in-the-room-got-cancer-heres-how-he-used-ai-to-fight-back/"
@@ -290,7 +346,7 @@ const FEED_DATA = {
     },
     {
       "title": "Asian AI startups launch Mythos-like models",
-      "summary": "Article URL: https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/ Comments URL: https://news.ycombinator.com/item?id=48697958 Points: 272 # Comments: 194",
+      "summary": "Article URL: https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/ Comments URL: https://news.ycombinator.com/item?id=48697958 Points: 276 # Comments: 195",
       "source": "Hacker News",
       "published": "2026-06-27T13:10:21+00:00",
       "link": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/"
@@ -325,7 +381,7 @@ const FEED_DATA = {
     },
     {
       "title": "DSpark: Speculative decoding accelerates LLM inference [pdf]",
-      "summary": "Article URL: https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf Comments URL: https://news.ycombinator.com/item?id=48696585 Points: 789 # Comments: 356",
+      "summary": "Article URL: https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf Comments URL: https://news.ycombinator.com/item?id=48696585 Points: 790 # Comments: 358",
       "source": "Hacker News",
       "published": "2026-06-27T09:18:52+00:00",
       "link": "https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf"
@@ -336,6 +392,13 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-06-27T07:48:29+00:00",
       "link": "https://the-decoder.com/bytedances-illada-is-a-diffusion-language-model-that-keeps-up-with-qwen2-5/"
+    },
+    {
+      "title": "Trump administration releases Anthropic Mythos to be used by more than 100 US companies, agencies",
+      "summary": "Over 100 companies and government agencies are reportedly authorized to use Mythos 5, including their non-American employees.",
+      "source": "TechCrunch",
+      "published": "2026-06-27T01:01:37+00:00",
+      "link": "https://techcrunch.com/2026/06/26/trump-admin-releases-anthropic-mythos-to-be-used-by-more-than-100-us-companies-agencies/"
     },
     {
       "title": "Trump Admin releases Anthropic Mythos to be used by more than 100 US companies, agencies",
@@ -360,14 +423,14 @@ const FEED_DATA = {
     },
     {
       "title": "U.S. allows Anthropic to release Mythos AI to ‘trusted’ US organizations",
-      "summary": "https://archive.md/ArXuFhttps://www.nbcnews.com/tech/tech-news/us-government-gives-a... Comments URL: https://news.ycombinator.com/item?id=48692995 Points: 550 # Comments: 791",
+      "summary": "https://archive.md/ArXuFhttps://www.nbcnews.com/tech/tech-news/us-government-gives-a... Comments URL: https://news.ycombinator.com/item?id=48692995 Points: 551 # Comments: 792",
       "source": "Hacker News",
       "published": "2026-06-26T22:48:28+00:00",
       "link": "https://www.semafor.com/article/06/27/2026/us-releases-powerful-anthropic-model-mythos-to-some-us-companies"
     },
     {
       "title": "AI in mathematics is forcing big questions",
-      "summary": "Article URL: https://spectrum.ieee.org/ai-in-mathematics Comments URL: https://news.ycombinator.com/item?id=48692883 Points: 209 # Comments: 175",
+      "summary": "Article URL: https://spectrum.ieee.org/ai-in-mathematics Comments URL: https://news.ycombinator.com/item?id=48692883 Points: 209 # Comments: 176",
       "source": "Hacker News",
       "published": "2026-06-26T22:36:51+00:00",
       "link": "https://spectrum.ieee.org/ai-in-mathematics"
@@ -395,7 +458,7 @@ const FEED_DATA = {
     },
     {
       "title": "U.S. government will decide who gets to use GPT-5.6",
-      "summary": "https://archive.ph/PCQQl Comments URL: https://news.ycombinator.com/item?id=48690101 Points: 1175 # Comments: 1229",
+      "summary": "https://archive.ph/PCQQl Comments URL: https://news.ycombinator.com/item?id=48690101 Points: 1177 # Comments: 1231",
       "source": "Hacker News",
       "published": "2026-06-26T18:23:14+00:00",
       "link": "https://www.washingtonpost.com/technology/2026/06/26/openai-says-us-government-will-vet-users-its-latest-ai-model/"
@@ -423,7 +486,7 @@ const FEED_DATA = {
     },
     {
       "title": "Previewing GPT‑5.6 Sol: a next-generation model",
-      "summary": "System card: https://deploymentsafety.openai.com/gpt-5-6-preview Comments URL: https://news.ycombinator.com/item?id=48689028 Points: 1126 # Comments: 738",
+      "summary": "System card: https://deploymentsafety.openai.com/gpt-5-6-preview Comments URL: https://news.ycombinator.com/item?id=48689028 Points: 1128 # Comments: 738",
       "source": "Hacker News",
       "published": "2026-06-26T17:06:55+00:00",
       "link": "https://openai.com/index/previewing-gpt-5-6-sol/"
@@ -1337,69 +1400,6 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-06-23T00:11:31+00:00",
       "link": "https://techcrunch.com/2026/06/22/openai-launches-new-initiative-to-help-find-and-patch-open-source-bugs/"
-    },
-    {
-      "title": "Nvidia says its AI data center design runs hotter to use a lot less water",
-      "summary": "Public pushback against data centers has emphasized their water and energy consumption, and now Nvidia is highlighting its claim that the Rubin generation reference design for a fully liquid-cooled data center has \"eliminated massive amounts of power usage and pretty much all...",
-      "source": "The Verge",
-      "published": "2026-06-22T23:24:32+00:00",
-      "link": "https://www.theverge.com/tech/954139/nvidia-data-centers-rubin-liquid-cooling"
-    },
-    {
-      "title": "Meta pauses AI training program tracking employee keystrokes after internal leak",
-      "summary": "Article URL: https://www.businessinsider.com/meta-ai-training-data-leak-exposed-employee-activity-across-company-2026-6 Comments URL: https://news.ycombinator.com/item?id=48636632 Points: 123 # Comments: 33",
-      "source": "Hacker News",
-      "published": "2026-06-22T21:43:22+00:00",
-      "link": "https://www.businessinsider.com/meta-ai-training-data-leak-exposed-employee-activity-across-company-2026-6"
-    },
-    {
-      "title": "The AI world is getting ‘loopy’",
-      "summary": "The loop takes agentic AI a step further by authorizing a swarm of agents to work continuously in the background, endlessly.",
-      "source": "TechCrunch",
-      "published": "2026-06-22T20:53:11+00:00",
-      "link": "https://techcrunch.com/2026/06/22/the-ai-world-is-getting-loopy/"
-    },
-    {
-      "title": "Meta Exposed Data Internally From Its Controversial Employee-Tracking Program",
-      "summary": "Employees had previously raised concerns about the initiative, which involves collecting workers’ keystroke data to train AI models.",
-      "source": "Wired",
-      "published": "2026-06-22T20:28:53+00:00",
-      "link": "https://www.wired.com/story/meta-accidentally-let-employees-access-each-others-keystroke-data/"
-    },
-    {
-      "title": "AI chipmaker Groq confirms $650M raise, re-staffs after Nvidia’s $20B not-acqui-hire deal",
-      "summary": "What does an AI company do after one of those not-acqui-hire deals? Groq raised money, is leaning into its neocloud business, and is hiring new execs.",
-      "source": "TechCrunch",
-      "published": "2026-06-22T20:13:58+00:00",
-      "link": "https://techcrunch.com/2026/06/22/ai-chipmaker-groq-confirms-650m-raise-re-staffs-after-nvidias-20b-not-acqui-hire-deal/"
-    },
-    {
-      "title": "Nvidia wants to cut data center water use, but that’s not the same as fixing AI’s water problem",
-      "summary": "Nvidia announced a new cooling system that cuts water use inside the data center. But it does nothing to address AI's biggest water use — fossil fuel power plants.",
-      "source": "TechCrunch",
-      "published": "2026-06-22T20:08:15+00:00",
-      "link": "https://techcrunch.com/2026/06/22/nvidia-wants-to-cut-data-center-water-use-but-thats-not-the-same-as-fixing-ais-water-problem/"
-    },
-    {
-      "title": "AI is cursing renters with the promise of impossible homes",
-      "summary": "Joyce, a native New Yorker, didn't think finding her first solo apartment in the city would be easy.",
-      "source": "The Verge",
-      "published": "2026-06-22T20:00:00+00:00",
-      "link": "https://www.theverge.com/report/953888/ai-virtual-staging-real-estate-apartment-listings"
-    },
-    {
-      "title": "AI has already killed academia as we know it?",
-      "summary": "Article URL: https://truths-and-loves.ghost.io/ai-has-already-killed-academia-as-we-know-it/ Comments URL: https://news.ycombinator.com/item?id=48634966 Points: 69 # Comments: 52",
-      "source": "Hacker News",
-      "published": "2026-06-22T19:36:58+00:00",
-      "link": "https://truths-and-loves.ghost.io/ai-has-already-killed-academia-as-we-know-it/"
-    },
-    {
-      "title": "Google DeepMind bets $75M on AI’s future in Hollywood with A24 deal",
-      "summary": "Google DeepMind and A24 are teaming up to build AI filmmaking tools.",
-      "source": "TechCrunch",
-      "published": "2026-06-22T18:49:44+00:00",
-      "link": "https://techcrunch.com/2026/06/22/google-deepmind-bets-75m-on-ais-future-in-hollywood-with-a24-deal/"
     }
   ]
 };
