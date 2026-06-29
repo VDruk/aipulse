@@ -1,12 +1,68 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-06-29T09:49:12.991581+00:00",
+  "lastUpdated": "2026-06-29T12:53:20.951155+00:00",
   "items": [
+    {
+      "title": "The US military used AI to pick thousands of targets but missed a note saying one was a school",
+      "summary": "The probe into a missile strike on an Iranian school exposes serious gaps in the US military's targeting infrastructure. AI is supposed to close them.",
+      "source": "The Decoder",
+      "published": "2026-06-29T12:30:21+00:00",
+      "link": "https://the-decoder.com/the-us-military-used-ai-to-pick-thousands-of-targets-but-missed-a-note-saying-one-was-a-school/"
+    },
+    {
+      "title": "HP accelerates enterprise workflows with OpenAI Frontier",
+      "summary": "HP has scaled its OpenAI Frontier integration across global operations to optimise enterprise workflows and accelerate output. The hardware manufacturer initiated testing of the platform in February 2026.",
+      "source": "AI News",
+      "published": "2026-06-29T12:22:45+00:00",
+      "link": "https://www.artificialintelligence-news.com/news/hp-accelerates-enterprise-workflows-openai-frontier/"
+    },
+    {
+      "title": "The Download: metric weaknesses and AI elephant warnings",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The inevitable weakness of metrics There are plenty of useful things a metric can reveal.",
+      "source": "MIT Tech Review",
+      "published": "2026-06-29T12:10:00+00:00",
+      "link": "https://www.technologyreview.com/2026/06/29/1139834/the-download-metric-weaknesses-ai-elephant-warnings/"
+    },
+    {
+      "title": "Claude Code runs a GitHub repo's hidden malware without verification, giving attackers full control",
+      "summary": "Security researchers at Mozilla's 0DIN platform have shown how a single compromised GitHub repo can take over a developer's machine the moment an AI coding tool like Claude Code runs its setup.",
+      "source": "The Decoder",
+      "published": "2026-06-29T10:04:32+00:00",
+      "link": "https://the-decoder.com/claude-code-runs-a-github-repos-hidden-malware-without-verification-giving-attackers-full-control/"
+    },
+    {
+      "title": "Wimbledon adds IBM AI tools for live match coverage",
+      "summary": "The All England Lawn Tennis Club is adding new AI-powered features to Wimbledon’s digital platforms through its ongoing work with IBM. The updates will be available through the Wimbledon app and wimbledon.com as first-round matches begin on Monday.",
+      "source": "AI News",
+      "published": "2026-06-29T10:00:00+00:00",
+      "link": "https://www.artificialintelligence-news.com/news/wimbledon-ibm-ai-tools-live-match-coverage/"
+    },
+    {
+      "title": "Advances in Natural Language Processing Are Changing Professional Networking",
+      "summary": "Natural language processing is reshaping professional communication on online platforms, enabling more relevant and personalised networking interactions.",
+      "source": "AI News",
+      "published": "2026-06-29T08:59:46+00:00",
+      "link": "https://www.artificialintelligence-news.com/news/advances-in-natural-language-processing-are-changing-professional-networking/"
+    },
+    {
+      "title": "Best Automated Security Testing Tools for Modern DevSecOps",
+      "summary": "Modern DevSecOps needs security checks that run before release day. Teams now write code, build services and deploy updates at a pace that manual review cannot match.",
+      "source": "AI News",
+      "published": "2026-06-29T08:54:22+00:00",
+      "link": "https://www.artificialintelligence-news.com/news/best-automated-security-testing-tools-for-modern-devsecops/"
+    },
     {
       "title": "Samsung and SK Hynix plan $590 billion chip investment as AI demand sends memory prices soaring",
       "summary": "Samsung and SK Hynix, backed by the South Korean government, are pouring $590 billion into new chip factories and packaging centers as AI data center demand surges. According to Jefferies, memory prices could climb to 50 percent per quarter through 2027.",
       "source": "The Decoder",
       "published": "2026-06-29T08:17:41+00:00",
       "link": "https://the-decoder.com/samsung-and-sk-hynix-plan-590-billion-chip-investment-as-ai-demand-sends-memory-prices-soaring/"
+    },
+    {
+      "title": "xFusion scales enterprise AI from edge workstations to liquid-cooled data centres",
+      "summary": "xFusion presented scalable enterprise AI computing models at ISC 2026, transitioning hardware from edge devices to data centres. Enterprise technology buyers attending the Hamburg exhibition sought practical production frameworks.",
+      "source": "AI News",
+      "published": "2026-06-29T08:05:32+00:00",
+      "link": "https://www.artificialintelligence-news.com/news/xfusion-scales-enterprise-ai-from-edge-workstations-to-liquid-cooled-data-centres/"
     },
     {
       "title": "This Humanoid Robot Is a Terrifyingly Competent Office Intern",
@@ -16,11 +72,25 @@ const FEED_DATA = {
       "link": "https://www.wired.com/story/this-robot-is-going-to-replace-your-interns-flexion/"
     },
     {
+      "title": "Scam.ai Announces Qualcomm Partnership, Launches Halo Deepfake Detection Model at Computex 2026",
+      "summary": "New partnership brings on-device deepfake detection to video calls on desktop SAN FRANCISCO, June 29, 2026 — Scam.ai today announced a partnership with Qualcomm and the launch of Halo, an on-device deepfake detection model for live video calls.",
+      "source": "AI News",
+      "published": "2026-06-29T07:57:38+00:00",
+      "link": "https://www.artificialintelligence-news.com/news/scam-ai-announces-qualcomm-partnership-launches-halo-deepfake-detection-model-at-computex-2026/"
+    },
+    {
       "title": "AI boom risks global financial crash, warn central bankers",
-      "summary": "Article URL: https://www.telegraph.co.uk/business/2026/06/28/ai-boom-risks-global-financial-crash-central-bankers-warn/ Comments URL: https://news.ycombinator.com/item?id=48713697 Points: 113 # Comments: 122",
+      "summary": "Article URL: https://www.telegraph.co.uk/business/2026/06/28/ai-boom-risks-global-financial-crash-central-bankers-warn/ Comments URL: https://news.ycombinator.com/item?id=48713697 Points: 141 # Comments: 167",
       "source": "Hacker News",
       "published": "2026-06-29T01:25:04+00:00",
       "link": "https://www.telegraph.co.uk/business/2026/06/28/ai-boom-risks-global-financial-crash-central-bankers-warn/"
+    },
+    {
+      "title": "Better Images of AI",
+      "summary": "Article URL: https://betterimagesofai.org/ Comments URL: https://news.ycombinator.com/item?id=48713051 Points: 53 # Comments: 30",
+      "source": "Hacker News",
+      "published": "2026-06-28T23:50:58+00:00",
+      "link": "https://betterimagesofai.org/"
     },
     {
       "title": "We need tech news sources which exclude AI",
@@ -44,6 +114,20 @@ const FEED_DATA = {
       "link": "https://www.theverge.com/ai-artificial-intelligence/958801/suno-launches-spark-incubator-program-to-feed-independent-artists-to-its-ai-machine"
     },
     {
+      "title": "Show HN: Bash4LLM+ – A lightweight, dependency-free Bash wrapper for LLM APIs",
+      "summary": "Bash4LLM is a single-file Bash wrapper for interacting with LLMs from the terminal. I created it because I wanted something simple that worked without installing Python, Node, or any other runtime.It uses only Bash, curl, and jq.",
+      "source": "Hacker News",
+      "published": "2026-06-28T19:43:10+00:00",
+      "link": "https://github.com/kamaludu/bash4llm/"
+    },
+    {
+      "title": "Show HN: NanoEuler – GPT-2 scale model in pure C/CUDA from scratch",
+      "summary": "Hi everyone,I started working on nanoeuler after the ban of anthropic's fable because my ambition and dream is to work in the AI field in anthropic.",
+      "source": "Hacker News",
+      "published": "2026-06-28T19:38:14+00:00",
+      "link": "https://github.com/JustVugg/nanoeuler"
+    },
+    {
       "title": "Ford rehires ‘gray beard’ engineers after AI falls short",
       "summary": "\"Mistakenly we thought that by just introducing artificial intelligence ... that would produce a high-quality product.”",
       "source": "TechCrunch",
@@ -52,14 +136,14 @@ const FEED_DATA = {
     },
     {
       "title": "Professor denounces mass AI fraud on an exam at Brown",
-      "summary": "Article URL: https://english.elpais.com/education/2026-06-28/ai-fraud-at-brown-university-academic-integrity-is-at-risk.html Comments URL: https://news.ycombinator.com/item?id=48708991 Points: 343 # Comments: 457",
+      "summary": "Article URL: https://english.elpais.com/education/2026-06-28/ai-fraud-at-brown-university-academic-integrity-is-at-risk.html Comments URL: https://news.ycombinator.com/item?id=48708991 Points: 447 # Comments: 590",
       "source": "Hacker News",
       "published": "2026-06-28T16:41:12+00:00",
       "link": "https://english.elpais.com/education/2026-06-28/ai-fraud-at-brown-university-academic-integrity-is-at-risk.html"
     },
     {
       "title": "Reflections on software engineering in the age of AI",
-      "summary": "Article URL: https://adiamond.me/2026/06/software-engineering-in-the-age-of-ai/ Comments URL: https://news.ycombinator.com/item?id=48708721 Points: 93 # Comments: 87",
+      "summary": "Article URL: https://adiamond.me/2026/06/software-engineering-in-the-age-of-ai/ Comments URL: https://news.ycombinator.com/item?id=48708721 Points: 99 # Comments: 93",
       "source": "Hacker News",
       "published": "2026-06-28T16:17:38+00:00",
       "link": "https://adiamond.me/2026/06/software-engineering-in-the-age-of-ai/"
@@ -80,7 +164,7 @@ const FEED_DATA = {
     },
     {
       "title": "Google limits Meta's use of its Gemini AI models",
-      "summary": "Article URL: https://www.cnbc.com/2026/06/28/google-limits-metas-use-of-its-gemini-ai-models-ft-reports.html Comments URL: https://news.ycombinator.com/item?id=48707103 Points: 149 # Comments: 70",
+      "summary": "Article URL: https://www.cnbc.com/2026/06/28/google-limits-metas-use-of-its-gemini-ai-models-ft-reports.html Comments URL: https://news.ycombinator.com/item?id=48707103 Points: 156 # Comments: 72",
       "source": "Hacker News",
       "published": "2026-06-28T13:30:06+00:00",
       "link": "https://www.cnbc.com/2026/06/28/google-limits-metas-use-of-its-gemini-ai-models-ft-reports.html"
@@ -122,21 +206,21 @@ const FEED_DATA = {
     },
     {
       "title": "Wayfinder Router: deterministic routing of queries between local and hosted LLM",
-      "summary": "Article URL: https://github.com/itsthelore/wayfinder-router Comments URL: https://news.ycombinator.com/item?id=48704373 Points: 115 # Comments: 55",
+      "summary": "Article URL: https://github.com/itsthelore/wayfinder-router Comments URL: https://news.ycombinator.com/item?id=48704373 Points: 120 # Comments: 55",
       "source": "Hacker News",
       "published": "2026-06-28T04:31:18+00:00",
       "link": "https://github.com/itsthelore/wayfinder-router"
     },
     {
       "title": "Ford hired AI and sacked humans. It backfired badly",
-      "summary": "Article URL: https://www.the-independent.com/tech/ford-ai-automation-human-workers-b3003787.html Comments URL: https://news.ycombinator.com/item?id=48703968 Points: 233 # Comments: 4",
+      "summary": "Article URL: https://www.the-independent.com/tech/ford-ai-automation-human-workers-b3003787.html Comments URL: https://news.ycombinator.com/item?id=48703968 Points: 234 # Comments: 4",
       "source": "Hacker News",
       "published": "2026-06-28T03:09:13+00:00",
       "link": "https://www.the-independent.com/tech/ford-ai-automation-human-workers-b3003787.html"
     },
     {
       "title": "The best response to AI slop and online noise is from Robin Williams",
-      "summary": "Article URL: https://jayacunzo.com/blog/your-move-chief Comments URL: https://news.ycombinator.com/item?id=48703452 Points: 378 # Comments: 207",
+      "summary": "Article URL: https://jayacunzo.com/blog/your-move-chief Comments URL: https://news.ycombinator.com/item?id=48703452 Points: 387 # Comments: 215",
       "source": "Hacker News",
       "published": "2026-06-28T01:28:10+00:00",
       "link": "https://jayacunzo.com/blog/your-move-chief"
@@ -206,7 +290,7 @@ const FEED_DATA = {
     },
     {
       "title": "Asian AI startups launch Mythos-like models",
-      "summary": "Article URL: https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/ Comments URL: https://news.ycombinator.com/item?id=48697958 Points: 268 # Comments: 193",
+      "summary": "Article URL: https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/ Comments URL: https://news.ycombinator.com/item?id=48697958 Points: 272 # Comments: 194",
       "source": "Hacker News",
       "published": "2026-06-27T13:10:21+00:00",
       "link": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/"
@@ -241,7 +325,7 @@ const FEED_DATA = {
     },
     {
       "title": "DSpark: Speculative decoding accelerates LLM inference [pdf]",
-      "summary": "Article URL: https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf Comments URL: https://news.ycombinator.com/item?id=48696585 Points: 785 # Comments: 353",
+      "summary": "Article URL: https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf Comments URL: https://news.ycombinator.com/item?id=48696585 Points: 789 # Comments: 356",
       "source": "Hacker News",
       "published": "2026-06-27T09:18:52+00:00",
       "link": "https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf"
@@ -276,14 +360,14 @@ const FEED_DATA = {
     },
     {
       "title": "U.S. allows Anthropic to release Mythos AI to ‘trusted’ US organizations",
-      "summary": "https://archive.md/ArXuFhttps://www.nbcnews.com/tech/tech-news/us-government-gives-a... Comments URL: https://news.ycombinator.com/item?id=48692995 Points: 549 # Comments: 784",
+      "summary": "https://archive.md/ArXuFhttps://www.nbcnews.com/tech/tech-news/us-government-gives-a... Comments URL: https://news.ycombinator.com/item?id=48692995 Points: 550 # Comments: 791",
       "source": "Hacker News",
       "published": "2026-06-26T22:48:28+00:00",
       "link": "https://www.semafor.com/article/06/27/2026/us-releases-powerful-anthropic-model-mythos-to-some-us-companies"
     },
     {
       "title": "AI in mathematics is forcing big questions",
-      "summary": "Article URL: https://spectrum.ieee.org/ai-in-mathematics Comments URL: https://news.ycombinator.com/item?id=48692883 Points: 207 # Comments: 175",
+      "summary": "Article URL: https://spectrum.ieee.org/ai-in-mathematics Comments URL: https://news.ycombinator.com/item?id=48692883 Points: 209 # Comments: 175",
       "source": "Hacker News",
       "published": "2026-06-26T22:36:51+00:00",
       "link": "https://spectrum.ieee.org/ai-in-mathematics"
@@ -311,7 +395,7 @@ const FEED_DATA = {
     },
     {
       "title": "U.S. government will decide who gets to use GPT-5.6",
-      "summary": "https://archive.ph/PCQQl Comments URL: https://news.ycombinator.com/item?id=48690101 Points: 1174 # Comments: 1229",
+      "summary": "https://archive.ph/PCQQl Comments URL: https://news.ycombinator.com/item?id=48690101 Points: 1175 # Comments: 1229",
       "source": "Hacker News",
       "published": "2026-06-26T18:23:14+00:00",
       "link": "https://www.washingtonpost.com/technology/2026/06/26/openai-says-us-government-will-vet-users-its-latest-ai-model/"
@@ -339,7 +423,7 @@ const FEED_DATA = {
     },
     {
       "title": "Previewing GPT‑5.6 Sol: a next-generation model",
-      "summary": "System card: https://deploymentsafety.openai.com/gpt-5-6-preview Comments URL: https://news.ycombinator.com/item?id=48689028 Points: 1123 # Comments: 737",
+      "summary": "System card: https://deploymentsafety.openai.com/gpt-5-6-preview Comments URL: https://news.ycombinator.com/item?id=48689028 Points: 1126 # Comments: 738",
       "source": "Hacker News",
       "published": "2026-06-26T17:06:55+00:00",
       "link": "https://openai.com/index/previewing-gpt-5-6-sol/"
@@ -1316,90 +1400,6 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-06-22T18:49:44+00:00",
       "link": "https://techcrunch.com/2026/06/22/google-deepmind-bets-75m-on-ais-future-in-hollywood-with-a24-deal/"
-    },
-    {
-      "title": "Google makes Interactions API the default interface for Gemini models and agents",
-      "summary": "Google Deepmind has made the Interactions API the default interface for Gemini models and agents. It replaces the old generateContent API and uses a simplified schema with typed steps instead of role-based structures.",
-      "source": "The Decoder",
-      "published": "2026-06-22T18:11:34+00:00",
-      "link": "https://the-decoder.com/google-makes-interactions-api-the-default-interface-for-gemini-models-and-agents/"
-    },
-    {
-      "title": "Three things to watch amid Anthropic’s latest feud with the government",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here.",
-      "source": "MIT Tech Review",
-      "published": "2026-06-22T18:00:00+00:00",
-      "link": "https://www.technologyreview.com/2026/06/22/1139424/three-things-to-watch-amid-anthropics-latest-feud-with-the-government/"
-    },
-    {
-      "title": "Amazon is testing Alexa+ in India with Hindi support",
-      "summary": "Amazon is planning to increase the footprint of its new conversational AI assistant Alexa+ to India and is inviting users in the country to test out a Hindi-language version.",
-      "source": "TechCrunch",
-      "published": "2026-06-22T17:31:29+00:00",
-      "link": "https://techcrunch.com/2026/06/22/amazon-is-testing-alexa-in-india-with-hindi-support/"
-    },
-    {
-      "title": "Anthropic and Micron want to co-design AI memory architecture",
-      "summary": "Micron is investing in Anthropic's Series H round and getting a multi-year deal to supply memory for Claude's infrastructure. Anthropic co-founder Tom Brown calls memory critical to training and running Claude.",
-      "source": "The Decoder",
-      "published": "2026-06-22T17:18:59+00:00",
-      "link": "https://the-decoder.com/anthropic-and-micron-want-to-co-design-ai-memory-architecture/"
-    },
-    {
-      "title": "OpenAI Launches Full-Scale Effort to Patch Open-Source Bugs as It Takes on Anthropic’s Mythos",
-      "summary": "Amid concerns about AI models’ cybersecurity capabilities, OpenAI revealed an improved version of GPT-5.5-Cyber and its “Patch the Planet” initiative to fix open-source software bugs.",
-      "source": "Wired",
-      "published": "2026-06-22T17:00:00+00:00",
-      "link": "https://www.wired.com/story/openai-launches-full-scale-effort-to-patch-open-source-bugs-as-it-takes-on-anthropics-mythos/"
-    },
-    {
-      "title": "SpaceX inks compute deal with Reflection AI, an open source AI lab",
-      "summary": "Reflection AI will pay $150 million a month beginning July 1, 2026 through 2029 for immediate access to Nvidia's latest GB300 AI chips and supporting hardware across SpaceX's Colossus 2 data center near Memphis, Tennessee.",
-      "source": "TechCrunch",
-      "published": "2026-06-22T16:51:29+00:00",
-      "link": "https://techcrunch.com/2026/06/22/spacex-inks-compute-deal-with-reflection-ai-an-open-source-ai-lab/"
-    },
-    {
-      "title": "Microsoft is building a 2-gigawatt data center in Texas with its own gas plant to dodge the grid",
-      "summary": "Microsoft is building a roughly 2-gigawatt data center campus in Pecos, Texas, one of the biggest single capacity adds in its history.",
-      "source": "The Decoder",
-      "published": "2026-06-22T16:35:54+00:00",
-      "link": "https://the-decoder.com/microsoft-is-building-a-2-gigawatt-data-center-in-texas-with-its-own-gas-plant-to-dodge-the-grid/"
-    },
-    {
-      "title": "Mitigating vendor lock-in with Sakana AI Fugu multi-agent models",
-      "summary": "Sakana AI launched Fugu to orchestrate multi-agent operations and mitigate single-vendor dependency risks in enterprise deployments. Enterprises face operational vulnerabilities when relying entirely on monolithic AI APIs.",
-      "source": "AI News",
-      "published": "2026-06-22T16:11:21+00:00",
-      "link": "https://www.artificialintelligence-news.com/news/mitigating-vendor-lock-in-sakana-ai-fugu-multi-agent-models/"
-    },
-    {
-      "title": "Getty Images strikes multi-year deal to put licensed photos in ChatGPT search",
-      "summary": "Getty Images has entered into a multi-year licensing agreement with OpenAI. The article Getty Images strikes multi-year deal to put licensed photos in ChatGPT search appeared first on The Decoder.",
-      "source": "The Decoder",
-      "published": "2026-06-22T15:16:12+00:00",
-      "link": "https://the-decoder.com/getty-images-strikes-multi-year-deal-to-put-licensed-photos-in-chatgpt-search/"
-    },
-    {
-      "title": "Google Deepmind and A24 team up on AI filmmaking research",
-      "summary": "Google Deepmind and film studio A24 are entering a long-term research partnership. Google is also investing roughly $75 million in A24, according to the Wall Street Journal.",
-      "source": "The Decoder",
-      "published": "2026-06-22T15:03:46+00:00",
-      "link": "https://the-decoder.com/google-deepmind-and-a24-team-up-on-ai-filmmaking-research/"
-    },
-    {
-      "title": "Five Eyes intelligence alliance says frontier AI models could reshape offensive cyber ops in months",
-      "summary": "The Five Eyes intelligence agencies warn: AI models capable of taking down governments and businesses are only months away. That's according to the Guardian.",
-      "source": "The Decoder",
-      "published": "2026-06-22T14:35:39+00:00",
-      "link": "https://the-decoder.com/five-eyes-intelligence-alliance-says-frontier-ai-models-could-reshape-offensive-cyber-ops-in-months/"
-    },
-    {
-      "title": "Vibecoding is becoming a deal-breaker test for software acquisitions",
-      "summary": "To assess the competitive advantage of potential acquisition targets, Bain & Company uses Vibecoding to replicate their software. These AI replicas are already influencing specific purchasing decisions.",
-      "source": "The Decoder",
-      "published": "2026-06-22T13:57:53+00:00",
-      "link": "https://the-decoder.com/vibecoding-is-becoming-a-deal-breaker-test-for-software-acquisitions/"
     }
   ]
 };
