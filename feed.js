@@ -1,6 +1,27 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-06-29T19:00:35.767402+00:00",
+  "lastUpdated": "2026-06-29T22:04:22.106735+00:00",
   "items": [
+    {
+      "title": "Meta Contractors Posed as Teens to Prompt Rival Chatbots About Suicide, Sex, and Drugs",
+      "summary": "Hundreds of contractors working on a project for Meta pretended to be kids—and then prompted rival chatbots like Gemini and ChatGPT to discuss high-risk subjects.",
+      "source": "Wired",
+      "published": "2026-06-29T21:49:26+00:00",
+      "link": "https://www.wired.com/story/meta-contractors-pretending-to-be-teens-chatbot-testing/"
+    },
+    {
+      "title": "Gemini’s personalized AI image generation is now free for US users",
+      "summary": "Google is expanding Gemini’s personalized AI image generation to eligible free users in the U.S., allowing the chatbot to create images based on your interests and data from connected Google apps.",
+      "source": "TechCrunch",
+      "published": "2026-06-29T20:12:59+00:00",
+      "link": "https://techcrunch.com/2026/06/29/geminis-personalized-ai-image-generation-is-now-free-for-u-s-users/"
+    },
+    {
+      "title": "Tidal won’t pay royalties on AI-generated music but isn’t banning it outright",
+      "summary": "Tidal shared its new policies regarding AI-generated music today and how the platform plans to \"protect artists\" and \"inform listeners.\" Instead of banning it outright, starting on July 15th Tidal will label tracks it has identified as being 100 percent AI-generated with an icon.",
+      "source": "The Verge",
+      "published": "2026-06-29T19:47:35+00:00",
+      "link": "https://www.theverge.com/tech/959211/tidal-ai-music-policy-demonetizingdetect-label"
+    },
     {
       "title": "OpenAI is teasing new hardware… for Codex",
       "summary": "OpenAI is releasing some sort of device related to its AI-powered coding tool, Codex, on July 15th.",
@@ -14,6 +35,13 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-06-29T18:10:26+00:00",
       "link": "https://techcrunch.com/2026/06/29/anthropic-and-gov-newsom-forge-deal-allowing-california-government-to-use-claude-at-half-price/"
+    },
+    {
+      "title": "South Korean tech giants commit over $550B to ease ‘RAMageddon’",
+      "summary": "The world's two largest memory chip companies vow to build more memory lab fabs as South Korea positions itself as an AI tech powerhouse country.",
+      "source": "TechCrunch",
+      "published": "2026-06-29T18:07:48+00:00",
+      "link": "https://techcrunch.com/2026/06/29/south-korean-tech-giants-commit-over-550b-to-ease-ramageddon/"
     },
     {
       "title": "South Korean tech giants commit over $550B to ease ‘ RAMageddon’",
@@ -86,6 +114,13 @@ const FEED_DATA = {
       "link": "https://the-decoder.com/deloitte-tells-its-own-consultants-ai-is-coming-for-the-billable-hour/"
     },
     {
+      "title": "Working With AI: A concrete example",
+      "summary": "Article URL: https://htmx.org/essays/working-with-ai/ Comments URL: https://news.ycombinator.com/item?id=48720064 Points: 50 # Comments: 15",
+      "source": "Hacker News",
+      "published": "2026-06-29T14:53:41+00:00",
+      "link": "https://htmx.org/essays/working-with-ai/"
+    },
+    {
       "title": "Agent confidence on the technical frontier",
       "summary": "Enterprise investment in AI is booming. Gartner is calling 2026 an “inflection year” for organizations to align their AI projects with strategic business objectives.",
       "source": "MIT Tech Review",
@@ -101,7 +136,7 @@ const FEED_DATA = {
     },
     {
       "title": "Tidal AI Policy",
-      "summary": "Article URL: https://tidal.com/ai-policy Comments URL: https://news.ycombinator.com/item?id=48718840 Points: 253 # Comments: 279",
+      "summary": "Article URL: https://tidal.com/ai-policy Comments URL: https://news.ycombinator.com/item?id=48718840 Points: 286 # Comments: 310",
       "source": "Hacker News",
       "published": "2026-06-29T13:09:03+00:00",
       "link": "https://tidal.com/ai-policy"
@@ -149,6 +184,13 @@ const FEED_DATA = {
       "link": "https://www.artificialintelligence-news.com/news/wimbledon-ibm-ai-tools-live-match-coverage/"
     },
     {
+      "title": "Anthropic CEO: Open-Source AI is getting dangerous (2023)",
+      "summary": "Article URL: https://xcancel.com/coinbureau/status/2071330294452666695 Comments URL: https://news.ycombinator.com/item?id=48716750 Points: 50 # Comments: 24",
+      "source": "Hacker News",
+      "published": "2026-06-29T09:11:33+00:00",
+      "link": "https://xcancel.com/coinbureau/status/2071330294452666695"
+    },
+    {
       "title": "Advances in Natural Language Processing Are Changing Professional Networking",
       "summary": "Natural language processing is reshaping professional communication on online platforms, enabling more relevant and personalised networking interactions.",
       "source": "AI News",
@@ -192,7 +234,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI boom risks global financial crash, warn central bankers",
-      "summary": "Article URL: https://www.telegraph.co.uk/business/2026/06/28/ai-boom-risks-global-financial-crash-central-bankers-warn/ Comments URL: https://news.ycombinator.com/item?id=48713697 Points: 152 # Comments: 195",
+      "summary": "Article URL: https://www.telegraph.co.uk/business/2026/06/28/ai-boom-risks-global-financial-crash-central-bankers-warn/ Comments URL: https://news.ycombinator.com/item?id=48713697 Points: 153 # Comments: 197",
       "source": "Hacker News",
       "published": "2026-06-29T01:25:04+00:00",
       "link": "https://www.telegraph.co.uk/business/2026/06/28/ai-boom-risks-global-financial-crash-central-bankers-warn/"
@@ -248,14 +290,14 @@ const FEED_DATA = {
     },
     {
       "title": "Professor denounces mass AI fraud on an exam at Brown",
-      "summary": "Article URL: https://english.elpais.com/education/2026-06-28/ai-fraud-at-brown-university-academic-integrity-is-at-risk.html Comments URL: https://news.ycombinator.com/item?id=48708991 Points: 517 # Comments: 677",
+      "summary": "Article URL: https://english.elpais.com/education/2026-06-28/ai-fraud-at-brown-university-academic-integrity-is-at-risk.html Comments URL: https://news.ycombinator.com/item?id=48708991 Points: 521 # Comments: 685",
       "source": "Hacker News",
       "published": "2026-06-28T16:41:12+00:00",
       "link": "https://english.elpais.com/education/2026-06-28/ai-fraud-at-brown-university-academic-integrity-is-at-risk.html"
     },
     {
       "title": "Reflections on software engineering in the age of AI",
-      "summary": "Article URL: https://adiamond.me/2026/06/software-engineering-in-the-age-of-ai/ Comments URL: https://news.ycombinator.com/item?id=48708721 Points: 103 # Comments: 95",
+      "summary": "Article URL: https://adiamond.me/2026/06/software-engineering-in-the-age-of-ai/ Comments URL: https://news.ycombinator.com/item?id=48708721 Points: 103 # Comments: 97",
       "source": "Hacker News",
       "published": "2026-06-28T16:17:38+00:00",
       "link": "https://adiamond.me/2026/06/software-engineering-in-the-age-of-ai/"
@@ -325,14 +367,14 @@ const FEED_DATA = {
     },
     {
       "title": "Ford hired AI and sacked humans. It backfired badly",
-      "summary": "Article URL: https://www.the-independent.com/tech/ford-ai-automation-human-workers-b3003787.html Comments URL: https://news.ycombinator.com/item?id=48703968 Points: 238 # Comments: 4",
+      "summary": "Article URL: https://www.the-independent.com/tech/ford-ai-automation-human-workers-b3003787.html Comments URL: https://news.ycombinator.com/item?id=48703968 Points: 239 # Comments: 4",
       "source": "Hacker News",
       "published": "2026-06-28T03:09:13+00:00",
       "link": "https://www.the-independent.com/tech/ford-ai-automation-human-workers-b3003787.html"
     },
     {
       "title": "The best response to AI slop and online noise is from Robin Williams",
-      "summary": "Article URL: https://jayacunzo.com/blog/your-move-chief Comments URL: https://news.ycombinator.com/item?id=48703452 Points: 395 # Comments: 219",
+      "summary": "Article URL: https://jayacunzo.com/blog/your-move-chief Comments URL: https://news.ycombinator.com/item?id=48703452 Points: 399 # Comments: 219",
       "source": "Hacker News",
       "published": "2026-06-28T01:28:10+00:00",
       "link": "https://jayacunzo.com/blog/your-move-chief"
@@ -402,7 +444,7 @@ const FEED_DATA = {
     },
     {
       "title": "Asian AI startups launch Mythos-like models",
-      "summary": "Article URL: https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/ Comments URL: https://news.ycombinator.com/item?id=48697958 Points: 277 # Comments: 195",
+      "summary": "Article URL: https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/ Comments URL: https://news.ycombinator.com/item?id=48697958 Points: 277 # Comments: 196",
       "source": "Hacker News",
       "published": "2026-06-27T13:10:21+00:00",
       "link": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/"
@@ -437,7 +479,7 @@ const FEED_DATA = {
     },
     {
       "title": "DSpark: Speculative decoding accelerates LLM inference [pdf]",
-      "summary": "Article URL: https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf Comments URL: https://news.ycombinator.com/item?id=48696585 Points: 791 # Comments: 359",
+      "summary": "Article URL: https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf Comments URL: https://news.ycombinator.com/item?id=48696585 Points: 791 # Comments: 360",
       "source": "Hacker News",
       "published": "2026-06-27T09:18:52+00:00",
       "link": "https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf"
@@ -479,7 +521,7 @@ const FEED_DATA = {
     },
     {
       "title": "U.S. allows Anthropic to release Mythos AI to ‘trusted’ US organizations",
-      "summary": "https://archive.md/ArXuFhttps://www.nbcnews.com/tech/tech-news/us-government-gives-a... Comments URL: https://news.ycombinator.com/item?id=48692995 Points: 551 # Comments: 793",
+      "summary": "https://archive.md/ArXuFhttps://www.nbcnews.com/tech/tech-news/us-government-gives-a... Comments URL: https://news.ycombinator.com/item?id=48692995 Points: 551 # Comments: 798",
       "source": "Hacker News",
       "published": "2026-06-26T22:48:28+00:00",
       "link": "https://www.semafor.com/article/06/27/2026/us-releases-powerful-anthropic-model-mythos-to-some-us-companies"
@@ -1358,48 +1400,6 @@ const FEED_DATA = {
       "source": "The Verge",
       "published": "2026-06-23T13:25:42+00:00",
       "link": "https://www.theverge.com/tech/954676/sony-xperia-1-viii-ai-camera-assistant"
-    },
-    {
-      "title": "Fika Jobs raises $4M to build a video-first hiring platform where AI agents interview candidates",
-      "summary": "Stockholm-based startup Fika Jobs is building a video-first hiring platform that combines AI interview agents with short-form video profiles, creating something that feels like a cross between LinkedIn and TikTok.",
-      "source": "TechCrunch",
-      "published": "2026-06-23T13:00:00+00:00",
-      "link": "https://techcrunch.com/2026/06/23/fika-jobs-raises-4m-to-build-a-video-first-hiring-platform-where-ai-agents-interview-candidates/"
-    },
-    {
-      "title": "ByteDance's Seedance 2.5 breaks the 30-second barrier for AI video generation",
-      "summary": "ByteDance introduced five new AI models at Volcano Engine's FORCE conference. The centerpiece is Seedance 2.5, a video model set to launch in early July.",
-      "source": "The Decoder",
-      "published": "2026-06-23T12:15:35+00:00",
-      "link": "https://the-decoder.com/bytedances-seedance-2-5-breaks-the-30-second-barrier-for-ai-video-generation/"
-    },
-    {
-      "title": "Cursor announces its own AI model, a new Git platform, and a mobile app",
-      "summary": "Cursor has revealed new details about its first AI model trained entirely in-house and announced two new products. The article Cursor announces its own AI model, a new Git platform, and a mobile app appeared first on The Decoder.",
-      "source": "The Decoder",
-      "published": "2026-06-23T12:12:40+00:00",
-      "link": "https://the-decoder.com/cursor-announces-its-own-ai-model-a-new-git-platform-and-a-mobile-app/"
-    },
-    {
-      "title": "The Download: the future of chipmaking and Anthropic’s government clash",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The $400 million machine powering the future of chipmaking It’s a bit of a schlep to get to the top of ASML’s newest machine.",
-      "source": "MIT Tech Review",
-      "published": "2026-06-23T12:10:00+00:00",
-      "link": "https://www.technologyreview.com/2026/06/23/1139483/the-download-chipmaking-future-asml-ai-anthropic-government-clash/"
-    },
-    {
-      "title": "The Low-Tech AI of Elden Ring",
-      "summary": "Article URL: https://nega.tv/posts/low-tech-ai-of-elden-ring.html Comments URL: https://news.ycombinator.com/item?id=48643489 Points: 164 # Comments: 96",
-      "source": "Hacker News",
-      "published": "2026-06-23T11:40:50+00:00",
-      "link": "https://nega.tv/posts/low-tech-ai-of-elden-ring.html"
-    },
-    {
-      "title": "OpenAI says new GPT-5.5-Cyber outperforms Anthropic's Mythos on cybersecurity benchmark",
-      "summary": "OpenAI is expanding its Daybreak cybersecurity initiative with an updated Codex Security plugin, the full GPT-5.5-Cyber model, and a partner network with more than 25 security firms and several governments.",
-      "source": "The Decoder",
-      "published": "2026-06-23T10:43:17+00:00",
-      "link": "https://the-decoder.com/openai-says-new-gpt-5-5-cyber-outperforms-anthropics-mythos-on-cybersecurity-benchmark/"
     }
   ]
 };
