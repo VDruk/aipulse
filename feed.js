@@ -1,6 +1,13 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-06-30T05:01:35.127549+00:00",
+  "lastUpdated": "2026-06-30T08:31:28.479860+00:00",
   "items": [
+    {
+      "title": "Deepseek's DSpark boosts AI speed by up to 85 percent, a strategic win under tightening US export controls",
+      "summary": "Deepseek's new DSpark framework boosts per-user response speed by 60 to 85 percent. A small model proposes token candidates that the larger model checks in batches, squeezing more performance out of fewer chips.",
+      "source": "The Decoder",
+      "published": "2026-06-30T08:28:02+00:00",
+      "link": "https://the-decoder.com/deepseeks-dspark-boosts-ai-speed-by-up-to-85-percent-a-strategic-win-under-tightening-us-export-controls/"
+    },
     {
       "title": "The AI jobs debate just got messier",
       "summary": "A new report finds \"high-intensity AI adopters” saw headcount increase 10.2%. Among those companies, entry-level headcount rose by 12%, countering the rhetoric that AI kills junior jobs.",
@@ -100,6 +107,13 @@ const FEED_DATA = {
       "link": "https://techcrunch.com/2026/06/29/cursor-now-has-a-mobile-app-for-guiding-your-coding-agent-on-the-go/"
     },
     {
+      "title": "Amazon Is Awash with AI-Written Guideslop for Games That Aren't Even Out",
+      "summary": "Article URL: https://kotaku.com/amazon-ai-game-guidebooks-alien-isolation-gears-of-war-2000711365 Comments URL: https://news.ycombinator.com/item?id=48721494 Points: 52 # Comments: 3",
+      "source": "Hacker News",
+      "published": "2026-06-29T16:39:38+00:00",
+      "link": "https://kotaku.com/amazon-ai-game-guidebooks-alien-isolation-gears-of-war-2000711365"
+    },
+    {
       "title": "TIDAL cracks down on AI music by cutting off monetization",
       "summary": "In addition, TIDAL will use automated tools to remove AI-generated music that attempts to impersonate an artist or a group, the company said.",
       "source": "TechCrunch",
@@ -129,7 +143,7 @@ const FEED_DATA = {
     },
     {
       "title": "Working With AI: A concrete example",
-      "summary": "Article URL: https://htmx.org/essays/working-with-ai/ Comments URL: https://news.ycombinator.com/item?id=48720064 Points: 115 # Comments: 38",
+      "summary": "Article URL: https://htmx.org/essays/working-with-ai/ Comments URL: https://news.ycombinator.com/item?id=48720064 Points: 155 # Comments: 50",
       "source": "Hacker News",
       "published": "2026-06-29T14:53:41+00:00",
       "link": "https://htmx.org/essays/working-with-ai/"
@@ -150,7 +164,7 @@ const FEED_DATA = {
     },
     {
       "title": "Tidal AI Policy",
-      "summary": "Article URL: https://tidal.com/ai-policy Comments URL: https://news.ycombinator.com/item?id=48718840 Points: 296 # Comments: 328",
+      "summary": "Article URL: https://tidal.com/ai-policy Comments URL: https://news.ycombinator.com/item?id=48718840 Points: 301 # Comments: 330",
       "source": "Hacker News",
       "published": "2026-06-29T13:09:03+00:00",
       "link": "https://tidal.com/ai-policy"
@@ -199,7 +213,7 @@ const FEED_DATA = {
     },
     {
       "title": "Anthropic CEO: Open-Source AI is getting dangerous (2023)",
-      "summary": "Article URL: https://xcancel.com/coinbureau/status/2071330294452666695 Comments URL: https://news.ycombinator.com/item?id=48716750 Points: 51 # Comments: 24",
+      "summary": "Article URL: https://xcancel.com/coinbureau/status/2071330294452666695 Comments URL: https://news.ycombinator.com/item?id=48716750 Points: 53 # Comments: 24",
       "source": "Hacker News",
       "published": "2026-06-29T09:11:33+00:00",
       "link": "https://xcancel.com/coinbureau/status/2071330294452666695"
@@ -248,7 +262,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI boom risks global financial crash, warn central bankers",
-      "summary": "Article URL: https://www.telegraph.co.uk/business/2026/06/28/ai-boom-risks-global-financial-crash-central-bankers-warn/ Comments URL: https://news.ycombinator.com/item?id=48713697 Points: 155 # Comments: 205",
+      "summary": "Article URL: https://www.telegraph.co.uk/business/2026/06/28/ai-boom-risks-global-financial-crash-central-bankers-warn/ Comments URL: https://news.ycombinator.com/item?id=48713697 Points: 156 # Comments: 205",
       "source": "Hacker News",
       "published": "2026-06-29T01:25:04+00:00",
       "link": "https://www.telegraph.co.uk/business/2026/06/28/ai-boom-risks-global-financial-crash-central-bankers-warn/"
@@ -304,14 +318,14 @@ const FEED_DATA = {
     },
     {
       "title": "Professor denounces mass AI fraud on an exam at Brown",
-      "summary": "Article URL: https://english.elpais.com/education/2026-06-28/ai-fraud-at-brown-university-academic-integrity-is-at-risk.html Comments URL: https://news.ycombinator.com/item?id=48708991 Points: 530 # Comments: 690",
+      "summary": "Article URL: https://english.elpais.com/education/2026-06-28/ai-fraud-at-brown-university-academic-integrity-is-at-risk.html Comments URL: https://news.ycombinator.com/item?id=48708991 Points: 537 # Comments: 695",
       "source": "Hacker News",
       "published": "2026-06-28T16:41:12+00:00",
       "link": "https://english.elpais.com/education/2026-06-28/ai-fraud-at-brown-university-academic-integrity-is-at-risk.html"
     },
     {
       "title": "Reflections on software engineering in the age of AI",
-      "summary": "Article URL: https://adiamond.me/2026/06/software-engineering-in-the-age-of-ai/ Comments URL: https://news.ycombinator.com/item?id=48708721 Points: 103 # Comments: 100",
+      "summary": "Article URL: https://adiamond.me/2026/06/software-engineering-in-the-age-of-ai/ Comments URL: https://news.ycombinator.com/item?id=48708721 Points: 104 # Comments: 100",
       "source": "Hacker News",
       "published": "2026-06-28T16:17:38+00:00",
       "link": "https://adiamond.me/2026/06/software-engineering-in-the-age-of-ai/"
@@ -458,7 +472,7 @@ const FEED_DATA = {
     },
     {
       "title": "Asian AI startups launch Mythos-like models",
-      "summary": "Article URL: https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/ Comments URL: https://news.ycombinator.com/item?id=48697958 Points: 278 # Comments: 197",
+      "summary": "Article URL: https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/ Comments URL: https://news.ycombinator.com/item?id=48697958 Points: 279 # Comments: 197",
       "source": "Hacker News",
       "published": "2026-06-27T13:10:21+00:00",
       "link": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/"
@@ -493,7 +507,7 @@ const FEED_DATA = {
     },
     {
       "title": "DSpark: Speculative decoding accelerates LLM inference [pdf]",
-      "summary": "Article URL: https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf Comments URL: https://news.ycombinator.com/item?id=48696585 Points: 791 # Comments: 361",
+      "summary": "Article URL: https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf Comments URL: https://news.ycombinator.com/item?id=48696585 Points: 791 # Comments: 360",
       "source": "Hacker News",
       "published": "2026-06-27T09:18:52+00:00",
       "link": "https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf"
@@ -1386,20 +1400,6 @@ const FEED_DATA = {
       "source": "The Verge",
       "published": "2026-06-23T15:56:35+00:00",
       "link": "https://www.theverge.com/report/954826/midjourney-medical-ai-ultrasound-body-scanner-lacks-evidence"
-    },
-    {
-      "title": "AI's Affordability Crisis",
-      "summary": "Article URL: https://blog.dshr.org/2026/06/ais-affordability-crisis.html Comments URL: https://news.ycombinator.com/item?id=48646276 Points: 330 # Comments: 419",
-      "source": "Hacker News",
-      "published": "2026-06-23T15:11:17+00:00",
-      "link": "https://blog.dshr.org/2026/06/ais-affordability-crisis.html"
-    },
-    {
-      "title": "Show HN: peerd – AI agent harness that runs entirely in your browser",
-      "summary": "Hey HN. http://peerd.ai is an AI agent harness that lives entirely in your browser as a web extension.",
-      "source": "Hacker News",
-      "published": "2026-06-23T15:05:00+00:00",
-      "link": "https://github.com/NotASithLord/peerd"
     }
   ]
 };
