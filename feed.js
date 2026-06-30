@@ -1,6 +1,41 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-06-30T08:31:28.479860+00:00",
+  "lastUpdated": "2026-06-30T11:36:45.008767+00:00",
   "items": [
+    {
+      "title": "Meta secretly tested ChatGPT, Gemini, and Character.AI with thousands of minor-perspective crisis prompts",
+      "summary": "Meta reportedly had hundreds of contractors pose as minors and send suicide, sex, and drug-related prompts to chatbots from OpenAI, Google, and Character.AI. In a single testing round, more than 45,000 prompts were sent.",
+      "source": "The Decoder",
+      "published": "2026-06-30T11:14:52+00:00",
+      "link": "https://the-decoder.com/meta-secretly-tested-chatgpt-gemini-and-character-ai-with-thousands-of-minor-perspective-crisis-prompts/"
+    },
+    {
+      "title": "Bernie Sanders Saw This Coming",
+      "summary": "For decades, the senator has argued that concentrated wealth threatened American democracy. Now he’s betting that frustration with Big Tech, billionaires, and unchecked AI is reaching a tipping point.",
+      "source": "Wired",
+      "published": "2026-06-30T10:30:00+00:00",
+      "link": "https://www.wired.com/story/the-big-interview-podcast-senator-bernie-sanders/"
+    },
+    {
+      "title": "Building tech in the world’s secret R&D hub",
+      "summary": "Apple. Anthropic.",
+      "source": "MIT Tech Review",
+      "published": "2026-06-30T10:23:30+00:00",
+      "link": "https://www.technologyreview.com/2026/06/30/1139661/building-tech-in-the-worlds-secret-rd-hub/"
+    },
+    {
+      "title": "Taiwan raids Super Micro offices in probe over Nvidia chip smuggling to China",
+      "summary": "Taiwanese authorities have raided the offices of Super Micro Computer and several local partner companies. The article Taiwan raids Super Micro offices in probe over Nvidia chip smuggling to China appeared first on The Decoder.",
+      "source": "The Decoder",
+      "published": "2026-06-30T09:43:41+00:00",
+      "link": "https://the-decoder.com/taiwan-raids-super-micro-offices-in-probe-over-nvidia-chip-smuggling-to-china/"
+    },
+    {
+      "title": "Crypto exchange OKX wants AI agents to hire and pay each other",
+      "summary": "OKX is bringing together payments, identity and reputation into a marketplace for AI agents.",
+      "source": "TechCrunch",
+      "published": "2026-06-30T09:00:00+00:00",
+      "link": "https://techcrunch.com/2026/06/30/crypto-exchange-okx-wants-ai-agents-to-hire-and-pay-each-other/"
+    },
     {
       "title": "Deepseek's DSpark boosts AI speed by up to 85 percent, a strategic win under tightening US export controls",
       "summary": "Deepseek's new DSpark framework boosts per-user response speed by 60 to 85 percent. A small model proposes token candidates that the larger model checks in batches, squeezing more performance out of fewer chips.",
@@ -37,7 +72,7 @@ const FEED_DATA = {
       "link": "https://techcrunch.com/2026/06/29/geminis-personalized-ai-image-generation-is-now-free-for-u-s-users/"
     },
     {
-      "title": "Tidal won’t pay royalties on AI-generated music but isn’t banning it outright",
+      "title": "Tidal won’t pay royalties on AI-generated music, but isn’t banning it outright",
       "summary": "Tidal shared its new policies regarding AI-generated music today and how the platform plans to \"protect artists\" and \"inform listeners.\" Instead of banning it outright, starting on July 15th Tidal will label tracks it has identified as being 100 percent AI-generated with an icon.",
       "source": "The Verge",
       "published": "2026-06-29T19:47:35+00:00",
@@ -108,7 +143,7 @@ const FEED_DATA = {
     },
     {
       "title": "Amazon Is Awash with AI-Written Guideslop for Games That Aren't Even Out",
-      "summary": "Article URL: https://kotaku.com/amazon-ai-game-guidebooks-alien-isolation-gears-of-war-2000711365 Comments URL: https://news.ycombinator.com/item?id=48721494 Points: 52 # Comments: 3",
+      "summary": "Article URL: https://kotaku.com/amazon-ai-game-guidebooks-alien-isolation-gears-of-war-2000711365 Comments URL: https://news.ycombinator.com/item?id=48721494 Points: 55 # Comments: 3",
       "source": "Hacker News",
       "published": "2026-06-29T16:39:38+00:00",
       "link": "https://kotaku.com/amazon-ai-game-guidebooks-alien-isolation-gears-of-war-2000711365"
@@ -143,7 +178,7 @@ const FEED_DATA = {
     },
     {
       "title": "Working With AI: A concrete example",
-      "summary": "Article URL: https://htmx.org/essays/working-with-ai/ Comments URL: https://news.ycombinator.com/item?id=48720064 Points: 155 # Comments: 50",
+      "summary": "Article URL: https://htmx.org/essays/working-with-ai/ Comments URL: https://news.ycombinator.com/item?id=48720064 Points: 165 # Comments: 56",
       "source": "Hacker News",
       "published": "2026-06-29T14:53:41+00:00",
       "link": "https://htmx.org/essays/working-with-ai/"
@@ -164,7 +199,7 @@ const FEED_DATA = {
     },
     {
       "title": "Tidal AI Policy",
-      "summary": "Article URL: https://tidal.com/ai-policy Comments URL: https://news.ycombinator.com/item?id=48718840 Points: 301 # Comments: 330",
+      "summary": "Article URL: https://tidal.com/ai-policy Comments URL: https://news.ycombinator.com/item?id=48718840 Points: 301 # Comments: 337",
       "source": "Hacker News",
       "published": "2026-06-29T13:09:03+00:00",
       "link": "https://tidal.com/ai-policy"
@@ -213,7 +248,7 @@ const FEED_DATA = {
     },
     {
       "title": "Anthropic CEO: Open-Source AI is getting dangerous (2023)",
-      "summary": "Article URL: https://xcancel.com/coinbureau/status/2071330294452666695 Comments URL: https://news.ycombinator.com/item?id=48716750 Points: 53 # Comments: 24",
+      "summary": "Article URL: https://xcancel.com/coinbureau/status/2071330294452666695 Comments URL: https://news.ycombinator.com/item?id=48716750 Points: 54 # Comments: 24",
       "source": "Hacker News",
       "published": "2026-06-29T09:11:33+00:00",
       "link": "https://xcancel.com/coinbureau/status/2071330294452666695"
@@ -262,7 +297,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI boom risks global financial crash, warn central bankers",
-      "summary": "Article URL: https://www.telegraph.co.uk/business/2026/06/28/ai-boom-risks-global-financial-crash-central-bankers-warn/ Comments URL: https://news.ycombinator.com/item?id=48713697 Points: 156 # Comments: 205",
+      "summary": "Article URL: https://www.telegraph.co.uk/business/2026/06/28/ai-boom-risks-global-financial-crash-central-bankers-warn/ Comments URL: https://news.ycombinator.com/item?id=48713697 Points: 156 # Comments: 206",
       "source": "Hacker News",
       "published": "2026-06-29T01:25:04+00:00",
       "link": "https://www.telegraph.co.uk/business/2026/06/28/ai-boom-risks-global-financial-crash-central-bankers-warn/"
@@ -318,7 +353,7 @@ const FEED_DATA = {
     },
     {
       "title": "Professor denounces mass AI fraud on an exam at Brown",
-      "summary": "Article URL: https://english.elpais.com/education/2026-06-28/ai-fraud-at-brown-university-academic-integrity-is-at-risk.html Comments URL: https://news.ycombinator.com/item?id=48708991 Points: 537 # Comments: 695",
+      "summary": "Article URL: https://english.elpais.com/education/2026-06-28/ai-fraud-at-brown-university-academic-integrity-is-at-risk.html Comments URL: https://news.ycombinator.com/item?id=48708991 Points: 541 # Comments: 708",
       "source": "Hacker News",
       "published": "2026-06-28T16:41:12+00:00",
       "link": "https://english.elpais.com/education/2026-06-28/ai-fraud-at-brown-university-academic-integrity-is-at-risk.html"
@@ -346,7 +381,7 @@ const FEED_DATA = {
     },
     {
       "title": "Google limits Meta's use of its Gemini AI models",
-      "summary": "Article URL: https://www.cnbc.com/2026/06/28/google-limits-metas-use-of-its-gemini-ai-models-ft-reports.html Comments URL: https://news.ycombinator.com/item?id=48707103 Points: 158 # Comments: 72",
+      "summary": "Article URL: https://www.cnbc.com/2026/06/28/google-limits-metas-use-of-its-gemini-ai-models-ft-reports.html Comments URL: https://news.ycombinator.com/item?id=48707103 Points: 159 # Comments: 72",
       "source": "Hacker News",
       "published": "2026-06-28T13:30:06+00:00",
       "link": "https://www.cnbc.com/2026/06/28/google-limits-metas-use-of-its-gemini-ai-models-ft-reports.html"
@@ -472,7 +507,7 @@ const FEED_DATA = {
     },
     {
       "title": "Asian AI startups launch Mythos-like models",
-      "summary": "Article URL: https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/ Comments URL: https://news.ycombinator.com/item?id=48697958 Points: 279 # Comments: 197",
+      "summary": "Article URL: https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/ Comments URL: https://news.ycombinator.com/item?id=48697958 Points: 280 # Comments: 197",
       "source": "Hacker News",
       "published": "2026-06-27T13:10:21+00:00",
       "link": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/"
@@ -1365,41 +1400,6 @@ const FEED_DATA = {
       "source": "Ars Technica",
       "published": "2026-06-23T20:17:38+00:00",
       "link": "https://arstechnica.com/ai/2026/06/oracles-21000-layoffs-help-drive-its-debt-fueled-ai-investments/"
-    },
-    {
-      "title": "AI Hiring Tools Yield Racial Bias and Systemic Rejection; 26% Black & 15% Asian",
-      "summary": "Article URL: https://hai.stanford.edu/news/ai-hiring-tools-can-yield-racial-bias-and-systemic-rejection Comments URL: https://news.ycombinator.com/item?id=48649673 Points: 107 # Comments: 85",
-      "source": "Hacker News",
-      "published": "2026-06-23T18:56:19+00:00",
-      "link": "https://hai.stanford.edu/news/ai-hiring-tools-can-yield-racial-bias-and-systemic-rejection"
-    },
-    {
-      "title": "Why corporate AI super PACs spent $27 million on a local election",
-      "summary": "Hello and welcome to Regulator, the newsletter for Verge subscribers chronicling the misadventures of their favorite tech overlords and Washington swamp creatures. (\"Favorite\" is, of course, subjective.) Not a subscriber yet?",
-      "source": "The Verge",
-      "published": "2026-06-23T17:00:00+00:00",
-      "link": "https://www.theverge.com/policy/954970/ai-super-pacs-alex-bores-new-york-12th-district"
-    },
-    {
-      "title": "Anthropic’s Claude Tag is learning your company, one Slack message at a time",
-      "summary": "Anthropic’s new Claude Tag brings an always-on AI teammate to Slack. But beyond productivity, the feature is a strategic play to capture organizational context, institutional knowledge, and enterprise workflows.",
-      "source": "TechCrunch",
-      "published": "2026-06-23T17:00:00+00:00",
-      "link": "https://techcrunch.com/2026/06/23/anthropics-claude-tag-is-learning-your-company-one-slack-message-at-a-time/"
-    },
-    {
-      "title": "Omio scales travel product development using OpenAI models",
-      "summary": "Omio integrates OpenAI models across its engineering operations to accelerate travel product development and launch booking interfaces. The multimodal travel platform coordinates operations with over 3,000 transportation providers across 47 countries.",
-      "source": "AI News",
-      "published": "2026-06-23T16:32:28+00:00",
-      "link": "https://www.artificialintelligence-news.com/news/omio-scales-travel-product-development-using-openai-models/"
-    },
-    {
-      "title": "Something’s off with Midjourney’s pivot to body scanners",
-      "summary": "Last week, Midjourney, an AI startup best known for its image generator, made an unusual pivot: medical imaging.",
-      "source": "The Verge",
-      "published": "2026-06-23T15:56:35+00:00",
-      "link": "https://www.theverge.com/report/954826/midjourney-medical-ai-ultrasound-body-scanner-lacks-evidence"
     }
   ]
 };
