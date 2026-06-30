@@ -1,6 +1,76 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-06-30T11:36:45.008767+00:00",
+  "lastUpdated": "2026-06-30T15:30:50.436566+00:00",
   "items": [
+    {
+      "title": "Meituan's LongCat-2.0 shows China can train massive AI models without Nvidia",
+      "summary": "Meituan trains a 1.6 trillion parameter AI model entirely on Chinese chips, no Nvidia required. The article Meituan's LongCat-2.0 shows China can train massive AI models without Nvidia appeared first on The Decoder.",
+      "source": "The Decoder",
+      "published": "2026-06-30T15:23:46+00:00",
+      "link": "https://the-decoder.com/meituans-longcat-2-0-shows-china-can-train-massive-ai-models-without-nvidia/"
+    },
+    {
+      "title": "X now offers an MCP server to make its platform easier for AI tools to use",
+      "summary": "X has launched a hosted MCP server, making it easier for developers to connect AI applications with the company’s API.",
+      "source": "TechCrunch",
+      "published": "2026-06-30T15:08:42+00:00",
+      "link": "https://techcrunch.com/2026/06/30/x-now-offers-an-mcp-server-to-make-its-platform-easier-for-ai-tools-to-use/"
+    },
+    {
+      "title": "San Francisco's AI boom is pricing out six-figure tech workers who can't find rent under $5,000",
+      "summary": "San Francisco's AI boom is driving up the cost of living so fast that even couples earning $365,000 a year can't find an affordable apartment. Median rent sits at $3,827, and homes cost $1.7 million on average.",
+      "source": "The Decoder",
+      "published": "2026-06-30T15:04:55+00:00",
+      "link": "https://the-decoder.com/san-franciscos-ai-boom-is-pricing-out-six-figure-tech-workers-who-cant-find-rent-under-5000/"
+    },
+    {
+      "title": "Amazon launches new $1 billion FDE org, following OpenAI and Anthropic",
+      "summary": "Engineers on the new team will embed within companies to deploy purpose-built agents, focusing on fast deployments and customer self-sufficiency.",
+      "source": "TechCrunch",
+      "published": "2026-06-30T15:00:00+00:00",
+      "link": "https://techcrunch.com/2026/06/30/amazon-launches-new-1-billion-fde-org-following-openai-and-anthropic/"
+    },
+    {
+      "title": "Podcasting platform Riverside enters the newsletter publishing game",
+      "summary": "Users will be able use AI to create newsletters based on their recordings.",
+      "source": "TechCrunch",
+      "published": "2026-06-30T15:00:00+00:00",
+      "link": "https://techcrunch.com/2026/06/30/podcasting-platform-riverside-enters-the-newsletter-publishing-game/"
+    },
+    {
+      "title": "Lumo, Proton’s privacy-focused AI chatbot, gets an upgrade",
+      "summary": "Proton's Lumo 2.0 is dropping this week, giving users a broader variety of capabilities.",
+      "source": "TechCrunch",
+      "published": "2026-06-30T14:00:00+00:00",
+      "link": "https://techcrunch.com/2026/06/30/lumo-protons-privacy-focused-ai-chatbot-gets-an-upgrade/"
+    },
+    {
+      "title": "US campaigns now run on AI at nearly every step, and Europe is drawing a harder line",
+      "summary": "Republican and Democratic campaigns now run on AI at nearly every step, from vetting opponents to micro-targeting voters, according to a New York Times report. But the technology is still a political minefield, and Europe is taking a very different approach.",
+      "source": "The Decoder",
+      "published": "2026-06-30T12:36:40+00:00",
+      "link": "https://the-decoder.com/us-campaigns-now-run-on-ai-at-nearly-every-step-and-europe-is-drawing-a-harder-line/"
+    },
+    {
+      "title": "The Download: AI “coworkers” and stratospheric internet",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. AI agents are not your “coworkers” Imagine coming in to work to learn that a new underling will report to you.",
+      "source": "MIT Tech Review",
+      "published": "2026-06-30T12:10:00+00:00",
+      "link": "https://www.technologyreview.com/2026/06/30/1139954/the-download-ai-agents-coworkers-solar-powered-internet/"
+    },
+    {
+      "title": "Meet the lawyer who beat Elon Musk — twice",
+      "summary": "Watching Elon Musk fulminate at Bill Savitt during Musk v. Altman - the case in which Musk sued Sam Altman and OpenAI instead of seeing a therapist about his AI failures - was a bit like watching a toddler have a temper tantrum at his nursery school teacher.",
+      "source": "The Verge",
+      "published": "2026-06-30T12:00:00+00:00",
+      "link": "https://www.theverge.com/column/959270/elon-musk-open-ai-bill-savitt-twitter"
+    },
+    {
+      "title": "Agriculture is ready for AI, but its data isn’t",
+      "summary": "Artificial intelligence is transforming what is possible in agriculture, but industry leaders should be wary of investing in AI without first laying the groundwork.",
+      "source": "MIT Tech Review",
+      "published": "2026-06-30T12:00:00+00:00",
+      "link": "https://www.technologyreview.com/2026/06/30/1139513/agriculture-is-ready-for-ai-but-its-data-isnt/"
+    },
     {
       "title": "Meta secretly tested ChatGPT, Gemini, and Character.AI with thousands of minor-perspective crisis prompts",
       "summary": "Meta reportedly had hundreds of contractors pose as minors and send suicide, sex, and drug-related prompts to chatbots from OpenAI, Google, and Character.AI. In a single testing round, more than 45,000 prompts were sent.",
@@ -31,7 +101,7 @@ const FEED_DATA = {
     },
     {
       "title": "Crypto exchange OKX wants AI agents to hire and pay each other",
-      "summary": "OKX is bringing together payments, identity and reputation into a marketplace for AI agents.",
+      "summary": "OKX is bringing together payments, identity, and reputation into a marketplace for AI agents.",
       "source": "TechCrunch",
       "published": "2026-06-30T09:00:00+00:00",
       "link": "https://techcrunch.com/2026/06/30/crypto-exchange-okx-wants-ai-agents-to-hire-and-pay-each-other/"
@@ -49,6 +119,13 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-06-30T04:01:00+00:00",
       "link": "https://techcrunch.com/2026/06/29/the-ai-jobs-debate-just-got-messier/"
+    },
+    {
+      "title": "Vibe-coding platform Base44 launches own model as AI startups seek defensibility",
+      "summary": "Wix-owned vibe-coding platform Base44 has started rolling out its own AI model — with hopes that it will eventually outperform frontier models.",
+      "source": "TechCrunch",
+      "published": "2026-06-30T02:28:41+00:00",
+      "link": "https://techcrunch.com/2026/06/29/vibe-coding-platform-base44-launches-own-model-as-ai-startups-seek-defensibility/"
     },
     {
       "title": "Vibe coding platform Base44 launches own model as AI startups seek defensibility",
@@ -178,7 +255,7 @@ const FEED_DATA = {
     },
     {
       "title": "Working With AI: A concrete example",
-      "summary": "Article URL: https://htmx.org/essays/working-with-ai/ Comments URL: https://news.ycombinator.com/item?id=48720064 Points: 165 # Comments: 56",
+      "summary": "Article URL: https://htmx.org/essays/working-with-ai/ Comments URL: https://news.ycombinator.com/item?id=48720064 Points: 177 # Comments: 64",
       "source": "Hacker News",
       "published": "2026-06-29T14:53:41+00:00",
       "link": "https://htmx.org/essays/working-with-ai/"
@@ -199,7 +276,7 @@ const FEED_DATA = {
     },
     {
       "title": "Tidal AI Policy",
-      "summary": "Article URL: https://tidal.com/ai-policy Comments URL: https://news.ycombinator.com/item?id=48718840 Points: 301 # Comments: 337",
+      "summary": "Article URL: https://tidal.com/ai-policy Comments URL: https://news.ycombinator.com/item?id=48718840 Points: 302 # Comments: 343",
       "source": "Hacker News",
       "published": "2026-06-29T13:09:03+00:00",
       "link": "https://tidal.com/ai-policy"
@@ -248,7 +325,7 @@ const FEED_DATA = {
     },
     {
       "title": "Anthropic CEO: Open-Source AI is getting dangerous (2023)",
-      "summary": "Article URL: https://xcancel.com/coinbureau/status/2071330294452666695 Comments URL: https://news.ycombinator.com/item?id=48716750 Points: 54 # Comments: 24",
+      "summary": "Article URL: https://xcancel.com/coinbureau/status/2071330294452666695 Comments URL: https://news.ycombinator.com/item?id=48716750 Points: 55 # Comments: 24",
       "source": "Hacker News",
       "published": "2026-06-29T09:11:33+00:00",
       "link": "https://xcancel.com/coinbureau/status/2071330294452666695"
@@ -297,7 +374,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI boom risks global financial crash, warn central bankers",
-      "summary": "Article URL: https://www.telegraph.co.uk/business/2026/06/28/ai-boom-risks-global-financial-crash-central-bankers-warn/ Comments URL: https://news.ycombinator.com/item?id=48713697 Points: 156 # Comments: 206",
+      "summary": "Article URL: https://www.telegraph.co.uk/business/2026/06/28/ai-boom-risks-global-financial-crash-central-bankers-warn/ Comments URL: https://news.ycombinator.com/item?id=48713697 Points: 157 # Comments: 210",
       "source": "Hacker News",
       "published": "2026-06-29T01:25:04+00:00",
       "link": "https://www.telegraph.co.uk/business/2026/06/28/ai-boom-risks-global-financial-crash-central-bankers-warn/"
@@ -353,14 +430,14 @@ const FEED_DATA = {
     },
     {
       "title": "Professor denounces mass AI fraud on an exam at Brown",
-      "summary": "Article URL: https://english.elpais.com/education/2026-06-28/ai-fraud-at-brown-university-academic-integrity-is-at-risk.html Comments URL: https://news.ycombinator.com/item?id=48708991 Points: 541 # Comments: 708",
+      "summary": "Article URL: https://english.elpais.com/education/2026-06-28/ai-fraud-at-brown-university-academic-integrity-is-at-risk.html Comments URL: https://news.ycombinator.com/item?id=48708991 Points: 544 # Comments: 715",
       "source": "Hacker News",
       "published": "2026-06-28T16:41:12+00:00",
       "link": "https://english.elpais.com/education/2026-06-28/ai-fraud-at-brown-university-academic-integrity-is-at-risk.html"
     },
     {
       "title": "Reflections on software engineering in the age of AI",
-      "summary": "Article URL: https://adiamond.me/2026/06/software-engineering-in-the-age-of-ai/ Comments URL: https://news.ycombinator.com/item?id=48708721 Points: 104 # Comments: 100",
+      "summary": "Article URL: https://adiamond.me/2026/06/software-engineering-in-the-age-of-ai/ Comments URL: https://news.ycombinator.com/item?id=48708721 Points: 106 # Comments: 100",
       "source": "Hacker News",
       "published": "2026-06-28T16:17:38+00:00",
       "link": "https://adiamond.me/2026/06/software-engineering-in-the-age-of-ai/"
@@ -507,7 +584,7 @@ const FEED_DATA = {
     },
     {
       "title": "Asian AI startups launch Mythos-like models",
-      "summary": "Article URL: https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/ Comments URL: https://news.ycombinator.com/item?id=48697958 Points: 280 # Comments: 197",
+      "summary": "Article URL: https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/ Comments URL: https://news.ycombinator.com/item?id=48697958 Points: 280 # Comments: 198",
       "source": "Hacker News",
       "published": "2026-06-27T13:10:21+00:00",
       "link": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/"
@@ -542,7 +619,7 @@ const FEED_DATA = {
     },
     {
       "title": "DSpark: Speculative decoding accelerates LLM inference [pdf]",
-      "summary": "Article URL: https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf Comments URL: https://news.ycombinator.com/item?id=48696585 Points: 791 # Comments: 360",
+      "summary": "Article URL: https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf Comments URL: https://news.ycombinator.com/item?id=48696585 Points: 792 # Comments: 360",
       "source": "Hacker News",
       "published": "2026-06-27T09:18:52+00:00",
       "link": "https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf"
@@ -584,7 +661,7 @@ const FEED_DATA = {
     },
     {
       "title": "U.S. allows Anthropic to release Mythos AI to ‘trusted’ US organizations",
-      "summary": "https://archive.md/ArXuFhttps://www.nbcnews.com/tech/tech-news/us-government-gives-a... Comments URL: https://news.ycombinator.com/item?id=48692995 Points: 552 # Comments: 799",
+      "summary": "https://archive.md/ArXuFhttps://www.nbcnews.com/tech/tech-news/us-government-gives-a... Comments URL: https://news.ycombinator.com/item?id=48692995 Points: 553 # Comments: 800",
       "source": "Hacker News",
       "published": "2026-06-26T22:48:28+00:00",
       "link": "https://www.semafor.com/article/06/27/2026/us-releases-powerful-anthropic-model-mythos-to-some-us-companies"
@@ -1323,83 +1400,6 @@ const FEED_DATA = {
       "source": "AI News",
       "published": "2026-06-24T09:00:00+00:00",
       "link": "https://www.artificialintelligence-news.com/news/anthropic-slack-workplace-ai-agents/"
-    },
-    {
-      "title": "This flying solar-powered platform could deliver better internet from the air",
-      "summary": "As soon as August, a giant silver bullet will cut its way through the dry air of the southwestern US and cross the Pacific to reach the coast of Japan.",
-      "source": "MIT Tech Review",
-      "published": "2026-06-24T09:00:00+00:00",
-      "link": "https://www.technologyreview.com/2026/06/24/1138771/solar-powered-platform-delivers-better-internet/"
-    },
-    {
-      "title": "All challenges big and small",
-      "summary": "When I was 18, I skipped my high school graduation and headed to Kuwait. It was 1991, the first Gulf War had just ended, and the country was in complete chaos.",
-      "source": "MIT Tech Review",
-      "published": "2026-06-24T09:00:00+00:00",
-      "link": "https://www.technologyreview.com/2026/06/24/1138853/editors-letter-july-2026/"
-    },
-    {
-      "title": "US AI stock sell-off shakes markets from Wall Street to Asia",
-      "summary": "Article URL: https://www.theguardian.com/business/2026/jun/23/ai-stocks-sell-off-us-markets Comments URL: https://news.ycombinator.com/item?id=48654795 Points: 55 # Comments: 40",
-      "source": "Hacker News",
-      "published": "2026-06-24T03:36:50+00:00",
-      "link": "https://www.theguardian.com/business/2026/jun/23/ai-stocks-sell-off-us-markets"
-    },
-    {
-      "title": "India’s MoEngage bets that the future of marketing is millions of AI agents",
-      "summary": "The all-cash deal gives MoEngage access to technology that assigns AI agents to individual customers.",
-      "source": "TechCrunch",
-      "published": "2026-06-23T23:30:00+00:00",
-      "link": "https://techcrunch.com/2026/06/23/indias-moengage-bets-marketings-future-on-millions-of-ai-agents/"
-    },
-    {
-      "title": "Hollywood is bending the knee to OpenAI",
-      "summary": "Netflix, A24, Focus Features, and Warner Bros.' Clockwork have all reportedly decided to pass on picking up Artificial - director Luca Guadagnino's new biographical drama about OpenAI cofounder / CEO Sam Altman - for distribution deals.",
-      "source": "The Verge",
-      "published": "2026-06-23T22:03:18+00:00",
-      "link": "https://www.theverge.com/entertainment/954899/luca-guadagnino-artificial-sam-altman-amazon-a24-neon-mubi-chatgpt"
-    },
-    {
-      "title": "Sharing a love for calculus",
-      "summary": "The national conversation about the value of education is currently dominated by speculation about the risks and positive potential of AI.",
-      "source": "MIT Tech Review",
-      "published": "2026-06-23T21:00:00+00:00",
-      "link": "https://www.technologyreview.com/2026/06/23/1138271/sharing-a-love-for-calculus/"
-    },
-    {
-      "title": "Ultrasound imaging turns a robot hand into a skillful mimic",
-      "summary": "Our hands are the nimblest parts of our bodies, coordinating 34 muscles, 27 joints, and over 100 tendons and ligaments to perform countless nuanced movements and gestures.",
-      "source": "MIT Tech Review",
-      "published": "2026-06-23T21:00:00+00:00",
-      "link": "https://www.technologyreview.com/2026/06/23/1138279/ultrasound-imaging-turns-a-robot-hand-into-a-skillful-mimic/"
-    },
-    {
-      "title": "Reinventing the zipper",
-      "summary": "With an adaptable fastener designed at CSAIL, pitching a tent or adjusting the cast for a broken bone could be almost as easy as zipping your coat.",
-      "source": "MIT Tech Review",
-      "published": "2026-06-23T21:00:00+00:00",
-      "link": "https://www.technologyreview.com/2026/06/23/1138282/reinventing-the-zipper/"
-    },
-    {
-      "title": "Engineered “mini livers” could be injected as an alternative to transplantation",
-      "summary": "A technology developed by Professor Sangeeta Bhatia, SM ’93, PhD ’97, and colleagues could offer new hope to the thousands of Americans with chronic liver disease who are waiting for an organ transplant or not strong enough to tolerate one.",
-      "source": "MIT Tech Review",
-      "published": "2026-06-23T21:00:00+00:00",
-      "link": "https://www.technologyreview.com/2026/06/23/1138285/engineered-mini-livers-could-be-injected-as-an-alternative-to-transplantation/"
-    },
-    {
-      "title": "Plants appear to detect the patter of falling rain",
-      "summary": "MIT engineers have found the first direct evidence that plant seeds can sense sounds in nature: Rice submerged in shallow water germinated 30% to 40% more quickly when exposed to vibrations from water dripping on the surface. They think other types of seeds may respond similarly.",
-      "source": "MIT Tech Review",
-      "published": "2026-06-23T21:00:00+00:00",
-      "link": "https://www.technologyreview.com/2026/06/23/1138288/plants-appear-to-detect-the-patter-of-falling-rain/"
-    },
-    {
-      "title": "Oracle’s 21,000 layoffs help drive its debt-fueled AI investments",
-      "summary": "Oracle is spending billions on data center infrastructure to support AI.",
-      "source": "Ars Technica",
-      "published": "2026-06-23T20:17:38+00:00",
-      "link": "https://arstechnica.com/ai/2026/06/oracles-21000-layoffs-help-drive-its-debt-fueled-ai-investments/"
     }
   ]
 };
