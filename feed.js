@@ -1,6 +1,48 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-06-30T18:52:32.509907+00:00",
+  "lastUpdated": "2026-06-30T22:10:35.399886+00:00",
   "items": [
+    {
+      "title": "OpenClaw is finally available on Android and iOS",
+      "summary": "The free open source agentic program is finally invading your phone.",
+      "source": "TechCrunch",
+      "published": "2026-06-30T21:53:28+00:00",
+      "link": "https://techcrunch.com/2026/06/30/openclaw-is-finally-available-on-android-and-ios/"
+    },
+    {
+      "title": "Claude Science is Anthropic’s newest flagship product",
+      "summary": "At an event for pharmaceutical executives, biotech founders, and researchers on Tuesday, Anthropic announced Claude Science, a major new product intended to support scientific research in the same way that Claude Code supports software engineering.",
+      "source": "MIT Tech Review",
+      "published": "2026-06-30T21:50:04+00:00",
+      "link": "https://www.technologyreview.com/2026/06/30/1139987/claude-science-is-anthropics-newest-flagship-product/"
+    },
+    {
+      "title": "The DeepMind trio who built a poker AI are now making money for quant hedge funds",
+      "summary": "EquiLibre Technologies, a Prague-based AI lab founded by three ex-DeepMind researchers, is now valued at more than $500 million.",
+      "source": "TechCrunch",
+      "published": "2026-06-30T20:33:48+00:00",
+      "link": "https://techcrunch.com/2026/06/30/the-deepmind-trio-who-built-a-poker-ai-are-now-making-money-for-quant-hedge-funds/"
+    },
+    {
+      "title": "New attack provides one more reason why AI browsers are a bad idea",
+      "summary": "Telling an LLM that 2 + 2 = 5 is enough to make it follow forbidden instructions.",
+      "source": "Ars Technica",
+      "published": "2026-06-30T20:03:14+00:00",
+      "link": "https://arstechnica.com/security/2026/06/ai-browsers-can-be-lulled-into-a-dream-world-where-guardrails-no-longer-apply/"
+    },
+    {
+      "title": "Google’s NotebookLM can sum up your research in a TikTok-style clip",
+      "summary": "Google's NotebookLM is adding a new way to catch up on your notes: TikTok-style AI videos. The new feature is rolling out to Google AI Ultra and Pro subscribers, allowing NotebookLM to generate 60-second vertical AI clips based on the sources you upload to the app.",
+      "source": "The Verge",
+      "published": "2026-06-30T19:24:51+00:00",
+      "link": "https://www.theverge.com/tech/959778/google-notebooklm-ai-clips"
+    },
+    {
+      "title": "Google introduces a faster, cheaper image generator with Nano Banana 2 Lite",
+      "summary": "Google is updating its image generator to make it faster and cheaper, making it a more useful tool for creators looking to make AI content.",
+      "source": "TechCrunch",
+      "published": "2026-06-30T19:02:38+00:00",
+      "link": "https://techcrunch.com/2026/06/30/google-introduces-a-faster-cheaper-image-generator-with-nano-banana-2-lite/"
+    },
     {
       "title": "Anthropic's new Claude Sonnet 5 closes the gap to the pricier Opus model series",
       "summary": "Anthropic released Claude Sonnet 5, which beats its predecessor Sonnet 4.6 across all benchmarks and even edges past the larger Opus 4.8 on the GDPval-AA v2 knowledge work test with a score of 1,618.",
@@ -353,7 +395,7 @@ const FEED_DATA = {
     },
     {
       "title": "Tidal AI Policy",
-      "summary": "Article URL: https://tidal.com/ai-policy Comments URL: https://news.ycombinator.com/item?id=48718840 Points: 302 # Comments: 343",
+      "summary": "Article URL: https://tidal.com/ai-policy Comments URL: https://news.ycombinator.com/item?id=48718840 Points: 303 # Comments: 342",
       "source": "Hacker News",
       "published": "2026-06-29T13:09:03+00:00",
       "link": "https://tidal.com/ai-policy"
@@ -402,7 +444,7 @@ const FEED_DATA = {
     },
     {
       "title": "Anthropic CEO: Open-Source AI is getting dangerous (2023)",
-      "summary": "Article URL: https://xcancel.com/coinbureau/status/2071330294452666695 Comments URL: https://news.ycombinator.com/item?id=48716750 Points: 55 # Comments: 24",
+      "summary": "Article URL: https://xcancel.com/coinbureau/status/2071330294452666695 Comments URL: https://news.ycombinator.com/item?id=48716750 Points: 56 # Comments: 25",
       "source": "Hacker News",
       "published": "2026-06-29T09:11:33+00:00",
       "link": "https://xcancel.com/coinbureau/status/2071330294452666695"
@@ -451,7 +493,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI boom risks global financial crash, warn central bankers",
-      "summary": "Article URL: https://www.telegraph.co.uk/business/2026/06/28/ai-boom-risks-global-financial-crash-central-bankers-warn/ Comments URL: https://news.ycombinator.com/item?id=48713697 Points: 157 # Comments: 211",
+      "summary": "Article URL: https://www.telegraph.co.uk/business/2026/06/28/ai-boom-risks-global-financial-crash-central-bankers-warn/ Comments URL: https://news.ycombinator.com/item?id=48713697 Points: 157 # Comments: 212",
       "source": "Hacker News",
       "published": "2026-06-29T01:25:04+00:00",
       "link": "https://www.telegraph.co.uk/business/2026/06/28/ai-boom-risks-global-financial-crash-central-bankers-warn/"
@@ -499,15 +541,15 @@ const FEED_DATA = {
       "link": "https://github.com/JustVugg/nanoeuler"
     },
     {
-      "title": "Ford rehires ‘gray beard’ engineers after AI falls short",
-      "summary": "\"Mistakenly we thought that by just introducing artificial intelligence ... that would produce a high-quality product.”",
-      "source": "TechCrunch",
-      "published": "2026-06-28T19:05:39+00:00",
+      "title": "Ford rehires 'gray beard' engineers after AI falls short",
+      "summary": "Article URL: https://techcrunch.com/2026/06/28/ford-rehires-gray-beard-engineers-after-ai-falls-short/ Comments URL: https://news.ycombinator.com/item?id=48710749 Points: 135 # Comments: 3",
+      "source": "Hacker News",
+      "published": "2026-06-28T19:35:57+00:00",
       "link": "https://techcrunch.com/2026/06/28/ford-rehires-gray-beard-engineers-after-ai-falls-short/"
     },
     {
       "title": "Professor denounces mass AI fraud on an exam at Brown",
-      "summary": "Article URL: https://english.elpais.com/education/2026-06-28/ai-fraud-at-brown-university-academic-integrity-is-at-risk.html Comments URL: https://news.ycombinator.com/item?id=48708991 Points: 545 # Comments: 715",
+      "summary": "Article URL: https://english.elpais.com/education/2026-06-28/ai-fraud-at-brown-university-academic-integrity-is-at-risk.html Comments URL: https://news.ycombinator.com/item?id=48708991 Points: 545 # Comments: 716",
       "source": "Hacker News",
       "published": "2026-06-28T16:41:12+00:00",
       "link": "https://english.elpais.com/education/2026-06-28/ai-fraud-at-brown-university-academic-integrity-is-at-risk.html"
@@ -591,7 +633,7 @@ const FEED_DATA = {
     },
     {
       "title": "The best response to AI slop and online noise is from Robin Williams",
-      "summary": "Article URL: https://jayacunzo.com/blog/your-move-chief Comments URL: https://news.ycombinator.com/item?id=48703452 Points: 400 # Comments: 221",
+      "summary": "Article URL: https://jayacunzo.com/blog/your-move-chief Comments URL: https://news.ycombinator.com/item?id=48703452 Points: 400 # Comments: 222",
       "source": "Hacker News",
       "published": "2026-06-28T01:28:10+00:00",
       "link": "https://jayacunzo.com/blog/your-move-chief"
@@ -661,7 +703,7 @@ const FEED_DATA = {
     },
     {
       "title": "Asian AI startups launch Mythos-like models",
-      "summary": "Article URL: https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/ Comments URL: https://news.ycombinator.com/item?id=48697958 Points: 281 # Comments: 198",
+      "summary": "Article URL: https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/ Comments URL: https://news.ycombinator.com/item?id=48697958 Points: 282 # Comments: 198",
       "source": "Hacker News",
       "published": "2026-06-27T13:10:21+00:00",
       "link": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/"
@@ -738,7 +780,7 @@ const FEED_DATA = {
     },
     {
       "title": "U.S. allows Anthropic to release Mythos AI to ‘trusted’ US organizations",
-      "summary": "https://archive.md/ArXuFhttps://www.nbcnews.com/tech/tech-news/us-government-gives-a... Comments URL: https://news.ycombinator.com/item?id=48692995 Points: 553 # Comments: 801",
+      "summary": "https://archive.md/ArXuFhttps://www.nbcnews.com/tech/tech-news/us-government-gives-a... Comments URL: https://news.ycombinator.com/item?id=48692995 Points: 553 # Comments: 800",
       "source": "Hacker News",
       "published": "2026-06-26T22:48:28+00:00",
       "link": "https://www.semafor.com/article/06/27/2026/us-releases-powerful-anthropic-model-mythos-to-some-us-companies"
@@ -1358,48 +1400,6 @@ const FEED_DATA = {
       "source": "Hacker News",
       "published": "2026-06-24T14:50:22+00:00",
       "link": "https://techstrong.ai/articles/for-most-of-the-world-open-source-ai-is-the-only-way-forward/"
-    },
-    {
-      "title": "RubyLLM: A Ruby framework for all major AI providers",
-      "summary": "Article URL: https://rubyllm.com/ Comments URL: https://news.ycombinator.com/item?id=48660711 Points: 445 # Comments: 82",
-      "source": "Hacker News",
-      "published": "2026-06-24T14:41:41+00:00",
-      "link": "https://rubyllm.com/"
-    },
-    {
-      "title": "OpenAI reveals its first AI processor: Jalapeño",
-      "summary": "OpenAI has just revealed a new \"intelligence processor\" chip for AI servers made in partnership with Broadcom. The chip, called Jalapeño, is designed to power current and future large language models, according to an announcement on Wednesday.",
-      "source": "The Verge",
-      "published": "2026-06-24T14:36:47+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/955939/openai-reveals-its-first-ai-processor-jalapeno"
-    },
-    {
-      "title": "OpenAI and Broadcom unveil \"Jalapeño,\" a custom chip built for LLM inference",
-      "summary": "OpenAI is adding custom hardware to its tech stack. The \"Jalapeño\" chip, developed with Broadcom, is tailored for large language model inference and is set to run at scale by late 2026.",
-      "source": "The Decoder",
-      "published": "2026-06-24T13:50:56+00:00",
-      "link": "https://the-decoder.com/openai-and-broadcom-unveil-jalapeno-a-custom-chip-built-for-llm-inference/"
-    },
-    {
-      "title": "OpenAI and Broadcom unveil LLM-optimized inference chip",
-      "summary": "Article URL: https://openai.com/index/openai-broadcom-jalapeno-inference-chip/ Comments URL: https://news.ycombinator.com/item?id=48659257 Points: 143 # Comments: 1",
-      "source": "Hacker News",
-      "published": "2026-06-24T13:14:39+00:00",
-      "link": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip/"
-    },
-    {
-      "title": "OpenAI's deployment chief on Codex growth, falling AI prices, and the ROI question",
-      "summary": "OpenAI deployment chief Arnaud Fournier explains in an interview how DeployCo wants to embed AI deep inside large corporations using its own engineers.",
-      "source": "The Decoder",
-      "published": "2026-06-24T13:00:14+00:00",
-      "link": "https://the-decoder.com/openais-deployment-chief-on-codex-growth-falling-ai-prices-and-the-roi-question/"
-    },
-    {
-      "title": "Qualcomm Buys Buzzy Chip Startup Modular for Nearly $4 Billion",
-      "summary": "Modular, one of the most promising chip software startups of the AI era, heads for a multibillion-dollar exit.",
-      "source": "Wired",
-      "published": "2026-06-24T12:36:07+00:00",
-      "link": "https://www.wired.com/story/qualcomm-buys-buzzy-chip-startup-modular-for-nearly-dollar4-billion/"
     }
   ]
 };
