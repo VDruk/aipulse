@@ -1,6 +1,41 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-07-01T15:44:29.021266+00:00",
+  "lastUpdated": "2026-07-01T18:56:28.003148+00:00",
   "items": [
+    {
+      "title": "SpaceX has an AI device prototype, and it sure sounds phone-ish",
+      "summary": "SpaceX reportedly showed investors a \"handset-like\" AI device before going public. It could be another signal SpaceX wants to expand into wireless.",
+      "source": "TechCrunch",
+      "published": "2026-07-01T18:54:18+00:00",
+      "link": "https://techcrunch.com/2026/07/01/spacex-has-an-ai-device-prototype-and-it-sure-sounds-phone-ish/"
+    },
+    {
+      "title": "You Can Now Sound the Alarm on AI Behaving Badly",
+      "summary": "Are you worried your AI chatbot is trying to build a bomb or leak personal information about you? There’s a website for that.",
+      "source": "Wired",
+      "published": "2026-07-01T18:10:00+00:00",
+      "link": "https://www.wired.com/story/flare-website-ai-flaw-reporting-safety/"
+    },
+    {
+      "title": "Cloudflare’s new policy pushes AI companies to pay for publishers’ content",
+      "summary": "Cloudflare is giving AI companies until September 15 to separate web crawlers used for search from those used for AI training and agents, or risk being blocked by default on many publisher sites.",
+      "source": "TechCrunch",
+      "published": "2026-07-01T17:48:37+00:00",
+      "link": "https://techcrunch.com/2026/07/01/cloudflares-new-policy-pushes-ai-companies-to-pay-for-publishers-content/"
+    },
+    {
+      "title": "Meta follows SpaceX's playbook and builds a cloud business to sell its spare AI compute to outside customers",
+      "summary": "Meta is building its own cloud business to sell spare AI compute to outside customers.",
+      "source": "The Decoder",
+      "published": "2026-07-01T16:00:43+00:00",
+      "link": "https://the-decoder.com/meta-follows-spacexs-playbook-and-builds-a-cloud-business-to-sell-its-spare-ai-compute-to-outside-customers/"
+    },
+    {
+      "title": "Anthropic Added a New Security Measure to Get Back Into the Trump Administration’s Good Graces",
+      "summary": "The government has removed restrictions on Anthropic’s Fable 5 and Mythos 5 AI models—but there were strings attached.",
+      "source": "Wired",
+      "published": "2026-07-01T16:00:00+00:00",
+      "link": "https://www.wired.com/story/anthropic-added-a-new-security-measure-to-get-back-into-the-trump-administrations-good-graces/"
+    },
     {
       "title": "Meta's non-invasive brain-to-text AI is closing the gap with surgical implants",
       "summary": "Meta's FAIR AI team uses Brain2Qwerty v2 to translate brain activity into typed sentences, with no implants or surgery required. The system reads magnetic signals outside the skull and reconstructs what a person is typing.",
@@ -1365,41 +1400,6 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-06-25T10:03:21+00:00",
       "link": "https://the-decoder.com/qualcomm-enters-the-data-center-market-with-its-own-processor/"
-    },
-    {
-      "title": "IBM has unveiled chip technology that could help extend Moore’s Law another decade",
-      "summary": "IBM has built a new prototype chip with around 100 billion transistors on an area the size of a fingernail, which is twice the density of the company’s previous state-of-the-art technology announced in 2021.",
-      "source": "MIT Tech Review",
-      "published": "2026-06-25T10:00:00+00:00",
-      "link": "https://www.technologyreview.com/2026/06/25/1139696/ibm-unveils-sub1nm-chip/"
-    },
-    {
-      "title": "British Police Built a Sprawling Crime-Prediction Machine. Some Results Couldn’t Be Trusted",
-      "summary": "As UK police embrace the AI revolution, a WIRED investigation reveals the messy inside story of one region’s experiment with predictive analytics.",
-      "source": "Wired",
-      "published": "2026-06-25T10:00:00+00:00",
-      "link": "https://www.wired.com/story/british-police-built-a-sprawling-crime-prediction-machine-some-results-couldnt-be-trusted/"
-    },
-    {
-      "title": "Facebook’s Creator Studio has been revived as an AI companion app",
-      "summary": "Meta is bringing back the Facebook Creator Studio page manager, now \"reimagined\" as a standalone AI companion app. The new app aims to make it easier for creators to connect with their audiences and show them \"exactly how to grow on Facebook,\" according to Meta's announcement.",
-      "source": "The Verge",
-      "published": "2026-06-25T09:06:19+00:00",
-      "link": "https://www.theverge.com/tech/956668/meta-facebook-creator-studio-ai-app-relaunch"
-    },
-    {
-      "title": "Google bakes computer control directly into Gemini 3.5 Flash, letting the model see and operate your screen",
-      "summary": "Google has integrated \"Computer Use\" directly into Gemini 3.5 Flash, letting the model operate computers, browsers, and mobile devices on its own. On the OSWorld benchmark, it scores 78.4, putting it on par with GPT-5.5.",
-      "source": "The Decoder",
-      "published": "2026-06-25T09:04:46+00:00",
-      "link": "https://the-decoder.com/google-bakes-computer-control-directly-into-gemini-3-5-flash-letting-the-model-see-and-operate-your-screen/"
-    },
-    {
-      "title": "The math behind the OpenAI Jalapeño chip",
-      "summary": "OpenAI’s financial trajectory hinges heavily on infrastructure costs, a reality that drove the development of the new custom OpenAI Jalapeño chip.",
-      "source": "AI News",
-      "published": "2026-06-25T06:00:00+00:00",
-      "link": "https://www.artificialintelligence-news.com/news/openai-jalapeno-chip-inference-economics/"
     }
   ]
 };
