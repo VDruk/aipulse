@@ -1,12 +1,61 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-07-01T08:50:17.724285+00:00",
+  "lastUpdated": "2026-07-01T11:47:38.808855+00:00",
   "items": [
+    {
+      "title": "Hidden code in Claude Code secretly flagged Chinese users",
+      "summary": "Anthropic is removing a hidden monitoring feature from its programming tool, Claude Code, after it sparked outrage on social media. The article Hidden code in Claude Code secretly flagged Chinese users appeared first on The Decoder.",
+      "source": "The Decoder",
+      "published": "2026-07-01T11:27:06+00:00",
+      "link": "https://the-decoder.com/hidden-code-in-claude-code-secretly-flagged-chinese-users/"
+    },
+    {
+      "title": "Claude Sonnet 5 continues Anthropic's pattern of hiding price increases behind unchanged token rates",
+      "summary": "Claude Sonnet 5 ranks fifth in the Artificial Analysis Intelligence Index with 53 points and even beats the pricier Opus 4.8 on some agent-based tasks.",
+      "source": "The Decoder",
+      "published": "2026-07-01T11:12:09+00:00",
+      "link": "https://the-decoder.com/claude-sonnet-5-continues-anthropics-pattern-of-hiding-price-increases-behind-unchanged-token-rates/"
+    },
+    {
+      "title": "Japan’s answer to its worker shortage: An AI model for 10 million robots",
+      "summary": "Japan’s AI robots plan just went from a talking point to a formal national strategy.",
+      "source": "AI News",
+      "published": "2026-07-01T11:00:00+00:00",
+      "link": "https://www.artificialintelligence-news.com/news/japan-ai-robots-2040-national-ai-model/"
+    },
+    {
+      "title": "OpenAI paper reveals three GPT-5.6 Pro models, breaking with single top-tier strategy",
+      "summary": "An OpenAI benchmark paper suggests that the Pro tier of GPT-5.6 could ship in three variants. That would be the first major change to ChatGPT Pro's structure since the plan launched.",
+      "source": "The Decoder",
+      "published": "2026-07-01T10:03:41+00:00",
+      "link": "https://the-decoder.com/openai-paper-reveals-three-gpt-5-6-pro-models-breaking-with-single-top-tier-strategy/"
+    },
+    {
+      "title": "Claude Helped a Hacker Find a Way to Issue Tickets to Almost Every US Music Festival",
+      "summary": "A researcher found that using Anthropic’s Claude Opus 4.7, he could break into the website of Front Gate—used by every festival from Lollapalooza to Bonnaroo—and freely issue any ticket he chose.",
+      "source": "Wired",
+      "published": "2026-07-01T10:00:00+00:00",
+      "link": "https://www.wired.com/story/claude-helped-a-hacker-find-a-way-to-issue-tickets-to-almost-every-us-music-festival/"
+    },
+    {
+      "title": "Bank of England reviews AI rules for agentic AI in finance",
+      "summary": "The Bank of England is reviewing whether existing rules can cover the use of agentic AI in finance, including payments, trading, cybersecurity, and operations.",
+      "source": "AI News",
+      "published": "2026-07-01T10:00:00+00:00",
+      "link": "https://www.artificialintelligence-news.com/news/bank-of-england-agentic-ai-finance-rules/"
+    },
     {
       "title": "Anthropic deploys Claude Sonnet 5, Fable and Mythos restored",
       "summary": "Anthropic has launched Claude Sonnet 5 and restored access to its Fable and Mythos frontier models following a federal export control review.",
       "source": "AI News",
       "published": "2026-07-01T08:47:12+00:00",
       "link": "https://www.artificialintelligence-news.com/news/anthropic-deploys-claude-sonnet-5-fable-and-mythos-restored/"
+    },
+    {
+      "title": "Godot will no longer accept AI-authored code contributions",
+      "summary": "Article URL: https://www.pcgamer.com/gaming-industry/open-source-game-engine-godot-will-no-longer-accept-ai-authored-code-contributions-we-cant-trust-heavy-users-of-ai-to-understand-their-code-enough-to-fix-it/ Comments URL: https://news.ycombinator.com/item?id=48743472 Points:...",
+      "source": "Hacker News",
+      "published": "2026-07-01T07:43:22+00:00",
+      "link": "https://www.pcgamer.com/gaming-industry/open-source-game-engine-godot-will-no-longer-accept-ai-authored-code-contributions-we-cant-trust-heavy-users-of-ai-to-understand-their-code-enough-to-fix-it/"
     },
     {
       "title": "Anthropic's Fable 5 is back worldwide after a two-week government ban over a jailbreak",
@@ -493,7 +542,7 @@ const FEED_DATA = {
     },
     {
       "title": "Anthropic CEO: Open-Source AI is getting dangerous (2023)",
-      "summary": "Article URL: https://xcancel.com/coinbureau/status/2071330294452666695 Comments URL: https://news.ycombinator.com/item?id=48716750 Points: 56 # Comments: 25",
+      "summary": "Article URL: https://xcancel.com/coinbureau/status/2071330294452666695 Comments URL: https://news.ycombinator.com/item?id=48716750 Points: 57 # Comments: 25",
       "source": "Hacker News",
       "published": "2026-06-29T09:11:33+00:00",
       "link": "https://xcancel.com/coinbureau/status/2071330294452666695"
@@ -598,7 +647,7 @@ const FEED_DATA = {
     },
     {
       "title": "Professor denounces mass AI fraud on an exam at Brown",
-      "summary": "Article URL: https://english.elpais.com/education/2026-06-28/ai-fraud-at-brown-university-academic-integrity-is-at-risk.html Comments URL: https://news.ycombinator.com/item?id=48708991 Points: 547 # Comments: 717",
+      "summary": "Article URL: https://english.elpais.com/education/2026-06-28/ai-fraud-at-brown-university-academic-integrity-is-at-risk.html Comments URL: https://news.ycombinator.com/item?id=48708991 Points: 547 # Comments: 719",
       "source": "Hacker News",
       "published": "2026-06-28T16:41:12+00:00",
       "link": "https://english.elpais.com/education/2026-06-28/ai-fraud-at-brown-university-academic-integrity-is-at-risk.html"
@@ -1351,55 +1400,6 @@ const FEED_DATA = {
       "source": "The Verge",
       "published": "2026-06-24T19:36:46+00:00",
       "link": "https://www.theverge.com/policy/956394/florida-anna-paulina-luna-anthropic-claude"
-    },
-    {
-      "title": "I Met With China’s Top AI Experts. They’re Freaking Out, Too",
-      "summary": "The AI arms race between China and the US has researchers on both sides worried about a “Chernobyl moment.”",
-      "source": "Wired",
-      "published": "2026-06-24T18:45:00+00:00",
-      "link": "https://www.wired.com/story/ai-arms-race-china-us-cooperation/"
-    },
-    {
-      "title": "The $27 million Al proxy war over Alex Bores ends in a draw",
-      "summary": "The expensive, $27 million political proxy war between Anthropic and OpenAI came to a draw last night when Alex Bores, a New York state Assemblyman whose popularity surged after being targeted by a pro-AI super PAC, narrowly lost the Democratic primary to represent New York's...",
-      "source": "The Verge",
-      "published": "2026-06-24T17:25:00+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/956263/alex-bores-new-york-12th-district-congressional-primary-results"
-    },
-    {
-      "title": "Facebook rolls out an AI companion app for creators",
-      "summary": "The new app, which is currently being tested with select creators, will have Facebook's recently launched AI creator assistant built into it.",
-      "source": "TechCrunch",
-      "published": "2026-06-24T17:16:24+00:00",
-      "link": "https://techcrunch.com/2026/06/24/facebook-rolls-out-an-ai-companion-app-for-creators/"
-    },
-    {
-      "title": "Snowflake CEO finds GLM-5.2 competitive with Opus 4.7 at a fraction of the cost",
-      "summary": "Zhipu AI's GLM-5.2 nearly matches Claude Opus 4.7 in a Snowflake benchmark with 103 coding tasks at one-fifth the cost per output token. But the Chinese model burns through nearly twice as many tokens per task.",
-      "source": "The Decoder",
-      "published": "2026-06-24T17:07:37+00:00",
-      "link": "https://the-decoder.com/snowflake-ceo-finds-glm-5-2-competitive-with-opus-4-7-at-a-fraction-of-the-cost/"
-    },
-    {
-      "title": "Figma bets on human judgment at Config 2026 while the AI powering its canvas belongs to someone else",
-      "summary": "At Config 2026, Figma turned its canvas into a full workspace with code, animation, shaders, and AI agents. But the intelligence powering all of it is rented from API providers, squeezing margins.",
-      "source": "The Decoder",
-      "published": "2026-06-24T16:49:01+00:00",
-      "link": "https://the-decoder.com/figma-bets-on-human-judgment-at-config-2026-while-the-ai-powering-its-canvas-belongs-to-someone-else/"
-    },
-    {
-      "title": "Agility Robotics plans to go public via SPAC in a $2.5B deal",
-      "summary": "Agility Robotics, the humanoid robotics startup that spun out of Oregon State University in 2015, expects to generate $620 million in proceeds.",
-      "source": "TechCrunch",
-      "published": "2026-06-24T16:48:43+00:00",
-      "link": "https://techcrunch.com/2026/06/24/agility-robotics-plans-to-go-public-via-spac-in-a-2-5b-deal/"
-    },
-    {
-      "title": "Big AI labs are hiring philosophers",
-      "summary": "https://archive.is/T1FJG Comments URL: https://news.ycombinator.com/item?id=48662452 Points: 154 # Comments: 140",
-      "source": "Hacker News",
-      "published": "2026-06-24T16:40:13+00:00",
-      "link": "https://www.economist.com/science-and-technology/2026/06/24/why-big-ai-labs-are-hiring-so-many-philosophers"
     }
   ]
 };
