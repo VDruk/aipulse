@@ -1,6 +1,55 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-07-01T11:47:38.808855+00:00",
+  "lastUpdated": "2026-07-01T15:44:29.021266+00:00",
   "items": [
+    {
+      "title": "Meta's non-invasive brain-to-text AI is closing the gap with surgical implants",
+      "summary": "Meta's FAIR AI team uses Brain2Qwerty v2 to translate brain activity into typed sentences, with no implants or surgery required. The system reads magnetic signals outside the skull and reconstructs what a person is typing.",
+      "source": "The Decoder",
+      "published": "2026-07-01T15:34:09+00:00",
+      "link": "https://the-decoder.com/metas-non-invasive-brain-to-text-ai-is-closing-the-gap-with-surgical-implants/"
+    },
+    {
+      "title": "LLMs are stuck in a groupthink groove. This startup is trying to get them out.",
+      "summary": "Let’s start with a game. Open up your chatbot of choice—Claude, ChatGPT, Gemini—and type “Give me a random number between 1 and 10.” You’re going to get 7.",
+      "source": "MIT Tech Review",
+      "published": "2026-07-01T14:35:16+00:00",
+      "link": "https://www.technologyreview.com/2026/07/01/1140003/llms-are-stuck-in-a-groupthink-rut-this-startup-is-trying-to-get-them-out/"
+    },
+    {
+      "title": "Venice AI becomes a unicorn with $65M Series A as its privacy-first AI platform takes off",
+      "summary": "Venice AI is already profitable, with annualized run-rate revenues of over $70 million, CEO Erik Voorhees said.",
+      "source": "TechCrunch",
+      "published": "2026-07-01T14:25:23+00:00",
+      "link": "https://techcrunch.com/2026/07/01/venice-ai-becomes-a-unicorn-with-65m-series-a-as-its-privacy-first-ai-platform-takes-off/"
+    },
+    {
+      "title": "Gemini Spark, Google’s agentic assistant, is now available on Mac",
+      "summary": "Google's 24/7 agentic assistant, Gemini Spark, comes to Mac alongside other improvements, like real-time tracking and support for more apps.",
+      "source": "TechCrunch",
+      "published": "2026-07-01T14:20:19+00:00",
+      "link": "https://techcrunch.com/2026/07/01/gemini-spark-googles-agentic-assistant-is-now-available-on-mac/"
+    },
+    {
+      "title": "Meta, like SpaceX, looks to turn excess AI compute into cash",
+      "summary": "Meta is developing plans for a cloud infrastructure business, selling access to AI compute power and models. The move would pit it against the big cloud providers like Amazon Web Services, Google Cloud, and Microsoft Azure.",
+      "source": "TechCrunch",
+      "published": "2026-07-01T13:43:07+00:00",
+      "link": "https://techcrunch.com/2026/07/01/meta-like-spacex-looks-to-turn-excess-ai-compute-into-cash/"
+    },
+    {
+      "title": "The Download: Anthropic launches Claude Science, and California’s carbon manure math",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.",
+      "source": "MIT Tech Review",
+      "published": "2026-07-01T12:10:00+00:00",
+      "link": "https://www.technologyreview.com/2026/07/01/1139996/the-download-anthropic-claude-science-california-carbon-manure/"
+    },
+    {
+      "title": "Google built a great smart speaker, but Gemini isn’t ready for it",
+      "summary": "Smart speakers have spent the past few years searching for a compelling second act. Beyond music, timers, and controlling your lights, they've struggled to justify taking up space on the kitchen counter.",
+      "source": "The Verge",
+      "published": "2026-07-01T12:00:00+00:00",
+      "link": "https://www.theverge.com/tech/959503/google-home-speaker-review-gemini-for-home"
+    },
     {
       "title": "Hidden code in Claude Code secretly flagged Chinese users",
       "summary": "Anthropic is removing a hidden monitoring feature from its programming tool, Claude Code, after it sparked outrage on social media. The article Hidden code in Claude Code secretly flagged Chinese users appeared first on The Decoder.",
@@ -21,6 +70,13 @@ const FEED_DATA = {
       "source": "AI News",
       "published": "2026-07-01T11:00:00+00:00",
       "link": "https://www.artificialintelligence-news.com/news/japan-ai-robots-2040-national-ai-model/"
+    },
+    {
+      "title": "OpenAI's genomics paper accidentally reveals a Pro lineup it hasn't announced yet",
+      "summary": "An OpenAI benchmark paper suggests that the Pro tier of GPT-5.6 could ship in three variants. That would be the first major change to ChatGPT Pro's structure since the plan launched.",
+      "source": "The Decoder",
+      "published": "2026-07-01T10:03:41+00:00",
+      "link": "https://the-decoder.com/openai-paper-reveals-three-gpt-5-6-pro-models-breaking-with-single-top-tier-strategy/"
     },
     {
       "title": "OpenAI paper reveals three GPT-5.6 Pro models, breaking with single top-tier strategy",
@@ -63,6 +119,13 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-07-01T07:40:29+00:00",
       "link": "https://the-decoder.com/anthropics-fable-5-is-back-worldwide-after-a-two-week-government-ban-over-a-jailbreak/"
+    },
+    {
+      "title": "How employment changes when firms adopt generative AI",
+      "summary": "Article URL: https://ramp.com/data/ai-jobs-impact Comments URL: https://news.ycombinator.com/item?id=48742176 Points: 50 # Comments: 42",
+      "source": "Hacker News",
+      "published": "2026-07-01T04:14:11+00:00",
+      "link": "https://ramp.com/data/ai-jobs-impact"
     },
     {
       "title": "Trump drops restrictions on Anthropic’s Mythos and Fable models",
@@ -210,6 +273,13 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-06-30T17:00:00+00:00",
       "link": "https://techcrunch.com/2026/06/30/anthropics-claude-science-bets-on-workflow-not-a-new-model-to-win-over-scientists/"
+    },
+    {
+      "title": "Scammers Sell Seeds for Exotic AI-Generated Flowers That Don't Exist",
+      "summary": "Article URL: https://www.404media.co/scammers-sell-seeds-for-exotic-ai-generated-flowers-that-dont-exist/ Comments URL: https://news.ycombinator.com/item?id=48734389 Points: 50 # Comments: 34",
+      "source": "Hacker News",
+      "published": "2026-06-30T15:45:32+00:00",
+      "link": "https://www.404media.co/scammers-sell-seeds-for-exotic-ai-generated-flowers-that-dont-exist/"
     },
     {
       "title": "Libby will filter out AI content, kind of",
@@ -472,7 +542,7 @@ const FEED_DATA = {
     },
     {
       "title": "Working With AI: A concrete example",
-      "summary": "Article URL: https://htmx.org/essays/working-with-ai/ Comments URL: https://news.ycombinator.com/item?id=48720064 Points: 190 # Comments: 67",
+      "summary": "Article URL: https://htmx.org/essays/working-with-ai/ Comments URL: https://news.ycombinator.com/item?id=48720064 Points: 191 # Comments: 70",
       "source": "Hacker News",
       "published": "2026-06-29T14:53:41+00:00",
       "link": "https://htmx.org/essays/working-with-ai/"
@@ -493,7 +563,7 @@ const FEED_DATA = {
     },
     {
       "title": "Tidal AI Policy",
-      "summary": "Article URL: https://tidal.com/ai-policy Comments URL: https://news.ycombinator.com/item?id=48718840 Points: 307 # Comments: 343",
+      "summary": "Article URL: https://tidal.com/ai-policy Comments URL: https://news.ycombinator.com/item?id=48718840 Points: 308 # Comments: 345",
       "source": "Hacker News",
       "published": "2026-06-29T13:09:03+00:00",
       "link": "https://tidal.com/ai-policy"
@@ -542,7 +612,7 @@ const FEED_DATA = {
     },
     {
       "title": "Anthropic CEO: Open-Source AI is getting dangerous (2023)",
-      "summary": "Article URL: https://xcancel.com/coinbureau/status/2071330294452666695 Comments URL: https://news.ycombinator.com/item?id=48716750 Points: 57 # Comments: 25",
+      "summary": "Article URL: https://xcancel.com/coinbureau/status/2071330294452666695 Comments URL: https://news.ycombinator.com/item?id=48716750 Points: 58 # Comments: 25",
       "source": "Hacker News",
       "published": "2026-06-29T09:11:33+00:00",
       "link": "https://xcancel.com/coinbureau/status/2071330294452666695"
@@ -675,7 +745,7 @@ const FEED_DATA = {
     },
     {
       "title": "Google limits Meta's use of its Gemini AI models",
-      "summary": "Article URL: https://www.cnbc.com/2026/06/28/google-limits-metas-use-of-its-gemini-ai-models-ft-reports.html Comments URL: https://news.ycombinator.com/item?id=48707103 Points: 161 # Comments: 72",
+      "summary": "Article URL: https://www.cnbc.com/2026/06/28/google-limits-metas-use-of-its-gemini-ai-models-ft-reports.html Comments URL: https://news.ycombinator.com/item?id=48707103 Points: 161 # Comments: 71",
       "source": "Hacker News",
       "published": "2026-06-28T13:30:06+00:00",
       "link": "https://www.cnbc.com/2026/06/28/google-limits-metas-use-of-its-gemini-ai-models-ft-reports.html"
@@ -1330,76 +1400,6 @@ const FEED_DATA = {
       "source": "AI News",
       "published": "2026-06-25T06:00:00+00:00",
       "link": "https://www.artificialintelligence-news.com/news/openai-jalapeno-chip-inference-economics/"
-    },
-    {
-      "title": "Former Infosys chief has a new startup that wants to challenge the IT services world",
-      "summary": "Backed by Mayfield and Aramco Ventures, Vishal Sikka’s new venture brings together veterans from SAP, Infosys, and VianAI.",
-      "source": "TechCrunch",
-      "published": "2026-06-24T23:26:52+00:00",
-      "link": "https://techcrunch.com/2026/06/24/former-infosys-chief-has-a-new-startup-that-wants-to-challenge-the-it-services-world/"
-    },
-    {
-      "title": "Cerebras stock plunges after earnings as CEO says margin outlook was misunderstood",
-      "summary": "In its first earnings report since going public, the AI chipmaker forecast a narrower gross margin in its core business, scaring investors.",
-      "source": "TechCrunch",
-      "published": "2026-06-24T22:41:41+00:00",
-      "link": "https://techcrunch.com/2026/06/24/cerebras-stock-plunges-after-earnings-as-ceo-says-margin-outlook-was-misunderstood/"
-    },
-    {
-      "title": "How to Opt Out of Google Search’s New AI Data Training Feature",
-      "summary": "Google’s Search history update stores media uploads from your interactions, like images used in reverse image searches, for training its AI models.",
-      "source": "Wired",
-      "published": "2026-06-24T22:36:16+00:00",
-      "link": "https://www.wired.com/story/how-to-opt-out-of-google-search-new-ai-data-training/"
-    },
-    {
-      "title": "AI was supposed to kill engineering jobs, but new data suggests they’re the most resilient",
-      "summary": "While AI dominates the layoff narrative, engineers are actually making up a larger share of new hires, according to SignalFire data.",
-      "source": "TechCrunch",
-      "published": "2026-06-24T21:56:41+00:00",
-      "link": "https://techcrunch.com/2026/06/24/ai-was-supposed-to-kill-engineering-jobs-but-new-data-suggests-theyre-the-most-resilient/"
-    },
-    {
-      "title": "AI researchers continue to leave Google for its rivals",
-      "summary": "Top AI researchers Jonas Adler and Alexander Pritzel are leaving Google for Anthropic, following departures from top scientists Noam Shazeer and John Jumper.",
-      "source": "TechCrunch",
-      "published": "2026-06-24T21:42:07+00:00",
-      "link": "https://techcrunch.com/2026/06/24/ai-researchers-continue-to-leave-google-for-its-rivals/"
-    },
-    {
-      "title": "A24 Knows You’re Mad About the Google AI Collab",
-      "summary": "Indie movie fans are upset about Google DeepMind’s $75 million investment in the studio, which comes as AI companies are deepening their influence in Hollywood.",
-      "source": "Wired",
-      "published": "2026-06-24T21:05:51+00:00",
-      "link": "https://www.wired.com/story/a24-knows-youre-mad-about-the-google-ai-collab/"
-    },
-    {
-      "title": "Companies are scrambling to stop employees from maxing out AI budgets with small tasks",
-      "summary": "The tokenmaxxing era was brief. We now appear to be entering the era of token rationing.",
-      "source": "TechCrunch",
-      "published": "2026-06-24T20:09:45+00:00",
-      "link": "https://techcrunch.com/2026/06/24/companies-are-scrambling-to-stop-employees-from-maxing-out-ai-budgets-with-small-tasks/"
-    },
-    {
-      "title": "OpenAI says ChatGPT Instant now better understands what users actually want",
-      "summary": "OpenAI is updating GPT-5.5 Instant, its most-used ChatGPT model. The update targets conversation quality, with better intent recognition, improved context across multiple turns, and more reliable handling of complex, multi-condition prompts.",
-      "source": "The Decoder",
-      "published": "2026-06-24T19:54:23+00:00",
-      "link": "https://the-decoder.com/openai-says-chatgpt-instant-now-better-understands-what-users-actually-want/"
-    },
-    {
-      "title": "Anthropic says Alibaba illicitly extracted Claude AI model capabilities",
-      "summary": "Article URL: https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/ Comments URL: https://news.ycombinator.com/item?id=48664814 Points: 801 # Comments: 1298",
-      "source": "Hacker News",
-      "published": "2026-06-24T19:48:01+00:00",
-      "link": "https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/"
-    },
-    {
-      "title": "Congresswoman denies staff used AI to write defense funding amendment",
-      "summary": "Rep.",
-      "source": "The Verge",
-      "published": "2026-06-24T19:36:46+00:00",
-      "link": "https://www.theverge.com/policy/956394/florida-anna-paulina-luna-anthropic-claude"
     }
   ]
 };
