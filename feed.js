@@ -1,9 +1,23 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-07-01T05:20:27.985832+00:00",
+  "lastUpdated": "2026-07-01T08:50:17.724285+00:00",
   "items": [
     {
+      "title": "Anthropic deploys Claude Sonnet 5, Fable and Mythos restored",
+      "summary": "Anthropic has launched Claude Sonnet 5 and restored access to its Fable and Mythos frontier models following a federal export control review.",
+      "source": "AI News",
+      "published": "2026-07-01T08:47:12+00:00",
+      "link": "https://www.artificialintelligence-news.com/news/anthropic-deploys-claude-sonnet-5-fable-and-mythos-restored/"
+    },
+    {
+      "title": "Anthropic's Fable 5 is back worldwide after a two-week government ban over a jailbreak",
+      "summary": "After a two-week ban, the US government is letting Anthropic ship Fable 5 globally again. Amazon researchers had found a jailbreak, but Anthropic says even much smaller models like Claude Haiku 4.5 could pull off the same exploit.",
+      "source": "The Decoder",
+      "published": "2026-07-01T07:40:29+00:00",
+      "link": "https://the-decoder.com/anthropics-fable-5-is-back-worldwide-after-a-two-week-government-ban-over-a-jailbreak/"
+    },
+    {
       "title": "Trump drops restrictions on Anthropic’s Mythos and Fable models",
-      "summary": "Anthropic said it would begin restoring access to the Fable on July 1.",
+      "summary": "The Trump administration's erratic approach to AI policymaking has left companies across the industry with little clarity about what will govern future model releases.",
       "source": "TechCrunch",
       "published": "2026-07-01T02:16:06+00:00",
       "link": "https://techcrunch.com/2026/06/30/trump-drops-restrictions-on-anthropics-mythos-and-fable-models/"
@@ -70,6 +84,13 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-06-30T19:02:38+00:00",
       "link": "https://techcrunch.com/2026/06/30/google-introduces-a-faster-cheaper-image-generator-with-nano-banana-2-lite/"
+    },
+    {
+      "title": "Anthropic's new Claude Sonnet 5 closes the gap to Opus model series",
+      "summary": "Anthropic released Claude Sonnet 5, which beats its predecessor Sonnet 4.6 across all benchmarks and even edges past the larger Opus 4.8 on the GDPval-AA v2 knowledge work test with a score of 1,618.",
+      "source": "The Decoder",
+      "published": "2026-06-30T18:46:10+00:00",
+      "link": "https://the-decoder.com/anthropics-new-claude-sonnet-5-closes-the-gap-to-the-pricier-opus-model-series/"
     },
     {
       "title": "Anthropic's new Claude Sonnet 5 closes the gap to the pricier Opus model series",
@@ -402,7 +423,7 @@ const FEED_DATA = {
     },
     {
       "title": "Working With AI: A concrete example",
-      "summary": "Article URL: https://htmx.org/essays/working-with-ai/ Comments URL: https://news.ycombinator.com/item?id=48720064 Points: 189 # Comments: 66",
+      "summary": "Article URL: https://htmx.org/essays/working-with-ai/ Comments URL: https://news.ycombinator.com/item?id=48720064 Points: 190 # Comments: 67",
       "source": "Hacker News",
       "published": "2026-06-29T14:53:41+00:00",
       "link": "https://htmx.org/essays/working-with-ai/"
@@ -423,7 +444,7 @@ const FEED_DATA = {
     },
     {
       "title": "Tidal AI Policy",
-      "summary": "Article URL: https://tidal.com/ai-policy Comments URL: https://news.ycombinator.com/item?id=48718840 Points: 305 # Comments: 342",
+      "summary": "Article URL: https://tidal.com/ai-policy Comments URL: https://news.ycombinator.com/item?id=48718840 Points: 307 # Comments: 343",
       "source": "Hacker News",
       "published": "2026-06-29T13:09:03+00:00",
       "link": "https://tidal.com/ai-policy"
@@ -521,7 +542,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI boom risks global financial crash, warn central bankers",
-      "summary": "Article URL: https://www.telegraph.co.uk/business/2026/06/28/ai-boom-risks-global-financial-crash-central-bankers-warn/ Comments URL: https://news.ycombinator.com/item?id=48713697 Points: 157 # Comments: 213",
+      "summary": "Article URL: https://www.telegraph.co.uk/business/2026/06/28/ai-boom-risks-global-financial-crash-central-bankers-warn/ Comments URL: https://news.ycombinator.com/item?id=48713697 Points: 157 # Comments: 214",
       "source": "Hacker News",
       "published": "2026-06-29T01:25:04+00:00",
       "link": "https://www.telegraph.co.uk/business/2026/06/28/ai-boom-risks-global-financial-crash-central-bankers-warn/"
@@ -647,7 +668,7 @@ const FEED_DATA = {
     },
     {
       "title": "Wayfinder Router: deterministic routing of queries between local and hosted LLM",
-      "summary": "Article URL: https://github.com/itsthelore/wayfinder-router Comments URL: https://news.ycombinator.com/item?id=48704373 Points: 121 # Comments: 55",
+      "summary": "Article URL: https://github.com/itsthelore/wayfinder-router Comments URL: https://news.ycombinator.com/item?id=48704373 Points: 122 # Comments: 55",
       "source": "Hacker News",
       "published": "2026-06-28T04:31:18+00:00",
       "link": "https://github.com/itsthelore/wayfinder-router"
@@ -661,7 +682,7 @@ const FEED_DATA = {
     },
     {
       "title": "The best response to AI slop and online noise is from Robin Williams",
-      "summary": "Article URL: https://jayacunzo.com/blog/your-move-chief Comments URL: https://news.ycombinator.com/item?id=48703452 Points: 400 # Comments: 222",
+      "summary": "Article URL: https://jayacunzo.com/blog/your-move-chief Comments URL: https://news.ycombinator.com/item?id=48703452 Points: 400 # Comments: 223",
       "source": "Hacker News",
       "published": "2026-06-28T01:28:10+00:00",
       "link": "https://jayacunzo.com/blog/your-move-chief"
@@ -1379,27 +1400,6 @@ const FEED_DATA = {
       "source": "Hacker News",
       "published": "2026-06-24T16:40:13+00:00",
       "link": "https://www.economist.com/science-and-technology/2026/06/24/why-big-ai-labs-are-hiring-so-many-philosophers"
-    },
-    {
-      "title": "Figma now has AI motion graphics and shader tools",
-      "summary": "Figma has revealed some new design and coding product updates at its annual Config conference that aim to help creatives \"push their ideas further\" and automate tedious tasks with AI.",
-      "source": "The Verge",
-      "published": "2026-06-24T16:15:00+00:00",
-      "link": "https://www.theverge.com/tech/955831/figma-code-design-tools-config-2026-announcements"
-    },
-    {
-      "title": "Figma adds code layers, support for animations, more AI features in new update",
-      "summary": "Figma's update adds a new code layer, support for motion and shaders, and the ability to create custom plug-ins for various tasks using AI.",
-      "source": "TechCrunch",
-      "published": "2026-06-24T16:15:00+00:00",
-      "link": "https://techcrunch.com/2026/06/24/figma-adds-code-layers-support-for-animations-more-ai-features-in-new-update/"
-    },
-    {
-      "title": "Europe’s extreme heat is shutting down power plants",
-      "summary": "Europe is in the middle of a record-breaking heat wave, and the grid is being pushed to its limits as people turn to fans and air-conditioning to try to stay cool. Some power plants won’t be online to help handle the load.",
-      "source": "MIT Tech Review",
-      "published": "2026-06-24T15:25:28+00:00",
-      "link": "https://www.technologyreview.com/2026/06/24/1139676/europe-heat-power-plants/"
     }
   ]
 };
