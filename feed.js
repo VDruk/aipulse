@@ -1,12 +1,26 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-07-01T18:56:28.003148+00:00",
+  "lastUpdated": "2026-07-01T22:13:35.862420+00:00",
   "items": [
+    {
+      "title": "SpaceX shows investors a slim AI smartphone prototype powered by xAI technology",
+      "summary": "SpaceX showed investors a prototype AI smartphone that's supposedly thinner than an iPhone and integrates xAI tech. The device runs on a Qualcomm Snapdragon chip with its own operating system.",
+      "source": "The Decoder",
+      "published": "2026-07-01T19:47:31+00:00",
+      "link": "https://the-decoder.com/spacex-shows-investors-a-slim-ai-smartphone-prototype-powered-by-xai-technology/"
+    },
     {
       "title": "SpaceX has an AI device prototype, and it sure sounds phone-ish",
       "summary": "SpaceX reportedly showed investors a \"handset-like\" AI device before going public. It could be another signal SpaceX wants to expand into wireless.",
       "source": "TechCrunch",
       "published": "2026-07-01T18:54:18+00:00",
       "link": "https://techcrunch.com/2026/07/01/spacex-has-an-ai-device-prototype-and-it-sure-sounds-phone-ish/"
+    },
+    {
+      "title": "Ashton Kutcher leaving Sound Ventures to launch new VC firm with Morgan Beller",
+      "summary": "Sound built its reputation on concentrated, high-conviction bets in category-leading AI labs, while Kutcher's new fund appears to be chasing the layer underneath those companies — the infrastructure and energy that power them.",
+      "source": "TechCrunch",
+      "published": "2026-07-01T18:47:22+00:00",
+      "link": "https://techcrunch.com/2026/07/01/ashton-kutcher-leaving-sound-ventures-to-launch-new-vc-firm-with-morgan-beller/"
     },
     {
       "title": "You Can Now Sound the Alarm on AI Behaving Badly",
@@ -35,6 +49,13 @@ const FEED_DATA = {
       "source": "Wired",
       "published": "2026-07-01T16:00:00+00:00",
       "link": "https://www.wired.com/story/anthropic-added-a-new-security-measure-to-get-back-into-the-trump-administrations-good-graces/"
+    },
+    {
+      "title": "Deploying retail AI to scale personalisation and customer insight",
+      "summary": "Optimising retail AI infrastructure drives the successful deployment of personalisation systems and real-time customer insight. Leaders are replacing static customer interaction patterns with data pipelines capable of modifying the user environment during a live session.",
+      "source": "AI News",
+      "published": "2026-07-01T15:58:43+00:00",
+      "link": "https://www.artificialintelligence-news.com/news/deploying-retail-ai-to-scale-personalisation-customer-insight/"
     },
     {
       "title": "Meta's non-invasive brain-to-text AI is closing the gap with surgical implants",
@@ -157,7 +178,7 @@ const FEED_DATA = {
     },
     {
       "title": "How employment changes when firms adopt generative AI",
-      "summary": "Article URL: https://ramp.com/data/ai-jobs-impact Comments URL: https://news.ycombinator.com/item?id=48742176 Points: 50 # Comments: 42",
+      "summary": "Article URL: https://ramp.com/data/ai-jobs-impact Comments URL: https://news.ycombinator.com/item?id=48742176 Points: 52 # Comments: 42",
       "source": "Hacker News",
       "published": "2026-07-01T04:14:11+00:00",
       "link": "https://ramp.com/data/ai-jobs-impact"
@@ -577,7 +598,7 @@ const FEED_DATA = {
     },
     {
       "title": "Working With AI: A concrete example",
-      "summary": "Article URL: https://htmx.org/essays/working-with-ai/ Comments URL: https://news.ycombinator.com/item?id=48720064 Points: 191 # Comments: 70",
+      "summary": "Article URL: https://htmx.org/essays/working-with-ai/ Comments URL: https://news.ycombinator.com/item?id=48720064 Points: 191 # Comments: 72",
       "source": "Hacker News",
       "published": "2026-06-29T14:53:41+00:00",
       "link": "https://htmx.org/essays/working-with-ai/"
@@ -696,14 +717,14 @@ const FEED_DATA = {
     },
     {
       "title": "AI boom risks global financial crash, warn central bankers",
-      "summary": "Article URL: https://www.telegraph.co.uk/business/2026/06/28/ai-boom-risks-global-financial-crash-central-bankers-warn/ Comments URL: https://news.ycombinator.com/item?id=48713697 Points: 157 # Comments: 214",
+      "summary": "Article URL: https://www.telegraph.co.uk/business/2026/06/28/ai-boom-risks-global-financial-crash-central-bankers-warn/ Comments URL: https://news.ycombinator.com/item?id=48713697 Points: 158 # Comments: 214",
       "source": "Hacker News",
       "published": "2026-06-29T01:25:04+00:00",
       "link": "https://www.telegraph.co.uk/business/2026/06/28/ai-boom-risks-global-financial-crash-central-bankers-warn/"
     },
     {
       "title": "Better Images of AI",
-      "summary": "Article URL: https://betterimagesofai.org/ Comments URL: https://news.ycombinator.com/item?id=48713051 Points: 55 # Comments: 30",
+      "summary": "Article URL: https://betterimagesofai.org/ Comments URL: https://news.ycombinator.com/item?id=48713051 Points: 55 # Comments: 29",
       "source": "Hacker News",
       "published": "2026-06-28T23:50:58+00:00",
       "link": "https://betterimagesofai.org/"
@@ -752,7 +773,7 @@ const FEED_DATA = {
     },
     {
       "title": "Professor denounces mass AI fraud on an exam at Brown",
-      "summary": "Article URL: https://english.elpais.com/education/2026-06-28/ai-fraud-at-brown-university-academic-integrity-is-at-risk.html Comments URL: https://news.ycombinator.com/item?id=48708991 Points: 547 # Comments: 719",
+      "summary": "Article URL: https://english.elpais.com/education/2026-06-28/ai-fraud-at-brown-university-academic-integrity-is-at-risk.html Comments URL: https://news.ycombinator.com/item?id=48708991 Points: 547 # Comments: 721",
       "source": "Hacker News",
       "published": "2026-06-28T16:41:12+00:00",
       "link": "https://english.elpais.com/education/2026-06-28/ai-fraud-at-brown-university-academic-integrity-is-at-risk.html"
@@ -836,7 +857,7 @@ const FEED_DATA = {
     },
     {
       "title": "The best response to AI slop and online noise is from Robin Williams",
-      "summary": "Article URL: https://jayacunzo.com/blog/your-move-chief Comments URL: https://news.ycombinator.com/item?id=48703452 Points: 400 # Comments: 223",
+      "summary": "Article URL: https://jayacunzo.com/blog/your-move-chief Comments URL: https://news.ycombinator.com/item?id=48703452 Points: 400 # Comments: 224",
       "source": "Hacker News",
       "published": "2026-06-28T01:28:10+00:00",
       "link": "https://jayacunzo.com/blog/your-move-chief"
@@ -1379,27 +1400,6 @@ const FEED_DATA = {
       "source": "Wired",
       "published": "2026-06-25T11:00:00+00:00",
       "link": "https://www.wired.com/story/fifa-world-cup-2026-artificial-intelligence-tools/"
-    },
-    {
-      "title": "Meta employees warn AI moderation rollout is too fast",
-      "summary": "By 2025, Meta will have already replaced about half of all human moderation requests with large language models and aims to increase that percentage to over 90 percent for certain types of content by the end of the year.",
-      "source": "The Decoder",
-      "published": "2026-06-25T10:07:19+00:00",
-      "link": "https://the-decoder.com/meta-employees-warn-ai-moderation-rollout-is-too-fast/"
-    },
-    {
-      "title": "Google keeps losing top AI researchers to rivals",
-      "summary": "Google appears to be hemorrhaging key AI researchers to competitors. The article Google keeps losing top AI researchers to rivals appeared first on The Decoder.",
-      "source": "The Decoder",
-      "published": "2026-06-25T10:04:32+00:00",
-      "link": "https://the-decoder.com/google-keeps-losing-top-ai-researchers-to-rivals/"
-    },
-    {
-      "title": "Qualcomm enters the data center market with its own processor",
-      "summary": "Qualcomm is pushing further into the data center market with a new processor called the Dragonfly C1000. The article Qualcomm enters the data center market with its own processor appeared first on The Decoder.",
-      "source": "The Decoder",
-      "published": "2026-06-25T10:03:21+00:00",
-      "link": "https://the-decoder.com/qualcomm-enters-the-data-center-market-with-its-own-processor/"
     }
   ]
 };
