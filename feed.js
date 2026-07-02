@@ -1,6 +1,76 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-07-02T11:24:21.450758+00:00",
+  "lastUpdated": "2026-07-02T15:17:53.805153+00:00",
   "items": [
+    {
+      "title": "NVIDIA BioNeMo accelerates Anthropic Claude Science",
+      "summary": "Anthropic Claude Science now integrates the NVIDIA BioNeMo Agent Toolkit to accelerate computational life sciences research. Anthropic has launched the public beta of Claude Science, an AI workbench built for scientific research.",
+      "source": "AI News",
+      "published": "2026-07-02T14:38:01+00:00",
+      "link": "https://www.artificialintelligence-news.com/news/nvidia-bionemo-accelerates-anthropic-claude-science/"
+    },
+    {
+      "title": "Microsoft launches its own AI deployment company with $2.5 billion commitment",
+      "summary": "Microsoft follows Amazon, OpenAI, and Anthropic with its new AI deployment group.",
+      "source": "TechCrunch",
+      "published": "2026-07-02T13:53:00+00:00",
+      "link": "https://techcrunch.com/2026/07/02/microsoft-launches-its-own-ai-deployment-company-with-2-5-billion-commitment/"
+    },
+    {
+      "title": "AI Can't Be Listed as Inventor on Patent Applications, Japan's Top Court Rules",
+      "summary": "Article URL: https://japannews.yomiuri.co.jp/science-nature/technology/20260306-314930/ Comments URL: https://news.ycombinator.com/item?id=48761536 Points: 77 # Comments: 28",
+      "source": "Hacker News",
+      "published": "2026-07-02T13:43:41+00:00",
+      "link": "https://japannews.yomiuri.co.jp/science-nature/technology/20260306-314930/"
+    },
+    {
+      "title": "Nvidia is bankrolling AI startups to loosen Big Tech's grip on its chip business",
+      "summary": "Nvidia is increasingly acting like a central bank for AI startups, actively shaping the compute market. The article Nvidia is bankrolling AI startups to loosen Big Tech's grip on its chip business appeared first on The Decoder.",
+      "source": "The Decoder",
+      "published": "2026-07-02T13:00:05+00:00",
+      "link": "https://the-decoder.com/nvidia-is-bankrolling-ai-startups-to-loosen-big-techs-grip-on-its-chip-business/"
+    },
+    {
+      "title": "Teaching AI to run with the turbines",
+      "summary": "Artificial intelligence may have captured the public imagination through chatbots and image generators, but some of its most consequential use cases are unfolding far from consumer-facing tools.",
+      "source": "MIT Tech Review",
+      "published": "2026-07-02T12:51:44+00:00",
+      "link": "https://www.technologyreview.com/2026/07/02/1138433/teaching-ai-to-run-with-the-turbines/"
+    },
+    {
+      "title": "AI fake news complaining about how AI fake news is the death of real news",
+      "summary": "Article URL: https://www.niemanlab.org/2026/07/now-were-getting-ai-fake-news-complaining-about-how-ai-fake-news-is-the-death-of-real-news/ Comments URL: https://news.ycombinator.com/item?id=48760598 Points: 121 # Comments: 36",
+      "source": "Hacker News",
+      "published": "2026-07-02T12:40:36+00:00",
+      "link": "https://www.niemanlab.org/2026/07/now-were-getting-ai-fake-news-complaining-about-how-ai-fake-news-is-the-death-of-real-news/"
+    },
+    {
+      "title": "AI agents can now complete 16 percent of freelance jobs at pro quality, up from 2.5 percent eight months ago",
+      "summary": "The Remote Labor Index measures how often AI agents complete paid freelance projects at professional quality. In eight months, the top automation rate has more than quadrupled.",
+      "source": "The Decoder",
+      "published": "2026-07-02T12:37:49+00:00",
+      "link": "https://the-decoder.com/ai-agents-can-now-complete-16-percent-of-freelance-jobs-at-pro-quality-up-from-2-5-percent-eight-months-ago/"
+    },
+    {
+      "title": "Google brings TikTok-style video shorts to NotebookLM",
+      "summary": "Google has expanded NotebookLM to include video overviews in the short format commonly used on social media. The article Google brings TikTok-style video shorts to NotebookLM appeared first on The Decoder.",
+      "source": "The Decoder",
+      "published": "2026-07-02T12:17:15+00:00",
+      "link": "https://the-decoder.com/google-brings-tiktok-style-video-shorts-to-notebooklm/"
+    },
+    {
+      "title": "The Download: a startup has a solution for AI’s groupthink problem",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. LLMs are stuck in a groupthink groove.",
+      "source": "MIT Tech Review",
+      "published": "2026-07-02T12:10:00+00:00",
+      "link": "https://www.technologyreview.com/2026/07/02/1140027/the-download-ai-groupthink-llms/"
+    },
+    {
+      "title": "Yep, we’re using OpenClaw to date now",
+      "summary": "Ben Guez has \"a bunch of potential international wives in [his] DMs,\" thanks to an automated script he set up using OpenClaw, Claude code, and Instagram trials.",
+      "source": "TechCrunch",
+      "published": "2026-07-02T12:00:00+00:00",
+      "link": "https://techcrunch.com/2026/07/02/yep-were-using-openclaw-to-date-now/"
+    },
     {
       "title": "OpenAI reportedly offers the Trump administration a five percent stake in the company",
       "summary": "OpenAI is reportedly offering the Trump administration a five percent stake in the company. What the government would give in return, if anything, is still unclear.",
@@ -17,21 +87,21 @@ const FEED_DATA = {
     },
     {
       "title": "The gauge broke: devs felt 20% faster with AI, measured 19% slower",
-      "summary": "Article URL: https://intrepidkarthi.com/writing/the-gauge-broke/ Comments URL: https://news.ycombinator.com/item?id=48757440 Points: 68 # Comments: 91",
+      "summary": "Article URL: https://intrepidkarthi.com/writing/the-gauge-broke/ Comments URL: https://news.ycombinator.com/item?id=48757440 Points: 74 # Comments: 92",
       "source": "Hacker News",
       "published": "2026-07-02T06:44:34+00:00",
       "link": "https://intrepidkarthi.com/writing/the-gauge-broke/"
     },
     {
       "title": "Indian tech tycoon bets $30M of his own money to build AI alternative to Microsoft Office",
-      "summary": "Neo is Bhavin Turakhia’s fifth venture and his latest involving enterprise software. This time he's taking on Microsoft Office, Google Apps with AI.",
+      "summary": "Neo is Bhavin Turakhia’s fifth venture and his latest involving enterprise software. This time he's taking on Microsoft Office and Google Apps with AI.",
       "source": "TechCrunch",
       "published": "2026-07-02T05:30:00+00:00",
       "link": "https://techcrunch.com/2026/07/01/indian-tech-tycoon-bets-30m-to-build-an-ai-alternative-to-microsoft-office/"
     },
     {
       "title": "Meta caps internal AI token spending",
-      "summary": "Article URL: https://mlq.ai/news/meta-caps-internal-ai-token-spending-after-costs-approach-billions-in-2026/ Comments URL: https://news.ycombinator.com/item?id=48754713 Points: 141 # Comments: 126",
+      "summary": "Article URL: https://mlq.ai/news/meta-caps-internal-ai-token-spending-after-costs-approach-billions-in-2026/ Comments URL: https://news.ycombinator.com/item?id=48754713 Points: 144 # Comments: 138",
       "source": "Hacker News",
       "published": "2026-07-01T23:58:48+00:00",
       "link": "https://mlq.ai/news/meta-caps-internal-ai-token-spending-after-costs-approach-billions-in-2026/"
@@ -213,7 +283,7 @@ const FEED_DATA = {
     },
     {
       "title": "How employment changes when firms adopt generative AI",
-      "summary": "Article URL: https://ramp.com/data/ai-jobs-impact Comments URL: https://news.ycombinator.com/item?id=48742176 Points: 53 # Comments: 47",
+      "summary": "Article URL: https://ramp.com/data/ai-jobs-impact Comments URL: https://news.ycombinator.com/item?id=48742176 Points: 53 # Comments: 48",
       "source": "Hacker News",
       "published": "2026-07-01T04:14:11+00:00",
       "link": "https://ramp.com/data/ai-jobs-impact"
@@ -808,7 +878,7 @@ const FEED_DATA = {
     },
     {
       "title": "Professor denounces mass AI fraud on an exam at Brown",
-      "summary": "Article URL: https://english.elpais.com/education/2026-06-28/ai-fraud-at-brown-university-academic-integrity-is-at-risk.html Comments URL: https://news.ycombinator.com/item?id=48708991 Points: 547 # Comments: 721",
+      "summary": "Article URL: https://english.elpais.com/education/2026-06-28/ai-fraud-at-brown-university-academic-integrity-is-at-risk.html Comments URL: https://news.ycombinator.com/item?id=48708991 Points: 547 # Comments: 723",
       "source": "Hacker News",
       "published": "2026-06-28T16:41:12+00:00",
       "link": "https://english.elpais.com/education/2026-06-28/ai-fraud-at-brown-university-academic-integrity-is-at-risk.html"
@@ -836,7 +906,7 @@ const FEED_DATA = {
     },
     {
       "title": "Google limits Meta's use of its Gemini AI models",
-      "summary": "Article URL: https://www.cnbc.com/2026/06/28/google-limits-metas-use-of-its-gemini-ai-models-ft-reports.html Comments URL: https://news.ycombinator.com/item?id=48707103 Points: 161 # Comments: 71",
+      "summary": "Article URL: https://www.cnbc.com/2026/06/28/google-limits-metas-use-of-its-gemini-ai-models-ft-reports.html Comments URL: https://news.ycombinator.com/item?id=48707103 Points: 162 # Comments: 71",
       "source": "Hacker News",
       "published": "2026-06-28T13:30:06+00:00",
       "link": "https://www.cnbc.com/2026/06/28/google-limits-metas-use-of-its-gemini-ai-models-ft-reports.html"
@@ -1330,76 +1400,6 @@ const FEED_DATA = {
       "source": "Hacker News",
       "published": "2026-06-25T16:04:46+00:00",
       "link": "https://github.com/inkeep/open-knowledge"
-    },
-    {
-      "title": "Most major AI chatbots still lean left on political questions, even \"anti-woke\" models are no exception",
-      "summary": "A Washington Post investigation shows that most major AI chatbots still skew left on political questions. OpenAI's GPT-5.5 gave exclusively left-leaning arguments 80 percent of the time, and even Musk's Grok, marketed as anti-\"woke,\" leaned left more often than not.",
-      "source": "The Decoder",
-      "published": "2026-06-25T16:04:32+00:00",
-      "link": "https://the-decoder.com/most-major-ai-chatbots-still-lean-left-on-political-questions-even-anti-woke-models-are-no-exception/"
-    },
-    {
-      "title": "Ford AI hiccups push carmaker to rehire ‘gray beard’ inspectors",
-      "summary": "https://archive.ph/DI4Cq Comments URL: https://news.ycombinator.com/item?id=48674446 Points: 606 # Comments: 321",
-      "source": "Hacker News",
-      "published": "2026-06-25T14:58:50+00:00",
-      "link": "https://www.bloomberg.com/news/articles/2026-06-25/ford-has-been-rehiring-quality-inspectors-after-ai-fell-short"
-    },
-    {
-      "title": "Ford rehires 350 engineers after AI fails to preserve expertise or train juniors",
-      "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-06-25/ford-has-been-rehiring-quality-inspectors-after-ai-fell-short Comments URL: https://news.ycombinator.com/item?id=48674446 Points: 97 # Comments: 53",
-      "source": "Hacker News",
-      "published": "2026-06-25T14:58:50+00:00",
-      "link": "https://www.bloomberg.com/news/articles/2026-06-25/ford-has-been-rehiring-quality-inspectors-after-ai-fell-short"
-    },
-    {
-      "title": "Netris raises $15M Series A from a16z to help AI neoclouds go live faster",
-      "summary": "Netris provides software that runs on network switches, and offers a platform that helps neocloud operators reduce the time it takes to go live.",
-      "source": "TechCrunch",
-      "published": "2026-06-25T14:55:38+00:00",
-      "link": "https://techcrunch.com/2026/06/25/netris-raises-15m-series-a-from-a16z-to-help-ai-neoclouds-go-live-faster/"
-    },
-    {
-      "title": "Repositioning retail for the AI era",
-      "summary": "Artificial intelligence is rapidly reshaping retail, but not in the ways consumers might immediately notice.",
-      "source": "MIT Tech Review",
-      "published": "2026-06-25T14:22:59+00:00",
-      "link": "https://www.technologyreview.com/2026/06/25/1137848/repositioning-retail-for-the-ai-era/"
-    },
-    {
-      "title": "Insurers turn to generative AI for catastrophe modeling, but hallucinations and sales logic could get in the way",
-      "summary": "Diffusion models generate tens of thousands of plausible weather events where historical data doesn't exist. Insurers are hoping for more precise risk assessments.",
-      "source": "The Decoder",
-      "published": "2026-06-25T14:13:14+00:00",
-      "link": "https://the-decoder.com/insurers-turn-to-generative-ai-for-catastrophe-modeling-but-hallucinations-and-sales-logic-could-get-in-the-way/"
-    },
-    {
-      "title": "Grok AI is reportedly a porn platform now, with over half its traffic tied to adult content",
-      "summary": "Two former xAI employees estimate that porn accounts for well over half of all Grok traffic. xAI is leaning into it, while OpenAI, Anthropic, and Google won't touch adult content.",
-      "source": "The Decoder",
-      "published": "2026-06-25T13:40:46+00:00",
-      "link": "https://the-decoder.com/grok-ai-is-reportedly-a-porn-platform-now-with-over-half-its-traffic-tied-to-adult-content/"
-    },
-    {
-      "title": "Adobe acquires image and video enhancement tool maker Topaz Labs",
-      "summary": "Adobe said that it will integrate Topaz Labs' tools across its apps.",
-      "source": "TechCrunch",
-      "published": "2026-06-25T13:30:00+00:00",
-      "link": "https://techcrunch.com/2026/06/25/adobe-acquires-image-and-video-enhancement-tool-maker-topaz-labs/"
-    },
-    {
-      "title": "Political bias in AI: Where the AI models stand",
-      "summary": "Article URL: https://trakkr.ai/bias Comments URL: https://news.ycombinator.com/item?id=48672779 Points: 176 # Comments: 306",
-      "source": "Hacker News",
-      "published": "2026-06-25T13:08:31+00:00",
-      "link": "https://trakkr.ai/bias"
-    },
-    {
-      "title": "Why Does Everyone Hate AI?",
-      "summary": "Article URL: https://paulkrugman.substack.com/p/why-does-everyone-hate-ai Comments URL: https://news.ycombinator.com/item?id=48672694 Points: 86 # Comments: 149",
-      "source": "Hacker News",
-      "published": "2026-06-25T12:59:10+00:00",
-      "link": "https://paulkrugman.substack.com/p/why-does-everyone-hate-ai"
     }
   ]
 };
