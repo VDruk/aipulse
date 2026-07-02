@@ -1,6 +1,13 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-07-01T22:13:35.862420+00:00",
+  "lastUpdated": "2026-07-02T04:56:12.463241+00:00",
   "items": [
+    {
+      "title": "Meta caps internal AI token spending",
+      "summary": "Article URL: https://mlq.ai/news/meta-caps-internal-ai-token-spending-after-costs-approach-billions-in-2026/ Comments URL: https://news.ycombinator.com/item?id=48754713 Points: 127 # Comments: 112",
+      "source": "Hacker News",
+      "published": "2026-07-01T23:58:48+00:00",
+      "link": "https://mlq.ai/news/meta-caps-internal-ai-token-spending-after-costs-approach-billions-in-2026/"
+    },
     {
       "title": "SpaceX shows investors a slim AI smartphone prototype powered by xAI technology",
       "summary": "SpaceX showed investors a prototype AI smartphone that's supposedly thinner than an iPhone and integrates xAI tech. The device runs on a Qualcomm Snapdragon chip with its own operating system.",
@@ -178,7 +185,7 @@ const FEED_DATA = {
     },
     {
       "title": "How employment changes when firms adopt generative AI",
-      "summary": "Article URL: https://ramp.com/data/ai-jobs-impact Comments URL: https://news.ycombinator.com/item?id=48742176 Points: 52 # Comments: 42",
+      "summary": "Article URL: https://ramp.com/data/ai-jobs-impact Comments URL: https://news.ycombinator.com/item?id=48742176 Points: 53 # Comments: 46",
       "source": "Hacker News",
       "published": "2026-07-01T04:14:11+00:00",
       "link": "https://ramp.com/data/ai-jobs-impact"
@@ -1393,13 +1400,6 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-06-25T11:21:37+00:00",
       "link": "https://the-decoder.com/authors-guild-test-finds-some-ai-detectors-perfectly-identify-human-writing-while-others-fail-on-every-single-text/"
-    },
-    {
-      "title": "World Cup Teams Are in a Race for AI Dominance",
-      "summary": "This year, FIFA is providing an AI agent that any team can use. Is it enough to level the playing field or will future winners be determined by which team can afford the best tools?",
-      "source": "Wired",
-      "published": "2026-06-25T11:00:00+00:00",
-      "link": "https://www.wired.com/story/fifa-world-cup-2026-artificial-intelligence-tools/"
     }
   ]
 };
