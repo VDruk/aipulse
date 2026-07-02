@@ -1,9 +1,23 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-07-02T08:12:28.400425+00:00",
+  "lastUpdated": "2026-07-02T11:24:21.450758+00:00",
   "items": [
     {
+      "title": "OpenAI reportedly offers the Trump administration a five percent stake in the company",
+      "summary": "OpenAI is reportedly offering the Trump administration a five percent stake in the company. What the government would give in return, if anything, is still unclear.",
+      "source": "The Decoder",
+      "published": "2026-07-02T10:44:16+00:00",
+      "link": "https://the-decoder.com/openai-reportedly-offers-the-trump-administration-a-five-percent-stake-in-the-company/"
+    },
+    {
+      "title": "OpenAI floats giving Trump administration 5 percent cut of AI boom",
+      "summary": "OpenAI has floated giving the US government a 5 percent ownership stake as a way of easing tensions with the Trump administration and blunting mounting public backlash against AI, according to the Financial Times.",
+      "source": "The Verge",
+      "published": "2026-07-02T10:23:27+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/960588/openai-government-5-percent-stake-trump"
+    },
+    {
       "title": "The gauge broke: devs felt 20% faster with AI, measured 19% slower",
-      "summary": "Article URL: https://intrepidkarthi.com/writing/the-gauge-broke/ Comments URL: https://news.ycombinator.com/item?id=48757440 Points: 64 # Comments: 66",
+      "summary": "Article URL: https://intrepidkarthi.com/writing/the-gauge-broke/ Comments URL: https://news.ycombinator.com/item?id=48757440 Points: 68 # Comments: 91",
       "source": "Hacker News",
       "published": "2026-07-02T06:44:34+00:00",
       "link": "https://intrepidkarthi.com/writing/the-gauge-broke/"
@@ -17,7 +31,7 @@ const FEED_DATA = {
     },
     {
       "title": "Meta caps internal AI token spending",
-      "summary": "Article URL: https://mlq.ai/news/meta-caps-internal-ai-token-spending-after-costs-approach-billions-in-2026/ Comments URL: https://news.ycombinator.com/item?id=48754713 Points: 137 # Comments: 124",
+      "summary": "Article URL: https://mlq.ai/news/meta-caps-internal-ai-token-spending-after-costs-approach-billions-in-2026/ Comments URL: https://news.ycombinator.com/item?id=48754713 Points: 141 # Comments: 126",
       "source": "Hacker News",
       "published": "2026-07-01T23:58:48+00:00",
       "link": "https://mlq.ai/news/meta-caps-internal-ai-token-spending-after-costs-approach-billions-in-2026/"
@@ -1386,20 +1400,6 @@ const FEED_DATA = {
       "source": "Hacker News",
       "published": "2026-06-25T12:59:10+00:00",
       "link": "https://paulkrugman.substack.com/p/why-does-everyone-hate-ai"
-    },
-    {
-      "title": "The Download: Europe’s heat wave hits the grid, and IBM’s chip targets Moore’s Law",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.",
-      "source": "MIT Tech Review",
-      "published": "2026-06-25T12:10:00+00:00",
-      "link": "https://www.technologyreview.com/2026/06/25/1139738/the-download-europe-heat-wave-ibm-chip-moores-law/"
-    },
-    {
-      "title": "Amazon ups India bet with fresh $13B AI infrastructure investment",
-      "summary": "Amazon’s latest India investment comes as global tech companies race to expand AI infrastructure in the country.",
-      "source": "TechCrunch",
-      "published": "2026-06-25T12:00:38+00:00",
-      "link": "https://techcrunch.com/2026/06/25/amazon-ups-india-bet-with-fresh-13b-ai-infrastructure-investment/"
     }
   ]
 };
