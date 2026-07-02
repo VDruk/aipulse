@@ -1,9 +1,23 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-07-02T04:56:12.463241+00:00",
+  "lastUpdated": "2026-07-02T08:12:28.400425+00:00",
   "items": [
     {
+      "title": "The gauge broke: devs felt 20% faster with AI, measured 19% slower",
+      "summary": "Article URL: https://intrepidkarthi.com/writing/the-gauge-broke/ Comments URL: https://news.ycombinator.com/item?id=48757440 Points: 64 # Comments: 66",
+      "source": "Hacker News",
+      "published": "2026-07-02T06:44:34+00:00",
+      "link": "https://intrepidkarthi.com/writing/the-gauge-broke/"
+    },
+    {
+      "title": "Indian tech tycoon bets $30M of his own money to build AI alternative to Microsoft Office",
+      "summary": "Neo is Bhavin Turakhia’s fifth venture and his latest involving enterprise software. This time he's taking on Microsoft Office, Google Apps with AI.",
+      "source": "TechCrunch",
+      "published": "2026-07-02T05:30:00+00:00",
+      "link": "https://techcrunch.com/2026/07/01/indian-tech-tycoon-bets-30m-to-build-an-ai-alternative-to-microsoft-office/"
+    },
+    {
       "title": "Meta caps internal AI token spending",
-      "summary": "Article URL: https://mlq.ai/news/meta-caps-internal-ai-token-spending-after-costs-approach-billions-in-2026/ Comments URL: https://news.ycombinator.com/item?id=48754713 Points: 127 # Comments: 112",
+      "summary": "Article URL: https://mlq.ai/news/meta-caps-internal-ai-token-spending-after-costs-approach-billions-in-2026/ Comments URL: https://news.ycombinator.com/item?id=48754713 Points: 137 # Comments: 124",
       "source": "Hacker News",
       "published": "2026-07-01T23:58:48+00:00",
       "link": "https://mlq.ai/news/meta-caps-internal-ai-token-spending-after-costs-approach-billions-in-2026/"
@@ -185,7 +199,7 @@ const FEED_DATA = {
     },
     {
       "title": "How employment changes when firms adopt generative AI",
-      "summary": "Article URL: https://ramp.com/data/ai-jobs-impact Comments URL: https://news.ycombinator.com/item?id=48742176 Points: 53 # Comments: 46",
+      "summary": "Article URL: https://ramp.com/data/ai-jobs-impact Comments URL: https://news.ycombinator.com/item?id=48742176 Points: 53 # Comments: 47",
       "source": "Hacker News",
       "published": "2026-07-01T04:14:11+00:00",
       "link": "https://ramp.com/data/ai-jobs-impact"
@@ -1386,20 +1400,6 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-06-25T12:00:38+00:00",
       "link": "https://techcrunch.com/2026/06/25/amazon-ups-india-bet-with-fresh-13b-ai-infrastructure-investment/"
-    },
-    {
-      "title": "Ford had to hire back former engineers to fix mistakes made by its automated systems",
-      "summary": "To celebrate its new status as No. 1 in JD Power's initial quality ranking among mainstream automakers, Ford is opening up about the challenges it has faced in recent years, especially around its reliance on automated systems in production and design.",
-      "source": "The Verge",
-      "published": "2026-06-25T12:00:00+00:00",
-      "link": "https://www.theverge.com/transportation/956316/ford-quality-jd-power-ranking-ai-automated-mistakes"
-    },
-    {
-      "title": "Authors Guild test finds some AI detectors perfectly identify human writing while others fail on every single text",
-      "summary": "The Authors Guild tested five AI detectors on human-written texts. Pangram and Grammarly correctly identified all of them, while Sidekicker and ZeroGPT flagged human-written articles as AI-generated.",
-      "source": "The Decoder",
-      "published": "2026-06-25T11:21:37+00:00",
-      "link": "https://the-decoder.com/authors-guild-test-finds-some-ai-detectors-perfectly-identify-human-writing-while-others-fail-on-every-single-text/"
     }
   ]
 };
