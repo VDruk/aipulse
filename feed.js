@@ -1,6 +1,34 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-07-02T18:23:17.185626+00:00",
+  "lastUpdated": "2026-07-02T22:00:29.712118+00:00",
   "items": [
+    {
+      "title": "Jersey Mike’s IPO illustrates how bad the AI hype has become",
+      "summary": "Just for kicks, I took a look at Jersey Mike's IPO documents. Surely a sandwich shop would have no need to mention AI.",
+      "source": "TechCrunch",
+      "published": "2026-07-02T20:11:59+00:00",
+      "link": "https://techcrunch.com/2026/07/02/jersey-mikes-ipo-illustrates-how-bad-the-ai-hype-has-become/"
+    },
+    {
+      "title": "Microsoft launches $2.5 billion \"Frontier Company\" to embed 6,000 AI engineers inside enterprise clients",
+      "summary": "Microsoft is investing $2.5 billion in a new unit called \"Frontier Company\" that puts 6,000 engineers directly at enterprise customers. The goal is to integrate AI into core processes with measurable ROI, not more experimentation.",
+      "source": "The Decoder",
+      "published": "2026-07-02T19:18:29+00:00",
+      "link": "https://the-decoder.com/microsoft-launches-2-5-billion-frontier-company-to-embed-6000-ai-engineers-inside-enterprise-clients/"
+    },
+    {
+      "title": "Meta quietly launches vibe-coded gaming app Pocket",
+      "summary": "Meta has quietly launched Pocket, an experimental AI app that lets users generate and share interactive mini games using text prompts.",
+      "source": "TechCrunch",
+      "published": "2026-07-02T18:44:02+00:00",
+      "link": "https://techcrunch.com/2026/07/02/meta-quietly-launches-vibe-coded-gaming-app-pocket/"
+    },
+    {
+      "title": "Anthropic is discussing a new custom chip with Samsung",
+      "summary": "The news comes about a week after OpenAI announced its own custom AI chip in a partnership with Broadcom.",
+      "source": "TechCrunch",
+      "published": "2026-07-02T18:31:09+00:00",
+      "link": "https://techcrunch.com/2026/07/02/anthropic-is-discussing-a-new-custom-chip-with-samsung/"
+    },
     {
       "title": "Can Cursor Remain a Platform for OpenAI and Anthropic’s Models Inside SpaceX?",
       "summary": "Cursor hopes to continue offering third-party AI models after it's acquired by SpaceX, testing the relationships between frontier AI labs.",
@@ -44,6 +72,13 @@ const FEED_DATA = {
       "link": "https://www.artificialintelligence-news.com/news/nvidia-bionemo-accelerates-anthropic-claude-science/"
     },
     {
+      "title": "No LLM Code in Dependencies",
+      "summary": "Article URL: https://joeyh.name/blog/entry/no_LLM_code_in_dependencies/ Comments URL: https://news.ycombinator.com/item?id=48762008 Points: 101 # Comments: 84",
+      "source": "Hacker News",
+      "published": "2026-07-02T14:17:23+00:00",
+      "link": "https://joeyh.name/blog/entry/no_LLM_code_in_dependencies/"
+    },
+    {
       "title": "Microsoft launches its own AI deployment company with $2.5 billion commitment",
       "summary": "Microsoft follows Amazon, OpenAI, and Anthropic with its new AI deployment group.",
       "source": "TechCrunch",
@@ -52,7 +87,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI can't be listed as inventor on patent applications, Japan's top court rules",
-      "summary": "Article URL: https://japannews.yomiuri.co.jp/science-nature/technology/20260306-314930/ Comments URL: https://news.ycombinator.com/item?id=48761536 Points: 246 # Comments: 127",
+      "summary": "Article URL: https://japannews.yomiuri.co.jp/science-nature/technology/20260306-314930/ Comments URL: https://news.ycombinator.com/item?id=48761536 Points: 333 # Comments: 180",
       "source": "Hacker News",
       "published": "2026-07-02T13:43:41+00:00",
       "link": "https://japannews.yomiuri.co.jp/science-nature/technology/20260306-314930/"
@@ -73,7 +108,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI fake news complaining about how AI fake news is the death of real news",
-      "summary": "Article URL: https://www.niemanlab.org/2026/07/now-were-getting-ai-fake-news-complaining-about-how-ai-fake-news-is-the-death-of-real-news/ Comments URL: https://news.ycombinator.com/item?id=48760598 Points: 139 # Comments: 51",
+      "summary": "Article URL: https://www.niemanlab.org/2026/07/now-were-getting-ai-fake-news-complaining-about-how-ai-fake-news-is-the-death-of-real-news/ Comments URL: https://news.ycombinator.com/item?id=48760598 Points: 148 # Comments: 52",
       "source": "Hacker News",
       "published": "2026-07-02T12:40:36+00:00",
       "link": "https://www.niemanlab.org/2026/07/now-were-getting-ai-fake-news-complaining-about-how-ai-fake-news-is-the-death-of-real-news/"
@@ -122,7 +157,7 @@ const FEED_DATA = {
     },
     {
       "title": "The gauge broke: devs felt 20% faster with AI, measured 19% slower (2025)",
-      "summary": "Article URL: https://intrepidkarthi.com/writing/the-gauge-broke/ Comments URL: https://news.ycombinator.com/item?id=48757440 Points: 75 # Comments: 94",
+      "summary": "Article URL: https://intrepidkarthi.com/writing/the-gauge-broke/ Comments URL: https://news.ycombinator.com/item?id=48757440 Points: 76 # Comments: 96",
       "source": "Hacker News",
       "published": "2026-07-02T06:44:34+00:00",
       "link": "https://intrepidkarthi.com/writing/the-gauge-broke/"
@@ -136,7 +171,7 @@ const FEED_DATA = {
     },
     {
       "title": "Meta caps internal AI token spending",
-      "summary": "Article URL: https://mlq.ai/news/meta-caps-internal-ai-token-spending-after-costs-approach-billions-in-2026/ Comments URL: https://news.ycombinator.com/item?id=48754713 Points: 144 # Comments: 141",
+      "summary": "Article URL: https://mlq.ai/news/meta-caps-internal-ai-token-spending-after-costs-approach-billions-in-2026/ Comments URL: https://news.ycombinator.com/item?id=48754713 Points: 145 # Comments: 143",
       "source": "Hacker News",
       "published": "2026-07-01T23:58:48+00:00",
       "link": "https://mlq.ai/news/meta-caps-internal-ai-token-spending-after-costs-approach-billions-in-2026/"
@@ -913,7 +948,7 @@ const FEED_DATA = {
     },
     {
       "title": "Professor denounces mass AI fraud on an exam at Brown",
-      "summary": "Article URL: https://english.elpais.com/education/2026-06-28/ai-fraud-at-brown-university-academic-integrity-is-at-risk.html Comments URL: https://news.ycombinator.com/item?id=48708991 Points: 547 # Comments: 723",
+      "summary": "Article URL: https://english.elpais.com/education/2026-06-28/ai-fraud-at-brown-university-academic-integrity-is-at-risk.html Comments URL: https://news.ycombinator.com/item?id=48708991 Points: 548 # Comments: 727",
       "source": "Hacker News",
       "published": "2026-06-28T16:41:12+00:00",
       "link": "https://english.elpais.com/education/2026-06-28/ai-fraud-at-brown-university-academic-integrity-is-at-risk.html"
@@ -1365,41 +1400,6 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-06-25T23:34:39+00:00",
       "link": "https://techcrunch.com/2026/06/25/the-white-house-is-asking-openai-to-slow-roll-the-release-of-its-new-model-over-safety-concerns/"
-    },
-    {
-      "title": "Why Amazon Dropped Its OpenAI Movie, Data Center Workers Fight Back, and Meta Leaks Employee Data",
-      "summary": "The decision by Amazon-owned MGM Studios to drop the OpenAI movie is just part of AI and film industries becoming increasingly intertwined. On Uncanny Valley, we look at where this is all headed.",
-      "source": "Wired",
-      "published": "2026-06-25T23:13:45+00:00",
-      "link": "https://www.wired.com/story/uncanny-valley-podcast-amazon-mgm-openai-movie-data-center-workers-fight-back-meta-leaks-employee-data/"
-    },
-    {
-      "title": "OpenAI will delay GPT-5.6 after Trump administration request",
-      "summary": "The Trump administration, apprehensive of potential security issues, has reportedly asked OpenAI to stagger the release of its next big-ticket model, GPT-5.6.",
-      "source": "The Verge",
-      "published": "2026-06-25T21:57:06+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/957372/openai-will-delay-gpt-5-6-after-trump-administration-request"
-    },
-    {
-      "title": "OpenAI to Stagger Release of GPT 5.6 at Request of U.S. Government",
-      "summary": "Article URL: https://velo.xyz/news/1908 Comments URL: https://news.ycombinator.com/item?id=48678789 Points: 74 # Comments: 26",
-      "source": "Hacker News",
-      "published": "2026-06-25T20:28:25+00:00",
-      "link": "https://velo.xyz/news/1908"
-    },
-    {
-      "title": "Patronus AI lands $50M to build ‘digital worlds’ that stress-test AI agents",
-      "summary": "Agent-testing startup Patronus AI, founded by former Meta AI researchers, is experiencing nearly insatiable demand, its investor says.",
-      "source": "TechCrunch",
-      "published": "2026-06-25T20:19:25+00:00",
-      "link": "https://techcrunch.com/2026/06/25/patronus-ai-lands-50m-to-build-digital-worlds-that-stress-test-ai-agents/"
-    },
-    {
-      "title": "Notion killing Skiff-influenced email app since most users use AI agents instead",
-      "summary": "Notion is \"going all in on using agents to run your inbox.\"",
-      "source": "Ars Technica",
-      "published": "2026-06-25T19:04:57+00:00",
-      "link": "https://arstechnica.com/gadgets/2026/06/notion-killing-skiff-influenced-email-app-since-most-users-use-ai-agents-instead/"
     }
   ]
 };
