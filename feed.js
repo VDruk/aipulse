@@ -1,6 +1,41 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-07-02T15:17:53.805153+00:00",
+  "lastUpdated": "2026-07-02T18:23:17.185626+00:00",
   "items": [
+    {
+      "title": "Can Cursor Remain a Platform for OpenAI and Anthropic’s Models Inside SpaceX?",
+      "summary": "Cursor hopes to continue offering third-party AI models after it's acquired by SpaceX, testing the relationships between frontier AI labs.",
+      "source": "Wired",
+      "published": "2026-07-02T18:01:20+00:00",
+      "link": "https://www.wired.com/story/can-cursor-remain-an-open-platform-inside-of-spacex/"
+    },
+    {
+      "title": "Anthropic reportedly explores custom chip manufacturing with Samsung while insisting Nvidia still matters",
+      "summary": "Anthropic is reportedly in talks with Samsung Electronics about manufacturing a custom AI chip. The project is still early, but Anthropic has already hired chip engineers.",
+      "source": "The Decoder",
+      "published": "2026-07-02T17:30:57+00:00",
+      "link": "https://the-decoder.com/anthropic-reportedly-explores-custom-chip-manufacturing-with-samsung-while-insisting-nvidia-still-matters/"
+    },
+    {
+      "title": "Anthropic says it cut 80 percent of Claude Code's system prompt because Fable 5 models \"want a smaller system prompt\"",
+      "summary": "Anthropic has cut the system prompt for Claude Code by 80 percent. According to staffer Tariq Shihipar, the new Fable 5 models need fewer instructions and examples.",
+      "source": "The Decoder",
+      "published": "2026-07-02T16:20:29+00:00",
+      "link": "https://the-decoder.com/anthropic-says-it-cut-80-percent-of-claude-codes-system-prompt-because-fable-5-models-want-a-smaller-system-prompt/"
+    },
+    {
+      "title": "Achieving operational excellence with AI",
+      "summary": "Frameworks like Lean Six Sigma and business process management (BPM) first gained traction because they promised clarity in the chaos—a structured way to bring order to messy, sprawling operations.",
+      "source": "MIT Tech Review",
+      "published": "2026-07-02T15:37:08+00:00",
+      "link": "https://www.technologyreview.com/2026/07/02/1140045/achieving-operational-excellence-with-ai/"
+    },
+    {
+      "title": "OpenAI proposed donating 5% of its equity to a US sovereign wealth fund",
+      "summary": "OpenAI CEO Sam Altman has reportedly proposed giving 5% of the company’s equity to a U.S. sovereign wealth fund, reviving discussions about letting the public share in the financial gains from the AI boom.",
+      "source": "TechCrunch",
+      "published": "2026-07-02T15:20:51+00:00",
+      "link": "https://techcrunch.com/2026/07/02/openai-proposed-donating-5-of-its-equity-to-a-us-sovereign-wealth-fund/"
+    },
     {
       "title": "NVIDIA BioNeMo accelerates Anthropic Claude Science",
       "summary": "Anthropic Claude Science now integrates the NVIDIA BioNeMo Agent Toolkit to accelerate computational life sciences research. Anthropic has launched the public beta of Claude Science, an AI workbench built for scientific research.",
@@ -16,8 +51,8 @@ const FEED_DATA = {
       "link": "https://techcrunch.com/2026/07/02/microsoft-launches-its-own-ai-deployment-company-with-2-5-billion-commitment/"
     },
     {
-      "title": "AI Can't Be Listed as Inventor on Patent Applications, Japan's Top Court Rules",
-      "summary": "Article URL: https://japannews.yomiuri.co.jp/science-nature/technology/20260306-314930/ Comments URL: https://news.ycombinator.com/item?id=48761536 Points: 77 # Comments: 28",
+      "title": "AI can't be listed as inventor on patent applications, Japan's top court rules",
+      "summary": "Article URL: https://japannews.yomiuri.co.jp/science-nature/technology/20260306-314930/ Comments URL: https://news.ycombinator.com/item?id=48761536 Points: 246 # Comments: 127",
       "source": "Hacker News",
       "published": "2026-07-02T13:43:41+00:00",
       "link": "https://japannews.yomiuri.co.jp/science-nature/technology/20260306-314930/"
@@ -38,7 +73,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI fake news complaining about how AI fake news is the death of real news",
-      "summary": "Article URL: https://www.niemanlab.org/2026/07/now-were-getting-ai-fake-news-complaining-about-how-ai-fake-news-is-the-death-of-real-news/ Comments URL: https://news.ycombinator.com/item?id=48760598 Points: 121 # Comments: 36",
+      "summary": "Article URL: https://www.niemanlab.org/2026/07/now-were-getting-ai-fake-news-complaining-about-how-ai-fake-news-is-the-death-of-real-news/ Comments URL: https://news.ycombinator.com/item?id=48760598 Points: 139 # Comments: 51",
       "source": "Hacker News",
       "published": "2026-07-02T12:40:36+00:00",
       "link": "https://www.niemanlab.org/2026/07/now-were-getting-ai-fake-news-complaining-about-how-ai-fake-news-is-the-death-of-real-news/"
@@ -86,8 +121,8 @@ const FEED_DATA = {
       "link": "https://www.theverge.com/ai-artificial-intelligence/960588/openai-government-5-percent-stake-trump"
     },
     {
-      "title": "The gauge broke: devs felt 20% faster with AI, measured 19% slower",
-      "summary": "Article URL: https://intrepidkarthi.com/writing/the-gauge-broke/ Comments URL: https://news.ycombinator.com/item?id=48757440 Points: 74 # Comments: 92",
+      "title": "The gauge broke: devs felt 20% faster with AI, measured 19% slower (2025)",
+      "summary": "Article URL: https://intrepidkarthi.com/writing/the-gauge-broke/ Comments URL: https://news.ycombinator.com/item?id=48757440 Points: 75 # Comments: 94",
       "source": "Hacker News",
       "published": "2026-07-02T06:44:34+00:00",
       "link": "https://intrepidkarthi.com/writing/the-gauge-broke/"
@@ -101,7 +136,7 @@ const FEED_DATA = {
     },
     {
       "title": "Meta caps internal AI token spending",
-      "summary": "Article URL: https://mlq.ai/news/meta-caps-internal-ai-token-spending-after-costs-approach-billions-in-2026/ Comments URL: https://news.ycombinator.com/item?id=48754713 Points: 144 # Comments: 138",
+      "summary": "Article URL: https://mlq.ai/news/meta-caps-internal-ai-token-spending-after-costs-approach-billions-in-2026/ Comments URL: https://news.ycombinator.com/item?id=48754713 Points: 144 # Comments: 141",
       "source": "Hacker News",
       "published": "2026-07-01T23:58:48+00:00",
       "link": "https://mlq.ai/news/meta-caps-internal-ai-token-spending-after-costs-approach-billions-in-2026/"
@@ -1365,41 +1400,6 @@ const FEED_DATA = {
       "source": "Ars Technica",
       "published": "2026-06-25T19:04:57+00:00",
       "link": "https://arstechnica.com/gadgets/2026/06/notion-killing-skiff-influenced-email-app-since-most-users-use-ai-agents-instead/"
-    },
-    {
-      "title": "Apple to skip high-end M6 Mac chips in favor of AI-focused M7 line",
-      "summary": "Giftlink: https://www.bloomberg.com/news/articles/2026-06-25/apple-to-...also https://www.msn.com/en-ca/lifestyle/shopping/apple-to-skip-h... Comments URL: https://news.ycombinator.com/item?id=48676795 Points: 314 # Comments: 375",
-      "source": "Hacker News",
-      "published": "2026-06-25T17:38:44+00:00",
-      "link": "https://www.bloomberg.com/news/articles/2026-06-25/apple-to-skip-high-end-m6-mac-chips-to-launch-m7-pro-m7-max-m7-ultra-instead?embedded-checkout=true"
-    },
-    {
-      "title": "Anthropic’s Claude is winning over paid consumers, a market owned by ChatGPT",
-      "summary": "Despite ChatGPT's commanding market lead, consumers who pay for AI have been increasingly choosing Anthropic's Claude, data shows.",
-      "source": "TechCrunch",
-      "published": "2026-06-25T17:38:27+00:00",
-      "link": "https://techcrunch.com/2026/06/25/anthropics-claude-is-winning-over-paid-consumers-a-market-owned-by-chatgpt/"
-    },
-    {
-      "title": "General Intuition’s $2.3B bet that video games can train AI agents for the real world",
-      "summary": "General Intuition has raised $320 million to scale AI trained on millions of hours of gameplay, betting action data can help AI develop something closer to human intuition.",
-      "source": "TechCrunch",
-      "published": "2026-06-25T16:55:00+00:00",
-      "link": "https://techcrunch.com/2026/06/25/general-intuitions-2-3b-bet-that-video-games-can-train-ai-agents-for-the-real-world/"
-    },
-    {
-      "title": "Databricks’ former AI chief thinks he can cut AI’s power bill by 1,000x",
-      "summary": "Un-0 is an image-generation system tool that shows for the first time how the company's technology can replicate conventional AI systems.",
-      "source": "TechCrunch",
-      "published": "2026-06-25T16:48:11+00:00",
-      "link": "https://techcrunch.com/2026/06/25/databricks-former-ai-chief-thinks-he-can-cut-ais-power-bill-by-1000x/"
-    },
-    {
-      "title": "Show HN: OpenKnowledge – open source AI-first alternative to Obsidian/Notion",
-      "summary": "Hi HN, Nick here. We’re launching OpenKnowledge (https://openknowledge.ai/), a “what you see is what you get” markdown editor that has direct integrations with Claude, Codex, and other agents.",
-      "source": "Hacker News",
-      "published": "2026-06-25T16:04:46+00:00",
-      "link": "https://github.com/inkeep/open-knowledge"
     }
   ]
 };
