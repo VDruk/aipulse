@@ -1,9 +1,44 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-07-03T08:11:45.257407+00:00",
+  "lastUpdated": "2026-07-03T11:22:18.246552+00:00",
   "items": [
     {
+      "title": "GPT and Claude failed Bridgewater's finance tests because the right answers were never public",
+      "summary": "The hedge fund Bridgewater and Thinking Machines Lab report that a finely tuned open-weight model outperforms the most powerful AI models in the evaluation of financial documents, at a fraction of the cost. The figures come from their own analysis.",
+      "source": "The Decoder",
+      "published": "2026-07-03T11:16:42+00:00",
+      "link": "https://the-decoder.com/gpt-and-claude-failed-bridgewaters-finance-tests-because-the-right-answers-were-never-public/"
+    },
+    {
+      "title": "Meta's AI agent push is moving slower than Zuckerberg planned",
+      "summary": "Mark Zuckerberg admitted to weaknesses in the company's restructuring during an internal town hall. The AI agents Meta reorganized around are progressing slower than planned, Zuckerberg said.",
+      "source": "The Decoder",
+      "published": "2026-07-03T11:05:22+00:00",
+      "link": "https://the-decoder.com/metas-ai-agent-push-is-moving-slower-than-zuckerberg-planned/"
+    },
+    {
+      "title": "Tesla caps employee AI spending at $200 per week",
+      "summary": "Tesla caps employee AI spending at $200 per week, according to an internal memo reported by The Information. The article Tesla caps employee AI spending at $200 per week appeared first on The Decoder.",
+      "source": "The Decoder",
+      "published": "2026-07-03T10:56:51+00:00",
+      "link": "https://the-decoder.com/tesla-caps-employee-ai-spending-at-200-per-week/"
+    },
+    {
+      "title": "The UK’s generational tobacco ban might not work. I’m supporting it anyway.",
+      "summary": "As the parent of two little girls, I often think about how their childhood is different from mine. The seven-year-old is learning about AI at school.",
+      "source": "MIT Tech Review",
+      "published": "2026-07-03T09:00:00+00:00",
+      "link": "https://www.technologyreview.com/2026/07/03/1140036/uk-tobacco-ban-might-not-work-children-smoking/"
+    },
+    {
+      "title": "Chinese AI video maker Kling raises $2 billion as it gears up for Hong Kong IPO",
+      "summary": "Kuaishou has raised about $2 billion from investors for its AI video division, Kling. The article Chinese AI video maker Kling raises $2 billion as it gears up for Hong Kong IPO appeared first on The Decoder.",
+      "source": "The Decoder",
+      "published": "2026-07-03T08:53:16+00:00",
+      "link": "https://the-decoder.com/chinese-ai-video-maker-kling-raises-2-billion-as-it-gears-up-for-hong-kong-ipo/"
+    },
+    {
       "title": "Right to Local Intelligence",
-      "summary": "Article URL: https://righttointelligence.org/ Comments URL: https://news.ycombinator.com/item?id=48768951 Points: 195 # Comments: 68",
+      "summary": "Article URL: https://righttointelligence.org/ Comments URL: https://news.ycombinator.com/item?id=48768951 Points: 292 # Comments: 96",
       "source": "Hacker News",
       "published": "2026-07-02T23:54:03+00:00",
       "link": "https://righttointelligence.org/"
@@ -31,14 +66,14 @@ const FEED_DATA = {
     },
     {
       "title": "The short leash AI coding method for beating Fable",
-      "summary": "Article URL: https://blog.okturtles.org/2026/07/short-leash-ai-method/ Comments URL: https://news.ycombinator.com/item?id=48766026 Points: 120 # Comments: 140",
+      "summary": "Article URL: https://blog.okturtles.org/2026/07/short-leash-ai-method/ Comments URL: https://news.ycombinator.com/item?id=48766026 Points: 142 # Comments: 180",
       "source": "Hacker News",
       "published": "2026-07-02T19:11:57+00:00",
       "link": "https://blog.okturtles.org/2026/07/short-leash-ai-method/"
     },
     {
       "title": "Claude-real-video － any LLM can watch a video",
-      "summary": "Article URL: https://github.com/HUANGCHIHHUNGLeo/claude-real-video Comments URL: https://news.ycombinator.com/item?id=48766005 Points: 130 # Comments: 41",
+      "summary": "Article URL: https://github.com/HUANGCHIHHUNGLeo/claude-real-video Comments URL: https://news.ycombinator.com/item?id=48766005 Points: 139 # Comments: 43",
       "source": "Hacker News",
       "published": "2026-07-02T19:10:12+00:00",
       "link": "https://github.com/HUANGCHIHHUNGLeo/claude-real-video"
@@ -73,7 +108,7 @@ const FEED_DATA = {
     },
     {
       "title": "Weird Al Yankovic Pulled Out of AI Ad Deal: 'I Can't Be the Poster Boy for AI'",
-      "summary": "Article URL: https://variety.com/2026/biz/news/weird-al-yankovic-rejected-ai-commercial-money-offer-1236800794/ Comments URL: https://news.ycombinator.com/item?id=48764326 Points: 66 # Comments: 37",
+      "summary": "Article URL: https://variety.com/2026/biz/news/weird-al-yankovic-rejected-ai-commercial-money-offer-1236800794/ Comments URL: https://news.ycombinator.com/item?id=48764326 Points: 69 # Comments: 39",
       "source": "Hacker News",
       "published": "2026-07-02T17:03:30+00:00",
       "link": "https://variety.com/2026/biz/news/weird-al-yankovic-rejected-ai-commercial-money-offer-1236800794/"
@@ -108,7 +143,7 @@ const FEED_DATA = {
     },
     {
       "title": "No LLM Code in Dependencies",
-      "summary": "Article URL: https://joeyh.name/blog/entry/no_LLM_code_in_dependencies/ Comments URL: https://news.ycombinator.com/item?id=48762008 Points: 116 # Comments: 106",
+      "summary": "Article URL: https://joeyh.name/blog/entry/no_LLM_code_in_dependencies/ Comments URL: https://news.ycombinator.com/item?id=48762008 Points: 117 # Comments: 109",
       "source": "Hacker News",
       "published": "2026-07-02T14:17:23+00:00",
       "link": "https://joeyh.name/blog/entry/no_LLM_code_in_dependencies/"
@@ -122,7 +157,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI can't be listed as inventor on patent applications, Japan's top court rules",
-      "summary": "Article URL: https://japannews.yomiuri.co.jp/science-nature/technology/20260306-314930/ Comments URL: https://news.ycombinator.com/item?id=48761536 Points: 372 # Comments: 195",
+      "summary": "Article URL: https://japannews.yomiuri.co.jp/science-nature/technology/20260306-314930/ Comments URL: https://news.ycombinator.com/item?id=48761536 Points: 379 # Comments: 199",
       "source": "Hacker News",
       "published": "2026-07-02T13:43:41+00:00",
       "link": "https://japannews.yomiuri.co.jp/science-nature/technology/20260306-314930/"
@@ -143,7 +178,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI fake news complaining about how AI fake news is the death of real news",
-      "summary": "Article URL: https://www.niemanlab.org/2026/07/now-were-getting-ai-fake-news-complaining-about-how-ai-fake-news-is-the-death-of-real-news/ Comments URL: https://news.ycombinator.com/item?id=48760598 Points: 156 # Comments: 57",
+      "summary": "Article URL: https://www.niemanlab.org/2026/07/now-were-getting-ai-fake-news-complaining-about-how-ai-fake-news-is-the-death-of-real-news/ Comments URL: https://news.ycombinator.com/item?id=48760598 Points: 157 # Comments: 57",
       "source": "Hacker News",
       "published": "2026-07-02T12:40:36+00:00",
       "link": "https://www.niemanlab.org/2026/07/now-were-getting-ai-fake-news-complaining-about-how-ai-fake-news-is-the-death-of-real-news/"
@@ -388,7 +423,7 @@ const FEED_DATA = {
     },
     {
       "title": "How employment changes when firms adopt generative AI",
-      "summary": "Article URL: https://ramp.com/data/ai-jobs-impact Comments URL: https://news.ycombinator.com/item?id=48742176 Points: 53 # Comments: 50",
+      "summary": "Article URL: https://ramp.com/data/ai-jobs-impact Comments URL: https://news.ycombinator.com/item?id=48742176 Points: 54 # Comments: 50",
       "source": "Hacker News",
       "published": "2026-07-01T04:14:11+00:00",
       "link": "https://ramp.com/data/ai-jobs-impact"
@@ -542,7 +577,7 @@ const FEED_DATA = {
     },
     {
       "title": "Scammers Sell Seeds for Exotic AI-Generated Flowers That Don't Exist",
-      "summary": "Article URL: https://www.404media.co/scammers-sell-seeds-for-exotic-ai-generated-flowers-that-dont-exist/ Comments URL: https://news.ycombinator.com/item?id=48734389 Points: 50 # Comments: 36",
+      "summary": "Article URL: https://www.404media.co/scammers-sell-seeds-for-exotic-ai-generated-flowers-that-dont-exist/ Comments URL: https://news.ycombinator.com/item?id=48734389 Points: 51 # Comments: 36",
       "source": "Hacker News",
       "published": "2026-06-30T15:45:32+00:00",
       "link": "https://www.404media.co/scammers-sell-seeds-for-exotic-ai-generated-flowers-that-dont-exist/"
@@ -934,7 +969,7 @@ const FEED_DATA = {
     },
     {
       "title": "Better Images of AI",
-      "summary": "Article URL: https://betterimagesofai.org/ Comments URL: https://news.ycombinator.com/item?id=48713051 Points: 55 # Comments: 29",
+      "summary": "Article URL: https://betterimagesofai.org/ Comments URL: https://news.ycombinator.com/item?id=48713051 Points: 55 # Comments: 31",
       "source": "Hacker News",
       "published": "2026-06-28T23:50:58+00:00",
       "link": "https://betterimagesofai.org/"
@@ -1365,41 +1400,6 @@ const FEED_DATA = {
       "source": "MIT Tech Review",
       "published": "2026-06-26T12:10:00+00:00",
       "link": "https://www.technologyreview.com/2026/06/26/1139780/the-download-heatwaves-brain-health-openai-restrictions/"
-    },
-    {
-      "title": "Anthropic doesn't need junior engineers anymore thanks to AI and warns of an economic shock when other industries follow",
-      "summary": "\"Returns on intuition\": Why Anthropic no longer needs junior engineers and warns of an economic shock. The article Anthropic doesn't need junior engineers anymore thanks to AI and warns of an economic shock when other industries follow appeared first on The Decoder.",
-      "source": "The Decoder",
-      "published": "2026-06-26T11:18:07+00:00",
-      "link": "https://the-decoder.com/anthropic-doesnt-need-junior-engineers-anymore-thanks-to-ai-and-warns-of-an-economic-shock-when-other-industries-follow/"
-    },
-    {
-      "title": "Linux Foundation and 20 tech giants launch Akrites to fix open-source flaws before AI-powered attacks hit",
-      "summary": "About twenty tech companies, AI labs, and banks are joining forces through Akrites to fix vulnerabilities in critical open-source software before AI tools can exploit them.",
-      "source": "The Decoder",
-      "published": "2026-06-26T10:07:05+00:00",
-      "link": "https://the-decoder.com/linux-foundation-and-20-tech-giants-launch-akrites-to-fix-open-source-flaws-before-ai-powered-attacks-hit/"
-    },
-    {
-      "title": "Heat waves mess with your brain. Scientists are trying to figure out why.",
-      "summary": "It’s been hot in London this week. Really hot.",
-      "source": "MIT Tech Review",
-      "published": "2026-06-26T09:00:00+00:00",
-      "link": "https://www.technologyreview.com/2026/06/26/1139760/heat-waves-mess-with-your-brain-scientists-are-trying-to-figure-out-why/"
-    },
-    {
-      "title": "OpenAI's GPT 5.6 rollout now requires US government approval on a \"customer by customer basis\"",
-      "summary": "At the request of the U.S. government, OpenAI will initially make its new GPT-5.6 model available only to select partners, with access approved on a \"customer by customer\" basis.",
-      "source": "The Decoder",
-      "published": "2026-06-26T08:35:35+00:00",
-      "link": "https://the-decoder.com/openais-gpt-5-6-rollout-now-requires-us-government-approval-on-a-customer-by-customer-basis/"
-    },
-    {
-      "title": "Why current LLM costs are not sustainable",
-      "summary": "Article URL: https://aditya.patadia.org/p/ai-and-cloud-costs Comments URL: https://news.ycombinator.com/item?id=48683588 Points: 115 # Comments: 193",
-      "source": "Hacker News",
-      "published": "2026-06-26T07:44:11+00:00",
-      "link": "https://aditya.patadia.org/p/ai-and-cloud-costs"
     }
   ]
 };
