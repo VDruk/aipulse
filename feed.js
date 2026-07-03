@@ -1,6 +1,34 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-07-03T11:22:18.246552+00:00",
+  "lastUpdated": "2026-07-03T15:12:46.220290+00:00",
   "items": [
+    {
+      "title": "Anthropic wants to develop its own drugs",
+      "summary": "At the event \"The Briefing: AI for Science\" earlier this week, Anthropic announced Claude Science, a new \"AI workbench for scientists\" that pulls fragmented tools and datasets into one environment, and generates figures and visuals.",
+      "source": "The Verge",
+      "published": "2026-07-03T13:56:52+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/961311/anthropic-claude-science-ai-drug-development"
+    },
+    {
+      "title": "Please stop the AI confidence theater",
+      "summary": "Article URL: https://www.elenaverna.com/p/please-stop-the-ai-confidence-theater Comments URL: https://news.ycombinator.com/item?id=48774414 Points: 157 # Comments: 131",
+      "source": "Hacker News",
+      "published": "2026-07-03T12:51:17+00:00",
+      "link": "https://www.elenaverna.com/p/please-stop-the-ai-confidence-theater"
+    },
+    {
+      "title": "The Download: a smoking “endgame” and a new Elizabeth Bear story",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The UK’s generational tobacco ban might not work.",
+      "source": "MIT Tech Review",
+      "published": "2026-07-03T12:10:00+00:00",
+      "link": "https://www.technologyreview.com/2026/07/03/1140134/the-download-uk-smoking-ban-elizabeth-bear-story/"
+    },
+    {
+      "title": "A behind-the-scenes look at Midjourney’s medical scanner leaves many questions unanswered",
+      "summary": "Midjourney has shown more of its futuristic medical scanner. It still hasn't shown much proof it works.",
+      "source": "The Verge",
+      "published": "2026-07-03T11:49:10+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/961265/midjourney-medical-ultrasound-scanner-behind-the-scenes-video"
+    },
     {
       "title": "GPT and Claude failed Bridgewater's finance tests because the right answers were never public",
       "summary": "The hedge fund Bridgewater and Thinking Machines Lab report that a finely tuned open-weight model outperforms the most powerful AI models in the evaluation of financial documents, at a fraction of the cost. The figures come from their own analysis.",
@@ -37,8 +65,15 @@ const FEED_DATA = {
       "link": "https://the-decoder.com/chinese-ai-video-maker-kling-raises-2-billion-as-it-gears-up-for-hong-kong-ipo/"
     },
     {
+      "title": "AI coding is a nightmare. Am I the only one experiencing this?",
+      "summary": "Here are my biggest gripes with AI coding assistants right now: Obsessed with reinventing the wheel. You'll often find it writing three duplicate functions for the exact same feature in a single file.",
+      "source": "Hacker News",
+      "published": "2026-07-03T03:18:42+00:00",
+      "link": "https://news.ycombinator.com/item?id=48770319"
+    },
+    {
       "title": "Right to Local Intelligence",
-      "summary": "Article URL: https://righttointelligence.org/ Comments URL: https://news.ycombinator.com/item?id=48768951 Points: 292 # Comments: 96",
+      "summary": "Article URL: https://righttointelligence.org/ Comments URL: https://news.ycombinator.com/item?id=48768951 Points: 386 # Comments: 135",
       "source": "Hacker News",
       "published": "2026-07-02T23:54:03+00:00",
       "link": "https://righttointelligence.org/"
@@ -49,6 +84,13 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-07-02T23:38:10+00:00",
       "link": "https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/"
+    },
+    {
+      "title": "Zuckerberg says AI agent development going slower than expected",
+      "summary": "Article URL: https://www.reuters.com/business/zuckerberg-says-ai-agent-development-going-slower-than-expected-2026-07-02/ Comments URL: https://news.ycombinator.com/item?id=48767058 Points: 50 # Comments: 62",
+      "source": "Hacker News",
+      "published": "2026-07-02T20:38:06+00:00",
+      "link": "https://www.reuters.com/business/zuckerberg-says-ai-agent-development-going-slower-than-expected-2026-07-02/"
     },
     {
       "title": "Jersey Mike’s IPO illustrates how bad the AI hype has become",
@@ -66,14 +108,14 @@ const FEED_DATA = {
     },
     {
       "title": "The short leash AI coding method for beating Fable",
-      "summary": "Article URL: https://blog.okturtles.org/2026/07/short-leash-ai-method/ Comments URL: https://news.ycombinator.com/item?id=48766026 Points: 142 # Comments: 180",
+      "summary": "Article URL: https://blog.okturtles.org/2026/07/short-leash-ai-method/ Comments URL: https://news.ycombinator.com/item?id=48766026 Points: 170 # Comments: 210",
       "source": "Hacker News",
       "published": "2026-07-02T19:11:57+00:00",
       "link": "https://blog.okturtles.org/2026/07/short-leash-ai-method/"
     },
     {
       "title": "Claude-real-video － any LLM can watch a video",
-      "summary": "Article URL: https://github.com/HUANGCHIHHUNGLeo/claude-real-video Comments URL: https://news.ycombinator.com/item?id=48766005 Points: 139 # Comments: 43",
+      "summary": "Article URL: https://github.com/HUANGCHIHHUNGLeo/claude-real-video Comments URL: https://news.ycombinator.com/item?id=48766005 Points: 148 # Comments: 52",
       "source": "Hacker News",
       "published": "2026-07-02T19:10:12+00:00",
       "link": "https://github.com/HUANGCHIHHUNGLeo/claude-real-video"
@@ -108,7 +150,7 @@ const FEED_DATA = {
     },
     {
       "title": "Weird Al Yankovic Pulled Out of AI Ad Deal: 'I Can't Be the Poster Boy for AI'",
-      "summary": "Article URL: https://variety.com/2026/biz/news/weird-al-yankovic-rejected-ai-commercial-money-offer-1236800794/ Comments URL: https://news.ycombinator.com/item?id=48764326 Points: 69 # Comments: 39",
+      "summary": "Article URL: https://variety.com/2026/biz/news/weird-al-yankovic-rejected-ai-commercial-money-offer-1236800794/ Comments URL: https://news.ycombinator.com/item?id=48764326 Points: 70 # Comments: 43",
       "source": "Hacker News",
       "published": "2026-07-02T17:03:30+00:00",
       "link": "https://variety.com/2026/biz/news/weird-al-yankovic-rejected-ai-commercial-money-offer-1236800794/"
@@ -143,7 +185,7 @@ const FEED_DATA = {
     },
     {
       "title": "No LLM Code in Dependencies",
-      "summary": "Article URL: https://joeyh.name/blog/entry/no_LLM_code_in_dependencies/ Comments URL: https://news.ycombinator.com/item?id=48762008 Points: 117 # Comments: 109",
+      "summary": "Article URL: https://joeyh.name/blog/entry/no_LLM_code_in_dependencies/ Comments URL: https://news.ycombinator.com/item?id=48762008 Points: 117 # Comments: 111",
       "source": "Hacker News",
       "published": "2026-07-02T14:17:23+00:00",
       "link": "https://joeyh.name/blog/entry/no_LLM_code_in_dependencies/"
@@ -157,7 +199,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI can't be listed as inventor on patent applications, Japan's top court rules",
-      "summary": "Article URL: https://japannews.yomiuri.co.jp/science-nature/technology/20260306-314930/ Comments URL: https://news.ycombinator.com/item?id=48761536 Points: 379 # Comments: 199",
+      "summary": "Article URL: https://japannews.yomiuri.co.jp/science-nature/technology/20260306-314930/ Comments URL: https://news.ycombinator.com/item?id=48761536 Points: 384 # Comments: 206",
       "source": "Hacker News",
       "published": "2026-07-02T13:43:41+00:00",
       "link": "https://japannews.yomiuri.co.jp/science-nature/technology/20260306-314930/"
@@ -178,7 +220,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI fake news complaining about how AI fake news is the death of real news",
-      "summary": "Article URL: https://www.niemanlab.org/2026/07/now-were-getting-ai-fake-news-complaining-about-how-ai-fake-news-is-the-death-of-real-news/ Comments URL: https://news.ycombinator.com/item?id=48760598 Points: 157 # Comments: 57",
+      "summary": "Article URL: https://www.niemanlab.org/2026/07/now-were-getting-ai-fake-news-complaining-about-how-ai-fake-news-is-the-death-of-real-news/ Comments URL: https://news.ycombinator.com/item?id=48760598 Points: 157 # Comments: 56",
       "source": "Hacker News",
       "published": "2026-07-02T12:40:36+00:00",
       "link": "https://www.niemanlab.org/2026/07/now-were-getting-ai-fake-news-complaining-about-how-ai-fake-news-is-the-death-of-real-news/"
@@ -1358,48 +1400,6 @@ const FEED_DATA = {
       "source": "Wired",
       "published": "2026-06-26T15:00:00+00:00",
       "link": "https://www.wired.com/story/europe-is-fed-up-and-wants-its-own-ai/"
-    },
-    {
-      "title": "Anthropic’s Mythos mess is only getting worse",
-      "summary": "It's been two weeks since Anthropic took its Mythos-class models offline after a Friday evening ultimatum from the Trump administration. The company sprang into action immediately, sending a barrage of executives to Washington, DC.",
-      "source": "The Verge",
-      "published": "2026-06-26T14:07:03+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/957327/anthropic-mythos-fable-ai-trump-administration-negotiations"
-    },
-    {
-      "title": "OpenAI’s Jalapeño chip is Big Tech’s spiciest move away from Nvidia",
-      "summary": "Nvidia has dominated the AI chip market for years, but the era of total dependence might be ending.",
-      "source": "TechCrunch",
-      "published": "2026-06-26T14:00:00+00:00",
-      "link": "https://techcrunch.com/podcast/openais-jalapeno-chip-is-big-techs-spiciest-move-away-from-nvidia/"
-    },
-    {
-      "title": "The AI backlash is only getting started",
-      "summary": "Article URL: https://www.economist.com/leaders/2026/06/25/the-ai-backlash-is-only-getting-started Comments URL: https://news.ycombinator.com/item?id=48686219 Points: 96 # Comments: 265",
-      "source": "Hacker News",
-      "published": "2026-06-26T13:12:04+00:00",
-      "link": "https://www.economist.com/leaders/2026/06/25/the-ai-backlash-is-only-getting-started"
-    },
-    {
-      "title": "SAP aligns commerce data for AI personalisation",
-      "summary": "SAP aligns fragmented commerce data structures to enable operational AI personalisation at the execution layer. Enterprise leadership routinely establishes objectives to anticipate customer requirements and deliver relevant interactions across digital touchpoints.",
-      "source": "AI News",
-      "published": "2026-06-26T12:55:48+00:00",
-      "link": "https://www.artificialintelligence-news.com/news/sap-aligns-commerce-data-for-ai-personalisation/"
-    },
-    {
-      "title": "Altman won't go public for less than $1 trillion, so OpenAI's IPO may slip to 2027",
-      "summary": "Advisors are telling OpenAI to hold off on going public until next year. The triggers: volatile tech markets and SpaceX's weak stock performance after its record IPO.",
-      "source": "The Decoder",
-      "published": "2026-06-26T12:43:53+00:00",
-      "link": "https://the-decoder.com/altman-wont-go-public-for-less-than-1-trillion-so-openais-ipo-may-slip-to-2027/"
-    },
-    {
-      "title": "The Download: brain-melting heatwaves and unprecedented OpenAI restrictions",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Heat waves mess with your brain.",
-      "source": "MIT Tech Review",
-      "published": "2026-06-26T12:10:00+00:00",
-      "link": "https://www.technologyreview.com/2026/06/26/1139780/the-download-heatwaves-brain-health-openai-restrictions/"
     }
   ]
 };
