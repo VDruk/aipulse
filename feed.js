@@ -1,6 +1,20 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-07-02T22:00:29.712118+00:00",
+  "lastUpdated": "2026-07-03T04:40:04.907732+00:00",
   "items": [
+    {
+      "title": "Right to Local Intelligence",
+      "summary": "Article URL: https://righttointelligence.org/ Comments URL: https://news.ycombinator.com/item?id=48768951 Points: 86 # Comments: 37",
+      "source": "Hacker News",
+      "published": "2026-07-02T23:54:03+00:00",
+      "link": "https://righttointelligence.org/"
+    },
+    {
+      "title": "Mark Zuckerberg tells staff that AI agents haven’t progressed as quickly as he’d hoped",
+      "summary": "At an internal meeting, the Meta CEO reportedly said that AI development efforts were not moving as quickly as anticipated.",
+      "source": "TechCrunch",
+      "published": "2026-07-02T23:38:10+00:00",
+      "link": "https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/"
+    },
     {
       "title": "Jersey Mike’s IPO illustrates how bad the AI hype has become",
       "summary": "Just for kicks, I took a look at Jersey Mike's IPO documents. Surely a sandwich shop would have no need to mention AI.",
@@ -14,6 +28,20 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-07-02T19:18:29+00:00",
       "link": "https://the-decoder.com/microsoft-launches-2-5-billion-frontier-company-to-embed-6000-ai-engineers-inside-enterprise-clients/"
+    },
+    {
+      "title": "The short leash AI coding method for beating Fable",
+      "summary": "Article URL: https://blog.okturtles.org/2026/07/short-leash-ai-method/ Comments URL: https://news.ycombinator.com/item?id=48766026 Points: 83 # Comments: 94",
+      "source": "Hacker News",
+      "published": "2026-07-02T19:11:57+00:00",
+      "link": "https://blog.okturtles.org/2026/07/short-leash-ai-method/"
+    },
+    {
+      "title": "Claude-real-video － any LLM can watch a video",
+      "summary": "Article URL: https://github.com/HUANGCHIHHUNGLeo/claude-real-video Comments URL: https://news.ycombinator.com/item?id=48766005 Points: 97 # Comments: 29",
+      "source": "Hacker News",
+      "published": "2026-07-02T19:10:12+00:00",
+      "link": "https://github.com/HUANGCHIHHUNGLeo/claude-real-video"
     },
     {
       "title": "Meta quietly launches vibe-coded gaming app Pocket",
@@ -42,6 +70,13 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-07-02T17:30:57+00:00",
       "link": "https://the-decoder.com/anthropic-reportedly-explores-custom-chip-manufacturing-with-samsung-while-insisting-nvidia-still-matters/"
+    },
+    {
+      "title": "Weird Al Yankovic Pulled Out of AI Ad Deal: 'I Can't Be the Poster Boy for AI'",
+      "summary": "Article URL: https://variety.com/2026/biz/news/weird-al-yankovic-rejected-ai-commercial-money-offer-1236800794/ Comments URL: https://news.ycombinator.com/item?id=48764326 Points: 62 # Comments: 36",
+      "source": "Hacker News",
+      "published": "2026-07-02T17:03:30+00:00",
+      "link": "https://variety.com/2026/biz/news/weird-al-yankovic-rejected-ai-commercial-money-offer-1236800794/"
     },
     {
       "title": "Anthropic says it cut 80 percent of Claude Code's system prompt because Fable 5 models \"want a smaller system prompt\"",
@@ -73,7 +108,7 @@ const FEED_DATA = {
     },
     {
       "title": "No LLM Code in Dependencies",
-      "summary": "Article URL: https://joeyh.name/blog/entry/no_LLM_code_in_dependencies/ Comments URL: https://news.ycombinator.com/item?id=48762008 Points: 101 # Comments: 84",
+      "summary": "Article URL: https://joeyh.name/blog/entry/no_LLM_code_in_dependencies/ Comments URL: https://news.ycombinator.com/item?id=48762008 Points: 116 # Comments: 98",
       "source": "Hacker News",
       "published": "2026-07-02T14:17:23+00:00",
       "link": "https://joeyh.name/blog/entry/no_LLM_code_in_dependencies/"
@@ -87,7 +122,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI can't be listed as inventor on patent applications, Japan's top court rules",
-      "summary": "Article URL: https://japannews.yomiuri.co.jp/science-nature/technology/20260306-314930/ Comments URL: https://news.ycombinator.com/item?id=48761536 Points: 333 # Comments: 180",
+      "summary": "Article URL: https://japannews.yomiuri.co.jp/science-nature/technology/20260306-314930/ Comments URL: https://news.ycombinator.com/item?id=48761536 Points: 363 # Comments: 192",
       "source": "Hacker News",
       "published": "2026-07-02T13:43:41+00:00",
       "link": "https://japannews.yomiuri.co.jp/science-nature/technology/20260306-314930/"
@@ -108,7 +143,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI fake news complaining about how AI fake news is the death of real news",
-      "summary": "Article URL: https://www.niemanlab.org/2026/07/now-were-getting-ai-fake-news-complaining-about-how-ai-fake-news-is-the-death-of-real-news/ Comments URL: https://news.ycombinator.com/item?id=48760598 Points: 148 # Comments: 52",
+      "summary": "Article URL: https://www.niemanlab.org/2026/07/now-were-getting-ai-fake-news-complaining-about-how-ai-fake-news-is-the-death-of-real-news/ Comments URL: https://news.ycombinator.com/item?id=48760598 Points: 154 # Comments: 53",
       "source": "Hacker News",
       "published": "2026-07-02T12:40:36+00:00",
       "link": "https://www.niemanlab.org/2026/07/now-were-getting-ai-fake-news-complaining-about-how-ai-fake-news-is-the-death-of-real-news/"
@@ -157,7 +192,7 @@ const FEED_DATA = {
     },
     {
       "title": "The gauge broke: devs felt 20% faster with AI, measured 19% slower (2025)",
-      "summary": "Article URL: https://intrepidkarthi.com/writing/the-gauge-broke/ Comments URL: https://news.ycombinator.com/item?id=48757440 Points: 76 # Comments: 96",
+      "summary": "Article URL: https://intrepidkarthi.com/writing/the-gauge-broke/ Comments URL: https://news.ycombinator.com/item?id=48757440 Points: 77 # Comments: 98",
       "source": "Hacker News",
       "published": "2026-07-02T06:44:34+00:00",
       "link": "https://intrepidkarthi.com/writing/the-gauge-broke/"
@@ -171,7 +206,7 @@ const FEED_DATA = {
     },
     {
       "title": "Meta caps internal AI token spending",
-      "summary": "Article URL: https://mlq.ai/news/meta-caps-internal-ai-token-spending-after-costs-approach-billions-in-2026/ Comments URL: https://news.ycombinator.com/item?id=48754713 Points: 145 # Comments: 143",
+      "summary": "Article URL: https://mlq.ai/news/meta-caps-internal-ai-token-spending-after-costs-approach-billions-in-2026/ Comments URL: https://news.ycombinator.com/item?id=48754713 Points: 146 # Comments: 146",
       "source": "Hacker News",
       "published": "2026-07-01T23:58:48+00:00",
       "link": "https://mlq.ai/news/meta-caps-internal-ai-token-spending-after-costs-approach-billions-in-2026/"
@@ -353,7 +388,7 @@ const FEED_DATA = {
     },
     {
       "title": "How employment changes when firms adopt generative AI",
-      "summary": "Article URL: https://ramp.com/data/ai-jobs-impact Comments URL: https://news.ycombinator.com/item?id=48742176 Points: 53 # Comments: 48",
+      "summary": "Article URL: https://ramp.com/data/ai-jobs-impact Comments URL: https://news.ycombinator.com/item?id=48742176 Points: 53 # Comments: 50",
       "source": "Hacker News",
       "published": "2026-07-01T04:14:11+00:00",
       "link": "https://ramp.com/data/ai-jobs-impact"
@@ -507,7 +542,7 @@ const FEED_DATA = {
     },
     {
       "title": "Scammers Sell Seeds for Exotic AI-Generated Flowers That Don't Exist",
-      "summary": "Article URL: https://www.404media.co/scammers-sell-seeds-for-exotic-ai-generated-flowers-that-dont-exist/ Comments URL: https://news.ycombinator.com/item?id=48734389 Points: 50 # Comments: 34",
+      "summary": "Article URL: https://www.404media.co/scammers-sell-seeds-for-exotic-ai-generated-flowers-that-dont-exist/ Comments URL: https://news.ycombinator.com/item?id=48734389 Points: 50 # Comments: 36",
       "source": "Hacker News",
       "published": "2026-06-30T15:45:32+00:00",
       "link": "https://www.404media.co/scammers-sell-seeds-for-exotic-ai-generated-flowers-that-dont-exist/"
@@ -1365,41 +1400,6 @@ const FEED_DATA = {
       "source": "Hacker News",
       "published": "2026-06-26T07:44:11+00:00",
       "link": "https://aditya.patadia.org/p/ai-and-cloud-costs"
-    },
-    {
-      "title": "US Govt to individually approve who gets GPT 5.6",
-      "summary": "Article URL: https://old.reddit.com/r/LocalLLaMA/comments/1ufo0un/us_govt_to_individually_approve_who_gets_gpt_56/ Comments URL: https://news.ycombinator.com/item?id=48683021 Points: 144 # Comments: 1",
-      "source": "Hacker News",
-      "published": "2026-06-26T06:24:39+00:00",
-      "link": "https://old.reddit.com/r/LocalLLaMA/comments/1ufo0un/us_govt_to_individually_approve_who_gets_gpt_56/"
-    },
-    {
-      "title": "What happened after 2k people tried to hack my AI assistant",
-      "summary": "Article URL: https://www.fernandoi.cl/posts/hackmyclaw/ Comments URL: https://news.ycombinator.com/item?id=48681687 Points: 372 # Comments: 160",
-      "source": "Hacker News",
-      "published": "2026-06-26T02:29:23+00:00",
-      "link": "https://www.fernandoi.cl/posts/hackmyclaw/"
-    },
-    {
-      "title": "AI children's books, body horror edition",
-      "summary": "Article URL: https://lcamtuf.substack.com/p/ai-childrens-books-body-horror-edition Comments URL: https://news.ycombinator.com/item?id=48681250 Points: 213 # Comments: 77",
-      "source": "Hacker News",
-      "published": "2026-06-26T01:15:14+00:00",
-      "link": "https://lcamtuf.substack.com/p/ai-childrens-books-body-horror-edition"
-    },
-    {
-      "title": "Anthropic Thinks Its Own Success Is Key to Making AI Safe",
-      "summary": "Anthropic's critics argue it's rapidly accumulating power. The company says that's what responsible AI development looks like.",
-      "source": "Wired",
-      "published": "2026-06-26T00:49:13+00:00",
-      "link": "https://www.wired.com/story/anthropic-thinks-ai-can-only-be-safe-under-its-control/"
-    },
-    {
-      "title": "The White House is asking OpenAI to slow roll the release of its new model over safety concerns",
-      "summary": "OpenAI reportedly plans to share its newest model, GPT 5.6, with a select group of partners instead of with the broader public. The reason: the Trump administration told it to.",
-      "source": "TechCrunch",
-      "published": "2026-06-25T23:34:39+00:00",
-      "link": "https://techcrunch.com/2026/06/25/the-white-house-is-asking-openai-to-slow-roll-the-release-of-its-new-model-over-safety-concerns/"
     }
   ]
 };
