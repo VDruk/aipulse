@@ -1,9 +1,9 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-07-03T04:40:04.907732+00:00",
+  "lastUpdated": "2026-07-03T08:11:45.257407+00:00",
   "items": [
     {
       "title": "Right to Local Intelligence",
-      "summary": "Article URL: https://righttointelligence.org/ Comments URL: https://news.ycombinator.com/item?id=48768951 Points: 86 # Comments: 37",
+      "summary": "Article URL: https://righttointelligence.org/ Comments URL: https://news.ycombinator.com/item?id=48768951 Points: 195 # Comments: 68",
       "source": "Hacker News",
       "published": "2026-07-02T23:54:03+00:00",
       "link": "https://righttointelligence.org/"
@@ -31,14 +31,14 @@ const FEED_DATA = {
     },
     {
       "title": "The short leash AI coding method for beating Fable",
-      "summary": "Article URL: https://blog.okturtles.org/2026/07/short-leash-ai-method/ Comments URL: https://news.ycombinator.com/item?id=48766026 Points: 83 # Comments: 94",
+      "summary": "Article URL: https://blog.okturtles.org/2026/07/short-leash-ai-method/ Comments URL: https://news.ycombinator.com/item?id=48766026 Points: 120 # Comments: 140",
       "source": "Hacker News",
       "published": "2026-07-02T19:11:57+00:00",
       "link": "https://blog.okturtles.org/2026/07/short-leash-ai-method/"
     },
     {
       "title": "Claude-real-video － any LLM can watch a video",
-      "summary": "Article URL: https://github.com/HUANGCHIHHUNGLeo/claude-real-video Comments URL: https://news.ycombinator.com/item?id=48766005 Points: 97 # Comments: 29",
+      "summary": "Article URL: https://github.com/HUANGCHIHHUNGLeo/claude-real-video Comments URL: https://news.ycombinator.com/item?id=48766005 Points: 130 # Comments: 41",
       "source": "Hacker News",
       "published": "2026-07-02T19:10:12+00:00",
       "link": "https://github.com/HUANGCHIHHUNGLeo/claude-real-video"
@@ -73,7 +73,7 @@ const FEED_DATA = {
     },
     {
       "title": "Weird Al Yankovic Pulled Out of AI Ad Deal: 'I Can't Be the Poster Boy for AI'",
-      "summary": "Article URL: https://variety.com/2026/biz/news/weird-al-yankovic-rejected-ai-commercial-money-offer-1236800794/ Comments URL: https://news.ycombinator.com/item?id=48764326 Points: 62 # Comments: 36",
+      "summary": "Article URL: https://variety.com/2026/biz/news/weird-al-yankovic-rejected-ai-commercial-money-offer-1236800794/ Comments URL: https://news.ycombinator.com/item?id=48764326 Points: 66 # Comments: 37",
       "source": "Hacker News",
       "published": "2026-07-02T17:03:30+00:00",
       "link": "https://variety.com/2026/biz/news/weird-al-yankovic-rejected-ai-commercial-money-offer-1236800794/"
@@ -108,7 +108,7 @@ const FEED_DATA = {
     },
     {
       "title": "No LLM Code in Dependencies",
-      "summary": "Article URL: https://joeyh.name/blog/entry/no_LLM_code_in_dependencies/ Comments URL: https://news.ycombinator.com/item?id=48762008 Points: 116 # Comments: 98",
+      "summary": "Article URL: https://joeyh.name/blog/entry/no_LLM_code_in_dependencies/ Comments URL: https://news.ycombinator.com/item?id=48762008 Points: 116 # Comments: 106",
       "source": "Hacker News",
       "published": "2026-07-02T14:17:23+00:00",
       "link": "https://joeyh.name/blog/entry/no_LLM_code_in_dependencies/"
@@ -122,7 +122,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI can't be listed as inventor on patent applications, Japan's top court rules",
-      "summary": "Article URL: https://japannews.yomiuri.co.jp/science-nature/technology/20260306-314930/ Comments URL: https://news.ycombinator.com/item?id=48761536 Points: 363 # Comments: 192",
+      "summary": "Article URL: https://japannews.yomiuri.co.jp/science-nature/technology/20260306-314930/ Comments URL: https://news.ycombinator.com/item?id=48761536 Points: 372 # Comments: 195",
       "source": "Hacker News",
       "published": "2026-07-02T13:43:41+00:00",
       "link": "https://japannews.yomiuri.co.jp/science-nature/technology/20260306-314930/"
@@ -143,7 +143,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI fake news complaining about how AI fake news is the death of real news",
-      "summary": "Article URL: https://www.niemanlab.org/2026/07/now-were-getting-ai-fake-news-complaining-about-how-ai-fake-news-is-the-death-of-real-news/ Comments URL: https://news.ycombinator.com/item?id=48760598 Points: 154 # Comments: 53",
+      "summary": "Article URL: https://www.niemanlab.org/2026/07/now-were-getting-ai-fake-news-complaining-about-how-ai-fake-news-is-the-death-of-real-news/ Comments URL: https://news.ycombinator.com/item?id=48760598 Points: 156 # Comments: 57",
       "source": "Hacker News",
       "published": "2026-07-02T12:40:36+00:00",
       "link": "https://www.niemanlab.org/2026/07/now-were-getting-ai-fake-news-complaining-about-how-ai-fake-news-is-the-death-of-real-news/"
@@ -206,7 +206,7 @@ const FEED_DATA = {
     },
     {
       "title": "Meta caps internal AI token spending",
-      "summary": "Article URL: https://mlq.ai/news/meta-caps-internal-ai-token-spending-after-costs-approach-billions-in-2026/ Comments URL: https://news.ycombinator.com/item?id=48754713 Points: 146 # Comments: 146",
+      "summary": "Article URL: https://mlq.ai/news/meta-caps-internal-ai-token-spending-after-costs-approach-billions-in-2026/ Comments URL: https://news.ycombinator.com/item?id=48754713 Points: 146 # Comments: 147",
       "source": "Hacker News",
       "published": "2026-07-01T23:58:48+00:00",
       "link": "https://mlq.ai/news/meta-caps-internal-ai-token-spending-after-costs-approach-billions-in-2026/"
