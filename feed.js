@@ -1,6 +1,13 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-07-04T04:33:32.205312+00:00",
+  "lastUpdated": "2026-07-04T07:48:38.890469+00:00",
   "items": [
+    {
+      "title": "Mistral's open-source Leanstral 1.5 aces formal math benchmarks and catches real bugs in code",
+      "summary": "Mistral AI released Leanstral 1.5, an open-source model for formal verification in Lean 4. Beyond math, the model found five previously unknown bugs while scanning 57 open-source repositories.",
+      "source": "The Decoder",
+      "published": "2026-07-04T07:12:47+00:00",
+      "link": "https://the-decoder.com/mistrals-open-source-leanstral-1-5-aces-formal-math-benchmarks-and-catches-real-bugs-in-code/"
+    },
     {
       "title": "The only AI glossary you’ll need this year",
       "summary": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.",
@@ -10,7 +17,7 @@ const FEED_DATA = {
     },
     {
       "title": "Kagi Changelog (July 2): Heads, tails, and an AI toggle",
-      "summary": "Article URL: https://kagi.com/changelog#10959 Comments URL: https://news.ycombinator.com/item?id=48779352 Points: 57 # Comments: 12",
+      "summary": "Article URL: https://kagi.com/changelog#10959 Comments URL: https://news.ycombinator.com/item?id=48779352 Points: 62 # Comments: 12",
       "source": "Hacker News",
       "published": "2026-07-03T20:08:01+00:00",
       "link": "https://kagi.com/changelog#10959"
@@ -38,7 +45,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI saves about 3% of your hours, and almost none of it reaches the money",
-      "summary": "Article URL: https://okaneland.com/study/ai-productivity-roi-at-work/ Comments URL: https://news.ycombinator.com/item?id=48777257 Points: 72 # Comments: 87",
+      "summary": "Article URL: https://okaneland.com/study/ai-productivity-roi-at-work/ Comments URL: https://news.ycombinator.com/item?id=48777257 Points: 73 # Comments: 90",
       "source": "Hacker News",
       "published": "2026-07-03T17:03:22+00:00",
       "link": "https://okaneland.com/study/ai-productivity-roi-at-work/"
@@ -66,7 +73,7 @@ const FEED_DATA = {
     },
     {
       "title": "Instead of banning AI, I made a classroom contract with my students",
-      "summary": "Article URL: https://www.science.org/content/article/instead-banning-ai-i-made-classroom-contract-my-students Comments URL: https://news.ycombinator.com/item?id=48775499 Points: 72 # Comments: 80",
+      "summary": "Article URL: https://www.science.org/content/article/instead-banning-ai-i-made-classroom-contract-my-students Comments URL: https://news.ycombinator.com/item?id=48775499 Points: 74 # Comments: 83",
       "source": "Hacker News",
       "published": "2026-07-03T14:28:33+00:00",
       "link": "https://www.science.org/content/article/instead-banning-ai-i-made-classroom-contract-my-students"
@@ -80,7 +87,7 @@ const FEED_DATA = {
     },
     {
       "title": "Please stop the AI confidence theater",
-      "summary": "Article URL: https://www.elenaverna.com/p/please-stop-the-ai-confidence-theater Comments URL: https://news.ycombinator.com/item?id=48774414 Points: 227 # Comments: 242",
+      "summary": "Article URL: https://www.elenaverna.com/p/please-stop-the-ai-confidence-theater Comments URL: https://news.ycombinator.com/item?id=48774414 Points: 228 # Comments: 244",
       "source": "Hacker News",
       "published": "2026-07-03T12:51:17+00:00",
       "link": "https://www.elenaverna.com/p/please-stop-the-ai-confidence-theater"
@@ -157,7 +164,7 @@ const FEED_DATA = {
     },
     {
       "title": "Protect your right to run local AI",
-      "summary": "Article URL: https://righttointelligence.org/ Comments URL: https://news.ycombinator.com/item?id=48768951 Points: 501 # Comments: 179",
+      "summary": "Article URL: https://righttointelligence.org/ Comments URL: https://news.ycombinator.com/item?id=48768951 Points: 512 # Comments: 180",
       "source": "Hacker News",
       "published": "2026-07-02T23:54:03+00:00",
       "link": "https://righttointelligence.org/"
@@ -199,14 +206,14 @@ const FEED_DATA = {
     },
     {
       "title": "The short leash AI coding method for beating Fable",
-      "summary": "Article URL: https://blog.okturtles.org/2026/07/short-leash-ai-method/ Comments URL: https://news.ycombinator.com/item?id=48766026 Points: 189 # Comments: 232",
+      "summary": "Article URL: https://blog.okturtles.org/2026/07/short-leash-ai-method/ Comments URL: https://news.ycombinator.com/item?id=48766026 Points: 192 # Comments: 238",
       "source": "Hacker News",
       "published": "2026-07-02T19:11:57+00:00",
       "link": "https://blog.okturtles.org/2026/07/short-leash-ai-method/"
     },
     {
       "title": "Claude-real-video － any LLM can watch a video",
-      "summary": "Article URL: https://github.com/HUANGCHIHHUNGLeo/claude-real-video Comments URL: https://news.ycombinator.com/item?id=48766005 Points: 157 # Comments: 54",
+      "summary": "Article URL: https://github.com/HUANGCHIHHUNGLeo/claude-real-video Comments URL: https://news.ycombinator.com/item?id=48766005 Points: 159 # Comments: 54",
       "source": "Hacker News",
       "published": "2026-07-02T19:10:12+00:00",
       "link": "https://github.com/HUANGCHIHHUNGLeo/claude-real-video"
@@ -297,7 +304,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI can't be listed as inventor on patent applications, Japan's top court rules",
-      "summary": "Article URL: https://japannews.yomiuri.co.jp/science-nature/technology/20260306-314930/ Comments URL: https://news.ycombinator.com/item?id=48761536 Points: 391 # Comments: 207",
+      "summary": "Article URL: https://japannews.yomiuri.co.jp/science-nature/technology/20260306-314930/ Comments URL: https://news.ycombinator.com/item?id=48761536 Points: 393 # Comments: 207",
       "source": "Hacker News",
       "published": "2026-07-02T13:43:41+00:00",
       "link": "https://japannews.yomiuri.co.jp/science-nature/technology/20260306-314930/"
@@ -1393,13 +1400,6 @@ const FEED_DATA = {
       "source": "Hacker News",
       "published": "2026-06-26T22:48:28+00:00",
       "link": "https://www.semafor.com/article/06/27/2026/us-releases-powerful-anthropic-model-mythos-to-some-us-companies"
-    },
-    {
-      "title": "AI in mathematics is forcing big questions",
-      "summary": "Article URL: https://spectrum.ieee.org/ai-in-mathematics Comments URL: https://news.ycombinator.com/item?id=48692883 Points: 210 # Comments: 179",
-      "source": "Hacker News",
-      "published": "2026-06-26T22:36:51+00:00",
-      "link": "https://spectrum.ieee.org/ai-in-mathematics"
     }
   ]
 };
