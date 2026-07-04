@@ -1,6 +1,20 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-07-04T10:46:17.943048+00:00",
+  "lastUpdated": "2026-07-04T14:39:32.162160+00:00",
   "items": [
+    {
+      "title": "Anthropic developer shares prompting tips for Fable 5 that focus on finding your own blind spots first",
+      "summary": "Anthropic developer Thariq Shihipar argues that with Claude's new model, Fable 5, the bottleneck is no longer the model itself but the user's blind spots.",
+      "source": "The Decoder",
+      "published": "2026-07-04T12:37:51+00:00",
+      "link": "https://the-decoder.com/anthropic-developer-shares-prompting-tips-for-fable-5-that-focus-on-finding-your-own-blind-spots-first/"
+    },
+    {
+      "title": "The fanfiction community is at war with AI — and itself",
+      "summary": "Over the past week, a new fanworks movement has kicked off, with the aim to root out authors using generative AI. But the detection methods being implemented are questionable, and any fanfic writer could be caught in the crossfire.",
+      "source": "The Verge",
+      "published": "2026-07-04T12:00:00+00:00",
+      "link": "https://www.theverge.com/tech/960854/ai-fanfiction-ao3-claude-detector"
+    },
     {
       "title": "OpenAI cofounder envisions \"almost no interface\" future where nobody learns software anymore",
       "summary": "Greg Brockman admits ChatGPT's plugins, heavily marketed in 2023, failed \"because the models weren't ready.\" Instead of app extensions, he sees the future in an invisible, context-aware agent. But OpenAI's own Codex is still light-years from that vision.",
@@ -38,7 +52,7 @@ const FEED_DATA = {
     },
     {
       "title": "Kagi Changelog (July 2): Heads, tails, and an AI toggle",
-      "summary": "Article URL: https://kagi.com/changelog#10959 Comments URL: https://news.ycombinator.com/item?id=48779352 Points: 62 # Comments: 12",
+      "summary": "Article URL: https://kagi.com/changelog#10959 Comments URL: https://news.ycombinator.com/item?id=48779352 Points: 63 # Comments: 13",
       "source": "Hacker News",
       "published": "2026-07-03T20:08:01+00:00",
       "link": "https://kagi.com/changelog#10959"
@@ -66,7 +80,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI saves about 3% of your hours, and almost none of it reaches the money",
-      "summary": "Article URL: https://okaneland.com/study/ai-productivity-roi-at-work/ Comments URL: https://news.ycombinator.com/item?id=48777257 Points: 73 # Comments: 90",
+      "summary": "Article URL: https://okaneland.com/study/ai-productivity-roi-at-work/ Comments URL: https://news.ycombinator.com/item?id=48777257 Points: 75 # Comments: 90",
       "source": "Hacker News",
       "published": "2026-07-03T17:03:22+00:00",
       "link": "https://okaneland.com/study/ai-productivity-roi-at-work/"
@@ -94,7 +108,7 @@ const FEED_DATA = {
     },
     {
       "title": "Instead of banning AI, I made a classroom contract with my students",
-      "summary": "Article URL: https://www.science.org/content/article/instead-banning-ai-i-made-classroom-contract-my-students Comments URL: https://news.ycombinator.com/item?id=48775499 Points: 74 # Comments: 83",
+      "summary": "Article URL: https://www.science.org/content/article/instead-banning-ai-i-made-classroom-contract-my-students Comments URL: https://news.ycombinator.com/item?id=48775499 Points: 78 # Comments: 86",
       "source": "Hacker News",
       "published": "2026-07-03T14:28:33+00:00",
       "link": "https://www.science.org/content/article/instead-banning-ai-i-made-classroom-contract-my-students"
@@ -108,7 +122,7 @@ const FEED_DATA = {
     },
     {
       "title": "Please stop the AI confidence theater",
-      "summary": "Article URL: https://www.elenaverna.com/p/please-stop-the-ai-confidence-theater Comments URL: https://news.ycombinator.com/item?id=48774414 Points: 228 # Comments: 244",
+      "summary": "Article URL: https://www.elenaverna.com/p/please-stop-the-ai-confidence-theater Comments URL: https://news.ycombinator.com/item?id=48774414 Points: 231 # Comments: 251",
       "source": "Hacker News",
       "published": "2026-07-03T12:51:17+00:00",
       "link": "https://www.elenaverna.com/p/please-stop-the-ai-confidence-theater"
@@ -185,7 +199,7 @@ const FEED_DATA = {
     },
     {
       "title": "Protect your right to run local AI",
-      "summary": "Article URL: https://righttointelligence.org/ Comments URL: https://news.ycombinator.com/item?id=48768951 Points: 512 # Comments: 180",
+      "summary": "Article URL: https://righttointelligence.org/ Comments URL: https://news.ycombinator.com/item?id=48768951 Points: 525 # Comments: 186",
       "source": "Hacker News",
       "published": "2026-07-02T23:54:03+00:00",
       "link": "https://righttointelligence.org/"
@@ -227,14 +241,14 @@ const FEED_DATA = {
     },
     {
       "title": "The short leash AI coding method for beating Fable",
-      "summary": "Article URL: https://blog.okturtles.org/2026/07/short-leash-ai-method/ Comments URL: https://news.ycombinator.com/item?id=48766026 Points: 192 # Comments: 238",
+      "summary": "Article URL: https://blog.okturtles.org/2026/07/short-leash-ai-method/ Comments URL: https://news.ycombinator.com/item?id=48766026 Points: 193 # Comments: 241",
       "source": "Hacker News",
       "published": "2026-07-02T19:11:57+00:00",
       "link": "https://blog.okturtles.org/2026/07/short-leash-ai-method/"
     },
     {
       "title": "Claude-real-video － any LLM can watch a video",
-      "summary": "Article URL: https://github.com/HUANGCHIHHUNGLeo/claude-real-video Comments URL: https://news.ycombinator.com/item?id=48766005 Points: 159 # Comments: 54",
+      "summary": "Article URL: https://github.com/HUANGCHIHHUNGLeo/claude-real-video Comments URL: https://news.ycombinator.com/item?id=48766005 Points: 160 # Comments: 54",
       "source": "Hacker News",
       "published": "2026-07-02T19:10:12+00:00",
       "link": "https://github.com/HUANGCHIHHUNGLeo/claude-real-video"
@@ -276,7 +290,7 @@ const FEED_DATA = {
     },
     {
       "title": "Weird Al Yankovic Pulled Out of AI Ad Deal: 'I Can't Be the Poster Boy for AI'",
-      "summary": "Article URL: https://variety.com/2026/biz/news/weird-al-yankovic-rejected-ai-commercial-money-offer-1236800794/ Comments URL: https://news.ycombinator.com/item?id=48764326 Points: 73 # Comments: 46",
+      "summary": "Article URL: https://variety.com/2026/biz/news/weird-al-yankovic-rejected-ai-commercial-money-offer-1236800794/ Comments URL: https://news.ycombinator.com/item?id=48764326 Points: 74 # Comments: 46",
       "source": "Hacker News",
       "published": "2026-07-02T17:03:30+00:00",
       "link": "https://variety.com/2026/biz/news/weird-al-yankovic-rejected-ai-commercial-money-offer-1236800794/"
@@ -325,7 +339,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI can't be listed as inventor on patent applications, Japan's top court rules",
-      "summary": "Article URL: https://japannews.yomiuri.co.jp/science-nature/technology/20260306-314930/ Comments URL: https://news.ycombinator.com/item?id=48761536 Points: 393 # Comments: 207",
+      "summary": "Article URL: https://japannews.yomiuri.co.jp/science-nature/technology/20260306-314930/ Comments URL: https://news.ycombinator.com/item?id=48761536 Points: 394 # Comments: 207",
       "source": "Hacker News",
       "published": "2026-07-02T13:43:41+00:00",
       "link": "https://japannews.yomiuri.co.jp/science-nature/technology/20260306-314930/"
@@ -1386,20 +1400,6 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-06-27T07:48:29+00:00",
       "link": "https://the-decoder.com/bytedances-illada-is-a-diffusion-language-model-that-keeps-up-with-qwen2-5/"
-    },
-    {
-      "title": "Trump administration releases Anthropic Mythos to be used by more than 100 US companies, agencies",
-      "summary": "Over 100 companies and government agencies are reportedly authorized to use Mythos 5, including their non-American employees.",
-      "source": "TechCrunch",
-      "published": "2026-06-27T01:01:37+00:00",
-      "link": "https://techcrunch.com/2026/06/26/trump-admin-releases-anthropic-mythos-to-be-used-by-more-than-100-us-companies-agencies/"
-    },
-    {
-      "title": "Trump Admin releases Anthropic Mythos to be used by more than 100 US companies, agencies",
-      "summary": "Over 100 companies and government agencies are reportedly authorized to use Mythos 5, including their non-American employees.",
-      "source": "TechCrunch",
-      "published": "2026-06-27T01:01:37+00:00",
-      "link": "https://techcrunch.com/2026/06/26/trump-admin-releases-anthropic-mythos-to-be-used-by-more-than-100-us-companies-agencies/"
     }
   ]
 };
