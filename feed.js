@@ -1,6 +1,27 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-07-04T07:48:38.890469+00:00",
+  "lastUpdated": "2026-07-04T10:46:17.943048+00:00",
   "items": [
+    {
+      "title": "OpenAI cofounder envisions \"almost no interface\" future where nobody learns software anymore",
+      "summary": "Greg Brockman admits ChatGPT's plugins, heavily marketed in 2023, failed \"because the models weren't ready.\" Instead of app extensions, he sees the future in an invisible, context-aware agent. But OpenAI's own Codex is still light-years from that vision.",
+      "source": "The Decoder",
+      "published": "2026-07-04T09:53:21+00:00",
+      "link": "https://the-decoder.com/openai-cofounder-envisions-almost-no-interface-future-where-nobody-learns-software-anymore/"
+    },
+    {
+      "title": "A 26,000-student study shows AI's hidden learning cost takes two full years to surface",
+      "summary": "A study of more than 26,000 Chinese students found that AI users finished homework faster and scored higher but performed up to 24 percent worse on exams.",
+      "source": "The Decoder",
+      "published": "2026-07-04T09:08:41+00:00",
+      "link": "https://the-decoder.com/a-26000-student-study-shows-ais-hidden-learning-cost-takes-two-full-years-to-surface/"
+    },
+    {
+      "title": "Anthropic launches its own drug discovery programs to tackle diseases Big Pharma considers unprofitable",
+      "summary": "Anthropic is launching its own drug development program for neglected diseases that the pharmaceutical industry considers unprofitable.",
+      "source": "The Decoder",
+      "published": "2026-07-04T08:11:18+00:00",
+      "link": "https://the-decoder.com/anthropic-launches-its-own-drug-discovery-programs-to-tackle-diseases-big-pharma-considers-unprofitable/"
+    },
     {
       "title": "Mistral's open-source Leanstral 1.5 aces formal math benchmarks and catches real bugs in code",
       "summary": "Mistral AI released Leanstral 1.5, an open-source model for formal verification in Lean 4. Beyond math, the model found five previously unknown bugs while scanning 57 open-source repositories.",
@@ -1379,27 +1400,6 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-06-27T01:01:37+00:00",
       "link": "https://techcrunch.com/2026/06/26/trump-admin-releases-anthropic-mythos-to-be-used-by-more-than-100-us-companies-agencies/"
-    },
-    {
-      "title": "Anthropic’s Mythos 5 is back",
-      "summary": "After a rollercoaster negotiation process with the Trump administration that dragged on for two weeks, Anthropic's Mythos 5 is finally back in action - at least, somewhat, for a select group of organizations, according to a letter from the government to Anthropic that was viewed...",
-      "source": "The Verge",
-      "published": "2026-06-27T00:33:44+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/958458/anthropic-mythos-5-is-back-trump-negotiations"
-    },
-    {
-      "title": "Trump Administration Allows Anthropic to Release Mythos to Select US Organizations",
-      "summary": "After weeks of negotiations, the White House permitted Anthropic to grant access to its most advanced AI model to a select group of US companies and government agencies.",
-      "source": "Wired",
-      "published": "2026-06-27T00:26:14+00:00",
-      "link": "https://www.wired.com/story/anthropic-restores-access-to-mythos/"
-    },
-    {
-      "title": "U.S. allows Anthropic to release Mythos AI to ‘trusted’ US organizations",
-      "summary": "https://archive.md/ArXuFhttps://www.nbcnews.com/tech/tech-news/us-government-gives-a... Comments URL: https://news.ycombinator.com/item?id=48692995 Points: 553 # Comments: 800",
-      "source": "Hacker News",
-      "published": "2026-06-26T22:48:28+00:00",
-      "link": "https://www.semafor.com/article/06/27/2026/us-releases-powerful-anthropic-model-mythos-to-some-us-companies"
     }
   ]
 };
