@@ -1,6 +1,27 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-07-05T08:03:06.708952+00:00",
+  "lastUpdated": "2026-07-05T10:55:28.453502+00:00",
   "items": [
+    {
+      "title": "AI private schools sell wealthy US families on personalized learning over traditional education",
+      "summary": "Wealthy US families are increasingly sending their kids to AI schools like Alpha School, which combines two hours of AI tutoring with project-based workshops for up to $75,000 a year in tuition.",
+      "source": "The Decoder",
+      "published": "2026-07-05T10:45:46+00:00",
+      "link": "https://the-decoder.com/ai-private-schools-sell-wealthy-us-families-on-personalized-learning-over-traditional-education/"
+    },
+    {
+      "title": "Mistral CEO Mensch says proprietary AI models give labs a front-row seat to your business processes",
+      "summary": "Mistral founder Arthur Mensch warns companies against relying on closed AI models. He claims AI labs are storing more and more customer data and have, in some cases, used it to go after their own customers as competitors.",
+      "source": "The Decoder",
+      "published": "2026-07-05T10:22:06+00:00",
+      "link": "https://the-decoder.com/mistral-ceo-mensch-says-proprietary-ai-models-give-labs-a-front-row-seat-to-your-business-processes/"
+    },
+    {
+      "title": "Hollywood wants Seedance banned and reportedly also wants to keep using it",
+      "summary": "Bytedance's AI video tool Seedance is dividing Hollywood. A viral clip featuring AI-generated Brad Pitt and Tom Cruise prompted the Motion Picture Association's first-ever cease-and-desist against an AI company.",
+      "source": "The Decoder",
+      "published": "2026-07-05T09:02:36+00:00",
+      "link": "https://the-decoder.com/hollywood-wants-seedance-banned-and-reportedly-also-wants-to-keep-using-it/"
+    },
     {
       "title": "AI search agents don't fail at searching, they fail at asking the right questions when queries get ambiguous",
       "summary": "AI search agents rarely fail at multi-step research because of the search itself. Their real problem is not asking the user for clarification when queries are ambiguous.",
@@ -10,7 +31,7 @@ const FEED_DATA = {
     },
     {
       "title": "GPT-5.5 Codex reasoning-token clustering may be leading to degraded performance",
-      "summary": "Article URL: https://github.com/openai/codex/issues/30364 Comments URL: https://news.ycombinator.com/item?id=48789428 Points: 249 # Comments: 89",
+      "summary": "Article URL: https://github.com/openai/codex/issues/30364 Comments URL: https://news.ycombinator.com/item?id=48789428 Points: 283 # Comments: 112",
       "source": "Hacker News",
       "published": "2026-07-04T21:51:09+00:00",
       "link": "https://github.com/openai/codex/issues/30364"
@@ -24,7 +45,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI has torched the market for junior programmers",
-      "summary": "Article URL: https://seldo.com/posts/ai-has-torched-the-market-for-junior-programmers/ Comments URL: https://news.ycombinator.com/item?id=48788361 Points: 89 # Comments: 170",
+      "summary": "Article URL: https://seldo.com/posts/ai-has-torched-the-market-for-junior-programmers/ Comments URL: https://news.ycombinator.com/item?id=48788361 Points: 92 # Comments: 175",
       "source": "Hacker News",
       "published": "2026-07-04T19:50:08+00:00",
       "link": "https://seldo.com/posts/ai-has-torched-the-market-for-junior-programmers/"
@@ -143,7 +164,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI saves about 3% of your hours, and almost none of it reaches the money",
-      "summary": "Article URL: https://okaneland.com/study/ai-productivity-roi-at-work/ Comments URL: https://news.ycombinator.com/item?id=48777257 Points: 76 # Comments: 93",
+      "summary": "Article URL: https://okaneland.com/study/ai-productivity-roi-at-work/ Comments URL: https://news.ycombinator.com/item?id=48777257 Points: 77 # Comments: 94",
       "source": "Hacker News",
       "published": "2026-07-03T17:03:22+00:00",
       "link": "https://okaneland.com/study/ai-productivity-roi-at-work/"
@@ -262,7 +283,7 @@ const FEED_DATA = {
     },
     {
       "title": "Protect your right to run local AI",
-      "summary": "Article URL: https://righttointelligence.org/ Comments URL: https://news.ycombinator.com/item?id=48768951 Points: 543 # Comments: 194",
+      "summary": "Article URL: https://righttointelligence.org/ Comments URL: https://news.ycombinator.com/item?id=48768951 Points: 543 # Comments: 195",
       "source": "Hacker News",
       "published": "2026-07-02T23:54:03+00:00",
       "link": "https://righttointelligence.org/"
@@ -1379,27 +1400,6 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-06-27T17:03:06+00:00",
       "link": "https://the-decoder.com/anthropics-fable-5-could-return-within-days-as-trump-administration-prepares-to-lift-restrictions/"
-    },
-    {
-      "title": "Apple Vision Pro exec is reportedly leaving for OpenAI",
-      "summary": "Paul Meade, the Apple vice president in charge of the Vision Pro headset, is reportedly leaving the company to join OpenAI’s hardware team.",
-      "source": "TechCrunch",
-      "published": "2026-06-27T16:45:09+00:00",
-      "link": "https://techcrunch.com/2026/06/27/apple-vision-pro-exec-is-reportedly-leaving-for-openai/"
-    },
-    {
-      "title": "Half of Claude users say AI can already handle half their work according to Anthropic survey",
-      "summary": "About half of Claude users say AI can already handle 50 percent or more of their work tasks, according to a survey of roughly 9,700 users by Anthropic. In 12 months, 26 percent expect AI to cover 60 to 90 percent of their work.",
-      "source": "The Decoder",
-      "published": "2026-06-27T15:28:59+00:00",
-      "link": "https://the-decoder.com/half-of-claude-users-say-ai-can-already-handle-half-their-work-according-to-anthropic-survey/"
-    },
-    {
-      "title": "The fittest founder in the room got cancer. Here’s how he used AI to fight back.",
-      "summary": "When confronted with cancer, Conno Christou fed everything tied to his regime — blood results, scan data, wearable output, journal entries — into Claude.",
-      "source": "TechCrunch",
-      "published": "2026-06-27T14:00:00+00:00",
-      "link": "https://techcrunch.com/2026/06/27/the-fittest-founder-in-the-room-got-cancer-heres-how-he-used-ai-to-fight-back/"
     }
   ]
 };
