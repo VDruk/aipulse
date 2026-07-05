@@ -1,6 +1,20 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-07-05T14:45:31.125581+00:00",
+  "lastUpdated": "2026-07-05T17:57:28.439176+00:00",
   "items": [
+    {
+      "title": "Claude Code and Fable 5 ported the 2003 PC game Command & Conquer to native iOS in \"a few hours\"",
+      "summary": "A Google Deepmind developer ported the 2003 real-time strategy game \"Command & Conquer: Generals Zero Hour\" to iPhone and iPad using Anthropic's Claude Code. The first build took 40 minutes.",
+      "source": "The Decoder",
+      "published": "2026-07-05T15:58:56+00:00",
+      "link": "https://the-decoder.com/claude-code-and-fable-5-ported-the-2003-pc-game-command-conquer-to-native-ios-in-a-few-hours/"
+    },
+    {
+      "title": "Baidu's \"Unlimited OCR\" processes dozens of document pages in one pass by treating memory like human forgetting",
+      "summary": "Baidu's Unlimited OCR reads dozens of document pages in a single pass, where previous systems topped out at about ten. A modified attention mechanism keeps memory use flat no matter how many pages the model processes.",
+      "source": "The Decoder",
+      "published": "2026-07-05T15:25:07+00:00",
+      "link": "https://the-decoder.com/baidus-unlimited-ocr-processes-dozens-of-document-pages-in-one-pass-by-treating-memory-like-human-forgetting/"
+    },
     {
       "title": "Infuriating Google commercial imagines the founding fathers embracing AI",
       "summary": "\"Group project, but make it 1776.\" That's how a new commercial for Google Workspace opens. And things only get cringier from there.",
@@ -38,7 +52,7 @@ const FEED_DATA = {
     },
     {
       "title": "GPT-5.5 Codex reasoning-token clustering may be leading to degraded performance",
-      "summary": "Article URL: https://github.com/openai/codex/issues/30364 Comments URL: https://news.ycombinator.com/item?id=48789428 Points: 328 # Comments: 127",
+      "summary": "Article URL: https://github.com/openai/codex/issues/30364 Comments URL: https://news.ycombinator.com/item?id=48789428 Points: 344 # Comments: 143",
       "source": "Hacker News",
       "published": "2026-07-04T21:51:09+00:00",
       "link": "https://github.com/openai/codex/issues/30364"
@@ -52,7 +66,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI has torched the market for junior programmers",
-      "summary": "Article URL: https://seldo.com/posts/ai-has-torched-the-market-for-junior-programmers/ Comments URL: https://news.ycombinator.com/item?id=48788361 Points: 93 # Comments: 181",
+      "summary": "Article URL: https://seldo.com/posts/ai-has-torched-the-market-for-junior-programmers/ Comments URL: https://news.ycombinator.com/item?id=48788361 Points: 95 # Comments: 185",
       "source": "Hacker News",
       "published": "2026-07-04T19:50:08+00:00",
       "link": "https://seldo.com/posts/ai-has-torched-the-market-for-junior-programmers/"
@@ -290,7 +304,7 @@ const FEED_DATA = {
     },
     {
       "title": "Protect your right to run local AI",
-      "summary": "Article URL: https://righttointelligence.org/ Comments URL: https://news.ycombinator.com/item?id=48768951 Points: 544 # Comments: 195",
+      "summary": "Article URL: https://righttointelligence.org/ Comments URL: https://news.ycombinator.com/item?id=48768951 Points: 545 # Comments: 196",
       "source": "Hacker News",
       "published": "2026-07-02T23:54:03+00:00",
       "link": "https://righttointelligence.org/"
@@ -430,7 +444,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI can't be listed as inventor on patent applications, Japan's top court rules",
-      "summary": "Article URL: https://japannews.yomiuri.co.jp/science-nature/technology/20260306-314930/ Comments URL: https://news.ycombinator.com/item?id=48761536 Points: 395 # Comments: 209",
+      "summary": "Article URL: https://japannews.yomiuri.co.jp/science-nature/technology/20260306-314930/ Comments URL: https://news.ycombinator.com/item?id=48761536 Points: 396 # Comments: 209",
       "source": "Hacker News",
       "published": "2026-07-02T13:43:41+00:00",
       "link": "https://japannews.yomiuri.co.jp/science-nature/technology/20260306-314930/"
@@ -1386,20 +1400,6 @@ const FEED_DATA = {
       "source": "Hacker News",
       "published": "2026-06-28T01:28:10+00:00",
       "link": "https://jayacunzo.com/blog/your-move-chief"
-    },
-    {
-      "title": "Everyone feared AI taking over; the real danger is AI serving just the few",
-      "summary": "Everyone feared AI would enslave humanity; but it looks like the real fight is stopping governments and Big Tech from enslaving AI for the benefit of the few.Amid the newly announced \"regulation\" of OpenAI's frontier models, I believe the future majority feared the most - sort...",
-      "source": "Hacker News",
-      "published": "2026-06-27T20:48:01+00:00",
-      "link": "https://news.ycombinator.com/item?id=48701615"
-    },
-    {
-      "title": "Margaret Atwood says the problem with AI is ‘garbage in, garbage out’",
-      "summary": "Margaret Atwood, the storied author of The Handmaid's Tale and The Blind Assassin, was interviewed as part of the Babell Literary and Cultural Festival in Porto, Portugal. As it usually does at these things, the issue of AI came up, and Atwood didn't mince words.",
-      "source": "The Verge",
-      "published": "2026-06-27T18:39:32+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/958715/margaret-atwood-ai-problem-garbage-in-garbage-out"
     }
   ]
 };
