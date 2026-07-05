@@ -1,9 +1,16 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-07-05T04:55:12.244786+00:00",
+  "lastUpdated": "2026-07-05T08:03:06.708952+00:00",
   "items": [
     {
+      "title": "AI search agents don't fail at searching, they fail at asking the right questions when queries get ambiguous",
+      "summary": "AI search agents rarely fail at multi-step research because of the search itself. Their real problem is not asking the user for clarification when queries are ambiguous.",
+      "source": "The Decoder",
+      "published": "2026-07-05T07:52:17+00:00",
+      "link": "https://the-decoder.com/ai-search-agents-dont-fail-at-searching-they-fail-at-asking-the-right-questions-when-queries-get-ambiguous/"
+    },
+    {
       "title": "GPT-5.5 Codex reasoning-token clustering may be leading to degraded performance",
-      "summary": "Article URL: https://github.com/openai/codex/issues/30364 Comments URL: https://news.ycombinator.com/item?id=48789428 Points: 195 # Comments: 63",
+      "summary": "Article URL: https://github.com/openai/codex/issues/30364 Comments URL: https://news.ycombinator.com/item?id=48789428 Points: 249 # Comments: 89",
       "source": "Hacker News",
       "published": "2026-07-04T21:51:09+00:00",
       "link": "https://github.com/openai/codex/issues/30364"
@@ -17,7 +24,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI has torched the market for junior programmers",
-      "summary": "Article URL: https://seldo.com/posts/ai-has-torched-the-market-for-junior-programmers/ Comments URL: https://news.ycombinator.com/item?id=48788361 Points: 88 # Comments: 165",
+      "summary": "Article URL: https://seldo.com/posts/ai-has-torched-the-market-for-junior-programmers/ Comments URL: https://news.ycombinator.com/item?id=48788361 Points: 89 # Comments: 170",
       "source": "Hacker News",
       "published": "2026-07-04T19:50:08+00:00",
       "link": "https://seldo.com/posts/ai-has-torched-the-market-for-junior-programmers/"
@@ -94,7 +101,7 @@ const FEED_DATA = {
     },
     {
       "title": "2026 Unslop AI-Written Fiction Contest Results",
-      "summary": "Article URL: https://www.hyperstitionai.com/unslop-results Comments URL: https://news.ycombinator.com/item?id=48782890 Points: 61 # Comments: 140",
+      "summary": "Article URL: https://www.hyperstitionai.com/unslop-results Comments URL: https://news.ycombinator.com/item?id=48782890 Points: 63 # Comments: 141",
       "source": "Hacker News",
       "published": "2026-07-04T05:37:25+00:00",
       "link": "https://www.hyperstitionai.com/unslop-results"
@@ -108,7 +115,7 @@ const FEED_DATA = {
     },
     {
       "title": "Kagi Changelog (July 2): Heads, tails, and an AI toggle",
-      "summary": "Article URL: https://kagi.com/changelog#10959 Comments URL: https://news.ycombinator.com/item?id=48779352 Points: 65 # Comments: 14",
+      "summary": "Article URL: https://kagi.com/changelog#10959 Comments URL: https://news.ycombinator.com/item?id=48779352 Points: 66 # Comments: 15",
       "source": "Hacker News",
       "published": "2026-07-03T20:08:01+00:00",
       "link": "https://kagi.com/changelog#10959"
@@ -164,7 +171,7 @@ const FEED_DATA = {
     },
     {
       "title": "Instead of banning AI, I made a classroom contract with my students",
-      "summary": "Article URL: https://www.science.org/content/article/instead-banning-ai-i-made-classroom-contract-my-students Comments URL: https://news.ycombinator.com/item?id=48775499 Points: 91 # Comments: 90",
+      "summary": "Article URL: https://www.science.org/content/article/instead-banning-ai-i-made-classroom-contract-my-students Comments URL: https://news.ycombinator.com/item?id=48775499 Points: 93 # Comments: 90",
       "source": "Hacker News",
       "published": "2026-07-03T14:28:33+00:00",
       "link": "https://www.science.org/content/article/instead-banning-ai-i-made-classroom-contract-my-students"
@@ -178,7 +185,7 @@ const FEED_DATA = {
     },
     {
       "title": "Please stop the AI confidence theater",
-      "summary": "Article URL: https://www.elenaverna.com/p/please-stop-the-ai-confidence-theater Comments URL: https://news.ycombinator.com/item?id=48774414 Points: 232 # Comments: 255",
+      "summary": "Article URL: https://www.elenaverna.com/p/please-stop-the-ai-confidence-theater Comments URL: https://news.ycombinator.com/item?id=48774414 Points: 232 # Comments: 257",
       "source": "Hacker News",
       "published": "2026-07-03T12:51:17+00:00",
       "link": "https://www.elenaverna.com/p/please-stop-the-ai-confidence-theater"
@@ -255,7 +262,7 @@ const FEED_DATA = {
     },
     {
       "title": "Protect your right to run local AI",
-      "summary": "Article URL: https://righttointelligence.org/ Comments URL: https://news.ycombinator.com/item?id=48768951 Points: 540 # Comments: 193",
+      "summary": "Article URL: https://righttointelligence.org/ Comments URL: https://news.ycombinator.com/item?id=48768951 Points: 543 # Comments: 194",
       "source": "Hacker News",
       "published": "2026-07-02T23:54:03+00:00",
       "link": "https://righttointelligence.org/"
@@ -304,7 +311,7 @@ const FEED_DATA = {
     },
     {
       "title": "Claude-real-video － any LLM can watch a video",
-      "summary": "Article URL: https://github.com/HUANGCHIHHUNGLeo/claude-real-video Comments URL: https://news.ycombinator.com/item?id=48766005 Points: 164 # Comments: 54",
+      "summary": "Article URL: https://github.com/HUANGCHIHHUNGLeo/claude-real-video Comments URL: https://news.ycombinator.com/item?id=48766005 Points: 165 # Comments: 54",
       "source": "Hacker News",
       "published": "2026-07-02T19:10:12+00:00",
       "link": "https://github.com/HUANGCHIHHUNGLeo/claude-real-video"
@@ -381,7 +388,7 @@ const FEED_DATA = {
     },
     {
       "title": "No LLM Code in Dependencies",
-      "summary": "Article URL: https://joeyh.name/blog/entry/no_LLM_code_in_dependencies/ Comments URL: https://news.ycombinator.com/item?id=48762008 Points: 120 # Comments: 112",
+      "summary": "Article URL: https://joeyh.name/blog/entry/no_LLM_code_in_dependencies/ Comments URL: https://news.ycombinator.com/item?id=48762008 Points: 120 # Comments: 113",
       "source": "Hacker News",
       "published": "2026-07-02T14:17:23+00:00",
       "link": "https://joeyh.name/blog/entry/no_LLM_code_in_dependencies/"
@@ -1393,13 +1400,6 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-06-27T14:00:00+00:00",
       "link": "https://techcrunch.com/2026/06/27/the-fittest-founder-in-the-room-got-cancer-heres-how-he-used-ai-to-fight-back/"
-    },
-    {
-      "title": "Why is Apple asking me to pay more for Big Tech’s AI obsession?",
-      "summary": "Tim Cook recently said price increases were \"unavoidable\" and described the company's pricing as \"unsustainable.\" The 16-inch MacBook Pro saw its price go up by $300. The 11-inch iPad Air went from $599 to $749.",
-      "source": "The Verge",
-      "published": "2026-06-27T13:30:00+00:00",
-      "link": "https://www.theverge.com/report/958678/apple-consumer-price-increase-ai-big-tech"
     }
   ]
 };
