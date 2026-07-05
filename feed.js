@@ -1,6 +1,20 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-07-05T17:57:28.439176+00:00",
+  "lastUpdated": "2026-07-05T21:53:59.675149+00:00",
   "items": [
+    {
+      "title": "New AI tutor achieves 0.71-1.30 SD effect size in Dartmouth course [pdf]",
+      "summary": "Article URL: https://intextbooks.science.uu.nl/workshop2026/files/itb26_s1s2.pdf Comments URL: https://news.ycombinator.com/item?id=48796817 Points: 91 # Comments: 55",
+      "source": "Hacker News",
+      "published": "2026-07-05T18:47:43+00:00",
+      "link": "https://intextbooks.science.uu.nl/workshop2026/files/itb26_s1s2.pdf"
+    },
+    {
+      "title": "A sociotechnical threat model for AI-driven smart home devices",
+      "summary": "Article URL: https://arxiv.org/abs/2602.09239 Comments URL: https://news.ycombinator.com/item?id=48795830 Points: 78 # Comments: 57",
+      "source": "Hacker News",
+      "published": "2026-07-05T17:05:57+00:00",
+      "link": "https://arxiv.org/abs/2602.09239"
+    },
     {
       "title": "Claude Code and Fable 5 ported the 2003 PC game Command & Conquer to native iOS in \"a few hours\"",
       "summary": "A Google Deepmind developer ported the 2003 real-time strategy game \"Command & Conquer: Generals Zero Hour\" to iPhone and iPad using Anthropic's Claude Code. The first build took 40 minutes.",
@@ -52,7 +66,7 @@ const FEED_DATA = {
     },
     {
       "title": "GPT-5.5 Codex reasoning-token clustering may be leading to degraded performance",
-      "summary": "Article URL: https://github.com/openai/codex/issues/30364 Comments URL: https://news.ycombinator.com/item?id=48789428 Points: 344 # Comments: 143",
+      "summary": "Article URL: https://github.com/openai/codex/issues/30364 Comments URL: https://news.ycombinator.com/item?id=48789428 Points: 350 # Comments: 146",
       "source": "Hacker News",
       "published": "2026-07-04T21:51:09+00:00",
       "link": "https://github.com/openai/codex/issues/30364"
@@ -66,7 +80,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI has torched the market for junior programmers",
-      "summary": "Article URL: https://seldo.com/posts/ai-has-torched-the-market-for-junior-programmers/ Comments URL: https://news.ycombinator.com/item?id=48788361 Points: 95 # Comments: 185",
+      "summary": "Article URL: https://seldo.com/posts/ai-has-torched-the-market-for-junior-programmers/ Comments URL: https://news.ycombinator.com/item?id=48788361 Points: 97 # Comments: 186",
       "source": "Hacker News",
       "published": "2026-07-04T19:50:08+00:00",
       "link": "https://seldo.com/posts/ai-has-torched-the-market-for-junior-programmers/"
@@ -143,7 +157,7 @@ const FEED_DATA = {
     },
     {
       "title": "2026 Unslop AI-Written Fiction Contest Results",
-      "summary": "Article URL: https://www.hyperstitionai.com/unslop-results Comments URL: https://news.ycombinator.com/item?id=48782890 Points: 63 # Comments: 142",
+      "summary": "Article URL: https://www.hyperstitionai.com/unslop-results Comments URL: https://news.ycombinator.com/item?id=48782890 Points: 64 # Comments: 145",
       "source": "Hacker News",
       "published": "2026-07-04T05:37:25+00:00",
       "link": "https://www.hyperstitionai.com/unslop-results"
@@ -157,7 +171,7 @@ const FEED_DATA = {
     },
     {
       "title": "Kagi Changelog (July 2): Heads, tails, and an AI toggle",
-      "summary": "Article URL: https://kagi.com/changelog#10959 Comments URL: https://news.ycombinator.com/item?id=48779352 Points: 66 # Comments: 15",
+      "summary": "Article URL: https://kagi.com/changelog#10959 Comments URL: https://news.ycombinator.com/item?id=48779352 Points: 67 # Comments: 15",
       "source": "Hacker News",
       "published": "2026-07-03T20:08:01+00:00",
       "link": "https://kagi.com/changelog#10959"
@@ -213,7 +227,7 @@ const FEED_DATA = {
     },
     {
       "title": "Instead of banning AI, I made a classroom contract with my students",
-      "summary": "Article URL: https://www.science.org/content/article/instead-banning-ai-i-made-classroom-contract-my-students Comments URL: https://news.ycombinator.com/item?id=48775499 Points: 93 # Comments: 90",
+      "summary": "Article URL: https://www.science.org/content/article/instead-banning-ai-i-made-classroom-contract-my-students Comments URL: https://news.ycombinator.com/item?id=48775499 Points: 94 # Comments: 90",
       "source": "Hacker News",
       "published": "2026-07-03T14:28:33+00:00",
       "link": "https://www.science.org/content/article/instead-banning-ai-i-made-classroom-contract-my-students"
@@ -227,14 +241,14 @@ const FEED_DATA = {
     },
     {
       "title": "Please stop the AI confidence theater",
-      "summary": "Article URL: https://www.elenaverna.com/p/please-stop-the-ai-confidence-theater Comments URL: https://news.ycombinator.com/item?id=48774414 Points: 233 # Comments: 256",
+      "summary": "Article URL: https://www.elenaverna.com/p/please-stop-the-ai-confidence-theater Comments URL: https://news.ycombinator.com/item?id=48774414 Points: 233 # Comments: 258",
       "source": "Hacker News",
       "published": "2026-07-03T12:51:17+00:00",
       "link": "https://www.elenaverna.com/p/please-stop-the-ai-confidence-theater"
     },
     {
       "title": "AI Data Centers Use More Water Than Most Tech Giants Report",
-      "summary": "Article URL: https://www.wsj.com/tech/ai/ai-data-centers-water-use-901e2902 Comments URL: https://news.ycombinator.com/item?id=48774246 Points: 55 # Comments: 69",
+      "summary": "Article URL: https://www.wsj.com/tech/ai/ai-data-centers-water-use-901e2902 Comments URL: https://news.ycombinator.com/item?id=48774246 Points: 56 # Comments: 69",
       "source": "Hacker News",
       "published": "2026-07-03T12:33:20+00:00",
       "link": "https://www.wsj.com/tech/ai/ai-data-centers-water-use-901e2902"
@@ -304,7 +318,7 @@ const FEED_DATA = {
     },
     {
       "title": "Protect your right to run local AI",
-      "summary": "Article URL: https://righttointelligence.org/ Comments URL: https://news.ycombinator.com/item?id=48768951 Points: 545 # Comments: 196",
+      "summary": "Article URL: https://righttointelligence.org/ Comments URL: https://news.ycombinator.com/item?id=48768951 Points: 547 # Comments: 196",
       "source": "Hacker News",
       "published": "2026-07-02T23:54:03+00:00",
       "link": "https://righttointelligence.org/"
@@ -325,7 +339,7 @@ const FEED_DATA = {
     },
     {
       "title": "Zuckerberg says AI agent development going slower than expected",
-      "summary": "Article URL: https://www.reuters.com/business/zuckerberg-says-ai-agent-development-going-slower-than-expected-2026-07-02/ Comments URL: https://news.ycombinator.com/item?id=48767058 Points: 51 # Comments: 65",
+      "summary": "Article URL: https://www.reuters.com/business/zuckerberg-says-ai-agent-development-going-slower-than-expected-2026-07-02/ Comments URL: https://news.ycombinator.com/item?id=48767058 Points: 52 # Comments: 65",
       "source": "Hacker News",
       "published": "2026-07-02T20:38:06+00:00",
       "link": "https://www.reuters.com/business/zuckerberg-says-ai-agent-development-going-slower-than-expected-2026-07-02/"
@@ -353,7 +367,7 @@ const FEED_DATA = {
     },
     {
       "title": "Claude-real-video － any LLM can watch a video",
-      "summary": "Article URL: https://github.com/HUANGCHIHHUNGLeo/claude-real-video Comments URL: https://news.ycombinator.com/item?id=48766005 Points: 165 # Comments: 55",
+      "summary": "Article URL: https://github.com/HUANGCHIHHUNGLeo/claude-real-video Comments URL: https://news.ycombinator.com/item?id=48766005 Points: 165 # Comments: 56",
       "source": "Hacker News",
       "published": "2026-07-02T19:10:12+00:00",
       "link": "https://github.com/HUANGCHIHHUNGLeo/claude-real-video"
@@ -444,7 +458,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI can't be listed as inventor on patent applications, Japan's top court rules",
-      "summary": "Article URL: https://japannews.yomiuri.co.jp/science-nature/technology/20260306-314930/ Comments URL: https://news.ycombinator.com/item?id=48761536 Points: 396 # Comments: 209",
+      "summary": "Article URL: https://japannews.yomiuri.co.jp/science-nature/technology/20260306-314930/ Comments URL: https://news.ycombinator.com/item?id=48761536 Points: 397 # Comments: 209",
       "source": "Hacker News",
       "published": "2026-07-02T13:43:41+00:00",
       "link": "https://japannews.yomiuri.co.jp/science-nature/technology/20260306-314930/"
@@ -1386,20 +1400,6 @@ const FEED_DATA = {
       "source": "Hacker News",
       "published": "2026-06-28T03:09:13+00:00",
       "link": "https://www.the-independent.com/tech/ford-ai-automation-human-workers-b3003787.html"
-    },
-    {
-      "title": "The best response to AI slop and online noise is from Robin Williams",
-      "summary": "Article URL: https://jayacunzo.com/blog/your-move-chief Comments URL: https://news.ycombinator.com/item?id=48703452 Points: 400 # Comments: 224",
-      "source": "Hacker News",
-      "published": "2026-06-28T01:28:10+00:00",
-      "link": "https://jayacunzo.com/blog/your-move-chief"
-    },
-    {
-      "title": "Response to AI slop is from Robin Williams",
-      "summary": "Article URL: https://jayacunzo.com/blog/your-move-chief Comments URL: https://news.ycombinator.com/item?id=48703452 Points: 128 # Comments: 73",
-      "source": "Hacker News",
-      "published": "2026-06-28T01:28:10+00:00",
-      "link": "https://jayacunzo.com/blog/your-move-chief"
     }
   ]
 };
