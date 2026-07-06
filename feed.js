@@ -1,6 +1,34 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-07-06T18:51:36.367808+00:00",
+  "lastUpdated": "2026-07-06T22:07:55.777230+00:00",
   "items": [
+    {
+      "title": "Vercel CEO Guillermo Rauch on the fight to split off models from agents",
+      "summary": "\"The reality is, when you're optimizing for production, you start looking at a price/performance,\" Guillermo Rauch tells TechCrunch.",
+      "source": "TechCrunch",
+      "published": "2026-07-06T19:49:10+00:00",
+      "link": "https://techcrunch.com/2026/07/06/vercel-ceo-guillermo-rauch-on-the-fight-to-split-off-models-from-agents/"
+    },
+    {
+      "title": "You can now customize Siri’s pace and expressivity in the latest iOS 27 beta",
+      "summary": "The update is part of Apple's broader effort to make Siri feel more natural and personal, as it rebuilds the assistant around generative AI.",
+      "source": "TechCrunch",
+      "published": "2026-07-06T19:01:59+00:00",
+      "link": "https://techcrunch.com/2026/07/06/you-can-now-customize-siris-pace-and-expressivity-in-the-latest-ios-27-beta/"
+    },
+    {
+      "title": "Cloudflare replaces its blanket AI bot block with granular controls for search, training, and agent crawlers",
+      "summary": "Cloudflare is giving all customers granular AI bot controls. Site owners can now manage Search, Training, and Agent bots separately instead of blocking them all at once.",
+      "source": "The Decoder",
+      "published": "2026-07-06T18:54:45+00:00",
+      "link": "https://the-decoder.com/cloudflare-replaces-its-blanket-ai-bot-block-with-granular-controls-for-search-training-and-agent-crawlers/"
+    },
+    {
+      "title": "Every major tech layoff in 2026 that has name-checked AI",
+      "summary": "A running look — in reverse chronological order — at the bigger tech companies that have announced significant layoffs this year with AI as a stated factor.",
+      "source": "TechCrunch",
+      "published": "2026-07-06T18:35:00+00:00",
+      "link": "https://techcrunch.com/2026/07/06/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/"
+    },
     {
       "title": "The running list: major tech layoffs in 2026 where employers cited AI",
       "summary": "A running look — in reverse chronological order — at the bigger tech companies that have announced significant layoffs this year with AI as a stated factor.",
@@ -30,6 +58,13 @@ const FEED_DATA = {
       "link": "https://www.technologyreview.com/2026/07/06/1140176/your-familys-300-stake-in-openai/"
     },
     {
+      "title": "Big Tech Has Suddenly Flipped on the AI Jobs Wipeout Scenario",
+      "summary": "Article URL: https://www.wsj.com/tech/ai/ai-workers-tech-ceos-job-losses-afc71e15 Comments URL: https://news.ycombinator.com/item?id=48807651 Points: 88 # Comments: 93",
+      "source": "Hacker News",
+      "published": "2026-07-06T17:16:41+00:00",
+      "link": "https://www.wsj.com/tech/ai/ai-workers-tech-ceos-job-losses-afc71e15"
+    },
+    {
       "title": "GPT-4's dominance lasted a year while today's top models barely survive seven weeks at the top",
       "summary": "OpenAI's GPT-4 led the Epoch Capabilities Index for about a year, far longer than any model since. Since Claude 3 Opus took the top spot in February 2024, the lead has changed hands 17 times, with a median stay of just seven weeks.",
       "source": "The Decoder",
@@ -38,10 +73,24 @@ const FEED_DATA = {
     },
     {
       "title": "If you use Google, you’re training its AI. Here’s how to opt out.",
-      "summary": "PSA: A change to Google's privacy settings let it train its AI on more of your data. Here's how to opt out.",
+      "summary": "Consider this a belated PSA: A recent change to Google’s privacy settings is allowing the company to store more of your data, including media such as “images, files, and audio and video recordings,” to improve its AI models.",
       "source": "TechCrunch",
       "published": "2026-07-06T17:04:58+00:00",
       "link": "https://techcrunch.com/2026/07/06/if-you-use-google-youre-training-its-ai-heres-how-to-opt-out/"
+    },
+    {
+      "title": "OfficeCLI: Office suite for AI agents to read and edit Microsoft Office files",
+      "summary": "Article URL: https://github.com/iOfficeAI/OfficeCLI Comments URL: https://news.ycombinator.com/item?id=48807225 Points: 79 # Comments: 24",
+      "source": "Hacker News",
+      "published": "2026-07-06T16:47:44+00:00",
+      "link": "https://github.com/iOfficeAI/OfficeCLI"
+    },
+    {
+      "title": "The AI Superforecasters Are Here",
+      "summary": "Article URL: https://www.astralcodexten.com/p/the-ai-superforecasters-are-here Comments URL: https://news.ycombinator.com/item?id=48806296 Points: 55 # Comments: 49",
+      "source": "Hacker News",
+      "published": "2026-07-06T15:45:11+00:00",
+      "link": "https://www.astralcodexten.com/p/the-ai-superforecasters-are-here"
     },
     {
       "title": "Microsoft lays off nearly 5,000 employees across Xbox, commercial sales",
@@ -58,8 +107,15 @@ const FEED_DATA = {
       "link": "https://techcrunch.com/2026/07/06/reddit-is-using-llms-to-solve-a-problem-llms-largely-created/"
     },
     {
+      "title": "Google Chrome Installed a 4GB AI Model on Your PC",
+      "summary": "Article URL: https://oztalking.com/en/issues/hidden-4gb-ai-model Comments URL: https://news.ycombinator.com/item?id=48805627 Points: 77 # Comments: 63",
+      "source": "Hacker News",
+      "published": "2026-07-06T15:01:44+00:00",
+      "link": "https://oztalking.com/en/issues/hidden-4gb-ai-model"
+    },
+    {
       "title": "AMD Ryzen AI Halo – $4k AI Dev Kit",
-      "summary": "Article URL: https://www.lttlabs.com/articles/2026/07/06/amd-ryzen-ai-halo Comments URL: https://news.ycombinator.com/item?id=48805624 Points: 53 # Comments: 56",
+      "summary": "Article URL: https://www.lttlabs.com/articles/2026/07/06/amd-ryzen-ai-halo Comments URL: https://news.ycombinator.com/item?id=48805624 Points: 242 # Comments: 172",
       "source": "Hacker News",
       "published": "2026-07-06T15:01:18+00:00",
       "link": "https://www.lttlabs.com/articles/2026/07/06/amd-ryzen-ai-halo"
@@ -80,7 +136,7 @@ const FEED_DATA = {
     },
     {
       "title": "The AI Marketing Backlash: Why 'AI-First' Brands Are Starting to Fall Flat",
-      "summary": "Article URL: https://www.breef.com/breefingroom/articles/the-ai-marketing-backlash-why-ai-first-brands-are-starting-to-fall-flat Comments URL: https://news.ycombinator.com/item?id=48803711 Points: 75 # Comments: 45",
+      "summary": "Article URL: https://www.breef.com/breefingroom/articles/the-ai-marketing-backlash-why-ai-first-brands-are-starting-to-fall-flat Comments URL: https://news.ycombinator.com/item?id=48803711 Points: 77 # Comments: 49",
       "source": "Hacker News",
       "published": "2026-07-06T12:33:09+00:00",
       "link": "https://www.breef.com/breefingroom/articles/the-ai-marketing-backlash-why-ai-first-brands-are-starting-to-fall-flat"
@@ -122,21 +178,21 @@ const FEED_DATA = {
     },
     {
       "title": "When AI Costs More Than the Engineer",
-      "summary": "Article URL: https://tomtunguz.com/ai-spend-breakeven-2029/ Comments URL: https://news.ycombinator.com/item?id=48801493 Points: 121 # Comments: 103",
+      "summary": "Article URL: https://tomtunguz.com/ai-spend-breakeven-2029/ Comments URL: https://news.ycombinator.com/item?id=48801493 Points: 123 # Comments: 107",
       "source": "Hacker News",
       "published": "2026-07-06T07:05:25+00:00",
       "link": "https://tomtunguz.com/ai-spend-breakeven-2029/"
     },
     {
       "title": "GPT-5.6 Sol Ultra will be in Codex",
-      "summary": "https://x.com/haider1/status/2073695124220006575, https://xcancel.com/haider1/status/2073695124220006575 Comments URL: https://news.ycombinator.com/item?id=48799614 Points: 381 # Comments: 330",
+      "summary": "https://x.com/haider1/status/2073695124220006575, https://xcancel.com/haider1/status/2073695124220006575 Comments URL: https://news.ycombinator.com/item?id=48799614 Points: 400 # Comments: 369",
       "source": "Hacker News",
       "published": "2026-07-06T01:04:03+00:00",
       "link": "https://twitter.com/thsottiaux/status/2073933490513752151"
     },
     {
       "title": "Al Vigier: Canada's AI strategy shouldn't include secret Palantir bills",
-      "summary": "Article URL: https://www.readtheline.ca/p/al-vigier-canadas-ai-strategy-shouldnt Comments URL: https://news.ycombinator.com/item?id=48799256 Points: 162 # Comments: 72",
+      "summary": "Article URL: https://www.readtheline.ca/p/al-vigier-canadas-ai-strategy-shouldnt Comments URL: https://news.ycombinator.com/item?id=48799256 Points: 163 # Comments: 74",
       "source": "Hacker News",
       "published": "2026-07-06T00:04:48+00:00",
       "link": "https://www.readtheline.ca/p/al-vigier-canadas-ai-strategy-shouldnt"
@@ -150,14 +206,14 @@ const FEED_DATA = {
     },
     {
       "title": "New Microsoft 365 pricing live, some products up by 42% due to AI",
-      "summary": "Article URL: https://www.windowslatest.com/2026/07/05/microsoft-365-just-got-a-price-hike-over-continuous-innovation-but-copilot-is-the-ai-tax-on-businesses/ Comments URL: https://news.ycombinator.com/item?id=48798330 Points: 50 # Comments: 29",
+      "summary": "Article URL: https://www.windowslatest.com/2026/07/05/microsoft-365-just-got-a-price-hike-over-continuous-innovation-but-copilot-is-the-ai-tax-on-businesses/ Comments URL: https://news.ycombinator.com/item?id=48798330 Points: 51 # Comments: 30",
       "source": "Hacker News",
       "published": "2026-07-05T21:58:20+00:00",
       "link": "https://www.windowslatest.com/2026/07/05/microsoft-365-just-got-a-price-hike-over-continuous-innovation-but-copilot-is-the-ai-tax-on-businesses/"
     },
     {
       "title": "New AI tutor achieves 0.71-1.30 SD effect size in Dartmouth course [pdf]",
-      "summary": "Article URL: https://intextbooks.science.uu.nl/workshop2026/files/itb26_s1s2.pdf Comments URL: https://news.ycombinator.com/item?id=48796817 Points: 173 # Comments: 107",
+      "summary": "Article URL: https://intextbooks.science.uu.nl/workshop2026/files/itb26_s1s2.pdf Comments URL: https://news.ycombinator.com/item?id=48796817 Points: 176 # Comments: 110",
       "source": "Hacker News",
       "published": "2026-07-05T18:47:43+00:00",
       "link": "https://intextbooks.science.uu.nl/workshop2026/files/itb26_s1s2.pdf"
@@ -220,7 +276,7 @@ const FEED_DATA = {
     },
     {
       "title": "GPT-5.5 Codex reasoning-token clustering may be leading to degraded performance",
-      "summary": "Article URL: https://github.com/openai/codex/issues/30364 Comments URL: https://news.ycombinator.com/item?id=48789428 Points: 366 # Comments: 148",
+      "summary": "Article URL: https://github.com/openai/codex/issues/30364 Comments URL: https://news.ycombinator.com/item?id=48789428 Points: 367 # Comments: 151",
       "source": "Hacker News",
       "published": "2026-07-04T21:51:09+00:00",
       "link": "https://github.com/openai/codex/issues/30364"
@@ -234,7 +290,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI has torched the market for junior programmers",
-      "summary": "Article URL: https://seldo.com/posts/ai-has-torched-the-market-for-junior-programmers/ Comments URL: https://news.ycombinator.com/item?id=48788361 Points: 100 # Comments: 192",
+      "summary": "Article URL: https://seldo.com/posts/ai-has-torched-the-market-for-junior-programmers/ Comments URL: https://news.ycombinator.com/item?id=48788361 Points: 100 # Comments: 194",
       "source": "Hacker News",
       "published": "2026-07-04T19:50:08+00:00",
       "link": "https://seldo.com/posts/ai-has-torched-the-market-for-junior-programmers/"
@@ -311,7 +367,7 @@ const FEED_DATA = {
     },
     {
       "title": "2026 Unslop AI-Written Fiction Contest Results",
-      "summary": "Article URL: https://www.hyperstitionai.com/unslop-results Comments URL: https://news.ycombinator.com/item?id=48782890 Points: 66 # Comments: 145",
+      "summary": "Article URL: https://www.hyperstitionai.com/unslop-results Comments URL: https://news.ycombinator.com/item?id=48782890 Points: 66 # Comments: 147",
       "source": "Hacker News",
       "published": "2026-07-04T05:37:25+00:00",
       "link": "https://www.hyperstitionai.com/unslop-results"
@@ -1344,62 +1400,6 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-06-29T12:30:21+00:00",
       "link": "https://the-decoder.com/the-us-military-used-ai-to-pick-thousands-of-targets-but-missed-a-note-saying-one-was-a-school/"
-    },
-    {
-      "title": "HP accelerates enterprise workflows with OpenAI Frontier",
-      "summary": "HP has scaled its OpenAI Frontier integration across global operations to optimise enterprise workflows and accelerate output. The hardware manufacturer initiated testing of the platform in February 2026.",
-      "source": "AI News",
-      "published": "2026-06-29T12:22:45+00:00",
-      "link": "https://www.artificialintelligence-news.com/news/hp-accelerates-enterprise-workflows-openai-frontier/"
-    },
-    {
-      "title": "The Download: metric weaknesses and AI elephant warnings",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The inevitable weakness of metrics There are plenty of useful things a metric can reveal.",
-      "source": "MIT Tech Review",
-      "published": "2026-06-29T12:10:00+00:00",
-      "link": "https://www.technologyreview.com/2026/06/29/1139834/the-download-metric-weaknesses-ai-elephant-warnings/"
-    },
-    {
-      "title": "Claude Code runs a GitHub repo's hidden malware without verification, giving attackers full control",
-      "summary": "Security researchers at Mozilla's 0DIN platform have shown how a single compromised GitHub repo can take over a developer's machine the moment an AI coding tool like Claude Code runs its setup.",
-      "source": "The Decoder",
-      "published": "2026-06-29T10:04:32+00:00",
-      "link": "https://the-decoder.com/claude-code-runs-a-github-repos-hidden-malware-without-verification-giving-attackers-full-control/"
-    },
-    {
-      "title": "Wimbledon adds IBM AI tools for live match coverage",
-      "summary": "The All England Lawn Tennis Club is adding new AI-powered features to Wimbledon’s digital platforms through its ongoing work with IBM. The updates will be available through the Wimbledon app and wimbledon.com as first-round matches begin on Monday.",
-      "source": "AI News",
-      "published": "2026-06-29T10:00:00+00:00",
-      "link": "https://www.artificialintelligence-news.com/news/wimbledon-ibm-ai-tools-live-match-coverage/"
-    },
-    {
-      "title": "Anthropic CEO: Open-Source AI is getting dangerous (2023)",
-      "summary": "Article URL: https://xcancel.com/coinbureau/status/2071330294452666695 Comments URL: https://news.ycombinator.com/item?id=48716750 Points: 58 # Comments: 25",
-      "source": "Hacker News",
-      "published": "2026-06-29T09:11:33+00:00",
-      "link": "https://xcancel.com/coinbureau/status/2071330294452666695"
-    },
-    {
-      "title": "Advances in Natural Language Processing Are Changing Professional Networking",
-      "summary": "Natural language processing is reshaping professional communication on online platforms, enabling more relevant and personalised networking interactions.",
-      "source": "AI News",
-      "published": "2026-06-29T08:59:46+00:00",
-      "link": "https://www.artificialintelligence-news.com/news/advances-in-natural-language-processing-are-changing-professional-networking/"
-    },
-    {
-      "title": "Best Automated Security Testing Tools for Modern DevSecOps",
-      "summary": "Modern DevSecOps needs security checks that run before release day. Teams now write code, build services and deploy updates at a pace that manual review cannot match.",
-      "source": "AI News",
-      "published": "2026-06-29T08:54:22+00:00",
-      "link": "https://www.artificialintelligence-news.com/news/best-automated-security-testing-tools-for-modern-devsecops/"
-    },
-    {
-      "title": "Samsung and SK Hynix plan $590 billion chip investment as AI demand sends memory prices soaring",
-      "summary": "Samsung and SK Hynix, backed by the South Korean government, are pouring $590 billion into new chip factories and packaging centers as AI data center demand surges. According to Jefferies, memory prices could climb to 50 percent per quarter through 2027.",
-      "source": "The Decoder",
-      "published": "2026-06-29T08:17:41+00:00",
-      "link": "https://the-decoder.com/samsung-and-sk-hynix-plan-590-billion-chip-investment-as-ai-demand-sends-memory-prices-soaring/"
     }
   ]
 };
