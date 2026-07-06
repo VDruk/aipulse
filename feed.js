@@ -1,16 +1,37 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-07-05T21:53:59.675149+00:00",
+  "lastUpdated": "2026-07-06T05:09:24.605989+00:00",
   "items": [
     {
+      "title": "GPT-5.6 Sol Ultra will be in Codex",
+      "summary": "Article URL: https://twitter.com/thsottiaux/status/2073933490513752151 Comments URL: https://news.ycombinator.com/item?id=48799614 Points: 152 # Comments: 92",
+      "source": "Hacker News",
+      "published": "2026-07-06T01:04:03+00:00",
+      "link": "https://twitter.com/thsottiaux/status/2073933490513752151"
+    },
+    {
+      "title": "Al Vigier: Canada's AI strategy shouldn't include secret Palantir bills",
+      "summary": "Article URL: https://www.readtheline.ca/p/al-vigier-canadas-ai-strategy-shouldnt Comments URL: https://news.ycombinator.com/item?id=48799256 Points: 123 # Comments: 46",
+      "source": "Hacker News",
+      "published": "2026-07-06T00:04:48+00:00",
+      "link": "https://www.readtheline.ca/p/al-vigier-canadas-ai-strategy-shouldnt"
+    },
+    {
+      "title": "Some of the nation’s rich are letting AI teach their kids",
+      "summary": "Most Americans don't trust AI. It's proven that it doesn't know what safe toppings for pizza are.",
+      "source": "The Verge",
+      "published": "2026-07-05T22:30:54+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/961505/wealthy-ai-schools-alpha-forge-prep"
+    },
+    {
       "title": "New AI tutor achieves 0.71-1.30 SD effect size in Dartmouth course [pdf]",
-      "summary": "Article URL: https://intextbooks.science.uu.nl/workshop2026/files/itb26_s1s2.pdf Comments URL: https://news.ycombinator.com/item?id=48796817 Points: 91 # Comments: 55",
+      "summary": "Article URL: https://intextbooks.science.uu.nl/workshop2026/files/itb26_s1s2.pdf Comments URL: https://news.ycombinator.com/item?id=48796817 Points: 146 # Comments: 89",
       "source": "Hacker News",
       "published": "2026-07-05T18:47:43+00:00",
       "link": "https://intextbooks.science.uu.nl/workshop2026/files/itb26_s1s2.pdf"
     },
     {
       "title": "A sociotechnical threat model for AI-driven smart home devices",
-      "summary": "Article URL: https://arxiv.org/abs/2602.09239 Comments URL: https://news.ycombinator.com/item?id=48795830 Points: 78 # Comments: 57",
+      "summary": "Article URL: https://arxiv.org/abs/2602.09239 Comments URL: https://news.ycombinator.com/item?id=48795830 Points: 81 # Comments: 66",
       "source": "Hacker News",
       "published": "2026-07-05T17:05:57+00:00",
       "link": "https://arxiv.org/abs/2602.09239"
@@ -66,7 +87,7 @@ const FEED_DATA = {
     },
     {
       "title": "GPT-5.5 Codex reasoning-token clustering may be leading to degraded performance",
-      "summary": "Article URL: https://github.com/openai/codex/issues/30364 Comments URL: https://news.ycombinator.com/item?id=48789428 Points: 350 # Comments: 146",
+      "summary": "Article URL: https://github.com/openai/codex/issues/30364 Comments URL: https://news.ycombinator.com/item?id=48789428 Points: 360 # Comments: 148",
       "source": "Hacker News",
       "published": "2026-07-04T21:51:09+00:00",
       "link": "https://github.com/openai/codex/issues/30364"
@@ -157,7 +178,7 @@ const FEED_DATA = {
     },
     {
       "title": "2026 Unslop AI-Written Fiction Contest Results",
-      "summary": "Article URL: https://www.hyperstitionai.com/unslop-results Comments URL: https://news.ycombinator.com/item?id=48782890 Points: 64 # Comments: 145",
+      "summary": "Article URL: https://www.hyperstitionai.com/unslop-results Comments URL: https://news.ycombinator.com/item?id=48782890 Points: 65 # Comments: 145",
       "source": "Hacker News",
       "published": "2026-07-04T05:37:25+00:00",
       "link": "https://www.hyperstitionai.com/unslop-results"
@@ -227,7 +248,7 @@ const FEED_DATA = {
     },
     {
       "title": "Instead of banning AI, I made a classroom contract with my students",
-      "summary": "Article URL: https://www.science.org/content/article/instead-banning-ai-i-made-classroom-contract-my-students Comments URL: https://news.ycombinator.com/item?id=48775499 Points: 94 # Comments: 90",
+      "summary": "Article URL: https://www.science.org/content/article/instead-banning-ai-i-made-classroom-contract-my-students Comments URL: https://news.ycombinator.com/item?id=48775499 Points: 95 # Comments: 90",
       "source": "Hacker News",
       "published": "2026-07-03T14:28:33+00:00",
       "link": "https://www.science.org/content/article/instead-banning-ai-i-made-classroom-contract-my-students"
@@ -339,7 +360,7 @@ const FEED_DATA = {
     },
     {
       "title": "Zuckerberg says AI agent development going slower than expected",
-      "summary": "Article URL: https://www.reuters.com/business/zuckerberg-says-ai-agent-development-going-slower-than-expected-2026-07-02/ Comments URL: https://news.ycombinator.com/item?id=48767058 Points: 52 # Comments: 65",
+      "summary": "Article URL: https://www.reuters.com/business/zuckerberg-says-ai-agent-development-going-slower-than-expected-2026-07-02/ Comments URL: https://news.ycombinator.com/item?id=48767058 Points: 143 # Comments: 283",
       "source": "Hacker News",
       "published": "2026-07-02T20:38:06+00:00",
       "link": "https://www.reuters.com/business/zuckerberg-says-ai-agent-development-going-slower-than-expected-2026-07-02/"
@@ -1379,27 +1400,6 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-06-28T09:30:18+00:00",
       "link": "https://the-decoder.com/chinese-cybersecurity-firm-builds-ai-tools-to-rival-mythos-and-frames-the-race-as-cyber-nuclear-deterrence/"
-    },
-    {
-      "title": "Sina's open model VibeThinker-3B aims to show reasoning compresses well but factual knowledge doesn't",
-      "summary": "Sina Weibo's VibeThinker-3B has just three billion parameters but matches models like DeepSeek V3.2 and Kimi K2.5 on math and coding benchmarks. Those models are up to 333 times larger.",
-      "source": "The Decoder",
-      "published": "2026-06-28T07:44:41+00:00",
-      "link": "https://the-decoder.com/sinas-open-model-vibethinker-3b-aims-to-show-reasoning-compresses-well-but-factual-knowledge-doesnt/"
-    },
-    {
-      "title": "Wayfinder Router: deterministic routing of queries between local and hosted LLM",
-      "summary": "Article URL: https://github.com/itsthelore/wayfinder-router Comments URL: https://news.ycombinator.com/item?id=48704373 Points: 122 # Comments: 55",
-      "source": "Hacker News",
-      "published": "2026-06-28T04:31:18+00:00",
-      "link": "https://github.com/itsthelore/wayfinder-router"
-    },
-    {
-      "title": "Ford hired AI and sacked humans. It backfired badly",
-      "summary": "Article URL: https://www.the-independent.com/tech/ford-ai-automation-human-workers-b3003787.html Comments URL: https://news.ycombinator.com/item?id=48703968 Points: 239 # Comments: 4",
-      "source": "Hacker News",
-      "published": "2026-06-28T03:09:13+00:00",
-      "link": "https://www.the-independent.com/tech/ford-ai-automation-human-workers-b3003787.html"
     }
   ]
 };
