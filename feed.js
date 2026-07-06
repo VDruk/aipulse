@@ -1,12 +1,61 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-07-06T16:22:11.245889+00:00",
+  "lastUpdated": "2026-07-06T18:51:36.367808+00:00",
   "items": [
+    {
+      "title": "The running list: major tech layoffs in 2026 where employers cited AI",
+      "summary": "A running look — in reverse chronological order — at the bigger tech companies that have announced significant layoffs this year with AI as a stated factor.",
+      "source": "TechCrunch",
+      "published": "2026-07-06T18:35:00+00:00",
+      "link": "https://techcrunch.com/2026/07/06/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/"
+    },
+    {
+      "title": "Zhipu AI launches ZCode to challenge Claude Code and OpenAI Codex at a fraction of the cost",
+      "summary": "Zhipu AI is bringing GLM-5.2 to its ZCode development environment, pitching the model's long-context capabilities for complex coding tasks.",
+      "source": "The Decoder",
+      "published": "2026-07-06T18:28:26+00:00",
+      "link": "https://the-decoder.com/zhipu-ai-launches-zcode-to-challenge-claude-code-and-openai-codex-at-a-fraction-of-the-cost/"
+    },
+    {
+      "title": "Tencent releases Hy3 open-source model that allegedly matches models up to five times its active size",
+      "summary": "Tencent has released Hy3, an open-source language model with 295 billion parameters built on a mixture-of-experts architecture. Only 21 billion parameters are active at any given time.",
+      "source": "The Decoder",
+      "published": "2026-07-06T18:03:15+00:00",
+      "link": "https://the-decoder.com/tencent-releases-hy3-open-source-model-that-allegedly-matches-models-up-to-five-times-its-active-size/"
+    },
+    {
+      "title": "Your family’s $300 stake in OpenAI",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here.",
+      "source": "MIT Tech Review",
+      "published": "2026-07-06T18:00:00+00:00",
+      "link": "https://www.technologyreview.com/2026/07/06/1140176/your-familys-300-stake-in-openai/"
+    },
+    {
+      "title": "GPT-4's dominance lasted a year while today's top models barely survive seven weeks at the top",
+      "summary": "OpenAI's GPT-4 led the Epoch Capabilities Index for about a year, far longer than any model since. Since Claude 3 Opus took the top spot in February 2024, the lead has changed hands 17 times, with a median stay of just seven weeks.",
+      "source": "The Decoder",
+      "published": "2026-07-06T17:14:11+00:00",
+      "link": "https://the-decoder.com/gpt-4s-dominance-lasted-a-year-while-todays-top-models-barely-survive-seven-weeks-at-the-top/"
+    },
+    {
+      "title": "If you use Google, you’re training its AI. Here’s how to opt out.",
+      "summary": "PSA: A change to Google's privacy settings let it train its AI on more of your data. Here's how to opt out.",
+      "source": "TechCrunch",
+      "published": "2026-07-06T17:04:58+00:00",
+      "link": "https://techcrunch.com/2026/07/06/if-you-use-google-youre-training-its-ai-heres-how-to-opt-out/"
+    },
     {
       "title": "Microsoft lays off nearly 5,000 employees across Xbox, commercial sales",
       "summary": "Microsoft cut around 4,800 roles, or 2.1% of its global workforce, on Monday — the latest in a series of layoffs that’s stoking fears of AI replacing jobs. The layoffs will hit Xbox and commercial sales the hardest.",
       "source": "TechCrunch",
       "published": "2026-07-06T15:32:43+00:00",
       "link": "https://techcrunch.com/2026/07/06/microsoft-lays-off-nearly-5000-employees-across-xbox-commercial-sales/"
+    },
+    {
+      "title": "Reddit is using LLMs to solve a problem LLMs largely created",
+      "summary": "In the AI era, platforms have no choice but to fight fire with fire to cull spam.",
+      "source": "TechCrunch",
+      "published": "2026-07-06T15:22:08+00:00",
+      "link": "https://techcrunch.com/2026/07/06/reddit-is-using-llms-to-solve-a-problem-llms-largely-created/"
     },
     {
       "title": "AMD Ryzen AI Halo – $4k AI Dev Kit",
@@ -392,6 +441,13 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-07-03T10:56:51+00:00",
       "link": "https://the-decoder.com/tesla-caps-employee-ai-spending-at-200-per-week/"
+    },
+    {
+      "title": "Takeda signs $600M AI drug discovery deal with Insilico",
+      "summary": "Takeda has entered a strategic collaboration with Hong Kong-based Insilico Medicine to use AI in early-stage drug discovery across the Japanese pharmaceutical company’s therapeutic areas.",
+      "source": "AI News",
+      "published": "2026-07-03T10:00:00+00:00",
+      "link": "https://www.artificialintelligence-news.com/news/takeda-insilico-ai-drug-discovery-deal/"
     },
     {
       "title": "Takeda signs US$600M AI drug discovery deal with Insilico",
@@ -1344,62 +1400,6 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-06-29T08:17:41+00:00",
       "link": "https://the-decoder.com/samsung-and-sk-hynix-plan-590-billion-chip-investment-as-ai-demand-sends-memory-prices-soaring/"
-    },
-    {
-      "title": "xFusion scales enterprise AI from edge workstations to liquid-cooled data centres",
-      "summary": "xFusion presented scalable enterprise AI computing models at ISC 2026, transitioning hardware from edge devices to data centres. Enterprise technology buyers attending the Hamburg exhibition sought practical production frameworks.",
-      "source": "AI News",
-      "published": "2026-06-29T08:05:32+00:00",
-      "link": "https://www.artificialintelligence-news.com/news/xfusion-scales-enterprise-ai-from-edge-workstations-to-liquid-cooled-data-centres/"
-    },
-    {
-      "title": "This Humanoid Robot Is a Terrifyingly Competent Office Intern",
-      "summary": "Flexion Robotics, a startup founded by ex-Nvidia engineers, has a clever way of training robots to do useful work.",
-      "source": "Wired",
-      "published": "2026-06-29T08:00:00+00:00",
-      "link": "https://www.wired.com/story/this-robot-is-going-to-replace-your-interns-flexion/"
-    },
-    {
-      "title": "Scam.ai Announces Qualcomm Partnership, Launches Halo Deepfake Detection Model at Computex 2026",
-      "summary": "New partnership brings on-device deepfake detection to video calls on desktop SAN FRANCISCO, June 29, 2026 — Scam.ai today announced a partnership with Qualcomm and the launch of Halo, an on-device deepfake detection model for live video calls.",
-      "source": "AI News",
-      "published": "2026-06-29T07:57:38+00:00",
-      "link": "https://www.artificialintelligence-news.com/news/scam-ai-announces-qualcomm-partnership-launches-halo-deepfake-detection-model-at-computex-2026/"
-    },
-    {
-      "title": "AI boom risks global financial crash, warn central bankers",
-      "summary": "Article URL: https://www.telegraph.co.uk/business/2026/06/28/ai-boom-risks-global-financial-crash-central-bankers-warn/ Comments URL: https://news.ycombinator.com/item?id=48713697 Points: 158 # Comments: 214",
-      "source": "Hacker News",
-      "published": "2026-06-29T01:25:04+00:00",
-      "link": "https://www.telegraph.co.uk/business/2026/06/28/ai-boom-risks-global-financial-crash-central-bankers-warn/"
-    },
-    {
-      "title": "Better Images of AI",
-      "summary": "Article URL: https://betterimagesofai.org/ Comments URL: https://news.ycombinator.com/item?id=48713051 Points: 55 # Comments: 31",
-      "source": "Hacker News",
-      "published": "2026-06-28T23:50:58+00:00",
-      "link": "https://betterimagesofai.org/"
-    },
-    {
-      "title": "We need tech news sources which exclude AI",
-      "summary": "Its now clear that we need to preserve tech press for non AI related things.",
-      "source": "Hacker News",
-      "published": "2026-06-28T23:49:50+00:00",
-      "link": "https://news.ycombinator.com/item?id=48713041"
-    },
-    {
-      "title": "China’s Z.ai claims it can match Mythos on cybersecurity",
-      "summary": "China's Zhipu AI (Z.ai) released its open-weight GLM-5.2, and some researchers have claimed that it matches Mythos in certain bug-finding and cybersecurity scenarios.",
-      "source": "The Verge",
-      "published": "2026-06-28T21:42:51+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/958804/chinas-z-ai-glm-52-mythos-cybersecurity"
-    },
-    {
-      "title": "Suno launches Spark incubator program to feed independent artists to its AI machine",
-      "summary": "Suno has ambitions to be more than just a toy to churn out AI slop, it also wants to be a streaming destination and to break new artists. Spark is their new incubator program for independent artists that provides grants, mentorship, and marketing support.",
-      "source": "The Verge",
-      "published": "2026-06-28T20:27:36+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/958801/suno-launches-spark-incubator-program-to-feed-independent-artists-to-its-ai-machine"
     }
   ]
 };
