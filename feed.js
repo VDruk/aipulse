@@ -1,16 +1,51 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-07-06T09:01:24.824662+00:00",
+  "lastUpdated": "2026-07-06T12:32:51.575503+00:00",
   "items": [
     {
+      "title": "Nvidia's Kyber NVL144 reportedly pushed back more than a year, Asian suppliers drop",
+      "summary": "Nvidia's next AI server rack, Kyber NVL144, has been delayed more than a year to 2028 because of circuit board manufacturing problems, according to analyst firm SemiAnalysis. Asian suppliers lost up to double-digit percentages in market value.",
+      "source": "The Decoder",
+      "published": "2026-07-06T12:30:11+00:00",
+      "link": "https://the-decoder.com/nvidias-kyber-nvl144-reportedly-pushed-back-more-than-a-year-asian-suppliers-drop/"
+    },
+    {
+      "title": "Amazon sunsets Mechanical Turk, the original \"Artificial Artificial Intelligence\"",
+      "summary": "Amazon Web Services is shutting down its crowdsourcing service Mechanical Turk to new customers starting July 30, 2026. The article Amazon sunsets Mechanical Turk, the original \"Artificial Artificial Intelligence\" appeared first on The Decoder.",
+      "source": "The Decoder",
+      "published": "2026-07-06T11:19:29+00:00",
+      "link": "https://the-decoder.com/amazon-sunsets-mechanical-turk-the-original-artificial-artificial-intelligence/"
+    },
+    {
+      "title": "China’s AI companion rules: what Beijing is really going after",
+      "summary": "An AI companion sounds dystopian, but it has become a common thread in the wider conversation about the perils of generative AI.",
+      "source": "AI News",
+      "published": "2026-07-06T11:00:00+00:00",
+      "link": "https://www.artificialintelligence-news.com/news/china-ai-companion-rules/"
+    },
+    {
+      "title": "JADEPUFFER is the first agentic ransomware operation and it exposes old security sins at machine speed",
+      "summary": "Security firm Sysdig describes an extortion attack where a language model broke in on its own, stole credentials, and destroyed databases. No human appeared to be at the controls.",
+      "source": "The Decoder",
+      "published": "2026-07-06T10:04:02+00:00",
+      "link": "https://the-decoder.com/jadepuffer-is-the-first-agentic-ransomware-operation-and-it-exposes-old-security-sins-at-machine-speed/"
+    },
+    {
+      "title": "When AI Costs More Than the Engineer",
+      "summary": "Article URL: https://tomtunguz.com/ai-spend-breakeven-2029/ Comments URL: https://news.ycombinator.com/item?id=48801493 Points: 108 # Comments: 98",
+      "source": "Hacker News",
+      "published": "2026-07-06T07:05:25+00:00",
+      "link": "https://tomtunguz.com/ai-spend-breakeven-2029/"
+    },
+    {
       "title": "GPT-5.6 Sol Ultra will be in Codex",
-      "summary": "Article URL: https://twitter.com/thsottiaux/status/2073933490513752151 Comments URL: https://news.ycombinator.com/item?id=48799614 Points: 152 # Comments: 92",
+      "summary": "https://x.com/haider1/status/2073695124220006575, https://xcancel.com/haider1/status/2073695124220006575 Comments URL: https://news.ycombinator.com/item?id=48799614 Points: 327 # Comments: 275",
       "source": "Hacker News",
       "published": "2026-07-06T01:04:03+00:00",
       "link": "https://twitter.com/thsottiaux/status/2073933490513752151"
     },
     {
       "title": "Al Vigier: Canada's AI strategy shouldn't include secret Palantir bills",
-      "summary": "Article URL: https://www.readtheline.ca/p/al-vigier-canadas-ai-strategy-shouldnt Comments URL: https://news.ycombinator.com/item?id=48799256 Points: 123 # Comments: 46",
+      "summary": "Article URL: https://www.readtheline.ca/p/al-vigier-canadas-ai-strategy-shouldnt Comments URL: https://news.ycombinator.com/item?id=48799256 Points: 157 # Comments: 69",
       "source": "Hacker News",
       "published": "2026-07-06T00:04:48+00:00",
       "link": "https://www.readtheline.ca/p/al-vigier-canadas-ai-strategy-shouldnt"
@@ -24,14 +59,14 @@ const FEED_DATA = {
     },
     {
       "title": "New AI tutor achieves 0.71-1.30 SD effect size in Dartmouth course [pdf]",
-      "summary": "Article URL: https://intextbooks.science.uu.nl/workshop2026/files/itb26_s1s2.pdf Comments URL: https://news.ycombinator.com/item?id=48796817 Points: 146 # Comments: 89",
+      "summary": "Article URL: https://intextbooks.science.uu.nl/workshop2026/files/itb26_s1s2.pdf Comments URL: https://news.ycombinator.com/item?id=48796817 Points: 168 # Comments: 105",
       "source": "Hacker News",
       "published": "2026-07-05T18:47:43+00:00",
       "link": "https://intextbooks.science.uu.nl/workshop2026/files/itb26_s1s2.pdf"
     },
     {
       "title": "A sociotechnical threat model for AI-driven smart home devices",
-      "summary": "Article URL: https://arxiv.org/abs/2602.09239 Comments URL: https://news.ycombinator.com/item?id=48795830 Points: 81 # Comments: 66",
+      "summary": "Article URL: https://arxiv.org/abs/2602.09239 Comments URL: https://news.ycombinator.com/item?id=48795830 Points: 83 # Comments: 66",
       "source": "Hacker News",
       "published": "2026-07-05T17:05:57+00:00",
       "link": "https://arxiv.org/abs/2602.09239"
@@ -87,7 +122,7 @@ const FEED_DATA = {
     },
     {
       "title": "GPT-5.5 Codex reasoning-token clustering may be leading to degraded performance",
-      "summary": "Article URL: https://github.com/openai/codex/issues/30364 Comments URL: https://news.ycombinator.com/item?id=48789428 Points: 360 # Comments: 148",
+      "summary": "Article URL: https://github.com/openai/codex/issues/30364 Comments URL: https://news.ycombinator.com/item?id=48789428 Points: 366 # Comments: 148",
       "source": "Hacker News",
       "published": "2026-07-04T21:51:09+00:00",
       "link": "https://github.com/openai/codex/issues/30364"
@@ -101,7 +136,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI has torched the market for junior programmers",
-      "summary": "Article URL: https://seldo.com/posts/ai-has-torched-the-market-for-junior-programmers/ Comments URL: https://news.ycombinator.com/item?id=48788361 Points: 97 # Comments: 186",
+      "summary": "Article URL: https://seldo.com/posts/ai-has-torched-the-market-for-junior-programmers/ Comments URL: https://news.ycombinator.com/item?id=48788361 Points: 100 # Comments: 191",
       "source": "Hacker News",
       "published": "2026-07-04T19:50:08+00:00",
       "link": "https://seldo.com/posts/ai-has-torched-the-market-for-junior-programmers/"
@@ -178,7 +213,7 @@ const FEED_DATA = {
     },
     {
       "title": "2026 Unslop AI-Written Fiction Contest Results",
-      "summary": "Article URL: https://www.hyperstitionai.com/unslop-results Comments URL: https://news.ycombinator.com/item?id=48782890 Points: 65 # Comments: 145",
+      "summary": "Article URL: https://www.hyperstitionai.com/unslop-results Comments URL: https://news.ycombinator.com/item?id=48782890 Points: 66 # Comments: 145",
       "source": "Hacker News",
       "published": "2026-07-04T05:37:25+00:00",
       "link": "https://www.hyperstitionai.com/unslop-results"
@@ -339,7 +374,7 @@ const FEED_DATA = {
     },
     {
       "title": "Protect your right to run local AI",
-      "summary": "Article URL: https://righttointelligence.org/ Comments URL: https://news.ycombinator.com/item?id=48768951 Points: 547 # Comments: 196",
+      "summary": "Article URL: https://righttointelligence.org/ Comments URL: https://news.ycombinator.com/item?id=48768951 Points: 549 # Comments: 197",
       "source": "Hacker News",
       "published": "2026-07-02T23:54:03+00:00",
       "link": "https://righttointelligence.org/"
@@ -360,7 +395,7 @@ const FEED_DATA = {
     },
     {
       "title": "Zuckerberg says AI agent development going slower than expected",
-      "summary": "Article URL: https://www.reuters.com/business/zuckerberg-says-ai-agent-development-going-slower-than-expected-2026-07-02/ Comments URL: https://news.ycombinator.com/item?id=48767058 Points: 143 # Comments: 283",
+      "summary": "https://archive.md/Q9trL Comments URL: https://news.ycombinator.com/item?id=48767058 Points: 271 # Comments: 460",
       "source": "Hacker News",
       "published": "2026-07-02T20:38:06+00:00",
       "link": "https://www.reuters.com/business/zuckerberg-says-ai-agent-development-going-slower-than-expected-2026-07-02/"
@@ -381,7 +416,7 @@ const FEED_DATA = {
     },
     {
       "title": "The short leash AI coding method for beating Fable",
-      "summary": "Article URL: https://blog.okturtles.org/2026/07/short-leash-ai-method/ Comments URL: https://news.ycombinator.com/item?id=48766026 Points: 195 # Comments: 242",
+      "summary": "Article URL: https://blog.okturtles.org/2026/07/short-leash-ai-method/ Comments URL: https://news.ycombinator.com/item?id=48766026 Points: 195 # Comments: 244",
       "source": "Hacker News",
       "published": "2026-07-02T19:11:57+00:00",
       "link": "https://blog.okturtles.org/2026/07/short-leash-ai-method/"
@@ -1365,41 +1400,6 @@ const FEED_DATA = {
       "source": "The Verge",
       "published": "2026-06-28T14:12:06+00:00",
       "link": "https://www.theverge.com/ai-artificial-intelligence/958751/prosecutors-chatgpt-palisades-wildfire-arson-mistrial"
-    },
-    {
-      "title": "Google limits Meta's use of its Gemini AI models",
-      "summary": "Article URL: https://www.cnbc.com/2026/06/28/google-limits-metas-use-of-its-gemini-ai-models-ft-reports.html Comments URL: https://news.ycombinator.com/item?id=48707103 Points: 162 # Comments: 71",
-      "source": "Hacker News",
-      "published": "2026-06-28T13:30:06+00:00",
-      "link": "https://www.cnbc.com/2026/06/28/google-limits-metas-use-of-its-gemini-ai-models-ft-reports.html"
-    },
-    {
-      "title": "AI won't become a real coworker until it stops answering and starts finishing tasks",
-      "summary": "A survey paper by Tencent and several Chinese universities traces the path from chatbot to \"digital colleague.\" AI systems won't become reliable coworkers, the researchers argue, until they finish entire tasks in persistent work environments instead of just generating answers.",
-      "source": "The Decoder",
-      "published": "2026-06-28T12:51:40+00:00",
-      "link": "https://the-decoder.com/ai-wont-become-a-real-coworker-until-it-stops-answering-and-starts-finishing-tasks/"
-    },
-    {
-      "title": "Coinbase joins the rush to Chinese AI models as Western labs face a pricing stress test",
-      "summary": "Coinbase CEO Brian Armstrong is switching his company to Chinese AI models like GLM 5.2 and Kimi 2.7. An automated routing system picks the best model for each request based on task and price, and better caching pushed the hit rate from 5 to 60 percent.",
-      "source": "The Decoder",
-      "published": "2026-06-28T12:14:38+00:00",
-      "link": "https://the-decoder.com/coinbase-joins-the-rush-to-chinese-ai-models-as-western-labs-face-a-pricing-stress-test/"
-    },
-    {
-      "title": "Only three AI models finished above starting capital in a 500-day startup survival test",
-      "summary": "Researchers at Princeton University built CEO-Bench, a test where AI agents have to run a fictional software company for 500 simulated days. Most current models go broke, and a simple rule-based heuristic with no AI beats nearly all of them.",
-      "source": "The Decoder",
-      "published": "2026-06-28T10:16:13+00:00",
-      "link": "https://the-decoder.com/only-three-ai-models-finished-above-starting-capital-in-a-500-day-startup-survival-test/"
-    },
-    {
-      "title": "Chinese cybersecurity firm builds AI tools to rival Mythos and frames the race as cyber-nuclear deterrence",
-      "summary": "360 founder Zhou Hongyi presents two AI security tools designed to compete with Anthropic's Mythos. One has already flagged 3,432 vulnerabilities.",
-      "source": "The Decoder",
-      "published": "2026-06-28T09:30:18+00:00",
-      "link": "https://the-decoder.com/chinese-cybersecurity-firm-builds-ai-tools-to-rival-mythos-and-frames-the-race-as-cyber-nuclear-deterrence/"
     }
   ]
 };
