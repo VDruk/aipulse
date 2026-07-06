@@ -1,12 +1,54 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-07-06T12:32:51.575503+00:00",
+  "lastUpdated": "2026-07-06T16:22:11.245889+00:00",
   "items": [
+    {
+      "title": "Microsoft lays off nearly 5,000 employees across Xbox, commercial sales",
+      "summary": "Microsoft cut around 4,800 roles, or 2.1% of its global workforce, on Monday — the latest in a series of layoffs that’s stoking fears of AI replacing jobs. The layoffs will hit Xbox and commercial sales the hardest.",
+      "source": "TechCrunch",
+      "published": "2026-07-06T15:32:43+00:00",
+      "link": "https://techcrunch.com/2026/07/06/microsoft-lays-off-nearly-5000-employees-across-xbox-commercial-sales/"
+    },
+    {
+      "title": "AMD Ryzen AI Halo – $4k AI Dev Kit",
+      "summary": "Article URL: https://www.lttlabs.com/articles/2026/07/06/amd-ryzen-ai-halo Comments URL: https://news.ycombinator.com/item?id=48805624 Points: 53 # Comments: 56",
+      "source": "Hacker News",
+      "published": "2026-07-06T15:01:18+00:00",
+      "link": "https://www.lttlabs.com/articles/2026/07/06/amd-ryzen-ai-halo"
+    },
+    {
+      "title": "Station F ramps up as a launchpad for Europe’s hottest AI startups",
+      "summary": "Station F, a Paris-based startup hub founded by French billionaire Xavier Niel, is gearing up for a new edition of its F/ai accelerator program in a bid to strengthen its positioning as a stepping stone for promising AI startups.",
+      "source": "TechCrunch",
+      "published": "2026-07-06T13:00:00+00:00",
+      "link": "https://techcrunch.com/2026/07/06/station-f-ramps-up-as-a-launchpad-for-europes-hottest-ai-startups/"
+    },
+    {
+      "title": "The Download: South Korea’s hottest bachelors, and advancing eye transplants",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.",
+      "source": "MIT Tech Review",
+      "published": "2026-07-06T13:00:00+00:00",
+      "link": "https://www.technologyreview.com/2026/07/06/1140172/the-download-south-korea-ai-chipworkers-eye-transplants/"
+    },
+    {
+      "title": "The AI Marketing Backlash: Why 'AI-First' Brands Are Starting to Fall Flat",
+      "summary": "Article URL: https://www.breef.com/breefingroom/articles/the-ai-marketing-backlash-why-ai-first-brands-are-starting-to-fall-flat Comments URL: https://news.ycombinator.com/item?id=48803711 Points: 75 # Comments: 45",
+      "source": "Hacker News",
+      "published": "2026-07-06T12:33:09+00:00",
+      "link": "https://www.breef.com/breefingroom/articles/the-ai-marketing-backlash-why-ai-first-brands-are-starting-to-fall-flat"
+    },
     {
       "title": "Nvidia's Kyber NVL144 reportedly pushed back more than a year, Asian suppliers drop",
       "summary": "Nvidia's next AI server rack, Kyber NVL144, has been delayed more than a year to 2028 because of circuit board manufacturing problems, according to analyst firm SemiAnalysis. Asian suppliers lost up to double-digit percentages in market value.",
       "source": "The Decoder",
       "published": "2026-07-06T12:30:11+00:00",
       "link": "https://the-decoder.com/nvidias-kyber-nvl144-reportedly-pushed-back-more-than-a-year-asian-suppliers-drop/"
+    },
+    {
+      "title": "China forces its biggest AI platforms to shut down humanlike chatbot personas",
+      "summary": "ByteDance and Alibaba are shutting down the features that let users build and chat with custom AI companions, responding to new regulations from Beijing. The article China forces its biggest AI platforms to shut down humanlike chatbot personas appeared first on The Decoder.",
+      "source": "The Decoder",
+      "published": "2026-07-06T12:26:09+00:00",
+      "link": "https://the-decoder.com/china-forces-its-biggest-ai-platforms-to-shut-down-humanlike-chatbot-personas/"
     },
     {
       "title": "Amazon sunsets Mechanical Turk, the original \"Artificial Artificial Intelligence\"",
@@ -31,21 +73,21 @@ const FEED_DATA = {
     },
     {
       "title": "When AI Costs More Than the Engineer",
-      "summary": "Article URL: https://tomtunguz.com/ai-spend-breakeven-2029/ Comments URL: https://news.ycombinator.com/item?id=48801493 Points: 108 # Comments: 98",
+      "summary": "Article URL: https://tomtunguz.com/ai-spend-breakeven-2029/ Comments URL: https://news.ycombinator.com/item?id=48801493 Points: 121 # Comments: 103",
       "source": "Hacker News",
       "published": "2026-07-06T07:05:25+00:00",
       "link": "https://tomtunguz.com/ai-spend-breakeven-2029/"
     },
     {
       "title": "GPT-5.6 Sol Ultra will be in Codex",
-      "summary": "https://x.com/haider1/status/2073695124220006575, https://xcancel.com/haider1/status/2073695124220006575 Comments URL: https://news.ycombinator.com/item?id=48799614 Points: 327 # Comments: 275",
+      "summary": "https://x.com/haider1/status/2073695124220006575, https://xcancel.com/haider1/status/2073695124220006575 Comments URL: https://news.ycombinator.com/item?id=48799614 Points: 381 # Comments: 330",
       "source": "Hacker News",
       "published": "2026-07-06T01:04:03+00:00",
       "link": "https://twitter.com/thsottiaux/status/2073933490513752151"
     },
     {
       "title": "Al Vigier: Canada's AI strategy shouldn't include secret Palantir bills",
-      "summary": "Article URL: https://www.readtheline.ca/p/al-vigier-canadas-ai-strategy-shouldnt Comments URL: https://news.ycombinator.com/item?id=48799256 Points: 157 # Comments: 69",
+      "summary": "Article URL: https://www.readtheline.ca/p/al-vigier-canadas-ai-strategy-shouldnt Comments URL: https://news.ycombinator.com/item?id=48799256 Points: 162 # Comments: 72",
       "source": "Hacker News",
       "published": "2026-07-06T00:04:48+00:00",
       "link": "https://www.readtheline.ca/p/al-vigier-canadas-ai-strategy-shouldnt"
@@ -58,15 +100,22 @@ const FEED_DATA = {
       "link": "https://www.theverge.com/ai-artificial-intelligence/961505/wealthy-ai-schools-alpha-forge-prep"
     },
     {
+      "title": "New Microsoft 365 pricing live, some products up by 42% due to AI",
+      "summary": "Article URL: https://www.windowslatest.com/2026/07/05/microsoft-365-just-got-a-price-hike-over-continuous-innovation-but-copilot-is-the-ai-tax-on-businesses/ Comments URL: https://news.ycombinator.com/item?id=48798330 Points: 50 # Comments: 29",
+      "source": "Hacker News",
+      "published": "2026-07-05T21:58:20+00:00",
+      "link": "https://www.windowslatest.com/2026/07/05/microsoft-365-just-got-a-price-hike-over-continuous-innovation-but-copilot-is-the-ai-tax-on-businesses/"
+    },
+    {
       "title": "New AI tutor achieves 0.71-1.30 SD effect size in Dartmouth course [pdf]",
-      "summary": "Article URL: https://intextbooks.science.uu.nl/workshop2026/files/itb26_s1s2.pdf Comments URL: https://news.ycombinator.com/item?id=48796817 Points: 168 # Comments: 105",
+      "summary": "Article URL: https://intextbooks.science.uu.nl/workshop2026/files/itb26_s1s2.pdf Comments URL: https://news.ycombinator.com/item?id=48796817 Points: 173 # Comments: 107",
       "source": "Hacker News",
       "published": "2026-07-05T18:47:43+00:00",
       "link": "https://intextbooks.science.uu.nl/workshop2026/files/itb26_s1s2.pdf"
     },
     {
       "title": "A sociotechnical threat model for AI-driven smart home devices",
-      "summary": "Article URL: https://arxiv.org/abs/2602.09239 Comments URL: https://news.ycombinator.com/item?id=48795830 Points: 83 # Comments: 66",
+      "summary": "Article URL: https://arxiv.org/abs/2602.09239 Comments URL: https://news.ycombinator.com/item?id=48795830 Points: 83 # Comments: 67",
       "source": "Hacker News",
       "published": "2026-07-05T17:05:57+00:00",
       "link": "https://arxiv.org/abs/2602.09239"
@@ -136,7 +185,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI has torched the market for junior programmers",
-      "summary": "Article URL: https://seldo.com/posts/ai-has-torched-the-market-for-junior-programmers/ Comments URL: https://news.ycombinator.com/item?id=48788361 Points: 100 # Comments: 191",
+      "summary": "Article URL: https://seldo.com/posts/ai-has-torched-the-market-for-junior-programmers/ Comments URL: https://news.ycombinator.com/item?id=48788361 Points: 100 # Comments: 192",
       "source": "Hacker News",
       "published": "2026-07-04T19:50:08+00:00",
       "link": "https://seldo.com/posts/ai-has-torched-the-market-for-junior-programmers/"
@@ -297,7 +346,7 @@ const FEED_DATA = {
     },
     {
       "title": "Please stop the AI confidence theater",
-      "summary": "Article URL: https://www.elenaverna.com/p/please-stop-the-ai-confidence-theater Comments URL: https://news.ycombinator.com/item?id=48774414 Points: 233 # Comments: 258",
+      "summary": "Article URL: https://www.elenaverna.com/p/please-stop-the-ai-confidence-theater Comments URL: https://news.ycombinator.com/item?id=48774414 Points: 235 # Comments: 259",
       "source": "Hacker News",
       "published": "2026-07-03T12:51:17+00:00",
       "link": "https://www.elenaverna.com/p/please-stop-the-ai-confidence-theater"
@@ -374,7 +423,7 @@ const FEED_DATA = {
     },
     {
       "title": "Protect your right to run local AI",
-      "summary": "Article URL: https://righttointelligence.org/ Comments URL: https://news.ycombinator.com/item?id=48768951 Points: 549 # Comments: 197",
+      "summary": "Article URL: https://righttointelligence.org/ Comments URL: https://news.ycombinator.com/item?id=48768951 Points: 550 # Comments: 199",
       "source": "Hacker News",
       "published": "2026-07-02T23:54:03+00:00",
       "link": "https://righttointelligence.org/"
@@ -395,7 +444,7 @@ const FEED_DATA = {
     },
     {
       "title": "Zuckerberg says AI agent development going slower than expected",
-      "summary": "https://archive.md/Q9trL Comments URL: https://news.ycombinator.com/item?id=48767058 Points: 271 # Comments: 460",
+      "summary": "https://archive.md/Q9trL Comments URL: https://news.ycombinator.com/item?id=48767058 Points: 322 # Comments: 575",
       "source": "Hacker News",
       "published": "2026-07-02T20:38:06+00:00",
       "link": "https://www.reuters.com/business/zuckerberg-says-ai-agent-development-going-slower-than-expected-2026-07-02/"
@@ -1351,55 +1400,6 @@ const FEED_DATA = {
       "source": "The Verge",
       "published": "2026-06-28T20:27:36+00:00",
       "link": "https://www.theverge.com/ai-artificial-intelligence/958801/suno-launches-spark-incubator-program-to-feed-independent-artists-to-its-ai-machine"
-    },
-    {
-      "title": "Show HN: Bash4LLM+ – A lightweight, dependency-free Bash wrapper for LLM APIs",
-      "summary": "Bash4LLM is a single-file Bash wrapper for interacting with LLMs from the terminal. I created it because I wanted something simple that worked without installing Python, Node, or any other runtime.It uses only Bash, curl, and jq.",
-      "source": "Hacker News",
-      "published": "2026-06-28T19:43:10+00:00",
-      "link": "https://github.com/kamaludu/bash4llm/"
-    },
-    {
-      "title": "Show HN: NanoEuler – GPT-2 scale model in pure C/CUDA from scratch",
-      "summary": "Hi everyone,I started working on nanoeuler after the ban of anthropic's fable because my ambition and dream is to work in the AI field in anthropic.",
-      "source": "Hacker News",
-      "published": "2026-06-28T19:38:14+00:00",
-      "link": "https://github.com/JustVugg/nanoeuler"
-    },
-    {
-      "title": "Ford rehires 'gray beard' engineers after AI falls short",
-      "summary": "Article URL: https://techcrunch.com/2026/06/28/ford-rehires-gray-beard-engineers-after-ai-falls-short/ Comments URL: https://news.ycombinator.com/item?id=48710749 Points: 135 # Comments: 3",
-      "source": "Hacker News",
-      "published": "2026-06-28T19:35:57+00:00",
-      "link": "https://techcrunch.com/2026/06/28/ford-rehires-gray-beard-engineers-after-ai-falls-short/"
-    },
-    {
-      "title": "Professor denounces mass AI fraud on an exam at Brown",
-      "summary": "Article URL: https://english.elpais.com/education/2026-06-28/ai-fraud-at-brown-university-academic-integrity-is-at-risk.html Comments URL: https://news.ycombinator.com/item?id=48708991 Points: 548 # Comments: 727",
-      "source": "Hacker News",
-      "published": "2026-06-28T16:41:12+00:00",
-      "link": "https://english.elpais.com/education/2026-06-28/ai-fraud-at-brown-university-academic-integrity-is-at-risk.html"
-    },
-    {
-      "title": "Reflections on software engineering in the age of AI",
-      "summary": "Article URL: https://adiamond.me/2026/06/software-engineering-in-the-age-of-ai/ Comments URL: https://news.ycombinator.com/item?id=48708721 Points: 106 # Comments: 101",
-      "source": "Hacker News",
-      "published": "2026-06-28T16:17:38+00:00",
-      "link": "https://adiamond.me/2026/06/software-engineering-in-the-age-of-ai/"
-    },
-    {
-      "title": "Why Wall Street thinks US memory maker Micron is the next Nvidia",
-      "summary": "Eager to find more public AI-related companies that may do as well as Nvidia, Wall Street investors think they've found a winner with Micron.",
-      "source": "TechCrunch",
-      "published": "2026-06-28T15:00:00+00:00",
-      "link": "https://techcrunch.com/2026/06/28/why-wall-street-thinks-us-memory-maker-micron-is-the-next-nvidia/"
-    },
-    {
-      "title": "Prosecutors used ChatGPT logs as evidence in the Palisades fire trial",
-      "summary": "Jonathan Rinderknecht was facing arson charges for setting a fire on New Year's Day in 2025, which became one of the deadliest wildfires in LA history. To make their case, prosecutors turned to location data from his iPhone, security camera footage, and witness testimony.",
-      "source": "The Verge",
-      "published": "2026-06-28T14:12:06+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/958751/prosecutors-chatgpt-palisades-wildfire-arson-mistrial"
     }
   ]
 };
