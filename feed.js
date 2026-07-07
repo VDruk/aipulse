@@ -1,6 +1,20 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-07-06T22:07:55.777230+00:00",
+  "lastUpdated": "2026-07-07T04:51:04.359654+00:00",
   "items": [
+    {
+      "title": "The ‘first’ AI-run ransomware attack still needed a human",
+      "summary": "An AI agent carried out the technical execution of a real-world ransomware attack for the first known time, but new details show a human still chose the victim, set up the infrastructure, and supplied stolen credentials — meaning it wasn't quite the fully autonomous cybercrime...",
+      "source": "TechCrunch",
+      "published": "2026-07-06T23:56:14+00:00",
+      "link": "https://techcrunch.com/2026/07/06/the-first-ai-run-ransomware-attack-still-needed-a-human/"
+    },
+    {
+      "title": "US investors will soon get access to SK Hynix, another memory maker riding the AI boom",
+      "summary": "SK Hynix is experiencing a boom credited to AI. It will ride that to a multibillion-dollar U.S.",
+      "source": "TechCrunch",
+      "published": "2026-07-06T23:21:03+00:00",
+      "link": "https://techcrunch.com/2026/07/06/us-investors-will-soon-get-access-to-sk-hynix-another-memory-maker-riding-the-ai-boom/"
+    },
     {
       "title": "Vercel CEO Guillermo Rauch on the fight to split off models from agents",
       "summary": "\"The reality is, when you're optimizing for production, you start looking at a price/performance,\" Guillermo Rauch tells TechCrunch.",
@@ -1386,20 +1400,6 @@ const FEED_DATA = {
       "source": "Hacker News",
       "published": "2026-06-29T13:09:03+00:00",
       "link": "https://tidal.com/ai-policy"
-    },
-    {
-      "title": "Omen AI’s plan to optimize data centers is all wet",
-      "summary": "Omen AI raised a $31 million Series A to monitor chip coolant and stop bacterial outbreaks in data centers.",
-      "source": "TechCrunch",
-      "published": "2026-06-29T13:00:00+00:00",
-      "link": "https://techcrunch.com/2026/06/29/omen-ais-plan-to-optimize-data-centers-is-all-wet/"
-    },
-    {
-      "title": "The US military used AI to pick thousands of targets but missed a note saying one was a school",
-      "summary": "The probe into a missile strike on an Iranian school exposes serious gaps in the US military's targeting infrastructure. AI is supposed to close them.",
-      "source": "The Decoder",
-      "published": "2026-06-29T12:30:21+00:00",
-      "link": "https://the-decoder.com/the-us-military-used-ai-to-pick-thousands-of-targets-but-missed-a-note-saying-one-was-a-school/"
     }
   ]
 };
