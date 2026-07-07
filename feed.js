@@ -1,5 +1,5 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-07-07T04:51:04.359654+00:00",
+  "lastUpdated": "2026-07-07T08:24:34.288853+00:00",
   "items": [
     {
       "title": "The ‘first’ AI-run ransomware attack still needed a human",
