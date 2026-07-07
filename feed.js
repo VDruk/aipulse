@@ -1,6 +1,55 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-07-07T15:43:40.932874+00:00",
+  "lastUpdated": "2026-07-07T18:57:24.240262+00:00",
   "items": [
+    {
+      "title": "Copilot goes cheap as Microsoft phases out OpenAI and Anthropic models to cut costs",
+      "summary": "Microsoft is replacing AI models from OpenAI and Anthropic with its own MAI models in products like Excel and Outlook. Tens of thousands of queries per week already run through them.",
+      "source": "The Decoder",
+      "published": "2026-07-07T18:35:58+00:00",
+      "link": "https://the-decoder.com/copilot-goes-cheap-as-microsoft-phases-out-openai-and-anthropic-models-to-cut-costs/"
+    },
+    {
+      "title": "Cohere Transcribe Arabic is an open-source model built for Arabic's toughest transcription problems",
+      "summary": "Cohere has released Transcribe Arabic, an open-source model for Arabic speech recognition that the company says outperforms Whisper and OmniASR on dialects, code-switching, and bilingual Arabic-English speech.",
+      "source": "The Decoder",
+      "published": "2026-07-07T17:54:08+00:00",
+      "link": "https://the-decoder.com/cohere-transcribe-arabic-is-an-open-source-model-built-for-arabics-toughest-transcription-problems/"
+    },
+    {
+      "title": "Anthropic is launching Claude Cowork on mobile and web",
+      "summary": "Starting Tuesday, Anthropic's Claude Cowork AI platform will be available on mobile and web for the first time.",
+      "source": "The Verge",
+      "published": "2026-07-07T17:46:59+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/961978/anthropic-claude-cowork-mobile-web"
+    },
+    {
+      "title": "Anthropic's Claude Cowork AI agent is now available on mobile and web",
+      "summary": "Anthropic is rolling out its AI agent Claude Cowork to mobile and web. Until now, the feature was limited to the desktop app.",
+      "source": "The Decoder",
+      "published": "2026-07-07T17:04:30+00:00",
+      "link": "https://the-decoder.com/anthropics-claude-cowork-ai-agent-is-now-available-on-mobile-and-web/"
+    },
+    {
+      "title": "Claude Cowork expands to mobile and web",
+      "summary": "With this update, users can start a task from their desk, get status updates on their phone, and pick up the finished output later — even if their laptop is closed.",
+      "source": "TechCrunch",
+      "published": "2026-07-07T16:27:18+00:00",
+      "link": "https://techcrunch.com/2026/07/07/the-coding-agent-wars-are-spilling-into-the-rest-of-the-office-claude-cowork/"
+    },
+    {
+      "title": "China eyes export curbs on its top AI models, and Europe is caught in the middle",
+      "summary": "According to Reuters, Chinese authorities are looking into restricting foreign access to the country's most powerful AI models. Alibaba, Bytedance, and Z.ai would all be affected.",
+      "source": "The Decoder",
+      "published": "2026-07-07T16:13:45+00:00",
+      "link": "https://the-decoder.com/china-eyes-export-curbs-on-its-top-ai-models-and-europe-is-caught-in-the-middle/"
+    },
+    {
+      "title": "Shut Those Laptops! Anthropic Puts Its Claude Cowork Agent on Your Phone",
+      "summary": "Claude Cowork now keeps working on tasks even after you close your laptop. It’s part of a larger push toward smartphone-controlled agents.",
+      "source": "Wired",
+      "published": "2026-07-07T16:00:00+00:00",
+      "link": "https://www.wired.com/story/shut-those-laptops-anthropic-puts-its-claude-cowork-agent-on-your-phone/"
+    },
     {
       "title": "Claude's hidden inner monologue is now readable thanks to Anthropic's new Jacobian Lens",
       "summary": "Anthropic has found that Claude developed an internal working memory on its own during training. The company calls it \"J-Space\" and can now read it using a new analysis tool called J-Lens.",
@@ -58,6 +107,13 @@ const FEED_DATA = {
       "link": "https://the-decoder.com/deepseek-is-designing-its-own-ai-chip/"
     },
     {
+      "title": "Beijing is looking at curbing overseas access to China's top AI models",
+      "summary": "Article URL: https://www.reuters.com/world/beijing-is-looking-curbing-overseas-access-chinas-top-ai-models-sources-say-2026-07-07/ Comments URL: https://news.ycombinator.com/item?id=48816025 Points: 52 # Comments: 10",
+      "source": "Hacker News",
+      "published": "2026-07-07T10:51:07+00:00",
+      "link": "https://www.reuters.com/world/beijing-is-looking-curbing-overseas-access-chinas-top-ai-models-sources-say-2026-07-07/"
+    },
+    {
       "title": "OpenAI and Anthropic are giving away millions in computing power to attract startups",
       "summary": "OpenAI, Anthropic, and major cloud providers are racing to outbid each other with free compute credits to pull startups into their ecosystems. Some individual offers top $3 million.",
       "source": "The Decoder",
@@ -108,14 +164,14 @@ const FEED_DATA = {
     },
     {
       "title": "YC CEO says he ships 37K LoC AI code per day. A developer looked under the hood",
-      "summary": "Article URL: https://www.fastcompany.com/91520702/y-combinator-garry-tan-agentic-ai-social-media Comments URL: https://news.ycombinator.com/item?id=48815117 Points: 72 # Comments: 75",
+      "summary": "Article URL: https://www.fastcompany.com/91520702/y-combinator-garry-tan-agentic-ai-social-media Comments URL: https://news.ycombinator.com/item?id=48815117 Points: 104 # Comments: 95",
       "source": "Hacker News",
       "published": "2026-07-07T08:39:51+00:00",
       "link": "https://www.fastcompany.com/91520702/y-combinator-garry-tan-agentic-ai-social-media"
     },
     {
       "title": "Small AI Models Gain Traction In places with unreliable networks",
-      "summary": "Article URL: https://spectrum.ieee.org/small-language-models-ai-pharmaceuticals Comments URL: https://news.ycombinator.com/item?id=48812055 Points: 167 # Comments: 57",
+      "summary": "Article URL: https://spectrum.ieee.org/small-language-models-ai-pharmaceuticals Comments URL: https://news.ycombinator.com/item?id=48812055 Points: 252 # Comments: 77",
       "source": "Hacker News",
       "published": "2026-07-06T23:59:54+00:00",
       "link": "https://spectrum.ieee.org/small-language-models-ai-pharmaceuticals"
@@ -136,14 +192,14 @@ const FEED_DATA = {
     },
     {
       "title": "AI: The ROI Runway Could Be Long Outside the Tech Sector",
-      "summary": "Article URL: https://www.apollo.com/wealth/insights-news/insights/daily-spark/ai-the-roi-runway-could-be-long-outside-the-tech-sector Comments URL: https://news.ycombinator.com/item?id=48810533 Points: 65 # Comments: 78",
+      "summary": "Article URL: https://www.apollo.com/wealth/insights-news/insights/daily-spark/ai-the-roi-runway-could-be-long-outside-the-tech-sector Comments URL: https://news.ycombinator.com/item?id=48810533 Points: 69 # Comments: 83",
       "source": "Hacker News",
       "published": "2026-07-06T21:09:23+00:00",
       "link": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/ai-the-roi-runway-could-be-long-outside-the-tech-sector"
     },
     {
       "title": "GLM 5.2 and the coming AI margin collapse",
-      "summary": "Article URL: https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2/ Comments URL: https://news.ycombinator.com/item?id=48809877 Points: 477 # Comments: 286",
+      "summary": "Article URL: https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2/ Comments URL: https://news.ycombinator.com/item?id=48809877 Points: 650 # Comments: 425",
       "source": "Hacker News",
       "published": "2026-07-06T20:14:55+00:00",
       "link": "https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2/"
@@ -206,7 +262,7 @@ const FEED_DATA = {
     },
     {
       "title": "Big Tech Has Suddenly Flipped on the AI Jobs Wipeout Scenario",
-      "summary": "Article URL: https://www.wsj.com/tech/ai/ai-workers-tech-ceos-job-losses-afc71e15 Comments URL: https://news.ycombinator.com/item?id=48807651 Points: 95 # Comments: 100",
+      "summary": "Article URL: https://www.wsj.com/tech/ai/ai-workers-tech-ceos-job-losses-afc71e15 Comments URL: https://news.ycombinator.com/item?id=48807651 Points: 97 # Comments: 103",
       "source": "Hacker News",
       "published": "2026-07-06T17:16:41+00:00",
       "link": "https://www.wsj.com/tech/ai/ai-workers-tech-ceos-job-losses-afc71e15"
@@ -227,14 +283,14 @@ const FEED_DATA = {
     },
     {
       "title": "OfficeCLI: Office suite for AI agents to read and edit Microsoft Office files",
-      "summary": "Article URL: https://github.com/iOfficeAI/OfficeCLI Comments URL: https://news.ycombinator.com/item?id=48807225 Points: 187 # Comments: 55",
+      "summary": "Article URL: https://github.com/iOfficeAI/OfficeCLI Comments URL: https://news.ycombinator.com/item?id=48807225 Points: 208 # Comments: 61",
       "source": "Hacker News",
       "published": "2026-07-06T16:47:44+00:00",
       "link": "https://github.com/iOfficeAI/OfficeCLI"
     },
     {
       "title": "The AI Superforecasters Are Here",
-      "summary": "Article URL: https://www.astralcodexten.com/p/the-ai-superforecasters-are-here Comments URL: https://news.ycombinator.com/item?id=48806296 Points: 57 # Comments: 55",
+      "summary": "Article URL: https://www.astralcodexten.com/p/the-ai-superforecasters-are-here Comments URL: https://news.ycombinator.com/item?id=48806296 Points: 58 # Comments: 56",
       "source": "Hacker News",
       "published": "2026-07-06T15:45:11+00:00",
       "link": "https://www.astralcodexten.com/p/the-ai-superforecasters-are-here"
@@ -262,7 +318,7 @@ const FEED_DATA = {
     },
     {
       "title": "AMD Ryzen AI Halo – $4k AI Dev Kit",
-      "summary": "Article URL: https://www.lttlabs.com/articles/2026/07/06/amd-ryzen-ai-halo Comments URL: https://news.ycombinator.com/item?id=48805624 Points: 342 # Comments: 229",
+      "summary": "Article URL: https://www.lttlabs.com/articles/2026/07/06/amd-ryzen-ai-halo Comments URL: https://news.ycombinator.com/item?id=48805624 Points: 370 # Comments: 246",
       "source": "Hacker News",
       "published": "2026-07-06T15:01:18+00:00",
       "link": "https://www.lttlabs.com/articles/2026/07/06/amd-ryzen-ai-halo"
@@ -325,28 +381,28 @@ const FEED_DATA = {
     },
     {
       "title": "The Hitchhiker's Guide to Agentic AI",
-      "summary": "Article URL: https://arxiv.org/abs/2606.24937 Comments URL: https://news.ycombinator.com/item?id=48802156 Points: 50 # Comments: 4",
+      "summary": "Article URL: https://arxiv.org/abs/2606.24937 Comments URL: https://news.ycombinator.com/item?id=48802156 Points: 51 # Comments: 4",
       "source": "Hacker News",
       "published": "2026-07-06T08:40:29+00:00",
       "link": "https://arxiv.org/abs/2606.24937"
     },
     {
       "title": "When AI Costs More Than the Engineer",
-      "summary": "Article URL: https://tomtunguz.com/ai-spend-breakeven-2029/ Comments URL: https://news.ycombinator.com/item?id=48801493 Points: 124 # Comments: 111",
+      "summary": "Article URL: https://tomtunguz.com/ai-spend-breakeven-2029/ Comments URL: https://news.ycombinator.com/item?id=48801493 Points: 125 # Comments: 112",
       "source": "Hacker News",
       "published": "2026-07-06T07:05:25+00:00",
       "link": "https://tomtunguz.com/ai-spend-breakeven-2029/"
     },
     {
       "title": "GPT-5.6 Sol Ultra will be in Codex",
-      "summary": "https://x.com/haider1/status/2073695124220006575, https://xcancel.com/haider1/status/2073695124220006575 Comments URL: https://news.ycombinator.com/item?id=48799614 Points: 409 # Comments: 393",
+      "summary": "https://x.com/haider1/status/2073695124220006575, https://xcancel.com/haider1/status/2073695124220006575 Comments URL: https://news.ycombinator.com/item?id=48799614 Points: 411 # Comments: 395",
       "source": "Hacker News",
       "published": "2026-07-06T01:04:03+00:00",
       "link": "https://twitter.com/thsottiaux/status/2073933490513752151"
     },
     {
       "title": "Al Vigier: Canada's AI strategy shouldn't include secret Palantir bills",
-      "summary": "Article URL: https://www.readtheline.ca/p/al-vigier-canadas-ai-strategy-shouldnt Comments URL: https://news.ycombinator.com/item?id=48799256 Points: 163 # Comments: 76",
+      "summary": "Article URL: https://www.readtheline.ca/p/al-vigier-canadas-ai-strategy-shouldnt Comments URL: https://news.ycombinator.com/item?id=48799256 Points: 163 # Comments: 79",
       "source": "Hacker News",
       "published": "2026-07-06T00:04:48+00:00",
       "link": "https://www.readtheline.ca/p/al-vigier-canadas-ai-strategy-shouldnt"
@@ -367,7 +423,7 @@ const FEED_DATA = {
     },
     {
       "title": "New AI tutor achieves 0.71-1.30 SD effect size in Dartmouth course [pdf]",
-      "summary": "Article URL: https://intextbooks.science.uu.nl/workshop2026/files/itb26_s1s2.pdf Comments URL: https://news.ycombinator.com/item?id=48796817 Points: 177 # Comments: 111",
+      "summary": "Article URL: https://intextbooks.science.uu.nl/workshop2026/files/itb26_s1s2.pdf Comments URL: https://news.ycombinator.com/item?id=48796817 Points: 178 # Comments: 112",
       "source": "Hacker News",
       "published": "2026-07-05T18:47:43+00:00",
       "link": "https://intextbooks.science.uu.nl/workshop2026/files/itb26_s1s2.pdf"
@@ -430,7 +486,7 @@ const FEED_DATA = {
     },
     {
       "title": "GPT-5.5 Codex reasoning-token clustering may be leading to degraded performance",
-      "summary": "Article URL: https://github.com/openai/codex/issues/30364 Comments URL: https://news.ycombinator.com/item?id=48789428 Points: 368 # Comments: 151",
+      "summary": "Article URL: https://github.com/openai/codex/issues/30364 Comments URL: https://news.ycombinator.com/item?id=48789428 Points: 369 # Comments: 151",
       "source": "Hacker News",
       "published": "2026-07-04T21:51:09+00:00",
       "link": "https://github.com/openai/codex/issues/30364"
@@ -1059,18 +1115,18 @@ const FEED_DATA = {
       "link": "https://the-decoder.com/openai-paper-reveals-three-gpt-5-6-pro-models-breaking-with-single-top-tier-strategy/"
     },
     {
-      "title": "Claude Helped a Hacker Find a Way to Issue Tickets to Almost Every US Music Festival",
-      "summary": "A researcher found that using Anthropic’s Claude Opus 4.7, he could break into the website of Front Gate—used by every festival from Lollapalooza to Bonnaroo—and freely issue any ticket he chose.",
-      "source": "Wired",
-      "published": "2026-07-01T10:00:00+00:00",
-      "link": "https://www.wired.com/story/claude-helped-a-hacker-find-a-way-to-issue-tickets-to-almost-every-us-music-festival/"
-    },
-    {
       "title": "Bank of England reviews AI rules for agentic AI in finance",
       "summary": "The Bank of England is reviewing whether existing rules can cover the use of agentic AI in finance, including payments, trading, cybersecurity, and operations.",
       "source": "AI News",
       "published": "2026-07-01T10:00:00+00:00",
       "link": "https://www.artificialintelligence-news.com/news/bank-of-england-agentic-ai-finance-rules/"
+    },
+    {
+      "title": "Claude Helped a Hacker Find a Way to Issue Tickets to Almost Every US Music Festival",
+      "summary": "A researcher found that using Anthropic’s Claude Opus 4.7, he could break into the website of Front Gate—used by every festival from Lollapalooza to Bonnaroo—and freely issue any ticket he chose.",
+      "source": "Wired",
+      "published": "2026-07-01T10:00:00+00:00",
+      "link": "https://www.wired.com/story/claude-helped-a-hacker-find-a-way-to-issue-tickets-to-almost-every-us-music-festival/"
     },
     {
       "title": "Anthropic deploys Claude Sonnet 5, Fable and Mythos restored",
@@ -1344,62 +1400,6 @@ const FEED_DATA = {
       "source": "Wired",
       "published": "2026-06-30T10:30:00+00:00",
       "link": "https://www.wired.com/story/the-big-interview-podcast-senator-bernie-sanders/"
-    },
-    {
-      "title": "Building tech in the world’s secret R&D hub",
-      "summary": "Apple. Anthropic.",
-      "source": "MIT Tech Review",
-      "published": "2026-06-30T10:23:30+00:00",
-      "link": "https://www.technologyreview.com/2026/06/30/1139661/building-tech-in-the-worlds-secret-rd-hub/"
-    },
-    {
-      "title": "Taiwan raids Super Micro offices in probe over Nvidia chip smuggling to China",
-      "summary": "Taiwanese authorities have raided the offices of Super Micro Computer and several local partner companies. The article Taiwan raids Super Micro offices in probe over Nvidia chip smuggling to China appeared first on The Decoder.",
-      "source": "The Decoder",
-      "published": "2026-06-30T09:43:41+00:00",
-      "link": "https://the-decoder.com/taiwan-raids-super-micro-offices-in-probe-over-nvidia-chip-smuggling-to-china/"
-    },
-    {
-      "title": "Crypto exchange OKX wants AI agents to hire and pay each other",
-      "summary": "OKX is bringing together payments, identity, and reputation into a marketplace for AI agents.",
-      "source": "TechCrunch",
-      "published": "2026-06-30T09:00:00+00:00",
-      "link": "https://techcrunch.com/2026/06/30/crypto-exchange-okx-wants-ai-agents-to-hire-and-pay-each-other/"
-    },
-    {
-      "title": "Deepseek's DSpark boosts AI speed by up to 85 percent, a strategic win under tightening US export controls",
-      "summary": "Deepseek's new DSpark framework boosts per-user response speed by 60 to 85 percent. A small model proposes token candidates that the larger model checks in batches, squeezing more performance out of fewer chips.",
-      "source": "The Decoder",
-      "published": "2026-06-30T08:28:02+00:00",
-      "link": "https://the-decoder.com/deepseeks-dspark-boosts-ai-speed-by-up-to-85-percent-a-strategic-win-under-tightening-us-export-controls/"
-    },
-    {
-      "title": "The AI jobs debate just got messier",
-      "summary": "A new report finds \"high-intensity AI adopters” saw headcount increase 10.2%. Among those companies, entry-level headcount rose by 12%, countering the rhetoric that AI kills junior jobs.",
-      "source": "TechCrunch",
-      "published": "2026-06-30T04:01:00+00:00",
-      "link": "https://techcrunch.com/2026/06/29/the-ai-jobs-debate-just-got-messier/"
-    },
-    {
-      "title": "Vibe-coding platform Base44 launches own model as AI startups seek defensibility",
-      "summary": "Wix-owned vibe-coding platform Base44 has started rolling out its own AI model — with hopes that it will eventually outperform frontier models.",
-      "source": "TechCrunch",
-      "published": "2026-06-30T02:28:41+00:00",
-      "link": "https://techcrunch.com/2026/06/29/vibe-coding-platform-base44-launches-own-model-as-ai-startups-seek-defensibility/"
-    },
-    {
-      "title": "Vibe coding platform Base44 launches own model as AI startups seek defensibility",
-      "summary": "Wix-owned vibe coding platform Base44 has started rolling out its own AI model — with hopes that it will eventually outperform frontier models.",
-      "source": "TechCrunch",
-      "published": "2026-06-30T02:28:41+00:00",
-      "link": "https://techcrunch.com/2026/06/29/vibe-coding-platform-base44-launches-own-model-as-ai-startups-seek-defensibility/"
-    },
-    {
-      "title": "Meta Contractors Posed as Teens to Prompt Rival Chatbots About Suicide, Sex, and Drugs",
-      "summary": "Hundreds of contractors working on a project for Meta pretended to be kids in order to see how other chatbots like Gemini and ChatGPT would respond to high-risk subjects, WIRED found.",
-      "source": "Wired",
-      "published": "2026-06-29T21:49:26+00:00",
-      "link": "https://www.wired.com/story/meta-contractors-pretending-to-be-teens-chatbot-testing/"
     }
   ]
 };
