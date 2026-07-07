@@ -1,6 +1,55 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-07-07T18:57:24.240262+00:00",
+  "lastUpdated": "2026-07-07T22:06:03.541612+00:00",
   "items": [
+    {
+      "title": "Meta Now Lets Anyone Use Your Instagram Photos in AI Images—Unless You Opt Out",
+      "summary": "As part of Meta’s Muse Image model rollout, Instagram users with public accounts need to opt out to block AI generations of their content.",
+      "source": "Wired",
+      "published": "2026-07-07T21:59:29+00:00",
+      "link": "https://www.wired.com/story/meta-now-lets-anyone-use-your-instagram-photos-in-ai-images-unless-you-opt-out/"
+    },
+    {
+      "title": "OpenAI’s Chief Futurist Is Leaving the Company",
+      "summary": "Joshua Achiam spent nearly nine years at OpenAI researching AI safety and made a memorable appearance in the Musk v. Altman trial.",
+      "source": "Wired",
+      "published": "2026-07-07T21:30:00+00:00",
+      "link": "https://www.wired.com/story/openai-chief-futurist-joshua-achiam-is-leaving-the-company/"
+    },
+    {
+      "title": "Meta’s new Muse Image model can pull other Instagram users into AI photos",
+      "summary": "Meta is launching the first AI image generation model made by its Superintelligence Labs division.",
+      "source": "The Verge",
+      "published": "2026-07-07T20:31:58+00:00",
+      "link": "https://www.theverge.com/tech/962485/meta-muse-image-ai-model-instagram"
+    },
+    {
+      "title": "Why the rise of open source AI isn’t hurting Anthropic … yet",
+      "summary": "Open source models’ success isn’t coming at the expense of frontier labs. Instead, they each seem to capture two phases of the same life cycle.",
+      "source": "TechCrunch",
+      "published": "2026-07-07T20:04:32+00:00",
+      "link": "https://techcrunch.com/2026/07/07/why-the-rise-of-open-source-ai-isnt-hurting-anthropic-yet/"
+    },
+    {
+      "title": "Microsoft joins AI cost-cutting trend by relying more on its own models",
+      "summary": "Microsoft is the latest Silicon Valley giant to cut back on its AI spending.",
+      "source": "TechCrunch",
+      "published": "2026-07-07T19:58:20+00:00",
+      "link": "https://techcrunch.com/2026/07/07/microsoft-joins-ai-cost-cutting-trend-by-relying-more-on-its-own-models/"
+    },
+    {
+      "title": "Discord admits AI moderation bug wrongfully banned users over harmless images",
+      "summary": "The company confirmed that the issue had been affecting accounts since May, with an additional 200 users banned over the weekend before its team identified and fixed the problem.",
+      "source": "TechCrunch",
+      "published": "2026-07-07T19:28:38+00:00",
+      "link": "https://techcrunch.com/2026/07/07/discord-admits-ai-moderation-bug-wrongfully-banned-users-over-harmless-images/"
+    },
+    {
+      "title": "AI Meets Cryptography 1: What AI Found in Cloudflare's Circl",
+      "summary": "Article URL: https://blog.zksecurity.xyz/posts/circl-bugs/ Comments URL: https://news.ycombinator.com/item?id=48821749 Points: 55 # Comments: 6",
+      "source": "Hacker News",
+      "published": "2026-07-07T18:36:35+00:00",
+      "link": "https://blog.zksecurity.xyz/posts/circl-bugs/"
+    },
     {
       "title": "Copilot goes cheap as Microsoft phases out OpenAI and Anthropic models to cut costs",
       "summary": "Microsoft is replacing AI models from OpenAI and Anthropic with its own MAI models in products like Excel and Outlook. Tens of thousands of queries per week already run through them.",
@@ -49,6 +98,13 @@ const FEED_DATA = {
       "source": "Wired",
       "published": "2026-07-07T16:00:00+00:00",
       "link": "https://www.wired.com/story/shut-those-laptops-anthropic-puts-its-claude-cowork-agent-on-your-phone/"
+    },
+    {
+      "title": "Automating AI Away",
+      "summary": "Article URL: https://replicated.live/blog/away Comments URL: https://news.ycombinator.com/item?id=48818937 Points: 81 # Comments: 40",
+      "source": "Hacker News",
+      "published": "2026-07-07T15:11:08+00:00",
+      "link": "https://replicated.live/blog/away"
     },
     {
       "title": "Claude's hidden inner monologue is now readable thanks to Anthropic's new Jacobian Lens",
@@ -108,7 +164,7 @@ const FEED_DATA = {
     },
     {
       "title": "Beijing is looking at curbing overseas access to China's top AI models",
-      "summary": "Article URL: https://www.reuters.com/world/beijing-is-looking-curbing-overseas-access-chinas-top-ai-models-sources-say-2026-07-07/ Comments URL: https://news.ycombinator.com/item?id=48816025 Points: 52 # Comments: 10",
+      "summary": "Article URL: https://www.reuters.com/world/beijing-is-looking-curbing-overseas-access-chinas-top-ai-models-sources-say-2026-07-07/ Comments URL: https://news.ycombinator.com/item?id=48816025 Points: 54 # Comments: 10",
       "source": "Hacker News",
       "published": "2026-07-07T10:51:07+00:00",
       "link": "https://www.reuters.com/world/beijing-is-looking-curbing-overseas-access-chinas-top-ai-models-sources-say-2026-07-07/"
@@ -164,14 +220,14 @@ const FEED_DATA = {
     },
     {
       "title": "YC CEO says he ships 37K LoC AI code per day. A developer looked under the hood",
-      "summary": "Article URL: https://www.fastcompany.com/91520702/y-combinator-garry-tan-agentic-ai-social-media Comments URL: https://news.ycombinator.com/item?id=48815117 Points: 104 # Comments: 95",
+      "summary": "Article URL: https://www.fastcompany.com/91520702/y-combinator-garry-tan-agentic-ai-social-media Comments URL: https://news.ycombinator.com/item?id=48815117 Points: 104 # Comments: 96",
       "source": "Hacker News",
       "published": "2026-07-07T08:39:51+00:00",
       "link": "https://www.fastcompany.com/91520702/y-combinator-garry-tan-agentic-ai-social-media"
     },
     {
       "title": "Small AI Models Gain Traction In places with unreliable networks",
-      "summary": "Article URL: https://spectrum.ieee.org/small-language-models-ai-pharmaceuticals Comments URL: https://news.ycombinator.com/item?id=48812055 Points: 252 # Comments: 77",
+      "summary": "Article URL: https://spectrum.ieee.org/small-language-models-ai-pharmaceuticals Comments URL: https://news.ycombinator.com/item?id=48812055 Points: 258 # Comments: 78",
       "source": "Hacker News",
       "published": "2026-07-06T23:59:54+00:00",
       "link": "https://spectrum.ieee.org/small-language-models-ai-pharmaceuticals"
@@ -199,7 +255,7 @@ const FEED_DATA = {
     },
     {
       "title": "GLM 5.2 and the coming AI margin collapse",
-      "summary": "Article URL: https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2/ Comments URL: https://news.ycombinator.com/item?id=48809877 Points: 650 # Comments: 425",
+      "summary": "Article URL: https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2/ Comments URL: https://news.ycombinator.com/item?id=48809877 Points: 660 # Comments: 446",
       "source": "Hacker News",
       "published": "2026-07-06T20:14:55+00:00",
       "link": "https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2/"
@@ -283,7 +339,7 @@ const FEED_DATA = {
     },
     {
       "title": "OfficeCLI: Office suite for AI agents to read and edit Microsoft Office files",
-      "summary": "Article URL: https://github.com/iOfficeAI/OfficeCLI Comments URL: https://news.ycombinator.com/item?id=48807225 Points: 208 # Comments: 61",
+      "summary": "Article URL: https://github.com/iOfficeAI/OfficeCLI Comments URL: https://news.ycombinator.com/item?id=48807225 Points: 211 # Comments: 61",
       "source": "Hacker News",
       "published": "2026-07-06T16:47:44+00:00",
       "link": "https://github.com/iOfficeAI/OfficeCLI"
@@ -318,7 +374,7 @@ const FEED_DATA = {
     },
     {
       "title": "AMD Ryzen AI Halo – $4k AI Dev Kit",
-      "summary": "Article URL: https://www.lttlabs.com/articles/2026/07/06/amd-ryzen-ai-halo Comments URL: https://news.ycombinator.com/item?id=48805624 Points: 370 # Comments: 246",
+      "summary": "Article URL: https://www.lttlabs.com/articles/2026/07/06/amd-ryzen-ai-halo Comments URL: https://news.ycombinator.com/item?id=48805624 Points: 370 # Comments: 254",
       "source": "Hacker News",
       "published": "2026-07-06T15:01:18+00:00",
       "link": "https://www.lttlabs.com/articles/2026/07/06/amd-ryzen-ai-halo"
@@ -388,21 +444,21 @@ const FEED_DATA = {
     },
     {
       "title": "When AI Costs More Than the Engineer",
-      "summary": "Article URL: https://tomtunguz.com/ai-spend-breakeven-2029/ Comments URL: https://news.ycombinator.com/item?id=48801493 Points: 125 # Comments: 112",
+      "summary": "Article URL: https://tomtunguz.com/ai-spend-breakeven-2029/ Comments URL: https://news.ycombinator.com/item?id=48801493 Points: 125 # Comments: 113",
       "source": "Hacker News",
       "published": "2026-07-06T07:05:25+00:00",
       "link": "https://tomtunguz.com/ai-spend-breakeven-2029/"
     },
     {
       "title": "GPT-5.6 Sol Ultra will be in Codex",
-      "summary": "https://x.com/haider1/status/2073695124220006575, https://xcancel.com/haider1/status/2073695124220006575 Comments URL: https://news.ycombinator.com/item?id=48799614 Points: 411 # Comments: 395",
+      "summary": "https://x.com/haider1/status/2073695124220006575, https://xcancel.com/haider1/status/2073695124220006575 Comments URL: https://news.ycombinator.com/item?id=48799614 Points: 411 # Comments: 397",
       "source": "Hacker News",
       "published": "2026-07-06T01:04:03+00:00",
       "link": "https://twitter.com/thsottiaux/status/2073933490513752151"
     },
     {
       "title": "Al Vigier: Canada's AI strategy shouldn't include secret Palantir bills",
-      "summary": "Article URL: https://www.readtheline.ca/p/al-vigier-canadas-ai-strategy-shouldnt Comments URL: https://news.ycombinator.com/item?id=48799256 Points: 163 # Comments: 79",
+      "summary": "Article URL: https://www.readtheline.ca/p/al-vigier-canadas-ai-strategy-shouldnt Comments URL: https://news.ycombinator.com/item?id=48799256 Points: 164 # Comments: 79",
       "source": "Hacker News",
       "published": "2026-07-06T00:04:48+00:00",
       "link": "https://www.readtheline.ca/p/al-vigier-canadas-ai-strategy-shouldnt"
@@ -1344,62 +1400,6 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-06-30T15:00:00+00:00",
       "link": "https://techcrunch.com/2026/06/30/podcasting-platform-riverside-enters-the-newsletter-publishing-game/"
-    },
-    {
-      "title": "Amazon launches new $1 billion FDE org, following OpenAI and Anthropic",
-      "summary": "Engineers on the new team will embed within companies to deploy purpose-built agents, focusing on fast deployments and customer self-sufficiency.",
-      "source": "TechCrunch",
-      "published": "2026-06-30T15:00:00+00:00",
-      "link": "https://techcrunch.com/2026/06/30/amazon-launches-new-1-billion-fde-org-following-openai-and-anthropic/"
-    },
-    {
-      "title": "Lumo, Proton’s privacy-focused AI chatbot, gets an upgrade",
-      "summary": "Proton's Lumo 2.0 is dropping this week, giving users a broader variety of capabilities.",
-      "source": "TechCrunch",
-      "published": "2026-06-30T14:00:00+00:00",
-      "link": "https://techcrunch.com/2026/06/30/lumo-protons-privacy-focused-ai-chatbot-gets-an-upgrade/"
-    },
-    {
-      "title": "US campaigns now run on AI at nearly every step, and Europe is drawing a harder line",
-      "summary": "Republican and Democratic campaigns now run on AI at nearly every step, from vetting opponents to micro-targeting voters, according to a New York Times report. But the technology is still a political minefield, and Europe is taking a very different approach.",
-      "source": "The Decoder",
-      "published": "2026-06-30T12:36:40+00:00",
-      "link": "https://the-decoder.com/us-campaigns-now-run-on-ai-at-nearly-every-step-and-europe-is-drawing-a-harder-line/"
-    },
-    {
-      "title": "The Download: AI “coworkers” and stratospheric internet",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. AI agents are not your “coworkers” Imagine coming in to work to learn that a new underling will report to you.",
-      "source": "MIT Tech Review",
-      "published": "2026-06-30T12:10:00+00:00",
-      "link": "https://www.technologyreview.com/2026/06/30/1139954/the-download-ai-agents-coworkers-solar-powered-internet/"
-    },
-    {
-      "title": "Meet the lawyer who beat Elon Musk — twice",
-      "summary": "Watching Elon Musk fulminate at Bill Savitt during Musk v. Altman - the case in which Musk sued Sam Altman and OpenAI instead of seeing a therapist about his AI failures - was a bit like watching a toddler have a temper tantrum at his nursery school teacher.",
-      "source": "The Verge",
-      "published": "2026-06-30T12:00:00+00:00",
-      "link": "https://www.theverge.com/column/959270/elon-musk-open-ai-bill-savitt-twitter"
-    },
-    {
-      "title": "Agriculture is ready for AI, but its data isn’t",
-      "summary": "Artificial intelligence is transforming what is possible in agriculture, but industry leaders should be wary of investing in AI without first laying the groundwork.",
-      "source": "MIT Tech Review",
-      "published": "2026-06-30T12:00:00+00:00",
-      "link": "https://www.technologyreview.com/2026/06/30/1139513/agriculture-is-ready-for-ai-but-its-data-isnt/"
-    },
-    {
-      "title": "Meta secretly tested ChatGPT, Gemini, and Character.AI with thousands of minor-perspective crisis prompts",
-      "summary": "Meta reportedly had hundreds of contractors pose as minors and send suicide, sex, and drug-related prompts to chatbots from OpenAI, Google, and Character.AI. In a single testing round, more than 45,000 prompts were sent.",
-      "source": "The Decoder",
-      "published": "2026-06-30T11:14:52+00:00",
-      "link": "https://the-decoder.com/meta-secretly-tested-chatgpt-gemini-and-character-ai-with-thousands-of-minor-perspective-crisis-prompts/"
-    },
-    {
-      "title": "Bernie Sanders Saw This Coming",
-      "summary": "For decades, the senator has argued that concentrated wealth threatened American democracy. Now he’s betting that frustration with Big Tech, billionaires, and unchecked AI is reaching a tipping point.",
-      "source": "Wired",
-      "published": "2026-06-30T10:30:00+00:00",
-      "link": "https://www.wired.com/story/the-big-interview-podcast-senator-bernie-sanders/"
     }
   ]
 };
