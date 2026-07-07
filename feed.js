@@ -1,6 +1,48 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-07-07T11:35:10.124185+00:00",
+  "lastUpdated": "2026-07-07T15:43:40.932874+00:00",
   "items": [
+    {
+      "title": "Claude's hidden inner monologue is now readable thanks to Anthropic's new Jacobian Lens",
+      "summary": "Anthropic has found that Claude developed an internal working memory on its own during training. The company calls it \"J-Space\" and can now read it using a new analysis tool called J-Lens.",
+      "source": "The Decoder",
+      "published": "2026-07-07T14:46:29+00:00",
+      "link": "https://the-decoder.com/claudes-hidden-inner-monologue-is-now-readable-thanks-to-anthropics-new-jacobian-lens/"
+    },
+    {
+      "title": "Insilico Medicine advances AI drug for IPF to Phase III trials",
+      "summary": "Insilico Medicine is advancing to Phase III human trials for testing a drug identified by AI targeting idiopathic pulmonary fibrosis (IPF).",
+      "source": "AI News",
+      "published": "2026-07-07T14:00:06+00:00",
+      "link": "https://www.artificialintelligence-news.com/news/insilico-medicine-advances-ai-drug-for-ipf-to-phase-iii-trials/"
+    },
+    {
+      "title": "Solos debuts an even lighter version of its camera-less smart glasses",
+      "summary": "Solos announced a new version of its AirGo smart glasses, one that forgoes cameras for a sleeker design and an AI assistant that relies on voice interactions. Last year's AirGo A5 weighed 36 to 40 grams depending on the frame style, but the new AirGo A6 weigh around 19 grams.",
+      "source": "The Verge",
+      "published": "2026-07-07T13:00:00+00:00",
+      "link": "https://www.theverge.com/tech/961711/solos-airgo-a6-smart-glasses-ai-assistant-privacy"
+    },
+    {
+      "title": "The Download: your stake in OpenAI, and the Treasury’s AI warning",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.",
+      "source": "MIT Tech Review",
+      "published": "2026-07-07T12:10:00+00:00",
+      "link": "https://www.technologyreview.com/2026/07/07/1140197/the-download-your-openai-stake-treasury-ai-warning/"
+    },
+    {
+      "title": "Savi’s app aims to protect consumers from realistic AI scams like kidnappers demanding ransom",
+      "summary": "The company just raised $7 million in seed funding, and is launching its app for iPhone and Android on Tuesday.",
+      "source": "TechCrunch",
+      "published": "2026-07-07T12:00:00+00:00",
+      "link": "https://techcrunch.com/2026/07/07/savis-app-aims-to-protect-consumers-from-realistic-ai-scams-like-kidnappers-demanding-ransom/"
+    },
+    {
+      "title": "Chinese AI models regularly pass 30 percent on OpenRouter as cost gap widens",
+      "summary": "Chinese AI models are gaining ground with US companies because they cost far less than systems from OpenAI and Anthropic, CNBC reports. The article Chinese AI models regularly pass 30 percent on OpenRouter as cost gap widens appeared first on The Decoder.",
+      "source": "The Decoder",
+      "published": "2026-07-07T11:34:52+00:00",
+      "link": "https://the-decoder.com/chinese-ai-models-regularly-pass-30-percent-on-openrouter-as-cost-gap-widens/"
+    },
     {
       "title": "The foundational elements of AI architecture that IT leaders need to scale",
       "summary": "With the rapid progress of AI capabilities and the move to agentic systems, organizations are expanding their use cases as the technology continues to grow.",
@@ -44,6 +86,13 @@ const FEED_DATA = {
       "link": "https://www.wired.com/story/erling-haaland-is-everywhere-at-the-world-cup-most-of-it-is-ai/"
     },
     {
+      "title": "L’Oreal, Mondelez, and Nestle use AI to speed product development",
+      "summary": "L’Oreal is using AI to shorten product development timelines and identify new uses for ingredients already present in its portfolio.",
+      "source": "AI News",
+      "published": "2026-07-07T10:00:00+00:00",
+      "link": "https://www.artificialintelligence-news.com/news/ai-product-development-loreal-mondelez-nestle/"
+    },
+    {
       "title": "British Space Startup Launches Longevity Lab Into Orbit",
       "summary": "The lab will beam back data to train AI models to predict how proteins behind age-related diseases like Alzheimer’s and certain cancers behave.",
       "source": "Wired",
@@ -52,7 +101,7 @@ const FEED_DATA = {
     },
     {
       "title": "The first American autonomous ground vehicles are fighting in Ukraine",
-      "summary": "Forterra has deployed more than 100",
+      "summary": "Forterra has deployed more than 100 of its self-driving ATVs in conflict zones in Ukraine.",
       "source": "TechCrunch",
       "published": "2026-07-07T09:00:00+00:00",
       "link": "https://techcrunch.com/2026/07/07/the-first-american-autonomous-ground-vehicles-are-fighting-in-ukraine/"
@@ -1351,55 +1400,6 @@ const FEED_DATA = {
       "source": "Wired",
       "published": "2026-06-29T21:49:26+00:00",
       "link": "https://www.wired.com/story/meta-contractors-pretending-to-be-teens-chatbot-testing/"
-    },
-    {
-      "title": "Gemini’s personalized AI image generation is now free for US users",
-      "summary": "Google is expanding Gemini’s personalized AI image generation to eligible free users in the U.S., allowing the chatbot to create images based on your interests and data from connected Google apps.",
-      "source": "TechCrunch",
-      "published": "2026-06-29T20:12:59+00:00",
-      "link": "https://techcrunch.com/2026/06/29/geminis-personalized-ai-image-generation-is-now-free-for-u-s-users/"
-    },
-    {
-      "title": "Tidal won’t pay royalties on AI-generated music, but isn’t banning it outright",
-      "summary": "Tidal shared its new policies regarding AI-generated music today and how the platform plans to \"protect artists\" and \"inform listeners.\" Instead of banning it outright, starting on July 15th Tidal will label tracks it has identified as being 100 percent AI-generated with an icon.",
-      "source": "The Verge",
-      "published": "2026-06-29T19:47:35+00:00",
-      "link": "https://www.theverge.com/tech/959211/tidal-ai-music-policy-demonetizingdetect-label"
-    },
-    {
-      "title": "OpenAI is teasing new hardware… for Codex",
-      "summary": "OpenAI is releasing some sort of device related to its AI-powered coding tool, Codex, on July 15th.",
-      "source": "The Verge",
-      "published": "2026-06-29T18:52:03+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/959174/openai-codex-hardware-work-louder"
-    },
-    {
-      "title": "Anthropic and Gov. Newsom forge deal allowing California government to use Claude at half price",
-      "summary": "As Anthropic forges a closer relationship with the state of California, the federal government has made an enemy out of the OpenAI rival.",
-      "source": "TechCrunch",
-      "published": "2026-06-29T18:10:26+00:00",
-      "link": "https://techcrunch.com/2026/06/29/anthropic-and-gov-newsom-forge-deal-allowing-california-government-to-use-claude-at-half-price/"
-    },
-    {
-      "title": "South Korean tech giants commit over $550B to ease ‘RAMageddon’",
-      "summary": "The world's two largest memory chip companies vow to build more memory lab fabs as South Korea positions itself as an AI tech powerhouse country.",
-      "source": "TechCrunch",
-      "published": "2026-06-29T18:07:48+00:00",
-      "link": "https://techcrunch.com/2026/06/29/south-korean-tech-giants-commit-over-550b-to-ease-ramageddon/"
-    },
-    {
-      "title": "South Korean tech giants commit over $550B to ease ‘ RAMageddon’",
-      "summary": "The world's two largest memory chip companies vow to build more memory lab fabs as South Korea positions itself as an AI tech powerhouse country.",
-      "source": "TechCrunch",
-      "published": "2026-06-29T18:07:48+00:00",
-      "link": "https://techcrunch.com/2026/06/29/south-korean-tech-giants-commit-over-550b-to-ease-ramageddon/"
-    },
-    {
-      "title": "Amazon engineers are reportedly distilling Anthropic models to cut costs before new token-based pricing kicks in",
-      "summary": "Amazon engineers are already distilling Anthropic models into smaller, cheaper versions for internal use. Starting next year, Amazon will pay by tokens processed rather than compute hours, which could push costs up sharply.",
-      "source": "The Decoder",
-      "published": "2026-06-29T18:05:37+00:00",
-      "link": "https://the-decoder.com/amazon-engineers-are-reportedly-distilling-anthropic-models-to-cut-costs-before-new-token-based-pricing-kicks-in/"
     }
   ]
 };
