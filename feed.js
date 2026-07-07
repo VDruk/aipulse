@@ -1,6 +1,76 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-07-07T08:24:34.288853+00:00",
+  "lastUpdated": "2026-07-07T11:35:10.124185+00:00",
   "items": [
+    {
+      "title": "The foundational elements of AI architecture that IT leaders need to scale",
+      "summary": "With the rapid progress of AI capabilities and the move to agentic systems, organizations are expanding their use cases as the technology continues to grow.",
+      "source": "MIT Tech Review",
+      "published": "2026-07-07T11:10:52+00:00",
+      "link": "https://www.technologyreview.com/2026/07/07/1139413/the-foundational-elements-of-ai-architecture-that-it-leaders-need-to-scale/"
+    },
+    {
+      "title": "Deepseek is designing its own AI chip",
+      "summary": "Chinese startup Deepseek is building its own AI chip, Reuters reports. The article Deepseek is designing its own AI chip appeared first on The Decoder.",
+      "source": "The Decoder",
+      "published": "2026-07-07T11:04:34+00:00",
+      "link": "https://the-decoder.com/deepseek-is-designing-its-own-ai-chip/"
+    },
+    {
+      "title": "OpenAI and Anthropic are giving away millions in computing power to attract startups",
+      "summary": "OpenAI, Anthropic, and major cloud providers are racing to outbid each other with free compute credits to pull startups into their ecosystems. Some individual offers top $3 million.",
+      "source": "The Decoder",
+      "published": "2026-07-07T10:44:35+00:00",
+      "link": "https://the-decoder.com/openai-and-anthropic-are-giving-away-millions-in-computing-power-to-attract-startups/"
+    },
+    {
+      "title": "Apollo economist warns AI profit gains outside tech could take \"well beyond\" what Wall Street expects",
+      "summary": "Apollo chief economist Torsten Slok sees no AI-driven margin gains outside tech. In regulated industries like healthcare, banking, or pharma, process overhauls and privacy rules could delay productivity boosts by years.",
+      "source": "The Decoder",
+      "published": "2026-07-07T10:28:57+00:00",
+      "link": "https://the-decoder.com/apollo-economist-warns-ai-profit-gains-outside-tech-could-take-well-beyond-what-wall-street-expects/"
+    },
+    {
+      "title": "Why worms (and microbes) are catching on as a manure pollution solution",
+      "summary": "Anthony Agueda, a third-generation California dairy farmer, pulls a rake through a bed of dark, wet wood chips on his family’s land in Hickman, a tiny town in the state’s agricultural heartland.",
+      "source": "MIT Tech Review",
+      "published": "2026-07-07T10:00:00+00:00",
+      "link": "https://www.technologyreview.com/2026/07/07/1140142/why-worms-and-microbes-are-catching-on-as-a-manure-pollution-solution/"
+    },
+    {
+      "title": "Erling Haaland Is Everywhere at the World Cup. Most of It Is AI",
+      "summary": "Norwegian striker Erling Haaland isn’t just a footballer anymore. He’s become an internet character perpetuated by fans and AI.",
+      "source": "Wired",
+      "published": "2026-07-07T10:00:00+00:00",
+      "link": "https://www.wired.com/story/erling-haaland-is-everywhere-at-the-world-cup-most-of-it-is-ai/"
+    },
+    {
+      "title": "British Space Startup Launches Longevity Lab Into Orbit",
+      "summary": "The lab will beam back data to train AI models to predict how proteins behind age-related diseases like Alzheimer’s and certain cancers behave.",
+      "source": "Wired",
+      "published": "2026-07-07T09:57:12+00:00",
+      "link": "https://www.wired.com/story/british-space-startup-launches-longevity-lab-into-orbit/"
+    },
+    {
+      "title": "The first American autonomous ground vehicles are fighting in Ukraine",
+      "summary": "Forterra has deployed more than 100",
+      "source": "TechCrunch",
+      "published": "2026-07-07T09:00:00+00:00",
+      "link": "https://techcrunch.com/2026/07/07/the-first-american-autonomous-ground-vehicles-are-fighting-in-ukraine/"
+    },
+    {
+      "title": "YC CEO says he ships 37K LoC AI code per day. A developer looked under the hood",
+      "summary": "Article URL: https://www.fastcompany.com/91520702/y-combinator-garry-tan-agentic-ai-social-media Comments URL: https://news.ycombinator.com/item?id=48815117 Points: 72 # Comments: 75",
+      "source": "Hacker News",
+      "published": "2026-07-07T08:39:51+00:00",
+      "link": "https://www.fastcompany.com/91520702/y-combinator-garry-tan-agentic-ai-social-media"
+    },
+    {
+      "title": "Small AI Models Gain Traction In places with unreliable networks",
+      "summary": "Article URL: https://spectrum.ieee.org/small-language-models-ai-pharmaceuticals Comments URL: https://news.ycombinator.com/item?id=48812055 Points: 167 # Comments: 57",
+      "source": "Hacker News",
+      "published": "2026-07-06T23:59:54+00:00",
+      "link": "https://spectrum.ieee.org/small-language-models-ai-pharmaceuticals"
+    },
     {
       "title": "The ‘first’ AI-run ransomware attack still needed a human",
       "summary": "An AI agent carried out the technical execution of a real-world ransomware attack for the first known time, but new details show a human still chose the victim, set up the infrastructure, and supplied stolen credentials — meaning it wasn't quite the fully autonomous cybercrime...",
@@ -14,6 +84,20 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-07-06T23:21:03+00:00",
       "link": "https://techcrunch.com/2026/07/06/us-investors-will-soon-get-access-to-sk-hynix-another-memory-maker-riding-the-ai-boom/"
+    },
+    {
+      "title": "AI: The ROI Runway Could Be Long Outside the Tech Sector",
+      "summary": "Article URL: https://www.apollo.com/wealth/insights-news/insights/daily-spark/ai-the-roi-runway-could-be-long-outside-the-tech-sector Comments URL: https://news.ycombinator.com/item?id=48810533 Points: 65 # Comments: 78",
+      "source": "Hacker News",
+      "published": "2026-07-06T21:09:23+00:00",
+      "link": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/ai-the-roi-runway-could-be-long-outside-the-tech-sector"
+    },
+    {
+      "title": "GLM 5.2 and the coming AI margin collapse",
+      "summary": "Article URL: https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2/ Comments URL: https://news.ycombinator.com/item?id=48809877 Points: 477 # Comments: 286",
+      "source": "Hacker News",
+      "published": "2026-07-06T20:14:55+00:00",
+      "link": "https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2/"
     },
     {
       "title": "Vercel CEO Guillermo Rauch on the fight to split off models from agents",
@@ -73,7 +157,7 @@ const FEED_DATA = {
     },
     {
       "title": "Big Tech Has Suddenly Flipped on the AI Jobs Wipeout Scenario",
-      "summary": "Article URL: https://www.wsj.com/tech/ai/ai-workers-tech-ceos-job-losses-afc71e15 Comments URL: https://news.ycombinator.com/item?id=48807651 Points: 88 # Comments: 93",
+      "summary": "Article URL: https://www.wsj.com/tech/ai/ai-workers-tech-ceos-job-losses-afc71e15 Comments URL: https://news.ycombinator.com/item?id=48807651 Points: 95 # Comments: 100",
       "source": "Hacker News",
       "published": "2026-07-06T17:16:41+00:00",
       "link": "https://www.wsj.com/tech/ai/ai-workers-tech-ceos-job-losses-afc71e15"
@@ -94,14 +178,14 @@ const FEED_DATA = {
     },
     {
       "title": "OfficeCLI: Office suite for AI agents to read and edit Microsoft Office files",
-      "summary": "Article URL: https://github.com/iOfficeAI/OfficeCLI Comments URL: https://news.ycombinator.com/item?id=48807225 Points: 79 # Comments: 24",
+      "summary": "Article URL: https://github.com/iOfficeAI/OfficeCLI Comments URL: https://news.ycombinator.com/item?id=48807225 Points: 187 # Comments: 55",
       "source": "Hacker News",
       "published": "2026-07-06T16:47:44+00:00",
       "link": "https://github.com/iOfficeAI/OfficeCLI"
     },
     {
       "title": "The AI Superforecasters Are Here",
-      "summary": "Article URL: https://www.astralcodexten.com/p/the-ai-superforecasters-are-here Comments URL: https://news.ycombinator.com/item?id=48806296 Points: 55 # Comments: 49",
+      "summary": "Article URL: https://www.astralcodexten.com/p/the-ai-superforecasters-are-here Comments URL: https://news.ycombinator.com/item?id=48806296 Points: 57 # Comments: 55",
       "source": "Hacker News",
       "published": "2026-07-06T15:45:11+00:00",
       "link": "https://www.astralcodexten.com/p/the-ai-superforecasters-are-here"
@@ -122,14 +206,14 @@ const FEED_DATA = {
     },
     {
       "title": "Google Chrome Installed a 4GB AI Model on Your PC",
-      "summary": "Article URL: https://oztalking.com/en/issues/hidden-4gb-ai-model Comments URL: https://news.ycombinator.com/item?id=48805627 Points: 77 # Comments: 63",
+      "summary": "Article URL: https://oztalking.com/en/issues/hidden-4gb-ai-model Comments URL: https://news.ycombinator.com/item?id=48805627 Points: 78 # Comments: 63",
       "source": "Hacker News",
       "published": "2026-07-06T15:01:44+00:00",
       "link": "https://oztalking.com/en/issues/hidden-4gb-ai-model"
     },
     {
       "title": "AMD Ryzen AI Halo – $4k AI Dev Kit",
-      "summary": "Article URL: https://www.lttlabs.com/articles/2026/07/06/amd-ryzen-ai-halo Comments URL: https://news.ycombinator.com/item?id=48805624 Points: 242 # Comments: 172",
+      "summary": "Article URL: https://www.lttlabs.com/articles/2026/07/06/amd-ryzen-ai-halo Comments URL: https://news.ycombinator.com/item?id=48805624 Points: 342 # Comments: 229",
       "source": "Hacker News",
       "published": "2026-07-06T15:01:18+00:00",
       "link": "https://www.lttlabs.com/articles/2026/07/06/amd-ryzen-ai-halo"
@@ -191,22 +275,29 @@ const FEED_DATA = {
       "link": "https://the-decoder.com/jadepuffer-is-the-first-agentic-ransomware-operation-and-it-exposes-old-security-sins-at-machine-speed/"
     },
     {
+      "title": "The Hitchhiker's Guide to Agentic AI",
+      "summary": "Article URL: https://arxiv.org/abs/2606.24937 Comments URL: https://news.ycombinator.com/item?id=48802156 Points: 50 # Comments: 4",
+      "source": "Hacker News",
+      "published": "2026-07-06T08:40:29+00:00",
+      "link": "https://arxiv.org/abs/2606.24937"
+    },
+    {
       "title": "When AI Costs More Than the Engineer",
-      "summary": "Article URL: https://tomtunguz.com/ai-spend-breakeven-2029/ Comments URL: https://news.ycombinator.com/item?id=48801493 Points: 123 # Comments: 107",
+      "summary": "Article URL: https://tomtunguz.com/ai-spend-breakeven-2029/ Comments URL: https://news.ycombinator.com/item?id=48801493 Points: 124 # Comments: 111",
       "source": "Hacker News",
       "published": "2026-07-06T07:05:25+00:00",
       "link": "https://tomtunguz.com/ai-spend-breakeven-2029/"
     },
     {
       "title": "GPT-5.6 Sol Ultra will be in Codex",
-      "summary": "https://x.com/haider1/status/2073695124220006575, https://xcancel.com/haider1/status/2073695124220006575 Comments URL: https://news.ycombinator.com/item?id=48799614 Points: 400 # Comments: 369",
+      "summary": "https://x.com/haider1/status/2073695124220006575, https://xcancel.com/haider1/status/2073695124220006575 Comments URL: https://news.ycombinator.com/item?id=48799614 Points: 409 # Comments: 393",
       "source": "Hacker News",
       "published": "2026-07-06T01:04:03+00:00",
       "link": "https://twitter.com/thsottiaux/status/2073933490513752151"
     },
     {
       "title": "Al Vigier: Canada's AI strategy shouldn't include secret Palantir bills",
-      "summary": "Article URL: https://www.readtheline.ca/p/al-vigier-canadas-ai-strategy-shouldnt Comments URL: https://news.ycombinator.com/item?id=48799256 Points: 163 # Comments: 74",
+      "summary": "Article URL: https://www.readtheline.ca/p/al-vigier-canadas-ai-strategy-shouldnt Comments URL: https://news.ycombinator.com/item?id=48799256 Points: 163 # Comments: 76",
       "source": "Hacker News",
       "published": "2026-07-06T00:04:48+00:00",
       "link": "https://www.readtheline.ca/p/al-vigier-canadas-ai-strategy-shouldnt"
@@ -220,21 +311,21 @@ const FEED_DATA = {
     },
     {
       "title": "New Microsoft 365 pricing live, some products up by 42% due to AI",
-      "summary": "Article URL: https://www.windowslatest.com/2026/07/05/microsoft-365-just-got-a-price-hike-over-continuous-innovation-but-copilot-is-the-ai-tax-on-businesses/ Comments URL: https://news.ycombinator.com/item?id=48798330 Points: 51 # Comments: 30",
+      "summary": "Article URL: https://www.windowslatest.com/2026/07/05/microsoft-365-just-got-a-price-hike-over-continuous-innovation-but-copilot-is-the-ai-tax-on-businesses/ Comments URL: https://news.ycombinator.com/item?id=48798330 Points: 52 # Comments: 32",
       "source": "Hacker News",
       "published": "2026-07-05T21:58:20+00:00",
       "link": "https://www.windowslatest.com/2026/07/05/microsoft-365-just-got-a-price-hike-over-continuous-innovation-but-copilot-is-the-ai-tax-on-businesses/"
     },
     {
       "title": "New AI tutor achieves 0.71-1.30 SD effect size in Dartmouth course [pdf]",
-      "summary": "Article URL: https://intextbooks.science.uu.nl/workshop2026/files/itb26_s1s2.pdf Comments URL: https://news.ycombinator.com/item?id=48796817 Points: 176 # Comments: 110",
+      "summary": "Article URL: https://intextbooks.science.uu.nl/workshop2026/files/itb26_s1s2.pdf Comments URL: https://news.ycombinator.com/item?id=48796817 Points: 177 # Comments: 111",
       "source": "Hacker News",
       "published": "2026-07-05T18:47:43+00:00",
       "link": "https://intextbooks.science.uu.nl/workshop2026/files/itb26_s1s2.pdf"
     },
     {
       "title": "A sociotechnical threat model for AI-driven smart home devices",
-      "summary": "Article URL: https://arxiv.org/abs/2602.09239 Comments URL: https://news.ycombinator.com/item?id=48795830 Points: 83 # Comments: 67",
+      "summary": "Article URL: https://arxiv.org/abs/2602.09239 Comments URL: https://news.ycombinator.com/item?id=48795830 Points: 83 # Comments: 68",
       "source": "Hacker News",
       "published": "2026-07-05T17:05:57+00:00",
       "link": "https://arxiv.org/abs/2602.09239"
@@ -290,7 +381,7 @@ const FEED_DATA = {
     },
     {
       "title": "GPT-5.5 Codex reasoning-token clustering may be leading to degraded performance",
-      "summary": "Article URL: https://github.com/openai/codex/issues/30364 Comments URL: https://news.ycombinator.com/item?id=48789428 Points: 367 # Comments: 151",
+      "summary": "Article URL: https://github.com/openai/codex/issues/30364 Comments URL: https://news.ycombinator.com/item?id=48789428 Points: 368 # Comments: 151",
       "source": "Hacker News",
       "published": "2026-07-04T21:51:09+00:00",
       "link": "https://github.com/openai/codex/issues/30364"
@@ -1309,97 +1400,6 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-06-29T18:05:37+00:00",
       "link": "https://the-decoder.com/amazon-engineers-are-reportedly-distilling-anthropic-models-to-cut-costs-before-new-token-based-pricing-kicks-in/"
-    },
-    {
-      "title": "AI agents are not your “coworkers”",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here.",
-      "source": "MIT Tech Review",
-      "published": "2026-06-29T18:00:00+00:00",
-      "link": "https://www.technologyreview.com/2026/06/29/1139849/ai-agents-are-not-your-coworkers/"
-    },
-    {
-      "title": "EU seeks AI independence as Austria proposes luring Anthropic to Europe",
-      "summary": "Austria's State Secretary for Digitalization, Alexander Pröll, is calling on the European Commission to explore bringing Anthropic to Europe. He's responding to the U.S.",
-      "source": "The Decoder",
-      "published": "2026-06-29T17:58:42+00:00",
-      "link": "https://the-decoder.com/eu-seeks-ai-independence-as-austria-proposes-luring-anthropic-to-europe/"
-    },
-    {
-      "title": "Arena, the AI leaderboard everyone uses, is now a $100M business",
-      "summary": "The startup, which runs a popular free AI leaderboard, launched its commercial service just last September.",
-      "source": "TechCrunch",
-      "published": "2026-06-29T17:39:17+00:00",
-      "link": "https://techcrunch.com/2026/06/29/arena-the-ai-leaderboard-everyone-uses-is-now-a-100m-business/"
-    },
-    {
-      "title": "Cursor now has a mobile app for guiding your coding agent on the go",
-      "summary": "Cursor has launched a new mobile app for remote oversight over coding agents.",
-      "source": "TechCrunch",
-      "published": "2026-06-29T17:03:50+00:00",
-      "link": "https://techcrunch.com/2026/06/29/cursor-now-has-a-mobile-app-for-guiding-your-coding-agent-on-the-go/"
-    },
-    {
-      "title": "Amazon Is Awash with AI-Written Guideslop for Games That Aren't Even Out",
-      "summary": "Article URL: https://kotaku.com/amazon-ai-game-guidebooks-alien-isolation-gears-of-war-2000711365 Comments URL: https://news.ycombinator.com/item?id=48721494 Points: 55 # Comments: 3",
-      "source": "Hacker News",
-      "published": "2026-06-29T16:39:38+00:00",
-      "link": "https://kotaku.com/amazon-ai-game-guidebooks-alien-isolation-gears-of-war-2000711365"
-    },
-    {
-      "title": "TIDAL cracks down on AI music by cutting off monetization",
-      "summary": "In addition, TIDAL will use automated tools to remove AI-generated music that attempts to impersonate an artist or a group, the company said.",
-      "source": "TechCrunch",
-      "published": "2026-06-29T16:29:04+00:00",
-      "link": "https://techcrunch.com/2026/06/29/tidal-cracks-down-on-ai-music-by-cutting-off-monetization/"
-    },
-    {
-      "title": "Lawmakers want to ban AI companies from selling your health data",
-      "summary": "A new proposal would ban the sale of Americans' health and location information to data brokers - including information people reveal to an AI chatbot like ChatGPT or Claude.",
-      "source": "The Verge",
-      "published": "2026-06-29T16:00:00+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/959033/health-location-data-protection-act-ai-warren-scanlon"
-    },
-    {
-      "title": "Meta restricts use of Claude Code and Codex to keep rival AI out of its training data",
-      "summary": "Meta is restricting its engineers' use of Anthropic's Claude and OpenAI's Codex to prevent output from these AI tools from being incorporated into its own training data.",
-      "source": "The Decoder",
-      "published": "2026-06-29T15:47:43+00:00",
-      "link": "https://the-decoder.com/meta-restricts-use-of-claude-code-and-codex-to-keep-rival-ai-out-of-its-training-data/"
-    },
-    {
-      "title": "Deloitte tells its own consultants: AI is coming for the billable hour",
-      "summary": "An internal Deloitte presentation projects that the consulting industry's classic hourly billing model will shrink to a thin sliver of the total market by 2035, replaced by AI agents. \"Our model is toast,\" one consultant summed up the message.",
-      "source": "The Decoder",
-      "published": "2026-06-29T15:14:44+00:00",
-      "link": "https://the-decoder.com/deloitte-tells-its-own-consultants-ai-is-coming-for-the-billable-hour/"
-    },
-    {
-      "title": "Working With AI: A concrete example",
-      "summary": "Article URL: https://htmx.org/essays/working-with-ai/ Comments URL: https://news.ycombinator.com/item?id=48720064 Points: 192 # Comments: 72",
-      "source": "Hacker News",
-      "published": "2026-06-29T14:53:41+00:00",
-      "link": "https://htmx.org/essays/working-with-ai/"
-    },
-    {
-      "title": "Agent confidence on the technical frontier",
-      "summary": "Enterprise investment in AI is booming. Gartner is calling 2026 an “inflection year” for organizations to align their AI projects with strategic business objectives.",
-      "source": "MIT Tech Review",
-      "published": "2026-06-29T14:44:01+00:00",
-      "link": "https://www.technologyreview.com/2026/06/29/1139635/agent-confidence-on-the-technical-frontier/"
-    },
-    {
-      "title": "Robot hand company settles Tesla trade secret suit and announces $11M raise",
-      "summary": "The startup, Proception, is taking a unique approach to collecting training data to tackle one of the hardest problems in robotics: hands.",
-      "source": "TechCrunch",
-      "published": "2026-06-29T14:00:08+00:00",
-      "link": "https://techcrunch.com/2026/06/29/robot-hand-company-settles-tesla-trade-secret-suit-and-announces-11m-raise/"
-    },
-    {
-      "title": "Tidal AI Policy",
-      "summary": "Article URL: https://tidal.com/ai-policy Comments URL: https://news.ycombinator.com/item?id=48718840 Points: 308 # Comments: 345",
-      "source": "Hacker News",
-      "published": "2026-06-29T13:09:03+00:00",
-      "link": "https://tidal.com/ai-policy"
     }
   ]
 };
