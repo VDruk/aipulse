@@ -1,6 +1,69 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-07-08T18:13:49.902944+00:00",
+  "lastUpdated": "2026-07-08T21:59:39.320897+00:00",
   "items": [
+    {
+      "title": "Messi and Ronaldo Are Building Tech Portfolios. Mo Salah Is Playing a Different Game",
+      "summary": "Lionel Messi and Cristiano Ronaldo are betting on AI, health tech, and startups. Mohamed Salah is taking a more traditional route beyond football.",
+      "source": "Wired",
+      "published": "2026-07-08T21:08:26+00:00",
+      "link": "https://www.wired.com/story/messi-ronaldo-tech-portfolios-salah-playing-a-different-game/"
+    },
+    {
+      "title": "Google’s deepfake detector system used to debunk McConnell hoax pic",
+      "summary": "Earlier this week, a picture seemed to show Kentucky Senator Mitch McConnell covered in tubes in a hospital bed in a state of extreme distress. It turned out to be an AI-generated fake.",
+      "source": "TechCrunch",
+      "published": "2026-07-08T20:37:03+00:00",
+      "link": "https://techcrunch.com/2026/07/08/googles-deepfake-detector-system-used-to-debunk-mcconnell-hoax-pic/"
+    },
+    {
+      "title": "I Built a Self-Improving AI, and So Can You",
+      "summary": "Experiments in using AI to build AI show that the future doesn’t just belong to the frontier labs.",
+      "source": "Wired",
+      "published": "2026-07-08T20:09:21+00:00",
+      "link": "https://www.wired.com/story/frontier-labs-arent-the-only-ones-pursuing-self-improving-ai/"
+    },
+    {
+      "title": "SpaceXAI releases Grok 4.5, which Elon describes as an ‘Opus-class model’",
+      "summary": "Elon Musk's tech company released the newest version of Grok on Wednesday, promising a cheaper, more efficient alternative to other powerful AI models.",
+      "source": "TechCrunch",
+      "published": "2026-07-08T19:30:16+00:00",
+      "link": "https://techcrunch.com/2026/07/08/spacexai-releases-grok-4-5-which-elon-describes-as-an-opus-class-model/"
+    },
+    {
+      "title": "This startup thinks robotics is about to have its ChatGPT moment",
+      "summary": "General Intuition is betting millions of hours of video game data can train the foundation models for physical AI, making it easier to build smarter robots with minimal real-world data.",
+      "source": "TechCrunch",
+      "published": "2026-07-08T19:19:15+00:00",
+      "link": "https://techcrunch.com/2026/07/08/this-startup-thinks-robotics-is-about-to-have-its-chatgpt-moment/"
+    },
+    {
+      "title": "Grok 4.5 is so cheap compared to Fable 5 and GPT 5.5 that benchmark gaps may not matter much",
+      "summary": "xAI releases Grok 4.5, trained on tens of thousands of Nvidia GB300 GPUs. In coding benchmarks, the model trails Fable 5 and GPT-5.5 but needs 4.2 times fewer tokens than Opus 4.8.",
+      "source": "The Decoder",
+      "published": "2026-07-08T19:01:44+00:00",
+      "link": "https://the-decoder.com/grok-4-5-is-so-cheap-compared-to-fable-5-and-gpt-5-5-that-benchmark-gaps-may-not-matter-much/"
+    },
+    {
+      "title": "Google pays $250K for Linux vulnerability allowing guest VM escapes",
+      "summary": "Both vulnerabilities allow untrusted users to gain root privileges.",
+      "source": "Ars Technica",
+      "published": "2026-07-08T19:01:19+00:00",
+      "link": "https://arstechnica.com/security/2026/07/high-severity-guest-vm-escape-is-1-of-2-linux-vulnerabilities-to-surface-this-week/"
+    },
+    {
+      "title": "Google Photos adds a new AI ‘Video Remix’ tool",
+      "summary": "The feature can do things like apply cinematic relighting to brighten up a dark clip, swap out a plain background for something fun, or add artistic styles to videos.",
+      "source": "TechCrunch",
+      "published": "2026-07-08T18:30:08+00:00",
+      "link": "https://techcrunch.com/2026/07/08/google-photos-adds-a-new-ai-video-remix-tool/"
+    },
+    {
+      "title": "ChatGPT can now listen and talk at the same time, making AI conversations seem more human",
+      "summary": "OpenAI's GPT-Live can listen and speak at the same time using a full-duplex architecture. Complex questions get handed off to GPT-5.5 in the background, which drastically improves response quality.",
+      "source": "The Decoder",
+      "published": "2026-07-08T18:18:55+00:00",
+      "link": "https://the-decoder.com/chatgpt-can-now-listen-and-talk-at-the-same-time-making-ai-conversations-seem-more-human/"
+    },
     {
       "title": "Why this CEO thinks video games make better training data than the internet",
       "summary": "When it comes to achieving artificial general intelligence (AGI), large language models just don’t have what it takes.",
@@ -80,7 +143,7 @@ const FEED_DATA = {
     },
     {
       "title": "US rare earths flow to Asia as domestic demand is slow to emerge",
-      "summary": "Miners backed by Trump admin. sell to Japan, South Korea despite push to develop domestic supply chain.",
+      "summary": "Miners backed by Trump admin sell to Japan, South Korea despite push to develop domestic supply chain.",
       "source": "Ars Technica",
       "published": "2026-07-08T13:26:10+00:00",
       "link": "https://arstechnica.com/science/2026/07/us-rare-earths-flow-to-asia-as-domestic-demand-is-slow-to-emerge/"
@@ -1337,69 +1400,6 @@ const FEED_DATA = {
       "source": "The Verge",
       "published": "2026-07-01T12:00:00+00:00",
       "link": "https://www.theverge.com/tech/959503/google-home-speaker-review-gemini-for-home"
-    },
-    {
-      "title": "Hidden code in Claude Code secretly flagged Chinese users",
-      "summary": "Anthropic is removing a hidden monitoring feature from its programming tool, Claude Code, after it sparked outrage on social media. The article Hidden code in Claude Code secretly flagged Chinese users appeared first on The Decoder.",
-      "source": "The Decoder",
-      "published": "2026-07-01T11:27:06+00:00",
-      "link": "https://the-decoder.com/hidden-code-in-claude-code-secretly-flagged-chinese-users/"
-    },
-    {
-      "title": "Claude Sonnet 5 continues Anthropic's pattern of hiding price increases behind unchanged token rates",
-      "summary": "Claude Sonnet 5 ranks fifth in the Artificial Analysis Intelligence Index with 53 points and even beats the pricier Opus 4.8 on some agent-based tasks.",
-      "source": "The Decoder",
-      "published": "2026-07-01T11:12:09+00:00",
-      "link": "https://the-decoder.com/claude-sonnet-5-continues-anthropics-pattern-of-hiding-price-increases-behind-unchanged-token-rates/"
-    },
-    {
-      "title": "Japan’s answer to its worker shortage: An AI model for 10 million robots",
-      "summary": "Japan’s AI robots plan just went from a talking point to a formal national strategy.",
-      "source": "AI News",
-      "published": "2026-07-01T11:00:00+00:00",
-      "link": "https://www.artificialintelligence-news.com/news/japan-ai-robots-2040-national-ai-model/"
-    },
-    {
-      "title": "OpenAI's genomics paper accidentally reveals a Pro lineup it hasn't announced yet",
-      "summary": "An OpenAI benchmark paper suggests that the Pro tier of GPT-5.6 could ship in three variants. That would be the first major change to ChatGPT Pro's structure since the plan launched.",
-      "source": "The Decoder",
-      "published": "2026-07-01T10:03:41+00:00",
-      "link": "https://the-decoder.com/openai-paper-reveals-three-gpt-5-6-pro-models-breaking-with-single-top-tier-strategy/"
-    },
-    {
-      "title": "OpenAI paper reveals three GPT-5.6 Pro models, breaking with single top-tier strategy",
-      "summary": "An OpenAI benchmark paper suggests that the Pro tier of GPT-5.6 could ship in three variants. That would be the first major change to ChatGPT Pro's structure since the plan launched.",
-      "source": "The Decoder",
-      "published": "2026-07-01T10:03:41+00:00",
-      "link": "https://the-decoder.com/openai-paper-reveals-three-gpt-5-6-pro-models-breaking-with-single-top-tier-strategy/"
-    },
-    {
-      "title": "Bank of England reviews AI rules for agentic AI in finance",
-      "summary": "The Bank of England is reviewing whether existing rules can cover the use of agentic AI in finance, including payments, trading, cybersecurity, and operations.",
-      "source": "AI News",
-      "published": "2026-07-01T10:00:00+00:00",
-      "link": "https://www.artificialintelligence-news.com/news/bank-of-england-agentic-ai-finance-rules/"
-    },
-    {
-      "title": "Claude Helped a Hacker Find a Way to Issue Tickets to Almost Every US Music Festival",
-      "summary": "A researcher found that using Anthropic’s Claude Opus 4.7, he could break into the website of Front Gate—used by every festival from Lollapalooza to Bonnaroo—and freely issue any ticket he chose.",
-      "source": "Wired",
-      "published": "2026-07-01T10:00:00+00:00",
-      "link": "https://www.wired.com/story/claude-helped-a-hacker-find-a-way-to-issue-tickets-to-almost-every-us-music-festival/"
-    },
-    {
-      "title": "Anthropic deploys Claude Sonnet 5, Fable and Mythos restored",
-      "summary": "Anthropic has launched Claude Sonnet 5 and restored access to its Fable and Mythos frontier models following a federal export control review.",
-      "source": "AI News",
-      "published": "2026-07-01T08:47:12+00:00",
-      "link": "https://www.artificialintelligence-news.com/news/anthropic-deploys-claude-sonnet-5-fable-and-mythos-restored/"
-    },
-    {
-      "title": "Godot will no longer accept AI-authored code contributions",
-      "summary": "Article URL: https://www.pcgamer.com/gaming-industry/open-source-game-engine-godot-will-no-longer-accept-ai-authored-code-contributions-we-cant-trust-heavy-users-of-ai-to-understand-their-code-enough-to-fix-it/ Comments URL: https://news.ycombinator.com/item?id=48743472 Points:...",
-      "source": "Hacker News",
-      "published": "2026-07-01T07:43:22+00:00",
-      "link": "https://www.pcgamer.com/gaming-industry/open-source-game-engine-godot-will-no-longer-accept-ai-authored-code-contributions-we-cant-trust-heavy-users-of-ai-to-understand-their-code-enough-to-fix-it/"
     }
   ]
 };
