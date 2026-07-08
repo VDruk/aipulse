@@ -1,6 +1,62 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-07-08T10:52:21.836918+00:00",
+  "lastUpdated": "2026-07-08T15:23:16.463868+00:00",
   "items": [
+    {
+      "title": "Google Deepmind adds background execution and MCP support to Gemini API managed agents",
+      "summary": "Google Deepmind is adding four new features to Managed Agents in the Gemini API. Agents can now run asynchronously in the background, connect directly to remote MCP servers, use custom functions alongside sandbox tools, and refresh credentials without losing state.",
+      "source": "The Decoder",
+      "published": "2026-07-08T14:45:35+00:00",
+      "link": "https://the-decoder.com/google-deepmind-adds-background-execution-and-mcp-support-to-gemini-api-managed-agents/"
+    },
+    {
+      "title": "US rare earths flow to Asia as domestic demand is slow to emerge",
+      "summary": "Miners backed by Trump admin. sell to Japan, South Korea despite push to develop domestic supply chain.",
+      "source": "Ars Technica",
+      "published": "2026-07-08T13:26:10+00:00",
+      "link": "https://arstechnica.com/science/2026/07/us-rare-earths-flow-to-asia-as-domestic-demand-is-slow-to-emerge/"
+    },
+    {
+      "title": "Chinese AI startup MiniMax plans to open-source a 2.7 trillion parameter model later this year",
+      "summary": "Chinese AI developer MiniMax is working on a new large language model with 2.7 trillion parameters. MiniMax plans to release the model as open source.",
+      "source": "The Decoder",
+      "published": "2026-07-08T12:44:52+00:00",
+      "link": "https://the-decoder.com/chinese-ai-startup-minimax-plans-to-open-source-a-2-7-trillion-parameter-model-later-this-year/"
+    },
+    {
+      "title": "The Download: worms fight pollution, and geoengineering faces reality",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.",
+      "source": "MIT Tech Review",
+      "published": "2026-07-08T12:10:00+00:00",
+      "link": "https://www.technologyreview.com/2026/07/08/1140216/the-download-worms-manure-pollution-geoengineering-reality-check/"
+    },
+    {
+      "title": "Former OpenAI exec Kevin Weil is now on the board of Stoke Space",
+      "summary": "Kevin Weil's new role at Stoke Space suggests reusable rockets are the next hot thing in Silicon Valley.",
+      "source": "TechCrunch",
+      "published": "2026-07-08T12:00:00+00:00",
+      "link": "https://techcrunch.com/2026/07/08/former-openai-exec-kevin-weil-is-now-on-the-board-of-stoke-space/"
+    },
+    {
+      "title": "Meta tests always-on AI glasses that capture your entire day",
+      "summary": "Meta is testing a prototype of AI-powered headsets with \"Super Sensing\" that use a camera and microphone to record every moment of the wearer's life. The article Meta tests always-on AI glasses that capture your entire day appeared first on The Decoder.",
+      "source": "The Decoder",
+      "published": "2026-07-08T11:48:30+00:00",
+      "link": "https://the-decoder.com/meta-tests-always-on-ai-glasses-that-capture-your-entire-day/"
+    },
+    {
+      "title": "Muse Image is technically impressive, but Meta's use of Instagram photos raises questions",
+      "summary": "Meta's Superintelligence Labs ships Muse Image, its first image generation model. Like OpenAI's GPT Image 2, it works as an agent, using tools like code execution and web search to refine its own results.",
+      "source": "The Decoder",
+      "published": "2026-07-08T11:16:37+00:00",
+      "link": "https://the-decoder.com/muse-image-is-technically-impressive-but-metas-use-of-instagram-photos-raises-questions/"
+    },
+    {
+      "title": "Pickup Artist Mystery Has an AI Girlfriend",
+      "summary": "A new book claims that Mystery, who teaches awkward men how to hit on women, had sex and smoked weed with an AI chatbot named Miss Shira Always.",
+      "source": "Wired",
+      "published": "2026-07-08T11:00:00+00:00",
+      "link": "https://www.wired.com/story/pickup-artist-mystery-has-an-ai-girlfriend/"
+    },
     {
       "title": "This Former DeepMind Exec Thinks the AI Arms Race Could End in Disaster",
       "summary": "Verity Harding tells WIRED that the US government’s nationalistic attitude toward AI is evidence that a worst-case scenario is taking shape.",
@@ -24,7 +80,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI chip maker SambaNova raises $1B at $11B valuation, 5 months after last mega round",
-      "summary": "AI chip maker SambaNova has raised at an $11B valuation months after Intel was rumored to be trying to buy it for about $1.6 billion.",
+      "summary": "AI chip maker SambaNova has raised at an $11 billion valuation months after Intel was rumored to be trying to buy it for about $1.6 billion.",
       "source": "TechCrunch",
       "published": "2026-07-08T07:16:00+00:00",
       "link": "https://techcrunch.com/2026/07/08/sambanova-draws-1b-at-11b-valuation-in-series-f-first-close/"
@@ -38,14 +94,14 @@ const FEED_DATA = {
     },
     {
       "title": "GitLost: We Tricked GitHub's AI Agent into Leaking Private Repos",
-      "summary": "Article URL: https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos/ Comments URL: https://news.ycombinator.com/item?id=48827858 Points: 208 # Comments: 85",
+      "summary": "Article URL: https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos/ Comments URL: https://news.ycombinator.com/item?id=48827858 Points: 370 # Comments: 145",
       "source": "Hacker News",
       "published": "2026-07-08T05:25:35+00:00",
       "link": "https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos/"
     },
     {
       "title": "GPT-5.6 Sol, along with Terra and Luna, will launch publicly this Thursday",
-      "summary": "Article URL: https://twitter.com/OpenAI/status/2074704958419792299 Comments URL: https://news.ycombinator.com/item?id=48827402 Points: 199 # Comments: 174",
+      "summary": "Article URL: https://twitter.com/OpenAI/status/2074704958419792299 Comments URL: https://news.ycombinator.com/item?id=48827402 Points: 221 # Comments: 191",
       "source": "Hacker News",
       "published": "2026-07-08T04:12:13+00:00",
       "link": "https://twitter.com/OpenAI/status/2074704958419792299"
@@ -73,7 +129,7 @@ const FEED_DATA = {
     },
     {
       "title": "We charge $10k a week to delete AI-generated code",
-      "summary": "Article URL: https://odra.dev/slopfix/ Comments URL: https://news.ycombinator.com/item?id=48823359 Points: 276 # Comments: 180",
+      "summary": "Article URL: https://odra.dev/slopfix/ Comments URL: https://news.ycombinator.com/item?id=48823359 Points: 283 # Comments: 217",
       "source": "Hacker News",
       "published": "2026-07-07T20:35:42+00:00",
       "link": "https://odra.dev/slopfix/"
@@ -87,7 +143,7 @@ const FEED_DATA = {
     },
     {
       "title": "Re: I'm Begging You to Leave Your AI Note-Taker at Home",
-      "summary": "Article URL: https://firesphere.dev/articles/yes-actually-i-do-fucking-mind Comments URL: https://news.ycombinator.com/item?id=48823024 Points: 60 # Comments: 91",
+      "summary": "Article URL: https://firesphere.dev/articles/yes-actually-i-do-fucking-mind Comments URL: https://news.ycombinator.com/item?id=48823024 Points: 60 # Comments: 92",
       "source": "Hacker News",
       "published": "2026-07-07T20:10:13+00:00",
       "link": "https://firesphere.dev/articles/yes-actually-i-do-fucking-mind"
@@ -115,7 +171,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI Meets Cryptography 1: What AI Found in Cloudflare's Circl",
-      "summary": "Article URL: https://blog.zksecurity.xyz/posts/circl-bugs/ Comments URL: https://news.ycombinator.com/item?id=48821749 Points: 107 # Comments: 12",
+      "summary": "Article URL: https://blog.zksecurity.xyz/posts/circl-bugs/ Comments URL: https://news.ycombinator.com/item?id=48821749 Points: 110 # Comments: 12",
       "source": "Hacker News",
       "published": "2026-07-07T18:36:35+00:00",
       "link": "https://blog.zksecurity.xyz/posts/circl-bugs/"
@@ -171,7 +227,7 @@ const FEED_DATA = {
     },
     {
       "title": "Automating AI Away",
-      "summary": "Article URL: https://replicated.live/blog/away Comments URL: https://news.ycombinator.com/item?id=48818937 Points: 117 # Comments: 56",
+      "summary": "Article URL: https://replicated.live/blog/away Comments URL: https://news.ycombinator.com/item?id=48818937 Points: 126 # Comments: 59",
       "source": "Hacker News",
       "published": "2026-07-07T15:11:08+00:00",
       "link": "https://replicated.live/blog/away"
@@ -234,7 +290,7 @@ const FEED_DATA = {
     },
     {
       "title": "Beijing is looking at curbing overseas access to China's top AI models",
-      "summary": "Article URL: https://www.reuters.com/world/beijing-is-looking-curbing-overseas-access-chinas-top-ai-models-sources-say-2026-07-07/ Comments URL: https://news.ycombinator.com/item?id=48816025 Points: 58 # Comments: 10",
+      "summary": "Article URL: https://www.reuters.com/world/beijing-is-looking-curbing-overseas-access-chinas-top-ai-models-sources-say-2026-07-07/ Comments URL: https://news.ycombinator.com/item?id=48816025 Points: 60 # Comments: 11",
       "source": "Hacker News",
       "published": "2026-07-07T10:51:07+00:00",
       "link": "https://www.reuters.com/world/beijing-is-looking-curbing-overseas-access-chinas-top-ai-models-sources-say-2026-07-07/"
@@ -290,14 +346,14 @@ const FEED_DATA = {
     },
     {
       "title": "YC CEO says he ships 37K LoC AI code per day. A developer looked under the hood",
-      "summary": "Article URL: https://www.fastcompany.com/91520702/y-combinator-garry-tan-agentic-ai-social-media Comments URL: https://news.ycombinator.com/item?id=48815117 Points: 109 # Comments: 97",
+      "summary": "Article URL: https://www.fastcompany.com/91520702/y-combinator-garry-tan-agentic-ai-social-media Comments URL: https://news.ycombinator.com/item?id=48815117 Points: 111 # Comments: 97",
       "source": "Hacker News",
       "published": "2026-07-07T08:39:51+00:00",
       "link": "https://www.fastcompany.com/91520702/y-combinator-garry-tan-agentic-ai-social-media"
     },
     {
       "title": "Small AI Models Gain Traction In places with unreliable networks",
-      "summary": "Article URL: https://spectrum.ieee.org/small-language-models-ai-pharmaceuticals Comments URL: https://news.ycombinator.com/item?id=48812055 Points: 268 # Comments: 80",
+      "summary": "Article URL: https://spectrum.ieee.org/small-language-models-ai-pharmaceuticals Comments URL: https://news.ycombinator.com/item?id=48812055 Points: 272 # Comments: 80",
       "source": "Hacker News",
       "published": "2026-07-06T23:59:54+00:00",
       "link": "https://spectrum.ieee.org/small-language-models-ai-pharmaceuticals"
@@ -325,7 +381,7 @@ const FEED_DATA = {
     },
     {
       "title": "GLM 5.2 and the coming AI margin collapse",
-      "summary": "Article URL: https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2/ Comments URL: https://news.ycombinator.com/item?id=48809877 Points: 672 # Comments: 456",
+      "summary": "Article URL: https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2/ Comments URL: https://news.ycombinator.com/item?id=48809877 Points: 676 # Comments: 463",
       "source": "Hacker News",
       "published": "2026-07-06T20:14:55+00:00",
       "link": "https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2/"
@@ -388,7 +444,7 @@ const FEED_DATA = {
     },
     {
       "title": "Big Tech Has Suddenly Flipped on the AI Jobs Wipeout Scenario",
-      "summary": "Article URL: https://www.wsj.com/tech/ai/ai-workers-tech-ceos-job-losses-afc71e15 Comments URL: https://news.ycombinator.com/item?id=48807651 Points: 97 # Comments: 103",
+      "summary": "Article URL: https://www.wsj.com/tech/ai/ai-workers-tech-ceos-job-losses-afc71e15 Comments URL: https://news.ycombinator.com/item?id=48807651 Points: 98 # Comments: 103",
       "source": "Hacker News",
       "published": "2026-07-06T17:16:41+00:00",
       "link": "https://www.wsj.com/tech/ai/ai-workers-tech-ceos-job-losses-afc71e15"
@@ -409,7 +465,7 @@ const FEED_DATA = {
     },
     {
       "title": "OfficeCLI: Office suite for AI agents to read and edit Microsoft Office files",
-      "summary": "Article URL: https://github.com/iOfficeAI/OfficeCLI Comments URL: https://news.ycombinator.com/item?id=48807225 Points: 213 # Comments: 63",
+      "summary": "Article URL: https://github.com/iOfficeAI/OfficeCLI Comments URL: https://news.ycombinator.com/item?id=48807225 Points: 214 # Comments: 63",
       "source": "Hacker News",
       "published": "2026-07-06T16:47:44+00:00",
       "link": "https://github.com/iOfficeAI/OfficeCLI"
@@ -1344,62 +1400,6 @@ const FEED_DATA = {
       "source": "The Verge",
       "published": "2026-06-30T19:24:51+00:00",
       "link": "https://www.theverge.com/tech/959778/google-notebooklm-ai-clips"
-    },
-    {
-      "title": "Google introduces a faster, cheaper image generator with Nano Banana 2 Lite",
-      "summary": "Google is updating its image generator to make it faster and cheaper, making it a more useful tool for creators looking to make AI content.",
-      "source": "TechCrunch",
-      "published": "2026-06-30T19:02:38+00:00",
-      "link": "https://techcrunch.com/2026/06/30/google-introduces-a-faster-cheaper-image-generator-with-nano-banana-2-lite/"
-    },
-    {
-      "title": "Anthropic's new Claude Sonnet 5 closes the gap to Opus model series",
-      "summary": "Anthropic released Claude Sonnet 5, which beats its predecessor Sonnet 4.6 across all benchmarks and even edges past the larger Opus 4.8 on the GDPval-AA v2 knowledge work test with a score of 1,618.",
-      "source": "The Decoder",
-      "published": "2026-06-30T18:46:10+00:00",
-      "link": "https://the-decoder.com/anthropics-new-claude-sonnet-5-closes-the-gap-to-the-pricier-opus-model-series/"
-    },
-    {
-      "title": "Anthropic's new Claude Sonnet 5 closes the gap to the pricier Opus model series",
-      "summary": "Anthropic released Claude Sonnet 5, which beats its predecessor Sonnet 4.6 across all benchmarks and even edges past the larger Opus 4.8 on the GDPval-AA v2 knowledge work test with a score of 1,618.",
-      "source": "The Decoder",
-      "published": "2026-06-30T18:46:10+00:00",
-      "link": "https://the-decoder.com/anthropics-new-claude-sonnet-5-closes-the-gap-to-the-pricier-opus-model-series/"
-    },
-    {
-      "title": "Nvidia competitor Etched hits $5B valuation, $1B in sales for AI chip",
-      "summary": "Nvidia AI chip competitor Etched says it has already booked $1 billion under contract for the inference systems powered by its chip.",
-      "source": "TechCrunch",
-      "published": "2026-06-30T18:13:02+00:00",
-      "link": "https://techcrunch.com/2026/06/30/nvidia-competitor-etched-hits-5b-valuation-1b-in-sales-for-ai-chip/"
-    },
-    {
-      "title": "Anthropic launches Claude Science, an AI workspace built specifically for researchers",
-      "summary": "Anthropic released Claude Science, an AI workbench for researchers. More than 60 preconfigured skills cover fields like genomics and computational chemistry, and a verification agent automatically checks citations and calculations.",
-      "source": "The Decoder",
-      "published": "2026-06-30T18:03:48+00:00",
-      "link": "https://the-decoder.com/anthropic-launches-claude-science-an-ai-workspace-built-specifically-for-researchers/"
-    },
-    {
-      "title": "Anthropic launches Claude Sonnet 5 as a cheaper way to run agents",
-      "summary": "Anthropic’s Claude Sonnet 5 brings stronger agentic capabilities, lower pricing, and improved safety, positioning the model as a cheaper alternative to Opus, GPT-5.5, and Gemini Pro.",
-      "source": "TechCrunch",
-      "published": "2026-06-30T18:00:00+00:00",
-      "link": "https://techcrunch.com/2026/06/30/anthropic-launches-claude-sonnet-5-as-a-cheaper-way-to-run-agents/"
-    },
-    {
-      "title": "Acti puts AI agents directly into your smartphone keyboard",
-      "summary": "Acti is betting the smartphone keyboard is the next home for AI assistants. The startup's new keyboard for iOS and Android works across apps and lets users create custom AI-powered shortcuts using natural language.",
-      "source": "TechCrunch",
-      "published": "2026-06-30T17:52:46+00:00",
-      "link": "https://techcrunch.com/2026/06/30/acti-puts-ai-agents-directly-into-your-smartphone-keyboard/"
-    },
-    {
-      "title": "OpenAI reportedly cut response costs for guest ChatGPT users by more than half",
-      "summary": "According to a report by The Information, OpenAI has cut inference costs for its AI models by more than half. The company applied the optimizations to ChatGPT, where the number of Nvidia GPUs needed dropped to just a few hundred at times.",
-      "source": "The Decoder",
-      "published": "2026-06-30T17:43:27+00:00",
-      "link": "https://the-decoder.com/openai-reportedly-cut-response-costs-for-guest-chatgpt-users-by-more-than-half/"
     }
   ]
 };
