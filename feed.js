@@ -1,6 +1,76 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-07-08T15:23:16.463868+00:00",
+  "lastUpdated": "2026-07-08T18:13:49.902944+00:00",
   "items": [
+    {
+      "title": "Why this CEO thinks video games make better training data than the internet",
+      "summary": "When it comes to achieving artificial general intelligence (AGI), large language models just don’t have what it takes.",
+      "source": "TechCrunch",
+      "published": "2026-07-08T17:47:55+00:00",
+      "link": "https://techcrunch.com/video/why-this-ceo-thinks-video-games-make-better-training-data-than-the-internet/"
+    },
+    {
+      "title": "Mistral enters robotics with Robostral Navigate, an 8B model that steers robots using just one camera",
+      "summary": "Mistral is entering the robotics market with Robostral Navigate, an 8B model that guides robots through unknown environments using only a single RGB camera. Trained in simulation and refined with reinforcement learning (CISPO), it hits 76.6 percent on the R2R-CE benchmark.",
+      "source": "The Decoder",
+      "published": "2026-07-08T17:23:17+00:00",
+      "link": "https://the-decoder.com/mistral-enters-robotics-with-robostral-navigate-an-8b-model-that-steers-robots-using-just-one-camera/"
+    },
+    {
+      "title": "Meta wants its AI glasses to seem less creepy. Its AI strategy says otherwise.",
+      "summary": "Meta is adding a new safeguard to stop people from secretly recording others with its AI glasses. But the update comes as the company continues to expand how much personal data its AI products collect and use.",
+      "source": "TechCrunch",
+      "published": "2026-07-08T17:11:18+00:00",
+      "link": "https://techcrunch.com/2026/07/08/meta-wants-its-ai-glasses-to-seem-less-creepy-its-ai-strategy-says-otherwise/"
+    },
+    {
+      "title": "OpenAI releases new voice models for more natural live conversations",
+      "summary": "OpenAI says its new voice mode can speak and listen at the same time, a key ability for live translation.",
+      "source": "TechCrunch",
+      "published": "2026-07-08T17:00:00+00:00",
+      "link": "https://techcrunch.com/2026/07/08/openai-releases-new-voice-models-for-more-natural-live-conversations/"
+    },
+    {
+      "title": "ChatGPT’s upgraded voice mode is better at shutting up",
+      "summary": "OpenAI is overhauling ChatGPT's voice mode with a new model that it says is more like \"talking to another person.\" The new GPT-Live-1 is designed to interrupt you less and will also wait for you to continue speaking if you pause mid-conversation.",
+      "source": "The Verge",
+      "published": "2026-07-08T17:00:00+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/962856/chatgpt-upgraded-voice-mode-gpt-live"
+    },
+    {
+      "title": "EmTech AI 2026: The Rise of the AI Platform",
+      "summary": "EmTech AI 2026: The Rise of the AI Platform",
+      "source": "MIT Tech Review",
+      "published": "2026-07-08T16:26:10+00:00",
+      "link": "https://www.technologyreview.com/2026/07/08/1140223/emtech-ai-2026-the-rise-of-the-ai-platform/"
+    },
+    {
+      "title": "Anthropic's fix for Fable 5's high cost is turning it into a manager that delegates to Sonnet 5",
+      "summary": "Anthropic recommends using the expensive Claude Fable 5 mainly as a planner for smaller models instead of running it on every task. Combined with Sonnet 5 in the \"Advisor\" pattern, this setup hits 92 percent of Fable 5's solo performance at 63 percent of the cost.",
+      "source": "The Decoder",
+      "published": "2026-07-08T16:25:07+00:00",
+      "link": "https://the-decoder.com/anthropics-fix-for-fable-5s-high-cost-is-turning-it-into-a-manager-that-delegates-to-sonnet-5/"
+    },
+    {
+      "title": "Prime Intellect raises $130M Series A to help enterprises build their own AI agents",
+      "summary": "Founded in 2024, Prime Intellect’s goal is to give organizations capabilities to train their own agentic systems without relying on frontier AI labs.",
+      "source": "TechCrunch",
+      "published": "2026-07-08T16:22:38+00:00",
+      "link": "https://techcrunch.com/2026/07/08/prime-intellect-raises-130m-series-a-to-help-enterprises-build-their-own-ai-agents/"
+    },
+    {
+      "title": "Anthropic's Claude Fable 5 dominates new industry benchmarks at a steep premium",
+      "summary": "Anthropic's Claude Fable 5 tops all six new industry-specific performance indices from Artificial Analysis, covering finance, law, and medicine. But that lead comes at a steep cost.",
+      "source": "The Decoder",
+      "published": "2026-07-08T15:59:12+00:00",
+      "link": "https://the-decoder.com/anthropics-claude-fable-5-dominates-new-industry-benchmarks-at-a-steep-premium/"
+    },
+    {
+      "title": "These AI startups are growing revenue at faster and faster rates",
+      "summary": "There are a lot of fast-growing AI startups, but some are growing even faster, they say.",
+      "source": "TechCrunch",
+      "published": "2026-07-08T15:41:06+00:00",
+      "link": "https://techcrunch.com/2026/07/08/these-ai-startups-are-growing-revenue-at-faster-and-faster-rates/"
+    },
     {
       "title": "Google Deepmind adds background execution and MCP support to Gemini API managed agents",
       "summary": "Google Deepmind is adding four new features to Managed Agents in the Gemini API. Agents can now run asynchronously in the background, connect directly to remote MCP servers, use custom functions alongside sandbox tools, and refresh credentials without losing state.",
@@ -14,6 +84,13 @@ const FEED_DATA = {
       "source": "Ars Technica",
       "published": "2026-07-08T13:26:10+00:00",
       "link": "https://arstechnica.com/science/2026/07/us-rare-earths-flow-to-asia-as-domestic-demand-is-slow-to-emerge/"
+    },
+    {
+      "title": "Your gaming data could be the secret to AGI, according to this Bezos-backed startup",
+      "summary": "When it comes to achieving artificial general intelligence (AGI), large language models just don’t have what it takes.",
+      "source": "TechCrunch",
+      "published": "2026-07-08T13:00:00+00:00",
+      "link": "https://techcrunch.com/podcast/your-gaming-data-could-be-the-secret-to-agi-according-to-this-bezos-backed-startup/"
     },
     {
       "title": "Chinese AI startup MiniMax plans to open-source a 2.7 trillion parameter model later this year",
@@ -506,18 +583,18 @@ const FEED_DATA = {
       "link": "https://www.lttlabs.com/articles/2026/07/06/amd-ryzen-ai-halo"
     },
     {
-      "title": "Station F ramps up as a launchpad for Europe’s hottest AI startups",
-      "summary": "Station F, a Paris-based startup hub founded by French billionaire Xavier Niel, is gearing up for a new edition of its F/ai accelerator program in a bid to strengthen its positioning as a stepping stone for promising AI startups.",
-      "source": "TechCrunch",
-      "published": "2026-07-06T13:00:00+00:00",
-      "link": "https://techcrunch.com/2026/07/06/station-f-ramps-up-as-a-launchpad-for-europes-hottest-ai-startups/"
-    },
-    {
       "title": "The Download: South Korea’s hottest bachelors, and advancing eye transplants",
       "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.",
       "source": "MIT Tech Review",
       "published": "2026-07-06T13:00:00+00:00",
       "link": "https://www.technologyreview.com/2026/07/06/1140172/the-download-south-korea-ai-chipworkers-eye-transplants/"
+    },
+    {
+      "title": "Station F ramps up as a launchpad for Europe’s hottest AI startups",
+      "summary": "Station F, a Paris-based startup hub founded by French billionaire Xavier Niel, is gearing up for a new edition of its F/ai accelerator program in a bid to strengthen its positioning as a stepping stone for promising AI startups.",
+      "source": "TechCrunch",
+      "published": "2026-07-06T13:00:00+00:00",
+      "link": "https://techcrunch.com/2026/07/06/station-f-ramps-up-as-a-launchpad-for-europes-hottest-ai-startups/"
     },
     {
       "title": "The AI Marketing Backlash: Why 'AI-First' Brands Are Starting to Fall Flat",
@@ -1323,83 +1400,6 @@ const FEED_DATA = {
       "source": "Hacker News",
       "published": "2026-07-01T07:43:22+00:00",
       "link": "https://www.pcgamer.com/gaming-industry/open-source-game-engine-godot-will-no-longer-accept-ai-authored-code-contributions-we-cant-trust-heavy-users-of-ai-to-understand-their-code-enough-to-fix-it/"
-    },
-    {
-      "title": "Anthropic's Fable 5 is back worldwide after a two-week government ban over a jailbreak",
-      "summary": "After a two-week ban, the US government is letting Anthropic ship Fable 5 globally again. Amazon researchers had found a jailbreak, but Anthropic says even much smaller models like Claude Haiku 4.5 could pull off the same exploit.",
-      "source": "The Decoder",
-      "published": "2026-07-01T07:40:29+00:00",
-      "link": "https://the-decoder.com/anthropics-fable-5-is-back-worldwide-after-a-two-week-government-ban-over-a-jailbreak/"
-    },
-    {
-      "title": "How employment changes when firms adopt generative AI",
-      "summary": "Article URL: https://ramp.com/data/ai-jobs-impact Comments URL: https://news.ycombinator.com/item?id=48742176 Points: 54 # Comments: 50",
-      "source": "Hacker News",
-      "published": "2026-07-01T04:14:11+00:00",
-      "link": "https://ramp.com/data/ai-jobs-impact"
-    },
-    {
-      "title": "Trump drops restrictions on Anthropic’s Mythos and Fable models",
-      "summary": "The Trump administration's erratic approach to AI policymaking has left companies across the industry with little clarity about what will govern future model releases.",
-      "source": "TechCrunch",
-      "published": "2026-07-01T02:16:06+00:00",
-      "link": "https://techcrunch.com/2026/06/30/trump-drops-restrictions-on-anthropics-mythos-and-fable-models/"
-    },
-    {
-      "title": "Wayve launches $85M employee tender offer at $8.5B valuation",
-      "summary": "Wayve’s offering is part of a growing trend of AI startups using employee tenders as a strategic tool to attract and retain talent.",
-      "source": "TechCrunch",
-      "published": "2026-07-01T02:04:40+00:00",
-      "link": "https://techcrunch.com/2026/06/30/wayve-launches-85m-employee-tender-offer-at-8-5b-valuation/"
-    },
-    {
-      "title": "Anthropic’s long-sidelined Fable 5 is greenlit to return",
-      "summary": "After weeks of negotiating with the Trump administration, Anthropic is finally going to be able to bring Claude Fable 5 back online.",
-      "source": "The Verge",
-      "published": "2026-07-01T00:03:55+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/958964/anthropic-claude-fable-5-is-back"
-    },
-    {
-      "title": "The Trump Administration Is Lifting Its Export Controls on Anthropic’s Mythos and Fable AI Models",
-      "summary": "The White House is easing restrictions on Anthropic’s most advanced AI models weeks after ordering the company to suspend access for foreign nationals.",
-      "source": "Wired",
-      "published": "2026-06-30T23:23:04+00:00",
-      "link": "https://www.wired.com/story/trump-administration-lifts-export-controls-on-anthropics-mythos-and-fable-ai-models/"
-    },
-    {
-      "title": "OpenClaw is finally available on Android and iOS",
-      "summary": "The free open source agentic program is finally invading your phone.",
-      "source": "TechCrunch",
-      "published": "2026-06-30T21:53:28+00:00",
-      "link": "https://techcrunch.com/2026/06/30/openclaw-is-finally-available-on-android-and-ios/"
-    },
-    {
-      "title": "Claude Science is Anthropic’s newest flagship product",
-      "summary": "At an event for pharmaceutical executives, biotech founders, and researchers on Tuesday, Anthropic announced Claude Science, a major new product intended to support scientific research in the same way that Claude Code supports software engineering.",
-      "source": "MIT Tech Review",
-      "published": "2026-06-30T21:50:04+00:00",
-      "link": "https://www.technologyreview.com/2026/06/30/1139987/claude-science-is-anthropics-newest-flagship-product/"
-    },
-    {
-      "title": "The DeepMind trio who built a poker AI are now making money for quant hedge funds",
-      "summary": "EquiLibre Technologies, a Prague-based AI lab founded by three ex-DeepMind researchers, is now valued at more than $500 million.",
-      "source": "TechCrunch",
-      "published": "2026-06-30T20:33:48+00:00",
-      "link": "https://techcrunch.com/2026/06/30/the-deepmind-trio-who-built-a-poker-ai-are-now-making-money-for-quant-hedge-funds/"
-    },
-    {
-      "title": "New attack provides one more reason why AI browsers are a bad idea",
-      "summary": "Telling an LLM that 2 + 2 = 5 is enough to make it follow forbidden instructions.",
-      "source": "Ars Technica",
-      "published": "2026-06-30T20:03:14+00:00",
-      "link": "https://arstechnica.com/security/2026/06/ai-browsers-can-be-lulled-into-a-dream-world-where-guardrails-no-longer-apply/"
-    },
-    {
-      "title": "Google’s NotebookLM can sum up your research in a TikTok-style clip",
-      "summary": "Google's NotebookLM is adding a new way to catch up on your notes: TikTok-style AI videos. The new feature is rolling out to Google AI Ultra and Pro subscribers, allowing NotebookLM to generate 60-second vertical AI clips based on the sources you upload to the app.",
-      "source": "The Verge",
-      "published": "2026-06-30T19:24:51+00:00",
-      "link": "https://www.theverge.com/tech/959778/google-notebooklm-ai-clips"
     }
   ]
 };
