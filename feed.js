@@ -1,6 +1,27 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-07-08T04:12:51.214191+00:00",
+  "lastUpdated": "2026-07-08T07:30:25.057350+00:00",
   "items": [
+    {
+      "title": "AI chip maker SambaNova raises $1B at $11B valuation, 5 months after last mega round",
+      "summary": "AI chip maker SambaNova has raised at an $11B valuation months after Intel was rumored to be trying to buy it for about $1.6 billion.",
+      "source": "TechCrunch",
+      "published": "2026-07-08T07:16:00+00:00",
+      "link": "https://techcrunch.com/2026/07/08/sambanova-draws-1b-at-11b-valuation-in-series-f-first-close/"
+    },
+    {
+      "title": "GitLost: We Tricked GitHub's AI Agent into Leaking Private Repos",
+      "summary": "Article URL: https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos/ Comments URL: https://news.ycombinator.com/item?id=48827858 Points: 53 # Comments: 17",
+      "source": "Hacker News",
+      "published": "2026-07-08T05:25:35+00:00",
+      "link": "https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos/"
+    },
+    {
+      "title": "GPT-5.6 Sol, along with Terra and Luna, will launch publicly this Thursday",
+      "summary": "Article URL: https://twitter.com/OpenAI/status/2074704958419792299 Comments URL: https://news.ycombinator.com/item?id=48827402 Points: 140 # Comments: 76",
+      "source": "Hacker News",
+      "published": "2026-07-08T04:12:13+00:00",
+      "link": "https://twitter.com/OpenAI/status/2074704958419792299"
+    },
     {
       "title": "Meta just launched a new AI generator, Muse Image, and users are already pushing back over use of their photos",
       "summary": "The new image-generating model has numerous use cases, including advertising and decorating, and creator-based opportunities.",
@@ -24,7 +45,7 @@ const FEED_DATA = {
     },
     {
       "title": "We charge $10k a week to delete AI-generated code",
-      "summary": "Article URL: https://odra.dev/slopfix/ Comments URL: https://news.ycombinator.com/item?id=48823359 Points: 247 # Comments: 148",
+      "summary": "Article URL: https://odra.dev/slopfix/ Comments URL: https://news.ycombinator.com/item?id=48823359 Points: 269 # Comments: 158",
       "source": "Hacker News",
       "published": "2026-07-07T20:35:42+00:00",
       "link": "https://odra.dev/slopfix/"
@@ -38,7 +59,7 @@ const FEED_DATA = {
     },
     {
       "title": "Re: I'm Begging You to Leave Your AI Note-Taker at Home",
-      "summary": "Article URL: https://firesphere.dev/articles/yes-actually-i-do-fucking-mind Comments URL: https://news.ycombinator.com/item?id=48823024 Points: 57 # Comments: 87",
+      "summary": "Article URL: https://firesphere.dev/articles/yes-actually-i-do-fucking-mind Comments URL: https://news.ycombinator.com/item?id=48823024 Points: 60 # Comments: 89",
       "source": "Hacker News",
       "published": "2026-07-07T20:10:13+00:00",
       "link": "https://firesphere.dev/articles/yes-actually-i-do-fucking-mind"
@@ -66,7 +87,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI Meets Cryptography 1: What AI Found in Cloudflare's Circl",
-      "summary": "Article URL: https://blog.zksecurity.xyz/posts/circl-bugs/ Comments URL: https://news.ycombinator.com/item?id=48821749 Points: 98 # Comments: 11",
+      "summary": "Article URL: https://blog.zksecurity.xyz/posts/circl-bugs/ Comments URL: https://news.ycombinator.com/item?id=48821749 Points: 105 # Comments: 12",
       "source": "Hacker News",
       "published": "2026-07-07T18:36:35+00:00",
       "link": "https://blog.zksecurity.xyz/posts/circl-bugs/"
@@ -122,7 +143,7 @@ const FEED_DATA = {
     },
     {
       "title": "Automating AI Away",
-      "summary": "Article URL: https://replicated.live/blog/away Comments URL: https://news.ycombinator.com/item?id=48818937 Points: 109 # Comments: 50",
+      "summary": "Article URL: https://replicated.live/blog/away Comments URL: https://news.ycombinator.com/item?id=48818937 Points: 114 # Comments: 54",
       "source": "Hacker News",
       "published": "2026-07-07T15:11:08+00:00",
       "link": "https://replicated.live/blog/away"
@@ -185,7 +206,7 @@ const FEED_DATA = {
     },
     {
       "title": "Beijing is looking at curbing overseas access to China's top AI models",
-      "summary": "Article URL: https://www.reuters.com/world/beijing-is-looking-curbing-overseas-access-chinas-top-ai-models-sources-say-2026-07-07/ Comments URL: https://news.ycombinator.com/item?id=48816025 Points: 56 # Comments: 10",
+      "summary": "Article URL: https://www.reuters.com/world/beijing-is-looking-curbing-overseas-access-chinas-top-ai-models-sources-say-2026-07-07/ Comments URL: https://news.ycombinator.com/item?id=48816025 Points: 57 # Comments: 10",
       "source": "Hacker News",
       "published": "2026-07-07T10:51:07+00:00",
       "link": "https://www.reuters.com/world/beijing-is-looking-curbing-overseas-access-chinas-top-ai-models-sources-say-2026-07-07/"
@@ -269,14 +290,14 @@ const FEED_DATA = {
     },
     {
       "title": "AI: The ROI Runway Could Be Long Outside the Tech Sector",
-      "summary": "Article URL: https://www.apollo.com/wealth/insights-news/insights/daily-spark/ai-the-roi-runway-could-be-long-outside-the-tech-sector Comments URL: https://news.ycombinator.com/item?id=48810533 Points: 69 # Comments: 85",
+      "summary": "Article URL: https://www.apollo.com/wealth/insights-news/insights/daily-spark/ai-the-roi-runway-could-be-long-outside-the-tech-sector Comments URL: https://news.ycombinator.com/item?id=48810533 Points: 69 # Comments: 87",
       "source": "Hacker News",
       "published": "2026-07-06T21:09:23+00:00",
       "link": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/ai-the-roi-runway-could-be-long-outside-the-tech-sector"
     },
     {
       "title": "GLM 5.2 and the coming AI margin collapse",
-      "summary": "Article URL: https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2/ Comments URL: https://news.ycombinator.com/item?id=48809877 Points: 668 # Comments: 451",
+      "summary": "Article URL: https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2/ Comments URL: https://news.ycombinator.com/item?id=48809877 Points: 669 # Comments: 453",
       "source": "Hacker News",
       "published": "2026-07-06T20:14:55+00:00",
       "link": "https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2/"
@@ -360,7 +381,7 @@ const FEED_DATA = {
     },
     {
       "title": "OfficeCLI: Office suite for AI agents to read and edit Microsoft Office files",
-      "summary": "Article URL: https://github.com/iOfficeAI/OfficeCLI Comments URL: https://news.ycombinator.com/item?id=48807225 Points: 212 # Comments: 62",
+      "summary": "Article URL: https://github.com/iOfficeAI/OfficeCLI Comments URL: https://news.ycombinator.com/item?id=48807225 Points: 213 # Comments: 63",
       "source": "Hacker News",
       "published": "2026-07-06T16:47:44+00:00",
       "link": "https://github.com/iOfficeAI/OfficeCLI"
@@ -388,14 +409,14 @@ const FEED_DATA = {
     },
     {
       "title": "Google Chrome Installed a 4GB AI Model on Your PC",
-      "summary": "Article URL: https://oztalking.com/en/issues/hidden-4gb-ai-model Comments URL: https://news.ycombinator.com/item?id=48805627 Points: 78 # Comments: 63",
+      "summary": "Article URL: https://oztalking.com/en/issues/hidden-4gb-ai-model Comments URL: https://news.ycombinator.com/item?id=48805627 Points: 78 # Comments: 64",
       "source": "Hacker News",
       "published": "2026-07-06T15:01:44+00:00",
       "link": "https://oztalking.com/en/issues/hidden-4gb-ai-model"
     },
     {
       "title": "AMD Ryzen AI Halo – $4k AI Dev Kit",
-      "summary": "Article URL: https://www.lttlabs.com/articles/2026/07/06/amd-ryzen-ai-halo Comments URL: https://news.ycombinator.com/item?id=48805624 Points: 371 # Comments: 258",
+      "summary": "Article URL: https://www.lttlabs.com/articles/2026/07/06/amd-ryzen-ai-halo Comments URL: https://news.ycombinator.com/item?id=48805624 Points: 372 # Comments: 258",
       "source": "Hacker News",
       "published": "2026-07-06T15:01:18+00:00",
       "link": "https://www.lttlabs.com/articles/2026/07/06/amd-ryzen-ai-halo"
@@ -472,7 +493,7 @@ const FEED_DATA = {
     },
     {
       "title": "GPT-5.6 Sol Ultra will be in Codex",
-      "summary": "https://x.com/haider1/status/2073695124220006575, https://xcancel.com/haider1/status/2073695124220006575 Comments URL: https://news.ycombinator.com/item?id=48799614 Points: 412 # Comments: 397",
+      "summary": "https://x.com/haider1/status/2073695124220006575, https://xcancel.com/haider1/status/2073695124220006575 Comments URL: https://news.ycombinator.com/item?id=48799614 Points: 413 # Comments: 397",
       "source": "Hacker News",
       "published": "2026-07-06T01:04:03+00:00",
       "link": "https://twitter.com/thsottiaux/status/2073933490513752151"
@@ -1379,27 +1400,6 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-06-30T17:00:00+00:00",
       "link": "https://techcrunch.com/2026/06/30/anthropics-claude-science-bets-on-workflow-not-a-new-model-to-win-over-scientists/"
-    },
-    {
-      "title": "Scammers Sell Seeds for Exotic AI-Generated Flowers That Don't Exist",
-      "summary": "Article URL: https://www.404media.co/scammers-sell-seeds-for-exotic-ai-generated-flowers-that-dont-exist/ Comments URL: https://news.ycombinator.com/item?id=48734389 Points: 51 # Comments: 36",
-      "source": "Hacker News",
-      "published": "2026-06-30T15:45:32+00:00",
-      "link": "https://www.404media.co/scammers-sell-seeds-for-exotic-ai-generated-flowers-that-dont-exist/"
-    },
-    {
-      "title": "Libby will filter out AI content, kind of",
-      "summary": "This is Lowpass by Janko Roettgers, a newsletter on the ever-evolving intersection of tech and entertainment, syndicated just for The Verge subscribers once a week. \"AI is the new frontier for us,\" says Marc DeBevoise, who took over as the new CEO of OverDrive last week.",
-      "source": "The Verge",
-      "published": "2026-06-30T15:30:00+00:00",
-      "link": "https://www.theverge.com/column/959433/libby-ai-filter"
-    },
-    {
-      "title": "Meituan's LongCat-2.0 shows China can train massive AI models without Nvidia",
-      "summary": "Meituan trains a 1.6 trillion parameter AI model entirely on Chinese chips, no Nvidia required. The article Meituan's LongCat-2.0 shows China can train massive AI models without Nvidia appeared first on The Decoder.",
-      "source": "The Decoder",
-      "published": "2026-06-30T15:23:46+00:00",
-      "link": "https://the-decoder.com/meituans-longcat-2-0-shows-china-can-train-massive-ai-models-without-nvidia/"
     }
   ]
 };
