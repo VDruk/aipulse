@@ -1,6 +1,27 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-07-08T07:30:25.057350+00:00",
+  "lastUpdated": "2026-07-08T10:52:21.836918+00:00",
   "items": [
+    {
+      "title": "This Former DeepMind Exec Thinks the AI Arms Race Could End in Disaster",
+      "summary": "Verity Harding tells WIRED that the US government’s nationalistic attitude toward AI is evidence that a worst-case scenario is taking shape.",
+      "source": "Wired",
+      "published": "2026-07-08T09:30:00+00:00",
+      "link": "https://www.wired.com/story/verity-harding-ai-arms-race-dangers-anthology/"
+    },
+    {
+      "title": "OpenAI's GPT-5.6 launches Thursday after a delay forced by the U.S. government",
+      "summary": "OpenAI is launching GPT-5.6 on Thursday after the U.S. government lifted its release ban following additional testing.",
+      "source": "The Decoder",
+      "published": "2026-07-08T08:00:30+00:00",
+      "link": "https://the-decoder.com/openais-gpt-5-6-launches-thursday-after-a-delay-forced-by-the-u-s-government/"
+    },
+    {
+      "title": "Hot French startup ZML releases free product to speed inference across lots of AI chips",
+      "summary": "ZML, a hot French AI startup endorsed by Turing Award winner Yann LeCun, has now released ZML/LLMD, software that could make running AI less costly.",
+      "source": "TechCrunch",
+      "published": "2026-07-08T08:00:00+00:00",
+      "link": "https://techcrunch.com/2026/07/08/hot-french-startup-zml-releases-free-product-to-speed-inference-across-lots-of-ai-chips/"
+    },
     {
       "title": "AI chip maker SambaNova raises $1B at $11B valuation, 5 months after last mega round",
       "summary": "AI chip maker SambaNova has raised at an $11B valuation months after Intel was rumored to be trying to buy it for about $1.6 billion.",
@@ -9,15 +30,22 @@ const FEED_DATA = {
       "link": "https://techcrunch.com/2026/07/08/sambanova-draws-1b-at-11b-valuation-in-series-f-first-close/"
     },
     {
+      "title": "Hackers can use 9 of the most popular AI tools to assemble massive botnets",
+      "summary": "\"HalluSquatting\" weaponizes LLMs' inability to say \"I don't know.\"",
+      "source": "Ars Technica",
+      "published": "2026-07-08T07:00:51+00:00",
+      "link": "https://arstechnica.com/security/2026/07/hackers-can-use-9-of-the-most-popular-ai-tools-to-assemble-massive-botnets/"
+    },
+    {
       "title": "GitLost: We Tricked GitHub's AI Agent into Leaking Private Repos",
-      "summary": "Article URL: https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos/ Comments URL: https://news.ycombinator.com/item?id=48827858 Points: 53 # Comments: 17",
+      "summary": "Article URL: https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos/ Comments URL: https://news.ycombinator.com/item?id=48827858 Points: 208 # Comments: 85",
       "source": "Hacker News",
       "published": "2026-07-08T05:25:35+00:00",
       "link": "https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos/"
     },
     {
       "title": "GPT-5.6 Sol, along with Terra and Luna, will launch publicly this Thursday",
-      "summary": "Article URL: https://twitter.com/OpenAI/status/2074704958419792299 Comments URL: https://news.ycombinator.com/item?id=48827402 Points: 140 # Comments: 76",
+      "summary": "Article URL: https://twitter.com/OpenAI/status/2074704958419792299 Comments URL: https://news.ycombinator.com/item?id=48827402 Points: 199 # Comments: 174",
       "source": "Hacker News",
       "published": "2026-07-08T04:12:13+00:00",
       "link": "https://twitter.com/OpenAI/status/2074704958419792299"
@@ -45,7 +73,7 @@ const FEED_DATA = {
     },
     {
       "title": "We charge $10k a week to delete AI-generated code",
-      "summary": "Article URL: https://odra.dev/slopfix/ Comments URL: https://news.ycombinator.com/item?id=48823359 Points: 269 # Comments: 158",
+      "summary": "Article URL: https://odra.dev/slopfix/ Comments URL: https://news.ycombinator.com/item?id=48823359 Points: 276 # Comments: 180",
       "source": "Hacker News",
       "published": "2026-07-07T20:35:42+00:00",
       "link": "https://odra.dev/slopfix/"
@@ -59,7 +87,7 @@ const FEED_DATA = {
     },
     {
       "title": "Re: I'm Begging You to Leave Your AI Note-Taker at Home",
-      "summary": "Article URL: https://firesphere.dev/articles/yes-actually-i-do-fucking-mind Comments URL: https://news.ycombinator.com/item?id=48823024 Points: 60 # Comments: 89",
+      "summary": "Article URL: https://firesphere.dev/articles/yes-actually-i-do-fucking-mind Comments URL: https://news.ycombinator.com/item?id=48823024 Points: 60 # Comments: 91",
       "source": "Hacker News",
       "published": "2026-07-07T20:10:13+00:00",
       "link": "https://firesphere.dev/articles/yes-actually-i-do-fucking-mind"
@@ -87,7 +115,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI Meets Cryptography 1: What AI Found in Cloudflare's Circl",
-      "summary": "Article URL: https://blog.zksecurity.xyz/posts/circl-bugs/ Comments URL: https://news.ycombinator.com/item?id=48821749 Points: 105 # Comments: 12",
+      "summary": "Article URL: https://blog.zksecurity.xyz/posts/circl-bugs/ Comments URL: https://news.ycombinator.com/item?id=48821749 Points: 107 # Comments: 12",
       "source": "Hacker News",
       "published": "2026-07-07T18:36:35+00:00",
       "link": "https://blog.zksecurity.xyz/posts/circl-bugs/"
@@ -143,7 +171,7 @@ const FEED_DATA = {
     },
     {
       "title": "Automating AI Away",
-      "summary": "Article URL: https://replicated.live/blog/away Comments URL: https://news.ycombinator.com/item?id=48818937 Points: 114 # Comments: 54",
+      "summary": "Article URL: https://replicated.live/blog/away Comments URL: https://news.ycombinator.com/item?id=48818937 Points: 117 # Comments: 56",
       "source": "Hacker News",
       "published": "2026-07-07T15:11:08+00:00",
       "link": "https://replicated.live/blog/away"
@@ -206,7 +234,7 @@ const FEED_DATA = {
     },
     {
       "title": "Beijing is looking at curbing overseas access to China's top AI models",
-      "summary": "Article URL: https://www.reuters.com/world/beijing-is-looking-curbing-overseas-access-chinas-top-ai-models-sources-say-2026-07-07/ Comments URL: https://news.ycombinator.com/item?id=48816025 Points: 57 # Comments: 10",
+      "summary": "Article URL: https://www.reuters.com/world/beijing-is-looking-curbing-overseas-access-chinas-top-ai-models-sources-say-2026-07-07/ Comments URL: https://news.ycombinator.com/item?id=48816025 Points: 58 # Comments: 10",
       "source": "Hacker News",
       "published": "2026-07-07T10:51:07+00:00",
       "link": "https://www.reuters.com/world/beijing-is-looking-curbing-overseas-access-chinas-top-ai-models-sources-say-2026-07-07/"
@@ -269,7 +297,7 @@ const FEED_DATA = {
     },
     {
       "title": "Small AI Models Gain Traction In places with unreliable networks",
-      "summary": "Article URL: https://spectrum.ieee.org/small-language-models-ai-pharmaceuticals Comments URL: https://news.ycombinator.com/item?id=48812055 Points: 265 # Comments: 78",
+      "summary": "Article URL: https://spectrum.ieee.org/small-language-models-ai-pharmaceuticals Comments URL: https://news.ycombinator.com/item?id=48812055 Points: 268 # Comments: 80",
       "source": "Hacker News",
       "published": "2026-07-06T23:59:54+00:00",
       "link": "https://spectrum.ieee.org/small-language-models-ai-pharmaceuticals"
@@ -290,14 +318,14 @@ const FEED_DATA = {
     },
     {
       "title": "AI: The ROI Runway Could Be Long Outside the Tech Sector",
-      "summary": "Article URL: https://www.apollo.com/wealth/insights-news/insights/daily-spark/ai-the-roi-runway-could-be-long-outside-the-tech-sector Comments URL: https://news.ycombinator.com/item?id=48810533 Points: 69 # Comments: 87",
+      "summary": "Article URL: https://www.apollo.com/wealth/insights-news/insights/daily-spark/ai-the-roi-runway-could-be-long-outside-the-tech-sector Comments URL: https://news.ycombinator.com/item?id=48810533 Points: 69 # Comments: 88",
       "source": "Hacker News",
       "published": "2026-07-06T21:09:23+00:00",
       "link": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/ai-the-roi-runway-could-be-long-outside-the-tech-sector"
     },
     {
       "title": "GLM 5.2 and the coming AI margin collapse",
-      "summary": "Article URL: https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2/ Comments URL: https://news.ycombinator.com/item?id=48809877 Points: 669 # Comments: 453",
+      "summary": "Article URL: https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2/ Comments URL: https://news.ycombinator.com/item?id=48809877 Points: 672 # Comments: 456",
       "source": "Hacker News",
       "published": "2026-07-06T20:14:55+00:00",
       "link": "https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2/"
@@ -409,14 +437,14 @@ const FEED_DATA = {
     },
     {
       "title": "Google Chrome Installed a 4GB AI Model on Your PC",
-      "summary": "Article URL: https://oztalking.com/en/issues/hidden-4gb-ai-model Comments URL: https://news.ycombinator.com/item?id=48805627 Points: 78 # Comments: 64",
+      "summary": "Article URL: https://oztalking.com/en/issues/hidden-4gb-ai-model Comments URL: https://news.ycombinator.com/item?id=48805627 Points: 78 # Comments: 63",
       "source": "Hacker News",
       "published": "2026-07-06T15:01:44+00:00",
       "link": "https://oztalking.com/en/issues/hidden-4gb-ai-model"
     },
     {
       "title": "AMD Ryzen AI Halo – $4k AI Dev Kit",
-      "summary": "Article URL: https://www.lttlabs.com/articles/2026/07/06/amd-ryzen-ai-halo Comments URL: https://news.ycombinator.com/item?id=48805624 Points: 372 # Comments: 258",
+      "summary": "Article URL: https://www.lttlabs.com/articles/2026/07/06/amd-ryzen-ai-halo Comments URL: https://news.ycombinator.com/item?id=48805624 Points: 373 # Comments: 259",
       "source": "Hacker News",
       "published": "2026-07-06T15:01:18+00:00",
       "link": "https://www.lttlabs.com/articles/2026/07/06/amd-ryzen-ai-halo"
@@ -1372,34 +1400,6 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-06-30T17:43:27+00:00",
       "link": "https://the-decoder.com/openai-reportedly-cut-response-costs-for-guest-chatgpt-users-by-more-than-half/"
-    },
-    {
-      "title": "Roundtables: Longevity’s Next Frontier: “Reprogramming” Your Body",
-      "summary": "Listen to the session or watch below Billions of dollars are flooding into efforts to reverse aging as scientists explore ways to return cells to a younger state. But how far off are these experimental treatments?",
-      "source": "MIT Tech Review",
-      "published": "2026-06-30T17:36:48+00:00",
-      "link": "https://www.technologyreview.com/2026/06/30/1139958/roundtables-longevitys-next-frontier-reprogramming-your-body/"
-    },
-    {
-      "title": "Netflix is using an AI-generated Gene Wilder voice in its Willy Wonka reality show",
-      "summary": "A new teaser trailer confirmed that Wonka's The Golden Ticket will premiere on Netflix on September 23rd, following its Squid Game reality show in the trend of creating real competitions based on fictional torture scenarios.",
-      "source": "The Verge",
-      "published": "2026-06-30T17:19:15+00:00",
-      "link": "https://www.theverge.com/streaming/959684/netflix-wonka-golden-ticket-gene-wilder"
-    },
-    {
-      "title": "Google launches Nano Banana 2 Lite for fast AI images and Gemini Omni Flash for video via API",
-      "summary": "Google adds two new generative AI models. Nano Banana 2 Lite generates images in four seconds at $0.034 a pop.",
-      "source": "The Decoder",
-      "published": "2026-06-30T17:17:33+00:00",
-      "link": "https://the-decoder.com/google-launches-nano-banana-2-lite-for-fast-ai-images-and-gemini-omni-flash-for-video-via-api/"
-    },
-    {
-      "title": "Anthropic’s Claude Science bets on workflow, not a new model, to win over scientists",
-      "summary": "Anthropic's Claude Science is a workbench that gives scientists one environment to do computational research, saving them from the need to bounce between databases, pipelines, and tools.",
-      "source": "TechCrunch",
-      "published": "2026-06-30T17:00:00+00:00",
-      "link": "https://techcrunch.com/2026/06/30/anthropics-claude-science-bets-on-workflow-not-a-new-model-to-win-over-scientists/"
     }
   ]
 };
