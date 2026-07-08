@@ -1,6 +1,13 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-07-07T22:06:03.541612+00:00",
+  "lastUpdated": "2026-07-08T04:12:51.214191+00:00",
   "items": [
+    {
+      "title": "Meta just launched a new AI generator, Muse Image, and users are already pushing back over use of their photos",
+      "summary": "The new image-generating model has numerous use cases, including advertising and decorating, and creator-based opportunities.",
+      "source": "TechCrunch",
+      "published": "2026-07-07T22:18:10+00:00",
+      "link": "https://techcrunch.com/2026/07/07/meta-rolls-out-muse-a-new-ai-image-generator/"
+    },
     {
       "title": "Meta Now Lets Anyone Use Your Instagram Photos in AI Images—Unless You Opt Out",
       "summary": "As part of Meta’s Muse Image model rollout, Instagram users with public accounts need to opt out to block AI generations of their content.",
@@ -16,11 +23,25 @@ const FEED_DATA = {
       "link": "https://www.wired.com/story/openai-chief-futurist-joshua-achiam-is-leaving-the-company/"
     },
     {
+      "title": "We charge $10k a week to delete AI-generated code",
+      "summary": "Article URL: https://odra.dev/slopfix/ Comments URL: https://news.ycombinator.com/item?id=48823359 Points: 247 # Comments: 148",
+      "source": "Hacker News",
+      "published": "2026-07-07T20:35:42+00:00",
+      "link": "https://odra.dev/slopfix/"
+    },
+    {
       "title": "Meta’s new Muse Image model can pull other Instagram users into AI photos",
       "summary": "Meta is launching the first AI image generation model made by its Superintelligence Labs division.",
       "source": "The Verge",
       "published": "2026-07-07T20:31:58+00:00",
       "link": "https://www.theverge.com/tech/962485/meta-muse-image-ai-model-instagram"
+    },
+    {
+      "title": "Re: I'm Begging You to Leave Your AI Note-Taker at Home",
+      "summary": "Article URL: https://firesphere.dev/articles/yes-actually-i-do-fucking-mind Comments URL: https://news.ycombinator.com/item?id=48823024 Points: 57 # Comments: 87",
+      "source": "Hacker News",
+      "published": "2026-07-07T20:10:13+00:00",
+      "link": "https://firesphere.dev/articles/yes-actually-i-do-fucking-mind"
     },
     {
       "title": "Why the rise of open source AI isn’t hurting Anthropic … yet",
@@ -45,7 +66,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI Meets Cryptography 1: What AI Found in Cloudflare's Circl",
-      "summary": "Article URL: https://blog.zksecurity.xyz/posts/circl-bugs/ Comments URL: https://news.ycombinator.com/item?id=48821749 Points: 55 # Comments: 6",
+      "summary": "Article URL: https://blog.zksecurity.xyz/posts/circl-bugs/ Comments URL: https://news.ycombinator.com/item?id=48821749 Points: 98 # Comments: 11",
       "source": "Hacker News",
       "published": "2026-07-07T18:36:35+00:00",
       "link": "https://blog.zksecurity.xyz/posts/circl-bugs/"
@@ -101,7 +122,7 @@ const FEED_DATA = {
     },
     {
       "title": "Automating AI Away",
-      "summary": "Article URL: https://replicated.live/blog/away Comments URL: https://news.ycombinator.com/item?id=48818937 Points: 81 # Comments: 40",
+      "summary": "Article URL: https://replicated.live/blog/away Comments URL: https://news.ycombinator.com/item?id=48818937 Points: 109 # Comments: 50",
       "source": "Hacker News",
       "published": "2026-07-07T15:11:08+00:00",
       "link": "https://replicated.live/blog/away"
@@ -164,7 +185,7 @@ const FEED_DATA = {
     },
     {
       "title": "Beijing is looking at curbing overseas access to China's top AI models",
-      "summary": "Article URL: https://www.reuters.com/world/beijing-is-looking-curbing-overseas-access-chinas-top-ai-models-sources-say-2026-07-07/ Comments URL: https://news.ycombinator.com/item?id=48816025 Points: 54 # Comments: 10",
+      "summary": "Article URL: https://www.reuters.com/world/beijing-is-looking-curbing-overseas-access-chinas-top-ai-models-sources-say-2026-07-07/ Comments URL: https://news.ycombinator.com/item?id=48816025 Points: 56 # Comments: 10",
       "source": "Hacker News",
       "published": "2026-07-07T10:51:07+00:00",
       "link": "https://www.reuters.com/world/beijing-is-looking-curbing-overseas-access-chinas-top-ai-models-sources-say-2026-07-07/"
@@ -220,14 +241,14 @@ const FEED_DATA = {
     },
     {
       "title": "YC CEO says he ships 37K LoC AI code per day. A developer looked under the hood",
-      "summary": "Article URL: https://www.fastcompany.com/91520702/y-combinator-garry-tan-agentic-ai-social-media Comments URL: https://news.ycombinator.com/item?id=48815117 Points: 104 # Comments: 96",
+      "summary": "Article URL: https://www.fastcompany.com/91520702/y-combinator-garry-tan-agentic-ai-social-media Comments URL: https://news.ycombinator.com/item?id=48815117 Points: 109 # Comments: 97",
       "source": "Hacker News",
       "published": "2026-07-07T08:39:51+00:00",
       "link": "https://www.fastcompany.com/91520702/y-combinator-garry-tan-agentic-ai-social-media"
     },
     {
       "title": "Small AI Models Gain Traction In places with unreliable networks",
-      "summary": "Article URL: https://spectrum.ieee.org/small-language-models-ai-pharmaceuticals Comments URL: https://news.ycombinator.com/item?id=48812055 Points: 258 # Comments: 78",
+      "summary": "Article URL: https://spectrum.ieee.org/small-language-models-ai-pharmaceuticals Comments URL: https://news.ycombinator.com/item?id=48812055 Points: 265 # Comments: 78",
       "source": "Hacker News",
       "published": "2026-07-06T23:59:54+00:00",
       "link": "https://spectrum.ieee.org/small-language-models-ai-pharmaceuticals"
@@ -248,14 +269,14 @@ const FEED_DATA = {
     },
     {
       "title": "AI: The ROI Runway Could Be Long Outside the Tech Sector",
-      "summary": "Article URL: https://www.apollo.com/wealth/insights-news/insights/daily-spark/ai-the-roi-runway-could-be-long-outside-the-tech-sector Comments URL: https://news.ycombinator.com/item?id=48810533 Points: 69 # Comments: 83",
+      "summary": "Article URL: https://www.apollo.com/wealth/insights-news/insights/daily-spark/ai-the-roi-runway-could-be-long-outside-the-tech-sector Comments URL: https://news.ycombinator.com/item?id=48810533 Points: 69 # Comments: 85",
       "source": "Hacker News",
       "published": "2026-07-06T21:09:23+00:00",
       "link": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/ai-the-roi-runway-could-be-long-outside-the-tech-sector"
     },
     {
       "title": "GLM 5.2 and the coming AI margin collapse",
-      "summary": "Article URL: https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2/ Comments URL: https://news.ycombinator.com/item?id=48809877 Points: 660 # Comments: 446",
+      "summary": "Article URL: https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2/ Comments URL: https://news.ycombinator.com/item?id=48809877 Points: 668 # Comments: 451",
       "source": "Hacker News",
       "published": "2026-07-06T20:14:55+00:00",
       "link": "https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2/"
@@ -339,7 +360,7 @@ const FEED_DATA = {
     },
     {
       "title": "OfficeCLI: Office suite for AI agents to read and edit Microsoft Office files",
-      "summary": "Article URL: https://github.com/iOfficeAI/OfficeCLI Comments URL: https://news.ycombinator.com/item?id=48807225 Points: 211 # Comments: 61",
+      "summary": "Article URL: https://github.com/iOfficeAI/OfficeCLI Comments URL: https://news.ycombinator.com/item?id=48807225 Points: 212 # Comments: 62",
       "source": "Hacker News",
       "published": "2026-07-06T16:47:44+00:00",
       "link": "https://github.com/iOfficeAI/OfficeCLI"
@@ -374,7 +395,7 @@ const FEED_DATA = {
     },
     {
       "title": "AMD Ryzen AI Halo – $4k AI Dev Kit",
-      "summary": "Article URL: https://www.lttlabs.com/articles/2026/07/06/amd-ryzen-ai-halo Comments URL: https://news.ycombinator.com/item?id=48805624 Points: 370 # Comments: 254",
+      "summary": "Article URL: https://www.lttlabs.com/articles/2026/07/06/amd-ryzen-ai-halo Comments URL: https://news.ycombinator.com/item?id=48805624 Points: 371 # Comments: 258",
       "source": "Hacker News",
       "published": "2026-07-06T15:01:18+00:00",
       "link": "https://www.lttlabs.com/articles/2026/07/06/amd-ryzen-ai-halo"
@@ -451,14 +472,14 @@ const FEED_DATA = {
     },
     {
       "title": "GPT-5.6 Sol Ultra will be in Codex",
-      "summary": "https://x.com/haider1/status/2073695124220006575, https://xcancel.com/haider1/status/2073695124220006575 Comments URL: https://news.ycombinator.com/item?id=48799614 Points: 411 # Comments: 397",
+      "summary": "https://x.com/haider1/status/2073695124220006575, https://xcancel.com/haider1/status/2073695124220006575 Comments URL: https://news.ycombinator.com/item?id=48799614 Points: 412 # Comments: 397",
       "source": "Hacker News",
       "published": "2026-07-06T01:04:03+00:00",
       "link": "https://twitter.com/thsottiaux/status/2073933490513752151"
     },
     {
       "title": "Al Vigier: Canada's AI strategy shouldn't include secret Palantir bills",
-      "summary": "Article URL: https://www.readtheline.ca/p/al-vigier-canadas-ai-strategy-shouldnt Comments URL: https://news.ycombinator.com/item?id=48799256 Points: 164 # Comments: 79",
+      "summary": "Article URL: https://www.readtheline.ca/p/al-vigier-canadas-ai-strategy-shouldnt Comments URL: https://news.ycombinator.com/item?id=48799256 Points: 164 # Comments: 80",
       "source": "Hacker News",
       "published": "2026-07-06T00:04:48+00:00",
       "link": "https://www.readtheline.ca/p/al-vigier-canadas-ai-strategy-shouldnt"
@@ -1379,27 +1400,6 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-06-30T15:23:46+00:00",
       "link": "https://the-decoder.com/meituans-longcat-2-0-shows-china-can-train-massive-ai-models-without-nvidia/"
-    },
-    {
-      "title": "X now offers an MCP server to make its platform easier for AI tools to use",
-      "summary": "X has launched a hosted MCP server, making it easier for developers to connect AI applications with the company’s API.",
-      "source": "TechCrunch",
-      "published": "2026-06-30T15:08:42+00:00",
-      "link": "https://techcrunch.com/2026/06/30/x-now-offers-an-mcp-server-to-make-its-platform-easier-for-ai-tools-to-use/"
-    },
-    {
-      "title": "San Francisco's AI boom is pricing out six-figure tech workers who can't find rent under $5,000",
-      "summary": "San Francisco's AI boom is driving up the cost of living so fast that even couples earning $365,000 a year can't find an affordable apartment. Median rent sits at $3,827, and homes cost $1.7 million on average.",
-      "source": "The Decoder",
-      "published": "2026-06-30T15:04:55+00:00",
-      "link": "https://the-decoder.com/san-franciscos-ai-boom-is-pricing-out-six-figure-tech-workers-who-cant-find-rent-under-5000/"
-    },
-    {
-      "title": "Podcasting platform Riverside enters the newsletter publishing game",
-      "summary": "Users will be able use AI to create newsletters based on their recordings.",
-      "source": "TechCrunch",
-      "published": "2026-06-30T15:00:00+00:00",
-      "link": "https://techcrunch.com/2026/06/30/podcasting-platform-riverside-enters-the-newsletter-publishing-game/"
     }
   ]
 };
