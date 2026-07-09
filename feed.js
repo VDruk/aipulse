@@ -1,9 +1,72 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-07-09T18:46:30.713316+00:00",
+  "lastUpdated": "2026-07-09T22:14:51.111332+00:00",
   "items": [
     {
+      "title": "An AI agent startup just let its agent run its $100 million fundraise",
+      "summary": "Lyzr, a startup that builds AI agents for enterprises, used its own AI agent to raise a $100 million round — proof, evidently, that the product actually works.",
+      "source": "TechCrunch",
+      "published": "2026-07-09T22:08:58+00:00",
+      "link": "https://techcrunch.com/2026/07/09/an-ai-agent-startup-just-let-its-agent-run-its-100-million-fundraise/"
+    },
+    {
+      "title": "OpenAI is shutting down Atlas, but its AI browser ambitions are still growing",
+      "summary": "OpenAI is sunsetting its AI-powered browser after less than a year. But it's moving some agentic browsing features to its desktop app and a Chrome extension.",
+      "source": "TechCrunch",
+      "published": "2026-07-09T22:03:54+00:00",
+      "link": "https://techcrunch.com/2026/07/09/openai-is-shutting-down-atlas-but-its-ai-browser-ambitions-are-still-growing/"
+    },
+    {
+      "title": "Elon Musk praises Mythos/Fable, promises not to ‘cut off’ Anthropic",
+      "summary": "Should Anthropic trust Elon Musk to host its models? With about $40 billion in revenue at stake, Musk insists that the company can.",
+      "source": "TechCrunch",
+      "published": "2026-07-09T21:57:42+00:00",
+      "link": "https://techcrunch.com/2026/07/09/elon-musk-praises-mythos-fable-promises-not-to-cut-off-anthropic/"
+    },
+    {
+      "title": "Can AI answer the $3 trillion question?",
+      "summary": "The AI ROI debate has returned and the numbers are even bigger, as are, perhaps, the consequences.",
+      "source": "TechCrunch",
+      "published": "2026-07-09T21:47:50+00:00",
+      "link": "https://techcrunch.com/2026/07/09/can-ai-answer-the-3-trillion-question/"
+    },
+    {
+      "title": "The ChatGPT browser is already dead",
+      "summary": "OpenAI is already shutting down ChatGPT Atlas, its browser that could do tasks for you on your behalf, less than a year after launching it.",
+      "source": "The Verge",
+      "published": "2026-07-09T20:34:05+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/963654/openai-chatgpt-atlas-ai-browser-shut-down-sunset"
+    },
+    {
+      "title": "Anthropic found a hidden space where Claude puzzles over concepts",
+      "summary": "The AI firm Anthropic has developed a technique that has given it the clearest glimpse yet at what’s really going on inside large language models as they answer questions or carry out tasks. What they found ranges from the mundane to the unnerving.",
+      "source": "MIT Tech Review",
+      "published": "2026-07-09T20:22:28+00:00",
+      "link": "https://www.technologyreview.com/2026/07/09/1140293/anthropic-found-a-hidden-space-where-claude-puzzles-over-concepts/"
+    },
+    {
+      "title": "Google will now tell you if an ad was made with AI",
+      "summary": "You can see if ads on Google Search, Google Discover, and YouTube were made or edited using AI from a new section in Google's \"My Ad Center,\" as reported earlier by TechCrunch.",
+      "source": "The Verge",
+      "published": "2026-07-09T20:11:38+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/963628/google-ai-generated-ads-label"
+    },
+    {
+      "title": "Meta enters the crowded AI coding battle with Muse Spark 1.1",
+      "summary": "Meta's pitch to users is Spark's ability to handle large agentic workloads, fix bugs, and help with large code migrations — the kind of automation that enterprises are increasingly turning to AI companies to provide.",
+      "source": "TechCrunch",
+      "published": "2026-07-09T19:40:45+00:00",
+      "link": "https://techcrunch.com/2026/07/09/meta-enters-the-crowded-ai-coding-battle-with-muse-spark-1-1/"
+    },
+    {
+      "title": "New York Times says OpenAI hid evidence in ChatGPT copyright trial",
+      "summary": "News publishers say OpenAI hid tools and datasets that could identify copyrighted journalism in ChatGPT outputs, escalating their lawsuit with a new motion for sanctions.",
+      "source": "TechCrunch",
+      "published": "2026-07-09T19:05:58+00:00",
+      "link": "https://techcrunch.com/2026/07/09/new-york-times-says-openai-hid-evidence-in-chatgpt-copyright-trial/"
+    },
+    {
       "title": "Google will now disclose which ads are made with AI",
-      "summary": "A new feature will indicate when advertisers have used generative AI tools to create or edit their ads, Google says.",
+      "summary": "While Google prohibits misleading and deceptive ads, an ad can still leverage AI to create some type of synthetic or digitally altered content. Until now, that's something Google only required election ads to disclose.",
       "source": "TechCrunch",
       "published": "2026-07-09T18:40:51+00:00",
       "link": "https://techcrunch.com/2026/07/09/google-will-now-disclose-which-ads-are-made-with-ai/"
@@ -17,7 +80,7 @@ const FEED_DATA = {
     },
     {
       "title": "Paris-based AI voice startup Gradium raises $100M seed, backed by Nvidia",
-      "summary": "The Paris-based ElevenLabs competitor, just announced a hefty seed extension round.",
+      "summary": "The company is using the cash to open an office in the Bay Area and compete for talent there, \"strengthening its position at the heart of the world's leading AI ecosystem.\"",
       "source": "TechCrunch",
       "published": "2026-07-09T18:34:35+00:00",
       "link": "https://techcrunch.com/2026/07/09/paris-based-ai-voice-startup-gradium-raises-100m-seed-backed-by-nvidia/"
@@ -44,6 +107,13 @@ const FEED_DATA = {
       "link": "https://the-decoder.com/openai-pairs-its-gpt-5-6-public-rollout-with-chatgpt-work-a-new-agent-that-handles-entire-workflows/"
     },
     {
+      "title": "Instagram users: Here’s how to stop Meta’s AI from using your photos",
+      "summary": "Muse Image allows users to generate AI images using photos from public Instagram accounts. As long as a person's profile is public, another user can tag that account and use their images as part of an AI-generated creation.",
+      "source": "TechCrunch",
+      "published": "2026-07-09T17:56:47+00:00",
+      "link": "https://techcrunch.com/2026/07/09/how-to-stop-metas-ai-image-generator-from-using-your-instagram-photos/"
+    },
+    {
       "title": "How to stop Meta’s AI image generator from using your Instagram photos",
       "summary": "Meta's new AI image generator is using your public Instagram photos unless you opt out. Here's how to do that.",
       "source": "TechCrunch",
@@ -65,6 +135,13 @@ const FEED_DATA = {
       "link": "https://techcrunch.com/2026/07/09/nvidia-is-a-victim-of-the-compute-marketplace-it-created/"
     },
     {
+      "title": "GPT-5.6",
+      "summary": "https://deploymentsafety.openai.com/gpt-5-6/gpt-5-6.pdfhttps://developers.openai.com/api/docs/guides/latest-modelhttps://x.com/levie/status/2075287443411222628, https://xcancel.com/levie/status/2075287443411222628 Comments URL: https://news.ycombinator.com/item?id=48849066...",
+      "source": "Hacker News",
+      "published": "2026-07-09T17:04:14+00:00",
+      "link": "https://openai.com/index/gpt-5-6/"
+    },
+    {
       "title": "OpenAI rolls out GPT-5.6 after government greenlight — and announces ‘ChatGPT Work’",
       "summary": "About two weeks after OpenAI's GPT-5.6 was caught up in regulatory drama - rolled out only to government-approved organizations during a \"limited preview\" period - the company has received the Trump administration's greenlight for a public rollout of the model.",
       "source": "The Verge",
@@ -77,6 +154,20 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-07-09T16:58:44+00:00",
       "link": "https://the-decoder.com/metas-muse-spark-1-1-api-pricing-squeezes-openai-and-anthropic-as-the-ai-price-war-heats-up/"
+    },
+    {
+      "title": "AI 2040: Plan A",
+      "summary": "Article URL: https://ai-2040.com/ Comments URL: https://news.ycombinator.com/item?id=48848425 Points: 63 # Comments: 34",
+      "source": "Hacker News",
+      "published": "2026-07-09T16:21:44+00:00",
+      "link": "https://ai-2040.com/"
+    },
+    {
+      "title": "AI content is everywhere on social media, especially LinkedIn",
+      "summary": "Article URL: https://www.pangram.com/blog/ai-in-your-feed Comments URL: https://news.ycombinator.com/item?id=48847940 Points: 138 # Comments: 128",
+      "source": "Hacker News",
+      "published": "2026-07-09T15:50:09+00:00",
+      "link": "https://www.pangram.com/blog/ai-in-your-feed"
     },
     {
       "title": "AWS GraphRAG deployment cuts drug research cycles by 87%",
@@ -119,6 +210,13 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-07-09T13:23:57+00:00",
       "link": "https://the-decoder.com/openai-finds-roughly-30-percent-of-popular-ai-coding-test-is-broken/"
+    },
+    {
+      "title": "Show HN: FableCut – A browser video editor AI agents can drive (zero deps)",
+      "summary": "Article URL: https://github.com/ronak-create/FableCut Comments URL: https://news.ycombinator.com/item?id=48845422 Points: 82 # Comments: 52",
+      "source": "Hacker News",
+      "published": "2026-07-09T13:23:10+00:00",
+      "link": "https://github.com/ronak-create/FableCut"
     },
     {
       "title": "Character.AI wants a piece of the microdrama pie",
@@ -198,6 +296,41 @@ const FEED_DATA = {
       "link": "https://the-decoder.com/grok-4-5-is-so-cheap-compared-to-fable-5-and-gpt-5-5-that-benchmark-gaps-may-not-matter-much/"
     },
     {
+      "title": "AI changes the economics of software rewrites",
+      "summary": "Article URL: https://thetruthasiseeitnow.com/ai-slop-starts-with-the-codebase-itself/ Comments URL: https://news.ycombinator.com/item?id=48841446 Points: 94 # Comments: 103",
+      "source": "Hacker News",
+      "published": "2026-07-09T05:46:50+00:00",
+      "link": "https://thetruthasiseeitnow.com/ai-slop-starts-with-the-codebase-itself/"
+    },
+    {
+      "title": "What's slowing down the AI buildout",
+      "summary": "Article URL: https://www.worksinprogress.news/p/ai-is-bottlenecked-by-the-grid Comments URL: https://news.ycombinator.com/item?id=48840620 Points: 56 # Comments: 130",
+      "source": "Hacker News",
+      "published": "2026-07-09T03:26:02+00:00",
+      "link": "https://www.worksinprogress.news/p/ai-is-bottlenecked-by-the-grid"
+    },
+    {
+      "title": "I think I have LLM burnout",
+      "summary": "Article URL: https://www.alecscollon.com/blog/llm-burnout/ Comments URL: https://news.ycombinator.com/item?id=48839984 Points: 380 # Comments: 333",
+      "source": "Hacker News",
+      "published": "2026-07-09T01:56:28+00:00",
+      "link": "https://www.alecscollon.com/blog/llm-burnout/"
+    },
+    {
+      "title": "We made Grok 4.5, GPT-5.5, and Claude build the same apps",
+      "summary": "Article URL: https://www.tryai.dev/blog/grok-4.5-vs-gpt-5.5-vs-claude-build-off Comments URL: https://news.ycombinator.com/item?id=48838772 Points: 167 # Comments: 91",
+      "source": "Hacker News",
+      "published": "2026-07-08T23:27:14+00:00",
+      "link": "https://www.tryai.dev/blog/grok-4.5-vs-gpt-5.5-vs-claude-build-off"
+    },
+    {
+      "title": "Suspecting AI cheating, Ivy League prof ordered in-person final; scores fell 50%",
+      "summary": "Article URL: https://arstechnica.com/ai/2026/07/we-cannot-choose-to-become-idiots-the-ai-cheating-scandal-roiling-brown-university/ Comments URL: https://news.ycombinator.com/item?id=48838611 Points: 128 # Comments: 146",
+      "source": "Hacker News",
+      "published": "2026-07-08T23:11:28+00:00",
+      "link": "https://arstechnica.com/ai/2026/07/we-cannot-choose-to-become-idiots-the-ai-cheating-scandal-roiling-brown-university/"
+    },
+    {
       "title": "Messi and Ronaldo Are Building Tech Portfolios. Mo Salah Is Playing a Different Game",
       "summary": "Lionel Messi and Cristiano Ronaldo are betting on AI, health tech, and startups. Mohamed Salah is taking a more traditional route beyond football.",
       "source": "Wired",
@@ -254,11 +387,25 @@ const FEED_DATA = {
       "link": "https://the-decoder.com/chatgpt-can-now-listen-and-talk-at-the-same-time-making-ai-conversations-seem-more-human/"
     },
     {
+      "title": "Ask HN: Another \"Hacker News\" with less AI and more human-focused hacking news?",
+      "summary": "I am done with articles stating \"I used this LLM to do that\", or \"Look, this agent did that in 2 minutes!\". I want content more user-centric, less openai / anthropic, and more \"human-in-the-loop\" articles.Any other website to recommend?",
+      "source": "Hacker News",
+      "published": "2026-07-08T17:48:41+00:00",
+      "link": "https://news.ycombinator.com/item?id=48834961"
+    },
+    {
       "title": "Why this CEO thinks video games make better training data than the internet",
       "summary": "When it comes to achieving artificial general intelligence (AGI), large language models just don’t have what it takes.",
       "source": "TechCrunch",
       "published": "2026-07-08T17:47:55+00:00",
       "link": "https://techcrunch.com/video/why-this-ceo-thinks-video-games-make-better-training-data-than-the-internet/"
+    },
+    {
+      "title": "Show HN: Microsoft releases Flint, a visualization language for AI agents",
+      "summary": "Data visualizations are the bridge between user and data.But building AI agents that can generate visualizations reliably can be very tricky:- simple chart specs can be reliable, but generated charts are often of low quality due to reliance on system defaults; - complex chart...",
+      "source": "Hacker News",
+      "published": "2026-07-08T17:46:12+00:00",
+      "link": "https://microsoft.github.io/flint-chart/#/"
     },
     {
       "title": "Mistral enters robotics with Robostral Navigate, an 8B model that steers robots using just one camera",
@@ -275,11 +422,11 @@ const FEED_DATA = {
       "link": "https://techcrunch.com/2026/07/08/meta-wants-its-ai-glasses-to-seem-less-creepy-its-ai-strategy-says-otherwise/"
     },
     {
-      "title": "OpenAI releases new voice models for more natural live conversations",
-      "summary": "OpenAI says its new voice mode can speak and listen at the same time, a key ability for live translation.",
-      "source": "TechCrunch",
-      "published": "2026-07-08T17:00:00+00:00",
-      "link": "https://techcrunch.com/2026/07/08/openai-releases-new-voice-models-for-more-natural-live-conversations/"
+      "title": "GPT‑Live",
+      "summary": "Article URL: https://openai.com/index/introducing-gpt-live/ Comments URL: https://news.ycombinator.com/item?id=48834405 Points: 737 # Comments: 511",
+      "source": "Hacker News",
+      "published": "2026-07-08T17:03:19+00:00",
+      "link": "https://openai.com/index/introducing-gpt-live/"
     },
     {
       "title": "ChatGPT’s upgraded voice mode is better at shutting up",
@@ -287,6 +434,13 @@ const FEED_DATA = {
       "source": "The Verge",
       "published": "2026-07-08T17:00:00+00:00",
       "link": "https://www.theverge.com/ai-artificial-intelligence/962856/chatgpt-upgraded-voice-mode-gpt-live"
+    },
+    {
+      "title": "OpenAI releases new voice models for more natural live conversations",
+      "summary": "OpenAI says its new voice mode can speak and listen at the same time, a key ability for live translation.",
+      "source": "TechCrunch",
+      "published": "2026-07-08T17:00:00+00:00",
+      "link": "https://techcrunch.com/2026/07/08/openai-releases-new-voice-models-for-more-natural-live-conversations/"
     },
     {
       "title": "EmTech AI 2026: The Rise of the AI Platform",
@@ -308,6 +462,13 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-07-08T16:22:38+00:00",
       "link": "https://techcrunch.com/2026/07/08/prime-intellect-raises-130m-series-a-to-help-enterprises-build-their-own-ai-agents/"
+    },
+    {
+      "title": "SWE-1.7 Reach Near GPT 5.5 and Opus Intelligence",
+      "summary": "Article URL: https://cognition.com/blog/swe-1-7 Comments URL: https://news.ycombinator.com/item?id=48833866 Points: 269 # Comments: 139",
+      "source": "Hacker News",
+      "published": "2026-07-08T16:19:36+00:00",
+      "link": "https://cognition.com/blog/swe-1-7"
     },
     {
       "title": "Anthropic's Claude Fable 5 dominates new industry benchmarks at a steep premium",
@@ -423,14 +584,14 @@ const FEED_DATA = {
     },
     {
       "title": "GitLost: We Tricked GitHub's AI Agent into Leaking Private Repos",
-      "summary": "Article URL: https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos/ Comments URL: https://news.ycombinator.com/item?id=48827858 Points: 370 # Comments: 145",
+      "summary": "Article URL: https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos/ Comments URL: https://news.ycombinator.com/item?id=48827858 Points: 531 # Comments: 204",
       "source": "Hacker News",
       "published": "2026-07-08T05:25:35+00:00",
       "link": "https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos/"
     },
     {
       "title": "GPT-5.6 Sol, along with Terra and Luna, will launch publicly this Thursday",
-      "summary": "Article URL: https://twitter.com/OpenAI/status/2074704958419792299 Comments URL: https://news.ycombinator.com/item?id=48827402 Points: 221 # Comments: 191",
+      "summary": "Article URL: https://twitter.com/OpenAI/status/2074704958419792299 Comments URL: https://news.ycombinator.com/item?id=48827402 Points: 235 # Comments: 208",
       "source": "Hacker News",
       "published": "2026-07-08T04:12:13+00:00",
       "link": "https://twitter.com/OpenAI/status/2074704958419792299"
@@ -458,7 +619,7 @@ const FEED_DATA = {
     },
     {
       "title": "We charge $10k a week to delete AI-generated code",
-      "summary": "Article URL: https://odra.dev/slopfix/ Comments URL: https://news.ycombinator.com/item?id=48823359 Points: 283 # Comments: 217",
+      "summary": "Article URL: https://odra.dev/slopfix/ Comments URL: https://news.ycombinator.com/item?id=48823359 Points: 301 # Comments: 234",
       "source": "Hacker News",
       "published": "2026-07-07T20:35:42+00:00",
       "link": "https://odra.dev/slopfix/"
@@ -472,7 +633,7 @@ const FEED_DATA = {
     },
     {
       "title": "Re: I'm Begging You to Leave Your AI Note-Taker at Home",
-      "summary": "Article URL: https://firesphere.dev/articles/yes-actually-i-do-fucking-mind Comments URL: https://news.ycombinator.com/item?id=48823024 Points: 60 # Comments: 92",
+      "summary": "Article URL: https://firesphere.dev/articles/yes-actually-i-do-fucking-mind Comments URL: https://news.ycombinator.com/item?id=48823024 Points: 60 # Comments: 100",
       "source": "Hacker News",
       "published": "2026-07-07T20:10:13+00:00",
       "link": "https://firesphere.dev/articles/yes-actually-i-do-fucking-mind"
@@ -500,7 +661,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI Meets Cryptography 1: What AI Found in Cloudflare's Circl",
-      "summary": "Article URL: https://blog.zksecurity.xyz/posts/circl-bugs/ Comments URL: https://news.ycombinator.com/item?id=48821749 Points: 110 # Comments: 12",
+      "summary": "Article URL: https://blog.zksecurity.xyz/posts/circl-bugs/ Comments URL: https://news.ycombinator.com/item?id=48821749 Points: 111 # Comments: 12",
       "source": "Hacker News",
       "published": "2026-07-07T18:36:35+00:00",
       "link": "https://blog.zksecurity.xyz/posts/circl-bugs/"
@@ -556,7 +717,7 @@ const FEED_DATA = {
     },
     {
       "title": "Automating AI Away",
-      "summary": "Article URL: https://replicated.live/blog/away Comments URL: https://news.ycombinator.com/item?id=48818937 Points: 126 # Comments: 59",
+      "summary": "Article URL: https://replicated.live/blog/away Comments URL: https://news.ycombinator.com/item?id=48818937 Points: 133 # Comments: 62",
       "source": "Hacker News",
       "published": "2026-07-07T15:11:08+00:00",
       "link": "https://replicated.live/blog/away"
@@ -619,7 +780,7 @@ const FEED_DATA = {
     },
     {
       "title": "Beijing is looking at curbing overseas access to China's top AI models",
-      "summary": "Article URL: https://www.reuters.com/world/beijing-is-looking-curbing-overseas-access-chinas-top-ai-models-sources-say-2026-07-07/ Comments URL: https://news.ycombinator.com/item?id=48816025 Points: 60 # Comments: 11",
+      "summary": "Article URL: https://www.reuters.com/world/beijing-is-looking-curbing-overseas-access-chinas-top-ai-models-sources-say-2026-07-07/ Comments URL: https://news.ycombinator.com/item?id=48816025 Points: 61 # Comments: 11",
       "source": "Hacker News",
       "published": "2026-07-07T10:51:07+00:00",
       "link": "https://www.reuters.com/world/beijing-is-looking-curbing-overseas-access-chinas-top-ai-models-sources-say-2026-07-07/"
@@ -1239,167 +1400,6 @@ const FEED_DATA = {
       "source": "MIT Tech Review",
       "published": "2026-07-03T09:00:00+00:00",
       "link": "https://www.technologyreview.com/2026/07/03/1140036/uk-tobacco-ban-might-not-work-children-smoking/"
-    },
-    {
-      "title": "Chinese AI video maker Kling raises $2 billion as it gears up for Hong Kong IPO",
-      "summary": "Kuaishou has raised about $2 billion from investors for its AI video division, Kling. The article Chinese AI video maker Kling raises $2 billion as it gears up for Hong Kong IPO appeared first on The Decoder.",
-      "source": "The Decoder",
-      "published": "2026-07-03T08:53:16+00:00",
-      "link": "https://the-decoder.com/chinese-ai-video-maker-kling-raises-2-billion-as-it-gears-up-for-hong-kong-ipo/"
-    },
-    {
-      "title": "AI coding is a nightmare. Am I the only one experiencing this?",
-      "summary": "Here are my biggest gripes with AI coding assistants right now: Obsessed with reinventing the wheel. You'll often find it writing three duplicate functions for the exact same feature in a single file.",
-      "source": "Hacker News",
-      "published": "2026-07-03T03:18:42+00:00",
-      "link": "https://news.ycombinator.com/item?id=48770319"
-    },
-    {
-      "title": "Protect your right to run local AI",
-      "summary": "Article URL: https://righttointelligence.org/ Comments URL: https://news.ycombinator.com/item?id=48768951 Points: 550 # Comments: 199",
-      "source": "Hacker News",
-      "published": "2026-07-02T23:54:03+00:00",
-      "link": "https://righttointelligence.org/"
-    },
-    {
-      "title": "Right to Local Intelligence",
-      "summary": "Article URL: https://righttointelligence.org/ Comments URL: https://news.ycombinator.com/item?id=48768951 Points: 443 # Comments: 156",
-      "source": "Hacker News",
-      "published": "2026-07-02T23:54:03+00:00",
-      "link": "https://righttointelligence.org/"
-    },
-    {
-      "title": "Mark Zuckerberg tells staff that AI agents haven’t progressed as quickly as he’d hoped",
-      "summary": "At an internal meeting, the Meta CEO reportedly said that AI development efforts were not moving as quickly as anticipated.",
-      "source": "TechCrunch",
-      "published": "2026-07-02T23:38:10+00:00",
-      "link": "https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/"
-    },
-    {
-      "title": "Zuckerberg says AI agent development going slower than expected",
-      "summary": "https://archive.md/Q9trL Comments URL: https://news.ycombinator.com/item?id=48767058 Points: 322 # Comments: 575",
-      "source": "Hacker News",
-      "published": "2026-07-02T20:38:06+00:00",
-      "link": "https://www.reuters.com/business/zuckerberg-says-ai-agent-development-going-slower-than-expected-2026-07-02/"
-    },
-    {
-      "title": "Jersey Mike’s IPO illustrates how bad the AI hype has become",
-      "summary": "Just for kicks, I took a look at Jersey Mike's IPO documents. Surely a sandwich shop would have no need to mention AI.",
-      "source": "TechCrunch",
-      "published": "2026-07-02T20:11:59+00:00",
-      "link": "https://techcrunch.com/2026/07/02/jersey-mikes-ipo-illustrates-how-bad-the-ai-hype-has-become/"
-    },
-    {
-      "title": "Microsoft launches $2.5 billion \"Frontier Company\" to embed 6,000 AI engineers inside enterprise clients",
-      "summary": "Microsoft is investing $2.5 billion in a new unit called \"Frontier Company\" that puts 6,000 engineers directly at enterprise customers. The goal is to integrate AI into core processes with measurable ROI, not more experimentation.",
-      "source": "The Decoder",
-      "published": "2026-07-02T19:18:29+00:00",
-      "link": "https://the-decoder.com/microsoft-launches-2-5-billion-frontier-company-to-embed-6000-ai-engineers-inside-enterprise-clients/"
-    },
-    {
-      "title": "The short leash AI coding method for beating Fable",
-      "summary": "Article URL: https://blog.okturtles.org/2026/07/short-leash-ai-method/ Comments URL: https://news.ycombinator.com/item?id=48766026 Points: 195 # Comments: 244",
-      "source": "Hacker News",
-      "published": "2026-07-02T19:11:57+00:00",
-      "link": "https://blog.okturtles.org/2026/07/short-leash-ai-method/"
-    },
-    {
-      "title": "Claude-real-video － any LLM can watch a video",
-      "summary": "Article URL: https://github.com/HUANGCHIHHUNGLeo/claude-real-video Comments URL: https://news.ycombinator.com/item?id=48766005 Points: 165 # Comments: 56",
-      "source": "Hacker News",
-      "published": "2026-07-02T19:10:12+00:00",
-      "link": "https://github.com/HUANGCHIHHUNGLeo/claude-real-video"
-    },
-    {
-      "title": "Meta quietly launches vibe-coded gaming app Pocket",
-      "summary": "Meta has quietly launched Pocket, an experimental AI app that lets users generate and share interactive mini games using text prompts.",
-      "source": "TechCrunch",
-      "published": "2026-07-02T18:44:02+00:00",
-      "link": "https://techcrunch.com/2026/07/02/meta-quietly-launches-vibe-coded-gaming-app-pocket/"
-    },
-    {
-      "title": "Anthropic is discussing a new custom chip with Samsung",
-      "summary": "The news comes about a week after OpenAI announced its own custom AI chip in a partnership with Broadcom.",
-      "source": "TechCrunch",
-      "published": "2026-07-02T18:31:09+00:00",
-      "link": "https://techcrunch.com/2026/07/02/anthropic-is-discussing-a-new-custom-chip-with-samsung/"
-    },
-    {
-      "title": "Ask HN: Why are so many \"AI evangelists\" posting such insufferable content?",
-      "summary": "My LinkedIn feed is absolutely unreal right now. 90% (I don't even think I'm exaggerating) of the posts in my feed are from connections who have changed their title to something like \"AI Thought Leader | AI Native | Thought Coaching\".",
-      "source": "Hacker News",
-      "published": "2026-07-02T18:23:03+00:00",
-      "link": "https://news.ycombinator.com/item?id=48765450"
-    },
-    {
-      "title": "Can Cursor Remain a Platform for OpenAI and Anthropic’s Models Inside SpaceX?",
-      "summary": "Cursor hopes to continue offering third-party AI models after it's acquired by SpaceX, testing the relationships between frontier AI labs.",
-      "source": "Wired",
-      "published": "2026-07-02T18:01:20+00:00",
-      "link": "https://www.wired.com/story/can-cursor-remain-an-open-platform-inside-of-spacex/"
-    },
-    {
-      "title": "Anthropic reportedly explores custom chip manufacturing with Samsung while insisting Nvidia still matters",
-      "summary": "Anthropic is reportedly in talks with Samsung Electronics about manufacturing a custom AI chip. The project is still early, but Anthropic has already hired chip engineers.",
-      "source": "The Decoder",
-      "published": "2026-07-02T17:30:57+00:00",
-      "link": "https://the-decoder.com/anthropic-reportedly-explores-custom-chip-manufacturing-with-samsung-while-insisting-nvidia-still-matters/"
-    },
-    {
-      "title": "Weird Al Yankovic Pulled Out of AI Ad Deal: 'I Can't Be the Poster Boy for AI'",
-      "summary": "Article URL: https://variety.com/2026/biz/news/weird-al-yankovic-rejected-ai-commercial-money-offer-1236800794/ Comments URL: https://news.ycombinator.com/item?id=48764326 Points: 74 # Comments: 46",
-      "source": "Hacker News",
-      "published": "2026-07-02T17:03:30+00:00",
-      "link": "https://variety.com/2026/biz/news/weird-al-yankovic-rejected-ai-commercial-money-offer-1236800794/"
-    },
-    {
-      "title": "Anthropic says it cut 80 percent of Claude Code's system prompt because Fable 5 models \"want a smaller system prompt\"",
-      "summary": "Anthropic has cut the system prompt for Claude Code by 80 percent. According to staffer Tariq Shihipar, the new Fable 5 models need fewer instructions and examples.",
-      "source": "The Decoder",
-      "published": "2026-07-02T16:20:29+00:00",
-      "link": "https://the-decoder.com/anthropic-says-it-cut-80-percent-of-claude-codes-system-prompt-because-fable-5-models-want-a-smaller-system-prompt/"
-    },
-    {
-      "title": "Achieving operational excellence with AI",
-      "summary": "Frameworks like Lean Six Sigma and business process management (BPM) first gained traction because they promised clarity in the chaos—a structured way to bring order to messy, sprawling operations.",
-      "source": "MIT Tech Review",
-      "published": "2026-07-02T15:37:08+00:00",
-      "link": "https://www.technologyreview.com/2026/07/02/1140045/achieving-operational-excellence-with-ai/"
-    },
-    {
-      "title": "OpenAI proposed donating 5% of its equity to a US sovereign wealth fund",
-      "summary": "OpenAI CEO Sam Altman has reportedly proposed giving 5% of the company’s equity to a U.S. sovereign wealth fund, reviving discussions about letting the public share in the financial gains from the AI boom.",
-      "source": "TechCrunch",
-      "published": "2026-07-02T15:20:51+00:00",
-      "link": "https://techcrunch.com/2026/07/02/openai-proposed-donating-5-of-its-equity-to-a-us-sovereign-wealth-fund/"
-    },
-    {
-      "title": "NVIDIA BioNeMo accelerates Anthropic Claude Science",
-      "summary": "Anthropic Claude Science now integrates the NVIDIA BioNeMo Agent Toolkit to accelerate computational life sciences research. Anthropic has launched the public beta of Claude Science, an AI workbench built for scientific research.",
-      "source": "AI News",
-      "published": "2026-07-02T14:38:01+00:00",
-      "link": "https://www.artificialintelligence-news.com/news/nvidia-bionemo-accelerates-anthropic-claude-science/"
-    },
-    {
-      "title": "No LLM Code in Dependencies",
-      "summary": "Article URL: https://joeyh.name/blog/entry/no_LLM_code_in_dependencies/ Comments URL: https://news.ycombinator.com/item?id=48762008 Points: 120 # Comments: 113",
-      "source": "Hacker News",
-      "published": "2026-07-02T14:17:23+00:00",
-      "link": "https://joeyh.name/blog/entry/no_LLM_code_in_dependencies/"
-    },
-    {
-      "title": "Microsoft launches its own AI deployment company with $2.5 billion commitment",
-      "summary": "Microsoft follows Amazon, OpenAI, and Anthropic with its new AI deployment group.",
-      "source": "TechCrunch",
-      "published": "2026-07-02T13:53:00+00:00",
-      "link": "https://techcrunch.com/2026/07/02/microsoft-launches-its-own-ai-deployment-company-with-2-5-billion-commitment/"
-    },
-    {
-      "title": "AI can't be listed as inventor on patent applications, Japan's top court rules",
-      "summary": "Article URL: https://japannews.yomiuri.co.jp/science-nature/technology/20260306-314930/ Comments URL: https://news.ycombinator.com/item?id=48761536 Points: 397 # Comments: 209",
-      "source": "Hacker News",
-      "published": "2026-07-02T13:43:41+00:00",
-      "link": "https://japannews.yomiuri.co.jp/science-nature/technology/20260306-314930/"
     }
   ]
 };
