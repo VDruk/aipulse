@@ -1,6 +1,90 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-07-09T11:41:33.966968+00:00",
+  "lastUpdated": "2026-07-09T15:57:43.365129+00:00",
   "items": [
+    {
+      "title": "AWS GraphRAG deployment cuts drug research cycles by 87%",
+      "summary": "A recent AWS GraphRAG deployment reduced drug research and development cycles in pharmaceutical environments by 87 percent. This acceleration is achieved by integrating previously separated proprietary databases into a unified and queryable knowledge graph.",
+      "source": "AI News",
+      "published": "2026-07-09T15:43:09+00:00",
+      "link": "https://www.artificialintelligence-news.com/news/aws-graphrag-deployment-cuts-drug-research-cycles-by-87/"
+    },
+    {
+      "title": "Anthropic’s new Claude feature is quietly selling you on AI",
+      "summary": "Claude’s new Reflect dashboard doesn’t just visualize how you use AI. It also subtly reinforces how much of your daily work now depends on Anthropic’s chatbot.",
+      "source": "TechCrunch",
+      "published": "2026-07-09T14:53:09+00:00",
+      "link": "https://techcrunch.com/2026/07/09/anthropics-new-claude-feature-is-quietly-selling-you-on-ai/"
+    },
+    {
+      "title": "Anthropic, OpenAI, and SpaceX are bigger than the last 25 years of tech exits",
+      "summary": "Three big AI IPOs are set to generate more value than all the U.S. VC-backed exits since 2000.",
+      "source": "TechCrunch",
+      "published": "2026-07-09T14:51:00+00:00",
+      "link": "https://techcrunch.com/2026/07/09/anthropic-openai-and-spacex-are-bigger-than-the-last-25-years-of-tech-exits/"
+    },
+    {
+      "title": "Meta says its new AI model is ready to compete on coding",
+      "summary": "After reentering the AI race with its first in-house Muse Spark model in April, Meta is now opening up the doors to developers with a new model that can plug into AI coding software with the new Meta Model API.",
+      "source": "The Verge",
+      "published": "2026-07-09T14:00:00+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/963193/meta-muse-spark-model-api"
+    },
+    {
+      "title": "Say hello to Claude Wrapped",
+      "summary": "The popularity of Spotify Wrapped has kicked off a wide range of year-in-review features, on apps from YouTube to Uber - and now, the lookback trend has come to AI.",
+      "source": "The Verge",
+      "published": "2026-07-09T13:30:00+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/963105/anthropic-claude-wrapped-reflection-ai-usage"
+    },
+    {
+      "title": "OpenAI finds roughly 30 percent of popular AI coding test is broken",
+      "summary": "OpenAI reviewed SWE-Bench Pro, a widely used test for measuring AI models' programming skills, and found roughly 30 percent of its tasks are broken. The company is pulling its earlier endorsement of the benchmark.",
+      "source": "The Decoder",
+      "published": "2026-07-09T13:23:57+00:00",
+      "link": "https://the-decoder.com/openai-finds-roughly-30-percent-of-popular-ai-coding-test-is-broken/"
+    },
+    {
+      "title": "Character.AI wants a piece of the microdrama pie",
+      "summary": "Character.AI's plan to become more than just an LLM-powered chatbot platform is going beyond interactive books, comics, and audio dramas.",
+      "source": "The Verge",
+      "published": "2026-07-09T13:11:53+00:00",
+      "link": "https://www.theverge.com/entertainment/962897/character-ai-series-microdrama-vertical-video"
+    },
+    {
+      "title": "Popular open source AI developer tool Ollama raises $65M, grows to nearly 9M users",
+      "summary": "Benchmark-backed Ollama has amassed 176,000 stars, and nearly 17,000 forks on GitHub by helping developers easily run AI on their PCs.",
+      "source": "TechCrunch",
+      "published": "2026-07-09T13:00:00+00:00",
+      "link": "https://techcrunch.com/2026/07/09/popular-open-source-ai-developer-tool-ollama-raises-65m-grows-to-nearly-9m-users/"
+    },
+    {
+      "title": "Character.AI enters the microdrama arena with its own productions, but there’s a twist",
+      "summary": "In an interesting twist that takes advantage of the company's core product, users can chat with these shows' characters, ask them questions, and even roleplay different storylines.",
+      "source": "TechCrunch",
+      "published": "2026-07-09T13:00:00+00:00",
+      "link": "https://techcrunch.com/2026/07/09/character-ai-enters-the-microdrama-arena-with-its-own-productions-but-with-a-twist/"
+    },
+    {
+      "title": "FL Studio 2026 turns its AI chatbot into your assistant engineer",
+      "summary": "Last year, Image Line introduced Gopher for FL Studio, an AI chatbot that was basically a glorified instruction manual. You asked it how to do something, and it would serve up the relevant instructions.",
+      "source": "The Verge",
+      "published": "2026-07-09T13:00:00+00:00",
+      "link": "https://www.theverge.com/tech/963052/fl-studio-2026-music-daw-ai-chatbot"
+    },
+    {
+      "title": "The Download: a nuclear landmark, and China eyes Nvidia chips",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.",
+      "source": "MIT Tech Review",
+      "published": "2026-07-09T12:10:00+00:00",
+      "link": "https://www.technologyreview.com/2026/07/09/1140283/the-download-nuclear-power-milestone-nvidia-china-ai-chips/"
+    },
+    {
+      "title": "Nandan Nilekani leaves GP role at Fundamentum as it launches $200M third fund",
+      "summary": "Nilekani remains Fundamentum's anchor investor as the firm expands its leadership team and targets AI and fintech startups in India.",
+      "source": "TechCrunch",
+      "published": "2026-07-09T12:00:00+00:00",
+      "link": "https://techcrunch.com/2026/07/09/nandan-nilekani-leaves-gp-role-at-his-vc-firm-as-it-launches-third-200m-fund/"
+    },
     {
       "title": "Databricks makes Chinese open-source model GLM 5.2 its default coding engine after it matched Opus at lower cost",
       "summary": "Databricks benchmarked coding agents on its own multi-million-line codebase and found that the Chinese open-source model GLM 5.2 matched Anthropic's Opus 4.8 at $1.28 per task versus $1.94. The company plans to roll it out as a daily coding workhorse.",
@@ -1316,90 +1400,6 @@ const FEED_DATA = {
       "source": "Hacker News",
       "published": "2026-07-01T23:58:48+00:00",
       "link": "https://mlq.ai/news/meta-caps-internal-ai-token-spending-after-costs-approach-billions-in-2026/"
-    },
-    {
-      "title": "SpaceX shows investors a slim AI smartphone prototype powered by xAI technology",
-      "summary": "SpaceX showed investors a prototype AI smartphone that's supposedly thinner than an iPhone and integrates xAI tech. The device runs on a Qualcomm Snapdragon chip with its own operating system.",
-      "source": "The Decoder",
-      "published": "2026-07-01T19:47:31+00:00",
-      "link": "https://the-decoder.com/spacex-shows-investors-a-slim-ai-smartphone-prototype-powered-by-xai-technology/"
-    },
-    {
-      "title": "SpaceX has an AI device prototype, and it sure sounds phone-ish",
-      "summary": "SpaceX reportedly showed investors a \"handset-like\" AI device before going public. It could be another signal SpaceX wants to expand into wireless.",
-      "source": "TechCrunch",
-      "published": "2026-07-01T18:54:18+00:00",
-      "link": "https://techcrunch.com/2026/07/01/spacex-has-an-ai-device-prototype-and-it-sure-sounds-phone-ish/"
-    },
-    {
-      "title": "Ashton Kutcher leaving Sound Ventures to launch new VC firm with Morgan Beller",
-      "summary": "Sound built its reputation on concentrated, high-conviction bets in category-leading AI labs, while Kutcher's new fund appears to be chasing the layer underneath those companies — the infrastructure and energy that power them.",
-      "source": "TechCrunch",
-      "published": "2026-07-01T18:47:22+00:00",
-      "link": "https://techcrunch.com/2026/07/01/ashton-kutcher-leaving-sound-ventures-to-launch-new-vc-firm-with-morgan-beller/"
-    },
-    {
-      "title": "You Can Now Sound the Alarm on AI Behaving Badly",
-      "summary": "Are you worried your AI chatbot is trying to build a bomb or leak personal information about you? There’s a website for that.",
-      "source": "Wired",
-      "published": "2026-07-01T18:10:00+00:00",
-      "link": "https://www.wired.com/story/flare-website-ai-flaw-reporting-safety/"
-    },
-    {
-      "title": "Cloudflare’s new policy pushes AI companies to pay for publishers’ content",
-      "summary": "Cloudflare is giving AI companies until September 15 to separate web crawlers used for search from those used for AI training and agents, or risk being blocked by default on many publisher sites.",
-      "source": "TechCrunch",
-      "published": "2026-07-01T17:48:37+00:00",
-      "link": "https://techcrunch.com/2026/07/01/cloudflares-new-policy-pushes-ai-companies-to-pay-for-publishers-content/"
-    },
-    {
-      "title": "Meta follows SpaceX's playbook and builds a cloud business to sell its spare AI compute to outside customers",
-      "summary": "Meta is building its own cloud business to sell spare AI compute to outside customers.",
-      "source": "The Decoder",
-      "published": "2026-07-01T16:00:43+00:00",
-      "link": "https://the-decoder.com/meta-follows-spacexs-playbook-and-builds-a-cloud-business-to-sell-its-spare-ai-compute-to-outside-customers/"
-    },
-    {
-      "title": "Anthropic Added a New Security Measure to Get Back Into the Trump Administration’s Good Graces",
-      "summary": "The government has removed restrictions on Anthropic’s Fable 5 and Mythos 5 AI models—but there were strings attached.",
-      "source": "Wired",
-      "published": "2026-07-01T16:00:00+00:00",
-      "link": "https://www.wired.com/story/anthropic-added-a-new-security-measure-to-get-back-into-the-trump-administrations-good-graces/"
-    },
-    {
-      "title": "Deploying retail AI to scale personalisation and customer insight",
-      "summary": "Optimising retail AI infrastructure drives the successful deployment of personalisation systems and real-time customer insight. Leaders are replacing static customer interaction patterns with data pipelines capable of modifying the user environment during a live session.",
-      "source": "AI News",
-      "published": "2026-07-01T15:58:43+00:00",
-      "link": "https://www.artificialintelligence-news.com/news/deploying-retail-ai-to-scale-personalisation-customer-insight/"
-    },
-    {
-      "title": "Meta's non-invasive brain-to-text AI is closing the gap with surgical implants",
-      "summary": "Meta's FAIR AI team uses Brain2Qwerty v2 to translate brain activity into typed sentences, with no implants or surgery required. The system reads magnetic signals outside the skull and reconstructs what a person is typing.",
-      "source": "The Decoder",
-      "published": "2026-07-01T15:34:09+00:00",
-      "link": "https://the-decoder.com/metas-non-invasive-brain-to-text-ai-is-closing-the-gap-with-surgical-implants/"
-    },
-    {
-      "title": "LLMs are stuck in a groupthink groove. This startup is trying to get them out.",
-      "summary": "Let’s start with a game. Open up your chatbot of choice—Claude, ChatGPT, Gemini—and type “Give me a random number between 1 and 10.” You’re going to get 7.",
-      "source": "MIT Tech Review",
-      "published": "2026-07-01T14:35:16+00:00",
-      "link": "https://www.technologyreview.com/2026/07/01/1140003/llms-are-stuck-in-a-groupthink-rut-this-startup-is-trying-to-get-them-out/"
-    },
-    {
-      "title": "Venice AI becomes a unicorn with $65M Series A as its privacy-first AI platform takes off",
-      "summary": "Venice AI is already profitable, with annualized run-rate revenues of over $70 million, CEO Erik Voorhees said.",
-      "source": "TechCrunch",
-      "published": "2026-07-01T14:25:23+00:00",
-      "link": "https://techcrunch.com/2026/07/01/venice-ai-becomes-a-unicorn-with-65m-series-a-as-its-privacy-first-ai-platform-takes-off/"
-    },
-    {
-      "title": "Gemini Spark, Google’s agentic assistant, is now available on Mac",
-      "summary": "Google's 24/7 agentic assistant, Gemini Spark, comes to Mac alongside other improvements, like real-time tracking and support for more apps.",
-      "source": "TechCrunch",
-      "published": "2026-07-01T14:20:19+00:00",
-      "link": "https://techcrunch.com/2026/07/01/gemini-spark-googles-agentic-assistant-is-now-available-on-mac/"
     }
   ]
 };
