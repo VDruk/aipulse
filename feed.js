@@ -1,6 +1,27 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-07-09T08:30:21.256160+00:00",
+  "lastUpdated": "2026-07-09T11:41:33.966968+00:00",
   "items": [
+    {
+      "title": "Databricks makes Chinese open-source model GLM 5.2 its default coding engine after it matched Opus at lower cost",
+      "summary": "Databricks benchmarked coding agents on its own multi-million-line codebase and found that the Chinese open-source model GLM 5.2 matched Anthropic's Opus 4.8 at $1.28 per task versus $1.94. The company plans to roll it out as a daily coding workhorse.",
+      "source": "The Decoder",
+      "published": "2026-07-09T11:03:39+00:00",
+      "link": "https://the-decoder.com/databricks-makes-chinese-open-source-model-glm-5-2-its-default-coding-engine-after-it-matched-opus-at-lower-cost/"
+    },
+    {
+      "title": "NHS AI blood test could reduce invasive womb cancer checks",
+      "summary": "Several NHS hospitals are preparing to use an AI-powered blood test to help assess women referred for possible womb cancer before invasive checks are carried out.",
+      "source": "AI News",
+      "published": "2026-07-09T10:00:00+00:00",
+      "link": "https://www.artificialintelligence-news.com/news/nhs-ai-blood-test-womb-cancer-checks/"
+    },
+    {
+      "title": "OpenAI's AI beats every human at AtCoder, a top competitive programming contest",
+      "summary": "At the AtCoder World Tour Finals 2026, an OpenAI system crushed all human competitors in an exhibition match, solving all five problems in the Algorithm Division. Two of those problems were rated exceptionally difficult by observers.",
+      "source": "The Decoder",
+      "published": "2026-07-09T09:56:57+00:00",
+      "link": "https://the-decoder.com/openais-ai-beats-every-human-at-atcoder-a-top-competitive-programming-contest/"
+    },
     {
       "title": "Grok 4.5 is so cheap compared to Fable 5 and GPT 5.5 that benchmark gaps may not matter much",
       "summary": "xAI releases Grok 4.5, trained on tens of thousands of Nvidia GB300 GPUs. In coding benchmarks, the model trails Fable 5 and GPT-5.5 but needs 4.2 times fewer tokens than Opus 4.8.",
@@ -1379,27 +1400,6 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-07-01T14:20:19+00:00",
       "link": "https://techcrunch.com/2026/07/01/gemini-spark-googles-agentic-assistant-is-now-available-on-mac/"
-    },
-    {
-      "title": "Meta, like SpaceX, looks to turn excess AI compute into cash",
-      "summary": "Meta is developing plans for a cloud infrastructure business, selling access to AI compute power and models. The move would pit it against the big cloud providers like Amazon Web Services, Google Cloud, and Microsoft Azure.",
-      "source": "TechCrunch",
-      "published": "2026-07-01T13:43:07+00:00",
-      "link": "https://techcrunch.com/2026/07/01/meta-like-spacex-looks-to-turn-excess-ai-compute-into-cash/"
-    },
-    {
-      "title": "The Download: Anthropic launches Claude Science, and California’s carbon manure math",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.",
-      "source": "MIT Tech Review",
-      "published": "2026-07-01T12:10:00+00:00",
-      "link": "https://www.technologyreview.com/2026/07/01/1139996/the-download-anthropic-claude-science-california-carbon-manure/"
-    },
-    {
-      "title": "Google built a great smart speaker, but Gemini isn’t ready for it",
-      "summary": "Smart speakers have spent the past few years searching for a compelling second act. Beyond music, timers, and controlling your lights, they've struggled to justify taking up space on the kitchen counter.",
-      "source": "The Verge",
-      "published": "2026-07-01T12:00:00+00:00",
-      "link": "https://www.theverge.com/tech/959503/google-home-speaker-review-gemini-for-home"
     }
   ]
 };
