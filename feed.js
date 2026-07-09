@@ -1,6 +1,83 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-07-09T15:57:43.365129+00:00",
+  "lastUpdated": "2026-07-09T18:46:30.713316+00:00",
   "items": [
+    {
+      "title": "Google will now disclose which ads are made with AI",
+      "summary": "A new feature will indicate when advertisers have used generative AI tools to create or edit their ads, Google says.",
+      "source": "TechCrunch",
+      "published": "2026-07-09T18:40:51+00:00",
+      "link": "https://techcrunch.com/2026/07/09/google-will-now-disclose-which-ads-are-made-with-ai/"
+    },
+    {
+      "title": "GPT-5.6 Sol nearly matches Fable 5 on aggregated benchmarks at one-third the cost",
+      "summary": "OpenAI's GPT-5.6 Sol scores 59 points on the Artificial Analysis Intelligence Index, just one point behind Claude Fable 5. At $1.04 per task, it costs a third of what Anthropic's top model charges.",
+      "source": "The Decoder",
+      "published": "2026-07-09T18:37:51+00:00",
+      "link": "https://the-decoder.com/gpt-5-6-sol-nearly-matches-fable-5-on-aggregated-benchmarks-at-one-third-the-cost/"
+    },
+    {
+      "title": "Paris-based AI voice startup Gradium raises $100M seed, backed by Nvidia",
+      "summary": "The Paris-based ElevenLabs competitor, just announced a hefty seed extension round.",
+      "source": "TechCrunch",
+      "published": "2026-07-09T18:34:35+00:00",
+      "link": "https://techcrunch.com/2026/07/09/paris-based-ai-voice-startup-gradium-raises-100m-seed-backed-by-nvidia/"
+    },
+    {
+      "title": "Anthropic Wants You to Pay Up for Claude Fable 5",
+      "summary": "Claude subscribers must soon pay usage-based fees to access Anthropic’s best consumer AI model—a sign that the golden era of AI subscriptions is ending.",
+      "source": "Wired",
+      "published": "2026-07-09T18:30:00+00:00",
+      "link": "https://www.wired.com/story/model-behavior-anthropic-will-charge-consumers-extra-to-use-claude-fable-5/"
+    },
+    {
+      "title": "How did the government decide OpenAI’s frontier model was safe to release?",
+      "summary": "\"Exactly what that dialog looked like between the government and Anthropic and OpenAI is unclear.\"",
+      "source": "TechCrunch",
+      "published": "2026-07-09T18:22:39+00:00",
+      "link": "https://techcrunch.com/2026/07/09/how-did-the-government-decide-openais-frontier-model-was-safe-to-release/"
+    },
+    {
+      "title": "OpenAI pairs its GPT-5.6 public rollout with ChatGPT Work, a new agent that handles entire workflows",
+      "summary": "OpenAI is launching ChatGPT Work, an agent-based product powered by Codex and the now publicly available GPT-5.6. The agent can independently handle complex projects across apps like Google Drive, Slack, and Salesforce.",
+      "source": "The Decoder",
+      "published": "2026-07-09T17:59:22+00:00",
+      "link": "https://the-decoder.com/openai-pairs-its-gpt-5-6-public-rollout-with-chatgpt-work-a-new-agent-that-handles-entire-workflows/"
+    },
+    {
+      "title": "How to stop Meta’s AI image generator from using your Instagram photos",
+      "summary": "Meta's new AI image generator is using your public Instagram photos unless you opt out. Here's how to do that.",
+      "source": "TechCrunch",
+      "published": "2026-07-09T17:56:47+00:00",
+      "link": "https://techcrunch.com/2026/07/09/how-to-stop-metas-ai-image-generator-from-using-your-instagram-photos/"
+    },
+    {
+      "title": "Meta’s new AI chips will begin production in September",
+      "summary": "The company is taking a modular approach to designing these chips, anticipating that their needs will change as AI evolves rapidly by the time the chips are in production.",
+      "source": "TechCrunch",
+      "published": "2026-07-09T17:17:37+00:00",
+      "link": "https://techcrunch.com/2026/07/09/metas-new-ai-chips-will-begin-production-in-september/"
+    },
+    {
+      "title": "Nvidia is a victim of the compute marketplace it created",
+      "summary": "Having proven how valuable compute can be, the company finds itself at the center of a market everyone wants to be in — while simpler technologies and less interesting companies get rich on the sidelines.",
+      "source": "TechCrunch",
+      "published": "2026-07-09T17:06:11+00:00",
+      "link": "https://techcrunch.com/2026/07/09/nvidia-is-a-victim-of-the-compute-marketplace-it-created/"
+    },
+    {
+      "title": "OpenAI rolls out GPT-5.6 after government greenlight — and announces ‘ChatGPT Work’",
+      "summary": "About two weeks after OpenAI's GPT-5.6 was caught up in regulatory drama - rolled out only to government-approved organizations during a \"limited preview\" period - the company has received the Trump administration's greenlight for a public rollout of the model.",
+      "source": "The Verge",
+      "published": "2026-07-09T17:00:00+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/963464/openai-gpt-5-6-codex-chatgpt-work"
+    },
+    {
+      "title": "Meta's Muse Spark 1.1 API pricing squeezes OpenAI and Anthropic as the AI price war heats up",
+      "summary": "Meta is entering the AI API business with Muse Spark 1.1 at prices that undercut even the dirt-cheap Grok 4.5, released just yesterday. At $4.25 per million output tokens, Meta charges a fraction of what Anthropic or OpenAI ask.",
+      "source": "The Decoder",
+      "published": "2026-07-09T16:58:44+00:00",
+      "link": "https://the-decoder.com/metas-muse-spark-1-1-api-pricing-squeezes-openai-and-anthropic-as-the-ai-price-war-heats-up/"
+    },
     {
       "title": "AWS GraphRAG deployment cuts drug research cycles by 87%",
       "summary": "A recent AWS GraphRAG deployment reduced drug research and development cycles in pharmaceutical environments by 87 percent. This acceleration is achieved by integrating previously separated proprietary databases into a unified and queryable knowledge graph.",
@@ -91,6 +168,13 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-07-09T11:03:39+00:00",
       "link": "https://the-decoder.com/databricks-makes-chinese-open-source-model-glm-5-2-its-default-coding-engine-after-it-matched-opus-at-lower-cost/"
+    },
+    {
+      "title": "The $28 Million Mistake That Inspired Estonia’s AI ‘Fuckup Finder’",
+      "summary": "A single wording mistake cost the government millions. Now Estonia is using AI to spot legal errors before they become law—and to automate more of the state.",
+      "source": "Wired",
+      "published": "2026-07-09T10:01:30+00:00",
+      "link": "https://www.wired.com/story/the-28-million-dollar-mistake-that-inspired-estonias-ai-fuckup-finder/"
     },
     {
       "title": "NHS AI blood test could reduce invasive womb cancer checks",
@@ -562,18 +646,18 @@ const FEED_DATA = {
       "link": "https://www.technologyreview.com/2026/07/07/1140142/why-worms-and-microbes-are-catching-on-as-a-manure-pollution-solution/"
     },
     {
-      "title": "Erling Haaland Is Everywhere at the World Cup. Most of It Is AI",
-      "summary": "Norwegian striker Erling Haaland isn’t just a footballer anymore. He’s become an internet character perpetuated by fans and AI.",
-      "source": "Wired",
-      "published": "2026-07-07T10:00:00+00:00",
-      "link": "https://www.wired.com/story/erling-haaland-is-everywhere-at-the-world-cup-most-of-it-is-ai/"
-    },
-    {
       "title": "L’Oreal, Mondelez, and Nestle use AI to speed product development",
       "summary": "L’Oreal is using AI to shorten product development timelines and identify new uses for ingredients already present in its portfolio.",
       "source": "AI News",
       "published": "2026-07-07T10:00:00+00:00",
       "link": "https://www.artificialintelligence-news.com/news/ai-product-development-loreal-mondelez-nestle/"
+    },
+    {
+      "title": "Erling Haaland Is Everywhere at the World Cup. Most of It Is AI",
+      "summary": "Norwegian striker Erling Haaland isn’t just a footballer anymore. He’s become an internet character perpetuated by fans and AI.",
+      "source": "Wired",
+      "published": "2026-07-07T10:00:00+00:00",
+      "link": "https://www.wired.com/story/erling-haaland-is-everywhere-at-the-world-cup-most-of-it-is-ai/"
     },
     {
       "title": "British Space Startup Launches Longevity Lab Into Orbit",
@@ -1316,90 +1400,6 @@ const FEED_DATA = {
       "source": "Hacker News",
       "published": "2026-07-02T13:43:41+00:00",
       "link": "https://japannews.yomiuri.co.jp/science-nature/technology/20260306-314930/"
-    },
-    {
-      "title": "Nvidia is bankrolling AI startups to loosen Big Tech's grip on its chip business",
-      "summary": "Nvidia is increasingly acting like a central bank for AI startups, actively shaping the compute market. The article Nvidia is bankrolling AI startups to loosen Big Tech's grip on its chip business appeared first on The Decoder.",
-      "source": "The Decoder",
-      "published": "2026-07-02T13:00:05+00:00",
-      "link": "https://the-decoder.com/nvidia-is-bankrolling-ai-startups-to-loosen-big-techs-grip-on-its-chip-business/"
-    },
-    {
-      "title": "Teaching AI to run with the turbines",
-      "summary": "Artificial intelligence may have captured the public imagination through chatbots and image generators, but some of its most consequential use cases are unfolding far from consumer-facing tools.",
-      "source": "MIT Tech Review",
-      "published": "2026-07-02T12:51:44+00:00",
-      "link": "https://www.technologyreview.com/2026/07/02/1138433/teaching-ai-to-run-with-the-turbines/"
-    },
-    {
-      "title": "AI fake news complaining about how AI fake news is the death of real news",
-      "summary": "Article URL: https://www.niemanlab.org/2026/07/now-were-getting-ai-fake-news-complaining-about-how-ai-fake-news-is-the-death-of-real-news/ Comments URL: https://news.ycombinator.com/item?id=48760598 Points: 158 # Comments: 59",
-      "source": "Hacker News",
-      "published": "2026-07-02T12:40:36+00:00",
-      "link": "https://www.niemanlab.org/2026/07/now-were-getting-ai-fake-news-complaining-about-how-ai-fake-news-is-the-death-of-real-news/"
-    },
-    {
-      "title": "AI agents can now complete 16 percent of freelance jobs at pro quality, up from 2.5 percent eight months ago",
-      "summary": "The Remote Labor Index measures how often AI agents complete paid freelance projects at professional quality. In eight months, the top automation rate has more than quadrupled.",
-      "source": "The Decoder",
-      "published": "2026-07-02T12:37:49+00:00",
-      "link": "https://the-decoder.com/ai-agents-can-now-complete-16-percent-of-freelance-jobs-at-pro-quality-up-from-2-5-percent-eight-months-ago/"
-    },
-    {
-      "title": "Google brings TikTok-style video shorts to NotebookLM",
-      "summary": "Google has expanded NotebookLM to include video overviews in the short format commonly used on social media. The article Google brings TikTok-style video shorts to NotebookLM appeared first on The Decoder.",
-      "source": "The Decoder",
-      "published": "2026-07-02T12:17:15+00:00",
-      "link": "https://the-decoder.com/google-brings-tiktok-style-video-shorts-to-notebooklm/"
-    },
-    {
-      "title": "The Download: a startup has a solution for AI’s groupthink problem",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. LLMs are stuck in a groupthink groove.",
-      "source": "MIT Tech Review",
-      "published": "2026-07-02T12:10:00+00:00",
-      "link": "https://www.technologyreview.com/2026/07/02/1140027/the-download-ai-groupthink-llms/"
-    },
-    {
-      "title": "Yep, we’re using OpenClaw to date now",
-      "summary": "Ben Guez has \"a bunch of potential international wives in [his] DMs,\" thanks to an automated script he set up using OpenClaw, Claude code, and Instagram trials.",
-      "source": "TechCrunch",
-      "published": "2026-07-02T12:00:00+00:00",
-      "link": "https://techcrunch.com/2026/07/02/yep-were-using-openclaw-to-date-now/"
-    },
-    {
-      "title": "OpenAI reportedly offers the Trump administration a five percent stake in the company",
-      "summary": "OpenAI is reportedly offering the Trump administration a five percent stake in the company. What the government would give in return, if anything, is still unclear.",
-      "source": "The Decoder",
-      "published": "2026-07-02T10:44:16+00:00",
-      "link": "https://the-decoder.com/openai-reportedly-offers-the-trump-administration-a-five-percent-stake-in-the-company/"
-    },
-    {
-      "title": "OpenAI floats giving Trump administration 5 percent cut of AI boom",
-      "summary": "OpenAI has floated giving the US government a 5 percent ownership stake as a way of easing tensions with the Trump administration and blunting mounting public backlash against AI, according to the Financial Times.",
-      "source": "The Verge",
-      "published": "2026-07-02T10:23:27+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/960588/openai-government-5-percent-stake-trump"
-    },
-    {
-      "title": "The gauge broke: devs felt 20% faster with AI, measured 19% slower (2025)",
-      "summary": "Article URL: https://intrepidkarthi.com/writing/the-gauge-broke/ Comments URL: https://news.ycombinator.com/item?id=48757440 Points: 77 # Comments: 98",
-      "source": "Hacker News",
-      "published": "2026-07-02T06:44:34+00:00",
-      "link": "https://intrepidkarthi.com/writing/the-gauge-broke/"
-    },
-    {
-      "title": "Indian tech tycoon bets $30M of his own money to build AI alternative to Microsoft Office",
-      "summary": "Neo is Bhavin Turakhia’s fifth venture and his latest involving enterprise software. This time he's taking on Microsoft Office and Google Apps with AI.",
-      "source": "TechCrunch",
-      "published": "2026-07-02T05:30:00+00:00",
-      "link": "https://techcrunch.com/2026/07/01/indian-tech-tycoon-bets-30m-to-build-an-ai-alternative-to-microsoft-office/"
-    },
-    {
-      "title": "Meta caps internal AI token spending",
-      "summary": "Article URL: https://mlq.ai/news/meta-caps-internal-ai-token-spending-after-costs-approach-billions-in-2026/ Comments URL: https://news.ycombinator.com/item?id=48754713 Points: 147 # Comments: 147",
-      "source": "Hacker News",
-      "published": "2026-07-01T23:58:48+00:00",
-      "link": "https://mlq.ai/news/meta-caps-internal-ai-token-spending-after-costs-approach-billions-in-2026/"
     }
   ]
 };
