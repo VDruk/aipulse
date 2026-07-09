@@ -1,5 +1,5 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-07-08T21:59:39.320897+00:00",
+  "lastUpdated": "2026-07-09T04:51:01.661988+00:00",
   "items": [
     {
       "title": "Messi and Ronaldo Are Building Tech Portfolios. Mo Salah Is Playing a Different Game",
