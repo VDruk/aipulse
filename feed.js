@@ -1,6 +1,55 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-07-09T22:14:51.111332+00:00",
+  "lastUpdated": "2026-07-10T04:50:21.147211+00:00",
   "items": [
+    {
+      "title": "OpenAI says GPT 5.6 is the ‘preferred model’ for Microsoft Copilot 365 amid breakup chatter",
+      "summary": "OpenAI's new family of models will continue to power Microsoft's suite of workplace and productivity apps.",
+      "source": "TechCrunch",
+      "published": "2026-07-10T00:16:54+00:00",
+      "link": "https://techcrunch.com/2026/07/09/openai-says-gpt-5-6-is-the-preferred-model-for-microsoft-copilot-amid-breakup-chatter/"
+    },
+    {
+      "title": "Microsoft’s carbon emissions went up 25 percent last year",
+      "summary": "Microsoft may once again be struggling to keep up with its own climate goals, according to its 2026 sustainability report.",
+      "source": "The Verge",
+      "published": "2026-07-10T00:04:13+00:00",
+      "link": "https://www.theverge.com/tech/963728/microsoft-sustainability-report-2026"
+    },
+    {
+      "title": "Fidji Simo steps down from OpenAI’s no. 2 role",
+      "summary": "OpenAI's No. 2 executive, Fidji Simo, is stepping down from her full-time role after her medical leave proved longer than expected — a leadership vacuum that comes at a tricky time as the company eyes a possible IPO and races to catch Anthropic in the enterprise market.",
+      "source": "TechCrunch",
+      "published": "2026-07-09T23:38:00+00:00",
+      "link": "https://techcrunch.com/2026/07/09/fidji-simo-steps-down-from-openais-no-2-role/"
+    },
+    {
+      "title": "Fidji Simo steps down from leading OpenAI’s AGI work due to illness",
+      "summary": "OpenAI's Fidji Simo is departing her full-time role as the company's AGI chief and is transitioning to being a \"part-time advisor,\" she said on X.",
+      "source": "The Verge",
+      "published": "2026-07-09T23:24:04+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/963738/openai-fidji-simo-steps-down-ceo-advisor"
+    },
+    {
+      "title": "OpenAI’s CEO of AGI Deployment, Fidji Simo, Is Stepping Down",
+      "summary": "The move comes after Simo took significant medical leave. She will stay on as a part-time adviser.",
+      "source": "Wired",
+      "published": "2026-07-09T23:13:18+00:00",
+      "link": "https://www.wired.com/story/fidji-simo-ceo-agi-deployment-openai/"
+    },
+    {
+      "title": "OpenAI launches its new family of models with GPT-5.6",
+      "summary": "OpenAI's latest family of models promises improvements across a range of areas, including cybersecurity.",
+      "source": "TechCrunch",
+      "published": "2026-07-09T22:24:24+00:00",
+      "link": "https://techcrunch.com/2026/07/09/openai-launches-its-new-family-of-models-with-gpt-5-6/"
+    },
+    {
+      "title": "An AI agent startup just let its agent run its $100M fundraise",
+      "summary": "Lyzr, a startup that builds AI agents for enterprises, used its own AI agent to raise a $100 million round — proof, evidently, that the product actually works.",
+      "source": "TechCrunch",
+      "published": "2026-07-09T22:08:58+00:00",
+      "link": "https://techcrunch.com/2026/07/09/an-ai-agent-startup-just-let-its-agent-run-its-100-million-fundraise/"
+    },
     {
       "title": "An AI agent startup just let its agent run its $100 million fundraise",
       "summary": "Lyzr, a startup that builds AI agents for enterprises, used its own AI agent to raise a $100 million round — proof, evidently, that the product actually works.",
@@ -28,6 +77,13 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-07-09T21:47:50+00:00",
       "link": "https://techcrunch.com/2026/07/09/can-ai-answer-the-3-trillion-question/"
+    },
+    {
+      "title": "Building a real-time AI tutor for 5-year-olds",
+      "summary": "Hey HN! We've spent the good part of this past year building an AI tutor that teaches kids ages 4-9 reading, math, ESL and more.",
+      "source": "Hacker News",
+      "published": "2026-07-09T20:51:06+00:00",
+      "link": "https://www.ello.com/blog/teaching-a-child-in-1000-ms"
     },
     {
       "title": "The ChatGPT browser is already dead",
@@ -157,14 +213,14 @@ const FEED_DATA = {
     },
     {
       "title": "AI 2040: Plan A",
-      "summary": "Article URL: https://ai-2040.com/ Comments URL: https://news.ycombinator.com/item?id=48848425 Points: 63 # Comments: 34",
+      "summary": "Article URL: https://ai-2040.com/ Comments URL: https://news.ycombinator.com/item?id=48848425 Points: 76 # Comments: 45",
       "source": "Hacker News",
       "published": "2026-07-09T16:21:44+00:00",
       "link": "https://ai-2040.com/"
     },
     {
       "title": "AI content is everywhere on social media, especially LinkedIn",
-      "summary": "Article URL: https://www.pangram.com/blog/ai-in-your-feed Comments URL: https://news.ycombinator.com/item?id=48847940 Points: 138 # Comments: 128",
+      "summary": "Article URL: https://www.pangram.com/blog/ai-in-your-feed Comments URL: https://news.ycombinator.com/item?id=48847940 Points: 206 # Comments: 183",
       "source": "Hacker News",
       "published": "2026-07-09T15:50:09+00:00",
       "link": "https://www.pangram.com/blog/ai-in-your-feed"
@@ -213,7 +269,7 @@ const FEED_DATA = {
     },
     {
       "title": "Show HN: FableCut – A browser video editor AI agents can drive (zero deps)",
-      "summary": "Article URL: https://github.com/ronak-create/FableCut Comments URL: https://news.ycombinator.com/item?id=48845422 Points: 82 # Comments: 52",
+      "summary": "Article URL: https://github.com/ronak-create/FableCut Comments URL: https://news.ycombinator.com/item?id=48845422 Points: 87 # Comments: 58",
       "source": "Hacker News",
       "published": "2026-07-09T13:23:10+00:00",
       "link": "https://github.com/ronak-create/FableCut"
@@ -297,35 +353,35 @@ const FEED_DATA = {
     },
     {
       "title": "AI changes the economics of software rewrites",
-      "summary": "Article URL: https://thetruthasiseeitnow.com/ai-slop-starts-with-the-codebase-itself/ Comments URL: https://news.ycombinator.com/item?id=48841446 Points: 94 # Comments: 103",
+      "summary": "Article URL: https://thetruthasiseeitnow.com/ai-slop-starts-with-the-codebase-itself/ Comments URL: https://news.ycombinator.com/item?id=48841446 Points: 101 # Comments: 103",
       "source": "Hacker News",
       "published": "2026-07-09T05:46:50+00:00",
       "link": "https://thetruthasiseeitnow.com/ai-slop-starts-with-the-codebase-itself/"
     },
     {
       "title": "What's slowing down the AI buildout",
-      "summary": "Article URL: https://www.worksinprogress.news/p/ai-is-bottlenecked-by-the-grid Comments URL: https://news.ycombinator.com/item?id=48840620 Points: 56 # Comments: 130",
+      "summary": "Article URL: https://www.worksinprogress.news/p/ai-is-bottlenecked-by-the-grid Comments URL: https://news.ycombinator.com/item?id=48840620 Points: 67 # Comments: 160",
       "source": "Hacker News",
       "published": "2026-07-09T03:26:02+00:00",
       "link": "https://www.worksinprogress.news/p/ai-is-bottlenecked-by-the-grid"
     },
     {
       "title": "I think I have LLM burnout",
-      "summary": "Article URL: https://www.alecscollon.com/blog/llm-burnout/ Comments URL: https://news.ycombinator.com/item?id=48839984 Points: 380 # Comments: 333",
+      "summary": "Article URL: https://www.alecscollon.com/blog/llm-burnout/ Comments URL: https://news.ycombinator.com/item?id=48839984 Points: 387 # Comments: 342",
       "source": "Hacker News",
       "published": "2026-07-09T01:56:28+00:00",
       "link": "https://www.alecscollon.com/blog/llm-burnout/"
     },
     {
       "title": "We made Grok 4.5, GPT-5.5, and Claude build the same apps",
-      "summary": "Article URL: https://www.tryai.dev/blog/grok-4.5-vs-gpt-5.5-vs-claude-build-off Comments URL: https://news.ycombinator.com/item?id=48838772 Points: 167 # Comments: 91",
+      "summary": "Article URL: https://www.tryai.dev/blog/grok-4.5-vs-gpt-5.5-vs-claude-build-off Comments URL: https://news.ycombinator.com/item?id=48838772 Points: 171 # Comments: 92",
       "source": "Hacker News",
       "published": "2026-07-08T23:27:14+00:00",
       "link": "https://www.tryai.dev/blog/grok-4.5-vs-gpt-5.5-vs-claude-build-off"
     },
     {
       "title": "Suspecting AI cheating, Ivy League prof ordered in-person final; scores fell 50%",
-      "summary": "Article URL: https://arstechnica.com/ai/2026/07/we-cannot-choose-to-become-idiots-the-ai-cheating-scandal-roiling-brown-university/ Comments URL: https://news.ycombinator.com/item?id=48838611 Points: 128 # Comments: 146",
+      "summary": "Article URL: https://arstechnica.com/ai/2026/07/we-cannot-choose-to-become-idiots-the-ai-cheating-scandal-roiling-brown-university/ Comments URL: https://news.ycombinator.com/item?id=48838611 Points: 132 # Comments: 150",
       "source": "Hacker News",
       "published": "2026-07-08T23:11:28+00:00",
       "link": "https://arstechnica.com/ai/2026/07/we-cannot-choose-to-become-idiots-the-ai-cheating-scandal-roiling-brown-university/"
@@ -423,7 +479,7 @@ const FEED_DATA = {
     },
     {
       "title": "GPT‑Live",
-      "summary": "Article URL: https://openai.com/index/introducing-gpt-live/ Comments URL: https://news.ycombinator.com/item?id=48834405 Points: 737 # Comments: 511",
+      "summary": "Article URL: https://openai.com/index/introducing-gpt-live/ Comments URL: https://news.ycombinator.com/item?id=48834405 Points: 742 # Comments: 517",
       "source": "Hacker News",
       "published": "2026-07-08T17:03:19+00:00",
       "link": "https://openai.com/index/introducing-gpt-live/"
@@ -465,7 +521,7 @@ const FEED_DATA = {
     },
     {
       "title": "SWE-1.7 Reach Near GPT 5.5 and Opus Intelligence",
-      "summary": "Article URL: https://cognition.com/blog/swe-1-7 Comments URL: https://news.ycombinator.com/item?id=48833866 Points: 269 # Comments: 139",
+      "summary": "Article URL: https://cognition.com/blog/swe-1-7 Comments URL: https://news.ycombinator.com/item?id=48833866 Points: 270 # Comments: 139",
       "source": "Hacker News",
       "published": "2026-07-08T16:19:36+00:00",
       "link": "https://cognition.com/blog/swe-1-7"
@@ -584,7 +640,7 @@ const FEED_DATA = {
     },
     {
       "title": "GitLost: We Tricked GitHub's AI Agent into Leaking Private Repos",
-      "summary": "Article URL: https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos/ Comments URL: https://news.ycombinator.com/item?id=48827858 Points: 531 # Comments: 204",
+      "summary": "Article URL: https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos/ Comments URL: https://news.ycombinator.com/item?id=48827858 Points: 534 # Comments: 203",
       "source": "Hacker News",
       "published": "2026-07-08T05:25:35+00:00",
       "link": "https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos/"
@@ -619,7 +675,7 @@ const FEED_DATA = {
     },
     {
       "title": "We charge $10k a week to delete AI-generated code",
-      "summary": "Article URL: https://odra.dev/slopfix/ Comments URL: https://news.ycombinator.com/item?id=48823359 Points: 301 # Comments: 234",
+      "summary": "Article URL: https://odra.dev/slopfix/ Comments URL: https://news.ycombinator.com/item?id=48823359 Points: 301 # Comments: 237",
       "source": "Hacker News",
       "published": "2026-07-07T20:35:42+00:00",
       "link": "https://odra.dev/slopfix/"
@@ -1344,62 +1400,6 @@ const FEED_DATA = {
       "source": "Hacker News",
       "published": "2026-07-03T12:33:20+00:00",
       "link": "https://www.wsj.com/tech/ai/ai-data-centers-water-use-901e2902"
-    },
-    {
-      "title": "The Download: a smoking “endgame” and a new Elizabeth Bear story",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The UK’s generational tobacco ban might not work.",
-      "source": "MIT Tech Review",
-      "published": "2026-07-03T12:10:00+00:00",
-      "link": "https://www.technologyreview.com/2026/07/03/1140134/the-download-uk-smoking-ban-elizabeth-bear-story/"
-    },
-    {
-      "title": "A behind-the-scenes look at Midjourney’s medical scanner leaves many questions unanswered",
-      "summary": "Midjourney has shown more of its futuristic medical scanner. It still hasn't shown much proof it works.",
-      "source": "The Verge",
-      "published": "2026-07-03T11:49:10+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/961265/midjourney-medical-ultrasound-scanner-behind-the-scenes-video"
-    },
-    {
-      "title": "GPT and Claude failed Bridgewater's finance tests because the right answers were never public",
-      "summary": "Bridgewater and Thinking Machines Lab—the startup from former OpenAI CTO Mira Murati—have fine-tuned a Qwen3-235B model for financial tasks.",
-      "source": "The Decoder",
-      "published": "2026-07-03T11:16:42+00:00",
-      "link": "https://the-decoder.com/gpt-and-claude-failed-bridgewaters-finance-tests-because-the-right-answers-were-never-public/"
-    },
-    {
-      "title": "Meta's AI agent push is moving slower than Zuckerberg planned",
-      "summary": "Mark Zuckerberg admitted to weaknesses in the company's restructuring during an internal town hall. The AI agents Meta reorganized around are progressing slower than planned, Zuckerberg said.",
-      "source": "The Decoder",
-      "published": "2026-07-03T11:05:22+00:00",
-      "link": "https://the-decoder.com/metas-ai-agent-push-is-moving-slower-than-zuckerberg-planned/"
-    },
-    {
-      "title": "Tesla caps employee AI spending at $200 per week",
-      "summary": "Tesla caps employee AI spending at $200 per week, according to an internal memo reported by The Information. The article Tesla caps employee AI spending at $200 per week appeared first on The Decoder.",
-      "source": "The Decoder",
-      "published": "2026-07-03T10:56:51+00:00",
-      "link": "https://the-decoder.com/tesla-caps-employee-ai-spending-at-200-per-week/"
-    },
-    {
-      "title": "Takeda signs $600M AI drug discovery deal with Insilico",
-      "summary": "Takeda has entered a strategic collaboration with Hong Kong-based Insilico Medicine to use AI in early-stage drug discovery across the Japanese pharmaceutical company’s therapeutic areas.",
-      "source": "AI News",
-      "published": "2026-07-03T10:00:00+00:00",
-      "link": "https://www.artificialintelligence-news.com/news/takeda-insilico-ai-drug-discovery-deal/"
-    },
-    {
-      "title": "Takeda signs US$600M AI drug discovery deal with Insilico",
-      "summary": "Takeda has entered a strategic collaboration with Hong Kong-based Insilico Medicine to use AI in early-stage drug discovery across the Japanese pharmaceutical company’s therapeutic areas.",
-      "source": "AI News",
-      "published": "2026-07-03T10:00:00+00:00",
-      "link": "https://www.artificialintelligence-news.com/news/takeda-insilico-ai-drug-discovery-deal/"
-    },
-    {
-      "title": "The UK’s generational tobacco ban might not work. I’m supporting it anyway.",
-      "summary": "As the parent of two little girls, I often think about how their childhood is different from mine. The seven-year-old is learning about AI at school.",
-      "source": "MIT Tech Review",
-      "published": "2026-07-03T09:00:00+00:00",
-      "link": "https://www.technologyreview.com/2026/07/03/1140036/uk-tobacco-ban-might-not-work-children-smoking/"
     }
   ]
 };
