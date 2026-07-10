@@ -1,6 +1,62 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-07-10T18:18:49.227353+00:00",
+  "lastUpdated": "2026-07-10T21:53:38.537380+00:00",
   "items": [
+    {
+      "title": "Apple sues OpenAI for allegedly stealing hardware secrets",
+      "summary": "Apple has sued OpenAI, alleging that former employees that now work for the AI company have stolen Apple's trade secrets \"for the benefit of OpenAI.\" In its complaint, Apple alleges that it has uncovered \"a pattern of theft of Apple's trade secrets by OpenAI employees who were...",
+      "source": "The Verge",
+      "published": "2026-07-10T21:36:51+00:00",
+      "link": "https://www.theverge.com/tech/964350/apple-openai-lawsuit-trade-secrets"
+    },
+    {
+      "title": "OpenAI's GPT-5.6 Sol autonomously post-trained the smaller Luna model with a \"fairly underspecified prompt\"",
+      "summary": "According to OpenAI, GPT-5.6 Sol independently fine-tuned the smaller Luna model, triggered by a single \"fairly under-specified prompt.\" In OpenAI's internal RSI benchmark for recursive self-improvement, Sol scores 16.2 points higher than GPT-5.5.",
+      "source": "The Decoder",
+      "published": "2026-07-10T21:12:47+00:00",
+      "link": "https://the-decoder.com/openais-gpt-5-6-sol-autonomously-post-trained-the-smaller-luna-model-with-a-fairly-underspecified-prompt/"
+    },
+    {
+      "title": "Apple sues OpenAI over alleged trade secret theft",
+      "summary": "Apple alleges the misconduct was directed by OpenAi's senior leadership, including a long-time former employee.",
+      "source": "TechCrunch",
+      "published": "2026-07-10T21:00:29+00:00",
+      "link": "https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft/"
+    },
+    {
+      "title": "GPT-5.6, Grok 4.5, Claude, and Muse Spark build the same 4 apps",
+      "summary": "Article URL: https://www.tryai.dev/blog/gpt-5.6-build-off-12-models Comments URL: https://news.ycombinator.com/item?id=48865093 Points: 63 # Comments: 31",
+      "source": "Hacker News",
+      "published": "2026-07-10T20:52:28+00:00",
+      "link": "https://www.tryai.dev/blog/gpt-5.6-build-off-12-models"
+    },
+    {
+      "title": "Apple Is Suing OpenAI for Allegedly Stealing Hardware Secrets",
+      "summary": "The iPhone maker claims OpenAI encouraged poached employees to bring over confidential presentations, secret prototypes, and key supplier details.",
+      "source": "Wired",
+      "published": "2026-07-10T20:44:05+00:00",
+      "link": "https://www.wired.com/story/apple-sues-openai-allegedly-stealing-ip-hardware/"
+    },
+    {
+      "title": "Open source AI matters more than ever, according to Hugging Face’s Clem Delangue",
+      "summary": "Open source AI is booming, according to Hugging Face CEO Clem Delangue. The company has grown into something like a GitHub for AI in recent years, where AI builders can share and download open models and datasets, now used by roughly half the Fortune 500.",
+      "source": "TechCrunch",
+      "published": "2026-07-10T19:00:00+00:00",
+      "link": "https://techcrunch.com/podcast/open-source-ai-matters-more-than-ever-according-to-hugging-faces-clem-delangue/"
+    },
+    {
+      "title": "How the terrorist group Boko Haram uses frontier AI",
+      "summary": "Article URL: https://casp.ac/reports/ai-enabled-terrorism Comments URL: https://news.ycombinator.com/item?id=48863707 Points: 95 # Comments: 87",
+      "source": "Hacker News",
+      "published": "2026-07-10T18:49:26+00:00",
+      "link": "https://casp.ac/reports/ai-enabled-terrorism"
+    },
+    {
+      "title": "GPT-5.6 Sol Ultra produces proof of the Cycle Double Cover Conjecture [pdf]",
+      "summary": "Article URL: https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf Comments URL: https://news.ycombinator.com/item?id=48863490 Points: 220 # Comments: 202",
+      "source": "Hacker News",
+      "published": "2026-07-10T18:29:19+00:00",
+      "link": "https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf"
+    },
     {
       "title": "OpenAI staffer maps out which of GPT-5.6 Sol's five reasoning levels fits which task complexity",
       "summary": "GPT-5.6 Sol ships with five reasoning levels from \"Light\" to \"xhigh,\" plus \"Max\" and \"Ultra\" modes that deploy multiple sub-agents in parallel. OpenAI's Vaibhav Srivastav recommends starting low and only scaling up when needed.",
@@ -87,7 +143,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI-generated videos to maximally drive a target brain region",
-      "summary": "Article URL: https://nevo-project.epfl.ch/ Comments URL: https://news.ycombinator.com/item?id=48856904 Points: 236 # Comments: 209",
+      "summary": "Article URL: https://nevo-project.epfl.ch/ Comments URL: https://news.ycombinator.com/item?id=48856904 Points: 255 # Comments: 220",
       "source": "Hacker News",
       "published": "2026-07-10T07:39:11+00:00",
       "link": "https://nevo-project.epfl.ch/"
@@ -311,14 +367,14 @@ const FEED_DATA = {
     },
     {
       "title": "AI 2040: Plan A",
-      "summary": "Article URL: https://ai-2040.com/ Comments URL: https://news.ycombinator.com/item?id=48848425 Points: 86 # Comments: 51",
+      "summary": "Article URL: https://ai-2040.com/ Comments URL: https://news.ycombinator.com/item?id=48848425 Points: 87 # Comments: 51",
       "source": "Hacker News",
       "published": "2026-07-09T16:21:44+00:00",
       "link": "https://ai-2040.com/"
     },
     {
       "title": "AI content is everywhere on social media, especially LinkedIn",
-      "summary": "Article URL: https://www.pangram.com/blog/ai-in-your-feed Comments URL: https://news.ycombinator.com/item?id=48847940 Points: 231 # Comments: 211",
+      "summary": "Article URL: https://www.pangram.com/blog/ai-in-your-feed Comments URL: https://news.ycombinator.com/item?id=48847940 Points: 235 # Comments: 213",
       "source": "Hacker News",
       "published": "2026-07-09T15:50:09+00:00",
       "link": "https://www.pangram.com/blog/ai-in-your-feed"
@@ -353,7 +409,7 @@ const FEED_DATA = {
     },
     {
       "title": "DeepSeek aims to make its own AI chip",
-      "summary": "Article URL: https://www.proactiveinvestors.com/companies/news/1095178/deepseek-makes-pivot-that-should-put-silicon-valley-on-high-alert-1095178.html Comments URL: https://news.ycombinator.com/item?id=48846708 Points: 67 # Comments: 11",
+      "summary": "Article URL: https://www.proactiveinvestors.com/companies/news/1095178/deepseek-makes-pivot-that-should-put-silicon-valley-on-high-alert-1095178.html Comments URL: https://news.ycombinator.com/item?id=48846708 Points: 71 # Comments: 14",
       "source": "Hacker News",
       "published": "2026-07-09T14:42:21+00:00",
       "link": "https://www.proactiveinvestors.com/companies/news/1095178/deepseek-makes-pivot-that-should-put-silicon-valley-on-high-alert-1095178.html"
@@ -472,14 +528,14 @@ const FEED_DATA = {
     },
     {
       "title": "What's slowing down the AI buildout",
-      "summary": "Article URL: https://www.worksinprogress.news/p/ai-is-bottlenecked-by-the-grid Comments URL: https://news.ycombinator.com/item?id=48840620 Points: 78 # Comments: 196",
+      "summary": "Article URL: https://www.worksinprogress.news/p/ai-is-bottlenecked-by-the-grid Comments URL: https://news.ycombinator.com/item?id=48840620 Points: 79 # Comments: 204",
       "source": "Hacker News",
       "published": "2026-07-09T03:26:02+00:00",
       "link": "https://www.worksinprogress.news/p/ai-is-bottlenecked-by-the-grid"
     },
     {
       "title": "I think I have LLM burnout",
-      "summary": "Article URL: https://www.alecscollon.com/blog/llm-burnout/ Comments URL: https://news.ycombinator.com/item?id=48839984 Points: 399 # Comments: 352",
+      "summary": "Article URL: https://www.alecscollon.com/blog/llm-burnout/ Comments URL: https://news.ycombinator.com/item?id=48839984 Points: 401 # Comments: 354",
       "source": "Hacker News",
       "published": "2026-07-09T01:56:28+00:00",
       "link": "https://www.alecscollon.com/blog/llm-burnout/"
@@ -493,7 +549,7 @@ const FEED_DATA = {
     },
     {
       "title": "Suspecting AI cheating, Ivy League prof ordered in-person final; scores fell 50%",
-      "summary": "Article URL: https://arstechnica.com/ai/2026/07/we-cannot-choose-to-become-idiots-the-ai-cheating-scandal-roiling-brown-university/ Comments URL: https://news.ycombinator.com/item?id=48838611 Points: 134 # Comments: 158",
+      "summary": "Article URL: https://arstechnica.com/ai/2026/07/we-cannot-choose-to-become-idiots-the-ai-cheating-scandal-roiling-brown-university/ Comments URL: https://news.ycombinator.com/item?id=48838611 Points: 135 # Comments: 158",
       "source": "Hacker News",
       "published": "2026-07-08T23:11:28+00:00",
       "link": "https://arstechnica.com/ai/2026/07/we-cannot-choose-to-become-idiots-the-ai-cheating-scandal-roiling-brown-university/"
@@ -591,7 +647,7 @@ const FEED_DATA = {
     },
     {
       "title": "GPT‑Live",
-      "summary": "Article URL: https://openai.com/index/introducing-gpt-live/ Comments URL: https://news.ycombinator.com/item?id=48834405 Points: 745 # Comments: 520",
+      "summary": "Article URL: https://openai.com/index/introducing-gpt-live/ Comments URL: https://news.ycombinator.com/item?id=48834405 Points: 745 # Comments: 522",
       "source": "Hacker News",
       "published": "2026-07-08T17:03:19+00:00",
       "link": "https://openai.com/index/introducing-gpt-live/"
@@ -633,7 +689,7 @@ const FEED_DATA = {
     },
     {
       "title": "SWE-1.7 Reach Near GPT 5.5 and Opus Intelligence",
-      "summary": "Article URL: https://cognition.com/blog/swe-1-7 Comments URL: https://news.ycombinator.com/item?id=48833866 Points: 270 # Comments: 139",
+      "summary": "Article URL: https://cognition.com/blog/swe-1-7 Comments URL: https://news.ycombinator.com/item?id=48833866 Points: 271 # Comments: 139",
       "source": "Hacker News",
       "published": "2026-07-08T16:19:36+00:00",
       "link": "https://cognition.com/blog/swe-1-7"
@@ -1344,62 +1400,6 @@ const FEED_DATA = {
       "source": "Hacker News",
       "published": "2026-07-04T19:50:08+00:00",
       "link": "https://seldo.com/posts/ai-has-torched-the-market-for-junior-programmers/"
-    },
-    {
-      "title": "Open-source tool pxpipe hides text in PNGs to cut Claude Code and Fable 5 token costs up to 70%",
-      "summary": "The open-source tool pxpipe converts long text prompts for Claude Code into compact PNGs, exploiting the fact that Anthropic charges for images by pixel size, not text content. Developer Steven Chong reports cost savings of 59 to 70 percent, at the price of accuracy and speed.",
-      "source": "The Decoder",
-      "published": "2026-07-04T18:11:33+00:00",
-      "link": "https://the-decoder.com/open-source-tool-pxpipe-hides-text-in-pngs-to-cut-claude-code-and-fable-5-token-costs-up-to-70/"
-    },
-    {
-      "title": "Midjourney wants Hollywood studios to reveal the details of their AI usage",
-      "summary": "As part of an ongoing legal dispute with three Hollywood studios, Midjourney is seeking to compel those studios to reveal how they use AI themselves.",
-      "source": "TechCrunch",
-      "published": "2026-07-04T18:00:05+00:00",
-      "link": "https://techcrunch.com/2026/07/04/midjourney-wants-hollywood-studios-to-reveal-the-details-of-their-ai-usage/"
-    },
-    {
-      "title": "Alibaba reportedly bans employees from using Claude Code",
-      "summary": "Alibaba has reportedly classified Claude Code as high-risk software.",
-      "source": "TechCrunch",
-      "published": "2026-07-04T16:32:08+00:00",
-      "link": "https://techcrunch.com/2026/07/04/alibaba-reportedly-bans-employees-from-using-claude-code/"
-    },
-    {
-      "title": "What is Mistral AI? Everything to know about the OpenAI competitor",
-      "summary": "Mistral AI, which offers some open source AI models, has raised significant funding since its creation in 2023, with the ambition to “put frontier AI in the hands of everyone.”",
-      "source": "TechCrunch",
-      "published": "2026-07-04T15:51:32+00:00",
-      "link": "https://techcrunch.com/2026/07/04/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/"
-    },
-    {
-      "title": "Anthropic developer shares prompting tips for Fable 5 that focus on finding your own blind spots first",
-      "summary": "Anthropic developer Thariq Shihipar argues that with Claude's new model, Fable 5, the bottleneck is no longer the model itself but the user's blind spots.",
-      "source": "The Decoder",
-      "published": "2026-07-04T12:37:51+00:00",
-      "link": "https://the-decoder.com/anthropic-developer-shares-prompting-tips-for-fable-5-that-focus-on-finding-your-own-blind-spots-first/"
-    },
-    {
-      "title": "The fanfiction community is at war with AI — and itself",
-      "summary": "Over the past week, a new fanworks movement has kicked off, with the aim to root out authors using generative AI. But the detection methods being implemented are questionable, and any fanfic writer could be caught in the crossfire.",
-      "source": "The Verge",
-      "published": "2026-07-04T12:00:00+00:00",
-      "link": "https://www.theverge.com/tech/960854/ai-fanfiction-ao3-claude-detector"
-    },
-    {
-      "title": "OpenAI cofounder envisions \"almost no interface\" future where nobody learns software anymore",
-      "summary": "Greg Brockman admits ChatGPT's plugins, heavily marketed in 2023, failed \"because the models weren't ready.\" Instead of app extensions, he sees the future in an invisible, context-aware agent. But OpenAI's own Codex is still light-years from that vision.",
-      "source": "The Decoder",
-      "published": "2026-07-04T09:53:21+00:00",
-      "link": "https://the-decoder.com/openai-cofounder-envisions-almost-no-interface-future-where-nobody-learns-software-anymore/"
-    },
-    {
-      "title": "A 26,000-student study shows AI's hidden learning cost takes two full years to surface",
-      "summary": "A study of more than 26,000 Chinese students found that AI users finished homework faster and scored higher but performed up to 24 percent worse on exams.",
-      "source": "The Decoder",
-      "published": "2026-07-04T09:08:41+00:00",
-      "link": "https://the-decoder.com/a-26000-student-study-shows-ais-hidden-learning-cost-takes-two-full-years-to-surface/"
     }
   ]
 };
