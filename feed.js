@@ -1,6 +1,34 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-07-10T08:24:45.611067+00:00",
+  "lastUpdated": "2026-07-10T11:39:14.484841+00:00",
   "items": [
+    {
+      "title": "Bun ditches Zig for Rust with help from Claude Fable 5, writes over a million lines of code in 11 days",
+      "summary": "The JavaScript tool Bun has been fully rewritten from Zig to Rust, and Anthropic's Fable 5 did most of the work. The article Bun ditches Zig for Rust with help from Claude Fable 5, writes over a million lines of code in 11 days appeared first on The Decoder.",
+      "source": "The Decoder",
+      "published": "2026-07-10T11:09:44+00:00",
+      "link": "https://the-decoder.com/bun-ditches-zig-for-rust-with-help-from-claude-fable-5-writes-over-a-million-lines-of-code-in-11-days/"
+    },
+    {
+      "title": "A New Experiential Gallery Just Might Change Your Mind About AI Art",
+      "summary": "Billed as the “world’s first museum of AI arts,” Dataland uses wearables and troves of material from the Amazon to merge nature, biometrics, and art.",
+      "source": "Wired",
+      "published": "2026-07-10T10:30:00+00:00",
+      "link": "https://www.wired.com/story/a-new-experiential-gallery-just-might-change-your-mind-about-ai-art/"
+    },
+    {
+      "title": "How to shrink the token budget without shrinking the team",
+      "summary": "Jensen Huang has a test for whether an engineer is worth keeping, and it comes with a token budget attached.",
+      "source": "AI News",
+      "published": "2026-07-10T09:34:27+00:00",
+      "link": "https://www.artificialintelligence-news.com/news/shrink-token-budget-not-team/"
+    },
+    {
+      "title": "AI-generated videos to maximally drive a target brain region",
+      "summary": "Article URL: https://nevo-project.epfl.ch/ Comments URL: https://news.ycombinator.com/item?id=48856904 Points: 92 # Comments: 81",
+      "source": "Hacker News",
+      "published": "2026-07-10T07:39:11+00:00",
+      "link": "https://nevo-project.epfl.ch/"
+    },
     {
       "title": "Robot Dogs, Teslas, and Rescue Helicopters: The UN AI Summit Was a Lot",
       "summary": "Amid live coding sessions and Silicon Valley optimism, the UN’s AI for Good summit wrestled with an increasingly urgent question: Can global governance catch up before the technology races beyond its control?",
@@ -220,14 +248,14 @@ const FEED_DATA = {
     },
     {
       "title": "AI 2040: Plan A",
-      "summary": "Article URL: https://ai-2040.com/ Comments URL: https://news.ycombinator.com/item?id=48848425 Points: 76 # Comments: 45",
+      "summary": "Article URL: https://ai-2040.com/ Comments URL: https://news.ycombinator.com/item?id=48848425 Points: 80 # Comments: 46",
       "source": "Hacker News",
       "published": "2026-07-09T16:21:44+00:00",
       "link": "https://ai-2040.com/"
     },
     {
       "title": "AI content is everywhere on social media, especially LinkedIn",
-      "summary": "Article URL: https://www.pangram.com/blog/ai-in-your-feed Comments URL: https://news.ycombinator.com/item?id=48847940 Points: 206 # Comments: 183",
+      "summary": "Article URL: https://www.pangram.com/blog/ai-in-your-feed Comments URL: https://news.ycombinator.com/item?id=48847940 Points: 220 # Comments: 198",
       "source": "Hacker News",
       "published": "2026-07-09T15:50:09+00:00",
       "link": "https://www.pangram.com/blog/ai-in-your-feed"
@@ -254,6 +282,20 @@ const FEED_DATA = {
       "link": "https://techcrunch.com/2026/07/09/anthropic-openai-and-spacex-are-bigger-than-the-last-25-years-of-tech-exits/"
     },
     {
+      "title": "The next era of AI is about infrastructure, not just models",
+      "summary": "Article URL: https://blog.mozilla.ai/the-control-layer-why-the-next-era-of-ai-is-about-infrastructure-not-just-models/ Comments URL: https://news.ycombinator.com/item?id=48846842 Points: 51 # Comments: 22",
+      "source": "Hacker News",
+      "published": "2026-07-09T14:50:01+00:00",
+      "link": "https://blog.mozilla.ai/the-control-layer-why-the-next-era-of-ai-is-about-infrastructure-not-just-models/"
+    },
+    {
+      "title": "DeepSeek aims to make its own AI chip",
+      "summary": "Article URL: https://www.proactiveinvestors.com/companies/news/1095178/deepseek-makes-pivot-that-should-put-silicon-valley-on-high-alert-1095178.html Comments URL: https://news.ycombinator.com/item?id=48846708 Points: 60 # Comments: 7",
+      "source": "Hacker News",
+      "published": "2026-07-09T14:42:21+00:00",
+      "link": "https://www.proactiveinvestors.com/companies/news/1095178/deepseek-makes-pivot-that-should-put-silicon-valley-on-high-alert-1095178.html"
+    },
+    {
       "title": "Meta says its new AI model is ready to compete on coding",
       "summary": "After reentering the AI race with its first in-house Muse Spark model in April, Meta is now opening up the doors to developers with a new model that can plug into AI coding software with the new Meta Model API.",
       "source": "The Verge",
@@ -276,14 +318,14 @@ const FEED_DATA = {
     },
     {
       "title": "Show HN: FableCut – A browser video editor AI agents can drive (zero deps)",
-      "summary": "Article URL: https://github.com/ronak-create/FableCut Comments URL: https://news.ycombinator.com/item?id=48845422 Points: 87 # Comments: 58",
+      "summary": "Article URL: https://github.com/ronak-create/FableCut Comments URL: https://news.ycombinator.com/item?id=48845422 Points: 92 # Comments: 58",
       "source": "Hacker News",
       "published": "2026-07-09T13:23:10+00:00",
       "link": "https://github.com/ronak-create/FableCut"
     },
     {
       "title": "Character.AI wants a piece of the microdrama pie",
-      "summary": "Character.AI's plan to become more than just an LLM-powered chatbot platform is going beyond interactive books, comics, and audio dramas.",
+      "summary": "Character.AI's plan to become more than just an LLM-powered chatbot platform is going beyond interactive books, comics, and audio dramas. Today, the company announced the debut of c.ai Series - short-form, episodic videos designed to be watched and interacted with on your phone.",
       "source": "The Verge",
       "published": "2026-07-09T13:11:53+00:00",
       "link": "https://www.theverge.com/entertainment/962897/character-ai-series-microdrama-vertical-video"
@@ -360,21 +402,21 @@ const FEED_DATA = {
     },
     {
       "title": "AI changes the economics of software rewrites",
-      "summary": "Article URL: https://thetruthasiseeitnow.com/ai-slop-starts-with-the-codebase-itself/ Comments URL: https://news.ycombinator.com/item?id=48841446 Points: 101 # Comments: 103",
+      "summary": "Article URL: https://thetruthasiseeitnow.com/ai-slop-starts-with-the-codebase-itself/ Comments URL: https://news.ycombinator.com/item?id=48841446 Points: 102 # Comments: 105",
       "source": "Hacker News",
       "published": "2026-07-09T05:46:50+00:00",
       "link": "https://thetruthasiseeitnow.com/ai-slop-starts-with-the-codebase-itself/"
     },
     {
       "title": "What's slowing down the AI buildout",
-      "summary": "Article URL: https://www.worksinprogress.news/p/ai-is-bottlenecked-by-the-grid Comments URL: https://news.ycombinator.com/item?id=48840620 Points: 67 # Comments: 160",
+      "summary": "Article URL: https://www.worksinprogress.news/p/ai-is-bottlenecked-by-the-grid Comments URL: https://news.ycombinator.com/item?id=48840620 Points: 74 # Comments: 166",
       "source": "Hacker News",
       "published": "2026-07-09T03:26:02+00:00",
       "link": "https://www.worksinprogress.news/p/ai-is-bottlenecked-by-the-grid"
     },
     {
       "title": "I think I have LLM burnout",
-      "summary": "Article URL: https://www.alecscollon.com/blog/llm-burnout/ Comments URL: https://news.ycombinator.com/item?id=48839984 Points: 387 # Comments: 342",
+      "summary": "Article URL: https://www.alecscollon.com/blog/llm-burnout/ Comments URL: https://news.ycombinator.com/item?id=48839984 Points: 393 # Comments: 347",
       "source": "Hacker News",
       "published": "2026-07-09T01:56:28+00:00",
       "link": "https://www.alecscollon.com/blog/llm-burnout/"
@@ -388,7 +430,7 @@ const FEED_DATA = {
     },
     {
       "title": "Suspecting AI cheating, Ivy League prof ordered in-person final; scores fell 50%",
-      "summary": "Article URL: https://arstechnica.com/ai/2026/07/we-cannot-choose-to-become-idiots-the-ai-cheating-scandal-roiling-brown-university/ Comments URL: https://news.ycombinator.com/item?id=48838611 Points: 132 # Comments: 150",
+      "summary": "Article URL: https://arstechnica.com/ai/2026/07/we-cannot-choose-to-become-idiots-the-ai-cheating-scandal-roiling-brown-university/ Comments URL: https://news.ycombinator.com/item?id=48838611 Points: 133 # Comments: 153",
       "source": "Hacker News",
       "published": "2026-07-08T23:11:28+00:00",
       "link": "https://arstechnica.com/ai/2026/07/we-cannot-choose-to-become-idiots-the-ai-cheating-scandal-roiling-brown-university/"
@@ -486,7 +528,7 @@ const FEED_DATA = {
     },
     {
       "title": "GPT‑Live",
-      "summary": "Article URL: https://openai.com/index/introducing-gpt-live/ Comments URL: https://news.ycombinator.com/item?id=48834405 Points: 742 # Comments: 517",
+      "summary": "Article URL: https://openai.com/index/introducing-gpt-live/ Comments URL: https://news.ycombinator.com/item?id=48834405 Points: 745 # Comments: 520",
       "source": "Hacker News",
       "published": "2026-07-08T17:03:19+00:00",
       "link": "https://openai.com/index/introducing-gpt-live/"
@@ -654,7 +696,7 @@ const FEED_DATA = {
     },
     {
       "title": "GPT-5.6 Sol, along with Terra and Luna, will launch publicly this Thursday",
-      "summary": "Article URL: https://twitter.com/OpenAI/status/2074704958419792299 Comments URL: https://news.ycombinator.com/item?id=48827402 Points: 235 # Comments: 208",
+      "summary": "Article URL: https://twitter.com/OpenAI/status/2074704958419792299 Comments URL: https://news.ycombinator.com/item?id=48827402 Points: 235 # Comments: 210",
       "source": "Hacker News",
       "published": "2026-07-08T04:12:13+00:00",
       "link": "https://twitter.com/OpenAI/status/2074704958419792299"
@@ -1358,48 +1400,6 @@ const FEED_DATA = {
       "source": "Hacker News",
       "published": "2026-07-03T17:03:22+00:00",
       "link": "https://okaneland.com/study/ai-productivity-roi-at-work/"
-    },
-    {
-      "title": "Security vulnerability reports have exploded since AI models started hunting for bugs",
-      "summary": "Epoch AI reports a sharp rise in security vulnerability reports. In June 2026, 21 organizations reported about 1,500 high-severity and critical CVEs, more than 3.5 times the previous monthly record.",
-      "source": "The Decoder",
-      "published": "2026-07-03T16:49:47+00:00",
-      "link": "https://the-decoder.com/security-vulnerability-reports-have-exploded-since-ai-models-started-hunting-for-bugs/"
-    },
-    {
-      "title": "Google DeepMind Unionization Talks Are Off to a Rocky Start",
-      "summary": "During negotiations on Wednesday, employees voiced frustrations with what they consider an unwillingness among executives to engage meaningfully with the prospect of unionization.",
-      "source": "Wired",
-      "published": "2026-07-03T16:30:00+00:00",
-      "link": "https://www.wired.com/story/google-deepmind-unionization-talks-are-off-to-a-rocky-start/"
-    },
-    {
-      "title": "UK's AI Security Institute finds standard benchmarks systematically underestimate what AI agents can actually do",
-      "summary": "In a study covering seven benchmarks, the UK's AI Security Institute shows that standard AI evaluations systematically underestimate agent capabilities by capping the compute budget.",
-      "source": "The Decoder",
-      "published": "2026-07-03T16:14:44+00:00",
-      "link": "https://the-decoder.com/uks-ai-security-institute-finds-standard-benchmarks-systematically-underestimate-what-ai-agents-can-actually-do/"
-    },
-    {
-      "title": "Instead of banning AI, I made a classroom contract with my students",
-      "summary": "Article URL: https://www.science.org/content/article/instead-banning-ai-i-made-classroom-contract-my-students Comments URL: https://news.ycombinator.com/item?id=48775499 Points: 95 # Comments: 90",
-      "source": "Hacker News",
-      "published": "2026-07-03T14:28:33+00:00",
-      "link": "https://www.science.org/content/article/instead-banning-ai-i-made-classroom-contract-my-students"
-    },
-    {
-      "title": "Anthropic wants to develop its own drugs",
-      "summary": "At the event \"The Briefing: AI for Science\" earlier this week, Anthropic announced Claude Science, a new \"AI workbench for scientists\" that pulls fragmented tools and datasets into one environment, and generates figures and visuals.",
-      "source": "The Verge",
-      "published": "2026-07-03T13:56:52+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/961311/anthropic-claude-science-ai-drug-development"
-    },
-    {
-      "title": "Please stop the AI confidence theater",
-      "summary": "Article URL: https://www.elenaverna.com/p/please-stop-the-ai-confidence-theater Comments URL: https://news.ycombinator.com/item?id=48774414 Points: 235 # Comments: 259",
-      "source": "Hacker News",
-      "published": "2026-07-03T12:51:17+00:00",
-      "link": "https://www.elenaverna.com/p/please-stop-the-ai-confidence-theater"
     }
   ]
 };
