@@ -1,6 +1,13 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-07-10T04:50:21.147211+00:00",
+  "lastUpdated": "2026-07-10T08:24:45.611067+00:00",
   "items": [
+    {
+      "title": "Robot Dogs, Teslas, and Rescue Helicopters: The UN AI Summit Was a Lot",
+      "summary": "Amid live coding sessions and Silicon Valley optimism, the UN’s AI for Good summit wrestled with an increasingly urgent question: Can global governance catch up before the technology races beyond its control?",
+      "source": "Wired",
+      "published": "2026-07-10T06:00:00+00:00",
+      "link": "https://www.wired.com/story/robot-dogs-teslas-and-rescue-helicopters-the-un-ai-summit-was-alot/"
+    },
     {
       "title": "OpenAI says GPT 5.6 is the ‘preferred model’ for Microsoft Copilot 365 amid breakup chatter",
       "summary": "OpenAI's new family of models will continue to power Microsoft's suite of workplace and productivity apps.",
@@ -1393,13 +1400,6 @@ const FEED_DATA = {
       "source": "Hacker News",
       "published": "2026-07-03T12:51:17+00:00",
       "link": "https://www.elenaverna.com/p/please-stop-the-ai-confidence-theater"
-    },
-    {
-      "title": "AI Data Centers Use More Water Than Most Tech Giants Report",
-      "summary": "Article URL: https://www.wsj.com/tech/ai/ai-data-centers-water-use-901e2902 Comments URL: https://news.ycombinator.com/item?id=48774246 Points: 56 # Comments: 69",
-      "source": "Hacker News",
-      "published": "2026-07-03T12:33:20+00:00",
-      "link": "https://www.wsj.com/tech/ai/ai-data-centers-water-use-901e2902"
     }
   ]
 };
