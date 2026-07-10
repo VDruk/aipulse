@@ -1,6 +1,41 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-07-10T11:39:14.484841+00:00",
+  "lastUpdated": "2026-07-10T15:32:21.093355+00:00",
   "items": [
+    {
+      "title": "Instagram’s Adam Mosseri: If you don’t like AI, ‘then you shouldn’t have it in your feed’",
+      "summary": "Though Instagram head Adam Mosseri doesn't want to filter out AI content on the platform, he argues that you \"shouldn't have it in your feed\" if you don't like it. \"I don't think we should filter out AI content,\" Mosseri said during an interview on Lenny Rachitsky's podcast.",
+      "source": "The Verge",
+      "published": "2026-07-10T13:45:02+00:00",
+      "link": "https://www.theverge.com/tech/963961/instagram-adam-mosseri-ai-feed-filters"
+    },
+    {
+      "title": "Would you host part of an AI data center in your home?",
+      "summary": "A solar and home energy storage company is expanding into AI data centers, but not by building one - instead, it's offering to pay its customers to put its compute units in their homes.",
+      "source": "The Verge",
+      "published": "2026-07-10T13:20:25+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/963930/sunrun-distributed-ai-data-center"
+    },
+    {
+      "title": "OpenAI kills its Atlas browser after just eight months and folds everything into ChatGPT",
+      "summary": "OpenAI is killing its AI browser Atlas less than eight months after launch. Its features are moving into ChatGPT's updated Chrome extension, which will let users run ChatGPT directly in Chrome's sidebar.",
+      "source": "The Decoder",
+      "published": "2026-07-10T12:19:21+00:00",
+      "link": "https://the-decoder.com/openai-kills-its-atlas-browser-after-just-eight-months-and-folds-everything-into-chatgpt/"
+    },
+    {
+      "title": "The Fed wants AI investor Marc Andreessen to help figure out if AI can tame inflation",
+      "summary": "Fed Chair Kevin Warsh has appointed venture capitalist Marc Andreessen to advise the Federal Reserve on AI's economic impact.",
+      "source": "The Decoder",
+      "published": "2026-07-10T12:18:32+00:00",
+      "link": "https://the-decoder.com/the-fed-wants-ai-investor-marc-andreessen-to-help-figure-out-if-ai-can-tame-inflation/"
+    },
+    {
+      "title": "The Download: Claude’s inner workings and OpenAI’s “super app”",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.",
+      "source": "MIT Tech Review",
+      "published": "2026-07-10T12:10:00+00:00",
+      "link": "https://www.technologyreview.com/2026/07/10/1140316/the-download-anthropic-claude-hidden-space-openai-super-app/"
+    },
     {
       "title": "Bun ditches Zig for Rust with help from Claude Fable 5, writes over a million lines of code in 11 days",
       "summary": "The JavaScript tool Bun has been fully rewritten from Zig to Rust, and Anthropic's Fable 5 did most of the work. The article Bun ditches Zig for Rust with help from Claude Fable 5, writes over a million lines of code in 11 days appeared first on The Decoder.",
@@ -24,14 +59,14 @@ const FEED_DATA = {
     },
     {
       "title": "AI-generated videos to maximally drive a target brain region",
-      "summary": "Article URL: https://nevo-project.epfl.ch/ Comments URL: https://news.ycombinator.com/item?id=48856904 Points: 92 # Comments: 81",
+      "summary": "Article URL: https://nevo-project.epfl.ch/ Comments URL: https://news.ycombinator.com/item?id=48856904 Points: 171 # Comments: 178",
       "source": "Hacker News",
       "published": "2026-07-10T07:39:11+00:00",
       "link": "https://nevo-project.epfl.ch/"
     },
     {
       "title": "Robot Dogs, Teslas, and Rescue Helicopters: The UN AI Summit Was a Lot",
-      "summary": "Amid live coding sessions and Silicon Valley optimism, the UN’s AI for Good summit wrestled with an increasingly urgent question: Can global governance catch up before the technology races beyond its control?",
+      "summary": "Amid live coding sessions and Silicon Valley optimism, the UN’s AI for Good summit wrestled with an urgent question: Can global governance catch up before the technology races beyond its control?",
       "source": "Wired",
       "published": "2026-07-10T06:00:00+00:00",
       "link": "https://www.wired.com/story/robot-dogs-teslas-and-rescue-helicopters-the-un-ai-summit-was-alot/"
@@ -51,7 +86,7 @@ const FEED_DATA = {
       "link": "https://www.theverge.com/tech/963728/microsoft-sustainability-report-2026"
     },
     {
-      "title": "Fidji Simo steps down from OpenAI’s no. 2 role",
+      "title": "Fidji Simo steps down from OpenAI’s No. 2 role",
       "summary": "OpenAI's No. 2 executive, Fidji Simo, is stepping down from her full-time role after her medical leave proved longer than expected — a leadership vacuum that comes at a tricky time as the company eyes a possible IPO and races to catch Anthropic in the enterprise market.",
       "source": "TechCrunch",
       "published": "2026-07-09T23:38:00+00:00",
@@ -248,14 +283,14 @@ const FEED_DATA = {
     },
     {
       "title": "AI 2040: Plan A",
-      "summary": "Article URL: https://ai-2040.com/ Comments URL: https://news.ycombinator.com/item?id=48848425 Points: 80 # Comments: 46",
+      "summary": "Article URL: https://ai-2040.com/ Comments URL: https://news.ycombinator.com/item?id=48848425 Points: 85 # Comments: 48",
       "source": "Hacker News",
       "published": "2026-07-09T16:21:44+00:00",
       "link": "https://ai-2040.com/"
     },
     {
       "title": "AI content is everywhere on social media, especially LinkedIn",
-      "summary": "Article URL: https://www.pangram.com/blog/ai-in-your-feed Comments URL: https://news.ycombinator.com/item?id=48847940 Points: 220 # Comments: 198",
+      "summary": "Article URL: https://www.pangram.com/blog/ai-in-your-feed Comments URL: https://news.ycombinator.com/item?id=48847940 Points: 228 # Comments: 206",
       "source": "Hacker News",
       "published": "2026-07-09T15:50:09+00:00",
       "link": "https://www.pangram.com/blog/ai-in-your-feed"
@@ -283,14 +318,14 @@ const FEED_DATA = {
     },
     {
       "title": "The next era of AI is about infrastructure, not just models",
-      "summary": "Article URL: https://blog.mozilla.ai/the-control-layer-why-the-next-era-of-ai-is-about-infrastructure-not-just-models/ Comments URL: https://news.ycombinator.com/item?id=48846842 Points: 51 # Comments: 22",
+      "summary": "Article URL: https://blog.mozilla.ai/the-control-layer-why-the-next-era-of-ai-is-about-infrastructure-not-just-models/ Comments URL: https://news.ycombinator.com/item?id=48846842 Points: 55 # Comments: 23",
       "source": "Hacker News",
       "published": "2026-07-09T14:50:01+00:00",
       "link": "https://blog.mozilla.ai/the-control-layer-why-the-next-era-of-ai-is-about-infrastructure-not-just-models/"
     },
     {
       "title": "DeepSeek aims to make its own AI chip",
-      "summary": "Article URL: https://www.proactiveinvestors.com/companies/news/1095178/deepseek-makes-pivot-that-should-put-silicon-valley-on-high-alert-1095178.html Comments URL: https://news.ycombinator.com/item?id=48846708 Points: 60 # Comments: 7",
+      "summary": "Article URL: https://www.proactiveinvestors.com/companies/news/1095178/deepseek-makes-pivot-that-should-put-silicon-valley-on-high-alert-1095178.html Comments URL: https://news.ycombinator.com/item?id=48846708 Points: 65 # Comments: 8",
       "source": "Hacker News",
       "published": "2026-07-09T14:42:21+00:00",
       "link": "https://www.proactiveinvestors.com/companies/news/1095178/deepseek-makes-pivot-that-should-put-silicon-valley-on-high-alert-1095178.html"
@@ -318,7 +353,7 @@ const FEED_DATA = {
     },
     {
       "title": "Show HN: FableCut – A browser video editor AI agents can drive (zero deps)",
-      "summary": "Article URL: https://github.com/ronak-create/FableCut Comments URL: https://news.ycombinator.com/item?id=48845422 Points: 92 # Comments: 58",
+      "summary": "Article URL: https://github.com/ronak-create/FableCut Comments URL: https://news.ycombinator.com/item?id=48845422 Points: 94 # Comments: 58",
       "source": "Hacker News",
       "published": "2026-07-09T13:23:10+00:00",
       "link": "https://github.com/ronak-create/FableCut"
@@ -402,35 +437,35 @@ const FEED_DATA = {
     },
     {
       "title": "AI changes the economics of software rewrites",
-      "summary": "Article URL: https://thetruthasiseeitnow.com/ai-slop-starts-with-the-codebase-itself/ Comments URL: https://news.ycombinator.com/item?id=48841446 Points: 102 # Comments: 105",
+      "summary": "Article URL: https://thetruthasiseeitnow.com/ai-slop-starts-with-the-codebase-itself/ Comments URL: https://news.ycombinator.com/item?id=48841446 Points: 102 # Comments: 106",
       "source": "Hacker News",
       "published": "2026-07-09T05:46:50+00:00",
       "link": "https://thetruthasiseeitnow.com/ai-slop-starts-with-the-codebase-itself/"
     },
     {
       "title": "What's slowing down the AI buildout",
-      "summary": "Article URL: https://www.worksinprogress.news/p/ai-is-bottlenecked-by-the-grid Comments URL: https://news.ycombinator.com/item?id=48840620 Points: 74 # Comments: 166",
+      "summary": "Article URL: https://www.worksinprogress.news/p/ai-is-bottlenecked-by-the-grid Comments URL: https://news.ycombinator.com/item?id=48840620 Points: 78 # Comments: 184",
       "source": "Hacker News",
       "published": "2026-07-09T03:26:02+00:00",
       "link": "https://www.worksinprogress.news/p/ai-is-bottlenecked-by-the-grid"
     },
     {
       "title": "I think I have LLM burnout",
-      "summary": "Article URL: https://www.alecscollon.com/blog/llm-burnout/ Comments URL: https://news.ycombinator.com/item?id=48839984 Points: 393 # Comments: 347",
+      "summary": "Article URL: https://www.alecscollon.com/blog/llm-burnout/ Comments URL: https://news.ycombinator.com/item?id=48839984 Points: 396 # Comments: 349",
       "source": "Hacker News",
       "published": "2026-07-09T01:56:28+00:00",
       "link": "https://www.alecscollon.com/blog/llm-burnout/"
     },
     {
       "title": "We made Grok 4.5, GPT-5.5, and Claude build the same apps",
-      "summary": "Article URL: https://www.tryai.dev/blog/grok-4.5-vs-gpt-5.5-vs-claude-build-off Comments URL: https://news.ycombinator.com/item?id=48838772 Points: 171 # Comments: 92",
+      "summary": "Article URL: https://www.tryai.dev/blog/grok-4.5-vs-gpt-5.5-vs-claude-build-off Comments URL: https://news.ycombinator.com/item?id=48838772 Points: 172 # Comments: 92",
       "source": "Hacker News",
       "published": "2026-07-08T23:27:14+00:00",
       "link": "https://www.tryai.dev/blog/grok-4.5-vs-gpt-5.5-vs-claude-build-off"
     },
     {
       "title": "Suspecting AI cheating, Ivy League prof ordered in-person final; scores fell 50%",
-      "summary": "Article URL: https://arstechnica.com/ai/2026/07/we-cannot-choose-to-become-idiots-the-ai-cheating-scandal-roiling-brown-university/ Comments URL: https://news.ycombinator.com/item?id=48838611 Points: 133 # Comments: 153",
+      "summary": "Article URL: https://arstechnica.com/ai/2026/07/we-cannot-choose-to-become-idiots-the-ai-cheating-scandal-roiling-brown-university/ Comments URL: https://news.ycombinator.com/item?id=48838611 Points: 133 # Comments: 155",
       "source": "Hacker News",
       "published": "2026-07-08T23:11:28+00:00",
       "link": "https://arstechnica.com/ai/2026/07/we-cannot-choose-to-become-idiots-the-ai-cheating-scandal-roiling-brown-university/"
@@ -689,7 +724,7 @@ const FEED_DATA = {
     },
     {
       "title": "GitLost: We Tricked GitHub's AI Agent into Leaking Private Repos",
-      "summary": "Article URL: https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos/ Comments URL: https://news.ycombinator.com/item?id=48827858 Points: 534 # Comments: 203",
+      "summary": "Article URL: https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos/ Comments URL: https://news.ycombinator.com/item?id=48827858 Points: 536 # Comments: 203",
       "source": "Hacker News",
       "published": "2026-07-08T05:25:35+00:00",
       "link": "https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos/"
@@ -724,7 +759,7 @@ const FEED_DATA = {
     },
     {
       "title": "We charge $10k a week to delete AI-generated code",
-      "summary": "Article URL: https://odra.dev/slopfix/ Comments URL: https://news.ycombinator.com/item?id=48823359 Points: 301 # Comments: 237",
+      "summary": "Article URL: https://odra.dev/slopfix/ Comments URL: https://news.ycombinator.com/item?id=48823359 Points: 302 # Comments: 237",
       "source": "Hacker News",
       "published": "2026-07-07T20:35:42+00:00",
       "link": "https://odra.dev/slopfix/"
@@ -1365,41 +1400,6 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-07-03T21:20:00+00:00",
       "link": "https://techcrunch.com/2026/07/03/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/"
-    },
-    {
-      "title": "Kagi Changelog (July 2): Heads, tails, and an AI toggle",
-      "summary": "Article URL: https://kagi.com/changelog#10959 Comments URL: https://news.ycombinator.com/item?id=48779352 Points: 67 # Comments: 15",
-      "source": "Hacker News",
-      "published": "2026-07-03T20:08:01+00:00",
-      "link": "https://kagi.com/changelog#10959"
-    },
-    {
-      "title": "Microsoft follows Anthropic and OpenAI into the AI super app race with overhauled Copilot and AutoPilot agents",
-      "summary": "Microsoft reportedly plans to merge its consumer and enterprise Copilot apps into a single app in August. Rarely used features like Copilot Podcasts are getting cut, and new AI agents called \"AutoPilot\" will handle tasks in the background for an extra fee.",
-      "source": "The Decoder",
-      "published": "2026-07-03T19:24:40+00:00",
-      "link": "https://the-decoder.com/microsoft-follows-anthropic-and-openai-into-the-ai-super-app-race-with-overhauled-copilot-and-autopilot-agents/"
-    },
-    {
-      "title": "The browser wars aren’t about search anymore — here are the best alternatives to Chrome and Safari",
-      "summary": "We’ve compiled an overview of some of the top alternative browsers available today aiming to challenge Chrome and Safari.",
-      "source": "TechCrunch",
-      "published": "2026-07-03T18:43:00+00:00",
-      "link": "https://techcrunch.com/2026/07/03/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/"
-    },
-    {
-      "title": "Claude Code's complicated China problem involves bans on both sides of the Pacific",
-      "summary": "Anthropic is trying to block Chinese companies like ByteDance and Ant Financial from accessing Claude Code, but they're getting around the restrictions through VPNs and overseas subsidiaries.",
-      "source": "The Decoder",
-      "published": "2026-07-03T17:11:33+00:00",
-      "link": "https://the-decoder.com/claude-codes-complicated-china-problem-involves-bans-on-both-sides-of-the-pacific/"
-    },
-    {
-      "title": "AI saves about 3% of your hours, and almost none of it reaches the money",
-      "summary": "Article URL: https://okaneland.com/study/ai-productivity-roi-at-work/ Comments URL: https://news.ycombinator.com/item?id=48777257 Points: 77 # Comments: 94",
-      "source": "Hacker News",
-      "published": "2026-07-03T17:03:22+00:00",
-      "link": "https://okaneland.com/study/ai-productivity-roi-at-work/"
     }
   ]
 };
