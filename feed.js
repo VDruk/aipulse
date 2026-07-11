@@ -1,12 +1,33 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-07-11T14:22:57.751492+00:00",
+  "lastUpdated": "2026-07-11T17:50:14.191213+00:00",
   "items": [
+    {
+      "title": "OpenAI's GPT-5.6 Sol Ultra reportedly solves a 50-year-old math problem in under an hour",
+      "summary": "OpenAI's GPT-5.6 Sol Ultra produced a proof of the Cycle Double Cover Conjecture in under an hour, using 64 subagents working in parallel. The conjecture had remained unsolved for 50 years.",
+      "source": "The Decoder",
+      "published": "2026-07-11T17:38:35+00:00",
+      "link": "https://the-decoder.com/openais-gpt-5-6-sol-ultra-reportedly-solves-a-50-year-old-math-problem-in-under-an-hour/"
+    },
+    {
+      "title": "Terrorist groups are using every major AI chatbot for attack planning and weapons development",
+      "summary": "A Cambridge study found that Boko Haram uses AI chatbots like ChatGPT, Claude, and Gemini to plan attacks, build explosives, and maintain weapons. ISIS operatives have been training the group's commanders on how to bypass safety filters since 2023.",
+      "source": "The Decoder",
+      "published": "2026-07-11T17:04:28+00:00",
+      "link": "https://the-decoder.com/terrorist-groups-are-using-every-major-ai-chatbot-for-attack-planning-and-weapons-development/"
+    },
     {
       "title": "OpenAI bets on families as ChatGPT goes deeper into households",
       "summary": "ChatGPT is hiring a dedicated product manager to build experiences for families, caregivers, and older adults, according to a job posting.",
       "source": "TechCrunch",
       "published": "2026-07-11T14:13:00+00:00",
       "link": "https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/"
+    },
+    {
+      "title": "Ghost Font: A font that humans can read but AI cannot",
+      "summary": "Article URL: https://www.mixfont.com/ghost-font Comments URL: https://news.ycombinator.com/item?id=48870381 Points: 138 # Comments: 105",
+      "source": "Hacker News",
+      "published": "2026-07-11T09:36:53+00:00",
+      "link": "https://www.mixfont.com/ghost-font"
     },
     {
       "title": "China's Orca world model matches specialized robotics systems without ever seeing a single action label",
@@ -45,7 +66,7 @@ const FEED_DATA = {
     },
     {
       "title": "Meta pulls new AI image feature after days of backlash",
-      "summary": "Article URL: https://www.bbc.com/news/articles/c2dy6e8klw0o Comments URL: https://news.ycombinator.com/item?id=48867233 Points: 51 # Comments: 15",
+      "summary": "Article URL: https://www.bbc.com/news/articles/c2dy6e8klw0o Comments URL: https://news.ycombinator.com/item?id=48867233 Points: 55 # Comments: 20",
       "source": "Hacker News",
       "published": "2026-07-11T00:40:36+00:00",
       "link": "https://www.bbc.com/news/articles/c2dy6e8klw0o"
@@ -87,7 +108,7 @@ const FEED_DATA = {
     },
     {
       "title": "GPT-5.6, Grok 4.5, Claude, and Muse Spark build the same 4 apps",
-      "summary": "Article URL: https://www.tryai.dev/blog/gpt-5.6-build-off-12-models Comments URL: https://news.ycombinator.com/item?id=48865093 Points: 145 # Comments: 82",
+      "summary": "Article URL: https://www.tryai.dev/blog/gpt-5.6-build-off-12-models Comments URL: https://news.ycombinator.com/item?id=48865093 Points: 151 # Comments: 84",
       "source": "Hacker News",
       "published": "2026-07-10T20:52:28+00:00",
       "link": "https://www.tryai.dev/blog/gpt-5.6-build-off-12-models"
@@ -108,14 +129,14 @@ const FEED_DATA = {
     },
     {
       "title": "How the terrorist group Boko Haram uses frontier AI",
-      "summary": "Article URL: https://casp.ac/reports/ai-enabled-terrorism Comments URL: https://news.ycombinator.com/item?id=48863707 Points: 206 # Comments: 173",
+      "summary": "Article URL: https://casp.ac/reports/ai-enabled-terrorism Comments URL: https://news.ycombinator.com/item?id=48863707 Points: 219 # Comments: 186",
       "source": "Hacker News",
       "published": "2026-07-10T18:49:26+00:00",
       "link": "https://casp.ac/reports/ai-enabled-terrorism"
     },
     {
       "title": "GPT-5.6 Sol Ultra produces proof of the Cycle Double Cover Conjecture [pdf]",
-      "summary": "https://x.com/__eknight__/status/2075643450196971805, https://xcancel.com/__eknight__/status/2075643450196971805Prompt: https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98... Comments URL: https://news.ycombinator.com/item?id=48863490 Points: 453 # Comments: 364",
+      "summary": "https://x.com/__eknight__/status/2075643450196971805, https://xcancel.com/__eknight__/status/2075643450196971805Prompt: https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98... Comments URL: https://news.ycombinator.com/item?id=48863490 Points: 499 # Comments: 415",
       "source": "Hacker News",
       "published": "2026-07-10T18:29:19+00:00",
       "link": "https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf"
@@ -140,6 +161,13 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-07-10T16:48:05+00:00",
       "link": "https://the-decoder.com/tencent-moves-to-buy-majority-stake-in-manus-after-beijing-forced-meta-to-unwind-its-2-billion-deal/"
+    },
+    {
+      "title": "Hands-On with the AMD Ryzen AI Halo",
+      "summary": "Article URL: https://www.microcenter.com/site/mc-news/article/amd-ryzen-ai-halo-review.aspx Comments URL: https://news.ycombinator.com/item?id=48861833 Points: 51 # Comments: 43",
+      "source": "Hacker News",
+      "published": "2026-07-10T16:06:38+00:00",
+      "link": "https://www.microcenter.com/site/mc-news/article/amd-ryzen-ai-halo-review.aspx"
     },
     {
       "title": "Hugging Face’s CEO on why companies are done renting their AI",
@@ -206,7 +234,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI-generated videos to maximally drive a target brain region",
-      "summary": "Article URL: https://nevo-project.epfl.ch/ Comments URL: https://news.ycombinator.com/item?id=48856904 Points: 278 # Comments: 230",
+      "summary": "Article URL: https://nevo-project.epfl.ch/ Comments URL: https://news.ycombinator.com/item?id=48856904 Points: 283 # Comments: 235",
       "source": "Hacker News",
       "published": "2026-07-10T07:39:11+00:00",
       "link": "https://nevo-project.epfl.ch/"
@@ -437,14 +465,14 @@ const FEED_DATA = {
     },
     {
       "title": "AI 2040: Plan A",
-      "summary": "Article URL: https://ai-2040.com/ Comments URL: https://news.ycombinator.com/item?id=48848425 Points: 265 # Comments: 276",
+      "summary": "Article URL: https://ai-2040.com/ Comments URL: https://news.ycombinator.com/item?id=48848425 Points: 363 # Comments: 448",
       "source": "Hacker News",
       "published": "2026-07-09T16:21:44+00:00",
       "link": "https://ai-2040.com/"
     },
     {
       "title": "AI content is everywhere on social media, especially LinkedIn",
-      "summary": "Article URL: https://www.pangram.com/blog/ai-in-your-feed Comments URL: https://news.ycombinator.com/item?id=48847940 Points: 240 # Comments: 215",
+      "summary": "Article URL: https://www.pangram.com/blog/ai-in-your-feed Comments URL: https://news.ycombinator.com/item?id=48847940 Points: 244 # Comments: 215",
       "source": "Hacker News",
       "published": "2026-07-09T15:50:09+00:00",
       "link": "https://www.pangram.com/blog/ai-in-your-feed"
@@ -479,7 +507,7 @@ const FEED_DATA = {
     },
     {
       "title": "DeepSeek aims to make its own AI chip",
-      "summary": "Article URL: https://www.proactiveinvestors.com/companies/news/1095178/deepseek-makes-pivot-that-should-put-silicon-valley-on-high-alert-1095178.html Comments URL: https://news.ycombinator.com/item?id=48846708 Points: 72 # Comments: 14",
+      "summary": "Article URL: https://www.proactiveinvestors.com/companies/news/1095178/deepseek-makes-pivot-that-should-put-silicon-valley-on-high-alert-1095178.html Comments URL: https://news.ycombinator.com/item?id=48846708 Points: 73 # Comments: 16",
       "source": "Hacker News",
       "published": "2026-07-09T14:42:21+00:00",
       "link": "https://www.proactiveinvestors.com/companies/news/1095178/deepseek-makes-pivot-that-should-put-silicon-valley-on-high-alert-1095178.html"
@@ -507,7 +535,7 @@ const FEED_DATA = {
     },
     {
       "title": "Show HN: FableCut – A browser video editor AI agents can drive (zero deps)",
-      "summary": "Article URL: https://github.com/ronak-create/FableCut Comments URL: https://news.ycombinator.com/item?id=48845422 Points: 96 # Comments: 58",
+      "summary": "Article URL: https://github.com/ronak-create/FableCut Comments URL: https://news.ycombinator.com/item?id=48845422 Points: 97 # Comments: 58",
       "source": "Hacker News",
       "published": "2026-07-09T13:23:10+00:00",
       "link": "https://github.com/ronak-create/FableCut"
@@ -598,14 +626,14 @@ const FEED_DATA = {
     },
     {
       "title": "What's slowing down the AI buildout",
-      "summary": "Article URL: https://www.worksinprogress.news/p/ai-is-bottlenecked-by-the-grid Comments URL: https://news.ycombinator.com/item?id=48840620 Points: 80 # Comments: 209",
+      "summary": "Article URL: https://www.worksinprogress.news/p/ai-is-bottlenecked-by-the-grid Comments URL: https://news.ycombinator.com/item?id=48840620 Points: 81 # Comments: 214",
       "source": "Hacker News",
       "published": "2026-07-09T03:26:02+00:00",
       "link": "https://www.worksinprogress.news/p/ai-is-bottlenecked-by-the-grid"
     },
     {
       "title": "I think I have LLM burnout",
-      "summary": "Article URL: https://www.alecscollon.com/blog/llm-burnout/ Comments URL: https://news.ycombinator.com/item?id=48839984 Points: 403 # Comments: 358",
+      "summary": "Article URL: https://www.alecscollon.com/blog/llm-burnout/ Comments URL: https://news.ycombinator.com/item?id=48839984 Points: 405 # Comments: 359",
       "source": "Hacker News",
       "published": "2026-07-09T01:56:28+00:00",
       "link": "https://www.alecscollon.com/blog/llm-burnout/"
@@ -1372,34 +1400,6 @@ const FEED_DATA = {
       "source": "Hacker News",
       "published": "2026-07-06T00:04:48+00:00",
       "link": "https://www.readtheline.ca/p/al-vigier-canadas-ai-strategy-shouldnt"
-    },
-    {
-      "title": "Some of the nation’s rich are letting AI teach their kids",
-      "summary": "Most Americans don't trust AI. It's proven that it doesn't know what safe toppings for pizza are.",
-      "source": "The Verge",
-      "published": "2026-07-05T22:30:54+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/961505/wealthy-ai-schools-alpha-forge-prep"
-    },
-    {
-      "title": "New Microsoft 365 pricing live, some products up by 42% due to AI",
-      "summary": "Article URL: https://www.windowslatest.com/2026/07/05/microsoft-365-just-got-a-price-hike-over-continuous-innovation-but-copilot-is-the-ai-tax-on-businesses/ Comments URL: https://news.ycombinator.com/item?id=48798330 Points: 52 # Comments: 32",
-      "source": "Hacker News",
-      "published": "2026-07-05T21:58:20+00:00",
-      "link": "https://www.windowslatest.com/2026/07/05/microsoft-365-just-got-a-price-hike-over-continuous-innovation-but-copilot-is-the-ai-tax-on-businesses/"
-    },
-    {
-      "title": "New AI tutor achieves 0.71-1.30 SD effect size in Dartmouth course [pdf]",
-      "summary": "Article URL: https://intextbooks.science.uu.nl/workshop2026/files/itb26_s1s2.pdf Comments URL: https://news.ycombinator.com/item?id=48796817 Points: 178 # Comments: 112",
-      "source": "Hacker News",
-      "published": "2026-07-05T18:47:43+00:00",
-      "link": "https://intextbooks.science.uu.nl/workshop2026/files/itb26_s1s2.pdf"
-    },
-    {
-      "title": "A sociotechnical threat model for AI-driven smart home devices",
-      "summary": "Article URL: https://arxiv.org/abs/2602.09239 Comments URL: https://news.ycombinator.com/item?id=48795830 Points: 83 # Comments: 68",
-      "source": "Hacker News",
-      "published": "2026-07-05T17:05:57+00:00",
-      "link": "https://arxiv.org/abs/2602.09239"
     }
   ]
 };
