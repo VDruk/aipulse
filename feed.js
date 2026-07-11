@@ -1,6 +1,27 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-07-11T07:11:46.728934+00:00",
+  "lastUpdated": "2026-07-11T10:07:27.140894+00:00",
   "items": [
+    {
+      "title": "China's Orca world model matches specialized robotics systems without ever seeing a single action label",
+      "summary": "The Beijing Academy of Artificial Intelligence has released Orca, a world model that predicts abstract world states instead of tokens or pixels.",
+      "source": "The Decoder",
+      "published": "2026-07-11T09:03:26+00:00",
+      "link": "https://the-decoder.com/chinas-orca-world-model-matches-specialized-robotics-systems-without-ever-seeing-a-single-action-label/"
+    },
+    {
+      "title": "Meta's Muse Spark 1.1 outperforms GLM-5.2 in coding and costs slightly less",
+      "summary": "Meta's Muse Spark 1.1 scored 51 on the Artificial Analysis Intelligence Index, up eight points in three months. In coding, it edges past GLM-5.2 with a score of 71.3 at a lower cost of $0.26 per task.",
+      "source": "The Decoder",
+      "published": "2026-07-11T08:28:12+00:00",
+      "link": "https://the-decoder.com/metas-muse-spark-1-1-outperforms-glm-5-2-in-coding-and-costs-slightly-less/"
+    },
+    {
+      "title": "OpenAI admits it \"didn't get everything quite right\" with ChatGPT Work launch and scrambles to fix UX and costs",
+      "summary": "Following the launch of ChatGPT Work and GPT-5.6 Sol, OpenAI has acknowledged significant issues: excessive compute usage, a confusing transition to the desktop interface for chats and projects, an unclear distinction between Codex and ChatGPT Work, and regressions in existing...",
+      "source": "The Decoder",
+      "published": "2026-07-11T08:01:09+00:00",
+      "link": "https://the-decoder.com/openai-admits-it-didnt-get-everything-quite-right-with-chatgpt-work-launch-and-scrambles-to-fix-ux-and-costs/"
+    },
     {
       "title": "Apple sues OpenAI for allegedly running a \"coordinated campaign\" to steal trade secrets through poached employees",
       "summary": "Apple is suing OpenAI over systematic employee poaching and the alleged theft of trade secrets tied to unreleased products. According to the complaint, more than 400 ex-Apple employees now work at OpenAI, including former iPhone design chief Tang Tan.",
@@ -14,6 +35,13 @@ const FEED_DATA = {
       "source": "Wired",
       "published": "2026-07-11T01:07:26+00:00",
       "link": "https://www.wired.com/story/openai-head-of-safety-leaving/"
+    },
+    {
+      "title": "Meta pulls new AI image feature after days of backlash",
+      "summary": "Article URL: https://www.bbc.com/news/articles/c2dy6e8klw0o Comments URL: https://news.ycombinator.com/item?id=48867233 Points: 51 # Comments: 15",
+      "source": "Hacker News",
+      "published": "2026-07-11T00:40:36+00:00",
+      "link": "https://www.bbc.com/news/articles/c2dy6e8klw0o"
     },
     {
       "title": "Meta removes controversial AI feature on Instagram after backlash",
@@ -52,7 +80,7 @@ const FEED_DATA = {
     },
     {
       "title": "GPT-5.6, Grok 4.5, Claude, and Muse Spark build the same 4 apps",
-      "summary": "Article URL: https://www.tryai.dev/blog/gpt-5.6-build-off-12-models Comments URL: https://news.ycombinator.com/item?id=48865093 Points: 141 # Comments: 80",
+      "summary": "Article URL: https://www.tryai.dev/blog/gpt-5.6-build-off-12-models Comments URL: https://news.ycombinator.com/item?id=48865093 Points: 145 # Comments: 82",
       "source": "Hacker News",
       "published": "2026-07-10T20:52:28+00:00",
       "link": "https://www.tryai.dev/blog/gpt-5.6-build-off-12-models"
@@ -73,14 +101,14 @@ const FEED_DATA = {
     },
     {
       "title": "How the terrorist group Boko Haram uses frontier AI",
-      "summary": "Article URL: https://casp.ac/reports/ai-enabled-terrorism Comments URL: https://news.ycombinator.com/item?id=48863707 Points: 202 # Comments: 167",
+      "summary": "Article URL: https://casp.ac/reports/ai-enabled-terrorism Comments URL: https://news.ycombinator.com/item?id=48863707 Points: 206 # Comments: 173",
       "source": "Hacker News",
       "published": "2026-07-10T18:49:26+00:00",
       "link": "https://casp.ac/reports/ai-enabled-terrorism"
     },
     {
       "title": "GPT-5.6 Sol Ultra produces proof of the Cycle Double Cover Conjecture [pdf]",
-      "summary": "https://x.com/__eknight__/status/2075643450196971805, https://xcancel.com/__eknight__/status/2075643450196971805Prompt: https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98... Comments URL: https://news.ycombinator.com/item?id=48863490 Points: 424 # Comments: 331",
+      "summary": "https://x.com/__eknight__/status/2075643450196971805, https://xcancel.com/__eknight__/status/2075643450196971805Prompt: https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98... Comments URL: https://news.ycombinator.com/item?id=48863490 Points: 453 # Comments: 364",
       "source": "Hacker News",
       "published": "2026-07-10T18:29:19+00:00",
       "link": "https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf"
@@ -171,7 +199,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI-generated videos to maximally drive a target brain region",
-      "summary": "Article URL: https://nevo-project.epfl.ch/ Comments URL: https://news.ycombinator.com/item?id=48856904 Points: 273 # Comments: 227",
+      "summary": "Article URL: https://nevo-project.epfl.ch/ Comments URL: https://news.ycombinator.com/item?id=48856904 Points: 278 # Comments: 230",
       "source": "Hacker News",
       "published": "2026-07-10T07:39:11+00:00",
       "link": "https://nevo-project.epfl.ch/"
@@ -402,14 +430,14 @@ const FEED_DATA = {
     },
     {
       "title": "AI 2040: Plan A",
-      "summary": "Article URL: https://ai-2040.com/ Comments URL: https://news.ycombinator.com/item?id=48848425 Points: 220 # Comments: 225",
+      "summary": "Article URL: https://ai-2040.com/ Comments URL: https://news.ycombinator.com/item?id=48848425 Points: 265 # Comments: 276",
       "source": "Hacker News",
       "published": "2026-07-09T16:21:44+00:00",
       "link": "https://ai-2040.com/"
     },
     {
       "title": "AI content is everywhere on social media, especially LinkedIn",
-      "summary": "Article URL: https://www.pangram.com/blog/ai-in-your-feed Comments URL: https://news.ycombinator.com/item?id=48847940 Points: 239 # Comments: 214",
+      "summary": "Article URL: https://www.pangram.com/blog/ai-in-your-feed Comments URL: https://news.ycombinator.com/item?id=48847940 Points: 240 # Comments: 215",
       "source": "Hacker News",
       "published": "2026-07-09T15:50:09+00:00",
       "link": "https://www.pangram.com/blog/ai-in-your-feed"
@@ -437,7 +465,7 @@ const FEED_DATA = {
     },
     {
       "title": "The next era of AI is about infrastructure, not just models",
-      "summary": "Article URL: https://blog.mozilla.ai/the-control-layer-why-the-next-era-of-ai-is-about-infrastructure-not-just-models/ Comments URL: https://news.ycombinator.com/item?id=48846842 Points: 59 # Comments: 23",
+      "summary": "Article URL: https://blog.mozilla.ai/the-control-layer-why-the-next-era-of-ai-is-about-infrastructure-not-just-models/ Comments URL: https://news.ycombinator.com/item?id=48846842 Points: 60 # Comments: 23",
       "source": "Hacker News",
       "published": "2026-07-09T14:50:01+00:00",
       "link": "https://blog.mozilla.ai/the-control-layer-why-the-next-era-of-ai-is-about-infrastructure-not-just-models/"
@@ -472,7 +500,7 @@ const FEED_DATA = {
     },
     {
       "title": "Show HN: FableCut – A browser video editor AI agents can drive (zero deps)",
-      "summary": "Article URL: https://github.com/ronak-create/FableCut Comments URL: https://news.ycombinator.com/item?id=48845422 Points: 95 # Comments: 58",
+      "summary": "Article URL: https://github.com/ronak-create/FableCut Comments URL: https://news.ycombinator.com/item?id=48845422 Points: 96 # Comments: 58",
       "source": "Hacker News",
       "published": "2026-07-09T13:23:10+00:00",
       "link": "https://github.com/ronak-create/FableCut"
@@ -570,7 +598,7 @@ const FEED_DATA = {
     },
     {
       "title": "I think I have LLM burnout",
-      "summary": "Article URL: https://www.alecscollon.com/blog/llm-burnout/ Comments URL: https://news.ycombinator.com/item?id=48839984 Points: 403 # Comments: 356",
+      "summary": "Article URL: https://www.alecscollon.com/blog/llm-burnout/ Comments URL: https://news.ycombinator.com/item?id=48839984 Points: 403 # Comments: 358",
       "source": "Hacker News",
       "published": "2026-07-09T01:56:28+00:00",
       "link": "https://www.alecscollon.com/blog/llm-burnout/"
@@ -584,7 +612,7 @@ const FEED_DATA = {
     },
     {
       "title": "Suspecting AI cheating, Ivy League prof ordered in-person final; scores fell 50%",
-      "summary": "Article URL: https://arstechnica.com/ai/2026/07/we-cannot-choose-to-become-idiots-the-ai-cheating-scandal-roiling-brown-university/ Comments URL: https://news.ycombinator.com/item?id=48838611 Points: 135 # Comments: 158",
+      "summary": "Article URL: https://arstechnica.com/ai/2026/07/we-cannot-choose-to-become-idiots-the-ai-cheating-scandal-roiling-brown-university/ Comments URL: https://news.ycombinator.com/item?id=48838611 Points: 135 # Comments: 159",
       "source": "Hacker News",
       "published": "2026-07-08T23:11:28+00:00",
       "link": "https://arstechnica.com/ai/2026/07/we-cannot-choose-to-become-idiots-the-ai-cheating-scandal-roiling-brown-university/"
@@ -1372,34 +1400,6 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-07-05T15:58:56+00:00",
       "link": "https://the-decoder.com/claude-code-and-fable-5-ported-the-2003-pc-game-command-conquer-to-native-ios-in-a-few-hours/"
-    },
-    {
-      "title": "Baidu's \"Unlimited OCR\" processes dozens of document pages in one pass by treating memory like human forgetting",
-      "summary": "Baidu's Unlimited OCR reads dozens of document pages in a single pass, where previous systems topped out at about ten. A modified attention mechanism keeps memory use flat no matter how many pages the model processes.",
-      "source": "The Decoder",
-      "published": "2026-07-05T15:25:07+00:00",
-      "link": "https://the-decoder.com/baidus-unlimited-ocr-processes-dozens-of-document-pages-in-one-pass-by-treating-memory-like-human-forgetting/"
-    },
-    {
-      "title": "Infuriating Google commercial imagines the founding fathers embracing AI",
-      "summary": "\"Group project, but make it 1776.\" That's how a new commercial for Google Workspace opens. And things only get cringier from there.",
-      "source": "The Verge",
-      "published": "2026-07-05T14:23:11+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/961468/google-ai-commercial-founding-fathers-declaration-of-independence"
-    },
-    {
-      "title": "AI private schools sell wealthy US families on personalized learning over traditional education",
-      "summary": "Wealthy US families are increasingly sending their kids to AI schools like Alpha School, which combines two hours of AI tutoring with project-based workshops for up to $75,000 a year in tuition.",
-      "source": "The Decoder",
-      "published": "2026-07-05T10:45:46+00:00",
-      "link": "https://the-decoder.com/ai-private-schools-sell-wealthy-us-families-on-personalized-learning-over-traditional-education/"
-    },
-    {
-      "title": "Mistral CEO Mensch says proprietary AI models give labs a front-row seat to your business processes",
-      "summary": "Mistral founder Arthur Mensch warns companies against relying on closed AI models. He claims AI labs are storing more and more customer data and have, in some cases, used it to go after their own customers as competitors.",
-      "source": "The Decoder",
-      "published": "2026-07-05T10:22:06+00:00",
-      "link": "https://the-decoder.com/mistral-ceo-mensch-says-proprietary-ai-models-give-labs-a-front-row-seat-to-your-business-processes/"
     }
   ]
 };
