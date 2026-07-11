@@ -1,9 +1,30 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-07-10T21:53:38.537380+00:00",
+  "lastUpdated": "2026-07-11T04:11:21.316442+00:00",
   "items": [
     {
+      "title": "OpenAI’s Head of Safety Is Leaving the Company",
+      "summary": "Johannes Heidecke’s departure comes as OpenAI tries to further integrate its research and safety teams.",
+      "source": "Wired",
+      "published": "2026-07-11T01:07:26+00:00",
+      "link": "https://www.wired.com/story/openai-head-of-safety-leaving/"
+    },
+    {
+      "title": "Meta removes controversial AI feature on Instagram after backlash",
+      "summary": "\"Our intent was to provide a useful creative tool and to give people control over whether their public content could be referenced in this way,\" the company said in a blog post. \"We've heard the feedback that this feature missed the mark, so it's no longer available.\"",
+      "source": "TechCrunch",
+      "published": "2026-07-10T23:55:07+00:00",
+      "link": "https://techcrunch.com/2026/07/10/meta-removes-controversial-ai-feature-on-instagram-after-backlash/"
+    },
+    {
+      "title": "Meta turns off the Instagram feature that let users make AI deepfakes of public accounts",
+      "summary": "Following significant backlash, Meta is turning off the feature it announced this week that let users generate AI images based on content from public Instagram accounts just by tagging them.",
+      "source": "The Verge",
+      "published": "2026-07-10T23:49:50+00:00",
+      "link": "https://www.theverge.com/tech/964416/meta-instagram-ai-muse-image-deepfakes"
+    },
+    {
       "title": "Apple sues OpenAI for allegedly stealing hardware secrets",
-      "summary": "Apple has sued OpenAI, alleging that former employees that now work for the AI company have stolen Apple's trade secrets \"for the benefit of OpenAI.\" In its complaint, Apple alleges that it has uncovered \"a pattern of theft of Apple's trade secrets by OpenAI employees who were...",
+      "summary": "Apple has sued OpenAI, alleging that engineers stole Apple secrets to advance the AI startup's hardware plans.",
       "source": "The Verge",
       "published": "2026-07-10T21:36:51+00:00",
       "link": "https://www.theverge.com/tech/964350/apple-openai-lawsuit-trade-secrets"
@@ -17,7 +38,7 @@ const FEED_DATA = {
     },
     {
       "title": "Apple sues OpenAI over alleged trade secret theft",
-      "summary": "Apple alleges the misconduct was directed by OpenAi's senior leadership, including a long-time former employee.",
+      "summary": "Apple alleges the misconduct was directed by OpenAI's senior leadership, including a longtime former employee.",
       "source": "TechCrunch",
       "published": "2026-07-10T21:00:29+00:00",
       "link": "https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft/"
@@ -1379,27 +1400,6 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-07-05T07:52:17+00:00",
       "link": "https://the-decoder.com/ai-search-agents-dont-fail-at-searching-they-fail-at-asking-the-right-questions-when-queries-get-ambiguous/"
-    },
-    {
-      "title": "GPT-5.5 Codex reasoning-token clustering may be leading to degraded performance",
-      "summary": "Article URL: https://github.com/openai/codex/issues/30364 Comments URL: https://news.ycombinator.com/item?id=48789428 Points: 369 # Comments: 151",
-      "source": "Hacker News",
-      "published": "2026-07-04T21:51:09+00:00",
-      "link": "https://github.com/openai/codex/issues/30364"
-    },
-    {
-      "title": "New Google commercial imagines a Declaration of Independence written with help from AI",
-      "summary": "Two hundred and fifty years after the signing of the Declaration of Independence, a new commercial asks: What if the Founding Fathers had access to Google Workspace?",
-      "source": "TechCrunch",
-      "published": "2026-07-04T20:55:25+00:00",
-      "link": "https://techcrunch.com/2026/07/04/new-google-commercial-imagines-a-declaration-of-independence-written-with-help-from-ai/"
-    },
-    {
-      "title": "AI has torched the market for junior programmers",
-      "summary": "Article URL: https://seldo.com/posts/ai-has-torched-the-market-for-junior-programmers/ Comments URL: https://news.ycombinator.com/item?id=48788361 Points: 100 # Comments: 194",
-      "source": "Hacker News",
-      "published": "2026-07-04T19:50:08+00:00",
-      "link": "https://seldo.com/posts/ai-has-torched-the-market-for-junior-programmers/"
     }
   ]
 };
