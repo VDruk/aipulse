@@ -1,6 +1,13 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-07-11T10:07:27.140894+00:00",
+  "lastUpdated": "2026-07-11T14:22:57.751492+00:00",
   "items": [
+    {
+      "title": "OpenAI bets on families as ChatGPT goes deeper into households",
+      "summary": "ChatGPT is hiring a dedicated product manager to build experiences for families, caregivers, and older adults, according to a job posting.",
+      "source": "TechCrunch",
+      "published": "2026-07-11T14:13:00+00:00",
+      "link": "https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/"
+    },
     {
       "title": "China's Orca world model matches specialized robotics systems without ever seeing a single action label",
       "summary": "The Beijing Academy of Artificial Intelligence has released Orca, a world model that predicts abstract world states instead of tokens or pixels.",
@@ -1393,13 +1400,6 @@ const FEED_DATA = {
       "source": "Hacker News",
       "published": "2026-07-05T17:05:57+00:00",
       "link": "https://arxiv.org/abs/2602.09239"
-    },
-    {
-      "title": "Claude Code and Fable 5 ported the 2003 PC game Command & Conquer to native iOS in \"a few hours\"",
-      "summary": "A Google Deepmind developer ported the 2003 real-time strategy game \"Command & Conquer: Generals Zero Hour\" to iPhone and iPad using Anthropic's Claude Code. The first build took 40 minutes.",
-      "source": "The Decoder",
-      "published": "2026-07-05T15:58:56+00:00",
-      "link": "https://the-decoder.com/claude-code-and-fable-5-ported-the-2003-pc-game-command-conquer-to-native-ios-in-a-few-hours/"
     }
   ]
 };
