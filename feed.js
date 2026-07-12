@@ -1,5 +1,5 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-07-11T21:41:10.424946+00:00",
+  "lastUpdated": "2026-07-12T04:24:53.424688+00:00",
   "items": [
     {
       "title": "AI 2040 and the cult of intelligence",
