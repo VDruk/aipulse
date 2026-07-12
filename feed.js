@@ -1,6 +1,41 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-07-12T07:29:19.653917+00:00",
+  "lastUpdated": "2026-07-12T10:16:22.314253+00:00",
   "items": [
+    {
+      "title": "Scientists’ Side Hustle? Using AI and Quantum Computing to Generate New Peptides",
+      "summary": "Researchers cobbled together funding and time to show how quantum computing could aid in the development of drugs to help underserved populations and combat rare diseases.",
+      "source": "Wired",
+      "published": "2026-07-12T10:00:00+00:00",
+      "link": "https://www.wired.com/story/scientists-using-ai-and-quantum-computing-to-generate-new-peptides/"
+    },
+    {
+      "title": "Claude Cowork's biggest use case is the mundane office work nobody wants to own, Anthropic says",
+      "summary": "Anthropic analyzed 1.2 million Claude Cowork sessions from more than 600,000 organizations.",
+      "source": "The Decoder",
+      "published": "2026-07-12T09:36:39+00:00",
+      "link": "https://the-decoder.com/claude-coworks-biggest-use-case-is-the-mundane-office-work-nobody-wants-to-own-anthropic-says/"
+    },
+    {
+      "title": "OpenAI CEO Altman is now \"pretty sure\" AI is net job-creating, which is quite the pivot from predicting mass layoffs",
+      "summary": "OpenAI CEO Sam Altman now says he's \"pretty sure\" AI has created more jobs than it's eliminated. That's a sharp turn from his earlier warnings about entire professions disappearing.",
+      "source": "The Decoder",
+      "published": "2026-07-12T09:15:49+00:00",
+      "link": "https://the-decoder.com/openai-ceo-altman-is-now-pretty-sure-ai-is-net-job-creating-which-is-quite-the-pivot-from-predicting-mass-layoffs/"
+    },
+    {
+      "title": "Grades dropped from 96 to 48 percent when a Brown professor made students take the exam without AI",
+      "summary": "An economics professor at Brown University suspects most of his 86 students used AI to cheat on a take-home exam that averaged 96 percent. When he made the final an in-person test, 18 students dropped the course, nine didn't show up, and the average fell to 48.6 percent.",
+      "source": "The Decoder",
+      "published": "2026-07-12T08:25:25+00:00",
+      "link": "https://the-decoder.com/grades-dropped-from-96-to-48-percent-when-a-brown-professor-made-students-take-the-exam-without-ai/"
+    },
+    {
+      "title": "AI agents win at Slay the Spire 2 after researchers replace growing chat logs with structured memory",
+      "summary": "The AgenticSTS project replaces the ever-growing chat log of AI agents with five separate memory layers. Tested on the card game Slay the Spire 2, the prompt stays at around 5,000 tokens instead of ballooning past 500,000.",
+      "source": "The Decoder",
+      "published": "2026-07-12T07:45:35+00:00",
+      "link": "https://the-decoder.com/ai-agents-win-at-slay-the-spire-2-after-researchers-replace-growing-chat-logs-with-structured-memory/"
+    },
     {
       "title": "Mesh LLM: distributed AI computing on iroh",
       "summary": "Article URL: https://www.iroh.computer/blog/mesh-llm Comments URL: https://news.ycombinator.com/item?id=48876505 Points: 199 # Comments: 46",
@@ -1365,41 +1400,6 @@ const FEED_DATA = {
       "source": "MIT Tech Review",
       "published": "2026-07-06T13:00:00+00:00",
       "link": "https://www.technologyreview.com/2026/07/06/1140172/the-download-south-korea-ai-chipworkers-eye-transplants/"
-    },
-    {
-      "title": "Station F ramps up as a launchpad for Europe’s hottest AI startups",
-      "summary": "Station F, a Paris-based startup hub founded by French billionaire Xavier Niel, is gearing up for a new edition of its F/ai accelerator program in a bid to strengthen its positioning as a stepping stone for promising AI startups.",
-      "source": "TechCrunch",
-      "published": "2026-07-06T13:00:00+00:00",
-      "link": "https://techcrunch.com/2026/07/06/station-f-ramps-up-as-a-launchpad-for-europes-hottest-ai-startups/"
-    },
-    {
-      "title": "The AI Marketing Backlash: Why 'AI-First' Brands Are Starting to Fall Flat",
-      "summary": "Article URL: https://www.breef.com/breefingroom/articles/the-ai-marketing-backlash-why-ai-first-brands-are-starting-to-fall-flat Comments URL: https://news.ycombinator.com/item?id=48803711 Points: 77 # Comments: 49",
-      "source": "Hacker News",
-      "published": "2026-07-06T12:33:09+00:00",
-      "link": "https://www.breef.com/breefingroom/articles/the-ai-marketing-backlash-why-ai-first-brands-are-starting-to-fall-flat"
-    },
-    {
-      "title": "Nvidia's Kyber NVL144 reportedly pushed back more than a year, Asian suppliers drop",
-      "summary": "Nvidia's next AI server rack, Kyber NVL144, has been delayed more than a year to 2028 because of circuit board manufacturing problems, according to analyst firm SemiAnalysis. Asian suppliers lost up to double-digit percentages in market value.",
-      "source": "The Decoder",
-      "published": "2026-07-06T12:30:11+00:00",
-      "link": "https://the-decoder.com/nvidias-kyber-nvl144-reportedly-pushed-back-more-than-a-year-asian-suppliers-drop/"
-    },
-    {
-      "title": "China forces its biggest AI platforms to shut down humanlike chatbot personas",
-      "summary": "ByteDance and Alibaba are shutting down the features that let users build and chat with custom AI companions, responding to new regulations from Beijing. The article China forces its biggest AI platforms to shut down humanlike chatbot personas appeared first on The Decoder.",
-      "source": "The Decoder",
-      "published": "2026-07-06T12:26:09+00:00",
-      "link": "https://the-decoder.com/china-forces-its-biggest-ai-platforms-to-shut-down-humanlike-chatbot-personas/"
-    },
-    {
-      "title": "Amazon sunsets Mechanical Turk, the original \"Artificial Artificial Intelligence\"",
-      "summary": "Amazon Web Services is shutting down its crowdsourcing service Mechanical Turk to new customers starting July 30, 2026. The article Amazon sunsets Mechanical Turk, the original \"Artificial Artificial Intelligence\" appeared first on The Decoder.",
-      "source": "The Decoder",
-      "published": "2026-07-06T11:19:29+00:00",
-      "link": "https://the-decoder.com/amazon-sunsets-mechanical-turk-the-original-artificial-artificial-intelligence/"
     }
   ]
 };
