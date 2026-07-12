@@ -1,9 +1,23 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-07-12T04:24:53.424688+00:00",
+  "lastUpdated": "2026-07-12T07:29:19.653917+00:00",
   "items": [
     {
+      "title": "Mesh LLM: distributed AI computing on iroh",
+      "summary": "Article URL: https://www.iroh.computer/blog/mesh-llm Comments URL: https://news.ycombinator.com/item?id=48876505 Points: 199 # Comments: 46",
+      "source": "Hacker News",
+      "published": "2026-07-11T22:38:57+00:00",
+      "link": "https://www.iroh.computer/blog/mesh-llm"
+    },
+    {
+      "title": "Stop Telling Me to Ask an LLM",
+      "summary": "Article URL: https://blog.yaelwrites.com/stop-telling-me-to-ask-an-llm/ Comments URL: https://news.ycombinator.com/item?id=48876441 Points: 175 # Comments: 104",
+      "source": "Hacker News",
+      "published": "2026-07-11T22:28:48+00:00",
+      "link": "https://blog.yaelwrites.com/stop-telling-me-to-ask-an-llm/"
+    },
+    {
       "title": "AI 2040 and the cult of intelligence",
-      "summary": "Article URL: https://geohot.github.io//blog/jekyll/update/2026/07/11/ai-2040.html Comments URL: https://news.ycombinator.com/item?id=48874200 Points: 141 # Comments: 163",
+      "summary": "Article URL: https://geohot.github.io//blog/jekyll/update/2026/07/11/ai-2040.html Comments URL: https://news.ycombinator.com/item?id=48874200 Points: 198 # Comments: 228",
       "source": "Hacker News",
       "published": "2026-07-11T18:04:01+00:00",
       "link": "https://geohot.github.io//blog/jekyll/update/2026/07/11/ai-2040.html"
@@ -17,7 +31,7 @@ const FEED_DATA = {
     },
     {
       "title": "Reverse centaurs are the answer to the AI paradox (2025)",
-      "summary": "Article URL: https://pluralistic.net/2025/09/11/vulgar-thatcherism/#there-is-an-alternative Comments URL: https://news.ycombinator.com/item?id=48873855 Points: 72 # Comments: 29",
+      "summary": "Article URL: https://pluralistic.net/2025/09/11/vulgar-thatcherism/#there-is-an-alternative Comments URL: https://news.ycombinator.com/item?id=48873855 Points: 103 # Comments: 63",
       "source": "Hacker News",
       "published": "2026-07-11T17:23:52+00:00",
       "link": "https://pluralistic.net/2025/09/11/vulgar-thatcherism/#there-is-an-alternative"
@@ -38,10 +52,17 @@ const FEED_DATA = {
     },
     {
       "title": "Ghost Font: A font that humans can read but AI cannot",
-      "summary": "Article URL: https://www.mixfont.com/ghost-font Comments URL: https://news.ycombinator.com/item?id=48870381 Points: 178 # Comments: 130",
+      "summary": "Article URL: https://www.mixfont.com/ghost-font Comments URL: https://news.ycombinator.com/item?id=48870381 Points: 209 # Comments: 153",
       "source": "Hacker News",
       "published": "2026-07-11T09:36:53+00:00",
       "link": "https://www.mixfont.com/ghost-font"
+    },
+    {
+      "title": "Microsoft latest report shows 25% emissions raised due to AI data centers",
+      "summary": "Article URL: https://www.windowscentral.com/microsoft/dropping-greenwashing-credits-and-expanding-ai-datacenters-caused-microsofts-25-percent-emissions-jump Comments URL: https://news.ycombinator.com/item?id=48870229 Points: 50 # Comments: 21",
+      "source": "Hacker News",
+      "published": "2026-07-11T09:10:45+00:00",
+      "link": "https://www.windowscentral.com/microsoft/dropping-greenwashing-credits-and-expanding-ai-datacenters-caused-microsofts-25-percent-emissions-jump"
     },
     {
       "title": "China's Orca world model matches specialized robotics systems without ever seeing a single action label",
@@ -80,7 +101,7 @@ const FEED_DATA = {
     },
     {
       "title": "Meta pulls new AI image feature after days of backlash",
-      "summary": "Article URL: https://www.bbc.com/news/articles/c2dy6e8klw0o Comments URL: https://news.ycombinator.com/item?id=48867233 Points: 56 # Comments: 21",
+      "summary": "Article URL: https://www.bbc.com/news/articles/c2dy6e8klw0o Comments URL: https://news.ycombinator.com/item?id=48867233 Points: 56 # Comments: 22",
       "source": "Hacker News",
       "published": "2026-07-11T00:40:36+00:00",
       "link": "https://www.bbc.com/news/articles/c2dy6e8klw0o"
@@ -98,6 +119,13 @@ const FEED_DATA = {
       "source": "The Verge",
       "published": "2026-07-10T23:49:50+00:00",
       "link": "https://www.theverge.com/tech/964416/meta-instagram-ai-muse-image-deepfakes"
+    },
+    {
+      "title": "AI Can't Recreate the Thrust Game (But It Can Help You Understand It)",
+      "summary": "Article URL: https://www.jamesdrandall.com/posts/thrust_ai_powered_software_archaeology/ Comments URL: https://news.ycombinator.com/item?id=48865903 Points: 51 # Comments: 30",
+      "source": "Hacker News",
+      "published": "2026-07-10T22:04:45+00:00",
+      "link": "https://www.jamesdrandall.com/posts/thrust_ai_powered_software_archaeology/"
     },
     {
       "title": "Apple sues OpenAI for allegedly stealing hardware secrets",
@@ -122,7 +150,7 @@ const FEED_DATA = {
     },
     {
       "title": "GPT-5.6, Grok 4.5, Claude, and Muse Spark build the same 4 apps",
-      "summary": "Article URL: https://www.tryai.dev/blog/gpt-5.6-build-off-12-models Comments URL: https://news.ycombinator.com/item?id=48865093 Points: 151 # Comments: 84",
+      "summary": "Article URL: https://www.tryai.dev/blog/gpt-5.6-build-off-12-models Comments URL: https://news.ycombinator.com/item?id=48865093 Points: 155 # Comments: 86",
       "source": "Hacker News",
       "published": "2026-07-10T20:52:28+00:00",
       "link": "https://www.tryai.dev/blog/gpt-5.6-build-off-12-models"
@@ -143,14 +171,14 @@ const FEED_DATA = {
     },
     {
       "title": "How the terrorist group Boko Haram uses frontier AI",
-      "summary": "Article URL: https://casp.ac/reports/ai-enabled-terrorism Comments URL: https://news.ycombinator.com/item?id=48863707 Points: 225 # Comments: 192",
+      "summary": "Article URL: https://casp.ac/reports/ai-enabled-terrorism Comments URL: https://news.ycombinator.com/item?id=48863707 Points: 227 # Comments: 196",
       "source": "Hacker News",
       "published": "2026-07-10T18:49:26+00:00",
       "link": "https://casp.ac/reports/ai-enabled-terrorism"
     },
     {
       "title": "GPT-5.6 Sol Ultra produces proof of the Cycle Double Cover Conjecture [pdf]",
-      "summary": "https://x.com/__eknight__/status/2075643450196971805, https://xcancel.com/__eknight__/status/2075643450196971805Prompt: https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98... Comments URL: https://news.ycombinator.com/item?id=48863490 Points: 506 # Comments: 418",
+      "summary": "https://x.com/__eknight__/status/2075643450196971805, https://xcancel.com/__eknight__/status/2075643450196971805Prompt: https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98... Comments URL: https://news.ycombinator.com/item?id=48863490 Points: 516 # Comments: 426",
       "source": "Hacker News",
       "published": "2026-07-10T18:29:19+00:00",
       "link": "https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf"
@@ -178,7 +206,7 @@ const FEED_DATA = {
     },
     {
       "title": "Hands-On with the AMD Ryzen AI Halo",
-      "summary": "Article URL: https://www.microcenter.com/site/mc-news/article/amd-ryzen-ai-halo-review.aspx Comments URL: https://news.ycombinator.com/item?id=48861833 Points: 51 # Comments: 43",
+      "summary": "Article URL: https://www.microcenter.com/site/mc-news/article/amd-ryzen-ai-halo-review.aspx Comments URL: https://news.ycombinator.com/item?id=48861833 Points: 52 # Comments: 43",
       "source": "Hacker News",
       "published": "2026-07-10T16:06:38+00:00",
       "link": "https://www.microcenter.com/site/mc-news/article/amd-ryzen-ai-halo-review.aspx"
@@ -248,7 +276,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI-generated videos to maximally drive a target brain region",
-      "summary": "Article URL: https://nevo-project.epfl.ch/ Comments URL: https://news.ycombinator.com/item?id=48856904 Points: 286 # Comments: 235",
+      "summary": "Article URL: https://nevo-project.epfl.ch/ Comments URL: https://news.ycombinator.com/item?id=48856904 Points: 290 # Comments: 236",
       "source": "Hacker News",
       "published": "2026-07-10T07:39:11+00:00",
       "link": "https://nevo-project.epfl.ch/"
@@ -479,14 +507,14 @@ const FEED_DATA = {
     },
     {
       "title": "AI 2040: Plan A",
-      "summary": "Article URL: https://ai-2040.com/ Comments URL: https://news.ycombinator.com/item?id=48848425 Points: 372 # Comments: 482",
+      "summary": "Article URL: https://ai-2040.com/ Comments URL: https://news.ycombinator.com/item?id=48848425 Points: 382 # Comments: 498",
       "source": "Hacker News",
       "published": "2026-07-09T16:21:44+00:00",
       "link": "https://ai-2040.com/"
     },
     {
       "title": "AI content is everywhere on social media, especially LinkedIn",
-      "summary": "Article URL: https://www.pangram.com/blog/ai-in-your-feed Comments URL: https://news.ycombinator.com/item?id=48847940 Points: 244 # Comments: 215",
+      "summary": "Article URL: https://www.pangram.com/blog/ai-in-your-feed Comments URL: https://news.ycombinator.com/item?id=48847940 Points: 244 # Comments: 216",
       "source": "Hacker News",
       "published": "2026-07-09T15:50:09+00:00",
       "link": "https://www.pangram.com/blog/ai-in-your-feed"
@@ -514,7 +542,7 @@ const FEED_DATA = {
     },
     {
       "title": "The next era of AI is about infrastructure, not just models",
-      "summary": "Article URL: https://blog.mozilla.ai/the-control-layer-why-the-next-era-of-ai-is-about-infrastructure-not-just-models/ Comments URL: https://news.ycombinator.com/item?id=48846842 Points: 60 # Comments: 23",
+      "summary": "Article URL: https://blog.mozilla.ai/the-control-layer-why-the-next-era-of-ai-is-about-infrastructure-not-just-models/ Comments URL: https://news.ycombinator.com/item?id=48846842 Points: 61 # Comments: 24",
       "source": "Hacker News",
       "published": "2026-07-09T14:50:01+00:00",
       "link": "https://blog.mozilla.ai/the-control-layer-why-the-next-era-of-ai-is-about-infrastructure-not-just-models/"
@@ -1372,34 +1400,6 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-07-06T11:19:29+00:00",
       "link": "https://the-decoder.com/amazon-sunsets-mechanical-turk-the-original-artificial-artificial-intelligence/"
-    },
-    {
-      "title": "China’s AI companion rules: what Beijing is really going after",
-      "summary": "An AI companion sounds dystopian, but it has become a common thread in the wider conversation about the perils of generative AI.",
-      "source": "AI News",
-      "published": "2026-07-06T11:00:00+00:00",
-      "link": "https://www.artificialintelligence-news.com/news/china-ai-companion-rules/"
-    },
-    {
-      "title": "JADEPUFFER is the first agentic ransomware operation and it exposes old security sins at machine speed",
-      "summary": "Security firm Sysdig describes an extortion attack where a language model broke in on its own, stole credentials, and destroyed databases. No human appeared to be at the controls.",
-      "source": "The Decoder",
-      "published": "2026-07-06T10:04:02+00:00",
-      "link": "https://the-decoder.com/jadepuffer-is-the-first-agentic-ransomware-operation-and-it-exposes-old-security-sins-at-machine-speed/"
-    },
-    {
-      "title": "The Hitchhiker's Guide to Agentic AI",
-      "summary": "Article URL: https://arxiv.org/abs/2606.24937 Comments URL: https://news.ycombinator.com/item?id=48802156 Points: 51 # Comments: 4",
-      "source": "Hacker News",
-      "published": "2026-07-06T08:40:29+00:00",
-      "link": "https://arxiv.org/abs/2606.24937"
-    },
-    {
-      "title": "When AI Costs More Than the Engineer",
-      "summary": "Article URL: https://tomtunguz.com/ai-spend-breakeven-2029/ Comments URL: https://news.ycombinator.com/item?id=48801493 Points: 125 # Comments: 113",
-      "source": "Hacker News",
-      "published": "2026-07-06T07:05:25+00:00",
-      "link": "https://tomtunguz.com/ai-spend-breakeven-2029/"
     }
   ]
 };
