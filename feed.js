@@ -1,6 +1,34 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-07-12T14:26:28.108646+00:00",
+  "lastUpdated": "2026-07-12T17:54:44.366775+00:00",
   "items": [
+    {
+      "title": "LinkedIn is the undisputed king of long-form AI slop, according to a study spanning five platforms",
+      "summary": "One in four longer social media posts is entirely AI-generated, according to a Pangram analysis. LinkedIn leads with 41 percent of long-form posts flagged as AI-written.",
+      "source": "The Decoder",
+      "published": "2026-07-12T16:41:47+00:00",
+      "link": "https://the-decoder.com/linkedin-is-the-undisputed-king-of-long-form-ai-slop-according-to-a-study-spanning-five-platforms/"
+    },
+    {
+      "title": "Apple’s failed self-driving car program left a legacy of powerful AI chips",
+      "summary": "Apple's self-driving car program never really got off the ground, but it may have been what made the company's chips the powerful AI performers they are. Early in the development of the self-driving platform, Apple realized that it would need powerful on-device AI processing.",
+      "source": "The Verge",
+      "published": "2026-07-12T16:27:06+00:00",
+      "link": "https://www.theverge.com/tech/964519/apple-silicon-self-driving-car-ai-m7-ultra"
+    },
+    {
+      "title": "Claude Code now has a built-in browser that lets the AI read, click, and type on external websites",
+      "summary": "Claude Code now has a built-in browser that lets the AI open, read, and interact with web pages directly inside the development environment. Write actions on external sites are screened by classifiers, and purchases or account creations need user approval.",
+      "source": "The Decoder",
+      "published": "2026-07-12T15:02:06+00:00",
+      "link": "https://the-decoder.com/claude-code-now-has-a-built-in-browser-that-lets-the-ai-read-click-and-type-on-external-websites/"
+    },
+    {
+      "title": "AI Boosts Research Careers but Flattens Scientific Discovery",
+      "summary": "Article URL: https://spectrum.ieee.org/ai-science-research-flattens-discovery Comments URL: https://news.ycombinator.com/item?id=48881043 Points: 96 # Comments: 76",
+      "source": "Hacker News",
+      "published": "2026-07-12T13:26:13+00:00",
+      "link": "https://spectrum.ieee.org/ai-science-research-flattens-discovery"
+    },
     {
       "title": "The fight against AI data centers is just beginning",
       "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the data center buildout, follow Emma Roth.",
@@ -59,21 +87,21 @@ const FEED_DATA = {
     },
     {
       "title": "Mesh LLM: distributed AI computing on iroh",
-      "summary": "Article URL: https://www.iroh.computer/blog/mesh-llm Comments URL: https://news.ycombinator.com/item?id=48876505 Points: 294 # Comments: 69",
+      "summary": "Article URL: https://www.iroh.computer/blog/mesh-llm Comments URL: https://news.ycombinator.com/item?id=48876505 Points: 321 # Comments: 72",
       "source": "Hacker News",
       "published": "2026-07-11T22:38:57+00:00",
       "link": "https://www.iroh.computer/blog/mesh-llm"
     },
     {
       "title": "Stop Telling Me to Ask an LLM",
-      "summary": "Article URL: https://blog.yaelwrites.com/stop-telling-me-to-ask-an-llm/ Comments URL: https://news.ycombinator.com/item?id=48876441 Points: 183 # Comments: 104",
+      "summary": "Article URL: https://blog.yaelwrites.com/stop-telling-me-to-ask-an-llm/ Comments URL: https://news.ycombinator.com/item?id=48876441 Points: 186 # Comments: 108",
       "source": "Hacker News",
       "published": "2026-07-11T22:28:48+00:00",
       "link": "https://blog.yaelwrites.com/stop-telling-me-to-ask-an-llm/"
     },
     {
       "title": "AI 2040 and the cult of intelligence",
-      "summary": "Article URL: https://geohot.github.io//blog/jekyll/update/2026/07/11/ai-2040.html Comments URL: https://news.ycombinator.com/item?id=48874200 Points: 207 # Comments: 251",
+      "summary": "Article URL: https://geohot.github.io//blog/jekyll/update/2026/07/11/ai-2040.html Comments URL: https://news.ycombinator.com/item?id=48874200 Points: 213 # Comments: 255",
       "source": "Hacker News",
       "published": "2026-07-11T18:04:01+00:00",
       "link": "https://geohot.github.io//blog/jekyll/update/2026/07/11/ai-2040.html"
@@ -87,7 +115,7 @@ const FEED_DATA = {
     },
     {
       "title": "Reverse centaurs are the answer to the AI paradox (2025)",
-      "summary": "Article URL: https://pluralistic.net/2025/09/11/vulgar-thatcherism/#there-is-an-alternative Comments URL: https://news.ycombinator.com/item?id=48873855 Points: 107 # Comments: 67",
+      "summary": "Article URL: https://pluralistic.net/2025/09/11/vulgar-thatcherism/#there-is-an-alternative Comments URL: https://news.ycombinator.com/item?id=48873855 Points: 107 # Comments: 68",
       "source": "Hacker News",
       "published": "2026-07-11T17:23:52+00:00",
       "link": "https://pluralistic.net/2025/09/11/vulgar-thatcherism/#there-is-an-alternative"
@@ -108,7 +136,7 @@ const FEED_DATA = {
     },
     {
       "title": "Ghost Font: A font that humans can read but AI cannot",
-      "summary": "Article URL: https://www.mixfont.com/ghost-font Comments URL: https://news.ycombinator.com/item?id=48870381 Points: 224 # Comments: 164",
+      "summary": "Article URL: https://www.mixfont.com/ghost-font Comments URL: https://news.ycombinator.com/item?id=48870381 Points: 226 # Comments: 169",
       "source": "Hacker News",
       "published": "2026-07-11T09:36:53+00:00",
       "link": "https://www.mixfont.com/ghost-font"
@@ -206,7 +234,7 @@ const FEED_DATA = {
     },
     {
       "title": "GPT-5.6, Grok 4.5, Claude, and Muse Spark build the same 4 apps",
-      "summary": "Article URL: https://www.tryai.dev/blog/gpt-5.6-build-off-12-models Comments URL: https://news.ycombinator.com/item?id=48865093 Points: 155 # Comments: 86",
+      "summary": "Article URL: https://www.tryai.dev/blog/gpt-5.6-build-off-12-models Comments URL: https://news.ycombinator.com/item?id=48865093 Points: 156 # Comments: 86",
       "source": "Hacker News",
       "published": "2026-07-10T20:52:28+00:00",
       "link": "https://www.tryai.dev/blog/gpt-5.6-build-off-12-models"
@@ -227,14 +255,14 @@ const FEED_DATA = {
     },
     {
       "title": "How the terrorist group Boko Haram uses frontier AI",
-      "summary": "Article URL: https://casp.ac/reports/ai-enabled-terrorism Comments URL: https://news.ycombinator.com/item?id=48863707 Points: 227 # Comments: 201",
+      "summary": "Article URL: https://casp.ac/reports/ai-enabled-terrorism Comments URL: https://news.ycombinator.com/item?id=48863707 Points: 229 # Comments: 202",
       "source": "Hacker News",
       "published": "2026-07-10T18:49:26+00:00",
       "link": "https://casp.ac/reports/ai-enabled-terrorism"
     },
     {
       "title": "GPT-5.6 Sol Ultra produces proof of the Cycle Double Cover Conjecture [pdf]",
-      "summary": "https://x.com/__eknight__/status/2075643450196971805, https://xcancel.com/__eknight__/status/2075643450196971805Prompt: https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98... Comments URL: https://news.ycombinator.com/item?id=48863490 Points: 524 # Comments: 430",
+      "summary": "https://x.com/__eknight__/status/2075643450196971805, https://xcancel.com/__eknight__/status/2075643450196971805Prompt: https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98... Comments URL: https://news.ycombinator.com/item?id=48863490 Points: 526 # Comments: 431",
       "source": "Hacker News",
       "published": "2026-07-10T18:29:19+00:00",
       "link": "https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf"
@@ -563,7 +591,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI 2040: Plan A",
-      "summary": "Article URL: https://ai-2040.com/ Comments URL: https://news.ycombinator.com/item?id=48848425 Points: 386 # Comments: 502",
+      "summary": "Article URL: https://ai-2040.com/ Comments URL: https://news.ycombinator.com/item?id=48848425 Points: 388 # Comments: 504",
       "source": "Hacker News",
       "published": "2026-07-09T16:21:44+00:00",
       "link": "https://ai-2040.com/"
@@ -1372,34 +1400,6 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-07-06T17:04:58+00:00",
       "link": "https://techcrunch.com/2026/07/06/if-you-use-google-youre-training-its-ai-heres-how-to-opt-out/"
-    },
-    {
-      "title": "OfficeCLI: Office suite for AI agents to read and edit Microsoft Office files",
-      "summary": "Article URL: https://github.com/iOfficeAI/OfficeCLI Comments URL: https://news.ycombinator.com/item?id=48807225 Points: 214 # Comments: 63",
-      "source": "Hacker News",
-      "published": "2026-07-06T16:47:44+00:00",
-      "link": "https://github.com/iOfficeAI/OfficeCLI"
-    },
-    {
-      "title": "The AI Superforecasters Are Here",
-      "summary": "Article URL: https://www.astralcodexten.com/p/the-ai-superforecasters-are-here Comments URL: https://news.ycombinator.com/item?id=48806296 Points: 58 # Comments: 56",
-      "source": "Hacker News",
-      "published": "2026-07-06T15:45:11+00:00",
-      "link": "https://www.astralcodexten.com/p/the-ai-superforecasters-are-here"
-    },
-    {
-      "title": "Microsoft lays off nearly 5,000 employees across Xbox, commercial sales",
-      "summary": "Microsoft cut around 4,800 roles, or 2.1% of its global workforce, on Monday — the latest in a series of layoffs that’s stoking fears of AI replacing jobs. The layoffs will hit Xbox and commercial sales the hardest.",
-      "source": "TechCrunch",
-      "published": "2026-07-06T15:32:43+00:00",
-      "link": "https://techcrunch.com/2026/07/06/microsoft-lays-off-nearly-5000-employees-across-xbox-commercial-sales/"
-    },
-    {
-      "title": "Reddit is using LLMs to solve a problem LLMs largely created",
-      "summary": "In the AI era, platforms have no choice but to fight fire with fire to cull spam.",
-      "source": "TechCrunch",
-      "published": "2026-07-06T15:22:08+00:00",
-      "link": "https://techcrunch.com/2026/07/06/reddit-is-using-llms-to-solve-a-problem-llms-largely-created/"
     }
   ]
 };
