@@ -1,6 +1,41 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-07-13T18:28:19.369953+00:00",
+  "lastUpdated": "2026-07-13T21:48:01.314351+00:00",
   "items": [
+    {
+      "title": "Siri AI Is Becoming Apple’s Everything Tool",
+      "summary": "Apple’s revamped Siri is more than a voice assistant; it’s now the backbone of the iPhone user experience. You can try it now through the iOS 27 public beta.",
+      "source": "Wired",
+      "published": "2026-07-13T21:39:09+00:00",
+      "link": "https://www.wired.com/story/siri-ai-is-now-apple-everything-tool/"
+    },
+    {
+      "title": "Satya Nadella has issued a shocking warning to companies using AI",
+      "summary": "Of all the debates raging about the potential downsides of AI, there is one worry causing the most hand-wringing among AI enthusiasts in Silicon Valley — that the giant AI labs that sell proprietary models are somehow acting like Trojan horses.",
+      "source": "TechCrunch",
+      "published": "2026-07-13T20:59:00+00:00",
+      "link": "https://techcrunch.com/2026/07/13/satya-nadella-has-issued-a-shocking-warning-to-companies-using-ai/"
+    },
+    {
+      "title": "Siri AI is already changing how I use my iPhone",
+      "summary": "iOS 27 escaped the developer world today with the launch of the first public beta. I've been testing the new operating system since early June, looking for quirks and seeing if it can live up to the hype Apple promised in the keynote.",
+      "source": "The Verge",
+      "published": "2026-07-13T20:43:20+00:00",
+      "link": "https://www.theverge.com/tech/964714/siri-ai-public-beta-preview-ios-27-hands-on"
+    },
+    {
+      "title": "Samsung will delete your health data if you don't let them use it to train AI",
+      "summary": "Article URL: https://neow.in/cWsyMTV3 Comments URL: https://news.ycombinator.com/item?id=48897991 Points: 132 # Comments: 32",
+      "source": "Hacker News",
+      "published": "2026-07-13T20:01:43+00:00",
+      "link": "https://neow.in/cWsyMTV3"
+    },
+    {
+      "title": "AI Is a Bad Tool",
+      "summary": "Article URL: https://bytecode.news/posts/2026/07/user-submission-ai-is-a-bad-tool Comments URL: https://news.ycombinator.com/item?id=48897861 Points: 65 # Comments: 82",
+      "source": "Hacker News",
+      "published": "2026-07-13T19:51:15+00:00",
+      "link": "https://bytecode.news/posts/2026/07/user-submission-ai-is-a-bad-tool"
+    },
     {
       "title": "The wildest allegations in Apple’s trade secrets lawsuit against OpenAI",
       "summary": "Apple’s trade secrets lawsuit against OpenAI contains allegations that range from employees joking about unauthorized access to Apple’s systems to claims that job candidates were asked to bring Apple hardware to interviews. Here are the complaint’s most eye-catching claims.",
@@ -142,8 +177,15 @@ const FEED_DATA = {
       "link": "https://www.theverge.com/ai-artificial-intelligence/964539/lorde-says-ray-ban-meta-ai-glasses-are-not-sexy"
     },
     {
+      "title": "The One-Step Trap (In AI Research)",
+      "summary": "Article URL: http://incompleteideas.net/IncIdeas/OneStepTrap.html Comments URL: https://news.ycombinator.com/item?id=48883415 Points: 53 # Comments: 10",
+      "source": "Hacker News",
+      "published": "2026-07-12T18:41:15+00:00",
+      "link": "http://incompleteideas.net/IncIdeas/OneStepTrap.html"
+    },
+    {
       "title": "Migrating a production AI agent to GPT-5.6: 2.2x faster, 27% cheaper",
-      "summary": "Article URL: https://ploy.ai/blog/migrating-a-production-ai-agent-to-gpt-5-6 Comments URL: https://news.ycombinator.com/item?id=48882716 Points: 198 # Comments: 86",
+      "summary": "Article URL: https://ploy.ai/blog/migrating-a-production-ai-agent-to-gpt-5-6 Comments URL: https://news.ycombinator.com/item?id=48882716 Points: 252 # Comments: 125",
       "source": "Hacker News",
       "published": "2026-07-12T17:13:07+00:00",
       "link": "https://ploy.ai/blog/migrating-a-production-ai-agent-to-gpt-5-6"
@@ -171,7 +213,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI boosts research careers but narrow the span of ideas explored: study",
-      "summary": "Article URL: https://spectrum.ieee.org/ai-science-research-flattens-discovery Comments URL: https://news.ycombinator.com/item?id=48881043 Points: 145 # Comments: 103",
+      "summary": "Article URL: https://spectrum.ieee.org/ai-science-research-flattens-discovery Comments URL: https://news.ycombinator.com/item?id=48881043 Points: 154 # Comments: 105",
       "source": "Hacker News",
       "published": "2026-07-12T13:26:13+00:00",
       "link": "https://spectrum.ieee.org/ai-science-research-flattens-discovery"
@@ -241,21 +283,21 @@ const FEED_DATA = {
     },
     {
       "title": "Mesh LLM: distributed AI computing on iroh",
-      "summary": "Article URL: https://www.iroh.computer/blog/mesh-llm Comments URL: https://news.ycombinator.com/item?id=48876505 Points: 339 # Comments: 85",
+      "summary": "Article URL: https://www.iroh.computer/blog/mesh-llm Comments URL: https://news.ycombinator.com/item?id=48876505 Points: 343 # Comments: 92",
       "source": "Hacker News",
       "published": "2026-07-11T22:38:57+00:00",
       "link": "https://www.iroh.computer/blog/mesh-llm"
     },
     {
       "title": "Stop Telling Me to Ask an LLM",
-      "summary": "Article URL: https://blog.yaelwrites.com/stop-telling-me-to-ask-an-llm/ Comments URL: https://news.ycombinator.com/item?id=48876441 Points: 199 # Comments: 118",
+      "summary": "Article URL: https://blog.yaelwrites.com/stop-telling-me-to-ask-an-llm/ Comments URL: https://news.ycombinator.com/item?id=48876441 Points: 233 # Comments: 132",
       "source": "Hacker News",
       "published": "2026-07-11T22:28:48+00:00",
       "link": "https://blog.yaelwrites.com/stop-telling-me-to-ask-an-llm/"
     },
     {
       "title": "AI 2040 and the cult of intelligence",
-      "summary": "Article URL: https://geohot.github.io//blog/jekyll/update/2026/07/11/ai-2040.html Comments URL: https://news.ycombinator.com/item?id=48874200 Points: 221 # Comments: 261",
+      "summary": "Article URL: https://geohot.github.io//blog/jekyll/update/2026/07/11/ai-2040.html Comments URL: https://news.ycombinator.com/item?id=48874200 Points: 228 # Comments: 263",
       "source": "Hacker News",
       "published": "2026-07-11T18:04:01+00:00",
       "link": "https://geohot.github.io//blog/jekyll/update/2026/07/11/ai-2040.html"
@@ -269,7 +311,7 @@ const FEED_DATA = {
     },
     {
       "title": "Reverse centaurs are the answer to the AI paradox (2025)",
-      "summary": "Article URL: https://pluralistic.net/2025/09/11/vulgar-thatcherism/#there-is-an-alternative Comments URL: https://news.ycombinator.com/item?id=48873855 Points: 109 # Comments: 70",
+      "summary": "Article URL: https://pluralistic.net/2025/09/11/vulgar-thatcherism/#there-is-an-alternative Comments URL: https://news.ycombinator.com/item?id=48873855 Points: 112 # Comments: 72",
       "source": "Hacker News",
       "published": "2026-07-11T17:23:52+00:00",
       "link": "https://pluralistic.net/2025/09/11/vulgar-thatcherism/#there-is-an-alternative"
@@ -290,7 +332,7 @@ const FEED_DATA = {
     },
     {
       "title": "Ghost Font: A font that humans can read but AI cannot",
-      "summary": "Article URL: https://www.mixfont.com/ghost-font Comments URL: https://news.ycombinator.com/item?id=48870381 Points: 232 # Comments: 170",
+      "summary": "Article URL: https://www.mixfont.com/ghost-font Comments URL: https://news.ycombinator.com/item?id=48870381 Points: 235 # Comments: 171",
       "source": "Hacker News",
       "published": "2026-07-11T09:36:53+00:00",
       "link": "https://www.mixfont.com/ghost-font"
@@ -339,7 +381,7 @@ const FEED_DATA = {
     },
     {
       "title": "Meta pulls new AI image feature after days of backlash",
-      "summary": "Article URL: https://www.bbc.com/news/articles/c2dy6e8klw0o Comments URL: https://news.ycombinator.com/item?id=48867233 Points: 56 # Comments: 22",
+      "summary": "Article URL: https://www.bbc.com/news/articles/c2dy6e8klw0o Comments URL: https://news.ycombinator.com/item?id=48867233 Points: 57 # Comments: 22",
       "source": "Hacker News",
       "published": "2026-07-11T00:40:36+00:00",
       "link": "https://www.bbc.com/news/articles/c2dy6e8klw0o"
@@ -388,7 +430,7 @@ const FEED_DATA = {
     },
     {
       "title": "GPT-5.6, Grok 4.5, Claude, and Muse Spark build the same 4 apps",
-      "summary": "Article URL: https://www.tryai.dev/blog/gpt-5.6-build-off-12-models Comments URL: https://news.ycombinator.com/item?id=48865093 Points: 157 # Comments: 86",
+      "summary": "Article URL: https://www.tryai.dev/blog/gpt-5.6-build-off-12-models Comments URL: https://news.ycombinator.com/item?id=48865093 Points: 159 # Comments: 86",
       "source": "Hacker News",
       "published": "2026-07-10T20:52:28+00:00",
       "link": "https://www.tryai.dev/blog/gpt-5.6-build-off-12-models"
@@ -409,14 +451,14 @@ const FEED_DATA = {
     },
     {
       "title": "How the terrorist group Boko Haram uses frontier AI",
-      "summary": "Article URL: https://casp.ac/reports/ai-enabled-terrorism Comments URL: https://news.ycombinator.com/item?id=48863707 Points: 229 # Comments: 206",
+      "summary": "Article URL: https://casp.ac/reports/ai-enabled-terrorism Comments URL: https://news.ycombinator.com/item?id=48863707 Points: 231 # Comments: 207",
       "source": "Hacker News",
       "published": "2026-07-10T18:49:26+00:00",
       "link": "https://casp.ac/reports/ai-enabled-terrorism"
     },
     {
       "title": "GPT-5.6 Sol Ultra produces proof of the Cycle Double Cover Conjecture [pdf]",
-      "summary": "https://x.com/__eknight__/status/2075643450196971805, https://xcancel.com/__eknight__/status/2075643450196971805Prompt: https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98... Comments URL: https://news.ycombinator.com/item?id=48863490 Points: 532 # Comments: 433",
+      "summary": "https://x.com/__eknight__/status/2075643450196971805, https://xcancel.com/__eknight__/status/2075643450196971805Prompt: https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98... Comments URL: https://news.ycombinator.com/item?id=48863490 Points: 534 # Comments: 436",
       "source": "Hacker News",
       "published": "2026-07-10T18:29:19+00:00",
       "link": "https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf"
@@ -444,7 +486,7 @@ const FEED_DATA = {
     },
     {
       "title": "Hands-On with the AMD Ryzen AI Halo",
-      "summary": "Article URL: https://www.microcenter.com/site/mc-news/article/amd-ryzen-ai-halo-review.aspx Comments URL: https://news.ycombinator.com/item?id=48861833 Points: 52 # Comments: 43",
+      "summary": "Article URL: https://www.microcenter.com/site/mc-news/article/amd-ryzen-ai-halo-review.aspx Comments URL: https://news.ycombinator.com/item?id=48861833 Points: 54 # Comments: 43",
       "source": "Hacker News",
       "published": "2026-07-10T16:06:38+00:00",
       "link": "https://www.microcenter.com/site/mc-news/article/amd-ryzen-ai-halo-review.aspx"
@@ -514,7 +556,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI-generated videos to maximally drive a target brain region",
-      "summary": "Article URL: https://nevo-project.epfl.ch/ Comments URL: https://news.ycombinator.com/item?id=48856904 Points: 294 # Comments: 240",
+      "summary": "Article URL: https://nevo-project.epfl.ch/ Comments URL: https://news.ycombinator.com/item?id=48856904 Points: 296 # Comments: 243",
       "source": "Hacker News",
       "published": "2026-07-10T07:39:11+00:00",
       "link": "https://nevo-project.epfl.ch/"
@@ -1358,48 +1400,6 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-07-07T12:00:00+00:00",
       "link": "https://techcrunch.com/2026/07/07/savis-app-aims-to-protect-consumers-from-realistic-ai-scams-like-kidnappers-demanding-ransom/"
-    },
-    {
-      "title": "Chinese AI models regularly pass 30 percent on OpenRouter as cost gap widens",
-      "summary": "Chinese AI models are gaining ground with US companies because they cost far less than systems from OpenAI and Anthropic, CNBC reports. The article Chinese AI models regularly pass 30 percent on OpenRouter as cost gap widens appeared first on The Decoder.",
-      "source": "The Decoder",
-      "published": "2026-07-07T11:34:52+00:00",
-      "link": "https://the-decoder.com/chinese-ai-models-regularly-pass-30-percent-on-openrouter-as-cost-gap-widens/"
-    },
-    {
-      "title": "The foundational elements of AI architecture that IT leaders need to scale",
-      "summary": "With the rapid progress of AI capabilities and the move to agentic systems, organizations are expanding their use cases as the technology continues to grow.",
-      "source": "MIT Tech Review",
-      "published": "2026-07-07T11:10:52+00:00",
-      "link": "https://www.technologyreview.com/2026/07/07/1139413/the-foundational-elements-of-ai-architecture-that-it-leaders-need-to-scale/"
-    },
-    {
-      "title": "Deepseek is designing its own AI chip",
-      "summary": "Chinese startup Deepseek is building its own AI chip, Reuters reports. The article Deepseek is designing its own AI chip appeared first on The Decoder.",
-      "source": "The Decoder",
-      "published": "2026-07-07T11:04:34+00:00",
-      "link": "https://the-decoder.com/deepseek-is-designing-its-own-ai-chip/"
-    },
-    {
-      "title": "Beijing is looking at curbing overseas access to China's top AI models",
-      "summary": "Article URL: https://www.reuters.com/world/beijing-is-looking-curbing-overseas-access-chinas-top-ai-models-sources-say-2026-07-07/ Comments URL: https://news.ycombinator.com/item?id=48816025 Points: 61 # Comments: 11",
-      "source": "Hacker News",
-      "published": "2026-07-07T10:51:07+00:00",
-      "link": "https://www.reuters.com/world/beijing-is-looking-curbing-overseas-access-chinas-top-ai-models-sources-say-2026-07-07/"
-    },
-    {
-      "title": "OpenAI and Anthropic are giving away millions in computing power to attract startups",
-      "summary": "OpenAI, Anthropic, and major cloud providers are racing to outbid each other with free compute credits to pull startups into their ecosystems. Some individual offers top $3 million.",
-      "source": "The Decoder",
-      "published": "2026-07-07T10:44:35+00:00",
-      "link": "https://the-decoder.com/openai-and-anthropic-are-giving-away-millions-in-computing-power-to-attract-startups/"
-    },
-    {
-      "title": "Apollo economist warns AI profit gains outside tech could take \"well beyond\" what Wall Street expects",
-      "summary": "Apollo chief economist Torsten Slok sees no AI-driven margin gains outside tech. In regulated industries like healthcare, banking, or pharma, process overhauls and privacy rules could delay productivity boosts by years.",
-      "source": "The Decoder",
-      "published": "2026-07-07T10:28:57+00:00",
-      "link": "https://the-decoder.com/apollo-economist-warns-ai-profit-gains-outside-tech-could-take-well-beyond-what-wall-street-expects/"
     }
   ]
 };
