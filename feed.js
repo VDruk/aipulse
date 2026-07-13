@@ -1,12 +1,75 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-07-13T15:42:52.236002+00:00",
+  "lastUpdated": "2026-07-13T18:28:19.369953+00:00",
   "items": [
+    {
+      "title": "The wildest allegations in Apple’s trade secrets lawsuit against OpenAI",
+      "summary": "Apple’s trade secrets lawsuit against OpenAI contains allegations that range from employees joking about unauthorized access to Apple’s systems to claims that job candidates were asked to bring Apple hardware to interviews. Here are the complaint’s most eye-catching claims.",
+      "source": "TechCrunch",
+      "published": "2026-07-13T18:22:10+00:00",
+      "link": "https://techcrunch.com/2026/07/13/the-wildest-allegations-in-apples-trade-secrets-lawsuit-against-openai/"
+    },
+    {
+      "title": "What Anthropic’s latest AI discovery does—and doesn’t—show",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here.",
+      "source": "MIT Tech Review",
+      "published": "2026-07-13T18:00:00+00:00",
+      "link": "https://www.technologyreview.com/2026/07/13/1140343/what-anthropics-latest-ai-discovery-does-and-doesnt-show/"
+    },
+    {
+      "title": "OpenAI's new prompting guide tells users to stop overthinking and start with the result",
+      "summary": "OpenAI has released a prompting guide for everyday users, not developers. Instead of rigid formulas, it suggests four optional building blocks: goal, context, format, and constraints.",
+      "source": "The Decoder",
+      "published": "2026-07-13T17:47:39+00:00",
+      "link": "https://the-decoder.com/openais-new-prompting-guide-tells-users-to-stop-overthinking-and-start-with-the-result/"
+    },
+    {
+      "title": "Sam Altman’s space data center trash talk is what most experts already believe",
+      "summary": "Responding to Musk accusing him of being a scammer, Altman said, \"homeboy you're the one sellling [sic] public market investors on short-term space datacenters.\"",
+      "source": "TechCrunch",
+      "published": "2026-07-13T17:28:37+00:00",
+      "link": "https://techcrunch.com/2026/07/13/sam-altmans-space-data-center-trash-talk-is-what-most-experts-already-believe/"
+    },
+    {
+      "title": "Turing Award winner Rich Sutton founds Oak Lab to build AI agents that learn on their own",
+      "summary": "Richard Sutton, 2024 Turing Award winner and co-founder of modern reinforcement learning, has launched a new startup called Oak Lab in Toronto.",
+      "source": "The Decoder",
+      "published": "2026-07-13T17:15:58+00:00",
+      "link": "https://the-decoder.com/turing-award-winner-rich-sutton-founds-oak-lab-to-build-ai-agents-that-learn-on-their-own/"
+    },
+    {
+      "title": "The 6 wildest claims in Apple’s lawsuit against OpenAI",
+      "summary": "When Apple employees interviewed for jobs at OpenAI, the AI startup's hardware head allegedly asked them to show up with something unusual: components they were working on and unreleased product samples.",
+      "source": "The Verge",
+      "published": "2026-07-13T17:00:00+00:00",
+      "link": "https://www.theverge.com/tech/964843/apple-openai-lawsuit-wildest-claims"
+    },
+    {
+      "title": "Should AI help you get away with killing your spouse?",
+      "summary": "What does a world of total user-aligned AI actually look like?",
+      "source": "TechCrunch",
+      "published": "2026-07-13T16:31:23+00:00",
+      "link": "https://techcrunch.com/2026/07/13/should-ai-help-you-get-away-with-killing-your-spouse/"
+    },
+    {
+      "title": "Nobel laureates and AI leaders warn the window to prepare for AI's economic impact is closing fast",
+      "summary": "More than 200 economists and AI researchers, including 16 Nobel laureates and representatives from Google, OpenAI, and Anthropic, are calling for immediate action in a coordinated statement.",
+      "source": "The Decoder",
+      "published": "2026-07-13T16:00:24+00:00",
+      "link": "https://the-decoder.com/nobel-laureates-and-ai-leaders-warn-the-window-to-prepare-for-ais-economic-impact-is-closing-fast/"
+    },
     {
       "title": "Anthropic starts localizing Claude pricing for India, its biggest market after the US",
       "summary": "Claude users in India are starting to see Indian rupee-denominated subscription plans.",
       "source": "TechCrunch",
       "published": "2026-07-13T15:34:59+00:00",
       "link": "https://techcrunch.com/2026/07/13/anthropic-starts-localizing-claude-pricing-for-india-its-biggest-market-after-the-us/"
+    },
+    {
+      "title": "Now, defenders are embracing the prompt injection, too",
+      "summary": "\"Context bombing\" tricks hacking agents into shutting down before they can do harm.",
+      "source": "Ars Technica",
+      "published": "2026-07-13T15:06:34+00:00",
+      "link": "https://arstechnica.com/security/2026/07/now-defenders-are-embracing-the-prompt-injection-too/"
     },
     {
       "title": "Nadella calls out AI labs like OpenAI and Anthropic for banning distillation while training on everyone else's data",
@@ -73,7 +136,7 @@ const FEED_DATA = {
     },
     {
       "title": "Lorde says Ray-Ban Meta AI glasses are ‘not sexy’",
-      "summary": "Lorde was performing at the Real Cool Festival in Madrid on Thursday and took some time during her set to speak out against AI glasses.",
+      "summary": "Lorde was performing at the Mad Cool Festival in Madrid on Thursday and took some time during her set to speak out against AI glasses.",
       "source": "The Verge",
       "published": "2026-07-12T20:10:19+00:00",
       "link": "https://www.theverge.com/ai-artificial-intelligence/964539/lorde-says-ray-ban-meta-ai-glasses-are-not-sexy"
@@ -1337,69 +1400,6 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-07-07T10:28:57+00:00",
       "link": "https://the-decoder.com/apollo-economist-warns-ai-profit-gains-outside-tech-could-take-well-beyond-what-wall-street-expects/"
-    },
-    {
-      "title": "L’Oreal, Mondelez, and Nestle use AI to speed product development",
-      "summary": "L’Oreal is using AI to shorten product development timelines and identify new uses for ingredients already present in its portfolio.",
-      "source": "AI News",
-      "published": "2026-07-07T10:00:00+00:00",
-      "link": "https://www.artificialintelligence-news.com/news/ai-product-development-loreal-mondelez-nestle/"
-    },
-    {
-      "title": "Why worms (and microbes) are catching on as a manure pollution solution",
-      "summary": "Anthony Agueda, a third-generation California dairy farmer, pulls a rake through a bed of dark, wet wood chips on his family’s land in Hickman, a tiny town in the state’s agricultural heartland.",
-      "source": "MIT Tech Review",
-      "published": "2026-07-07T10:00:00+00:00",
-      "link": "https://www.technologyreview.com/2026/07/07/1140142/why-worms-and-microbes-are-catching-on-as-a-manure-pollution-solution/"
-    },
-    {
-      "title": "Erling Haaland Is Everywhere at the World Cup. Most of It Is AI",
-      "summary": "Norwegian striker Erling Haaland isn’t just a footballer anymore. He’s become an internet character perpetuated by fans and AI.",
-      "source": "Wired",
-      "published": "2026-07-07T10:00:00+00:00",
-      "link": "https://www.wired.com/story/erling-haaland-is-everywhere-at-the-world-cup-most-of-it-is-ai/"
-    },
-    {
-      "title": "British Space Startup Launches Longevity Lab Into Orbit",
-      "summary": "The lab will beam back data to train AI models to predict how proteins behind age-related diseases like Alzheimer’s and certain cancers behave.",
-      "source": "Wired",
-      "published": "2026-07-07T09:57:12+00:00",
-      "link": "https://www.wired.com/story/british-space-startup-launches-longevity-lab-into-orbit/"
-    },
-    {
-      "title": "The first American autonomous ground vehicles are fighting in Ukraine",
-      "summary": "Forterra has deployed more than 100 of its self-driving ATVs in conflict zones in Ukraine.",
-      "source": "TechCrunch",
-      "published": "2026-07-07T09:00:00+00:00",
-      "link": "https://techcrunch.com/2026/07/07/the-first-american-autonomous-ground-vehicles-are-fighting-in-ukraine/"
-    },
-    {
-      "title": "YC CEO says he ships 37K LoC AI code per day. A developer looked under the hood",
-      "summary": "Article URL: https://www.fastcompany.com/91520702/y-combinator-garry-tan-agentic-ai-social-media Comments URL: https://news.ycombinator.com/item?id=48815117 Points: 111 # Comments: 97",
-      "source": "Hacker News",
-      "published": "2026-07-07T08:39:51+00:00",
-      "link": "https://www.fastcompany.com/91520702/y-combinator-garry-tan-agentic-ai-social-media"
-    },
-    {
-      "title": "Small AI Models Gain Traction In places with unreliable networks",
-      "summary": "Article URL: https://spectrum.ieee.org/small-language-models-ai-pharmaceuticals Comments URL: https://news.ycombinator.com/item?id=48812055 Points: 272 # Comments: 80",
-      "source": "Hacker News",
-      "published": "2026-07-06T23:59:54+00:00",
-      "link": "https://spectrum.ieee.org/small-language-models-ai-pharmaceuticals"
-    },
-    {
-      "title": "The ‘first’ AI-run ransomware attack still needed a human",
-      "summary": "An AI agent carried out the technical execution of a real-world ransomware attack for the first known time, but new details show a human still chose the victim, set up the infrastructure, and supplied stolen credentials — meaning it wasn't quite the fully autonomous cybercrime...",
-      "source": "TechCrunch",
-      "published": "2026-07-06T23:56:14+00:00",
-      "link": "https://techcrunch.com/2026/07/06/the-first-ai-run-ransomware-attack-still-needed-a-human/"
-    },
-    {
-      "title": "US investors will soon get access to SK Hynix, another memory maker riding the AI boom",
-      "summary": "SK Hynix is experiencing a boom credited to AI. It will ride that to a multibillion-dollar U.S.",
-      "source": "TechCrunch",
-      "published": "2026-07-06T23:21:03+00:00",
-      "link": "https://techcrunch.com/2026/07/06/us-investors-will-soon-get-access-to-sk-hynix-another-memory-maker-riding-the-ai-boom/"
     }
   ]
 };
