@@ -1,6 +1,13 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-07-13T04:28:32.469276+00:00",
+  "lastUpdated": "2026-07-13T08:18:15.864878+00:00",
   "items": [
+    {
+      "title": "Anthropic extends free Fable 5 access for subscribers as OpenAI's GPT-5.6 Sol heats up the pricing war",
+      "summary": "Anthropic is keeping Claude Fable 5 in its subscription plans through July 19, 2026. The model was supposed to switch to pay-per-use today.",
+      "source": "The Decoder",
+      "published": "2026-07-13T07:54:34+00:00",
+      "link": "https://the-decoder.com/anthropic-extends-free-fable-5-access-for-subscribers-as-openais-gpt-5-6-sol-heats-up-the-pricing-war/"
+    },
     {
       "title": "Ask HN: Add flag for AI-generated articles",
       "summary": "Should HN add the ability to flag articles as AI-generated? This doesn't have to act as a regular flag, i.e., it won't de-rank the article; it could just show up as an indicator, allowing others (like myself) who don't like reading AI-generated text, to skip it.Open questions:1.",
@@ -17,7 +24,7 @@ const FEED_DATA = {
     },
     {
       "title": "Migrating a production AI agent to GPT-5.6: 2.2x faster, 27% cheaper",
-      "summary": "Article URL: https://ploy.ai/blog/migrating-a-production-ai-agent-to-gpt-5-6 Comments URL: https://news.ycombinator.com/item?id=48882716 Points: 160 # Comments: 60",
+      "summary": "Article URL: https://ploy.ai/blog/migrating-a-production-ai-agent-to-gpt-5-6 Comments URL: https://news.ycombinator.com/item?id=48882716 Points: 198 # Comments: 86",
       "source": "Hacker News",
       "published": "2026-07-12T17:13:07+00:00",
       "link": "https://ploy.ai/blog/migrating-a-production-ai-agent-to-gpt-5-6"
@@ -45,7 +52,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI boosts research careers but narrow the span of ideas explored: study",
-      "summary": "Article URL: https://spectrum.ieee.org/ai-science-research-flattens-discovery Comments URL: https://news.ycombinator.com/item?id=48881043 Points: 143 # Comments: 101",
+      "summary": "Article URL: https://spectrum.ieee.org/ai-science-research-flattens-discovery Comments URL: https://news.ycombinator.com/item?id=48881043 Points: 145 # Comments: 103",
       "source": "Hacker News",
       "published": "2026-07-12T13:26:13+00:00",
       "link": "https://spectrum.ieee.org/ai-science-research-flattens-discovery"
@@ -115,21 +122,21 @@ const FEED_DATA = {
     },
     {
       "title": "Mesh LLM: distributed AI computing on iroh",
-      "summary": "Article URL: https://www.iroh.computer/blog/mesh-llm Comments URL: https://news.ycombinator.com/item?id=48876505 Points: 337 # Comments: 79",
+      "summary": "Article URL: https://www.iroh.computer/blog/mesh-llm Comments URL: https://news.ycombinator.com/item?id=48876505 Points: 339 # Comments: 85",
       "source": "Hacker News",
       "published": "2026-07-11T22:38:57+00:00",
       "link": "https://www.iroh.computer/blog/mesh-llm"
     },
     {
       "title": "Stop Telling Me to Ask an LLM",
-      "summary": "Article URL: https://blog.yaelwrites.com/stop-telling-me-to-ask-an-llm/ Comments URL: https://news.ycombinator.com/item?id=48876441 Points: 193 # Comments: 114",
+      "summary": "Article URL: https://blog.yaelwrites.com/stop-telling-me-to-ask-an-llm/ Comments URL: https://news.ycombinator.com/item?id=48876441 Points: 199 # Comments: 118",
       "source": "Hacker News",
       "published": "2026-07-11T22:28:48+00:00",
       "link": "https://blog.yaelwrites.com/stop-telling-me-to-ask-an-llm/"
     },
     {
       "title": "AI 2040 and the cult of intelligence",
-      "summary": "Article URL: https://geohot.github.io//blog/jekyll/update/2026/07/11/ai-2040.html Comments URL: https://news.ycombinator.com/item?id=48874200 Points: 220 # Comments: 261",
+      "summary": "Article URL: https://geohot.github.io//blog/jekyll/update/2026/07/11/ai-2040.html Comments URL: https://news.ycombinator.com/item?id=48874200 Points: 221 # Comments: 261",
       "source": "Hacker News",
       "published": "2026-07-11T18:04:01+00:00",
       "link": "https://geohot.github.io//blog/jekyll/update/2026/07/11/ai-2040.html"
@@ -143,7 +150,7 @@ const FEED_DATA = {
     },
     {
       "title": "Reverse centaurs are the answer to the AI paradox (2025)",
-      "summary": "Article URL: https://pluralistic.net/2025/09/11/vulgar-thatcherism/#there-is-an-alternative Comments URL: https://news.ycombinator.com/item?id=48873855 Points: 108 # Comments: 69",
+      "summary": "Article URL: https://pluralistic.net/2025/09/11/vulgar-thatcherism/#there-is-an-alternative Comments URL: https://news.ycombinator.com/item?id=48873855 Points: 109 # Comments: 70",
       "source": "Hacker News",
       "published": "2026-07-11T17:23:52+00:00",
       "link": "https://pluralistic.net/2025/09/11/vulgar-thatcherism/#there-is-an-alternative"
@@ -164,7 +171,7 @@ const FEED_DATA = {
     },
     {
       "title": "Ghost Font: A font that humans can read but AI cannot",
-      "summary": "Article URL: https://www.mixfont.com/ghost-font Comments URL: https://news.ycombinator.com/item?id=48870381 Points: 231 # Comments: 170",
+      "summary": "Article URL: https://www.mixfont.com/ghost-font Comments URL: https://news.ycombinator.com/item?id=48870381 Points: 232 # Comments: 170",
       "source": "Hacker News",
       "published": "2026-07-11T09:36:53+00:00",
       "link": "https://www.mixfont.com/ghost-font"
@@ -290,7 +297,7 @@ const FEED_DATA = {
     },
     {
       "title": "GPT-5.6 Sol Ultra produces proof of the Cycle Double Cover Conjecture [pdf]",
-      "summary": "https://x.com/__eknight__/status/2075643450196971805, https://xcancel.com/__eknight__/status/2075643450196971805Prompt: https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98... Comments URL: https://news.ycombinator.com/item?id=48863490 Points: 531 # Comments: 433",
+      "summary": "https://x.com/__eknight__/status/2075643450196971805, https://xcancel.com/__eknight__/status/2075643450196971805Prompt: https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98... Comments URL: https://news.ycombinator.com/item?id=48863490 Points: 532 # Comments: 433",
       "source": "Hacker News",
       "published": "2026-07-10T18:29:19+00:00",
       "link": "https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf"
@@ -388,7 +395,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI-generated videos to maximally drive a target brain region",
-      "summary": "Article URL: https://nevo-project.epfl.ch/ Comments URL: https://news.ycombinator.com/item?id=48856904 Points: 292 # Comments: 239",
+      "summary": "Article URL: https://nevo-project.epfl.ch/ Comments URL: https://news.ycombinator.com/item?id=48856904 Points: 294 # Comments: 240",
       "source": "Hacker News",
       "published": "2026-07-10T07:39:11+00:00",
       "link": "https://nevo-project.epfl.ch/"
@@ -619,7 +626,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI 2040: Plan A",
-      "summary": "Article URL: https://ai-2040.com/ Comments URL: https://news.ycombinator.com/item?id=48848425 Points: 389 # Comments: 509",
+      "summary": "Article URL: https://ai-2040.com/ Comments URL: https://news.ycombinator.com/item?id=48848425 Points: 390 # Comments: 514",
       "source": "Hacker News",
       "published": "2026-07-09T16:21:44+00:00",
       "link": "https://ai-2040.com/"
@@ -1393,13 +1400,6 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-07-06T18:28:26+00:00",
       "link": "https://the-decoder.com/zhipu-ai-launches-zcode-to-challenge-claude-code-and-openai-codex-at-a-fraction-of-the-cost/"
-    },
-    {
-      "title": "Tencent releases Hy3 open-source model that allegedly matches models up to five times its active size",
-      "summary": "Tencent has released Hy3, an open-source language model with 295 billion parameters built on a mixture-of-experts architecture. Only 21 billion parameters are active at any given time.",
-      "source": "The Decoder",
-      "published": "2026-07-06T18:03:15+00:00",
-      "link": "https://the-decoder.com/tencent-releases-hy3-open-source-model-that-allegedly-matches-models-up-to-five-times-its-active-size/"
     }
   ]
 };
