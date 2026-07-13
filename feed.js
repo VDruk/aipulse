@@ -1,12 +1,26 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-07-12T21:40:29.563723+00:00",
+  "lastUpdated": "2026-07-13T04:28:32.469276+00:00",
   "items": [
+    {
+      "title": "Ask HN: Add flag for AI-generated articles",
+      "summary": "Should HN add the ability to flag articles as AI-generated? This doesn't have to act as a regular flag, i.e., it won't de-rank the article; it could just show up as an indicator, allowing others (like myself) who don't like reading AI-generated text, to skip it.Open questions:1.",
+      "source": "Hacker News",
+      "published": "2026-07-13T01:24:20+00:00",
+      "link": "https://news.ycombinator.com/item?id=48886741"
+    },
     {
       "title": "Lorde says Ray-Ban Meta AI glasses are ‘not sexy’",
       "summary": "Lorde was performing at the Real Cool Festival in Madrid on Thursday and took some time during her set to speak out against AI glasses.",
       "source": "The Verge",
       "published": "2026-07-12T20:10:19+00:00",
       "link": "https://www.theverge.com/ai-artificial-intelligence/964539/lorde-says-ray-ban-meta-ai-glasses-are-not-sexy"
+    },
+    {
+      "title": "Migrating a production AI agent to GPT-5.6: 2.2x faster, 27% cheaper",
+      "summary": "Article URL: https://ploy.ai/blog/migrating-a-production-ai-agent-to-gpt-5-6 Comments URL: https://news.ycombinator.com/item?id=48882716 Points: 160 # Comments: 60",
+      "source": "Hacker News",
+      "published": "2026-07-12T17:13:07+00:00",
+      "link": "https://ploy.ai/blog/migrating-a-production-ai-agent-to-gpt-5-6"
     },
     {
       "title": "LinkedIn is the undisputed king of long-form AI slop, according to a study spanning five platforms",
@@ -28,6 +42,13 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-07-12T15:02:06+00:00",
       "link": "https://the-decoder.com/claude-code-now-has-a-built-in-browser-that-lets-the-ai-read-click-and-type-on-external-websites/"
+    },
+    {
+      "title": "AI boosts research careers but narrow the span of ideas explored: study",
+      "summary": "Article URL: https://spectrum.ieee.org/ai-science-research-flattens-discovery Comments URL: https://news.ycombinator.com/item?id=48881043 Points: 143 # Comments: 101",
+      "source": "Hacker News",
+      "published": "2026-07-12T13:26:13+00:00",
+      "link": "https://spectrum.ieee.org/ai-science-research-flattens-discovery"
     },
     {
       "title": "AI Boosts Research Careers but Flattens Scientific Discovery",
@@ -94,21 +115,21 @@ const FEED_DATA = {
     },
     {
       "title": "Mesh LLM: distributed AI computing on iroh",
-      "summary": "Article URL: https://www.iroh.computer/blog/mesh-llm Comments URL: https://news.ycombinator.com/item?id=48876505 Points: 321 # Comments: 72",
+      "summary": "Article URL: https://www.iroh.computer/blog/mesh-llm Comments URL: https://news.ycombinator.com/item?id=48876505 Points: 337 # Comments: 79",
       "source": "Hacker News",
       "published": "2026-07-11T22:38:57+00:00",
       "link": "https://www.iroh.computer/blog/mesh-llm"
     },
     {
       "title": "Stop Telling Me to Ask an LLM",
-      "summary": "Article URL: https://blog.yaelwrites.com/stop-telling-me-to-ask-an-llm/ Comments URL: https://news.ycombinator.com/item?id=48876441 Points: 186 # Comments: 108",
+      "summary": "Article URL: https://blog.yaelwrites.com/stop-telling-me-to-ask-an-llm/ Comments URL: https://news.ycombinator.com/item?id=48876441 Points: 193 # Comments: 114",
       "source": "Hacker News",
       "published": "2026-07-11T22:28:48+00:00",
       "link": "https://blog.yaelwrites.com/stop-telling-me-to-ask-an-llm/"
     },
     {
       "title": "AI 2040 and the cult of intelligence",
-      "summary": "Article URL: https://geohot.github.io//blog/jekyll/update/2026/07/11/ai-2040.html Comments URL: https://news.ycombinator.com/item?id=48874200 Points: 213 # Comments: 255",
+      "summary": "Article URL: https://geohot.github.io//blog/jekyll/update/2026/07/11/ai-2040.html Comments URL: https://news.ycombinator.com/item?id=48874200 Points: 220 # Comments: 261",
       "source": "Hacker News",
       "published": "2026-07-11T18:04:01+00:00",
       "link": "https://geohot.github.io//blog/jekyll/update/2026/07/11/ai-2040.html"
@@ -122,7 +143,7 @@ const FEED_DATA = {
     },
     {
       "title": "Reverse centaurs are the answer to the AI paradox (2025)",
-      "summary": "Article URL: https://pluralistic.net/2025/09/11/vulgar-thatcherism/#there-is-an-alternative Comments URL: https://news.ycombinator.com/item?id=48873855 Points: 107 # Comments: 68",
+      "summary": "Article URL: https://pluralistic.net/2025/09/11/vulgar-thatcherism/#there-is-an-alternative Comments URL: https://news.ycombinator.com/item?id=48873855 Points: 108 # Comments: 69",
       "source": "Hacker News",
       "published": "2026-07-11T17:23:52+00:00",
       "link": "https://pluralistic.net/2025/09/11/vulgar-thatcherism/#there-is-an-alternative"
@@ -143,14 +164,14 @@ const FEED_DATA = {
     },
     {
       "title": "Ghost Font: A font that humans can read but AI cannot",
-      "summary": "Article URL: https://www.mixfont.com/ghost-font Comments URL: https://news.ycombinator.com/item?id=48870381 Points: 226 # Comments: 169",
+      "summary": "Article URL: https://www.mixfont.com/ghost-font Comments URL: https://news.ycombinator.com/item?id=48870381 Points: 231 # Comments: 170",
       "source": "Hacker News",
       "published": "2026-07-11T09:36:53+00:00",
       "link": "https://www.mixfont.com/ghost-font"
     },
     {
       "title": "Microsoft latest report shows 25% emissions raised due to AI data centers",
-      "summary": "Article URL: https://www.windowscentral.com/microsoft/dropping-greenwashing-credits-and-expanding-ai-datacenters-caused-microsofts-25-percent-emissions-jump Comments URL: https://news.ycombinator.com/item?id=48870229 Points: 52 # Comments: 21",
+      "summary": "Article URL: https://www.windowscentral.com/microsoft/dropping-greenwashing-credits-and-expanding-ai-datacenters-caused-microsofts-25-percent-emissions-jump Comments URL: https://news.ycombinator.com/item?id=48870229 Points: 53 # Comments: 21",
       "source": "Hacker News",
       "published": "2026-07-11T09:10:45+00:00",
       "link": "https://www.windowscentral.com/microsoft/dropping-greenwashing-credits-and-expanding-ai-datacenters-caused-microsofts-25-percent-emissions-jump"
@@ -213,7 +234,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI Can't Recreate the Thrust Game (But It Can Help You Understand It)",
-      "summary": "Article URL: https://www.jamesdrandall.com/posts/thrust_ai_powered_software_archaeology/ Comments URL: https://news.ycombinator.com/item?id=48865903 Points: 52 # Comments: 33",
+      "summary": "Article URL: https://www.jamesdrandall.com/posts/thrust_ai_powered_software_archaeology/ Comments URL: https://news.ycombinator.com/item?id=48865903 Points: 52 # Comments: 36",
       "source": "Hacker News",
       "published": "2026-07-10T22:04:45+00:00",
       "link": "https://www.jamesdrandall.com/posts/thrust_ai_powered_software_archaeology/"
@@ -241,7 +262,7 @@ const FEED_DATA = {
     },
     {
       "title": "GPT-5.6, Grok 4.5, Claude, and Muse Spark build the same 4 apps",
-      "summary": "Article URL: https://www.tryai.dev/blog/gpt-5.6-build-off-12-models Comments URL: https://news.ycombinator.com/item?id=48865093 Points: 156 # Comments: 86",
+      "summary": "Article URL: https://www.tryai.dev/blog/gpt-5.6-build-off-12-models Comments URL: https://news.ycombinator.com/item?id=48865093 Points: 157 # Comments: 86",
       "source": "Hacker News",
       "published": "2026-07-10T20:52:28+00:00",
       "link": "https://www.tryai.dev/blog/gpt-5.6-build-off-12-models"
@@ -262,14 +283,14 @@ const FEED_DATA = {
     },
     {
       "title": "How the terrorist group Boko Haram uses frontier AI",
-      "summary": "Article URL: https://casp.ac/reports/ai-enabled-terrorism Comments URL: https://news.ycombinator.com/item?id=48863707 Points: 229 # Comments: 202",
+      "summary": "Article URL: https://casp.ac/reports/ai-enabled-terrorism Comments URL: https://news.ycombinator.com/item?id=48863707 Points: 229 # Comments: 206",
       "source": "Hacker News",
       "published": "2026-07-10T18:49:26+00:00",
       "link": "https://casp.ac/reports/ai-enabled-terrorism"
     },
     {
       "title": "GPT-5.6 Sol Ultra produces proof of the Cycle Double Cover Conjecture [pdf]",
-      "summary": "https://x.com/__eknight__/status/2075643450196971805, https://xcancel.com/__eknight__/status/2075643450196971805Prompt: https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98... Comments URL: https://news.ycombinator.com/item?id=48863490 Points: 526 # Comments: 431",
+      "summary": "https://x.com/__eknight__/status/2075643450196971805, https://xcancel.com/__eknight__/status/2075643450196971805Prompt: https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98... Comments URL: https://news.ycombinator.com/item?id=48863490 Points: 531 # Comments: 433",
       "source": "Hacker News",
       "published": "2026-07-10T18:29:19+00:00",
       "link": "https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf"
@@ -367,7 +388,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI-generated videos to maximally drive a target brain region",
-      "summary": "Article URL: https://nevo-project.epfl.ch/ Comments URL: https://news.ycombinator.com/item?id=48856904 Points: 292 # Comments: 238",
+      "summary": "Article URL: https://nevo-project.epfl.ch/ Comments URL: https://news.ycombinator.com/item?id=48856904 Points: 292 # Comments: 239",
       "source": "Hacker News",
       "published": "2026-07-10T07:39:11+00:00",
       "link": "https://nevo-project.epfl.ch/"
@@ -598,7 +619,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI 2040: Plan A",
-      "summary": "Article URL: https://ai-2040.com/ Comments URL: https://news.ycombinator.com/item?id=48848425 Points: 388 # Comments: 504",
+      "summary": "Article URL: https://ai-2040.com/ Comments URL: https://news.ycombinator.com/item?id=48848425 Points: 389 # Comments: 509",
       "source": "Hacker News",
       "published": "2026-07-09T16:21:44+00:00",
       "link": "https://ai-2040.com/"
@@ -1379,27 +1400,6 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-07-06T18:03:15+00:00",
       "link": "https://the-decoder.com/tencent-releases-hy3-open-source-model-that-allegedly-matches-models-up-to-five-times-its-active-size/"
-    },
-    {
-      "title": "Your family’s $300 stake in OpenAI",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here.",
-      "source": "MIT Tech Review",
-      "published": "2026-07-06T18:00:00+00:00",
-      "link": "https://www.technologyreview.com/2026/07/06/1140176/your-familys-300-stake-in-openai/"
-    },
-    {
-      "title": "Big Tech Has Suddenly Flipped on the AI Jobs Wipeout Scenario",
-      "summary": "Article URL: https://www.wsj.com/tech/ai/ai-workers-tech-ceos-job-losses-afc71e15 Comments URL: https://news.ycombinator.com/item?id=48807651 Points: 98 # Comments: 103",
-      "source": "Hacker News",
-      "published": "2026-07-06T17:16:41+00:00",
-      "link": "https://www.wsj.com/tech/ai/ai-workers-tech-ceos-job-losses-afc71e15"
-    },
-    {
-      "title": "GPT-4's dominance lasted a year while today's top models barely survive seven weeks at the top",
-      "summary": "OpenAI's GPT-4 led the Epoch Capabilities Index for about a year, far longer than any model since. Since Claude 3 Opus took the top spot in February 2024, the lead has changed hands 17 times, with a median stay of just seven weeks.",
-      "source": "The Decoder",
-      "published": "2026-07-06T17:14:11+00:00",
-      "link": "https://the-decoder.com/gpt-4s-dominance-lasted-a-year-while-todays-top-models-barely-survive-seven-weeks-at-the-top/"
     }
   ]
 };
