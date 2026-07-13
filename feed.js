@@ -1,12 +1,47 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-07-13T11:46:39.706013+00:00",
+  "lastUpdated": "2026-07-13T15:42:52.236002+00:00",
   "items": [
+    {
+      "title": "Anthropic starts localizing Claude pricing for India, its biggest market after the US",
+      "summary": "Claude users in India are starting to see Indian rupee-denominated subscription plans.",
+      "source": "TechCrunch",
+      "published": "2026-07-13T15:34:59+00:00",
+      "link": "https://techcrunch.com/2026/07/13/anthropic-starts-localizing-claude-pricing-for-india-its-biggest-market-after-the-us/"
+    },
+    {
+      "title": "Nadella calls out AI labs like OpenAI and Anthropic for banning distillation while training on everyone else's data",
+      "summary": "Microsoft CEO Satya Nadella is calling out OpenAI and Anthropic for what he calls a \"reverse information paradox.\" They train on public data under fair use but ban distillation of their own models, all while learning from customer interactions.",
+      "source": "The Decoder",
+      "published": "2026-07-13T14:28:50+00:00",
+      "link": "https://the-decoder.com/nadella-calls-out-ai-labs-like-openai-and-anthropic-for-banning-distillation-while-training-on-everyone-elses-data/"
+    },
+    {
+      "title": "Waze adds new AI-powered features and customization updates",
+      "summary": "Some of the new features are powered by Google's Gemini AI assistant, which reflects the tech giant's broader push to integrate Gemini across its products while also better positioning Waze to compete with rival services such as Apple Maps.",
+      "source": "TechCrunch",
+      "published": "2026-07-13T14:18:16+00:00",
+      "link": "https://techcrunch.com/2026/07/13/waze-adds-new-ai-powered-features-and-customization-updates/"
+    },
+    {
+      "title": "The Download: a donor conception cap and world models for AI",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Sperm donors need limits, says a European fertility group Ties van der Meer doesn’t know how many siblings he has.",
+      "source": "MIT Tech Review",
+      "published": "2026-07-13T12:10:00+00:00",
+      "link": "https://www.technologyreview.com/2026/07/13/1140339/the-download-sperm-donor-limits-ai-world-models/"
+    },
     {
       "title": "German AI consortium releases Soofi S, an open 30B model that tops benchmarks in both English and German",
       "summary": "A German research consortium has released Soofi S 30B-A3B, an open language model trained entirely on Deutsche Telekom's cloud infrastructure in Munich.",
       "source": "The Decoder",
       "published": "2026-07-13T11:41:01+00:00",
       "link": "https://the-decoder.com/german-ai-consortium-releases-soofi-s-an-open-30b-model-that-tops-benchmarks-in-both-english-and-german/"
+    },
+    {
+      "title": "AI agent crawlers now need permission. Here’s how to get it",
+      "summary": "AI agent crawlers, the bots that fetch pages in real time on behalf of a person waiting for an answer, will be blocked by default on a slice of the web from September 15 onwards. Cloudflare announced the change on July 1, and most of the coverage since then has focused on Google.",
+      "source": "AI News",
+      "published": "2026-07-13T11:00:00+00:00",
+      "link": "https://www.artificialintelligence-news.com/news/ai-agent-crawlers-cloudflare-rules/"
     },
     {
       "title": "Google’s SensorFM turns messy wearable sensor data into a general-purpose health intelligence layer",
@@ -1304,18 +1339,18 @@ const FEED_DATA = {
       "link": "https://the-decoder.com/apollo-economist-warns-ai-profit-gains-outside-tech-could-take-well-beyond-what-wall-street-expects/"
     },
     {
-      "title": "Why worms (and microbes) are catching on as a manure pollution solution",
-      "summary": "Anthony Agueda, a third-generation California dairy farmer, pulls a rake through a bed of dark, wet wood chips on his family’s land in Hickman, a tiny town in the state’s agricultural heartland.",
-      "source": "MIT Tech Review",
-      "published": "2026-07-07T10:00:00+00:00",
-      "link": "https://www.technologyreview.com/2026/07/07/1140142/why-worms-and-microbes-are-catching-on-as-a-manure-pollution-solution/"
-    },
-    {
       "title": "L’Oreal, Mondelez, and Nestle use AI to speed product development",
       "summary": "L’Oreal is using AI to shorten product development timelines and identify new uses for ingredients already present in its portfolio.",
       "source": "AI News",
       "published": "2026-07-07T10:00:00+00:00",
       "link": "https://www.artificialintelligence-news.com/news/ai-product-development-loreal-mondelez-nestle/"
+    },
+    {
+      "title": "Why worms (and microbes) are catching on as a manure pollution solution",
+      "summary": "Anthony Agueda, a third-generation California dairy farmer, pulls a rake through a bed of dark, wet wood chips on his family’s land in Hickman, a tiny town in the state’s agricultural heartland.",
+      "source": "MIT Tech Review",
+      "published": "2026-07-07T10:00:00+00:00",
+      "link": "https://www.technologyreview.com/2026/07/07/1140142/why-worms-and-microbes-are-catching-on-as-a-manure-pollution-solution/"
     },
     {
       "title": "Erling Haaland Is Everywhere at the World Cup. Most of It Is AI",
@@ -1365,41 +1400,6 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-07-06T23:21:03+00:00",
       "link": "https://techcrunch.com/2026/07/06/us-investors-will-soon-get-access-to-sk-hynix-another-memory-maker-riding-the-ai-boom/"
-    },
-    {
-      "title": "AI: The ROI Runway Could Be Long Outside the Tech Sector",
-      "summary": "Article URL: https://www.apollo.com/wealth/insights-news/insights/daily-spark/ai-the-roi-runway-could-be-long-outside-the-tech-sector Comments URL: https://news.ycombinator.com/item?id=48810533 Points: 69 # Comments: 88",
-      "source": "Hacker News",
-      "published": "2026-07-06T21:09:23+00:00",
-      "link": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/ai-the-roi-runway-could-be-long-outside-the-tech-sector"
-    },
-    {
-      "title": "GLM 5.2 and the coming AI margin collapse",
-      "summary": "Article URL: https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2/ Comments URL: https://news.ycombinator.com/item?id=48809877 Points: 676 # Comments: 463",
-      "source": "Hacker News",
-      "published": "2026-07-06T20:14:55+00:00",
-      "link": "https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2/"
-    },
-    {
-      "title": "Vercel CEO Guillermo Rauch on the fight to split off models from agents",
-      "summary": "\"The reality is, when you're optimizing for production, you start looking at a price/performance,\" Guillermo Rauch tells TechCrunch.",
-      "source": "TechCrunch",
-      "published": "2026-07-06T19:49:10+00:00",
-      "link": "https://techcrunch.com/2026/07/06/vercel-ceo-guillermo-rauch-on-the-fight-to-split-off-models-from-agents/"
-    },
-    {
-      "title": "You can now customize Siri’s pace and expressivity in the latest iOS 27 beta",
-      "summary": "The update is part of Apple's broader effort to make Siri feel more natural and personal, as it rebuilds the assistant around generative AI.",
-      "source": "TechCrunch",
-      "published": "2026-07-06T19:01:59+00:00",
-      "link": "https://techcrunch.com/2026/07/06/you-can-now-customize-siris-pace-and-expressivity-in-the-latest-ios-27-beta/"
-    },
-    {
-      "title": "Cloudflare replaces its blanket AI bot block with granular controls for search, training, and agent crawlers",
-      "summary": "Cloudflare is giving all customers granular AI bot controls. Site owners can now manage Search, Training, and Agent bots separately instead of blocking them all at once.",
-      "source": "The Decoder",
-      "published": "2026-07-06T18:54:45+00:00",
-      "link": "https://the-decoder.com/cloudflare-replaces-its-blanket-ai-bot-block-with-granular-controls-for-search-training-and-agent-crawlers/"
     }
   ]
 };
