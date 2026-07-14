@@ -1,6 +1,34 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-07-13T21:48:01.314351+00:00",
+  "lastUpdated": "2026-07-14T03:55:24.348429+00:00",
   "items": [
+    {
+      "title": "Already rich, already successful, why the last wave of tech winners is grinding again",
+      "summary": "They're rolling up their sleeves again, seemingly out of fear of missing AI's defining moment and, presumably, the irresistible allure of making even more money -- potentially a lot more.",
+      "source": "TechCrunch",
+      "published": "2026-07-14T02:46:42+00:00",
+      "link": "https://techcrunch.com/2026/07/13/already-rich-already-successful-why-the-last-wave-of-tech-winners-is-grinding-again/"
+    },
+    {
+      "title": "Uber’s product chief on hotels, robotaxis, and why the company doesn’t want to be “everything for everyone”",
+      "summary": "Uber Chief Product Officer Sachin Kansal walks TechCrunch through the company's financial-services ambitions, its increasingly complicated relationship with Waymo, its new AV Labs data operation, and how AI is starting to show up in ways riders and drivers will actually notice.",
+      "source": "TechCrunch",
+      "published": "2026-07-14T00:45:00+00:00",
+      "link": "https://techcrunch.com/2026/07/13/ubers-product-chief-on-hotels-robotaxis-and-why-the-company-doesnt-want-to-be-everything-for-everyone/"
+    },
+    {
+      "title": "Video-generation startup PixVerse raises $439M, valuation soars past $2B",
+      "summary": "With the cash, the company aims to expand its world model offering and reach customers across geographies.",
+      "source": "TechCrunch",
+      "published": "2026-07-14T00:00:00+00:00",
+      "link": "https://techcrunch.com/2026/07/13/video-generation-startup-pixverse-raises-439m-valuation-soars-past-2b/"
+    },
+    {
+      "title": "Hermes agent maker Nous Research in talks for new funding at $1.5B valuation",
+      "summary": "The company is raising at least $75 million, led by Robot Ventures, with significant participation from USV and other prominent investors.",
+      "source": "TechCrunch",
+      "published": "2026-07-13T23:31:18+00:00",
+      "link": "https://techcrunch.com/2026/07/13/hermes-agent-maker-nous-research-in-talks-for-new-funding-at-1-5b-valuation/"
+    },
     {
       "title": "Siri AI Is Becoming Apple’s Everything Tool",
       "summary": "Apple’s revamped Siri is more than a voice assistant; it’s now the backbone of the iPhone user experience. You can try it now through the iOS 27 public beta.",
@@ -23,6 +51,13 @@ const FEED_DATA = {
       "link": "https://www.theverge.com/tech/964714/siri-ai-public-beta-preview-ios-27-hands-on"
     },
     {
+      "title": "Samsung Health app threatens data deletion if users opt out AI training",
+      "summary": "Article URL: https://neow.in/cWsyMTV3 Comments URL: https://news.ycombinator.com/item?id=48897991 Points: 293 # Comments: 80",
+      "source": "Hacker News",
+      "published": "2026-07-13T20:01:43+00:00",
+      "link": "https://neow.in/cWsyMTV3"
+    },
+    {
       "title": "Samsung will delete your health data if you don't let them use it to train AI",
       "summary": "Article URL: https://neow.in/cWsyMTV3 Comments URL: https://news.ycombinator.com/item?id=48897991 Points: 132 # Comments: 32",
       "source": "Hacker News",
@@ -30,8 +65,8 @@ const FEED_DATA = {
       "link": "https://neow.in/cWsyMTV3"
     },
     {
-      "title": "AI Is a Bad Tool",
-      "summary": "Article URL: https://bytecode.news/posts/2026/07/user-submission-ai-is-a-bad-tool Comments URL: https://news.ycombinator.com/item?id=48897861 Points: 65 # Comments: 82",
+      "title": "AI is a bad tool",
+      "summary": "Article URL: https://bytecode.news/posts/2026/07/user-submission-ai-is-a-bad-tool Comments URL: https://news.ycombinator.com/item?id=48897861 Points: 75 # Comments: 85",
       "source": "Hacker News",
       "published": "2026-07-13T19:51:15+00:00",
       "link": "https://bytecode.news/posts/2026/07/user-submission-ai-is-a-bad-tool"
@@ -42,6 +77,13 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-07-13T18:22:10+00:00",
       "link": "https://techcrunch.com/2026/07/13/the-wildest-allegations-in-apples-trade-secrets-lawsuit-against-openai/"
+    },
+    {
+      "title": "Show HN: BillAI Bass, an AI-Powered Big Mouth Billy Bass Using Strands Agents",
+      "summary": "Article URL: https://github.com/morganwilliscloud/billai-bass Comments URL: https://news.ycombinator.com/item?id=48896599 Points: 62 # Comments: 27",
+      "source": "Hacker News",
+      "published": "2026-07-13T18:18:23+00:00",
+      "link": "https://github.com/morganwilliscloud/billai-bass"
     },
     {
       "title": "What Anthropic’s latest AI discovery does—and doesn’t—show",
@@ -91,6 +133,13 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-07-13T16:00:24+00:00",
       "link": "https://the-decoder.com/nobel-laureates-and-ai-leaders-warn-the-window-to-prepare-for-ais-economic-impact-is-closing-fast/"
+    },
+    {
+      "title": "Show HN: Jacquard, a programming language for AI-written, human-reviewed code",
+      "summary": "I'm fascinated by the generative AI wave rolling over us, and wondered if AI could create a language that it might prefer using over the ones created by and for humans.To create the design, I had AI analyze the ASTs of several mainstream languages plus a few of the conceptually...",
+      "source": "Hacker News",
+      "published": "2026-07-13T15:56:02+00:00",
+      "link": "https://github.com/jbwinters/jacquard-lang"
     },
     {
       "title": "Anthropic starts localizing Claude pricing for India, its biggest market after the US",
@@ -185,7 +234,7 @@ const FEED_DATA = {
     },
     {
       "title": "Migrating a production AI agent to GPT-5.6: 2.2x faster, 27% cheaper",
-      "summary": "Article URL: https://ploy.ai/blog/migrating-a-production-ai-agent-to-gpt-5-6 Comments URL: https://news.ycombinator.com/item?id=48882716 Points: 252 # Comments: 125",
+      "summary": "Article URL: https://ploy.ai/blog/migrating-a-production-ai-agent-to-gpt-5-6 Comments URL: https://news.ycombinator.com/item?id=48882716 Points: 254 # Comments: 126",
       "source": "Hacker News",
       "published": "2026-07-12T17:13:07+00:00",
       "link": "https://ploy.ai/blog/migrating-a-production-ai-agent-to-gpt-5-6"
@@ -213,7 +262,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI boosts research careers but narrow the span of ideas explored: study",
-      "summary": "Article URL: https://spectrum.ieee.org/ai-science-research-flattens-discovery Comments URL: https://news.ycombinator.com/item?id=48881043 Points: 154 # Comments: 105",
+      "summary": "Article URL: https://spectrum.ieee.org/ai-science-research-flattens-discovery Comments URL: https://news.ycombinator.com/item?id=48881043 Points: 154 # Comments: 106",
       "source": "Hacker News",
       "published": "2026-07-12T13:26:13+00:00",
       "link": "https://spectrum.ieee.org/ai-science-research-flattens-discovery"
@@ -283,14 +332,14 @@ const FEED_DATA = {
     },
     {
       "title": "Mesh LLM: distributed AI computing on iroh",
-      "summary": "Article URL: https://www.iroh.computer/blog/mesh-llm Comments URL: https://news.ycombinator.com/item?id=48876505 Points: 343 # Comments: 92",
+      "summary": "Article URL: https://www.iroh.computer/blog/mesh-llm Comments URL: https://news.ycombinator.com/item?id=48876505 Points: 344 # Comments: 92",
       "source": "Hacker News",
       "published": "2026-07-11T22:38:57+00:00",
       "link": "https://www.iroh.computer/blog/mesh-llm"
     },
     {
       "title": "Stop Telling Me to Ask an LLM",
-      "summary": "Article URL: https://blog.yaelwrites.com/stop-telling-me-to-ask-an-llm/ Comments URL: https://news.ycombinator.com/item?id=48876441 Points: 233 # Comments: 132",
+      "summary": "Article URL: https://blog.yaelwrites.com/stop-telling-me-to-ask-an-llm/ Comments URL: https://news.ycombinator.com/item?id=48876441 Points: 236 # Comments: 135",
       "source": "Hacker News",
       "published": "2026-07-11T22:28:48+00:00",
       "link": "https://blog.yaelwrites.com/stop-telling-me-to-ask-an-llm/"
@@ -332,7 +381,7 @@ const FEED_DATA = {
     },
     {
       "title": "Ghost Font: A font that humans can read but AI cannot",
-      "summary": "Article URL: https://www.mixfont.com/ghost-font Comments URL: https://news.ycombinator.com/item?id=48870381 Points: 235 # Comments: 171",
+      "summary": "Article URL: https://www.mixfont.com/ghost-font Comments URL: https://news.ycombinator.com/item?id=48870381 Points: 236 # Comments: 172",
       "source": "Hacker News",
       "published": "2026-07-11T09:36:53+00:00",
       "link": "https://www.mixfont.com/ghost-font"
@@ -1351,55 +1400,6 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-07-07T16:13:45+00:00",
       "link": "https://the-decoder.com/china-eyes-export-curbs-on-its-top-ai-models-and-europe-is-caught-in-the-middle/"
-    },
-    {
-      "title": "Shut Those Laptops! Anthropic Puts Its Claude Cowork Agent on Your Phone",
-      "summary": "Claude Cowork now keeps working on tasks even after you close your laptop. It’s part of a larger push toward smartphone-controlled agents.",
-      "source": "Wired",
-      "published": "2026-07-07T16:00:00+00:00",
-      "link": "https://www.wired.com/story/shut-those-laptops-anthropic-puts-its-claude-cowork-agent-on-your-phone/"
-    },
-    {
-      "title": "Automating AI Away",
-      "summary": "Article URL: https://replicated.live/blog/away Comments URL: https://news.ycombinator.com/item?id=48818937 Points: 133 # Comments: 62",
-      "source": "Hacker News",
-      "published": "2026-07-07T15:11:08+00:00",
-      "link": "https://replicated.live/blog/away"
-    },
-    {
-      "title": "Claude's hidden inner monologue is now readable thanks to Anthropic's new Jacobian Lens",
-      "summary": "Anthropic has found that Claude developed an internal working memory on its own during training. The company calls it \"J-Space\" and can now read it using a new analysis tool called J-Lens.",
-      "source": "The Decoder",
-      "published": "2026-07-07T14:46:29+00:00",
-      "link": "https://the-decoder.com/claudes-hidden-inner-monologue-is-now-readable-thanks-to-anthropics-new-jacobian-lens/"
-    },
-    {
-      "title": "Insilico Medicine advances AI drug for IPF to Phase III trials",
-      "summary": "Insilico Medicine is advancing to Phase III human trials for testing a drug identified by AI targeting idiopathic pulmonary fibrosis (IPF).",
-      "source": "AI News",
-      "published": "2026-07-07T14:00:06+00:00",
-      "link": "https://www.artificialintelligence-news.com/news/insilico-medicine-advances-ai-drug-for-ipf-to-phase-iii-trials/"
-    },
-    {
-      "title": "Solos debuts an even lighter version of its camera-less smart glasses",
-      "summary": "Solos announced a new version of its AirGo smart glasses, one that forgoes cameras for a sleeker design and an AI assistant that relies on voice interactions. Last year's AirGo A5 weighed 36 to 40 grams depending on the frame style, but the new AirGo A6 weigh around 19 grams.",
-      "source": "The Verge",
-      "published": "2026-07-07T13:00:00+00:00",
-      "link": "https://www.theverge.com/tech/961711/solos-airgo-a6-smart-glasses-ai-assistant-privacy"
-    },
-    {
-      "title": "The Download: your stake in OpenAI, and the Treasury’s AI warning",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.",
-      "source": "MIT Tech Review",
-      "published": "2026-07-07T12:10:00+00:00",
-      "link": "https://www.technologyreview.com/2026/07/07/1140197/the-download-your-openai-stake-treasury-ai-warning/"
-    },
-    {
-      "title": "Savi’s app aims to protect consumers from realistic AI scams like kidnappers demanding ransom",
-      "summary": "The company just raised $7 million in seed funding, and is launching its app for iPhone and Android on Tuesday.",
-      "source": "TechCrunch",
-      "published": "2026-07-07T12:00:00+00:00",
-      "link": "https://techcrunch.com/2026/07/07/savis-app-aims-to-protect-consumers-from-realistic-ai-scams-like-kidnappers-demanding-ransom/"
     }
   ]
 };
