@@ -1,5 +1,5 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-07-14T03:55:24.348429+00:00",
+  "lastUpdated": "2026-07-14T07:11:03.141645+00:00",
   "items": [
     {
       "title": "Already rich, already successful, why the last wave of tech winners is grinding again",
@@ -52,7 +52,7 @@ const FEED_DATA = {
     },
     {
       "title": "Samsung Health app threatens data deletion if users opt out AI training",
-      "summary": "Article URL: https://neow.in/cWsyMTV3 Comments URL: https://news.ycombinator.com/item?id=48897991 Points: 293 # Comments: 80",
+      "summary": "Article URL: https://neow.in/cWsyMTV3 Comments URL: https://news.ycombinator.com/item?id=48897991 Points: 308 # Comments: 83",
       "source": "Hacker News",
       "published": "2026-07-13T20:01:43+00:00",
       "link": "https://neow.in/cWsyMTV3"
@@ -66,7 +66,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI is a bad tool",
-      "summary": "Article URL: https://bytecode.news/posts/2026/07/user-submission-ai-is-a-bad-tool Comments URL: https://news.ycombinator.com/item?id=48897861 Points: 75 # Comments: 85",
+      "summary": "Article URL: https://bytecode.news/posts/2026/07/user-submission-ai-is-a-bad-tool Comments URL: https://news.ycombinator.com/item?id=48897861 Points: 75 # Comments: 88",
       "source": "Hacker News",
       "published": "2026-07-13T19:51:15+00:00",
       "link": "https://bytecode.news/posts/2026/07/user-submission-ai-is-a-bad-tool"
@@ -80,7 +80,7 @@ const FEED_DATA = {
     },
     {
       "title": "Show HN: BillAI Bass, an AI-Powered Big Mouth Billy Bass Using Strands Agents",
-      "summary": "Article URL: https://github.com/morganwilliscloud/billai-bass Comments URL: https://news.ycombinator.com/item?id=48896599 Points: 62 # Comments: 27",
+      "summary": "Article URL: https://github.com/morganwilliscloud/billai-bass Comments URL: https://news.ycombinator.com/item?id=48896599 Points: 67 # Comments: 27",
       "source": "Hacker News",
       "published": "2026-07-13T18:18:23+00:00",
       "link": "https://github.com/morganwilliscloud/billai-bass"
@@ -234,7 +234,7 @@ const FEED_DATA = {
     },
     {
       "title": "Migrating a production AI agent to GPT-5.6: 2.2x faster, 27% cheaper",
-      "summary": "Article URL: https://ploy.ai/blog/migrating-a-production-ai-agent-to-gpt-5-6 Comments URL: https://news.ycombinator.com/item?id=48882716 Points: 254 # Comments: 126",
+      "summary": "Article URL: https://ploy.ai/blog/migrating-a-production-ai-agent-to-gpt-5-6 Comments URL: https://news.ycombinator.com/item?id=48882716 Points: 255 # Comments: 127",
       "source": "Hacker News",
       "published": "2026-07-12T17:13:07+00:00",
       "link": "https://ploy.ai/blog/migrating-a-production-ai-agent-to-gpt-5-6"
@@ -332,21 +332,21 @@ const FEED_DATA = {
     },
     {
       "title": "Mesh LLM: distributed AI computing on iroh",
-      "summary": "Article URL: https://www.iroh.computer/blog/mesh-llm Comments URL: https://news.ycombinator.com/item?id=48876505 Points: 344 # Comments: 92",
+      "summary": "Article URL: https://www.iroh.computer/blog/mesh-llm Comments URL: https://news.ycombinator.com/item?id=48876505 Points: 344 # Comments: 94",
       "source": "Hacker News",
       "published": "2026-07-11T22:38:57+00:00",
       "link": "https://www.iroh.computer/blog/mesh-llm"
     },
     {
       "title": "Stop Telling Me to Ask an LLM",
-      "summary": "Article URL: https://blog.yaelwrites.com/stop-telling-me-to-ask-an-llm/ Comments URL: https://news.ycombinator.com/item?id=48876441 Points: 236 # Comments: 135",
+      "summary": "Article URL: https://blog.yaelwrites.com/stop-telling-me-to-ask-an-llm/ Comments URL: https://news.ycombinator.com/item?id=48876441 Points: 238 # Comments: 135",
       "source": "Hacker News",
       "published": "2026-07-11T22:28:48+00:00",
       "link": "https://blog.yaelwrites.com/stop-telling-me-to-ask-an-llm/"
     },
     {
       "title": "AI 2040 and the cult of intelligence",
-      "summary": "Article URL: https://geohot.github.io//blog/jekyll/update/2026/07/11/ai-2040.html Comments URL: https://news.ycombinator.com/item?id=48874200 Points: 228 # Comments: 263",
+      "summary": "Article URL: https://geohot.github.io//blog/jekyll/update/2026/07/11/ai-2040.html Comments URL: https://news.ycombinator.com/item?id=48874200 Points: 229 # Comments: 263",
       "source": "Hacker News",
       "published": "2026-07-11T18:04:01+00:00",
       "link": "https://geohot.github.io//blog/jekyll/update/2026/07/11/ai-2040.html"
@@ -381,7 +381,7 @@ const FEED_DATA = {
     },
     {
       "title": "Ghost Font: A font that humans can read but AI cannot",
-      "summary": "Article URL: https://www.mixfont.com/ghost-font Comments URL: https://news.ycombinator.com/item?id=48870381 Points: 236 # Comments: 172",
+      "summary": "Article URL: https://www.mixfont.com/ghost-font Comments URL: https://news.ycombinator.com/item?id=48870381 Points: 237 # Comments: 172",
       "source": "Hacker News",
       "published": "2026-07-11T09:36:53+00:00",
       "link": "https://www.mixfont.com/ghost-font"
