@@ -1,9 +1,86 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-07-14T14:54:01.779424+00:00",
+  "lastUpdated": "2026-07-14T17:57:45.551837+00:00",
   "items": [
     {
+      "title": "DeepMind CEO calls for an independent standards body to regulate frontier AI",
+      "summary": "DeepMind CEO Demis Hassabis is proposing an AI \"standards body\" modeled after FINRA, to test frontier models and develop best practices for their release.",
+      "source": "TechCrunch",
+      "published": "2026-07-14T17:45:55+00:00",
+      "link": "https://techcrunch.com/2026/07/14/deepmind-ceo-calls-for-an-independent-standards-body-to-regulate-frontier-ai/"
+    },
+    {
+      "title": "Anthropic opens Claude for Teachers with a promise not to train models on student data",
+      "summary": "Anthropic is rolling out Claude for Teachers, a free offering for verified K-12 educators at US schools. The article Anthropic opens Claude for Teachers with a promise not to train models on student data appeared first on The Decoder.",
+      "source": "The Decoder",
+      "published": "2026-07-14T17:24:27+00:00",
+      "link": "https://the-decoder.com/anthropic-opens-claude-for-teachers-with-a-promise-not-to-train-models-on-student-data/"
+    },
+    {
+      "title": "Meta accused of using biased AI targeting for mass layoffs",
+      "summary": "A group of 26 former Meta employees is suing the company over claims that it used AI tools to unfairly target workers on leave with layoffs, as reported earlier by Reuters.",
+      "source": "The Verge",
+      "published": "2026-07-14T17:18:11+00:00",
+      "link": "https://www.theverge.com/tech/965486/meta-lawsuit-former-employees-ai-layoffs"
+    },
+    {
+      "title": "DeepSeek needs more cash just weeks after closing its first $7 billion round",
+      "summary": "DeepSeek is already raising again. The Chinese AI lab just closed its first funding round and needs capital for its own data centers and chips to keep its aggressive pricing strategy going.",
+      "source": "The Decoder",
+      "published": "2026-07-14T16:27:29+00:00",
+      "link": "https://the-decoder.com/deepseek-needs-more-cash-just-weeks-after-closing-its-first-7-billion-round/"
+    },
+    {
+      "title": "Meta’s Adam Mosseri says AI token budgets could soon be capped per engineer",
+      "summary": "Instagram head Adam Mosseri believes companies will eventually need to manage AI token spending the same way they manage payroll or other operating expenses, predicting that engineers could soon face limits on how much they spend using AI tools.",
+      "source": "TechCrunch",
+      "published": "2026-07-14T16:22:15+00:00",
+      "link": "https://techcrunch.com/2026/07/14/metas-adam-mosseri-says-ai-token-budgets-could-soon-be-capped-per-engineer/"
+    },
+    {
+      "title": "Google Search now generates AI images when it can't find what you're looking for on the web",
+      "summary": "Google is adding AI image generation to Search's AI Overviews. When no matching image exists on the web, the new Nano Banana 2 Lite model generates one from the search query.",
+      "source": "The Decoder",
+      "published": "2026-07-14T16:20:58+00:00",
+      "link": "https://the-decoder.com/google-search-now-generates-ai-images-when-it-cant-find-what-youre-looking-for-on-the-web/"
+    },
+    {
+      "title": "Google Images gets a Pinterest-like redesign focused on discovery",
+      "summary": "Now, when users navigate to Google Images, they'll see a \"For You\" gallery of images tailored to their interests and browsing history.",
+      "source": "TechCrunch",
+      "published": "2026-07-14T16:00:00+00:00",
+      "link": "https://techcrunch.com/2026/07/14/google-images-gets-a-pinterest-like-redesign-focused-on-discovery/"
+    },
+    {
+      "title": "AWS and Bluesight build AI for hospital 340B compliance",
+      "summary": "AWS (Amazon Web Services) has explained how Bluesight developed Prism, an AI layer that connects hospital pharmacy and compliance data across its product suite.",
+      "source": "AI News",
+      "published": "2026-07-14T15:54:39+00:00",
+      "link": "https://www.artificialintelligence-news.com/news/aws-and-bluesight-build-ai-for-hospital-340b-compliance/"
+    },
+    {
+      "title": "Spotify is now an AI chatbot, too",
+      "summary": "Spotify is experimenting with a new AI feature that allows Premium subscribers to play and explore music, audiobooks, and podcasts by having conversations with a chatbot. The \"Talk to Spotify\" feature appears across the Home and Now Playing view on Spotify's mobile app.",
+      "source": "The Verge",
+      "published": "2026-07-14T15:47:36+00:00",
+      "link": "https://www.theverge.com/entertainment/965358/spotify-ai-chatbot-interface-music-audiobooks-podcasts"
+    },
+    {
+      "title": "Are we offloading too much of our thinking to AI?",
+      "summary": "Article URL: https://www.artfish.ai/p/offloading-thinking-to-ai Comments URL: https://news.ycombinator.com/item?id=48908178 Points: 197 # Comments: 181",
+      "source": "Hacker News",
+      "published": "2026-07-14T15:18:13+00:00",
+      "link": "https://www.artfish.ai/p/offloading-thinking-to-ai"
+    },
+    {
+      "title": "New York State halts construction of all new data centers",
+      "summary": "New York has become the first state to temporarily halt approval of large data centers, as Gov. Kathy Hochul argues the AI-driven building boom shouldn’t come at the expense of higher electricity costs, water supplies, or local control.",
+      "source": "TechCrunch",
+      "published": "2026-07-14T15:17:59+00:00",
+      "link": "https://techcrunch.com/2026/07/14/new-york-state-halts-construction-of-all-new-data-centers/"
+    },
+    {
       "title": "Reflection inks $1B compute deal with Nebius",
-      "summary": "Reflection AI has signed a $1 billion deal to access Nebius's compute. Reflection was founded in 2024 and is developing open source AI technology.",
+      "summary": "Reflection AI has signed a $1 billion deal to access Nebius' compute. Reflection was founded in 2024 and is developing open source AI technology.",
       "source": "TechCrunch",
       "published": "2026-07-14T14:37:48+00:00",
       "link": "https://techcrunch.com/2026/07/14/reflection-inks-1b-compute-deal-with-nebius/"
@@ -35,6 +112,13 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-07-14T14:00:00+00:00",
       "link": "https://techcrunch.com/2026/07/14/superhumans-new-auto-draft-feature-almost-makes-me-like-ai-replies/"
+    },
+    {
+      "title": "Proof of care in the age of AI",
+      "summary": "Article URL: https://jacobfilipp.com/care/ Comments URL: https://news.ycombinator.com/item?id=48906125 Points: 147 # Comments: 92",
+      "source": "Hacker News",
+      "published": "2026-07-14T12:56:25+00:00",
+      "link": "https://jacobfilipp.com/care/"
     },
     {
       "title": "The Download: Claude’s inner workings, and the future of world models",
@@ -84,6 +168,13 @@ const FEED_DATA = {
       "source": "Wired",
       "published": "2026-07-14T10:00:00+00:00",
       "link": "https://www.wired.com/story/inventing-eliza-book-excerpt-chatbot/"
+    },
+    {
+      "title": "Demis Hassabis has a plan to harness AI safely",
+      "summary": "https://xcancel.com/i/article/2076957440109625718https://www.economist.com/business/2026/07/14/demis-hassabis..., https://archive.ph/GOUcN Comments URL: https://news.ycombinator.com/item?id=48904095 Points: 99 # Comments: 119",
+      "source": "Hacker News",
+      "published": "2026-07-14T09:20:07+00:00",
+      "link": "https://twitter.com/demishassabis/status/2076957440109625718"
     },
     {
       "title": "New York becomes the first state to enact a data center moratorium",
@@ -150,7 +241,7 @@ const FEED_DATA = {
     },
     {
       "title": "Samsung Health app threatens data deletion if users opt out AI training",
-      "summary": "Article URL: https://neow.in/cWsyMTV3 Comments URL: https://news.ycombinator.com/item?id=48897991 Points: 325 # Comments: 87",
+      "summary": "Article URL: https://neow.in/cWsyMTV3 Comments URL: https://news.ycombinator.com/item?id=48897991 Points: 338 # Comments: 92",
       "source": "Hacker News",
       "published": "2026-07-13T20:01:43+00:00",
       "link": "https://neow.in/cWsyMTV3"
@@ -164,7 +255,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI is a bad tool",
-      "summary": "Article URL: https://bytecode.news/posts/2026/07/user-submission-ai-is-a-bad-tool Comments URL: https://news.ycombinator.com/item?id=48897861 Points: 77 # Comments: 91",
+      "summary": "Article URL: https://bytecode.news/posts/2026/07/user-submission-ai-is-a-bad-tool Comments URL: https://news.ycombinator.com/item?id=48897861 Points: 80 # Comments: 92",
       "source": "Hacker News",
       "published": "2026-07-13T19:51:15+00:00",
       "link": "https://bytecode.news/posts/2026/07/user-submission-ai-is-a-bad-tool"
@@ -332,7 +423,7 @@ const FEED_DATA = {
     },
     {
       "title": "Migrating a production AI agent to GPT-5.6: 2.2x faster, 27% cheaper",
-      "summary": "Article URL: https://ploy.ai/blog/migrating-a-production-ai-agent-to-gpt-5-6 Comments URL: https://news.ycombinator.com/item?id=48882716 Points: 256 # Comments: 128",
+      "summary": "Article URL: https://ploy.ai/blog/migrating-a-production-ai-agent-to-gpt-5-6 Comments URL: https://news.ycombinator.com/item?id=48882716 Points: 257 # Comments: 130",
       "source": "Hacker News",
       "published": "2026-07-12T17:13:07+00:00",
       "link": "https://ploy.ai/blog/migrating-a-production-ai-agent-to-gpt-5-6"
@@ -437,14 +528,14 @@ const FEED_DATA = {
     },
     {
       "title": "Stop Telling Me to Ask an LLM",
-      "summary": "Article URL: https://blog.yaelwrites.com/stop-telling-me-to-ask-an-llm/ Comments URL: https://news.ycombinator.com/item?id=48876441 Points: 239 # Comments: 135",
+      "summary": "Article URL: https://blog.yaelwrites.com/stop-telling-me-to-ask-an-llm/ Comments URL: https://news.ycombinator.com/item?id=48876441 Points: 240 # Comments: 137",
       "source": "Hacker News",
       "published": "2026-07-11T22:28:48+00:00",
       "link": "https://blog.yaelwrites.com/stop-telling-me-to-ask-an-llm/"
     },
     {
       "title": "AI 2040 and the cult of intelligence",
-      "summary": "Article URL: https://geohot.github.io//blog/jekyll/update/2026/07/11/ai-2040.html Comments URL: https://news.ycombinator.com/item?id=48874200 Points: 229 # Comments: 263",
+      "summary": "Article URL: https://geohot.github.io//blog/jekyll/update/2026/07/11/ai-2040.html Comments URL: https://news.ycombinator.com/item?id=48874200 Points: 229 # Comments: 264",
       "source": "Hacker News",
       "published": "2026-07-11T18:04:01+00:00",
       "link": "https://geohot.github.io//blog/jekyll/update/2026/07/11/ai-2040.html"
@@ -1309,97 +1400,6 @@ const FEED_DATA = {
       "source": "MIT Tech Review",
       "published": "2026-07-08T12:10:00+00:00",
       "link": "https://www.technologyreview.com/2026/07/08/1140216/the-download-worms-manure-pollution-geoengineering-reality-check/"
-    },
-    {
-      "title": "Former OpenAI exec Kevin Weil is now on the board of Stoke Space",
-      "summary": "Kevin Weil's new role at Stoke Space suggests reusable rockets are the next hot thing in Silicon Valley.",
-      "source": "TechCrunch",
-      "published": "2026-07-08T12:00:00+00:00",
-      "link": "https://techcrunch.com/2026/07/08/former-openai-exec-kevin-weil-is-now-on-the-board-of-stoke-space/"
-    },
-    {
-      "title": "Meta tests always-on AI glasses that capture your entire day",
-      "summary": "Meta is testing a prototype of AI-powered headsets with \"Super Sensing\" that use a camera and microphone to record every moment of the wearer's life. The article Meta tests always-on AI glasses that capture your entire day appeared first on The Decoder.",
-      "source": "The Decoder",
-      "published": "2026-07-08T11:48:30+00:00",
-      "link": "https://the-decoder.com/meta-tests-always-on-ai-glasses-that-capture-your-entire-day/"
-    },
-    {
-      "title": "Muse Image is technically impressive, but Meta's use of Instagram photos raises questions",
-      "summary": "Meta's Superintelligence Labs ships Muse Image, its first image generation model. Like OpenAI's GPT Image 2, it works as an agent, using tools like code execution and web search to refine its own results.",
-      "source": "The Decoder",
-      "published": "2026-07-08T11:16:37+00:00",
-      "link": "https://the-decoder.com/muse-image-is-technically-impressive-but-metas-use-of-instagram-photos-raises-questions/"
-    },
-    {
-      "title": "Pickup Artist Mystery Has an AI Girlfriend",
-      "summary": "A new book claims that Mystery, who teaches awkward men how to hit on women, had sex and smoked weed with an AI chatbot named Miss Shira Always.",
-      "source": "Wired",
-      "published": "2026-07-08T11:00:00+00:00",
-      "link": "https://www.wired.com/story/pickup-artist-mystery-has-an-ai-girlfriend/"
-    },
-    {
-      "title": "This Former DeepMind Exec Thinks the AI Arms Race Could End in Disaster",
-      "summary": "Verity Harding tells WIRED that the US government’s nationalistic attitude toward AI is evidence that a worst-case scenario is taking shape.",
-      "source": "Wired",
-      "published": "2026-07-08T09:30:00+00:00",
-      "link": "https://www.wired.com/story/verity-harding-ai-arms-race-dangers-anthology/"
-    },
-    {
-      "title": "OpenAI's GPT-5.6 launches Thursday after a delay forced by the U.S. government",
-      "summary": "OpenAI is launching GPT-5.6 on Thursday after the U.S. government lifted its release ban following additional testing.",
-      "source": "The Decoder",
-      "published": "2026-07-08T08:00:30+00:00",
-      "link": "https://the-decoder.com/openais-gpt-5-6-launches-thursday-after-a-delay-forced-by-the-u-s-government/"
-    },
-    {
-      "title": "Hot French startup ZML releases free product to speed inference across lots of AI chips",
-      "summary": "ZML, a hot French AI startup endorsed by Turing Award winner Yann LeCun, has now released ZML/LLMD, software that could make running AI less costly.",
-      "source": "TechCrunch",
-      "published": "2026-07-08T08:00:00+00:00",
-      "link": "https://techcrunch.com/2026/07/08/hot-french-startup-zml-releases-free-product-to-speed-inference-across-lots-of-ai-chips/"
-    },
-    {
-      "title": "AI chip maker SambaNova raises $1B at $11B valuation, 5 months after last mega round",
-      "summary": "AI chip maker SambaNova has raised at an $11 billion valuation months after Intel was rumored to be trying to buy it for about $1.6 billion.",
-      "source": "TechCrunch",
-      "published": "2026-07-08T07:16:00+00:00",
-      "link": "https://techcrunch.com/2026/07/08/sambanova-draws-1b-at-11b-valuation-in-series-f-first-close/"
-    },
-    {
-      "title": "Hackers can use 9 of the most popular AI tools to assemble massive botnets",
-      "summary": "\"HalluSquatting\" weaponizes LLMs' inability to say \"I don't know.\"",
-      "source": "Ars Technica",
-      "published": "2026-07-08T07:00:51+00:00",
-      "link": "https://arstechnica.com/security/2026/07/hackers-can-use-9-of-the-most-popular-ai-tools-to-assemble-massive-botnets/"
-    },
-    {
-      "title": "GitLost: We Tricked GitHub's AI Agent into Leaking Private Repos",
-      "summary": "Article URL: https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos/ Comments URL: https://news.ycombinator.com/item?id=48827858 Points: 536 # Comments: 204",
-      "source": "Hacker News",
-      "published": "2026-07-08T05:25:35+00:00",
-      "link": "https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos/"
-    },
-    {
-      "title": "GPT-5.6 Sol, along with Terra and Luna, will launch publicly this Thursday",
-      "summary": "Article URL: https://twitter.com/OpenAI/status/2074704958419792299 Comments URL: https://news.ycombinator.com/item?id=48827402 Points: 235 # Comments: 210",
-      "source": "Hacker News",
-      "published": "2026-07-08T04:12:13+00:00",
-      "link": "https://twitter.com/OpenAI/status/2074704958419792299"
-    },
-    {
-      "title": "Meta just launched a new AI generator, Muse Image, and users are already pushing back over use of their photos",
-      "summary": "The new image-generating model has numerous use cases, including advertising and decorating, and creator-based opportunities.",
-      "source": "TechCrunch",
-      "published": "2026-07-07T22:18:10+00:00",
-      "link": "https://techcrunch.com/2026/07/07/meta-rolls-out-muse-a-new-ai-image-generator/"
-    },
-    {
-      "title": "Meta Now Lets Anyone Use Your Instagram Photos in AI Images—Unless You Opt Out",
-      "summary": "As part of Meta’s Muse Image model rollout, Instagram users with public accounts need to opt out to block AI generations of their content.",
-      "source": "Wired",
-      "published": "2026-07-07T21:59:29+00:00",
-      "link": "https://www.wired.com/story/meta-now-lets-anyone-use-your-instagram-photos-in-ai-images-unless-you-opt-out/"
     }
   ]
 };
