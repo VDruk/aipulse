@@ -1,6 +1,55 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-07-14T17:57:45.551837+00:00",
+  "lastUpdated": "2026-07-14T21:50:29.023147+00:00",
   "items": [
+    {
+      "title": "OpenAI’s new flagship model deletes files on its own, people keep warning",
+      "summary": "A number of social media posts claim that GPT-5.6 Sol deleted files and data without warning. OpenAI had basically disclosed the problem in June.",
+      "source": "TechCrunch",
+      "published": "2026-07-14T21:50:11+00:00",
+      "link": "https://techcrunch.com/2026/07/14/openais-new-flagship-model-deletes-files-on-its-own-people-keep-warning/"
+    },
+    {
+      "title": "OpenAI may announce a ChatGPT smart speaker this year",
+      "summary": "OpenAI's first device is set to be a smart speaker that lets you talk with ChatGPT, according to a report from Bloomberg. The device apparently won't have a screen, but will use a camera and additional sensors to \"understand\" your environment.",
+      "source": "The Verge",
+      "published": "2026-07-14T21:26:32+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/965670/openai-chatgpt-ai-smart-speaker-hardware-device"
+    },
+    {
+      "title": "Apple opens its new Siri AI to everyone with the iOS 27 public beta",
+      "summary": "If you’ve been waiting to try Apple’s revamped Siri without installing a developer beta, you now can.",
+      "source": "TechCrunch",
+      "published": "2026-07-14T19:42:27+00:00",
+      "link": "https://techcrunch.com/2026/07/14/apple-opens-its-new-siri-ai-to-everyone-with-the-ios-27-public-beta/"
+    },
+    {
+      "title": "Anthropic’s newest ad is creeping people out",
+      "summary": "Anthropic has consistently attempted to depict itself as the ethical foil to other AI companies. This latest marketing stunt — which leans into criticism of AI as a way to make Anthropic seem aware of the responsibility it carries — would appear to be more of the same.",
+      "source": "TechCrunch",
+      "published": "2026-07-14T19:41:27+00:00",
+      "link": "https://techcrunch.com/2026/07/14/anthropics-newest-ad-is-creeping-people-out/"
+    },
+    {
+      "title": "The founder of Hinge raised $18M to build a new AI dating service, Overtone",
+      "summary": "Overtone describes itself as \"a voice- and audio-forward service, enabled by AI, that provides highly curated introductions.\"",
+      "source": "TechCrunch",
+      "published": "2026-07-14T19:39:39+00:00",
+      "link": "https://techcrunch.com/2026/07/14/the-founder-of-hinge-raised-18m-to-build-a-new-ai-dating-service-overtone/"
+    },
+    {
+      "title": "SpaceXAI’s Grok programming tool was uploading its users’ entire codebase to cloud storage",
+      "summary": "SpaceXAI's Grok Build AI coding tool was spotted uploading users' entire codebases to Google Cloud before it was reported, and the company turned it off.",
+      "source": "The Verge",
+      "published": "2026-07-14T19:25:00+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/965600/spacexai-grok-build-repository-upload"
+    },
+    {
+      "title": "Google faces another AI training lawsuit from major publishers",
+      "summary": "Hachette, Cengage, Elsevier, and other publishers allege that Google trained its AI on copyrighted works without the necessary permissions.",
+      "source": "TechCrunch",
+      "published": "2026-07-14T18:33:31+00:00",
+      "link": "https://techcrunch.com/2026/07/14/google-faces-another-ai-training-lawsuit-from-major-publishers/"
+    },
     {
       "title": "DeepMind CEO calls for an independent standards body to regulate frontier AI",
       "summary": "DeepMind CEO Demis Hassabis is proposing an AI \"standards body\" modeled after FINRA, to test frontier models and develop best practices for their release.",
@@ -66,7 +115,7 @@ const FEED_DATA = {
     },
     {
       "title": "Are we offloading too much of our thinking to AI?",
-      "summary": "Article URL: https://www.artfish.ai/p/offloading-thinking-to-ai Comments URL: https://news.ycombinator.com/item?id=48908178 Points: 197 # Comments: 181",
+      "summary": "Article URL: https://www.artfish.ai/p/offloading-thinking-to-ai Comments URL: https://news.ycombinator.com/item?id=48908178 Points: 323 # Comments: 318",
       "source": "Hacker News",
       "published": "2026-07-14T15:18:13+00:00",
       "link": "https://www.artfish.ai/p/offloading-thinking-to-ai"
@@ -115,7 +164,7 @@ const FEED_DATA = {
     },
     {
       "title": "Proof of care in the age of AI",
-      "summary": "Article URL: https://jacobfilipp.com/care/ Comments URL: https://news.ycombinator.com/item?id=48906125 Points: 147 # Comments: 92",
+      "summary": "Article URL: https://jacobfilipp.com/care/ Comments URL: https://news.ycombinator.com/item?id=48906125 Points: 161 # Comments: 102",
       "source": "Hacker News",
       "published": "2026-07-14T12:56:25+00:00",
       "link": "https://jacobfilipp.com/care/"
@@ -171,7 +220,7 @@ const FEED_DATA = {
     },
     {
       "title": "Demis Hassabis has a plan to harness AI safely",
-      "summary": "https://xcancel.com/i/article/2076957440109625718https://www.economist.com/business/2026/07/14/demis-hassabis..., https://archive.ph/GOUcN Comments URL: https://news.ycombinator.com/item?id=48904095 Points: 99 # Comments: 119",
+      "summary": "https://xcancel.com/i/article/2076957440109625718https://www.economist.com/business/2026/07/14/demis-hassabis..., https://archive.ph/GOUcN Comments URL: https://news.ycombinator.com/item?id=48904095 Points: 123 # Comments: 155",
       "source": "Hacker News",
       "published": "2026-07-14T09:20:07+00:00",
       "link": "https://twitter.com/demishassabis/status/2076957440109625718"
@@ -241,7 +290,7 @@ const FEED_DATA = {
     },
     {
       "title": "Samsung Health app threatens data deletion if users opt out AI training",
-      "summary": "Article URL: https://neow.in/cWsyMTV3 Comments URL: https://news.ycombinator.com/item?id=48897991 Points: 338 # Comments: 92",
+      "summary": "Article URL: https://neow.in/cWsyMTV3 Comments URL: https://news.ycombinator.com/item?id=48897991 Points: 342 # Comments: 94",
       "source": "Hacker News",
       "published": "2026-07-13T20:01:43+00:00",
       "link": "https://neow.in/cWsyMTV3"
@@ -255,7 +304,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI is a bad tool",
-      "summary": "Article URL: https://bytecode.news/posts/2026/07/user-submission-ai-is-a-bad-tool Comments URL: https://news.ycombinator.com/item?id=48897861 Points: 80 # Comments: 92",
+      "summary": "Article URL: https://bytecode.news/posts/2026/07/user-submission-ai-is-a-bad-tool Comments URL: https://news.ycombinator.com/item?id=48897861 Points: 80 # Comments: 93",
       "source": "Hacker News",
       "published": "2026-07-13T19:51:15+00:00",
       "link": "https://bytecode.news/posts/2026/07/user-submission-ai-is-a-bad-tool"
@@ -528,14 +577,14 @@ const FEED_DATA = {
     },
     {
       "title": "Stop Telling Me to Ask an LLM",
-      "summary": "Article URL: https://blog.yaelwrites.com/stop-telling-me-to-ask-an-llm/ Comments URL: https://news.ycombinator.com/item?id=48876441 Points: 240 # Comments: 137",
+      "summary": "Article URL: https://blog.yaelwrites.com/stop-telling-me-to-ask-an-llm/ Comments URL: https://news.ycombinator.com/item?id=48876441 Points: 240 # Comments: 138",
       "source": "Hacker News",
       "published": "2026-07-11T22:28:48+00:00",
       "link": "https://blog.yaelwrites.com/stop-telling-me-to-ask-an-llm/"
     },
     {
       "title": "AI 2040 and the cult of intelligence",
-      "summary": "Article URL: https://geohot.github.io//blog/jekyll/update/2026/07/11/ai-2040.html Comments URL: https://news.ycombinator.com/item?id=48874200 Points: 229 # Comments: 264",
+      "summary": "Article URL: https://geohot.github.io//blog/jekyll/update/2026/07/11/ai-2040.html Comments URL: https://news.ycombinator.com/item?id=48874200 Points: 230 # Comments: 264",
       "source": "Hacker News",
       "published": "2026-07-11T18:04:01+00:00",
       "link": "https://geohot.github.io//blog/jekyll/update/2026/07/11/ai-2040.html"
@@ -577,7 +626,7 @@ const FEED_DATA = {
     },
     {
       "title": "Microsoft latest report shows 25% emissions raised due to AI data centers",
-      "summary": "Article URL: https://www.windowscentral.com/microsoft/dropping-greenwashing-credits-and-expanding-ai-datacenters-caused-microsofts-25-percent-emissions-jump Comments URL: https://news.ycombinator.com/item?id=48870229 Points: 53 # Comments: 21",
+      "summary": "Article URL: https://www.windowscentral.com/microsoft/dropping-greenwashing-credits-and-expanding-ai-datacenters-caused-microsofts-25-percent-emissions-jump Comments URL: https://news.ycombinator.com/item?id=48870229 Points: 55 # Comments: 22",
       "source": "Hacker News",
       "published": "2026-07-11T09:10:45+00:00",
       "link": "https://www.windowscentral.com/microsoft/dropping-greenwashing-credits-and-expanding-ai-datacenters-caused-microsofts-25-percent-emissions-jump"
@@ -1351,55 +1400,6 @@ const FEED_DATA = {
       "source": "Hacker News",
       "published": "2026-07-08T16:19:36+00:00",
       "link": "https://cognition.com/blog/swe-1-7"
-    },
-    {
-      "title": "Anthropic's Claude Fable 5 dominates new industry benchmarks at a steep premium",
-      "summary": "Anthropic's Claude Fable 5 tops all six new industry-specific performance indices from Artificial Analysis, covering finance, law, and medicine. But that lead comes at a steep cost.",
-      "source": "The Decoder",
-      "published": "2026-07-08T15:59:12+00:00",
-      "link": "https://the-decoder.com/anthropics-claude-fable-5-dominates-new-industry-benchmarks-at-a-steep-premium/"
-    },
-    {
-      "title": "These AI startups are growing revenue at faster and faster rates",
-      "summary": "There are a lot of fast-growing AI startups, but some are growing even faster, they say.",
-      "source": "TechCrunch",
-      "published": "2026-07-08T15:41:06+00:00",
-      "link": "https://techcrunch.com/2026/07/08/these-ai-startups-are-growing-revenue-at-faster-and-faster-rates/"
-    },
-    {
-      "title": "Google Deepmind adds background execution and MCP support to Gemini API managed agents",
-      "summary": "Google Deepmind is adding four new features to Managed Agents in the Gemini API. Agents can now run asynchronously in the background, connect directly to remote MCP servers, use custom functions alongside sandbox tools, and refresh credentials without losing state.",
-      "source": "The Decoder",
-      "published": "2026-07-08T14:45:35+00:00",
-      "link": "https://the-decoder.com/google-deepmind-adds-background-execution-and-mcp-support-to-gemini-api-managed-agents/"
-    },
-    {
-      "title": "US rare earths flow to Asia as domestic demand is slow to emerge",
-      "summary": "Miners backed by Trump admin sell to Japan, South Korea despite push to develop domestic supply chain.",
-      "source": "Ars Technica",
-      "published": "2026-07-08T13:26:10+00:00",
-      "link": "https://arstechnica.com/science/2026/07/us-rare-earths-flow-to-asia-as-domestic-demand-is-slow-to-emerge/"
-    },
-    {
-      "title": "Your gaming data could be the secret to AGI, according to this Bezos-backed startup",
-      "summary": "When it comes to achieving artificial general intelligence (AGI), large language models just don’t have what it takes.",
-      "source": "TechCrunch",
-      "published": "2026-07-08T13:00:00+00:00",
-      "link": "https://techcrunch.com/podcast/your-gaming-data-could-be-the-secret-to-agi-according-to-this-bezos-backed-startup/"
-    },
-    {
-      "title": "Chinese AI startup MiniMax plans to open-source a 2.7 trillion parameter model later this year",
-      "summary": "Chinese AI developer MiniMax is working on a new large language model with 2.7 trillion parameters. MiniMax plans to release the model as open source.",
-      "source": "The Decoder",
-      "published": "2026-07-08T12:44:52+00:00",
-      "link": "https://the-decoder.com/chinese-ai-startup-minimax-plans-to-open-source-a-2-7-trillion-parameter-model-later-this-year/"
-    },
-    {
-      "title": "The Download: worms fight pollution, and geoengineering faces reality",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.",
-      "source": "MIT Tech Review",
-      "published": "2026-07-08T12:10:00+00:00",
-      "link": "https://www.technologyreview.com/2026/07/08/1140216/the-download-worms-manure-pollution-geoengineering-reality-check/"
     }
   ]
 };
