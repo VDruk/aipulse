@@ -1,6 +1,27 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-07-14T07:11:03.141645+00:00",
+  "lastUpdated": "2026-07-14T10:27:25.421531+00:00",
   "items": [
+    {
+      "title": "The Chatbot That Foretold Why People Share Secrets With ChatGPT",
+      "summary": "In the 1960s an MIT professor named Joseph Weizenbaum created a chatbot called ELIZA. The conversations people had with it set precedents for the chatbots to come.",
+      "source": "Wired",
+      "published": "2026-07-14T10:00:00+00:00",
+      "link": "https://www.wired.com/story/inventing-eliza-book-excerpt-chatbot/"
+    },
+    {
+      "title": "New York becomes the first state to enact a data center moratorium",
+      "summary": "New hyperscale data centers can't set up shop in New York for up to a year now that Governor Kathy Hochul (D) has signed the nation's first statewide moratorium. But a bill passed by the state legislature that could restrict even more developments still awaits her signature.",
+      "source": "The Verge",
+      "published": "2026-07-14T09:00:00+00:00",
+      "link": "https://www.theverge.com/policy/965110/new-york-ai-data-center-moratorium"
+    },
+    {
+      "title": "DOGE Used AI for Housing Policy. The Government Won’t Say How",
+      "summary": "In response to a public records request, HUD has withheld documents about DOGE’s use of AI—in part by citing a privilege that doesn’t exist.",
+      "source": "Wired",
+      "published": "2026-07-14T09:00:00+00:00",
+      "link": "https://www.wired.com/story/doge-deployed-ai-housing-policy/"
+    },
     {
       "title": "Already rich, already successful, why the last wave of tech winners is grinding again",
       "summary": "They're rolling up their sleeves again, seemingly out of fear of missing AI's defining moment and, presumably, the irresistible allure of making even more money -- potentially a lot more.",
@@ -52,7 +73,7 @@ const FEED_DATA = {
     },
     {
       "title": "Samsung Health app threatens data deletion if users opt out AI training",
-      "summary": "Article URL: https://neow.in/cWsyMTV3 Comments URL: https://news.ycombinator.com/item?id=48897991 Points: 308 # Comments: 83",
+      "summary": "Article URL: https://neow.in/cWsyMTV3 Comments URL: https://news.ycombinator.com/item?id=48897991 Points: 325 # Comments: 87",
       "source": "Hacker News",
       "published": "2026-07-13T20:01:43+00:00",
       "link": "https://neow.in/cWsyMTV3"
@@ -66,7 +87,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI is a bad tool",
-      "summary": "Article URL: https://bytecode.news/posts/2026/07/user-submission-ai-is-a-bad-tool Comments URL: https://news.ycombinator.com/item?id=48897861 Points: 75 # Comments: 88",
+      "summary": "Article URL: https://bytecode.news/posts/2026/07/user-submission-ai-is-a-bad-tool Comments URL: https://news.ycombinator.com/item?id=48897861 Points: 77 # Comments: 91",
       "source": "Hacker News",
       "published": "2026-07-13T19:51:15+00:00",
       "link": "https://bytecode.news/posts/2026/07/user-submission-ai-is-a-bad-tool"
@@ -80,7 +101,7 @@ const FEED_DATA = {
     },
     {
       "title": "Show HN: BillAI Bass, an AI-Powered Big Mouth Billy Bass Using Strands Agents",
-      "summary": "Article URL: https://github.com/morganwilliscloud/billai-bass Comments URL: https://news.ycombinator.com/item?id=48896599 Points: 67 # Comments: 27",
+      "summary": "Article URL: https://github.com/morganwilliscloud/billai-bass Comments URL: https://news.ycombinator.com/item?id=48896599 Points: 70 # Comments: 27",
       "source": "Hacker News",
       "published": "2026-07-13T18:18:23+00:00",
       "link": "https://github.com/morganwilliscloud/billai-bass"
@@ -234,7 +255,7 @@ const FEED_DATA = {
     },
     {
       "title": "Migrating a production AI agent to GPT-5.6: 2.2x faster, 27% cheaper",
-      "summary": "Article URL: https://ploy.ai/blog/migrating-a-production-ai-agent-to-gpt-5-6 Comments URL: https://news.ycombinator.com/item?id=48882716 Points: 255 # Comments: 127",
+      "summary": "Article URL: https://ploy.ai/blog/migrating-a-production-ai-agent-to-gpt-5-6 Comments URL: https://news.ycombinator.com/item?id=48882716 Points: 256 # Comments: 128",
       "source": "Hacker News",
       "published": "2026-07-12T17:13:07+00:00",
       "link": "https://ploy.ai/blog/migrating-a-production-ai-agent-to-gpt-5-6"
@@ -339,7 +360,7 @@ const FEED_DATA = {
     },
     {
       "title": "Stop Telling Me to Ask an LLM",
-      "summary": "Article URL: https://blog.yaelwrites.com/stop-telling-me-to-ask-an-llm/ Comments URL: https://news.ycombinator.com/item?id=48876441 Points: 238 # Comments: 135",
+      "summary": "Article URL: https://blog.yaelwrites.com/stop-telling-me-to-ask-an-llm/ Comments URL: https://news.ycombinator.com/item?id=48876441 Points: 239 # Comments: 135",
       "source": "Hacker News",
       "published": "2026-07-11T22:28:48+00:00",
       "link": "https://blog.yaelwrites.com/stop-telling-me-to-ask-an-llm/"
@@ -479,7 +500,7 @@ const FEED_DATA = {
     },
     {
       "title": "GPT-5.6, Grok 4.5, Claude, and Muse Spark build the same 4 apps",
-      "summary": "Article URL: https://www.tryai.dev/blog/gpt-5.6-build-off-12-models Comments URL: https://news.ycombinator.com/item?id=48865093 Points: 159 # Comments: 86",
+      "summary": "Article URL: https://www.tryai.dev/blog/gpt-5.6-build-off-12-models Comments URL: https://news.ycombinator.com/item?id=48865093 Points: 159 # Comments: 87",
       "source": "Hacker News",
       "published": "2026-07-10T20:52:28+00:00",
       "link": "https://www.tryai.dev/blog/gpt-5.6-build-off-12-models"
@@ -1379,27 +1400,6 @@ const FEED_DATA = {
       "source": "The Verge",
       "published": "2026-07-07T17:46:59+00:00",
       "link": "https://www.theverge.com/ai-artificial-intelligence/961978/anthropic-claude-cowork-mobile-web"
-    },
-    {
-      "title": "Anthropic's Claude Cowork AI agent is now available on mobile and web",
-      "summary": "Anthropic is rolling out its AI agent Claude Cowork to mobile and web. Until now, the feature was limited to the desktop app.",
-      "source": "The Decoder",
-      "published": "2026-07-07T17:04:30+00:00",
-      "link": "https://the-decoder.com/anthropics-claude-cowork-ai-agent-is-now-available-on-mobile-and-web/"
-    },
-    {
-      "title": "Claude Cowork expands to mobile and web",
-      "summary": "With this update, users can start a task from their desk, get status updates on their phone, and pick up the finished output later — even if their laptop is closed.",
-      "source": "TechCrunch",
-      "published": "2026-07-07T16:27:18+00:00",
-      "link": "https://techcrunch.com/2026/07/07/the-coding-agent-wars-are-spilling-into-the-rest-of-the-office-claude-cowork/"
-    },
-    {
-      "title": "China eyes export curbs on its top AI models, and Europe is caught in the middle",
-      "summary": "According to Reuters, Chinese authorities are looking into restricting foreign access to the country's most powerful AI models. Alibaba, Bytedance, and Z.ai would all be affected.",
-      "source": "The Decoder",
-      "published": "2026-07-07T16:13:45+00:00",
-      "link": "https://the-decoder.com/china-eyes-export-curbs-on-its-top-ai-models-and-europe-is-caught-in-the-middle/"
     }
   ]
 };
