@@ -1,6 +1,83 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-07-14T10:27:25.421531+00:00",
+  "lastUpdated": "2026-07-14T14:54:01.779424+00:00",
   "items": [
+    {
+      "title": "Reflection inks $1B compute deal with Nebius",
+      "summary": "Reflection AI has signed a $1 billion deal to access Nebius's compute. Reflection was founded in 2024 and is developing open source AI technology.",
+      "source": "TechCrunch",
+      "published": "2026-07-14T14:37:48+00:00",
+      "link": "https://techcrunch.com/2026/07/14/reflection-inks-1b-compute-deal-with-nebius/"
+    },
+    {
+      "title": "The real AI race may no longer be at the frontier",
+      "summary": "Hugging Face CEO Clem Delangue says enterprises increasingly want open models, due to cost, accessibility, and ownership. Do frontier models still matter if most production AI ends up running on open models?",
+      "source": "TechCrunch",
+      "published": "2026-07-14T14:24:53+00:00",
+      "link": "https://techcrunch.com/2026/07/14/the-real-ai-race-may-no-longer-be-at-the-frontier-open-models-hugging-face/"
+    },
+    {
+      "title": "Spotify expands its AI push with a ChatGPT-like music assistant",
+      "summary": "Spotify is rolling out a new AI-powered conversational feature that lets Premium subscribers chat with the app to discover music, podcasts, audiobooks, and more.",
+      "source": "TechCrunch",
+      "published": "2026-07-14T14:06:47+00:00",
+      "link": "https://techcrunch.com/2026/07/14/spotify-expands-its-ai-push-with-a-chatgpt-like-music-assistant/"
+    },
+    {
+      "title": "Sam Altman didn’t need another lawsuit",
+      "summary": "OpenAI has spent the better part of the year involved in lawsuit after lawsuit, including one from the world's richest man. But last Friday, the company was hit with one of the highest-profile legal actions yet - from Apple.",
+      "source": "The Verge",
+      "published": "2026-07-14T14:01:07+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/965294/openai-apple-trade-secrets-lawsuit-sam-altman-ipo"
+    },
+    {
+      "title": "Superhuman’s new auto-draft feature almost makes me like AI replies",
+      "summary": "Superhuman’s latest AI email drafting feature is its most convincing yet, generating replies that often required little to no editing in our testing.",
+      "source": "TechCrunch",
+      "published": "2026-07-14T14:00:00+00:00",
+      "link": "https://techcrunch.com/2026/07/14/superhumans-new-auto-draft-feature-almost-makes-me-like-ai-replies/"
+    },
+    {
+      "title": "The Download: Claude’s inner workings, and the future of world models",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.",
+      "source": "MIT Tech Review",
+      "published": "2026-07-14T12:10:00+00:00",
+      "link": "https://www.technologyreview.com/2026/07/14/1140391/the-download-anthropic-claude-internal-thoughts-world-models/"
+    },
+    {
+      "title": "ChatGPT returns to WhatsApp in Europe after EU forces Meta to open the door to rival AI bots",
+      "summary": "OpenAI has re-enabled ChatGPT on WhatsApp, but only in the European Economic Area, covering the 27 EU member states plus Liechtenstein, Iceland, and Norway.",
+      "source": "The Decoder",
+      "published": "2026-07-14T12:02:06+00:00",
+      "link": "https://the-decoder.com/chatgpt-returns-to-whatsapp-in-europe-after-eu-forces-meta-to-open-the-door-to-rival-ai-bots/"
+    },
+    {
+      "title": "Deepmind CEO Hassabis says \"nobody in the world knows what happens next\" so \"cautious optimism\" means building guardrails now",
+      "summary": "Google Deepmind CEO Demis Hassabis has published a sweeping proposal for how to handle advanced AI.",
+      "source": "The Decoder",
+      "published": "2026-07-14T11:49:03+00:00",
+      "link": "https://the-decoder.com/deepmind-ceo-hassabis-says-nobody-in-the-world-knows-what-happens-next-so-cautious-optimism-means-building-guardrails-now/"
+    },
+    {
+      "title": "Google’s Demis Hassabis says it’s time for a global AI watchdog — led by the US",
+      "summary": "Demis Hassabis thinks the world needs an AI watchdog with the power to hit the brakes if frontier models become too dangerous.",
+      "source": "The Verge",
+      "published": "2026-07-14T11:43:29+00:00",
+      "link": "https://www.theverge.com/tech/965270/google-deepmind-demis-hassabis-global-ai-watchdog"
+    },
+    {
+      "title": "PixVerse's $2B valuation shows investors still believe AI video generation has room for another winner",
+      "summary": "Singapore-based AI video startup PixVerse is now valued at over $2 billion after an extended Series C round. The article PixVerse's $2B valuation shows investors still believe AI video generation has room for another winner appeared first on The Decoder.",
+      "source": "The Decoder",
+      "published": "2026-07-14T11:13:39+00:00",
+      "link": "https://the-decoder.com/pixverses-2b-valuation-shows-investors-still-believe-ai-video-generation-has-room-for-another-winner/"
+    },
+    {
+      "title": "Claude responds with more warmth in Hindi and more rigor in Russian, showing how language shapes AI answers",
+      "summary": "A new Anthropic study maps hundreds of value concepts derived from thousands of individual terms onto four core dimensions. It reveals systematic differences across Claude models and languages, but also raises methodological questions.",
+      "source": "The Decoder",
+      "published": "2026-07-14T11:00:12+00:00",
+      "link": "https://the-decoder.com/claude-values-study/"
+    },
     {
       "title": "The Chatbot That Foretold Why People Share Secrets With ChatGPT",
       "summary": "In the 1960s an MIT professor named Joseph Weizenbaum created a chatbot called ELIZA. The conversations people had with it set precedents for the chatbots to come.",
@@ -30,8 +107,8 @@ const FEED_DATA = {
       "link": "https://techcrunch.com/2026/07/13/already-rich-already-successful-why-the-last-wave-of-tech-winners-is-grinding-again/"
     },
     {
-      "title": "Uber’s product chief on hotels, robotaxis, and why the company doesn’t want to be “everything for everyone”",
-      "summary": "Uber Chief Product Officer Sachin Kansal walks TechCrunch through the company's financial-services ambitions, its increasingly complicated relationship with Waymo, its new AV Labs data operation, and how AI is starting to show up in ways riders and drivers will actually notice.",
+      "title": "Uber’s product chief on hotels, robotaxis, and why the company doesn’t want to be ‘everything for everyone’",
+      "summary": "Uber Chief Product Officer Sachin Kansal walks TechCrunch through the company's financial services ambitions, its increasingly complicated relationship with Waymo, its new AV Labs data operation, and how AI is starting to show up in ways riders and drivers will actually notice.",
       "source": "TechCrunch",
       "published": "2026-07-14T00:45:00+00:00",
       "link": "https://techcrunch.com/2026/07/13/ubers-product-chief-on-hotels-robotaxis-and-why-the-company-doesnt-want-to-be-everything-for-everyone/"
@@ -1323,83 +1400,6 @@ const FEED_DATA = {
       "source": "Wired",
       "published": "2026-07-07T21:59:29+00:00",
       "link": "https://www.wired.com/story/meta-now-lets-anyone-use-your-instagram-photos-in-ai-images-unless-you-opt-out/"
-    },
-    {
-      "title": "OpenAI’s Chief Futurist Is Leaving the Company",
-      "summary": "Joshua Achiam spent nearly nine years at OpenAI researching AI safety and made a memorable appearance in the Musk v. Altman trial.",
-      "source": "Wired",
-      "published": "2026-07-07T21:30:00+00:00",
-      "link": "https://www.wired.com/story/openai-chief-futurist-joshua-achiam-is-leaving-the-company/"
-    },
-    {
-      "title": "We charge $10k a week to delete AI-generated code",
-      "summary": "Article URL: https://odra.dev/slopfix/ Comments URL: https://news.ycombinator.com/item?id=48823359 Points: 302 # Comments: 237",
-      "source": "Hacker News",
-      "published": "2026-07-07T20:35:42+00:00",
-      "link": "https://odra.dev/slopfix/"
-    },
-    {
-      "title": "Meta’s new Muse Image model can pull other Instagram users into AI photos",
-      "summary": "Meta is launching the first AI image generation model made by its Superintelligence Labs division.",
-      "source": "The Verge",
-      "published": "2026-07-07T20:31:58+00:00",
-      "link": "https://www.theverge.com/tech/962485/meta-muse-image-ai-model-instagram"
-    },
-    {
-      "title": "Re: I'm Begging You to Leave Your AI Note-Taker at Home",
-      "summary": "Article URL: https://firesphere.dev/articles/yes-actually-i-do-fucking-mind Comments URL: https://news.ycombinator.com/item?id=48823024 Points: 60 # Comments: 100",
-      "source": "Hacker News",
-      "published": "2026-07-07T20:10:13+00:00",
-      "link": "https://firesphere.dev/articles/yes-actually-i-do-fucking-mind"
-    },
-    {
-      "title": "Why the rise of open source AI isn’t hurting Anthropic … yet",
-      "summary": "Open source models’ success isn’t coming at the expense of frontier labs. Instead, they each seem to capture two phases of the same life cycle.",
-      "source": "TechCrunch",
-      "published": "2026-07-07T20:04:32+00:00",
-      "link": "https://techcrunch.com/2026/07/07/why-the-rise-of-open-source-ai-isnt-hurting-anthropic-yet/"
-    },
-    {
-      "title": "Microsoft joins AI cost-cutting trend by relying more on its own models",
-      "summary": "Microsoft is the latest Silicon Valley giant to cut back on its AI spending.",
-      "source": "TechCrunch",
-      "published": "2026-07-07T19:58:20+00:00",
-      "link": "https://techcrunch.com/2026/07/07/microsoft-joins-ai-cost-cutting-trend-by-relying-more-on-its-own-models/"
-    },
-    {
-      "title": "Discord admits AI moderation bug wrongfully banned users over harmless images",
-      "summary": "The company confirmed that the issue had been affecting accounts since May, with an additional 200 users banned over the weekend before its team identified and fixed the problem.",
-      "source": "TechCrunch",
-      "published": "2026-07-07T19:28:38+00:00",
-      "link": "https://techcrunch.com/2026/07/07/discord-admits-ai-moderation-bug-wrongfully-banned-users-over-harmless-images/"
-    },
-    {
-      "title": "AI Meets Cryptography 1: What AI Found in Cloudflare's Circl",
-      "summary": "Article URL: https://blog.zksecurity.xyz/posts/circl-bugs/ Comments URL: https://news.ycombinator.com/item?id=48821749 Points: 111 # Comments: 12",
-      "source": "Hacker News",
-      "published": "2026-07-07T18:36:35+00:00",
-      "link": "https://blog.zksecurity.xyz/posts/circl-bugs/"
-    },
-    {
-      "title": "Copilot goes cheap as Microsoft phases out OpenAI and Anthropic models to cut costs",
-      "summary": "Microsoft is replacing AI models from OpenAI and Anthropic with its own MAI models in products like Excel and Outlook. Tens of thousands of queries per week already run through them.",
-      "source": "The Decoder",
-      "published": "2026-07-07T18:35:58+00:00",
-      "link": "https://the-decoder.com/copilot-goes-cheap-as-microsoft-phases-out-openai-and-anthropic-models-to-cut-costs/"
-    },
-    {
-      "title": "Cohere Transcribe Arabic is an open-source model built for Arabic's toughest transcription problems",
-      "summary": "Cohere has released Transcribe Arabic, an open-source model for Arabic speech recognition that the company says outperforms Whisper and OmniASR on dialects, code-switching, and bilingual Arabic-English speech.",
-      "source": "The Decoder",
-      "published": "2026-07-07T17:54:08+00:00",
-      "link": "https://the-decoder.com/cohere-transcribe-arabic-is-an-open-source-model-built-for-arabics-toughest-transcription-problems/"
-    },
-    {
-      "title": "Anthropic is launching Claude Cowork on mobile and web",
-      "summary": "Starting Tuesday, Anthropic's Claude Cowork AI platform will be available on mobile and web for the first time.",
-      "source": "The Verge",
-      "published": "2026-07-07T17:46:59+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/961978/anthropic-claude-cowork-mobile-web"
     }
   ]
 };
