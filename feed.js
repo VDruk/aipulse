@@ -1,6 +1,48 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-07-15T10:39:26.171373+00:00",
+  "lastUpdated": "2026-07-15T14:53:02.059711+00:00",
   "items": [
+    {
+      "title": "Anthropic, Blackstone bet the next trillion-dollar AI business is implementation, not just models",
+      "summary": "Anthropic-backed Ode launches as AI labs bet that embedding forward-deployed engineers inside enterprises is the key to accelerating enterprise AI adoption.",
+      "source": "TechCrunch",
+      "published": "2026-07-15T13:10:47+00:00",
+      "link": "https://techcrunch.com/2026/07/15/anthropic-blackstone-bet-the-next-trillion-dollar-ai-business-is-implementation-not-models/"
+    },
+    {
+      "title": "Reelful’s AI turns your camera roll into short-form videos for social media",
+      "summary": "The app is designed for people who want to create social content, but find traditional video editing tools too complex or time-consuming.",
+      "source": "TechCrunch",
+      "published": "2026-07-15T13:00:00+00:00",
+      "link": "https://techcrunch.com/2026/07/15/reelfuls-ai-turns-your-camera-roll-into-short-form-videos-for-social-media/"
+    },
+    {
+      "title": "The Download: a useful quantum machine and a record-breaking subsea tunnel",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.",
+      "source": "MIT Tech Review",
+      "published": "2026-07-15T12:10:00+00:00",
+      "link": "https://www.technologyreview.com/2026/07/15/1140498/the-download-useful-quantum-computer-subsea-tunnel/"
+    },
+    {
+      "title": "Indian AI coding startup Emergent becomes a unicorn with $130M Series C",
+      "summary": "The startup has reached a $120 million annualized revenue run rate and more than 200,000 paying customers.",
+      "source": "TechCrunch",
+      "published": "2026-07-15T12:00:00+00:00",
+      "link": "https://techcrunch.com/2026/07/15/indian-ai-coding-startup-emergent-becomes-a-unicorn-just-over-a-year-after-launch/"
+    },
+    {
+      "title": "Vint Cerf is working on a plan to unleash AI agents on the open internet",
+      "summary": "The guy behind TCP/IP is working on a standard for identifying AI agents in the wild.",
+      "source": "TechCrunch",
+      "published": "2026-07-15T12:00:00+00:00",
+      "link": "https://techcrunch.com/2026/07/15/vint-cerf-is-working-on-a-plan-to-unleash-ai-agents-on-the-open-internet/"
+    },
+    {
+      "title": "An Inventor of Apple's FaceID Wants to Analyze Your Brain's Health With AI",
+      "summary": "Gidi Littwin's new AI startup, Hemispheric, makes diagnostic brain scans for conditions like depression, PTSD, and Parkinson’s. He wants the technology to be as cheap and easy as a blood test.",
+      "source": "Wired",
+      "published": "2026-07-15T12:00:00+00:00",
+      "link": "https://www.wired.com/story/the-apple-faceid-veteran-building-a-frontier-ai-model-for-the-human-brain/"
+    },
     {
       "title": "My Ebike Delivery Went Missing. When I Tried to Recover It, I Ended Up in Chatbot Hell",
       "summary": "Companies’ increasing reliance on AI chatbots isn’t making the customer service experience smarter. It’s just making it more infuriating.",
@@ -1358,48 +1400,6 @@ const FEED_DATA = {
       "source": "Hacker News",
       "published": "2026-07-08T23:11:28+00:00",
       "link": "https://arstechnica.com/ai/2026/07/we-cannot-choose-to-become-idiots-the-ai-cheating-scandal-roiling-brown-university/"
-    },
-    {
-      "title": "Messi and Ronaldo Are Building Tech Portfolios. Mo Salah Is Playing a Different Game",
-      "summary": "Lionel Messi and Cristiano Ronaldo are betting on AI, health tech, and startups. Mohamed Salah is taking a more traditional route beyond football.",
-      "source": "Wired",
-      "published": "2026-07-08T21:08:26+00:00",
-      "link": "https://www.wired.com/story/messi-ronaldo-tech-portfolios-salah-playing-a-different-game/"
-    },
-    {
-      "title": "Google’s deepfake detector system used to debunk McConnell hoax pic",
-      "summary": "Earlier this week, a picture seemed to show Kentucky Senator Mitch McConnell covered in tubes in a hospital bed in a state of extreme distress. It turned out to be an AI-generated fake.",
-      "source": "TechCrunch",
-      "published": "2026-07-08T20:37:03+00:00",
-      "link": "https://techcrunch.com/2026/07/08/googles-deepfake-detector-system-used-to-debunk-mcconnell-hoax-pic/"
-    },
-    {
-      "title": "I Built a Self-Improving AI, and So Can You",
-      "summary": "Experiments in using AI to build AI show that the future doesn’t just belong to the frontier labs.",
-      "source": "Wired",
-      "published": "2026-07-08T20:09:21+00:00",
-      "link": "https://www.wired.com/story/frontier-labs-arent-the-only-ones-pursuing-self-improving-ai/"
-    },
-    {
-      "title": "SpaceXAI releases Grok 4.5, which Elon describes as an ‘Opus-class model’",
-      "summary": "Elon Musk's tech company released the newest version of Grok on Wednesday, promising a cheaper, more efficient alternative to other powerful AI models.",
-      "source": "TechCrunch",
-      "published": "2026-07-08T19:30:16+00:00",
-      "link": "https://techcrunch.com/2026/07/08/spacexai-releases-grok-4-5-which-elon-describes-as-an-opus-class-model/"
-    },
-    {
-      "title": "This startup thinks robotics is about to have its ChatGPT moment",
-      "summary": "General Intuition is betting millions of hours of video game data can train the foundation models for physical AI, making it easier to build smarter robots with minimal real-world data.",
-      "source": "TechCrunch",
-      "published": "2026-07-08T19:19:15+00:00",
-      "link": "https://techcrunch.com/2026/07/08/this-startup-thinks-robotics-is-about-to-have-its-chatgpt-moment/"
-    },
-    {
-      "title": "Google pays $250K for Linux vulnerability allowing guest VM escapes",
-      "summary": "Both vulnerabilities allow untrusted users to gain root privileges.",
-      "source": "Ars Technica",
-      "published": "2026-07-08T19:01:19+00:00",
-      "link": "https://arstechnica.com/security/2026/07/high-severity-guest-vm-escape-is-1-of-2-linux-vulnerabilities-to-surface-this-week/"
     }
   ]
 };
