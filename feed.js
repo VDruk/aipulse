@@ -1,6 +1,41 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-07-15T07:15:57.106591+00:00",
+  "lastUpdated": "2026-07-15T10:39:26.171373+00:00",
   "items": [
+    {
+      "title": "My Ebike Delivery Went Missing. When I Tried to Recover It, I Ended Up in Chatbot Hell",
+      "summary": "Companies’ increasing reliance on AI chatbots isn’t making the customer service experience smarter. It’s just making it more infuriating.",
+      "source": "Wired",
+      "published": "2026-07-15T10:00:00+00:00",
+      "link": "https://www.wired.com/story/ebike-delivery-missing-when-i-tried-to-recover-it-i-ended-up-in-chatbot-hell/"
+    },
+    {
+      "title": "OpenAI Staffers Are Funding a Rival Super PAC to Take on Their Boss",
+      "summary": "OpenAI employees have donated more than $215,000 to a political effort opposing Leading the Future, a group backed by the company’s president, Greg Brockman.",
+      "source": "Wired",
+      "published": "2026-07-15T09:00:00+00:00",
+      "link": "https://www.wired.com/story/openai-employees-donations-guardrails-alliance-leading-the-future/"
+    },
+    {
+      "title": "OpenAI's Codex now encrypts instructions between AI agents, leaving developers blind to internal delegation",
+      "summary": "Since early June, OpenAI's coding tool Codex encrypts the instructions a main agent passes to its subagents. Developers can no longer track how tasks get delegated internally.",
+      "source": "The Decoder",
+      "published": "2026-07-15T08:30:48+00:00",
+      "link": "https://the-decoder.com/openais-codex-now-encrypts-instructions-between-ai-agents-leaving-developers-blind-to-internal-delegation/"
+    },
+    {
+      "title": "Nokia’s AI-RAN platform: a radio comeback that runs on NVIDIA",
+      "summary": "Nokia’s AI-RAN platform arrived on July 15 with a claim worth examining: that it is the industry’s first.",
+      "source": "AI News",
+      "published": "2026-07-15T08:30:00+00:00",
+      "link": "https://www.artificialintelligence-news.com/news/nokia-ai-ran-platform-nvidia/"
+    },
+    {
+      "title": "Meta employees sue over layoffs they say were driven by discriminatory AI selection systems",
+      "summary": "Former and current Meta employees are suing the company in a California federal court over AI-driven mass layoffs.",
+      "source": "The Decoder",
+      "published": "2026-07-15T08:04:01+00:00",
+      "link": "https://the-decoder.com/meta-employees-sue-over-layoffs-they-say-were-driven-by-discriminatory-ai-selection-systems/"
+    },
     {
       "title": "OpenAI's first hardware product is a screenless AI speaker designed to feel alive",
       "summary": "OpenAI plans to enter hardware with a portable, screenless smart speaker.",
@@ -45,7 +80,7 @@ const FEED_DATA = {
     },
     {
       "title": "Financing the AI boom: from cash flows to debt [pdf]",
-      "summary": "Article URL: https://www.bis.org/publ/bisbull120.pdf Comments URL: https://news.ycombinator.com/item?id=48913443 Points: 147 # Comments: 84",
+      "summary": "Article URL: https://www.bis.org/publ/bisbull120.pdf Comments URL: https://news.ycombinator.com/item?id=48913443 Points: 158 # Comments: 89",
       "source": "Hacker News",
       "published": "2026-07-14T21:58:36+00:00",
       "link": "https://www.bis.org/publ/bisbull120.pdf"
@@ -142,6 +177,13 @@ const FEED_DATA = {
       "link": "https://the-decoder.com/google-search-now-generates-ai-images-when-it-cant-find-what-youre-looking-for-on-the-web/"
     },
     {
+      "title": "Launch HN: Agnost AI (YC S26) – Extract user feedback from agent conversations",
+      "summary": "Hey HN, we’re Shubham & Parth, childhood friends building Agnost AI (https://agnost.ai), product analytics for teams building chat and voice agents.We read production conversations and find behavioral failures like users rageprompting (cursing at the agent), repeatedly...",
+      "source": "Hacker News",
+      "published": "2026-07-14T16:06:18+00:00",
+      "link": "https://agnost.ai"
+    },
+    {
       "title": "Google Images gets a Pinterest-like redesign focused on discovery",
       "summary": "Now, when users navigate to Google Images, they'll see a \"For You\" gallery of images tailored to their interests and browsing history.",
       "source": "TechCrunch",
@@ -164,7 +206,7 @@ const FEED_DATA = {
     },
     {
       "title": "Are we offloading too much of our thinking to AI?",
-      "summary": "Article URL: https://www.artfish.ai/p/offloading-thinking-to-ai Comments URL: https://news.ycombinator.com/item?id=48908178 Points: 442 # Comments: 417",
+      "summary": "Article URL: https://www.artfish.ai/p/offloading-thinking-to-ai Comments URL: https://news.ycombinator.com/item?id=48908178 Points: 475 # Comments: 434",
       "source": "Hacker News",
       "published": "2026-07-14T15:18:13+00:00",
       "link": "https://www.artfish.ai/p/offloading-thinking-to-ai"
@@ -213,14 +255,14 @@ const FEED_DATA = {
     },
     {
       "title": "Proof of care in the age of AI",
-      "summary": "Article URL: https://jacobfilipp.com/care/ Comments URL: https://news.ycombinator.com/item?id=48906125 Points: 181 # Comments: 104",
+      "summary": "Article URL: https://jacobfilipp.com/care/ Comments URL: https://news.ycombinator.com/item?id=48906125 Points: 182 # Comments: 106",
       "source": "Hacker News",
       "published": "2026-07-14T12:56:25+00:00",
       "link": "https://jacobfilipp.com/care/"
     },
     {
       "title": "Guardian Angels: LLM Personalization for Productivity and Security",
-      "summary": "Article URL: https://gwern.net/guardian-angel Comments URL: https://news.ycombinator.com/item?id=48906041 Points: 82 # Comments: 13",
+      "summary": "Article URL: https://gwern.net/guardian-angel Comments URL: https://news.ycombinator.com/item?id=48906041 Points: 86 # Comments: 14",
       "source": "Hacker News",
       "published": "2026-07-14T12:50:29+00:00",
       "link": "https://gwern.net/guardian-angel"
@@ -276,7 +318,7 @@ const FEED_DATA = {
     },
     {
       "title": "Demis Hassabis has a plan to harness AI safely",
-      "summary": "https://xcancel.com/i/article/2076957440109625718https://www.economist.com/business/2026/07/14/demis-hassabis..., https://archive.ph/GOUcN Comments URL: https://news.ycombinator.com/item?id=48904095 Points: 142 # Comments: 192",
+      "summary": "https://xcancel.com/i/article/2076957440109625718https://www.economist.com/business/2026/07/14/demis-hassabis..., https://archive.ph/GOUcN Comments URL: https://news.ycombinator.com/item?id=48904095 Points: 146 # Comments: 194",
       "source": "Hacker News",
       "published": "2026-07-14T09:20:07+00:00",
       "link": "https://twitter.com/demishassabis/status/2076957440109625718"
@@ -346,7 +388,7 @@ const FEED_DATA = {
     },
     {
       "title": "Samsung Health app threatens data deletion if users opt out AI training",
-      "summary": "Article URL: https://neow.in/cWsyMTV3 Comments URL: https://news.ycombinator.com/item?id=48897991 Points: 346 # Comments: 97",
+      "summary": "Article URL: https://neow.in/cWsyMTV3 Comments URL: https://news.ycombinator.com/item?id=48897991 Points: 347 # Comments: 98",
       "source": "Hacker News",
       "published": "2026-07-13T20:01:43+00:00",
       "link": "https://neow.in/cWsyMTV3"
@@ -633,7 +675,7 @@ const FEED_DATA = {
     },
     {
       "title": "Stop Telling Me to Ask an LLM",
-      "summary": "Article URL: https://blog.yaelwrites.com/stop-telling-me-to-ask-an-llm/ Comments URL: https://news.ycombinator.com/item?id=48876441 Points: 242 # Comments: 138",
+      "summary": "Article URL: https://blog.yaelwrites.com/stop-telling-me-to-ask-an-llm/ Comments URL: https://news.ycombinator.com/item?id=48876441 Points: 242 # Comments: 139",
       "source": "Hacker News",
       "published": "2026-07-11T22:28:48+00:00",
       "link": "https://blog.yaelwrites.com/stop-telling-me-to-ask-an-llm/"
@@ -1358,48 +1400,6 @@ const FEED_DATA = {
       "source": "Ars Technica",
       "published": "2026-07-08T19:01:19+00:00",
       "link": "https://arstechnica.com/security/2026/07/high-severity-guest-vm-escape-is-1-of-2-linux-vulnerabilities-to-surface-this-week/"
-    },
-    {
-      "title": "Google Photos adds a new AI ‘Video Remix’ tool",
-      "summary": "The feature can do things like apply cinematic relighting to brighten up a dark clip, swap out a plain background for something fun, or add artistic styles to videos.",
-      "source": "TechCrunch",
-      "published": "2026-07-08T18:30:08+00:00",
-      "link": "https://techcrunch.com/2026/07/08/google-photos-adds-a-new-ai-video-remix-tool/"
-    },
-    {
-      "title": "ChatGPT can now listen and talk at the same time, making AI conversations seem more human",
-      "summary": "OpenAI's GPT-Live can listen and speak at the same time using a full-duplex architecture. Complex questions get handed off to GPT-5.5 in the background, which drastically improves response quality.",
-      "source": "The Decoder",
-      "published": "2026-07-08T18:18:55+00:00",
-      "link": "https://the-decoder.com/chatgpt-can-now-listen-and-talk-at-the-same-time-making-ai-conversations-seem-more-human/"
-    },
-    {
-      "title": "Ask HN: Another \"Hacker News\" with less AI and more human-focused hacking news?",
-      "summary": "I am done with articles stating \"I used this LLM to do that\", or \"Look, this agent did that in 2 minutes!\". I want content more user-centric, less openai / anthropic, and more \"human-in-the-loop\" articles.Any other website to recommend?",
-      "source": "Hacker News",
-      "published": "2026-07-08T17:48:41+00:00",
-      "link": "https://news.ycombinator.com/item?id=48834961"
-    },
-    {
-      "title": "Why this CEO thinks video games make better training data than the internet",
-      "summary": "When it comes to achieving artificial general intelligence (AGI), large language models just don’t have what it takes.",
-      "source": "TechCrunch",
-      "published": "2026-07-08T17:47:55+00:00",
-      "link": "https://techcrunch.com/video/why-this-ceo-thinks-video-games-make-better-training-data-than-the-internet/"
-    },
-    {
-      "title": "Show HN: Microsoft releases Flint, a visualization language for AI agents",
-      "summary": "Data visualizations are the bridge between user and data.But building AI agents that can generate visualizations reliably can be very tricky:- simple chart specs can be reliable, but generated charts are often of low quality due to reliance on system defaults; - complex chart...",
-      "source": "Hacker News",
-      "published": "2026-07-08T17:46:12+00:00",
-      "link": "https://microsoft.github.io/flint-chart/#/"
-    },
-    {
-      "title": "Mistral enters robotics with Robostral Navigate, an 8B model that steers robots using just one camera",
-      "summary": "Mistral is entering the robotics market with Robostral Navigate, an 8B model that guides robots through unknown environments using only a single RGB camera. Trained in simulation and refined with reinforcement learning (CISPO), it hits 76.6 percent on the R2R-CE benchmark.",
-      "source": "The Decoder",
-      "published": "2026-07-08T17:23:17+00:00",
-      "link": "https://the-decoder.com/mistral-enters-robotics-with-robostral-navigate-an-8b-model-that-steers-robots-using-just-one-camera/"
     }
   ]
 };
