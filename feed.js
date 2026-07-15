@@ -1,6 +1,13 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-07-15T03:56:27.894969+00:00",
+  "lastUpdated": "2026-07-15T07:15:57.106591+00:00",
   "items": [
+    {
+      "title": "OpenAI's first hardware product is a screenless AI speaker designed to feel alive",
+      "summary": "OpenAI plans to enter hardware with a portable, screenless smart speaker.",
+      "source": "The Decoder",
+      "published": "2026-07-15T06:48:56+00:00",
+      "link": "https://the-decoder.com/openais-first-hardware-product-is-a-screenless-ai-speaker-designed-to-feel-alive/"
+    },
     {
       "title": "OpenAI researcher Miles Wang in talks to launch AI drug discovery startup valued at $2B",
       "summary": "The funding discussions point to investor interest in applying AI to make breakthroughs in life sciences.",
@@ -35,6 +42,13 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-07-14T22:07:42+00:00",
       "link": "https://techcrunch.com/2026/07/14/openai-pushes-back-on-apple-trade-secret-lawsuit/"
+    },
+    {
+      "title": "Financing the AI boom: from cash flows to debt [pdf]",
+      "summary": "Article URL: https://www.bis.org/publ/bisbull120.pdf Comments URL: https://news.ycombinator.com/item?id=48913443 Points: 147 # Comments: 84",
+      "source": "Hacker News",
+      "published": "2026-07-14T21:58:36+00:00",
+      "link": "https://www.bis.org/publ/bisbull120.pdf"
     },
     {
       "title": "OpenAI’s new flagship model deletes files on its own, people keep warning",
@@ -150,7 +164,7 @@ const FEED_DATA = {
     },
     {
       "title": "Are we offloading too much of our thinking to AI?",
-      "summary": "Article URL: https://www.artfish.ai/p/offloading-thinking-to-ai Comments URL: https://news.ycombinator.com/item?id=48908178 Points: 323 # Comments: 318",
+      "summary": "Article URL: https://www.artfish.ai/p/offloading-thinking-to-ai Comments URL: https://news.ycombinator.com/item?id=48908178 Points: 442 # Comments: 417",
       "source": "Hacker News",
       "published": "2026-07-14T15:18:13+00:00",
       "link": "https://www.artfish.ai/p/offloading-thinking-to-ai"
@@ -199,10 +213,17 @@ const FEED_DATA = {
     },
     {
       "title": "Proof of care in the age of AI",
-      "summary": "Article URL: https://jacobfilipp.com/care/ Comments URL: https://news.ycombinator.com/item?id=48906125 Points: 161 # Comments: 102",
+      "summary": "Article URL: https://jacobfilipp.com/care/ Comments URL: https://news.ycombinator.com/item?id=48906125 Points: 181 # Comments: 104",
       "source": "Hacker News",
       "published": "2026-07-14T12:56:25+00:00",
       "link": "https://jacobfilipp.com/care/"
+    },
+    {
+      "title": "Guardian Angels: LLM Personalization for Productivity and Security",
+      "summary": "Article URL: https://gwern.net/guardian-angel Comments URL: https://news.ycombinator.com/item?id=48906041 Points: 82 # Comments: 13",
+      "source": "Hacker News",
+      "published": "2026-07-14T12:50:29+00:00",
+      "link": "https://gwern.net/guardian-angel"
     },
     {
       "title": "The Download: Claude’s inner workings, and the future of world models",
@@ -255,7 +276,7 @@ const FEED_DATA = {
     },
     {
       "title": "Demis Hassabis has a plan to harness AI safely",
-      "summary": "https://xcancel.com/i/article/2076957440109625718https://www.economist.com/business/2026/07/14/demis-hassabis..., https://archive.ph/GOUcN Comments URL: https://news.ycombinator.com/item?id=48904095 Points: 123 # Comments: 155",
+      "summary": "https://xcancel.com/i/article/2076957440109625718https://www.economist.com/business/2026/07/14/demis-hassabis..., https://archive.ph/GOUcN Comments URL: https://news.ycombinator.com/item?id=48904095 Points: 142 # Comments: 192",
       "source": "Hacker News",
       "published": "2026-07-14T09:20:07+00:00",
       "link": "https://twitter.com/demishassabis/status/2076957440109625718"
@@ -325,7 +346,7 @@ const FEED_DATA = {
     },
     {
       "title": "Samsung Health app threatens data deletion if users opt out AI training",
-      "summary": "Article URL: https://neow.in/cWsyMTV3 Comments URL: https://news.ycombinator.com/item?id=48897991 Points: 342 # Comments: 94",
+      "summary": "Article URL: https://neow.in/cWsyMTV3 Comments URL: https://news.ycombinator.com/item?id=48897991 Points: 346 # Comments: 97",
       "source": "Hacker News",
       "published": "2026-07-13T20:01:43+00:00",
       "link": "https://neow.in/cWsyMTV3"
@@ -507,7 +528,7 @@ const FEED_DATA = {
     },
     {
       "title": "Migrating a production AI agent to GPT-5.6: 2.2x faster, 27% cheaper",
-      "summary": "Article URL: https://ploy.ai/blog/migrating-a-production-ai-agent-to-gpt-5-6 Comments URL: https://news.ycombinator.com/item?id=48882716 Points: 257 # Comments: 130",
+      "summary": "Article URL: https://ploy.ai/blog/migrating-a-production-ai-agent-to-gpt-5-6 Comments URL: https://news.ycombinator.com/item?id=48882716 Points: 257 # Comments: 131",
       "source": "Hacker News",
       "published": "2026-07-12T17:13:07+00:00",
       "link": "https://ploy.ai/blog/migrating-a-production-ai-agent-to-gpt-5-6"
@@ -612,7 +633,7 @@ const FEED_DATA = {
     },
     {
       "title": "Stop Telling Me to Ask an LLM",
-      "summary": "Article URL: https://blog.yaelwrites.com/stop-telling-me-to-ask-an-llm/ Comments URL: https://news.ycombinator.com/item?id=48876441 Points: 240 # Comments: 138",
+      "summary": "Article URL: https://blog.yaelwrites.com/stop-telling-me-to-ask-an-llm/ Comments URL: https://news.ycombinator.com/item?id=48876441 Points: 242 # Comments: 138",
       "source": "Hacker News",
       "published": "2026-07-11T22:28:48+00:00",
       "link": "https://blog.yaelwrites.com/stop-telling-me-to-ask-an-llm/"
@@ -654,7 +675,7 @@ const FEED_DATA = {
     },
     {
       "title": "Ghost Font: A font that humans can read but AI cannot",
-      "summary": "Article URL: https://www.mixfont.com/ghost-font Comments URL: https://news.ycombinator.com/item?id=48870381 Points: 237 # Comments: 172",
+      "summary": "Article URL: https://www.mixfont.com/ghost-font Comments URL: https://news.ycombinator.com/item?id=48870381 Points: 237 # Comments: 173",
       "source": "Hacker News",
       "published": "2026-07-11T09:36:53+00:00",
       "link": "https://www.mixfont.com/ghost-font"
@@ -1379,27 +1400,6 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-07-08T17:23:17+00:00",
       "link": "https://the-decoder.com/mistral-enters-robotics-with-robostral-navigate-an-8b-model-that-steers-robots-using-just-one-camera/"
-    },
-    {
-      "title": "Meta wants its AI glasses to seem less creepy. Its AI strategy says otherwise.",
-      "summary": "Meta is adding a new safeguard to stop people from secretly recording others with its AI glasses. But the update comes as the company continues to expand how much personal data its AI products collect and use.",
-      "source": "TechCrunch",
-      "published": "2026-07-08T17:11:18+00:00",
-      "link": "https://techcrunch.com/2026/07/08/meta-wants-its-ai-glasses-to-seem-less-creepy-its-ai-strategy-says-otherwise/"
-    },
-    {
-      "title": "GPT‑Live",
-      "summary": "Article URL: https://openai.com/index/introducing-gpt-live/ Comments URL: https://news.ycombinator.com/item?id=48834405 Points: 745 # Comments: 525",
-      "source": "Hacker News",
-      "published": "2026-07-08T17:03:19+00:00",
-      "link": "https://openai.com/index/introducing-gpt-live/"
-    },
-    {
-      "title": "ChatGPT’s upgraded voice mode is better at shutting up",
-      "summary": "OpenAI is overhauling ChatGPT's voice mode with a new model that it says is more like \"talking to another person.\" The new GPT-Live-1 is designed to interrupt you less and will also wait for you to continue speaking if you pause mid-conversation.",
-      "source": "The Verge",
-      "published": "2026-07-08T17:00:00+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/962856/chatgpt-upgraded-voice-mode-gpt-live"
     }
   ]
 };
