@@ -1,6 +1,76 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-07-15T14:53:02.059711+00:00",
+  "lastUpdated": "2026-07-15T18:01:24.366880+00:00",
   "items": [
+    {
+      "title": "Suno snatched millions of songs from YouTube, Genius, and Deezer",
+      "summary": "Suno data obtained in a hacking incident has exposed that the AI music generator was trained by scraping millions of songs and lyrics from online audio platforms, including YouTube Music, Deezer, and Genius, 404 Media reports.",
+      "source": "The Verge",
+      "published": "2026-07-15T17:48:01+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/966072/suno-ai-music-training-scraping-youtube-hack"
+    },
+    {
+      "title": "GPT-5.6 Sol reportedly disproves a 30-year-old statistics conjecture in 90 minutes after humans couldn't crack it",
+      "summary": "A University of Pennsylvania statistics professor used OpenAI's GPT-5.6 Sol Pro to disprove a central open conjecture about the Benjamini-Hochberg method in roughly 90 minutes. The predecessor model, GPT-5.5, couldn't find a solution even after 20 hours.",
+      "source": "The Decoder",
+      "published": "2026-07-15T17:35:12+00:00",
+      "link": "https://the-decoder.com/gpt-5-6-sol-reportedly-disproves-a-30-year-old-statistics-conjecture-in-90-minutes-after-humans-couldnt-crack-it/"
+    },
+    {
+      "title": "Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer",
+      "summary": "OpenAI has built an LLM super-hacker called GPT-Red that it uses as a sparring partner to help its other models boost their defenses against cyberattacks. Last week the company released the latest version of its flagship LLM, GPT-5.6.",
+      "source": "MIT Tech Review",
+      "published": "2026-07-15T17:09:37+00:00",
+      "link": "https://www.technologyreview.com/2026/07/15/1140514/meet-gpt-red-an-llm-super-hacker-openai-built-to-make-its-models-safer/"
+    },
+    {
+      "title": "Hack suggests AI music generator Suno scraped YouTube for training data",
+      "summary": "The hacker used an employee's credentials to access source code, which revealed how Suno scraped decades of audio.",
+      "source": "TechCrunch",
+      "published": "2026-07-15T17:00:34+00:00",
+      "link": "https://techcrunch.com/2026/07/15/hack-suggests-ai-music-generator-suno-scraped-youtube-for-training-data/"
+    },
+    {
+      "title": "Whatnot acquires Shaped to power real-time live shopping recommendations",
+      "summary": "Livestream shopping platform Whatnot has acquired AI startup Shaped, a machine learning company focused on real-time recommendations and search. The deal will bolster Whatnot’s personalization and discovery features as it expands into new product categories.",
+      "source": "TechCrunch",
+      "published": "2026-07-15T17:00:00+00:00",
+      "link": "https://techcrunch.com/2026/07/15/whatnot-acquires-shaped-to-power-real-time-live-shopping-recommendations/"
+    },
+    {
+      "title": "Microsoft patches record number of security vulnerabilities, citing its use of AI",
+      "summary": "Microsoft's monthly release of security fixes, dubbed Patch Tuesday, resolved a record 570 security vulnerabilities across the company's product line, thanks to discoveries with AI.",
+      "source": "TechCrunch",
+      "published": "2026-07-15T16:20:18+00:00",
+      "link": "https://techcrunch.com/2026/07/15/microsoft-patches-record-number-of-security-vulnerabilities-citing-its-use-of-ai/"
+    },
+    {
+      "title": "OpenAI finally launches hardware… for Codex",
+      "summary": "OpenAI is finally releasing some hardware. No, it isn't the mysterious AI-powered device the company is developing with former Apple designer Jony Ive, a project already tangled up in a messy lawsuit.",
+      "source": "The Verge",
+      "published": "2026-07-15T16:00:00+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/965901/openai-hardware-codex-micro-launch"
+    },
+    {
+      "title": "Bonsai 27B is a full open reasoning model that fits on an iPhone",
+      "summary": "PrismML has compressed a 27-billion-parameter AI model to under 4 GB, small enough to run on an iPhone. In the company's own benchmarks, the smallest version keeps 90 percent of the original performance, with math and coding scores barely affected.",
+      "source": "The Decoder",
+      "published": "2026-07-15T15:55:14+00:00",
+      "link": "https://the-decoder.com/bonsai-27b-is-a-full-open-reasoning-model-that-fits-on-an-iphone/"
+    },
+    {
+      "title": "Spotify bets Premium subscribers want to chat with their music player",
+      "summary": "Spotify is expanding its AI voice interface. Premium subscribers can now talk to or text the service directly inside the app.",
+      "source": "The Decoder",
+      "published": "2026-07-15T15:33:19+00:00",
+      "link": "https://the-decoder.com/spotify-bets-premium-subscribers-want-to-chat-with-their-music-player/"
+    },
+    {
+      "title": "Apple Intelligence approved for launch in China with Alibaba’s Qwen AI",
+      "summary": "The deal, which was rumored to be in the works last year, marks an important step for Apple's AI ambitions in a key market.",
+      "source": "TechCrunch",
+      "published": "2026-07-15T15:29:33+00:00",
+      "link": "https://techcrunch.com/2026/07/15/apple-intelligence-approved-for-launch-in-china-with-alibabas-qwen-ai/"
+    },
     {
       "title": "Anthropic, Blackstone bet the next trillion-dollar AI business is implementation, not just models",
       "summary": "Anthropic-backed Ode launches as AI labs bet that embedding forward-deployed engineers inside enterprises is the key to accelerating enterprise AI adoption.",
@@ -37,8 +107,8 @@ const FEED_DATA = {
       "link": "https://techcrunch.com/2026/07/15/vint-cerf-is-working-on-a-plan-to-unleash-ai-agents-on-the-open-internet/"
     },
     {
-      "title": "An Inventor of Apple's FaceID Wants to Analyze Your Brain's Health With AI",
-      "summary": "Gidi Littwin's new AI startup, Hemispheric, makes diagnostic brain scans for conditions like depression, PTSD, and Parkinson’s. He wants the technology to be as cheap and easy as a blood test.",
+      "title": "An Inventor of Apple’s FaceID Wants to Analyze Your Brain’s Health With AI",
+      "summary": "Gidi Littwin’s new AI startup, Hemispheric, makes diagnostic brain scans for conditions like depression, PTSD, and Parkinson’s. He wants the technology to be as cheap and easy as for a blood test.",
       "source": "Wired",
       "published": "2026-07-15T12:00:00+00:00",
       "link": "https://www.wired.com/story/the-apple-faceid-veteran-building-a-frontier-ai-model-for-the-human-brain/"
@@ -1330,76 +1400,6 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-07-09T12:00:00+00:00",
       "link": "https://techcrunch.com/2026/07/09/nandan-nilekani-leaves-gp-role-at-his-vc-firm-as-it-launches-third-200m-fund/"
-    },
-    {
-      "title": "Databricks makes Chinese open-source model GLM 5.2 its default coding engine after it matched Opus at lower cost",
-      "summary": "Databricks benchmarked coding agents on its own multi-million-line codebase and found that the Chinese open-source model GLM 5.2 matched Anthropic's Opus 4.8 at $1.28 per task versus $1.94. The company plans to roll it out as a daily coding workhorse.",
-      "source": "The Decoder",
-      "published": "2026-07-09T11:03:39+00:00",
-      "link": "https://the-decoder.com/databricks-makes-chinese-open-source-model-glm-5-2-its-default-coding-engine-after-it-matched-opus-at-lower-cost/"
-    },
-    {
-      "title": "The $28 Million Mistake That Inspired Estonia’s AI ‘Fuckup Finder’",
-      "summary": "A single wording mistake cost the government millions. Now Estonia is using AI to spot legal errors before they become law—and to automate more of the state.",
-      "source": "Wired",
-      "published": "2026-07-09T10:01:30+00:00",
-      "link": "https://www.wired.com/story/the-28-million-dollar-mistake-that-inspired-estonias-ai-fuckup-finder/"
-    },
-    {
-      "title": "NHS AI blood test could reduce invasive womb cancer checks",
-      "summary": "Several NHS hospitals are preparing to use an AI-powered blood test to help assess women referred for possible womb cancer before invasive checks are carried out.",
-      "source": "AI News",
-      "published": "2026-07-09T10:00:00+00:00",
-      "link": "https://www.artificialintelligence-news.com/news/nhs-ai-blood-test-womb-cancer-checks/"
-    },
-    {
-      "title": "OpenAI's AI beats every human at AtCoder, a top competitive programming contest",
-      "summary": "At the AtCoder World Tour Finals 2026, an OpenAI system crushed all human competitors in an exhibition match, solving all five problems in the Algorithm Division. Two of those problems were rated exceptionally difficult by observers.",
-      "source": "The Decoder",
-      "published": "2026-07-09T09:56:57+00:00",
-      "link": "https://the-decoder.com/openais-ai-beats-every-human-at-atcoder-a-top-competitive-programming-contest/"
-    },
-    {
-      "title": "Grok 4.5 is so cheap compared to Fable 5 and GPT 5.5 that benchmark gaps may not matter much",
-      "summary": "xAI releases Grok 4.5, trained on tens of thousands of Nvidia GB300 GPUs. In coding benchmarks, the model trails Fable 5 and GPT-5.5 but needs 4.2 times fewer tokens than Opus 4.8.",
-      "source": "The Decoder",
-      "published": "2026-07-09T07:47:44+00:00",
-      "link": "https://the-decoder.com/grok-4-5-is-so-cheap-compared-to-fable-5-and-gpt-5-5-that-benchmark-gaps-may-not-matter-much/"
-    },
-    {
-      "title": "AI changes the economics of software rewrites",
-      "summary": "Article URL: https://thetruthasiseeitnow.com/ai-slop-starts-with-the-codebase-itself/ Comments URL: https://news.ycombinator.com/item?id=48841446 Points: 103 # Comments: 107",
-      "source": "Hacker News",
-      "published": "2026-07-09T05:46:50+00:00",
-      "link": "https://thetruthasiseeitnow.com/ai-slop-starts-with-the-codebase-itself/"
-    },
-    {
-      "title": "What's slowing down the AI buildout",
-      "summary": "Article URL: https://www.worksinprogress.news/p/ai-is-bottlenecked-by-the-grid Comments URL: https://news.ycombinator.com/item?id=48840620 Points: 82 # Comments: 215",
-      "source": "Hacker News",
-      "published": "2026-07-09T03:26:02+00:00",
-      "link": "https://www.worksinprogress.news/p/ai-is-bottlenecked-by-the-grid"
-    },
-    {
-      "title": "I think I have LLM burnout",
-      "summary": "Article URL: https://www.alecscollon.com/blog/llm-burnout/ Comments URL: https://news.ycombinator.com/item?id=48839984 Points: 406 # Comments: 360",
-      "source": "Hacker News",
-      "published": "2026-07-09T01:56:28+00:00",
-      "link": "https://www.alecscollon.com/blog/llm-burnout/"
-    },
-    {
-      "title": "We made Grok 4.5, GPT-5.5, and Claude build the same apps",
-      "summary": "Article URL: https://www.tryai.dev/blog/grok-4.5-vs-gpt-5.5-vs-claude-build-off Comments URL: https://news.ycombinator.com/item?id=48838772 Points: 173 # Comments: 93",
-      "source": "Hacker News",
-      "published": "2026-07-08T23:27:14+00:00",
-      "link": "https://www.tryai.dev/blog/grok-4.5-vs-gpt-5.5-vs-claude-build-off"
-    },
-    {
-      "title": "Suspecting AI cheating, Ivy League prof ordered in-person final; scores fell 50%",
-      "summary": "Article URL: https://arstechnica.com/ai/2026/07/we-cannot-choose-to-become-idiots-the-ai-cheating-scandal-roiling-brown-university/ Comments URL: https://news.ycombinator.com/item?id=48838611 Points: 135 # Comments: 159",
-      "source": "Hacker News",
-      "published": "2026-07-08T23:11:28+00:00",
-      "link": "https://arstechnica.com/ai/2026/07/we-cannot-choose-to-become-idiots-the-ai-cheating-scandal-roiling-brown-university/"
     }
   ]
 };
