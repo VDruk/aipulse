@@ -1,6 +1,20 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-07-16T04:07:02.638851+00:00",
+  "lastUpdated": "2026-07-16T07:23:15.028987+00:00",
   "items": [
+    {
+      "title": "Stop saying that AI is just a tool and it only matters how it is used",
+      "summary": "Article URL: https://www.frank.computer/blog/2025/05/just-a-tool.html Comments URL: https://news.ycombinator.com/item?id=48930363 Points: 64 # Comments: 40",
+      "source": "Hacker News",
+      "published": "2026-07-16T04:31:01+00:00",
+      "link": "https://www.frank.computer/blog/2025/05/just-a-tool.html"
+    },
+    {
+      "title": "Applied Computing wants to give oil and gas operators an AI model for the entire plant",
+      "summary": "Applied Computing has raised a $20M Series A to build a foundation AI model for the oil, gas and petrochemical industry.",
+      "source": "TechCrunch",
+      "published": "2026-07-16T04:00:00+00:00",
+      "link": "https://techcrunch.com/2026/07/15/applied-computing-wants-to-give-oil-and-gas-operators-an-ai-model-for-the-entire-plant/"
+    },
     {
       "title": "Microsoft is reportedly training salespeople to talk down OpenAI and Anthropic",
       "summary": "Microsoft is looking to sell its in-house AI models as more efficient and cost-effective than its competitors' models.",
@@ -17,7 +31,7 @@ const FEED_DATA = {
     },
     {
       "title": "LLM Networking with MikroTik",
-      "summary": "Article URL: https://blog.greg.technology/2026/07/14/llm-networking-with-mikrotik.html Comments URL: https://news.ycombinator.com/item?id=48927915 Points: 63 # Comments: 24",
+      "summary": "Article URL: https://blog.greg.technology/2026/07/14/llm-networking-with-mikrotik.html Comments URL: https://news.ycombinator.com/item?id=48927915 Points: 78 # Comments: 35",
       "source": "Hacker News",
       "published": "2026-07-15T22:23:27+00:00",
       "link": "https://blog.greg.technology/2026/07/14/llm-networking-with-mikrotik.html"
@@ -37,8 +51,15 @@ const FEED_DATA = {
       "link": "https://arstechnica.com/information-technology/2026/07/sheetz-moves-838-stores-off-vmware-broadcom-created-too-much-uncertainty/"
     },
     {
+      "title": "Speculative Growth and the AI \"Bubble\" [pdf]",
+      "summary": "Article URL: https://economics.mit.edu/sites/default/files/2026-07/speculative_growth_AI_public.pdf Comments URL: https://news.ycombinator.com/item?id=48927409 Points: 52 # Comments: 60",
+      "source": "Hacker News",
+      "published": "2026-07-15T21:39:21+00:00",
+      "link": "https://economics.mit.edu/sites/default/files/2026-07/speculative_growth_AI_public.pdf"
+    },
+    {
       "title": "We don't use AI in any of our design or production processes",
-      "summary": "Article URL: https://mass-driver.com/article/from-human-hands Comments URL: https://news.ycombinator.com/item?id=48927373 Points: 97 # Comments: 95",
+      "summary": "Article URL: https://mass-driver.com/article/from-human-hands Comments URL: https://news.ycombinator.com/item?id=48927373 Points: 99 # Comments: 103",
       "source": "Hacker News",
       "published": "2026-07-15T21:36:49+00:00",
       "link": "https://mass-driver.com/article/from-human-hands"
@@ -52,7 +73,7 @@ const FEED_DATA = {
     },
     {
       "title": "Governments, companies, nonprofits should invest in free, open source AI [pdf]",
-      "summary": "Article URL: https://www.siegelendowment.org/wp-content/uploads/2026/07/fortune-david-siegel-open-source-ai.pdf Comments URL: https://news.ycombinator.com/item?id=48927095 Points: 119 # Comments: 48",
+      "summary": "Article URL: https://www.siegelendowment.org/wp-content/uploads/2026/07/fortune-david-siegel-open-source-ai.pdf Comments URL: https://news.ycombinator.com/item?id=48927095 Points: 161 # Comments: 58",
       "source": "Hacker News",
       "published": "2026-07-15T21:16:36+00:00",
       "link": "https://www.siegelendowment.org/wp-content/uploads/2026/07/fortune-david-siegel-open-source-ai.pdf"
@@ -185,7 +206,7 @@ const FEED_DATA = {
     },
     {
       "title": "The Three-Second Theft: Why AI Voice Fraud Outruns Every Defence",
-      "summary": "Article URL: https://smarterarticles.co.uk/the-three-second-theft-why-ai-voice-fraud-outruns-every-defence Comments URL: https://news.ycombinator.com/item?id=48920432 Points: 166 # Comments: 217",
+      "summary": "Article URL: https://smarterarticles.co.uk/the-three-second-theft-why-ai-voice-fraud-outruns-every-defence Comments URL: https://news.ycombinator.com/item?id=48920432 Points: 171 # Comments: 223",
       "source": "Hacker News",
       "published": "2026-07-15T13:18:15+00:00",
       "link": "https://smarterarticles.co.uk/the-three-second-theft-why-ai-voice-fraud-outruns-every-defence"
@@ -311,7 +332,7 @@ const FEED_DATA = {
     },
     {
       "title": "Financing the AI boom: from cash flows to debt [pdf]",
-      "summary": "Article URL: https://www.bis.org/publ/bisbull120.pdf Comments URL: https://news.ycombinator.com/item?id=48913443 Points: 164 # Comments: 105",
+      "summary": "Article URL: https://www.bis.org/publ/bisbull120.pdf Comments URL: https://news.ycombinator.com/item?id=48913443 Points: 164 # Comments: 106",
       "source": "Hacker News",
       "published": "2026-07-14T21:58:36+00:00",
       "link": "https://www.bis.org/publ/bisbull120.pdf"
@@ -437,7 +458,7 @@ const FEED_DATA = {
     },
     {
       "title": "Are we offloading too much of our thinking to AI?",
-      "summary": "Article URL: https://www.artfish.ai/p/offloading-thinking-to-ai Comments URL: https://news.ycombinator.com/item?id=48908178 Points: 512 # Comments: 473",
+      "summary": "Article URL: https://www.artfish.ai/p/offloading-thinking-to-ai Comments URL: https://news.ycombinator.com/item?id=48908178 Points: 515 # Comments: 474",
       "source": "Hacker News",
       "published": "2026-07-14T15:18:13+00:00",
       "link": "https://www.artfish.ai/p/offloading-thinking-to-ai"
@@ -493,7 +514,7 @@ const FEED_DATA = {
     },
     {
       "title": "Guardian Angels: LLM Personalization for Productivity and Security",
-      "summary": "Article URL: https://gwern.net/guardian-angel Comments URL: https://news.ycombinator.com/item?id=48906041 Points: 92 # Comments: 16",
+      "summary": "Article URL: https://gwern.net/guardian-angel Comments URL: https://news.ycombinator.com/item?id=48906041 Points: 93 # Comments: 16",
       "source": "Hacker News",
       "published": "2026-07-14T12:50:29+00:00",
       "link": "https://gwern.net/guardian-angel"
@@ -549,7 +570,7 @@ const FEED_DATA = {
     },
     {
       "title": "Demis Hassabis has a plan to harness AI safely",
-      "summary": "https://xcancel.com/i/article/2076957440109625718https://www.economist.com/business/2026/07/14/demis-hassabis..., https://archive.ph/GOUcN Comments URL: https://news.ycombinator.com/item?id=48904095 Points: 153 # Comments: 198",
+      "summary": "https://xcancel.com/i/article/2076957440109625718https://www.economist.com/business/2026/07/14/demis-hassabis..., https://archive.ph/GOUcN Comments URL: https://news.ycombinator.com/item?id=48904095 Points: 154 # Comments: 198",
       "source": "Hacker News",
       "published": "2026-07-14T09:20:07+00:00",
       "link": "https://twitter.com/demishassabis/status/2076957440109625718"
@@ -1379,27 +1400,6 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-07-09T17:06:11+00:00",
       "link": "https://techcrunch.com/2026/07/09/nvidia-is-a-victim-of-the-compute-marketplace-it-created/"
-    },
-    {
-      "title": "GPT-5.6",
-      "summary": "https://deploymentsafety.openai.com/gpt-5-6/gpt-5-6.pdfhttps://developers.openai.com/api/docs/guides/latest-modelhttps://x.com/levie/status/2075287443411222628, https://xcancel.com/levie/status/2075287443411222628 Comments URL: https://news.ycombinator.com/item?id=48849066...",
-      "source": "Hacker News",
-      "published": "2026-07-09T17:04:14+00:00",
-      "link": "https://openai.com/index/gpt-5-6/"
-    },
-    {
-      "title": "OpenAI rolls out GPT-5.6 after government greenlight — and announces ‘ChatGPT Work’",
-      "summary": "About two weeks after OpenAI's GPT-5.6 was caught up in regulatory drama - rolled out only to government-approved organizations during a \"limited preview\" period - the company has received the Trump administration's greenlight for a public rollout of the model.",
-      "source": "The Verge",
-      "published": "2026-07-09T17:00:00+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/963464/openai-gpt-5-6-codex-chatgpt-work"
-    },
-    {
-      "title": "Meta's Muse Spark 1.1 API pricing squeezes OpenAI and Anthropic as the AI price war heats up",
-      "summary": "Meta is entering the AI API business with Muse Spark 1.1 at prices that undercut even the dirt-cheap Grok 4.5, released just yesterday. At $4.25 per million output tokens, Meta charges a fraction of what Anthropic or OpenAI ask.",
-      "source": "The Decoder",
-      "published": "2026-07-09T16:58:44+00:00",
-      "link": "https://the-decoder.com/metas-muse-spark-1-1-api-pricing-squeezes-openai-and-anthropic-as-the-ai-price-war-heats-up/"
     }
   ]
 };
