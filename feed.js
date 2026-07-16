@@ -1,12 +1,82 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-07-16T18:00:58.156762+00:00",
+  "lastUpdated": "2026-07-16T21:57:20.161553+00:00",
   "items": [
+    {
+      "title": "LM Studio Bionic: the AI agent for open models",
+      "summary": "Article URL: https://lmstudio.ai/blog/introducing-lm-studio-bionic Comments URL: https://news.ycombinator.com/item?id=48939662 Points: 56 # Comments: 17",
+      "source": "Hacker News",
+      "published": "2026-07-16T20:18:15+00:00",
+      "link": "https://lmstudio.ai/blog/introducing-lm-studio-bionic"
+    },
+    {
+      "title": "Kimi K3 Intelligence, Performance and Price Analysis",
+      "summary": "Article URL: https://artificialanalysis.ai/models/kimi-k3 Comments URL: https://news.ycombinator.com/item?id=48939580 Points: 50 # Comments: 2",
+      "source": "Hacker News",
+      "published": "2026-07-16T20:09:46+00:00",
+      "link": "https://artificialanalysis.ai/models/kimi-k3"
+    },
+    {
+      "title": "$100 AI Music Video: Claude Fable 5 vs. GPT-5.6 Sol",
+      "summary": "Article URL: https://www.tryai.dev/blog/ai-music-video-arena-claude-vs-gpt-5.6 Comments URL: https://news.ycombinator.com/item?id=48939524 Points: 56 # Comments: 39",
+      "source": "Hacker News",
+      "published": "2026-07-16T20:03:23+00:00",
+      "link": "https://www.tryai.dev/blog/ai-music-video-arena-claude-vs-gpt-5.6"
+    },
+    {
+      "title": "Kimi's open model K3 nears GPT-5.6 Sol and Fable 5 while signaling the end of super cheap Chinese AI",
+      "summary": "Kimi is launching K3, a multimodal open-weight model with 2.8 trillion parameters and one million tokens of context. In the company's own benchmarks, it comes close to Claude Fable 5 and GPT 5.6 Sol while beating Opus 4.8 and GLM 5.2, in some cases by a wide margin.",
+      "source": "The Decoder",
+      "published": "2026-07-16T19:49:39+00:00",
+      "link": "https://the-decoder.com/kimis-open-model-k3-nears-gpt-5-6-sol-and-fable-5-while-signaling-the-end-of-super-cheap-chinese-ai/"
+    },
     {
       "title": "The AI compute gap: Enterprises are buying infrastructure faster than they can measure what it costs",
       "summary": "Across 107 enterprises, AI infrastructure spending is accelerating well ahead of the ability to see or steer its economics.",
       "source": "VentureBeat",
-      "published": "2026-07-16T17:35:19+00:00",
+      "published": "2026-07-16T19:16:48+00:00",
       "link": "https://venturebeat.com/ai/the-ai-compute-gap-enterprises-are-buying-infrastructure-faster-than-they-can-measure-what-it-costs"
+    },
+    {
+      "title": "The agent security gap: 54% of enterprises have already had an AI agent incident, and most still let agents share credentials",
+      "summary": "Across 107 enterprises, AI agents are being given real access to systems and data while the controls meant to contain them lag behind.",
+      "source": "VentureBeat",
+      "published": "2026-07-16T19:02:38+00:00",
+      "link": "https://venturebeat.com/ai/the-agent-security-gap-54-of-enterprises-have-already-had-an-ai-agent-incident-and-most-still-let-agents-share-credentials"
+    },
+    {
+      "title": "Here’s Why Anthropic Is Pushing States to Regulate AI Faster",
+      "summary": "The company endorsed landmark AI transparency laws in California and New York last year, but its head of US state and local policy says they may already be outdated.",
+      "source": "Wired",
+      "published": "2026-07-16T18:35:18+00:00",
+      "link": "https://www.wired.com/story/why-anthropic-is-pushing-states-to-regulate-ai-faster/"
+    },
+    {
+      "title": "Google Vids now lets you star in your own AI videos",
+      "summary": "Google is adding personalized AI avatars to Vids that let users create videos starring a digital version of themselves, alongside Gemini Omni-powered tools for generating and editing videos from prompts and reference images.",
+      "source": "TechCrunch",
+      "published": "2026-07-16T18:32:54+00:00",
+      "link": "https://techcrunch.com/2026/07/16/google-vids-now-lets-you-star-in-your-own-ai-videos/"
+    },
+    {
+      "title": "Roblox launches an AI-powered game-creation feature in its mobile app",
+      "summary": "Roblox's new \"Build\" feature lets users generate basic games using a single text prompt.",
+      "source": "TechCrunch",
+      "published": "2026-07-16T18:22:06+00:00",
+      "link": "https://techcrunch.com/2026/07/16/roblox-launches-an-ai-powered-game-creation-feature-in-its-mobile-app/"
+    },
+    {
+      "title": "New York governor says she’s using AI to analyze ‘every single rule’ in the state",
+      "summary": "New York Governor Kathy Hochul might have just signed a moratorium on new AI data centers in the state, but she's not against using the technology herself.",
+      "source": "The Verge",
+      "published": "2026-07-16T17:58:37+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/966647/new-york-governor-kathy-hochul-ai-policies"
+    },
+    {
+      "title": "German AI consortium releases Soofi S, an open 30B model that tops benchmarks",
+      "summary": "Article URL: https://the-decoder.com/german-ai-consortium-releases-soofi-s-an-open-30b-model-that-tops-benchmarks-in-both-english-and-german/ Comments URL: https://news.ycombinator.com/item?id=48937756 Points: 108 # Comments: 23",
+      "source": "Hacker News",
+      "published": "2026-07-16T17:44:46+00:00",
+      "link": "https://the-decoder.com/german-ai-consortium-releases-soofi-s-an-open-30b-model-that-tops-benchmarks-in-both-english-and-german/"
     },
     {
       "title": "Google rebrands NotebookLM as Gemini Notebook and opens its search app to third-party integration",
@@ -28,6 +98,13 @@ const FEED_DATA = {
       "source": "AI News",
       "published": "2026-07-16T16:48:23+00:00",
       "link": "https://www.artificialintelligence-news.com/news/examining-google-deepmind-ai-bioresilience-push/"
+    },
+    {
+      "title": "Detecting LLM-Generated Texts with “Classical” Machine Learning",
+      "summary": "Article URL: https://blog.lyc8503.net/en/post/llm-classifier/ Comments URL: https://news.ycombinator.com/item?id=48936880 Points: 119 # Comments: 88",
+      "source": "Hacker News",
+      "published": "2026-07-16T16:41:37+00:00",
+      "link": "https://blog.lyc8503.net/en/post/llm-classifier/"
     },
     {
       "title": "The agent evaluation gap: Enterprise AI organizations have a reality-alignment problem, not a coverage problem — and most are shipping to production anyway",
@@ -79,11 +156,25 @@ const FEED_DATA = {
       "link": "https://techcrunch.com/2026/07/16/why-is-openai-selling-a-chatgpt-basketball/"
     },
     {
+      "title": "How to Train a Gen AI Kick Drum Model on Your Old Linux Desktop with 6GB VRAM",
+      "summary": "Article URL: https://www.zhinit.dev/blog/training-a-kick-drum-diffusion-model Comments URL: https://news.ycombinator.com/item?id=48935687 Points: 80 # Comments: 52",
+      "source": "Hacker News",
+      "published": "2026-07-16T15:13:00+00:00",
+      "link": "https://www.zhinit.dev/blog/training-a-kick-drum-diffusion-model"
+    },
+    {
       "title": "How a former DeepMind researcher raised at a $300M pre-seed valuation before launching a product",
       "summary": "Drawing on more than a decade spent helping build some of the world's most influential AI systems, including research that later informed the development of ChatGPT, Andrew Dai explains why he believes visual AI is one of the next major frontiers in artificial intelligence.",
       "source": "TechCrunch",
       "published": "2026-07-16T15:02:00+00:00",
       "link": "https://techcrunch.com/2026/07/16/how-a-former-deepmind-researcher-raised-at-a-300m-pre-seed-valuation-before-launching-a-product/"
+    },
+    {
+      "title": "Kimi K3: Open Frontier Intelligence",
+      "summary": "https://www.kimi.com/enKimi K3 Intelligence, Performance & Price Analysis: https://artificialanalysis.ai/models/kimi-k3 Comments URL: https://news.ycombinator.com/item?id=48935342 Points: 871 # Comments: 525",
+      "source": "Hacker News",
+      "published": "2026-07-16T14:46:05+00:00",
+      "link": "https://www.kimi.com/blog/kimi-k3"
     },
     {
       "title": "Why AMI Labs’ Alexandre LeBrun won’t call his AI ‘AGI’ or ‘superintelligence’",
@@ -122,7 +213,7 @@ const FEED_DATA = {
     },
     {
       "title": "Generative AI Is an Engineering Disaster",
-      "summary": "Article URL: https://www.theatlantic.com/technology/2026/07/generative-ai-engineering-disaster/687901/ Comments URL: https://news.ycombinator.com/item?id=48934046 Points: 72 # Comments: 31",
+      "summary": "Article URL: https://www.theatlantic.com/technology/2026/07/generative-ai-engineering-disaster/687901/ Comments URL: https://news.ycombinator.com/item?id=48934046 Points: 94 # Comments: 63",
       "source": "Hacker News",
       "published": "2026-07-16T13:12:24+00:00",
       "link": "https://www.theatlantic.com/technology/2026/07/generative-ai-engineering-disaster/687901/"
@@ -150,7 +241,7 @@ const FEED_DATA = {
     },
     {
       "title": "The LLM Critics Are Right. I Use LLMs Anyway",
-      "summary": "Article URL: https://www.theocharis.dev/blog/llm-critics-are-right-i-use-llms-anyway/ Comments URL: https://news.ycombinator.com/item?id=48933310 Points: 134 # Comments: 157",
+      "summary": "Article URL: https://www.theocharis.dev/blog/llm-critics-are-right-i-use-llms-anyway/ Comments URL: https://news.ycombinator.com/item?id=48933310 Points: 155 # Comments: 161",
       "source": "Hacker News",
       "published": "2026-07-16T11:59:01+00:00",
       "link": "https://www.theocharis.dev/blog/llm-critics-are-right-i-use-llms-anyway/"
@@ -192,7 +283,7 @@ const FEED_DATA = {
     },
     {
       "title": "Stop saying that AI is just a tool and it only matters how it is used",
-      "summary": "Article URL: https://www.frank.computer/blog/2025/05/just-a-tool.html Comments URL: https://news.ycombinator.com/item?id=48930363 Points: 97 # Comments: 98",
+      "summary": "Article URL: https://www.frank.computer/blog/2025/05/just-a-tool.html Comments URL: https://news.ycombinator.com/item?id=48930363 Points: 101 # Comments: 108",
       "source": "Hacker News",
       "published": "2026-07-16T04:31:01+00:00",
       "link": "https://www.frank.computer/blog/2025/05/just-a-tool.html"
@@ -220,7 +311,7 @@ const FEED_DATA = {
     },
     {
       "title": "LLM Networking with MikroTik",
-      "summary": "Article URL: https://blog.greg.technology/2026/07/14/llm-networking-with-mikrotik.html Comments URL: https://news.ycombinator.com/item?id=48927915 Points: 100 # Comments: 49",
+      "summary": "Article URL: https://blog.greg.technology/2026/07/14/llm-networking-with-mikrotik.html Comments URL: https://news.ycombinator.com/item?id=48927915 Points: 100 # Comments: 51",
       "source": "Hacker News",
       "published": "2026-07-15T22:23:27+00:00",
       "link": "https://blog.greg.technology/2026/07/14/llm-networking-with-mikrotik.html"
@@ -241,14 +332,14 @@ const FEED_DATA = {
     },
     {
       "title": "Speculative Growth and the AI \"Bubble\" [pdf]",
-      "summary": "Article URL: https://economics.mit.edu/sites/default/files/2026-07/speculative_growth_AI_public.pdf Comments URL: https://news.ycombinator.com/item?id=48927409 Points: 53 # Comments: 60",
+      "summary": "Article URL: https://economics.mit.edu/sites/default/files/2026-07/speculative_growth_AI_public.pdf Comments URL: https://news.ycombinator.com/item?id=48927409 Points: 54 # Comments: 60",
       "source": "Hacker News",
       "published": "2026-07-15T21:39:21+00:00",
       "link": "https://economics.mit.edu/sites/default/files/2026-07/speculative_growth_AI_public.pdf"
     },
     {
       "title": "We don't use AI in any of our design or production processes",
-      "summary": "Article URL: https://mass-driver.com/article/from-human-hands Comments URL: https://news.ycombinator.com/item?id=48927373 Points: 105 # Comments: 113",
+      "summary": "Article URL: https://mass-driver.com/article/from-human-hands Comments URL: https://news.ycombinator.com/item?id=48927373 Points: 106 # Comments: 112",
       "source": "Hacker News",
       "published": "2026-07-15T21:36:49+00:00",
       "link": "https://mass-driver.com/article/from-human-hands"
@@ -262,7 +353,7 @@ const FEED_DATA = {
     },
     {
       "title": "Governments, companies, nonprofits should invest in free, open source AI [pdf]",
-      "summary": "Article URL: https://www.siegelendowment.org/wp-content/uploads/2026/07/fortune-david-siegel-open-source-ai.pdf Comments URL: https://news.ycombinator.com/item?id=48927095 Points: 280 # Comments: 98",
+      "summary": "Article URL: https://www.siegelendowment.org/wp-content/uploads/2026/07/fortune-david-siegel-open-source-ai.pdf Comments URL: https://news.ycombinator.com/item?id=48927095 Points: 286 # Comments: 102",
       "source": "Hacker News",
       "published": "2026-07-15T21:16:36+00:00",
       "link": "https://www.siegelendowment.org/wp-content/uploads/2026/07/fortune-david-siegel-open-source-ai.pdf"
@@ -388,7 +479,7 @@ const FEED_DATA = {
     },
     {
       "title": "The Three-Second Theft: Why AI Voice Fraud Outruns Every Defence",
-      "summary": "Article URL: https://smarterarticles.co.uk/the-three-second-theft-why-ai-voice-fraud-outruns-every-defence Comments URL: https://news.ycombinator.com/item?id=48920432 Points: 183 # Comments: 233",
+      "summary": "Article URL: https://smarterarticles.co.uk/the-three-second-theft-why-ai-voice-fraud-outruns-every-defence Comments URL: https://news.ycombinator.com/item?id=48920432 Points: 186 # Comments: 238",
       "source": "Hacker News",
       "published": "2026-07-15T13:18:15+00:00",
       "link": "https://smarterarticles.co.uk/the-three-second-theft-why-ai-voice-fraud-outruns-every-defence"
@@ -640,7 +731,7 @@ const FEED_DATA = {
     },
     {
       "title": "Are we offloading too much of our thinking to AI?",
-      "summary": "Article URL: https://www.artfish.ai/p/offloading-thinking-to-ai Comments URL: https://news.ycombinator.com/item?id=48908178 Points: 520 # Comments: 474",
+      "summary": "Article URL: https://www.artfish.ai/p/offloading-thinking-to-ai Comments URL: https://news.ycombinator.com/item?id=48908178 Points: 520 # Comments: 475",
       "source": "Hacker News",
       "published": "2026-07-14T15:18:13+00:00",
       "link": "https://www.artfish.ai/p/offloading-thinking-to-ai"
@@ -945,13 +1036,6 @@ const FEED_DATA = {
       "source": "MIT Tech Review",
       "published": "2026-07-13T12:10:00+00:00",
       "link": "https://www.technologyreview.com/2026/07/13/1140339/the-download-sperm-donor-limits-ai-world-models/"
-    },
-    {
-      "title": "German AI consortium releases Soofi S, an open 30B model that tops benchmarks in both English and German",
-      "summary": "A German research consortium has released Soofi S 30B-A3B, an open language model trained entirely on Deutsche Telekom's cloud infrastructure in Munich.",
-      "source": "The Decoder",
-      "published": "2026-07-13T11:41:01+00:00",
-      "link": "https://the-decoder.com/german-ai-consortium-releases-soofi-s-an-open-30b-model-that-tops-benchmarks-in-both-english-and-german/"
     },
     {
       "title": "AI agent crawlers now need permission. Here’s how to get it",
@@ -1316,90 +1400,6 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-07-10T14:00:00+00:00",
       "link": "https://techcrunch.com/2026/07/10/hugging-faces-ceo-on-why-companies-are-done-renting-their-ai/"
-    },
-    {
-      "title": "Instagram’s Adam Mosseri: If you don’t like AI, ‘then you shouldn’t have it in your feed’",
-      "summary": "Though Instagram head Adam Mosseri doesn't want to filter out AI content on the platform, he argues that you \"shouldn't have it in your feed\" if you don't like it. \"I don't think we should filter out AI content,\" Mosseri said during an interview on Lenny Rachitsky's podcast.",
-      "source": "The Verge",
-      "published": "2026-07-10T13:45:02+00:00",
-      "link": "https://www.theverge.com/tech/963961/instagram-adam-mosseri-ai-feed-filters"
-    },
-    {
-      "title": "Would you host part of an AI data center in your home?",
-      "summary": "A solar and home energy storage company is expanding into AI data centers, but not by building one - instead, it's offering to pay its customers to put its compute units in their homes.",
-      "source": "The Verge",
-      "published": "2026-07-10T13:20:25+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/963930/sunrun-distributed-ai-data-center"
-    },
-    {
-      "title": "OpenAI kills its Atlas browser after just eight months and folds everything into ChatGPT",
-      "summary": "OpenAI is killing its AI browser Atlas less than eight months after launch. Its features are moving into ChatGPT's updated Chrome extension, which will let users run ChatGPT directly in Chrome's sidebar.",
-      "source": "The Decoder",
-      "published": "2026-07-10T12:19:21+00:00",
-      "link": "https://the-decoder.com/openai-kills-its-atlas-browser-after-just-eight-months-and-folds-everything-into-chatgpt/"
-    },
-    {
-      "title": "The Fed wants AI investor Marc Andreessen to help figure out if AI can tame inflation",
-      "summary": "Fed Chair Kevin Warsh has appointed venture capitalist Marc Andreessen to advise the Federal Reserve on AI's economic impact.",
-      "source": "The Decoder",
-      "published": "2026-07-10T12:18:32+00:00",
-      "link": "https://the-decoder.com/the-fed-wants-ai-investor-marc-andreessen-to-help-figure-out-if-ai-can-tame-inflation/"
-    },
-    {
-      "title": "The Download: Claude’s inner workings and OpenAI’s “super app”",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.",
-      "source": "MIT Tech Review",
-      "published": "2026-07-10T12:10:00+00:00",
-      "link": "https://www.technologyreview.com/2026/07/10/1140316/the-download-anthropic-claude-hidden-space-openai-super-app/"
-    },
-    {
-      "title": "Bun ditches Zig for Rust with help from Claude Fable 5, writes over a million lines of code in 11 days",
-      "summary": "The JavaScript tool Bun has been fully rewritten from Zig to Rust, and Anthropic's Fable 5 did most of the work. The article Bun ditches Zig for Rust with help from Claude Fable 5, writes over a million lines of code in 11 days appeared first on The Decoder.",
-      "source": "The Decoder",
-      "published": "2026-07-10T11:09:44+00:00",
-      "link": "https://the-decoder.com/bun-ditches-zig-for-rust-with-help-from-claude-fable-5-writes-over-a-million-lines-of-code-in-11-days/"
-    },
-    {
-      "title": "A New Experiential Gallery Just Might Change Your Mind About AI Art",
-      "summary": "Billed as the “world’s first museum of AI arts,” Dataland uses wearables and troves of material from the Amazon to merge nature, biometrics, and art.",
-      "source": "Wired",
-      "published": "2026-07-10T10:30:00+00:00",
-      "link": "https://www.wired.com/story/a-new-experiential-gallery-just-might-change-your-mind-about-ai-art/"
-    },
-    {
-      "title": "How to shrink the token budget without shrinking the team",
-      "summary": "Jensen Huang has a test for whether an engineer is worth keeping, and it comes with a token budget attached.",
-      "source": "AI News",
-      "published": "2026-07-10T09:34:27+00:00",
-      "link": "https://www.artificialintelligence-news.com/news/shrink-token-budget-not-team/"
-    },
-    {
-      "title": "AI-generated videos to maximally drive a target brain region",
-      "summary": "Article URL: https://nevo-project.epfl.ch/ Comments URL: https://news.ycombinator.com/item?id=48856904 Points: 296 # Comments: 243",
-      "source": "Hacker News",
-      "published": "2026-07-10T07:39:11+00:00",
-      "link": "https://nevo-project.epfl.ch/"
-    },
-    {
-      "title": "Robot Dogs, Teslas, and Rescue Helicopters: The UN AI Summit Was a Lot",
-      "summary": "Amid live coding sessions and Silicon Valley optimism, the UN’s AI for Good summit wrestled with an urgent question: Can global governance catch up before the technology races beyond its control?",
-      "source": "Wired",
-      "published": "2026-07-10T06:00:00+00:00",
-      "link": "https://www.wired.com/story/robot-dogs-teslas-and-rescue-helicopters-the-un-ai-summit-was-alot/"
-    },
-    {
-      "title": "OpenAI says GPT 5.6 is the ‘preferred model’ for Microsoft Copilot 365 amid breakup chatter",
-      "summary": "OpenAI's new family of models will continue to power Microsoft's suite of workplace and productivity apps.",
-      "source": "TechCrunch",
-      "published": "2026-07-10T00:16:54+00:00",
-      "link": "https://techcrunch.com/2026/07/09/openai-says-gpt-5-6-is-the-preferred-model-for-microsoft-copilot-amid-breakup-chatter/"
-    },
-    {
-      "title": "Microsoft’s carbon emissions went up 25 percent last year",
-      "summary": "Microsoft may once again be struggling to keep up with its own climate goals, according to its 2026 sustainability report.",
-      "source": "The Verge",
-      "published": "2026-07-10T00:04:13+00:00",
-      "link": "https://www.theverge.com/tech/963728/microsoft-sustainability-report-2026"
     }
   ]
 };
