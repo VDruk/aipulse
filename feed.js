@@ -1,6 +1,90 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-07-16T15:03:28.441993+00:00",
+  "lastUpdated": "2026-07-16T18:00:58.156762+00:00",
   "items": [
+    {
+      "title": "The AI compute gap: Enterprises are buying infrastructure faster than they can measure what it costs",
+      "summary": "Across 107 enterprises, AI infrastructure spending is accelerating well ahead of the ability to see or steer its economics.",
+      "source": "VentureBeat",
+      "published": "2026-07-16T17:35:19+00:00",
+      "link": "https://venturebeat.com/ai/the-ai-compute-gap-enterprises-are-buying-infrastructure-faster-than-they-can-measure-what-it-costs"
+    },
+    {
+      "title": "Google rebrands NotebookLM as Gemini Notebook and opens its search app to third-party integration",
+      "summary": "Google is renaming NotebookLM to Gemini Notebook and integrating the tool more deeply into its ecosystem. A new feature gives each notebook its own cloud computer that can write and run code, initially for AI Ultra and Workspace customers.",
+      "source": "The Decoder",
+      "published": "2026-07-16T17:22:18+00:00",
+      "link": "https://the-decoder.com/google-rebrands-notebooklm-as-gemini-notebook-and-opens-its-search-app-to-third-party-integration/"
+    },
+    {
+      "title": "The AI context gap: Enterprise AI organizations have a trust problem, not a retrieval problem — and most are still building the fix",
+      "summary": "Across 101 enterprises, the infrastructure that feeds AI agents their business context is being built faster than it can be trusted.",
+      "source": "VentureBeat",
+      "published": "2026-07-16T17:06:08+00:00",
+      "link": "https://venturebeat.com/ai/the-ai-context-gap-enterprise-ai-organizations-have-a-trust-problem-not-a-retrieval-problem-and-most-are-still-building-the-fix"
+    },
+    {
+      "title": "Examining Google DeepMind’s AI bioresilience push",
+      "summary": "Google DeepMind and Isomorphic Labs outlined a bioresilience program to curb AI misuse in biology while aiding outbreak response.",
+      "source": "AI News",
+      "published": "2026-07-16T16:48:23+00:00",
+      "link": "https://www.artificialintelligence-news.com/news/examining-google-deepmind-ai-bioresilience-push/"
+    },
+    {
+      "title": "The agent evaluation gap: Enterprise AI organizations have a reality-alignment problem, not a coverage problem — and most are shipping to production anyway",
+      "summary": "Across 157 enterprises, organizations are granting AI agents more autonomy while trusting the evaluations meant to gate that autonomy less.",
+      "source": "VentureBeat",
+      "published": "2026-07-16T16:40:48+00:00",
+      "link": "https://venturebeat.com/ai/the-agent-evaluation-gap-enterprise-ai-organizations-have-a-reality-alignment-problem-not-a-coverage-problem-and-most-are-shipping-to-production-anyway"
+    },
+    {
+      "title": "Germany puts Google's AI Overviews and Perplexity under media law in first-of-its-kind ruling",
+      "summary": "German media regulators say Google's AI Overviews are Google's own content, not neutral search results, and that they crowd out regular links. The regulators have issued their first rulings against Google and Perplexity under the country's State Media Treaty.",
+      "source": "The Decoder",
+      "published": "2026-07-16T16:12:26+00:00",
+      "link": "https://the-decoder.com/germany-puts-googles-ai-overviews-and-perplexity-under-media-law-in-first-of-its-kind-ruling/"
+    },
+    {
+      "title": "Google’s AI Mode now lets you link and interact with select apps",
+      "summary": "With this new update, Google is expanding AI Mode beyond answering questions and into completing tasks across the apps they use regularly.",
+      "source": "TechCrunch",
+      "published": "2026-07-16T16:00:00+00:00",
+      "link": "https://techcrunch.com/2026/07/16/googles-ai-mode-now-lets-you-link-and-interact-with-select-apps/"
+    },
+    {
+      "title": "Google is renaming NotebookLM to Gemini Notebook",
+      "summary": "Google is giving its AI note-taking app a new name. The company announced on Thursday that NotebookLM is becoming Gemini Notebook, but will remain a standalone app even as it integrates more deeply across Gemini and Google Search.",
+      "source": "The Verge",
+      "published": "2026-07-16T16:00:00+00:00",
+      "link": "https://www.theverge.com/tech/966112/google-gemini-notebook-notebooklm"
+    },
+    {
+      "title": "Energy IPOs surge as investors hunt for ways to play AI boom",
+      "summary": "Companies coming to market are raising money at fastest pace this century.",
+      "source": "Ars Technica",
+      "published": "2026-07-16T15:48:21+00:00",
+      "link": "https://arstechnica.com/information-technology/2026/07/energy-ipos-surge-as-investors-hunt-for-ways-to-play-ai-boom/"
+    },
+    {
+      "title": "Yes, you can now order DoorDash from the command line",
+      "summary": "DoorDash is opening a limited beta of dd-cli, a command-line tool that lets developers and AI agents search stores, build carts, and place orders from the terminal, marking another step toward software designed for AI agents instead of just humans.",
+      "source": "TechCrunch",
+      "published": "2026-07-16T15:38:55+00:00",
+      "link": "https://techcrunch.com/2026/07/16/yes-you-can-now-order-doordash-from-the-command-line/"
+    },
+    {
+      "title": "Why is OpenAI selling a ChatGPT basketball?",
+      "summary": "You may have heard that OpenAI released its first piece of hardware this week. You may not have heard about the ChatGPT basketball.",
+      "source": "TechCrunch",
+      "published": "2026-07-16T15:31:09+00:00",
+      "link": "https://techcrunch.com/2026/07/16/why-is-openai-selling-a-chatgpt-basketball/"
+    },
+    {
+      "title": "How a former DeepMind researcher raised at a $300M pre-seed valuation before launching a product",
+      "summary": "Drawing on more than a decade spent helping build some of the world's most influential AI systems, including research that later informed the development of ChatGPT, Andrew Dai explains why he believes visual AI is one of the next major frontiers in artificial intelligence.",
+      "source": "TechCrunch",
+      "published": "2026-07-16T15:02:00+00:00",
+      "link": "https://techcrunch.com/2026/07/16/how-a-former-deepmind-researcher-raised-at-a-300m-pre-seed-valuation-before-launching-a-product/"
+    },
     {
       "title": "Why AMI Labs’ Alexandre LeBrun won’t call his AI ‘AGI’ or ‘superintelligence’",
       "summary": "While everyone in AI is chasing \"superintelligence,\" Alexandre LeBrun, CEO of Yann LeCun’s world model startup, AMI Labs, dismisses the word.",
@@ -37,6 +121,13 @@ const FEED_DATA = {
       "link": "https://techcrunch.com/2026/07/16/apple-intelligence-approved-for-launch-in-china-with-alibabas-qwen-ai/"
     },
     {
+      "title": "Generative AI Is an Engineering Disaster",
+      "summary": "Article URL: https://www.theatlantic.com/technology/2026/07/generative-ai-engineering-disaster/687901/ Comments URL: https://news.ycombinator.com/item?id=48934046 Points: 72 # Comments: 31",
+      "source": "Hacker News",
+      "published": "2026-07-16T13:12:24+00:00",
+      "link": "https://www.theatlantic.com/technology/2026/07/generative-ai-engineering-disaster/687901/"
+    },
+    {
       "title": "Claude can now use your 1Password credentials for you",
       "summary": "1Password has launched a new browser integration for Claude that allows the Anthropic chatbot to access stored security credentials like usernames and passwords.",
       "source": "The Verge",
@@ -59,7 +150,7 @@ const FEED_DATA = {
     },
     {
       "title": "The LLM Critics Are Right. I Use LLMs Anyway",
-      "summary": "Article URL: https://www.theocharis.dev/blog/llm-critics-are-right-i-use-llms-anyway/ Comments URL: https://news.ycombinator.com/item?id=48933310 Points: 111 # Comments: 117",
+      "summary": "Article URL: https://www.theocharis.dev/blog/llm-critics-are-right-i-use-llms-anyway/ Comments URL: https://news.ycombinator.com/item?id=48933310 Points: 134 # Comments: 157",
       "source": "Hacker News",
       "published": "2026-07-16T11:59:01+00:00",
       "link": "https://www.theocharis.dev/blog/llm-critics-are-right-i-use-llms-anyway/"
@@ -101,7 +192,7 @@ const FEED_DATA = {
     },
     {
       "title": "Stop saying that AI is just a tool and it only matters how it is used",
-      "summary": "Article URL: https://www.frank.computer/blog/2025/05/just-a-tool.html Comments URL: https://news.ycombinator.com/item?id=48930363 Points: 97 # Comments: 89",
+      "summary": "Article URL: https://www.frank.computer/blog/2025/05/just-a-tool.html Comments URL: https://news.ycombinator.com/item?id=48930363 Points: 97 # Comments: 98",
       "source": "Hacker News",
       "published": "2026-07-16T04:31:01+00:00",
       "link": "https://www.frank.computer/blog/2025/05/just-a-tool.html"
@@ -129,7 +220,7 @@ const FEED_DATA = {
     },
     {
       "title": "LLM Networking with MikroTik",
-      "summary": "Article URL: https://blog.greg.technology/2026/07/14/llm-networking-with-mikrotik.html Comments URL: https://news.ycombinator.com/item?id=48927915 Points: 97 # Comments: 47",
+      "summary": "Article URL: https://blog.greg.technology/2026/07/14/llm-networking-with-mikrotik.html Comments URL: https://news.ycombinator.com/item?id=48927915 Points: 100 # Comments: 49",
       "source": "Hacker News",
       "published": "2026-07-15T22:23:27+00:00",
       "link": "https://blog.greg.technology/2026/07/14/llm-networking-with-mikrotik.html"
@@ -157,7 +248,7 @@ const FEED_DATA = {
     },
     {
       "title": "We don't use AI in any of our design or production processes",
-      "summary": "Article URL: https://mass-driver.com/article/from-human-hands Comments URL: https://news.ycombinator.com/item?id=48927373 Points: 102 # Comments: 108",
+      "summary": "Article URL: https://mass-driver.com/article/from-human-hands Comments URL: https://news.ycombinator.com/item?id=48927373 Points: 105 # Comments: 113",
       "source": "Hacker News",
       "published": "2026-07-15T21:36:49+00:00",
       "link": "https://mass-driver.com/article/from-human-hands"
@@ -171,7 +262,7 @@ const FEED_DATA = {
     },
     {
       "title": "Governments, companies, nonprofits should invest in free, open source AI [pdf]",
-      "summary": "Article URL: https://www.siegelendowment.org/wp-content/uploads/2026/07/fortune-david-siegel-open-source-ai.pdf Comments URL: https://news.ycombinator.com/item?id=48927095 Points: 249 # Comments: 93",
+      "summary": "Article URL: https://www.siegelendowment.org/wp-content/uploads/2026/07/fortune-david-siegel-open-source-ai.pdf Comments URL: https://news.ycombinator.com/item?id=48927095 Points: 280 # Comments: 98",
       "source": "Hacker News",
       "published": "2026-07-15T21:16:36+00:00",
       "link": "https://www.siegelendowment.org/wp-content/uploads/2026/07/fortune-david-siegel-open-source-ai.pdf"
@@ -297,7 +388,7 @@ const FEED_DATA = {
     },
     {
       "title": "The Three-Second Theft: Why AI Voice Fraud Outruns Every Defence",
-      "summary": "Article URL: https://smarterarticles.co.uk/the-three-second-theft-why-ai-voice-fraud-outruns-every-defence Comments URL: https://news.ycombinator.com/item?id=48920432 Points: 180 # Comments: 229",
+      "summary": "Article URL: https://smarterarticles.co.uk/the-three-second-theft-why-ai-voice-fraud-outruns-every-defence Comments URL: https://news.ycombinator.com/item?id=48920432 Points: 183 # Comments: 233",
       "source": "Hacker News",
       "published": "2026-07-15T13:18:15+00:00",
       "link": "https://smarterarticles.co.uk/the-three-second-theft-why-ai-voice-fraud-outruns-every-defence"
@@ -324,6 +415,13 @@ const FEED_DATA = {
       "link": "https://www.technologyreview.com/2026/07/15/1140498/the-download-useful-quantum-computer-subsea-tunnel/"
     },
     {
+      "title": "An Inventor of Apple’s FaceID Wants to Analyze Your Brain’s Health With AI",
+      "summary": "Gidi Littwin’s new AI startup, Hemispheric, makes diagnostic brain scans for conditions like depression, PTSD, and Parkinson’s. He wants the technology to be as cheap and easy as for a blood test.",
+      "source": "Wired",
+      "published": "2026-07-15T12:00:00+00:00",
+      "link": "https://www.wired.com/story/the-apple-faceid-veteran-building-a-frontier-ai-model-for-the-human-brain/"
+    },
+    {
       "title": "Indian AI coding startup Emergent becomes a unicorn with $130M Series C",
       "summary": "The startup has reached a $120 million annualized revenue run rate and more than 200,000 paying customers.",
       "source": "TechCrunch",
@@ -336,13 +434,6 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-07-15T12:00:00+00:00",
       "link": "https://techcrunch.com/2026/07/15/vint-cerf-is-working-on-a-plan-to-unleash-ai-agents-on-the-open-internet/"
-    },
-    {
-      "title": "An Inventor of Apple’s FaceID Wants to Analyze Your Brain’s Health With AI",
-      "summary": "Gidi Littwin’s new AI startup, Hemispheric, makes diagnostic brain scans for conditions like depression, PTSD, and Parkinson’s. He wants the technology to be as cheap and easy as for a blood test.",
-      "source": "Wired",
-      "published": "2026-07-15T12:00:00+00:00",
-      "link": "https://www.wired.com/story/the-apple-faceid-veteran-building-a-frontier-ai-model-for-the-human-brain/"
     },
     {
       "title": "My Ebike Delivery Went Missing. When I Tried to Recover It, I Ended Up in Chatbot Hell",
@@ -549,7 +640,7 @@ const FEED_DATA = {
     },
     {
       "title": "Are we offloading too much of our thinking to AI?",
-      "summary": "Article URL: https://www.artfish.ai/p/offloading-thinking-to-ai Comments URL: https://news.ycombinator.com/item?id=48908178 Points: 517 # Comments: 474",
+      "summary": "Article URL: https://www.artfish.ai/p/offloading-thinking-to-ai Comments URL: https://news.ycombinator.com/item?id=48908178 Points: 520 # Comments: 474",
       "source": "Hacker News",
       "published": "2026-07-14T15:18:13+00:00",
       "link": "https://www.artfish.ai/p/offloading-thinking-to-ai"
@@ -661,7 +752,7 @@ const FEED_DATA = {
     },
     {
       "title": "Demis Hassabis has a plan to harness AI safely",
-      "summary": "https://xcancel.com/i/article/2076957440109625718https://www.economist.com/business/2026/07/14/demis-hassabis..., https://archive.ph/GOUcN Comments URL: https://news.ycombinator.com/item?id=48904095 Points: 154 # Comments: 198",
+      "summary": "https://xcancel.com/i/article/2076957440109625718https://www.economist.com/business/2026/07/14/demis-hassabis..., https://archive.ph/GOUcN Comments URL: https://news.ycombinator.com/item?id=48904095 Points: 154 # Comments: 201",
       "source": "Hacker News",
       "published": "2026-07-14T09:20:07+00:00",
       "link": "https://twitter.com/demishassabis/status/2076957440109625718"
@@ -1309,97 +1400,6 @@ const FEED_DATA = {
       "source": "The Verge",
       "published": "2026-07-10T00:04:13+00:00",
       "link": "https://www.theverge.com/tech/963728/microsoft-sustainability-report-2026"
-    },
-    {
-      "title": "Fidji Simo steps down from OpenAI’s No. 2 role",
-      "summary": "OpenAI's No. 2 executive, Fidji Simo, is stepping down from her full-time role after her medical leave proved longer than expected — a leadership vacuum that comes at a tricky time as the company eyes a possible IPO and races to catch Anthropic in the enterprise market.",
-      "source": "TechCrunch",
-      "published": "2026-07-09T23:38:00+00:00",
-      "link": "https://techcrunch.com/2026/07/09/fidji-simo-steps-down-from-openais-no-2-role/"
-    },
-    {
-      "title": "Fidji Simo steps down from leading OpenAI’s AGI work due to illness",
-      "summary": "OpenAI's Fidji Simo is departing her full-time role as the company's AGI chief and is transitioning to being a \"part-time advisor,\" she said on X.",
-      "source": "The Verge",
-      "published": "2026-07-09T23:24:04+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/963738/openai-fidji-simo-steps-down-ceo-advisor"
-    },
-    {
-      "title": "OpenAI’s CEO of AGI Deployment, Fidji Simo, Is Stepping Down",
-      "summary": "The move comes after Simo took significant medical leave. She will stay on as a part-time adviser.",
-      "source": "Wired",
-      "published": "2026-07-09T23:13:18+00:00",
-      "link": "https://www.wired.com/story/fidji-simo-ceo-agi-deployment-openai/"
-    },
-    {
-      "title": "OpenAI launches its new family of models with GPT-5.6",
-      "summary": "OpenAI's latest family of models promises improvements across a range of areas, including cybersecurity.",
-      "source": "TechCrunch",
-      "published": "2026-07-09T22:24:24+00:00",
-      "link": "https://techcrunch.com/2026/07/09/openai-launches-its-new-family-of-models-with-gpt-5-6/"
-    },
-    {
-      "title": "An AI agent startup just let its agent run its $100M fundraise",
-      "summary": "Lyzr, a startup that builds AI agents for enterprises, used its own AI agent to raise a $100 million round — proof, evidently, that the product actually works.",
-      "source": "TechCrunch",
-      "published": "2026-07-09T22:08:58+00:00",
-      "link": "https://techcrunch.com/2026/07/09/an-ai-agent-startup-just-let-its-agent-run-its-100-million-fundraise/"
-    },
-    {
-      "title": "An AI agent startup just let its agent run its $100 million fundraise",
-      "summary": "Lyzr, a startup that builds AI agents for enterprises, used its own AI agent to raise a $100 million round — proof, evidently, that the product actually works.",
-      "source": "TechCrunch",
-      "published": "2026-07-09T22:08:58+00:00",
-      "link": "https://techcrunch.com/2026/07/09/an-ai-agent-startup-just-let-its-agent-run-its-100-million-fundraise/"
-    },
-    {
-      "title": "OpenAI is shutting down Atlas, but its AI browser ambitions are still growing",
-      "summary": "OpenAI is sunsetting its AI-powered browser after less than a year. But it's moving some agentic browsing features to its desktop app and a Chrome extension.",
-      "source": "TechCrunch",
-      "published": "2026-07-09T22:03:54+00:00",
-      "link": "https://techcrunch.com/2026/07/09/openai-is-shutting-down-atlas-but-its-ai-browser-ambitions-are-still-growing/"
-    },
-    {
-      "title": "Elon Musk praises Mythos/Fable, promises not to ‘cut off’ Anthropic",
-      "summary": "Should Anthropic trust Elon Musk to host its models? With about $40 billion in revenue at stake, Musk insists that the company can.",
-      "source": "TechCrunch",
-      "published": "2026-07-09T21:57:42+00:00",
-      "link": "https://techcrunch.com/2026/07/09/elon-musk-praises-mythos-fable-promises-not-to-cut-off-anthropic/"
-    },
-    {
-      "title": "Can AI answer the $3 trillion question?",
-      "summary": "The AI ROI debate has returned and the numbers are even bigger, as are, perhaps, the consequences.",
-      "source": "TechCrunch",
-      "published": "2026-07-09T21:47:50+00:00",
-      "link": "https://techcrunch.com/2026/07/09/can-ai-answer-the-3-trillion-question/"
-    },
-    {
-      "title": "Building a real-time AI tutor for 5-year-olds",
-      "summary": "Hey HN! We've spent the good part of this past year building an AI tutor that teaches kids ages 4-9 reading, math, ESL and more.",
-      "source": "Hacker News",
-      "published": "2026-07-09T20:51:06+00:00",
-      "link": "https://www.ello.com/blog/teaching-a-child-in-1000-ms"
-    },
-    {
-      "title": "The ChatGPT browser is already dead",
-      "summary": "OpenAI is already shutting down ChatGPT Atlas, its browser that could do tasks for you on your behalf, less than a year after launching it.",
-      "source": "The Verge",
-      "published": "2026-07-09T20:34:05+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/963654/openai-chatgpt-atlas-ai-browser-shut-down-sunset"
-    },
-    {
-      "title": "Anthropic found a hidden space where Claude puzzles over concepts",
-      "summary": "The AI firm Anthropic has developed a technique that has given it the clearest glimpse yet at what’s really going on inside large language models as they answer questions or carry out tasks. What they found ranges from the mundane to the unnerving.",
-      "source": "MIT Tech Review",
-      "published": "2026-07-09T20:22:28+00:00",
-      "link": "https://www.technologyreview.com/2026/07/09/1140293/anthropic-found-a-hidden-space-where-claude-puzzles-over-concepts/"
-    },
-    {
-      "title": "Google will now tell you if an ad was made with AI",
-      "summary": "You can see if ads on Google Search, Google Discover, and YouTube were made or edited using AI from a new section in Google's \"My Ad Center,\" as reported earlier by TechCrunch.",
-      "source": "The Verge",
-      "published": "2026-07-09T20:11:38+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/963628/google-ai-generated-ads-label"
     }
   ]
 };
