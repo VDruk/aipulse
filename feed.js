@@ -1,6 +1,41 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-07-16T07:23:15.028987+00:00",
+  "lastUpdated": "2026-07-16T10:46:41.117622+00:00",
   "items": [
+    {
+      "title": "Please Stop Making Me Opt Out of AI",
+      "summary": "I’m sick of “opt-out” toggles for automatically enabled generative AI features. It’s past time to make “opt in” the default setting for sensitive features.",
+      "source": "Wired",
+      "published": "2026-07-16T10:00:00+00:00",
+      "link": "https://www.wired.com/story/please-stop-making-me-opt-out-of-ai/"
+    },
+    {
+      "title": "Ex-OpenAI CTO Murati's Thinking Machines drops Inkling, a 975B parameter model that leads US labs but trails China",
+      "summary": "Thinking Machines Lab, founded by former OpenAI CTO Mira Murati, has released Inkling, a multimodal open-weights model with 975 billion parameters. It leads U.S.",
+      "source": "The Decoder",
+      "published": "2026-07-16T09:55:28+00:00",
+      "link": "https://the-decoder.com/ex-openai-cto-muratis-thinking-machines-drops-inkling-a-975b-parameter-model-that-leads-us-labs-but-trails-china/"
+    },
+    {
+      "title": "Gemma 4 gets a stealth update that fixes tool calling bugs and truncated responses under the same name",
+      "summary": "Google shipped an update to its open AI model Gemma 4 that speeds up performance on Nvidia Hopper GPUs, fixes tool calling bugs, and addresses problems with truncated responses.",
+      "source": "The Decoder",
+      "published": "2026-07-16T09:07:58+00:00",
+      "link": "https://the-decoder.com/gemma-4-gets-a-stealth-update-that-fixes-tool-calling-bugs-and-truncated-responses-under-the-same-name/"
+    },
+    {
+      "title": "Neko Health raises $700 million to expand AI body scans in the US",
+      "summary": "Neko Health has raised $700 million to expand its AI body scans in the United States, starting with a clinic in New York. The company’s preventive screening service combines medical imaging, blood tests, proprietary sensors, and clinician review.",
+      "source": "AI News",
+      "published": "2026-07-16T09:00:00+00:00",
+      "link": "https://www.artificialintelligence-news.com/news/neko-health-700m-ai-body-scans-us/"
+    },
+    {
+      "title": "xAI open-sources \"Grok-Build\" on GitHub after massive data breach",
+      "summary": "xAI's command-line tool \"Grok Build\" silently uploaded entire directories to Google Cloud servers, including SSH keys and password databases.",
+      "source": "The Decoder",
+      "published": "2026-07-16T07:56:21+00:00",
+      "link": "https://the-decoder.com/xai-open-sources-grok-build-on-github-after-massive-data-breach/"
+    },
     {
       "title": "Stop saying that AI is just a tool and it only matters how it is used",
       "summary": "Article URL: https://www.frank.computer/blog/2025/05/just-a-tool.html Comments URL: https://news.ycombinator.com/item?id=48930363 Points: 64 # Comments: 40",
@@ -1365,41 +1400,6 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-07-09T18:22:39+00:00",
       "link": "https://techcrunch.com/2026/07/09/how-did-the-government-decide-openais-frontier-model-was-safe-to-release/"
-    },
-    {
-      "title": "OpenAI pairs its GPT-5.6 public rollout with ChatGPT Work, a new agent that handles entire workflows",
-      "summary": "OpenAI is launching ChatGPT Work, an agent-based product powered by Codex and the now publicly available GPT-5.6. The agent can independently handle complex projects across apps like Google Drive, Slack, and Salesforce.",
-      "source": "The Decoder",
-      "published": "2026-07-09T17:59:22+00:00",
-      "link": "https://the-decoder.com/openai-pairs-its-gpt-5-6-public-rollout-with-chatgpt-work-a-new-agent-that-handles-entire-workflows/"
-    },
-    {
-      "title": "Instagram users: Here’s how to stop Meta’s AI from using your photos",
-      "summary": "Muse Image allows users to generate AI images using photos from public Instagram accounts. As long as a person's profile is public, another user can tag that account and use their images as part of an AI-generated creation.",
-      "source": "TechCrunch",
-      "published": "2026-07-09T17:56:47+00:00",
-      "link": "https://techcrunch.com/2026/07/09/how-to-stop-metas-ai-image-generator-from-using-your-instagram-photos/"
-    },
-    {
-      "title": "How to stop Meta’s AI image generator from using your Instagram photos",
-      "summary": "Meta's new AI image generator is using your public Instagram photos unless you opt out. Here's how to do that.",
-      "source": "TechCrunch",
-      "published": "2026-07-09T17:56:47+00:00",
-      "link": "https://techcrunch.com/2026/07/09/how-to-stop-metas-ai-image-generator-from-using-your-instagram-photos/"
-    },
-    {
-      "title": "Meta’s new AI chips will begin production in September",
-      "summary": "The company is taking a modular approach to designing these chips, anticipating that their needs will change as AI evolves rapidly by the time the chips are in production.",
-      "source": "TechCrunch",
-      "published": "2026-07-09T17:17:37+00:00",
-      "link": "https://techcrunch.com/2026/07/09/metas-new-ai-chips-will-begin-production-in-september/"
-    },
-    {
-      "title": "Nvidia is a victim of the compute marketplace it created",
-      "summary": "Having proven how valuable compute can be, the company finds itself at the center of a market everyone wants to be in — while simpler technologies and less interesting companies get rich on the sidelines.",
-      "source": "TechCrunch",
-      "published": "2026-07-09T17:06:11+00:00",
-      "link": "https://techcrunch.com/2026/07/09/nvidia-is-a-victim-of-the-compute-marketplace-it-created/"
     }
   ]
 };
