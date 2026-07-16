@@ -1,6 +1,69 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-07-16T10:46:41.117622+00:00",
+  "lastUpdated": "2026-07-16T15:03:28.441993+00:00",
   "items": [
+    {
+      "title": "Why AMI Labs’ Alexandre LeBrun won’t call his AI ‘AGI’ or ‘superintelligence’",
+      "summary": "While everyone in AI is chasing \"superintelligence,\" Alexandre LeBrun, CEO of Yann LeCun’s world model startup, AMI Labs, dismisses the word.",
+      "source": "TechCrunch",
+      "published": "2026-07-16T14:40:00+00:00",
+      "link": "https://techcrunch.com/2026/07/16/why-ami-labs-alexandre-lebrun-wont-call-his-ai-agi-or-superintelligence/"
+    },
+    {
+      "title": "OpenAI wants developers to stop typing commands and start using a joystick to control their AI agents",
+      "summary": "OpenAI and keyboard manufacturer Work Louder have unveiled the Codex Micro, a compact hardware controller designed for working with AI agents.",
+      "source": "The Decoder",
+      "published": "2026-07-16T14:31:34+00:00",
+      "link": "https://the-decoder.com/openai-wants-developers-to-stop-typing-commands-and-start-using-a-joystick-to-control-their-ai-agents/"
+    },
+    {
+      "title": "Moonshot’s upcoming Kimi 3 is expected to close the gap with Anthropic’s Opus 4.8",
+      "summary": "The FT reports Kimi K3 will be the largest open AI model from China, with a parameter count between 2 trillion and 3 trillion.",
+      "source": "TechCrunch",
+      "published": "2026-07-16T14:26:29+00:00",
+      "link": "https://techcrunch.com/2026/07/16/moonshots-upcoming-kimi-3-is-expected-to-close-the-gap-with-anthropics-opus-4-8/"
+    },
+    {
+      "title": "Sakana AI's orchestrator adds Nvidia Nemotron to prove \"collective intelligence\" can rival single frontier models",
+      "summary": "Sakana AI is integrating Nvidia's open-source Nemotron models into its Fugu orchestrator, which dynamically combines multiple language models for specific tasks. The core argument: Open models only become competitive with Frontier systems when used in a coordinated manner.",
+      "source": "The Decoder",
+      "published": "2026-07-16T14:02:13+00:00",
+      "link": "https://the-decoder.com/sakana-ais-fugu-adds-nvidia-nemotron-to-prove-collective-intelligence-can-rival-single-frontier-models/"
+    },
+    {
+      "title": "Apple Intelligence approved for launch in China with Alibaba and Baidu",
+      "summary": "The deal, which was rumored to be in the works last year, marks an important step for Apple's AI ambitions in a key market.",
+      "source": "TechCrunch",
+      "published": "2026-07-16T13:17:59+00:00",
+      "link": "https://techcrunch.com/2026/07/16/apple-intelligence-approved-for-launch-in-china-with-alibabas-qwen-ai/"
+    },
+    {
+      "title": "Claude can now use your 1Password credentials for you",
+      "summary": "1Password has launched a new browser integration for Claude that allows the Anthropic chatbot to access stored security credentials like usernames and passwords.",
+      "source": "The Verge",
+      "published": "2026-07-16T13:00:00+00:00",
+      "link": "https://www.theverge.com/tech/966442/1password-anthropic-claude-browser-integration"
+    },
+    {
+      "title": "The Download: OpenAI unveils GPT-Red and heat pumps rise in the US",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.",
+      "source": "MIT Tech Review",
+      "published": "2026-07-16T12:10:00+00:00",
+      "link": "https://www.technologyreview.com/2026/07/16/1140600/the-download-openai-unveils-gpt-red-heat-pumps-rise-us/"
+    },
+    {
+      "title": "Google ordered to open Android and Search to rivals in Europe",
+      "summary": "Google must give rival AI assistants and search engines greater access to key parts of Android and Google Search after the European Union ordered the company to comply with the bloc's digital antitrust rules.",
+      "source": "The Verge",
+      "published": "2026-07-16T12:06:51+00:00",
+      "link": "https://www.theverge.com/policy/966438/eu-google-android-ai-interoperability-search-data-dma"
+    },
+    {
+      "title": "The LLM Critics Are Right. I Use LLMs Anyway",
+      "summary": "Article URL: https://www.theocharis.dev/blog/llm-critics-are-right-i-use-llms-anyway/ Comments URL: https://news.ycombinator.com/item?id=48933310 Points: 111 # Comments: 117",
+      "source": "Hacker News",
+      "published": "2026-07-16T11:59:01+00:00",
+      "link": "https://www.theocharis.dev/blog/llm-critics-are-right-i-use-llms-anyway/"
+    },
     {
       "title": "Please Stop Making Me Opt Out of AI",
       "summary": "I’m sick of “opt-out” toggles for automatically enabled generative AI features. It’s past time to make “opt in” the default setting for sensitive features.",
@@ -38,7 +101,7 @@ const FEED_DATA = {
     },
     {
       "title": "Stop saying that AI is just a tool and it only matters how it is used",
-      "summary": "Article URL: https://www.frank.computer/blog/2025/05/just-a-tool.html Comments URL: https://news.ycombinator.com/item?id=48930363 Points: 64 # Comments: 40",
+      "summary": "Article URL: https://www.frank.computer/blog/2025/05/just-a-tool.html Comments URL: https://news.ycombinator.com/item?id=48930363 Points: 97 # Comments: 89",
       "source": "Hacker News",
       "published": "2026-07-16T04:31:01+00:00",
       "link": "https://www.frank.computer/blog/2025/05/just-a-tool.html"
@@ -66,7 +129,7 @@ const FEED_DATA = {
     },
     {
       "title": "LLM Networking with MikroTik",
-      "summary": "Article URL: https://blog.greg.technology/2026/07/14/llm-networking-with-mikrotik.html Comments URL: https://news.ycombinator.com/item?id=48927915 Points: 78 # Comments: 35",
+      "summary": "Article URL: https://blog.greg.technology/2026/07/14/llm-networking-with-mikrotik.html Comments URL: https://news.ycombinator.com/item?id=48927915 Points: 97 # Comments: 47",
       "source": "Hacker News",
       "published": "2026-07-15T22:23:27+00:00",
       "link": "https://blog.greg.technology/2026/07/14/llm-networking-with-mikrotik.html"
@@ -87,14 +150,14 @@ const FEED_DATA = {
     },
     {
       "title": "Speculative Growth and the AI \"Bubble\" [pdf]",
-      "summary": "Article URL: https://economics.mit.edu/sites/default/files/2026-07/speculative_growth_AI_public.pdf Comments URL: https://news.ycombinator.com/item?id=48927409 Points: 52 # Comments: 60",
+      "summary": "Article URL: https://economics.mit.edu/sites/default/files/2026-07/speculative_growth_AI_public.pdf Comments URL: https://news.ycombinator.com/item?id=48927409 Points: 53 # Comments: 60",
       "source": "Hacker News",
       "published": "2026-07-15T21:39:21+00:00",
       "link": "https://economics.mit.edu/sites/default/files/2026-07/speculative_growth_AI_public.pdf"
     },
     {
       "title": "We don't use AI in any of our design or production processes",
-      "summary": "Article URL: https://mass-driver.com/article/from-human-hands Comments URL: https://news.ycombinator.com/item?id=48927373 Points: 99 # Comments: 103",
+      "summary": "Article URL: https://mass-driver.com/article/from-human-hands Comments URL: https://news.ycombinator.com/item?id=48927373 Points: 102 # Comments: 108",
       "source": "Hacker News",
       "published": "2026-07-15T21:36:49+00:00",
       "link": "https://mass-driver.com/article/from-human-hands"
@@ -108,7 +171,7 @@ const FEED_DATA = {
     },
     {
       "title": "Governments, companies, nonprofits should invest in free, open source AI [pdf]",
-      "summary": "Article URL: https://www.siegelendowment.org/wp-content/uploads/2026/07/fortune-david-siegel-open-source-ai.pdf Comments URL: https://news.ycombinator.com/item?id=48927095 Points: 161 # Comments: 58",
+      "summary": "Article URL: https://www.siegelendowment.org/wp-content/uploads/2026/07/fortune-david-siegel-open-source-ai.pdf Comments URL: https://news.ycombinator.com/item?id=48927095 Points: 249 # Comments: 93",
       "source": "Hacker News",
       "published": "2026-07-15T21:16:36+00:00",
       "link": "https://www.siegelendowment.org/wp-content/uploads/2026/07/fortune-david-siegel-open-source-ai.pdf"
@@ -226,13 +289,6 @@ const FEED_DATA = {
       "link": "https://the-decoder.com/spotify-bets-premium-subscribers-want-to-chat-with-their-music-player/"
     },
     {
-      "title": "Apple Intelligence approved for launch in China with Alibaba’s Qwen AI",
-      "summary": "The deal, which was rumored to be in the works last year, marks an important step for Apple's AI ambitions in a key market.",
-      "source": "TechCrunch",
-      "published": "2026-07-15T15:29:33+00:00",
-      "link": "https://techcrunch.com/2026/07/15/apple-intelligence-approved-for-launch-in-china-with-alibabas-qwen-ai/"
-    },
-    {
       "title": "Inside Ode with Anthropic, the startup betting AI services are the future of enterprise",
       "summary": "Can a handful of engineers really do the work of an army of consultants?",
       "source": "TechCrunch",
@@ -241,7 +297,7 @@ const FEED_DATA = {
     },
     {
       "title": "The Three-Second Theft: Why AI Voice Fraud Outruns Every Defence",
-      "summary": "Article URL: https://smarterarticles.co.uk/the-three-second-theft-why-ai-voice-fraud-outruns-every-defence Comments URL: https://news.ycombinator.com/item?id=48920432 Points: 171 # Comments: 223",
+      "summary": "Article URL: https://smarterarticles.co.uk/the-three-second-theft-why-ai-voice-fraud-outruns-every-defence Comments URL: https://news.ycombinator.com/item?id=48920432 Points: 180 # Comments: 229",
       "source": "Hacker News",
       "published": "2026-07-15T13:18:15+00:00",
       "link": "https://smarterarticles.co.uk/the-three-second-theft-why-ai-voice-fraud-outruns-every-defence"
@@ -367,7 +423,7 @@ const FEED_DATA = {
     },
     {
       "title": "Financing the AI boom: from cash flows to debt [pdf]",
-      "summary": "Article URL: https://www.bis.org/publ/bisbull120.pdf Comments URL: https://news.ycombinator.com/item?id=48913443 Points: 164 # Comments: 106",
+      "summary": "Article URL: https://www.bis.org/publ/bisbull120.pdf Comments URL: https://news.ycombinator.com/item?id=48913443 Points: 165 # Comments: 106",
       "source": "Hacker News",
       "published": "2026-07-14T21:58:36+00:00",
       "link": "https://www.bis.org/publ/bisbull120.pdf"
@@ -493,7 +549,7 @@ const FEED_DATA = {
     },
     {
       "title": "Are we offloading too much of our thinking to AI?",
-      "summary": "Article URL: https://www.artfish.ai/p/offloading-thinking-to-ai Comments URL: https://news.ycombinator.com/item?id=48908178 Points: 515 # Comments: 474",
+      "summary": "Article URL: https://www.artfish.ai/p/offloading-thinking-to-ai Comments URL: https://news.ycombinator.com/item?id=48908178 Points: 517 # Comments: 474",
       "source": "Hacker News",
       "published": "2026-07-14T15:18:13+00:00",
       "link": "https://www.artfish.ai/p/offloading-thinking-to-ai"
@@ -1344,62 +1400,6 @@ const FEED_DATA = {
       "source": "The Verge",
       "published": "2026-07-09T20:11:38+00:00",
       "link": "https://www.theverge.com/ai-artificial-intelligence/963628/google-ai-generated-ads-label"
-    },
-    {
-      "title": "Show HN: Reviving my 2001 college band with AI",
-      "summary": "25 years ago, I joined a band called Fading Maize at Ripon College in Wisconsin. We did what we could with what we had.",
-      "source": "Hacker News",
-      "published": "2026-07-09T19:49:37+00:00",
-      "link": "https://www.fadingmaize.com"
-    },
-    {
-      "title": "Meta enters the crowded AI coding battle with Muse Spark 1.1",
-      "summary": "Meta's pitch to users is Spark's ability to handle large agentic workloads, fix bugs, and help with large code migrations — the kind of automation that enterprises are increasingly turning to AI companies to provide.",
-      "source": "TechCrunch",
-      "published": "2026-07-09T19:40:45+00:00",
-      "link": "https://techcrunch.com/2026/07/09/meta-enters-the-crowded-ai-coding-battle-with-muse-spark-1-1/"
-    },
-    {
-      "title": "New York Times says OpenAI hid evidence in ChatGPT copyright trial",
-      "summary": "News publishers say OpenAI hid tools and datasets that could identify copyrighted journalism in ChatGPT outputs, escalating their lawsuit with a new motion for sanctions.",
-      "source": "TechCrunch",
-      "published": "2026-07-09T19:05:58+00:00",
-      "link": "https://techcrunch.com/2026/07/09/new-york-times-says-openai-hid-evidence-in-chatgpt-copyright-trial/"
-    },
-    {
-      "title": "Google will now disclose which ads are made with AI",
-      "summary": "While Google prohibits misleading and deceptive ads, an ad can still leverage AI to create some type of synthetic or digitally altered content. Until now, that's something Google only required election ads to disclose.",
-      "source": "TechCrunch",
-      "published": "2026-07-09T18:40:51+00:00",
-      "link": "https://techcrunch.com/2026/07/09/google-will-now-disclose-which-ads-are-made-with-ai/"
-    },
-    {
-      "title": "GPT-5.6 Sol nearly matches Fable 5 on aggregated benchmarks at one-third the cost",
-      "summary": "OpenAI's GPT-5.6 Sol scores 59 points on the Artificial Analysis Intelligence Index, just one point behind Claude Fable 5. At $1.04 per task, it costs a third of what Anthropic's top model charges.",
-      "source": "The Decoder",
-      "published": "2026-07-09T18:37:51+00:00",
-      "link": "https://the-decoder.com/gpt-5-6-sol-nearly-matches-fable-5-on-aggregated-benchmarks-at-one-third-the-cost/"
-    },
-    {
-      "title": "Paris-based AI voice startup Gradium raises $100M seed, backed by Nvidia",
-      "summary": "The company is using the cash to open an office in the Bay Area and compete for talent there, \"strengthening its position at the heart of the world's leading AI ecosystem.\"",
-      "source": "TechCrunch",
-      "published": "2026-07-09T18:34:35+00:00",
-      "link": "https://techcrunch.com/2026/07/09/paris-based-ai-voice-startup-gradium-raises-100m-seed-backed-by-nvidia/"
-    },
-    {
-      "title": "Anthropic Wants You to Pay Up for Claude Fable 5",
-      "summary": "Claude subscribers must soon pay usage-based fees to access Anthropic’s best consumer AI model—a sign that the golden era of AI subscriptions is ending.",
-      "source": "Wired",
-      "published": "2026-07-09T18:30:00+00:00",
-      "link": "https://www.wired.com/story/model-behavior-anthropic-will-charge-consumers-extra-to-use-claude-fable-5/"
-    },
-    {
-      "title": "How did the government decide OpenAI’s frontier model was safe to release?",
-      "summary": "\"Exactly what that dialog looked like between the government and Anthropic and OpenAI is unclear.\"",
-      "source": "TechCrunch",
-      "published": "2026-07-09T18:22:39+00:00",
-      "link": "https://techcrunch.com/2026/07/09/how-did-the-government-decide-openais-frontier-model-was-safe-to-release/"
     }
   ]
 };
