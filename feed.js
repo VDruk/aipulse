@@ -1,6 +1,34 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-07-15T21:51:16.587747+00:00",
+  "lastUpdated": "2026-07-16T04:07:02.638851+00:00",
   "items": [
+    {
+      "title": "Microsoft is reportedly training salespeople to talk down OpenAI and Anthropic",
+      "summary": "Microsoft is looking to sell its in-house AI models as more efficient and cost-effective than its competitors' models.",
+      "source": "TechCrunch",
+      "published": "2026-07-15T23:59:44+00:00",
+      "link": "https://techcrunch.com/2026/07/15/microsoft-is-reportedly-training-salespeople-to-talk-down-openai-and-anthropic/"
+    },
+    {
+      "title": "Agentic orchestration: Enterprise AI organizations have a deployment problem, not a platform problem — and most are calling chatbots agents",
+      "summary": "Across 101 enterprises, agent orchestration is consolidating onto model-provider platforms — Anthropic’s Claude leads by a wide margin — chosen for the gravity of the underlying model and judged on reliable multi-step execution.",
+      "source": "VentureBeat",
+      "published": "2026-07-15T22:24:17+00:00",
+      "link": "https://venturebeat.com/ai/agentic-orchestration-enterprise-ai-organizations-have-a-deployment-problem-not-a-platform-problem-and-most-are-calling-chatbots-agents"
+    },
+    {
+      "title": "LLM Networking with MikroTik",
+      "summary": "Article URL: https://blog.greg.technology/2026/07/14/llm-networking-with-mikrotik.html Comments URL: https://news.ycombinator.com/item?id=48927915 Points: 63 # Comments: 24",
+      "source": "Hacker News",
+      "published": "2026-07-15T22:23:27+00:00",
+      "link": "https://blog.greg.technology/2026/07/14/llm-networking-with-mikrotik.html"
+    },
+    {
+      "title": "Sheetz is quitting VMware, migrating 11,000 virtual machines",
+      "summary": "The convenience store chain will use StorMagic instead.",
+      "source": "Ars Technica",
+      "published": "2026-07-15T21:41:56+00:00",
+      "link": "https://arstechnica.com/information-technology/2026/07/sheetz-moves-838-stores-off-vmware-broadcom-created-too-much-uncertainty/"
+    },
     {
       "title": "Sheetz moves 838 stores off VMware: Broadcom created “too much uncertainty\"",
       "summary": "The conveneince store chain will use StorMagic instead.",
@@ -9,11 +37,25 @@ const FEED_DATA = {
       "link": "https://arstechnica.com/information-technology/2026/07/sheetz-moves-838-stores-off-vmware-broadcom-created-too-much-uncertainty/"
     },
     {
+      "title": "We don't use AI in any of our design or production processes",
+      "summary": "Article URL: https://mass-driver.com/article/from-human-hands Comments URL: https://news.ycombinator.com/item?id=48927373 Points: 97 # Comments: 95",
+      "source": "Hacker News",
+      "published": "2026-07-15T21:36:49+00:00",
+      "link": "https://mass-driver.com/article/from-human-hands"
+    },
+    {
       "title": "xAI sues a man for using Grok to generate CSAM ‘deepfakes’",
       "summary": "The Elon Musk-owned xAI is suing a South Carolina man who allegedly used the company's Grok AI chatbot to generate child sexual abuse material (CSAM).",
       "source": "The Verge",
       "published": "2026-07-15T21:33:20+00:00",
       "link": "https://www.theverge.com/ai-artificial-intelligence/966293/xai-grok-user-lawsuit-csam"
+    },
+    {
+      "title": "Governments, companies, nonprofits should invest in free, open source AI [pdf]",
+      "summary": "Article URL: https://www.siegelendowment.org/wp-content/uploads/2026/07/fortune-david-siegel-open-source-ai.pdf Comments URL: https://news.ycombinator.com/item?id=48927095 Points: 119 # Comments: 48",
+      "source": "Hacker News",
+      "published": "2026-07-15T21:16:36+00:00",
+      "link": "https://www.siegelendowment.org/wp-content/uploads/2026/07/fortune-david-siegel-open-source-ai.pdf"
     },
     {
       "title": "AI slop movies are the new direct-to-video cash grabs",
@@ -45,7 +87,7 @@ const FEED_DATA = {
     },
     {
       "title": "Inkling – Open-Weights 975B Parameter LLM",
-      "summary": "Article URL: https://thinkingmachines.ai/inkling/ Comments URL: https://news.ycombinator.com/item?id=48924929 Points: 118 # Comments: 4",
+      "summary": "Article URL: https://thinkingmachines.ai/inkling/ Comments URL: https://news.ycombinator.com/item?id=48924929 Points: 121 # Comments: 4",
       "source": "Hacker News",
       "published": "2026-07-15T18:14:23+00:00",
       "link": "https://thinkingmachines.ai/inkling/"
@@ -143,7 +185,7 @@ const FEED_DATA = {
     },
     {
       "title": "The Three-Second Theft: Why AI Voice Fraud Outruns Every Defence",
-      "summary": "Article URL: https://smarterarticles.co.uk/the-three-second-theft-why-ai-voice-fraud-outruns-every-defence Comments URL: https://news.ycombinator.com/item?id=48920432 Points: 157 # Comments: 206",
+      "summary": "Article URL: https://smarterarticles.co.uk/the-three-second-theft-why-ai-voice-fraud-outruns-every-defence Comments URL: https://news.ycombinator.com/item?id=48920432 Points: 166 # Comments: 217",
       "source": "Hacker News",
       "published": "2026-07-15T13:18:15+00:00",
       "link": "https://smarterarticles.co.uk/the-three-second-theft-why-ai-voice-fraud-outruns-every-defence"
@@ -269,7 +311,7 @@ const FEED_DATA = {
     },
     {
       "title": "Financing the AI boom: from cash flows to debt [pdf]",
-      "summary": "Article URL: https://www.bis.org/publ/bisbull120.pdf Comments URL: https://news.ycombinator.com/item?id=48913443 Points: 164 # Comments: 102",
+      "summary": "Article URL: https://www.bis.org/publ/bisbull120.pdf Comments URL: https://news.ycombinator.com/item?id=48913443 Points: 164 # Comments: 105",
       "source": "Hacker News",
       "published": "2026-07-14T21:58:36+00:00",
       "link": "https://www.bis.org/publ/bisbull120.pdf"
@@ -395,7 +437,7 @@ const FEED_DATA = {
     },
     {
       "title": "Are we offloading too much of our thinking to AI?",
-      "summary": "Article URL: https://www.artfish.ai/p/offloading-thinking-to-ai Comments URL: https://news.ycombinator.com/item?id=48908178 Points: 510 # Comments: 468",
+      "summary": "Article URL: https://www.artfish.ai/p/offloading-thinking-to-ai Comments URL: https://news.ycombinator.com/item?id=48908178 Points: 512 # Comments: 473",
       "source": "Hacker News",
       "published": "2026-07-14T15:18:13+00:00",
       "link": "https://www.artfish.ai/p/offloading-thinking-to-ai"
@@ -444,14 +486,14 @@ const FEED_DATA = {
     },
     {
       "title": "Proof of care in the age of AI",
-      "summary": "Article URL: https://jacobfilipp.com/care/ Comments URL: https://news.ycombinator.com/item?id=48906125 Points: 185 # Comments: 109",
+      "summary": "Article URL: https://jacobfilipp.com/care/ Comments URL: https://news.ycombinator.com/item?id=48906125 Points: 185 # Comments: 110",
       "source": "Hacker News",
       "published": "2026-07-14T12:56:25+00:00",
       "link": "https://jacobfilipp.com/care/"
     },
     {
       "title": "Guardian Angels: LLM Personalization for Productivity and Security",
-      "summary": "Article URL: https://gwern.net/guardian-angel Comments URL: https://news.ycombinator.com/item?id=48906041 Points: 91 # Comments: 16",
+      "summary": "Article URL: https://gwern.net/guardian-angel Comments URL: https://news.ycombinator.com/item?id=48906041 Points: 92 # Comments: 16",
       "source": "Hacker News",
       "published": "2026-07-14T12:50:29+00:00",
       "link": "https://gwern.net/guardian-angel"
@@ -507,7 +549,7 @@ const FEED_DATA = {
     },
     {
       "title": "Demis Hassabis has a plan to harness AI safely",
-      "summary": "https://xcancel.com/i/article/2076957440109625718https://www.economist.com/business/2026/07/14/demis-hassabis..., https://archive.ph/GOUcN Comments URL: https://news.ycombinator.com/item?id=48904095 Points: 153 # Comments: 197",
+      "summary": "https://xcancel.com/i/article/2076957440109625718https://www.economist.com/business/2026/07/14/demis-hassabis..., https://archive.ph/GOUcN Comments URL: https://news.ycombinator.com/item?id=48904095 Points: 153 # Comments: 198",
       "source": "Hacker News",
       "published": "2026-07-14T09:20:07+00:00",
       "link": "https://twitter.com/demishassabis/status/2076957440109625718"
@@ -577,7 +619,7 @@ const FEED_DATA = {
     },
     {
       "title": "Samsung Health app threatens data deletion if users opt out AI training",
-      "summary": "Article URL: https://neow.in/cWsyMTV3 Comments URL: https://news.ycombinator.com/item?id=48897991 Points: 348 # Comments: 103",
+      "summary": "Article URL: https://neow.in/cWsyMTV3 Comments URL: https://news.ycombinator.com/item?id=48897991 Points: 349 # Comments: 103",
       "source": "Hacker News",
       "published": "2026-07-13T20:01:43+00:00",
       "link": "https://neow.in/cWsyMTV3"
@@ -591,7 +633,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI is a bad tool",
-      "summary": "Article URL: https://bytecode.news/posts/2026/07/user-submission-ai-is-a-bad-tool Comments URL: https://news.ycombinator.com/item?id=48897861 Points: 80 # Comments: 95",
+      "summary": "Article URL: https://bytecode.news/posts/2026/07/user-submission-ai-is-a-bad-tool Comments URL: https://news.ycombinator.com/item?id=48897861 Points: 80 # Comments: 98",
       "source": "Hacker News",
       "published": "2026-07-13T19:51:15+00:00",
       "link": "https://bytecode.news/posts/2026/07/user-submission-ai-is-a-bad-tool"
@@ -1358,48 +1400,6 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-07-09T16:58:44+00:00",
       "link": "https://the-decoder.com/metas-muse-spark-1-1-api-pricing-squeezes-openai-and-anthropic-as-the-ai-price-war-heats-up/"
-    },
-    {
-      "title": "AI 2040: Plan A",
-      "summary": "Article URL: https://ai-2040.com/ Comments URL: https://news.ycombinator.com/item?id=48848425 Points: 390 # Comments: 514",
-      "source": "Hacker News",
-      "published": "2026-07-09T16:21:44+00:00",
-      "link": "https://ai-2040.com/"
-    },
-    {
-      "title": "AI content is everywhere on social media, especially LinkedIn",
-      "summary": "Article URL: https://www.pangram.com/blog/ai-in-your-feed Comments URL: https://news.ycombinator.com/item?id=48847940 Points: 245 # Comments: 216",
-      "source": "Hacker News",
-      "published": "2026-07-09T15:50:09+00:00",
-      "link": "https://www.pangram.com/blog/ai-in-your-feed"
-    },
-    {
-      "title": "AWS GraphRAG deployment cuts drug research cycles by 87%",
-      "summary": "A recent AWS GraphRAG deployment reduced drug research and development cycles in pharmaceutical environments by 87 percent. This acceleration is achieved by integrating previously separated proprietary databases into a unified and queryable knowledge graph.",
-      "source": "AI News",
-      "published": "2026-07-09T15:43:09+00:00",
-      "link": "https://www.artificialintelligence-news.com/news/aws-graphrag-deployment-cuts-drug-research-cycles-by-87/"
-    },
-    {
-      "title": "Anthropic’s new Claude feature is quietly selling you on AI",
-      "summary": "Claude’s new Reflect dashboard doesn’t just visualize how you use AI. It also subtly reinforces how much of your daily work now depends on Anthropic’s chatbot.",
-      "source": "TechCrunch",
-      "published": "2026-07-09T14:53:09+00:00",
-      "link": "https://techcrunch.com/2026/07/09/anthropics-new-claude-feature-is-quietly-selling-you-on-ai/"
-    },
-    {
-      "title": "Anthropic, OpenAI, and SpaceX are bigger than the last 25 years of tech exits",
-      "summary": "Three big AI IPOs are set to generate more value than all the U.S. VC-backed exits since 2000.",
-      "source": "TechCrunch",
-      "published": "2026-07-09T14:51:00+00:00",
-      "link": "https://techcrunch.com/2026/07/09/anthropic-openai-and-spacex-are-bigger-than-the-last-25-years-of-tech-exits/"
-    },
-    {
-      "title": "The next era of AI is about infrastructure, not just models",
-      "summary": "Article URL: https://blog.mozilla.ai/the-control-layer-why-the-next-era-of-ai-is-about-infrastructure-not-just-models/ Comments URL: https://news.ycombinator.com/item?id=48846842 Points: 61 # Comments: 24",
-      "source": "Hacker News",
-      "published": "2026-07-09T14:50:01+00:00",
-      "link": "https://blog.mozilla.ai/the-control-layer-why-the-next-era-of-ai-is-about-infrastructure-not-just-models/"
     }
   ]
 };
