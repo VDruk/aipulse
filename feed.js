@@ -1,5 +1,5 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-07-17T03:58:15.986965+00:00",
+  "lastUpdated": "2026-07-17T07:18:53.760353+00:00",
   "items": [
     {
       "title": "Why Apple Sued OpenAI, New York Takes on Data Centers, and What to Know about Cyclosporiasis",
@@ -10,7 +10,7 @@ const FEED_DATA = {
     },
     {
       "title": "LM Studio Bionic: the AI agent for open models",
-      "summary": "Article URL: https://lmstudio.ai/blog/introducing-lm-studio-bionic Comments URL: https://news.ycombinator.com/item?id=48939662 Points: 181 # Comments: 67",
+      "summary": "Article URL: https://lmstudio.ai/blog/introducing-lm-studio-bionic Comments URL: https://news.ycombinator.com/item?id=48939662 Points: 226 # Comments: 75",
       "source": "Hacker News",
       "published": "2026-07-16T20:18:15+00:00",
       "link": "https://lmstudio.ai/blog/introducing-lm-studio-bionic"
@@ -24,7 +24,7 @@ const FEED_DATA = {
     },
     {
       "title": "$100 AI Music Video: Claude Fable 5 vs. GPT-5.6 Sol",
-      "summary": "Article URL: https://www.tryai.dev/blog/ai-music-video-arena-claude-vs-gpt-5.6 Comments URL: https://news.ycombinator.com/item?id=48939524 Points: 171 # Comments: 194",
+      "summary": "Article URL: https://www.tryai.dev/blog/ai-music-video-arena-claude-vs-gpt-5.6 Comments URL: https://news.ycombinator.com/item?id=48939524 Points: 228 # Comments: 273",
       "source": "Hacker News",
       "published": "2026-07-16T20:03:23+00:00",
       "link": "https://www.tryai.dev/blog/ai-music-video-arena-claude-vs-gpt-5.6"
@@ -80,7 +80,7 @@ const FEED_DATA = {
     },
     {
       "title": "German AI consortium releases Soofi S, an open 30B model that tops benchmarks",
-      "summary": "Article URL: https://the-decoder.com/german-ai-consortium-releases-soofi-s-an-open-30b-model-that-tops-benchmarks-in-both-english-and-german/ Comments URL: https://news.ycombinator.com/item?id=48937756 Points: 127 # Comments: 28",
+      "summary": "Article URL: https://the-decoder.com/german-ai-consortium-releases-soofi-s-an-open-30b-model-that-tops-benchmarks-in-both-english-and-german/ Comments URL: https://news.ycombinator.com/item?id=48937756 Points: 133 # Comments: 28",
       "source": "Hacker News",
       "published": "2026-07-16T17:44:46+00:00",
       "link": "https://the-decoder.com/german-ai-consortium-releases-soofi-s-an-open-30b-model-that-tops-benchmarks-in-both-english-and-german/"
@@ -108,7 +108,7 @@ const FEED_DATA = {
     },
     {
       "title": "Detecting LLM-Generated Texts with “Classical” Machine Learning",
-      "summary": "Article URL: https://blog.lyc8503.net/en/post/llm-classifier/ Comments URL: https://news.ycombinator.com/item?id=48936880 Points: 168 # Comments: 115",
+      "summary": "Article URL: https://blog.lyc8503.net/en/post/llm-classifier/ Comments URL: https://news.ycombinator.com/item?id=48936880 Points: 187 # Comments: 129",
       "source": "Hacker News",
       "published": "2026-07-16T16:41:37+00:00",
       "link": "https://blog.lyc8503.net/en/post/llm-classifier/"
@@ -164,7 +164,7 @@ const FEED_DATA = {
     },
     {
       "title": "How to Train a Gen AI Kick Drum Model on Your Old Linux Desktop with 6GB VRAM",
-      "summary": "Article URL: https://www.zhinit.dev/blog/training-a-kick-drum-diffusion-model Comments URL: https://news.ycombinator.com/item?id=48935687 Points: 107 # Comments: 55",
+      "summary": "Article URL: https://www.zhinit.dev/blog/training-a-kick-drum-diffusion-model Comments URL: https://news.ycombinator.com/item?id=48935687 Points: 119 # Comments: 60",
       "source": "Hacker News",
       "published": "2026-07-16T15:13:00+00:00",
       "link": "https://www.zhinit.dev/blog/training-a-kick-drum-diffusion-model"
@@ -178,7 +178,7 @@ const FEED_DATA = {
     },
     {
       "title": "Kimi K3: Open Frontier Intelligence",
-      "summary": "https://www.kimi.com/enKimi K3 Intelligence, Performance & Price Analysis: https://artificialanalysis.ai/models/kimi-k3 Comments URL: https://news.ycombinator.com/item?id=48935342 Points: 1290 # Comments: 809",
+      "summary": "https://www.kimi.com/enKimi K3 Intelligence, Performance & Price Analysis: https://artificialanalysis.ai/models/kimi-k3 Comments URL: https://news.ycombinator.com/item?id=48935342 Points: 1504 # Comments: 900",
       "source": "Hacker News",
       "published": "2026-07-16T14:46:05+00:00",
       "link": "https://www.kimi.com/blog/kimi-k3"
@@ -220,7 +220,7 @@ const FEED_DATA = {
     },
     {
       "title": "Generative AI Is an Engineering Disaster",
-      "summary": "Article URL: https://www.theatlantic.com/technology/2026/07/generative-ai-engineering-disaster/687901/ Comments URL: https://news.ycombinator.com/item?id=48934046 Points: 102 # Comments: 73",
+      "summary": "Article URL: https://www.theatlantic.com/technology/2026/07/generative-ai-engineering-disaster/687901/ Comments URL: https://news.ycombinator.com/item?id=48934046 Points: 104 # Comments: 73",
       "source": "Hacker News",
       "published": "2026-07-16T13:12:24+00:00",
       "link": "https://www.theatlantic.com/technology/2026/07/generative-ai-engineering-disaster/687901/"
@@ -248,7 +248,7 @@ const FEED_DATA = {
     },
     {
       "title": "The LLM Critics Are Right. I Use LLMs Anyway",
-      "summary": "Article URL: https://www.theocharis.dev/blog/llm-critics-are-right-i-use-llms-anyway/ Comments URL: https://news.ycombinator.com/item?id=48933310 Points: 205 # Comments: 207",
+      "summary": "Article URL: https://www.theocharis.dev/blog/llm-critics-are-right-i-use-llms-anyway/ Comments URL: https://news.ycombinator.com/item?id=48933310 Points: 213 # Comments: 221",
       "source": "Hacker News",
       "published": "2026-07-16T11:59:01+00:00",
       "link": "https://www.theocharis.dev/blog/llm-critics-are-right-i-use-llms-anyway/"
@@ -290,7 +290,7 @@ const FEED_DATA = {
     },
     {
       "title": "Stop saying that AI is just a tool and it only matters how it is used",
-      "summary": "Article URL: https://www.frank.computer/blog/2025/05/just-a-tool.html Comments URL: https://news.ycombinator.com/item?id=48930363 Points: 104 # Comments: 113",
+      "summary": "Article URL: https://www.frank.computer/blog/2025/05/just-a-tool.html Comments URL: https://news.ycombinator.com/item?id=48930363 Points: 104 # Comments: 114",
       "source": "Hacker News",
       "published": "2026-07-16T04:31:01+00:00",
       "link": "https://www.frank.computer/blog/2025/05/just-a-tool.html"
@@ -346,7 +346,7 @@ const FEED_DATA = {
     },
     {
       "title": "We don't use AI in any of our design or production processes",
-      "summary": "Article URL: https://mass-driver.com/article/from-human-hands Comments URL: https://news.ycombinator.com/item?id=48927373 Points: 107 # Comments: 112",
+      "summary": "Article URL: https://mass-driver.com/article/from-human-hands Comments URL: https://news.ycombinator.com/item?id=48927373 Points: 107 # Comments: 113",
       "source": "Hacker News",
       "published": "2026-07-15T21:36:49+00:00",
       "link": "https://mass-driver.com/article/from-human-hands"
@@ -360,7 +360,7 @@ const FEED_DATA = {
     },
     {
       "title": "Governments, companies, nonprofits should invest in free, open source AI [pdf]",
-      "summary": "Article URL: https://www.siegelendowment.org/wp-content/uploads/2026/07/fortune-david-siegel-open-source-ai.pdf Comments URL: https://news.ycombinator.com/item?id=48927095 Points: 288 # Comments: 104",
+      "summary": "Article URL: https://www.siegelendowment.org/wp-content/uploads/2026/07/fortune-david-siegel-open-source-ai.pdf Comments URL: https://news.ycombinator.com/item?id=48927095 Points: 289 # Comments: 106",
       "source": "Hacker News",
       "published": "2026-07-15T21:16:36+00:00",
       "link": "https://www.siegelendowment.org/wp-content/uploads/2026/07/fortune-david-siegel-open-source-ai.pdf"
@@ -738,7 +738,7 @@ const FEED_DATA = {
     },
     {
       "title": "Are we offloading too much of our thinking to AI?",
-      "summary": "Article URL: https://www.artfish.ai/p/offloading-thinking-to-ai Comments URL: https://news.ycombinator.com/item?id=48908178 Points: 521 # Comments: 475",
+      "summary": "Article URL: https://www.artfish.ai/p/offloading-thinking-to-ai Comments URL: https://news.ycombinator.com/item?id=48908178 Points: 521 # Comments: 476",
       "source": "Hacker News",
       "published": "2026-07-14T15:18:13+00:00",
       "link": "https://www.artfish.ai/p/offloading-thinking-to-ai"
