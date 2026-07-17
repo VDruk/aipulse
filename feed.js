@@ -1,6 +1,27 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-07-17T10:27:39.804263+00:00",
+  "lastUpdated": "2026-07-17T14:44:21.885997+00:00",
   "items": [
+    {
+      "title": "The Download: perimenopause misinformation and China’s latest AI leap",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. There’s a lot of hype around perimenopause.",
+      "source": "MIT Tech Review",
+      "published": "2026-07-17T12:10:00+00:00",
+      "link": "https://www.technologyreview.com/2026/07/17/1140640/the-download-perimenopause-misinformation-china-moonshot-ai/"
+    },
+    {
+      "title": "Why the first GPU financiers are turning to inference chips in a $400 million deal",
+      "summary": "A $400 million chip-backed loan points to the next wave of AI infrastructure deals.",
+      "source": "TechCrunch",
+      "published": "2026-07-17T12:00:00+00:00",
+      "link": "https://techcrunch.com/2026/07/17/why-the-first-gpu-financiers-are-turning-to-inference-chips-in-a-400-million-deal/"
+    },
+    {
+      "title": "Linus Torvalds tells AI critics in the Linux kernel community to fork off",
+      "summary": "Linux creator Linus Torvalds has come out strongly in favor of AI tools in kernel development. \"Linux is not one of those anti-AI projects,\" he wrote on the kernel mailing list amid a debate over Sashiko, the Linux Foundation's AI-powered code review tool.",
+      "source": "The Decoder",
+      "published": "2026-07-17T11:12:47+00:00",
+      "link": "https://the-decoder.com/linus-torvalds-tells-ai-critics-in-the-linux-kernel-community-to-fork-off/"
+    },
     {
       "title": "San Francisco Demands Apple and Google Delete AI ‘Nudify’ Apps From App Stores",
       "summary": "The City Attorney’s Office sent the tech giants cease-and-desist letters this week telling them to stop profiting from 13 “face-swap” apps that are overwhelmingly used to target women and girls.",
@@ -31,7 +52,7 @@ const FEED_DATA = {
     },
     {
       "title": "LM Studio Bionic: the AI agent for open models",
-      "summary": "Article URL: https://lmstudio.ai/blog/introducing-lm-studio-bionic Comments URL: https://news.ycombinator.com/item?id=48939662 Points: 255 # Comments: 90",
+      "summary": "Article URL: https://lmstudio.ai/blog/introducing-lm-studio-bionic Comments URL: https://news.ycombinator.com/item?id=48939662 Points: 293 # Comments: 106",
       "source": "Hacker News",
       "published": "2026-07-16T20:18:15+00:00",
       "link": "https://lmstudio.ai/blog/introducing-lm-studio-bionic"
@@ -45,7 +66,7 @@ const FEED_DATA = {
     },
     {
       "title": "$100 AI Music Video: Claude Fable 5 vs. GPT-5.6 Sol",
-      "summary": "Article URL: https://www.tryai.dev/blog/ai-music-video-arena-claude-vs-gpt-5.6 Comments URL: https://news.ycombinator.com/item?id=48939524 Points: 277 # Comments: 376",
+      "summary": "Article URL: https://www.tryai.dev/blog/ai-music-video-arena-claude-vs-gpt-5.6 Comments URL: https://news.ycombinator.com/item?id=48939524 Points: 328 # Comments: 448",
       "source": "Hacker News",
       "published": "2026-07-16T20:03:23+00:00",
       "link": "https://www.tryai.dev/blog/ai-music-video-arena-claude-vs-gpt-5.6"
@@ -101,7 +122,7 @@ const FEED_DATA = {
     },
     {
       "title": "German AI consortium releases Soofi S, an open 30B model that tops benchmarks",
-      "summary": "Article URL: https://the-decoder.com/german-ai-consortium-releases-soofi-s-an-open-30b-model-that-tops-benchmarks-in-both-english-and-german/ Comments URL: https://news.ycombinator.com/item?id=48937756 Points: 137 # Comments: 29",
+      "summary": "Article URL: https://the-decoder.com/german-ai-consortium-releases-soofi-s-an-open-30b-model-that-tops-benchmarks-in-both-english-and-german/ Comments URL: https://news.ycombinator.com/item?id=48937756 Points: 142 # Comments: 31",
       "source": "Hacker News",
       "published": "2026-07-16T17:44:46+00:00",
       "link": "https://the-decoder.com/german-ai-consortium-releases-soofi-s-an-open-30b-model-that-tops-benchmarks-in-both-english-and-german/"
@@ -129,7 +150,7 @@ const FEED_DATA = {
     },
     {
       "title": "Detecting LLM-Generated Texts with “Classical” Machine Learning",
-      "summary": "Article URL: https://blog.lyc8503.net/en/post/llm-classifier/ Comments URL: https://news.ycombinator.com/item?id=48936880 Points: 203 # Comments: 144",
+      "summary": "Article URL: https://blog.lyc8503.net/en/post/llm-classifier/ Comments URL: https://news.ycombinator.com/item?id=48936880 Points: 222 # Comments: 166",
       "source": "Hacker News",
       "published": "2026-07-16T16:41:37+00:00",
       "link": "https://blog.lyc8503.net/en/post/llm-classifier/"
@@ -185,7 +206,7 @@ const FEED_DATA = {
     },
     {
       "title": "How to Train a Gen AI Kick Drum Model on Your Old Linux Desktop with 6GB VRAM",
-      "summary": "Article URL: https://www.zhinit.dev/blog/training-a-kick-drum-diffusion-model Comments URL: https://news.ycombinator.com/item?id=48935687 Points: 139 # Comments: 64",
+      "summary": "Article URL: https://www.zhinit.dev/blog/training-a-kick-drum-diffusion-model Comments URL: https://news.ycombinator.com/item?id=48935687 Points: 151 # Comments: 73",
       "source": "Hacker News",
       "published": "2026-07-16T15:13:00+00:00",
       "link": "https://www.zhinit.dev/blog/training-a-kick-drum-diffusion-model"
@@ -199,7 +220,7 @@ const FEED_DATA = {
     },
     {
       "title": "Kimi K3: Open Frontier Intelligence",
-      "summary": "https://www.kimi.com/enKimi K3 Intelligence, Performance & Price Analysis: https://artificialanalysis.ai/models/kimi-k3 Comments URL: https://news.ycombinator.com/item?id=48935342 Points: 1657 # Comments: 970",
+      "summary": "https://www.kimi.com/enKimi K3 Intelligence, Performance & Price Analysis: https://artificialanalysis.ai/models/kimi-k3 Comments URL: https://news.ycombinator.com/item?id=48935342 Points: 1843 # Comments: 1093",
       "source": "Hacker News",
       "published": "2026-07-16T14:46:05+00:00",
       "link": "https://www.kimi.com/blog/kimi-k3"
@@ -241,7 +262,7 @@ const FEED_DATA = {
     },
     {
       "title": "Generative AI Is an Engineering Disaster",
-      "summary": "Article URL: https://www.theatlantic.com/technology/2026/07/generative-ai-engineering-disaster/687901/ Comments URL: https://news.ycombinator.com/item?id=48934046 Points: 105 # Comments: 74",
+      "summary": "Article URL: https://www.theatlantic.com/technology/2026/07/generative-ai-engineering-disaster/687901/ Comments URL: https://news.ycombinator.com/item?id=48934046 Points: 106 # Comments: 78",
       "source": "Hacker News",
       "published": "2026-07-16T13:12:24+00:00",
       "link": "https://www.theatlantic.com/technology/2026/07/generative-ai-engineering-disaster/687901/"
@@ -269,14 +290,14 @@ const FEED_DATA = {
     },
     {
       "title": "The LLM Critics Are Right. I Use LLMs Anyway",
-      "summary": "Article URL: https://www.theocharis.dev/blog/llm-critics-are-right-i-use-llms-anyway/ Comments URL: https://news.ycombinator.com/item?id=48933310 Points: 231 # Comments: 242",
+      "summary": "Article URL: https://www.theocharis.dev/blog/llm-critics-are-right-i-use-llms-anyway/ Comments URL: https://news.ycombinator.com/item?id=48933310 Points: 266 # Comments: 276",
       "source": "Hacker News",
       "published": "2026-07-16T11:59:01+00:00",
       "link": "https://www.theocharis.dev/blog/llm-critics-are-right-i-use-llms-anyway/"
     },
     {
       "title": "Linus Torvalds on LLM usage in kernel development",
-      "summary": "Article URL: https://lore.kernel.org/linux-media/CAHk-=wi4zC+Ze8e+p3tMv8TtG_80KzsZ1syL9anBtmEh5Z40vg@mail.gmail.com/ Comments URL: https://news.ycombinator.com/item?id=48932522 Points: 50 # Comments: 9",
+      "summary": "Article URL: https://lore.kernel.org/linux-media/CAHk-=wi4zC+Ze8e+p3tMv8TtG_80KzsZ1syL9anBtmEh5Z40vg@mail.gmail.com/ Comments URL: https://news.ycombinator.com/item?id=48932522 Points: 53 # Comments: 10",
       "source": "Hacker News",
       "published": "2026-07-16T10:11:31+00:00",
       "link": "https://lore.kernel.org/linux-media/CAHk-=wi4zC+Ze8e+p3tMv8TtG_80KzsZ1syL9anBtmEh5Z40vg@mail.gmail.com/"
@@ -318,7 +339,7 @@ const FEED_DATA = {
     },
     {
       "title": "Stop saying that AI is just a tool and it only matters how it is used",
-      "summary": "Article URL: https://www.frank.computer/blog/2025/05/just-a-tool.html Comments URL: https://news.ycombinator.com/item?id=48930363 Points: 104 # Comments: 115",
+      "summary": "Article URL: https://www.frank.computer/blog/2025/05/just-a-tool.html Comments URL: https://news.ycombinator.com/item?id=48930363 Points: 105 # Comments: 115",
       "source": "Hacker News",
       "published": "2026-07-16T04:31:01+00:00",
       "link": "https://www.frank.computer/blog/2025/05/just-a-tool.html"
@@ -346,7 +367,7 @@ const FEED_DATA = {
     },
     {
       "title": "LLM Networking with MikroTik",
-      "summary": "Article URL: https://blog.greg.technology/2026/07/14/llm-networking-with-mikrotik.html Comments URL: https://news.ycombinator.com/item?id=48927915 Points: 102 # Comments: 56",
+      "summary": "Article URL: https://blog.greg.technology/2026/07/14/llm-networking-with-mikrotik.html Comments URL: https://news.ycombinator.com/item?id=48927915 Points: 102 # Comments: 57",
       "source": "Hacker News",
       "published": "2026-07-15T22:23:27+00:00",
       "link": "https://blog.greg.technology/2026/07/14/llm-networking-with-mikrotik.html"
@@ -388,7 +409,7 @@ const FEED_DATA = {
     },
     {
       "title": "Governments, companies, nonprofits should invest in free, open source AI [pdf]",
-      "summary": "Article URL: https://www.siegelendowment.org/wp-content/uploads/2026/07/fortune-david-siegel-open-source-ai.pdf Comments URL: https://news.ycombinator.com/item?id=48927095 Points: 290 # Comments: 106",
+      "summary": "Article URL: https://www.siegelendowment.org/wp-content/uploads/2026/07/fortune-david-siegel-open-source-ai.pdf Comments URL: https://news.ycombinator.com/item?id=48927095 Points: 291 # Comments: 107",
       "source": "Hacker News",
       "published": "2026-07-15T21:16:36+00:00",
       "link": "https://www.siegelendowment.org/wp-content/uploads/2026/07/fortune-david-siegel-open-source-ai.pdf"
@@ -514,7 +535,7 @@ const FEED_DATA = {
     },
     {
       "title": "The Three-Second Theft: Why AI Voice Fraud Outruns Every Defence",
-      "summary": "Article URL: https://smarterarticles.co.uk/the-three-second-theft-why-ai-voice-fraud-outruns-every-defence Comments URL: https://news.ycombinator.com/item?id=48920432 Points: 188 # Comments: 242",
+      "summary": "Article URL: https://smarterarticles.co.uk/the-three-second-theft-why-ai-voice-fraud-outruns-every-defence Comments URL: https://news.ycombinator.com/item?id=48920432 Points: 189 # Comments: 244",
       "source": "Hacker News",
       "published": "2026-07-15T13:18:15+00:00",
       "link": "https://smarterarticles.co.uk/the-three-second-theft-why-ai-voice-fraud-outruns-every-defence"
@@ -766,7 +787,7 @@ const FEED_DATA = {
     },
     {
       "title": "Are we offloading too much of our thinking to AI?",
-      "summary": "Article URL: https://www.artfish.ai/p/offloading-thinking-to-ai Comments URL: https://news.ycombinator.com/item?id=48908178 Points: 521 # Comments: 476",
+      "summary": "Article URL: https://www.artfish.ai/p/offloading-thinking-to-ai Comments URL: https://news.ycombinator.com/item?id=48908178 Points: 521 # Comments: 477",
       "source": "Hacker News",
       "published": "2026-07-14T15:18:13+00:00",
       "link": "https://www.artfish.ai/p/offloading-thinking-to-ai"
@@ -1379,27 +1400,6 @@ const FEED_DATA = {
       "source": "Wired",
       "published": "2026-07-10T20:44:05+00:00",
       "link": "https://www.wired.com/story/apple-sues-openai-allegedly-stealing-ip-hardware/"
-    },
-    {
-      "title": "Open source AI matters more than ever, according to Hugging Face’s Clem Delangue",
-      "summary": "Open source AI is booming, according to Hugging Face CEO Clem Delangue. The company has grown into something like a GitHub for AI in recent years, where AI builders can share and download open models and datasets, now used by roughly half the Fortune 500.",
-      "source": "TechCrunch",
-      "published": "2026-07-10T19:00:00+00:00",
-      "link": "https://techcrunch.com/podcast/open-source-ai-matters-more-than-ever-according-to-hugging-faces-clem-delangue/"
-    },
-    {
-      "title": "How the terrorist group Boko Haram uses frontier AI",
-      "summary": "Article URL: https://casp.ac/reports/ai-enabled-terrorism Comments URL: https://news.ycombinator.com/item?id=48863707 Points: 231 # Comments: 207",
-      "source": "Hacker News",
-      "published": "2026-07-10T18:49:26+00:00",
-      "link": "https://casp.ac/reports/ai-enabled-terrorism"
-    },
-    {
-      "title": "GPT-5.6 Sol Ultra produces proof of the Cycle Double Cover Conjecture [pdf]",
-      "summary": "https://x.com/__eknight__/status/2075643450196971805, https://xcancel.com/__eknight__/status/2075643450196971805Prompt: https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98... Comments URL: https://news.ycombinator.com/item?id=48863490 Points: 534 # Comments: 436",
-      "source": "Hacker News",
-      "published": "2026-07-10T18:29:19+00:00",
-      "link": "https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf"
     }
   ]
 };
