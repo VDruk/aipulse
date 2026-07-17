@@ -1,6 +1,34 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-07-17T14:44:21.885997+00:00",
+  "lastUpdated": "2026-07-17T17:59:09.525334+00:00",
   "items": [
+    {
+      "title": "How Apple’s big lawsuit could disrupt OpenAI’s IPO plans",
+      "summary": "Apple filed a trade secrets lawsuit against OpenAI last Friday, and it’s not messing around. The complaint alleges a pattern of misconduct reaching all the way up to OpenAI’s chief hardware officer and claims more than 400 former Apple employees now work at the company.",
+      "source": "TechCrunch",
+      "published": "2026-07-17T17:45:46+00:00",
+      "link": "https://techcrunch.com/video/how-apples-big-lawsuit-could-disrupt-openais-ipo-plans/"
+    },
+    {
+      "title": "Apple’s plot to crush OpenAI",
+      "summary": "Apple is suing OpenAI. The complaint is readable and intense, as these things often are, though many experts seem to think many of the allegations are just the ways things are done.",
+      "source": "The Verge",
+      "published": "2026-07-17T17:41:32+00:00",
+      "link": "https://www.theverge.com/podcast/967244/apple-openai-lawsuit-vergecast"
+    },
+    {
+      "title": "Patreon stops asking AI bots not to scrape — and starts blocking them",
+      "summary": "Patreon is strengthening its defenses against AI scraping by working with Cloudflare to block bots that train AI models on creators’ content without permission. The move marks a shift away from relying on websites using robots.txt alone to actively block unauthorized AI training.",
+      "source": "TechCrunch",
+      "published": "2026-07-17T15:21:17+00:00",
+      "link": "https://techcrunch.com/2026/07/17/patreon-stops-asking-ai-bots-not-to-scrape-and-starts-blocking-them/"
+    },
+    {
+      "title": "Apple’s lawsuit couldn’t come at a worse time for OpenAI",
+      "summary": "Apple filed a trade secrets lawsuit against OpenAI last Friday, and it’s not messing around. The complaint alleges a pattern of misconduct reaching all the way up to OpenAI’s chief hardware officer and claims more than 400 former Apple employees now work at the company.",
+      "source": "TechCrunch",
+      "published": "2026-07-17T14:00:00+00:00",
+      "link": "https://techcrunch.com/podcast/apples-lawsuit-couldnt-come-at-a-worse-time-for-openai/"
+    },
     {
       "title": "The Download: perimenopause misinformation and China’s latest AI leap",
       "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. There’s a lot of hype around perimenopause.",
@@ -1372,34 +1400,6 @@ const FEED_DATA = {
       "source": "The Verge",
       "published": "2026-07-10T21:36:51+00:00",
       "link": "https://www.theverge.com/tech/964350/apple-openai-lawsuit-trade-secrets"
-    },
-    {
-      "title": "OpenAI's GPT-5.6 Sol autonomously post-trained the smaller Luna model with a \"fairly underspecified prompt\"",
-      "summary": "According to OpenAI, GPT-5.6 Sol independently fine-tuned the smaller Luna model, triggered by a single \"fairly under-specified prompt.\" In OpenAI's internal RSI benchmark for recursive self-improvement, Sol scores 16.2 points higher than GPT-5.5.",
-      "source": "The Decoder",
-      "published": "2026-07-10T21:12:47+00:00",
-      "link": "https://the-decoder.com/openais-gpt-5-6-sol-autonomously-post-trained-the-smaller-luna-model-with-a-fairly-underspecified-prompt/"
-    },
-    {
-      "title": "Apple sues OpenAI over alleged trade secret theft",
-      "summary": "Apple alleges the misconduct was directed by OpenAI's senior leadership, including a longtime former employee.",
-      "source": "TechCrunch",
-      "published": "2026-07-10T21:00:29+00:00",
-      "link": "https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft/"
-    },
-    {
-      "title": "GPT-5.6, Grok 4.5, Claude, and Muse Spark build the same 4 apps",
-      "summary": "Article URL: https://www.tryai.dev/blog/gpt-5.6-build-off-12-models Comments URL: https://news.ycombinator.com/item?id=48865093 Points: 159 # Comments: 87",
-      "source": "Hacker News",
-      "published": "2026-07-10T20:52:28+00:00",
-      "link": "https://www.tryai.dev/blog/gpt-5.6-build-off-12-models"
-    },
-    {
-      "title": "Apple Is Suing OpenAI for Allegedly Stealing Hardware Secrets",
-      "summary": "The iPhone maker claims OpenAI encouraged poached employees to bring over confidential presentations, secret prototypes, and key supplier details.",
-      "source": "Wired",
-      "published": "2026-07-10T20:44:05+00:00",
-      "link": "https://www.wired.com/story/apple-sues-openai-allegedly-stealing-ip-hardware/"
     }
   ]
 };
