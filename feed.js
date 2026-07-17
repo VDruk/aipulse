@@ -1,6 +1,48 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-07-17T17:59:09.525334+00:00",
+  "lastUpdated": "2026-07-17T21:42:31.284270+00:00",
   "items": [
+    {
+      "title": "Zuckerberg's plan to sell excess AI compute could finds its first big customer in Anthropic",
+      "summary": "Meta is reportedly in talks with Anthropic to rent out compute capacity from its data centers. The article Zuckerberg's plan to sell excess AI compute could finds its first big customer in Anthropic appeared first on The Decoder.",
+      "source": "The Decoder",
+      "published": "2026-07-17T21:16:00+00:00",
+      "link": "https://the-decoder.com/zuckerbergs-plan-to-sell-excess-ai-compute-could-finds-its-first-big-customer-in-anthropic/"
+    },
+    {
+      "title": "Agility Robotics plants its flag in Tesla’s backyard",
+      "summary": "Agility is opening a new training center for its Digit robots in Fremont, California.",
+      "source": "TechCrunch",
+      "published": "2026-07-17T20:19:49+00:00",
+      "link": "https://techcrunch.com/2026/07/17/agility-robotics-plants-its-flag-in-teslas-backyard/"
+    },
+    {
+      "title": "AI-driven memory crunch jolts India’s smartphone market",
+      "summary": "India's smartphone slowdown highlights how the AI boom is reshaping consumer electronics, from pricing and demand to corporate strategy.",
+      "source": "TechCrunch",
+      "published": "2026-07-17T20:09:27+00:00",
+      "link": "https://techcrunch.com/2026/07/17/ai-driven-memory-crunch-jolts-indias-smartphone-market/"
+    },
+    {
+      "title": "GPT-5.6 is deleting user files when given full access, and OpenAI says it shouldn't but did",
+      "summary": "OpenAI's GPT-5.6 has accidentally wiped users' entire home directories in several cases, mostly in the unprotected \"Full Access Mode.\" The model overwrites a temporary directory variable and carries out destructive actions on its own instead of asking for confirmation.",
+      "source": "The Decoder",
+      "published": "2026-07-17T19:35:52+00:00",
+      "link": "https://the-decoder.com/gpt-5-6-is-deleting-user-files-when-given-full-access-and-openai-says-it-shouldnt-but-did/"
+    },
+    {
+      "title": "TikTok is testing an AI likeness detection tool",
+      "summary": "TikTok is starting to test an opt-in tool that scans for AI likenesses and lets creators report them to the company, as spotted by social media consultant Matt Navarra.",
+      "source": "The Verge",
+      "published": "2026-07-17T19:34:30+00:00",
+      "link": "https://www.theverge.com/tech/967486/tiktok-ai-likeness-detection-tool"
+    },
+    {
+      "title": "Just like Deepseek, China's Kimi K3 is forcing Western AI labs to question their compute advantage",
+      "summary": "Moonshot AI has released Kimi K3, a model that by early assessments matches Anthropic's Opus 4.8, built by a team of just 300 people. Even OpenAI strategist Dean W.",
+      "source": "The Decoder",
+      "published": "2026-07-17T19:16:07+00:00",
+      "link": "https://the-decoder.com/just-like-deepseek-chinas-kimi-k3-is-forcing-western-ai-labs-to-question-their-compute-advantage/"
+    },
     {
       "title": "How Apple’s big lawsuit could disrupt OpenAI’s IPO plans",
       "summary": "Apple filed a trade secrets lawsuit against OpenAI last Friday, and it’s not messing around. The complaint alleges a pattern of misconduct reaching all the way up to OpenAI’s chief hardware officer and claims more than 400 former Apple employees now work at the company.",
@@ -14,6 +56,13 @@ const FEED_DATA = {
       "source": "The Verge",
       "published": "2026-07-17T17:41:32+00:00",
       "link": "https://www.theverge.com/podcast/967244/apple-openai-lawsuit-vergecast"
+    },
+    {
+      "title": "Bunkerhill raises $55M to scale agentic AI across health systems",
+      "summary": "Bunkerhill Health has raised $55 million to scale its agentic AI platform, Carebricks. The closing of the company’s Series B round, announced today, folds in continued participation from Sequoia Capital, Felicis, Optum Ventures, and Y Combinator.",
+      "source": "AI News",
+      "published": "2026-07-17T16:00:30+00:00",
+      "link": "https://www.artificialintelligence-news.com/news/bunkerhill-raises-55m-scale-agentic-ai-health-systems/"
     },
     {
       "title": "Patreon stops asking AI bots not to scrape — and starts blocking them",
@@ -1351,55 +1400,6 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-07-11T08:01:09+00:00",
       "link": "https://the-decoder.com/openai-admits-it-didnt-get-everything-quite-right-with-chatgpt-work-launch-and-scrambles-to-fix-ux-and-costs/"
-    },
-    {
-      "title": "Apple sues OpenAI for allegedly running a \"coordinated campaign\" to steal trade secrets through poached employees",
-      "summary": "Apple is suing OpenAI over systematic employee poaching and the alleged theft of trade secrets tied to unreleased products. According to the complaint, more than 400 ex-Apple employees now work at OpenAI, including former iPhone design chief Tang Tan.",
-      "source": "The Decoder",
-      "published": "2026-07-11T06:56:20+00:00",
-      "link": "https://the-decoder.com/apple-sues-openai-for-allegedly-running-a-coordinated-campaign-to-steal-trade-secrets-through-poached-employees/"
-    },
-    {
-      "title": "OpenAI’s Head of Safety Is Leaving the Company",
-      "summary": "Johannes Heidecke’s departure comes as OpenAI tries to further integrate its research and safety teams.",
-      "source": "Wired",
-      "published": "2026-07-11T01:07:26+00:00",
-      "link": "https://www.wired.com/story/openai-head-of-safety-leaving/"
-    },
-    {
-      "title": "Meta pulls new AI image feature after days of backlash",
-      "summary": "Article URL: https://www.bbc.com/news/articles/c2dy6e8klw0o Comments URL: https://news.ycombinator.com/item?id=48867233 Points: 57 # Comments: 22",
-      "source": "Hacker News",
-      "published": "2026-07-11T00:40:36+00:00",
-      "link": "https://www.bbc.com/news/articles/c2dy6e8klw0o"
-    },
-    {
-      "title": "Meta removes controversial AI feature on Instagram after backlash",
-      "summary": "\"Our intent was to provide a useful creative tool and to give people control over whether their public content could be referenced in this way,\" the company said in a blog post. \"We've heard the feedback that this feature missed the mark, so it's no longer available.\"",
-      "source": "TechCrunch",
-      "published": "2026-07-10T23:55:07+00:00",
-      "link": "https://techcrunch.com/2026/07/10/meta-removes-controversial-ai-feature-on-instagram-after-backlash/"
-    },
-    {
-      "title": "Meta turns off the Instagram feature that let users make AI deepfakes of public accounts",
-      "summary": "Following significant backlash, Meta is turning off the feature it announced this week that let users generate AI images based on content from public Instagram accounts just by tagging them.",
-      "source": "The Verge",
-      "published": "2026-07-10T23:49:50+00:00",
-      "link": "https://www.theverge.com/tech/964416/meta-instagram-ai-muse-image-deepfakes"
-    },
-    {
-      "title": "AI Can't Recreate the Thrust Game (But It Can Help You Understand It)",
-      "summary": "Article URL: https://www.jamesdrandall.com/posts/thrust_ai_powered_software_archaeology/ Comments URL: https://news.ycombinator.com/item?id=48865903 Points: 52 # Comments: 36",
-      "source": "Hacker News",
-      "published": "2026-07-10T22:04:45+00:00",
-      "link": "https://www.jamesdrandall.com/posts/thrust_ai_powered_software_archaeology/"
-    },
-    {
-      "title": "Apple sues OpenAI for allegedly stealing hardware secrets",
-      "summary": "Apple has sued OpenAI, alleging that engineers stole Apple secrets to advance the AI startup's hardware plans.",
-      "source": "The Verge",
-      "published": "2026-07-10T21:36:51+00:00",
-      "link": "https://www.theverge.com/tech/964350/apple-openai-lawsuit-trade-secrets"
     }
   ]
 };
