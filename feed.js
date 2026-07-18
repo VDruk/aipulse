@@ -1,6 +1,34 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-07-18T07:00:31.413903+00:00",
+  "lastUpdated": "2026-07-18T10:06:15.385217+00:00",
   "items": [
+    {
+      "title": "How Google’s New Gemini Rates Work and How to Track Your Usage",
+      "summary": "Now that Google has changed how its usage quotas are tallied, you might not get as many AI responses as you did before.",
+      "source": "Wired",
+      "published": "2026-07-18T10:00:00+00:00",
+      "link": "https://www.wired.com/story/how-googles-new-gemini-rates-work-and-how-to-track-your-usage/"
+    },
+    {
+      "title": "Prompt Injection Attacks Are Thwarting AI Hacking Agents",
+      "summary": "“Context bombing” tricks malicious AI agents into shutting down before they can do harm.",
+      "source": "Wired",
+      "published": "2026-07-18T09:00:00+00:00",
+      "link": "https://www.wired.com/story/prompt-injection-attacks-are-thwarting-ai-hacking-agents/"
+    },
+    {
+      "title": "The Pentagon's new AI playbook treats slow adoption as a bigger risk than \"imperfect alignment\"",
+      "summary": "The US Department of the Navy has signed a strategy to \"weaponize\" data and AI and build an \"AI-first\" fleet. Large language models would run directly on warships, and an AI war council would prioritize mission scenarios.",
+      "source": "The Decoder",
+      "published": "2026-07-18T08:10:40+00:00",
+      "link": "https://the-decoder.com/the-pentagons-new-ai-playbook-treats-slow-adoption-as-a-bigger-risk-than-imperfect-alignment/"
+    },
+    {
+      "title": "Anthropic slashes Claude Fable 5 limits in Max and Team Premium and pushes Pro users toward API pricing",
+      "summary": "Anthropic will include Claude Fable 5 in Max and Team Premium plans starting July 20, but at just 50 percent of regular limits, which themselves drop by a third that same day. Pro users get a one-time $100 credit, then pay API rates.",
+      "source": "The Decoder",
+      "published": "2026-07-18T07:17:11+00:00",
+      "link": "https://the-decoder.com/anthropic-slashes-claude-fable-5-limits-in-max-and-team-premium-and-pushes-pro-users-toward-api-pricing/"
+    },
     {
       "title": "Neil Rimer thinks the AI money is coming back out",
       "summary": "Neil Rimer, the venture capitalist who co-founded Index Ventures, predicts the historic wealth AI is generating in Silicon Valley will have to be redistributed, voluntarily or involuntarily.",
@@ -1372,34 +1400,6 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-07-12T08:25:25+00:00",
       "link": "https://the-decoder.com/grades-dropped-from-96-to-48-percent-when-a-brown-professor-made-students-take-the-exam-without-ai/"
-    },
-    {
-      "title": "AI agents win at Slay the Spire 2 after researchers replace growing chat logs with structured memory",
-      "summary": "The AgenticSTS project replaces the ever-growing chat log of AI agents with five separate memory layers. Tested on the card game Slay the Spire 2, the prompt stays at around 5,000 tokens instead of ballooning past 500,000.",
-      "source": "The Decoder",
-      "published": "2026-07-12T07:45:35+00:00",
-      "link": "https://the-decoder.com/ai-agents-win-at-slay-the-spire-2-after-researchers-replace-growing-chat-logs-with-structured-memory/"
-    },
-    {
-      "title": "Mesh LLM: distributed AI computing on iroh",
-      "summary": "Article URL: https://www.iroh.computer/blog/mesh-llm Comments URL: https://news.ycombinator.com/item?id=48876505 Points: 345 # Comments: 94",
-      "source": "Hacker News",
-      "published": "2026-07-11T22:38:57+00:00",
-      "link": "https://www.iroh.computer/blog/mesh-llm"
-    },
-    {
-      "title": "Stop Telling Me to Ask an LLM",
-      "summary": "Article URL: https://blog.yaelwrites.com/stop-telling-me-to-ask-an-llm/ Comments URL: https://news.ycombinator.com/item?id=48876441 Points: 243 # Comments: 139",
-      "source": "Hacker News",
-      "published": "2026-07-11T22:28:48+00:00",
-      "link": "https://blog.yaelwrites.com/stop-telling-me-to-ask-an-llm/"
-    },
-    {
-      "title": "AI 2040 and the cult of intelligence",
-      "summary": "Article URL: https://geohot.github.io//blog/jekyll/update/2026/07/11/ai-2040.html Comments URL: https://news.ycombinator.com/item?id=48874200 Points: 230 # Comments: 264",
-      "source": "Hacker News",
-      "published": "2026-07-11T18:04:01+00:00",
-      "link": "https://geohot.github.io//blog/jekyll/update/2026/07/11/ai-2040.html"
     }
   ]
 };
