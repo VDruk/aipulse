@@ -1,6 +1,20 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-07-18T17:52:07.363224+00:00",
+  "lastUpdated": "2026-07-18T21:42:09.656883+00:00",
   "items": [
+    {
+      "title": "Dave Eggers told OpenAI staff that ChatGPT was ‘silencing an entire generation’",
+      "summary": "Last year, Sam Altman invited author Dave Eggers to give a talk to around 200 OpenAI staffers. The man has written countless novels, screenplays, pieces of journalism, started McSweeney's, and founded multiple schools and nonprofits that support writers and the arts more broadly.",
+      "source": "The Verge",
+      "published": "2026-07-18T20:54:42+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/967630/dave-eggers-openai-chatgpt-silencing-an-entire-generation"
+    },
+    {
+      "title": "Kimi: Threat or menace?",
+      "summary": "Chinese company Moonshot AI released a new version of its Kimi model this week, prompting concern about \"full AI communism.\"",
+      "source": "TechCrunch",
+      "published": "2026-07-18T18:51:07+00:00",
+      "link": "https://techcrunch.com/2026/07/18/kimi-threat-or-menace/"
+    },
     {
       "title": "GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
       "summary": "Article URL: https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/ Comments URL: https://news.ycombinator.com/item?id=48957779 Points: 323 # Comments: 189",
@@ -1386,20 +1400,6 @@ const FEED_DATA = {
       "source": "The Verge",
       "published": "2026-07-12T16:27:06+00:00",
       "link": "https://www.theverge.com/tech/964519/apple-silicon-self-driving-car-ai-m7-ultra"
-    },
-    {
-      "title": "Claude Code now has a built-in browser that lets the AI read, click, and type on external websites",
-      "summary": "Claude Code now has a built-in browser that lets the AI open, read, and interact with web pages directly inside the development environment. Write actions on external sites are screened by classifiers, and purchases or account creations need user approval.",
-      "source": "The Decoder",
-      "published": "2026-07-12T15:02:06+00:00",
-      "link": "https://the-decoder.com/claude-code-now-has-a-built-in-browser-that-lets-the-ai-read-click-and-type-on-external-websites/"
-    },
-    {
-      "title": "AI boosts research careers but narrow the span of ideas explored: study",
-      "summary": "Article URL: https://spectrum.ieee.org/ai-science-research-flattens-discovery Comments URL: https://news.ycombinator.com/item?id=48881043 Points: 154 # Comments: 106",
-      "source": "Hacker News",
-      "published": "2026-07-12T13:26:13+00:00",
-      "link": "https://spectrum.ieee.org/ai-science-research-flattens-discovery"
     }
   ]
 };
