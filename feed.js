@@ -1,6 +1,41 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-07-17T21:42:31.284270+00:00",
+  "lastUpdated": "2026-07-18T03:53:07.931272+00:00",
   "items": [
+    {
+      "title": "A grumpy screed about AI in software engineering",
+      "summary": "Article URL: https://sam.sutch.net/posts/a-grumpy-ai-screed Comments URL: https://news.ycombinator.com/item?id=48953924 Points: 50 # Comments: 51",
+      "source": "Hacker News",
+      "published": "2026-07-18T00:40:08+00:00",
+      "link": "https://sam.sutch.net/posts/a-grumpy-ai-screed"
+    },
+    {
+      "title": "Vertu wants executives to pay $6,880 for an AI agent — here’s how it actually performs",
+      "summary": "From AI workflows to battery life and security, here's what it's really like to live with Vertu's luxury foldable every day.",
+      "source": "TechCrunch",
+      "published": "2026-07-17T22:55:09+00:00",
+      "link": "https://techcrunch.com/2026/07/17/vertu-wants-executives-to-pay-6880-for-an-ai-agent-heres-how-it-actually-performs/"
+    },
+    {
+      "title": "Kaiser nurses say AI, workplace surveillance are making their jobs, care worse",
+      "summary": "Article URL: https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse/ Comments URL: https://news.ycombinator.com/item?id=48952880 Points: 367 # Comments: 243",
+      "source": "Hacker News",
+      "published": "2026-07-17T22:26:30+00:00",
+      "link": "https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse/"
+    },
+    {
+      "title": "Databricks hits $188B valuation, extending its run as AI’s favorite second act",
+      "summary": "Databricks has remade its image into an AI company and has published research on the cost savings of open weight AI models for coding.",
+      "source": "TechCrunch",
+      "published": "2026-07-17T22:12:56+00:00",
+      "link": "https://techcrunch.com/2026/07/17/databricks-hits-188b-valuation-extending-its-run-as-ais-favorite-second-act/"
+    },
+    {
+      "title": "Everybody's Weirded Out by AI–Except the People Who Foist It on Us",
+      "summary": "Article URL: https://newrepublic.com/article/213004/everybody-weirded-ai-except-people-foist-us Comments URL: https://news.ycombinator.com/item?id=48952445 Points: 62 # Comments: 61",
+      "source": "Hacker News",
+      "published": "2026-07-17T21:24:07+00:00",
+      "link": "https://newrepublic.com/article/213004/everybody-weirded-ai-except-people-foist-us"
+    },
     {
       "title": "Zuckerberg's plan to sell excess AI compute could finds its first big customer in Anthropic",
       "summary": "Meta is reportedly in talks with Anthropic to rent out compute capacity from its data centers. The article Zuckerberg's plan to sell excess AI compute could finds its first big customer in Anthropic appeared first on The Decoder.",
@@ -72,11 +107,32 @@ const FEED_DATA = {
       "link": "https://techcrunch.com/2026/07/17/patreon-stops-asking-ai-bots-not-to-scrape-and-starts-blocking-them/"
     },
     {
+      "title": "The state of open source AI",
+      "summary": "Article URL: https://stateofopensource.ai/ Comments URL: https://news.ycombinator.com/item?id=48947825 Points: 393 # Comments: 288",
+      "source": "Hacker News",
+      "published": "2026-07-17T14:31:10+00:00",
+      "link": "https://stateofopensource.ai/"
+    },
+    {
+      "title": "AI Meets Cryptography 2: What AI Found in OpenVM's ZkVM",
+      "summary": "Article URL: https://blog.zksecurity.xyz/posts/openvm-bugs/ Comments URL: https://news.ycombinator.com/item?id=48947714 Points: 86 # Comments: 6",
+      "source": "Hacker News",
+      "published": "2026-07-17T14:21:35+00:00",
+      "link": "https://blog.zksecurity.xyz/posts/openvm-bugs/"
+    },
+    {
       "title": "Apple’s lawsuit couldn’t come at a worse time for OpenAI",
       "summary": "Apple filed a trade secrets lawsuit against OpenAI last Friday, and it’s not messing around. The complaint alleges a pattern of misconduct reaching all the way up to OpenAI’s chief hardware officer and claims more than 400 former Apple employees now work at the company.",
       "source": "TechCrunch",
       "published": "2026-07-17T14:00:00+00:00",
       "link": "https://techcrunch.com/podcast/apples-lawsuit-couldnt-come-at-a-worse-time-for-openai/"
+    },
+    {
+      "title": "VulnHunter: Capital One's agentic AI code security tool",
+      "summary": "Article URL: https://www.capitalone.com/tech/open-source/announcing-vulnhunter/ Comments URL: https://news.ycombinator.com/item?id=48946692 Points: 63 # Comments: 29",
+      "source": "Hacker News",
+      "published": "2026-07-17T12:42:12+00:00",
+      "link": "https://www.capitalone.com/tech/open-source/announcing-vulnhunter/"
     },
     {
       "title": "The Download: perimenopause misinformation and China’s latest AI leap",
@@ -129,7 +185,7 @@ const FEED_DATA = {
     },
     {
       "title": "LM Studio Bionic: the AI agent for open models",
-      "summary": "Article URL: https://lmstudio.ai/blog/introducing-lm-studio-bionic Comments URL: https://news.ycombinator.com/item?id=48939662 Points: 293 # Comments: 106",
+      "summary": "Article URL: https://lmstudio.ai/blog/introducing-lm-studio-bionic Comments URL: https://news.ycombinator.com/item?id=48939662 Points: 319 # Comments: 126",
       "source": "Hacker News",
       "published": "2026-07-16T20:18:15+00:00",
       "link": "https://lmstudio.ai/blog/introducing-lm-studio-bionic"
@@ -143,7 +199,7 @@ const FEED_DATA = {
     },
     {
       "title": "$100 AI Music Video: Claude Fable 5 vs. GPT-5.6 Sol",
-      "summary": "Article URL: https://www.tryai.dev/blog/ai-music-video-arena-claude-vs-gpt-5.6 Comments URL: https://news.ycombinator.com/item?id=48939524 Points: 328 # Comments: 448",
+      "summary": "Article URL: https://www.tryai.dev/blog/ai-music-video-arena-claude-vs-gpt-5.6 Comments URL: https://news.ycombinator.com/item?id=48939524 Points: 385 # Comments: 520",
       "source": "Hacker News",
       "published": "2026-07-16T20:03:23+00:00",
       "link": "https://www.tryai.dev/blog/ai-music-video-arena-claude-vs-gpt-5.6"
@@ -199,7 +255,7 @@ const FEED_DATA = {
     },
     {
       "title": "German AI consortium releases Soofi S, an open 30B model that tops benchmarks",
-      "summary": "Article URL: https://the-decoder.com/german-ai-consortium-releases-soofi-s-an-open-30b-model-that-tops-benchmarks-in-both-english-and-german/ Comments URL: https://news.ycombinator.com/item?id=48937756 Points: 142 # Comments: 31",
+      "summary": "Article URL: https://the-decoder.com/german-ai-consortium-releases-soofi-s-an-open-30b-model-that-tops-benchmarks-in-both-english-and-german/ Comments URL: https://news.ycombinator.com/item?id=48937756 Points: 142 # Comments: 34",
       "source": "Hacker News",
       "published": "2026-07-16T17:44:46+00:00",
       "link": "https://the-decoder.com/german-ai-consortium-releases-soofi-s-an-open-30b-model-that-tops-benchmarks-in-both-english-and-german/"
@@ -227,7 +283,7 @@ const FEED_DATA = {
     },
     {
       "title": "Detecting LLM-Generated Texts with “Classical” Machine Learning",
-      "summary": "Article URL: https://blog.lyc8503.net/en/post/llm-classifier/ Comments URL: https://news.ycombinator.com/item?id=48936880 Points: 222 # Comments: 166",
+      "summary": "Article URL: https://blog.lyc8503.net/en/post/llm-classifier/ Comments URL: https://news.ycombinator.com/item?id=48936880 Points: 237 # Comments: 173",
       "source": "Hacker News",
       "published": "2026-07-16T16:41:37+00:00",
       "link": "https://blog.lyc8503.net/en/post/llm-classifier/"
@@ -283,7 +339,7 @@ const FEED_DATA = {
     },
     {
       "title": "How to Train a Gen AI Kick Drum Model on Your Old Linux Desktop with 6GB VRAM",
-      "summary": "Article URL: https://www.zhinit.dev/blog/training-a-kick-drum-diffusion-model Comments URL: https://news.ycombinator.com/item?id=48935687 Points: 151 # Comments: 73",
+      "summary": "Article URL: https://www.zhinit.dev/blog/training-a-kick-drum-diffusion-model Comments URL: https://news.ycombinator.com/item?id=48935687 Points: 154 # Comments: 79",
       "source": "Hacker News",
       "published": "2026-07-16T15:13:00+00:00",
       "link": "https://www.zhinit.dev/blog/training-a-kick-drum-diffusion-model"
@@ -297,7 +353,7 @@ const FEED_DATA = {
     },
     {
       "title": "Kimi K3: Open Frontier Intelligence",
-      "summary": "https://www.kimi.com/enKimi K3 Intelligence, Performance & Price Analysis: https://artificialanalysis.ai/models/kimi-k3 Comments URL: https://news.ycombinator.com/item?id=48935342 Points: 1843 # Comments: 1093",
+      "summary": "https://www.kimi.com/enKimi K3 Intelligence, Performance & Price Analysis: https://artificialanalysis.ai/models/kimi-k3 Comments URL: https://news.ycombinator.com/item?id=48935342 Points: 2003 # Comments: 1165",
       "source": "Hacker News",
       "published": "2026-07-16T14:46:05+00:00",
       "link": "https://www.kimi.com/blog/kimi-k3"
@@ -339,7 +395,7 @@ const FEED_DATA = {
     },
     {
       "title": "Generative AI Is an Engineering Disaster",
-      "summary": "Article URL: https://www.theatlantic.com/technology/2026/07/generative-ai-engineering-disaster/687901/ Comments URL: https://news.ycombinator.com/item?id=48934046 Points: 106 # Comments: 78",
+      "summary": "Article URL: https://www.theatlantic.com/technology/2026/07/generative-ai-engineering-disaster/687901/ Comments URL: https://news.ycombinator.com/item?id=48934046 Points: 108 # Comments: 86",
       "source": "Hacker News",
       "published": "2026-07-16T13:12:24+00:00",
       "link": "https://www.theatlantic.com/technology/2026/07/generative-ai-engineering-disaster/687901/"
@@ -367,14 +423,14 @@ const FEED_DATA = {
     },
     {
       "title": "The LLM Critics Are Right. I Use LLMs Anyway",
-      "summary": "Article URL: https://www.theocharis.dev/blog/llm-critics-are-right-i-use-llms-anyway/ Comments URL: https://news.ycombinator.com/item?id=48933310 Points: 266 # Comments: 276",
+      "summary": "Article URL: https://www.theocharis.dev/blog/llm-critics-are-right-i-use-llms-anyway/ Comments URL: https://news.ycombinator.com/item?id=48933310 Points: 288 # Comments: 290",
       "source": "Hacker News",
       "published": "2026-07-16T11:59:01+00:00",
       "link": "https://www.theocharis.dev/blog/llm-critics-are-right-i-use-llms-anyway/"
     },
     {
       "title": "Linus Torvalds on LLM usage in kernel development",
-      "summary": "Article URL: https://lore.kernel.org/linux-media/CAHk-=wi4zC+Ze8e+p3tMv8TtG_80KzsZ1syL9anBtmEh5Z40vg@mail.gmail.com/ Comments URL: https://news.ycombinator.com/item?id=48932522 Points: 53 # Comments: 10",
+      "summary": "Article URL: https://lore.kernel.org/linux-media/CAHk-=wi4zC+Ze8e+p3tMv8TtG_80KzsZ1syL9anBtmEh5Z40vg@mail.gmail.com/ Comments URL: https://news.ycombinator.com/item?id=48932522 Points: 59 # Comments: 12",
       "source": "Hacker News",
       "published": "2026-07-16T10:11:31+00:00",
       "link": "https://lore.kernel.org/linux-media/CAHk-=wi4zC+Ze8e+p3tMv8TtG_80KzsZ1syL9anBtmEh5Z40vg@mail.gmail.com/"
@@ -444,7 +500,7 @@ const FEED_DATA = {
     },
     {
       "title": "LLM Networking with MikroTik",
-      "summary": "Article URL: https://blog.greg.technology/2026/07/14/llm-networking-with-mikrotik.html Comments URL: https://news.ycombinator.com/item?id=48927915 Points: 102 # Comments: 57",
+      "summary": "Article URL: https://blog.greg.technology/2026/07/14/llm-networking-with-mikrotik.html Comments URL: https://news.ycombinator.com/item?id=48927915 Points: 103 # Comments: 57",
       "source": "Hacker News",
       "published": "2026-07-15T22:23:27+00:00",
       "link": "https://blog.greg.technology/2026/07/14/llm-networking-with-mikrotik.html"
@@ -472,7 +528,7 @@ const FEED_DATA = {
     },
     {
       "title": "We don't use AI in any of our design or production processes",
-      "summary": "Article URL: https://mass-driver.com/article/from-human-hands Comments URL: https://news.ycombinator.com/item?id=48927373 Points: 107 # Comments: 113",
+      "summary": "Article URL: https://mass-driver.com/article/from-human-hands Comments URL: https://news.ycombinator.com/item?id=48927373 Points: 109 # Comments: 112",
       "source": "Hacker News",
       "published": "2026-07-15T21:36:49+00:00",
       "link": "https://mass-driver.com/article/from-human-hands"
@@ -1344,62 +1400,6 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-07-11T17:38:35+00:00",
       "link": "https://the-decoder.com/openais-gpt-5-6-sol-ultra-reportedly-solves-a-50-year-old-math-problem-in-under-an-hour/"
-    },
-    {
-      "title": "Reverse centaurs are the answer to the AI paradox (2025)",
-      "summary": "Article URL: https://pluralistic.net/2025/09/11/vulgar-thatcherism/#there-is-an-alternative Comments URL: https://news.ycombinator.com/item?id=48873855 Points: 112 # Comments: 71",
-      "source": "Hacker News",
-      "published": "2026-07-11T17:23:52+00:00",
-      "link": "https://pluralistic.net/2025/09/11/vulgar-thatcherism/#there-is-an-alternative"
-    },
-    {
-      "title": "Terrorist groups are using every major AI chatbot for attack planning and weapons development",
-      "summary": "A Cambridge study found that Boko Haram uses AI chatbots like ChatGPT, Claude, and Gemini to plan attacks, build explosives, and maintain weapons. ISIS operatives have been training the group's commanders on how to bypass safety filters since 2023.",
-      "source": "The Decoder",
-      "published": "2026-07-11T17:04:28+00:00",
-      "link": "https://the-decoder.com/terrorist-groups-are-using-every-major-ai-chatbot-for-attack-planning-and-weapons-development/"
-    },
-    {
-      "title": "OpenAI bets on families as ChatGPT goes deeper into households",
-      "summary": "ChatGPT is hiring a dedicated product manager to build experiences for families, caregivers, and older adults, according to a job posting.",
-      "source": "TechCrunch",
-      "published": "2026-07-11T14:13:00+00:00",
-      "link": "https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/"
-    },
-    {
-      "title": "Ghost Font: A font that humans can read but AI cannot",
-      "summary": "Article URL: https://www.mixfont.com/ghost-font Comments URL: https://news.ycombinator.com/item?id=48870381 Points: 237 # Comments: 173",
-      "source": "Hacker News",
-      "published": "2026-07-11T09:36:53+00:00",
-      "link": "https://www.mixfont.com/ghost-font"
-    },
-    {
-      "title": "Microsoft latest report shows 25% emissions raised due to AI data centers",
-      "summary": "Article URL: https://www.windowscentral.com/microsoft/dropping-greenwashing-credits-and-expanding-ai-datacenters-caused-microsofts-25-percent-emissions-jump Comments URL: https://news.ycombinator.com/item?id=48870229 Points: 55 # Comments: 22",
-      "source": "Hacker News",
-      "published": "2026-07-11T09:10:45+00:00",
-      "link": "https://www.windowscentral.com/microsoft/dropping-greenwashing-credits-and-expanding-ai-datacenters-caused-microsofts-25-percent-emissions-jump"
-    },
-    {
-      "title": "China's Orca world model matches specialized robotics systems without ever seeing a single action label",
-      "summary": "The Beijing Academy of Artificial Intelligence has released Orca, a world model that predicts abstract world states instead of tokens or pixels.",
-      "source": "The Decoder",
-      "published": "2026-07-11T09:03:26+00:00",
-      "link": "https://the-decoder.com/chinas-orca-world-model-matches-specialized-robotics-systems-without-ever-seeing-a-single-action-label/"
-    },
-    {
-      "title": "Meta's Muse Spark 1.1 outperforms GLM-5.2 in coding and costs slightly less",
-      "summary": "Meta's Muse Spark 1.1 scored 51 on the Artificial Analysis Intelligence Index, up eight points in three months. In coding, it edges past GLM-5.2 with a score of 71.3 at a lower cost of $0.26 per task.",
-      "source": "The Decoder",
-      "published": "2026-07-11T08:28:12+00:00",
-      "link": "https://the-decoder.com/metas-muse-spark-1-1-outperforms-glm-5-2-in-coding-and-costs-slightly-less/"
-    },
-    {
-      "title": "OpenAI admits it \"didn't get everything quite right\" with ChatGPT Work launch and scrambles to fix UX and costs",
-      "summary": "Following the launch of ChatGPT Work and GPT-5.6 Sol, OpenAI has acknowledged significant issues: excessive compute usage, a confusing transition to the desktop interface for chats and projects, an unclear distinction between Codex and ChatGPT Work, and regressions in existing...",
-      "source": "The Decoder",
-      "published": "2026-07-11T08:01:09+00:00",
-      "link": "https://the-decoder.com/openai-admits-it-didnt-get-everything-quite-right-with-chatgpt-work-launch-and-scrambles-to-fix-ux-and-costs/"
     }
   ]
 };
