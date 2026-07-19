@@ -1,12 +1,26 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-07-19T17:53:02.945733+00:00",
+  "lastUpdated": "2026-07-19T21:42:43.962189+00:00",
   "items": [
+    {
+      "title": "Can an Apple lawsuit derail OpenAI’s hardware plans?",
+      "summary": "On the latest episode of Equity, we debate whether Apple's lawsuit will cast over OpenAi's much-discussed plans to get into hardware and go public.",
+      "source": "TechCrunch",
+      "published": "2026-07-19T19:24:45+00:00",
+      "link": "https://techcrunch.com/2026/07/19/can-an-apple-lawsuit-derail-openais-hardware-plans/"
+    },
     {
       "title": "I hate that I don’t hate this song made with Suno",
       "summary": "I would never go so far as to say there's no place for AI in music (I'm a fan of Holly Herndon, after all). But I generally find music made with generative AI to be offensively boring, especially the outputs of Suno.",
       "source": "The Verge",
       "published": "2026-07-19T17:35:54+00:00",
       "link": "https://www.theverge.com/entertainment/967678/1010benja-semiramis-dream-suno-ai-music"
+    },
+    {
+      "title": "Moonshot AI suspends new subscriptions due to Kimi K3 demand",
+      "summary": "Article URL: https://twitter.com/kimi_moonshot/status/2078855608565207130 Comments URL: https://news.ycombinator.com/item?id=48969291 Points: 153 # Comments: 50",
+      "source": "Hacker News",
+      "published": "2026-07-19T16:02:25+00:00",
+      "link": "https://twitter.com/kimi_moonshot/status/2078855608565207130"
     },
     {
       "title": "‘Odyssey’ director Christopher Nolan calls AI an obvious ‘Trojan horse’",
@@ -51,6 +65,13 @@ const FEED_DATA = {
       "link": "https://the-decoder.com/ai-text-detectors-struggle-when-language-models-mimic-an-authors-style/"
     },
     {
+      "title": "Perforce charges $500 for training training videos.. and it's AI narrated",
+      "summary": "Article URL: https://training.perforce.com/learn/courses/535/p4-helix-core-user-basic Comments URL: https://news.ycombinator.com/item?id=48965886 Points: 52 # Comments: 79",
+      "source": "Hacker News",
+      "published": "2026-07-19T08:00:24+00:00",
+      "link": "https://training.perforce.com/learn/courses/535/p4-helix-core-user-basic"
+    },
+    {
       "title": "AI chatbots reading X-rays can be dangerously confident even when they're wrong",
       "summary": "The RadLE 2.0 benchmark tests whether AI models in radiology can tell when they should leave a diagnosis to a human. Many models deliver wrong findings with full confidence, and human radiologists are still well ahead.",
       "source": "The Decoder",
@@ -59,14 +80,14 @@ const FEED_DATA = {
     },
     {
       "title": "AI Mania Is Eviscerating Global Decision-Making",
-      "summary": "Article URL: https://ludic.mataroa.blog/blog/ai-mania-is-eviscerating-global-decision-making/#fnref:3 Comments URL: https://news.ycombinator.com/item?id=48964185 Points: 345 # Comments: 185",
+      "summary": "Article URL: https://ludic.mataroa.blog/blog/ai-mania-is-eviscerating-global-decision-making/#fnref:3 Comments URL: https://news.ycombinator.com/item?id=48964185 Points: 368 # Comments: 212",
       "source": "Hacker News",
       "published": "2026-07-19T01:29:19+00:00",
       "link": "https://ludic.mataroa.blog/blog/ai-mania-is-eviscerating-global-decision-making/#fnref:3"
     },
     {
       "title": "NYC may require landlords and realtors to disclose the use of AI in listings",
-      "summary": "Article URL: https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties/ Comments URL: https://news.ycombinator.com/item?id=48962983 Points: 553 # Comments: 252",
+      "summary": "Article URL: https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties/ Comments URL: https://news.ycombinator.com/item?id=48962983 Points: 559 # Comments: 257",
       "source": "Hacker News",
       "published": "2026-07-18T22:13:39+00:00",
       "link": "https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties/"
@@ -94,28 +115,28 @@ const FEED_DATA = {
     },
     {
       "title": "GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
-      "summary": "Article URL: https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/ Comments URL: https://news.ycombinator.com/item?id=48957779 Points: 579 # Comments: 378",
+      "summary": "Article URL: https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/ Comments URL: https://news.ycombinator.com/item?id=48957779 Points: 581 # Comments: 380",
       "source": "Hacker News",
       "published": "2026-07-18T13:00:52+00:00",
       "link": "https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/"
     },
     {
       "title": "What AI did to stackoverflow in a graph",
-      "summary": "Article URL: https://data.stackexchange.com/stackoverflow/query/1953768#graph Comments URL: https://news.ycombinator.com/item?id=48956949 Points: 428 # Comments: 519",
+      "summary": "Article URL: https://data.stackexchange.com/stackoverflow/query/1953768#graph Comments URL: https://news.ycombinator.com/item?id=48956949 Points: 436 # Comments: 521",
       "source": "Hacker News",
       "published": "2026-07-18T11:12:46+00:00",
       "link": "https://data.stackexchange.com/stackoverflow/query/1953768#graph"
     },
     {
       "title": "Why do AI company logos look like buttholes? (2025)",
-      "summary": "Article URL: https://velvetshark.com/ai-company-logos-that-look-like-buttholes Comments URL: https://news.ycombinator.com/item?id=48956924 Points: 434 # Comments: 145",
+      "summary": "Article URL: https://velvetshark.com/ai-company-logos-that-look-like-buttholes Comments URL: https://news.ycombinator.com/item?id=48956924 Points: 438 # Comments: 145",
       "source": "Hacker News",
       "published": "2026-07-18T11:06:50+00:00",
       "link": "https://velvetshark.com/ai-company-logos-that-look-like-buttholes"
     },
     {
       "title": "Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal help?",
-      "summary": "Article URL: https://charlesazam.com/blog/fable-5-gpt-5-6-sol-goal/ Comments URL: https://news.ycombinator.com/item?id=48956879 Points: 247 # Comments: 122",
+      "summary": "Article URL: https://charlesazam.com/blog/fable-5-gpt-5-6-sol-goal/ Comments URL: https://news.ycombinator.com/item?id=48956879 Points: 249 # Comments: 123",
       "source": "Hacker News",
       "published": "2026-07-18T11:00:29+00:00",
       "link": "https://charlesazam.com/blog/fable-5-gpt-5-6-sol-goal/"
@@ -192,7 +213,7 @@ const FEED_DATA = {
     },
     {
       "title": "Kaiser nurses say AI, surveillance are making their jobs and patient care worse",
-      "summary": "Article URL: https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse/ Comments URL: https://news.ycombinator.com/item?id=48952880 Points: 556 # Comments: 374",
+      "summary": "Article URL: https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse/ Comments URL: https://news.ycombinator.com/item?id=48952880 Points: 557 # Comments: 376",
       "source": "Hacker News",
       "published": "2026-07-17T22:26:30+00:00",
       "link": "https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse/"
@@ -290,7 +311,7 @@ const FEED_DATA = {
     },
     {
       "title": "The state of open source AI",
-      "summary": "Article URL: https://stateofopensource.ai/ Comments URL: https://news.ycombinator.com/item?id=48947825 Points: 480 # Comments: 352",
+      "summary": "Article URL: https://stateofopensource.ai/ Comments URL: https://news.ycombinator.com/item?id=48947825 Points: 480 # Comments: 354",
       "source": "Hacker News",
       "published": "2026-07-17T14:31:10+00:00",
       "link": "https://stateofopensource.ai/"
@@ -367,7 +388,7 @@ const FEED_DATA = {
     },
     {
       "title": "LM Studio Bionic: the AI agent for open models",
-      "summary": "Article URL: https://lmstudio.ai/blog/introducing-lm-studio-bionic Comments URL: https://news.ycombinator.com/item?id=48939662 Points: 328 # Comments: 129",
+      "summary": "Article URL: https://lmstudio.ai/blog/introducing-lm-studio-bionic Comments URL: https://news.ycombinator.com/item?id=48939662 Points: 328 # Comments: 130",
       "source": "Hacker News",
       "published": "2026-07-16T20:18:15+00:00",
       "link": "https://lmstudio.ai/blog/introducing-lm-studio-bionic"
@@ -381,7 +402,7 @@ const FEED_DATA = {
     },
     {
       "title": "$100 AI Music Video: Claude Fable 5 vs. GPT-5.6 Sol",
-      "summary": "Article URL: https://www.tryai.dev/blog/ai-music-video-arena-claude-vs-gpt-5.6 Comments URL: https://news.ycombinator.com/item?id=48939524 Points: 396 # Comments: 530",
+      "summary": "Article URL: https://www.tryai.dev/blog/ai-music-video-arena-claude-vs-gpt-5.6 Comments URL: https://news.ycombinator.com/item?id=48939524 Points: 396 # Comments: 531",
       "source": "Hacker News",
       "published": "2026-07-16T20:03:23+00:00",
       "link": "https://www.tryai.dev/blog/ai-music-video-arena-claude-vs-gpt-5.6"
@@ -1379,27 +1400,6 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-07-13T15:34:59+00:00",
       "link": "https://techcrunch.com/2026/07/13/anthropic-starts-localizing-claude-pricing-for-india-its-biggest-market-after-the-us/"
-    },
-    {
-      "title": "Now, defenders are embracing the prompt injection, too",
-      "summary": "\"Context bombing\" tricks hacking agents into shutting down before they can do harm.",
-      "source": "Ars Technica",
-      "published": "2026-07-13T15:06:34+00:00",
-      "link": "https://arstechnica.com/security/2026/07/now-defenders-are-embracing-the-prompt-injection-too/"
-    },
-    {
-      "title": "Nadella calls out AI labs like OpenAI and Anthropic for banning distillation while training on everyone else's data",
-      "summary": "Microsoft CEO Satya Nadella is calling out OpenAI and Anthropic for what he calls a \"reverse information paradox.\" They train on public data under fair use but ban distillation of their own models, all while learning from customer interactions.",
-      "source": "The Decoder",
-      "published": "2026-07-13T14:28:50+00:00",
-      "link": "https://the-decoder.com/nadella-calls-out-ai-labs-like-openai-and-anthropic-for-banning-distillation-while-training-on-everyone-elses-data/"
-    },
-    {
-      "title": "Waze adds new AI-powered features and customization updates",
-      "summary": "Some of the new features are powered by Google's Gemini AI assistant, which reflects the tech giant's broader push to integrate Gemini across its products while also better positioning Waze to compete with rival services such as Apple Maps.",
-      "source": "TechCrunch",
-      "published": "2026-07-13T14:18:16+00:00",
-      "link": "https://techcrunch.com/2026/07/13/waze-adds-new-ai-powered-features-and-customization-updates/"
     }
   ]
 };
