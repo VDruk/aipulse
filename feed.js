@@ -1,6 +1,62 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-07-20T15:12:33.116444+00:00",
+  "lastUpdated": "2026-07-20T18:49:38.485536+00:00",
   "items": [
+    {
+      "title": "Google's \"Frozen v2\" chip reportedly bakes Gemini's architecture directly into silicon for efficiency gains",
+      "summary": "Google is developing \"Frozen v2,\" a server chip that bakes the Gemini architecture directly into hardware. According to internal sources, it could be 6 to 10 times more efficient than current TPUs.",
+      "source": "The Decoder",
+      "published": "2026-07-20T18:08:33+00:00",
+      "link": "https://the-decoder.com/googles-frozen-v2-chip-reportedly-bakes-geminis-architecture-directly-into-silicon-for-efficiency-gains/"
+    },
+    {
+      "title": "China’s AI models have Trump’s AI world at war with itself",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here.",
+      "source": "MIT Tech Review",
+      "published": "2026-07-20T18:00:00+00:00",
+      "link": "https://www.technologyreview.com/2026/07/20/1140675/chinas-ai-models-have-trumps-ai-world-at-war-with-itself/"
+    },
+    {
+      "title": "District 9 director Neill Blomkamp releases first short film made entirely with AI video generation",
+      "summary": "\"District 9\" director Neill Blomkamp has released \"Nightborne,\" a 13-minute sci-fi horror short generated entirely with the Seedance 2.0 video model.",
+      "source": "The Decoder",
+      "published": "2026-07-20T17:32:41+00:00",
+      "link": "https://the-decoder.com/district-9-director-neill-blomkamp-releases-first-short-film-made-entirely-with-ai-video-generation/"
+    },
+    {
+      "title": "Nvidia's grip on AI chips weakens as Microsoft turns to AMD and Anthropic may follow",
+      "summary": "Microsoft is expanding Azure's AI infrastructure with AMD's new Helios platform, which is set to challenge Nvidia's GPU systems in the second half of 2026. A public GitHub profile suggests Anthropic is also testing AMD hardware, putting more pressure on Nvidia's pricing power.",
+      "source": "The Decoder",
+      "published": "2026-07-20T16:44:30+00:00",
+      "link": "https://the-decoder.com/nvidias-grip-on-ai-chips-weakens-as-microsoft-turns-to-amd-and-anthropic-may-follow/"
+    },
+    {
+      "title": "Over 30% of new ArXiv submissions now read as AI-written",
+      "summary": "Article URL: https://unslop.run/blog/measuring-ai-writing-on-arxiv Comments URL: https://news.ycombinator.com/item?id=48981206 Points: 119 # Comments: 85",
+      "source": "Hacker News",
+      "published": "2026-07-20T16:36:36+00:00",
+      "link": "https://unslop.run/blog/measuring-ai-writing-on-arxiv"
+    },
+    {
+      "title": "Adobe’s ‘natural look’ camera app embraces generative AI",
+      "summary": "Adobe's experimental camera app has taken an unexpected turn. After Project Indigo was launched last year to provide a \"more natural (SLR-like) look\" for iPhone photography, the Indigo camera app is now being updated with a suite of generative AI tools.",
+      "source": "The Verge",
+      "published": "2026-07-20T16:00:00+00:00",
+      "link": "https://www.theverge.com/tech/967791/adobe-indigo-camera-app-ai-playground-update"
+    },
+    {
+      "title": "YouTube clarifies policies around AI slop and upsetting videos",
+      "summary": "YouTube has updated its monetization policies to more clearly define the kinds of AI-generated and low-quality videos that can’t earn ad revenue.",
+      "source": "TechCrunch",
+      "published": "2026-07-20T15:23:06+00:00",
+      "link": "https://techcrunch.com/2026/07/20/youtube-clarifies-policies-around-ai-slop-and-upsetting-videos/"
+    },
+    {
+      "title": "China's open-weights AI strategy is winning",
+      "summary": "Article URL: https://werd.io/american-ai-is-locked-down-and-proprietary-its-losing/ Comments URL: https://news.ycombinator.com/item?id=48979269 Points: 449 # Comments: 376",
+      "source": "Hacker News",
+      "published": "2026-07-20T14:21:47+00:00",
+      "link": "https://werd.io/american-ai-is-locked-down-and-proprietary-its-losing/"
+    },
     {
       "title": "Trump administration reportedly builds a slow-motion ban on Chinese AI models through sanctions and soft pressure",
       "summary": "The Trump administration is reportedly weighing measures targeting Chinese AI models, from adding Chinese labs to sanctions lists to holding U.S. companies liable for security failures.",
@@ -66,7 +122,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI advice made people less accurate but more confident – sudy",
-      "summary": "Article URL: https://thenextweb.com/news/ai-advice-suppresses-critical-thinking-wrong-answers-study Comments URL: https://news.ycombinator.com/item?id=48971738 Points: 350 # Comments: 202",
+      "summary": "Article URL: https://thenextweb.com/news/ai-advice-suppresses-critical-thinking-wrong-answers-study Comments URL: https://news.ycombinator.com/item?id=48971738 Points: 353 # Comments: 203",
       "source": "Hacker News",
       "published": "2026-07-19T21:18:10+00:00",
       "link": "https://thenextweb.com/news/ai-advice-suppresses-critical-thinking-wrong-answers-study"
@@ -87,7 +143,7 @@ const FEED_DATA = {
     },
     {
       "title": "Moonshot AI suspends new subscriptions due to Kimi K3 demand",
-      "summary": "Article URL: https://twitter.com/kimi_moonshot/status/2078855608565207130 Comments URL: https://news.ycombinator.com/item?id=48969291 Points: 274 # Comments: 109",
+      "summary": "Article URL: https://twitter.com/kimi_moonshot/status/2078855608565207130 Comments URL: https://news.ycombinator.com/item?id=48969291 Points: 277 # Comments: 109",
       "source": "Hacker News",
       "published": "2026-07-19T16:02:25+00:00",
       "link": "https://twitter.com/kimi_moonshot/status/2078855608565207130"
@@ -150,14 +206,14 @@ const FEED_DATA = {
     },
     {
       "title": "AI Mania Is Eviscerating Global Decision-Making",
-      "summary": "Article URL: https://ludic.mataroa.blog/blog/ai-mania-is-eviscerating-global-decision-making/#fnref:3 Comments URL: https://news.ycombinator.com/item?id=48964185 Points: 421 # Comments: 261",
+      "summary": "Article URL: https://ludic.mataroa.blog/blog/ai-mania-is-eviscerating-global-decision-making/#fnref:3 Comments URL: https://news.ycombinator.com/item?id=48964185 Points: 425 # Comments: 272",
       "source": "Hacker News",
       "published": "2026-07-19T01:29:19+00:00",
       "link": "https://ludic.mataroa.blog/blog/ai-mania-is-eviscerating-global-decision-making/#fnref:3"
     },
     {
       "title": "NYC may require landlords and realtors to disclose the use of AI in listings",
-      "summary": "Article URL: https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties/ Comments URL: https://news.ycombinator.com/item?id=48962983 Points: 583 # Comments: 262",
+      "summary": "Article URL: https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties/ Comments URL: https://news.ycombinator.com/item?id=48962983 Points: 587 # Comments: 264",
       "source": "Hacker News",
       "published": "2026-07-18T22:13:39+00:00",
       "link": "https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties/"
@@ -185,14 +241,14 @@ const FEED_DATA = {
     },
     {
       "title": "GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
-      "summary": "Article URL: https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/ Comments URL: https://news.ycombinator.com/item?id=48957779 Points: 595 # Comments: 390",
+      "summary": "Article URL: https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/ Comments URL: https://news.ycombinator.com/item?id=48957779 Points: 596 # Comments: 390",
       "source": "Hacker News",
       "published": "2026-07-18T13:00:52+00:00",
       "link": "https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/"
     },
     {
       "title": "What AI did to stackoverflow in a graph",
-      "summary": "Article URL: https://data.stackexchange.com/stackoverflow/query/1953768#graph Comments URL: https://news.ycombinator.com/item?id=48956949 Points: 472 # Comments: 560",
+      "summary": "Article URL: https://data.stackexchange.com/stackoverflow/query/1953768#graph Comments URL: https://news.ycombinator.com/item?id=48956949 Points: 474 # Comments: 562",
       "source": "Hacker News",
       "published": "2026-07-18T11:12:46+00:00",
       "link": "https://data.stackexchange.com/stackoverflow/query/1953768#graph"
@@ -283,7 +339,7 @@ const FEED_DATA = {
     },
     {
       "title": "Kaiser nurses say AI, surveillance are making their jobs and patient care worse",
-      "summary": "Article URL: https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse/ Comments URL: https://news.ycombinator.com/item?id=48952880 Points: 559 # Comments: 377",
+      "summary": "Article URL: https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse/ Comments URL: https://news.ycombinator.com/item?id=48952880 Points: 561 # Comments: 378",
       "source": "Hacker News",
       "published": "2026-07-17T22:26:30+00:00",
       "link": "https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse/"
@@ -297,7 +353,7 @@ const FEED_DATA = {
     },
     {
       "title": "Databricks hits $188B valuation, extending its run as AI’s favorite second act",
-      "summary": "Databricks has remade its image into an AI company and has published research on the cost savings of open weight AI models for coding.",
+      "summary": "Databricks has remade its image into an AI company and has published research on the cost savings of open-weight AI models for coding.",
       "source": "TechCrunch",
       "published": "2026-07-17T22:12:56+00:00",
       "link": "https://techcrunch.com/2026/07/17/databricks-hits-188b-valuation-extending-its-run-as-ais-favorite-second-act/"
@@ -381,7 +437,7 @@ const FEED_DATA = {
     },
     {
       "title": "The state of open source AI",
-      "summary": "Article URL: https://stateofopensource.ai/ Comments URL: https://news.ycombinator.com/item?id=48947825 Points: 484 # Comments: 356",
+      "summary": "Article URL: https://stateofopensource.ai/ Comments URL: https://news.ycombinator.com/item?id=48947825 Points: 484 # Comments: 357",
       "source": "Hacker News",
       "published": "2026-07-17T14:31:10+00:00",
       "link": "https://stateofopensource.ai/"
@@ -1344,62 +1400,6 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-07-14T00:00:00+00:00",
       "link": "https://techcrunch.com/2026/07/13/video-generation-startup-pixverse-raises-439m-valuation-soars-past-2b/"
-    },
-    {
-      "title": "Hermes agent maker Nous Research in talks for new funding at $1.5B valuation",
-      "summary": "The company is raising at least $75 million, led by Robot Ventures, with significant participation from USV and other prominent investors.",
-      "source": "TechCrunch",
-      "published": "2026-07-13T23:31:18+00:00",
-      "link": "https://techcrunch.com/2026/07/13/hermes-agent-maker-nous-research-in-talks-for-new-funding-at-1-5b-valuation/"
-    },
-    {
-      "title": "Siri AI Is Becoming Apple’s Everything Tool",
-      "summary": "Apple’s revamped Siri is more than a voice assistant; it’s now the backbone of the iPhone user experience. You can try it now through the iOS 27 public beta.",
-      "source": "Wired",
-      "published": "2026-07-13T21:39:09+00:00",
-      "link": "https://www.wired.com/story/siri-ai-is-now-apple-everything-tool/"
-    },
-    {
-      "title": "Satya Nadella has issued a shocking warning to companies using AI",
-      "summary": "Of all the debates raging about the potential downsides of AI, there is one worry causing the most hand-wringing among AI enthusiasts in Silicon Valley — that the giant AI labs that sell proprietary models are somehow acting like Trojan horses.",
-      "source": "TechCrunch",
-      "published": "2026-07-13T20:59:00+00:00",
-      "link": "https://techcrunch.com/2026/07/13/satya-nadella-has-issued-a-shocking-warning-to-companies-using-ai/"
-    },
-    {
-      "title": "Siri AI is already changing how I use my iPhone",
-      "summary": "iOS 27 escaped the developer world today with the launch of the first public beta. I've been testing the new operating system since early June, looking for quirks and seeing if it can live up to the hype Apple promised in the keynote.",
-      "source": "The Verge",
-      "published": "2026-07-13T20:43:20+00:00",
-      "link": "https://www.theverge.com/tech/964714/siri-ai-public-beta-preview-ios-27-hands-on"
-    },
-    {
-      "title": "Samsung Health app threatens data deletion if users opt out AI training",
-      "summary": "Article URL: https://neow.in/cWsyMTV3 Comments URL: https://news.ycombinator.com/item?id=48897991 Points: 349 # Comments: 103",
-      "source": "Hacker News",
-      "published": "2026-07-13T20:01:43+00:00",
-      "link": "https://neow.in/cWsyMTV3"
-    },
-    {
-      "title": "Samsung will delete your health data if you don't let them use it to train AI",
-      "summary": "Article URL: https://neow.in/cWsyMTV3 Comments URL: https://news.ycombinator.com/item?id=48897991 Points: 132 # Comments: 32",
-      "source": "Hacker News",
-      "published": "2026-07-13T20:01:43+00:00",
-      "link": "https://neow.in/cWsyMTV3"
-    },
-    {
-      "title": "AI is a bad tool",
-      "summary": "Article URL: https://bytecode.news/posts/2026/07/user-submission-ai-is-a-bad-tool Comments URL: https://news.ycombinator.com/item?id=48897861 Points: 80 # Comments: 98",
-      "source": "Hacker News",
-      "published": "2026-07-13T19:51:15+00:00",
-      "link": "https://bytecode.news/posts/2026/07/user-submission-ai-is-a-bad-tool"
-    },
-    {
-      "title": "The wildest allegations in Apple’s trade secrets lawsuit against OpenAI",
-      "summary": "Apple’s trade secrets lawsuit against OpenAI contains allegations that range from employees joking about unauthorized access to Apple’s systems to claims that job candidates were asked to bring Apple hardware to interviews. Here are the complaint’s most eye-catching claims.",
-      "source": "TechCrunch",
-      "published": "2026-07-13T18:22:10+00:00",
-      "link": "https://techcrunch.com/2026/07/13/the-wildest-allegations-in-apples-trade-secrets-lawsuit-against-openai/"
     }
   ]
 };
