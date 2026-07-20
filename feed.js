@@ -1,5 +1,5 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-07-19T21:42:43.962189+00:00",
+  "lastUpdated": "2026-07-20T04:34:01.110609+00:00",
   "items": [
     {
       "title": "Can an Apple lawsuit derail OpenAI’s hardware plans?",
