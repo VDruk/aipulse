@@ -1,6 +1,27 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-07-20T04:34:01.110609+00:00",
+  "lastUpdated": "2026-07-20T08:07:03.487310+00:00",
   "items": [
+    {
+      "title": "Moonshot pauses new Kimi K3 subscriptions after GPU demand maxes out in 48 hours",
+      "summary": "Moonshot has temporarily stopped selling new subscriptions for its Kimi K3 model as demand nearly maxed out its GPU capacity within 48 hours. The company plans to split its subscription model to spread computing power more evenly.",
+      "source": "The Decoder",
+      "published": "2026-07-20T07:55:09+00:00",
+      "link": "https://the-decoder.com/moonshot-pauses-new-kimi-k3-subscriptions-after-gpu-demand-maxes-out-in-48-hours/"
+    },
+    {
+      "title": "Ask HN: What are your favorite blogs not about AI?",
+      "summary": "Many of my favorite bloggers have stopped writing (or have drastically shifted topics). What are your favorite blogs?I miss the 2009 era of blogging about personal projects or super niche factoids.",
+      "source": "Hacker News",
+      "published": "2026-07-19T23:58:12+00:00",
+      "link": "https://news.ycombinator.com/item?id=48972858"
+    },
+    {
+      "title": "AI advice made people less accurate but more confident – sudy",
+      "summary": "Article URL: https://thenextweb.com/news/ai-advice-suppresses-critical-thinking-wrong-answers-study Comments URL: https://news.ycombinator.com/item?id=48971738 Points: 333 # Comments: 187",
+      "source": "Hacker News",
+      "published": "2026-07-19T21:18:10+00:00",
+      "link": "https://thenextweb.com/news/ai-advice-suppresses-critical-thinking-wrong-answers-study"
+    },
     {
       "title": "Can an Apple lawsuit derail OpenAI’s hardware plans?",
       "summary": "On the latest episode of Equity, we debate whether Apple's lawsuit will cast over OpenAi's much-discussed plans to get into hardware and go public.",
@@ -17,7 +38,7 @@ const FEED_DATA = {
     },
     {
       "title": "Moonshot AI suspends new subscriptions due to Kimi K3 demand",
-      "summary": "Article URL: https://twitter.com/kimi_moonshot/status/2078855608565207130 Comments URL: https://news.ycombinator.com/item?id=48969291 Points: 153 # Comments: 50",
+      "summary": "Article URL: https://twitter.com/kimi_moonshot/status/2078855608565207130 Comments URL: https://news.ycombinator.com/item?id=48969291 Points: 253 # Comments: 105",
       "source": "Hacker News",
       "published": "2026-07-19T16:02:25+00:00",
       "link": "https://twitter.com/kimi_moonshot/status/2078855608565207130"
@@ -66,7 +87,7 @@ const FEED_DATA = {
     },
     {
       "title": "Perforce charges $500 for training training videos.. and it's AI narrated",
-      "summary": "Article URL: https://training.perforce.com/learn/courses/535/p4-helix-core-user-basic Comments URL: https://news.ycombinator.com/item?id=48965886 Points: 52 # Comments: 79",
+      "summary": "Article URL: https://training.perforce.com/learn/courses/535/p4-helix-core-user-basic Comments URL: https://news.ycombinator.com/item?id=48965886 Points: 53 # Comments: 83",
       "source": "Hacker News",
       "published": "2026-07-19T08:00:24+00:00",
       "link": "https://training.perforce.com/learn/courses/535/p4-helix-core-user-basic"
@@ -80,14 +101,14 @@ const FEED_DATA = {
     },
     {
       "title": "AI Mania Is Eviscerating Global Decision-Making",
-      "summary": "Article URL: https://ludic.mataroa.blog/blog/ai-mania-is-eviscerating-global-decision-making/#fnref:3 Comments URL: https://news.ycombinator.com/item?id=48964185 Points: 368 # Comments: 212",
+      "summary": "Article URL: https://ludic.mataroa.blog/blog/ai-mania-is-eviscerating-global-decision-making/#fnref:3 Comments URL: https://news.ycombinator.com/item?id=48964185 Points: 398 # Comments: 251",
       "source": "Hacker News",
       "published": "2026-07-19T01:29:19+00:00",
       "link": "https://ludic.mataroa.blog/blog/ai-mania-is-eviscerating-global-decision-making/#fnref:3"
     },
     {
       "title": "NYC may require landlords and realtors to disclose the use of AI in listings",
-      "summary": "Article URL: https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties/ Comments URL: https://news.ycombinator.com/item?id=48962983 Points: 559 # Comments: 257",
+      "summary": "Article URL: https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties/ Comments URL: https://news.ycombinator.com/item?id=48962983 Points: 575 # Comments: 260",
       "source": "Hacker News",
       "published": "2026-07-18T22:13:39+00:00",
       "link": "https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties/"
@@ -115,28 +136,28 @@ const FEED_DATA = {
     },
     {
       "title": "GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
-      "summary": "Article URL: https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/ Comments URL: https://news.ycombinator.com/item?id=48957779 Points: 581 # Comments: 380",
+      "summary": "Article URL: https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/ Comments URL: https://news.ycombinator.com/item?id=48957779 Points: 589 # Comments: 386",
       "source": "Hacker News",
       "published": "2026-07-18T13:00:52+00:00",
       "link": "https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/"
     },
     {
       "title": "What AI did to stackoverflow in a graph",
-      "summary": "Article URL: https://data.stackexchange.com/stackoverflow/query/1953768#graph Comments URL: https://news.ycombinator.com/item?id=48956949 Points: 436 # Comments: 521",
+      "summary": "Article URL: https://data.stackexchange.com/stackoverflow/query/1953768#graph Comments URL: https://news.ycombinator.com/item?id=48956949 Points: 458 # Comments: 555",
       "source": "Hacker News",
       "published": "2026-07-18T11:12:46+00:00",
       "link": "https://data.stackexchange.com/stackoverflow/query/1953768#graph"
     },
     {
       "title": "Why do AI company logos look like buttholes? (2025)",
-      "summary": "Article URL: https://velvetshark.com/ai-company-logos-that-look-like-buttholes Comments URL: https://news.ycombinator.com/item?id=48956924 Points: 438 # Comments: 145",
+      "summary": "Article URL: https://velvetshark.com/ai-company-logos-that-look-like-buttholes Comments URL: https://news.ycombinator.com/item?id=48956924 Points: 447 # Comments: 146",
       "source": "Hacker News",
       "published": "2026-07-18T11:06:50+00:00",
       "link": "https://velvetshark.com/ai-company-logos-that-look-like-buttholes"
     },
     {
       "title": "Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal help?",
-      "summary": "Article URL: https://charlesazam.com/blog/fable-5-gpt-5-6-sol-goal/ Comments URL: https://news.ycombinator.com/item?id=48956879 Points: 249 # Comments: 123",
+      "summary": "Article URL: https://charlesazam.com/blog/fable-5-gpt-5-6-sol-goal/ Comments URL: https://news.ycombinator.com/item?id=48956879 Points: 255 # Comments: 125",
       "source": "Hacker News",
       "published": "2026-07-18T11:00:29+00:00",
       "link": "https://charlesazam.com/blog/fable-5-gpt-5-6-sol-goal/"
@@ -199,7 +220,7 @@ const FEED_DATA = {
     },
     {
       "title": "A grumpy screed about AI in software engineering",
-      "summary": "Article URL: https://sam.sutch.net/posts/a-grumpy-ai-screed Comments URL: https://news.ycombinator.com/item?id=48953924 Points: 60 # Comments: 80",
+      "summary": "Article URL: https://sam.sutch.net/posts/a-grumpy-ai-screed Comments URL: https://news.ycombinator.com/item?id=48953924 Points: 60 # Comments: 82",
       "source": "Hacker News",
       "published": "2026-07-18T00:40:08+00:00",
       "link": "https://sam.sutch.net/posts/a-grumpy-ai-screed"
@@ -213,7 +234,7 @@ const FEED_DATA = {
     },
     {
       "title": "Kaiser nurses say AI, surveillance are making their jobs and patient care worse",
-      "summary": "Article URL: https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse/ Comments URL: https://news.ycombinator.com/item?id=48952880 Points: 557 # Comments: 376",
+      "summary": "Article URL: https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse/ Comments URL: https://news.ycombinator.com/item?id=48952880 Points: 559 # Comments: 376",
       "source": "Hacker News",
       "published": "2026-07-17T22:26:30+00:00",
       "link": "https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse/"
@@ -234,7 +255,7 @@ const FEED_DATA = {
     },
     {
       "title": "Everybody's Weirded Out by AI–Except the People Who Foist It on Us",
-      "summary": "Article URL: https://newrepublic.com/article/213004/everybody-weirded-ai-except-people-foist-us Comments URL: https://news.ycombinator.com/item?id=48952445 Points: 67 # Comments: 68",
+      "summary": "Article URL: https://newrepublic.com/article/213004/everybody-weirded-ai-except-people-foist-us Comments URL: https://news.ycombinator.com/item?id=48952445 Points: 67 # Comments: 72",
       "source": "Hacker News",
       "published": "2026-07-17T21:24:07+00:00",
       "link": "https://newrepublic.com/article/213004/everybody-weirded-ai-except-people-foist-us"
@@ -311,14 +332,14 @@ const FEED_DATA = {
     },
     {
       "title": "The state of open source AI",
-      "summary": "Article URL: https://stateofopensource.ai/ Comments URL: https://news.ycombinator.com/item?id=48947825 Points: 480 # Comments: 354",
+      "summary": "Article URL: https://stateofopensource.ai/ Comments URL: https://news.ycombinator.com/item?id=48947825 Points: 483 # Comments: 355",
       "source": "Hacker News",
       "published": "2026-07-17T14:31:10+00:00",
       "link": "https://stateofopensource.ai/"
     },
     {
       "title": "AI Meets Cryptography 2: What AI Found in OpenVM's ZkVM",
-      "summary": "Article URL: https://blog.zksecurity.xyz/posts/openvm-bugs/ Comments URL: https://news.ycombinator.com/item?id=48947714 Points: 99 # Comments: 9",
+      "summary": "Article URL: https://blog.zksecurity.xyz/posts/openvm-bugs/ Comments URL: https://news.ycombinator.com/item?id=48947714 Points: 100 # Comments: 9",
       "source": "Hacker News",
       "published": "2026-07-17T14:21:35+00:00",
       "link": "https://blog.zksecurity.xyz/posts/openvm-bugs/"
@@ -332,7 +353,7 @@ const FEED_DATA = {
     },
     {
       "title": "VulnHunter: Capital One's agentic AI code security tool",
-      "summary": "Article URL: https://www.capitalone.com/tech/open-source/announcing-vulnhunter/ Comments URL: https://news.ycombinator.com/item?id=48946692 Points: 77 # Comments: 35",
+      "summary": "Article URL: https://www.capitalone.com/tech/open-source/announcing-vulnhunter/ Comments URL: https://news.ycombinator.com/item?id=48946692 Points: 78 # Comments: 35",
       "source": "Hacker News",
       "published": "2026-07-17T12:42:12+00:00",
       "link": "https://www.capitalone.com/tech/open-source/announcing-vulnhunter/"
@@ -388,7 +409,7 @@ const FEED_DATA = {
     },
     {
       "title": "LM Studio Bionic: the AI agent for open models",
-      "summary": "Article URL: https://lmstudio.ai/blog/introducing-lm-studio-bionic Comments URL: https://news.ycombinator.com/item?id=48939662 Points: 328 # Comments: 130",
+      "summary": "Article URL: https://lmstudio.ai/blog/introducing-lm-studio-bionic Comments URL: https://news.ycombinator.com/item?id=48939662 Points: 329 # Comments: 130",
       "source": "Hacker News",
       "published": "2026-07-16T20:18:15+00:00",
       "link": "https://lmstudio.ai/blog/introducing-lm-studio-bionic"
@@ -402,7 +423,7 @@ const FEED_DATA = {
     },
     {
       "title": "$100 AI Music Video: Claude Fable 5 vs. GPT-5.6 Sol",
-      "summary": "Article URL: https://www.tryai.dev/blog/ai-music-video-arena-claude-vs-gpt-5.6 Comments URL: https://news.ycombinator.com/item?id=48939524 Points: 396 # Comments: 531",
+      "summary": "Article URL: https://www.tryai.dev/blog/ai-music-video-arena-claude-vs-gpt-5.6 Comments URL: https://news.ycombinator.com/item?id=48939524 Points: 396 # Comments: 535",
       "source": "Hacker News",
       "published": "2026-07-16T20:03:23+00:00",
       "link": "https://www.tryai.dev/blog/ai-music-video-arena-claude-vs-gpt-5.6"
@@ -1379,27 +1400,6 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-07-13T16:31:23+00:00",
       "link": "https://techcrunch.com/2026/07/13/should-ai-help-you-get-away-with-killing-your-spouse/"
-    },
-    {
-      "title": "Nobel laureates and AI leaders warn the window to prepare for AI's economic impact is closing fast",
-      "summary": "More than 200 economists and AI researchers, including 16 Nobel laureates and representatives from Google, OpenAI, and Anthropic, are calling for immediate action in a coordinated statement.",
-      "source": "The Decoder",
-      "published": "2026-07-13T16:00:24+00:00",
-      "link": "https://the-decoder.com/nobel-laureates-and-ai-leaders-warn-the-window-to-prepare-for-ais-economic-impact-is-closing-fast/"
-    },
-    {
-      "title": "Show HN: Jacquard, a programming language for AI-written, human-reviewed code",
-      "summary": "I'm fascinated by the generative AI wave rolling over us, and wondered if AI could create a language that it might prefer using over the ones created by and for humans.To create the design, I had AI analyze the ASTs of several mainstream languages plus a few of the conceptually...",
-      "source": "Hacker News",
-      "published": "2026-07-13T15:56:02+00:00",
-      "link": "https://github.com/jbwinters/jacquard-lang"
-    },
-    {
-      "title": "Anthropic starts localizing Claude pricing for India, its biggest market after the US",
-      "summary": "Claude users in India are starting to see Indian rupee-denominated subscription plans.",
-      "source": "TechCrunch",
-      "published": "2026-07-13T15:34:59+00:00",
-      "link": "https://techcrunch.com/2026/07/13/anthropic-starts-localizing-claude-pricing-for-india-its-biggest-market-after-the-us/"
     }
   ]
 };
