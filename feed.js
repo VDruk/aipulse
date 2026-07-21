@@ -1,6 +1,69 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-07-21T10:54:00.838508+00:00",
+  "lastUpdated": "2026-07-21T15:04:29.694379+00:00",
   "items": [
+    {
+      "title": "Google launches a cheaper alternative to large AI security models like Mythos",
+      "summary": "Google is launching an AI security model dedicated to quickly finding and patching security vulnerabilities.",
+      "source": "The Verge",
+      "published": "2026-07-21T15:00:00+00:00",
+      "link": "https://www.theverge.com/tech/968572/google-gemini-flash-cyber-ai-security-model"
+    },
+    {
+      "title": "Nvidia Wants to Own Every Chip Inside AI Data Centers",
+      "summary": "Nvidia’s Vera Rubin platform combines CPUs and GPUs into a single system, reflecting the company’s growing ambition to power every layer of AI infrastructure.",
+      "source": "Wired",
+      "published": "2026-07-21T15:00:00+00:00",
+      "link": "https://www.wired.com/story/nvidia-wants-to-own-every-chip-inside-an-ai-data-center/"
+    },
+    {
+      "title": "Music streamer Deezer says more than 50% of daily uploads are AI-generated",
+      "summary": "Deezer said more than 90,000 AI-generated tracks were uploaded daily on the platform in June.",
+      "source": "TechCrunch",
+      "published": "2026-07-21T13:27:42+00:00",
+      "link": "https://techcrunch.com/2026/07/21/music-streamer-deezer-says-more-than-50-of-daily-uploads-are-ai-generated/"
+    },
+    {
+      "title": "The AI Slot Machine Effect: Why Generative Feeds Disrupt Deep Work And How to Reclaim Focus",
+      "summary": "You open a generative AI tool expecting a quick boost. Ten minutes later, you’re still there, refining a prompt for the fourth time.",
+      "source": "AI News",
+      "published": "2026-07-21T12:50:06+00:00",
+      "link": "https://www.artificialintelligence-news.com/news/the-ai-slot-machine-effect-why-generative-feeds-disrupt-deep-work-and-how-to-reclaim-focus/"
+    },
+    {
+      "title": "The Download: Chinese AI divides the White House, and a record copyright payout",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.",
+      "source": "MIT Tech Review",
+      "published": "2026-07-21T12:10:00+00:00",
+      "link": "https://www.technologyreview.com/2026/07/21/1140685/the-download-chinese-ai-divides-white-house-anthropic-copyright-settlement/"
+    },
+    {
+      "title": "Alibaba's Qwen Audio 3.0 TTS Plus tops the competition in the text-to-speech rankings",
+      "summary": "Alibaba's Qwen Audio 3.0 TTS Plus tops Artificial Analysis' Speech Arena leaderboard. The model supports 16 languages and lets users control speaking style with natural language or tags like [angry].",
+      "source": "The Decoder",
+      "published": "2026-07-21T11:31:15+00:00",
+      "link": "https://the-decoder.com/alibabas-qwen-audio-3-0-tts-plus-tops-the-competition-in-the-text-to-speech-rankings/"
+    },
+    {
+      "title": "America needs to stop getting shocked by Chinese AI",
+      "summary": "Last week, two Chinese AI companies unveiled models they say can credibly compete with the best systems from OpenAI and Anthropic. The response was swift and predictable.",
+      "source": "The Verge",
+      "published": "2026-07-21T11:08:56+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/968136/chinese-ai-models-another-sputnik-moment"
+    },
+    {
+      "title": "Advancing next-gen AI with materials science innovation",
+      "summary": "The conversation about AI often centers on algorithms, computing power, or huge investments in new semiconductor fabrication plants and hyperscale data centers. But beneath each of these advances is another layer of innovation that makes them possible: advanced materials.",
+      "source": "MIT Tech Review",
+      "published": "2026-07-21T10:37:34+00:00",
+      "link": "https://www.technologyreview.com/2026/07/21/1140602/advancing-next-gen-ai-with-materials-science-innovation/"
+    },
+    {
+      "title": "‘It’s a Modern-Day Draft’: Why Stanford Students Walked Out on Sundar Pichai’s Commencement Speech",
+      "summary": "Last month, more than a hundred Stanford students left their own graduation to protest Google’s military contracts and deals with ICE. Two organizers, Amanda Campos and Eva Jones, tell us why.",
+      "source": "Wired",
+      "published": "2026-07-21T10:30:00+00:00",
+      "link": "https://www.wired.com/story/big-interview-stanford-students-booing-sundar-pichai/"
+    },
     {
       "title": "Bristol Myers Squibb buys Nvidia AI system for drug discovery",
       "summary": "Bristol Myers Squibb is purchasing an Nvidia DGX SuperPOD built on the chipmaker’s Vera Rubin architecture to support artificial intelligence use across its drug discovery and development operations.",
@@ -38,7 +101,7 @@ const FEED_DATA = {
     },
     {
       "title": "Five US tech giants' hidden debts soar to $1.65T on opaque AI funding",
-      "summary": "https://archive.ph/20260720174223/https://asia.nikkei.com/bu... Comments URL: https://news.ycombinator.com/item?id=48987863 Points: 292 # Comments: 186",
+      "summary": "https://archive.ph/20260720174223/https://asia.nikkei.com/bu... Comments URL: https://news.ycombinator.com/item?id=48987863 Points: 315 # Comments: 218",
       "source": "Hacker News",
       "published": "2026-07-21T03:56:03+00:00",
       "link": "https://asia.nikkei.com/business/technology/five-us-tech-giants-hidden-debts-soar-to-1.65tn-on-opaque-ai-funding"
@@ -52,7 +115,7 @@ const FEED_DATA = {
     },
     {
       "title": "Americans hate AI so much that politicians are losing their jobs over it",
-      "summary": "Article URL: https://fortune.com/2026/07/14/voters-ai-backlash-politicians-lose-seats/ Comments URL: https://news.ycombinator.com/item?id=48986003 Points: 55 # Comments: 34",
+      "summary": "Article URL: https://fortune.com/2026/07/14/voters-ai-backlash-politicians-lose-seats/ Comments URL: https://news.ycombinator.com/item?id=48986003 Points: 56 # Comments: 35",
       "source": "Hacker News",
       "published": "2026-07-20T23:06:09+00:00",
       "link": "https://fortune.com/2026/07/14/voters-ai-backlash-politicians-lose-seats/"
@@ -136,7 +199,7 @@ const FEED_DATA = {
     },
     {
       "title": "How we measured AI writing across arXiv, and where the measurement breaks",
-      "summary": "Article URL: https://unslop.run/blog/measuring-ai-writing-on-arxiv Comments URL: https://news.ycombinator.com/item?id=48981206 Points: 226 # Comments: 155",
+      "summary": "Article URL: https://unslop.run/blog/measuring-ai-writing-on-arxiv Comments URL: https://news.ycombinator.com/item?id=48981206 Points: 232 # Comments: 157",
       "source": "Hacker News",
       "published": "2026-07-20T16:36:36+00:00",
       "link": "https://unslop.run/blog/measuring-ai-writing-on-arxiv"
@@ -171,7 +234,7 @@ const FEED_DATA = {
     },
     {
       "title": "Mythologizing AI makes it more likely that we’ll fail to operate it well (2023)",
-      "summary": "Article URL: https://www.newyorker.com/science/annals-of-artificial-intelligence/there-is-no-ai Comments URL: https://news.ycombinator.com/item?id=48980238 Points: 72 # Comments: 114",
+      "summary": "Article URL: https://www.newyorker.com/science/annals-of-artificial-intelligence/there-is-no-ai Comments URL: https://news.ycombinator.com/item?id=48980238 Points: 76 # Comments: 131",
       "source": "Hacker News",
       "published": "2026-07-20T15:28:32+00:00",
       "link": "https://www.newyorker.com/science/annals-of-artificial-intelligence/there-is-no-ai"
@@ -185,7 +248,7 @@ const FEED_DATA = {
     },
     {
       "title": "China’s open-weights AI strategy is winning",
-      "summary": "Article URL: https://werd.io/american-ai-is-locked-down-and-proprietary-its-losing/ Comments URL: https://news.ycombinator.com/item?id=48979269 Points: 1119 # Comments: 843",
+      "summary": "Article URL: https://werd.io/american-ai-is-locked-down-and-proprietary-its-losing/ Comments URL: https://news.ycombinator.com/item?id=48979269 Points: 1178 # Comments: 885",
       "source": "Hacker News",
       "published": "2026-07-20T14:21:47+00:00",
       "link": "https://werd.io/american-ai-is-locked-down-and-proprietary-its-losing/"
@@ -255,7 +318,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI advice made people less accurate but more confident – sudy",
-      "summary": "Article URL: https://thenextweb.com/news/ai-advice-suppresses-critical-thinking-wrong-answers-study Comments URL: https://news.ycombinator.com/item?id=48971738 Points: 360 # Comments: 207",
+      "summary": "Article URL: https://thenextweb.com/news/ai-advice-suppresses-critical-thinking-wrong-answers-study Comments URL: https://news.ycombinator.com/item?id=48971738 Points: 361 # Comments: 208",
       "source": "Hacker News",
       "published": "2026-07-19T21:18:10+00:00",
       "link": "https://thenextweb.com/news/ai-advice-suppresses-critical-thinking-wrong-answers-study"
@@ -276,7 +339,7 @@ const FEED_DATA = {
     },
     {
       "title": "Moonshot AI suspends new subscriptions due to Kimi K3 demand",
-      "summary": "Article URL: https://twitter.com/kimi_moonshot/status/2078855608565207130 Comments URL: https://news.ycombinator.com/item?id=48969291 Points: 283 # Comments: 112",
+      "summary": "Article URL: https://twitter.com/kimi_moonshot/status/2078855608565207130 Comments URL: https://news.ycombinator.com/item?id=48969291 Points: 283 # Comments: 113",
       "source": "Hacker News",
       "published": "2026-07-19T16:02:25+00:00",
       "link": "https://twitter.com/kimi_moonshot/status/2078855608565207130"
@@ -339,7 +402,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI Mania Is Eviscerating Global Decision-Making",
-      "summary": "Article URL: https://ludic.mataroa.blog/blog/ai-mania-is-eviscerating-global-decision-making/#fnref:3 Comments URL: https://news.ycombinator.com/item?id=48964185 Points: 439 # Comments: 282",
+      "summary": "Article URL: https://ludic.mataroa.blog/blog/ai-mania-is-eviscerating-global-decision-making/#fnref:3 Comments URL: https://news.ycombinator.com/item?id=48964185 Points: 441 # Comments: 283",
       "source": "Hacker News",
       "published": "2026-07-19T01:29:19+00:00",
       "link": "https://ludic.mataroa.blog/blog/ai-mania-is-eviscerating-global-decision-making/#fnref:3"
@@ -381,7 +444,7 @@ const FEED_DATA = {
     },
     {
       "title": "What AI did to stackoverflow in a graph",
-      "summary": "Article URL: https://data.stackexchange.com/stackoverflow/query/1953768#graph Comments URL: https://news.ycombinator.com/item?id=48956949 Points: 476 # Comments: 577",
+      "summary": "Article URL: https://data.stackexchange.com/stackoverflow/query/1953768#graph Comments URL: https://news.ycombinator.com/item?id=48956949 Points: 476 # Comments: 578",
       "source": "Hacker News",
       "published": "2026-07-18T11:12:46+00:00",
       "link": "https://data.stackexchange.com/stackoverflow/query/1953768#graph"
@@ -1337,69 +1400,6 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-07-14T16:27:29+00:00",
       "link": "https://the-decoder.com/deepseek-needs-more-cash-just-weeks-after-closing-its-first-7-billion-round/"
-    },
-    {
-      "title": "Meta’s Adam Mosseri says AI token budgets could soon be capped per engineer",
-      "summary": "Instagram head Adam Mosseri believes companies will eventually need to manage AI token spending the same way they manage payroll or other operating expenses, predicting that engineers could soon face limits on how much they spend using AI tools.",
-      "source": "TechCrunch",
-      "published": "2026-07-14T16:22:15+00:00",
-      "link": "https://techcrunch.com/2026/07/14/metas-adam-mosseri-says-ai-token-budgets-could-soon-be-capped-per-engineer/"
-    },
-    {
-      "title": "Google Search now generates AI images when it can't find what you're looking for on the web",
-      "summary": "Google is adding AI image generation to Search's AI Overviews. When no matching image exists on the web, the new Nano Banana 2 Lite model generates one from the search query.",
-      "source": "The Decoder",
-      "published": "2026-07-14T16:20:58+00:00",
-      "link": "https://the-decoder.com/google-search-now-generates-ai-images-when-it-cant-find-what-youre-looking-for-on-the-web/"
-    },
-    {
-      "title": "Launch HN: Agnost AI (YC S26) – Extract user feedback from agent conversations",
-      "summary": "Hey HN, we’re Shubham & Parth, childhood friends building Agnost AI (https://agnost.ai), product analytics for teams building chat and voice agents.We read production conversations and find behavioral failures like users rageprompting (cursing at the agent), repeatedly...",
-      "source": "Hacker News",
-      "published": "2026-07-14T16:06:18+00:00",
-      "link": "https://agnost.ai"
-    },
-    {
-      "title": "Google Images gets a Pinterest-like redesign focused on discovery",
-      "summary": "Now, when users navigate to Google Images, they'll see a \"For You\" gallery of images tailored to their interests and browsing history.",
-      "source": "TechCrunch",
-      "published": "2026-07-14T16:00:00+00:00",
-      "link": "https://techcrunch.com/2026/07/14/google-images-gets-a-pinterest-like-redesign-focused-on-discovery/"
-    },
-    {
-      "title": "AWS and Bluesight build AI for hospital 340B compliance",
-      "summary": "AWS (Amazon Web Services) has explained how Bluesight developed Prism, an AI layer that connects hospital pharmacy and compliance data across its product suite.",
-      "source": "AI News",
-      "published": "2026-07-14T15:54:39+00:00",
-      "link": "https://www.artificialintelligence-news.com/news/aws-and-bluesight-build-ai-for-hospital-340b-compliance/"
-    },
-    {
-      "title": "Spotify is now an AI chatbot, too",
-      "summary": "Spotify is experimenting with a new AI feature that allows Premium subscribers to play and explore music, audiobooks, and podcasts by having conversations with a chatbot. The \"Talk to Spotify\" feature appears across the Home and Now Playing view on Spotify's mobile app.",
-      "source": "The Verge",
-      "published": "2026-07-14T15:47:36+00:00",
-      "link": "https://www.theverge.com/entertainment/965358/spotify-ai-chatbot-interface-music-audiobooks-podcasts"
-    },
-    {
-      "title": "Are we offloading too much of our thinking to AI?",
-      "summary": "Article URL: https://www.artfish.ai/p/offloading-thinking-to-ai Comments URL: https://news.ycombinator.com/item?id=48908178 Points: 521 # Comments: 477",
-      "source": "Hacker News",
-      "published": "2026-07-14T15:18:13+00:00",
-      "link": "https://www.artfish.ai/p/offloading-thinking-to-ai"
-    },
-    {
-      "title": "New York State halts construction of all new data centers",
-      "summary": "New York has become the first state to temporarily halt approval of large data centers, as Gov. Kathy Hochul argues the AI-driven building boom shouldn’t come at the expense of higher electricity costs, water supplies, or local control.",
-      "source": "TechCrunch",
-      "published": "2026-07-14T15:17:59+00:00",
-      "link": "https://techcrunch.com/2026/07/14/new-york-state-halts-construction-of-all-new-data-centers/"
-    },
-    {
-      "title": "Reflection inks $1B compute deal with Nebius",
-      "summary": "Reflection AI has signed a $1 billion deal to access Nebius' compute. Reflection was founded in 2024 and is developing open source AI technology.",
-      "source": "TechCrunch",
-      "published": "2026-07-14T14:37:48+00:00",
-      "link": "https://techcrunch.com/2026/07/14/reflection-inks-1b-compute-deal-with-nebius/"
     }
   ]
 };
