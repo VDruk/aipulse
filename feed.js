@@ -1,9 +1,58 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-07-21T15:04:29.694379+00:00",
+  "lastUpdated": "2026-07-21T18:12:34.854252+00:00",
   "items": [
     {
+      "title": "Google releases three new Gemini models — but no 3.5 Pro",
+      "summary": "Google released Gemini 3.6 Flash, 3.5 Flash-Lite, and Flash Cyber, but the continued absence of Gemini 3.5 Pro raises fresh questions about its AI strategy.",
+      "source": "TechCrunch",
+      "published": "2026-07-21T17:11:50+00:00",
+      "link": "https://techcrunch.com/2026/07/21/google-releases-three-new-gemini-models-but-no-3-5-pro/"
+    },
+    {
+      "title": "Claude Cowork learns new skills through screen recordings and voice-over explanations",
+      "summary": "Anthropic's Claude Cowork desktop app now lets users record their screen while completing a task, add voice commentary, and have Claude turn the whole thing into a reusable skill.",
+      "source": "The Decoder",
+      "published": "2026-07-21T17:07:21+00:00",
+      "link": "https://the-decoder.com/claude-cowork-learns-new-skills-through-screen-recordings-and-voice-over-explanations/"
+    },
+    {
+      "title": "Google ships three new Gemini Flash models but its frontier 3.5 Pro remains lost in training",
+      "summary": "Google is shipping three new Flash models in the Gemini series, including the more efficient 3.6 Flash, which uses up to 65 percent fewer tokens, and a cybersecurity model available only to governments and select partners.",
+      "source": "The Decoder",
+      "published": "2026-07-21T16:52:51+00:00",
+      "link": "https://the-decoder.com/google-ships-three-new-gemini-flash-models-but-its-frontier-3-5-pro-remains-lost-in-training/"
+    },
+    {
+      "title": "A Sneaky Hacking Tool Targeting AI Infrastructure Is Lurking in Victims’ Blind Spots",
+      "summary": "A new type of malware can worm deep into AI coding systems to steal data and logins—and can flip a “death switch” to destroy files and keep out real users.",
+      "source": "Wired",
+      "published": "2026-07-21T16:08:44+00:00",
+      "link": "https://www.wired.com/story/a-sneaky-hacking-tool-targeting-ai-infrastructure-is-lurking-in-victims-blind-spots/"
+    },
+    {
+      "title": "Alibaba's Qwen-Image-3.0 renders full infographic grids and readable ten-pixel text in a single pass",
+      "summary": "Alibaba's Qwen team has introduced Qwen-Image-3.0, an image generator that accepts prompts up to 4,500 tokens, renders legible text as small as ten pixels, and supports twelve languages natively.",
+      "source": "The Decoder",
+      "published": "2026-07-21T15:55:09+00:00",
+      "link": "https://the-decoder.com/alibabas-qwen-image-3-0-renders-full-infographic-grids-and-readable-ten-pixel-text-in-a-single-pass/"
+    },
+    {
+      "title": "US threatens sanctions against Chinese AI models over IP theft",
+      "summary": "Treasury Secretary Scott Bessent said the U.S. could sanction Chinese open AI models over alleged IP theft, expanding the Trump administration's campaign to slow China's AI advances.",
+      "source": "TechCrunch",
+      "published": "2026-07-21T15:37:05+00:00",
+      "link": "https://techcrunch.com/2026/07/21/us-threatens-sanctions-against-chinese-ai-models-over-ip-theft/"
+    },
+    {
+      "title": "Microsoft and Mistral strike multi-billion-dollar deal to build AI infrastructure across Europe",
+      "summary": "Microsoft and Mistral are expanding their strategic partnership with a multi-billion-dollar deal to build out AI infrastructure in Europe. The article Microsoft and Mistral strike multi-billion-dollar deal to build AI infrastructure across Europe appeared first on The Decoder.",
+      "source": "The Decoder",
+      "published": "2026-07-21T15:07:22+00:00",
+      "link": "https://the-decoder.com/microsoft-and-mistral-strike-multi-billion-dollar-deal-to-build-ai-infrastructure-across-europe/"
+    },
+    {
       "title": "Google launches a cheaper alternative to large AI security models like Mythos",
-      "summary": "Google is launching an AI security model dedicated to quickly finding and patching security vulnerabilities.",
+      "summary": "Google is launching Gemini 3.6 Flash alongside a new security model dedicated to quickly finding and patching security vulnerabilities.",
       "source": "The Verge",
       "published": "2026-07-21T15:00:00+00:00",
       "link": "https://www.theverge.com/tech/968572/google-gemini-flash-cyber-ai-security-model"
@@ -101,7 +150,7 @@ const FEED_DATA = {
     },
     {
       "title": "Five US tech giants' hidden debts soar to $1.65T on opaque AI funding",
-      "summary": "https://archive.ph/20260720174223/https://asia.nikkei.com/bu... Comments URL: https://news.ycombinator.com/item?id=48987863 Points: 315 # Comments: 218",
+      "summary": "https://archive.ph/20260720174223/https://asia.nikkei.com/bu... Comments URL: https://news.ycombinator.com/item?id=48987863 Points: 328 # Comments: 224",
       "source": "Hacker News",
       "published": "2026-07-21T03:56:03+00:00",
       "link": "https://asia.nikkei.com/business/technology/five-us-tech-giants-hidden-debts-soar-to-1.65tn-on-opaque-ai-funding"
@@ -199,7 +248,7 @@ const FEED_DATA = {
     },
     {
       "title": "How we measured AI writing across arXiv, and where the measurement breaks",
-      "summary": "Article URL: https://unslop.run/blog/measuring-ai-writing-on-arxiv Comments URL: https://news.ycombinator.com/item?id=48981206 Points: 232 # Comments: 157",
+      "summary": "Article URL: https://unslop.run/blog/measuring-ai-writing-on-arxiv Comments URL: https://news.ycombinator.com/item?id=48981206 Points: 236 # Comments: 161",
       "source": "Hacker News",
       "published": "2026-07-20T16:36:36+00:00",
       "link": "https://unslop.run/blog/measuring-ai-writing-on-arxiv"
@@ -234,7 +283,7 @@ const FEED_DATA = {
     },
     {
       "title": "Mythologizing AI makes it more likely that we’ll fail to operate it well (2023)",
-      "summary": "Article URL: https://www.newyorker.com/science/annals-of-artificial-intelligence/there-is-no-ai Comments URL: https://news.ycombinator.com/item?id=48980238 Points: 76 # Comments: 131",
+      "summary": "Article URL: https://www.newyorker.com/science/annals-of-artificial-intelligence/there-is-no-ai Comments URL: https://news.ycombinator.com/item?id=48980238 Points: 77 # Comments: 139",
       "source": "Hacker News",
       "published": "2026-07-20T15:28:32+00:00",
       "link": "https://www.newyorker.com/science/annals-of-artificial-intelligence/there-is-no-ai"
@@ -248,7 +297,7 @@ const FEED_DATA = {
     },
     {
       "title": "China’s open-weights AI strategy is winning",
-      "summary": "Article URL: https://werd.io/american-ai-is-locked-down-and-proprietary-its-losing/ Comments URL: https://news.ycombinator.com/item?id=48979269 Points: 1178 # Comments: 885",
+      "summary": "Article URL: https://werd.io/american-ai-is-locked-down-and-proprietary-its-losing/ Comments URL: https://news.ycombinator.com/item?id=48979269 Points: 1192 # Comments: 908",
       "source": "Hacker News",
       "published": "2026-07-20T14:21:47+00:00",
       "link": "https://werd.io/american-ai-is-locked-down-and-proprietary-its-losing/"
@@ -318,7 +367,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI advice made people less accurate but more confident – sudy",
-      "summary": "Article URL: https://thenextweb.com/news/ai-advice-suppresses-critical-thinking-wrong-answers-study Comments URL: https://news.ycombinator.com/item?id=48971738 Points: 361 # Comments: 208",
+      "summary": "Article URL: https://thenextweb.com/news/ai-advice-suppresses-critical-thinking-wrong-answers-study Comments URL: https://news.ycombinator.com/item?id=48971738 Points: 361 # Comments: 209",
       "source": "Hacker News",
       "published": "2026-07-19T21:18:10+00:00",
       "link": "https://thenextweb.com/news/ai-advice-suppresses-critical-thinking-wrong-answers-study"
@@ -402,7 +451,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI Mania Is Eviscerating Global Decision-Making",
-      "summary": "Article URL: https://ludic.mataroa.blog/blog/ai-mania-is-eviscerating-global-decision-making/#fnref:3 Comments URL: https://news.ycombinator.com/item?id=48964185 Points: 441 # Comments: 283",
+      "summary": "Article URL: https://ludic.mataroa.blog/blog/ai-mania-is-eviscerating-global-decision-making/#fnref:3 Comments URL: https://news.ycombinator.com/item?id=48964185 Points: 443 # Comments: 285",
       "source": "Hacker News",
       "published": "2026-07-19T01:29:19+00:00",
       "link": "https://ludic.mataroa.blog/blog/ai-mania-is-eviscerating-global-decision-making/#fnref:3"
@@ -437,14 +486,14 @@ const FEED_DATA = {
     },
     {
       "title": "GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
-      "summary": "Article URL: https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/ Comments URL: https://news.ycombinator.com/item?id=48957779 Points: 599 # Comments: 390",
+      "summary": "Article URL: https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/ Comments URL: https://news.ycombinator.com/item?id=48957779 Points: 600 # Comments: 390",
       "source": "Hacker News",
       "published": "2026-07-18T13:00:52+00:00",
       "link": "https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/"
     },
     {
       "title": "What AI did to stackoverflow in a graph",
-      "summary": "Article URL: https://data.stackexchange.com/stackoverflow/query/1953768#graph Comments URL: https://news.ycombinator.com/item?id=48956949 Points: 476 # Comments: 578",
+      "summary": "Article URL: https://data.stackexchange.com/stackoverflow/query/1953768#graph Comments URL: https://news.ycombinator.com/item?id=48956949 Points: 476 # Comments: 579",
       "source": "Hacker News",
       "published": "2026-07-18T11:12:46+00:00",
       "link": "https://data.stackexchange.com/stackoverflow/query/1953768#graph"
@@ -1351,55 +1400,6 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-07-14T19:41:27+00:00",
       "link": "https://techcrunch.com/2026/07/14/anthropics-newest-ad-is-creeping-people-out/"
-    },
-    {
-      "title": "The founder of Hinge raised $18M to build a new AI dating service, Overtone",
-      "summary": "Overtone describes itself as \"a voice- and audio-forward service, enabled by AI, that provides highly curated introductions.\"",
-      "source": "TechCrunch",
-      "published": "2026-07-14T19:39:39+00:00",
-      "link": "https://techcrunch.com/2026/07/14/the-founder-of-hinge-raised-18m-to-build-a-new-ai-dating-service-overtone/"
-    },
-    {
-      "title": "SpaceXAI’s Grok programming tool was uploading its users’ entire codebase to cloud storage",
-      "summary": "SpaceXAI's Grok Build AI coding tool was spotted uploading users' entire codebases to Google Cloud before it was reported, and the company turned it off.",
-      "source": "The Verge",
-      "published": "2026-07-14T19:25:00+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/965600/spacexai-grok-build-repository-upload"
-    },
-    {
-      "title": "Google faces another AI training lawsuit from major publishers",
-      "summary": "Hachette, Cengage, Elsevier, and other publishers allege that Google trained its AI on copyrighted works without the necessary permissions.",
-      "source": "TechCrunch",
-      "published": "2026-07-14T18:33:31+00:00",
-      "link": "https://techcrunch.com/2026/07/14/google-faces-another-ai-training-lawsuit-from-major-publishers/"
-    },
-    {
-      "title": "DeepMind CEO calls for an independent standards body to regulate frontier AI",
-      "summary": "DeepMind CEO Demis Hassabis is proposing an AI \"standards body\" modeled after FINRA, to test frontier models and develop best practices for their release.",
-      "source": "TechCrunch",
-      "published": "2026-07-14T17:45:55+00:00",
-      "link": "https://techcrunch.com/2026/07/14/deepmind-ceo-calls-for-an-independent-standards-body-to-regulate-frontier-ai/"
-    },
-    {
-      "title": "Anthropic opens Claude for Teachers with a promise not to train models on student data",
-      "summary": "Anthropic is rolling out Claude for Teachers, a free offering for verified K-12 educators at US schools. The article Anthropic opens Claude for Teachers with a promise not to train models on student data appeared first on The Decoder.",
-      "source": "The Decoder",
-      "published": "2026-07-14T17:24:27+00:00",
-      "link": "https://the-decoder.com/anthropic-opens-claude-for-teachers-with-a-promise-not-to-train-models-on-student-data/"
-    },
-    {
-      "title": "Meta accused of using biased AI targeting for mass layoffs",
-      "summary": "A group of 26 former Meta employees is suing the company over claims that it used AI tools to unfairly target workers on leave with layoffs, as reported earlier by Reuters.",
-      "source": "The Verge",
-      "published": "2026-07-14T17:18:11+00:00",
-      "link": "https://www.theverge.com/tech/965486/meta-lawsuit-former-employees-ai-layoffs"
-    },
-    {
-      "title": "DeepSeek needs more cash just weeks after closing its first $7 billion round",
-      "summary": "DeepSeek is already raising again. The Chinese AI lab just closed its first funding round and needs capital for its own data centers and chips to keep its aggressive pricing strategy going.",
-      "source": "The Decoder",
-      "published": "2026-07-14T16:27:29+00:00",
-      "link": "https://the-decoder.com/deepseek-needs-more-cash-just-weeks-after-closing-its-first-7-billion-round/"
     }
   ]
 };
