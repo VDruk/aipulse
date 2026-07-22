@@ -1,6 +1,76 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-07-22T10:55:18.075769+00:00",
+  "lastUpdated": "2026-07-22T15:05:26.837883+00:00",
   "items": [
+    {
+      "title": "AMD and Anthropic reach $5 billion AI infrastructure deal",
+      "summary": "AMD says it's going to invest up to $5 billion in Anthropic, while helping to expand the AI company's computing power, according to an announcement on Wednesday.",
+      "source": "The Verge",
+      "published": "2026-07-22T14:44:27+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/969285/amd-anthropic-ai-infrastructure-deal"
+    },
+    {
+      "title": "The browser wars aren’t about search anymore — here are the best alternatives to Chrome and Safari",
+      "summary": "We’ve compiled an overview of some of the top alternative browsers available today aiming to challenge Chrome and Safari.",
+      "source": "TechCrunch",
+      "published": "2026-07-22T13:20:35+00:00",
+      "link": "https://techcrunch.com/2026/07/22/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/"
+    },
+    {
+      "title": "Passionfroot raises $15M to expand its B2B creator marketplace to the US",
+      "summary": "Passionfroot, a German startup building a marketplace connecting B2B creators with brands, has raised $15M in a Series A round led by Insight Partners.",
+      "source": "TechCrunch",
+      "published": "2026-07-22T13:00:00+00:00",
+      "link": "https://techcrunch.com/2026/07/22/passionfroot-raises-15m-to-expand-its-b2b-creator-marketplace-to-the-us/"
+    },
+    {
+      "title": "Businesses with ugly AI menu redesigns",
+      "summary": "Article URL: https://blog.fiddery.com/businesses-with-ugly-ai-menu-redesigns/ Comments URL: https://news.ycombinator.com/item?id=49005973 Points: 112 # Comments: 88",
+      "source": "Hacker News",
+      "published": "2026-07-22T12:49:45+00:00",
+      "link": "https://blog.fiddery.com/businesses-with-ugly-ai-menu-redesigns/"
+    },
+    {
+      "title": "The Download: NASA’s new space telescope and OpenAI’s autonomous hacker",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.",
+      "source": "MIT Tech Review",
+      "published": "2026-07-22T12:10:00+00:00",
+      "link": "https://www.technologyreview.com/2026/07/22/1140717/the-download-nasa-space-telescope-openai-hugging-face-hack/"
+    },
+    {
+      "title": "OpenAI says its AI went rogue and launched 'unprecedented' cyber-attack",
+      "summary": "Article URL: https://www.bbc.com/news/articles/c3ek3gvdnj3o Comments URL: https://news.ycombinator.com/item?id=49005398 Points: 69 # Comments: 94",
+      "source": "Hacker News",
+      "published": "2026-07-22T12:03:32+00:00",
+      "link": "https://www.bbc.com/news/articles/c3ek3gvdnj3o"
+    },
+    {
+      "title": "Samsung deepens its AI empire with a potential billion-euro stake in Europe's hottest AI startup",
+      "summary": "Samsung is in talks to invest up to one billion euros in French AI startup Mistral, which would push the company's valuation to around 20 billion euros.",
+      "source": "The Decoder",
+      "published": "2026-07-22T11:24:08+00:00",
+      "link": "https://the-decoder.com/samsung-deepens-its-ai-empire-with-a-potential-billion-euro-stake-in-europes-hottest-ai-startup/"
+    },
+    {
+      "title": "SenseTime’s Galaxy Project targets domestic AI chip scale-up",
+      "summary": "SenseTime has launched the Galaxy Project, teaming with nearly 20 partners to scale domestic AI chip infrastructure in China.",
+      "source": "AI News",
+      "published": "2026-07-22T11:21:05+00:00",
+      "link": "https://www.artificialintelligence-news.com/news/sensetimes-galaxy-project-targets-domestic-ai-chip-scale-up/"
+    },
+    {
+      "title": "Meta made its own AI detection system. It should have just used Google’s",
+      "summary": "IIn March, Meta's Oversight Board called on the company to \"meet its public commitments and employ its own tools\" to help quell the spread of deceptive generative AI content across platforms.",
+      "source": "The Verge",
+      "published": "2026-07-22T11:00:00+00:00",
+      "link": "https://www.theverge.com/tech/968680/meta-ai-detection-labeling-content-seal-watermarks-synthid"
+    },
+    {
+      "title": "Utility companies promise to spare us from AI’s energy bill",
+      "summary": "In the face of backlash to concerns the AI boom will increase consumer electricity bills, the largest utility companies and data center developers in the US are now promising to do something about it.",
+      "source": "The Verge",
+      "published": "2026-07-22T10:12:13+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/969137/us-utility-ai-electricty-data-center-rate-pledge-trump"
+    },
     {
       "title": "Utility companies are promising to spare us from AI’s energy bill",
       "summary": "In the face of backlash to concerns the AI boom will increase consumer electricity bills, the largest utility companies and data center developers in the US are now promising to do something about it.",
@@ -66,7 +136,7 @@ const FEED_DATA = {
     },
     {
       "title": "\"Drawing\" the Mona Lisa with GPT-5.6, Claude, Gemini, and Grok",
-      "summary": "Article URL: https://www.tryai.dev/blog/ai-drawing-arena-colored-pencils-claude-gpt-grok Comments URL: https://news.ycombinator.com/item?id=48998404 Points: 205 # Comments: 74",
+      "summary": "Article URL: https://www.tryai.dev/blog/ai-drawing-arena-colored-pencils-claude-gpt-grok Comments URL: https://news.ycombinator.com/item?id=48998404 Points: 236 # Comments: 87",
       "source": "Hacker News",
       "published": "2026-07-21T21:13:20+00:00",
       "link": "https://www.tryai.dev/blog/ai-drawing-arena-colored-pencils-claude-gpt-grok"
@@ -115,7 +185,7 @@ const FEED_DATA = {
     },
     {
       "title": "Five tech giants are hiding $1.6T in AI debt, using the trick that toppled Enron",
-      "summary": "Article URL: https://thenextweb.com/news/tech-giants-hidden-off-balance-sheet-debt-ai Comments URL: https://news.ycombinator.com/item?id=48996760 Points: 90 # Comments: 16",
+      "summary": "Article URL: https://thenextweb.com/news/tech-giants-hidden-off-balance-sheet-debt-ai Comments URL: https://news.ycombinator.com/item?id=48996760 Points: 94 # Comments: 19",
       "source": "Hacker News",
       "published": "2026-07-21T19:11:27+00:00",
       "link": "https://thenextweb.com/news/tech-giants-hidden-off-balance-sheet-debt-ai"
@@ -129,21 +199,21 @@ const FEED_DATA = {
     },
     {
       "title": "AI Agent – TRMNL",
-      "summary": "Article URL: https://help.trmnl.com/en/articles/14130438-ai-agent Comments URL: https://news.ycombinator.com/item?id=48996236 Points: 50 # Comments: 28",
+      "summary": "Article URL: https://help.trmnl.com/en/articles/14130438-ai-agent Comments URL: https://news.ycombinator.com/item?id=48996236 Points: 51 # Comments: 29",
       "source": "Hacker News",
       "published": "2026-07-21T18:32:21+00:00",
       "link": "https://help.trmnl.com/en/articles/14130438-ai-agent"
     },
     {
       "title": "AI makes programming differently difficult",
-      "summary": "Article URL: https://cacm.acm.org/opinion/ai-didnt-make-programming-easier-it-just-made-it-differently-difficult/ Comments URL: https://news.ycombinator.com/item?id=48996197 Points: 152 # Comments: 127",
+      "summary": "Article URL: https://cacm.acm.org/opinion/ai-didnt-make-programming-easier-it-just-made-it-differently-difficult/ Comments URL: https://news.ycombinator.com/item?id=48996197 Points: 159 # Comments: 137",
       "source": "Hacker News",
       "published": "2026-07-21T18:30:21+00:00",
       "link": "https://cacm.acm.org/opinion/ai-didnt-make-programming-easier-it-just-made-it-differently-difficult/"
     },
     {
       "title": "Jack Dorsey launches Buzz to combine team chat, AI agents and Git hosting",
-      "summary": "https://x.com/jack/status/2079605800998146171, https://xcancel.com/jack/status/2079605800998146171https://buzz.xyz/ Comments URL: https://news.ycombinator.com/item?id=48995213 Points: 323 # Comments: 277",
+      "summary": "https://x.com/jack/status/2079605800998146171, https://xcancel.com/jack/status/2079605800998146171https://buzz.xyz/ Comments URL: https://news.ycombinator.com/item?id=48995213 Points: 356 # Comments: 315",
       "source": "Hacker News",
       "published": "2026-07-21T17:14:06+00:00",
       "link": "https://runtimewire.com/article/jack-dorsey-block-buzz-team-chat-ai-agents-git"
@@ -164,7 +234,7 @@ const FEED_DATA = {
     },
     {
       "title": "Meta's AI models are powering the first wave of Genesis Mission projects",
-      "summary": "https://www.energy.gov/undersecretaryforscience/genesis-miss... Comments URL: https://news.ycombinator.com/item?id=48995074 Points: 96 # Comments: 76",
+      "summary": "https://www.energy.gov/undersecretaryforscience/genesis-miss... Comments URL: https://news.ycombinator.com/item?id=48995074 Points: 97 # Comments: 85",
       "source": "Hacker News",
       "published": "2026-07-21T17:03:18+00:00",
       "link": "https://ai.meta.com/blog/genesis-mission-lawrence-berkeley-national-laboratory-segment-anything-dino/?_fb_noscript=1"
@@ -318,7 +388,7 @@ const FEED_DATA = {
     },
     {
       "title": "Five US tech giants' hidden debts soar to $1.65T on opaque AI funding",
-      "summary": "https://archive.ph/20260720174223/https://asia.nikkei.com/bu... Comments URL: https://news.ycombinator.com/item?id=48987863 Points: 361 # Comments: 253",
+      "summary": "https://archive.ph/20260720174223/https://asia.nikkei.com/bu... Comments URL: https://news.ycombinator.com/item?id=48987863 Points: 363 # Comments: 257",
       "source": "Hacker News",
       "published": "2026-07-21T03:56:03+00:00",
       "link": "https://asia.nikkei.com/business/technology/five-us-tech-giants-hidden-debts-soar-to-1.65tn-on-opaque-ai-funding"
@@ -416,7 +486,7 @@ const FEED_DATA = {
     },
     {
       "title": "How we measured AI writing across arXiv, and where the measurement breaks",
-      "summary": "Article URL: https://unslop.run/blog/measuring-ai-writing-on-arxiv Comments URL: https://news.ycombinator.com/item?id=48981206 Points: 240 # Comments: 166",
+      "summary": "Article URL: https://unslop.run/blog/measuring-ai-writing-on-arxiv Comments URL: https://news.ycombinator.com/item?id=48981206 Points: 241 # Comments: 168",
       "source": "Hacker News",
       "published": "2026-07-20T16:36:36+00:00",
       "link": "https://unslop.run/blog/measuring-ai-writing-on-arxiv"
@@ -465,7 +535,7 @@ const FEED_DATA = {
     },
     {
       "title": "China’s open-weights AI strategy is winning",
-      "summary": "Article URL: https://werd.io/american-ai-is-locked-down-and-proprietary-its-losing/ Comments URL: https://news.ycombinator.com/item?id=48979269 Points: 1221 # Comments: 923",
+      "summary": "Article URL: https://werd.io/american-ai-is-locked-down-and-proprietary-its-losing/ Comments URL: https://news.ycombinator.com/item?id=48979269 Points: 1226 # Comments: 925",
       "source": "Hacker News",
       "published": "2026-07-20T14:21:47+00:00",
       "link": "https://werd.io/american-ai-is-locked-down-and-proprietary-its-losing/"
@@ -556,7 +626,7 @@ const FEED_DATA = {
     },
     {
       "title": "Moonshot AI suspends new subscriptions due to Kimi K3 demand",
-      "summary": "Article URL: https://twitter.com/kimi_moonshot/status/2078855608565207130 Comments URL: https://news.ycombinator.com/item?id=48969291 Points: 283 # Comments: 113",
+      "summary": "Article URL: https://twitter.com/kimi_moonshot/status/2078855608565207130 Comments URL: https://news.ycombinator.com/item?id=48969291 Points: 284 # Comments: 113",
       "source": "Hacker News",
       "published": "2026-07-19T16:02:25+00:00",
       "link": "https://twitter.com/kimi_moonshot/status/2078855608565207130"
@@ -1330,76 +1400,6 @@ const FEED_DATA = {
       "source": "Wired",
       "published": "2026-07-15T18:05:00+00:00",
       "link": "https://www.wired.com/story/thinking-machines-lab-releases-its-first-model-inkling/"
-    },
-    {
-      "title": "Thinking Machines amps up its bet against one-size-fits-all AI with its first open model, Inkling",
-      "summary": "It's the company's first public proof point after a year and a half spent building AI infrastructure largely out of public view.",
-      "source": "TechCrunch",
-      "published": "2026-07-15T18:04:06+00:00",
-      "link": "https://techcrunch.com/2026/07/15/thinking-machines-amps-up-its-bet-against-one-size-fits-all-ai-with-its-first-open-model-inkling/"
-    },
-    {
-      "title": "Suno snatched millions of songs from YouTube, Genius, and Deezer",
-      "summary": "Suno data obtained in a hacking incident has exposed that the AI music generator was trained by scraping millions of songs and lyrics from online audio platforms, including YouTube Music, Deezer, and Genius, 404 Media reports.",
-      "source": "The Verge",
-      "published": "2026-07-15T17:48:01+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/966072/suno-ai-music-training-scraping-youtube-hack"
-    },
-    {
-      "title": "GPT-5.6 Sol reportedly disproves a 30-year-old statistics conjecture in 90 minutes after humans couldn't crack it",
-      "summary": "A University of Pennsylvania statistics professor used OpenAI's GPT-5.6 Sol Pro to disprove a central open conjecture about the Benjamini-Hochberg method in roughly 90 minutes. The predecessor model, GPT-5.5, couldn't find a solution even after 20 hours.",
-      "source": "The Decoder",
-      "published": "2026-07-15T17:35:12+00:00",
-      "link": "https://the-decoder.com/gpt-5-6-sol-reportedly-disproves-a-30-year-old-statistics-conjecture-in-90-minutes-after-humans-couldnt-crack-it/"
-    },
-    {
-      "title": "Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer",
-      "summary": "OpenAI has built an LLM super-hacker called GPT-Red that it uses as a sparring partner to help its other models boost their defenses against cyberattacks. Last week the company released the latest version of its flagship LLM, GPT-5.6.",
-      "source": "MIT Tech Review",
-      "published": "2026-07-15T17:09:37+00:00",
-      "link": "https://www.technologyreview.com/2026/07/15/1140514/meet-gpt-red-an-llm-super-hacker-openai-built-to-make-its-models-safer/"
-    },
-    {
-      "title": "Hack suggests AI music generator Suno scraped YouTube for training data",
-      "summary": "The hacker used an employee's credentials to access source code, which revealed how Suno scraped decades of audio.",
-      "source": "TechCrunch",
-      "published": "2026-07-15T17:00:34+00:00",
-      "link": "https://techcrunch.com/2026/07/15/hack-suggests-ai-music-generator-suno-scraped-youtube-for-training-data/"
-    },
-    {
-      "title": "Whatnot acquires Shaped to power real-time live shopping recommendations",
-      "summary": "Livestream shopping platform Whatnot has acquired AI startup Shaped, a machine learning company focused on real-time recommendations and search. The deal will bolster Whatnot’s personalization and discovery features as it expands into new product categories.",
-      "source": "TechCrunch",
-      "published": "2026-07-15T17:00:00+00:00",
-      "link": "https://techcrunch.com/2026/07/15/whatnot-acquires-shaped-to-power-real-time-live-shopping-recommendations/"
-    },
-    {
-      "title": "Microsoft patches record number of security vulnerabilities, citing its use of AI",
-      "summary": "Microsoft's monthly release of security fixes, dubbed Patch Tuesday, resolved a record 570 security vulnerabilities across the company's product line, thanks to discoveries with AI.",
-      "source": "TechCrunch",
-      "published": "2026-07-15T16:20:18+00:00",
-      "link": "https://techcrunch.com/2026/07/15/microsoft-patches-record-number-of-security-vulnerabilities-citing-its-use-of-ai/"
-    },
-    {
-      "title": "OpenAI finally launches hardware… for Codex",
-      "summary": "OpenAI is finally releasing some hardware. No, it isn't the mysterious AI-powered device the company is developing with former Apple designer Jony Ive, a project already tangled up in a messy lawsuit.",
-      "source": "The Verge",
-      "published": "2026-07-15T16:00:00+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/965901/openai-hardware-codex-micro-launch"
-    },
-    {
-      "title": "Bonsai 27B is a full open reasoning model that fits on an iPhone",
-      "summary": "PrismML has compressed a 27-billion-parameter AI model to under 4 GB, small enough to run on an iPhone. In the company's own benchmarks, the smallest version keeps 90 percent of the original performance, with math and coding scores barely affected.",
-      "source": "The Decoder",
-      "published": "2026-07-15T15:55:14+00:00",
-      "link": "https://the-decoder.com/bonsai-27b-is-a-full-open-reasoning-model-that-fits-on-an-iphone/"
-    },
-    {
-      "title": "Spotify bets Premium subscribers want to chat with their music player",
-      "summary": "Spotify is expanding its AI voice interface. Premium subscribers can now talk to or text the service directly inside the app.",
-      "source": "The Decoder",
-      "published": "2026-07-15T15:33:19+00:00",
-      "link": "https://the-decoder.com/spotify-bets-premium-subscribers-want-to-chat-with-their-music-player/"
     }
   ]
 };
