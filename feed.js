@@ -1,6 +1,69 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-07-22T18:05:09.554983+00:00",
+  "lastUpdated": "2026-07-22T21:59:10.234493+00:00",
   "items": [
+    {
+      "title": "The White House Is Trying to Figure Out What to Do About Chinese AI",
+      "summary": "There’s a debate going on in the Trump administration over how to handle increasingly powerful Chinese AI models.",
+      "source": "Wired",
+      "published": "2026-07-22T21:00:00+00:00",
+      "link": "https://www.wired.com/story/the-white-house-is-trying-to-figure-out-what-to-do-about-chinese-ai/"
+    },
+    {
+      "title": "Treasury threatens sanctions after White House claims Moonshot distilled Anthropic’s Fable",
+      "summary": "Treasury Secretary Scott Bessent warned the U.S. government could sanction Chinese AI companies after White House officials accused Moonshot of distilling Anthropic's Fable model to develop Kimi K3.",
+      "source": "TechCrunch",
+      "published": "2026-07-22T20:49:03+00:00",
+      "link": "https://techcrunch.com/2026/07/22/treasury-threatens-sanctions-after-white-house-claims-moonshot-distilled-anthropics-fable/"
+    },
+    {
+      "title": "Anthropic's $1.5B piracy settlement with book authors is a record loss that hands AI labs their biggest legal win",
+      "summary": "Anthropic has to pay $1.5 billion to book authors, the largest copyright settlement in class action history. But the payout is for downloading roughly 482,460 works from piracy databases, not for AI training itself.",
+      "source": "The Decoder",
+      "published": "2026-07-22T19:33:48+00:00",
+      "link": "https://the-decoder.com/anthropics-1-5b-piracy-settlement-with-book-authors-is-a-record-loss-that-hands-ai-labs-their-biggest-legal-win/"
+    },
+    {
+      "title": "How OpenAI’s human mistake led to the AI-powered hack on Hugging Face",
+      "summary": "OpenAI made a mistake setting up what it called a “highly isolated” testing environment and sandbox. According to cybersecurity experts, that human mistake is what made the AI-powered attack on Hugging Face possible.",
+      "source": "TechCrunch",
+      "published": "2026-07-22T19:11:46+00:00",
+      "link": "https://techcrunch.com/2026/07/22/how-an-openais-human-mistake-led-to-the-ai-powered-hack-on-hugging-face/"
+    },
+    {
+      "title": "China’s Open AI Models Are Challenging Silicon Valley’s Playbook",
+      "summary": "As access to Anthropic’s and OpenAI’s frontier models becomes more restricted, Chinese labs are pitching their open-source alternatives as stable, accessible, and increasingly capable.",
+      "source": "Wired",
+      "published": "2026-07-22T19:01:38+00:00",
+      "link": "https://www.wired.com/story/chinas-open-ai-models-are-challenging-silicon-valleys-playbook/"
+    },
+    {
+      "title": "Travis Kalanick’s robotics company raises $1.7B, led by a16z",
+      "summary": "Uber is also investing in Travis Kalanick's company Atoms, which has made gauzy claims about using industrial AI to modernize the world.",
+      "source": "TechCrunch",
+      "published": "2026-07-22T18:50:44+00:00",
+      "link": "https://techcrunch.com/2026/07/22/travis-kalanicks-robotics-company-raises-1-7b-led-by-a16z/"
+    },
+    {
+      "title": "Yope raises $12.3M to build a private social network without algorithms or ads",
+      "summary": "Yope, a fast-growing social app focused on private groups of friends and family, has raised $12.3 million in seed funding.",
+      "source": "TechCrunch",
+      "published": "2026-07-22T18:13:58+00:00",
+      "link": "https://techcrunch.com/2026/07/22/yope-raises-12-3m-to-build-a-private-social-network-without-algorithms-or-ads/"
+    },
+    {
+      "title": "Monday.com lays off hundreds to focus on AI",
+      "summary": "The company said it is reducing its headcount by 20%, or about 630 staff, to \"support a leaner, more focused operating model\" as it focuses on its AI Work Platform.",
+      "source": "TechCrunch",
+      "published": "2026-07-22T17:54:14+00:00",
+      "link": "https://techcrunch.com/2026/07/22/monday-com-lays-off-hundreds-to-focuses-on-ai/"
+    },
+    {
+      "title": "Are AI Labs Pelicanmaxxing?",
+      "summary": "Article URL: https://dylancastillo.co/posts/pelicanmaxxing.html Comments URL: https://news.ycombinator.com/item?id=49010129 Points: 276 # Comments: 117",
+      "source": "Hacker News",
+      "published": "2026-07-22T17:17:54+00:00",
+      "link": "https://dylancastillo.co/posts/pelicanmaxxing.html"
+    },
     {
       "title": "Anthropic will deploy 2 gigawatts of AMD GPUs for Claude in a deal worth up to $5 billion",
       "summary": "AMD is investing up to $5 billion in Anthropic. In return, Anthropic will deploy up to 2 gigawatts of MI450 GPUs for training and running its Claude models.",
@@ -66,7 +129,7 @@ const FEED_DATA = {
     },
     {
       "title": "Most Americans say \"not in my backyard\" to AI data centers",
-      "summary": "Article URL: https://www.redfin.com/news/ai-data-centers-opposition-education-benefit/ Comments URL: https://news.ycombinator.com/item?id=49007525 Points: 82 # Comments: 156",
+      "summary": "Article URL: https://www.redfin.com/news/ai-data-centers-opposition-education-benefit/ Comments URL: https://news.ycombinator.com/item?id=49007525 Points: 124 # Comments: 262",
       "source": "Hacker News",
       "published": "2026-07-22T14:34:27+00:00",
       "link": "https://www.redfin.com/news/ai-data-centers-opposition-education-benefit/"
@@ -94,7 +157,7 @@ const FEED_DATA = {
     },
     {
       "title": "Businesses with ugly AI menu redesigns",
-      "summary": "Article URL: https://blog.fiddery.com/businesses-with-ugly-ai-menu-redesigns/ Comments URL: https://news.ycombinator.com/item?id=49005973 Points: 133 # Comments: 104",
+      "summary": "Article URL: https://blog.fiddery.com/businesses-with-ugly-ai-menu-redesigns/ Comments URL: https://news.ycombinator.com/item?id=49005973 Points: 140 # Comments: 114",
       "source": "Hacker News",
       "published": "2026-07-22T12:49:45+00:00",
       "link": "https://blog.fiddery.com/businesses-with-ugly-ai-menu-redesigns/"
@@ -108,7 +171,7 @@ const FEED_DATA = {
     },
     {
       "title": "OpenAI says its AI went rogue and launched 'unprecedented' cyber-attack",
-      "summary": "Article URL: https://www.bbc.com/news/articles/c3ek3gvdnj3o Comments URL: https://news.ycombinator.com/item?id=49005398 Points: 73 # Comments: 95",
+      "summary": "Article URL: https://www.bbc.com/news/articles/c3ek3gvdnj3o Comments URL: https://news.ycombinator.com/item?id=49005398 Points: 75 # Comments: 99",
       "source": "Hacker News",
       "published": "2026-07-22T12:03:32+00:00",
       "link": "https://www.bbc.com/news/articles/c3ek3gvdnj3o"
@@ -206,7 +269,7 @@ const FEED_DATA = {
     },
     {
       "title": "\"Drawing\" the Mona Lisa with GPT-5.6, Claude, Gemini, and Grok",
-      "summary": "Article URL: https://www.tryai.dev/blog/ai-drawing-arena-colored-pencils-claude-gpt-grok Comments URL: https://news.ycombinator.com/item?id=48998404 Points: 243 # Comments: 96",
+      "summary": "Article URL: https://www.tryai.dev/blog/ai-drawing-arena-colored-pencils-claude-gpt-grok Comments URL: https://news.ycombinator.com/item?id=48998404 Points: 244 # Comments: 101",
       "source": "Hacker News",
       "published": "2026-07-21T21:13:20+00:00",
       "link": "https://www.tryai.dev/blog/ai-drawing-arena-colored-pencils-claude-gpt-grok"
@@ -276,14 +339,14 @@ const FEED_DATA = {
     },
     {
       "title": "AI makes programming differently difficult",
-      "summary": "Article URL: https://cacm.acm.org/opinion/ai-didnt-make-programming-easier-it-just-made-it-differently-difficult/ Comments URL: https://news.ycombinator.com/item?id=48996197 Points: 159 # Comments: 139",
+      "summary": "Article URL: https://cacm.acm.org/opinion/ai-didnt-make-programming-easier-it-just-made-it-differently-difficult/ Comments URL: https://news.ycombinator.com/item?id=48996197 Points: 160 # Comments: 141",
       "source": "Hacker News",
       "published": "2026-07-21T18:30:21+00:00",
       "link": "https://cacm.acm.org/opinion/ai-didnt-make-programming-easier-it-just-made-it-differently-difficult/"
     },
     {
       "title": "Jack Dorsey launches Buzz to combine team chat, AI agents and Git hosting",
-      "summary": "https://x.com/jack/status/2079605800998146171, https://xcancel.com/jack/status/2079605800998146171https://buzz.xyz/ Comments URL: https://news.ycombinator.com/item?id=48995213 Points: 362 # Comments: 322",
+      "summary": "https://x.com/jack/status/2079605800998146171, https://xcancel.com/jack/status/2079605800998146171https://buzz.xyz/ Comments URL: https://news.ycombinator.com/item?id=48995213 Points: 367 # Comments: 325",
       "source": "Hacker News",
       "published": "2026-07-21T17:14:06+00:00",
       "link": "https://runtimewire.com/article/jack-dorsey-block-buzz-team-chat-ai-agents-git"
@@ -304,7 +367,7 @@ const FEED_DATA = {
     },
     {
       "title": "Meta's AI models are powering the first wave of Genesis Mission projects",
-      "summary": "https://www.energy.gov/undersecretaryforscience/genesis-miss... Comments URL: https://news.ycombinator.com/item?id=48995074 Points: 97 # Comments: 87",
+      "summary": "https://www.energy.gov/undersecretaryforscience/genesis-miss... Comments URL: https://news.ycombinator.com/item?id=48995074 Points: 97 # Comments: 88",
       "source": "Hacker News",
       "published": "2026-07-21T17:03:18+00:00",
       "link": "https://ai.meta.com/blog/genesis-mission-lawrence-berkeley-national-laboratory-segment-anything-dino/?_fb_noscript=1"
@@ -458,7 +521,7 @@ const FEED_DATA = {
     },
     {
       "title": "Five US tech giants' hidden debts soar to $1.65T on opaque AI funding",
-      "summary": "https://archive.ph/20260720174223/https://asia.nikkei.com/bu... Comments URL: https://news.ycombinator.com/item?id=48987863 Points: 363 # Comments: 259",
+      "summary": "https://archive.ph/20260720174223/https://asia.nikkei.com/bu... Comments URL: https://news.ycombinator.com/item?id=48987863 Points: 364 # Comments: 260",
       "source": "Hacker News",
       "published": "2026-07-21T03:56:03+00:00",
       "link": "https://asia.nikkei.com/business/technology/five-us-tech-giants-hidden-debts-soar-to-1.65tn-on-opaque-ai-funding"
@@ -556,7 +619,7 @@ const FEED_DATA = {
     },
     {
       "title": "How we measured AI writing across arXiv, and where the measurement breaks",
-      "summary": "Article URL: https://unslop.run/blog/measuring-ai-writing-on-arxiv Comments URL: https://news.ycombinator.com/item?id=48981206 Points: 242 # Comments: 168",
+      "summary": "Article URL: https://unslop.run/blog/measuring-ai-writing-on-arxiv Comments URL: https://news.ycombinator.com/item?id=48981206 Points: 242 # Comments: 169",
       "source": "Hacker News",
       "published": "2026-07-20T16:36:36+00:00",
       "link": "https://unslop.run/blog/measuring-ai-writing-on-arxiv"
@@ -591,7 +654,7 @@ const FEED_DATA = {
     },
     {
       "title": "Mythologizing AI makes it more likely that we’ll fail to operate it well (2023)",
-      "summary": "Article URL: https://www.newyorker.com/science/annals-of-artificial-intelligence/there-is-no-ai Comments URL: https://news.ycombinator.com/item?id=48980238 Points: 80 # Comments: 150",
+      "summary": "Article URL: https://www.newyorker.com/science/annals-of-artificial-intelligence/there-is-no-ai Comments URL: https://news.ycombinator.com/item?id=48980238 Points: 80 # Comments: 151",
       "source": "Hacker News",
       "published": "2026-07-20T15:28:32+00:00",
       "link": "https://www.newyorker.com/science/annals-of-artificial-intelligence/there-is-no-ai"
@@ -605,7 +668,7 @@ const FEED_DATA = {
     },
     {
       "title": "China’s open-weights AI strategy is winning",
-      "summary": "Article URL: https://werd.io/american-ai-is-locked-down-and-proprietary-its-losing/ Comments URL: https://news.ycombinator.com/item?id=48979269 Points: 1229 # Comments: 928",
+      "summary": "Article URL: https://werd.io/american-ai-is-locked-down-and-proprietary-its-losing/ Comments URL: https://news.ycombinator.com/item?id=48979269 Points: 1230 # Comments: 928",
       "source": "Hacker News",
       "published": "2026-07-20T14:21:47+00:00",
       "link": "https://werd.io/american-ai-is-locked-down-and-proprietary-its-losing/"
@@ -1337,69 +1400,6 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-07-16T09:07:58+00:00",
       "link": "https://the-decoder.com/gemma-4-gets-a-stealth-update-that-fixes-tool-calling-bugs-and-truncated-responses-under-the-same-name/"
-    },
-    {
-      "title": "Neko Health raises $700 million to expand AI body scans in the US",
-      "summary": "Neko Health has raised $700 million to expand its AI body scans in the United States, starting with a clinic in New York. The company’s preventive screening service combines medical imaging, blood tests, proprietary sensors, and clinician review.",
-      "source": "AI News",
-      "published": "2026-07-16T09:00:00+00:00",
-      "link": "https://www.artificialintelligence-news.com/news/neko-health-700m-ai-body-scans-us/"
-    },
-    {
-      "title": "xAI open-sources \"Grok-Build\" on GitHub after massive data breach",
-      "summary": "xAI's command-line tool \"Grok Build\" silently uploaded entire directories to Google Cloud servers, including SSH keys and password databases.",
-      "source": "The Decoder",
-      "published": "2026-07-16T07:56:21+00:00",
-      "link": "https://the-decoder.com/xai-open-sources-grok-build-on-github-after-massive-data-breach/"
-    },
-    {
-      "title": "Stop saying that AI is just a tool and it only matters how it is used",
-      "summary": "Article URL: https://www.frank.computer/blog/2025/05/just-a-tool.html Comments URL: https://news.ycombinator.com/item?id=48930363 Points: 106 # Comments: 115",
-      "source": "Hacker News",
-      "published": "2026-07-16T04:31:01+00:00",
-      "link": "https://www.frank.computer/blog/2025/05/just-a-tool.html"
-    },
-    {
-      "title": "Applied Computing wants to give oil and gas operators an AI model for the entire plant",
-      "summary": "Applied Computing has raised a $20M Series A to build a foundation AI model for the oil, gas and petrochemical industry.",
-      "source": "TechCrunch",
-      "published": "2026-07-16T04:00:00+00:00",
-      "link": "https://techcrunch.com/2026/07/15/applied-computing-wants-to-give-oil-and-gas-operators-an-ai-model-for-the-entire-plant/"
-    },
-    {
-      "title": "Microsoft is reportedly training salespeople to talk down OpenAI and Anthropic",
-      "summary": "Microsoft is looking to sell its in-house AI models as more efficient and cost-effective than its competitors' models.",
-      "source": "TechCrunch",
-      "published": "2026-07-15T23:59:44+00:00",
-      "link": "https://techcrunch.com/2026/07/15/microsoft-is-reportedly-training-salespeople-to-talk-down-openai-and-anthropic/"
-    },
-    {
-      "title": "Agentic orchestration: Enterprise AI organizations have a deployment problem, not a platform problem — and most are calling chatbots agents",
-      "summary": "Across 101 enterprises, agent orchestration is consolidating onto model-provider platforms — Anthropic’s Claude leads by a wide margin — chosen for the gravity of the underlying model and judged on reliable multi-step execution.",
-      "source": "VentureBeat",
-      "published": "2026-07-15T22:24:17+00:00",
-      "link": "https://venturebeat.com/ai/agentic-orchestration-enterprise-ai-organizations-have-a-deployment-problem-not-a-platform-problem-and-most-are-calling-chatbots-agents"
-    },
-    {
-      "title": "LLM Networking with MikroTik",
-      "summary": "Article URL: https://blog.greg.technology/2026/07/14/llm-networking-with-mikrotik.html Comments URL: https://news.ycombinator.com/item?id=48927915 Points: 103 # Comments: 57",
-      "source": "Hacker News",
-      "published": "2026-07-15T22:23:27+00:00",
-      "link": "https://blog.greg.technology/2026/07/14/llm-networking-with-mikrotik.html"
-    },
-    {
-      "title": "Sheetz is quitting VMware, migrating 11,000 virtual machines",
-      "summary": "The convenience store chain will use StorMagic instead.",
-      "source": "Ars Technica",
-      "published": "2026-07-15T21:41:56+00:00",
-      "link": "https://arstechnica.com/information-technology/2026/07/sheetz-moves-838-stores-off-vmware-broadcom-created-too-much-uncertainty/"
-    },
-    {
-      "title": "Sheetz moves 838 stores off VMware: Broadcom created “too much uncertainty\"",
-      "summary": "The conveneince store chain will use StorMagic instead.",
-      "source": "Ars Technica",
-      "published": "2026-07-15T21:41:56+00:00",
-      "link": "https://arstechnica.com/information-technology/2026/07/sheetz-moves-838-stores-off-vmware-broadcom-created-too-much-uncertainty/"
     }
   ]
 };
