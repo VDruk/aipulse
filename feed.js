@@ -1,6 +1,20 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-07-23T07:33:37.882847+00:00",
+  "lastUpdated": "2026-07-23T10:55:09.544163+00:00",
   "items": [
+    {
+      "title": "AMD to invest up to $5 billion in Anthropic under AI infrastructure deal",
+      "summary": "AMD has agreed to invest up to $5 billion in Anthropic under an infrastructure agreement covering tens of billions of dollars’ worth of AI systems.",
+      "source": "AI News",
+      "published": "2026-07-23T10:00:00+00:00",
+      "link": "https://www.artificialintelligence-news.com/news/amd-anthropic-ai-infrastructure-deal/"
+    },
+    {
+      "title": "Remember Jibo? Its Successor Is a Wearable That Turns Your Life Into AI Slop",
+      "summary": "With “blessings” from the original Jibo founders, iKairos is a wearable or desk-mounted “AI journal” that turns your family moments into AI images and video.",
+      "source": "Wired",
+      "published": "2026-07-23T09:15:00+00:00",
+      "link": "https://www.wired.com/story/the-beloved-jibo-robot-is-being-resurrected-as-an-ai-wearable/"
+    },
     {
       "title": "ServiceNow bets $40 million on Indian banking software specialist to expand its financial services push",
       "summary": "ServiceNow's investment gives BusinessNext a strategic partner to expand its AI-powered banking software globally.",
@@ -80,7 +94,7 @@ const FEED_DATA = {
     },
     {
       "title": "Are AI labs pelicanmaxxing?",
-      "summary": "Article URL: https://dylancastillo.co/posts/pelicanmaxxing.html Comments URL: https://news.ycombinator.com/item?id=49010129 Points: 425 # Comments: 163",
+      "summary": "Article URL: https://dylancastillo.co/posts/pelicanmaxxing.html Comments URL: https://news.ycombinator.com/item?id=49010129 Points: 558 # Comments: 214",
       "source": "Hacker News",
       "published": "2026-07-22T17:17:54+00:00",
       "link": "https://dylancastillo.co/posts/pelicanmaxxing.html"
@@ -150,14 +164,14 @@ const FEED_DATA = {
     },
     {
       "title": "Most Americans say \"not in my backyard\" to AI data centers",
-      "summary": "Article URL: https://www.redfin.com/news/ai-data-centers-opposition-education-benefit/ Comments URL: https://news.ycombinator.com/item?id=49007525 Points: 133 # Comments: 282",
+      "summary": "Article URL: https://www.redfin.com/news/ai-data-centers-opposition-education-benefit/ Comments URL: https://news.ycombinator.com/item?id=49007525 Points: 138 # Comments: 290",
       "source": "Hacker News",
       "published": "2026-07-22T14:34:27+00:00",
       "link": "https://www.redfin.com/news/ai-data-centers-opposition-education-benefit/"
     },
     {
       "title": "Quality non-fiction books are the antithesis of AI slop",
-      "summary": "https://book-prize-index.vercel.app/ Comments URL: https://news.ycombinator.com/item?id=49007247 Points: 217 # Comments: 92",
+      "summary": "https://book-prize-index.vercel.app/ Comments URL: https://news.ycombinator.com/item?id=49007247 Points: 378 # Comments: 134",
       "source": "Hacker News",
       "published": "2026-07-22T14:18:05+00:00",
       "link": "https://resobscura.substack.com/p/quality-non-fiction-books-are-the"
@@ -185,7 +199,7 @@ const FEED_DATA = {
     },
     {
       "title": "Businesses with ugly AI menu redesigns",
-      "summary": "Article URL: https://blog.fiddery.com/businesses-with-ugly-ai-menu-redesigns/ Comments URL: https://news.ycombinator.com/item?id=49005973 Points: 210 # Comments: 160",
+      "summary": "Article URL: https://blog.fiddery.com/businesses-with-ugly-ai-menu-redesigns/ Comments URL: https://news.ycombinator.com/item?id=49005973 Points: 311 # Comments: 211",
       "source": "Hacker News",
       "published": "2026-07-22T12:49:45+00:00",
       "link": "https://blog.fiddery.com/businesses-with-ugly-ai-menu-redesigns/"
@@ -199,7 +213,7 @@ const FEED_DATA = {
     },
     {
       "title": "OpenAI says its AI went rogue and launched 'unprecedented' cyber-attack",
-      "summary": "Article URL: https://www.bbc.com/news/articles/c3ek3gvdnj3o Comments URL: https://news.ycombinator.com/item?id=49005398 Points: 75 # Comments: 99",
+      "summary": "Article URL: https://www.bbc.com/news/articles/c3ek3gvdnj3o Comments URL: https://news.ycombinator.com/item?id=49005398 Points: 76 # Comments: 101",
       "source": "Hacker News",
       "published": "2026-07-22T12:03:32+00:00",
       "link": "https://www.bbc.com/news/articles/c3ek3gvdnj3o"
@@ -297,7 +311,7 @@ const FEED_DATA = {
     },
     {
       "title": "\"Drawing\" the Mona Lisa with GPT-5.6, Claude, Gemini, and Grok",
-      "summary": "Article URL: https://www.tryai.dev/blog/ai-drawing-arena-colored-pencils-claude-gpt-grok Comments URL: https://news.ycombinator.com/item?id=48998404 Points: 246 # Comments: 103",
+      "summary": "Article URL: https://www.tryai.dev/blog/ai-drawing-arena-colored-pencils-claude-gpt-grok Comments URL: https://news.ycombinator.com/item?id=48998404 Points: 248 # Comments: 103",
       "source": "Hacker News",
       "published": "2026-07-21T21:13:20+00:00",
       "link": "https://www.tryai.dev/blog/ai-drawing-arena-colored-pencils-claude-gpt-grok"
@@ -367,14 +381,14 @@ const FEED_DATA = {
     },
     {
       "title": "AI makes programming differently difficult",
-      "summary": "Article URL: https://cacm.acm.org/opinion/ai-didnt-make-programming-easier-it-just-made-it-differently-difficult/ Comments URL: https://news.ycombinator.com/item?id=48996197 Points: 161 # Comments: 141",
+      "summary": "Article URL: https://cacm.acm.org/opinion/ai-didnt-make-programming-easier-it-just-made-it-differently-difficult/ Comments URL: https://news.ycombinator.com/item?id=48996197 Points: 162 # Comments: 141",
       "source": "Hacker News",
       "published": "2026-07-21T18:30:21+00:00",
       "link": "https://cacm.acm.org/opinion/ai-didnt-make-programming-easier-it-just-made-it-differently-difficult/"
     },
     {
       "title": "Jack Dorsey launches Buzz to combine team chat, AI agents and Git hosting",
-      "summary": "https://x.com/jack/status/2079605800998146171, https://xcancel.com/jack/status/2079605800998146171https://buzz.xyz/ Comments URL: https://news.ycombinator.com/item?id=48995213 Points: 368 # Comments: 326",
+      "summary": "https://x.com/jack/status/2079605800998146171, https://xcancel.com/jack/status/2079605800998146171https://buzz.xyz/ Comments URL: https://news.ycombinator.com/item?id=48995213 Points: 371 # Comments: 326",
       "source": "Hacker News",
       "published": "2026-07-21T17:14:06+00:00",
       "link": "https://runtimewire.com/article/jack-dorsey-block-buzz-team-chat-ai-agents-git"
@@ -395,7 +409,7 @@ const FEED_DATA = {
     },
     {
       "title": "Meta's AI models are powering the first wave of Genesis Mission projects",
-      "summary": "https://www.energy.gov/undersecretaryforscience/genesis-miss... Comments URL: https://news.ycombinator.com/item?id=48995074 Points: 97 # Comments: 88",
+      "summary": "https://www.energy.gov/undersecretaryforscience/genesis-miss... Comments URL: https://news.ycombinator.com/item?id=48995074 Points: 98 # Comments: 88",
       "source": "Hacker News",
       "published": "2026-07-21T17:03:18+00:00",
       "link": "https://ai.meta.com/blog/genesis-mission-lawrence-berkeley-national-laboratory-segment-anything-dino/?_fb_noscript=1"
@@ -682,7 +696,7 @@ const FEED_DATA = {
     },
     {
       "title": "Mythologizing AI makes it more likely that we’ll fail to operate it well (2023)",
-      "summary": "Article URL: https://www.newyorker.com/science/annals-of-artificial-intelligence/there-is-no-ai Comments URL: https://news.ycombinator.com/item?id=48980238 Points: 80 # Comments: 152",
+      "summary": "Article URL: https://www.newyorker.com/science/annals-of-artificial-intelligence/there-is-no-ai Comments URL: https://news.ycombinator.com/item?id=48980238 Points: 80 # Comments: 154",
       "source": "Hacker News",
       "published": "2026-07-20T15:28:32+00:00",
       "link": "https://www.newyorker.com/science/annals-of-artificial-intelligence/there-is-no-ai"
@@ -696,7 +710,7 @@ const FEED_DATA = {
     },
     {
       "title": "China’s open-weights AI strategy is winning",
-      "summary": "Article URL: https://werd.io/american-ai-is-locked-down-and-proprietary-its-losing/ Comments URL: https://news.ycombinator.com/item?id=48979269 Points: 1231 # Comments: 929",
+      "summary": "Article URL: https://werd.io/american-ai-is-locked-down-and-proprietary-its-losing/ Comments URL: https://news.ycombinator.com/item?id=48979269 Points: 1234 # Comments: 930",
       "source": "Hacker News",
       "published": "2026-07-20T14:21:47+00:00",
       "link": "https://werd.io/american-ai-is-locked-down-and-proprietary-its-losing/"
@@ -1386,20 +1400,6 @@ const FEED_DATA = {
       "source": "MIT Tech Review",
       "published": "2026-07-16T12:10:00+00:00",
       "link": "https://www.technologyreview.com/2026/07/16/1140600/the-download-openai-unveils-gpt-red-heat-pumps-rise-us/"
-    },
-    {
-      "title": "Google ordered to open Android and Search to rivals in Europe",
-      "summary": "Google must give rival AI assistants and search engines greater access to key parts of Android and Google Search after the European Union ordered the company to comply with the bloc's digital antitrust rules.",
-      "source": "The Verge",
-      "published": "2026-07-16T12:06:51+00:00",
-      "link": "https://www.theverge.com/policy/966438/eu-google-android-ai-interoperability-search-data-dma"
-    },
-    {
-      "title": "The LLM Critics Are Right. I Use LLMs Anyway",
-      "summary": "Article URL: https://www.theocharis.dev/blog/llm-critics-are-right-i-use-llms-anyway/ Comments URL: https://news.ycombinator.com/item?id=48933310 Points: 301 # Comments: 301",
-      "source": "Hacker News",
-      "published": "2026-07-16T11:59:01+00:00",
-      "link": "https://www.theocharis.dev/blog/llm-critics-are-right-i-use-llms-anyway/"
     }
   ]
 };
