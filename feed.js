@@ -1,6 +1,55 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-07-23T18:08:11.524562+00:00",
+  "lastUpdated": "2026-07-23T21:58:28.477869+00:00",
   "items": [
+    {
+      "title": "Alexa Plus is getting an AI update to handle more complicated instructions",
+      "summary": "Amazon is launching an update to its Alexa Plus assistant that will allow it to connect to smart home devices in new ways.",
+      "source": "The Verge",
+      "published": "2026-07-23T21:15:06+00:00",
+      "link": "https://www.theverge.com/tech/970399/amazon-alexa-plus-ai-update-smart-home-devices"
+    },
+    {
+      "title": "AMD takes on Nvidia with its Helios AI rack-scale system",
+      "summary": "AMD is challenging its chipmaker rival with a new rack-scale system that will start shipping to customers later this year.",
+      "source": "TechCrunch",
+      "published": "2026-07-23T20:33:02+00:00",
+      "link": "https://techcrunch.com/2026/07/23/amd-takes-on-nvidia-with-its-helios-ai-rack-scale-system/"
+    },
+    {
+      "title": "ChatGPT will give you worse health advice if you don't pay",
+      "summary": "OpenAI is rolling out \"Health in ChatGPT\" to U.S. users, connecting Apple Health, medical records, and wellness apps.",
+      "source": "The Decoder",
+      "published": "2026-07-23T19:30:51+00:00",
+      "link": "https://the-decoder.com/chatgpt-will-give-you-worse-health-advice-if-you-dont-pay/"
+    },
+    {
+      "title": "Anthropic updates Claude voice mode with more capable models",
+      "summary": "Claude's new voice model will let you reschedule your meeting or draft an email.",
+      "source": "TechCrunch",
+      "published": "2026-07-23T19:00:00+00:00",
+      "link": "https://techcrunch.com/2026/07/23/anthropic-updates-claude-voice-mode-with-more-capable-models/"
+    },
+    {
+      "title": "Claude’s voice mode is now available for Opus and Sonnet",
+      "summary": "Until now, voice mode has only been available on Claude Haiku, Anthropic's faster but less powerful model. Now the company is making its Opus and Sonnet models available in voice mode, and extending its reach into apps like Gmail, Slack, and Canva.",
+      "source": "The Verge",
+      "published": "2026-07-23T19:00:00+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/970065/anthropic-voice-mode-claude-opus-sonnet-haiku-ai"
+    },
+    {
+      "title": "Meta’s New Feel-Good AI Ad Uses a Song About the World Ending",
+      "summary": "The clip features the David Bowie track “Five Years,” which includes lyrics such as “Earth was really dying (dying).”",
+      "source": "Wired",
+      "published": "2026-07-23T18:45:52+00:00",
+      "link": "https://www.wired.com/story/meta-david-bowie-apocalypse-ad-is-optimistic-actually/"
+    },
+    {
+      "title": "AegisAI, founded by former Google security execs, lands $36M to stop AI-driven spear phishing",
+      "summary": "AegisAI co-founders developed AI agents that quickly analyze each message as a human would, paying attention to small anomalies that even the most elaborate checklist wouldn’t catch.",
+      "source": "TechCrunch",
+      "published": "2026-07-23T18:38:34+00:00",
+      "link": "https://techcrunch.com/2026/07/23/aegisai-founded-by-former-google-security-execs-lands-36m-to-stop-ai-driven-spear-phishing/"
+    },
     {
       "title": "Flux 3 generates videos with native audio up to 20 seconds long, a first for Black Forest Labs",
       "summary": "Black Forest Labs has released Flux 3, a multimodal foundation model that learns from images, video, and audio and can generate video with native sound for the first time.",
@@ -10,7 +59,7 @@ const FEED_DATA = {
     },
     {
       "title": "Runway launches AI model router as generative media gets crowded",
-      "summary": "Runway no longer wants to be just another AI model company. It wants to become the infrastructure layer for generative media.",
+      "summary": "The Media Router is a tool that automatically selects the best image, video, or audio generation model for a request based on whether a developer prioritizes quality, speed or cost.",
       "source": "TechCrunch",
       "published": "2026-07-23T17:07:35+00:00",
       "link": "https://techcrunch.com/2026/07/23/runway-bets-on-ai-model-routing-as-generative-media-gets-crowded/"
@@ -37,6 +86,13 @@ const FEED_DATA = {
       "link": "https://www.theverge.com/ai-artificial-intelligence/970115/openai-chatgpt-health-launch-claims"
     },
     {
+      "title": "The arguments against open source AI are bad",
+      "summary": "Article URL: https://tombedor.dev/arguments-against-open-source-ai-are-very-bad/ Comments URL: https://news.ycombinator.com/item?id=49024643 Points: 152 # Comments: 110",
+      "source": "Hacker News",
+      "published": "2026-07-23T16:49:57+00:00",
+      "link": "https://tombedor.dev/arguments-against-open-source-ai-are-very-bad/"
+    },
+    {
       "title": "Meta launched a new AI optimism ad set to a song about human extinction",
       "summary": "David Bowie's song \"Five Years,\" which Meta used in a supposedly inspiring advertisement, is about humans learning that they have five years left to live before the apocalypse.",
       "source": "TechCrunch",
@@ -44,11 +100,25 @@ const FEED_DATA = {
       "link": "https://techcrunch.com/2026/07/23/meta-launched-a-new-ai-optimism-ad-set-to-a-song-about-human-extinction/"
     },
     {
+      "title": "Show HN: OneCLI – OSS credential gateway that keeps secrets out of AI agents",
+      "summary": "hey HN, Jonathan and Guy here, creators of OneCLI (https://onecli.sh/). OneCLI is an open source vault for AI Agents.Traditional vaults are used to store your secrets and, on demand, provide them to you all in a secure way, trusting the person to keep them safe.",
+      "source": "Hacker News",
+      "published": "2026-07-23T15:42:40+00:00",
+      "link": "https://github.com/onecli/onecli"
+    },
+    {
       "title": "Startup founders urge U.S. government not to shut off Chinese open weight AI",
-      "summary": "https://littletech.org/https://static.politico.com/4a/bf/9c4021d8404386b0a311dcccf0... Comments URL: https://news.ycombinator.com/item?id=49023016 Points: 349 # Comments: 351",
+      "summary": "https://littletech.org/https://static.politico.com/4a/bf/9c4021d8404386b0a311dcccf0... Comments URL: https://news.ycombinator.com/item?id=49023016 Points: 608 # Comments: 576",
       "source": "Hacker News",
       "published": "2026-07-23T15:18:40+00:00",
       "link": "https://www.politico.com/news/2026/07/22/startup-founders-urge-trump-not-to-shut-off-chinese-open-weight-ai-01008992"
+    },
+    {
+      "title": "Show HN: Palmier Pro – Open-source macOS video editor built for AI",
+      "summary": "Hi HN, we are Marcos and Harrison, cofounders of Palmier (https://palmier.io). We are building Palmier Pro, an open source macOS video editor, with built-in AI generation and a local MCP server that connects to your agent.",
+      "source": "Hacker News",
+      "published": "2026-07-23T15:11:37+00:00",
+      "link": "https://github.com/palmier-io/palmier-pro"
     },
     {
       "title": "Nvidia is sending GPUs to the moon",
@@ -73,7 +143,7 @@ const FEED_DATA = {
     },
     {
       "title": "How much energy do data centers and artificial intelligence use?",
-      "summary": "Article URL: https://ourworldindata.org/how-much-energy-do-data-centers-and-artificial-intelligence-use Comments URL: https://news.ycombinator.com/item?id=49022412 Points: 56 # Comments: 58",
+      "summary": "Article URL: https://ourworldindata.org/how-much-energy-do-data-centers-and-artificial-intelligence-use Comments URL: https://news.ycombinator.com/item?id=49022412 Points: 66 # Comments: 68",
       "source": "Hacker News",
       "published": "2026-07-23T14:40:30+00:00",
       "link": "https://ourworldindata.org/how-much-energy-do-data-centers-and-artificial-intelligence-use"
@@ -86,8 +156,8 @@ const FEED_DATA = {
       "link": "https://www.theverge.com/ai-artificial-intelligence/969939/lawmakers-ai-kill-switch-proposal"
     },
     {
-      "title": "I Think You Might Be Fooling Yourself with AI",
-      "summary": "Article URL: https://louwrentius.com/i-think-you-might-be-fooling-yourself-with-ai.html Comments URL: https://news.ycombinator.com/item?id=49021843 Points: 69 # Comments: 120",
+      "title": "I think you might be fooling yourself with AI",
+      "summary": "Article URL: https://louwrentius.com/i-think-you-might-be-fooling-yourself-with-ai.html Comments URL: https://news.ycombinator.com/item?id=49021843 Points: 75 # Comments: 153",
       "source": "Hacker News",
       "published": "2026-07-23T14:05:43+00:00",
       "link": "https://louwrentius.com/i-think-you-might-be-fooling-yourself-with-ai.html"
@@ -101,28 +171,28 @@ const FEED_DATA = {
     },
     {
       "title": "DARPA, U.S. Air Force fly AI-controlled F-16",
-      "summary": "Article URL: https://www.darpa.mil/news/2026/darpa-us-air-force-fly-ai-controlled-f-16 Comments URL: https://news.ycombinator.com/item?id=49021597 Points: 53 # Comments: 49",
+      "summary": "Article URL: https://www.darpa.mil/news/2026/darpa-us-air-force-fly-ai-controlled-f-16 Comments URL: https://news.ycombinator.com/item?id=49021597 Points: 135 # Comments: 148",
       "source": "Hacker News",
       "published": "2026-07-23T13:51:36+00:00",
       "link": "https://www.darpa.mil/news/2026/darpa-us-air-force-fly-ai-controlled-f-16"
     },
     {
       "title": "Alphabet's cash burn raises alarm for Big Tech as AI spending climbs",
-      "summary": "Article URL: https://www.reuters.com/business/retail-consumer/alphabets-cash-burn-raises-alarm-big-tech-ai-spending-climbs-2026-07-23/ Comments URL: https://news.ycombinator.com/item?id=49021006 Points: 236 # Comments: 238",
+      "summary": "Article URL: https://www.reuters.com/business/retail-consumer/alphabets-cash-burn-raises-alarm-big-tech-ai-spending-climbs-2026-07-23/ Comments URL: https://news.ycombinator.com/item?id=49021006 Points: 251 # Comments: 259",
       "source": "Hacker News",
       "published": "2026-07-23T13:10:02+00:00",
       "link": "https://www.reuters.com/business/retail-consumer/alphabets-cash-burn-raises-alarm-big-tech-ai-spending-climbs-2026-07-23/"
     },
     {
       "title": "AI Companies Are Trying to Hide a Staggering Amount of Debt",
-      "summary": "Article URL: https://futurism.com/artificial-intelligence/ai-companies-hide-debt-off-balance-sheet Comments URL: https://news.ycombinator.com/item?id=49020999 Points: 381 # Comments: 177",
+      "summary": "Article URL: https://futurism.com/artificial-intelligence/ai-companies-hide-debt-off-balance-sheet Comments URL: https://news.ycombinator.com/item?id=49020999 Points: 529 # Comments: 253",
       "source": "Hacker News",
       "published": "2026-07-23T13:09:10+00:00",
       "link": "https://futurism.com/artificial-intelligence/ai-companies-hide-debt-off-balance-sheet"
     },
     {
       "title": "OpenAI and Anthropic unite against open-weight AI risks to their bottom line",
-      "summary": "Article URL: https://www.axios.com/2026/07/22/openai-anthropic-open-models-trump-china Comments URL: https://news.ycombinator.com/item?id=49020868 Points: 252 # Comments: 285",
+      "summary": "Article URL: https://www.axios.com/2026/07/22/openai-anthropic-open-models-trump-china Comments URL: https://news.ycombinator.com/item?id=49020868 Points: 271 # Comments: 311",
       "source": "Hacker News",
       "published": "2026-07-23T13:00:03+00:00",
       "link": "https://www.axios.com/2026/07/22/openai-anthropic-open-models-trump-china"
@@ -136,7 +206,7 @@ const FEED_DATA = {
     },
     {
       "title": "Understanding the AI Economy",
-      "summary": "Article URL: https://blog.google/innovation-and-ai/technology/research/understanding-the-ai-economy/ Comments URL: https://news.ycombinator.com/item?id=49020335 Points: 71 # Comments: 133",
+      "summary": "Article URL: https://blog.google/innovation-and-ai/technology/research/understanding-the-ai-economy/ Comments URL: https://news.ycombinator.com/item?id=49020335 Points: 72 # Comments: 136",
       "source": "Hacker News",
       "published": "2026-07-23T12:11:05+00:00",
       "link": "https://blog.google/innovation-and-ai/technology/research/understanding-the-ai-economy/"
@@ -171,7 +241,7 @@ const FEED_DATA = {
     },
     {
       "title": "New Framework Desktop Option with AMD Ryzen AI Max+ Pro 495 and 192GB Memory",
-      "summary": "Article URL: https://frame.work/desktop?tab=192gb-coming-soon Comments URL: https://news.ycombinator.com/item?id=49019694 Points: 71 # Comments: 102",
+      "summary": "Article URL: https://frame.work/desktop?tab=192gb-coming-soon Comments URL: https://news.ycombinator.com/item?id=49019694 Points: 74 # Comments: 107",
       "source": "Hacker News",
       "published": "2026-07-23T11:09:48+00:00",
       "link": "https://frame.work/desktop?tab=192gb-coming-soon"
@@ -276,7 +346,7 @@ const FEED_DATA = {
     },
     {
       "title": "Are AI labs pelicanmaxxing?",
-      "summary": "Article URL: https://dylancastillo.co/posts/pelicanmaxxing.html Comments URL: https://news.ycombinator.com/item?id=49010129 Points: 646 # Comments: 237",
+      "summary": "Article URL: https://dylancastillo.co/posts/pelicanmaxxing.html Comments URL: https://news.ycombinator.com/item?id=49010129 Points: 656 # Comments: 237",
       "source": "Hacker News",
       "published": "2026-07-22T17:17:54+00:00",
       "link": "https://dylancastillo.co/posts/pelicanmaxxing.html"
@@ -346,14 +416,14 @@ const FEED_DATA = {
     },
     {
       "title": "Most Americans say \"not in my backyard\" to AI data centers",
-      "summary": "Article URL: https://www.redfin.com/news/ai-data-centers-opposition-education-benefit/ Comments URL: https://news.ycombinator.com/item?id=49007525 Points: 142 # Comments: 298",
+      "summary": "Article URL: https://www.redfin.com/news/ai-data-centers-opposition-education-benefit/ Comments URL: https://news.ycombinator.com/item?id=49007525 Points: 143 # Comments: 300",
       "source": "Hacker News",
       "published": "2026-07-22T14:34:27+00:00",
       "link": "https://www.redfin.com/news/ai-data-centers-opposition-education-benefit/"
     },
     {
       "title": "Quality non-fiction books are the antithesis of AI slop",
-      "summary": "https://book-prize-index.vercel.app/ Comments URL: https://news.ycombinator.com/item?id=49007247 Points: 467 # Comments: 225",
+      "summary": "https://book-prize-index.vercel.app/ Comments URL: https://news.ycombinator.com/item?id=49007247 Points: 477 # Comments: 232",
       "source": "Hacker News",
       "published": "2026-07-22T14:18:05+00:00",
       "link": "https://resobscura.substack.com/p/quality-non-fiction-books-are-the"
@@ -381,7 +451,7 @@ const FEED_DATA = {
     },
     {
       "title": "Businesses with ugly AI menu redesigns",
-      "summary": "Article URL: https://blog.fiddery.com/businesses-with-ugly-ai-menu-redesigns/ Comments URL: https://news.ycombinator.com/item?id=49005973 Points: 362 # Comments: 290",
+      "summary": "Article URL: https://blog.fiddery.com/businesses-with-ugly-ai-menu-redesigns/ Comments URL: https://news.ycombinator.com/item?id=49005973 Points: 367 # Comments: 297",
       "source": "Hacker News",
       "published": "2026-07-22T12:49:45+00:00",
       "link": "https://blog.fiddery.com/businesses-with-ugly-ai-menu-redesigns/"
@@ -1330,76 +1400,6 @@ const FEED_DATA = {
       "source": "Wired",
       "published": "2026-07-17T10:00:00+00:00",
       "link": "https://www.wired.com/story/san-francisco-demands-apple-and-google-delete-ai-nudify-apps-from-app-stores/"
-    },
-    {
-      "title": "The risk of weather data sabotage is rising",
-      "summary": "Every morning, airline dispatchers, grid operators, and farmers around the world make decisions based on the same thing: a weather forecast.",
-      "source": "MIT Tech Review",
-      "published": "2026-07-17T08:57:32+00:00",
-      "link": "https://www.technologyreview.com/2026/07/17/1140622/weather-data-sabotage/"
-    },
-    {
-      "title": "Netflix's 300 AI productions show how fast the technology is spreading through entertainment",
-      "summary": "Netflix now uses AI in about 300 productions, mostly in post-production. Co-CEO Ted Sarandos put specific numbers to the effort: the docuseries \"The American Experiment\" includes 17 minutes of AI-assisted footage, produced twice as fast at half the cost.",
-      "source": "The Decoder",
-      "published": "2026-07-17T08:53:31+00:00",
-      "link": "https://the-decoder.com/netflixs-300-ai-productions-show-how-fast-the-technology-is-spreading-through-entertainment/"
-    },
-    {
-      "title": "Why Apple Sued OpenAI, New York Takes on Data Centers, and What to Know about Cyclosporiasis",
-      "summary": "On today’s Uncanny Valley, we unpack OpenAI’s ongoing drama, both legal and reputational, and whether these developments could further hurt the company—particularly in its fight against Anthropic.",
-      "source": "Wired",
-      "published": "2026-07-16T22:17:27+00:00",
-      "link": "https://www.wired.com/story/uncanny-valley-podcase-apple-sued-openai-new-york-data-center-moratorium-cyclosporiasis-outbreak/"
-    },
-    {
-      "title": "LM Studio Bionic: the AI agent for open models",
-      "summary": "Article URL: https://lmstudio.ai/blog/introducing-lm-studio-bionic Comments URL: https://news.ycombinator.com/item?id=48939662 Points: 329 # Comments: 132",
-      "source": "Hacker News",
-      "published": "2026-07-16T20:18:15+00:00",
-      "link": "https://lmstudio.ai/blog/introducing-lm-studio-bionic"
-    },
-    {
-      "title": "Kimi K3 Intelligence, Performance and Price Analysis",
-      "summary": "Article URL: https://artificialanalysis.ai/models/kimi-k3 Comments URL: https://news.ycombinator.com/item?id=48939580 Points: 51 # Comments: 2",
-      "source": "Hacker News",
-      "published": "2026-07-16T20:09:46+00:00",
-      "link": "https://artificialanalysis.ai/models/kimi-k3"
-    },
-    {
-      "title": "$100 AI Music Video: Claude Fable 5 vs. GPT-5.6 Sol",
-      "summary": "Article URL: https://www.tryai.dev/blog/ai-music-video-arena-claude-vs-gpt-5.6 Comments URL: https://news.ycombinator.com/item?id=48939524 Points: 396 # Comments: 536",
-      "source": "Hacker News",
-      "published": "2026-07-16T20:03:23+00:00",
-      "link": "https://www.tryai.dev/blog/ai-music-video-arena-claude-vs-gpt-5.6"
-    },
-    {
-      "title": "Kimi's open model K3 nears GPT-5.6 Sol and Fable 5 while signaling the end of super cheap Chinese AI",
-      "summary": "Kimi is launching K3, a multimodal open-weight model with 2.8 trillion parameters and one million tokens of context. In the company's own benchmarks, it comes close to Claude Fable 5 and GPT 5.6 Sol while beating Opus 4.8 and GLM 5.2, in some cases by a wide margin.",
-      "source": "The Decoder",
-      "published": "2026-07-16T19:49:39+00:00",
-      "link": "https://the-decoder.com/kimis-open-model-k3-nears-gpt-5-6-sol-and-fable-5-while-signaling-the-end-of-super-cheap-chinese-ai/"
-    },
-    {
-      "title": "The AI compute gap: Enterprises are buying infrastructure faster than they can measure what it costs",
-      "summary": "Across 107 enterprises, AI infrastructure spending is accelerating well ahead of the ability to see or steer its economics.",
-      "source": "VentureBeat",
-      "published": "2026-07-16T19:16:48+00:00",
-      "link": "https://venturebeat.com/ai/the-ai-compute-gap-enterprises-are-buying-infrastructure-faster-than-they-can-measure-what-it-costs"
-    },
-    {
-      "title": "The agent security gap: 54% of enterprises have already had an AI agent incident, and most still let agents share credentials",
-      "summary": "Across 107 enterprises, AI agents are being given real access to systems and data while the controls meant to contain them lag behind.",
-      "source": "VentureBeat",
-      "published": "2026-07-16T19:02:38+00:00",
-      "link": "https://venturebeat.com/ai/the-agent-security-gap-54-of-enterprises-have-already-had-an-ai-agent-incident-and-most-still-let-agents-share-credentials"
-    },
-    {
-      "title": "Here’s Why Anthropic Is Pushing States to Regulate AI Faster",
-      "summary": "The company endorsed landmark AI transparency laws in California and New York last year, but its head of US state and local policy says they may already be outdated.",
-      "source": "Wired",
-      "published": "2026-07-16T18:35:18+00:00",
-      "link": "https://www.wired.com/story/why-anthropic-is-pushing-states-to-regulate-ai-faster/"
     }
   ]
 };
