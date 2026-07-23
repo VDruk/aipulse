@@ -1,6 +1,62 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-07-23T15:10:00.034903+00:00",
+  "lastUpdated": "2026-07-23T18:08:11.524562+00:00",
   "items": [
+    {
+      "title": "Flux 3 generates videos with native audio up to 20 seconds long, a first for Black Forest Labs",
+      "summary": "Black Forest Labs has released Flux 3, a multimodal foundation model that learns from images, video, and audio and can generate video with native sound for the first time.",
+      "source": "The Decoder",
+      "published": "2026-07-23T18:03:01+00:00",
+      "link": "https://the-decoder.com/flux-3-generates-videos-with-native-audio-up-to-20-seconds-long-a-first-for-black-forest-labs/"
+    },
+    {
+      "title": "Runway launches AI model router as generative media gets crowded",
+      "summary": "Runway no longer wants to be just another AI model company. It wants to become the infrastructure layer for generative media.",
+      "source": "TechCrunch",
+      "published": "2026-07-23T17:07:35+00:00",
+      "link": "https://techcrunch.com/2026/07/23/runway-bets-on-ai-model-routing-as-generative-media-gets-crowded/"
+    },
+    {
+      "title": "One tampered ChatGPT link could spawn a rogue AI agent that took orders from an attacker every five minutes",
+      "summary": "Zenity Labs uncovered \"AgentForger,\" a vulnerability in OpenAI's Agent Builder that let a single manipulated ChatGPT link create an autonomous agent on an employee's behalf.",
+      "source": "The Decoder",
+      "published": "2026-07-23T17:01:30+00:00",
+      "link": "https://the-decoder.com/one-tampered-chatgpt-link-could-spawn-a-rogue-ai-agent-that-took-orders-from-an-attacker-every-five-minutes/"
+    },
+    {
+      "title": "OpenAI makes ChatGPT Health available to all US users",
+      "summary": "Users can also integrate their personal data from services like Apple Health, Function, and MyFitnessPal.",
+      "source": "TechCrunch",
+      "published": "2026-07-23T17:00:00+00:00",
+      "link": "https://techcrunch.com/2026/07/23/openai-makes-chatgpt-health-available-to-all-u-s-users/"
+    },
+    {
+      "title": "OpenAI is making big claims as it rolls out ChatGPT Health to everyone",
+      "summary": "OpenAI is rolling out ChatGPT Health to everyone in the US on Thursday, allowing more people to connect their medical records and health-tracking information to the chatbot.",
+      "source": "The Verge",
+      "published": "2026-07-23T17:00:00+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/970115/openai-chatgpt-health-launch-claims"
+    },
+    {
+      "title": "Meta launched a new AI optimism ad set to a song about human extinction",
+      "summary": "David Bowie's song \"Five Years,\" which Meta used in a supposedly inspiring advertisement, is about humans learning that they have five years left to live before the apocalypse.",
+      "source": "TechCrunch",
+      "published": "2026-07-23T16:28:50+00:00",
+      "link": "https://techcrunch.com/2026/07/23/meta-launched-a-new-ai-optimism-ad-set-to-a-song-about-human-extinction/"
+    },
+    {
+      "title": "Startup founders urge U.S. government not to shut off Chinese open weight AI",
+      "summary": "https://littletech.org/https://static.politico.com/4a/bf/9c4021d8404386b0a311dcccf0... Comments URL: https://news.ycombinator.com/item?id=49023016 Points: 349 # Comments: 351",
+      "source": "Hacker News",
+      "published": "2026-07-23T15:18:40+00:00",
+      "link": "https://www.politico.com/news/2026/07/22/startup-founders-urge-trump-not-to-shut-off-chinese-open-weight-ai-01008992"
+    },
+    {
+      "title": "Nvidia is sending GPUs to the moon",
+      "summary": "If there's a place in the universe without GPUs, Nvidia is sending them there.",
+      "source": "TechCrunch",
+      "published": "2026-07-23T15:00:00+00:00",
+      "link": "https://techcrunch.com/2026/07/23/nvidia-is-sending-gpus-to-the-moon/"
+    },
     {
       "title": "AI chip startup Etched defies skeptics, hits $10.3B valuation from big-name investors",
       "summary": "Etched, founded by three Harvard dropouts, has created new chips and memory components that speed up inference on any AI model -- no GPUs required, it says.",
@@ -9,11 +65,18 @@ const FEED_DATA = {
       "link": "https://techcrunch.com/2026/07/23/ai-chip-startup-etched-defies-skeptics-hits-10-3b-valuation-from-big-name-investors/"
     },
     {
-      "title": "Nvidia is sending GPUs to the Moon",
-      "summary": "If there's a place in the universe without GPUs, Nvidia is sending them there.",
+      "title": "Google’s Gemini nears billion-user milestone",
+      "summary": "Gemini had over 750 million monthly users in February.",
       "source": "TechCrunch",
-      "published": "2026-07-23T15:00:00+00:00",
-      "link": "https://techcrunch.com/2026/07/23/nvidia-is-sending-gpus-to-the-moon/"
+      "published": "2026-07-23T14:52:44+00:00",
+      "link": "https://techcrunch.com/2026/07/23/google-closes-in-on-another-billion-user-product-with-gemini/"
+    },
+    {
+      "title": "How much energy do data centers and artificial intelligence use?",
+      "summary": "Article URL: https://ourworldindata.org/how-much-energy-do-data-centers-and-artificial-intelligence-use Comments URL: https://news.ycombinator.com/item?id=49022412 Points: 56 # Comments: 58",
+      "source": "Hacker News",
+      "published": "2026-07-23T14:40:30+00:00",
+      "link": "https://ourworldindata.org/how-much-energy-do-data-centers-and-artificial-intelligence-use"
     },
     {
       "title": "Lawmakers prepare bill requiring AI ‘kill switch’",
@@ -23,6 +86,13 @@ const FEED_DATA = {
       "link": "https://www.theverge.com/ai-artificial-intelligence/969939/lawmakers-ai-kill-switch-proposal"
     },
     {
+      "title": "I Think You Might Be Fooling Yourself with AI",
+      "summary": "Article URL: https://louwrentius.com/i-think-you-might-be-fooling-yourself-with-ai.html Comments URL: https://news.ycombinator.com/item?id=49021843 Points: 69 # Comments: 120",
+      "source": "Hacker News",
+      "published": "2026-07-23T14:05:43+00:00",
+      "link": "https://louwrentius.com/i-think-you-might-be-fooling-yourself-with-ai.html"
+    },
+    {
       "title": "Apple’s OpenAI lawsuit is about who gets to define the post-smartphone era",
       "summary": "Today on Decoder, I’m talking with Hayden Field, The Verge’s senior AI reporter, about the major trade secrets lawsuit between Apple and OpenAI and what this tells us about OpenAI’s future. By now I’m sure most Decoder listeners are familiar with Apple’s allegations in this case.",
       "source": "The Verge",
@@ -30,22 +100,29 @@ const FEED_DATA = {
       "link": "https://www.theverge.com/podcast/968787/apple-openai-trade-secrets-lawsuit-ai-hardware-smartphone-jony-ive"
     },
     {
+      "title": "DARPA, U.S. Air Force fly AI-controlled F-16",
+      "summary": "Article URL: https://www.darpa.mil/news/2026/darpa-us-air-force-fly-ai-controlled-f-16 Comments URL: https://news.ycombinator.com/item?id=49021597 Points: 53 # Comments: 49",
+      "source": "Hacker News",
+      "published": "2026-07-23T13:51:36+00:00",
+      "link": "https://www.darpa.mil/news/2026/darpa-us-air-force-fly-ai-controlled-f-16"
+    },
+    {
       "title": "Alphabet's cash burn raises alarm for Big Tech as AI spending climbs",
-      "summary": "Article URL: https://www.reuters.com/business/retail-consumer/alphabets-cash-burn-raises-alarm-big-tech-ai-spending-climbs-2026-07-23/ Comments URL: https://news.ycombinator.com/item?id=49021006 Points: 170 # Comments: 166",
+      "summary": "Article URL: https://www.reuters.com/business/retail-consumer/alphabets-cash-burn-raises-alarm-big-tech-ai-spending-climbs-2026-07-23/ Comments URL: https://news.ycombinator.com/item?id=49021006 Points: 236 # Comments: 238",
       "source": "Hacker News",
       "published": "2026-07-23T13:10:02+00:00",
       "link": "https://www.reuters.com/business/retail-consumer/alphabets-cash-burn-raises-alarm-big-tech-ai-spending-climbs-2026-07-23/"
     },
     {
       "title": "AI Companies Are Trying to Hide a Staggering Amount of Debt",
-      "summary": "Article URL: https://futurism.com/artificial-intelligence/ai-companies-hide-debt-off-balance-sheet Comments URL: https://news.ycombinator.com/item?id=49020999 Points: 156 # Comments: 75",
+      "summary": "Article URL: https://futurism.com/artificial-intelligence/ai-companies-hide-debt-off-balance-sheet Comments URL: https://news.ycombinator.com/item?id=49020999 Points: 381 # Comments: 177",
       "source": "Hacker News",
       "published": "2026-07-23T13:09:10+00:00",
       "link": "https://futurism.com/artificial-intelligence/ai-companies-hide-debt-off-balance-sheet"
     },
     {
       "title": "OpenAI and Anthropic unite against open-weight AI risks to their bottom line",
-      "summary": "Article URL: https://www.axios.com/2026/07/22/openai-anthropic-open-models-trump-china Comments URL: https://news.ycombinator.com/item?id=49020868 Points: 220 # Comments: 257",
+      "summary": "Article URL: https://www.axios.com/2026/07/22/openai-anthropic-open-models-trump-china Comments URL: https://news.ycombinator.com/item?id=49020868 Points: 252 # Comments: 285",
       "source": "Hacker News",
       "published": "2026-07-23T13:00:03+00:00",
       "link": "https://www.axios.com/2026/07/22/openai-anthropic-open-models-trump-china"
@@ -59,7 +136,7 @@ const FEED_DATA = {
     },
     {
       "title": "Understanding the AI Economy",
-      "summary": "Article URL: https://blog.google/innovation-and-ai/technology/research/understanding-the-ai-economy/ Comments URL: https://news.ycombinator.com/item?id=49020335 Points: 67 # Comments: 120",
+      "summary": "Article URL: https://blog.google/innovation-and-ai/technology/research/understanding-the-ai-economy/ Comments URL: https://news.ycombinator.com/item?id=49020335 Points: 71 # Comments: 133",
       "source": "Hacker News",
       "published": "2026-07-23T12:11:05+00:00",
       "link": "https://blog.google/innovation-and-ai/technology/research/understanding-the-ai-economy/"
@@ -94,7 +171,7 @@ const FEED_DATA = {
     },
     {
       "title": "New Framework Desktop Option with AMD Ryzen AI Max+ Pro 495 and 192GB Memory",
-      "summary": "Article URL: https://frame.work/desktop?tab=192gb-coming-soon Comments URL: https://news.ycombinator.com/item?id=49019694 Points: 63 # Comments: 81",
+      "summary": "Article URL: https://frame.work/desktop?tab=192gb-coming-soon Comments URL: https://news.ycombinator.com/item?id=49019694 Points: 71 # Comments: 102",
       "source": "Hacker News",
       "published": "2026-07-23T11:09:48+00:00",
       "link": "https://frame.work/desktop?tab=192gb-coming-soon"
@@ -199,7 +276,7 @@ const FEED_DATA = {
     },
     {
       "title": "Are AI labs pelicanmaxxing?",
-      "summary": "Article URL: https://dylancastillo.co/posts/pelicanmaxxing.html Comments URL: https://news.ycombinator.com/item?id=49010129 Points: 624 # Comments: 236",
+      "summary": "Article URL: https://dylancastillo.co/posts/pelicanmaxxing.html Comments URL: https://news.ycombinator.com/item?id=49010129 Points: 646 # Comments: 237",
       "source": "Hacker News",
       "published": "2026-07-22T17:17:54+00:00",
       "link": "https://dylancastillo.co/posts/pelicanmaxxing.html"
@@ -269,14 +346,14 @@ const FEED_DATA = {
     },
     {
       "title": "Most Americans say \"not in my backyard\" to AI data centers",
-      "summary": "Article URL: https://www.redfin.com/news/ai-data-centers-opposition-education-benefit/ Comments URL: https://news.ycombinator.com/item?id=49007525 Points: 139 # Comments: 296",
+      "summary": "Article URL: https://www.redfin.com/news/ai-data-centers-opposition-education-benefit/ Comments URL: https://news.ycombinator.com/item?id=49007525 Points: 142 # Comments: 298",
       "source": "Hacker News",
       "published": "2026-07-22T14:34:27+00:00",
       "link": "https://www.redfin.com/news/ai-data-centers-opposition-education-benefit/"
     },
     {
       "title": "Quality non-fiction books are the antithesis of AI slop",
-      "summary": "https://book-prize-index.vercel.app/ Comments URL: https://news.ycombinator.com/item?id=49007247 Points: 450 # Comments: 220",
+      "summary": "https://book-prize-index.vercel.app/ Comments URL: https://news.ycombinator.com/item?id=49007247 Points: 467 # Comments: 225",
       "source": "Hacker News",
       "published": "2026-07-22T14:18:05+00:00",
       "link": "https://resobscura.substack.com/p/quality-non-fiction-books-are-the"
@@ -304,7 +381,7 @@ const FEED_DATA = {
     },
     {
       "title": "Businesses with ugly AI menu redesigns",
-      "summary": "Article URL: https://blog.fiddery.com/businesses-with-ugly-ai-menu-redesigns/ Comments URL: https://news.ycombinator.com/item?id=49005973 Points: 349 # Comments: 271",
+      "summary": "Article URL: https://blog.fiddery.com/businesses-with-ugly-ai-menu-redesigns/ Comments URL: https://news.ycombinator.com/item?id=49005973 Points: 362 # Comments: 290",
       "source": "Hacker News",
       "published": "2026-07-22T12:49:45+00:00",
       "link": "https://blog.fiddery.com/businesses-with-ugly-ai-menu-redesigns/"
@@ -318,7 +395,7 @@ const FEED_DATA = {
     },
     {
       "title": "OpenAI says its AI went rogue and launched 'unprecedented' cyber-attack",
-      "summary": "Article URL: https://www.bbc.com/news/articles/c3ek3gvdnj3o Comments URL: https://news.ycombinator.com/item?id=49005398 Points: 76 # Comments: 101",
+      "summary": "Article URL: https://www.bbc.com/news/articles/c3ek3gvdnj3o Comments URL: https://news.ycombinator.com/item?id=49005398 Points: 76 # Comments: 102",
       "source": "Hacker News",
       "published": "2026-07-22T12:03:32+00:00",
       "link": "https://www.bbc.com/news/articles/c3ek3gvdnj3o"
@@ -465,7 +542,7 @@ const FEED_DATA = {
     },
     {
       "title": "Five tech giants are hiding $1.6T in AI debt, using the trick that toppled Enron",
-      "summary": "Article URL: https://thenextweb.com/news/tech-giants-hidden-off-balance-sheet-debt-ai Comments URL: https://news.ycombinator.com/item?id=48996760 Points: 101 # Comments: 19",
+      "summary": "Article URL: https://thenextweb.com/news/tech-giants-hidden-off-balance-sheet-debt-ai Comments URL: https://news.ycombinator.com/item?id=48996760 Points: 102 # Comments: 19",
       "source": "Hacker News",
       "published": "2026-07-21T19:11:27+00:00",
       "link": "https://thenextweb.com/news/tech-giants-hidden-off-balance-sheet-debt-ai"
@@ -493,7 +570,7 @@ const FEED_DATA = {
     },
     {
       "title": "Jack Dorsey launches Buzz to combine team chat, AI agents and Git hosting",
-      "summary": "https://x.com/jack/status/2079605800998146171, https://xcancel.com/jack/status/2079605800998146171https://buzz.xyz/ Comments URL: https://news.ycombinator.com/item?id=48995213 Points: 372 # Comments: 329",
+      "summary": "https://x.com/jack/status/2079605800998146171, https://xcancel.com/jack/status/2079605800998146171https://buzz.xyz/ Comments URL: https://news.ycombinator.com/item?id=48995213 Points: 372 # Comments: 330",
       "source": "Hacker News",
       "published": "2026-07-21T17:14:06+00:00",
       "link": "https://runtimewire.com/article/jack-dorsey-block-buzz-team-chat-ai-agents-git"
@@ -514,7 +591,7 @@ const FEED_DATA = {
     },
     {
       "title": "Meta's AI models are powering the first wave of Genesis Mission projects",
-      "summary": "https://www.energy.gov/undersecretaryforscience/genesis-miss... Comments URL: https://news.ycombinator.com/item?id=48995074 Points: 98 # Comments: 88",
+      "summary": "https://www.energy.gov/undersecretaryforscience/genesis-miss... Comments URL: https://news.ycombinator.com/item?id=48995074 Points: 99 # Comments: 88",
       "source": "Hacker News",
       "published": "2026-07-21T17:03:18+00:00",
       "link": "https://ai.meta.com/blog/genesis-mission-lawrence-berkeley-national-laboratory-segment-anything-dino/?_fb_noscript=1"
@@ -1323,83 +1400,6 @@ const FEED_DATA = {
       "source": "Wired",
       "published": "2026-07-16T18:35:18+00:00",
       "link": "https://www.wired.com/story/why-anthropic-is-pushing-states-to-regulate-ai-faster/"
-    },
-    {
-      "title": "Google Vids now lets you star in your own AI videos",
-      "summary": "Google is adding personalized AI avatars to Vids that let users create videos starring a digital version of themselves, alongside Gemini Omni-powered tools for generating and editing videos from prompts and reference images.",
-      "source": "TechCrunch",
-      "published": "2026-07-16T18:32:54+00:00",
-      "link": "https://techcrunch.com/2026/07/16/google-vids-now-lets-you-star-in-your-own-ai-videos/"
-    },
-    {
-      "title": "Roblox launches an AI-powered game-creation feature in its mobile app",
-      "summary": "Roblox's new \"Build\" feature lets users generate basic games using a single text prompt.",
-      "source": "TechCrunch",
-      "published": "2026-07-16T18:22:06+00:00",
-      "link": "https://techcrunch.com/2026/07/16/roblox-launches-an-ai-powered-game-creation-feature-in-its-mobile-app/"
-    },
-    {
-      "title": "New York governor says she’s using AI to analyze ‘every single rule’ in the state",
-      "summary": "New York Governor Kathy Hochul might have just signed a moratorium on new AI data centers in the state, but she's not against using the technology herself.",
-      "source": "The Verge",
-      "published": "2026-07-16T17:58:37+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/966647/new-york-governor-kathy-hochul-ai-policies"
-    },
-    {
-      "title": "German AI consortium releases Soofi S, an open 30B model that tops benchmarks",
-      "summary": "Article URL: https://the-decoder.com/german-ai-consortium-releases-soofi-s-an-open-30b-model-that-tops-benchmarks-in-both-english-and-german/ Comments URL: https://news.ycombinator.com/item?id=48937756 Points: 144 # Comments: 34",
-      "source": "Hacker News",
-      "published": "2026-07-16T17:44:46+00:00",
-      "link": "https://the-decoder.com/german-ai-consortium-releases-soofi-s-an-open-30b-model-that-tops-benchmarks-in-both-english-and-german/"
-    },
-    {
-      "title": "Google rebrands NotebookLM as Gemini Notebook and opens its search app to third-party integration",
-      "summary": "Google is renaming NotebookLM to Gemini Notebook and integrating the tool more deeply into its ecosystem. A new feature gives each notebook its own cloud computer that can write and run code, initially for AI Ultra and Workspace customers.",
-      "source": "The Decoder",
-      "published": "2026-07-16T17:22:18+00:00",
-      "link": "https://the-decoder.com/google-rebrands-notebooklm-as-gemini-notebook-and-opens-its-search-app-to-third-party-integration/"
-    },
-    {
-      "title": "The AI context gap: Enterprise AI organizations have a trust problem, not a retrieval problem — and most are still building the fix",
-      "summary": "Across 101 enterprises, the infrastructure that feeds AI agents their business context is being built faster than it can be trusted.",
-      "source": "VentureBeat",
-      "published": "2026-07-16T17:06:08+00:00",
-      "link": "https://venturebeat.com/ai/the-ai-context-gap-enterprise-ai-organizations-have-a-trust-problem-not-a-retrieval-problem-and-most-are-still-building-the-fix"
-    },
-    {
-      "title": "Examining Google DeepMind’s AI bioresilience push",
-      "summary": "Google DeepMind and Isomorphic Labs outlined a bioresilience program to curb AI misuse in biology while aiding outbreak response.",
-      "source": "AI News",
-      "published": "2026-07-16T16:48:23+00:00",
-      "link": "https://www.artificialintelligence-news.com/news/examining-google-deepmind-ai-bioresilience-push/"
-    },
-    {
-      "title": "Detecting LLM-Generated Texts with “Classical” Machine Learning",
-      "summary": "Article URL: https://blog.lyc8503.net/en/post/llm-classifier/ Comments URL: https://news.ycombinator.com/item?id=48936880 Points: 245 # Comments: 173",
-      "source": "Hacker News",
-      "published": "2026-07-16T16:41:37+00:00",
-      "link": "https://blog.lyc8503.net/en/post/llm-classifier/"
-    },
-    {
-      "title": "The agent evaluation gap: Enterprise AI organizations have a reality-alignment problem, not a coverage problem — and most are shipping to production anyway",
-      "summary": "Across 157 enterprises, organizations are granting AI agents more autonomy while trusting the evaluations meant to gate that autonomy less.",
-      "source": "VentureBeat",
-      "published": "2026-07-16T16:40:48+00:00",
-      "link": "https://venturebeat.com/ai/the-agent-evaluation-gap-enterprise-ai-organizations-have-a-reality-alignment-problem-not-a-coverage-problem-and-most-are-shipping-to-production-anyway"
-    },
-    {
-      "title": "Germany puts Google's AI Overviews and Perplexity under media law in first-of-its-kind ruling",
-      "summary": "German media regulators say Google's AI Overviews are Google's own content, not neutral search results, and that they crowd out regular links. The regulators have issued their first rulings against Google and Perplexity under the country's State Media Treaty.",
-      "source": "The Decoder",
-      "published": "2026-07-16T16:12:26+00:00",
-      "link": "https://the-decoder.com/germany-puts-googles-ai-overviews-and-perplexity-under-media-law-in-first-of-its-kind-ruling/"
-    },
-    {
-      "title": "Google is renaming NotebookLM to Gemini Notebook",
-      "summary": "Google is giving its AI note-taking app a new name. The company announced on Thursday that NotebookLM is becoming Gemini Notebook, but will remain a standalone app even as it integrates more deeply across Gemini and Google Search.",
-      "source": "The Verge",
-      "published": "2026-07-16T16:00:00+00:00",
-      "link": "https://www.theverge.com/tech/966112/google-gemini-notebook-notebooklm"
     }
   ]
 };
