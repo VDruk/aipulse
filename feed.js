@@ -1,6 +1,20 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-07-22T21:59:10.234493+00:00",
+  "lastUpdated": "2026-07-23T04:14:13.214659+00:00",
   "items": [
+    {
+      "title": "After shocking quarter, IBM insists that AI isn’t killing the mainframe",
+      "summary": "After IBM's stock crashed last week on warnings of poor mainframe sales, the CEO explained that AI wrecked corporate hardware budget, temporarily.",
+      "source": "TechCrunch",
+      "published": "2026-07-22T23:47:54+00:00",
+      "link": "https://techcrunch.com/2026/07/22/after-shocking-quarter-ibm-insists-that-ai-isnt-killing-the-mainframe/"
+    },
+    {
+      "title": "Google justifies its massive AI spending with a booming cloud business",
+      "summary": "Google's cloud business is thriving, as companies adopting its AI and AI infrastructure services help the tech giant to report record profits.",
+      "source": "TechCrunch",
+      "published": "2026-07-22T22:01:52+00:00",
+      "link": "https://techcrunch.com/2026/07/22/google-justifies-its-massive-ai-spending-with-a-booming-cloud-business/"
+    },
     {
       "title": "The White House Is Trying to Figure Out What to Do About Chinese AI",
       "summary": "There’s a debate going on in the Trump administration over how to handle increasingly powerful Chinese AI models.",
@@ -10,7 +24,7 @@ const FEED_DATA = {
     },
     {
       "title": "Treasury threatens sanctions after White House claims Moonshot distilled Anthropic’s Fable",
-      "summary": "Treasury Secretary Scott Bessent warned the U.S. government could sanction Chinese AI companies after White House officials accused Moonshot of distilling Anthropic's Fable model to develop Kimi K3.",
+      "summary": "The episode has also intensified a broader debate in Washington over the influx of Chinese open models.",
       "source": "TechCrunch",
       "published": "2026-07-22T20:49:03+00:00",
       "link": "https://techcrunch.com/2026/07/22/treasury-threatens-sanctions-after-white-house-claims-moonshot-distilled-anthropics-fable/"
@@ -58,8 +72,8 @@ const FEED_DATA = {
       "link": "https://techcrunch.com/2026/07/22/monday-com-lays-off-hundreds-to-focuses-on-ai/"
     },
     {
-      "title": "Are AI Labs Pelicanmaxxing?",
-      "summary": "Article URL: https://dylancastillo.co/posts/pelicanmaxxing.html Comments URL: https://news.ycombinator.com/item?id=49010129 Points: 276 # Comments: 117",
+      "title": "Are AI labs pelicanmaxxing?",
+      "summary": "Article URL: https://dylancastillo.co/posts/pelicanmaxxing.html Comments URL: https://news.ycombinator.com/item?id=49010129 Points: 425 # Comments: 163",
       "source": "Hacker News",
       "published": "2026-07-22T17:17:54+00:00",
       "link": "https://dylancastillo.co/posts/pelicanmaxxing.html"
@@ -129,10 +143,17 @@ const FEED_DATA = {
     },
     {
       "title": "Most Americans say \"not in my backyard\" to AI data centers",
-      "summary": "Article URL: https://www.redfin.com/news/ai-data-centers-opposition-education-benefit/ Comments URL: https://news.ycombinator.com/item?id=49007525 Points: 124 # Comments: 262",
+      "summary": "Article URL: https://www.redfin.com/news/ai-data-centers-opposition-education-benefit/ Comments URL: https://news.ycombinator.com/item?id=49007525 Points: 133 # Comments: 282",
       "source": "Hacker News",
       "published": "2026-07-22T14:34:27+00:00",
       "link": "https://www.redfin.com/news/ai-data-centers-opposition-education-benefit/"
+    },
+    {
+      "title": "Quality non-fiction books are the antithesis of AI slop",
+      "summary": "https://book-prize-index.vercel.app/ Comments URL: https://news.ycombinator.com/item?id=49007247 Points: 217 # Comments: 92",
+      "source": "Hacker News",
+      "published": "2026-07-22T14:18:05+00:00",
+      "link": "https://resobscura.substack.com/p/quality-non-fiction-books-are-the"
     },
     {
       "title": "Menlo Ventures’ Matt Murphy explains what AI startups founders must do differently",
@@ -157,7 +178,7 @@ const FEED_DATA = {
     },
     {
       "title": "Businesses with ugly AI menu redesigns",
-      "summary": "Article URL: https://blog.fiddery.com/businesses-with-ugly-ai-menu-redesigns/ Comments URL: https://news.ycombinator.com/item?id=49005973 Points: 140 # Comments: 114",
+      "summary": "Article URL: https://blog.fiddery.com/businesses-with-ugly-ai-menu-redesigns/ Comments URL: https://news.ycombinator.com/item?id=49005973 Points: 210 # Comments: 160",
       "source": "Hacker News",
       "published": "2026-07-22T12:49:45+00:00",
       "link": "https://blog.fiddery.com/businesses-with-ugly-ai-menu-redesigns/"
@@ -269,7 +290,7 @@ const FEED_DATA = {
     },
     {
       "title": "\"Drawing\" the Mona Lisa with GPT-5.6, Claude, Gemini, and Grok",
-      "summary": "Article URL: https://www.tryai.dev/blog/ai-drawing-arena-colored-pencils-claude-gpt-grok Comments URL: https://news.ycombinator.com/item?id=48998404 Points: 244 # Comments: 101",
+      "summary": "Article URL: https://www.tryai.dev/blog/ai-drawing-arena-colored-pencils-claude-gpt-grok Comments URL: https://news.ycombinator.com/item?id=48998404 Points: 246 # Comments: 103",
       "source": "Hacker News",
       "published": "2026-07-21T21:13:20+00:00",
       "link": "https://www.tryai.dev/blog/ai-drawing-arena-colored-pencils-claude-gpt-grok"
@@ -318,7 +339,7 @@ const FEED_DATA = {
     },
     {
       "title": "Five tech giants are hiding $1.6T in AI debt, using the trick that toppled Enron",
-      "summary": "Article URL: https://thenextweb.com/news/tech-giants-hidden-off-balance-sheet-debt-ai Comments URL: https://news.ycombinator.com/item?id=48996760 Points: 97 # Comments: 19",
+      "summary": "Article URL: https://thenextweb.com/news/tech-giants-hidden-off-balance-sheet-debt-ai Comments URL: https://news.ycombinator.com/item?id=48996760 Points: 99 # Comments: 19",
       "source": "Hacker News",
       "published": "2026-07-21T19:11:27+00:00",
       "link": "https://thenextweb.com/news/tech-giants-hidden-off-balance-sheet-debt-ai"
@@ -339,14 +360,14 @@ const FEED_DATA = {
     },
     {
       "title": "AI makes programming differently difficult",
-      "summary": "Article URL: https://cacm.acm.org/opinion/ai-didnt-make-programming-easier-it-just-made-it-differently-difficult/ Comments URL: https://news.ycombinator.com/item?id=48996197 Points: 160 # Comments: 141",
+      "summary": "Article URL: https://cacm.acm.org/opinion/ai-didnt-make-programming-easier-it-just-made-it-differently-difficult/ Comments URL: https://news.ycombinator.com/item?id=48996197 Points: 161 # Comments: 141",
       "source": "Hacker News",
       "published": "2026-07-21T18:30:21+00:00",
       "link": "https://cacm.acm.org/opinion/ai-didnt-make-programming-easier-it-just-made-it-differently-difficult/"
     },
     {
       "title": "Jack Dorsey launches Buzz to combine team chat, AI agents and Git hosting",
-      "summary": "https://x.com/jack/status/2079605800998146171, https://xcancel.com/jack/status/2079605800998146171https://buzz.xyz/ Comments URL: https://news.ycombinator.com/item?id=48995213 Points: 367 # Comments: 325",
+      "summary": "https://x.com/jack/status/2079605800998146171, https://xcancel.com/jack/status/2079605800998146171https://buzz.xyz/ Comments URL: https://news.ycombinator.com/item?id=48995213 Points: 368 # Comments: 326",
       "source": "Hacker News",
       "published": "2026-07-21T17:14:06+00:00",
       "link": "https://runtimewire.com/article/jack-dorsey-block-buzz-team-chat-ai-agents-git"
@@ -619,7 +640,7 @@ const FEED_DATA = {
     },
     {
       "title": "How we measured AI writing across arXiv, and where the measurement breaks",
-      "summary": "Article URL: https://unslop.run/blog/measuring-ai-writing-on-arxiv Comments URL: https://news.ycombinator.com/item?id=48981206 Points: 242 # Comments: 169",
+      "summary": "Article URL: https://unslop.run/blog/measuring-ai-writing-on-arxiv Comments URL: https://news.ycombinator.com/item?id=48981206 Points: 242 # Comments: 171",
       "source": "Hacker News",
       "published": "2026-07-20T16:36:36+00:00",
       "link": "https://unslop.run/blog/measuring-ai-writing-on-arxiv"
@@ -654,7 +675,7 @@ const FEED_DATA = {
     },
     {
       "title": "Mythologizing AI makes it more likely that we’ll fail to operate it well (2023)",
-      "summary": "Article URL: https://www.newyorker.com/science/annals-of-artificial-intelligence/there-is-no-ai Comments URL: https://news.ycombinator.com/item?id=48980238 Points: 80 # Comments: 151",
+      "summary": "Article URL: https://www.newyorker.com/science/annals-of-artificial-intelligence/there-is-no-ai Comments URL: https://news.ycombinator.com/item?id=48980238 Points: 80 # Comments: 152",
       "source": "Hacker News",
       "published": "2026-07-20T15:28:32+00:00",
       "link": "https://www.newyorker.com/science/annals-of-artificial-intelligence/there-is-no-ai"
@@ -668,7 +689,7 @@ const FEED_DATA = {
     },
     {
       "title": "China’s open-weights AI strategy is winning",
-      "summary": "Article URL: https://werd.io/american-ai-is-locked-down-and-proprietary-its-losing/ Comments URL: https://news.ycombinator.com/item?id=48979269 Points: 1230 # Comments: 928",
+      "summary": "Article URL: https://werd.io/american-ai-is-locked-down-and-proprietary-its-losing/ Comments URL: https://news.ycombinator.com/item?id=48979269 Points: 1231 # Comments: 929",
       "source": "Hacker News",
       "published": "2026-07-20T14:21:47+00:00",
       "link": "https://werd.io/american-ai-is-locked-down-and-proprietary-its-losing/"
@@ -1379,27 +1400,6 @@ const FEED_DATA = {
       "source": "Hacker News",
       "published": "2026-07-16T10:11:31+00:00",
       "link": "https://lore.kernel.org/linux-media/CAHk-=wi4zC+Ze8e+p3tMv8TtG_80KzsZ1syL9anBtmEh5Z40vg@mail.gmail.com/"
-    },
-    {
-      "title": "Please Stop Making Me Opt Out of AI",
-      "summary": "I’m sick of “opt-out” toggles for automatically enabled generative AI features. It’s past time to make “opt in” the default setting for sensitive features.",
-      "source": "Wired",
-      "published": "2026-07-16T10:00:00+00:00",
-      "link": "https://www.wired.com/story/please-stop-making-me-opt-out-of-ai/"
-    },
-    {
-      "title": "Ex-OpenAI CTO Murati's Thinking Machines drops Inkling, a 975B parameter model that leads US labs but trails China",
-      "summary": "Thinking Machines Lab, founded by former OpenAI CTO Mira Murati, has released Inkling, a multimodal open-weights model with 975 billion parameters. It leads U.S.",
-      "source": "The Decoder",
-      "published": "2026-07-16T09:55:28+00:00",
-      "link": "https://the-decoder.com/ex-openai-cto-muratis-thinking-machines-drops-inkling-a-975b-parameter-model-that-leads-us-labs-but-trails-china/"
-    },
-    {
-      "title": "Gemma 4 gets a stealth update that fixes tool calling bugs and truncated responses under the same name",
-      "summary": "Google shipped an update to its open AI model Gemma 4 that speeds up performance on Nvidia Hopper GPUs, fixes tool calling bugs, and addresses problems with truncated responses.",
-      "source": "The Decoder",
-      "published": "2026-07-16T09:07:58+00:00",
-      "link": "https://the-decoder.com/gemma-4-gets-a-stealth-update-that-fixes-tool-calling-bugs-and-truncated-responses-under-the-same-name/"
     }
   ]
 };
