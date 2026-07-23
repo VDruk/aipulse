@@ -1,6 +1,13 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-07-23T04:14:13.214659+00:00",
+  "lastUpdated": "2026-07-23T07:33:37.882847+00:00",
   "items": [
+    {
+      "title": "ServiceNow bets $40 million on Indian banking software specialist to expand its financial services push",
+      "summary": "ServiceNow's investment gives BusinessNext a strategic partner to expand its AI-powered banking software globally.",
+      "source": "TechCrunch",
+      "published": "2026-07-23T06:09:13+00:00",
+      "link": "https://techcrunch.com/2026/07/22/servicenow-bets-40m-on-indian-firm-businessnext-at-700m-valuation-to-deepen-banking-ai-push/"
+    },
     {
       "title": "After shocking quarter, IBM insists that AI isn’t killing the mainframe",
       "summary": "After IBM's stock crashed last week on warnings of poor mainframe sales, the CEO explained that AI wrecked corporate hardware budget, temporarily.",
@@ -1393,13 +1400,6 @@ const FEED_DATA = {
       "source": "Hacker News",
       "published": "2026-07-16T11:59:01+00:00",
       "link": "https://www.theocharis.dev/blog/llm-critics-are-right-i-use-llms-anyway/"
-    },
-    {
-      "title": "Linus Torvalds on LLM usage in kernel development",
-      "summary": "Article URL: https://lore.kernel.org/linux-media/CAHk-=wi4zC+Ze8e+p3tMv8TtG_80KzsZ1syL9anBtmEh5Z40vg@mail.gmail.com/ Comments URL: https://news.ycombinator.com/item?id=48932522 Points: 61 # Comments: 13",
-      "source": "Hacker News",
-      "published": "2026-07-16T10:11:31+00:00",
-      "link": "https://lore.kernel.org/linux-media/CAHk-=wi4zC+Ze8e+p3tMv8TtG_80KzsZ1syL9anBtmEh5Z40vg@mail.gmail.com/"
     }
   ]
 };
