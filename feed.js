@@ -1,6 +1,111 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-07-23T10:55:09.544163+00:00",
+  "lastUpdated": "2026-07-23T15:10:00.034903+00:00",
   "items": [
+    {
+      "title": "AI chip startup Etched defies skeptics, hits $10.3B valuation from big-name investors",
+      "summary": "Etched, founded by three Harvard dropouts, has created new chips and memory components that speed up inference on any AI model -- no GPUs required, it says.",
+      "source": "TechCrunch",
+      "published": "2026-07-23T15:00:00+00:00",
+      "link": "https://techcrunch.com/2026/07/23/ai-chip-startup-etched-defies-skeptics-hits-10-3b-valuation-from-big-name-investors/"
+    },
+    {
+      "title": "Nvidia is sending GPUs to the Moon",
+      "summary": "If there's a place in the universe without GPUs, Nvidia is sending them there.",
+      "source": "TechCrunch",
+      "published": "2026-07-23T15:00:00+00:00",
+      "link": "https://techcrunch.com/2026/07/23/nvidia-is-sending-gpus-to-the-moon/"
+    },
+    {
+      "title": "Lawmakers prepare bill requiring AI ‘kill switch’",
+      "summary": "Lawmakers are preparing to introduce an \"AI Kill Switch Act\" that would require AI companies to shut down or throttle their systems on orders from the Department of Homeland Security, according to a report from Politico. Reps.",
+      "source": "The Verge",
+      "published": "2026-07-23T14:13:35+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/969939/lawmakers-ai-kill-switch-proposal"
+    },
+    {
+      "title": "Apple’s OpenAI lawsuit is about who gets to define the post-smartphone era",
+      "summary": "Today on Decoder, I’m talking with Hayden Field, The Verge’s senior AI reporter, about the major trade secrets lawsuit between Apple and OpenAI and what this tells us about OpenAI’s future. By now I’m sure most Decoder listeners are familiar with Apple’s allegations in this case.",
+      "source": "The Verge",
+      "published": "2026-07-23T14:00:00+00:00",
+      "link": "https://www.theverge.com/podcast/968787/apple-openai-trade-secrets-lawsuit-ai-hardware-smartphone-jony-ive"
+    },
+    {
+      "title": "Alphabet's cash burn raises alarm for Big Tech as AI spending climbs",
+      "summary": "Article URL: https://www.reuters.com/business/retail-consumer/alphabets-cash-burn-raises-alarm-big-tech-ai-spending-climbs-2026-07-23/ Comments URL: https://news.ycombinator.com/item?id=49021006 Points: 170 # Comments: 166",
+      "source": "Hacker News",
+      "published": "2026-07-23T13:10:02+00:00",
+      "link": "https://www.reuters.com/business/retail-consumer/alphabets-cash-burn-raises-alarm-big-tech-ai-spending-climbs-2026-07-23/"
+    },
+    {
+      "title": "AI Companies Are Trying to Hide a Staggering Amount of Debt",
+      "summary": "Article URL: https://futurism.com/artificial-intelligence/ai-companies-hide-debt-off-balance-sheet Comments URL: https://news.ycombinator.com/item?id=49020999 Points: 156 # Comments: 75",
+      "source": "Hacker News",
+      "published": "2026-07-23T13:09:10+00:00",
+      "link": "https://futurism.com/artificial-intelligence/ai-companies-hide-debt-off-balance-sheet"
+    },
+    {
+      "title": "OpenAI and Anthropic unite against open-weight AI risks to their bottom line",
+      "summary": "Article URL: https://www.axios.com/2026/07/22/openai-anthropic-open-models-trump-china Comments URL: https://news.ycombinator.com/item?id=49020868 Points: 220 # Comments: 257",
+      "source": "Hacker News",
+      "published": "2026-07-23T13:00:03+00:00",
+      "link": "https://www.axios.com/2026/07/22/openai-anthropic-open-models-trump-china"
+    },
+    {
+      "title": "Poolside's Laguna S 2.1 is a small open-weight coding model that punches well above its size",
+      "summary": "Poolside has released Laguna S 2.1, its third coding model in three months. Rather than rely on raw scale, the company trained it to keep checking its work, revise failed approaches, and avoid giving up too soon during long agentic sessions.",
+      "source": "The Decoder",
+      "published": "2026-07-23T12:24:53+00:00",
+      "link": "https://the-decoder.com/poolsides-laguna-s-2-1-is-a-small-open-weight-coding-model-that-punches-well-above-its-size/"
+    },
+    {
+      "title": "Understanding the AI Economy",
+      "summary": "Article URL: https://blog.google/innovation-and-ai/technology/research/understanding-the-ai-economy/ Comments URL: https://news.ycombinator.com/item?id=49020335 Points: 67 # Comments: 120",
+      "source": "Hacker News",
+      "published": "2026-07-23T12:11:05+00:00",
+      "link": "https://blog.google/innovation-and-ai/technology/research/understanding-the-ai-economy/"
+    },
+    {
+      "title": "The Download: energy transmission and US threats against Chinese AI",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.",
+      "source": "MIT Tech Review",
+      "published": "2026-07-23T12:10:00+00:00",
+      "link": "https://www.technologyreview.com/2026/07/23/1140753/the-download-energy-transmission-and-us-threats-chinese-ai/"
+    },
+    {
+      "title": "How AI helps scientists design the next generation of medicines",
+      "summary": "Designing and developing a new medicine is an expensive, failure-prone scientific challenge. A new drug can take many years to develop, at the cost of a significant investment.",
+      "source": "MIT Tech Review",
+      "published": "2026-07-23T12:00:00+00:00",
+      "link": "https://www.technologyreview.com/2026/07/23/1140346/how-ai-helps-scientists-design-the-next-generation-of-medicines/"
+    },
+    {
+      "title": "Nvidia bets physical AI can solve healthcare robotics’ data problem",
+      "summary": "Nvidia’s new Medical Physics Simulation framework treats healthcare robots as physical AI systems that need embodied experience to learn, not just code.",
+      "source": "AI News",
+      "published": "2026-07-23T11:38:55+00:00",
+      "link": "https://www.artificialintelligence-news.com/news/nvidia-bets-physical-ai-solve-healthcare-robotics-data-problem/"
+    },
+    {
+      "title": "Google CEO Pichai says Gemini's next leap depends on building \"much larger base models\"",
+      "summary": "Alphabet has raised its 2026 investment forecast to as much as $205 billion, saying demand continues to outpace spending. Google Cloud grew 82 percent in the second quarter.",
+      "source": "The Decoder",
+      "published": "2026-07-23T11:19:57+00:00",
+      "link": "https://the-decoder.com/google-ceo-pichai-says-geminis-next-leap-depends-on-building-much-larger-base-models/"
+    },
+    {
+      "title": "New Framework Desktop Option with AMD Ryzen AI Max+ Pro 495 and 192GB Memory",
+      "summary": "Article URL: https://frame.work/desktop?tab=192gb-coming-soon Comments URL: https://news.ycombinator.com/item?id=49019694 Points: 63 # Comments: 81",
+      "source": "Hacker News",
+      "published": "2026-07-23T11:09:48+00:00",
+      "link": "https://frame.work/desktop?tab=192gb-coming-soon"
+    },
+    {
+      "title": "Experts say exploiting Anthropic’s Fable isn’t how Kimi K3 got so good",
+      "summary": "\"I don't think you get a model this strong and this quickly on the heels of Fable doing strictly distillation,\" one expert told TechCrunch.",
+      "source": "TechCrunch",
+      "published": "2026-07-23T11:00:00+00:00",
+      "link": "https://techcrunch.com/2026/07/23/experts-say-exploiting-anthropics-fable-isnt-how-kimi-k3-got-so-good/"
+    },
     {
       "title": "AMD to invest up to $5 billion in Anthropic under AI infrastructure deal",
       "summary": "AMD has agreed to invest up to $5 billion in Anthropic under an infrastructure agreement covering tens of billions of dollars’ worth of AI systems.",
@@ -94,7 +199,7 @@ const FEED_DATA = {
     },
     {
       "title": "Are AI labs pelicanmaxxing?",
-      "summary": "Article URL: https://dylancastillo.co/posts/pelicanmaxxing.html Comments URL: https://news.ycombinator.com/item?id=49010129 Points: 558 # Comments: 214",
+      "summary": "Article URL: https://dylancastillo.co/posts/pelicanmaxxing.html Comments URL: https://news.ycombinator.com/item?id=49010129 Points: 624 # Comments: 236",
       "source": "Hacker News",
       "published": "2026-07-22T17:17:54+00:00",
       "link": "https://dylancastillo.co/posts/pelicanmaxxing.html"
@@ -164,14 +269,14 @@ const FEED_DATA = {
     },
     {
       "title": "Most Americans say \"not in my backyard\" to AI data centers",
-      "summary": "Article URL: https://www.redfin.com/news/ai-data-centers-opposition-education-benefit/ Comments URL: https://news.ycombinator.com/item?id=49007525 Points: 138 # Comments: 290",
+      "summary": "Article URL: https://www.redfin.com/news/ai-data-centers-opposition-education-benefit/ Comments URL: https://news.ycombinator.com/item?id=49007525 Points: 139 # Comments: 296",
       "source": "Hacker News",
       "published": "2026-07-22T14:34:27+00:00",
       "link": "https://www.redfin.com/news/ai-data-centers-opposition-education-benefit/"
     },
     {
       "title": "Quality non-fiction books are the antithesis of AI slop",
-      "summary": "https://book-prize-index.vercel.app/ Comments URL: https://news.ycombinator.com/item?id=49007247 Points: 378 # Comments: 134",
+      "summary": "https://book-prize-index.vercel.app/ Comments URL: https://news.ycombinator.com/item?id=49007247 Points: 450 # Comments: 220",
       "source": "Hacker News",
       "published": "2026-07-22T14:18:05+00:00",
       "link": "https://resobscura.substack.com/p/quality-non-fiction-books-are-the"
@@ -199,7 +304,7 @@ const FEED_DATA = {
     },
     {
       "title": "Businesses with ugly AI menu redesigns",
-      "summary": "Article URL: https://blog.fiddery.com/businesses-with-ugly-ai-menu-redesigns/ Comments URL: https://news.ycombinator.com/item?id=49005973 Points: 311 # Comments: 211",
+      "summary": "Article URL: https://blog.fiddery.com/businesses-with-ugly-ai-menu-redesigns/ Comments URL: https://news.ycombinator.com/item?id=49005973 Points: 349 # Comments: 271",
       "source": "Hacker News",
       "published": "2026-07-22T12:49:45+00:00",
       "link": "https://blog.fiddery.com/businesses-with-ugly-ai-menu-redesigns/"
@@ -311,7 +416,7 @@ const FEED_DATA = {
     },
     {
       "title": "\"Drawing\" the Mona Lisa with GPT-5.6, Claude, Gemini, and Grok",
-      "summary": "Article URL: https://www.tryai.dev/blog/ai-drawing-arena-colored-pencils-claude-gpt-grok Comments URL: https://news.ycombinator.com/item?id=48998404 Points: 248 # Comments: 103",
+      "summary": "Article URL: https://www.tryai.dev/blog/ai-drawing-arena-colored-pencils-claude-gpt-grok Comments URL: https://news.ycombinator.com/item?id=48998404 Points: 249 # Comments: 103",
       "source": "Hacker News",
       "published": "2026-07-21T21:13:20+00:00",
       "link": "https://www.tryai.dev/blog/ai-drawing-arena-colored-pencils-claude-gpt-grok"
@@ -360,7 +465,7 @@ const FEED_DATA = {
     },
     {
       "title": "Five tech giants are hiding $1.6T in AI debt, using the trick that toppled Enron",
-      "summary": "Article URL: https://thenextweb.com/news/tech-giants-hidden-off-balance-sheet-debt-ai Comments URL: https://news.ycombinator.com/item?id=48996760 Points: 99 # Comments: 19",
+      "summary": "Article URL: https://thenextweb.com/news/tech-giants-hidden-off-balance-sheet-debt-ai Comments URL: https://news.ycombinator.com/item?id=48996760 Points: 101 # Comments: 19",
       "source": "Hacker News",
       "published": "2026-07-21T19:11:27+00:00",
       "link": "https://thenextweb.com/news/tech-giants-hidden-off-balance-sheet-debt-ai"
@@ -381,14 +486,14 @@ const FEED_DATA = {
     },
     {
       "title": "AI makes programming differently difficult",
-      "summary": "Article URL: https://cacm.acm.org/opinion/ai-didnt-make-programming-easier-it-just-made-it-differently-difficult/ Comments URL: https://news.ycombinator.com/item?id=48996197 Points: 162 # Comments: 141",
+      "summary": "Article URL: https://cacm.acm.org/opinion/ai-didnt-make-programming-easier-it-just-made-it-differently-difficult/ Comments URL: https://news.ycombinator.com/item?id=48996197 Points: 163 # Comments: 141",
       "source": "Hacker News",
       "published": "2026-07-21T18:30:21+00:00",
       "link": "https://cacm.acm.org/opinion/ai-didnt-make-programming-easier-it-just-made-it-differently-difficult/"
     },
     {
       "title": "Jack Dorsey launches Buzz to combine team chat, AI agents and Git hosting",
-      "summary": "https://x.com/jack/status/2079605800998146171, https://xcancel.com/jack/status/2079605800998146171https://buzz.xyz/ Comments URL: https://news.ycombinator.com/item?id=48995213 Points: 371 # Comments: 326",
+      "summary": "https://x.com/jack/status/2079605800998146171, https://xcancel.com/jack/status/2079605800998146171https://buzz.xyz/ Comments URL: https://news.ycombinator.com/item?id=48995213 Points: 372 # Comments: 329",
       "source": "Hacker News",
       "published": "2026-07-21T17:14:06+00:00",
       "link": "https://runtimewire.com/article/jack-dorsey-block-buzz-team-chat-ai-agents-git"
@@ -464,18 +569,18 @@ const FEED_DATA = {
       "link": "https://the-decoder.com/microsoft-and-mistral-strike-multi-billion-dollar-deal-to-build-ai-infrastructure-across-europe/"
     },
     {
-      "title": "Google launches a cheaper alternative to large AI security models like Mythos",
-      "summary": "Google is launching Gemini 3.6 Flash alongside a new security model dedicated to quickly finding and patching security vulnerabilities.",
-      "source": "The Verge",
-      "published": "2026-07-21T15:00:00+00:00",
-      "link": "https://www.theverge.com/tech/968572/google-gemini-flash-cyber-ai-security-model"
-    },
-    {
       "title": "Nvidia Wants to Own Every Chip Inside AI Data Centers",
       "summary": "Nvidia’s Vera Rubin platform combines CPUs and GPUs into a single system, reflecting the company’s growing ambition to power every layer of AI infrastructure.",
       "source": "Wired",
       "published": "2026-07-21T15:00:00+00:00",
       "link": "https://www.wired.com/story/nvidia-wants-to-own-every-chip-inside-an-ai-data-center/"
+    },
+    {
+      "title": "Google launches a cheaper alternative to large AI security models like Mythos",
+      "summary": "Google is launching Gemini 3.6 Flash alongside a new security model dedicated to quickly finding and patching security vulnerabilities.",
+      "source": "The Verge",
+      "published": "2026-07-21T15:00:00+00:00",
+      "link": "https://www.theverge.com/tech/968572/google-gemini-flash-cyber-ai-security-model"
     },
     {
       "title": "Music streamer Deezer says more than 50% of daily uploads are AI-generated",
@@ -563,7 +668,7 @@ const FEED_DATA = {
     },
     {
       "title": "Five US tech giants' hidden debts soar to $1.65T on opaque AI funding",
-      "summary": "https://archive.ph/20260720174223/https://asia.nikkei.com/bu... Comments URL: https://news.ycombinator.com/item?id=48987863 Points: 364 # Comments: 260",
+      "summary": "https://archive.ph/20260720174223/https://asia.nikkei.com/bu... Comments URL: https://news.ycombinator.com/item?id=48987863 Points: 374 # Comments: 264",
       "source": "Hacker News",
       "published": "2026-07-21T03:56:03+00:00",
       "link": "https://asia.nikkei.com/business/technology/five-us-tech-giants-hidden-debts-soar-to-1.65tn-on-opaque-ai-funding"
@@ -1295,111 +1400,6 @@ const FEED_DATA = {
       "source": "The Verge",
       "published": "2026-07-16T16:00:00+00:00",
       "link": "https://www.theverge.com/tech/966112/google-gemini-notebook-notebooklm"
-    },
-    {
-      "title": "Google’s AI Mode now lets you link and interact with select apps",
-      "summary": "With this new update, Google is expanding AI Mode beyond answering questions and into completing tasks across the apps they use regularly.",
-      "source": "TechCrunch",
-      "published": "2026-07-16T16:00:00+00:00",
-      "link": "https://techcrunch.com/2026/07/16/googles-ai-mode-now-lets-you-link-and-interact-with-select-apps/"
-    },
-    {
-      "title": "Energy IPOs surge as investors hunt for ways to play AI boom",
-      "summary": "Companies coming to market are raising money at fastest pace this century.",
-      "source": "Ars Technica",
-      "published": "2026-07-16T15:48:21+00:00",
-      "link": "https://arstechnica.com/information-technology/2026/07/energy-ipos-surge-as-investors-hunt-for-ways-to-play-ai-boom/"
-    },
-    {
-      "title": "Yes, you can now order DoorDash from the command line",
-      "summary": "DoorDash is opening a limited beta of dd-cli, a command-line tool that lets developers and AI agents search stores, build carts, and place orders from the terminal, marking another step toward software designed for AI agents instead of just humans.",
-      "source": "TechCrunch",
-      "published": "2026-07-16T15:38:55+00:00",
-      "link": "https://techcrunch.com/2026/07/16/yes-you-can-now-order-doordash-from-the-command-line/"
-    },
-    {
-      "title": "Why is OpenAI selling a ChatGPT basketball?",
-      "summary": "You may have heard that OpenAI released its first piece of hardware this week. You may not have heard about the ChatGPT basketball.",
-      "source": "TechCrunch",
-      "published": "2026-07-16T15:31:09+00:00",
-      "link": "https://techcrunch.com/2026/07/16/why-is-openai-selling-a-chatgpt-basketball/"
-    },
-    {
-      "title": "How to Train a Gen AI Kick Drum Model on Your Old Linux Desktop with 6GB VRAM",
-      "summary": "Article URL: https://www.zhinit.dev/blog/training-a-kick-drum-diffusion-model Comments URL: https://news.ycombinator.com/item?id=48935687 Points: 164 # Comments: 85",
-      "source": "Hacker News",
-      "published": "2026-07-16T15:13:00+00:00",
-      "link": "https://www.zhinit.dev/blog/training-a-kick-drum-diffusion-model"
-    },
-    {
-      "title": "How a former DeepMind researcher raised at a $300M pre-seed valuation before launching a product",
-      "summary": "Drawing on more than a decade spent helping build some of the world's most influential AI systems, including research that later informed the development of ChatGPT, Andrew Dai explains why he believes visual AI is one of the next major frontiers in artificial intelligence.",
-      "source": "TechCrunch",
-      "published": "2026-07-16T15:02:00+00:00",
-      "link": "https://techcrunch.com/2026/07/16/how-a-former-deepmind-researcher-raised-at-a-300m-pre-seed-valuation-before-launching-a-product/"
-    },
-    {
-      "title": "Kimi K3: Open Frontier Intelligence",
-      "summary": "https://www.kimi.com/enKimi K3 Intelligence, Performance & Price Analysis: https://artificialanalysis.ai/models/kimi-k3 Comments URL: https://news.ycombinator.com/item?id=48935342 Points: 2075 # Comments: 1193",
-      "source": "Hacker News",
-      "published": "2026-07-16T14:46:05+00:00",
-      "link": "https://www.kimi.com/blog/kimi-k3"
-    },
-    {
-      "title": "Why AMI Labs’ Alexandre LeBrun won’t call his AI ‘AGI’ or ‘superintelligence’",
-      "summary": "While everyone in AI is chasing \"superintelligence,\" Alexandre LeBrun, CEO of Yann LeCun’s world model startup, AMI Labs, dismisses the word.",
-      "source": "TechCrunch",
-      "published": "2026-07-16T14:40:00+00:00",
-      "link": "https://techcrunch.com/2026/07/16/why-ami-labs-alexandre-lebrun-wont-call-his-ai-agi-or-superintelligence/"
-    },
-    {
-      "title": "OpenAI wants developers to stop typing commands and start using a joystick to control their AI agents",
-      "summary": "OpenAI and keyboard manufacturer Work Louder have unveiled the Codex Micro, a compact hardware controller designed for working with AI agents.",
-      "source": "The Decoder",
-      "published": "2026-07-16T14:31:34+00:00",
-      "link": "https://the-decoder.com/openai-wants-developers-to-stop-typing-commands-and-start-using-a-joystick-to-control-their-ai-agents/"
-    },
-    {
-      "title": "Moonshot’s upcoming Kimi 3 is expected to close the gap with Anthropic’s Opus 4.8",
-      "summary": "The FT reports Kimi K3 will be the largest open AI model from China, with a parameter count between 2 trillion and 3 trillion.",
-      "source": "TechCrunch",
-      "published": "2026-07-16T14:26:29+00:00",
-      "link": "https://techcrunch.com/2026/07/16/moonshots-upcoming-kimi-3-is-expected-to-close-the-gap-with-anthropics-opus-4-8/"
-    },
-    {
-      "title": "Sakana AI's orchestrator adds Nvidia Nemotron to prove \"collective intelligence\" can rival single frontier models",
-      "summary": "Sakana AI is integrating Nvidia's open-source Nemotron models into its Fugu orchestrator, which dynamically combines multiple language models for specific tasks. The core argument: Open models only become competitive with Frontier systems when used in a coordinated manner.",
-      "source": "The Decoder",
-      "published": "2026-07-16T14:02:13+00:00",
-      "link": "https://the-decoder.com/sakana-ais-fugu-adds-nvidia-nemotron-to-prove-collective-intelligence-can-rival-single-frontier-models/"
-    },
-    {
-      "title": "Apple Intelligence approved for launch in China with Alibaba and Baidu",
-      "summary": "The deal, which was rumored to be in the works last year, marks an important step for Apple's AI ambitions in a key market.",
-      "source": "TechCrunch",
-      "published": "2026-07-16T13:17:59+00:00",
-      "link": "https://techcrunch.com/2026/07/16/apple-intelligence-approved-for-launch-in-china-with-alibabas-qwen-ai/"
-    },
-    {
-      "title": "Generative AI Is an Engineering Disaster",
-      "summary": "Article URL: https://www.theatlantic.com/technology/2026/07/generative-ai-engineering-disaster/687901/ Comments URL: https://news.ycombinator.com/item?id=48934046 Points: 109 # Comments: 87",
-      "source": "Hacker News",
-      "published": "2026-07-16T13:12:24+00:00",
-      "link": "https://www.theatlantic.com/technology/2026/07/generative-ai-engineering-disaster/687901/"
-    },
-    {
-      "title": "Claude can now use your 1Password credentials for you",
-      "summary": "1Password has launched a new browser integration for Claude that allows the Anthropic chatbot to access stored security credentials like usernames and passwords.",
-      "source": "The Verge",
-      "published": "2026-07-16T13:00:00+00:00",
-      "link": "https://www.theverge.com/tech/966442/1password-anthropic-claude-browser-integration"
-    },
-    {
-      "title": "The Download: OpenAI unveils GPT-Red and heat pumps rise in the US",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.",
-      "source": "MIT Tech Review",
-      "published": "2026-07-16T12:10:00+00:00",
-      "link": "https://www.technologyreview.com/2026/07/16/1140600/the-download-openai-unveils-gpt-red-heat-pumps-rise-us/"
     }
   ]
 };
