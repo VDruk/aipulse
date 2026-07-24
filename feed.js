@@ -1,6 +1,20 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-07-24T18:14:56.097570+00:00",
+  "lastUpdated": "2026-07-24T21:57:43.878514+00:00",
   "items": [
+    {
+      "title": "Midjourney bought the astrology app Co-Star",
+      "summary": "Midjourney, which has gone from generating AI cat images to full-body ultrasound scans, is getting into a new field: astrology. The AI startup announced on Thursday that it has acquired the personalized astrology app Co-Star, as reported earlier by Bloomberg.",
+      "source": "The Verge",
+      "published": "2026-07-24T19:06:58+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/970894/midjourney-co-star-acquisition"
+    },
+    {
+      "title": "Anthropic claims its new Claude Opus 5 delivers near-Fable 5 performance at half the token price",
+      "summary": "Anthropic's new flagship model Claude Opus 5 posts top scores in coding and knowledge work at half of Fable 5's token rates. On ARC-AGI-3, a benchmark for novel problem-solving, Opus 5 hits 30.2 percent, nearly four times higher than GPT-5.6 Sol.",
+      "source": "The Decoder",
+      "published": "2026-07-24T18:36:42+00:00",
+      "link": "https://the-decoder.com/anthropic-claims-its-new-claude-opus-5-delivers-near-fable-5-performance-at-half-the-token-price/"
+    },
     {
       "title": "Why Cognition bought Poke: AI personality is becoming a competitive advantage",
       "summary": "AI coding startup Cognition has acquired Poke, the AI assistant you text like a friend, in a deal valuing the startup in the low nine figures.",
@@ -121,6 +135,13 @@ const FEED_DATA = {
       "link": "https://techcrunch.com/podcast/ai-communism-rogue-models-and-the-why-kimi-k3-spooked-wall-street/"
     },
     {
+      "title": "Open Weights and American AI Leadership [pdf]",
+      "summary": "Article URL: https://images.nvidia.com/pdf/Open-Weights-and-American-AI-Leadership.pdf Comments URL: https://news.ycombinator.com/item?id=49035751 Points: 111 # Comments: 2",
+      "source": "Hacker News",
+      "published": "2026-07-24T13:58:12+00:00",
+      "link": "https://images.nvidia.com/pdf/Open-Weights-and-American-AI-Leadership.pdf"
+    },
+    {
       "title": "OpenAI’s new voice mode makes it to the ChatGPT desktop app",
       "summary": "ChatGPT Voice on desktop can work with both ChatGPT Work and Codex to complete tasks and control agents.",
       "source": "TechCrunch",
@@ -129,7 +150,7 @@ const FEED_DATA = {
     },
     {
       "title": "Oracle fires 21,000 employees to fund AI spending",
-      "summary": "Article URL: https://www.jpost.com/business-and-innovation/tech-and-start-ups/article-903442 Comments URL: https://news.ycombinator.com/item?id=49035314 Points: 57 # Comments: 7",
+      "summary": "Article URL: https://www.jpost.com/business-and-innovation/tech-and-start-ups/article-903442 Comments URL: https://news.ycombinator.com/item?id=49035314 Points: 71 # Comments: 13",
       "source": "Hacker News",
       "published": "2026-07-24T13:33:12+00:00",
       "link": "https://www.jpost.com/business-and-innovation/tech-and-start-ups/article-903442"
@@ -150,7 +171,7 @@ const FEED_DATA = {
     },
     {
       "title": "I Tried Building a Real App with AI. It Took a Year",
-      "summary": "Article URL: https://www.alexhyett.com/videos/tried-building-app-with-ai-it-took-a-year/ Comments URL: https://news.ycombinator.com/item?id=49034342 Points: 64 # Comments: 61",
+      "summary": "Article URL: https://www.alexhyett.com/videos/tried-building-app-with-ai-it-took-a-year/ Comments URL: https://news.ycombinator.com/item?id=49034342 Points: 83 # Comments: 73",
       "source": "Hacker News",
       "published": "2026-07-24T12:00:17+00:00",
       "link": "https://www.alexhyett.com/videos/tried-building-app-with-ai-it-took-a-year/"
@@ -178,7 +199,7 @@ const FEED_DATA = {
     },
     {
       "title": "Hetzner is working on LLM Inference",
-      "summary": "Article URL: https://sliplane.io/blog/hetzner-inference Comments URL: https://news.ycombinator.com/item?id=49033087 Points: 120 # Comments: 50",
+      "summary": "Article URL: https://sliplane.io/blog/hetzner-inference Comments URL: https://news.ycombinator.com/item?id=49033087 Points: 142 # Comments: 76",
       "source": "Hacker News",
       "published": "2026-07-24T09:24:44+00:00",
       "link": "https://sliplane.io/blog/hetzner-inference"
@@ -199,7 +220,7 @@ const FEED_DATA = {
     },
     {
       "title": "A taxonomy of omnicidal futures involving artificial intelligence (2025)",
-      "summary": "Article URL: https://arxiv.org/abs/2507.09369 Comments URL: https://news.ycombinator.com/item?id=49029133 Points: 71 # Comments: 73",
+      "summary": "Article URL: https://arxiv.org/abs/2507.09369 Comments URL: https://news.ycombinator.com/item?id=49029133 Points: 71 # Comments: 77",
       "source": "Hacker News",
       "published": "2026-07-23T22:51:13+00:00",
       "link": "https://arxiv.org/abs/2507.09369"
@@ -255,7 +276,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI bet goes awry: Oracle fires 21,000 employees",
-      "summary": "Article URL: https://www.msn.com/en-us/money/economy/ai-bet-goes-awry-oracle-fires-21-000-employees/ar-AA28vWuD Comments URL: https://news.ycombinator.com/item?id=49025754 Points: 103 # Comments: 25",
+      "summary": "Article URL: https://www.msn.com/en-us/money/economy/ai-bet-goes-awry-oracle-fires-21-000-employees/ar-AA28vWuD Comments URL: https://news.ycombinator.com/item?id=49025754 Points: 105 # Comments: 25",
       "source": "Hacker News",
       "published": "2026-07-23T18:07:33+00:00",
       "link": "https://www.msn.com/en-us/money/economy/ai-bet-goes-awry-oracle-fires-21-000-employees/ar-AA28vWuD"
@@ -297,7 +318,7 @@ const FEED_DATA = {
     },
     {
       "title": "The arguments against open source AI are bad",
-      "summary": "Article URL: https://tombedor.dev/arguments-against-open-source-ai-are-very-bad/ Comments URL: https://news.ycombinator.com/item?id=49024643 Points: 297 # Comments: 203",
+      "summary": "Article URL: https://tombedor.dev/arguments-against-open-source-ai-are-very-bad/ Comments URL: https://news.ycombinator.com/item?id=49024643 Points: 305 # Comments: 210",
       "source": "Hacker News",
       "published": "2026-07-23T16:49:57+00:00",
       "link": "https://tombedor.dev/arguments-against-open-source-ai-are-very-bad/"
@@ -318,7 +339,7 @@ const FEED_DATA = {
     },
     {
       "title": "Startup founders urge U.S. government not to shut off Chinese open weight AI",
-      "summary": "https://littletech.org/https://static.politico.com/4a/bf/9c4021d8404386b0a311dcccf0... Comments URL: https://news.ycombinator.com/item?id=49023016 Points: 1017 # Comments: 833",
+      "summary": "https://littletech.org/https://static.politico.com/4a/bf/9c4021d8404386b0a311dcccf0... Comments URL: https://news.ycombinator.com/item?id=49023016 Points: 1037 # Comments: 840",
       "source": "Hacker News",
       "published": "2026-07-23T15:18:40+00:00",
       "link": "https://www.politico.com/news/2026/07/22/startup-founders-urge-trump-not-to-shut-off-chinese-open-weight-ai-01008992"
@@ -367,7 +388,7 @@ const FEED_DATA = {
     },
     {
       "title": "I think you might be fooling yourself with AI",
-      "summary": "Article URL: https://louwrentius.com/i-think-you-might-be-fooling-yourself-with-ai.html Comments URL: https://news.ycombinator.com/item?id=49021843 Points: 81 # Comments: 166",
+      "summary": "Article URL: https://louwrentius.com/i-think-you-might-be-fooling-yourself-with-ai.html Comments URL: https://news.ycombinator.com/item?id=49021843 Points: 83 # Comments: 167",
       "source": "Hacker News",
       "published": "2026-07-23T14:05:43+00:00",
       "link": "https://louwrentius.com/i-think-you-might-be-fooling-yourself-with-ai.html"
@@ -381,28 +402,28 @@ const FEED_DATA = {
     },
     {
       "title": "DARPA, U.S. Air Force fly AI-controlled F-16",
-      "summary": "Article URL: https://www.darpa.mil/news/2026/darpa-us-air-force-fly-ai-controlled-f-16 Comments URL: https://news.ycombinator.com/item?id=49021597 Points: 257 # Comments: 310",
+      "summary": "Article URL: https://www.darpa.mil/news/2026/darpa-us-air-force-fly-ai-controlled-f-16 Comments URL: https://news.ycombinator.com/item?id=49021597 Points: 259 # Comments: 320",
       "source": "Hacker News",
       "published": "2026-07-23T13:51:36+00:00",
       "link": "https://www.darpa.mil/news/2026/darpa-us-air-force-fly-ai-controlled-f-16"
     },
     {
       "title": "Alphabet's cash burn raises alarm for Big Tech as AI spending climbs",
-      "summary": "Article URL: https://www.reuters.com/business/retail-consumer/alphabets-cash-burn-raises-alarm-big-tech-ai-spending-climbs-2026-07-23/ Comments URL: https://news.ycombinator.com/item?id=49021006 Points: 267 # Comments: 281",
+      "summary": "Article URL: https://www.reuters.com/business/retail-consumer/alphabets-cash-burn-raises-alarm-big-tech-ai-spending-climbs-2026-07-23/ Comments URL: https://news.ycombinator.com/item?id=49021006 Points: 267 # Comments: 282",
       "source": "Hacker News",
       "published": "2026-07-23T13:10:02+00:00",
       "link": "https://www.reuters.com/business/retail-consumer/alphabets-cash-burn-raises-alarm-big-tech-ai-spending-climbs-2026-07-23/"
     },
     {
       "title": "AI Companies Are Trying to Hide a Staggering Amount of Debt",
-      "summary": "Article URL: https://futurism.com/artificial-intelligence/ai-companies-hide-debt-off-balance-sheet Comments URL: https://news.ycombinator.com/item?id=49020999 Points: 667 # Comments: 352",
+      "summary": "Article URL: https://futurism.com/artificial-intelligence/ai-companies-hide-debt-off-balance-sheet Comments URL: https://news.ycombinator.com/item?id=49020999 Points: 676 # Comments: 363",
       "source": "Hacker News",
       "published": "2026-07-23T13:09:10+00:00",
       "link": "https://futurism.com/artificial-intelligence/ai-companies-hide-debt-off-balance-sheet"
     },
     {
       "title": "OpenAI and Anthropic unite against open-weight AI risks to their bottom line",
-      "summary": "Article URL: https://www.axios.com/2026/07/22/openai-anthropic-open-models-trump-china Comments URL: https://news.ycombinator.com/item?id=49020868 Points: 287 # Comments: 328",
+      "summary": "Article URL: https://www.axios.com/2026/07/22/openai-anthropic-open-models-trump-china Comments URL: https://news.ycombinator.com/item?id=49020868 Points: 291 # Comments: 330",
       "source": "Hacker News",
       "published": "2026-07-23T13:00:03+00:00",
       "link": "https://www.axios.com/2026/07/22/openai-anthropic-open-models-trump-china"
@@ -413,6 +434,13 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-07-23T12:24:53+00:00",
       "link": "https://the-decoder.com/poolsides-laguna-s-2-1-is-a-small-open-weight-coding-model-that-punches-well-above-its-size/"
+    },
+    {
+      "title": "Google’s ATLAS is a look at how people are using AI",
+      "summary": "Article URL: https://blog.google/innovation-and-ai/technology/research/understanding-the-ai-economy/ Comments URL: https://news.ycombinator.com/item?id=49020335 Points: 75 # Comments: 147",
+      "source": "Hacker News",
+      "published": "2026-07-23T12:11:05+00:00",
+      "link": "https://blog.google/innovation-and-ai/technology/research/understanding-the-ai-economy/"
     },
     {
       "title": "Understanding the AI Economy",
@@ -451,7 +479,7 @@ const FEED_DATA = {
     },
     {
       "title": "New Framework Desktop Option with AMD Ryzen AI Max+ Pro 495 and 192GB Memory",
-      "summary": "Article URL: https://frame.work/desktop?tab=192gb-coming-soon Comments URL: https://news.ycombinator.com/item?id=49019694 Points: 77 # Comments: 111",
+      "summary": "Article URL: https://frame.work/desktop?tab=192gb-coming-soon Comments URL: https://news.ycombinator.com/item?id=49019694 Points: 77 # Comments: 113",
       "source": "Hacker News",
       "published": "2026-07-23T11:09:48+00:00",
       "link": "https://frame.work/desktop?tab=192gb-coming-soon"
@@ -556,7 +584,7 @@ const FEED_DATA = {
     },
     {
       "title": "Are AI labs pelicanmaxxing?",
-      "summary": "Article URL: https://dylancastillo.co/posts/pelicanmaxxing.html Comments URL: https://news.ycombinator.com/item?id=49010129 Points: 674 # Comments: 241",
+      "summary": "Article URL: https://dylancastillo.co/posts/pelicanmaxxing.html Comments URL: https://news.ycombinator.com/item?id=49010129 Points: 678 # Comments: 242",
       "source": "Hacker News",
       "published": "2026-07-22T17:17:54+00:00",
       "link": "https://dylancastillo.co/posts/pelicanmaxxing.html"
@@ -626,7 +654,7 @@ const FEED_DATA = {
     },
     {
       "title": "Most Americans say \"not in my backyard\" to AI data centers",
-      "summary": "Article URL: https://www.redfin.com/news/ai-data-centers-opposition-education-benefit/ Comments URL: https://news.ycombinator.com/item?id=49007525 Points: 145 # Comments: 305",
+      "summary": "Article URL: https://www.redfin.com/news/ai-data-centers-opposition-education-benefit/ Comments URL: https://news.ycombinator.com/item?id=49007525 Points: 145 # Comments: 306",
       "source": "Hacker News",
       "published": "2026-07-22T14:34:27+00:00",
       "link": "https://www.redfin.com/news/ai-data-centers-opposition-education-benefit/"
@@ -1372,34 +1400,6 @@ const FEED_DATA = {
       "source": "Hacker News",
       "published": "2026-07-18T11:12:46+00:00",
       "link": "https://data.stackexchange.com/stackoverflow/query/1953768#graph"
-    },
-    {
-      "title": "Why do AI company logos look like buttholes? (2025)",
-      "summary": "Article URL: https://velvetshark.com/ai-company-logos-that-look-like-buttholes Comments URL: https://news.ycombinator.com/item?id=48956924 Points: 452 # Comments: 146",
-      "source": "Hacker News",
-      "published": "2026-07-18T11:06:50+00:00",
-      "link": "https://velvetshark.com/ai-company-logos-that-look-like-buttholes"
-    },
-    {
-      "title": "Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal help?",
-      "summary": "Article URL: https://charlesazam.com/blog/fable-5-gpt-5-6-sol-goal/ Comments URL: https://news.ycombinator.com/item?id=48956879 Points: 257 # Comments: 125",
-      "source": "Hacker News",
-      "published": "2026-07-18T11:00:29+00:00",
-      "link": "https://charlesazam.com/blog/fable-5-gpt-5-6-sol-goal/"
-    },
-    {
-      "title": "China's new World Artificial Intelligence Cooperation Organization is President Xi's clearest play yet for a parallel AI order",
-      "summary": "At the World AI Conference in Shanghai, Xi Jinping announced 5,000 AI training slots for Global South countries and the launch of the \"World Artificial Intelligence Cooperation Organization.\" Cooperation centers with ASEAN, the African Union, BRICS, and other alliances are...",
-      "source": "The Decoder",
-      "published": "2026-07-18T10:46:04+00:00",
-      "link": "https://the-decoder.com/chinas-new-world-artificial-intelligence-cooperation-organization-is-president-xis-clearest-play-yet-for-a-parallel-ai-order/"
-    },
-    {
-      "title": "Your Period Tracker Is (Probably) Spying on You",
-      "summary": "Plus: Russian cyberspies turn to infrastructure hacking, DHS repeatedly fails to realize it’d been hacked, a breach exposes an AI music generator’s scraping ways, and more.",
-      "source": "Wired",
-      "published": "2026-07-18T10:30:00+00:00",
-      "link": "https://www.wired.com/story/security-news-this-week-your-period-tracker-is-probably-spying-on-you/"
     }
   ]
 };
