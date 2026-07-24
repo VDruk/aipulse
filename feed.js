@@ -1,6 +1,104 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-07-24T14:57:13.886619+00:00",
+  "lastUpdated": "2026-07-24T18:14:56.097570+00:00",
   "items": [
+    {
+      "title": "Why Cognition bought Poke: AI personality is becoming a competitive advantage",
+      "summary": "AI coding startup Cognition has acquired Poke, the AI assistant you text like a friend, in a deal valuing the startup in the low nine figures.",
+      "source": "TechCrunch",
+      "published": "2026-07-24T18:07:32+00:00",
+      "link": "https://techcrunch.com/2026/07/24/why-cognition-bought-poke-ai-personality-is-becoming-a-competitive-advantage/"
+    },
+    {
+      "title": "Did Chinese AI Steal From Anthropic, and OpenAI Loses Control of Two Models",
+      "summary": "On this episode of Uncanny Valley, we dive into accusations that China’s Moonshot AI stole from Anthropic, and how the US Army needs to cut back on AI use.",
+      "source": "Wired",
+      "published": "2026-07-24T17:53:01+00:00",
+      "link": "https://www.wired.com/story/uncanny-valley-podcast/"
+    },
+    {
+      "title": "You can’t ignore Google Zero anymore",
+      "summary": "The web and Google once had a deal: Google collects data and indexes webpages and in exchange sends oceans of traffic to websites. The deal wasn't perfect and certainly made Google more money than it made the websites, but it worked for a long time.",
+      "source": "The Verge",
+      "published": "2026-07-24T17:29:48+00:00",
+      "link": "https://www.theverge.com/podcast/970735/google-zero-reddit-ai-publishers-vergecast"
+    },
+    {
+      "title": "The quest to keep organs alive outside the body",
+      "summary": "This week, I covered a fascinating effort to preserve organs outside the body. There’s a huge shortage of donor organs, and one of the main reasons is time—they survive only a matter of hours outside the body, even when they’re kept on ice.",
+      "source": "MIT Tech Review",
+      "published": "2026-07-24T17:03:55+00:00",
+      "link": "https://www.technologyreview.com/2026/07/24/1140790/the-quest-to-keep-organs-alive-outside-the-body/"
+    },
+    {
+      "title": "Anthropic launches Opus 5",
+      "summary": "Opus 5 will be both cheaper and less restrictive than Fable, likely making it preferable in most use cases.",
+      "source": "TechCrunch",
+      "published": "2026-07-24T17:00:00+00:00",
+      "link": "https://techcrunch.com/2026/07/24/anthropic-launches-opus-5/"
+    },
+    {
+      "title": "Anthropic releases Opus 5 with ‘close’ to Fable 5’s capabilities",
+      "summary": "Weeks after Anthropic's latest toe-to-toe with the US government, and days after an OpenAI security incident that dominated tech industry discussions, Anthropic on Thursday released its newest model, Claude Opus 5.",
+      "source": "The Verge",
+      "published": "2026-07-24T17:00:00+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/970105/claude-opus-5-announced-anthropic-ai-model-release"
+    },
+    {
+      "title": "Meta is making its AI chatbot more like an assistant",
+      "summary": "Meta is upgrading its AI chatbot with new productivity features in a bid to compete with rivals like Gemini, ChatGPT, and Claude.",
+      "source": "The Verge",
+      "published": "2026-07-24T17:00:00+00:00",
+      "link": "https://www.theverge.com/tech/970570/meta-ai-chatbot-productivity-update"
+    },
+    {
+      "title": "Meta, Microsoft, Nvidia, IBM, and others back open-weight AI",
+      "summary": "Two dozen companies and organisations signed an open letter urging US policymakers to protect open-weight AI models.",
+      "source": "AI News",
+      "published": "2026-07-24T16:18:30+00:00",
+      "link": "https://www.artificialintelligence-news.com/news/meta-microsoft-nvidia-ibm-others-back-open-weight-ai/"
+    },
+    {
+      "title": "Microsoft's open-weight AI push is so obviously an Azure play it hurts",
+      "summary": "Microsoft, along with Meta, Nvidia, and more than 20 other companies, is pushing for open-weight AI models in an open letter. The strategic logic is simple: the more models running on Azure, the less Microsoft depends on expensive OpenAI and Anthropic models.",
+      "source": "The Decoder",
+      "published": "2026-07-24T16:06:02+00:00",
+      "link": "https://the-decoder.com/microsofts-open-weight-ai-push-is-so-obviously-an-azure-play-it-hurts/"
+    },
+    {
+      "title": "As US weighs response to Chinese AI, industry urges against broad open-weight restrictions",
+      "summary": "AI companies, including Nvidia and Mistral, urge policymakers to avoid broad restrictions on open-weight AI models as Washington debates responses to Chinese AI and alleged model distillation.",
+      "source": "TechCrunch",
+      "published": "2026-07-24T15:51:49+00:00",
+      "link": "https://techcrunch.com/2026/07/24/as-us-weighs-response-to-chinese-ai-industry-urges-against-broad-open-weight-restrictions/"
+    },
+    {
+      "title": "Bluesky’s AI assistant Attie expands into an open social research tool",
+      "summary": "Users can now ask Attie questions about news, trends, and conversations on Bluesky and other apps on the AT Protocol.",
+      "source": "TechCrunch",
+      "published": "2026-07-24T15:13:57+00:00",
+      "link": "https://techcrunch.com/2026/07/24/blueskys-ai-assistant-attie-expands-into-an-open-social-research-tool/"
+    },
+    {
+      "title": "Midjourney acquired the astrology app Co-Star",
+      "summary": "The AI lab Midjourney continues to expand its purview beyond image and video generation.",
+      "source": "TechCrunch",
+      "published": "2026-07-24T15:09:55+00:00",
+      "link": "https://techcrunch.com/2026/07/24/midjourney-acquired-the-astrology-app-co-star/"
+    },
+    {
+      "title": "Silicon Valley Is Completely Divided Over Chinese AI",
+      "summary": "The AI “startups” worth billions of dollars are raising alarm bells about Chinese AI. The smaller players have a totally different take.",
+      "source": "Wired",
+      "published": "2026-07-24T15:00:00+00:00",
+      "link": "https://www.wired.com/story/silicon-valley-is-completely-divided-over-chinese-ai/"
+    },
+    {
+      "title": "OpenAI pushes ChatGPT into patient health records",
+      "summary": "OpenAI is deploying a Health feature inside ChatGPT, giving users the option to connect Apple Health data and medical records to the chatbot. Logged-in users aged 18 and older can access it now on web and iOS, across the Free, Go, Plus, and Pro tiers.",
+      "source": "AI News",
+      "published": "2026-07-24T14:58:17+00:00",
+      "link": "https://www.artificialintelligence-news.com/news/openai-pushes-chatgpt-into-patient-health-records/"
+    },
     {
       "title": "The tech-broification of American science has officially begun",
       "summary": "The Trump administration unveiled the first \"Genesis Mission\" grants on Thursday, directing $5 billion toward hundreds of AI-driven science projects in an effort the White House has described as \"comparable in urgency and ambition to the Manhattan Project.\" At roughly the same...",
@@ -14,6 +112,13 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-07-24T14:37:57+00:00",
       "link": "https://the-decoder.com/sakana-claims-its-ai-model-router-fugu-ultra-v1-1-now-beats-fable-5-without-even-including-it-in-the-pool/"
+    },
+    {
+      "title": "‘AI communism’, rogue models, and the why Kimi K3 spooked Wall Street",
+      "summary": "Chinese AI lab Moonshot’s open model Kimi went viral this week for reasons that had less to do with the model itself and more to do with how the U.S. AI industry reacted to it.",
+      "source": "TechCrunch",
+      "published": "2026-07-24T14:00:00+00:00",
+      "link": "https://techcrunch.com/podcast/ai-communism-rogue-models-and-the-why-kimi-k3-spooked-wall-street/"
     },
     {
       "title": "OpenAI’s new voice mode makes it to the ChatGPT desktop app",
@@ -1295,111 +1400,6 @@ const FEED_DATA = {
       "source": "Wired",
       "published": "2026-07-18T10:30:00+00:00",
       "link": "https://www.wired.com/story/security-news-this-week-your-period-tracker-is-probably-spying-on-you/"
-    },
-    {
-      "title": "Open-weight models now match frontier cyber performance from just four months ago at a fraction of the cost",
-      "summary": "The British AI Security Institute warns that open-weight models like GLM-5.2 and DeepSeek V4-Pro now trail closed frontier models in cyber capabilities by four to seven months. At the start of 2025, the gap was still six to ten months.",
-      "source": "The Decoder",
-      "published": "2026-07-18T10:16:02+00:00",
-      "link": "https://the-decoder.com/open-weight-models-now-match-frontier-cyber-performance-from-just-four-months-ago-at-a-fraction-of-the-cost/"
-    },
-    {
-      "title": "How Google’s New Gemini Rates Work and How to Track Your Usage",
-      "summary": "Now that Google has changed how its usage quotas are tallied, you might not get as many AI responses as you did before.",
-      "source": "Wired",
-      "published": "2026-07-18T10:00:00+00:00",
-      "link": "https://www.wired.com/story/how-googles-new-gemini-rates-work-and-how-to-track-your-usage/"
-    },
-    {
-      "title": "Prompt Injection Attacks Are Thwarting AI Hacking Agents",
-      "summary": "“Context bombing” tricks malicious AI agents into shutting down before they can do harm.",
-      "source": "Wired",
-      "published": "2026-07-18T09:00:00+00:00",
-      "link": "https://www.wired.com/story/prompt-injection-attacks-are-thwarting-ai-hacking-agents/"
-    },
-    {
-      "title": "The Pentagon's new AI playbook treats slow adoption as a bigger risk than imperfect alignment",
-      "summary": "The US Department of the Navy has signed a strategy to \"weaponize\" data and AI and build an \"AI-first\" fleet. Large language models would run directly on warships, and an AI war council would prioritize mission scenarios.",
-      "source": "The Decoder",
-      "published": "2026-07-18T08:10:40+00:00",
-      "link": "https://the-decoder.com/the-pentagons-new-ai-playbook-treats-slow-adoption-as-a-bigger-risk-than-imperfect-alignment/"
-    },
-    {
-      "title": "Anthropic slashes Claude Fable 5 limits in Max and Team Premium and pushes Pro users toward API pricing",
-      "summary": "Anthropic will include Claude Fable 5 in Max and Team Premium plans starting July 20, but at just 50 percent of regular limits, which themselves drop by a third that same day. Pro users get a one-time $100 credit, then pay API rates.",
-      "source": "The Decoder",
-      "published": "2026-07-18T07:17:11+00:00",
-      "link": "https://the-decoder.com/anthropic-slashes-claude-fable-5-limits-in-max-and-team-premium-and-pushes-pro-users-toward-api-pricing/"
-    },
-    {
-      "title": "Neil Rimer thinks the AI money is coming back out",
-      "summary": "Neil Rimer, the venture capitalist who co-founded Index Ventures, predicts the historic wealth AI is generating in Silicon Valley will have to be redistributed, voluntarily or involuntarily.",
-      "source": "TechCrunch",
-      "published": "2026-07-18T04:47:25+00:00",
-      "link": "https://techcrunch.com/2026/07/17/neil-rimer-thinks-the-ai-money-is-coming-back-out/"
-    },
-    {
-      "title": "A grumpy screed about AI in software engineering",
-      "summary": "Article URL: https://sam.sutch.net/posts/a-grumpy-ai-screed Comments URL: https://news.ycombinator.com/item?id=48953924 Points: 61 # Comments: 82",
-      "source": "Hacker News",
-      "published": "2026-07-18T00:40:08+00:00",
-      "link": "https://sam.sutch.net/posts/a-grumpy-ai-screed"
-    },
-    {
-      "title": "Vertu wants executives to pay $6,880 for an AI agent — here’s how it actually performs",
-      "summary": "From AI workflows to battery life and security, here's what it's really like to live with Vertu's luxury foldable every day.",
-      "source": "TechCrunch",
-      "published": "2026-07-17T22:55:09+00:00",
-      "link": "https://techcrunch.com/2026/07/17/vertu-wants-executives-to-pay-6880-for-an-ai-agent-heres-how-it-actually-performs/"
-    },
-    {
-      "title": "Kaiser nurses say AI, surveillance are making their jobs and patient care worse",
-      "summary": "Article URL: https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse/ Comments URL: https://news.ycombinator.com/item?id=48952880 Points: 562 # Comments: 378",
-      "source": "Hacker News",
-      "published": "2026-07-17T22:26:30+00:00",
-      "link": "https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse/"
-    },
-    {
-      "title": "Kaiser nurses say AI, workplace surveillance are making their jobs, care worse",
-      "summary": "Article URL: https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse/ Comments URL: https://news.ycombinator.com/item?id=48952880 Points: 471 # Comments: 301",
-      "source": "Hacker News",
-      "published": "2026-07-17T22:26:30+00:00",
-      "link": "https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse/"
-    },
-    {
-      "title": "Databricks hits $188B valuation, extending its run as AI’s favorite second act",
-      "summary": "Databricks has remade its image into an AI company and has published research on the cost savings of open-weight AI models for coding.",
-      "source": "TechCrunch",
-      "published": "2026-07-17T22:12:56+00:00",
-      "link": "https://techcrunch.com/2026/07/17/databricks-hits-188b-valuation-extending-its-run-as-ais-favorite-second-act/"
-    },
-    {
-      "title": "Everybody's Weirded Out by AI–Except the People Who Foist It on Us",
-      "summary": "Article URL: https://newrepublic.com/article/213004/everybody-weirded-ai-except-people-foist-us Comments URL: https://news.ycombinator.com/item?id=48952445 Points: 68 # Comments: 77",
-      "source": "Hacker News",
-      "published": "2026-07-17T21:24:07+00:00",
-      "link": "https://newrepublic.com/article/213004/everybody-weirded-ai-except-people-foist-us"
-    },
-    {
-      "title": "Zuckerberg's plan to sell excess AI compute could finds its first big customer in Anthropic",
-      "summary": "Meta is reportedly in talks with Anthropic to rent out compute capacity from its data centers. The article Zuckerberg's plan to sell excess AI compute could finds its first big customer in Anthropic appeared first on The Decoder.",
-      "source": "The Decoder",
-      "published": "2026-07-17T21:16:00+00:00",
-      "link": "https://the-decoder.com/zuckerbergs-plan-to-sell-excess-ai-compute-could-finds-its-first-big-customer-in-anthropic/"
-    },
-    {
-      "title": "Agility Robotics plants its flag in Tesla’s backyard",
-      "summary": "Agility is opening a new training center for its Digit robots in Fremont, California.",
-      "source": "TechCrunch",
-      "published": "2026-07-17T20:19:49+00:00",
-      "link": "https://techcrunch.com/2026/07/17/agility-robotics-plants-its-flag-in-teslas-backyard/"
-    },
-    {
-      "title": "AI-driven memory crunch jolts India’s smartphone market",
-      "summary": "India's smartphone slowdown highlights how the AI boom is reshaping consumer electronics, from pricing and demand to corporate strategy.",
-      "source": "TechCrunch",
-      "published": "2026-07-17T20:09:27+00:00",
-      "link": "https://techcrunch.com/2026/07/17/ai-driven-memory-crunch-jolts-indias-smartphone-market/"
     }
   ]
 };
