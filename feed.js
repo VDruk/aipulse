@@ -1,6 +1,62 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-07-24T10:51:32.033432+00:00",
+  "lastUpdated": "2026-07-24T14:57:13.886619+00:00",
   "items": [
+    {
+      "title": "The tech-broification of American science has officially begun",
+      "summary": "The Trump administration unveiled the first \"Genesis Mission\" grants on Thursday, directing $5 billion toward hundreds of AI-driven science projects in an effort the White House has described as \"comparable in urgency and ambition to the Manhattan Project.\" At roughly the same...",
+      "source": "The Verge",
+      "published": "2026-07-24T14:43:55+00:00",
+      "link": "https://www.theverge.com/science/970534/genesis-mission-ai-science-funding-trump-grants"
+    },
+    {
+      "title": "Sakana claims its AI model router Fugu Ultra v1.1 now beats Fable 5 without even including it in the pool",
+      "summary": "Sakana AI has updated its Fugu Ultra AI router to version 1.1, claiming gains of up to 7.9 points over v1.0. Independent verification doesn't exist yet.",
+      "source": "The Decoder",
+      "published": "2026-07-24T14:37:57+00:00",
+      "link": "https://the-decoder.com/sakana-claims-its-ai-model-router-fugu-ultra-v1-1-now-beats-fable-5-without-even-including-it-in-the-pool/"
+    },
+    {
+      "title": "OpenAI’s new voice mode makes it to the ChatGPT desktop app",
+      "summary": "ChatGPT Voice on desktop can work with both ChatGPT Work and Codex to complete tasks and control agents.",
+      "source": "TechCrunch",
+      "published": "2026-07-24T13:36:42+00:00",
+      "link": "https://techcrunch.com/2026/07/24/openais-new-voice-mode-makes-it-to-the-chatgpt-desktop-app/"
+    },
+    {
+      "title": "Oracle fires 21,000 employees to fund AI spending",
+      "summary": "Article URL: https://www.jpost.com/business-and-innovation/tech-and-start-ups/article-903442 Comments URL: https://news.ycombinator.com/item?id=49035314 Points: 57 # Comments: 7",
+      "source": "Hacker News",
+      "published": "2026-07-24T13:33:12+00:00",
+      "link": "https://www.jpost.com/business-and-innovation/tech-and-start-ups/article-903442"
+    },
+    {
+      "title": "German AI consortium releases Soofi S, an open 30B model that tops benchmarks in both English and German",
+      "summary": "The German consortium behind the AI model Soofi S has acknowledged in version 3.0 of its tech report that test questions from the science benchmark GPQA accidentally ended up in the training data. The community caught the error by examining the publicly available data.",
+      "source": "The Decoder",
+      "published": "2026-07-24T12:56:01+00:00",
+      "link": "https://the-decoder.com/german-ai-consortium-releases-soofi-s-an-open-30b-model-that-tops-benchmarks-in-both-english-and-german/"
+    },
+    {
+      "title": "The Download: an organ transplant breakthrough, and homegrown Chinese chips",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Supercooled kidneys have been transplanted into pigs in a “landmark achievement” When it comes to organ donation, time is everything.",
+      "source": "MIT Tech Review",
+      "published": "2026-07-24T12:10:00+00:00",
+      "link": "https://www.technologyreview.com/2026/07/24/1140776/the-download-organ-transplant-breakthrough-chinese-chips/"
+    },
+    {
+      "title": "I Tried Building a Real App with AI. It Took a Year",
+      "summary": "Article URL: https://www.alexhyett.com/videos/tried-building-app-with-ai-it-took-a-year/ Comments URL: https://news.ycombinator.com/item?id=49034342 Points: 64 # Comments: 61",
+      "source": "Hacker News",
+      "published": "2026-07-24T12:00:17+00:00",
+      "link": "https://www.alexhyett.com/videos/tried-building-app-with-ai-it-took-a-year/"
+    },
+    {
+      "title": "Claude's voice mode now runs on Anthropic's most capable models across all platforms",
+      "summary": "Voice conversations now run on the more powerful Opus and Sonnet models with access to Gmail, Google Calendar, and Slack.",
+      "source": "The Decoder",
+      "published": "2026-07-24T11:31:49+00:00",
+      "link": "https://the-decoder.com/claudes-voice-mode-now-runs-on-anthropics-most-capable-models-across-all-platforms/"
+    },
     {
       "title": "Some Kids Will Never Think AI Is Cool",
       "summary": "“I think it should stand for artificial idiot,” one 9-year-old says. Here’s why kids of all ages are calling AI “disgusting” and “creepy.”",
@@ -14,6 +70,13 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-07-24T09:48:32+00:00",
       "link": "https://the-decoder.com/kimi-k3-trails-frontier-us-models-by-a-wide-margin-on-cyber-exploits-and-distillation-may-explain-why/"
+    },
+    {
+      "title": "Hetzner is working on LLM Inference",
+      "summary": "Article URL: https://sliplane.io/blog/hetzner-inference Comments URL: https://news.ycombinator.com/item?id=49033087 Points: 120 # Comments: 50",
+      "source": "Hacker News",
+      "published": "2026-07-24T09:24:44+00:00",
+      "link": "https://sliplane.io/blog/hetzner-inference"
     },
     {
       "title": "OpenAI Presence sells enterprise AI agents with engineers attached",
@@ -31,7 +94,7 @@ const FEED_DATA = {
     },
     {
       "title": "A taxonomy of omnicidal futures involving artificial intelligence (2025)",
-      "summary": "Article URL: https://arxiv.org/abs/2507.09369 Comments URL: https://news.ycombinator.com/item?id=49029133 Points: 69 # Comments: 67",
+      "summary": "Article URL: https://arxiv.org/abs/2507.09369 Comments URL: https://news.ycombinator.com/item?id=49029133 Points: 71 # Comments: 73",
       "source": "Hacker News",
       "published": "2026-07-23T22:51:13+00:00",
       "link": "https://arxiv.org/abs/2507.09369"
@@ -87,7 +150,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI bet goes awry: Oracle fires 21,000 employees",
-      "summary": "Article URL: https://www.msn.com/en-us/money/economy/ai-bet-goes-awry-oracle-fires-21-000-employees/ar-AA28vWuD Comments URL: https://news.ycombinator.com/item?id=49025754 Points: 101 # Comments: 25",
+      "summary": "Article URL: https://www.msn.com/en-us/money/economy/ai-bet-goes-awry-oracle-fires-21-000-employees/ar-AA28vWuD Comments URL: https://news.ycombinator.com/item?id=49025754 Points: 103 # Comments: 25",
       "source": "Hacker News",
       "published": "2026-07-23T18:07:33+00:00",
       "link": "https://www.msn.com/en-us/money/economy/ai-bet-goes-awry-oracle-fires-21-000-employees/ar-AA28vWuD"
@@ -129,7 +192,7 @@ const FEED_DATA = {
     },
     {
       "title": "The arguments against open source AI are bad",
-      "summary": "Article URL: https://tombedor.dev/arguments-against-open-source-ai-are-very-bad/ Comments URL: https://news.ycombinator.com/item?id=49024643 Points: 283 # Comments: 196",
+      "summary": "Article URL: https://tombedor.dev/arguments-against-open-source-ai-are-very-bad/ Comments URL: https://news.ycombinator.com/item?id=49024643 Points: 297 # Comments: 203",
       "source": "Hacker News",
       "published": "2026-07-23T16:49:57+00:00",
       "link": "https://tombedor.dev/arguments-against-open-source-ai-are-very-bad/"
@@ -150,7 +213,7 @@ const FEED_DATA = {
     },
     {
       "title": "Startup founders urge U.S. government not to shut off Chinese open weight AI",
-      "summary": "https://littletech.org/https://static.politico.com/4a/bf/9c4021d8404386b0a311dcccf0... Comments URL: https://news.ycombinator.com/item?id=49023016 Points: 950 # Comments: 783",
+      "summary": "https://littletech.org/https://static.politico.com/4a/bf/9c4021d8404386b0a311dcccf0... Comments URL: https://news.ycombinator.com/item?id=49023016 Points: 1017 # Comments: 833",
       "source": "Hacker News",
       "published": "2026-07-23T15:18:40+00:00",
       "link": "https://www.politico.com/news/2026/07/22/startup-founders-urge-trump-not-to-shut-off-chinese-open-weight-ai-01008992"
@@ -185,7 +248,7 @@ const FEED_DATA = {
     },
     {
       "title": "How much energy do data centers and artificial intelligence use?",
-      "summary": "Article URL: https://ourworldindata.org/how-much-energy-do-data-centers-and-artificial-intelligence-use Comments URL: https://news.ycombinator.com/item?id=49022412 Points: 71 # Comments: 74",
+      "summary": "Article URL: https://ourworldindata.org/how-much-energy-do-data-centers-and-artificial-intelligence-use Comments URL: https://news.ycombinator.com/item?id=49022412 Points: 72 # Comments: 74",
       "source": "Hacker News",
       "published": "2026-07-23T14:40:30+00:00",
       "link": "https://ourworldindata.org/how-much-energy-do-data-centers-and-artificial-intelligence-use"
@@ -199,7 +262,7 @@ const FEED_DATA = {
     },
     {
       "title": "I think you might be fooling yourself with AI",
-      "summary": "Article URL: https://louwrentius.com/i-think-you-might-be-fooling-yourself-with-ai.html Comments URL: https://news.ycombinator.com/item?id=49021843 Points: 81 # Comments: 163",
+      "summary": "Article URL: https://louwrentius.com/i-think-you-might-be-fooling-yourself-with-ai.html Comments URL: https://news.ycombinator.com/item?id=49021843 Points: 81 # Comments: 166",
       "source": "Hacker News",
       "published": "2026-07-23T14:05:43+00:00",
       "link": "https://louwrentius.com/i-think-you-might-be-fooling-yourself-with-ai.html"
@@ -213,28 +276,28 @@ const FEED_DATA = {
     },
     {
       "title": "DARPA, U.S. Air Force fly AI-controlled F-16",
-      "summary": "Article URL: https://www.darpa.mil/news/2026/darpa-us-air-force-fly-ai-controlled-f-16 Comments URL: https://news.ycombinator.com/item?id=49021597 Points: 250 # Comments: 278",
+      "summary": "Article URL: https://www.darpa.mil/news/2026/darpa-us-air-force-fly-ai-controlled-f-16 Comments URL: https://news.ycombinator.com/item?id=49021597 Points: 257 # Comments: 310",
       "source": "Hacker News",
       "published": "2026-07-23T13:51:36+00:00",
       "link": "https://www.darpa.mil/news/2026/darpa-us-air-force-fly-ai-controlled-f-16"
     },
     {
       "title": "Alphabet's cash burn raises alarm for Big Tech as AI spending climbs",
-      "summary": "Article URL: https://www.reuters.com/business/retail-consumer/alphabets-cash-burn-raises-alarm-big-tech-ai-spending-climbs-2026-07-23/ Comments URL: https://news.ycombinator.com/item?id=49021006 Points: 265 # Comments: 269",
+      "summary": "Article URL: https://www.reuters.com/business/retail-consumer/alphabets-cash-burn-raises-alarm-big-tech-ai-spending-climbs-2026-07-23/ Comments URL: https://news.ycombinator.com/item?id=49021006 Points: 267 # Comments: 281",
       "source": "Hacker News",
       "published": "2026-07-23T13:10:02+00:00",
       "link": "https://www.reuters.com/business/retail-consumer/alphabets-cash-burn-raises-alarm-big-tech-ai-spending-climbs-2026-07-23/"
     },
     {
       "title": "AI Companies Are Trying to Hide a Staggering Amount of Debt",
-      "summary": "Article URL: https://futurism.com/artificial-intelligence/ai-companies-hide-debt-off-balance-sheet Comments URL: https://news.ycombinator.com/item?id=49020999 Points: 650 # Comments: 345",
+      "summary": "Article URL: https://futurism.com/artificial-intelligence/ai-companies-hide-debt-off-balance-sheet Comments URL: https://news.ycombinator.com/item?id=49020999 Points: 667 # Comments: 352",
       "source": "Hacker News",
       "published": "2026-07-23T13:09:10+00:00",
       "link": "https://futurism.com/artificial-intelligence/ai-companies-hide-debt-off-balance-sheet"
     },
     {
       "title": "OpenAI and Anthropic unite against open-weight AI risks to their bottom line",
-      "summary": "Article URL: https://www.axios.com/2026/07/22/openai-anthropic-open-models-trump-china Comments URL: https://news.ycombinator.com/item?id=49020868 Points: 285 # Comments: 321",
+      "summary": "Article URL: https://www.axios.com/2026/07/22/openai-anthropic-open-models-trump-china Comments URL: https://news.ycombinator.com/item?id=49020868 Points: 287 # Comments: 328",
       "source": "Hacker News",
       "published": "2026-07-23T13:00:03+00:00",
       "link": "https://www.axios.com/2026/07/22/openai-anthropic-open-models-trump-china"
@@ -248,7 +311,7 @@ const FEED_DATA = {
     },
     {
       "title": "Understanding the AI Economy",
-      "summary": "Article URL: https://blog.google/innovation-and-ai/technology/research/understanding-the-ai-economy/ Comments URL: https://news.ycombinator.com/item?id=49020335 Points: 73 # Comments: 145",
+      "summary": "Article URL: https://blog.google/innovation-and-ai/technology/research/understanding-the-ai-economy/ Comments URL: https://news.ycombinator.com/item?id=49020335 Points: 73 # Comments: 146",
       "source": "Hacker News",
       "published": "2026-07-23T12:11:05+00:00",
       "link": "https://blog.google/innovation-and-ai/technology/research/understanding-the-ai-economy/"
@@ -283,7 +346,7 @@ const FEED_DATA = {
     },
     {
       "title": "New Framework Desktop Option with AMD Ryzen AI Max+ Pro 495 and 192GB Memory",
-      "summary": "Article URL: https://frame.work/desktop?tab=192gb-coming-soon Comments URL: https://news.ycombinator.com/item?id=49019694 Points: 77 # Comments: 110",
+      "summary": "Article URL: https://frame.work/desktop?tab=192gb-coming-soon Comments URL: https://news.ycombinator.com/item?id=49019694 Points: 77 # Comments: 111",
       "source": "Hacker News",
       "published": "2026-07-23T11:09:48+00:00",
       "link": "https://frame.work/desktop?tab=192gb-coming-soon"
@@ -388,7 +451,7 @@ const FEED_DATA = {
     },
     {
       "title": "Are AI labs pelicanmaxxing?",
-      "summary": "Article URL: https://dylancastillo.co/posts/pelicanmaxxing.html Comments URL: https://news.ycombinator.com/item?id=49010129 Points: 668 # Comments: 240",
+      "summary": "Article URL: https://dylancastillo.co/posts/pelicanmaxxing.html Comments URL: https://news.ycombinator.com/item?id=49010129 Points: 674 # Comments: 241",
       "source": "Hacker News",
       "published": "2026-07-22T17:17:54+00:00",
       "link": "https://dylancastillo.co/posts/pelicanmaxxing.html"
@@ -458,14 +521,14 @@ const FEED_DATA = {
     },
     {
       "title": "Most Americans say \"not in my backyard\" to AI data centers",
-      "summary": "Article URL: https://www.redfin.com/news/ai-data-centers-opposition-education-benefit/ Comments URL: https://news.ycombinator.com/item?id=49007525 Points: 144 # Comments: 304",
+      "summary": "Article URL: https://www.redfin.com/news/ai-data-centers-opposition-education-benefit/ Comments URL: https://news.ycombinator.com/item?id=49007525 Points: 145 # Comments: 305",
       "source": "Hacker News",
       "published": "2026-07-22T14:34:27+00:00",
       "link": "https://www.redfin.com/news/ai-data-centers-opposition-education-benefit/"
     },
     {
       "title": "Quality non-fiction books are the antithesis of AI slop",
-      "summary": "https://book-prize-index.vercel.app/ Comments URL: https://news.ycombinator.com/item?id=49007247 Points: 481 # Comments: 235",
+      "summary": "https://book-prize-index.vercel.app/ Comments URL: https://news.ycombinator.com/item?id=49007247 Points: 483 # Comments: 235",
       "source": "Hacker News",
       "published": "2026-07-22T14:18:05+00:00",
       "link": "https://resobscura.substack.com/p/quality-non-fiction-books-are-the"
@@ -1337,69 +1400,6 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-07-17T20:09:27+00:00",
       "link": "https://techcrunch.com/2026/07/17/ai-driven-memory-crunch-jolts-indias-smartphone-market/"
-    },
-    {
-      "title": "GPT-5.6 is deleting user files when given full access, and OpenAI says it shouldn't but did",
-      "summary": "OpenAI's GPT-5.6 has accidentally wiped users' entire home directories in several cases, mostly in the unprotected \"Full Access Mode.\" The model overwrites a temporary directory variable and carries out destructive actions on its own instead of asking for confirmation.",
-      "source": "The Decoder",
-      "published": "2026-07-17T19:35:52+00:00",
-      "link": "https://the-decoder.com/gpt-5-6-is-deleting-user-files-when-given-full-access-and-openai-says-it-shouldnt-but-did/"
-    },
-    {
-      "title": "TikTok is testing an AI likeness detection tool",
-      "summary": "TikTok is starting to test an opt-in tool that scans for AI likenesses and lets creators report them to the company, as spotted by social media consultant Matt Navarra.",
-      "source": "The Verge",
-      "published": "2026-07-17T19:34:30+00:00",
-      "link": "https://www.theverge.com/tech/967486/tiktok-ai-likeness-detection-tool"
-    },
-    {
-      "title": "Just like Deepseek, China's Kimi K3 is forcing Western AI labs to question their compute advantage",
-      "summary": "Moonshot AI has released Kimi K3, a model that by early assessments matches Anthropic's Opus 4.8, built by a team of just 300 people. Even OpenAI strategist Dean W.",
-      "source": "The Decoder",
-      "published": "2026-07-17T19:16:07+00:00",
-      "link": "https://the-decoder.com/just-like-deepseek-chinas-kimi-k3-is-forcing-western-ai-labs-to-question-their-compute-advantage/"
-    },
-    {
-      "title": "How Apple’s big lawsuit could disrupt OpenAI’s IPO plans",
-      "summary": "Apple filed a trade secrets lawsuit against OpenAI last Friday, and it’s not messing around. The complaint alleges a pattern of misconduct reaching all the way up to OpenAI’s chief hardware officer and claims more than 400 former Apple employees now work at the company.",
-      "source": "TechCrunch",
-      "published": "2026-07-17T17:45:46+00:00",
-      "link": "https://techcrunch.com/video/how-apples-big-lawsuit-could-disrupt-openais-ipo-plans/"
-    },
-    {
-      "title": "Apple’s plot to crush OpenAI",
-      "summary": "Apple is suing OpenAI. The complaint is readable and intense, as these things often are, though many experts seem to think many of the allegations are just the ways things are done.",
-      "source": "The Verge",
-      "published": "2026-07-17T17:41:32+00:00",
-      "link": "https://www.theverge.com/podcast/967244/apple-openai-lawsuit-vergecast"
-    },
-    {
-      "title": "Bunkerhill raises $55M to scale agentic AI across health systems",
-      "summary": "Bunkerhill Health has raised $55 million to scale its agentic AI platform, Carebricks. The closing of the company’s Series B round, announced today, folds in continued participation from Sequoia Capital, Felicis, Optum Ventures, and Y Combinator.",
-      "source": "AI News",
-      "published": "2026-07-17T16:00:30+00:00",
-      "link": "https://www.artificialintelligence-news.com/news/bunkerhill-raises-55m-scale-agentic-ai-health-systems/"
-    },
-    {
-      "title": "Patreon stops asking AI bots not to scrape — and starts blocking them",
-      "summary": "Patreon is strengthening its defenses against AI scraping by working with Cloudflare to block bots that train AI models on creators’ content without permission. The move marks a shift away from relying on websites using robots.txt alone to actively block unauthorized AI training.",
-      "source": "TechCrunch",
-      "published": "2026-07-17T15:21:17+00:00",
-      "link": "https://techcrunch.com/2026/07/17/patreon-stops-asking-ai-bots-not-to-scrape-and-starts-blocking-them/"
-    },
-    {
-      "title": "The state of open source AI",
-      "summary": "Article URL: https://stateofopensource.ai/ Comments URL: https://news.ycombinator.com/item?id=48947825 Points: 484 # Comments: 357",
-      "source": "Hacker News",
-      "published": "2026-07-17T14:31:10+00:00",
-      "link": "https://stateofopensource.ai/"
-    },
-    {
-      "title": "AI Meets Cryptography 2: What AI Found in OpenVM's ZkVM",
-      "summary": "Article URL: https://blog.zksecurity.xyz/posts/openvm-bugs/ Comments URL: https://news.ycombinator.com/item?id=48947714 Points: 100 # Comments: 9",
-      "source": "Hacker News",
-      "published": "2026-07-17T14:21:35+00:00",
-      "link": "https://blog.zksecurity.xyz/posts/openvm-bugs/"
     }
   ]
 };
