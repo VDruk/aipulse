@@ -1,6 +1,20 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-07-23T21:58:28.477869+00:00",
+  "lastUpdated": "2026-07-24T04:12:24.732156+00:00",
   "items": [
+    {
+      "title": "How AI guardrails are impeding the work of offensive cybersecurity researchers",
+      "summary": "We spoke with several cybersecurity researchers, who look for unknown vulnerabilities and develop tools to exploit them, about how OpenAI’s and Anthropic’s guardrails affect their work.",
+      "source": "TechCrunch",
+      "published": "2026-07-24T01:00:00+00:00",
+      "link": "https://techcrunch.com/2026/07/23/how-ai-guardrails-are-impeding-the-work-of-offensive-cybersecurity-researchers/"
+    },
+    {
+      "title": "A taxonomy of omnicidal futures involving artificial intelligence (2025)",
+      "summary": "Article URL: https://arxiv.org/abs/2507.09369 Comments URL: https://news.ycombinator.com/item?id=49029133 Points: 65 # Comments: 54",
+      "source": "Hacker News",
+      "published": "2026-07-23T22:51:13+00:00",
+      "link": "https://arxiv.org/abs/2507.09369"
+    },
     {
       "title": "Alexa Plus is getting an AI update to handle more complicated instructions",
       "summary": "Amazon is launching an update to its Alexa Plus assistant that will allow it to connect to smart home devices in new ways.",
@@ -51,6 +65,13 @@ const FEED_DATA = {
       "link": "https://techcrunch.com/2026/07/23/aegisai-founded-by-former-google-security-execs-lands-36m-to-stop-ai-driven-spear-phishing/"
     },
     {
+      "title": "AI bet goes awry: Oracle fires 21,000 employees",
+      "summary": "Article URL: https://www.msn.com/en-us/money/economy/ai-bet-goes-awry-oracle-fires-21-000-employees/ar-AA28vWuD Comments URL: https://news.ycombinator.com/item?id=49025754 Points: 88 # Comments: 17",
+      "source": "Hacker News",
+      "published": "2026-07-23T18:07:33+00:00",
+      "link": "https://www.msn.com/en-us/money/economy/ai-bet-goes-awry-oracle-fires-21-000-employees/ar-AA28vWuD"
+    },
+    {
       "title": "Flux 3 generates videos with native audio up to 20 seconds long, a first for Black Forest Labs",
       "summary": "Black Forest Labs has released Flux 3, a multimodal foundation model that learns from images, video, and audio and can generate video with native sound for the first time.",
       "source": "The Decoder",
@@ -87,7 +108,7 @@ const FEED_DATA = {
     },
     {
       "title": "The arguments against open source AI are bad",
-      "summary": "Article URL: https://tombedor.dev/arguments-against-open-source-ai-are-very-bad/ Comments URL: https://news.ycombinator.com/item?id=49024643 Points: 152 # Comments: 110",
+      "summary": "Article URL: https://tombedor.dev/arguments-against-open-source-ai-are-very-bad/ Comments URL: https://news.ycombinator.com/item?id=49024643 Points: 225 # Comments: 157",
       "source": "Hacker News",
       "published": "2026-07-23T16:49:57+00:00",
       "link": "https://tombedor.dev/arguments-against-open-source-ai-are-very-bad/"
@@ -108,7 +129,7 @@ const FEED_DATA = {
     },
     {
       "title": "Startup founders urge U.S. government not to shut off Chinese open weight AI",
-      "summary": "https://littletech.org/https://static.politico.com/4a/bf/9c4021d8404386b0a311dcccf0... Comments URL: https://news.ycombinator.com/item?id=49023016 Points: 608 # Comments: 576",
+      "summary": "https://littletech.org/https://static.politico.com/4a/bf/9c4021d8404386b0a311dcccf0... Comments URL: https://news.ycombinator.com/item?id=49023016 Points: 787 # Comments: 693",
       "source": "Hacker News",
       "published": "2026-07-23T15:18:40+00:00",
       "link": "https://www.politico.com/news/2026/07/22/startup-founders-urge-trump-not-to-shut-off-chinese-open-weight-ai-01008992"
@@ -143,7 +164,7 @@ const FEED_DATA = {
     },
     {
       "title": "How much energy do data centers and artificial intelligence use?",
-      "summary": "Article URL: https://ourworldindata.org/how-much-energy-do-data-centers-and-artificial-intelligence-use Comments URL: https://news.ycombinator.com/item?id=49022412 Points: 66 # Comments: 68",
+      "summary": "Article URL: https://ourworldindata.org/how-much-energy-do-data-centers-and-artificial-intelligence-use Comments URL: https://news.ycombinator.com/item?id=49022412 Points: 69 # Comments: 71",
       "source": "Hacker News",
       "published": "2026-07-23T14:40:30+00:00",
       "link": "https://ourworldindata.org/how-much-energy-do-data-centers-and-artificial-intelligence-use"
@@ -157,7 +178,7 @@ const FEED_DATA = {
     },
     {
       "title": "I think you might be fooling yourself with AI",
-      "summary": "Article URL: https://louwrentius.com/i-think-you-might-be-fooling-yourself-with-ai.html Comments URL: https://news.ycombinator.com/item?id=49021843 Points: 75 # Comments: 153",
+      "summary": "Article URL: https://louwrentius.com/i-think-you-might-be-fooling-yourself-with-ai.html Comments URL: https://news.ycombinator.com/item?id=49021843 Points: 80 # Comments: 158",
       "source": "Hacker News",
       "published": "2026-07-23T14:05:43+00:00",
       "link": "https://louwrentius.com/i-think-you-might-be-fooling-yourself-with-ai.html"
@@ -171,28 +192,28 @@ const FEED_DATA = {
     },
     {
       "title": "DARPA, U.S. Air Force fly AI-controlled F-16",
-      "summary": "Article URL: https://www.darpa.mil/news/2026/darpa-us-air-force-fly-ai-controlled-f-16 Comments URL: https://news.ycombinator.com/item?id=49021597 Points: 135 # Comments: 148",
+      "summary": "Article URL: https://www.darpa.mil/news/2026/darpa-us-air-force-fly-ai-controlled-f-16 Comments URL: https://news.ycombinator.com/item?id=49021597 Points: 199 # Comments: 222",
       "source": "Hacker News",
       "published": "2026-07-23T13:51:36+00:00",
       "link": "https://www.darpa.mil/news/2026/darpa-us-air-force-fly-ai-controlled-f-16"
     },
     {
       "title": "Alphabet's cash burn raises alarm for Big Tech as AI spending climbs",
-      "summary": "Article URL: https://www.reuters.com/business/retail-consumer/alphabets-cash-burn-raises-alarm-big-tech-ai-spending-climbs-2026-07-23/ Comments URL: https://news.ycombinator.com/item?id=49021006 Points: 251 # Comments: 259",
+      "summary": "Article URL: https://www.reuters.com/business/retail-consumer/alphabets-cash-burn-raises-alarm-big-tech-ai-spending-climbs-2026-07-23/ Comments URL: https://news.ycombinator.com/item?id=49021006 Points: 258 # Comments: 265",
       "source": "Hacker News",
       "published": "2026-07-23T13:10:02+00:00",
       "link": "https://www.reuters.com/business/retail-consumer/alphabets-cash-burn-raises-alarm-big-tech-ai-spending-climbs-2026-07-23/"
     },
     {
       "title": "AI Companies Are Trying to Hide a Staggering Amount of Debt",
-      "summary": "Article URL: https://futurism.com/artificial-intelligence/ai-companies-hide-debt-off-balance-sheet Comments URL: https://news.ycombinator.com/item?id=49020999 Points: 529 # Comments: 253",
+      "summary": "Article URL: https://futurism.com/artificial-intelligence/ai-companies-hide-debt-off-balance-sheet Comments URL: https://news.ycombinator.com/item?id=49020999 Points: 626 # Comments: 315",
       "source": "Hacker News",
       "published": "2026-07-23T13:09:10+00:00",
       "link": "https://futurism.com/artificial-intelligence/ai-companies-hide-debt-off-balance-sheet"
     },
     {
       "title": "OpenAI and Anthropic unite against open-weight AI risks to their bottom line",
-      "summary": "Article URL: https://www.axios.com/2026/07/22/openai-anthropic-open-models-trump-china Comments URL: https://news.ycombinator.com/item?id=49020868 Points: 271 # Comments: 311",
+      "summary": "Article URL: https://www.axios.com/2026/07/22/openai-anthropic-open-models-trump-china Comments URL: https://news.ycombinator.com/item?id=49020868 Points: 281 # Comments: 313",
       "source": "Hacker News",
       "published": "2026-07-23T13:00:03+00:00",
       "link": "https://www.axios.com/2026/07/22/openai-anthropic-open-models-trump-china"
@@ -206,7 +227,7 @@ const FEED_DATA = {
     },
     {
       "title": "Understanding the AI Economy",
-      "summary": "Article URL: https://blog.google/innovation-and-ai/technology/research/understanding-the-ai-economy/ Comments URL: https://news.ycombinator.com/item?id=49020335 Points: 72 # Comments: 136",
+      "summary": "Article URL: https://blog.google/innovation-and-ai/technology/research/understanding-the-ai-economy/ Comments URL: https://news.ycombinator.com/item?id=49020335 Points: 72 # Comments: 144",
       "source": "Hacker News",
       "published": "2026-07-23T12:11:05+00:00",
       "link": "https://blog.google/innovation-and-ai/technology/research/understanding-the-ai-economy/"
@@ -241,7 +262,7 @@ const FEED_DATA = {
     },
     {
       "title": "New Framework Desktop Option with AMD Ryzen AI Max+ Pro 495 and 192GB Memory",
-      "summary": "Article URL: https://frame.work/desktop?tab=192gb-coming-soon Comments URL: https://news.ycombinator.com/item?id=49019694 Points: 74 # Comments: 107",
+      "summary": "Article URL: https://frame.work/desktop?tab=192gb-coming-soon Comments URL: https://news.ycombinator.com/item?id=49019694 Points: 76 # Comments: 109",
       "source": "Hacker News",
       "published": "2026-07-23T11:09:48+00:00",
       "link": "https://frame.work/desktop?tab=192gb-coming-soon"
@@ -346,7 +367,7 @@ const FEED_DATA = {
     },
     {
       "title": "Are AI labs pelicanmaxxing?",
-      "summary": "Article URL: https://dylancastillo.co/posts/pelicanmaxxing.html Comments URL: https://news.ycombinator.com/item?id=49010129 Points: 656 # Comments: 237",
+      "summary": "Article URL: https://dylancastillo.co/posts/pelicanmaxxing.html Comments URL: https://news.ycombinator.com/item?id=49010129 Points: 662 # Comments: 240",
       "source": "Hacker News",
       "published": "2026-07-22T17:17:54+00:00",
       "link": "https://dylancastillo.co/posts/pelicanmaxxing.html"
@@ -416,14 +437,14 @@ const FEED_DATA = {
     },
     {
       "title": "Most Americans say \"not in my backyard\" to AI data centers",
-      "summary": "Article URL: https://www.redfin.com/news/ai-data-centers-opposition-education-benefit/ Comments URL: https://news.ycombinator.com/item?id=49007525 Points: 143 # Comments: 300",
+      "summary": "Article URL: https://www.redfin.com/news/ai-data-centers-opposition-education-benefit/ Comments URL: https://news.ycombinator.com/item?id=49007525 Points: 144 # Comments: 302",
       "source": "Hacker News",
       "published": "2026-07-22T14:34:27+00:00",
       "link": "https://www.redfin.com/news/ai-data-centers-opposition-education-benefit/"
     },
     {
       "title": "Quality non-fiction books are the antithesis of AI slop",
-      "summary": "https://book-prize-index.vercel.app/ Comments URL: https://news.ycombinator.com/item?id=49007247 Points: 477 # Comments: 232",
+      "summary": "https://book-prize-index.vercel.app/ Comments URL: https://news.ycombinator.com/item?id=49007247 Points: 479 # Comments: 234",
       "source": "Hacker News",
       "published": "2026-07-22T14:18:05+00:00",
       "link": "https://resobscura.substack.com/p/quality-non-fiction-books-are-the"
@@ -451,7 +472,7 @@ const FEED_DATA = {
     },
     {
       "title": "Businesses with ugly AI menu redesigns",
-      "summary": "Article URL: https://blog.fiddery.com/businesses-with-ugly-ai-menu-redesigns/ Comments URL: https://news.ycombinator.com/item?id=49005973 Points: 367 # Comments: 297",
+      "summary": "Article URL: https://blog.fiddery.com/businesses-with-ugly-ai-menu-redesigns/ Comments URL: https://news.ycombinator.com/item?id=49005973 Points: 368 # Comments: 299",
       "source": "Hacker News",
       "published": "2026-07-22T12:49:45+00:00",
       "link": "https://blog.fiddery.com/businesses-with-ugly-ai-menu-redesigns/"
@@ -1379,27 +1400,6 @@ const FEED_DATA = {
       "source": "MIT Tech Review",
       "published": "2026-07-17T12:10:00+00:00",
       "link": "https://www.technologyreview.com/2026/07/17/1140640/the-download-perimenopause-misinformation-china-moonshot-ai/"
-    },
-    {
-      "title": "Why the first GPU financiers are turning to inference chips in a $400 million deal",
-      "summary": "A $400 million chip-backed loan points to the next wave of AI infrastructure deals.",
-      "source": "TechCrunch",
-      "published": "2026-07-17T12:00:00+00:00",
-      "link": "https://techcrunch.com/2026/07/17/why-the-first-gpu-financiers-are-turning-to-inference-chips-in-a-400-million-deal/"
-    },
-    {
-      "title": "Linus Torvalds tells AI critics in the Linux kernel community to fork off",
-      "summary": "Linux creator Linus Torvalds has come out strongly in favor of AI tools in kernel development. \"Linux is not one of those anti-AI projects,\" he wrote on the kernel mailing list amid a debate over Sashiko, the Linux Foundation's AI-powered code review tool.",
-      "source": "The Decoder",
-      "published": "2026-07-17T11:12:47+00:00",
-      "link": "https://the-decoder.com/linus-torvalds-tells-ai-critics-in-the-linux-kernel-community-to-fork-off/"
-    },
-    {
-      "title": "San Francisco Demands Apple and Google Delete AI ‘Nudify’ Apps From App Stores",
-      "summary": "The City Attorney’s Office sent the tech giants cease-and-desist letters this week telling them to stop profiting from 13 “face-swap” apps that are overwhelmingly used to target women and girls.",
-      "source": "Wired",
-      "published": "2026-07-17T10:00:00+00:00",
-      "link": "https://www.wired.com/story/san-francisco-demands-apple-and-google-delete-ai-nudify-apps-from-app-stores/"
     }
   ]
 };
