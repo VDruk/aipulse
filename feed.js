@@ -1,5 +1,5 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-07-25T04:08:27.101097+00:00",
+  "lastUpdated": "2026-07-25T07:19:48.571006+00:00",
   "items": [
     {
       "title": "I tried out OpenAI’s new AI keypad — which will be fun for some coders and slightly mystifying to everyone else",
@@ -17,7 +17,7 @@ const FEED_DATA = {
     },
     {
       "title": "Opus 5 is currently #1 on Artificial Analysis Intelligence Leaderboard",
-      "summary": "Article URL: https://artificialanalysis.ai/models Comments URL: https://news.ycombinator.com/item?id=49040741 Points: 184 # Comments: 120",
+      "summary": "Article URL: https://artificialanalysis.ai/models Comments URL: https://news.ycombinator.com/item?id=49040741 Points: 250 # Comments: 145",
       "source": "Hacker News",
       "published": "2026-07-24T19:45:10+00:00",
       "link": "https://artificialanalysis.ai/models"
@@ -199,7 +199,7 @@ const FEED_DATA = {
     },
     {
       "title": "I Tried Building a Real App with AI. It Took a Year",
-      "summary": "Article URL: https://www.alexhyett.com/videos/tried-building-app-with-ai-it-took-a-year/ Comments URL: https://news.ycombinator.com/item?id=49034342 Points: 91 # Comments: 77",
+      "summary": "Article URL: https://www.alexhyett.com/videos/tried-building-app-with-ai-it-took-a-year/ Comments URL: https://news.ycombinator.com/item?id=49034342 Points: 94 # Comments: 79",
       "source": "Hacker News",
       "published": "2026-07-24T12:00:17+00:00",
       "link": "https://www.alexhyett.com/videos/tried-building-app-with-ai-it-took-a-year/"
@@ -227,7 +227,7 @@ const FEED_DATA = {
     },
     {
       "title": "Hetzner is working on LLM Inference",
-      "summary": "Article URL: https://sliplane.io/blog/hetzner-inference Comments URL: https://news.ycombinator.com/item?id=49033087 Points: 145 # Comments: 78",
+      "summary": "Article URL: https://sliplane.io/blog/hetzner-inference Comments URL: https://news.ycombinator.com/item?id=49033087 Points: 147 # Comments: 78",
       "source": "Hacker News",
       "published": "2026-07-24T09:24:44+00:00",
       "link": "https://sliplane.io/blog/hetzner-inference"
@@ -346,7 +346,7 @@ const FEED_DATA = {
     },
     {
       "title": "The arguments against open source AI are bad",
-      "summary": "Article URL: https://tombedor.dev/arguments-against-open-source-ai-are-very-bad/ Comments URL: https://news.ycombinator.com/item?id=49024643 Points: 308 # Comments: 211",
+      "summary": "Article URL: https://tombedor.dev/arguments-against-open-source-ai-are-very-bad/ Comments URL: https://news.ycombinator.com/item?id=49024643 Points: 309 # Comments: 211",
       "source": "Hacker News",
       "published": "2026-07-23T16:49:57+00:00",
       "link": "https://tombedor.dev/arguments-against-open-source-ai-are-very-bad/"
@@ -367,7 +367,7 @@ const FEED_DATA = {
     },
     {
       "title": "Startup founders urge U.S. government not to shut off Chinese open weight AI",
-      "summary": "https://littletech.org/https://static.politico.com/4a/bf/9c4021d8404386b0a311dcccf0... Comments URL: https://news.ycombinator.com/item?id=49023016 Points: 1038 # Comments: 850",
+      "summary": "https://littletech.org/https://static.politico.com/4a/bf/9c4021d8404386b0a311dcccf0... Comments URL: https://news.ycombinator.com/item?id=49023016 Points: 1041 # Comments: 856",
       "source": "Hacker News",
       "published": "2026-07-23T15:18:40+00:00",
       "link": "https://www.politico.com/news/2026/07/22/startup-founders-urge-trump-not-to-shut-off-chinese-open-weight-ai-01008992"
@@ -430,28 +430,28 @@ const FEED_DATA = {
     },
     {
       "title": "DARPA, U.S. Air Force fly AI-controlled F-16",
-      "summary": "Article URL: https://www.darpa.mil/news/2026/darpa-us-air-force-fly-ai-controlled-f-16 Comments URL: https://news.ycombinator.com/item?id=49021597 Points: 263 # Comments: 324",
+      "summary": "Article URL: https://www.darpa.mil/news/2026/darpa-us-air-force-fly-ai-controlled-f-16 Comments URL: https://news.ycombinator.com/item?id=49021597 Points: 263 # Comments: 327",
       "source": "Hacker News",
       "published": "2026-07-23T13:51:36+00:00",
       "link": "https://www.darpa.mil/news/2026/darpa-us-air-force-fly-ai-controlled-f-16"
     },
     {
       "title": "Alphabet's cash burn raises alarm for Big Tech as AI spending climbs",
-      "summary": "Article URL: https://www.reuters.com/business/retail-consumer/alphabets-cash-burn-raises-alarm-big-tech-ai-spending-climbs-2026-07-23/ Comments URL: https://news.ycombinator.com/item?id=49021006 Points: 270 # Comments: 282",
+      "summary": "Article URL: https://www.reuters.com/business/retail-consumer/alphabets-cash-burn-raises-alarm-big-tech-ai-spending-climbs-2026-07-23/ Comments URL: https://news.ycombinator.com/item?id=49021006 Points: 271 # Comments: 282",
       "source": "Hacker News",
       "published": "2026-07-23T13:10:02+00:00",
       "link": "https://www.reuters.com/business/retail-consumer/alphabets-cash-burn-raises-alarm-big-tech-ai-spending-climbs-2026-07-23/"
     },
     {
       "title": "AI Companies Are Trying to Hide a Staggering Amount of Debt",
-      "summary": "Article URL: https://futurism.com/artificial-intelligence/ai-companies-hide-debt-off-balance-sheet Comments URL: https://news.ycombinator.com/item?id=49020999 Points: 680 # Comments: 368",
+      "summary": "Article URL: https://futurism.com/artificial-intelligence/ai-companies-hide-debt-off-balance-sheet Comments URL: https://news.ycombinator.com/item?id=49020999 Points: 681 # Comments: 368",
       "source": "Hacker News",
       "published": "2026-07-23T13:09:10+00:00",
       "link": "https://futurism.com/artificial-intelligence/ai-companies-hide-debt-off-balance-sheet"
     },
     {
       "title": "OpenAI and Anthropic unite against open-weight AI risks to their bottom line",
-      "summary": "Article URL: https://www.axios.com/2026/07/22/openai-anthropic-open-models-trump-china Comments URL: https://news.ycombinator.com/item?id=49020868 Points: 294 # Comments: 331",
+      "summary": "Article URL: https://www.axios.com/2026/07/22/openai-anthropic-open-models-trump-china Comments URL: https://news.ycombinator.com/item?id=49020868 Points: 296 # Comments: 330",
       "source": "Hacker News",
       "published": "2026-07-23T13:00:03+00:00",
       "link": "https://www.axios.com/2026/07/22/openai-anthropic-open-models-trump-china"
@@ -612,7 +612,7 @@ const FEED_DATA = {
     },
     {
       "title": "Are AI labs pelicanmaxxing?",
-      "summary": "Article URL: https://dylancastillo.co/posts/pelicanmaxxing.html Comments URL: https://news.ycombinator.com/item?id=49010129 Points: 678 # Comments: 242",
+      "summary": "Article URL: https://dylancastillo.co/posts/pelicanmaxxing.html Comments URL: https://news.ycombinator.com/item?id=49010129 Points: 679 # Comments: 242",
       "source": "Hacker News",
       "published": "2026-07-22T17:17:54+00:00",
       "link": "https://dylancastillo.co/posts/pelicanmaxxing.html"
