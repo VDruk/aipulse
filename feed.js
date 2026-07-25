@@ -1,12 +1,26 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-07-25T17:53:41.656061+00:00",
+  "lastUpdated": "2026-07-25T21:45:42.373423+00:00",
   "items": [
+    {
+      "title": "Politician reads AI prompt during assembly",
+      "summary": "Article URL: https://www.youtube.com/watch?v=wlYa8NV5k-U Comments URL: https://news.ycombinator.com/item?id=49048996 Points: 59 # Comments: 37",
+      "source": "Hacker News",
+      "published": "2026-07-25T16:31:15+00:00",
+      "link": "https://www.youtube.com/watch?v=wlYa8NV5k-U"
+    },
     {
       "title": "Librarians are hosting viral ‘Avoiding AI’ workshops for people who are fed up with Big Tech",
       "summary": "At libraries around the country, \"Avoiding AI\" workshops have elicited unprecedented demand.",
       "source": "TechCrunch",
       "published": "2026-07-25T16:00:00+00:00",
       "link": "https://techcrunch.com/2026/07/25/librarians-are-hosting-viral-avoiding-ai-workshops-for-people-who-are-fed-up-with-big-tech/"
+    },
+    {
+      "title": "Open-weight AI is having its Kubernetes moment",
+      "summary": "Article URL: https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment/ Comments URL: https://news.ycombinator.com/item?id=49048034 Points: 262 # Comments: 196",
+      "source": "Hacker News",
+      "published": "2026-07-25T14:49:49+00:00",
+      "link": "https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment/"
     },
     {
       "title": "Open-weight AI is having its Kubernetes moment. Let's not ruin it",
@@ -24,7 +38,7 @@ const FEED_DATA = {
     },
     {
       "title": "Corporate America Has Suddenly Decided to Stop Blowing Money on AI",
-      "summary": "Article URL: https://www.wsj.com/business/china-us-ai-model-costs-53a12e96 Comments URL: https://news.ycombinator.com/item?id=49047448 Points: 54 # Comments: 72",
+      "summary": "Article URL: https://www.wsj.com/business/china-us-ai-model-costs-53a12e96 Comments URL: https://news.ycombinator.com/item?id=49047448 Points: 55 # Comments: 78",
       "source": "Hacker News",
       "published": "2026-07-25T13:33:03+00:00",
       "link": "https://www.wsj.com/business/china-us-ai-model-costs-53a12e96"
@@ -80,7 +94,7 @@ const FEED_DATA = {
     },
     {
       "title": "Opus 5 is currently #1 on Artificial Analysis Intelligence Leaderboard",
-      "summary": "Article URL: https://artificialanalysis.ai/models Comments URL: https://news.ycombinator.com/item?id=49040741 Points: 361 # Comments: 212",
+      "summary": "Article URL: https://artificialanalysis.ai/models Comments URL: https://news.ycombinator.com/item?id=49040741 Points: 364 # Comments: 215",
       "source": "Hacker News",
       "published": "2026-07-24T19:45:10+00:00",
       "link": "https://artificialanalysis.ai/models"
@@ -241,7 +255,7 @@ const FEED_DATA = {
     },
     {
       "title": "Oracle fires 21,000 employees to fund AI spending",
-      "summary": "Article URL: https://www.jpost.com/business-and-innovation/tech-and-start-ups/article-903442 Comments URL: https://news.ycombinator.com/item?id=49035314 Points: 75 # Comments: 13",
+      "summary": "Article URL: https://www.jpost.com/business-and-innovation/tech-and-start-ups/article-903442 Comments URL: https://news.ycombinator.com/item?id=49035314 Points: 77 # Comments: 14",
       "source": "Hacker News",
       "published": "2026-07-24T13:33:12+00:00",
       "link": "https://www.jpost.com/business-and-innovation/tech-and-start-ups/article-903442"
@@ -262,7 +276,7 @@ const FEED_DATA = {
     },
     {
       "title": "I Tried Building a Real App with AI. It Took a Year",
-      "summary": "Article URL: https://www.alexhyett.com/videos/tried-building-app-with-ai-it-took-a-year/ Comments URL: https://news.ycombinator.com/item?id=49034342 Points: 107 # Comments: 82",
+      "summary": "Article URL: https://www.alexhyett.com/videos/tried-building-app-with-ai-it-took-a-year/ Comments URL: https://news.ycombinator.com/item?id=49034342 Points: 107 # Comments: 84",
       "source": "Hacker News",
       "published": "2026-07-24T12:00:17+00:00",
       "link": "https://www.alexhyett.com/videos/tried-building-app-with-ai-it-took-a-year/"
@@ -290,7 +304,7 @@ const FEED_DATA = {
     },
     {
       "title": "Hetzner is working on LLM Inference",
-      "summary": "Article URL: https://sliplane.io/blog/hetzner-inference Comments URL: https://news.ycombinator.com/item?id=49033087 Points: 151 # Comments: 85",
+      "summary": "Article URL: https://sliplane.io/blog/hetzner-inference Comments URL: https://news.ycombinator.com/item?id=49033087 Points: 152 # Comments: 86",
       "source": "Hacker News",
       "published": "2026-07-24T09:24:44+00:00",
       "link": "https://sliplane.io/blog/hetzner-inference"
@@ -409,7 +423,7 @@ const FEED_DATA = {
     },
     {
       "title": "The arguments against open source AI are bad",
-      "summary": "Article URL: https://tombedor.dev/arguments-against-open-source-ai-are-very-bad/ Comments URL: https://news.ycombinator.com/item?id=49024643 Points: 309 # Comments: 211",
+      "summary": "Article URL: https://tombedor.dev/arguments-against-open-source-ai-are-very-bad/ Comments URL: https://news.ycombinator.com/item?id=49024643 Points: 309 # Comments: 212",
       "source": "Hacker News",
       "published": "2026-07-23T16:49:57+00:00",
       "link": "https://tombedor.dev/arguments-against-open-source-ai-are-very-bad/"
@@ -430,7 +444,7 @@ const FEED_DATA = {
     },
     {
       "title": "Startup founders urge U.S. government not to shut off Chinese open weight AI",
-      "summary": "https://littletech.org/https://static.politico.com/4a/bf/9c4021d8404386b0a311dcccf0... Comments URL: https://news.ycombinator.com/item?id=49023016 Points: 1057 # Comments: 870",
+      "summary": "https://littletech.org/https://static.politico.com/4a/bf/9c4021d8404386b0a311dcccf0... Comments URL: https://news.ycombinator.com/item?id=49023016 Points: 1059 # Comments: 870",
       "source": "Hacker News",
       "published": "2026-07-23T15:18:40+00:00",
       "link": "https://www.politico.com/news/2026/07/22/startup-founders-urge-trump-not-to-shut-off-chinese-open-weight-ai-01008992"
@@ -493,7 +507,7 @@ const FEED_DATA = {
     },
     {
       "title": "DARPA, U.S. Air Force fly AI-controlled F-16",
-      "summary": "Article URL: https://www.darpa.mil/news/2026/darpa-us-air-force-fly-ai-controlled-f-16 Comments URL: https://news.ycombinator.com/item?id=49021597 Points: 265 # Comments: 329",
+      "summary": "Article URL: https://www.darpa.mil/news/2026/darpa-us-air-force-fly-ai-controlled-f-16 Comments URL: https://news.ycombinator.com/item?id=49021597 Points: 267 # Comments: 330",
       "source": "Hacker News",
       "published": "2026-07-23T13:51:36+00:00",
       "link": "https://www.darpa.mil/news/2026/darpa-us-air-force-fly-ai-controlled-f-16"
@@ -507,7 +521,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI Companies Are Trying to Hide a Staggering Amount of Debt",
-      "summary": "Article URL: https://futurism.com/artificial-intelligence/ai-companies-hide-debt-off-balance-sheet Comments URL: https://news.ycombinator.com/item?id=49020999 Points: 684 # Comments: 374",
+      "summary": "Article URL: https://futurism.com/artificial-intelligence/ai-companies-hide-debt-off-balance-sheet Comments URL: https://news.ycombinator.com/item?id=49020999 Points: 685 # Comments: 375",
       "source": "Hacker News",
       "published": "2026-07-23T13:09:10+00:00",
       "link": "https://futurism.com/artificial-intelligence/ai-companies-hide-debt-off-balance-sheet"
@@ -1386,20 +1400,6 @@ const FEED_DATA = {
       "source": "Hacker News",
       "published": "2026-07-19T16:02:25+00:00",
       "link": "https://twitter.com/kimi_moonshot/status/2078855608565207130"
-    },
-    {
-      "title": "‘Odyssey’ director Christopher Nolan calls AI an obvious ‘Trojan horse’",
-      "summary": "\"Everybody knows the Greeks are inside.\"",
-      "source": "TechCrunch",
-      "published": "2026-07-19T14:52:08+00:00",
-      "link": "https://techcrunch.com/2026/07/19/odyssey-director-christopher-nolan-calls-ai-an-obvious-trojan-horse/"
-    },
-    {
-      "title": "Nonprofit Current AI is racing to build the World Wide Web of AI, free for all",
-      "summary": "Current AI, a nonprofit building AI that leaves no one culture behind, has made remarkable progress across devices, AI chat, and more.",
-      "source": "TechCrunch",
-      "published": "2026-07-19T14:00:00+00:00",
-      "link": "https://techcrunch.com/2026/07/19/nonprofit-current-ai-is-racing-to-build-the-world-wide-web-of-ai-free-for-all/"
     }
   ]
 };
