@@ -1,6 +1,13 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-07-26T04:23:55.482982+00:00",
+  "lastUpdated": "2026-07-26T07:36:45.559493+00:00",
   "items": [
+    {
+      "title": "The AI coding tutor paradox grows as educators scramble to rethink how they test real skills",
+      "summary": "An ACM survey of 763 computer science educators from 49 countries shows that 68 percent have already changed their exams because of AI, shifting toward oral exams, proctored tests, and project-based work. Teaching is moving from writing code to understanding it.",
+      "source": "The Decoder",
+      "published": "2026-07-26T06:59:56+00:00",
+      "link": "https://the-decoder.com/the-ai-coding-tutor-paradox-grows-as-educators-scramble-to-rethink-how-they-test-real-skills/"
+    },
     {
       "title": "Monday.com is the latest tech company to blame AI for layoffs — here are 20 others",
       "summary": "A running look — in reverse chronological order — at the bigger tech companies that have announced significant layoffs this year with AI as a stated factor.",
@@ -10,35 +17,35 @@ const FEED_DATA = {
     },
     {
       "title": "What is happening to jobs? Separating AI hype from reality",
-      "summary": "Article URL: https://siepr.stanford.edu/publications/policy-brief/what-really-happening-jobs-separating-ai-hype-reality Comments URL: https://news.ycombinator.com/item?id=49052570 Points: 61 # Comments: 70",
+      "summary": "Article URL: https://siepr.stanford.edu/publications/policy-brief/what-really-happening-jobs-separating-ai-hype-reality Comments URL: https://news.ycombinator.com/item?id=49052570 Points: 70 # Comments: 79",
       "source": "Hacker News",
       "published": "2026-07-25T22:51:10+00:00",
       "link": "https://siepr.stanford.edu/publications/policy-brief/what-really-happening-jobs-separating-ai-hype-reality"
     },
     {
       "title": "Cloudflare's new AI traffic options for customers",
-      "summary": "Article URL: https://blog.cloudflare.com/content-independence-day-ai-options/ Comments URL: https://news.ycombinator.com/item?id=49052564 Points: 65 # Comments: 40",
+      "summary": "Article URL: https://blog.cloudflare.com/content-independence-day-ai-options/ Comments URL: https://news.ycombinator.com/item?id=49052564 Points: 97 # Comments: 70",
       "source": "Hacker News",
       "published": "2026-07-25T22:50:49+00:00",
       "link": "https://blog.cloudflare.com/content-independence-day-ai-options/"
     },
     {
       "title": "'AI Mania Is Eviscerating Global Decision-Making'",
-      "summary": "Article URL: https://daringfireball.net/linked/2026/07/25/ai-mania-nikhil-suresh Comments URL: https://news.ycombinator.com/item?id=49051692 Points: 54 # Comments: 18",
+      "summary": "Article URL: https://daringfireball.net/linked/2026/07/25/ai-mania-nikhil-suresh Comments URL: https://news.ycombinator.com/item?id=49051692 Points: 57 # Comments: 19",
       "source": "Hacker News",
       "published": "2026-07-25T21:18:06+00:00",
       "link": "https://daringfireball.net/linked/2026/07/25/ai-mania-nikhil-suresh"
     },
     {
       "title": "LLM Usage in Debian: Three Proposals",
-      "summary": "Article URL: https://www.debian.org/vote/2026/vote_002 Comments URL: https://news.ycombinator.com/item?id=49050859 Points: 108 # Comments: 97",
+      "summary": "Article URL: https://www.debian.org/vote/2026/vote_002 Comments URL: https://news.ycombinator.com/item?id=49050859 Points: 132 # Comments: 116",
       "source": "Hacker News",
       "published": "2026-07-25T19:44:39+00:00",
       "link": "https://www.debian.org/vote/2026/vote_002"
     },
     {
       "title": "Running a 28.9M parameter LLM on an $8 microcontroller",
-      "summary": "Article URL: https://github.com/slvDev/esp32-ai Comments URL: https://news.ycombinator.com/item?id=49050512 Points: 108 # Comments: 25",
+      "summary": "Article URL: https://github.com/slvDev/esp32-ai Comments URL: https://news.ycombinator.com/item?id=49050512 Points: 153 # Comments: 34",
       "source": "Hacker News",
       "published": "2026-07-25T18:59:50+00:00",
       "link": "https://github.com/slvDev/esp32-ai"
@@ -59,7 +66,7 @@ const FEED_DATA = {
     },
     {
       "title": "Open-weight AI is having its Kubernetes moment",
-      "summary": "Article URL: https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment/ Comments URL: https://news.ycombinator.com/item?id=49048034 Points: 338 # Comments: 273",
+      "summary": "Article URL: https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment/ Comments URL: https://news.ycombinator.com/item?id=49048034 Points: 369 # Comments: 286",
       "source": "Hacker News",
       "published": "2026-07-25T14:49:49+00:00",
       "link": "https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment/"
@@ -80,7 +87,7 @@ const FEED_DATA = {
     },
     {
       "title": "Corporate America Has Suddenly Decided to Stop Blowing Money on AI",
-      "summary": "Article URL: https://www.wsj.com/business/china-us-ai-model-costs-53a12e96 Comments URL: https://news.ycombinator.com/item?id=49047448 Points: 59 # Comments: 80",
+      "summary": "Article URL: https://www.wsj.com/business/china-us-ai-model-costs-53a12e96 Comments URL: https://news.ycombinator.com/item?id=49047448 Points: 62 # Comments: 82",
       "source": "Hacker News",
       "published": "2026-07-25T13:33:03+00:00",
       "link": "https://www.wsj.com/business/china-us-ai-model-costs-53a12e96"
@@ -136,7 +143,7 @@ const FEED_DATA = {
     },
     {
       "title": "Opus 5 is currently #1 on Artificial Analysis Intelligence Leaderboard",
-      "summary": "Article URL: https://artificialanalysis.ai/models Comments URL: https://news.ycombinator.com/item?id=49040741 Points: 365 # Comments: 216",
+      "summary": "Article URL: https://artificialanalysis.ai/models Comments URL: https://news.ycombinator.com/item?id=49040741 Points: 365 # Comments: 219",
       "source": "Hacker News",
       "published": "2026-07-24T19:45:10+00:00",
       "link": "https://artificialanalysis.ai/models"
@@ -297,7 +304,7 @@ const FEED_DATA = {
     },
     {
       "title": "Oracle fires 21,000 employees to fund AI spending",
-      "summary": "Article URL: https://www.jpost.com/business-and-innovation/tech-and-start-ups/article-903442 Comments URL: https://news.ycombinator.com/item?id=49035314 Points: 77 # Comments: 14",
+      "summary": "Article URL: https://www.jpost.com/business-and-innovation/tech-and-start-ups/article-903442 Comments URL: https://news.ycombinator.com/item?id=49035314 Points: 78 # Comments: 14",
       "source": "Hacker News",
       "published": "2026-07-24T13:33:12+00:00",
       "link": "https://www.jpost.com/business-and-innovation/tech-and-start-ups/article-903442"
@@ -318,7 +325,7 @@ const FEED_DATA = {
     },
     {
       "title": "I Tried Building a Real App with AI. It Took a Year",
-      "summary": "Article URL: https://www.alexhyett.com/videos/tried-building-app-with-ai-it-took-a-year/ Comments URL: https://news.ycombinator.com/item?id=49034342 Points: 107 # Comments: 84",
+      "summary": "Article URL: https://www.alexhyett.com/videos/tried-building-app-with-ai-it-took-a-year/ Comments URL: https://news.ycombinator.com/item?id=49034342 Points: 108 # Comments: 84",
       "source": "Hacker News",
       "published": "2026-07-24T12:00:17+00:00",
       "link": "https://www.alexhyett.com/videos/tried-building-app-with-ai-it-took-a-year/"
@@ -423,7 +430,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI bet goes awry: Oracle fires 21,000 employees",
-      "summary": "Article URL: https://www.msn.com/en-us/money/economy/ai-bet-goes-awry-oracle-fires-21-000-employees/ar-AA28vWuD Comments URL: https://news.ycombinator.com/item?id=49025754 Points: 106 # Comments: 26",
+      "summary": "Article URL: https://www.msn.com/en-us/money/economy/ai-bet-goes-awry-oracle-fires-21-000-employees/ar-AA28vWuD Comments URL: https://news.ycombinator.com/item?id=49025754 Points: 106 # Comments: 28",
       "source": "Hacker News",
       "published": "2026-07-23T18:07:33+00:00",
       "link": "https://www.msn.com/en-us/money/economy/ai-bet-goes-awry-oracle-fires-21-000-employees/ar-AA28vWuD"
@@ -434,6 +441,13 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-07-23T18:03:01+00:00",
       "link": "https://the-decoder.com/flux-3-generates-videos-with-native-audio-up-to-20-seconds-long-a-first-for-black-forest-labs/"
+    },
+    {
+      "title": "Rethinking Legal Education in the AI Era",
+      "summary": "Article URL: https://www.law.uchicago.edu/news/ai-strategy-statement Comments URL: https://news.ycombinator.com/item?id=49024980 Points: 64 # Comments: 24",
+      "source": "Hacker News",
+      "published": "2026-07-23T17:12:48+00:00",
+      "link": "https://www.law.uchicago.edu/news/ai-strategy-statement"
     },
     {
       "title": "Runway launches AI model router as generative media gets crowded",
@@ -486,7 +500,7 @@ const FEED_DATA = {
     },
     {
       "title": "Startup founders urge U.S. government not to shut off Chinese open weight AI",
-      "summary": "https://littletech.org/https://static.politico.com/4a/bf/9c4021d8404386b0a311dcccf0... Comments URL: https://news.ycombinator.com/item?id=49023016 Points: 1061 # Comments: 872",
+      "summary": "https://littletech.org/https://static.politico.com/4a/bf/9c4021d8404386b0a311dcccf0... Comments URL: https://news.ycombinator.com/item?id=49023016 Points: 1062 # Comments: 874",
       "source": "Hacker News",
       "published": "2026-07-23T15:18:40+00:00",
       "link": "https://www.politico.com/news/2026/07/22/startup-founders-urge-trump-not-to-shut-off-chinese-open-weight-ai-01008992"
@@ -1386,20 +1400,6 @@ const FEED_DATA = {
       "source": "AI News",
       "published": "2026-07-20T10:00:00+00:00",
       "link": "https://www.artificialintelligence-news.com/news/openai-anthropic-public-health-ai/"
-    },
-    {
-      "title": "Kimi K3 open-weight model: China’s biggest AI is a bet on memory, not compute",
-      "summary": "Moonshot AI’s Kimi K3 open-weight model has been read almost entirely through its parameter count since it launchedon July 16. At 2.8 trillion parameters, it is the largest open-weight model released to date.",
-      "source": "AI News",
-      "published": "2026-07-20T09:00:00+00:00",
-      "link": "https://www.artificialintelligence-news.com/news/kimi-k3-open-weight-model-memory-compute-china/"
-    },
-    {
-      "title": "AI is more likely than humans to form biases when hiring",
-      "summary": "The next time you apply for a job, AI may screen your résumé before any human sees it. But there’s good reason to question whether AI will judge you fairly.",
-      "source": "MIT Tech Review",
-      "published": "2026-07-20T08:39:01+00:00",
-      "link": "https://www.technologyreview.com/2026/07/20/1140655/ai-biases-hiring-humans/"
     }
   ]
 };
