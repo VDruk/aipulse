@@ -1,6 +1,27 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-07-26T07:36:45.559493+00:00",
+  "lastUpdated": "2026-07-26T10:25:08.497519+00:00",
   "items": [
+    {
+      "title": "Anthropic's Opus 5 blows past Fable 5 and GPT-5.6 Sol on the benchmark designed to measure real intelligence",
+      "summary": "Anthropic's Claude Opus 5 scored 30.2 percent on ARC-AGI-3, nearly quadrupling GPT-5.6 Sol's previous record of 7.8 percent.",
+      "source": "The Decoder",
+      "published": "2026-07-26T09:43:02+00:00",
+      "link": "https://the-decoder.com/anthropics-opus-5-blows-past-fable-5-and-gpt-5-6-sol-on-the-benchmark-designed-to-measure-real-intelligence/"
+    },
+    {
+      "title": "Hundreds asked ChatGPT for poison and bioweapon recipes and some got step-by-step high school level guides",
+      "summary": "In summer 2025, OpenAI internally flagged GPT-5 as high-risk because it helped users create biological hazards, but downgraded the model's risk rating that fall.",
+      "source": "The Decoder",
+      "published": "2026-07-26T08:35:49+00:00",
+      "link": "https://the-decoder.com/hundreds-asked-chatgpt-for-poison-and-bioweapon-recipes-and-some-got-step-by-step-high-school-level-guides/"
+    },
+    {
+      "title": "US reportedly favors selective bans over blanket restrictions on Chinese open weight models citing security concerns",
+      "summary": "The Trump administration is planning targeted bans on Chinese AI models rather than a blanket ban.",
+      "source": "The Decoder",
+      "published": "2026-07-26T07:56:24+00:00",
+      "link": "https://the-decoder.com/us-reportedly-favors-selective-bans-over-blanket-restrictions-on-chinese-open-weight-models-citing-security-concerns/"
+    },
     {
       "title": "The AI coding tutor paradox grows as educators scramble to rethink how they test real skills",
       "summary": "An ACM survey of 763 computer science educators from 49 countries shows that 68 percent have already changed their exams because of AI, shifting toward oral exams, proctored tests, and project-based work. Teaching is moving from writing code to understanding it.",
@@ -1379,27 +1400,6 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-07-20T12:12:47+00:00",
       "link": "https://the-decoder.com/hugging-face-says-an-ai-agent-hacked-its-infrastructure-and-it-used-ai-to-fight-back/"
-    },
-    {
-      "title": "The Download: AI hiring biases, and weather data sabotage",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.",
-      "source": "MIT Tech Review",
-      "published": "2026-07-20T12:10:00+00:00",
-      "link": "https://www.technologyreview.com/2026/07/20/1140664/the-download-ai-hiring-biases-weather-data-sabotage/"
-    },
-    {
-      "title": "China delivers a one-two punch to America’s AI dominance",
-      "summary": "China's leading AI companies are ramping up the pressure on Silicon Valley, as Moonshot and Alibaba unveiled models they claim can go toe-to-toe with the best from OpenAI and Anthropic at a fraction of the cost.",
-      "source": "The Verge",
-      "published": "2026-07-20T10:16:33+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/967781/chinese-ai-models-open-source-moonshot-kimi-k3-alibaba-qwen"
-    },
-    {
-      "title": "US public health agencies to test OpenAI and Anthropic AI models",
-      "summary": "Public health departments across the United States will test generative AI tools under a new programme involving the Coalition for Health AI, OpenAI, Anthropic, and Accenture.",
-      "source": "AI News",
-      "published": "2026-07-20T10:00:00+00:00",
-      "link": "https://www.artificialintelligence-news.com/news/openai-anthropic-public-health-ai/"
     }
   ]
 };
