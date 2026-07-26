@@ -1,9 +1,51 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-07-25T21:45:42.373423+00:00",
+  "lastUpdated": "2026-07-26T04:23:55.482982+00:00",
   "items": [
     {
+      "title": "Monday.com is the latest tech company to blame AI for layoffs — here are 20 others",
+      "summary": "A running look — in reverse chronological order — at the bigger tech companies that have announced significant layoffs this year with AI as a stated factor.",
+      "source": "TechCrunch",
+      "published": "2026-07-26T01:30:00+00:00",
+      "link": "https://techcrunch.com/2026/07/25/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/"
+    },
+    {
+      "title": "What is happening to jobs? Separating AI hype from reality",
+      "summary": "Article URL: https://siepr.stanford.edu/publications/policy-brief/what-really-happening-jobs-separating-ai-hype-reality Comments URL: https://news.ycombinator.com/item?id=49052570 Points: 61 # Comments: 70",
+      "source": "Hacker News",
+      "published": "2026-07-25T22:51:10+00:00",
+      "link": "https://siepr.stanford.edu/publications/policy-brief/what-really-happening-jobs-separating-ai-hype-reality"
+    },
+    {
+      "title": "Cloudflare's new AI traffic options for customers",
+      "summary": "Article URL: https://blog.cloudflare.com/content-independence-day-ai-options/ Comments URL: https://news.ycombinator.com/item?id=49052564 Points: 65 # Comments: 40",
+      "source": "Hacker News",
+      "published": "2026-07-25T22:50:49+00:00",
+      "link": "https://blog.cloudflare.com/content-independence-day-ai-options/"
+    },
+    {
+      "title": "'AI Mania Is Eviscerating Global Decision-Making'",
+      "summary": "Article URL: https://daringfireball.net/linked/2026/07/25/ai-mania-nikhil-suresh Comments URL: https://news.ycombinator.com/item?id=49051692 Points: 54 # Comments: 18",
+      "source": "Hacker News",
+      "published": "2026-07-25T21:18:06+00:00",
+      "link": "https://daringfireball.net/linked/2026/07/25/ai-mania-nikhil-suresh"
+    },
+    {
+      "title": "LLM Usage in Debian: Three Proposals",
+      "summary": "Article URL: https://www.debian.org/vote/2026/vote_002 Comments URL: https://news.ycombinator.com/item?id=49050859 Points: 108 # Comments: 97",
+      "source": "Hacker News",
+      "published": "2026-07-25T19:44:39+00:00",
+      "link": "https://www.debian.org/vote/2026/vote_002"
+    },
+    {
+      "title": "Running a 28.9M parameter LLM on an $8 microcontroller",
+      "summary": "Article URL: https://github.com/slvDev/esp32-ai Comments URL: https://news.ycombinator.com/item?id=49050512 Points: 108 # Comments: 25",
+      "source": "Hacker News",
+      "published": "2026-07-25T18:59:50+00:00",
+      "link": "https://github.com/slvDev/esp32-ai"
+    },
+    {
       "title": "Politician reads AI prompt during assembly",
-      "summary": "Article URL: https://www.youtube.com/watch?v=wlYa8NV5k-U Comments URL: https://news.ycombinator.com/item?id=49048996 Points: 59 # Comments: 37",
+      "summary": "Article URL: https://www.youtube.com/watch?v=wlYa8NV5k-U Comments URL: https://news.ycombinator.com/item?id=49048996 Points: 67 # Comments: 43",
       "source": "Hacker News",
       "published": "2026-07-25T16:31:15+00:00",
       "link": "https://www.youtube.com/watch?v=wlYa8NV5k-U"
@@ -17,7 +59,7 @@ const FEED_DATA = {
     },
     {
       "title": "Open-weight AI is having its Kubernetes moment",
-      "summary": "Article URL: https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment/ Comments URL: https://news.ycombinator.com/item?id=49048034 Points: 262 # Comments: 196",
+      "summary": "Article URL: https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment/ Comments URL: https://news.ycombinator.com/item?id=49048034 Points: 338 # Comments: 273",
       "source": "Hacker News",
       "published": "2026-07-25T14:49:49+00:00",
       "link": "https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment/"
@@ -38,7 +80,7 @@ const FEED_DATA = {
     },
     {
       "title": "Corporate America Has Suddenly Decided to Stop Blowing Money on AI",
-      "summary": "Article URL: https://www.wsj.com/business/china-us-ai-model-costs-53a12e96 Comments URL: https://news.ycombinator.com/item?id=49047448 Points: 55 # Comments: 78",
+      "summary": "Article URL: https://www.wsj.com/business/china-us-ai-model-costs-53a12e96 Comments URL: https://news.ycombinator.com/item?id=49047448 Points: 59 # Comments: 80",
       "source": "Hacker News",
       "published": "2026-07-25T13:33:03+00:00",
       "link": "https://www.wsj.com/business/china-us-ai-model-costs-53a12e96"
@@ -94,7 +136,7 @@ const FEED_DATA = {
     },
     {
       "title": "Opus 5 is currently #1 on Artificial Analysis Intelligence Leaderboard",
-      "summary": "Article URL: https://artificialanalysis.ai/models Comments URL: https://news.ycombinator.com/item?id=49040741 Points: 364 # Comments: 215",
+      "summary": "Article URL: https://artificialanalysis.ai/models Comments URL: https://news.ycombinator.com/item?id=49040741 Points: 365 # Comments: 216",
       "source": "Hacker News",
       "published": "2026-07-24T19:45:10+00:00",
       "link": "https://artificialanalysis.ai/models"
@@ -304,7 +346,7 @@ const FEED_DATA = {
     },
     {
       "title": "Hetzner is working on LLM Inference",
-      "summary": "Article URL: https://sliplane.io/blog/hetzner-inference Comments URL: https://news.ycombinator.com/item?id=49033087 Points: 152 # Comments: 86",
+      "summary": "Article URL: https://sliplane.io/blog/hetzner-inference Comments URL: https://news.ycombinator.com/item?id=49033087 Points: 152 # Comments: 87",
       "source": "Hacker News",
       "published": "2026-07-24T09:24:44+00:00",
       "link": "https://sliplane.io/blog/hetzner-inference"
@@ -325,7 +367,7 @@ const FEED_DATA = {
     },
     {
       "title": "A taxonomy of omnicidal futures involving artificial intelligence (2025)",
-      "summary": "Article URL: https://arxiv.org/abs/2507.09369 Comments URL: https://news.ycombinator.com/item?id=49029133 Points: 73 # Comments: 81",
+      "summary": "Article URL: https://arxiv.org/abs/2507.09369 Comments URL: https://news.ycombinator.com/item?id=49029133 Points: 74 # Comments: 81",
       "source": "Hacker News",
       "published": "2026-07-23T22:51:13+00:00",
       "link": "https://arxiv.org/abs/2507.09369"
@@ -423,7 +465,7 @@ const FEED_DATA = {
     },
     {
       "title": "The arguments against open source AI are bad",
-      "summary": "Article URL: https://tombedor.dev/arguments-against-open-source-ai-are-very-bad/ Comments URL: https://news.ycombinator.com/item?id=49024643 Points: 309 # Comments: 212",
+      "summary": "Article URL: https://tombedor.dev/arguments-against-open-source-ai-are-very-bad/ Comments URL: https://news.ycombinator.com/item?id=49024643 Points: 309 # Comments: 213",
       "source": "Hacker News",
       "published": "2026-07-23T16:49:57+00:00",
       "link": "https://tombedor.dev/arguments-against-open-source-ai-are-very-bad/"
@@ -444,7 +486,7 @@ const FEED_DATA = {
     },
     {
       "title": "Startup founders urge U.S. government not to shut off Chinese open weight AI",
-      "summary": "https://littletech.org/https://static.politico.com/4a/bf/9c4021d8404386b0a311dcccf0... Comments URL: https://news.ycombinator.com/item?id=49023016 Points: 1059 # Comments: 870",
+      "summary": "https://littletech.org/https://static.politico.com/4a/bf/9c4021d8404386b0a311dcccf0... Comments URL: https://news.ycombinator.com/item?id=49023016 Points: 1061 # Comments: 872",
       "source": "Hacker News",
       "published": "2026-07-23T15:18:40+00:00",
       "link": "https://www.politico.com/news/2026/07/22/startup-founders-urge-trump-not-to-shut-off-chinese-open-weight-ai-01008992"
@@ -1358,48 +1400,6 @@ const FEED_DATA = {
       "source": "MIT Tech Review",
       "published": "2026-07-20T08:39:01+00:00",
       "link": "https://www.technologyreview.com/2026/07/20/1140655/ai-biases-hiring-humans/"
-    },
-    {
-      "title": "Moonshot pauses new Kimi K3 subscriptions after GPU demand maxes out in 48 hours",
-      "summary": "Moonshot has temporarily stopped selling new subscriptions for its Kimi K3 model as demand nearly maxed out its GPU capacity within 48 hours. The company plans to split its subscription model to spread computing power more evenly.",
-      "source": "The Decoder",
-      "published": "2026-07-20T07:55:09+00:00",
-      "link": "https://the-decoder.com/moonshot-pauses-new-kimi-k3-subscriptions-after-gpu-demand-maxes-out-in-48-hours/"
-    },
-    {
-      "title": "Ask HN: What are your favorite blogs not about AI?",
-      "summary": "Many of my favorite bloggers have stopped writing (or have drastically shifted topics). What are your favorite blogs?I miss the 2009 era of blogging about personal projects or super niche factoids.",
-      "source": "Hacker News",
-      "published": "2026-07-19T23:58:12+00:00",
-      "link": "https://news.ycombinator.com/item?id=48972858"
-    },
-    {
-      "title": "AI advice made people less accurate but more confident – sudy",
-      "summary": "Article URL: https://thenextweb.com/news/ai-advice-suppresses-critical-thinking-wrong-answers-study Comments URL: https://news.ycombinator.com/item?id=48971738 Points: 363 # Comments: 213",
-      "source": "Hacker News",
-      "published": "2026-07-19T21:18:10+00:00",
-      "link": "https://thenextweb.com/news/ai-advice-suppresses-critical-thinking-wrong-answers-study"
-    },
-    {
-      "title": "Can an Apple lawsuit derail OpenAI’s hardware plans?",
-      "summary": "On the latest episode of Equity, we debate whether Apple's lawsuit will cast a shadow over OpenAi's much-discussed plans to get into hardware and go public.",
-      "source": "TechCrunch",
-      "published": "2026-07-19T19:24:45+00:00",
-      "link": "https://techcrunch.com/2026/07/19/can-an-apple-lawsuit-derail-openais-hardware-plans/"
-    },
-    {
-      "title": "I hate that I don’t hate this song made with Suno",
-      "summary": "I would never go so far as to say there's no place for AI in music (I'm a fan of Holly Herndon, after all). But I generally find music made with generative AI to be offensively boring, especially the outputs of Suno.",
-      "source": "The Verge",
-      "published": "2026-07-19T17:35:54+00:00",
-      "link": "https://www.theverge.com/entertainment/967678/1010benja-semiramis-dream-suno-ai-music"
-    },
-    {
-      "title": "Moonshot AI suspends new subscriptions due to Kimi K3 demand",
-      "summary": "Article URL: https://twitter.com/kimi_moonshot/status/2078855608565207130 Comments URL: https://news.ycombinator.com/item?id=48969291 Points: 284 # Comments: 113",
-      "source": "Hacker News",
-      "published": "2026-07-19T16:02:25+00:00",
-      "link": "https://twitter.com/kimi_moonshot/status/2078855608565207130"
     }
   ]
 };
