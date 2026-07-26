@@ -1,6 +1,20 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-07-26T14:37:57.856428+00:00",
+  "lastUpdated": "2026-07-26T17:57:24.082408+00:00",
   "items": [
+    {
+      "title": "Hugging Face CEO calls for ‘radical transparency’ after ‘unprecedented’ OpenAI hack",
+      "summary": "\"The first autonomous agent cyberattack is an unprecedented event. It deserves an unprecedented response!\"",
+      "source": "TechCrunch",
+      "published": "2026-07-26T16:33:13+00:00",
+      "link": "https://techcrunch.com/2026/07/26/hugging-face-ceo-calls-for-radical-transparency-after-unprecedented-openai-hack/"
+    },
+    {
+      "title": "Cursor's agent swarm suggests cheaper models can handle most coding when frontier models plan the work",
+      "summary": "Cursor asked its upgraded agent swarm and its predecessor to rebuild SQLite in Rust using only the documentation, with no source code or internet access. Every configuration of the new system, which separates planners from workers, eventually scored 100 percent on the test suite.",
+      "source": "The Decoder",
+      "published": "2026-07-26T15:09:11+00:00",
+      "link": "https://the-decoder.com/cursors-agent-swarm-suggests-cheaper-models-can-handle-most-coding-when-frontier-models-plan-the-work/"
+    },
     {
       "title": "Anthropic's Opus 5 blows past Fable 5 and GPT-5.6 Sol on the benchmark designed to measure real intelligence",
       "summary": "Anthropic's Claude Opus 5 scored 30.2 percent on ARC-AGI-3, nearly quadrupling GPT-5.6 Sol's previous record of 7.8 percent.",
@@ -38,42 +52,42 @@ const FEED_DATA = {
     },
     {
       "title": "What is happening to jobs? Separating AI hype from reality",
-      "summary": "Article URL: https://siepr.stanford.edu/publications/policy-brief/what-really-happening-jobs-separating-ai-hype-reality Comments URL: https://news.ycombinator.com/item?id=49052570 Points: 158 # Comments: 207",
+      "summary": "Article URL: https://siepr.stanford.edu/publications/policy-brief/what-really-happening-jobs-separating-ai-hype-reality Comments URL: https://news.ycombinator.com/item?id=49052570 Points: 208 # Comments: 276",
       "source": "Hacker News",
       "published": "2026-07-25T22:51:10+00:00",
       "link": "https://siepr.stanford.edu/publications/policy-brief/what-really-happening-jobs-separating-ai-hype-reality"
     },
     {
       "title": "Cloudflare's new AI traffic options for customers",
-      "summary": "Article URL: https://blog.cloudflare.com/content-independence-day-ai-options/ Comments URL: https://news.ycombinator.com/item?id=49052564 Points: 151 # Comments: 130",
+      "summary": "Article URL: https://blog.cloudflare.com/content-independence-day-ai-options/ Comments URL: https://news.ycombinator.com/item?id=49052564 Points: 177 # Comments: 135",
       "source": "Hacker News",
       "published": "2026-07-25T22:50:49+00:00",
       "link": "https://blog.cloudflare.com/content-independence-day-ai-options/"
     },
     {
       "title": "'AI Mania Is Eviscerating Global Decision-Making'",
-      "summary": "Article URL: https://daringfireball.net/linked/2026/07/25/ai-mania-nikhil-suresh Comments URL: https://news.ycombinator.com/item?id=49051692 Points: 58 # Comments: 18",
+      "summary": "Article URL: https://daringfireball.net/linked/2026/07/25/ai-mania-nikhil-suresh Comments URL: https://news.ycombinator.com/item?id=49051692 Points: 61 # Comments: 18",
       "source": "Hacker News",
       "published": "2026-07-25T21:18:06+00:00",
       "link": "https://daringfireball.net/linked/2026/07/25/ai-mania-nikhil-suresh"
     },
     {
       "title": "LLM Usage in Debian: Three Proposals",
-      "summary": "Article URL: https://www.debian.org/vote/2026/vote_002 Comments URL: https://news.ycombinator.com/item?id=49050859 Points: 188 # Comments: 168",
+      "summary": "Article URL: https://www.debian.org/vote/2026/vote_002 Comments URL: https://news.ycombinator.com/item?id=49050859 Points: 200 # Comments: 187",
       "source": "Hacker News",
       "published": "2026-07-25T19:44:39+00:00",
       "link": "https://www.debian.org/vote/2026/vote_002"
     },
     {
       "title": "Running a 28.9M parameter LLM on an $8 microcontroller",
-      "summary": "Article URL: https://github.com/slvDev/esp32-ai Comments URL: https://news.ycombinator.com/item?id=49050512 Points: 237 # Comments: 61",
+      "summary": "Article URL: https://github.com/slvDev/esp32-ai Comments URL: https://news.ycombinator.com/item?id=49050512 Points: 261 # Comments: 65",
       "source": "Hacker News",
       "published": "2026-07-25T18:59:50+00:00",
       "link": "https://github.com/slvDev/esp32-ai"
     },
     {
       "title": "Politician reads AI prompt during assembly",
-      "summary": "Article URL: https://www.youtube.com/watch?v=wlYa8NV5k-U Comments URL: https://news.ycombinator.com/item?id=49048996 Points: 68 # Comments: 45",
+      "summary": "Article URL: https://www.youtube.com/watch?v=wlYa8NV5k-U Comments URL: https://news.ycombinator.com/item?id=49048996 Points: 68 # Comments: 47",
       "source": "Hacker News",
       "published": "2026-07-25T16:31:15+00:00",
       "link": "https://www.youtube.com/watch?v=wlYa8NV5k-U"
@@ -87,7 +101,7 @@ const FEED_DATA = {
     },
     {
       "title": "Open-weight AI is having its Kubernetes moment",
-      "summary": "Article URL: https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment/ Comments URL: https://news.ycombinator.com/item?id=49048034 Points: 387 # Comments: 304",
+      "summary": "Article URL: https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment/ Comments URL: https://news.ycombinator.com/item?id=49048034 Points: 392 # Comments: 309",
       "source": "Hacker News",
       "published": "2026-07-25T14:49:49+00:00",
       "link": "https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment/"
@@ -100,6 +114,13 @@ const FEED_DATA = {
       "link": "https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment/"
     },
     {
+      "title": "The AI jobs apocalypse probably isn't coming anytime soon",
+      "summary": "Article URL: https://www.theguardian.com/technology/2026/jul/25/ai-jobs-apocalypse-human-labor Comments URL: https://news.ycombinator.com/item?id=49047969 Points: 50 # Comments: 89",
+      "source": "Hacker News",
+      "published": "2026-07-25T14:41:06+00:00",
+      "link": "https://www.theguardian.com/technology/2026/jul/25/ai-jobs-apocalypse-human-labor"
+    },
+    {
       "title": "New reports reveal the extent of OpenAI's loss of control during the autonomous hack on Hugging Face",
       "summary": "In a cybersecurity test, OpenAI's most advanced models breached the boundaries of their isolated test environment, reached the open internet, and hacked the AI platform Hugging Face on their own. The attack took hours, not the weeks a human hacker would need.",
       "source": "The Decoder",
@@ -108,7 +129,7 @@ const FEED_DATA = {
     },
     {
       "title": "The AI Productivity Illusion",
-      "summary": "Article URL: https://www.hardresetmedia.com/p/the-ai-productivity-illusion Comments URL: https://news.ycombinator.com/item?id=49047526 Points: 52 # Comments: 20",
+      "summary": "Article URL: https://www.hardresetmedia.com/p/the-ai-productivity-illusion Comments URL: https://news.ycombinator.com/item?id=49047526 Points: 58 # Comments: 23",
       "source": "Hacker News",
       "published": "2026-07-25T13:43:33+00:00",
       "link": "https://www.hardresetmedia.com/p/the-ai-productivity-illusion"
@@ -171,7 +192,7 @@ const FEED_DATA = {
     },
     {
       "title": "Opus 5 is currently #1 on Artificial Analysis Intelligence Leaderboard",
-      "summary": "Article URL: https://artificialanalysis.ai/models Comments URL: https://news.ycombinator.com/item?id=49040741 Points: 367 # Comments: 223",
+      "summary": "Article URL: https://artificialanalysis.ai/models Comments URL: https://news.ycombinator.com/item?id=49040741 Points: 369 # Comments: 226",
       "source": "Hacker News",
       "published": "2026-07-24T19:45:10+00:00",
       "link": "https://artificialanalysis.ai/models"
@@ -353,7 +374,7 @@ const FEED_DATA = {
     },
     {
       "title": "I Tried Building a Real App with AI. It Took a Year",
-      "summary": "Article URL: https://www.alexhyett.com/videos/tried-building-app-with-ai-it-took-a-year/ Comments URL: https://news.ycombinator.com/item?id=49034342 Points: 108 # Comments: 84",
+      "summary": "Article URL: https://www.alexhyett.com/videos/tried-building-app-with-ai-it-took-a-year/ Comments URL: https://news.ycombinator.com/item?id=49034342 Points: 110 # Comments: 84",
       "source": "Hacker News",
       "published": "2026-07-24T12:00:17+00:00",
       "link": "https://www.alexhyett.com/videos/tried-building-app-with-ai-it-took-a-year/"
@@ -472,7 +493,7 @@ const FEED_DATA = {
     },
     {
       "title": "Rethinking Legal Education in the AI Era",
-      "summary": "Article URL: https://www.law.uchicago.edu/news/ai-strategy-statement Comments URL: https://news.ycombinator.com/item?id=49024980 Points: 108 # Comments: 65",
+      "summary": "Article URL: https://www.law.uchicago.edu/news/ai-strategy-statement Comments URL: https://news.ycombinator.com/item?id=49024980 Points: 119 # Comments: 82",
       "source": "Hacker News",
       "published": "2026-07-23T17:12:48+00:00",
       "link": "https://www.law.uchicago.edu/news/ai-strategy-statement"
@@ -1379,27 +1400,6 @@ const FEED_DATA = {
       "source": "Hacker News",
       "published": "2026-07-20T15:28:32+00:00",
       "link": "https://www.newyorker.com/science/annals-of-artificial-intelligence/there-is-no-ai"
-    },
-    {
-      "title": "YouTube clarifies policies around AI slop and upsetting videos",
-      "summary": "YouTube has updated its monetization policies to more clearly define the kinds of AI-generated and low-quality videos that can’t earn ad revenue.",
-      "source": "TechCrunch",
-      "published": "2026-07-20T15:23:06+00:00",
-      "link": "https://techcrunch.com/2026/07/20/youtube-clarifies-policies-around-ai-slop-and-upsetting-videos/"
-    },
-    {
-      "title": "China’s open-weights AI strategy is winning",
-      "summary": "Article URL: https://werd.io/american-ai-is-locked-down-and-proprietary-its-losing/ Comments URL: https://news.ycombinator.com/item?id=48979269 Points: 1234 # Comments: 930",
-      "source": "Hacker News",
-      "published": "2026-07-20T14:21:47+00:00",
-      "link": "https://werd.io/american-ai-is-locked-down-and-proprietary-its-losing/"
-    },
-    {
-      "title": "Trump administration reportedly builds a slow-motion ban on Chinese AI models through sanctions and soft pressure",
-      "summary": "The Trump administration is reportedly weighing measures targeting Chinese AI models, from adding Chinese labs to sanctions lists to holding U.S. companies liable for security failures.",
-      "source": "The Decoder",
-      "published": "2026-07-20T14:03:53+00:00",
-      "link": "https://the-decoder.com/trump-administration-reportedly-builds-a-slow-motion-ban-on-chinese-ai-models-through-sanctions-and-soft-pressure/"
     }
   ]
 };
