@@ -1,6 +1,62 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-07-27T15:43:47.441953+00:00",
+  "lastUpdated": "2026-07-27T18:20:16.744812+00:00",
   "items": [
+    {
+      "title": "OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here.",
+      "source": "MIT Tech Review",
+      "published": "2026-07-27T18:00:00+00:00",
+      "link": "https://www.technologyreview.com/2026/07/27/1140836/openai-hugging-face-attack-precedent/"
+    },
+    {
+      "title": "Delhi High Court hands OpenAI a win by rejecting major Indian news agency's copyright injunction",
+      "summary": "The Delhi High Court has handed OpenAI a major win in its copyright fight with news agency ANI. For the first time, a court has classified AI training as private use.",
+      "source": "The Decoder",
+      "published": "2026-07-27T17:55:24+00:00",
+      "link": "https://the-decoder.com/delhi-high-court-hands-openai-a-win-by-rejecting-major-indian-news-agencys-copyright-injunction/"
+    },
+    {
+      "title": "OpenAI’s Hugging Face breach has reignited the debate over alignment and control",
+      "summary": "OpenAI's Hugging Face breach has reignited debate over AI alignment and control, exposing competing views on whether increasingly capable AI should be better aligned, better contained, or both.",
+      "source": "TechCrunch",
+      "published": "2026-07-27T17:28:42+00:00",
+      "link": "https://techcrunch.com/2026/07/27/openais-hugging-face-breach-has-reignited-the-debate-over-alignment-and-control/"
+    },
+    {
+      "title": "Why China is giving away its best AI models",
+      "summary": "Silicon Valley has spent much of the past week on red alert, digesting the arrival of Moonshot AI's Kimi K3, a Chinese AI model that can allegedly beat some of the best systems built by US companies at a fraction of the cost.",
+      "source": "The Verge",
+      "published": "2026-07-27T16:51:50+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/971444/how-chinese-open-weight-ai-models-impact-us-companies"
+    },
+    {
+      "title": "Threads users can now chat with Meta AI in their DMs",
+      "summary": "Meta on Monday said it is rolling out its Meta AI chatbot within Threads' DMs, giving users a way to chat with the AI assistant.",
+      "source": "TechCrunch",
+      "published": "2026-07-27T16:45:24+00:00",
+      "link": "https://techcrunch.com/2026/07/27/threads-users-can-now-chat-with-meta-ai-in-their-dms/"
+    },
+    {
+      "title": "Nvidia's $750B in Deals Reignite Circular AI Fears",
+      "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-07-27/nvidia-s-750-billion-deals-revive-fear-of-ai-circular-financing Comments URL: https://news.ycombinator.com/item?id=49071512 Points: 67 # Comments: 50",
+      "source": "Hacker News",
+      "published": "2026-07-27T16:02:00+00:00",
+      "link": "https://www.bloomberg.com/news/articles/2026-07-27/nvidia-s-750-billion-deals-revive-fear-of-ai-circular-financing"
+    },
+    {
+      "title": "Google’s AI search is rapidly becoming the default, new data shows",
+      "summary": "Google’s AI Overviews now appear in 43% of searches, underscoring how quickly AI-generated answers are becoming the default way people discover information online.",
+      "source": "TechCrunch",
+      "published": "2026-07-27T15:57:12+00:00",
+      "link": "https://techcrunch.com/2026/07/27/googles-ai-search-is-rapidly-becoming-the-default-new-data-shows/"
+    },
+    {
+      "title": "Power up your AI infrastructure! A first look at the Smart Systems Stage agenda at TechCrunch Disrupt 2026",
+      "summary": "At TechCrunch Disrupt 2026, the Smart Systems Stage will be where energy, infrastructure, and technology collide, covering everything from fusion breakthroughs to the grid strain AI is putting on the entire economy.",
+      "source": "TechCrunch",
+      "published": "2026-07-27T15:30:00+00:00",
+      "link": "https://techcrunch.com/2026/07/27/power-up-your-ai-infrastructure-a-first-look-at-the-smart-systems-stage-agenda-at-techcrunch-disrupt-2026/"
+    },
     {
       "title": "Ilya Sutskever’s Safe Superintelligence partners with Nvidia to scale its AI research",
       "summary": "After two years in stealth, Safe Superintelligence has announced a long-term partnership with Nvidia as it prepares to scale to its next phase.",
@@ -10,10 +66,24 @@ const FEED_DATA = {
     },
     {
       "title": "Apple Will 'Watch Everything Burn' When the AI Bubble Bursts",
-      "summary": "Article URL: https://www.macrumors.com/2026/07/27/ed-zitron-apple-watch-it-burn-ai-bubble-bursts/ Comments URL: https://news.ycombinator.com/item?id=49070427 Points: 63 # Comments: 10",
+      "summary": "Article URL: https://www.macrumors.com/2026/07/27/ed-zitron-apple-watch-it-burn-ai-bubble-bursts/ Comments URL: https://news.ycombinator.com/item?id=49070427 Points: 201 # Comments: 223",
       "source": "Hacker News",
       "published": "2026-07-27T14:42:41+00:00",
       "link": "https://www.macrumors.com/2026/07/27/ed-zitron-apple-watch-it-burn-ai-bubble-bursts/"
+    },
+    {
+      "title": "AI companies spend record sums on Washington lobbying",
+      "summary": "https://archive.ph/PASMJ Comments URL: https://news.ycombinator.com/item?id=49069939 Points: 200 # Comments: 97",
+      "source": "Hacker News",
+      "published": "2026-07-27T14:07:48+00:00",
+      "link": "https://www.ft.com/content/d8a5f95e-3b6d-463a-a848-c9ef8e2394db"
+    },
+    {
+      "title": "Enigma raises $71M to make controlling a robot as easy as adjusting the volume",
+      "summary": "The massive seed round was led by Index Ventures and Ribbit Capital, with participation from Sarah Guo's Conviction Partners.",
+      "source": "TechCrunch",
+      "published": "2026-07-27T13:00:00+00:00",
+      "link": "https://techcrunch.com/2026/07/27/enigma-raises-70m-to-make-controlling-a-robot-as-easy-as-adjusting-the-volume/"
     },
     {
       "title": "Enigma raises $70M to make controlling a robot as easy as adjusting the volume",
@@ -24,7 +94,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI companies are shredding rare books",
-      "summary": "https://xcancel.com/HedgieMarkets/status/2081534588485296565 Comments URL: https://news.ycombinator.com/item?id=49068738 Points: 542 # Comments: 294",
+      "summary": "https://xcancel.com/HedgieMarkets/status/2081534588485296565 Comments URL: https://news.ycombinator.com/item?id=49068738 Points: 664 # Comments: 414",
       "source": "Hacker News",
       "published": "2026-07-27T12:32:12+00:00",
       "link": "https://twitter.com/HedgieMarkets/status/2081534588485296565"
@@ -101,7 +171,7 @@ const FEED_DATA = {
     },
     {
       "title": "Are brain waves the next unlock for physical AI?",
-      "summary": "Forget YouTube videos—frontier physical AI models need multiple camera angles, dense annotation, and soon, brain wave readings.",
+      "summary": "Forget YouTube videos — frontier physical AI models need multiple camera angles, dense annotation, and, soon, brain wave readings.",
       "source": "TechCrunch",
       "published": "2026-07-27T00:19:14+00:00",
       "link": "https://techcrunch.com/2026/07/26/are-brain-waves-the-next-unlock-for-physical-ai/"
@@ -122,7 +192,7 @@ const FEED_DATA = {
     },
     {
       "title": "This July I Was Fired from Simple AI (A Deeply YC Company)",
-      "summary": "Article URL: https://andys.blog/this-july-i-was-fired-from-simple-ai/ Comments URL: https://news.ycombinator.com/item?id=49059587 Points: 52 # Comments: 169",
+      "summary": "Article URL: https://andys.blog/this-july-i-was-fired-from-simple-ai/ Comments URL: https://news.ycombinator.com/item?id=49059587 Points: 54 # Comments: 171",
       "source": "Hacker News",
       "published": "2026-07-26T16:14:46+00:00",
       "link": "https://andys.blog/this-july-i-was-fired-from-simple-ai/"
@@ -136,14 +206,14 @@ const FEED_DATA = {
     },
     {
       "title": "The New AI Superpowers: Focus and Followthrough",
-      "summary": "Article URL: https://www.rickmanelius.com/p/the-new-ai-superpowers-focus-and Comments URL: https://news.ycombinator.com/item?id=49057877 Points: 208 # Comments: 75",
+      "summary": "Article URL: https://www.rickmanelius.com/p/the-new-ai-superpowers-focus-and Comments URL: https://news.ycombinator.com/item?id=49057877 Points: 208 # Comments: 76",
       "source": "Hacker News",
       "published": "2026-07-26T13:13:03+00:00",
       "link": "https://www.rickmanelius.com/p/the-new-ai-superpowers-focus-and"
     },
     {
       "title": "Terence Tao: Mathematics in the Age of AI [pdf]",
-      "summary": "Article URL: https://teorth.github.io/tao-web/slides/age-of-ai-icm-2026.pdf Comments URL: https://news.ycombinator.com/item?id=49056620 Points: 136 # Comments: 54",
+      "summary": "Article URL: https://teorth.github.io/tao-web/slides/age-of-ai-icm-2026.pdf Comments URL: https://news.ycombinator.com/item?id=49056620 Points: 143 # Comments: 56",
       "source": "Hacker News",
       "published": "2026-07-26T10:32:35+00:00",
       "link": "https://teorth.github.io/tao-web/slides/age-of-ai-icm-2026.pdf"
@@ -185,7 +255,7 @@ const FEED_DATA = {
     },
     {
       "title": "What is happening to jobs? Separating AI hype from reality",
-      "summary": "Article URL: https://siepr.stanford.edu/publications/policy-brief/what-really-happening-jobs-separating-ai-hype-reality Comments URL: https://news.ycombinator.com/item?id=49052570 Points: 273 # Comments: 357",
+      "summary": "Article URL: https://siepr.stanford.edu/publications/policy-brief/what-really-happening-jobs-separating-ai-hype-reality Comments URL: https://news.ycombinator.com/item?id=49052570 Points: 278 # Comments: 366",
       "source": "Hacker News",
       "published": "2026-07-25T22:51:10+00:00",
       "link": "https://siepr.stanford.edu/publications/policy-brief/what-really-happening-jobs-separating-ai-hype-reality"
@@ -199,7 +269,7 @@ const FEED_DATA = {
     },
     {
       "title": "Becoming a Research Engineer at a Big LLM Lab",
-      "summary": "Article URL: https://www.maxmynter.com/pages/blog/jobhunt Comments URL: https://news.ycombinator.com/item?id=49051707 Points: 50 # Comments: 18",
+      "summary": "Article URL: https://www.maxmynter.com/pages/blog/jobhunt Comments URL: https://news.ycombinator.com/item?id=49051707 Points: 50 # Comments: 20",
       "source": "Hacker News",
       "published": "2026-07-25T21:19:42+00:00",
       "link": "https://www.maxmynter.com/pages/blog/jobhunt"
@@ -276,13 +346,13 @@ const FEED_DATA = {
     },
     {
       "title": "Corporate America Has Suddenly Decided to Stop Blowing Money on AI",
-      "summary": "Article URL: https://www.wsj.com/business/china-us-ai-model-costs-53a12e96 Comments URL: https://news.ycombinator.com/item?id=49047448 Points: 64 # Comments: 83",
+      "summary": "Article URL: https://www.wsj.com/business/china-us-ai-model-costs-53a12e96 Comments URL: https://news.ycombinator.com/item?id=49047448 Points: 64 # Comments: 84",
       "source": "Hacker News",
       "published": "2026-07-25T13:33:03+00:00",
       "link": "https://www.wsj.com/business/china-us-ai-model-costs-53a12e96"
     },
     {
-      "title": "One fallen power line exposed a growing AI data center problem. Here’s how to fix it.",
+      "title": "One fallen power line exposed a growing AI data center problem — here’s how to fix it",
       "summary": "A close call in Northern Virginia revealed just how poorly data centers respond to grid disruptions. Here's how to fix the problem.",
       "source": "TechCrunch",
       "published": "2026-07-25T13:05:00+00:00",
@@ -1330,76 +1400,6 @@ const FEED_DATA = {
       "source": "AI News",
       "published": "2026-07-21T12:50:06+00:00",
       "link": "https://www.artificialintelligence-news.com/news/the-ai-slot-machine-effect-why-generative-feeds-disrupt-deep-work-and-how-to-reclaim-focus/"
-    },
-    {
-      "title": "The Download: Chinese AI divides the White House, and a record copyright payout",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.",
-      "source": "MIT Tech Review",
-      "published": "2026-07-21T12:10:00+00:00",
-      "link": "https://www.technologyreview.com/2026/07/21/1140685/the-download-chinese-ai-divides-white-house-anthropic-copyright-settlement/"
-    },
-    {
-      "title": "Alibaba's Qwen Audio 3.0 TTS Plus tops the competition in the text-to-speech rankings",
-      "summary": "Alibaba's Qwen Audio 3.0 TTS Plus tops Artificial Analysis' Speech Arena leaderboard. The model supports 16 languages and lets users control speaking style with natural language or tags like [angry].",
-      "source": "The Decoder",
-      "published": "2026-07-21T11:31:15+00:00",
-      "link": "https://the-decoder.com/alibabas-qwen-audio-3-0-tts-plus-tops-the-competition-in-the-text-to-speech-rankings/"
-    },
-    {
-      "title": "America needs to stop getting shocked by Chinese AI",
-      "summary": "Last week, two Chinese AI companies unveiled models they say can credibly compete with the best systems from OpenAI and Anthropic. The response was swift and predictable.",
-      "source": "The Verge",
-      "published": "2026-07-21T11:08:56+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/968136/chinese-ai-models-another-sputnik-moment"
-    },
-    {
-      "title": "Advancing next-gen AI with materials science innovation",
-      "summary": "The conversation about AI often centers on algorithms, computing power, or huge investments in new semiconductor fabrication plants and hyperscale data centers. But beneath each of these advances is another layer of innovation that makes them possible: advanced materials.",
-      "source": "MIT Tech Review",
-      "published": "2026-07-21T10:37:34+00:00",
-      "link": "https://www.technologyreview.com/2026/07/21/1140602/advancing-next-gen-ai-with-materials-science-innovation/"
-    },
-    {
-      "title": "‘It’s a Modern-Day Draft’: Why Stanford Students Walked Out on Sundar Pichai’s Commencement Speech",
-      "summary": "Last month, more than a hundred Stanford students left their own graduation to protest Google’s military contracts and deals with ICE. Two organizers, Amanda Campos and Eva Jones, tell us why.",
-      "source": "Wired",
-      "published": "2026-07-21T10:30:00+00:00",
-      "link": "https://www.wired.com/story/big-interview-stanford-students-booing-sundar-pichai/"
-    },
-    {
-      "title": "Bristol Myers Squibb buys Nvidia AI system for drug discovery",
-      "summary": "Bristol Myers Squibb is purchasing an Nvidia DGX SuperPOD built on the chipmaker’s Vera Rubin architecture to support artificial intelligence use across its drug discovery and development operations.",
-      "source": "AI News",
-      "published": "2026-07-21T10:00:00+00:00",
-      "link": "https://www.artificialintelligence-news.com/news/bristol-myers-squibb-nvidia-ai-system-drug-discovery/"
-    },
-    {
-      "title": "The Army Is Burning Through Its AI Tokens",
-      "summary": "Members of the Army received an email informing them that they were rapidly depleting their AI tokens, and needed to limit use.",
-      "source": "Wired",
-      "published": "2026-07-21T09:30:00+00:00",
-      "link": "https://www.wired.com/story/the-army-is-burning-through-its-ai-tokens/"
-    },
-    {
-      "title": "Etsy Is In Its Flop Era, and Sellers Are Fleeing",
-      "summary": "Once a quirky bastion of amateur vulva jewelry and pet portraits, Etsy is now deluged with mass-produced goods and AI knockoffs. Some customers don’t seem to mind.",
-      "source": "Wired",
-      "published": "2026-07-21T09:00:00+00:00",
-      "link": "https://www.wired.com/story/etsy-is-in-its-flop-era-and-sellers-are-fleeing/"
-    },
-    {
-      "title": "Xiaomi-Robotics-1 shows that more data beats bigger models when training robots to move",
-      "summary": "Xiaomi trained Xiaomi-Robotics-1 on more than 100,000 hours of motion data collected by people using camera-equipped handheld grippers rather than robots. Adding data improved performance far more than increasing model size.",
-      "source": "The Decoder",
-      "published": "2026-07-21T08:56:51+00:00",
-      "link": "https://the-decoder.com/xiaomi-robotics-1-shows-that-more-data-beats-bigger-models-when-training-robots-to-move/"
-    },
-    {
-      "title": "Chinese open-weight models are cheap. Washington is deciding what that costs.",
-      "summary": "Enterprises evaluating Chinese open-weight models this month face a question that has nothing to do with benchmarks: whether using one will still be straightforward in a year.",
-      "source": "AI News",
-      "published": "2026-07-21T08:00:00+00:00",
-      "link": "https://www.artificialintelligence-news.com/news/chinese-open-weight-models-policy-risk/"
     }
   ]
 };
