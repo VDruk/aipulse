@@ -1,6 +1,13 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-07-27T04:35:00.574694+00:00",
+  "lastUpdated": "2026-07-27T08:32:37.326416+00:00",
   "items": [
+    {
+      "title": "Shared Claude chats were reportedly showing up in search engines",
+      "summary": "Shared conversations with Anthropic's Claude chatbot briefly appeared in Google search results because the pages lacked a noindex tag. Users said some chats contained crypto keys and legal questions.",
+      "source": "The Decoder",
+      "published": "2026-07-27T07:51:16+00:00",
+      "link": "https://the-decoder.com/shared-claude-chats-were-reportedly-showing-up-in-search-engines/"
+    },
     {
       "title": "Are brain waves the next unlock for physical AI?",
       "summary": "Forget YouTube videos—frontier physical AI models need multiple camera angles, dense annotation, and soon, brain wave readings.",
@@ -38,14 +45,14 @@ const FEED_DATA = {
     },
     {
       "title": "The New AI Superpowers: Focus and Followthrough",
-      "summary": "Article URL: https://www.rickmanelius.com/p/the-new-ai-superpowers-focus-and Comments URL: https://news.ycombinator.com/item?id=49057877 Points: 172 # Comments: 50",
+      "summary": "Article URL: https://www.rickmanelius.com/p/the-new-ai-superpowers-focus-and Comments URL: https://news.ycombinator.com/item?id=49057877 Points: 197 # Comments: 63",
       "source": "Hacker News",
       "published": "2026-07-26T13:13:03+00:00",
       "link": "https://www.rickmanelius.com/p/the-new-ai-superpowers-focus-and"
     },
     {
       "title": "Terence Tao: Mathematics in the Age of AI [pdf]",
-      "summary": "Article URL: https://teorth.github.io/tao-web/slides/age-of-ai-icm-2026.pdf Comments URL: https://news.ycombinator.com/item?id=49056620 Points: 113 # Comments: 48",
+      "summary": "Article URL: https://teorth.github.io/tao-web/slides/age-of-ai-icm-2026.pdf Comments URL: https://news.ycombinator.com/item?id=49056620 Points: 121 # Comments: 49",
       "source": "Hacker News",
       "published": "2026-07-26T10:32:35+00:00",
       "link": "https://teorth.github.io/tao-web/slides/age-of-ai-icm-2026.pdf"
@@ -87,14 +94,14 @@ const FEED_DATA = {
     },
     {
       "title": "What is happening to jobs? Separating AI hype from reality",
-      "summary": "Article URL: https://siepr.stanford.edu/publications/policy-brief/what-really-happening-jobs-separating-ai-hype-reality Comments URL: https://news.ycombinator.com/item?id=49052570 Points: 250 # Comments: 320",
+      "summary": "Article URL: https://siepr.stanford.edu/publications/policy-brief/what-really-happening-jobs-separating-ai-hype-reality Comments URL: https://news.ycombinator.com/item?id=49052570 Points: 260 # Comments: 339",
       "source": "Hacker News",
       "published": "2026-07-25T22:51:10+00:00",
       "link": "https://siepr.stanford.edu/publications/policy-brief/what-really-happening-jobs-separating-ai-hype-reality"
     },
     {
       "title": "Cloudflare's new AI traffic options for customers",
-      "summary": "Article URL: https://blog.cloudflare.com/content-independence-day-ai-options/ Comments URL: https://news.ycombinator.com/item?id=49052564 Points: 188 # Comments: 147",
+      "summary": "Article URL: https://blog.cloudflare.com/content-independence-day-ai-options/ Comments URL: https://news.ycombinator.com/item?id=49052564 Points: 189 # Comments: 149",
       "source": "Hacker News",
       "published": "2026-07-25T22:50:49+00:00",
       "link": "https://blog.cloudflare.com/content-independence-day-ai-options/"
@@ -108,14 +115,14 @@ const FEED_DATA = {
     },
     {
       "title": "LLM Usage in Debian: Three Proposals",
-      "summary": "Article URL: https://www.debian.org/vote/2026/vote_002 Comments URL: https://news.ycombinator.com/item?id=49050859 Points: 208 # Comments: 206",
+      "summary": "Article URL: https://www.debian.org/vote/2026/vote_002 Comments URL: https://news.ycombinator.com/item?id=49050859 Points: 208 # Comments: 208",
       "source": "Hacker News",
       "published": "2026-07-25T19:44:39+00:00",
       "link": "https://www.debian.org/vote/2026/vote_002"
     },
     {
       "title": "Running a 28.9M parameter LLM on an $8 microcontroller",
-      "summary": "Article URL: https://github.com/slvDev/esp32-ai Comments URL: https://news.ycombinator.com/item?id=49050512 Points: 272 # Comments: 69",
+      "summary": "Article URL: https://github.com/slvDev/esp32-ai Comments URL: https://news.ycombinator.com/item?id=49050512 Points: 276 # Comments: 70",
       "source": "Hacker News",
       "published": "2026-07-25T18:59:50+00:00",
       "link": "https://github.com/slvDev/esp32-ai"
@@ -136,7 +143,7 @@ const FEED_DATA = {
     },
     {
       "title": "Open-weight AI is having its Kubernetes moment",
-      "summary": "Article URL: https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment/ Comments URL: https://news.ycombinator.com/item?id=49048034 Points: 400 # Comments: 313",
+      "summary": "Article URL: https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment/ Comments URL: https://news.ycombinator.com/item?id=49048034 Points: 401 # Comments: 317",
       "source": "Hacker News",
       "published": "2026-07-25T14:49:49+00:00",
       "link": "https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment/"
@@ -150,7 +157,7 @@ const FEED_DATA = {
     },
     {
       "title": "The AI jobs apocalypse probably isn't coming anytime soon",
-      "summary": "Article URL: https://www.theguardian.com/technology/2026/jul/25/ai-jobs-apocalypse-human-labor Comments URL: https://news.ycombinator.com/item?id=49047969 Points: 52 # Comments: 90",
+      "summary": "Article URL: https://www.theguardian.com/technology/2026/jul/25/ai-jobs-apocalypse-human-labor Comments URL: https://news.ycombinator.com/item?id=49047969 Points: 53 # Comments: 90",
       "source": "Hacker News",
       "published": "2026-07-25T14:41:06+00:00",
       "link": "https://www.theguardian.com/technology/2026/jul/25/ai-jobs-apocalypse-human-labor"
@@ -164,7 +171,7 @@ const FEED_DATA = {
     },
     {
       "title": "The AI Productivity Illusion",
-      "summary": "Article URL: https://www.hardresetmedia.com/p/the-ai-productivity-illusion Comments URL: https://news.ycombinator.com/item?id=49047526 Points: 65 # Comments: 26",
+      "summary": "Article URL: https://www.hardresetmedia.com/p/the-ai-productivity-illusion Comments URL: https://news.ycombinator.com/item?id=49047526 Points: 67 # Comments: 26",
       "source": "Hacker News",
       "published": "2026-07-25T13:43:33+00:00",
       "link": "https://www.hardresetmedia.com/p/the-ai-productivity-illusion"
@@ -388,7 +395,7 @@ const FEED_DATA = {
     },
     {
       "title": "Oracle fires 21,000 employees to fund AI spending",
-      "summary": "Article URL: https://www.jpost.com/business-and-innovation/tech-and-start-ups/article-903442 Comments URL: https://news.ycombinator.com/item?id=49035314 Points: 79 # Comments: 15",
+      "summary": "Article URL: https://www.jpost.com/business-and-innovation/tech-and-start-ups/article-903442 Comments URL: https://news.ycombinator.com/item?id=49035314 Points: 79 # Comments: 16",
       "source": "Hacker News",
       "published": "2026-07-24T13:33:12+00:00",
       "link": "https://www.jpost.com/business-and-innovation/tech-and-start-ups/article-903442"
@@ -437,7 +444,7 @@ const FEED_DATA = {
     },
     {
       "title": "Hetzner is working on LLM Inference",
-      "summary": "Article URL: https://sliplane.io/blog/hetzner-inference Comments URL: https://news.ycombinator.com/item?id=49033087 Points: 154 # Comments: 87",
+      "summary": "Article URL: https://sliplane.io/blog/hetzner-inference Comments URL: https://news.ycombinator.com/item?id=49033087 Points: 155 # Comments: 87",
       "source": "Hacker News",
       "published": "2026-07-24T09:24:44+00:00",
       "link": "https://sliplane.io/blog/hetzner-inference"
@@ -514,7 +521,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI bet goes awry: Oracle fires 21,000 employees",
-      "summary": "Article URL: https://www.msn.com/en-us/money/economy/ai-bet-goes-awry-oracle-fires-21-000-employees/ar-AA28vWuD Comments URL: https://news.ycombinator.com/item?id=49025754 Points: 106 # Comments: 28",
+      "summary": "Article URL: https://www.msn.com/en-us/money/economy/ai-bet-goes-awry-oracle-fires-21-000-employees/ar-AA28vWuD Comments URL: https://news.ycombinator.com/item?id=49025754 Points: 106 # Comments: 30",
       "source": "Hacker News",
       "published": "2026-07-23T18:07:33+00:00",
       "link": "https://www.msn.com/en-us/money/economy/ai-bet-goes-awry-oracle-fires-21-000-employees/ar-AA28vWuD"
@@ -1393,13 +1400,6 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-07-20T16:44:30+00:00",
       "link": "https://the-decoder.com/nvidias-grip-on-ai-chips-weakens-as-microsoft-turns-to-amd-and-anthropic-may-follow/"
-    },
-    {
-      "title": "How we measured AI writing across arXiv, and where the measurement breaks",
-      "summary": "Article URL: https://unslop.run/blog/measuring-ai-writing-on-arxiv Comments URL: https://news.ycombinator.com/item?id=48981206 Points: 242 # Comments: 171",
-      "source": "Hacker News",
-      "published": "2026-07-20T16:36:36+00:00",
-      "link": "https://unslop.run/blog/measuring-ai-writing-on-arxiv"
     }
   ]
 };
