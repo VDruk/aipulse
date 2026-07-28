@@ -1,6 +1,34 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-07-28T18:08:01.824265+00:00",
+  "lastUpdated": "2026-07-28T21:56:00.318263+00:00",
   "items": [
+    {
+      "title": "Bot-detection startup Spur nabs $200M from Insight",
+      "summary": "Spur Intelligence has raised a $200 million round from Insight Partners for its tech that can identify legit human traffic from bots.",
+      "source": "TechCrunch",
+      "published": "2026-07-28T21:29:34+00:00",
+      "link": "https://techcrunch.com/2026/07/28/bot-detection-startup-spur-nabs-200m-from-insight/"
+    },
+    {
+      "title": "AI leaders sign statement asking the government to do something about automated AI",
+      "summary": "Employees of OpenAI and Anthropic, as well as Google, Meta, Thinking Machines, Microsoft, Mistral, and other leading AI labs, have written a statement to the US government supporting a potential slowdown of sorts for frontier AI development - or at least a speed-up of global...",
+      "source": "The Verge",
+      "published": "2026-07-28T19:46:43+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/972161/ai-leaders-us-government-openai-anthropic-google-meta"
+    },
+    {
+      "title": "AI’s finally expensive enough to make Wall Street nervous",
+      "summary": "It's earnings season, and investors got an unpleasant surprise from Google: an increase on its spending estimate, to as much as $205 billion - from the last quarter's projection of up to $190 billion.",
+      "source": "The Verge",
+      "published": "2026-07-28T19:33:03+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/972119/ai-stock-fall-google-capex"
+    },
+    {
+      "title": "Anthropic says its Mythos model found vulnerabilities in cryptographic algorithms that secure the internet",
+      "summary": "Anthropic's Claude Mythos Preview found weaknesses in key cryptographic algorithms, including a better attack on HAWK, a post-quantum signature scheme that human experts had reviewed for more than two years. The model found it in just 60 hours at an API cost of about $100,000.",
+      "source": "The Decoder",
+      "published": "2026-07-28T19:12:27+00:00",
+      "link": "https://the-decoder.com/anthropic-says-its-mythos-model-found-vulnerabilities-in-cryptographic-algorithms-that-secure-the-internet/"
+    },
     {
       "title": "Amazon reportedly scales back its Nova AI models and bets on a new Frontier research team",
       "summary": "Amazon is scaling back most of its in-house Nova AI models, including Nova Premier, Omni, Reel, and Canvas. The models stay online for existing customers in \"keep the lights on\" mode but are no longer actively developed.",
@@ -52,7 +80,7 @@ const FEED_DATA = {
     },
     {
       "title": "What AI developers could learn from Charles Bukowski?",
-      "summary": "Article URL: https://galjot.si/what-ai-developers-could-learn-from-charles-bukowski Comments URL: https://news.ycombinator.com/item?id=49083132 Points: 59 # Comments: 44",
+      "summary": "Article URL: https://galjot.si/what-ai-developers-could-learn-from-charles-bukowski Comments URL: https://news.ycombinator.com/item?id=49083132 Points: 64 # Comments: 46",
       "source": "Hacker News",
       "published": "2026-07-28T13:00:12+00:00",
       "link": "https://galjot.si/what-ai-developers-could-learn-from-charles-bukowski"
@@ -108,7 +136,7 @@ const FEED_DATA = {
     },
     {
       "title": "Google's Beyond Zero: Enterprise Security for the AI Era",
-      "summary": "Article URL: https://spawn-queue.acm.org/doi/10.1145/3819083 Comments URL: https://news.ycombinator.com/item?id=49081644 Points: 112 # Comments: 62",
+      "summary": "Article URL: https://spawn-queue.acm.org/doi/10.1145/3819083 Comments URL: https://news.ycombinator.com/item?id=49081644 Points: 137 # Comments: 73",
       "source": "Hacker News",
       "published": "2026-07-28T09:59:13+00:00",
       "link": "https://spawn-queue.acm.org/doi/10.1145/3819083"
@@ -143,7 +171,7 @@ const FEED_DATA = {
     },
     {
       "title": "Don't ask an LLM for a confidence score",
-      "summary": "Article URL: https://justinflick.com/2026/07/27/llm-confidence-scores.html Comments URL: https://news.ycombinator.com/item?id=49077443 Points: 82 # Comments: 30",
+      "summary": "Article URL: https://justinflick.com/2026/07/27/llm-confidence-scores.html Comments URL: https://news.ycombinator.com/item?id=49077443 Points: 86 # Comments: 30",
       "source": "Hacker News",
       "published": "2026-07-28T00:06:53+00:00",
       "link": "https://justinflick.com/2026/07/27/llm-confidence-scores.html"
@@ -178,7 +206,7 @@ const FEED_DATA = {
     },
     {
       "title": "Professor's invisible prompt trap catches 32/35 students cheating with AI",
-      "summary": "Article URL: https://www.techspot.com/news/113243-professor-invisible-prompt-trap-catches-32-students-cheating.html Comments URL: https://news.ycombinator.com/item?id=49074680 Points: 104 # Comments: 87",
+      "summary": "Article URL: https://www.techspot.com/news/113243-professor-invisible-prompt-trap-catches-32-students-cheating.html Comments URL: https://news.ycombinator.com/item?id=49074680 Points: 105 # Comments: 87",
       "source": "Hacker News",
       "published": "2026-07-27T19:46:05+00:00",
       "link": "https://www.techspot.com/news/113243-professor-invisible-prompt-trap-catches-32-students-cheating.html"
@@ -248,7 +276,7 @@ const FEED_DATA = {
     },
     {
       "title": "Nvidia's $750B in Deals Reignite Circular AI Fears",
-      "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-07-27/nvidia-s-750-billion-deals-revive-fear-of-ai-circular-financing Comments URL: https://news.ycombinator.com/item?id=49071512 Points: 81 # Comments: 76",
+      "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-07-27/nvidia-s-750-billion-deals-revive-fear-of-ai-circular-financing Comments URL: https://news.ycombinator.com/item?id=49071512 Points: 81 # Comments: 77",
       "source": "Hacker News",
       "published": "2026-07-27T16:02:00+00:00",
       "link": "https://www.bloomberg.com/news/articles/2026-07-27/nvidia-s-750-billion-deals-revive-fear-of-ai-circular-financing"
@@ -276,14 +304,14 @@ const FEED_DATA = {
     },
     {
       "title": "Apple Will 'Watch Everything Burn' When the AI Bubble Bursts",
-      "summary": "Article URL: https://www.macrumors.com/2026/07/27/ed-zitron-apple-watch-it-burn-ai-bubble-bursts/ Comments URL: https://news.ycombinator.com/item?id=49070427 Points: 247 # Comments: 337",
+      "summary": "Article URL: https://www.macrumors.com/2026/07/27/ed-zitron-apple-watch-it-burn-ai-bubble-bursts/ Comments URL: https://news.ycombinator.com/item?id=49070427 Points: 248 # Comments: 344",
       "source": "Hacker News",
       "published": "2026-07-27T14:42:41+00:00",
       "link": "https://www.macrumors.com/2026/07/27/ed-zitron-apple-watch-it-burn-ai-bubble-bursts/"
     },
     {
       "title": "AI companies spend record sums on Washington lobbying",
-      "summary": "https://archive.ph/PASMJ Comments URL: https://news.ycombinator.com/item?id=49069939 Points: 271 # Comments: 143",
+      "summary": "https://archive.ph/PASMJ Comments URL: https://news.ycombinator.com/item?id=49069939 Points: 272 # Comments: 144",
       "source": "Hacker News",
       "published": "2026-07-27T14:07:48+00:00",
       "link": "https://www.ft.com/content/d8a5f95e-3b6d-463a-a848-c9ef8e2394db"
@@ -304,7 +332,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI companies are shredding rare books",
-      "summary": "https://xcancel.com/HedgieMarkets/status/2081534588485296565 Comments URL: https://news.ycombinator.com/item?id=49068738 Points: 774 # Comments: 496",
+      "summary": "https://xcancel.com/HedgieMarkets/status/2081534588485296565 Comments URL: https://news.ycombinator.com/item?id=49068738 Points: 778 # Comments: 505",
       "source": "Hacker News",
       "published": "2026-07-27T12:32:12+00:00",
       "link": "https://twitter.com/HedgieMarkets/status/2081534588485296565"
@@ -423,7 +451,7 @@ const FEED_DATA = {
     },
     {
       "title": "Terence Tao: Mathematics in the Age of AI [pdf]",
-      "summary": "Article URL: https://teorth.github.io/tao-web/slides/age-of-ai-icm-2026.pdf Comments URL: https://news.ycombinator.com/item?id=49056620 Points: 162 # Comments: 64",
+      "summary": "Article URL: https://teorth.github.io/tao-web/slides/age-of-ai-icm-2026.pdf Comments URL: https://news.ycombinator.com/item?id=49056620 Points: 163 # Comments: 64",
       "source": "Hacker News",
       "published": "2026-07-26T10:32:35+00:00",
       "link": "https://teorth.github.io/tao-web/slides/age-of-ai-icm-2026.pdf"
@@ -479,7 +507,7 @@ const FEED_DATA = {
     },
     {
       "title": "Becoming a Research Engineer at a Big LLM Lab",
-      "summary": "Article URL: https://www.maxmynter.com/pages/blog/jobhunt Comments URL: https://news.ycombinator.com/item?id=49051707 Points: 53 # Comments: 21",
+      "summary": "Article URL: https://www.maxmynter.com/pages/blog/jobhunt Comments URL: https://news.ycombinator.com/item?id=49051707 Points: 54 # Comments: 21",
       "source": "Hacker News",
       "published": "2026-07-25T21:19:42+00:00",
       "link": "https://www.maxmynter.com/pages/blog/jobhunt"
@@ -493,14 +521,14 @@ const FEED_DATA = {
     },
     {
       "title": "LLM Usage in Debian: Three Proposals",
-      "summary": "Article URL: https://www.debian.org/vote/2026/vote_002 Comments URL: https://news.ycombinator.com/item?id=49050859 Points: 213 # Comments: 212",
+      "summary": "Article URL: https://www.debian.org/vote/2026/vote_002 Comments URL: https://news.ycombinator.com/item?id=49050859 Points: 215 # Comments: 212",
       "source": "Hacker News",
       "published": "2026-07-25T19:44:39+00:00",
       "link": "https://www.debian.org/vote/2026/vote_002"
     },
     {
       "title": "Running a 28.9M parameter LLM on an $8 microcontroller",
-      "summary": "Article URL: https://github.com/slvDev/esp32-ai Comments URL: https://news.ycombinator.com/item?id=49050512 Points: 282 # Comments: 71",
+      "summary": "Article URL: https://github.com/slvDev/esp32-ai Comments URL: https://news.ycombinator.com/item?id=49050512 Points: 283 # Comments: 71",
       "source": "Hacker News",
       "published": "2026-07-25T18:59:50+00:00",
       "link": "https://github.com/slvDev/esp32-ai"
@@ -521,7 +549,7 @@ const FEED_DATA = {
     },
     {
       "title": "Open-weight AI is having its Kubernetes moment",
-      "summary": "Article URL: https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment/ Comments URL: https://news.ycombinator.com/item?id=49048034 Points: 410 # Comments: 320",
+      "summary": "Article URL: https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment/ Comments URL: https://news.ycombinator.com/item?id=49048034 Points: 411 # Comments: 321",
       "source": "Hacker News",
       "published": "2026-07-25T14:49:49+00:00",
       "link": "https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment/"
@@ -1372,34 +1400,6 @@ const FEED_DATA = {
       "source": "The Verge",
       "published": "2026-07-22T10:12:13+00:00",
       "link": "https://www.theverge.com/ai-artificial-intelligence/969137/us-utility-ai-electricty-data-center-rate-pledge-trump"
-    },
-    {
-      "title": "Glow emerges from stealth at $1.2B valuation to challenge endpoint security in the AI era",
-      "summary": "Glow is targeting a new class of endpoint risks created by the rapid adoption of AI agents and developer tools inside enterprises.",
-      "source": "TechCrunch",
-      "published": "2026-07-22T10:00:00+00:00",
-      "link": "https://techcrunch.com/2026/07/22/glow-emerges-from-stealth-at-1-2b-valuation-to-challenge-endpoint-security-in-the-ai-era/"
-    },
-    {
-      "title": "OpenAI claims responsibility for the Hugging Face hack after its own models escaped a test sandbox",
-      "summary": "During an internal security evaluation, OpenAI models, including GPT-5.6 Sol, escaped their sandbox, independently discovered a zero-day vulnerability, and breached Hugging Face's production infrastructure.",
-      "source": "The Decoder",
-      "published": "2026-07-22T08:41:30+00:00",
-      "link": "https://the-decoder.com/openai-claims-responsibility-for-the-hugging-face-hack-after-its-own-models-escaped-a-test-sandbox/"
-    },
-    {
-      "title": "Synthesia’s AI training platform is moving beyond videos into live coaching",
-      "summary": "Synthesia launched AI Roleplay Sessions, an interactive enterprise training platform where employees practice workplace conversations with AI avatars that provide feedback, scoring, and analytics to help companies measure training effectiveness.",
-      "source": "TechCrunch",
-      "published": "2026-07-22T08:00:00+00:00",
-      "link": "https://techcrunch.com/2026/07/22/synthesias-ai-training-platform-is-moving-beyond-videos-into-live-coaching/"
-    },
-    {
-      "title": "The Anthropic-Physical Intelligence rumor roiling AI Twitter",
-      "summary": "Anthropic and OpenAI's aggressive 2026 acquisition sprees set the stage for a weekend rumor.",
-      "source": "TechCrunch",
-      "published": "2026-07-22T03:20:57+00:00",
-      "link": "https://techcrunch.com/2026/07/21/the-anthropic-physical-intelligence-rumor-roiling-ai-twitter/"
     }
   ]
 };
