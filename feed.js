@@ -1,6 +1,13 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-07-27T21:58:06.872035+00:00",
+  "lastUpdated": "2026-07-28T04:06:42.891446+00:00",
   "items": [
+    {
+      "title": "Anthropic’s Dario Amodei responds: doesn’t oppose open-weight models, but fears Chinese AI",
+      "summary": "Anthropic founder and CEO Dario Amodei made his views clear about open-weight models and China's growing AI capabilities.",
+      "source": "TechCrunch",
+      "published": "2026-07-28T00:13:33+00:00",
+      "link": "https://techcrunch.com/2026/07/27/anthropics-dario-amodei-responds-doesnt-oppose-open-weight-models-but-fears-chinese-ai/"
+    },
     {
       "title": "Microsoft unveils AI security tools it says outperform competing platforms",
       "summary": "Microsoft says tools cost less than competing ones and outperform them, too.",
@@ -31,7 +38,7 @@ const FEED_DATA = {
     },
     {
       "title": "Professor's invisible prompt trap catches 32/35 students cheating with AI",
-      "summary": "Article URL: https://www.techspot.com/news/113243-professor-invisible-prompt-trap-catches-32-students-cheating.html Comments URL: https://news.ycombinator.com/item?id=49074680 Points: 69 # Comments: 64",
+      "summary": "Article URL: https://www.techspot.com/news/113243-professor-invisible-prompt-trap-catches-32-students-cheating.html Comments URL: https://news.ycombinator.com/item?id=49074680 Points: 92 # Comments: 80",
       "source": "Hacker News",
       "published": "2026-07-27T19:46:05+00:00",
       "link": "https://www.techspot.com/news/113243-professor-invisible-prompt-trap-catches-32-students-cheating.html"
@@ -101,7 +108,7 @@ const FEED_DATA = {
     },
     {
       "title": "Nvidia's $750B in Deals Reignite Circular AI Fears",
-      "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-07-27/nvidia-s-750-billion-deals-revive-fear-of-ai-circular-financing Comments URL: https://news.ycombinator.com/item?id=49071512 Points: 75 # Comments: 70",
+      "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-07-27/nvidia-s-750-billion-deals-revive-fear-of-ai-circular-financing Comments URL: https://news.ycombinator.com/item?id=49071512 Points: 80 # Comments: 73",
       "source": "Hacker News",
       "published": "2026-07-27T16:02:00+00:00",
       "link": "https://www.bloomberg.com/news/articles/2026-07-27/nvidia-s-750-billion-deals-revive-fear-of-ai-circular-financing"
@@ -129,14 +136,14 @@ const FEED_DATA = {
     },
     {
       "title": "Apple Will 'Watch Everything Burn' When the AI Bubble Bursts",
-      "summary": "Article URL: https://www.macrumors.com/2026/07/27/ed-zitron-apple-watch-it-burn-ai-bubble-bursts/ Comments URL: https://news.ycombinator.com/item?id=49070427 Points: 229 # Comments: 288",
+      "summary": "Article URL: https://www.macrumors.com/2026/07/27/ed-zitron-apple-watch-it-burn-ai-bubble-bursts/ Comments URL: https://news.ycombinator.com/item?id=49070427 Points: 236 # Comments: 312",
       "source": "Hacker News",
       "published": "2026-07-27T14:42:41+00:00",
       "link": "https://www.macrumors.com/2026/07/27/ed-zitron-apple-watch-it-burn-ai-bubble-bursts/"
     },
     {
       "title": "AI companies spend record sums on Washington lobbying",
-      "summary": "https://archive.ph/PASMJ Comments URL: https://news.ycombinator.com/item?id=49069939 Points: 246 # Comments: 138",
+      "summary": "https://archive.ph/PASMJ Comments URL: https://news.ycombinator.com/item?id=49069939 Points: 259 # Comments: 139",
       "source": "Hacker News",
       "published": "2026-07-27T14:07:48+00:00",
       "link": "https://www.ft.com/content/d8a5f95e-3b6d-463a-a848-c9ef8e2394db"
@@ -157,7 +164,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI companies are shredding rare books",
-      "summary": "https://xcancel.com/HedgieMarkets/status/2081534588485296565 Comments URL: https://news.ycombinator.com/item?id=49068738 Points: 714 # Comments: 450",
+      "summary": "https://xcancel.com/HedgieMarkets/status/2081534588485296565 Comments URL: https://news.ycombinator.com/item?id=49068738 Points: 745 # Comments: 474",
       "source": "Hacker News",
       "published": "2026-07-27T12:32:12+00:00",
       "link": "https://twitter.com/HedgieMarkets/status/2081534588485296565"
@@ -269,14 +276,14 @@ const FEED_DATA = {
     },
     {
       "title": "The New AI Superpowers: Focus and Followthrough",
-      "summary": "Article URL: https://www.rickmanelius.com/p/the-new-ai-superpowers-focus-and Comments URL: https://news.ycombinator.com/item?id=49057877 Points: 209 # Comments: 79",
+      "summary": "Article URL: https://www.rickmanelius.com/p/the-new-ai-superpowers-focus-and Comments URL: https://news.ycombinator.com/item?id=49057877 Points: 214 # Comments: 79",
       "source": "Hacker News",
       "published": "2026-07-26T13:13:03+00:00",
       "link": "https://www.rickmanelius.com/p/the-new-ai-superpowers-focus-and"
     },
     {
       "title": "Terence Tao: Mathematics in the Age of AI [pdf]",
-      "summary": "Article URL: https://teorth.github.io/tao-web/slides/age-of-ai-icm-2026.pdf Comments URL: https://news.ycombinator.com/item?id=49056620 Points: 153 # Comments: 60",
+      "summary": "Article URL: https://teorth.github.io/tao-web/slides/age-of-ai-icm-2026.pdf Comments URL: https://news.ycombinator.com/item?id=49056620 Points: 158 # Comments: 62",
       "source": "Hacker News",
       "published": "2026-07-26T10:32:35+00:00",
       "link": "https://teorth.github.io/tao-web/slides/age-of-ai-icm-2026.pdf"
@@ -318,21 +325,21 @@ const FEED_DATA = {
     },
     {
       "title": "What is happening to jobs? Separating AI hype from reality",
-      "summary": "Article URL: https://siepr.stanford.edu/publications/policy-brief/what-really-happening-jobs-separating-ai-hype-reality Comments URL: https://news.ycombinator.com/item?id=49052570 Points: 287 # Comments: 377",
+      "summary": "Article URL: https://siepr.stanford.edu/publications/policy-brief/what-really-happening-jobs-separating-ai-hype-reality Comments URL: https://news.ycombinator.com/item?id=49052570 Points: 291 # Comments: 377",
       "source": "Hacker News",
       "published": "2026-07-25T22:51:10+00:00",
       "link": "https://siepr.stanford.edu/publications/policy-brief/what-really-happening-jobs-separating-ai-hype-reality"
     },
     {
       "title": "Cloudflare's new AI traffic options for customers",
-      "summary": "Article URL: https://blog.cloudflare.com/content-independence-day-ai-options/ Comments URL: https://news.ycombinator.com/item?id=49052564 Points: 193 # Comments: 153",
+      "summary": "Article URL: https://blog.cloudflare.com/content-independence-day-ai-options/ Comments URL: https://news.ycombinator.com/item?id=49052564 Points: 193 # Comments: 156",
       "source": "Hacker News",
       "published": "2026-07-25T22:50:49+00:00",
       "link": "https://blog.cloudflare.com/content-independence-day-ai-options/"
     },
     {
       "title": "Becoming a Research Engineer at a Big LLM Lab",
-      "summary": "Article URL: https://www.maxmynter.com/pages/blog/jobhunt Comments URL: https://news.ycombinator.com/item?id=49051707 Points: 50 # Comments: 21",
+      "summary": "Article URL: https://www.maxmynter.com/pages/blog/jobhunt Comments URL: https://news.ycombinator.com/item?id=49051707 Points: 53 # Comments: 21",
       "source": "Hacker News",
       "published": "2026-07-25T21:19:42+00:00",
       "link": "https://www.maxmynter.com/pages/blog/jobhunt"
@@ -346,14 +353,14 @@ const FEED_DATA = {
     },
     {
       "title": "LLM Usage in Debian: Three Proposals",
-      "summary": "Article URL: https://www.debian.org/vote/2026/vote_002 Comments URL: https://news.ycombinator.com/item?id=49050859 Points: 211 # Comments: 212",
+      "summary": "Article URL: https://www.debian.org/vote/2026/vote_002 Comments URL: https://news.ycombinator.com/item?id=49050859 Points: 212 # Comments: 212",
       "source": "Hacker News",
       "published": "2026-07-25T19:44:39+00:00",
       "link": "https://www.debian.org/vote/2026/vote_002"
     },
     {
       "title": "Running a 28.9M parameter LLM on an $8 microcontroller",
-      "summary": "Article URL: https://github.com/slvDev/esp32-ai Comments URL: https://news.ycombinator.com/item?id=49050512 Points: 280 # Comments: 70",
+      "summary": "Article URL: https://github.com/slvDev/esp32-ai Comments URL: https://news.ycombinator.com/item?id=49050512 Points: 282 # Comments: 70",
       "source": "Hacker News",
       "published": "2026-07-25T18:59:50+00:00",
       "link": "https://github.com/slvDev/esp32-ai"
@@ -374,7 +381,7 @@ const FEED_DATA = {
     },
     {
       "title": "Open-weight AI is having its Kubernetes moment",
-      "summary": "Article URL: https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment/ Comments URL: https://news.ycombinator.com/item?id=49048034 Points: 409 # Comments: 318",
+      "summary": "Article URL: https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment/ Comments URL: https://news.ycombinator.com/item?id=49048034 Points: 410 # Comments: 318",
       "source": "Hacker News",
       "published": "2026-07-25T14:49:49+00:00",
       "link": "https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment/"
@@ -402,7 +409,7 @@ const FEED_DATA = {
     },
     {
       "title": "The AI Productivity Illusion",
-      "summary": "Article URL: https://www.hardresetmedia.com/p/the-ai-productivity-illusion Comments URL: https://news.ycombinator.com/item?id=49047526 Points: 69 # Comments: 26",
+      "summary": "Article URL: https://www.hardresetmedia.com/p/the-ai-productivity-illusion Comments URL: https://news.ycombinator.com/item?id=49047526 Points: 70 # Comments: 26",
       "source": "Hacker News",
       "published": "2026-07-25T13:43:33+00:00",
       "link": "https://www.hardresetmedia.com/p/the-ai-productivity-illusion"
@@ -520,13 +527,6 @@ const FEED_DATA = {
       "link": "https://www.technologyreview.com/2026/07/24/1140790/the-quest-to-keep-organs-alive-outside-the-body/"
     },
     {
-      "title": "Anthropic launches Opus 5",
-      "summary": "Opus 5 will be both cheaper and less restrictive than Fable, likely making it preferable in most use cases.",
-      "source": "TechCrunch",
-      "published": "2026-07-24T17:00:00+00:00",
-      "link": "https://techcrunch.com/2026/07/24/anthropic-launches-opus-5/"
-    },
-    {
       "title": "Anthropic releases Opus 5 with ‘close’ to Fable 5’s capabilities",
       "summary": "Weeks after Anthropic's latest toe-to-toe with the US government, and days after an OpenAI security incident that dominated tech industry discussions, Anthropic on Thursday released its newest model, Claude Opus 5.",
       "source": "The Verge",
@@ -539,6 +539,13 @@ const FEED_DATA = {
       "source": "The Verge",
       "published": "2026-07-24T17:00:00+00:00",
       "link": "https://www.theverge.com/tech/970570/meta-ai-chatbot-productivity-update"
+    },
+    {
+      "title": "Anthropic launches Opus 5",
+      "summary": "Opus 5 will be both cheaper and less restrictive than Fable, likely making it preferable in most use cases.",
+      "source": "TechCrunch",
+      "published": "2026-07-24T17:00:00+00:00",
+      "link": "https://techcrunch.com/2026/07/24/anthropic-launches-opus-5/"
     },
     {
       "title": "Meta, Microsoft, Nvidia, IBM, and others back open-weight AI",
@@ -1393,13 +1400,6 @@ const FEED_DATA = {
       "source": "The Verge",
       "published": "2026-07-21T16:53:37+00:00",
       "link": "https://www.theverge.com/ai-artificial-intelligence/968724/anthropic-authors-settlement-ai-copyright-approved"
-    },
-    {
-      "title": "Google ships three new Gemini Flash models but its frontier 3.5 Pro remains lost in training",
-      "summary": "Google is shipping three new Flash models in the Gemini series, including the more efficient 3.6 Flash, which uses up to 65 percent fewer tokens, and a cybersecurity model available only to governments and select partners.",
-      "source": "The Decoder",
-      "published": "2026-07-21T16:52:51+00:00",
-      "link": "https://the-decoder.com/google-ships-three-new-gemini-flash-models-but-its-frontier-3-5-pro-remains-lost-in-training/"
     }
   ]
 };
