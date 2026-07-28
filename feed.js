@@ -1,6 +1,76 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-07-28T11:06:51.405460+00:00",
+  "lastUpdated": "2026-07-28T15:22:34.318509+00:00",
   "items": [
+    {
+      "title": "Fish Audio raises $52M seed to build AI voice models for creators and enterprises",
+      "summary": "Since launching last year, the startup today has more than 8 million people using the open-source or hosted version of its models, and now generates annual recurring revenue of $21 million.",
+      "source": "TechCrunch",
+      "published": "2026-07-28T14:00:00+00:00",
+      "link": "https://techcrunch.com/2026/07/28/fish-audio-raises-50m-seed-to-build-ai-voice-models-for-creators-and-enterprises/"
+    },
+    {
+      "title": "Recursive Superintelligence signs $410 compute deal with Amazon",
+      "summary": "Recursive’s $400 million outlay represents the bulk of the company’s fundraising to date.",
+      "source": "TechCrunch",
+      "published": "2026-07-28T13:19:17+00:00",
+      "link": "https://techcrunch.com/2026/07/28/recursive-superintelligence-signs-400-compute-deal-with-amazon/"
+    },
+    {
+      "title": "Taiwan detains Nvidia employee in widening China chip smuggling probe",
+      "summary": "Taiwan's prosecutors have detained an Nvidia employee in connection with the alleged illegal export of Super Micro AI servers to China, according to Bloomberg and Reuters.",
+      "source": "The Decoder",
+      "published": "2026-07-28T13:15:43+00:00",
+      "link": "https://the-decoder.com/taiwan-detains-nvidia-employee-in-widening-china-chip-smuggling-probe/"
+    },
+    {
+      "title": "Show HN: Formally verified 3D CSG: Trust 93 lines spec, not 1000 lines AI code",
+      "summary": "To my knowledge, this is the first formally verified implementation of a 3D constructive solid geometry (CSG) operation: mesh intersection, implemented in Lean 4 and verified against a concise specification that pins down the surface of the resulting mesh exactly and guarantees...",
+      "source": "Hacker News",
+      "published": "2026-07-28T13:07:14+00:00",
+      "link": "https://github.com/schildep/verified-3d-mesh-intersection"
+    },
+    {
+      "title": "Nvidia invests in Ilya Sutskever's AI lab, shifting SSI away from Google chips",
+      "summary": "Nvidia is pouring what it calls a \"substantial\" sum into Safe Superintelligence (SSI), the AI lab run by Ilya Sutskever, OpenAI's former chief scientist. The article Nvidia invests in Ilya Sutskever's AI lab, shifting SSI away from Google chips appeared first on The Decoder.",
+      "source": "The Decoder",
+      "published": "2026-07-28T13:06:35+00:00",
+      "link": "https://the-decoder.com/nvidia-invests-in-ilya-sutskevers-ai-lab-shifting-ssi-away-from-google-chips/"
+    },
+    {
+      "title": "Perplexity’s Personal Computer turns Windows PCs into AI agents",
+      "summary": "Perplexity has expanded its agentic Personal Computer tool to Windows, allowing computers running the world's most popular OS to be used as a locally run AI system.",
+      "source": "The Verge",
+      "published": "2026-07-28T12:30:00+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/971750/perplexity-personal-computer-windows-ai-agents"
+    },
+    {
+      "title": "The Download: OpenAI’s predictable hack, and an AI stock sell-off",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. OpenAI called the Hugging Face attack unprecedented.",
+      "source": "MIT Tech Review",
+      "published": "2026-07-28T12:10:00+00:00",
+      "link": "https://www.technologyreview.com/2026/07/28/1140868/the-download-openai-hack-ai-stock-sell-off/"
+    },
+    {
+      "title": "Anthropic CEO Amodei doubles down on open-weight risk stance while insisting he never called for a ban",
+      "summary": "Anthropic CEO Dario Amodei is once again warning about the risks of open AI models while insisting he has never called for a ban. He argues that authoritarian states like China could overtake the US and that open models could be misused for biological or cyberattacks.",
+      "source": "The Decoder",
+      "published": "2026-07-28T12:06:42+00:00",
+      "link": "https://the-decoder.com/anthropic-ceo-amodei-doubles-down-on-open-weight-risk-stance-while-insisting-he-never-called-for-a-ban/"
+    },
+    {
+      "title": "Smart rings are looking like my kind of AI gadget",
+      "summary": "Over the last few months, I've spent a lot of time talking to my computer.",
+      "source": "The Verge",
+      "published": "2026-07-28T12:00:00+00:00",
+      "link": "https://www.theverge.com/gadgets/971744/smart-ring-ai-gadget-stream-index"
+    },
+    {
+      "title": "Guardoc Health processes clinical documentation using Amazon Nova models",
+      "summary": "Guardoc Health says it processes over one million clinical documents daily using Amazon Nova models through Bedrock. Bringing AI into clinical documentation comes down to a specific kind of risk calculation.",
+      "source": "AI News",
+      "published": "2026-07-28T11:30:47+00:00",
+      "link": "https://www.artificialintelligence-news.com/news/guardoc-health-processes-clinical-documentation-using-amazon-nova-models/"
+    },
     {
       "title": "Can the New York Times Save Journalism From Our AI Overlords?",
       "summary": "In 2023, the Times sued OpenAI and Microsoft for copyright infringement. They’ve since spent more than $20 million on the case, and publisher A.G.",
@@ -14,6 +84,13 @@ const FEED_DATA = {
       "source": "Wired",
       "published": "2026-07-28T10:00:00+00:00",
       "link": "https://www.wired.com/story/nonprofits-are-getting-ready-for-the-funding-anthropalypse/"
+    },
+    {
+      "title": "Google's Beyond Zero: Enterprise Security for the AI Era",
+      "summary": "Article URL: https://spawn-queue.acm.org/doi/10.1145/3819083 Comments URL: https://news.ycombinator.com/item?id=49081644 Points: 80 # Comments: 50",
+      "source": "Hacker News",
+      "published": "2026-07-28T09:59:13+00:00",
+      "link": "https://spawn-queue.acm.org/doi/10.1145/3819083"
     },
     {
       "title": "Hugging Face is being used to easily undress women and children",
@@ -42,6 +119,13 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-07-28T00:13:33+00:00",
       "link": "https://techcrunch.com/2026/07/27/anthropics-dario-amodei-responds-doesnt-oppose-open-weight-models-but-fears-chinese-ai/"
+    },
+    {
+      "title": "Don't ask an LLM for a confidence score",
+      "summary": "Article URL: https://justinflick.com/2026/07/27/llm-confidence-scores.html Comments URL: https://news.ycombinator.com/item?id=49077443 Points: 72 # Comments: 24",
+      "source": "Hacker News",
+      "published": "2026-07-28T00:06:53+00:00",
+      "link": "https://justinflick.com/2026/07/27/llm-confidence-scores.html"
     },
     {
       "title": "Microsoft unveils AI security tools it says outperform competing platforms",
@@ -73,7 +157,7 @@ const FEED_DATA = {
     },
     {
       "title": "Professor's invisible prompt trap catches 32/35 students cheating with AI",
-      "summary": "Article URL: https://www.techspot.com/news/113243-professor-invisible-prompt-trap-catches-32-students-cheating.html Comments URL: https://news.ycombinator.com/item?id=49074680 Points: 99 # Comments: 83",
+      "summary": "Article URL: https://www.techspot.com/news/113243-professor-invisible-prompt-trap-catches-32-students-cheating.html Comments URL: https://news.ycombinator.com/item?id=49074680 Points: 103 # Comments: 86",
       "source": "Hacker News",
       "published": "2026-07-27T19:46:05+00:00",
       "link": "https://www.techspot.com/news/113243-professor-invisible-prompt-trap-catches-32-students-cheating.html"
@@ -143,7 +227,7 @@ const FEED_DATA = {
     },
     {
       "title": "Nvidia's $750B in Deals Reignite Circular AI Fears",
-      "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-07-27/nvidia-s-750-billion-deals-revive-fear-of-ai-circular-financing Comments URL: https://news.ycombinator.com/item?id=49071512 Points: 81 # Comments: 75",
+      "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-07-27/nvidia-s-750-billion-deals-revive-fear-of-ai-circular-financing Comments URL: https://news.ycombinator.com/item?id=49071512 Points: 81 # Comments: 76",
       "source": "Hacker News",
       "published": "2026-07-27T16:02:00+00:00",
       "link": "https://www.bloomberg.com/news/articles/2026-07-27/nvidia-s-750-billion-deals-revive-fear-of-ai-circular-financing"
@@ -171,14 +255,14 @@ const FEED_DATA = {
     },
     {
       "title": "Apple Will 'Watch Everything Burn' When the AI Bubble Bursts",
-      "summary": "Article URL: https://www.macrumors.com/2026/07/27/ed-zitron-apple-watch-it-burn-ai-bubble-bursts/ Comments URL: https://news.ycombinator.com/item?id=49070427 Points: 241 # Comments: 320",
+      "summary": "Article URL: https://www.macrumors.com/2026/07/27/ed-zitron-apple-watch-it-burn-ai-bubble-bursts/ Comments URL: https://news.ycombinator.com/item?id=49070427 Points: 243 # Comments: 335",
       "source": "Hacker News",
       "published": "2026-07-27T14:42:41+00:00",
       "link": "https://www.macrumors.com/2026/07/27/ed-zitron-apple-watch-it-burn-ai-bubble-bursts/"
     },
     {
       "title": "AI companies spend record sums on Washington lobbying",
-      "summary": "https://archive.ph/PASMJ Comments URL: https://news.ycombinator.com/item?id=49069939 Points: 268 # Comments: 142",
+      "summary": "https://archive.ph/PASMJ Comments URL: https://news.ycombinator.com/item?id=49069939 Points: 271 # Comments: 143",
       "source": "Hacker News",
       "published": "2026-07-27T14:07:48+00:00",
       "link": "https://www.ft.com/content/d8a5f95e-3b6d-463a-a848-c9ef8e2394db"
@@ -199,7 +283,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI companies are shredding rare books",
-      "summary": "https://xcancel.com/HedgieMarkets/status/2081534588485296565 Comments URL: https://news.ycombinator.com/item?id=49068738 Points: 769 # Comments: 489",
+      "summary": "https://xcancel.com/HedgieMarkets/status/2081534588485296565 Comments URL: https://news.ycombinator.com/item?id=49068738 Points: 772 # Comments: 493",
       "source": "Hacker News",
       "published": "2026-07-27T12:32:12+00:00",
       "link": "https://twitter.com/HedgieMarkets/status/2081534588485296565"
@@ -318,7 +402,7 @@ const FEED_DATA = {
     },
     {
       "title": "Terence Tao: Mathematics in the Age of AI [pdf]",
-      "summary": "Article URL: https://teorth.github.io/tao-web/slides/age-of-ai-icm-2026.pdf Comments URL: https://news.ycombinator.com/item?id=49056620 Points: 159 # Comments: 63",
+      "summary": "Article URL: https://teorth.github.io/tao-web/slides/age-of-ai-icm-2026.pdf Comments URL: https://news.ycombinator.com/item?id=49056620 Points: 162 # Comments: 64",
       "source": "Hacker News",
       "published": "2026-07-26T10:32:35+00:00",
       "link": "https://teorth.github.io/tao-web/slides/age-of-ai-icm-2026.pdf"
@@ -360,7 +444,7 @@ const FEED_DATA = {
     },
     {
       "title": "What is happening to jobs? Separating AI hype from reality",
-      "summary": "Article URL: https://siepr.stanford.edu/publications/policy-brief/what-really-happening-jobs-separating-ai-hype-reality Comments URL: https://news.ycombinator.com/item?id=49052570 Points: 297 # Comments: 376",
+      "summary": "Article URL: https://siepr.stanford.edu/publications/policy-brief/what-really-happening-jobs-separating-ai-hype-reality Comments URL: https://news.ycombinator.com/item?id=49052570 Points: 298 # Comments: 379",
       "source": "Hacker News",
       "published": "2026-07-25T22:51:10+00:00",
       "link": "https://siepr.stanford.edu/publications/policy-brief/what-really-happening-jobs-separating-ai-hype-reality"
@@ -430,7 +514,7 @@ const FEED_DATA = {
     },
     {
       "title": "The AI jobs apocalypse probably isn't coming anytime soon",
-      "summary": "Article URL: https://www.theguardian.com/technology/2026/jul/25/ai-jobs-apocalypse-human-labor Comments URL: https://news.ycombinator.com/item?id=49047969 Points: 54 # Comments: 90",
+      "summary": "Article URL: https://www.theguardian.com/technology/2026/jul/25/ai-jobs-apocalypse-human-labor Comments URL: https://news.ycombinator.com/item?id=49047969 Points: 54 # Comments: 91",
       "source": "Hacker News",
       "published": "2026-07-25T14:41:06+00:00",
       "link": "https://www.theguardian.com/technology/2026/jul/25/ai-jobs-apocalypse-human-labor"
@@ -1316,90 +1400,6 @@ const FEED_DATA = {
       "source": "The Verge",
       "published": "2026-07-21T22:06:43+00:00",
       "link": "https://www.theverge.com/entertainment/968703/neill-blomkamps-nightborne-barley-studios-seedance"
-    },
-    {
-      "title": "OpenAI says it accidentally hacked Hugging Face with a new AI system",
-      "summary": "OpenAI says its AI models mistakenly breached open-source AI platform Hugging Face during internal testing.",
-      "source": "The Verge",
-      "published": "2026-07-21T21:48:54+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/968988/openai-hugging-face-hack-ai"
-    },
-    {
-      "title": "\"Drawing\" the Mona Lisa with GPT-5.6, Claude, Gemini, and Grok",
-      "summary": "Article URL: https://www.tryai.dev/blog/ai-drawing-arena-colored-pencils-claude-gpt-grok Comments URL: https://news.ycombinator.com/item?id=48998404 Points: 249 # Comments: 103",
-      "source": "Hacker News",
-      "published": "2026-07-21T21:13:20+00:00",
-      "link": "https://www.tryai.dev/blog/ai-drawing-arena-colored-pencils-claude-gpt-grok"
-    },
-    {
-      "title": "OpenAI says Hugging Face was breached by its pre-release models",
-      "summary": "OpenAI has come forward to claim responsibility for the Hugging Face breach, saying it was the result of internal testing gone awry.",
-      "source": "TechCrunch",
-      "published": "2026-07-21T20:56:55+00:00",
-      "link": "https://techcrunch.com/2026/07/21/openai-says-hugging-face-was-breached-by-its-pre-release-models/"
-    },
-    {
-      "title": "OpenAI says Hugging Face was breached by its own pre-release models",
-      "summary": "OpenAI has come forward to claim responsibility for the Hugging Face breach, saying it was the result of internal testing gone awry.",
-      "source": "TechCrunch",
-      "published": "2026-07-21T20:56:55+00:00",
-      "link": "https://techcrunch.com/2026/07/21/openai-says-hugging-face-was-breached-by-its-own-pre-release-models/"
-    },
-    {
-      "title": "Jack Dorsey is taking on Slack with Buzz, a group chat platform for teams and their AI agents",
-      "summary": "Buzz is a group chat platform for the workplace that puts humans and their AI agents in the same conversation.",
-      "source": "TechCrunch",
-      "published": "2026-07-21T19:43:41+00:00",
-      "link": "https://techcrunch.com/2026/07/21/jack-dorsey-is-taking-on-slack-with-buzz-a-group-chat-platform-for-teams-and-their-ai-agents/"
-    },
-    {
-      "title": "AI and the rise of the universal entertainment app",
-      "summary": "Over the past decade, streaming platforms competed by dominating individual formats like music, video, podcasts, or audiobooks.",
-      "source": "TechCrunch",
-      "published": "2026-07-21T19:39:30+00:00",
-      "link": "https://techcrunch.com/2026/07/21/ai-and-the-rise-of-the-universal-entertainment-app/"
-    },
-    {
-      "title": "Substack adds an AI detector to help spot blogs written by no one",
-      "summary": "Substack will now help users determine whether what they're reading may have been written by AI.",
-      "source": "The Verge",
-      "published": "2026-07-21T19:22:28+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/968855/substack-pangram-ai-detecting-tool"
-    },
-    {
-      "title": "An AI system helped Pakistani judges clear massive backlogs at $38.50 return per dollar invested",
-      "summary": "A field experiment with 1,559 Pakistani judges found that the AI assistant JudgeGPT boosted case resolution by 6.3 percent. The catch: only judges who got hands-on training saw gains.",
-      "source": "The Decoder",
-      "published": "2026-07-21T19:12:20+00:00",
-      "link": "https://the-decoder.com/an-ai-system-helped-pakistani-judges-clear-massive-backlogs-at-38-50-return-per-dollar-invested/"
-    },
-    {
-      "title": "Five tech giants are hiding $1.6T in AI debt, using the trick that toppled Enron",
-      "summary": "Article URL: https://thenextweb.com/news/tech-giants-hidden-off-balance-sheet-debt-ai Comments URL: https://news.ycombinator.com/item?id=48996760 Points: 102 # Comments: 19",
-      "source": "Hacker News",
-      "published": "2026-07-21T19:11:27+00:00",
-      "link": "https://thenextweb.com/news/tech-giants-hidden-off-balance-sheet-debt-ai"
-    },
-    {
-      "title": "This Former Intel CEO Wants to Jumpstart Moore’s Law With Light",
-      "summary": "Pat Gelsinger wants to pave the way to ever more powerful artificial intelligence using tiny beams of light.",
-      "source": "Wired",
-      "published": "2026-07-21T19:05:00+00:00",
-      "link": "https://www.wired.com/story/pat-gelsinger-moores-law-light-chips/"
-    },
-    {
-      "title": "AI Agent – TRMNL",
-      "summary": "Article URL: https://help.trmnl.com/en/articles/14130438-ai-agent Comments URL: https://news.ycombinator.com/item?id=48996236 Points: 51 # Comments: 29",
-      "source": "Hacker News",
-      "published": "2026-07-21T18:32:21+00:00",
-      "link": "https://help.trmnl.com/en/articles/14130438-ai-agent"
-    },
-    {
-      "title": "AI makes programming differently difficult",
-      "summary": "Article URL: https://cacm.acm.org/opinion/ai-didnt-make-programming-easier-it-just-made-it-differently-difficult/ Comments URL: https://news.ycombinator.com/item?id=48996197 Points: 163 # Comments: 141",
-      "source": "Hacker News",
-      "published": "2026-07-21T18:30:21+00:00",
-      "link": "https://cacm.acm.org/opinion/ai-didnt-make-programming-easier-it-just-made-it-differently-difficult/"
     }
   ]
 };
