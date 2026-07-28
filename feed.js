@@ -1,6 +1,34 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-07-28T07:40:41.025934+00:00",
+  "lastUpdated": "2026-07-28T11:06:51.405460+00:00",
   "items": [
+    {
+      "title": "Can the New York Times Save Journalism From Our AI Overlords?",
+      "summary": "In 2023, the Times sued OpenAI and Microsoft for copyright infringement. They’ve since spent more than $20 million on the case, and publisher A.G.",
+      "source": "Wired",
+      "published": "2026-07-28T10:30:00+00:00",
+      "link": "https://www.wired.com/story/the-big-interview-podcast-a-g-sulzberger-new-york-times/"
+    },
+    {
+      "title": "Silicon Valley’s Next IPO Billionaires Are Coming. Nonprofits Are Ready for Them",
+      "summary": "Anthropic and OpenAI employees are expected to give generously after their companies go public. “It’s going to be a wild ride,” says one nonprofit leader.",
+      "source": "Wired",
+      "published": "2026-07-28T10:00:00+00:00",
+      "link": "https://www.wired.com/story/nonprofits-are-getting-ready-for-the-funding-anthropalypse/"
+    },
+    {
+      "title": "Hugging Face is being used to easily undress women and children",
+      "summary": "Hugging Face is being used to make nonconsensual deepfakes, and the popular open-source AI model repository is doing very little to prevent it.",
+      "source": "The Verge",
+      "published": "2026-07-28T09:07:14+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/971723/hugging-face-nudify-deepfake-undress-women-children"
+    },
+    {
+      "title": "Armenia’s AI Bet Is Not Chip Manufacturing. It Is Compute Sovereignty",
+      "summary": "Armenia is not a big country. It’s not a wealthy country.",
+      "source": "AI News",
+      "published": "2026-07-28T08:52:46+00:00",
+      "link": "https://www.artificialintelligence-news.com/news/armenias-ai-bet-is-not-chip-manufacturing-it-is-compute-sovereignty/"
+    },
     {
       "title": "Hugging Face Has a Deepfake Nudes Problem",
       "summary": "Researchers tested top image editing models on Hugging Face and found they could easily create explicit deepfakes—and 1,000 image editing prompts show how people use the software.",
@@ -45,7 +73,7 @@ const FEED_DATA = {
     },
     {
       "title": "Professor's invisible prompt trap catches 32/35 students cheating with AI",
-      "summary": "Article URL: https://www.techspot.com/news/113243-professor-invisible-prompt-trap-catches-32-students-cheating.html Comments URL: https://news.ycombinator.com/item?id=49074680 Points: 97 # Comments: 82",
+      "summary": "Article URL: https://www.techspot.com/news/113243-professor-invisible-prompt-trap-catches-32-students-cheating.html Comments URL: https://news.ycombinator.com/item?id=49074680 Points: 99 # Comments: 83",
       "source": "Hacker News",
       "published": "2026-07-27T19:46:05+00:00",
       "link": "https://www.techspot.com/news/113243-professor-invisible-prompt-trap-catches-32-students-cheating.html"
@@ -115,7 +143,7 @@ const FEED_DATA = {
     },
     {
       "title": "Nvidia's $750B in Deals Reignite Circular AI Fears",
-      "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-07-27/nvidia-s-750-billion-deals-revive-fear-of-ai-circular-financing Comments URL: https://news.ycombinator.com/item?id=49071512 Points: 81 # Comments: 74",
+      "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-07-27/nvidia-s-750-billion-deals-revive-fear-of-ai-circular-financing Comments URL: https://news.ycombinator.com/item?id=49071512 Points: 81 # Comments: 75",
       "source": "Hacker News",
       "published": "2026-07-27T16:02:00+00:00",
       "link": "https://www.bloomberg.com/news/articles/2026-07-27/nvidia-s-750-billion-deals-revive-fear-of-ai-circular-financing"
@@ -143,14 +171,14 @@ const FEED_DATA = {
     },
     {
       "title": "Apple Will 'Watch Everything Burn' When the AI Bubble Bursts",
-      "summary": "Article URL: https://www.macrumors.com/2026/07/27/ed-zitron-apple-watch-it-burn-ai-bubble-bursts/ Comments URL: https://news.ycombinator.com/item?id=49070427 Points: 239 # Comments: 317",
+      "summary": "Article URL: https://www.macrumors.com/2026/07/27/ed-zitron-apple-watch-it-burn-ai-bubble-bursts/ Comments URL: https://news.ycombinator.com/item?id=49070427 Points: 241 # Comments: 320",
       "source": "Hacker News",
       "published": "2026-07-27T14:42:41+00:00",
       "link": "https://www.macrumors.com/2026/07/27/ed-zitron-apple-watch-it-burn-ai-bubble-bursts/"
     },
     {
       "title": "AI companies spend record sums on Washington lobbying",
-      "summary": "https://archive.ph/PASMJ Comments URL: https://news.ycombinator.com/item?id=49069939 Points: 265 # Comments: 141",
+      "summary": "https://archive.ph/PASMJ Comments URL: https://news.ycombinator.com/item?id=49069939 Points: 268 # Comments: 142",
       "source": "Hacker News",
       "published": "2026-07-27T14:07:48+00:00",
       "link": "https://www.ft.com/content/d8a5f95e-3b6d-463a-a848-c9ef8e2394db"
@@ -171,7 +199,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI companies are shredding rare books",
-      "summary": "https://xcancel.com/HedgieMarkets/status/2081534588485296565 Comments URL: https://news.ycombinator.com/item?id=49068738 Points: 766 # Comments: 479",
+      "summary": "https://xcancel.com/HedgieMarkets/status/2081534588485296565 Comments URL: https://news.ycombinator.com/item?id=49068738 Points: 769 # Comments: 489",
       "source": "Hacker News",
       "published": "2026-07-27T12:32:12+00:00",
       "link": "https://twitter.com/HedgieMarkets/status/2081534588485296565"
@@ -290,7 +318,7 @@ const FEED_DATA = {
     },
     {
       "title": "Terence Tao: Mathematics in the Age of AI [pdf]",
-      "summary": "Article URL: https://teorth.github.io/tao-web/slides/age-of-ai-icm-2026.pdf Comments URL: https://news.ycombinator.com/item?id=49056620 Points: 159 # Comments: 62",
+      "summary": "Article URL: https://teorth.github.io/tao-web/slides/age-of-ai-icm-2026.pdf Comments URL: https://news.ycombinator.com/item?id=49056620 Points: 159 # Comments: 63",
       "source": "Hacker News",
       "published": "2026-07-26T10:32:35+00:00",
       "link": "https://teorth.github.io/tao-web/slides/age-of-ai-icm-2026.pdf"
@@ -332,14 +360,14 @@ const FEED_DATA = {
     },
     {
       "title": "What is happening to jobs? Separating AI hype from reality",
-      "summary": "Article URL: https://siepr.stanford.edu/publications/policy-brief/what-really-happening-jobs-separating-ai-hype-reality Comments URL: https://news.ycombinator.com/item?id=49052570 Points: 296 # Comments: 374",
+      "summary": "Article URL: https://siepr.stanford.edu/publications/policy-brief/what-really-happening-jobs-separating-ai-hype-reality Comments URL: https://news.ycombinator.com/item?id=49052570 Points: 297 # Comments: 376",
       "source": "Hacker News",
       "published": "2026-07-25T22:51:10+00:00",
       "link": "https://siepr.stanford.edu/publications/policy-brief/what-really-happening-jobs-separating-ai-hype-reality"
     },
     {
       "title": "Cloudflare's new AI traffic options for customers",
-      "summary": "Article URL: https://blog.cloudflare.com/content-independence-day-ai-options/ Comments URL: https://news.ycombinator.com/item?id=49052564 Points: 193 # Comments: 156",
+      "summary": "Article URL: https://blog.cloudflare.com/content-independence-day-ai-options/ Comments URL: https://news.ycombinator.com/item?id=49052564 Points: 193 # Comments: 157",
       "source": "Hacker News",
       "published": "2026-07-25T22:50:49+00:00",
       "link": "https://blog.cloudflare.com/content-independence-day-ai-options/"
@@ -416,7 +444,7 @@ const FEED_DATA = {
     },
     {
       "title": "The AI Productivity Illusion",
-      "summary": "Article URL: https://www.hardresetmedia.com/p/the-ai-productivity-illusion Comments URL: https://news.ycombinator.com/item?id=49047526 Points: 70 # Comments: 27",
+      "summary": "Article URL: https://www.hardresetmedia.com/p/the-ai-productivity-illusion Comments URL: https://news.ycombinator.com/item?id=49047526 Points: 71 # Comments: 27",
       "source": "Hacker News",
       "published": "2026-07-25T13:43:33+00:00",
       "link": "https://www.hardresetmedia.com/p/the-ai-productivity-illusion"
@@ -479,7 +507,7 @@ const FEED_DATA = {
     },
     {
       "title": "Opus 5 is currently #1 on Artificial Analysis Intelligence Leaderboard",
-      "summary": "Article URL: https://artificialanalysis.ai/models Comments URL: https://news.ycombinator.com/item?id=49040741 Points: 373 # Comments: 232",
+      "summary": "Article URL: https://artificialanalysis.ai/models Comments URL: https://news.ycombinator.com/item?id=49040741 Points: 373 # Comments: 235",
       "source": "Hacker News",
       "published": "2026-07-24T19:45:10+00:00",
       "link": "https://artificialanalysis.ai/models"
@@ -1372,34 +1400,6 @@ const FEED_DATA = {
       "source": "Hacker News",
       "published": "2026-07-21T18:30:21+00:00",
       "link": "https://cacm.acm.org/opinion/ai-didnt-make-programming-easier-it-just-made-it-differently-difficult/"
-    },
-    {
-      "title": "Jack Dorsey launches Buzz to combine team chat, AI agents and Git hosting",
-      "summary": "https://x.com/jack/status/2079605800998146171, https://xcancel.com/jack/status/2079605800998146171https://buzz.xyz/ Comments URL: https://news.ycombinator.com/item?id=48995213 Points: 372 # Comments: 330",
-      "source": "Hacker News",
-      "published": "2026-07-21T17:14:06+00:00",
-      "link": "https://runtimewire.com/article/jack-dorsey-block-buzz-team-chat-ai-agents-git"
-    },
-    {
-      "title": "Google releases three new Gemini models — but no 3.5 Pro",
-      "summary": "Google released Gemini 3.6 Flash, 3.5 Flash-Lite, and Flash Cyber, but the continued absence of Gemini 3.5 Pro raises fresh questions about its AI strategy.",
-      "source": "TechCrunch",
-      "published": "2026-07-21T17:11:50+00:00",
-      "link": "https://techcrunch.com/2026/07/21/google-releases-three-new-gemini-models-but-no-3-5-pro/"
-    },
-    {
-      "title": "Claude Cowork learns new skills through screen recordings and voice-over explanations",
-      "summary": "Anthropic's Claude Cowork desktop app now lets users record their screen while completing a task, add voice commentary, and have Claude turn the whole thing into a reusable skill.",
-      "source": "The Decoder",
-      "published": "2026-07-21T17:07:21+00:00",
-      "link": "https://the-decoder.com/claude-cowork-learns-new-skills-through-screen-recordings-and-voice-over-explanations/"
-    },
-    {
-      "title": "Meta's AI models are powering the first wave of Genesis Mission projects",
-      "summary": "https://www.energy.gov/undersecretaryforscience/genesis-miss... Comments URL: https://news.ycombinator.com/item?id=48995074 Points: 99 # Comments: 88",
-      "source": "Hacker News",
-      "published": "2026-07-21T17:03:18+00:00",
-      "link": "https://ai.meta.com/blog/genesis-mission-lawrence-berkeley-national-laboratory-segment-anything-dino/?_fb_noscript=1"
     }
   ]
 };
