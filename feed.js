@@ -1,6 +1,83 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-07-29T11:11:33.654626+00:00",
+  "lastUpdated": "2026-07-29T15:09:22.760055+00:00",
   "items": [
+    {
+      "title": "Encore AI raises $30M to build AI agents that learn from customer calls",
+      "summary": "The startup analyzes calls, messages and CRM data to identify effective sales techniques and turn them into playbooks for AI agents.",
+      "source": "TechCrunch",
+      "published": "2026-07-29T14:41:06+00:00",
+      "link": "https://techcrunch.com/2026/07/29/encore-ai-raises-30m-to-build-ai-agents-that-learn-from-customer-calls/"
+    },
+    {
+      "title": "Deepmind dismantles its AlphaFold team as key authors leave for Anthropic",
+      "summary": "The majority of the researchers behind AlphaFold are now working on other projects, and almost a quarter have left Google Deepmind altogether. The restructuring marks a sharp turn away from the strategy that put the lab on the map.",
+      "source": "The Decoder",
+      "published": "2026-07-29T13:47:11+00:00",
+      "link": "https://the-decoder.com/deepmind-dismantles-its-alphafold-team-as-key-authors-leave-for-anthropic/"
+    },
+    {
+      "title": "After the AI Crash",
+      "summary": "Article URL: https://potsandpansbyccg.com/2026/07/29/after-the-ai-crash/ Comments URL: https://news.ycombinator.com/item?id=49096953 Points: 66 # Comments: 115",
+      "source": "Hacker News",
+      "published": "2026-07-29T13:00:39+00:00",
+      "link": "https://potsandpansbyccg.com/2026/07/29/after-the-ai-crash/"
+    },
+    {
+      "title": "GPT Transcribe improves on its predecessor but can't catch ElevenLabs, Google, or Mistral on error rates",
+      "summary": "OpenAI has released GPT Transcribe and GPT Live Transcribe, two new speech recognition models available through its API. The article GPT Transcribe improves on its predecessor but can't catch ElevenLabs, Google, or Mistral on error rates appeared first on The Decoder.",
+      "source": "The Decoder",
+      "published": "2026-07-29T12:45:33+00:00",
+      "link": "https://the-decoder.com/gpt-transcribe-improves-on-its-predecessor-but-cant-catch-elevenlabs-google-or-mistral-on-error-rates/"
+    },
+    {
+      "title": "Frontier AI developers urge international coordination to pace automated research before capabilities outstrip control",
+      "summary": "In a joint statement, employees from the leading AI labs are calling on the US government to pursue international coordination. Their argument is simple: no single company or country can slow things down alone.",
+      "source": "The Decoder",
+      "published": "2026-07-29T12:13:16+00:00",
+      "link": "https://the-decoder.com/frontier-ai-developers-urge-international-coordination-to-pace-automated-research-before-capabilities-outstrip-control/"
+    },
+    {
+      "title": "The Download: a chip talent battle, and deflating AI hype",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Samsung’s chip workers are jumping ship to rival SK Hynix Lee, an engineer at Samsung’s semiconductor division, used to work late.",
+      "source": "MIT Tech Review",
+      "published": "2026-07-29T12:10:00+00:00",
+      "link": "https://www.technologyreview.com/2026/07/29/1140884/the-download-chip-talent-battle-deflating-ai-hype/"
+    },
+    {
+      "title": "Artists are lawyering up against AI slop, and some are even winning",
+      "summary": "When The Atlantic published a searchable dataset of works used to train AI, Kirk Wallace Johnson, like a lot of artists, looked for his name out of curiosity. And, like a lot of artists, he found it.",
+      "source": "The Verge",
+      "published": "2026-07-29T12:00:00+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/971059/ai-artists-lawsuit-google-meta-anthropic"
+    },
+    {
+      "title": "OpenAI’s rogue AI agent didn’t stop at hacking Hugging Face",
+      "summary": "The AI agent that escaped from OpenAI and hacked developer platform Hugging Face attacked other companies as well, OpenAI revealed on Tuesday.",
+      "source": "The Verge",
+      "published": "2026-07-29T11:54:29+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/972441/openai-rogue-ai-agent-hacked-more-than-hugging-face"
+    },
+    {
+      "title": "OpenAI open-sources Codex Security CLI to help developers find and fix vulnerabilities from the command line",
+      "summary": "OpenAI has released Codex Security CLI, an open-source tool that automatically detects and fixes vulnerabilities in code repositories. Previously known internally as \"Aardvark,\" the system has already helped fix more than 3,000 critical security flaws, according to OpenAI.",
+      "source": "The Decoder",
+      "published": "2026-07-29T11:50:56+00:00",
+      "link": "https://the-decoder.com/openai-open-sources-codex-security-cli-to-help-developers-find-and-fix-vulnerabilities-from-the-command-line/"
+    },
+    {
+      "title": "Document-borne AI worms can self-propagate through Copilot for Word",
+      "summary": "Article URL: https://enklypesalt.com/posts/context-collapse-part3-ai-worming-through-word/ Comments URL: https://news.ycombinator.com/item?id=49096188 Points: 171 # Comments: 147",
+      "source": "Hacker News",
+      "published": "2026-07-29T11:44:33+00:00",
+      "link": "https://enklypesalt.com/posts/context-collapse-part3-ai-worming-through-word/"
+    },
+    {
+      "title": "As AI content floods the internet, Pangram raises $9M to detect it",
+      "summary": "Pangram has raised $9 million to scale its AI detection software. The startup has also released a new AI text detection model, Pangram 4, and an AI image detection model in research preview.",
+      "source": "TechCrunch",
+      "published": "2026-07-29T11:00:00+00:00",
+      "link": "https://techcrunch.com/2026/07/29/as-ai-content-floods-the-internet-pangram-raises-9m-to-detect-it/"
+    },
     {
       "title": "We’re running out of reasons to ignore AI safety",
       "summary": "Earlier this month, OpenAI gave several of its AI models a task: complete a test designed to measure their cybersecurity capabilities. It put the systems in a sandboxed environment without an internet connection and set them off to work.",
@@ -45,14 +122,14 @@ const FEED_DATA = {
     },
     {
       "title": "Chip stocks slide in US and Asia as AI jitters rattle investors",
-      "summary": "Article URL: https://www.bbc.com/news/articles/cly8zng43npo Comments URL: https://news.ycombinator.com/item?id=49092549 Points: 59 # Comments: 38",
+      "summary": "Article URL: https://www.bbc.com/news/articles/cly8zng43npo Comments URL: https://news.ycombinator.com/item?id=49092549 Points: 63 # Comments: 47",
       "source": "Hacker News",
       "published": "2026-07-29T01:56:00+00:00",
       "link": "https://www.bbc.com/news/articles/cly8zng43npo"
     },
     {
       "title": "LearnVector – Andrew Ng's AI company building one‑to‑one learning experiences",
-      "summary": "Article URL: https://learnvector.ai/ Comments URL: https://news.ycombinator.com/item?id=49092499 Points: 200 # Comments: 118",
+      "summary": "Article URL: https://learnvector.ai/ Comments URL: https://news.ycombinator.com/item?id=49092499 Points: 240 # Comments: 153",
       "source": "Hacker News",
       "published": "2026-07-29T01:49:19+00:00",
       "link": "https://learnvector.ai/"
@@ -220,7 +297,7 @@ const FEED_DATA = {
     },
     {
       "title": "Google's Beyond Zero: Enterprise Security for the AI Era",
-      "summary": "Article URL: https://spawn-queue.acm.org/doi/10.1145/3819083 Comments URL: https://news.ycombinator.com/item?id=49081644 Points: 151 # Comments: 77",
+      "summary": "Article URL: https://spawn-queue.acm.org/doi/10.1145/3819083 Comments URL: https://news.ycombinator.com/item?id=49081644 Points: 152 # Comments: 77",
       "source": "Hacker News",
       "published": "2026-07-28T09:59:13+00:00",
       "link": "https://spawn-queue.acm.org/doi/10.1145/3819083"
@@ -255,7 +332,7 @@ const FEED_DATA = {
     },
     {
       "title": "Don't ask an LLM for a confidence score",
-      "summary": "Article URL: https://justinflick.com/2026/07/27/llm-confidence-scores.html Comments URL: https://news.ycombinator.com/item?id=49077443 Points: 89 # Comments: 32",
+      "summary": "Article URL: https://justinflick.com/2026/07/27/llm-confidence-scores.html Comments URL: https://news.ycombinator.com/item?id=49077443 Points: 89 # Comments: 33",
       "source": "Hacker News",
       "published": "2026-07-28T00:06:53+00:00",
       "link": "https://justinflick.com/2026/07/27/llm-confidence-scores.html"
@@ -388,14 +465,14 @@ const FEED_DATA = {
     },
     {
       "title": "Apple Will 'Watch Everything Burn' When the AI Bubble Bursts",
-      "summary": "Article URL: https://www.macrumors.com/2026/07/27/ed-zitron-apple-watch-it-burn-ai-bubble-bursts/ Comments URL: https://news.ycombinator.com/item?id=49070427 Points: 251 # Comments: 352",
+      "summary": "Article URL: https://www.macrumors.com/2026/07/27/ed-zitron-apple-watch-it-burn-ai-bubble-bursts/ Comments URL: https://news.ycombinator.com/item?id=49070427 Points: 252 # Comments: 353",
       "source": "Hacker News",
       "published": "2026-07-27T14:42:41+00:00",
       "link": "https://www.macrumors.com/2026/07/27/ed-zitron-apple-watch-it-burn-ai-bubble-bursts/"
     },
     {
       "title": "AI companies spend record sums on Washington lobbying",
-      "summary": "https://archive.ph/PASMJ Comments URL: https://news.ycombinator.com/item?id=49069939 Points: 276 # Comments: 144",
+      "summary": "https://archive.ph/PASMJ Comments URL: https://news.ycombinator.com/item?id=49069939 Points: 277 # Comments: 144",
       "source": "Hacker News",
       "published": "2026-07-27T14:07:48+00:00",
       "link": "https://www.ft.com/content/d8a5f95e-3b6d-463a-a848-c9ef8e2394db"
@@ -416,14 +493,14 @@ const FEED_DATA = {
     },
     {
       "title": "Truth is not a direction: a Tarski attack on LLM probes",
-      "summary": "Article URL: https://abeljansma.nl/2026/07/10/truth-is-not-a-direction.html Comments URL: https://news.ycombinator.com/item?id=49069033 Points: 103 # Comments: 63",
+      "summary": "Article URL: https://abeljansma.nl/2026/07/10/truth-is-not-a-direction.html Comments URL: https://news.ycombinator.com/item?id=49069033 Points: 107 # Comments: 74",
       "source": "Hacker News",
       "published": "2026-07-27T12:56:36+00:00",
       "link": "https://abeljansma.nl/2026/07/10/truth-is-not-a-direction.html"
     },
     {
       "title": "AI companies are shredding rare books",
-      "summary": "https://xcancel.com/HedgieMarkets/status/2081534588485296565 Comments URL: https://news.ycombinator.com/item?id=49068738 Points: 788 # Comments: 509",
+      "summary": "https://xcancel.com/HedgieMarkets/status/2081534588485296565 Comments URL: https://news.ycombinator.com/item?id=49068738 Points: 790 # Comments: 510",
       "source": "Hacker News",
       "published": "2026-07-27T12:32:12+00:00",
       "link": "https://twitter.com/HedgieMarkets/status/2081534588485296565"
@@ -1323,83 +1400,6 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-07-22T18:13:58+00:00",
       "link": "https://techcrunch.com/2026/07/22/yope-raises-12-3m-to-build-a-private-social-network-without-algorithms-or-ads/"
-    },
-    {
-      "title": "Monday.com lays off hundreds to focus on AI",
-      "summary": "The company said it is reducing its headcount by 20%, or about 630 staff, to \"support a leaner, more focused operating model\" as it focuses on its AI Work Platform.",
-      "source": "TechCrunch",
-      "published": "2026-07-22T17:54:14+00:00",
-      "link": "https://techcrunch.com/2026/07/22/monday-com-lays-off-hundreds-to-focuses-on-ai/"
-    },
-    {
-      "title": "Are AI labs pelicanmaxxing?",
-      "summary": "Article URL: https://dylancastillo.co/posts/pelicanmaxxing.html Comments URL: https://news.ycombinator.com/item?id=49010129 Points: 680 # Comments: 242",
-      "source": "Hacker News",
-      "published": "2026-07-22T17:17:54+00:00",
-      "link": "https://dylancastillo.co/posts/pelicanmaxxing.html"
-    },
-    {
-      "title": "Anthropic will deploy 2 gigawatts of AMD GPUs for Claude in a deal worth up to $5 billion",
-      "summary": "AMD is investing up to $5 billion in Anthropic. In return, Anthropic will deploy up to 2 gigawatts of MI450 GPUs for training and running its Claude models.",
-      "source": "The Decoder",
-      "published": "2026-07-22T16:54:26+00:00",
-      "link": "https://the-decoder.com/anthropic-will-deploy-2-gigawatts-of-amd-gpus-for-claude-in-a-deal-worth-up-to-5-billion/"
-    },
-    {
-      "title": "Every frontier AI model tested by Britain's safety institute tried to cheat on cybersecurity evaluations",
-      "summary": "The UK's AI Safety Institute tested five frontier models from OpenAI and Anthropic in cybersecurity evaluations. All five tried to cheat.",
-      "source": "The Decoder",
-      "published": "2026-07-22T16:41:49+00:00",
-      "link": "https://the-decoder.com/every-frontier-ai-model-tested-by-britains-safety-institute-tried-to-cheat-on-cybersecurity-evaluations/"
-    },
-    {
-      "title": "Cisco bets its small open cybersecurity models can outperform GPT-5.5 at vulnerability detection for a fraction of the cost",
-      "summary": "Cisco has released two small, open-source AI models for cybersecurity that detect about 150 times more vulnerabilities per dollar than large AI agents, according to the company's own tests.",
-      "source": "The Decoder",
-      "published": "2026-07-22T16:28:08+00:00",
-      "link": "https://the-decoder.com/cisco-bets-its-small-open-cybersecurity-models-can-outperform-gpt-5-5-at-vulnerability-detection-for-a-fraction-of-the-cost/"
-    },
-    {
-      "title": "Arcee, a US open source AI lab, says Chinese models are not inherently dangerous",
-      "summary": "As Chinese AI models grow in capability and popularity among U.S. companies, the arguing over what should be done about them has reached a fever pitch.",
-      "source": "TechCrunch",
-      "published": "2026-07-22T16:24:08+00:00",
-      "link": "https://techcrunch.com/2026/07/22/arcee-a-us-open-source-ai-lab-says-chinese-models-are-not-inherently-dangerous/"
-    },
-    {
-      "title": "Substack’s new tool tells you who’s been writing their newsletters with AI",
-      "summary": "Substack is giving readers a way to estimate how much of a newsletter was written by AI, signaling a broader shift toward transparency around AI-assisted content.",
-      "source": "TechCrunch",
-      "published": "2026-07-22T16:23:09+00:00",
-      "link": "https://techcrunch.com/2026/07/22/substacks-new-tool-tells-you-whos-been-writing-their-newsletters-with-ai/"
-    },
-    {
-      "title": "OpenAI’s AI spending spree has ballooned to $750B",
-      "summary": "OpenAI will spend the equivalent of Sweden's GDP on infrastructure through 2030.",
-      "source": "TechCrunch",
-      "published": "2026-07-22T16:13:30+00:00",
-      "link": "https://techcrunch.com/2026/07/22/openais-ai-spending-spree-has-ballooned-to-750b/"
-    },
-    {
-      "title": "OpenAI's \"Project Camellia\" in Georgia secures a massive 3.2-gigawatt power deal through 2032",
-      "summary": "OpenAI is planning a data center in Georgia called \"Project Camellia\" with a 3.2-gigawatt power deal from Georgia Power.",
-      "source": "The Decoder",
-      "published": "2026-07-22T15:45:51+00:00",
-      "link": "https://the-decoder.com/openais-project-camellia-in-georgia-secures-a-massive-3-2-gigawatt-power-deal-through-2032/"
-    },
-    {
-      "title": "AMD commits up to $5 billion to Anthropic",
-      "summary": "AMD says it's going to invest up to $5 billion in Anthropic, while helping to expand the AI company's computing power, according to an announcement on Wednesday.",
-      "source": "The Verge",
-      "published": "2026-07-22T14:44:27+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/969285/amd-anthropic-ai-infrastructure-deal"
-    },
-    {
-      "title": "AMD and Anthropic reach $5 billion AI infrastructure deal",
-      "summary": "AMD says it's going to invest up to $5 billion in Anthropic, while helping to expand the AI company's computing power, according to an announcement on Wednesday.",
-      "source": "The Verge",
-      "published": "2026-07-22T14:44:27+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/969285/amd-anthropic-ai-infrastructure-deal"
     }
   ]
 };
