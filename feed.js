@@ -1,16 +1,58 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-07-29T07:44:41.716123+00:00",
+  "lastUpdated": "2026-07-29T11:11:33.654626+00:00",
   "items": [
     {
+      "title": "We’re running out of reasons to ignore AI safety",
+      "summary": "Earlier this month, OpenAI gave several of its AI models a task: complete a test designed to measure their cybersecurity capabilities. It put the systems in a sandboxed environment without an internet connection and set them off to work.",
+      "source": "The Verge",
+      "published": "2026-07-29T11:00:00+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/972380/open-ai-hugging-face-hack-ai-safety-warning"
+    },
+    {
+      "title": "OpenAI report links coding agents to faster science software builds",
+      "summary": "OpenAI has released a new field report tracking eight scientific computing projects where coding agents cut runtimes. The report documents projects that used Codex on its own in five cases and a combination of Codex and Anthropic’s Claude Code in three others.",
+      "source": "AI News",
+      "published": "2026-07-29T10:53:39+00:00",
+      "link": "https://www.artificialintelligence-news.com/news/openai-report-coding-agents-faster-science-software-builds/"
+    },
+    {
+      "title": "More Typos, Fewer Em Dashes: Writers Are Creating an Anti-AI ‘Literary Counterculture’",
+      "summary": "Novelists, journalists, and power LinkedIn posters are embracing first-person narratives and idiosyncrasies to avoid being mistaken for chat bots.",
+      "source": "Wired",
+      "published": "2026-07-29T10:30:00+00:00",
+      "link": "https://www.wired.com/story/more-typos-fewer-em-dashes-writers-are-creating-an-anti-ai-literary-counterculture/"
+    },
+    {
+      "title": "Google AI Overviews become more common in search",
+      "summary": "Google’s AI-generated summaries appeared in 43% of US searches measured by Similarweb, up from 15% a year earlier, according to the market intelligence firm’s 2026 Generative AI Landscape report.",
+      "source": "AI News",
+      "published": "2026-07-29T10:00:00+00:00",
+      "link": "https://www.artificialintelligence-news.com/news/google-ai-overviews-us-searches/"
+    },
+    {
+      "title": "Boomers Can’t Stop Gifting Their Grandkids AI-Generated Slop Books",
+      "summary": "Parents are getting fed up with garbled bedtime stories that feature characters based on actual photos of their children.",
+      "source": "Wired",
+      "published": "2026-07-29T09:30:00+00:00",
+      "link": "https://www.wired.com/story/boomers-cant-stop-gifting-their-grandkids-ai-generated-slop-books/"
+    },
+    {
+      "title": "The AI Hype Index: Unsexy AI",
+      "summary": "It feels bad enough when an open letter signed by leading economists warns that AI might steal your job. The fact it may soon be better than you at making dinner?",
+      "source": "MIT Tech Review",
+      "published": "2026-07-29T08:42:57+00:00",
+      "link": "https://www.technologyreview.com/2026/07/29/1140795/the-ai-hype-index-unsexy-ai/"
+    },
+    {
       "title": "Chip stocks slide in US and Asia as AI jitters rattle investors",
-      "summary": "Article URL: https://www.bbc.com/news/articles/cly8zng43npo Comments URL: https://news.ycombinator.com/item?id=49092549 Points: 52 # Comments: 35",
+      "summary": "Article URL: https://www.bbc.com/news/articles/cly8zng43npo Comments URL: https://news.ycombinator.com/item?id=49092549 Points: 59 # Comments: 38",
       "source": "Hacker News",
       "published": "2026-07-29T01:56:00+00:00",
       "link": "https://www.bbc.com/news/articles/cly8zng43npo"
     },
     {
       "title": "LearnVector – Andrew Ng's AI company building one‑to‑one learning experiences",
-      "summary": "Article URL: https://learnvector.ai/ Comments URL: https://news.ycombinator.com/item?id=49092499 Points: 161 # Comments: 90",
+      "summary": "Article URL: https://learnvector.ai/ Comments URL: https://news.ycombinator.com/item?id=49092499 Points: 200 # Comments: 118",
       "source": "Hacker News",
       "published": "2026-07-29T01:49:19+00:00",
       "link": "https://learnvector.ai/"
@@ -122,7 +164,7 @@ const FEED_DATA = {
     },
     {
       "title": "What AI developers could learn from Charles Bukowski?",
-      "summary": "Article URL: https://galjot.si/what-ai-developers-could-learn-from-charles-bukowski Comments URL: https://news.ycombinator.com/item?id=49083132 Points: 68 # Comments: 49",
+      "summary": "Article URL: https://galjot.si/what-ai-developers-could-learn-from-charles-bukowski Comments URL: https://news.ycombinator.com/item?id=49083132 Points: 69 # Comments: 49",
       "source": "Hacker News",
       "published": "2026-07-28T13:00:12+00:00",
       "link": "https://galjot.si/what-ai-developers-could-learn-from-charles-bukowski"
@@ -178,7 +220,7 @@ const FEED_DATA = {
     },
     {
       "title": "Google's Beyond Zero: Enterprise Security for the AI Era",
-      "summary": "Article URL: https://spawn-queue.acm.org/doi/10.1145/3819083 Comments URL: https://news.ycombinator.com/item?id=49081644 Points: 149 # Comments: 76",
+      "summary": "Article URL: https://spawn-queue.acm.org/doi/10.1145/3819083 Comments URL: https://news.ycombinator.com/item?id=49081644 Points: 151 # Comments: 77",
       "source": "Hacker News",
       "published": "2026-07-28T09:59:13+00:00",
       "link": "https://spawn-queue.acm.org/doi/10.1145/3819083"
@@ -213,7 +255,7 @@ const FEED_DATA = {
     },
     {
       "title": "Don't ask an LLM for a confidence score",
-      "summary": "Article URL: https://justinflick.com/2026/07/27/llm-confidence-scores.html Comments URL: https://news.ycombinator.com/item?id=49077443 Points: 88 # Comments: 31",
+      "summary": "Article URL: https://justinflick.com/2026/07/27/llm-confidence-scores.html Comments URL: https://news.ycombinator.com/item?id=49077443 Points: 89 # Comments: 32",
       "source": "Hacker News",
       "published": "2026-07-28T00:06:53+00:00",
       "link": "https://justinflick.com/2026/07/27/llm-confidence-scores.html"
@@ -346,14 +388,14 @@ const FEED_DATA = {
     },
     {
       "title": "Apple Will 'Watch Everything Burn' When the AI Bubble Bursts",
-      "summary": "Article URL: https://www.macrumors.com/2026/07/27/ed-zitron-apple-watch-it-burn-ai-bubble-bursts/ Comments URL: https://news.ycombinator.com/item?id=49070427 Points: 249 # Comments: 352",
+      "summary": "Article URL: https://www.macrumors.com/2026/07/27/ed-zitron-apple-watch-it-burn-ai-bubble-bursts/ Comments URL: https://news.ycombinator.com/item?id=49070427 Points: 251 # Comments: 352",
       "source": "Hacker News",
       "published": "2026-07-27T14:42:41+00:00",
       "link": "https://www.macrumors.com/2026/07/27/ed-zitron-apple-watch-it-burn-ai-bubble-bursts/"
     },
     {
       "title": "AI companies spend record sums on Washington lobbying",
-      "summary": "https://archive.ph/PASMJ Comments URL: https://news.ycombinator.com/item?id=49069939 Points: 275 # Comments: 144",
+      "summary": "https://archive.ph/PASMJ Comments URL: https://news.ycombinator.com/item?id=49069939 Points: 276 # Comments: 144",
       "source": "Hacker News",
       "published": "2026-07-27T14:07:48+00:00",
       "link": "https://www.ft.com/content/d8a5f95e-3b6d-463a-a848-c9ef8e2394db"
@@ -374,14 +416,14 @@ const FEED_DATA = {
     },
     {
       "title": "Truth is not a direction: a Tarski attack on LLM probes",
-      "summary": "Article URL: https://abeljansma.nl/2026/07/10/truth-is-not-a-direction.html Comments URL: https://news.ycombinator.com/item?id=49069033 Points: 79 # Comments: 32",
+      "summary": "Article URL: https://abeljansma.nl/2026/07/10/truth-is-not-a-direction.html Comments URL: https://news.ycombinator.com/item?id=49069033 Points: 103 # Comments: 63",
       "source": "Hacker News",
       "published": "2026-07-27T12:56:36+00:00",
       "link": "https://abeljansma.nl/2026/07/10/truth-is-not-a-direction.html"
     },
     {
       "title": "AI companies are shredding rare books",
-      "summary": "https://xcancel.com/HedgieMarkets/status/2081534588485296565 Comments URL: https://news.ycombinator.com/item?id=49068738 Points: 787 # Comments: 508",
+      "summary": "https://xcancel.com/HedgieMarkets/status/2081534588485296565 Comments URL: https://news.ycombinator.com/item?id=49068738 Points: 788 # Comments: 509",
       "source": "Hacker News",
       "published": "2026-07-27T12:32:12+00:00",
       "link": "https://twitter.com/HedgieMarkets/status/2081534588485296565"
@@ -542,7 +584,7 @@ const FEED_DATA = {
     },
     {
       "title": "What is happening to jobs? Separating AI hype from reality",
-      "summary": "Article URL: https://siepr.stanford.edu/publications/policy-brief/what-really-happening-jobs-separating-ai-hype-reality Comments URL: https://news.ycombinator.com/item?id=49052570 Points: 299 # Comments: 380",
+      "summary": "Article URL: https://siepr.stanford.edu/publications/policy-brief/what-really-happening-jobs-separating-ai-hype-reality Comments URL: https://news.ycombinator.com/item?id=49052570 Points: 300 # Comments: 380",
       "source": "Hacker News",
       "published": "2026-07-25T22:51:10+00:00",
       "link": "https://siepr.stanford.edu/publications/policy-brief/what-really-happening-jobs-separating-ai-hype-reality"
@@ -1358,48 +1400,6 @@ const FEED_DATA = {
       "source": "The Verge",
       "published": "2026-07-22T14:44:27+00:00",
       "link": "https://www.theverge.com/ai-artificial-intelligence/969285/amd-anthropic-ai-infrastructure-deal"
-    },
-    {
-      "title": "Most Americans say \"not in my backyard\" to AI data centers",
-      "summary": "Article URL: https://www.redfin.com/news/ai-data-centers-opposition-education-benefit/ Comments URL: https://news.ycombinator.com/item?id=49007525 Points: 145 # Comments: 306",
-      "source": "Hacker News",
-      "published": "2026-07-22T14:34:27+00:00",
-      "link": "https://www.redfin.com/news/ai-data-centers-opposition-education-benefit/"
-    },
-    {
-      "title": "Quality non-fiction books are the antithesis of AI slop",
-      "summary": "https://book-prize-index.vercel.app/ Comments URL: https://news.ycombinator.com/item?id=49007247 Points: 483 # Comments: 235",
-      "source": "Hacker News",
-      "published": "2026-07-22T14:18:05+00:00",
-      "link": "https://resobscura.substack.com/p/quality-non-fiction-books-are-the"
-    },
-    {
-      "title": "Menlo Ventures’ Matt Murphy explains what AI startups founders must do differently",
-      "summary": "Anthropic leaped to a $47 billion revenue run rate by May, compared to $9 billion in 2025. It’s the kind of growth that Menlo Ventures’ Matt Murphy says he’s never seen in 25 years of investing, not in the internet wave, not in mobile, not in the first cloud boom.",
-      "source": "TechCrunch",
-      "published": "2026-07-22T14:00:00+00:00",
-      "link": "https://techcrunch.com/podcast/menlo-ventures-matt-murphy-explains-what-ai-startups-founders-must-do-differently/"
-    },
-    {
-      "title": "The browser wars aren’t about search anymore — here are the best alternatives to Chrome and Safari",
-      "summary": "We’ve compiled an overview of some of the top alternative browsers available today aiming to challenge Chrome and Safari.",
-      "source": "TechCrunch",
-      "published": "2026-07-22T13:20:35+00:00",
-      "link": "https://techcrunch.com/2026/07/22/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/"
-    },
-    {
-      "title": "Passionfroot raises $15M to expand its B2B creator marketplace to the US",
-      "summary": "Passionfroot, a German startup building a marketplace connecting B2B creators with brands, has raised $15M in a Series A round led by Insight Partners.",
-      "source": "TechCrunch",
-      "published": "2026-07-22T13:00:00+00:00",
-      "link": "https://techcrunch.com/2026/07/22/passionfroot-raises-15m-to-expand-its-b2b-creator-marketplace-to-the-us/"
-    },
-    {
-      "title": "Businesses with ugly AI menu redesigns",
-      "summary": "Article URL: https://blog.fiddery.com/businesses-with-ugly-ai-menu-redesigns/ Comments URL: https://news.ycombinator.com/item?id=49005973 Points: 373 # Comments: 300",
-      "source": "Hacker News",
-      "published": "2026-07-22T12:49:45+00:00",
-      "link": "https://blog.fiddery.com/businesses-with-ugly-ai-menu-redesigns/"
     }
   ]
 };
