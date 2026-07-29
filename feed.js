@@ -1,9 +1,16 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-07-29T04:10:12.220997+00:00",
+  "lastUpdated": "2026-07-29T07:44:41.716123+00:00",
   "items": [
     {
+      "title": "Chip stocks slide in US and Asia as AI jitters rattle investors",
+      "summary": "Article URL: https://www.bbc.com/news/articles/cly8zng43npo Comments URL: https://news.ycombinator.com/item?id=49092549 Points: 52 # Comments: 35",
+      "source": "Hacker News",
+      "published": "2026-07-29T01:56:00+00:00",
+      "link": "https://www.bbc.com/news/articles/cly8zng43npo"
+    },
+    {
       "title": "LearnVector – Andrew Ng's AI company building one‑to‑one learning experiences",
-      "summary": "Article URL: https://learnvector.ai/ Comments URL: https://news.ycombinator.com/item?id=49092499 Points: 72 # Comments: 38",
+      "summary": "Article URL: https://learnvector.ai/ Comments URL: https://news.ycombinator.com/item?id=49092499 Points: 161 # Comments: 90",
       "source": "Hacker News",
       "published": "2026-07-29T01:49:19+00:00",
       "link": "https://learnvector.ai/"
@@ -115,7 +122,7 @@ const FEED_DATA = {
     },
     {
       "title": "What AI developers could learn from Charles Bukowski?",
-      "summary": "Article URL: https://galjot.si/what-ai-developers-could-learn-from-charles-bukowski Comments URL: https://news.ycombinator.com/item?id=49083132 Points: 66 # Comments: 49",
+      "summary": "Article URL: https://galjot.si/what-ai-developers-could-learn-from-charles-bukowski Comments URL: https://news.ycombinator.com/item?id=49083132 Points: 68 # Comments: 49",
       "source": "Hacker News",
       "published": "2026-07-28T13:00:12+00:00",
       "link": "https://galjot.si/what-ai-developers-could-learn-from-charles-bukowski"
@@ -171,7 +178,7 @@ const FEED_DATA = {
     },
     {
       "title": "Google's Beyond Zero: Enterprise Security for the AI Era",
-      "summary": "Article URL: https://spawn-queue.acm.org/doi/10.1145/3819083 Comments URL: https://news.ycombinator.com/item?id=49081644 Points: 146 # Comments: 75",
+      "summary": "Article URL: https://spawn-queue.acm.org/doi/10.1145/3819083 Comments URL: https://news.ycombinator.com/item?id=49081644 Points: 149 # Comments: 76",
       "source": "Hacker News",
       "published": "2026-07-28T09:59:13+00:00",
       "link": "https://spawn-queue.acm.org/doi/10.1145/3819083"
@@ -206,7 +213,7 @@ const FEED_DATA = {
     },
     {
       "title": "Don't ask an LLM for a confidence score",
-      "summary": "Article URL: https://justinflick.com/2026/07/27/llm-confidence-scores.html Comments URL: https://news.ycombinator.com/item?id=49077443 Points: 87 # Comments: 31",
+      "summary": "Article URL: https://justinflick.com/2026/07/27/llm-confidence-scores.html Comments URL: https://news.ycombinator.com/item?id=49077443 Points: 88 # Comments: 31",
       "source": "Hacker News",
       "published": "2026-07-28T00:06:53+00:00",
       "link": "https://justinflick.com/2026/07/27/llm-confidence-scores.html"
@@ -339,14 +346,14 @@ const FEED_DATA = {
     },
     {
       "title": "Apple Will 'Watch Everything Burn' When the AI Bubble Bursts",
-      "summary": "Article URL: https://www.macrumors.com/2026/07/27/ed-zitron-apple-watch-it-burn-ai-bubble-bursts/ Comments URL: https://news.ycombinator.com/item?id=49070427 Points: 249 # Comments: 351",
+      "summary": "Article URL: https://www.macrumors.com/2026/07/27/ed-zitron-apple-watch-it-burn-ai-bubble-bursts/ Comments URL: https://news.ycombinator.com/item?id=49070427 Points: 249 # Comments: 352",
       "source": "Hacker News",
       "published": "2026-07-27T14:42:41+00:00",
       "link": "https://www.macrumors.com/2026/07/27/ed-zitron-apple-watch-it-burn-ai-bubble-bursts/"
     },
     {
       "title": "AI companies spend record sums on Washington lobbying",
-      "summary": "https://archive.ph/PASMJ Comments URL: https://news.ycombinator.com/item?id=49069939 Points: 273 # Comments: 144",
+      "summary": "https://archive.ph/PASMJ Comments URL: https://news.ycombinator.com/item?id=49069939 Points: 275 # Comments: 144",
       "source": "Hacker News",
       "published": "2026-07-27T14:07:48+00:00",
       "link": "https://www.ft.com/content/d8a5f95e-3b6d-463a-a848-c9ef8e2394db"
@@ -366,8 +373,15 @@ const FEED_DATA = {
       "link": "https://techcrunch.com/2026/07/27/enigma-raises-70m-to-make-controlling-a-robot-as-easy-as-adjusting-the-volume/"
     },
     {
+      "title": "Truth is not a direction: a Tarski attack on LLM probes",
+      "summary": "Article URL: https://abeljansma.nl/2026/07/10/truth-is-not-a-direction.html Comments URL: https://news.ycombinator.com/item?id=49069033 Points: 79 # Comments: 32",
+      "source": "Hacker News",
+      "published": "2026-07-27T12:56:36+00:00",
+      "link": "https://abeljansma.nl/2026/07/10/truth-is-not-a-direction.html"
+    },
+    {
       "title": "AI companies are shredding rare books",
-      "summary": "https://xcancel.com/HedgieMarkets/status/2081534588485296565 Comments URL: https://news.ycombinator.com/item?id=49068738 Points: 784 # Comments: 508",
+      "summary": "https://xcancel.com/HedgieMarkets/status/2081534588485296565 Comments URL: https://news.ycombinator.com/item?id=49068738 Points: 787 # Comments: 508",
       "source": "Hacker News",
       "published": "2026-07-27T12:32:12+00:00",
       "link": "https://twitter.com/HedgieMarkets/status/2081534588485296565"
@@ -465,7 +479,7 @@ const FEED_DATA = {
     },
     {
       "title": "This July I Was Fired from Simple AI (A Deeply YC Company)",
-      "summary": "Article URL: https://andys.blog/this-july-i-was-fired-from-simple-ai/ Comments URL: https://news.ycombinator.com/item?id=49059587 Points: 54 # Comments: 170",
+      "summary": "Article URL: https://andys.blog/this-july-i-was-fired-from-simple-ai/ Comments URL: https://news.ycombinator.com/item?id=49059587 Points: 55 # Comments: 170",
       "source": "Hacker News",
       "published": "2026-07-26T16:14:46+00:00",
       "link": "https://andys.blog/this-july-i-was-fired-from-simple-ai/"
@@ -479,7 +493,7 @@ const FEED_DATA = {
     },
     {
       "title": "The New AI Superpowers: Focus and Followthrough",
-      "summary": "Article URL: https://www.rickmanelius.com/p/the-new-ai-superpowers-focus-and Comments URL: https://news.ycombinator.com/item?id=49057877 Points: 214 # Comments: 78",
+      "summary": "Article URL: https://www.rickmanelius.com/p/the-new-ai-superpowers-focus-and Comments URL: https://news.ycombinator.com/item?id=49057877 Points: 215 # Comments: 78",
       "source": "Hacker News",
       "published": "2026-07-26T13:13:03+00:00",
       "link": "https://www.rickmanelius.com/p/the-new-ai-superpowers-focus-and"
@@ -1386,20 +1400,6 @@ const FEED_DATA = {
       "source": "Hacker News",
       "published": "2026-07-22T12:49:45+00:00",
       "link": "https://blog.fiddery.com/businesses-with-ugly-ai-menu-redesigns/"
-    },
-    {
-      "title": "The Download: NASA’s new space telescope and OpenAI’s autonomous hacker",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.",
-      "source": "MIT Tech Review",
-      "published": "2026-07-22T12:10:00+00:00",
-      "link": "https://www.technologyreview.com/2026/07/22/1140717/the-download-nasa-space-telescope-openai-hugging-face-hack/"
-    },
-    {
-      "title": "OpenAI says its AI went rogue and launched 'unprecedented' cyber-attack",
-      "summary": "Article URL: https://www.bbc.com/news/articles/c3ek3gvdnj3o Comments URL: https://news.ycombinator.com/item?id=49005398 Points: 76 # Comments: 102",
-      "source": "Hacker News",
-      "published": "2026-07-22T12:03:32+00:00",
-      "link": "https://www.bbc.com/news/articles/c3ek3gvdnj3o"
     }
   ]
 };
