@@ -1,12 +1,47 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-07-28T21:56:00.318263+00:00",
+  "lastUpdated": "2026-07-29T04:10:12.220997+00:00",
   "items": [
+    {
+      "title": "LearnVector – Andrew Ng's AI company building one‑to‑one learning experiences",
+      "summary": "Article URL: https://learnvector.ai/ Comments URL: https://news.ycombinator.com/item?id=49092499 Points: 72 # Comments: 38",
+      "source": "Hacker News",
+      "published": "2026-07-29T01:49:19+00:00",
+      "link": "https://learnvector.ai/"
+    },
+    {
+      "title": "OpenAI’s Rogue AI Agent Hacked More Than Just Hugging Face",
+      "summary": "In a new disclosure, OpenAI says its agent used exposed logins to gain access to at least four “publicly available services” in its unhinged quest to solve a test.",
+      "source": "Wired",
+      "published": "2026-07-29T00:15:30+00:00",
+      "link": "https://www.wired.com/story/openais-rogue-ai-agent-hacked-more-than-just-hugging-face/"
+    },
+    {
+      "title": "Cyera agrees to acquire Oasis Security for $1B to safeguard proliferating AI agents",
+      "summary": "The deal is Cyera's third acquisition this year.",
+      "source": "TechCrunch",
+      "published": "2026-07-29T00:09:05+00:00",
+      "link": "https://techcrunch.com/2026/07/28/cyera-agrees-to-acquire-oasis-security-for-1b-to-safeguard-proliferating-ai-agents/"
+    },
+    {
+      "title": "We now have a better understanding how OpenAI hacked into Hugging Face",
+      "summary": "10 days passed from OpenAI models exploiting JFrog Artifactory 0-day to release of a patch.",
+      "source": "Ars Technica",
+      "published": "2026-07-28T21:36:39+00:00",
+      "link": "https://arstechnica.com/security/2026/07/jfrog-tries-to-spin-openai-0-day-exploit-of-its-app-into-a-success-story/"
+    },
     {
       "title": "Bot-detection startup Spur nabs $200M from Insight",
       "summary": "Spur Intelligence has raised a $200 million round from Insight Partners for its tech that can identify legit human traffic from bots.",
       "source": "TechCrunch",
       "published": "2026-07-28T21:29:34+00:00",
       "link": "https://techcrunch.com/2026/07/28/bot-detection-startup-spur-nabs-200m-from-insight/"
+    },
+    {
+      "title": "AI leaders sign a statement asking the government to do something about automated AI",
+      "summary": "Employees of OpenAI and Anthropic, as well as Google, Meta, Thinking Machines, Microsoft, Mistral, and other leading AI labs, have written a statement to the US government supporting a potential slowdown of sorts for frontier AI development - or at least a speed-up of global...",
+      "source": "The Verge",
+      "published": "2026-07-28T19:46:43+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/972161/ai-leaders-us-government-openai-anthropic-google-meta"
     },
     {
       "title": "AI leaders sign statement asking the government to do something about automated AI",
@@ -80,7 +115,7 @@ const FEED_DATA = {
     },
     {
       "title": "What AI developers could learn from Charles Bukowski?",
-      "summary": "Article URL: https://galjot.si/what-ai-developers-could-learn-from-charles-bukowski Comments URL: https://news.ycombinator.com/item?id=49083132 Points: 64 # Comments: 46",
+      "summary": "Article URL: https://galjot.si/what-ai-developers-could-learn-from-charles-bukowski Comments URL: https://news.ycombinator.com/item?id=49083132 Points: 66 # Comments: 49",
       "source": "Hacker News",
       "published": "2026-07-28T13:00:12+00:00",
       "link": "https://galjot.si/what-ai-developers-could-learn-from-charles-bukowski"
@@ -136,7 +171,7 @@ const FEED_DATA = {
     },
     {
       "title": "Google's Beyond Zero: Enterprise Security for the AI Era",
-      "summary": "Article URL: https://spawn-queue.acm.org/doi/10.1145/3819083 Comments URL: https://news.ycombinator.com/item?id=49081644 Points: 137 # Comments: 73",
+      "summary": "Article URL: https://spawn-queue.acm.org/doi/10.1145/3819083 Comments URL: https://news.ycombinator.com/item?id=49081644 Points: 146 # Comments: 75",
       "source": "Hacker News",
       "published": "2026-07-28T09:59:13+00:00",
       "link": "https://spawn-queue.acm.org/doi/10.1145/3819083"
@@ -171,7 +206,7 @@ const FEED_DATA = {
     },
     {
       "title": "Don't ask an LLM for a confidence score",
-      "summary": "Article URL: https://justinflick.com/2026/07/27/llm-confidence-scores.html Comments URL: https://news.ycombinator.com/item?id=49077443 Points: 86 # Comments: 30",
+      "summary": "Article URL: https://justinflick.com/2026/07/27/llm-confidence-scores.html Comments URL: https://news.ycombinator.com/item?id=49077443 Points: 87 # Comments: 31",
       "source": "Hacker News",
       "published": "2026-07-28T00:06:53+00:00",
       "link": "https://justinflick.com/2026/07/27/llm-confidence-scores.html"
@@ -206,7 +241,7 @@ const FEED_DATA = {
     },
     {
       "title": "Professor's invisible prompt trap catches 32/35 students cheating with AI",
-      "summary": "Article URL: https://www.techspot.com/news/113243-professor-invisible-prompt-trap-catches-32-students-cheating.html Comments URL: https://news.ycombinator.com/item?id=49074680 Points: 105 # Comments: 87",
+      "summary": "Article URL: https://www.techspot.com/news/113243-professor-invisible-prompt-trap-catches-32-students-cheating.html Comments URL: https://news.ycombinator.com/item?id=49074680 Points: 105 # Comments: 88",
       "source": "Hacker News",
       "published": "2026-07-27T19:46:05+00:00",
       "link": "https://www.techspot.com/news/113243-professor-invisible-prompt-trap-catches-32-students-cheating.html"
@@ -304,14 +339,14 @@ const FEED_DATA = {
     },
     {
       "title": "Apple Will 'Watch Everything Burn' When the AI Bubble Bursts",
-      "summary": "Article URL: https://www.macrumors.com/2026/07/27/ed-zitron-apple-watch-it-burn-ai-bubble-bursts/ Comments URL: https://news.ycombinator.com/item?id=49070427 Points: 248 # Comments: 344",
+      "summary": "Article URL: https://www.macrumors.com/2026/07/27/ed-zitron-apple-watch-it-burn-ai-bubble-bursts/ Comments URL: https://news.ycombinator.com/item?id=49070427 Points: 249 # Comments: 351",
       "source": "Hacker News",
       "published": "2026-07-27T14:42:41+00:00",
       "link": "https://www.macrumors.com/2026/07/27/ed-zitron-apple-watch-it-burn-ai-bubble-bursts/"
     },
     {
       "title": "AI companies spend record sums on Washington lobbying",
-      "summary": "https://archive.ph/PASMJ Comments URL: https://news.ycombinator.com/item?id=49069939 Points: 272 # Comments: 144",
+      "summary": "https://archive.ph/PASMJ Comments URL: https://news.ycombinator.com/item?id=49069939 Points: 273 # Comments: 144",
       "source": "Hacker News",
       "published": "2026-07-27T14:07:48+00:00",
       "link": "https://www.ft.com/content/d8a5f95e-3b6d-463a-a848-c9ef8e2394db"
@@ -332,7 +367,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI companies are shredding rare books",
-      "summary": "https://xcancel.com/HedgieMarkets/status/2081534588485296565 Comments URL: https://news.ycombinator.com/item?id=49068738 Points: 778 # Comments: 505",
+      "summary": "https://xcancel.com/HedgieMarkets/status/2081534588485296565 Comments URL: https://news.ycombinator.com/item?id=49068738 Points: 784 # Comments: 508",
       "source": "Hacker News",
       "published": "2026-07-27T12:32:12+00:00",
       "link": "https://twitter.com/HedgieMarkets/status/2081534588485296565"
@@ -493,14 +528,14 @@ const FEED_DATA = {
     },
     {
       "title": "What is happening to jobs? Separating AI hype from reality",
-      "summary": "Article URL: https://siepr.stanford.edu/publications/policy-brief/what-really-happening-jobs-separating-ai-hype-reality Comments URL: https://news.ycombinator.com/item?id=49052570 Points: 298 # Comments: 380",
+      "summary": "Article URL: https://siepr.stanford.edu/publications/policy-brief/what-really-happening-jobs-separating-ai-hype-reality Comments URL: https://news.ycombinator.com/item?id=49052570 Points: 299 # Comments: 380",
       "source": "Hacker News",
       "published": "2026-07-25T22:51:10+00:00",
       "link": "https://siepr.stanford.edu/publications/policy-brief/what-really-happening-jobs-separating-ai-hype-reality"
     },
     {
       "title": "Cloudflare's new AI traffic options for customers",
-      "summary": "Article URL: https://blog.cloudflare.com/content-independence-day-ai-options/ Comments URL: https://news.ycombinator.com/item?id=49052564 Points: 193 # Comments: 157",
+      "summary": "Article URL: https://blog.cloudflare.com/content-independence-day-ai-options/ Comments URL: https://news.ycombinator.com/item?id=49052564 Points: 194 # Comments: 157",
       "source": "Hacker News",
       "published": "2026-07-25T22:50:49+00:00",
       "link": "https://blog.cloudflare.com/content-independence-day-ai-options/"
@@ -514,7 +549,7 @@ const FEED_DATA = {
     },
     {
       "title": "'AI Mania Is Eviscerating Global Decision-Making'",
-      "summary": "Article URL: https://daringfireball.net/linked/2026/07/25/ai-mania-nikhil-suresh Comments URL: https://news.ycombinator.com/item?id=49051692 Points: 61 # Comments: 19",
+      "summary": "Article URL: https://daringfireball.net/linked/2026/07/25/ai-mania-nikhil-suresh Comments URL: https://news.ycombinator.com/item?id=49051692 Points: 62 # Comments: 19",
       "source": "Hacker News",
       "published": "2026-07-25T21:18:06+00:00",
       "link": "https://daringfireball.net/linked/2026/07/25/ai-mania-nikhil-suresh"
@@ -1365,41 +1400,6 @@ const FEED_DATA = {
       "source": "Hacker News",
       "published": "2026-07-22T12:03:32+00:00",
       "link": "https://www.bbc.com/news/articles/c3ek3gvdnj3o"
-    },
-    {
-      "title": "Samsung deepens its AI empire with a potential billion-euro stake in Europe's hottest AI startup",
-      "summary": "Samsung is in talks to invest up to one billion euros in French AI startup Mistral, which would push the company's valuation to around 20 billion euros.",
-      "source": "The Decoder",
-      "published": "2026-07-22T11:24:08+00:00",
-      "link": "https://the-decoder.com/samsung-deepens-its-ai-empire-with-a-potential-billion-euro-stake-in-europes-hottest-ai-startup/"
-    },
-    {
-      "title": "SenseTime’s Galaxy Project targets domestic AI chip scale-up",
-      "summary": "SenseTime has launched the Galaxy Project, teaming with nearly 20 partners to scale domestic AI chip infrastructure in China.",
-      "source": "AI News",
-      "published": "2026-07-22T11:21:05+00:00",
-      "link": "https://www.artificialintelligence-news.com/news/sensetimes-galaxy-project-targets-domestic-ai-chip-scale-up/"
-    },
-    {
-      "title": "Meta made its own AI detection system. It should have just used Google’s",
-      "summary": "IIn March, Meta's Oversight Board called on the company to \"meet its public commitments and employ its own tools\" to help quell the spread of deceptive generative AI content across platforms.",
-      "source": "The Verge",
-      "published": "2026-07-22T11:00:00+00:00",
-      "link": "https://www.theverge.com/tech/968680/meta-ai-detection-labeling-content-seal-watermarks-synthid"
-    },
-    {
-      "title": "Utility companies promise to spare us from AI’s energy bill",
-      "summary": "In the face of backlash to concerns the AI boom will increase consumer electricity bills, the largest utility companies and data center developers in the US are now promising to do something about it.",
-      "source": "The Verge",
-      "published": "2026-07-22T10:12:13+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/969137/us-utility-ai-electricty-data-center-rate-pledge-trump"
-    },
-    {
-      "title": "Utility companies are promising to spare us from AI’s energy bill",
-      "summary": "In the face of backlash to concerns the AI boom will increase consumer electricity bills, the largest utility companies and data center developers in the US are now promising to do something about it.",
-      "source": "The Verge",
-      "published": "2026-07-22T10:12:13+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/969137/us-utility-ai-electricty-data-center-rate-pledge-trump"
     }
   ]
 };
