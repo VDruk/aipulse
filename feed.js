@@ -1,6 +1,90 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-07-30T15:11:33.189342+00:00",
+  "lastUpdated": "2026-07-30T18:11:24.047833+00:00",
   "items": [
+    {
+      "title": "Ex-OpenAI researcher bets $100 billion will flow into training data because scaling alone won't cut it",
+      "summary": "Former OpenAI employee Andrew Ho and Cambridge researcher Adam Hunt see a growing problem with large language models. Instead of becoming more versatile, the models are becoming more specialized, excelling at coding and math while stagnating or even regressing in other areas.",
+      "source": "The Decoder",
+      "published": "2026-07-30T18:07:17+00:00",
+      "link": "https://the-decoder.com/ex-openai-researcher-bets-100-billion-will-flow-into-training-data-because-scaling-alone-wont-cut-it/"
+    },
+    {
+      "title": "LinkedIn adds a button to report AI-generated ‘slop’",
+      "summary": "LinkedIn is introducing new ways to reduce low-quality AI-generated posts, including a “seems like AI slop” reporting option. It's also replacing its own AI writing feature with a proofreading tool.",
+      "source": "TechCrunch",
+      "published": "2026-07-30T18:05:21+00:00",
+      "link": "https://techcrunch.com/2026/07/30/linkedin-adds-a-button-to-report-ai-generated-slop/"
+    },
+    {
+      "title": "Nvidia’s Open Source Alliance Snubs OpenAI and Anthropic",
+      "summary": "This week on Uncanny Valley, we discuss the open vs. closed source debate in AI, key players in White House AI policy, and how to stop your chatbot logs from showing up in search engine results.",
+      "source": "Wired",
+      "published": "2026-07-30T17:51:10+00:00",
+      "link": "https://www.wired.com/story/nvidias-open-source-alliance-snubs-openai-and-anthropic/"
+    },
+    {
+      "title": "Google DeepMind’s new AI model can control a robot’s entire body",
+      "summary": "Google DeepMind says the latest version of its Gemini Robotics AI model can \"control entire humanoid robots.\" While the previous model focused on controlling a humanoid robot's upper body, Gemini Robotics 2 now supports \"whole-body motions\" ranging from its feet to fingertips,...",
+      "source": "The Verge",
+      "published": "2026-07-30T17:18:45+00:00",
+      "link": "https://www.theverge.com/tech/973276/google-deepmind-gemini-robotics-2-whole-body"
+    },
+    {
+      "title": "Advancing the price-performance frontier with GPT‑5.6",
+      "summary": "Article URL: https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6/ Comments URL: https://news.ycombinator.com/item?id=49112867 Points: 162 # Comments: 82",
+      "source": "Hacker News",
+      "published": "2026-07-30T17:15:51+00:00",
+      "link": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6/"
+    },
+    {
+      "title": "Chrome Needs Twice-a-Week Patching Thanks to AI Bug Hunting",
+      "summary": "The two Chrome updates in June patched more bugs than the 23 updates before them. Now, Google is ramping up its patching schedule thanks to AI-assisted vulnerability discovery.",
+      "source": "Wired",
+      "published": "2026-07-30T17:00:00+00:00",
+      "link": "https://www.wired.com/story/chrome-needs-twice-a-week-patching-thanks-to-ai-bug-hunting-for-now/"
+    },
+    {
+      "title": "Friend re-launches its AI pendant with a speaker that talks to you, for twice the price",
+      "summary": "Do you remember Friend? The Friend that launched an AI pendant, spent $1.8 million of its $2.5 million to acquire friend.com, and plastered the NYC subway with ads promoting artificial companionship?",
+      "source": "The Verge",
+      "published": "2026-07-30T16:33:32+00:00",
+      "link": "https://www.theverge.com/gadgets/973163/friend-re-launches-its-ai-pendant-with-a-speaker-that-talks-to-you-for-twice-the-price"
+    },
+    {
+      "title": "Okta buys AI security startup Permiso; source says for about $200M",
+      "summary": "The deal gives Okta identity threat detection capabilities as enterprises seek to secure AI agents and other non-human identities across cloud environments.",
+      "source": "TechCrunch",
+      "published": "2026-07-30T16:09:42+00:00",
+      "link": "https://techcrunch.com/2026/07/30/okta-buys-ai-security-startup-permiso-source-says-for-about-200m/"
+    },
+    {
+      "title": "The New Friend AI Pendant Can Now Talk Back to You",
+      "summary": "Avi Schiffmann has a new version of his controversial AI companion. It’s more expensive, and you can’t change its personality.",
+      "source": "Wired",
+      "published": "2026-07-30T16:00:00+00:00",
+      "link": "https://www.wired.com/story/the-friend-2-necklace-can-talk-back-to-you-now/"
+    },
+    {
+      "title": "Meta says AI is making it easier to build new apps — and more are coming",
+      "summary": "Meta says AI is making it dramatically easier to build and launch new consumer apps, with CEO Mark Zuckerberg telling investors the company has more new consumer products on the way following a recent wave of releases for Facebook Groups, Marketplace sellers, Instagram, and...",
+      "source": "TechCrunch",
+      "published": "2026-07-30T15:41:16+00:00",
+      "link": "https://techcrunch.com/2026/07/30/meta-says-ai-is-making-it-easier-to-build-new-apps-and-more-are-coming/"
+    },
+    {
+      "title": "Nscale buys Anyscale as it seeks to own more of the AI compute stack",
+      "summary": "British AI neocloud Nscale is buying software startup Anyscale, which helps companies scale their AI workloads across data centers and servers.",
+      "source": "TechCrunch",
+      "published": "2026-07-30T15:19:15+00:00",
+      "link": "https://techcrunch.com/2026/07/30/nscale-buys-anyscale-as-it-seeks-to-own-more-of-the-ai-compute-stack/"
+    },
+    {
+      "title": "Gemini Robotics 2 brings whole body intelligence to robots",
+      "summary": "Article URL: https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/ Comments URL: https://news.ycombinator.com/item?id=49111237 Points: 256 # Comments: 255",
+      "source": "Hacker News",
+      "published": "2026-07-30T15:15:48+00:00",
+      "link": "https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/"
+    },
     {
       "title": "Gemini Robotics 2 Brings Google's AI Into the Physical World",
       "summary": "The latest version of Google DeepMind's AI model includes a significant jump into “physical AGI.” But plopping AI into the real world comes with risks.",
@@ -51,6 +135,13 @@ const FEED_DATA = {
       "link": "https://the-decoder.com/fcc-bans-new-chinese-robots-and-power-inverters-to-protect-us-ai-buildout-from-foreign-threats/"
     },
     {
+      "title": "OpenJDK Interim Policy on Generative AI",
+      "summary": "Article URL: https://openjdk.org/legal/ai Comments URL: https://news.ycombinator.com/item?id=49109165 Points: 53 # Comments: 74",
+      "source": "Hacker News",
+      "published": "2026-07-30T12:36:38+00:00",
+      "link": "https://openjdk.org/legal/ai"
+    },
+    {
       "title": "The Download: tricking LLMs, and reviving geothermal plants",
       "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.",
       "source": "MIT Tech Review",
@@ -58,11 +149,25 @@ const FEED_DATA = {
       "link": "https://www.technologyreview.com/2026/07/30/1140936/the-download-tricking-llms-reviving-geothermal/"
     },
     {
+      "title": "Go LLM SDK for streaming, tool-calling AI backends (plus frontend React lib)",
+      "summary": "Article URL: https://github.com/grafana/ai-sdk Comments URL: https://news.ycombinator.com/item?id=49108778 Points: 51 # Comments: 14",
+      "source": "Hacker News",
+      "published": "2026-07-30T11:55:39+00:00",
+      "link": "https://github.com/grafana/ai-sdk"
+    },
+    {
       "title": "GCC steering committee announces AI policy",
-      "summary": "Article URL: https://lwn.net/Articles/1086041/ Comments URL: https://news.ycombinator.com/item?id=49108685 Points: 151 # Comments: 182",
+      "summary": "Article URL: https://lwn.net/Articles/1086041/ Comments URL: https://news.ycombinator.com/item?id=49108685 Points: 164 # Comments: 199",
       "source": "Hacker News",
       "published": "2026-07-30T11:45:44+00:00",
       "link": "https://lwn.net/Articles/1086041/"
+    },
+    {
+      "title": "Zuckerberg details Meta’s personal AI superintelligence strategy",
+      "summary": "Mark Zuckerberg has published a WSJ op-ed that argues superintelligence must reach individuals, not just a handful of institutions. The Meta chief published the piece as a statement of company philosophy rather than a product announcement.",
+      "source": "AI News",
+      "published": "2026-07-30T11:12:11+00:00",
+      "link": "https://www.artificialintelligence-news.com/news/zuckerberg-details-meta-personal-ai-superintelligence-strategy/"
     },
     {
       "title": "How AI is Changing Linux VPS Security for Businesses",
@@ -136,7 +241,7 @@ const FEED_DATA = {
     },
     {
       "title": "LLM Honeypot",
-      "summary": "Article URL: https://llm2human.pages.dev/ Comments URL: https://news.ycombinator.com/item?id=49104117 Points: 352 # Comments: 96",
+      "summary": "Article URL: https://llm2human.pages.dev/ Comments URL: https://news.ycombinator.com/item?id=49104117 Points: 366 # Comments: 102",
       "source": "Hacker News",
       "published": "2026-07-29T22:51:03+00:00",
       "link": "https://llm2human.pages.dev/"
@@ -171,7 +276,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI's top startups are barely publishing their research",
-      "summary": "Article URL: https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research Comments URL: https://news.ycombinator.com/item?id=49103285 Points: 564 # Comments: 297",
+      "summary": "Article URL: https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research Comments URL: https://news.ycombinator.com/item?id=49103285 Points: 579 # Comments: 308",
       "source": "Hacker News",
       "published": "2026-07-29T21:25:40+00:00",
       "link": "https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research"
@@ -213,7 +318,7 @@ const FEED_DATA = {
     },
     {
       "title": "Commodification of Intelligence: Good, Bad, and Ugly Circular AI Deals",
-      "summary": "Article URL: https://www.emergingtrajectories.com/lh/commodification-and-circularity/ Comments URL: https://news.ycombinator.com/item?id=49101529 Points: 83 # Comments: 47",
+      "summary": "Article URL: https://www.emergingtrajectories.com/lh/commodification-and-circularity/ Comments URL: https://news.ycombinator.com/item?id=49101529 Points: 84 # Comments: 47",
       "source": "Hacker News",
       "published": "2026-07-29T18:57:10+00:00",
       "link": "https://www.emergingtrajectories.com/lh/commodification-and-circularity/"
@@ -304,7 +409,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI in Linux",
-      "summary": "Article URL: https://drewdevault.com/blog/AI-in-Linux/ Comments URL: https://news.ycombinator.com/item?id=49097649 Points: 51 # Comments: 99",
+      "summary": "Article URL: https://drewdevault.com/blog/AI-in-Linux/ Comments URL: https://news.ycombinator.com/item?id=49097649 Points: 51 # Comments: 100",
       "source": "Hacker News",
       "published": "2026-07-29T14:00:03+00:00",
       "link": "https://drewdevault.com/blog/AI-in-Linux/"
@@ -318,7 +423,7 @@ const FEED_DATA = {
     },
     {
       "title": "After the AI Crash",
-      "summary": "Article URL: https://potsandpansbyccg.com/2026/07/29/after-the-ai-crash/ Comments URL: https://news.ycombinator.com/item?id=49096953 Points: 123 # Comments: 218",
+      "summary": "Article URL: https://potsandpansbyccg.com/2026/07/29/after-the-ai-crash/ Comments URL: https://news.ycombinator.com/item?id=49096953 Points: 123 # Comments: 224",
       "source": "Hacker News",
       "published": "2026-07-29T13:00:39+00:00",
       "link": "https://potsandpansbyccg.com/2026/07/29/after-the-ai-crash/"
@@ -367,7 +472,7 @@ const FEED_DATA = {
     },
     {
       "title": "Document-borne AI worms can self-propagate through Copilot for Word",
-      "summary": "Article URL: https://enklypesalt.com/posts/context-collapse-part3-ai-worming-through-word/ Comments URL: https://news.ycombinator.com/item?id=49096188 Points: 375 # Comments: 287",
+      "summary": "Article URL: https://enklypesalt.com/posts/context-collapse-part3-ai-worming-through-word/ Comments URL: https://news.ycombinator.com/item?id=49096188 Points: 377 # Comments: 287",
       "source": "Hacker News",
       "published": "2026-07-29T11:44:33+00:00",
       "link": "https://enklypesalt.com/posts/context-collapse-part3-ai-worming-through-word/"
@@ -437,7 +542,7 @@ const FEED_DATA = {
     },
     {
       "title": "LearnVector – Andrew Ng's AI company building one‑to‑one learning experiences",
-      "summary": "Article URL: https://learnvector.ai/ Comments URL: https://news.ycombinator.com/item?id=49092499 Points: 262 # Comments: 170",
+      "summary": "Article URL: https://learnvector.ai/ Comments URL: https://news.ycombinator.com/item?id=49092499 Points: 262 # Comments: 172",
       "source": "Hacker News",
       "published": "2026-07-29T01:49:19+00:00",
       "link": "https://learnvector.ai/"
@@ -605,7 +710,7 @@ const FEED_DATA = {
     },
     {
       "title": "Google's Beyond Zero: Enterprise Security for the AI Era",
-      "summary": "Article URL: https://spawn-queue.acm.org/doi/10.1145/3819083 Comments URL: https://news.ycombinator.com/item?id=49081644 Points: 155 # Comments: 80",
+      "summary": "Article URL: https://spawn-queue.acm.org/doi/10.1145/3819083 Comments URL: https://news.ycombinator.com/item?id=49081644 Points: 156 # Comments: 80",
       "source": "Hacker News",
       "published": "2026-07-28T09:59:13+00:00",
       "link": "https://spawn-queue.acm.org/doi/10.1145/3819083"
@@ -1295,111 +1400,6 @@ const FEED_DATA = {
       "source": "MIT Tech Review",
       "published": "2026-07-24T12:10:00+00:00",
       "link": "https://www.technologyreview.com/2026/07/24/1140776/the-download-organ-transplant-breakthrough-chinese-chips/"
-    },
-    {
-      "title": "I Tried Building a Real App with AI. It Took a Year",
-      "summary": "Article URL: https://www.alexhyett.com/videos/tried-building-app-with-ai-it-took-a-year/ Comments URL: https://news.ycombinator.com/item?id=49034342 Points: 111 # Comments: 86",
-      "source": "Hacker News",
-      "published": "2026-07-24T12:00:17+00:00",
-      "link": "https://www.alexhyett.com/videos/tried-building-app-with-ai-it-took-a-year/"
-    },
-    {
-      "title": "Claude's voice mode now runs on Anthropic's most capable models across all platforms",
-      "summary": "Voice conversations now run on the more powerful Opus and Sonnet models with access to Gmail, Google Calendar, and Slack.",
-      "source": "The Decoder",
-      "published": "2026-07-24T11:31:49+00:00",
-      "link": "https://the-decoder.com/claudes-voice-mode-now-runs-on-anthropics-most-capable-models-across-all-platforms/"
-    },
-    {
-      "title": "Some Kids Will Never Think AI Is Cool",
-      "summary": "“I think it should stand for artificial idiot,” one 9-year-old says. Here’s why kids of all ages are calling AI “disgusting” and “creepy.”",
-      "source": "Wired",
-      "published": "2026-07-24T10:00:00+00:00",
-      "link": "https://www.wired.com/story/some-kids-will-never-think-ai-is-cool/"
-    },
-    {
-      "title": "Kimi K3 trails frontier US models by a wide margin on cyber exploits, and distillation may explain why",
-      "summary": "The British AI Security Institute and the U.S. Center for AI Standards and Innovation tested Moonshot AI's Kimi K3 on offensive cyber tasks.",
-      "source": "The Decoder",
-      "published": "2026-07-24T09:48:32+00:00",
-      "link": "https://the-decoder.com/kimi-k3-trails-frontier-us-models-by-a-wide-margin-on-cyber-exploits-and-distillation-may-explain-why/"
-    },
-    {
-      "title": "Hetzner is working on LLM Inference",
-      "summary": "Article URL: https://sliplane.io/blog/hetzner-inference Comments URL: https://news.ycombinator.com/item?id=49033087 Points: 155 # Comments: 87",
-      "source": "Hacker News",
-      "published": "2026-07-24T09:24:44+00:00",
-      "link": "https://sliplane.io/blog/hetzner-inference"
-    },
-    {
-      "title": "OpenAI Presence sells enterprise AI agents with engineers attached",
-      "summary": "The newest way to buy enterprise AI agents from OpenAI does not involve buying anything online.",
-      "source": "AI News",
-      "published": "2026-07-24T08:00:00+00:00",
-      "link": "https://www.artificialintelligence-news.com/news/openai-presence-enterprise-ai-agents/"
-    },
-    {
-      "title": "How AI guardrails are impeding the work of offensive cybersecurity researchers",
-      "summary": "We spoke with several cybersecurity researchers, who look for unknown vulnerabilities and develop tools to exploit them, about how OpenAI’s and Anthropic’s guardrails affect their work.",
-      "source": "TechCrunch",
-      "published": "2026-07-24T01:00:00+00:00",
-      "link": "https://techcrunch.com/2026/07/23/how-ai-guardrails-are-impeding-the-work-of-offensive-cybersecurity-researchers/"
-    },
-    {
-      "title": "A taxonomy of omnicidal futures involving artificial intelligence (2025)",
-      "summary": "Article URL: https://arxiv.org/abs/2507.09369 Comments URL: https://news.ycombinator.com/item?id=49029133 Points: 75 # Comments: 82",
-      "source": "Hacker News",
-      "published": "2026-07-23T22:51:13+00:00",
-      "link": "https://arxiv.org/abs/2507.09369"
-    },
-    {
-      "title": "Alexa Plus is getting an AI update to handle more complicated instructions",
-      "summary": "Amazon is launching an update to its Alexa Plus assistant that will allow it to connect to smart home devices in new ways.",
-      "source": "The Verge",
-      "published": "2026-07-23T21:15:06+00:00",
-      "link": "https://www.theverge.com/tech/970399/amazon-alexa-plus-ai-update-smart-home-devices"
-    },
-    {
-      "title": "AMD takes on Nvidia with its Helios AI rack-scale system",
-      "summary": "AMD is challenging its chipmaker rival with a new rack-scale system that will start shipping to customers later this year.",
-      "source": "TechCrunch",
-      "published": "2026-07-23T20:33:02+00:00",
-      "link": "https://techcrunch.com/2026/07/23/amd-takes-on-nvidia-with-its-helios-ai-rack-scale-system/"
-    },
-    {
-      "title": "ChatGPT will give you worse health advice if you don't pay",
-      "summary": "OpenAI is rolling out \"Health in ChatGPT\" to U.S. users, connecting Apple Health, medical records, and wellness apps.",
-      "source": "The Decoder",
-      "published": "2026-07-23T19:30:51+00:00",
-      "link": "https://the-decoder.com/chatgpt-will-give-you-worse-health-advice-if-you-dont-pay/"
-    },
-    {
-      "title": "Claude’s voice mode is now available for Opus and Sonnet",
-      "summary": "Until now, voice mode has only been available on Claude Haiku, Anthropic's faster but less powerful model. Now the company is making its Opus and Sonnet models available in voice mode, and extending its reach into apps like Gmail, Slack, and Canva.",
-      "source": "The Verge",
-      "published": "2026-07-23T19:00:00+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/970065/anthropic-voice-mode-claude-opus-sonnet-haiku-ai"
-    },
-    {
-      "title": "Anthropic updates Claude voice mode with more capable models",
-      "summary": "Claude's new voice model will let you reschedule your meeting or draft an email.",
-      "source": "TechCrunch",
-      "published": "2026-07-23T19:00:00+00:00",
-      "link": "https://techcrunch.com/2026/07/23/anthropic-updates-claude-voice-mode-with-more-capable-models/"
-    },
-    {
-      "title": "Meta’s New Feel-Good AI Ad Uses a Song About the World Ending",
-      "summary": "The clip features the David Bowie track “Five Years,” which includes lyrics such as “Earth was really dying (dying).”",
-      "source": "Wired",
-      "published": "2026-07-23T18:45:52+00:00",
-      "link": "https://www.wired.com/story/meta-david-bowie-apocalypse-ad-is-optimistic-actually/"
-    },
-    {
-      "title": "AegisAI, founded by former Google security execs, lands $36M to stop AI-driven spear phishing",
-      "summary": "AegisAI co-founders developed AI agents that quickly analyze each message as a human would, paying attention to small anomalies that even the most elaborate checklist wouldn’t catch.",
-      "source": "TechCrunch",
-      "published": "2026-07-23T18:38:34+00:00",
-      "link": "https://techcrunch.com/2026/07/23/aegisai-founded-by-former-google-security-execs-lands-36m-to-stop-ai-driven-spear-phishing/"
     }
   ]
 };
