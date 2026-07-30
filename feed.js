@@ -1,6 +1,55 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-07-30T07:34:41.409299+00:00",
+  "lastUpdated": "2026-07-30T10:55:36.915659+00:00",
   "items": [
+    {
+      "title": "How AI is Changing Linux VPS Security for Businesses",
+      "summary": "Cybersecurity wasn’t really something small and mid-sized businesses worried about too much a few years back. That’s changed fast.",
+      "source": "AI News",
+      "published": "2026-07-30T10:41:02+00:00",
+      "link": "https://www.artificialintelligence-news.com/news/how-ai-is-changing-linux-vps-security-for-businesses/"
+    },
+    {
+      "title": "OpenAI’s Hacking Debacle Was a Human Mistake",
+      "summary": "If the generative AI giant had followed well-known security best practices, it’s likely that its AI agent would never have escaped to the open internet and hacked multiple companies.",
+      "source": "Wired",
+      "published": "2026-07-30T10:30:00+00:00",
+      "link": "https://www.wired.com/story/openais-hacking-debacle-was-a-human-mistake/"
+    },
+    {
+      "title": "A fundamental flaw leaves LLMs strikingly vulnerable to attack",
+      "summary": "It is impossible to make large language models fully secure against hacks because of a fundamental flaw in how they work, a team of researchers argue in a paper presented at the International Conference on Machine Learning, a top AI conference, this month.",
+      "source": "MIT Tech Review",
+      "published": "2026-07-30T10:15:19+00:00",
+      "link": "https://www.technologyreview.com/2026/07/30/1140927/a-fundamental-flaw-leaves-llms-vulnerable-to-attack/"
+    },
+    {
+      "title": "LinkedIn Won’t Be Expanding Its Data Centers in the Next Year",
+      "summary": "Despite the ongoing AI boom, LinkedIn is holding the line on compute spending. Instead, it’s challenging engineers to make every GPU count.",
+      "source": "Wired",
+      "published": "2026-07-30T10:15:00+00:00",
+      "link": "https://www.wired.com/story/how-linkedin-is-keeping-its-compute-capacity-flat/"
+    },
+    {
+      "title": "AI Scammers Are Better at Building Trust Than Humans",
+      "summary": "Researchers pitted a person against a Claude agent and found that, after a week of texting, the AI chatbot was more effective at creating “exploitable trust” with others.",
+      "source": "Wired",
+      "published": "2026-07-30T09:30:00+00:00",
+      "link": "https://www.wired.com/story/ai-scammers-are-better-at-building-trust-than-humans/"
+    },
+    {
+      "title": "OpenAI claims GPT-5.6 Sol beats Opus 5 on ARC-AGI-3 with its latest API and two additional settings",
+      "summary": "OpenAI counters Anthropic's ARC-AGI-3 record: GPT-5.6 Sol scores 38.3 percent, but only with its own API features instead of the official test setup, where the model landed at 7.8 percent.",
+      "source": "The Decoder",
+      "published": "2026-07-30T09:03:11+00:00",
+      "link": "https://the-decoder.com/openai-claims-gpt-5-6-sol-beats-opus-5-on-arc-agi-3-with-its-latest-api-and-two-additional-settings/"
+    },
+    {
+      "title": "I Got a Free Meal From a Private Chef—Who Filmed It All to Train Robots",
+      "summary": "A German startup sent a camera-wearing chef to my apartment. In exchange for a free lunch, I let them record every chop and stir to train future humanoids.",
+      "source": "Wired",
+      "published": "2026-07-30T09:00:00+00:00",
+      "link": "https://www.wired.com/story/i-let-a-private-chef-film-my-kitchen-for-robot-training-data/"
+    },
     {
       "title": "Microsoft is openly competing with OpenAI, Anthropic more than ever",
       "summary": "Microsoft pitched its own homegrown AI models, harnesses, and even a Mythos competitor on Wednesday, telling Wall Street it plans for continued growth.",
@@ -17,7 +66,7 @@ const FEED_DATA = {
     },
     {
       "title": "LLM Honeypot",
-      "summary": "Article URL: https://llm2human.pages.dev/ Comments URL: https://news.ycombinator.com/item?id=49104117 Points: 200 # Comments: 53",
+      "summary": "Article URL: https://llm2human.pages.dev/ Comments URL: https://news.ycombinator.com/item?id=49104117 Points: 266 # Comments: 77",
       "source": "Hacker News",
       "published": "2026-07-29T22:51:03+00:00",
       "link": "https://llm2human.pages.dev/"
@@ -52,7 +101,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI's top startups are barely publishing their research",
-      "summary": "Article URL: https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research Comments URL: https://news.ycombinator.com/item?id=49103285 Points: 390 # Comments: 209",
+      "summary": "Article URL: https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research Comments URL: https://news.ycombinator.com/item?id=49103285 Points: 491 # Comments: 249",
       "source": "Hacker News",
       "published": "2026-07-29T21:25:40+00:00",
       "link": "https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research"
@@ -94,7 +143,7 @@ const FEED_DATA = {
     },
     {
       "title": "Commodification of Intelligence: Good, Bad, and Ugly Circular AI Deals",
-      "summary": "Article URL: https://www.emergingtrajectories.com/lh/commodification-and-circularity/ Comments URL: https://news.ycombinator.com/item?id=49101529 Points: 79 # Comments: 44",
+      "summary": "Article URL: https://www.emergingtrajectories.com/lh/commodification-and-circularity/ Comments URL: https://news.ycombinator.com/item?id=49101529 Points: 81 # Comments: 46",
       "source": "Hacker News",
       "published": "2026-07-29T18:57:10+00:00",
       "link": "https://www.emergingtrajectories.com/lh/commodification-and-circularity/"
@@ -164,7 +213,7 @@ const FEED_DATA = {
     },
     {
       "title": "GPT-5.6 vs. Claude Fable 5 for Physical AI, which performs best?",
-      "summary": "Article URL: https://juliahub.com/blog/frontier-models-physical-ai-evaluation Comments URL: https://news.ycombinator.com/item?id=49098388 Points: 93 # Comments: 20",
+      "summary": "Article URL: https://juliahub.com/blog/frontier-models-physical-ai-evaluation Comments URL: https://news.ycombinator.com/item?id=49098388 Points: 96 # Comments: 21",
       "source": "Hacker News",
       "published": "2026-07-29T14:56:28+00:00",
       "link": "https://juliahub.com/blog/frontier-models-physical-ai-evaluation"
@@ -185,7 +234,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI in Linux",
-      "summary": "Article URL: https://drewdevault.com/blog/AI-in-Linux/ Comments URL: https://news.ycombinator.com/item?id=49097649 Points: 50 # Comments: 92",
+      "summary": "Article URL: https://drewdevault.com/blog/AI-in-Linux/ Comments URL: https://news.ycombinator.com/item?id=49097649 Points: 51 # Comments: 95",
       "source": "Hacker News",
       "published": "2026-07-29T14:00:03+00:00",
       "link": "https://drewdevault.com/blog/AI-in-Linux/"
@@ -199,7 +248,7 @@ const FEED_DATA = {
     },
     {
       "title": "After the AI Crash",
-      "summary": "Article URL: https://potsandpansbyccg.com/2026/07/29/after-the-ai-crash/ Comments URL: https://news.ycombinator.com/item?id=49096953 Points: 119 # Comments: 206",
+      "summary": "Article URL: https://potsandpansbyccg.com/2026/07/29/after-the-ai-crash/ Comments URL: https://news.ycombinator.com/item?id=49096953 Points: 120 # Comments: 208",
       "source": "Hacker News",
       "published": "2026-07-29T13:00:39+00:00",
       "link": "https://potsandpansbyccg.com/2026/07/29/after-the-ai-crash/"
@@ -248,7 +297,7 @@ const FEED_DATA = {
     },
     {
       "title": "Document-borne AI worms can self-propagate through Copilot for Word",
-      "summary": "Article URL: https://enklypesalt.com/posts/context-collapse-part3-ai-worming-through-word/ Comments URL: https://news.ycombinator.com/item?id=49096188 Points: 361 # Comments: 282",
+      "summary": "Article URL: https://enklypesalt.com/posts/context-collapse-part3-ai-worming-through-word/ Comments URL: https://news.ycombinator.com/item?id=49096188 Points: 369 # Comments: 283",
       "source": "Hacker News",
       "published": "2026-07-29T11:44:33+00:00",
       "link": "https://enklypesalt.com/posts/context-collapse-part3-ai-worming-through-word/"
@@ -318,7 +367,7 @@ const FEED_DATA = {
     },
     {
       "title": "LearnVector – Andrew Ng's AI company building one‑to‑one learning experiences",
-      "summary": "Article URL: https://learnvector.ai/ Comments URL: https://news.ycombinator.com/item?id=49092499 Points: 259 # Comments: 169",
+      "summary": "Article URL: https://learnvector.ai/ Comments URL: https://news.ycombinator.com/item?id=49092499 Points: 260 # Comments: 170",
       "source": "Hacker News",
       "published": "2026-07-29T01:49:19+00:00",
       "link": "https://learnvector.ai/"
@@ -486,7 +535,7 @@ const FEED_DATA = {
     },
     {
       "title": "Google's Beyond Zero: Enterprise Security for the AI Era",
-      "summary": "Article URL: https://spawn-queue.acm.org/doi/10.1145/3819083 Comments URL: https://news.ycombinator.com/item?id=49081644 Points: 155 # Comments: 79",
+      "summary": "Article URL: https://spawn-queue.acm.org/doi/10.1145/3819083 Comments URL: https://news.ycombinator.com/item?id=49081644 Points: 155 # Comments: 80",
       "source": "Hacker News",
       "published": "2026-07-28T09:59:13+00:00",
       "link": "https://spawn-queue.acm.org/doi/10.1145/3819083"
@@ -682,7 +731,7 @@ const FEED_DATA = {
     },
     {
       "title": "Truth is not a direction: a Tarski attack on LLM probes",
-      "summary": "Article URL: https://abeljansma.nl/2026/07/10/truth-is-not-a-direction.html Comments URL: https://news.ycombinator.com/item?id=49069033 Points: 108 # Comments: 86",
+      "summary": "Article URL: https://abeljansma.nl/2026/07/10/truth-is-not-a-direction.html Comments URL: https://news.ycombinator.com/item?id=49069033 Points: 108 # Comments: 87",
       "source": "Hacker News",
       "published": "2026-07-27T12:56:36+00:00",
       "link": "https://abeljansma.nl/2026/07/10/truth-is-not-a-direction.html"
@@ -737,18 +786,18 @@ const FEED_DATA = {
       "link": "https://www.technologyreview.com/2026/07/27/1140668/building-the-enterprise-environment-for-agentic-ai/"
     },
     {
-      "title": "This Is Donald Trump’s AI Brain Trust",
-      "summary": "“It’s not an argument with two sides, it’s an argument with 10 sides,” one senior administration official tells WIRED about how US AI policy is being shaped.",
-      "source": "Wired",
-      "published": "2026-07-27T10:00:00+00:00",
-      "link": "https://www.wired.com/story/this-is-donald-trumps-ai-brain-trust/"
-    },
-    {
       "title": "How AI is shortening drug discovery timelines in China",
       "summary": "Insilico Medicine has reduced the time needed to produce some drug development candidates to about one year by combining artificial intelligence with laboratory research in China, according to CEO Alex Zhavoronkov.",
       "source": "AI News",
       "published": "2026-07-27T10:00:00+00:00",
       "link": "https://www.artificialintelligence-news.com/news/ai-drug-discovery-china/"
+    },
+    {
+      "title": "This Is Donald Trump’s AI Brain Trust",
+      "summary": "“It’s not an argument with two sides, it’s an argument with 10 sides,” one senior administration official tells WIRED about how US AI policy is being shaped.",
+      "source": "Wired",
+      "published": "2026-07-27T10:00:00+00:00",
+      "link": "https://www.wired.com/story/this-is-donald-trumps-ai-brain-trust/"
     },
     {
       "title": "America’s AI Investment Boom Is Reshaping the Economy",
@@ -1351,55 +1400,6 @@ const FEED_DATA = {
       "source": "Hacker News",
       "published": "2026-07-23T15:42:40+00:00",
       "link": "https://github.com/onecli/onecli"
-    },
-    {
-      "title": "Startup founders urge U.S. government not to shut off Chinese open weight AI",
-      "summary": "https://littletech.org/https://static.politico.com/4a/bf/9c4021d8404386b0a311dcccf0... Comments URL: https://news.ycombinator.com/item?id=49023016 Points: 1063 # Comments: 879",
-      "source": "Hacker News",
-      "published": "2026-07-23T15:18:40+00:00",
-      "link": "https://www.politico.com/news/2026/07/22/startup-founders-urge-trump-not-to-shut-off-chinese-open-weight-ai-01008992"
-    },
-    {
-      "title": "Show HN: Palmier Pro – Open-source macOS video editor built for AI",
-      "summary": "Hi HN, we are Marcos and Harrison, cofounders of Palmier (https://palmier.io). We are building Palmier Pro, an open source macOS video editor, with built-in AI generation and a local MCP server that connects to your agent.",
-      "source": "Hacker News",
-      "published": "2026-07-23T15:11:37+00:00",
-      "link": "https://github.com/palmier-io/palmier-pro"
-    },
-    {
-      "title": "Nvidia is sending GPUs to the moon",
-      "summary": "If there's a place in the universe without GPUs, Nvidia is sending them there.",
-      "source": "TechCrunch",
-      "published": "2026-07-23T15:00:00+00:00",
-      "link": "https://techcrunch.com/2026/07/23/nvidia-is-sending-gpus-to-the-moon/"
-    },
-    {
-      "title": "AI chip startup Etched defies skeptics, hits $10.3B valuation from big-name investors",
-      "summary": "Etched, founded by three Harvard dropouts, has created new chips and memory components that speed up inference on any AI model -- no GPUs required, it says.",
-      "source": "TechCrunch",
-      "published": "2026-07-23T15:00:00+00:00",
-      "link": "https://techcrunch.com/2026/07/23/ai-chip-startup-etched-defies-skeptics-hits-10-3b-valuation-from-big-name-investors/"
-    },
-    {
-      "title": "Google’s Gemini nears billion-user milestone",
-      "summary": "Gemini had over 750 million monthly users in February.",
-      "source": "TechCrunch",
-      "published": "2026-07-23T14:52:44+00:00",
-      "link": "https://techcrunch.com/2026/07/23/google-closes-in-on-another-billion-user-product-with-gemini/"
-    },
-    {
-      "title": "How much energy do data centers and artificial intelligence use?",
-      "summary": "Article URL: https://ourworldindata.org/how-much-energy-do-data-centers-and-artificial-intelligence-use Comments URL: https://news.ycombinator.com/item?id=49022412 Points: 72 # Comments: 74",
-      "source": "Hacker News",
-      "published": "2026-07-23T14:40:30+00:00",
-      "link": "https://ourworldindata.org/how-much-energy-do-data-centers-and-artificial-intelligence-use"
-    },
-    {
-      "title": "Lawmakers prepare bill requiring AI ‘kill switch’",
-      "summary": "Lawmakers are preparing to introduce an \"AI Kill Switch Act\" that would require AI companies to shut down or throttle their systems on orders from the Department of Homeland Security, according to a report from Politico. Reps.",
-      "source": "The Verge",
-      "published": "2026-07-23T14:13:35+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/969939/lawmakers-ai-kill-switch-proposal"
     }
   ]
 };
