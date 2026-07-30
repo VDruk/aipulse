@@ -1,12 +1,82 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-07-30T10:55:36.915659+00:00",
+  "lastUpdated": "2026-07-30T15:11:33.189342+00:00",
   "items": [
+    {
+      "title": "Gemini Robotics 2 Brings Google's AI Into the Physical World",
+      "summary": "The latest version of Google DeepMind's AI model includes a significant jump into “physical AGI.” But plopping AI into the real world comes with risks.",
+      "source": "Wired",
+      "published": "2026-07-30T15:04:22+00:00",
+      "link": "https://www.wired.com/story/google-gemini-can-control-humanoid-robots/"
+    },
+    {
+      "title": "Forward-deployed engineers are the AI industry’s latest talent obsession",
+      "summary": "A new study estimates only 2,000 U.S. engineers have the expertise to deliver meaningful AI ROI, as enterprises race to hire forward-deployed engineers to implement AI at scale.",
+      "source": "TechCrunch",
+      "published": "2026-07-30T15:00:00+00:00",
+      "link": "https://techcrunch.com/2026/07/30/forward-deployed-engineers-are-the-ai-industrys-latest-talent-obsession/"
+    },
+    {
+      "title": "In the Hugging Face breach, OpenAI’s hacker was noisy and fast — but not unstoppable",
+      "summary": "Cybersecurity experts told TechCrunch that one of the biggest lessons to be taken from the OpenAI hack against Hugging Face has nothing to do with AI, but traditional cybersecurity defense.",
+      "source": "TechCrunch",
+      "published": "2026-07-30T14:48:32+00:00",
+      "link": "https://techcrunch.com/2026/07/30/in-the-hugging-face-breach-openais-hacker-was-noisy-and-fast-but-not-unstoppable/"
+    },
+    {
+      "title": "Language models can't spark scientific revolutions, but world models might",
+      "summary": "Can language models spark a scientific revolution? In a position paper titled \"LLMs can't jump,\" Google Deepmind's Tom Zahavy argues they can't.",
+      "source": "The Decoder",
+      "published": "2026-07-30T14:01:33+00:00",
+      "link": "https://the-decoder.com/language-models-cant-spark-scientific-revolutions-but-world-models-might/"
+    },
+    {
+      "title": "Microsoft AI bets on cheap specialist models instead of chasing the frontier",
+      "summary": "Microsoft AI is betting on small specialist models instead of expensive general-purpose ones, according to AI CEO Mustafa Suleyman.",
+      "source": "The Decoder",
+      "published": "2026-07-30T13:11:48+00:00",
+      "link": "https://the-decoder.com/microsoft-ai-bets-on-cheap-specialist-models-instead-of-chasing-the-frontier/"
+    },
+    {
+      "title": "Dili raises $21.7M to bring AI compliance to the infrastructure boom",
+      "summary": "The Series A was led by Khosla Ventures, with participation from Allianz, Rebel Fund, Brick and Mortar Ventures’ Darren Bechtel, and Y Combinator’s Garry Tan.",
+      "source": "TechCrunch",
+      "published": "2026-07-30T13:00:00+00:00",
+      "link": "https://techcrunch.com/2026/07/30/dili-raises-15-million-to-bring-ai-compliance-to-the-infrastructure-boom/"
+    },
+    {
+      "title": "FCC bans new Chinese robots and power inverters to protect US AI buildout from foreign threats",
+      "summary": "The FCC is blocking imports of new Chinese humanoid robots and robot dogs. But the rule's broad definition also sweeps in Roombas, robotic lawn mowers, and delivery bots.",
+      "source": "The Decoder",
+      "published": "2026-07-30T12:47:46+00:00",
+      "link": "https://the-decoder.com/fcc-bans-new-chinese-robots-and-power-inverters-to-protect-us-ai-buildout-from-foreign-threats/"
+    },
+    {
+      "title": "The Download: tricking LLMs, and reviving geothermal plants",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.",
+      "source": "MIT Tech Review",
+      "published": "2026-07-30T12:10:00+00:00",
+      "link": "https://www.technologyreview.com/2026/07/30/1140936/the-download-tricking-llms-reviving-geothermal/"
+    },
+    {
+      "title": "GCC steering committee announces AI policy",
+      "summary": "Article URL: https://lwn.net/Articles/1086041/ Comments URL: https://news.ycombinator.com/item?id=49108685 Points: 151 # Comments: 182",
+      "source": "Hacker News",
+      "published": "2026-07-30T11:45:44+00:00",
+      "link": "https://lwn.net/Articles/1086041/"
+    },
     {
       "title": "How AI is Changing Linux VPS Security for Businesses",
       "summary": "Cybersecurity wasn’t really something small and mid-sized businesses worried about too much a few years back. That’s changed fast.",
       "source": "AI News",
       "published": "2026-07-30T10:41:02+00:00",
       "link": "https://www.artificialintelligence-news.com/news/how-ai-is-changing-linux-vps-security-for-businesses/"
+    },
+    {
+      "title": "OpenAI’s Hacking Debacle Comes Down to Human Error",
+      "summary": "If the generative AI giant had followed well-known security best practices, it’s likely that its AI agent would never have escaped to the open internet and hacked multiple companies.",
+      "source": "Wired",
+      "published": "2026-07-30T10:30:00+00:00",
+      "link": "https://www.wired.com/story/openais-hacking-debacle-was-a-human-mistake/"
     },
     {
       "title": "OpenAI’s Hacking Debacle Was a Human Mistake",
@@ -66,7 +136,7 @@ const FEED_DATA = {
     },
     {
       "title": "LLM Honeypot",
-      "summary": "Article URL: https://llm2human.pages.dev/ Comments URL: https://news.ycombinator.com/item?id=49104117 Points: 266 # Comments: 77",
+      "summary": "Article URL: https://llm2human.pages.dev/ Comments URL: https://news.ycombinator.com/item?id=49104117 Points: 352 # Comments: 96",
       "source": "Hacker News",
       "published": "2026-07-29T22:51:03+00:00",
       "link": "https://llm2human.pages.dev/"
@@ -101,7 +171,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI's top startups are barely publishing their research",
-      "summary": "Article URL: https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research Comments URL: https://news.ycombinator.com/item?id=49103285 Points: 491 # Comments: 249",
+      "summary": "Article URL: https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research Comments URL: https://news.ycombinator.com/item?id=49103285 Points: 564 # Comments: 297",
       "source": "Hacker News",
       "published": "2026-07-29T21:25:40+00:00",
       "link": "https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research"
@@ -143,7 +213,7 @@ const FEED_DATA = {
     },
     {
       "title": "Commodification of Intelligence: Good, Bad, and Ugly Circular AI Deals",
-      "summary": "Article URL: https://www.emergingtrajectories.com/lh/commodification-and-circularity/ Comments URL: https://news.ycombinator.com/item?id=49101529 Points: 81 # Comments: 46",
+      "summary": "Article URL: https://www.emergingtrajectories.com/lh/commodification-and-circularity/ Comments URL: https://news.ycombinator.com/item?id=49101529 Points: 83 # Comments: 47",
       "source": "Hacker News",
       "published": "2026-07-29T18:57:10+00:00",
       "link": "https://www.emergingtrajectories.com/lh/commodification-and-circularity/"
@@ -213,7 +283,7 @@ const FEED_DATA = {
     },
     {
       "title": "GPT-5.6 vs. Claude Fable 5 for Physical AI, which performs best?",
-      "summary": "Article URL: https://juliahub.com/blog/frontier-models-physical-ai-evaluation Comments URL: https://news.ycombinator.com/item?id=49098388 Points: 96 # Comments: 21",
+      "summary": "Article URL: https://juliahub.com/blog/frontier-models-physical-ai-evaluation Comments URL: https://news.ycombinator.com/item?id=49098388 Points: 98 # Comments: 21",
       "source": "Hacker News",
       "published": "2026-07-29T14:56:28+00:00",
       "link": "https://juliahub.com/blog/frontier-models-physical-ai-evaluation"
@@ -234,7 +304,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI in Linux",
-      "summary": "Article URL: https://drewdevault.com/blog/AI-in-Linux/ Comments URL: https://news.ycombinator.com/item?id=49097649 Points: 51 # Comments: 95",
+      "summary": "Article URL: https://drewdevault.com/blog/AI-in-Linux/ Comments URL: https://news.ycombinator.com/item?id=49097649 Points: 51 # Comments: 99",
       "source": "Hacker News",
       "published": "2026-07-29T14:00:03+00:00",
       "link": "https://drewdevault.com/blog/AI-in-Linux/"
@@ -248,7 +318,7 @@ const FEED_DATA = {
     },
     {
       "title": "After the AI Crash",
-      "summary": "Article URL: https://potsandpansbyccg.com/2026/07/29/after-the-ai-crash/ Comments URL: https://news.ycombinator.com/item?id=49096953 Points: 120 # Comments: 208",
+      "summary": "Article URL: https://potsandpansbyccg.com/2026/07/29/after-the-ai-crash/ Comments URL: https://news.ycombinator.com/item?id=49096953 Points: 123 # Comments: 218",
       "source": "Hacker News",
       "published": "2026-07-29T13:00:39+00:00",
       "link": "https://potsandpansbyccg.com/2026/07/29/after-the-ai-crash/"
@@ -297,7 +367,7 @@ const FEED_DATA = {
     },
     {
       "title": "Document-borne AI worms can self-propagate through Copilot for Word",
-      "summary": "Article URL: https://enklypesalt.com/posts/context-collapse-part3-ai-worming-through-word/ Comments URL: https://news.ycombinator.com/item?id=49096188 Points: 369 # Comments: 283",
+      "summary": "Article URL: https://enklypesalt.com/posts/context-collapse-part3-ai-worming-through-word/ Comments URL: https://news.ycombinator.com/item?id=49096188 Points: 375 # Comments: 287",
       "source": "Hacker News",
       "published": "2026-07-29T11:44:33+00:00",
       "link": "https://enklypesalt.com/posts/context-collapse-part3-ai-worming-through-word/"
@@ -367,7 +437,7 @@ const FEED_DATA = {
     },
     {
       "title": "LearnVector – Andrew Ng's AI company building one‑to‑one learning experiences",
-      "summary": "Article URL: https://learnvector.ai/ Comments URL: https://news.ycombinator.com/item?id=49092499 Points: 260 # Comments: 170",
+      "summary": "Article URL: https://learnvector.ai/ Comments URL: https://news.ycombinator.com/item?id=49092499 Points: 262 # Comments: 170",
       "source": "Hacker News",
       "published": "2026-07-29T01:49:19+00:00",
       "link": "https://learnvector.ai/"
@@ -1330,76 +1400,6 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-07-23T18:38:34+00:00",
       "link": "https://techcrunch.com/2026/07/23/aegisai-founded-by-former-google-security-execs-lands-36m-to-stop-ai-driven-spear-phishing/"
-    },
-    {
-      "title": "AI bet goes awry: Oracle fires 21,000 employees",
-      "summary": "Article URL: https://www.msn.com/en-us/money/economy/ai-bet-goes-awry-oracle-fires-21-000-employees/ar-AA28vWuD Comments URL: https://news.ycombinator.com/item?id=49025754 Points: 106 # Comments: 30",
-      "source": "Hacker News",
-      "published": "2026-07-23T18:07:33+00:00",
-      "link": "https://www.msn.com/en-us/money/economy/ai-bet-goes-awry-oracle-fires-21-000-employees/ar-AA28vWuD"
-    },
-    {
-      "title": "Flux 3 generates videos with native audio up to 20 seconds long, a first for Black Forest Labs",
-      "summary": "Black Forest Labs has released Flux 3, a multimodal foundation model that learns from images, video, and audio and can generate video with native sound for the first time.",
-      "source": "The Decoder",
-      "published": "2026-07-23T18:03:01+00:00",
-      "link": "https://the-decoder.com/flux-3-generates-videos-with-native-audio-up-to-20-seconds-long-a-first-for-black-forest-labs/"
-    },
-    {
-      "title": "Rethinking legal education in the AI era",
-      "summary": "Article URL: https://www.law.uchicago.edu/news/ai-strategy-statement Comments URL: https://news.ycombinator.com/item?id=49024980 Points: 132 # Comments: 86",
-      "source": "Hacker News",
-      "published": "2026-07-23T17:12:48+00:00",
-      "link": "https://www.law.uchicago.edu/news/ai-strategy-statement"
-    },
-    {
-      "title": "Runway launches AI model router as generative media gets crowded",
-      "summary": "The Media Router is a tool that automatically selects the best image, video, or audio generation model for a request based on whether a developer prioritizes quality, speed or cost.",
-      "source": "TechCrunch",
-      "published": "2026-07-23T17:07:35+00:00",
-      "link": "https://techcrunch.com/2026/07/23/runway-bets-on-ai-model-routing-as-generative-media-gets-crowded/"
-    },
-    {
-      "title": "One tampered ChatGPT link could spawn a rogue AI agent that took orders from an attacker every five minutes",
-      "summary": "Zenity Labs uncovered \"AgentForger,\" a vulnerability in OpenAI's Agent Builder that let a single manipulated ChatGPT link create an autonomous agent on an employee's behalf.",
-      "source": "The Decoder",
-      "published": "2026-07-23T17:01:30+00:00",
-      "link": "https://the-decoder.com/one-tampered-chatgpt-link-could-spawn-a-rogue-ai-agent-that-took-orders-from-an-attacker-every-five-minutes/"
-    },
-    {
-      "title": "OpenAI is making big claims as it rolls out ChatGPT Health to everyone",
-      "summary": "OpenAI is rolling out ChatGPT Health to everyone in the US on Thursday, allowing more people to connect their medical records and health-tracking information to the chatbot.",
-      "source": "The Verge",
-      "published": "2026-07-23T17:00:00+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/970115/openai-chatgpt-health-launch-claims"
-    },
-    {
-      "title": "OpenAI makes ChatGPT Health available to all US users",
-      "summary": "Users can also integrate their personal data from services like Apple Health, Function, and MyFitnessPal.",
-      "source": "TechCrunch",
-      "published": "2026-07-23T17:00:00+00:00",
-      "link": "https://techcrunch.com/2026/07/23/openai-makes-chatgpt-health-available-to-all-u-s-users/"
-    },
-    {
-      "title": "The arguments against open source AI are bad",
-      "summary": "Article URL: https://tombedor.dev/arguments-against-open-source-ai-are-very-bad/ Comments URL: https://news.ycombinator.com/item?id=49024643 Points: 309 # Comments: 213",
-      "source": "Hacker News",
-      "published": "2026-07-23T16:49:57+00:00",
-      "link": "https://tombedor.dev/arguments-against-open-source-ai-are-very-bad/"
-    },
-    {
-      "title": "Meta launched a new AI optimism ad set to a song about human extinction",
-      "summary": "David Bowie's song \"Five Years,\" which Meta used in a supposedly inspiring advertisement, is about humans learning that they have five years left to live before the apocalypse.",
-      "source": "TechCrunch",
-      "published": "2026-07-23T16:28:50+00:00",
-      "link": "https://techcrunch.com/2026/07/23/meta-launched-a-new-ai-optimism-ad-set-to-a-song-about-human-extinction/"
-    },
-    {
-      "title": "Show HN: OneCLI – OSS credential gateway that keeps secrets out of AI agents",
-      "summary": "hey HN, Jonathan and Guy here, creators of OneCLI (https://onecli.sh/). OneCLI is an open source vault for AI Agents.Traditional vaults are used to store your secrets and, on demand, provide them to you all in a secure way, trusting the person to keep them safe.",
-      "source": "Hacker News",
-      "published": "2026-07-23T15:42:40+00:00",
-      "link": "https://github.com/onecli/onecli"
     }
   ]
 };
