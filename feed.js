@@ -1,5 +1,5 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-07-30T03:55:07.774965+00:00",
+  "lastUpdated": "2026-07-30T07:34:41.409299+00:00",
   "items": [
     {
       "title": "Microsoft is openly competing with OpenAI, Anthropic more than ever",
@@ -17,7 +17,7 @@ const FEED_DATA = {
     },
     {
       "title": "LLM Honeypot",
-      "summary": "Article URL: https://llm2human.pages.dev/ Comments URL: https://news.ycombinator.com/item?id=49104117 Points: 102 # Comments: 40",
+      "summary": "Article URL: https://llm2human.pages.dev/ Comments URL: https://news.ycombinator.com/item?id=49104117 Points: 200 # Comments: 53",
       "source": "Hacker News",
       "published": "2026-07-29T22:51:03+00:00",
       "link": "https://llm2human.pages.dev/"
@@ -52,7 +52,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI's top startups are barely publishing their research",
-      "summary": "Article URL: https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research Comments URL: https://news.ycombinator.com/item?id=49103285 Points: 279 # Comments: 155",
+      "summary": "Article URL: https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research Comments URL: https://news.ycombinator.com/item?id=49103285 Points: 390 # Comments: 209",
       "source": "Hacker News",
       "published": "2026-07-29T21:25:40+00:00",
       "link": "https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research"
@@ -79,6 +79,13 @@ const FEED_DATA = {
       "link": "https://www.theverge.com/policy/972850/xai-grok-minnesota-nudification-lawsuit"
     },
     {
+      "title": "The Hugging Face break-in explained",
+      "summary": "Another way to think about the whole thing is to picture a bear at a campsite. (Really, we are going there.)",
+      "source": "TechCrunch",
+      "published": "2026-07-29T19:44:49+00:00",
+      "link": "https://techcrunch.com/2026/07/29/the-hugging-face-ai-break-in-as-told-through-an-increasingly-committed-bear-metaphor/"
+    },
+    {
       "title": "The Hugging Face AI break-in, as told through an increasingly committed bear metaphor",
       "summary": "Another way to think about the whole thing is to picture a bear at a campsite. (Really, we are going there.)",
       "source": "TechCrunch",
@@ -87,7 +94,7 @@ const FEED_DATA = {
     },
     {
       "title": "Commodification of Intelligence: Good, Bad, and Ugly Circular AI Deals",
-      "summary": "Article URL: https://www.emergingtrajectories.com/lh/commodification-and-circularity/ Comments URL: https://news.ycombinator.com/item?id=49101529 Points: 65 # Comments: 35",
+      "summary": "Article URL: https://www.emergingtrajectories.com/lh/commodification-and-circularity/ Comments URL: https://news.ycombinator.com/item?id=49101529 Points: 79 # Comments: 44",
       "source": "Hacker News",
       "published": "2026-07-29T18:57:10+00:00",
       "link": "https://www.emergingtrajectories.com/lh/commodification-and-circularity/"
@@ -157,7 +164,7 @@ const FEED_DATA = {
     },
     {
       "title": "GPT-5.6 vs. Claude Fable 5 for Physical AI, which performs best?",
-      "summary": "Article URL: https://juliahub.com/blog/frontier-models-physical-ai-evaluation Comments URL: https://news.ycombinator.com/item?id=49098388 Points: 89 # Comments: 19",
+      "summary": "Article URL: https://juliahub.com/blog/frontier-models-physical-ai-evaluation Comments URL: https://news.ycombinator.com/item?id=49098388 Points: 93 # Comments: 20",
       "source": "Hacker News",
       "published": "2026-07-29T14:56:28+00:00",
       "link": "https://juliahub.com/blog/frontier-models-physical-ai-evaluation"
@@ -178,7 +185,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI in Linux",
-      "summary": "Article URL: https://drewdevault.com/blog/AI-in-Linux/ Comments URL: https://news.ycombinator.com/item?id=49097649 Points: 50 # Comments: 89",
+      "summary": "Article URL: https://drewdevault.com/blog/AI-in-Linux/ Comments URL: https://news.ycombinator.com/item?id=49097649 Points: 50 # Comments: 92",
       "source": "Hacker News",
       "published": "2026-07-29T14:00:03+00:00",
       "link": "https://drewdevault.com/blog/AI-in-Linux/"
@@ -192,7 +199,7 @@ const FEED_DATA = {
     },
     {
       "title": "After the AI Crash",
-      "summary": "Article URL: https://potsandpansbyccg.com/2026/07/29/after-the-ai-crash/ Comments URL: https://news.ycombinator.com/item?id=49096953 Points: 115 # Comments: 196",
+      "summary": "Article URL: https://potsandpansbyccg.com/2026/07/29/after-the-ai-crash/ Comments URL: https://news.ycombinator.com/item?id=49096953 Points: 119 # Comments: 206",
       "source": "Hacker News",
       "published": "2026-07-29T13:00:39+00:00",
       "link": "https://potsandpansbyccg.com/2026/07/29/after-the-ai-crash/"
@@ -241,7 +248,7 @@ const FEED_DATA = {
     },
     {
       "title": "Document-borne AI worms can self-propagate through Copilot for Word",
-      "summary": "Article URL: https://enklypesalt.com/posts/context-collapse-part3-ai-worming-through-word/ Comments URL: https://news.ycombinator.com/item?id=49096188 Points: 353 # Comments: 274",
+      "summary": "Article URL: https://enklypesalt.com/posts/context-collapse-part3-ai-worming-through-word/ Comments URL: https://news.ycombinator.com/item?id=49096188 Points: 361 # Comments: 282",
       "source": "Hacker News",
       "published": "2026-07-29T11:44:33+00:00",
       "link": "https://enklypesalt.com/posts/context-collapse-part3-ai-worming-through-word/"
@@ -297,7 +304,7 @@ const FEED_DATA = {
     },
     {
       "title": "Israel Is Paying Millions to Train AI Chatbots How to Talk About Gaza",
-      "summary": "Article URL: https://www.dropsitenews.com/p/israel-brad-parscale-ai-chatbots-gaza Comments URL: https://news.ycombinator.com/item?id=49093509 Points: 52 # Comments: 11",
+      "summary": "Article URL: https://www.dropsitenews.com/p/israel-brad-parscale-ai-chatbots-gaza Comments URL: https://news.ycombinator.com/item?id=49093509 Points: 53 # Comments: 10",
       "source": "Hacker News",
       "published": "2026-07-29T04:46:53+00:00",
       "link": "https://www.dropsitenews.com/p/israel-brad-parscale-ai-chatbots-gaza"
@@ -311,7 +318,7 @@ const FEED_DATA = {
     },
     {
       "title": "LearnVector – Andrew Ng's AI company building one‑to‑one learning experiences",
-      "summary": "Article URL: https://learnvector.ai/ Comments URL: https://news.ycombinator.com/item?id=49092499 Points: 258 # Comments: 167",
+      "summary": "Article URL: https://learnvector.ai/ Comments URL: https://news.ycombinator.com/item?id=49092499 Points: 259 # Comments: 169",
       "source": "Hacker News",
       "published": "2026-07-29T01:49:19+00:00",
       "link": "https://learnvector.ai/"
@@ -514,7 +521,7 @@ const FEED_DATA = {
     },
     {
       "title": "Don't ask an LLM for a confidence score",
-      "summary": "Article URL: https://justinflick.com/2026/07/27/llm-confidence-scores.html Comments URL: https://news.ycombinator.com/item?id=49077443 Points: 90 # Comments: 36",
+      "summary": "Article URL: https://justinflick.com/2026/07/27/llm-confidence-scores.html Comments URL: https://news.ycombinator.com/item?id=49077443 Points: 90 # Comments: 35",
       "source": "Hacker News",
       "published": "2026-07-28T00:06:53+00:00",
       "link": "https://justinflick.com/2026/07/27/llm-confidence-scores.html"
@@ -675,7 +682,7 @@ const FEED_DATA = {
     },
     {
       "title": "Truth is not a direction: a Tarski attack on LLM probes",
-      "summary": "Article URL: https://abeljansma.nl/2026/07/10/truth-is-not-a-direction.html Comments URL: https://news.ycombinator.com/item?id=49069033 Points: 108 # Comments: 84",
+      "summary": "Article URL: https://abeljansma.nl/2026/07/10/truth-is-not-a-direction.html Comments URL: https://news.ycombinator.com/item?id=49069033 Points: 108 # Comments: 86",
       "source": "Hacker News",
       "published": "2026-07-27T12:56:36+00:00",
       "link": "https://abeljansma.nl/2026/07/10/truth-is-not-a-direction.html"
@@ -1393,13 +1400,6 @@ const FEED_DATA = {
       "source": "The Verge",
       "published": "2026-07-23T14:13:35+00:00",
       "link": "https://www.theverge.com/ai-artificial-intelligence/969939/lawmakers-ai-kill-switch-proposal"
-    },
-    {
-      "title": "I think you might be fooling yourself with AI",
-      "summary": "Article URL: https://louwrentius.com/i-think-you-might-be-fooling-yourself-with-ai.html Comments URL: https://news.ycombinator.com/item?id=49021843 Points: 83 # Comments: 167",
-      "source": "Hacker News",
-      "published": "2026-07-23T14:05:43+00:00",
-      "link": "https://louwrentius.com/i-think-you-might-be-fooling-yourself-with-ai.html"
     }
   ]
 };
