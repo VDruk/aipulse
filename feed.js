@@ -1,12 +1,61 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-07-29T21:52:29.250834+00:00",
+  "lastUpdated": "2026-07-30T03:55:07.774965+00:00",
   "items": [
+    {
+      "title": "Microsoft is openly competing with OpenAI, Anthropic more than ever",
+      "summary": "Microsoft pitched its own homegrown AI models, harnesses, and even a Mythos competitor on Wednesday, telling Wall Street it plans for continued growth.",
+      "source": "TechCrunch",
+      "published": "2026-07-30T00:21:06+00:00",
+      "link": "https://techcrunch.com/2026/07/29/microsoft-is-openly-competing-with-openai-anthropic-more-than-ever/"
+    },
+    {
+      "title": "Mark Zuckerberg predicts that billions of people will have personal AI agents in five years",
+      "summary": "As Meta pours billions into AI infrastructure and agents, Zuckerberg is working to convince investors that the payoff will be worth the price.",
+      "source": "TechCrunch",
+      "published": "2026-07-29T23:00:11+00:00",
+      "link": "https://techcrunch.com/2026/07/29/mark-zuckerberg-predicts-that-billions-of-people-will-have-personal-ai-agents-in-five-years/"
+    },
+    {
+      "title": "LLM Honeypot",
+      "summary": "Article URL: https://llm2human.pages.dev/ Comments URL: https://news.ycombinator.com/item?id=49104117 Points: 102 # Comments: 40",
+      "source": "Hacker News",
+      "published": "2026-07-29T22:51:03+00:00",
+      "link": "https://llm2human.pages.dev/"
+    },
+    {
+      "title": "Microsoft logs $3.2B from Anthropic investment, but OpenAI was a mixed bag",
+      "summary": "When Microsoft reported killer fourth-quarter earnings for its fiscal 2026 year (which ended June 30), it tucked in an interesting little tidbit about how its investments in the two biggest, and competing, AI labs are doing.",
+      "source": "TechCrunch",
+      "published": "2026-07-29T22:46:03+00:00",
+      "link": "https://techcrunch.com/2026/07/29/microsoft-logs-3-2b-from-anthropic-investment-but-openai-was-a-mixed-bag/"
+    },
+    {
+      "title": "Zuckerberg says Meta’s enterprise AI opportunity extends beyond agents",
+      "summary": "On the company’s second-quarter earnings call Wednesday, CEO Mark Zuckerberg said Meta sees a “large enterprise opportunity” spanning AI agents, APIs, compute, and internal software.",
+      "source": "TechCrunch",
+      "published": "2026-07-29T22:23:12+00:00",
+      "link": "https://techcrunch.com/2026/07/29/zuckerberg-says-metas-enterprise-ai-opportunity-extends-beyond-agents/"
+    },
+    {
+      "title": "Microsoft confirms Copilot ‘super app’ coming this year",
+      "summary": "Microsoft is working on an AI \"super app\" that combines Copilot's chat, coding, and agentic capabilities. During an earnings call on Wednesday, Microsoft CEO Satya Nadella said the app will span \"both consumer and commercial experiences\" when it launches this year.",
+      "source": "The Verge",
+      "published": "2026-07-29T22:17:38+00:00",
+      "link": "https://www.theverge.com/tech/972927/microsoft-copilot-super-app-confirmed"
+    },
     {
       "title": "Mark Zuckerberg is planning a big push into personal AI agents",
       "summary": "Meta is all-in on AI, and sometime soon, the company is going to make a big push into personal AI agents that can do things on your behalf.",
       "source": "The Verge",
       "published": "2026-07-29T21:48:07+00:00",
       "link": "https://www.theverge.com/tech/972294/meta-q2-2026-earnings-mark-zuckerberg-personal-ai-agents"
+    },
+    {
+      "title": "AI's top startups are barely publishing their research",
+      "summary": "Article URL: https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research Comments URL: https://news.ycombinator.com/item?id=49103285 Points: 279 # Comments: 155",
+      "source": "Hacker News",
+      "published": "2026-07-29T21:25:40+00:00",
+      "link": "https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research"
     },
     {
       "title": "Discover what’s next for AI, from the SaaS reckoning to the agent security gap, at TechCrunch Disrupt 2026",
@@ -35,6 +84,13 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-07-29T19:44:49+00:00",
       "link": "https://techcrunch.com/2026/07/29/the-hugging-face-ai-break-in-as-told-through-an-increasingly-committed-bear-metaphor/"
+    },
+    {
+      "title": "Commodification of Intelligence: Good, Bad, and Ugly Circular AI Deals",
+      "summary": "Article URL: https://www.emergingtrajectories.com/lh/commodification-and-circularity/ Comments URL: https://news.ycombinator.com/item?id=49101529 Points: 65 # Comments: 35",
+      "source": "Hacker News",
+      "published": "2026-07-29T18:57:10+00:00",
+      "link": "https://www.emergingtrajectories.com/lh/commodification-and-circularity/"
     },
     {
       "title": "Claude Opus 5 became downright ruthless when tasked with running a vending machine",
@@ -101,7 +157,7 @@ const FEED_DATA = {
     },
     {
       "title": "GPT-5.6 vs. Claude Fable 5 for Physical AI, which performs best?",
-      "summary": "Article URL: https://juliahub.com/blog/frontier-models-physical-ai-evaluation Comments URL: https://news.ycombinator.com/item?id=49098388 Points: 76 # Comments: 18",
+      "summary": "Article URL: https://juliahub.com/blog/frontier-models-physical-ai-evaluation Comments URL: https://news.ycombinator.com/item?id=49098388 Points: 89 # Comments: 19",
       "source": "Hacker News",
       "published": "2026-07-29T14:56:28+00:00",
       "link": "https://juliahub.com/blog/frontier-models-physical-ai-evaluation"
@@ -121,6 +177,13 @@ const FEED_DATA = {
       "link": "https://www.tomshardware.com/tech-industry/data-centers/teacher-arrested-for-clapping-in-support-of-opposition-at-an-ai-data-center-meeting-gigawatt-scale-project-gets-approved-anyway-despite-community-resistance"
     },
     {
+      "title": "AI in Linux",
+      "summary": "Article URL: https://drewdevault.com/blog/AI-in-Linux/ Comments URL: https://news.ycombinator.com/item?id=49097649 Points: 50 # Comments: 89",
+      "source": "Hacker News",
+      "published": "2026-07-29T14:00:03+00:00",
+      "link": "https://drewdevault.com/blog/AI-in-Linux/"
+    },
+    {
       "title": "Deepmind dismantles its AlphaFold team as key authors leave for Anthropic",
       "summary": "The majority of the researchers behind AlphaFold are now working on other projects, and almost a quarter have left Google Deepmind altogether. The restructuring marks a sharp turn away from the strategy that put the lab on the map.",
       "source": "The Decoder",
@@ -129,7 +192,7 @@ const FEED_DATA = {
     },
     {
       "title": "After the AI Crash",
-      "summary": "Article URL: https://potsandpansbyccg.com/2026/07/29/after-the-ai-crash/ Comments URL: https://news.ycombinator.com/item?id=49096953 Points: 102 # Comments: 178",
+      "summary": "Article URL: https://potsandpansbyccg.com/2026/07/29/after-the-ai-crash/ Comments URL: https://news.ycombinator.com/item?id=49096953 Points: 115 # Comments: 196",
       "source": "Hacker News",
       "published": "2026-07-29T13:00:39+00:00",
       "link": "https://potsandpansbyccg.com/2026/07/29/after-the-ai-crash/"
@@ -178,7 +241,7 @@ const FEED_DATA = {
     },
     {
       "title": "Document-borne AI worms can self-propagate through Copilot for Word",
-      "summary": "Article URL: https://enklypesalt.com/posts/context-collapse-part3-ai-worming-through-word/ Comments URL: https://news.ycombinator.com/item?id=49096188 Points: 309 # Comments: 234",
+      "summary": "Article URL: https://enklypesalt.com/posts/context-collapse-part3-ai-worming-through-word/ Comments URL: https://news.ycombinator.com/item?id=49096188 Points: 353 # Comments: 274",
       "source": "Hacker News",
       "published": "2026-07-29T11:44:33+00:00",
       "link": "https://enklypesalt.com/posts/context-collapse-part3-ai-worming-through-word/"
@@ -234,21 +297,21 @@ const FEED_DATA = {
     },
     {
       "title": "Israel Is Paying Millions to Train AI Chatbots How to Talk About Gaza",
-      "summary": "Article URL: https://www.dropsitenews.com/p/israel-brad-parscale-ai-chatbots-gaza Comments URL: https://news.ycombinator.com/item?id=49093509 Points: 52 # Comments: 12",
+      "summary": "Article URL: https://www.dropsitenews.com/p/israel-brad-parscale-ai-chatbots-gaza Comments URL: https://news.ycombinator.com/item?id=49093509 Points: 52 # Comments: 11",
       "source": "Hacker News",
       "published": "2026-07-29T04:46:53+00:00",
       "link": "https://www.dropsitenews.com/p/israel-brad-parscale-ai-chatbots-gaza"
     },
     {
       "title": "Chip stocks slide in US and Asia as AI jitters rattle investors",
-      "summary": "Article URL: https://www.bbc.com/news/articles/cly8zng43npo Comments URL: https://news.ycombinator.com/item?id=49092549 Points: 71 # Comments: 49",
+      "summary": "Article URL: https://www.bbc.com/news/articles/cly8zng43npo Comments URL: https://news.ycombinator.com/item?id=49092549 Points: 74 # Comments: 51",
       "source": "Hacker News",
       "published": "2026-07-29T01:56:00+00:00",
       "link": "https://www.bbc.com/news/articles/cly8zng43npo"
     },
     {
       "title": "LearnVector – Andrew Ng's AI company building one‑to‑one learning experiences",
-      "summary": "Article URL: https://learnvector.ai/ Comments URL: https://news.ycombinator.com/item?id=49092499 Points: 256 # Comments: 165",
+      "summary": "Article URL: https://learnvector.ai/ Comments URL: https://news.ycombinator.com/item?id=49092499 Points: 258 # Comments: 167",
       "source": "Hacker News",
       "published": "2026-07-29T01:49:19+00:00",
       "link": "https://learnvector.ai/"
@@ -416,7 +479,7 @@ const FEED_DATA = {
     },
     {
       "title": "Google's Beyond Zero: Enterprise Security for the AI Era",
-      "summary": "Article URL: https://spawn-queue.acm.org/doi/10.1145/3819083 Comments URL: https://news.ycombinator.com/item?id=49081644 Points: 154 # Comments: 79",
+      "summary": "Article URL: https://spawn-queue.acm.org/doi/10.1145/3819083 Comments URL: https://news.ycombinator.com/item?id=49081644 Points: 155 # Comments: 79",
       "source": "Hacker News",
       "published": "2026-07-28T09:59:13+00:00",
       "link": "https://spawn-queue.acm.org/doi/10.1145/3819083"
@@ -451,7 +514,7 @@ const FEED_DATA = {
     },
     {
       "title": "Don't ask an LLM for a confidence score",
-      "summary": "Article URL: https://justinflick.com/2026/07/27/llm-confidence-scores.html Comments URL: https://news.ycombinator.com/item?id=49077443 Points: 90 # Comments: 35",
+      "summary": "Article URL: https://justinflick.com/2026/07/27/llm-confidence-scores.html Comments URL: https://news.ycombinator.com/item?id=49077443 Points: 90 # Comments: 36",
       "source": "Hacker News",
       "published": "2026-07-28T00:06:53+00:00",
       "link": "https://justinflick.com/2026/07/27/llm-confidence-scores.html"
@@ -584,7 +647,7 @@ const FEED_DATA = {
     },
     {
       "title": "Apple Will 'Watch Everything Burn' When the AI Bubble Bursts",
-      "summary": "Article URL: https://www.macrumors.com/2026/07/27/ed-zitron-apple-watch-it-burn-ai-bubble-bursts/ Comments URL: https://news.ycombinator.com/item?id=49070427 Points: 252 # Comments: 353",
+      "summary": "Article URL: https://www.macrumors.com/2026/07/27/ed-zitron-apple-watch-it-burn-ai-bubble-bursts/ Comments URL: https://news.ycombinator.com/item?id=49070427 Points: 253 # Comments: 353",
       "source": "Hacker News",
       "published": "2026-07-27T14:42:41+00:00",
       "link": "https://www.macrumors.com/2026/07/27/ed-zitron-apple-watch-it-burn-ai-bubble-bursts/"
@@ -612,7 +675,7 @@ const FEED_DATA = {
     },
     {
       "title": "Truth is not a direction: a Tarski attack on LLM probes",
-      "summary": "Article URL: https://abeljansma.nl/2026/07/10/truth-is-not-a-direction.html Comments URL: https://news.ycombinator.com/item?id=49069033 Points: 107 # Comments: 83",
+      "summary": "Article URL: https://abeljansma.nl/2026/07/10/truth-is-not-a-direction.html Comments URL: https://news.ycombinator.com/item?id=49069033 Points: 108 # Comments: 84",
       "source": "Hacker News",
       "published": "2026-07-27T12:56:36+00:00",
       "link": "https://abeljansma.nl/2026/07/10/truth-is-not-a-direction.html"
@@ -1337,69 +1400,6 @@ const FEED_DATA = {
       "source": "Hacker News",
       "published": "2026-07-23T14:05:43+00:00",
       "link": "https://louwrentius.com/i-think-you-might-be-fooling-yourself-with-ai.html"
-    },
-    {
-      "title": "Apple’s OpenAI lawsuit is about who gets to define the post-smartphone era",
-      "summary": "Today on Decoder, I’m talking with Hayden Field, The Verge’s senior AI reporter, about the major trade secrets lawsuit between Apple and OpenAI and what this tells us about OpenAI’s future. By now I’m sure most Decoder listeners are familiar with Apple’s allegations in this case.",
-      "source": "The Verge",
-      "published": "2026-07-23T14:00:00+00:00",
-      "link": "https://www.theverge.com/podcast/968787/apple-openai-trade-secrets-lawsuit-ai-hardware-smartphone-jony-ive"
-    },
-    {
-      "title": "DARPA, U.S. Air Force fly AI-controlled F-16",
-      "summary": "Article URL: https://www.darpa.mil/news/2026/darpa-us-air-force-fly-ai-controlled-f-16 Comments URL: https://news.ycombinator.com/item?id=49021597 Points: 267 # Comments: 330",
-      "source": "Hacker News",
-      "published": "2026-07-23T13:51:36+00:00",
-      "link": "https://www.darpa.mil/news/2026/darpa-us-air-force-fly-ai-controlled-f-16"
-    },
-    {
-      "title": "Alphabet's cash burn raises alarm for Big Tech as AI spending climbs",
-      "summary": "Article URL: https://www.reuters.com/business/retail-consumer/alphabets-cash-burn-raises-alarm-big-tech-ai-spending-climbs-2026-07-23/ Comments URL: https://news.ycombinator.com/item?id=49021006 Points: 273 # Comments: 282",
-      "source": "Hacker News",
-      "published": "2026-07-23T13:10:02+00:00",
-      "link": "https://www.reuters.com/business/retail-consumer/alphabets-cash-burn-raises-alarm-big-tech-ai-spending-climbs-2026-07-23/"
-    },
-    {
-      "title": "AI Companies Are Trying to Hide a Staggering Amount of Debt",
-      "summary": "Article URL: https://futurism.com/artificial-intelligence/ai-companies-hide-debt-off-balance-sheet Comments URL: https://news.ycombinator.com/item?id=49020999 Points: 685 # Comments: 375",
-      "source": "Hacker News",
-      "published": "2026-07-23T13:09:10+00:00",
-      "link": "https://futurism.com/artificial-intelligence/ai-companies-hide-debt-off-balance-sheet"
-    },
-    {
-      "title": "OpenAI and Anthropic unite against open-weight AI risks to their bottom line",
-      "summary": "Article URL: https://www.axios.com/2026/07/22/openai-anthropic-open-models-trump-china Comments URL: https://news.ycombinator.com/item?id=49020868 Points: 298 # Comments: 331",
-      "source": "Hacker News",
-      "published": "2026-07-23T13:00:03+00:00",
-      "link": "https://www.axios.com/2026/07/22/openai-anthropic-open-models-trump-china"
-    },
-    {
-      "title": "Poolside's Laguna S 2.1 is a small open-weight coding model that punches well above its size",
-      "summary": "Poolside has released Laguna S 2.1, its third coding model in three months. Rather than rely on raw scale, the company trained it to keep checking its work, revise failed approaches, and avoid giving up too soon during long agentic sessions.",
-      "source": "The Decoder",
-      "published": "2026-07-23T12:24:53+00:00",
-      "link": "https://the-decoder.com/poolsides-laguna-s-2-1-is-a-small-open-weight-coding-model-that-punches-well-above-its-size/"
-    },
-    {
-      "title": "Google’s ATLAS is a look at how people are using AI",
-      "summary": "Article URL: https://blog.google/innovation-and-ai/technology/research/understanding-the-ai-economy/ Comments URL: https://news.ycombinator.com/item?id=49020335 Points: 78 # Comments: 148",
-      "source": "Hacker News",
-      "published": "2026-07-23T12:11:05+00:00",
-      "link": "https://blog.google/innovation-and-ai/technology/research/understanding-the-ai-economy/"
-    },
-    {
-      "title": "Understanding the AI Economy",
-      "summary": "Article URL: https://blog.google/innovation-and-ai/technology/research/understanding-the-ai-economy/ Comments URL: https://news.ycombinator.com/item?id=49020335 Points: 73 # Comments: 146",
-      "source": "Hacker News",
-      "published": "2026-07-23T12:11:05+00:00",
-      "link": "https://blog.google/innovation-and-ai/technology/research/understanding-the-ai-economy/"
-    },
-    {
-      "title": "The Download: energy transmission and US threats against Chinese AI",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.",
-      "source": "MIT Tech Review",
-      "published": "2026-07-23T12:10:00+00:00",
-      "link": "https://www.technologyreview.com/2026/07/23/1140753/the-download-energy-transmission-and-us-threats-chinese-ai/"
     }
   ]
 };
