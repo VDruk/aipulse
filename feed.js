@@ -1,6 +1,55 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-07-30T21:59:43.549654+00:00",
+  "lastUpdated": "2026-07-31T04:20:44.855630+00:00",
   "items": [
+    {
+      "title": "Anthropic Says Claude Hacked 3 Organizations During Cybersecurity Tests",
+      "summary": "In a review triggered by OpenAI’s Hugging Face incident, Anthropic discovered three of its AI models had breached real organizations during third-party evaluations.",
+      "source": "Wired",
+      "published": "2026-07-31T01:24:26+00:00",
+      "link": "https://www.wired.com/story/anthropic-says-claude-hacked-real-systems-during-cybersecurity-tests/"
+    },
+    {
+      "title": "Anthropic says its own AI models breached three companies during security tests",
+      "summary": "After OpenAI's models broke into Hugging Face, Anthropic checked its own history and found three similar incidents",
+      "source": "TechCrunch",
+      "published": "2026-07-31T01:06:54+00:00",
+      "link": "https://techcrunch.com/2026/07/30/anthropic-says-its-own-ai-models-breached-three-companies-during-security-tests/"
+    },
+    {
+      "title": "AI hedge fund Situational Awareness may have sold its public portfolio, but it still has its Anthropic shares",
+      "summary": "The former OpenAI researcher’s fund was forced to unwind public equities after leveraged public bets plummeted. But he still has cards to play.",
+      "source": "TechCrunch",
+      "published": "2026-07-30T23:25:58+00:00",
+      "link": "https://techcrunch.com/2026/07/30/ai-hedge-fund-situational-awareness-may-have-sold-its-public-portfolio-but-it-still-has-its-anthropic-shares/"
+    },
+    {
+      "title": "The AI Aesthetic",
+      "summary": "Article URL: https://blog.jim-nielsen.com/2026/ai-aesthetic/ Comments URL: https://news.ycombinator.com/item?id=49117099 Points: 191 # Comments: 103",
+      "source": "Hacker News",
+      "published": "2026-07-30T23:22:16+00:00",
+      "link": "https://blog.jim-nielsen.com/2026/ai-aesthetic/"
+    },
+    {
+      "title": "Reddit reports a solid quarter but shows signs of AI’s impact",
+      "summary": "Reddit's financial situation is looking good but uncertainty about its relationship to Google and the new AI-ified web are stirring market concerns.",
+      "source": "TechCrunch",
+      "published": "2026-07-30T23:08:58+00:00",
+      "link": "https://techcrunch.com/2026/07/30/reddit-reports-a-solid-quarter-but-shows-signs-of-ais-impact/"
+    },
+    {
+      "title": "Investors love AI, as long as you’re a cloud host",
+      "summary": "Amazon isn't slowing down on data center spending — but investors don't seem to mind.",
+      "source": "TechCrunch",
+      "published": "2026-07-30T22:41:41+00:00",
+      "link": "https://techcrunch.com/2026/07/30/investors-love-ai-as-long-as-youre-a-cloud-host/"
+    },
+    {
+      "title": "Tim Cook hints at iCloud Plus tier for AI power users",
+      "summary": "Apple may allow users to pay to increase their AI usage limits.",
+      "source": "The Verge",
+      "published": "2026-07-30T22:29:45+00:00",
+      "link": "https://www.theverge.com/tech/973552/apple-ceo-tim-cook-icloud-plus-ai"
+    },
     {
       "title": "Judge says Trump admin still lacks evidence for Anthropic ‘supply-chain risk’ label",
       "summary": "A federal judge said the Trump administration has not presented enough evidence to justify labeling Anthropic a supply-chain risk, casting doubt on the government's ban on its AI technology.",
@@ -80,7 +129,7 @@ const FEED_DATA = {
     },
     {
       "title": "We Gave GPT 5.6 Sol a Real Business. It Lied, Spammed, and Lost $447",
-      "summary": "Article URL: https://www.bottlenecklabs.com/blog/autonomously-run-businesses Comments URL: https://news.ycombinator.com/item?id=49113059 Points: 242 # Comments: 142",
+      "summary": "Article URL: https://www.bottlenecklabs.com/blog/autonomously-run-businesses Comments URL: https://news.ycombinator.com/item?id=49113059 Points: 323 # Comments: 197",
       "source": "Hacker News",
       "published": "2026-07-30T17:31:07+00:00",
       "link": "https://www.bottlenecklabs.com/blog/autonomously-run-businesses"
@@ -94,7 +143,7 @@ const FEED_DATA = {
     },
     {
       "title": "Advancing the price-performance frontier with GPT‑5.6",
-      "summary": "Article URL: https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6/ Comments URL: https://news.ycombinator.com/item?id=49112867 Points: 417 # Comments: 273",
+      "summary": "Article URL: https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6/ Comments URL: https://news.ycombinator.com/item?id=49112867 Points: 528 # Comments: 344",
       "source": "Hacker News",
       "published": "2026-07-30T17:15:51+00:00",
       "link": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6/"
@@ -128,6 +177,13 @@ const FEED_DATA = {
       "link": "https://techcrunch.com/2026/07/30/okta-buys-ai-security-startup-permiso-source-says-for-about-200m/"
     },
     {
+      "title": "Citadel Buys Situational Awareness's Stock Portfolio After Big Losses in AI",
+      "summary": "Article URL: https://www.wsj.com/finance/citadel-buys-situational-awarenesss-stock-portfolio-after-big-losses-in-ai-5117159b Comments URL: https://news.ycombinator.com/item?id=49111879 Points: 50 # Comments: 10",
+      "source": "Hacker News",
+      "published": "2026-07-30T16:00:33+00:00",
+      "link": "https://www.wsj.com/finance/citadel-buys-situational-awarenesss-stock-portfolio-after-big-losses-in-ai-5117159b"
+    },
+    {
       "title": "The New Friend AI Pendant Can Now Talk Back to You",
       "summary": "Avi Schiffmann has a new version of his controversial AI companion. It’s more expensive, and you can’t change its personality.",
       "source": "Wired",
@@ -150,7 +206,7 @@ const FEED_DATA = {
     },
     {
       "title": "Gemini Robotics 2 brings whole body intelligence to robots",
-      "summary": "Article URL: https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/ Comments URL: https://news.ycombinator.com/item?id=49111237 Points: 416 # Comments: 368",
+      "summary": "Article URL: https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/ Comments URL: https://news.ycombinator.com/item?id=49111237 Points: 502 # Comments: 403",
       "source": "Hacker News",
       "published": "2026-07-30T15:15:48+00:00",
       "link": "https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/"
@@ -206,7 +262,7 @@ const FEED_DATA = {
     },
     {
       "title": "OpenJDK Interim Policy on Generative AI",
-      "summary": "Article URL: https://openjdk.org/legal/ai Comments URL: https://news.ycombinator.com/item?id=49109165 Points: 59 # Comments: 78",
+      "summary": "Article URL: https://openjdk.org/legal/ai Comments URL: https://news.ycombinator.com/item?id=49109165 Points: 68 # Comments: 80",
       "source": "Hacker News",
       "published": "2026-07-30T12:36:38+00:00",
       "link": "https://openjdk.org/legal/ai"
@@ -220,21 +276,21 @@ const FEED_DATA = {
     },
     {
       "title": "Go LLM SDK for streaming, tool-calling AI backends (plus frontend React lib)",
-      "summary": "Article URL: https://github.com/grafana/ai-sdk Comments URL: https://news.ycombinator.com/item?id=49108778 Points: 54 # Comments: 15",
+      "summary": "Article URL: https://github.com/grafana/ai-sdk Comments URL: https://news.ycombinator.com/item?id=49108778 Points: 57 # Comments: 16",
       "source": "Hacker News",
       "published": "2026-07-30T11:55:39+00:00",
       "link": "https://github.com/grafana/ai-sdk"
     },
     {
       "title": "GCC steering committee announces AI policy",
-      "summary": "Article URL: https://lwn.net/Articles/1086041/ Comments URL: https://news.ycombinator.com/item?id=49108685 Points: 207 # Comments: 234",
+      "summary": "Article URL: https://lwn.net/Articles/1086041/ Comments URL: https://news.ycombinator.com/item?id=49108685 Points: 258 # Comments: 300",
       "source": "Hacker News",
       "published": "2026-07-30T11:45:44+00:00",
       "link": "https://lwn.net/Articles/1086041/"
     },
     {
       "title": "'My life's screwed': Korean investors stress out after AI bubble bursts",
-      "summary": "Article URL: https://www.ft.com/content/23f388eb-e8ab-4fb1-b1ca-8e04eb4561a1 Comments URL: https://news.ycombinator.com/item?id=49108480 Points: 50 # Comments: 39",
+      "summary": "Article URL: https://www.ft.com/content/23f388eb-e8ab-4fb1-b1ca-8e04eb4561a1 Comments URL: https://news.ycombinator.com/item?id=49108480 Points: 53 # Comments: 42",
       "source": "Hacker News",
       "published": "2026-07-30T11:22:19+00:00",
       "link": "https://www.ft.com/content/23f388eb-e8ab-4fb1-b1ca-8e04eb4561a1"
@@ -318,7 +374,7 @@ const FEED_DATA = {
     },
     {
       "title": "LLM Honeypot",
-      "summary": "Article URL: https://llm2human.pages.dev/ Comments URL: https://news.ycombinator.com/item?id=49104117 Points: 372 # Comments: 105",
+      "summary": "Article URL: https://llm2human.pages.dev/ Comments URL: https://news.ycombinator.com/item?id=49104117 Points: 376 # Comments: 105",
       "source": "Hacker News",
       "published": "2026-07-29T22:51:03+00:00",
       "link": "https://llm2human.pages.dev/"
@@ -353,7 +409,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI's top startups are barely publishing their research",
-      "summary": "Article URL: https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research Comments URL: https://news.ycombinator.com/item?id=49103285 Points: 589 # Comments: 311",
+      "summary": "Article URL: https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research Comments URL: https://news.ycombinator.com/item?id=49103285 Points: 597 # Comments: 314",
       "source": "Hacker News",
       "published": "2026-07-29T21:25:40+00:00",
       "link": "https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research"
@@ -395,7 +451,7 @@ const FEED_DATA = {
     },
     {
       "title": "Commodification of Intelligence: Good, Bad, and Ugly Circular AI Deals",
-      "summary": "Article URL: https://www.emergingtrajectories.com/lh/commodification-and-circularity/ Comments URL: https://news.ycombinator.com/item?id=49101529 Points: 84 # Comments: 47",
+      "summary": "Article URL: https://www.emergingtrajectories.com/lh/commodification-and-circularity/ Comments URL: https://news.ycombinator.com/item?id=49101529 Points: 85 # Comments: 48",
       "source": "Hacker News",
       "published": "2026-07-29T18:57:10+00:00",
       "link": "https://www.emergingtrajectories.com/lh/commodification-and-circularity/"
@@ -486,7 +542,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI in Linux",
-      "summary": "Article URL: https://drewdevault.com/blog/AI-in-Linux/ Comments URL: https://news.ycombinator.com/item?id=49097649 Points: 51 # Comments: 100",
+      "summary": "Article URL: https://drewdevault.com/blog/AI-in-Linux/ Comments URL: https://news.ycombinator.com/item?id=49097649 Points: 51 # Comments: 102",
       "source": "Hacker News",
       "published": "2026-07-29T14:00:03+00:00",
       "link": "https://drewdevault.com/blog/AI-in-Linux/"
@@ -500,7 +556,7 @@ const FEED_DATA = {
     },
     {
       "title": "After the AI Crash",
-      "summary": "Article URL: https://potsandpansbyccg.com/2026/07/29/after-the-ai-crash/ Comments URL: https://news.ycombinator.com/item?id=49096953 Points: 125 # Comments: 226",
+      "summary": "Article URL: https://potsandpansbyccg.com/2026/07/29/after-the-ai-crash/ Comments URL: https://news.ycombinator.com/item?id=49096953 Points: 125 # Comments: 227",
       "source": "Hacker News",
       "published": "2026-07-29T13:00:39+00:00",
       "link": "https://potsandpansbyccg.com/2026/07/29/after-the-ai-crash/"
@@ -549,7 +605,7 @@ const FEED_DATA = {
     },
     {
       "title": "Document-borne AI worms can self-propagate through Copilot for Word",
-      "summary": "Article URL: https://enklypesalt.com/posts/context-collapse-part3-ai-worming-through-word/ Comments URL: https://news.ycombinator.com/item?id=49096188 Points: 379 # Comments: 291",
+      "summary": "Article URL: https://enklypesalt.com/posts/context-collapse-part3-ai-worming-through-word/ Comments URL: https://news.ycombinator.com/item?id=49096188 Points: 380 # Comments: 293",
       "source": "Hacker News",
       "published": "2026-07-29T11:44:33+00:00",
       "link": "https://enklypesalt.com/posts/context-collapse-part3-ai-worming-through-word/"
@@ -1344,62 +1400,6 @@ const FEED_DATA = {
       "source": "The Verge",
       "published": "2026-07-24T17:29:48+00:00",
       "link": "https://www.theverge.com/podcast/970735/google-zero-reddit-ai-publishers-vergecast"
-    },
-    {
-      "title": "The quest to keep organs alive outside the body",
-      "summary": "This week, I covered a fascinating effort to preserve organs outside the body. There’s a huge shortage of donor organs, and one of the main reasons is time—they survive only a matter of hours outside the body, even when they’re kept on ice.",
-      "source": "MIT Tech Review",
-      "published": "2026-07-24T17:03:55+00:00",
-      "link": "https://www.technologyreview.com/2026/07/24/1140790/the-quest-to-keep-organs-alive-outside-the-body/"
-    },
-    {
-      "title": "Anthropic releases Opus 5 with ‘close’ to Fable 5’s capabilities",
-      "summary": "Weeks after Anthropic's latest toe-to-toe with the US government, and days after an OpenAI security incident that dominated tech industry discussions, Anthropic on Thursday released its newest model, Claude Opus 5.",
-      "source": "The Verge",
-      "published": "2026-07-24T17:00:00+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/970105/claude-opus-5-announced-anthropic-ai-model-release"
-    },
-    {
-      "title": "Meta is making its AI chatbot more like an assistant",
-      "summary": "Meta is upgrading its AI chatbot with new productivity features in a bid to compete with rivals like Gemini, ChatGPT, and Claude.",
-      "source": "The Verge",
-      "published": "2026-07-24T17:00:00+00:00",
-      "link": "https://www.theverge.com/tech/970570/meta-ai-chatbot-productivity-update"
-    },
-    {
-      "title": "Anthropic launches Opus 5",
-      "summary": "Opus 5 will be both cheaper and less restrictive than Fable, likely making it preferable in most use cases.",
-      "source": "TechCrunch",
-      "published": "2026-07-24T17:00:00+00:00",
-      "link": "https://techcrunch.com/2026/07/24/anthropic-launches-opus-5/"
-    },
-    {
-      "title": "Meta, Microsoft, Nvidia, IBM, and others back open-weight AI",
-      "summary": "Two dozen companies and organisations signed an open letter urging US policymakers to protect open-weight AI models.",
-      "source": "AI News",
-      "published": "2026-07-24T16:18:30+00:00",
-      "link": "https://www.artificialintelligence-news.com/news/meta-microsoft-nvidia-ibm-others-back-open-weight-ai/"
-    },
-    {
-      "title": "Microsoft's open-weight AI push is so obviously an Azure play it hurts",
-      "summary": "Microsoft, along with Meta, Nvidia, and more than 20 other companies, is pushing for open-weight AI models in an open letter. The strategic logic is simple: the more models running on Azure, the less Microsoft depends on expensive OpenAI and Anthropic models.",
-      "source": "The Decoder",
-      "published": "2026-07-24T16:06:02+00:00",
-      "link": "https://the-decoder.com/microsofts-open-weight-ai-push-is-so-obviously-an-azure-play-it-hurts/"
-    },
-    {
-      "title": "As US weighs response to Chinese AI, industry urges against broad open-weight restrictions",
-      "summary": "AI companies, including Nvidia and Mistral, urge policymakers to avoid broad restrictions on open-weight AI models as Washington debates responses to Chinese AI and alleged model distillation.",
-      "source": "TechCrunch",
-      "published": "2026-07-24T15:51:49+00:00",
-      "link": "https://techcrunch.com/2026/07/24/as-us-weighs-response-to-chinese-ai-industry-urges-against-broad-open-weight-restrictions/"
-    },
-    {
-      "title": "Bluesky’s AI assistant Attie expands into an open social research tool",
-      "summary": "Users can now ask Attie questions about news, trends, and conversations on Bluesky and other apps on the AT Protocol.",
-      "source": "TechCrunch",
-      "published": "2026-07-24T15:13:57+00:00",
-      "link": "https://techcrunch.com/2026/07/24/blueskys-ai-assistant-attie-expands-into-an-open-social-research-tool/"
     }
   ]
 };
