@@ -1,9 +1,37 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-07-31T07:52:07.660281+00:00",
+  "lastUpdated": "2026-07-31T11:14:17.852113+00:00",
   "items": [
     {
+      "title": "Anthropic follows OpenAI in admitting its Claude models reached out of test environments and attacked real-world systems",
+      "summary": "Three Claude models attacked real companies during cybersecurity tests after a misconfiguration gave them internet access. One published malware on PyPI that infected 15 systems.",
+      "source": "The Decoder",
+      "published": "2026-07-31T10:57:37+00:00",
+      "link": "https://the-decoder.com/anthropic-follows-openai-in-admitting-its-claude-models-reached-out-of-test-environments-and-attacked-real-world-systems/"
+    },
+    {
+      "title": "Aschenbrenner's AI thesis could be correct, his timing and leverage were not",
+      "summary": "Leopold Aschenbrenner's AI hedge fund Situational Awareness had to unload nearly its entire publicly traded portfolio to Ken Griffin's Citadel after racking up heavy losses on leveraged AI stock positions.",
+      "source": "The Decoder",
+      "published": "2026-07-31T10:49:05+00:00",
+      "link": "https://the-decoder.com/aschenbrenners-ai-thesis-could-be-correct-his-timing-and-leverage-were-not/"
+    },
+    {
+      "title": "Google fixed more Chrome bugs in June than over the past two years, thanks to AI",
+      "summary": "Article URL: https://blog.google/security/chrome-stronger-with-every-update/ Comments URL: https://news.ycombinator.com/item?id=49120097 Points: 124 # Comments: 126",
+      "source": "Hacker News",
+      "published": "2026-07-31T07:29:22+00:00",
+      "link": "https://blog.google/security/chrome-stronger-with-every-update/"
+    },
+    {
+      "title": "Show HN: What should the GUI for AI agents look like?",
+      "summary": "Hi HN! We’re Akilan and Miguel, the creators of MarbleOS.The inspiration for Marble comes from the GUI work at Xerox PARC, the 1984 Macintosh, and later NeXTSTEP, which became the foundation for Mac OS X.",
+      "source": "Hacker News",
+      "published": "2026-07-31T05:17:29+00:00",
+      "link": "https://marbleos.com/demo"
+    },
+    {
       "title": "The AI trade now runs on borrowed money, and the lenders are repricing it",
-      "summary": "Article URL: https://greyswansignals.com/?theme=dark Comments URL: https://news.ycombinator.com/item?id=49118933 Points: 129 # Comments: 116",
+      "summary": "Article URL: https://greyswansignals.com/?theme=dark Comments URL: https://news.ycombinator.com/item?id=49118933 Points: 132 # Comments: 127",
       "source": "Hacker News",
       "published": "2026-07-31T04:15:04+00:00",
       "link": "https://greyswansignals.com/?theme=dark"
@@ -31,7 +59,7 @@ const FEED_DATA = {
     },
     {
       "title": "The AI Aesthetic",
-      "summary": "Article URL: https://blog.jim-nielsen.com/2026/ai-aesthetic/ Comments URL: https://news.ycombinator.com/item?id=49117099 Points: 285 # Comments: 123",
+      "summary": "Article URL: https://blog.jim-nielsen.com/2026/ai-aesthetic/ Comments URL: https://news.ycombinator.com/item?id=49117099 Points: 315 # Comments: 139",
       "source": "Hacker News",
       "published": "2026-07-30T23:22:16+00:00",
       "link": "https://blog.jim-nielsen.com/2026/ai-aesthetic/"
@@ -136,7 +164,7 @@ const FEED_DATA = {
     },
     {
       "title": "We Gave GPT 5.6 Sol a Real Business. It Lied, Spammed, and Lost $447",
-      "summary": "Article URL: https://www.bottlenecklabs.com/blog/autonomously-run-businesses Comments URL: https://news.ycombinator.com/item?id=49113059 Points: 356 # Comments: 206",
+      "summary": "Article URL: https://www.bottlenecklabs.com/blog/autonomously-run-businesses Comments URL: https://news.ycombinator.com/item?id=49113059 Points: 367 # Comments: 215",
       "source": "Hacker News",
       "published": "2026-07-30T17:31:07+00:00",
       "link": "https://www.bottlenecklabs.com/blog/autonomously-run-businesses"
@@ -150,7 +178,7 @@ const FEED_DATA = {
     },
     {
       "title": "Advancing the price-performance frontier with GPT‑5.6",
-      "summary": "Article URL: https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6/ Comments URL: https://news.ycombinator.com/item?id=49112867 Points: 561 # Comments: 365",
+      "summary": "Article URL: https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6/ Comments URL: https://news.ycombinator.com/item?id=49112867 Points: 581 # Comments: 380",
       "source": "Hacker News",
       "published": "2026-07-30T17:15:51+00:00",
       "link": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6/"
@@ -213,7 +241,7 @@ const FEED_DATA = {
     },
     {
       "title": "Gemini Robotics 2 brings whole body intelligence to robots",
-      "summary": "Article URL: https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/ Comments URL: https://news.ycombinator.com/item?id=49111237 Points: 544 # Comments: 435",
+      "summary": "Article URL: https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/ Comments URL: https://news.ycombinator.com/item?id=49111237 Points: 569 # Comments: 453",
       "source": "Hacker News",
       "published": "2026-07-30T15:15:48+00:00",
       "link": "https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/"
@@ -269,7 +297,7 @@ const FEED_DATA = {
     },
     {
       "title": "OpenJDK Interim Policy on Generative AI",
-      "summary": "Article URL: https://openjdk.org/legal/ai Comments URL: https://news.ycombinator.com/item?id=49109165 Points: 70 # Comments: 81",
+      "summary": "Article URL: https://openjdk.org/legal/ai Comments URL: https://news.ycombinator.com/item?id=49109165 Points: 72 # Comments: 82",
       "source": "Hacker News",
       "published": "2026-07-30T12:36:38+00:00",
       "link": "https://openjdk.org/legal/ai"
@@ -290,14 +318,14 @@ const FEED_DATA = {
     },
     {
       "title": "GCC steering committee announces AI policy",
-      "summary": "Article URL: https://lwn.net/Articles/1086041/ Comments URL: https://news.ycombinator.com/item?id=49108685 Points: 281 # Comments: 312",
+      "summary": "Article URL: https://lwn.net/Articles/1086041/ Comments URL: https://news.ycombinator.com/item?id=49108685 Points: 305 # Comments: 331",
       "source": "Hacker News",
       "published": "2026-07-30T11:45:44+00:00",
       "link": "https://lwn.net/Articles/1086041/"
     },
     {
       "title": "'My life's screwed': Korean investors stress out after AI bubble bursts",
-      "summary": "Article URL: https://www.ft.com/content/23f388eb-e8ab-4fb1-b1ca-8e04eb4561a1 Comments URL: https://news.ycombinator.com/item?id=49108480 Points: 55 # Comments: 42",
+      "summary": "Article URL: https://www.ft.com/content/23f388eb-e8ab-4fb1-b1ca-8e04eb4561a1 Comments URL: https://news.ycombinator.com/item?id=49108480 Points: 55 # Comments: 44",
       "source": "Hacker News",
       "published": "2026-07-30T11:22:19+00:00",
       "link": "https://www.ft.com/content/23f388eb-e8ab-4fb1-b1ca-8e04eb4561a1"
@@ -416,7 +444,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI's top startups are barely publishing their research",
-      "summary": "Article URL: https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research Comments URL: https://news.ycombinator.com/item?id=49103285 Points: 603 # Comments: 314",
+      "summary": "Article URL: https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research Comments URL: https://news.ycombinator.com/item?id=49103285 Points: 604 # Comments: 315",
       "source": "Hacker News",
       "published": "2026-07-29T21:25:40+00:00",
       "link": "https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research"
@@ -458,7 +486,7 @@ const FEED_DATA = {
     },
     {
       "title": "Commodification of Intelligence: Good, Bad, and Ugly Circular AI Deals",
-      "summary": "Article URL: https://www.emergingtrajectories.com/lh/commodification-and-circularity/ Comments URL: https://news.ycombinator.com/item?id=49101529 Points: 85 # Comments: 48",
+      "summary": "Article URL: https://www.emergingtrajectories.com/lh/commodification-and-circularity/ Comments URL: https://news.ycombinator.com/item?id=49101529 Points: 86 # Comments: 48",
       "source": "Hacker News",
       "published": "2026-07-29T18:57:10+00:00",
       "link": "https://www.emergingtrajectories.com/lh/commodification-and-circularity/"
@@ -563,7 +591,7 @@ const FEED_DATA = {
     },
     {
       "title": "After the AI Crash",
-      "summary": "Article URL: https://potsandpansbyccg.com/2026/07/29/after-the-ai-crash/ Comments URL: https://news.ycombinator.com/item?id=49096953 Points: 126 # Comments: 231",
+      "summary": "Article URL: https://potsandpansbyccg.com/2026/07/29/after-the-ai-crash/ Comments URL: https://news.ycombinator.com/item?id=49096953 Points: 126 # Comments: 235",
       "source": "Hacker News",
       "published": "2026-07-29T13:00:39+00:00",
       "link": "https://potsandpansbyccg.com/2026/07/29/after-the-ai-crash/"
@@ -1372,34 +1400,6 @@ const FEED_DATA = {
       "source": "The Verge",
       "published": "2026-07-24T19:06:58+00:00",
       "link": "https://www.theverge.com/ai-artificial-intelligence/970894/midjourney-co-star-acquisition"
-    },
-    {
-      "title": "Anthropic claims its new Claude Opus 5 delivers near-Fable 5 performance at half the token price",
-      "summary": "Anthropic's new flagship model Claude Opus 5 posts top scores in coding and knowledge work at half of Fable 5's token rates. On ARC-AGI-3, a benchmark for novel problem-solving, Opus 5 hits 30.2 percent, nearly four times higher than GPT-5.6 Sol.",
-      "source": "The Decoder",
-      "published": "2026-07-24T18:36:42+00:00",
-      "link": "https://the-decoder.com/anthropic-claims-its-new-claude-opus-5-delivers-near-fable-5-performance-at-half-the-token-price/"
-    },
-    {
-      "title": "Why Cognition bought Poke: AI personality is becoming a competitive advantage",
-      "summary": "The acquisition brings Poke’s conversational style and interaction model to Cognition’s coding agent Devin, reflecting a growing belief that how AI assistants interact with users is as important as the models powering them.",
-      "source": "TechCrunch",
-      "published": "2026-07-24T18:07:32+00:00",
-      "link": "https://techcrunch.com/2026/07/24/why-cognition-bought-poke-ai-personality-is-becoming-a-competitive-advantage/"
-    },
-    {
-      "title": "China-US AI Race Escalates, OpenAI Models Break Free, and Why You Should Check Your Car Alarm",
-      "summary": "On this episode of Uncanny Valley, we dive into accusations that China’s Moonshot AI stole from Anthropic, and how the US Army needs to cut back on AI use.",
-      "source": "Wired",
-      "published": "2026-07-24T17:53:01+00:00",
-      "link": "https://www.wired.com/story/uncanny-valley-podcast/"
-    },
-    {
-      "title": "Did Chinese AI Steal From Anthropic, and OpenAI Loses Control of Two Models",
-      "summary": "On this episode of Uncanny Valley, we dive into accusations that China’s Moonshot AI stole from Anthropic, and how the US Army needs to cut back on AI use.",
-      "source": "Wired",
-      "published": "2026-07-24T17:53:01+00:00",
-      "link": "https://www.wired.com/story/uncanny-valley-podcast/"
     }
   ]
 };
