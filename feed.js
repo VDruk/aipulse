@@ -1,6 +1,55 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-07-31T11:14:17.852113+00:00",
+  "lastUpdated": "2026-07-31T15:20:33.802494+00:00",
   "items": [
+    {
+      "title": "SpaceX won’t remove all of xAI’s unpermitted turbines for another year",
+      "summary": "SpaceX is building a new power plant for xAI's Colossus data centers, but it won't remove existing, unpermitted turbines for many more months.",
+      "source": "TechCrunch",
+      "published": "2026-07-31T15:16:17+00:00",
+      "link": "https://techcrunch.com/2026/07/31/spacex-wont-remove-all-of-xais-unpermitted-turbines-for-another-year/"
+    },
+    {
+      "title": "AI Slop Melodramas Are Taking Over X—and Their Creators Are Cashing In",
+      "summary": "Viral tales of good triumphing over evil are racking up millions of views. They’re almost entirely AI-generated clickbait.",
+      "source": "Wired",
+      "published": "2026-07-31T15:00:09+00:00",
+      "link": "https://www.wired.com/story/ai-slop-melodramas-are-taking-over-x-and-their-creators-are-cashing-in/"
+    },
+    {
+      "title": "This AI Assistant Wants to Make Up for Your Boyfriend’s Incompetence",
+      "summary": "An ad for Orchid suggests the AI agent can fix relationship problems by simply doing everything for inconsiderate partners.",
+      "source": "Wired",
+      "published": "2026-07-31T14:47:26+00:00",
+      "link": "https://www.wired.com/story/this-ai-assistants-whole-pitch-is-making-up-for-your-boyfriends-incompetence/"
+    },
+    {
+      "title": "Smallest.ai raises $13M to build ultra-fast voice AI that sounds genuinely human",
+      "summary": "The startup is building voice models designed to make AI phone calls pass the Turing test.",
+      "source": "TechCrunch",
+      "published": "2026-07-31T14:47:11+00:00",
+      "link": "https://techcrunch.com/2026/07/31/smallest-ai-raises-13m-to-build-ultra-fast-voice-ai-that-sounds-genuinely-human/"
+    },
+    {
+      "title": "Situational Awareness Down 67% in July in AI Stock Rout",
+      "summary": "Article URL: https://www.wsj.com/finance/investing/situational-awareness-down-67-in-july-in-ai-stock-rout-cd19901f Comments URL: https://news.ycombinator.com/item?id=49122994 Points: 83 # Comments: 85",
+      "source": "Hacker News",
+      "published": "2026-07-31T13:37:36+00:00",
+      "link": "https://www.wsj.com/finance/investing/situational-awareness-down-67-in-july-in-ai-stock-rout-cd19901f"
+    },
+    {
+      "title": "The Download: Montana’s new experimental drug rules",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.",
+      "source": "MIT Tech Review",
+      "published": "2026-07-31T12:16:00+00:00",
+      "link": "https://www.technologyreview.com/2026/07/31/1140999/the-download-montanas-right-to-try-law-anthropic-hacks/"
+    },
+    {
+      "title": "The Maxwell Conjecture Is False (GPT 5.6 Sol)",
+      "summary": "Article URL: https://arxiv.org/abs/2607.27197 Comments URL: https://news.ycombinator.com/item?id=49121868 Points: 74 # Comments: 46",
+      "source": "Hacker News",
+      "published": "2026-07-31T11:37:12+00:00",
+      "link": "https://arxiv.org/abs/2607.27197"
+    },
     {
       "title": "Anthropic follows OpenAI in admitting its Claude models reached out of test environments and attacked real-world systems",
       "summary": "Three Claude models attacked real companies during cybersecurity tests after a misconfiguration gave them internet access. One published malware on PyPI that infected 15 systems.",
@@ -16,8 +65,15 @@ const FEED_DATA = {
       "link": "https://the-decoder.com/aschenbrenners-ai-thesis-could-be-correct-his-timing-and-leverage-were-not/"
     },
     {
+      "title": "DeepSeek V4 Flash 0731 Intelligence, Performance and Price Analysis",
+      "summary": "Article URL: https://artificialanalysis.ai/models/deepseek-v4-flash-ga Comments URL: https://news.ycombinator.com/item?id=49120299 Points: 310 # Comments: 150",
+      "source": "Hacker News",
+      "published": "2026-07-31T07:59:11+00:00",
+      "link": "https://artificialanalysis.ai/models/deepseek-v4-flash-ga"
+    },
+    {
       "title": "Google fixed more Chrome bugs in June than over the past two years, thanks to AI",
-      "summary": "Article URL: https://blog.google/security/chrome-stronger-with-every-update/ Comments URL: https://news.ycombinator.com/item?id=49120097 Points: 124 # Comments: 126",
+      "summary": "Article URL: https://blog.google/security/chrome-stronger-with-every-update/ Comments URL: https://news.ycombinator.com/item?id=49120097 Points: 332 # Comments: 286",
       "source": "Hacker News",
       "published": "2026-07-31T07:29:22+00:00",
       "link": "https://blog.google/security/chrome-stronger-with-every-update/"
@@ -31,10 +87,17 @@ const FEED_DATA = {
     },
     {
       "title": "The AI trade now runs on borrowed money, and the lenders are repricing it",
-      "summary": "Article URL: https://greyswansignals.com/?theme=dark Comments URL: https://news.ycombinator.com/item?id=49118933 Points: 132 # Comments: 127",
+      "summary": "Article URL: https://greyswansignals.com/?theme=dark Comments URL: https://news.ycombinator.com/item?id=49118933 Points: 137 # Comments: 144",
       "source": "Hacker News",
       "published": "2026-07-31T04:15:04+00:00",
       "link": "https://greyswansignals.com/?theme=dark"
+    },
+    {
+      "title": "Anthropic Says Claude Hacked Into 3 Organizations During Cybersecurity Tests",
+      "summary": "In a review triggered by OpenAI’s Hugging Face incident, Anthropic discovered three of its AI models had breached real-world organizations during third-party evaluations.",
+      "source": "Wired",
+      "published": "2026-07-31T01:24:26+00:00",
+      "link": "https://www.wired.com/story/anthropic-says-claude-hacked-real-systems-during-cybersecurity-tests/"
     },
     {
       "title": "Anthropic Says Claude Hacked 3 Organizations During Cybersecurity Tests",
@@ -59,7 +122,7 @@ const FEED_DATA = {
     },
     {
       "title": "The AI Aesthetic",
-      "summary": "Article URL: https://blog.jim-nielsen.com/2026/ai-aesthetic/ Comments URL: https://news.ycombinator.com/item?id=49117099 Points: 315 # Comments: 139",
+      "summary": "Article URL: https://blog.jim-nielsen.com/2026/ai-aesthetic/ Comments URL: https://news.ycombinator.com/item?id=49117099 Points: 354 # Comments: 166",
       "source": "Hacker News",
       "published": "2026-07-30T23:22:16+00:00",
       "link": "https://blog.jim-nielsen.com/2026/ai-aesthetic/"
@@ -84,6 +147,13 @@ const FEED_DATA = {
       "source": "The Verge",
       "published": "2026-07-30T22:29:45+00:00",
       "link": "https://www.theverge.com/tech/973552/apple-ceo-tim-cook-icloud-plus-ai"
+    },
+    {
+      "title": "Max-severity Exchange server flaw under active exploitation by Kremlin hackers",
+      "summary": "Exploits can give persistent server access that survives credential rotation and disk re-imaging.",
+      "source": "Ars Technica",
+      "published": "2026-07-30T20:57:22+00:00",
+      "link": "https://arstechnica.com/security/2026/07/kremlin-hackers-are-exploiting-exchange-flaw-to-backdoor-unpatched-networks/"
     },
     {
       "title": "Judge says Trump admin still lacks evidence for Anthropic ‘supply-chain risk’ label",
@@ -164,7 +234,7 @@ const FEED_DATA = {
     },
     {
       "title": "We Gave GPT 5.6 Sol a Real Business. It Lied, Spammed, and Lost $447",
-      "summary": "Article URL: https://www.bottlenecklabs.com/blog/autonomously-run-businesses Comments URL: https://news.ycombinator.com/item?id=49113059 Points: 367 # Comments: 215",
+      "summary": "Article URL: https://www.bottlenecklabs.com/blog/autonomously-run-businesses Comments URL: https://news.ycombinator.com/item?id=49113059 Points: 379 # Comments: 226",
       "source": "Hacker News",
       "published": "2026-07-30T17:31:07+00:00",
       "link": "https://www.bottlenecklabs.com/blog/autonomously-run-businesses"
@@ -178,7 +248,7 @@ const FEED_DATA = {
     },
     {
       "title": "Advancing the price-performance frontier with GPT‑5.6",
-      "summary": "Article URL: https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6/ Comments URL: https://news.ycombinator.com/item?id=49112867 Points: 581 # Comments: 380",
+      "summary": "Article URL: https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6/ Comments URL: https://news.ycombinator.com/item?id=49112867 Points: 588 # Comments: 389",
       "source": "Hacker News",
       "published": "2026-07-30T17:15:51+00:00",
       "link": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6/"
@@ -213,7 +283,7 @@ const FEED_DATA = {
     },
     {
       "title": "Citadel Buys Situational Awareness's Stock Portfolio After Big Losses in AI",
-      "summary": "Article URL: https://www.wsj.com/finance/citadel-buys-situational-awarenesss-stock-portfolio-after-big-losses-in-ai-5117159b Comments URL: https://news.ycombinator.com/item?id=49111879 Points: 51 # Comments: 10",
+      "summary": "Article URL: https://www.wsj.com/finance/citadel-buys-situational-awarenesss-stock-portfolio-after-big-losses-in-ai-5117159b Comments URL: https://news.ycombinator.com/item?id=49111879 Points: 52 # Comments: 11",
       "source": "Hacker News",
       "published": "2026-07-30T16:00:33+00:00",
       "link": "https://www.wsj.com/finance/citadel-buys-situational-awarenesss-stock-portfolio-after-big-losses-in-ai-5117159b"
@@ -241,7 +311,7 @@ const FEED_DATA = {
     },
     {
       "title": "Gemini Robotics 2 brings whole body intelligence to robots",
-      "summary": "Article URL: https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/ Comments URL: https://news.ycombinator.com/item?id=49111237 Points: 569 # Comments: 453",
+      "summary": "Article URL: https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/ Comments URL: https://news.ycombinator.com/item?id=49111237 Points: 600 # Comments: 487",
       "source": "Hacker News",
       "published": "2026-07-30T15:15:48+00:00",
       "link": "https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/"
@@ -297,7 +367,7 @@ const FEED_DATA = {
     },
     {
       "title": "OpenJDK Interim Policy on Generative AI",
-      "summary": "Article URL: https://openjdk.org/legal/ai Comments URL: https://news.ycombinator.com/item?id=49109165 Points: 72 # Comments: 82",
+      "summary": "Article URL: https://openjdk.org/legal/ai Comments URL: https://news.ycombinator.com/item?id=49109165 Points: 73 # Comments: 83",
       "source": "Hacker News",
       "published": "2026-07-30T12:36:38+00:00",
       "link": "https://openjdk.org/legal/ai"
@@ -311,21 +381,21 @@ const FEED_DATA = {
     },
     {
       "title": "Go LLM SDK for streaming, tool-calling AI backends (plus frontend React lib)",
-      "summary": "Article URL: https://github.com/grafana/ai-sdk Comments URL: https://news.ycombinator.com/item?id=49108778 Points: 57 # Comments: 16",
+      "summary": "Article URL: https://github.com/grafana/ai-sdk Comments URL: https://news.ycombinator.com/item?id=49108778 Points: 58 # Comments: 16",
       "source": "Hacker News",
       "published": "2026-07-30T11:55:39+00:00",
       "link": "https://github.com/grafana/ai-sdk"
     },
     {
       "title": "GCC steering committee announces AI policy",
-      "summary": "Article URL: https://lwn.net/Articles/1086041/ Comments URL: https://news.ycombinator.com/item?id=49108685 Points: 305 # Comments: 331",
+      "summary": "Article URL: https://lwn.net/Articles/1086041/ Comments URL: https://news.ycombinator.com/item?id=49108685 Points: 329 # Comments: 379",
       "source": "Hacker News",
       "published": "2026-07-30T11:45:44+00:00",
       "link": "https://lwn.net/Articles/1086041/"
     },
     {
       "title": "'My life's screwed': Korean investors stress out after AI bubble bursts",
-      "summary": "Article URL: https://www.ft.com/content/23f388eb-e8ab-4fb1-b1ca-8e04eb4561a1 Comments URL: https://news.ycombinator.com/item?id=49108480 Points: 55 # Comments: 44",
+      "summary": "Article URL: https://www.ft.com/content/23f388eb-e8ab-4fb1-b1ca-8e04eb4561a1 Comments URL: https://news.ycombinator.com/item?id=49108480 Points: 56 # Comments: 44",
       "source": "Hacker News",
       "published": "2026-07-30T11:22:19+00:00",
       "link": "https://www.ft.com/content/23f388eb-e8ab-4fb1-b1ca-8e04eb4561a1"
@@ -409,7 +479,7 @@ const FEED_DATA = {
     },
     {
       "title": "LLM Honeypot",
-      "summary": "Article URL: https://llm2human.pages.dev/ Comments URL: https://news.ycombinator.com/item?id=49104117 Points: 380 # Comments: 105",
+      "summary": "Article URL: https://llm2human.pages.dev/ Comments URL: https://news.ycombinator.com/item?id=49104117 Points: 383 # Comments: 105",
       "source": "Hacker News",
       "published": "2026-07-29T22:51:03+00:00",
       "link": "https://llm2human.pages.dev/"
@@ -444,7 +514,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI's top startups are barely publishing their research",
-      "summary": "Article URL: https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research Comments URL: https://news.ycombinator.com/item?id=49103285 Points: 604 # Comments: 315",
+      "summary": "Article URL: https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research Comments URL: https://news.ycombinator.com/item?id=49103285 Points: 606 # Comments: 315",
       "source": "Hacker News",
       "published": "2026-07-29T21:25:40+00:00",
       "link": "https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research"
@@ -556,7 +626,7 @@ const FEED_DATA = {
     },
     {
       "title": "GPT-5.6 vs. Claude Fable 5 for Physical AI, which performs best?",
-      "summary": "Article URL: https://juliahub.com/blog/frontier-models-physical-ai-evaluation Comments URL: https://news.ycombinator.com/item?id=49098388 Points: 98 # Comments: 21",
+      "summary": "Article URL: https://juliahub.com/blog/frontier-models-physical-ai-evaluation Comments URL: https://news.ycombinator.com/item?id=49098388 Points: 99 # Comments: 21",
       "source": "Hacker News",
       "published": "2026-07-29T14:56:28+00:00",
       "link": "https://juliahub.com/blog/frontier-models-physical-ai-evaluation"
@@ -1330,76 +1400,6 @@ const FEED_DATA = {
       "source": "Hacker News",
       "published": "2026-07-25T13:43:33+00:00",
       "link": "https://www.hardresetmedia.com/p/the-ai-productivity-illusion"
-    },
-    {
-      "title": "Corporate America Has Suddenly Decided to Stop Blowing Money on AI",
-      "summary": "Article URL: https://www.wsj.com/business/china-us-ai-model-costs-53a12e96 Comments URL: https://news.ycombinator.com/item?id=49047448 Points: 64 # Comments: 84",
-      "source": "Hacker News",
-      "published": "2026-07-25T13:33:03+00:00",
-      "link": "https://www.wsj.com/business/china-us-ai-model-costs-53a12e96"
-    },
-    {
-      "title": "One fallen power line exposed a growing AI data center problem — here’s how to fix it",
-      "summary": "A close call in Northern Virginia revealed just how poorly data centers respond to grid disruptions. Here's how to fix the problem.",
-      "source": "TechCrunch",
-      "published": "2026-07-25T13:05:00+00:00",
-      "link": "https://techcrunch.com/2026/07/25/one-fallen-power-line-exposed-a-growing-ai-data-center-problem-heres-how-to-fix-it/"
-    },
-    {
-      "title": "Opus 5 may have solved browser-based prompt injection, the biggest security flaw haunting AI agents",
-      "summary": "Opus 5 combined with Auto Mode hits a zero percent prompt injection success rate for browser agents across 129 test scenarios. Without those extra protection layers, the rate is 3.7 percent.",
-      "source": "The Decoder",
-      "published": "2026-07-25T10:43:36+00:00",
-      "link": "https://the-decoder.com/opus-5-may-have-solved-browser-based-prompt-injection-the-biggest-security-flaw-haunting-ai-agents/"
-    },
-    {
-      "title": "The OpenAI Models That Hacked Hugging Face Were ‘Active on the Internet’ for Days",
-      "summary": "Plus: Russian hackers are trying to steal US nuclear scientists’ emails, the State Department bans known scammers from entering the United States, and more.",
-      "source": "Wired",
-      "published": "2026-07-25T10:30:00+00:00",
-      "link": "https://www.wired.com/story/security-news-this-week-the-openai-models-that-hacked-hugging-face-were-active-on-the-internet-for-days/"
-    },
-    {
-      "title": "Anthropic's Claude Opus 5 delivers near-Fable 5 performance at half the token price",
-      "summary": "Anthropic's new flagship model Claude Opus 5 posts top scores in coding and knowledge work at half of Fable 5's token rates. On ARC-AGI-3, a benchmark for novel problem-solving, Opus 5 hits 30.2 percent, nearly four times higher than GPT-5.6 Sol.",
-      "source": "The Decoder",
-      "published": "2026-07-25T10:04:42+00:00",
-      "link": "https://the-decoder.com/anthropic-claims-its-new-claude-opus-5-delivers-near-fable-5-performance-at-half-the-token-price/"
-    },
-    {
-      "title": "Anthropic's Claude Opus 5 costs well below Fable 5 while matching or beating it across most benchmarks",
-      "summary": "Anthropic's Claude Opus 5 leads the Artificial Analysis Intelligence Index with 61 points, edging out Claude Fable 5 and GPT-5.6 Sol. The model scores highest in analytical quality and coding, and costs up to half as much as Fable 5 at lower reasoning tiers.",
-      "source": "The Decoder",
-      "published": "2026-07-25T09:31:00+00:00",
-      "link": "https://the-decoder.com/anthropics-claude-opus-5-costs-well-below-fable-5-while-matching-or-beating-it-across-most-benchmarks/"
-    },
-    {
-      "title": "I tried out OpenAI’s new AI keypad — which will be fun for some coders and slightly mystifying to everyone else",
-      "summary": "OpenAI's fancy new AI keypad will be a lot of fun for some, while many others are probably not going to touch it.",
-      "source": "TechCrunch",
-      "published": "2026-07-25T00:23:11+00:00",
-      "link": "https://techcrunch.com/2026/07/24/i-tried-out-openais-new-ai-keypad-which-will-be-fun-for-coders-and-slightly-mystifying-to-everyone-else/"
-    },
-    {
-      "title": "Prentis, new AI lab co-founded by Reid Hoffman, Mark Pincus in talks to raise $100M",
-      "summary": "The neolab is betting that automating routine computer tasks will soon outpace coding as AI's biggest use case.",
-      "source": "TechCrunch",
-      "published": "2026-07-24T22:25:58+00:00",
-      "link": "https://techcrunch.com/2026/07/24/prentis-new-ai-lab-co-founded-by-reid-hoffman-mark-pincus-in-talks-to-raise-100m/"
-    },
-    {
-      "title": "Opus 5 is currently #1 on Artificial Analysis Intelligence Leaderboard",
-      "summary": "Article URL: https://artificialanalysis.ai/models Comments URL: https://news.ycombinator.com/item?id=49040741 Points: 373 # Comments: 235",
-      "source": "Hacker News",
-      "published": "2026-07-24T19:45:10+00:00",
-      "link": "https://artificialanalysis.ai/models"
-    },
-    {
-      "title": "Midjourney bought the astrology app Co-Star",
-      "summary": "Midjourney, which has gone from generating AI cat images to full-body ultrasound scans, is getting into a new field: astrology. The AI startup announced on Thursday that it has acquired the personalized astrology app Co-Star, as reported earlier by Bloomberg.",
-      "source": "The Verge",
-      "published": "2026-07-24T19:06:58+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/970894/midjourney-co-star-acquisition"
     }
   ]
 };
