@@ -1,6 +1,13 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-07-31T04:20:44.855630+00:00",
+  "lastUpdated": "2026-07-31T07:52:07.660281+00:00",
   "items": [
+    {
+      "title": "The AI trade now runs on borrowed money, and the lenders are repricing it",
+      "summary": "Article URL: https://greyswansignals.com/?theme=dark Comments URL: https://news.ycombinator.com/item?id=49118933 Points: 129 # Comments: 116",
+      "source": "Hacker News",
+      "published": "2026-07-31T04:15:04+00:00",
+      "link": "https://greyswansignals.com/?theme=dark"
+    },
     {
       "title": "Anthropic Says Claude Hacked 3 Organizations During Cybersecurity Tests",
       "summary": "In a review triggered by OpenAI’s Hugging Face incident, Anthropic discovered three of its AI models had breached real organizations during third-party evaluations.",
@@ -24,7 +31,7 @@ const FEED_DATA = {
     },
     {
       "title": "The AI Aesthetic",
-      "summary": "Article URL: https://blog.jim-nielsen.com/2026/ai-aesthetic/ Comments URL: https://news.ycombinator.com/item?id=49117099 Points: 191 # Comments: 103",
+      "summary": "Article URL: https://blog.jim-nielsen.com/2026/ai-aesthetic/ Comments URL: https://news.ycombinator.com/item?id=49117099 Points: 285 # Comments: 123",
       "source": "Hacker News",
       "published": "2026-07-30T23:22:16+00:00",
       "link": "https://blog.jim-nielsen.com/2026/ai-aesthetic/"
@@ -129,7 +136,7 @@ const FEED_DATA = {
     },
     {
       "title": "We Gave GPT 5.6 Sol a Real Business. It Lied, Spammed, and Lost $447",
-      "summary": "Article URL: https://www.bottlenecklabs.com/blog/autonomously-run-businesses Comments URL: https://news.ycombinator.com/item?id=49113059 Points: 323 # Comments: 197",
+      "summary": "Article URL: https://www.bottlenecklabs.com/blog/autonomously-run-businesses Comments URL: https://news.ycombinator.com/item?id=49113059 Points: 356 # Comments: 206",
       "source": "Hacker News",
       "published": "2026-07-30T17:31:07+00:00",
       "link": "https://www.bottlenecklabs.com/blog/autonomously-run-businesses"
@@ -143,7 +150,7 @@ const FEED_DATA = {
     },
     {
       "title": "Advancing the price-performance frontier with GPT‑5.6",
-      "summary": "Article URL: https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6/ Comments URL: https://news.ycombinator.com/item?id=49112867 Points: 528 # Comments: 344",
+      "summary": "Article URL: https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6/ Comments URL: https://news.ycombinator.com/item?id=49112867 Points: 561 # Comments: 365",
       "source": "Hacker News",
       "published": "2026-07-30T17:15:51+00:00",
       "link": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6/"
@@ -178,7 +185,7 @@ const FEED_DATA = {
     },
     {
       "title": "Citadel Buys Situational Awareness's Stock Portfolio After Big Losses in AI",
-      "summary": "Article URL: https://www.wsj.com/finance/citadel-buys-situational-awarenesss-stock-portfolio-after-big-losses-in-ai-5117159b Comments URL: https://news.ycombinator.com/item?id=49111879 Points: 50 # Comments: 10",
+      "summary": "Article URL: https://www.wsj.com/finance/citadel-buys-situational-awarenesss-stock-portfolio-after-big-losses-in-ai-5117159b Comments URL: https://news.ycombinator.com/item?id=49111879 Points: 51 # Comments: 10",
       "source": "Hacker News",
       "published": "2026-07-30T16:00:33+00:00",
       "link": "https://www.wsj.com/finance/citadel-buys-situational-awarenesss-stock-portfolio-after-big-losses-in-ai-5117159b"
@@ -206,7 +213,7 @@ const FEED_DATA = {
     },
     {
       "title": "Gemini Robotics 2 brings whole body intelligence to robots",
-      "summary": "Article URL: https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/ Comments URL: https://news.ycombinator.com/item?id=49111237 Points: 502 # Comments: 403",
+      "summary": "Article URL: https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/ Comments URL: https://news.ycombinator.com/item?id=49111237 Points: 544 # Comments: 435",
       "source": "Hacker News",
       "published": "2026-07-30T15:15:48+00:00",
       "link": "https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/"
@@ -262,7 +269,7 @@ const FEED_DATA = {
     },
     {
       "title": "OpenJDK Interim Policy on Generative AI",
-      "summary": "Article URL: https://openjdk.org/legal/ai Comments URL: https://news.ycombinator.com/item?id=49109165 Points: 68 # Comments: 80",
+      "summary": "Article URL: https://openjdk.org/legal/ai Comments URL: https://news.ycombinator.com/item?id=49109165 Points: 70 # Comments: 81",
       "source": "Hacker News",
       "published": "2026-07-30T12:36:38+00:00",
       "link": "https://openjdk.org/legal/ai"
@@ -283,14 +290,14 @@ const FEED_DATA = {
     },
     {
       "title": "GCC steering committee announces AI policy",
-      "summary": "Article URL: https://lwn.net/Articles/1086041/ Comments URL: https://news.ycombinator.com/item?id=49108685 Points: 258 # Comments: 300",
+      "summary": "Article URL: https://lwn.net/Articles/1086041/ Comments URL: https://news.ycombinator.com/item?id=49108685 Points: 281 # Comments: 312",
       "source": "Hacker News",
       "published": "2026-07-30T11:45:44+00:00",
       "link": "https://lwn.net/Articles/1086041/"
     },
     {
       "title": "'My life's screwed': Korean investors stress out after AI bubble bursts",
-      "summary": "Article URL: https://www.ft.com/content/23f388eb-e8ab-4fb1-b1ca-8e04eb4561a1 Comments URL: https://news.ycombinator.com/item?id=49108480 Points: 53 # Comments: 42",
+      "summary": "Article URL: https://www.ft.com/content/23f388eb-e8ab-4fb1-b1ca-8e04eb4561a1 Comments URL: https://news.ycombinator.com/item?id=49108480 Points: 55 # Comments: 42",
       "source": "Hacker News",
       "published": "2026-07-30T11:22:19+00:00",
       "link": "https://www.ft.com/content/23f388eb-e8ab-4fb1-b1ca-8e04eb4561a1"
@@ -374,7 +381,7 @@ const FEED_DATA = {
     },
     {
       "title": "LLM Honeypot",
-      "summary": "Article URL: https://llm2human.pages.dev/ Comments URL: https://news.ycombinator.com/item?id=49104117 Points: 376 # Comments: 105",
+      "summary": "Article URL: https://llm2human.pages.dev/ Comments URL: https://news.ycombinator.com/item?id=49104117 Points: 380 # Comments: 105",
       "source": "Hacker News",
       "published": "2026-07-29T22:51:03+00:00",
       "link": "https://llm2human.pages.dev/"
@@ -409,7 +416,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI's top startups are barely publishing their research",
-      "summary": "Article URL: https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research Comments URL: https://news.ycombinator.com/item?id=49103285 Points: 597 # Comments: 314",
+      "summary": "Article URL: https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research Comments URL: https://news.ycombinator.com/item?id=49103285 Points: 603 # Comments: 314",
       "source": "Hacker News",
       "published": "2026-07-29T21:25:40+00:00",
       "link": "https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research"
@@ -556,7 +563,7 @@ const FEED_DATA = {
     },
     {
       "title": "After the AI Crash",
-      "summary": "Article URL: https://potsandpansbyccg.com/2026/07/29/after-the-ai-crash/ Comments URL: https://news.ycombinator.com/item?id=49096953 Points: 125 # Comments: 227",
+      "summary": "Article URL: https://potsandpansbyccg.com/2026/07/29/after-the-ai-crash/ Comments URL: https://news.ycombinator.com/item?id=49096953 Points: 126 # Comments: 231",
       "source": "Hacker News",
       "published": "2026-07-29T13:00:39+00:00",
       "link": "https://potsandpansbyccg.com/2026/07/29/after-the-ai-crash/"
@@ -605,7 +612,7 @@ const FEED_DATA = {
     },
     {
       "title": "Document-borne AI worms can self-propagate through Copilot for Word",
-      "summary": "Article URL: https://enklypesalt.com/posts/context-collapse-part3-ai-worming-through-word/ Comments URL: https://news.ycombinator.com/item?id=49096188 Points: 380 # Comments: 293",
+      "summary": "Article URL: https://enklypesalt.com/posts/context-collapse-part3-ai-worming-through-word/ Comments URL: https://news.ycombinator.com/item?id=49096188 Points: 380 # Comments: 294",
       "source": "Hacker News",
       "published": "2026-07-29T11:44:33+00:00",
       "link": "https://enklypesalt.com/posts/context-collapse-part3-ai-worming-through-word/"
@@ -1393,13 +1400,6 @@ const FEED_DATA = {
       "source": "Wired",
       "published": "2026-07-24T17:53:01+00:00",
       "link": "https://www.wired.com/story/uncanny-valley-podcast/"
-    },
-    {
-      "title": "You can’t ignore Google Zero anymore",
-      "summary": "The web and Google once had a deal: Google collects data and indexes webpages and in exchange sends oceans of traffic to websites. The deal wasn't perfect and certainly made Google more money than it made the websites, but it worked for a long time.",
-      "source": "The Verge",
-      "published": "2026-07-24T17:29:48+00:00",
-      "link": "https://www.theverge.com/podcast/970735/google-zero-reddit-ai-publishers-vergecast"
     }
   ]
 };
