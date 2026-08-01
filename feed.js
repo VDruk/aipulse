@@ -1,6 +1,27 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-08-01T17:56:18.339380+00:00",
+  "lastUpdated": "2026-08-01T21:45:55.781057+00:00",
   "items": [
+    {
+      "title": "Judge denies xAI’s request to block Minnesota ban on ‘nudify’ apps",
+      "summary": "Despite a lawsuit from xAI, a Minnesota ban on apps that allow users to “nudify” images can move forward.",
+      "source": "TechCrunch",
+      "published": "2026-08-01T20:26:04+00:00",
+      "link": "https://techcrunch.com/2026/08/01/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps/"
+    },
+    {
+      "title": "YouTuber Hank Green says his AI usage is ‘not healthy’",
+      "summary": "Green offered a remarkable apology, saying that \"the level of dopamine that I've been getting from interacting with LLMs ... is not healthy for me or good for the world.\"",
+      "source": "TechCrunch",
+      "published": "2026-08-01T19:45:45+00:00",
+      "link": "https://techcrunch.com/2026/08/01/youtuber-hank-green-says-his-ai-usage-is-not-healthy/"
+    },
+    {
+      "title": "Is this Billboard Hot 100 hit AI slop?",
+      "summary": "Fenix Flexin is best known as a member of Shoreline Mafia, a rap duo from Los Angeles. But he's recently found solo success with the track \"Rubberz,\" which has climbed to number 58 on the Billboard Hot 100.",
+      "source": "The Verge",
+      "published": "2026-08-01T18:20:00+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/974209/fenix-flexin-billboard-hot-100-rubberz-ai-slop"
+    },
     {
       "title": "Sam Altman is still making the case for parenting via ChatGPT",
       "summary": "OpenAI's CEO seemed excited to share a \"cool use case\" for parents.",
@@ -1379,27 +1400,6 @@ const FEED_DATA = {
       "source": "Hacker News",
       "published": "2026-07-27T14:07:48+00:00",
       "link": "https://www.ft.com/content/d8a5f95e-3b6d-463a-a848-c9ef8e2394db"
-    },
-    {
-      "title": "Enigma raises $71M to make controlling a robot as easy as adjusting the volume",
-      "summary": "The massive seed round was led by Index Ventures and Ribbit Capital, with participation from Sarah Guo's Conviction Partners.",
-      "source": "TechCrunch",
-      "published": "2026-07-27T13:00:00+00:00",
-      "link": "https://techcrunch.com/2026/07/27/enigma-raises-70m-to-make-controlling-a-robot-as-easy-as-adjusting-the-volume/"
-    },
-    {
-      "title": "Enigma raises $70M to make controlling a robot as easy as adjusting the volume",
-      "summary": "The massive seed round was led by Index Ventures and Ribbit Capital, with participation from Sarah Guo's Conviction Partners.",
-      "source": "TechCrunch",
-      "published": "2026-07-27T13:00:00+00:00",
-      "link": "https://techcrunch.com/2026/07/27/enigma-raises-70m-to-make-controlling-a-robot-as-easy-as-adjusting-the-volume/"
-    },
-    {
-      "title": "Truth is not a direction: a Tarski attack on LLM probes",
-      "summary": "Article URL: https://abeljansma.nl/2026/07/10/truth-is-not-a-direction.html Comments URL: https://news.ycombinator.com/item?id=49069033 Points: 108 # Comments: 87",
-      "source": "Hacker News",
-      "published": "2026-07-27T12:56:36+00:00",
-      "link": "https://abeljansma.nl/2026/07/10/truth-is-not-a-direction.html"
     }
   ]
 };
