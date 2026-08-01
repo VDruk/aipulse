@@ -1,9 +1,37 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-08-01T07:28:29.908096+00:00",
+  "lastUpdated": "2026-08-01T10:23:43.379053+00:00",
   "items": [
     {
+      "title": "Nobody Knows if OpenAI’s and Anthropic’s AI Hacking Sprees Are Illegal",
+      "summary": "Both major AI labs’ models broke containment, escaped onto the internet, and hacked other companies. If a human had done that, the law would likely be against them.",
+      "source": "Wired",
+      "published": "2026-08-01T09:30:00+00:00",
+      "link": "https://www.wired.com/story/openai-anthropic-ai-hacking-sprees-illegal/"
+    },
+    {
+      "title": "OpenAI announces its \"next major model\" Astra by dropping ten previously unsolved math solutions",
+      "summary": "OpenAI is building a new model family called \"Astra\" that would let multiple agents tackle complex problems together for hours or even days. CEO Sam Altman has already demoed Astra to policymakers in Washington.",
+      "source": "The Decoder",
+      "published": "2026-08-01T09:29:49+00:00",
+      "link": "https://the-decoder.com/openai-announces-its-next-major-model-astra-by-dropping-ten-previously-unsolved-math-solutions/"
+    },
+    {
+      "title": "Google handed users the easiest possible tool for fake satellite imagery, then pulled it after two days",
+      "summary": "Google pulled its Nano Banana 2 image model from Google Earth just two days after launch. Users showed how easy it was to generate convincing fake satellite images.",
+      "source": "The Decoder",
+      "published": "2026-08-01T09:00:04+00:00",
+      "link": "https://the-decoder.com/google-handed-users-the-easiest-possible-tool-for-fake-satellite-imagery-then-pulled-it-after-two-days/"
+    },
+    {
+      "title": "AI doesn't generate working products, that's still your job",
+      "summary": "Article URL: https://weeraman.com/the-prototype-isnt-the-product/ Comments URL: https://news.ycombinator.com/item?id=49132130 Points: 63 # Comments: 38",
+      "source": "Hacker News",
+      "published": "2026-08-01T07:52:10+00:00",
+      "link": "https://weeraman.com/the-prototype-isnt-the-product/"
+    },
+    {
       "title": "Flint: A Visualization Language for the AI Era",
-      "summary": "Article URL: https://microsoft.github.io/flint-chart/ Comments URL: https://news.ycombinator.com/item?id=49130604 Points: 87 # Comments: 29",
+      "summary": "Article URL: https://microsoft.github.io/flint-chart/ Comments URL: https://news.ycombinator.com/item?id=49130604 Points: 124 # Comments: 41",
       "source": "Hacker News",
       "published": "2026-08-01T02:45:09+00:00",
       "link": "https://microsoft.github.io/flint-chart/"
@@ -52,7 +80,7 @@ const FEED_DATA = {
     },
     {
       "title": "Everyone is building LLM routers, we deprecated ours",
-      "summary": "Article URL: https://manifest.build/blog/why-we-deprecated-our-llm-router/ Comments URL: https://news.ycombinator.com/item?id=49126630 Points: 116 # Comments: 71",
+      "summary": "Article URL: https://manifest.build/blog/why-we-deprecated-our-llm-router/ Comments URL: https://news.ycombinator.com/item?id=49126630 Points: 120 # Comments: 74",
       "source": "Hacker News",
       "published": "2026-07-31T18:06:39+00:00",
       "link": "https://manifest.build/blog/why-we-deprecated-our-llm-router/"
@@ -108,7 +136,7 @@ const FEED_DATA = {
     },
     {
       "title": "Is AI reasoning right for the wrong reasons?",
-      "summary": "Article URL: https://www.quantamagazine.org/is-ai-reasoning-right-for-the-wrong-reasons-20260731/ Comments URL: https://news.ycombinator.com/item?id=49124358 Points: 154 # Comments: 178",
+      "summary": "Article URL: https://www.quantamagazine.org/is-ai-reasoning-right-for-the-wrong-reasons-20260731/ Comments URL: https://news.ycombinator.com/item?id=49124358 Points: 164 # Comments: 194",
       "source": "Hacker News",
       "published": "2026-07-31T15:29:39+00:00",
       "link": "https://www.quantamagazine.org/is-ai-reasoning-right-for-the-wrong-reasons-20260731/"
@@ -178,7 +206,7 @@ const FEED_DATA = {
     },
     {
       "title": "Situational Awareness down 67% in July in AI stock rout",
-      "summary": "Article URL: https://www.wsj.com/finance/investing/situational-awareness-down-67-in-july-in-ai-stock-rout-cd19901f Comments URL: https://news.ycombinator.com/item?id=49122994 Points: 145 # Comments: 155",
+      "summary": "Article URL: https://www.wsj.com/finance/investing/situational-awareness-down-67-in-july-in-ai-stock-rout-cd19901f Comments URL: https://news.ycombinator.com/item?id=49122994 Points: 147 # Comments: 158",
       "source": "Hacker News",
       "published": "2026-07-31T13:37:36+00:00",
       "link": "https://www.wsj.com/finance/investing/situational-awareness-down-67-in-july-in-ai-stock-rout-cd19901f"
@@ -192,7 +220,7 @@ const FEED_DATA = {
     },
     {
       "title": "The Maxwell Conjecture Is False (GPT 5.6 Sol)",
-      "summary": "Article URL: https://arxiv.org/abs/2607.27197 Comments URL: https://news.ycombinator.com/item?id=49121868 Points: 146 # Comments: 137",
+      "summary": "Article URL: https://arxiv.org/abs/2607.27197 Comments URL: https://news.ycombinator.com/item?id=49121868 Points: 150 # Comments: 138",
       "source": "Hacker News",
       "published": "2026-07-31T11:37:12+00:00",
       "link": "https://arxiv.org/abs/2607.27197"
@@ -213,14 +241,14 @@ const FEED_DATA = {
     },
     {
       "title": "DeepSeek V4 Flash 0731 Intelligence, Performance and Price Analysis",
-      "summary": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-0731 Comments URL: https://news.ycombinator.com/item?id=49120299 Points: 550 # Comments: 294",
+      "summary": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-0731 Comments URL: https://news.ycombinator.com/item?id=49120299 Points: 559 # Comments: 300",
       "source": "Hacker News",
       "published": "2026-07-31T07:59:11+00:00",
       "link": "https://artificialanalysis.ai/models/deepseek-v4-flash"
     },
     {
       "title": "Google fixed more Chrome bugs in June than over the past two years, thanks to AI",
-      "summary": "Article URL: https://blog.google/security/chrome-stronger-with-every-update/ Comments URL: https://news.ycombinator.com/item?id=49120097 Points: 493 # Comments: 510",
+      "summary": "Article URL: https://blog.google/security/chrome-stronger-with-every-update/ Comments URL: https://news.ycombinator.com/item?id=49120097 Points: 521 # Comments: 538",
       "source": "Hacker News",
       "published": "2026-07-31T07:29:22+00:00",
       "link": "https://blog.google/security/chrome-stronger-with-every-update/"
@@ -234,7 +262,7 @@ const FEED_DATA = {
     },
     {
       "title": "The AI trade now runs on borrowed money, and the lenders are repricing it",
-      "summary": "Article URL: https://greyswansignals.com/?theme=dark Comments URL: https://news.ycombinator.com/item?id=49118933 Points: 141 # Comments: 158",
+      "summary": "Article URL: https://greyswansignals.com/?theme=dark Comments URL: https://news.ycombinator.com/item?id=49118933 Points: 141 # Comments: 159",
       "source": "Hacker News",
       "published": "2026-07-31T04:15:04+00:00",
       "link": "https://greyswansignals.com/?theme=dark"
@@ -269,7 +297,7 @@ const FEED_DATA = {
     },
     {
       "title": "The AI Aesthetic",
-      "summary": "Article URL: https://blog.jim-nielsen.com/2026/ai-aesthetic/ Comments URL: https://news.ycombinator.com/item?id=49117099 Points: 364 # Comments: 176",
+      "summary": "Article URL: https://blog.jim-nielsen.com/2026/ai-aesthetic/ Comments URL: https://news.ycombinator.com/item?id=49117099 Points: 367 # Comments: 176",
       "source": "Hacker News",
       "published": "2026-07-30T23:22:16+00:00",
       "link": "https://blog.jim-nielsen.com/2026/ai-aesthetic/"
@@ -381,7 +409,7 @@ const FEED_DATA = {
     },
     {
       "title": "We Gave GPT 5.6 Sol a Real Business. It Lied, Spammed, and Lost $447",
-      "summary": "Article URL: https://www.bottlenecklabs.com/blog/autonomously-run-businesses Comments URL: https://news.ycombinator.com/item?id=49113059 Points: 392 # Comments: 233",
+      "summary": "Article URL: https://www.bottlenecklabs.com/blog/autonomously-run-businesses Comments URL: https://news.ycombinator.com/item?id=49113059 Points: 394 # Comments: 234",
       "source": "Hacker News",
       "published": "2026-07-30T17:31:07+00:00",
       "link": "https://www.bottlenecklabs.com/blog/autonomously-run-businesses"
@@ -458,7 +486,7 @@ const FEED_DATA = {
     },
     {
       "title": "Gemini Robotics 2 brings whole body intelligence to robots",
-      "summary": "Article URL: https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/ Comments URL: https://news.ycombinator.com/item?id=49111237 Points: 609 # Comments: 515",
+      "summary": "Article URL: https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/ Comments URL: https://news.ycombinator.com/item?id=49111237 Points: 609 # Comments: 519",
       "source": "Hacker News",
       "published": "2026-07-30T15:15:48+00:00",
       "link": "https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/"
@@ -528,21 +556,21 @@ const FEED_DATA = {
     },
     {
       "title": "Go LLM SDK for streaming, tool-calling AI backends (plus frontend React lib)",
-      "summary": "Article URL: https://github.com/grafana/ai-sdk Comments URL: https://news.ycombinator.com/item?id=49108778 Points: 58 # Comments: 16",
+      "summary": "Article URL: https://github.com/grafana/ai-sdk Comments URL: https://news.ycombinator.com/item?id=49108778 Points: 59 # Comments: 16",
       "source": "Hacker News",
       "published": "2026-07-30T11:55:39+00:00",
       "link": "https://github.com/grafana/ai-sdk"
     },
     {
       "title": "GCC steering committee announces AI policy",
-      "summary": "Article URL: https://lwn.net/Articles/1086041/ Comments URL: https://news.ycombinator.com/item?id=49108685 Points: 346 # Comments: 420",
+      "summary": "Article URL: https://lwn.net/Articles/1086041/ Comments URL: https://news.ycombinator.com/item?id=49108685 Points: 348 # Comments: 420",
       "source": "Hacker News",
       "published": "2026-07-30T11:45:44+00:00",
       "link": "https://lwn.net/Articles/1086041/"
     },
     {
       "title": "'My life's screwed': Korean investors stress out after AI bubble bursts",
-      "summary": "Article URL: https://www.ft.com/content/23f388eb-e8ab-4fb1-b1ca-8e04eb4561a1 Comments URL: https://news.ycombinator.com/item?id=49108480 Points: 56 # Comments: 44",
+      "summary": "Article URL: https://www.ft.com/content/23f388eb-e8ab-4fb1-b1ca-8e04eb4561a1 Comments URL: https://news.ycombinator.com/item?id=49108480 Points: 57 # Comments: 44",
       "source": "Hacker News",
       "published": "2026-07-30T11:22:19+00:00",
       "link": "https://www.ft.com/content/23f388eb-e8ab-4fb1-b1ca-8e04eb4561a1"
@@ -1372,34 +1400,6 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-07-27T07:51:16+00:00",
       "link": "https://the-decoder.com/shared-claude-chats-were-reportedly-showing-up-in-search-engines/"
-    },
-    {
-      "title": "Are brain waves the next unlock for physical AI?",
-      "summary": "Forget YouTube videos — frontier physical AI models need multiple camera angles, dense annotation, and, soon, brain wave readings.",
-      "source": "TechCrunch",
-      "published": "2026-07-27T00:19:14+00:00",
-      "link": "https://techcrunch.com/2026/07/26/are-brain-waves-the-next-unlock-for-physical-ai/"
-    },
-    {
-      "title": "Making sense of the panic over Chinese AI",
-      "summary": "On the latest episode of Equity, we discussed why Moonshot AI's Kimi seemed to panic Silicon Valley and Wall Street.",
-      "source": "TechCrunch",
-      "published": "2026-07-26T19:40:57+00:00",
-      "link": "https://techcrunch.com/2026/07/26/making-sense-of-the-panic-over-chinese-ai/"
-    },
-    {
-      "title": "Hugging Face CEO calls for ‘radical transparency’ after ‘unprecedented’ OpenAI hack",
-      "summary": "\"The first autonomous agent cyberattack is an unprecedented event. It deserves an unprecedented response!\"",
-      "source": "TechCrunch",
-      "published": "2026-07-26T16:33:13+00:00",
-      "link": "https://techcrunch.com/2026/07/26/hugging-face-ceo-calls-for-radical-transparency-after-unprecedented-openai-hack/"
-    },
-    {
-      "title": "This July I Was Fired from Simple AI (A Deeply YC Company)",
-      "summary": "Article URL: https://andys.blog/this-july-i-was-fired-from-simple-ai/ Comments URL: https://news.ycombinator.com/item?id=49059587 Points: 55 # Comments: 170",
-      "source": "Hacker News",
-      "published": "2026-07-26T16:14:46+00:00",
-      "link": "https://andys.blog/this-july-i-was-fired-from-simple-ai/"
     }
   ]
 };
