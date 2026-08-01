@@ -1,6 +1,20 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-08-01T14:27:40.183596+00:00",
+  "lastUpdated": "2026-08-01T17:56:18.339380+00:00",
   "items": [
+    {
+      "title": "Sam Altman is still making the case for parenting via ChatGPT",
+      "summary": "OpenAI's CEO seemed excited to share a \"cool use case\" for parents.",
+      "source": "TechCrunch",
+      "published": "2026-08-01T17:07:34+00:00",
+      "link": "https://techcrunch.com/2026/08/01/sam-altman-is-still-making-the-case-for-parenting-via-chatgpt/"
+    },
+    {
+      "title": "AI keeps cracking unsolved math problems, and mathematicians have mixed feelings",
+      "summary": "OpenAI's refutation of the Unit Distance Conjecture has sparked a wave of AI-assisted advances in mathematics. Fields Medal winner Timothy Gowers says GPT 5.6 Pro solved two problems he had spent considerable time working on, each on its first attempt.",
+      "source": "The Decoder",
+      "published": "2026-08-01T16:01:31+00:00",
+      "link": "https://the-decoder.com/ai-keeps-cracking-unsolved-math-problems-and-mathematicians-have-mixed-feelings/"
+    },
     {
       "title": "AI coding agents can modernize research software but can't judge if the science is right",
       "summary": "A field report from OpenAI and academic partners shows coding agents can modernize neglected research software, with speedups of up to 60x. But the systems are \"eloquent, convincing, and confidently wrong in ways that are easy to miss,\" participants say.",
@@ -24,10 +38,17 @@ const FEED_DATA = {
     },
     {
       "title": "Google kills Earth AI generator after one day",
-      "summary": "Article URL: https://twitter.com/newsfromgoogle/status/2083249962150760610 Comments URL: https://news.ycombinator.com/item?id=49134079 Points: 50 # Comments: 70",
+      "summary": "Article URL: https://twitter.com/newsfromgoogle/status/2083249962150760610 Comments URL: https://news.ycombinator.com/item?id=49134079 Points: 58 # Comments: 90",
       "source": "Hacker News",
       "published": "2026-08-01T13:02:44+00:00",
       "link": "https://twitter.com/newsfromgoogle/status/2083249962150760610"
+    },
+    {
+      "title": "Charlie Stross – On the non-use of AI in my writing process",
+      "summary": "Article URL: https://www.antipope.org/charlie/blog-static/2026/08/on-the-non-use-of-ai-in-my-wri.html Comments URL: https://news.ycombinator.com/item?id=49134038 Points: 93 # Comments: 73",
+      "source": "Hacker News",
+      "published": "2026-08-01T12:56:54+00:00",
+      "link": "https://www.antipope.org/charlie/blog-static/2026/08/on-the-non-use-of-ai-in-my-wri.html"
     },
     {
       "title": "German court rules AI music generator Suno violated copyrights, rejects fair use defense",
@@ -42,6 +63,13 @@ const FEED_DATA = {
       "source": "Wired",
       "published": "2026-08-01T10:30:00+00:00",
       "link": "https://www.wired.com/story/security-news-this-week-7-states-water-systems-hit-by-cyberattacks-likely-tied-to-iran/"
+    },
+    {
+      "title": "The OpenAI and Anthropic AI Hacking Sprees Are a Messy New Legal Frontier",
+      "summary": "Both major AI labs’ models broke containment, escaped onto the internet, and hacked other companies. If a human had done that, the law would likely be against them.",
+      "source": "Wired",
+      "published": "2026-08-01T09:30:00+00:00",
+      "link": "https://www.wired.com/story/openai-anthropic-ai-hacking-sprees-illegal/"
     },
     {
       "title": "Nobody Knows if OpenAI’s and Anthropic’s AI Hacking Sprees Are Illegal",
@@ -66,21 +94,21 @@ const FEED_DATA = {
     },
     {
       "title": "EU will mandate labels on authentic-looking AI content starting August 2",
-      "summary": "Article URL: https://www.engadget.com/2227966/eu-mandate-labels-on-authentic-looking-ai-content/ Comments URL: https://news.ycombinator.com/item?id=49132341 Points: 61 # Comments: 95",
+      "summary": "Article URL: https://www.engadget.com/2227966/eu-mandate-labels-on-authentic-looking-ai-content/ Comments URL: https://news.ycombinator.com/item?id=49132341 Points: 65 # Comments: 100",
       "source": "Hacker News",
       "published": "2026-08-01T08:26:55+00:00",
       "link": "https://www.engadget.com/2227966/eu-mandate-labels-on-authentic-looking-ai-content/"
     },
     {
       "title": "AI doesn't generate working products, that's still your job",
-      "summary": "Article URL: https://weeraman.com/the-prototype-isnt-the-product/ Comments URL: https://news.ycombinator.com/item?id=49132130 Points: 218 # Comments: 215",
+      "summary": "Article URL: https://weeraman.com/the-prototype-isnt-the-product/ Comments URL: https://news.ycombinator.com/item?id=49132130 Points: 236 # Comments: 242",
       "source": "Hacker News",
       "published": "2026-08-01T07:52:10+00:00",
       "link": "https://weeraman.com/the-prototype-isnt-the-product/"
     },
     {
       "title": "Flint: A Visualization Language for the AI Era",
-      "summary": "Article URL: https://microsoft.github.io/flint-chart/ Comments URL: https://news.ycombinator.com/item?id=49130604 Points: 176 # Comments: 58",
+      "summary": "Article URL: https://microsoft.github.io/flint-chart/ Comments URL: https://news.ycombinator.com/item?id=49130604 Points: 227 # Comments: 65",
       "source": "Hacker News",
       "published": "2026-08-01T02:45:09+00:00",
       "link": "https://microsoft.github.io/flint-chart/"
@@ -129,7 +157,7 @@ const FEED_DATA = {
     },
     {
       "title": "Everyone is building LLM routers, we deprecated ours",
-      "summary": "Article URL: https://manifest.build/blog/why-we-deprecated-our-llm-router/ Comments URL: https://news.ycombinator.com/item?id=49126630 Points: 124 # Comments: 75",
+      "summary": "Article URL: https://manifest.build/blog/why-we-deprecated-our-llm-router/ Comments URL: https://news.ycombinator.com/item?id=49126630 Points: 127 # Comments: 81",
       "source": "Hacker News",
       "published": "2026-07-31T18:06:39+00:00",
       "link": "https://manifest.build/blog/why-we-deprecated-our-llm-router/"
@@ -185,7 +213,7 @@ const FEED_DATA = {
     },
     {
       "title": "Is AI reasoning right for the wrong reasons?",
-      "summary": "Article URL: https://www.quantamagazine.org/is-ai-reasoning-right-for-the-wrong-reasons-20260731/ Comments URL: https://news.ycombinator.com/item?id=49124358 Points: 177 # Comments: 207",
+      "summary": "Article URL: https://www.quantamagazine.org/is-ai-reasoning-right-for-the-wrong-reasons-20260731/ Comments URL: https://news.ycombinator.com/item?id=49124358 Points: 189 # Comments: 217",
       "source": "Hacker News",
       "published": "2026-07-31T15:29:39+00:00",
       "link": "https://www.quantamagazine.org/is-ai-reasoning-right-for-the-wrong-reasons-20260731/"
@@ -255,7 +283,7 @@ const FEED_DATA = {
     },
     {
       "title": "Situational Awareness down 67% in July in AI stock rout",
-      "summary": "Article URL: https://www.wsj.com/finance/investing/situational-awareness-down-67-in-july-in-ai-stock-rout-cd19901f Comments URL: https://news.ycombinator.com/item?id=49122994 Points: 150 # Comments: 158",
+      "summary": "Article URL: https://www.wsj.com/finance/investing/situational-awareness-down-67-in-july-in-ai-stock-rout-cd19901f Comments URL: https://news.ycombinator.com/item?id=49122994 Points: 153 # Comments: 164",
       "source": "Hacker News",
       "published": "2026-07-31T13:37:36+00:00",
       "link": "https://www.wsj.com/finance/investing/situational-awareness-down-67-in-july-in-ai-stock-rout-cd19901f"
@@ -269,7 +297,7 @@ const FEED_DATA = {
     },
     {
       "title": "The Maxwell Conjecture Is False (GPT 5.6 Sol)",
-      "summary": "Article URL: https://arxiv.org/abs/2607.27197 Comments URL: https://news.ycombinator.com/item?id=49121868 Points: 153 # Comments: 138",
+      "summary": "Article URL: https://arxiv.org/abs/2607.27197 Comments URL: https://news.ycombinator.com/item?id=49121868 Points: 153 # Comments: 139",
       "source": "Hacker News",
       "published": "2026-07-31T11:37:12+00:00",
       "link": "https://arxiv.org/abs/2607.27197"
@@ -290,14 +318,14 @@ const FEED_DATA = {
     },
     {
       "title": "DeepSeek V4 Flash 0731 Intelligence, Performance and Price Analysis",
-      "summary": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-0731 Comments URL: https://news.ycombinator.com/item?id=49120299 Points: 567 # Comments: 306",
+      "summary": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-0731 Comments URL: https://news.ycombinator.com/item?id=49120299 Points: 574 # Comments: 307",
       "source": "Hacker News",
       "published": "2026-07-31T07:59:11+00:00",
       "link": "https://artificialanalysis.ai/models/deepseek-v4-flash"
     },
     {
       "title": "Google fixed more Chrome bugs in June than over the past two years, thanks to AI",
-      "summary": "Article URL: https://blog.google/security/chrome-stronger-with-every-update/ Comments URL: https://news.ycombinator.com/item?id=49120097 Points: 542 # Comments: 564",
+      "summary": "Article URL: https://blog.google/security/chrome-stronger-with-every-update/ Comments URL: https://news.ycombinator.com/item?id=49120097 Points: 548 # Comments: 581",
       "source": "Hacker News",
       "published": "2026-07-31T07:29:22+00:00",
       "link": "https://blog.google/security/chrome-stronger-with-every-update/"
@@ -346,7 +374,7 @@ const FEED_DATA = {
     },
     {
       "title": "The AI Aesthetic",
-      "summary": "Article URL: https://blog.jim-nielsen.com/2026/ai-aesthetic/ Comments URL: https://news.ycombinator.com/item?id=49117099 Points: 369 # Comments: 177",
+      "summary": "Article URL: https://blog.jim-nielsen.com/2026/ai-aesthetic/ Comments URL: https://news.ycombinator.com/item?id=49117099 Points: 370 # Comments: 176",
       "source": "Hacker News",
       "published": "2026-07-30T23:22:16+00:00",
       "link": "https://blog.jim-nielsen.com/2026/ai-aesthetic/"
@@ -458,7 +486,7 @@ const FEED_DATA = {
     },
     {
       "title": "We Gave GPT 5.6 Sol a Real Business. It Lied, Spammed, and Lost $447",
-      "summary": "Article URL: https://www.bottlenecklabs.com/blog/autonomously-run-businesses Comments URL: https://news.ycombinator.com/item?id=49113059 Points: 398 # Comments: 234",
+      "summary": "Article URL: https://www.bottlenecklabs.com/blog/autonomously-run-businesses Comments URL: https://news.ycombinator.com/item?id=49113059 Points: 399 # Comments: 234",
       "source": "Hacker News",
       "published": "2026-07-30T17:31:07+00:00",
       "link": "https://www.bottlenecklabs.com/blog/autonomously-run-businesses"
@@ -472,7 +500,7 @@ const FEED_DATA = {
     },
     {
       "title": "Advancing the price-performance frontier with GPT‑5.6",
-      "summary": "Article URL: https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6/ Comments URL: https://news.ycombinator.com/item?id=49112867 Points: 601 # Comments: 394",
+      "summary": "Article URL: https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6/ Comments URL: https://news.ycombinator.com/item?id=49112867 Points: 603 # Comments: 395",
       "source": "Hacker News",
       "published": "2026-07-30T17:15:51+00:00",
       "link": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6/"
@@ -535,7 +563,7 @@ const FEED_DATA = {
     },
     {
       "title": "Gemini Robotics 2 brings whole body intelligence to robots",
-      "summary": "Article URL: https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/ Comments URL: https://news.ycombinator.com/item?id=49111237 Points: 611 # Comments: 526",
+      "summary": "Article URL: https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/ Comments URL: https://news.ycombinator.com/item?id=49111237 Points: 612 # Comments: 529",
       "source": "Hacker News",
       "published": "2026-07-30T15:15:48+00:00",
       "link": "https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/"
@@ -1372,34 +1400,6 @@ const FEED_DATA = {
       "source": "Hacker News",
       "published": "2026-07-27T12:56:36+00:00",
       "link": "https://abeljansma.nl/2026/07/10/truth-is-not-a-direction.html"
-    },
-    {
-      "title": "AI companies are shredding rare books",
-      "summary": "https://xcancel.com/HedgieMarkets/status/2081534588485296565 Comments URL: https://news.ycombinator.com/item?id=49068738 Points: 790 # Comments: 510",
-      "source": "Hacker News",
-      "published": "2026-07-27T12:32:12+00:00",
-      "link": "https://twitter.com/HedgieMarkets/status/2081534588485296565"
-    },
-    {
-      "title": "METR introduces a new metric to calculate exactly when AI agents become more expensive than humans",
-      "summary": "METR's new metric, the \"expenditure horizon,\" puts a dollar figure on how cost-effective AI agents are at solving problems. Early results on the NanoGPT speedrun are underwhelming, the metric has blind spots, and the newest generation of models could change the picture.",
-      "source": "The Decoder",
-      "published": "2026-07-27T12:28:06+00:00",
-      "link": "https://the-decoder.com/metr-introduces-a-new-metric-to-calculate-exactly-when-ai-agents-become-more-expensive-than-humans/"
-    },
-    {
-      "title": "The Download: lasers for nuclear fuel, and organ preservation advances",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.",
-      "source": "MIT Tech Review",
-      "published": "2026-07-27T12:10:00+00:00",
-      "link": "https://www.technologyreview.com/2026/07/27/1140833/the-download-lasers-nuclear-organ-preservation/"
-    },
-    {
-      "title": "Nvidia, Microsoft launch open AI security alliance — without OpenAI, Google, or Anthropic",
-      "summary": "Nvidia on Monday said it is joining forces with Microsoft, SpaceX, IBM, and other tech companies to build and share open-source AI security tools. The new Open Secure AI Alliance said open tools are required to effectively defend against attacks from frontier models.",
-      "source": "The Verge",
-      "published": "2026-07-27T12:06:22+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/971281/nvidia-open-secure-ai-alliance-cybersecurity"
     }
   ]
 };
