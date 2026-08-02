@@ -1,6 +1,41 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-08-02T10:22:15.967754+00:00",
+  "lastUpdated": "2026-08-02T14:37:01.838657+00:00",
   "items": [
+    {
+      "title": "OpenAI Presence wants to make AI agents production-ready for businesses",
+      "summary": "OpenAI's new enterprise offering, Presence, is designed to get AI agents into production for customer service and internal workflows. Unlike the existing Workspace Agents, Presence targets external deployments.",
+      "source": "The Decoder",
+      "published": "2026-08-02T13:10:21+00:00",
+      "link": "https://the-decoder.com/openai-presence-wants-to-make-ai-agents-production-ready-for-businesses/"
+    },
+    {
+      "title": "Is paying artists enough to convince them to embrace AI?",
+      "summary": "Illustrators have spent years sounding the alarm about generative artificial intelligence startups training their models on artists' work without permission.",
+      "source": "The Verge",
+      "published": "2026-08-02T13:00:00+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/974018/pippa-seedance-artist-royalties"
+    },
+    {
+      "title": "Meta AI uses a second AI agent as a memory coach to keep long tasks on track",
+      "summary": "Meta AI wants to stop AI agents from forgetting errors they've already diagnosed and repeating failed steps during complex tasks. A separate memory agent maintains a structured memory bank and decides when to remind the main agent and when to stay silent.",
+      "source": "The Decoder",
+      "published": "2026-08-02T12:57:38+00:00",
+      "link": "https://the-decoder.com/meta-ai-uses-a-second-ai-agent-as-a-memory-coach-to-keep-long-tasks-on-track/"
+    },
+    {
+      "title": "A real macOS flaw worth $200K went unreported because Apple's bug bounty inbox was full of AI slop",
+      "summary": "Apple's bug bounty program is drowning in AI-generated bug reports. The company has capped submissions per researcher because fabricated reports are clogging the review pipeline.",
+      "source": "The Decoder",
+      "published": "2026-08-02T12:42:49+00:00",
+      "link": "https://the-decoder.com/a-real-macos-flaw-worth-200k-went-unreported-because-apples-bug-bounty-inbox-was-full-of-ai-slop/"
+    },
+    {
+      "title": "Artificial Intelligence: Ars Notoria and the Promise of Instant Knowledge",
+      "summary": "Article URL: https://publicdomainreview.org/essay/ars-notoria/ Comments URL: https://news.ycombinator.com/item?id=49143001 Points: 60 # Comments: 8",
+      "source": "Hacker News",
+      "published": "2026-08-02T10:18:24+00:00",
+      "link": "https://publicdomainreview.org/essay/ars-notoria/"
+    },
     {
       "title": "AI finds plenty of security flaws, but almost none of them get exploited",
       "summary": "VulnCheck counted how often security flaws found by AI actually get exploited. Out of 1,061 AI-discovered vulnerabilities in the first half of 2026, just 14 saw confirmed attacks.",
@@ -38,14 +73,14 @@ const FEED_DATA = {
     },
     {
       "title": "Zitron: \"Everyone Has Been Sold a Lie\" on AI",
-      "summary": "Article URL: https://www.youtube.com/watch?v=pHcZpvIfho0 Comments URL: https://news.ycombinator.com/item?id=49139325 Points: 51 # Comments: 35",
+      "summary": "Article URL: https://www.youtube.com/watch?v=pHcZpvIfho0 Comments URL: https://news.ycombinator.com/item?id=49139325 Points: 51 # Comments: 38",
       "source": "Hacker News",
       "published": "2026-08-01T22:50:30+00:00",
       "link": "https://www.youtube.com/watch?v=pHcZpvIfho0"
     },
     {
       "title": "AI financial advice is surprisingly good, especially if you ask right questions",
-      "summary": "Article URL: https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions Comments URL: https://news.ycombinator.com/item?id=49139102 Points: 305 # Comments: 279",
+      "summary": "Article URL: https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions Comments URL: https://news.ycombinator.com/item?id=49139102 Points: 321 # Comments: 348",
       "source": "Hacker News",
       "published": "2026-08-01T22:25:12+00:00",
       "link": "https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions"
@@ -108,14 +143,14 @@ const FEED_DATA = {
     },
     {
       "title": "Google kills Earth AI generator after one day",
-      "summary": "Article URL: https://twitter.com/newsfromgoogle/status/2083249962150760610 Comments URL: https://news.ycombinator.com/item?id=49134079 Points: 62 # Comments: 101",
+      "summary": "Article URL: https://twitter.com/newsfromgoogle/status/2083249962150760610 Comments URL: https://news.ycombinator.com/item?id=49134079 Points: 62 # Comments: 102",
       "source": "Hacker News",
       "published": "2026-08-01T13:02:44+00:00",
       "link": "https://twitter.com/newsfromgoogle/status/2083249962150760610"
     },
     {
       "title": "On the non-use of AI in my writing process",
-      "summary": "Article URL: https://www.antipope.org/charlie/blog-static/2026/08/on-the-non-use-of-ai-in-my-wri.html Comments URL: https://news.ycombinator.com/item?id=49134038 Points: 130 # Comments: 122",
+      "summary": "Article URL: https://www.antipope.org/charlie/blog-static/2026/08/on-the-non-use-of-ai-in-my-wri.html Comments URL: https://news.ycombinator.com/item?id=49134038 Points: 130 # Comments: 128",
       "source": "Hacker News",
       "published": "2026-08-01T12:56:54+00:00",
       "link": "https://www.antipope.org/charlie/blog-static/2026/08/on-the-non-use-of-ai-in-my-wri.html"
@@ -178,14 +213,14 @@ const FEED_DATA = {
     },
     {
       "title": "AI doesn't generate working products, that's still your job",
-      "summary": "Article URL: https://weeraman.com/the-prototype-isnt-the-product/ Comments URL: https://news.ycombinator.com/item?id=49132130 Points: 255 # Comments: 275",
+      "summary": "Article URL: https://weeraman.com/the-prototype-isnt-the-product/ Comments URL: https://news.ycombinator.com/item?id=49132130 Points: 257 # Comments: 286",
       "source": "Hacker News",
       "published": "2026-08-01T07:52:10+00:00",
       "link": "https://weeraman.com/the-prototype-isnt-the-product/"
     },
     {
       "title": "Flint: A Visualization Language for the AI Era",
-      "summary": "Article URL: https://microsoft.github.io/flint-chart/ Comments URL: https://news.ycombinator.com/item?id=49130604 Points: 262 # Comments: 68",
+      "summary": "Article URL: https://microsoft.github.io/flint-chart/ Comments URL: https://news.ycombinator.com/item?id=49130604 Points: 265 # Comments: 68",
       "source": "Hacker News",
       "published": "2026-08-01T02:45:09+00:00",
       "link": "https://microsoft.github.io/flint-chart/"
@@ -290,7 +325,7 @@ const FEED_DATA = {
     },
     {
       "title": "Is AI reasoning right for the wrong reasons?",
-      "summary": "Article URL: https://www.quantamagazine.org/is-ai-reasoning-right-for-the-wrong-reasons-20260731/ Comments URL: https://news.ycombinator.com/item?id=49124358 Points: 206 # Comments: 235",
+      "summary": "Article URL: https://www.quantamagazine.org/is-ai-reasoning-right-for-the-wrong-reasons-20260731/ Comments URL: https://news.ycombinator.com/item?id=49124358 Points: 208 # Comments: 235",
       "source": "Hacker News",
       "published": "2026-07-31T15:29:39+00:00",
       "link": "https://www.quantamagazine.org/is-ai-reasoning-right-for-the-wrong-reasons-20260731/"
@@ -374,7 +409,7 @@ const FEED_DATA = {
     },
     {
       "title": "The Maxwell Conjecture Is False (GPT 5.6 Sol)",
-      "summary": "Article URL: https://arxiv.org/abs/2607.27197 Comments URL: https://news.ycombinator.com/item?id=49121868 Points: 155 # Comments: 139",
+      "summary": "Article URL: https://arxiv.org/abs/2607.27197 Comments URL: https://news.ycombinator.com/item?id=49121868 Points: 156 # Comments: 140",
       "source": "Hacker News",
       "published": "2026-07-31T11:37:12+00:00",
       "link": "https://arxiv.org/abs/2607.27197"
@@ -395,14 +430,14 @@ const FEED_DATA = {
     },
     {
       "title": "DeepSeek V4 Flash 0731 Intelligence, Performance and Price Analysis",
-      "summary": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-0731 Comments URL: https://news.ycombinator.com/item?id=49120299 Points: 583 # Comments: 311",
+      "summary": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-0731 Comments URL: https://news.ycombinator.com/item?id=49120299 Points: 584 # Comments: 311",
       "source": "Hacker News",
       "published": "2026-07-31T07:59:11+00:00",
       "link": "https://artificialanalysis.ai/models/deepseek-v4-flash"
     },
     {
       "title": "Google fixed more Chrome bugs in June than over the past two years, thanks to AI",
-      "summary": "Article URL: https://blog.google/security/chrome-stronger-with-every-update/ Comments URL: https://news.ycombinator.com/item?id=49120097 Points: 563 # Comments: 606",
+      "summary": "Article URL: https://blog.google/security/chrome-stronger-with-every-update/ Comments URL: https://news.ycombinator.com/item?id=49120097 Points: 566 # Comments: 610",
       "source": "Hacker News",
       "published": "2026-07-31T07:29:22+00:00",
       "link": "https://blog.google/security/chrome-stronger-with-every-update/"
@@ -416,7 +451,7 @@ const FEED_DATA = {
     },
     {
       "title": "The AI trade now runs on borrowed money, and the lenders are repricing it",
-      "summary": "Article URL: https://greyswansignals.com/?theme=dark Comments URL: https://news.ycombinator.com/item?id=49118933 Points: 141 # Comments: 162",
+      "summary": "Article URL: https://greyswansignals.com/?theme=dark Comments URL: https://news.ycombinator.com/item?id=49118933 Points: 141 # Comments: 163",
       "source": "Hacker News",
       "published": "2026-07-31T04:15:04+00:00",
       "link": "https://greyswansignals.com/?theme=dark"
@@ -563,7 +598,7 @@ const FEED_DATA = {
     },
     {
       "title": "We Gave GPT 5.6 Sol a Real Business. It Lied, Spammed, and Lost $447",
-      "summary": "Article URL: https://www.bottlenecklabs.com/blog/autonomously-run-businesses Comments URL: https://news.ycombinator.com/item?id=49113059 Points: 402 # Comments: 234",
+      "summary": "Article URL: https://www.bottlenecklabs.com/blog/autonomously-run-businesses Comments URL: https://news.ycombinator.com/item?id=49113059 Points: 403 # Comments: 234",
       "source": "Hacker News",
       "published": "2026-07-30T17:31:07+00:00",
       "link": "https://www.bottlenecklabs.com/blog/autonomously-run-businesses"
@@ -1365,41 +1400,6 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-07-27T19:08:51+00:00",
       "link": "https://the-decoder.com/openai-says-more-workers-are-using-chatgpt-to-do-other-peoples-jobs/"
-    },
-    {
-      "title": "Microsoft launches its own cybersecurity model MAI-Cyber-1-Flash but still depends on OpenAI for the toughest tasks",
-      "summary": "Microsoft introduces MAI-Cyber-1-Flash, a compact security model that scores 96 percent on the CyberGym benchmark when embedded in its MDASH multi-agent system.",
-      "source": "The Decoder",
-      "published": "2026-07-27T18:50:07+00:00",
-      "link": "https://the-decoder.com/microsoft-launches-its-own-cybersecurity-model-mai-cyber-1-flash-but-still-depends-on-openai-for-the-toughest-tasks/"
-    },
-    {
-      "title": "Microsoft launches its first cybersecurity model, plus a new agentic cybersecurity system",
-      "summary": "Microsoft bolstered its AI cybersecurity offerings this week with the launch of its first AI security model and a new security platform.",
-      "source": "TechCrunch",
-      "published": "2026-07-27T18:32:11+00:00",
-      "link": "https://techcrunch.com/2026/07/27/microsoft-launches-its-first-cyber-model-and-a-new-agentic-cybersecurity-system/"
-    },
-    {
-      "title": "OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here.",
-      "source": "MIT Tech Review",
-      "published": "2026-07-27T18:00:00+00:00",
-      "link": "https://www.technologyreview.com/2026/07/27/1140836/openai-hugging-face-attack-precedent/"
-    },
-    {
-      "title": "Delhi High Court hands OpenAI a win by rejecting major Indian news agency's copyright injunction",
-      "summary": "The Delhi High Court has handed OpenAI a major win in its copyright fight with news agency ANI. For the first time, a court has classified AI training as private use.",
-      "source": "The Decoder",
-      "published": "2026-07-27T17:55:24+00:00",
-      "link": "https://the-decoder.com/delhi-high-court-hands-openai-a-win-by-rejecting-major-indian-news-agencys-copyright-injunction/"
-    },
-    {
-      "title": "OpenAI’s Hugging Face breach has reignited the debate over alignment and control",
-      "summary": "OpenAI's Hugging Face breach has reignited debate over AI alignment and control, exposing competing views on whether increasingly capable AI should be better aligned, better contained, or both.",
-      "source": "TechCrunch",
-      "published": "2026-07-27T17:28:42+00:00",
-      "link": "https://techcrunch.com/2026/07/27/openais-hugging-face-breach-has-reignited-the-debate-over-alignment-and-control/"
     }
   ]
 };
