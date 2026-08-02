@@ -1,6 +1,34 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-08-02T04:21:39.265320+00:00",
+  "lastUpdated": "2026-08-02T07:32:52.340173+00:00",
   "items": [
+    {
+      "title": "Europeans Are About to Find Out How Entrenched AI Is in Their Daily Lives",
+      "summary": "New EU rules stipulate that people must be told when they’re interacting with AI or looking at AI-generated or -edited content, leading to fear of “disclosure fatigue.”",
+      "source": "Wired",
+      "published": "2026-08-02T07:31:24+00:00",
+      "link": "https://www.wired.com/story/europeans-are-about-to-find-out-how-entrenched-ai-is-in-their-daily-lives/"
+    },
+    {
+      "title": "Snap and LinkedIn are fighting back against a flood of low-quality AI content",
+      "summary": "Snap is banning AI-generated videos from Spotlight to keep the feed focused on human creativity. Content edited with Snapchat's own AI tools is still allowed.",
+      "source": "The Decoder",
+      "published": "2026-08-02T06:49:28+00:00",
+      "link": "https://the-decoder.com/snap-and-linkedin-are-fighting-back-against-a-flood-of-low-quality-ai-content/"
+    },
+    {
+      "title": "Zitron: \"Everyone Has Been Sold a Lie\" on AI",
+      "summary": "Article URL: https://www.youtube.com/watch?v=pHcZpvIfho0 Comments URL: https://news.ycombinator.com/item?id=49139325 Points: 50 # Comments: 31",
+      "source": "Hacker News",
+      "published": "2026-08-01T22:50:30+00:00",
+      "link": "https://www.youtube.com/watch?v=pHcZpvIfho0"
+    },
+    {
+      "title": "AI financial advice is surprisingly good, especially if you ask right questions",
+      "summary": "Article URL: https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions Comments URL: https://news.ycombinator.com/item?id=49139102 Points: 280 # Comments: 245",
+      "source": "Hacker News",
+      "published": "2026-08-01T22:25:12+00:00",
+      "link": "https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions"
+    },
     {
       "title": "Judge denies xAI’s request to block Minnesota ban on ‘nudify’ apps",
       "summary": "Despite a lawsuit from xAI, a Minnesota ban on apps that allow users to “nudify” images can move forward.",
@@ -59,10 +87,17 @@ const FEED_DATA = {
     },
     {
       "title": "Google kills Earth AI generator after one day",
-      "summary": "Article URL: https://twitter.com/newsfromgoogle/status/2083249962150760610 Comments URL: https://news.ycombinator.com/item?id=49134079 Points: 58 # Comments: 90",
+      "summary": "Article URL: https://twitter.com/newsfromgoogle/status/2083249962150760610 Comments URL: https://news.ycombinator.com/item?id=49134079 Points: 62 # Comments: 100",
       "source": "Hacker News",
       "published": "2026-08-01T13:02:44+00:00",
       "link": "https://twitter.com/newsfromgoogle/status/2083249962150760610"
+    },
+    {
+      "title": "On the non-use of AI in my writing process",
+      "summary": "Article URL: https://www.antipope.org/charlie/blog-static/2026/08/on-the-non-use-of-ai-in-my-wri.html Comments URL: https://news.ycombinator.com/item?id=49134038 Points: 130 # Comments: 122",
+      "source": "Hacker News",
+      "published": "2026-08-01T12:56:54+00:00",
+      "link": "https://www.antipope.org/charlie/blog-static/2026/08/on-the-non-use-of-ai-in-my-wri.html"
     },
     {
       "title": "Charlie Stross – On the non-use of AI in my writing process",
@@ -115,21 +150,21 @@ const FEED_DATA = {
     },
     {
       "title": "EU will mandate labels on authentic-looking AI content starting August 2",
-      "summary": "Article URL: https://www.engadget.com/2227966/eu-mandate-labels-on-authentic-looking-ai-content/ Comments URL: https://news.ycombinator.com/item?id=49132341 Points: 65 # Comments: 100",
+      "summary": "Article URL: https://www.engadget.com/2227966/eu-mandate-labels-on-authentic-looking-ai-content/ Comments URL: https://news.ycombinator.com/item?id=49132341 Points: 73 # Comments: 104",
       "source": "Hacker News",
       "published": "2026-08-01T08:26:55+00:00",
       "link": "https://www.engadget.com/2227966/eu-mandate-labels-on-authentic-looking-ai-content/"
     },
     {
       "title": "AI doesn't generate working products, that's still your job",
-      "summary": "Article URL: https://weeraman.com/the-prototype-isnt-the-product/ Comments URL: https://news.ycombinator.com/item?id=49132130 Points: 236 # Comments: 242",
+      "summary": "Article URL: https://weeraman.com/the-prototype-isnt-the-product/ Comments URL: https://news.ycombinator.com/item?id=49132130 Points: 254 # Comments: 269",
       "source": "Hacker News",
       "published": "2026-08-01T07:52:10+00:00",
       "link": "https://weeraman.com/the-prototype-isnt-the-product/"
     },
     {
       "title": "Flint: A Visualization Language for the AI Era",
-      "summary": "Article URL: https://microsoft.github.io/flint-chart/ Comments URL: https://news.ycombinator.com/item?id=49130604 Points: 227 # Comments: 65",
+      "summary": "Article URL: https://microsoft.github.io/flint-chart/ Comments URL: https://news.ycombinator.com/item?id=49130604 Points: 260 # Comments: 67",
       "source": "Hacker News",
       "published": "2026-08-01T02:45:09+00:00",
       "link": "https://microsoft.github.io/flint-chart/"
@@ -178,7 +213,7 @@ const FEED_DATA = {
     },
     {
       "title": "Everyone is building LLM routers, we deprecated ours",
-      "summary": "Article URL: https://manifest.build/blog/why-we-deprecated-our-llm-router/ Comments URL: https://news.ycombinator.com/item?id=49126630 Points: 127 # Comments: 81",
+      "summary": "Article URL: https://manifest.build/blog/why-we-deprecated-our-llm-router/ Comments URL: https://news.ycombinator.com/item?id=49126630 Points: 129 # Comments: 85",
       "source": "Hacker News",
       "published": "2026-07-31T18:06:39+00:00",
       "link": "https://manifest.build/blog/why-we-deprecated-our-llm-router/"
@@ -234,7 +269,7 @@ const FEED_DATA = {
     },
     {
       "title": "Is AI reasoning right for the wrong reasons?",
-      "summary": "Article URL: https://www.quantamagazine.org/is-ai-reasoning-right-for-the-wrong-reasons-20260731/ Comments URL: https://news.ycombinator.com/item?id=49124358 Points: 189 # Comments: 217",
+      "summary": "Article URL: https://www.quantamagazine.org/is-ai-reasoning-right-for-the-wrong-reasons-20260731/ Comments URL: https://news.ycombinator.com/item?id=49124358 Points: 205 # Comments: 232",
       "source": "Hacker News",
       "published": "2026-07-31T15:29:39+00:00",
       "link": "https://www.quantamagazine.org/is-ai-reasoning-right-for-the-wrong-reasons-20260731/"
@@ -304,7 +339,7 @@ const FEED_DATA = {
     },
     {
       "title": "Situational Awareness down 67% in July in AI stock rout",
-      "summary": "Article URL: https://www.wsj.com/finance/investing/situational-awareness-down-67-in-july-in-ai-stock-rout-cd19901f Comments URL: https://news.ycombinator.com/item?id=49122994 Points: 153 # Comments: 164",
+      "summary": "Article URL: https://www.wsj.com/finance/investing/situational-awareness-down-67-in-july-in-ai-stock-rout-cd19901f Comments URL: https://news.ycombinator.com/item?id=49122994 Points: 155 # Comments: 167",
       "source": "Hacker News",
       "published": "2026-07-31T13:37:36+00:00",
       "link": "https://www.wsj.com/finance/investing/situational-awareness-down-67-in-july-in-ai-stock-rout-cd19901f"
@@ -318,7 +353,7 @@ const FEED_DATA = {
     },
     {
       "title": "The Maxwell Conjecture Is False (GPT 5.6 Sol)",
-      "summary": "Article URL: https://arxiv.org/abs/2607.27197 Comments URL: https://news.ycombinator.com/item?id=49121868 Points: 153 # Comments: 139",
+      "summary": "Article URL: https://arxiv.org/abs/2607.27197 Comments URL: https://news.ycombinator.com/item?id=49121868 Points: 155 # Comments: 139",
       "source": "Hacker News",
       "published": "2026-07-31T11:37:12+00:00",
       "link": "https://arxiv.org/abs/2607.27197"
@@ -339,14 +374,14 @@ const FEED_DATA = {
     },
     {
       "title": "DeepSeek V4 Flash 0731 Intelligence, Performance and Price Analysis",
-      "summary": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-0731 Comments URL: https://news.ycombinator.com/item?id=49120299 Points: 574 # Comments: 307",
+      "summary": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-0731 Comments URL: https://news.ycombinator.com/item?id=49120299 Points: 583 # Comments: 311",
       "source": "Hacker News",
       "published": "2026-07-31T07:59:11+00:00",
       "link": "https://artificialanalysis.ai/models/deepseek-v4-flash"
     },
     {
       "title": "Google fixed more Chrome bugs in June than over the past two years, thanks to AI",
-      "summary": "Article URL: https://blog.google/security/chrome-stronger-with-every-update/ Comments URL: https://news.ycombinator.com/item?id=49120097 Points: 548 # Comments: 581",
+      "summary": "Article URL: https://blog.google/security/chrome-stronger-with-every-update/ Comments URL: https://news.ycombinator.com/item?id=49120097 Points: 561 # Comments: 605",
       "source": "Hacker News",
       "published": "2026-07-31T07:29:22+00:00",
       "link": "https://blog.google/security/chrome-stronger-with-every-update/"
@@ -360,7 +395,7 @@ const FEED_DATA = {
     },
     {
       "title": "The AI trade now runs on borrowed money, and the lenders are repricing it",
-      "summary": "Article URL: https://greyswansignals.com/?theme=dark Comments URL: https://news.ycombinator.com/item?id=49118933 Points: 141 # Comments: 161",
+      "summary": "Article URL: https://greyswansignals.com/?theme=dark Comments URL: https://news.ycombinator.com/item?id=49118933 Points: 141 # Comments: 162",
       "source": "Hacker News",
       "published": "2026-07-31T04:15:04+00:00",
       "link": "https://greyswansignals.com/?theme=dark"
@@ -395,7 +430,7 @@ const FEED_DATA = {
     },
     {
       "title": "The AI Aesthetic",
-      "summary": "Article URL: https://blog.jim-nielsen.com/2026/ai-aesthetic/ Comments URL: https://news.ycombinator.com/item?id=49117099 Points: 370 # Comments: 176",
+      "summary": "Article URL: https://blog.jim-nielsen.com/2026/ai-aesthetic/ Comments URL: https://news.ycombinator.com/item?id=49117099 Points: 375 # Comments: 176",
       "source": "Hacker News",
       "published": "2026-07-30T23:22:16+00:00",
       "link": "https://blog.jim-nielsen.com/2026/ai-aesthetic/"
@@ -507,7 +542,7 @@ const FEED_DATA = {
     },
     {
       "title": "We Gave GPT 5.6 Sol a Real Business. It Lied, Spammed, and Lost $447",
-      "summary": "Article URL: https://www.bottlenecklabs.com/blog/autonomously-run-businesses Comments URL: https://news.ycombinator.com/item?id=49113059 Points: 399 # Comments: 234",
+      "summary": "Article URL: https://www.bottlenecklabs.com/blog/autonomously-run-businesses Comments URL: https://news.ycombinator.com/item?id=49113059 Points: 400 # Comments: 234",
       "source": "Hacker News",
       "published": "2026-07-30T17:31:07+00:00",
       "link": "https://www.bottlenecklabs.com/blog/autonomously-run-businesses"
@@ -521,7 +556,7 @@ const FEED_DATA = {
     },
     {
       "title": "Advancing the price-performance frontier with GPT‑5.6",
-      "summary": "Article URL: https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6/ Comments URL: https://news.ycombinator.com/item?id=49112867 Points: 603 # Comments: 395",
+      "summary": "Article URL: https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6/ Comments URL: https://news.ycombinator.com/item?id=49112867 Points: 603 # Comments: 398",
       "source": "Hacker News",
       "published": "2026-07-30T17:15:51+00:00",
       "link": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6/"
@@ -1365,41 +1400,6 @@ const FEED_DATA = {
       "source": "Hacker News",
       "published": "2026-07-27T16:02:00+00:00",
       "link": "https://www.bloomberg.com/news/articles/2026-07-27/nvidia-s-750-billion-deals-revive-fear-of-ai-circular-financing"
-    },
-    {
-      "title": "Google’s AI search is rapidly becoming the default, new data shows",
-      "summary": "Google’s AI Overviews now appear in 43% of searches, underscoring how quickly AI-generated answers are becoming the default way people discover information online.",
-      "source": "TechCrunch",
-      "published": "2026-07-27T15:57:12+00:00",
-      "link": "https://techcrunch.com/2026/07/27/googles-ai-search-is-rapidly-becoming-the-default-new-data-shows/"
-    },
-    {
-      "title": "Power up your AI infrastructure! A first look at the Smart Systems Stage agenda at TechCrunch Disrupt 2026",
-      "summary": "At TechCrunch Disrupt 2026, the Smart Systems Stage will be where energy, infrastructure, and technology collide, covering everything from fusion breakthroughs to the grid strain AI is putting on the entire economy.",
-      "source": "TechCrunch",
-      "published": "2026-07-27T15:30:00+00:00",
-      "link": "https://techcrunch.com/2026/07/27/power-up-your-ai-infrastructure-a-first-look-at-the-smart-systems-stage-agenda-at-techcrunch-disrupt-2026/"
-    },
-    {
-      "title": "Ilya Sutskever’s Safe Superintelligence partners with Nvidia to scale its AI research",
-      "summary": "After two years in stealth, Safe Superintelligence has announced a long-term partnership with Nvidia as it prepares to scale to its next phase.",
-      "source": "TechCrunch",
-      "published": "2026-07-27T15:01:50+00:00",
-      "link": "https://techcrunch.com/2026/07/27/ilya-sutskevers-safe-superintelligence-partners-with-nvidia-to-scale-its-ai-research/"
-    },
-    {
-      "title": "Apple Will 'Watch Everything Burn' When the AI Bubble Bursts",
-      "summary": "Article URL: https://www.macrumors.com/2026/07/27/ed-zitron-apple-watch-it-burn-ai-bubble-bursts/ Comments URL: https://news.ycombinator.com/item?id=49070427 Points: 253 # Comments: 353",
-      "source": "Hacker News",
-      "published": "2026-07-27T14:42:41+00:00",
-      "link": "https://www.macrumors.com/2026/07/27/ed-zitron-apple-watch-it-burn-ai-bubble-bursts/"
-    },
-    {
-      "title": "AI companies spend record sums on Washington lobbying",
-      "summary": "https://archive.ph/PASMJ Comments URL: https://news.ycombinator.com/item?id=49069939 Points: 277 # Comments: 144",
-      "source": "Hacker News",
-      "published": "2026-07-27T14:07:48+00:00",
-      "link": "https://www.ft.com/content/d8a5f95e-3b6d-463a-a848-c9ef8e2394db"
     }
   ]
 };
