@@ -1,6 +1,20 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-08-02T17:56:24.923215+00:00",
+  "lastUpdated": "2026-08-02T21:46:25.918031+00:00",
   "items": [
+    {
+      "title": "Sam Altman and AI’s decel debate",
+      "summary": "On the latest episode of Equity, we discuss why Sam Altman has calling on the industry to \"pace the rate of AI development.\"",
+      "source": "TechCrunch",
+      "published": "2026-08-02T20:54:22+00:00",
+      "link": "https://techcrunch.com/2026/08/02/sam-altman-and-ais-decel-debate/"
+    },
+    {
+      "title": "Fender’s CEO seems to think your bandmates are just analog AI",
+      "summary": "Fender CEO Edward \"Bud\" Cole gave an interview to T3 in May celebrating the 75th anniversary of the Telecaster with comments on AI and music that initially flew under the radar.",
+      "source": "The Verge",
+      "published": "2026-08-02T19:36:08+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/974265/fender-ceo-bud-cole-ai-music"
+    },
     {
       "title": "Show HN: Sprocket – The Best AI Agent for Hardware and Software Development",
       "summary": "Hey HN, I am 16y/o and have been working on Sprocket for a while. It's an open-source AI agent that beats every other agent out there at both hardware and software.And here's the best part: Sprocket can (on its own) buy anything from any website when you tell it to do so.",
@@ -1386,20 +1400,6 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-07-27T20:19:42+00:00",
       "link": "https://techcrunch.com/2026/07/27/psa-your-claude-shared-chats-and-artifacts-may-have-ended-up-on-google/"
-    },
-    {
-      "title": "Private Claude Chats Exposed in Google and Bing Search Results",
-      "summary": "The screwup shows how tricky it can be to stop web crawlers from making ostensibly private conversations with AI chatbots entirely too public.",
-      "source": "Wired",
-      "published": "2026-07-27T20:08:00+00:00",
-      "link": "https://www.wired.com/story/private-claude-chats-exposed-in-google-and-bing-search-results/"
-    },
-    {
-      "title": "Professor's invisible prompt trap catches 32/35 students cheating with AI",
-      "summary": "Article URL: https://www.techspot.com/news/113243-professor-invisible-prompt-trap-catches-32-students-cheating.html Comments URL: https://news.ycombinator.com/item?id=49074680 Points: 105 # Comments: 88",
-      "source": "Hacker News",
-      "published": "2026-07-27T19:46:05+00:00",
-      "link": "https://www.techspot.com/news/113243-professor-invisible-prompt-trap-catches-32-students-cheating.html"
     }
   ]
 };
