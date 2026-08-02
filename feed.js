@@ -1,5 +1,5 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-08-01T21:45:55.781057+00:00",
+  "lastUpdated": "2026-08-02T04:21:39.265320+00:00",
   "items": [
     {
       "title": "Judge denies xAI’s request to block Minnesota ban on ‘nudify’ apps",
