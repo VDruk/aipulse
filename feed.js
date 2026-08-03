@@ -1,12 +1,40 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-08-03T18:45:27.651870+00:00",
+  "lastUpdated": "2026-08-03T21:59:48.156350+00:00",
   "items": [
     {
+      "title": "AI's debt binge can't last, hidden borrowing reaches $1.65T",
+      "summary": "Article URL: https://fortune.com/2026/07/31/ai-debt-hypescalers-capex-capital-spending-hidden-borrowing-bond-issuance/ Comments URL: https://news.ycombinator.com/item?id=49160699 Points: 84 # Comments: 69",
+      "source": "Hacker News",
+      "published": "2026-08-03T20:02:21+00:00",
+      "link": "https://fortune.com/2026/07/31/ai-debt-hypescalers-capex-capital-spending-hidden-borrowing-bond-issuance/"
+    },
+    {
+      "title": "Design Arena creators raise $7.9 million to bring taste to AI models",
+      "summary": "Design Arena is used by 5.3 million people around the world, providing critical human evaluations to frontier labs.",
+      "source": "TechCrunch",
+      "published": "2026-08-03T19:28:57+00:00",
+      "link": "https://techcrunch.com/2026/08/03/designarena-creators-raise-7-9-million-to-bring-taste-to-ai-models/"
+    },
+    {
+      "title": "Influencers draw backlash for attending OpenAI’s first luxury trip",
+      "summary": "OpenAI’s first-ever influencer brand trip is sparking online backlash as tensions over the use of AI continue.",
+      "source": "TechCrunch",
+      "published": "2026-08-03T19:09:56+00:00",
+      "link": "https://techcrunch.com/2026/08/03/influencers-draw-backlash-for-attending-openais-first-luxury-trip/"
+    },
+    {
       "title": "Apple finally fixed Siri. So why does it feel anticlimactic?",
-      "summary": "Apple’s long-awaited AI overhaul finally makes Siri the assistant it was always supposed to be. But after years of delays, the launch lands in an AI landscape where chatbots have evolved into agents that can code, reason, create media, and complete complex tasks.",
+      "summary": "Apple’s long-awaited AI overhaul finally makes Siri the assistant it was always supposed to be. Yet it arrives at a moment when simply being a capable AI assistant no longer feels revolutionary.",
       "source": "TechCrunch",
       "published": "2026-08-03T18:43:43+00:00",
       "link": "https://techcrunch.com/2026/08/03/apple-finally-fixed-siri-so-why-does-it-feel-anticlimactic/"
+    },
+    {
+      "title": "Trump’s AI protectionism has come for robotics",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here.",
+      "source": "MIT Tech Review",
+      "published": "2026-08-03T18:43:30+00:00",
+      "link": "https://www.technologyreview.com/2026/08/03/1141056/trumps-ai-protectionism-has-come-for-robotics/"
     },
     {
       "title": "Europe’s AI labeling and transparency rules are now in effect",
@@ -23,11 +51,25 @@ const FEED_DATA = {
       "link": "https://the-decoder.com/alibabas-new-qwen-model-is-also-taking-your-job-but-this-time-its-great/"
     },
     {
+      "title": "Congress’ favorite AI tool? ChatGPT",
+      "summary": "House spending records show OpenAI's ChatGPT dominates paid AI use on Capitol Hill, with congressional offices relying on the chatbot to draft memos, summarize legislation, and assist constituent communications.",
+      "source": "TechCrunch",
+      "published": "2026-08-03T16:40:55+00:00",
+      "link": "https://techcrunch.com/2026/08/03/congresss-favorite-ai-tool-chatgpt/"
+    },
+    {
       "title": "Congress’s favorite AI tool? ChatGPT",
       "summary": "House spending records show OpenAI's ChatGPT dominates paid AI use on Capitol Hill, with congressional offices relying on the chatbot to draft memos, summarize legislation, and assist constituent communications.",
       "source": "TechCrunch",
       "published": "2026-08-03T16:40:55+00:00",
       "link": "https://techcrunch.com/2026/08/03/congresss-favorite-ai-tool-chatgpt/"
+    },
+    {
+      "title": "What's the largest software project AI can complete on its own?",
+      "summary": "Article URL: https://epoch.ai/MirrorCode Comments URL: https://news.ycombinator.com/item?id=49157786 Points: 54 # Comments: 61",
+      "source": "Hacker News",
+      "published": "2026-08-03T16:16:40+00:00",
+      "link": "https://epoch.ai/MirrorCode"
     },
     {
       "title": "EU AI Act Article 50 transparency rules enter force",
@@ -73,14 +115,21 @@ const FEED_DATA = {
     },
     {
       "title": "The AI bubble is popping; we just don't know it yet",
-      "summary": "Article URL: https://www.theregister.com/ai-and-ml/2026/08/03/the-ai-bubble-is-already-popping-we-just-dont-know-it-yet/5282004 Comments URL: https://news.ycombinator.com/item?id=49154601 Points: 60 # Comments: 99",
+      "summary": "Article URL: https://www.theregister.com/ai-and-ml/2026/08/03/the-ai-bubble-is-already-popping-we-just-dont-know-it-yet/5282004 Comments URL: https://news.ycombinator.com/item?id=49154601 Points: 74 # Comments: 130",
       "source": "Hacker News",
       "published": "2026-08-03T11:59:10+00:00",
       "link": "https://www.theregister.com/ai-and-ml/2026/08/03/the-ai-bubble-is-already-popping-we-just-dont-know-it-yet/5282004"
     },
     {
+      "title": "SQLite Critical CVEs or LLM Slop?",
+      "summary": "Article URL: https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/ Comments URL: https://news.ycombinator.com/item?id=49154332 Points: 685 # Comments: 337",
+      "source": "Hacker News",
+      "published": "2026-08-03T11:28:54+00:00",
+      "link": "https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/"
+    },
+    {
       "title": "Show HN: Nightcrawler – A local AI pentesting agent running on a smartphone",
-      "summary": "Article URL: https://github.com/garagehq/nightcrawler/ Comments URL: https://news.ycombinator.com/item?id=49154127 Points: 62 # Comments: 20",
+      "summary": "Article URL: https://github.com/garagehq/nightcrawler/ Comments URL: https://news.ycombinator.com/item?id=49154127 Points: 97 # Comments: 30",
       "source": "Hacker News",
       "published": "2026-08-03T11:06:15+00:00",
       "link": "https://github.com/garagehq/nightcrawler/"
@@ -129,7 +178,7 @@ const FEED_DATA = {
     },
     {
       "title": "Prevent cognitive debt by manually retyping LLM-generated code",
-      "summary": "Article URL: https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code/ Comments URL: https://news.ycombinator.com/item?id=49153374 Points: 250 # Comments: 204",
+      "summary": "Article URL: https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code/ Comments URL: https://news.ycombinator.com/item?id=49153374 Points: 343 # Comments: 286",
       "source": "Hacker News",
       "published": "2026-08-03T09:32:07+00:00",
       "link": "https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code/"
@@ -150,28 +199,28 @@ const FEED_DATA = {
     },
     {
       "title": "The AI Productivity Gap",
-      "summary": "Article URL: https://bjorg.bjornroche.com/management/ai-productivity-gap/ Comments URL: https://news.ycombinator.com/item?id=49152222 Points: 84 # Comments: 78",
+      "summary": "Article URL: https://bjorg.bjornroche.com/management/ai-productivity-gap/ Comments URL: https://news.ycombinator.com/item?id=49152222 Points: 101 # Comments: 94",
       "source": "Hacker News",
       "published": "2026-08-03T07:07:20+00:00",
       "link": "https://bjorg.bjornroche.com/management/ai-productivity-gap/"
     },
     {
       "title": "AI migrated legacy COBOL programs to Java, bugs included",
-      "summary": "Article URL: https://arxiv.org/abs/2607.28271 Comments URL: https://news.ycombinator.com/item?id=49150773 Points: 84 # Comments: 70",
+      "summary": "Article URL: https://arxiv.org/abs/2607.28271 Comments URL: https://news.ycombinator.com/item?id=49150773 Points: 86 # Comments: 82",
       "source": "Hacker News",
       "published": "2026-08-03T03:06:12+00:00",
       "link": "https://arxiv.org/abs/2607.28271"
     },
     {
       "title": "OpenAI's super PAC is funding AI-generated news site attacking industry critics",
-      "summary": "Article URL: https://www.modelrepublic.org/articles/the-reporters-at-this-news-site-are-ai-bots.-openai%E2%80%99s-super-pac-appears-to-be-using-it-to-advance-its-political-agenda Comments URL: https://news.ycombinator.com/item?id=49150561 Points: 193 # Comments: 90",
+      "summary": "Article URL: https://www.modelrepublic.org/articles/the-reporters-at-this-news-site-are-ai-bots.-openai%E2%80%99s-super-pac-appears-to-be-using-it-to-advance-its-political-agenda Comments URL: https://news.ycombinator.com/item?id=49150561 Points: 204 # Comments: 103",
       "source": "Hacker News",
       "published": "2026-08-03T02:30:30+00:00",
       "link": "https://www.modelrepublic.org/articles/the-reporters-at-this-news-site-are-ai-bots.-openai%E2%80%99s-super-pac-appears-to-be-using-it-to-advance-its-political-agenda"
     },
     {
       "title": "AI poster wins Ohio State Fair contest",
-      "summary": "Article URL: https://www.ohiostatefair.com/p/get-involved/arts/poster-contest Comments URL: https://news.ycombinator.com/item?id=49149188 Points: 135 # Comments: 176",
+      "summary": "Article URL: https://www.ohiostatefair.com/p/get-involved/arts/poster-contest Comments URL: https://news.ycombinator.com/item?id=49149188 Points: 140 # Comments: 181",
       "source": "Hacker News",
       "published": "2026-08-02T22:43:47+00:00",
       "link": "https://www.ohiostatefair.com/p/get-involved/arts/poster-contest"
@@ -185,14 +234,14 @@ const FEED_DATA = {
     },
     {
       "title": "My personal AI benchmark: “Generate an SVG of a frog with a Habsburg jaw”",
-      "summary": "Article URL: https://frogs.vaguespac.es/ Comments URL: https://news.ycombinator.com/item?id=49147622 Points: 147 # Comments: 81",
+      "summary": "Article URL: https://frogs.vaguespac.es/ Comments URL: https://news.ycombinator.com/item?id=49147622 Points: 150 # Comments: 84",
       "source": "Hacker News",
       "published": "2026-08-02T19:42:08+00:00",
       "link": "https://frogs.vaguespac.es/"
     },
     {
       "title": "EU rules on AI models become enforceable. What's going to change?",
-      "summary": "Article URL: https://www.euronews.com/my-europe/2026/08/02/eu-rules-on-ai-models-become-enforceable-whats-going-to-change Comments URL: https://news.ycombinator.com/item?id=49147606 Points: 52 # Comments: 72",
+      "summary": "Article URL: https://www.euronews.com/my-europe/2026/08/02/eu-rules-on-ai-models-become-enforceable-whats-going-to-change Comments URL: https://news.ycombinator.com/item?id=49147606 Points: 53 # Comments: 72",
       "source": "Hacker News",
       "published": "2026-08-02T19:40:19+00:00",
       "link": "https://www.euronews.com/my-europe/2026/08/02/eu-rules-on-ai-models-become-enforceable-whats-going-to-change"
@@ -241,7 +290,7 @@ const FEED_DATA = {
     },
     {
       "title": "Artificial Intelligence: Ars Notoria and the Promise of Instant Knowledge",
-      "summary": "Article URL: https://publicdomainreview.org/essay/ars-notoria/ Comments URL: https://news.ycombinator.com/item?id=49143001 Points: 136 # Comments: 33",
+      "summary": "Article URL: https://publicdomainreview.org/essay/ars-notoria/ Comments URL: https://news.ycombinator.com/item?id=49143001 Points: 137 # Comments: 35",
       "source": "Hacker News",
       "published": "2026-08-02T10:18:24+00:00",
       "link": "https://publicdomainreview.org/essay/ars-notoria/"
@@ -283,7 +332,7 @@ const FEED_DATA = {
     },
     {
       "title": "Zitron: \"Everyone Has Been Sold a Lie\" on AI [video]",
-      "summary": "Article URL: https://www.youtube.com/watch?v=pHcZpvIfho0 Comments URL: https://news.ycombinator.com/item?id=49139325 Points: 55 # Comments: 50",
+      "summary": "Article URL: https://www.youtube.com/watch?v=pHcZpvIfho0 Comments URL: https://news.ycombinator.com/item?id=49139325 Points: 55 # Comments: 51",
       "source": "Hacker News",
       "published": "2026-08-01T22:50:30+00:00",
       "link": "https://www.youtube.com/watch?v=pHcZpvIfho0"
@@ -297,7 +346,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI financial advice is surprisingly good, especially if you ask right questions",
-      "summary": "Article URL: https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions Comments URL: https://news.ycombinator.com/item?id=49139102 Points: 344 # Comments: 392",
+      "summary": "Article URL: https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions Comments URL: https://news.ycombinator.com/item?id=49139102 Points: 347 # Comments: 395",
       "source": "Hacker News",
       "published": "2026-08-01T22:25:12+00:00",
       "link": "https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions"
@@ -430,7 +479,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI doesn't generate working products, that's still your job",
-      "summary": "Article URL: https://weeraman.com/the-prototype-isnt-the-product/ Comments URL: https://news.ycombinator.com/item?id=49132130 Points: 265 # Comments: 292",
+      "summary": "Article URL: https://weeraman.com/the-prototype-isnt-the-product/ Comments URL: https://news.ycombinator.com/item?id=49132130 Points: 265 # Comments: 293",
       "source": "Hacker News",
       "published": "2026-08-01T07:52:10+00:00",
       "link": "https://weeraman.com/the-prototype-isnt-the-product/"
@@ -1351,55 +1400,6 @@ const FEED_DATA = {
       "source": "Hacker News",
       "published": "2026-07-29T04:46:53+00:00",
       "link": "https://www.dropsitenews.com/p/israel-brad-parscale-ai-chatbots-gaza"
-    },
-    {
-      "title": "Chip stocks slide in US and Asia as AI jitters rattle investors",
-      "summary": "Article URL: https://www.bbc.com/news/articles/cly8zng43npo Comments URL: https://news.ycombinator.com/item?id=49092549 Points: 74 # Comments: 51",
-      "source": "Hacker News",
-      "published": "2026-07-29T01:56:00+00:00",
-      "link": "https://www.bbc.com/news/articles/cly8zng43npo"
-    },
-    {
-      "title": "LearnVector – Andrew Ng's AI company building one‑to‑one learning experiences",
-      "summary": "Article URL: https://learnvector.ai/ Comments URL: https://news.ycombinator.com/item?id=49092499 Points: 262 # Comments: 172",
-      "source": "Hacker News",
-      "published": "2026-07-29T01:49:19+00:00",
-      "link": "https://learnvector.ai/"
-    },
-    {
-      "title": "OpenAI’s Rogue AI Agent Hacked More Than Just Hugging Face",
-      "summary": "In a new disclosure, OpenAI says its agent used exposed logins to gain access to at least four “publicly available services” in its unhinged quest to solve a test.",
-      "source": "Wired",
-      "published": "2026-07-29T00:15:30+00:00",
-      "link": "https://www.wired.com/story/openais-rogue-ai-agent-hacked-more-than-just-hugging-face/"
-    },
-    {
-      "title": "Cyera agrees to acquire Oasis Security for $1B to safeguard proliferating AI agents",
-      "summary": "The deal is Cyera's third acquisition this year.",
-      "source": "TechCrunch",
-      "published": "2026-07-29T00:09:05+00:00",
-      "link": "https://techcrunch.com/2026/07/28/cyera-agrees-to-acquire-oasis-security-for-1b-to-safeguard-proliferating-ai-agents/"
-    },
-    {
-      "title": "We now have a better understanding how OpenAI hacked into Hugging Face",
-      "summary": "10 days passed from OpenAI models exploiting JFrog Artifactory 0-day to release of a patch.",
-      "source": "Ars Technica",
-      "published": "2026-07-28T21:36:39+00:00",
-      "link": "https://arstechnica.com/security/2026/07/jfrog-tries-to-spin-openai-0-day-exploit-of-its-app-into-a-success-story/"
-    },
-    {
-      "title": "Bot-detection startup Spur nabs $200M from Insight",
-      "summary": "Spur Intelligence has raised a $200 million round from Insight Partners for its tech that can identify legit human traffic from bots.",
-      "source": "TechCrunch",
-      "published": "2026-07-28T21:29:34+00:00",
-      "link": "https://techcrunch.com/2026/07/28/bot-detection-startup-spur-nabs-200m-from-insight/"
-    },
-    {
-      "title": "AI leaders sign a statement asking the government to do something about automated AI",
-      "summary": "Employees of OpenAI and Anthropic, as well as Google, Meta, Thinking Machines, Microsoft, Mistral, and other leading AI labs, have written a statement to the US government supporting a potential slowdown of sorts for frontier AI development - or at least a speed-up of global...",
-      "source": "The Verge",
-      "published": "2026-07-28T19:46:43+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/972161/ai-leaders-us-government-openai-anthropic-google-meta"
     }
   ]
 };
