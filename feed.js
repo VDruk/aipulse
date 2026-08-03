@@ -1,6 +1,48 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-08-03T15:44:10.164498+00:00",
+  "lastUpdated": "2026-08-03T18:45:27.651870+00:00",
   "items": [
+    {
+      "title": "Apple finally fixed Siri. So why does it feel anticlimactic?",
+      "summary": "Apple’s long-awaited AI overhaul finally makes Siri the assistant it was always supposed to be. But after years of delays, the launch lands in an AI landscape where chatbots have evolved into agents that can code, reason, create media, and complete complex tasks.",
+      "source": "TechCrunch",
+      "published": "2026-08-03T18:43:43+00:00",
+      "link": "https://techcrunch.com/2026/08/03/apple-finally-fixed-siri-so-why-does-it-feel-anticlimactic/"
+    },
+    {
+      "title": "Europe’s AI labeling and transparency rules are now in effect",
+      "summary": "The European Union has ushered in some additional rules that aim to make it easier for people to identify chatbots and AI deepfakes online.",
+      "source": "The Verge",
+      "published": "2026-08-03T17:38:45+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/974571/eu-ai-act-transparency-labels-rules-deepfakes"
+    },
+    {
+      "title": "Alibaba's new Qwen model is also taking your job, but this time it's great",
+      "summary": "Alibaba is marketing its new AI model Qwen 3.8 with a video that shows the AI working while a person enjoys their hobbies. It's a deliberate contrast to the job loss warnings from OpenAI and Anthropic.",
+      "source": "The Decoder",
+      "published": "2026-08-03T17:12:23+00:00",
+      "link": "https://the-decoder.com/alibabas-new-qwen-model-is-also-taking-your-job-but-this-time-its-great/"
+    },
+    {
+      "title": "Congress’s favorite AI tool? ChatGPT",
+      "summary": "House spending records show OpenAI's ChatGPT dominates paid AI use on Capitol Hill, with congressional offices relying on the chatbot to draft memos, summarize legislation, and assist constituent communications.",
+      "source": "TechCrunch",
+      "published": "2026-08-03T16:40:55+00:00",
+      "link": "https://techcrunch.com/2026/08/03/congresss-favorite-ai-tool-chatgpt/"
+    },
+    {
+      "title": "EU AI Act Article 50 transparency rules enter force",
+      "summary": "Article 50 of the EU AI Act has entered into force, setting transparency obligations for AI providers and deployers operating across the bloc.",
+      "source": "AI News",
+      "published": "2026-08-03T16:09:25+00:00",
+      "link": "https://www.artificialintelligence-news.com/news/eu-ai-act-article-50-transparency-rules-enter-force/"
+    },
+    {
+      "title": "IBM finds 92% of companies hit by AI security breaches lacked basic access controls",
+      "summary": "According to IBM, 92 percent of companies that experienced an AI security incident had inadequate access controls for their AI systems. The model itself was rarely the problem.",
+      "source": "The Decoder",
+      "published": "2026-08-03T15:47:08+00:00",
+      "link": "https://the-decoder.com/ibm-finds-92-of-companies-hit-by-ai-security-breaches-lacked-basic-access-controls/"
+    },
     {
       "title": "Interpol says AI has become the \"core operational driver of cybercrime\" across Africa",
       "summary": "AI is involved in 55 percent of reported cybercrimes in Africa, according to a new Interpol report. Financial losses more than doubled from $192 million to $484 million, and about 600,000 cases of digital extortion involving deepfakes were recorded.",
@@ -94,7 +136,7 @@ const FEED_DATA = {
     },
     {
       "title": "The ‘Guardrail Guy’ Went Viral for Posting About Flock Cameras. Then Someone Destroyed Them",
-      "summary": "Steve Elmers, also known as the “Guardrail Guy,” is done calling out license plate readers after two that appeared in his videos were vandalized.",
+      "summary": "Steve Eimers, also known as the “Guardrail Guy,” is done calling out license plate readers after two that appeared in his videos were vandalized.",
       "source": "Wired",
       "published": "2026-08-03T09:30:00+00:00",
       "link": "https://www.wired.com/story/flock-cameras-guardrail-guy-advocacy-damage-people-dont-like-alprs/"
@@ -136,7 +178,7 @@ const FEED_DATA = {
     },
     {
       "title": "Sam Altman and AI’s decel debate",
-      "summary": "On the latest episode of Equity, we discuss why Sam Altman has calling on the industry to \"pace the rate of AI development.\"",
+      "summary": "On the latest episode of Equity, we discuss why Sam Altman is calling on the industry to \"pace the rate of AI development.\"",
       "source": "TechCrunch",
       "published": "2026-08-02T20:54:22+00:00",
       "link": "https://techcrunch.com/2026/08/02/sam-altman-and-ais-decel-debate/"
@@ -283,7 +325,7 @@ const FEED_DATA = {
     },
     {
       "title": "Sam Altman is still making the case for parenting via ChatGPT",
-      "summary": "OpenAI's CEO seemed excited to share a \"cool use case\" for parents.",
+      "summary": "This isn’t the first time a tech CEO has promised that AI can shield users — and specifically users’ morning commutes — from the messiness and inefficiency of human experience.",
       "source": "TechCrunch",
       "published": "2026-08-01T17:07:34+00:00",
       "link": "https://techcrunch.com/2026/08/01/sam-altman-is-still-making-the-case-for-parenting-via-chatgpt/"
@@ -1358,48 +1400,6 @@ const FEED_DATA = {
       "source": "The Verge",
       "published": "2026-07-28T19:46:43+00:00",
       "link": "https://www.theverge.com/ai-artificial-intelligence/972161/ai-leaders-us-government-openai-anthropic-google-meta"
-    },
-    {
-      "title": "AI leaders sign statement asking the government to do something about automated AI",
-      "summary": "Employees of OpenAI and Anthropic, as well as Google, Meta, Thinking Machines, Microsoft, Mistral, and other leading AI labs, have written a statement to the US government supporting a potential slowdown of sorts for frontier AI development - or at least a speed-up of global...",
-      "source": "The Verge",
-      "published": "2026-07-28T19:46:43+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/972161/ai-leaders-us-government-openai-anthropic-google-meta"
-    },
-    {
-      "title": "AI’s finally expensive enough to make Wall Street nervous",
-      "summary": "It's earnings season, and investors got an unpleasant surprise from Google: an increase on its spending estimate, to as much as $205 billion - from the last quarter's projection of up to $190 billion.",
-      "source": "The Verge",
-      "published": "2026-07-28T19:33:03+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/972119/ai-stock-fall-google-capex"
-    },
-    {
-      "title": "Anthropic says its Mythos model found vulnerabilities in cryptographic algorithms that secure the internet",
-      "summary": "Anthropic's Claude Mythos Preview found weaknesses in key cryptographic algorithms, including a better attack on HAWK, a post-quantum signature scheme that human experts had reviewed for more than two years. The model found it in just 60 hours at an API cost of about $100,000.",
-      "source": "The Decoder",
-      "published": "2026-07-28T19:12:27+00:00",
-      "link": "https://the-decoder.com/anthropic-says-its-mythos-model-found-vulnerabilities-in-cryptographic-algorithms-that-secure-the-internet/"
-    },
-    {
-      "title": "Amazon reportedly scales back its Nova AI models and bets on a new Frontier research team",
-      "summary": "Amazon is scaling back most of its in-house Nova AI models, including Nova Premier, Omni, Reel, and Canvas. The models stay online for existing customers in \"keep the lights on\" mode but are no longer actively developed.",
-      "source": "The Decoder",
-      "published": "2026-07-28T16:03:39+00:00",
-      "link": "https://the-decoder.com/amazon-reportedly-scales-back-its-nova-ai-models-and-bets-on-a-new-frontier-research-team/"
-    },
-    {
-      "title": "Fish Audio raises $52M seed to build AI voice models for creators and enterprises",
-      "summary": "Since launching last year, the startup today has more than 8 million people using the open source or hosted version of its models, and now generates annual recurring revenue of $21 million.",
-      "source": "TechCrunch",
-      "published": "2026-07-28T14:00:00+00:00",
-      "link": "https://techcrunch.com/2026/07/28/fish-audio-raises-50m-seed-to-build-ai-voice-models-for-creators-and-enterprises/"
-    },
-    {
-      "title": "Recursive Superintelligence signs $410M compute deal with Amazon",
-      "summary": "Recursive’s emphasis on self-improving AI systems means much of the budget that would traditionally go toward headcount and operations is put straight into compute, as the company seeks to automate its own product development process.",
-      "source": "TechCrunch",
-      "published": "2026-07-28T13:19:17+00:00",
-      "link": "https://techcrunch.com/2026/07/28/recursive-superintelligence-signs-400-compute-deal-with-amazon/"
     }
   ]
 };
