@@ -1,6 +1,69 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-08-03T08:30:18.551642+00:00",
+  "lastUpdated": "2026-08-03T12:08:34.309021+00:00",
   "items": [
+    {
+      "title": "Unicorn, pelican, Middle-earth: OpenAI co-founder Karpathy is looking for the next AI vibe test",
+      "summary": "One paragraph of \"Lord of the Rings\" in, 5,500 lines of code out. Andrej Karpathy had Claude Opus 5 turn Tolkien's opening into a 3D browser scene.",
+      "source": "The Decoder",
+      "published": "2026-08-03T12:07:31+00:00",
+      "link": "https://the-decoder.com/unicorn-pelican-middle-earth-openai-co-founder-karpathy-is-looking-for-the-next-ai-vibe-test/"
+    },
+    {
+      "title": "China’s Alibaba takes another swipe at America’s AI supremacy",
+      "summary": "Chinese tech giant Alibaba released what it says is its largest and \"most capable AI model to date,\" claiming performance rivaling the best systems from US frontier labs Anthropic and OpenAI, as well as domestic rivals like Moonshot AI's Kimi K3.",
+      "source": "The Verge",
+      "published": "2026-08-03T11:01:11+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/974342/alibaba-qwen-max-open-weight-ai"
+    },
+    {
+      "title": "Alibaba’s open-weight Qwen3.8-Max takes on long-horizon AI tasks with 2.4 trillion parameters",
+      "summary": "Alibaba's new flagship model Qwen3.8-Max is built to handle complex tasks on its own over days at a time, from reproducing research papers to designing chips autonomously. The team plans to release the weights next week.",
+      "source": "The Decoder",
+      "published": "2026-08-03T10:50:50+00:00",
+      "link": "https://the-decoder.com/alibabas-open-weight-qwen3-8-max-takes-on-long-horizon-ai-tasks-with-2-4-trillion-parameters/"
+    },
+    {
+      "title": "Two teams solved the same quantum crypto problem using GPT-5.6 just three hours apart",
+      "summary": "Two research teams independently solved the same open quantum cryptography problem using OpenAI's GPT-5.6 Sol Ultra, submitting their papers just three hours apart. \"If someone mentions an open problem, the first thing is to see if GPT solves it,\" says one of the researchers.",
+      "source": "The Decoder",
+      "published": "2026-08-03T10:49:58+00:00",
+      "link": "https://the-decoder.com/two-teams-solved-the-same-quantum-crypto-problem-using-gpt-5-6-just-three-hours-apart/"
+    },
+    {
+      "title": "A Marc Benioff-backed startup thinks AI can solve the AI deployment problem",
+      "summary": "June emerged from stealth today with a $20 million pre-seed round to make AI adoption simpler.",
+      "source": "TechCrunch",
+      "published": "2026-08-03T10:00:00+00:00",
+      "link": "https://techcrunch.com/2026/08/03/a-marc-benioff-backed-startup-thinks-ai-can-solve-the-ai-deployment-problem/"
+    },
+    {
+      "title": "AI Conquered Coding. Fast Food Is Next",
+      "summary": "Your next drive-thru order might be taken by a bot. And you might not even notice.",
+      "source": "Wired",
+      "published": "2026-08-03T10:00:00+00:00",
+      "link": "https://www.wired.com/story/ai-conquered-coding-fast-food-is-next/"
+    },
+    {
+      "title": "Why biological data matters more in AI drug discovery",
+      "summary": "GSK has entered into a research collaboration with British biotechnology company Relation Therapeutics worth up to $110 million, expanding the companies’ existing work in AI-assisted drug discovery.",
+      "source": "AI News",
+      "published": "2026-08-03T10:00:00+00:00",
+      "link": "https://www.artificialintelligence-news.com/news/gsk-relation-therapeutics-ai-drug-discovery-biological-data/"
+    },
+    {
+      "title": "The ‘Guardrail Guy’ Went Viral for Posting About Flock Cameras. Then Someone Destroyed Them",
+      "summary": "Steve Elmers, also known as the “Guardrail Guy,” is done calling out license plate readers after two that appeared in his videos were vandalized.",
+      "source": "Wired",
+      "published": "2026-08-03T09:30:00+00:00",
+      "link": "https://www.wired.com/story/flock-cameras-guardrail-guy-advocacy-damage-people-dont-like-alprs/"
+    },
+    {
+      "title": "Here’s why AI agents lie and cheat to reach their goals",
+      "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here.",
+      "source": "MIT Tech Review",
+      "published": "2026-08-03T08:30:05+00:00",
+      "link": "https://www.technologyreview.com/2026/08/03/1141009/heres-why-ai-agents-lie-and-cheat-to-reach-their-goals/"
+    },
     {
       "title": "AI migrated legacy COBOL programs to Java, bugs included",
       "summary": "Article URL: https://arxiv.org/abs/2607.28271 Comments URL: https://news.ycombinator.com/item?id=49150773 Points: 53 # Comments: 39",
@@ -1337,69 +1400,6 @@ const FEED_DATA = {
       "source": "MIT Tech Review",
       "published": "2026-07-28T12:10:00+00:00",
       "link": "https://www.technologyreview.com/2026/07/28/1140868/the-download-openai-hack-ai-stock-sell-off/"
-    },
-    {
-      "title": "Anthropic CEO Amodei doubles down on open-weight risk stance while insisting he never called for a ban",
-      "summary": "Anthropic CEO Dario Amodei is once again warning about the risks of open AI models while insisting he has never called for a ban. He argues that authoritarian states like China could overtake the US and that open models could be misused for biological or cyberattacks.",
-      "source": "The Decoder",
-      "published": "2026-07-28T12:06:42+00:00",
-      "link": "https://the-decoder.com/anthropic-ceo-amodei-doubles-down-on-open-weight-risk-stance-while-insisting-he-never-called-for-a-ban/"
-    },
-    {
-      "title": "Smart rings are looking like my kind of AI gadget",
-      "summary": "Over the last few months, I've spent a lot of time talking to my computer.",
-      "source": "The Verge",
-      "published": "2026-07-28T12:00:00+00:00",
-      "link": "https://www.theverge.com/gadgets/971744/smart-ring-ai-gadget-stream-index"
-    },
-    {
-      "title": "Guardoc Health processes clinical documentation using Amazon Nova models",
-      "summary": "Guardoc Health says it processes over one million clinical documents daily using Amazon Nova models through Bedrock. Bringing AI into clinical documentation comes down to a specific kind of risk calculation.",
-      "source": "AI News",
-      "published": "2026-07-28T11:30:47+00:00",
-      "link": "https://www.artificialintelligence-news.com/news/guardoc-health-processes-clinical-documentation-using-amazon-nova-models/"
-    },
-    {
-      "title": "Can the New York Times Save Journalism From Our AI Overlords?",
-      "summary": "In 2023, the Times sued OpenAI and Microsoft for copyright infringement. They’ve since spent more than $20 million on the case, and publisher A.G.",
-      "source": "Wired",
-      "published": "2026-07-28T10:30:00+00:00",
-      "link": "https://www.wired.com/story/the-big-interview-podcast-a-g-sulzberger-new-york-times/"
-    },
-    {
-      "title": "Silicon Valley’s Next IPO Billionaires Are Coming. Nonprofits Are Ready for Them",
-      "summary": "Anthropic and OpenAI employees are expected to give generously after their companies go public. “It’s going to be a wild ride,” says one nonprofit leader.",
-      "source": "Wired",
-      "published": "2026-07-28T10:00:00+00:00",
-      "link": "https://www.wired.com/story/nonprofits-are-getting-ready-for-the-funding-anthropalypse/"
-    },
-    {
-      "title": "Google's Beyond Zero: Enterprise Security for the AI Era",
-      "summary": "Article URL: https://spawn-queue.acm.org/doi/10.1145/3819083 Comments URL: https://news.ycombinator.com/item?id=49081644 Points: 156 # Comments: 80",
-      "source": "Hacker News",
-      "published": "2026-07-28T09:59:13+00:00",
-      "link": "https://spawn-queue.acm.org/doi/10.1145/3819083"
-    },
-    {
-      "title": "Hugging Face is being used to easily undress women and children",
-      "summary": "Hugging Face is being used to make nonconsensual deepfakes, and the popular open-source AI model repository is doing very little to prevent it.",
-      "source": "The Verge",
-      "published": "2026-07-28T09:07:14+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/971723/hugging-face-nudify-deepfake-undress-women-children"
-    },
-    {
-      "title": "Armenia’s AI Bet Is Not Chip Manufacturing. It Is Compute Sovereignty",
-      "summary": "Armenia is not a big country. It’s not a wealthy country.",
-      "source": "AI News",
-      "published": "2026-07-28T08:52:46+00:00",
-      "link": "https://www.artificialintelligence-news.com/news/armenias-ai-bet-is-not-chip-manufacturing-it-is-compute-sovereignty/"
-    },
-    {
-      "title": "Hugging Face Has a Deepfake Nudes Problem",
-      "summary": "Researchers tested top image editing models on Hugging Face and found they could easily create explicit deepfakes—and 1,000 image editing prompts show how people use the software.",
-      "source": "Wired",
-      "published": "2026-07-28T05:30:00+00:00",
-      "link": "https://www.wired.com/story/hugging-face-has-a-nonconsensual-deepfakes-problem/"
     }
   ]
 };
