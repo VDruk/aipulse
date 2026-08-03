@@ -1,12 +1,47 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-08-03T12:08:34.309021+00:00",
+  "lastUpdated": "2026-08-03T15:44:10.164498+00:00",
   "items": [
+    {
+      "title": "Interpol says AI has become the \"core operational driver of cybercrime\" across Africa",
+      "summary": "AI is involved in 55 percent of reported cybercrimes in Africa, according to a new Interpol report. Financial losses more than doubled from $192 million to $484 million, and about 600,000 cases of digital extortion involving deepfakes were recorded.",
+      "source": "The Decoder",
+      "published": "2026-08-03T15:00:28+00:00",
+      "link": "https://the-decoder.com/interpol-says-ai-has-become-the-core-operational-driver-of-cybercrime-across-africa/"
+    },
+    {
+      "title": "China's MiniMax H3 is the first open model to top an AI video ranking",
+      "summary": "MiniMax releases H3 video model weights, putting an open model at the top of a video ranking for the first time. The article China's MiniMax H3 is the first open model to top an AI video ranking appeared first on The Decoder.",
+      "source": "The Decoder",
+      "published": "2026-08-03T13:52:29+00:00",
+      "link": "https://the-decoder.com/chinas-minimax-h3-is-the-first-open-model-to-top-an-ai-video-ranking/"
+    },
+    {
+      "title": "The Download: reward hacking explained, and suspected Iranian cyberattacks",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.",
+      "source": "MIT Tech Review",
+      "published": "2026-08-03T12:08:00+00:00",
+      "link": "https://www.technologyreview.com/2026/08/03/1141039/the-download-reward-hacking-water-cyberattacks/"
+    },
     {
       "title": "Unicorn, pelican, Middle-earth: OpenAI co-founder Karpathy is looking for the next AI vibe test",
       "summary": "One paragraph of \"Lord of the Rings\" in, 5,500 lines of code out. Andrej Karpathy had Claude Opus 5 turn Tolkien's opening into a 3D browser scene.",
       "source": "The Decoder",
       "published": "2026-08-03T12:07:31+00:00",
       "link": "https://the-decoder.com/unicorn-pelican-middle-earth-openai-co-founder-karpathy-is-looking-for-the-next-ai-vibe-test/"
+    },
+    {
+      "title": "The AI bubble is popping; we just don't know it yet",
+      "summary": "Article URL: https://www.theregister.com/ai-and-ml/2026/08/03/the-ai-bubble-is-already-popping-we-just-dont-know-it-yet/5282004 Comments URL: https://news.ycombinator.com/item?id=49154601 Points: 60 # Comments: 99",
+      "source": "Hacker News",
+      "published": "2026-08-03T11:59:10+00:00",
+      "link": "https://www.theregister.com/ai-and-ml/2026/08/03/the-ai-bubble-is-already-popping-we-just-dont-know-it-yet/5282004"
+    },
+    {
+      "title": "Show HN: Nightcrawler – A local AI pentesting agent running on a smartphone",
+      "summary": "Article URL: https://github.com/garagehq/nightcrawler/ Comments URL: https://news.ycombinator.com/item?id=49154127 Points: 62 # Comments: 20",
+      "source": "Hacker News",
+      "published": "2026-08-03T11:06:15+00:00",
+      "link": "https://github.com/garagehq/nightcrawler/"
     },
     {
       "title": "China’s Alibaba takes another swipe at America’s AI supremacy",
@@ -16,18 +51,18 @@ const FEED_DATA = {
       "link": "https://www.theverge.com/ai-artificial-intelligence/974342/alibaba-qwen-max-open-weight-ai"
     },
     {
-      "title": "Alibaba’s open-weight Qwen3.8-Max takes on long-horizon AI tasks with 2.4 trillion parameters",
-      "summary": "Alibaba's new flagship model Qwen3.8-Max is built to handle complex tasks on its own over days at a time, from reproducing research papers to designing chips autonomously. The team plans to release the weights next week.",
-      "source": "The Decoder",
-      "published": "2026-08-03T10:50:50+00:00",
-      "link": "https://the-decoder.com/alibabas-open-weight-qwen3-8-max-takes-on-long-horizon-ai-tasks-with-2-4-trillion-parameters/"
-    },
-    {
       "title": "Two teams solved the same quantum crypto problem using GPT-5.6 just three hours apart",
       "summary": "Two research teams independently solved the same open quantum cryptography problem using OpenAI's GPT-5.6 Sol Ultra, submitting their papers just three hours apart. \"If someone mentions an open problem, the first thing is to see if GPT solves it,\" says one of the researchers.",
       "source": "The Decoder",
       "published": "2026-08-03T10:49:58+00:00",
       "link": "https://the-decoder.com/two-teams-solved-the-same-quantum-crypto-problem-using-gpt-5-6-just-three-hours-apart/"
+    },
+    {
+      "title": "Alibaba’s open-weight Qwen3.8-Max takes on long-horizon AI tasks with 2.4 trillion parameters",
+      "summary": "Alibaba's new flagship model Qwen3.8-Max is built to handle complex tasks on its own over days at a time, from reproducing research papers to designing chips autonomously. The team plans to release the weights next week.",
+      "source": "The Decoder",
+      "published": "2026-08-03T10:48:50+00:00",
+      "link": "https://the-decoder.com/alibabas-open-weight-qwen3-8-max-takes-on-long-horizon-ai-tasks-with-2-4-trillion-parameters/"
     },
     {
       "title": "A Marc Benioff-backed startup thinks AI can solve the AI deployment problem",
@@ -51,6 +86,13 @@ const FEED_DATA = {
       "link": "https://www.artificialintelligence-news.com/news/gsk-relation-therapeutics-ai-drug-discovery-biological-data/"
     },
     {
+      "title": "Prevent cognitive debt by manually retyping LLM-generated code",
+      "summary": "Article URL: https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code/ Comments URL: https://news.ycombinator.com/item?id=49153374 Points: 250 # Comments: 204",
+      "source": "Hacker News",
+      "published": "2026-08-03T09:32:07+00:00",
+      "link": "https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code/"
+    },
+    {
       "title": "The ‘Guardrail Guy’ Went Viral for Posting About Flock Cameras. Then Someone Destroyed Them",
       "summary": "Steve Elmers, also known as the “Guardrail Guy,” is done calling out license plate readers after two that appeared in his videos were vandalized.",
       "source": "Wired",
@@ -65,22 +107,29 @@ const FEED_DATA = {
       "link": "https://www.technologyreview.com/2026/08/03/1141009/heres-why-ai-agents-lie-and-cheat-to-reach-their-goals/"
     },
     {
+      "title": "The AI Productivity Gap",
+      "summary": "Article URL: https://bjorg.bjornroche.com/management/ai-productivity-gap/ Comments URL: https://news.ycombinator.com/item?id=49152222 Points: 84 # Comments: 78",
+      "source": "Hacker News",
+      "published": "2026-08-03T07:07:20+00:00",
+      "link": "https://bjorg.bjornroche.com/management/ai-productivity-gap/"
+    },
+    {
       "title": "AI migrated legacy COBOL programs to Java, bugs included",
-      "summary": "Article URL: https://arxiv.org/abs/2607.28271 Comments URL: https://news.ycombinator.com/item?id=49150773 Points: 53 # Comments: 39",
+      "summary": "Article URL: https://arxiv.org/abs/2607.28271 Comments URL: https://news.ycombinator.com/item?id=49150773 Points: 84 # Comments: 70",
       "source": "Hacker News",
       "published": "2026-08-03T03:06:12+00:00",
       "link": "https://arxiv.org/abs/2607.28271"
     },
     {
       "title": "OpenAI's super PAC is funding AI-generated news site attacking industry critics",
-      "summary": "Article URL: https://www.modelrepublic.org/articles/the-reporters-at-this-news-site-are-ai-bots.-openai%E2%80%99s-super-pac-appears-to-be-using-it-to-advance-its-political-agenda Comments URL: https://news.ycombinator.com/item?id=49150561 Points: 177 # Comments: 77",
+      "summary": "Article URL: https://www.modelrepublic.org/articles/the-reporters-at-this-news-site-are-ai-bots.-openai%E2%80%99s-super-pac-appears-to-be-using-it-to-advance-its-political-agenda Comments URL: https://news.ycombinator.com/item?id=49150561 Points: 193 # Comments: 90",
       "source": "Hacker News",
       "published": "2026-08-03T02:30:30+00:00",
       "link": "https://www.modelrepublic.org/articles/the-reporters-at-this-news-site-are-ai-bots.-openai%E2%80%99s-super-pac-appears-to-be-using-it-to-advance-its-political-agenda"
     },
     {
       "title": "AI poster wins Ohio State Fair contest",
-      "summary": "Article URL: https://www.ohiostatefair.com/p/get-involved/arts/poster-contest Comments URL: https://news.ycombinator.com/item?id=49149188 Points: 129 # Comments: 156",
+      "summary": "Article URL: https://www.ohiostatefair.com/p/get-involved/arts/poster-contest Comments URL: https://news.ycombinator.com/item?id=49149188 Points: 135 # Comments: 176",
       "source": "Hacker News",
       "published": "2026-08-02T22:43:47+00:00",
       "link": "https://www.ohiostatefair.com/p/get-involved/arts/poster-contest"
@@ -94,14 +143,14 @@ const FEED_DATA = {
     },
     {
       "title": "My personal AI benchmark: “Generate an SVG of a frog with a Habsburg jaw”",
-      "summary": "Article URL: https://frogs.vaguespac.es/ Comments URL: https://news.ycombinator.com/item?id=49147622 Points: 139 # Comments: 73",
+      "summary": "Article URL: https://frogs.vaguespac.es/ Comments URL: https://news.ycombinator.com/item?id=49147622 Points: 147 # Comments: 81",
       "source": "Hacker News",
       "published": "2026-08-02T19:42:08+00:00",
       "link": "https://frogs.vaguespac.es/"
     },
     {
       "title": "EU rules on AI models become enforceable. What's going to change?",
-      "summary": "Article URL: https://www.euronews.com/my-europe/2026/08/02/eu-rules-on-ai-models-become-enforceable-whats-going-to-change Comments URL: https://news.ycombinator.com/item?id=49147606 Points: 50 # Comments: 70",
+      "summary": "Article URL: https://www.euronews.com/my-europe/2026/08/02/eu-rules-on-ai-models-become-enforceable-whats-going-to-change Comments URL: https://news.ycombinator.com/item?id=49147606 Points: 52 # Comments: 72",
       "source": "Hacker News",
       "published": "2026-08-02T19:40:19+00:00",
       "link": "https://www.euronews.com/my-europe/2026/08/02/eu-rules-on-ai-models-become-enforceable-whats-going-to-change"
@@ -150,7 +199,7 @@ const FEED_DATA = {
     },
     {
       "title": "Artificial Intelligence: Ars Notoria and the Promise of Instant Knowledge",
-      "summary": "Article URL: https://publicdomainreview.org/essay/ars-notoria/ Comments URL: https://news.ycombinator.com/item?id=49143001 Points: 126 # Comments: 31",
+      "summary": "Article URL: https://publicdomainreview.org/essay/ars-notoria/ Comments URL: https://news.ycombinator.com/item?id=49143001 Points: 136 # Comments: 33",
       "source": "Hacker News",
       "published": "2026-08-02T10:18:24+00:00",
       "link": "https://publicdomainreview.org/essay/ars-notoria/"
@@ -192,7 +241,7 @@ const FEED_DATA = {
     },
     {
       "title": "Zitron: \"Everyone Has Been Sold a Lie\" on AI [video]",
-      "summary": "Article URL: https://www.youtube.com/watch?v=pHcZpvIfho0 Comments URL: https://news.ycombinator.com/item?id=49139325 Points: 55 # Comments: 47",
+      "summary": "Article URL: https://www.youtube.com/watch?v=pHcZpvIfho0 Comments URL: https://news.ycombinator.com/item?id=49139325 Points: 55 # Comments: 50",
       "source": "Hacker News",
       "published": "2026-08-01T22:50:30+00:00",
       "link": "https://www.youtube.com/watch?v=pHcZpvIfho0"
@@ -206,7 +255,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI financial advice is surprisingly good, especially if you ask right questions",
-      "summary": "Article URL: https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions Comments URL: https://news.ycombinator.com/item?id=49139102 Points: 341 # Comments: 388",
+      "summary": "Article URL: https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions Comments URL: https://news.ycombinator.com/item?id=49139102 Points: 344 # Comments: 392",
       "source": "Hacker News",
       "published": "2026-08-01T22:25:12+00:00",
       "link": "https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions"
@@ -269,14 +318,14 @@ const FEED_DATA = {
     },
     {
       "title": "Google kills Earth AI generator after one day",
-      "summary": "Article URL: https://twitter.com/newsfromgoogle/status/2083249962150760610 Comments URL: https://news.ycombinator.com/item?id=49134079 Points: 63 # Comments: 105",
+      "summary": "Article URL: https://twitter.com/newsfromgoogle/status/2083249962150760610 Comments URL: https://news.ycombinator.com/item?id=49134079 Points: 64 # Comments: 105",
       "source": "Hacker News",
       "published": "2026-08-01T13:02:44+00:00",
       "link": "https://twitter.com/newsfromgoogle/status/2083249962150760610"
     },
     {
       "title": "On the non-use of AI in my writing process",
-      "summary": "Article URL: https://www.antipope.org/charlie/blog-static/2026/08/on-the-non-use-of-ai-in-my-wri.html Comments URL: https://news.ycombinator.com/item?id=49134038 Points: 130 # Comments: 132",
+      "summary": "Article URL: https://www.antipope.org/charlie/blog-static/2026/08/on-the-non-use-of-ai-in-my-wri.html Comments URL: https://news.ycombinator.com/item?id=49134038 Points: 130 # Comments: 135",
       "source": "Hacker News",
       "published": "2026-08-01T12:56:54+00:00",
       "link": "https://www.antipope.org/charlie/blog-static/2026/08/on-the-non-use-of-ai-in-my-wri.html"
@@ -332,21 +381,21 @@ const FEED_DATA = {
     },
     {
       "title": "EU will mandate labels on authentic-looking AI content starting August 2",
-      "summary": "Article URL: https://www.engadget.com/2227966/eu-mandate-labels-on-authentic-looking-ai-content/ Comments URL: https://news.ycombinator.com/item?id=49132341 Points: 76 # Comments: 108",
+      "summary": "Article URL: https://www.engadget.com/2227966/eu-mandate-labels-on-authentic-looking-ai-content/ Comments URL: https://news.ycombinator.com/item?id=49132341 Points: 77 # Comments: 110",
       "source": "Hacker News",
       "published": "2026-08-01T08:26:55+00:00",
       "link": "https://www.engadget.com/2227966/eu-mandate-labels-on-authentic-looking-ai-content/"
     },
     {
       "title": "AI doesn't generate working products, that's still your job",
-      "summary": "Article URL: https://weeraman.com/the-prototype-isnt-the-product/ Comments URL: https://news.ycombinator.com/item?id=49132130 Points: 262 # Comments: 291",
+      "summary": "Article URL: https://weeraman.com/the-prototype-isnt-the-product/ Comments URL: https://news.ycombinator.com/item?id=49132130 Points: 265 # Comments: 292",
       "source": "Hacker News",
       "published": "2026-08-01T07:52:10+00:00",
       "link": "https://weeraman.com/the-prototype-isnt-the-product/"
     },
     {
       "title": "Flint: A Visualization Language for the AI Era",
-      "summary": "Article URL: https://microsoft.github.io/flint-chart/ Comments URL: https://news.ycombinator.com/item?id=49130604 Points: 273 # Comments: 68",
+      "summary": "Article URL: https://microsoft.github.io/flint-chart/ Comments URL: https://news.ycombinator.com/item?id=49130604 Points: 273 # Comments: 69",
       "source": "Hacker News",
       "published": "2026-08-01T02:45:09+00:00",
       "link": "https://microsoft.github.io/flint-chart/"
@@ -395,7 +444,7 @@ const FEED_DATA = {
     },
     {
       "title": "Everyone is building LLM routers, we deprecated ours",
-      "summary": "Article URL: https://manifest.build/blog/why-we-deprecated-our-llm-router/ Comments URL: https://news.ycombinator.com/item?id=49126630 Points: 130 # Comments: 86",
+      "summary": "Article URL: https://manifest.build/blog/why-we-deprecated-our-llm-router/ Comments URL: https://news.ycombinator.com/item?id=49126630 Points: 131 # Comments: 86",
       "source": "Hacker News",
       "published": "2026-07-31T18:06:39+00:00",
       "link": "https://manifest.build/blog/why-we-deprecated-our-llm-router/"
@@ -451,7 +500,7 @@ const FEED_DATA = {
     },
     {
       "title": "Is AI reasoning right for the wrong reasons?",
-      "summary": "Article URL: https://www.quantamagazine.org/is-ai-reasoning-right-for-the-wrong-reasons-20260731/ Comments URL: https://news.ycombinator.com/item?id=49124358 Points: 213 # Comments: 245",
+      "summary": "Article URL: https://www.quantamagazine.org/is-ai-reasoning-right-for-the-wrong-reasons-20260731/ Comments URL: https://news.ycombinator.com/item?id=49124358 Points: 216 # Comments: 248",
       "source": "Hacker News",
       "published": "2026-07-31T15:29:39+00:00",
       "link": "https://www.quantamagazine.org/is-ai-reasoning-right-for-the-wrong-reasons-20260731/"
@@ -1351,55 +1400,6 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-07-28T13:19:17+00:00",
       "link": "https://techcrunch.com/2026/07/28/recursive-superintelligence-signs-400-compute-deal-with-amazon/"
-    },
-    {
-      "title": "Recursive Superintelligence signs $410 compute deal with Amazon",
-      "summary": "Recursive’s $400 million outlay represents the bulk of the company’s fundraising to date.",
-      "source": "TechCrunch",
-      "published": "2026-07-28T13:19:17+00:00",
-      "link": "https://techcrunch.com/2026/07/28/recursive-superintelligence-signs-400-compute-deal-with-amazon/"
-    },
-    {
-      "title": "Taiwan detains Nvidia employee in widening China chip smuggling probe",
-      "summary": "Taiwan's prosecutors have detained an Nvidia employee in connection with the alleged illegal export of Super Micro AI servers to China, according to Bloomberg and Reuters.",
-      "source": "The Decoder",
-      "published": "2026-07-28T13:15:43+00:00",
-      "link": "https://the-decoder.com/taiwan-detains-nvidia-employee-in-widening-china-chip-smuggling-probe/"
-    },
-    {
-      "title": "Show HN: Formally verified 3D CSG: Trust 93 lines spec, not 1000 lines AI code",
-      "summary": "To my knowledge, this is the first formally verified implementation of a 3D constructive solid geometry (CSG) operation: mesh intersection, implemented in Lean 4 and verified against a concise specification that pins down the surface of the resulting mesh exactly and guarantees...",
-      "source": "Hacker News",
-      "published": "2026-07-28T13:07:14+00:00",
-      "link": "https://github.com/schildep/verified-3d-mesh-intersection"
-    },
-    {
-      "title": "Nvidia invests in Ilya Sutskever's AI lab, shifting SSI away from Google chips",
-      "summary": "Nvidia is pouring what it calls a \"substantial\" sum into Safe Superintelligence (SSI), the AI lab run by Ilya Sutskever, OpenAI's former chief scientist. The article Nvidia invests in Ilya Sutskever's AI lab, shifting SSI away from Google chips appeared first on The Decoder.",
-      "source": "The Decoder",
-      "published": "2026-07-28T13:06:35+00:00",
-      "link": "https://the-decoder.com/nvidia-invests-in-ilya-sutskevers-ai-lab-shifting-ssi-away-from-google-chips/"
-    },
-    {
-      "title": "What AI developers could learn from Charles Bukowski?",
-      "summary": "Article URL: https://galjot.si/what-ai-developers-could-learn-from-charles-bukowski Comments URL: https://news.ycombinator.com/item?id=49083132 Points: 70 # Comments: 50",
-      "source": "Hacker News",
-      "published": "2026-07-28T13:00:12+00:00",
-      "link": "https://galjot.si/what-ai-developers-could-learn-from-charles-bukowski"
-    },
-    {
-      "title": "Perplexity’s Personal Computer turns Windows PCs into AI agents",
-      "summary": "Perplexity has expanded its agentic Personal Computer tool to Windows, allowing computers running the world's most popular OS to be used as a locally run AI system.",
-      "source": "The Verge",
-      "published": "2026-07-28T12:30:00+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/971750/perplexity-personal-computer-windows-ai-agents"
-    },
-    {
-      "title": "The Download: OpenAI’s predictable hack, and an AI stock sell-off",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. OpenAI called the Hugging Face attack unprecedented.",
-      "source": "MIT Tech Review",
-      "published": "2026-07-28T12:10:00+00:00",
-      "link": "https://www.technologyreview.com/2026/07/28/1140868/the-download-openai-hack-ai-stock-sell-off/"
     }
   ]
 };
