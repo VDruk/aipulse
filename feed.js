@@ -1,12 +1,26 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-08-02T21:46:25.918031+00:00",
+  "lastUpdated": "2026-08-03T04:27:57.740595+00:00",
   "items": [
+    {
+      "title": "AI poster wins Ohio State Fair contest",
+      "summary": "Article URL: https://www.ohiostatefair.com/p/get-involved/arts/poster-contest Comments URL: https://news.ycombinator.com/item?id=49149188 Points: 124 # Comments: 147",
+      "source": "Hacker News",
+      "published": "2026-08-02T22:43:47+00:00",
+      "link": "https://www.ohiostatefair.com/p/get-involved/arts/poster-contest"
+    },
     {
       "title": "Sam Altman and AI’s decel debate",
       "summary": "On the latest episode of Equity, we discuss why Sam Altman has calling on the industry to \"pace the rate of AI development.\"",
       "source": "TechCrunch",
       "published": "2026-08-02T20:54:22+00:00",
       "link": "https://techcrunch.com/2026/08/02/sam-altman-and-ais-decel-debate/"
+    },
+    {
+      "title": "My personal AI benchmark: “Generate an SVG of a frog with a Habsburg jaw”",
+      "summary": "Article URL: https://frogs.vaguespac.es/ Comments URL: https://news.ycombinator.com/item?id=49147622 Points: 122 # Comments: 56",
+      "source": "Hacker News",
+      "published": "2026-08-02T19:42:08+00:00",
+      "link": "https://frogs.vaguespac.es/"
     },
     {
       "title": "Fender’s CEO seems to think your bandmates are just analog AI",
@@ -52,7 +66,7 @@ const FEED_DATA = {
     },
     {
       "title": "Artificial Intelligence: Ars Notoria and the Promise of Instant Knowledge",
-      "summary": "Article URL: https://publicdomainreview.org/essay/ars-notoria/ Comments URL: https://news.ycombinator.com/item?id=49143001 Points: 97 # Comments: 24",
+      "summary": "Article URL: https://publicdomainreview.org/essay/ars-notoria/ Comments URL: https://news.ycombinator.com/item?id=49143001 Points: 124 # Comments: 31",
       "source": "Hacker News",
       "published": "2026-08-02T10:18:24+00:00",
       "link": "https://publicdomainreview.org/essay/ars-notoria/"
@@ -94,7 +108,7 @@ const FEED_DATA = {
     },
     {
       "title": "Zitron: \"Everyone Has Been Sold a Lie\" on AI [video]",
-      "summary": "Article URL: https://www.youtube.com/watch?v=pHcZpvIfho0 Comments URL: https://news.ycombinator.com/item?id=49139325 Points: 53 # Comments: 41",
+      "summary": "Article URL: https://www.youtube.com/watch?v=pHcZpvIfho0 Comments URL: https://news.ycombinator.com/item?id=49139325 Points: 54 # Comments: 47",
       "source": "Hacker News",
       "published": "2026-08-01T22:50:30+00:00",
       "link": "https://www.youtube.com/watch?v=pHcZpvIfho0"
@@ -108,7 +122,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI financial advice is surprisingly good, especially if you ask right questions",
-      "summary": "Article URL: https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions Comments URL: https://news.ycombinator.com/item?id=49139102 Points: 326 # Comments: 364",
+      "summary": "Article URL: https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions Comments URL: https://news.ycombinator.com/item?id=49139102 Points: 338 # Comments: 379",
       "source": "Hacker News",
       "published": "2026-08-01T22:25:12+00:00",
       "link": "https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions"
@@ -178,7 +192,7 @@ const FEED_DATA = {
     },
     {
       "title": "On the non-use of AI in my writing process",
-      "summary": "Article URL: https://www.antipope.org/charlie/blog-static/2026/08/on-the-non-use-of-ai-in-my-wri.html Comments URL: https://news.ycombinator.com/item?id=49134038 Points: 130 # Comments: 131",
+      "summary": "Article URL: https://www.antipope.org/charlie/blog-static/2026/08/on-the-non-use-of-ai-in-my-wri.html Comments URL: https://news.ycombinator.com/item?id=49134038 Points: 130 # Comments: 132",
       "source": "Hacker News",
       "published": "2026-08-01T12:56:54+00:00",
       "link": "https://www.antipope.org/charlie/blog-static/2026/08/on-the-non-use-of-ai-in-my-wri.html"
@@ -234,21 +248,21 @@ const FEED_DATA = {
     },
     {
       "title": "EU will mandate labels on authentic-looking AI content starting August 2",
-      "summary": "Article URL: https://www.engadget.com/2227966/eu-mandate-labels-on-authentic-looking-ai-content/ Comments URL: https://news.ycombinator.com/item?id=49132341 Points: 75 # Comments: 105",
+      "summary": "Article URL: https://www.engadget.com/2227966/eu-mandate-labels-on-authentic-looking-ai-content/ Comments URL: https://news.ycombinator.com/item?id=49132341 Points: 76 # Comments: 108",
       "source": "Hacker News",
       "published": "2026-08-01T08:26:55+00:00",
       "link": "https://www.engadget.com/2227966/eu-mandate-labels-on-authentic-looking-ai-content/"
     },
     {
       "title": "AI doesn't generate working products, that's still your job",
-      "summary": "Article URL: https://weeraman.com/the-prototype-isnt-the-product/ Comments URL: https://news.ycombinator.com/item?id=49132130 Points: 258 # Comments: 290",
+      "summary": "Article URL: https://weeraman.com/the-prototype-isnt-the-product/ Comments URL: https://news.ycombinator.com/item?id=49132130 Points: 261 # Comments: 291",
       "source": "Hacker News",
       "published": "2026-08-01T07:52:10+00:00",
       "link": "https://weeraman.com/the-prototype-isnt-the-product/"
     },
     {
       "title": "Flint: A Visualization Language for the AI Era",
-      "summary": "Article URL: https://microsoft.github.io/flint-chart/ Comments URL: https://news.ycombinator.com/item?id=49130604 Points: 266 # Comments: 68",
+      "summary": "Article URL: https://microsoft.github.io/flint-chart/ Comments URL: https://news.ycombinator.com/item?id=49130604 Points: 272 # Comments: 68",
       "source": "Hacker News",
       "published": "2026-08-01T02:45:09+00:00",
       "link": "https://microsoft.github.io/flint-chart/"
@@ -297,7 +311,7 @@ const FEED_DATA = {
     },
     {
       "title": "Everyone is building LLM routers, we deprecated ours",
-      "summary": "Article URL: https://manifest.build/blog/why-we-deprecated-our-llm-router/ Comments URL: https://news.ycombinator.com/item?id=49126630 Points: 130 # Comments: 85",
+      "summary": "Article URL: https://manifest.build/blog/why-we-deprecated-our-llm-router/ Comments URL: https://news.ycombinator.com/item?id=49126630 Points: 130 # Comments: 86",
       "source": "Hacker News",
       "published": "2026-07-31T18:06:39+00:00",
       "link": "https://manifest.build/blog/why-we-deprecated-our-llm-router/"
@@ -353,7 +367,7 @@ const FEED_DATA = {
     },
     {
       "title": "Is AI reasoning right for the wrong reasons?",
-      "summary": "Article URL: https://www.quantamagazine.org/is-ai-reasoning-right-for-the-wrong-reasons-20260731/ Comments URL: https://news.ycombinator.com/item?id=49124358 Points: 210 # Comments: 236",
+      "summary": "Article URL: https://www.quantamagazine.org/is-ai-reasoning-right-for-the-wrong-reasons-20260731/ Comments URL: https://news.ycombinator.com/item?id=49124358 Points: 213 # Comments: 241",
       "source": "Hacker News",
       "published": "2026-07-31T15:29:39+00:00",
       "link": "https://www.quantamagazine.org/is-ai-reasoning-right-for-the-wrong-reasons-20260731/"
@@ -465,7 +479,7 @@ const FEED_DATA = {
     },
     {
       "title": "Google fixed more Chrome bugs in June than over the past two years, thanks to AI",
-      "summary": "Article URL: https://blog.google/security/chrome-stronger-with-every-update/ Comments URL: https://news.ycombinator.com/item?id=49120097 Points: 568 # Comments: 597",
+      "summary": "Article URL: https://blog.google/security/chrome-stronger-with-every-update/ Comments URL: https://news.ycombinator.com/item?id=49120097 Points: 572 # Comments: 599",
       "source": "Hacker News",
       "published": "2026-07-31T07:29:22+00:00",
       "link": "https://blog.google/security/chrome-stronger-with-every-update/"
@@ -479,7 +493,7 @@ const FEED_DATA = {
     },
     {
       "title": "The AI trade now runs on borrowed money, and the lenders are repricing it",
-      "summary": "Article URL: https://greyswansignals.com/?theme=dark Comments URL: https://news.ycombinator.com/item?id=49118933 Points: 141 # Comments: 163",
+      "summary": "Article URL: https://greyswansignals.com/?theme=dark Comments URL: https://news.ycombinator.com/item?id=49118933 Points: 141 # Comments: 164",
       "source": "Hacker News",
       "published": "2026-07-31T04:15:04+00:00",
       "link": "https://greyswansignals.com/?theme=dark"
@@ -1386,20 +1400,6 @@ const FEED_DATA = {
       "source": "Ars Technica",
       "published": "2026-07-27T21:56:14+00:00",
       "link": "https://arstechnica.com/security/2026/07/microsoft-unveils-ai-security-tools-it-says-outperform-competing-platforms/"
-    },
-    {
-      "title": "Satya Nadella says companies that trust one AI for everything may not survive",
-      "summary": "Companies without their own models — or without a layer of AI infrastructure known as AI gateways to separate their prompts from the model itself — will be in trouble, Nadella says.",
-      "source": "TechCrunch",
-      "published": "2026-07-27T21:17:11+00:00",
-      "link": "https://techcrunch.com/2026/07/27/satya-nadella-says-companies-that-trust-one-ai-for-everything-may-not-survive/"
-    },
-    {
-      "title": "PSA: Your Claude shared chats and Artifacts may have ended up on Google",
-      "summary": "The issue appears to have originated from Claude’s “share chat” feature, which allows users to create links that enable anyone with the assigned URL view a conversation or project.",
-      "source": "TechCrunch",
-      "published": "2026-07-27T20:19:42+00:00",
-      "link": "https://techcrunch.com/2026/07/27/psa-your-claude-shared-chats-and-artifacts-may-have-ended-up-on-google/"
     }
   ]
 };
