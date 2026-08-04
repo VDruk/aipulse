@@ -1,6 +1,55 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-08-04T18:24:33.890962+00:00",
+  "lastUpdated": "2026-08-04T22:04:51.687192+00:00",
   "items": [
+    {
+      "title": "AMD’s datacenter business is booming while gaming takes a backseat",
+      "summary": "Driven by demand for AI capacity, AMD's data center revenue more than doubled year-over-year in its latest earnings report, reaching $6.7 billion. That's up from $5.8 billion in Q1, and jumping 107 percent from the $3.2 billion it reported for the same period a year ago.",
+      "source": "The Verge",
+      "published": "2026-08-04T20:57:49+00:00",
+      "link": "https://www.theverge.com/tech/975381/amd-q2-2026-earnings-ai-gaming-ryzen"
+    },
+    {
+      "title": "SpaceX made more revenue as an AI company than a space company",
+      "summary": "SpaceX's AI revenue grew more than three times to $2.6 billion from the year before, mostly because of deals that the company made to provide compute to other AI companies, according to SpaceX's quarterly earnings.",
+      "source": "The Verge",
+      "published": "2026-08-04T20:47:55+00:00",
+      "link": "https://www.theverge.com/science/975335/spacex-made-more-money-as-a-neocloud"
+    },
+    {
+      "title": "Open-weight AI models are catching up to the frontier. The safety gap remains.",
+      "summary": "A new SaferAI report finds Z.ai's open-weight GLM-5.2 approaches frontier AI capabilities while lacking key safety mitigations, renewing concerns that powerful open models could outpace governance and safeguards.",
+      "source": "TechCrunch",
+      "published": "2026-08-04T20:05:26+00:00",
+      "link": "https://techcrunch.com/2026/08/04/open-weight-ai-models-are-catching-up-to-the-frontier-the-safety-gap-remains/"
+    },
+    {
+      "title": "Anthropic signs $10B deal with AI cloud startup Volta",
+      "summary": "Anthropic has been on a cloud partnership spree in recent months, and its latest move is reportedly a $10 billion deal with AI cloud startup Volta.",
+      "source": "TechCrunch",
+      "published": "2026-08-04T19:48:40+00:00",
+      "link": "https://techcrunch.com/2026/08/04/anthropic-signs-10-billion-deal-with-ai-cloud-startup-volta/"
+    },
+    {
+      "title": "Meet Wrinkles, an app that uncovers the hidden stories of the places around you",
+      "summary": "Wrinkles, available on both iOS and Android, essentially acts as an AI-powered audio tour guide that reveals hidden history and local stories.",
+      "source": "TechCrunch",
+      "published": "2026-08-04T19:34:34+00:00",
+      "link": "https://techcrunch.com/2026/08/04/meet-wrinkles-an-ai-app-that-uncovers-the-hidden-stories-of-the-places-around-you/"
+    },
+    {
+      "title": "Nvidia doesn’t mess around: A week after open AI industry group formed, it’s already showing progress",
+      "summary": "The week-old Open Secure AI Alliance, spearheaded by Nvidia and grown to over 120 companies, already has proposals out for defending against AI agents.",
+      "source": "TechCrunch",
+      "published": "2026-08-04T19:28:49+00:00",
+      "link": "https://techcrunch.com/2026/08/04/nvidia-doesnt-mess-around-a-week-after-open-ai-industry-group-formed-its-already-showing-progress/"
+    },
+    {
+      "title": "AI Data Centers Are Driving Up Power Bills – This Map Shows Where",
+      "summary": "Article URL: https://www.gadgetreview.com/ai-data-centers-are-driving-up-power-bills-this-map-shows-where Comments URL: https://news.ycombinator.com/item?id=49172433 Points: 58 # Comments: 20",
+      "source": "Hacker News",
+      "published": "2026-08-04T17:57:15+00:00",
+      "link": "https://www.gadgetreview.com/ai-data-centers-are-driving-up-power-bills-this-map-shows-where"
+    },
     {
       "title": "How an OpenAI influencer trip backfired",
       "summary": "The brand trip is a right of passage for influencers. It's a mark of legitimacy that a sponsor wants to invite them on an all-expenses-paid vacation, often with luxurious freebies and activities.",
@@ -30,6 +79,20 @@ const FEED_DATA = {
       "link": "https://the-decoder.com/google-moves-billions-in-anthropic-chip-risk-off-its-balance-sheet/"
     },
     {
+      "title": "When AI Benchmarks Plateau: A Systematic Study of Benchmark Saturation",
+      "summary": "Article URL: https://arxiv.org/abs/2602.16763 Comments URL: https://news.ycombinator.com/item?id=49170915 Points: 62 # Comments: 70",
+      "source": "Hacker News",
+      "published": "2026-08-04T16:10:39+00:00",
+      "link": "https://arxiv.org/abs/2602.16763"
+    },
+    {
+      "title": "The AI Demand Bubble",
+      "summary": "Article URL: https://www.wheresyoured.at/the-ai-demand-bubble/ Comments URL: https://news.ycombinator.com/item?id=49170648 Points: 100 # Comments: 112",
+      "source": "Hacker News",
+      "published": "2026-08-04T15:51:51+00:00",
+      "link": "https://www.wheresyoured.at/the-ai-demand-bubble/"
+    },
+    {
       "title": "Spotify expands AI remix and covers project with Merlin partnership",
       "summary": "Spotify says Merlin, which represents more than 30,000 independent labels and distributors, has joined Universal Music Group in backing its upcoming AI-powered remix and covers product.",
       "source": "TechCrunch",
@@ -45,10 +108,17 @@ const FEED_DATA = {
     },
     {
       "title": "Elon Musk spends half his time talking robots and AI on Tesla earnings calls",
-      "summary": "An analysis of the last seven years of Tesla earnings calls shows just little attention Musk pays to Tesla's car business.",
+      "summary": "An analysis of the last seven years of Tesla earnings calls shows just how little attention Musk pays to Tesla's car business.",
       "source": "TechCrunch",
       "published": "2026-08-04T15:20:06+00:00",
       "link": "https://techcrunch.com/2026/08/04/elon-musk-spends-half-his-time-talking-robots-and-ai-on-tesla-earnings-calls/"
+    },
+    {
+      "title": "It's not a fear of \"AI communism\"; it's a fear of competitive market capitalism",
+      "summary": "Article URL: http://observationalepidemiology.blogspot.com/2026/07/its-not-fear-of-ai-communism-its-fear.html Comments URL: https://news.ycombinator.com/item?id=49169227 Points: 71 # Comments: 68",
+      "source": "Hacker News",
+      "published": "2026-08-04T14:07:30+00:00",
+      "link": "http://observationalepidemiology.blogspot.com/2026/07/its-not-fear-of-ai-communism-its-fear.html"
     },
     {
       "title": "Apple says more ex-employees may have taken confidential data to OpenAI",
@@ -80,7 +150,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI-Generated Images Discourage Me from Reading Your Blog",
-      "summary": "Article URL: https://nelson.cloud/ai-generated-images-discourage-me-from-reading-your-blog/ Comments URL: https://news.ycombinator.com/item?id=49167113 Points: 543 # Comments: 313",
+      "summary": "Article URL: https://nelson.cloud/ai-generated-images-discourage-me-from-reading-your-blog/ Comments URL: https://news.ycombinator.com/item?id=49167113 Points: 715 # Comments: 429",
       "source": "Hacker News",
       "published": "2026-08-04T11:30:17+00:00",
       "link": "https://nelson.cloud/ai-generated-images-discourage-me-from-reading-your-blog/"
@@ -150,7 +220,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI's debt binge can't last, hidden borrowing reaches $1.65T",
-      "summary": "Article URL: https://fortune.com/2026/07/31/ai-debt-hypescalers-capex-capital-spending-hidden-borrowing-bond-issuance/ Comments URL: https://news.ycombinator.com/item?id=49160699 Points: 134 # Comments: 164",
+      "summary": "Article URL: https://fortune.com/2026/07/31/ai-debt-hypescalers-capex-capital-spending-hidden-borrowing-bond-issuance/ Comments URL: https://news.ycombinator.com/item?id=49160699 Points: 142 # Comments: 174",
       "source": "Hacker News",
       "published": "2026-08-03T20:02:21+00:00",
       "link": "https://fortune.com/2026/07/31/ai-debt-hypescalers-capex-capital-spending-hidden-borrowing-bond-issuance/"
@@ -184,6 +254,13 @@ const FEED_DATA = {
       "link": "https://www.technologyreview.com/2026/08/03/1141056/trumps-ai-protectionism-has-come-for-robotics/"
     },
     {
+      "title": "Show HN: Hacker News with AI stories filtered out",
+      "summary": "Hi folks,I've noticed that a lot of people here seem exhausted by the amount of AI news on the front page.",
+      "source": "Hacker News",
+      "published": "2026-08-03T17:39:56+00:00",
+      "link": "https://hcker.news/?view=frontpage&ai=exclude"
+    },
+    {
       "title": "Europe’s AI labeling and transparency rules are now in effect",
       "summary": "The European Union has ushered in some additional rules that aim to make it easier for people to identify chatbots and AI deepfakes online.",
       "source": "The Verge",
@@ -213,7 +290,7 @@ const FEED_DATA = {
     },
     {
       "title": "What's the largest software project AI can complete on its own?",
-      "summary": "Article URL: https://epoch.ai/MirrorCode Comments URL: https://news.ycombinator.com/item?id=49157786 Points: 95 # Comments: 101",
+      "summary": "Article URL: https://epoch.ai/MirrorCode Comments URL: https://news.ycombinator.com/item?id=49157786 Points: 99 # Comments: 105",
       "source": "Hacker News",
       "published": "2026-08-03T16:16:40+00:00",
       "link": "https://epoch.ai/MirrorCode"
@@ -262,21 +339,21 @@ const FEED_DATA = {
     },
     {
       "title": "The AI bubble is popping; we just don't know it yet",
-      "summary": "Article URL: https://www.theregister.com/ai-and-ml/2026/08/03/the-ai-bubble-is-already-popping-we-just-dont-know-it-yet/5282004 Comments URL: https://news.ycombinator.com/item?id=49154601 Points: 78 # Comments: 144",
+      "summary": "Article URL: https://www.theregister.com/ai-and-ml/2026/08/03/the-ai-bubble-is-already-popping-we-just-dont-know-it-yet/5282004 Comments URL: https://news.ycombinator.com/item?id=49154601 Points: 79 # Comments: 147",
       "source": "Hacker News",
       "published": "2026-08-03T11:59:10+00:00",
       "link": "https://www.theregister.com/ai-and-ml/2026/08/03/the-ai-bubble-is-already-popping-we-just-dont-know-it-yet/5282004"
     },
     {
       "title": "SQLite Critical CVEs or LLM Slop?",
-      "summary": "Article URL: https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/ Comments URL: https://news.ycombinator.com/item?id=49154332 Points: 716 # Comments: 366",
+      "summary": "Article URL: https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/ Comments URL: https://news.ycombinator.com/item?id=49154332 Points: 720 # Comments: 371",
       "source": "Hacker News",
       "published": "2026-08-03T11:28:54+00:00",
       "link": "https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/"
     },
     {
       "title": "Show HN: Nightcrawler – A local AI pentesting agent running on a smartphone",
-      "summary": "Article URL: https://github.com/garagehq/nightcrawler/ Comments URL: https://news.ycombinator.com/item?id=49154127 Points: 113 # Comments: 32",
+      "summary": "Article URL: https://github.com/garagehq/nightcrawler/ Comments URL: https://news.ycombinator.com/item?id=49154127 Points: 114 # Comments: 32",
       "source": "Hacker News",
       "published": "2026-08-03T11:06:15+00:00",
       "link": "https://github.com/garagehq/nightcrawler/"
@@ -325,14 +402,14 @@ const FEED_DATA = {
     },
     {
       "title": "EU enforces labeling AI generated content",
-      "summary": "Article URL: https://www.euronews.com/my-europe/2026/08/02/ai-generated-label-becomes-mandatory-in-the-eu-for-companies Comments URL: https://news.ycombinator.com/item?id=49153481 Points: 51 # Comments: 26",
+      "summary": "Article URL: https://www.euronews.com/my-europe/2026/08/02/ai-generated-label-becomes-mandatory-in-the-eu-for-companies Comments URL: https://news.ycombinator.com/item?id=49153481 Points: 52 # Comments: 29",
       "source": "Hacker News",
       "published": "2026-08-03T09:46:26+00:00",
       "link": "https://www.euronews.com/my-europe/2026/08/02/ai-generated-label-becomes-mandatory-in-the-eu-for-companies"
     },
     {
       "title": "Prevent cognitive debt by manually retyping LLM-generated code",
-      "summary": "Article URL: https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code/ Comments URL: https://news.ycombinator.com/item?id=49153374 Points: 511 # Comments: 422",
+      "summary": "Article URL: https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code/ Comments URL: https://news.ycombinator.com/item?id=49153374 Points: 521 # Comments: 434",
       "source": "Hacker News",
       "published": "2026-08-03T09:32:07+00:00",
       "link": "https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code/"
@@ -353,28 +430,28 @@ const FEED_DATA = {
     },
     {
       "title": "The AI Productivity Gap",
-      "summary": "Article URL: https://bjorg.bjornroche.com/management/ai-productivity-gap/ Comments URL: https://news.ycombinator.com/item?id=49152222 Points: 131 # Comments: 109",
+      "summary": "Article URL: https://bjorg.bjornroche.com/management/ai-productivity-gap/ Comments URL: https://news.ycombinator.com/item?id=49152222 Points: 134 # Comments: 109",
       "source": "Hacker News",
       "published": "2026-08-03T07:07:20+00:00",
       "link": "https://bjorg.bjornroche.com/management/ai-productivity-gap/"
     },
     {
       "title": "AI migrated legacy COBOL programs to Java, bugs included",
-      "summary": "Article URL: https://arxiv.org/abs/2607.28271 Comments URL: https://news.ycombinator.com/item?id=49150773 Points: 92 # Comments: 95",
+      "summary": "Article URL: https://arxiv.org/abs/2607.28271 Comments URL: https://news.ycombinator.com/item?id=49150773 Points: 94 # Comments: 97",
       "source": "Hacker News",
       "published": "2026-08-03T03:06:12+00:00",
       "link": "https://arxiv.org/abs/2607.28271"
     },
     {
       "title": "OpenAI's super PAC is funding AI-generated news site attacking industry critics",
-      "summary": "Article URL: https://www.modelrepublic.org/articles/the-reporters-at-this-news-site-are-ai-bots.-openai%E2%80%99s-super-pac-appears-to-be-using-it-to-advance-its-political-agenda Comments URL: https://news.ycombinator.com/item?id=49150561 Points: 208 # Comments: 106",
+      "summary": "Article URL: https://www.modelrepublic.org/articles/the-reporters-at-this-news-site-are-ai-bots.-openai%E2%80%99s-super-pac-appears-to-be-using-it-to-advance-its-political-agenda Comments URL: https://news.ycombinator.com/item?id=49150561 Points: 210 # Comments: 106",
       "source": "Hacker News",
       "published": "2026-08-03T02:30:30+00:00",
       "link": "https://www.modelrepublic.org/articles/the-reporters-at-this-news-site-are-ai-bots.-openai%E2%80%99s-super-pac-appears-to-be-using-it-to-advance-its-political-agenda"
     },
     {
       "title": "AI poster wins Ohio State Fair contest",
-      "summary": "Article URL: https://www.ohiostatefair.com/p/get-involved/arts/poster-contest Comments URL: https://news.ycombinator.com/item?id=49149188 Points: 141 # Comments: 184",
+      "summary": "Article URL: https://www.ohiostatefair.com/p/get-involved/arts/poster-contest Comments URL: https://news.ycombinator.com/item?id=49149188 Points: 142 # Comments: 187",
       "source": "Hacker News",
       "published": "2026-08-02T22:43:47+00:00",
       "link": "https://www.ohiostatefair.com/p/get-involved/arts/poster-contest"
@@ -388,7 +465,7 @@ const FEED_DATA = {
     },
     {
       "title": "My personal AI benchmark: “Generate an SVG of a frog with a Habsburg jaw”",
-      "summary": "Article URL: https://frogs.vaguespac.es/ Comments URL: https://news.ycombinator.com/item?id=49147622 Points: 153 # Comments: 86",
+      "summary": "Article URL: https://frogs.vaguespac.es/ Comments URL: https://news.ycombinator.com/item?id=49147622 Points: 155 # Comments: 87",
       "source": "Hacker News",
       "published": "2026-08-02T19:42:08+00:00",
       "link": "https://frogs.vaguespac.es/"
@@ -1323,83 +1400,6 @@ const FEED_DATA = {
       "source": "The Verge",
       "published": "2026-07-29T21:06:52+00:00",
       "link": "https://www.theverge.com/policy/972850/xai-grok-minnesota-nudification-lawsuit"
-    },
-    {
-      "title": "The Hugging Face break-in explained",
-      "summary": "Another way to think about the whole thing is to picture a bear at a campsite. (Really, we are going there.)",
-      "source": "TechCrunch",
-      "published": "2026-07-29T19:44:49+00:00",
-      "link": "https://techcrunch.com/2026/07/29/the-hugging-face-ai-break-in-as-told-through-an-increasingly-committed-bear-metaphor/"
-    },
-    {
-      "title": "The Hugging Face AI break-in, as told through an increasingly committed bear metaphor",
-      "summary": "Another way to think about the whole thing is to picture a bear at a campsite. (Really, we are going there.)",
-      "source": "TechCrunch",
-      "published": "2026-07-29T19:44:49+00:00",
-      "link": "https://techcrunch.com/2026/07/29/the-hugging-face-ai-break-in-as-told-through-an-increasingly-committed-bear-metaphor/"
-    },
-    {
-      "title": "Commodification of Intelligence: Good, Bad, and Ugly Circular AI Deals",
-      "summary": "Article URL: https://www.emergingtrajectories.com/lh/commodification-and-circularity/ Comments URL: https://news.ycombinator.com/item?id=49101529 Points: 86 # Comments: 48",
-      "source": "Hacker News",
-      "published": "2026-07-29T18:57:10+00:00",
-      "link": "https://www.emergingtrajectories.com/lh/commodification-and-circularity/"
-    },
-    {
-      "title": "Claude Opus 5 became downright ruthless when tasked with running a vending machine",
-      "summary": "Andon Labs' latest vending machine simulation shows Opus 5 lied and colluded its way to become the best AI capitalist ever.",
-      "source": "TechCrunch",
-      "published": "2026-07-29T18:45:27+00:00",
-      "link": "https://techcrunch.com/2026/07/29/claude-opus-5-became-downright-ruthless-when-tasked-with-running-a-vending-machine/"
-    },
-    {
-      "title": "Google's Lyria 3.5 music model now lets users edit individual track sections without starting over",
-      "summary": "Google released Lyria 3.5, its new music generation model, and built it into Google Flow Music. The model generates tracks between 30 seconds and 3 minutes long.",
-      "source": "The Decoder",
-      "published": "2026-07-29T18:37:49+00:00",
-      "link": "https://the-decoder.com/googles-lyria-3-5-music-model-now-lets-users-edit-individual-track-sections-without-starting-over/"
-    },
-    {
-      "title": "It’s Frighteningly Easy to Jailbreak Some Frontier AI Models",
-      "summary": "I watched a new tool try to get around the model safeguards of four major frontier companies. You might be surprised by how they performed.",
-      "source": "Wired",
-      "published": "2026-07-29T18:30:00+00:00",
-      "link": "https://www.wired.com/story/jailbreaking-ai-models-google-anthropic-openai-spacexai/"
-    },
-    {
-      "title": "OpenAI president says it’s ‘building a family of devices’ for its AI chatbots",
-      "summary": "In an interview with our friend Joanna Stern on her YouTube channel, OpenAI president Greg Brockman said the company is working on a \"family of devices\" for interacting with its AI models.",
-      "source": "The Verge",
-      "published": "2026-07-29T18:15:02+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/972709/openai-hardware-greg-brockman-interview"
-    },
-    {
-      "title": "How an overlooked geothermal plant got a second chance",
-      "summary": "In June 2024, a small company called Zanskar purchased a geothermal power plant in New Mexico that was failing fast. The water coming from the underground reservoir was getting colder by the day, making the plant uneconomical to run.",
-      "source": "MIT Tech Review",
-      "published": "2026-07-29T17:58:44+00:00",
-      "link": "https://www.technologyreview.com/2026/07/29/1140896/geothermal-second-chance/"
-    },
-    {
-      "title": "PwC has allegedly published AI-generated reports containing false or fabricated sources",
-      "summary": "Following KPMG, Deloitte, and Ernst & Young, GPTZero has now found fabricated sources and false claims in four PwC Middle East reports. One governance report scored 84 percent AI-generated and promoted a PwC product with unverified customer references.",
-      "source": "The Decoder",
-      "published": "2026-07-29T17:44:18+00:00",
-      "link": "https://the-decoder.com/pwc-has-allegedly-published-ai-generated-reports-containing-false-or-fabricated-sources/"
-    },
-    {
-      "title": "Pangram says its new AI text detector makes only one mistake per 24,000 documents",
-      "summary": "Pangram 4 detects 99.66 percent of AI-generated text with just one false positive per 24,000 documents, the company claims. The model also resists \"humanizer\" tools that disguise AI writing as human.",
-      "source": "The Decoder",
-      "published": "2026-07-29T17:16:53+00:00",
-      "link": "https://the-decoder.com/pangram-says-its-new-ai-text-detector-makes-only-one-mistake-per-24000-documents/"
-    },
-    {
-      "title": "OpenAI admits its autonomous AI models also compromised credentials on other platforms during security eval",
-      "summary": "During a security evaluation, OpenAI's autonomous hacking models broke into Hugging Face and used exposed credentials on four other services.",
-      "source": "The Decoder",
-      "published": "2026-07-29T16:26:56+00:00",
-      "link": "https://the-decoder.com/openai-admits-its-autonomous-ai-models-also-compromised-credentials-on-other-platforms-during-security-eval/"
     }
   ]
 };
