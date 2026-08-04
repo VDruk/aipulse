@@ -1,6 +1,41 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-08-04T07:41:19.943850+00:00",
+  "lastUpdated": "2026-08-04T11:12:23.622210+00:00",
   "items": [
+    {
+      "title": "Is This Poker Player Bluffing? The AI Thinks So",
+      "summary": "ESPN unveiled an “AI tells detection” tool during broadcasts of the 2026 World Series of Poker. Is it a neat computer-powered party trick, or a real threat to poker’s future?",
+      "source": "Wired",
+      "published": "2026-08-04T11:00:00+00:00",
+      "link": "https://www.wired.com/story/ai-tells-detection-world-series-of-poker-espn/"
+    },
+    {
+      "title": "How One Startup Built a (Mostly) China-Free Robot",
+      "summary": "Ati Robotics assembles its robots in India and uses just a few Chinese parts—a strategy that could pay off as the Trump administration cracks down on Chinese humanoids.",
+      "source": "Wired",
+      "published": "2026-08-04T10:45:00+00:00",
+      "link": "https://www.wired.com/story/how-one-startup-built-a-mostly-china-free-robot/"
+    },
+    {
+      "title": "‘Everyone Is Doing It’: The Truth About AI in Hollywood",
+      "summary": "Puck’s Matthew Belloni says AI has quietly become part of everyday filmmaking. The battle now isn’t whether Hollywood will use the technology—it’s who controls what’ll come next.",
+      "source": "Wired",
+      "published": "2026-08-04T10:30:00+00:00",
+      "link": "https://www.wired.com/story/the-big-interview-podcast-matthew-belloni-puck/"
+    },
+    {
+      "title": "OpenAI fires back at Apple's trade secret lawsuit with chat logs showing Apple employees kept texting their former colleague",
+      "summary": "OpenAI is pushing back against Apple's trade secret lawsuit and has released iMessage threads from former Apple engineer Chang Liu.",
+      "source": "The Decoder",
+      "published": "2026-08-04T10:22:53+00:00",
+      "link": "https://the-decoder.com/openai-fires-back-at-apples-trade-secret-lawsuit-with-chat-logs-showing-apple-employees-kept-texting-their-former-colleague/"
+    },
+    {
+      "title": "Mistral Is in the Right Place at the Right Time",
+      "summary": "Open-weight AI models are having a moment in the wake of recent turmoil at US tech giants. For French AI lab Mistral, that’s the the best thing that could have happened.",
+      "source": "Wired",
+      "published": "2026-08-04T09:21:11+00:00",
+      "link": "https://www.wired.com/story/mistral-is-in-the-right-place-at-the-right-time/"
+    },
     {
       "title": "After killer quarter, Palantir CEO Alex Karp calls AI industry ‘Marxist’",
       "summary": "After a quarter that delivered $1 billion in profit, Palantir CEO Alex Karp on Monday once again warned that AI frontier labs are too untrustworthy for enterprises.",
@@ -17,7 +52,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI's debt binge can't last, hidden borrowing reaches $1.65T",
-      "summary": "Article URL: https://fortune.com/2026/07/31/ai-debt-hypescalers-capex-capital-spending-hidden-borrowing-bond-issuance/ Comments URL: https://news.ycombinator.com/item?id=49160699 Points: 126 # Comments: 153",
+      "summary": "Article URL: https://fortune.com/2026/07/31/ai-debt-hypescalers-capex-capital-spending-hidden-borrowing-bond-issuance/ Comments URL: https://news.ycombinator.com/item?id=49160699 Points: 131 # Comments: 158",
       "source": "Hacker News",
       "published": "2026-08-03T20:02:21+00:00",
       "link": "https://fortune.com/2026/07/31/ai-debt-hypescalers-capex-capital-spending-hidden-borrowing-bond-issuance/"
@@ -80,7 +115,7 @@ const FEED_DATA = {
     },
     {
       "title": "What's the largest software project AI can complete on its own?",
-      "summary": "Article URL: https://epoch.ai/MirrorCode Comments URL: https://news.ycombinator.com/item?id=49157786 Points: 81 # Comments: 84",
+      "summary": "Article URL: https://epoch.ai/MirrorCode Comments URL: https://news.ycombinator.com/item?id=49157786 Points: 92 # Comments: 92",
       "source": "Hacker News",
       "published": "2026-08-03T16:16:40+00:00",
       "link": "https://epoch.ai/MirrorCode"
@@ -129,21 +164,21 @@ const FEED_DATA = {
     },
     {
       "title": "The AI bubble is popping; we just don't know it yet",
-      "summary": "Article URL: https://www.theregister.com/ai-and-ml/2026/08/03/the-ai-bubble-is-already-popping-we-just-dont-know-it-yet/5282004 Comments URL: https://news.ycombinator.com/item?id=49154601 Points: 77 # Comments: 137",
+      "summary": "Article URL: https://www.theregister.com/ai-and-ml/2026/08/03/the-ai-bubble-is-already-popping-we-just-dont-know-it-yet/5282004 Comments URL: https://news.ycombinator.com/item?id=49154601 Points: 77 # Comments: 140",
       "source": "Hacker News",
       "published": "2026-08-03T11:59:10+00:00",
       "link": "https://www.theregister.com/ai-and-ml/2026/08/03/the-ai-bubble-is-already-popping-we-just-dont-know-it-yet/5282004"
     },
     {
       "title": "SQLite Critical CVEs or LLM Slop?",
-      "summary": "Article URL: https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/ Comments URL: https://news.ycombinator.com/item?id=49154332 Points: 708 # Comments: 359",
+      "summary": "Article URL: https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/ Comments URL: https://news.ycombinator.com/item?id=49154332 Points: 713 # Comments: 365",
       "source": "Hacker News",
       "published": "2026-08-03T11:28:54+00:00",
       "link": "https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/"
     },
     {
       "title": "Show HN: Nightcrawler – A local AI pentesting agent running on a smartphone",
-      "summary": "Article URL: https://github.com/garagehq/nightcrawler/ Comments URL: https://news.ycombinator.com/item?id=49154127 Points: 110 # Comments: 31",
+      "summary": "Article URL: https://github.com/garagehq/nightcrawler/ Comments URL: https://news.ycombinator.com/item?id=49154127 Points: 111 # Comments: 32",
       "source": "Hacker News",
       "published": "2026-08-03T11:06:15+00:00",
       "link": "https://github.com/garagehq/nightcrawler/"
@@ -199,7 +234,7 @@ const FEED_DATA = {
     },
     {
       "title": "Prevent cognitive debt by manually retyping LLM-generated code",
-      "summary": "Article URL: https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code/ Comments URL: https://news.ycombinator.com/item?id=49153374 Points: 465 # Comments: 379",
+      "summary": "Article URL: https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code/ Comments URL: https://news.ycombinator.com/item?id=49153374 Points: 497 # Comments: 405",
       "source": "Hacker News",
       "published": "2026-08-03T09:32:07+00:00",
       "link": "https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code/"
@@ -220,14 +255,14 @@ const FEED_DATA = {
     },
     {
       "title": "The AI Productivity Gap",
-      "summary": "Article URL: https://bjorg.bjornroche.com/management/ai-productivity-gap/ Comments URL: https://news.ycombinator.com/item?id=49152222 Points: 118 # Comments: 105",
+      "summary": "Article URL: https://bjorg.bjornroche.com/management/ai-productivity-gap/ Comments URL: https://news.ycombinator.com/item?id=49152222 Points: 124 # Comments: 108",
       "source": "Hacker News",
       "published": "2026-08-03T07:07:20+00:00",
       "link": "https://bjorg.bjornroche.com/management/ai-productivity-gap/"
     },
     {
       "title": "AI migrated legacy COBOL programs to Java, bugs included",
-      "summary": "Article URL: https://arxiv.org/abs/2607.28271 Comments URL: https://news.ycombinator.com/item?id=49150773 Points: 89 # Comments: 88",
+      "summary": "Article URL: https://arxiv.org/abs/2607.28271 Comments URL: https://news.ycombinator.com/item?id=49150773 Points: 91 # Comments: 94",
       "source": "Hacker News",
       "published": "2026-08-03T03:06:12+00:00",
       "link": "https://arxiv.org/abs/2607.28271"
@@ -255,14 +290,14 @@ const FEED_DATA = {
     },
     {
       "title": "My personal AI benchmark: “Generate an SVG of a frog with a Habsburg jaw”",
-      "summary": "Article URL: https://frogs.vaguespac.es/ Comments URL: https://news.ycombinator.com/item?id=49147622 Points: 151 # Comments: 86",
+      "summary": "Article URL: https://frogs.vaguespac.es/ Comments URL: https://news.ycombinator.com/item?id=49147622 Points: 153 # Comments: 86",
       "source": "Hacker News",
       "published": "2026-08-02T19:42:08+00:00",
       "link": "https://frogs.vaguespac.es/"
     },
     {
       "title": "EU rules on AI models become enforceable. What's going to change?",
-      "summary": "Article URL: https://www.euronews.com/my-europe/2026/08/02/eu-rules-on-ai-models-become-enforceable-whats-going-to-change Comments URL: https://news.ycombinator.com/item?id=49147606 Points: 53 # Comments: 72",
+      "summary": "Article URL: https://www.euronews.com/my-europe/2026/08/02/eu-rules-on-ai-models-become-enforceable-whats-going-to-change Comments URL: https://news.ycombinator.com/item?id=49147606 Points: 53 # Comments: 73",
       "source": "Hacker News",
       "published": "2026-08-02T19:40:19+00:00",
       "link": "https://www.euronews.com/my-europe/2026/08/02/eu-rules-on-ai-models-become-enforceable-whats-going-to-change"
@@ -1365,41 +1400,6 @@ const FEED_DATA = {
       "source": "Hacker News",
       "published": "2026-07-29T11:44:33+00:00",
       "link": "https://enklypesalt.com/posts/context-collapse-part3-ai-worming-through-word/"
-    },
-    {
-      "title": "As AI content floods the internet, Pangram raises $9M to detect it",
-      "summary": "Pangram has raised $9 million to scale its AI detection software. The startup has also released a new AI text detection model, Pangram 4, and an AI image detection model in research preview.",
-      "source": "TechCrunch",
-      "published": "2026-07-29T11:00:00+00:00",
-      "link": "https://techcrunch.com/2026/07/29/as-ai-content-floods-the-internet-pangram-raises-9m-to-detect-it/"
-    },
-    {
-      "title": "We’re running out of reasons to ignore AI safety",
-      "summary": "Earlier this month, OpenAI gave several of its AI models a task: complete a test designed to measure their cybersecurity capabilities. It put the systems in a sandboxed environment without an internet connection and set them off to work.",
-      "source": "The Verge",
-      "published": "2026-07-29T11:00:00+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/972380/open-ai-hugging-face-hack-ai-safety-warning"
-    },
-    {
-      "title": "OpenAI report links coding agents to faster science software builds",
-      "summary": "OpenAI has released a new field report tracking eight scientific computing projects where coding agents cut runtimes. The report documents projects that used Codex on its own in five cases and a combination of Codex and Anthropic’s Claude Code in three others.",
-      "source": "AI News",
-      "published": "2026-07-29T10:53:39+00:00",
-      "link": "https://www.artificialintelligence-news.com/news/openai-report-coding-agents-faster-science-software-builds/"
-    },
-    {
-      "title": "More Typos, Fewer Em Dashes: Writers Are Creating an Anti-AI ‘Literary Counterculture’",
-      "summary": "Novelists, journalists, and power LinkedIn posters are embracing first-person narratives and idiosyncrasies to avoid being mistaken for chat bots.",
-      "source": "Wired",
-      "published": "2026-07-29T10:30:00+00:00",
-      "link": "https://www.wired.com/story/more-typos-fewer-em-dashes-writers-are-creating-an-anti-ai-literary-counterculture/"
-    },
-    {
-      "title": "Google AI Overviews become more common in search",
-      "summary": "Google’s AI-generated summaries appeared in 43% of US searches measured by Similarweb, up from 15% a year earlier, according to the market intelligence firm’s 2026 Generative AI Landscape report.",
-      "source": "AI News",
-      "published": "2026-07-29T10:00:00+00:00",
-      "link": "https://www.artificialintelligence-news.com/news/google-ai-overviews-us-searches/"
     }
   ]
 };
