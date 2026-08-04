@@ -1,5 +1,5 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-08-04T04:11:48.908876+00:00",
+  "lastUpdated": "2026-08-04T07:41:19.943850+00:00",
   "items": [
     {
       "title": "After killer quarter, Palantir CEO Alex Karp calls AI industry ‘Marxist’",
@@ -17,7 +17,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI's debt binge can't last, hidden borrowing reaches $1.65T",
-      "summary": "Article URL: https://fortune.com/2026/07/31/ai-debt-hypescalers-capex-capital-spending-hidden-borrowing-bond-issuance/ Comments URL: https://news.ycombinator.com/item?id=49160699 Points: 120 # Comments: 149",
+      "summary": "Article URL: https://fortune.com/2026/07/31/ai-debt-hypescalers-capex-capital-spending-hidden-borrowing-bond-issuance/ Comments URL: https://news.ycombinator.com/item?id=49160699 Points: 126 # Comments: 153",
       "source": "Hacker News",
       "published": "2026-08-03T20:02:21+00:00",
       "link": "https://fortune.com/2026/07/31/ai-debt-hypescalers-capex-capital-spending-hidden-borrowing-bond-issuance/"
@@ -80,7 +80,7 @@ const FEED_DATA = {
     },
     {
       "title": "What's the largest software project AI can complete on its own?",
-      "summary": "Article URL: https://epoch.ai/MirrorCode Comments URL: https://news.ycombinator.com/item?id=49157786 Points: 73 # Comments: 80",
+      "summary": "Article URL: https://epoch.ai/MirrorCode Comments URL: https://news.ycombinator.com/item?id=49157786 Points: 81 # Comments: 84",
       "source": "Hacker News",
       "published": "2026-08-03T16:16:40+00:00",
       "link": "https://epoch.ai/MirrorCode"
@@ -129,21 +129,21 @@ const FEED_DATA = {
     },
     {
       "title": "The AI bubble is popping; we just don't know it yet",
-      "summary": "Article URL: https://www.theregister.com/ai-and-ml/2026/08/03/the-ai-bubble-is-already-popping-we-just-dont-know-it-yet/5282004 Comments URL: https://news.ycombinator.com/item?id=49154601 Points: 77 # Comments: 135",
+      "summary": "Article URL: https://www.theregister.com/ai-and-ml/2026/08/03/the-ai-bubble-is-already-popping-we-just-dont-know-it-yet/5282004 Comments URL: https://news.ycombinator.com/item?id=49154601 Points: 77 # Comments: 137",
       "source": "Hacker News",
       "published": "2026-08-03T11:59:10+00:00",
       "link": "https://www.theregister.com/ai-and-ml/2026/08/03/the-ai-bubble-is-already-popping-we-just-dont-know-it-yet/5282004"
     },
     {
       "title": "SQLite Critical CVEs or LLM Slop?",
-      "summary": "Article URL: https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/ Comments URL: https://news.ycombinator.com/item?id=49154332 Points: 703 # Comments: 352",
+      "summary": "Article URL: https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/ Comments URL: https://news.ycombinator.com/item?id=49154332 Points: 708 # Comments: 359",
       "source": "Hacker News",
       "published": "2026-08-03T11:28:54+00:00",
       "link": "https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/"
     },
     {
       "title": "Show HN: Nightcrawler – A local AI pentesting agent running on a smartphone",
-      "summary": "Article URL: https://github.com/garagehq/nightcrawler/ Comments URL: https://news.ycombinator.com/item?id=49154127 Points: 105 # Comments: 30",
+      "summary": "Article URL: https://github.com/garagehq/nightcrawler/ Comments URL: https://news.ycombinator.com/item?id=49154127 Points: 110 # Comments: 31",
       "source": "Hacker News",
       "published": "2026-08-03T11:06:15+00:00",
       "link": "https://github.com/garagehq/nightcrawler/"
@@ -191,8 +191,15 @@ const FEED_DATA = {
       "link": "https://www.artificialintelligence-news.com/news/gsk-relation-therapeutics-ai-drug-discovery-biological-data/"
     },
     {
+      "title": "EU enforces labeling AI generated content",
+      "summary": "Article URL: https://www.euronews.com/my-europe/2026/08/02/ai-generated-label-becomes-mandatory-in-the-eu-for-companies Comments URL: https://news.ycombinator.com/item?id=49153481 Points: 50 # Comments: 26",
+      "source": "Hacker News",
+      "published": "2026-08-03T09:46:26+00:00",
+      "link": "https://www.euronews.com/my-europe/2026/08/02/ai-generated-label-becomes-mandatory-in-the-eu-for-companies"
+    },
+    {
       "title": "Prevent cognitive debt by manually retyping LLM-generated code",
-      "summary": "Article URL: https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code/ Comments URL: https://news.ycombinator.com/item?id=49153374 Points: 413 # Comments: 348",
+      "summary": "Article URL: https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code/ Comments URL: https://news.ycombinator.com/item?id=49153374 Points: 465 # Comments: 379",
       "source": "Hacker News",
       "published": "2026-08-03T09:32:07+00:00",
       "link": "https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code/"
@@ -213,21 +220,21 @@ const FEED_DATA = {
     },
     {
       "title": "The AI Productivity Gap",
-      "summary": "Article URL: https://bjorg.bjornroche.com/management/ai-productivity-gap/ Comments URL: https://news.ycombinator.com/item?id=49152222 Points: 113 # Comments: 103",
+      "summary": "Article URL: https://bjorg.bjornroche.com/management/ai-productivity-gap/ Comments URL: https://news.ycombinator.com/item?id=49152222 Points: 118 # Comments: 105",
       "source": "Hacker News",
       "published": "2026-08-03T07:07:20+00:00",
       "link": "https://bjorg.bjornroche.com/management/ai-productivity-gap/"
     },
     {
       "title": "AI migrated legacy COBOL programs to Java, bugs included",
-      "summary": "Article URL: https://arxiv.org/abs/2607.28271 Comments URL: https://news.ycombinator.com/item?id=49150773 Points: 87 # Comments: 86",
+      "summary": "Article URL: https://arxiv.org/abs/2607.28271 Comments URL: https://news.ycombinator.com/item?id=49150773 Points: 89 # Comments: 88",
       "source": "Hacker News",
       "published": "2026-08-03T03:06:12+00:00",
       "link": "https://arxiv.org/abs/2607.28271"
     },
     {
       "title": "OpenAI's super PAC is funding AI-generated news site attacking industry critics",
-      "summary": "Article URL: https://www.modelrepublic.org/articles/the-reporters-at-this-news-site-are-ai-bots.-openai%E2%80%99s-super-pac-appears-to-be-using-it-to-advance-its-political-agenda Comments URL: https://news.ycombinator.com/item?id=49150561 Points: 205 # Comments: 105",
+      "summary": "Article URL: https://www.modelrepublic.org/articles/the-reporters-at-this-news-site-are-ai-bots.-openai%E2%80%99s-super-pac-appears-to-be-using-it-to-advance-its-political-agenda Comments URL: https://news.ycombinator.com/item?id=49150561 Points: 205 # Comments: 106",
       "source": "Hacker News",
       "published": "2026-08-03T02:30:30+00:00",
       "link": "https://www.modelrepublic.org/articles/the-reporters-at-this-news-site-are-ai-bots.-openai%E2%80%99s-super-pac-appears-to-be-using-it-to-advance-its-political-agenda"
@@ -304,7 +311,7 @@ const FEED_DATA = {
     },
     {
       "title": "Artificial Intelligence: Ars Notoria and the Promise of Instant Knowledge",
-      "summary": "Article URL: https://publicdomainreview.org/essay/ars-notoria/ Comments URL: https://news.ycombinator.com/item?id=49143001 Points: 137 # Comments: 35",
+      "summary": "Article URL: https://publicdomainreview.org/essay/ars-notoria/ Comments URL: https://news.ycombinator.com/item?id=49143001 Points: 139 # Comments: 35",
       "source": "Hacker News",
       "published": "2026-08-02T10:18:24+00:00",
       "link": "https://publicdomainreview.org/essay/ars-notoria/"
@@ -360,7 +367,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI financial advice is surprisingly good, especially if you ask right questions",
-      "summary": "Article URL: https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions Comments URL: https://news.ycombinator.com/item?id=49139102 Points: 349 # Comments: 397",
+      "summary": "Article URL: https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions Comments URL: https://news.ycombinator.com/item?id=49139102 Points: 349 # Comments: 398",
       "source": "Hacker News",
       "published": "2026-08-01T22:25:12+00:00",
       "link": "https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions"
@@ -1393,13 +1400,6 @@ const FEED_DATA = {
       "source": "AI News",
       "published": "2026-07-29T10:00:00+00:00",
       "link": "https://www.artificialintelligence-news.com/news/google-ai-overviews-us-searches/"
-    },
-    {
-      "title": "Boomers Can’t Stop Gifting Their Grandkids AI-Generated Slop Books",
-      "summary": "Parents are getting fed up with garbled bedtime stories that feature characters based on actual photos of their children.",
-      "source": "Wired",
-      "published": "2026-07-29T09:30:00+00:00",
-      "link": "https://www.wired.com/story/boomers-cant-stop-gifting-their-grandkids-ai-generated-slop-books/"
     }
   ]
 };
