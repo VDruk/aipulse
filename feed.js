@@ -1,6 +1,48 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-08-04T15:25:06.818476+00:00",
+  "lastUpdated": "2026-08-04T18:24:33.890962+00:00",
   "items": [
+    {
+      "title": "How an OpenAI influencer trip backfired",
+      "summary": "The brand trip is a right of passage for influencers. It's a mark of legitimacy that a sponsor wants to invite them on an all-expenses-paid vacation, often with luxurious freebies and activities.",
+      "source": "The Verge",
+      "published": "2026-08-04T17:46:41+00:00",
+      "link": "https://www.theverge.com/tech/975173/openai-influencers-brand-trip-ai-backlash-marketing"
+    },
+    {
+      "title": "‘Not healthy’ LLM use is more common than you think",
+      "summary": "Hank Green, a popular YouTuber and science communicator, said he is stepping back from production amid intense criticism over his use of AI. Green described his AI usage as \"not healthy,\" but stressed that he used it for finding research sources and not to write scripts.",
+      "source": "The Verge",
+      "published": "2026-08-04T17:33:46+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/975180/llm-ai-chatbot-use-not-healthy"
+    },
+    {
+      "title": "This year's Pulitzer Prizes saw a record number of winners disclose AI use",
+      "summary": "A record eight entries honored at the 2026 Pulitzer Prizes disclosed using AI, including five winners. Newsrooms such as the Wall Street Journal and AP used LLMs mainly to search large document sets faster.",
+      "source": "The Decoder",
+      "published": "2026-08-04T17:26:03+00:00",
+      "link": "https://the-decoder.com/this-years-pulitzer-prizes-saw-a-record-number-of-winners-disclose-ai-use/"
+    },
+    {
+      "title": "Google moves billions in Anthropic chip risk off its balance sheet",
+      "summary": "Google is working with Broadcom, Apollo, Blackstone, and Morgan Stanley on a multibillion-dollar financing structure that supplies Anthropic with AI chips and data centers while keeping most of the risk off Google's balance sheet.",
+      "source": "The Decoder",
+      "published": "2026-08-04T16:38:58+00:00",
+      "link": "https://the-decoder.com/google-moves-billions-in-anthropic-chip-risk-off-its-balance-sheet/"
+    },
+    {
+      "title": "Spotify expands AI remix and covers project with Merlin partnership",
+      "summary": "Spotify says Merlin, which represents more than 30,000 independent labels and distributors, has joined Universal Music Group in backing its upcoming AI-powered remix and covers product.",
+      "source": "TechCrunch",
+      "published": "2026-08-04T15:50:06+00:00",
+      "link": "https://techcrunch.com/2026/08/04/spotify-adds-merlin-to-its-ai-music-remix-and-covers-effort/"
+    },
+    {
+      "title": "Anthropic locks in $10 billion of compute from Volta, a cloud startup that didn't exist six months ago",
+      "summary": "Anthropic is locking in $10 billion worth of computing capacity from Volta Infra Holdings, a cloud startup that's only a few months old.",
+      "source": "The Decoder",
+      "published": "2026-08-04T15:21:14+00:00",
+      "link": "https://the-decoder.com/anthropic-locks-in-10-billion-of-compute-from-volta-a-cloud-startup-that-didnt-exist-six-months-ago/"
+    },
     {
       "title": "Elon Musk spends half his time talking robots and AI on Tesla earnings calls",
       "summary": "An analysis of the last seven years of Tesla earnings calls shows just little attention Musk pays to Tesla's car business.",
@@ -1358,48 +1400,6 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-07-29T16:26:56+00:00",
       "link": "https://the-decoder.com/openai-admits-its-autonomous-ai-models-also-compromised-credentials-on-other-platforms-during-security-eval/"
-    },
-    {
-      "title": "Hint, a new AI startup co-founded by Martha Stewart, offers an AI assistant for homeowners",
-      "summary": "AI home management startup Hint, co-founded by Martha Stewart, wants to become an “AI for your home,” combining property records, maintenance schedules, home documents, and an AI assistant into a single app.",
-      "source": "TechCrunch",
-      "published": "2026-07-29T15:35:09+00:00",
-      "link": "https://techcrunch.com/2026/07/29/hint-a-new-ai-startup-co-founded-by-martha-stewart-offers-an-ai-assistant-for-homeowners/"
-    },
-    {
-      "title": "GPT-5.6 vs. Claude Fable 5 for Physical AI, which performs best?",
-      "summary": "Article URL: https://juliahub.com/blog/frontier-models-physical-ai-evaluation Comments URL: https://news.ycombinator.com/item?id=49098388 Points: 99 # Comments: 21",
-      "source": "Hacker News",
-      "published": "2026-07-29T14:56:28+00:00",
-      "link": "https://juliahub.com/blog/frontier-models-physical-ai-evaluation"
-    },
-    {
-      "title": "Encore AI raises $30M to build AI agents that learn from customer calls",
-      "summary": "The startup analyzes calls, messages, and CRM data to identify effective sales techniques and turn them into playbooks for AI agents.",
-      "source": "TechCrunch",
-      "published": "2026-07-29T14:41:06+00:00",
-      "link": "https://techcrunch.com/2026/07/29/encore-ai-raises-30m-to-build-ai-agents-that-learn-from-customer-calls/"
-    },
-    {
-      "title": "Teacher arrested for clapping in opposition at an AI data center meeting",
-      "summary": "Article URL: https://www.tomshardware.com/tech-industry/data-centers/teacher-arrested-for-clapping-in-support-of-opposition-at-an-ai-data-center-meeting-gigawatt-scale-project-gets-approved-anyway-despite-community-resistance Comments URL:...",
-      "source": "Hacker News",
-      "published": "2026-07-29T14:28:22+00:00",
-      "link": "https://www.tomshardware.com/tech-industry/data-centers/teacher-arrested-for-clapping-in-support-of-opposition-at-an-ai-data-center-meeting-gigawatt-scale-project-gets-approved-anyway-despite-community-resistance"
-    },
-    {
-      "title": "AI in Linux",
-      "summary": "Article URL: https://drewdevault.com/blog/AI-in-Linux/ Comments URL: https://news.ycombinator.com/item?id=49097649 Points: 51 # Comments: 102",
-      "source": "Hacker News",
-      "published": "2026-07-29T14:00:03+00:00",
-      "link": "https://drewdevault.com/blog/AI-in-Linux/"
-    },
-    {
-      "title": "Deepmind dismantles its AlphaFold team as key authors leave for Anthropic",
-      "summary": "The majority of the researchers behind AlphaFold are now working on other projects, and almost a quarter have left Google Deepmind altogether. The restructuring marks a sharp turn away from the strategy that put the lab on the map.",
-      "source": "The Decoder",
-      "published": "2026-07-29T13:47:11+00:00",
-      "link": "https://the-decoder.com/deepmind-dismantles-its-alphafold-team-as-key-authors-leave-for-anthropic/"
     }
   ]
 };
