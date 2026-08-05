@@ -1,19 +1,82 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-08-05T18:15:43.390504+00:00",
+  "lastUpdated": "2026-08-05T22:06:18.521437+00:00",
   "items": [
+    {
+      "title": "Meta launches Muse Code, an AI agent for large code bases",
+      "summary": "Meta expanded its AI coding offerings with a new agent that, it promises, can handle complex tasks with complex software.",
+      "source": "TechCrunch",
+      "published": "2026-08-05T21:21:28+00:00",
+      "link": "https://techcrunch.com/2026/08/05/meta-launches-muse-code-an-ai-agent-for-large-code-bases/"
+    },
+    {
+      "title": "Klaviyo acquires Elias Torres’ Agency in full-circle reunion for tech founders",
+      "summary": "The serial entrepreneur joins the e-commerce company as CPO to lead its AI agents.",
+      "source": "TechCrunch",
+      "published": "2026-08-05T20:05:00+00:00",
+      "link": "https://techcrunch.com/2026/08/05/klaviyo-acquires-elias-torres-agency-in-full-circle-reunion-for-tech-founders/"
+    },
+    {
+      "title": "The Most Dangerous AI Hacking Techniques Still Have Humans in the Loop",
+      "summary": "Security researcher James Kettle tried to push the limit of AI’s hacking abilities—and discovered how effective it can be when combined with human expertise.",
+      "source": "Wired",
+      "published": "2026-08-05T19:42:12+00:00",
+      "link": "https://www.wired.com/story/the-most-dangerous-ai-hacking-techniques-still-have-human-input/"
+    },
+    {
+      "title": "Jeff Dean and other top AI researchers are leaving Google to launch their own startup",
+      "summary": "The legendary Google executive is joined by other outgoing Google execs in a joint mission to use AI to push forward the process of scientific discovery.",
+      "source": "TechCrunch",
+      "published": "2026-08-05T19:30:19+00:00",
+      "link": "https://techcrunch.com/2026/08/05/jeff-dean-and-other-top-ai-researchers-are-leaving-google-to-launch-their-own-startup/"
+    },
+    {
+      "title": "Born Against, or why hobby programming communities are against LLM usage",
+      "summary": "Article URL: https://blog.fogus.me/llm/born-against.html Comments URL: https://news.ycombinator.com/item?id=49187061 Points: 106 # Comments: 120",
+      "source": "Hacker News",
+      "published": "2026-08-05T18:37:49+00:00",
+      "link": "https://blog.fogus.me/llm/born-against.html"
+    },
+    {
+      "title": "AI Hacks Are Bad. AI Worms and Viruses Will Be Worse",
+      "summary": "Chinese researchers have shown that AI models have the capacity to act like aggressive and adaptive computer viruses.",
+      "source": "Wired",
+      "published": "2026-08-05T18:30:00+00:00",
+      "link": "https://www.wired.com/story/ai-agents-could-act-like-computer-viruses-and-worms/"
+    },
+    {
+      "title": "Google Deepmind loses both its CEO and chief scientist as Demis Hassabis and Jeff Dean step down simultaneously",
+      "summary": "Google Deepmind is overhauling its leadership as Demis Hassabis steps back from day-to-day management to become Alphabet's chief scientist and Jeff Dean leaves Google after 27 years to launch AI startup Discovery Loop.",
+      "source": "The Decoder",
+      "published": "2026-08-05T18:20:53+00:00",
+      "link": "https://the-decoder.com/google-deepmind-loses-both-its-ceo-and-chief-scientist-as-demis-hassabis-and-jeff-dean-step-down-simultaneously/"
+    },
+    {
+      "title": "Microsoft's AI Sales Mostly Come from OpenAI, Disclosures Show",
+      "summary": "https://www.bloomberg.com/news/articles/2026-08-05/microsoft... Comments URL: https://news.ycombinator.com/item?id=49186766 Points: 58 # Comments: 15",
+      "source": "Hacker News",
+      "published": "2026-08-05T18:19:10+00:00",
+      "link": "https://www.bloomberg.com/news/articles/2026-08-05/microsoft-s-ai-sales-mostly-come-from-openai-disclosures-show"
+    },
+    {
+      "title": "Beating GPT-5.6 Sol on retrieval with 100x cheaper open models",
+      "summary": "Article URL: https://neon.com/blog/how-castform-neon-beats-frontier-models-on-price-and-efficiency Comments URL: https://news.ycombinator.com/item?id=49186762 Points: 144 # Comments: 29",
+      "source": "Hacker News",
+      "published": "2026-08-05T18:18:56+00:00",
+      "link": "https://neon.com/blog/how-castform-neon-beats-frontier-models-on-price-and-efficiency"
+    },
+    {
+      "title": "Sycophantic AI Decreases Prosocial Intentions and Promotes Dependence (2025)",
+      "summary": "Article URL: https://arxiv.org/abs/2510.01395 Comments URL: https://news.ycombinator.com/item?id=49186720 Points: 61 # Comments: 50",
+      "source": "Hacker News",
+      "published": "2026-08-05T18:17:03+00:00",
+      "link": "https://arxiv.org/abs/2510.01395"
+    },
     {
       "title": "Google will shut down Google Assistant starting September 2026 as Gemini takes over on Android and Wear OS",
       "summary": "Google is killing Google Assistant on Android and Wear OS starting September 4, 2026. Gemini takes over as the AI-powered successor on smartphones, tablets, watches, and in cars with Android Auto.",
       "source": "The Decoder",
       "published": "2026-08-05T17:59:38+00:00",
       "link": "https://the-decoder.com/google-will-shut-down-google-assistant-starting-september-2026-as-gemini-takes-over-on-android-and-wear-os/"
-    },
-    {
-      "title": "Google Deepmind loses both its CEO and chief scientist as Demis Hassabis and Jeff Dean step down simultaneously",
-      "summary": "Google Deepmind is overhauling its leadership as Demis Hassabis steps back from day-to-day management to become Alphabet's chief scientist and Jeff Dean leaves Google after 27 years to launch AI startup Discovery Loop.",
-      "source": "The Decoder",
-      "published": "2026-08-05T17:26:53+00:00",
-      "link": "https://the-decoder.com/google-deepmind-loses-both-its-ceo-and-chief-scientist-as-demis-hassabis-and-jeff-dean-step-down-simultaneously/"
     },
     {
       "title": "Sure seems like Fenix Flexin used AI music generator Treblo",
@@ -114,6 +177,13 @@ const FEED_DATA = {
       "link": "https://techcrunch.com/2026/08/05/anthropic-is-hiring-an-ai-chip-design-team/"
     },
     {
+      "title": "Intelligence Is Not the Main Bottleneck",
+      "summary": "Article URL: https://www.writingruxandrabio.com/p/intelligence-is-not-the-main-bottleneck Comments URL: https://news.ycombinator.com/item?id=49183076 Points: 113 # Comments: 108",
+      "source": "Hacker News",
+      "published": "2026-08-05T14:04:06+00:00",
+      "link": "https://www.writingruxandrabio.com/p/intelligence-is-not-the-main-bottleneck"
+    },
+    {
       "title": "Black Forest Labs makes FLUX 3 Video generally available and claims it beats Seedance 2.0",
       "summary": "Black Forest Labs has launched FLUX 3 Video, which generates Full HD clips up to 20 seconds long with native audio and lip-synced dialogue in more than 14 languages. It can also render typography directly in scenes.",
       "source": "The Decoder",
@@ -122,7 +192,7 @@ const FEED_DATA = {
     },
     {
       "title": "TIME Is Serving AI Bots a Different Website, with Ads Built In",
-      "summary": "Article URL: https://www.vincentschmalbach.com/time-serves-ai-bots-a-different-website/ Comments URL: https://news.ycombinator.com/item?id=49182041 Points: 125 # Comments: 42",
+      "summary": "Article URL: https://www.vincentschmalbach.com/time-serves-ai-bots-a-different-website/ Comments URL: https://news.ycombinator.com/item?id=49182041 Points: 222 # Comments: 92",
       "source": "Hacker News",
       "published": "2026-08-05T12:41:47+00:00",
       "link": "https://www.vincentschmalbach.com/time-serves-ai-bots-a-different-website/"
@@ -143,7 +213,7 @@ const FEED_DATA = {
     },
     {
       "title": "Why Erdős Problems Are Falling to AI",
-      "summary": "Article URL: https://www.quantamagazine.org/why-the-legendary-erdos-problems-are-falling-to-ai-20260803/ Comments URL: https://news.ycombinator.com/item?id=49181519 Points: 85 # Comments: 61",
+      "summary": "Article URL: https://www.quantamagazine.org/why-the-legendary-erdos-problems-are-falling-to-ai-20260803/ Comments URL: https://news.ycombinator.com/item?id=49181519 Points: 125 # Comments: 121",
       "source": "Hacker News",
       "published": "2026-08-05T11:49:34+00:00",
       "link": "https://www.quantamagazine.org/why-the-legendary-erdos-problems-are-falling-to-ai-20260803/"
@@ -199,14 +269,14 @@ const FEED_DATA = {
     },
     {
       "title": "Rust-lang/rust is adopting an LLM policy",
-      "summary": "Article URL: https://blog.rust-lang.org/inside-rust/2026/08/05/rust-langrust-is-adopting-an-llm-policy/ Comments URL: https://news.ycombinator.com/item?id=49179039 Points: 86 # Comments: 58",
+      "summary": "Article URL: https://blog.rust-lang.org/inside-rust/2026/08/05/rust-langrust-is-adopting-an-llm-policy/ Comments URL: https://news.ycombinator.com/item?id=49179039 Points: 105 # Comments: 69",
       "source": "Hacker News",
       "published": "2026-08-05T05:52:24+00:00",
       "link": "https://blog.rust-lang.org/inside-rust/2026/08/05/rust-langrust-is-adopting-an-llm-policy/"
     },
     {
       "title": "Zero-Mem: Zero-Token Memory Operations for LLM Agents",
-      "summary": "Article URL: https://arxiv.org/abs/2607.29377 Comments URL: https://news.ycombinator.com/item?id=49178608 Points: 79 # Comments: 12",
+      "summary": "Article URL: https://arxiv.org/abs/2607.29377 Comments URL: https://news.ycombinator.com/item?id=49178608 Points: 88 # Comments: 12",
       "source": "Hacker News",
       "published": "2026-08-05T04:36:44+00:00",
       "link": "https://arxiv.org/abs/2607.29377"
@@ -227,14 +297,14 @@ const FEED_DATA = {
     },
     {
       "title": "AI fuels more than half of cybercrime in Africa as scams surge – Interpol",
-      "summary": "https://www.interpol.int/Media/Documents/Publications/Cyberc... Comments URL: https://news.ycombinator.com/item?id=49175826 Points: 280 # Comments: 223",
+      "summary": "https://www.interpol.int/Media/Documents/Publications/Cyberc... Comments URL: https://news.ycombinator.com/item?id=49175826 Points: 290 # Comments: 239",
       "source": "Hacker News",
       "published": "2026-08-04T22:01:41+00:00",
       "link": "https://www.africanews.com/2026/08/04/ai-fuels-more-than-half-of-cybercrime-in-africa-as-digital-scams-surge-interpol/"
     },
     {
       "title": "Security Incident INC-2026-07-28-01 – UK AI Security Institute [pdf]",
-      "summary": "Article URL: https://cdn.prod.website-files.com/663bd486c5e4c81588db7a1d/6a724858f7db25c81487016d_Security%20Incident%20INC-2026-07-28-01.pdf Comments URL: https://news.ycombinator.com/item?id=49175717 Points: 58 # Comments: 49",
+      "summary": "Article URL: https://cdn.prod.website-files.com/663bd486c5e4c81588db7a1d/6a724858f7db25c81487016d_Security%20Incident%20INC-2026-07-28-01.pdf Comments URL: https://news.ycombinator.com/item?id=49175717 Points: 61 # Comments: 52",
       "source": "Hacker News",
       "published": "2026-08-04T21:52:58+00:00",
       "link": "https://cdn.prod.website-files.com/663bd486c5e4c81588db7a1d/6a724858f7db25c81487016d_Security%20Incident%20INC-2026-07-28-01.pdf"
@@ -325,14 +395,14 @@ const FEED_DATA = {
     },
     {
       "title": "When AI Benchmarks Plateau: A Systematic Study of Benchmark Saturation",
-      "summary": "Article URL: https://arxiv.org/abs/2602.16763 Comments URL: https://news.ycombinator.com/item?id=49170915 Points: 102 # Comments: 105",
+      "summary": "Article URL: https://arxiv.org/abs/2602.16763 Comments URL: https://news.ycombinator.com/item?id=49170915 Points: 103 # Comments: 120",
       "source": "Hacker News",
       "published": "2026-08-04T16:10:39+00:00",
       "link": "https://arxiv.org/abs/2602.16763"
     },
     {
       "title": "The AI Demand Bubble",
-      "summary": "Article URL: https://www.wheresyoured.at/the-ai-demand-bubble/ Comments URL: https://news.ycombinator.com/item?id=49170648 Points: 107 # Comments: 141",
+      "summary": "Article URL: https://www.wheresyoured.at/the-ai-demand-bubble/ Comments URL: https://news.ycombinator.com/item?id=49170648 Points: 110 # Comments: 144",
       "source": "Hacker News",
       "published": "2026-08-04T15:51:51+00:00",
       "link": "https://www.wheresyoured.at/the-ai-demand-bubble/"
@@ -346,7 +416,7 @@ const FEED_DATA = {
     },
     {
       "title": "Cloudflare enforces engineering standards using AI",
-      "summary": "Article URL: https://blog.cloudflare.com/engineering-standards-enforcement/ Comments URL: https://news.ycombinator.com/item?id=49170628 Points: 52 # Comments: 5",
+      "summary": "Article URL: https://blog.cloudflare.com/engineering-standards-enforcement/ Comments URL: https://news.ycombinator.com/item?id=49170628 Points: 53 # Comments: 7",
       "source": "Hacker News",
       "published": "2026-08-04T15:49:50+00:00",
       "link": "https://blog.cloudflare.com/engineering-standards-enforcement/"
@@ -367,7 +437,7 @@ const FEED_DATA = {
     },
     {
       "title": "It's not a fear of \"AI communism\"; it's a fear of competitive market capitalism",
-      "summary": "Article URL: http://observationalepidemiology.blogspot.com/2026/07/its-not-fear-of-ai-communism-its-fear.html Comments URL: https://news.ycombinator.com/item?id=49169227 Points: 92 # Comments: 82",
+      "summary": "Article URL: http://observationalepidemiology.blogspot.com/2026/07/its-not-fear-of-ai-communism-its-fear.html Comments URL: https://news.ycombinator.com/item?id=49169227 Points: 95 # Comments: 86",
       "source": "Hacker News",
       "published": "2026-08-04T14:07:30+00:00",
       "link": "http://observationalepidemiology.blogspot.com/2026/07/its-not-fear-of-ai-communism-its-fear.html"
@@ -402,7 +472,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI-Generated Images Discourage Me from Reading Your Blog",
-      "summary": "Article URL: https://nelson.cloud/ai-generated-images-discourage-me-from-reading-your-blog/ Comments URL: https://news.ycombinator.com/item?id=49167113 Points: 769 # Comments: 455",
+      "summary": "Article URL: https://nelson.cloud/ai-generated-images-discourage-me-from-reading-your-blog/ Comments URL: https://news.ycombinator.com/item?id=49167113 Points: 780 # Comments: 460",
       "source": "Hacker News",
       "published": "2026-08-04T11:30:17+00:00",
       "link": "https://nelson.cloud/ai-generated-images-discourage-me-from-reading-your-blog/"
@@ -450,6 +520,13 @@ const FEED_DATA = {
       "link": "https://www.theverge.com/ai-artificial-intelligence/973098/reddit-ai-search-seo-marketing-brands-spam"
     },
     {
+      "title": "An Honest Review of AI Programming",
+      "summary": "Article URL: https://mropert.github.io/2026/08/04/an_honest_review_of_ai_programming/ Comments URL: https://news.ycombinator.com/item?id=49166230 Points: 51 # Comments: 76",
+      "source": "Hacker News",
+      "published": "2026-08-04T09:35:15+00:00",
+      "link": "https://mropert.github.io/2026/08/04/an_honest_review_of_ai_programming/"
+    },
+    {
       "title": "Mistral Is in the Right Place at the Right Time",
       "summary": "Open-weight AI models are having a moment in the wake of recent turmoil at US tech giants. For French AI lab Mistral, that’s the the best thing that could have happened.",
       "source": "Wired",
@@ -472,7 +549,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI's debt binge can't last, hidden borrowing reaches $1.65T",
-      "summary": "Article URL: https://fortune.com/2026/07/31/ai-debt-hypescalers-capex-capital-spending-hidden-borrowing-bond-issuance/ Comments URL: https://news.ycombinator.com/item?id=49160699 Points: 144 # Comments: 175",
+      "summary": "Article URL: https://fortune.com/2026/07/31/ai-debt-hypescalers-capex-capital-spending-hidden-borrowing-bond-issuance/ Comments URL: https://news.ycombinator.com/item?id=49160699 Points: 146 # Comments: 177",
       "source": "Hacker News",
       "published": "2026-08-03T20:02:21+00:00",
       "link": "https://fortune.com/2026/07/31/ai-debt-hypescalers-capex-capital-spending-hidden-borrowing-bond-issuance/"
@@ -1323,83 +1400,6 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-07-30T18:07:17+00:00",
       "link": "https://the-decoder.com/ex-openai-researcher-bets-100-billion-will-flow-into-training-data-because-scaling-alone-wont-cut-it/"
-    },
-    {
-      "title": "LinkedIn adds a button to report AI-generated ‘slop’",
-      "summary": "LinkedIn is introducing new ways to reduce low-quality AI-generated posts, including a “seems like AI slop” reporting option. It's also replacing its own AI writing feature with a proofreading tool.",
-      "source": "TechCrunch",
-      "published": "2026-07-30T18:05:21+00:00",
-      "link": "https://techcrunch.com/2026/07/30/linkedin-adds-a-button-to-report-ai-generated-slop/"
-    },
-    {
-      "title": "Nvidia’s Open Source Alliance Is Missing Some Key Names: OpenAI and Anthropic",
-      "summary": "This week on Uncanny Valley, we discuss the open- vs. closed-source debate in AI, key players in White House AI policy, and how to stop your chatbot logs from showing up in search-engine results.",
-      "source": "Wired",
-      "published": "2026-07-30T17:51:10+00:00",
-      "link": "https://www.wired.com/story/nvidias-open-source-alliance-snubs-openai-and-anthropic/"
-    },
-    {
-      "title": "Nvidia’s Open Source Alliance Snubs OpenAI and Anthropic",
-      "summary": "This week on Uncanny Valley, we discuss the open vs. closed source debate in AI, key players in White House AI policy, and how to stop your chatbot logs from showing up in search engine results.",
-      "source": "Wired",
-      "published": "2026-07-30T17:51:10+00:00",
-      "link": "https://www.wired.com/story/nvidias-open-source-alliance-snubs-openai-and-anthropic/"
-    },
-    {
-      "title": "We Gave GPT 5.6 Sol a Real Business. It Lied, Spammed, and Lost $447",
-      "summary": "Article URL: https://www.bottlenecklabs.com/blog/autonomously-run-businesses Comments URL: https://news.ycombinator.com/item?id=49113059 Points: 403 # Comments: 234",
-      "source": "Hacker News",
-      "published": "2026-07-30T17:31:07+00:00",
-      "link": "https://www.bottlenecklabs.com/blog/autonomously-run-businesses"
-    },
-    {
-      "title": "Google DeepMind’s new AI model can control a robot’s entire body",
-      "summary": "Google DeepMind says the latest version of its Gemini Robotics AI model can \"control entire humanoid robots.\" While the previous model focused on controlling a humanoid robot's upper body, Gemini Robotics 2 now supports \"whole-body motions\" ranging from its feet to fingertips,...",
-      "source": "The Verge",
-      "published": "2026-07-30T17:18:45+00:00",
-      "link": "https://www.theverge.com/tech/973276/google-deepmind-gemini-robotics-2-whole-body"
-    },
-    {
-      "title": "Advancing the price-performance frontier with GPT‑5.6",
-      "summary": "Article URL: https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6/ Comments URL: https://news.ycombinator.com/item?id=49112867 Points: 603 # Comments: 399",
-      "source": "Hacker News",
-      "published": "2026-07-30T17:15:51+00:00",
-      "link": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6/"
-    },
-    {
-      "title": "Chrome Needs Twice-a-Week Patching Thanks to AI Bug Hunting",
-      "summary": "The two Chrome updates in June patched more bugs than the 23 updates before them. Now, Google is ramping up its patching schedule thanks to AI-assisted vulnerability discovery.",
-      "source": "Wired",
-      "published": "2026-07-30T17:00:00+00:00",
-      "link": "https://www.wired.com/story/chrome-needs-twice-a-week-patching-thanks-to-ai-bug-hunting-for-now/"
-    },
-    {
-      "title": "Friend re-launches its AI pendant with a speaker that talks to you, for twice the price",
-      "summary": "Do you remember Friend? The Friend that launched an AI pendant, spent $1.8 million of its $2.5 million in funding to acquire friend.com, and plastered the NYC subway with ads promoting artificial companionship?",
-      "source": "The Verge",
-      "published": "2026-07-30T16:33:32+00:00",
-      "link": "https://www.theverge.com/gadgets/973163/friend-re-launches-its-ai-pendant-with-a-speaker-that-talks-to-you-for-twice-the-price"
-    },
-    {
-      "title": "Okta buys AI security startup Permiso — source says for about $200M",
-      "summary": "The deal gives Okta identity threat detection capabilities as enterprises seek to secure AI agents and other non-human identities across cloud environments.",
-      "source": "TechCrunch",
-      "published": "2026-07-30T16:09:42+00:00",
-      "link": "https://techcrunch.com/2026/07/30/okta-buys-ai-security-startup-permiso-source-says-for-about-200m/"
-    },
-    {
-      "title": "Okta buys AI security startup Permiso; source says for about $200M",
-      "summary": "The deal gives Okta identity threat detection capabilities as enterprises seek to secure AI agents and other non-human identities across cloud environments.",
-      "source": "TechCrunch",
-      "published": "2026-07-30T16:09:42+00:00",
-      "link": "https://techcrunch.com/2026/07/30/okta-buys-ai-security-startup-permiso-source-says-for-about-200m/"
-    },
-    {
-      "title": "Citadel Buys Situational Awareness's Stock Portfolio After Big Losses in AI",
-      "summary": "Article URL: https://www.wsj.com/finance/citadel-buys-situational-awarenesss-stock-portfolio-after-big-losses-in-ai-5117159b Comments URL: https://news.ycombinator.com/item?id=49111879 Points: 53 # Comments: 15",
-      "source": "Hacker News",
-      "published": "2026-07-30T16:00:33+00:00",
-      "link": "https://www.wsj.com/finance/citadel-buys-situational-awarenesss-stock-portfolio-after-big-losses-in-ai-5117159b"
     }
   ]
 };
