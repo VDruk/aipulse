@@ -1,6 +1,90 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-08-05T15:15:32.188609+00:00",
+  "lastUpdated": "2026-08-05T18:15:43.390504+00:00",
   "items": [
+    {
+      "title": "Google will shut down Google Assistant starting September 2026 as Gemini takes over on Android and Wear OS",
+      "summary": "Google is killing Google Assistant on Android and Wear OS starting September 4, 2026. Gemini takes over as the AI-powered successor on smartphones, tablets, watches, and in cars with Android Auto.",
+      "source": "The Decoder",
+      "published": "2026-08-05T17:59:38+00:00",
+      "link": "https://the-decoder.com/google-will-shut-down-google-assistant-starting-september-2026-as-gemini-takes-over-on-android-and-wear-os/"
+    },
+    {
+      "title": "Google Deepmind loses both its CEO and chief scientist as Demis Hassabis and Jeff Dean step down simultaneously",
+      "summary": "Google Deepmind is overhauling its leadership as Demis Hassabis steps back from day-to-day management to become Alphabet's chief scientist and Jeff Dean leaves Google after 27 years to launch AI startup Discovery Loop.",
+      "source": "The Decoder",
+      "published": "2026-08-05T17:26:53+00:00",
+      "link": "https://the-decoder.com/google-deepmind-loses-both-its-ceo-and-chief-scientist-as-demis-hassabis-and-jeff-dean-step-down-simultaneously/"
+    },
+    {
+      "title": "Sure seems like Fenix Flexin used AI music generator Treblo",
+      "summary": "We were pretty sure that Fenix Flexin's \"Rubberz\" was made using AI, but musician Medasin was confident that it was made using Treblo specifically. Now the company and a new detection tool seem to confirm it.",
+      "source": "The Verge",
+      "published": "2026-08-05T16:57:25+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/975528/fenix-flexin-ai-music-generator-treblo"
+    },
+    {
+      "title": "Google just announced a major shakeup of its top AI leadership",
+      "summary": "Google is making some significant AI leadership changes, including a major shift for Google DeepMind leader Demis Hassabis. Hassabis will become the chair of Google DeepMind and the chief scientist at Alphabet, CEO Sundar Pichai announced on Wednesday.",
+      "source": "The Verge",
+      "published": "2026-08-05T16:47:23+00:00",
+      "link": "https://www.theverge.com/tech/975677/google-deepmind-ai-demis-hassabis-shakeup"
+    },
+    {
+      "title": "SpaceX is barely Space and mostly X",
+      "summary": "Once, I had some questions about why SpaceX, Elon Musk's healthiest company, acquired xAI, his sickliest one. Now I have some questions about why we're calling the whole thing SpaceX.",
+      "source": "The Verge",
+      "published": "2026-08-05T16:35:56+00:00",
+      "link": "https://www.theverge.com/science/975545/spacex-x-earnings-ai-data-centers-compute-space"
+    },
+    {
+      "title": "Mistral's open model Shieldstral matches much larger safety models at a fraction of the size",
+      "summary": "Mistral's new 3B Shieldstral model checks AI inputs and outputs for safety violations using natural language yes-or-no questions instead of fixed categories. It matches models seven times its size in some benchmarks.",
+      "source": "The Decoder",
+      "published": "2026-08-05T16:35:07+00:00",
+      "link": "https://the-decoder.com/mistrals-open-model-shieldstral-matches-much-larger-safety-models/"
+    },
+    {
+      "title": "Meta Ran Ads That Contained AI-Generated Child Sexual Abuse Imagery",
+      "summary": "More than 50 offending image and video ads were published across Facebook, Instagram, Messenger, or Threads, according to Meta’s ad library data. Some ran as recently as this week.",
+      "source": "Wired",
+      "published": "2026-08-05T16:26:36+00:00",
+      "link": "https://www.wired.com/story/meta-ran-ads-that-contained-ai-generated-child-sexual-abuse-imagery/"
+    },
+    {
+      "title": "Reddit is introducing a new moderator: AI",
+      "summary": "Reddit is enlisting AI to help moderate new subreddits - and eventually the rest of site.",
+      "source": "The Verge",
+      "published": "2026-08-05T16:00:00+00:00",
+      "link": "https://www.theverge.com/tech/975398/reddit-ai-rules-hub-moderator-old-reddit-developer-platform"
+    },
+    {
+      "title": "Google’s Top AI Brains Are Leaving to Launch Discovery Loop",
+      "summary": "Jeff Dean and other high-profile Google executives have founded Discovery Loop, a startup that will seek AI-powered breakthroughs in everything from drug discovery to chip design.",
+      "source": "Wired",
+      "published": "2026-08-05T16:00:00+00:00",
+      "link": "https://www.wired.com/story/jeff-dean-google-discovery-loop-startup/"
+    },
+    {
+      "title": "Shopify says AI search is driving more traffic and sales, not replacing Google",
+      "summary": "Shopify says AI isn’t cannibalizing search traffic the way it has for publishers. Instead, AI-driven traffic and orders to Shopify stores tripled year over year in Q2.",
+      "source": "TechCrunch",
+      "published": "2026-08-05T15:56:14+00:00",
+      "link": "https://techcrunch.com/2026/08/05/shopify-says-ai-search-is-driving-more-traffic-and-sales-not-replacing-google/"
+    },
+    {
+      "title": "Hark previews its browser use agent for completing tasks",
+      "summary": "Hark claims that its browser use agent is faster and cheaper than competition.",
+      "source": "TechCrunch",
+      "published": "2026-08-05T15:46:27+00:00",
+      "link": "https://techcrunch.com/2026/08/05/hark-previews-its-browser-use-agent-for-completing-tasks/"
+    },
+    {
+      "title": "UK's job market is splitting in two as AI demand surges while knowledge work postings crater",
+      "summary": "AI now appears in 9.4 percent of British job postings, up from about 2 percent in 2023, according to Indeed. Overall hiring is falling in knowledge work fields such as marketing and management, but AI-related listings are rising fast.",
+      "source": "The Decoder",
+      "published": "2026-08-05T15:42:52+00:00",
+      "link": "https://the-decoder.com/uks-job-market-is-splitting-in-two-as-ai-demand-surges-while-knowledge-work-postings-crater/"
+    },
     {
       "title": "Rogue AI agents created fake online identities in another hacking attempt",
       "summary": "Yet more rogue AI agents from OpenAI and Anthropic have been caught attempting to hack real targets online without permission.",
@@ -24,7 +108,7 @@ const FEED_DATA = {
     },
     {
       "title": "Anthropic is hiring an AI chip design team",
-      "summary": "Anthropic is building a team for designing its own custom AI chips. The Claude-maker said it would co-design hardware and models to help its technology run faster and more efficiently.",
+      "summary": "Anthropic is building a team for designing its own custom AI chips. The Claude maker said it would co-design hardware and models to help its technology run faster and more efficiently.",
       "source": "TechCrunch",
       "published": "2026-08-05T14:13:18+00:00",
       "link": "https://techcrunch.com/2026/08/05/anthropic-is-hiring-an-ai-chip-design-team/"
@@ -65,6 +149,13 @@ const FEED_DATA = {
       "link": "https://www.quantamagazine.org/why-the-legendary-erdos-problems-are-falling-to-ai-20260803/"
     },
     {
+      "title": "AI Influencers Are Heading Into Uncharted Territory",
+      "summary": "Some creators fear the EU AI Act’s regulatory chaos will upend their lucrative businesses. Others are owning it by incorporating AI transparency into their creative process.",
+      "source": "Wired",
+      "published": "2026-08-05T11:43:00+00:00",
+      "link": "https://www.wired.com/story/algorithm-turning-on-ai-influencers-are-humans-worried/"
+    },
+    {
       "title": "Google Assistant will disappear from your phone next month",
       "summary": "Google Assistant's days have been numbered ever since Gemini arrived on the scene, and its time is now up.",
       "source": "The Verge",
@@ -73,7 +164,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI makes weather prediction better. Can WindBorne make it lucrative?",
-      "summary": "WindBorne Systems has raised $37 million Series B round to scale its weather balloons and AI forecasts.",
+      "summary": "WindBorne Systems has raised a $37 million Series B round to scale its weather balloons and AI forecasts.",
       "source": "TechCrunch",
       "published": "2026-08-05T11:00:00+00:00",
       "link": "https://techcrunch.com/2026/08/05/ai-makes-weather-prediction-better-can-windborne-make-it-lucrative/"
@@ -119,13 +210,6 @@ const FEED_DATA = {
       "source": "Hacker News",
       "published": "2026-08-05T04:36:44+00:00",
       "link": "https://arxiv.org/abs/2607.29377"
-    },
-    {
-      "title": "AI Influencers Are Heading Into Uncharted Territory",
-      "summary": "Some creators fear the EU AI Act’s regulatory chaos will upend their lucrative businesses. Others are owning it by incorporating AI transparency into their creative process.",
-      "source": "Wired",
-      "published": "2026-08-05T00:00:00+00:00",
-      "link": "https://www.wired.com/story/algorithm-turning-on-ai-influencers-are-humans-worried/"
     },
     {
       "title": "OK, Well, Rogue AI Agents Are Hacking Again",
@@ -1316,90 +1400,6 @@ const FEED_DATA = {
       "source": "Hacker News",
       "published": "2026-07-30T16:00:33+00:00",
       "link": "https://www.wsj.com/finance/citadel-buys-situational-awarenesss-stock-portfolio-after-big-losses-in-ai-5117159b"
-    },
-    {
-      "title": "The New Friend AI Pendant Can Now Talk Back to You",
-      "summary": "Avi Schiffmann has a new version of his controversial AI companion. It’s more expensive, and you can’t change its personality.",
-      "source": "Wired",
-      "published": "2026-07-30T16:00:00+00:00",
-      "link": "https://www.wired.com/story/the-friend-2-necklace-can-talk-back-to-you-now/"
-    },
-    {
-      "title": "Meta says AI is making it easier to build new apps — and more are coming",
-      "summary": "Meta says AI is making it dramatically easier to build and launch new consumer apps, with CEO Mark Zuckerberg telling investors the company has more new consumer products on the way.",
-      "source": "TechCrunch",
-      "published": "2026-07-30T15:41:16+00:00",
-      "link": "https://techcrunch.com/2026/07/30/meta-says-ai-is-making-it-easier-to-build-new-apps-and-more-are-coming/"
-    },
-    {
-      "title": "Nscale buys Anyscale as it seeks to own more of the AI compute stack",
-      "summary": "British AI neocloud Nscale is buying software startup Anyscale, which helps companies scale their AI workloads across data centers and servers.",
-      "source": "TechCrunch",
-      "published": "2026-07-30T15:19:15+00:00",
-      "link": "https://techcrunch.com/2026/07/30/nscale-buys-anyscale-as-it-seeks-to-own-more-of-the-ai-compute-stack/"
-    },
-    {
-      "title": "Gemini Robotics 2 brings whole body intelligence to robots",
-      "summary": "Article URL: https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/ Comments URL: https://news.ycombinator.com/item?id=49111237 Points: 612 # Comments: 529",
-      "source": "Hacker News",
-      "published": "2026-07-30T15:15:48+00:00",
-      "link": "https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/"
-    },
-    {
-      "title": "Gemini Robotics 2 Brings Google's AI Into the Physical World",
-      "summary": "The latest version of Google DeepMind's AI model includes a significant jump into “physical AGI.” But plopping AI into the real world comes with risks.",
-      "source": "Wired",
-      "published": "2026-07-30T15:04:22+00:00",
-      "link": "https://www.wired.com/story/google-gemini-can-control-humanoid-robots/"
-    },
-    {
-      "title": "Forward-deployed engineers are the AI industry’s latest talent obsession",
-      "summary": "A new study estimates only 2,000 U.S. engineers have the expertise to deliver meaningful AI ROI, as enterprises race to hire forward-deployed engineers to implement AI at scale.",
-      "source": "TechCrunch",
-      "published": "2026-07-30T15:00:00+00:00",
-      "link": "https://techcrunch.com/2026/07/30/forward-deployed-engineers-are-the-ai-industrys-latest-talent-obsession/"
-    },
-    {
-      "title": "In the Hugging Face breach, OpenAI’s hacker was noisy and fast — but not unstoppable",
-      "summary": "Cybersecurity experts told TechCrunch that one of the biggest lessons to be taken from the OpenAI hack against Hugging Face has nothing to do with AI, but traditional cybersecurity defense.",
-      "source": "TechCrunch",
-      "published": "2026-07-30T14:48:32+00:00",
-      "link": "https://techcrunch.com/2026/07/30/in-the-hugging-face-breach-openais-hacker-was-noisy-and-fast-but-not-unstoppable/"
-    },
-    {
-      "title": "Language models can't spark scientific revolutions, but world models might",
-      "summary": "Can language models spark a scientific revolution? In a position paper titled \"LLMs can't jump,\" Google Deepmind's Tom Zahavy argues they can't.",
-      "source": "The Decoder",
-      "published": "2026-07-30T14:01:33+00:00",
-      "link": "https://the-decoder.com/language-models-cant-spark-scientific-revolutions-but-world-models-might/"
-    },
-    {
-      "title": "Microsoft AI bets on cheap specialist models instead of chasing the frontier",
-      "summary": "Microsoft AI is betting on small specialist models instead of expensive general-purpose ones, according to AI CEO Mustafa Suleyman.",
-      "source": "The Decoder",
-      "published": "2026-07-30T13:11:48+00:00",
-      "link": "https://the-decoder.com/microsoft-ai-bets-on-cheap-specialist-models-instead-of-chasing-the-frontier/"
-    },
-    {
-      "title": "Dili raises $21.7M to bring AI compliance to the infrastructure boom",
-      "summary": "The Series A was led by Khosla Ventures, with participation from Allianz, Rebel Fund, Brick and Mortar Ventures’ Darren Bechtel, and Y Combinator’s Garry Tan.",
-      "source": "TechCrunch",
-      "published": "2026-07-30T13:00:00+00:00",
-      "link": "https://techcrunch.com/2026/07/30/dili-raises-15-million-to-bring-ai-compliance-to-the-infrastructure-boom/"
-    },
-    {
-      "title": "FCC bans new Chinese robots and power inverters to protect US AI buildout from foreign threats",
-      "summary": "The FCC is blocking imports of new Chinese humanoid robots and robot dogs. But the rule's broad definition also sweeps in Roombas, robotic lawn mowers, and delivery bots.",
-      "source": "The Decoder",
-      "published": "2026-07-30T12:47:46+00:00",
-      "link": "https://the-decoder.com/fcc-bans-new-chinese-robots-and-power-inverters-to-protect-us-ai-buildout-from-foreign-threats/"
-    },
-    {
-      "title": "OpenJDK Interim Policy on Generative AI",
-      "summary": "Article URL: https://openjdk.org/legal/ai Comments URL: https://news.ycombinator.com/item?id=49109165 Points: 73 # Comments: 85",
-      "source": "Hacker News",
-      "published": "2026-07-30T12:36:38+00:00",
-      "link": "https://openjdk.org/legal/ai"
     }
   ]
 };
