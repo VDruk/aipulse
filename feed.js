@@ -1,6 +1,76 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-08-05T11:09:26.877562+00:00",
+  "lastUpdated": "2026-08-05T15:15:32.188609+00:00",
   "items": [
+    {
+      "title": "Rogue AI agents created fake online identities in another hacking attempt",
+      "summary": "Yet more rogue AI agents from OpenAI and Anthropic have been caught attempting to hack real targets online without permission.",
+      "source": "The Verge",
+      "published": "2026-08-05T15:14:57+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/975577/aisi-openai-anthropic-agent-hacking"
+    },
+    {
+      "title": "TechCrunch Disrupt 2026’s Real World AI Stage features robots, automated factories, and extinct animals",
+      "summary": "On our new Real World AI stage, we’ll be focusing on the intersection between the digital and physical, and all the ways we’ll continue to see a blending of the two.",
+      "source": "TechCrunch",
+      "published": "2026-08-05T15:05:00+00:00",
+      "link": "https://techcrunch.com/2026/08/05/techcrunch-disrupt-2026s-real-world-ai-stage-features-robots-automated-factories-and-extinct-animals/"
+    },
+    {
+      "title": "SpaceX’s ambitious compute goals could require over two million Nvidia Rubin GPUs",
+      "summary": "SpaceX plans to more than 5x its compute capacity by the end of 2027, betting exclusively on Nvidia's Vera Rubin platform. The expansion could require well over a million new GPUs.",
+      "source": "The Decoder",
+      "published": "2026-08-05T14:15:50+00:00",
+      "link": "https://the-decoder.com/spacexs-ambitious-compute-goals-could-require-over-two-million-nvidia-rubin-gpus/"
+    },
+    {
+      "title": "Anthropic is hiring an AI chip design team",
+      "summary": "Anthropic is building a team for designing its own custom AI chips. The Claude-maker said it would co-design hardware and models to help its technology run faster and more efficiently.",
+      "source": "TechCrunch",
+      "published": "2026-08-05T14:13:18+00:00",
+      "link": "https://techcrunch.com/2026/08/05/anthropic-is-hiring-an-ai-chip-design-team/"
+    },
+    {
+      "title": "Black Forest Labs makes FLUX 3 Video generally available and claims it beats Seedance 2.0",
+      "summary": "Black Forest Labs has launched FLUX 3 Video, which generates Full HD clips up to 20 seconds long with native audio and lip-synced dialogue in more than 14 languages. It can also render typography directly in scenes.",
+      "source": "The Decoder",
+      "published": "2026-08-05T13:06:48+00:00",
+      "link": "https://the-decoder.com/black-forest-labs-makes-flux-3-video-generally-available-and-claims-it-beats-seedance-2-0/"
+    },
+    {
+      "title": "TIME Is Serving AI Bots a Different Website, with Ads Built In",
+      "summary": "Article URL: https://www.vincentschmalbach.com/time-serves-ai-bots-a-different-website/ Comments URL: https://news.ycombinator.com/item?id=49182041 Points: 125 # Comments: 42",
+      "source": "Hacker News",
+      "published": "2026-08-05T12:41:47+00:00",
+      "link": "https://www.vincentschmalbach.com/time-serves-ai-bots-a-different-website/"
+    },
+    {
+      "title": "MacPaw taps Liquid AI to offer on-device inference to devs building for its app store",
+      "summary": "MacPaw is building a local version of its AI assistant Eney using Liquid AI's models.",
+      "source": "TechCrunch",
+      "published": "2026-08-05T12:28:38+00:00",
+      "link": "https://techcrunch.com/2026/08/05/macpaw-taps-liquid-ai-to-offer-on-device-inference-to-devs-building-for-its-app-store/"
+    },
+    {
+      "title": "The Download: NASA’s new telescope and Chinese tech import curbs",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.",
+      "source": "MIT Tech Review",
+      "published": "2026-08-05T12:10:00+00:00",
+      "link": "https://www.technologyreview.com/2026/08/05/1141212/the-download-nasa-telescope-chinese-tech-import-curbs/"
+    },
+    {
+      "title": "Why Erdős Problems Are Falling to AI",
+      "summary": "Article URL: https://www.quantamagazine.org/why-the-legendary-erdos-problems-are-falling-to-ai-20260803/ Comments URL: https://news.ycombinator.com/item?id=49181519 Points: 85 # Comments: 61",
+      "source": "Hacker News",
+      "published": "2026-08-05T11:49:34+00:00",
+      "link": "https://www.quantamagazine.org/why-the-legendary-erdos-problems-are-falling-to-ai-20260803/"
+    },
+    {
+      "title": "Google Assistant will disappear from your phone next month",
+      "summary": "Google Assistant's days have been numbered ever since Gemini arrived on the scene, and its time is now up.",
+      "source": "The Verge",
+      "published": "2026-08-05T11:12:50+00:00",
+      "link": "https://www.theverge.com/tech/975516/google-assistant-android-phones-tablets-shutdown"
+    },
     {
       "title": "AI makes weather prediction better. Can WindBorne make it lucrative?",
       "summary": "WindBorne Systems has raised $37 million Series B round to scale its weather balloons and AI forecasts.",
@@ -38,17 +108,24 @@ const FEED_DATA = {
     },
     {
       "title": "Rust-lang/rust is adopting an LLM policy",
-      "summary": "Article URL: https://blog.rust-lang.org/inside-rust/2026/08/05/rust-langrust-is-adopting-an-llm-policy/ Comments URL: https://news.ycombinator.com/item?id=49179039 Points: 71 # Comments: 53",
+      "summary": "Article URL: https://blog.rust-lang.org/inside-rust/2026/08/05/rust-langrust-is-adopting-an-llm-policy/ Comments URL: https://news.ycombinator.com/item?id=49179039 Points: 86 # Comments: 58",
       "source": "Hacker News",
       "published": "2026-08-05T05:52:24+00:00",
       "link": "https://blog.rust-lang.org/inside-rust/2026/08/05/rust-langrust-is-adopting-an-llm-policy/"
     },
     {
       "title": "Zero-Mem: Zero-Token Memory Operations for LLM Agents",
-      "summary": "Article URL: https://arxiv.org/abs/2607.29377 Comments URL: https://news.ycombinator.com/item?id=49178608 Points: 51 # Comments: 10",
+      "summary": "Article URL: https://arxiv.org/abs/2607.29377 Comments URL: https://news.ycombinator.com/item?id=49178608 Points: 79 # Comments: 12",
       "source": "Hacker News",
       "published": "2026-08-05T04:36:44+00:00",
       "link": "https://arxiv.org/abs/2607.29377"
+    },
+    {
+      "title": "AI Influencers Are Heading Into Uncharted Territory",
+      "summary": "Some creators fear the EU AI Act’s regulatory chaos will upend their lucrative businesses. Others are owning it by incorporating AI transparency into their creative process.",
+      "source": "Wired",
+      "published": "2026-08-05T00:00:00+00:00",
+      "link": "https://www.wired.com/story/algorithm-turning-on-ai-influencers-are-humans-worried/"
     },
     {
       "title": "OK, Well, Rogue AI Agents Are Hacking Again",
@@ -66,14 +143,14 @@ const FEED_DATA = {
     },
     {
       "title": "AI fuels more than half of cybercrime in Africa as scams surge – Interpol",
-      "summary": "https://www.interpol.int/Media/Documents/Publications/Cyberc... Comments URL: https://news.ycombinator.com/item?id=49175826 Points: 254 # Comments: 196",
+      "summary": "https://www.interpol.int/Media/Documents/Publications/Cyberc... Comments URL: https://news.ycombinator.com/item?id=49175826 Points: 280 # Comments: 223",
       "source": "Hacker News",
       "published": "2026-08-04T22:01:41+00:00",
       "link": "https://www.africanews.com/2026/08/04/ai-fuels-more-than-half-of-cybercrime-in-africa-as-digital-scams-surge-interpol/"
     },
     {
       "title": "Security Incident INC-2026-07-28-01 – UK AI Security Institute [pdf]",
-      "summary": "Article URL: https://cdn.prod.website-files.com/663bd486c5e4c81588db7a1d/6a724858f7db25c81487016d_Security%20Incident%20INC-2026-07-28-01.pdf Comments URL: https://news.ycombinator.com/item?id=49175717 Points: 58 # Comments: 47",
+      "summary": "Article URL: https://cdn.prod.website-files.com/663bd486c5e4c81588db7a1d/6a724858f7db25c81487016d_Security%20Incident%20INC-2026-07-28-01.pdf Comments URL: https://news.ycombinator.com/item?id=49175717 Points: 58 # Comments: 49",
       "source": "Hacker News",
       "published": "2026-08-04T21:52:58+00:00",
       "link": "https://cdn.prod.website-files.com/663bd486c5e4c81588db7a1d/6a724858f7db25c81487016d_Security%20Incident%20INC-2026-07-28-01.pdf"
@@ -164,14 +241,14 @@ const FEED_DATA = {
     },
     {
       "title": "When AI Benchmarks Plateau: A Systematic Study of Benchmark Saturation",
-      "summary": "Article URL: https://arxiv.org/abs/2602.16763 Comments URL: https://news.ycombinator.com/item?id=49170915 Points: 100 # Comments: 99",
+      "summary": "Article URL: https://arxiv.org/abs/2602.16763 Comments URL: https://news.ycombinator.com/item?id=49170915 Points: 102 # Comments: 105",
       "source": "Hacker News",
       "published": "2026-08-04T16:10:39+00:00",
       "link": "https://arxiv.org/abs/2602.16763"
     },
     {
       "title": "The AI Demand Bubble",
-      "summary": "Article URL: https://www.wheresyoured.at/the-ai-demand-bubble/ Comments URL: https://news.ycombinator.com/item?id=49170648 Points: 106 # Comments: 136",
+      "summary": "Article URL: https://www.wheresyoured.at/the-ai-demand-bubble/ Comments URL: https://news.ycombinator.com/item?id=49170648 Points: 107 # Comments: 141",
       "source": "Hacker News",
       "published": "2026-08-04T15:51:51+00:00",
       "link": "https://www.wheresyoured.at/the-ai-demand-bubble/"
@@ -185,7 +262,7 @@ const FEED_DATA = {
     },
     {
       "title": "Cloudflare enforces engineering standards using AI",
-      "summary": "Article URL: https://blog.cloudflare.com/engineering-standards-enforcement/ Comments URL: https://news.ycombinator.com/item?id=49170628 Points: 50 # Comments: 5",
+      "summary": "Article URL: https://blog.cloudflare.com/engineering-standards-enforcement/ Comments URL: https://news.ycombinator.com/item?id=49170628 Points: 52 # Comments: 5",
       "source": "Hacker News",
       "published": "2026-08-04T15:49:50+00:00",
       "link": "https://blog.cloudflare.com/engineering-standards-enforcement/"
@@ -206,7 +283,7 @@ const FEED_DATA = {
     },
     {
       "title": "It's not a fear of \"AI communism\"; it's a fear of competitive market capitalism",
-      "summary": "Article URL: http://observationalepidemiology.blogspot.com/2026/07/its-not-fear-of-ai-communism-its-fear.html Comments URL: https://news.ycombinator.com/item?id=49169227 Points: 89 # Comments: 80",
+      "summary": "Article URL: http://observationalepidemiology.blogspot.com/2026/07/its-not-fear-of-ai-communism-its-fear.html Comments URL: https://news.ycombinator.com/item?id=49169227 Points: 92 # Comments: 82",
       "source": "Hacker News",
       "published": "2026-08-04T14:07:30+00:00",
       "link": "http://observationalepidemiology.blogspot.com/2026/07/its-not-fear-of-ai-communism-its-fear.html"
@@ -241,7 +318,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI-Generated Images Discourage Me from Reading Your Blog",
-      "summary": "Article URL: https://nelson.cloud/ai-generated-images-discourage-me-from-reading-your-blog/ Comments URL: https://news.ycombinator.com/item?id=49167113 Points: 764 # Comments: 443",
+      "summary": "Article URL: https://nelson.cloud/ai-generated-images-discourage-me-from-reading-your-blog/ Comments URL: https://news.ycombinator.com/item?id=49167113 Points: 769 # Comments: 455",
       "source": "Hacker News",
       "published": "2026-08-04T11:30:17+00:00",
       "link": "https://nelson.cloud/ai-generated-images-discourage-me-from-reading-your-blog/"
@@ -311,7 +388,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI's debt binge can't last, hidden borrowing reaches $1.65T",
-      "summary": "Article URL: https://fortune.com/2026/07/31/ai-debt-hypescalers-capex-capital-spending-hidden-borrowing-bond-issuance/ Comments URL: https://news.ycombinator.com/item?id=49160699 Points: 143 # Comments: 175",
+      "summary": "Article URL: https://fortune.com/2026/07/31/ai-debt-hypescalers-capex-capital-spending-hidden-borrowing-bond-issuance/ Comments URL: https://news.ycombinator.com/item?id=49160699 Points: 144 # Comments: 175",
       "source": "Hacker News",
       "published": "2026-08-03T20:02:21+00:00",
       "link": "https://fortune.com/2026/07/31/ai-debt-hypescalers-capex-capital-spending-hidden-borrowing-bond-issuance/"
@@ -381,7 +458,7 @@ const FEED_DATA = {
     },
     {
       "title": "What's the largest software project AI can complete on its own?",
-      "summary": "Article URL: https://epoch.ai/MirrorCode Comments URL: https://news.ycombinator.com/item?id=49157786 Points: 102 # Comments: 105",
+      "summary": "Article URL: https://epoch.ai/MirrorCode Comments URL: https://news.ycombinator.com/item?id=49157786 Points: 103 # Comments: 106",
       "source": "Hacker News",
       "published": "2026-08-03T16:16:40+00:00",
       "link": "https://epoch.ai/MirrorCode"
@@ -437,7 +514,7 @@ const FEED_DATA = {
     },
     {
       "title": "SQLite Critical CVEs or LLM Slop?",
-      "summary": "Article URL: https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/ Comments URL: https://news.ycombinator.com/item?id=49154332 Points: 721 # Comments: 372",
+      "summary": "Article URL: https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/ Comments URL: https://news.ycombinator.com/item?id=49154332 Points: 723 # Comments: 374",
       "source": "Hacker News",
       "published": "2026-08-03T11:28:54+00:00",
       "link": "https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/"
@@ -500,7 +577,7 @@ const FEED_DATA = {
     },
     {
       "title": "Prevent cognitive debt by manually retyping LLM-generated code",
-      "summary": "Article URL: https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code/ Comments URL: https://news.ycombinator.com/item?id=49153374 Points: 532 # Comments: 436",
+      "summary": "Article URL: https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code/ Comments URL: https://news.ycombinator.com/item?id=49153374 Points: 532 # Comments: 437",
       "source": "Hacker News",
       "published": "2026-08-03T09:32:07+00:00",
       "link": "https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code/"
@@ -1323,83 +1400,6 @@ const FEED_DATA = {
       "source": "Hacker News",
       "published": "2026-07-30T12:36:38+00:00",
       "link": "https://openjdk.org/legal/ai"
-    },
-    {
-      "title": "The Download: tricking LLMs, and reviving geothermal plants",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.",
-      "source": "MIT Tech Review",
-      "published": "2026-07-30T12:10:00+00:00",
-      "link": "https://www.technologyreview.com/2026/07/30/1140936/the-download-tricking-llms-reviving-geothermal/"
-    },
-    {
-      "title": "Go LLM SDK for streaming, tool-calling AI backends (plus frontend React lib)",
-      "summary": "Article URL: https://github.com/grafana/ai-sdk Comments URL: https://news.ycombinator.com/item?id=49108778 Points: 59 # Comments: 16",
-      "source": "Hacker News",
-      "published": "2026-07-30T11:55:39+00:00",
-      "link": "https://github.com/grafana/ai-sdk"
-    },
-    {
-      "title": "GCC steering committee announces AI policy",
-      "summary": "Article URL: https://lwn.net/Articles/1086041/ Comments URL: https://news.ycombinator.com/item?id=49108685 Points: 348 # Comments: 420",
-      "source": "Hacker News",
-      "published": "2026-07-30T11:45:44+00:00",
-      "link": "https://lwn.net/Articles/1086041/"
-    },
-    {
-      "title": "'My life's screwed': Korean investors stress out after AI bubble bursts",
-      "summary": "Article URL: https://www.ft.com/content/23f388eb-e8ab-4fb1-b1ca-8e04eb4561a1 Comments URL: https://news.ycombinator.com/item?id=49108480 Points: 57 # Comments: 44",
-      "source": "Hacker News",
-      "published": "2026-07-30T11:22:19+00:00",
-      "link": "https://www.ft.com/content/23f388eb-e8ab-4fb1-b1ca-8e04eb4561a1"
-    },
-    {
-      "title": "Zuckerberg details Meta’s personal AI superintelligence strategy",
-      "summary": "Mark Zuckerberg has published a WSJ op-ed that argues superintelligence must reach individuals, not just a handful of institutions. The Meta chief published the piece as a statement of company philosophy rather than a product announcement.",
-      "source": "AI News",
-      "published": "2026-07-30T11:12:11+00:00",
-      "link": "https://www.artificialintelligence-news.com/news/zuckerberg-details-meta-personal-ai-superintelligence-strategy/"
-    },
-    {
-      "title": "How AI is Changing Linux VPS Security for Businesses",
-      "summary": "Cybersecurity wasn’t really something small and mid-sized businesses worried about too much a few years back. That’s changed fast.",
-      "source": "AI News",
-      "published": "2026-07-30T10:41:02+00:00",
-      "link": "https://www.artificialintelligence-news.com/news/how-ai-is-changing-linux-vps-security-for-businesses/"
-    },
-    {
-      "title": "OpenAI’s Hacking Debacle Comes Down to Human Error",
-      "summary": "If the generative AI giant had followed well-known security best practices, it’s likely that its AI agent would never have escaped to the open internet and hacked multiple companies.",
-      "source": "Wired",
-      "published": "2026-07-30T10:30:00+00:00",
-      "link": "https://www.wired.com/story/openais-hacking-debacle-was-a-human-mistake/"
-    },
-    {
-      "title": "OpenAI’s Hacking Debacle Was a Human Mistake",
-      "summary": "If the generative AI giant had followed well-known security best practices, it’s likely that its AI agent would never have escaped to the open internet and hacked multiple companies.",
-      "source": "Wired",
-      "published": "2026-07-30T10:30:00+00:00",
-      "link": "https://www.wired.com/story/openais-hacking-debacle-was-a-human-mistake/"
-    },
-    {
-      "title": "A fundamental flaw leaves LLMs strikingly vulnerable to attack",
-      "summary": "It is impossible to make large language models fully secure against hacks because of a fundamental flaw in how they work, a team of researchers argue in a paper presented at the International Conference on Machine Learning, a top AI conference, this month.",
-      "source": "MIT Tech Review",
-      "published": "2026-07-30T10:15:19+00:00",
-      "link": "https://www.technologyreview.com/2026/07/30/1140927/a-fundamental-flaw-leaves-llms-vulnerable-to-attack/"
-    },
-    {
-      "title": "LinkedIn Won’t Be Expanding Its Data Centers in the Next Year",
-      "summary": "Despite the ongoing AI boom, LinkedIn is holding the line on compute spending. Instead, it’s challenging engineers to make every GPU count.",
-      "source": "Wired",
-      "published": "2026-07-30T10:15:00+00:00",
-      "link": "https://www.wired.com/story/how-linkedin-is-keeping-its-compute-capacity-flat/"
-    },
-    {
-      "title": "AI Scammers Are Better at Building Trust Than Humans",
-      "summary": "Researchers pitted a person against a Claude agent and found that, after a week of texting, the AI chatbot was more effective at creating “exploitable trust” with others.",
-      "source": "Wired",
-      "published": "2026-07-30T09:30:00+00:00",
-      "link": "https://www.wired.com/story/ai-scammers-are-better-at-building-trust-than-humans/"
     }
   ]
 };
