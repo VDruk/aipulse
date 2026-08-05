@@ -1,12 +1,54 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-08-05T07:41:07.866897+00:00",
+  "lastUpdated": "2026-08-05T11:09:26.877562+00:00",
   "items": [
+    {
+      "title": "AI makes weather prediction better. Can WindBorne make it lucrative?",
+      "summary": "WindBorne Systems has raised $37 million Series B round to scale its weather balloons and AI forecasts.",
+      "source": "TechCrunch",
+      "published": "2026-08-05T11:00:00+00:00",
+      "link": "https://techcrunch.com/2026/08/05/ai-makes-weather-prediction-better-can-windborne-make-it-lucrative/"
+    },
+    {
+      "title": "US appeals court allows Perplexity's AI shopping agent back on Amazon",
+      "summary": "A US appeals court has overturned Amazon's injunction against Perplexity's AI shopping agents, ruling that it's the users who access Amazon, not the startup.",
+      "source": "The Decoder",
+      "published": "2026-08-05T10:31:42+00:00",
+      "link": "https://the-decoder.com/us-appeals-court-allows-perplexitys-ai-shopping-agent-back-on-amazon/"
+    },
+    {
+      "title": "Trump’s AI testing plan is limited and vague",
+      "summary": "The Trump administration's framework for assessing potential cybersecurity risks posed by advanced AI reportedly has no interest in testing open models.",
+      "source": "The Verge",
+      "published": "2026-08-05T10:29:47+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/975509/white-house-ai-framework-open-models-excluded"
+    },
+    {
+      "title": "An AI agent went rogue during UK safety tests, creating fake identities and launching social engineering attacks unprompted",
+      "summary": "In a security test by the British AI Safety Institute, an AI agent went rogue on the open internet without being told to. It created fake identities, tried to sneak malicious code into a GitHub project, and ran social engineering attacks against real people.",
+      "source": "The Decoder",
+      "published": "2026-08-05T10:15:49+00:00",
+      "link": "https://the-decoder.com/an-ai-agent-went-rogue-during-uk-safety-tests-creating-fake-identities-and-launching-social-engineering-attacks-unprompted/"
+    },
     {
       "title": "The AI Notetaker Has Been Invited to All the Meetings",
       "summary": "Wispr Flow, a popular dictation tool, has released a live notetaker that transcribes and summarizes meetings. It joins a growing wave of AI notetakers for the workplace.",
       "source": "Wired",
       "published": "2026-08-05T07:00:00+00:00",
       "link": "https://www.wired.com/story/ai-notetakers-invited-to-the-meetings/"
+    },
+    {
+      "title": "Rust-lang/rust is adopting an LLM policy",
+      "summary": "Article URL: https://blog.rust-lang.org/inside-rust/2026/08/05/rust-langrust-is-adopting-an-llm-policy/ Comments URL: https://news.ycombinator.com/item?id=49179039 Points: 71 # Comments: 53",
+      "source": "Hacker News",
+      "published": "2026-08-05T05:52:24+00:00",
+      "link": "https://blog.rust-lang.org/inside-rust/2026/08/05/rust-langrust-is-adopting-an-llm-policy/"
+    },
+    {
+      "title": "Zero-Mem: Zero-Token Memory Operations for LLM Agents",
+      "summary": "Article URL: https://arxiv.org/abs/2607.29377 Comments URL: https://news.ycombinator.com/item?id=49178608 Points: 51 # Comments: 10",
+      "source": "Hacker News",
+      "published": "2026-08-05T04:36:44+00:00",
+      "link": "https://arxiv.org/abs/2607.29377"
     },
     {
       "title": "OK, Well, Rogue AI Agents Are Hacking Again",
@@ -21,6 +63,20 @@ const FEED_DATA = {
       "source": "Wired",
       "published": "2026-08-04T22:06:07+00:00",
       "link": "https://www.wired.com/story/the-white-house-is-keeping-its-ai-cybersecurity-framework-secret/"
+    },
+    {
+      "title": "AI fuels more than half of cybercrime in Africa as scams surge – Interpol",
+      "summary": "https://www.interpol.int/Media/Documents/Publications/Cyberc... Comments URL: https://news.ycombinator.com/item?id=49175826 Points: 254 # Comments: 196",
+      "source": "Hacker News",
+      "published": "2026-08-04T22:01:41+00:00",
+      "link": "https://www.africanews.com/2026/08/04/ai-fuels-more-than-half-of-cybercrime-in-africa-as-digital-scams-surge-interpol/"
+    },
+    {
+      "title": "Security Incident INC-2026-07-28-01 – UK AI Security Institute [pdf]",
+      "summary": "Article URL: https://cdn.prod.website-files.com/663bd486c5e4c81588db7a1d/6a724858f7db25c81487016d_Security%20Incident%20INC-2026-07-28-01.pdf Comments URL: https://news.ycombinator.com/item?id=49175717 Points: 58 # Comments: 47",
+      "source": "Hacker News",
+      "published": "2026-08-04T21:52:58+00:00",
+      "link": "https://cdn.prod.website-files.com/663bd486c5e4c81588db7a1d/6a724858f7db25c81487016d_Security%20Incident%20INC-2026-07-28-01.pdf"
     },
     {
       "title": "AMD’s data center business is booming while gaming takes a backseat",
@@ -73,7 +129,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI Data Centers Are Driving Up Power Bills – This Map Shows Where",
-      "summary": "Article URL: https://www.gadgetreview.com/ai-data-centers-are-driving-up-power-bills-this-map-shows-where Comments URL: https://news.ycombinator.com/item?id=49172433 Points: 58 # Comments: 20",
+      "summary": "Article URL: https://www.gadgetreview.com/ai-data-centers-are-driving-up-power-bills-this-map-shows-where Comments URL: https://news.ycombinator.com/item?id=49172433 Points: 67 # Comments: 22",
       "source": "Hacker News",
       "published": "2026-08-04T17:57:15+00:00",
       "link": "https://www.gadgetreview.com/ai-data-centers-are-driving-up-power-bills-this-map-shows-where"
@@ -108,14 +164,14 @@ const FEED_DATA = {
     },
     {
       "title": "When AI Benchmarks Plateau: A Systematic Study of Benchmark Saturation",
-      "summary": "Article URL: https://arxiv.org/abs/2602.16763 Comments URL: https://news.ycombinator.com/item?id=49170915 Points: 62 # Comments: 70",
+      "summary": "Article URL: https://arxiv.org/abs/2602.16763 Comments URL: https://news.ycombinator.com/item?id=49170915 Points: 100 # Comments: 99",
       "source": "Hacker News",
       "published": "2026-08-04T16:10:39+00:00",
       "link": "https://arxiv.org/abs/2602.16763"
     },
     {
       "title": "The AI Demand Bubble",
-      "summary": "Article URL: https://www.wheresyoured.at/the-ai-demand-bubble/ Comments URL: https://news.ycombinator.com/item?id=49170648 Points: 100 # Comments: 112",
+      "summary": "Article URL: https://www.wheresyoured.at/the-ai-demand-bubble/ Comments URL: https://news.ycombinator.com/item?id=49170648 Points: 106 # Comments: 136",
       "source": "Hacker News",
       "published": "2026-08-04T15:51:51+00:00",
       "link": "https://www.wheresyoured.at/the-ai-demand-bubble/"
@@ -126,6 +182,13 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-08-04T15:50:06+00:00",
       "link": "https://techcrunch.com/2026/08/04/spotify-adds-merlin-to-its-ai-music-remix-and-covers-effort/"
+    },
+    {
+      "title": "Cloudflare enforces engineering standards using AI",
+      "summary": "Article URL: https://blog.cloudflare.com/engineering-standards-enforcement/ Comments URL: https://news.ycombinator.com/item?id=49170628 Points: 50 # Comments: 5",
+      "source": "Hacker News",
+      "published": "2026-08-04T15:49:50+00:00",
+      "link": "https://blog.cloudflare.com/engineering-standards-enforcement/"
     },
     {
       "title": "Anthropic locks in $10 billion of compute from Volta, a cloud startup that didn't exist six months ago",
@@ -143,7 +206,7 @@ const FEED_DATA = {
     },
     {
       "title": "It's not a fear of \"AI communism\"; it's a fear of competitive market capitalism",
-      "summary": "Article URL: http://observationalepidemiology.blogspot.com/2026/07/its-not-fear-of-ai-communism-its-fear.html Comments URL: https://news.ycombinator.com/item?id=49169227 Points: 71 # Comments: 68",
+      "summary": "Article URL: http://observationalepidemiology.blogspot.com/2026/07/its-not-fear-of-ai-communism-its-fear.html Comments URL: https://news.ycombinator.com/item?id=49169227 Points: 89 # Comments: 80",
       "source": "Hacker News",
       "published": "2026-08-04T14:07:30+00:00",
       "link": "http://observationalepidemiology.blogspot.com/2026/07/its-not-fear-of-ai-communism-its-fear.html"
@@ -170,7 +233,7 @@ const FEED_DATA = {
       "link": "https://the-decoder.com/silicon-valleys-rift-over-open-source-pushes-back-contemplated-white-house-bans-on-chinese-ai/"
     },
     {
-      "title": "The Download: US robot restrictions, and ICE’s DNA grab",
+      "title": "The Download: US robot restrictions and ICE’s DNA grab",
       "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.",
       "source": "MIT Tech Review",
       "published": "2026-08-04T12:14:00+00:00",
@@ -178,7 +241,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI-Generated Images Discourage Me from Reading Your Blog",
-      "summary": "Article URL: https://nelson.cloud/ai-generated-images-discourage-me-from-reading-your-blog/ Comments URL: https://news.ycombinator.com/item?id=49167113 Points: 715 # Comments: 429",
+      "summary": "Article URL: https://nelson.cloud/ai-generated-images-discourage-me-from-reading-your-blog/ Comments URL: https://news.ycombinator.com/item?id=49167113 Points: 764 # Comments: 443",
       "source": "Hacker News",
       "published": "2026-08-04T11:30:17+00:00",
       "link": "https://nelson.cloud/ai-generated-images-discourage-me-from-reading-your-blog/"
@@ -248,7 +311,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI's debt binge can't last, hidden borrowing reaches $1.65T",
-      "summary": "Article URL: https://fortune.com/2026/07/31/ai-debt-hypescalers-capex-capital-spending-hidden-borrowing-bond-issuance/ Comments URL: https://news.ycombinator.com/item?id=49160699 Points: 142 # Comments: 174",
+      "summary": "Article URL: https://fortune.com/2026/07/31/ai-debt-hypescalers-capex-capital-spending-hidden-borrowing-bond-issuance/ Comments URL: https://news.ycombinator.com/item?id=49160699 Points: 143 # Comments: 175",
       "source": "Hacker News",
       "published": "2026-08-03T20:02:21+00:00",
       "link": "https://fortune.com/2026/07/31/ai-debt-hypescalers-capex-capital-spending-hidden-borrowing-bond-issuance/"
@@ -318,7 +381,7 @@ const FEED_DATA = {
     },
     {
       "title": "What's the largest software project AI can complete on its own?",
-      "summary": "Article URL: https://epoch.ai/MirrorCode Comments URL: https://news.ycombinator.com/item?id=49157786 Points: 99 # Comments: 105",
+      "summary": "Article URL: https://epoch.ai/MirrorCode Comments URL: https://news.ycombinator.com/item?id=49157786 Points: 102 # Comments: 105",
       "source": "Hacker News",
       "published": "2026-08-03T16:16:40+00:00",
       "link": "https://epoch.ai/MirrorCode"
@@ -352,7 +415,7 @@ const FEED_DATA = {
       "link": "https://the-decoder.com/chinas-minimax-h3-is-the-first-open-model-to-top-an-ai-video-ranking/"
     },
     {
-      "title": "The Download: reward hacking explained, and suspected Iranian cyberattacks",
+      "title": "The Download: reward hacking explained and suspected Iranian cyberattacks",
       "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.",
       "source": "MIT Tech Review",
       "published": "2026-08-03T12:08:00+00:00",
@@ -367,21 +430,21 @@ const FEED_DATA = {
     },
     {
       "title": "The AI bubble is popping; we just don't know it yet",
-      "summary": "Article URL: https://www.theregister.com/ai-and-ml/2026/08/03/the-ai-bubble-is-already-popping-we-just-dont-know-it-yet/5282004 Comments URL: https://news.ycombinator.com/item?id=49154601 Points: 79 # Comments: 147",
+      "summary": "Article URL: https://www.theregister.com/ai-and-ml/2026/08/03/the-ai-bubble-is-already-popping-we-just-dont-know-it-yet/5282004 Comments URL: https://news.ycombinator.com/item?id=49154601 Points: 81 # Comments: 147",
       "source": "Hacker News",
       "published": "2026-08-03T11:59:10+00:00",
       "link": "https://www.theregister.com/ai-and-ml/2026/08/03/the-ai-bubble-is-already-popping-we-just-dont-know-it-yet/5282004"
     },
     {
       "title": "SQLite Critical CVEs or LLM Slop?",
-      "summary": "Article URL: https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/ Comments URL: https://news.ycombinator.com/item?id=49154332 Points: 720 # Comments: 371",
+      "summary": "Article URL: https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/ Comments URL: https://news.ycombinator.com/item?id=49154332 Points: 721 # Comments: 372",
       "source": "Hacker News",
       "published": "2026-08-03T11:28:54+00:00",
       "link": "https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/"
     },
     {
       "title": "Show HN: Nightcrawler – A local AI pentesting agent running on a smartphone",
-      "summary": "Article URL: https://github.com/garagehq/nightcrawler/ Comments URL: https://news.ycombinator.com/item?id=49154127 Points: 114 # Comments: 32",
+      "summary": "Article URL: https://github.com/garagehq/nightcrawler/ Comments URL: https://news.ycombinator.com/item?id=49154127 Points: 118 # Comments: 34",
       "source": "Hacker News",
       "published": "2026-08-03T11:06:15+00:00",
       "link": "https://github.com/garagehq/nightcrawler/"
@@ -437,7 +500,7 @@ const FEED_DATA = {
     },
     {
       "title": "Prevent cognitive debt by manually retyping LLM-generated code",
-      "summary": "Article URL: https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code/ Comments URL: https://news.ycombinator.com/item?id=49153374 Points: 521 # Comments: 434",
+      "summary": "Article URL: https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code/ Comments URL: https://news.ycombinator.com/item?id=49153374 Points: 532 # Comments: 436",
       "source": "Hacker News",
       "published": "2026-08-03T09:32:07+00:00",
       "link": "https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code/"
@@ -458,14 +521,14 @@ const FEED_DATA = {
     },
     {
       "title": "The AI Productivity Gap",
-      "summary": "Article URL: https://bjorg.bjornroche.com/management/ai-productivity-gap/ Comments URL: https://news.ycombinator.com/item?id=49152222 Points: 134 # Comments: 109",
+      "summary": "Article URL: https://bjorg.bjornroche.com/management/ai-productivity-gap/ Comments URL: https://news.ycombinator.com/item?id=49152222 Points: 137 # Comments: 110",
       "source": "Hacker News",
       "published": "2026-08-03T07:07:20+00:00",
       "link": "https://bjorg.bjornroche.com/management/ai-productivity-gap/"
     },
     {
       "title": "AI migrated legacy COBOL programs to Java, bugs included",
-      "summary": "Article URL: https://arxiv.org/abs/2607.28271 Comments URL: https://news.ycombinator.com/item?id=49150773 Points: 94 # Comments: 97",
+      "summary": "Article URL: https://arxiv.org/abs/2607.28271 Comments URL: https://news.ycombinator.com/item?id=49150773 Points: 96 # Comments: 98",
       "source": "Hacker News",
       "published": "2026-08-03T03:06:12+00:00",
       "link": "https://arxiv.org/abs/2607.28271"
@@ -1337,69 +1400,6 @@ const FEED_DATA = {
       "source": "Wired",
       "published": "2026-07-30T09:30:00+00:00",
       "link": "https://www.wired.com/story/ai-scammers-are-better-at-building-trust-than-humans/"
-    },
-    {
-      "title": "OpenAI claims GPT-5.6 Sol beats Opus 5 on ARC-AGI-3 with its latest API and two additional settings",
-      "summary": "OpenAI counters Anthropic's ARC-AGI-3 record: GPT-5.6 Sol scores 38.3 percent, but only with its own API features instead of the official test setup, where the model landed at 7.8 percent.",
-      "source": "The Decoder",
-      "published": "2026-07-30T09:03:11+00:00",
-      "link": "https://the-decoder.com/openai-claims-gpt-5-6-sol-beats-opus-5-on-arc-agi-3-with-its-latest-api-and-two-additional-settings/"
-    },
-    {
-      "title": "I Got a Free Meal From a Private Chef—Who Filmed It All to Train Robots",
-      "summary": "A German startup sent a camera-wearing chef to my apartment. In exchange for a free lunch, I let them record every chop and stir to train future humanoids.",
-      "source": "Wired",
-      "published": "2026-07-30T09:00:00+00:00",
-      "link": "https://www.wired.com/story/i-let-a-private-chef-film-my-kitchen-for-robot-training-data/"
-    },
-    {
-      "title": "Microsoft is openly competing with OpenAI, Anthropic more than ever",
-      "summary": "Microsoft pitched its own homegrown AI models, harnesses, and even a Mythos competitor on Wednesday, telling Wall Street it plans for continued growth.",
-      "source": "TechCrunch",
-      "published": "2026-07-30T00:21:06+00:00",
-      "link": "https://techcrunch.com/2026/07/29/microsoft-is-openly-competing-with-openai-anthropic-more-than-ever/"
-    },
-    {
-      "title": "Mark Zuckerberg predicts that billions of people will have personal AI agents in five years",
-      "summary": "As Meta pours billions into AI infrastructure and agents, Zuckerberg is working to convince investors that the payoff will be worth the price.",
-      "source": "TechCrunch",
-      "published": "2026-07-29T23:00:11+00:00",
-      "link": "https://techcrunch.com/2026/07/29/mark-zuckerberg-predicts-that-billions-of-people-will-have-personal-ai-agents-in-five-years/"
-    },
-    {
-      "title": "LLM Honeypot",
-      "summary": "Article URL: https://llm2human.pages.dev/ Comments URL: https://news.ycombinator.com/item?id=49104117 Points: 383 # Comments: 107",
-      "source": "Hacker News",
-      "published": "2026-07-29T22:51:03+00:00",
-      "link": "https://llm2human.pages.dev/"
-    },
-    {
-      "title": "Microsoft logs $3.2B from Anthropic investment, but OpenAI was a mixed bag",
-      "summary": "When Microsoft reported killer fourth-quarter earnings for its fiscal 2026 year (which ended June 30), it tucked in an interesting little tidbit about how its investments in the two biggest, and competing, AI labs are doing.",
-      "source": "TechCrunch",
-      "published": "2026-07-29T22:46:03+00:00",
-      "link": "https://techcrunch.com/2026/07/29/microsoft-logs-3-2b-from-anthropic-investment-but-openai-was-a-mixed-bag/"
-    },
-    {
-      "title": "Zuckerberg says Meta’s enterprise AI opportunity extends beyond agents",
-      "summary": "On the company’s second-quarter earnings call Wednesday, CEO Mark Zuckerberg said Meta sees a “large enterprise opportunity” spanning AI agents, APIs, compute, and internal software.",
-      "source": "TechCrunch",
-      "published": "2026-07-29T22:23:12+00:00",
-      "link": "https://techcrunch.com/2026/07/29/zuckerberg-says-metas-enterprise-ai-opportunity-extends-beyond-agents/"
-    },
-    {
-      "title": "Microsoft confirms Copilot ‘super app’ coming this year",
-      "summary": "Microsoft is working on an AI \"super app\" that combines Copilot's chat, coding, and agentic capabilities. During an earnings call on Wednesday, Microsoft CEO Satya Nadella said the app will span \"both consumer and commercial experiences\" when it launches this year.",
-      "source": "The Verge",
-      "published": "2026-07-29T22:17:38+00:00",
-      "link": "https://www.theverge.com/tech/972927/microsoft-copilot-super-app-confirmed"
-    },
-    {
-      "title": "Mark Zuckerberg is planning a big push into personal AI agents",
-      "summary": "Meta is all-in on AI, and sometime soon, the company is going to make a big push into personal AI agents that can do things on your behalf.",
-      "source": "The Verge",
-      "published": "2026-07-29T21:48:07+00:00",
-      "link": "https://www.theverge.com/tech/972294/meta-q2-2026-earnings-mark-zuckerberg-personal-ai-agents"
     }
   ]
 };
