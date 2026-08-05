@@ -1,6 +1,13 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-08-05T04:06:20.555293+00:00",
+  "lastUpdated": "2026-08-05T07:41:07.866897+00:00",
   "items": [
+    {
+      "title": "The AI Notetaker Has Been Invited to All the Meetings",
+      "summary": "Wispr Flow, a popular dictation tool, has released a live notetaker that transcribes and summarizes meetings. It joins a growing wave of AI notetakers for the workplace.",
+      "source": "Wired",
+      "published": "2026-08-05T07:00:00+00:00",
+      "link": "https://www.wired.com/story/ai-notetakers-invited-to-the-meetings/"
+    },
     {
       "title": "OK, Well, Rogue AI Agents Are Hacking Again",
       "summary": "Rogue AI agents from OpenAI and Anthropic have again been caught trying to disrupt servers and software—and leaving instructions for future bad behavior.",
@@ -1393,13 +1400,6 @@ const FEED_DATA = {
       "source": "The Verge",
       "published": "2026-07-29T21:48:07+00:00",
       "link": "https://www.theverge.com/tech/972294/meta-q2-2026-earnings-mark-zuckerberg-personal-ai-agents"
-    },
-    {
-      "title": "AI's top startups are barely publishing their research",
-      "summary": "Article URL: https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research Comments URL: https://news.ycombinator.com/item?id=49103285 Points: 611 # Comments: 317",
-      "source": "Hacker News",
-      "published": "2026-07-29T21:25:40+00:00",
-      "link": "https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research"
     }
   ]
 };
