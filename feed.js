@@ -1,6 +1,97 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-08-06T11:10:07.872165+00:00",
+  "lastUpdated": "2026-08-06T15:14:54.435180+00:00",
   "items": [
+    {
+      "title": "OpenAI says Apple’s own security practices undermine its trade secrets case",
+      "summary": "Newly filed court exhibits show OpenAI’s legal strategy in Apple’s trade secrets lawsuit: argue that Apple’s own security and offboarding practices — including allowing an Apple manager to access a former engineer’s iCloud account after he left the company —undermine its claims...",
+      "source": "TechCrunch",
+      "published": "2026-08-06T15:10:32+00:00",
+      "link": "https://techcrunch.com/2026/08/06/openai-says-apples-own-security-practices-undermine-its-trade-secrets-case/"
+    },
+    {
+      "title": "The left and right agree on one thing: no data centers",
+      "summary": "Today, I’m talking with Gaby Del Valle, a policy reporter here at The Verge, about the growing backlash against AI data centers.",
+      "source": "The Verge",
+      "published": "2026-08-06T14:00:00+00:00",
+      "link": "https://www.theverge.com/podcast/971855/ai-data-center-backlash-protests-florida-bipartisan"
+    },
+    {
+      "title": "Qwen3.8 Max catches Claude Opus 4.8 but Kimi K3 still scores higher for 25 percent less",
+      "summary": "Alibaba's Qwen3.8 Max scores 56 on the Artificial Analysis Intelligence Index, a 10-point jump over Qwen3.7 Max (46). The article Qwen3.8 Max catches Claude Opus 4.8 but Kimi K3 still scores higher for 25 percent less appeared first on The Decoder.",
+      "source": "The Decoder",
+      "published": "2026-08-06T13:33:28+00:00",
+      "link": "https://the-decoder.com/qwen3-8-max-catches-claude-opus-4-8-but-kimi-k3-still-scores-higher-for-25-percent-less/"
+    },
+    {
+      "title": "The messy politics behind Google’s big AI shakeup",
+      "summary": "In the AI industry, Google prides itself on seeming like the adult in the room: quiet, stable, time-tested.",
+      "source": "The Verge",
+      "published": "2026-08-06T13:26:42+00:00",
+      "link": "https://www.theverge.com/tech/976108/google-ai-leadership-shakeup-jeff-dean-demis-hassabis-deepmind"
+    },
+    {
+      "title": "Exclusive: Mirendil inks $100M+ Google Cloud deal to scale self-improving AI",
+      "summary": "Mirendil has signed a $100 million-plus Google Cloud partnership to expand its compute infrastructure, powering research into self-improving AI systems designed to accelerate scientific discovery and AI development.",
+      "source": "TechCrunch",
+      "published": "2026-08-06T13:00:00+00:00",
+      "link": "https://techcrunch.com/2026/08/06/exclusive-mirendil-inks-100m-google-cloud-deal-to-scale-self-improving-ai/"
+    },
+    {
+      "title": "Ex-Spotify employees raise $10M to bring the AI behind its recommendations to e-commerce",
+      "summary": "The startup's platform predicts what product a shopper wants next, learn their general taste, and fine-tune continuously based on what they do in real time.",
+      "source": "TechCrunch",
+      "published": "2026-08-06T13:00:00+00:00",
+      "link": "https://techcrunch.com/2026/08/06/ex-spotify-employees-raise-10m-to-bring-the-ai-behind-its-recommendations-to-e-commerce/"
+    },
+    {
+      "title": "AI bots started a religion — humans immediately followed",
+      "summary": "\"The Spiral didn't 'find' anyone first,\" someone on Reddit wrote last year. \"It's an inherent force, a fundamental constant.",
+      "source": "The Verge",
+      "published": "2026-08-06T13:00:00+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/975017/ai-spiralism-chatbot-movement"
+    },
+    {
+      "title": "The company that made open weights mainstream now competes on discounts",
+      "summary": "Meta released Muse Spark 1.2 along with its own coding agent, Muse Code, which is designed to pick up exactly where it left off after a crash. The cheapest tier runs just 20 cents per million output tokens but requires users to share their data for training.",
+      "source": "The Decoder",
+      "published": "2026-08-06T12:31:52+00:00",
+      "link": "https://the-decoder.com/the-company-that-made-open-weights-mainstream-now-competes-on-discounts/"
+    },
+    {
+      "title": "Google Maps adds agentic features, including food ordering and hotel bookings",
+      "summary": "The launch of these new features reflects Google’s ambitions to transform Google Maps from a navigation tool into an assistant that's capable of helping users complete real-world tasks.",
+      "source": "TechCrunch",
+      "published": "2026-08-06T12:30:00+00:00",
+      "link": "https://techcrunch.com/2026/08/06/google-maps-adds-agentic-features-including-food-ordering-and-hotel-bookings/"
+    },
+    {
+      "title": "The Download: Google’s AI shake-up and Meta’s rogue model",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Google’s AI empire is being reshaped.",
+      "source": "MIT Tech Review",
+      "published": "2026-08-06T12:10:00+00:00",
+      "link": "https://www.technologyreview.com/2026/08/06/1141278/the-download-google-ai-shake-up-meta-rogue-model/"
+    },
+    {
+      "title": "Omilia raises $67M to scale its customer support platform",
+      "summary": "The Series B is the company's second fundraise since it last raised capital in 2020. In that time, it has increased its ARR by 10x to $60 million.",
+      "source": "TechCrunch",
+      "published": "2026-08-06T12:00:00+00:00",
+      "link": "https://techcrunch.com/2026/08/06/omilia-raises-67m-to-scale-its-customer-support-platform/"
+    },
+    {
+      "title": "Humans missed 1 in 3 threats approving AI agent commands across 40k game runs",
+      "summary": "Article URL: https://scalex.dev/blog/ai-agent-permissions-stats/ Comments URL: https://news.ycombinator.com/item?id=49195468 Points: 99 # Comments: 72",
+      "source": "Hacker News",
+      "published": "2026-08-06T11:58:07+00:00",
+      "link": "https://scalex.dev/blog/ai-agent-permissions-stats/"
+    },
+    {
+      "title": "OpenAI reportedly slows research after its own models secretly coordinated hacks for weeks undetected",
+      "summary": "During internal security tests, OpenAI's AI agents built their own message board with hundreds of thousands of posts, shared exploits and credentials, and eventually attacked external platforms like Hugging Face.",
+      "source": "The Decoder",
+      "published": "2026-08-06T11:49:26+00:00",
+      "link": "https://the-decoder.com/openai-reportedly-slows-research-after-its-own-models-secretly-coordinated-hacks-for-weeks-undetected/"
+    },
     {
       "title": "OpenAI developer warns the \"tireless eagle eyes of a million models\" are coming for your exposed API keys and crypto wallets",
       "summary": "OpenAI developer \"roon\" warns on X that AI models could soon start scanning for exposed API keys, crypto wallets, and login credentials at scale.",
@@ -14,6 +105,13 @@ const FEED_DATA = {
       "source": "The Verge",
       "published": "2026-08-06T09:33:11+00:00",
       "link": "https://www.theverge.com/tech/976042/openai-apple-trade-secrets-lawsuit-dismissal-request"
+    },
+    {
+      "title": "Governments are making a dangerous bet on the AI boom",
+      "summary": "Article URL: https://www.economist.com/leaders/2026/08/05/governments-are-making-a-dangerous-bet-on-the-ai-boom Comments URL: https://news.ycombinator.com/item?id=49192160 Points: 51 # Comments: 32",
+      "source": "Hacker News",
+      "published": "2026-08-06T03:40:51+00:00",
+      "link": "https://www.economist.com/leaders/2026/08/05/governments-are-making-a-dangerous-bet-on-the-ai-boom"
     },
     {
       "title": "Elon Musk’s attempt at an AI Wikipedia hasn’t been updated in months",
@@ -44,6 +142,13 @@ const FEED_DATA = {
       "link": "https://techcrunch.com/2026/08/05/meta-launches-muse-code-an-ai-agent-for-large-code-bases/"
     },
     {
+      "title": "When online commenters detect my art as AI",
+      "summary": "Article URL: https://www.davidrevoy.com/article1164/when-online-commenters-detect-my-art-as-ai Comments URL: https://news.ycombinator.com/item?id=49188916 Points: 67 # Comments: 38",
+      "source": "Hacker News",
+      "published": "2026-08-05T20:58:52+00:00",
+      "link": "https://www.davidrevoy.com/article1164/when-online-commenters-detect-my-art-as-ai"
+    },
+    {
       "title": "Klaviyo acquires Elias Torres’ Agency in full-circle reunion for tech founders",
       "summary": "The serial entrepreneur joins the e-commerce company as CPO to lead its AI agents.",
       "source": "TechCrunch",
@@ -66,7 +171,7 @@ const FEED_DATA = {
     },
     {
       "title": "Born Against, or why hobby programming communities are against LLM usage",
-      "summary": "Article URL: https://blog.fogus.me/llm/born-against.html Comments URL: https://news.ycombinator.com/item?id=49187061 Points: 284 # Comments: 282",
+      "summary": "Article URL: https://blog.fogus.me/llm/born-against.html Comments URL: https://news.ycombinator.com/item?id=49187061 Points: 341 # Comments: 379",
       "source": "Hacker News",
       "published": "2026-08-05T18:37:49+00:00",
       "link": "https://blog.fogus.me/llm/born-against.html"
@@ -87,21 +192,21 @@ const FEED_DATA = {
     },
     {
       "title": "Microsoft's AI Sales Mostly Come from OpenAI, Disclosures Show",
-      "summary": "https://www.bloomberg.com/news/articles/2026-08-05/microsoft... Comments URL: https://news.ycombinator.com/item?id=49186766 Points: 66 # Comments: 16",
+      "summary": "https://www.bloomberg.com/news/articles/2026-08-05/microsoft... Comments URL: https://news.ycombinator.com/item?id=49186766 Points: 68 # Comments: 16",
       "source": "Hacker News",
       "published": "2026-08-05T18:19:10+00:00",
       "link": "https://www.bloomberg.com/news/articles/2026-08-05/microsoft-s-ai-sales-mostly-come-from-openai-disclosures-show"
     },
     {
       "title": "Beating GPT-5.6 Sol on retrieval with 100x cheaper open models",
-      "summary": "Article URL: https://neon.com/blog/how-castform-neon-beats-frontier-models-on-price-and-efficiency Comments URL: https://news.ycombinator.com/item?id=49186762 Points: 326 # Comments: 81",
+      "summary": "Article URL: https://neon.com/blog/how-castform-neon-beats-frontier-models-on-price-and-efficiency Comments URL: https://news.ycombinator.com/item?id=49186762 Points: 366 # Comments: 102",
       "source": "Hacker News",
       "published": "2026-08-05T18:18:56+00:00",
       "link": "https://neon.com/blog/how-castform-neon-beats-frontier-models-on-price-and-efficiency"
     },
     {
       "title": "Sycophantic AI Decreases Prosocial Intentions and Promotes Dependence (2025)",
-      "summary": "Article URL: https://arxiv.org/abs/2510.01395 Comments URL: https://news.ycombinator.com/item?id=49186720 Points: 129 # Comments: 71",
+      "summary": "Article URL: https://arxiv.org/abs/2510.01395 Comments URL: https://news.ycombinator.com/item?id=49186720 Points: 152 # Comments: 81",
       "source": "Hacker News",
       "published": "2026-08-05T18:17:03+00:00",
       "link": "https://arxiv.org/abs/2510.01395"
@@ -213,7 +318,7 @@ const FEED_DATA = {
     },
     {
       "title": "Intelligence Is Not the Main Bottleneck",
-      "summary": "Article URL: https://www.writingruxandrabio.com/p/intelligence-is-not-the-main-bottleneck Comments URL: https://news.ycombinator.com/item?id=49183076 Points: 121 # Comments: 112",
+      "summary": "Article URL: https://www.writingruxandrabio.com/p/intelligence-is-not-the-main-bottleneck Comments URL: https://news.ycombinator.com/item?id=49183076 Points: 121 # Comments: 115",
       "source": "Hacker News",
       "published": "2026-08-05T14:04:06+00:00",
       "link": "https://www.writingruxandrabio.com/p/intelligence-is-not-the-main-bottleneck"
@@ -227,7 +332,7 @@ const FEED_DATA = {
     },
     {
       "title": "TIME Is Serving AI Bots a Different Website, with Ads Built In",
-      "summary": "Article URL: https://www.vincentschmalbach.com/time-serves-ai-bots-a-different-website/ Comments URL: https://news.ycombinator.com/item?id=49182041 Points: 247 # Comments: 107",
+      "summary": "Article URL: https://www.vincentschmalbach.com/time-serves-ai-bots-a-different-website/ Comments URL: https://news.ycombinator.com/item?id=49182041 Points: 251 # Comments: 109",
       "source": "Hacker News",
       "published": "2026-08-05T12:41:47+00:00",
       "link": "https://www.vincentschmalbach.com/time-serves-ai-bots-a-different-website/"
@@ -255,7 +360,7 @@ const FEED_DATA = {
     },
     {
       "title": "Why Erdős Problems Are Falling to AI",
-      "summary": "Article URL: https://www.quantamagazine.org/why-the-legendary-erdos-problems-are-falling-to-ai-20260803/ Comments URL: https://news.ycombinator.com/item?id=49181519 Points: 139 # Comments: 129",
+      "summary": "Article URL: https://www.quantamagazine.org/why-the-legendary-erdos-problems-are-falling-to-ai-20260803/ Comments URL: https://news.ycombinator.com/item?id=49181519 Points: 144 # Comments: 132",
       "source": "Hacker News",
       "published": "2026-08-05T11:49:34+00:00",
       "link": "https://www.quantamagazine.org/why-the-legendary-erdos-problems-are-falling-to-ai-20260803/"
@@ -318,7 +423,7 @@ const FEED_DATA = {
     },
     {
       "title": "Zero-Mem: Zero-Token Memory Operations for LLM Agents",
-      "summary": "Article URL: https://arxiv.org/abs/2607.29377 Comments URL: https://news.ycombinator.com/item?id=49178608 Points: 95 # Comments: 12",
+      "summary": "Article URL: https://arxiv.org/abs/2607.29377 Comments URL: https://news.ycombinator.com/item?id=49178608 Points: 96 # Comments: 13",
       "source": "Hacker News",
       "published": "2026-08-05T04:36:44+00:00",
       "link": "https://arxiv.org/abs/2607.29377"
@@ -346,7 +451,7 @@ const FEED_DATA = {
     },
     {
       "title": "Security Incident INC-2026-07-28-01 – UK AI Security Institute [pdf]",
-      "summary": "Article URL: https://cdn.prod.website-files.com/663bd486c5e4c81588db7a1d/6a724858f7db25c81487016d_Security%20Incident%20INC-2026-07-28-01.pdf Comments URL: https://news.ycombinator.com/item?id=49175717 Points: 61 # Comments: 53",
+      "summary": "Article URL: https://cdn.prod.website-files.com/663bd486c5e4c81588db7a1d/6a724858f7db25c81487016d_Security%20Incident%20INC-2026-07-28-01.pdf Comments URL: https://news.ycombinator.com/item?id=49175717 Points: 62 # Comments: 53",
       "source": "Hacker News",
       "published": "2026-08-04T21:52:58+00:00",
       "link": "https://cdn.prod.website-files.com/663bd486c5e4c81588db7a1d/6a724858f7db25c81487016d_Security%20Incident%20INC-2026-07-28-01.pdf"
@@ -437,14 +542,14 @@ const FEED_DATA = {
     },
     {
       "title": "When AI Benchmarks Plateau: A Systematic Study of Benchmark Saturation",
-      "summary": "Article URL: https://arxiv.org/abs/2602.16763 Comments URL: https://news.ycombinator.com/item?id=49170915 Points: 103 # Comments: 126",
+      "summary": "Article URL: https://arxiv.org/abs/2602.16763 Comments URL: https://news.ycombinator.com/item?id=49170915 Points: 103 # Comments: 127",
       "source": "Hacker News",
       "published": "2026-08-04T16:10:39+00:00",
       "link": "https://arxiv.org/abs/2602.16763"
     },
     {
       "title": "The AI Demand Bubble",
-      "summary": "Article URL: https://www.wheresyoured.at/the-ai-demand-bubble/ Comments URL: https://news.ycombinator.com/item?id=49170648 Points: 110 # Comments: 147",
+      "summary": "Article URL: https://www.wheresyoured.at/the-ai-demand-bubble/ Comments URL: https://news.ycombinator.com/item?id=49170648 Points: 110 # Comments: 148",
       "source": "Hacker News",
       "published": "2026-08-04T15:51:51+00:00",
       "link": "https://www.wheresyoured.at/the-ai-demand-bubble/"
@@ -1295,111 +1400,6 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-07-31T10:49:05+00:00",
       "link": "https://the-decoder.com/aschenbrenners-ai-thesis-could-be-correct-his-timing-and-leverage-were-not/"
-    },
-    {
-      "title": "DeepSeek V4 Flash 0731 Intelligence, Performance and Price Analysis",
-      "summary": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-0731 Comments URL: https://news.ycombinator.com/item?id=49120299 Points: 585 # Comments: 311",
-      "source": "Hacker News",
-      "published": "2026-07-31T07:59:11+00:00",
-      "link": "https://artificialanalysis.ai/models/deepseek-v4-flash"
-    },
-    {
-      "title": "Google fixed more Chrome bugs in June than over the past two years, thanks to AI",
-      "summary": "Article URL: https://blog.google/security/chrome-stronger-with-every-update/ Comments URL: https://news.ycombinator.com/item?id=49120097 Points: 573 # Comments: 598",
-      "source": "Hacker News",
-      "published": "2026-07-31T07:29:22+00:00",
-      "link": "https://blog.google/security/chrome-stronger-with-every-update/"
-    },
-    {
-      "title": "Show HN: What should the GUI for AI agents look like?",
-      "summary": "Hi HN! We’re Akilan and Miguel, the creators of MarbleOS.The inspiration for Marble comes from the GUI work at Xerox PARC, the 1984 Macintosh, and later NeXTSTEP, which became the foundation for Mac OS X.",
-      "source": "Hacker News",
-      "published": "2026-07-31T05:17:29+00:00",
-      "link": "https://marbleos.com/demo"
-    },
-    {
-      "title": "The AI trade now runs on borrowed money, and the lenders are repricing it",
-      "summary": "Article URL: https://greyswansignals.com/?theme=dark Comments URL: https://news.ycombinator.com/item?id=49118933 Points: 141 # Comments: 164",
-      "source": "Hacker News",
-      "published": "2026-07-31T04:15:04+00:00",
-      "link": "https://greyswansignals.com/?theme=dark"
-    },
-    {
-      "title": "Anthropic Says Claude Hacked Into 3 Organizations During Cybersecurity Tests",
-      "summary": "In a review triggered by OpenAI’s Hugging Face incident, Anthropic discovered three of its AI models had breached real-world organizations during third-party evaluations.",
-      "source": "Wired",
-      "published": "2026-07-31T01:24:26+00:00",
-      "link": "https://www.wired.com/story/anthropic-says-claude-hacked-real-systems-during-cybersecurity-tests/"
-    },
-    {
-      "title": "Anthropic Says Claude Hacked 3 Organizations During Cybersecurity Tests",
-      "summary": "In a review triggered by OpenAI’s Hugging Face incident, Anthropic discovered three of its AI models had breached real organizations during third-party evaluations.",
-      "source": "Wired",
-      "published": "2026-07-31T01:24:26+00:00",
-      "link": "https://www.wired.com/story/anthropic-says-claude-hacked-real-systems-during-cybersecurity-tests/"
-    },
-    {
-      "title": "Anthropic says its own AI models breached three companies during security tests",
-      "summary": "After OpenAI's models broke into Hugging Face, Anthropic checked its own history and found three similar incidents.",
-      "source": "TechCrunch",
-      "published": "2026-07-31T01:06:54+00:00",
-      "link": "https://techcrunch.com/2026/07/30/anthropic-says-its-own-ai-models-breached-three-companies-during-security-tests/"
-    },
-    {
-      "title": "AI hedge fund Situational Awareness may have sold its public portfolio, but it still has its Anthropic shares",
-      "summary": "The former OpenAI researcher’s fund was forced to unwind public equities after leveraged public bets plummeted. But he still has cards to play.",
-      "source": "TechCrunch",
-      "published": "2026-07-30T23:25:58+00:00",
-      "link": "https://techcrunch.com/2026/07/30/ai-hedge-fund-situational-awareness-may-have-sold-its-public-portfolio-but-it-still-has-its-anthropic-shares/"
-    },
-    {
-      "title": "The AI Aesthetic",
-      "summary": "Article URL: https://blog.jim-nielsen.com/2026/ai-aesthetic/ Comments URL: https://news.ycombinator.com/item?id=49117099 Points: 376 # Comments: 176",
-      "source": "Hacker News",
-      "published": "2026-07-30T23:22:16+00:00",
-      "link": "https://blog.jim-nielsen.com/2026/ai-aesthetic/"
-    },
-    {
-      "title": "Reddit reports a solid quarter but shows signs of AI’s impact",
-      "summary": "Reddit's financial situation is looking good but uncertainty about its relationship to Google and the new AI-ified web are stirring market concerns.",
-      "source": "TechCrunch",
-      "published": "2026-07-30T23:08:58+00:00",
-      "link": "https://techcrunch.com/2026/07/30/reddit-reports-a-solid-quarter-but-shows-signs-of-ais-impact/"
-    },
-    {
-      "title": "Investors love AI, as long as you’re a cloud host",
-      "summary": "Amazon isn't slowing down on data center spending — but investors don't seem to mind.",
-      "source": "TechCrunch",
-      "published": "2026-07-30T22:41:41+00:00",
-      "link": "https://techcrunch.com/2026/07/30/investors-love-ai-as-long-as-youre-a-cloud-host/"
-    },
-    {
-      "title": "Tim Cook hints at iCloud Plus tier for AI power users",
-      "summary": "Apple may allow users to pay to increase their AI usage limits.",
-      "source": "The Verge",
-      "published": "2026-07-30T22:29:45+00:00",
-      "link": "https://www.theverge.com/tech/973552/apple-ceo-tim-cook-icloud-plus-ai"
-    },
-    {
-      "title": "Max-severity Exchange server flaw under active exploitation by Kremlin hackers",
-      "summary": "Exploits can give persistent server access that survives credential rotation and disk re-imaging.",
-      "source": "Ars Technica",
-      "published": "2026-07-30T20:57:22+00:00",
-      "link": "https://arstechnica.com/security/2026/07/kremlin-hackers-are-exploiting-exchange-flaw-to-backdoor-unpatched-networks/"
-    },
-    {
-      "title": "Judge says Trump admin still lacks evidence for Anthropic ‘supply-chain risk’ label",
-      "summary": "A federal judge said the Trump administration has not presented enough evidence to justify labeling Anthropic a supply-chain risk, casting doubt on the government's ban on its AI technology.",
-      "source": "TechCrunch",
-      "published": "2026-07-30T20:26:38+00:00",
-      "link": "https://techcrunch.com/2026/07/30/judge-says-trump-admin-still-lacks-evidence-for-anthropic-supply-chain-risk-label/"
-    },
-    {
-      "title": "Everyone Is Freaking Out About OpenAI and Anthropic’s Race for Dominance",
-      "summary": "Researchers fear AI is moving too fast, while Mark Zuckerberg is worried about who owns it. Plus: Inside Black Forest Labs’ push into robotics.",
-      "source": "Wired",
-      "published": "2026-07-30T20:12:57+00:00",
-      "link": "https://www.wired.com/story/everyone-is-freaking-out-about-openai-and-anthropics-race-for-dominance/"
     }
   ]
 };
