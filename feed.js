@@ -1,5 +1,5 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-08-06T04:09:49.012213+00:00",
+  "lastUpdated": "2026-08-06T07:41:21.384308+00:00",
   "items": [
     {
       "title": "Elon Musk’s attempt at an AI Wikipedia hasn’t been updated in months",
