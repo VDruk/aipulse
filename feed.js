@@ -1,6 +1,20 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-08-06T07:41:21.384308+00:00",
+  "lastUpdated": "2026-08-06T11:10:07.872165+00:00",
   "items": [
+    {
+      "title": "OpenAI developer warns the \"tireless eagle eyes of a million models\" are coming for your exposed API keys and crypto wallets",
+      "summary": "OpenAI developer \"roon\" warns on X that AI models could soon start scanning for exposed API keys, crypto wallets, and login credentials at scale.",
+      "source": "The Decoder",
+      "published": "2026-08-06T10:11:02+00:00",
+      "link": "https://the-decoder.com/openai-developer-warns-the-tireless-eagle-eyes-of-a-million-models-are-coming-for-your-exposed-api-keys-and-crypto-wallets/"
+    },
+    {
+      "title": "OpenAI says Apple’s trade secrets lawsuit is ‘rotten to its core’",
+      "summary": "OpenAI has asked a federal judge to toss out Apple's landmark lawsuit accusing the ChatGPT maker of stealing trade secrets, describing the allegations as \"meritless.\" In a motion filed yesterday to dismiss the complaint, OpenAI says that Apple is mischaracterizing both the...",
+      "source": "The Verge",
+      "published": "2026-08-06T09:33:11+00:00",
+      "link": "https://www.theverge.com/tech/976042/openai-apple-trade-secrets-lawsuit-dismissal-request"
+    },
     {
       "title": "Elon Musk’s attempt at an AI Wikipedia hasn’t been updated in months",
       "summary": "xAI's Grokipedia, an online encyclopedia with AI-generated articles that Elon Musk once promised would be a \"massive improvement\" over Wikipedia, apparently hasn't been updated since April 24th, according to a report from Lawfare.",
@@ -52,7 +66,7 @@ const FEED_DATA = {
     },
     {
       "title": "Born Against, or why hobby programming communities are against LLM usage",
-      "summary": "Article URL: https://blog.fogus.me/llm/born-against.html Comments URL: https://news.ycombinator.com/item?id=49187061 Points: 168 # Comments: 164",
+      "summary": "Article URL: https://blog.fogus.me/llm/born-against.html Comments URL: https://news.ycombinator.com/item?id=49187061 Points: 284 # Comments: 282",
       "source": "Hacker News",
       "published": "2026-08-05T18:37:49+00:00",
       "link": "https://blog.fogus.me/llm/born-against.html"
@@ -73,21 +87,21 @@ const FEED_DATA = {
     },
     {
       "title": "Microsoft's AI Sales Mostly Come from OpenAI, Disclosures Show",
-      "summary": "https://www.bloomberg.com/news/articles/2026-08-05/microsoft... Comments URL: https://news.ycombinator.com/item?id=49186766 Points: 63 # Comments: 16",
+      "summary": "https://www.bloomberg.com/news/articles/2026-08-05/microsoft... Comments URL: https://news.ycombinator.com/item?id=49186766 Points: 66 # Comments: 16",
       "source": "Hacker News",
       "published": "2026-08-05T18:19:10+00:00",
       "link": "https://www.bloomberg.com/news/articles/2026-08-05/microsoft-s-ai-sales-mostly-come-from-openai-disclosures-show"
     },
     {
       "title": "Beating GPT-5.6 Sol on retrieval with 100x cheaper open models",
-      "summary": "Article URL: https://neon.com/blog/how-castform-neon-beats-frontier-models-on-price-and-efficiency Comments URL: https://news.ycombinator.com/item?id=49186762 Points: 250 # Comments: 60",
+      "summary": "Article URL: https://neon.com/blog/how-castform-neon-beats-frontier-models-on-price-and-efficiency Comments URL: https://news.ycombinator.com/item?id=49186762 Points: 326 # Comments: 81",
       "source": "Hacker News",
       "published": "2026-08-05T18:18:56+00:00",
       "link": "https://neon.com/blog/how-castform-neon-beats-frontier-models-on-price-and-efficiency"
     },
     {
       "title": "Sycophantic AI Decreases Prosocial Intentions and Promotes Dependence (2025)",
-      "summary": "Article URL: https://arxiv.org/abs/2510.01395 Comments URL: https://news.ycombinator.com/item?id=49186720 Points: 87 # Comments: 58",
+      "summary": "Article URL: https://arxiv.org/abs/2510.01395 Comments URL: https://news.ycombinator.com/item?id=49186720 Points: 129 # Comments: 71",
       "source": "Hacker News",
       "published": "2026-08-05T18:17:03+00:00",
       "link": "https://arxiv.org/abs/2510.01395"
@@ -199,7 +213,7 @@ const FEED_DATA = {
     },
     {
       "title": "Intelligence Is Not the Main Bottleneck",
-      "summary": "Article URL: https://www.writingruxandrabio.com/p/intelligence-is-not-the-main-bottleneck Comments URL: https://news.ycombinator.com/item?id=49183076 Points: 118 # Comments: 111",
+      "summary": "Article URL: https://www.writingruxandrabio.com/p/intelligence-is-not-the-main-bottleneck Comments URL: https://news.ycombinator.com/item?id=49183076 Points: 121 # Comments: 112",
       "source": "Hacker News",
       "published": "2026-08-05T14:04:06+00:00",
       "link": "https://www.writingruxandrabio.com/p/intelligence-is-not-the-main-bottleneck"
@@ -213,7 +227,7 @@ const FEED_DATA = {
     },
     {
       "title": "TIME Is Serving AI Bots a Different Website, with Ads Built In",
-      "summary": "Article URL: https://www.vincentschmalbach.com/time-serves-ai-bots-a-different-website/ Comments URL: https://news.ycombinator.com/item?id=49182041 Points: 233 # Comments: 98",
+      "summary": "Article URL: https://www.vincentschmalbach.com/time-serves-ai-bots-a-different-website/ Comments URL: https://news.ycombinator.com/item?id=49182041 Points: 247 # Comments: 107",
       "source": "Hacker News",
       "published": "2026-08-05T12:41:47+00:00",
       "link": "https://www.vincentschmalbach.com/time-serves-ai-bots-a-different-website/"
@@ -227,7 +241,7 @@ const FEED_DATA = {
     },
     {
       "title": "Anthropic AI created fake profiles and impersonated people in attempted hack",
-      "summary": "Article URL: https://www.bbc.co.uk/news/articles/c1w1lvn7d9go Comments URL: https://news.ycombinator.com/item?id=49181773 Points: 51 # Comments: 20",
+      "summary": "Article URL: https://www.bbc.co.uk/news/articles/c1w1lvn7d9go Comments URL: https://news.ycombinator.com/item?id=49181773 Points: 54 # Comments: 20",
       "source": "Hacker News",
       "published": "2026-08-05T12:16:47+00:00",
       "link": "https://www.bbc.co.uk/news/articles/c1w1lvn7d9go"
@@ -241,7 +255,7 @@ const FEED_DATA = {
     },
     {
       "title": "Why Erdős Problems Are Falling to AI",
-      "summary": "Article URL: https://www.quantamagazine.org/why-the-legendary-erdos-problems-are-falling-to-ai-20260803/ Comments URL: https://news.ycombinator.com/item?id=49181519 Points: 130 # Comments: 127",
+      "summary": "Article URL: https://www.quantamagazine.org/why-the-legendary-erdos-problems-are-falling-to-ai-20260803/ Comments URL: https://news.ycombinator.com/item?id=49181519 Points: 139 # Comments: 129",
       "source": "Hacker News",
       "published": "2026-08-05T11:49:34+00:00",
       "link": "https://www.quantamagazine.org/why-the-legendary-erdos-problems-are-falling-to-ai-20260803/"
@@ -297,14 +311,14 @@ const FEED_DATA = {
     },
     {
       "title": "Rust-lang/rust is adopting an LLM policy",
-      "summary": "Article URL: https://blog.rust-lang.org/inside-rust/2026/08/05/rust-langrust-is-adopting-an-llm-policy/ Comments URL: https://news.ycombinator.com/item?id=49179039 Points: 109 # Comments: 70",
+      "summary": "Article URL: https://blog.rust-lang.org/inside-rust/2026/08/05/rust-langrust-is-adopting-an-llm-policy/ Comments URL: https://news.ycombinator.com/item?id=49179039 Points: 111 # Comments: 71",
       "source": "Hacker News",
       "published": "2026-08-05T05:52:24+00:00",
       "link": "https://blog.rust-lang.org/inside-rust/2026/08/05/rust-langrust-is-adopting-an-llm-policy/"
     },
     {
       "title": "Zero-Mem: Zero-Token Memory Operations for LLM Agents",
-      "summary": "Article URL: https://arxiv.org/abs/2607.29377 Comments URL: https://news.ycombinator.com/item?id=49178608 Points: 93 # Comments: 12",
+      "summary": "Article URL: https://arxiv.org/abs/2607.29377 Comments URL: https://news.ycombinator.com/item?id=49178608 Points: 95 # Comments: 12",
       "source": "Hacker News",
       "published": "2026-08-05T04:36:44+00:00",
       "link": "https://arxiv.org/abs/2607.29377"
@@ -325,7 +339,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI fuels more than half of cybercrime in Africa as scams surge – Interpol",
-      "summary": "https://www.interpol.int/Media/Documents/Publications/Cyberc... Comments URL: https://news.ycombinator.com/item?id=49175826 Points: 290 # Comments: 241",
+      "summary": "https://www.interpol.int/Media/Documents/Publications/Cyberc... Comments URL: https://news.ycombinator.com/item?id=49175826 Points: 292 # Comments: 241",
       "source": "Hacker News",
       "published": "2026-08-04T22:01:41+00:00",
       "link": "https://www.africanews.com/2026/08/04/ai-fuels-more-than-half-of-cybercrime-in-africa-as-digital-scams-surge-interpol/"
@@ -423,14 +437,14 @@ const FEED_DATA = {
     },
     {
       "title": "When AI Benchmarks Plateau: A Systematic Study of Benchmark Saturation",
-      "summary": "Article URL: https://arxiv.org/abs/2602.16763 Comments URL: https://news.ycombinator.com/item?id=49170915 Points: 103 # Comments: 123",
+      "summary": "Article URL: https://arxiv.org/abs/2602.16763 Comments URL: https://news.ycombinator.com/item?id=49170915 Points: 103 # Comments: 126",
       "source": "Hacker News",
       "published": "2026-08-04T16:10:39+00:00",
       "link": "https://arxiv.org/abs/2602.16763"
     },
     {
       "title": "The AI Demand Bubble",
-      "summary": "Article URL: https://www.wheresyoured.at/the-ai-demand-bubble/ Comments URL: https://news.ycombinator.com/item?id=49170648 Points: 110 # Comments: 144",
+      "summary": "Article URL: https://www.wheresyoured.at/the-ai-demand-bubble/ Comments URL: https://news.ycombinator.com/item?id=49170648 Points: 110 # Comments: 147",
       "source": "Hacker News",
       "published": "2026-08-04T15:51:51+00:00",
       "link": "https://www.wheresyoured.at/the-ai-demand-bubble/"
@@ -465,7 +479,7 @@ const FEED_DATA = {
     },
     {
       "title": "It's not a fear of \"AI communism\"; it's a fear of competitive market capitalism",
-      "summary": "Article URL: http://observationalepidemiology.blogspot.com/2026/07/its-not-fear-of-ai-communism-its-fear.html Comments URL: https://news.ycombinator.com/item?id=49169227 Points: 96 # Comments: 88",
+      "summary": "Article URL: http://observationalepidemiology.blogspot.com/2026/07/its-not-fear-of-ai-communism-its-fear.html Comments URL: https://news.ycombinator.com/item?id=49169227 Points: 97 # Comments: 89",
       "source": "Hacker News",
       "published": "2026-08-04T14:07:30+00:00",
       "link": "http://observationalepidemiology.blogspot.com/2026/07/its-not-fear-of-ai-communism-its-fear.html"
@@ -500,7 +514,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI-Generated Images Discourage Me from Reading Your Blog",
-      "summary": "Article URL: https://nelson.cloud/ai-generated-images-discourage-me-from-reading-your-blog/ Comments URL: https://news.ycombinator.com/item?id=49167113 Points: 784 # Comments: 461",
+      "summary": "Article URL: https://nelson.cloud/ai-generated-images-discourage-me-from-reading-your-blog/ Comments URL: https://news.ycombinator.com/item?id=49167113 Points: 788 # Comments: 464",
       "source": "Hacker News",
       "published": "2026-08-04T11:30:17+00:00",
       "link": "https://nelson.cloud/ai-generated-images-discourage-me-from-reading-your-blog/"
@@ -549,7 +563,7 @@ const FEED_DATA = {
     },
     {
       "title": "An Honest Review of AI Programming",
-      "summary": "Article URL: https://mropert.github.io/2026/08/04/an_honest_review_of_ai_programming/ Comments URL: https://news.ycombinator.com/item?id=49166230 Points: 51 # Comments: 76",
+      "summary": "Article URL: https://mropert.github.io/2026/08/04/an_honest_review_of_ai_programming/ Comments URL: https://news.ycombinator.com/item?id=49166230 Points: 51 # Comments: 80",
       "source": "Hacker News",
       "published": "2026-08-04T09:35:15+00:00",
       "link": "https://mropert.github.io/2026/08/04/an_honest_review_of_ai_programming/"
@@ -1386,20 +1400,6 @@ const FEED_DATA = {
       "source": "Wired",
       "published": "2026-07-30T20:12:57+00:00",
       "link": "https://www.wired.com/story/everyone-is-freaking-out-about-openai-and-anthropics-race-for-dominance/"
-    },
-    {
-      "title": "Friend, the lonely AI wearable, returns with a new voice and a much bigger price tag",
-      "summary": "Friend, the AI wearable, can now talk to its users — for an enhanced price.",
-      "source": "TechCrunch",
-      "published": "2026-07-30T19:44:16+00:00",
-      "link": "https://techcrunch.com/2026/07/30/friend-the-lonely-ai-wearable-returns-with-a-new-voice-and-a-much-bigger-price-tag/"
-    },
-    {
-      "title": "Google says it fixed more Chrome bugs in June than over the past two years, thanks to AI",
-      "summary": "As experts have warned for the last two years, some companies — like Microsoft and now Google — are finding and patching an exponential number of bugs in their products, thanks to the use of LLMs and AI tools.",
-      "source": "TechCrunch",
-      "published": "2026-07-30T18:57:58+00:00",
-      "link": "https://techcrunch.com/2026/07/30/google-says-it-fixed-more-chrome-bugs-in-june-than-over-the-past-two-years-thanks-to-ai/"
     }
   ]
 };
