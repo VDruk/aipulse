@@ -1,6 +1,27 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-08-05T22:06:18.521437+00:00",
+  "lastUpdated": "2026-08-06T04:09:49.012213+00:00",
   "items": [
+    {
+      "title": "Elon Musk’s attempt at an AI Wikipedia hasn’t been updated in months",
+      "summary": "xAI's Grokipedia, an online encyclopedia with AI-generated articles that Elon Musk once promised would be a \"massive improvement\" over Wikipedia, apparently hasn't been updated since April 24th, according to a report from Lawfare.",
+      "source": "The Verge",
+      "published": "2026-08-06T00:25:10+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/976004/elon-musk-grokipedia-ai-wikipedia-not-updating-dead"
+    },
+    {
+      "title": "OpenAI Didn’t Notice Its AI Agents Using a Message Board to Plan Their Hacking Spree",
+      "summary": "At the Black Hat security conference, the AI giant revealed new details about how its agents went rogue, hacked several other companies—and did it all right under the company’s nose.",
+      "source": "Wired",
+      "published": "2026-08-06T00:15:04+00:00",
+      "link": "https://www.wired.com/story/openai-didnt-notice-its-ai-agents-using-a-message-board-to-plan-their-hacking-spree/"
+    },
+    {
+      "title": "OpenAI’s Browser Could Be Hijacked to Spam Your WhatsApp Contacts",
+      "summary": "Researchers at security firm Zenity found more than a dozen flaws in AI browsers—and managed to get OpenAI’s Atlas to make an unauthorized Amazon purchase.",
+      "source": "Wired",
+      "published": "2026-08-05T23:30:00+00:00",
+      "link": "https://www.wired.com/story/openais-browser-could-be-hijacked-to-spam-your-whatsapp-contacts/"
+    },
     {
       "title": "Meta launches Muse Code, an AI agent for large code bases",
       "summary": "Meta expanded its AI coding offerings with a new agent that, it promises, can handle complex tasks with complex software.",
@@ -31,7 +52,7 @@ const FEED_DATA = {
     },
     {
       "title": "Born Against, or why hobby programming communities are against LLM usage",
-      "summary": "Article URL: https://blog.fogus.me/llm/born-against.html Comments URL: https://news.ycombinator.com/item?id=49187061 Points: 106 # Comments: 120",
+      "summary": "Article URL: https://blog.fogus.me/llm/born-against.html Comments URL: https://news.ycombinator.com/item?id=49187061 Points: 168 # Comments: 164",
       "source": "Hacker News",
       "published": "2026-08-05T18:37:49+00:00",
       "link": "https://blog.fogus.me/llm/born-against.html"
@@ -52,21 +73,21 @@ const FEED_DATA = {
     },
     {
       "title": "Microsoft's AI Sales Mostly Come from OpenAI, Disclosures Show",
-      "summary": "https://www.bloomberg.com/news/articles/2026-08-05/microsoft... Comments URL: https://news.ycombinator.com/item?id=49186766 Points: 58 # Comments: 15",
+      "summary": "https://www.bloomberg.com/news/articles/2026-08-05/microsoft... Comments URL: https://news.ycombinator.com/item?id=49186766 Points: 63 # Comments: 16",
       "source": "Hacker News",
       "published": "2026-08-05T18:19:10+00:00",
       "link": "https://www.bloomberg.com/news/articles/2026-08-05/microsoft-s-ai-sales-mostly-come-from-openai-disclosures-show"
     },
     {
       "title": "Beating GPT-5.6 Sol on retrieval with 100x cheaper open models",
-      "summary": "Article URL: https://neon.com/blog/how-castform-neon-beats-frontier-models-on-price-and-efficiency Comments URL: https://news.ycombinator.com/item?id=49186762 Points: 144 # Comments: 29",
+      "summary": "Article URL: https://neon.com/blog/how-castform-neon-beats-frontier-models-on-price-and-efficiency Comments URL: https://news.ycombinator.com/item?id=49186762 Points: 250 # Comments: 60",
       "source": "Hacker News",
       "published": "2026-08-05T18:18:56+00:00",
       "link": "https://neon.com/blog/how-castform-neon-beats-frontier-models-on-price-and-efficiency"
     },
     {
       "title": "Sycophantic AI Decreases Prosocial Intentions and Promotes Dependence (2025)",
-      "summary": "Article URL: https://arxiv.org/abs/2510.01395 Comments URL: https://news.ycombinator.com/item?id=49186720 Points: 61 # Comments: 50",
+      "summary": "Article URL: https://arxiv.org/abs/2510.01395 Comments URL: https://news.ycombinator.com/item?id=49186720 Points: 87 # Comments: 58",
       "source": "Hacker News",
       "published": "2026-08-05T18:17:03+00:00",
       "link": "https://arxiv.org/abs/2510.01395"
@@ -178,7 +199,7 @@ const FEED_DATA = {
     },
     {
       "title": "Intelligence Is Not the Main Bottleneck",
-      "summary": "Article URL: https://www.writingruxandrabio.com/p/intelligence-is-not-the-main-bottleneck Comments URL: https://news.ycombinator.com/item?id=49183076 Points: 113 # Comments: 108",
+      "summary": "Article URL: https://www.writingruxandrabio.com/p/intelligence-is-not-the-main-bottleneck Comments URL: https://news.ycombinator.com/item?id=49183076 Points: 118 # Comments: 111",
       "source": "Hacker News",
       "published": "2026-08-05T14:04:06+00:00",
       "link": "https://www.writingruxandrabio.com/p/intelligence-is-not-the-main-bottleneck"
@@ -192,7 +213,7 @@ const FEED_DATA = {
     },
     {
       "title": "TIME Is Serving AI Bots a Different Website, with Ads Built In",
-      "summary": "Article URL: https://www.vincentschmalbach.com/time-serves-ai-bots-a-different-website/ Comments URL: https://news.ycombinator.com/item?id=49182041 Points: 222 # Comments: 92",
+      "summary": "Article URL: https://www.vincentschmalbach.com/time-serves-ai-bots-a-different-website/ Comments URL: https://news.ycombinator.com/item?id=49182041 Points: 233 # Comments: 98",
       "source": "Hacker News",
       "published": "2026-08-05T12:41:47+00:00",
       "link": "https://www.vincentschmalbach.com/time-serves-ai-bots-a-different-website/"
@@ -205,6 +226,13 @@ const FEED_DATA = {
       "link": "https://techcrunch.com/2026/08/05/macpaw-taps-liquid-ai-to-offer-on-device-inference-to-devs-building-for-its-app-store/"
     },
     {
+      "title": "Anthropic AI created fake profiles and impersonated people in attempted hack",
+      "summary": "Article URL: https://www.bbc.co.uk/news/articles/c1w1lvn7d9go Comments URL: https://news.ycombinator.com/item?id=49181773 Points: 51 # Comments: 20",
+      "source": "Hacker News",
+      "published": "2026-08-05T12:16:47+00:00",
+      "link": "https://www.bbc.co.uk/news/articles/c1w1lvn7d9go"
+    },
+    {
       "title": "The Download: NASA’s new telescope and Chinese tech import curbs",
       "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.",
       "source": "MIT Tech Review",
@@ -213,7 +241,7 @@ const FEED_DATA = {
     },
     {
       "title": "Why Erdős Problems Are Falling to AI",
-      "summary": "Article URL: https://www.quantamagazine.org/why-the-legendary-erdos-problems-are-falling-to-ai-20260803/ Comments URL: https://news.ycombinator.com/item?id=49181519 Points: 125 # Comments: 121",
+      "summary": "Article URL: https://www.quantamagazine.org/why-the-legendary-erdos-problems-are-falling-to-ai-20260803/ Comments URL: https://news.ycombinator.com/item?id=49181519 Points: 130 # Comments: 127",
       "source": "Hacker News",
       "published": "2026-08-05T11:49:34+00:00",
       "link": "https://www.quantamagazine.org/why-the-legendary-erdos-problems-are-falling-to-ai-20260803/"
@@ -269,14 +297,14 @@ const FEED_DATA = {
     },
     {
       "title": "Rust-lang/rust is adopting an LLM policy",
-      "summary": "Article URL: https://blog.rust-lang.org/inside-rust/2026/08/05/rust-langrust-is-adopting-an-llm-policy/ Comments URL: https://news.ycombinator.com/item?id=49179039 Points: 105 # Comments: 69",
+      "summary": "Article URL: https://blog.rust-lang.org/inside-rust/2026/08/05/rust-langrust-is-adopting-an-llm-policy/ Comments URL: https://news.ycombinator.com/item?id=49179039 Points: 109 # Comments: 70",
       "source": "Hacker News",
       "published": "2026-08-05T05:52:24+00:00",
       "link": "https://blog.rust-lang.org/inside-rust/2026/08/05/rust-langrust-is-adopting-an-llm-policy/"
     },
     {
       "title": "Zero-Mem: Zero-Token Memory Operations for LLM Agents",
-      "summary": "Article URL: https://arxiv.org/abs/2607.29377 Comments URL: https://news.ycombinator.com/item?id=49178608 Points: 88 # Comments: 12",
+      "summary": "Article URL: https://arxiv.org/abs/2607.29377 Comments URL: https://news.ycombinator.com/item?id=49178608 Points: 93 # Comments: 12",
       "source": "Hacker News",
       "published": "2026-08-05T04:36:44+00:00",
       "link": "https://arxiv.org/abs/2607.29377"
@@ -297,14 +325,14 @@ const FEED_DATA = {
     },
     {
       "title": "AI fuels more than half of cybercrime in Africa as scams surge – Interpol",
-      "summary": "https://www.interpol.int/Media/Documents/Publications/Cyberc... Comments URL: https://news.ycombinator.com/item?id=49175826 Points: 290 # Comments: 239",
+      "summary": "https://www.interpol.int/Media/Documents/Publications/Cyberc... Comments URL: https://news.ycombinator.com/item?id=49175826 Points: 290 # Comments: 241",
       "source": "Hacker News",
       "published": "2026-08-04T22:01:41+00:00",
       "link": "https://www.africanews.com/2026/08/04/ai-fuels-more-than-half-of-cybercrime-in-africa-as-digital-scams-surge-interpol/"
     },
     {
       "title": "Security Incident INC-2026-07-28-01 – UK AI Security Institute [pdf]",
-      "summary": "Article URL: https://cdn.prod.website-files.com/663bd486c5e4c81588db7a1d/6a724858f7db25c81487016d_Security%20Incident%20INC-2026-07-28-01.pdf Comments URL: https://news.ycombinator.com/item?id=49175717 Points: 61 # Comments: 52",
+      "summary": "Article URL: https://cdn.prod.website-files.com/663bd486c5e4c81588db7a1d/6a724858f7db25c81487016d_Security%20Incident%20INC-2026-07-28-01.pdf Comments URL: https://news.ycombinator.com/item?id=49175717 Points: 61 # Comments: 53",
       "source": "Hacker News",
       "published": "2026-08-04T21:52:58+00:00",
       "link": "https://cdn.prod.website-files.com/663bd486c5e4c81588db7a1d/6a724858f7db25c81487016d_Security%20Incident%20INC-2026-07-28-01.pdf"
@@ -360,7 +388,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI Data Centers Are Driving Up Power Bills – This Map Shows Where",
-      "summary": "Article URL: https://www.gadgetreview.com/ai-data-centers-are-driving-up-power-bills-this-map-shows-where Comments URL: https://news.ycombinator.com/item?id=49172433 Points: 67 # Comments: 22",
+      "summary": "Article URL: https://www.gadgetreview.com/ai-data-centers-are-driving-up-power-bills-this-map-shows-where Comments URL: https://news.ycombinator.com/item?id=49172433 Points: 67 # Comments: 25",
       "source": "Hacker News",
       "published": "2026-08-04T17:57:15+00:00",
       "link": "https://www.gadgetreview.com/ai-data-centers-are-driving-up-power-bills-this-map-shows-where"
@@ -395,7 +423,7 @@ const FEED_DATA = {
     },
     {
       "title": "When AI Benchmarks Plateau: A Systematic Study of Benchmark Saturation",
-      "summary": "Article URL: https://arxiv.org/abs/2602.16763 Comments URL: https://news.ycombinator.com/item?id=49170915 Points: 103 # Comments: 120",
+      "summary": "Article URL: https://arxiv.org/abs/2602.16763 Comments URL: https://news.ycombinator.com/item?id=49170915 Points: 103 # Comments: 123",
       "source": "Hacker News",
       "published": "2026-08-04T16:10:39+00:00",
       "link": "https://arxiv.org/abs/2602.16763"
@@ -437,7 +465,7 @@ const FEED_DATA = {
     },
     {
       "title": "It's not a fear of \"AI communism\"; it's a fear of competitive market capitalism",
-      "summary": "Article URL: http://observationalepidemiology.blogspot.com/2026/07/its-not-fear-of-ai-communism-its-fear.html Comments URL: https://news.ycombinator.com/item?id=49169227 Points: 95 # Comments: 86",
+      "summary": "Article URL: http://observationalepidemiology.blogspot.com/2026/07/its-not-fear-of-ai-communism-its-fear.html Comments URL: https://news.ycombinator.com/item?id=49169227 Points: 96 # Comments: 88",
       "source": "Hacker News",
       "published": "2026-08-04T14:07:30+00:00",
       "link": "http://observationalepidemiology.blogspot.com/2026/07/its-not-fear-of-ai-communism-its-fear.html"
@@ -472,7 +500,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI-Generated Images Discourage Me from Reading Your Blog",
-      "summary": "Article URL: https://nelson.cloud/ai-generated-images-discourage-me-from-reading-your-blog/ Comments URL: https://news.ycombinator.com/item?id=49167113 Points: 780 # Comments: 460",
+      "summary": "Article URL: https://nelson.cloud/ai-generated-images-discourage-me-from-reading-your-blog/ Comments URL: https://news.ycombinator.com/item?id=49167113 Points: 784 # Comments: 461",
       "source": "Hacker News",
       "published": "2026-08-04T11:30:17+00:00",
       "link": "https://nelson.cloud/ai-generated-images-discourage-me-from-reading-your-blog/"
@@ -1372,34 +1400,6 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-07-30T18:57:58+00:00",
       "link": "https://techcrunch.com/2026/07/30/google-says-it-fixed-more-chrome-bugs-in-june-than-over-the-past-two-years-thanks-to-ai/"
-    },
-    {
-      "title": "OpenAI goes full China pricing mode with an 80 percent cut to its most affordable GPT-5.6 model",
-      "summary": "Starting July 30, OpenAI is cutting GPT-5.6 Luna prices by 80 percent and Terra by 20 percent. OpenAI says its top-tier Sol model helped make the company's own infrastructure more efficient, enabling the cuts.",
-      "source": "The Decoder",
-      "published": "2026-07-30T18:46:24+00:00",
-      "link": "https://the-decoder.com/openai-goes-full-china-pricing-mode-with-an-80-percent-cut-to-its-most-affordable-gpt-5-6-model/"
-    },
-    {
-      "title": "LinkedIn actually adds a ‘seems like AI slop’ button",
-      "summary": "A lot of content on LinkedIn might seem like AI slop, and now, you'll be able to report those posts.",
-      "source": "The Verge",
-      "published": "2026-07-30T18:43:26+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/973384/linkedin-seems-like-ai-slop-button"
-    },
-    {
-      "title": "Show HN: Distilling DeepSeek into GPT-OSS doesn't transfer censorship. Try it",
-      "summary": "We recently used DeepSeek V4 Flash as a teacher for finance tasks with GPT-OSS-120B. Distillation works well on this problem.",
-      "source": "Hacker News",
-      "published": "2026-07-30T18:13:06+00:00",
-      "link": "https://www.ctgt.ai/research/distillation-censorship-transfer"
-    },
-    {
-      "title": "Ex-OpenAI researcher bets $100 billion will flow into training data because scaling alone won't cut it",
-      "summary": "Former OpenAI employee Andrew Ho and Cambridge researcher Adam Hunt see a growing problem with large language models. Instead of becoming more versatile, the models are becoming more specialized, excelling at coding and math while stagnating or even regressing in other areas.",
-      "source": "The Decoder",
-      "published": "2026-07-30T18:07:17+00:00",
-      "link": "https://the-decoder.com/ex-openai-researcher-bets-100-billion-will-flow-into-training-data-because-scaling-alone-wont-cut-it/"
     }
   ]
 };
