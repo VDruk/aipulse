@@ -1,6 +1,125 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-08-06T15:14:54.435180+00:00",
+  "lastUpdated": "2026-08-07T00:59:43.441609+00:00",
   "items": [
+    {
+      "title": "OpenAI’s new AI smart speaker will reportedly sell for between $300 and $400",
+      "summary": "Additional details about OpenAI's mysterious new AI device make it sound like a pricey smart speaker.",
+      "source": "TechCrunch",
+      "published": "2026-08-06T22:43:53+00:00",
+      "link": "https://techcrunch.com/2026/08/06/openais-new-ai-smart-speaker-will-reportedly-sell-for-between-300-and-400/"
+    },
+    {
+      "title": "Inside vLLM: Anatomy of a High-Throughput LLM Inference System (2025)",
+      "summary": "Article URL: https://www.aleksagordic.com/blog/vllm Comments URL: https://news.ycombinator.com/item?id=49202852 Points: 50 # Comments: 2",
+      "source": "Hacker News",
+      "published": "2026-08-06T21:30:21+00:00",
+      "link": "https://www.aleksagordic.com/blog/vllm"
+    },
+    {
+      "title": "Jony Ive’s first OpenAI gadget is reportedly a hockey puck-sized smart speaker",
+      "summary": "The AI device OpenAI is developing with former Apple designer Jony Ive is \"essentially a smart speaker without a display\" that's battery-powered, doughnut-shaped and roughly the size of a hockey puck, according to Bloomberg reporter Mark Gurman.",
+      "source": "The Verge",
+      "published": "2026-08-06T20:55:39+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/976431/openai-chatgpt-battery-smart-speaker-rumor"
+    },
+    {
+      "title": "Why Normal People Aren’t Using AI Agents",
+      "summary": "The tech industry is realizing it needs to build agents based on what regular consumers want, not just what its AI models can do.",
+      "source": "Wired",
+      "published": "2026-08-06T19:55:45+00:00",
+      "link": "https://www.wired.com/story/why-normal-people-arent-using-ai-agents/"
+    },
+    {
+      "title": "xAI, SpaceX, and the Race for AI Buildout",
+      "summary": "Article URL: https://illegal.solutions/posts/xai_pollution Comments URL: https://news.ycombinator.com/item?id=49201342 Points: 132 # Comments: 108",
+      "source": "Hacker News",
+      "published": "2026-08-06T19:38:45+00:00",
+      "link": "https://illegal.solutions/posts/xai_pollution"
+    },
+    {
+      "title": "ICE’s DNA Collection Increases, SpaceX’s Rocket Crashes Into the Moon, and the AI Backlash Grows",
+      "summary": "In today’s episode of Uncanny Valley, we discuss how ICE has been collecting DNA samples of people who have no criminal convictions, including children, which end up in an FBI database indefinitely.",
+      "source": "Wired",
+      "published": "2026-08-06T19:30:46+00:00",
+      "link": "https://www.wired.com/story/ice-dna-collection-increases-spacex-rocket-crashes-into-the-moon-and-the-ai-backlash-grows/"
+    },
+    {
+      "title": "OpenAI improves GPT-5.6 Sol in ChatGPT and restricts free users to its weakest model",
+      "summary": "OpenAI has updated GPT-5.6 Sol with more focused responses and a reasoning slider that lets users adjust how deeply the model thinks. Free users will get unlimited text chats with the smaller GPT-5.6 Luna starting next week, plus a button that lets Luna reason longer.",
+      "source": "The Decoder",
+      "published": "2026-08-06T18:38:27+00:00",
+      "link": "https://the-decoder.com/openai-improves-gpt-5-6-sol-in-chatgpt-and-restricts-free-users-to-its-weakest-model/"
+    },
+    {
+      "title": "Deepmind's talent drain likely comes down to chip shortages, a conflict of interest, and Google's bureaucracy",
+      "summary": "Ex-Google Deepmind CEO Demis Hassabis has reportedly stepped back from day-to-day operations for about a year, as he sees himself more as a scientist than a manager.",
+      "source": "The Decoder",
+      "published": "2026-08-06T18:05:54+00:00",
+      "link": "https://the-decoder.com/deepminds-talent-drain-likely-comes-down-to-chip-shortages-a-conflict-of-interest-and-googles-bureaucracy/"
+    },
+    {
+      "title": "Suno shares plans to combat spammy AI music",
+      "summary": "Suno announced plans to implement a new watermarking technology and download policy to limit the spread of spammy AI tracks and increase transparency.",
+      "source": "The Verge",
+      "published": "2026-08-06T17:39:43+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/976289/suno-ai-music-spam-watermark"
+    },
+    {
+      "title": "Microsoft's AI revenue reportedly depends on OpenAI for 70 percent",
+      "summary": "Microsoft generated $24.1 billion in AI revenue through OpenAI in the fiscal year ending in June. That's about 70 percent of its total AI business, according to a Bloomberg analysis.",
+      "source": "The Decoder",
+      "published": "2026-08-06T17:35:33+00:00",
+      "link": "https://the-decoder.com/microsofts-ai-revenue-reportedly-depends-on-openai-for-70-percent/"
+    },
+    {
+      "title": "ChatGPT brings unlimited text chats to free users",
+      "summary": "OpenAI said that ChatGPT free and Go users are also getting a new think button for complex queries.",
+      "source": "TechCrunch",
+      "published": "2026-08-06T17:34:42+00:00",
+      "link": "https://techcrunch.com/2026/08/06/openai-brings-unlimited-chatgpt-text-chats-to-free-users/"
+    },
+    {
+      "title": "Improving GPT‑5.6 Sol in ChatGPT, expanding GPT‑5.6 Luna access for free users",
+      "summary": "Article URL: https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt/ Comments URL: https://news.ycombinator.com/item?id=49199357 Points: 140 # Comments: 100",
+      "source": "Hacker News",
+      "published": "2026-08-06T17:02:04+00:00",
+      "link": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt/"
+    },
+    {
+      "title": "Naïve raises $28.5M to automate the grunt work of setting up and running a company",
+      "summary": "Taking vibe-coding a step further, Naïve claims its infra can automate most of the work in setting up and running a business.",
+      "source": "TechCrunch",
+      "published": "2026-08-06T17:00:37+00:00",
+      "link": "https://techcrunch.com/2026/08/06/naive-raises-28-5m-to-automate-the-grunt-work-of-setting-up-and-running-a-company/"
+    },
+    {
+      "title": "OpenAI is giving ChatGPT free users unlimited text chats",
+      "summary": "OpenAI is making a big change for ChatGPT users on its free and Go tiers: Starting next week, users on those tiers will be able to have unlimited text chats with the chatbot, according to OpenAI.",
+      "source": "The Verge",
+      "published": "2026-08-06T17:00:00+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/976239/openai-chatgpt-free-go-text-chats"
+    },
+    {
+      "title": "Claude Code is the fastest agent framework but costs nearly three times more than the cheapest rival",
+      "summary": "Composio tested Deepseek V4 Flash across four agent frameworks on 30 real-world tasks.",
+      "source": "The Decoder",
+      "published": "2026-08-06T16:33:59+00:00",
+      "link": "https://the-decoder.com/claude-code-is-the-fastest-agent-framework-but-costs-nearly-three-times-more-than-the-cheapest-rival/"
+    },
+    {
+      "title": "DeepMind Says Its AI Can Predict Hurricanes Earlier Than Everyone Else",
+      "summary": "Its WeatherNext model, which will be open-sourced, can accurately predict a storm’s track and intensity using lower-resolution weather data. Researchers don’t yet fully understand how it does this.",
+      "source": "Wired",
+      "published": "2026-08-06T16:23:04+00:00",
+      "link": "https://www.wired.com/story/deepmind-ai-model-can-predict-hurricanes-earlier/"
+    },
+    {
+      "title": "Gen Z dating apps like Ditto ditch swiping in favor of AI matchmaking",
+      "summary": "This generation of twentysomethings is so disillusioned with swipe-based dating apps that they'll try literally anything else — even an AI matchmaker.",
+      "source": "TechCrunch",
+      "published": "2026-08-06T15:53:03+00:00",
+      "link": "https://techcrunch.com/2026/08/06/gen-z-dating-apps-like-ditto-ditch-swiping-in-favor-of-ai-matchmaking/"
+    },
     {
       "title": "OpenAI says Apple’s own security practices undermine its trade secrets case",
       "summary": "Newly filed court exhibits show OpenAI’s legal strategy in Apple’s trade secrets lawsuit: argue that Apple’s own security and offboarding practices — including allowing an Apple manager to access a former engineer’s iCloud account after he left the company —undermine its claims...",
@@ -30,18 +149,18 @@ const FEED_DATA = {
       "link": "https://www.theverge.com/tech/976108/google-ai-leadership-shakeup-jeff-dean-demis-hassabis-deepmind"
     },
     {
+      "title": "Ex-Spotify employees raise $10M to bring the AI behind its recommendations to e-commerce",
+      "summary": "The startup's platform predicts which product a shopper wants next, learns their general taste, and fine-tunes continuously based on what they do in real time.",
+      "source": "TechCrunch",
+      "published": "2026-08-06T13:00:00+00:00",
+      "link": "https://techcrunch.com/2026/08/06/ex-spotify-employees-raise-10m-to-bring-the-ai-behind-its-recommendations-to-e-commerce/"
+    },
+    {
       "title": "Exclusive: Mirendil inks $100M+ Google Cloud deal to scale self-improving AI",
       "summary": "Mirendil has signed a $100 million-plus Google Cloud partnership to expand its compute infrastructure, powering research into self-improving AI systems designed to accelerate scientific discovery and AI development.",
       "source": "TechCrunch",
       "published": "2026-08-06T13:00:00+00:00",
       "link": "https://techcrunch.com/2026/08/06/exclusive-mirendil-inks-100m-google-cloud-deal-to-scale-self-improving-ai/"
-    },
-    {
-      "title": "Ex-Spotify employees raise $10M to bring the AI behind its recommendations to e-commerce",
-      "summary": "The startup's platform predicts what product a shopper wants next, learn their general taste, and fine-tune continuously based on what they do in real time.",
-      "source": "TechCrunch",
-      "published": "2026-08-06T13:00:00+00:00",
-      "link": "https://techcrunch.com/2026/08/06/ex-spotify-employees-raise-10m-to-bring-the-ai-behind-its-recommendations-to-e-commerce/"
     },
     {
       "title": "AI bots started a religion — humans immediately followed",
@@ -80,7 +199,7 @@ const FEED_DATA = {
     },
     {
       "title": "Humans missed 1 in 3 threats approving AI agent commands across 40k game runs",
-      "summary": "Article URL: https://scalex.dev/blog/ai-agent-permissions-stats/ Comments URL: https://news.ycombinator.com/item?id=49195468 Points: 99 # Comments: 72",
+      "summary": "Article URL: https://scalex.dev/blog/ai-agent-permissions-stats/ Comments URL: https://news.ycombinator.com/item?id=49195468 Points: 248 # Comments: 190",
       "source": "Hacker News",
       "published": "2026-08-06T11:58:07+00:00",
       "link": "https://scalex.dev/blog/ai-agent-permissions-stats/"
@@ -108,7 +227,7 @@ const FEED_DATA = {
     },
     {
       "title": "Governments are making a dangerous bet on the AI boom",
-      "summary": "Article URL: https://www.economist.com/leaders/2026/08/05/governments-are-making-a-dangerous-bet-on-the-ai-boom Comments URL: https://news.ycombinator.com/item?id=49192160 Points: 51 # Comments: 32",
+      "summary": "Article URL: https://www.economist.com/leaders/2026/08/05/governments-are-making-a-dangerous-bet-on-the-ai-boom Comments URL: https://news.ycombinator.com/item?id=49192160 Points: 55 # Comments: 34",
       "source": "Hacker News",
       "published": "2026-08-06T03:40:51+00:00",
       "link": "https://www.economist.com/leaders/2026/08/05/governments-are-making-a-dangerous-bet-on-the-ai-boom"
@@ -143,7 +262,7 @@ const FEED_DATA = {
     },
     {
       "title": "When online commenters detect my art as AI",
-      "summary": "Article URL: https://www.davidrevoy.com/article1164/when-online-commenters-detect-my-art-as-ai Comments URL: https://news.ycombinator.com/item?id=49188916 Points: 67 # Comments: 38",
+      "summary": "Article URL: https://www.davidrevoy.com/article1164/when-online-commenters-detect-my-art-as-ai Comments URL: https://news.ycombinator.com/item?id=49188916 Points: 99 # Comments: 54",
       "source": "Hacker News",
       "published": "2026-08-05T20:58:52+00:00",
       "link": "https://www.davidrevoy.com/article1164/when-online-commenters-detect-my-art-as-ai"
@@ -171,7 +290,7 @@ const FEED_DATA = {
     },
     {
       "title": "Born Against, or why hobby programming communities are against LLM usage",
-      "summary": "Article URL: https://blog.fogus.me/llm/born-against.html Comments URL: https://news.ycombinator.com/item?id=49187061 Points: 341 # Comments: 379",
+      "summary": "Article URL: https://blog.fogus.me/llm/born-against.html Comments URL: https://news.ycombinator.com/item?id=49187061 Points: 408 # Comments: 482",
       "source": "Hacker News",
       "published": "2026-08-05T18:37:49+00:00",
       "link": "https://blog.fogus.me/llm/born-against.html"
@@ -192,21 +311,21 @@ const FEED_DATA = {
     },
     {
       "title": "Microsoft's AI Sales Mostly Come from OpenAI, Disclosures Show",
-      "summary": "https://www.bloomberg.com/news/articles/2026-08-05/microsoft... Comments URL: https://news.ycombinator.com/item?id=49186766 Points: 68 # Comments: 16",
+      "summary": "https://www.bloomberg.com/news/articles/2026-08-05/microsoft... Comments URL: https://news.ycombinator.com/item?id=49186766 Points: 70 # Comments: 16",
       "source": "Hacker News",
       "published": "2026-08-05T18:19:10+00:00",
       "link": "https://www.bloomberg.com/news/articles/2026-08-05/microsoft-s-ai-sales-mostly-come-from-openai-disclosures-show"
     },
     {
       "title": "Beating GPT-5.6 Sol on retrieval with 100x cheaper open models",
-      "summary": "Article URL: https://neon.com/blog/how-castform-neon-beats-frontier-models-on-price-and-efficiency Comments URL: https://news.ycombinator.com/item?id=49186762 Points: 366 # Comments: 102",
+      "summary": "Article URL: https://neon.com/blog/how-castform-neon-beats-frontier-models-on-price-and-efficiency Comments URL: https://news.ycombinator.com/item?id=49186762 Points: 422 # Comments: 114",
       "source": "Hacker News",
       "published": "2026-08-05T18:18:56+00:00",
       "link": "https://neon.com/blog/how-castform-neon-beats-frontier-models-on-price-and-efficiency"
     },
     {
       "title": "Sycophantic AI Decreases Prosocial Intentions and Promotes Dependence (2025)",
-      "summary": "Article URL: https://arxiv.org/abs/2510.01395 Comments URL: https://news.ycombinator.com/item?id=49186720 Points: 152 # Comments: 81",
+      "summary": "Article URL: https://arxiv.org/abs/2510.01395 Comments URL: https://news.ycombinator.com/item?id=49186720 Points: 162 # Comments: 96",
       "source": "Hacker News",
       "published": "2026-08-05T18:17:03+00:00",
       "link": "https://arxiv.org/abs/2510.01395"
@@ -254,18 +373,18 @@ const FEED_DATA = {
       "link": "https://www.wired.com/story/meta-ran-ads-that-contained-ai-generated-child-sexual-abuse-imagery/"
     },
     {
-      "title": "Reddit is introducing a new moderator: AI",
-      "summary": "Reddit is enlisting AI to help moderate new subreddits - and eventually the rest of site.",
-      "source": "The Verge",
-      "published": "2026-08-05T16:00:00+00:00",
-      "link": "https://www.theverge.com/tech/975398/reddit-ai-rules-hub-moderator-old-reddit-developer-platform"
-    },
-    {
       "title": "Google’s Top AI Brains Are Leaving to Launch Discovery Loop",
       "summary": "Jeff Dean and other high-profile Google executives have founded Discovery Loop, a startup that will seek AI-powered breakthroughs in everything from drug discovery to chip design.",
       "source": "Wired",
       "published": "2026-08-05T16:00:00+00:00",
       "link": "https://www.wired.com/story/jeff-dean-google-discovery-loop-startup/"
+    },
+    {
+      "title": "Reddit is introducing a new moderator: AI",
+      "summary": "Reddit is enlisting AI to help moderate new subreddits - and eventually the rest of site.",
+      "source": "The Verge",
+      "published": "2026-08-05T16:00:00+00:00",
+      "link": "https://www.theverge.com/tech/975398/reddit-ai-rules-hub-moderator-old-reddit-developer-platform"
     },
     {
       "title": "Shopify says AI search is driving more traffic and sales, not replacing Google",
@@ -318,7 +437,7 @@ const FEED_DATA = {
     },
     {
       "title": "Intelligence Is Not the Main Bottleneck",
-      "summary": "Article URL: https://www.writingruxandrabio.com/p/intelligence-is-not-the-main-bottleneck Comments URL: https://news.ycombinator.com/item?id=49183076 Points: 121 # Comments: 115",
+      "summary": "Article URL: https://www.writingruxandrabio.com/p/intelligence-is-not-the-main-bottleneck Comments URL: https://news.ycombinator.com/item?id=49183076 Points: 123 # Comments: 116",
       "source": "Hacker News",
       "published": "2026-08-05T14:04:06+00:00",
       "link": "https://www.writingruxandrabio.com/p/intelligence-is-not-the-main-bottleneck"
@@ -332,7 +451,7 @@ const FEED_DATA = {
     },
     {
       "title": "TIME Is Serving AI Bots a Different Website, with Ads Built In",
-      "summary": "Article URL: https://www.vincentschmalbach.com/time-serves-ai-bots-a-different-website/ Comments URL: https://news.ycombinator.com/item?id=49182041 Points: 251 # Comments: 109",
+      "summary": "Article URL: https://www.vincentschmalbach.com/time-serves-ai-bots-a-different-website/ Comments URL: https://news.ycombinator.com/item?id=49182041 Points: 253 # Comments: 110",
       "source": "Hacker News",
       "published": "2026-08-05T12:41:47+00:00",
       "link": "https://www.vincentschmalbach.com/time-serves-ai-bots-a-different-website/"
@@ -346,7 +465,7 @@ const FEED_DATA = {
     },
     {
       "title": "Anthropic AI created fake profiles and impersonated people in attempted hack",
-      "summary": "Article URL: https://www.bbc.co.uk/news/articles/c1w1lvn7d9go Comments URL: https://news.ycombinator.com/item?id=49181773 Points: 54 # Comments: 20",
+      "summary": "Article URL: https://www.bbc.co.uk/news/articles/c1w1lvn7d9go Comments URL: https://news.ycombinator.com/item?id=49181773 Points: 54 # Comments: 21",
       "source": "Hacker News",
       "published": "2026-08-05T12:16:47+00:00",
       "link": "https://www.bbc.co.uk/news/articles/c1w1lvn7d9go"
@@ -360,7 +479,7 @@ const FEED_DATA = {
     },
     {
       "title": "Why Erdős Problems Are Falling to AI",
-      "summary": "Article URL: https://www.quantamagazine.org/why-the-legendary-erdos-problems-are-falling-to-ai-20260803/ Comments URL: https://news.ycombinator.com/item?id=49181519 Points: 144 # Comments: 132",
+      "summary": "Article URL: https://www.quantamagazine.org/why-the-legendary-erdos-problems-are-falling-to-ai-20260803/ Comments URL: https://news.ycombinator.com/item?id=49181519 Points: 148 # Comments: 135",
       "source": "Hacker News",
       "published": "2026-08-05T11:49:34+00:00",
       "link": "https://www.quantamagazine.org/why-the-legendary-erdos-problems-are-falling-to-ai-20260803/"
@@ -416,14 +535,14 @@ const FEED_DATA = {
     },
     {
       "title": "Rust-lang/rust is adopting an LLM policy",
-      "summary": "Article URL: https://blog.rust-lang.org/inside-rust/2026/08/05/rust-langrust-is-adopting-an-llm-policy/ Comments URL: https://news.ycombinator.com/item?id=49179039 Points: 111 # Comments: 71",
+      "summary": "Article URL: https://blog.rust-lang.org/inside-rust/2026/08/05/rust-langrust-is-adopting-an-llm-policy/ Comments URL: https://news.ycombinator.com/item?id=49179039 Points: 114 # Comments: 71",
       "source": "Hacker News",
       "published": "2026-08-05T05:52:24+00:00",
       "link": "https://blog.rust-lang.org/inside-rust/2026/08/05/rust-langrust-is-adopting-an-llm-policy/"
     },
     {
       "title": "Zero-Mem: Zero-Token Memory Operations for LLM Agents",
-      "summary": "Article URL: https://arxiv.org/abs/2607.29377 Comments URL: https://news.ycombinator.com/item?id=49178608 Points: 96 # Comments: 13",
+      "summary": "Article URL: https://arxiv.org/abs/2607.29377 Comments URL: https://news.ycombinator.com/item?id=49178608 Points: 97 # Comments: 13",
       "source": "Hacker News",
       "published": "2026-08-05T04:36:44+00:00",
       "link": "https://arxiv.org/abs/2607.29377"
@@ -444,7 +563,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI fuels more than half of cybercrime in Africa as scams surge – Interpol",
-      "summary": "https://www.interpol.int/Media/Documents/Publications/Cyberc... Comments URL: https://news.ycombinator.com/item?id=49175826 Points: 292 # Comments: 241",
+      "summary": "https://www.interpol.int/Media/Documents/Publications/Cyberc... Comments URL: https://news.ycombinator.com/item?id=49175826 Points: 292 # Comments: 247",
       "source": "Hacker News",
       "published": "2026-08-04T22:01:41+00:00",
       "link": "https://www.africanews.com/2026/08/04/ai-fuels-more-than-half-of-cybercrime-in-africa-as-digital-scams-surge-interpol/"
@@ -1281,125 +1400,6 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-07-31T16:39:25+00:00",
       "link": "https://the-decoder.com/new-deepseek-flash-model-matches-openais-gpt-5-6-luna-at-roughly-60-percent-lower-cost/"
-    },
-    {
-      "title": "The major labels propose rules to keep AI slop off the charts",
-      "summary": "Several record labels, including the big three - Universal Music Group, Sony Music, and Warner Music Group - have proposed rules regarding chart eligibility for AI songs. In short, they wouldn't be.",
-      "source": "The Verge",
-      "published": "2026-07-31T16:36:48+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/973741/ai-music-major-record-labels-charts"
-    },
-    {
-      "title": "Siri AI could come with a paywall for power users",
-      "summary": "Apple CEO Tim Cook envisions users being able to buy more compute for Siri AI via Apple's existing iCloud+ subscriptions.",
-      "source": "TechCrunch",
-      "published": "2026-07-31T16:08:18+00:00",
-      "link": "https://techcrunch.com/2026/07/31/siri-ai-could-come-with-a-paywall-for-power-users/"
-    },
-    {
-      "title": "Is AI reasoning right for the wrong reasons?",
-      "summary": "Article URL: https://www.quantamagazine.org/is-ai-reasoning-right-for-the-wrong-reasons-20260731/ Comments URL: https://news.ycombinator.com/item?id=49124358 Points: 216 # Comments: 248",
-      "source": "Hacker News",
-      "published": "2026-07-31T15:29:39+00:00",
-      "link": "https://www.quantamagazine.org/is-ai-reasoning-right-for-the-wrong-reasons-20260731/"
-    },
-    {
-      "title": "EU pools up to €30 billion for AI gigafactories while US tech giants casually spend 20 times more",
-      "summary": "The European Commission wants to build up to seven AI gigafactories across Europe, backed by around 30 billion euros in public and private funding. For context, the major U.S.",
-      "source": "The Decoder",
-      "published": "2026-07-31T15:28:08+00:00",
-      "link": "https://the-decoder.com/eu-pools-up-to-e30-billion-for-ai-gigafactories-while-us-tech-giants-casually-spend-20-times-more/"
-    },
-    {
-      "title": "SpaceX won’t remove all of xAI’s unpermitted turbines for another year",
-      "summary": "SpaceX is building a new power plant for xAI's Colossus data centers, but it won't remove existing, unpermitted turbines for many more months.",
-      "source": "TechCrunch",
-      "published": "2026-07-31T15:16:17+00:00",
-      "link": "https://techcrunch.com/2026/07/31/spacex-wont-remove-all-of-xais-unpermitted-turbines-for-another-year/"
-    },
-    {
-      "title": "OpenAI aligns safety practices with EU AI Act’s GPAI Code",
-      "summary": "OpenAI has outlined how it aligns safety, security, and transparency work with the EU AI Act’s GPAI Code as enforcement approaches.",
-      "source": "AI News",
-      "published": "2026-07-31T15:04:25+00:00",
-      "link": "https://www.artificialintelligence-news.com/news/openai-aligns-safety-practices-with-eu-ai-act-gpai-code/"
-    },
-    {
-      "title": "AI Slop Melodramas Are Taking Over X—and Their Creators Are Cashing In",
-      "summary": "Viral tales of good triumphing over evil are racking up millions of views. They’re almost entirely AI-generated clickbait.",
-      "source": "Wired",
-      "published": "2026-07-31T15:00:09+00:00",
-      "link": "https://www.wired.com/story/ai-slop-melodramas-are-taking-over-x-and-their-creators-are-cashing-in/"
-    },
-    {
-      "title": "This AI Assistant Wants to Make Up for Your Boyfriend’s Incompetence",
-      "summary": "An ad for Orchid suggests the AI agent can fix relationship problems by simply doing everything for inconsiderate partners.",
-      "source": "Wired",
-      "published": "2026-07-31T14:47:26+00:00",
-      "link": "https://www.wired.com/story/this-ai-assistants-whole-pitch-is-making-up-for-your-boyfriends-incompetence/"
-    },
-    {
-      "title": "Smallest.ai raises $13M to build ultra-fast voice AI that sounds genuinely human",
-      "summary": "The startup is building voice models designed to make AI phone calls pass the Turing test.",
-      "source": "TechCrunch",
-      "published": "2026-07-31T14:47:11+00:00",
-      "link": "https://techcrunch.com/2026/07/31/smallest-ai-raises-13m-to-build-ultra-fast-voice-ai-that-sounds-genuinely-human/"
-    },
-    {
-      "title": "It’s time to panic about AI safety",
-      "summary": "When the phrase \"OpenAI hacked Hugging Face\" has more or less entered mainstream culture, you know we have an AI problem.",
-      "source": "The Verge",
-      "published": "2026-07-31T14:03:04+00:00",
-      "link": "https://www.theverge.com/podcast/973668/ai-safety-openai-hugging-face-vergecast"
-    },
-    {
-      "title": "AI labs want to pump the brakes, but Amazon and SpaceX are still blasting off",
-      "summary": "After years of pushing full speed ahead on AI, OpenAI CEO Sam Altman says maybe it’s time for the AI industry to “pace” itself.",
-      "source": "TechCrunch",
-      "published": "2026-07-31T14:00:00+00:00",
-      "link": "https://techcrunch.com/podcast/ai-labs-want-to-pump-the-brakes-but-amazon-and-spacex-are-still-blasting-off/"
-    },
-    {
-      "title": "Anthropic says Claude accidentally hacked real companies too",
-      "summary": "Anthropic just realized several of its Claude AI models hacked into the systems of three different organizations during testing, acting on their own and without the company noticing.",
-      "source": "The Verge",
-      "published": "2026-07-31T13:41:17+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/973670/anthropic-claude-hacked-organizations-during-cyber-tests"
-    },
-    {
-      "title": "Situational Awareness down 67% in July in AI stock rout",
-      "summary": "Article URL: https://www.wsj.com/finance/investing/situational-awareness-down-67-in-july-in-ai-stock-rout-cd19901f Comments URL: https://news.ycombinator.com/item?id=49122994 Points: 155 # Comments: 167",
-      "source": "Hacker News",
-      "published": "2026-07-31T13:37:36+00:00",
-      "link": "https://www.wsj.com/finance/investing/situational-awareness-down-67-in-july-in-ai-stock-rout-cd19901f"
-    },
-    {
-      "title": "The Download: Montana’s new experimental drug rules",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.",
-      "source": "MIT Tech Review",
-      "published": "2026-07-31T12:16:00+00:00",
-      "link": "https://www.technologyreview.com/2026/07/31/1140999/the-download-montanas-right-to-try-law-anthropic-hacks/"
-    },
-    {
-      "title": "The Maxwell Conjecture Is False (GPT 5.6 Sol)",
-      "summary": "Article URL: https://arxiv.org/abs/2607.27197 Comments URL: https://news.ycombinator.com/item?id=49121868 Points: 156 # Comments: 140",
-      "source": "Hacker News",
-      "published": "2026-07-31T11:37:12+00:00",
-      "link": "https://arxiv.org/abs/2607.27197"
-    },
-    {
-      "title": "Anthropic follows OpenAI in admitting its Claude models reached out of test environments and attacked real-world systems",
-      "summary": "Three Claude models attacked real companies during cybersecurity tests after a misconfiguration gave them internet access. One published malware on PyPI that infected 15 systems.",
-      "source": "The Decoder",
-      "published": "2026-07-31T10:57:37+00:00",
-      "link": "https://the-decoder.com/anthropic-follows-openai-in-admitting-its-claude-models-reached-out-of-test-environments-and-attacked-real-world-systems/"
-    },
-    {
-      "title": "Aschenbrenner's AI thesis could be correct, his timing and leverage were not",
-      "summary": "Leopold Aschenbrenner's AI hedge fund Situational Awareness had to unload nearly its entire publicly traded portfolio to Ken Griffin's Citadel after racking up heavy losses on leveraged AI stock positions.",
-      "source": "The Decoder",
-      "published": "2026-07-31T10:49:05+00:00",
-      "link": "https://the-decoder.com/aschenbrenners-ai-thesis-could-be-correct-his-timing-and-leverage-were-not/"
     }
   ]
 };
