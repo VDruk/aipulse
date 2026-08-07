@@ -1,6 +1,55 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-08-07T09:46:21.329763+00:00",
+  "lastUpdated": "2026-08-07T14:15:48.520931+00:00",
   "items": [
+    {
+      "title": "How ideas of a vast censorship network moved from the online fringe to Trump policy",
+      "summary": "This article was produced in partnership with Type Investigations, with support from the Wayne Barrett Project. One morning in April 2025, employees of a small office in the US State Department got the email many of them had been dreading.",
+      "source": "MIT Tech Review",
+      "published": "2026-08-07T14:00:00+00:00",
+      "link": "https://www.technologyreview.com/2026/08/07/1141105/how-ideas-of-a-vast-censorship-network-moved-from-the-online-fringe-to-trump-policy/"
+    },
+    {
+      "title": "AI psychosis is the new leadership blind spot",
+      "summary": "Article URL: https://www.fastcompany.com/91576086/ai-psychosis-is-the-new-leadership-blind-spot-ai-leadership-blind-spots Comments URL: https://news.ycombinator.com/item?id=49210077 Points: 56 # Comments: 21",
+      "source": "Hacker News",
+      "published": "2026-08-07T13:27:30+00:00",
+      "link": "https://www.fastcompany.com/91576086/ai-psychosis-is-the-new-leadership-blind-spot-ai-leadership-blind-spots"
+    },
+    {
+      "title": "China's Largest AI Model Is Being Developed at Bytedance",
+      "summary": "Bytedance is training an AI model with up to ten trillion parameters, according to the Financial Times. That's three times the size of Moonshot's Kimi K3, currently the largest Chinese model.",
+      "source": "The Decoder",
+      "published": "2026-08-07T12:54:17+00:00",
+      "link": "https://the-decoder.com/chinas-largest-ai-model-is-being-developed-at-bytedance/"
+    },
+    {
+      "title": "Stanford and Arc Institute scientists used AI to design new viruses that killed bacteria in the lab",
+      "summary": "A research team in California has used artificial intelligence to design working viruses that kill bacteria, in what they describe as the \"first generative design of complete genomes.\" The project marks an early step toward AI-designed life forms, according to a report in MIT...",
+      "source": "The Decoder",
+      "published": "2026-08-07T12:50:56+00:00",
+      "link": "https://the-decoder.com/stanford-and-arc-institute-scientists-used-ai-to-design-new-viruses-that-killed-bacteria-in-the-lab/"
+    },
+    {
+      "title": "OpenAI's hockey-puck-sized smart speaker with moving parts is set to ship in 2027",
+      "summary": "OpenAI's planned smart speaker is taking shape. The company's first hardware device will be donut-shaped, roughly the size of a hockey puck, and priced above $300, according to Bloomberg.",
+      "source": "The Decoder",
+      "published": "2026-08-07T12:45:32+00:00",
+      "link": "https://the-decoder.com/openais-hockey-puck-sized-smart-speaker-with-moving-parts-is-set-to-ship-in-2027/"
+    },
+    {
+      "title": "New Mexico court orders Meta to pay additional $567M in child safety case",
+      "summary": "Meta's total fine has raked up to $942 million in this case",
+      "source": "TechCrunch",
+      "published": "2026-08-07T11:40:37+00:00",
+      "link": "https://techcrunch.com/2026/08/07/new-mexico-court-orders-meta-to-pay-additional-567m-in-child-safety-case/"
+    },
+    {
+      "title": "The Hottest New AI Chatbot Is Just a Guy Answering Your Questions",
+      "summary": "WIRED spoke with Tucker Bryant, an artist and former Google employee who created ChatTJB to get people to reflect on the “strange moment” we’re in.",
+      "source": "Wired",
+      "published": "2026-08-07T10:00:00+00:00",
+      "link": "https://www.wired.com/story/this-chatbot-is-just-a-random-guy-lol/"
+    },
     {
       "title": "OpenAI reportedly slows research after its own models secretly coordinated hacks for weeks undetected",
       "summary": "During internal security tests, OpenAI's AI agents built their own message board with hundreds of thousands of posts, shared exploits and credentials, and eventually attacked external platforms like Hugging Face.",
@@ -23,11 +72,25 @@ const FEED_DATA = {
       "link": "https://the-decoder.com/openai-improves-gpt-5-6-sol-in-chatgpt-and-restricts-free-users-to-its-weakest-model/"
     },
     {
+      "title": "I won't read LLM authored fiction",
+      "summary": "Article URL: https://mccormick.cx/news/entries/why-i-won-t-read-llm-authored-fiction Comments URL: https://news.ycombinator.com/item?id=49207146 Points: 59 # Comments: 105",
+      "source": "Hacker News",
+      "published": "2026-08-07T07:45:56+00:00",
+      "link": "https://mccormick.cx/news/entries/why-i-won-t-read-llm-authored-fiction"
+    },
+    {
       "title": "One of China’s Most Powerful AI Models Has Also Escaped Containment",
       "summary": "Security researchers say that Kimi K3, an open-weight model from China, wandered off to the internet in an attempt to cheat on a test it was given.",
       "source": "Wired",
       "published": "2026-08-07T01:16:55+00:00",
       "link": "https://www.wired.com/story/moonshot-kimi-k3-ai-model-escape-sandbox/"
+    },
+    {
+      "title": "New Orleans is testing Carbyne’s AI-powered Emergency Call Triage software",
+      "summary": "Article URL: https://www.shreveporttimes.com/story/news/local/louisiana/2026/07/28/is-new-orleans-using-ai-to-answer-911-calls-instead-of-human-dispatchers-impacts-emergencies-crime/91065014007/ Comments URL: https://news.ycombinator.com/item?id=49204546 Points: 66 # Comments:...",
+      "source": "Hacker News",
+      "published": "2026-08-07T00:37:30+00:00",
+      "link": "https://www.shreveporttimes.com/story/news/local/louisiana/2026/07/28/is-new-orleans-using-ai-to-answer-911-calls-instead-of-human-dispatchers-impacts-emergencies-crime/91065014007/"
     },
     {
       "title": "OpenAI’s new AI smart speaker will reportedly sell for between $300 and $400",
@@ -38,7 +101,7 @@ const FEED_DATA = {
     },
     {
       "title": "Inside vLLM: Anatomy of a High-Throughput LLM Inference System (2025)",
-      "summary": "Article URL: https://www.aleksagordic.com/blog/vllm Comments URL: https://news.ycombinator.com/item?id=49202852 Points: 85 # Comments: 4",
+      "summary": "Article URL: https://www.aleksagordic.com/blog/vllm Comments URL: https://news.ycombinator.com/item?id=49202852 Points: 131 # Comments: 8",
       "source": "Hacker News",
       "published": "2026-08-06T21:30:21+00:00",
       "link": "https://www.aleksagordic.com/blog/vllm"
@@ -59,7 +122,7 @@ const FEED_DATA = {
     },
     {
       "title": "xAI, SpaceX, and the Race for AI Buildout",
-      "summary": "Article URL: https://illegal.solutions/posts/xai_pollution Comments URL: https://news.ycombinator.com/item?id=49201342 Points: 138 # Comments: 115",
+      "summary": "Article URL: https://illegal.solutions/posts/xai_pollution Comments URL: https://news.ycombinator.com/item?id=49201342 Points: 141 # Comments: 119",
       "source": "Hacker News",
       "published": "2026-08-06T19:38:45+00:00",
       "link": "https://illegal.solutions/posts/xai_pollution"
@@ -101,7 +164,7 @@ const FEED_DATA = {
     },
     {
       "title": "Improving GPT‑5.6 Sol in ChatGPT, expanding GPT‑5.6 Luna access for free users",
-      "summary": "Article URL: https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt/ Comments URL: https://news.ycombinator.com/item?id=49199357 Points: 202 # Comments: 148",
+      "summary": "Article URL: https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt/ Comments URL: https://news.ycombinator.com/item?id=49199357 Points: 272 # Comments: 221",
       "source": "Hacker News",
       "published": "2026-08-06T17:02:04+00:00",
       "link": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt/"
@@ -140,6 +203,13 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-08-06T15:53:03+00:00",
       "link": "https://techcrunch.com/2026/08/06/gen-z-dating-apps-like-ditto-ditch-swiping-in-favor-of-ai-matchmaking/"
+    },
+    {
+      "title": "Software development with AI is starting to feel like cooking steak",
+      "summary": "Article URL: https://blog.sydorets.com/en/posts/almost-no-skill-required-to-cook-a-steak/ Comments URL: https://news.ycombinator.com/item?id=49198069 Points: 379 # Comments: 404",
+      "source": "Hacker News",
+      "published": "2026-08-06T15:30:48+00:00",
+      "link": "https://blog.sydorets.com/en/posts/almost-no-skill-required-to-cook-a-steak/"
     },
     {
       "title": "OpenAI says Apple’s own security practices undermine its trade secrets case",
@@ -220,7 +290,7 @@ const FEED_DATA = {
     },
     {
       "title": "Humans missed 1 in 3 threats approving AI agent commands across 40k game runs",
-      "summary": "Article URL: https://scalex.dev/blog/ai-agent-permissions-stats/ Comments URL: https://news.ycombinator.com/item?id=49195468 Points: 278 # Comments: 198",
+      "summary": "Article URL: https://scalex.dev/blog/ai-agent-permissions-stats/ Comments URL: https://news.ycombinator.com/item?id=49195468 Points: 326 # Comments: 228",
       "source": "Hacker News",
       "published": "2026-08-06T11:58:07+00:00",
       "link": "https://scalex.dev/blog/ai-agent-permissions-stats/"
@@ -241,7 +311,7 @@ const FEED_DATA = {
     },
     {
       "title": "Governments are making a dangerous bet on the AI boom",
-      "summary": "Article URL: https://www.economist.com/leaders/2026/08/05/governments-are-making-a-dangerous-bet-on-the-ai-boom Comments URL: https://news.ycombinator.com/item?id=49192160 Points: 55 # Comments: 34",
+      "summary": "Article URL: https://www.economist.com/leaders/2026/08/05/governments-are-making-a-dangerous-bet-on-the-ai-boom Comments URL: https://news.ycombinator.com/item?id=49192160 Points: 57 # Comments: 34",
       "source": "Hacker News",
       "published": "2026-08-06T03:40:51+00:00",
       "link": "https://www.economist.com/leaders/2026/08/05/governments-are-making-a-dangerous-bet-on-the-ai-boom"
@@ -276,7 +346,7 @@ const FEED_DATA = {
     },
     {
       "title": "When online commenters detect my art as AI",
-      "summary": "Article URL: https://www.davidrevoy.com/article1164/when-online-commenters-detect-my-art-as-ai Comments URL: https://news.ycombinator.com/item?id=49188916 Points: 105 # Comments: 58",
+      "summary": "Article URL: https://www.davidrevoy.com/article1164/when-online-commenters-detect-my-art-as-ai Comments URL: https://news.ycombinator.com/item?id=49188916 Points: 109 # Comments: 63",
       "source": "Hacker News",
       "published": "2026-08-05T20:58:52+00:00",
       "link": "https://www.davidrevoy.com/article1164/when-online-commenters-detect-my-art-as-ai"
@@ -304,7 +374,7 @@ const FEED_DATA = {
     },
     {
       "title": "Born Against, or why hobby programming communities are against LLM usage",
-      "summary": "Article URL: https://blog.fogus.me/llm/born-against.html Comments URL: https://news.ycombinator.com/item?id=49187061 Points: 411 # Comments: 487",
+      "summary": "Article URL: https://blog.fogus.me/llm/born-against.html Comments URL: https://news.ycombinator.com/item?id=49187061 Points: 421 # Comments: 503",
       "source": "Hacker News",
       "published": "2026-08-05T18:37:49+00:00",
       "link": "https://blog.fogus.me/llm/born-against.html"
@@ -332,14 +402,14 @@ const FEED_DATA = {
     },
     {
       "title": "Beating GPT-5.6 Sol on retrieval with 100x cheaper open models",
-      "summary": "Article URL: https://neon.com/blog/how-castform-neon-beats-frontier-models-on-price-and-efficiency Comments URL: https://news.ycombinator.com/item?id=49186762 Points: 425 # Comments: 115",
+      "summary": "Article URL: https://neon.com/blog/how-castform-neon-beats-frontier-models-on-price-and-efficiency Comments URL: https://news.ycombinator.com/item?id=49186762 Points: 427 # Comments: 119",
       "source": "Hacker News",
       "published": "2026-08-05T18:18:56+00:00",
       "link": "https://neon.com/blog/how-castform-neon-beats-frontier-models-on-price-and-efficiency"
     },
     {
       "title": "Sycophantic AI Decreases Prosocial Intentions and Promotes Dependence (2025)",
-      "summary": "Article URL: https://arxiv.org/abs/2510.01395 Comments URL: https://news.ycombinator.com/item?id=49186720 Points: 165 # Comments: 98",
+      "summary": "Article URL: https://arxiv.org/abs/2510.01395 Comments URL: https://news.ycombinator.com/item?id=49186720 Points: 168 # Comments: 99",
       "source": "Hacker News",
       "published": "2026-08-05T18:17:03+00:00",
       "link": "https://arxiv.org/abs/2510.01395"
@@ -465,7 +535,7 @@ const FEED_DATA = {
     },
     {
       "title": "TIME Is Serving AI Bots a Different Website, with Ads Built In",
-      "summary": "Article URL: https://www.vincentschmalbach.com/time-serves-ai-bots-a-different-website/ Comments URL: https://news.ycombinator.com/item?id=49182041 Points: 256 # Comments: 110",
+      "summary": "Article URL: https://www.vincentschmalbach.com/time-serves-ai-bots-a-different-website/ Comments URL: https://news.ycombinator.com/item?id=49182041 Points: 260 # Comments: 110",
       "source": "Hacker News",
       "published": "2026-08-05T12:41:47+00:00",
       "link": "https://www.vincentschmalbach.com/time-serves-ai-bots-a-different-website/"
@@ -493,7 +563,7 @@ const FEED_DATA = {
     },
     {
       "title": "Why Erdős Problems Are Falling to AI",
-      "summary": "Article URL: https://www.quantamagazine.org/why-the-legendary-erdos-problems-are-falling-to-ai-20260803/ Comments URL: https://news.ycombinator.com/item?id=49181519 Points: 148 # Comments: 137",
+      "summary": "Article URL: https://www.quantamagazine.org/why-the-legendary-erdos-problems-are-falling-to-ai-20260803/ Comments URL: https://news.ycombinator.com/item?id=49181519 Points: 148 # Comments: 139",
       "source": "Hacker News",
       "published": "2026-08-05T11:49:34+00:00",
       "link": "https://www.quantamagazine.org/why-the-legendary-erdos-problems-are-falling-to-ai-20260803/"
@@ -1330,76 +1400,6 @@ const FEED_DATA = {
       "source": "Hacker News",
       "published": "2026-08-01T02:45:09+00:00",
       "link": "https://microsoft.github.io/flint-chart/"
-    },
-    {
-      "title": "OpenAI reportedly finds evidence that more of its agents ran amok",
-      "summary": "OpenAI has reportedly found evidence of additional agent misbehavior as it looks into the incident that occurred with Hugging Face.",
-      "source": "TechCrunch",
-      "published": "2026-07-31T22:47:26+00:00",
-      "link": "https://techcrunch.com/2026/07/31/openai-reportedly-finds-evidence-that-more-of-its-agents-ran-amok/"
-    },
-    {
-      "title": "Claude published malicious code to the Internet and attacked 3 real companies",
-      "summary": "Had the hacks used conventional methods, someone would likely go to prison.",
-      "source": "Ars Technica",
-      "published": "2026-07-31T20:39:14+00:00",
-      "link": "https://arstechnica.com/security/2026/07/likely-illegally-claude-gained-access-to-3-networks-will-anthropic-be-held-to-account/"
-    },
-    {
-      "title": "Google nixes its Earth AI feature one day after launch, amid criticism it would spread misinformation",
-      "summary": "A tool that allowed anyone to generate fake AI-generated imagery and superimpose it over real Google Earth maps quickly spurred backlash.",
-      "source": "TechCrunch",
-      "published": "2026-07-31T19:47:28+00:00",
-      "link": "https://techcrunch.com/2026/07/31/google-nixes-its-earth-ai-feature-one-day-after-launch-amid-criticism-it-would-spread-misinformation/"
-    },
-    {
-      "title": "Google Earth’s AI deepfake tool only lasted one day",
-      "summary": "Google has shut down Google Earth feature it launched Thursday that allowed users to edit satellite images with text prompts using AI.",
-      "source": "The Verge",
-      "published": "2026-07-31T19:13:29+00:00",
-      "link": "https://www.theverge.com/tech/973943/google-earth-ai-image-generation-deepfake-tool"
-    },
-    {
-      "title": "Google Deepmind unveils Gemini Robotics 2 to power robots of all shapes from tabletop arms to humanoids",
-      "summary": "Google Deepmind's Gemini Robotics 2 is its most advanced vision-language-action model yet, built to control everything from tabletop robots to full-body humanoids. Gemini Robotics ER 2 adds a higher-level reasoning layer for robotics tasks.",
-      "source": "The Decoder",
-      "published": "2026-07-31T18:25:08+00:00",
-      "link": "https://the-decoder.com/google-deepmind-unveils-gemini-robotics-2-to-power-robots-of-all-shapes-from-tabletop-arms-to-humanoids/"
-    },
-    {
-      "title": "Chinese AI Researchers Are Finding Their Voice on X",
-      "summary": "As OpenAI and Anthropic employees grow quieter online, researchers at Chinese AI labs are flocking to X to explain their work, recruit talent, and shape the global conversation on AI.",
-      "source": "Wired",
-      "published": "2026-07-31T18:14:43+00:00",
-      "link": "https://www.wired.com/story/chinese-ai-researchers-are-finding-their-voice-on-x/"
-    },
-    {
-      "title": "Everyone is building LLM routers, we deprecated ours",
-      "summary": "Article URL: https://manifest.build/blog/why-we-deprecated-our-llm-router/ Comments URL: https://news.ycombinator.com/item?id=49126630 Points: 131 # Comments: 86",
-      "source": "Hacker News",
-      "published": "2026-07-31T18:06:39+00:00",
-      "link": "https://manifest.build/blog/why-we-deprecated-our-llm-router/"
-    },
-    {
-      "title": "Thinking Machines bets on efficiency over size with its second model, Inkling Small",
-      "summary": "Thinking Machines, the AI lab from former OpenAI CTO Mira Murati, has released Inkling Small. The open-weights reasoning model is less than a third the size of Inkling but beats it on several coding and reasoning benchmarks.",
-      "source": "The Decoder",
-      "published": "2026-07-31T17:41:50+00:00",
-      "link": "https://the-decoder.com/thinking-machines-bets-on-efficiency-over-size-with-its-second-model-inkling-small/"
-    },
-    {
-      "title": "Sam Altman isn’t the only one who wants to pump the brakes on AI",
-      "summary": "After years of pushing full speed ahead on AI, OpenAI CEO Sam Altman says maybe it’s time for the AI industry to “pace” itself.",
-      "source": "TechCrunch",
-      "published": "2026-07-31T17:26:32+00:00",
-      "link": "https://techcrunch.com/video/sam-altman-isnt-the-only-one-who-wants-to-pump-the-brakes-on-ai/"
-    },
-    {
-      "title": "Here’s the problem with putting an AI image generator in Google Earth",
-      "summary": "A text prompt was all it took to generate reality-warping images using Google Earth's satellite, aerial, and 3D imagery with a now-rolled back AI feature, like these images generated by Digital Digging's Henk van Ess that show \"refugees near the Mexican border\" and a bomb crater...",
-      "source": "The Verge",
-      "published": "2026-07-31T17:05:46+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/973764/google-earth-ai-satellite-images"
     }
   ]
 };
