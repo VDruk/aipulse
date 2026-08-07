@@ -1,6 +1,55 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-08-07T17:43:17.735898+00:00",
+  "lastUpdated": "2026-08-07T21:32:41.776735+00:00",
   "items": [
+    {
+      "title": "After Rippling blew millions on AI in months, it built an employee ROI tool",
+      "summary": "After its own AI usage wake-up call, Rippling this week unveiled AI Spend Console, a product that tracks individual and team employee AI spending.",
+      "source": "TechCrunch",
+      "published": "2026-08-07T21:30:11+00:00",
+      "link": "https://techcrunch.com/2026/08/07/after-rippling-blew-millions-on-ai-in-months-it-built-an-employee-roi-tool/"
+    },
+    {
+      "title": "Fenix Flexin isn’t even denying using AI to make ‘Rubberz’ anymore",
+      "summary": "It took long enough, but now LA rapper Fenix Flexin appears to have admitted using AI for the 80s synth pop-themed song \"Rubberz.\" His comments follow the producer Medasin's videos claiming that an AI tool called Treblo (formerly Sonauto) was used to make the song, and the...",
+      "source": "The Verge",
+      "published": "2026-08-07T20:01:51+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/976801/fenix-flexin-rubberz-ai-song-treblo"
+    },
+    {
+      "title": "OpenAI flags its new Astra model as potentially reaching the highest cybersecurity risk level for the first time",
+      "summary": "Internal tests of OpenAI's new AI model Astra show cybersecurity capabilities so strong that the company can no longer rule out the highest risk level in its own safety framework. Parts of Astra's development have been paused.",
+      "source": "The Decoder",
+      "published": "2026-08-07T19:41:06+00:00",
+      "link": "https://the-decoder.com/openai-flags-its-new-astra-model-as-potentially-reaching-the-highest-cybersecurity-risk-level-for-the-first-time/"
+    },
+    {
+      "title": "Watching Roku’s AI channel is like eating from a trough",
+      "summary": "The appeal of free ad-supported streaming television (FAST) channels has always been the way they make it easier to (re)discover classic films and series.",
+      "source": "The Verge",
+      "published": "2026-08-07T18:59:46+00:00",
+      "link": "https://www.theverge.com/entertainment/976939/roku-fairground-ai-fast-channel"
+    },
+    {
+      "title": "OpenAI puts the brakes on a new model because it’s supposedly too powerful",
+      "summary": "OpenAI says it is pausing \"internal activities\" around an in-development AI model, Astra, because it doesn't yet meet new security standards the company is putting in place. The announcement follows its recent disclosure that OpenAI models accidentally hacked Hugging Face.",
+      "source": "The Verge",
+      "published": "2026-08-07T18:40:34+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/976948/openai-astra-model-pause-critical-cyber-capabilities"
+    },
+    {
+      "title": "AI music generator Suno tightens rules to fight spam and address growing copyright concerns",
+      "summary": "Suno CEO Mikey Shulman has announced new guidelines and tighter download limits after its AI-generated music was used to game streaming platforms for profit.",
+      "source": "The Decoder",
+      "published": "2026-08-07T18:35:42+00:00",
+      "link": "https://the-decoder.com/ai-music-generator-suno-tightens-rules-to-fight-spam-and-address-growing-copyright-concerns/"
+    },
+    {
+      "title": "AMD acquires Taalas, a startup that bakes AI models directly into silicon",
+      "summary": "AMD is buying Canadian startup Taalas, which hard-codes model weights directly into inference chips. That makes them extremely fast but locks each chip to a single model.",
+      "source": "The Decoder",
+      "published": "2026-08-07T18:01:32+00:00",
+      "link": "https://the-decoder.com/amd-acquires-taalas-a-startup-that-bakes-ai-models-directly-into-silicon/"
+    },
     {
       "title": "Anthropic loosens Fable 5's biology restrictions but keeps the guardrails on for virology and toxicology",
       "summary": "Anthropic has cut false positives in its biology safety filters for Fable 5 by about 85 percent. Previously, nearly all biology-related queries got blocked and rerouted to the less capable Opus 5.",
@@ -1351,55 +1400,6 @@ const FEED_DATA = {
       "source": "Hacker News",
       "published": "2026-08-01T22:50:30+00:00",
       "link": "https://www.youtube.com/watch?v=pHcZpvIfho0"
-    },
-    {
-      "title": "AI financial advice is surprisingly good, especially if you ask right questions",
-      "summary": "Article URL: https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions Comments URL: https://news.ycombinator.com/item?id=49139102 Points: 349 # Comments: 400",
-      "source": "Hacker News",
-      "published": "2026-08-01T22:25:12+00:00",
-      "link": "https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions"
-    },
-    {
-      "title": "Judge denies xAI’s request to block Minnesota ban on ‘nudify’ apps",
-      "summary": "Despite a lawsuit from xAI, a Minnesota ban on apps that allow users to “nudify” images can move forward.",
-      "source": "TechCrunch",
-      "published": "2026-08-01T20:26:04+00:00",
-      "link": "https://techcrunch.com/2026/08/01/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps/"
-    },
-    {
-      "title": "YouTuber Hank Green says his AI usage is ‘not healthy’",
-      "summary": "Green offered a remarkable apology, saying that \"the level of dopamine that I've been getting from interacting with LLMs ... is not healthy for me or good for the world.\"",
-      "source": "TechCrunch",
-      "published": "2026-08-01T19:45:45+00:00",
-      "link": "https://techcrunch.com/2026/08/01/youtuber-hank-green-says-his-ai-usage-is-not-healthy/"
-    },
-    {
-      "title": "Is this Billboard Hot 100 hit AI slop?",
-      "summary": "Fenix Flexin is best known as a member of Shoreline Mafia, a rap duo from Los Angeles. But he's recently found solo success with the track \"Rubberz,\" which has climbed to number 58 on the Billboard Hot 100.",
-      "source": "The Verge",
-      "published": "2026-08-01T18:20:00+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/974209/fenix-flexin-billboard-hot-100-rubberz-ai-slop"
-    },
-    {
-      "title": "Sam Altman is still making the case for parenting via ChatGPT",
-      "summary": "This isn’t the first time a tech CEO has promised that AI can shield users — and specifically users’ morning commutes — from the messiness and inefficiency of human experience.",
-      "source": "TechCrunch",
-      "published": "2026-08-01T17:07:34+00:00",
-      "link": "https://techcrunch.com/2026/08/01/sam-altman-is-still-making-the-case-for-parenting-via-chatgpt/"
-    },
-    {
-      "title": "AI keeps cracking unsolved math problems, and mathematicians have mixed feelings",
-      "summary": "OpenAI's refutation of the Unit Distance Conjecture has sparked a wave of AI-assisted advances in mathematics. Fields Medal winner Timothy Gowers says GPT 5.6 Pro solved two problems he had spent considerable time working on, each on its first attempt.",
-      "source": "The Decoder",
-      "published": "2026-08-01T16:01:31+00:00",
-      "link": "https://the-decoder.com/ai-keeps-cracking-unsolved-math-problems-and-mathematicians-have-mixed-feelings/"
-    },
-    {
-      "title": "AI coding agents can modernize research software but can't judge if the science is right",
-      "summary": "A field report from OpenAI and academic partners shows coding agents can modernize neglected research software, with speedups of up to 60x. But the systems are \"eloquent, convincing, and confidently wrong in ways that are easy to miss,\" participants say.",
-      "source": "The Decoder",
-      "published": "2026-08-01T14:26:28+00:00",
-      "link": "https://the-decoder.com/ai-coding-agents-can-modernize-research-software-but-cant-judge-if-the-science-is-right/"
     }
   ]
 };
