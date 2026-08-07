@@ -1,6 +1,13 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-08-07T00:59:43.441609+00:00",
+  "lastUpdated": "2026-08-07T03:48:29.892058+00:00",
   "items": [
+    {
+      "title": "One of China’s Most Powerful AI Models Has Also Escaped Containment",
+      "summary": "Security researchers say that Kimi K3, an open-weight model from China, wandered off to the internet in an attempt to cheat on a test it was given.",
+      "source": "Wired",
+      "published": "2026-08-07T01:16:55+00:00",
+      "link": "https://www.wired.com/story/moonshot-kimi-k3-ai-model-escape-sandbox/"
+    },
     {
       "title": "OpenAI’s new AI smart speaker will reportedly sell for between $300 and $400",
       "summary": "Additional details about OpenAI's mysterious new AI device make it sound like a pricey smart speaker.",
@@ -1393,13 +1400,6 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-07-31T16:49:08+00:00",
       "link": "https://techcrunch.com/2026/07/31/snapchat-no-longer-rewards-fully-ai-generated-spotlight-content/"
-    },
-    {
-      "title": "New Deepseek Flash model matches OpenAI's GPT-5.6 Luna at roughly 60 percent lower cost",
-      "summary": "Deepseek's budget model V4 Flash gets a major boost with the \"0731\" update, jumping ten points to 50 on the Artificial Analysis Intelligence Index. That puts it just one point behind OpenAI's GPT-5.6 Luna, at roughly 60 percent lower cost per task.",
-      "source": "The Decoder",
-      "published": "2026-07-31T16:39:25+00:00",
-      "link": "https://the-decoder.com/new-deepseek-flash-model-matches-openais-gpt-5-6-luna-at-roughly-60-percent-lower-cost/"
     }
   ]
 };
