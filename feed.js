@@ -1,6 +1,13 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-08-08T17:25:20.972255+00:00",
+  "lastUpdated": "2026-08-08T21:21:41.729213+00:00",
   "items": [
+    {
+      "title": "OpenAI acquires presentation startup NextSlide",
+      "summary": "NextSlide says its team members are now working on ChatGPT.",
+      "source": "TechCrunch",
+      "published": "2026-08-08T19:41:13+00:00",
+      "link": "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/"
+    },
     {
       "title": "Anthropic sets Claude Code to Auto Mode by default to protect developers from bad approvals",
       "summary": "Starting August 14, Anthropic will make Auto Mode in Claude Code the default for Pro, Max, and Team plans. The company says it's safer.",
@@ -1393,13 +1400,6 @@ const FEED_DATA = {
       "source": "Hacker News",
       "published": "2026-08-02T19:40:19+00:00",
       "link": "https://www.euronews.com/my-europe/2026/08/02/eu-rules-on-ai-models-become-enforceable-whats-going-to-change"
-    },
-    {
-      "title": "Fender’s CEO seems to think your bandmates are just analog AI",
-      "summary": "Fender CEO Edward \"Bud\" Cole gave an interview to T3 in May celebrating the 75th anniversary of the Telecaster with comments on AI and music that initially flew under the radar.",
-      "source": "The Verge",
-      "published": "2026-08-02T19:36:08+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/974265/fender-ceo-bud-cole-ai-music"
     }
   ]
 };
