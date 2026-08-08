@@ -1,6 +1,27 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-08-08T13:48:42.610657+00:00",
+  "lastUpdated": "2026-08-08T17:25:20.972255+00:00",
   "items": [
+    {
+      "title": "Anthropic sets Claude Code to Auto Mode by default to protect developers from bad approvals",
+      "summary": "Starting August 14, Anthropic will make Auto Mode in Claude Code the default for Pro, Max, and Team plans. The company says it's safer.",
+      "source": "The Decoder",
+      "published": "2026-08-08T14:58:57+00:00",
+      "link": "https://the-decoder.com/anthropic-sets-claude-code-to-auto-mode-by-default-to-protect-developers-from-bad-approvals/"
+    },
+    {
+      "title": "Readers rate AI-generated short stories higher than human ones until they learn a machine wrote them",
+      "summary": "People can't tell ChatGPT-generated short stories from human-written ones, according to a new study. More than 2,500 participants performed no better than chance.",
+      "source": "The Decoder",
+      "published": "2026-08-08T14:18:55+00:00",
+      "link": "https://the-decoder.com/readers-rate-ai-generated-short-stories-higher-than-human-ones-until-they-learn-a-machine-wrote-them/"
+    },
+    {
+      "title": "Gentoo bugzilla closed due AI bot scraper overload",
+      "summary": "Article URL: https://social.treehouse.systems/@mgorny/117058483039362779 Comments URL: https://news.ycombinator.com/item?id=49221864 Points: 94 # Comments: 54",
+      "source": "Hacker News",
+      "published": "2026-08-08T13:55:42+00:00",
+      "link": "https://social.treehouse.systems/@mgorny/117058483039362779"
+    },
     {
       "title": "Claude Code sessions can now talk to each other and share context across terminals",
       "summary": "Claude Code now lets sessions talk to each other. On macOS and Linux, instances running in parallel can send messages, share insights, and check on each other's status.",
@@ -94,7 +115,7 @@ const FEED_DATA = {
     },
     {
       "title": "Managing AI Coding Costs at Scale",
-      "summary": "Article URL: https://www.databricks.com/blog/managing-ai-coding-costs-scale Comments URL: https://news.ycombinator.com/item?id=49214468 Points: 233 # Comments: 201",
+      "summary": "Article URL: https://www.databricks.com/blog/managing-ai-coding-costs-scale Comments URL: https://news.ycombinator.com/item?id=49214468 Points: 289 # Comments: 242",
       "source": "Hacker News",
       "published": "2026-08-07T18:25:17+00:00",
       "link": "https://www.databricks.com/blog/managing-ai-coding-costs-scale"
@@ -108,7 +129,7 @@ const FEED_DATA = {
     },
     {
       "title": "Oracle bans AI-generated code from OpenJDK",
-      "summary": "Article URL: https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code Comments URL: https://news.ycombinator.com/item?id=49213754 Points: 468 # Comments: 330",
+      "summary": "Article URL: https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code Comments URL: https://news.ycombinator.com/item?id=49213754 Points: 506 # Comments: 366",
       "source": "Hacker News",
       "published": "2026-08-07T17:36:30+00:00",
       "link": "https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code"
@@ -185,7 +206,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI psychosis is the new leadership blind spot",
-      "summary": "Article URL: https://www.fastcompany.com/91576086/ai-psychosis-is-the-new-leadership-blind-spot-ai-leadership-blind-spots Comments URL: https://news.ycombinator.com/item?id=49210077 Points: 169 # Comments: 104",
+      "summary": "Article URL: https://www.fastcompany.com/91576086/ai-psychosis-is-the-new-leadership-blind-spot-ai-leadership-blind-spots Comments URL: https://news.ycombinator.com/item?id=49210077 Points: 171 # Comments: 106",
       "source": "Hacker News",
       "published": "2026-08-07T13:27:30+00:00",
       "link": "https://www.fastcompany.com/91576086/ai-psychosis-is-the-new-leadership-blind-spot-ai-leadership-blind-spots"
@@ -290,7 +311,7 @@ const FEED_DATA = {
     },
     {
       "title": "Inside vLLM: Anatomy of a High-Throughput LLM Inference System (2025)",
-      "summary": "Article URL: https://www.aleksagordic.com/blog/vllm Comments URL: https://news.ycombinator.com/item?id=49202852 Points: 143 # Comments: 9",
+      "summary": "Article URL: https://www.aleksagordic.com/blog/vllm Comments URL: https://news.ycombinator.com/item?id=49202852 Points: 145 # Comments: 10",
       "source": "Hacker News",
       "published": "2026-08-06T21:30:21+00:00",
       "link": "https://www.aleksagordic.com/blog/vllm"
@@ -311,7 +332,7 @@ const FEED_DATA = {
     },
     {
       "title": "xAI, SpaceX, and the Race for AI Buildout",
-      "summary": "Article URL: https://illegal.solutions/posts/xai_pollution Comments URL: https://news.ycombinator.com/item?id=49201342 Points: 145 # Comments: 120",
+      "summary": "Article URL: https://illegal.solutions/posts/xai_pollution Comments URL: https://news.ycombinator.com/item?id=49201342 Points: 146 # Comments: 120",
       "source": "Hacker News",
       "published": "2026-08-06T19:38:45+00:00",
       "link": "https://illegal.solutions/posts/xai_pollution"
@@ -353,7 +374,7 @@ const FEED_DATA = {
     },
     {
       "title": "Improving GPT‑5.6 Sol in ChatGPT, expanding GPT‑5.6 Luna access for free users",
-      "summary": "Article URL: https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt/ Comments URL: https://news.ycombinator.com/item?id=49199357 Points: 313 # Comments: 259",
+      "summary": "Article URL: https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt/ Comments URL: https://news.ycombinator.com/item?id=49199357 Points: 314 # Comments: 265",
       "source": "Hacker News",
       "published": "2026-08-06T17:02:04+00:00",
       "link": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt/"
@@ -402,7 +423,7 @@ const FEED_DATA = {
     },
     {
       "title": "Software development with AI is starting to feel like cooking steak",
-      "summary": "Article URL: https://blog.sydorets.com/en/posts/almost-no-skill-required-to-cook-a-steak/ Comments URL: https://news.ycombinator.com/item?id=49198069 Points: 408 # Comments: 415",
+      "summary": "Article URL: https://blog.sydorets.com/en/posts/almost-no-skill-required-to-cook-a-steak/ Comments URL: https://news.ycombinator.com/item?id=49198069 Points: 413 # Comments: 417",
       "source": "Hacker News",
       "published": "2026-08-06T15:30:48+00:00",
       "link": "https://blog.sydorets.com/en/posts/almost-no-skill-required-to-cook-a-steak/"
@@ -486,7 +507,7 @@ const FEED_DATA = {
     },
     {
       "title": "Humans missed 1 in 3 threats approving AI agent commands across 40k game runs",
-      "summary": "Article URL: https://scalex.dev/blog/ai-agent-permissions-stats/ Comments URL: https://news.ycombinator.com/item?id=49195468 Points: 332 # Comments: 244",
+      "summary": "Article URL: https://scalex.dev/blog/ai-agent-permissions-stats/ Comments URL: https://news.ycombinator.com/item?id=49195468 Points: 334 # Comments: 244",
       "source": "Hacker News",
       "published": "2026-08-06T11:58:07+00:00",
       "link": "https://scalex.dev/blog/ai-agent-permissions-stats/"
@@ -542,7 +563,7 @@ const FEED_DATA = {
     },
     {
       "title": "When online commenters detect my art as AI",
-      "summary": "Article URL: https://www.davidrevoy.com/article1164/when-online-commenters-detect-my-art-as-ai Comments URL: https://news.ycombinator.com/item?id=49188916 Points: 115 # Comments: 64",
+      "summary": "Article URL: https://www.davidrevoy.com/article1164/when-online-commenters-detect-my-art-as-ai Comments URL: https://news.ycombinator.com/item?id=49188916 Points: 116 # Comments: 64",
       "source": "Hacker News",
       "published": "2026-08-05T20:58:52+00:00",
       "link": "https://www.davidrevoy.com/article1164/when-online-commenters-detect-my-art-as-ai"
@@ -556,7 +577,7 @@ const FEED_DATA = {
     },
     {
       "title": "Meta Ran Ads That Contained AI-Generated Child Sexual Abuse Imagery",
-      "summary": "Article URL: https://www.wired.com/story/meta-ran-ads-that-contained-ai-generated-child-sexual-abuse-imagery/ Comments URL: https://news.ycombinator.com/item?id=49187977 Points: 322 # Comments: 266",
+      "summary": "Article URL: https://www.wired.com/story/meta-ran-ads-that-contained-ai-generated-child-sexual-abuse-imagery/ Comments URL: https://news.ycombinator.com/item?id=49187977 Points: 322 # Comments: 267",
       "source": "Hacker News",
       "published": "2026-08-05T19:47:26+00:00",
       "link": "https://www.wired.com/story/meta-ran-ads-that-contained-ai-generated-child-sexual-abuse-imagery/"
@@ -577,7 +598,7 @@ const FEED_DATA = {
     },
     {
       "title": "Born Against, or why hobby programming communities are against LLM usage",
-      "summary": "Article URL: https://blog.fogus.me/llm/born-against.html Comments URL: https://news.ycombinator.com/item?id=49187061 Points: 428 # Comments: 516",
+      "summary": "Article URL: https://blog.fogus.me/llm/born-against.html Comments URL: https://news.ycombinator.com/item?id=49187061 Points: 436 # Comments: 520",
       "source": "Hacker News",
       "published": "2026-08-05T18:37:49+00:00",
       "link": "https://blog.fogus.me/llm/born-against.html"
@@ -605,14 +626,14 @@ const FEED_DATA = {
     },
     {
       "title": "Beating GPT-5.6 Sol on retrieval with 100x cheaper open models",
-      "summary": "Article URL: https://neon.com/blog/how-castform-neon-beats-frontier-models-on-price-and-efficiency Comments URL: https://news.ycombinator.com/item?id=49186762 Points: 431 # Comments: 122",
+      "summary": "Article URL: https://neon.com/blog/how-castform-neon-beats-frontier-models-on-price-and-efficiency Comments URL: https://news.ycombinator.com/item?id=49186762 Points: 432 # Comments: 122",
       "source": "Hacker News",
       "published": "2026-08-05T18:18:56+00:00",
       "link": "https://neon.com/blog/how-castform-neon-beats-frontier-models-on-price-and-efficiency"
     },
     {
       "title": "Sycophantic AI Decreases Prosocial Intentions and Promotes Dependence (2025)",
-      "summary": "Article URL: https://arxiv.org/abs/2510.01395 Comments URL: https://news.ycombinator.com/item?id=49186720 Points: 172 # Comments: 104",
+      "summary": "Article URL: https://arxiv.org/abs/2510.01395 Comments URL: https://news.ycombinator.com/item?id=49186720 Points: 173 # Comments: 104",
       "source": "Hacker News",
       "published": "2026-08-05T18:17:03+00:00",
       "link": "https://arxiv.org/abs/2510.01395"
@@ -1379,27 +1400,6 @@ const FEED_DATA = {
       "source": "The Verge",
       "published": "2026-08-02T19:36:08+00:00",
       "link": "https://www.theverge.com/ai-artificial-intelligence/974265/fender-ceo-bud-cole-ai-music"
-    },
-    {
-      "title": "Show HN: Sprocket – The Best AI Agent for Hardware and Software Development",
-      "summary": "Hey HN, I am 16y/o and have been working on Sprocket for a while. It's an open-source AI agent that beats every other agent out there at both hardware and software.And here's the best part: Sprocket can (on its own) buy anything from any website when you tell it to do so.",
-      "source": "Hacker News",
-      "published": "2026-08-02T16:26:19+00:00",
-      "link": "https://sprocket-demo.spikonado.com"
-    },
-    {
-      "title": "OpenAI Presence wants to make AI agents production-ready for businesses",
-      "summary": "OpenAI's new enterprise offering, Presence, is designed to get AI agents into production for customer service and internal workflows. Unlike the existing Workspace Agents, Presence targets external deployments.",
-      "source": "The Decoder",
-      "published": "2026-08-02T13:10:21+00:00",
-      "link": "https://the-decoder.com/openai-presence-wants-to-make-ai-agents-production-ready-for-businesses/"
-    },
-    {
-      "title": "Is paying artists enough to convince them to embrace AI?",
-      "summary": "Illustrators have spent years sounding the alarm about generative artificial intelligence startups training their models on artists' work without permission.",
-      "source": "The Verge",
-      "published": "2026-08-02T13:00:00+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/974018/pippa-seedance-artist-royalties"
     }
   ]
 };
