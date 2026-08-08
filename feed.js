@@ -1,5 +1,5 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-08-08T02:53:02.070836+00:00",
+  "lastUpdated": "2026-08-08T05:43:19.537349+00:00",
   "items": [
     {
       "title": "OpenAI says it slowed Astra model development over security concerns",
@@ -52,7 +52,7 @@ const FEED_DATA = {
     },
     {
       "title": "Managing AI Coding Costs at Scale",
-      "summary": "Article URL: https://www.databricks.com/blog/managing-ai-coding-costs-scale Comments URL: https://news.ycombinator.com/item?id=49214468 Points: 176 # Comments: 174",
+      "summary": "Article URL: https://www.databricks.com/blog/managing-ai-coding-costs-scale Comments URL: https://news.ycombinator.com/item?id=49214468 Points: 205 # Comments: 191",
       "source": "Hacker News",
       "published": "2026-08-07T18:25:17+00:00",
       "link": "https://www.databricks.com/blog/managing-ai-coding-costs-scale"
@@ -66,7 +66,7 @@ const FEED_DATA = {
     },
     {
       "title": "Oracle bans AI-generated code from OpenJDK",
-      "summary": "Article URL: https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code Comments URL: https://news.ycombinator.com/item?id=49213754 Points: 400 # Comments: 270",
+      "summary": "Article URL: https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code Comments URL: https://news.ycombinator.com/item?id=49213754 Points: 435 # Comments: 296",
       "source": "Hacker News",
       "published": "2026-08-07T17:36:30+00:00",
       "link": "https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code"
@@ -143,7 +143,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI psychosis is the new leadership blind spot",
-      "summary": "Article URL: https://www.fastcompany.com/91576086/ai-psychosis-is-the-new-leadership-blind-spot-ai-leadership-blind-spots Comments URL: https://news.ycombinator.com/item?id=49210077 Points: 161 # Comments: 103",
+      "summary": "Article URL: https://www.fastcompany.com/91576086/ai-psychosis-is-the-new-leadership-blind-spot-ai-leadership-blind-spots Comments URL: https://news.ycombinator.com/item?id=49210077 Points: 166 # Comments: 103",
       "source": "Hacker News",
       "published": "2026-08-07T13:27:30+00:00",
       "link": "https://www.fastcompany.com/91576086/ai-psychosis-is-the-new-leadership-blind-spot-ai-leadership-blind-spots"
@@ -220,7 +220,7 @@ const FEED_DATA = {
     },
     {
       "title": "Artificial Intelligence used to design new viruses",
-      "summary": "Article URL: https://www.bbc.co.uk/news/articles/c5y3j3ngevmo Comments URL: https://news.ycombinator.com/item?id=49206642 Points: 53 # Comments: 25",
+      "summary": "Article URL: https://www.bbc.co.uk/news/articles/c5y3j3ngevmo Comments URL: https://news.ycombinator.com/item?id=49206642 Points: 54 # Comments: 25",
       "source": "Hacker News",
       "published": "2026-08-07T06:31:15+00:00",
       "link": "https://www.bbc.co.uk/news/articles/c5y3j3ngevmo"
@@ -248,7 +248,7 @@ const FEED_DATA = {
     },
     {
       "title": "Inside vLLM: Anatomy of a High-Throughput LLM Inference System (2025)",
-      "summary": "Article URL: https://www.aleksagordic.com/blog/vllm Comments URL: https://news.ycombinator.com/item?id=49202852 Points: 142 # Comments: 9",
+      "summary": "Article URL: https://www.aleksagordic.com/blog/vllm Comments URL: https://news.ycombinator.com/item?id=49202852 Points: 143 # Comments: 9",
       "source": "Hacker News",
       "published": "2026-08-06T21:30:21+00:00",
       "link": "https://www.aleksagordic.com/blog/vllm"
@@ -311,7 +311,7 @@ const FEED_DATA = {
     },
     {
       "title": "Improving GPT‑5.6 Sol in ChatGPT, expanding GPT‑5.6 Luna access for free users",
-      "summary": "Article URL: https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt/ Comments URL: https://news.ycombinator.com/item?id=49199357 Points: 309 # Comments: 257",
+      "summary": "Article URL: https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt/ Comments URL: https://news.ycombinator.com/item?id=49199357 Points: 311 # Comments: 258",
       "source": "Hacker News",
       "published": "2026-08-06T17:02:04+00:00",
       "link": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt/"
@@ -360,7 +360,7 @@ const FEED_DATA = {
     },
     {
       "title": "Software development with AI is starting to feel like cooking steak",
-      "summary": "Article URL: https://blog.sydorets.com/en/posts/almost-no-skill-required-to-cook-a-steak/ Comments URL: https://news.ycombinator.com/item?id=49198069 Points: 398 # Comments: 414",
+      "summary": "Article URL: https://blog.sydorets.com/en/posts/almost-no-skill-required-to-cook-a-steak/ Comments URL: https://news.ycombinator.com/item?id=49198069 Points: 403 # Comments: 415",
       "source": "Hacker News",
       "published": "2026-08-06T15:30:48+00:00",
       "link": "https://blog.sydorets.com/en/posts/almost-no-skill-required-to-cook-a-steak/"
@@ -444,7 +444,7 @@ const FEED_DATA = {
     },
     {
       "title": "Humans missed 1 in 3 threats approving AI agent commands across 40k game runs",
-      "summary": "Article URL: https://scalex.dev/blog/ai-agent-permissions-stats/ Comments URL: https://news.ycombinator.com/item?id=49195468 Points: 330 # Comments: 244",
+      "summary": "Article URL: https://scalex.dev/blog/ai-agent-permissions-stats/ Comments URL: https://news.ycombinator.com/item?id=49195468 Points: 331 # Comments: 244",
       "source": "Hacker News",
       "published": "2026-08-06T11:58:07+00:00",
       "link": "https://scalex.dev/blog/ai-agent-permissions-stats/"
@@ -500,7 +500,7 @@ const FEED_DATA = {
     },
     {
       "title": "When online commenters detect my art as AI",
-      "summary": "Article URL: https://www.davidrevoy.com/article1164/when-online-commenters-detect-my-art-as-ai Comments URL: https://news.ycombinator.com/item?id=49188916 Points: 114 # Comments: 64",
+      "summary": "Article URL: https://www.davidrevoy.com/article1164/when-online-commenters-detect-my-art-as-ai Comments URL: https://news.ycombinator.com/item?id=49188916 Points: 115 # Comments: 64",
       "source": "Hacker News",
       "published": "2026-08-05T20:58:52+00:00",
       "link": "https://www.davidrevoy.com/article1164/when-online-commenters-detect-my-art-as-ai"
@@ -535,7 +535,7 @@ const FEED_DATA = {
     },
     {
       "title": "Born Against, or why hobby programming communities are against LLM usage",
-      "summary": "Article URL: https://blog.fogus.me/llm/born-against.html Comments URL: https://news.ycombinator.com/item?id=49187061 Points: 427 # Comments: 517",
+      "summary": "Article URL: https://blog.fogus.me/llm/born-against.html Comments URL: https://news.ycombinator.com/item?id=49187061 Points: 427 # Comments: 516",
       "source": "Hacker News",
       "published": "2026-08-05T18:37:49+00:00",
       "link": "https://blog.fogus.me/llm/born-against.html"
