@@ -1,6 +1,41 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-08-08T09:24:05.393282+00:00",
+  "lastUpdated": "2026-08-08T13:48:42.610657+00:00",
   "items": [
+    {
+      "title": "Claude Code sessions can now talk to each other and share context across terminals",
+      "summary": "Claude Code now lets sessions talk to each other. On macOS and Linux, instances running in parallel can send messages, share insights, and check on each other's status.",
+      "source": "The Decoder",
+      "published": "2026-08-08T12:28:36+00:00",
+      "link": "https://the-decoder.com/claude-code-sessions-can-now-talk-to-each-other-and-share-context-across-terminals/"
+    },
+    {
+      "title": "Backflip AI turns 3D scans into editable CAD models in minutes instead of hours",
+      "summary": "Backflip AI has released an AI model that converts 3D scans into fully editable, parametric CAD models, a process that normally takes significant time and expertise. According to CEO Greg Mark, most factories have digital models for less than one percent of their parts.",
+      "source": "The Decoder",
+      "published": "2026-08-08T11:26:35+00:00",
+      "link": "https://the-decoder.com/backflip-ai-turns-3d-scans-into-editable-cad-models-in-minutes-instead-of-hours/"
+    },
+    {
+      "title": "Fields Medalist who published a paper on AI-driven human extinction now works for OpenAI",
+      "summary": "Newly awarded Fields Medalist Jacob Tsimerman is leaving the University of Toronto to join OpenAI and work on AI safety. In a recent paper, he analyzes scenarios where AI could contribute to human extinction and calls for far more investment in safety research.",
+      "source": "The Decoder",
+      "published": "2026-08-08T11:08:48+00:00",
+      "link": "https://the-decoder.com/fields-medalist-who-published-a-paper-on-ai-driven-human-extinction-now-works-for-openai/"
+    },
+    {
+      "title": "How to Disable Gemini in Gmail and Google Docs",
+      "summary": "New AI toolbars and prompts are showing up in Google Docs and Gmail. If you don’t want Gemini’s help in writing documents and emails, here’s how to turn that stuff off.",
+      "source": "Wired",
+      "published": "2026-08-08T10:00:00+00:00",
+      "link": "https://www.wired.com/story/how-to-disable-the-gemini-ai-features-in-gmail-and-google-docs/"
+    },
+    {
+      "title": "AI agents use roughly 600 times more energy than a simple chat prompt",
+      "summary": "Climate scientist Zeke Hausfather tracked his Claude Code usage over eight weeks: 3.2 billion tokens and about 170 kWh of data center electricity. Per prompt, that's roughly 600 times more than a typical AI chat.",
+      "source": "The Decoder",
+      "published": "2026-08-08T09:44:06+00:00",
+      "link": "https://the-decoder.com/ai-agents-use-roughly-600-times-more-energy-than-a-simple-chat-prompt/"
+    },
     {
       "title": "xAI's Imagine Image 2.0 lands just behind OpenAI's GPT-Image-2 in Arena benchmarks",
       "summary": "xAI has released Imagine Image 2.0 as a new image generator for Grok. The model ranks second in the Arena benchmarks, just behind OpenAI's GPT-Image-2.",
@@ -1365,41 +1400,6 @@ const FEED_DATA = {
       "source": "The Verge",
       "published": "2026-08-02T13:00:00+00:00",
       "link": "https://www.theverge.com/ai-artificial-intelligence/974018/pippa-seedance-artist-royalties"
-    },
-    {
-      "title": "Meta AI uses a second AI agent as a memory coach to keep long tasks on track",
-      "summary": "Meta AI wants to stop AI agents from forgetting errors they've already diagnosed and repeating failed steps during complex tasks. A separate memory agent maintains a structured memory bank and decides when to remind the main agent and when to stay silent.",
-      "source": "The Decoder",
-      "published": "2026-08-02T12:57:38+00:00",
-      "link": "https://the-decoder.com/meta-ai-uses-a-second-ai-agent-as-a-memory-coach-to-keep-long-tasks-on-track/"
-    },
-    {
-      "title": "A real macOS flaw worth $200K went unreported because Apple's bug bounty inbox was full of AI slop",
-      "summary": "Apple's bug bounty program is drowning in AI-generated bug reports. The company has capped submissions per researcher because fabricated reports are clogging the review pipeline.",
-      "source": "The Decoder",
-      "published": "2026-08-02T12:42:49+00:00",
-      "link": "https://the-decoder.com/a-real-macos-flaw-worth-200k-went-unreported-because-apples-bug-bounty-inbox-was-full-of-ai-slop/"
-    },
-    {
-      "title": "Artificial Intelligence: Ars Notoria and the Promise of Instant Knowledge",
-      "summary": "Article URL: https://publicdomainreview.org/essay/ars-notoria/ Comments URL: https://news.ycombinator.com/item?id=49143001 Points: 139 # Comments: 35",
-      "source": "Hacker News",
-      "published": "2026-08-02T10:18:24+00:00",
-      "link": "https://publicdomainreview.org/essay/ars-notoria/"
-    },
-    {
-      "title": "AI finds plenty of security flaws, but almost none of them get exploited",
-      "summary": "VulnCheck counted how often security flaws found by AI actually get exploited. Out of 1,061 AI-discovered vulnerabilities in the first half of 2026, just 14 saw confirmed attacks.",
-      "source": "The Decoder",
-      "published": "2026-08-02T10:09:34+00:00",
-      "link": "https://the-decoder.com/ai-finds-plenty-of-security-flaws-but-almost-none-of-them-get-exploited/"
-    },
-    {
-      "title": "Europeans Are About to Find Out How Entrenched AI Is in Their Daily Lives",
-      "summary": "New EU rules stipulate that people must be told when they’re interacting with AI or looking at AI-generated or -edited content, leading to fear of “disclosure fatigue.”",
-      "source": "Wired",
-      "published": "2026-08-02T10:00:00+00:00",
-      "link": "https://www.wired.com/story/europeans-are-about-to-find-out-how-entrenched-ai-is-in-their-daily-lives/"
     }
   ]
 };
