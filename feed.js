@@ -1,12 +1,68 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-08-09T09:25:57.240709+00:00",
+  "lastUpdated": "2026-08-09T13:51:29.319071+00:00",
   "items": [
+    {
+      "title": "Scammers are enrolling fake students at US community colleges and using AI to collect financial aid",
+      "summary": "AI-powered cheating is spreading at US community colleges. According to The New Yorker, scammers enroll fake students in courses, use AI to complete their assignments, and pocket the financial aid.",
+      "source": "The Decoder",
+      "published": "2026-08-09T13:00:59+00:00",
+      "link": "https://the-decoder.com/scammers-are-enrolling-fake-students-at-us-community-colleges-and-using-ai-to-collect-financial-aid/"
+    },
+    {
+      "title": "Google Deepmind's WeatherNext predicts cyclone tracks and intensity at the same time",
+      "summary": "Deepmind's new weather AI forecasts tropical cyclones about a day further ahead than leading operational models, matching a decade of progress in traditional weather forecasting. Code and model weights are open-source on GitHub.",
+      "source": "The Decoder",
+      "published": "2026-08-09T12:29:06+00:00",
+      "link": "https://the-decoder.com/google-deepminds-weathernext-predicts-cyclone-tracks-and-intensity-at-the-same-time/"
+    },
+    {
+      "title": "Meetily Lets You Transcribe and Summarize Meetings Without a Subscription—Here’s How",
+      "summary": "There are endless ways to record and transcribe your virtual meetings with AI. Here’s an option that’s free and open source.",
+      "source": "Wired",
+      "published": "2026-08-09T10:30:00+00:00",
+      "link": "https://www.wired.com/story/meetily-lets-you-transcribe-and-summarize-meetings-without-a-subscription-heres-how/"
+    },
+    {
+      "title": "AI is flooding Britain's employment courts with lawsuits",
+      "summary": "Britain's employment courts saw 39 percent more claims in the year through March 2026, many written with ChatGPT or Grok. The backlog jumped 55 percent to 64,000 unresolved cases, with AI-generated filings often running hundreds of pages and citing fabricated laws.",
+      "source": "The Decoder",
+      "published": "2026-08-09T10:26:43+00:00",
+      "link": "https://the-decoder.com/ai-is-flooding-britains-employment-courts-with-lawsuits/"
+    },
+    {
+      "title": "Google's DiffusionGemma proves you don't need to train from scratch to build a text diffusion model",
+      "summary": "Instead of training a new model from scratch, Google DeepMind retrofitted Gemma 4 into a diffusion model using less than 10 percent of the original training budget. DiffusionGemma generates 256 tokens in parallel instead of one at a time, hitting about 1,500 tokens per second.",
+      "source": "The Decoder",
+      "published": "2026-08-09T10:01:26+00:00",
+      "link": "https://the-decoder.com/googles-diffusiongemma-proves-you-dont-need-to-train-from-scratch-to-build-a-text-diffusion-model/"
+    },
+    {
+      "title": "These AI Barons Are Ready to Give Away Their Fortunes",
+      "summary": "A new generation of philanthropists made rich by artificial intelligence are preparing to give away their vast wealth. What should we make of a multi-billion-dollar pinky promise?",
+      "source": "Wired",
+      "published": "2026-08-09T09:30:00+00:00",
+      "link": "https://www.wired.com/story/ai-billionaires-are-pledging-their-wealth-good-or-bad/"
+    },
+    {
+      "title": "AI's energy appetite drives Nvidia and Amazon to pour billions into massive power infrastructure",
+      "summary": "The AI industry's hunger for power keeps growing. Nvidia is investing up to $3 billion in Lancium, a power infrastructure developer that already has four gigawatts under contract in Texas.",
+      "source": "The Decoder",
+      "published": "2026-08-09T09:26:28+00:00",
+      "link": "https://the-decoder.com/ais-energy-appetite-drives-nvidia-and-amazon-to-pour-billions-into-massive-power-infrastructure/"
+    },
     {
       "title": "Google dismantles Deepmind and bets on a fresh start as Hassabis heads for the exit",
       "summary": "Google Deepmind is losing its autonomy, and founder Demis Hassabis may leave the AI lab for good in the coming months. AI researcher Koray Kavukcuoglu will take over day-to-day operations without the CEO title, and all Gemini development is moving to the Bay Area.",
       "source": "The Decoder",
       "published": "2026-08-09T08:56:12+00:00",
       "link": "https://the-decoder.com/google-dismantles-deepmind-and-bets-on-a-fresh-start-as-hassabis-heads-for-the-exit/"
+    },
+    {
+      "title": "Software Giant SAP Stops Most Travel and Hiring Because of AI's Soaring Cost",
+      "summary": "Article URL: https://www.404media.co/software-giant-sap-stops-most-travel-and-hiring-because-of-ais-soaring-cost/ Comments URL: https://news.ycombinator.com/item?id=49229412 Points: 69 # Comments: 45",
+      "source": "Hacker News",
+      "published": "2026-08-09T08:00:51+00:00",
+      "link": "https://www.404media.co/software-giant-sap-stops-most-travel-and-hiring-because-of-ais-soaring-cost/"
     },
     {
       "title": "OpenAI acquires presentation startup NextSlide",
@@ -31,7 +87,7 @@ const FEED_DATA = {
     },
     {
       "title": "Gentoo bugzilla closed due AI bot scraper overload",
-      "summary": "Article URL: https://social.treehouse.systems/@mgorny/117058483039362779 Comments URL: https://news.ycombinator.com/item?id=49221864 Points: 164 # Comments: 106",
+      "summary": "Article URL: https://social.treehouse.systems/@mgorny/117058483039362779 Comments URL: https://news.ycombinator.com/item?id=49221864 Points: 166 # Comments: 109",
       "source": "Hacker News",
       "published": "2026-08-08T13:55:42+00:00",
       "link": "https://social.treehouse.systems/@mgorny/117058483039362779"
@@ -59,7 +115,7 @@ const FEED_DATA = {
     },
     {
       "title": "Making an AI bid writer refuse to lie",
-      "summary": "Article URL: https://ailucius.com/blog/making-an-ai-bid-writer-refuse-to-lie Comments URL: https://news.ycombinator.com/item?id=49220378 Points: 62 # Comments: 0",
+      "summary": "Article URL: https://ailucius.com/blog/making-an-ai-bid-writer-refuse-to-lie Comments URL: https://news.ycombinator.com/item?id=49220378 Points: 66 # Comments: 0",
       "source": "Hacker News",
       "published": "2026-08-08T10:13:31+00:00",
       "link": "https://ailucius.com/blog/making-an-ai-bid-writer-refuse-to-lie"
@@ -143,7 +199,7 @@ const FEED_DATA = {
     },
     {
       "title": "Managing AI Coding Costs at Scale",
-      "summary": "Article URL: https://www.databricks.com/blog/managing-ai-coding-costs-scale Comments URL: https://news.ycombinator.com/item?id=49214468 Points: 303 # Comments: 262",
+      "summary": "Article URL: https://www.databricks.com/blog/managing-ai-coding-costs-scale Comments URL: https://news.ycombinator.com/item?id=49214468 Points: 305 # Comments: 263",
       "source": "Hacker News",
       "published": "2026-08-07T18:25:17+00:00",
       "link": "https://www.databricks.com/blog/managing-ai-coding-costs-scale"
@@ -157,7 +213,7 @@ const FEED_DATA = {
     },
     {
       "title": "Oracle bans AI-generated code from OpenJDK",
-      "summary": "Article URL: https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code Comments URL: https://news.ycombinator.com/item?id=49213754 Points: 526 # Comments: 372",
+      "summary": "Article URL: https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code Comments URL: https://news.ycombinator.com/item?id=49213754 Points: 530 # Comments: 374",
       "source": "Hacker News",
       "published": "2026-08-07T17:36:30+00:00",
       "link": "https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code"
@@ -402,7 +458,7 @@ const FEED_DATA = {
     },
     {
       "title": "Improving GPT‑5.6 Sol in ChatGPT, expanding GPT‑5.6 Luna access for free users",
-      "summary": "Article URL: https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt/ Comments URL: https://news.ycombinator.com/item?id=49199357 Points: 314 # Comments: 273",
+      "summary": "Article URL: https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt/ Comments URL: https://news.ycombinator.com/item?id=49199357 Points: 314 # Comments: 274",
       "source": "Hacker News",
       "published": "2026-08-06T17:02:04+00:00",
       "link": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt/"
@@ -1344,62 +1400,6 @@ const FEED_DATA = {
       "source": "Wired",
       "published": "2026-08-03T10:00:00+00:00",
       "link": "https://www.wired.com/story/ai-conquered-coding-fast-food-is-next/"
-    },
-    {
-      "title": "EU enforces labeling AI generated content",
-      "summary": "Article URL: https://www.euronews.com/my-europe/2026/08/02/ai-generated-label-becomes-mandatory-in-the-eu-for-companies Comments URL: https://news.ycombinator.com/item?id=49153481 Points: 52 # Comments: 29",
-      "source": "Hacker News",
-      "published": "2026-08-03T09:46:26+00:00",
-      "link": "https://www.euronews.com/my-europe/2026/08/02/ai-generated-label-becomes-mandatory-in-the-eu-for-companies"
-    },
-    {
-      "title": "Prevent cognitive debt by manually retyping LLM-generated code",
-      "summary": "Article URL: https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code/ Comments URL: https://news.ycombinator.com/item?id=49153374 Points: 532 # Comments: 437",
-      "source": "Hacker News",
-      "published": "2026-08-03T09:32:07+00:00",
-      "link": "https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code/"
-    },
-    {
-      "title": "The ‘Guardrail Guy’ Went Viral for Posting About Flock Cameras. Then Someone Destroyed Them",
-      "summary": "Steve Eimers, also known as the “Guardrail Guy,” is done calling out license plate readers after two that appeared in his videos were vandalized.",
-      "source": "Wired",
-      "published": "2026-08-03T09:30:00+00:00",
-      "link": "https://www.wired.com/story/flock-cameras-guardrail-guy-advocacy-damage-people-dont-like-alprs/"
-    },
-    {
-      "title": "Here’s why AI agents lie and cheat to reach their goals",
-      "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here.",
-      "source": "MIT Tech Review",
-      "published": "2026-08-03T08:30:05+00:00",
-      "link": "https://www.technologyreview.com/2026/08/03/1141009/heres-why-ai-agents-lie-and-cheat-to-reach-their-goals/"
-    },
-    {
-      "title": "The AI Productivity Gap",
-      "summary": "Article URL: https://bjorg.bjornroche.com/management/ai-productivity-gap/ Comments URL: https://news.ycombinator.com/item?id=49152222 Points: 137 # Comments: 110",
-      "source": "Hacker News",
-      "published": "2026-08-03T07:07:20+00:00",
-      "link": "https://bjorg.bjornroche.com/management/ai-productivity-gap/"
-    },
-    {
-      "title": "AI migrated legacy COBOL programs to Java, bugs included",
-      "summary": "Article URL: https://arxiv.org/abs/2607.28271 Comments URL: https://news.ycombinator.com/item?id=49150773 Points: 96 # Comments: 98",
-      "source": "Hacker News",
-      "published": "2026-08-03T03:06:12+00:00",
-      "link": "https://arxiv.org/abs/2607.28271"
-    },
-    {
-      "title": "OpenAI's super PAC is funding AI-generated news site attacking industry critics",
-      "summary": "Article URL: https://www.modelrepublic.org/articles/the-reporters-at-this-news-site-are-ai-bots.-openai%E2%80%99s-super-pac-appears-to-be-using-it-to-advance-its-political-agenda Comments URL: https://news.ycombinator.com/item?id=49150561 Points: 210 # Comments: 106",
-      "source": "Hacker News",
-      "published": "2026-08-03T02:30:30+00:00",
-      "link": "https://www.modelrepublic.org/articles/the-reporters-at-this-news-site-are-ai-bots.-openai%E2%80%99s-super-pac-appears-to-be-using-it-to-advance-its-political-agenda"
-    },
-    {
-      "title": "AI poster wins Ohio State Fair contest",
-      "summary": "Article URL: https://www.ohiostatefair.com/p/get-involved/arts/poster-contest Comments URL: https://news.ycombinator.com/item?id=49149188 Points: 142 # Comments: 187",
-      "source": "Hacker News",
-      "published": "2026-08-02T22:43:47+00:00",
-      "link": "https://www.ohiostatefair.com/p/get-involved/arts/poster-contest"
     }
   ]
 };
