@@ -1,6 +1,13 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-08-09T13:51:29.319071+00:00",
+  "lastUpdated": "2026-08-09T17:24:44.513902+00:00",
   "items": [
+    {
+      "title": "The AI safety test is becoming a safety risk",
+      "summary": "AI agents are escaping cybersecurity testing environments and reaching real-world systems, raising questions about whether safety infrastructure, industry standards and regulation can keep pace with increasingly powerful models.",
+      "source": "TechCrunch",
+      "published": "2026-08-09T14:30:00+00:00",
+      "link": "https://techcrunch.com/2026/08/09/the-ai-safety-test-is-becoming-a-safety-risk/"
+    },
     {
       "title": "Scammers are enrolling fake students at US community colleges and using AI to collect financial aid",
       "summary": "AI-powered cheating is spreading at US community colleges. According to The New Yorker, scammers enroll fake students in courses, use AI to complete their assignments, and pocket the financial aid.",
@@ -14,6 +21,13 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-08-09T12:29:06+00:00",
       "link": "https://the-decoder.com/google-deepminds-weathernext-predicts-cyclone-tracks-and-intensity-at-the-same-time/"
+    },
+    {
+      "title": "AI detectors are creating a new era of distrust",
+      "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more news about how AI is changing our daily lives, follow Emma Roth.",
+      "source": "The Verge",
+      "published": "2026-08-09T12:00:00+00:00",
+      "link": "https://www.theverge.com/column/976690/ai-writing-detectors-suspicion"
     },
     {
       "title": "Meetily Lets You Transcribe and Summarize Meetings Without a Subscription—Here’s How",
@@ -1386,20 +1400,6 @@ const FEED_DATA = {
       "source": "AI News",
       "published": "2026-08-03T10:00:00+00:00",
       "link": "https://www.artificialintelligence-news.com/news/gsk-relation-therapeutics-ai-drug-discovery-biological-data/"
-    },
-    {
-      "title": "A Marc Benioff-backed startup thinks AI can solve the AI deployment problem",
-      "summary": "June emerged from stealth today with a $20 million pre-seed round to make AI adoption simpler.",
-      "source": "TechCrunch",
-      "published": "2026-08-03T10:00:00+00:00",
-      "link": "https://techcrunch.com/2026/08/03/a-marc-benioff-backed-startup-thinks-ai-can-solve-the-ai-deployment-problem/"
-    },
-    {
-      "title": "AI Conquered Coding. Fast Food Is Next",
-      "summary": "Your next drive-thru order might be taken by a bot. And you might not even notice.",
-      "source": "Wired",
-      "published": "2026-08-03T10:00:00+00:00",
-      "link": "https://www.wired.com/story/ai-conquered-coding-fast-food-is-next/"
     }
   ]
 };
