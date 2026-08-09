@@ -1,6 +1,13 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-08-09T05:47:58.601244+00:00",
+  "lastUpdated": "2026-08-09T09:25:57.240709+00:00",
   "items": [
+    {
+      "title": "Google dismantles Deepmind and bets on a fresh start as Hassabis heads for the exit",
+      "summary": "Google Deepmind is losing its autonomy, and founder Demis Hassabis may leave the AI lab for good in the coming months. AI researcher Koray Kavukcuoglu will take over day-to-day operations without the CEO title, and all Gemini development is moving to the Bay Area.",
+      "source": "The Decoder",
+      "published": "2026-08-09T08:56:12+00:00",
+      "link": "https://the-decoder.com/google-dismantles-deepmind-and-bets-on-a-fresh-start-as-hassabis-heads-for-the-exit/"
+    },
     {
       "title": "OpenAI acquires presentation startup NextSlide",
       "summary": "NextSlide says its team members are now working on ChatGPT.",
@@ -24,7 +31,7 @@ const FEED_DATA = {
     },
     {
       "title": "Gentoo bugzilla closed due AI bot scraper overload",
-      "summary": "Article URL: https://social.treehouse.systems/@mgorny/117058483039362779 Comments URL: https://news.ycombinator.com/item?id=49221864 Points: 158 # Comments: 106",
+      "summary": "Article URL: https://social.treehouse.systems/@mgorny/117058483039362779 Comments URL: https://news.ycombinator.com/item?id=49221864 Points: 164 # Comments: 106",
       "source": "Hacker News",
       "published": "2026-08-08T13:55:42+00:00",
       "link": "https://social.treehouse.systems/@mgorny/117058483039362779"
@@ -52,7 +59,7 @@ const FEED_DATA = {
     },
     {
       "title": "Making an AI bid writer refuse to lie",
-      "summary": "Article URL: https://ailucius.com/blog/making-an-ai-bid-writer-refuse-to-lie Comments URL: https://news.ycombinator.com/item?id=49220378 Points: 50 # Comments: 0",
+      "summary": "Article URL: https://ailucius.com/blog/making-an-ai-bid-writer-refuse-to-lie Comments URL: https://news.ycombinator.com/item?id=49220378 Points: 62 # Comments: 0",
       "source": "Hacker News",
       "published": "2026-08-08T10:13:31+00:00",
       "link": "https://ailucius.com/blog/making-an-ai-bid-writer-refuse-to-lie"
@@ -136,7 +143,7 @@ const FEED_DATA = {
     },
     {
       "title": "Managing AI Coding Costs at Scale",
-      "summary": "Article URL: https://www.databricks.com/blog/managing-ai-coding-costs-scale Comments URL: https://news.ycombinator.com/item?id=49214468 Points: 301 # Comments: 262",
+      "summary": "Article URL: https://www.databricks.com/blog/managing-ai-coding-costs-scale Comments URL: https://news.ycombinator.com/item?id=49214468 Points: 303 # Comments: 262",
       "source": "Hacker News",
       "published": "2026-08-07T18:25:17+00:00",
       "link": "https://www.databricks.com/blog/managing-ai-coding-costs-scale"
@@ -150,7 +157,7 @@ const FEED_DATA = {
     },
     {
       "title": "Oracle bans AI-generated code from OpenJDK",
-      "summary": "Article URL: https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code Comments URL: https://news.ycombinator.com/item?id=49213754 Points: 524 # Comments: 379",
+      "summary": "Article URL: https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code Comments URL: https://news.ycombinator.com/item?id=49213754 Points: 526 # Comments: 372",
       "source": "Hacker News",
       "published": "2026-08-07T17:36:30+00:00",
       "link": "https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code"
@@ -227,7 +234,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI psychosis is the new leadership blind spot",
-      "summary": "Article URL: https://www.fastcompany.com/91576086/ai-psychosis-is-the-new-leadership-blind-spot-ai-leadership-blind-spots Comments URL: https://news.ycombinator.com/item?id=49210077 Points: 172 # Comments: 106",
+      "summary": "Article URL: https://www.fastcompany.com/91576086/ai-psychosis-is-the-new-leadership-blind-spot-ai-leadership-blind-spots Comments URL: https://news.ycombinator.com/item?id=49210077 Points: 174 # Comments: 106",
       "source": "Hacker News",
       "published": "2026-08-07T13:27:30+00:00",
       "link": "https://www.fastcompany.com/91576086/ai-psychosis-is-the-new-leadership-blind-spot-ai-leadership-blind-spots"
@@ -304,7 +311,7 @@ const FEED_DATA = {
     },
     {
       "title": "Artificial Intelligence used to design new viruses",
-      "summary": "Article URL: https://www.bbc.co.uk/news/articles/c5y3j3ngevmo Comments URL: https://news.ycombinator.com/item?id=49206642 Points: 55 # Comments: 26",
+      "summary": "Article URL: https://www.bbc.co.uk/news/articles/c5y3j3ngevmo Comments URL: https://news.ycombinator.com/item?id=49206642 Points: 55 # Comments: 27",
       "source": "Hacker News",
       "published": "2026-08-07T06:31:15+00:00",
       "link": "https://www.bbc.co.uk/news/articles/c5y3j3ngevmo"
@@ -318,7 +325,7 @@ const FEED_DATA = {
     },
     {
       "title": "New Orleans is testing Carbyne’s AI-powered Emergency Call Triage software",
-      "summary": "Article URL: https://www.shreveporttimes.com/story/news/local/louisiana/2026/07/28/is-new-orleans-using-ai-to-answer-911-calls-instead-of-human-dispatchers-impacts-emergencies-crime/91065014007/ Comments URL: https://news.ycombinator.com/item?id=49204546 Points: 76 # Comments:...",
+      "summary": "Article URL: https://www.shreveporttimes.com/story/news/local/louisiana/2026/07/28/is-new-orleans-using-ai-to-answer-911-calls-instead-of-human-dispatchers-impacts-emergencies-crime/91065014007/ Comments URL: https://news.ycombinator.com/item?id=49204546 Points: 77 # Comments:...",
       "source": "Hacker News",
       "published": "2026-08-07T00:37:30+00:00",
       "link": "https://www.shreveporttimes.com/story/news/local/louisiana/2026/07/28/is-new-orleans-using-ai-to-answer-911-calls-instead-of-human-dispatchers-impacts-emergencies-crime/91065014007/"
@@ -332,7 +339,7 @@ const FEED_DATA = {
     },
     {
       "title": "Inside vLLM: Anatomy of a High-Throughput LLM Inference System (2025)",
-      "summary": "Article URL: https://www.aleksagordic.com/blog/vllm Comments URL: https://news.ycombinator.com/item?id=49202852 Points: 148 # Comments: 10",
+      "summary": "Article URL: https://www.aleksagordic.com/blog/vllm Comments URL: https://news.ycombinator.com/item?id=49202852 Points: 149 # Comments: 10",
       "source": "Hacker News",
       "published": "2026-08-06T21:30:21+00:00",
       "link": "https://www.aleksagordic.com/blog/vllm"
@@ -395,7 +402,7 @@ const FEED_DATA = {
     },
     {
       "title": "Improving GPT‑5.6 Sol in ChatGPT, expanding GPT‑5.6 Luna access for free users",
-      "summary": "Article URL: https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt/ Comments URL: https://news.ycombinator.com/item?id=49199357 Points: 314 # Comments: 272",
+      "summary": "Article URL: https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt/ Comments URL: https://news.ycombinator.com/item?id=49199357 Points: 314 # Comments: 273",
       "source": "Hacker News",
       "published": "2026-08-06T17:02:04+00:00",
       "link": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt/"
@@ -444,7 +451,7 @@ const FEED_DATA = {
     },
     {
       "title": "Software development with AI is starting to feel like cooking steak",
-      "summary": "Article URL: https://blog.sydorets.com/en/posts/almost-no-skill-required-to-cook-a-steak/ Comments URL: https://news.ycombinator.com/item?id=49198069 Points: 414 # Comments: 418",
+      "summary": "Article URL: https://blog.sydorets.com/en/posts/almost-no-skill-required-to-cook-a-steak/ Comments URL: https://news.ycombinator.com/item?id=49198069 Points: 416 # Comments: 418",
       "source": "Hacker News",
       "published": "2026-08-06T15:30:48+00:00",
       "link": "https://blog.sydorets.com/en/posts/almost-no-skill-required-to-cook-a-steak/"
@@ -598,7 +605,7 @@ const FEED_DATA = {
     },
     {
       "title": "Meta Ran Ads That Contained AI-Generated Child Sexual Abuse Imagery",
-      "summary": "Article URL: https://www.wired.com/story/meta-ran-ads-that-contained-ai-generated-child-sexual-abuse-imagery/ Comments URL: https://news.ycombinator.com/item?id=49187977 Points: 322 # Comments: 268",
+      "summary": "Article URL: https://www.wired.com/story/meta-ran-ads-that-contained-ai-generated-child-sexual-abuse-imagery/ Comments URL: https://news.ycombinator.com/item?id=49187977 Points: 323 # Comments: 268",
       "source": "Hacker News",
       "published": "2026-08-05T19:47:26+00:00",
       "link": "https://www.wired.com/story/meta-ran-ads-that-contained-ai-generated-child-sexual-abuse-imagery/"
@@ -619,7 +626,7 @@ const FEED_DATA = {
     },
     {
       "title": "Born Against, or why hobby programming communities are against LLM usage",
-      "summary": "Article URL: https://blog.fogus.me/llm/born-against.html Comments URL: https://news.ycombinator.com/item?id=49187061 Points: 440 # Comments: 521",
+      "summary": "Article URL: https://blog.fogus.me/llm/born-against.html Comments URL: https://news.ycombinator.com/item?id=49187061 Points: 440 # Comments: 522",
       "source": "Hacker News",
       "published": "2026-08-05T18:37:49+00:00",
       "link": "https://blog.fogus.me/llm/born-against.html"
@@ -1393,13 +1400,6 @@ const FEED_DATA = {
       "source": "Hacker News",
       "published": "2026-08-02T22:43:47+00:00",
       "link": "https://www.ohiostatefair.com/p/get-involved/arts/poster-contest"
-    },
-    {
-      "title": "Sam Altman and AI’s decel debate",
-      "summary": "On the latest episode of Equity, we discuss why Sam Altman is calling on the industry to \"pace the rate of AI development.\"",
-      "source": "TechCrunch",
-      "published": "2026-08-02T20:54:22+00:00",
-      "link": "https://techcrunch.com/2026/08/02/sam-altman-and-ais-decel-debate/"
     }
   ]
 };
