@@ -1,6 +1,20 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-08-09T17:24:44.513902+00:00",
+  "lastUpdated": "2026-08-09T21:23:14.794975+00:00",
   "items": [
+    {
+      "title": "Embattled hedge fund Situational Awareness invests $400M in chip startup Source Foundry",
+      "summary": "The AI-focused hedge fund is still making some big bets.",
+      "source": "TechCrunch",
+      "published": "2026-08-09T20:35:17+00:00",
+      "link": "https://techcrunch.com/2026/08/09/embattled-hedge-fund-situational-awareness-invests-400m-in-chip-startup-source-foundry/"
+    },
+    {
+      "title": "Anthropic is turning Claude Code’s auto mode on by default",
+      "summary": "Programming with Claude Code will soon require even less human oversight.",
+      "source": "TechCrunch",
+      "published": "2026-08-09T19:20:32+00:00",
+      "link": "https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default/"
+    },
     {
       "title": "The AI safety test is becoming a safety risk",
       "summary": "AI agents are escaping cybersecurity testing environments and reaching real-world systems, raising questions about whether safety infrastructure, industry standards and regulation can keep pace with increasingly powerful models.",
@@ -9,11 +23,25 @@ const FEED_DATA = {
       "link": "https://techcrunch.com/2026/08/09/the-ai-safety-test-is-becoming-a-safety-risk/"
     },
     {
+      "title": "John C. Lilly on solid state intelligence and the elimination of man (1978)",
+      "summary": "Article URL: https://kibotronics.net/unlisted/lilly-machines/ Comments URL: https://news.ycombinator.com/item?id=49231397 Points: 101 # Comments: 55",
+      "source": "Hacker News",
+      "published": "2026-08-09T13:47:36+00:00",
+      "link": "https://kibotronics.net/unlisted/lilly-machines/"
+    },
+    {
       "title": "Scammers are enrolling fake students at US community colleges and using AI to collect financial aid",
       "summary": "AI-powered cheating is spreading at US community colleges. According to The New Yorker, scammers enroll fake students in courses, use AI to complete their assignments, and pocket the financial aid.",
       "source": "The Decoder",
       "published": "2026-08-09T13:00:59+00:00",
       "link": "https://the-decoder.com/scammers-are-enrolling-fake-students-at-us-community-colleges-and-using-ai-to-collect-financial-aid/"
+    },
+    {
+      "title": "Amazon circumvents Gilroy community vote for AI data center",
+      "summary": "Article URL: https://www.tomshardware.com/tech-industry/data-centers/amazon-secretly-circumvents-community-vote-for-massive-ai-data-center-45-year-old-rules-lock-gilroy-residents-out-of-public-comment-window Comments URL: https://news.ycombinator.com/item?id=49230954 Points: 59...",
+      "source": "Hacker News",
+      "published": "2026-08-09T12:52:10+00:00",
+      "link": "https://www.tomshardware.com/tech-industry/data-centers/amazon-secretly-circumvents-community-vote-for-massive-ai-data-center-45-year-old-rules-lock-gilroy-residents-out-of-public-comment-window"
     },
     {
       "title": "Google Deepmind's WeatherNext predicts cyclone tracks and intensity at the same time",
@@ -28,6 +56,13 @@ const FEED_DATA = {
       "source": "The Verge",
       "published": "2026-08-09T12:00:00+00:00",
       "link": "https://www.theverge.com/column/976690/ai-writing-detectors-suspicion"
+    },
+    {
+      "title": "70% of AI revenue comes from OpenAI and Anthropic [video]",
+      "summary": "Article URL: https://www.youtube.com/watch?v=68X8yEatepQ Comments URL: https://news.ycombinator.com/item?id=49230605 Points: 64 # Comments: 75",
+      "source": "Hacker News",
+      "published": "2026-08-09T11:56:16+00:00",
+      "link": "https://www.youtube.com/watch?v=68X8yEatepQ"
     },
     {
       "title": "Meetily Lets You Transcribe and Summarize Meetings Without a Subscription—Here’s How",
@@ -72,6 +107,13 @@ const FEED_DATA = {
       "link": "https://the-decoder.com/google-dismantles-deepmind-and-bets-on-a-fresh-start-as-hassabis-heads-for-the-exit/"
     },
     {
+      "title": "SAP stops most travel and hiring because of AI's soaring cost",
+      "summary": "Article URL: https://www.404media.co/software-giant-sap-stops-most-travel-and-hiring-because-of-ais-soaring-cost/ Comments URL: https://news.ycombinator.com/item?id=49229412 Points: 88 # Comments: 66",
+      "source": "Hacker News",
+      "published": "2026-08-09T08:00:51+00:00",
+      "link": "https://www.404media.co/software-giant-sap-stops-most-travel-and-hiring-because-of-ais-soaring-cost/"
+    },
+    {
       "title": "Software Giant SAP Stops Most Travel and Hiring Because of AI's Soaring Cost",
       "summary": "Article URL: https://www.404media.co/software-giant-sap-stops-most-travel-and-hiring-because-of-ais-soaring-cost/ Comments URL: https://news.ycombinator.com/item?id=49229412 Points: 69 # Comments: 45",
       "source": "Hacker News",
@@ -101,7 +143,7 @@ const FEED_DATA = {
     },
     {
       "title": "Gentoo bugzilla closed due AI bot scraper overload",
-      "summary": "Article URL: https://social.treehouse.systems/@mgorny/117058483039362779 Comments URL: https://news.ycombinator.com/item?id=49221864 Points: 166 # Comments: 109",
+      "summary": "Article URL: https://social.treehouse.systems/@mgorny/117058483039362779 Comments URL: https://news.ycombinator.com/item?id=49221864 Points: 168 # Comments: 112",
       "source": "Hacker News",
       "published": "2026-08-08T13:55:42+00:00",
       "link": "https://social.treehouse.systems/@mgorny/117058483039362779"
@@ -129,7 +171,7 @@ const FEED_DATA = {
     },
     {
       "title": "Making an AI bid writer refuse to lie",
-      "summary": "Article URL: https://ailucius.com/blog/making-an-ai-bid-writer-refuse-to-lie Comments URL: https://news.ycombinator.com/item?id=49220378 Points: 66 # Comments: 0",
+      "summary": "Article URL: https://ailucius.com/blog/making-an-ai-bid-writer-refuse-to-lie Comments URL: https://news.ycombinator.com/item?id=49220378 Points: 69 # Comments: 0",
       "source": "Hacker News",
       "published": "2026-08-08T10:13:31+00:00",
       "link": "https://ailucius.com/blog/making-an-ai-bid-writer-refuse-to-lie"
@@ -164,7 +206,7 @@ const FEED_DATA = {
     },
     {
       "title": "Should AI labs be treated like the owners of dangerous animals?",
-      "summary": "Article URL: https://www.economist.com/science-and-technology/2026/08/06/should-ai-labs-be-treated-like-the-owners-of-dangerous-animals Comments URL: https://news.ycombinator.com/item?id=49217629 Points: 51 # Comments: 58",
+      "summary": "Article URL: https://www.economist.com/science-and-technology/2026/08/06/should-ai-labs-be-treated-like-the-owners-of-dangerous-animals Comments URL: https://news.ycombinator.com/item?id=49217629 Points: 52 # Comments: 58",
       "source": "Hacker News",
       "published": "2026-08-08T00:03:31+00:00",
       "link": "https://www.economist.com/science-and-technology/2026/08/06/should-ai-labs-be-treated-like-the-owners-of-dangerous-animals"
@@ -213,7 +255,7 @@ const FEED_DATA = {
     },
     {
       "title": "Managing AI Coding Costs at Scale",
-      "summary": "Article URL: https://www.databricks.com/blog/managing-ai-coding-costs-scale Comments URL: https://news.ycombinator.com/item?id=49214468 Points: 305 # Comments: 263",
+      "summary": "Article URL: https://www.databricks.com/blog/managing-ai-coding-costs-scale Comments URL: https://news.ycombinator.com/item?id=49214468 Points: 307 # Comments: 263",
       "source": "Hacker News",
       "published": "2026-08-07T18:25:17+00:00",
       "link": "https://www.databricks.com/blog/managing-ai-coding-costs-scale"
@@ -227,7 +269,7 @@ const FEED_DATA = {
     },
     {
       "title": "Oracle bans AI-generated code from OpenJDK",
-      "summary": "Article URL: https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code Comments URL: https://news.ycombinator.com/item?id=49213754 Points: 530 # Comments: 374",
+      "summary": "Article URL: https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code Comments URL: https://news.ycombinator.com/item?id=49213754 Points: 532 # Comments: 377",
       "source": "Hacker News",
       "published": "2026-08-07T17:36:30+00:00",
       "link": "https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code"
@@ -381,7 +423,7 @@ const FEED_DATA = {
     },
     {
       "title": "Artificial Intelligence used to design new viruses",
-      "summary": "Article URL: https://www.bbc.co.uk/news/articles/c5y3j3ngevmo Comments URL: https://news.ycombinator.com/item?id=49206642 Points: 55 # Comments: 27",
+      "summary": "Article URL: https://www.bbc.co.uk/news/articles/c5y3j3ngevmo Comments URL: https://news.ycombinator.com/item?id=49206642 Points: 55 # Comments: 28",
       "source": "Hacker News",
       "published": "2026-08-07T06:31:15+00:00",
       "link": "https://www.bbc.co.uk/news/articles/c5y3j3ngevmo"
@@ -472,7 +514,7 @@ const FEED_DATA = {
     },
     {
       "title": "Improving GPT‑5.6 Sol in ChatGPT, expanding GPT‑5.6 Luna access for free users",
-      "summary": "Article URL: https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt/ Comments URL: https://news.ycombinator.com/item?id=49199357 Points: 314 # Comments: 274",
+      "summary": "Article URL: https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt/ Comments URL: https://news.ycombinator.com/item?id=49199357 Points: 314 # Comments: 276",
       "source": "Hacker News",
       "published": "2026-08-06T17:02:04+00:00",
       "link": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt/"
@@ -605,7 +647,7 @@ const FEED_DATA = {
     },
     {
       "title": "Humans missed 1 in 3 threats approving AI agent commands across 40k game runs",
-      "summary": "Article URL: https://scalex.dev/blog/ai-agent-permissions-stats/ Comments URL: https://news.ycombinator.com/item?id=49195468 Points: 336 # Comments: 244",
+      "summary": "Article URL: https://scalex.dev/blog/ai-agent-permissions-stats/ Comments URL: https://news.ycombinator.com/item?id=49195468 Points: 336 # Comments: 245",
       "source": "Hacker News",
       "published": "2026-08-06T11:58:07+00:00",
       "link": "https://scalex.dev/blog/ai-agent-permissions-stats/"
@@ -1358,48 +1400,6 @@ const FEED_DATA = {
       "source": "Hacker News",
       "published": "2026-08-03T11:59:10+00:00",
       "link": "https://www.theregister.com/ai-and-ml/2026/08/03/the-ai-bubble-is-already-popping-we-just-dont-know-it-yet/5282004"
-    },
-    {
-      "title": "SQLite Critical CVEs or LLM Slop?",
-      "summary": "Article URL: https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/ Comments URL: https://news.ycombinator.com/item?id=49154332 Points: 723 # Comments: 374",
-      "source": "Hacker News",
-      "published": "2026-08-03T11:28:54+00:00",
-      "link": "https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/"
-    },
-    {
-      "title": "Show HN: Nightcrawler – A local AI pentesting agent running on a smartphone",
-      "summary": "Article URL: https://github.com/garagehq/nightcrawler/ Comments URL: https://news.ycombinator.com/item?id=49154127 Points: 118 # Comments: 34",
-      "source": "Hacker News",
-      "published": "2026-08-03T11:06:15+00:00",
-      "link": "https://github.com/garagehq/nightcrawler/"
-    },
-    {
-      "title": "China’s Alibaba takes another swipe at America’s AI supremacy",
-      "summary": "Chinese tech giant Alibaba released what it says is its largest and \"most capable AI model to date,\" claiming performance rivaling the best systems from US frontier labs Anthropic and OpenAI, as well as domestic rivals like Moonshot AI's Kimi K3.",
-      "source": "The Verge",
-      "published": "2026-08-03T11:01:11+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/974342/alibaba-qwen-max-open-weight-ai"
-    },
-    {
-      "title": "Two teams solved the same quantum crypto problem using GPT-5.6 just three hours apart",
-      "summary": "Two research teams independently solved the same open quantum cryptography problem using OpenAI's GPT-5.6 Sol Ultra, submitting their papers just three hours apart. \"If someone mentions an open problem, the first thing is to see if GPT solves it,\" says one of the researchers.",
-      "source": "The Decoder",
-      "published": "2026-08-03T10:49:58+00:00",
-      "link": "https://the-decoder.com/two-teams-solved-the-same-quantum-crypto-problem-using-gpt-5-6-just-three-hours-apart/"
-    },
-    {
-      "title": "Alibaba’s open-weight Qwen3.8-Max takes on long-horizon AI tasks with 2.4 trillion parameters",
-      "summary": "Alibaba's new flagship model Qwen3.8-Max is built to handle complex tasks on its own over days at a time, from reproducing research papers to designing chips autonomously. The team plans to release the weights next week.",
-      "source": "The Decoder",
-      "published": "2026-08-03T10:48:50+00:00",
-      "link": "https://the-decoder.com/alibabas-open-weight-qwen3-8-max-takes-on-long-horizon-ai-tasks-with-2-4-trillion-parameters/"
-    },
-    {
-      "title": "Why biological data matters more in AI drug discovery",
-      "summary": "GSK has entered into a research collaboration with British biotechnology company Relation Therapeutics worth up to $110 million, expanding the companies’ existing work in AI-assisted drug discovery.",
-      "source": "AI News",
-      "published": "2026-08-03T10:00:00+00:00",
-      "link": "https://www.artificialintelligence-news.com/news/gsk-relation-therapeutics-ai-drug-discovery-biological-data/"
     }
   ]
 };
