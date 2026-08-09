@@ -1,5 +1,5 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-08-08T21:21:41.729213+00:00",
+  "lastUpdated": "2026-08-09T03:00:52.905272+00:00",
   "items": [
     {
       "title": "OpenAI acquires presentation startup NextSlide",
