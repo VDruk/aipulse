@@ -1,6 +1,48 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-08-10T14:20:09.733322+00:00",
+  "lastUpdated": "2026-08-10T17:45:44.175251+00:00",
   "items": [
+    {
+      "title": "Meta’s new Glimmer AI model offers a hint at Zuckerberg’s personal intelligence vision",
+      "summary": "Meta’s new open-weight Muse Glimmer model offers a glimpse of Mark Zuckerberg’s personal superintelligence vision, as well as the emerging divide between AI users can own and access.",
+      "source": "TechCrunch",
+      "published": "2026-08-10T16:20:13+00:00",
+      "link": "https://techcrunch.com/2026/08/10/metas-new-glimmer-ai-model-offers-a-hint-at-zuckerbergs-personal-intelligence-vision/"
+    },
+    {
+      "title": "Four takeaways from Mark Zuckerberg’s massive AI manifesto",
+      "summary": "Meta CEO Mark Zuckerberg has a lot to say about the idealized future he now envisions for humanity co-existing with artificial intelligence - his latest essay spans more than 6,500 words on the matter.",
+      "source": "The Verge",
+      "published": "2026-08-10T15:19:05+00:00",
+      "link": "https://www.theverge.com/tech/977395/meta-mark-zuckerberg-superintelligent-ai-ramble"
+    },
+    {
+      "title": "Kinney Drugs pulls back AI phone assistant after hundreds of customer complaints",
+      "summary": "Article URL: https://www.wcax.com/2026/08/07/kinney-drugs-pulls-back-ai-phone-assistant-after-hundreds-customer-complaints/ Comments URL: https://news.ycombinator.com/item?id=49244569 Points: 72 # Comments: 72",
+      "source": "Hacker News",
+      "published": "2026-08-10T14:56:32+00:00",
+      "link": "https://www.wcax.com/2026/08/07/kinney-drugs-pulls-back-ai-phone-assistant-after-hundreds-customer-complaints/"
+    },
+    {
+      "title": "OpenAI's letter to Governor Abbott on responsible AI infrastructure in Texas",
+      "summary": "Article URL: https://openai.com/index/responsible-ai-infrastructure-texas/ Comments URL: https://news.ycombinator.com/item?id=49244308 Points: 54 # Comments: 70",
+      "source": "Hacker News",
+      "published": "2026-08-10T14:38:20+00:00",
+      "link": "https://openai.com/index/responsible-ai-infrastructure-texas/"
+    },
+    {
+      "title": "Mark Zuckerberg attacks 'closed' AI rivals as Meta returns to open models",
+      "summary": "Article URL: https://www.ft.com/content/4e3957f8-ea7c-4c46-a3de-cdce8e526878 Comments URL: https://news.ycombinator.com/item?id=49243880 Points: 90 # Comments: 101",
+      "source": "Hacker News",
+      "published": "2026-08-10T14:06:22+00:00",
+      "link": "https://www.ft.com/content/4e3957f8-ea7c-4c46-a3de-cdce8e526878"
+    },
+    {
+      "title": "What happens to Bose when headphones become AI?",
+      "summary": "Today, I’m talking with Lila Snyder, who is the CEO of Bose. You certainly know Bose — it’s one of the most famous brands in all of consumer tech.",
+      "source": "The Verge",
+      "published": "2026-08-10T14:00:00+00:00",
+      "link": "https://www.theverge.com/podcast/975732/bose-ceo-lila-snyder-ai-wearables-licensing-headphones-audio"
+    },
     {
       "title": "Bose CEO Lila Snyder on the fight for high-quality audio",
       "summary": "Today, I’m talking with Lila Snyder, who is the CEO of Bose. You certainly know Bose — it’s one of the most famous brands in all of consumer tech.",
@@ -94,14 +136,14 @@ const FEED_DATA = {
     },
     {
       "title": "Docker Sandboxes – Disposable, isolated sandboxes for AI agents",
-      "summary": "Article URL: https://www.docker.com/products/docker-sandboxes/ Comments URL: https://news.ycombinator.com/item?id=49239751 Points: 366 # Comments: 236",
+      "summary": "Article URL: https://www.docker.com/products/docker-sandboxes/ Comments URL: https://news.ycombinator.com/item?id=49239751 Points: 512 # Comments: 308",
       "source": "Hacker News",
       "published": "2026-08-10T06:02:38+00:00",
       "link": "https://www.docker.com/products/docker-sandboxes/"
     },
     {
       "title": "The Philippines' big offshoring industry is growing despite AI",
-      "summary": "Article URL: https://www.economist.com/asia/2026/08/06/the-philippines-big-offshoring-industry-is-growing-despite-ai Comments URL: https://news.ycombinator.com/item?id=49239226 Points: 64 # Comments: 79",
+      "summary": "Article URL: https://www.economist.com/asia/2026/08/06/the-philippines-big-offshoring-industry-is-growing-despite-ai Comments URL: https://news.ycombinator.com/item?id=49239226 Points: 70 # Comments: 84",
       "source": "Hacker News",
       "published": "2026-08-10T04:35:24+00:00",
       "link": "https://www.economist.com/asia/2026/08/06/the-philippines-big-offshoring-industry-is-growing-despite-ai"
@@ -115,14 +157,14 @@ const FEED_DATA = {
     },
     {
       "title": "AI assistant hacks gym website in first known Australian autonomous cyber attack",
-      "summary": "Article URL: https://www.abc.net.au/news/2026-08-10/ai-assistant-hacks-gym-website-aus-cyber-attack/107007986 Comments URL: https://news.ycombinator.com/item?id=49236439 Points: 68 # Comments: 58",
+      "summary": "Article URL: https://www.abc.net.au/news/2026-08-10/ai-assistant-hacks-gym-website-aus-cyber-attack/107007986 Comments URL: https://news.ycombinator.com/item?id=49236439 Points: 70 # Comments: 58",
       "source": "Hacker News",
       "published": "2026-08-09T21:52:23+00:00",
       "link": "https://www.abc.net.au/news/2026-08-10/ai-assistant-hacks-gym-website-aus-cyber-attack/107007986"
     },
     {
       "title": "I've yet to see any\"My AI went rogue and caused us to recognise a workers union",
-      "summary": "Article URL: https://mastodon.neilzone.co.uk/@neil/117061512483182546 Comments URL: https://news.ycombinator.com/item?id=49235836 Points: 50 # Comments: 17",
+      "summary": "Article URL: https://mastodon.neilzone.co.uk/@neil/117061512483182546 Comments URL: https://news.ycombinator.com/item?id=49235836 Points: 50 # Comments: 18",
       "source": "Hacker News",
       "published": "2026-08-09T21:01:31+00:00",
       "link": "https://mastodon.neilzone.co.uk/@neil/117061512483182546"
@@ -136,7 +178,7 @@ const FEED_DATA = {
     },
     {
       "title": "The tragedy of the commons, AI edition",
-      "summary": "Article URL: https://www.economist.com/britain/2026/08/06/the-tragedy-of-the-commons-ai-edition Comments URL: https://news.ycombinator.com/item?id=49235011 Points: 136 # Comments: 89",
+      "summary": "Article URL: https://www.economist.com/britain/2026/08/06/the-tragedy-of-the-commons-ai-edition Comments URL: https://news.ycombinator.com/item?id=49235011 Points: 138 # Comments: 91",
       "source": "Hacker News",
       "published": "2026-08-09T19:43:52+00:00",
       "link": "https://www.economist.com/britain/2026/08/06/the-tragedy-of-the-commons-ai-edition"
@@ -171,7 +213,7 @@ const FEED_DATA = {
     },
     {
       "title": "John C. Lilly on solid state intelligence and the elimination of man (1978)",
-      "summary": "Article URL: https://kibotronics.net/unlisted/lilly-machines/ Comments URL: https://news.ycombinator.com/item?id=49231397 Points: 145 # Comments: 114",
+      "summary": "Article URL: https://kibotronics.net/unlisted/lilly-machines/ Comments URL: https://news.ycombinator.com/item?id=49231397 Points: 146 # Comments: 121",
       "source": "Hacker News",
       "published": "2026-08-09T13:47:36+00:00",
       "link": "https://kibotronics.net/unlisted/lilly-machines/"
@@ -213,7 +255,7 @@ const FEED_DATA = {
     },
     {
       "title": "70% of AI revenue comes from OpenAI and Anthropic [video]",
-      "summary": "Article URL: https://www.youtube.com/watch?v=68X8yEatepQ Comments URL: https://news.ycombinator.com/item?id=49230605 Points: 74 # Comments: 93",
+      "summary": "Article URL: https://www.youtube.com/watch?v=68X8yEatepQ Comments URL: https://news.ycombinator.com/item?id=49230605 Points: 74 # Comments: 94",
       "source": "Hacker News",
       "published": "2026-08-09T11:56:16+00:00",
       "link": "https://www.youtube.com/watch?v=68X8yEatepQ"
@@ -275,8 +317,15 @@ const FEED_DATA = {
       "link": "https://www.404media.co/software-giant-sap-stops-most-travel-and-hiring-because-of-ais-soaring-cost/"
     },
     {
+      "title": "Planned Amazon data center could become the biggest climate polluter in the US",
+      "summary": "AI has already had a significant impact on Amazon’s carbon emissions, which it reported were up 16% last year — the wrong direction for a company that pledged to eliminate its carbon emissions by 2040.",
+      "source": "TechCrunch",
+      "published": "2026-08-08T21:24:02+00:00",
+      "link": "https://techcrunch.com/2026/08/08/planned-amazon-data-center-could-become-the-biggest-climate-polluter-in-the-u-s/"
+    },
+    {
       "title": "OpenAI acquires presentation startup NextSlide",
-      "summary": "NextSlide says its team members are now working on ChatGPT.",
+      "summary": "Founder Ahmed Beshry describes the startup’s product as one “that could turn prompts, notes, documents, or research into a polished, editable presentation.”",
       "source": "TechCrunch",
       "published": "2026-08-08T19:41:13+00:00",
       "link": "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/"
@@ -325,7 +374,7 @@ const FEED_DATA = {
     },
     {
       "title": "Making an AI bid writer refuse to lie",
-      "summary": "Article URL: https://ailucius.com/blog/making-an-ai-bid-writer-refuse-to-lie Comments URL: https://news.ycombinator.com/item?id=49220378 Points: 74 # Comments: 0",
+      "summary": "Article URL: https://ailucius.com/blog/making-an-ai-bid-writer-refuse-to-lie Comments URL: https://news.ycombinator.com/item?id=49220378 Points: 79 # Comments: 0",
       "source": "Hacker News",
       "published": "2026-08-08T10:13:31+00:00",
       "link": "https://ailucius.com/blog/making-an-ai-bid-writer-refuse-to-lie"
@@ -409,7 +458,7 @@ const FEED_DATA = {
     },
     {
       "title": "Managing AI Coding Costs at Scale",
-      "summary": "Article URL: https://www.databricks.com/blog/managing-ai-coding-costs-scale Comments URL: https://news.ycombinator.com/item?id=49214468 Points: 313 # Comments: 265",
+      "summary": "Article URL: https://www.databricks.com/blog/managing-ai-coding-costs-scale Comments URL: https://news.ycombinator.com/item?id=49214468 Points: 315 # Comments: 265",
       "source": "Hacker News",
       "published": "2026-08-07T18:25:17+00:00",
       "link": "https://www.databricks.com/blog/managing-ai-coding-costs-scale"
@@ -1351,55 +1400,6 @@ const FEED_DATA = {
       "source": "MIT Tech Review",
       "published": "2026-08-04T12:14:00+00:00",
       "link": "https://www.technologyreview.com/2026/08/04/1141098/the-download-robot-restrictions-ice-dna/"
-    },
-    {
-      "title": "AI-Generated Images Discourage Me from Reading Your Blog",
-      "summary": "Article URL: https://nelson.cloud/ai-generated-images-discourage-me-from-reading-your-blog/ Comments URL: https://news.ycombinator.com/item?id=49167113 Points: 788 # Comments: 464",
-      "source": "Hacker News",
-      "published": "2026-08-04T11:30:17+00:00",
-      "link": "https://nelson.cloud/ai-generated-images-discourage-me-from-reading-your-blog/"
-    },
-    {
-      "title": "OpenAI drags Apple’s lawsuit into the court of public opinion",
-      "summary": "Apple's legal battle against OpenAI just got messier now that the ChatGPT-maker has publicly aired receipts to counter Apple's version of events.",
-      "source": "The Verge",
-      "published": "2026-08-04T11:27:55+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/974914/openai-blog-response-apple-lawsuit-messages"
-    },
-    {
-      "title": "Is This Poker Player Bluffing? The AI Thinks So",
-      "summary": "ESPN unveiled an “AI tells detection” tool during broadcasts of the 2026 World Series of Poker. Is it a neat computer-powered party trick, or a real threat to poker’s future?",
-      "source": "Wired",
-      "published": "2026-08-04T11:00:00+00:00",
-      "link": "https://www.wired.com/story/ai-tells-detection-world-series-of-poker-espn/"
-    },
-    {
-      "title": "How One Startup Built a (Mostly) China-Free Robot",
-      "summary": "Ati Robotics assembles its robots in India and uses just a few Chinese parts—a strategy that could pay off as the Trump administration cracks down on Chinese humanoids.",
-      "source": "Wired",
-      "published": "2026-08-04T10:45:00+00:00",
-      "link": "https://www.wired.com/story/how-one-startup-built-a-mostly-china-free-robot/"
-    },
-    {
-      "title": "‘Everyone Is Doing It’: The Truth About AI in Hollywood",
-      "summary": "Puck’s Matthew Belloni says AI has quietly become part of everyday filmmaking. The battle now isn’t whether Hollywood will use the technology—it’s who controls what’ll come next.",
-      "source": "Wired",
-      "published": "2026-08-04T10:30:00+00:00",
-      "link": "https://www.wired.com/story/the-big-interview-podcast-matthew-belloni-puck/"
-    },
-    {
-      "title": "OpenAI fires back at Apple's trade secret lawsuit with chat logs showing Apple employees kept texting their former colleague",
-      "summary": "OpenAI is pushing back against Apple's trade secret lawsuit and has released iMessage threads from former Apple engineer Chang Liu.",
-      "source": "The Decoder",
-      "published": "2026-08-04T10:22:53+00:00",
-      "link": "https://the-decoder.com/openai-fires-back-at-apples-trade-secret-lawsuit-with-chat-logs-showing-apple-employees-kept-texting-their-former-colleague/"
-    },
-    {
-      "title": "Can Reddit fend off a new wave of AI SEO spam?",
-      "summary": "Earlier this year, a Reddit user had asked members of a skincare-focused subreddit if anyone had tried a specific hypochlorous acid spray, a product often used for acne.",
-      "source": "The Verge",
-      "published": "2026-08-04T10:00:00+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/973098/reddit-ai-search-seo-marketing-brands-spam"
     }
   ]
 };
