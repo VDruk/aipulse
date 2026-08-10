@@ -1,6 +1,48 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-08-10T17:45:44.175251+00:00",
+  "lastUpdated": "2026-08-10T21:33:16.720141+00:00",
   "items": [
+    {
+      "title": "Mark Zuckerberg’s AI manifesto is exactly why people don’t like AI",
+      "summary": "On Monday, Mark Zuckerberg published a 6,500 word manifesto about personal AI, largely about the possibilities for the \"personal superintelligence\" systems Meta AI is building.",
+      "source": "TechCrunch",
+      "published": "2026-08-10T20:53:02+00:00",
+      "link": "https://techcrunch.com/2026/08/10/mark-zuckerbergs-ai-manifesto-is-exactly-why-people-dont-like-ai/"
+    },
+    {
+      "title": "Tech industry is buzzing after a Claude agent hacked into a gym",
+      "summary": "An OpenClaw agent hacked into a gym's reservation system to bump its human boss higher on a class' waitlist. And the tech industry took notice.",
+      "source": "TechCrunch",
+      "published": "2026-08-10T20:04:24+00:00",
+      "link": "https://techcrunch.com/2026/08/10/tech-industry-is-buzzing-after-a-claude-agent-hacked-into-a-gym/"
+    },
+    {
+      "title": "AI professors are negotiating the new realities of academic research",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here.",
+      "source": "MIT Tech Review",
+      "published": "2026-08-10T20:00:00+00:00",
+      "link": "https://www.technologyreview.com/2026/08/10/1141597/ai-professors-are-negotiating-the-new-realities-of-academic-research/"
+    },
+    {
+      "title": "Old OCR text cripples language model training, and FineBooks wants to fix that at scale",
+      "summary": "The FineBooks project from Hugging Face and EleutherAI tested 14 open-source OCR models on more than 2,000 historical book pages. The top model, dots.mocr, hits 97.6 percent character accuracy at under two dollars per thousand pages.",
+      "source": "The Decoder",
+      "published": "2026-08-10T18:20:39+00:00",
+      "link": "https://the-decoder.com/old-ocr-text-cripples-language-model-training-and-finebooks-wants-to-fix-that-at-scale/"
+    },
+    {
+      "title": "OpenAI launches GPT-5.6-Cyber to help defenders find vulnerabilities before attackers do",
+      "summary": "OpenAI aims to give cybersecurity defenders a head start: The new GPT-5.6-Cyber model answers up to 98.5 percent of security queries that would otherwise be blocked and has already uncovered two previously unknown Chrome vulnerabilities.",
+      "source": "The Decoder",
+      "published": "2026-08-10T18:01:30+00:00",
+      "link": "https://the-decoder.com/openai-launches-gpt-5-6-cyber-to-help-defenders-find-vulnerabilities-before-attackers-do/"
+    },
+    {
+      "title": "Launch HN: Stoa Markets (YC S26) – A Marketplace for GPUs and AI Servers",
+      "summary": "Hi HN, we’re Eren, Berat and Kaan. We’re building Stoa (https://www.stoaexchange.com), a marketplace for new and used GPUs and AI servers.GPUs are the collateral in the data center buildout.",
+      "source": "Hacker News",
+      "published": "2026-08-10T16:35:27+00:00",
+      "link": "https://www.stoaexchange.com"
+    },
     {
       "title": "Meta’s new Glimmer AI model offers a hint at Zuckerberg’s personal intelligence vision",
       "summary": "Meta’s new open-weight Muse Glimmer model offers a glimpse of Mark Zuckerberg’s personal superintelligence vision, as well as the emerging divide between AI users can own and access.",
@@ -17,10 +59,17 @@ const FEED_DATA = {
     },
     {
       "title": "Kinney Drugs pulls back AI phone assistant after hundreds of customer complaints",
-      "summary": "Article URL: https://www.wcax.com/2026/08/07/kinney-drugs-pulls-back-ai-phone-assistant-after-hundreds-customer-complaints/ Comments URL: https://news.ycombinator.com/item?id=49244569 Points: 72 # Comments: 72",
+      "summary": "Article URL: https://www.wcax.com/2026/08/07/kinney-drugs-pulls-back-ai-phone-assistant-after-hundreds-customer-complaints/ Comments URL: https://news.ycombinator.com/item?id=49244569 Points: 125 # Comments: 142",
       "source": "Hacker News",
       "published": "2026-08-10T14:56:32+00:00",
       "link": "https://www.wcax.com/2026/08/07/kinney-drugs-pulls-back-ai-phone-assistant-after-hundreds-customer-complaints/"
+    },
+    {
+      "title": "Letter to Governor Abbott on responsible AI infrastructure in Texas",
+      "summary": "Article URL: https://openai.com/index/responsible-ai-infrastructure-texas/ Comments URL: https://news.ycombinator.com/item?id=49244308 Points: 70 # Comments: 132",
+      "source": "Hacker News",
+      "published": "2026-08-10T14:38:20+00:00",
+      "link": "https://openai.com/index/responsible-ai-infrastructure-texas/"
     },
     {
       "title": "OpenAI's letter to Governor Abbott on responsible AI infrastructure in Texas",
@@ -30,8 +79,15 @@ const FEED_DATA = {
       "link": "https://openai.com/index/responsible-ai-infrastructure-texas/"
     },
     {
+      "title": "Exploring Claude/GPT Knowledge Cutoffs and Pre-Training Timelines",
+      "summary": "Article URL: https://blog.sshh.io/p/exploring-claudegpt-knowledge-cutoffs Comments URL: https://news.ycombinator.com/item?id=49244085 Points: 71 # Comments: 11",
+      "source": "Hacker News",
+      "published": "2026-08-10T14:20:41+00:00",
+      "link": "https://blog.sshh.io/p/exploring-claudegpt-knowledge-cutoffs"
+    },
+    {
       "title": "Mark Zuckerberg attacks 'closed' AI rivals as Meta returns to open models",
-      "summary": "Article URL: https://www.ft.com/content/4e3957f8-ea7c-4c46-a3de-cdce8e526878 Comments URL: https://news.ycombinator.com/item?id=49243880 Points: 90 # Comments: 101",
+      "summary": "https://archive.is/20LOJhttps://www.meta.com/thefutureisforeveryone/ Comments URL: https://news.ycombinator.com/item?id=49243880 Points: 245 # Comments: 303",
       "source": "Hacker News",
       "published": "2026-08-10T14:06:22+00:00",
       "link": "https://www.ft.com/content/4e3957f8-ea7c-4c46-a3de-cdce8e526878"
@@ -56,6 +112,13 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-08-10T13:50:19+00:00",
       "link": "https://the-decoder.com/meta-returns-to-open-models-with-zuckerbergs-plan-to-out-copy-china-and-sell-compute-by-auction/"
+    },
+    {
+      "title": "Humanising LLM Outputs Is Dumb",
+      "summary": "Article URL: https://kuber.studio/blog/Reflections/Humanising-LLM-Outputs-is-Actually-Dumb Comments URL: https://news.ycombinator.com/item?id=49243474 Points: 92 # Comments: 51",
+      "source": "Hacker News",
+      "published": "2026-08-10T13:35:40+00:00",
+      "link": "https://kuber.studio/blog/Reflections/Humanising-LLM-Outputs-is-Actually-Dumb"
     },
     {
       "title": "Told to book a gym class, an AI agent hacked the site instead to move its user up the waitlist",
@@ -136,14 +199,14 @@ const FEED_DATA = {
     },
     {
       "title": "Docker Sandboxes – Disposable, isolated sandboxes for AI agents",
-      "summary": "Article URL: https://www.docker.com/products/docker-sandboxes/ Comments URL: https://news.ycombinator.com/item?id=49239751 Points: 512 # Comments: 308",
+      "summary": "Article URL: https://www.docker.com/products/docker-sandboxes/ Comments URL: https://news.ycombinator.com/item?id=49239751 Points: 601 # Comments: 339",
       "source": "Hacker News",
       "published": "2026-08-10T06:02:38+00:00",
       "link": "https://www.docker.com/products/docker-sandboxes/"
     },
     {
       "title": "The Philippines' big offshoring industry is growing despite AI",
-      "summary": "Article URL: https://www.economist.com/asia/2026/08/06/the-philippines-big-offshoring-industry-is-growing-despite-ai Comments URL: https://news.ycombinator.com/item?id=49239226 Points: 70 # Comments: 84",
+      "summary": "Article URL: https://www.economist.com/asia/2026/08/06/the-philippines-big-offshoring-industry-is-growing-despite-ai Comments URL: https://news.ycombinator.com/item?id=49239226 Points: 71 # Comments: 85",
       "source": "Hacker News",
       "published": "2026-08-10T04:35:24+00:00",
       "link": "https://www.economist.com/asia/2026/08/06/the-philippines-big-offshoring-industry-is-growing-despite-ai"
@@ -178,7 +241,7 @@ const FEED_DATA = {
     },
     {
       "title": "The tragedy of the commons, AI edition",
-      "summary": "Article URL: https://www.economist.com/britain/2026/08/06/the-tragedy-of-the-commons-ai-edition Comments URL: https://news.ycombinator.com/item?id=49235011 Points: 138 # Comments: 91",
+      "summary": "Article URL: https://www.economist.com/britain/2026/08/06/the-tragedy-of-the-commons-ai-edition Comments URL: https://news.ycombinator.com/item?id=49235011 Points: 143 # Comments: 100",
       "source": "Hacker News",
       "published": "2026-08-09T19:43:52+00:00",
       "link": "https://www.economist.com/britain/2026/08/06/the-tragedy-of-the-commons-ai-edition"
@@ -206,14 +269,14 @@ const FEED_DATA = {
     },
     {
       "title": "The AI safety test is becoming a safety risk",
-      "summary": "AI agents are escaping cybersecurity testing environments and reaching real-world systems, raising questions about whether safety infrastructure, industry standards and regulation can keep pace with increasingly powerful models.",
+      "summary": "AI agents are escaping cybersecurity testing environments and reaching real-world systems, raising questions about whether safety infrastructure, industry standards, and regulation can keep pace with increasingly powerful models.",
       "source": "TechCrunch",
       "published": "2026-08-09T14:30:00+00:00",
       "link": "https://techcrunch.com/2026/08/09/the-ai-safety-test-is-becoming-a-safety-risk/"
     },
     {
       "title": "John C. Lilly on solid state intelligence and the elimination of man (1978)",
-      "summary": "Article URL: https://kibotronics.net/unlisted/lilly-machines/ Comments URL: https://news.ycombinator.com/item?id=49231397 Points: 146 # Comments: 121",
+      "summary": "Article URL: https://kibotronics.net/unlisted/lilly-machines/ Comments URL: https://news.ycombinator.com/item?id=49231397 Points: 147 # Comments: 123",
       "source": "Hacker News",
       "published": "2026-08-09T13:47:36+00:00",
       "link": "https://kibotronics.net/unlisted/lilly-machines/"
@@ -255,7 +318,7 @@ const FEED_DATA = {
     },
     {
       "title": "70% of AI revenue comes from OpenAI and Anthropic [video]",
-      "summary": "Article URL: https://www.youtube.com/watch?v=68X8yEatepQ Comments URL: https://news.ycombinator.com/item?id=49230605 Points: 74 # Comments: 94",
+      "summary": "Article URL: https://www.youtube.com/watch?v=68X8yEatepQ Comments URL: https://news.ycombinator.com/item?id=49230605 Points: 74 # Comments: 95",
       "source": "Hacker News",
       "published": "2026-08-09T11:56:16+00:00",
       "link": "https://www.youtube.com/watch?v=68X8yEatepQ"
@@ -304,7 +367,7 @@ const FEED_DATA = {
     },
     {
       "title": "SAP stops most travel and hiring because of AI's soaring cost",
-      "summary": "Article URL: https://www.404media.co/software-giant-sap-stops-most-travel-and-hiring-because-of-ais-soaring-cost/ Comments URL: https://news.ycombinator.com/item?id=49229412 Points: 99 # Comments: 69",
+      "summary": "Article URL: https://www.404media.co/software-giant-sap-stops-most-travel-and-hiring-because-of-ais-soaring-cost/ Comments URL: https://news.ycombinator.com/item?id=49229412 Points: 100 # Comments: 69",
       "source": "Hacker News",
       "published": "2026-08-09T08:00:51+00:00",
       "link": "https://www.404media.co/software-giant-sap-stops-most-travel-and-hiring-because-of-ais-soaring-cost/"
@@ -1337,69 +1400,6 @@ const FEED_DATA = {
       "source": "Hacker News",
       "published": "2026-08-04T15:51:51+00:00",
       "link": "https://www.wheresyoured.at/the-ai-demand-bubble/"
-    },
-    {
-      "title": "Spotify expands AI remix and covers project with Merlin partnership",
-      "summary": "Spotify says Merlin, which represents more than 30,000 independent labels and distributors, has joined Universal Music Group in backing its upcoming AI-powered remix and covers product.",
-      "source": "TechCrunch",
-      "published": "2026-08-04T15:50:06+00:00",
-      "link": "https://techcrunch.com/2026/08/04/spotify-adds-merlin-to-its-ai-music-remix-and-covers-effort/"
-    },
-    {
-      "title": "Cloudflare enforces engineering standards using AI",
-      "summary": "Article URL: https://blog.cloudflare.com/engineering-standards-enforcement/ Comments URL: https://news.ycombinator.com/item?id=49170628 Points: 53 # Comments: 7",
-      "source": "Hacker News",
-      "published": "2026-08-04T15:49:50+00:00",
-      "link": "https://blog.cloudflare.com/engineering-standards-enforcement/"
-    },
-    {
-      "title": "Anthropic locks in $10 billion of compute from Volta, a cloud startup that didn't exist six months ago",
-      "summary": "Anthropic is locking in $10 billion worth of computing capacity from Volta Infra Holdings, a cloud startup that's only a few months old.",
-      "source": "The Decoder",
-      "published": "2026-08-04T15:21:14+00:00",
-      "link": "https://the-decoder.com/anthropic-locks-in-10-billion-of-compute-from-volta-a-cloud-startup-that-didnt-exist-six-months-ago/"
-    },
-    {
-      "title": "Elon Musk spends half his time talking robots and AI on Tesla earnings calls",
-      "summary": "An analysis of the last seven years of Tesla earnings calls shows just how little attention Musk pays to Tesla's car business.",
-      "source": "TechCrunch",
-      "published": "2026-08-04T15:20:06+00:00",
-      "link": "https://techcrunch.com/2026/08/04/elon-musk-spends-half-his-time-talking-robots-and-ai-on-tesla-earnings-calls/"
-    },
-    {
-      "title": "It's not a fear of \"AI communism\"; it's a fear of competitive market capitalism",
-      "summary": "Article URL: http://observationalepidemiology.blogspot.com/2026/07/its-not-fear-of-ai-communism-its-fear.html Comments URL: https://news.ycombinator.com/item?id=49169227 Points: 97 # Comments: 89",
-      "source": "Hacker News",
-      "published": "2026-08-04T14:07:30+00:00",
-      "link": "http://observationalepidemiology.blogspot.com/2026/07/its-not-fear-of-ai-communism-its-fear.html"
-    },
-    {
-      "title": "Apple says more ex-employees may have taken confidential data to OpenAI",
-      "summary": "Apple says its trade secrets investigation into OpenAI has widened. In a new court filing, Apple claims additional former staff may have retained or accessed confidential information.",
-      "source": "TechCrunch",
-      "published": "2026-08-04T14:03:01+00:00",
-      "link": "https://techcrunch.com/2026/08/04/apple-says-more-ex-employees-may-have-taken-confidential-data-to-openai/"
-    },
-    {
-      "title": "Is the future of data centers portable? Runware builds a pod to find out",
-      "summary": "On Tuesday, AI infrastructure company Runware announced the launch of its own modular data center called Sonic Inference Pod.",
-      "source": "TechCrunch",
-      "published": "2026-08-04T13:00:00+00:00",
-      "link": "https://techcrunch.com/2026/08/04/is-the-future-of-data-centers-portable-runware-builds-a-pod-to-find-out/"
-    },
-    {
-      "title": "Silicon Valley’s rift over open source pushes back contemplated White House bans on Chinese AI",
-      "summary": "The Trump administration discussed sanctions and cloud bans targeting Chinese open-weight AI models, according to the New York Times. OpenAI and Anthropic pushed for restrictions, while Nvidia, Google, and Meta fought back.",
-      "source": "The Decoder",
-      "published": "2026-08-04T12:23:43+00:00",
-      "link": "https://the-decoder.com/silicon-valleys-rift-over-open-source-pushes-back-contemplated-white-house-bans-on-chinese-ai/"
-    },
-    {
-      "title": "The Download: US robot restrictions and ICE’s DNA grab",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.",
-      "source": "MIT Tech Review",
-      "published": "2026-08-04T12:14:00+00:00",
-      "link": "https://www.technologyreview.com/2026/08/04/1141098/the-download-robot-restrictions-ice-dna/"
     }
   ]
 };
