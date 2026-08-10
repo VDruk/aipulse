@@ -1,9 +1,51 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-08-10T06:10:49.729168+00:00",
+  "lastUpdated": "2026-08-10T10:05:33.446453+00:00",
   "items": [
     {
+      "title": "AI for science needs reasoning, not just data",
+      "summary": "Every few decades, someone announces that science has reached its end.",
+      "source": "MIT Tech Review",
+      "published": "2026-08-10T09:00:00+00:00",
+      "link": "https://www.technologyreview.com/2026/08/10/1141384/ai-agents-for-science/"
+    },
+    {
+      "title": "These startups are chasing the next big thing in LLMs",
+      "summary": "MIT Technology Review’s What’s Next series looks across industries, trends, and technologies to give you a first look at the future. You can read the rest of them here.",
+      "source": "MIT Tech Review",
+      "published": "2026-08-10T09:00:00+00:00",
+      "link": "https://www.technologyreview.com/2026/08/10/1141511/these-startups-are-chasing-the-next-big-thing-in-llms/"
+    },
+    {
+      "title": "Hidden text in a PDF is enough to steal sensitive data through Atlassian's AI agent Rovo",
+      "summary": "Security firm PromptArmor shows how hidden instructions in a PDF can hijack Atlassian's AI agent Rovo, silently forwarding sensitive data from Jira and Confluence to an external server. The attack needs no user confirmation and leaves no trace.",
+      "source": "The Decoder",
+      "published": "2026-08-10T08:46:36+00:00",
+      "link": "https://the-decoder.com/hidden-text-in-a-pdf-is-enough-to-steal-sensitive-data-through-atlassians-ai-agent-rovo/"
+    },
+    {
+      "title": "Docker Sandboxes – Disposable, isolated sandboxes for AI agents",
+      "summary": "Article URL: https://www.docker.com/products/docker-sandboxes/ Comments URL: https://news.ycombinator.com/item?id=49239751 Points: 206 # Comments: 135",
+      "source": "Hacker News",
+      "published": "2026-08-10T06:02:38+00:00",
+      "link": "https://www.docker.com/products/docker-sandboxes/"
+    },
+    {
+      "title": "The Philippines' big offshoring industry is growing despite AI",
+      "summary": "Article URL: https://www.economist.com/asia/2026/08/06/the-philippines-big-offshoring-industry-is-growing-despite-ai Comments URL: https://news.ycombinator.com/item?id=49239226 Points: 50 # Comments: 58",
+      "source": "Hacker News",
+      "published": "2026-08-10T04:35:24+00:00",
+      "link": "https://www.economist.com/asia/2026/08/06/the-philippines-big-offshoring-industry-is-growing-despite-ai"
+    },
+    {
+      "title": "Show HN: Voice driven murder mystery, Interview AI suspects with your voice",
+      "summary": "Hey HN!I'm excited to show off this really fun project I put together. I originally built this project 2-3 years ago, AI was already booming at the time, however voice AI agents were still very early.",
+      "source": "Hacker News",
+      "published": "2026-08-10T03:18:40+00:00",
+      "link": "https://www.whodunnitai.com/"
+    },
+    {
       "title": "AI assistant hacks gym website in first known Australian autonomous cyber attack",
-      "summary": "Article URL: https://www.abc.net.au/news/2026-08-10/ai-assistant-hacks-gym-website-aus-cyber-attack/107007986 Comments URL: https://news.ycombinator.com/item?id=49236439 Points: 59 # Comments: 50",
+      "summary": "Article URL: https://www.abc.net.au/news/2026-08-10/ai-assistant-hacks-gym-website-aus-cyber-attack/107007986 Comments URL: https://news.ycombinator.com/item?id=49236439 Points: 63 # Comments: 53",
       "source": "Hacker News",
       "published": "2026-08-09T21:52:23+00:00",
       "link": "https://www.abc.net.au/news/2026-08-10/ai-assistant-hacks-gym-website-aus-cyber-attack/107007986"
@@ -17,7 +59,7 @@ const FEED_DATA = {
     },
     {
       "title": "The tragedy of the commons, AI edition",
-      "summary": "Article URL: https://www.economist.com/britain/2026/08/06/the-tragedy-of-the-commons-ai-edition Comments URL: https://news.ycombinator.com/item?id=49235011 Points: 106 # Comments: 57",
+      "summary": "Article URL: https://www.economist.com/britain/2026/08/06/the-tragedy-of-the-commons-ai-edition Comments URL: https://news.ycombinator.com/item?id=49235011 Points: 125 # Comments: 80",
       "source": "Hacker News",
       "published": "2026-08-09T19:43:52+00:00",
       "link": "https://www.economist.com/britain/2026/08/06/the-tragedy-of-the-commons-ai-edition"
@@ -31,10 +73,17 @@ const FEED_DATA = {
     },
     {
       "title": "An OpenAI Strategist Says AI Labs Should Rival Government Power",
-      "summary": "Article URL: https://ai-updates.net/an-openai-strategist-says-ai-labs-should-rival-government-power/ Comments URL: https://news.ycombinator.com/item?id=49232778 Points: 59 # Comments: 68",
+      "summary": "Article URL: https://ai-updates.net/an-openai-strategist-says-ai-labs-should-rival-government-power/ Comments URL: https://news.ycombinator.com/item?id=49232778 Points: 61 # Comments: 68",
       "source": "Hacker News",
       "published": "2026-08-09T16:18:39+00:00",
       "link": "https://ai-updates.net/an-openai-strategist-says-ai-labs-should-rival-government-power/"
+    },
+    {
+      "title": "Human vs. AI – Diff-based line-level provenance for text under agentic editing",
+      "summary": "Article URL: https://github.com/eighttrigrams/us-vs-them Comments URL: https://news.ycombinator.com/item?id=49232300 Points: 51 # Comments: 14",
+      "source": "Hacker News",
+      "published": "2026-08-09T15:25:29+00:00",
+      "link": "https://github.com/eighttrigrams/us-vs-them"
     },
     {
       "title": "The AI safety test is becoming a safety risk",
@@ -45,14 +94,14 @@ const FEED_DATA = {
     },
     {
       "title": "John C. Lilly on solid state intelligence and the elimination of man (1978)",
-      "summary": "Article URL: https://kibotronics.net/unlisted/lilly-machines/ Comments URL: https://news.ycombinator.com/item?id=49231397 Points: 138 # Comments: 102",
+      "summary": "Article URL: https://kibotronics.net/unlisted/lilly-machines/ Comments URL: https://news.ycombinator.com/item?id=49231397 Points: 144 # Comments: 107",
       "source": "Hacker News",
       "published": "2026-08-09T13:47:36+00:00",
       "link": "https://kibotronics.net/unlisted/lilly-machines/"
     },
     {
       "title": "Israeli startup was linked to rogue AI hacks at OpenAI, Anthropic and Meta",
-      "summary": "Article URL: https://www.cnbc.com/2026/08/09/israeli-startup-irregular-linked-to-ai-hacks-openai-anthropic-meta.html Comments URL: https://news.ycombinator.com/item?id=49231022 Points: 51 # Comments: 18",
+      "summary": "Article URL: https://www.cnbc.com/2026/08/09/israeli-startup-irregular-linked-to-ai-hacks-openai-anthropic-meta.html Comments URL: https://news.ycombinator.com/item?id=49231022 Points: 52 # Comments: 17",
       "source": "Hacker News",
       "published": "2026-08-09T13:03:49+00:00",
       "link": "https://www.cnbc.com/2026/08/09/israeli-startup-irregular-linked-to-ai-hacks-openai-anthropic-meta.html"
@@ -87,7 +136,7 @@ const FEED_DATA = {
     },
     {
       "title": "70% of AI revenue comes from OpenAI and Anthropic [video]",
-      "summary": "Article URL: https://www.youtube.com/watch?v=68X8yEatepQ Comments URL: https://news.ycombinator.com/item?id=49230605 Points: 72 # Comments: 91",
+      "summary": "Article URL: https://www.youtube.com/watch?v=68X8yEatepQ Comments URL: https://news.ycombinator.com/item?id=49230605 Points: 72 # Comments: 92",
       "source": "Hacker News",
       "published": "2026-08-09T11:56:16+00:00",
       "link": "https://www.youtube.com/watch?v=68X8yEatepQ"
@@ -199,7 +248,7 @@ const FEED_DATA = {
     },
     {
       "title": "Making an AI bid writer refuse to lie",
-      "summary": "Article URL: https://ailucius.com/blog/making-an-ai-bid-writer-refuse-to-lie Comments URL: https://news.ycombinator.com/item?id=49220378 Points: 70 # Comments: 0",
+      "summary": "Article URL: https://ailucius.com/blog/making-an-ai-bid-writer-refuse-to-lie Comments URL: https://news.ycombinator.com/item?id=49220378 Points: 72 # Comments: 0",
       "source": "Hacker News",
       "published": "2026-08-08T10:13:31+00:00",
       "link": "https://ailucius.com/blog/making-an-ai-bid-writer-refuse-to-lie"
@@ -283,7 +332,7 @@ const FEED_DATA = {
     },
     {
       "title": "Managing AI Coding Costs at Scale",
-      "summary": "Article URL: https://www.databricks.com/blog/managing-ai-coding-costs-scale Comments URL: https://news.ycombinator.com/item?id=49214468 Points: 308 # Comments: 264",
+      "summary": "Article URL: https://www.databricks.com/blog/managing-ai-coding-costs-scale Comments URL: https://news.ycombinator.com/item?id=49214468 Points: 309 # Comments: 264",
       "source": "Hacker News",
       "published": "2026-08-07T18:25:17+00:00",
       "link": "https://www.databricks.com/blog/managing-ai-coding-costs-scale"
@@ -297,7 +346,7 @@ const FEED_DATA = {
     },
     {
       "title": "Oracle bans AI-generated code from OpenJDK",
-      "summary": "Article URL: https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code Comments URL: https://news.ycombinator.com/item?id=49213754 Points: 534 # Comments: 378",
+      "summary": "Article URL: https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code Comments URL: https://news.ycombinator.com/item?id=49213754 Points: 534 # Comments: 379",
       "source": "Hacker News",
       "published": "2026-08-07T17:36:30+00:00",
       "link": "https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code"
@@ -1351,55 +1400,6 @@ const FEED_DATA = {
       "source": "The Verge",
       "published": "2026-08-03T17:38:45+00:00",
       "link": "https://www.theverge.com/ai-artificial-intelligence/974571/eu-ai-act-transparency-labels-rules-deepfakes"
-    },
-    {
-      "title": "Alibaba's new Qwen model is also taking your job, but this time it's great",
-      "summary": "Alibaba is marketing its new AI model Qwen 3.8 with a video that shows the AI working while a person enjoys their hobbies. It's a deliberate contrast to the job loss warnings from OpenAI and Anthropic.",
-      "source": "The Decoder",
-      "published": "2026-08-03T17:12:23+00:00",
-      "link": "https://the-decoder.com/alibabas-new-qwen-model-is-also-taking-your-job-but-this-time-its-great/"
-    },
-    {
-      "title": "Congress’ favorite AI tool? ChatGPT",
-      "summary": "House spending records show OpenAI's ChatGPT dominates paid AI use on Capitol Hill, with congressional offices relying on the chatbot to draft memos, summarize legislation, and assist constituent communications.",
-      "source": "TechCrunch",
-      "published": "2026-08-03T16:40:55+00:00",
-      "link": "https://techcrunch.com/2026/08/03/congresss-favorite-ai-tool-chatgpt/"
-    },
-    {
-      "title": "Congress’s favorite AI tool? ChatGPT",
-      "summary": "House spending records show OpenAI's ChatGPT dominates paid AI use on Capitol Hill, with congressional offices relying on the chatbot to draft memos, summarize legislation, and assist constituent communications.",
-      "source": "TechCrunch",
-      "published": "2026-08-03T16:40:55+00:00",
-      "link": "https://techcrunch.com/2026/08/03/congresss-favorite-ai-tool-chatgpt/"
-    },
-    {
-      "title": "What's the largest software project AI can complete on its own?",
-      "summary": "Article URL: https://epoch.ai/MirrorCode Comments URL: https://news.ycombinator.com/item?id=49157786 Points: 103 # Comments: 106",
-      "source": "Hacker News",
-      "published": "2026-08-03T16:16:40+00:00",
-      "link": "https://epoch.ai/MirrorCode"
-    },
-    {
-      "title": "EU AI Act Article 50 transparency rules enter force",
-      "summary": "Article 50 of the EU AI Act has entered into force, setting transparency obligations for AI providers and deployers operating across the bloc.",
-      "source": "AI News",
-      "published": "2026-08-03T16:09:25+00:00",
-      "link": "https://www.artificialintelligence-news.com/news/eu-ai-act-article-50-transparency-rules-enter-force/"
-    },
-    {
-      "title": "IBM finds 92% of companies hit by AI security breaches lacked basic access controls",
-      "summary": "According to IBM, 92 percent of companies that experienced an AI security incident had inadequate access controls for their AI systems. The model itself was rarely the problem.",
-      "source": "The Decoder",
-      "published": "2026-08-03T15:47:08+00:00",
-      "link": "https://the-decoder.com/ibm-finds-92-of-companies-hit-by-ai-security-breaches-lacked-basic-access-controls/"
-    },
-    {
-      "title": "Interpol says AI has become the \"core operational driver of cybercrime\" across Africa",
-      "summary": "AI is involved in 55 percent of reported cybercrimes in Africa, according to a new Interpol report. Financial losses more than doubled from $192 million to $484 million, and about 600,000 cases of digital extortion involving deepfakes were recorded.",
-      "source": "The Decoder",
-      "published": "2026-08-03T15:00:28+00:00",
-      "link": "https://the-decoder.com/interpol-says-ai-has-become-the-core-operational-driver-of-cybercrime-across-africa/"
     }
   ]
 };
