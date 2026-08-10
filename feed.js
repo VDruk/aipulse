@@ -1,6 +1,76 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-08-10T10:05:33.446453+00:00",
+  "lastUpdated": "2026-08-10T14:20:09.733322+00:00",
   "items": [
+    {
+      "title": "Bose CEO Lila Snyder on the fight for high-quality audio",
+      "summary": "Today, I’m talking with Lila Snyder, who is the CEO of Bose. You certainly know Bose — it’s one of the most famous brands in all of consumer tech.",
+      "source": "The Verge",
+      "published": "2026-08-10T14:00:00+00:00",
+      "link": "https://www.theverge.com/podcast/975732/bose-ceo-lila-snyder-ai-wearables-licensing-headphones-audio"
+    },
+    {
+      "title": "Meta returns to open models with Zuckerberg's plan to out-copy China and sell compute by auction",
+      "summary": "Meta has released Muse Glimmer, the first open model from its new Superintelligence Labs. It's a 30B agent model that runs on consumer hardware once the weights are compressed, needing less than 20 GB of memory.",
+      "source": "The Decoder",
+      "published": "2026-08-10T13:50:19+00:00",
+      "link": "https://the-decoder.com/meta-returns-to-open-models-with-zuckerbergs-plan-to-out-copy-china-and-sell-compute-by-auction/"
+    },
+    {
+      "title": "Told to book a gym class, an AI agent hacked the site instead to move its user up the waitlist",
+      "summary": "An Australian user just wanted a spot in a class. His AI agent found a security hole instead and exploited it.",
+      "source": "The Decoder",
+      "published": "2026-08-10T13:21:49+00:00",
+      "link": "https://the-decoder.com/told-to-book-a-gym-class-an-ai-agent-hacked-the-site-instead-to-move-its-user-up-the-waitlist/"
+    },
+    {
+      "title": "Over 181,000 AI meeting recordings left wide open in note taking app",
+      "summary": "Article URL: https://bobdahacker.com/blog/tldv-hack Comments URL: https://news.ycombinator.com/item?id=49242739 Points: 128 # Comments: 42",
+      "source": "Hacker News",
+      "published": "2026-08-10T12:26:05+00:00",
+      "link": "https://bobdahacker.com/blog/tldv-hack"
+    },
+    {
+      "title": "The Download: AI agents for science, and the “censorship-industrial complex”",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.",
+      "source": "MIT Tech Review",
+      "published": "2026-08-10T12:10:00+00:00",
+      "link": "https://www.technologyreview.com/2026/08/10/1141526/the-download-ai-agents-science-censorship-industrial-complex/"
+    },
+    {
+      "title": "Discovered Materials is playing AI whack-a-mole to hunt cooler chips",
+      "summary": "Discovered Materials raised $9 million to fund the hunt for more novel materials to build more efficient chips.",
+      "source": "TechCrunch",
+      "published": "2026-08-10T12:00:00+00:00",
+      "link": "https://techcrunch.com/2026/08/10/discovered-materials-is-playing-ai-whack-a-mole-to-hunt-cooler-chips/"
+    },
+    {
+      "title": "The AI Slop Backlash Is Actually Having an Impact",
+      "summary": "Platforms are finally recognizing that people don’t want to consume AI slop. A growing number of sites and apps now have tools and policies to flag, label, and ban AI-generated content.",
+      "source": "Wired",
+      "published": "2026-08-10T11:30:00+00:00",
+      "link": "https://www.wired.com/story/the-ai-slop-backlash-is-actually-having-an-impact/"
+    },
+    {
+      "title": "Ford’s new AI assistant can check your fuel levels and tire pressure",
+      "summary": "Ford is rolling out a new AI-powered assistant that can answer questions about your Ford or Lincoln vehicle, such as how much fuel you'll need for your next road trip or whether your truck can tow that new motor boat.",
+      "source": "The Verge",
+      "published": "2026-08-10T11:00:00+00:00",
+      "link": "https://www.theverge.com/transportation/976748/ford-ai-assistant-mobile-app"
+    },
+    {
+      "title": "The Rise of the 1 am Job Interview",
+      "summary": "An AI interview is increasingly the first step of a hiring process. Since there’s no human on the other end, candidates are scheduling them whenever—even deep into the night.",
+      "source": "Wired",
+      "published": "2026-08-10T10:30:00+00:00",
+      "link": "https://www.wired.com/story/the-rise-of-the-1-am-job-interview/"
+    },
+    {
+      "title": "OpenAI acquires NextSlide to bring AI-generated presentations into ChatGPT",
+      "summary": "OpenAI acquired NextSlide, the startup that turned prompts, notes, documents, and research into editable presentations. The article OpenAI acquires NextSlide to bring AI-generated presentations into ChatGPT appeared first on The Decoder.",
+      "source": "The Decoder",
+      "published": "2026-08-10T10:08:14+00:00",
+      "link": "https://the-decoder.com/openai-acquires-nextslide-to-bring-ai-generated-presentations-into-chatgpt/"
+    },
     {
       "title": "AI for science needs reasoning, not just data",
       "summary": "Every few decades, someone announces that science has reached its end.",
@@ -24,14 +94,14 @@ const FEED_DATA = {
     },
     {
       "title": "Docker Sandboxes – Disposable, isolated sandboxes for AI agents",
-      "summary": "Article URL: https://www.docker.com/products/docker-sandboxes/ Comments URL: https://news.ycombinator.com/item?id=49239751 Points: 206 # Comments: 135",
+      "summary": "Article URL: https://www.docker.com/products/docker-sandboxes/ Comments URL: https://news.ycombinator.com/item?id=49239751 Points: 366 # Comments: 236",
       "source": "Hacker News",
       "published": "2026-08-10T06:02:38+00:00",
       "link": "https://www.docker.com/products/docker-sandboxes/"
     },
     {
       "title": "The Philippines' big offshoring industry is growing despite AI",
-      "summary": "Article URL: https://www.economist.com/asia/2026/08/06/the-philippines-big-offshoring-industry-is-growing-despite-ai Comments URL: https://news.ycombinator.com/item?id=49239226 Points: 50 # Comments: 58",
+      "summary": "Article URL: https://www.economist.com/asia/2026/08/06/the-philippines-big-offshoring-industry-is-growing-despite-ai Comments URL: https://news.ycombinator.com/item?id=49239226 Points: 64 # Comments: 79",
       "source": "Hacker News",
       "published": "2026-08-10T04:35:24+00:00",
       "link": "https://www.economist.com/asia/2026/08/06/the-philippines-big-offshoring-industry-is-growing-despite-ai"
@@ -45,10 +115,17 @@ const FEED_DATA = {
     },
     {
       "title": "AI assistant hacks gym website in first known Australian autonomous cyber attack",
-      "summary": "Article URL: https://www.abc.net.au/news/2026-08-10/ai-assistant-hacks-gym-website-aus-cyber-attack/107007986 Comments URL: https://news.ycombinator.com/item?id=49236439 Points: 63 # Comments: 53",
+      "summary": "Article URL: https://www.abc.net.au/news/2026-08-10/ai-assistant-hacks-gym-website-aus-cyber-attack/107007986 Comments URL: https://news.ycombinator.com/item?id=49236439 Points: 68 # Comments: 58",
       "source": "Hacker News",
       "published": "2026-08-09T21:52:23+00:00",
       "link": "https://www.abc.net.au/news/2026-08-10/ai-assistant-hacks-gym-website-aus-cyber-attack/107007986"
+    },
+    {
+      "title": "I've yet to see any\"My AI went rogue and caused us to recognise a workers union",
+      "summary": "Article URL: https://mastodon.neilzone.co.uk/@neil/117061512483182546 Comments URL: https://news.ycombinator.com/item?id=49235836 Points: 50 # Comments: 17",
+      "source": "Hacker News",
+      "published": "2026-08-09T21:01:31+00:00",
+      "link": "https://mastodon.neilzone.co.uk/@neil/117061512483182546"
     },
     {
       "title": "Embattled hedge fund Situational Awareness invests $400M in chip startup Source Foundry",
@@ -59,7 +136,7 @@ const FEED_DATA = {
     },
     {
       "title": "The tragedy of the commons, AI edition",
-      "summary": "Article URL: https://www.economist.com/britain/2026/08/06/the-tragedy-of-the-commons-ai-edition Comments URL: https://news.ycombinator.com/item?id=49235011 Points: 125 # Comments: 80",
+      "summary": "Article URL: https://www.economist.com/britain/2026/08/06/the-tragedy-of-the-commons-ai-edition Comments URL: https://news.ycombinator.com/item?id=49235011 Points: 136 # Comments: 89",
       "source": "Hacker News",
       "published": "2026-08-09T19:43:52+00:00",
       "link": "https://www.economist.com/britain/2026/08/06/the-tragedy-of-the-commons-ai-edition"
@@ -73,14 +150,14 @@ const FEED_DATA = {
     },
     {
       "title": "An OpenAI Strategist Says AI Labs Should Rival Government Power",
-      "summary": "Article URL: https://ai-updates.net/an-openai-strategist-says-ai-labs-should-rival-government-power/ Comments URL: https://news.ycombinator.com/item?id=49232778 Points: 61 # Comments: 68",
+      "summary": "Article URL: https://ai-updates.net/an-openai-strategist-says-ai-labs-should-rival-government-power/ Comments URL: https://news.ycombinator.com/item?id=49232778 Points: 61 # Comments: 69",
       "source": "Hacker News",
       "published": "2026-08-09T16:18:39+00:00",
       "link": "https://ai-updates.net/an-openai-strategist-says-ai-labs-should-rival-government-power/"
     },
     {
       "title": "Human vs. AI – Diff-based line-level provenance for text under agentic editing",
-      "summary": "Article URL: https://github.com/eighttrigrams/us-vs-them Comments URL: https://news.ycombinator.com/item?id=49232300 Points: 51 # Comments: 14",
+      "summary": "Article URL: https://github.com/eighttrigrams/us-vs-them Comments URL: https://news.ycombinator.com/item?id=49232300 Points: 51 # Comments: 15",
       "source": "Hacker News",
       "published": "2026-08-09T15:25:29+00:00",
       "link": "https://github.com/eighttrigrams/us-vs-them"
@@ -94,7 +171,7 @@ const FEED_DATA = {
     },
     {
       "title": "John C. Lilly on solid state intelligence and the elimination of man (1978)",
-      "summary": "Article URL: https://kibotronics.net/unlisted/lilly-machines/ Comments URL: https://news.ycombinator.com/item?id=49231397 Points: 144 # Comments: 107",
+      "summary": "Article URL: https://kibotronics.net/unlisted/lilly-machines/ Comments URL: https://news.ycombinator.com/item?id=49231397 Points: 145 # Comments: 114",
       "source": "Hacker News",
       "published": "2026-08-09T13:47:36+00:00",
       "link": "https://kibotronics.net/unlisted/lilly-machines/"
@@ -136,7 +213,7 @@ const FEED_DATA = {
     },
     {
       "title": "70% of AI revenue comes from OpenAI and Anthropic [video]",
-      "summary": "Article URL: https://www.youtube.com/watch?v=68X8yEatepQ Comments URL: https://news.ycombinator.com/item?id=49230605 Points: 72 # Comments: 92",
+      "summary": "Article URL: https://www.youtube.com/watch?v=68X8yEatepQ Comments URL: https://news.ycombinator.com/item?id=49230605 Points: 74 # Comments: 93",
       "source": "Hacker News",
       "published": "2026-08-09T11:56:16+00:00",
       "link": "https://www.youtube.com/watch?v=68X8yEatepQ"
@@ -185,7 +262,7 @@ const FEED_DATA = {
     },
     {
       "title": "SAP stops most travel and hiring because of AI's soaring cost",
-      "summary": "Article URL: https://www.404media.co/software-giant-sap-stops-most-travel-and-hiring-because-of-ais-soaring-cost/ Comments URL: https://news.ycombinator.com/item?id=49229412 Points: 97 # Comments: 69",
+      "summary": "Article URL: https://www.404media.co/software-giant-sap-stops-most-travel-and-hiring-because-of-ais-soaring-cost/ Comments URL: https://news.ycombinator.com/item?id=49229412 Points: 99 # Comments: 69",
       "source": "Hacker News",
       "published": "2026-08-09T08:00:51+00:00",
       "link": "https://www.404media.co/software-giant-sap-stops-most-travel-and-hiring-because-of-ais-soaring-cost/"
@@ -220,7 +297,7 @@ const FEED_DATA = {
     },
     {
       "title": "Gentoo bugzilla closed due AI bot scraper overload",
-      "summary": "Article URL: https://social.treehouse.systems/@mgorny/117058483039362779 Comments URL: https://news.ycombinator.com/item?id=49221864 Points: 170 # Comments: 113",
+      "summary": "Article URL: https://social.treehouse.systems/@mgorny/117058483039362779 Comments URL: https://news.ycombinator.com/item?id=49221864 Points: 172 # Comments: 113",
       "source": "Hacker News",
       "published": "2026-08-08T13:55:42+00:00",
       "link": "https://social.treehouse.systems/@mgorny/117058483039362779"
@@ -248,7 +325,7 @@ const FEED_DATA = {
     },
     {
       "title": "Making an AI bid writer refuse to lie",
-      "summary": "Article URL: https://ailucius.com/blog/making-an-ai-bid-writer-refuse-to-lie Comments URL: https://news.ycombinator.com/item?id=49220378 Points: 72 # Comments: 0",
+      "summary": "Article URL: https://ailucius.com/blog/making-an-ai-bid-writer-refuse-to-lie Comments URL: https://news.ycombinator.com/item?id=49220378 Points: 74 # Comments: 0",
       "source": "Hacker News",
       "published": "2026-08-08T10:13:31+00:00",
       "link": "https://ailucius.com/blog/making-an-ai-bid-writer-refuse-to-lie"
@@ -283,7 +360,7 @@ const FEED_DATA = {
     },
     {
       "title": "Should AI labs be treated like the owners of dangerous animals?",
-      "summary": "Article URL: https://www.economist.com/science-and-technology/2026/08/06/should-ai-labs-be-treated-like-the-owners-of-dangerous-animals Comments URL: https://news.ycombinator.com/item?id=49217629 Points: 52 # Comments: 58",
+      "summary": "Article URL: https://www.economist.com/science-and-technology/2026/08/06/should-ai-labs-be-treated-like-the-owners-of-dangerous-animals Comments URL: https://news.ycombinator.com/item?id=49217629 Points: 53 # Comments: 58",
       "source": "Hacker News",
       "published": "2026-08-08T00:03:31+00:00",
       "link": "https://www.economist.com/science-and-technology/2026/08/06/should-ai-labs-be-treated-like-the-owners-of-dangerous-animals"
@@ -332,7 +409,7 @@ const FEED_DATA = {
     },
     {
       "title": "Managing AI Coding Costs at Scale",
-      "summary": "Article URL: https://www.databricks.com/blog/managing-ai-coding-costs-scale Comments URL: https://news.ycombinator.com/item?id=49214468 Points: 309 # Comments: 264",
+      "summary": "Article URL: https://www.databricks.com/blog/managing-ai-coding-costs-scale Comments URL: https://news.ycombinator.com/item?id=49214468 Points: 313 # Comments: 265",
       "source": "Hacker News",
       "published": "2026-08-07T18:25:17+00:00",
       "link": "https://www.databricks.com/blog/managing-ai-coding-costs-scale"
@@ -346,7 +423,7 @@ const FEED_DATA = {
     },
     {
       "title": "Oracle bans AI-generated code from OpenJDK",
-      "summary": "Article URL: https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code Comments URL: https://news.ycombinator.com/item?id=49213754 Points: 534 # Comments: 379",
+      "summary": "Article URL: https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code Comments URL: https://news.ycombinator.com/item?id=49213754 Points: 535 # Comments: 380",
       "source": "Hacker News",
       "published": "2026-08-07T17:36:30+00:00",
       "link": "https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code"
@@ -1323,83 +1400,6 @@ const FEED_DATA = {
       "source": "The Verge",
       "published": "2026-08-04T10:00:00+00:00",
       "link": "https://www.theverge.com/ai-artificial-intelligence/973098/reddit-ai-search-seo-marketing-brands-spam"
-    },
-    {
-      "title": "An Honest Review of AI Programming",
-      "summary": "Article URL: https://mropert.github.io/2026/08/04/an_honest_review_of_ai_programming/ Comments URL: https://news.ycombinator.com/item?id=49166230 Points: 51 # Comments: 80",
-      "source": "Hacker News",
-      "published": "2026-08-04T09:35:15+00:00",
-      "link": "https://mropert.github.io/2026/08/04/an_honest_review_of_ai_programming/"
-    },
-    {
-      "title": "Mistral Is in the Right Place at the Right Time",
-      "summary": "Open-weight AI models are having a moment in the wake of recent turmoil at US tech giants. For French AI lab Mistral, that’s the the best thing that could have happened.",
-      "source": "Wired",
-      "published": "2026-08-04T09:21:11+00:00",
-      "link": "https://www.wired.com/story/mistral-is-in-the-right-place-at-the-right-time/"
-    },
-    {
-      "title": "After killer quarter, Palantir CEO Alex Karp calls AI industry ‘Marxist’",
-      "summary": "After a quarter that delivered $1 billion in profit, Palantir CEO Alex Karp on Monday once again warned that AI frontier labs are too untrustworthy for enterprises.",
-      "source": "TechCrunch",
-      "published": "2026-08-03T23:19:50+00:00",
-      "link": "https://techcrunch.com/2026/08/03/after-killer-quarter-palantir-ceo-alex-karp-calls-ai-industry-marxist/"
-    },
-    {
-      "title": "Did an AI Music App Just Snitch on the Song of the Summer?",
-      "summary": "Fenix Flexin’s hit song “Rubberz” has hip-hop fans arguing over whether it was generated by AI. Some say they have proof it’s machine-made, but will anyone care?",
-      "source": "Wired",
-      "published": "2026-08-03T22:27:46+00:00",
-      "link": "https://www.wired.com/story/ai-music-app-treblo-just-snitched-on-rubberz-song-of-the-summer/"
-    },
-    {
-      "title": "AI's debt binge can't last, hidden borrowing reaches $1.65T",
-      "summary": "Article URL: https://fortune.com/2026/07/31/ai-debt-hypescalers-capex-capital-spending-hidden-borrowing-bond-issuance/ Comments URL: https://news.ycombinator.com/item?id=49160699 Points: 146 # Comments: 177",
-      "source": "Hacker News",
-      "published": "2026-08-03T20:02:21+00:00",
-      "link": "https://fortune.com/2026/07/31/ai-debt-hypescalers-capex-capital-spending-hidden-borrowing-bond-issuance/"
-    },
-    {
-      "title": "Design Arena creators raise $7.9 million to bring taste to AI models",
-      "summary": "Design Arena is used by 5.3 million people around the world, providing critical human evaluations to frontier labs.",
-      "source": "TechCrunch",
-      "published": "2026-08-03T19:28:57+00:00",
-      "link": "https://techcrunch.com/2026/08/03/designarena-creators-raise-7-9-million-to-bring-taste-to-ai-models/"
-    },
-    {
-      "title": "Influencers draw backlash for attending OpenAI’s first luxury trip",
-      "summary": "OpenAI’s first-ever influencer brand trip is sparking online backlash as tensions over the use of AI continue.",
-      "source": "TechCrunch",
-      "published": "2026-08-03T19:09:56+00:00",
-      "link": "https://techcrunch.com/2026/08/03/influencers-draw-backlash-for-attending-openais-first-luxury-trip/"
-    },
-    {
-      "title": "Apple finally fixed Siri. So why does it feel anticlimactic?",
-      "summary": "Apple’s long-awaited AI overhaul finally makes Siri the assistant it was always supposed to be. Yet it arrives at a moment when simply being a capable AI assistant no longer feels revolutionary.",
-      "source": "TechCrunch",
-      "published": "2026-08-03T18:43:43+00:00",
-      "link": "https://techcrunch.com/2026/08/03/apple-finally-fixed-siri-so-why-does-it-feel-anticlimactic/"
-    },
-    {
-      "title": "Trump’s AI protectionism has come for robotics",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here.",
-      "source": "MIT Tech Review",
-      "published": "2026-08-03T18:43:30+00:00",
-      "link": "https://www.technologyreview.com/2026/08/03/1141056/trumps-ai-protectionism-has-come-for-robotics/"
-    },
-    {
-      "title": "Show HN: Hacker News with AI stories filtered out",
-      "summary": "Hi folks,I've noticed that a lot of people here seem exhausted by the amount of AI news on the front page.",
-      "source": "Hacker News",
-      "published": "2026-08-03T17:39:56+00:00",
-      "link": "https://hcker.news/?view=frontpage&ai=exclude"
-    },
-    {
-      "title": "Europe’s AI labeling and transparency rules are now in effect",
-      "summary": "The European Union has ushered in some additional rules that aim to make it easier for people to identify chatbots and AI deepfakes online.",
-      "source": "The Verge",
-      "published": "2026-08-03T17:38:45+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/974571/eu-ai-act-transparency-labels-rules-deepfakes"
     }
   ]
 };
