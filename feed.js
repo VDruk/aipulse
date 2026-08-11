@@ -1,6 +1,34 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-08-11T05:56:21.485631+00:00",
+  "lastUpdated": "2026-08-11T09:46:19.538465+00:00",
   "items": [
+    {
+      "title": "Nvidia guarantees its own chips' value to unlock $500 billion in AI infrastructure financing",
+      "summary": "Nvidia is teaming up with Apollo, BlackRock, Blackstone, Brookfield, Goldman Sachs, and KKR to mobilize over $500 billion for AI infrastructure. To win over investors, the chipmaker is guaranteeing up to 25 percent of the residual value of its own hardware.",
+      "source": "The Decoder",
+      "published": "2026-08-11T09:41:03+00:00",
+      "link": "https://the-decoder.com/nvidia-guarantees-its-own-chips-value-to-unlock-500-billion-in-ai-infrastructure-financing/"
+    },
+    {
+      "title": "AI Is Helping Solve the Intricate Genetic Puzzle of Schizophrenia",
+      "summary": "Recent findings provide one of the most detailed pictures to date of the genetic architecture of schizophrenia, opening up new avenues for research into the disorder.",
+      "source": "Wired",
+      "published": "2026-08-11T09:00:00+00:00",
+      "link": "https://www.wired.com/story/ai-helping-solve-intricate-genetic-puzzle-schizophrenia/"
+    },
+    {
+      "title": "Anthropic watermarks all Claude outputs globally with marks that \"may persist through some editing\"",
+      "summary": "Anthropic will embed invisible watermarks in all Claude-generated text and sign files using the C2PA standard. New models shipping from August 2026 onward will have labeling built in from day one.",
+      "source": "The Decoder",
+      "published": "2026-08-11T08:45:06+00:00",
+      "link": "https://the-decoder.com/anthropic-watermarks-all-claude-outputs-globally-with-marks-that-may-persist-through-some-editing/"
+    },
+    {
+      "title": "How AI is changing the vulnerability response timeline",
+      "summary": "Artificial intelligence is giving security researchers new ways to examine code, trace unusual behaviour and identify flaws that conventional tools may overlook.",
+      "source": "AI News",
+      "published": "2026-08-11T07:05:55+00:00",
+      "link": "https://www.artificialintelligence-news.com/news/how-ai-is-changing-the-vulnerability-response-timeline/"
+    },
     {
       "title": "OpenAI reportedly completed a $7 billion employee tender offer",
       "summary": "San Francisco's housing market is in trouble again.",
@@ -1372,34 +1400,6 @@ const FEED_DATA = {
       "source": "The Verge",
       "published": "2026-08-04T20:57:49+00:00",
       "link": "https://www.theverge.com/tech/975381/amd-q2-2026-earnings-ai-gaming-ryzen"
-    },
-    {
-      "title": "SpaceX made more revenue as an AI company than a space company",
-      "summary": "SpaceX's AI revenue grew more than three times to $2.6 billion from the year before, mostly because of deals that the company made to provide compute to other AI companies, according to SpaceX's quarterly earnings.",
-      "source": "The Verge",
-      "published": "2026-08-04T20:47:55+00:00",
-      "link": "https://www.theverge.com/science/975335/spacex-made-more-money-as-a-neocloud"
-    },
-    {
-      "title": "Open-weight AI models are catching up to the frontier. The safety gap remains.",
-      "summary": "A new SaferAI report finds Z.ai's open-weight GLM-5.2 approaches frontier AI capabilities while lacking key safety mitigations, renewing concerns that powerful open models could outpace governance and safeguards.",
-      "source": "TechCrunch",
-      "published": "2026-08-04T20:05:26+00:00",
-      "link": "https://techcrunch.com/2026/08/04/open-weight-ai-models-are-catching-up-to-the-frontier-the-safety-gap-remains/"
-    },
-    {
-      "title": "Anthropic signs $10B deal with AI cloud startup Volta",
-      "summary": "Anthropic has been on a cloud partnership spree in recent months, and its latest move is reportedly a $10 billion deal with AI cloud startup Volta.",
-      "source": "TechCrunch",
-      "published": "2026-08-04T19:48:40+00:00",
-      "link": "https://techcrunch.com/2026/08/04/anthropic-signs-10-billion-deal-with-ai-cloud-startup-volta/"
-    },
-    {
-      "title": "Meet Wrinkles, an app that uncovers the hidden stories of the places around you",
-      "summary": "Wrinkles, available on both iOS and Android, essentially acts as an AI-powered audio tour guide that reveals hidden history and local stories.",
-      "source": "TechCrunch",
-      "published": "2026-08-04T19:34:34+00:00",
-      "link": "https://techcrunch.com/2026/08/04/meet-wrinkles-an-ai-app-that-uncovers-the-hidden-stories-of-the-places-around-you/"
     }
   ]
 };
