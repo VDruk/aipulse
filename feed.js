@@ -1,12 +1,89 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-08-11T14:20:05.858640+00:00",
+  "lastUpdated": "2026-08-11T17:53:26.028987+00:00",
   "items": [
+    {
+      "title": "Another OpenAI executive takes off",
+      "summary": "Brad Lightcap, OpenAI's special projects lead and the company's former COO, announced his departure after an eight-year stint at the AI lab.",
+      "source": "The Verge",
+      "published": "2026-08-11T17:50:01+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/978048/brad-lightcap-openai-executive-departure"
+    },
+    {
+      "title": "Brad Lightcap, OpenAI’s longtime COO, is leaving to ‘start something new’",
+      "summary": "One of OpenAI's longest serving executives is headed out the door, although the longtime COO told staff that he was \"excited to help you all advance the mission from a different vantage point.\"",
+      "source": "TechCrunch",
+      "published": "2026-08-11T17:41:34+00:00",
+      "link": "https://techcrunch.com/2026/08/11/brad-lightcap-openais-longtime-coo-is-leaving-to-start-something-new/"
+    },
+    {
+      "title": "General Catalyst leads $1.1B round into 2-month-old River AI",
+      "summary": "River AI, a startup founded by xAI co-founder Igor Babuschkin, has a fascinating vision for personal agents and secured $1.1 billion out of the gate.",
+      "source": "TechCrunch",
+      "published": "2026-08-11T17:41:22+00:00",
+      "link": "https://techcrunch.com/2026/08/11/general-catalyst-leads-1-1b-round-into-2-month-old-river-ai/"
+    },
+    {
+      "title": "\"But marinade\" and leaked passwords are what researchers found in ChatGPT's hidden reasoning",
+      "summary": "Security researchers found a vulnerability in the APIs of OpenAI, Anthropic, and Google that lets them extract encrypted reasoning traces and move them between models. A scan of public sessions turned up dozens of passwords and API keys.",
+      "source": "The Decoder",
+      "published": "2026-08-11T17:38:49+00:00",
+      "link": "https://the-decoder.com/but-marinade-and-leaked-passwords-are-what-researchers-found-in-chatgpts-hidden-reasoning/"
+    },
+    {
+      "title": "An unreleased Anthropic model made progress on one of math’s biggest unsolved problems",
+      "summary": "For more than 150 years, the Riemann hypothesis has stood as one of the major unsolved problems in mathematics. Anthropic hasn't solved it — but the company's models made more progress than you might expect.",
+      "source": "TechCrunch",
+      "published": "2026-08-11T16:25:20+00:00",
+      "link": "https://techcrunch.com/2026/08/11/an-unreleased-anthropic-model-made-progress-on-one-of-maths-biggest-unsolved-problems/"
+    },
+    {
+      "title": "Nvidia's open-weight Nemotron 3.5 Lightning prioritizes speed over maximum intelligence",
+      "summary": "Nvidia's Nemotron 3.5 Lightning is an open-weights model with just 3.6 billion active parameters that matches OpenAI's gpt-oss-120b on the Intelligence Index despite being four times smaller.",
+      "source": "The Decoder",
+      "published": "2026-08-11T15:07:44+00:00",
+      "link": "https://the-decoder.com/nvidias-open-weight-nemotron-3-5-lightning-prioritizes-speed-over-maximum-intelligence/"
+    },
+    {
+      "title": "Apple Silicon and macOS VMs: 11–16× Faster LLM Inference with Llama.cpp",
+      "summary": "Article URL: https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md Comments URL: https://news.ycombinator.com/item?id=49259339 Points: 165 # Comments: 29",
+      "source": "Hacker News",
+      "published": "2026-08-11T14:50:33+00:00",
+      "link": "https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md"
+    },
+    {
+      "title": "‘Zoomsday’ hack uncovered using fewer than 20 AI prompts",
+      "summary": "Zoom has patched a major security vulnerability that could allow an attacker to hijack anyone's device during a meeting.",
+      "source": "The Verge",
+      "published": "2026-08-11T14:45:44+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/977909/zoom-vulnerability-ai-attack"
+    },
+    {
+      "title": "Why your Amazon order confirmation emails have become so unhelpful",
+      "summary": "Earlier this summer, Amazon customers began noticing that emails related to their online orders looked sparse: Order confirmation emails didn't name specific items anymore, and instead listed only item categories.",
+      "source": "The Verge",
+      "published": "2026-08-11T13:27:20+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/977733/amazon-order-emails-google-gmail-ai-agents-data"
+    },
+    {
+      "title": "Stealing Reasoning Traces from Proprietary LLM APIs",
+      "summary": "Article URL: https://stolen-thoughts.com/ Comments URL: https://news.ycombinator.com/item?id=49257876 Points: 245 # Comments: 85",
+      "source": "Hacker News",
+      "published": "2026-08-11T13:22:00+00:00",
+      "link": "https://stolen-thoughts.com/"
+    },
     {
       "title": "Spotify will label ‘AI Persona’ profiles and exclude their music from recommendations",
       "summary": "Spotify is introducing “AI Persona” labels for artist profiles that represent AI-generated identities and will exclude their music from editorial, algorithmic, and personalized recommendations by default.",
       "source": "TechCrunch",
       "published": "2026-08-11T13:00:00+00:00",
       "link": "https://techcrunch.com/2026/08/11/spotify-will-label-ai-persona-profiles-and-exclude-their-music-from-recommendations/"
+    },
+    {
+      "title": "Spotify says it won’t recommend music from ‘AI Personas’",
+      "summary": "Spotify will soon label AI artists and remove their music from your recommendations.",
+      "source": "The Verge",
+      "published": "2026-08-11T13:00:00+00:00",
+      "link": "https://www.theverge.com/entertainment/977815/spotify-ai-persona-label-recommendations"
     },
     {
       "title": "Anthropic's planned mega-IPO faces investor skepticism over Chinese rivals and political headwinds",
@@ -21,6 +98,13 @@ const FEED_DATA = {
       "source": "Wired",
       "published": "2026-08-11T12:37:12+00:00",
       "link": "https://www.wired.com/story/a-zoom-screen-sharing-bug-let-anyone-take-over-other-devices-on-a-call/"
+    },
+    {
+      "title": "Claude will apply invisible watermarks to AI text and images",
+      "summary": "Anthropic has pledged to start marking Claude-generated text and images with machine-readable data, in an effort to comply with European rules for AI transparency.",
+      "source": "The Verge",
+      "published": "2026-08-11T12:22:20+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/977823/anthropic-claude-ai-watermarks-c2pa-text-images"
     },
     {
       "title": "Anthropic says it will watermark text generated by its AI models",
@@ -49,6 +133,13 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-08-11T11:33:00+00:00",
       "link": "https://the-decoder.com/anthropic-signs-9-1-billion-data-center-deal-with-bitcoin-miner-riot-platforms/"
+    },
+    {
+      "title": "The AI takeover of mathematics has begun",
+      "summary": "Mathematician James Maynard has spent a lot of time this past year \"soul searching.\" A professor at the University of Oxford and winner of the prestigious Fields Medal, Maynard told The Verge he's been grappling with the future of his field as the traditionally slow-moving...",
+      "source": "The Verge",
+      "published": "2026-08-11T11:00:00+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/977273/the-ai-takeover-of-mathematics-has-begun"
     },
     {
       "title": "A New Trick Reveals AI Models’ Inner Thoughts",
@@ -115,7 +206,7 @@ const FEED_DATA = {
     },
     {
       "title": "As AI eats the web, the internet’s collective memory is disappearing",
-      "summary": "Article URL: https://thewalrus.ca/google-search-is-dying/ Comments URL: https://news.ycombinator.com/item?id=49250836 Points: 532 # Comments: 621",
+      "summary": "Article URL: https://thewalrus.ca/google-search-is-dying/ Comments URL: https://news.ycombinator.com/item?id=49250836 Points: 731 # Comments: 771",
       "source": "Hacker News",
       "published": "2026-08-10T22:36:30+00:00",
       "link": "https://thewalrus.ca/google-search-is-dying/"
@@ -129,7 +220,7 @@ const FEED_DATA = {
     },
     {
       "title": "How Claude marks AI-generated content",
-      "summary": "Article URL: https://support.claude.com/en/articles/16266773-how-claude-marks-ai-generated-content Comments URL: https://news.ycombinator.com/item?id=49250109 Points: 282 # Comments: 252",
+      "summary": "Article URL: https://support.claude.com/en/articles/16266773-how-claude-marks-ai-generated-content Comments URL: https://news.ycombinator.com/item?id=49250109 Points: 363 # Comments: 336",
       "source": "Hacker News",
       "published": "2026-08-10T21:36:56+00:00",
       "link": "https://support.claude.com/en/articles/16266773-how-claude-marks-ai-generated-content"
@@ -178,7 +269,7 @@ const FEED_DATA = {
     },
     {
       "title": "GPT 5.6 Cyber",
-      "summary": "Article URL: https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows/ Comments URL: https://news.ycombinator.com/item?id=49246704 Points: 117 # Comments: 62",
+      "summary": "Article URL: https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows/ Comments URL: https://news.ycombinator.com/item?id=49246704 Points: 122 # Comments: 67",
       "source": "Hacker News",
       "published": "2026-08-10T17:14:00+00:00",
       "link": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows/"
@@ -206,14 +297,14 @@ const FEED_DATA = {
     },
     {
       "title": "Kinney Drugs pulls back AI phone assistant after hundreds of customer complaints",
-      "summary": "Article URL: https://www.wcax.com/2026/08/07/kinney-drugs-pulls-back-ai-phone-assistant-after-hundreds-customer-complaints/ Comments URL: https://news.ycombinator.com/item?id=49244569 Points: 150 # Comments: 165",
+      "summary": "Article URL: https://www.wcax.com/2026/08/07/kinney-drugs-pulls-back-ai-phone-assistant-after-hundreds-customer-complaints/ Comments URL: https://news.ycombinator.com/item?id=49244569 Points: 152 # Comments: 168",
       "source": "Hacker News",
       "published": "2026-08-10T14:56:32+00:00",
       "link": "https://www.wcax.com/2026/08/07/kinney-drugs-pulls-back-ai-phone-assistant-after-hundreds-customer-complaints/"
     },
     {
       "title": "Letter to Governor Abbott on responsible AI infrastructure in Texas",
-      "summary": "Article URL: https://openai.com/index/responsible-ai-infrastructure-texas/ Comments URL: https://news.ycombinator.com/item?id=49244308 Points: 112 # Comments: 211",
+      "summary": "Article URL: https://openai.com/index/responsible-ai-infrastructure-texas/ Comments URL: https://news.ycombinator.com/item?id=49244308 Points: 118 # Comments: 224",
       "source": "Hacker News",
       "published": "2026-08-10T14:38:20+00:00",
       "link": "https://openai.com/index/responsible-ai-infrastructure-texas/"
@@ -227,14 +318,14 @@ const FEED_DATA = {
     },
     {
       "title": "Exploring Claude/GPT Knowledge Cutoffs and Pre-Training Timelines",
-      "summary": "Article URL: https://blog.sshh.io/p/exploring-claudegpt-knowledge-cutoffs Comments URL: https://news.ycombinator.com/item?id=49244085 Points: 150 # Comments: 24",
+      "summary": "Article URL: https://blog.sshh.io/p/exploring-claudegpt-knowledge-cutoffs Comments URL: https://news.ycombinator.com/item?id=49244085 Points: 152 # Comments: 24",
       "source": "Hacker News",
       "published": "2026-08-10T14:20:41+00:00",
       "link": "https://blog.sshh.io/p/exploring-claudegpt-knowledge-cutoffs"
     },
     {
       "title": "Mark Zuckerberg attacks 'closed' AI rivals as Meta returns to open models",
-      "summary": "https://archive.is/20LOJhttps://www.meta.com/thefutureisforeveryone/ Comments URL: https://news.ycombinator.com/item?id=49243880 Points: 561 # Comments: 531",
+      "summary": "https://archive.is/20LOJhttps://www.meta.com/thefutureisforeveryone/ Comments URL: https://news.ycombinator.com/item?id=49243880 Points: 601 # Comments: 565",
       "source": "Hacker News",
       "published": "2026-08-10T14:06:22+00:00",
       "link": "https://www.ft.com/content/4e3957f8-ea7c-4c46-a3de-cdce8e526878"
@@ -262,7 +353,7 @@ const FEED_DATA = {
     },
     {
       "title": "Humanising LLM Outputs Is Dumb",
-      "summary": "Article URL: https://kuber.studio/blog/Reflections/Humanising-LLM-Outputs-is-Actually-Dumb Comments URL: https://news.ycombinator.com/item?id=49243474 Points: 219 # Comments: 157",
+      "summary": "Article URL: https://kuber.studio/blog/Reflections/Humanising-LLM-Outputs-is-Actually-Dumb Comments URL: https://news.ycombinator.com/item?id=49243474 Points: 225 # Comments: 161",
       "source": "Hacker News",
       "published": "2026-08-10T13:35:40+00:00",
       "link": "https://kuber.studio/blog/Reflections/Humanising-LLM-Outputs-is-Actually-Dumb"
@@ -297,7 +388,7 @@ const FEED_DATA = {
     },
     {
       "title": "Show HN: A tiny LLM running at 21,000 tok/s on a $250 FPGA (Live Demo)",
-      "summary": "Article URL: https://www.mikeayles.com/blog/on-chip-llm-kv260/ Comments URL: https://news.ycombinator.com/item?id=49242475 Points: 62 # Comments: 22",
+      "summary": "Article URL: https://www.mikeayles.com/blog/on-chip-llm-kv260/ Comments URL: https://news.ycombinator.com/item?id=49242475 Points: 70 # Comments: 23",
       "source": "Hacker News",
       "published": "2026-08-10T11:52:07+00:00",
       "link": "https://www.mikeayles.com/blog/on-chip-llm-kv260/"
@@ -346,7 +437,7 @@ const FEED_DATA = {
     },
     {
       "title": "Tech leaders say AI means less work – staff say they work up to 90 hours a week",
-      "summary": "Article URL: https://www.bbc.com/news/articles/cvgx4yd1gl2o Comments URL: https://news.ycombinator.com/item?id=49241559 Points: 95 # Comments: 37",
+      "summary": "Article URL: https://www.bbc.com/news/articles/cvgx4yd1gl2o Comments URL: https://news.ycombinator.com/item?id=49241559 Points: 116 # Comments: 45",
       "source": "Hacker News",
       "published": "2026-08-10T09:53:37+00:00",
       "link": "https://www.bbc.com/news/articles/cvgx4yd1gl2o"
@@ -374,14 +465,14 @@ const FEED_DATA = {
     },
     {
       "title": "Docker Sandboxes – Disposable, isolated sandboxes for AI agents",
-      "summary": "Article URL: https://www.docker.com/products/docker-sandboxes/ Comments URL: https://news.ycombinator.com/item?id=49239751 Points: 666 # Comments: 372",
+      "summary": "Article URL: https://www.docker.com/products/docker-sandboxes/ Comments URL: https://news.ycombinator.com/item?id=49239751 Points: 673 # Comments: 377",
       "source": "Hacker News",
       "published": "2026-08-10T06:02:38+00:00",
       "link": "https://www.docker.com/products/docker-sandboxes/"
     },
     {
       "title": "The Philippines' big offshoring industry is growing despite AI",
-      "summary": "Article URL: https://www.economist.com/asia/2026/08/06/the-philippines-big-offshoring-industry-is-growing-despite-ai Comments URL: https://news.ycombinator.com/item?id=49239226 Points: 74 # Comments: 88",
+      "summary": "Article URL: https://www.economist.com/asia/2026/08/06/the-philippines-big-offshoring-industry-is-growing-despite-ai Comments URL: https://news.ycombinator.com/item?id=49239226 Points: 75 # Comments: 88",
       "source": "Hacker News",
       "published": "2026-08-10T04:35:24+00:00",
       "link": "https://www.economist.com/asia/2026/08/06/the-philippines-big-offshoring-industry-is-growing-despite-ai"
@@ -416,7 +507,7 @@ const FEED_DATA = {
     },
     {
       "title": "The tragedy of the commons, AI edition",
-      "summary": "Article URL: https://www.economist.com/britain/2026/08/06/the-tragedy-of-the-commons-ai-edition Comments URL: https://news.ycombinator.com/item?id=49235011 Points: 144 # Comments: 112",
+      "summary": "Article URL: https://www.economist.com/britain/2026/08/06/the-tragedy-of-the-commons-ai-edition Comments URL: https://news.ycombinator.com/item?id=49235011 Points: 145 # Comments: 113",
       "source": "Hacker News",
       "published": "2026-08-09T19:43:52+00:00",
       "link": "https://www.economist.com/britain/2026/08/06/the-tragedy-of-the-commons-ai-edition"
@@ -1309,97 +1400,6 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-08-05T15:05:00+00:00",
       "link": "https://techcrunch.com/2026/08/05/techcrunch-disrupt-2026s-real-world-ai-stage-features-robots-automated-factories-and-extinct-animals/"
-    },
-    {
-      "title": "SpaceX’s ambitious compute goals could require over two million Nvidia Rubin GPUs",
-      "summary": "SpaceX plans to more than 5x its compute capacity by the end of 2027, betting exclusively on Nvidia's Vera Rubin platform. The expansion could require well over a million new GPUs.",
-      "source": "The Decoder",
-      "published": "2026-08-05T14:15:50+00:00",
-      "link": "https://the-decoder.com/spacexs-ambitious-compute-goals-could-require-over-two-million-nvidia-rubin-gpus/"
-    },
-    {
-      "title": "Anthropic is hiring an AI chip design team",
-      "summary": "Anthropic is building a team for designing its own custom AI chips. The Claude maker said it would co-design hardware and models to help its technology run faster and more efficiently.",
-      "source": "TechCrunch",
-      "published": "2026-08-05T14:13:18+00:00",
-      "link": "https://techcrunch.com/2026/08/05/anthropic-is-hiring-an-ai-chip-design-team/"
-    },
-    {
-      "title": "Intelligence Is Not the Main Bottleneck",
-      "summary": "Article URL: https://www.writingruxandrabio.com/p/intelligence-is-not-the-main-bottleneck Comments URL: https://news.ycombinator.com/item?id=49183076 Points: 123 # Comments: 116",
-      "source": "Hacker News",
-      "published": "2026-08-05T14:04:06+00:00",
-      "link": "https://www.writingruxandrabio.com/p/intelligence-is-not-the-main-bottleneck"
-    },
-    {
-      "title": "Black Forest Labs makes FLUX 3 Video generally available and claims it beats Seedance 2.0",
-      "summary": "Black Forest Labs has launched FLUX 3 Video, which generates Full HD clips up to 20 seconds long with native audio and lip-synced dialogue in more than 14 languages. It can also render typography directly in scenes.",
-      "source": "The Decoder",
-      "published": "2026-08-05T13:06:48+00:00",
-      "link": "https://the-decoder.com/black-forest-labs-makes-flux-3-video-generally-available-and-claims-it-beats-seedance-2-0/"
-    },
-    {
-      "title": "TIME Is Serving AI Bots a Different Website, with Ads Built In",
-      "summary": "Article URL: https://www.vincentschmalbach.com/time-serves-ai-bots-a-different-website/ Comments URL: https://news.ycombinator.com/item?id=49182041 Points: 262 # Comments: 110",
-      "source": "Hacker News",
-      "published": "2026-08-05T12:41:47+00:00",
-      "link": "https://www.vincentschmalbach.com/time-serves-ai-bots-a-different-website/"
-    },
-    {
-      "title": "MacPaw taps Liquid AI to offer on-device inference to devs building for its app store",
-      "summary": "MacPaw is building a local version of its AI assistant Eney using Liquid AI's models.",
-      "source": "TechCrunch",
-      "published": "2026-08-05T12:28:38+00:00",
-      "link": "https://techcrunch.com/2026/08/05/macpaw-taps-liquid-ai-to-offer-on-device-inference-to-devs-building-for-its-app-store/"
-    },
-    {
-      "title": "Anthropic AI created fake profiles and impersonated people in attempted hack",
-      "summary": "Article URL: https://www.bbc.co.uk/news/articles/c1w1lvn7d9go Comments URL: https://news.ycombinator.com/item?id=49181773 Points: 54 # Comments: 21",
-      "source": "Hacker News",
-      "published": "2026-08-05T12:16:47+00:00",
-      "link": "https://www.bbc.co.uk/news/articles/c1w1lvn7d9go"
-    },
-    {
-      "title": "The Download: NASA’s new telescope and Chinese tech import curbs",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.",
-      "source": "MIT Tech Review",
-      "published": "2026-08-05T12:10:00+00:00",
-      "link": "https://www.technologyreview.com/2026/08/05/1141212/the-download-nasa-telescope-chinese-tech-import-curbs/"
-    },
-    {
-      "title": "Why Erdős Problems Are Falling to AI",
-      "summary": "Article URL: https://www.quantamagazine.org/why-the-legendary-erdos-problems-are-falling-to-ai-20260803/ Comments URL: https://news.ycombinator.com/item?id=49181519 Points: 148 # Comments: 139",
-      "source": "Hacker News",
-      "published": "2026-08-05T11:49:34+00:00",
-      "link": "https://www.quantamagazine.org/why-the-legendary-erdos-problems-are-falling-to-ai-20260803/"
-    },
-    {
-      "title": "AI Influencers Are Heading Into Uncharted Territory",
-      "summary": "Some creators fear the EU AI Act’s regulatory chaos will upend their lucrative businesses. Others are owning it by incorporating AI transparency into their creative process.",
-      "source": "Wired",
-      "published": "2026-08-05T11:43:00+00:00",
-      "link": "https://www.wired.com/story/algorithm-turning-on-ai-influencers-are-humans-worried/"
-    },
-    {
-      "title": "Google Assistant will disappear from your phone next month",
-      "summary": "Google Assistant's days have been numbered ever since Gemini arrived on the scene, and its time is now up.",
-      "source": "The Verge",
-      "published": "2026-08-05T11:12:50+00:00",
-      "link": "https://www.theverge.com/tech/975516/google-assistant-android-phones-tablets-shutdown"
-    },
-    {
-      "title": "AI makes weather prediction better. Can WindBorne make it lucrative?",
-      "summary": "WindBorne Systems has raised a $37 million Series B round to scale its weather balloons and AI forecasts.",
-      "source": "TechCrunch",
-      "published": "2026-08-05T11:00:00+00:00",
-      "link": "https://techcrunch.com/2026/08/05/ai-makes-weather-prediction-better-can-windborne-make-it-lucrative/"
-    },
-    {
-      "title": "US appeals court allows Perplexity's AI shopping agent back on Amazon",
-      "summary": "A US appeals court has overturned Amazon's injunction against Perplexity's AI shopping agents, ruling that it's the users who access Amazon, not the startup.",
-      "source": "The Decoder",
-      "published": "2026-08-05T10:31:42+00:00",
-      "link": "https://the-decoder.com/us-appeals-court-allows-perplexitys-ai-shopping-agent-back-on-amazon/"
     }
   ]
 };
