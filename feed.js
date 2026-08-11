@@ -1,5 +1,5 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-08-11T03:03:03.752044+00:00",
+  "lastUpdated": "2026-08-11T05:56:21.485631+00:00",
   "items": [
     {
       "title": "OpenAI reportedly completed a $7 billion employee tender offer",
@@ -24,7 +24,7 @@ const FEED_DATA = {
     },
     {
       "title": "How Claude marks AI-generated content",
-      "summary": "Article URL: https://support.claude.com/en/articles/16266773-how-claude-marks-ai-generated-content Comments URL: https://news.ycombinator.com/item?id=49250109 Points: 82 # Comments: 75",
+      "summary": "Article URL: https://support.claude.com/en/articles/16266773-how-claude-marks-ai-generated-content Comments URL: https://news.ycombinator.com/item?id=49250109 Points: 98 # Comments: 81",
       "source": "Hacker News",
       "published": "2026-08-10T21:36:56+00:00",
       "link": "https://support.claude.com/en/articles/16266773-how-claude-marks-ai-generated-content"
@@ -73,7 +73,7 @@ const FEED_DATA = {
     },
     {
       "title": "GPT 5.6 Cyber",
-      "summary": "Article URL: https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows/ Comments URL: https://news.ycombinator.com/item?id=49246704 Points: 93 # Comments: 43",
+      "summary": "Article URL: https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows/ Comments URL: https://news.ycombinator.com/item?id=49246704 Points: 100 # Comments: 49",
       "source": "Hacker News",
       "published": "2026-08-10T17:14:00+00:00",
       "link": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows/"
@@ -101,14 +101,14 @@ const FEED_DATA = {
     },
     {
       "title": "Kinney Drugs pulls back AI phone assistant after hundreds of customer complaints",
-      "summary": "Article URL: https://www.wcax.com/2026/08/07/kinney-drugs-pulls-back-ai-phone-assistant-after-hundreds-customer-complaints/ Comments URL: https://news.ycombinator.com/item?id=49244569 Points: 145 # Comments: 156",
+      "summary": "Article URL: https://www.wcax.com/2026/08/07/kinney-drugs-pulls-back-ai-phone-assistant-after-hundreds-customer-complaints/ Comments URL: https://news.ycombinator.com/item?id=49244569 Points: 149 # Comments: 158",
       "source": "Hacker News",
       "published": "2026-08-10T14:56:32+00:00",
       "link": "https://www.wcax.com/2026/08/07/kinney-drugs-pulls-back-ai-phone-assistant-after-hundreds-customer-complaints/"
     },
     {
       "title": "Letter to Governor Abbott on responsible AI infrastructure in Texas",
-      "summary": "Article URL: https://openai.com/index/responsible-ai-infrastructure-texas/ Comments URL: https://news.ycombinator.com/item?id=49244308 Points: 98 # Comments: 178",
+      "summary": "Article URL: https://openai.com/index/responsible-ai-infrastructure-texas/ Comments URL: https://news.ycombinator.com/item?id=49244308 Points: 106 # Comments: 193",
       "source": "Hacker News",
       "published": "2026-08-10T14:38:20+00:00",
       "link": "https://openai.com/index/responsible-ai-infrastructure-texas/"
@@ -122,14 +122,14 @@ const FEED_DATA = {
     },
     {
       "title": "Exploring Claude/GPT Knowledge Cutoffs and Pre-Training Timelines",
-      "summary": "Article URL: https://blog.sshh.io/p/exploring-claudegpt-knowledge-cutoffs Comments URL: https://news.ycombinator.com/item?id=49244085 Points: 112 # Comments: 14",
+      "summary": "Article URL: https://blog.sshh.io/p/exploring-claudegpt-knowledge-cutoffs Comments URL: https://news.ycombinator.com/item?id=49244085 Points: 136 # Comments: 19",
       "source": "Hacker News",
       "published": "2026-08-10T14:20:41+00:00",
       "link": "https://blog.sshh.io/p/exploring-claudegpt-knowledge-cutoffs"
     },
     {
       "title": "Mark Zuckerberg attacks 'closed' AI rivals as Meta returns to open models",
-      "summary": "https://archive.is/20LOJhttps://www.meta.com/thefutureisforeveryone/ Comments URL: https://news.ycombinator.com/item?id=49243880 Points: 397 # Comments: 394",
+      "summary": "https://archive.is/20LOJhttps://www.meta.com/thefutureisforeveryone/ Comments URL: https://news.ycombinator.com/item?id=49243880 Points: 451 # Comments: 421",
       "source": "Hacker News",
       "published": "2026-08-10T14:06:22+00:00",
       "link": "https://www.ft.com/content/4e3957f8-ea7c-4c46-a3de-cdce8e526878"
@@ -157,7 +157,7 @@ const FEED_DATA = {
     },
     {
       "title": "Humanising LLM Outputs Is Dumb",
-      "summary": "Article URL: https://kuber.studio/blog/Reflections/Humanising-LLM-Outputs-is-Actually-Dumb Comments URL: https://news.ycombinator.com/item?id=49243474 Points: 165 # Comments: 99",
+      "summary": "Article URL: https://kuber.studio/blog/Reflections/Humanising-LLM-Outputs-is-Actually-Dumb Comments URL: https://news.ycombinator.com/item?id=49243474 Points: 188 # Comments: 116",
       "source": "Hacker News",
       "published": "2026-08-10T13:35:40+00:00",
       "link": "https://kuber.studio/blog/Reflections/Humanising-LLM-Outputs-is-Actually-Dumb"
@@ -234,7 +234,7 @@ const FEED_DATA = {
     },
     {
       "title": "Tech leaders say AI means less work – staff say they work up to 90 hours a week",
-      "summary": "Article URL: https://www.bbc.com/news/articles/cvgx4yd1gl2o Comments URL: https://news.ycombinator.com/item?id=49241559 Points: 57 # Comments: 19",
+      "summary": "Article URL: https://www.bbc.com/news/articles/cvgx4yd1gl2o Comments URL: https://news.ycombinator.com/item?id=49241559 Points: 70 # Comments: 20",
       "source": "Hacker News",
       "published": "2026-08-10T09:53:37+00:00",
       "link": "https://www.bbc.com/news/articles/cvgx4yd1gl2o"
@@ -262,14 +262,14 @@ const FEED_DATA = {
     },
     {
       "title": "Docker Sandboxes – Disposable, isolated sandboxes for AI agents",
-      "summary": "Article URL: https://www.docker.com/products/docker-sandboxes/ Comments URL: https://news.ycombinator.com/item?id=49239751 Points: 632 # Comments: 351",
+      "summary": "Article URL: https://www.docker.com/products/docker-sandboxes/ Comments URL: https://news.ycombinator.com/item?id=49239751 Points: 644 # Comments: 356",
       "source": "Hacker News",
       "published": "2026-08-10T06:02:38+00:00",
       "link": "https://www.docker.com/products/docker-sandboxes/"
     },
     {
       "title": "The Philippines' big offshoring industry is growing despite AI",
-      "summary": "Article URL: https://www.economist.com/asia/2026/08/06/the-philippines-big-offshoring-industry-is-growing-despite-ai Comments URL: https://news.ycombinator.com/item?id=49239226 Points: 71 # Comments: 85",
+      "summary": "Article URL: https://www.economist.com/asia/2026/08/06/the-philippines-big-offshoring-industry-is-growing-despite-ai Comments URL: https://news.ycombinator.com/item?id=49239226 Points: 72 # Comments: 87",
       "source": "Hacker News",
       "published": "2026-08-10T04:35:24+00:00",
       "link": "https://www.economist.com/asia/2026/08/06/the-philippines-big-offshoring-industry-is-growing-despite-ai"
@@ -283,7 +283,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI assistant hacks gym website in first known Australian autonomous cyber attack",
-      "summary": "Article URL: https://www.abc.net.au/news/2026-08-10/ai-assistant-hacks-gym-website-aus-cyber-attack/107007986 Comments URL: https://news.ycombinator.com/item?id=49236439 Points: 70 # Comments: 58",
+      "summary": "Article URL: https://www.abc.net.au/news/2026-08-10/ai-assistant-hacks-gym-website-aus-cyber-attack/107007986 Comments URL: https://news.ycombinator.com/item?id=49236439 Points: 71 # Comments: 59",
       "source": "Hacker News",
       "published": "2026-08-09T21:52:23+00:00",
       "link": "https://www.abc.net.au/news/2026-08-10/ai-assistant-hacks-gym-website-aus-cyber-attack/107007986"
@@ -304,7 +304,7 @@ const FEED_DATA = {
     },
     {
       "title": "The tragedy of the commons, AI edition",
-      "summary": "Article URL: https://www.economist.com/britain/2026/08/06/the-tragedy-of-the-commons-ai-edition Comments URL: https://news.ycombinator.com/item?id=49235011 Points: 143 # Comments: 108",
+      "summary": "Article URL: https://www.economist.com/britain/2026/08/06/the-tragedy-of-the-commons-ai-edition Comments URL: https://news.ycombinator.com/item?id=49235011 Points: 144 # Comments: 109",
       "source": "Hacker News",
       "published": "2026-08-09T19:43:52+00:00",
       "link": "https://www.economist.com/britain/2026/08/06/the-tragedy-of-the-commons-ai-edition"
@@ -339,7 +339,7 @@ const FEED_DATA = {
     },
     {
       "title": "John C. Lilly on solid state intelligence and the elimination of man (1978)",
-      "summary": "Article URL: https://kibotronics.net/unlisted/lilly-machines/ Comments URL: https://news.ycombinator.com/item?id=49231397 Points: 147 # Comments: 125",
+      "summary": "Article URL: https://kibotronics.net/unlisted/lilly-machines/ Comments URL: https://news.ycombinator.com/item?id=49231397 Points: 147 # Comments: 126",
       "source": "Hacker News",
       "published": "2026-08-09T13:47:36+00:00",
       "link": "https://kibotronics.net/unlisted/lilly-machines/"
