@@ -1,9 +1,37 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-08-10T21:33:16.720141+00:00",
+  "lastUpdated": "2026-08-11T03:03:03.752044+00:00",
   "items": [
     {
+      "title": "OpenAI reportedly completed a $7 billion employee tender offer",
+      "summary": "San Francisco's housing market is in trouble again.",
+      "source": "TechCrunch",
+      "published": "2026-08-11T00:03:18+00:00",
+      "link": "https://techcrunch.com/2026/08/10/openai-reportedly-completed-a-7-billion-employee-tender-offer/"
+    },
+    {
+      "title": "As AI-led attacks multiply, OpenAI launches a new cyber model",
+      "summary": "OpenAI is expanding its AI cybersecurity defense program Daybreak, and rolling out a new cyber-trained AI model with it.",
+      "source": "TechCrunch",
+      "published": "2026-08-10T23:56:15+00:00",
+      "link": "https://techcrunch.com/2026/08/10/as-ai-led-attacks-multiply-openai-launches-a-new-cyber-model/"
+    },
+    {
+      "title": "Mark Zuckerberg doesn’t understand how to live",
+      "summary": "Recently, a man I was rock climbing with told me about how he'd used AI to make a motivational poster for himself, which he'd hung on his bedroom wall: a bear, walking a slackline over a canyon, holding a sign that said, \"Do cool shit.\" I made what I hoped was a polite noise.",
+      "source": "The Verge",
+      "published": "2026-08-10T22:00:00+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/977623/mark-zuckerberg-ai-manifesto-dim-vision"
+    },
+    {
+      "title": "How Claude marks AI-generated content",
+      "summary": "Article URL: https://support.claude.com/en/articles/16266773-how-claude-marks-ai-generated-content Comments URL: https://news.ycombinator.com/item?id=49250109 Points: 82 # Comments: 75",
+      "source": "Hacker News",
+      "published": "2026-08-10T21:36:56+00:00",
+      "link": "https://support.claude.com/en/articles/16266773-how-claude-marks-ai-generated-content"
+    },
+    {
       "title": "Mark Zuckerberg’s AI manifesto is exactly why people don’t like AI",
-      "summary": "On Monday, Mark Zuckerberg published a 6,500 word manifesto about personal AI, largely about the possibilities for the \"personal superintelligence\" systems Meta AI is building.",
+      "summary": "On Monday, Mark Zuckerberg published a 6,500-word manifesto about personal AI, largely about the possibilities for the \"personal superintelligence\" systems Meta AI is building.",
       "source": "TechCrunch",
       "published": "2026-08-10T20:53:02+00:00",
       "link": "https://techcrunch.com/2026/08/10/mark-zuckerbergs-ai-manifesto-is-exactly-why-people-dont-like-ai/"
@@ -37,6 +65,20 @@ const FEED_DATA = {
       "link": "https://the-decoder.com/openai-launches-gpt-5-6-cyber-to-help-defenders-find-vulnerabilities-before-attackers-do/"
     },
     {
+      "title": "Show HN: Needle2: 14MB agentic LLM for phones, wearables, smart home and robots",
+      "summary": "Hey HN,Henry from Cactus here!We previously released Cactus Needle, a 14MB agentic LLM for tool call, device use, and structured extraction for phones, wearables, smart homes, small robots and microcontrollers.",
+      "source": "Hacker News",
+      "published": "2026-08-10T17:22:07+00:00",
+      "link": "https://cactuscompute.com/needle"
+    },
+    {
+      "title": "GPT 5.6 Cyber",
+      "summary": "Article URL: https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows/ Comments URL: https://news.ycombinator.com/item?id=49246704 Points: 93 # Comments: 43",
+      "source": "Hacker News",
+      "published": "2026-08-10T17:14:00+00:00",
+      "link": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows/"
+    },
+    {
       "title": "Launch HN: Stoa Markets (YC S26) – A Marketplace for GPUs and AI Servers",
       "summary": "Hi HN, we’re Eren, Berat and Kaan. We’re building Stoa (https://www.stoaexchange.com), a marketplace for new and used GPUs and AI servers.GPUs are the collateral in the data center buildout.",
       "source": "Hacker News",
@@ -59,14 +101,14 @@ const FEED_DATA = {
     },
     {
       "title": "Kinney Drugs pulls back AI phone assistant after hundreds of customer complaints",
-      "summary": "Article URL: https://www.wcax.com/2026/08/07/kinney-drugs-pulls-back-ai-phone-assistant-after-hundreds-customer-complaints/ Comments URL: https://news.ycombinator.com/item?id=49244569 Points: 125 # Comments: 142",
+      "summary": "Article URL: https://www.wcax.com/2026/08/07/kinney-drugs-pulls-back-ai-phone-assistant-after-hundreds-customer-complaints/ Comments URL: https://news.ycombinator.com/item?id=49244569 Points: 145 # Comments: 156",
       "source": "Hacker News",
       "published": "2026-08-10T14:56:32+00:00",
       "link": "https://www.wcax.com/2026/08/07/kinney-drugs-pulls-back-ai-phone-assistant-after-hundreds-customer-complaints/"
     },
     {
       "title": "Letter to Governor Abbott on responsible AI infrastructure in Texas",
-      "summary": "Article URL: https://openai.com/index/responsible-ai-infrastructure-texas/ Comments URL: https://news.ycombinator.com/item?id=49244308 Points: 70 # Comments: 132",
+      "summary": "Article URL: https://openai.com/index/responsible-ai-infrastructure-texas/ Comments URL: https://news.ycombinator.com/item?id=49244308 Points: 98 # Comments: 178",
       "source": "Hacker News",
       "published": "2026-08-10T14:38:20+00:00",
       "link": "https://openai.com/index/responsible-ai-infrastructure-texas/"
@@ -80,14 +122,14 @@ const FEED_DATA = {
     },
     {
       "title": "Exploring Claude/GPT Knowledge Cutoffs and Pre-Training Timelines",
-      "summary": "Article URL: https://blog.sshh.io/p/exploring-claudegpt-knowledge-cutoffs Comments URL: https://news.ycombinator.com/item?id=49244085 Points: 71 # Comments: 11",
+      "summary": "Article URL: https://blog.sshh.io/p/exploring-claudegpt-knowledge-cutoffs Comments URL: https://news.ycombinator.com/item?id=49244085 Points: 112 # Comments: 14",
       "source": "Hacker News",
       "published": "2026-08-10T14:20:41+00:00",
       "link": "https://blog.sshh.io/p/exploring-claudegpt-knowledge-cutoffs"
     },
     {
       "title": "Mark Zuckerberg attacks 'closed' AI rivals as Meta returns to open models",
-      "summary": "https://archive.is/20LOJhttps://www.meta.com/thefutureisforeveryone/ Comments URL: https://news.ycombinator.com/item?id=49243880 Points: 245 # Comments: 303",
+      "summary": "https://archive.is/20LOJhttps://www.meta.com/thefutureisforeveryone/ Comments URL: https://news.ycombinator.com/item?id=49243880 Points: 397 # Comments: 394",
       "source": "Hacker News",
       "published": "2026-08-10T14:06:22+00:00",
       "link": "https://www.ft.com/content/4e3957f8-ea7c-4c46-a3de-cdce8e526878"
@@ -115,7 +157,7 @@ const FEED_DATA = {
     },
     {
       "title": "Humanising LLM Outputs Is Dumb",
-      "summary": "Article URL: https://kuber.studio/blog/Reflections/Humanising-LLM-Outputs-is-Actually-Dumb Comments URL: https://news.ycombinator.com/item?id=49243474 Points: 92 # Comments: 51",
+      "summary": "Article URL: https://kuber.studio/blog/Reflections/Humanising-LLM-Outputs-is-Actually-Dumb Comments URL: https://news.ycombinator.com/item?id=49243474 Points: 165 # Comments: 99",
       "source": "Hacker News",
       "published": "2026-08-10T13:35:40+00:00",
       "link": "https://kuber.studio/blog/Reflections/Humanising-LLM-Outputs-is-Actually-Dumb"
@@ -156,6 +198,13 @@ const FEED_DATA = {
       "link": "https://www.wired.com/story/the-ai-slop-backlash-is-actually-having-an-impact/"
     },
     {
+      "title": "Meta Muse Glimmer brings local AI agents to consumer GPUs",
+      "summary": "Meta is releasing Muse Glimmer under an Apache 2.0 licence for local AI agents that can run on a consumer GPU. The company’s Superintelligence Labs has released the 30-billion-parameter model’s weights on Hugging Face.",
+      "source": "AI News",
+      "published": "2026-08-10T11:02:38+00:00",
+      "link": "https://www.artificialintelligence-news.com/news/meta-muse-glimmer-local-ai-agents-consumer-gpus/"
+    },
+    {
       "title": "Ford’s new AI assistant can check your fuel levels and tire pressure",
       "summary": "Ford is rolling out a new AI-powered assistant that can answer questions about your Ford or Lincoln vehicle, such as how much fuel you'll need for your next road trip or whether your truck can tow that new motor boat.",
       "source": "The Verge",
@@ -175,6 +224,20 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-08-10T10:08:14+00:00",
       "link": "https://the-decoder.com/openai-acquires-nextslide-to-bring-ai-generated-presentations-into-chatgpt/"
+    },
+    {
+      "title": "The limits of physics AI: where Siemens says the human stays in charge",
+      "summary": "Physics AI can now explore thousands of design variations in the time it would take a traditional simulation to chew through a handful of them. Precisely up to 1,000 times faster, according to Siemens.",
+      "source": "AI News",
+      "published": "2026-08-10T10:00:00+00:00",
+      "link": "https://www.artificialintelligence-news.com/news/siemens-physics-ai-simulation-human-oversight/"
+    },
+    {
+      "title": "Tech leaders say AI means less work – staff say they work up to 90 hours a week",
+      "summary": "Article URL: https://www.bbc.com/news/articles/cvgx4yd1gl2o Comments URL: https://news.ycombinator.com/item?id=49241559 Points: 57 # Comments: 19",
+      "source": "Hacker News",
+      "published": "2026-08-10T09:53:37+00:00",
+      "link": "https://www.bbc.com/news/articles/cvgx4yd1gl2o"
     },
     {
       "title": "AI for science needs reasoning, not just data",
@@ -199,7 +262,7 @@ const FEED_DATA = {
     },
     {
       "title": "Docker Sandboxes – Disposable, isolated sandboxes for AI agents",
-      "summary": "Article URL: https://www.docker.com/products/docker-sandboxes/ Comments URL: https://news.ycombinator.com/item?id=49239751 Points: 601 # Comments: 339",
+      "summary": "Article URL: https://www.docker.com/products/docker-sandboxes/ Comments URL: https://news.ycombinator.com/item?id=49239751 Points: 632 # Comments: 351",
       "source": "Hacker News",
       "published": "2026-08-10T06:02:38+00:00",
       "link": "https://www.docker.com/products/docker-sandboxes/"
@@ -241,7 +304,7 @@ const FEED_DATA = {
     },
     {
       "title": "The tragedy of the commons, AI edition",
-      "summary": "Article URL: https://www.economist.com/britain/2026/08/06/the-tragedy-of-the-commons-ai-edition Comments URL: https://news.ycombinator.com/item?id=49235011 Points: 143 # Comments: 100",
+      "summary": "Article URL: https://www.economist.com/britain/2026/08/06/the-tragedy-of-the-commons-ai-edition Comments URL: https://news.ycombinator.com/item?id=49235011 Points: 143 # Comments: 108",
       "source": "Hacker News",
       "published": "2026-08-09T19:43:52+00:00",
       "link": "https://www.economist.com/britain/2026/08/06/the-tragedy-of-the-commons-ai-edition"
@@ -255,14 +318,14 @@ const FEED_DATA = {
     },
     {
       "title": "An OpenAI Strategist Says AI Labs Should Rival Government Power",
-      "summary": "Article URL: https://ai-updates.net/an-openai-strategist-says-ai-labs-should-rival-government-power/ Comments URL: https://news.ycombinator.com/item?id=49232778 Points: 61 # Comments: 69",
+      "summary": "Article URL: https://ai-updates.net/an-openai-strategist-says-ai-labs-should-rival-government-power/ Comments URL: https://news.ycombinator.com/item?id=49232778 Points: 62 # Comments: 69",
       "source": "Hacker News",
       "published": "2026-08-09T16:18:39+00:00",
       "link": "https://ai-updates.net/an-openai-strategist-says-ai-labs-should-rival-government-power/"
     },
     {
       "title": "Human vs. AI – Diff-based line-level provenance for text under agentic editing",
-      "summary": "Article URL: https://github.com/eighttrigrams/us-vs-them Comments URL: https://news.ycombinator.com/item?id=49232300 Points: 51 # Comments: 15",
+      "summary": "Article URL: https://github.com/eighttrigrams/us-vs-them Comments URL: https://news.ycombinator.com/item?id=49232300 Points: 53 # Comments: 15",
       "source": "Hacker News",
       "published": "2026-08-09T15:25:29+00:00",
       "link": "https://github.com/eighttrigrams/us-vs-them"
@@ -276,7 +339,7 @@ const FEED_DATA = {
     },
     {
       "title": "John C. Lilly on solid state intelligence and the elimination of man (1978)",
-      "summary": "Article URL: https://kibotronics.net/unlisted/lilly-machines/ Comments URL: https://news.ycombinator.com/item?id=49231397 Points: 147 # Comments: 123",
+      "summary": "Article URL: https://kibotronics.net/unlisted/lilly-machines/ Comments URL: https://news.ycombinator.com/item?id=49231397 Points: 147 # Comments: 125",
       "source": "Hacker News",
       "published": "2026-08-09T13:47:36+00:00",
       "link": "https://kibotronics.net/unlisted/lilly-machines/"
@@ -1337,69 +1400,6 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-08-04T19:34:34+00:00",
       "link": "https://techcrunch.com/2026/08/04/meet-wrinkles-an-ai-app-that-uncovers-the-hidden-stories-of-the-places-around-you/"
-    },
-    {
-      "title": "Nvidia doesn’t mess around: A week after open AI industry group formed, it’s already showing progress",
-      "summary": "The week-old Open Secure AI Alliance, spearheaded by Nvidia and grown to over 120 companies, already has proposals out for defending against AI agents.",
-      "source": "TechCrunch",
-      "published": "2026-08-04T19:28:49+00:00",
-      "link": "https://techcrunch.com/2026/08/04/nvidia-doesnt-mess-around-a-week-after-open-ai-industry-group-formed-its-already-showing-progress/"
-    },
-    {
-      "title": "AI Data Centers Are Driving Up Power Bills – This Map Shows Where",
-      "summary": "Article URL: https://www.gadgetreview.com/ai-data-centers-are-driving-up-power-bills-this-map-shows-where Comments URL: https://news.ycombinator.com/item?id=49172433 Points: 67 # Comments: 25",
-      "source": "Hacker News",
-      "published": "2026-08-04T17:57:15+00:00",
-      "link": "https://www.gadgetreview.com/ai-data-centers-are-driving-up-power-bills-this-map-shows-where"
-    },
-    {
-      "title": "How an OpenAI influencer trip backfired",
-      "summary": "The brand trip is a right of passage for influencers. It's a mark of legitimacy that a sponsor wants to invite them on an all-expenses-paid vacation, often with luxurious freebies and activities.",
-      "source": "The Verge",
-      "published": "2026-08-04T17:46:41+00:00",
-      "link": "https://www.theverge.com/tech/975173/openai-influencers-brand-trip-ai-backlash-marketing"
-    },
-    {
-      "title": "‘Not healthy’ LLM use is more common than you think",
-      "summary": "Hank Green, a popular YouTuber and science communicator, said he is stepping back from production amid intense criticism over his use of AI. Green described his AI usage as \"not healthy,\" but stressed that he used it for finding research sources and not to write scripts.",
-      "source": "The Verge",
-      "published": "2026-08-04T17:33:46+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/975180/llm-ai-chatbot-use-not-healthy"
-    },
-    {
-      "title": "This year's Pulitzer Prizes saw a record number of winners disclose AI use",
-      "summary": "A record eight entries honored at the 2026 Pulitzer Prizes disclosed using AI, including five winners. Newsrooms such as the Wall Street Journal and AP used LLMs mainly to search large document sets faster.",
-      "source": "The Decoder",
-      "published": "2026-08-04T17:26:03+00:00",
-      "link": "https://the-decoder.com/this-years-pulitzer-prizes-saw-a-record-number-of-winners-disclose-ai-use/"
-    },
-    {
-      "title": "Google moves billions in Anthropic chip risk off its balance sheet",
-      "summary": "Google is working with Broadcom, Apollo, Blackstone, and Morgan Stanley on a multibillion-dollar financing structure that supplies Anthropic with AI chips and data centers while keeping most of the risk off Google's balance sheet.",
-      "source": "The Decoder",
-      "published": "2026-08-04T16:38:58+00:00",
-      "link": "https://the-decoder.com/google-moves-billions-in-anthropic-chip-risk-off-its-balance-sheet/"
-    },
-    {
-      "title": "When AI Benchmarks Plateau: A Systematic Study of Benchmark Saturation",
-      "summary": "Article URL: https://arxiv.org/abs/2602.16763 Comments URL: https://news.ycombinator.com/item?id=49170915 Points: 103 # Comments: 127",
-      "source": "Hacker News",
-      "published": "2026-08-04T16:10:39+00:00",
-      "link": "https://arxiv.org/abs/2602.16763"
-    },
-    {
-      "title": "Red Hat, NVIDIA, IBM back project turning AI policy into code",
-      "summary": "Red Hat has launched asago, an open-source community project that aims to turn AI governance policy into production-ready deployment code.",
-      "source": "AI News",
-      "published": "2026-08-04T16:07:15+00:00",
-      "link": "https://www.artificialintelligence-news.com/news/red-hat-nvidia-ibm-back-project-turning-ai-policy-into-code/"
-    },
-    {
-      "title": "The AI Demand Bubble",
-      "summary": "Article URL: https://www.wheresyoured.at/the-ai-demand-bubble/ Comments URL: https://news.ycombinator.com/item?id=49170648 Points: 110 # Comments: 148",
-      "source": "Hacker News",
-      "published": "2026-08-04T15:51:51+00:00",
-      "link": "https://www.wheresyoured.at/the-ai-demand-bubble/"
     }
   ]
 };
