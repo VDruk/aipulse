@@ -1,6 +1,20 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-08-11T21:39:32.687480+00:00",
+  "lastUpdated": "2026-08-12T03:21:35.686945+00:00",
   "items": [
+    {
+      "title": "Saber denies replacing Rideshare Stimulator’s writers with ChatGPT",
+      "summary": "After a former lead writer claimed Saber \"replaced me with ChatGPT,\" CEO Matthew Karch now claims, \"Neither Saber nor Unigine have replaced any writers with AI,\" for the Rideshare \"Stimulator\" game announced last month, developed by Unigine.",
+      "source": "The Verge",
+      "published": "2026-08-12T00:39:26+00:00",
+      "link": "https://www.theverge.com/games/978558/rideshare-stimulator-writer-ai-saber-interactive"
+    },
+    {
+      "title": "Accel closes oversubscribed $550M India fund within weeks, 19 months after its last",
+      "summary": "The U.S. VC firm still has more than 55% of its previous $650 million India fund available for deployment.",
+      "source": "TechCrunch",
+      "published": "2026-08-11T21:39:11+00:00",
+      "link": "https://techcrunch.com/2026/08/11/accel-closes-oversubscribed-550m-india-fund-within-weeks-19-months-after-its-last/"
+    },
     {
       "title": "Chrome adopts what may be the best protection yet against account takeovers",
       "summary": "Device-bound session credentials thwart an increasingly common form of account takeover.",
@@ -1386,20 +1400,6 @@ const FEED_DATA = {
       "source": "The Verge",
       "published": "2026-08-05T16:35:56+00:00",
       "link": "https://www.theverge.com/science/975545/spacex-x-earnings-ai-data-centers-compute-space"
-    },
-    {
-      "title": "Mistral's open model Shieldstral matches much larger safety models at a fraction of the size",
-      "summary": "Mistral's new 3B Shieldstral model checks AI inputs and outputs for safety violations using natural language yes-or-no questions instead of fixed categories. It matches models seven times its size in some benchmarks.",
-      "source": "The Decoder",
-      "published": "2026-08-05T16:35:07+00:00",
-      "link": "https://the-decoder.com/mistrals-open-model-shieldstral-matches-much-larger-safety-models/"
-    },
-    {
-      "title": "Google’s Top AI Brains Are Leaving to Launch Discovery Loop",
-      "summary": "Jeff Dean and other high-profile Google executives have founded Discovery Loop, a startup that will seek AI-powered breakthroughs in everything from drug discovery to chip design.",
-      "source": "Wired",
-      "published": "2026-08-05T16:00:00+00:00",
-      "link": "https://www.wired.com/story/jeff-dean-google-discovery-loop-startup/"
     }
   ]
 };
