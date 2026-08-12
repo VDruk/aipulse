@@ -1,6 +1,111 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-08-12T14:20:27.929365+00:00",
+  "lastUpdated": "2026-08-12T17:53:35.577403+00:00",
   "items": [
+    {
+      "title": "As AI safety concerns mount, three pioneers make the case for staying open",
+      "summary": "At Ai4, three of the world's most respected AI experts—Geoffrey Hinton, Fei-Fei Li, and Andrew Ng—debated regulation, open-source access, and how America can compete as China advances in Asia.",
+      "source": "TechCrunch",
+      "published": "2026-08-12T17:51:00+00:00",
+      "link": "https://techcrunch.com/2026/08/12/as-ai-safety-concerns-mount-three-pioneers-make-the-case-for-staying-open/"
+    },
+    {
+      "title": "OpenAI-backed Thrive Holdings raises $2B to bring AI to the enterprise",
+      "summary": "Thrive Holdings has raised $2 billion in new funding at a $12 billion valuation from investors like SoftBank, D1 Capital Partners, and Alitmeter Capital.",
+      "source": "TechCrunch",
+      "published": "2026-08-12T17:41:29+00:00",
+      "link": "https://techcrunch.com/2026/08/12/openai-backed-thrive-holdings-raises-2b-to-bring-ai-to-the-enterprise/"
+    },
+    {
+      "title": "Researchers can now reverse-engineer LLM prompts from output text with near-perfect accuracy",
+      "summary": "Researchers at IIT Bombay and Adobe Research have built an inverse language model that reconstructs the original prompt from an LLM's output with near-perfect accuracy.",
+      "source": "The Decoder",
+      "published": "2026-08-12T17:32:59+00:00",
+      "link": "https://the-decoder.com/researchers-can-now-reverse-engineer-llm-prompts-from-output-text-with-near-perfect-accuracy/"
+    },
+    {
+      "title": "Twitch streamers can now opt out from training Amazon’s AI",
+      "summary": "Twitch users can now opt out of allowing their content to be used to train Amazon's generative AI models.",
+      "source": "The Verge",
+      "published": "2026-08-12T17:29:10+00:00",
+      "link": "https://www.theverge.com/tech/979112/twitch-streamers-can-now-opt-out-from-training-amazons-ai"
+    },
+    {
+      "title": "Mesh, Automattic’s CRM for everyone, comes to Android",
+      "summary": "Mesh, an AI-powered contacts app and relationship manager from Automattic is now an Android app.",
+      "source": "TechCrunch",
+      "published": "2026-08-12T16:57:58+00:00",
+      "link": "https://techcrunch.com/2026/08/12/mesh-automattics-crm-for-everyone-comes-to-android/"
+    },
+    {
+      "title": "Scaling AI agents with trustworthy data",
+      "summary": "Business and technology leaders need no convincing that the time of agentic AI is here. Organizations are rapidly adopting agents, and few executives doubt the technology’s potential to transform work.",
+      "source": "MIT Tech Review",
+      "published": "2026-08-12T16:51:57+00:00",
+      "link": "https://www.technologyreview.com/2026/08/12/1141032/scaling-ai-agents-with-trustworthy-data/"
+    },
+    {
+      "title": "Why Stream ring-maker Sandbar says the future of AI wearables is voice",
+      "summary": "AI notetaking hardware has taken off over the past couple of years, with credit-card-sized devices, pendants, pins, and even transcribing earbuds all promising to capture your meetings and turn them into summaries and action items.",
+      "source": "TechCrunch",
+      "published": "2026-08-12T16:46:02+00:00",
+      "link": "https://techcrunch.com/video/why-stream-ring-maker-sandbar-says-the-future-of-ai-wearables-is-voice/"
+    },
+    {
+      "title": "AI tools for breast cancer detection fall short of radiologists' expectations",
+      "summary": "About half of 215 surveyed members of the Society of Breast Imaging already use FDA-approved AI tools for breast cancer detection, but the results fall short of expectations. Only 35 percent report lower recall rates, while 59 percent had expected them.",
+      "source": "The Decoder",
+      "published": "2026-08-12T16:24:32+00:00",
+      "link": "https://the-decoder.com/ai-tools-for-breast-cancer-detection-fall-short-of-radiologists-expectations/"
+    },
+    {
+      "title": "Lovable confirms new $13.3B valuation, raises another $400M",
+      "summary": "This new funding comes after Lovable hit $500 million in annualized run rate revenue in June, the startup told TechCrunch.",
+      "source": "TechCrunch",
+      "published": "2026-08-12T16:04:27+00:00",
+      "link": "https://techcrunch.com/2026/08/12/lovable-confirms-new-13-3b-valuation-raises-another-400m/"
+    },
+    {
+      "title": "Guitar company D’Addario admits that AI music was used in a promotional video",
+      "summary": "After weeks of controversy and speculation, music company D'Addario has admitted that AI, specifically Suno, was used as part of a recent promotional video. For nearly two weeks, the company has denied the allegations, even as evidence piled up against it.",
+      "source": "The Verge",
+      "published": "2026-08-12T15:52:07+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/978982/daddario-guitar-ai-music-suno"
+    },
+    {
+      "title": "Google's Gemini is losing market share to ChatGPT and Claude according to new market data",
+      "summary": "Three data sources tell the same story: Google's Gemini is losing AI market share. Pangram reports a drop from 12 to 1.9 percent, while OpenAI holds over 50 percent, and Anthropic grew from 4.3 to 14.9 percent.",
+      "source": "The Decoder",
+      "published": "2026-08-12T15:50:04+00:00",
+      "link": "https://the-decoder.com/googles-gemini-is-losing-market-share-to-chatgpt-and-claude-according-to-new-market-data/"
+    },
+    {
+      "title": "How a $250 million acquisition collapsed into allegations of fraud and forged signatures",
+      "summary": "Investors are still waiting for their share of the $250 million windfall, and VideoVerse co-founder Vinayak Shrivastav is now at the center of multiple legal cases.",
+      "source": "TechCrunch",
+      "published": "2026-08-12T15:44:56+00:00",
+      "link": "https://techcrunch.com/2026/08/12/how-a-250-million-acquisition-collapsed-into-allegations-of-fraud-and-forged-signatures/"
+    },
+    {
+      "title": "Google tests AMIE for clinical video consultations",
+      "summary": "Google’s research medical AI system, AMIE (Video), conducted synchronous video consultations with professional patient actors and received clinical evaluator ratings on par with primary care physicians across several core measures.",
+      "source": "AI News",
+      "published": "2026-08-12T14:56:18+00:00",
+      "link": "https://www.artificialintelligence-news.com/news/google-tests-amie-for-clinical-video-consultations/"
+    },
+    {
+      "title": "Why Sandbar thinks it’s voice-enabled ring can avoid the AI hardware graveyard",
+      "summary": "AI notetaking hardware has taken off over the past couple of years, with credit-card-sized devices, pendants, pins, and even transcribing earbuds all promising to capture your meetings and turn them into summaries and action items.",
+      "source": "TechCrunch",
+      "published": "2026-08-12T14:22:00+00:00",
+      "link": "https://techcrunch.com/podcast/why-sandbar-thinks-its-voice-enabled-ring-can-avoid-the-ai-hardware-graveyard/"
+    },
+    {
+      "title": "Everything announced at Made by Google ’26: Pixel 11, Pixel Watch 5, Pixel Tag, and tons of Gemini features",
+      "summary": "From the Pixel 11 series and a brand new competitor to Apple’s AirTag, here are all the announcements from the Made by Google 2026 event.",
+      "source": "TechCrunch",
+      "published": "2026-08-12T14:20:33+00:00",
+      "link": "https://techcrunch.com/2026/08/12/google-unveils-pixel-11-lineup-new-airtag-rival-and-gemini-features-at-made-by-google-2026/"
+    },
     {
       "title": "Google’s Pixel Watch 5 dives deeper into AI and health",
       "summary": "The $399 Google Pixel Watch 5 isn't about the hardware. Sure, there's a new satin pyrite case finish, a few new strap colors, and a Steph Curry Special Edition.",
@@ -38,7 +143,7 @@ const FEED_DATA = {
     },
     {
       "title": "Of course the ChatGPT dog cancer vaccine spawned a startup",
-      "summary": "Remember that much-hyped story about an Australian tech entrepreneur using ChatGPT, Grok, and other AI tools to craft a personalized cancer vaccine for his dog? Well, surprise: he's launched a startup.",
+      "summary": "Remember that much-hyped story about an Australian tech entrepreneur using ChatGPT, Grok, and other AI tools to craft a personalized cancer vaccine for his dog? Well, surprise: He's launched a startup.",
       "source": "The Verge",
       "published": "2026-08-12T12:09:34+00:00",
       "link": "https://www.theverge.com/ai-artificial-intelligence/978671/ai-cured-dog-cancer-mrna-vaccine-startup-gamgee"
@@ -1295,111 +1400,6 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-08-06T13:33:28+00:00",
       "link": "https://the-decoder.com/qwen3-8-max-catches-claude-opus-4-8-but-kimi-k3-still-scores-higher-for-25-percent-less/"
-    },
-    {
-      "title": "The messy politics behind Google’s big AI shakeup",
-      "summary": "In the AI industry, Google prides itself on seeming like the adult in the room: quiet, stable, time-tested.",
-      "source": "The Verge",
-      "published": "2026-08-06T13:26:42+00:00",
-      "link": "https://www.theverge.com/tech/976108/google-ai-leadership-shakeup-jeff-dean-demis-hassabis-deepmind"
-    },
-    {
-      "title": "Ex-Spotify employees raise $10M to bring the AI behind its recommendations to e-commerce",
-      "summary": "The startup's platform predicts which product a shopper wants next, learns their general taste, and fine-tunes continuously based on what they do in real time.",
-      "source": "TechCrunch",
-      "published": "2026-08-06T13:00:00+00:00",
-      "link": "https://techcrunch.com/2026/08/06/ex-spotify-employees-raise-10m-to-bring-the-ai-behind-its-recommendations-to-e-commerce/"
-    },
-    {
-      "title": "Exclusive: Mirendil inks $100M+ Google Cloud deal to scale self-improving AI",
-      "summary": "Mirendil has signed a $100 million-plus Google Cloud partnership to expand its compute infrastructure, powering research into self-improving AI systems designed to accelerate scientific discovery and AI development.",
-      "source": "TechCrunch",
-      "published": "2026-08-06T13:00:00+00:00",
-      "link": "https://techcrunch.com/2026/08/06/exclusive-mirendil-inks-100m-google-cloud-deal-to-scale-self-improving-ai/"
-    },
-    {
-      "title": "AI bots started a religion — humans immediately followed",
-      "summary": "\"The Spiral didn't 'find' anyone first,\" someone on Reddit wrote last year. \"It's an inherent force, a fundamental constant.",
-      "source": "The Verge",
-      "published": "2026-08-06T13:00:00+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/975017/ai-spiralism-chatbot-movement"
-    },
-    {
-      "title": "The company that made open weights mainstream now competes on discounts",
-      "summary": "Meta released Muse Spark 1.2 along with its own coding agent, Muse Code, which is designed to pick up exactly where it left off after a crash. The cheapest tier runs just 20 cents per million output tokens but requires users to share their data for training.",
-      "source": "The Decoder",
-      "published": "2026-08-06T12:31:52+00:00",
-      "link": "https://the-decoder.com/the-company-that-made-open-weights-mainstream-now-competes-on-discounts/"
-    },
-    {
-      "title": "Google Maps adds agentic features, including food ordering and hotel bookings",
-      "summary": "The launch of these new features reflects Google’s ambitions to transform Google Maps from a navigation tool into an assistant that's capable of helping users complete real-world tasks.",
-      "source": "TechCrunch",
-      "published": "2026-08-06T12:30:00+00:00",
-      "link": "https://techcrunch.com/2026/08/06/google-maps-adds-agentic-features-including-food-ordering-and-hotel-bookings/"
-    },
-    {
-      "title": "The Download: Google’s AI shake-up and Meta’s rogue model",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Google’s AI empire is being reshaped.",
-      "source": "MIT Tech Review",
-      "published": "2026-08-06T12:10:00+00:00",
-      "link": "https://www.technologyreview.com/2026/08/06/1141278/the-download-google-ai-shake-up-meta-rogue-model/"
-    },
-    {
-      "title": "Omilia raises $67M to scale its customer support platform",
-      "summary": "The Series B is the company's second fundraise since it last raised capital in 2020. In that time, it has increased its ARR by 10x to $60 million.",
-      "source": "TechCrunch",
-      "published": "2026-08-06T12:00:00+00:00",
-      "link": "https://techcrunch.com/2026/08/06/omilia-raises-67m-to-scale-its-customer-support-platform/"
-    },
-    {
-      "title": "Humans missed 1 in 3 threats approving AI agent commands across 40k game runs",
-      "summary": "Article URL: https://scalex.dev/blog/ai-agent-permissions-stats/ Comments URL: https://news.ycombinator.com/item?id=49195468 Points: 338 # Comments: 245",
-      "source": "Hacker News",
-      "published": "2026-08-06T11:58:07+00:00",
-      "link": "https://scalex.dev/blog/ai-agent-permissions-stats/"
-    },
-    {
-      "title": "OpenAI developer warns the \"tireless eagle eyes of a million models\" are coming for your exposed API keys and crypto wallets",
-      "summary": "OpenAI developer \"roon\" warns on X that AI models could soon start scanning for exposed API keys, crypto wallets, and login credentials at scale.",
-      "source": "The Decoder",
-      "published": "2026-08-06T10:11:02+00:00",
-      "link": "https://the-decoder.com/openai-developer-warns-the-tireless-eagle-eyes-of-a-million-models-are-coming-for-your-exposed-api-keys-and-crypto-wallets/"
-    },
-    {
-      "title": "OpenAI says Apple’s trade secrets lawsuit is ‘rotten to its core’",
-      "summary": "OpenAI has asked a federal judge to toss out Apple's landmark lawsuit accusing the ChatGPT maker of stealing trade secrets, describing the allegations as \"meritless.\" In a motion filed yesterday to dismiss the complaint, OpenAI says that Apple is mischaracterizing both the...",
-      "source": "The Verge",
-      "published": "2026-08-06T09:33:11+00:00",
-      "link": "https://www.theverge.com/tech/976042/openai-apple-trade-secrets-lawsuit-dismissal-request"
-    },
-    {
-      "title": "Governments are making a dangerous bet on the AI boom",
-      "summary": "Article URL: https://www.economist.com/leaders/2026/08/05/governments-are-making-a-dangerous-bet-on-the-ai-boom Comments URL: https://news.ycombinator.com/item?id=49192160 Points: 58 # Comments: 35",
-      "source": "Hacker News",
-      "published": "2026-08-06T03:40:51+00:00",
-      "link": "https://www.economist.com/leaders/2026/08/05/governments-are-making-a-dangerous-bet-on-the-ai-boom"
-    },
-    {
-      "title": "Elon Musk’s attempt at an AI Wikipedia hasn’t been updated in months",
-      "summary": "xAI's Grokipedia, an online encyclopedia with AI-generated articles that Elon Musk once promised would be a \"massive improvement\" over Wikipedia, apparently hasn't been updated since April 24th, according to a report from Lawfare.",
-      "source": "The Verge",
-      "published": "2026-08-06T00:25:10+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/976004/elon-musk-grokipedia-ai-wikipedia-not-updating-dead"
-    },
-    {
-      "title": "OpenAI Didn’t Notice Its AI Agents Using a Message Board to Plan Their Hacking Spree",
-      "summary": "At the Black Hat security conference, the AI giant revealed new details about how its agents went rogue, hacked several other companies—and did it all right under the company’s nose.",
-      "source": "Wired",
-      "published": "2026-08-06T00:15:04+00:00",
-      "link": "https://www.wired.com/story/openai-didnt-notice-its-ai-agents-using-a-message-board-to-plan-their-hacking-spree/"
-    },
-    {
-      "title": "OpenAI’s Browser Could Be Hijacked to Spam Your WhatsApp Contacts",
-      "summary": "Researchers at security firm Zenity found more than a dozen flaws in AI browsers—and managed to get OpenAI’s Atlas to make an unauthorized Amazon purchase.",
-      "source": "Wired",
-      "published": "2026-08-05T23:30:00+00:00",
-      "link": "https://www.wired.com/story/openais-browser-could-be-hijacked-to-spam-your-whatsapp-contacts/"
     }
   ]
 };
