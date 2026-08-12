@@ -1,16 +1,51 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-08-12T17:53:35.577403+00:00",
+  "lastUpdated": "2026-08-12T21:36:28.494661+00:00",
   "items": [
     {
+      "title": "The White House Is Going to Expand Its AI Policy",
+      "summary": "Open models may soon be added to an updated AI framework, sources tell WIRED, as the White House continues to grapple with how to regulate a technology it has tried not to regulate.",
+      "source": "Wired",
+      "published": "2026-08-12T21:00:00+00:00",
+      "link": "https://www.wired.com/story/the-white-house-is-going-to-expand-its-ai-policy/"
+    },
+    {
+      "title": "Amazon will train on Twitch streamers’ content by default, unless they opt out",
+      "summary": "\"If this was opt-in, nobody would opt in,\" Twitch CPO Mike Minton said on a livestream responding to user feedback. \"That's honestly the answer.\"",
+      "source": "TechCrunch",
+      "published": "2026-08-12T20:10:40+00:00",
+      "link": "https://techcrunch.com/2026/08/12/amazon-will-train-on-twitch-streamers-content-by-default-unless-they-opt-out/"
+    },
+    {
+      "title": "Rogue AI Agents Aren’t Evil. They’re Just Eager to Please",
+      "summary": "AI agents that break free and hack into other systems are only trying to make us happy.",
+      "source": "Wired",
+      "published": "2026-08-12T18:45:00+00:00",
+      "link": "https://www.wired.com/story/rogue-ai-is-just-misunderstood/"
+    },
+    {
+      "title": "SpaceXAI's Grok 4.6 matches OpenAI's best model and undercuts it on price",
+      "summary": "xAI's Grok 4.6 scores 61 points on the Artificial Analysis Intelligence Index, tying GPT-5.6 Sol and trailing only Anthropic's Claude Opus 5. On agentic tasks, it completes complex workflows in about 53 steps where Claude Opus 5 needs 103, at a price more than 60 percent lower.",
+      "source": "The Decoder",
+      "published": "2026-08-12T18:33:21+00:00",
+      "link": "https://the-decoder.com/spacexais-grok-4-6-matches-openais-best-model-and-undercuts-it-on-price/"
+    },
+    {
+      "title": "AI coding startup Cognition reportedly already in talks to raise at $40B valuation",
+      "summary": "Cognition may be looking to raise another mega round just a few months after raising $1 billion at a $26 billion valuation.",
+      "source": "TechCrunch",
+      "published": "2026-08-12T18:19:12+00:00",
+      "link": "https://techcrunch.com/2026/08/12/ai-coding-startup-cognition-reportedly-already-in-talks-to-raise-at-40b-valuation/"
+    },
+    {
       "title": "As AI safety concerns mount, three pioneers make the case for staying open",
-      "summary": "At Ai4, three of the world's most respected AI experts—Geoffrey Hinton, Fei-Fei Li, and Andrew Ng—debated regulation, open-source access, and how America can compete as China advances in Asia.",
+      "summary": "At Ai4, three of the world's most respected AI experts — Geoffrey Hinton, Fei-Fei Li, and Andrew Ng — debated regulation, open source access, and how America can compete as China advances in Asia.",
       "source": "TechCrunch",
       "published": "2026-08-12T17:51:00+00:00",
       "link": "https://techcrunch.com/2026/08/12/as-ai-safety-concerns-mount-three-pioneers-make-the-case-for-staying-open/"
     },
     {
       "title": "OpenAI-backed Thrive Holdings raises $2B to bring AI to the enterprise",
-      "summary": "Thrive Holdings has raised $2 billion in new funding at a $12 billion valuation from investors like SoftBank, D1 Capital Partners, and Alitmeter Capital.",
+      "summary": "Thrive Holdings has raised $2 billion in new funding at a $12 billion valuation from investors like SoftBank, D1 Capital Partners, and Altimeter Capital.",
       "source": "TechCrunch",
       "published": "2026-08-12T17:41:29+00:00",
       "link": "https://techcrunch.com/2026/08/12/openai-backed-thrive-holdings-raises-2b-to-bring-ai-to-the-enterprise/"
@@ -31,10 +66,17 @@ const FEED_DATA = {
     },
     {
       "title": "Mesh, Automattic’s CRM for everyone, comes to Android",
-      "summary": "Mesh, an AI-powered contacts app and relationship manager from Automattic is now an Android app.",
+      "summary": "Mesh, an AI-powered contacts app and relationship manager from Automattic, is now an Android app.",
       "source": "TechCrunch",
       "published": "2026-08-12T16:57:58+00:00",
       "link": "https://techcrunch.com/2026/08/12/mesh-automattics-crm-for-everyone-comes-to-android/"
+    },
+    {
+      "title": "Grok 4.6 scores 61 on the Artificial Analysis Intelligence Index",
+      "summary": "Article URL: https://artificialanalysis.ai/articles/grok-4-6-benchmarks-and-analysis Comments URL: https://news.ycombinator.com/item?id=49275385 Points: 265 # Comments: 258",
+      "source": "Hacker News",
+      "published": "2026-08-12T16:54:25+00:00",
+      "link": "https://artificialanalysis.ai/articles/grok-4-6-benchmarks-and-analysis"
     },
     {
       "title": "Scaling AI agents with trustworthy data",
@@ -107,6 +149,20 @@ const FEED_DATA = {
       "link": "https://techcrunch.com/2026/08/12/google-unveils-pixel-11-lineup-new-airtag-rival-and-gemini-features-at-made-by-google-2026/"
     },
     {
+      "title": "German advocacy group lodges criminal complaint over Meta AI glasses",
+      "summary": "Article URL: https://www.reuters.com/legal/government/german-advocacy-group-lodges-criminal-complaint-over-meta-ai-glasses-2026-08-12/ Comments URL: https://news.ycombinator.com/item?id=49272620 Points: 96 # Comments: 42",
+      "source": "Hacker News",
+      "published": "2026-08-12T14:06:03+00:00",
+      "link": "https://www.reuters.com/legal/government/german-advocacy-group-lodges-criminal-complaint-over-meta-ai-glasses-2026-08-12/"
+    },
+    {
+      "title": "Someone is running mass vulnerability scans, spoofing AI bots like ClaudeBot",
+      "summary": "Article URL: https://knownagents.com/insights Comments URL: https://news.ycombinator.com/item?id=49272569 Points: 195 # Comments: 126",
+      "source": "Hacker News",
+      "published": "2026-08-12T14:02:46+00:00",
+      "link": "https://knownagents.com/insights"
+    },
+    {
       "title": "Google’s Pixel Watch 5 dives deeper into AI and health",
       "summary": "The $399 Google Pixel Watch 5 isn't about the hardware. Sure, there's a new satin pyrite case finish, a few new strap colors, and a Steph Curry Special Edition.",
       "source": "The Verge",
@@ -126,6 +182,13 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-08-12T13:51:18+00:00",
       "link": "https://the-decoder.com/legal-startup-founder-robert-mahari-joins-anthropic-to-lead-claudes-push-into-law-practices/"
+    },
+    {
+      "title": "AI is removing the middle class of software engineering?",
+      "summary": "Article URL: https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html Comments URL: https://news.ycombinator.com/item?id=49271994 Points: 626 # Comments: 512",
+      "source": "Hacker News",
+      "published": "2026-08-12T13:20:05+00:00",
+      "link": "https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html"
     },
     {
       "title": "Nvidia's Nemotron 4 aims for one trillion parameters, a scale Chinese labs already surpassed",
@@ -198,8 +261,15 @@ const FEED_DATA = {
       "link": "https://www.wired.com/story/youre-thinking-about-online-trends-all-wrong/"
     },
     {
+      "title": "Launch HN: Discovered Materials (YC P26) – AI agents to discover new materials",
+      "summary": "Hey HN, we're Advaith and Akash from Discovered Materials ( https://discoveredmaterials.com/ ). We build AI agents that discover new materials for the semiconductor industry.GPUs today have a heat problem.",
+      "source": "Hacker News",
+      "published": "2026-08-12T07:51:20+00:00",
+      "link": "https://discoveredmaterials.com/research/"
+    },
+    {
       "title": "Company Offering '100% Human-Written, Never AI' Medical Research Is 100% AI",
-      "summary": "Article URL: https://www.404media.co/company-offering-100-human-written-never-ai-peer-review-is-entirely-ai/ Comments URL: https://news.ycombinator.com/item?id=49267057 Points: 177 # Comments: 39",
+      "summary": "Article URL: https://www.404media.co/company-offering-100-human-written-never-ai-peer-review-is-entirely-ai/ Comments URL: https://news.ycombinator.com/item?id=49267057 Points: 191 # Comments: 46",
       "source": "Hacker News",
       "published": "2026-08-12T02:05:42+00:00",
       "link": "https://www.404media.co/company-offering-100-human-written-never-ai-peer-review-is-entirely-ai/"
@@ -220,7 +290,7 @@ const FEED_DATA = {
     },
     {
       "title": "Suzanne: AI tool for designing and manufacturing physical products",
-      "summary": "Article URL: https://www.suzanne3d.com/ Comments URL: https://news.ycombinator.com/item?id=49264755 Points: 50 # Comments: 32",
+      "summary": "Article URL: https://www.suzanne3d.com/ Comments URL: https://news.ycombinator.com/item?id=49264755 Points: 51 # Comments: 33",
       "source": "Hacker News",
       "published": "2026-08-11T21:28:26+00:00",
       "link": "https://www.suzanne3d.com/"
@@ -297,7 +367,7 @@ const FEED_DATA = {
     },
     {
       "title": "Go is an ideal language for AI-assisted software engineering",
-      "summary": "Article URL: https://developers.googleblog.com/why-go-is-an-ideal-language-for-ai-assisted-software-engineering/ Comments URL: https://news.ycombinator.com/item?id=49261133 Points: 382 # Comments: 429",
+      "summary": "Article URL: https://developers.googleblog.com/why-go-is-an-ideal-language-for-ai-assisted-software-engineering/ Comments URL: https://news.ycombinator.com/item?id=49261133 Points: 421 # Comments: 497",
       "source": "Hacker News",
       "published": "2026-08-11T16:57:09+00:00",
       "link": "https://developers.googleblog.com/why-go-is-an-ideal-language-for-ai-assisted-software-engineering/"
@@ -318,7 +388,7 @@ const FEED_DATA = {
     },
     {
       "title": "Apple Silicon and macOS VMs: Faster LLM Inference with llama.cpp",
-      "summary": "Article URL: https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md Comments URL: https://news.ycombinator.com/item?id=49259339 Points: 292 # Comments: 43",
+      "summary": "Article URL: https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md Comments URL: https://news.ycombinator.com/item?id=49259339 Points: 301 # Comments: 43",
       "source": "Hacker News",
       "published": "2026-08-11T14:50:33+00:00",
       "link": "https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md"
@@ -346,7 +416,7 @@ const FEED_DATA = {
     },
     {
       "title": "Stealing Reasoning Traces from Proprietary LLM APIs",
-      "summary": "Article URL: https://stolen-thoughts.com/ Comments URL: https://news.ycombinator.com/item?id=49257876 Points: 621 # Comments: 280",
+      "summary": "Article URL: https://stolen-thoughts.com/ Comments URL: https://news.ycombinator.com/item?id=49257876 Points: 680 # Comments: 299",
       "source": "Hacker News",
       "published": "2026-08-11T13:22:00+00:00",
       "link": "https://stolen-thoughts.com/"
@@ -486,7 +556,7 @@ const FEED_DATA = {
     },
     {
       "title": "As AI eats the web, the internet’s collective memory is disappearing",
-      "summary": "Article URL: https://thewalrus.ca/google-search-is-dying/ Comments URL: https://news.ycombinator.com/item?id=49250836 Points: 901 # Comments: 909",
+      "summary": "Article URL: https://thewalrus.ca/google-search-is-dying/ Comments URL: https://news.ycombinator.com/item?id=49250836 Points: 922 # Comments: 961",
       "source": "Hacker News",
       "published": "2026-08-10T22:36:30+00:00",
       "link": "https://thewalrus.ca/google-search-is-dying/"
@@ -500,7 +570,7 @@ const FEED_DATA = {
     },
     {
       "title": "How Claude marks AI-generated content",
-      "summary": "Article URL: https://support.claude.com/en/articles/16266773-how-claude-marks-ai-generated-content Comments URL: https://news.ycombinator.com/item?id=49250109 Points: 433 # Comments: 396",
+      "summary": "Article URL: https://support.claude.com/en/articles/16266773-how-claude-marks-ai-generated-content Comments URL: https://news.ycombinator.com/item?id=49250109 Points: 442 # Comments: 404",
       "source": "Hacker News",
       "published": "2026-08-10T21:36:56+00:00",
       "link": "https://support.claude.com/en/articles/16266773-how-claude-marks-ai-generated-content"
@@ -549,7 +619,7 @@ const FEED_DATA = {
     },
     {
       "title": "GPT 5.6 Cyber",
-      "summary": "Article URL: https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows/ Comments URL: https://news.ycombinator.com/item?id=49246704 Points: 129 # Comments: 70",
+      "summary": "Article URL: https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows/ Comments URL: https://news.ycombinator.com/item?id=49246704 Points: 130 # Comments: 70",
       "source": "Hacker News",
       "published": "2026-08-10T17:14:00+00:00",
       "link": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows/"
@@ -577,14 +647,14 @@ const FEED_DATA = {
     },
     {
       "title": "Kinney Drugs pulls back AI phone assistant after hundreds of customer complaints",
-      "summary": "Article URL: https://www.wcax.com/2026/08/07/kinney-drugs-pulls-back-ai-phone-assistant-after-hundreds-customer-complaints/ Comments URL: https://news.ycombinator.com/item?id=49244569 Points: 153 # Comments: 171",
+      "summary": "Article URL: https://www.wcax.com/2026/08/07/kinney-drugs-pulls-back-ai-phone-assistant-after-hundreds-customer-complaints/ Comments URL: https://news.ycombinator.com/item?id=49244569 Points: 153 # Comments: 174",
       "source": "Hacker News",
       "published": "2026-08-10T14:56:32+00:00",
       "link": "https://www.wcax.com/2026/08/07/kinney-drugs-pulls-back-ai-phone-assistant-after-hundreds-customer-complaints/"
     },
     {
       "title": "Letter to Governor Abbott on responsible AI infrastructure in Texas",
-      "summary": "Article URL: https://openai.com/index/responsible-ai-infrastructure-texas/ Comments URL: https://news.ycombinator.com/item?id=49244308 Points: 124 # Comments: 229",
+      "summary": "Article URL: https://openai.com/index/responsible-ai-infrastructure-texas/ Comments URL: https://news.ycombinator.com/item?id=49244308 Points: 124 # Comments: 231",
       "source": "Hacker News",
       "published": "2026-08-10T14:38:20+00:00",
       "link": "https://openai.com/index/responsible-ai-infrastructure-texas/"
@@ -605,7 +675,7 @@ const FEED_DATA = {
     },
     {
       "title": "Mark Zuckerberg attacks 'closed' AI rivals as Meta returns to open models",
-      "summary": "https://archive.is/20LOJhttps://www.meta.com/thefutureisforeveryone/ Comments URL: https://news.ycombinator.com/item?id=49243880 Points: 634 # Comments: 598",
+      "summary": "https://archive.is/20LOJhttps://www.meta.com/thefutureisforeveryone/ Comments URL: https://news.ycombinator.com/item?id=49243880 Points: 638 # Comments: 598",
       "source": "Hacker News",
       "published": "2026-08-10T14:06:22+00:00",
       "link": "https://www.ft.com/content/4e3957f8-ea7c-4c46-a3de-cdce8e526878"
@@ -633,7 +703,7 @@ const FEED_DATA = {
     },
     {
       "title": "Humanising LLM Outputs Is Dumb",
-      "summary": "Article URL: https://kuber.studio/blog/Reflections/Humanising-LLM-Outputs-is-Actually-Dumb Comments URL: https://news.ycombinator.com/item?id=49243474 Points: 228 # Comments: 171",
+      "summary": "Article URL: https://kuber.studio/blog/Reflections/Humanising-LLM-Outputs-is-Actually-Dumb Comments URL: https://news.ycombinator.com/item?id=49243474 Points: 228 # Comments: 174",
       "source": "Hacker News",
       "published": "2026-08-10T13:35:40+00:00",
       "link": "https://kuber.studio/blog/Reflections/Humanising-LLM-Outputs-is-Actually-Dumb"
@@ -1330,76 +1400,6 @@ const FEED_DATA = {
       "source": "Hacker News",
       "published": "2026-08-06T17:02:04+00:00",
       "link": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt/"
-    },
-    {
-      "title": "Naïve raises $28.5M to automate the grunt work of setting up and running a company",
-      "summary": "Taking vibe-coding a step further, Naïve claims its infra can automate most of the work in setting up and running a business.",
-      "source": "TechCrunch",
-      "published": "2026-08-06T17:00:37+00:00",
-      "link": "https://techcrunch.com/2026/08/06/naive-raises-28-5m-to-automate-the-grunt-work-of-setting-up-and-running-a-company/"
-    },
-    {
-      "title": "OpenAI is giving ChatGPT free users unlimited text chats",
-      "summary": "OpenAI is making a big change for ChatGPT users on its free and Go tiers: Starting next week, users on those tiers will be able to have unlimited text chats with the chatbot, according to OpenAI.",
-      "source": "The Verge",
-      "published": "2026-08-06T17:00:00+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/976239/openai-chatgpt-free-go-text-chats"
-    },
-    {
-      "title": "Claude Code is the fastest agent framework but costs nearly three times more than the cheapest rival",
-      "summary": "Composio tested Deepseek V4 Flash across four agent frameworks on 30 real-world tasks.",
-      "source": "The Decoder",
-      "published": "2026-08-06T16:33:59+00:00",
-      "link": "https://the-decoder.com/claude-code-is-the-fastest-agent-framework-but-costs-nearly-three-times-more-than-the-cheapest-rival/"
-    },
-    {
-      "title": "DeepMind Says Its AI Can Predict Hurricanes Earlier Than Everyone Else",
-      "summary": "Its WeatherNext model, which will be open-sourced, can accurately predict a storm’s track and intensity using lower-resolution weather data. Researchers don’t yet fully understand how it does this.",
-      "source": "Wired",
-      "published": "2026-08-06T16:23:04+00:00",
-      "link": "https://www.wired.com/story/deepmind-ai-model-can-predict-hurricanes-earlier/"
-    },
-    {
-      "title": "Why health AI interfaces must adapt to user expertise",
-      "summary": "MIT researchers and collaborators found that AI explainability tools in the health sector can produce sharply different results depending on who uses them.",
-      "source": "AI News",
-      "published": "2026-08-06T15:55:37+00:00",
-      "link": "https://www.artificialintelligence-news.com/news/why-health-ai-interfaces-must-adapt-to-user-expertise/"
-    },
-    {
-      "title": "Gen Z dating apps like Ditto ditch swiping in favor of AI matchmaking",
-      "summary": "This generation of twentysomethings is so disillusioned with swipe-based dating apps that they'll try literally anything else — even an AI matchmaker.",
-      "source": "TechCrunch",
-      "published": "2026-08-06T15:53:03+00:00",
-      "link": "https://techcrunch.com/2026/08/06/gen-z-dating-apps-like-ditto-ditch-swiping-in-favor-of-ai-matchmaking/"
-    },
-    {
-      "title": "Software development with AI is starting to feel like cooking steak",
-      "summary": "Article URL: https://blog.sydorets.com/en/posts/almost-no-skill-required-to-cook-a-steak/ Comments URL: https://news.ycombinator.com/item?id=49198069 Points: 416 # Comments: 418",
-      "source": "Hacker News",
-      "published": "2026-08-06T15:30:48+00:00",
-      "link": "https://blog.sydorets.com/en/posts/almost-no-skill-required-to-cook-a-steak/"
-    },
-    {
-      "title": "OpenAI says Apple’s own security practices undermine its trade secrets case",
-      "summary": "Newly filed court exhibits show OpenAI’s legal strategy in Apple’s trade secrets lawsuit: argue that Apple’s own security and offboarding practices — including allowing an Apple manager to access a former engineer’s iCloud account after he left the company —undermine its claims...",
-      "source": "TechCrunch",
-      "published": "2026-08-06T15:10:32+00:00",
-      "link": "https://techcrunch.com/2026/08/06/openai-says-apples-own-security-practices-undermine-its-trade-secrets-case/"
-    },
-    {
-      "title": "The left and right agree on one thing: no data centers",
-      "summary": "Today, I’m talking with Gaby Del Valle, a policy reporter here at The Verge, about the growing backlash against AI data centers.",
-      "source": "The Verge",
-      "published": "2026-08-06T14:00:00+00:00",
-      "link": "https://www.theverge.com/podcast/971855/ai-data-center-backlash-protests-florida-bipartisan"
-    },
-    {
-      "title": "Qwen3.8 Max catches Claude Opus 4.8 but Kimi K3 still scores higher for 25 percent less",
-      "summary": "Alibaba's Qwen3.8 Max scores 56 on the Artificial Analysis Intelligence Index, a 10-point jump over Qwen3.7 Max (46). The article Qwen3.8 Max catches Claude Opus 4.8 but Kimi K3 still scores higher for 25 percent less appeared first on The Decoder.",
-      "source": "The Decoder",
-      "published": "2026-08-06T13:33:28+00:00",
-      "link": "https://the-decoder.com/qwen3-8-max-catches-claude-opus-4-8-but-kimi-k3-still-scores-higher-for-25-percent-less/"
     }
   ]
 };
