@@ -1,6 +1,90 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-08-12T09:51:01.169389+00:00",
+  "lastUpdated": "2026-08-12T14:20:27.929365+00:00",
   "items": [
+    {
+      "title": "Google’s Pixel Watch 5 dives deeper into AI and health",
+      "summary": "The $399 Google Pixel Watch 5 isn't about the hardware. Sure, there's a new satin pyrite case finish, a few new strap colors, and a Steph Curry Special Edition.",
+      "source": "The Verge",
+      "published": "2026-08-12T14:00:00+00:00",
+      "link": "https://www.theverge.com/tech/978094/pixel-watch-5-hands-on-made-by-google-gemini-wearables-smartwatch"
+    },
+    {
+      "title": "4 New Camera Tricks on Google’s Latest Pixel 11 Smartphones",
+      "summary": "From Magic Capture and Instant Night Sight to a built-in teleprompter, here’s a look at a few camera features on Google’s new Pixel 11 series.",
+      "source": "Wired",
+      "published": "2026-08-12T14:00:00+00:00",
+      "link": "https://www.wired.com/story/new-camera-tricks-on-google-latest-pixel-11-smartphones/"
+    },
+    {
+      "title": "Legal startup founder Robert Mahari joins Anthropic to lead Claude's push into law practices",
+      "summary": "Robert Mahari is Anthropic's first \"Head of Claude for Legal,\" responsible for deploying and expanding the Claude AI model across the legal industry.",
+      "source": "The Decoder",
+      "published": "2026-08-12T13:51:18+00:00",
+      "link": "https://the-decoder.com/legal-startup-founder-robert-mahari-joins-anthropic-to-lead-claudes-push-into-law-practices/"
+    },
+    {
+      "title": "Nvidia's Nemotron 4 aims for one trillion parameters, a scale Chinese labs already surpassed",
+      "summary": "Nvidia is working on Nemotron 4, a new open-weight model designed to rival the world’s best freely available models. The article Nvidia's Nemotron 4 aims for one trillion parameters, a scale Chinese labs already surpassed appeared first on The Decoder.",
+      "source": "The Decoder",
+      "published": "2026-08-12T12:37:58+00:00",
+      "link": "https://the-decoder.com/nvidias-nemotron-4-aims-for-one-trillion-parameters-a-scale-chinese-labs-already-surpassed/"
+    },
+    {
+      "title": "The Download: our 35 young innovators and the “censorship-industrial complex”",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.",
+      "source": "MIT Tech Review",
+      "published": "2026-08-12T12:10:00+00:00",
+      "link": "https://www.technologyreview.com/2026/08/12/1141714/the-download-innovators-under-35-censorship-industrial-complex/"
+    },
+    {
+      "title": "Of course the ChatGPT dog cancer vaccine spawned a startup",
+      "summary": "Remember that much-hyped story about an Australian tech entrepreneur using ChatGPT, Grok, and other AI tools to craft a personalized cancer vaccine for his dog? Well, surprise: he's launched a startup.",
+      "source": "The Verge",
+      "published": "2026-08-12T12:09:34+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/978671/ai-cured-dog-cancer-mrna-vaccine-startup-gamgee"
+    },
+    {
+      "title": "Grok is now an AI ‘teammate’ you can assign work",
+      "summary": "SpaceXAI has introduced Grok Bot, an always-on AI agent service designed to behave like independent \"AI teammates\" that can do your work for you.",
+      "source": "The Verge",
+      "published": "2026-08-12T11:58:54+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/978666/spacexai-grok-bot-ai-agent-beta-launch"
+    },
+    {
+      "title": "AI code-testing startup Blacksmith’s valuation jumps almost 10x in less than a year",
+      "summary": "Blacksmith says revenue has grown more than tenfold over the past year.",
+      "source": "TechCrunch",
+      "published": "2026-08-12T11:00:00+00:00",
+      "link": "https://techcrunch.com/2026/08/12/blacksmiths-valuation-jumps-10x-to-550m-as-ai-coding-fuels-software-validation/"
+    },
+    {
+      "title": "The Job-Interview Tattoo Guy Everyone Got Mad at Finally Explains Himself",
+      "summary": "LemonLime cofounder Jordan Zietz hears your criticism loud and clear. That’s why he got his startup’s logo tattooed on his shoulder.",
+      "source": "Wired",
+      "published": "2026-08-12T10:45:00+00:00",
+      "link": "https://www.wired.com/story/linkedin-grindset-tattoo-guy-explains-himself/"
+    },
+    {
+      "title": "Oh Lord, AI Reporters Are Actually Breaking Big News",
+      "summary": "Last week, an AI newsroom beat mainstream journalists—including WIRED—to a story about OpenAI and hacking. It’s just the beginning.",
+      "source": "Wired",
+      "published": "2026-08-12T10:30:00+00:00",
+      "link": "https://www.wired.com/story/ai-newsrooms-are-breaking-news-now-haha-im-in-danger/"
+    },
+    {
+      "title": "Microsoft's new MAI Code 1.1 Flash gets crushed by Deepseek on both price and performance",
+      "summary": "Microsoft has released MAI Code 1.1 Flash, a code model for GitHub Copilot that's said to be 25 percent more token-efficient at a quarter of the cost of its predecessor. In benchmarks, though, it gets crushed by the cheaper Deepseek V4 Flash.",
+      "source": "The Decoder",
+      "published": "2026-08-12T10:18:46+00:00",
+      "link": "https://the-decoder.com/microsofts-new-mai-code-1-1-flash-gets-crushed-by-deepseek-on-both-price-and-performance/"
+    },
+    {
+      "title": "Mistral now offers EU data processing and priority access, but both come with important limits",
+      "summary": "Mistral is giving customers the option to route AI requests through servers in either Europe or the US, and selling priority queue access during peak traffic. Both come with a surcharge, and the regional routing doesn't cover all features or data.",
+      "source": "The Decoder",
+      "published": "2026-08-12T09:59:27+00:00",
+      "link": "https://the-decoder.com/mistral-now-offers-eu-data-processing-and-priority-access-but-both-come-with-important-limits/"
+    },
     {
       "title": "You’re Thinking About Online Trends All Wrong",
       "summary": "From pessimism around dating to AI reshaping culture, cyber-ethnographer Ruby J. Thelot tells WIRED why people are putting too much stock into things that go viral.",
@@ -98,6 +182,13 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-08-11T17:38:49+00:00",
       "link": "https://the-decoder.com/but-marinade-and-leaked-passwords-are-what-researchers-found-in-chatgpts-hidden-reasoning/"
+    },
+    {
+      "title": "Made by Google 2026: all the Pixel news and announcements",
+      "summary": "Google has revealed a bunch of new Pixel devices ahead of its Made by Google event. The colorful Pixel 11 lineup comes with upgraded cameras and performance, with the Pro models offering a built-in LED ring that lights up for Google’s Gemini AI and other features.",
+      "source": "The Verge",
+      "published": "2026-08-11T17:00:00+00:00",
+      "link": "https://www.theverge.com/tech/977561/made-by-google-2026-pixel-11-news"
     },
     {
       "title": "Go is an ideal language for AI-assisted software engineering",
@@ -219,18 +310,18 @@ const FEED_DATA = {
       "link": "https://the-decoder.com/anthropic-signs-9-1-billion-data-center-deal-with-bitcoin-miner-riot-platforms/"
     },
     {
-      "title": "The AI takeover of mathematics has begun",
-      "summary": "Mathematician James Maynard has spent a lot of time this past year \"soul searching.\" A professor at the University of Oxford and winner of the prestigious Fields Medal, Maynard told The Verge he's been grappling with the future of his field as the traditionally slow-moving...",
-      "source": "The Verge",
-      "published": "2026-08-11T11:00:00+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/977273/the-ai-takeover-of-mathematics-has-begun"
-    },
-    {
       "title": "A New Trick Reveals AI Models’ Inner Thoughts",
       "summary": "Researchers devised a way to extract “reasoning traces” from Claude, GPT, and Gemini. What they found, they say, indicates that some Chinese AI may be trained on leading US models.",
       "source": "Wired",
       "published": "2026-08-11T11:00:00+00:00",
       "link": "https://www.wired.com/story/a-new-trick-reveals-ai-models-inner-thoughts/"
+    },
+    {
+      "title": "The AI takeover of mathematics has begun",
+      "summary": "Mathematician James Maynard has spent a lot of time this past year \"soul searching.\" A professor at the University of Oxford and winner of the prestigious Fields Medal, Maynard told The Verge he's been grappling with the future of his field as the traditionally slow-moving...",
+      "source": "The Verge",
+      "published": "2026-08-11T11:00:00+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/977273/the-ai-takeover-of-mathematics-has-begun"
     },
     {
       "title": "AI Is Dead. Organoids Are Alive",
@@ -1309,97 +1400,6 @@ const FEED_DATA = {
       "source": "Wired",
       "published": "2026-08-05T23:30:00+00:00",
       "link": "https://www.wired.com/story/openais-browser-could-be-hijacked-to-spam-your-whatsapp-contacts/"
-    },
-    {
-      "title": "Meta launches Muse Code, an AI agent for large code bases",
-      "summary": "Meta expanded its AI coding offerings with a new agent that, it promises, can handle complex tasks with complex software.",
-      "source": "TechCrunch",
-      "published": "2026-08-05T21:21:28+00:00",
-      "link": "https://techcrunch.com/2026/08/05/meta-launches-muse-code-an-ai-agent-for-large-code-bases/"
-    },
-    {
-      "title": "When online commenters detect my art as AI",
-      "summary": "Article URL: https://www.davidrevoy.com/article1164/when-online-commenters-detect-my-art-as-ai Comments URL: https://news.ycombinator.com/item?id=49188916 Points: 116 # Comments: 64",
-      "source": "Hacker News",
-      "published": "2026-08-05T20:58:52+00:00",
-      "link": "https://www.davidrevoy.com/article1164/when-online-commenters-detect-my-art-as-ai"
-    },
-    {
-      "title": "Klaviyo acquires Elias Torres’ Agency in full-circle reunion for tech founders",
-      "summary": "The serial entrepreneur joins the e-commerce company as CPO to lead its AI agents.",
-      "source": "TechCrunch",
-      "published": "2026-08-05T20:05:00+00:00",
-      "link": "https://techcrunch.com/2026/08/05/klaviyo-acquires-elias-torres-agency-in-full-circle-reunion-for-tech-founders/"
-    },
-    {
-      "title": "Meta Ran Ads That Contained AI-Generated Child Sexual Abuse Imagery",
-      "summary": "Article URL: https://www.wired.com/story/meta-ran-ads-that-contained-ai-generated-child-sexual-abuse-imagery/ Comments URL: https://news.ycombinator.com/item?id=49187977 Points: 323 # Comments: 268",
-      "source": "Hacker News",
-      "published": "2026-08-05T19:47:26+00:00",
-      "link": "https://www.wired.com/story/meta-ran-ads-that-contained-ai-generated-child-sexual-abuse-imagery/"
-    },
-    {
-      "title": "The Most Dangerous AI Hacking Techniques Still Have Humans in the Loop",
-      "summary": "Security researcher James Kettle tried to push the limit of AI’s hacking abilities—and discovered how effective it can be when combined with human expertise.",
-      "source": "Wired",
-      "published": "2026-08-05T19:42:12+00:00",
-      "link": "https://www.wired.com/story/the-most-dangerous-ai-hacking-techniques-still-have-human-input/"
-    },
-    {
-      "title": "Jeff Dean and other top AI researchers are leaving Google to launch their own startup",
-      "summary": "The legendary Google executive is joined by other outgoing Google execs in a joint mission to use AI to push forward the process of scientific discovery.",
-      "source": "TechCrunch",
-      "published": "2026-08-05T19:30:19+00:00",
-      "link": "https://techcrunch.com/2026/08/05/jeff-dean-and-other-top-ai-researchers-are-leaving-google-to-launch-their-own-startup/"
-    },
-    {
-      "title": "Born Against, or why hobby programming communities are against LLM usage",
-      "summary": "Article URL: https://blog.fogus.me/llm/born-against.html Comments URL: https://news.ycombinator.com/item?id=49187061 Points: 440 # Comments: 522",
-      "source": "Hacker News",
-      "published": "2026-08-05T18:37:49+00:00",
-      "link": "https://blog.fogus.me/llm/born-against.html"
-    },
-    {
-      "title": "AI Hacks Are Bad. AI Worms and Viruses Will Be Worse",
-      "summary": "Chinese researchers have shown that AI models have the capacity to act like aggressive and adaptive computer viruses.",
-      "source": "Wired",
-      "published": "2026-08-05T18:30:00+00:00",
-      "link": "https://www.wired.com/story/ai-agents-could-act-like-computer-viruses-and-worms/"
-    },
-    {
-      "title": "Google Deepmind loses both its CEO and chief scientist as Demis Hassabis and Jeff Dean step down simultaneously",
-      "summary": "Google Deepmind is overhauling its leadership as Demis Hassabis steps back from day-to-day management to become Alphabet's chief scientist and Jeff Dean leaves Google after 27 years to launch AI startup Discovery Loop.",
-      "source": "The Decoder",
-      "published": "2026-08-05T18:20:53+00:00",
-      "link": "https://the-decoder.com/google-deepmind-loses-both-its-ceo-and-chief-scientist-as-demis-hassabis-and-jeff-dean-step-down-simultaneously/"
-    },
-    {
-      "title": "Microsoft's AI Sales Mostly Come from OpenAI, Disclosures Show",
-      "summary": "https://www.bloomberg.com/news/articles/2026-08-05/microsoft... Comments URL: https://news.ycombinator.com/item?id=49186766 Points: 73 # Comments: 15",
-      "source": "Hacker News",
-      "published": "2026-08-05T18:19:10+00:00",
-      "link": "https://www.bloomberg.com/news/articles/2026-08-05/microsoft-s-ai-sales-mostly-come-from-openai-disclosures-show"
-    },
-    {
-      "title": "Beating GPT-5.6 Sol on retrieval with 100x cheaper open models",
-      "summary": "Article URL: https://neon.com/blog/how-castform-neon-beats-frontier-models-on-price-and-efficiency Comments URL: https://news.ycombinator.com/item?id=49186762 Points: 432 # Comments: 122",
-      "source": "Hacker News",
-      "published": "2026-08-05T18:18:56+00:00",
-      "link": "https://neon.com/blog/how-castform-neon-beats-frontier-models-on-price-and-efficiency"
-    },
-    {
-      "title": "Sycophantic AI Decreases Prosocial Intentions and Promotes Dependence (2025)",
-      "summary": "Article URL: https://arxiv.org/abs/2510.01395 Comments URL: https://news.ycombinator.com/item?id=49186720 Points: 173 # Comments: 104",
-      "source": "Hacker News",
-      "published": "2026-08-05T18:17:03+00:00",
-      "link": "https://arxiv.org/abs/2510.01395"
-    },
-    {
-      "title": "Google will shut down Google Assistant starting September 2026 as Gemini takes over on Android and Wear OS",
-      "summary": "Google is killing Google Assistant on Android and Wear OS starting September 4, 2026. Gemini takes over as the AI-powered successor on smartphones, tablets, watches, and in cars with Android Auto.",
-      "source": "The Decoder",
-      "published": "2026-08-05T17:59:38+00:00",
-      "link": "https://the-decoder.com/google-will-shut-down-google-assistant-starting-september-2026-as-gemini-takes-over-on-android-and-wear-os/"
     }
   ]
 };
