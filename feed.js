@@ -1,6 +1,13 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-08-12T03:21:35.686945+00:00",
+  "lastUpdated": "2026-08-12T06:15:53.682993+00:00",
   "items": [
+    {
+      "title": "Company Offering '100% Human-Written, Never AI' Medical Research Is 100% AI",
+      "summary": "Article URL: https://www.404media.co/company-offering-100-human-written-never-ai-peer-review-is-entirely-ai/ Comments URL: https://news.ycombinator.com/item?id=49267057 Points: 135 # Comments: 31",
+      "source": "Hacker News",
+      "published": "2026-08-12T02:05:42+00:00",
+      "link": "https://www.404media.co/company-offering-100-human-written-never-ai-peer-review-is-entirely-ai/"
+    },
     {
       "title": "Saber denies replacing Rideshare Stimulator’s writers with ChatGPT",
       "summary": "After a former lead writer claimed Saber \"replaced me with ChatGPT,\" CEO Matthew Karch now claims, \"Neither Saber nor Unigine have replaced any writers with AI,\" for the Rideshare \"Stimulator\" game announced last month, developed by Unigine.",
@@ -14,6 +21,13 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-08-11T21:39:11+00:00",
       "link": "https://techcrunch.com/2026/08/11/accel-closes-oversubscribed-550m-india-fund-within-weeks-19-months-after-its-last/"
+    },
+    {
+      "title": "Suzanne: AI tool for designing and manufacturing physical products",
+      "summary": "Article URL: https://www.suzanne3d.com/ Comments URL: https://news.ycombinator.com/item?id=49264755 Points: 50 # Comments: 32",
+      "source": "Hacker News",
+      "published": "2026-08-11T21:28:26+00:00",
+      "link": "https://www.suzanne3d.com/"
     },
     {
       "title": "Chrome adopts what may be the best protection yet against account takeovers",
@@ -80,7 +94,7 @@ const FEED_DATA = {
     },
     {
       "title": "Go is an ideal language for AI-assisted software engineering",
-      "summary": "Article URL: https://developers.googleblog.com/why-go-is-an-ideal-language-for-ai-assisted-software-engineering/ Comments URL: https://news.ycombinator.com/item?id=49261133 Points: 193 # Comments: 242",
+      "summary": "Article URL: https://developers.googleblog.com/why-go-is-an-ideal-language-for-ai-assisted-software-engineering/ Comments URL: https://news.ycombinator.com/item?id=49261133 Points: 328 # Comments: 384",
       "source": "Hacker News",
       "published": "2026-08-11T16:57:09+00:00",
       "link": "https://developers.googleblog.com/why-go-is-an-ideal-language-for-ai-assisted-software-engineering/"
@@ -101,7 +115,7 @@ const FEED_DATA = {
     },
     {
       "title": "Apple Silicon and macOS VMs: Faster LLM Inference with llama.cpp",
-      "summary": "Article URL: https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md Comments URL: https://news.ycombinator.com/item?id=49259339 Points: 269 # Comments: 42",
+      "summary": "Article URL: https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md Comments URL: https://news.ycombinator.com/item?id=49259339 Points: 289 # Comments: 43",
       "source": "Hacker News",
       "published": "2026-08-11T14:50:33+00:00",
       "link": "https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md"
@@ -129,7 +143,7 @@ const FEED_DATA = {
     },
     {
       "title": "Stealing Reasoning Traces from Proprietary LLM APIs",
-      "summary": "Article URL: https://stolen-thoughts.com/ Comments URL: https://news.ycombinator.com/item?id=49257876 Points: 392 # Comments: 158",
+      "summary": "Article URL: https://stolen-thoughts.com/ Comments URL: https://news.ycombinator.com/item?id=49257876 Points: 581 # Comments: 260",
       "source": "Hacker News",
       "published": "2026-08-11T13:22:00+00:00",
       "link": "https://stolen-thoughts.com/"
@@ -269,7 +283,7 @@ const FEED_DATA = {
     },
     {
       "title": "As AI eats the web, the internet’s collective memory is disappearing",
-      "summary": "Article URL: https://thewalrus.ca/google-search-is-dying/ Comments URL: https://news.ycombinator.com/item?id=49250836 Points: 843 # Comments: 842",
+      "summary": "Article URL: https://thewalrus.ca/google-search-is-dying/ Comments URL: https://news.ycombinator.com/item?id=49250836 Points: 886 # Comments: 898",
       "source": "Hacker News",
       "published": "2026-08-10T22:36:30+00:00",
       "link": "https://thewalrus.ca/google-search-is-dying/"
@@ -283,7 +297,7 @@ const FEED_DATA = {
     },
     {
       "title": "How Claude marks AI-generated content",
-      "summary": "Article URL: https://support.claude.com/en/articles/16266773-how-claude-marks-ai-generated-content Comments URL: https://news.ycombinator.com/item?id=49250109 Points: 405 # Comments: 380",
+      "summary": "Article URL: https://support.claude.com/en/articles/16266773-how-claude-marks-ai-generated-content Comments URL: https://news.ycombinator.com/item?id=49250109 Points: 430 # Comments: 393",
       "source": "Hacker News",
       "published": "2026-08-10T21:36:56+00:00",
       "link": "https://support.claude.com/en/articles/16266773-how-claude-marks-ai-generated-content"
@@ -332,7 +346,7 @@ const FEED_DATA = {
     },
     {
       "title": "GPT 5.6 Cyber",
-      "summary": "Article URL: https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows/ Comments URL: https://news.ycombinator.com/item?id=49246704 Points: 126 # Comments: 67",
+      "summary": "Article URL: https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows/ Comments URL: https://news.ycombinator.com/item?id=49246704 Points: 128 # Comments: 69",
       "source": "Hacker News",
       "published": "2026-08-10T17:14:00+00:00",
       "link": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows/"
@@ -360,14 +374,14 @@ const FEED_DATA = {
     },
     {
       "title": "Kinney Drugs pulls back AI phone assistant after hundreds of customer complaints",
-      "summary": "Article URL: https://www.wcax.com/2026/08/07/kinney-drugs-pulls-back-ai-phone-assistant-after-hundreds-customer-complaints/ Comments URL: https://news.ycombinator.com/item?id=49244569 Points: 152 # Comments: 169",
+      "summary": "Article URL: https://www.wcax.com/2026/08/07/kinney-drugs-pulls-back-ai-phone-assistant-after-hundreds-customer-complaints/ Comments URL: https://news.ycombinator.com/item?id=49244569 Points: 153 # Comments: 171",
       "source": "Hacker News",
       "published": "2026-08-10T14:56:32+00:00",
       "link": "https://www.wcax.com/2026/08/07/kinney-drugs-pulls-back-ai-phone-assistant-after-hundreds-customer-complaints/"
     },
     {
       "title": "Letter to Governor Abbott on responsible AI infrastructure in Texas",
-      "summary": "Article URL: https://openai.com/index/responsible-ai-infrastructure-texas/ Comments URL: https://news.ycombinator.com/item?id=49244308 Points: 120 # Comments: 227",
+      "summary": "Article URL: https://openai.com/index/responsible-ai-infrastructure-texas/ Comments URL: https://news.ycombinator.com/item?id=49244308 Points: 123 # Comments: 229",
       "source": "Hacker News",
       "published": "2026-08-10T14:38:20+00:00",
       "link": "https://openai.com/index/responsible-ai-infrastructure-texas/"
@@ -381,14 +395,14 @@ const FEED_DATA = {
     },
     {
       "title": "Exploring Claude/GPT Knowledge Cutoffs and Pre-Training Timelines",
-      "summary": "Article URL: https://blog.sshh.io/p/exploring-claudegpt-knowledge-cutoffs Comments URL: https://news.ycombinator.com/item?id=49244085 Points: 154 # Comments: 24",
+      "summary": "Article URL: https://blog.sshh.io/p/exploring-claudegpt-knowledge-cutoffs Comments URL: https://news.ycombinator.com/item?id=49244085 Points: 156 # Comments: 24",
       "source": "Hacker News",
       "published": "2026-08-10T14:20:41+00:00",
       "link": "https://blog.sshh.io/p/exploring-claudegpt-knowledge-cutoffs"
     },
     {
       "title": "Mark Zuckerberg attacks 'closed' AI rivals as Meta returns to open models",
-      "summary": "https://archive.is/20LOJhttps://www.meta.com/thefutureisforeveryone/ Comments URL: https://news.ycombinator.com/item?id=49243880 Points: 621 # Comments: 584",
+      "summary": "https://archive.is/20LOJhttps://www.meta.com/thefutureisforeveryone/ Comments URL: https://news.ycombinator.com/item?id=49243880 Points: 632 # Comments: 595",
       "source": "Hacker News",
       "published": "2026-08-10T14:06:22+00:00",
       "link": "https://www.ft.com/content/4e3957f8-ea7c-4c46-a3de-cdce8e526878"
@@ -416,7 +430,7 @@ const FEED_DATA = {
     },
     {
       "title": "Humanising LLM Outputs Is Dumb",
-      "summary": "Article URL: https://kuber.studio/blog/Reflections/Humanising-LLM-Outputs-is-Actually-Dumb Comments URL: https://news.ycombinator.com/item?id=49243474 Points: 226 # Comments: 165",
+      "summary": "Article URL: https://kuber.studio/blog/Reflections/Humanising-LLM-Outputs-is-Actually-Dumb Comments URL: https://news.ycombinator.com/item?id=49243474 Points: 227 # Comments: 170",
       "source": "Hacker News",
       "published": "2026-08-10T13:35:40+00:00",
       "link": "https://kuber.studio/blog/Reflections/Humanising-LLM-Outputs-is-Actually-Dumb"
@@ -451,7 +465,7 @@ const FEED_DATA = {
     },
     {
       "title": "Show HN: A tiny LLM running at 21,000 tok/s on a $250 FPGA (Live Demo)",
-      "summary": "Article URL: https://www.mikeayles.com/blog/on-chip-llm-kv260/ Comments URL: https://news.ycombinator.com/item?id=49242475 Points: 74 # Comments: 24",
+      "summary": "Article URL: https://www.mikeayles.com/blog/on-chip-llm-kv260/ Comments URL: https://news.ycombinator.com/item?id=49242475 Points: 75 # Comments: 26",
       "source": "Hacker News",
       "published": "2026-08-10T11:52:07+00:00",
       "link": "https://www.mikeayles.com/blog/on-chip-llm-kv260/"
@@ -500,7 +514,7 @@ const FEED_DATA = {
     },
     {
       "title": "Tech leaders say AI means less work – staff say they work up to 90 hours a week",
-      "summary": "Article URL: https://www.bbc.com/news/articles/cvgx4yd1gl2o Comments URL: https://news.ycombinator.com/item?id=49241559 Points: 124 # Comments: 48",
+      "summary": "Article URL: https://www.bbc.com/news/articles/cvgx4yd1gl2o Comments URL: https://news.ycombinator.com/item?id=49241559 Points: 133 # Comments: 49",
       "source": "Hacker News",
       "published": "2026-08-10T09:53:37+00:00",
       "link": "https://www.bbc.com/news/articles/cvgx4yd1gl2o"
@@ -528,7 +542,7 @@ const FEED_DATA = {
     },
     {
       "title": "Docker Sandboxes – Disposable, isolated sandboxes for AI agents",
-      "summary": "Article URL: https://www.docker.com/products/docker-sandboxes/ Comments URL: https://news.ycombinator.com/item?id=49239751 Points: 678 # Comments: 386",
+      "summary": "Article URL: https://www.docker.com/products/docker-sandboxes/ Comments URL: https://news.ycombinator.com/item?id=49239751 Points: 683 # Comments: 392",
       "source": "Hacker News",
       "published": "2026-08-10T06:02:38+00:00",
       "link": "https://www.docker.com/products/docker-sandboxes/"
@@ -1386,20 +1400,6 @@ const FEED_DATA = {
       "source": "The Verge",
       "published": "2026-08-05T16:57:25+00:00",
       "link": "https://www.theverge.com/ai-artificial-intelligence/975528/fenix-flexin-ai-music-generator-treblo"
-    },
-    {
-      "title": "Google just announced a major shakeup of its top AI leadership",
-      "summary": "Google is making some significant AI leadership changes, including a major shift for Google DeepMind leader Demis Hassabis. Hassabis will become the chair of Google DeepMind and the chief scientist at Alphabet, CEO Sundar Pichai announced on Wednesday.",
-      "source": "The Verge",
-      "published": "2026-08-05T16:47:23+00:00",
-      "link": "https://www.theverge.com/tech/975677/google-deepmind-ai-demis-hassabis-shakeup"
-    },
-    {
-      "title": "SpaceX is barely Space and mostly X",
-      "summary": "Once, I had some questions about why SpaceX, Elon Musk's healthiest company, acquired xAI, his sickliest one. Now I have some questions about why we're calling the whole thing SpaceX.",
-      "source": "The Verge",
-      "published": "2026-08-05T16:35:56+00:00",
-      "link": "https://www.theverge.com/science/975545/spacex-x-earnings-ai-data-centers-compute-space"
     }
   ]
 };
