@@ -1,6 +1,20 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-08-12T21:36:28.494661+00:00",
+  "lastUpdated": "2026-08-13T03:25:04.691639+00:00",
   "items": [
+    {
+      "title": "Some Claude users are mad that Anthropic’s new watermarks will catch them using it at their jobs, classes",
+      "summary": "Is Anthropic's new watermarking system a travesty? Some have taken to social media to complain that it is.",
+      "source": "TechCrunch",
+      "published": "2026-08-12T22:26:37+00:00",
+      "link": "https://techcrunch.com/2026/08/12/some-claude-users-are-mad-that-anthropics-new-watermarks-will-catch-them-cheating-at-their-jobs-classes/"
+    },
+    {
+      "title": "Terabytes of credentials leaked in massive supply-chain attack",
+      "summary": "The data was scraped and exfiltrated from 2,500 users of a compromised AI package.",
+      "source": "Ars Technica",
+      "published": "2026-08-12T21:43:21+00:00",
+      "link": "https://arstechnica.com/security/2026/08/terabytes-of-credentials-leaked-in-massive-supply-chain-attack/"
+    },
     {
       "title": "The White House Is Going to Expand Its AI Policy",
       "summary": "Open models may soon be added to an updated AI framework, sources tell WIRED, as the White House continues to grapple with how to regulate a technology it has tried not to regulate.",
@@ -73,7 +87,7 @@ const FEED_DATA = {
     },
     {
       "title": "Grok 4.6 scores 61 on the Artificial Analysis Intelligence Index",
-      "summary": "Article URL: https://artificialanalysis.ai/articles/grok-4-6-benchmarks-and-analysis Comments URL: https://news.ycombinator.com/item?id=49275385 Points: 265 # Comments: 258",
+      "summary": "Article URL: https://artificialanalysis.ai/articles/grok-4-6-benchmarks-and-analysis Comments URL: https://news.ycombinator.com/item?id=49275385 Points: 320 # Comments: 335",
       "source": "Hacker News",
       "published": "2026-08-12T16:54:25+00:00",
       "link": "https://artificialanalysis.ai/articles/grok-4-6-benchmarks-and-analysis"
@@ -150,14 +164,14 @@ const FEED_DATA = {
     },
     {
       "title": "German advocacy group lodges criminal complaint over Meta AI glasses",
-      "summary": "Article URL: https://www.reuters.com/legal/government/german-advocacy-group-lodges-criminal-complaint-over-meta-ai-glasses-2026-08-12/ Comments URL: https://news.ycombinator.com/item?id=49272620 Points: 96 # Comments: 42",
+      "summary": "Article URL: https://www.reuters.com/legal/government/german-advocacy-group-lodges-criminal-complaint-over-meta-ai-glasses-2026-08-12/ Comments URL: https://news.ycombinator.com/item?id=49272620 Points: 108 # Comments: 46",
       "source": "Hacker News",
       "published": "2026-08-12T14:06:03+00:00",
       "link": "https://www.reuters.com/legal/government/german-advocacy-group-lodges-criminal-complaint-over-meta-ai-glasses-2026-08-12/"
     },
     {
       "title": "Someone is running mass vulnerability scans, spoofing AI bots like ClaudeBot",
-      "summary": "Article URL: https://knownagents.com/insights Comments URL: https://news.ycombinator.com/item?id=49272569 Points: 195 # Comments: 126",
+      "summary": "Article URL: https://knownagents.com/insights Comments URL: https://news.ycombinator.com/item?id=49272569 Points: 240 # Comments: 181",
       "source": "Hacker News",
       "published": "2026-08-12T14:02:46+00:00",
       "link": "https://knownagents.com/insights"
@@ -185,7 +199,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI is removing the middle class of software engineering?",
-      "summary": "Article URL: https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html Comments URL: https://news.ycombinator.com/item?id=49271994 Points: 626 # Comments: 512",
+      "summary": "Article URL: https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html Comments URL: https://news.ycombinator.com/item?id=49271994 Points: 754 # Comments: 693",
       "source": "Hacker News",
       "published": "2026-08-12T13:20:05+00:00",
       "link": "https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html"
@@ -269,7 +283,7 @@ const FEED_DATA = {
     },
     {
       "title": "Company Offering '100% Human-Written, Never AI' Medical Research Is 100% AI",
-      "summary": "Article URL: https://www.404media.co/company-offering-100-human-written-never-ai-peer-review-is-entirely-ai/ Comments URL: https://news.ycombinator.com/item?id=49267057 Points: 191 # Comments: 46",
+      "summary": "Article URL: https://www.404media.co/company-offering-100-human-written-never-ai-peer-review-is-entirely-ai/ Comments URL: https://news.ycombinator.com/item?id=49267057 Points: 194 # Comments: 48",
       "source": "Hacker News",
       "published": "2026-08-12T02:05:42+00:00",
       "link": "https://www.404media.co/company-offering-100-human-written-never-ai-peer-review-is-entirely-ai/"
@@ -290,7 +304,7 @@ const FEED_DATA = {
     },
     {
       "title": "Suzanne: AI tool for designing and manufacturing physical products",
-      "summary": "Article URL: https://www.suzanne3d.com/ Comments URL: https://news.ycombinator.com/item?id=49264755 Points: 51 # Comments: 33",
+      "summary": "Article URL: https://www.suzanne3d.com/ Comments URL: https://news.ycombinator.com/item?id=49264755 Points: 51 # Comments: 36",
       "source": "Hacker News",
       "published": "2026-08-11T21:28:26+00:00",
       "link": "https://www.suzanne3d.com/"
@@ -360,14 +374,14 @@ const FEED_DATA = {
     },
     {
       "title": "Made by Google 2026: all the Pixel news and announcements",
-      "summary": "Google has revealed a bunch of new Pixel devices ahead of its Made by Google event. The colorful Pixel 11 lineup comes with upgraded cameras and performance, with the Pro models offering a built-in LED ring that lights up for Google’s Gemini AI and other features.",
+      "summary": "On August 12, 2026, Google revealed a bunch of new Pixel devices. The colorful Pixel 11 lineup comes with upgraded cameras and performance, with the Pro models offering a built-in LED ring that lights up for Google’s Gemini AI and other features.",
       "source": "The Verge",
       "published": "2026-08-11T17:00:00+00:00",
       "link": "https://www.theverge.com/tech/977561/made-by-google-2026-pixel-11-news"
     },
     {
       "title": "Go is an ideal language for AI-assisted software engineering",
-      "summary": "Article URL: https://developers.googleblog.com/why-go-is-an-ideal-language-for-ai-assisted-software-engineering/ Comments URL: https://news.ycombinator.com/item?id=49261133 Points: 421 # Comments: 497",
+      "summary": "Article URL: https://developers.googleblog.com/why-go-is-an-ideal-language-for-ai-assisted-software-engineering/ Comments URL: https://news.ycombinator.com/item?id=49261133 Points: 424 # Comments: 500",
       "source": "Hacker News",
       "published": "2026-08-11T16:57:09+00:00",
       "link": "https://developers.googleblog.com/why-go-is-an-ideal-language-for-ai-assisted-software-engineering/"
@@ -388,7 +402,7 @@ const FEED_DATA = {
     },
     {
       "title": "Apple Silicon and macOS VMs: Faster LLM Inference with llama.cpp",
-      "summary": "Article URL: https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md Comments URL: https://news.ycombinator.com/item?id=49259339 Points: 301 # Comments: 43",
+      "summary": "Article URL: https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md Comments URL: https://news.ycombinator.com/item?id=49259339 Points: 302 # Comments: 43",
       "source": "Hacker News",
       "published": "2026-08-11T14:50:33+00:00",
       "link": "https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md"
@@ -416,7 +430,7 @@ const FEED_DATA = {
     },
     {
       "title": "Stealing Reasoning Traces from Proprietary LLM APIs",
-      "summary": "Article URL: https://stolen-thoughts.com/ Comments URL: https://news.ycombinator.com/item?id=49257876 Points: 680 # Comments: 299",
+      "summary": "Article URL: https://stolen-thoughts.com/ Comments URL: https://news.ycombinator.com/item?id=49257876 Points: 684 # Comments: 300",
       "source": "Hacker News",
       "published": "2026-08-11T13:22:00+00:00",
       "link": "https://stolen-thoughts.com/"
@@ -556,7 +570,7 @@ const FEED_DATA = {
     },
     {
       "title": "As AI eats the web, the internet’s collective memory is disappearing",
-      "summary": "Article URL: https://thewalrus.ca/google-search-is-dying/ Comments URL: https://news.ycombinator.com/item?id=49250836 Points: 922 # Comments: 961",
+      "summary": "Article URL: https://thewalrus.ca/google-search-is-dying/ Comments URL: https://news.ycombinator.com/item?id=49250836 Points: 927 # Comments: 963",
       "source": "Hacker News",
       "published": "2026-08-10T22:36:30+00:00",
       "link": "https://thewalrus.ca/google-search-is-dying/"
@@ -570,7 +584,7 @@ const FEED_DATA = {
     },
     {
       "title": "How Claude marks AI-generated content",
-      "summary": "Article URL: https://support.claude.com/en/articles/16266773-how-claude-marks-ai-generated-content Comments URL: https://news.ycombinator.com/item?id=49250109 Points: 442 # Comments: 404",
+      "summary": "Article URL: https://support.claude.com/en/articles/16266773-how-claude-marks-ai-generated-content Comments URL: https://news.ycombinator.com/item?id=49250109 Points: 443 # Comments: 408",
       "source": "Hacker News",
       "published": "2026-08-10T21:36:56+00:00",
       "link": "https://support.claude.com/en/articles/16266773-how-claude-marks-ai-generated-content"
@@ -619,7 +633,7 @@ const FEED_DATA = {
     },
     {
       "title": "GPT 5.6 Cyber",
-      "summary": "Article URL: https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows/ Comments URL: https://news.ycombinator.com/item?id=49246704 Points: 130 # Comments: 70",
+      "summary": "Article URL: https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows/ Comments URL: https://news.ycombinator.com/item?id=49246704 Points: 130 # Comments: 71",
       "source": "Hacker News",
       "published": "2026-08-10T17:14:00+00:00",
       "link": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows/"
@@ -654,7 +668,7 @@ const FEED_DATA = {
     },
     {
       "title": "Letter to Governor Abbott on responsible AI infrastructure in Texas",
-      "summary": "Article URL: https://openai.com/index/responsible-ai-infrastructure-texas/ Comments URL: https://news.ycombinator.com/item?id=49244308 Points: 124 # Comments: 231",
+      "summary": "Article URL: https://openai.com/index/responsible-ai-infrastructure-texas/ Comments URL: https://news.ycombinator.com/item?id=49244308 Points: 124 # Comments: 232",
       "source": "Hacker News",
       "published": "2026-08-10T14:38:20+00:00",
       "link": "https://openai.com/index/responsible-ai-infrastructure-texas/"
@@ -675,7 +689,7 @@ const FEED_DATA = {
     },
     {
       "title": "Mark Zuckerberg attacks 'closed' AI rivals as Meta returns to open models",
-      "summary": "https://archive.is/20LOJhttps://www.meta.com/thefutureisforeveryone/ Comments URL: https://news.ycombinator.com/item?id=49243880 Points: 638 # Comments: 598",
+      "summary": "https://archive.is/20LOJhttps://www.meta.com/thefutureisforeveryone/ Comments URL: https://news.ycombinator.com/item?id=49243880 Points: 638 # Comments: 599",
       "source": "Hacker News",
       "published": "2026-08-10T14:06:22+00:00",
       "link": "https://www.ft.com/content/4e3957f8-ea7c-4c46-a3de-cdce8e526878"
@@ -1386,20 +1400,6 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-08-06T17:35:33+00:00",
       "link": "https://the-decoder.com/microsofts-ai-revenue-reportedly-depends-on-openai-for-70-percent/"
-    },
-    {
-      "title": "ChatGPT brings unlimited text chats to free users",
-      "summary": "OpenAI said that ChatGPT free and Go users are also getting a new think button for complex queries.",
-      "source": "TechCrunch",
-      "published": "2026-08-06T17:34:42+00:00",
-      "link": "https://techcrunch.com/2026/08/06/openai-brings-unlimited-chatgpt-text-chats-to-free-users/"
-    },
-    {
-      "title": "Improving GPT‑5.6 Sol in ChatGPT, expanding GPT‑5.6 Luna access for free users",
-      "summary": "Article URL: https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt/ Comments URL: https://news.ycombinator.com/item?id=49199357 Points: 314 # Comments: 278",
-      "source": "Hacker News",
-      "published": "2026-08-06T17:02:04+00:00",
-      "link": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt/"
     }
   ]
 };
