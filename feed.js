@@ -1,5 +1,5 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-08-13T03:25:04.691639+00:00",
+  "lastUpdated": "2026-08-13T06:18:04.652553+00:00",
   "items": [
     {
       "title": "Some Claude users are mad that Anthropic’s new watermarks will catch them using it at their jobs, classes",
