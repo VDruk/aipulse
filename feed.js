@@ -1,6 +1,55 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-08-13T14:22:16.390675+00:00",
+  "lastUpdated": "2026-08-13T17:52:25.444378+00:00",
   "items": [
+    {
+      "title": "OpenAI hires new CRO as executive shake-up continues",
+      "summary": "Dali Rajic will take over as OpenAI's top salesperson.",
+      "source": "TechCrunch",
+      "published": "2026-08-13T17:07:13+00:00",
+      "link": "https://techcrunch.com/2026/08/13/openai-hires-new-cro-as-executive-shake-up-continues/"
+    },
+    {
+      "title": "Deepseek ships improved V4 Pro, open-sources its agent software, and raises API prices",
+      "summary": "Deepseek has moved its flagship V4-Pro out of the testing phase and released its agent software, Harness v0.1, under the MIT license. API prices are going up at the same time, with cache hits jumping to six times their current cost.",
+      "source": "The Decoder",
+      "published": "2026-08-13T16:27:32+00:00",
+      "link": "https://the-decoder.com/deepseek-launches-an-improved-v4-pro-model-raises-api-prices-and-makes-its-agent-software-open-source/"
+    },
+    {
+      "title": "Suno is trying to look more like a real music production tool",
+      "summary": "Suno is releasing Studio 2.0 with significant upgrades that push it closer to an actual digital audio workstation (DAW), rather than a bare-bones audio editor with generative AI features. The biggest addition is undoubtedly MIDI support.",
+      "source": "The Verge",
+      "published": "2026-08-13T16:00:00+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/979345/suno-studio-2-0-midi-chatbot-custom-effects"
+    },
+    {
+      "title": "Microsoft kills off unsuccessful AI features while merging its separate Copilot apps",
+      "summary": "Microsoft is simplifying Copilot by combining its consumer and business apps, and dropping AI-generated podcasts, Group Chats, Deep Research, and its Mico character.",
+      "source": "TechCrunch",
+      "published": "2026-08-13T15:30:52+00:00",
+      "link": "https://techcrunch.com/2026/08/13/microsoft-kills-off-unsuccessful-ai-features-while-merging-its-separate-copilot-apps/"
+    },
+    {
+      "title": "I looked inside an AI generated movie, and the best parts were all human",
+      "summary": "Imagine a trio of bumbling, English lads who fantasize about becoming megastars while knocking back a few pints in a grimy pub somewhere in London.",
+      "source": "The Verge",
+      "published": "2026-08-13T15:30:00+00:00",
+      "link": "https://www.theverge.com/entertainment/977994/higgsfield-ai-cully-hill-boys-black-list"
+    },
+    {
+      "title": "Nvidia’s new $500B plan is risky but brilliant, especially for aging GPUs",
+      "summary": "Nvidia has a plan to make sure its GPUs won't lose value. It wants to convince a new crop of financiers to keep lending for AI buildouts.",
+      "source": "TechCrunch",
+      "published": "2026-08-13T15:08:00+00:00",
+      "link": "https://techcrunch.com/2026/08/13/nvidias-new-500b-plan-is-risky-but-brilliant-especially-for-aging-gpus/"
+    },
+    {
+      "title": "Ling 3.0 Flash is the smartest open model at its size",
+      "summary": "Ling 3.0 Flash is the smartest open model in its size class. The article Ling 3.0 Flash is the smartest open model at its size appeared first on The Decoder.",
+      "source": "The Decoder",
+      "published": "2026-08-13T15:03:04+00:00",
+      "link": "https://the-decoder.com/ling-3-0-flash-is-the-smartest-open-model-at-its-size/"
+    },
     {
       "title": "Does Google even want to win at AI?",
       "summary": "Today on Decoder, I’m talking with Hayden Field, The Verge’s senior AI reporter, about a question that’s been rocketing around the tech industry for the past week: Is Google losing the AI race?",
@@ -1351,55 +1400,6 @@ const FEED_DATA = {
       "source": "AI News",
       "published": "2026-08-07T10:00:00+00:00",
       "link": "https://www.artificialintelligence-news.com/news/alibaba-qwen-open-source-ai-revenue-sharing/"
-    },
-    {
-      "title": "The Hottest New AI Chatbot Is Just a Guy Answering Your Questions",
-      "summary": "WIRED spoke with Tucker Bryant, an artist and former Google employee who created ChatTJB to get people to reflect on the “strange moment” we’re in.",
-      "source": "Wired",
-      "published": "2026-08-07T10:00:00+00:00",
-      "link": "https://www.wired.com/story/this-chatbot-is-just-a-random-guy-lol/"
-    },
-    {
-      "title": "OpenAI reportedly slows research after its own models secretly coordinated hacks for weeks undetected",
-      "summary": "During internal security tests, OpenAI's AI agents built their own message board with hundreds of thousands of posts, shared exploits and credentials, and eventually attacked external platforms like Hugging Face.",
-      "source": "The Decoder",
-      "published": "2026-08-07T09:22:26+00:00",
-      "link": "https://the-decoder.com/openai-reportedly-slows-research-after-its-own-models-secretly-coordinated-hacks-for-weeks-undetected/"
-    },
-    {
-      "title": "Amazon, Cursor, Microsoft, OpenAI, and Vercel unite on a shared standard for AI agent plugins",
-      "summary": "Amazon, Cursor, Microsoft, OpenAI, and Vercel have jointly created Agent Plugins, an open standard that defines a single package format for AI agent extensions. Version 1.0.0 uses a plugin.json manifest file and supports both agent skills and MCP servers.",
-      "source": "The Decoder",
-      "published": "2026-08-07T08:54:45+00:00",
-      "link": "https://the-decoder.com/amazon-cursor-microsoft-openai-and-vercel-unite-on-a-shared-standard-for-ai-agent-plugins/"
-    },
-    {
-      "title": "OpenAI improves GPT-5.6 Sol in ChatGPT and restricts free users to its weakest model",
-      "summary": "OpenAI has updated GPT-5.6 Sol with more focused responses and a reasoning slider that lets users adjust how deeply the model thinks. Free users will get unlimited text chats with the smaller GPT-5.6 Luna starting next week, plus a button that lets Luna reason longer.",
-      "source": "The Decoder",
-      "published": "2026-08-07T08:29:27+00:00",
-      "link": "https://the-decoder.com/openai-improves-gpt-5-6-sol-in-chatgpt-and-restricts-free-users-to-its-weakest-model/"
-    },
-    {
-      "title": "I won't read LLM authored fiction",
-      "summary": "Article URL: https://mccormick.cx/news/entries/why-i-won-t-read-llm-authored-fiction Comments URL: https://news.ycombinator.com/item?id=49207146 Points: 72 # Comments: 112",
-      "source": "Hacker News",
-      "published": "2026-08-07T07:45:56+00:00",
-      "link": "https://mccormick.cx/news/entries/why-i-won-t-read-llm-authored-fiction"
-    },
-    {
-      "title": "Artificial Intelligence used to design new viruses",
-      "summary": "Article URL: https://www.bbc.co.uk/news/articles/c5y3j3ngevmo Comments URL: https://news.ycombinator.com/item?id=49206642 Points: 55 # Comments: 28",
-      "source": "Hacker News",
-      "published": "2026-08-07T06:31:15+00:00",
-      "link": "https://www.bbc.co.uk/news/articles/c5y3j3ngevmo"
-    },
-    {
-      "title": "One of China’s Most Powerful AI Models Has Also Escaped Containment",
-      "summary": "Security researchers say that Kimi K3, an open-weight model from China, wandered off to the internet in an attempt to cheat on a test it was given.",
-      "source": "Wired",
-      "published": "2026-08-07T01:16:55+00:00",
-      "link": "https://www.wired.com/story/moonshot-kimi-k3-ai-model-escape-sandbox/"
     }
   ]
 };
