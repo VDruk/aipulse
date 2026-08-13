@@ -1,6 +1,20 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-08-13T06:18:04.652553+00:00",
+  "lastUpdated": "2026-08-13T09:51:10.747762+00:00",
   "items": [
+    {
+      "title": "How kids feel about AI, in their own words",
+      "summary": "When we set out to talk to kids about artificial intelligence, we thought we knew what we’d hear.",
+      "source": "MIT Tech Review",
+      "published": "2026-08-13T09:00:00+00:00",
+      "link": "https://www.technologyreview.com/2026/08/13/1141410/how-kids-feel-about-ai-own-words/"
+    },
+    {
+      "title": "There’s a Fatty Liver Epidemic. AI Could Help Get Ahead of It",
+      "summary": "Over a billion people worldwide have livers with excess fat, which can lead to a host of medical problems. Researchers think AI tools can spot the condition—and help stop it—early enough to save lives.",
+      "source": "Wired",
+      "published": "2026-08-13T09:00:00+00:00",
+      "link": "https://www.wired.com/story/fatty-liver-disease-ai-detection-cancer/"
+    },
     {
       "title": "Some Claude users are mad that Anthropic’s new watermarks will catch them using it at their jobs, classes",
       "summary": "Is Anthropic's new watermarking system a travesty? Some have taken to social media to complain that it is.",
@@ -1386,20 +1400,6 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-08-06T18:05:54+00:00",
       "link": "https://the-decoder.com/deepminds-talent-drain-likely-comes-down-to-chip-shortages-a-conflict-of-interest-and-googles-bureaucracy/"
-    },
-    {
-      "title": "Suno shares plans to combat spammy AI music",
-      "summary": "Suno announced plans to implement a new watermarking technology and download policy to limit the spread of spammy AI tracks and increase transparency.",
-      "source": "The Verge",
-      "published": "2026-08-06T17:39:43+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/976289/suno-ai-music-spam-watermark"
-    },
-    {
-      "title": "Microsoft's AI revenue reportedly depends on OpenAI for 70 percent",
-      "summary": "Microsoft generated $24.1 billion in AI revenue through OpenAI in the fiscal year ending in June. That's about 70 percent of its total AI business, according to a Bloomberg analysis.",
-      "source": "The Decoder",
-      "published": "2026-08-06T17:35:33+00:00",
-      "link": "https://the-decoder.com/microsofts-ai-revenue-reportedly-depends-on-openai-for-70-percent/"
     }
   ]
 };
