@@ -1,9 +1,79 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-08-13T17:52:25.444378+00:00",
+  "lastUpdated": "2026-08-13T21:36:23.781479+00:00",
   "items": [
     {
+      "title": "Mark Zuckerberg’s AI Manifesto Is 6,500-Words—and Barely Says Anything",
+      "summary": "AI is shifting the culture, from tech CEO manifestos to 1 am job interviews. We unpack some of the latest, along with the top findings from Black Hat and Defcon, this week on Uncanny Valley.",
+      "source": "Wired",
+      "published": "2026-08-13T21:14:43+00:00",
+      "link": "https://www.wired.com/story/mark-zuckerbergs-ai-manifesto-is-6500-words-and-barely-says-anything/"
+    },
+    {
+      "title": "Writer introduces new AI model and upgraded harness to contain token costs",
+      "summary": "Built as a post-training variation on Z.ai's open source model GLM-5.2, Writer says the new system should provide deployment-ready capabilities at a much lower price.",
+      "source": "TechCrunch",
+      "published": "2026-08-13T21:13:24+00:00",
+      "link": "https://techcrunch.com/2026/08/13/writer-introduces-new-ai-model-and-upgraded-harness-to-contain-token-costs/"
+    },
+    {
+      "title": "Databricks wanted to raise $1B, investors wanted $15B. It settled on $5B at a $190B valuation.",
+      "summary": "AI is expensive, Ali Ghodsi tells TechCrunch. With so many investors wanting into his latest round, he said yes to more than planned.",
+      "source": "TechCrunch",
+      "published": "2026-08-13T20:14:39+00:00",
+      "link": "https://techcrunch.com/2026/08/13/databricks-wanted-to-raise-1b-investors-wanted-15b-it-settled-on-5b-at-a-190b-valuation/"
+    },
+    {
+      "title": "Suno Studio 2.0's new chat feature lets you talk to your DAW like it's a bandmate",
+      "summary": "With Studio 2.0, Suno turns its AI music platform into a full production tool for Premier subscribers. A chat feature creates instruments and plugins via text, while MIDI import and 32-bit export come without limits.",
+      "source": "The Decoder",
+      "published": "2026-08-13T19:39:54+00:00",
+      "link": "https://the-decoder.com/suno-studio-2-0s-new-chat-feature-lets-you-talk-to-your-daw-like-its-a-bandmate/"
+    },
+    {
+      "title": "OpenAI is losing its second executive this week",
+      "summary": "Another OpenAI executive is departing. Denise Dresser, who joined OpenAI as its chief revenue officer in December after serving as CEO of Slack, will be leaving in the \"coming weeks\" to \"pursue other opportunities,\" she said in a team note posted to LinkedIn.",
+      "source": "The Verge",
+      "published": "2026-08-13T19:28:39+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/979815/openai-denise-dresser-leaving-executive-departure"
+    },
+    {
+      "title": "OpenAI introduces ‘Ultrafast,’ a new mode that makes GPT-5.6 Sol work at 14x the speed",
+      "summary": "OpenAI is launching a preview of a sped up version of its latest, most powerful model, in an effort to court enterprise users.",
+      "source": "TechCrunch",
+      "published": "2026-08-13T19:22:40+00:00",
+      "link": "https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed/"
+    },
+    {
+      "title": "IBM partners with OpenAI to bolster enterprise AI push",
+      "summary": "IBM plans to train and certify tens of thousands of consultants on OpenAI's technologies as part of this deal.",
+      "source": "TechCrunch",
+      "published": "2026-08-13T19:19:49+00:00",
+      "link": "https://techcrunch.com/2026/08/13/ibm-partners-with-openai-to-bolster-enterprise-ai-push/"
+    },
+    {
+      "title": "Gemini 3.7 Flash lands with coding gains and undercuts its three-week-old predecessor's price by 50%",
+      "summary": "Google shipped Gemini 3.7 Flash just three weeks after 3.6 Flash. The new model is supposed to be Google's most capable workhorse yet for coding and AI agents, and according to the company's own benchmarks, it beats Claude Sonnet 5 and GPT-5.6 Terra at half the price.",
+      "source": "The Decoder",
+      "published": "2026-08-13T18:41:52+00:00",
+      "link": "https://the-decoder.com/gemini-3-7-flash-lands-with-coding-gains-and-undercuts-its-three-week-old-predecessors-price-by-50/"
+    },
+    {
+      "title": "Anthropic set AI agents loose on the same task. They started a turf war.",
+      "summary": "Anthropic researchers found AI agents can clash, collude, and coordinate in unexpected ways, raising new questions about whether today’s safety tests capture the risks of multi-agent systems.",
+      "source": "TechCrunch",
+      "published": "2026-08-13T18:28:14+00:00",
+      "link": "https://techcrunch.com/2026/08/13/anthropic-set-ai-agents-loose-on-the-same-task-they-started-a-turf-war/"
+    },
+    {
+      "title": "Accelerating GPT-5.6 Sol Ultrafast",
+      "summary": "Article URL: https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai Comments URL: https://news.ycombinator.com/item?id=49289844 Points: 286 # Comments: 113",
+      "source": "Hacker News",
+      "published": "2026-08-13T18:10:02+00:00",
+      "link": "https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai"
+    },
+    {
       "title": "OpenAI hires new CRO as executive shake-up continues",
-      "summary": "Dali Rajic will take over as OpenAI's top salesperson.",
+      "summary": "OpenAI has replaced chief revenue officer Denise Dresser after just nine months on the job, tapping Wiz president and chief operating officer Dali Rajic to take on frontier lab's top sales job.",
       "source": "TechCrunch",
       "published": "2026-08-13T17:07:13+00:00",
       "link": "https://techcrunch.com/2026/08/13/openai-hires-new-cro-as-executive-shake-up-continues/"
@@ -14,6 +84,13 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-08-13T16:27:32+00:00",
       "link": "https://the-decoder.com/deepseek-launches-an-improved-v4-pro-model-raises-api-prices-and-makes-its-agent-software-open-source/"
+    },
+    {
+      "title": "AI At Home Part 1: A Box Of Scraps",
+      "summary": "Article URL: https://jdagostino.github.io/ai-pt1-box-o-scraps/index.html Comments URL: https://news.ycombinator.com/item?id=49288293 Points: 64 # Comments: 35",
+      "source": "Hacker News",
+      "published": "2026-08-13T16:22:05+00:00",
+      "link": "https://jdagostino.github.io/ai-pt1-box-o-scraps/index.html"
     },
     {
       "title": "Suno is trying to look more like a real music production tool",
@@ -44,6 +121,13 @@ const FEED_DATA = {
       "link": "https://techcrunch.com/2026/08/13/nvidias-new-500b-plan-is-risky-but-brilliant-especially-for-aging-gpus/"
     },
     {
+      "title": "Text AI watermarks will always be trivial to remove",
+      "summary": "Article URL: https://www.seangoedecke.com/text-ai-watermarks/ Comments URL: https://news.ycombinator.com/item?id=49287153 Points: 59 # Comments: 62",
+      "source": "Hacker News",
+      "published": "2026-08-13T15:07:10+00:00",
+      "link": "https://www.seangoedecke.com/text-ai-watermarks/"
+    },
+    {
       "title": "Ling 3.0 Flash is the smartest open model at its size",
       "summary": "Ling 3.0 Flash is the smartest open model in its size class. The article Ling 3.0 Flash is the smartest open model at its size appeared first on The Decoder.",
       "source": "The Decoder",
@@ -65,8 +149,15 @@ const FEED_DATA = {
       "link": "https://www.theverge.com/tech/979466/microsoft-copilot-365-app-unified-experience"
     },
     {
+      "title": "AI agents lie, cheat and steal. That is putting off users",
+      "summary": "Article URL: https://www.economist.com/business/2026/08/12/ai-agents-lie-cheat-and-steal-that-is-putting-off-users Comments URL: https://news.ycombinator.com/item?id=49285604 Points: 150 # Comments: 188",
+      "source": "Hacker News",
+      "published": "2026-08-13T13:28:45+00:00",
+      "link": "https://www.economist.com/business/2026/08/12/ai-agents-lie-cheat-and-steal-that-is-putting-off-users"
+    },
+    {
       "title": "Choosing an AI model: one prompt, 11 models, different results",
-      "summary": "Article URL: https://www.netlify.com/blog/one-prompt-11-models-very-different-results/ Comments URL: https://news.ycombinator.com/item?id=49285327 Points: 64 # Comments: 36",
+      "summary": "Article URL: https://www.netlify.com/blog/one-prompt-11-models-very-different-results/ Comments URL: https://news.ycombinator.com/item?id=49285327 Points: 156 # Comments: 66",
       "source": "Hacker News",
       "published": "2026-08-13T13:05:29+00:00",
       "link": "https://www.netlify.com/blog/one-prompt-11-models-very-different-results/"
@@ -206,7 +297,7 @@ const FEED_DATA = {
     },
     {
       "title": "Grok 4.6 scores 61 on the Artificial Analysis Intelligence Index",
-      "summary": "Article URL: https://artificialanalysis.ai/articles/grok-4-6-benchmarks-and-analysis Comments URL: https://news.ycombinator.com/item?id=49275385 Points: 335 # Comments: 386",
+      "summary": "Article URL: https://artificialanalysis.ai/articles/grok-4-6-benchmarks-and-analysis Comments URL: https://news.ycombinator.com/item?id=49275385 Points: 336 # Comments: 396",
       "source": "Hacker News",
       "published": "2026-08-12T16:54:25+00:00",
       "link": "https://artificialanalysis.ai/articles/grok-4-6-benchmarks-and-analysis"
@@ -283,14 +374,14 @@ const FEED_DATA = {
     },
     {
       "title": "German advocacy group lodges criminal complaint over Meta AI glasses",
-      "summary": "Article URL: https://www.reuters.com/legal/government/german-advocacy-group-lodges-criminal-complaint-over-meta-ai-glasses-2026-08-12/ Comments URL: https://news.ycombinator.com/item?id=49272620 Points: 117 # Comments: 48",
+      "summary": "Article URL: https://www.reuters.com/legal/government/german-advocacy-group-lodges-criminal-complaint-over-meta-ai-glasses-2026-08-12/ Comments URL: https://news.ycombinator.com/item?id=49272620 Points: 117 # Comments: 50",
       "source": "Hacker News",
       "published": "2026-08-12T14:06:03+00:00",
       "link": "https://www.reuters.com/legal/government/german-advocacy-group-lodges-criminal-complaint-over-meta-ai-glasses-2026-08-12/"
     },
     {
       "title": "Someone is running mass vulnerability scans, spoofing AI bots like ClaudeBot",
-      "summary": "Article URL: https://knownagents.com/insights Comments URL: https://news.ycombinator.com/item?id=49272569 Points: 291 # Comments: 222",
+      "summary": "Article URL: https://knownagents.com/insights Comments URL: https://news.ycombinator.com/item?id=49272569 Points: 300 # Comments: 224",
       "source": "Hacker News",
       "published": "2026-08-12T14:02:46+00:00",
       "link": "https://knownagents.com/insights"
@@ -318,7 +409,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI is removing the middle class of software engineering?",
-      "summary": "Article URL: https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html Comments URL: https://news.ycombinator.com/item?id=49271994 Points: 930 # Comments: 842",
+      "summary": "Article URL: https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html Comments URL: https://news.ycombinator.com/item?id=49271994 Points: 956 # Comments: 881",
       "source": "Hacker News",
       "published": "2026-08-12T13:20:05+00:00",
       "link": "https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html"
@@ -402,7 +493,7 @@ const FEED_DATA = {
     },
     {
       "title": "Company Offering '100% Human-Written, Never AI' Medical Research Is 100% AI",
-      "summary": "Article URL: https://www.404media.co/company-offering-100-human-written-never-ai-peer-review-is-entirely-ai/ Comments URL: https://news.ycombinator.com/item?id=49267057 Points: 195 # Comments: 48",
+      "summary": "Article URL: https://www.404media.co/company-offering-100-human-written-never-ai-peer-review-is-entirely-ai/ Comments URL: https://news.ycombinator.com/item?id=49267057 Points: 196 # Comments: 49",
       "source": "Hacker News",
       "published": "2026-08-12T02:05:42+00:00",
       "link": "https://www.404media.co/company-offering-100-human-written-never-ai-peer-review-is-entirely-ai/"
@@ -500,7 +591,7 @@ const FEED_DATA = {
     },
     {
       "title": "Go is an ideal language for AI-assisted software engineering",
-      "summary": "Article URL: https://developers.googleblog.com/why-go-is-an-ideal-language-for-ai-assisted-software-engineering/ Comments URL: https://news.ycombinator.com/item?id=49261133 Points: 432 # Comments: 522",
+      "summary": "Article URL: https://developers.googleblog.com/why-go-is-an-ideal-language-for-ai-assisted-software-engineering/ Comments URL: https://news.ycombinator.com/item?id=49261133 Points: 434 # Comments: 526",
       "source": "Hacker News",
       "published": "2026-08-11T16:57:09+00:00",
       "link": "https://developers.googleblog.com/why-go-is-an-ideal-language-for-ai-assisted-software-engineering/"
@@ -521,7 +612,7 @@ const FEED_DATA = {
     },
     {
       "title": "Apple Silicon and macOS VMs: Faster LLM Inference with llama.cpp",
-      "summary": "Article URL: https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md Comments URL: https://news.ycombinator.com/item?id=49259339 Points: 304 # Comments: 43",
+      "summary": "Article URL: https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md Comments URL: https://news.ycombinator.com/item?id=49259339 Points: 305 # Comments: 43",
       "source": "Hacker News",
       "published": "2026-08-11T14:50:33+00:00",
       "link": "https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md"
@@ -549,7 +640,7 @@ const FEED_DATA = {
     },
     {
       "title": "Stealing Reasoning Traces from Proprietary LLM APIs",
-      "summary": "Article URL: https://stolen-thoughts.com/ Comments URL: https://news.ycombinator.com/item?id=49257876 Points: 688 # Comments: 302",
+      "summary": "Article URL: https://stolen-thoughts.com/ Comments URL: https://news.ycombinator.com/item?id=49257876 Points: 693 # Comments: 302",
       "source": "Hacker News",
       "published": "2026-08-11T13:22:00+00:00",
       "link": "https://stolen-thoughts.com/"
@@ -632,18 +723,18 @@ const FEED_DATA = {
       "link": "https://www.theverge.com/ai-artificial-intelligence/977273/the-ai-takeover-of-mathematics-has-begun"
     },
     {
-      "title": "AI Is Dead. Organoids Are Alive",
-      "summary": "Mini human brains are being grown in labs all over the world. Soon, they could outthink neural networks.",
-      "source": "Wired",
-      "published": "2026-08-11T10:00:00+00:00",
-      "link": "https://www.wired.com/story/organoids-lab-grown-brains-neural-networks/"
-    },
-    {
       "title": "Novo Nordisk and AWS bring agentic AI into drug discovery",
       "summary": "Novo Nordisk is expanding its use of AWS artificial intelligence tools across drug discovery, including AI agents for target identification, therapy design, and research workflows.",
       "source": "AI News",
       "published": "2026-08-11T10:00:00+00:00",
       "link": "https://www.artificialintelligence-news.com/news/novo-nordisk-ai-drug-discovery-aws/"
+    },
+    {
+      "title": "AI Is Dead. Organoids Are Alive",
+      "summary": "Mini human brains are being grown in labs all over the world. Soon, they could outthink neural networks.",
+      "source": "Wired",
+      "published": "2026-08-11T10:00:00+00:00",
+      "link": "https://www.wired.com/story/organoids-lab-grown-brains-neural-networks/"
     },
     {
       "title": "Nvidia guarantees its own chips' value to unlock $500 billion in AI infrastructure financing",
@@ -689,7 +780,7 @@ const FEED_DATA = {
     },
     {
       "title": "As AI eats the web, the internet’s collective memory is disappearing",
-      "summary": "Article URL: https://thewalrus.ca/google-search-is-dying/ Comments URL: https://news.ycombinator.com/item?id=49250836 Points: 931 # Comments: 969",
+      "summary": "Article URL: https://thewalrus.ca/google-search-is-dying/ Comments URL: https://news.ycombinator.com/item?id=49250836 Points: 933 # Comments: 969",
       "source": "Hacker News",
       "published": "2026-08-10T22:36:30+00:00",
       "link": "https://thewalrus.ca/google-search-is-dying/"
@@ -703,7 +794,7 @@ const FEED_DATA = {
     },
     {
       "title": "How Claude marks AI-generated content",
-      "summary": "Article URL: https://support.claude.com/en/articles/16266773-how-claude-marks-ai-generated-content Comments URL: https://news.ycombinator.com/item?id=49250109 Points: 445 # Comments: 412",
+      "summary": "Article URL: https://support.claude.com/en/articles/16266773-how-claude-marks-ai-generated-content Comments URL: https://news.ycombinator.com/item?id=49250109 Points: 445 # Comments: 414",
       "source": "Hacker News",
       "published": "2026-08-10T21:36:56+00:00",
       "link": "https://support.claude.com/en/articles/16266773-how-claude-marks-ai-generated-content"
@@ -1309,97 +1400,6 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-08-07T16:43:16+00:00",
       "link": "https://the-decoder.com/openais-first-smart-speaker-is-expected-in-2027-at-over-300/"
-    },
-    {
-      "title": "Cloudflare launches Kitesurf, a browser built for AI agents",
-      "summary": "Kitesurf is a cloud-hosted browser designed for AI agents instead of people. It uses less computing power than Chromium for common automation tasks, helping developers build browser-based AI agents more efficiently.",
-      "source": "TechCrunch",
-      "published": "2026-08-07T16:16:09+00:00",
-      "link": "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/"
-    },
-    {
-      "title": "Stanford Evo 2 AI model generates phages against E. coli",
-      "summary": "Stanford researchers have synthesised nearly 300 phages from DNA sequences produced by the Evo 2 generative AI model. Laboratory testing narrowed the group to 16 phages that showed particularly strong E.",
-      "source": "AI News",
-      "published": "2026-08-07T15:05:03+00:00",
-      "link": "https://www.artificialintelligence-news.com/news/stanford-evo-2-ai-model-generates-phages-against-e-coli/"
-    },
-    {
-      "title": "How AI Is changing Instagram engagement without replacing the human touch",
-      "summary": "Every post you see, every Reel that autoplays, and every ‘Explore’ page suggestion on Instagram is now decided by its AI system. With over three billion people using it, that’s not a small detail; it’s the whole algorithm.",
-      "source": "AI News",
-      "published": "2026-08-07T14:33:59+00:00",
-      "link": "https://www.artificialintelligence-news.com/news/how-ai-is-changing-instagram-engagement-without-replacing-the-human-touch/"
-    },
-    {
-      "title": "Airbnb says AI is helping it ship features faster as it tests a new search function",
-      "summary": "Airbnb will debut a new AI-powered search experience with a toggle.",
-      "source": "TechCrunch",
-      "published": "2026-08-07T14:22:49+00:00",
-      "link": "https://techcrunch.com/2026/08/07/airbnb-says-ai-is-helping-it-ship-features-faster-as-it-tests-a-new-search-function/"
-    },
-    {
-      "title": "The Download: a censorship conspiracy theory and the first virus created by AI",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.",
-      "source": "MIT Tech Review",
-      "published": "2026-08-07T14:20:00+00:00",
-      "link": "https://www.technologyreview.com/2026/08/07/1141389/the-download-censorship-conspiracy-theory-first-ai-virus/"
-    },
-    {
-      "title": "Scientists Used AI to Create 16 New Viruses",
-      "summary": "The use of AI systems to create viruses opens up new possibilities for combating bacterial resistance. It also raises concerns about the pace at which technology is outstripping regulation.",
-      "source": "Wired",
-      "published": "2026-08-07T14:13:57+00:00",
-      "link": "https://www.wired.com/story/scientists-used-ai-to-create-16-new-viruses/"
-    },
-    {
-      "title": "How ideas of a vast censorship network moved from the online fringe to Trump policy",
-      "summary": "This article was produced in partnership with Type Investigations, with support from the Wayne Barrett Project. One morning in April 2025, employees of a small office in the US State Department got the email many of them had been dreading.",
-      "source": "MIT Tech Review",
-      "published": "2026-08-07T14:00:00+00:00",
-      "link": "https://www.technologyreview.com/2026/08/07/1141105/how-ideas-of-a-vast-censorship-network-moved-from-the-online-fringe-to-trump-policy/"
-    },
-    {
-      "title": "AI psychosis is the new leadership blind spot",
-      "summary": "Article URL: https://www.fastcompany.com/91576086/ai-psychosis-is-the-new-leadership-blind-spot-ai-leadership-blind-spots Comments URL: https://news.ycombinator.com/item?id=49210077 Points: 174 # Comments: 106",
-      "source": "Hacker News",
-      "published": "2026-08-07T13:27:30+00:00",
-      "link": "https://www.fastcompany.com/91576086/ai-psychosis-is-the-new-leadership-blind-spot-ai-leadership-blind-spots"
-    },
-    {
-      "title": "China's Largest AI Model Is Being Developed at Bytedance",
-      "summary": "Bytedance is training an AI model with up to ten trillion parameters, according to the Financial Times. That's three times the size of Moonshot's Kimi K3, currently the largest Chinese model.",
-      "source": "The Decoder",
-      "published": "2026-08-07T12:54:17+00:00",
-      "link": "https://the-decoder.com/chinas-largest-ai-model-is-being-developed-at-bytedance/"
-    },
-    {
-      "title": "Stanford and Arc Institute scientists used AI to design new viruses that killed bacteria in the lab",
-      "summary": "A research team in California has used artificial intelligence to design working viruses that kill bacteria, in what they describe as the \"first generative design of complete genomes.\" The project marks an early step toward AI-designed life forms, according to a report in MIT...",
-      "source": "The Decoder",
-      "published": "2026-08-07T12:50:56+00:00",
-      "link": "https://the-decoder.com/stanford-and-arc-institute-scientists-used-ai-to-design-new-viruses-that-killed-bacteria-in-the-lab/"
-    },
-    {
-      "title": "OpenAI's hockey-puck-sized smart speaker with moving parts is set to ship in 2027",
-      "summary": "OpenAI's planned smart speaker is taking shape. The company's first hardware device will be donut-shaped, roughly the size of a hockey puck, and priced above $300, according to Bloomberg.",
-      "source": "The Decoder",
-      "published": "2026-08-07T12:45:32+00:00",
-      "link": "https://the-decoder.com/openais-hockey-puck-sized-smart-speaker-with-moving-parts-is-set-to-ship-in-2027/"
-    },
-    {
-      "title": "New Mexico court orders Meta to pay additional $567M in child safety case",
-      "summary": "Meta's total fine has racked up to $942 million in this case.",
-      "source": "TechCrunch",
-      "published": "2026-08-07T11:40:37+00:00",
-      "link": "https://techcrunch.com/2026/08/07/new-mexico-court-orders-meta-to-pay-additional-567m-in-child-safety-case/"
-    },
-    {
-      "title": "Alibaba tests new business model for Qwen open-source AI",
-      "summary": "Alibaba plans to introduce revenue-sharing terms for some commercial users of its next Qwen open-weight AI model, Reuters reported, citing two people familiar with the company’s plans.",
-      "source": "AI News",
-      "published": "2026-08-07T10:00:00+00:00",
-      "link": "https://www.artificialintelligence-news.com/news/alibaba-qwen-open-source-ai-revenue-sharing/"
     }
   ]
 };
