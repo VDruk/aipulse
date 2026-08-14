@@ -1,12 +1,89 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-08-14T14:15:59.242000+00:00",
+  "lastUpdated": "2026-08-14T17:48:51.209091+00:00",
   "items": [
+    {
+      "title": "Alibaba's Qwen team releases Qwen 3.8 models with open weights under the Apache 2.0 license",
+      "summary": "Alibaba's AI team Qwen has released new open model weights under the Apache 2.0 license with Qwen 3.8. The dense 27-billion-parameter model is designed to outperform the larger Qwen 3.7 Plus in coding and office tasks and natively processes up to 262,000 tokens of context.",
+      "source": "The Decoder",
+      "published": "2026-08-14T17:01:54+00:00",
+      "link": "https://the-decoder.com/alibabas-qwen-team-releases-qwen-3-8-models-with-open-weights-under-the-apache-2-0-license/"
+    },
+    {
+      "title": "OpenAI's Computer History turns your clicks and keystrokes into a searchable ChatGPT memory timeline",
+      "summary": "OpenAI's Computer History records clicks, keystrokes, and app switches on Mac and turns them into a searchable timeline for ChatGPT and Codex. The data is stored locally as unencrypted Markdown files.",
+      "source": "The Decoder",
+      "published": "2026-08-14T16:43:43+00:00",
+      "link": "https://the-decoder.com/openais-computer-history-turns-your-clicks-and-keystrokes-into-a-searchable-chatgpt-memory-timeline/"
+    },
+    {
+      "title": "You can now turn off Google Gemini’s visible watermarks",
+      "summary": "Google will now allow you to remove visible watermarks from the images, videos, and music made with AI tools. With the update, you can toggle off a new \"Media watermark\" setting in Gemini and Google's AI video generator, Flow.",
+      "source": "The Verge",
+      "published": "2026-08-14T16:39:32+00:00",
+      "link": "https://www.theverge.com/tech/980416/google-gemini-ai-watermarks-removal"
+    },
+    {
+      "title": "Google will now allow users to remove visible watermark from its AI generations",
+      "summary": "Turning off this setting won't affect invisible benchmarks used to identify an AI generated file.",
+      "source": "TechCrunch",
+      "published": "2026-08-14T16:13:40+00:00",
+      "link": "https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations/"
+    },
+    {
+      "title": "Study contradicts Anthropic and OpenAI claims that autonomous AI research is within reach",
+      "summary": "AI agents using Claude Opus 4.8 and GPT-5.6 Sol were given six days, $3,000 in API credits, and GPU access to independently write AI research papers.",
+      "source": "The Decoder",
+      "published": "2026-08-14T16:06:32+00:00",
+      "link": "https://the-decoder.com/study-contradicts-anthropic-and-openai-claims-that-autonomous-ai-research-is-within-reach/"
+    },
+    {
+      "title": "Does Mark Zuckerberg really believe AI is ‘for everyone’?",
+      "summary": "Meta released Glimmer this week, an open-weight AI model anyone can download and run on their own hardware — a contrast to Muse Spark, the company’s more powerful model that stays locked behind its own APIs.",
+      "source": "TechCrunch",
+      "published": "2026-08-14T15:43:28+00:00",
+      "link": "https://techcrunch.com/video/does-mark-zuckerberg-really-believe-ai-is-for-everyone/"
+    },
+    {
+      "title": "Tech Visionary Says the Big AI Labs Don’t Get What People Want",
+      "summary": "Tim O’Reilly built a publishing empire that AI is helping to destroy. Yet he loves AI—as long as it’s open source.",
+      "source": "Wired",
+      "published": "2026-08-14T15:00:00+00:00",
+      "link": "https://www.wired.com/story/tech-visionary-says-the-big-ai-labs-dont-get-what-people-want/"
+    },
+    {
+      "title": "Kog is going deeper to squeeze more inference out of GPUs",
+      "summary": "The idea that GPUs are poorly suited for agentic workflows may be a misconception, according to French startup Kog.",
+      "source": "TechCrunch",
+      "published": "2026-08-14T14:50:11+00:00",
+      "link": "https://techcrunch.com/2026/08/14/kog-is-going-deeper-to-squeeze-more-inference-out-of-gpus/"
+    },
+    {
+      "title": "OpenAI and Anthropic in price war as Chinese AI rivals gain ground",
+      "summary": "US groups release cheaper models after new challenges to their trillion-dollar ambitions.",
+      "source": "Ars Technica",
+      "published": "2026-08-14T14:27:14+00:00",
+      "link": "https://arstechnica.com/ai/2026/08/openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain-ground/"
+    },
+    {
+      "title": "GPT-5.6 Sol goes 14x faster as OpenAI launches Ultrafast mode powered by Cerebras",
+      "summary": "OpenAI is launching \"Ultrafast,\" a new inference mode that delivers GPT-5.6 Sol at up to 750 output tokens per second, powered by Cerebras hardware from their $10 billion partnership.",
+      "source": "The Decoder",
+      "published": "2026-08-14T14:21:50+00:00",
+      "link": "https://the-decoder.com/gpt-5-6-sol-goes-14x-faster-as-openai-launches-ultrafast-mode-powered-by-cerebras/"
+    },
     {
       "title": "Hyperscalers might regret embracing natural gas if new forecast proves correct",
       "summary": "Natural gas prices could triple in some parts of the U.S., which could saddle hyperscalers with massive bills to power their AI data centers.",
       "source": "TechCrunch",
       "published": "2026-08-14T14:05:00+00:00",
       "link": "https://techcrunch.com/2026/08/14/hyperscalers-might-regret-embracing-natural-gas-if-new-forecast-proves-correct/"
+    },
+    {
+      "title": "Meta’s ‘open’ AI, and a $250M deal gone very wrong",
+      "summary": "Meta released Glimmer this week, an open-weight AI model anyone can download and run on their own hardware — a contrast to Muse Spark, the company’s more powerful model that stays locked behind its own APIs.",
+      "source": "TechCrunch",
+      "published": "2026-08-14T14:00:00+00:00",
+      "link": "https://techcrunch.com/podcast/metas-open-ai-and-a-250m-deal-gone-very-wrong/"
     },
     {
       "title": "Samsung health AI models analyse wearable biosignal data",
@@ -520,18 +597,18 @@ const FEED_DATA = {
       "link": "https://knownagents.com/insights"
     },
     {
-      "title": "Google’s Pixel Watch 5 dives deeper into AI and health",
-      "summary": "The $399 Google Pixel Watch 5 isn't about the hardware. Sure, there's a new satin pyrite case finish, a few new strap colors, and a Steph Curry Special Edition.",
-      "source": "The Verge",
-      "published": "2026-08-12T14:00:00+00:00",
-      "link": "https://www.theverge.com/tech/978094/pixel-watch-5-hands-on-made-by-google-gemini-wearables-smartwatch"
-    },
-    {
       "title": "4 New Camera Tricks on Google’s Latest Pixel 11 Smartphones",
       "summary": "From Magic Capture and Instant Night Sight to a built-in teleprompter, here’s a look at a few camera features on Google’s new Pixel 11 series.",
       "source": "Wired",
       "published": "2026-08-12T14:00:00+00:00",
       "link": "https://www.wired.com/story/new-camera-tricks-on-google-latest-pixel-11-smartphones/"
+    },
+    {
+      "title": "Google’s Pixel Watch 5 dives deeper into AI and health",
+      "summary": "The $399 Google Pixel Watch 5 isn't about the hardware. Sure, there's a new satin pyrite case finish, a few new strap colors, and a Steph Curry Special Edition.",
+      "source": "The Verge",
+      "published": "2026-08-12T14:00:00+00:00",
+      "link": "https://www.theverge.com/tech/978094/pixel-watch-5-hands-on-made-by-google-gemini-wearables-smartwatch"
     },
     {
       "title": "Legal startup founder Robert Mahari joins Anthropic to lead Claude's push into law practices",
@@ -1323,83 +1400,6 @@ const FEED_DATA = {
       "source": "Wired",
       "published": "2026-08-09T09:30:00+00:00",
       "link": "https://www.wired.com/story/ai-billionaires-are-pledging-their-wealth-good-or-bad/"
-    },
-    {
-      "title": "AI's energy appetite drives Nvidia and Amazon to pour billions into massive power infrastructure",
-      "summary": "The AI industry's hunger for power keeps growing. Nvidia is investing up to $3 billion in Lancium, a power infrastructure developer that already has four gigawatts under contract in Texas.",
-      "source": "The Decoder",
-      "published": "2026-08-09T09:26:28+00:00",
-      "link": "https://the-decoder.com/ais-energy-appetite-drives-nvidia-and-amazon-to-pour-billions-into-massive-power-infrastructure/"
-    },
-    {
-      "title": "Google dismantles Deepmind and bets on a fresh start as Hassabis heads for the exit",
-      "summary": "Google Deepmind is losing its autonomy, and founder Demis Hassabis may leave the AI lab for good in the coming months. AI researcher Koray Kavukcuoglu will take over day-to-day operations without the CEO title, and all Gemini development is moving to the Bay Area.",
-      "source": "The Decoder",
-      "published": "2026-08-09T08:56:12+00:00",
-      "link": "https://the-decoder.com/google-dismantles-deepmind-and-bets-on-a-fresh-start-as-hassabis-heads-for-the-exit/"
-    },
-    {
-      "title": "SAP stops most travel and hiring because of AI's soaring cost",
-      "summary": "Article URL: https://www.404media.co/software-giant-sap-stops-most-travel-and-hiring-because-of-ais-soaring-cost/ Comments URL: https://news.ycombinator.com/item?id=49229412 Points: 100 # Comments: 69",
-      "source": "Hacker News",
-      "published": "2026-08-09T08:00:51+00:00",
-      "link": "https://www.404media.co/software-giant-sap-stops-most-travel-and-hiring-because-of-ais-soaring-cost/"
-    },
-    {
-      "title": "Software Giant SAP Stops Most Travel and Hiring Because of AI's Soaring Cost",
-      "summary": "Article URL: https://www.404media.co/software-giant-sap-stops-most-travel-and-hiring-because-of-ais-soaring-cost/ Comments URL: https://news.ycombinator.com/item?id=49229412 Points: 69 # Comments: 45",
-      "source": "Hacker News",
-      "published": "2026-08-09T08:00:51+00:00",
-      "link": "https://www.404media.co/software-giant-sap-stops-most-travel-and-hiring-because-of-ais-soaring-cost/"
-    },
-    {
-      "title": "Planned Amazon data center could become the biggest climate polluter in the US",
-      "summary": "AI has already had a significant impact on Amazon’s carbon emissions, which it reported were up 16% last year — the wrong direction for a company that pledged to eliminate its carbon emissions by 2040.",
-      "source": "TechCrunch",
-      "published": "2026-08-08T21:24:02+00:00",
-      "link": "https://techcrunch.com/2026/08/08/planned-amazon-data-center-could-become-the-biggest-climate-polluter-in-the-u-s/"
-    },
-    {
-      "title": "OpenAI acquires presentation startup NextSlide",
-      "summary": "Founder Ahmed Beshry describes the startup’s product as one “that could turn prompts, notes, documents, or research into a polished, editable presentation.”",
-      "source": "TechCrunch",
-      "published": "2026-08-08T19:41:13+00:00",
-      "link": "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/"
-    },
-    {
-      "title": "Anthropic sets Claude Code to Auto Mode by default to protect developers from bad approvals",
-      "summary": "Starting August 14, Anthropic will make Auto Mode in Claude Code the default for Pro, Max, and Team plans. The company says it's safer.",
-      "source": "The Decoder",
-      "published": "2026-08-08T14:58:57+00:00",
-      "link": "https://the-decoder.com/anthropic-sets-claude-code-to-auto-mode-by-default-to-protect-developers-from-bad-approvals/"
-    },
-    {
-      "title": "Readers rate AI-generated short stories higher than human ones until they learn a machine wrote them",
-      "summary": "People can't tell ChatGPT-generated short stories from human-written ones, according to a new study. More than 2,500 participants performed no better than chance.",
-      "source": "The Decoder",
-      "published": "2026-08-08T14:18:55+00:00",
-      "link": "https://the-decoder.com/readers-rate-ai-generated-short-stories-higher-than-human-ones-until-they-learn-a-machine-wrote-them/"
-    },
-    {
-      "title": "Gentoo bugzilla closed due AI bot scraper overload",
-      "summary": "Article URL: https://social.treehouse.systems/@mgorny/117058483039362779 Comments URL: https://news.ycombinator.com/item?id=49221864 Points: 172 # Comments: 113",
-      "source": "Hacker News",
-      "published": "2026-08-08T13:55:42+00:00",
-      "link": "https://social.treehouse.systems/@mgorny/117058483039362779"
-    },
-    {
-      "title": "Claude Code sessions can now talk to each other and share context across terminals",
-      "summary": "Claude Code now lets sessions talk to each other. On macOS and Linux, instances running in parallel can send messages, share insights, and check on each other's status.",
-      "source": "The Decoder",
-      "published": "2026-08-08T12:28:36+00:00",
-      "link": "https://the-decoder.com/claude-code-sessions-can-now-talk-to-each-other-and-share-context-across-terminals/"
-    },
-    {
-      "title": "Backflip AI turns 3D scans into editable CAD models in minutes instead of hours",
-      "summary": "Backflip AI has released an AI model that converts 3D scans into fully editable, parametric CAD models, a process that normally takes significant time and expertise. According to CEO Greg Mark, most factories have digital models for less than one percent of their parts.",
-      "source": "The Decoder",
-      "published": "2026-08-08T11:26:35+00:00",
-      "link": "https://the-decoder.com/backflip-ai-turns-3d-scans-into-editable-cad-models-in-minutes-instead-of-hours/"
     }
   ]
 };
