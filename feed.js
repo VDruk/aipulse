@@ -1,6 +1,62 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-08-14T09:48:24.545228+00:00",
+  "lastUpdated": "2026-08-14T14:15:59.242000+00:00",
   "items": [
+    {
+      "title": "Hyperscalers might regret embracing natural gas if new forecast proves correct",
+      "summary": "Natural gas prices could triple in some parts of the U.S., which could saddle hyperscalers with massive bills to power their AI data centers.",
+      "source": "TechCrunch",
+      "published": "2026-08-14T14:05:00+00:00",
+      "link": "https://techcrunch.com/2026/08/14/hyperscalers-might-regret-embracing-natural-gas-if-new-forecast-proves-correct/"
+    },
+    {
+      "title": "Samsung health AI models analyse wearable biosignal data",
+      "summary": "Samsung Research America’s Digital Health Team has presented two AI foundation models designed to learn from wearable biosignals. The work centres on data captured by smartwatches, including heart activity, sleep, and physical activity.",
+      "source": "AI News",
+      "published": "2026-08-14T13:30:10+00:00",
+      "link": "https://www.artificialintelligence-news.com/news/samsung-health-ai-models-analyse-wearable-biosignal-data/"
+    },
+    {
+      "title": "The Download: Flock’s new rules, cloning’s future, and children’s cells",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.",
+      "source": "MIT Tech Review",
+      "published": "2026-08-14T12:17:21+00:00",
+      "link": "https://www.technologyreview.com/2026/08/14/1142033/the-download-flock-new-rules-cloning-future/"
+    },
+    {
+      "title": "Claude Code now runs daily maintenance on Anthropic's software with a 46 percent merge rate",
+      "summary": "Anthropic is testing whether Claude Code can handle daily maintenance of the company's own apps, from crash fuzzing to dead-code removal. In a few weeks, the AI created 388 pull requests, and 46 percent were merged after human review.",
+      "source": "The Decoder",
+      "published": "2026-08-14T11:44:38+00:00",
+      "link": "https://the-decoder.com/claude-code-now-runs-daily-maintenance-on-anthropics-software-with-a-46-percent-merge-rate/"
+    },
+    {
+      "title": "These ‘Masturbation Consultants’ Were Hired to Pleasure Themselves With AI",
+      "summary": "Joi AI hired 10 people to masturbate using AI companions as part of a monthlong “wellness” study. The company claims the practice could help “solve male loneliness.”",
+      "source": "Wired",
+      "published": "2026-08-14T10:45:00+00:00",
+      "link": "https://www.wired.com/story/these-masturbation-consultants-were-hired-to-pleasure-themselves-using-ai/"
+    },
+    {
+      "title": "Zhipu AI releases GLM-5.3, claims it's the strongest open-weights coding model",
+      "summary": "Zhipu AI has released GLM-5.3, a model that, according to its own benchmarks, is the most powerful open-weights coding model, with a 50 percent improvement over its predecessor through post-training alone.",
+      "source": "The Decoder",
+      "published": "2026-08-14T10:21:34+00:00",
+      "link": "https://the-decoder.com/zhipu-ai-releases-glm-5-3-claims-its-the-strongest-open-weights-coding-model/"
+    },
+    {
+      "title": "People Are ‘Marrying’ Chatbots. These Lawmakers Want to Stop Them",
+      "summary": "Human-AI marriages are not currently recognized by US law. Some Republican state policymakers are drafting legislation to keep it that way.",
+      "source": "Wired",
+      "published": "2026-08-14T10:15:00+00:00",
+      "link": "https://www.wired.com/story/people-are-marrying-chatbots-these-lawmakers-want-to-stop-them/"
+    },
+    {
+      "title": "Google AI health coach to use Abbott glucose data",
+      "summary": "Abbott and Google are linking continuous glucose monitoring data with Google’s AI-powered health coaching tools, giving the Gemini-powered service access to another source of personal health information.",
+      "source": "AI News",
+      "published": "2026-08-14T10:00:00+00:00",
+      "link": "https://www.artificialintelligence-news.com/news/google-ai-health-coach-abbott-glucose-data/"
+    },
     {
       "title": "Apple trained its own AI model for China with help from Alibaba",
       "summary": "Apple has reportedly trained a custom AI model for the China market alongside domestic tech giant Alibaba, a rare cross-border partnership that cuts across growing tensions between Beijing and Washington.",
@@ -24,7 +80,7 @@ const FEED_DATA = {
     },
     {
       "title": "How AI text watermarking works",
-      "summary": "Article URL: https://declaude.org/watermarking/ Comments URL: https://news.ycombinator.com/item?id=49292932 Points: 113 # Comments: 86",
+      "summary": "Article URL: https://declaude.org/watermarking/ Comments URL: https://news.ycombinator.com/item?id=49292932 Points: 121 # Comments: 91",
       "source": "Hacker News",
       "published": "2026-08-13T23:16:55+00:00",
       "link": "https://declaude.org/watermarking/"
@@ -87,7 +143,7 @@ const FEED_DATA = {
     },
     {
       "title": "How Organizations Use AI: Evidence from ChatGPT [pdf]",
-      "summary": "Article URL: https://cdn.openai.com/pdf/how-organizations-use-chatgpt.pdf Comments URL: https://news.ycombinator.com/item?id=49290768 Points: 109 # Comments: 66",
+      "summary": "Article URL: https://cdn.openai.com/pdf/how-organizations-use-chatgpt.pdf Comments URL: https://news.ycombinator.com/item?id=49290768 Points: 120 # Comments: 94",
       "source": "Hacker News",
       "published": "2026-08-13T19:25:38+00:00",
       "link": "https://cdn.openai.com/pdf/how-organizations-use-chatgpt.pdf"
@@ -108,7 +164,7 @@ const FEED_DATA = {
     },
     {
       "title": "Person Hides Prompt Injection in Legal Filing Telling AI to Side with Them",
-      "summary": "Article URL: https://www.404media.co/person-hides-prompt-injection-in-legal-filing-telling-ai-to-side-with-them/ Comments URL: https://news.ycombinator.com/item?id=49290521 Points: 51 # Comments: 14",
+      "summary": "Article URL: https://www.404media.co/person-hides-prompt-injection-in-legal-filing-telling-ai-to-side-with-them/ Comments URL: https://news.ycombinator.com/item?id=49290521 Points: 52 # Comments: 15",
       "source": "Hacker News",
       "published": "2026-08-13T19:04:52+00:00",
       "link": "https://www.404media.co/person-hides-prompt-injection-in-legal-filing-telling-ai-to-side-with-them/"
@@ -136,7 +192,7 @@ const FEED_DATA = {
     },
     {
       "title": "Accelerating GPT-5.6 Sol Ultrafast",
-      "summary": "Article URL: https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai Comments URL: https://news.ycombinator.com/item?id=49289844 Points: 599 # Comments: 239",
+      "summary": "Article URL: https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai Comments URL: https://news.ycombinator.com/item?id=49289844 Points: 663 # Comments: 259",
       "source": "Hacker News",
       "published": "2026-08-13T18:10:02+00:00",
       "link": "https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai"
@@ -157,7 +213,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI At Home Part 1: A Box Of Scraps",
-      "summary": "Article URL: https://jdagostino.github.io/ai-pt1-box-o-scraps/index.html Comments URL: https://news.ycombinator.com/item?id=49288293 Points: 118 # Comments: 55",
+      "summary": "Article URL: https://jdagostino.github.io/ai-pt1-box-o-scraps/index.html Comments URL: https://news.ycombinator.com/item?id=49288293 Points: 121 # Comments: 56",
       "source": "Hacker News",
       "published": "2026-08-13T16:22:05+00:00",
       "link": "https://jdagostino.github.io/ai-pt1-box-o-scraps/index.html"
@@ -192,7 +248,7 @@ const FEED_DATA = {
     },
     {
       "title": "Text AI watermarks will always be trivial to remove",
-      "summary": "Article URL: https://www.seangoedecke.com/text-ai-watermarks/ Comments URL: https://news.ycombinator.com/item?id=49287153 Points: 123 # Comments: 137",
+      "summary": "Article URL: https://www.seangoedecke.com/text-ai-watermarks/ Comments URL: https://news.ycombinator.com/item?id=49287153 Points: 134 # Comments: 161",
       "source": "Hacker News",
       "published": "2026-08-13T15:07:10+00:00",
       "link": "https://www.seangoedecke.com/text-ai-watermarks/"
@@ -220,14 +276,14 @@ const FEED_DATA = {
     },
     {
       "title": "AI agents lie, cheat and steal. That is putting off users",
-      "summary": "Article URL: https://www.economist.com/business/2026/08/12/ai-agents-lie-cheat-and-steal-that-is-putting-off-users Comments URL: https://news.ycombinator.com/item?id=49285604 Points: 161 # Comments: 199",
+      "summary": "Article URL: https://www.economist.com/business/2026/08/12/ai-agents-lie-cheat-and-steal-that-is-putting-off-users Comments URL: https://news.ycombinator.com/item?id=49285604 Points: 163 # Comments: 199",
       "source": "Hacker News",
       "published": "2026-08-13T13:28:45+00:00",
       "link": "https://www.economist.com/business/2026/08/12/ai-agents-lie-cheat-and-steal-that-is-putting-off-users"
     },
     {
       "title": "Choosing an AI model: one prompt, 11 models, different results",
-      "summary": "Article URL: https://www.netlify.com/blog/one-prompt-11-models-very-different-results/ Comments URL: https://news.ycombinator.com/item?id=49285327 Points: 205 # Comments: 87",
+      "summary": "Article URL: https://www.netlify.com/blog/one-prompt-11-models-very-different-results/ Comments URL: https://news.ycombinator.com/item?id=49285327 Points: 208 # Comments: 89",
       "source": "Hacker News",
       "published": "2026-08-13T13:05:29+00:00",
       "link": "https://www.netlify.com/blog/one-prompt-11-models-very-different-results/"
@@ -262,7 +318,7 @@ const FEED_DATA = {
     },
     {
       "title": "Can I use my Outputs to train an AI model?",
-      "summary": "Article URL: https://support.claude.com/en/articles/12326764-can-i-use-my-outputs-to-train-an-ai-model Comments URL: https://news.ycombinator.com/item?id=49283563 Points: 89 # Comments: 84",
+      "summary": "Article URL: https://support.claude.com/en/articles/12326764-can-i-use-my-outputs-to-train-an-ai-model Comments URL: https://news.ycombinator.com/item?id=49283563 Points: 90 # Comments: 84",
       "source": "Hacker News",
       "published": "2026-08-13T09:34:13+00:00",
       "link": "https://support.claude.com/en/articles/12326764-can-i-use-my-outputs-to-train-an-ai-model"
@@ -374,7 +430,7 @@ const FEED_DATA = {
     },
     {
       "title": "Grok 4.6 scores 61 on the Artificial Analysis Intelligence Index",
-      "summary": "Article URL: https://artificialanalysis.ai/articles/grok-4-6-benchmarks-and-analysis Comments URL: https://news.ycombinator.com/item?id=49275385 Points: 337 # Comments: 402",
+      "summary": "Article URL: https://artificialanalysis.ai/articles/grok-4-6-benchmarks-and-analysis Comments URL: https://news.ycombinator.com/item?id=49275385 Points: 339 # Comments: 407",
       "source": "Hacker News",
       "published": "2026-08-12T16:54:25+00:00",
       "link": "https://artificialanalysis.ai/articles/grok-4-6-benchmarks-and-analysis"
@@ -458,7 +514,7 @@ const FEED_DATA = {
     },
     {
       "title": "Someone is running mass vulnerability scans, spoofing AI bots like ClaudeBot",
-      "summary": "Article URL: https://knownagents.com/insights Comments URL: https://news.ycombinator.com/item?id=49272569 Points: 301 # Comments: 225",
+      "summary": "Article URL: https://knownagents.com/insights Comments URL: https://news.ycombinator.com/item?id=49272569 Points: 301 # Comments: 226",
       "source": "Hacker News",
       "published": "2026-08-12T14:02:46+00:00",
       "link": "https://knownagents.com/insights"
@@ -486,7 +542,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI is removing the middle class of software engineering?",
-      "summary": "Article URL: https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html Comments URL: https://news.ycombinator.com/item?id=49271994 Points: 972 # Comments: 901",
+      "summary": "Article URL: https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html Comments URL: https://news.ycombinator.com/item?id=49271994 Points: 979 # Comments: 904",
       "source": "Hacker News",
       "published": "2026-08-12T13:20:05+00:00",
       "link": "https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html"
@@ -1344,62 +1400,6 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-08-08T11:26:35+00:00",
       "link": "https://the-decoder.com/backflip-ai-turns-3d-scans-into-editable-cad-models-in-minutes-instead-of-hours/"
-    },
-    {
-      "title": "Fields Medalist who published a paper on AI-driven human extinction now works for OpenAI",
-      "summary": "Newly awarded Fields Medalist Jacob Tsimerman is leaving the University of Toronto to join OpenAI and work on AI safety. In a recent paper, he analyzes scenarios where AI could contribute to human extinction and calls for far more investment in safety research.",
-      "source": "The Decoder",
-      "published": "2026-08-08T11:08:48+00:00",
-      "link": "https://the-decoder.com/fields-medalist-who-published-a-paper-on-ai-driven-human-extinction-now-works-for-openai/"
-    },
-    {
-      "title": "Making an AI bid writer refuse to lie",
-      "summary": "Article URL: https://ailucius.com/blog/making-an-ai-bid-writer-refuse-to-lie Comments URL: https://news.ycombinator.com/item?id=49220378 Points: 79 # Comments: 0",
-      "source": "Hacker News",
-      "published": "2026-08-08T10:13:31+00:00",
-      "link": "https://ailucius.com/blog/making-an-ai-bid-writer-refuse-to-lie"
-    },
-    {
-      "title": "How to Disable Gemini in Gmail and Google Docs",
-      "summary": "New AI toolbars and prompts are showing up in Google Docs and Gmail. If you don’t want Gemini’s help in writing documents and emails, here’s how to turn that stuff off.",
-      "source": "Wired",
-      "published": "2026-08-08T10:00:00+00:00",
-      "link": "https://www.wired.com/story/how-to-disable-the-gemini-ai-features-in-gmail-and-google-docs/"
-    },
-    {
-      "title": "AI agents use roughly 600 times more energy than a simple chat prompt",
-      "summary": "Climate scientist Zeke Hausfather tracked his Claude Code usage over eight weeks: 3.2 billion tokens and about 170 kWh of data center electricity. Per prompt, that's roughly 600 times more than a typical AI chat.",
-      "source": "The Decoder",
-      "published": "2026-08-08T09:44:06+00:00",
-      "link": "https://the-decoder.com/ai-agents-use-roughly-600-times-more-energy-than-a-simple-chat-prompt/"
-    },
-    {
-      "title": "xAI's Imagine Image 2.0 lands just behind OpenAI's GPT-Image-2 in Arena benchmarks",
-      "summary": "xAI has released Imagine Image 2.0 as a new image generator for Grok. The model ranks second in the Arena benchmarks, just behind OpenAI's GPT-Image-2.",
-      "source": "The Decoder",
-      "published": "2026-08-08T08:22:39+00:00",
-      "link": "https://the-decoder.com/xais-imagine-image-2-0-lands-just-behind-openais-gpt-image-2-in-arena-benchmarks/"
-    },
-    {
-      "title": "OpenAI flags its new Astra model as potentially reaching the highest cybersecurity risk level for the first time",
-      "summary": "Internal tests of OpenAI's new AI model Astra show cybersecurity capabilities so strong that the company can no longer rule out the highest risk level in its own safety framework. Parts of Astra's development have been paused.",
-      "source": "The Decoder",
-      "published": "2026-08-08T07:21:06+00:00",
-      "link": "https://the-decoder.com/openai-flags-its-new-astra-model-as-potentially-reaching-the-highest-cybersecurity-risk-level-for-the-first-time/"
-    },
-    {
-      "title": "Should AI labs be treated like the owners of dangerous animals?",
-      "summary": "Article URL: https://www.economist.com/science-and-technology/2026/08/06/should-ai-labs-be-treated-like-the-owners-of-dangerous-animals Comments URL: https://news.ycombinator.com/item?id=49217629 Points: 53 # Comments: 58",
-      "source": "Hacker News",
-      "published": "2026-08-08T00:03:31+00:00",
-      "link": "https://www.economist.com/science-and-technology/2026/08/06/should-ai-labs-be-treated-like-the-owners-of-dangerous-animals"
-    },
-    {
-      "title": "OpenAI says it slowed Astra model development over security concerns",
-      "summary": "OpenAI said this model, which is still in development, reached its \"critical cybersecurity threshold,\" meaning it could independently identify and carry out cyberattacks against traditionally well-protected real-world systems.",
-      "source": "TechCrunch",
-      "published": "2026-08-07T22:48:24+00:00",
-      "link": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/"
     }
   ]
 };
