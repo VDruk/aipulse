@@ -1,6 +1,13 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-08-14T03:24:53.353890+00:00",
+  "lastUpdated": "2026-08-14T06:15:21.041652+00:00",
   "items": [
+    {
+      "title": "How AI text watermarking works",
+      "summary": "Article URL: https://declaude.org/watermarking/ Comments URL: https://news.ycombinator.com/item?id=49292932 Points: 105 # Comments: 79",
+      "source": "Hacker News",
+      "published": "2026-08-13T23:16:55+00:00",
+      "link": "https://declaude.org/watermarking/"
+    },
     {
       "title": "The Safety Reckoning Inside OpenAI",
       "summary": "OpenAI’s rogue agent hack was a watershed moment for AI safety and cybersecurity. It also sparked internal questions about the culture that led to it.",
@@ -58,6 +65,13 @@ const FEED_DATA = {
       "link": "https://www.theverge.com/ai-artificial-intelligence/979815/openai-denise-dresser-leaving-executive-departure"
     },
     {
+      "title": "How Organizations Use AI: Evidence from ChatGPT [pdf]",
+      "summary": "Article URL: https://cdn.openai.com/pdf/how-organizations-use-chatgpt.pdf Comments URL: https://news.ycombinator.com/item?id=49290768 Points: 93 # Comments: 50",
+      "source": "Hacker News",
+      "published": "2026-08-13T19:25:38+00:00",
+      "link": "https://cdn.openai.com/pdf/how-organizations-use-chatgpt.pdf"
+    },
+    {
       "title": "OpenAI introduces ‘Ultrafast,’ a new mode that makes GPT-5.6 Sol work at 14x the speed",
       "summary": "OpenAI is launching a preview of a sped up version of its latest, most powerful model, in an effort to court enterprise users.",
       "source": "TechCrunch",
@@ -72,11 +86,25 @@ const FEED_DATA = {
       "link": "https://techcrunch.com/2026/08/13/ibm-partners-with-openai-to-bolster-enterprise-ai-push/"
     },
     {
+      "title": "Person Hides Prompt Injection in Legal Filing Telling AI to Side with Them",
+      "summary": "Article URL: https://www.404media.co/person-hides-prompt-injection-in-legal-filing-telling-ai-to-side-with-them/ Comments URL: https://news.ycombinator.com/item?id=49290521 Points: 50 # Comments: 13",
+      "source": "Hacker News",
+      "published": "2026-08-13T19:04:52+00:00",
+      "link": "https://www.404media.co/person-hides-prompt-injection-in-legal-filing-telling-ai-to-side-with-them/"
+    },
+    {
       "title": "Gemini 3.7 Flash lands with coding gains and undercuts its three-week-old predecessor's price by 50%",
       "summary": "Google shipped Gemini 3.7 Flash just three weeks after 3.6 Flash. The new model is supposed to be Google's most capable workhorse yet for coding and AI agents, and according to the company's own benchmarks, it beats Claude Sonnet 5 and GPT-5.6 Terra at half the price.",
       "source": "The Decoder",
       "published": "2026-08-13T18:41:52+00:00",
       "link": "https://the-decoder.com/gemini-3-7-flash-lands-with-coding-gains-and-undercuts-its-three-week-old-predecessors-price-by-50/"
+    },
+    {
+      "title": "AI Is Threatening Natural Resources for Billions",
+      "summary": "Article URL: https://unric.org/en/ais-environmental-costs-threaten-water-land-and-climate/ Comments URL: https://news.ycombinator.com/item?id=49290062 Points: 53 # Comments: 53",
+      "source": "Hacker News",
+      "published": "2026-08-13T18:28:20+00:00",
+      "link": "https://unric.org/en/ais-environmental-costs-threaten-water-land-and-climate/"
     },
     {
       "title": "Anthropic set AI agents loose on the same task. They started a turf war.",
@@ -87,7 +115,7 @@ const FEED_DATA = {
     },
     {
       "title": "Accelerating GPT-5.6 Sol Ultrafast",
-      "summary": "Article URL: https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai Comments URL: https://news.ycombinator.com/item?id=49289844 Points: 286 # Comments: 113",
+      "summary": "Article URL: https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai Comments URL: https://news.ycombinator.com/item?id=49289844 Points: 529 # Comments: 221",
       "source": "Hacker News",
       "published": "2026-08-13T18:10:02+00:00",
       "link": "https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai"
@@ -108,7 +136,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI At Home Part 1: A Box Of Scraps",
-      "summary": "Article URL: https://jdagostino.github.io/ai-pt1-box-o-scraps/index.html Comments URL: https://news.ycombinator.com/item?id=49288293 Points: 64 # Comments: 35",
+      "summary": "Article URL: https://jdagostino.github.io/ai-pt1-box-o-scraps/index.html Comments URL: https://news.ycombinator.com/item?id=49288293 Points: 113 # Comments: 52",
       "source": "Hacker News",
       "published": "2026-08-13T16:22:05+00:00",
       "link": "https://jdagostino.github.io/ai-pt1-box-o-scraps/index.html"
@@ -143,7 +171,7 @@ const FEED_DATA = {
     },
     {
       "title": "Text AI watermarks will always be trivial to remove",
-      "summary": "Article URL: https://www.seangoedecke.com/text-ai-watermarks/ Comments URL: https://news.ycombinator.com/item?id=49287153 Points: 59 # Comments: 62",
+      "summary": "Article URL: https://www.seangoedecke.com/text-ai-watermarks/ Comments URL: https://news.ycombinator.com/item?id=49287153 Points: 113 # Comments: 116",
       "source": "Hacker News",
       "published": "2026-08-13T15:07:10+00:00",
       "link": "https://www.seangoedecke.com/text-ai-watermarks/"
@@ -171,14 +199,14 @@ const FEED_DATA = {
     },
     {
       "title": "AI agents lie, cheat and steal. That is putting off users",
-      "summary": "Article URL: https://www.economist.com/business/2026/08/12/ai-agents-lie-cheat-and-steal-that-is-putting-off-users Comments URL: https://news.ycombinator.com/item?id=49285604 Points: 150 # Comments: 188",
+      "summary": "Article URL: https://www.economist.com/business/2026/08/12/ai-agents-lie-cheat-and-steal-that-is-putting-off-users Comments URL: https://news.ycombinator.com/item?id=49285604 Points: 158 # Comments: 197",
       "source": "Hacker News",
       "published": "2026-08-13T13:28:45+00:00",
       "link": "https://www.economist.com/business/2026/08/12/ai-agents-lie-cheat-and-steal-that-is-putting-off-users"
     },
     {
       "title": "Choosing an AI model: one prompt, 11 models, different results",
-      "summary": "Article URL: https://www.netlify.com/blog/one-prompt-11-models-very-different-results/ Comments URL: https://news.ycombinator.com/item?id=49285327 Points: 156 # Comments: 66",
+      "summary": "Article URL: https://www.netlify.com/blog/one-prompt-11-models-very-different-results/ Comments URL: https://news.ycombinator.com/item?id=49285327 Points: 194 # Comments: 78",
       "source": "Hacker News",
       "published": "2026-08-13T13:05:29+00:00",
       "link": "https://www.netlify.com/blog/one-prompt-11-models-very-different-results/"
@@ -210,6 +238,13 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-08-13T10:15:29+00:00",
       "link": "https://the-decoder.com/anthropic-brings-claude-cowork-to-its-chrome-extension-adding-skills-and-plugins-to-the-browser/"
+    },
+    {
+      "title": "Can I use my Outputs to train an AI model?",
+      "summary": "Article URL: https://support.claude.com/en/articles/12326764-can-i-use-my-outputs-to-train-an-ai-model Comments URL: https://news.ycombinator.com/item?id=49283563 Points: 89 # Comments: 80",
+      "source": "Hacker News",
+      "published": "2026-08-13T09:34:13+00:00",
+      "link": "https://support.claude.com/en/articles/12326764-can-i-use-my-outputs-to-train-an-ai-model"
     },
     {
       "title": "Okta targets AI agent token costs with MCP scoping",
@@ -318,7 +353,7 @@ const FEED_DATA = {
     },
     {
       "title": "Grok 4.6 scores 61 on the Artificial Analysis Intelligence Index",
-      "summary": "Article URL: https://artificialanalysis.ai/articles/grok-4-6-benchmarks-and-analysis Comments URL: https://news.ycombinator.com/item?id=49275385 Points: 336 # Comments: 396",
+      "summary": "Article URL: https://artificialanalysis.ai/articles/grok-4-6-benchmarks-and-analysis Comments URL: https://news.ycombinator.com/item?id=49275385 Points: 337 # Comments: 401",
       "source": "Hacker News",
       "published": "2026-08-12T16:54:25+00:00",
       "link": "https://artificialanalysis.ai/articles/grok-4-6-benchmarks-and-analysis"
@@ -395,14 +430,14 @@ const FEED_DATA = {
     },
     {
       "title": "German advocacy group lodges criminal complaint over Meta AI glasses",
-      "summary": "Article URL: https://www.reuters.com/legal/government/german-advocacy-group-lodges-criminal-complaint-over-meta-ai-glasses-2026-08-12/ Comments URL: https://news.ycombinator.com/item?id=49272620 Points: 117 # Comments: 50",
+      "summary": "Article URL: https://www.reuters.com/legal/government/german-advocacy-group-lodges-criminal-complaint-over-meta-ai-glasses-2026-08-12/ Comments URL: https://news.ycombinator.com/item?id=49272620 Points: 117 # Comments: 51",
       "source": "Hacker News",
       "published": "2026-08-12T14:06:03+00:00",
       "link": "https://www.reuters.com/legal/government/german-advocacy-group-lodges-criminal-complaint-over-meta-ai-glasses-2026-08-12/"
     },
     {
       "title": "Someone is running mass vulnerability scans, spoofing AI bots like ClaudeBot",
-      "summary": "Article URL: https://knownagents.com/insights Comments URL: https://news.ycombinator.com/item?id=49272569 Points: 300 # Comments: 224",
+      "summary": "Article URL: https://knownagents.com/insights Comments URL: https://news.ycombinator.com/item?id=49272569 Points: 301 # Comments: 225",
       "source": "Hacker News",
       "published": "2026-08-12T14:02:46+00:00",
       "link": "https://knownagents.com/insights"
@@ -430,7 +465,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI is removing the middle class of software engineering?",
-      "summary": "Article URL: https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html Comments URL: https://news.ycombinator.com/item?id=49271994 Points: 956 # Comments: 881",
+      "summary": "Article URL: https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html Comments URL: https://news.ycombinator.com/item?id=49271994 Points: 967 # Comments: 897",
       "source": "Hacker News",
       "published": "2026-08-12T13:20:05+00:00",
       "link": "https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html"
@@ -514,7 +549,7 @@ const FEED_DATA = {
     },
     {
       "title": "Company Offering '100% Human-Written, Never AI' Medical Research Is 100% AI",
-      "summary": "Article URL: https://www.404media.co/company-offering-100-human-written-never-ai-peer-review-is-entirely-ai/ Comments URL: https://news.ycombinator.com/item?id=49267057 Points: 196 # Comments: 49",
+      "summary": "Article URL: https://www.404media.co/company-offering-100-human-written-never-ai-peer-review-is-entirely-ai/ Comments URL: https://news.ycombinator.com/item?id=49267057 Points: 196 # Comments: 51",
       "source": "Hacker News",
       "published": "2026-08-12T02:05:42+00:00",
       "link": "https://www.404media.co/company-offering-100-human-written-never-ai-peer-review-is-entirely-ai/"
@@ -612,7 +647,7 @@ const FEED_DATA = {
     },
     {
       "title": "Go is an ideal language for AI-assisted software engineering",
-      "summary": "Article URL: https://developers.googleblog.com/why-go-is-an-ideal-language-for-ai-assisted-software-engineering/ Comments URL: https://news.ycombinator.com/item?id=49261133 Points: 434 # Comments: 526",
+      "summary": "Article URL: https://developers.googleblog.com/why-go-is-an-ideal-language-for-ai-assisted-software-engineering/ Comments URL: https://news.ycombinator.com/item?id=49261133 Points: 436 # Comments: 530",
       "source": "Hacker News",
       "published": "2026-08-11T16:57:09+00:00",
       "link": "https://developers.googleblog.com/why-go-is-an-ideal-language-for-ai-assisted-software-engineering/"
@@ -633,7 +668,7 @@ const FEED_DATA = {
     },
     {
       "title": "Apple Silicon and macOS VMs: Faster LLM Inference with llama.cpp",
-      "summary": "Article URL: https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md Comments URL: https://news.ycombinator.com/item?id=49259339 Points: 305 # Comments: 43",
+      "summary": "Article URL: https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md Comments URL: https://news.ycombinator.com/item?id=49259339 Points: 305 # Comments: 41",
       "source": "Hacker News",
       "published": "2026-08-11T14:50:33+00:00",
       "link": "https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md"
@@ -661,7 +696,7 @@ const FEED_DATA = {
     },
     {
       "title": "Stealing Reasoning Traces from Proprietary LLM APIs",
-      "summary": "Article URL: https://stolen-thoughts.com/ Comments URL: https://news.ycombinator.com/item?id=49257876 Points: 693 # Comments: 302",
+      "summary": "Article URL: https://stolen-thoughts.com/ Comments URL: https://news.ycombinator.com/item?id=49257876 Points: 694 # Comments: 306",
       "source": "Hacker News",
       "published": "2026-08-11T13:22:00+00:00",
       "link": "https://stolen-thoughts.com/"
@@ -1365,41 +1400,6 @@ const FEED_DATA = {
       "source": "The Verge",
       "published": "2026-08-07T18:59:46+00:00",
       "link": "https://www.theverge.com/entertainment/976939/roku-fairground-ai-fast-channel"
-    },
-    {
-      "title": "OpenAI puts the brakes on a new model because it’s supposedly too powerful",
-      "summary": "OpenAI says it is pausing \"internal activities\" around an in-development AI model, Astra, because it doesn't yet meet new security standards the company is putting in place. The announcement follows its recent disclosure that OpenAI models accidentally hacked Hugging Face.",
-      "source": "The Verge",
-      "published": "2026-08-07T18:40:34+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/976948/openai-astra-model-pause-critical-cyber-capabilities"
-    },
-    {
-      "title": "AI music generator Suno tightens rules to fight spam and address growing copyright concerns",
-      "summary": "Suno CEO Mikey Shulman has announced new guidelines and tighter download limits after its AI-generated music was used to game streaming platforms for profit.",
-      "source": "The Decoder",
-      "published": "2026-08-07T18:35:42+00:00",
-      "link": "https://the-decoder.com/ai-music-generator-suno-tightens-rules-to-fight-spam-and-address-growing-copyright-concerns/"
-    },
-    {
-      "title": "Managing AI Coding Costs at Scale",
-      "summary": "Article URL: https://www.databricks.com/blog/managing-ai-coding-costs-scale Comments URL: https://news.ycombinator.com/item?id=49214468 Points: 315 # Comments: 265",
-      "source": "Hacker News",
-      "published": "2026-08-07T18:25:17+00:00",
-      "link": "https://www.databricks.com/blog/managing-ai-coding-costs-scale"
-    },
-    {
-      "title": "AMD acquires Taalas, a startup that bakes AI models directly into silicon",
-      "summary": "AMD is buying Canadian startup Taalas, which hard-codes model weights directly into inference chips. That makes them extremely fast but locks each chip to a single model.",
-      "source": "The Decoder",
-      "published": "2026-08-07T18:01:32+00:00",
-      "link": "https://the-decoder.com/amd-acquires-taalas-a-startup-that-bakes-ai-models-directly-into-silicon/"
-    },
-    {
-      "title": "Oracle bans AI-generated code from OpenJDK",
-      "summary": "Article URL: https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code Comments URL: https://news.ycombinator.com/item?id=49213754 Points: 535 # Comments: 380",
-      "source": "Hacker News",
-      "published": "2026-08-07T17:36:30+00:00",
-      "link": "https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code"
     }
   ]
 };
