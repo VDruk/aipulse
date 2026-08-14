@@ -1,9 +1,30 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-08-14T06:15:21.041652+00:00",
+  "lastUpdated": "2026-08-14T09:48:24.545228+00:00",
   "items": [
     {
+      "title": "Apple trained its own AI model for China with help from Alibaba",
+      "summary": "Apple has reportedly trained a custom AI model for the China market alongside domestic tech giant Alibaba, a rare cross-border partnership that cuts across growing tensions between Beijing and Washington.",
+      "source": "The Verge",
+      "published": "2026-08-14T09:21:17+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/980160/apple-intelligence-china-custom-ai-model-alibaba"
+    },
+    {
+      "title": "This scientist is helping build a missing map of childhood",
+      "summary": "In 2017, Deanne Taylor attended a presentation at the University of Pennsylvania, just a short walk from her office. A researcher was there to unveil the Human Cell Atlas, an ambitious project that aimed to map every cell in the human body.",
+      "source": "MIT Tech Review",
+      "published": "2026-08-14T09:00:00+00:00",
+      "link": "https://www.technologyreview.com/2026/08/14/1141354/deanne-taylor-gene-expression-children/"
+    },
+    {
+      "title": "Job titles of the future: Space travel agent",
+      "summary": "Roman Chiporukha has long turned wild travel dreams into reality.",
+      "source": "MIT Tech Review",
+      "published": "2026-08-14T09:00:00+00:00",
+      "link": "https://www.technologyreview.com/2026/08/14/1141431/job-titles-space-travel-agent-roman-chiporukha/"
+    },
+    {
       "title": "How AI text watermarking works",
-      "summary": "Article URL: https://declaude.org/watermarking/ Comments URL: https://news.ycombinator.com/item?id=49292932 Points: 105 # Comments: 79",
+      "summary": "Article URL: https://declaude.org/watermarking/ Comments URL: https://news.ycombinator.com/item?id=49292932 Points: 113 # Comments: 86",
       "source": "Hacker News",
       "published": "2026-08-13T23:16:55+00:00",
       "link": "https://declaude.org/watermarking/"
@@ -66,7 +87,7 @@ const FEED_DATA = {
     },
     {
       "title": "How Organizations Use AI: Evidence from ChatGPT [pdf]",
-      "summary": "Article URL: https://cdn.openai.com/pdf/how-organizations-use-chatgpt.pdf Comments URL: https://news.ycombinator.com/item?id=49290768 Points: 93 # Comments: 50",
+      "summary": "Article URL: https://cdn.openai.com/pdf/how-organizations-use-chatgpt.pdf Comments URL: https://news.ycombinator.com/item?id=49290768 Points: 109 # Comments: 66",
       "source": "Hacker News",
       "published": "2026-08-13T19:25:38+00:00",
       "link": "https://cdn.openai.com/pdf/how-organizations-use-chatgpt.pdf"
@@ -87,7 +108,7 @@ const FEED_DATA = {
     },
     {
       "title": "Person Hides Prompt Injection in Legal Filing Telling AI to Side with Them",
-      "summary": "Article URL: https://www.404media.co/person-hides-prompt-injection-in-legal-filing-telling-ai-to-side-with-them/ Comments URL: https://news.ycombinator.com/item?id=49290521 Points: 50 # Comments: 13",
+      "summary": "Article URL: https://www.404media.co/person-hides-prompt-injection-in-legal-filing-telling-ai-to-side-with-them/ Comments URL: https://news.ycombinator.com/item?id=49290521 Points: 51 # Comments: 14",
       "source": "Hacker News",
       "published": "2026-08-13T19:04:52+00:00",
       "link": "https://www.404media.co/person-hides-prompt-injection-in-legal-filing-telling-ai-to-side-with-them/"
@@ -101,7 +122,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI Is Threatening Natural Resources for Billions",
-      "summary": "Article URL: https://unric.org/en/ais-environmental-costs-threaten-water-land-and-climate/ Comments URL: https://news.ycombinator.com/item?id=49290062 Points: 53 # Comments: 53",
+      "summary": "Article URL: https://unric.org/en/ais-environmental-costs-threaten-water-land-and-climate/ Comments URL: https://news.ycombinator.com/item?id=49290062 Points: 55 # Comments: 56",
       "source": "Hacker News",
       "published": "2026-08-13T18:28:20+00:00",
       "link": "https://unric.org/en/ais-environmental-costs-threaten-water-land-and-climate/"
@@ -115,7 +136,7 @@ const FEED_DATA = {
     },
     {
       "title": "Accelerating GPT-5.6 Sol Ultrafast",
-      "summary": "Article URL: https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai Comments URL: https://news.ycombinator.com/item?id=49289844 Points: 529 # Comments: 221",
+      "summary": "Article URL: https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai Comments URL: https://news.ycombinator.com/item?id=49289844 Points: 599 # Comments: 239",
       "source": "Hacker News",
       "published": "2026-08-13T18:10:02+00:00",
       "link": "https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai"
@@ -136,7 +157,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI At Home Part 1: A Box Of Scraps",
-      "summary": "Article URL: https://jdagostino.github.io/ai-pt1-box-o-scraps/index.html Comments URL: https://news.ycombinator.com/item?id=49288293 Points: 113 # Comments: 52",
+      "summary": "Article URL: https://jdagostino.github.io/ai-pt1-box-o-scraps/index.html Comments URL: https://news.ycombinator.com/item?id=49288293 Points: 118 # Comments: 55",
       "source": "Hacker News",
       "published": "2026-08-13T16:22:05+00:00",
       "link": "https://jdagostino.github.io/ai-pt1-box-o-scraps/index.html"
@@ -171,7 +192,7 @@ const FEED_DATA = {
     },
     {
       "title": "Text AI watermarks will always be trivial to remove",
-      "summary": "Article URL: https://www.seangoedecke.com/text-ai-watermarks/ Comments URL: https://news.ycombinator.com/item?id=49287153 Points: 113 # Comments: 116",
+      "summary": "Article URL: https://www.seangoedecke.com/text-ai-watermarks/ Comments URL: https://news.ycombinator.com/item?id=49287153 Points: 123 # Comments: 137",
       "source": "Hacker News",
       "published": "2026-08-13T15:07:10+00:00",
       "link": "https://www.seangoedecke.com/text-ai-watermarks/"
@@ -199,14 +220,14 @@ const FEED_DATA = {
     },
     {
       "title": "AI agents lie, cheat and steal. That is putting off users",
-      "summary": "Article URL: https://www.economist.com/business/2026/08/12/ai-agents-lie-cheat-and-steal-that-is-putting-off-users Comments URL: https://news.ycombinator.com/item?id=49285604 Points: 158 # Comments: 197",
+      "summary": "Article URL: https://www.economist.com/business/2026/08/12/ai-agents-lie-cheat-and-steal-that-is-putting-off-users Comments URL: https://news.ycombinator.com/item?id=49285604 Points: 161 # Comments: 199",
       "source": "Hacker News",
       "published": "2026-08-13T13:28:45+00:00",
       "link": "https://www.economist.com/business/2026/08/12/ai-agents-lie-cheat-and-steal-that-is-putting-off-users"
     },
     {
       "title": "Choosing an AI model: one prompt, 11 models, different results",
-      "summary": "Article URL: https://www.netlify.com/blog/one-prompt-11-models-very-different-results/ Comments URL: https://news.ycombinator.com/item?id=49285327 Points: 194 # Comments: 78",
+      "summary": "Article URL: https://www.netlify.com/blog/one-prompt-11-models-very-different-results/ Comments URL: https://news.ycombinator.com/item?id=49285327 Points: 205 # Comments: 87",
       "source": "Hacker News",
       "published": "2026-08-13T13:05:29+00:00",
       "link": "https://www.netlify.com/blog/one-prompt-11-models-very-different-results/"
@@ -241,7 +262,7 @@ const FEED_DATA = {
     },
     {
       "title": "Can I use my Outputs to train an AI model?",
-      "summary": "Article URL: https://support.claude.com/en/articles/12326764-can-i-use-my-outputs-to-train-an-ai-model Comments URL: https://news.ycombinator.com/item?id=49283563 Points: 89 # Comments: 80",
+      "summary": "Article URL: https://support.claude.com/en/articles/12326764-can-i-use-my-outputs-to-train-an-ai-model Comments URL: https://news.ycombinator.com/item?id=49283563 Points: 89 # Comments: 84",
       "source": "Hacker News",
       "published": "2026-08-13T09:34:13+00:00",
       "link": "https://support.claude.com/en/articles/12326764-can-i-use-my-outputs-to-train-an-ai-model"
@@ -353,7 +374,7 @@ const FEED_DATA = {
     },
     {
       "title": "Grok 4.6 scores 61 on the Artificial Analysis Intelligence Index",
-      "summary": "Article URL: https://artificialanalysis.ai/articles/grok-4-6-benchmarks-and-analysis Comments URL: https://news.ycombinator.com/item?id=49275385 Points: 337 # Comments: 401",
+      "summary": "Article URL: https://artificialanalysis.ai/articles/grok-4-6-benchmarks-and-analysis Comments URL: https://news.ycombinator.com/item?id=49275385 Points: 337 # Comments: 402",
       "source": "Hacker News",
       "published": "2026-08-12T16:54:25+00:00",
       "link": "https://artificialanalysis.ai/articles/grok-4-6-benchmarks-and-analysis"
@@ -465,7 +486,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI is removing the middle class of software engineering?",
-      "summary": "Article URL: https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html Comments URL: https://news.ycombinator.com/item?id=49271994 Points: 967 # Comments: 897",
+      "summary": "Article URL: https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html Comments URL: https://news.ycombinator.com/item?id=49271994 Points: 972 # Comments: 901",
       "source": "Hacker News",
       "published": "2026-08-12T13:20:05+00:00",
       "link": "https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html"
@@ -1379,27 +1400,6 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-08-07T22:48:24+00:00",
       "link": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/"
-    },
-    {
-      "title": "After Rippling blew millions on AI in months, it built an employee ROI tool",
-      "summary": "After its own AI usage wake-up call, Rippling this week unveiled AI Spend Console, a product that tracks individual and team employee AI spending.",
-      "source": "TechCrunch",
-      "published": "2026-08-07T21:30:11+00:00",
-      "link": "https://techcrunch.com/2026/08/07/after-rippling-blew-millions-on-ai-in-months-it-built-an-employee-roi-tool/"
-    },
-    {
-      "title": "Fenix Flexin isn’t even denying using AI to make ‘Rubberz’ anymore",
-      "summary": "It took long enough, but now LA rapper Fenix Flexin appears to have admitted using AI for the 80s synth pop-themed song \"Rubberz.\" His comments follow the producer Medasin's videos claiming that an AI tool called Treblo (formerly Sonauto) was used to make the song, and the...",
-      "source": "The Verge",
-      "published": "2026-08-07T20:01:51+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/976801/fenix-flexin-rubberz-ai-song-treblo"
-    },
-    {
-      "title": "Watching Roku’s AI channel is like eating from a trough",
-      "summary": "The appeal of free ad-supported streaming television (FAST) channels has always been the way they make it easier to (re)discover classic films and series.",
-      "source": "The Verge",
-      "published": "2026-08-07T18:59:46+00:00",
-      "link": "https://www.theverge.com/entertainment/976939/roku-fairground-ai-fast-channel"
     }
   ]
 };
