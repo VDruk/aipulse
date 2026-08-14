@@ -1,6 +1,13 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-08-14T17:48:51.209091+00:00",
+  "lastUpdated": "2026-08-14T21:17:24.697823+00:00",
   "items": [
+    {
+      "title": "PBS station fears losing 50TB of data after being ghosted by cloud storage provider",
+      "summary": "\"We don't have access to the data on the hardware/servers,\" Iron Mountain told Ars.",
+      "source": "Ars Technica",
+      "published": "2026-08-14T17:03:54+00:00",
+      "link": "https://arstechnica.com/information-technology/2026/08/pbs-station-fears-losing-50tb-of-data-after-being-ghosted-by-cloud-storage-provider/"
+    },
     {
       "title": "Alibaba's Qwen team releases Qwen 3.8 models with open weights under the Apache 2.0 license",
       "summary": "Alibaba's AI team Qwen has released new open model weights under the Apache 2.0 license with Qwen 3.8. The dense 27-billion-parameter model is designed to outperform the larger Qwen 3.7 Plus in coding and office tasks and natively processes up to 262,000 tokens of context.",
@@ -37,11 +44,25 @@ const FEED_DATA = {
       "link": "https://the-decoder.com/study-contradicts-anthropic-and-openai-claims-that-autonomous-ai-research-is-within-reach/"
     },
     {
+      "title": "AI by Hand",
+      "summary": "Article URL: https://www.byhand.ai/ Comments URL: https://news.ycombinator.com/item?id=49300568 Points: 117 # Comments: 11",
+      "source": "Hacker News",
+      "published": "2026-08-14T15:58:59+00:00",
+      "link": "https://www.byhand.ai/"
+    },
+    {
       "title": "Does Mark Zuckerberg really believe AI is ‘for everyone’?",
       "summary": "Meta released Glimmer this week, an open-weight AI model anyone can download and run on their own hardware — a contrast to Muse Spark, the company’s more powerful model that stays locked behind its own APIs.",
       "source": "TechCrunch",
       "published": "2026-08-14T15:43:28+00:00",
       "link": "https://techcrunch.com/video/does-mark-zuckerberg-really-believe-ai-is-for-everyone/"
+    },
+    {
+      "title": "Google is making private AI practical with homomorphic encryption",
+      "summary": "Article URL: https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/ Comments URL: https://news.ycombinator.com/item?id=49300314 Points: 188 # Comments: 122",
+      "source": "Hacker News",
+      "published": "2026-08-14T15:43:10+00:00",
+      "link": "https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/"
     },
     {
       "title": "Tech Visionary Says the Big AI Labs Don’t Get What People Want",
@@ -56,6 +77,13 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-08-14T14:50:11+00:00",
       "link": "https://techcrunch.com/2026/08/14/kog-is-going-deeper-to-squeeze-more-inference-out-of-gpus/"
+    },
+    {
+      "title": "When Genius Fails: The Intellectual Arrogance of the AI Labs",
+      "summary": "Article URL: https://weightythoughts.com/p/when-genius-failsthe-intellectual Comments URL: https://news.ycombinator.com/item?id=49299282 Points: 165 # Comments: 177",
+      "source": "Hacker News",
+      "published": "2026-08-14T14:34:49+00:00",
+      "link": "https://weightythoughts.com/p/when-genius-failsthe-intellectual"
     },
     {
       "title": "OpenAI and Anthropic in price war as Chinese AI rivals gain ground",
@@ -157,7 +185,7 @@ const FEED_DATA = {
     },
     {
       "title": "How AI text watermarking works",
-      "summary": "Article URL: https://declaude.org/watermarking/ Comments URL: https://news.ycombinator.com/item?id=49292932 Points: 121 # Comments: 91",
+      "summary": "Article URL: https://declaude.org/watermarking/ Comments URL: https://news.ycombinator.com/item?id=49292932 Points: 129 # Comments: 95",
       "source": "Hacker News",
       "published": "2026-08-13T23:16:55+00:00",
       "link": "https://declaude.org/watermarking/"
@@ -220,7 +248,7 @@ const FEED_DATA = {
     },
     {
       "title": "How Organizations Use AI: Evidence from ChatGPT [pdf]",
-      "summary": "Article URL: https://cdn.openai.com/pdf/how-organizations-use-chatgpt.pdf Comments URL: https://news.ycombinator.com/item?id=49290768 Points: 120 # Comments: 94",
+      "summary": "Article URL: https://cdn.openai.com/pdf/how-organizations-use-chatgpt.pdf Comments URL: https://news.ycombinator.com/item?id=49290768 Points: 123 # Comments: 100",
       "source": "Hacker News",
       "published": "2026-08-13T19:25:38+00:00",
       "link": "https://cdn.openai.com/pdf/how-organizations-use-chatgpt.pdf"
@@ -241,7 +269,7 @@ const FEED_DATA = {
     },
     {
       "title": "Person Hides Prompt Injection in Legal Filing Telling AI to Side with Them",
-      "summary": "Article URL: https://www.404media.co/person-hides-prompt-injection-in-legal-filing-telling-ai-to-side-with-them/ Comments URL: https://news.ycombinator.com/item?id=49290521 Points: 52 # Comments: 15",
+      "summary": "Article URL: https://www.404media.co/person-hides-prompt-injection-in-legal-filing-telling-ai-to-side-with-them/ Comments URL: https://news.ycombinator.com/item?id=49290521 Points: 54 # Comments: 15",
       "source": "Hacker News",
       "published": "2026-08-13T19:04:52+00:00",
       "link": "https://www.404media.co/person-hides-prompt-injection-in-legal-filing-telling-ai-to-side-with-them/"
@@ -255,7 +283,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI Is Threatening Natural Resources for Billions",
-      "summary": "Article URL: https://unric.org/en/ais-environmental-costs-threaten-water-land-and-climate/ Comments URL: https://news.ycombinator.com/item?id=49290062 Points: 55 # Comments: 56",
+      "summary": "Article URL: https://unric.org/en/ais-environmental-costs-threaten-water-land-and-climate/ Comments URL: https://news.ycombinator.com/item?id=49290062 Points: 57 # Comments: 56",
       "source": "Hacker News",
       "published": "2026-08-13T18:28:20+00:00",
       "link": "https://unric.org/en/ais-environmental-costs-threaten-water-land-and-climate/"
@@ -269,7 +297,7 @@ const FEED_DATA = {
     },
     {
       "title": "Accelerating GPT-5.6 Sol Ultrafast",
-      "summary": "Article URL: https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai Comments URL: https://news.ycombinator.com/item?id=49289844 Points: 663 # Comments: 259",
+      "summary": "Article URL: https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai Comments URL: https://news.ycombinator.com/item?id=49289844 Points: 694 # Comments: 270",
       "source": "Hacker News",
       "published": "2026-08-13T18:10:02+00:00",
       "link": "https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai"
@@ -290,7 +318,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI At Home Part 1: A Box Of Scraps",
-      "summary": "Article URL: https://jdagostino.github.io/ai-pt1-box-o-scraps/index.html Comments URL: https://news.ycombinator.com/item?id=49288293 Points: 121 # Comments: 56",
+      "summary": "Article URL: https://jdagostino.github.io/ai-pt1-box-o-scraps/index.html Comments URL: https://news.ycombinator.com/item?id=49288293 Points: 125 # Comments: 58",
       "source": "Hacker News",
       "published": "2026-08-13T16:22:05+00:00",
       "link": "https://jdagostino.github.io/ai-pt1-box-o-scraps/index.html"
@@ -325,7 +353,7 @@ const FEED_DATA = {
     },
     {
       "title": "Text AI watermarks will always be trivial to remove",
-      "summary": "Article URL: https://www.seangoedecke.com/text-ai-watermarks/ Comments URL: https://news.ycombinator.com/item?id=49287153 Points: 134 # Comments: 161",
+      "summary": "Article URL: https://www.seangoedecke.com/text-ai-watermarks/ Comments URL: https://news.ycombinator.com/item?id=49287153 Points: 139 # Comments: 182",
       "source": "Hacker News",
       "published": "2026-08-13T15:07:10+00:00",
       "link": "https://www.seangoedecke.com/text-ai-watermarks/"
@@ -353,14 +381,14 @@ const FEED_DATA = {
     },
     {
       "title": "AI agents lie, cheat and steal. That is putting off users",
-      "summary": "Article URL: https://www.economist.com/business/2026/08/12/ai-agents-lie-cheat-and-steal-that-is-putting-off-users Comments URL: https://news.ycombinator.com/item?id=49285604 Points: 163 # Comments: 199",
+      "summary": "Article URL: https://www.economist.com/business/2026/08/12/ai-agents-lie-cheat-and-steal-that-is-putting-off-users Comments URL: https://news.ycombinator.com/item?id=49285604 Points: 163 # Comments: 203",
       "source": "Hacker News",
       "published": "2026-08-13T13:28:45+00:00",
       "link": "https://www.economist.com/business/2026/08/12/ai-agents-lie-cheat-and-steal-that-is-putting-off-users"
     },
     {
       "title": "Choosing an AI model: one prompt, 11 models, different results",
-      "summary": "Article URL: https://www.netlify.com/blog/one-prompt-11-models-very-different-results/ Comments URL: https://news.ycombinator.com/item?id=49285327 Points: 208 # Comments: 89",
+      "summary": "Article URL: https://www.netlify.com/blog/one-prompt-11-models-very-different-results/ Comments URL: https://news.ycombinator.com/item?id=49285327 Points: 215 # Comments: 94",
       "source": "Hacker News",
       "published": "2026-08-13T13:05:29+00:00",
       "link": "https://www.netlify.com/blog/one-prompt-11-models-very-different-results/"
@@ -395,7 +423,7 @@ const FEED_DATA = {
     },
     {
       "title": "Can I use my Outputs to train an AI model?",
-      "summary": "Article URL: https://support.claude.com/en/articles/12326764-can-i-use-my-outputs-to-train-an-ai-model Comments URL: https://news.ycombinator.com/item?id=49283563 Points: 90 # Comments: 84",
+      "summary": "Article URL: https://support.claude.com/en/articles/12326764-can-i-use-my-outputs-to-train-an-ai-model Comments URL: https://news.ycombinator.com/item?id=49283563 Points: 92 # Comments: 85",
       "source": "Hacker News",
       "published": "2026-08-13T09:34:13+00:00",
       "link": "https://support.claude.com/en/articles/12326764-can-i-use-my-outputs-to-train-an-ai-model"
@@ -507,7 +535,7 @@ const FEED_DATA = {
     },
     {
       "title": "Grok 4.6 scores 61 on the Artificial Analysis Intelligence Index",
-      "summary": "Article URL: https://artificialanalysis.ai/articles/grok-4-6-benchmarks-and-analysis Comments URL: https://news.ycombinator.com/item?id=49275385 Points: 339 # Comments: 407",
+      "summary": "Article URL: https://artificialanalysis.ai/articles/grok-4-6-benchmarks-and-analysis Comments URL: https://news.ycombinator.com/item?id=49275385 Points: 341 # Comments: 413",
       "source": "Hacker News",
       "published": "2026-08-12T16:54:25+00:00",
       "link": "https://artificialanalysis.ai/articles/grok-4-6-benchmarks-and-analysis"
@@ -591,7 +619,7 @@ const FEED_DATA = {
     },
     {
       "title": "Someone is running mass vulnerability scans, spoofing AI bots like ClaudeBot",
-      "summary": "Article URL: https://knownagents.com/insights Comments URL: https://news.ycombinator.com/item?id=49272569 Points: 301 # Comments: 226",
+      "summary": "Article URL: https://knownagents.com/insights Comments URL: https://news.ycombinator.com/item?id=49272569 Points: 302 # Comments: 226",
       "source": "Hacker News",
       "published": "2026-08-12T14:02:46+00:00",
       "link": "https://knownagents.com/insights"
@@ -619,7 +647,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI is removing the middle class of software engineering?",
-      "summary": "Article URL: https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html Comments URL: https://news.ycombinator.com/item?id=49271994 Points: 979 # Comments: 904",
+      "summary": "Article URL: https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html Comments URL: https://news.ycombinator.com/item?id=49271994 Points: 983 # Comments: 915",
       "source": "Hacker News",
       "published": "2026-08-12T13:20:05+00:00",
       "link": "https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html"
@@ -1372,34 +1400,6 @@ const FEED_DATA = {
       "source": "Hacker News",
       "published": "2026-08-09T11:56:16+00:00",
       "link": "https://www.youtube.com/watch?v=68X8yEatepQ"
-    },
-    {
-      "title": "Meetily Lets You Transcribe and Summarize Meetings Without a Subscription—Here’s How",
-      "summary": "There are endless ways to record and transcribe your virtual meetings with AI. Here’s an option that’s free and open source.",
-      "source": "Wired",
-      "published": "2026-08-09T10:30:00+00:00",
-      "link": "https://www.wired.com/story/meetily-lets-you-transcribe-and-summarize-meetings-without-a-subscription-heres-how/"
-    },
-    {
-      "title": "AI is flooding Britain's employment courts with lawsuits",
-      "summary": "Britain's employment courts saw 39 percent more claims in the year through March 2026, many written with ChatGPT or Grok. The backlog jumped 55 percent to 64,000 unresolved cases, with AI-generated filings often running hundreds of pages and citing fabricated laws.",
-      "source": "The Decoder",
-      "published": "2026-08-09T10:26:43+00:00",
-      "link": "https://the-decoder.com/ai-is-flooding-britains-employment-courts-with-lawsuits/"
-    },
-    {
-      "title": "Google's DiffusionGemma proves you don't need to train from scratch to build a text diffusion model",
-      "summary": "Instead of training a new model from scratch, Google DeepMind retrofitted Gemma 4 into a diffusion model using less than 10 percent of the original training budget. DiffusionGemma generates 256 tokens in parallel instead of one at a time, hitting about 1,500 tokens per second.",
-      "source": "The Decoder",
-      "published": "2026-08-09T10:01:26+00:00",
-      "link": "https://the-decoder.com/googles-diffusiongemma-proves-you-dont-need-to-train-from-scratch-to-build-a-text-diffusion-model/"
-    },
-    {
-      "title": "These AI Barons Are Ready to Give Away Their Fortunes",
-      "summary": "A new generation of philanthropists made rich by artificial intelligence are preparing to give away their vast wealth. What should we make of a multi-billion-dollar pinky promise?",
-      "source": "Wired",
-      "published": "2026-08-09T09:30:00+00:00",
-      "link": "https://www.wired.com/story/ai-billionaires-are-pledging-their-wealth-good-or-bad/"
     }
   ]
 };
