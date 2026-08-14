@@ -1,6 +1,27 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-08-13T21:36:23.781479+00:00",
+  "lastUpdated": "2026-08-14T03:24:53.353890+00:00",
   "items": [
+    {
+      "title": "The Safety Reckoning Inside OpenAI",
+      "summary": "OpenAI’s rogue agent hack was a watershed moment for AI safety and cybersecurity. It also sparked internal questions about the culture that led to it.",
+      "source": "Wired",
+      "published": "2026-08-13T22:37:19+00:00",
+      "link": "https://www.wired.com/story/openai-safety-security-ai-agents-culture/"
+    },
+    {
+      "title": "Microsoft’s Clippy-like Mico character is no longer the face of Copilot",
+      "summary": "Microsoft Copilot will no longer show its emotive yellow blob, Mico, when you use the chatbot's voice mode. In a support page, Microsoft says it's going to move Mico to its Learn Live platform, where the avatar will have \"more to react to,\" as reported earlier by GeekWire.",
+      "source": "The Verge",
+      "published": "2026-08-13T21:42:38+00:00",
+      "link": "https://www.theverge.com/tech/979871/microsoft-copilot-mico-retired"
+    },
+    {
+      "title": "Mark Zuckerberg’s AI Manifesto Is 6,500 Words—and Barely Says Anything",
+      "summary": "AI is shifting the culture, from tech CEO manifestos to 1 am job interviews. We unpack some of the latest, along with the top findings from Black Hat and Defcon, this week on Uncanny Valley.",
+      "source": "Wired",
+      "published": "2026-08-13T21:14:43+00:00",
+      "link": "https://www.wired.com/story/mark-zuckerbergs-ai-manifesto-is-6500-words-and-barely-says-anything/"
+    },
     {
       "title": "Mark Zuckerberg’s AI Manifesto Is 6,500-Words—and Barely Says Anything",
       "summary": "AI is shifting the culture, from tech CEO manifestos to 1 am job interviews. We unpack some of the latest, along with the top findings from Black Hat and Defcon, this week on Uncanny Valley.",
@@ -1379,27 +1400,6 @@ const FEED_DATA = {
       "source": "Hacker News",
       "published": "2026-08-07T17:36:30+00:00",
       "link": "https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code"
-    },
-    {
-      "title": "Anthropic loosens Fable 5's biology restrictions but keeps the guardrails on for virology and toxicology",
-      "summary": "Anthropic has cut false positives in its biology safety filters for Fable 5 by about 85 percent. Previously, nearly all biology-related queries got blocked and rerouted to the less capable Opus 5.",
-      "source": "The Decoder",
-      "published": "2026-08-07T17:35:45+00:00",
-      "link": "https://the-decoder.com/anthropic-loosens-fable-5s-biology-restrictions-but-keeps-the-guardrails-on-for-virology-and-toxicology/"
-    },
-    {
-      "title": "What’s behind the Google AI shake-up",
-      "summary": "Some of the biggest names on Google's AI team got new jobs this week. In some cases, including for legendary Googler Jeff Dean, those jobs are no longer at Google.",
-      "source": "The Verge",
-      "published": "2026-08-07T16:45:14+00:00",
-      "link": "https://www.theverge.com/podcast/976784/google-deepmind-ai-race-vergecast"
-    },
-    {
-      "title": "OpenAI's first smart speaker is expected in 2027 at over $300",
-      "summary": "OpenAI is planning a donut-shaped smart speaker for 2027, priced above $300. The screenless device has a camera, microphones, and moving parts.",
-      "source": "The Decoder",
-      "published": "2026-08-07T16:43:16+00:00",
-      "link": "https://the-decoder.com/openais-first-smart-speaker-is-expected-in-2027-at-over-300/"
     }
   ]
 };
