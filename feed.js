@@ -1,6 +1,20 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-08-15T13:31:24.799830+00:00",
+  "lastUpdated": "2026-08-15T17:14:25.090666+00:00",
   "items": [
+    {
+      "title": "SpaceX officially closes its Cursor acquisition",
+      "summary": "AI coding startup Cursor is now officially a part of SpaceX.",
+      "source": "TechCrunch",
+      "published": "2026-08-15T16:30:00+00:00",
+      "link": "https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition/"
+    },
+    {
+      "title": "Investor pressure forces Nvidia to shrink its OpenAI bet just as Anthropic's numbers defy bubble warnings",
+      "summary": "Nvidia has cut its guarantee for OpenAI's planned data center in Ohio nearly in half, from $250 billion to just under $120 billion, after investors pushed back on the risk.",
+      "source": "The Decoder",
+      "published": "2026-08-15T15:41:02+00:00",
+      "link": "https://the-decoder.com/investor-pressure-forces-nvidia-to-shrink-its-openai-bet-just-as-anthropics-numbers-defy-bubble-warnings/"
+    },
     {
       "title": "AI-generated books are flooding Amazon and tanking sales for human authors",
       "summary": "AI-generated books make up 20 percent of Amazon's self-published catalog but bring in only 12 percent of sales. A new study finds that revenue per book is dropping for human-written titles too, in seven of eight genres.",
@@ -1386,20 +1400,6 @@ const FEED_DATA = {
       "source": "Hacker News",
       "published": "2026-08-09T21:52:23+00:00",
       "link": "https://www.abc.net.au/news/2026-08-10/ai-assistant-hacks-gym-website-aus-cyber-attack/107007986"
-    },
-    {
-      "title": "I've yet to see any\"My AI went rogue and caused us to recognise a workers union",
-      "summary": "Article URL: https://mastodon.neilzone.co.uk/@neil/117061512483182546 Comments URL: https://news.ycombinator.com/item?id=49235836 Points: 50 # Comments: 18",
-      "source": "Hacker News",
-      "published": "2026-08-09T21:01:31+00:00",
-      "link": "https://mastodon.neilzone.co.uk/@neil/117061512483182546"
-    },
-    {
-      "title": "Embattled hedge fund Situational Awareness invests $400M in chip startup Source Foundry",
-      "summary": "The AI-focused hedge fund is still making some big bets.",
-      "source": "TechCrunch",
-      "published": "2026-08-09T20:35:17+00:00",
-      "link": "https://techcrunch.com/2026/08/09/embattled-hedge-fund-situational-awareness-invests-400m-in-chip-startup-source-foundry/"
     }
   ]
 };
