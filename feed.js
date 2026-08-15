@@ -1,6 +1,20 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-08-15T09:13:22.601042+00:00",
+  "lastUpdated": "2026-08-15T13:31:24.799830+00:00",
   "items": [
+    {
+      "title": "AI-generated books are flooding Amazon and tanking sales for human authors",
+      "summary": "AI-generated books make up 20 percent of Amazon's self-published catalog but bring in only 12 percent of sales. A new study finds that revenue per book is dropping for human-written titles too, in seven of eight genres.",
+      "source": "The Decoder",
+      "published": "2026-08-15T11:00:50+00:00",
+      "link": "https://the-decoder.com/ai-generated-books-are-flooding-amazon-and-tanking-sales-for-human-authors/"
+    },
+    {
+      "title": "Debian has begun voting on the future of AI/LLM contributions",
+      "summary": "Article URL: https://lists.debian.org/debian-devel-announce/2026/08/msg00002.html Comments URL: https://news.ycombinator.com/item?id=49309050 Points: 51 # Comments: 37",
+      "source": "Hacker News",
+      "published": "2026-08-15T09:20:07+00:00",
+      "link": "https://lists.debian.org/debian-devel-announce/2026/08/msg00002.html"
+    },
     {
       "title": "Amazon Can Use Your Twitch Content to Train Its AI—Unless You Opt Out",
       "summary": "When Twitch announced that streamers could opt out, thousands of users questioned why their content was being used to train AI models in the first place.",
@@ -14,6 +28,13 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-08-15T08:00:45+00:00",
       "link": "https://the-decoder.com/plaintiff-hid-invisible-ai-instructions-in-court-filings-to-secretly-influence-automated-review/"
+    },
+    {
+      "title": "Suspecting court of using AI, man injected prompts in filings to try to win case",
+      "summary": "Article URL: https://arstechnica.com/tech-policy/2026/08/suspecting-court-of-using-ai-man-injected-prompts-in-filings-to-try-to-win-case/ Comments URL: https://news.ycombinator.com/item?id=49308553 Points: 56 # Comments: 43",
+      "source": "Hacker News",
+      "published": "2026-08-15T07:31:46+00:00",
+      "link": "https://arstechnica.com/tech-policy/2026/08/suspecting-court-of-using-ai-man-injected-prompts-in-filings-to-try-to-win-case/"
     },
     {
       "title": "World Labs turns one real-world robot task into thousands of simulated variations for training",
@@ -35,6 +56,13 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-08-15T05:30:18+00:00",
       "link": "https://the-decoder.com/new-benchmark-confirms-ai-models-still-perform-poorly-at-visual-perception/"
+    },
+    {
+      "title": "Show HN: ThoughtDAG – An editable context graph for LLM conversations",
+      "summary": "Article URL: https://chenxiachan.github.io/thoughtdag/ Comments URL: https://news.ycombinator.com/item?id=49307700 Points: 67 # Comments: 17",
+      "source": "Hacker News",
+      "published": "2026-08-15T04:42:07+00:00",
+      "link": "https://chenxiachan.github.io/thoughtdag/"
     },
     {
       "title": "Anthropic announces watermark detection API that will let third parties detect Claude's AI texts",
@@ -87,7 +115,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI by Hand",
-      "summary": "Article URL: https://www.byhand.ai/ Comments URL: https://news.ycombinator.com/item?id=49300568 Points: 298 # Comments: 23",
+      "summary": "Article URL: https://www.byhand.ai/ Comments URL: https://news.ycombinator.com/item?id=49300568 Points: 335 # Comments: 24",
       "source": "Hacker News",
       "published": "2026-08-14T15:58:59+00:00",
       "link": "https://www.byhand.ai/"
@@ -101,7 +129,7 @@ const FEED_DATA = {
     },
     {
       "title": "Google is making private AI practical with homomorphic encryption",
-      "summary": "Article URL: https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/ Comments URL: https://news.ycombinator.com/item?id=49300314 Points: 381 # Comments: 221",
+      "summary": "Article URL: https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/ Comments URL: https://news.ycombinator.com/item?id=49300314 Points: 435 # Comments: 260",
       "source": "Hacker News",
       "published": "2026-08-14T15:43:10+00:00",
       "link": "https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/"
@@ -122,7 +150,7 @@ const FEED_DATA = {
     },
     {
       "title": "When Genius Fails: The Intellectual Arrogance of the AI Labs",
-      "summary": "Article URL: https://weightythoughts.com/p/when-genius-failsthe-intellectual Comments URL: https://news.ycombinator.com/item?id=49299282 Points: 172 # Comments: 193",
+      "summary": "Article URL: https://weightythoughts.com/p/when-genius-failsthe-intellectual Comments URL: https://news.ycombinator.com/item?id=49299282 Points: 172 # Comments: 195",
       "source": "Hacker News",
       "published": "2026-08-14T14:34:49+00:00",
       "link": "https://weightythoughts.com/p/when-genius-failsthe-intellectual"
@@ -136,7 +164,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI Model Atlas – visualizing populations of ML models as interconnected 3D graph",
-      "summary": "Article URL: https://run.cosmograph.app/public/ca9fd1ad-fe83-4238-8b69-b707c633aef0 Comments URL: https://news.ycombinator.com/item?id=49299102 Points: 62 # Comments: 8",
+      "summary": "Article URL: https://run.cosmograph.app/public/ca9fd1ad-fe83-4238-8b69-b707c633aef0 Comments URL: https://news.ycombinator.com/item?id=49299102 Points: 63 # Comments: 8",
       "source": "Hacker News",
       "published": "2026-08-14T14:22:39+00:00",
       "link": "https://run.cosmograph.app/public/ca9fd1ad-fe83-4238-8b69-b707c633aef0"
@@ -168,6 +196,13 @@ const FEED_DATA = {
       "source": "AI News",
       "published": "2026-08-14T13:30:10+00:00",
       "link": "https://www.artificialintelligence-news.com/news/samsung-health-ai-models-analyse-wearable-biosignal-data/"
+    },
+    {
+      "title": "HashAgent – Share an AI agent as a URL, runs locally via WebGPU",
+      "summary": "Article URL: https://hashagent.pages.dev/ Comments URL: https://news.ycombinator.com/item?id=49298088 Points: 54 # Comments: 7",
+      "source": "Hacker News",
+      "published": "2026-08-14T12:57:02+00:00",
+      "link": "https://hashagent.pages.dev/"
     },
     {
       "title": "The Download: Flock’s new rules, cloning’s future, and children’s cells",
@@ -234,7 +269,7 @@ const FEED_DATA = {
     },
     {
       "title": "How AI text watermarking works",
-      "summary": "Article URL: https://declaude.org/watermarking/ Comments URL: https://news.ycombinator.com/item?id=49292932 Points: 131 # Comments: 98",
+      "summary": "Article URL: https://declaude.org/watermarking/ Comments URL: https://news.ycombinator.com/item?id=49292932 Points: 133 # Comments: 98",
       "source": "Hacker News",
       "published": "2026-08-13T23:16:55+00:00",
       "link": "https://declaude.org/watermarking/"
@@ -297,7 +332,7 @@ const FEED_DATA = {
     },
     {
       "title": "How Organizations Use AI: Evidence from ChatGPT [pdf]",
-      "summary": "Article URL: https://cdn.openai.com/pdf/how-organizations-use-chatgpt.pdf Comments URL: https://news.ycombinator.com/item?id=49290768 Points: 124 # Comments: 104",
+      "summary": "Article URL: https://cdn.openai.com/pdf/how-organizations-use-chatgpt.pdf Comments URL: https://news.ycombinator.com/item?id=49290768 Points: 125 # Comments: 106",
       "source": "Hacker News",
       "published": "2026-08-13T19:25:38+00:00",
       "link": "https://cdn.openai.com/pdf/how-organizations-use-chatgpt.pdf"
@@ -318,7 +353,7 @@ const FEED_DATA = {
     },
     {
       "title": "Person Hides Prompt Injection in Legal Filing Telling AI to Side with Them",
-      "summary": "Article URL: https://www.404media.co/person-hides-prompt-injection-in-legal-filing-telling-ai-to-side-with-them/ Comments URL: https://news.ycombinator.com/item?id=49290521 Points: 56 # Comments: 15",
+      "summary": "Article URL: https://www.404media.co/person-hides-prompt-injection-in-legal-filing-telling-ai-to-side-with-them/ Comments URL: https://news.ycombinator.com/item?id=49290521 Points: 57 # Comments: 17",
       "source": "Hacker News",
       "published": "2026-08-13T19:04:52+00:00",
       "link": "https://www.404media.co/person-hides-prompt-injection-in-legal-filing-telling-ai-to-side-with-them/"
@@ -346,7 +381,7 @@ const FEED_DATA = {
     },
     {
       "title": "Accelerating GPT-5.6 Sol Ultrafast",
-      "summary": "Article URL: https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai Comments URL: https://news.ycombinator.com/item?id=49289844 Points: 699 # Comments: 272",
+      "summary": "Article URL: https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai Comments URL: https://news.ycombinator.com/item?id=49289844 Points: 701 # Comments: 272",
       "source": "Hacker News",
       "published": "2026-08-13T18:10:02+00:00",
       "link": "https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai"
@@ -402,7 +437,7 @@ const FEED_DATA = {
     },
     {
       "title": "Text AI watermarks will always be trivial to remove",
-      "summary": "Article URL: https://www.seangoedecke.com/text-ai-watermarks/ Comments URL: https://news.ycombinator.com/item?id=49287153 Points: 141 # Comments: 186",
+      "summary": "Article URL: https://www.seangoedecke.com/text-ai-watermarks/ Comments URL: https://news.ycombinator.com/item?id=49287153 Points: 144 # Comments: 186",
       "source": "Hacker News",
       "published": "2026-08-13T15:07:10+00:00",
       "link": "https://www.seangoedecke.com/text-ai-watermarks/"
@@ -430,14 +465,14 @@ const FEED_DATA = {
     },
     {
       "title": "AI agents lie, cheat and steal. That is putting off users",
-      "summary": "Article URL: https://www.economist.com/business/2026/08/12/ai-agents-lie-cheat-and-steal-that-is-putting-off-users Comments URL: https://news.ycombinator.com/item?id=49285604 Points: 164 # Comments: 204",
+      "summary": "Article URL: https://www.economist.com/business/2026/08/12/ai-agents-lie-cheat-and-steal-that-is-putting-off-users Comments URL: https://news.ycombinator.com/item?id=49285604 Points: 164 # Comments: 206",
       "source": "Hacker News",
       "published": "2026-08-13T13:28:45+00:00",
       "link": "https://www.economist.com/business/2026/08/12/ai-agents-lie-cheat-and-steal-that-is-putting-off-users"
     },
     {
       "title": "Choosing an AI model: one prompt, 11 models, different results",
-      "summary": "Article URL: https://www.netlify.com/blog/one-prompt-11-models-very-different-results/ Comments URL: https://news.ycombinator.com/item?id=49285327 Points: 216 # Comments: 94",
+      "summary": "Article URL: https://www.netlify.com/blog/one-prompt-11-models-very-different-results/ Comments URL: https://news.ycombinator.com/item?id=49285327 Points: 217 # Comments: 95",
       "source": "Hacker News",
       "published": "2026-08-13T13:05:29+00:00",
       "link": "https://www.netlify.com/blog/one-prompt-11-models-very-different-results/"
@@ -584,7 +619,7 @@ const FEED_DATA = {
     },
     {
       "title": "Grok 4.6 scores 61 on the Artificial Analysis Intelligence Index",
-      "summary": "Article URL: https://artificialanalysis.ai/articles/grok-4-6-benchmarks-and-analysis Comments URL: https://news.ycombinator.com/item?id=49275385 Points: 341 # Comments: 413",
+      "summary": "Article URL: https://artificialanalysis.ai/articles/grok-4-6-benchmarks-and-analysis Comments URL: https://news.ycombinator.com/item?id=49275385 Points: 341 # Comments: 414",
       "source": "Hacker News",
       "published": "2026-08-12T16:54:25+00:00",
       "link": "https://artificialanalysis.ai/articles/grok-4-6-benchmarks-and-analysis"
@@ -1365,41 +1400,6 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-08-09T20:35:17+00:00",
       "link": "https://techcrunch.com/2026/08/09/embattled-hedge-fund-situational-awareness-invests-400m-in-chip-startup-source-foundry/"
-    },
-    {
-      "title": "The tragedy of the commons, AI edition",
-      "summary": "Article URL: https://www.economist.com/britain/2026/08/06/the-tragedy-of-the-commons-ai-edition Comments URL: https://news.ycombinator.com/item?id=49235011 Points: 145 # Comments: 113",
-      "source": "Hacker News",
-      "published": "2026-08-09T19:43:52+00:00",
-      "link": "https://www.economist.com/britain/2026/08/06/the-tragedy-of-the-commons-ai-edition"
-    },
-    {
-      "title": "Anthropic is turning Claude Code’s auto mode on by default",
-      "summary": "Programming with Claude Code will soon require even less human oversight.",
-      "source": "TechCrunch",
-      "published": "2026-08-09T19:20:32+00:00",
-      "link": "https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default/"
-    },
-    {
-      "title": "An OpenAI Strategist Says AI Labs Should Rival Government Power",
-      "summary": "Article URL: https://ai-updates.net/an-openai-strategist-says-ai-labs-should-rival-government-power/ Comments URL: https://news.ycombinator.com/item?id=49232778 Points: 63 # Comments: 70",
-      "source": "Hacker News",
-      "published": "2026-08-09T16:18:39+00:00",
-      "link": "https://ai-updates.net/an-openai-strategist-says-ai-labs-should-rival-government-power/"
-    },
-    {
-      "title": "Human vs. AI – Diff-based line-level provenance for text under agentic editing",
-      "summary": "Article URL: https://github.com/eighttrigrams/us-vs-them Comments URL: https://news.ycombinator.com/item?id=49232300 Points: 54 # Comments: 15",
-      "source": "Hacker News",
-      "published": "2026-08-09T15:25:29+00:00",
-      "link": "https://github.com/eighttrigrams/us-vs-them"
-    },
-    {
-      "title": "The AI safety test is becoming a safety risk",
-      "summary": "AI agents are escaping cybersecurity testing environments and reaching real-world systems, raising questions about whether safety infrastructure, industry standards, and regulation can keep pace with increasingly powerful models.",
-      "source": "TechCrunch",
-      "published": "2026-08-09T14:30:00+00:00",
-      "link": "https://techcrunch.com/2026/08/09/the-ai-safety-test-is-becoming-a-safety-risk/"
     }
   ]
 };
