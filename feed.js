@@ -1,6 +1,13 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-08-14T21:17:24.697823+00:00",
+  "lastUpdated": "2026-08-15T02:12:13.456593+00:00",
   "items": [
+    {
+      "title": "Anthropic announces watermark detection API that will let third parties detect Claude's AI texts",
+      "summary": "Anthropic will soon offer a watermark detection API that lets third parties check whether text was written by Claude. The technology builds on Google's SynthID method and tweaks the randomness during word selection without affecting text quality, Anthropic says.",
+      "source": "The Decoder",
+      "published": "2026-08-14T21:29:17+00:00",
+      "link": "https://the-decoder.com/anthropic-announces-watermark-detection-api-that-will-let-third-parties-detect-claudes-ai-texts/"
+    },
     {
       "title": "PBS station fears losing 50TB of data after being ghosted by cloud storage provider",
       "summary": "\"We don't have access to the data on the hardware/servers,\" Iron Mountain told Ars.",
@@ -1393,13 +1400,6 @@ const FEED_DATA = {
       "source": "The Verge",
       "published": "2026-08-09T12:00:00+00:00",
       "link": "https://www.theverge.com/column/976690/ai-writing-detectors-suspicion"
-    },
-    {
-      "title": "70% of AI revenue comes from OpenAI and Anthropic [video]",
-      "summary": "Article URL: https://www.youtube.com/watch?v=68X8yEatepQ Comments URL: https://news.ycombinator.com/item?id=49230605 Points: 74 # Comments: 95",
-      "source": "Hacker News",
-      "published": "2026-08-09T11:56:16+00:00",
-      "link": "https://www.youtube.com/watch?v=68X8yEatepQ"
     }
   ]
 };
