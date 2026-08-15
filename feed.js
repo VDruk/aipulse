@@ -1,6 +1,27 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-08-15T17:14:25.090666+00:00",
+  "lastUpdated": "2026-08-15T21:13:06.825307+00:00",
   "items": [
+    {
+      "title": "Have a laugh at AI’s expense by roleplaying as a chatbot",
+      "summary": "Your AI Slop Bores Me is brilliant in its simplicity. There are two tabs: human and LARP as an AI.",
+      "source": "The Verge",
+      "published": "2026-08-15T20:45:00+00:00",
+      "link": "https://www.theverge.com/entertainment/980502/roleplay-as-an-ai-chatbot"
+    },
+    {
+      "title": "Anthropic shares more details about how Claude’s new watermarks will work",
+      "summary": "How will the watermarking actually work? Can it be hidden with editing?",
+      "source": "TechCrunch",
+      "published": "2026-08-15T18:58:39+00:00",
+      "link": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/"
+    },
+    {
+      "title": "AI Isn't Outthinking Mathematicians. It's Out-Remembering Them",
+      "summary": "Article URL: https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians Comments URL: https://news.ycombinator.com/item?id=49312845 Points: 270 # Comments: 233",
+      "source": "Hacker News",
+      "published": "2026-08-15T18:13:02+00:00",
+      "link": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians"
+    },
     {
       "title": "SpaceX officially closes its Cursor acquisition",
       "summary": "AI coding startup Cursor is now officially a part of SpaceX.",
@@ -16,6 +37,27 @@ const FEED_DATA = {
       "link": "https://the-decoder.com/investor-pressure-forces-nvidia-to-shrink-its-openai-bet-just-as-anthropics-numbers-defy-bubble-warnings/"
     },
     {
+      "title": "AI Can Now Design Functional Viruses. Should We Worry?",
+      "summary": "Article URL: https://spectrum.ieee.org/ai-designed-virus Comments URL: https://news.ycombinator.com/item?id=49311445 Points: 57 # Comments: 114",
+      "source": "Hacker News",
+      "published": "2026-08-15T15:32:25+00:00",
+      "link": "https://spectrum.ieee.org/ai-designed-virus"
+    },
+    {
+      "title": "Secondhand book sales are booming. Is it because of AI?",
+      "summary": "Article URL: https://www.bbc.co.uk/news/articles/cp3rprx2wl4o Comments URL: https://news.ycombinator.com/item?id=49310725 Points: 62 # Comments: 69",
+      "source": "Hacker News",
+      "published": "2026-08-15T14:08:55+00:00",
+      "link": "https://www.bbc.co.uk/news/articles/cp3rprx2wl4o"
+    },
+    {
+      "title": "Cloudflare's AI Psychosis",
+      "summary": "Article URL: https://opensauce.it/cloudflare-ai-psychosis/ Comments URL: https://news.ycombinator.com/item?id=49310719 Points: 101 # Comments: 81",
+      "source": "Hacker News",
+      "published": "2026-08-15T14:08:40+00:00",
+      "link": "https://opensauce.it/cloudflare-ai-psychosis/"
+    },
+    {
       "title": "AI-generated books are flooding Amazon and tanking sales for human authors",
       "summary": "AI-generated books make up 20 percent of Amazon's self-published catalog but bring in only 12 percent of sales. A new study finds that revenue per book is dropping for human-written titles too, in seven of eight genres.",
       "source": "The Decoder",
@@ -23,8 +65,15 @@ const FEED_DATA = {
       "link": "https://the-decoder.com/ai-generated-books-are-flooding-amazon-and-tanking-sales-for-human-authors/"
     },
     {
+      "title": "Working with AI Feels More Like Leadership Than Coding",
+      "summary": "Article URL: https://allen.bargi.org/notes/working-with-ai-feels-like-leadership/ Comments URL: https://news.ycombinator.com/item?id=49309451 Points: 215 # Comments: 154",
+      "source": "Hacker News",
+      "published": "2026-08-15T10:39:41+00:00",
+      "link": "https://allen.bargi.org/notes/working-with-ai-feels-like-leadership/"
+    },
+    {
       "title": "Debian has begun voting on the future of AI/LLM contributions",
-      "summary": "Article URL: https://lists.debian.org/debian-devel-announce/2026/08/msg00002.html Comments URL: https://news.ycombinator.com/item?id=49309050 Points: 51 # Comments: 37",
+      "summary": "Article URL: https://lists.debian.org/debian-devel-announce/2026/08/msg00002.html Comments URL: https://news.ycombinator.com/item?id=49309050 Points: 64 # Comments: 57",
       "source": "Hacker News",
       "published": "2026-08-15T09:20:07+00:00",
       "link": "https://lists.debian.org/debian-devel-announce/2026/08/msg00002.html"
@@ -45,7 +94,7 @@ const FEED_DATA = {
     },
     {
       "title": "Suspecting court of using AI, man injected prompts in filings to try to win case",
-      "summary": "Article URL: https://arstechnica.com/tech-policy/2026/08/suspecting-court-of-using-ai-man-injected-prompts-in-filings-to-try-to-win-case/ Comments URL: https://news.ycombinator.com/item?id=49308553 Points: 56 # Comments: 43",
+      "summary": "Article URL: https://arstechnica.com/tech-policy/2026/08/suspecting-court-of-using-ai-man-injected-prompts-in-filings-to-try-to-win-case/ Comments URL: https://news.ycombinator.com/item?id=49308553 Points: 72 # Comments: 56",
       "source": "Hacker News",
       "published": "2026-08-15T07:31:46+00:00",
       "link": "https://arstechnica.com/tech-policy/2026/08/suspecting-court-of-using-ai-man-injected-prompts-in-filings-to-try-to-win-case/"
@@ -73,7 +122,7 @@ const FEED_DATA = {
     },
     {
       "title": "Show HN: ThoughtDAG – An editable context graph for LLM conversations",
-      "summary": "Article URL: https://chenxiachan.github.io/thoughtdag/ Comments URL: https://news.ycombinator.com/item?id=49307700 Points: 67 # Comments: 17",
+      "summary": "Article URL: https://chenxiachan.github.io/thoughtdag/ Comments URL: https://news.ycombinator.com/item?id=49307700 Points: 101 # Comments: 47",
       "source": "Hacker News",
       "published": "2026-08-15T04:42:07+00:00",
       "link": "https://chenxiachan.github.io/thoughtdag/"
@@ -129,7 +178,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI by Hand",
-      "summary": "Article URL: https://www.byhand.ai/ Comments URL: https://news.ycombinator.com/item?id=49300568 Points: 335 # Comments: 24",
+      "summary": "Article URL: https://www.byhand.ai/ Comments URL: https://news.ycombinator.com/item?id=49300568 Points: 347 # Comments: 29",
       "source": "Hacker News",
       "published": "2026-08-14T15:58:59+00:00",
       "link": "https://www.byhand.ai/"
@@ -143,7 +192,7 @@ const FEED_DATA = {
     },
     {
       "title": "Google is making private AI practical with homomorphic encryption",
-      "summary": "Article URL: https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/ Comments URL: https://news.ycombinator.com/item?id=49300314 Points: 435 # Comments: 260",
+      "summary": "Article URL: https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/ Comments URL: https://news.ycombinator.com/item?id=49300314 Points: 476 # Comments: 279",
       "source": "Hacker News",
       "published": "2026-08-14T15:43:10+00:00",
       "link": "https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/"
@@ -164,7 +213,7 @@ const FEED_DATA = {
     },
     {
       "title": "When Genius Fails: The Intellectual Arrogance of the AI Labs",
-      "summary": "Article URL: https://weightythoughts.com/p/when-genius-failsthe-intellectual Comments URL: https://news.ycombinator.com/item?id=49299282 Points: 172 # Comments: 195",
+      "summary": "Article URL: https://weightythoughts.com/p/when-genius-failsthe-intellectual Comments URL: https://news.ycombinator.com/item?id=49299282 Points: 174 # Comments: 196",
       "source": "Hacker News",
       "published": "2026-08-14T14:34:49+00:00",
       "link": "https://weightythoughts.com/p/when-genius-failsthe-intellectual"
@@ -178,7 +227,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI Model Atlas – visualizing populations of ML models as interconnected 3D graph",
-      "summary": "Article URL: https://run.cosmograph.app/public/ca9fd1ad-fe83-4238-8b69-b707c633aef0 Comments URL: https://news.ycombinator.com/item?id=49299102 Points: 63 # Comments: 8",
+      "summary": "Article URL: https://run.cosmograph.app/public/ca9fd1ad-fe83-4238-8b69-b707c633aef0 Comments URL: https://news.ycombinator.com/item?id=49299102 Points: 64 # Comments: 8",
       "source": "Hacker News",
       "published": "2026-08-14T14:22:39+00:00",
       "link": "https://run.cosmograph.app/public/ca9fd1ad-fe83-4238-8b69-b707c633aef0"
@@ -213,7 +262,7 @@ const FEED_DATA = {
     },
     {
       "title": "HashAgent – Share an AI agent as a URL, runs locally via WebGPU",
-      "summary": "Article URL: https://hashagent.pages.dev/ Comments URL: https://news.ycombinator.com/item?id=49298088 Points: 54 # Comments: 7",
+      "summary": "Article URL: https://hashagent.pages.dev/ Comments URL: https://news.ycombinator.com/item?id=49298088 Points: 57 # Comments: 7",
       "source": "Hacker News",
       "published": "2026-08-14T12:57:02+00:00",
       "link": "https://hashagent.pages.dev/"
@@ -346,7 +395,7 @@ const FEED_DATA = {
     },
     {
       "title": "How Organizations Use AI: Evidence from ChatGPT [pdf]",
-      "summary": "Article URL: https://cdn.openai.com/pdf/how-organizations-use-chatgpt.pdf Comments URL: https://news.ycombinator.com/item?id=49290768 Points: 125 # Comments: 106",
+      "summary": "Article URL: https://cdn.openai.com/pdf/how-organizations-use-chatgpt.pdf Comments URL: https://news.ycombinator.com/item?id=49290768 Points: 125 # Comments: 110",
       "source": "Hacker News",
       "published": "2026-08-13T19:25:38+00:00",
       "link": "https://cdn.openai.com/pdf/how-organizations-use-chatgpt.pdf"
@@ -395,7 +444,7 @@ const FEED_DATA = {
     },
     {
       "title": "Accelerating GPT-5.6 Sol Ultrafast",
-      "summary": "Article URL: https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai Comments URL: https://news.ycombinator.com/item?id=49289844 Points: 701 # Comments: 272",
+      "summary": "Article URL: https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai Comments URL: https://news.ycombinator.com/item?id=49289844 Points: 705 # Comments: 274",
       "source": "Hacker News",
       "published": "2026-08-13T18:10:02+00:00",
       "link": "https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai"
@@ -416,7 +465,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI At Home Part 1: A Box Of Scraps",
-      "summary": "Article URL: https://jdagostino.github.io/ai-pt1-box-o-scraps/index.html Comments URL: https://news.ycombinator.com/item?id=49288293 Points: 125 # Comments: 61",
+      "summary": "Article URL: https://jdagostino.github.io/ai-pt1-box-o-scraps/index.html Comments URL: https://news.ycombinator.com/item?id=49288293 Points: 126 # Comments: 62",
       "source": "Hacker News",
       "published": "2026-08-13T16:22:05+00:00",
       "link": "https://jdagostino.github.io/ai-pt1-box-o-scraps/index.html"
@@ -451,7 +500,7 @@ const FEED_DATA = {
     },
     {
       "title": "Text AI watermarks will always be trivial to remove",
-      "summary": "Article URL: https://www.seangoedecke.com/text-ai-watermarks/ Comments URL: https://news.ycombinator.com/item?id=49287153 Points: 144 # Comments: 186",
+      "summary": "Article URL: https://www.seangoedecke.com/text-ai-watermarks/ Comments URL: https://news.ycombinator.com/item?id=49287153 Points: 144 # Comments: 188",
       "source": "Hacker News",
       "published": "2026-08-13T15:07:10+00:00",
       "link": "https://www.seangoedecke.com/text-ai-watermarks/"
@@ -1351,55 +1400,6 @@ const FEED_DATA = {
       "source": "Hacker News",
       "published": "2026-08-10T09:53:37+00:00",
       "link": "https://www.bbc.com/news/articles/cvgx4yd1gl2o"
-    },
-    {
-      "title": "AI for science needs reasoning, not just data",
-      "summary": "Every few decades, someone announces that science has reached its end.",
-      "source": "MIT Tech Review",
-      "published": "2026-08-10T09:00:00+00:00",
-      "link": "https://www.technologyreview.com/2026/08/10/1141384/ai-agents-for-science/"
-    },
-    {
-      "title": "These startups are chasing the next big thing in LLMs",
-      "summary": "MIT Technology Review’s What’s Next series looks across industries, trends, and technologies to give you a first look at the future. You can read the rest of them here.",
-      "source": "MIT Tech Review",
-      "published": "2026-08-10T09:00:00+00:00",
-      "link": "https://www.technologyreview.com/2026/08/10/1141511/these-startups-are-chasing-the-next-big-thing-in-llms/"
-    },
-    {
-      "title": "Hidden text in a PDF is enough to steal sensitive data through Atlassian's AI agent Rovo",
-      "summary": "Security firm PromptArmor shows how hidden instructions in a PDF can hijack Atlassian's AI agent Rovo, silently forwarding sensitive data from Jira and Confluence to an external server. The attack needs no user confirmation and leaves no trace.",
-      "source": "The Decoder",
-      "published": "2026-08-10T08:46:36+00:00",
-      "link": "https://the-decoder.com/hidden-text-in-a-pdf-is-enough-to-steal-sensitive-data-through-atlassians-ai-agent-rovo/"
-    },
-    {
-      "title": "Docker Sandboxes – Disposable, isolated sandboxes for AI agents",
-      "summary": "Article URL: https://www.docker.com/products/docker-sandboxes/ Comments URL: https://news.ycombinator.com/item?id=49239751 Points: 684 # Comments: 392",
-      "source": "Hacker News",
-      "published": "2026-08-10T06:02:38+00:00",
-      "link": "https://www.docker.com/products/docker-sandboxes/"
-    },
-    {
-      "title": "The Philippines' big offshoring industry is growing despite AI",
-      "summary": "Article URL: https://www.economist.com/asia/2026/08/06/the-philippines-big-offshoring-industry-is-growing-despite-ai Comments URL: https://news.ycombinator.com/item?id=49239226 Points: 75 # Comments: 88",
-      "source": "Hacker News",
-      "published": "2026-08-10T04:35:24+00:00",
-      "link": "https://www.economist.com/asia/2026/08/06/the-philippines-big-offshoring-industry-is-growing-despite-ai"
-    },
-    {
-      "title": "Show HN: Voice driven murder mystery, Interview AI suspects with your voice",
-      "summary": "Hey HN!I'm excited to show off this really fun project I put together. I originally built this project 2-3 years ago, AI was already booming at the time, however voice AI agents were still very early.",
-      "source": "Hacker News",
-      "published": "2026-08-10T03:18:40+00:00",
-      "link": "https://www.whodunnitai.com/"
-    },
-    {
-      "title": "AI assistant hacks gym website in first known Australian autonomous cyber attack",
-      "summary": "Article URL: https://www.abc.net.au/news/2026-08-10/ai-assistant-hacks-gym-website-aus-cyber-attack/107007986 Comments URL: https://news.ycombinator.com/item?id=49236439 Points: 73 # Comments: 59",
-      "source": "Hacker News",
-      "published": "2026-08-09T21:52:23+00:00",
-      "link": "https://www.abc.net.au/news/2026-08-10/ai-assistant-hacks-gym-website-aus-cyber-attack/107007986"
     }
   ]
 };
