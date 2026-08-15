@@ -1,6 +1,41 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-08-15T05:28:33.864980+00:00",
+  "lastUpdated": "2026-08-15T09:13:22.601042+00:00",
   "items": [
+    {
+      "title": "Amazon Can Use Your Twitch Content to Train Its AI—Unless You Opt Out",
+      "summary": "When Twitch announced that streamers could opt out, thousands of users questioned why their content was being used to train AI models in the first place.",
+      "source": "Wired",
+      "published": "2026-08-15T09:00:00+00:00",
+      "link": "https://www.wired.com/story/amazon-uses-your-twitch-content-to-train-its-ai-how-to-opt-out/"
+    },
+    {
+      "title": "Plaintiff hid invisible AI instructions in court filings to secretly influence automated review",
+      "summary": "A plaintiff in Connecticut embedded invisible prompt injections in court filings, formatted in 3-point white text on a white background, to manipulate a potential AI review system.",
+      "source": "The Decoder",
+      "published": "2026-08-15T08:00:45+00:00",
+      "link": "https://the-decoder.com/plaintiff-hid-invisible-ai-instructions-in-court-filings-to-secretly-influence-automated-review/"
+    },
+    {
+      "title": "World Labs turns one real-world robot task into thousands of simulated variations for training",
+      "summary": "World Labs, the startup founded by AI pioneer Fei-Fei Li, has unveiled a simulation engine that trains robot controllers entirely in virtual environments. From a single real-world task, the system generates thousands of controlled variations.",
+      "source": "The Decoder",
+      "published": "2026-08-15T07:30:48+00:00",
+      "link": "https://the-decoder.com/world-labs-turns-one-real-world-robot-task-into-thousands-of-simulated-variations-for-training/"
+    },
+    {
+      "title": "The \"tragedy of the cognitive commons\" explains how rational AI adoption could destroy entire professions' expertise",
+      "summary": "A new research paper frames AI adoption as a \"tragedy of the cognitive commons.\" Every company that cuts entry-level jobs benefits individually, but the collective expertise of entire professions erodes.",
+      "source": "The Decoder",
+      "published": "2026-08-15T06:00:52+00:00",
+      "link": "https://the-decoder.com/the-tragedy-of-the-cognitive-commons-explains-how-rational-ai-adoption-could-destroy-entire-professions-expertise/"
+    },
+    {
+      "title": "New benchmark confirms AI models still perform poorly at visual perception",
+      "summary": "Moonshot AI's PerceptionBench tests how well multimodal AI models can actually \"see,\" separate from logical reasoning. No frontier model reaches 60 percent accuracy, and GPT-5.6 Sol leads by a narrow margin.",
+      "source": "The Decoder",
+      "published": "2026-08-15T05:30:18+00:00",
+      "link": "https://the-decoder.com/new-benchmark-confirms-ai-models-still-perform-poorly-at-visual-perception/"
+    },
     {
       "title": "Anthropic announces watermark detection API that will let third parties detect Claude's AI texts",
       "summary": "Anthropic will soon offer a watermark detection API that lets third parties check whether text was written by Claude. The technology builds on Google's SynthID method and tweaks the randomness during word selection without affecting text quality, Anthropic says.",
@@ -52,7 +87,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI by Hand",
-      "summary": "Article URL: https://www.byhand.ai/ Comments URL: https://news.ycombinator.com/item?id=49300568 Points: 246 # Comments: 19",
+      "summary": "Article URL: https://www.byhand.ai/ Comments URL: https://news.ycombinator.com/item?id=49300568 Points: 298 # Comments: 23",
       "source": "Hacker News",
       "published": "2026-08-14T15:58:59+00:00",
       "link": "https://www.byhand.ai/"
@@ -66,7 +101,7 @@ const FEED_DATA = {
     },
     {
       "title": "Google is making private AI practical with homomorphic encryption",
-      "summary": "Article URL: https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/ Comments URL: https://news.ycombinator.com/item?id=49300314 Points: 332 # Comments: 195",
+      "summary": "Article URL: https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/ Comments URL: https://news.ycombinator.com/item?id=49300314 Points: 381 # Comments: 221",
       "source": "Hacker News",
       "published": "2026-08-14T15:43:10+00:00",
       "link": "https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/"
@@ -87,7 +122,7 @@ const FEED_DATA = {
     },
     {
       "title": "When Genius Fails: The Intellectual Arrogance of the AI Labs",
-      "summary": "Article URL: https://weightythoughts.com/p/when-genius-failsthe-intellectual Comments URL: https://news.ycombinator.com/item?id=49299282 Points: 171 # Comments: 191",
+      "summary": "Article URL: https://weightythoughts.com/p/when-genius-failsthe-intellectual Comments URL: https://news.ycombinator.com/item?id=49299282 Points: 172 # Comments: 193",
       "source": "Hacker News",
       "published": "2026-08-14T14:34:49+00:00",
       "link": "https://weightythoughts.com/p/when-genius-failsthe-intellectual"
@@ -101,7 +136,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI Model Atlas – visualizing populations of ML models as interconnected 3D graph",
-      "summary": "Article URL: https://run.cosmograph.app/public/ca9fd1ad-fe83-4238-8b69-b707c633aef0 Comments URL: https://news.ycombinator.com/item?id=49299102 Points: 57 # Comments: 8",
+      "summary": "Article URL: https://run.cosmograph.app/public/ca9fd1ad-fe83-4238-8b69-b707c633aef0 Comments URL: https://news.ycombinator.com/item?id=49299102 Points: 62 # Comments: 8",
       "source": "Hacker News",
       "published": "2026-08-14T14:22:39+00:00",
       "link": "https://run.cosmograph.app/public/ca9fd1ad-fe83-4238-8b69-b707c633aef0"
@@ -199,7 +234,7 @@ const FEED_DATA = {
     },
     {
       "title": "How AI text watermarking works",
-      "summary": "Article URL: https://declaude.org/watermarking/ Comments URL: https://news.ycombinator.com/item?id=49292932 Points: 130 # Comments: 98",
+      "summary": "Article URL: https://declaude.org/watermarking/ Comments URL: https://news.ycombinator.com/item?id=49292932 Points: 131 # Comments: 98",
       "source": "Hacker News",
       "published": "2026-08-13T23:16:55+00:00",
       "link": "https://declaude.org/watermarking/"
@@ -332,7 +367,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI At Home Part 1: A Box Of Scraps",
-      "summary": "Article URL: https://jdagostino.github.io/ai-pt1-box-o-scraps/index.html Comments URL: https://news.ycombinator.com/item?id=49288293 Points: 125 # Comments: 60",
+      "summary": "Article URL: https://jdagostino.github.io/ai-pt1-box-o-scraps/index.html Comments URL: https://news.ycombinator.com/item?id=49288293 Points: 125 # Comments: 61",
       "source": "Hacker News",
       "published": "2026-08-13T16:22:05+00:00",
       "link": "https://jdagostino.github.io/ai-pt1-box-o-scraps/index.html"
@@ -367,7 +402,7 @@ const FEED_DATA = {
     },
     {
       "title": "Text AI watermarks will always be trivial to remove",
-      "summary": "Article URL: https://www.seangoedecke.com/text-ai-watermarks/ Comments URL: https://news.ycombinator.com/item?id=49287153 Points: 141 # Comments: 185",
+      "summary": "Article URL: https://www.seangoedecke.com/text-ai-watermarks/ Comments URL: https://news.ycombinator.com/item?id=49287153 Points: 141 # Comments: 186",
       "source": "Hacker News",
       "published": "2026-08-13T15:07:10+00:00",
       "link": "https://www.seangoedecke.com/text-ai-watermarks/"
@@ -395,7 +430,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI agents lie, cheat and steal. That is putting off users",
-      "summary": "Article URL: https://www.economist.com/business/2026/08/12/ai-agents-lie-cheat-and-steal-that-is-putting-off-users Comments URL: https://news.ycombinator.com/item?id=49285604 Points: 163 # Comments: 204",
+      "summary": "Article URL: https://www.economist.com/business/2026/08/12/ai-agents-lie-cheat-and-steal-that-is-putting-off-users Comments URL: https://news.ycombinator.com/item?id=49285604 Points: 164 # Comments: 204",
       "source": "Hacker News",
       "published": "2026-08-13T13:28:45+00:00",
       "link": "https://www.economist.com/business/2026/08/12/ai-agents-lie-cheat-and-steal-that-is-putting-off-users"
@@ -626,7 +661,7 @@ const FEED_DATA = {
     },
     {
       "title": "German advocacy group lodges criminal complaint over Meta AI glasses",
-      "summary": "Article URL: https://www.reuters.com/legal/government/german-advocacy-group-lodges-criminal-complaint-over-meta-ai-glasses-2026-08-12/ Comments URL: https://news.ycombinator.com/item?id=49272620 Points: 117 # Comments: 51",
+      "summary": "Article URL: https://www.reuters.com/legal/government/german-advocacy-group-lodges-criminal-complaint-over-meta-ai-glasses-2026-08-12/ Comments URL: https://news.ycombinator.com/item?id=49272620 Points: 117 # Comments: 52",
       "source": "Hacker News",
       "published": "2026-08-12T14:06:03+00:00",
       "link": "https://www.reuters.com/legal/government/german-advocacy-group-lodges-criminal-complaint-over-meta-ai-glasses-2026-08-12/"
@@ -661,7 +696,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI is removing the middle class of software engineering?",
-      "summary": "Article URL: https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html Comments URL: https://news.ycombinator.com/item?id=49271994 Points: 985 # Comments: 920",
+      "summary": "Article URL: https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html Comments URL: https://news.ycombinator.com/item?id=49271994 Points: 988 # Comments: 923",
       "source": "Hacker News",
       "published": "2026-08-12T13:20:05+00:00",
       "link": "https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html"
@@ -1365,41 +1400,6 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-08-09T14:30:00+00:00",
       "link": "https://techcrunch.com/2026/08/09/the-ai-safety-test-is-becoming-a-safety-risk/"
-    },
-    {
-      "title": "John C. Lilly on solid state intelligence and the elimination of man (1978)",
-      "summary": "Article URL: https://kibotronics.net/unlisted/lilly-machines/ Comments URL: https://news.ycombinator.com/item?id=49231397 Points: 147 # Comments: 126",
-      "source": "Hacker News",
-      "published": "2026-08-09T13:47:36+00:00",
-      "link": "https://kibotronics.net/unlisted/lilly-machines/"
-    },
-    {
-      "title": "Israeli startup was linked to rogue AI hacks at OpenAI, Anthropic and Meta",
-      "summary": "Article URL: https://www.cnbc.com/2026/08/09/israeli-startup-irregular-linked-to-ai-hacks-openai-anthropic-meta.html Comments URL: https://news.ycombinator.com/item?id=49231022 Points: 52 # Comments: 17",
-      "source": "Hacker News",
-      "published": "2026-08-09T13:03:49+00:00",
-      "link": "https://www.cnbc.com/2026/08/09/israeli-startup-irregular-linked-to-ai-hacks-openai-anthropic-meta.html"
-    },
-    {
-      "title": "Scammers are enrolling fake students at US community colleges and using AI to collect financial aid",
-      "summary": "AI-powered cheating is spreading at US community colleges. According to The New Yorker, scammers enroll fake students in courses, use AI to complete their assignments, and pocket the financial aid.",
-      "source": "The Decoder",
-      "published": "2026-08-09T13:00:59+00:00",
-      "link": "https://the-decoder.com/scammers-are-enrolling-fake-students-at-us-community-colleges-and-using-ai-to-collect-financial-aid/"
-    },
-    {
-      "title": "Amazon circumvents Gilroy community vote for AI data center",
-      "summary": "Article URL: https://www.tomshardware.com/tech-industry/data-centers/amazon-secretly-circumvents-community-vote-for-massive-ai-data-center-45-year-old-rules-lock-gilroy-residents-out-of-public-comment-window Comments URL: https://news.ycombinator.com/item?id=49230954 Points: 60...",
-      "source": "Hacker News",
-      "published": "2026-08-09T12:52:10+00:00",
-      "link": "https://www.tomshardware.com/tech-industry/data-centers/amazon-secretly-circumvents-community-vote-for-massive-ai-data-center-45-year-old-rules-lock-gilroy-residents-out-of-public-comment-window"
-    },
-    {
-      "title": "Google Deepmind's WeatherNext predicts cyclone tracks and intensity at the same time",
-      "summary": "Deepmind's new weather AI forecasts tropical cyclones about a day further ahead than leading operational models, matching a decade of progress in traditional weather forecasting. Code and model weights are open-source on GitHub.",
-      "source": "The Decoder",
-      "published": "2026-08-09T12:29:06+00:00",
-      "link": "https://the-decoder.com/google-deepminds-weathernext-predicts-cyclone-tracks-and-intensity-at-the-same-time/"
     }
   ]
 };
