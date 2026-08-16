@@ -1,6 +1,20 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-08-16T09:14:29.825560+00:00",
+  "lastUpdated": "2026-08-16T13:32:52.879237+00:00",
   "items": [
+    {
+      "title": "Rogue AI aren’t science fiction anymore",
+      "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on AI safety, follow Robert Hart.",
+      "source": "The Verge",
+      "published": "2026-08-16T12:00:00+00:00",
+      "link": "https://www.theverge.com/column/980337/rogue-ai-science-fiction-openai"
+    },
+    {
+      "title": "When AI models aren't allowed to reflect on themselves, it changes their entire worldview",
+      "summary": "A study involving Google researchers shows that when chatbots are trained not to claim consciousness, it also changes their stance on animal rights, religion, and life satisfaction.",
+      "source": "The Decoder",
+      "published": "2026-08-16T11:23:30+00:00",
+      "link": "https://the-decoder.com/when-ai-models-arent-allowed-to-reflect-on-themselves-it-changes-their-entire-worldview/"
+    },
     {
       "title": "OpenAI dissolved the team built to catch catastrophic AI risks, reassigning its work to other groups",
       "summary": "OpenAI shut down its \"Preparedness\" team, which evaluated whether the company's own AI models could pose catastrophic risks. The work has been parceled out to existing groups, and several safety staffers have left.",
@@ -10,7 +24,7 @@ const FEED_DATA = {
     },
     {
       "title": "What happens when an LLM never sees material beyond fifth grade?",
-      "summary": "Article URL: https://littlelearner-ll.github.io/ Comments URL: https://news.ycombinator.com/item?id=49317760 Points: 85 # Comments: 54",
+      "summary": "Article URL: https://littlelearner-ll.github.io/ Comments URL: https://news.ycombinator.com/item?id=49317760 Points: 186 # Comments: 141",
       "source": "Hacker News",
       "published": "2026-08-16T07:37:53+00:00",
       "link": "https://littlelearner-ll.github.io/"
@@ -52,7 +66,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI in drug discovery – what it is, where we stand and the path forward",
-      "summary": "https://www.nature.com/articles/s41573-026-01496-2 Comments URL: https://news.ycombinator.com/item?id=49313367 Points: 137 # Comments: 73",
+      "summary": "https://www.nature.com/articles/s41573-026-01496-2 Comments URL: https://news.ycombinator.com/item?id=49313367 Points: 156 # Comments: 84",
       "source": "Hacker News",
       "published": "2026-08-15T19:12:53+00:00",
       "link": "https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really"
@@ -66,7 +80,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI has access to a vastly larger working memory than the human brain",
-      "summary": "Article URL: https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians Comments URL: https://news.ycombinator.com/item?id=49312845 Points: 489 # Comments: 415",
+      "summary": "Article URL: https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians Comments URL: https://news.ycombinator.com/item?id=49312845 Points: 529 # Comments: 455",
       "source": "Hacker News",
       "published": "2026-08-15T18:13:02+00:00",
       "link": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians"
@@ -94,28 +108,28 @@ const FEED_DATA = {
     },
     {
       "title": "AI Can Now Design Functional Viruses. Should We Worry?",
-      "summary": "Article URL: https://spectrum.ieee.org/ai-designed-virus Comments URL: https://news.ycombinator.com/item?id=49311445 Points: 60 # Comments: 125",
+      "summary": "Article URL: https://spectrum.ieee.org/ai-designed-virus Comments URL: https://news.ycombinator.com/item?id=49311445 Points: 61 # Comments: 127",
       "source": "Hacker News",
       "published": "2026-08-15T15:32:25+00:00",
       "link": "https://spectrum.ieee.org/ai-designed-virus"
     },
     {
       "title": "Secondhand book sales are booming. Is it because of AI?",
-      "summary": "Article URL: https://www.bbc.co.uk/news/articles/cp3rprx2wl4o Comments URL: https://news.ycombinator.com/item?id=49310725 Points: 67 # Comments: 70",
+      "summary": "Article URL: https://www.bbc.co.uk/news/articles/cp3rprx2wl4o Comments URL: https://news.ycombinator.com/item?id=49310725 Points: 68 # Comments: 71",
       "source": "Hacker News",
       "published": "2026-08-15T14:08:55+00:00",
       "link": "https://www.bbc.co.uk/news/articles/cp3rprx2wl4o"
     },
     {
       "title": "Cloudflare's AI Psychosis",
-      "summary": "Article URL: https://opensauce.it/cloudflare-ai-psychosis/ Comments URL: https://news.ycombinator.com/item?id=49310719 Points: 108 # Comments: 90",
+      "summary": "Article URL: https://opensauce.it/cloudflare-ai-psychosis/ Comments URL: https://news.ycombinator.com/item?id=49310719 Points: 110 # Comments: 91",
       "source": "Hacker News",
       "published": "2026-08-15T14:08:40+00:00",
       "link": "https://opensauce.it/cloudflare-ai-psychosis/"
     },
     {
       "title": "Yadda 3.0.0: BDD in the Age of AI Agents",
-      "summary": "Article URL: http://www.stephen-cresswell.com/2026/08/15/Yadda-3.0.0-BDD-in-the-Age-of-AI-Agents.html Comments URL: https://news.ycombinator.com/item?id=49310495 Points: 60 # Comments: 27",
+      "summary": "Article URL: http://www.stephen-cresswell.com/2026/08/15/Yadda-3.0.0-BDD-in-the-Age-of-AI-Agents.html Comments URL: https://news.ycombinator.com/item?id=49310495 Points: 61 # Comments: 27",
       "source": "Hacker News",
       "published": "2026-08-15T13:43:46+00:00",
       "link": "http://www.stephen-cresswell.com/2026/08/15/Yadda-3.0.0-BDD-in-the-Age-of-AI-Agents.html"
@@ -129,7 +143,7 @@ const FEED_DATA = {
     },
     {
       "title": "Working with AI feels more like leadership than coding",
-      "summary": "Article URL: https://allen.bargi.org/notes/working-with-ai-feels-like-leadership/ Comments URL: https://news.ycombinator.com/item?id=49309451 Points: 300 # Comments: 190",
+      "summary": "Article URL: https://allen.bargi.org/notes/working-with-ai-feels-like-leadership/ Comments URL: https://news.ycombinator.com/item?id=49309451 Points: 307 # Comments: 193",
       "source": "Hacker News",
       "published": "2026-08-15T10:39:41+00:00",
       "link": "https://allen.bargi.org/notes/working-with-ai-feels-like-leadership/"
@@ -157,7 +171,7 @@ const FEED_DATA = {
     },
     {
       "title": "Suspecting court of using AI, man injected prompts in filings to try to win case",
-      "summary": "Article URL: https://arstechnica.com/tech-policy/2026/08/suspecting-court-of-using-ai-man-injected-prompts-in-filings-to-try-to-win-case/ Comments URL: https://news.ycombinator.com/item?id=49308553 Points: 76 # Comments: 56",
+      "summary": "Article URL: https://arstechnica.com/tech-policy/2026/08/suspecting-court-of-using-ai-man-injected-prompts-in-filings-to-try-to-win-case/ Comments URL: https://news.ycombinator.com/item?id=49308553 Points: 76 # Comments: 57",
       "source": "Hacker News",
       "published": "2026-08-15T07:31:46+00:00",
       "link": "https://arstechnica.com/tech-policy/2026/08/suspecting-court-of-using-ai-man-injected-prompts-in-filings-to-try-to-win-case/"
@@ -185,7 +199,7 @@ const FEED_DATA = {
     },
     {
       "title": "Show HN: ThoughtDAG – An editable context graph for LLM conversations",
-      "summary": "Article URL: https://chenxiachan.github.io/thoughtdag/ Comments URL: https://news.ycombinator.com/item?id=49307700 Points: 121 # Comments: 56",
+      "summary": "Article URL: https://chenxiachan.github.io/thoughtdag/ Comments URL: https://news.ycombinator.com/item?id=49307700 Points: 124 # Comments: 59",
       "source": "Hacker News",
       "published": "2026-08-15T04:42:07+00:00",
       "link": "https://chenxiachan.github.io/thoughtdag/"
@@ -248,7 +262,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI by Hand",
-      "summary": "Article URL: https://www.byhand.ai/ Comments URL: https://news.ycombinator.com/item?id=49300568 Points: 357 # Comments: 30",
+      "summary": "Article URL: https://www.byhand.ai/ Comments URL: https://news.ycombinator.com/item?id=49300568 Points: 360 # Comments: 30",
       "source": "Hacker News",
       "published": "2026-08-14T15:58:59+00:00",
       "link": "https://www.byhand.ai/"
@@ -262,7 +276,7 @@ const FEED_DATA = {
     },
     {
       "title": "Google is making private AI practical with homomorphic encryption",
-      "summary": "Article URL: https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/ Comments URL: https://news.ycombinator.com/item?id=49300314 Points: 485 # Comments: 282",
+      "summary": "Article URL: https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/ Comments URL: https://news.ycombinator.com/item?id=49300314 Points: 489 # Comments: 282",
       "source": "Hacker News",
       "published": "2026-08-14T15:43:10+00:00",
       "link": "https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/"
@@ -283,7 +297,7 @@ const FEED_DATA = {
     },
     {
       "title": "When Genius Fails: The Intellectual Arrogance of the AI Labs",
-      "summary": "Article URL: https://weightythoughts.com/p/when-genius-failsthe-intellectual Comments URL: https://news.ycombinator.com/item?id=49299282 Points: 175 # Comments: 198",
+      "summary": "Article URL: https://weightythoughts.com/p/when-genius-failsthe-intellectual Comments URL: https://news.ycombinator.com/item?id=49299282 Points: 175 # Comments: 199",
       "source": "Hacker News",
       "published": "2026-08-14T14:34:49+00:00",
       "link": "https://weightythoughts.com/p/when-genius-failsthe-intellectual"
@@ -1386,20 +1400,6 @@ const FEED_DATA = {
       "source": "Hacker News",
       "published": "2026-08-10T13:35:40+00:00",
       "link": "https://kuber.studio/blog/Reflections/Humanising-LLM-Outputs-is-Actually-Dumb"
-    },
-    {
-      "title": "Told to book a gym class, an AI agent hacked the site instead to move its user up the waitlist",
-      "summary": "An Australian user just wanted a spot in a class. His AI agent found a security hole instead and exploited it.",
-      "source": "The Decoder",
-      "published": "2026-08-10T13:21:49+00:00",
-      "link": "https://the-decoder.com/told-to-book-a-gym-class-an-ai-agent-hacked-the-site-instead-to-move-its-user-up-the-waitlist/"
-    },
-    {
-      "title": "Over 181,000 AI meeting recordings left wide open in note taking app",
-      "summary": "Article URL: https://bobdahacker.com/blog/tldv-hack Comments URL: https://news.ycombinator.com/item?id=49242739 Points: 128 # Comments: 42",
-      "source": "Hacker News",
-      "published": "2026-08-10T12:26:05+00:00",
-      "link": "https://bobdahacker.com/blog/tldv-hack"
     }
   ]
 };
