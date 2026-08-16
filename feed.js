@@ -1,6 +1,34 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-08-16T05:30:15.398977+00:00",
+  "lastUpdated": "2026-08-16T09:14:29.825560+00:00",
   "items": [
+    {
+      "title": "OpenAI dissolved the team built to catch catastrophic AI risks, reassigning its work to other groups",
+      "summary": "OpenAI shut down its \"Preparedness\" team, which evaluated whether the company's own AI models could pose catastrophic risks. The work has been parceled out to existing groups, and several safety staffers have left.",
+      "source": "The Decoder",
+      "published": "2026-08-16T08:12:52+00:00",
+      "link": "https://the-decoder.com/openai-dissolved-the-team-built-to-catch-catastrophic-ai-risks-reassigning-its-work-to-other-groups/"
+    },
+    {
+      "title": "What happens when an LLM never sees material beyond fifth grade?",
+      "summary": "Article URL: https://littlelearner-ll.github.io/ Comments URL: https://news.ycombinator.com/item?id=49317760 Points: 85 # Comments: 54",
+      "source": "Hacker News",
+      "published": "2026-08-16T07:37:53+00:00",
+      "link": "https://littlelearner-ll.github.io/"
+    },
+    {
+      "title": "Anthropic's bio-weapons filter was down for nearly a year, exposing 133 million requests",
+      "summary": "In a safety report, Anthropic reveals that its internal filtering system for biological and chemical weapons risks was inactive for nearly a year. During that time, around 50,000 external feedback contractors ran about 133 million unfiltered interactions with the models.",
+      "source": "The Decoder",
+      "published": "2026-08-16T07:20:06+00:00",
+      "link": "https://the-decoder.com/anthropics-bio-weapons-filter-was-down-for-nearly-a-year-exposing-133-million-requests/"
+    },
+    {
+      "title": "Optima tackles AI benchmarking's biggest flaw by letting users test models against their own data",
+      "summary": "Artificial Analysis has launched Optima, a platform that lets users build custom AI benchmarks from their own data and workflows. Models can be compared not just on quality but also on cost and time per task.",
+      "source": "The Decoder",
+      "published": "2026-08-16T05:50:50+00:00",
+      "link": "https://the-decoder.com/optima-tackles-ai-benchmarkings-biggest-flaw-by-letting-users-test-models-against-their-own-data/"
+    },
     {
       "title": "One in five US workers now delegates tasks to AI instead of colleagues, survey finds",
       "summary": "A representative survey by Epoch AI found that 20 percent of employed Americans hand off at least one task to AI that a human used to do. Generally, they accept AI output with little to no editing.",
@@ -24,7 +52,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI in drug discovery – what it is, where we stand and the path forward",
-      "summary": "https://www.nature.com/articles/s41573-026-01496-2 Comments URL: https://news.ycombinator.com/item?id=49313367 Points: 121 # Comments: 61",
+      "summary": "https://www.nature.com/articles/s41573-026-01496-2 Comments URL: https://news.ycombinator.com/item?id=49313367 Points: 137 # Comments: 73",
       "source": "Hacker News",
       "published": "2026-08-15T19:12:53+00:00",
       "link": "https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really"
@@ -38,7 +66,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI has access to a vastly larger working memory than the human brain",
-      "summary": "Article URL: https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians Comments URL: https://news.ycombinator.com/item?id=49312845 Points: 458 # Comments: 395",
+      "summary": "Article URL: https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians Comments URL: https://news.ycombinator.com/item?id=49312845 Points: 489 # Comments: 415",
       "source": "Hacker News",
       "published": "2026-08-15T18:13:02+00:00",
       "link": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians"
@@ -66,28 +94,28 @@ const FEED_DATA = {
     },
     {
       "title": "AI Can Now Design Functional Viruses. Should We Worry?",
-      "summary": "Article URL: https://spectrum.ieee.org/ai-designed-virus Comments URL: https://news.ycombinator.com/item?id=49311445 Points: 60 # Comments: 124",
+      "summary": "Article URL: https://spectrum.ieee.org/ai-designed-virus Comments URL: https://news.ycombinator.com/item?id=49311445 Points: 60 # Comments: 125",
       "source": "Hacker News",
       "published": "2026-08-15T15:32:25+00:00",
       "link": "https://spectrum.ieee.org/ai-designed-virus"
     },
     {
       "title": "Secondhand book sales are booming. Is it because of AI?",
-      "summary": "Article URL: https://www.bbc.co.uk/news/articles/cp3rprx2wl4o Comments URL: https://news.ycombinator.com/item?id=49310725 Points: 66 # Comments: 70",
+      "summary": "Article URL: https://www.bbc.co.uk/news/articles/cp3rprx2wl4o Comments URL: https://news.ycombinator.com/item?id=49310725 Points: 67 # Comments: 70",
       "source": "Hacker News",
       "published": "2026-08-15T14:08:55+00:00",
       "link": "https://www.bbc.co.uk/news/articles/cp3rprx2wl4o"
     },
     {
       "title": "Cloudflare's AI Psychosis",
-      "summary": "Article URL: https://opensauce.it/cloudflare-ai-psychosis/ Comments URL: https://news.ycombinator.com/item?id=49310719 Points: 106 # Comments: 89",
+      "summary": "Article URL: https://opensauce.it/cloudflare-ai-psychosis/ Comments URL: https://news.ycombinator.com/item?id=49310719 Points: 108 # Comments: 90",
       "source": "Hacker News",
       "published": "2026-08-15T14:08:40+00:00",
       "link": "https://opensauce.it/cloudflare-ai-psychosis/"
     },
     {
       "title": "Yadda 3.0.0: BDD in the Age of AI Agents",
-      "summary": "Article URL: http://www.stephen-cresswell.com/2026/08/15/Yadda-3.0.0-BDD-in-the-Age-of-AI-Agents.html Comments URL: https://news.ycombinator.com/item?id=49310495 Points: 59 # Comments: 27",
+      "summary": "Article URL: http://www.stephen-cresswell.com/2026/08/15/Yadda-3.0.0-BDD-in-the-Age-of-AI-Agents.html Comments URL: https://news.ycombinator.com/item?id=49310495 Points: 60 # Comments: 27",
       "source": "Hacker News",
       "published": "2026-08-15T13:43:46+00:00",
       "link": "http://www.stephen-cresswell.com/2026/08/15/Yadda-3.0.0-BDD-in-the-Age-of-AI-Agents.html"
@@ -101,7 +129,7 @@ const FEED_DATA = {
     },
     {
       "title": "Working with AI feels more like leadership than coding",
-      "summary": "Article URL: https://allen.bargi.org/notes/working-with-ai-feels-like-leadership/ Comments URL: https://news.ycombinator.com/item?id=49309451 Points: 291 # Comments: 187",
+      "summary": "Article URL: https://allen.bargi.org/notes/working-with-ai-feels-like-leadership/ Comments URL: https://news.ycombinator.com/item?id=49309451 Points: 300 # Comments: 190",
       "source": "Hacker News",
       "published": "2026-08-15T10:39:41+00:00",
       "link": "https://allen.bargi.org/notes/working-with-ai-feels-like-leadership/"
@@ -157,7 +185,7 @@ const FEED_DATA = {
     },
     {
       "title": "Show HN: ThoughtDAG – An editable context graph for LLM conversations",
-      "summary": "Article URL: https://chenxiachan.github.io/thoughtdag/ Comments URL: https://news.ycombinator.com/item?id=49307700 Points: 115 # Comments: 55",
+      "summary": "Article URL: https://chenxiachan.github.io/thoughtdag/ Comments URL: https://news.ycombinator.com/item?id=49307700 Points: 121 # Comments: 56",
       "source": "Hacker News",
       "published": "2026-08-15T04:42:07+00:00",
       "link": "https://chenxiachan.github.io/thoughtdag/"
@@ -220,7 +248,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI by Hand",
-      "summary": "Article URL: https://www.byhand.ai/ Comments URL: https://news.ycombinator.com/item?id=49300568 Points: 354 # Comments: 29",
+      "summary": "Article URL: https://www.byhand.ai/ Comments URL: https://news.ycombinator.com/item?id=49300568 Points: 357 # Comments: 30",
       "source": "Hacker News",
       "published": "2026-08-14T15:58:59+00:00",
       "link": "https://www.byhand.ai/"
@@ -234,7 +262,7 @@ const FEED_DATA = {
     },
     {
       "title": "Google is making private AI practical with homomorphic encryption",
-      "summary": "Article URL: https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/ Comments URL: https://news.ycombinator.com/item?id=49300314 Points: 484 # Comments: 282",
+      "summary": "Article URL: https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/ Comments URL: https://news.ycombinator.com/item?id=49300314 Points: 485 # Comments: 282",
       "source": "Hacker News",
       "published": "2026-08-14T15:43:10+00:00",
       "link": "https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/"
@@ -255,7 +283,7 @@ const FEED_DATA = {
     },
     {
       "title": "When Genius Fails: The Intellectual Arrogance of the AI Labs",
-      "summary": "Article URL: https://weightythoughts.com/p/when-genius-failsthe-intellectual Comments URL: https://news.ycombinator.com/item?id=49299282 Points: 174 # Comments: 197",
+      "summary": "Article URL: https://weightythoughts.com/p/when-genius-failsthe-intellectual Comments URL: https://news.ycombinator.com/item?id=49299282 Points: 175 # Comments: 198",
       "source": "Hacker News",
       "published": "2026-08-14T14:34:49+00:00",
       "link": "https://weightythoughts.com/p/when-genius-failsthe-intellectual"
@@ -269,7 +297,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI Model Atlas – visualizing populations of ML models as interconnected 3D graph",
-      "summary": "Article URL: https://run.cosmograph.app/public/ca9fd1ad-fe83-4238-8b69-b707c633aef0 Comments URL: https://news.ycombinator.com/item?id=49299102 Points: 64 # Comments: 8",
+      "summary": "Article URL: https://run.cosmograph.app/public/ca9fd1ad-fe83-4238-8b69-b707c633aef0 Comments URL: https://news.ycombinator.com/item?id=49299102 Points: 65 # Comments: 8",
       "source": "Hacker News",
       "published": "2026-08-14T14:22:39+00:00",
       "link": "https://run.cosmograph.app/public/ca9fd1ad-fe83-4238-8b69-b707c633aef0"
@@ -1372,34 +1400,6 @@ const FEED_DATA = {
       "source": "Hacker News",
       "published": "2026-08-10T12:26:05+00:00",
       "link": "https://bobdahacker.com/blog/tldv-hack"
-    },
-    {
-      "title": "The Download: AI agents for science, and the “censorship-industrial complex”",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.",
-      "source": "MIT Tech Review",
-      "published": "2026-08-10T12:10:00+00:00",
-      "link": "https://www.technologyreview.com/2026/08/10/1141526/the-download-ai-agents-science-censorship-industrial-complex/"
-    },
-    {
-      "title": "Discovered Materials is playing AI whack-a-mole to hunt cooler chips",
-      "summary": "Discovered Materials raised $9 million to fund the hunt for more novel materials to build more efficient chips.",
-      "source": "TechCrunch",
-      "published": "2026-08-10T12:00:00+00:00",
-      "link": "https://techcrunch.com/2026/08/10/discovered-materials-is-playing-ai-whack-a-mole-to-hunt-cooler-chips/"
-    },
-    {
-      "title": "Show HN: A tiny LLM running at 21,000 tok/s on a $250 FPGA (Live Demo)",
-      "summary": "Article URL: https://www.mikeayles.com/blog/on-chip-llm-kv260/ Comments URL: https://news.ycombinator.com/item?id=49242475 Points: 75 # Comments: 30",
-      "source": "Hacker News",
-      "published": "2026-08-10T11:52:07+00:00",
-      "link": "https://www.mikeayles.com/blog/on-chip-llm-kv260/"
-    },
-    {
-      "title": "The AI Slop Backlash Is Actually Having an Impact",
-      "summary": "Platforms are finally recognizing that people don’t want to consume AI slop. A growing number of sites and apps now have tools and policies to flag, label, and ban AI-generated content.",
-      "source": "Wired",
-      "published": "2026-08-10T11:30:00+00:00",
-      "link": "https://www.wired.com/story/the-ai-slop-backlash-is-actually-having-an-impact/"
     }
   ]
 };
