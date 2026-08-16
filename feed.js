@@ -1,6 +1,13 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-08-16T02:20:20.291394+00:00",
+  "lastUpdated": "2026-08-16T05:30:15.398977+00:00",
   "items": [
+    {
+      "title": "One in five US workers now delegates tasks to AI instead of colleagues, survey finds",
+      "summary": "A representative survey by Epoch AI found that 20 percent of employed Americans hand off at least one task to AI that a human used to do. Generally, they accept AI output with little to no editing.",
+      "source": "The Decoder",
+      "published": "2026-08-16T05:00:00+00:00",
+      "link": "https://the-decoder.com/one-in-five-us-workers-now-delegates-tasks-to-ai-instead-of-colleagues-survey-finds/"
+    },
     {
       "title": "Woman claims her stepfather used Grok to transform childhood photo into explicit imagery",
       "summary": "The woman claimed that AI tools are \"taking everyday life and turning it into child sexual abuse.\"",
@@ -17,7 +24,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI in drug discovery – what it is, where we stand and the path forward",
-      "summary": "https://www.nature.com/articles/s41573-026-01496-2 Comments URL: https://news.ycombinator.com/item?id=49313367 Points: 98 # Comments: 48",
+      "summary": "https://www.nature.com/articles/s41573-026-01496-2 Comments URL: https://news.ycombinator.com/item?id=49313367 Points: 121 # Comments: 61",
       "source": "Hacker News",
       "published": "2026-08-15T19:12:53+00:00",
       "link": "https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really"
@@ -31,7 +38,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI has access to a vastly larger working memory than the human brain",
-      "summary": "Article URL: https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians Comments URL: https://news.ycombinator.com/item?id=49312845 Points: 421 # Comments: 373",
+      "summary": "Article URL: https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians Comments URL: https://news.ycombinator.com/item?id=49312845 Points: 458 # Comments: 395",
       "source": "Hacker News",
       "published": "2026-08-15T18:13:02+00:00",
       "link": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians"
@@ -59,28 +66,28 @@ const FEED_DATA = {
     },
     {
       "title": "AI Can Now Design Functional Viruses. Should We Worry?",
-      "summary": "Article URL: https://spectrum.ieee.org/ai-designed-virus Comments URL: https://news.ycombinator.com/item?id=49311445 Points: 59 # Comments: 123",
+      "summary": "Article URL: https://spectrum.ieee.org/ai-designed-virus Comments URL: https://news.ycombinator.com/item?id=49311445 Points: 60 # Comments: 124",
       "source": "Hacker News",
       "published": "2026-08-15T15:32:25+00:00",
       "link": "https://spectrum.ieee.org/ai-designed-virus"
     },
     {
       "title": "Secondhand book sales are booming. Is it because of AI?",
-      "summary": "Article URL: https://www.bbc.co.uk/news/articles/cp3rprx2wl4o Comments URL: https://news.ycombinator.com/item?id=49310725 Points: 65 # Comments: 70",
+      "summary": "Article URL: https://www.bbc.co.uk/news/articles/cp3rprx2wl4o Comments URL: https://news.ycombinator.com/item?id=49310725 Points: 66 # Comments: 70",
       "source": "Hacker News",
       "published": "2026-08-15T14:08:55+00:00",
       "link": "https://www.bbc.co.uk/news/articles/cp3rprx2wl4o"
     },
     {
       "title": "Cloudflare's AI Psychosis",
-      "summary": "Article URL: https://opensauce.it/cloudflare-ai-psychosis/ Comments URL: https://news.ycombinator.com/item?id=49310719 Points: 106 # Comments: 87",
+      "summary": "Article URL: https://opensauce.it/cloudflare-ai-psychosis/ Comments URL: https://news.ycombinator.com/item?id=49310719 Points: 106 # Comments: 89",
       "source": "Hacker News",
       "published": "2026-08-15T14:08:40+00:00",
       "link": "https://opensauce.it/cloudflare-ai-psychosis/"
     },
     {
       "title": "Yadda 3.0.0: BDD in the Age of AI Agents",
-      "summary": "Article URL: http://www.stephen-cresswell.com/2026/08/15/Yadda-3.0.0-BDD-in-the-Age-of-AI-Agents.html Comments URL: https://news.ycombinator.com/item?id=49310495 Points: 56 # Comments: 27",
+      "summary": "Article URL: http://www.stephen-cresswell.com/2026/08/15/Yadda-3.0.0-BDD-in-the-Age-of-AI-Agents.html Comments URL: https://news.ycombinator.com/item?id=49310495 Points: 59 # Comments: 27",
       "source": "Hacker News",
       "published": "2026-08-15T13:43:46+00:00",
       "link": "http://www.stephen-cresswell.com/2026/08/15/Yadda-3.0.0-BDD-in-the-Age-of-AI-Agents.html"
@@ -94,7 +101,7 @@ const FEED_DATA = {
     },
     {
       "title": "Working with AI feels more like leadership than coding",
-      "summary": "Article URL: https://allen.bargi.org/notes/working-with-ai-feels-like-leadership/ Comments URL: https://news.ycombinator.com/item?id=49309451 Points: 271 # Comments: 176",
+      "summary": "Article URL: https://allen.bargi.org/notes/working-with-ai-feels-like-leadership/ Comments URL: https://news.ycombinator.com/item?id=49309451 Points: 291 # Comments: 187",
       "source": "Hacker News",
       "published": "2026-08-15T10:39:41+00:00",
       "link": "https://allen.bargi.org/notes/working-with-ai-feels-like-leadership/"
@@ -122,7 +129,7 @@ const FEED_DATA = {
     },
     {
       "title": "Suspecting court of using AI, man injected prompts in filings to try to win case",
-      "summary": "Article URL: https://arstechnica.com/tech-policy/2026/08/suspecting-court-of-using-ai-man-injected-prompts-in-filings-to-try-to-win-case/ Comments URL: https://news.ycombinator.com/item?id=49308553 Points: 75 # Comments: 56",
+      "summary": "Article URL: https://arstechnica.com/tech-policy/2026/08/suspecting-court-of-using-ai-man-injected-prompts-in-filings-to-try-to-win-case/ Comments URL: https://news.ycombinator.com/item?id=49308553 Points: 76 # Comments: 56",
       "source": "Hacker News",
       "published": "2026-08-15T07:31:46+00:00",
       "link": "https://arstechnica.com/tech-policy/2026/08/suspecting-court-of-using-ai-man-injected-prompts-in-filings-to-try-to-win-case/"
@@ -150,14 +157,14 @@ const FEED_DATA = {
     },
     {
       "title": "Show HN: ThoughtDAG – An editable context graph for LLM conversations",
-      "summary": "Article URL: https://chenxiachan.github.io/thoughtdag/ Comments URL: https://news.ycombinator.com/item?id=49307700 Points: 113 # Comments: 52",
+      "summary": "Article URL: https://chenxiachan.github.io/thoughtdag/ Comments URL: https://news.ycombinator.com/item?id=49307700 Points: 115 # Comments: 55",
       "source": "Hacker News",
       "published": "2026-08-15T04:42:07+00:00",
       "link": "https://chenxiachan.github.io/thoughtdag/"
     },
     {
       "title": "Show HN: Deltix – AI Driven Testing",
-      "summary": "Article URL: https://app.deltix.ai Comments URL: https://news.ycombinator.com/item?id=49307099 Points: 50 # Comments: 11",
+      "summary": "Article URL: https://app.deltix.ai Comments URL: https://news.ycombinator.com/item?id=49307099 Points: 51 # Comments: 11",
       "source": "Hacker News",
       "published": "2026-08-15T02:42:14+00:00",
       "link": "https://app.deltix.ai"
@@ -213,7 +220,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI by Hand",
-      "summary": "Article URL: https://www.byhand.ai/ Comments URL: https://news.ycombinator.com/item?id=49300568 Points: 353 # Comments: 29",
+      "summary": "Article URL: https://www.byhand.ai/ Comments URL: https://news.ycombinator.com/item?id=49300568 Points: 354 # Comments: 29",
       "source": "Hacker News",
       "published": "2026-08-14T15:58:59+00:00",
       "link": "https://www.byhand.ai/"
@@ -227,7 +234,7 @@ const FEED_DATA = {
     },
     {
       "title": "Google is making private AI practical with homomorphic encryption",
-      "summary": "Article URL: https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/ Comments URL: https://news.ycombinator.com/item?id=49300314 Points: 480 # Comments: 280",
+      "summary": "Article URL: https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/ Comments URL: https://news.ycombinator.com/item?id=49300314 Points: 484 # Comments: 282",
       "source": "Hacker News",
       "published": "2026-08-14T15:43:10+00:00",
       "link": "https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/"
@@ -1393,13 +1400,6 @@ const FEED_DATA = {
       "source": "Wired",
       "published": "2026-08-10T11:30:00+00:00",
       "link": "https://www.wired.com/story/the-ai-slop-backlash-is-actually-having-an-impact/"
-    },
-    {
-      "title": "Meta Muse Glimmer brings local AI agents to consumer GPUs",
-      "summary": "Meta is releasing Muse Glimmer under an Apache 2.0 licence for local AI agents that can run on a consumer GPU. The company’s Superintelligence Labs has released the 30-billion-parameter model’s weights on Hugging Face.",
-      "source": "AI News",
-      "published": "2026-08-10T11:02:38+00:00",
-      "link": "https://www.artificialintelligence-news.com/news/meta-muse-glimmer-local-ai-agents-consumer-gpus/"
     }
   ]
 };
