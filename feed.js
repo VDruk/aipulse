@@ -1,6 +1,27 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-08-16T13:32:52.879237+00:00",
+  "lastUpdated": "2026-08-16T17:13:52.399418+00:00",
   "items": [
+    {
+      "title": "Anthropic CEO says AI backlash is ‘fundamentally a crisis of trust’",
+      "summary": "Dario Amodei is pushing back against the idea that he's been painting an overly pessimistic picture of AI.",
+      "source": "TechCrunch",
+      "published": "2026-08-16T16:53:51+00:00",
+      "link": "https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust/"
+    },
+    {
+      "title": "Top mathematicians say LLMs are strong calculators but poor creative thinkers",
+      "summary": "Two renowned mathematicians, Timothy Gowers and Peter Sarnak, say large language models are good at combining known methods but lack the intuition for genuinely new mathematical ideas.",
+      "source": "The Decoder",
+      "published": "2026-08-16T15:31:21+00:00",
+      "link": "https://the-decoder.com/top-mathematicians-say-llms-are-strong-calculators-but-poor-creative-thinkers/"
+    },
+    {
+      "title": "ChatGPT’s Computer History tracks your clicks and keystrokes",
+      "summary": "ChatGPT's desktop app on macOS has a new feature called Computer History that turns your actions into training data, learning how you work, suggesting automations, and even picking up tasks you left half done.",
+      "source": "The Verge",
+      "published": "2026-08-16T14:56:40+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/980742/chatgpts-computer-history-tracks-your-clicks-and-keystrokes"
+    },
     {
       "title": "Rogue AI aren’t science fiction anymore",
       "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on AI safety, follow Robert Hart.",
@@ -1379,27 +1400,6 @@ const FEED_DATA = {
       "source": "The Verge",
       "published": "2026-08-10T14:00:00+00:00",
       "link": "https://www.theverge.com/podcast/975732/bose-ceo-lila-snyder-ai-wearables-licensing-headphones-audio"
-    },
-    {
-      "title": "Bose CEO Lila Snyder on the fight for high-quality audio",
-      "summary": "Today, I’m talking with Lila Snyder, who is the CEO of Bose. You certainly know Bose — it’s one of the most famous brands in all of consumer tech.",
-      "source": "The Verge",
-      "published": "2026-08-10T14:00:00+00:00",
-      "link": "https://www.theverge.com/podcast/975732/bose-ceo-lila-snyder-ai-wearables-licensing-headphones-audio"
-    },
-    {
-      "title": "Meta returns to open models with Zuckerberg's plan to out-copy China and sell compute by auction",
-      "summary": "Meta has released Muse Glimmer, the first open model from its new Superintelligence Labs. It's a 30B agent model that runs on consumer hardware once the weights are compressed, needing less than 20 GB of memory.",
-      "source": "The Decoder",
-      "published": "2026-08-10T13:50:19+00:00",
-      "link": "https://the-decoder.com/meta-returns-to-open-models-with-zuckerbergs-plan-to-out-copy-china-and-sell-compute-by-auction/"
-    },
-    {
-      "title": "Humanising LLM Outputs Is Dumb",
-      "summary": "Article URL: https://kuber.studio/blog/Reflections/Humanising-LLM-Outputs-is-Actually-Dumb Comments URL: https://news.ycombinator.com/item?id=49243474 Points: 228 # Comments: 174",
-      "source": "Hacker News",
-      "published": "2026-08-10T13:35:40+00:00",
-      "link": "https://kuber.studio/blog/Reflections/Humanising-LLM-Outputs-is-Actually-Dumb"
     }
   ]
 };
