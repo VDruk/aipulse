@@ -1,6 +1,20 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-08-17T05:36:17.860774+00:00",
+  "lastUpdated": "2026-08-17T09:26:52.338720+00:00",
   "items": [
+    {
+      "title": "AI and data centers have leapfrogged Israel, racism, and crypto as US campaign topics",
+      "summary": "AI shows up in nearly 40 percent of all US races, ranking ahead of Israel, racism, and manufacturing as a campaign topic. Data centers and their impact on electricity costs and local resources drive most of the conversation.",
+      "source": "The Decoder",
+      "published": "2026-08-17T07:58:28+00:00",
+      "link": "https://the-decoder.com/ai-and-data-centers-have-leapfrogged-israel-racism-and-crypto-as-us-campaign-topics/"
+    },
+    {
+      "title": "Stripe is reportedly acquiring AI startup OpenRouter for more than $7 billion",
+      "summary": "According to Bloomberg, Stripe is acquiring the AI startup OpenRouter for more than $7 billion, up from a latest valuation of $1.3 billion.",
+      "source": "The Decoder",
+      "published": "2026-08-17T06:49:10+00:00",
+      "link": "https://the-decoder.com/stripe-is-reportedly-acquiring-ai-startup-openrouter-for-more-than-7-billion/"
+    },
     {
       "title": "Young People Hate AI CEOs So Passionately That It's Almost Hard to Believe",
       "summary": "Article URL: https://futurism.com/artificial-intelligence/young-people-ai-ceos-executives-poll Comments URL: https://news.ycombinator.com/item?id=49323932 Points: 104 # Comments: 102",
@@ -1386,20 +1400,6 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-08-10T18:01:30+00:00",
       "link": "https://the-decoder.com/openai-launches-gpt-5-6-cyber-to-help-defenders-find-vulnerabilities-before-attackers-do/"
-    },
-    {
-      "title": "Show HN: Needle2: 14MB agentic LLM for phones, wearables, smart home and robots",
-      "summary": "Hey HN,Henry from Cactus here!We previously released Cactus Needle, a 14MB agentic LLM for tool call, device use, and structured extraction for phones, wearables, smart homes, small robots and microcontrollers.",
-      "source": "Hacker News",
-      "published": "2026-08-10T17:22:07+00:00",
-      "link": "https://cactuscompute.com/needle"
-    },
-    {
-      "title": "GPT 5.6 Cyber",
-      "summary": "Article URL: https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows/ Comments URL: https://news.ycombinator.com/item?id=49246704 Points: 130 # Comments: 71",
-      "source": "Hacker News",
-      "published": "2026-08-10T17:14:00+00:00",
-      "link": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows/"
     }
   ]
 };
