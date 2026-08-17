@@ -1,9 +1,9 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-08-17T02:18:18.827355+00:00",
+  "lastUpdated": "2026-08-17T05:36:17.860774+00:00",
   "items": [
     {
       "title": "Young People Hate AI CEOs So Passionately That It's Almost Hard to Believe",
-      "summary": "Article URL: https://futurism.com/artificial-intelligence/young-people-ai-ceos-executives-poll Comments URL: https://news.ycombinator.com/item?id=49323932 Points: 91 # Comments: 68",
+      "summary": "Article URL: https://futurism.com/artificial-intelligence/young-people-ai-ceos-executives-poll Comments URL: https://news.ycombinator.com/item?id=49323932 Points: 104 # Comments: 102",
       "source": "Hacker News",
       "published": "2026-08-16T21:34:06+00:00",
       "link": "https://futurism.com/artificial-intelligence/young-people-ai-ceos-executives-poll"
@@ -31,7 +31,7 @@ const FEED_DATA = {
     },
     {
       "title": "Stripe Clinches over $7B Deal to Buy AI Firm OpenRouter",
-      "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-08-16/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion Comments URL: https://news.ycombinator.com/item?id=49323381 Points: 209 # Comments: 147",
+      "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-08-16/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion Comments URL: https://news.ycombinator.com/item?id=49323381 Points: 258 # Comments: 179",
       "source": "Hacker News",
       "published": "2026-08-16T20:31:16+00:00",
       "link": "https://www.bloomberg.com/news/articles/2026-08-16/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion"
@@ -59,14 +59,14 @@ const FEED_DATA = {
     },
     {
       "title": "The AI Credit Resale Economy",
-      "summary": "Article URL: https://vectoral.com/blog/who-are-the-token-brokers Comments URL: https://news.ycombinator.com/item?id=49320611 Points: 229 # Comments: 89",
+      "summary": "Article URL: https://vectoral.com/blog/who-are-the-token-brokers Comments URL: https://news.ycombinator.com/item?id=49320611 Points: 255 # Comments: 102",
       "source": "Hacker News",
       "published": "2026-08-16T14:44:55+00:00",
       "link": "https://vectoral.com/blog/who-are-the-token-brokers"
     },
     {
       "title": "Show HN: A public AI whose memory is shared across all users",
-      "summary": "Article URL: https://wildstatic.com/ Comments URL: https://news.ycombinator.com/item?id=49319814 Points: 69 # Comments: 62",
+      "summary": "Article URL: https://wildstatic.com/ Comments URL: https://news.ycombinator.com/item?id=49319814 Points: 69 # Comments: 63",
       "source": "Hacker News",
       "published": "2026-08-16T13:21:45+00:00",
       "link": "https://wildstatic.com/"
@@ -87,7 +87,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI Coding Without the Vibes",
-      "summary": "Article URL: https://peterbloem.nl/blog/craft-coding Comments URL: https://news.ycombinator.com/item?id=49318735 Points: 77 # Comments: 46",
+      "summary": "Article URL: https://peterbloem.nl/blog/craft-coding Comments URL: https://news.ycombinator.com/item?id=49318735 Points: 81 # Comments: 48",
       "source": "Hacker News",
       "published": "2026-08-16T10:31:36+00:00",
       "link": "https://peterbloem.nl/blog/craft-coding"
@@ -101,7 +101,7 @@ const FEED_DATA = {
     },
     {
       "title": "What happens when an LLM never sees material beyond fifth grade?",
-      "summary": "Article URL: https://littlelearner-ll.github.io/ Comments URL: https://news.ycombinator.com/item?id=49317760 Points: 235 # Comments: 205",
+      "summary": "Article URL: https://littlelearner-ll.github.io/ Comments URL: https://news.ycombinator.com/item?id=49317760 Points: 238 # Comments: 205",
       "source": "Hacker News",
       "published": "2026-08-16T07:37:53+00:00",
       "link": "https://littlelearner-ll.github.io/"
@@ -129,7 +129,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI-Assisted GPU Porting of a 250k Line Legacy Weather Simulation Code",
-      "summary": "Article URL: https://arxiv.org/abs/2608.13122 Comments URL: https://news.ycombinator.com/item?id=49314967 Points: 51 # Comments: 7",
+      "summary": "Article URL: https://arxiv.org/abs/2608.13122 Comments URL: https://news.ycombinator.com/item?id=49314967 Points: 54 # Comments: 7",
       "source": "Hacker News",
       "published": "2026-08-15T22:41:51+00:00",
       "link": "https://arxiv.org/abs/2608.13122"
@@ -150,7 +150,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI in drug discovery – what it is, where we stand and the path forward",
-      "summary": "https://www.nature.com/articles/s41573-026-01496-2 Comments URL: https://news.ycombinator.com/item?id=49313367 Points: 180 # Comments: 90",
+      "summary": "https://www.nature.com/articles/s41573-026-01496-2 Comments URL: https://news.ycombinator.com/item?id=49313367 Points: 183 # Comments: 90",
       "source": "Hacker News",
       "published": "2026-08-15T19:12:53+00:00",
       "link": "https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really"
@@ -164,7 +164,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI isn’t outthinking mathematicians, it’s out-remembering them",
-      "summary": "Article URL: https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians Comments URL: https://news.ycombinator.com/item?id=49312845 Points: 595 # Comments: 488",
+      "summary": "Article URL: https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians Comments URL: https://news.ycombinator.com/item?id=49312845 Points: 605 # Comments: 492",
       "source": "Hacker News",
       "published": "2026-08-15T18:13:02+00:00",
       "link": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians"
@@ -206,7 +206,7 @@ const FEED_DATA = {
     },
     {
       "title": "Cloudflare's AI Psychosis",
-      "summary": "Article URL: https://opensauce.it/cloudflare-ai-psychosis/ Comments URL: https://news.ycombinator.com/item?id=49310719 Points: 115 # Comments: 97",
+      "summary": "Article URL: https://opensauce.it/cloudflare-ai-psychosis/ Comments URL: https://news.ycombinator.com/item?id=49310719 Points: 116 # Comments: 97",
       "source": "Hacker News",
       "published": "2026-08-15T14:08:40+00:00",
       "link": "https://opensauce.it/cloudflare-ai-psychosis/"
@@ -227,14 +227,14 @@ const FEED_DATA = {
     },
     {
       "title": "Working with AI feels more like leadership than coding",
-      "summary": "Article URL: https://allen.bargi.org/notes/working-with-ai-feels-like-leadership/ Comments URL: https://news.ycombinator.com/item?id=49309451 Points: 322 # Comments: 198",
+      "summary": "Article URL: https://allen.bargi.org/notes/working-with-ai-feels-like-leadership/ Comments URL: https://news.ycombinator.com/item?id=49309451 Points: 324 # Comments: 200",
       "source": "Hacker News",
       "published": "2026-08-15T10:39:41+00:00",
       "link": "https://allen.bargi.org/notes/working-with-ai-feels-like-leadership/"
     },
     {
       "title": "Debian has begun voting on the future of AI/LLM contributions",
-      "summary": "Article URL: https://lists.debian.org/debian-devel-announce/2026/08/msg00002.html Comments URL: https://news.ycombinator.com/item?id=49309050 Points: 66 # Comments: 55",
+      "summary": "Article URL: https://lists.debian.org/debian-devel-announce/2026/08/msg00002.html Comments URL: https://news.ycombinator.com/item?id=49309050 Points: 66 # Comments: 54",
       "source": "Hacker News",
       "published": "2026-08-15T09:20:07+00:00",
       "link": "https://lists.debian.org/debian-devel-announce/2026/08/msg00002.html"
@@ -290,7 +290,7 @@ const FEED_DATA = {
     },
     {
       "title": "Show HN: Deltix – AI Driven Testing",
-      "summary": "Article URL: https://app.deltix.ai Comments URL: https://news.ycombinator.com/item?id=49307099 Points: 53 # Comments: 11",
+      "summary": "Article URL: https://app.deltix.ai Comments URL: https://news.ycombinator.com/item?id=49307099 Points: 54 # Comments: 11",
       "source": "Hacker News",
       "published": "2026-08-15T02:42:14+00:00",
       "link": "https://app.deltix.ai"
