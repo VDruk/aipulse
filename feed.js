@@ -1,6 +1,34 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-08-17T17:21:34.182907+00:00",
+  "lastUpdated": "2026-08-17T21:20:03.731475+00:00",
   "items": [
+    {
+      "title": "AI;DR (AI; Didn't Read)",
+      "summary": "Article URL: https://www.rickmanelius.com/p/aidr-ai-didnt-read Comments URL: https://news.ycombinator.com/item?id=49336573 Points: 293 # Comments: 172",
+      "source": "Hacker News",
+      "published": "2026-08-17T19:47:15+00:00",
+      "link": "https://www.rickmanelius.com/p/aidr-ai-didnt-read"
+    },
+    {
+      "title": "What Flock’s defenders are missing",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here.",
+      "source": "MIT Tech Review",
+      "published": "2026-08-17T19:16:09+00:00",
+      "link": "https://www.technologyreview.com/2026/08/17/1142200/what-flocks-defenders-are-missing/"
+    },
+    {
+      "title": "AirTag reveals Amazon is trashing rare books to train AI",
+      "summary": "Article URL: https://arstechnica.com/tech-policy/2026/08/hidden-airtag-reveals-amazon-is-trashing-rare-books-to-train-ai/ Comments URL: https://news.ycombinator.com/item?id=49336050 Points: 123 # Comments: 6",
+      "source": "Hacker News",
+      "published": "2026-08-17T19:06:11+00:00",
+      "link": "https://arstechnica.com/tech-policy/2026/08/hidden-airtag-reveals-amazon-is-trashing-rare-books-to-train-ai/"
+    },
+    {
+      "title": "Qwen3.8 27B scores 52 on Artificial Analysis",
+      "summary": "Article URL: https://artificialanalysis.ai/models/qwen3-8-27b Comments URL: https://news.ycombinator.com/item?id=49334544 Points: 231 # Comments: 107",
+      "source": "Hacker News",
+      "published": "2026-08-17T17:25:17+00:00",
+      "link": "https://artificialanalysis.ai/models/qwen3-8-27b"
+    },
     {
       "title": "Amazon, which started off selling books, is destroying rare texts to train AI",
       "summary": "Rare books are incredibly valuable for training LLMs, since these models have already trained on whatever's available online.",
@@ -14,6 +42,20 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-08-17T16:15:12+00:00",
       "link": "https://techcrunch.com/2026/08/17/groq-raises-350m-to-fuel-its-pivot-from-ai-chips-to-neocloud/"
+    },
+    {
+      "title": "Launch HN: Speko (YC S26) – OpenRouter for Voice AI",
+      "summary": "Hi HN!",
+      "source": "Hacker News",
+      "published": "2026-08-17T15:36:18+00:00",
+      "link": "https://speko.ai/"
+    },
+    {
+      "title": "Anthropic's War on open source AI",
+      "summary": "Article URL: https://twitter.com/TheAhmadOsman/status/2065307070044234186 Comments URL: https://news.ycombinator.com/item?id=49332564 Points: 119 # Comments: 51",
+      "source": "Hacker News",
+      "published": "2026-08-17T15:24:34+00:00",
+      "link": "https://twitter.com/TheAhmadOsman/status/2065307070044234186"
     },
     {
       "title": "Nvidia investing $1.5B in SoftBank data center developer behind OpenAI project",
@@ -38,7 +80,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI-Generated GitHub Copilot “Autofix” Allowed Compromise of Snowflake's Jira",
-      "summary": "Article URL: https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug Comments URL: https://news.ycombinator.com/item?id=49331423 Points: 143 # Comments: 63",
+      "summary": "Article URL: https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug Comments URL: https://news.ycombinator.com/item?id=49331423 Points: 270 # Comments: 112",
       "source": "Hacker News",
       "published": "2026-08-17T14:18:38+00:00",
       "link": "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug"
@@ -52,14 +94,14 @@ const FEED_DATA = {
     },
     {
       "title": "How to disable or avoid intrusive AI",
-      "summary": "Article URL: https://www.librarian.net/notoai/ Comments URL: https://news.ycombinator.com/item?id=49331220 Points: 107 # Comments: 46",
+      "summary": "Article URL: https://www.librarian.net/notoai/ Comments URL: https://news.ycombinator.com/item?id=49331220 Points: 205 # Comments: 113",
       "source": "Hacker News",
       "published": "2026-08-17T14:07:56+00:00",
       "link": "https://www.librarian.net/notoai/"
     },
     {
       "title": "We Tracked a Shipment of Rare Books. It Ended at an Amazon AI Training Facility",
-      "summary": "Article URL: https://www.404media.co/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-training-facility/ Comments URL: https://news.ycombinator.com/item?id=49330742 Points: 88 # Comments: 96",
+      "summary": "Article URL: https://www.404media.co/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-training-facility/ Comments URL: https://news.ycombinator.com/item?id=49330742 Points: 117 # Comments: 266",
       "source": "Hacker News",
       "published": "2026-08-17T13:44:23+00:00",
       "link": "https://www.404media.co/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-training-facility/"
@@ -73,10 +115,17 @@ const FEED_DATA = {
     },
     {
       "title": "Wispr raises $280M at $2B valuation as it looks beyond dictation",
-      "summary": "Wispr’s total funding is now over $361 million.",
+      "summary": "The funds will allow Wispr to increase its footprint as it ventures into new areas, such as meetings, with its newly released note-taker tool.",
       "source": "TechCrunch",
       "published": "2026-08-17T13:10:05+00:00",
       "link": "https://techcrunch.com/2026/08/17/wispr-raises-280m-at-2b-valuation-as-it-looks-beyond-dictation/"
+    },
+    {
+      "title": "Show HN: Sokoban AI Solver",
+      "summary": "Article URL: https://mkornreich.me/projects/sokoban/ Comments URL: https://news.ycombinator.com/item?id=49330215 Points: 62 # Comments: 34",
+      "source": "Hacker News",
+      "published": "2026-08-17T13:07:00+00:00",
+      "link": "https://mkornreich.me/projects/sokoban/"
     },
     {
       "title": "The Download: dead robot friends and the “censorship-industrial complex”",
@@ -87,7 +136,7 @@ const FEED_DATA = {
     },
     {
       "title": "GPT 5.6 Sol is the best \"vision\" model OpenAI ever released",
-      "summary": "Article URL: https://blog.roboflow.com/openai-gpt-5-6/ Comments URL: https://news.ycombinator.com/item?id=49329575 Points: 205 # Comments: 106",
+      "summary": "Article URL: https://blog.roboflow.com/openai-gpt-5-6/ Comments URL: https://news.ycombinator.com/item?id=49329575 Points: 274 # Comments: 140",
       "source": "Hacker News",
       "published": "2026-08-17T12:09:42+00:00",
       "link": "https://blog.roboflow.com/openai-gpt-5-6/"
@@ -122,7 +171,7 @@ const FEED_DATA = {
     },
     {
       "title": "HackEurope 2026: A short rant on AI and hackathons",
-      "summary": "Article URL: https://duti.dev/blog/2026/spr/ Comments URL: https://news.ycombinator.com/item?id=49327490 Points: 56 # Comments: 58",
+      "summary": "Article URL: https://duti.dev/blog/2026/spr/ Comments URL: https://news.ycombinator.com/item?id=49327490 Points: 56 # Comments: 61",
       "source": "Hacker News",
       "published": "2026-08-17T07:28:43+00:00",
       "link": "https://duti.dev/blog/2026/spr/"
@@ -136,14 +185,14 @@ const FEED_DATA = {
     },
     {
       "title": "On AI regulation and messaging",
-      "summary": "https://xcancel.com/DarioAmodei/status/2088758816376807762 Comments URL: https://news.ycombinator.com/item?id=49325789 Points: 196 # Comments: 405",
+      "summary": "https://xcancel.com/DarioAmodei/status/2088758816376807762 Comments URL: https://news.ycombinator.com/item?id=49325789 Points: 222 # Comments: 471",
       "source": "Hacker News",
       "published": "2026-08-17T01:59:56+00:00",
       "link": "https://twitter.com/DarioAmodei/status/2088758816376807762"
     },
     {
       "title": "Young People Hate AI CEOs So Passionately That It's Almost Hard to Believe",
-      "summary": "Article URL: https://futurism.com/artificial-intelligence/young-people-ai-ceos-executives-poll Comments URL: https://news.ycombinator.com/item?id=49323932 Points: 137 # Comments: 151",
+      "summary": "Article URL: https://futurism.com/artificial-intelligence/young-people-ai-ceos-executives-poll Comments URL: https://news.ycombinator.com/item?id=49323932 Points: 147 # Comments: 166",
       "source": "Hacker News",
       "published": "2026-08-16T21:34:06+00:00",
       "link": "https://futurism.com/artificial-intelligence/young-people-ai-ceos-executives-poll"
@@ -178,7 +227,7 @@ const FEED_DATA = {
     },
     {
       "title": "Red queen hypothesis – A new way forward for self-improving AI",
-      "summary": "Article URL: https://www.cst.cam.ac.uk/news/red-queen-hypothesis-new-way-forward-self-improving-ai Comments URL: https://news.ycombinator.com/item?id=49323136 Points: 89 # Comments: 24",
+      "summary": "Article URL: https://www.cst.cam.ac.uk/news/red-queen-hypothesis-new-way-forward-self-improving-ai Comments URL: https://news.ycombinator.com/item?id=49323136 Points: 95 # Comments: 26",
       "source": "Hacker News",
       "published": "2026-08-16T20:01:13+00:00",
       "link": "https://www.cst.cam.ac.uk/news/red-queen-hypothesis-new-way-forward-self-improving-ai"
@@ -206,14 +255,14 @@ const FEED_DATA = {
     },
     {
       "title": "The AI Credit Resale Economy",
-      "summary": "Article URL: https://vectoral.com/blog/who-are-the-token-brokers Comments URL: https://news.ycombinator.com/item?id=49320611 Points: 319 # Comments: 124",
+      "summary": "Article URL: https://vectoral.com/blog/who-are-the-token-brokers Comments URL: https://news.ycombinator.com/item?id=49320611 Points: 322 # Comments: 127",
       "source": "Hacker News",
       "published": "2026-08-16T14:44:55+00:00",
       "link": "https://vectoral.com/blog/who-are-the-token-brokers"
     },
     {
       "title": "Show HN: A public AI whose memory is shared across all users",
-      "summary": "Article URL: https://wildstatic.com/ Comments URL: https://news.ycombinator.com/item?id=49319814 Points: 78 # Comments: 68",
+      "summary": "Article URL: https://wildstatic.com/ Comments URL: https://news.ycombinator.com/item?id=49319814 Points: 78 # Comments: 69",
       "source": "Hacker News",
       "published": "2026-08-16T13:21:45+00:00",
       "link": "https://wildstatic.com/"
@@ -234,7 +283,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI Coding Without the Vibes",
-      "summary": "Article URL: https://peterbloem.nl/blog/craft-coding Comments URL: https://news.ycombinator.com/item?id=49318735 Points: 94 # Comments: 55",
+      "summary": "Article URL: https://peterbloem.nl/blog/craft-coding Comments URL: https://news.ycombinator.com/item?id=49318735 Points: 96 # Comments: 55",
       "source": "Hacker News",
       "published": "2026-08-16T10:31:36+00:00",
       "link": "https://peterbloem.nl/blog/craft-coding"
@@ -276,7 +325,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI-Assisted GPU Porting of a 250k Line Legacy Weather Simulation Code",
-      "summary": "Article URL: https://arxiv.org/abs/2608.13122 Comments URL: https://news.ycombinator.com/item?id=49314967 Points: 55 # Comments: 7",
+      "summary": "Article URL: https://arxiv.org/abs/2608.13122 Comments URL: https://news.ycombinator.com/item?id=49314967 Points: 56 # Comments: 7",
       "source": "Hacker News",
       "published": "2026-08-15T22:41:51+00:00",
       "link": "https://arxiv.org/abs/2608.13122"
@@ -329,6 +378,13 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-08-15T16:30:00+00:00",
       "link": "https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition/"
+    },
+    {
+      "title": "How to tell if your AI platforms’ accounts have been hacked",
+      "summary": "A guide on how to check if hackers have broken into your accounts on the most popular AI platforms.",
+      "source": "TechCrunch",
+      "published": "2026-08-15T16:10:00+00:00",
+      "link": "https://techcrunch.com/2026/08/15/how-to-tell-if-your-ai-platforms-accounts-have-been-hacked/"
     },
     {
       "title": "Investor pressure forces Nvidia to shrink its OpenAI bet just as Anthropic's numbers defy bubble warnings",
@@ -1344,62 +1400,6 @@ const FEED_DATA = {
       "source": "Hacker News",
       "published": "2026-08-11T13:22:00+00:00",
       "link": "https://stolen-thoughts.com/"
-    },
-    {
-      "title": "Spotify will label ‘AI Persona’ profiles and exclude their music from recommendations",
-      "summary": "Spotify is introducing “AI Persona” labels for artist profiles that represent AI-generated identities and will exclude their music from editorial, algorithmic, and personalized recommendations by default.",
-      "source": "TechCrunch",
-      "published": "2026-08-11T13:00:00+00:00",
-      "link": "https://techcrunch.com/2026/08/11/spotify-will-label-ai-persona-profiles-and-exclude-their-music-from-recommendations/"
-    },
-    {
-      "title": "Spotify says it won’t recommend music from ‘AI Personas’",
-      "summary": "Spotify will soon label AI artists and remove their music from your recommendations.",
-      "source": "The Verge",
-      "published": "2026-08-11T13:00:00+00:00",
-      "link": "https://www.theverge.com/entertainment/977815/spotify-ai-persona-label-recommendations"
-    },
-    {
-      "title": "Anthropic's planned mega-IPO faces investor skepticism over Chinese rivals and political headwinds",
-      "summary": "Anthropic is preparing an IPO for September or October, according to the Wall Street Journal, potentially the largest ever.",
-      "source": "The Decoder",
-      "published": "2026-08-11T12:49:15+00:00",
-      "link": "https://the-decoder.com/anthropics-planned-mega-ipo-faces-investor-skepticism-over-chinese-rivals-and-political-headwinds/"
-    },
-    {
-      "title": "A Zoom Screen-Sharing Bug Let Anyone Take Over Other Devices on a Call",
-      "summary": "Researchers say it took fewer than 20 prompts for a public AI tool to find a flaw (now fixed) allowing anyone on a Zoom call to hijack another participants’ device.",
-      "source": "Wired",
-      "published": "2026-08-11T12:37:12+00:00",
-      "link": "https://www.wired.com/story/a-zoom-screen-sharing-bug-let-anyone-take-over-other-devices-on-a-call/"
-    },
-    {
-      "title": "Claude will apply invisible watermarks to AI text and images",
-      "summary": "Anthropic has pledged to start marking Claude-generated text and images with machine-readable data, in an effort to comply with European rules for AI transparency.",
-      "source": "The Verge",
-      "published": "2026-08-11T12:22:20+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/977823/anthropic-claude-ai-watermarks-c2pa-text-images"
-    },
-    {
-      "title": "Anthropic says it will watermark text generated by its AI models",
-      "summary": "Anthropic will extend support for watermarking AI generations for older models as well.",
-      "source": "TechCrunch",
-      "published": "2026-08-11T12:13:47+00:00",
-      "link": "https://techcrunch.com/2026/08/11/anthropic-says-it-will-watermark-text-generated-by-its-ai-models/"
-    },
-    {
-      "title": "The Download: the next big thing in LLMs and how AI academic research is shifting",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.",
-      "source": "MIT Tech Review",
-      "published": "2026-08-11T12:10:00+00:00",
-      "link": "https://www.technologyreview.com/2026/08/11/1141610/the-download-next-big-thing-llms-ai-academic-research-shifting/"
-    },
-    {
-      "title": "OpenAI introduces $125 Premium Seats for ChatGPT Business as agentic AI burns through more tokens",
-      "summary": "OpenAI is rolling out \"Premium Seats\" for ChatGPT Business customers at $125 per user per month, five times the price of the existing Standard Seats. In return, users get significantly more capacity and no five-hour usage limit.",
-      "source": "The Decoder",
-      "published": "2026-08-11T11:51:01+00:00",
-      "link": "https://the-decoder.com/openai-introduces-125-premium-seats-for-chatgpt-business-as-agentic-ai-burns-through-more-tokens/"
     }
   ]
 };
