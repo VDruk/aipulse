@@ -1,6 +1,69 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-08-17T13:42:44.671312+00:00",
+  "lastUpdated": "2026-08-17T17:21:34.182907+00:00",
   "items": [
+    {
+      "title": "Amazon, which started off selling books, is destroying rare texts to train AI",
+      "summary": "Rare books are incredibly valuable for training LLMs, since these models have already trained on whatever's available online.",
+      "source": "TechCrunch",
+      "published": "2026-08-17T16:38:44+00:00",
+      "link": "https://techcrunch.com/2026/08/17/amazon-once-an-online-bookseller-is-destroying-rare-books-to-train-ai-models/"
+    },
+    {
+      "title": "Groq raises $350M to fuel its pivot from AI chips to neocloud",
+      "summary": "Groq raised $350 million at a $3.5 billion valuation as the former AI chipmaker pivots to a neocloud business and expands its Nvidia-powered data center footprint.",
+      "source": "TechCrunch",
+      "published": "2026-08-17T16:15:12+00:00",
+      "link": "https://techcrunch.com/2026/08/17/groq-raises-350m-to-fuel-its-pivot-from-ai-chips-to-neocloud/"
+    },
+    {
+      "title": "Nvidia investing $1.5B in SoftBank data center developer behind OpenAI project",
+      "summary": "Nvidia's investment in SoftBank's data center developer will guarantee its chips power an OpenAI data center.",
+      "source": "TechCrunch",
+      "published": "2026-08-17T15:16:24+00:00",
+      "link": "https://techcrunch.com/2026/08/17/nvidia-investing-1-5b-in-softbank-data-center-developer-behind-openai-project/"
+    },
+    {
+      "title": "AirTag reveals how Amazon destroys rare books for AI training",
+      "summary": "Amazon buys large quantities of printed books, scans them as AI training data, and destroys them in the process. The article AirTag reveals how Amazon destroys rare books for AI training appeared first on The Decoder.",
+      "source": "The Decoder",
+      "published": "2026-08-17T14:43:04+00:00",
+      "link": "https://the-decoder.com/airtag-reveals-how-amazon-destroys-rare-books-for-ai-training/"
+    },
+    {
+      "title": "Nvidia discloses $21B stake in SpaceX",
+      "summary": "Filing comes after Elon Musk announced exclusive arrangement to kit out its data centers.",
+      "source": "Ars Technica",
+      "published": "2026-08-17T14:22:54+00:00",
+      "link": "https://arstechnica.com/information-technology/2026/08/nvidia-discloses-21b-stake-in-spacex/"
+    },
+    {
+      "title": "AI-Generated GitHub Copilot “Autofix” Allowed Compromise of Snowflake's Jira",
+      "summary": "Article URL: https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug Comments URL: https://news.ycombinator.com/item?id=49331423 Points: 143 # Comments: 63",
+      "source": "Hacker News",
+      "published": "2026-08-17T14:18:38+00:00",
+      "link": "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug"
+    },
+    {
+      "title": "OpenAI signs record Ohio data center lease with Nvidia backing up to $105 billion",
+      "summary": "OpenAI has signed a 20-year lease for an 8-gigawatt data center in Ohio. Nvidia is guaranteeing up to $105 billion for the residual value of the facilities and becomes the exclusive chip supplier.",
+      "source": "The Decoder",
+      "published": "2026-08-17T14:13:26+00:00",
+      "link": "https://the-decoder.com/openai-signs-record-ohio-data-center-lease-with-nvidia-backing-up-to-105-billion/"
+    },
+    {
+      "title": "How to disable or avoid intrusive AI",
+      "summary": "Article URL: https://www.librarian.net/notoai/ Comments URL: https://news.ycombinator.com/item?id=49331220 Points: 107 # Comments: 46",
+      "source": "Hacker News",
+      "published": "2026-08-17T14:07:56+00:00",
+      "link": "https://www.librarian.net/notoai/"
+    },
+    {
+      "title": "We Tracked a Shipment of Rare Books. It Ended at an Amazon AI Training Facility",
+      "summary": "Article URL: https://www.404media.co/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-training-facility/ Comments URL: https://news.ycombinator.com/item?id=49330742 Points: 88 # Comments: 96",
+      "source": "Hacker News",
+      "published": "2026-08-17T13:44:23+00:00",
+      "link": "https://www.404media.co/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-training-facility/"
+    },
     {
       "title": "AI video market has bounced back from Sora's false start",
       "summary": "AI production companies like Promise are setting up shop around Hollywood's historic studios, using real-time backgrounds and other AI tools to cut film costs. Netflix already uses AI in 300 of its 1,000 titles, and the startup Higgsfield now carries a $5.4 billion valuation.",
@@ -24,7 +87,7 @@ const FEED_DATA = {
     },
     {
       "title": "GPT 5.6 Sol is the best \"vision\" model OpenAI ever released",
-      "summary": "Article URL: https://blog.roboflow.com/openai-gpt-5-6/ Comments URL: https://news.ycombinator.com/item?id=49329575 Points: 60 # Comments: 39",
+      "summary": "Article URL: https://blog.roboflow.com/openai-gpt-5-6/ Comments URL: https://news.ycombinator.com/item?id=49329575 Points: 205 # Comments: 106",
       "source": "Hacker News",
       "published": "2026-08-17T12:09:42+00:00",
       "link": "https://blog.roboflow.com/openai-gpt-5-6/"
@@ -59,7 +122,7 @@ const FEED_DATA = {
     },
     {
       "title": "HackEurope 2026: A short rant on AI and hackathons",
-      "summary": "Article URL: https://duti.dev/blog/2026/spr/ Comments URL: https://news.ycombinator.com/item?id=49327490 Points: 53 # Comments: 51",
+      "summary": "Article URL: https://duti.dev/blog/2026/spr/ Comments URL: https://news.ycombinator.com/item?id=49327490 Points: 56 # Comments: 58",
       "source": "Hacker News",
       "published": "2026-08-17T07:28:43+00:00",
       "link": "https://duti.dev/blog/2026/spr/"
@@ -72,8 +135,15 @@ const FEED_DATA = {
       "link": "https://the-decoder.com/stripe-is-reportedly-acquiring-ai-startup-openrouter-for-more-than-7-billion/"
     },
     {
+      "title": "On AI regulation and messaging",
+      "summary": "https://xcancel.com/DarioAmodei/status/2088758816376807762 Comments URL: https://news.ycombinator.com/item?id=49325789 Points: 196 # Comments: 405",
+      "source": "Hacker News",
+      "published": "2026-08-17T01:59:56+00:00",
+      "link": "https://twitter.com/DarioAmodei/status/2088758816376807762"
+    },
+    {
       "title": "Young People Hate AI CEOs So Passionately That It's Almost Hard to Believe",
-      "summary": "Article URL: https://futurism.com/artificial-intelligence/young-people-ai-ceos-executives-poll Comments URL: https://news.ycombinator.com/item?id=49323932 Points: 128 # Comments: 131",
+      "summary": "Article URL: https://futurism.com/artificial-intelligence/young-people-ai-ceos-executives-poll Comments URL: https://news.ycombinator.com/item?id=49323932 Points: 137 # Comments: 151",
       "source": "Hacker News",
       "published": "2026-08-16T21:34:06+00:00",
       "link": "https://futurism.com/artificial-intelligence/young-people-ai-ceos-executives-poll"
@@ -108,7 +178,7 @@ const FEED_DATA = {
     },
     {
       "title": "Red queen hypothesis – A new way forward for self-improving AI",
-      "summary": "Article URL: https://www.cst.cam.ac.uk/news/red-queen-hypothesis-new-way-forward-self-improving-ai Comments URL: https://news.ycombinator.com/item?id=49323136 Points: 84 # Comments: 24",
+      "summary": "Article URL: https://www.cst.cam.ac.uk/news/red-queen-hypothesis-new-way-forward-self-improving-ai Comments URL: https://news.ycombinator.com/item?id=49323136 Points: 89 # Comments: 24",
       "source": "Hacker News",
       "published": "2026-08-16T20:01:13+00:00",
       "link": "https://www.cst.cam.ac.uk/news/red-queen-hypothesis-new-way-forward-self-improving-ai"
@@ -136,14 +206,14 @@ const FEED_DATA = {
     },
     {
       "title": "The AI Credit Resale Economy",
-      "summary": "Article URL: https://vectoral.com/blog/who-are-the-token-brokers Comments URL: https://news.ycombinator.com/item?id=49320611 Points: 312 # Comments: 123",
+      "summary": "Article URL: https://vectoral.com/blog/who-are-the-token-brokers Comments URL: https://news.ycombinator.com/item?id=49320611 Points: 319 # Comments: 124",
       "source": "Hacker News",
       "published": "2026-08-16T14:44:55+00:00",
       "link": "https://vectoral.com/blog/who-are-the-token-brokers"
     },
     {
       "title": "Show HN: A public AI whose memory is shared across all users",
-      "summary": "Article URL: https://wildstatic.com/ Comments URL: https://news.ycombinator.com/item?id=49319814 Points: 75 # Comments: 67",
+      "summary": "Article URL: https://wildstatic.com/ Comments URL: https://news.ycombinator.com/item?id=49319814 Points: 78 # Comments: 68",
       "source": "Hacker News",
       "published": "2026-08-16T13:21:45+00:00",
       "link": "https://wildstatic.com/"
@@ -164,7 +234,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI Coding Without the Vibes",
-      "summary": "Article URL: https://peterbloem.nl/blog/craft-coding Comments URL: https://news.ycombinator.com/item?id=49318735 Points: 89 # Comments: 54",
+      "summary": "Article URL: https://peterbloem.nl/blog/craft-coding Comments URL: https://news.ycombinator.com/item?id=49318735 Points: 94 # Comments: 55",
       "source": "Hacker News",
       "published": "2026-08-16T10:31:36+00:00",
       "link": "https://peterbloem.nl/blog/craft-coding"
@@ -178,7 +248,7 @@ const FEED_DATA = {
     },
     {
       "title": "What happens when an LLM never sees material beyond fifth grade?",
-      "summary": "Article URL: https://littlelearner-ll.github.io/ Comments URL: https://news.ycombinator.com/item?id=49317760 Points: 242 # Comments: 208",
+      "summary": "Article URL: https://littlelearner-ll.github.io/ Comments URL: https://news.ycombinator.com/item?id=49317760 Points: 243 # Comments: 208",
       "source": "Hacker News",
       "published": "2026-08-16T07:37:53+00:00",
       "link": "https://littlelearner-ll.github.io/"
@@ -227,7 +297,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI in drug discovery – what it is, where we stand and the path forward",
-      "summary": "https://www.nature.com/articles/s41573-026-01496-2 Comments URL: https://news.ycombinator.com/item?id=49313367 Points: 184 # Comments: 90",
+      "summary": "https://www.nature.com/articles/s41573-026-01496-2 Comments URL: https://news.ycombinator.com/item?id=49313367 Points: 184 # Comments: 91",
       "source": "Hacker News",
       "published": "2026-08-15T19:12:53+00:00",
       "link": "https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really"
@@ -241,7 +311,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI isn’t outthinking mathematicians, it’s out-remembering them",
-      "summary": "Article URL: https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians Comments URL: https://news.ycombinator.com/item?id=49312845 Points: 621 # Comments: 495",
+      "summary": "Article URL: https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians Comments URL: https://news.ycombinator.com/item?id=49312845 Points: 626 # Comments: 496",
       "source": "Hacker News",
       "published": "2026-08-15T18:13:02+00:00",
       "link": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians"
@@ -269,7 +339,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI Can Now Design Functional Viruses. Should We Worry?",
-      "summary": "Article URL: https://spectrum.ieee.org/ai-designed-virus Comments URL: https://news.ycombinator.com/item?id=49311445 Points: 61 # Comments: 137",
+      "summary": "Article URL: https://spectrum.ieee.org/ai-designed-virus Comments URL: https://news.ycombinator.com/item?id=49311445 Points: 61 # Comments: 139",
       "source": "Hacker News",
       "published": "2026-08-15T15:32:25+00:00",
       "link": "https://spectrum.ieee.org/ai-designed-virus"
@@ -304,7 +374,7 @@ const FEED_DATA = {
     },
     {
       "title": "Working with AI feels more like leadership than coding",
-      "summary": "Article URL: https://allen.bargi.org/notes/working-with-ai-feels-like-leadership/ Comments URL: https://news.ycombinator.com/item?id=49309451 Points: 329 # Comments: 200",
+      "summary": "Article URL: https://allen.bargi.org/notes/working-with-ai-feels-like-leadership/ Comments URL: https://news.ycombinator.com/item?id=49309451 Points: 332 # Comments: 200",
       "source": "Hacker News",
       "published": "2026-08-15T10:39:41+00:00",
       "link": "https://allen.bargi.org/notes/working-with-ai-feels-like-leadership/"
@@ -1330,76 +1400,6 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-08-11T11:51:01+00:00",
       "link": "https://the-decoder.com/openai-introduces-125-premium-seats-for-chatgpt-business-as-agentic-ai-burns-through-more-tokens/"
-    },
-    {
-      "title": "Anthropic signs $9.1 billion data center deal with Bitcoin miner Riot Platforms",
-      "summary": "Anthropic is leasing $9.1 billion worth of data center capacity from Bitcoin miner Riot Platforms in Texas, according to Bloomberg. The deal covers 191 megawatts at Riot's Rockdale site, with extension options that could push the total value to $16.1 billion.",
-      "source": "The Decoder",
-      "published": "2026-08-11T11:33:00+00:00",
-      "link": "https://the-decoder.com/anthropic-signs-9-1-billion-data-center-deal-with-bitcoin-miner-riot-platforms/"
-    },
-    {
-      "title": "A New Trick Reveals AI Models’ Inner Thoughts",
-      "summary": "Researchers devised a way to extract “reasoning traces” from Claude, GPT, and Gemini. What they found, they say, indicates that some Chinese AI may be trained on leading US models.",
-      "source": "Wired",
-      "published": "2026-08-11T11:00:00+00:00",
-      "link": "https://www.wired.com/story/a-new-trick-reveals-ai-models-inner-thoughts/"
-    },
-    {
-      "title": "The AI takeover of mathematics has begun",
-      "summary": "Mathematician James Maynard has spent a lot of time this past year \"soul searching.\" A professor at the University of Oxford and winner of the prestigious Fields Medal, Maynard told The Verge he's been grappling with the future of his field as the traditionally slow-moving...",
-      "source": "The Verge",
-      "published": "2026-08-11T11:00:00+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/977273/the-ai-takeover-of-mathematics-has-begun"
-    },
-    {
-      "title": "Novo Nordisk and AWS bring agentic AI into drug discovery",
-      "summary": "Novo Nordisk is expanding its use of AWS artificial intelligence tools across drug discovery, including AI agents for target identification, therapy design, and research workflows.",
-      "source": "AI News",
-      "published": "2026-08-11T10:00:00+00:00",
-      "link": "https://www.artificialintelligence-news.com/news/novo-nordisk-ai-drug-discovery-aws/"
-    },
-    {
-      "title": "AI Is Dead. Organoids Are Alive",
-      "summary": "Mini human brains are being grown in labs all over the world. Soon, they could outthink neural networks.",
-      "source": "Wired",
-      "published": "2026-08-11T10:00:00+00:00",
-      "link": "https://www.wired.com/story/organoids-lab-grown-brains-neural-networks/"
-    },
-    {
-      "title": "Nvidia guarantees its own chips' value to unlock $500 billion in AI infrastructure financing",
-      "summary": "Nvidia is teaming up with Apollo, BlackRock, Blackstone, Brookfield, Goldman Sachs, and KKR to mobilize over $500 billion for AI infrastructure. To win over investors, the chipmaker is guaranteeing up to 25 percent of the residual value of its own hardware.",
-      "source": "The Decoder",
-      "published": "2026-08-11T09:41:03+00:00",
-      "link": "https://the-decoder.com/nvidia-guarantees-its-own-chips-value-to-unlock-500-billion-in-ai-infrastructure-financing/"
-    },
-    {
-      "title": "AI Is Helping Solve the Intricate Genetic Puzzle of Schizophrenia",
-      "summary": "Recent findings provide one of the most detailed pictures to date of the genetic architecture of schizophrenia, opening up new avenues for research into the disorder.",
-      "source": "Wired",
-      "published": "2026-08-11T09:00:00+00:00",
-      "link": "https://www.wired.com/story/ai-helping-solve-intricate-genetic-puzzle-schizophrenia/"
-    },
-    {
-      "title": "Anthropic watermarks all Claude outputs globally with marks that \"may persist through some editing\"",
-      "summary": "Anthropic will embed invisible watermarks in all Claude-generated text and sign files using the C2PA standard. New models shipping from August 2026 onward will have labeling built in from day one.",
-      "source": "The Decoder",
-      "published": "2026-08-11T08:45:06+00:00",
-      "link": "https://the-decoder.com/anthropic-watermarks-all-claude-outputs-globally-with-marks-that-may-persist-through-some-editing/"
-    },
-    {
-      "title": "How AI is changing the vulnerability response timeline",
-      "summary": "Artificial intelligence is giving security researchers new ways to examine code, trace unusual behaviour and identify flaws that conventional tools may overlook.",
-      "source": "AI News",
-      "published": "2026-08-11T07:05:55+00:00",
-      "link": "https://www.artificialintelligence-news.com/news/how-ai-is-changing-the-vulnerability-response-timeline/"
-    },
-    {
-      "title": "OpenAI reportedly completed a $7 billion employee tender offer",
-      "summary": "San Francisco's housing market is in trouble again.",
-      "source": "TechCrunch",
-      "published": "2026-08-11T00:03:18+00:00",
-      "link": "https://techcrunch.com/2026/08/10/openai-reportedly-completed-a-7-billion-employee-tender-offer/"
     }
   ]
 };
