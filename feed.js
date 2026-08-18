@@ -1,6 +1,20 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-08-17T21:20:03.731475+00:00",
+  "lastUpdated": "2026-08-18T02:16:23.773722+00:00",
   "items": [
+    {
+      "title": "Anthropic’s annualized revenue surges to $65B",
+      "summary": "The model maker added $18 billion in annualized revenue in two months.",
+      "source": "TechCrunch",
+      "published": "2026-08-17T23:56:26+00:00",
+      "link": "https://techcrunch.com/2026/08/17/anthropics-annualized-revenue-surges-to-65b/"
+    },
+    {
+      "title": "AI automation startup Relay shuts down, staff joins Google’s Chrome team",
+      "summary": "\"We have some really ambitious plans to help you work with AI in Chrome to get things done, and I’ll have more to share soon,\" Jacob Bank, Relay founder and CEO, said.",
+      "source": "TechCrunch",
+      "published": "2026-08-17T21:27:05+00:00",
+      "link": "https://techcrunch.com/2026/08/17/ai-automation-startup-relay-shuts-down-staff-joins-googles-chrome-team/"
+    },
     {
       "title": "AI;DR (AI; Didn't Read)",
       "summary": "Article URL: https://www.rickmanelius.com/p/aidr-ai-didnt-read Comments URL: https://news.ycombinator.com/item?id=49336573 Points: 293 # Comments: 172",
@@ -147,6 +161,13 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-08-17T11:43:19+00:00",
       "link": "https://the-decoder.com/anthropic-watermarks-claudes-output-but-critics-question-the-tradeoffs/"
+    },
+    {
+      "title": "Whisker’s AI-powered litter robot thinks my cats swapped bodies",
+      "summary": "The greatest invention in pet tech in recent years is the litter robot. A machine that scoops your kitties' poop so you don't have to - what else could a cat owner possibly want?",
+      "source": "The Verge",
+      "published": "2026-08-17T11:00:00+00:00",
+      "link": "https://www.theverge.com/tech/978323/whisker-litter-robot-5-pro-review"
     },
     {
       "title": "Anthropic explains how Claude’s invisible text watermarks will work",
@@ -1379,27 +1400,6 @@ const FEED_DATA = {
       "source": "Hacker News",
       "published": "2026-08-11T14:50:33+00:00",
       "link": "https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md"
-    },
-    {
-      "title": "‘Zoomsday’ hack uncovered using fewer than 20 AI prompts",
-      "summary": "Zoom has patched a major security vulnerability that could allow an attacker to hijack anyone's device during a meeting.",
-      "source": "The Verge",
-      "published": "2026-08-11T14:45:44+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/977909/zoom-vulnerability-ai-attack"
-    },
-    {
-      "title": "Why your Amazon order confirmation emails have become so unhelpful",
-      "summary": "Earlier this summer, Amazon customers began noticing that emails related to their online orders looked sparse: Order confirmation emails didn't name specific items anymore, and instead listed only item categories.",
-      "source": "The Verge",
-      "published": "2026-08-11T13:27:20+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/977733/amazon-order-emails-google-gmail-ai-agents-data"
-    },
-    {
-      "title": "Stealing Reasoning Traces from Proprietary LLM APIs",
-      "summary": "Article URL: https://stolen-thoughts.com/ Comments URL: https://news.ycombinator.com/item?id=49257876 Points: 694 # Comments: 306",
-      "source": "Hacker News",
-      "published": "2026-08-11T13:22:00+00:00",
-      "link": "https://stolen-thoughts.com/"
     }
   ]
 };
