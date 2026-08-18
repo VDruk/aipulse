@@ -1,6 +1,27 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-08-18T05:31:29.733382+00:00",
+  "lastUpdated": "2026-08-18T09:19:11.383196+00:00",
   "items": [
+    {
+      "title": "The Powerful Chinese Model Experts Warned About—and Waited for—Is Here",
+      "summary": "Z.ai’s latest AI model release could help companies secure their systems—or find its way into the hands of hackers.",
+      "source": "Wired",
+      "published": "2026-08-18T09:00:00+00:00",
+      "link": "https://www.wired.com/story/zai-open-weight-ai-models-release-cybersecurity-hacking/"
+    },
+    {
+      "title": "AI systems quietly drop user instructions when they compress context",
+      "summary": "When AI systems condense long conversations, they drop an average of 83 percent of user rules, like \"don't send emails without my approval.\" Penn State researchers propose a small add-on module built on Qwen3.5-9B that preserves over 90 percent of these restrictions.",
+      "source": "The Decoder",
+      "published": "2026-08-18T08:22:24+00:00",
+      "link": "https://the-decoder.com/ai-systems-quietly-drop-user-instructions-when-they-compress-context/"
+    },
+    {
+      "title": "Anthropic increases revenue sevenfold, hits annualized rate above $65 billion",
+      "summary": "Anthropic's annualized revenue has topped $65 billion, a sevenfold increase in one year, according to Bloomberg. The company could go public as early as fall 2026 at a $1 trillion valuation, potentially beating OpenAI to market.",
+      "source": "The Decoder",
+      "published": "2026-08-18T07:37:25+00:00",
+      "link": "https://the-decoder.com/anthropic-increases-revenue-sevenfold-hits-annualized-rate-above-65-billion/"
+    },
     {
       "title": "Anthropic’s annualized revenue surges to $65B",
       "summary": "The model maker added $18 billion in annualized revenue in two months.",
@@ -17,21 +38,21 @@ const FEED_DATA = {
     },
     {
       "title": "GPT-5.6 Sol Pricing Cut by 50%",
-      "summary": "Article URL: https://openrouter.ai/openai/gpt-5.6-sol Comments URL: https://news.ycombinator.com/item?id=49337602 Points: 284 # Comments: 145",
+      "summary": "Article URL: https://openrouter.ai/openai/gpt-5.6-sol Comments URL: https://news.ycombinator.com/item?id=49337602 Points: 420 # Comments: 253",
       "source": "Hacker News",
       "published": "2026-08-17T21:03:18+00:00",
       "link": "https://openrouter.ai/openai/gpt-5.6-sol"
     },
     {
       "title": "Israel creates fake think tank in likely attempt to dupe AI chatbots",
-      "summary": "Article URL: https://responsiblestatecraft.org/israel-influence-chatgpt/ Comments URL: https://news.ycombinator.com/item?id=49337392 Points: 271 # Comments: 148",
+      "summary": "Article URL: https://responsiblestatecraft.org/israel-influence-chatgpt/ Comments URL: https://news.ycombinator.com/item?id=49337392 Points: 475 # Comments: 307",
       "source": "Hacker News",
       "published": "2026-08-17T20:46:10+00:00",
       "link": "https://responsiblestatecraft.org/israel-influence-chatgpt/"
     },
     {
       "title": "AI;DR (AI; Didn't Read)",
-      "summary": "Article URL: https://www.rickmanelius.com/p/aidr-ai-didnt-read Comments URL: https://news.ycombinator.com/item?id=49336573 Points: 725 # Comments: 466",
+      "summary": "Article URL: https://www.rickmanelius.com/p/aidr-ai-didnt-read Comments URL: https://news.ycombinator.com/item?id=49336573 Points: 867 # Comments: 532",
       "source": "Hacker News",
       "published": "2026-08-17T19:47:15+00:00",
       "link": "https://www.rickmanelius.com/p/aidr-ai-didnt-read"
@@ -45,14 +66,14 @@ const FEED_DATA = {
     },
     {
       "title": "AirTag reveals Amazon is trashing rare books to train AI",
-      "summary": "Article URL: https://arstechnica.com/tech-policy/2026/08/hidden-airtag-reveals-amazon-is-trashing-rare-books-to-train-ai/ Comments URL: https://news.ycombinator.com/item?id=49336050 Points: 126 # Comments: 6",
+      "summary": "Article URL: https://arstechnica.com/tech-policy/2026/08/hidden-airtag-reveals-amazon-is-trashing-rare-books-to-train-ai/ Comments URL: https://news.ycombinator.com/item?id=49336050 Points: 127 # Comments: 6",
       "source": "Hacker News",
       "published": "2026-08-17T19:06:11+00:00",
       "link": "https://arstechnica.com/tech-policy/2026/08/hidden-airtag-reveals-amazon-is-trashing-rare-books-to-train-ai/"
     },
     {
       "title": "Qwen3.8 27B scores 52 on Artificial Analysis",
-      "summary": "Article URL: https://artificialanalysis.ai/models/qwen3-8-27b Comments URL: https://news.ycombinator.com/item?id=49334544 Points: 325 # Comments: 145",
+      "summary": "Article URL: https://artificialanalysis.ai/models/qwen3-8-27b Comments URL: https://news.ycombinator.com/item?id=49334544 Points: 348 # Comments: 155",
       "source": "Hacker News",
       "published": "2026-08-17T17:25:17+00:00",
       "link": "https://artificialanalysis.ai/models/qwen3-8-27b"
@@ -80,7 +101,7 @@ const FEED_DATA = {
     },
     {
       "title": "Anthropic's War on open source AI",
-      "summary": "Article URL: https://twitter.com/TheAhmadOsman/status/2065307070044234186 Comments URL: https://news.ycombinator.com/item?id=49332564 Points: 141 # Comments: 57",
+      "summary": "Article URL: https://twitter.com/TheAhmadOsman/status/2065307070044234186 Comments URL: https://news.ycombinator.com/item?id=49332564 Points: 145 # Comments: 57",
       "source": "Hacker News",
       "published": "2026-08-17T15:24:34+00:00",
       "link": "https://twitter.com/TheAhmadOsman/status/2065307070044234186"
@@ -101,7 +122,7 @@ const FEED_DATA = {
     },
     {
       "title": "Judge relying wholly on AI in order is covered by judicial immunity, court rules",
-      "summary": "Article URL: https://reason.com/volokh/2026/08/17/judges-allegedly-relying-wholly-on-ai-in-order-is-covered-by-judicial-immunity-court-rules/ Comments URL: https://news.ycombinator.com/item?id=49331625 Points: 55 # Comments: 48",
+      "summary": "Article URL: https://reason.com/volokh/2026/08/17/judges-allegedly-relying-wholly-on-ai-in-order-is-covered-by-judicial-immunity-court-rules/ Comments URL: https://news.ycombinator.com/item?id=49331625 Points: 56 # Comments: 48",
       "source": "Hacker News",
       "published": "2026-08-17T14:30:09+00:00",
       "link": "https://reason.com/volokh/2026/08/17/judges-allegedly-relying-wholly-on-ai-in-order-is-covered-by-judicial-immunity-court-rules/"
@@ -115,7 +136,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI-Generated GitHub Copilot “Autofix” Allowed Compromise of Snowflake's Jira",
-      "summary": "Article URL: https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug Comments URL: https://news.ycombinator.com/item?id=49331423 Points: 342 # Comments: 136",
+      "summary": "Article URL: https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug Comments URL: https://news.ycombinator.com/item?id=49331423 Points: 369 # Comments: 142",
       "source": "Hacker News",
       "published": "2026-08-17T14:18:38+00:00",
       "link": "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug"
@@ -129,14 +150,14 @@ const FEED_DATA = {
     },
     {
       "title": "How to disable or avoid intrusive AI",
-      "summary": "Article URL: https://www.librarian.net/notoai/ Comments URL: https://news.ycombinator.com/item?id=49331220 Points: 271 # Comments: 164",
+      "summary": "Article URL: https://www.librarian.net/notoai/ Comments URL: https://news.ycombinator.com/item?id=49331220 Points: 297 # Comments: 176",
       "source": "Hacker News",
       "published": "2026-08-17T14:07:56+00:00",
       "link": "https://www.librarian.net/notoai/"
     },
     {
       "title": "We Tracked a Shipment of Rare Books. It Ended at an Amazon AI Training Facility",
-      "summary": "Article URL: https://www.404media.co/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-training-facility/ Comments URL: https://news.ycombinator.com/item?id=49330742 Points: 136 # Comments: 293",
+      "summary": "Article URL: https://www.404media.co/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-training-facility/ Comments URL: https://news.ycombinator.com/item?id=49330742 Points: 142 # Comments: 294",
       "source": "Hacker News",
       "published": "2026-08-17T13:44:23+00:00",
       "link": "https://www.404media.co/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-training-facility/"
@@ -157,7 +178,7 @@ const FEED_DATA = {
     },
     {
       "title": "Show HN: Sokoban AI Solver",
-      "summary": "Article URL: https://mkornreich.me/projects/sokoban/ Comments URL: https://news.ycombinator.com/item?id=49330215 Points: 67 # Comments: 41",
+      "summary": "Article URL: https://mkornreich.me/projects/sokoban/ Comments URL: https://news.ycombinator.com/item?id=49330215 Points: 68 # Comments: 42",
       "source": "Hacker News",
       "published": "2026-08-17T13:07:00+00:00",
       "link": "https://mkornreich.me/projects/sokoban/"
@@ -171,7 +192,7 @@ const FEED_DATA = {
     },
     {
       "title": "GPT 5.6 Sol is the best \"vision\" model OpenAI ever released",
-      "summary": "Article URL: https://blog.roboflow.com/openai-gpt-5-6/ Comments URL: https://news.ycombinator.com/item?id=49329575 Points: 319 # Comments: 156",
+      "summary": "Article URL: https://blog.roboflow.com/openai-gpt-5-6/ Comments URL: https://news.ycombinator.com/item?id=49329575 Points: 338 # Comments: 163",
       "source": "Hacker News",
       "published": "2026-08-17T12:09:42+00:00",
       "link": "https://blog.roboflow.com/openai-gpt-5-6/"
@@ -227,14 +248,14 @@ const FEED_DATA = {
     },
     {
       "title": "On AI regulation and messaging",
-      "summary": "https://xcancel.com/DarioAmodei/status/2088758816376807762 Comments URL: https://news.ycombinator.com/item?id=49325789 Points: 236 # Comments: 504",
+      "summary": "https://xcancel.com/DarioAmodei/status/2088758816376807762 Comments URL: https://news.ycombinator.com/item?id=49325789 Points: 241 # Comments: 511",
       "source": "Hacker News",
       "published": "2026-08-17T01:59:56+00:00",
       "link": "https://twitter.com/DarioAmodei/status/2088758816376807762"
     },
     {
       "title": "Young People Hate AI CEOs So Passionately That It's Almost Hard to Believe",
-      "summary": "Article URL: https://futurism.com/artificial-intelligence/young-people-ai-ceos-executives-poll Comments URL: https://news.ycombinator.com/item?id=49323932 Points: 149 # Comments: 181",
+      "summary": "Article URL: https://futurism.com/artificial-intelligence/young-people-ai-ceos-executives-poll Comments URL: https://news.ycombinator.com/item?id=49323932 Points: 150 # Comments: 182",
       "source": "Hacker News",
       "published": "2026-08-16T21:34:06+00:00",
       "link": "https://futurism.com/artificial-intelligence/young-people-ai-ceos-executives-poll"
@@ -269,7 +290,7 @@ const FEED_DATA = {
     },
     {
       "title": "Red queen hypothesis – A new way forward for self-improving AI",
-      "summary": "Article URL: https://www.cst.cam.ac.uk/news/red-queen-hypothesis-new-way-forward-self-improving-ai Comments URL: https://news.ycombinator.com/item?id=49323136 Points: 98 # Comments: 27",
+      "summary": "Article URL: https://www.cst.cam.ac.uk/news/red-queen-hypothesis-new-way-forward-self-improving-ai Comments URL: https://news.ycombinator.com/item?id=49323136 Points: 99 # Comments: 28",
       "source": "Hacker News",
       "published": "2026-08-16T20:01:13+00:00",
       "link": "https://www.cst.cam.ac.uk/news/red-queen-hypothesis-new-way-forward-self-improving-ai"
@@ -297,14 +318,14 @@ const FEED_DATA = {
     },
     {
       "title": "The AI Credit Resale Economy",
-      "summary": "Article URL: https://vectoral.com/blog/who-are-the-token-brokers Comments URL: https://news.ycombinator.com/item?id=49320611 Points: 323 # Comments: 128",
+      "summary": "Article URL: https://vectoral.com/blog/who-are-the-token-brokers Comments URL: https://news.ycombinator.com/item?id=49320611 Points: 326 # Comments: 128",
       "source": "Hacker News",
       "published": "2026-08-16T14:44:55+00:00",
       "link": "https://vectoral.com/blog/who-are-the-token-brokers"
     },
     {
       "title": "Show HN: A public AI whose memory is shared across all users",
-      "summary": "Article URL: https://wildstatic.com/ Comments URL: https://news.ycombinator.com/item?id=49319814 Points: 81 # Comments: 69",
+      "summary": "Article URL: https://wildstatic.com/ Comments URL: https://news.ycombinator.com/item?id=49319814 Points: 82 # Comments: 71",
       "source": "Hacker News",
       "published": "2026-08-16T13:21:45+00:00",
       "link": "https://wildstatic.com/"
@@ -1379,27 +1400,6 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-08-11T17:38:49+00:00",
       "link": "https://the-decoder.com/but-marinade-and-leaked-passwords-are-what-researchers-found-in-chatgpts-hidden-reasoning/"
-    },
-    {
-      "title": "Made by Google 2026: all the Pixel news and announcements",
-      "summary": "On August 12, 2026, Google revealed a bunch of new Pixel devices. The colorful Pixel 11 lineup comes with upgraded cameras and performance, with the Pro models offering a built-in LED ring that lights up for Google’s Gemini AI and other features.",
-      "source": "The Verge",
-      "published": "2026-08-11T17:00:00+00:00",
-      "link": "https://www.theverge.com/tech/977561/made-by-google-2026-pixel-11-news"
-    },
-    {
-      "title": "Go is an ideal language for AI-assisted software engineering",
-      "summary": "Article URL: https://developers.googleblog.com/why-go-is-an-ideal-language-for-ai-assisted-software-engineering/ Comments URL: https://news.ycombinator.com/item?id=49261133 Points: 436 # Comments: 530",
-      "source": "Hacker News",
-      "published": "2026-08-11T16:57:09+00:00",
-      "link": "https://developers.googleblog.com/why-go-is-an-ideal-language-for-ai-assisted-software-engineering/"
-    },
-    {
-      "title": "An unreleased Anthropic model made progress on one of math’s biggest unsolved problems",
-      "summary": "For more than 150 years, the Riemann hypothesis has stood as one of the major unsolved problems in mathematics. Anthropic hasn't solved it — but the company's models made more progress than you might expect.",
-      "source": "TechCrunch",
-      "published": "2026-08-11T16:25:20+00:00",
-      "link": "https://techcrunch.com/2026/08/11/an-unreleased-anthropic-model-made-progress-on-one-of-maths-biggest-unsolved-problems/"
     }
   ]
 };
