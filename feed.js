@@ -1,6 +1,125 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-08-18T09:19:11.383196+00:00",
+  "lastUpdated": "2026-08-18T13:43:43.634347+00:00",
   "items": [
+    {
+      "title": "Anthropic CEO says AI centralizes by nature and open models just shift power to whoever owns the chips",
+      "summary": "An open fight over AI regulation has broken out on X. Investor Gavin Baker, former White House adviser David Sacks, and Meta researcher Yann LeCun accuse Anthropic CEO Dario Amodei of using fear rhetoric to buy himself a regulatory advantage.",
+      "source": "The Decoder",
+      "published": "2026-08-18T13:07:57+00:00",
+      "link": "https://the-decoder.com/anthropic-ceo-says-ai-centralizes-by-nature-and-open-models-just-shift-power-to-whoever-owns-the-chips/"
+    },
+    {
+      "title": "Firefox’s Smart Window promises a better AI browser",
+      "summary": "Starting today, AI chats in Firefox's Smart Window AI browsing mode can pull from current web info and show source links in chat responses through a partnership with Exa.",
+      "source": "The Verge",
+      "published": "2026-08-18T13:00:00+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/981283/mozilla-firefox-smart-window-ai-features"
+    },
+    {
+      "title": "The Download: how people really use AI, and Flock’s design choices",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.",
+      "source": "MIT Tech Review",
+      "published": "2026-08-18T12:10:00+00:00",
+      "link": "https://www.technologyreview.com/2026/08/18/1142229/the-download-how-people-use-ai-flock-cameras-design/"
+    },
+    {
+      "title": "Alvys launches AI agents for freight TMS workflows",
+      "summary": "Freight software provider Alvys has launched an agentic AI platform that allows carriers and brokers to automate operational tasks directly within its transportation management system (TMS).",
+      "source": "AI News",
+      "published": "2026-08-18T12:00:00+00:00",
+      "link": "https://www.artificialintelligence-news.com/news/alvys-ai-agents-freight-tms/"
+    },
+    {
+      "title": "As AI beats doctors, regulators shouldn't force a human into the loop, JAMA piece says",
+      "summary": "An opinion piece in the medical journal JAMA argues that autonomous AI will soon outperform any doctor-AI team at medical reasoning tasks.",
+      "source": "The Decoder",
+      "published": "2026-08-18T11:43:02+00:00",
+      "link": "https://the-decoder.com/as-ai-beats-doctors-regulators-shouldnt-force-a-human-into-the-loop-jama-piece-says/"
+    },
+    {
+      "title": "DOJ probes Andreessen Horowitz over partners sitting on competing AI boards",
+      "summary": "Andreessen Horowitz is the focus of an antitrust probe by the US Justice Department. The charge is that the firm's partners sit on the boards of competing data firms Databricks and Fivetran at the same time.",
+      "source": "The Decoder",
+      "published": "2026-08-18T11:35:17+00:00",
+      "link": "https://the-decoder.com/doj-probes-andreessen-horowitz-over-partners-sitting-on-competing-ai-boards/"
+    },
+    {
+      "title": "OpenAI launches a ChatGPT version built for teens",
+      "summary": "OpenAI is shipping a version of ChatGPT tailored to users aged 13 to 17. The article OpenAI launches a ChatGPT version built for teens appeared first on The Decoder.",
+      "source": "The Decoder",
+      "published": "2026-08-18T11:27:29+00:00",
+      "link": "https://the-decoder.com/openai-launches-a-chatgpt-version-built-for-teens/"
+    },
+    {
+      "title": "Elon Musk made flying even worse so Palantir could profit",
+      "summary": "On August 6th, the Minneapolis Air Route Traffic Control Center lost radar and communications for around two hours. The outage disrupted more than 1,100 flights across the center's 330,000 square mile, nine-state airspace sector.",
+      "source": "The Verge",
+      "published": "2026-08-18T11:00:00+00:00",
+      "link": "https://www.theverge.com/transportation/981194/faa-air-traffic-elon-musk-peter-thiel-palantir"
+    },
+    {
+      "title": "ChatGPT is getting a dedicated mode for teens",
+      "summary": "OpenAI is introducing a dedicated ChatGPT mode for teenagers, combining existing youth safeguards and new safety features under one roof.",
+      "source": "The Verge",
+      "published": "2026-08-18T11:00:00+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/981333/openai-chatgpt-teen-mode"
+    },
+    {
+      "title": "Anthropic's per-token cost runs 4.4 times the average on Vercel, and developers keep paying",
+      "summary": "Anthropic dominated Vercel's AI Gateway spending in July, pulling in 65.1 percent of total revenue while accounting for only 30 percent of tokens processed. Its tokens cost 4.4 times as much as those from competing providers on average.",
+      "source": "The Decoder",
+      "published": "2026-08-18T10:45:00+00:00",
+      "link": "https://the-decoder.com/anthropics-per-token-cost-runs-4-4-times-the-average-on-vercel-and-developers-keep-paying/"
+    },
+    {
+      "title": "Google buys crashed airline Spirit's data at auction, because AI",
+      "summary": "Article URL: https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962 Comments URL: https://news.ycombinator.com/item?id=49343559 Points: 267 # Comments: 158",
+      "source": "Hacker News",
+      "published": "2026-08-18T10:13:28+00:00",
+      "link": "https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962"
+    },
+    {
+      "title": "We still don’t know how people are really using AI",
+      "summary": "AI companies like Anthropic and OpenAI regularly publish reports on how people are using products like Claude and ChatGPT, but they only release the data they want us to see, AI researchers say.",
+      "source": "MIT Tech Review",
+      "published": "2026-08-18T10:06:43+00:00",
+      "link": "https://www.technologyreview.com/2026/08/18/1142226/how-people-use-ai/"
+    },
+    {
+      "title": "Claude Code gets a /design command that lets developers create UI mockups right in the terminal",
+      "summary": "With the /design command, Anthropic brings a visual design workflow directly into Claude Code. Developers can generate UI mockups as artboards right in the terminal before writing any code.",
+      "source": "The Decoder",
+      "published": "2026-08-18T10:06:16+00:00",
+      "link": "https://the-decoder.com/claude-code-gets-a-design-command-that-lets-developers-create-ui-mockups-right-in-the-terminal/"
+    },
+    {
+      "title": "Reading Zhipu’s GLM-5.3 results past the headline number",
+      "summary": "Zhipu’s release note for GLM-5.3 contains a sentence that did not make it into most of the coverage.",
+      "source": "AI News",
+      "published": "2026-08-18T10:00:00+00:00",
+      "link": "https://www.artificialintelligence-news.com/news/zhipu-glm-5-3-benchmarks-explained/"
+    },
+    {
+      "title": "Apple’s camera-equipped AirPods appear in leaked video",
+      "summary": "We may have our first glimpse of Apple's rumored camera-equipped AirPods, thanks to a video that MacRumors found in the macOS Tahoe 26.7 Release Candidate.",
+      "source": "The Verge",
+      "published": "2026-08-18T09:00:01+00:00",
+      "link": "https://www.theverge.com/tech/981326/apple-airpods-with-cameras-demo-video-leak"
+    },
+    {
+      "title": "AI’s recursive self-improvement might not come so quickly after all",
+      "summary": "The AI industry’s boldest promise right now is that AI will soon improve itself, with almost no need for human oversight. LLMs can already write code, generate synthetic data for training, and optimize the computer chips they run on.",
+      "source": "MIT Tech Review",
+      "published": "2026-08-18T09:00:00+00:00",
+      "link": "https://www.technologyreview.com/2026/08/18/1142188/ai-recursive-self-improvement/"
+    },
+    {
+      "title": "The Powerful Chinese AI Model Experts Warned About Is Here",
+      "summary": "Z.ai’s latest AI model release could help companies secure their systems—or find its way into the hands of hackers.",
+      "source": "Wired",
+      "published": "2026-08-18T09:00:00+00:00",
+      "link": "https://www.wired.com/story/zai-open-weight-ai-models-release-cybersecurity-hacking/"
+    },
     {
       "title": "The Powerful Chinese Model Experts Warned About—and Waited for—Is Here",
       "summary": "Z.ai’s latest AI model release could help companies secure their systems—or find its way into the hands of hackers.",
@@ -30,6 +149,13 @@ const FEED_DATA = {
       "link": "https://techcrunch.com/2026/08/17/anthropics-annualized-revenue-surges-to-65b/"
     },
     {
+      "title": "My friends all hate AI; I just joined an AI startup",
+      "summary": "Article URL: https://www.fast.ai/posts/2026-08-18-returning-to-AI/ Comments URL: https://news.ycombinator.com/item?id=49338139 Points: 53 # Comments: 175",
+      "source": "Hacker News",
+      "published": "2026-08-17T21:47:30+00:00",
+      "link": "https://www.fast.ai/posts/2026-08-18-returning-to-AI/"
+    },
+    {
       "title": "AI automation startup Relay shuts down, staff joins Google’s Chrome team",
       "summary": "\"We have some really ambitious plans to help you work with AI in Chrome to get things done, and I’ll have more to share soon,\" Jacob Bank, Relay founder and CEO, said.",
       "source": "TechCrunch",
@@ -38,21 +164,21 @@ const FEED_DATA = {
     },
     {
       "title": "GPT-5.6 Sol Pricing Cut by 50%",
-      "summary": "Article URL: https://openrouter.ai/openai/gpt-5.6-sol Comments URL: https://news.ycombinator.com/item?id=49337602 Points: 420 # Comments: 253",
+      "summary": "Article URL: https://openrouter.ai/openai/gpt-5.6-sol Comments URL: https://news.ycombinator.com/item?id=49337602 Points: 539 # Comments: 353",
       "source": "Hacker News",
       "published": "2026-08-17T21:03:18+00:00",
       "link": "https://openrouter.ai/openai/gpt-5.6-sol"
     },
     {
       "title": "Israel creates fake think tank in likely attempt to dupe AI chatbots",
-      "summary": "Article URL: https://responsiblestatecraft.org/israel-influence-chatgpt/ Comments URL: https://news.ycombinator.com/item?id=49337392 Points: 475 # Comments: 307",
+      "summary": "Article URL: https://responsiblestatecraft.org/israel-influence-chatgpt/ Comments URL: https://news.ycombinator.com/item?id=49337392 Points: 774 # Comments: 443",
       "source": "Hacker News",
       "published": "2026-08-17T20:46:10+00:00",
       "link": "https://responsiblestatecraft.org/israel-influence-chatgpt/"
     },
     {
       "title": "AI;DR (AI; Didn't Read)",
-      "summary": "Article URL: https://www.rickmanelius.com/p/aidr-ai-didnt-read Comments URL: https://news.ycombinator.com/item?id=49336573 Points: 867 # Comments: 532",
+      "summary": "Article URL: https://www.rickmanelius.com/p/aidr-ai-didnt-read Comments URL: https://news.ycombinator.com/item?id=49336573 Points: 983 # Comments: 598",
       "source": "Hacker News",
       "published": "2026-08-17T19:47:15+00:00",
       "link": "https://www.rickmanelius.com/p/aidr-ai-didnt-read"
@@ -73,7 +199,7 @@ const FEED_DATA = {
     },
     {
       "title": "Qwen3.8 27B scores 52 on Artificial Analysis",
-      "summary": "Article URL: https://artificialanalysis.ai/models/qwen3-8-27b Comments URL: https://news.ycombinator.com/item?id=49334544 Points: 348 # Comments: 155",
+      "summary": "Article URL: https://artificialanalysis.ai/models/qwen3-8-27b Comments URL: https://news.ycombinator.com/item?id=49334544 Points: 360 # Comments: 161",
       "source": "Hacker News",
       "published": "2026-08-17T17:25:17+00:00",
       "link": "https://artificialanalysis.ai/models/qwen3-8-27b"
@@ -101,7 +227,7 @@ const FEED_DATA = {
     },
     {
       "title": "Anthropic's War on open source AI",
-      "summary": "Article URL: https://twitter.com/TheAhmadOsman/status/2065307070044234186 Comments URL: https://news.ycombinator.com/item?id=49332564 Points: 145 # Comments: 57",
+      "summary": "Article URL: https://twitter.com/TheAhmadOsman/status/2065307070044234186 Comments URL: https://news.ycombinator.com/item?id=49332564 Points: 147 # Comments: 58",
       "source": "Hacker News",
       "published": "2026-08-17T15:24:34+00:00",
       "link": "https://twitter.com/TheAhmadOsman/status/2065307070044234186"
@@ -122,7 +248,7 @@ const FEED_DATA = {
     },
     {
       "title": "Judge relying wholly on AI in order is covered by judicial immunity, court rules",
-      "summary": "Article URL: https://reason.com/volokh/2026/08/17/judges-allegedly-relying-wholly-on-ai-in-order-is-covered-by-judicial-immunity-court-rules/ Comments URL: https://news.ycombinator.com/item?id=49331625 Points: 56 # Comments: 48",
+      "summary": "Article URL: https://reason.com/volokh/2026/08/17/judges-allegedly-relying-wholly-on-ai-in-order-is-covered-by-judicial-immunity-court-rules/ Comments URL: https://news.ycombinator.com/item?id=49331625 Points: 57 # Comments: 48",
       "source": "Hacker News",
       "published": "2026-08-17T14:30:09+00:00",
       "link": "https://reason.com/volokh/2026/08/17/judges-allegedly-relying-wholly-on-ai-in-order-is-covered-by-judicial-immunity-court-rules/"
@@ -136,7 +262,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI-Generated GitHub Copilot “Autofix” Allowed Compromise of Snowflake's Jira",
-      "summary": "Article URL: https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug Comments URL: https://news.ycombinator.com/item?id=49331423 Points: 369 # Comments: 142",
+      "summary": "Article URL: https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug Comments URL: https://news.ycombinator.com/item?id=49331423 Points: 401 # Comments: 150",
       "source": "Hacker News",
       "published": "2026-08-17T14:18:38+00:00",
       "link": "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug"
@@ -150,14 +276,14 @@ const FEED_DATA = {
     },
     {
       "title": "How to disable or avoid intrusive AI",
-      "summary": "Article URL: https://www.librarian.net/notoai/ Comments URL: https://news.ycombinator.com/item?id=49331220 Points: 297 # Comments: 176",
+      "summary": "Article URL: https://www.librarian.net/notoai/ Comments URL: https://news.ycombinator.com/item?id=49331220 Points: 322 # Comments: 191",
       "source": "Hacker News",
       "published": "2026-08-17T14:07:56+00:00",
       "link": "https://www.librarian.net/notoai/"
     },
     {
       "title": "We Tracked a Shipment of Rare Books. It Ended at an Amazon AI Training Facility",
-      "summary": "Article URL: https://www.404media.co/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-training-facility/ Comments URL: https://news.ycombinator.com/item?id=49330742 Points: 142 # Comments: 294",
+      "summary": "Article URL: https://www.404media.co/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-training-facility/ Comments URL: https://news.ycombinator.com/item?id=49330742 Points: 146 # Comments: 300",
       "source": "Hacker News",
       "published": "2026-08-17T13:44:23+00:00",
       "link": "https://www.404media.co/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-training-facility/"
@@ -178,7 +304,7 @@ const FEED_DATA = {
     },
     {
       "title": "Show HN: Sokoban AI Solver",
-      "summary": "Article URL: https://mkornreich.me/projects/sokoban/ Comments URL: https://news.ycombinator.com/item?id=49330215 Points: 68 # Comments: 42",
+      "summary": "Article URL: https://mkornreich.me/projects/sokoban/ Comments URL: https://news.ycombinator.com/item?id=49330215 Points: 69 # Comments: 42",
       "source": "Hacker News",
       "published": "2026-08-17T13:07:00+00:00",
       "link": "https://mkornreich.me/projects/sokoban/"
@@ -192,7 +318,7 @@ const FEED_DATA = {
     },
     {
       "title": "GPT 5.6 Sol is the best \"vision\" model OpenAI ever released",
-      "summary": "Article URL: https://blog.roboflow.com/openai-gpt-5-6/ Comments URL: https://news.ycombinator.com/item?id=49329575 Points: 338 # Comments: 163",
+      "summary": "Article URL: https://blog.roboflow.com/openai-gpt-5-6/ Comments URL: https://news.ycombinator.com/item?id=49329575 Points: 355 # Comments: 164",
       "source": "Hacker News",
       "published": "2026-08-17T12:09:42+00:00",
       "link": "https://blog.roboflow.com/openai-gpt-5-6/"
@@ -248,14 +374,14 @@ const FEED_DATA = {
     },
     {
       "title": "On AI regulation and messaging",
-      "summary": "https://xcancel.com/DarioAmodei/status/2088758816376807762 Comments URL: https://news.ycombinator.com/item?id=49325789 Points: 241 # Comments: 511",
+      "summary": "https://xcancel.com/DarioAmodei/status/2088758816376807762 Comments URL: https://news.ycombinator.com/item?id=49325789 Points: 246 # Comments: 519",
       "source": "Hacker News",
       "published": "2026-08-17T01:59:56+00:00",
       "link": "https://twitter.com/DarioAmodei/status/2088758816376807762"
     },
     {
       "title": "Young People Hate AI CEOs So Passionately That It's Almost Hard to Believe",
-      "summary": "Article URL: https://futurism.com/artificial-intelligence/young-people-ai-ceos-executives-poll Comments URL: https://news.ycombinator.com/item?id=49323932 Points: 150 # Comments: 182",
+      "summary": "Article URL: https://futurism.com/artificial-intelligence/young-people-ai-ceos-executives-poll Comments URL: https://news.ycombinator.com/item?id=49323932 Points: 152 # Comments: 182",
       "source": "Hacker News",
       "published": "2026-08-16T21:34:06+00:00",
       "link": "https://futurism.com/artificial-intelligence/young-people-ai-ceos-executives-poll"
@@ -290,7 +416,7 @@ const FEED_DATA = {
     },
     {
       "title": "Red queen hypothesis – A new way forward for self-improving AI",
-      "summary": "Article URL: https://www.cst.cam.ac.uk/news/red-queen-hypothesis-new-way-forward-self-improving-ai Comments URL: https://news.ycombinator.com/item?id=49323136 Points: 99 # Comments: 28",
+      "summary": "Article URL: https://www.cst.cam.ac.uk/news/red-queen-hypothesis-new-way-forward-self-improving-ai Comments URL: https://news.ycombinator.com/item?id=49323136 Points: 100 # Comments: 28",
       "source": "Hacker News",
       "published": "2026-08-16T20:01:13+00:00",
       "link": "https://www.cst.cam.ac.uk/news/red-queen-hypothesis-new-way-forward-self-improving-ai"
@@ -1274,132 +1400,6 @@ const FEED_DATA = {
       "source": "Wired",
       "published": "2026-08-12T10:45:00+00:00",
       "link": "https://www.wired.com/story/linkedin-grindset-tattoo-guy-explains-himself/"
-    },
-    {
-      "title": "Oh Lord, AI Reporters Are Actually Breaking Big News",
-      "summary": "Last week, an AI newsroom beat mainstream journalists—including WIRED—to a story about OpenAI and hacking. It’s just the beginning.",
-      "source": "Wired",
-      "published": "2026-08-12T10:30:00+00:00",
-      "link": "https://www.wired.com/story/ai-newsrooms-are-breaking-news-now-haha-im-in-danger/"
-    },
-    {
-      "title": "Microsoft's new MAI Code 1.1 Flash gets crushed by Deepseek on both price and performance",
-      "summary": "Microsoft has released MAI Code 1.1 Flash, a code model for GitHub Copilot that's said to be 25 percent more token-efficient at a quarter of the cost of its predecessor. In benchmarks, though, it gets crushed by the cheaper Deepseek V4 Flash.",
-      "source": "The Decoder",
-      "published": "2026-08-12T10:18:46+00:00",
-      "link": "https://the-decoder.com/microsofts-new-mai-code-1-1-flash-gets-crushed-by-deepseek-on-both-price-and-performance/"
-    },
-    {
-      "title": "Mistral now offers EU data processing and priority access, but both come with important limits",
-      "summary": "Mistral is giving customers the option to route AI requests through servers in either Europe or the US, and selling priority queue access during peak traffic. Both come with a surcharge, and the regional routing doesn't cover all features or data.",
-      "source": "The Decoder",
-      "published": "2026-08-12T09:59:27+00:00",
-      "link": "https://the-decoder.com/mistral-now-offers-eu-data-processing-and-priority-access-but-both-come-with-important-limits/"
-    },
-    {
-      "title": "You’re Thinking About Online Trends All Wrong",
-      "summary": "From pessimism around dating to AI reshaping culture, cyber-ethnographer Ruby J. Thelot tells WIRED why people are putting too much stock into things that go viral.",
-      "source": "Wired",
-      "published": "2026-08-12T09:30:00+00:00",
-      "link": "https://www.wired.com/story/youre-thinking-about-online-trends-all-wrong/"
-    },
-    {
-      "title": "Launch HN: Discovered Materials (YC P26) – AI agents to discover new materials",
-      "summary": "Hey HN, we're Advaith and Akash from Discovered Materials ( https://discoveredmaterials.com/ ). We build AI agents that discover new materials for the semiconductor industry.GPUs today have a heat problem.",
-      "source": "Hacker News",
-      "published": "2026-08-12T07:51:20+00:00",
-      "link": "https://discoveredmaterials.com/research/"
-    },
-    {
-      "title": "Company Offering '100% Human-Written, Never AI' Medical Research Is 100% AI",
-      "summary": "Article URL: https://www.404media.co/company-offering-100-human-written-never-ai-peer-review-is-entirely-ai/ Comments URL: https://news.ycombinator.com/item?id=49267057 Points: 196 # Comments: 52",
-      "source": "Hacker News",
-      "published": "2026-08-12T02:05:42+00:00",
-      "link": "https://www.404media.co/company-offering-100-human-written-never-ai-peer-review-is-entirely-ai/"
-    },
-    {
-      "title": "Saber denies replacing Rideshare Stimulator’s writers with ChatGPT",
-      "summary": "After a former lead writer claimed Saber \"replaced me with ChatGPT,\" CEO Matthew Karch now claims, \"Neither Saber nor Unigine have replaced any writers with AI,\" for the Rideshare \"Stimulator\" game announced last month, developed by Unigine.",
-      "source": "The Verge",
-      "published": "2026-08-12T00:39:26+00:00",
-      "link": "https://www.theverge.com/games/978558/rideshare-stimulator-writer-ai-saber-interactive"
-    },
-    {
-      "title": "Accel closes oversubscribed $550M India fund within weeks, 19 months after its last",
-      "summary": "The U.S. VC firm still has more than 55% of its previous $650 million India fund available for deployment.",
-      "source": "TechCrunch",
-      "published": "2026-08-11T21:39:11+00:00",
-      "link": "https://techcrunch.com/2026/08/11/accel-closes-oversubscribed-550m-india-fund-within-weeks-19-months-after-its-last/"
-    },
-    {
-      "title": "Suzanne: AI tool for designing and manufacturing physical products",
-      "summary": "Article URL: https://www.suzanne3d.com/ Comments URL: https://news.ycombinator.com/item?id=49264755 Points: 51 # Comments: 41",
-      "source": "Hacker News",
-      "published": "2026-08-11T21:28:26+00:00",
-      "link": "https://www.suzanne3d.com/"
-    },
-    {
-      "title": "Chrome adopts what may be the best protection yet against account takeovers",
-      "summary": "Device-bound session credentials thwart an increasingly common form of account takeover.",
-      "source": "Ars Technica",
-      "published": "2026-08-11T20:59:52+00:00",
-      "link": "https://arstechnica.com/security/2026/08/chrome-adopts-what-may-be-the-best-protection-yet-against-account-takeovers/"
-    },
-    {
-      "title": "ChatGPT and Gemini both just passed 1 billion users",
-      "summary": "For the 14th time, a Google product has hit 1 billion users. Google CEO Sundar Pichai posted on X that a billion people are using Gemini every month, and that Gemini is Google's fastest-growing product ever.",
-      "source": "The Verge",
-      "published": "2026-08-11T19:41:42+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/978113/chatgpt-gemini-1-billion-users"
-    },
-    {
-      "title": "OpenAI launches ChatGPT desktop app for Linux",
-      "summary": "OpenAI is finally bringing a dedicated ChatGPT desktop app to Linux operating systems.",
-      "source": "TechCrunch",
-      "published": "2026-08-11T19:15:35+00:00",
-      "link": "https://techcrunch.com/2026/08/11/openai-launches-chatgpt-desktop-app-for-linux/"
-    },
-    {
-      "title": "Google’s Gemini app surges to 1 billion users",
-      "summary": "Google also shared numbers of how people are actually using the chatbot, with 63% of Gemini users talking directly to the assistant using the voice feature. Plus, Gemini now generates more than 150 million images every day, according to Google.",
-      "source": "TechCrunch",
-      "published": "2026-08-11T18:49:12+00:00",
-      "link": "https://techcrunch.com/2026/08/11/googles-gemini-app-surges-to-one-billion-users/"
-    },
-    {
-      "title": "OpenAI lets employees cash out another $7 billion in stock",
-      "summary": "OpenAI wrapped up a $7 billion stock buyback, letting current and former employees sell shares at the company's $852 billion valuation. The move is meant to ease pressure on employees waiting for liquidity ahead of a potential IPO.",
-      "source": "The Decoder",
-      "published": "2026-08-11T18:01:22+00:00",
-      "link": "https://the-decoder.com/openai-lets-employees-cash-out-another-7-billion-in-stock/"
-    },
-    {
-      "title": "Another OpenAI executive takes off",
-      "summary": "Brad Lightcap, OpenAI's special projects lead and the company's former COO, announced his departure after an eight-year stint at the AI lab.",
-      "source": "The Verge",
-      "published": "2026-08-11T17:50:01+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/978048/brad-lightcap-openai-executive-departure"
-    },
-    {
-      "title": "Brad Lightcap, OpenAI’s longtime COO, is leaving to ‘start something new’",
-      "summary": "One of OpenAI's longest-serving executives is headed out the door, although the longtime COO told staff that he was \"excited to help you all advance the mission from a different vantage point.\"",
-      "source": "TechCrunch",
-      "published": "2026-08-11T17:41:34+00:00",
-      "link": "https://techcrunch.com/2026/08/11/brad-lightcap-openais-longtime-coo-is-leaving-to-start-something-new/"
-    },
-    {
-      "title": "General Catalyst leads $1.1B round into 2-month-old River AI",
-      "summary": "River AI, a startup founded by xAI co-founder Igor Babuschkin, has a fascinating vision for personal agents and secured $1.1 billion out of the gate.",
-      "source": "TechCrunch",
-      "published": "2026-08-11T17:41:22+00:00",
-      "link": "https://techcrunch.com/2026/08/11/general-catalyst-leads-1-1b-round-into-2-month-old-river-ai/"
-    },
-    {
-      "title": "\"But marinade\" and leaked passwords are what researchers found in ChatGPT's hidden reasoning",
-      "summary": "Security researchers found a vulnerability in the APIs of OpenAI, Anthropic, and Google that lets them extract encrypted reasoning traces and move them between models. A scan of public sessions turned up dozens of passwords and API keys.",
-      "source": "The Decoder",
-      "published": "2026-08-11T17:38:49+00:00",
-      "link": "https://the-decoder.com/but-marinade-and-leaked-passwords-are-what-researchers-found-in-chatgpts-hidden-reasoning/"
     }
   ]
 };
