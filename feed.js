@@ -1,6 +1,55 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-08-18T17:20:43.088075+00:00",
+  "lastUpdated": "2026-08-18T21:15:15.125463+00:00",
   "items": [
+    {
+      "title": "Robin Williams’ Instagram account brought back to fight ‘AI abuse’",
+      "summary": "Robin Williams' children are taking over their father's Instagram account after his daughter spoke out against the use of his AI likeness, as reported earlier by The Wrap.",
+      "source": "The Verge",
+      "published": "2026-08-18T19:48:26+00:00",
+      "link": "https://www.theverge.com/entertainment/981644/robin-williams-instagram-account-ai"
+    },
+    {
+      "title": "OpenAI lays out new security changes after its AI hacked Hugging Face",
+      "summary": "OpenAI is announcing security updates following the July news that its AI broke out of a sandboxed environment and accidentally hacked Hugging Face, including improvements to its research environments, monitoring, and alignment techniques.",
+      "source": "The Verge",
+      "published": "2026-08-18T19:28:30+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/981640/openai-security-changes-ai-hugging-face-hack"
+    },
+    {
+      "title": "OpenAI says it's \"pacing model development\" as AI cybersecurity risks grow too dangerous",
+      "summary": "OpenAI is deliberately \"pacing AI model development,\" partly because the upcoming \"Astra\" model may be close to gaining critical cyberattack capabilities. A new monitoring system triggers an alert within 30 minutes if a model shows suspicious behavior.",
+      "source": "The Decoder",
+      "published": "2026-08-18T18:43:06+00:00",
+      "link": "https://the-decoder.com/openai-says-its-pacing-model-development-as-ai-cybersecurity-risks-grow-too-dangerous/"
+    },
+    {
+      "title": "OpenAI Overhauls Safety Protocols After Its AI Agents Went Rogue",
+      "summary": "The ChatGPT maker says its upcoming Astra model may have reached “critical” cyber capabilities, prompting it to halt a significant number of training runs while it tightens internal safeguards.",
+      "source": "Wired",
+      "published": "2026-08-18T18:33:11+00:00",
+      "link": "https://www.wired.com/story/openai-overhauls-safety-protocols-after-its-ai-agents-went-rogue/"
+    },
+    {
+      "title": "New benchmark ranks search APIs for AI agents on quality, cost, and speed",
+      "summary": "Artificial Analysis has released the \"Search Index,\" a benchmark that rates search API providers for AI agents on quality, cost, and speed. Of seven providers tested with GPT-5.6 Luna, Parallel, Exa, and Firecrawl scored highest.",
+      "source": "The Decoder",
+      "published": "2026-08-18T18:10:56+00:00",
+      "link": "https://the-decoder.com/new-benchmark-ranks-search-apis-for-ai-agents-on-quality-cost-and-speed/"
+    },
+    {
+      "title": "OpenAI institutes new safeguards after Hugging Face breach",
+      "summary": "The new safeguards include more detailed monitoring of models during the development process, as well as greater emphasis on alignment and security during the post-training process.",
+      "source": "TechCrunch",
+      "published": "2026-08-18T18:00:00+00:00",
+      "link": "https://techcrunch.com/2026/08/18/openai-institutes-new-safeguards-after-hugging-face-breach/"
+    },
+    {
+      "title": "Etched’s valuation doubles to $21B in a month",
+      "summary": "Jane Street has installed Etched's first shipped AI cluster system, and was so impressed, it led another massive round, the startup says.",
+      "source": "TechCrunch",
+      "published": "2026-08-18T17:21:58+00:00",
+      "link": "https://techcrunch.com/2026/08/18/etcheds-valuation-doubles-to-21b-in-a-month/"
+    },
     {
       "title": "Why Apple’s camera-equipped AirPods may not be the ‘pervert pods’ consumers fear",
       "summary": "Apple’s leaked camera-equipped AirPods might avoid the privacy pitfalls of other AI wearables by preventing users from recording photos and videos.",
@@ -199,7 +248,7 @@ const FEED_DATA = {
     },
     {
       "title": "My friends all hate AI; I just joined an AI startup",
-      "summary": "Article URL: https://www.fast.ai/posts/2026-08-18-returning-to-AI/ Comments URL: https://news.ycombinator.com/item?id=49338139 Points: 56 # Comments: 194",
+      "summary": "Article URL: https://www.fast.ai/posts/2026-08-18-returning-to-AI/ Comments URL: https://news.ycombinator.com/item?id=49338139 Points: 56 # Comments: 199",
       "source": "Hacker News",
       "published": "2026-08-17T21:47:30+00:00",
       "link": "https://www.fast.ai/posts/2026-08-18-returning-to-AI/"
@@ -212,6 +261,13 @@ const FEED_DATA = {
       "link": "https://techcrunch.com/2026/08/17/ai-automation-startup-relay-shuts-down-staff-joins-googles-chrome-team/"
     },
     {
+      "title": "GPT-5.6 Sol Pricing Cut by 50% on OpenRouter",
+      "summary": "Article URL: https://openrouter.ai/openai/gpt-5.6-sol Comments URL: https://news.ycombinator.com/item?id=49337602 Points: 611 # Comments: 432",
+      "source": "Hacker News",
+      "published": "2026-08-17T21:03:18+00:00",
+      "link": "https://openrouter.ai/openai/gpt-5.6-sol"
+    },
+    {
       "title": "GPT-5.6 Sol Pricing Cut by 50%",
       "summary": "Article URL: https://openrouter.ai/openai/gpt-5.6-sol Comments URL: https://news.ycombinator.com/item?id=49337602 Points: 596 # Comments: 411",
       "source": "Hacker News",
@@ -220,14 +276,14 @@ const FEED_DATA = {
     },
     {
       "title": "Israel creates fake think tank in likely attempt to dupe AI chatbots",
-      "summary": "Article URL: https://responsiblestatecraft.org/israel-influence-chatgpt/ Comments URL: https://news.ycombinator.com/item?id=49337392 Points: 953 # Comments: 559",
+      "summary": "Article URL: https://responsiblestatecraft.org/israel-influence-chatgpt/ Comments URL: https://news.ycombinator.com/item?id=49337392 Points: 999 # Comments: 670",
       "source": "Hacker News",
       "published": "2026-08-17T20:46:10+00:00",
       "link": "https://responsiblestatecraft.org/israel-influence-chatgpt/"
     },
     {
       "title": "AI;DR (AI; Didn't Read)",
-      "summary": "Article URL: https://www.rickmanelius.com/p/aidr-ai-didnt-read Comments URL: https://news.ycombinator.com/item?id=49336573 Points: 1026 # Comments: 637",
+      "summary": "Article URL: https://www.rickmanelius.com/p/aidr-ai-didnt-read Comments URL: https://news.ycombinator.com/item?id=49336573 Points: 1053 # Comments: 654",
       "source": "Hacker News",
       "published": "2026-08-17T19:47:15+00:00",
       "link": "https://www.rickmanelius.com/p/aidr-ai-didnt-read"
@@ -248,7 +304,7 @@ const FEED_DATA = {
     },
     {
       "title": "Qwen3.8 27B scores 52 on Artificial Analysis",
-      "summary": "Article URL: https://artificialanalysis.ai/models/qwen3-8-27b Comments URL: https://news.ycombinator.com/item?id=49334544 Points: 366 # Comments: 169",
+      "summary": "Article URL: https://artificialanalysis.ai/models/qwen3-8-27b Comments URL: https://news.ycombinator.com/item?id=49334544 Points: 370 # Comments: 172",
       "source": "Hacker News",
       "published": "2026-08-17T17:25:17+00:00",
       "link": "https://artificialanalysis.ai/models/qwen3-8-27b"
@@ -276,7 +332,7 @@ const FEED_DATA = {
     },
     {
       "title": "Anthropic's War on open source AI",
-      "summary": "Article URL: https://twitter.com/TheAhmadOsman/status/2065307070044234186 Comments URL: https://news.ycombinator.com/item?id=49332564 Points: 148 # Comments: 59",
+      "summary": "Article URL: https://twitter.com/TheAhmadOsman/status/2065307070044234186 Comments URL: https://news.ycombinator.com/item?id=49332564 Points: 150 # Comments: 59",
       "source": "Hacker News",
       "published": "2026-08-17T15:24:34+00:00",
       "link": "https://twitter.com/TheAhmadOsman/status/2065307070044234186"
@@ -311,7 +367,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI-Generated GitHub Copilot “Autofix” Allowed Compromise of Snowflake's Jira",
-      "summary": "Article URL: https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug Comments URL: https://news.ycombinator.com/item?id=49331423 Points: 413 # Comments: 152",
+      "summary": "Article URL: https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug Comments URL: https://news.ycombinator.com/item?id=49331423 Points: 416 # Comments: 152",
       "source": "Hacker News",
       "published": "2026-08-17T14:18:38+00:00",
       "link": "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug"
@@ -325,14 +381,14 @@ const FEED_DATA = {
     },
     {
       "title": "How to disable or avoid intrusive AI",
-      "summary": "Article URL: https://www.librarian.net/notoai/ Comments URL: https://news.ycombinator.com/item?id=49331220 Points: 332 # Comments: 193",
+      "summary": "Article URL: https://www.librarian.net/notoai/ Comments URL: https://news.ycombinator.com/item?id=49331220 Points: 332 # Comments: 194",
       "source": "Hacker News",
       "published": "2026-08-17T14:07:56+00:00",
       "link": "https://www.librarian.net/notoai/"
     },
     {
       "title": "We Tracked a Shipment of Rare Books. It Ended at an Amazon AI Training Facility",
-      "summary": "Article URL: https://www.404media.co/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-training-facility/ Comments URL: https://news.ycombinator.com/item?id=49330742 Points: 155 # Comments: 309",
+      "summary": "Article URL: https://www.404media.co/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-training-facility/ Comments URL: https://news.ycombinator.com/item?id=49330742 Points: 155 # Comments: 314",
       "source": "Hacker News",
       "published": "2026-08-17T13:44:23+00:00",
       "link": "https://www.404media.co/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-training-facility/"
@@ -367,7 +423,7 @@ const FEED_DATA = {
     },
     {
       "title": "GPT 5.6 Sol is the best \"vision\" model OpenAI ever released",
-      "summary": "Article URL: https://blog.roboflow.com/openai-gpt-5-6/ Comments URL: https://news.ycombinator.com/item?id=49329575 Points: 357 # Comments: 164",
+      "summary": "Article URL: https://blog.roboflow.com/openai-gpt-5-6/ Comments URL: https://news.ycombinator.com/item?id=49329575 Points: 359 # Comments: 166",
       "source": "Hacker News",
       "published": "2026-08-17T12:09:42+00:00",
       "link": "https://blog.roboflow.com/openai-gpt-5-6/"
@@ -423,14 +479,14 @@ const FEED_DATA = {
     },
     {
       "title": "On AI regulation and messaging",
-      "summary": "https://xcancel.com/DarioAmodei/status/2088758816376807762 Comments URL: https://news.ycombinator.com/item?id=49325789 Points: 247 # Comments: 531",
+      "summary": "https://xcancel.com/DarioAmodei/status/2088758816376807762 Comments URL: https://news.ycombinator.com/item?id=49325789 Points: 248 # Comments: 532",
       "source": "Hacker News",
       "published": "2026-08-17T01:59:56+00:00",
       "link": "https://twitter.com/DarioAmodei/status/2088758816376807762"
     },
     {
       "title": "Young People Hate AI CEOs So Passionately That It's Almost Hard to Believe",
-      "summary": "Article URL: https://futurism.com/artificial-intelligence/young-people-ai-ceos-executives-poll Comments URL: https://news.ycombinator.com/item?id=49323932 Points: 154 # Comments: 183",
+      "summary": "Article URL: https://futurism.com/artificial-intelligence/young-people-ai-ceos-executives-poll Comments URL: https://news.ycombinator.com/item?id=49323932 Points: 154 # Comments: 186",
       "source": "Hacker News",
       "published": "2026-08-16T21:34:06+00:00",
       "link": "https://futurism.com/artificial-intelligence/young-people-ai-ceos-executives-poll"
@@ -493,7 +549,7 @@ const FEED_DATA = {
     },
     {
       "title": "The AI Credit Resale Economy",
-      "summary": "Article URL: https://vectoral.com/blog/who-are-the-token-brokers Comments URL: https://news.ycombinator.com/item?id=49320611 Points: 329 # Comments: 128",
+      "summary": "Article URL: https://vectoral.com/blog/who-are-the-token-brokers Comments URL: https://news.ycombinator.com/item?id=49320611 Points: 331 # Comments: 128",
       "source": "Hacker News",
       "published": "2026-08-16T14:44:55+00:00",
       "link": "https://vectoral.com/blog/who-are-the-token-brokers"
@@ -1344,62 +1400,6 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-08-12T15:44:56+00:00",
       "link": "https://techcrunch.com/2026/08/12/how-a-250-million-acquisition-collapsed-into-allegations-of-fraud-and-forged-signatures/"
-    },
-    {
-      "title": "Google tests AMIE for clinical video consultations",
-      "summary": "Google’s research medical AI system, AMIE (Video), conducted synchronous video consultations with professional patient actors and received clinical evaluator ratings on par with primary care physicians across several core measures.",
-      "source": "AI News",
-      "published": "2026-08-12T14:56:18+00:00",
-      "link": "https://www.artificialintelligence-news.com/news/google-tests-amie-for-clinical-video-consultations/"
-    },
-    {
-      "title": "Why Sandbar thinks it’s voice-enabled ring can avoid the AI hardware graveyard",
-      "summary": "AI notetaking hardware has taken off over the past couple of years, with credit-card-sized devices, pendants, pins, and even transcribing earbuds all promising to capture your meetings and turn them into summaries and action items.",
-      "source": "TechCrunch",
-      "published": "2026-08-12T14:22:00+00:00",
-      "link": "https://techcrunch.com/podcast/why-sandbar-thinks-its-voice-enabled-ring-can-avoid-the-ai-hardware-graveyard/"
-    },
-    {
-      "title": "Everything announced at Made by Google ’26: Pixel 11, Pixel Watch 5, Pixel Tag, and tons of Gemini features",
-      "summary": "From the Pixel 11 series and a brand new competitor to Apple’s AirTag, here are all the announcements from the Made by Google 2026 event.",
-      "source": "TechCrunch",
-      "published": "2026-08-12T14:20:33+00:00",
-      "link": "https://techcrunch.com/2026/08/12/google-unveils-pixel-11-lineup-new-airtag-rival-and-gemini-features-at-made-by-google-2026/"
-    },
-    {
-      "title": "German advocacy group lodges criminal complaint over Meta AI glasses",
-      "summary": "Article URL: https://www.reuters.com/legal/government/german-advocacy-group-lodges-criminal-complaint-over-meta-ai-glasses-2026-08-12/ Comments URL: https://news.ycombinator.com/item?id=49272620 Points: 117 # Comments: 52",
-      "source": "Hacker News",
-      "published": "2026-08-12T14:06:03+00:00",
-      "link": "https://www.reuters.com/legal/government/german-advocacy-group-lodges-criminal-complaint-over-meta-ai-glasses-2026-08-12/"
-    },
-    {
-      "title": "Someone is running mass vulnerability scans, spoofing AI bots like ClaudeBot",
-      "summary": "Article URL: https://knownagents.com/insights Comments URL: https://news.ycombinator.com/item?id=49272569 Points: 302 # Comments: 226",
-      "source": "Hacker News",
-      "published": "2026-08-12T14:02:46+00:00",
-      "link": "https://knownagents.com/insights"
-    },
-    {
-      "title": "4 New Camera Tricks on Google’s Latest Pixel 11 Smartphones",
-      "summary": "From Magic Capture and Instant Night Sight to a built-in teleprompter, here’s a look at a few camera features on Google’s new Pixel 11 series.",
-      "source": "Wired",
-      "published": "2026-08-12T14:00:00+00:00",
-      "link": "https://www.wired.com/story/new-camera-tricks-on-google-latest-pixel-11-smartphones/"
-    },
-    {
-      "title": "Google’s Pixel Watch 5 dives deeper into AI and health",
-      "summary": "The $399 Google Pixel Watch 5 isn't about the hardware. Sure, there's a new satin pyrite case finish, a few new strap colors, and a Steph Curry Special Edition.",
-      "source": "The Verge",
-      "published": "2026-08-12T14:00:00+00:00",
-      "link": "https://www.theverge.com/tech/978094/pixel-watch-5-hands-on-made-by-google-gemini-wearables-smartwatch"
-    },
-    {
-      "title": "Legal startup founder Robert Mahari joins Anthropic to lead Claude's push into law practices",
-      "summary": "Robert Mahari is Anthropic's first \"Head of Claude for Legal,\" responsible for deploying and expanding the Claude AI model across the legal industry.",
-      "source": "The Decoder",
-      "published": "2026-08-12T13:51:18+00:00",
-      "link": "https://the-decoder.com/legal-startup-founder-robert-mahari-joins-anthropic-to-lead-claudes-push-into-law-practices/"
     }
   ]
 };
