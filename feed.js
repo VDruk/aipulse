@@ -1,6 +1,55 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-08-19T09:20:04.402817+00:00",
+  "lastUpdated": "2026-08-19T13:45:51.634265+00:00",
   "items": [
+    {
+      "title": "AI labs are failing to keep their own systems in check",
+      "summary": "No AI company fully applies basic control measures to its own internal AI systems. The article AI labs are failing to keep their own systems in check appeared first on The Decoder.",
+      "source": "The Decoder",
+      "published": "2026-08-19T13:16:18+00:00",
+      "link": "https://the-decoder.com/ai-labs-are-failing-to-keep-their-own-systems-in-check/"
+    },
+    {
+      "title": "Anthropic says any lab can now let a language model agent run the whole protein design stack",
+      "summary": "Anthropic had its Claude models design small proteins on their own that dock onto target structures in the body, a key step in early drug development. The hit rate reached up to 35 percent, far above the industry average of 10 to 15 percent.",
+      "source": "The Decoder",
+      "published": "2026-08-19T13:07:56+00:00",
+      "link": "https://the-decoder.com/anthropic-says-any-lab-can-now-let-a-language-model-agent-run-the-whole-protein-design-stack/"
+    },
+    {
+      "title": "Anthropic passes OpenAI on revenue for the first time",
+      "summary": "Anthropic has passed OpenAI on revenue for the first time in the AI race. The article Anthropic passes OpenAI on revenue for the first time appeared first on The Decoder.",
+      "source": "The Decoder",
+      "published": "2026-08-19T12:45:02+00:00",
+      "link": "https://the-decoder.com/anthropic-passes-openai-on-revenue-for-the-first-time/"
+    },
+    {
+      "title": "The Download: AI’s self-improvement problem, and what’s driving the heat",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.",
+      "source": "MIT Tech Review",
+      "published": "2026-08-19T12:10:00+00:00",
+      "link": "https://www.technologyreview.com/2026/08/19/1140195/the-download-ai-recursive-self-improvement-problem-heatwave-causes/"
+    },
+    {
+      "title": "AI isn’t close to curing cancer. This startup says it knows what it will take.",
+      "summary": "It's the data, stupid.",
+      "source": "TechCrunch",
+      "published": "2026-08-19T12:00:00+00:00",
+      "link": "https://techcrunch.com/2026/08/19/ai-isnt-close-to-curing-cancer-this-startup-says-it-knows-what-it-will-take/"
+    },
+    {
+      "title": "Nvidia’s new financial strategy does not compute",
+      "summary": "April - 1805 Napoleon is master of Europe Only the British fleet stands before him Compute is now an asset class I see it is once again time to talk financial innovation.",
+      "source": "The Verge",
+      "published": "2026-08-19T12:00:00+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/981668/nvidias-goldman-blackrock-gpu-compute-asset"
+    },
+    {
+      "title": "Relativity Networks raises $22 million to bring a faster kind of fiber to data centers",
+      "summary": "Relativity Networks deals in hollow-core fiber, a rarely deployed technology that allows data to be transmitted 30% faster than conventional fiber.",
+      "source": "TechCrunch",
+      "published": "2026-08-19T10:00:00+00:00",
+      "link": "https://techcrunch.com/2026/08/19/relativity-networks-raises-22-million-to-bring-a-faster-kind-of-fiber-to-data-centers/"
+    },
     {
       "title": "Child-monitoring apps might need a reboot",
       "summary": "Pam Wisniewski’s digital adolescence showed her the best and the worst of the internet. At 14, she left an abusive home, where she’d been isolated in a fifth-wheel trailer at the end of a seven-­mile dirt road.",
@@ -24,14 +73,14 @@ const FEED_DATA = {
     },
     {
       "title": "AI usage patterns in software teams",
-      "summary": "Article URL: https://linear.app/data Comments URL: https://news.ycombinator.com/item?id=49353432 Points: 134 # Comments: 69",
+      "summary": "Article URL: https://linear.app/data Comments URL: https://news.ycombinator.com/item?id=49353432 Points: 158 # Comments: 101",
       "source": "Hacker News",
       "published": "2026-08-18T22:08:07+00:00",
       "link": "https://linear.app/data"
     },
     {
       "title": "GLM-5.3 Artificial Analysis Benchmarks",
-      "summary": "Article URL: https://artificialanalysis.ai/models/glm-5-3 Comments URL: https://news.ycombinator.com/item?id=49353407 Points: 125 # Comments: 46",
+      "summary": "Article URL: https://artificialanalysis.ai/models/glm-5-3 Comments URL: https://news.ycombinator.com/item?id=49353407 Points: 132 # Comments: 51",
       "source": "Hacker News",
       "published": "2026-08-18T22:06:10+00:00",
       "link": "https://artificialanalysis.ai/models/glm-5-3"
@@ -297,7 +346,7 @@ const FEED_DATA = {
     },
     {
       "title": "GPT-5.6 Sol Pricing Cut by 50% on OpenRouter",
-      "summary": "Article URL: https://openrouter.ai/openai/gpt-5.6-sol Comments URL: https://news.ycombinator.com/item?id=49337602 Points: 621 # Comments: 445",
+      "summary": "Article URL: https://openrouter.ai/openai/gpt-5.6-sol Comments URL: https://news.ycombinator.com/item?id=49337602 Points: 625 # Comments: 445",
       "source": "Hacker News",
       "published": "2026-08-17T21:03:18+00:00",
       "link": "https://openrouter.ai/openai/gpt-5.6-sol"
@@ -311,14 +360,14 @@ const FEED_DATA = {
     },
     {
       "title": "Israel creates fake think tank in likely attempt to dupe AI chatbots",
-      "summary": "Article URL: https://responsiblestatecraft.org/israel-influence-chatgpt/ Comments URL: https://news.ycombinator.com/item?id=49337392 Points: 1026 # Comments: 760",
+      "summary": "Article URL: https://responsiblestatecraft.org/israel-influence-chatgpt/ Comments URL: https://news.ycombinator.com/item?id=49337392 Points: 1030 # Comments: 778",
       "source": "Hacker News",
       "published": "2026-08-17T20:46:10+00:00",
       "link": "https://responsiblestatecraft.org/israel-influence-chatgpt/"
     },
     {
       "title": "AI;DR (AI; Didn't Read)",
-      "summary": "Article URL: https://www.rickmanelius.com/p/aidr-ai-didnt-read Comments URL: https://news.ycombinator.com/item?id=49336573 Points: 1076 # Comments: 675",
+      "summary": "Article URL: https://www.rickmanelius.com/p/aidr-ai-didnt-read Comments URL: https://news.ycombinator.com/item?id=49336573 Points: 1081 # Comments: 677",
       "source": "Hacker News",
       "published": "2026-08-17T19:47:15+00:00",
       "link": "https://www.rickmanelius.com/p/aidr-ai-didnt-read"
@@ -339,7 +388,7 @@ const FEED_DATA = {
     },
     {
       "title": "Qwen3.8 27B scores 52 on Artificial Analysis",
-      "summary": "Article URL: https://artificialanalysis.ai/models/qwen3-8-27b Comments URL: https://news.ycombinator.com/item?id=49334544 Points: 373 # Comments: 175",
+      "summary": "Article URL: https://artificialanalysis.ai/models/qwen3-8-27b Comments URL: https://news.ycombinator.com/item?id=49334544 Points: 373 # Comments: 177",
       "source": "Hacker News",
       "published": "2026-08-17T17:25:17+00:00",
       "link": "https://artificialanalysis.ai/models/qwen3-8-27b"
@@ -402,7 +451,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI-Generated GitHub Copilot “Autofix” Allowed Compromise of Snowflake's Jira",
-      "summary": "Article URL: https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug Comments URL: https://news.ycombinator.com/item?id=49331423 Points: 421 # Comments: 155",
+      "summary": "Article URL: https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug Comments URL: https://news.ycombinator.com/item?id=49331423 Points: 423 # Comments: 155",
       "source": "Hacker News",
       "published": "2026-08-17T14:18:38+00:00",
       "link": "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug"
@@ -416,14 +465,14 @@ const FEED_DATA = {
     },
     {
       "title": "How to disable or avoid intrusive AI",
-      "summary": "Article URL: https://www.librarian.net/notoai/ Comments URL: https://news.ycombinator.com/item?id=49331220 Points: 334 # Comments: 195",
+      "summary": "Article URL: https://www.librarian.net/notoai/ Comments URL: https://news.ycombinator.com/item?id=49331220 Points: 335 # Comments: 195",
       "source": "Hacker News",
       "published": "2026-08-17T14:07:56+00:00",
       "link": "https://www.librarian.net/notoai/"
     },
     {
       "title": "We Tracked a Shipment of Rare Books. It Ended at an Amazon AI Training Facility",
-      "summary": "Article URL: https://www.404media.co/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-training-facility/ Comments URL: https://news.ycombinator.com/item?id=49330742 Points: 158 # Comments: 316",
+      "summary": "Article URL: https://www.404media.co/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-training-facility/ Comments URL: https://news.ycombinator.com/item?id=49330742 Points: 160 # Comments: 316",
       "source": "Hacker News",
       "published": "2026-08-17T13:44:23+00:00",
       "link": "https://www.404media.co/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-training-facility/"
@@ -458,7 +507,7 @@ const FEED_DATA = {
     },
     {
       "title": "GPT 5.6 Sol is the best \"vision\" model OpenAI ever released",
-      "summary": "Article URL: https://blog.roboflow.com/openai-gpt-5-6/ Comments URL: https://news.ycombinator.com/item?id=49329575 Points: 360 # Comments: 166",
+      "summary": "Article URL: https://blog.roboflow.com/openai-gpt-5-6/ Comments URL: https://news.ycombinator.com/item?id=49329575 Points: 361 # Comments: 166",
       "source": "Hacker News",
       "published": "2026-08-17T12:09:42+00:00",
       "link": "https://blog.roboflow.com/openai-gpt-5-6/"
@@ -1351,55 +1400,6 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-08-12T17:51:00+00:00",
       "link": "https://techcrunch.com/2026/08/12/as-ai-safety-concerns-mount-three-pioneers-make-the-case-for-staying-open/"
-    },
-    {
-      "title": "OpenAI-backed Thrive Holdings raises $2B to bring AI to the enterprise",
-      "summary": "Thrive Holdings has raised $2 billion in new funding at a $12 billion valuation from investors like SoftBank, D1 Capital Partners, and Altimeter Capital.",
-      "source": "TechCrunch",
-      "published": "2026-08-12T17:41:29+00:00",
-      "link": "https://techcrunch.com/2026/08/12/openai-backed-thrive-holdings-raises-2b-to-bring-ai-to-the-enterprise/"
-    },
-    {
-      "title": "Researchers can now reverse-engineer LLM prompts from output text with near-perfect accuracy",
-      "summary": "Researchers at IIT Bombay and Adobe Research have built an inverse language model that reconstructs the original prompt from an LLM's output with near-perfect accuracy.",
-      "source": "The Decoder",
-      "published": "2026-08-12T17:32:59+00:00",
-      "link": "https://the-decoder.com/researchers-can-now-reverse-engineer-llm-prompts-from-output-text-with-near-perfect-accuracy/"
-    },
-    {
-      "title": "Twitch streamers can now opt out from training Amazon’s AI",
-      "summary": "Twitch users can now opt out of allowing their content to be used to train Amazon's generative AI models.",
-      "source": "The Verge",
-      "published": "2026-08-12T17:29:10+00:00",
-      "link": "https://www.theverge.com/tech/979112/twitch-streamers-can-now-opt-out-from-training-amazons-ai"
-    },
-    {
-      "title": "Mesh, Automattic’s CRM for everyone, comes to Android",
-      "summary": "Mesh, an AI-powered contacts app and relationship manager from Automattic, is now an Android app.",
-      "source": "TechCrunch",
-      "published": "2026-08-12T16:57:58+00:00",
-      "link": "https://techcrunch.com/2026/08/12/mesh-automattics-crm-for-everyone-comes-to-android/"
-    },
-    {
-      "title": "Grok 4.6 scores 61 on the Artificial Analysis Intelligence Index",
-      "summary": "Article URL: https://artificialanalysis.ai/articles/grok-4-6-benchmarks-and-analysis Comments URL: https://news.ycombinator.com/item?id=49275385 Points: 341 # Comments: 414",
-      "source": "Hacker News",
-      "published": "2026-08-12T16:54:25+00:00",
-      "link": "https://artificialanalysis.ai/articles/grok-4-6-benchmarks-and-analysis"
-    },
-    {
-      "title": "Scaling AI agents with trustworthy data",
-      "summary": "Business and technology leaders need no convincing that the time of agentic AI is here. Organizations are rapidly adopting agents, and few executives doubt the technology’s potential to transform work.",
-      "source": "MIT Tech Review",
-      "published": "2026-08-12T16:51:57+00:00",
-      "link": "https://www.technologyreview.com/2026/08/12/1141032/scaling-ai-agents-with-trustworthy-data/"
-    },
-    {
-      "title": "Why Stream ring-maker Sandbar says the future of AI wearables is voice",
-      "summary": "AI notetaking hardware has taken off over the past couple of years, with credit-card-sized devices, pendants, pins, and even transcribing earbuds all promising to capture your meetings and turn them into summaries and action items.",
-      "source": "TechCrunch",
-      "published": "2026-08-12T16:46:02+00:00",
-      "link": "https://techcrunch.com/video/why-stream-ring-maker-sandbar-says-the-future-of-ai-wearables-is-voice/"
     }
   ]
 };
