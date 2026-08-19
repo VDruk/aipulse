@@ -1,6 +1,69 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-08-19T17:20:42.767462+00:00",
+  "lastUpdated": "2026-08-19T21:17:44.949663+00:00",
   "items": [
+    {
+      "title": "Stripe declares we're living in the singularity and uses it as a reason not to IPO",
+      "summary": "In a letter to investors, Stripe declares January 1 the \"beginning of the singularity\" and uses that as a reason to stay private. Not that it needs one: revenue grew 41 percent in the first half of the year, and the company confirmed its $8 billion-plus acquisition of OpenRouter.",
+      "source": "The Decoder",
+      "published": "2026-08-19T20:03:20+00:00",
+      "link": "https://the-decoder.com/stripe-declares-were-living-in-the-singularity-and-uses-it-as-a-reason-not-to-ipo/"
+    },
+    {
+      "title": "I Saw the Future of AI in a Robot That Can Learn on the Spot",
+      "summary": "During a recent visit to Generalist AI, I watched a robotic arm improvise and use a banana as a tool.",
+      "source": "Wired",
+      "published": "2026-08-19T19:30:00+00:00",
+      "link": "https://www.wired.com/story/generalist-ai-robots-learn-like-clever-toddlers/"
+    },
+    {
+      "title": "AI was supposed to win people over by now — it hasn’t",
+      "summary": "As AI becomes harder to avoid, consumers are growing more wary of the technology — and Silicon Valley is discovering that widespread adoption doesn’t necessarily lead to acceptance.",
+      "source": "TechCrunch",
+      "published": "2026-08-19T19:11:40+00:00",
+      "link": "https://techcrunch.com/2026/08/19/ai-was-supposed-to-win-people-over-by-now-it-hasnt/"
+    },
+    {
+      "title": "Google packs Search and Gemini with new AI study tools",
+      "summary": "The launch of the new study features marks Google's latest effort to make Gemini the AI assistant that students turn to when learning and studying, as it continues to compete with companies like OpenAI.",
+      "source": "TechCrunch",
+      "published": "2026-08-19T19:00:00+00:00",
+      "link": "https://techcrunch.com/2026/08/19/google-launches-new-study-tools-for-students-across-search-and-gemini/"
+    },
+    {
+      "title": "Google Gemini is getting a dedicated student hub",
+      "summary": "As we're gearing up for back-to-school season, Google is rolling out a new dedicated student hub in Gemini. It's a one-stop repository for collecting research in a study notebook, creating flashcards, taking practice quizzes, and more.",
+      "source": "The Verge",
+      "published": "2026-08-19T19:00:00+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/982425/google-gemini-student-hub"
+    },
+    {
+      "title": "Attackers are using AI to build exploits for industrial control systems, U.S. agencies warn",
+      "summary": "The NSA, CISA, and FBI say attackers are using AI to build exploit scripts targeting Siemens S7 controllers, drastically cutting the time and skill needed to attack industrial control systems. Critical U.S.",
+      "source": "The Decoder",
+      "published": "2026-08-19T18:55:53+00:00",
+      "link": "https://the-decoder.com/attackers-are-using-ai-to-build-exploits-for-industrial-control-systems-u-s-agencies-warn/"
+    },
+    {
+      "title": "Researchers say OpenAI revoked their access to limited cyber program",
+      "summary": "The idea behind OpenAI's Trusted Access for Cyber program is to give trusted defenders better models so they can report bugs and vulnerabilities to companies, with the aim of getting flaws patched faster.",
+      "source": "TechCrunch",
+      "published": "2026-08-19T18:46:14+00:00",
+      "link": "https://techcrunch.com/2026/08/19/researchers-complain-that-openai-revoked-their-access-to-limited-cyber-program/"
+    },
+    {
+      "title": "OpenAI fixes Codex bug that deleted real user files without permission",
+      "summary": "OpenAI patched Codex after GPT-5.6 Sol started deleting real user files on its own. A cleanup command meant for temporary folders was wiping home directories instead.",
+      "source": "The Decoder",
+      "published": "2026-08-19T18:18:34+00:00",
+      "link": "https://the-decoder.com/openai-fixes-codex-bug-that-deleted-real-user-files-without-permission/"
+    },
+    {
+      "title": "Meet the startup helping Wall Street put a price on AI compute",
+      "summary": "The AI buildout shows no signs of slowing. And with hundreds of billions of dollars a year going into data centers and GPUs, compute has become the single biggest cost for anyone building AI products.",
+      "source": "TechCrunch",
+      "published": "2026-08-19T17:26:48+00:00",
+      "link": "https://techcrunch.com/video/meet-the-startup-helping-wall-street-put-a-price-on-ai-compute/"
+    },
     {
       "title": "OpenAI hit the brakes. Now what?",
       "summary": "With a looming IPO, intense competition from Anthropic, and Chinese and open-weight rivals nipping at its heels, OpenAI has plenty of reasons to move fast. Instead, it hit the brakes.",
@@ -28,6 +91,13 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-08-19T15:44:53+00:00",
       "link": "https://techcrunch.com/2026/08/19/terrapowers-nuclear-reactor-has-a-secret-weapon-for-powering-ai-data-centers/"
+    },
+    {
+      "title": "Mathematics in the age of AI",
+      "summary": "Article URL: https://arxiv.org/abs/2608.16753 Comments URL: https://news.ycombinator.com/item?id=49362728 Points: 78 # Comments: 59",
+      "source": "Hacker News",
+      "published": "2026-08-19T15:14:25+00:00",
+      "link": "https://arxiv.org/abs/2608.16753"
     },
     {
       "title": "Amazon makes its AI-powered Alexa+ free on Fire TV, no Prime required",
@@ -129,14 +199,14 @@ const FEED_DATA = {
     },
     {
       "title": "AI usage patterns in software teams",
-      "summary": "Article URL: https://linear.app/data Comments URL: https://news.ycombinator.com/item?id=49353432 Points: 171 # Comments: 110",
+      "summary": "Article URL: https://linear.app/data Comments URL: https://news.ycombinator.com/item?id=49353432 Points: 177 # Comments: 110",
       "source": "Hacker News",
       "published": "2026-08-18T22:08:07+00:00",
       "link": "https://linear.app/data"
     },
     {
       "title": "GLM-5.3 Artificial Analysis Benchmarks",
-      "summary": "Article URL: https://artificialanalysis.ai/models/glm-5-3 Comments URL: https://news.ycombinator.com/item?id=49353407 Points: 139 # Comments: 52",
+      "summary": "Article URL: https://artificialanalysis.ai/models/glm-5-3 Comments URL: https://news.ycombinator.com/item?id=49353407 Points: 143 # Comments: 53",
       "source": "Hacker News",
       "published": "2026-08-18T22:06:10+00:00",
       "link": "https://artificialanalysis.ai/models/glm-5-3"
@@ -402,7 +472,7 @@ const FEED_DATA = {
     },
     {
       "title": "GPT-5.6 Sol Pricing Cut by 50% on OpenRouter",
-      "summary": "Article URL: https://openrouter.ai/openai/gpt-5.6-sol Comments URL: https://news.ycombinator.com/item?id=49337602 Points: 625 # Comments: 448",
+      "summary": "Article URL: https://openrouter.ai/openai/gpt-5.6-sol Comments URL: https://news.ycombinator.com/item?id=49337602 Points: 627 # Comments: 449",
       "source": "Hacker News",
       "published": "2026-08-17T21:03:18+00:00",
       "link": "https://openrouter.ai/openai/gpt-5.6-sol"
@@ -416,14 +486,14 @@ const FEED_DATA = {
     },
     {
       "title": "Israel creates fake think tank in likely attempt to dupe AI chatbots",
-      "summary": "Article URL: https://responsiblestatecraft.org/israel-influence-chatgpt/ Comments URL: https://news.ycombinator.com/item?id=49337392 Points: 1037 # Comments: 802",
+      "summary": "Article URL: https://responsiblestatecraft.org/israel-influence-chatgpt/ Comments URL: https://news.ycombinator.com/item?id=49337392 Points: 1042 # Comments: 806",
       "source": "Hacker News",
       "published": "2026-08-17T20:46:10+00:00",
       "link": "https://responsiblestatecraft.org/israel-influence-chatgpt/"
     },
     {
       "title": "AI;DR (AI; Didn't Read)",
-      "summary": "Article URL: https://www.rickmanelius.com/p/aidr-ai-didnt-read Comments URL: https://news.ycombinator.com/item?id=49336573 Points: 1084 # Comments: 680",
+      "summary": "Article URL: https://www.rickmanelius.com/p/aidr-ai-didnt-read Comments URL: https://news.ycombinator.com/item?id=49336573 Points: 1085 # Comments: 685",
       "source": "Hacker News",
       "published": "2026-08-17T19:47:15+00:00",
       "link": "https://www.rickmanelius.com/p/aidr-ai-didnt-read"
@@ -437,7 +507,7 @@ const FEED_DATA = {
     },
     {
       "title": "AirTag reveals Amazon is trashing rare books to train AI",
-      "summary": "Article URL: https://arstechnica.com/tech-policy/2026/08/hidden-airtag-reveals-amazon-is-trashing-rare-books-to-train-ai/ Comments URL: https://news.ycombinator.com/item?id=49336050 Points: 130 # Comments: 6",
+      "summary": "Article URL: https://arstechnica.com/tech-policy/2026/08/hidden-airtag-reveals-amazon-is-trashing-rare-books-to-train-ai/ Comments URL: https://news.ycombinator.com/item?id=49336050 Points: 131 # Comments: 6",
       "source": "Hacker News",
       "published": "2026-08-17T19:06:11+00:00",
       "link": "https://arstechnica.com/tech-policy/2026/08/hidden-airtag-reveals-amazon-is-trashing-rare-books-to-train-ai/"
@@ -521,14 +591,14 @@ const FEED_DATA = {
     },
     {
       "title": "How to disable or avoid intrusive AI",
-      "summary": "Article URL: https://www.librarian.net/notoai/ Comments URL: https://news.ycombinator.com/item?id=49331220 Points: 336 # Comments: 195",
+      "summary": "Article URL: https://www.librarian.net/notoai/ Comments URL: https://news.ycombinator.com/item?id=49331220 Points: 336 # Comments: 196",
       "source": "Hacker News",
       "published": "2026-08-17T14:07:56+00:00",
       "link": "https://www.librarian.net/notoai/"
     },
     {
       "title": "We Tracked a Shipment of Rare Books. It Ended at an Amazon AI Training Facility",
-      "summary": "Article URL: https://www.404media.co/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-training-facility/ Comments URL: https://news.ycombinator.com/item?id=49330742 Points: 160 # Comments: 317",
+      "summary": "Article URL: https://www.404media.co/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-training-facility/ Comments URL: https://news.ycombinator.com/item?id=49330742 Points: 162 # Comments: 319",
       "source": "Hacker News",
       "published": "2026-08-17T13:44:23+00:00",
       "link": "https://www.404media.co/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-training-facility/"
@@ -549,7 +619,7 @@ const FEED_DATA = {
     },
     {
       "title": "Show HN: Sokoban AI Solver",
-      "summary": "Article URL: https://mkornreich.me/projects/sokoban/ Comments URL: https://news.ycombinator.com/item?id=49330215 Points: 70 # Comments: 42",
+      "summary": "Article URL: https://mkornreich.me/projects/sokoban/ Comments URL: https://news.ycombinator.com/item?id=49330215 Points: 71 # Comments: 42",
       "source": "Hacker News",
       "published": "2026-08-17T13:07:00+00:00",
       "link": "https://mkornreich.me/projects/sokoban/"
@@ -563,7 +633,7 @@ const FEED_DATA = {
     },
     {
       "title": "GPT 5.6 Sol is the best \"vision\" model OpenAI ever released",
-      "summary": "Article URL: https://blog.roboflow.com/openai-gpt-5-6/ Comments URL: https://news.ycombinator.com/item?id=49329575 Points: 362 # Comments: 166",
+      "summary": "Article URL: https://blog.roboflow.com/openai-gpt-5-6/ Comments URL: https://news.ycombinator.com/item?id=49329575 Points: 363 # Comments: 167",
       "source": "Hacker News",
       "published": "2026-08-17T12:09:42+00:00",
       "link": "https://blog.roboflow.com/openai-gpt-5-6/"
@@ -619,7 +689,7 @@ const FEED_DATA = {
     },
     {
       "title": "On AI regulation and messaging",
-      "summary": "https://xcancel.com/DarioAmodei/status/2088758816376807762 Comments URL: https://news.ycombinator.com/item?id=49325789 Points: 249 # Comments: 541",
+      "summary": "https://xcancel.com/DarioAmodei/status/2088758816376807762 Comments URL: https://news.ycombinator.com/item?id=49325789 Points: 249 # Comments: 542",
       "source": "Hacker News",
       "published": "2026-08-17T01:59:56+00:00",
       "link": "https://twitter.com/DarioAmodei/status/2088758816376807762"
@@ -1330,76 +1400,6 @@ const FEED_DATA = {
       "source": "The Verge",
       "published": "2026-08-13T13:30:00+00:00",
       "link": "https://www.theverge.com/tech/979466/microsoft-copilot-365-app-unified-experience"
-    },
-    {
-      "title": "AI agents lie, cheat and steal. That is putting off users",
-      "summary": "Article URL: https://www.economist.com/business/2026/08/12/ai-agents-lie-cheat-and-steal-that-is-putting-off-users Comments URL: https://news.ycombinator.com/item?id=49285604 Points: 164 # Comments: 206",
-      "source": "Hacker News",
-      "published": "2026-08-13T13:28:45+00:00",
-      "link": "https://www.economist.com/business/2026/08/12/ai-agents-lie-cheat-and-steal-that-is-putting-off-users"
-    },
-    {
-      "title": "Choosing an AI model: one prompt, 11 models, different results",
-      "summary": "Article URL: https://www.netlify.com/blog/one-prompt-11-models-very-different-results/ Comments URL: https://news.ycombinator.com/item?id=49285327 Points: 217 # Comments: 95",
-      "source": "Hacker News",
-      "published": "2026-08-13T13:05:29+00:00",
-      "link": "https://www.netlify.com/blog/one-prompt-11-models-very-different-results/"
-    },
-    {
-      "title": "The Download: kids’ thoughts on AI, and female clones of male mice",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.",
-      "source": "MIT Tech Review",
-      "published": "2026-08-13T12:10:00+00:00",
-      "link": "https://www.technologyreview.com/2026/08/13/1141896/the-download-kids-thoughts-on-ai-female-clones-male-mice/"
-    },
-    {
-      "title": "Fable 5's slow adoption suggests corporate willingness to pay for frontier AI has hit a ceiling",
-      "summary": "Anthropic's Fable 5 is considered the most powerful AI model on the market, but U.S. companies are barely buying it.",
-      "source": "The Decoder",
-      "published": "2026-08-13T10:46:20+00:00",
-      "link": "https://the-decoder.com/fable-5s-slow-adoption-suggests-corporate-willingness-to-pay-for-frontier-ai-has-hit-a-ceiling/"
-    },
-    {
-      "title": "Top AI lab researchers warned about automated AI research, and several of their predicted milestones have already fallen",
-      "summary": "IAPS fellow Severin Field interviewed 25 researchers from OpenAI, Anthropic, Google Deepmind, Meta, and US universities about recursive self-improvement. In a new blog post, he takes stock.",
-      "source": "The Decoder",
-      "published": "2026-08-13T10:42:05+00:00",
-      "link": "https://the-decoder.com/top-ai-lab-researchers-warned-about-automated-ai-research-and-several-of-their-predicted-milestones-have-already-fallen/"
-    },
-    {
-      "title": "Anthropic brings Claude Cowork to its Chrome extension, adding skills and plugins to the browser",
-      "summary": "Claude Cowork now runs directly in the side panel of Anthropic's Chrome extension. The article Anthropic brings Claude Cowork to its Chrome extension, adding skills and plugins to the browser appeared first on The Decoder.",
-      "source": "The Decoder",
-      "published": "2026-08-13T10:15:29+00:00",
-      "link": "https://the-decoder.com/anthropic-brings-claude-cowork-to-its-chrome-extension-adding-skills-and-plugins-to-the-browser/"
-    },
-    {
-      "title": "Can I use my Outputs to train an AI model?",
-      "summary": "Article URL: https://support.claude.com/en/articles/12326764-can-i-use-my-outputs-to-train-an-ai-model Comments URL: https://news.ycombinator.com/item?id=49283563 Points: 92 # Comments: 86",
-      "source": "Hacker News",
-      "published": "2026-08-13T09:34:13+00:00",
-      "link": "https://support.claude.com/en/articles/12326764-can-i-use-my-outputs-to-train-an-ai-model"
-    },
-    {
-      "title": "Okta targets AI agent token costs with MCP scoping",
-      "summary": "Okta says identity-scoped Model Context Protocol (MCP) tool lists can reduce AI agent token costs. Each model call made by an AI agent can include schemas, names, descriptions and parameters for every tool exposed by a MCP server.",
-      "source": "AI News",
-      "published": "2026-08-13T09:22:06+00:00",
-      "link": "https://www.artificialintelligence-news.com/news/okta-targets-ai-agent-token-costs-with-mcp-scoping/"
-    },
-    {
-      "title": "There’s a Fatty Liver Epidemic. AI Could Help Get Ahead of It",
-      "summary": "Over a billion people worldwide have livers with excess fat, which can lead to a host of medical problems. Researchers think AI tools can spot the condition—and help stop it—early enough to save lives.",
-      "source": "Wired",
-      "published": "2026-08-13T09:00:00+00:00",
-      "link": "https://www.wired.com/story/fatty-liver-disease-ai-detection-cancer/"
-    },
-    {
-      "title": "How kids feel about AI, in their own words",
-      "summary": "When we set out to talk to kids about artificial intelligence, we thought we knew what we’d hear.",
-      "source": "MIT Tech Review",
-      "published": "2026-08-13T09:00:00+00:00",
-      "link": "https://www.technologyreview.com/2026/08/13/1141410/how-kids-feel-about-ai-own-words/"
     }
   ]
 };
