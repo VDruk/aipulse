@@ -1,5 +1,5 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-08-19T02:16:57.642280+00:00",
+  "lastUpdated": "2026-08-19T05:32:19.495461+00:00",
   "items": [
     {
       "title": "Cursor capitalizes on GitHub frustration, launches rival hosting platform",
@@ -9,8 +9,15 @@ const FEED_DATA = {
       "link": "https://techcrunch.com/2026/08/18/cursor-capitalizes-on-github-frustration-launches-rival-hosting-platform/"
     },
     {
+      "title": "AI usage patterns in software teams",
+      "summary": "Article URL: https://linear.app/data Comments URL: https://news.ycombinator.com/item?id=49353432 Points: 89 # Comments: 47",
+      "source": "Hacker News",
+      "published": "2026-08-18T22:08:07+00:00",
+      "link": "https://linear.app/data"
+    },
+    {
       "title": "GLM-5.3 Artificial Analysis Benchmarks",
-      "summary": "Article URL: https://artificialanalysis.ai/models/glm-5-3 Comments URL: https://news.ycombinator.com/item?id=49353407 Points: 85 # Comments: 39",
+      "summary": "Article URL: https://artificialanalysis.ai/models/glm-5-3 Comments URL: https://news.ycombinator.com/item?id=49353407 Points: 113 # Comments: 45",
       "source": "Hacker News",
       "published": "2026-08-18T22:06:10+00:00",
       "link": "https://artificialanalysis.ai/models/glm-5-3"
@@ -276,7 +283,7 @@ const FEED_DATA = {
     },
     {
       "title": "GPT-5.6 Sol Pricing Cut by 50% on OpenRouter",
-      "summary": "Article URL: https://openrouter.ai/openai/gpt-5.6-sol Comments URL: https://news.ycombinator.com/item?id=49337602 Points: 617 # Comments: 442",
+      "summary": "Article URL: https://openrouter.ai/openai/gpt-5.6-sol Comments URL: https://news.ycombinator.com/item?id=49337602 Points: 619 # Comments: 444",
       "source": "Hacker News",
       "published": "2026-08-17T21:03:18+00:00",
       "link": "https://openrouter.ai/openai/gpt-5.6-sol"
@@ -290,14 +297,14 @@ const FEED_DATA = {
     },
     {
       "title": "Israel creates fake think tank in likely attempt to dupe AI chatbots",
-      "summary": "Article URL: https://responsiblestatecraft.org/israel-influence-chatgpt/ Comments URL: https://news.ycombinator.com/item?id=49337392 Points: 1015 # Comments: 733",
+      "summary": "Article URL: https://responsiblestatecraft.org/israel-influence-chatgpt/ Comments URL: https://news.ycombinator.com/item?id=49337392 Points: 1019 # Comments: 746",
       "source": "Hacker News",
       "published": "2026-08-17T20:46:10+00:00",
       "link": "https://responsiblestatecraft.org/israel-influence-chatgpt/"
     },
     {
       "title": "AI;DR (AI; Didn't Read)",
-      "summary": "Article URL: https://www.rickmanelius.com/p/aidr-ai-didnt-read Comments URL: https://news.ycombinator.com/item?id=49336573 Points: 1062 # Comments: 666",
+      "summary": "Article URL: https://www.rickmanelius.com/p/aidr-ai-didnt-read Comments URL: https://news.ycombinator.com/item?id=49336573 Points: 1068 # Comments: 669",
       "source": "Hacker News",
       "published": "2026-08-17T19:47:15+00:00",
       "link": "https://www.rickmanelius.com/p/aidr-ai-didnt-read"
@@ -318,7 +325,7 @@ const FEED_DATA = {
     },
     {
       "title": "Qwen3.8 27B scores 52 on Artificial Analysis",
-      "summary": "Article URL: https://artificialanalysis.ai/models/qwen3-8-27b Comments URL: https://news.ycombinator.com/item?id=49334544 Points: 372 # Comments: 174",
+      "summary": "Article URL: https://artificialanalysis.ai/models/qwen3-8-27b Comments URL: https://news.ycombinator.com/item?id=49334544 Points: 372 # Comments: 175",
       "source": "Hacker News",
       "published": "2026-08-17T17:25:17+00:00",
       "link": "https://artificialanalysis.ai/models/qwen3-8-27b"
@@ -381,7 +388,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI-Generated GitHub Copilot “Autofix” Allowed Compromise of Snowflake's Jira",
-      "summary": "Article URL: https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug Comments URL: https://news.ycombinator.com/item?id=49331423 Points: 417 # Comments: 155",
+      "summary": "Article URL: https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug Comments URL: https://news.ycombinator.com/item?id=49331423 Points: 418 # Comments: 155",
       "source": "Hacker News",
       "published": "2026-08-17T14:18:38+00:00",
       "link": "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug"
@@ -395,7 +402,7 @@ const FEED_DATA = {
     },
     {
       "title": "How to disable or avoid intrusive AI",
-      "summary": "Article URL: https://www.librarian.net/notoai/ Comments URL: https://news.ycombinator.com/item?id=49331220 Points: 333 # Comments: 194",
+      "summary": "Article URL: https://www.librarian.net/notoai/ Comments URL: https://news.ycombinator.com/item?id=49331220 Points: 333 # Comments: 195",
       "source": "Hacker News",
       "published": "2026-08-17T14:07:56+00:00",
       "link": "https://www.librarian.net/notoai/"
@@ -500,7 +507,7 @@ const FEED_DATA = {
     },
     {
       "title": "Young People Hate AI CEOs So Passionately That It's Almost Hard to Believe",
-      "summary": "Article URL: https://futurism.com/artificial-intelligence/young-people-ai-ceos-executives-poll Comments URL: https://news.ycombinator.com/item?id=49323932 Points: 154 # Comments: 186",
+      "summary": "Article URL: https://futurism.com/artificial-intelligence/young-people-ai-ceos-executives-poll Comments URL: https://news.ycombinator.com/item?id=49323932 Points: 155 # Comments: 186",
       "source": "Hacker News",
       "published": "2026-08-16T21:34:06+00:00",
       "link": "https://futurism.com/artificial-intelligence/young-people-ai-ceos-executives-poll"
@@ -1393,13 +1400,6 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-08-12T16:04:27+00:00",
       "link": "https://techcrunch.com/2026/08/12/lovable-confirms-new-13-3b-valuation-raises-another-400m/"
-    },
-    {
-      "title": "Guitar company D’Addario admits that AI music was used in a promotional video",
-      "summary": "After weeks of controversy and speculation, music company D'Addario has admitted that AI, specifically Suno, was used as part of a recent promotional video. For nearly two weeks, the company has denied the allegations, even as evidence piled up against it.",
-      "source": "The Verge",
-      "published": "2026-08-12T15:52:07+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/978982/daddario-guitar-ai-music-suno"
     }
   ]
 };
