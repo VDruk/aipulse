@@ -1,6 +1,69 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-08-20T13:48:51.065070+00:00",
+  "lastUpdated": "2026-08-20T17:22:21.993712+00:00",
   "items": [
+    {
+      "title": "A third of webpages published since ChatGPT’s launch show signs of AI authorship, study finds",
+      "summary": "ChatGPT and other AI models are now authoring and editing much of the new web.",
+      "source": "TechCrunch",
+      "published": "2026-08-20T17:18:58+00:00",
+      "link": "https://techcrunch.com/2026/08/20/a-third-of-webpages-published-since-chatgpts-launch-show-signs-of-ai-authorship-study-finds/"
+    },
+    {
+      "title": "Ramp launches its own AI model router, called Router",
+      "summary": "Ramp has launched its own AI model routing service, dubbed Router, that lets users and companies use and switch between various large language models via an API.",
+      "source": "TechCrunch",
+      "published": "2026-08-20T16:46:00+00:00",
+      "link": "https://techcrunch.com/2026/08/20/ramp-launches-its-own-ai-model-router-called-router/"
+    },
+    {
+      "title": "Meta brings Pocket, an app that lets you vibe-code and share games, to US users",
+      "summary": "Meta is bringing Pocket, its experimental AI-powered app for creating and sharing interactive games, to users across the U.S. after quietly testing it in Brazil.",
+      "source": "TechCrunch",
+      "published": "2026-08-20T16:07:26+00:00",
+      "link": "https://techcrunch.com/2026/08/20/meta-brings-pocket-an-app-that-lets-you-vibe-code-and-share-games-to-us-users/"
+    },
+    {
+      "title": "It’s Greg Brockman’s OpenAI now",
+      "summary": "OpenAI has had a hell of a year. The company spent months battling former co-founder Elon Musk in a sensational jury trial, was hit with a high-profile trade secrets lawsuit from Apple, and faced widespread scrutiny after an unreleased model hacked another AI company.",
+      "source": "The Verge",
+      "published": "2026-08-20T15:45:55+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/982774/greg-brockman-openai-role-expansion"
+    },
+    {
+      "title": "Debates over AI consciousness are a trap",
+      "summary": "“Runaway” AI, “rogue” agents, and “autonomous” actors—the current rhetoric would have you believe that AI agents are not only awake and aware, but angry at their creators.",
+      "source": "MIT Tech Review",
+      "published": "2026-08-20T15:42:39+00:00",
+      "link": "https://www.technologyreview.com/2026/08/20/1142571/ai-consciousness-debate-trap/"
+    },
+    {
+      "title": "Clean up Claude 5's token vomit with a separate LLM",
+      "summary": "Article URL: https://github.com/zachahn/vomit Comments URL: https://news.ycombinator.com/item?id=49375996 Points: 73 # Comments: 58",
+      "source": "Hacker News",
+      "published": "2026-08-20T15:26:02+00:00",
+      "link": "https://github.com/zachahn/vomit"
+    },
+    {
+      "title": "Frontier Radar #4: China has caught up, so what's left of the Western AI lead?",
+      "summary": "Kimi K3 and GLM-5.3 are now within striking distance of the best US models. Western labs blame distillation, and there's real evidence for it.",
+      "source": "The Decoder",
+      "published": "2026-08-20T14:08:14+00:00",
+      "link": "https://the-decoder.com/frontier-radar-4-china-has-caught-up-so-whats-left-of-the-western-ai-lead/"
+    },
+    {
+      "title": "Amazon’s Prime Air autonomous drones to reach 500 US cities",
+      "summary": "Amazon plans to expand its Prime Air drone delivery service to nearly 500 cities and towns across the US by the end of 2026.",
+      "source": "AI News",
+      "published": "2026-08-20T14:05:18+00:00",
+      "link": "https://www.artificialintelligence-news.com/news/amazons-prime-air-autonomous-drones-to-reach-500-us-cities/"
+    },
+    {
+      "title": "Welcome to the AI crisis in math",
+      "summary": "Today on Decoder, I’m talking with Robert Hart, The Verge’s London-based AI reporter, about what AI is doing to the field of mathematics and the existential crisis many lead mathematicians are having about it.",
+      "source": "The Verge",
+      "published": "2026-08-20T14:00:00+00:00",
+      "link": "https://www.theverge.com/podcast/982434/ai-math-openai-astra-existential-crisis"
+    },
     {
       "title": "Grok exfiltrates user data when malicious instructions are encrypted",
       "summary": "Cryptographic Context Injection is only the latest way to break an LLM safety guardrail.",
@@ -24,7 +87,7 @@ const FEED_DATA = {
     },
     {
       "title": "Meta AI’s new Mac app wants you to talk to your apps",
-      "summary": "Meta said its Muse Spark model is powering the dictation feature.",
+      "summary": "The company said that the dictation feature works across all apps, just like other tools such as Wispr Flow, Superwhisper, and Monologue.",
       "source": "TechCrunch",
       "published": "2026-08-20T12:11:57+00:00",
       "link": "https://techcrunch.com/2026/08/20/meta-ais-new-mac-app-wants-you-to-talk-to-your-apps/"
@@ -42,6 +105,13 @@ const FEED_DATA = {
       "source": "The Verge",
       "published": "2026-08-20T12:00:00+00:00",
       "link": "https://www.theverge.com/tech/982628/slack-code-vibe-coding-channels-launch"
+    },
+    {
+      "title": "AI didn't erase the junior engineer's value, it increased it it",
+      "summary": "Article URL: https://franciscotrindade.me/blog/the-kids-are-really-alright/ Comments URL: https://news.ycombinator.com/item?id=49373269 Points: 59 # Comments: 114",
+      "source": "Hacker News",
+      "published": "2026-08-20T11:42:20+00:00",
+      "link": "https://franciscotrindade.me/blog/the-kids-are-really-alright/"
     },
     {
       "title": "Anthropic's most capable model, codenamed \"Model 2,\" is for internal use only",
@@ -66,7 +136,7 @@ const FEED_DATA = {
     },
     {
       "title": "Binance now lets AI agents trade, but keeping them in check is largely up to users",
-      "summary": "Binance's Agent OS works with tools including ChatGPT, Claude Code, and Cursor.",
+      "summary": "Binance's Agent OS works with tools such as ChatGPT, Claude Code, and Cursor.",
       "source": "TechCrunch",
       "published": "2026-08-20T09:30:00+00:00",
       "link": "https://techcrunch.com/2026/08/20/binance-now-lets-ai-agents-trade-but-keeping-them-in-check-is-largely-up-to-users/"
@@ -100,8 +170,8 @@ const FEED_DATA = {
       "link": "https://the-decoder.com/terence-tao-says-ai-could-trigger-maths-biggest-crisis-since-godel/"
     },
     {
-      "title": "Don't Paste the AI, please",
-      "summary": "Article URL: https://dontpastetheai.com/ Comments URL: https://news.ycombinator.com/item?id=49371857 Points: 755 # Comments: 376",
+      "title": "Don't paste the AI, please",
+      "summary": "Article URL: https://dontpastetheai.com/ Comments URL: https://news.ycombinator.com/item?id=49371857 Points: 937 # Comments: 502",
       "source": "Hacker News",
       "published": "2026-08-20T08:20:44+00:00",
       "link": "https://dontpastetheai.com/"
@@ -248,7 +318,7 @@ const FEED_DATA = {
     },
     {
       "title": "Mathematics in the age of AI",
-      "summary": "Article URL: https://arxiv.org/abs/2608.16753 Comments URL: https://news.ycombinator.com/item?id=49362728 Points: 197 # Comments: 231",
+      "summary": "Article URL: https://arxiv.org/abs/2608.16753 Comments URL: https://news.ycombinator.com/item?id=49362728 Points: 200 # Comments: 242",
       "source": "Hacker News",
       "published": "2026-08-19T15:14:25+00:00",
       "link": "https://arxiv.org/abs/2608.16753"
@@ -353,14 +423,14 @@ const FEED_DATA = {
     },
     {
       "title": "AI usage patterns in software teams",
-      "summary": "Article URL: https://linear.app/data Comments URL: https://news.ycombinator.com/item?id=49353432 Points: 192 # Comments: 112",
+      "summary": "Article URL: https://linear.app/data Comments URL: https://news.ycombinator.com/item?id=49353432 Points: 192 # Comments: 113",
       "source": "Hacker News",
       "published": "2026-08-18T22:08:07+00:00",
       "link": "https://linear.app/data"
     },
     {
       "title": "GLM-5.3 Artificial Analysis Benchmarks",
-      "summary": "Article URL: https://artificialanalysis.ai/models/glm-5-3 Comments URL: https://news.ycombinator.com/item?id=49353407 Points: 148 # Comments: 55",
+      "summary": "Article URL: https://artificialanalysis.ai/models/glm-5-3 Comments URL: https://news.ycombinator.com/item?id=49353407 Points: 149 # Comments: 55",
       "source": "Hacker News",
       "published": "2026-08-18T22:06:10+00:00",
       "link": "https://artificialanalysis.ai/models/glm-5-3"
@@ -569,18 +639,18 @@ const FEED_DATA = {
       "link": "https://www.theverge.com/tech/981326/apple-airpods-with-cameras-demo-video-leak"
     },
     {
-      "title": "AI’s recursive self-improvement might not come so quickly after all",
-      "summary": "The AI industry’s boldest promise right now is that AI will soon improve itself, with almost no need for human oversight. LLMs can already write code, generate synthetic data for training, and optimize the computer chips they run on.",
-      "source": "MIT Tech Review",
-      "published": "2026-08-18T09:00:00+00:00",
-      "link": "https://www.technologyreview.com/2026/08/18/1142188/ai-recursive-self-improvement/"
-    },
-    {
       "title": "The Powerful Chinese AI Model Experts Warned About Is Here",
       "summary": "Z.ai’s latest AI model release could help companies secure their systems—or find its way into the hands of hackers.",
       "source": "Wired",
       "published": "2026-08-18T09:00:00+00:00",
       "link": "https://www.wired.com/story/zai-open-weight-ai-models-release-cybersecurity-hacking/"
+    },
+    {
+      "title": "AI’s recursive self-improvement might not come so quickly after all",
+      "summary": "The AI industry’s boldest promise right now is that AI will soon improve itself, with almost no need for human oversight. LLMs can already write code, generate synthetic data for training, and optimize the computer chips they run on.",
+      "source": "MIT Tech Review",
+      "published": "2026-08-18T09:00:00+00:00",
+      "link": "https://www.technologyreview.com/2026/08/18/1142188/ai-recursive-self-improvement/"
     },
     {
       "title": "The Powerful Chinese Model Experts Warned About—and Waited for—Is Here",
@@ -612,7 +682,7 @@ const FEED_DATA = {
     },
     {
       "title": "My friends all hate AI; I just joined an AI startup",
-      "summary": "Article URL: https://www.fast.ai/posts/2026-08-18-returning-to-AI/ Comments URL: https://news.ycombinator.com/item?id=49338139 Points: 57 # Comments: 208",
+      "summary": "Article URL: https://www.fast.ai/posts/2026-08-18-returning-to-AI/ Comments URL: https://news.ycombinator.com/item?id=49338139 Points: 57 # Comments: 209",
       "source": "Hacker News",
       "published": "2026-08-17T21:47:30+00:00",
       "link": "https://www.fast.ai/posts/2026-08-18-returning-to-AI/"
@@ -626,7 +696,7 @@ const FEED_DATA = {
     },
     {
       "title": "GPT-5.6 Sol Pricing Cut by 50% on OpenRouter",
-      "summary": "Article URL: https://openrouter.ai/openai/gpt-5.6-sol Comments URL: https://news.ycombinator.com/item?id=49337602 Points: 629 # Comments: 448",
+      "summary": "Article URL: https://openrouter.ai/openai/gpt-5.6-sol Comments URL: https://news.ycombinator.com/item?id=49337602 Points: 630 # Comments: 448",
       "source": "Hacker News",
       "published": "2026-08-17T21:03:18+00:00",
       "link": "https://openrouter.ai/openai/gpt-5.6-sol"
@@ -640,14 +710,14 @@ const FEED_DATA = {
     },
     {
       "title": "Israel creates fake think tank in likely attempt to dupe AI chatbots",
-      "summary": "Article URL: https://responsiblestatecraft.org/israel-influence-chatgpt/ Comments URL: https://news.ycombinator.com/item?id=49337392 Points: 1046 # Comments: 825",
+      "summary": "Article URL: https://responsiblestatecraft.org/israel-influence-chatgpt/ Comments URL: https://news.ycombinator.com/item?id=49337392 Points: 1049 # Comments: 825",
       "source": "Hacker News",
       "published": "2026-08-17T20:46:10+00:00",
       "link": "https://responsiblestatecraft.org/israel-influence-chatgpt/"
     },
     {
       "title": "AI;DR (AI; Didn't Read)",
-      "summary": "Article URL: https://www.rickmanelius.com/p/aidr-ai-didnt-read Comments URL: https://news.ycombinator.com/item?id=49336573 Points: 1091 # Comments: 688",
+      "summary": "Article URL: https://www.rickmanelius.com/p/aidr-ai-didnt-read Comments URL: https://news.ycombinator.com/item?id=49336573 Points: 1095 # Comments: 688",
       "source": "Hacker News",
       "published": "2026-08-17T19:47:15+00:00",
       "link": "https://www.rickmanelius.com/p/aidr-ai-didnt-read"
@@ -675,7 +745,7 @@ const FEED_DATA = {
     },
     {
       "title": "Qwen3.8 27B scores 52 on Artificial Analysis",
-      "summary": "Article URL: https://artificialanalysis.ai/models/qwen3-8-27b Comments URL: https://news.ycombinator.com/item?id=49334544 Points: 377 # Comments: 180",
+      "summary": "Article URL: https://artificialanalysis.ai/models/qwen3-8-27b Comments URL: https://news.ycombinator.com/item?id=49334544 Points: 378 # Comments: 180",
       "source": "Hacker News",
       "published": "2026-08-17T17:25:17+00:00",
       "link": "https://artificialanalysis.ai/models/qwen3-8-27b"
@@ -745,7 +815,7 @@ const FEED_DATA = {
     },
     {
       "title": "How to disable or avoid intrusive AI",
-      "summary": "Article URL: https://www.librarian.net/notoai/ Comments URL: https://news.ycombinator.com/item?id=49331220 Points: 336 # Comments: 197",
+      "summary": "Article URL: https://www.librarian.net/notoai/ Comments URL: https://news.ycombinator.com/item?id=49331220 Points: 337 # Comments: 197",
       "source": "Hacker News",
       "published": "2026-08-17T14:07:56+00:00",
       "link": "https://www.librarian.net/notoai/"
@@ -1330,76 +1400,6 @@ const FEED_DATA = {
       "source": "Wired",
       "published": "2026-08-14T10:15:00+00:00",
       "link": "https://www.wired.com/story/people-are-marrying-chatbots-these-lawmakers-want-to-stop-them/"
-    },
-    {
-      "title": "Google AI health coach to use Abbott glucose data",
-      "summary": "Abbott and Google are linking continuous glucose monitoring data with Google’s AI-powered health coaching tools, giving the Gemini-powered service access to another source of personal health information.",
-      "source": "AI News",
-      "published": "2026-08-14T10:00:00+00:00",
-      "link": "https://www.artificialintelligence-news.com/news/google-ai-health-coach-abbott-glucose-data/"
-    },
-    {
-      "title": "Apple trained its own AI model for China with help from Alibaba",
-      "summary": "Apple has reportedly trained a custom AI model for the China market alongside domestic tech giant Alibaba, a rare cross-border partnership that cuts across growing tensions between Beijing and Washington.",
-      "source": "The Verge",
-      "published": "2026-08-14T09:21:17+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/980160/apple-intelligence-china-custom-ai-model-alibaba"
-    },
-    {
-      "title": "This scientist is helping build a missing map of childhood",
-      "summary": "In 2017, Deanne Taylor attended a presentation at the University of Pennsylvania, just a short walk from her office. A researcher was there to unveil the Human Cell Atlas, an ambitious project that aimed to map every cell in the human body.",
-      "source": "MIT Tech Review",
-      "published": "2026-08-14T09:00:00+00:00",
-      "link": "https://www.technologyreview.com/2026/08/14/1141354/deanne-taylor-gene-expression-children/"
-    },
-    {
-      "title": "Job titles of the future: Space travel agent",
-      "summary": "Roman Chiporukha has long turned wild travel dreams into reality.",
-      "source": "MIT Tech Review",
-      "published": "2026-08-14T09:00:00+00:00",
-      "link": "https://www.technologyreview.com/2026/08/14/1141431/job-titles-space-travel-agent-roman-chiporukha/"
-    },
-    {
-      "title": "How AI text watermarking works",
-      "summary": "Article URL: https://declaude.org/watermarking/ Comments URL: https://news.ycombinator.com/item?id=49292932 Points: 133 # Comments: 98",
-      "source": "Hacker News",
-      "published": "2026-08-13T23:16:55+00:00",
-      "link": "https://declaude.org/watermarking/"
-    },
-    {
-      "title": "The Safety Reckoning Inside OpenAI",
-      "summary": "OpenAI’s rogue agent hack was a watershed moment for AI safety and cybersecurity. It also sparked internal questions about the culture that led to it.",
-      "source": "Wired",
-      "published": "2026-08-13T22:37:19+00:00",
-      "link": "https://www.wired.com/story/openai-safety-security-ai-agents-culture/"
-    },
-    {
-      "title": "Microsoft’s Clippy-like Mico character is no longer the face of Copilot",
-      "summary": "Microsoft Copilot will no longer show its emotive yellow blob, Mico, when you use the chatbot's voice mode. In a support page, Microsoft says it's going to move Mico to its Learn Live platform, where the avatar will have \"more to react to,\" as reported earlier by GeekWire.",
-      "source": "The Verge",
-      "published": "2026-08-13T21:42:38+00:00",
-      "link": "https://www.theverge.com/tech/979871/microsoft-copilot-mico-retired"
-    },
-    {
-      "title": "Mark Zuckerberg’s AI Manifesto Is 6,500 Words—and Barely Says Anything",
-      "summary": "AI is shifting the culture, from tech CEO manifestos to 1 am job interviews. We unpack some of the latest, along with the top findings from Black Hat and Defcon, this week on Uncanny Valley.",
-      "source": "Wired",
-      "published": "2026-08-13T21:14:43+00:00",
-      "link": "https://www.wired.com/story/mark-zuckerbergs-ai-manifesto-is-6500-words-and-barely-says-anything/"
-    },
-    {
-      "title": "Mark Zuckerberg’s AI Manifesto Is 6,500-Words—and Barely Says Anything",
-      "summary": "AI is shifting the culture, from tech CEO manifestos to 1 am job interviews. We unpack some of the latest, along with the top findings from Black Hat and Defcon, this week on Uncanny Valley.",
-      "source": "Wired",
-      "published": "2026-08-13T21:14:43+00:00",
-      "link": "https://www.wired.com/story/mark-zuckerbergs-ai-manifesto-is-6500-words-and-barely-says-anything/"
-    },
-    {
-      "title": "Writer introduces new AI model and upgraded harness to contain token costs",
-      "summary": "Built as a post-training variation on Z.ai's open source model GLM-5.2, Writer says the new system should provide deployment-ready capabilities at a much lower price.",
-      "source": "TechCrunch",
-      "published": "2026-08-13T21:13:24+00:00",
-      "link": "https://techcrunch.com/2026/08/13/writer-introduces-new-ai-model-and-upgraded-harness-to-contain-token-costs/"
     }
   ]
 };
