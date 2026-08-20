@@ -1,6 +1,62 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-08-20T05:33:08.373739+00:00",
+  "lastUpdated": "2026-08-20T09:20:42.142884+00:00",
   "items": [
+    {
+      "title": "Support networks aim to help kids through the polycrisis",
+      "summary": "Sometime in the late 2000s, Pim Sullivan-Tailyour was sitting in the back of a car, headed toward her great-grandmother’s tiny town in the south of Thailand. She watched big mountains pass by out the window.",
+      "source": "MIT Tech Review",
+      "published": "2026-08-20T09:00:00+00:00",
+      "link": "https://www.technologyreview.com/2026/08/20/1141686/support-networks-help-kids-polycrisis/"
+    },
+    {
+      "title": "Agentic AI in government just hit the hard part: deciding what a machine may decide",
+      "summary": "The United Arab Emirates (UAE) has been early in adopting artificial intelligence for 9 years.",
+      "source": "AI News",
+      "published": "2026-08-20T09:00:00+00:00",
+      "link": "https://www.artificialintelligence-news.com/news/agentic-ai-in-government-uae-classification/"
+    },
+    {
+      "title": "Terence Tao says AI could trigger math's biggest crisis since Gödel",
+      "summary": "In a new essay, Terence Tao warns that AI could push mathematics into a crisis on par with the foundational upheaval around 1900.",
+      "source": "The Decoder",
+      "published": "2026-08-20T08:49:36+00:00",
+      "link": "https://the-decoder.com/terence-tao-says-ai-could-trigger-maths-biggest-crisis-since-godel/"
+    },
+    {
+      "title": "Don't Paste the AI, please",
+      "summary": "Article URL: https://dontpastetheai.com/ Comments URL: https://news.ycombinator.com/item?id=49371857 Points: 104 # Comments: 52",
+      "source": "Hacker News",
+      "published": "2026-08-20T08:20:44+00:00",
+      "link": "https://dontpastetheai.com/"
+    },
+    {
+      "title": "A third of ChatGPT ads appear in irrelevant conversations",
+      "summary": "Advertising inside ChatGPT arrived with a promise that the assistant already knows what the user wants. So far, that hasn’t entirely been the case.",
+      "source": "AI News",
+      "published": "2026-08-20T08:07:40+00:00",
+      "link": "https://www.artificialintelligence-news.com/news/a-third-of-chatgpt-ads-appear-in-irrelevant-conversations/"
+    },
+    {
+      "title": "OpenAI builds safety system that catches misuse without storing customer data",
+      "summary": "OpenAI plans to offer its most advanced AI models to corporate customers without storing their data, while still detecting misuse. The article OpenAI builds safety system that catches misuse without storing customer data appeared first on The Decoder.",
+      "source": "The Decoder",
+      "published": "2026-08-20T08:01:18+00:00",
+      "link": "https://the-decoder.com/openai-builds-safety-system-that-catches-misuse-without-storing-customer-data/"
+    },
+    {
+      "title": "AI data centre regulation just got a template that needs no new law",
+      "summary": "AI data centre regulation in Pennsylvania now begins with a signature.",
+      "source": "AI News",
+      "published": "2026-08-20T08:00:00+00:00",
+      "link": "https://www.artificialintelligence-news.com/news/ai-data-centre-regulation-pennsylvania-template/"
+    },
+    {
+      "title": "HoneyBook bets on agentic AI to streamline small business operations with its new Claude connector",
+      "summary": "Autonomous artificial intelligence agents have already penetrated the offices of large, global enterprises.",
+      "source": "AI News",
+      "published": "2026-08-20T07:35:07+00:00",
+      "link": "https://www.artificialintelligence-news.com/news/honeybook-bets-on-agentic-ai-to-streamline-small-business-operations-with-its-new-claude-connector/"
+    },
     {
       "title": "Stripe didn’t really buy OpenRouter because of the ‘singularity’",
       "summary": "What does a payments giant want with a startup that routes prompts between different AI models? Stripe says it's because of \"the singularity\" but it's really for a far more real and powerful reason.",
@@ -115,7 +171,7 @@ const FEED_DATA = {
     },
     {
       "title": "Mathematics in the age of AI",
-      "summary": "Article URL: https://arxiv.org/abs/2608.16753 Comments URL: https://news.ycombinator.com/item?id=49362728 Points: 123 # Comments: 132",
+      "summary": "Article URL: https://arxiv.org/abs/2608.16753 Comments URL: https://news.ycombinator.com/item?id=49362728 Points: 167 # Comments: 195",
       "source": "Hacker News",
       "published": "2026-08-19T15:14:25+00:00",
       "link": "https://arxiv.org/abs/2608.16753"
@@ -220,14 +276,14 @@ const FEED_DATA = {
     },
     {
       "title": "AI usage patterns in software teams",
-      "summary": "Article URL: https://linear.app/data Comments URL: https://news.ycombinator.com/item?id=49353432 Points: 178 # Comments: 111",
+      "summary": "Article URL: https://linear.app/data Comments URL: https://news.ycombinator.com/item?id=49353432 Points: 188 # Comments: 112",
       "source": "Hacker News",
       "published": "2026-08-18T22:08:07+00:00",
       "link": "https://linear.app/data"
     },
     {
       "title": "GLM-5.3 Artificial Analysis Benchmarks",
-      "summary": "Article URL: https://artificialanalysis.ai/models/glm-5-3 Comments URL: https://news.ycombinator.com/item?id=49353407 Points: 143 # Comments: 53",
+      "summary": "Article URL: https://artificialanalysis.ai/models/glm-5-3 Comments URL: https://news.ycombinator.com/item?id=49353407 Points: 146 # Comments: 54",
       "source": "Hacker News",
       "published": "2026-08-18T22:06:10+00:00",
       "link": "https://artificialanalysis.ai/models/glm-5-3"
@@ -493,7 +549,7 @@ const FEED_DATA = {
     },
     {
       "title": "GPT-5.6 Sol Pricing Cut by 50% on OpenRouter",
-      "summary": "Article URL: https://openrouter.ai/openai/gpt-5.6-sol Comments URL: https://news.ycombinator.com/item?id=49337602 Points: 627 # Comments: 449",
+      "summary": "Article URL: https://openrouter.ai/openai/gpt-5.6-sol Comments URL: https://news.ycombinator.com/item?id=49337602 Points: 629 # Comments: 448",
       "source": "Hacker News",
       "published": "2026-08-17T21:03:18+00:00",
       "link": "https://openrouter.ai/openai/gpt-5.6-sol"
@@ -507,14 +563,14 @@ const FEED_DATA = {
     },
     {
       "title": "Israel creates fake think tank in likely attempt to dupe AI chatbots",
-      "summary": "Article URL: https://responsiblestatecraft.org/israel-influence-chatgpt/ Comments URL: https://news.ycombinator.com/item?id=49337392 Points: 1043 # Comments: 815",
+      "summary": "Article URL: https://responsiblestatecraft.org/israel-influence-chatgpt/ Comments URL: https://news.ycombinator.com/item?id=49337392 Points: 1045 # Comments: 822",
       "source": "Hacker News",
       "published": "2026-08-17T20:46:10+00:00",
       "link": "https://responsiblestatecraft.org/israel-influence-chatgpt/"
     },
     {
       "title": "AI;DR (AI; Didn't Read)",
-      "summary": "Article URL: https://www.rickmanelius.com/p/aidr-ai-didnt-read Comments URL: https://news.ycombinator.com/item?id=49336573 Points: 1086 # Comments: 686",
+      "summary": "Article URL: https://www.rickmanelius.com/p/aidr-ai-didnt-read Comments URL: https://news.ycombinator.com/item?id=49336573 Points: 1089 # Comments: 686",
       "source": "Hacker News",
       "published": "2026-08-17T19:47:15+00:00",
       "link": "https://www.rickmanelius.com/p/aidr-ai-didnt-read"
@@ -542,7 +598,7 @@ const FEED_DATA = {
     },
     {
       "title": "Qwen3.8 27B scores 52 on Artificial Analysis",
-      "summary": "Article URL: https://artificialanalysis.ai/models/qwen3-8-27b Comments URL: https://news.ycombinator.com/item?id=49334544 Points: 375 # Comments: 178",
+      "summary": "Article URL: https://artificialanalysis.ai/models/qwen3-8-27b Comments URL: https://news.ycombinator.com/item?id=49334544 Points: 376 # Comments: 178",
       "source": "Hacker News",
       "published": "2026-08-17T17:25:17+00:00",
       "link": "https://artificialanalysis.ai/models/qwen3-8-27b"
@@ -640,7 +696,7 @@ const FEED_DATA = {
     },
     {
       "title": "Show HN: Sokoban AI Solver",
-      "summary": "Article URL: https://mkornreich.me/projects/sokoban/ Comments URL: https://news.ycombinator.com/item?id=49330215 Points: 71 # Comments: 42",
+      "summary": "Article URL: https://mkornreich.me/projects/sokoban/ Comments URL: https://news.ycombinator.com/item?id=49330215 Points: 72 # Comments: 42",
       "source": "Hacker News",
       "published": "2026-08-17T13:07:00+00:00",
       "link": "https://mkornreich.me/projects/sokoban/"
@@ -696,7 +752,7 @@ const FEED_DATA = {
     },
     {
       "title": "HackEurope 2026: A short rant on AI and hackathons",
-      "summary": "Article URL: https://duti.dev/blog/2026/spr/ Comments URL: https://news.ycombinator.com/item?id=49327490 Points: 57 # Comments: 61",
+      "summary": "Article URL: https://duti.dev/blog/2026/spr/ Comments URL: https://news.ycombinator.com/item?id=49327490 Points: 57 # Comments: 62",
       "source": "Hacker News",
       "published": "2026-08-17T07:28:43+00:00",
       "link": "https://duti.dev/blog/2026/spr/"
@@ -1344,62 +1400,6 @@ const FEED_DATA = {
       "source": "Hacker News",
       "published": "2026-08-13T18:10:02+00:00",
       "link": "https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai"
-    },
-    {
-      "title": "OpenAI hires new CRO as executive shake-up continues",
-      "summary": "OpenAI has replaced chief revenue officer Denise Dresser after just nine months on the job, tapping Wiz president and chief operating officer Dali Rajic to take on frontier lab's top sales job.",
-      "source": "TechCrunch",
-      "published": "2026-08-13T17:07:13+00:00",
-      "link": "https://techcrunch.com/2026/08/13/openai-hires-new-cro-as-executive-shake-up-continues/"
-    },
-    {
-      "title": "Deepseek ships improved V4 Pro, open-sources its agent software, and raises API prices",
-      "summary": "Deepseek has moved its flagship V4-Pro out of the testing phase and released its agent software, Harness v0.1, under the MIT license. API prices are going up at the same time, with cache hits jumping to six times their current cost.",
-      "source": "The Decoder",
-      "published": "2026-08-13T16:27:32+00:00",
-      "link": "https://the-decoder.com/deepseek-launches-an-improved-v4-pro-model-raises-api-prices-and-makes-its-agent-software-open-source/"
-    },
-    {
-      "title": "AI At Home Part 1: A Box Of Scraps",
-      "summary": "Article URL: https://jdagostino.github.io/ai-pt1-box-o-scraps/index.html Comments URL: https://news.ycombinator.com/item?id=49288293 Points: 126 # Comments: 62",
-      "source": "Hacker News",
-      "published": "2026-08-13T16:22:05+00:00",
-      "link": "https://jdagostino.github.io/ai-pt1-box-o-scraps/index.html"
-    },
-    {
-      "title": "Suno is trying to look more like a real music production tool",
-      "summary": "Suno is releasing Studio 2.0 with significant upgrades that push it closer to an actual digital audio workstation (DAW), rather than a bare-bones audio editor with generative AI features. The biggest addition is undoubtedly MIDI support.",
-      "source": "The Verge",
-      "published": "2026-08-13T16:00:00+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/979345/suno-studio-2-0-midi-chatbot-custom-effects"
-    },
-    {
-      "title": "Microsoft kills off unsuccessful AI features while merging its separate Copilot apps",
-      "summary": "Microsoft is simplifying Copilot by combining its consumer and business apps, and dropping AI-generated podcasts, Group Chats, Deep Research, and its Mico character.",
-      "source": "TechCrunch",
-      "published": "2026-08-13T15:30:52+00:00",
-      "link": "https://techcrunch.com/2026/08/13/microsoft-kills-off-unsuccessful-ai-features-while-merging-its-separate-copilot-apps/"
-    },
-    {
-      "title": "I looked inside an AI generated movie, and the best parts were all human",
-      "summary": "Imagine a trio of bumbling, English lads who fantasize about becoming megastars while knocking back a few pints in a grimy pub somewhere in London.",
-      "source": "The Verge",
-      "published": "2026-08-13T15:30:00+00:00",
-      "link": "https://www.theverge.com/entertainment/977994/higgsfield-ai-cully-hill-boys-black-list"
-    },
-    {
-      "title": "Nvidia’s new $500B plan is risky but brilliant, especially for aging GPUs",
-      "summary": "Nvidia has a plan to make sure its GPUs won't lose value. It wants to convince a new crop of financiers to keep lending for AI buildouts.",
-      "source": "TechCrunch",
-      "published": "2026-08-13T15:08:00+00:00",
-      "link": "https://techcrunch.com/2026/08/13/nvidias-new-500b-plan-is-risky-but-brilliant-especially-for-aging-gpus/"
-    },
-    {
-      "title": "Text AI watermarks will always be trivial to remove",
-      "summary": "Article URL: https://www.seangoedecke.com/text-ai-watermarks/ Comments URL: https://news.ycombinator.com/item?id=49287153 Points: 144 # Comments: 188",
-      "source": "Hacker News",
-      "published": "2026-08-13T15:07:10+00:00",
-      "link": "https://www.seangoedecke.com/text-ai-watermarks/"
     }
   ]
 };
