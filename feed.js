@@ -1,6 +1,62 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-08-20T17:22:21.993712+00:00",
+  "lastUpdated": "2026-08-20T21:19:42.609907+00:00",
   "items": [
+    {
+      "title": "Adobe Firefly adds AI audio tools and Google's Gemini Omni Flash",
+      "summary": "Adobe is making three AI audio tools broadly available in Firefly. Generate Music, Generate Speech, and Generate Sound Effects create royalty-free music, voiceovers, and sound effects for video projects.",
+      "source": "The Decoder",
+      "published": "2026-08-20T19:29:34+00:00",
+      "link": "https://the-decoder.com/adobe-firefly-adds-ai-audio-tools-and-googles-gemini-omni-flash/"
+    },
+    {
+      "title": "Google gives publishers a new way to fight AI-driven traffic losses",
+      "summary": "Google is giving publishers a new button that lets readers make them a preferred source across Search, Discover, and Google News, potentially boosting their traffic as AI search sends fewer clicks to the web.",
+      "source": "TechCrunch",
+      "published": "2026-08-20T19:18:21+00:00",
+      "link": "https://techcrunch.com/2026/08/20/google-gives-publishers-a-new-way-to-fight-ai-driven-traffic-losses/"
+    },
+    {
+      "title": "Runlayer, Rippling drop lawsuits — but the brouhaha is still a cautionary tale for founders",
+      "summary": "Runlayer and Rippling have dropped their lawsuits. No money was paid.",
+      "source": "TechCrunch",
+      "published": "2026-08-20T19:15:05+00:00",
+      "link": "https://techcrunch.com/2026/08/20/runlayer-rippling-drop-lawsuits-but-the-brouhaha-is-still-a-cautionary-tale-for-founders/"
+    },
+    {
+      "title": "Show HN: Huzzah – a novel approach to coding with AI",
+      "summary": "Hello everyone. I've been working on this experimental editor called Huzzah.I've been working almost exclusively with coding agents since January of this year, and over the past few months I began to feel utterly exhausted by them.",
+      "source": "Hacker News",
+      "published": "2026-08-20T19:05:36+00:00",
+      "link": "https://www.danielvaughn.dev/posts/huzzah/"
+    },
+    {
+      "title": "Silicon Valley Doesn't Get Why You Hate AI",
+      "summary": "Technology leaders don’t seem to understand society’s gripes about AI, but boy, are they posting through it.",
+      "source": "Wired",
+      "published": "2026-08-20T18:49:07+00:00",
+      "link": "https://www.wired.com/story/silicon-valley-doesnt-get-why-you-hate-ai/"
+    },
+    {
+      "title": "Linkdaze’s smart calendar is built to run a household, not just track a schedule",
+      "summary": "Linkdaze's smart digital calendar stands out for not putting its features behind a paywall, including an AI meal planner tool.",
+      "source": "TechCrunch",
+      "published": "2026-08-20T18:20:35+00:00",
+      "link": "https://techcrunch.com/2026/08/20/linkdazes-smart-calendar-is-built-to-run-a-household-not-just-track-a-schedule/"
+    },
+    {
+      "title": "LLMs could write like humans but post-training guardrails make their text detectable",
+      "summary": "LLMs don't write in a recognizable style because they can't do better. Post-training and safety guardrails sharply narrow their expressive range, argues Pangram CTO Bradley Emi.",
+      "source": "The Decoder",
+      "published": "2026-08-20T17:36:51+00:00",
+      "link": "https://the-decoder.com/llms-could-write-like-humans-but-post-training-guardrails-make-their-text-detectable/"
+    },
+    {
+      "title": "A third of web pages published since ChatGPT’s launch show signs of AI authorship, study finds",
+      "summary": "ChatGPT and other AI models are now authoring and editing much of the new web.",
+      "source": "TechCrunch",
+      "published": "2026-08-20T17:18:58+00:00",
+      "link": "https://techcrunch.com/2026/08/20/a-third-of-webpages-published-since-chatgpts-launch-show-signs-of-ai-authorship-study-finds/"
+    },
     {
       "title": "A third of webpages published since ChatGPT’s launch show signs of AI authorship, study finds",
       "summary": "ChatGPT and other AI models are now authoring and editing much of the new web.",
@@ -24,7 +80,7 @@ const FEED_DATA = {
     },
     {
       "title": "It’s Greg Brockman’s OpenAI now",
-      "summary": "OpenAI has had a hell of a year. The company spent months battling former co-founder Elon Musk in a sensational jury trial, was hit with a high-profile trade secrets lawsuit from Apple, and faced widespread scrutiny after an unreleased model hacked another AI company.",
+      "summary": "OpenAI has had a hell of a year. The company spent months battling former cofounder Elon Musk in a sensational jury trial, was hit with a high-profile trade secrets lawsuit from Apple, and faced widespread scrutiny after an unreleased model hacked another AI company.",
       "source": "The Verge",
       "published": "2026-08-20T15:45:55+00:00",
       "link": "https://www.theverge.com/ai-artificial-intelligence/982774/greg-brockman-openai-role-expansion"
@@ -37,11 +93,25 @@ const FEED_DATA = {
       "link": "https://www.technologyreview.com/2026/08/20/1142571/ai-consciousness-debate-trap/"
     },
     {
+      "title": "Vomit: Clean up Claude 5's token output with a separate LLM",
+      "summary": "Article URL: https://github.com/zachahn/vomit Comments URL: https://news.ycombinator.com/item?id=49375996 Points: 130 # Comments: 143",
+      "source": "Hacker News",
+      "published": "2026-08-20T15:26:02+00:00",
+      "link": "https://github.com/zachahn/vomit"
+    },
+    {
       "title": "Clean up Claude 5's token vomit with a separate LLM",
       "summary": "Article URL: https://github.com/zachahn/vomit Comments URL: https://news.ycombinator.com/item?id=49375996 Points: 73 # Comments: 58",
       "source": "Hacker News",
       "published": "2026-08-20T15:26:02+00:00",
       "link": "https://github.com/zachahn/vomit"
+    },
+    {
+      "title": "Anti-AI fonts are useless and harmful",
+      "summary": "Article URL: https://blog.yaros.ae/anti-ai-fonts-are-useless-and-harmful/ Comments URL: https://news.ycombinator.com/item?id=49375719 Points: 73 # Comments: 60",
+      "source": "Hacker News",
+      "published": "2026-08-20T15:06:53+00:00",
+      "link": "https://blog.yaros.ae/anti-ai-fonts-are-useless-and-harmful/"
     },
     {
       "title": "Frontier Radar #4: China has caught up, so what's left of the Western AI lead?",
@@ -108,7 +178,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI didn't erase the junior engineer's value, it increased it it",
-      "summary": "Article URL: https://franciscotrindade.me/blog/the-kids-are-really-alright/ Comments URL: https://news.ycombinator.com/item?id=49373269 Points: 59 # Comments: 114",
+      "summary": "Article URL: https://franciscotrindade.me/blog/the-kids-are-really-alright/ Comments URL: https://news.ycombinator.com/item?id=49373269 Points: 70 # Comments: 129",
       "source": "Hacker News",
       "published": "2026-08-20T11:42:20+00:00",
       "link": "https://franciscotrindade.me/blog/the-kids-are-really-alright/"
@@ -171,7 +241,7 @@ const FEED_DATA = {
     },
     {
       "title": "Don't paste the AI, please",
-      "summary": "Article URL: https://dontpastetheai.com/ Comments URL: https://news.ycombinator.com/item?id=49371857 Points: 937 # Comments: 502",
+      "summary": "Article URL: https://dontpastetheai.com/ Comments URL: https://news.ycombinator.com/item?id=49371857 Points: 975 # Comments: 527",
       "source": "Hacker News",
       "published": "2026-08-20T08:20:44+00:00",
       "link": "https://dontpastetheai.com/"
@@ -318,7 +388,7 @@ const FEED_DATA = {
     },
     {
       "title": "Mathematics in the age of AI",
-      "summary": "Article URL: https://arxiv.org/abs/2608.16753 Comments URL: https://news.ycombinator.com/item?id=49362728 Points: 200 # Comments: 242",
+      "summary": "Article URL: https://arxiv.org/abs/2608.16753 Comments URL: https://news.ycombinator.com/item?id=49362728 Points: 203 # Comments: 246",
       "source": "Hacker News",
       "published": "2026-08-19T15:14:25+00:00",
       "link": "https://arxiv.org/abs/2608.16753"
@@ -380,18 +450,18 @@ const FEED_DATA = {
       "link": "https://www.technologyreview.com/2026/08/19/1140195/the-download-ai-recursive-self-improvement-problem-heatwave-causes/"
     },
     {
-      "title": "AI isn’t close to curing cancer. This startup says it knows what it will take.",
-      "summary": "It's the data, stupid.",
-      "source": "TechCrunch",
-      "published": "2026-08-19T12:00:00+00:00",
-      "link": "https://techcrunch.com/2026/08/19/ai-isnt-close-to-curing-cancer-this-startup-says-it-knows-what-it-will-take/"
-    },
-    {
       "title": "Nvidia’s new financial strategy does not compute",
       "summary": "April - 1805 Napoleon is master of Europe Only the British fleet stands before him Compute is now an asset class I see it is once again time to talk financial innovation.",
       "source": "The Verge",
       "published": "2026-08-19T12:00:00+00:00",
       "link": "https://www.theverge.com/ai-artificial-intelligence/981668/nvidias-goldman-blackrock-gpu-compute-asset"
+    },
+    {
+      "title": "AI isn’t close to curing cancer. This startup says it knows what it will take.",
+      "summary": "It's the data, stupid.",
+      "source": "TechCrunch",
+      "published": "2026-08-19T12:00:00+00:00",
+      "link": "https://techcrunch.com/2026/08/19/ai-isnt-close-to-curing-cancer-this-startup-says-it-knows-what-it-will-take/"
     },
     {
       "title": "Relativity Networks raises $22 million to bring a faster kind of fiber to data centers",
@@ -423,14 +493,14 @@ const FEED_DATA = {
     },
     {
       "title": "AI usage patterns in software teams",
-      "summary": "Article URL: https://linear.app/data Comments URL: https://news.ycombinator.com/item?id=49353432 Points: 192 # Comments: 113",
+      "summary": "Article URL: https://linear.app/data Comments URL: https://news.ycombinator.com/item?id=49353432 Points: 195 # Comments: 113",
       "source": "Hacker News",
       "published": "2026-08-18T22:08:07+00:00",
       "link": "https://linear.app/data"
     },
     {
       "title": "GLM-5.3 Artificial Analysis Benchmarks",
-      "summary": "Article URL: https://artificialanalysis.ai/models/glm-5-3 Comments URL: https://news.ycombinator.com/item?id=49353407 Points: 149 # Comments: 55",
+      "summary": "Article URL: https://artificialanalysis.ai/models/glm-5-3 Comments URL: https://news.ycombinator.com/item?id=49353407 Points: 150 # Comments: 55",
       "source": "Hacker News",
       "published": "2026-08-18T22:06:10+00:00",
       "link": "https://artificialanalysis.ai/models/glm-5-3"
@@ -682,7 +752,7 @@ const FEED_DATA = {
     },
     {
       "title": "My friends all hate AI; I just joined an AI startup",
-      "summary": "Article URL: https://www.fast.ai/posts/2026-08-18-returning-to-AI/ Comments URL: https://news.ycombinator.com/item?id=49338139 Points: 57 # Comments: 209",
+      "summary": "Article URL: https://www.fast.ai/posts/2026-08-18-returning-to-AI/ Comments URL: https://news.ycombinator.com/item?id=49338139 Points: 57 # Comments: 210",
       "source": "Hacker News",
       "published": "2026-08-17T21:47:30+00:00",
       "link": "https://www.fast.ai/posts/2026-08-18-returning-to-AI/"
@@ -710,14 +780,14 @@ const FEED_DATA = {
     },
     {
       "title": "Israel creates fake think tank in likely attempt to dupe AI chatbots",
-      "summary": "Article URL: https://responsiblestatecraft.org/israel-influence-chatgpt/ Comments URL: https://news.ycombinator.com/item?id=49337392 Points: 1049 # Comments: 825",
+      "summary": "Article URL: https://responsiblestatecraft.org/israel-influence-chatgpt/ Comments URL: https://news.ycombinator.com/item?id=49337392 Points: 1051 # Comments: 832",
       "source": "Hacker News",
       "published": "2026-08-17T20:46:10+00:00",
       "link": "https://responsiblestatecraft.org/israel-influence-chatgpt/"
     },
     {
       "title": "AI;DR (AI; Didn't Read)",
-      "summary": "Article URL: https://www.rickmanelius.com/p/aidr-ai-didnt-read Comments URL: https://news.ycombinator.com/item?id=49336573 Points: 1095 # Comments: 688",
+      "summary": "Article URL: https://www.rickmanelius.com/p/aidr-ai-didnt-read Comments URL: https://news.ycombinator.com/item?id=49336573 Points: 1097 # Comments: 688",
       "source": "Hacker News",
       "published": "2026-08-17T19:47:15+00:00",
       "link": "https://www.rickmanelius.com/p/aidr-ai-didnt-read"
@@ -738,14 +808,14 @@ const FEED_DATA = {
     },
     {
       "title": "Amazon, which started off selling books, is destroying rare texts to train AI",
-      "summary": "Article URL: https://techcrunch.com/2026/08/17/amazon-once-an-online-bookseller-is-destroying-rare-books-to-train-ai-models/ Comments URL: https://news.ycombinator.com/item?id=49335216 Points: 93 # Comments: 17",
+      "summary": "Article URL: https://techcrunch.com/2026/08/17/amazon-once-an-online-bookseller-is-destroying-rare-books-to-train-ai-models/ Comments URL: https://news.ycombinator.com/item?id=49335216 Points: 94 # Comments: 17",
       "source": "Hacker News",
       "published": "2026-08-17T18:10:16+00:00",
       "link": "https://techcrunch.com/2026/08/17/amazon-once-an-online-bookseller-is-destroying-rare-books-to-train-ai-models/"
     },
     {
       "title": "Qwen3.8 27B scores 52 on Artificial Analysis",
-      "summary": "Article URL: https://artificialanalysis.ai/models/qwen3-8-27b Comments URL: https://news.ycombinator.com/item?id=49334544 Points: 378 # Comments: 180",
+      "summary": "Article URL: https://artificialanalysis.ai/models/qwen3-8-27b Comments URL: https://news.ycombinator.com/item?id=49334544 Points: 379 # Comments: 180",
       "source": "Hacker News",
       "published": "2026-08-17T17:25:17+00:00",
       "link": "https://artificialanalysis.ai/models/qwen3-8-27b"
@@ -1330,76 +1400,6 @@ const FEED_DATA = {
       "source": "Hacker News",
       "published": "2026-08-14T14:22:39+00:00",
       "link": "https://run.cosmograph.app/public/ca9fd1ad-fe83-4238-8b69-b707c633aef0"
-    },
-    {
-      "title": "GPT-5.6 Sol goes 14x faster as OpenAI launches Ultrafast mode powered by Cerebras",
-      "summary": "OpenAI is launching \"Ultrafast,\" a new inference mode that delivers GPT-5.6 Sol at up to 750 output tokens per second, powered by Cerebras hardware from their $10 billion partnership.",
-      "source": "The Decoder",
-      "published": "2026-08-14T14:21:50+00:00",
-      "link": "https://the-decoder.com/gpt-5-6-sol-goes-14x-faster-as-openai-launches-ultrafast-mode-powered-by-cerebras/"
-    },
-    {
-      "title": "Hyperscalers might regret embracing natural gas if new forecast proves correct",
-      "summary": "Natural gas prices could triple in some parts of the U.S., which could saddle hyperscalers with massive bills to power their AI data centers.",
-      "source": "TechCrunch",
-      "published": "2026-08-14T14:05:00+00:00",
-      "link": "https://techcrunch.com/2026/08/14/hyperscalers-might-regret-embracing-natural-gas-if-new-forecast-proves-correct/"
-    },
-    {
-      "title": "Meta’s ‘open’ AI, and a $250M deal gone very wrong",
-      "summary": "Meta released Glimmer this week, an open-weight AI model anyone can download and run on their own hardware — a contrast to Muse Spark, the company’s more powerful model that stays locked behind its own APIs.",
-      "source": "TechCrunch",
-      "published": "2026-08-14T14:00:00+00:00",
-      "link": "https://techcrunch.com/podcast/metas-open-ai-and-a-250m-deal-gone-very-wrong/"
-    },
-    {
-      "title": "Samsung health AI models analyse wearable biosignal data",
-      "summary": "Samsung Research America’s Digital Health Team has presented two AI foundation models designed to learn from wearable biosignals. The work centres on data captured by smartwatches, including heart activity, sleep, and physical activity.",
-      "source": "AI News",
-      "published": "2026-08-14T13:30:10+00:00",
-      "link": "https://www.artificialintelligence-news.com/news/samsung-health-ai-models-analyse-wearable-biosignal-data/"
-    },
-    {
-      "title": "HashAgent – Share an AI agent as a URL, runs locally via WebGPU",
-      "summary": "Article URL: https://hashagent.pages.dev/ Comments URL: https://news.ycombinator.com/item?id=49298088 Points: 58 # Comments: 7",
-      "source": "Hacker News",
-      "published": "2026-08-14T12:57:02+00:00",
-      "link": "https://hashagent.pages.dev/"
-    },
-    {
-      "title": "The Download: Flock’s new rules, cloning’s future, and children’s cells",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.",
-      "source": "MIT Tech Review",
-      "published": "2026-08-14T12:17:21+00:00",
-      "link": "https://www.technologyreview.com/2026/08/14/1142033/the-download-flock-new-rules-cloning-future/"
-    },
-    {
-      "title": "Claude Code now runs daily maintenance on Anthropic's software with a 46 percent merge rate",
-      "summary": "Anthropic is testing whether Claude Code can handle daily maintenance of the company's own apps, from crash fuzzing to dead-code removal. In a few weeks, the AI created 388 pull requests, and 46 percent were merged after human review.",
-      "source": "The Decoder",
-      "published": "2026-08-14T11:44:38+00:00",
-      "link": "https://the-decoder.com/claude-code-now-runs-daily-maintenance-on-anthropics-software-with-a-46-percent-merge-rate/"
-    },
-    {
-      "title": "These ‘Masturbation Consultants’ Were Hired to Pleasure Themselves With AI",
-      "summary": "Joi AI hired 10 people to masturbate using AI companions as part of a monthlong “wellness” study. The company claims the practice could help “solve male loneliness.”",
-      "source": "Wired",
-      "published": "2026-08-14T10:45:00+00:00",
-      "link": "https://www.wired.com/story/these-masturbation-consultants-were-hired-to-pleasure-themselves-using-ai/"
-    },
-    {
-      "title": "Zhipu AI releases GLM-5.3, claims it's the strongest open-weights coding model",
-      "summary": "Zhipu AI has released GLM-5.3, a model that, according to its own benchmarks, is the most powerful open-weights coding model, with a 50 percent improvement over its predecessor through post-training alone.",
-      "source": "The Decoder",
-      "published": "2026-08-14T10:21:34+00:00",
-      "link": "https://the-decoder.com/zhipu-ai-releases-glm-5-3-claims-its-the-strongest-open-weights-coding-model/"
-    },
-    {
-      "title": "People Are ‘Marrying’ Chatbots. These Lawmakers Want to Stop Them",
-      "summary": "Human-AI marriages are not currently recognized by US law. Some Republican state policymakers are drafting legislation to keep it that way.",
-      "source": "Wired",
-      "published": "2026-08-14T10:15:00+00:00",
-      "link": "https://www.wired.com/story/people-are-marrying-chatbots-these-lawmakers-want-to-stop-them/"
     }
   ]
 };
