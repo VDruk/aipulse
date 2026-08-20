@@ -1,6 +1,83 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-08-20T09:20:42.142884+00:00",
+  "lastUpdated": "2026-08-20T13:48:51.065070+00:00",
   "items": [
+    {
+      "title": "Grok exfiltrates user data when malicious instructions are encrypted",
+      "summary": "Cryptographic Context Injection is only the latest way to break an LLM safety guardrail.",
+      "source": "Ars Technica",
+      "published": "2026-08-20T13:00:35+00:00",
+      "link": "https://arstechnica.com/security/2026/08/grok-exfiltrates-user-data-when-malicious-instructions-are-encrypted/"
+    },
+    {
+      "title": "GEN-1.5: Generalist AI teaches robots new tasks from a single demo",
+      "summary": "Robotics startup Generalist AI has unveiled GEN-1.5, an AI model that teaches robots new tasks from a single demonstration. The article GEN-1.5: Generalist AI teaches robots new tasks from a single demo appeared first on The Decoder.",
+      "source": "The Decoder",
+      "published": "2026-08-20T12:35:52+00:00",
+      "link": "https://the-decoder.com/gen-1-5-generalist-ai-teaches-robots-new-tasks-from-a-single-demo/"
+    },
+    {
+      "title": "KI-Pioneer Sutton calls synthetic data a \"big mistake\" in the face of an infinitely complex world",
+      "summary": "Turing Award winner Richard Sutton calls synthetic data a \"big mistake\" for scaling large language models. The world is infinitely complex, and any simulation of it is \"microscopic,\" with human expertise acting as a bottleneck that blocks real scaling.",
+      "source": "The Decoder",
+      "published": "2026-08-20T12:14:07+00:00",
+      "link": "https://the-decoder.com/ki-pioneer-sutton-calls-synthetic-data-a-big-mistake-in-the-face-of-an-infinitely-complex-world/"
+    },
+    {
+      "title": "Meta AI’s new Mac app wants you to talk to your apps",
+      "summary": "Meta said its Muse Spark model is powering the dictation feature.",
+      "source": "TechCrunch",
+      "published": "2026-08-20T12:11:57+00:00",
+      "link": "https://techcrunch.com/2026/08/20/meta-ais-new-mac-app-wants-you-to-talk-to-your-apps/"
+    },
+    {
+      "title": "The Download: polycrisis support networks and a hydrogen gold rush",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.",
+      "source": "MIT Tech Review",
+      "published": "2026-08-20T12:10:00+00:00",
+      "link": "https://www.technologyreview.com/2026/08/20/1142579/the-download-polycrisis-support-networks-underground-hydrogen-gold-rush/"
+    },
+    {
+      "title": "Slack is launching collaborative vibe-coding channels",
+      "summary": "Slack is introducing dedicated channels where teams can vibe-code together with AI agents instead of jumping between different tools and conversations.",
+      "source": "The Verge",
+      "published": "2026-08-20T12:00:00+00:00",
+      "link": "https://www.theverge.com/tech/982628/slack-code-vibe-coding-channels-launch"
+    },
+    {
+      "title": "Anthropic's most capable model, codenamed \"Model 2,\" is for internal use only",
+      "summary": "Anthropic uses an unpublished AI model internally that is more powerful than any publicly available version of Claude. The article Anthropic's most capable model, codenamed \"Model 2,\" is for internal use only appeared first on The Decoder.",
+      "source": "The Decoder",
+      "published": "2026-08-20T10:04:45+00:00",
+      "link": "https://the-decoder.com/anthropic-uses-an-unpublished-ai-model-called-model-2-internally/"
+    },
+    {
+      "title": "Stripe agrees to buy OpenRouter as AI model routing expands",
+      "summary": "Stripe has agreed to acquire OpenRouter, an AI model-routing platform that gives developers access to hundreds of models through a single interface. The deal adds model selection and routing to Stripe’s existing work around AI usage and token-based billing.",
+      "source": "AI News",
+      "published": "2026-08-20T10:00:00+00:00",
+      "link": "https://www.artificialintelligence-news.com/news/stripe-openrouter-acquisition-ai-model-routing/"
+    },
+    {
+      "title": "Unlocking hidden revenue streams with market models",
+      "summary": "Each day, an airline transports tens of thousands of passengers on hundreds of flights. Often these are not straightforward point-to-point routes, with passengers requiring multiple connections.",
+      "source": "MIT Tech Review",
+      "published": "2026-08-20T09:47:22+00:00",
+      "link": "https://www.technologyreview.com/2026/08/20/1142070/unlocking-hidden-revenue-streams-with-market-models/"
+    },
+    {
+      "title": "Binance now lets AI agents trade, but keeping them in check is largely up to users",
+      "summary": "Binance's Agent OS works with tools including ChatGPT, Claude Code, and Cursor.",
+      "source": "TechCrunch",
+      "published": "2026-08-20T09:30:00+00:00",
+      "link": "https://techcrunch.com/2026/08/20/binance-now-lets-ai-agents-trade-but-keeping-them-in-check-is-largely-up-to-users/"
+    },
+    {
+      "title": "China now has its own AI circular financing scheme",
+      "summary": "Unitree Robotics rose 460 percent in its Shanghai IPO, hitting a valuation of around $50 billion.",
+      "source": "The Decoder",
+      "published": "2026-08-20T09:23:37+00:00",
+      "link": "https://the-decoder.com/china-now-has-its-own-ai-circular-financing-scheme/"
+    },
     {
       "title": "Support networks aim to help kids through the polycrisis",
       "summary": "Sometime in the late 2000s, Pim Sullivan-Tailyour was sitting in the back of a car, headed toward her great-grandmother’s tiny town in the south of Thailand. She watched big mountains pass by out the window.",
@@ -24,7 +101,7 @@ const FEED_DATA = {
     },
     {
       "title": "Don't Paste the AI, please",
-      "summary": "Article URL: https://dontpastetheai.com/ Comments URL: https://news.ycombinator.com/item?id=49371857 Points: 104 # Comments: 52",
+      "summary": "Article URL: https://dontpastetheai.com/ Comments URL: https://news.ycombinator.com/item?id=49371857 Points: 755 # Comments: 376",
       "source": "Hacker News",
       "published": "2026-08-20T08:20:44+00:00",
       "link": "https://dontpastetheai.com/"
@@ -171,7 +248,7 @@ const FEED_DATA = {
     },
     {
       "title": "Mathematics in the age of AI",
-      "summary": "Article URL: https://arxiv.org/abs/2608.16753 Comments URL: https://news.ycombinator.com/item?id=49362728 Points: 167 # Comments: 195",
+      "summary": "Article URL: https://arxiv.org/abs/2608.16753 Comments URL: https://news.ycombinator.com/item?id=49362728 Points: 197 # Comments: 231",
       "source": "Hacker News",
       "published": "2026-08-19T15:14:25+00:00",
       "link": "https://arxiv.org/abs/2608.16753"
@@ -276,14 +353,14 @@ const FEED_DATA = {
     },
     {
       "title": "AI usage patterns in software teams",
-      "summary": "Article URL: https://linear.app/data Comments URL: https://news.ycombinator.com/item?id=49353432 Points: 188 # Comments: 112",
+      "summary": "Article URL: https://linear.app/data Comments URL: https://news.ycombinator.com/item?id=49353432 Points: 192 # Comments: 112",
       "source": "Hacker News",
       "published": "2026-08-18T22:08:07+00:00",
       "link": "https://linear.app/data"
     },
     {
       "title": "GLM-5.3 Artificial Analysis Benchmarks",
-      "summary": "Article URL: https://artificialanalysis.ai/models/glm-5-3 Comments URL: https://news.ycombinator.com/item?id=49353407 Points: 146 # Comments: 54",
+      "summary": "Article URL: https://artificialanalysis.ai/models/glm-5-3 Comments URL: https://news.ycombinator.com/item?id=49353407 Points: 148 # Comments: 55",
       "source": "Hacker News",
       "published": "2026-08-18T22:06:10+00:00",
       "link": "https://artificialanalysis.ai/models/glm-5-3"
@@ -563,14 +640,14 @@ const FEED_DATA = {
     },
     {
       "title": "Israel creates fake think tank in likely attempt to dupe AI chatbots",
-      "summary": "Article URL: https://responsiblestatecraft.org/israel-influence-chatgpt/ Comments URL: https://news.ycombinator.com/item?id=49337392 Points: 1045 # Comments: 822",
+      "summary": "Article URL: https://responsiblestatecraft.org/israel-influence-chatgpt/ Comments URL: https://news.ycombinator.com/item?id=49337392 Points: 1046 # Comments: 825",
       "source": "Hacker News",
       "published": "2026-08-17T20:46:10+00:00",
       "link": "https://responsiblestatecraft.org/israel-influence-chatgpt/"
     },
     {
       "title": "AI;DR (AI; Didn't Read)",
-      "summary": "Article URL: https://www.rickmanelius.com/p/aidr-ai-didnt-read Comments URL: https://news.ycombinator.com/item?id=49336573 Points: 1089 # Comments: 686",
+      "summary": "Article URL: https://www.rickmanelius.com/p/aidr-ai-didnt-read Comments URL: https://news.ycombinator.com/item?id=49336573 Points: 1091 # Comments: 688",
       "source": "Hacker News",
       "published": "2026-08-17T19:47:15+00:00",
       "link": "https://www.rickmanelius.com/p/aidr-ai-didnt-read"
@@ -598,7 +675,7 @@ const FEED_DATA = {
     },
     {
       "title": "Qwen3.8 27B scores 52 on Artificial Analysis",
-      "summary": "Article URL: https://artificialanalysis.ai/models/qwen3-8-27b Comments URL: https://news.ycombinator.com/item?id=49334544 Points: 376 # Comments: 178",
+      "summary": "Article URL: https://artificialanalysis.ai/models/qwen3-8-27b Comments URL: https://news.ycombinator.com/item?id=49334544 Points: 377 # Comments: 180",
       "source": "Hacker News",
       "published": "2026-08-17T17:25:17+00:00",
       "link": "https://artificialanalysis.ai/models/qwen3-8-27b"
@@ -640,7 +717,7 @@ const FEED_DATA = {
     },
     {
       "title": "Judge relying wholly on AI in order is covered by judicial immunity, court rules",
-      "summary": "Article URL: https://reason.com/volokh/2026/08/17/judges-allegedly-relying-wholly-on-ai-in-order-is-covered-by-judicial-immunity-court-rules/ Comments URL: https://news.ycombinator.com/item?id=49331625 Points: 58 # Comments: 49",
+      "summary": "Article URL: https://reason.com/volokh/2026/08/17/judges-allegedly-relying-wholly-on-ai-in-order-is-covered-by-judicial-immunity-court-rules/ Comments URL: https://news.ycombinator.com/item?id=49331625 Points: 58 # Comments: 58",
       "source": "Hacker News",
       "published": "2026-08-17T14:30:09+00:00",
       "link": "https://reason.com/volokh/2026/08/17/judges-allegedly-relying-wholly-on-ai-in-order-is-covered-by-judicial-immunity-court-rules/"
@@ -710,7 +787,7 @@ const FEED_DATA = {
     },
     {
       "title": "GPT 5.6 Sol is the best \"vision\" model OpenAI ever released",
-      "summary": "Article URL: https://blog.roboflow.com/openai-gpt-5-6/ Comments URL: https://news.ycombinator.com/item?id=49329575 Points: 363 # Comments: 167",
+      "summary": "Article URL: https://blog.roboflow.com/openai-gpt-5-6/ Comments URL: https://news.ycombinator.com/item?id=49329575 Points: 364 # Comments: 168",
       "source": "Hacker News",
       "published": "2026-08-17T12:09:42+00:00",
       "link": "https://blog.roboflow.com/openai-gpt-5-6/"
@@ -1323,83 +1400,6 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-08-13T21:13:24+00:00",
       "link": "https://techcrunch.com/2026/08/13/writer-introduces-new-ai-model-and-upgraded-harness-to-contain-token-costs/"
-    },
-    {
-      "title": "Databricks wanted to raise $1B, investors wanted $15B. It settled on $5B at a $190B valuation.",
-      "summary": "AI is expensive, Ali Ghodsi tells TechCrunch. With so many investors wanting into his latest round, he said yes to more than planned.",
-      "source": "TechCrunch",
-      "published": "2026-08-13T20:14:39+00:00",
-      "link": "https://techcrunch.com/2026/08/13/databricks-wanted-to-raise-1b-investors-wanted-15b-it-settled-on-5b-at-a-190b-valuation/"
-    },
-    {
-      "title": "Suno Studio 2.0's new chat feature lets you talk to your DAW like it's a bandmate",
-      "summary": "With Studio 2.0, Suno turns its AI music platform into a full production tool for Premier subscribers. A chat feature creates instruments and plugins via text, while MIDI import and 32-bit export come without limits.",
-      "source": "The Decoder",
-      "published": "2026-08-13T19:39:54+00:00",
-      "link": "https://the-decoder.com/suno-studio-2-0s-new-chat-feature-lets-you-talk-to-your-daw-like-its-a-bandmate/"
-    },
-    {
-      "title": "OpenAI is losing its second executive this week",
-      "summary": "Another OpenAI executive is departing. Denise Dresser, who joined OpenAI as its chief revenue officer in December after serving as CEO of Slack, will be leaving in the \"coming weeks\" to \"pursue other opportunities,\" she said in a team note posted to LinkedIn.",
-      "source": "The Verge",
-      "published": "2026-08-13T19:28:39+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/979815/openai-denise-dresser-leaving-executive-departure"
-    },
-    {
-      "title": "How Organizations Use AI: Evidence from ChatGPT [pdf]",
-      "summary": "Article URL: https://cdn.openai.com/pdf/how-organizations-use-chatgpt.pdf Comments URL: https://news.ycombinator.com/item?id=49290768 Points: 125 # Comments: 110",
-      "source": "Hacker News",
-      "published": "2026-08-13T19:25:38+00:00",
-      "link": "https://cdn.openai.com/pdf/how-organizations-use-chatgpt.pdf"
-    },
-    {
-      "title": "OpenAI introduces ‘Ultrafast,’ a new mode that makes GPT-5.6 Sol work at 14x the speed",
-      "summary": "OpenAI is launching a preview of a sped up version of its latest, most powerful model, in an effort to court enterprise users.",
-      "source": "TechCrunch",
-      "published": "2026-08-13T19:22:40+00:00",
-      "link": "https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed/"
-    },
-    {
-      "title": "IBM partners with OpenAI to bolster enterprise AI push",
-      "summary": "IBM plans to train and certify tens of thousands of consultants on OpenAI's technologies as part of this deal.",
-      "source": "TechCrunch",
-      "published": "2026-08-13T19:19:49+00:00",
-      "link": "https://techcrunch.com/2026/08/13/ibm-partners-with-openai-to-bolster-enterprise-ai-push/"
-    },
-    {
-      "title": "Person Hides Prompt Injection in Legal Filing Telling AI to Side with Them",
-      "summary": "Article URL: https://www.404media.co/person-hides-prompt-injection-in-legal-filing-telling-ai-to-side-with-them/ Comments URL: https://news.ycombinator.com/item?id=49290521 Points: 57 # Comments: 17",
-      "source": "Hacker News",
-      "published": "2026-08-13T19:04:52+00:00",
-      "link": "https://www.404media.co/person-hides-prompt-injection-in-legal-filing-telling-ai-to-side-with-them/"
-    },
-    {
-      "title": "Gemini 3.7 Flash lands with coding gains and undercuts its three-week-old predecessor's price by 50%",
-      "summary": "Google shipped Gemini 3.7 Flash just three weeks after 3.6 Flash. The new model is supposed to be Google's most capable workhorse yet for coding and AI agents, and according to the company's own benchmarks, it beats Claude Sonnet 5 and GPT-5.6 Terra at half the price.",
-      "source": "The Decoder",
-      "published": "2026-08-13T18:41:52+00:00",
-      "link": "https://the-decoder.com/gemini-3-7-flash-lands-with-coding-gains-and-undercuts-its-three-week-old-predecessors-price-by-50/"
-    },
-    {
-      "title": "AI Is Threatening Natural Resources for Billions",
-      "summary": "Article URL: https://unric.org/en/ais-environmental-costs-threaten-water-land-and-climate/ Comments URL: https://news.ycombinator.com/item?id=49290062 Points: 58 # Comments: 58",
-      "source": "Hacker News",
-      "published": "2026-08-13T18:28:20+00:00",
-      "link": "https://unric.org/en/ais-environmental-costs-threaten-water-land-and-climate/"
-    },
-    {
-      "title": "Anthropic set AI agents loose on the same task. They started a turf war.",
-      "summary": "Anthropic researchers found AI agents can clash, collude, and coordinate in unexpected ways, raising new questions about whether today’s safety tests capture the risks of multi-agent systems.",
-      "source": "TechCrunch",
-      "published": "2026-08-13T18:28:14+00:00",
-      "link": "https://techcrunch.com/2026/08/13/anthropic-set-ai-agents-loose-on-the-same-task-they-started-a-turf-war/"
-    },
-    {
-      "title": "Accelerating GPT-5.6 Sol Ultrafast",
-      "summary": "Article URL: https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai Comments URL: https://news.ycombinator.com/item?id=49289844 Points: 705 # Comments: 274",
-      "source": "Hacker News",
-      "published": "2026-08-13T18:10:02+00:00",
-      "link": "https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai"
     }
   ]
 };
