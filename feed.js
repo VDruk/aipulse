@@ -1,6 +1,34 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-08-21T13:47:34.228010+00:00",
+  "lastUpdated": "2026-08-21T17:21:54.013140+00:00",
   "items": [
+    {
+      "title": "US wants to force partner countries to choose between Washington and Beijing in the AI race",
+      "summary": "The US is drafting a letter to partner countries telling them to pick a side in the AI standoff between Washington and Beijing, according to Reuters.",
+      "source": "The Decoder",
+      "published": "2026-08-21T15:18:29+00:00",
+      "link": "https://the-decoder.com/us-wants-to-force-partner-countries-to-choose-between-washington-and-beijing-in-the-ai-race/"
+    },
+    {
+      "title": "Starcloud raises $250 million for orbital data centers as launch options dry up",
+      "summary": "There's about to be a big fight to secure access to space.",
+      "source": "TechCrunch",
+      "published": "2026-08-21T14:00:00+00:00",
+      "link": "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/"
+    },
+    {
+      "title": "Major YouTube creators are facing backlash for accepting AI money",
+      "summary": "Over the past few days, a number of prominent filmmaking content creators including Matti Haapoja and Sam \"Kold\" Kolder have posted videos of themselves demonstrating what's possible with AI platform Higgsfield.",
+      "source": "The Verge",
+      "published": "2026-08-21T13:37:52+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/983181/matti-haapoja-sam-kold-kolder-higgsfield-seedance-backlash"
+    },
+    {
+      "title": "Waymo doubles spending on lobbying in robotaxi battle with Uber",
+      "summary": "Alphabet-owned company is seeking to persuade US regulators to clear a path for fully autonomous taxi services.",
+      "source": "Ars Technica",
+      "published": "2026-08-21T13:11:35+00:00",
+      "link": "https://arstechnica.com/cars/2026/08/waymo-doubles-spending-on-lobbying-in-robotaxi-battle-with-uber/"
+    },
     {
       "title": "The Download: threats from space mirrors and credit for AI drugs",
       "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.",
@@ -161,6 +189,13 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-08-20T17:36:51+00:00",
       "link": "https://the-decoder.com/llms-could-write-like-humans-but-post-training-guardrails-make-their-text-detectable/"
+    },
+    {
+      "title": "A third of web pages published since ChatGPT launched were written by AI, study finds",
+      "summary": "ChatGPT and other AI models are now authoring and editing much of the new web.",
+      "source": "TechCrunch",
+      "published": "2026-08-20T17:18:58+00:00",
+      "link": "https://techcrunch.com/2026/08/20/a-third-of-webpages-published-since-chatgpts-launch-show-signs-of-ai-authorship-study-finds/"
     },
     {
       "title": "A third of web pages published since ChatGPT’s launch show signs of AI authorship, study finds",
@@ -429,18 +464,18 @@ const FEED_DATA = {
       "link": "https://techcrunch.com/2026/08/19/ai-was-supposed-to-win-people-over-by-now-it-hasnt/"
     },
     {
-      "title": "Google packs Search and Gemini with new AI study tools",
-      "summary": "The launch of the new study features marks Google's latest effort to make Gemini the AI assistant that students turn to when learning and studying, as it continues to compete with companies like OpenAI.",
-      "source": "TechCrunch",
-      "published": "2026-08-19T19:00:00+00:00",
-      "link": "https://techcrunch.com/2026/08/19/google-launches-new-study-tools-for-students-across-search-and-gemini/"
-    },
-    {
       "title": "Google Gemini is getting a dedicated student hub",
       "summary": "As we're gearing up for back-to-school season, Google is rolling out a new dedicated student hub in Gemini. It's a one-stop repository for collecting research in a study notebook, creating flashcards, taking practice quizzes, and more.",
       "source": "The Verge",
       "published": "2026-08-19T19:00:00+00:00",
       "link": "https://www.theverge.com/ai-artificial-intelligence/982425/google-gemini-student-hub"
+    },
+    {
+      "title": "Google packs Search and Gemini with new AI study tools",
+      "summary": "The launch of the new study features marks Google's latest effort to make Gemini the AI assistant that students turn to when learning and studying, as it continues to compete with companies like OpenAI.",
+      "source": "TechCrunch",
+      "published": "2026-08-19T19:00:00+00:00",
+      "link": "https://techcrunch.com/2026/08/19/google-launches-new-study-tools-for-students-across-search-and-gemini/"
     },
     {
       "title": "Attackers are using AI to build exploits for industrial control systems, U.S. agencies warn",
@@ -1365,41 +1400,6 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-08-15T08:00:45+00:00",
       "link": "https://the-decoder.com/plaintiff-hid-invisible-ai-instructions-in-court-filings-to-secretly-influence-automated-review/"
-    },
-    {
-      "title": "Suspecting court of using AI, man injected prompts in filings to try to win case",
-      "summary": "Article URL: https://arstechnica.com/tech-policy/2026/08/suspecting-court-of-using-ai-man-injected-prompts-in-filings-to-try-to-win-case/ Comments URL: https://news.ycombinator.com/item?id=49308553 Points: 78 # Comments: 59",
-      "source": "Hacker News",
-      "published": "2026-08-15T07:31:46+00:00",
-      "link": "https://arstechnica.com/tech-policy/2026/08/suspecting-court-of-using-ai-man-injected-prompts-in-filings-to-try-to-win-case/"
-    },
-    {
-      "title": "World Labs turns one real-world robot task into thousands of simulated variations for training",
-      "summary": "World Labs, the startup founded by AI pioneer Fei-Fei Li, has unveiled a simulation engine that trains robot controllers entirely in virtual environments. From a single real-world task, the system generates thousands of controlled variations.",
-      "source": "The Decoder",
-      "published": "2026-08-15T07:30:48+00:00",
-      "link": "https://the-decoder.com/world-labs-turns-one-real-world-robot-task-into-thousands-of-simulated-variations-for-training/"
-    },
-    {
-      "title": "The \"tragedy of the cognitive commons\" explains how rational AI adoption could destroy entire professions' expertise",
-      "summary": "A new research paper frames AI adoption as a \"tragedy of the cognitive commons.\" Every company that cuts entry-level jobs benefits individually, but the collective expertise of entire professions erodes.",
-      "source": "The Decoder",
-      "published": "2026-08-15T06:00:52+00:00",
-      "link": "https://the-decoder.com/the-tragedy-of-the-cognitive-commons-explains-how-rational-ai-adoption-could-destroy-entire-professions-expertise/"
-    },
-    {
-      "title": "New benchmark confirms AI models still perform poorly at visual perception",
-      "summary": "Moonshot AI's PerceptionBench tests how well multimodal AI models can actually \"see,\" separate from logical reasoning. No frontier model reaches 60 percent accuracy, and GPT-5.6 Sol leads by a narrow margin.",
-      "source": "The Decoder",
-      "published": "2026-08-15T05:30:18+00:00",
-      "link": "https://the-decoder.com/new-benchmark-confirms-ai-models-still-perform-poorly-at-visual-perception/"
-    },
-    {
-      "title": "Show HN: ThoughtDAG – An editable context graph for LLM conversations",
-      "summary": "Article URL: https://chenxiachan.github.io/thoughtdag/ Comments URL: https://news.ycombinator.com/item?id=49307700 Points: 132 # Comments: 60",
-      "source": "Hacker News",
-      "published": "2026-08-15T04:42:07+00:00",
-      "link": "https://chenxiachan.github.io/thoughtdag/"
     }
   ]
 };
