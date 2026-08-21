@@ -1,6 +1,41 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-08-21T17:21:54.013140+00:00",
+  "lastUpdated": "2026-08-21T21:15:32.965880+00:00",
   "items": [
+    {
+      "title": "Nvidia just showed that the harness, not the AI model, is now the real hero",
+      "summary": "Nvidia research shows that AI agents can perform well, and not go off the deep end, through fine-tuning, even if the AI model isn't that great at the task.",
+      "source": "TechCrunch",
+      "published": "2026-08-21T19:43:39+00:00",
+      "link": "https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero/"
+    },
+    {
+      "title": "Anthropic puts its most powerful model Claude Mythos 5 to work for cyber defense",
+      "summary": "Anthropic is now running its security scanner Claude Security on Claude Mythos 5. The tool scans codebases for vulnerabilities, provides severity ratings with CWE classifications, and suggests patches.",
+      "source": "The Decoder",
+      "published": "2026-08-21T19:35:37+00:00",
+      "link": "https://the-decoder.com/anthropic-puts-its-most-powerful-model-claude-mythos-5-to-work-for-cyber-defense/"
+    },
+    {
+      "title": "Deepseek releases experimental Flash vision model that rivals Opus 4.8 on agent benchmarks",
+      "summary": "Deepseek has released V4-Flash-Vision-Exp, an experimental multimodal model that adds image understanding to V4-Flash's text capabilities. On the company's own multimodal agent benchmarks, it approaches Opus 4.8 and sometimes beats it.",
+      "source": "The Decoder",
+      "published": "2026-08-21T19:08:27+00:00",
+      "link": "https://the-decoder.com/deepseek-releases-experimental-flash-vision-model-that-rivals-opus-4-8-on-agent-benchmarks/"
+    },
+    {
+      "title": "Data center opposition surged from 42 to 75 percent in just one year, survey finds",
+      "summary": "Three out of four Americans now oppose having a data center built near them, up from an even split just a year ago, according to a Heatmap News survey.",
+      "source": "The Decoder",
+      "published": "2026-08-21T18:25:44+00:00",
+      "link": "https://the-decoder.com/data-center-opposition-surged-from-42-to-75-percent-in-just-one-year-survey-finds/"
+    },
+    {
+      "title": "AI boosted homework scores, then exam scores dropped: Study",
+      "summary": "Article URL: https://canews24.online/?p=71 Comments URL: https://news.ycombinator.com/item?id=49389565 Points: 165 # Comments: 9",
+      "source": "Hacker News",
+      "published": "2026-08-21T15:25:42+00:00",
+      "link": "https://canews24.online/?p=71"
+    },
     {
       "title": "US wants to force partner countries to choose between Washington and Beijing in the AI race",
       "summary": "The US is drafting a letter to partner countries telling them to pick a side in the AI standoff between Washington and Beijing, according to Reuters.",
@@ -23,6 +58,13 @@ const FEED_DATA = {
       "link": "https://www.theverge.com/ai-artificial-intelligence/983181/matti-haapoja-sam-kold-kolder-higgsfield-seedance-backlash"
     },
     {
+      "title": "What Happens When the Cost of Intelligence Drops 100x",
+      "summary": "Article URL: https://catalystneuro.com/blog/cost-of-intelligence-drops-100x/ Comments URL: https://news.ycombinator.com/item?id=49387735 Points: 113 # Comments: 120",
+      "source": "Hacker News",
+      "published": "2026-08-21T13:24:28+00:00",
+      "link": "https://catalystneuro.com/blog/cost-of-intelligence-drops-100x/"
+    },
+    {
       "title": "Waymo doubles spending on lobbying in robotaxi battle with Uber",
       "summary": "Alphabet-owned company is seeking to persuade US regulators to clear a path for fully autonomous taxi services.",
       "source": "Ars Technica",
@@ -35,6 +77,13 @@ const FEED_DATA = {
       "source": "MIT Tech Review",
       "published": "2026-08-21T12:10:00+00:00",
       "link": "https://www.technologyreview.com/2026/08/21/1142762/the-download-space-mirrors-threats-ai-designed-drugs-credit/"
+    },
+    {
+      "title": "I'm becoming AI-blind",
+      "summary": "Article URL: https://cymerys.com/w/im-becoming-ai-blind Comments URL: https://news.ycombinator.com/item?id=49386699 Points: 191 # Comments: 192",
+      "source": "Hacker News",
+      "published": "2026-08-21T11:48:05+00:00",
+      "link": "https://cymerys.com/w/im-becoming-ai-blind"
     },
     {
       "title": "Waymo builds its own chip for its robotaxis, cutting its reliance on Nvidia",
@@ -52,7 +101,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI companies destroy physical books – let's scan rare books before it's too late",
-      "summary": "Article URL: https://annas-archive.pk/blog/physical-destruction.html Comments URL: https://news.ycombinator.com/item?id=49385994 Points: 259 # Comments: 181",
+      "summary": "Article URL: https://annas-archive.pk/blog/physical-destruction.html Comments URL: https://news.ycombinator.com/item?id=49385994 Points: 696 # Comments: 2",
       "source": "Hacker News",
       "published": "2026-08-21T10:05:46+00:00",
       "link": "https://annas-archive.pk/blog/physical-destruction.html"
@@ -108,7 +157,7 @@ const FEED_DATA = {
     },
     {
       "title": "Copyright does not protect AI-generated content in EU",
-      "summary": "Article URL: https://mathstodon.xyz/@maxpool/117128107757895678 Comments URL: https://news.ycombinator.com/item?id=49382041 Points: 181 # Comments: 194",
+      "summary": "Article URL: https://mathstodon.xyz/@maxpool/117128107757895678 Comments URL: https://news.ycombinator.com/item?id=49382041 Points: 185 # Comments: 208",
       "source": "Hacker News",
       "published": "2026-08-21T00:15:12+00:00",
       "link": "https://mathstodon.xyz/@maxpool/117128107757895678"
@@ -241,7 +290,7 @@ const FEED_DATA = {
     },
     {
       "title": "Vomit: Clean up Claude 5's token output with a separate LLM",
-      "summary": "Article URL: https://github.com/zachahn/vomit Comments URL: https://news.ycombinator.com/item?id=49375996 Points: 276 # Comments: 273",
+      "summary": "Article URL: https://github.com/zachahn/vomit Comments URL: https://news.ycombinator.com/item?id=49375996 Points: 294 # Comments: 286",
       "source": "Hacker News",
       "published": "2026-08-20T15:26:02+00:00",
       "link": "https://github.com/zachahn/vomit"
@@ -255,7 +304,7 @@ const FEED_DATA = {
     },
     {
       "title": "Anti-AI fonts are useless and harmful",
-      "summary": "Article URL: https://blog.yaros.ae/anti-ai-fonts-are-useless-and-harmful/ Comments URL: https://news.ycombinator.com/item?id=49375719 Points: 187 # Comments: 143",
+      "summary": "Article URL: https://blog.yaros.ae/anti-ai-fonts-are-useless-and-harmful/ Comments URL: https://news.ycombinator.com/item?id=49375719 Points: 203 # Comments: 160",
       "source": "Hacker News",
       "published": "2026-08-20T15:06:53+00:00",
       "link": "https://blog.yaros.ae/anti-ai-fonts-are-useless-and-harmful/"
@@ -325,7 +374,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI didn't erase the junior engineer's value, it increased it it",
-      "summary": "Article URL: https://franciscotrindade.me/blog/the-kids-are-really-alright/ Comments URL: https://news.ycombinator.com/item?id=49373269 Points: 87 # Comments: 139",
+      "summary": "Article URL: https://franciscotrindade.me/blog/the-kids-are-really-alright/ Comments URL: https://news.ycombinator.com/item?id=49373269 Points: 89 # Comments: 143",
       "source": "Hacker News",
       "published": "2026-08-20T11:42:20+00:00",
       "link": "https://franciscotrindade.me/blog/the-kids-are-really-alright/"
@@ -388,7 +437,7 @@ const FEED_DATA = {
     },
     {
       "title": "Don't paste the AI, please",
-      "summary": "Article URL: https://dontpastetheai.com/ Comments URL: https://news.ycombinator.com/item?id=49371857 Points: 1020 # Comments: 568",
+      "summary": "Article URL: https://dontpastetheai.com/ Comments URL: https://news.ycombinator.com/item?id=49371857 Points: 1027 # Comments: 574",
       "source": "Hacker News",
       "published": "2026-08-20T08:20:44+00:00",
       "link": "https://dontpastetheai.com/"
@@ -535,7 +584,7 @@ const FEED_DATA = {
     },
     {
       "title": "Mathematics in the age of AI",
-      "summary": "Article URL: https://arxiv.org/abs/2608.16753 Comments URL: https://news.ycombinator.com/item?id=49362728 Points: 207 # Comments: 254",
+      "summary": "Article URL: https://arxiv.org/abs/2608.16753 Comments URL: https://news.ycombinator.com/item?id=49362728 Points: 207 # Comments: 259",
       "source": "Hacker News",
       "published": "2026-08-19T15:14:25+00:00",
       "link": "https://arxiv.org/abs/2608.16753"
@@ -913,7 +962,7 @@ const FEED_DATA = {
     },
     {
       "title": "GPT-5.6 Sol Pricing Cut by 50% on OpenRouter",
-      "summary": "Article URL: https://openrouter.ai/openai/gpt-5.6-sol Comments URL: https://news.ycombinator.com/item?id=49337602 Points: 632 # Comments: 448",
+      "summary": "Article URL: https://openrouter.ai/openai/gpt-5.6-sol Comments URL: https://news.ycombinator.com/item?id=49337602 Points: 633 # Comments: 448",
       "source": "Hacker News",
       "published": "2026-08-17T21:03:18+00:00",
       "link": "https://openrouter.ai/openai/gpt-5.6-sol"
@@ -927,14 +976,14 @@ const FEED_DATA = {
     },
     {
       "title": "Israel creates fake think tank in likely attempt to dupe AI chatbots",
-      "summary": "Article URL: https://responsiblestatecraft.org/israel-influence-chatgpt/ Comments URL: https://news.ycombinator.com/item?id=49337392 Points: 1053 # Comments: 855",
+      "summary": "Article URL: https://responsiblestatecraft.org/israel-influence-chatgpt/ Comments URL: https://news.ycombinator.com/item?id=49337392 Points: 1054 # Comments: 858",
       "source": "Hacker News",
       "published": "2026-08-17T20:46:10+00:00",
       "link": "https://responsiblestatecraft.org/israel-influence-chatgpt/"
     },
     {
       "title": "AI;DR (AI; Didn't Read)",
-      "summary": "Article URL: https://www.rickmanelius.com/p/aidr-ai-didnt-read Comments URL: https://news.ycombinator.com/item?id=49336573 Points: 1101 # Comments: 689",
+      "summary": "Article URL: https://www.rickmanelius.com/p/aidr-ai-didnt-read Comments URL: https://news.ycombinator.com/item?id=49336573 Points: 1102 # Comments: 690",
       "source": "Hacker News",
       "published": "2026-08-17T19:47:15+00:00",
       "link": "https://www.rickmanelius.com/p/aidr-ai-didnt-read"
@@ -1351,55 +1400,6 @@ const FEED_DATA = {
       "source": "Hacker News",
       "published": "2026-08-15T14:08:55+00:00",
       "link": "https://www.bbc.co.uk/news/articles/cp3rprx2wl4o"
-    },
-    {
-      "title": "Cloudflare's AI Psychosis",
-      "summary": "Article URL: https://opensauce.it/cloudflare-ai-psychosis/ Comments URL: https://news.ycombinator.com/item?id=49310719 Points: 117 # Comments: 100",
-      "source": "Hacker News",
-      "published": "2026-08-15T14:08:40+00:00",
-      "link": "https://opensauce.it/cloudflare-ai-psychosis/"
-    },
-    {
-      "title": "Yadda 3.0.0: BDD in the Age of AI Agents",
-      "summary": "Article URL: http://www.stephen-cresswell.com/2026/08/15/Yadda-3.0.0-BDD-in-the-Age-of-AI-Agents.html Comments URL: https://news.ycombinator.com/item?id=49310495 Points: 64 # Comments: 28",
-      "source": "Hacker News",
-      "published": "2026-08-15T13:43:46+00:00",
-      "link": "http://www.stephen-cresswell.com/2026/08/15/Yadda-3.0.0-BDD-in-the-Age-of-AI-Agents.html"
-    },
-    {
-      "title": "AI-generated books are flooding Amazon and tanking sales for human authors",
-      "summary": "AI-generated books make up 20 percent of Amazon's self-published catalog but bring in only 12 percent of sales. A new study finds that revenue per book is dropping for human-written titles too, in seven of eight genres.",
-      "source": "The Decoder",
-      "published": "2026-08-15T11:00:50+00:00",
-      "link": "https://the-decoder.com/ai-generated-books-are-flooding-amazon-and-tanking-sales-for-human-authors/"
-    },
-    {
-      "title": "Working with AI feels more like leadership than coding",
-      "summary": "Article URL: https://allen.bargi.org/notes/working-with-ai-feels-like-leadership/ Comments URL: https://news.ycombinator.com/item?id=49309451 Points: 332 # Comments: 200",
-      "source": "Hacker News",
-      "published": "2026-08-15T10:39:41+00:00",
-      "link": "https://allen.bargi.org/notes/working-with-ai-feels-like-leadership/"
-    },
-    {
-      "title": "Debian has begun voting on the future of AI/LLM contributions",
-      "summary": "Article URL: https://lists.debian.org/debian-devel-announce/2026/08/msg00002.html Comments URL: https://news.ycombinator.com/item?id=49309050 Points: 66 # Comments: 53",
-      "source": "Hacker News",
-      "published": "2026-08-15T09:20:07+00:00",
-      "link": "https://lists.debian.org/debian-devel-announce/2026/08/msg00002.html"
-    },
-    {
-      "title": "Amazon Can Use Your Twitch Content to Train Its AI—Unless You Opt Out",
-      "summary": "When Twitch announced that streamers could opt out, thousands of users questioned why their content was being used to train AI models in the first place.",
-      "source": "Wired",
-      "published": "2026-08-15T09:00:00+00:00",
-      "link": "https://www.wired.com/story/amazon-uses-your-twitch-content-to-train-its-ai-how-to-opt-out/"
-    },
-    {
-      "title": "Plaintiff hid invisible AI instructions in court filings to secretly influence automated review",
-      "summary": "A plaintiff in Connecticut embedded invisible prompt injections in court filings, formatted in 3-point white text on a white background, to manipulate a potential AI review system.",
-      "source": "The Decoder",
-      "published": "2026-08-15T08:00:45+00:00",
-      "link": "https://the-decoder.com/plaintiff-hid-invisible-ai-instructions-in-court-filings-to-secretly-influence-automated-review/"
     }
   ]
 };
