@@ -1,6 +1,20 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-08-21T02:21:46.780487+00:00",
+  "lastUpdated": "2026-08-21T05:36:36.739785+00:00",
   "items": [
+    {
+      "title": "AI companies destroy physical books – let's scan rare books before it's too late",
+      "summary": "Article URL: https://annas-archive.gl/blog/physical-destruction.html Comments URL: https://news.ycombinator.com/item?id=49383026 Points: 198 # Comments: 128",
+      "source": "Hacker News",
+      "published": "2026-08-21T02:37:47+00:00",
+      "link": "https://annas-archive.gl/blog/physical-destruction.html"
+    },
+    {
+      "title": "Copyright does not protect AI-generated content in EU",
+      "summary": "Article URL: https://mathstodon.xyz/@maxpool/117128107757895678 Comments URL: https://news.ycombinator.com/item?id=49382041 Points: 158 # Comments: 164",
+      "source": "Hacker News",
+      "published": "2026-08-21T00:15:12+00:00",
+      "link": "https://mathstodon.xyz/@maxpool/117128107757895678"
+    },
     {
       "title": "AI data startup Micro1 reaches $500M gross run rate amid AI training boom",
       "summary": "Surging demand for AI training data is driving rapid growth for the startup and its rivals.",
@@ -122,7 +136,7 @@ const FEED_DATA = {
     },
     {
       "title": "Vomit: Clean up Claude 5's token output with a separate LLM",
-      "summary": "Article URL: https://github.com/zachahn/vomit Comments URL: https://news.ycombinator.com/item?id=49375996 Points: 130 # Comments: 143",
+      "summary": "Article URL: https://github.com/zachahn/vomit Comments URL: https://news.ycombinator.com/item?id=49375996 Points: 218 # Comments: 227",
       "source": "Hacker News",
       "published": "2026-08-20T15:26:02+00:00",
       "link": "https://github.com/zachahn/vomit"
@@ -136,7 +150,7 @@ const FEED_DATA = {
     },
     {
       "title": "Anti-AI fonts are useless and harmful",
-      "summary": "Article URL: https://blog.yaros.ae/anti-ai-fonts-are-useless-and-harmful/ Comments URL: https://news.ycombinator.com/item?id=49375719 Points: 73 # Comments: 60",
+      "summary": "Article URL: https://blog.yaros.ae/anti-ai-fonts-are-useless-and-harmful/ Comments URL: https://news.ycombinator.com/item?id=49375719 Points: 139 # Comments: 90",
       "source": "Hacker News",
       "published": "2026-08-20T15:06:53+00:00",
       "link": "https://blog.yaros.ae/anti-ai-fonts-are-useless-and-harmful/"
@@ -206,7 +220,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI didn't erase the junior engineer's value, it increased it it",
-      "summary": "Article URL: https://franciscotrindade.me/blog/the-kids-are-really-alright/ Comments URL: https://news.ycombinator.com/item?id=49373269 Points: 70 # Comments: 129",
+      "summary": "Article URL: https://franciscotrindade.me/blog/the-kids-are-really-alright/ Comments URL: https://news.ycombinator.com/item?id=49373269 Points: 81 # Comments: 138",
       "source": "Hacker News",
       "published": "2026-08-20T11:42:20+00:00",
       "link": "https://franciscotrindade.me/blog/the-kids-are-really-alright/"
@@ -269,7 +283,7 @@ const FEED_DATA = {
     },
     {
       "title": "Don't paste the AI, please",
-      "summary": "Article URL: https://dontpastetheai.com/ Comments URL: https://news.ycombinator.com/item?id=49371857 Points: 975 # Comments: 527",
+      "summary": "Article URL: https://dontpastetheai.com/ Comments URL: https://news.ycombinator.com/item?id=49371857 Points: 1001 # Comments: 552",
       "source": "Hacker News",
       "published": "2026-08-20T08:20:44+00:00",
       "link": "https://dontpastetheai.com/"
@@ -416,7 +430,7 @@ const FEED_DATA = {
     },
     {
       "title": "Mathematics in the age of AI",
-      "summary": "Article URL: https://arxiv.org/abs/2608.16753 Comments URL: https://news.ycombinator.com/item?id=49362728 Points: 203 # Comments: 246",
+      "summary": "Article URL: https://arxiv.org/abs/2608.16753 Comments URL: https://news.ycombinator.com/item?id=49362728 Points: 205 # Comments: 251",
       "source": "Hacker News",
       "published": "2026-08-19T15:14:25+00:00",
       "link": "https://arxiv.org/abs/2608.16753"
@@ -521,7 +535,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI usage patterns in software teams",
-      "summary": "Article URL: https://linear.app/data Comments URL: https://news.ycombinator.com/item?id=49353432 Points: 195 # Comments: 113",
+      "summary": "Article URL: https://linear.app/data Comments URL: https://news.ycombinator.com/item?id=49353432 Points: 195 # Comments: 115",
       "source": "Hacker News",
       "published": "2026-08-18T22:08:07+00:00",
       "link": "https://linear.app/data"
@@ -780,7 +794,7 @@ const FEED_DATA = {
     },
     {
       "title": "My friends all hate AI; I just joined an AI startup",
-      "summary": "Article URL: https://www.fast.ai/posts/2026-08-18-returning-to-AI/ Comments URL: https://news.ycombinator.com/item?id=49338139 Points: 57 # Comments: 210",
+      "summary": "Article URL: https://www.fast.ai/posts/2026-08-18-returning-to-AI/ Comments URL: https://news.ycombinator.com/item?id=49338139 Points: 58 # Comments: 210",
       "source": "Hacker News",
       "published": "2026-08-17T21:47:30+00:00",
       "link": "https://www.fast.ai/posts/2026-08-18-returning-to-AI/"
@@ -794,7 +808,7 @@ const FEED_DATA = {
     },
     {
       "title": "GPT-5.6 Sol Pricing Cut by 50% on OpenRouter",
-      "summary": "Article URL: https://openrouter.ai/openai/gpt-5.6-sol Comments URL: https://news.ycombinator.com/item?id=49337602 Points: 630 # Comments: 448",
+      "summary": "Article URL: https://openrouter.ai/openai/gpt-5.6-sol Comments URL: https://news.ycombinator.com/item?id=49337602 Points: 632 # Comments: 448",
       "source": "Hacker News",
       "published": "2026-08-17T21:03:18+00:00",
       "link": "https://openrouter.ai/openai/gpt-5.6-sol"
@@ -808,7 +822,7 @@ const FEED_DATA = {
     },
     {
       "title": "Israel creates fake think tank in likely attempt to dupe AI chatbots",
-      "summary": "Article URL: https://responsiblestatecraft.org/israel-influence-chatgpt/ Comments URL: https://news.ycombinator.com/item?id=49337392 Points: 1051 # Comments: 832",
+      "summary": "Article URL: https://responsiblestatecraft.org/israel-influence-chatgpt/ Comments URL: https://news.ycombinator.com/item?id=49337392 Points: 1052 # Comments: 843",
       "source": "Hacker News",
       "published": "2026-08-17T20:46:10+00:00",
       "link": "https://responsiblestatecraft.org/israel-influence-chatgpt/"
@@ -843,7 +857,7 @@ const FEED_DATA = {
     },
     {
       "title": "Qwen3.8 27B scores 52 on Artificial Analysis",
-      "summary": "Article URL: https://artificialanalysis.ai/models/qwen3-8-27b Comments URL: https://news.ycombinator.com/item?id=49334544 Points: 379 # Comments: 180",
+      "summary": "Article URL: https://artificialanalysis.ai/models/qwen3-8-27b Comments URL: https://news.ycombinator.com/item?id=49334544 Points: 380 # Comments: 180",
       "source": "Hacker News",
       "published": "2026-08-17T17:25:17+00:00",
       "link": "https://artificialanalysis.ai/models/qwen3-8-27b"
@@ -1386,20 +1400,6 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-08-14T15:43:28+00:00",
       "link": "https://techcrunch.com/video/does-mark-zuckerberg-really-believe-ai-is-for-everyone/"
-    },
-    {
-      "title": "Google is making private AI practical with homomorphic encryption",
-      "summary": "Article URL: https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/ Comments URL: https://news.ycombinator.com/item?id=49300314 Points: 491 # Comments: 283",
-      "source": "Hacker News",
-      "published": "2026-08-14T15:43:10+00:00",
-      "link": "https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/"
-    },
-    {
-      "title": "Tech Visionary Says the Big AI Labs Don’t Get What People Want",
-      "summary": "Tim O’Reilly built a publishing empire that AI is helping to destroy. Yet he loves AI—as long as it’s open source.",
-      "source": "Wired",
-      "published": "2026-08-14T15:00:00+00:00",
-      "link": "https://www.wired.com/story/tech-visionary-says-the-big-ai-labs-dont-get-what-people-want/"
     }
   ]
 };
