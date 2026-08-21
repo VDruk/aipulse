@@ -1,16 +1,51 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-08-21T05:36:36.739785+00:00",
+  "lastUpdated": "2026-08-21T09:22:39.928497+00:00",
   "items": [
     {
+      "title": "Mother tongue",
+      "summary": "“Daddy?” Theo curled against my side in bed. “Where do words go when they die?” I’d orchestrated the bedtime routine flawlessly: bath (taken), teeth (brushed), potty (tinkled), books (two), song (one, poorly sung), and snuggle (his chin on my second rib).",
+      "source": "MIT Tech Review",
+      "published": "2026-08-21T09:00:00+00:00",
+      "link": "https://www.technologyreview.com/2026/08/21/1141726/mother-tongue-fiction/"
+    },
+    {
+      "title": "When AI designs a drug, who gets the credit?",
+      "summary": "When the biotech company Insilico Medicine used its computer models to propose a promising drug for pulmonary fibrosis, it enthusiastically claimed in a press release that the molecule had been “discovered by” its generative AI platform.",
+      "source": "MIT Tech Review",
+      "published": "2026-08-21T09:00:00+00:00",
+      "link": "https://www.technologyreview.com/2026/08/21/1142627/when-ai-designs-a-drug-who-gets-the-credit/"
+    },
+    {
+      "title": "Nvidia is acquiring Poolside's \"Model Factory\" and 109 employees for $6 billion",
+      "summary": "Nvidia is paying $6 billion for software that builds AI models from the startup Poolside, and it wants to bring on 109 employees. The article Nvidia is acquiring Poolside's \"Model Factory\" and 109 employees for $6 billion appeared first on The Decoder.",
+      "source": "The Decoder",
+      "published": "2026-08-21T08:27:23+00:00",
+      "link": "https://the-decoder.com/nvidia-is-acquiring-poolsides-model-factory-and-109-employees-for-6-billion/"
+    },
+    {
+      "title": "GPT-5.6 Sol drives OpenAI's revenue surge as it regains ground on Anthropic",
+      "summary": "Since GPT-5.6 Sol launched in early July, OpenAI says revenue is up 35 percent this quarter, with enterprise revenue growing more than 50 percent.",
+      "source": "The Decoder",
+      "published": "2026-08-21T08:26:05+00:00",
+      "link": "https://the-decoder.com/gpt-5-6-sol-drives-openais-revenue-surge-as-it-regains-ground-on-anthropic/"
+    },
+    {
+      "title": "OpenAI's GPT-Image-2 can now generate images without a background",
+      "summary": "OpenAI is previewing transparent background support for GPT-Image-2 through its API. The alpha channel gets baked in during image generation, which according to OpenAI beats conventional background removal.",
+      "source": "The Decoder",
+      "published": "2026-08-21T07:53:40+00:00",
+      "link": "https://the-decoder.com/openais-gpt-image-2-can-now-generate-images-without-a-background/"
+    },
+    {
       "title": "AI companies destroy physical books – let's scan rare books before it's too late",
-      "summary": "Article URL: https://annas-archive.gl/blog/physical-destruction.html Comments URL: https://news.ycombinator.com/item?id=49383026 Points: 198 # Comments: 128",
+      "summary": "Article URL: https://annas-archive.gl/blog/physical-destruction.html Comments URL: https://news.ycombinator.com/item?id=49383026 Points: 328 # Comments: 233",
       "source": "Hacker News",
       "published": "2026-08-21T02:37:47+00:00",
       "link": "https://annas-archive.gl/blog/physical-destruction.html"
     },
     {
       "title": "Copyright does not protect AI-generated content in EU",
-      "summary": "Article URL: https://mathstodon.xyz/@maxpool/117128107757895678 Comments URL: https://news.ycombinator.com/item?id=49382041 Points: 158 # Comments: 164",
+      "summary": "Article URL: https://mathstodon.xyz/@maxpool/117128107757895678 Comments URL: https://news.ycombinator.com/item?id=49382041 Points: 170 # Comments: 185",
       "source": "Hacker News",
       "published": "2026-08-21T00:15:12+00:00",
       "link": "https://mathstodon.xyz/@maxpool/117128107757895678"
@@ -136,7 +171,7 @@ const FEED_DATA = {
     },
     {
       "title": "Vomit: Clean up Claude 5's token output with a separate LLM",
-      "summary": "Article URL: https://github.com/zachahn/vomit Comments URL: https://news.ycombinator.com/item?id=49375996 Points: 218 # Comments: 227",
+      "summary": "Article URL: https://github.com/zachahn/vomit Comments URL: https://news.ycombinator.com/item?id=49375996 Points: 253 # Comments: 249",
       "source": "Hacker News",
       "published": "2026-08-20T15:26:02+00:00",
       "link": "https://github.com/zachahn/vomit"
@@ -150,7 +185,7 @@ const FEED_DATA = {
     },
     {
       "title": "Anti-AI fonts are useless and harmful",
-      "summary": "Article URL: https://blog.yaros.ae/anti-ai-fonts-are-useless-and-harmful/ Comments URL: https://news.ycombinator.com/item?id=49375719 Points: 139 # Comments: 90",
+      "summary": "Article URL: https://blog.yaros.ae/anti-ai-fonts-are-useless-and-harmful/ Comments URL: https://news.ycombinator.com/item?id=49375719 Points: 162 # Comments: 116",
       "source": "Hacker News",
       "published": "2026-08-20T15:06:53+00:00",
       "link": "https://blog.yaros.ae/anti-ai-fonts-are-useless-and-harmful/"
@@ -220,7 +255,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI didn't erase the junior engineer's value, it increased it it",
-      "summary": "Article URL: https://franciscotrindade.me/blog/the-kids-are-really-alright/ Comments URL: https://news.ycombinator.com/item?id=49373269 Points: 81 # Comments: 138",
+      "summary": "Article URL: https://franciscotrindade.me/blog/the-kids-are-really-alright/ Comments URL: https://news.ycombinator.com/item?id=49373269 Points: 84 # Comments: 138",
       "source": "Hacker News",
       "published": "2026-08-20T11:42:20+00:00",
       "link": "https://franciscotrindade.me/blog/the-kids-are-really-alright/"
@@ -283,7 +318,7 @@ const FEED_DATA = {
     },
     {
       "title": "Don't paste the AI, please",
-      "summary": "Article URL: https://dontpastetheai.com/ Comments URL: https://news.ycombinator.com/item?id=49371857 Points: 1001 # Comments: 552",
+      "summary": "Article URL: https://dontpastetheai.com/ Comments URL: https://news.ycombinator.com/item?id=49371857 Points: 1012 # Comments: 561",
       "source": "Hacker News",
       "published": "2026-08-20T08:20:44+00:00",
       "link": "https://dontpastetheai.com/"
@@ -430,7 +465,7 @@ const FEED_DATA = {
     },
     {
       "title": "Mathematics in the age of AI",
-      "summary": "Article URL: https://arxiv.org/abs/2608.16753 Comments URL: https://news.ycombinator.com/item?id=49362728 Points: 205 # Comments: 251",
+      "summary": "Article URL: https://arxiv.org/abs/2608.16753 Comments URL: https://news.ycombinator.com/item?id=49362728 Points: 206 # Comments: 253",
       "source": "Hacker News",
       "published": "2026-08-19T15:14:25+00:00",
       "link": "https://arxiv.org/abs/2608.16753"
@@ -535,7 +570,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI usage patterns in software teams",
-      "summary": "Article URL: https://linear.app/data Comments URL: https://news.ycombinator.com/item?id=49353432 Points: 195 # Comments: 115",
+      "summary": "Article URL: https://linear.app/data Comments URL: https://news.ycombinator.com/item?id=49353432 Points: 196 # Comments: 115",
       "source": "Hacker News",
       "published": "2026-08-18T22:08:07+00:00",
       "link": "https://linear.app/data"
@@ -822,14 +857,14 @@ const FEED_DATA = {
     },
     {
       "title": "Israel creates fake think tank in likely attempt to dupe AI chatbots",
-      "summary": "Article URL: https://responsiblestatecraft.org/israel-influence-chatgpt/ Comments URL: https://news.ycombinator.com/item?id=49337392 Points: 1052 # Comments: 843",
+      "summary": "Article URL: https://responsiblestatecraft.org/israel-influence-chatgpt/ Comments URL: https://news.ycombinator.com/item?id=49337392 Points: 1053 # Comments: 851",
       "source": "Hacker News",
       "published": "2026-08-17T20:46:10+00:00",
       "link": "https://responsiblestatecraft.org/israel-influence-chatgpt/"
     },
     {
       "title": "AI;DR (AI; Didn't Read)",
-      "summary": "Article URL: https://www.rickmanelius.com/p/aidr-ai-didnt-read Comments URL: https://news.ycombinator.com/item?id=49336573 Points: 1097 # Comments: 688",
+      "summary": "Article URL: https://www.rickmanelius.com/p/aidr-ai-didnt-read Comments URL: https://news.ycombinator.com/item?id=49336573 Points: 1099 # Comments: 688",
       "source": "Hacker News",
       "published": "2026-08-17T19:47:15+00:00",
       "link": "https://www.rickmanelius.com/p/aidr-ai-didnt-read"
@@ -1365,41 +1400,6 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-08-14T16:43:43+00:00",
       "link": "https://the-decoder.com/openais-computer-history-turns-your-clicks-and-keystrokes-into-a-searchable-chatgpt-memory-timeline/"
-    },
-    {
-      "title": "You can now turn off Google Gemini’s visible watermarks",
-      "summary": "Google will now allow you to remove visible watermarks from the images, videos, and music made with AI tools. With the update, you can toggle off a new \"Media watermark\" setting in Gemini and Google's AI video generator, Flow.",
-      "source": "The Verge",
-      "published": "2026-08-14T16:39:32+00:00",
-      "link": "https://www.theverge.com/tech/980416/google-gemini-ai-watermarks-removal"
-    },
-    {
-      "title": "Google will now allow users to remove visible watermark from its AI generations",
-      "summary": "Turning off this setting won't affect invisible benchmarks used to identify an AI generated file.",
-      "source": "TechCrunch",
-      "published": "2026-08-14T16:13:40+00:00",
-      "link": "https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations/"
-    },
-    {
-      "title": "Study contradicts Anthropic and OpenAI claims that autonomous AI research is within reach",
-      "summary": "AI agents using Claude Opus 4.8 and GPT-5.6 Sol were given six days, $3,000 in API credits, and GPU access to independently write AI research papers.",
-      "source": "The Decoder",
-      "published": "2026-08-14T16:06:32+00:00",
-      "link": "https://the-decoder.com/study-contradicts-anthropic-and-openai-claims-that-autonomous-ai-research-is-within-reach/"
-    },
-    {
-      "title": "AI by Hand",
-      "summary": "Article URL: https://www.byhand.ai/ Comments URL: https://news.ycombinator.com/item?id=49300568 Points: 365 # Comments: 30",
-      "source": "Hacker News",
-      "published": "2026-08-14T15:58:59+00:00",
-      "link": "https://www.byhand.ai/"
-    },
-    {
-      "title": "Does Mark Zuckerberg really believe AI is ‘for everyone’?",
-      "summary": "Meta released Glimmer this week, an open-weight AI model anyone can download and run on their own hardware — a contrast to Muse Spark, the company’s more powerful model that stays locked behind its own APIs.",
-      "source": "TechCrunch",
-      "published": "2026-08-14T15:43:28+00:00",
-      "link": "https://techcrunch.com/video/does-mark-zuckerberg-really-believe-ai-is-for-everyone/"
     }
   ]
 };
