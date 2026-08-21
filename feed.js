@@ -1,6 +1,41 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-08-21T09:22:39.928497+00:00",
+  "lastUpdated": "2026-08-21T13:47:34.228010+00:00",
   "items": [
+    {
+      "title": "The Download: threats from space mirrors and credit for AI drugs",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.",
+      "source": "MIT Tech Review",
+      "published": "2026-08-21T12:10:00+00:00",
+      "link": "https://www.technologyreview.com/2026/08/21/1142762/the-download-space-mirrors-threats-ai-designed-drugs-credit/"
+    },
+    {
+      "title": "Waymo builds its own chip for its robotaxis, cutting its reliance on Nvidia",
+      "summary": "Waymo built its own chip for its robotaxis, cutting its reliance on Nvidia. The article Waymo builds its own chip for its robotaxis, cutting its reliance on Nvidia appeared first on The Decoder.",
+      "source": "The Decoder",
+      "published": "2026-08-21T11:04:09+00:00",
+      "link": "https://the-decoder.com/waymo-builds-its-own-chip-for-its-robotaxis-cutting-its-reliance-on-nvidia/"
+    },
+    {
+      "title": "Meta spends hundreds of millions on Microsoft's AI services",
+      "summary": "Meta has become one of Microsoft's biggest AI customers, according to Bloomberg. The article Meta spends hundreds of millions on Microsoft's AI services appeared first on The Decoder.",
+      "source": "The Decoder",
+      "published": "2026-08-21T10:54:41+00:00",
+      "link": "https://the-decoder.com/meta-spends-hundreds-of-millions-on-microsofts-ai-services/"
+    },
+    {
+      "title": "AI companies destroy physical books – let's scan rare books before it's too late",
+      "summary": "Article URL: https://annas-archive.pk/blog/physical-destruction.html Comments URL: https://news.ycombinator.com/item?id=49385994 Points: 259 # Comments: 181",
+      "source": "Hacker News",
+      "published": "2026-08-21T10:05:46+00:00",
+      "link": "https://annas-archive.pk/blog/physical-destruction.html"
+    },
+    {
+      "title": "Anthropic changes data retention policy after enterprise pushback",
+      "summary": "Anthropic is easing its controversial data storage policy, letting enterprise customers keep their own data going forward. The article Anthropic changes data retention policy after enterprise pushback appeared first on The Decoder.",
+      "source": "The Decoder",
+      "published": "2026-08-21T09:59:51+00:00",
+      "link": "https://the-decoder.com/anthropic-changes-data-retention-policy-after-enterprise-pushback/"
+    },
     {
       "title": "Mother tongue",
       "summary": "“Daddy?” Theo curled against my side in bed. “Where do words go when they die?” I’d orchestrated the bedtime routine flawlessly: bath (taken), teeth (brushed), potty (tinkled), books (two), song (one, poorly sung), and snuggle (his chin on my second rib).",
@@ -14,6 +49,13 @@ const FEED_DATA = {
       "source": "MIT Tech Review",
       "published": "2026-08-21T09:00:00+00:00",
       "link": "https://www.technologyreview.com/2026/08/21/1142627/when-ai-designs-a-drug-who-gets-the-credit/"
+    },
+    {
+      "title": "How AI coding tools are contributing to the popularity of JavaScript",
+      "summary": "In August 2025, TypeScript became the most used language on GitHub. This was the largest shift in GitHub’s language rankings in the last ten years and it occurred during the period of most accelerated adoption of coding AI agents.",
+      "source": "AI News",
+      "published": "2026-08-21T08:41:29+00:00",
+      "link": "https://www.artificialintelligence-news.com/news/how-ai-coding-tools-are-contributing-to-the-popularity-of-javascript/"
     },
     {
       "title": "Nvidia is acquiring Poolside's \"Model Factory\" and 109 employees for $6 billion",
@@ -37,15 +79,8 @@ const FEED_DATA = {
       "link": "https://the-decoder.com/openais-gpt-image-2-can-now-generate-images-without-a-background/"
     },
     {
-      "title": "AI companies destroy physical books – let's scan rare books before it's too late",
-      "summary": "Article URL: https://annas-archive.gl/blog/physical-destruction.html Comments URL: https://news.ycombinator.com/item?id=49383026 Points: 328 # Comments: 233",
-      "source": "Hacker News",
-      "published": "2026-08-21T02:37:47+00:00",
-      "link": "https://annas-archive.gl/blog/physical-destruction.html"
-    },
-    {
       "title": "Copyright does not protect AI-generated content in EU",
-      "summary": "Article URL: https://mathstodon.xyz/@maxpool/117128107757895678 Comments URL: https://news.ycombinator.com/item?id=49382041 Points: 170 # Comments: 185",
+      "summary": "Article URL: https://mathstodon.xyz/@maxpool/117128107757895678 Comments URL: https://news.ycombinator.com/item?id=49382041 Points: 181 # Comments: 194",
       "source": "Hacker News",
       "published": "2026-08-21T00:15:12+00:00",
       "link": "https://mathstodon.xyz/@maxpool/117128107757895678"
@@ -171,7 +206,7 @@ const FEED_DATA = {
     },
     {
       "title": "Vomit: Clean up Claude 5's token output with a separate LLM",
-      "summary": "Article URL: https://github.com/zachahn/vomit Comments URL: https://news.ycombinator.com/item?id=49375996 Points: 253 # Comments: 249",
+      "summary": "Article URL: https://github.com/zachahn/vomit Comments URL: https://news.ycombinator.com/item?id=49375996 Points: 276 # Comments: 273",
       "source": "Hacker News",
       "published": "2026-08-20T15:26:02+00:00",
       "link": "https://github.com/zachahn/vomit"
@@ -185,7 +220,7 @@ const FEED_DATA = {
     },
     {
       "title": "Anti-AI fonts are useless and harmful",
-      "summary": "Article URL: https://blog.yaros.ae/anti-ai-fonts-are-useless-and-harmful/ Comments URL: https://news.ycombinator.com/item?id=49375719 Points: 162 # Comments: 116",
+      "summary": "Article URL: https://blog.yaros.ae/anti-ai-fonts-are-useless-and-harmful/ Comments URL: https://news.ycombinator.com/item?id=49375719 Points: 187 # Comments: 143",
       "source": "Hacker News",
       "published": "2026-08-20T15:06:53+00:00",
       "link": "https://blog.yaros.ae/anti-ai-fonts-are-useless-and-harmful/"
@@ -255,7 +290,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI didn't erase the junior engineer's value, it increased it it",
-      "summary": "Article URL: https://franciscotrindade.me/blog/the-kids-are-really-alright/ Comments URL: https://news.ycombinator.com/item?id=49373269 Points: 84 # Comments: 138",
+      "summary": "Article URL: https://franciscotrindade.me/blog/the-kids-are-really-alright/ Comments URL: https://news.ycombinator.com/item?id=49373269 Points: 87 # Comments: 139",
       "source": "Hacker News",
       "published": "2026-08-20T11:42:20+00:00",
       "link": "https://franciscotrindade.me/blog/the-kids-are-really-alright/"
@@ -318,7 +353,7 @@ const FEED_DATA = {
     },
     {
       "title": "Don't paste the AI, please",
-      "summary": "Article URL: https://dontpastetheai.com/ Comments URL: https://news.ycombinator.com/item?id=49371857 Points: 1012 # Comments: 561",
+      "summary": "Article URL: https://dontpastetheai.com/ Comments URL: https://news.ycombinator.com/item?id=49371857 Points: 1020 # Comments: 568",
       "source": "Hacker News",
       "published": "2026-08-20T08:20:44+00:00",
       "link": "https://dontpastetheai.com/"
@@ -465,7 +500,7 @@ const FEED_DATA = {
     },
     {
       "title": "Mathematics in the age of AI",
-      "summary": "Article URL: https://arxiv.org/abs/2608.16753 Comments URL: https://news.ycombinator.com/item?id=49362728 Points: 206 # Comments: 253",
+      "summary": "Article URL: https://arxiv.org/abs/2608.16753 Comments URL: https://news.ycombinator.com/item?id=49362728 Points: 207 # Comments: 254",
       "source": "Hacker News",
       "published": "2026-08-19T15:14:25+00:00",
       "link": "https://arxiv.org/abs/2608.16753"
@@ -548,18 +583,18 @@ const FEED_DATA = {
       "link": "https://techcrunch.com/2026/08/19/relativity-networks-raises-22-million-to-bring-a-faster-kind-of-fiber-to-data-centers/"
     },
     {
-      "title": "Child-monitoring apps might need a reboot",
-      "summary": "Pam Wisniewski’s digital adolescence showed her the best and the worst of the internet. At 14, she left an abusive home, where she’d been isolated in a fifth-wheel trailer at the end of a seven-­mile dirt road.",
-      "source": "MIT Tech Review",
-      "published": "2026-08-19T09:00:00+00:00",
-      "link": "https://www.technologyreview.com/2026/08/19/1141623/child-monitoring-apps-need-reboot/"
-    },
-    {
       "title": "Flock Has a Powerful New AI Tool for Police. We Got Its Code",
       "summary": "Flock’s surveillance cameras have already sparked outrage. WIRED reconstructed its next-generation AI system, already in use by some police, to confirm it goes much further than tracking license plates.",
       "source": "Wired",
       "published": "2026-08-19T09:00:00+00:00",
       "link": "https://www.wired.com/story/flock-safety-os-investigate/"
+    },
+    {
+      "title": "Child-monitoring apps might need a reboot",
+      "summary": "Pam Wisniewski’s digital adolescence showed her the best and the worst of the internet. At 14, she left an abusive home, where she’d been isolated in a fifth-wheel trailer at the end of a seven-­mile dirt road.",
+      "source": "MIT Tech Review",
+      "published": "2026-08-19T09:00:00+00:00",
+      "link": "https://www.technologyreview.com/2026/08/19/1141623/child-monitoring-apps-need-reboot/"
     },
     {
       "title": "Cursor capitalizes on GitHub frustration, launches rival hosting platform",
@@ -570,7 +605,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI usage patterns in software teams",
-      "summary": "Article URL: https://linear.app/data Comments URL: https://news.ycombinator.com/item?id=49353432 Points: 196 # Comments: 115",
+      "summary": "Article URL: https://linear.app/data Comments URL: https://news.ycombinator.com/item?id=49353432 Points: 197 # Comments: 115",
       "source": "Hacker News",
       "published": "2026-08-18T22:08:07+00:00",
       "link": "https://linear.app/data"
@@ -857,14 +892,14 @@ const FEED_DATA = {
     },
     {
       "title": "Israel creates fake think tank in likely attempt to dupe AI chatbots",
-      "summary": "Article URL: https://responsiblestatecraft.org/israel-influence-chatgpt/ Comments URL: https://news.ycombinator.com/item?id=49337392 Points: 1053 # Comments: 851",
+      "summary": "Article URL: https://responsiblestatecraft.org/israel-influence-chatgpt/ Comments URL: https://news.ycombinator.com/item?id=49337392 Points: 1053 # Comments: 855",
       "source": "Hacker News",
       "published": "2026-08-17T20:46:10+00:00",
       "link": "https://responsiblestatecraft.org/israel-influence-chatgpt/"
     },
     {
       "title": "AI;DR (AI; Didn't Read)",
-      "summary": "Article URL: https://www.rickmanelius.com/p/aidr-ai-didnt-read Comments URL: https://news.ycombinator.com/item?id=49336573 Points: 1099 # Comments: 688",
+      "summary": "Article URL: https://www.rickmanelius.com/p/aidr-ai-didnt-read Comments URL: https://news.ycombinator.com/item?id=49336573 Points: 1101 # Comments: 689",
       "source": "Hacker News",
       "published": "2026-08-17T19:47:15+00:00",
       "link": "https://www.rickmanelius.com/p/aidr-ai-didnt-read"
@@ -1365,41 +1400,6 @@ const FEED_DATA = {
       "source": "Hacker News",
       "published": "2026-08-15T04:42:07+00:00",
       "link": "https://chenxiachan.github.io/thoughtdag/"
-    },
-    {
-      "title": "Show HN: Deltix – AI Driven Testing",
-      "summary": "Article URL: https://app.deltix.ai Comments URL: https://news.ycombinator.com/item?id=49307099 Points: 54 # Comments: 11",
-      "source": "Hacker News",
-      "published": "2026-08-15T02:42:14+00:00",
-      "link": "https://app.deltix.ai"
-    },
-    {
-      "title": "Anthropic announces watermark detection API that will let third parties detect Claude's AI texts",
-      "summary": "Anthropic will soon offer a watermark detection API that lets third parties check whether text was written by Claude. The technology builds on Google's SynthID method and tweaks the randomness during word selection without affecting text quality, Anthropic says.",
-      "source": "The Decoder",
-      "published": "2026-08-14T21:29:17+00:00",
-      "link": "https://the-decoder.com/anthropic-announces-watermark-detection-api-that-will-let-third-parties-detect-claudes-ai-texts/"
-    },
-    {
-      "title": "PBS station fears losing 50TB of data after being ghosted by cloud storage provider",
-      "summary": "\"We don't have access to the data on the hardware/servers,\" Iron Mountain told Ars.",
-      "source": "Ars Technica",
-      "published": "2026-08-14T17:03:54+00:00",
-      "link": "https://arstechnica.com/information-technology/2026/08/pbs-station-fears-losing-50tb-of-data-after-being-ghosted-by-cloud-storage-provider/"
-    },
-    {
-      "title": "Alibaba's Qwen team releases Qwen 3.8 models with open weights under the Apache 2.0 license",
-      "summary": "Alibaba's AI team Qwen has released new open model weights under the Apache 2.0 license with Qwen 3.8. The dense 27-billion-parameter model is designed to outperform the larger Qwen 3.7 Plus in coding and office tasks and natively processes up to 262,000 tokens of context.",
-      "source": "The Decoder",
-      "published": "2026-08-14T17:01:54+00:00",
-      "link": "https://the-decoder.com/alibabas-qwen-team-releases-qwen-3-8-models-with-open-weights-under-the-apache-2-0-license/"
-    },
-    {
-      "title": "OpenAI's Computer History turns your clicks and keystrokes into a searchable ChatGPT memory timeline",
-      "summary": "OpenAI's Computer History records clicks, keystrokes, and app switches on Mac and turns them into a searchable timeline for ChatGPT and Codex. The data is stored locally as unencrypted Markdown files.",
-      "source": "The Decoder",
-      "published": "2026-08-14T16:43:43+00:00",
-      "link": "https://the-decoder.com/openais-computer-history-turns-your-clicks-and-keystrokes-into-a-searchable-chatgpt-memory-timeline/"
     }
   ]
 };
