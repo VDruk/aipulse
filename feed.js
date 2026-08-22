@@ -1,6 +1,34 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-08-21T21:15:32.965880+00:00",
+  "lastUpdated": "2026-08-22T02:16:22.515341+00:00",
   "items": [
+    {
+      "title": "The Unlikely Place at the Center of China’s AI Boom",
+      "summary": "Cheap energy, abundant land, and proximity to Beijing have turned a city in Inner Mongolia into a crucial hub for data centers.",
+      "source": "Wired",
+      "published": "2026-08-21T23:25:32+00:00",
+      "link": "https://www.wired.com/story/the-unlikely-place-at-the-center-of-chinas-ai-boom/"
+    },
+    {
+      "title": "Anthropic’s Opus 4.6 is a smut-machine",
+      "summary": "Anthropic forbids its Claude models from generating sexually explicit content. But a series of tests conducted by TechCrunch found that it didn't take much to get past the restriction.",
+      "source": "TechCrunch",
+      "published": "2026-08-21T23:07:25+00:00",
+      "link": "https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/"
+    },
+    {
+      "title": "Nvidia partners with data center developer Cloverleaf",
+      "summary": "Nvidia continues to pour money into data center development — just as AI data centers bring lots of money into Nvidia.",
+      "source": "TechCrunch",
+      "published": "2026-08-21T22:37:38+00:00",
+      "link": "https://techcrunch.com/2026/08/21/nvidia-partners-with-data-center-developer-cloverleaf/"
+    },
+    {
+      "title": "Over 1 million people have clicked LinkedIn’s AI slop button",
+      "summary": "LinkedIn actually announced a \"Seems like AI slop\" button on July 30th, and the company says that a lot of people have already used it.",
+      "source": "The Verge",
+      "published": "2026-08-21T21:25:50+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/983502/linkedin-ai-slop-button-one-million-people-message"
+    },
     {
       "title": "Nvidia just showed that the harness, not the AI model, is now the real hero",
       "summary": "Nvidia research shows that AI agents can perform well, and not go off the deep end, through fine-tuning, even if the AI model isn't that great at the task.",
@@ -1372,34 +1400,6 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-08-15T16:30:00+00:00",
       "link": "https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition/"
-    },
-    {
-      "title": "How to tell if your AI platforms’ accounts have been hacked",
-      "summary": "A guide on how to check if hackers have broken into your accounts on the most popular AI platforms.",
-      "source": "TechCrunch",
-      "published": "2026-08-15T16:10:00+00:00",
-      "link": "https://techcrunch.com/2026/08/15/how-to-tell-if-your-ai-platforms-accounts-have-been-hacked/"
-    },
-    {
-      "title": "Investor pressure forces Nvidia to shrink its OpenAI bet just as Anthropic's numbers defy bubble warnings",
-      "summary": "Nvidia has cut its guarantee for OpenAI's planned data center in Ohio nearly in half, from $250 billion to just under $120 billion, after investors pushed back on the risk.",
-      "source": "The Decoder",
-      "published": "2026-08-15T15:41:02+00:00",
-      "link": "https://the-decoder.com/investor-pressure-forces-nvidia-to-shrink-its-openai-bet-just-as-anthropics-numbers-defy-bubble-warnings/"
-    },
-    {
-      "title": "AI Can Now Design Functional Viruses. Should We Worry?",
-      "summary": "Article URL: https://spectrum.ieee.org/ai-designed-virus Comments URL: https://news.ycombinator.com/item?id=49311445 Points: 61 # Comments: 139",
-      "source": "Hacker News",
-      "published": "2026-08-15T15:32:25+00:00",
-      "link": "https://spectrum.ieee.org/ai-designed-virus"
-    },
-    {
-      "title": "Secondhand book sales are booming. Is it because of AI?",
-      "summary": "Article URL: https://www.bbc.co.uk/news/articles/cp3rprx2wl4o Comments URL: https://news.ycombinator.com/item?id=49310725 Points: 69 # Comments: 73",
-      "source": "Hacker News",
-      "published": "2026-08-15T14:08:55+00:00",
-      "link": "https://www.bbc.co.uk/news/articles/cp3rprx2wl4o"
     }
   ]
 };
