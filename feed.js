@@ -1,6 +1,13 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-08-22T17:16:52.980360+00:00",
+  "lastUpdated": "2026-08-22T21:13:45.743109+00:00",
   "items": [
+    {
+      "title": "Inherent, founded by DeepMind alumni, says its AI ‘teammate’ just outperformed Anthropic and OpenAI at replicating research",
+      "summary": "Built by DeepMind alumni, British AI lab Inherent released Faraday, an AI agent whose ability to replicate scientific papers could be a stepping stone for innovation.",
+      "source": "TechCrunch",
+      "published": "2026-08-22T19:00:00+00:00",
+      "link": "https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/"
+    },
     {
       "title": "OpenAI says California should strengthen its AI safety bill",
       "summary": "OpenAI is calling for California to strengthen SB 53, an AI safety bill that the company previously opposed.",
@@ -52,7 +59,7 @@ const FEED_DATA = {
     },
     {
       "title": "GPT 5.6 Sol 20% price reduction",
-      "summary": "Article URL: https://developers.openai.com/api/docs/models/gpt-5.6-sol Comments URL: https://news.ycombinator.com/item?id=49396590 Points: 78 # Comments: 68",
+      "summary": "Article URL: https://developers.openai.com/api/docs/models/gpt-5.6-sol Comments URL: https://news.ycombinator.com/item?id=49396590 Points: 85 # Comments: 76",
       "source": "Hacker News",
       "published": "2026-08-22T04:33:06+00:00",
       "link": "https://developers.openai.com/api/docs/models/gpt-5.6-sol"
@@ -135,6 +142,13 @@ const FEED_DATA = {
       "link": "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/"
     },
     {
+      "title": "How a Texas student blew the whistle on a rogue AI hacking attempt",
+      "summary": "Article URL: https://www.reuters.com/world/how-texas-student-blew-whistle-rogue-ai-hacking-attempt-2026-08-20/ Comments URL: https://news.ycombinator.com/item?id=49387959 Points: 58 # Comments: 6",
+      "source": "Hacker News",
+      "published": "2026-08-21T13:43:33+00:00",
+      "link": "https://www.reuters.com/world/how-texas-student-blew-whistle-rogue-ai-hacking-attempt-2026-08-20/"
+    },
+    {
       "title": "Major YouTube creators are facing backlash for accepting AI money",
       "summary": "Over the past few days, a number of prominent filmmaking content creators including Matti Haapoja and Sam \"Kold\" Kolder have posted videos of themselves demonstrating what's possible with AI platform Higgsfield.",
       "source": "The Verge",
@@ -143,7 +157,7 @@ const FEED_DATA = {
     },
     {
       "title": "What Happens When the Cost of Intelligence Drops 100x",
-      "summary": "Article URL: https://catalystneuro.com/blog/cost-of-intelligence-drops-100x/ Comments URL: https://news.ycombinator.com/item?id=49387735 Points: 123 # Comments: 134",
+      "summary": "Article URL: https://catalystneuro.com/blog/cost-of-intelligence-drops-100x/ Comments URL: https://news.ycombinator.com/item?id=49387735 Points: 124 # Comments: 134",
       "source": "Hacker News",
       "published": "2026-08-21T13:24:28+00:00",
       "link": "https://catalystneuro.com/blog/cost-of-intelligence-drops-100x/"
@@ -164,7 +178,7 @@ const FEED_DATA = {
     },
     {
       "title": "I'm becoming AI-blind",
-      "summary": "Article URL: https://cymerys.com/w/im-becoming-ai-blind Comments URL: https://news.ycombinator.com/item?id=49386699 Points: 412 # Comments: 418",
+      "summary": "Article URL: https://cymerys.com/w/im-becoming-ai-blind Comments URL: https://news.ycombinator.com/item?id=49386699 Points: 472 # Comments: 477",
       "source": "Hacker News",
       "published": "2026-08-21T11:48:05+00:00",
       "link": "https://cymerys.com/w/im-becoming-ai-blind"
@@ -234,14 +248,14 @@ const FEED_DATA = {
     },
     {
       "title": "AI companies destroy physical books – let's scan rare books before it's too late",
-      "summary": "Article URL: https://annas-archive.gl/blog/physical-destruction.html Comments URL: https://news.ycombinator.com/item?id=49383026 Points: 578 # Comments: 858",
+      "summary": "Article URL: https://annas-archive.gl/blog/physical-destruction.html Comments URL: https://news.ycombinator.com/item?id=49383026 Points: 600 # Comments: 885",
       "source": "Hacker News",
       "published": "2026-08-21T02:37:47+00:00",
       "link": "https://annas-archive.gl/blog/physical-destruction.html"
     },
     {
       "title": "Copyright does not protect AI-generated content in EU",
-      "summary": "Article URL: https://mathstodon.xyz/@maxpool/117128107757895678 Comments URL: https://news.ycombinator.com/item?id=49382041 Points: 186 # Comments: 208",
+      "summary": "Article URL: https://mathstodon.xyz/@maxpool/117128107757895678 Comments URL: https://news.ycombinator.com/item?id=49382041 Points: 187 # Comments: 209",
       "source": "Hacker News",
       "published": "2026-08-21T00:15:12+00:00",
       "link": "https://mathstodon.xyz/@maxpool/117128107757895678"
@@ -374,7 +388,7 @@ const FEED_DATA = {
     },
     {
       "title": "Vomit: Clean up Claude 5's token output with a separate LLM",
-      "summary": "Article URL: https://github.com/zachahn/vomit Comments URL: https://news.ycombinator.com/item?id=49375996 Points: 300 # Comments: 291",
+      "summary": "Article URL: https://github.com/zachahn/vomit Comments URL: https://news.ycombinator.com/item?id=49375996 Points: 302 # Comments: 293",
       "source": "Hacker News",
       "published": "2026-08-20T15:26:02+00:00",
       "link": "https://github.com/zachahn/vomit"
@@ -388,7 +402,7 @@ const FEED_DATA = {
     },
     {
       "title": "Anti-AI fonts are useless and harmful",
-      "summary": "Article URL: https://blog.yaros.ae/anti-ai-fonts-are-useless-and-harmful/ Comments URL: https://news.ycombinator.com/item?id=49375719 Points: 210 # Comments: 160",
+      "summary": "Article URL: https://blog.yaros.ae/anti-ai-fonts-are-useless-and-harmful/ Comments URL: https://news.ycombinator.com/item?id=49375719 Points: 210 # Comments: 163",
       "source": "Hacker News",
       "published": "2026-08-20T15:06:53+00:00",
       "link": "https://blog.yaros.ae/anti-ai-fonts-are-useless-and-harmful/"
@@ -521,7 +535,7 @@ const FEED_DATA = {
     },
     {
       "title": "Don't paste the AI, please",
-      "summary": "Article URL: https://dontpastetheai.com/ Comments URL: https://news.ycombinator.com/item?id=49371857 Points: 1039 # Comments: 578",
+      "summary": "Article URL: https://dontpastetheai.com/ Comments URL: https://news.ycombinator.com/item?id=49371857 Points: 1041 # Comments: 579",
       "source": "Hacker News",
       "published": "2026-08-20T08:20:44+00:00",
       "link": "https://dontpastetheai.com/"
@@ -668,7 +682,7 @@ const FEED_DATA = {
     },
     {
       "title": "Mathematics in the age of AI",
-      "summary": "Article URL: https://arxiv.org/abs/2608.16753 Comments URL: https://news.ycombinator.com/item?id=49362728 Points: 207 # Comments: 261",
+      "summary": "Article URL: https://arxiv.org/abs/2608.16753 Comments URL: https://news.ycombinator.com/item?id=49362728 Points: 208 # Comments: 265",
       "source": "Hacker News",
       "published": "2026-08-19T15:14:25+00:00",
       "link": "https://arxiv.org/abs/2608.16753"
@@ -1060,14 +1074,14 @@ const FEED_DATA = {
     },
     {
       "title": "Israel creates fake think tank in likely attempt to dupe AI chatbots",
-      "summary": "Article URL: https://responsiblestatecraft.org/israel-influence-chatgpt/ Comments URL: https://news.ycombinator.com/item?id=49337392 Points: 1054 # Comments: 860",
+      "summary": "Article URL: https://responsiblestatecraft.org/israel-influence-chatgpt/ Comments URL: https://news.ycombinator.com/item?id=49337392 Points: 1054 # Comments: 861",
       "source": "Hacker News",
       "published": "2026-08-17T20:46:10+00:00",
       "link": "https://responsiblestatecraft.org/israel-influence-chatgpt/"
     },
     {
       "title": "AI;DR (AI; Didn't Read)",
-      "summary": "Article URL: https://www.rickmanelius.com/p/aidr-ai-didnt-read Comments URL: https://news.ycombinator.com/item?id=49336573 Points: 1105 # Comments: 690",
+      "summary": "Article URL: https://www.rickmanelius.com/p/aidr-ai-didnt-read Comments URL: https://news.ycombinator.com/item?id=49336573 Points: 1107 # Comments: 690",
       "source": "Hacker News",
       "published": "2026-08-17T19:47:15+00:00",
       "link": "https://www.rickmanelius.com/p/aidr-ai-didnt-read"
@@ -1386,20 +1400,6 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-08-16T07:20:06+00:00",
       "link": "https://the-decoder.com/anthropics-bio-weapons-filter-was-down-for-nearly-a-year-exposing-133-million-requests/"
-    },
-    {
-      "title": "Optima tackles AI benchmarking's biggest flaw by letting users test models against their own data",
-      "summary": "Artificial Analysis has launched Optima, a platform that lets users build custom AI benchmarks from their own data and workflows. Models can be compared not just on quality but also on cost and time per task.",
-      "source": "The Decoder",
-      "published": "2026-08-16T05:50:50+00:00",
-      "link": "https://the-decoder.com/optima-tackles-ai-benchmarkings-biggest-flaw-by-letting-users-test-models-against-their-own-data/"
-    },
-    {
-      "title": "One in five US workers now delegates tasks to AI instead of colleagues, survey finds",
-      "summary": "A representative survey by Epoch AI found that 20 percent of employed Americans hand off at least one task to AI that a human used to do. Generally, they accept AI output with little to no editing.",
-      "source": "The Decoder",
-      "published": "2026-08-16T05:00:00+00:00",
-      "link": "https://the-decoder.com/one-in-five-us-workers-now-delegates-tasks-to-ai-instead-of-colleagues-survey-finds/"
     }
   ]
 };
