@@ -1,6 +1,13 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-08-22T09:14:43.842175+00:00",
+  "lastUpdated": "2026-08-22T13:35:09.088691+00:00",
   "items": [
+    {
+      "title": "Study explains why AI agents benefit from \"skills\" and when they fail",
+      "summary": "A study from researchers at Princeton University and UC San Diego finds that so-called skills make AI agents better mainly through structured workflows, not through added knowledge.",
+      "source": "The Decoder",
+      "published": "2026-08-22T12:15:10+00:00",
+      "link": "https://the-decoder.com/study-explains-why-ai-agents-benefit-from-skills-and-when-they-fail/"
+    },
     {
       "title": "World models that ignore human beliefs predict the wrong actions, new research shows",
       "summary": "Current world models like Sora or Genie only simulate physics and ignore what people think, want, or feel. The new \"Mental World Modeling\" framework adds mental variables like beliefs and intentions.",
@@ -31,7 +38,7 @@ const FEED_DATA = {
     },
     {
       "title": "GPT 5.6 Sol 20% price reduction",
-      "summary": "Article URL: https://developers.openai.com/api/docs/models/gpt-5.6-sol Comments URL: https://news.ycombinator.com/item?id=49396590 Points: 68 # Comments: 54",
+      "summary": "Article URL: https://developers.openai.com/api/docs/models/gpt-5.6-sol Comments URL: https://news.ycombinator.com/item?id=49396590 Points: 78 # Comments: 68",
       "source": "Hacker News",
       "published": "2026-08-22T04:33:06+00:00",
       "link": "https://developers.openai.com/api/docs/models/gpt-5.6-sol"
@@ -94,7 +101,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI boosted homework scores, then exam scores dropped: Study",
-      "summary": "Article URL: https://canews24.online/?p=71 Comments URL: https://news.ycombinator.com/item?id=49389565 Points: 165 # Comments: 9",
+      "summary": "Article URL: https://canews24.online/?p=71 Comments URL: https://news.ycombinator.com/item?id=49389565 Points: 165 # Comments: 10",
       "source": "Hacker News",
       "published": "2026-08-21T15:25:42+00:00",
       "link": "https://canews24.online/?p=71"
@@ -122,7 +129,7 @@ const FEED_DATA = {
     },
     {
       "title": "What Happens When the Cost of Intelligence Drops 100x",
-      "summary": "Article URL: https://catalystneuro.com/blog/cost-of-intelligence-drops-100x/ Comments URL: https://news.ycombinator.com/item?id=49387735 Points: 123 # Comments: 132",
+      "summary": "Article URL: https://catalystneuro.com/blog/cost-of-intelligence-drops-100x/ Comments URL: https://news.ycombinator.com/item?id=49387735 Points: 123 # Comments: 134",
       "source": "Hacker News",
       "published": "2026-08-21T13:24:28+00:00",
       "link": "https://catalystneuro.com/blog/cost-of-intelligence-drops-100x/"
@@ -143,7 +150,7 @@ const FEED_DATA = {
     },
     {
       "title": "I'm becoming AI-blind",
-      "summary": "Article URL: https://cymerys.com/w/im-becoming-ai-blind Comments URL: https://news.ycombinator.com/item?id=49386699 Points: 358 # Comments: 358",
+      "summary": "Article URL: https://cymerys.com/w/im-becoming-ai-blind Comments URL: https://news.ycombinator.com/item?id=49386699 Points: 412 # Comments: 418",
       "source": "Hacker News",
       "published": "2026-08-21T11:48:05+00:00",
       "link": "https://cymerys.com/w/im-becoming-ai-blind"
@@ -161,13 +168,6 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-08-21T10:54:41+00:00",
       "link": "https://the-decoder.com/meta-spends-hundreds-of-millions-on-microsofts-ai-services/"
-    },
-    {
-      "title": "AI companies destroy physical books – let's scan rare books before it's too late",
-      "summary": "Article URL: https://annas-archive.pk/blog/physical-destruction.html Comments URL: https://news.ycombinator.com/item?id=49385994 Points: 703 # Comments: 2",
-      "source": "Hacker News",
-      "published": "2026-08-21T10:05:46+00:00",
-      "link": "https://annas-archive.pk/blog/physical-destruction.html"
     },
     {
       "title": "Anthropic changes data retention policy after enterprise pushback",
@@ -219,8 +219,15 @@ const FEED_DATA = {
       "link": "https://the-decoder.com/openais-gpt-image-2-can-now-generate-images-without-a-background/"
     },
     {
+      "title": "AI companies destroy physical books – let's scan rare books before it's too late",
+      "summary": "Article URL: https://annas-archive.gl/blog/physical-destruction.html Comments URL: https://news.ycombinator.com/item?id=49383026 Points: 578 # Comments: 858",
+      "source": "Hacker News",
+      "published": "2026-08-21T02:37:47+00:00",
+      "link": "https://annas-archive.gl/blog/physical-destruction.html"
+    },
+    {
       "title": "Copyright does not protect AI-generated content in EU",
-      "summary": "Article URL: https://mathstodon.xyz/@maxpool/117128107757895678 Comments URL: https://news.ycombinator.com/item?id=49382041 Points: 186 # Comments: 207",
+      "summary": "Article URL: https://mathstodon.xyz/@maxpool/117128107757895678 Comments URL: https://news.ycombinator.com/item?id=49382041 Points: 186 # Comments: 208",
       "source": "Hacker News",
       "published": "2026-08-21T00:15:12+00:00",
       "link": "https://mathstodon.xyz/@maxpool/117128107757895678"
@@ -353,7 +360,7 @@ const FEED_DATA = {
     },
     {
       "title": "Vomit: Clean up Claude 5's token output with a separate LLM",
-      "summary": "Article URL: https://github.com/zachahn/vomit Comments URL: https://news.ycombinator.com/item?id=49375996 Points: 297 # Comments: 291",
+      "summary": "Article URL: https://github.com/zachahn/vomit Comments URL: https://news.ycombinator.com/item?id=49375996 Points: 300 # Comments: 291",
       "source": "Hacker News",
       "published": "2026-08-20T15:26:02+00:00",
       "link": "https://github.com/zachahn/vomit"
@@ -367,7 +374,7 @@ const FEED_DATA = {
     },
     {
       "title": "Anti-AI fonts are useless and harmful",
-      "summary": "Article URL: https://blog.yaros.ae/anti-ai-fonts-are-useless-and-harmful/ Comments URL: https://news.ycombinator.com/item?id=49375719 Points: 207 # Comments: 161",
+      "summary": "Article URL: https://blog.yaros.ae/anti-ai-fonts-are-useless-and-harmful/ Comments URL: https://news.ycombinator.com/item?id=49375719 Points: 210 # Comments: 160",
       "source": "Hacker News",
       "published": "2026-08-20T15:06:53+00:00",
       "link": "https://blog.yaros.ae/anti-ai-fonts-are-useless-and-harmful/"
@@ -1393,13 +1400,6 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-08-15T21:29:19+00:00",
       "link": "https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery/"
-    },
-    {
-      "title": "Have a laugh at AI’s expense by roleplaying as a chatbot",
-      "summary": "Your AI Slop Bores Me is brilliant in its simplicity. There are two tabs: human and LARP as an AI.",
-      "source": "The Verge",
-      "published": "2026-08-15T20:45:00+00:00",
-      "link": "https://www.theverge.com/entertainment/980502/roleplay-as-an-ai-chatbot"
     }
   ]
 };
