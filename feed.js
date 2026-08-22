@@ -1,6 +1,41 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-08-22T05:29:17.154669+00:00",
+  "lastUpdated": "2026-08-22T09:14:43.842175+00:00",
   "items": [
+    {
+      "title": "World models that ignore human beliefs predict the wrong actions, new research shows",
+      "summary": "Current world models like Sora or Genie only simulate physics and ignore what people think, want, or feel. The new \"Mental World Modeling\" framework adds mental variables like beliefs and intentions.",
+      "source": "The Decoder",
+      "published": "2026-08-22T09:00:20+00:00",
+      "link": "https://the-decoder.com/world-models-that-ignore-human-beliefs-predict-the-wrong-actions-new-research-shows/"
+    },
+    {
+      "title": "RayNeo's new AI glasses skip the camera, focus on text overlays",
+      "summary": "RayNeo is launching a new headset without a camera or speakers. The article RayNeo's new AI glasses skip the camera, focus on text overlays appeared first on The Decoder.",
+      "source": "The Decoder",
+      "published": "2026-08-22T08:00:14+00:00",
+      "link": "https://the-decoder.com/rayneos-new-ai-glasses-skip-the-camera-focus-on-text-overlays/"
+    },
+    {
+      "title": "Netflix tests language model as alternative to hand-built recommendation logic",
+      "summary": "Netflix pitted its years-old recommendation engine against an in-house language model called GenRec and says it got better results. Instead of relying on thousands of hand-crafted features, GenRec converts viewing behavior into plain text.",
+      "source": "The Decoder",
+      "published": "2026-08-22T07:30:16+00:00",
+      "link": "https://the-decoder.com/netflix-tests-language-model-as-alternative-to-hand-built-recommendation-logic/"
+    },
+    {
+      "title": "Psychological methods reveal major weaknesses in AI security testing",
+      "summary": "Researchers at the UK AI Security Institute used psychometric methods to show that popular safety benchmarks for language models don't measure one consistent trait. Blanket blocking of requests can artificially inflate a safety score even as the model gets less useful day to day.",
+      "source": "The Decoder",
+      "published": "2026-08-22T07:00:05+00:00",
+      "link": "https://the-decoder.com/psychological-methods-reveal-major-weaknesses-in-ai-security-testing/"
+    },
+    {
+      "title": "GPT 5.6 Sol 20% price reduction",
+      "summary": "Article URL: https://developers.openai.com/api/docs/models/gpt-5.6-sol Comments URL: https://news.ycombinator.com/item?id=49396590 Points: 68 # Comments: 54",
+      "source": "Hacker News",
+      "published": "2026-08-22T04:33:06+00:00",
+      "link": "https://developers.openai.com/api/docs/models/gpt-5.6-sol"
+    },
     {
       "title": "The Unlikely Place at the Center of China’s AI Boom",
       "summary": "Cheap energy, abundant land, and proximity to Beijing have turned a city in Inner Mongolia into a crucial hub for data centers.",
@@ -87,7 +122,7 @@ const FEED_DATA = {
     },
     {
       "title": "What Happens When the Cost of Intelligence Drops 100x",
-      "summary": "Article URL: https://catalystneuro.com/blog/cost-of-intelligence-drops-100x/ Comments URL: https://news.ycombinator.com/item?id=49387735 Points: 121 # Comments: 128",
+      "summary": "Article URL: https://catalystneuro.com/blog/cost-of-intelligence-drops-100x/ Comments URL: https://news.ycombinator.com/item?id=49387735 Points: 123 # Comments: 132",
       "source": "Hacker News",
       "published": "2026-08-21T13:24:28+00:00",
       "link": "https://catalystneuro.com/blog/cost-of-intelligence-drops-100x/"
@@ -108,7 +143,7 @@ const FEED_DATA = {
     },
     {
       "title": "I'm becoming AI-blind",
-      "summary": "Article URL: https://cymerys.com/w/im-becoming-ai-blind Comments URL: https://news.ycombinator.com/item?id=49386699 Points: 317 # Comments: 324",
+      "summary": "Article URL: https://cymerys.com/w/im-becoming-ai-blind Comments URL: https://news.ycombinator.com/item?id=49386699 Points: 358 # Comments: 358",
       "source": "Hacker News",
       "published": "2026-08-21T11:48:05+00:00",
       "link": "https://cymerys.com/w/im-becoming-ai-blind"
@@ -185,7 +220,7 @@ const FEED_DATA = {
     },
     {
       "title": "Copyright does not protect AI-generated content in EU",
-      "summary": "Article URL: https://mathstodon.xyz/@maxpool/117128107757895678 Comments URL: https://news.ycombinator.com/item?id=49382041 Points: 186 # Comments: 208",
+      "summary": "Article URL: https://mathstodon.xyz/@maxpool/117128107757895678 Comments URL: https://news.ycombinator.com/item?id=49382041 Points: 186 # Comments: 207",
       "source": "Hacker News",
       "published": "2026-08-21T00:15:12+00:00",
       "link": "https://mathstodon.xyz/@maxpool/117128107757895678"
@@ -318,7 +353,7 @@ const FEED_DATA = {
     },
     {
       "title": "Vomit: Clean up Claude 5's token output with a separate LLM",
-      "summary": "Article URL: https://github.com/zachahn/vomit Comments URL: https://news.ycombinator.com/item?id=49375996 Points: 296 # Comments: 291",
+      "summary": "Article URL: https://github.com/zachahn/vomit Comments URL: https://news.ycombinator.com/item?id=49375996 Points: 297 # Comments: 291",
       "source": "Hacker News",
       "published": "2026-08-20T15:26:02+00:00",
       "link": "https://github.com/zachahn/vomit"
@@ -332,7 +367,7 @@ const FEED_DATA = {
     },
     {
       "title": "Anti-AI fonts are useless and harmful",
-      "summary": "Article URL: https://blog.yaros.ae/anti-ai-fonts-are-useless-and-harmful/ Comments URL: https://news.ycombinator.com/item?id=49375719 Points: 204 # Comments: 161",
+      "summary": "Article URL: https://blog.yaros.ae/anti-ai-fonts-are-useless-and-harmful/ Comments URL: https://news.ycombinator.com/item?id=49375719 Points: 207 # Comments: 161",
       "source": "Hacker News",
       "published": "2026-08-20T15:06:53+00:00",
       "link": "https://blog.yaros.ae/anti-ai-fonts-are-useless-and-harmful/"
@@ -402,7 +437,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI didn't erase the junior engineer's value, it increased it it",
-      "summary": "Article URL: https://franciscotrindade.me/blog/the-kids-are-really-alright/ Comments URL: https://news.ycombinator.com/item?id=49373269 Points: 89 # Comments: 144",
+      "summary": "Article URL: https://franciscotrindade.me/blog/the-kids-are-really-alright/ Comments URL: https://news.ycombinator.com/item?id=49373269 Points: 89 # Comments: 143",
       "source": "Hacker News",
       "published": "2026-08-20T11:42:20+00:00",
       "link": "https://franciscotrindade.me/blog/the-kids-are-really-alright/"
@@ -465,7 +500,7 @@ const FEED_DATA = {
     },
     {
       "title": "Don't paste the AI, please",
-      "summary": "Article URL: https://dontpastetheai.com/ Comments URL: https://news.ycombinator.com/item?id=49371857 Points: 1033 # Comments: 576",
+      "summary": "Article URL: https://dontpastetheai.com/ Comments URL: https://news.ycombinator.com/item?id=49371857 Points: 1039 # Comments: 578",
       "source": "Hacker News",
       "published": "2026-08-20T08:20:44+00:00",
       "link": "https://dontpastetheai.com/"
@@ -612,7 +647,7 @@ const FEED_DATA = {
     },
     {
       "title": "Mathematics in the age of AI",
-      "summary": "Article URL: https://arxiv.org/abs/2608.16753 Comments URL: https://news.ycombinator.com/item?id=49362728 Points: 207 # Comments: 259",
+      "summary": "Article URL: https://arxiv.org/abs/2608.16753 Comments URL: https://news.ycombinator.com/item?id=49362728 Points: 207 # Comments: 261",
       "source": "Hacker News",
       "published": "2026-08-19T15:14:25+00:00",
       "link": "https://arxiv.org/abs/2608.16753"
@@ -724,7 +759,7 @@ const FEED_DATA = {
     },
     {
       "title": "GLM-5.3 Artificial Analysis Benchmarks",
-      "summary": "Article URL: https://artificialanalysis.ai/models/glm-5-3 Comments URL: https://news.ycombinator.com/item?id=49353407 Points: 151 # Comments: 55",
+      "summary": "Article URL: https://artificialanalysis.ai/models/glm-5-3 Comments URL: https://news.ycombinator.com/item?id=49353407 Points: 152 # Comments: 55",
       "source": "Hacker News",
       "published": "2026-08-18T22:06:10+00:00",
       "link": "https://artificialanalysis.ai/models/glm-5-3"
@@ -990,7 +1025,7 @@ const FEED_DATA = {
     },
     {
       "title": "GPT-5.6 Sol Pricing Cut by 50% on OpenRouter",
-      "summary": "Article URL: https://openrouter.ai/openai/gpt-5.6-sol Comments URL: https://news.ycombinator.com/item?id=49337602 Points: 633 # Comments: 448",
+      "summary": "Article URL: https://openrouter.ai/openai/gpt-5.6-sol Comments URL: https://news.ycombinator.com/item?id=49337602 Points: 634 # Comments: 448",
       "source": "Hacker News",
       "published": "2026-08-17T21:03:18+00:00",
       "link": "https://openrouter.ai/openai/gpt-5.6-sol"
@@ -1365,41 +1400,6 @@ const FEED_DATA = {
       "source": "The Verge",
       "published": "2026-08-15T20:45:00+00:00",
       "link": "https://www.theverge.com/entertainment/980502/roleplay-as-an-ai-chatbot"
-    },
-    {
-      "title": "AI in drug discovery – what it is, where we stand and the path forward",
-      "summary": "https://www.nature.com/articles/s41573-026-01496-2 Comments URL: https://news.ycombinator.com/item?id=49313367 Points: 184 # Comments: 91",
-      "source": "Hacker News",
-      "published": "2026-08-15T19:12:53+00:00",
-      "link": "https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really"
-    },
-    {
-      "title": "Anthropic shares more details about how Claude’s new watermarks will work",
-      "summary": "How will the watermarking actually work? Can it be hidden with editing?",
-      "source": "TechCrunch",
-      "published": "2026-08-15T18:58:39+00:00",
-      "link": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/"
-    },
-    {
-      "title": "AI isn’t outthinking mathematicians, it’s out-remembering them",
-      "summary": "Article URL: https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians Comments URL: https://news.ycombinator.com/item?id=49312845 Points: 626 # Comments: 496",
-      "source": "Hacker News",
-      "published": "2026-08-15T18:13:02+00:00",
-      "link": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians"
-    },
-    {
-      "title": "AI has access to a vastly larger working memory than the human brain",
-      "summary": "Article URL: https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians Comments URL: https://news.ycombinator.com/item?id=49312845 Points: 529 # Comments: 455",
-      "source": "Hacker News",
-      "published": "2026-08-15T18:13:02+00:00",
-      "link": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians"
-    },
-    {
-      "title": "SpaceX officially closes its Cursor acquisition",
-      "summary": "AI coding startup Cursor is now officially a part of SpaceX.",
-      "source": "TechCrunch",
-      "published": "2026-08-15T16:30:00+00:00",
-      "link": "https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition/"
     }
   ]
 };
