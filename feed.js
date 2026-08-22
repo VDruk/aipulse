@@ -1,5 +1,5 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-08-22T02:16:22.515341+00:00",
+  "lastUpdated": "2026-08-22T05:29:17.154669+00:00",
   "items": [
     {
       "title": "The Unlikely Place at the Center of China’s AI Boom",
@@ -87,7 +87,7 @@ const FEED_DATA = {
     },
     {
       "title": "What Happens When the Cost of Intelligence Drops 100x",
-      "summary": "Article URL: https://catalystneuro.com/blog/cost-of-intelligence-drops-100x/ Comments URL: https://news.ycombinator.com/item?id=49387735 Points: 113 # Comments: 120",
+      "summary": "Article URL: https://catalystneuro.com/blog/cost-of-intelligence-drops-100x/ Comments URL: https://news.ycombinator.com/item?id=49387735 Points: 121 # Comments: 128",
       "source": "Hacker News",
       "published": "2026-08-21T13:24:28+00:00",
       "link": "https://catalystneuro.com/blog/cost-of-intelligence-drops-100x/"
@@ -108,7 +108,7 @@ const FEED_DATA = {
     },
     {
       "title": "I'm becoming AI-blind",
-      "summary": "Article URL: https://cymerys.com/w/im-becoming-ai-blind Comments URL: https://news.ycombinator.com/item?id=49386699 Points: 191 # Comments: 192",
+      "summary": "Article URL: https://cymerys.com/w/im-becoming-ai-blind Comments URL: https://news.ycombinator.com/item?id=49386699 Points: 317 # Comments: 324",
       "source": "Hacker News",
       "published": "2026-08-21T11:48:05+00:00",
       "link": "https://cymerys.com/w/im-becoming-ai-blind"
@@ -129,7 +129,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI companies destroy physical books – let's scan rare books before it's too late",
-      "summary": "Article URL: https://annas-archive.pk/blog/physical-destruction.html Comments URL: https://news.ycombinator.com/item?id=49385994 Points: 696 # Comments: 2",
+      "summary": "Article URL: https://annas-archive.pk/blog/physical-destruction.html Comments URL: https://news.ycombinator.com/item?id=49385994 Points: 703 # Comments: 2",
       "source": "Hacker News",
       "published": "2026-08-21T10:05:46+00:00",
       "link": "https://annas-archive.pk/blog/physical-destruction.html"
@@ -185,7 +185,7 @@ const FEED_DATA = {
     },
     {
       "title": "Copyright does not protect AI-generated content in EU",
-      "summary": "Article URL: https://mathstodon.xyz/@maxpool/117128107757895678 Comments URL: https://news.ycombinator.com/item?id=49382041 Points: 185 # Comments: 208",
+      "summary": "Article URL: https://mathstodon.xyz/@maxpool/117128107757895678 Comments URL: https://news.ycombinator.com/item?id=49382041 Points: 186 # Comments: 208",
       "source": "Hacker News",
       "published": "2026-08-21T00:15:12+00:00",
       "link": "https://mathstodon.xyz/@maxpool/117128107757895678"
@@ -318,7 +318,7 @@ const FEED_DATA = {
     },
     {
       "title": "Vomit: Clean up Claude 5's token output with a separate LLM",
-      "summary": "Article URL: https://github.com/zachahn/vomit Comments URL: https://news.ycombinator.com/item?id=49375996 Points: 294 # Comments: 286",
+      "summary": "Article URL: https://github.com/zachahn/vomit Comments URL: https://news.ycombinator.com/item?id=49375996 Points: 296 # Comments: 291",
       "source": "Hacker News",
       "published": "2026-08-20T15:26:02+00:00",
       "link": "https://github.com/zachahn/vomit"
@@ -332,7 +332,7 @@ const FEED_DATA = {
     },
     {
       "title": "Anti-AI fonts are useless and harmful",
-      "summary": "Article URL: https://blog.yaros.ae/anti-ai-fonts-are-useless-and-harmful/ Comments URL: https://news.ycombinator.com/item?id=49375719 Points: 203 # Comments: 160",
+      "summary": "Article URL: https://blog.yaros.ae/anti-ai-fonts-are-useless-and-harmful/ Comments URL: https://news.ycombinator.com/item?id=49375719 Points: 204 # Comments: 161",
       "source": "Hacker News",
       "published": "2026-08-20T15:06:53+00:00",
       "link": "https://blog.yaros.ae/anti-ai-fonts-are-useless-and-harmful/"
@@ -402,7 +402,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI didn't erase the junior engineer's value, it increased it it",
-      "summary": "Article URL: https://franciscotrindade.me/blog/the-kids-are-really-alright/ Comments URL: https://news.ycombinator.com/item?id=49373269 Points: 89 # Comments: 143",
+      "summary": "Article URL: https://franciscotrindade.me/blog/the-kids-are-really-alright/ Comments URL: https://news.ycombinator.com/item?id=49373269 Points: 89 # Comments: 144",
       "source": "Hacker News",
       "published": "2026-08-20T11:42:20+00:00",
       "link": "https://franciscotrindade.me/blog/the-kids-are-really-alright/"
@@ -465,7 +465,7 @@ const FEED_DATA = {
     },
     {
       "title": "Don't paste the AI, please",
-      "summary": "Article URL: https://dontpastetheai.com/ Comments URL: https://news.ycombinator.com/item?id=49371857 Points: 1027 # Comments: 574",
+      "summary": "Article URL: https://dontpastetheai.com/ Comments URL: https://news.ycombinator.com/item?id=49371857 Points: 1033 # Comments: 576",
       "source": "Hacker News",
       "published": "2026-08-20T08:20:44+00:00",
       "link": "https://dontpastetheai.com/"
@@ -717,14 +717,14 @@ const FEED_DATA = {
     },
     {
       "title": "AI usage patterns in software teams",
-      "summary": "Article URL: https://linear.app/data Comments URL: https://news.ycombinator.com/item?id=49353432 Points: 197 # Comments: 115",
+      "summary": "Article URL: https://linear.app/data Comments URL: https://news.ycombinator.com/item?id=49353432 Points: 198 # Comments: 115",
       "source": "Hacker News",
       "published": "2026-08-18T22:08:07+00:00",
       "link": "https://linear.app/data"
     },
     {
       "title": "GLM-5.3 Artificial Analysis Benchmarks",
-      "summary": "Article URL: https://artificialanalysis.ai/models/glm-5-3 Comments URL: https://news.ycombinator.com/item?id=49353407 Points: 150 # Comments: 55",
+      "summary": "Article URL: https://artificialanalysis.ai/models/glm-5-3 Comments URL: https://news.ycombinator.com/item?id=49353407 Points: 151 # Comments: 55",
       "source": "Hacker News",
       "published": "2026-08-18T22:06:10+00:00",
       "link": "https://artificialanalysis.ai/models/glm-5-3"
@@ -1004,14 +1004,14 @@ const FEED_DATA = {
     },
     {
       "title": "Israel creates fake think tank in likely attempt to dupe AI chatbots",
-      "summary": "Article URL: https://responsiblestatecraft.org/israel-influence-chatgpt/ Comments URL: https://news.ycombinator.com/item?id=49337392 Points: 1054 # Comments: 858",
+      "summary": "Article URL: https://responsiblestatecraft.org/israel-influence-chatgpt/ Comments URL: https://news.ycombinator.com/item?id=49337392 Points: 1054 # Comments: 860",
       "source": "Hacker News",
       "published": "2026-08-17T20:46:10+00:00",
       "link": "https://responsiblestatecraft.org/israel-influence-chatgpt/"
     },
     {
       "title": "AI;DR (AI; Didn't Read)",
-      "summary": "Article URL: https://www.rickmanelius.com/p/aidr-ai-didnt-read Comments URL: https://news.ycombinator.com/item?id=49336573 Points: 1102 # Comments: 690",
+      "summary": "Article URL: https://www.rickmanelius.com/p/aidr-ai-didnt-read Comments URL: https://news.ycombinator.com/item?id=49336573 Points: 1105 # Comments: 690",
       "source": "Hacker News",
       "published": "2026-08-17T19:47:15+00:00",
       "link": "https://www.rickmanelius.com/p/aidr-ai-didnt-read"
