@@ -1,6 +1,20 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-08-23T09:14:46.145168+00:00",
+  "lastUpdated": "2026-08-23T13:33:35.589860+00:00",
   "items": [
+    {
+      "title": "An AI boss fired its first employee but only after humans reminded it of its own rules",
+      "summary": "Andon Labs' AI agent Luna fired a human employee at a San Francisco store for the first time but needed a clear push from the operators to do it.",
+      "source": "The Decoder",
+      "published": "2026-08-23T12:31:59+00:00",
+      "link": "https://the-decoder.com/an-ai-boss-fired-its-first-employee-but-only-after-humans-reminded-it-of-its-own-rules/"
+    },
+    {
+      "title": "AI is becoming AI's biggest customer as agentic token usage jumps 14x on OpenRouter",
+      "summary": "AI agents have consumed more tokens than humans on OpenRouter since February 6, 2025. Agentic usage has grown 14x since then, while human usage is up just 2.8x.",
+      "source": "The Decoder",
+      "published": "2026-08-23T10:02:00+00:00",
+      "link": "https://the-decoder.com/ai-is-becoming-ais-biggest-customer-as-agentic-token-usage-jumps-14x-on-openrouter/"
+    },
     {
       "title": "AI could make scientists do more work less well, not less work better, study argues",
       "summary": "Even if language models worked perfectly, they could make research worse, not better. A new theoretical study argues that because AI saves time, researchers' remaining hours become more valuable and get funneled into starting new projects instead of improving existing ones.",
@@ -38,7 +52,7 @@ const FEED_DATA = {
     },
     {
       "title": "Why your local LLM feels dumber than it is",
-      "summary": "Article URL: https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917 Comments URL: https://news.ycombinator.com/item?id=49402232 Points: 339 # Comments: 118",
+      "summary": "Article URL: https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917 Comments URL: https://news.ycombinator.com/item?id=49402232 Points: 395 # Comments: 157",
       "source": "Hacker News",
       "published": "2026-08-22T18:14:16+00:00",
       "link": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917"
@@ -59,7 +73,7 @@ const FEED_DATA = {
     },
     {
       "title": "Digging the grave of my skills: Hollywood creatives training AI to do their jobs",
-      "summary": "Article URL: https://www.theguardian.com/technology/2026/aug/22/the-hollywood-creatives-training-ai-to-do-their-jobs Comments URL: https://news.ycombinator.com/item?id=49399941 Points: 54 # Comments: 68",
+      "summary": "Article URL: https://www.theguardian.com/technology/2026/aug/22/the-hollywood-creatives-training-ai-to-do-their-jobs Comments URL: https://news.ycombinator.com/item?id=49399941 Points: 54 # Comments: 70",
       "source": "Hacker News",
       "published": "2026-08-22T14:13:05+00:00",
       "link": "https://www.theguardian.com/technology/2026/aug/22/the-hollywood-creatives-training-ai-to-do-their-jobs"
@@ -101,7 +115,7 @@ const FEED_DATA = {
     },
     {
       "title": "GPT 5.6 Sol 20% price reduction",
-      "summary": "Article URL: https://developers.openai.com/api/docs/models/gpt-5.6-sol Comments URL: https://news.ycombinator.com/item?id=49396590 Points: 89 # Comments: 77",
+      "summary": "Article URL: https://developers.openai.com/api/docs/models/gpt-5.6-sol Comments URL: https://news.ycombinator.com/item?id=49396590 Points: 90 # Comments: 77",
       "source": "Hacker News",
       "published": "2026-08-22T04:33:06+00:00",
       "link": "https://developers.openai.com/api/docs/models/gpt-5.6-sol"
@@ -185,7 +199,7 @@ const FEED_DATA = {
     },
     {
       "title": "How a Texas student blew the whistle on a rogue AI hacking attempt",
-      "summary": "Article URL: https://www.reuters.com/world/how-texas-student-blew-whistle-rogue-ai-hacking-attempt-2026-08-20/ Comments URL: https://news.ycombinator.com/item?id=49387959 Points: 155 # Comments: 57",
+      "summary": "Article URL: https://www.reuters.com/world/how-texas-student-blew-whistle-rogue-ai-hacking-attempt-2026-08-20/ Comments URL: https://news.ycombinator.com/item?id=49387959 Points: 181 # Comments: 89",
       "source": "Hacker News",
       "published": "2026-08-21T13:43:33+00:00",
       "link": "https://www.reuters.com/world/how-texas-student-blew-whistle-rogue-ai-hacking-attempt-2026-08-20/"
@@ -199,7 +213,7 @@ const FEED_DATA = {
     },
     {
       "title": "What Happens When the Cost of Intelligence Drops 100x",
-      "summary": "Article URL: https://catalystneuro.com/blog/cost-of-intelligence-drops-100x/ Comments URL: https://news.ycombinator.com/item?id=49387735 Points: 125 # Comments: 135",
+      "summary": "Article URL: https://catalystneuro.com/blog/cost-of-intelligence-drops-100x/ Comments URL: https://news.ycombinator.com/item?id=49387735 Points: 126 # Comments: 137",
       "source": "Hacker News",
       "published": "2026-08-21T13:24:28+00:00",
       "link": "https://catalystneuro.com/blog/cost-of-intelligence-drops-100x/"
@@ -220,7 +234,7 @@ const FEED_DATA = {
     },
     {
       "title": "I'm becoming AI-blind",
-      "summary": "Article URL: https://cymerys.com/w/im-becoming-ai-blind Comments URL: https://news.ycombinator.com/item?id=49386699 Points: 484 # Comments: 484",
+      "summary": "Article URL: https://cymerys.com/w/im-becoming-ai-blind Comments URL: https://news.ycombinator.com/item?id=49386699 Points: 487 # Comments: 487",
       "source": "Hacker News",
       "published": "2026-08-21T11:48:05+00:00",
       "link": "https://cymerys.com/w/im-becoming-ai-blind"
@@ -290,7 +304,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI companies destroy physical books – let's scan rare books before it's too late",
-      "summary": "Article URL: https://annas-archive.gl/blog/physical-destruction.html Comments URL: https://news.ycombinator.com/item?id=49383026 Points: 618 # Comments: 894",
+      "summary": "Article URL: https://annas-archive.gl/blog/physical-destruction.html Comments URL: https://news.ycombinator.com/item?id=49383026 Points: 622 # Comments: 896",
       "source": "Hacker News",
       "published": "2026-08-21T02:37:47+00:00",
       "link": "https://annas-archive.gl/blog/physical-destruction.html"
@@ -430,7 +444,7 @@ const FEED_DATA = {
     },
     {
       "title": "Vomit: Clean up Claude 5's token output with a separate LLM",
-      "summary": "Article URL: https://github.com/zachahn/vomit Comments URL: https://news.ycombinator.com/item?id=49375996 Points: 302 # Comments: 297",
+      "summary": "Article URL: https://github.com/zachahn/vomit Comments URL: https://news.ycombinator.com/item?id=49375996 Points: 303 # Comments: 297",
       "source": "Hacker News",
       "published": "2026-08-20T15:26:02+00:00",
       "link": "https://github.com/zachahn/vomit"
@@ -465,7 +479,7 @@ const FEED_DATA = {
     },
     {
       "title": "Guess which of these LLM outputs is watermarked",
-      "summary": "https://www.seangoedecke.com/readers-cant-identify-watermark... Comments URL: https://news.ycombinator.com/item?id=49374729 Points: 65 # Comments: 74",
+      "summary": "https://www.seangoedecke.com/readers-cant-identify-watermark... Comments URL: https://news.ycombinator.com/item?id=49374729 Points: 66 # Comments: 77",
       "source": "Hacker News",
       "published": "2026-08-20T14:03:58+00:00",
       "link": "https://sgoedecke.github.io/watermark-quiz/"
@@ -584,7 +598,7 @@ const FEED_DATA = {
     },
     {
       "title": "Don't paste the AI, please",
-      "summary": "Article URL: https://dontpastetheai.com/ Comments URL: https://news.ycombinator.com/item?id=49371857 Points: 1043 # Comments: 579",
+      "summary": "Article URL: https://dontpastetheai.com/ Comments URL: https://news.ycombinator.com/item?id=49371857 Points: 1044 # Comments: 579",
       "source": "Hacker News",
       "published": "2026-08-20T08:20:44+00:00",
       "link": "https://dontpastetheai.com/"
@@ -836,7 +850,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI usage patterns in software teams",
-      "summary": "Article URL: https://linear.app/data Comments URL: https://news.ycombinator.com/item?id=49353432 Points: 198 # Comments: 115",
+      "summary": "Article URL: https://linear.app/data Comments URL: https://news.ycombinator.com/item?id=49353432 Points: 199 # Comments: 115",
       "source": "Hacker News",
       "published": "2026-08-18T22:08:07+00:00",
       "link": "https://linear.app/data"
@@ -1386,20 +1400,6 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-08-16T15:31:21+00:00",
       "link": "https://the-decoder.com/top-mathematicians-say-llms-are-strong-calculators-but-poor-creative-thinkers/"
-    },
-    {
-      "title": "ChatGPT’s Computer History tracks your clicks and keystrokes",
-      "summary": "ChatGPT's desktop app on macOS has a new feature called Computer History that turns your actions into training data, learning how you work, suggesting automations, and even picking up tasks you left half done.",
-      "source": "The Verge",
-      "published": "2026-08-16T14:56:40+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/980742/chatgpts-computer-history-tracks-your-clicks-and-keystrokes"
-    },
-    {
-      "title": "The AI Credit Resale Economy",
-      "summary": "Article URL: https://vectoral.com/blog/who-are-the-token-brokers Comments URL: https://news.ycombinator.com/item?id=49320611 Points: 331 # Comments: 128",
-      "source": "Hacker News",
-      "published": "2026-08-16T14:44:55+00:00",
-      "link": "https://vectoral.com/blog/who-are-the-token-brokers"
     }
   ]
 };
