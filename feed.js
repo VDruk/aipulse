@@ -1,12 +1,26 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-08-22T21:13:45.743109+00:00",
+  "lastUpdated": "2026-08-23T02:22:21.511008+00:00",
   "items": [
+    {
+      "title": "Harvard’s $699 startup bootcamp offers AI avatars of its instructors",
+      "summary": "In the HBS Foundry program, AI avatars provide feedback during practice pitches and board meetings.",
+      "source": "TechCrunch",
+      "published": "2026-08-22T21:46:56+00:00",
+      "link": "https://techcrunch.com/2026/08/22/harvards-699-startup-bootcamp-offers-ai-avatars-of-its-instructors/"
+    },
     {
       "title": "Inherent, founded by DeepMind alumni, says its AI ‘teammate’ just outperformed Anthropic and OpenAI at replicating research",
       "summary": "Built by DeepMind alumni, British AI lab Inherent released Faraday, an AI agent whose ability to replicate scientific papers could be a stepping stone for innovation.",
       "source": "TechCrunch",
       "published": "2026-08-22T19:00:00+00:00",
       "link": "https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/"
+    },
+    {
+      "title": "Why your local LLM feels dumber than it is",
+      "summary": "Article URL: https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917 Comments URL: https://news.ycombinator.com/item?id=49402232 Points: 193 # Comments: 66",
+      "source": "Hacker News",
+      "published": "2026-08-22T18:14:16+00:00",
+      "link": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917"
     },
     {
       "title": "OpenAI says California should strengthen its AI safety bill",
@@ -21,6 +35,13 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-08-22T16:00:00+00:00",
       "link": "https://techcrunch.com/2026/08/22/frontier-ai-labs-still-wont-say-how-theyd-contain-a-rogue-model/"
+    },
+    {
+      "title": "Digging the grave of my skills: Hollywood creatives training AI to do their jobs",
+      "summary": "Article URL: https://www.theguardian.com/technology/2026/aug/22/the-hollywood-creatives-training-ai-to-do-their-jobs Comments URL: https://news.ycombinator.com/item?id=49399941 Points: 52 # Comments: 66",
+      "source": "Hacker News",
+      "published": "2026-08-22T14:13:05+00:00",
+      "link": "https://www.theguardian.com/technology/2026/aug/22/the-hollywood-creatives-training-ai-to-do-their-jobs"
     },
     {
       "title": "Study explains why AI agents benefit from \"skills\" and when they fail",
@@ -59,7 +80,7 @@ const FEED_DATA = {
     },
     {
       "title": "GPT 5.6 Sol 20% price reduction",
-      "summary": "Article URL: https://developers.openai.com/api/docs/models/gpt-5.6-sol Comments URL: https://news.ycombinator.com/item?id=49396590 Points: 85 # Comments: 76",
+      "summary": "Article URL: https://developers.openai.com/api/docs/models/gpt-5.6-sol Comments URL: https://news.ycombinator.com/item?id=49396590 Points: 87 # Comments: 77",
       "source": "Hacker News",
       "published": "2026-08-22T04:33:06+00:00",
       "link": "https://developers.openai.com/api/docs/models/gpt-5.6-sol"
@@ -143,7 +164,7 @@ const FEED_DATA = {
     },
     {
       "title": "How a Texas student blew the whistle on a rogue AI hacking attempt",
-      "summary": "Article URL: https://www.reuters.com/world/how-texas-student-blew-whistle-rogue-ai-hacking-attempt-2026-08-20/ Comments URL: https://news.ycombinator.com/item?id=49387959 Points: 58 # Comments: 6",
+      "summary": "Article URL: https://www.reuters.com/world/how-texas-student-blew-whistle-rogue-ai-hacking-attempt-2026-08-20/ Comments URL: https://news.ycombinator.com/item?id=49387959 Points: 112 # Comments: 42",
       "source": "Hacker News",
       "published": "2026-08-21T13:43:33+00:00",
       "link": "https://www.reuters.com/world/how-texas-student-blew-whistle-rogue-ai-hacking-attempt-2026-08-20/"
@@ -178,7 +199,7 @@ const FEED_DATA = {
     },
     {
       "title": "I'm becoming AI-blind",
-      "summary": "Article URL: https://cymerys.com/w/im-becoming-ai-blind Comments URL: https://news.ycombinator.com/item?id=49386699 Points: 472 # Comments: 477",
+      "summary": "Article URL: https://cymerys.com/w/im-becoming-ai-blind Comments URL: https://news.ycombinator.com/item?id=49386699 Points: 475 # Comments: 479",
       "source": "Hacker News",
       "published": "2026-08-21T11:48:05+00:00",
       "link": "https://cymerys.com/w/im-becoming-ai-blind"
@@ -248,14 +269,14 @@ const FEED_DATA = {
     },
     {
       "title": "AI companies destroy physical books – let's scan rare books before it's too late",
-      "summary": "Article URL: https://annas-archive.gl/blog/physical-destruction.html Comments URL: https://news.ycombinator.com/item?id=49383026 Points: 600 # Comments: 885",
+      "summary": "Article URL: https://annas-archive.gl/blog/physical-destruction.html Comments URL: https://news.ycombinator.com/item?id=49383026 Points: 608 # Comments: 892",
       "source": "Hacker News",
       "published": "2026-08-21T02:37:47+00:00",
       "link": "https://annas-archive.gl/blog/physical-destruction.html"
     },
     {
       "title": "Copyright does not protect AI-generated content in EU",
-      "summary": "Article URL: https://mathstodon.xyz/@maxpool/117128107757895678 Comments URL: https://news.ycombinator.com/item?id=49382041 Points: 187 # Comments: 209",
+      "summary": "Article URL: https://mathstodon.xyz/@maxpool/117128107757895678 Comments URL: https://news.ycombinator.com/item?id=49382041 Points: 189 # Comments: 209",
       "source": "Hacker News",
       "published": "2026-08-21T00:15:12+00:00",
       "link": "https://mathstodon.xyz/@maxpool/117128107757895678"
@@ -388,7 +409,7 @@ const FEED_DATA = {
     },
     {
       "title": "Vomit: Clean up Claude 5's token output with a separate LLM",
-      "summary": "Article URL: https://github.com/zachahn/vomit Comments URL: https://news.ycombinator.com/item?id=49375996 Points: 302 # Comments: 293",
+      "summary": "Article URL: https://github.com/zachahn/vomit Comments URL: https://news.ycombinator.com/item?id=49375996 Points: 302 # Comments: 294",
       "source": "Hacker News",
       "published": "2026-08-20T15:26:02+00:00",
       "link": "https://github.com/zachahn/vomit"
@@ -420,6 +441,13 @@ const FEED_DATA = {
       "source": "AI News",
       "published": "2026-08-20T14:05:18+00:00",
       "link": "https://www.artificialintelligence-news.com/news/amazons-prime-air-autonomous-drones-to-reach-500-us-cities/"
+    },
+    {
+      "title": "Guess which of these LLM outputs is watermarked",
+      "summary": "https://www.seangoedecke.com/readers-cant-identify-watermark... Comments URL: https://news.ycombinator.com/item?id=49374729 Points: 64 # Comments: 73",
+      "source": "Hacker News",
+      "published": "2026-08-20T14:03:58+00:00",
+      "link": "https://sgoedecke.github.io/watermark-quiz/"
     },
     {
       "title": "Welcome to the AI crisis in math",
@@ -1372,34 +1400,6 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-08-16T11:23:30+00:00",
       "link": "https://the-decoder.com/when-ai-models-arent-allowed-to-reflect-on-themselves-it-changes-their-entire-worldview/"
-    },
-    {
-      "title": "AI Coding Without the Vibes",
-      "summary": "Article URL: https://peterbloem.nl/blog/craft-coding Comments URL: https://news.ycombinator.com/item?id=49318735 Points: 96 # Comments: 55",
-      "source": "Hacker News",
-      "published": "2026-08-16T10:31:36+00:00",
-      "link": "https://peterbloem.nl/blog/craft-coding"
-    },
-    {
-      "title": "OpenAI dissolved the team built to catch catastrophic AI risks, reassigning its work to other groups",
-      "summary": "OpenAI shut down its \"Preparedness\" team, which evaluated whether the company's own AI models could pose catastrophic risks. The work has been parceled out to existing groups, and several safety staffers have left.",
-      "source": "The Decoder",
-      "published": "2026-08-16T08:12:52+00:00",
-      "link": "https://the-decoder.com/openai-dissolved-the-team-built-to-catch-catastrophic-ai-risks-reassigning-its-work-to-other-groups/"
-    },
-    {
-      "title": "What happens when an LLM never sees material beyond fifth grade?",
-      "summary": "Article URL: https://littlelearner-ll.github.io/ Comments URL: https://news.ycombinator.com/item?id=49317760 Points: 243 # Comments: 208",
-      "source": "Hacker News",
-      "published": "2026-08-16T07:37:53+00:00",
-      "link": "https://littlelearner-ll.github.io/"
-    },
-    {
-      "title": "Anthropic's bio-weapons filter was down for nearly a year, exposing 133 million requests",
-      "summary": "In a safety report, Anthropic reveals that its internal filtering system for biological and chemical weapons risks was inactive for nearly a year. During that time, around 50,000 external feedback contractors ran about 133 million unfiltered interactions with the models.",
-      "source": "The Decoder",
-      "published": "2026-08-16T07:20:06+00:00",
-      "link": "https://the-decoder.com/anthropics-bio-weapons-filter-was-down-for-nearly-a-year-exposing-133-million-requests/"
     }
   ]
 };
