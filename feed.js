@@ -1,5 +1,5 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-08-23T02:22:21.511008+00:00",
+  "lastUpdated": "2026-08-23T05:31:16.771707+00:00",
   "items": [
     {
       "title": "Harvard’s $699 startup bootcamp offers AI avatars of its instructors",
