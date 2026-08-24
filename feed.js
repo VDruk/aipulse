@@ -1,12 +1,33 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-08-24T17:24:49.276915+00:00",
+  "lastUpdated": "2026-08-24T21:20:33.972048+00:00",
   "items": [
+    {
+      "title": "Pew study confirms sharp rise of AI-written text on the web since ChatGPT's launch",
+      "summary": "The Pew Research Center analyzed nearly half a million English-language web pages for AI-generated content.",
+      "source": "The Decoder",
+      "published": "2026-08-24T18:22:49+00:00",
+      "link": "https://the-decoder.com/pew-study-shows-ai-written-text-has-surged-across-the-web-since-late-2022/"
+    },
+    {
+      "title": "Instinct’s powerful AI assistant is raising privacy and security concerns",
+      "summary": "Early testers are raving about what Instinct can do, but some say the AI assistant’s sweeping access, broad terms and ability to act on users’ behalf come with uncomfortable trade-offs.",
+      "source": "TechCrunch",
+      "published": "2026-08-24T18:03:55+00:00",
+      "link": "https://techcrunch.com/2026/08/24/instincts-powerful-ai-assistant-is-raising-privacy-and-security-concerns/"
+    },
     {
       "title": "XPENG IRON humanoid robot draws record physical AI funding",
       "summary": "XPENG’s physical AI unit has secured over $900 million at a $6.3 billion valuation to scale its IRON humanoid robot platform.",
       "source": "AI News",
       "published": "2026-08-24T15:53:53+00:00",
       "link": "https://www.artificialintelligence-news.com/news/xpeng-iron-humanoid-robot-draws-record-physical-ai-funding/"
+    },
+    {
+      "title": "Coding expertise is going to collapse from AI reliance",
+      "summary": "Article URL: https://larsfaye.com/articles/ai-coding-will-prevent-expertise Comments URL: https://news.ycombinator.com/item?id=49421554 Points: 347 # Comments: 370",
+      "source": "Hacker News",
+      "published": "2026-08-24T15:52:33+00:00",
+      "link": "https://larsfaye.com/articles/ai-coding-will-prevent-expertise"
     },
     {
       "title": "Alibaba's Wan3.0 generates AI videos up to 30 seconds long from text, images, and documents",
@@ -21,6 +42,13 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-08-24T15:24:18+00:00",
       "link": "https://techcrunch.com/2026/08/24/valor-point72-back-general-intuition-at-6b-valuation-as-ai-startup-pushes-into-robotics/"
+    },
+    {
+      "title": "OpenAI: GPT 5.6 Sol price reduction (until at least Nov 21)",
+      "summary": "Article URL: https://developers.openai.com/api/docs/pricing Comments URL: https://news.ycombinator.com/item?id=49421074 Points: 244 # Comments: 217",
+      "source": "Hacker News",
+      "published": "2026-08-24T15:22:43+00:00",
+      "link": "https://developers.openai.com/api/docs/pricing"
     },
     {
       "title": "OpenAI is building AI agents for everything. Will everyone use them?",
@@ -79,6 +107,13 @@ const FEED_DATA = {
       "link": "https://the-decoder.com/ai-chatbots-regularly-link-pregnant-users-to-anti-abortion-websites-without-disclosure/"
     },
     {
+      "title": "We never use AI. For anything",
+      "summary": "Article URL: https://corkmac.app/our-ai-stance/ Comments URL: https://news.ycombinator.com/item?id=49417313 Points: 77 # Comments: 94",
+      "source": "Hacker News",
+      "published": "2026-08-24T09:32:32+00:00",
+      "link": "https://corkmac.app/our-ai-stance/"
+    },
+    {
       "title": "They Dedicated Their Lives to Teaching. Then the Deepfakes Started",
       "summary": "The deepfake epidemic in schools is affecting more than students. Four teachers tell WIRED about becoming targets of sexualized, AI-generated content—and how difficult it was to find accountability.",
       "source": "Wired",
@@ -100,6 +135,27 @@ const FEED_DATA = {
       "link": "https://the-decoder.com/nvidia-in-talks-to-invest-in-perplexity-at-30-billion-plus-valuation/"
     },
     {
+      "title": "OCR It – pull text out of un-copyable documents for your LLM",
+      "summary": "Article URL: https://github.com/thiagotigaz/ocr-it Comments URL: https://news.ycombinator.com/item?id=49415852 Points: 115 # Comments: 26",
+      "source": "Hacker News",
+      "published": "2026-08-24T06:25:31+00:00",
+      "link": "https://github.com/thiagotigaz/ocr-it"
+    },
+    {
+      "title": "I built a low-latency AI companion that plays Skyrim with me",
+      "summary": "Article URL: https://pantel.is/projects/ai-gaming-companion/ Comments URL: https://news.ycombinator.com/item?id=49413561 Points: 324 # Comments: 69",
+      "source": "Hacker News",
+      "published": "2026-08-23T23:18:17+00:00",
+      "link": "https://pantel.is/projects/ai-gaming-companion/"
+    },
+    {
+      "title": "Implementation of GPT-2 in pure CMake",
+      "summary": "Article URL: https://github.com/AlpinDale/gpt2.cmake Comments URL: https://news.ycombinator.com/item?id=49412909 Points: 89 # Comments: 19",
+      "source": "Hacker News",
+      "published": "2026-08-23T21:41:17+00:00",
+      "link": "https://github.com/AlpinDale/gpt2.cmake"
+    },
+    {
       "title": "Who’s behind the new ‘stealth model’ Ox Alpha?",
       "summary": "A mysterious new AI model called Ox Alpha has driven certain corners of the internet into a frenzy of speculation.",
       "source": "TechCrunch",
@@ -114,6 +170,27 @@ const FEED_DATA = {
       "link": "https://techcrunch.com/2026/08/23/linkdazes-smart-calendar-is-built-to-run-a-household-not-just-track-a-schedule/"
     },
     {
+      "title": "Anthropic's best AI model struggles to attract users as cheaper tools thrive",
+      "summary": "Article URL: https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245 Comments URL: https://news.ycombinator.com/item?id=49411102 Points: 751 # Comments: 662",
+      "source": "Hacker News",
+      "published": "2026-08-23T18:16:37+00:00",
+      "link": "https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245"
+    },
+    {
+      "title": "My agent.md to improve LLM-assisted code quality",
+      "summary": "Article URL: https://fabiensanglard.net/agent.md/index.html Comments URL: https://news.ycombinator.com/item?id=49410932 Points: 391 # Comments: 169",
+      "source": "Hacker News",
+      "published": "2026-08-23T17:59:52+00:00",
+      "link": "https://fabiensanglard.net/agent.md/index.html"
+    },
+    {
+      "title": "We must not grant AI agents legal personhood",
+      "summary": "Article URL: https://www.ft.com/content/b8cc4bf4-6d3c-4974-8428-9a091983c473 Comments URL: https://news.ycombinator.com/item?id=49410628 Points: 62 # Comments: 111",
+      "source": "Hacker News",
+      "published": "2026-08-23T17:25:03+00:00",
+      "link": "https://www.ft.com/content/b8cc4bf4-6d3c-4974-8428-9a091983c473"
+    },
+    {
       "title": "Flock CEO calls for ‘compromise’ as surveillance company faces growing backlash",
       "summary": "Flock Safety faces a growing public outcry over concerns that its surveillance technology could be misused.",
       "source": "TechCrunch",
@@ -126,6 +203,13 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-08-23T15:00:00+00:00",
       "link": "https://techcrunch.com/2026/08/23/is-it-legal-to-train-ai-models-on-copyrighted-books-its-complicated/"
+    },
+    {
+      "title": "I spent $266 and four AI models to own my tablet. GLM-5.3 finished it in a day",
+      "summary": "Article URL: https://ericpardee.github.io/fire-hd-ownership/ Comments URL: https://news.ycombinator.com/item?id=49409073 Points: 677 # Comments: 289",
+      "source": "Hacker News",
+      "published": "2026-08-23T14:23:09+00:00",
+      "link": "https://ericpardee.github.io/fire-hd-ownership/"
     },
     {
       "title": "An AI boss fired its first employee but only after humans reminded it of its own rules",
@@ -163,6 +247,13 @@ const FEED_DATA = {
       "link": "https://the-decoder.com/how-chinas-gray-market-sells-claude-tokens-at-a-fraction-of-the-price/"
     },
     {
+      "title": "AI Chip Architectures",
+      "summary": "Article URL: https://www.jepeake.com/ai-chip-architectures Comments URL: https://news.ycombinator.com/item?id=49405657 Points: 137 # Comments: 45",
+      "source": "Hacker News",
+      "published": "2026-08-23T02:25:10+00:00",
+      "link": "https://www.jepeake.com/ai-chip-architectures"
+    },
+    {
       "title": "Harvard’s $699 startup bootcamp offers AI avatars of its instructors",
       "summary": "In the HBS Foundry program, AI avatars provide feedback during practice pitches and board meetings.",
       "source": "TechCrunch",
@@ -178,14 +269,14 @@ const FEED_DATA = {
     },
     {
       "title": "Why your local LLM feels dumber than it is",
-      "summary": "Article URL: https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917 Comments URL: https://news.ycombinator.com/item?id=49402232 Points: 417 # Comments: 171",
+      "summary": "Article URL: https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917 Comments URL: https://news.ycombinator.com/item?id=49402232 Points: 499 # Comments: 202",
       "source": "Hacker News",
       "published": "2026-08-22T18:14:16+00:00",
       "link": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917"
     },
     {
       "title": "OpenAI says California should strengthen its AI safety bill",
-      "summary": "OpenAI is calling for California to strengthen SB 53, an AI safety bill that the company previously opposed.",
+      "summary": "OpenAI's global affairs team post also referenced “recent incidents” that “underscore both the need for these protections and the importance of updating them” as new risks emerge.",
       "source": "TechCrunch",
       "published": "2026-08-22T16:30:34+00:00",
       "link": "https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/"
@@ -199,7 +290,7 @@ const FEED_DATA = {
     },
     {
       "title": "Digging the grave of my skills: Hollywood creatives training AI to do their jobs",
-      "summary": "Article URL: https://www.theguardian.com/technology/2026/aug/22/the-hollywood-creatives-training-ai-to-do-their-jobs Comments URL: https://news.ycombinator.com/item?id=49399941 Points: 55 # Comments: 70",
+      "summary": "Article URL: https://www.theguardian.com/technology/2026/aug/22/the-hollywood-creatives-training-ai-to-do-their-jobs Comments URL: https://news.ycombinator.com/item?id=49399941 Points: 56 # Comments: 70",
       "source": "Hacker News",
       "published": "2026-08-22T14:13:05+00:00",
       "link": "https://www.theguardian.com/technology/2026/aug/22/the-hollywood-creatives-training-ai-to-do-their-jobs"
@@ -241,10 +332,17 @@ const FEED_DATA = {
     },
     {
       "title": "GPT 5.6 Sol 20% price reduction",
-      "summary": "Article URL: https://developers.openai.com/api/docs/models/gpt-5.6-sol Comments URL: https://news.ycombinator.com/item?id=49396590 Points: 90 # Comments: 77",
+      "summary": "Article URL: https://developers.openai.com/api/docs/models/gpt-5.6-sol Comments URL: https://news.ycombinator.com/item?id=49396590 Points: 94 # Comments: 78",
       "source": "Hacker News",
       "published": "2026-08-22T04:33:06+00:00",
       "link": "https://developers.openai.com/api/docs/models/gpt-5.6-sol"
+    },
+    {
+      "title": "Michael Polansky is training an AI model on skin that’s still alive",
+      "summary": "Michael Polansky — better known publicly as Lady Gaga's partner and a former top deputy to Sean Parker — has quietly spent years building an AI-driven startup that keeps living human skin tissue alive for weeks outside the body to discover new skincare compounds, and is only now...",
+      "source": "TechCrunch",
+      "published": "2026-08-22T01:31:04+00:00",
+      "link": "https://techcrunch.com/2026/08/21/michael-polansky-is-training-an-ai-model-on-skin-thats-still-alive/"
     },
     {
       "title": "The Unlikely Place at the Center of China’s AI Boom",
@@ -325,7 +423,7 @@ const FEED_DATA = {
     },
     {
       "title": "How a Texas student blew the whistle on a rogue AI hacking attempt",
-      "summary": "Article URL: https://www.reuters.com/world/how-texas-student-blew-whistle-rogue-ai-hacking-attempt-2026-08-20/ Comments URL: https://news.ycombinator.com/item?id=49387959 Points: 188 # Comments: 98",
+      "summary": "Article URL: https://www.reuters.com/world/how-texas-student-blew-whistle-rogue-ai-hacking-attempt-2026-08-20/ Comments URL: https://news.ycombinator.com/item?id=49387959 Points: 209 # Comments: 125",
       "source": "Hacker News",
       "published": "2026-08-21T13:43:33+00:00",
       "link": "https://www.reuters.com/world/how-texas-student-blew-whistle-rogue-ai-hacking-attempt-2026-08-20/"
@@ -360,7 +458,7 @@ const FEED_DATA = {
     },
     {
       "title": "I'm becoming AI-blind",
-      "summary": "Article URL: https://cymerys.com/w/im-becoming-ai-blind Comments URL: https://news.ycombinator.com/item?id=49386699 Points: 487 # Comments: 492",
+      "summary": "Article URL: https://cymerys.com/w/im-becoming-ai-blind Comments URL: https://news.ycombinator.com/item?id=49386699 Points: 504 # Comments: 503",
       "source": "Hacker News",
       "published": "2026-08-21T11:48:05+00:00",
       "link": "https://cymerys.com/w/im-becoming-ai-blind"
@@ -430,7 +528,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI companies destroy physical books – let's scan rare books before it's too late",
-      "summary": "Article URL: https://annas-archive.gl/blog/physical-destruction.html Comments URL: https://news.ycombinator.com/item?id=49383026 Points: 623 # Comments: 898",
+      "summary": "Article URL: https://annas-archive.gl/blog/physical-destruction.html Comments URL: https://news.ycombinator.com/item?id=49383026 Points: 642 # Comments: 909",
       "source": "Hacker News",
       "published": "2026-08-21T02:37:47+00:00",
       "link": "https://annas-archive.gl/blog/physical-destruction.html"
@@ -1302,104 +1400,6 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-08-17T16:15:12+00:00",
       "link": "https://techcrunch.com/2026/08/17/groq-raises-350m-to-fuel-its-pivot-from-ai-chips-to-neocloud/"
-    },
-    {
-      "title": "Launch HN: Speko (YC S26) – OpenRouter for Voice AI",
-      "summary": "Hi HN!",
-      "source": "Hacker News",
-      "published": "2026-08-17T15:36:18+00:00",
-      "link": "https://speko.ai/"
-    },
-    {
-      "title": "Anthropic's War on open source AI",
-      "summary": "Article URL: https://twitter.com/TheAhmadOsman/status/2065307070044234186 Comments URL: https://news.ycombinator.com/item?id=49332564 Points: 152 # Comments: 59",
-      "source": "Hacker News",
-      "published": "2026-08-17T15:24:34+00:00",
-      "link": "https://twitter.com/TheAhmadOsman/status/2065307070044234186"
-    },
-    {
-      "title": "Nvidia investing $1.5B in SoftBank data center developer behind OpenAI project",
-      "summary": "Nvidia's investment in SoftBank's data center developer will guarantee its chips power an OpenAI data center.",
-      "source": "TechCrunch",
-      "published": "2026-08-17T15:16:24+00:00",
-      "link": "https://techcrunch.com/2026/08/17/nvidia-investing-1-5b-in-softbank-data-center-developer-behind-openai-project/"
-    },
-    {
-      "title": "AirTag reveals how Amazon destroys rare books for AI training",
-      "summary": "Amazon buys large quantities of printed books, scans them as AI training data, and destroys them in the process. The article AirTag reveals how Amazon destroys rare books for AI training appeared first on The Decoder.",
-      "source": "The Decoder",
-      "published": "2026-08-17T14:43:04+00:00",
-      "link": "https://the-decoder.com/airtag-reveals-how-amazon-destroys-rare-books-for-ai-training/"
-    },
-    {
-      "title": "Judge relying wholly on AI in order is covered by judicial immunity, court rules",
-      "summary": "Article URL: https://reason.com/volokh/2026/08/17/judges-allegedly-relying-wholly-on-ai-in-order-is-covered-by-judicial-immunity-court-rules/ Comments URL: https://news.ycombinator.com/item?id=49331625 Points: 58 # Comments: 58",
-      "source": "Hacker News",
-      "published": "2026-08-17T14:30:09+00:00",
-      "link": "https://reason.com/volokh/2026/08/17/judges-allegedly-relying-wholly-on-ai-in-order-is-covered-by-judicial-immunity-court-rules/"
-    },
-    {
-      "title": "Nvidia discloses $21B stake in SpaceX",
-      "summary": "Filing comes after Elon Musk announced exclusive arrangement to kit out its data centers.",
-      "source": "Ars Technica",
-      "published": "2026-08-17T14:22:54+00:00",
-      "link": "https://arstechnica.com/information-technology/2026/08/nvidia-discloses-21b-stake-in-spacex/"
-    },
-    {
-      "title": "AI-Generated GitHub Copilot “Autofix” Allowed Compromise of Snowflake's Jira",
-      "summary": "Article URL: https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug Comments URL: https://news.ycombinator.com/item?id=49331423 Points: 424 # Comments: 156",
-      "source": "Hacker News",
-      "published": "2026-08-17T14:18:38+00:00",
-      "link": "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug"
-    },
-    {
-      "title": "OpenAI signs record Ohio data center lease with Nvidia backing up to $105 billion",
-      "summary": "OpenAI has signed a 20-year lease for an 8-gigawatt data center in Ohio. Nvidia is guaranteeing up to $105 billion for the residual value of the facilities and becomes the exclusive chip supplier.",
-      "source": "The Decoder",
-      "published": "2026-08-17T14:13:26+00:00",
-      "link": "https://the-decoder.com/openai-signs-record-ohio-data-center-lease-with-nvidia-backing-up-to-105-billion/"
-    },
-    {
-      "title": "How to disable or avoid intrusive AI",
-      "summary": "Article URL: https://www.librarian.net/notoai/ Comments URL: https://news.ycombinator.com/item?id=49331220 Points: 337 # Comments: 197",
-      "source": "Hacker News",
-      "published": "2026-08-17T14:07:56+00:00",
-      "link": "https://www.librarian.net/notoai/"
-    },
-    {
-      "title": "We Tracked a Shipment of Rare Books. It Ended at an Amazon AI Training Facility",
-      "summary": "Article URL: https://www.404media.co/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-training-facility/ Comments URL: https://news.ycombinator.com/item?id=49330742 Points: 162 # Comments: 319",
-      "source": "Hacker News",
-      "published": "2026-08-17T13:44:23+00:00",
-      "link": "https://www.404media.co/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-training-facility/"
-    },
-    {
-      "title": "AI video market has bounced back from Sora's false start",
-      "summary": "AI production companies like Promise are setting up shop around Hollywood's historic studios, using real-time backgrounds and other AI tools to cut film costs. Netflix already uses AI in 300 of its 1,000 titles, and the startup Higgsfield now carries a $5.4 billion valuation.",
-      "source": "The Decoder",
-      "published": "2026-08-17T13:29:01+00:00",
-      "link": "https://the-decoder.com/ai-video-market-has-bounced-back-from-soras-false-start/"
-    },
-    {
-      "title": "Wispr raises $280M at $2B valuation as it looks beyond dictation",
-      "summary": "The funds will allow Wispr to increase its footprint as it ventures into new areas, such as meetings, with its newly released note-taker tool.",
-      "source": "TechCrunch",
-      "published": "2026-08-17T13:10:05+00:00",
-      "link": "https://techcrunch.com/2026/08/17/wispr-raises-280m-at-2b-valuation-as-it-looks-beyond-dictation/"
-    },
-    {
-      "title": "Show HN: Sokoban AI Solver",
-      "summary": "Article URL: https://mkornreich.me/projects/sokoban/ Comments URL: https://news.ycombinator.com/item?id=49330215 Points: 72 # Comments: 42",
-      "source": "Hacker News",
-      "published": "2026-08-17T13:07:00+00:00",
-      "link": "https://mkornreich.me/projects/sokoban/"
-    },
-    {
-      "title": "The Download: dead robot friends and the “censorship-industrial complex”",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. What happens when a kid’s robot best friend dies?",
-      "source": "MIT Tech Review",
-      "published": "2026-08-17T12:10:00+00:00",
-      "link": "https://www.technologyreview.com/2026/08/17/1142175/the-download-dead-robot-friends-censorship-industrial-complex/"
     }
   ]
 };
