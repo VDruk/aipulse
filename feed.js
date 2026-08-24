@@ -1,6 +1,27 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-08-24T05:39:44.692290+00:00",
+  "lastUpdated": "2026-08-24T09:33:25.067083+00:00",
   "items": [
+    {
+      "title": "They Dedicated Their Lives to Teaching. Then the Deepfakes Started",
+      "summary": "The deepfake epidemic in schools is affecting more than students. Four teachers tell WIRED about becoming targets of sexualized, AI-generated content—and how difficult it was to find accountability.",
+      "source": "Wired",
+      "published": "2026-08-24T09:30:00+00:00",
+      "link": "https://www.wired.com/story/teachers-deepfake-ai-students-content/"
+    },
+    {
+      "title": "Kids outlearn AI—and we still don’t know why",
+      "summary": "People have been talking to each other for at least 100,000 years, as best we can tell. And in all that time, there has been only one thing in the world that could learn a human language to perfect fluency: a human child.",
+      "source": "MIT Tech Review",
+      "published": "2026-08-24T09:00:00+00:00",
+      "link": "https://www.technologyreview.com/2026/08/24/1141740/kids-machines-language-learning/"
+    },
+    {
+      "title": "Nvidia in talks to invest in Perplexity at $30 billion-plus valuation",
+      "summary": "Nvidia is negotiating an investment in Perplexity at a valuation above $30 billion, more than 50 percent higher than its last funding round, The Information reports. Perplexity's annualized revenue has tripled to over $750 million.",
+      "source": "The Decoder",
+      "published": "2026-08-24T08:44:48+00:00",
+      "link": "https://the-decoder.com/nvidia-in-talks-to-invest-in-perplexity-at-30-billion-plus-valuation/"
+    },
     {
       "title": "Who’s behind the new ‘stealth model’ Ox Alpha?",
       "summary": "A mysterious new AI model called Ox Alpha has driven certain corners of the internet into a frenzy of speculation.",
@@ -1379,27 +1400,6 @@ const FEED_DATA = {
       "source": "The Verge",
       "published": "2026-08-16T21:32:56+00:00",
       "link": "https://www.theverge.com/ai-artificial-intelligence/980817/openai-disbands-preparedness-team"
-    },
-    {
-      "title": "Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+",
-      "summary": "OpenRouter's CEO recently described the startup as Stripe for AI.",
-      "source": "TechCrunch",
-      "published": "2026-08-16T20:57:04+00:00",
-      "link": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/"
-    },
-    {
-      "title": "Why people aren’t buying Mark Zuckerberg’s AI future",
-      "summary": "On the latest episode of Equity podcast, we discuss why not everyone is buying Zuckerberg’s vision.",
-      "source": "TechCrunch",
-      "published": "2026-08-16T20:32:01+00:00",
-      "link": "https://techcrunch.com/2026/08/16/why-people-arent-buying-mark-zuckerbergs-ai-future/"
-    },
-    {
-      "title": "Stripe Clinches over $7B Deal to Buy AI Firm OpenRouter",
-      "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-08-16/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion Comments URL: https://news.ycombinator.com/item?id=49323381 Points: 258 # Comments: 179",
-      "source": "Hacker News",
-      "published": "2026-08-16T20:31:16+00:00",
-      "link": "https://www.bloomberg.com/news/articles/2026-08-16/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion"
     }
   ]
 };
