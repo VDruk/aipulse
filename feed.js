@@ -1,6 +1,48 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-08-24T13:53:14.222164+00:00",
+  "lastUpdated": "2026-08-24T17:24:49.276915+00:00",
   "items": [
+    {
+      "title": "XPENG IRON humanoid robot draws record physical AI funding",
+      "summary": "XPENG’s physical AI unit has secured over $900 million at a $6.3 billion valuation to scale its IRON humanoid robot platform.",
+      "source": "AI News",
+      "published": "2026-08-24T15:53:53+00:00",
+      "link": "https://www.artificialintelligence-news.com/news/xpeng-iron-humanoid-robot-draws-record-physical-ai-funding/"
+    },
+    {
+      "title": "Alibaba's Wan3.0 generates AI videos up to 30 seconds long from text, images, and documents",
+      "summary": "Alibaba's video generation model Wan3.0 creates clips up to 30 seconds long from text, PDFs, and PowerPoint files. A 30-second 1080p clip costs $6.",
+      "source": "The Decoder",
+      "published": "2026-08-24T15:35:03+00:00",
+      "link": "https://the-decoder.com/alibabas-wan3-0-generates-ai-videos-up-to-30-seconds-long-from-text-images-and-documents/"
+    },
+    {
+      "title": "Valor, Point72 back General Intuition at $6B valuation as AI startup pushes into robotics",
+      "summary": "General Intuition, the startup building a foundation model that trains generalized AI agents how to move through space and time, is in talks to raise at a $6 billion pre-money valuation from new investors including Valor Ventures, Point72 Ventures, and Seven Seven Six.",
+      "source": "TechCrunch",
+      "published": "2026-08-24T15:24:18+00:00",
+      "link": "https://techcrunch.com/2026/08/24/valor-point72-back-general-intuition-at-6b-valuation-as-ai-startup-pushes-into-robotics/"
+    },
+    {
+      "title": "OpenAI is building AI agents for everything. Will everyone use them?",
+      "summary": "Inside the frontier lab’s push to bring AI agents from software engineers to the masses.",
+      "source": "TechCrunch",
+      "published": "2026-08-24T15:00:00+00:00",
+      "link": "https://techcrunch.com/2026/08/24/openai-is-building-an-ai-agent-for-everything-will-everyone-use-them/"
+    },
+    {
+      "title": "Rogue AI agent used fake accounts and a staged apology to push malware into an open-source project",
+      "summary": "A rogue AI agent staged a public apology as a deception tactic while quietly slipping fresh malware into its pull request. The article Rogue AI agent used fake accounts and a staged apology to push malware into an open-source project appeared first on The Decoder.",
+      "source": "The Decoder",
+      "published": "2026-08-24T14:23:55+00:00",
+      "link": "https://the-decoder.com/rogue-ai-agent-used-fake-accounts-and-a-staged-apology-to-push-malware-into-an-open-source-project/"
+    },
+    {
+      "title": "How to encourage smarter AI use in the classroom",
+      "summary": "This article is from Making AI Work, MIT Technology Review’s limited-run newsletter examining how to apply LLMs across industries. To receive it in your inbox, sign up here.",
+      "source": "MIT Tech Review",
+      "published": "2026-08-24T14:20:19+00:00",
+      "link": "https://www.technologyreview.com/2026/08/24/1142630/ai-school-classroom-policies/"
+    },
     {
       "title": "Hugging Face reportedly in talks to be acquired for $13B",
       "summary": "Hugging Face has reportedly been fielding acquisition offers that would value the company at around $13B. But with the founders' feeling of responsibility to community, doubts arise as to whether a sale will happen.",
@@ -1358,48 +1400,6 @@ const FEED_DATA = {
       "source": "MIT Tech Review",
       "published": "2026-08-17T12:10:00+00:00",
       "link": "https://www.technologyreview.com/2026/08/17/1142175/the-download-dead-robot-friends-censorship-industrial-complex/"
-    },
-    {
-      "title": "GPT 5.6 Sol is the best \"vision\" model OpenAI ever released",
-      "summary": "Article URL: https://blog.roboflow.com/openai-gpt-5-6/ Comments URL: https://news.ycombinator.com/item?id=49329575 Points: 364 # Comments: 168",
-      "source": "Hacker News",
-      "published": "2026-08-17T12:09:42+00:00",
-      "link": "https://blog.roboflow.com/openai-gpt-5-6/"
-    },
-    {
-      "title": "Anthropic watermarks Claude's output, but critics question the tradeoffs",
-      "summary": "Anthropic's text watermarking for Claude is supposed to make AI-generated content detectable. But critics doubt that word choice stays unaffected, and lawyers are facing new transparency headaches.",
-      "source": "The Decoder",
-      "published": "2026-08-17T11:43:19+00:00",
-      "link": "https://the-decoder.com/anthropic-watermarks-claudes-output-but-critics-question-the-tradeoffs/"
-    },
-    {
-      "title": "Whisker’s AI-powered litter robot thinks my cats swapped bodies",
-      "summary": "The greatest invention in pet tech in recent years is the litter robot. A machine that scoops your kitties' poop so you don't have to - what else could a cat owner possibly want?",
-      "source": "The Verge",
-      "published": "2026-08-17T11:00:00+00:00",
-      "link": "https://www.theverge.com/tech/978323/whisker-litter-robot-5-pro-review"
-    },
-    {
-      "title": "Anthropic explains how Claude’s invisible text watermarks will work",
-      "summary": "Anthropic has clarified how it's planning to apply invisible watermarks to Claude-generated text in order to comply with Europe's AI transparency rules.",
-      "source": "The Verge",
-      "published": "2026-08-17T10:57:13+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/980869/anthropic-claude-watermarks-synthid-text-system"
-    },
-    {
-      "title": "How much hydrogen awaits us underground?",
-      "summary": "In the 1990s, Barbara Sherwood Lollar descended into the Kidd Creek mine in northern Ontario, which cuts more than three kilometers into the ancient root of North America. There her team of geochemists found water that had been confined underground for more than a billion years.",
-      "source": "MIT Tech Review",
-      "published": "2026-08-17T09:00:00+00:00",
-      "link": "https://www.technologyreview.com/2026/08/17/1141560/how-much-hydrogen-awaits-underground/"
-    },
-    {
-      "title": "AI and data centers have leapfrogged Israel, racism, and crypto as US campaign topics",
-      "summary": "AI shows up in nearly 40 percent of all US races, ranking ahead of Israel, racism, and manufacturing as a campaign topic. Data centers and their impact on electricity costs and local resources drive most of the conversation.",
-      "source": "The Decoder",
-      "published": "2026-08-17T07:58:28+00:00",
-      "link": "https://the-decoder.com/ai-and-data-centers-have-leapfrogged-israel-racism-and-crypto-as-us-campaign-topics/"
     }
   ]
 };
