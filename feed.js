@@ -1,6 +1,41 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-08-24T09:33:25.067083+00:00",
+  "lastUpdated": "2026-08-24T13:53:14.222164+00:00",
   "items": [
+    {
+      "title": "Hugging Face reportedly in talks to be acquired for $13B",
+      "summary": "Hugging Face has reportedly been fielding acquisition offers that would value the company at around $13B. But with the founders' feeling of responsibility to community, doubts arise as to whether a sale will happen.",
+      "source": "TechCrunch",
+      "published": "2026-08-24T13:47:26+00:00",
+      "link": "https://techcrunch.com/2026/08/24/hugging-face-reportedly-in-talks-to-be-acquired-for-13b/"
+    },
+    {
+      "title": "Thomson Reuters bets $40M on owning its AI instead of renting from OpenAI or Anthropic",
+      "summary": "Thomson Reuters is launching \"Thomson,\" its own language model built on Alibaba's Qwen, at a cost of about $40 million over two years. But the benchmarks only show top marks when the model can tap into the company's own content, like Westlaw.",
+      "source": "The Decoder",
+      "published": "2026-08-24T12:59:43+00:00",
+      "link": "https://the-decoder.com/thomson-reuters-bets-40m-on-owning-its-ai-instead-of-renting-from-openai-or-anthropic/"
+    },
+    {
+      "title": "The Download: kids outlearning AI, and space travel agents",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Kids outlearn AI—and we still don’t know why Teaching a computer to use human language requires an inhuman amount of data.",
+      "source": "MIT Tech Review",
+      "published": "2026-08-24T12:10:00+00:00",
+      "link": "https://www.technologyreview.com/2026/08/24/1142863/the-download-kids-outlearning-ai-space-travel-agents/"
+    },
+    {
+      "title": "Cerebras unveils CS-4 with double the performance on the same chip",
+      "summary": "Cerebras has introduced its CS-4 AI accelerator, which CEO Andrew Feldman calls the fastest system in the industry. The article Cerebras unveils CS-4 with double the performance on the same chip appeared first on The Decoder.",
+      "source": "The Decoder",
+      "published": "2026-08-24T10:16:06+00:00",
+      "link": "https://the-decoder.com/cerebras-unveils-cs-4-with-double-the-performance-on-the-same-chip/"
+    },
+    {
+      "title": "AI chatbots regularly link pregnant users to anti-abortion websites without disclosure",
+      "summary": "When asked about unplanned pregnancies, AI chatbots regularly link to anti-abortion groups without disclosing their stance.",
+      "source": "The Decoder",
+      "published": "2026-08-24T10:00:51+00:00",
+      "link": "https://the-decoder.com/ai-chatbots-regularly-link-pregnant-users-to-anti-abortion-websites-without-disclosure/"
+    },
     {
       "title": "They Dedicated Their Lives to Teaching. Then the Deepfakes Started",
       "summary": "The deepfake epidemic in schools is affecting more than students. Four teachers tell WIRED about becoming targets of sexualized, AI-generated content—and how difficult it was to find accountability.",
@@ -618,18 +653,18 @@ const FEED_DATA = {
       "link": "https://the-decoder.com/china-now-has-its-own-ai-circular-financing-scheme/"
     },
     {
-      "title": "Support networks aim to help kids through the polycrisis",
-      "summary": "Sometime in the late 2000s, Pim Sullivan-Tailyour was sitting in the back of a car, headed toward her great-grandmother’s tiny town in the south of Thailand. She watched big mountains pass by out the window.",
-      "source": "MIT Tech Review",
-      "published": "2026-08-20T09:00:00+00:00",
-      "link": "https://www.technologyreview.com/2026/08/20/1141686/support-networks-help-kids-polycrisis/"
-    },
-    {
       "title": "Agentic AI in government just hit the hard part: deciding what a machine may decide",
       "summary": "The United Arab Emirates (UAE) has been early in adopting artificial intelligence for 9 years.",
       "source": "AI News",
       "published": "2026-08-20T09:00:00+00:00",
       "link": "https://www.artificialintelligence-news.com/news/agentic-ai-in-government-uae-classification/"
+    },
+    {
+      "title": "Support networks aim to help kids through the polycrisis",
+      "summary": "Sometime in the late 2000s, Pim Sullivan-Tailyour was sitting in the back of a car, headed toward her great-grandmother’s tiny town in the south of Thailand. She watched big mountains pass by out the window.",
+      "source": "MIT Tech Review",
+      "published": "2026-08-20T09:00:00+00:00",
+      "link": "https://www.technologyreview.com/2026/08/20/1141686/support-networks-help-kids-polycrisis/"
     },
     {
       "title": "Terence Tao says AI could trigger math's biggest crisis since Gödel",
@@ -1365,41 +1400,6 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-08-17T07:58:28+00:00",
       "link": "https://the-decoder.com/ai-and-data-centers-have-leapfrogged-israel-racism-and-crypto-as-us-campaign-topics/"
-    },
-    {
-      "title": "HackEurope 2026: A short rant on AI and hackathons",
-      "summary": "Article URL: https://duti.dev/blog/2026/spr/ Comments URL: https://news.ycombinator.com/item?id=49327490 Points: 57 # Comments: 62",
-      "source": "Hacker News",
-      "published": "2026-08-17T07:28:43+00:00",
-      "link": "https://duti.dev/blog/2026/spr/"
-    },
-    {
-      "title": "Stripe is reportedly acquiring AI startup OpenRouter for more than $7 billion",
-      "summary": "According to Bloomberg, Stripe is acquiring the AI startup OpenRouter for more than $7 billion, up from a latest valuation of $1.3 billion.",
-      "source": "The Decoder",
-      "published": "2026-08-17T06:49:10+00:00",
-      "link": "https://the-decoder.com/stripe-is-reportedly-acquiring-ai-startup-openrouter-for-more-than-7-billion/"
-    },
-    {
-      "title": "On AI regulation and messaging",
-      "summary": "https://xcancel.com/DarioAmodei/status/2088758816376807762 Comments URL: https://news.ycombinator.com/item?id=49325789 Points: 249 # Comments: 544",
-      "source": "Hacker News",
-      "published": "2026-08-17T01:59:56+00:00",
-      "link": "https://twitter.com/DarioAmodei/status/2088758816376807762"
-    },
-    {
-      "title": "Young People Hate AI CEOs So Passionately That It's Almost Hard to Believe",
-      "summary": "Article URL: https://futurism.com/artificial-intelligence/young-people-ai-ceos-executives-poll Comments URL: https://news.ycombinator.com/item?id=49323932 Points: 156 # Comments: 186",
-      "source": "Hacker News",
-      "published": "2026-08-16T21:34:06+00:00",
-      "link": "https://futurism.com/artificial-intelligence/young-people-ai-ceos-executives-poll"
-    },
-    {
-      "title": "OpenAI reportedly disbanded its preparedness team",
-      "summary": "According to the Financial Times, OpenAI disbanded its preparedness team at the end of last month. The job of the preparedness team was to assess if models posed serious risks and develop ways to mitigate those risks.",
-      "source": "The Verge",
-      "published": "2026-08-16T21:32:56+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/980817/openai-disbands-preparedness-team"
     }
   ]
 };
