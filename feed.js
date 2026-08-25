@@ -1,6 +1,27 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-08-25T05:33:23.763701+00:00",
+  "lastUpdated": "2026-08-25T09:21:58.308833+00:00",
   "items": [
+    {
+      "title": "OpenAI subpoenaed by Alabama AG over Hugging Face hack",
+      "summary": "Alabama's attorney general issued a subpoena to OpenAI on Monday as part of an investigation into how one of its AI agents escaped a supposedly secure testing environment and autonomously hacked another company last month.",
+      "source": "The Verge",
+      "published": "2026-08-25T09:15:03+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/984239/alabama-attorney-general-subpoena-openai-hugging-face-hack"
+    },
+    {
+      "title": "Spirit Airlines Wants to Sell Its Data to Google. Former Flight Attendants Are Freaked Out",
+      "summary": "“It never crossed my mind that they would be so bold as to sell our private data for AI,” says one former Spirit Airlines flight attendant.",
+      "source": "Wired",
+      "published": "2026-08-25T09:15:00+00:00",
+      "link": "https://www.wired.com/story/spirit-airlines-wants-to-sell-its-data-to-google-former-flight-attendants-are-freaked-out/"
+    },
+    {
+      "title": "Taiwanese cybersecurity firm warns that AI tools have more than doubled Chinese state-backed cyberattacks",
+      "summary": "Chinese state-backed hacking groups have more than doubled their attacks since they started using AI models like DeepSeek to write exploit code and scan networks, according to Taiwanese security firm TeamT5. Hackers also used ChatGPT and Anthropic's Claude Code.",
+      "source": "The Decoder",
+      "published": "2026-08-25T08:40:14+00:00",
+      "link": "https://the-decoder.com/taiwanese-cybersecurity-firm-warns-that-ai-tools-have-more-than-doubled-chinese-state-backed-cyberattacks/"
+    },
     {
       "title": "Situational Awareness, star AI hedge fund that nearly imploded, now being probed by the SEC",
       "summary": "The AI hedge fund went from \"the talk of Wall Street\" to \"subject of federal subpoenas\" faster than you can say \"diversify your portfolio.\"",
@@ -10,7 +31,7 @@ const FEED_DATA = {
     },
     {
       "title": "Vintage Artificial Intelligence: Before It Got Awkward",
-      "summary": "Article URL: https://blog.archive.org/2026/08/16/vintage-artificial-intelligence-before-it-got-awkward/ Comments URL: https://news.ycombinator.com/item?id=49425800 Points: 75 # Comments: 17",
+      "summary": "Article URL: https://blog.archive.org/2026/08/16/vintage-artificial-intelligence-before-it-got-awkward/ Comments URL: https://news.ycombinator.com/item?id=49425800 Points: 96 # Comments: 18",
       "source": "Hacker News",
       "published": "2026-08-24T21:01:38+00:00",
       "link": "https://blog.archive.org/2026/08/16/vintage-artificial-intelligence-before-it-got-awkward/"
@@ -31,7 +52,7 @@ const FEED_DATA = {
     },
     {
       "title": "Octopus intelligence may be related to never-before-seen mutation",
-      "summary": "Article URL: https://www.smithsonianmag.com/smart-news/why-are-some-octopuses-so-smart-the-answer-might-lie-in-a-never-before-seen-mutation-that-helps-them-accurately-build-proteins-180989319/ Comments URL: https://news.ycombinator.com/item?id=49423539 Points: 117 # Comments: 88",
+      "summary": "Article URL: https://www.smithsonianmag.com/smart-news/why-are-some-octopuses-so-smart-the-answer-might-lie-in-a-never-before-seen-mutation-that-helps-them-accurately-build-proteins-180989319/ Comments URL: https://news.ycombinator.com/item?id=49423539 Points: 155 # Comments: 114",
       "source": "Hacker News",
       "published": "2026-08-24T17:57:13+00:00",
       "link": "https://www.smithsonianmag.com/smart-news/why-are-some-octopuses-so-smart-the-answer-might-lie-in-a-never-before-seen-mutation-that-helps-them-accurately-build-proteins-180989319/"
@@ -45,7 +66,7 @@ const FEED_DATA = {
     },
     {
       "title": "Coding expertise is going to collapse from AI reliance",
-      "summary": "Article URL: https://larsfaye.com/articles/ai-coding-will-prevent-expertise Comments URL: https://news.ycombinator.com/item?id=49421554 Points: 501 # Comments: 493",
+      "summary": "Article URL: https://larsfaye.com/articles/ai-coding-will-prevent-expertise Comments URL: https://news.ycombinator.com/item?id=49421554 Points: 513 # Comments: 502",
       "source": "Hacker News",
       "published": "2026-08-24T15:52:33+00:00",
       "link": "https://larsfaye.com/articles/ai-coding-will-prevent-expertise"
@@ -66,7 +87,7 @@ const FEED_DATA = {
     },
     {
       "title": "OpenAI: GPT 5.6 Sol price reduction (until at least Nov 21)",
-      "summary": "Article URL: https://developers.openai.com/api/docs/pricing Comments URL: https://news.ycombinator.com/item?id=49421074 Points: 315 # Comments: 292",
+      "summary": "Article URL: https://developers.openai.com/api/docs/pricing Comments URL: https://news.ycombinator.com/item?id=49421074 Points: 322 # Comments: 309",
       "source": "Hacker News",
       "published": "2026-08-24T15:22:43+00:00",
       "link": "https://developers.openai.com/api/docs/pricing"
@@ -129,7 +150,7 @@ const FEED_DATA = {
     },
     {
       "title": "We never use AI. For anything",
-      "summary": "Article URL: https://corkmac.app/our-ai-stance/ Comments URL: https://news.ycombinator.com/item?id=49417313 Points: 81 # Comments: 95",
+      "summary": "Article URL: https://corkmac.app/our-ai-stance/ Comments URL: https://news.ycombinator.com/item?id=49417313 Points: 82 # Comments: 96",
       "source": "Hacker News",
       "published": "2026-08-24T09:32:32+00:00",
       "link": "https://corkmac.app/our-ai-stance/"
@@ -157,14 +178,14 @@ const FEED_DATA = {
     },
     {
       "title": "OCR It – pull text out of un-copyable documents for your LLM",
-      "summary": "Article URL: https://github.com/thiagotigaz/ocr-it Comments URL: https://news.ycombinator.com/item?id=49415852 Points: 122 # Comments: 28",
+      "summary": "Article URL: https://github.com/thiagotigaz/ocr-it Comments URL: https://news.ycombinator.com/item?id=49415852 Points: 125 # Comments: 33",
       "source": "Hacker News",
       "published": "2026-08-24T06:25:31+00:00",
       "link": "https://github.com/thiagotigaz/ocr-it"
     },
     {
       "title": "I built a low-latency AI companion that plays Skyrim with me",
-      "summary": "Article URL: https://pantel.is/projects/ai-gaming-companion/ Comments URL: https://news.ycombinator.com/item?id=49413561 Points: 348 # Comments: 69",
+      "summary": "Article URL: https://pantel.is/projects/ai-gaming-companion/ Comments URL: https://news.ycombinator.com/item?id=49413561 Points: 357 # Comments: 71",
       "source": "Hacker News",
       "published": "2026-08-23T23:18:17+00:00",
       "link": "https://pantel.is/projects/ai-gaming-companion/"
@@ -185,7 +206,7 @@ const FEED_DATA = {
     },
     {
       "title": "Training AI to Paint with Code",
-      "summary": "Article URL: https://surya.website/rling-qwen-to-paint-with-code Comments URL: https://news.ycombinator.com/item?id=49411800 Points: 57 # Comments: 5",
+      "summary": "Article URL: https://surya.website/rling-qwen-to-paint-with-code Comments URL: https://news.ycombinator.com/item?id=49411800 Points: 89 # Comments: 10",
       "source": "Hacker News",
       "published": "2026-08-23T19:39:29+00:00",
       "link": "https://surya.website/rling-qwen-to-paint-with-code"
@@ -199,7 +220,7 @@ const FEED_DATA = {
     },
     {
       "title": "Anthropic's best AI model struggles to attract users as cheaper tools thrive",
-      "summary": "Article URL: https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245 Comments URL: https://news.ycombinator.com/item?id=49411102 Points: 774 # Comments: 681",
+      "summary": "Article URL: https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245 Comments URL: https://news.ycombinator.com/item?id=49411102 Points: 783 # Comments: 687",
       "source": "Hacker News",
       "published": "2026-08-23T18:16:37+00:00",
       "link": "https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245"
@@ -213,7 +234,7 @@ const FEED_DATA = {
     },
     {
       "title": "My agent.md to improve LLM-assisted code quality",
-      "summary": "Article URL: https://fabiensanglard.net/agent.md/index.html Comments URL: https://news.ycombinator.com/item?id=49410932 Points: 398 # Comments: 172",
+      "summary": "Article URL: https://fabiensanglard.net/agent.md/index.html Comments URL: https://news.ycombinator.com/item?id=49410932 Points: 402 # Comments: 173",
       "source": "Hacker News",
       "published": "2026-08-23T17:59:52+00:00",
       "link": "https://fabiensanglard.net/agent.md/index.html"
@@ -283,7 +304,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI Chip Architectures",
-      "summary": "Article URL: https://www.jepeake.com/ai-chip-architectures Comments URL: https://news.ycombinator.com/item?id=49405657 Points: 146 # Comments: 45",
+      "summary": "Article URL: https://www.jepeake.com/ai-chip-architectures Comments URL: https://news.ycombinator.com/item?id=49405657 Points: 147 # Comments: 45",
       "source": "Hacker News",
       "published": "2026-08-23T02:25:10+00:00",
       "link": "https://www.jepeake.com/ai-chip-architectures"
@@ -304,7 +325,7 @@ const FEED_DATA = {
     },
     {
       "title": "Why your local LLM feels dumber than it is",
-      "summary": "Article URL: https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917 Comments URL: https://news.ycombinator.com/item?id=49402232 Points: 503 # Comments: 202",
+      "summary": "Article URL: https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917 Comments URL: https://news.ycombinator.com/item?id=49402232 Points: 505 # Comments: 205",
       "source": "Hacker News",
       "published": "2026-08-22T18:14:16+00:00",
       "link": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917"
@@ -1379,27 +1400,6 @@ const FEED_DATA = {
       "source": "Hacker News",
       "published": "2026-08-17T21:03:18+00:00",
       "link": "https://openrouter.ai/openai/gpt-5.6-sol"
-    },
-    {
-      "title": "GPT-5.6 Sol Pricing Cut by 50%",
-      "summary": "Article URL: https://openrouter.ai/openai/gpt-5.6-sol Comments URL: https://news.ycombinator.com/item?id=49337602 Points: 596 # Comments: 411",
-      "source": "Hacker News",
-      "published": "2026-08-17T21:03:18+00:00",
-      "link": "https://openrouter.ai/openai/gpt-5.6-sol"
-    },
-    {
-      "title": "Israel creates fake think tank in likely attempt to dupe AI chatbots",
-      "summary": "Article URL: https://responsiblestatecraft.org/israel-influence-chatgpt/ Comments URL: https://news.ycombinator.com/item?id=49337392 Points: 1054 # Comments: 861",
-      "source": "Hacker News",
-      "published": "2026-08-17T20:46:10+00:00",
-      "link": "https://responsiblestatecraft.org/israel-influence-chatgpt/"
-    },
-    {
-      "title": "AI;DR (AI; Didn't Read)",
-      "summary": "Article URL: https://www.rickmanelius.com/p/aidr-ai-didnt-read Comments URL: https://news.ycombinator.com/item?id=49336573 Points: 1107 # Comments: 690",
-      "source": "Hacker News",
-      "published": "2026-08-17T19:47:15+00:00",
-      "link": "https://www.rickmanelius.com/p/aidr-ai-didnt-read"
     }
   ]
 };
