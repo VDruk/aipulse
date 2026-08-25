@@ -1,5 +1,5 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-08-25T02:16:40.129897+00:00",
+  "lastUpdated": "2026-08-25T05:33:23.763701+00:00",
   "items": [
     {
       "title": "Situational Awareness, star AI hedge fund that nearly imploded, now being probed by the SEC",
@@ -7,6 +7,13 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-08-25T00:23:12+00:00",
       "link": "https://techcrunch.com/2026/08/24/situational-awareness-star-ai-hedge-fund-that-nearly-imploded-now-being-probed-by-the-sec/"
+    },
+    {
+      "title": "Vintage Artificial Intelligence: Before It Got Awkward",
+      "summary": "Article URL: https://blog.archive.org/2026/08/16/vintage-artificial-intelligence-before-it-got-awkward/ Comments URL: https://news.ycombinator.com/item?id=49425800 Points: 75 # Comments: 17",
+      "source": "Hacker News",
+      "published": "2026-08-24T21:01:38+00:00",
+      "link": "https://blog.archive.org/2026/08/16/vintage-artificial-intelligence-before-it-got-awkward/"
     },
     {
       "title": "Pew study confirms sharp rise of AI-written text on the web since ChatGPT's launch",
@@ -23,6 +30,13 @@ const FEED_DATA = {
       "link": "https://techcrunch.com/2026/08/24/instincts-powerful-ai-assistant-is-raising-privacy-and-security-concerns/"
     },
     {
+      "title": "Octopus intelligence may be related to never-before-seen mutation",
+      "summary": "Article URL: https://www.smithsonianmag.com/smart-news/why-are-some-octopuses-so-smart-the-answer-might-lie-in-a-never-before-seen-mutation-that-helps-them-accurately-build-proteins-180989319/ Comments URL: https://news.ycombinator.com/item?id=49423539 Points: 117 # Comments: 88",
+      "source": "Hacker News",
+      "published": "2026-08-24T17:57:13+00:00",
+      "link": "https://www.smithsonianmag.com/smart-news/why-are-some-octopuses-so-smart-the-answer-might-lie-in-a-never-before-seen-mutation-that-helps-them-accurately-build-proteins-180989319/"
+    },
+    {
       "title": "XPENG IRON humanoid robot draws record physical AI funding",
       "summary": "XPENG’s physical AI unit has secured over $900 million at a $6.3 billion valuation to scale its IRON humanoid robot platform.",
       "source": "AI News",
@@ -31,7 +45,7 @@ const FEED_DATA = {
     },
     {
       "title": "Coding expertise is going to collapse from AI reliance",
-      "summary": "Article URL: https://larsfaye.com/articles/ai-coding-will-prevent-expertise Comments URL: https://news.ycombinator.com/item?id=49421554 Points: 347 # Comments: 370",
+      "summary": "Article URL: https://larsfaye.com/articles/ai-coding-will-prevent-expertise Comments URL: https://news.ycombinator.com/item?id=49421554 Points: 501 # Comments: 493",
       "source": "Hacker News",
       "published": "2026-08-24T15:52:33+00:00",
       "link": "https://larsfaye.com/articles/ai-coding-will-prevent-expertise"
@@ -52,7 +66,7 @@ const FEED_DATA = {
     },
     {
       "title": "OpenAI: GPT 5.6 Sol price reduction (until at least Nov 21)",
-      "summary": "Article URL: https://developers.openai.com/api/docs/pricing Comments URL: https://news.ycombinator.com/item?id=49421074 Points: 244 # Comments: 217",
+      "summary": "Article URL: https://developers.openai.com/api/docs/pricing Comments URL: https://news.ycombinator.com/item?id=49421074 Points: 315 # Comments: 292",
       "source": "Hacker News",
       "published": "2026-08-24T15:22:43+00:00",
       "link": "https://developers.openai.com/api/docs/pricing"
@@ -115,7 +129,7 @@ const FEED_DATA = {
     },
     {
       "title": "We never use AI. For anything",
-      "summary": "Article URL: https://corkmac.app/our-ai-stance/ Comments URL: https://news.ycombinator.com/item?id=49417313 Points: 77 # Comments: 94",
+      "summary": "Article URL: https://corkmac.app/our-ai-stance/ Comments URL: https://news.ycombinator.com/item?id=49417313 Points: 81 # Comments: 95",
       "source": "Hacker News",
       "published": "2026-08-24T09:32:32+00:00",
       "link": "https://corkmac.app/our-ai-stance/"
@@ -143,21 +157,21 @@ const FEED_DATA = {
     },
     {
       "title": "OCR It – pull text out of un-copyable documents for your LLM",
-      "summary": "Article URL: https://github.com/thiagotigaz/ocr-it Comments URL: https://news.ycombinator.com/item?id=49415852 Points: 115 # Comments: 26",
+      "summary": "Article URL: https://github.com/thiagotigaz/ocr-it Comments URL: https://news.ycombinator.com/item?id=49415852 Points: 122 # Comments: 28",
       "source": "Hacker News",
       "published": "2026-08-24T06:25:31+00:00",
       "link": "https://github.com/thiagotigaz/ocr-it"
     },
     {
       "title": "I built a low-latency AI companion that plays Skyrim with me",
-      "summary": "Article URL: https://pantel.is/projects/ai-gaming-companion/ Comments URL: https://news.ycombinator.com/item?id=49413561 Points: 324 # Comments: 69",
+      "summary": "Article URL: https://pantel.is/projects/ai-gaming-companion/ Comments URL: https://news.ycombinator.com/item?id=49413561 Points: 348 # Comments: 69",
       "source": "Hacker News",
       "published": "2026-08-23T23:18:17+00:00",
       "link": "https://pantel.is/projects/ai-gaming-companion/"
     },
     {
       "title": "Implementation of GPT-2 in pure CMake",
-      "summary": "Article URL: https://github.com/AlpinDale/gpt2.cmake Comments URL: https://news.ycombinator.com/item?id=49412909 Points: 89 # Comments: 19",
+      "summary": "Article URL: https://github.com/AlpinDale/gpt2.cmake Comments URL: https://news.ycombinator.com/item?id=49412909 Points: 90 # Comments: 19",
       "source": "Hacker News",
       "published": "2026-08-23T21:41:17+00:00",
       "link": "https://github.com/AlpinDale/gpt2.cmake"
@@ -170,6 +184,13 @@ const FEED_DATA = {
       "link": "https://techcrunch.com/2026/08/23/whos-behind-the-new-stealth-model-ox-alpha/"
     },
     {
+      "title": "Training AI to Paint with Code",
+      "summary": "Article URL: https://surya.website/rling-qwen-to-paint-with-code Comments URL: https://news.ycombinator.com/item?id=49411800 Points: 57 # Comments: 5",
+      "source": "Hacker News",
+      "published": "2026-08-23T19:39:29+00:00",
+      "link": "https://surya.website/rling-qwen-to-paint-with-code"
+    },
+    {
       "title": "Linkdaze’s smart calendar is built to run a household, not just track a schedule",
       "summary": "Linkdaze's smart digital calendar stands out for not putting its features behind a paywall, including an AI meal planner tool.",
       "source": "TechCrunch",
@@ -178,21 +199,28 @@ const FEED_DATA = {
     },
     {
       "title": "Anthropic's best AI model struggles to attract users as cheaper tools thrive",
-      "summary": "Article URL: https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245 Comments URL: https://news.ycombinator.com/item?id=49411102 Points: 751 # Comments: 662",
+      "summary": "Article URL: https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245 Comments URL: https://news.ycombinator.com/item?id=49411102 Points: 774 # Comments: 681",
       "source": "Hacker News",
       "published": "2026-08-23T18:16:37+00:00",
       "link": "https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245"
     },
     {
+      "title": "AI and Infrastructure Engineering",
+      "summary": "Article URL: https://omegion.dev/2026/08/ai-and-infrastructure-engineering/ Comments URL: https://news.ycombinator.com/item?id=49411024 Points: 71 # Comments: 39",
+      "source": "Hacker News",
+      "published": "2026-08-23T18:09:01+00:00",
+      "link": "https://omegion.dev/2026/08/ai-and-infrastructure-engineering/"
+    },
+    {
       "title": "My agent.md to improve LLM-assisted code quality",
-      "summary": "Article URL: https://fabiensanglard.net/agent.md/index.html Comments URL: https://news.ycombinator.com/item?id=49410932 Points: 391 # Comments: 169",
+      "summary": "Article URL: https://fabiensanglard.net/agent.md/index.html Comments URL: https://news.ycombinator.com/item?id=49410932 Points: 398 # Comments: 172",
       "source": "Hacker News",
       "published": "2026-08-23T17:59:52+00:00",
       "link": "https://fabiensanglard.net/agent.md/index.html"
     },
     {
       "title": "We must not grant AI agents legal personhood",
-      "summary": "Article URL: https://www.ft.com/content/b8cc4bf4-6d3c-4974-8428-9a091983c473 Comments URL: https://news.ycombinator.com/item?id=49410628 Points: 62 # Comments: 111",
+      "summary": "Article URL: https://www.ft.com/content/b8cc4bf4-6d3c-4974-8428-9a091983c473 Comments URL: https://news.ycombinator.com/item?id=49410628 Points: 62 # Comments: 112",
       "source": "Hacker News",
       "published": "2026-08-23T17:25:03+00:00",
       "link": "https://www.ft.com/content/b8cc4bf4-6d3c-4974-8428-9a091983c473"
@@ -213,7 +241,7 @@ const FEED_DATA = {
     },
     {
       "title": "I spent $266 and four AI models to own my tablet. GLM-5.3 finished it in a day",
-      "summary": "Article URL: https://ericpardee.github.io/fire-hd-ownership/ Comments URL: https://news.ycombinator.com/item?id=49409073 Points: 677 # Comments: 289",
+      "summary": "Article URL: https://ericpardee.github.io/fire-hd-ownership/ Comments URL: https://news.ycombinator.com/item?id=49409073 Points: 686 # Comments: 289",
       "source": "Hacker News",
       "published": "2026-08-23T14:23:09+00:00",
       "link": "https://ericpardee.github.io/fire-hd-ownership/"
@@ -255,7 +283,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI Chip Architectures",
-      "summary": "Article URL: https://www.jepeake.com/ai-chip-architectures Comments URL: https://news.ycombinator.com/item?id=49405657 Points: 137 # Comments: 45",
+      "summary": "Article URL: https://www.jepeake.com/ai-chip-architectures Comments URL: https://news.ycombinator.com/item?id=49405657 Points: 146 # Comments: 45",
       "source": "Hacker News",
       "published": "2026-08-23T02:25:10+00:00",
       "link": "https://www.jepeake.com/ai-chip-architectures"
@@ -276,7 +304,7 @@ const FEED_DATA = {
     },
     {
       "title": "Why your local LLM feels dumber than it is",
-      "summary": "Article URL: https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917 Comments URL: https://news.ycombinator.com/item?id=49402232 Points: 499 # Comments: 202",
+      "summary": "Article URL: https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917 Comments URL: https://news.ycombinator.com/item?id=49402232 Points: 503 # Comments: 202",
       "source": "Hacker News",
       "published": "2026-08-22T18:14:16+00:00",
       "link": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917"
@@ -297,7 +325,7 @@ const FEED_DATA = {
     },
     {
       "title": "Digging the grave of my skills: Hollywood creatives training AI to do their jobs",
-      "summary": "Article URL: https://www.theguardian.com/technology/2026/aug/22/the-hollywood-creatives-training-ai-to-do-their-jobs Comments URL: https://news.ycombinator.com/item?id=49399941 Points: 56 # Comments: 70",
+      "summary": "Article URL: https://www.theguardian.com/technology/2026/aug/22/the-hollywood-creatives-training-ai-to-do-their-jobs Comments URL: https://news.ycombinator.com/item?id=49399941 Points: 57 # Comments: 70",
       "source": "Hacker News",
       "published": "2026-08-22T14:13:05+00:00",
       "link": "https://www.theguardian.com/technology/2026/aug/22/the-hollywood-creatives-training-ai-to-do-their-jobs"
@@ -430,7 +458,7 @@ const FEED_DATA = {
     },
     {
       "title": "How a Texas student blew the whistle on a rogue AI hacking attempt",
-      "summary": "Article URL: https://www.reuters.com/world/how-texas-student-blew-whistle-rogue-ai-hacking-attempt-2026-08-20/ Comments URL: https://news.ycombinator.com/item?id=49387959 Points: 209 # Comments: 125",
+      "summary": "Article URL: https://www.reuters.com/world/how-texas-student-blew-whistle-rogue-ai-hacking-attempt-2026-08-20/ Comments URL: https://news.ycombinator.com/item?id=49387959 Points: 210 # Comments: 127",
       "source": "Hacker News",
       "published": "2026-08-21T13:43:33+00:00",
       "link": "https://www.reuters.com/world/how-texas-student-blew-whistle-rogue-ai-hacking-attempt-2026-08-20/"
@@ -1372,34 +1400,6 @@ const FEED_DATA = {
       "source": "Hacker News",
       "published": "2026-08-17T19:47:15+00:00",
       "link": "https://www.rickmanelius.com/p/aidr-ai-didnt-read"
-    },
-    {
-      "title": "What Flock’s defenders are missing",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here.",
-      "source": "MIT Tech Review",
-      "published": "2026-08-17T19:16:09+00:00",
-      "link": "https://www.technologyreview.com/2026/08/17/1142200/what-flocks-defenders-are-missing/"
-    },
-    {
-      "title": "AirTag reveals Amazon is trashing rare books to train AI",
-      "summary": "Article URL: https://arstechnica.com/tech-policy/2026/08/hidden-airtag-reveals-amazon-is-trashing-rare-books-to-train-ai/ Comments URL: https://news.ycombinator.com/item?id=49336050 Points: 131 # Comments: 6",
-      "source": "Hacker News",
-      "published": "2026-08-17T19:06:11+00:00",
-      "link": "https://arstechnica.com/tech-policy/2026/08/hidden-airtag-reveals-amazon-is-trashing-rare-books-to-train-ai/"
-    },
-    {
-      "title": "Amazon, which started off selling books, is destroying rare texts to train AI",
-      "summary": "Article URL: https://techcrunch.com/2026/08/17/amazon-once-an-online-bookseller-is-destroying-rare-books-to-train-ai-models/ Comments URL: https://news.ycombinator.com/item?id=49335216 Points: 94 # Comments: 17",
-      "source": "Hacker News",
-      "published": "2026-08-17T18:10:16+00:00",
-      "link": "https://techcrunch.com/2026/08/17/amazon-once-an-online-bookseller-is-destroying-rare-books-to-train-ai-models/"
-    },
-    {
-      "title": "Qwen3.8 27B scores 52 on Artificial Analysis",
-      "summary": "Article URL: https://artificialanalysis.ai/models/qwen3-8-27b Comments URL: https://news.ycombinator.com/item?id=49334544 Points: 380 # Comments: 180",
-      "source": "Hacker News",
-      "published": "2026-08-17T17:25:17+00:00",
-      "link": "https://artificialanalysis.ai/models/qwen3-8-27b"
     }
   ]
 };
