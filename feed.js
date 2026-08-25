@@ -1,6 +1,41 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-08-25T13:54:02.863965+00:00",
+  "lastUpdated": "2026-08-25T17:25:05.657429+00:00",
   "items": [
+    {
+      "title": "Google launches Gemini for legal work to automate contracts and research",
+      "summary": "With Gemini Enterprise for Legal, Google launches an AI solution for the legal industry that connects to systems like iManage, DocuSign, and Everlaw through MCP connectors. Partners like Deloitte sell ready-made AI agents for tasks like contract review.",
+      "source": "The Decoder",
+      "published": "2026-08-25T16:21:09+00:00",
+      "link": "https://the-decoder.com/google-launches-gemini-for-legal-work-to-automate-contracts-and-research/"
+    },
+    {
+      "title": "MIT AI forecasts extreme weather without historical data",
+      "summary": "MIT engineers have built an AI tool that forecasts extreme weather without training on historical disaster data. Kai Chang, a mechanical engineering graduate student, and Professor Themis Sapsis developed the tool.",
+      "source": "AI News",
+      "published": "2026-08-25T15:46:06+00:00",
+      "link": "https://www.artificialintelligence-news.com/news/mit-ai-forecasts-extreme-weather-without-historical-data/"
+    },
+    {
+      "title": "How much of HN is AI?",
+      "summary": "Article URL: https://blog.coredump.cx/p/how-much-of-hn-is-ai Comments URL: https://news.ycombinator.com/item?id=49435728 Points: 183 # Comments: 158",
+      "source": "Hacker News",
+      "published": "2026-08-25T15:23:41+00:00",
+      "link": "https://blog.coredump.cx/p/how-much-of-hn-is-ai"
+    },
+    {
+      "title": "AI is hitting entry-level jobs hardest, Stanford study finds",
+      "summary": "Article URL: https://arstechnica.com/ai/2026/08/ai-is-hitting-entry-level-jobs-hardest-stanford-study-finds/ Comments URL: https://news.ycombinator.com/item?id=49435147 Points: 93 # Comments: 77",
+      "source": "Hacker News",
+      "published": "2026-08-25T14:48:58+00:00",
+      "link": "https://arstechnica.com/ai/2026/08/ai-is-hitting-entry-level-jobs-hardest-stanford-study-finds/"
+    },
+    {
+      "title": "OpenAI’s Jalapeño chip is built for fast inference at scale, benchmarks show",
+      "summary": "Tested on SemiAnalysis’ InferenceX benchmark, Jalapeño registered both more tokens per user and more throughput per kilowatt than the currently available state-of-the art.",
+      "source": "TechCrunch",
+      "published": "2026-08-25T14:22:04+00:00",
+      "link": "https://techcrunch.com/2026/08/25/openais-jalapeno-chip-is-built-for-fast-inference-at-scale-benchmarks-show/"
+    },
     {
       "title": "Meta's paid AI agent Hatch launches soon, with a new model called Watermelon due in October",
       "summary": "Meta Platforms will launch its AI agent Hatch in the coming weeks and release a new AI model called Watermelon in October. The article Meta's paid AI agent Hatch launches soon, with a new model called Watermelon due in October appeared first on The Decoder.",
@@ -10,7 +45,7 @@ const FEED_DATA = {
     },
     {
       "title": "Apple introduces M6 and M5 Ultra for a big leap in performance and AI compute",
-      "summary": "Article URL: https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/ Comments URL: https://news.ycombinator.com/item?id=49433292 Points: 211 # Comments: 138",
+      "summary": "Article URL: https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/ Comments URL: https://news.ycombinator.com/item?id=49433292 Points: 574 # Comments: 466",
       "source": "Hacker News",
       "published": "2026-08-25T13:01:22+00:00",
       "link": "https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/"
@@ -101,7 +136,7 @@ const FEED_DATA = {
     },
     {
       "title": "Vintage Artificial Intelligence: Before It Got Awkward",
-      "summary": "Article URL: https://blog.archive.org/2026/08/16/vintage-artificial-intelligence-before-it-got-awkward/ Comments URL: https://news.ycombinator.com/item?id=49425800 Points: 129 # Comments: 24",
+      "summary": "Article URL: https://blog.archive.org/2026/08/16/vintage-artificial-intelligence-before-it-got-awkward/ Comments URL: https://news.ycombinator.com/item?id=49425800 Points: 143 # Comments: 28",
       "source": "Hacker News",
       "published": "2026-08-24T21:01:38+00:00",
       "link": "https://blog.archive.org/2026/08/16/vintage-artificial-intelligence-before-it-got-awkward/"
@@ -122,7 +157,7 @@ const FEED_DATA = {
     },
     {
       "title": "Octopus intelligence may be related to never-before-seen mutation",
-      "summary": "Article URL: https://www.smithsonianmag.com/smart-news/why-are-some-octopuses-so-smart-the-answer-might-lie-in-a-never-before-seen-mutation-that-helps-them-accurately-build-proteins-180989319/ Comments URL: https://news.ycombinator.com/item?id=49423539 Points: 183 # Comments: 140",
+      "summary": "Article URL: https://www.smithsonianmag.com/smart-news/why-are-some-octopuses-so-smart-the-answer-might-lie-in-a-never-before-seen-mutation-that-helps-them-accurately-build-proteins-180989319/ Comments URL: https://news.ycombinator.com/item?id=49423539 Points: 189 # Comments: 160",
       "source": "Hacker News",
       "published": "2026-08-24T17:57:13+00:00",
       "link": "https://www.smithsonianmag.com/smart-news/why-are-some-octopuses-so-smart-the-answer-might-lie-in-a-never-before-seen-mutation-that-helps-them-accurately-build-proteins-180989319/"
@@ -136,7 +171,7 @@ const FEED_DATA = {
     },
     {
       "title": "Coding expertise is going to collapse from AI reliance",
-      "summary": "Article URL: https://larsfaye.com/articles/ai-coding-will-prevent-expertise Comments URL: https://news.ycombinator.com/item?id=49421554 Points: 522 # Comments: 513",
+      "summary": "Article URL: https://larsfaye.com/articles/ai-coding-will-prevent-expertise Comments URL: https://news.ycombinator.com/item?id=49421554 Points: 533 # Comments: 523",
       "source": "Hacker News",
       "published": "2026-08-24T15:52:33+00:00",
       "link": "https://larsfaye.com/articles/ai-coding-will-prevent-expertise"
@@ -157,7 +192,7 @@ const FEED_DATA = {
     },
     {
       "title": "OpenAI: GPT 5.6 Sol price reduction (until at least Nov 21)",
-      "summary": "Article URL: https://developers.openai.com/api/docs/pricing Comments URL: https://news.ycombinator.com/item?id=49421074 Points: 329 # Comments: 322",
+      "summary": "Article URL: https://developers.openai.com/api/docs/pricing Comments URL: https://news.ycombinator.com/item?id=49421074 Points: 331 # Comments: 326",
       "source": "Hacker News",
       "published": "2026-08-24T15:22:43+00:00",
       "link": "https://developers.openai.com/api/docs/pricing"
@@ -248,21 +283,21 @@ const FEED_DATA = {
     },
     {
       "title": "OCR It – pull text out of un-copyable documents for your LLM",
-      "summary": "Article URL: https://github.com/thiagotigaz/ocr-it Comments URL: https://news.ycombinator.com/item?id=49415852 Points: 135 # Comments: 33",
+      "summary": "Article URL: https://github.com/thiagotigaz/ocr-it Comments URL: https://news.ycombinator.com/item?id=49415852 Points: 136 # Comments: 33",
       "source": "Hacker News",
       "published": "2026-08-24T06:25:31+00:00",
       "link": "https://github.com/thiagotigaz/ocr-it"
     },
     {
       "title": "I built a low-latency AI companion that plays Skyrim with me",
-      "summary": "Article URL: https://pantel.is/projects/ai-gaming-companion/ Comments URL: https://news.ycombinator.com/item?id=49413561 Points: 368 # Comments: 73",
+      "summary": "Article URL: https://pantel.is/projects/ai-gaming-companion/ Comments URL: https://news.ycombinator.com/item?id=49413561 Points: 382 # Comments: 75",
       "source": "Hacker News",
       "published": "2026-08-23T23:18:17+00:00",
       "link": "https://pantel.is/projects/ai-gaming-companion/"
     },
     {
       "title": "Implementation of GPT-2 in pure CMake",
-      "summary": "Article URL: https://github.com/AlpinDale/gpt2.cmake Comments URL: https://news.ycombinator.com/item?id=49412909 Points: 91 # Comments: 19",
+      "summary": "Article URL: https://github.com/AlpinDale/gpt2.cmake Comments URL: https://news.ycombinator.com/item?id=49412909 Points: 92 # Comments: 19",
       "source": "Hacker News",
       "published": "2026-08-23T21:41:17+00:00",
       "link": "https://github.com/AlpinDale/gpt2.cmake"
@@ -276,7 +311,7 @@ const FEED_DATA = {
     },
     {
       "title": "Training AI to Paint with Code",
-      "summary": "Article URL: https://surya.website/rling-qwen-to-paint-with-code Comments URL: https://news.ycombinator.com/item?id=49411800 Points: 136 # Comments: 16",
+      "summary": "Article URL: https://surya.website/rling-qwen-to-paint-with-code Comments URL: https://news.ycombinator.com/item?id=49411800 Points: 179 # Comments: 19",
       "source": "Hacker News",
       "published": "2026-08-23T19:39:29+00:00",
       "link": "https://surya.website/rling-qwen-to-paint-with-code"
@@ -290,7 +325,7 @@ const FEED_DATA = {
     },
     {
       "title": "Anthropic's best AI model struggles to attract users as cheaper tools thrive",
-      "summary": "Article URL: https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245 Comments URL: https://news.ycombinator.com/item?id=49411102 Points: 792 # Comments: 693",
+      "summary": "Article URL: https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245 Comments URL: https://news.ycombinator.com/item?id=49411102 Points: 800 # Comments: 696",
       "source": "Hacker News",
       "published": "2026-08-23T18:16:37+00:00",
       "link": "https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245"
@@ -304,7 +339,7 @@ const FEED_DATA = {
     },
     {
       "title": "My agent.md to improve LLM-assisted code quality",
-      "summary": "Article URL: https://fabiensanglard.net/agent.md/index.html Comments URL: https://news.ycombinator.com/item?id=49410932 Points: 407 # Comments: 174",
+      "summary": "Article URL: https://fabiensanglard.net/agent.md/index.html Comments URL: https://news.ycombinator.com/item?id=49410932 Points: 410 # Comments: 174",
       "source": "Hacker News",
       "published": "2026-08-23T17:59:52+00:00",
       "link": "https://fabiensanglard.net/agent.md/index.html"
@@ -332,7 +367,7 @@ const FEED_DATA = {
     },
     {
       "title": "I spent $266 and four AI models to own my tablet. GLM-5.3 finished it in a day",
-      "summary": "Article URL: https://ericpardee.github.io/fire-hd-ownership/ Comments URL: https://news.ycombinator.com/item?id=49409073 Points: 687 # Comments: 290",
+      "summary": "Article URL: https://ericpardee.github.io/fire-hd-ownership/ Comments URL: https://news.ycombinator.com/item?id=49409073 Points: 690 # Comments: 290",
       "source": "Hacker News",
       "published": "2026-08-23T14:23:09+00:00",
       "link": "https://ericpardee.github.io/fire-hd-ownership/"
@@ -374,7 +409,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI Chip Architectures",
-      "summary": "Article URL: https://www.jepeake.com/ai-chip-architectures Comments URL: https://news.ycombinator.com/item?id=49405657 Points: 149 # Comments: 45",
+      "summary": "Article URL: https://www.jepeake.com/ai-chip-architectures Comments URL: https://news.ycombinator.com/item?id=49405657 Points: 152 # Comments: 45",
       "source": "Hacker News",
       "published": "2026-08-23T02:25:10+00:00",
       "link": "https://www.jepeake.com/ai-chip-architectures"
@@ -395,7 +430,7 @@ const FEED_DATA = {
     },
     {
       "title": "Why your local LLM feels dumber than it is",
-      "summary": "Article URL: https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917 Comments URL: https://news.ycombinator.com/item?id=49402232 Points: 505 # Comments: 206",
+      "summary": "Article URL: https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917 Comments URL: https://news.ycombinator.com/item?id=49402232 Points: 506 # Comments: 206",
       "source": "Hacker News",
       "published": "2026-08-22T18:14:16+00:00",
       "link": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917"
@@ -1365,41 +1400,6 @@ const FEED_DATA = {
       "source": "The Verge",
       "published": "2026-08-18T11:00:00+00:00",
       "link": "https://www.theverge.com/transportation/981194/faa-air-traffic-elon-musk-peter-thiel-palantir"
-    },
-    {
-      "title": "Anthropic's per-token cost runs 4.4 times the average on Vercel, and developers keep paying",
-      "summary": "Anthropic dominated Vercel's AI Gateway spending in July, pulling in 65.1 percent of total revenue while accounting for only 30 percent of tokens processed. Its tokens cost 4.4 times as much as those from competing providers on average.",
-      "source": "The Decoder",
-      "published": "2026-08-18T10:45:00+00:00",
-      "link": "https://the-decoder.com/anthropics-per-token-cost-runs-4-4-times-the-average-on-vercel-and-developers-keep-paying/"
-    },
-    {
-      "title": "Google buys crashed airline Spirit's data at auction, because AI",
-      "summary": "Article URL: https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962 Comments URL: https://news.ycombinator.com/item?id=49343559 Points: 267 # Comments: 158",
-      "source": "Hacker News",
-      "published": "2026-08-18T10:13:28+00:00",
-      "link": "https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962"
-    },
-    {
-      "title": "We still don’t know how people are really using AI",
-      "summary": "AI companies like Anthropic and OpenAI regularly publish reports on how people are using products like Claude and ChatGPT, but they only release the data they want us to see, AI researchers say.",
-      "source": "MIT Tech Review",
-      "published": "2026-08-18T10:06:43+00:00",
-      "link": "https://www.technologyreview.com/2026/08/18/1142226/how-people-use-ai/"
-    },
-    {
-      "title": "Claude Code gets a /design command that lets developers create UI mockups right in the terminal",
-      "summary": "With the /design command, Anthropic brings a visual design workflow directly into Claude Code. Developers can generate UI mockups as artboards right in the terminal before writing any code.",
-      "source": "The Decoder",
-      "published": "2026-08-18T10:06:16+00:00",
-      "link": "https://the-decoder.com/claude-code-gets-a-design-command-that-lets-developers-create-ui-mockups-right-in-the-terminal/"
-    },
-    {
-      "title": "Reading Zhipu’s GLM-5.3 results past the headline number",
-      "summary": "Zhipu’s release note for GLM-5.3 contains a sentence that did not make it into most of the coverage.",
-      "source": "AI News",
-      "published": "2026-08-18T10:00:00+00:00",
-      "link": "https://www.artificialintelligence-news.com/news/zhipu-glm-5-3-benchmarks-explained/"
     }
   ]
 };
