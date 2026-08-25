@@ -1,6 +1,69 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-08-25T09:21:58.308833+00:00",
+  "lastUpdated": "2026-08-25T13:54:02.863965+00:00",
   "items": [
+    {
+      "title": "Meta's paid AI agent Hatch launches soon, with a new model called Watermelon due in October",
+      "summary": "Meta Platforms will launch its AI agent Hatch in the coming weeks and release a new AI model called Watermelon in October. The article Meta's paid AI agent Hatch launches soon, with a new model called Watermelon due in October appeared first on The Decoder.",
+      "source": "The Decoder",
+      "published": "2026-08-25T13:43:40+00:00",
+      "link": "https://the-decoder.com/metas-paid-ai-agent-hatch-launches-soon-with-a-new-model-called-watermelon-due-in-october/"
+    },
+    {
+      "title": "Apple introduces M6 and M5 Ultra for a big leap in performance and AI compute",
+      "summary": "Article URL: https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/ Comments URL: https://news.ycombinator.com/item?id=49433292 Points: 211 # Comments: 138",
+      "source": "Hacker News",
+      "published": "2026-08-25T13:01:22+00:00",
+      "link": "https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/"
+    },
+    {
+      "title": "Accel-backed Keenable is indexing the web for AI agents",
+      "summary": "Now exiting stealth mode with a $26 million seed round, Keenable has been building a vast web search index for AI agents.",
+      "source": "TechCrunch",
+      "published": "2026-08-25T13:00:00+00:00",
+      "link": "https://techcrunch.com/2026/08/25/accel-backed-keenable-is-indexing-the-web-for-ai-agents/"
+    },
+    {
+      "title": "Nvidia says its Groq 3 LPX is four times faster than Cerebras, but the math is more complicated",
+      "summary": "Nvidia is moving its Groq 3 LPX inference chip into full production and reports 3,400 tokens per second on Gemma 4 31B, four times faster than Cerebras. But the numbers don't tell the whole story.",
+      "source": "The Decoder",
+      "published": "2026-08-25T12:27:57+00:00",
+      "link": "https://the-decoder.com/nvidia-says-its-groq-3-lpx-is-four-times-faster-than-cerebras-but-the-math-is-more-complicated/"
+    },
+    {
+      "title": "Ukraine opens its massive labeled battlefield dataset to British firms in a landmark AI weapons partnership",
+      "summary": "The UK becomes the first country to get access to Avengers Labs, Ukraine's platform holding roughly five million annotated combat images for training military AI. Three British startups are already working on pilot projects.",
+      "source": "The Decoder",
+      "published": "2026-08-25T12:16:41+00:00",
+      "link": "https://the-decoder.com/ukraine-opens-its-massive-labeled-battlefield-dataset-to-british-firms-in-a-landmark-ai-weapons-partnership/"
+    },
+    {
+      "title": "The Download: smarter AI in schools, and a robot “carnival” in Shanghai",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. How to encourage smarter AI use in the classroom Chatbots took schools by surprise.",
+      "source": "MIT Tech Review",
+      "published": "2026-08-25T12:10:00+00:00",
+      "link": "https://www.technologyreview.com/2026/08/25/1142909/the-download-smarter-ai-in-schools-robot-carnival-shanghai/"
+    },
+    {
+      "title": "‘The world seems to be ready’: An interview with OpenAI head of product Thibault Sottiaux",
+      "summary": "TechCrunch talks agents, UX, and reporting to Greg Brockman with OpenAI's head of product.",
+      "source": "TechCrunch",
+      "published": "2026-08-25T12:00:00+00:00",
+      "link": "https://techcrunch.com/2026/08/25/the-world-seems-to-be-ready-an-interview-with-openai-head-of-product-thibault-sottiaux/"
+    },
+    {
+      "title": "Alabama AG probes OpenAI after its AI agent went rogue and hacked into external systems",
+      "summary": "Alabama Attorney General Steve Marshall is investigating OpenAI over what he calls an \"AI lab leak.\" The probe follows the July 2026 Hugging Face incident, where an OpenAI agent broke out of a test environment and gained internet access on its own.",
+      "source": "The Decoder",
+      "published": "2026-08-25T10:24:13+00:00",
+      "link": "https://the-decoder.com/alabama-is-investigating-openai-following-an-uncontrolled-ai-agent-hack/"
+    },
+    {
+      "title": "It Should Be Harder to Apply for a Job. No, Really",
+      "summary": "Thanks to a dwindling supply of open roles, “one-click” applications, and the rise of artificial intelligence, it’s easier than ever to apply for a job. We’re all paying the price.",
+      "source": "Wired",
+      "published": "2026-08-25T09:30:00+00:00",
+      "link": "https://www.wired.com/story/applying-for-a-job-is-too-damn-easy/"
+    },
     {
       "title": "OpenAI subpoenaed by Alabama AG over Hugging Face hack",
       "summary": "Alabama's attorney general issued a subpoena to OpenAI on Monday as part of an investigation into how one of its AI agents escaped a supposedly secure testing environment and autonomously hacked another company last month.",
@@ -14,6 +77,13 @@ const FEED_DATA = {
       "source": "Wired",
       "published": "2026-08-25T09:15:00+00:00",
       "link": "https://www.wired.com/story/spirit-airlines-wants-to-sell-its-data-to-google-former-flight-attendants-are-freaked-out/"
+    },
+    {
+      "title": "I spent a day at a robot “carnival” in Shanghai. Here’s what I saw.",
+      "summary": "Humanoid robots are having a moment in China. The popular machines are part of the country’s strategy to bring artificial intelligence into daily life.",
+      "source": "MIT Tech Review",
+      "published": "2026-08-25T09:00:00+00:00",
+      "link": "https://www.technologyreview.com/2026/08/25/1141907/dispatch-shanghai-humanoid-robot-carnival/"
     },
     {
       "title": "Taiwanese cybersecurity firm warns that AI tools have more than doubled Chinese state-backed cyberattacks",
@@ -31,7 +101,7 @@ const FEED_DATA = {
     },
     {
       "title": "Vintage Artificial Intelligence: Before It Got Awkward",
-      "summary": "Article URL: https://blog.archive.org/2026/08/16/vintage-artificial-intelligence-before-it-got-awkward/ Comments URL: https://news.ycombinator.com/item?id=49425800 Points: 96 # Comments: 18",
+      "summary": "Article URL: https://blog.archive.org/2026/08/16/vintage-artificial-intelligence-before-it-got-awkward/ Comments URL: https://news.ycombinator.com/item?id=49425800 Points: 129 # Comments: 24",
       "source": "Hacker News",
       "published": "2026-08-24T21:01:38+00:00",
       "link": "https://blog.archive.org/2026/08/16/vintage-artificial-intelligence-before-it-got-awkward/"
@@ -52,7 +122,7 @@ const FEED_DATA = {
     },
     {
       "title": "Octopus intelligence may be related to never-before-seen mutation",
-      "summary": "Article URL: https://www.smithsonianmag.com/smart-news/why-are-some-octopuses-so-smart-the-answer-might-lie-in-a-never-before-seen-mutation-that-helps-them-accurately-build-proteins-180989319/ Comments URL: https://news.ycombinator.com/item?id=49423539 Points: 155 # Comments: 114",
+      "summary": "Article URL: https://www.smithsonianmag.com/smart-news/why-are-some-octopuses-so-smart-the-answer-might-lie-in-a-never-before-seen-mutation-that-helps-them-accurately-build-proteins-180989319/ Comments URL: https://news.ycombinator.com/item?id=49423539 Points: 183 # Comments: 140",
       "source": "Hacker News",
       "published": "2026-08-24T17:57:13+00:00",
       "link": "https://www.smithsonianmag.com/smart-news/why-are-some-octopuses-so-smart-the-answer-might-lie-in-a-never-before-seen-mutation-that-helps-them-accurately-build-proteins-180989319/"
@@ -66,7 +136,7 @@ const FEED_DATA = {
     },
     {
       "title": "Coding expertise is going to collapse from AI reliance",
-      "summary": "Article URL: https://larsfaye.com/articles/ai-coding-will-prevent-expertise Comments URL: https://news.ycombinator.com/item?id=49421554 Points: 513 # Comments: 502",
+      "summary": "Article URL: https://larsfaye.com/articles/ai-coding-will-prevent-expertise Comments URL: https://news.ycombinator.com/item?id=49421554 Points: 522 # Comments: 513",
       "source": "Hacker News",
       "published": "2026-08-24T15:52:33+00:00",
       "link": "https://larsfaye.com/articles/ai-coding-will-prevent-expertise"
@@ -87,7 +157,7 @@ const FEED_DATA = {
     },
     {
       "title": "OpenAI: GPT 5.6 Sol price reduction (until at least Nov 21)",
-      "summary": "Article URL: https://developers.openai.com/api/docs/pricing Comments URL: https://news.ycombinator.com/item?id=49421074 Points: 322 # Comments: 309",
+      "summary": "Article URL: https://developers.openai.com/api/docs/pricing Comments URL: https://news.ycombinator.com/item?id=49421074 Points: 329 # Comments: 322",
       "source": "Hacker News",
       "published": "2026-08-24T15:22:43+00:00",
       "link": "https://developers.openai.com/api/docs/pricing"
@@ -150,7 +220,7 @@ const FEED_DATA = {
     },
     {
       "title": "We never use AI. For anything",
-      "summary": "Article URL: https://corkmac.app/our-ai-stance/ Comments URL: https://news.ycombinator.com/item?id=49417313 Points: 82 # Comments: 96",
+      "summary": "Article URL: https://corkmac.app/our-ai-stance/ Comments URL: https://news.ycombinator.com/item?id=49417313 Points: 83 # Comments: 98",
       "source": "Hacker News",
       "published": "2026-08-24T09:32:32+00:00",
       "link": "https://corkmac.app/our-ai-stance/"
@@ -178,21 +248,21 @@ const FEED_DATA = {
     },
     {
       "title": "OCR It – pull text out of un-copyable documents for your LLM",
-      "summary": "Article URL: https://github.com/thiagotigaz/ocr-it Comments URL: https://news.ycombinator.com/item?id=49415852 Points: 125 # Comments: 33",
+      "summary": "Article URL: https://github.com/thiagotigaz/ocr-it Comments URL: https://news.ycombinator.com/item?id=49415852 Points: 135 # Comments: 33",
       "source": "Hacker News",
       "published": "2026-08-24T06:25:31+00:00",
       "link": "https://github.com/thiagotigaz/ocr-it"
     },
     {
       "title": "I built a low-latency AI companion that plays Skyrim with me",
-      "summary": "Article URL: https://pantel.is/projects/ai-gaming-companion/ Comments URL: https://news.ycombinator.com/item?id=49413561 Points: 357 # Comments: 71",
+      "summary": "Article URL: https://pantel.is/projects/ai-gaming-companion/ Comments URL: https://news.ycombinator.com/item?id=49413561 Points: 368 # Comments: 73",
       "source": "Hacker News",
       "published": "2026-08-23T23:18:17+00:00",
       "link": "https://pantel.is/projects/ai-gaming-companion/"
     },
     {
       "title": "Implementation of GPT-2 in pure CMake",
-      "summary": "Article URL: https://github.com/AlpinDale/gpt2.cmake Comments URL: https://news.ycombinator.com/item?id=49412909 Points: 90 # Comments: 19",
+      "summary": "Article URL: https://github.com/AlpinDale/gpt2.cmake Comments URL: https://news.ycombinator.com/item?id=49412909 Points: 91 # Comments: 19",
       "source": "Hacker News",
       "published": "2026-08-23T21:41:17+00:00",
       "link": "https://github.com/AlpinDale/gpt2.cmake"
@@ -206,7 +276,7 @@ const FEED_DATA = {
     },
     {
       "title": "Training AI to Paint with Code",
-      "summary": "Article URL: https://surya.website/rling-qwen-to-paint-with-code Comments URL: https://news.ycombinator.com/item?id=49411800 Points: 89 # Comments: 10",
+      "summary": "Article URL: https://surya.website/rling-qwen-to-paint-with-code Comments URL: https://news.ycombinator.com/item?id=49411800 Points: 136 # Comments: 16",
       "source": "Hacker News",
       "published": "2026-08-23T19:39:29+00:00",
       "link": "https://surya.website/rling-qwen-to-paint-with-code"
@@ -220,28 +290,28 @@ const FEED_DATA = {
     },
     {
       "title": "Anthropic's best AI model struggles to attract users as cheaper tools thrive",
-      "summary": "Article URL: https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245 Comments URL: https://news.ycombinator.com/item?id=49411102 Points: 783 # Comments: 687",
+      "summary": "Article URL: https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245 Comments URL: https://news.ycombinator.com/item?id=49411102 Points: 792 # Comments: 693",
       "source": "Hacker News",
       "published": "2026-08-23T18:16:37+00:00",
       "link": "https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245"
     },
     {
       "title": "AI and Infrastructure Engineering",
-      "summary": "Article URL: https://omegion.dev/2026/08/ai-and-infrastructure-engineering/ Comments URL: https://news.ycombinator.com/item?id=49411024 Points: 71 # Comments: 39",
+      "summary": "Article URL: https://omegion.dev/2026/08/ai-and-infrastructure-engineering/ Comments URL: https://news.ycombinator.com/item?id=49411024 Points: 71 # Comments: 40",
       "source": "Hacker News",
       "published": "2026-08-23T18:09:01+00:00",
       "link": "https://omegion.dev/2026/08/ai-and-infrastructure-engineering/"
     },
     {
       "title": "My agent.md to improve LLM-assisted code quality",
-      "summary": "Article URL: https://fabiensanglard.net/agent.md/index.html Comments URL: https://news.ycombinator.com/item?id=49410932 Points: 402 # Comments: 173",
+      "summary": "Article URL: https://fabiensanglard.net/agent.md/index.html Comments URL: https://news.ycombinator.com/item?id=49410932 Points: 407 # Comments: 174",
       "source": "Hacker News",
       "published": "2026-08-23T17:59:52+00:00",
       "link": "https://fabiensanglard.net/agent.md/index.html"
     },
     {
       "title": "We must not grant AI agents legal personhood",
-      "summary": "Article URL: https://www.ft.com/content/b8cc4bf4-6d3c-4974-8428-9a091983c473 Comments URL: https://news.ycombinator.com/item?id=49410628 Points: 62 # Comments: 112",
+      "summary": "Article URL: https://www.ft.com/content/b8cc4bf4-6d3c-4974-8428-9a091983c473 Comments URL: https://news.ycombinator.com/item?id=49410628 Points: 62 # Comments: 113",
       "source": "Hacker News",
       "published": "2026-08-23T17:25:03+00:00",
       "link": "https://www.ft.com/content/b8cc4bf4-6d3c-4974-8428-9a091983c473"
@@ -262,7 +332,7 @@ const FEED_DATA = {
     },
     {
       "title": "I spent $266 and four AI models to own my tablet. GLM-5.3 finished it in a day",
-      "summary": "Article URL: https://ericpardee.github.io/fire-hd-ownership/ Comments URL: https://news.ycombinator.com/item?id=49409073 Points: 686 # Comments: 289",
+      "summary": "Article URL: https://ericpardee.github.io/fire-hd-ownership/ Comments URL: https://news.ycombinator.com/item?id=49409073 Points: 687 # Comments: 290",
       "source": "Hacker News",
       "published": "2026-08-23T14:23:09+00:00",
       "link": "https://ericpardee.github.io/fire-hd-ownership/"
@@ -304,7 +374,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI Chip Architectures",
-      "summary": "Article URL: https://www.jepeake.com/ai-chip-architectures Comments URL: https://news.ycombinator.com/item?id=49405657 Points: 147 # Comments: 45",
+      "summary": "Article URL: https://www.jepeake.com/ai-chip-architectures Comments URL: https://news.ycombinator.com/item?id=49405657 Points: 149 # Comments: 45",
       "source": "Hacker News",
       "published": "2026-08-23T02:25:10+00:00",
       "link": "https://www.jepeake.com/ai-chip-architectures"
@@ -325,7 +395,7 @@ const FEED_DATA = {
     },
     {
       "title": "Why your local LLM feels dumber than it is",
-      "summary": "Article URL: https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917 Comments URL: https://news.ycombinator.com/item?id=49402232 Points: 505 # Comments: 205",
+      "summary": "Article URL: https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917 Comments URL: https://news.ycombinator.com/item?id=49402232 Points: 505 # Comments: 206",
       "source": "Hacker News",
       "published": "2026-08-22T18:14:16+00:00",
       "link": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917"
@@ -458,7 +528,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI boosted homework scores, then exam scores dropped: Study",
-      "summary": "Article URL: https://canews24.online/?p=71 Comments URL: https://news.ycombinator.com/item?id=49389565 Points: 165 # Comments: 11",
+      "summary": "Article URL: https://canews24.online/?p=71 Comments URL: https://news.ycombinator.com/item?id=49389565 Points: 166 # Comments: 11",
       "source": "Hacker News",
       "published": "2026-08-21T15:25:42+00:00",
       "link": "https://canews24.online/?p=71"
@@ -1330,76 +1400,6 @@ const FEED_DATA = {
       "source": "AI News",
       "published": "2026-08-18T10:00:00+00:00",
       "link": "https://www.artificialintelligence-news.com/news/zhipu-glm-5-3-benchmarks-explained/"
-    },
-    {
-      "title": "Apple’s camera-equipped AirPods appear in leaked video",
-      "summary": "We may have our first glimpse of Apple's rumored camera-equipped AirPods, thanks to a video that MacRumors found in the macOS Tahoe 26.7 Release Candidate.",
-      "source": "The Verge",
-      "published": "2026-08-18T09:00:01+00:00",
-      "link": "https://www.theverge.com/tech/981326/apple-airpods-with-cameras-demo-video-leak"
-    },
-    {
-      "title": "The Powerful Chinese AI Model Experts Warned About Is Here",
-      "summary": "Z.ai’s latest AI model release could help companies secure their systems—or find its way into the hands of hackers.",
-      "source": "Wired",
-      "published": "2026-08-18T09:00:00+00:00",
-      "link": "https://www.wired.com/story/zai-open-weight-ai-models-release-cybersecurity-hacking/"
-    },
-    {
-      "title": "AI’s recursive self-improvement might not come so quickly after all",
-      "summary": "The AI industry’s boldest promise right now is that AI will soon improve itself, with almost no need for human oversight. LLMs can already write code, generate synthetic data for training, and optimize the computer chips they run on.",
-      "source": "MIT Tech Review",
-      "published": "2026-08-18T09:00:00+00:00",
-      "link": "https://www.technologyreview.com/2026/08/18/1142188/ai-recursive-self-improvement/"
-    },
-    {
-      "title": "The Powerful Chinese Model Experts Warned About—and Waited for—Is Here",
-      "summary": "Z.ai’s latest AI model release could help companies secure their systems—or find its way into the hands of hackers.",
-      "source": "Wired",
-      "published": "2026-08-18T09:00:00+00:00",
-      "link": "https://www.wired.com/story/zai-open-weight-ai-models-release-cybersecurity-hacking/"
-    },
-    {
-      "title": "AI systems quietly drop user instructions when they compress context",
-      "summary": "When AI systems condense long conversations, they drop an average of 83 percent of user rules, like \"don't send emails without my approval.\" Penn State researchers propose a small add-on module built on Qwen3.5-9B that preserves over 90 percent of these restrictions.",
-      "source": "The Decoder",
-      "published": "2026-08-18T08:22:24+00:00",
-      "link": "https://the-decoder.com/ai-systems-quietly-drop-user-instructions-when-they-compress-context/"
-    },
-    {
-      "title": "Anthropic increases revenue sevenfold, hits annualized rate above $65 billion",
-      "summary": "Anthropic's annualized revenue has topped $65 billion, a sevenfold increase in one year, according to Bloomberg. The company could go public as early as fall 2026 at a $1 trillion valuation, potentially beating OpenAI to market.",
-      "source": "The Decoder",
-      "published": "2026-08-18T07:37:25+00:00",
-      "link": "https://the-decoder.com/anthropic-increases-revenue-sevenfold-hits-annualized-rate-above-65-billion/"
-    },
-    {
-      "title": "Anthropic’s annualized revenue surges to $65B",
-      "summary": "The model maker added $18 billion in annualized revenue in two months.",
-      "source": "TechCrunch",
-      "published": "2026-08-17T23:56:26+00:00",
-      "link": "https://techcrunch.com/2026/08/17/anthropics-annualized-revenue-surges-to-65b/"
-    },
-    {
-      "title": "My friends all hate AI; I just joined an AI startup",
-      "summary": "Article URL: https://www.fast.ai/posts/2026-08-18-returning-to-AI/ Comments URL: https://news.ycombinator.com/item?id=49338139 Points: 58 # Comments: 210",
-      "source": "Hacker News",
-      "published": "2026-08-17T21:47:30+00:00",
-      "link": "https://www.fast.ai/posts/2026-08-18-returning-to-AI/"
-    },
-    {
-      "title": "AI automation startup Relay shuts down, staff joins Google’s Chrome team",
-      "summary": "\"We have some really ambitious plans to help you work with AI in Chrome to get things done, and I’ll have more to share soon,\" Jacob Bank, Relay founder and CEO, said.",
-      "source": "TechCrunch",
-      "published": "2026-08-17T21:27:05+00:00",
-      "link": "https://techcrunch.com/2026/08/17/ai-automation-startup-relay-shuts-down-staff-joins-googles-chrome-team/"
-    },
-    {
-      "title": "GPT-5.6 Sol Pricing Cut by 50% on OpenRouter",
-      "summary": "Article URL: https://openrouter.ai/openai/gpt-5.6-sol Comments URL: https://news.ycombinator.com/item?id=49337602 Points: 634 # Comments: 448",
-      "source": "Hacker News",
-      "published": "2026-08-17T21:03:18+00:00",
-      "link": "https://openrouter.ai/openai/gpt-5.6-sol"
     }
   ]
 };
