@@ -1,6 +1,34 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-08-25T17:25:05.657429+00:00",
+  "lastUpdated": "2026-08-25T21:21:29.455474+00:00",
   "items": [
+    {
+      "title": "Stability AI, maker of image generator Stable Diffusion, raises $76 million in fresh funding",
+      "summary": "The company's new fundraising total now stands at $232 million.",
+      "source": "TechCrunch",
+      "published": "2026-08-25T19:03:47+00:00",
+      "link": "https://techcrunch.com/2026/08/25/stability-ai-maker-of-image-generator-stable-diffusion-raises-76-million-in-fresh-funding/"
+    },
+    {
+      "title": "Russia used ChatGPT to run a covert influence campaign pushing pro-Kremlin narratives across the West",
+      "summary": "OpenAI has disrupted a covert Russian influence campaign that used ChatGPT to generate social media posts by banning a cluster of accounts.",
+      "source": "The Decoder",
+      "published": "2026-08-25T18:54:56+00:00",
+      "link": "https://the-decoder.com/russia-used-chatgpt-to-run-a-covert-influence-campaign-pushing-pro-kremlin-narratives-across-the-west/"
+    },
+    {
+      "title": "OpenAI's first custom chip \"Jalapeño\" reportedly beats Nvidia's Blackwell and Rubin in inference benchmarks",
+      "summary": "OpenAI showed off \"Jalapeño,\" its first in-house inference chip, with benchmarks at the Hot Chips conference. According to SemiAnalysis tests, the chip beats Nvidia's Blackwell and even Rubin in throughput and energy efficiency.",
+      "source": "The Decoder",
+      "published": "2026-08-25T18:00:50+00:00",
+      "link": "https://the-decoder.com/openais-first-custom-chip-jalapeno-reportedly-beats-nvidias-blackwell-and-rubin-in-inference-benchmarks/"
+    },
+    {
+      "title": "Claude Cowork finally remembers what you told the app in chat",
+      "summary": "Anthropic is giving Claude a shared memory across chat and Cowork, so users no longer have to repeatedly brief the AI on projects, preferences, and other context.",
+      "source": "TechCrunch",
+      "published": "2026-08-25T17:50:33+00:00",
+      "link": "https://techcrunch.com/2026/08/25/claude-cowork-finally-remembers-what-you-told-the-app-in-chat/"
+    },
     {
       "title": "Google launches Gemini for legal work to automate contracts and research",
       "summary": "With Gemini Enterprise for Legal, Google launches an AI solution for the legal industry that connects to systems like iManage, DocuSign, and Everlaw through MCP connectors. Partners like Deloitte sell ready-made AI agents for tasks like contract review.",
@@ -35,6 +63,13 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-08-25T14:22:04+00:00",
       "link": "https://techcrunch.com/2026/08/25/openais-jalapeno-chip-is-built-for-fast-inference-at-scale-benchmarks-show/"
+    },
+    {
+      "title": "OpenAI says its Jalapeño chip can power faster AI responses than the competition",
+      "summary": "OpenAI says its new AI chip, Jalapeño, completes tasks more efficiently and returns responses faster than other AI systems, according to a blog post published on Tuesday.",
+      "source": "The Verge",
+      "published": "2026-08-25T14:00:00+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/984290/openai-jalapeno-ai-chip-benchmarks"
     },
     {
       "title": "Meta's paid AI agent Hatch launches soon, with a new model called Watermelon due in October",
@@ -1365,41 +1400,6 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-08-18T11:43:02+00:00",
       "link": "https://the-decoder.com/as-ai-beats-doctors-regulators-shouldnt-force-a-human-into-the-loop-jama-piece-says/"
-    },
-    {
-      "title": "DOJ probes Andreessen Horowitz over partners sitting on competing AI boards",
-      "summary": "Andreessen Horowitz is the focus of an antitrust probe by the US Justice Department. The charge is that the firm's partners sit on the boards of competing data firms Databricks and Fivetran at the same time.",
-      "source": "The Decoder",
-      "published": "2026-08-18T11:35:17+00:00",
-      "link": "https://the-decoder.com/doj-probes-andreessen-horowitz-over-partners-sitting-on-competing-ai-boards/"
-    },
-    {
-      "title": "OpenAI launches a ChatGPT version built for teens",
-      "summary": "OpenAI is shipping a version of ChatGPT tailored to users aged 13 to 17. The article OpenAI launches a ChatGPT version built for teens appeared first on The Decoder.",
-      "source": "The Decoder",
-      "published": "2026-08-18T11:27:29+00:00",
-      "link": "https://the-decoder.com/openai-launches-a-chatgpt-version-built-for-teens/"
-    },
-    {
-      "title": "Elon Musk broke the FAA — Palantir is picking up the pieces",
-      "summary": "On August 6th, the Minneapolis Air Route Traffic Control Center lost radar and communications for around two hours. The outage disrupted more than 1,100 flights across the center's 330,000 square mile, nine-state airspace sector.",
-      "source": "The Verge",
-      "published": "2026-08-18T11:00:00+00:00",
-      "link": "https://www.theverge.com/transportation/981194/faa-air-traffic-elon-musk-peter-thiel-palantir"
-    },
-    {
-      "title": "ChatGPT is getting a dedicated mode for teens",
-      "summary": "OpenAI is introducing a dedicated ChatGPT mode for teenagers, combining existing youth safeguards and new safety features under one roof.",
-      "source": "The Verge",
-      "published": "2026-08-18T11:00:00+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/981333/openai-chatgpt-teen-mode"
-    },
-    {
-      "title": "Elon Musk made flying even worse so Palantir could profit",
-      "summary": "On August 6th, the Minneapolis Air Route Traffic Control Center lost radar and communications for around two hours. The outage disrupted more than 1,100 flights across the center's 330,000 square mile, nine-state airspace sector.",
-      "source": "The Verge",
-      "published": "2026-08-18T11:00:00+00:00",
-      "link": "https://www.theverge.com/transportation/981194/faa-air-traffic-elon-musk-peter-thiel-palantir"
     }
   ]
 };
