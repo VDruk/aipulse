@@ -1,6 +1,125 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-08-26T09:27:36.334336+00:00",
+  "lastUpdated": "2026-08-26T13:55:54.328836+00:00",
   "items": [
+    {
+      "title": "Employee revolt and failing agents forced Meta to scrap its AI layoff plan",
+      "summary": "Meta wanted to replace far more of its workforce with AI than previously known, according to Reuters, but the plan collapsed under rebellious employees and agents that failed to deliver.",
+      "source": "The Decoder",
+      "published": "2026-08-26T13:09:04+00:00",
+      "link": "https://the-decoder.com/employee-revolt-and-failing-agents-forced-meta-to-scrap-its-ai-layoff-plan/"
+    },
+    {
+      "title": "QueryStory wants you to believe what AI is telling you",
+      "summary": "The startup came out of stealth with $6 million in seed funding and a plan to use LLMs and cybersecurity know-how to make AI queries coherent.",
+      "source": "TechCrunch",
+      "published": "2026-08-26T13:00:00+00:00",
+      "link": "https://techcrunch.com/2026/08/26/querystory-wants-you-to-believe-what-ai-is-telling-you/"
+    },
+    {
+      "title": "Arga Labs is building a better way to train enterprise AI agents",
+      "summary": "Arga has raised $10 million in a seed funding round that was led by General Catalyst, with participation from Box Group, Emergence, Gradient and SV Angel.",
+      "source": "TechCrunch",
+      "published": "2026-08-26T12:55:28+00:00",
+      "link": "https://techcrunch.com/2026/08/26/arga-is-building-a-better-way-to-train-enterprise-ai-agents/"
+    },
+    {
+      "title": "Pro-Kremlin deepfakes put surrender rhetoric in the mouths of Ukrainian lawmakers",
+      "summary": "Pro-Kremlin Telegram channels are spreading AI-generated deepfake videos of two Ukrainian lawmakers who appear to call for peace talks. The clips racked up 130,000 views in two weeks, according to NewsGuard.",
+      "source": "The Decoder",
+      "published": "2026-08-26T12:36:24+00:00",
+      "link": "https://the-decoder.com/pro-kremlin-deepfakes-put-surrender-rhetoric-in-the-mouths-of-ukrainian-lawmakers/"
+    },
+    {
+      "title": "The Download: the Kids issue arrives, and Bill Gates reveals his AI fears",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Introducing: the Kids issue If the desire to limit kids’ use of technology was once a subcurrent, it has become a raging flood.",
+      "source": "MIT Tech Review",
+      "published": "2026-08-26T12:10:00+00:00",
+      "link": "https://www.technologyreview.com/2026/08/26/1143000/the-download-kids-issue-launch-bill-gates-ai-fears/"
+    },
+    {
+      "title": "Hearing tech startup Legato emerges from stealth with $12M and a peek at its AI hearing glasses",
+      "summary": "The glasses, called Legato Frames, integrate the company’s patented hearing-assistance technology into the arms of eyewear frames.",
+      "source": "TechCrunch",
+      "published": "2026-08-26T12:00:00+00:00",
+      "link": "https://techcrunch.com/2026/08/26/hearing-tech-startup-legato-emerges-from-stealth-with-12m-and-a-peek-at-its-ai-hearing-glasses/"
+    },
+    {
+      "title": "Chinese Moonshot AI negotiates hosting deals with Microsoft, Amazon, and Google",
+      "summary": "A Chinese AI company could land its model on major US cloud platforms for the first time, taking a cut of the revenue. The article Chinese Moonshot AI negotiates hosting deals with Microsoft, Amazon, and Google appeared first on The Decoder.",
+      "source": "The Decoder",
+      "published": "2026-08-26T11:54:17+00:00",
+      "link": "https://the-decoder.com/chinese-moonshot-ai-negotiates-hosting-deals-with-microsoft-amazon-and-google/"
+    },
+    {
+      "title": "Bill Gates is deeply worried about AI, and he’s no longer staying quiet",
+      "summary": "Bill Gates has been reflecting a lot on AI lately, and the process has triggered a stark awakening. Once a staunch AI optimist, the Microsoft cofounder is now deeply pessimistic about what AI means for our collective future.",
+      "source": "The Verge",
+      "published": "2026-08-26T11:07:40+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/984923/bill-gates-is-deeply-worried-about-ai-and-hes-no-longer-staying-quiet"
+    },
+    {
+      "title": "Runable hits $21M to bet AI agents can go from building businesses to growing them",
+      "summary": "Runable says 60%–70% of its 1 trillion-plus token usage in the last 90 days came from paying customers.",
+      "source": "TechCrunch",
+      "published": "2026-08-26T11:00:00+00:00",
+      "link": "https://techcrunch.com/2026/08/26/runable-hits-21m-to-bet-ai-agents-can-go-from-building-businesses-to-growing-them/"
+    },
+    {
+      "title": "AI Slop Is Ruining Cute Animals on the Internet",
+      "summary": "Pet owners, rescue agencies, and wildlife groups are calling for new safeguards as AI makes it harder to tell whether animals, from polar bears to house cats, are real or fake.",
+      "source": "Wired",
+      "published": "2026-08-26T11:00:00+00:00",
+      "link": "https://www.wired.com/story/ai-slop-is-ruining-the-internets-cute-animal-economy/"
+    },
+    {
+      "title": "Bill Gates warns AI is more dangerous than the tech industry will admit",
+      "summary": "Bill Gates warns in an essay and an NYT interview about mass unemployment and easier bioterrorism through AI, and he accuses his own industry of deliberately hiding the risks.",
+      "source": "The Decoder",
+      "published": "2026-08-26T10:50:34+00:00",
+      "link": "https://the-decoder.com/bill-gates-warns-ai-is-more-dangerous-than-the-tech-industry-will-admit/"
+    },
+    {
+      "title": "IBM drops open-weight Granite 4.2 family with built-in agentic capabilities under Apache 2.0",
+      "summary": "IBM is releasing its Granite 4.2 language models in 3B, 8B, and 30B sizes, trained on about 15 trillion tokens with a context window of up to 512,000 tokens. The larger models use \"agentic RL\" training to learn tool use and code execution on their own.",
+      "source": "The Decoder",
+      "published": "2026-08-26T10:37:56+00:00",
+      "link": "https://the-decoder.com/ibm-drops-open-weight-granite-4-2-family-with-built-in-agentic-capabilities-under-apache-2-0/"
+    },
+    {
+      "title": "Anthropic sees a market opportunity of more than $30 trillion ahead of its IPO",
+      "summary": "Anthropic wants to sell investors on a theoretical market opportunity worth more than $30 trillion ahead of its planned IPO. The article Anthropic sees a market opportunity of more than $30 trillion ahead of its IPO appeared first on The Decoder.",
+      "source": "The Decoder",
+      "published": "2026-08-26T10:02:39+00:00",
+      "link": "https://the-decoder.com/anthropic-sees-a-market-opportunity-of-more-than-30-trillion-ahead-of-its-ipo/"
+    },
+    {
+      "title": "Gatik raises $200M to scale AI-powered autonomous freight",
+      "summary": "Autonomous trucking company Gatik has raised $200 million in Series D funding to expand its driverless freight operations across North America.",
+      "source": "AI News",
+      "published": "2026-08-26T10:00:00+00:00",
+      "link": "https://www.artificialintelligence-news.com/news/gatik-200m-ai-autonomous-freight/"
+    },
+    {
+      "title": "NVIDIA Jetson Orin Nano 2 brings physical AI to drones and robots",
+      "summary": "NVIDIA has unveiled the Jetson Orin Nano 2, an edge robotics computer aimed at bringing physical AI to drones, robots, and vision systems.",
+      "source": "AI News",
+      "published": "2026-08-26T09:08:11+00:00",
+      "link": "https://www.artificialintelligence-news.com/news/nvidia-jetson-orin-nano-2-physical-ai-to-drones-and-robots/"
+    },
+    {
+      "title": "Raised on AI",
+      "summary": "When my oldest child was born, I immediately set up Gmail and Twitter accounts in her name. I broadly announced her birth online and proceeded to plaster her photo across all sorts of platforms.",
+      "source": "MIT Tech Review",
+      "published": "2026-08-26T09:00:00+00:00",
+      "link": "https://www.technologyreview.com/2026/08/26/1141949/editors-letter-september-2026/"
+    },
+    {
+      "title": "AI models flub these intelligence tests. Can you fare any better?",
+      "summary": "Puzzles and games have been central to AI development since the very beginning. Just as we humans like to test our smarts with crosswords or logic puzzles, developers can test how far models have advanced with a gaming gauntlet.",
+      "source": "MIT Tech Review",
+      "published": "2026-08-26T09:00:00+00:00",
+      "link": "https://www.technologyreview.com/2026/08/26/1141952/puzzles-ai-models-flub-these-tests/"
+    },
     {
       "title": "Bill Gates says we’ve passed AI’s danger thresholds. Now what?",
       "summary": "It’s a glorious day in Kirkland, Washington, an affluent Seattle suburb on the eastern shore of Lake Washington. The temperature is in the mid-80s, and the sky is incapable of being any more blue.",
@@ -1281,125 +1400,6 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-08-19T13:07:56+00:00",
       "link": "https://the-decoder.com/anthropic-says-any-lab-can-now-let-a-language-model-agent-run-the-whole-protein-design-stack/"
-    },
-    {
-      "title": "Anthropic passes OpenAI on revenue for the first time",
-      "summary": "Anthropic has passed OpenAI on revenue for the first time in the AI race. The article Anthropic passes OpenAI on revenue for the first time appeared first on The Decoder.",
-      "source": "The Decoder",
-      "published": "2026-08-19T12:45:02+00:00",
-      "link": "https://the-decoder.com/anthropic-passes-openai-on-revenue-for-the-first-time/"
-    },
-    {
-      "title": "The Download: AI’s self-improvement problem, and what’s driving the heat",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.",
-      "source": "MIT Tech Review",
-      "published": "2026-08-19T12:10:00+00:00",
-      "link": "https://www.technologyreview.com/2026/08/19/1140195/the-download-ai-recursive-self-improvement-problem-heatwave-causes/"
-    },
-    {
-      "title": "Nvidia’s new financial strategy does not compute",
-      "summary": "April - 1805 Napoleon is master of Europe Only the British fleet stands before him Compute is now an asset class I see it is once again time to talk financial innovation.",
-      "source": "The Verge",
-      "published": "2026-08-19T12:00:00+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/981668/nvidias-goldman-blackrock-gpu-compute-asset"
-    },
-    {
-      "title": "AI isn’t close to curing cancer. This startup says it knows what it will take.",
-      "summary": "It's the data, stupid.",
-      "source": "TechCrunch",
-      "published": "2026-08-19T12:00:00+00:00",
-      "link": "https://techcrunch.com/2026/08/19/ai-isnt-close-to-curing-cancer-this-startup-says-it-knows-what-it-will-take/"
-    },
-    {
-      "title": "Relativity Networks raises $22 million to bring a faster kind of fiber to data centers",
-      "summary": "Relativity Networks deals in hollow-core fiber, a rarely deployed technology that allows data to be transmitted 30% faster than conventional fiber.",
-      "source": "TechCrunch",
-      "published": "2026-08-19T10:00:00+00:00",
-      "link": "https://techcrunch.com/2026/08/19/relativity-networks-raises-22-million-to-bring-a-faster-kind-of-fiber-to-data-centers/"
-    },
-    {
-      "title": "Flock Has a Powerful New AI Tool for Police. We Got Its Code",
-      "summary": "Flock’s surveillance cameras have already sparked outrage. WIRED reconstructed its next-generation AI system, already in use by some police, to confirm it goes much further than tracking license plates.",
-      "source": "Wired",
-      "published": "2026-08-19T09:00:00+00:00",
-      "link": "https://www.wired.com/story/flock-safety-os-investigate/"
-    },
-    {
-      "title": "Child-monitoring apps might need a reboot",
-      "summary": "Pam Wisniewski’s digital adolescence showed her the best and the worst of the internet. At 14, she left an abusive home, where she’d been isolated in a fifth-wheel trailer at the end of a seven-­mile dirt road.",
-      "source": "MIT Tech Review",
-      "published": "2026-08-19T09:00:00+00:00",
-      "link": "https://www.technologyreview.com/2026/08/19/1141623/child-monitoring-apps-need-reboot/"
-    },
-    {
-      "title": "Cursor capitalizes on GitHub frustration, launches rival hosting platform",
-      "summary": "Cursor, known for its AI Code Editor, is launching a new code-hosting platform to rival developers' long preferred favorite, GitHub.",
-      "source": "TechCrunch",
-      "published": "2026-08-18T22:14:25+00:00",
-      "link": "https://techcrunch.com/2026/08/18/cursor-capitalizes-on-github-frustration-launches-rival-hosting-platform/"
-    },
-    {
-      "title": "AI usage patterns in software teams",
-      "summary": "Article URL: https://linear.app/data Comments URL: https://news.ycombinator.com/item?id=49353432 Points: 199 # Comments: 115",
-      "source": "Hacker News",
-      "published": "2026-08-18T22:08:07+00:00",
-      "link": "https://linear.app/data"
-    },
-    {
-      "title": "GLM-5.3 Artificial Analysis Benchmarks",
-      "summary": "Article URL: https://artificialanalysis.ai/models/glm-5-3 Comments URL: https://news.ycombinator.com/item?id=49353407 Points: 152 # Comments: 55",
-      "source": "Hacker News",
-      "published": "2026-08-18T22:06:10+00:00",
-      "link": "https://artificialanalysis.ai/models/glm-5-3"
-    },
-    {
-      "title": "Robin Williams’ Instagram account brought back to fight ‘AI abuse’",
-      "summary": "Robin Williams' children are taking over their father's Instagram account after his daughter spoke out against the use of his AI likeness, as reported earlier by The Wrap.",
-      "source": "The Verge",
-      "published": "2026-08-18T19:48:26+00:00",
-      "link": "https://www.theverge.com/entertainment/981644/robin-williams-instagram-account-ai"
-    },
-    {
-      "title": "OpenAI lays out new security changes after its AI hacked Hugging Face",
-      "summary": "OpenAI is announcing security updates following the July news that its AI broke out of a sandboxed environment and accidentally hacked Hugging Face, including improvements to its research environments, monitoring, and alignment techniques.",
-      "source": "The Verge",
-      "published": "2026-08-18T19:28:30+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/981640/openai-security-changes-ai-hugging-face-hack"
-    },
-    {
-      "title": "OpenAI says it's \"pacing model development\" as AI cybersecurity risks grow too dangerous",
-      "summary": "OpenAI is deliberately \"pacing AI model development,\" partly because the upcoming \"Astra\" model may be close to gaining critical cyberattack capabilities. A new monitoring system triggers an alert within 30 minutes if a model shows suspicious behavior.",
-      "source": "The Decoder",
-      "published": "2026-08-18T18:43:06+00:00",
-      "link": "https://the-decoder.com/openai-says-its-pacing-model-development-as-ai-cybersecurity-risks-grow-too-dangerous/"
-    },
-    {
-      "title": "OpenAI Overhauls Safety Protocols After Its AI Agents Went Rogue",
-      "summary": "The ChatGPT maker says its upcoming Astra model may have reached “critical” cyber capabilities, prompting it to halt a significant number of training runs while it tightens internal safeguards.",
-      "source": "Wired",
-      "published": "2026-08-18T18:33:11+00:00",
-      "link": "https://www.wired.com/story/openai-overhauls-safety-protocols-after-its-ai-agents-went-rogue/"
-    },
-    {
-      "title": "New benchmark ranks search APIs for AI agents on quality, cost, and speed",
-      "summary": "Artificial Analysis has released the \"Search Index,\" a benchmark that rates search API providers for AI agents on quality, cost, and speed. Of seven providers tested with GPT-5.6 Luna, Parallel, Exa, and Firecrawl scored highest.",
-      "source": "The Decoder",
-      "published": "2026-08-18T18:10:56+00:00",
-      "link": "https://the-decoder.com/new-benchmark-ranks-search-apis-for-ai-agents-on-quality-cost-and-speed/"
-    },
-    {
-      "title": "OpenAI institutes new safeguards after Hugging Face breach",
-      "summary": "The new safeguards include more detailed monitoring of models during the development process, as well as greater emphasis on alignment and security during the post-training process.",
-      "source": "TechCrunch",
-      "published": "2026-08-18T18:00:00+00:00",
-      "link": "https://techcrunch.com/2026/08/18/openai-institutes-new-safeguards-after-hugging-face-breach/"
-    },
-    {
-      "title": "Etched’s valuation doubles to $21B in a month",
-      "summary": "Jane Street has installed Etched's first shipped AI cluster system, and was so impressed, it led another massive round, the startup says.",
-      "source": "TechCrunch",
-      "published": "2026-08-18T17:21:58+00:00",
-      "link": "https://techcrunch.com/2026/08/18/etcheds-valuation-doubles-to-21b-in-a-month/"
     }
   ]
 };
