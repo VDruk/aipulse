@@ -1,6 +1,13 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-08-26T02:23:11.591755+00:00",
+  "lastUpdated": "2026-08-26T05:36:00.243262+00:00",
   "items": [
+    {
+      "title": "India’s Ringg gets backing from Peak XV as it pushes voice AI past the phone call",
+      "summary": "Ringg has raised $10 million from Peak XV as a part of its Series A extension.",
+      "source": "TechCrunch",
+      "published": "2026-08-26T03:30:00+00:00",
+      "link": "https://techcrunch.com/2026/08/25/indias-ringg-gets-backing-from-peak-xv-as-it-pushes-voice-ai-past-the-phone-call/"
+    },
     {
       "title": "Robotics startup Generalist reaches $3B valuation, sources say",
       "summary": "The $200 million extension comes just months after the physical AI startup reached a $2 billion valuation.",
@@ -101,7 +108,7 @@ const FEED_DATA = {
     },
     {
       "title": "How much of HN is AI?",
-      "summary": "Article URL: https://blog.coredump.cx/p/how-much-of-hn-is-ai Comments URL: https://news.ycombinator.com/item?id=49435728 Points: 250 # Comments: 300",
+      "summary": "Article URL: https://blog.coredump.cx/p/how-much-of-hn-is-ai Comments URL: https://news.ycombinator.com/item?id=49435728 Points: 254 # Comments: 306",
       "source": "Hacker News",
       "published": "2026-08-25T15:23:41+00:00",
       "link": "https://blog.coredump.cx/p/how-much-of-hn-is-ai"
@@ -115,7 +122,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI is hitting entry-level jobs hardest, Stanford study finds",
-      "summary": "Article URL: https://arstechnica.com/ai/2026/08/ai-is-hitting-entry-level-jobs-hardest-stanford-study-finds/ Comments URL: https://news.ycombinator.com/item?id=49435147 Points: 135 # Comments: 160",
+      "summary": "Article URL: https://arstechnica.com/ai/2026/08/ai-is-hitting-entry-level-jobs-hardest-stanford-study-finds/ Comments URL: https://news.ycombinator.com/item?id=49435147 Points: 137 # Comments: 162",
       "source": "Hacker News",
       "published": "2026-08-25T14:48:58+00:00",
       "link": "https://arstechnica.com/ai/2026/08/ai-is-hitting-entry-level-jobs-hardest-stanford-study-finds/"
@@ -234,7 +241,7 @@ const FEED_DATA = {
     },
     {
       "title": "Vintage Artificial Intelligence: Before It Got Awkward",
-      "summary": "Article URL: https://blog.archive.org/2026/08/16/vintage-artificial-intelligence-before-it-got-awkward/ Comments URL: https://news.ycombinator.com/item?id=49425800 Points: 153 # Comments: 29",
+      "summary": "Article URL: https://blog.archive.org/2026/08/16/vintage-artificial-intelligence-before-it-got-awkward/ Comments URL: https://news.ycombinator.com/item?id=49425800 Points: 155 # Comments: 29",
       "source": "Hacker News",
       "published": "2026-08-24T21:01:38+00:00",
       "link": "https://blog.archive.org/2026/08/16/vintage-artificial-intelligence-before-it-got-awkward/"
@@ -255,7 +262,7 @@ const FEED_DATA = {
     },
     {
       "title": "Octopus intelligence may be related to never-before-seen mutation",
-      "summary": "Article URL: https://www.smithsonianmag.com/smart-news/why-are-some-octopuses-so-smart-the-answer-might-lie-in-a-never-before-seen-mutation-that-helps-them-accurately-build-proteins-180989319/ Comments URL: https://news.ycombinator.com/item?id=49423539 Points: 193 # Comments: 172",
+      "summary": "Article URL: https://www.smithsonianmag.com/smart-news/why-are-some-octopuses-so-smart-the-answer-might-lie-in-a-never-before-seen-mutation-that-helps-them-accurately-build-proteins-180989319/ Comments URL: https://news.ycombinator.com/item?id=49423539 Points: 194 # Comments: 173",
       "source": "Hacker News",
       "published": "2026-08-24T17:57:13+00:00",
       "link": "https://www.smithsonianmag.com/smart-news/why-are-some-octopuses-so-smart-the-answer-might-lie-in-a-never-before-seen-mutation-that-helps-them-accurately-build-proteins-180989319/"
@@ -269,7 +276,7 @@ const FEED_DATA = {
     },
     {
       "title": "Coding expertise is going to collapse from AI reliance",
-      "summary": "Article URL: https://larsfaye.com/articles/ai-coding-will-prevent-expertise Comments URL: https://news.ycombinator.com/item?id=49421554 Points: 542 # Comments: 535",
+      "summary": "Article URL: https://larsfaye.com/articles/ai-coding-will-prevent-expertise Comments URL: https://news.ycombinator.com/item?id=49421554 Points: 544 # Comments: 537",
       "source": "Hacker News",
       "published": "2026-08-24T15:52:33+00:00",
       "link": "https://larsfaye.com/articles/ai-coding-will-prevent-expertise"
@@ -353,7 +360,7 @@ const FEED_DATA = {
     },
     {
       "title": "We never use AI. For anything",
-      "summary": "Article URL: https://corkmac.app/our-ai-stance/ Comments URL: https://news.ycombinator.com/item?id=49417313 Points: 83 # Comments: 98",
+      "summary": "Article URL: https://corkmac.app/our-ai-stance/ Comments URL: https://news.ycombinator.com/item?id=49417313 Points: 83 # Comments: 99",
       "source": "Hacker News",
       "published": "2026-08-24T09:32:32+00:00",
       "link": "https://corkmac.app/our-ai-stance/"
@@ -381,14 +388,14 @@ const FEED_DATA = {
     },
     {
       "title": "OCR It – pull text out of un-copyable documents for your LLM",
-      "summary": "Article URL: https://github.com/thiagotigaz/ocr-it Comments URL: https://news.ycombinator.com/item?id=49415852 Points: 139 # Comments: 36",
+      "summary": "Article URL: https://github.com/thiagotigaz/ocr-it Comments URL: https://news.ycombinator.com/item?id=49415852 Points: 139 # Comments: 35",
       "source": "Hacker News",
       "published": "2026-08-24T06:25:31+00:00",
       "link": "https://github.com/thiagotigaz/ocr-it"
     },
     {
       "title": "I built a low-latency AI companion that plays Skyrim with me",
-      "summary": "Article URL: https://pantel.is/projects/ai-gaming-companion/ Comments URL: https://news.ycombinator.com/item?id=49413561 Points: 388 # Comments: 76",
+      "summary": "Article URL: https://pantel.is/projects/ai-gaming-companion/ Comments URL: https://news.ycombinator.com/item?id=49413561 Points: 391 # Comments: 76",
       "source": "Hacker News",
       "published": "2026-08-23T23:18:17+00:00",
       "link": "https://pantel.is/projects/ai-gaming-companion/"
@@ -409,7 +416,7 @@ const FEED_DATA = {
     },
     {
       "title": "Training AI to Paint with Code",
-      "summary": "Article URL: https://surya.website/rling-qwen-to-paint-with-code Comments URL: https://news.ycombinator.com/item?id=49411800 Points: 195 # Comments: 22",
+      "summary": "Article URL: https://surya.website/rling-qwen-to-paint-with-code Comments URL: https://news.ycombinator.com/item?id=49411800 Points: 199 # Comments: 22",
       "source": "Hacker News",
       "published": "2026-08-23T19:39:29+00:00",
       "link": "https://surya.website/rling-qwen-to-paint-with-code"
@@ -423,7 +430,7 @@ const FEED_DATA = {
     },
     {
       "title": "Anthropic's best AI model struggles to attract users as cheaper tools thrive",
-      "summary": "Article URL: https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245 Comments URL: https://news.ycombinator.com/item?id=49411102 Points: 808 # Comments: 698",
+      "summary": "Article URL: https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245 Comments URL: https://news.ycombinator.com/item?id=49411102 Points: 809 # Comments: 698",
       "source": "Hacker News",
       "published": "2026-08-23T18:16:37+00:00",
       "link": "https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245"
@@ -437,7 +444,7 @@ const FEED_DATA = {
     },
     {
       "title": "My agent.md to improve LLM-assisted code quality",
-      "summary": "Article URL: https://fabiensanglard.net/agent.md/index.html Comments URL: https://news.ycombinator.com/item?id=49410932 Points: 413 # Comments: 175",
+      "summary": "Article URL: https://fabiensanglard.net/agent.md/index.html Comments URL: https://news.ycombinator.com/item?id=49410932 Points: 414 # Comments: 175",
       "source": "Hacker News",
       "published": "2026-08-23T17:59:52+00:00",
       "link": "https://fabiensanglard.net/agent.md/index.html"
@@ -465,7 +472,7 @@ const FEED_DATA = {
     },
     {
       "title": "I spent $266 and four AI models to own my tablet. GLM-5.3 finished it in a day",
-      "summary": "Article URL: https://ericpardee.github.io/fire-hd-ownership/ Comments URL: https://news.ycombinator.com/item?id=49409073 Points: 693 # Comments: 291",
+      "summary": "Article URL: https://ericpardee.github.io/fire-hd-ownership/ Comments URL: https://news.ycombinator.com/item?id=49409073 Points: 694 # Comments: 291",
       "source": "Hacker News",
       "published": "2026-08-23T14:23:09+00:00",
       "link": "https://ericpardee.github.io/fire-hd-ownership/"
@@ -1393,13 +1400,6 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-08-18T16:19:10+00:00",
       "link": "https://techcrunch.com/2026/08/18/why-apples-camera-equipped-airpods-may-not-be-the-pervert-pods-consumers-fear/"
-    },
-    {
-      "title": "OpenAI president urges enterprises to hasten AI security defences",
-      "summary": "OpenAI president and co-founder Greg Brockman warns that enterprise security teams face a compressed timeline to adopt AI defences.",
-      "source": "AI News",
-      "published": "2026-08-18T14:58:27+00:00",
-      "link": "https://www.artificialintelligence-news.com/news/openai-president-urges-enterprises-hasten-ai-security-defences/"
     }
   ]
 };
