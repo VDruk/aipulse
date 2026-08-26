@@ -1,6 +1,13 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-08-26T05:36:00.243262+00:00",
+  "lastUpdated": "2026-08-26T09:27:36.334336+00:00",
   "items": [
+    {
+      "title": "Bill Gates says we’ve passed AI’s danger thresholds. Now what?",
+      "summary": "It’s a glorious day in Kirkland, Washington, an affluent Seattle suburb on the eastern shore of Lake Washington. The temperature is in the mid-80s, and the sky is incapable of being any more blue.",
+      "source": "MIT Tech Review",
+      "published": "2026-08-26T07:01:00+00:00",
+      "link": "https://www.technologyreview.com/2026/08/26/1142946/bill-gates-ai-danger-threshold/"
+    },
     {
       "title": "India’s Ringg gets backing from Peak XV as it pushes voice AI past the phone call",
       "summary": "Ringg has raised $10 million from Peak XV as a part of its Series A extension.",
@@ -16,8 +23,8 @@ const FEED_DATA = {
       "link": "https://techcrunch.com/2026/08/25/robotics-startup-generalist-reaches-3b-valuation-sources-say/"
     },
     {
-      "title": "OpenAI loses a top data center exec, as stream of high-profile departures continues",
-      "summary": "Before Malone left, OpenAI had already reshuffled its infrastructure org, shifting his reporting line away from President Greg Brockman and putting Vice President Sachin Katti in charge of the group.",
+      "title": "OpenAI loses a top data center exec as stream of high-profile departures continues",
+      "summary": "In a statement to TechCrunch about Malone's departure, OpenAI said it had \"recently reorganized\" its \"infrastructure organization to support the scale and pace of our work.\"",
       "source": "TechCrunch",
       "published": "2026-08-26T00:06:20+00:00",
       "link": "https://techcrunch.com/2026/08/25/openai-loses-a-top-data-center-exec-as-stream-of-high-profile-departures-continues/"
@@ -1393,13 +1400,6 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-08-18T17:21:58+00:00",
       "link": "https://techcrunch.com/2026/08/18/etcheds-valuation-doubles-to-21b-in-a-month/"
-    },
-    {
-      "title": "Why Apple’s camera-equipped AirPods may not be the ‘pervert pods’ consumers fear",
-      "summary": "Apple’s leaked camera-equipped AirPods might avoid the privacy pitfalls of other AI wearables by preventing users from recording photos and videos.",
-      "source": "TechCrunch",
-      "published": "2026-08-18T16:19:10+00:00",
-      "link": "https://techcrunch.com/2026/08/18/why-apples-camera-equipped-airpods-may-not-be-the-pervert-pods-consumers-fear/"
     }
   ]
 };
