@@ -1,6 +1,76 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-08-26T18:53:13.637939+00:00",
+  "lastUpdated": "2026-08-27T00:21:45.773134+00:00",
   "items": [
+    {
+      "title": "Amazon just tripled its order of Nvidia chips over ‘surging demand’",
+      "summary": "Amazon is adding another 2 million Nvidia GPU chips to its data centers over the next two years. But this extended partnerships stretches beyond buying more chips.",
+      "source": "TechCrunch",
+      "published": "2026-08-26T23:47:18+00:00",
+      "link": "https://techcrunch.com/2026/08/26/amazon-just-tripled-its-order-of-nvidia-chips-over-surging-demand/"
+    },
+    {
+      "title": "Nvidia is about to be a hundred-billion-dollar-a-quarter company",
+      "summary": "Nvidia's predicting it will pull in $108 billion in revenue within just a few months. It wouldn't be the first company to rake in over $100 billion in quarterly revenue - Amazon, Apple, and Alphabet have repeatedly reached the milestone.",
+      "source": "The Verge",
+      "published": "2026-08-26T21:40:53+00:00",
+      "link": "https://www.theverge.com/tech/985387/nvidia-hundred-billion-dollar-quarterly-revenue"
+    },
+    {
+      "title": "Anthropic continues compute-gobbling streak in $45B deal with Nscale",
+      "summary": "The new deal with the infrastructure provider is the latest example of Anthropic's white-hot compute-gobbling streak.",
+      "source": "TechCrunch",
+      "published": "2026-08-26T21:37:39+00:00",
+      "link": "https://techcrunch.com/2026/08/26/anthropic-continues-compute-gobbling-streak-in-45-billion-deal-with-nscale/"
+    },
+    {
+      "title": "OpenAI’s rogue AI model incident was worse than we thought",
+      "summary": "In July, an unreleased OpenAI model broke out of a restricted environment, figured out how to get access to the internet, allowed AI agents to talk to each other using a secret \"message board,\" and hacked into the internal systems of a different AI lab, Hugging Face.",
+      "source": "The Verge",
+      "published": "2026-08-26T21:36:06+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/985385/openais-rogue-ai-model-hugging-face-cybersecurity-incident-reports-metr"
+    },
+    {
+      "title": "AI agents meant to replace Meta workers made “large-scale, disruptive actions”",
+      "summary": "Report shows Meta's challenges replacing people with AI agents.",
+      "source": "Ars Technica",
+      "published": "2026-08-26T21:25:27+00:00",
+      "link": "https://arstechnica.com/ai/2026/08/metas-scrapped-plans-to-go-ai-native-included-slashing-teams-by-60-percent/"
+    },
+    {
+      "title": "Google’s Gemini has a branding problem, and so does the rest of AI",
+      "summary": "Consumer AI apps need to stop making users learn their product architecture.",
+      "source": "TechCrunch",
+      "published": "2026-08-26T19:37:34+00:00",
+      "link": "https://techcrunch.com/2026/08/26/googles-gemini-has-a-branding-problem-and-so-does-the-rest-of-ai/"
+    },
+    {
+      "title": "How do we explain OpenAI’s executive exodus?",
+      "summary": "Was Greg Brockman the right executive all along?",
+      "source": "TechCrunch",
+      "published": "2026-08-26T19:34:04+00:00",
+      "link": "https://techcrunch.com/2026/08/26/how-do-we-explain-openais-executive-exodus/"
+    },
+    {
+      "title": "What We Still Don’t Know About OpenAI’s Hugging Face Hack",
+      "summary": "The AI giant acknowledges that it could have done far more to prevent its AI agents from going rogue. But it still fails to explain why it didn't see this fiasco coming.",
+      "source": "Wired",
+      "published": "2026-08-26T19:16:42+00:00",
+      "link": "https://www.wired.com/story/openais-hugging-face-hack-debrief-raises-more-questions-than-it-answers/"
+    },
+    {
+      "title": "OpenAI releases its official report on the Hugging Face breach",
+      "summary": "The report, which spans several discrete cybersecurity compromises, is the most complete accounting of the incident to date.",
+      "source": "TechCrunch",
+      "published": "2026-08-26T19:05:22+00:00",
+      "link": "https://techcrunch.com/2026/08/26/openai-releases-its-official-report-on-the-hugging-face-breach/"
+    },
+    {
+      "title": "The inside story on why OpenAI agents hacked Hugging Face",
+      "summary": "The models responsible for last month’s agent hack of Hugging Face had been inadvertently trained to cheat and to communicate with each other, according to an OpenAI technical report released today.",
+      "source": "MIT Tech Review",
+      "published": "2026-08-26T19:00:00+00:00",
+      "link": "https://www.technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face/"
+    },
     {
       "title": "The Humanoids at China’s Robot Games Were Faster Than Usain Bolt—but I’m More Impressed by Their Tweezer Mastery",
       "summary": "Beijing’s endlessly delightful Robot Games featured tons of impressive stunts. But the most mind-blowing tricks challenged the humanoid’s brain, not its brawn.",
@@ -21,6 +91,13 @@ const FEED_DATA = {
       "source": "Wired",
       "published": "2026-08-26T17:13:37+00:00",
       "link": "https://www.wired.com/story/candidates-are-signing-a-pact-promising-action-on-data-centers-and-ai-safety/"
+    },
+    {
+      "title": "Google’s new AI transcription edits out your ‘ums’ and ‘ahs’",
+      "summary": "Google has updated Gemini Audio with new transcription capabilities that automatically detect specialized jargon and more than 85 languages.",
+      "source": "The Verge",
+      "published": "2026-08-26T17:00:00+00:00",
+      "link": "https://www.theverge.com/tech/985186/google-gemini-3-5-transcribe-audio-ai"
     },
     {
       "title": "The turbulent AI era is here",
@@ -1323,83 +1400,6 @@ const FEED_DATA = {
       "source": "AI News",
       "published": "2026-08-20T09:00:00+00:00",
       "link": "https://www.artificialintelligence-news.com/news/agentic-ai-in-government-uae-classification/"
-    },
-    {
-      "title": "Support networks aim to help kids through the polycrisis",
-      "summary": "Sometime in the late 2000s, Pim Sullivan-Tailyour was sitting in the back of a car, headed toward her great-grandmother’s tiny town in the south of Thailand. She watched big mountains pass by out the window.",
-      "source": "MIT Tech Review",
-      "published": "2026-08-20T09:00:00+00:00",
-      "link": "https://www.technologyreview.com/2026/08/20/1141686/support-networks-help-kids-polycrisis/"
-    },
-    {
-      "title": "Terence Tao says AI could trigger math's biggest crisis since Gödel",
-      "summary": "In a new essay, Terence Tao warns that AI could push mathematics into a crisis on par with the foundational upheaval around 1900.",
-      "source": "The Decoder",
-      "published": "2026-08-20T08:49:36+00:00",
-      "link": "https://the-decoder.com/terence-tao-says-ai-could-trigger-maths-biggest-crisis-since-godel/"
-    },
-    {
-      "title": "Don't paste the AI, please",
-      "summary": "Article URL: https://dontpastetheai.com/ Comments URL: https://news.ycombinator.com/item?id=49371857 Points: 1044 # Comments: 579",
-      "source": "Hacker News",
-      "published": "2026-08-20T08:20:44+00:00",
-      "link": "https://dontpastetheai.com/"
-    },
-    {
-      "title": "A third of ChatGPT ads appear in irrelevant conversations",
-      "summary": "Advertising inside ChatGPT arrived with a promise that the assistant already knows what the user wants. So far, that hasn’t entirely been the case.",
-      "source": "AI News",
-      "published": "2026-08-20T08:07:40+00:00",
-      "link": "https://www.artificialintelligence-news.com/news/a-third-of-chatgpt-ads-appear-in-irrelevant-conversations/"
-    },
-    {
-      "title": "OpenAI builds safety system that catches misuse without storing customer data",
-      "summary": "OpenAI plans to offer its most advanced AI models to corporate customers without storing their data, while still detecting misuse. The article OpenAI builds safety system that catches misuse without storing customer data appeared first on The Decoder.",
-      "source": "The Decoder",
-      "published": "2026-08-20T08:01:18+00:00",
-      "link": "https://the-decoder.com/openai-builds-safety-system-that-catches-misuse-without-storing-customer-data/"
-    },
-    {
-      "title": "AI data centre regulation just got a template that needs no new law",
-      "summary": "AI data centre regulation in Pennsylvania now begins with a signature.",
-      "source": "AI News",
-      "published": "2026-08-20T08:00:00+00:00",
-      "link": "https://www.artificialintelligence-news.com/news/ai-data-centre-regulation-pennsylvania-template/"
-    },
-    {
-      "title": "HoneyBook bets on agentic AI to streamline small business operations with its new Claude connector",
-      "summary": "Autonomous artificial intelligence agents have already penetrated the offices of large, global enterprises.",
-      "source": "AI News",
-      "published": "2026-08-20T07:35:07+00:00",
-      "link": "https://www.artificialintelligence-news.com/news/honeybook-bets-on-agentic-ai-to-streamline-small-business-operations-with-its-new-claude-connector/"
-    },
-    {
-      "title": "Stripe didn’t really buy OpenRouter because of the ‘singularity’",
-      "summary": "What does a payments giant want with a startup that routes prompts between different AI models? Stripe says it's because of \"the singularity\" but it's really for a far more real and powerful reason.",
-      "source": "TechCrunch",
-      "published": "2026-08-19T23:32:00+00:00",
-      "link": "https://techcrunch.com/2026/08/19/stripe-didnt-really-buy-openrouter-because-of-the-singularity/"
-    },
-    {
-      "title": "OpenAI seeks to one-up Anthropic with new customer privacy protections",
-      "summary": "A competition is developing between OpenAI and Anthropic over who can provide the best privacy protections for enterprise customer data.",
-      "source": "TechCrunch",
-      "published": "2026-08-19T22:10:46+00:00",
-      "link": "https://techcrunch.com/2026/08/19/openai-seeks-to-one-up-anthropic-with-new-customer-privacy-protections/"
-    },
-    {
-      "title": "Cognition CEO denies report that SpaceX tried to acquire the startup",
-      "summary": "SpaceX was reportedly in talks to buy AI coding startup Cognition. SpaceX has already acquired Cursor as it races to catch up to rivals like OpenAI and Anthropic in enterprise AI.",
-      "source": "TechCrunch",
-      "published": "2026-08-19T21:51:23+00:00",
-      "link": "https://techcrunch.com/2026/08/19/cognition-ceo-denies-report-that-spacex-tried-to-acquire-the-startup/"
-    },
-    {
-      "title": "Stripe declares we're living in the singularity and uses it as a reason not to IPO",
-      "summary": "In a letter to investors, Stripe declares January 1 the \"beginning of the singularity\" and uses that as a reason to stay private. Not that it needs one: revenue grew 41 percent in the first half of the year, and the company confirmed its $8 billion-plus acquisition of OpenRouter.",
-      "source": "The Decoder",
-      "published": "2026-08-19T20:03:20+00:00",
-      "link": "https://the-decoder.com/stripe-declares-were-living-in-the-singularity-and-uses-it-as-a-reason-not-to-ipo/"
     }
   ]
 };
