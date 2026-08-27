@@ -1,6 +1,41 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-08-27T19:17:28.506838+00:00",
+  "lastUpdated": "2026-08-27T22:51:39.406130+00:00",
   "items": [
+    {
+      "title": "AI Agents Are Hacking Systems. Could That Push the US and China to Cooperate?",
+      "summary": "This week on “Uncanny Valley,” senior writer Will Knight talks his recent visit to China and the future of AI collaboration.",
+      "source": "Wired",
+      "published": "2026-08-27T21:08:34+00:00",
+      "link": "https://www.wired.com/story/ai-agents-hacking-systems-could-push-the-us-and-china-to-cooperate/"
+    },
+    {
+      "title": "Barret Zoph, the Thinking Machines co-founder ousted before joining OpenAI, is now at Google",
+      "summary": "Zoph, who co-founded Thinking Machines Lab alongside Mira Murati and also served as the startup's CTO, led a brief stint at OpenAI and is now at Google.",
+      "source": "TechCrunch",
+      "published": "2026-08-27T19:52:52+00:00",
+      "link": "https://techcrunch.com/2026/08/27/barret-zoph-the-thinking-machines-co-founder-who-defected-to-openai-is-now-at-google/"
+    },
+    {
+      "title": "A startup claims it’s found a drug to make your blood young",
+      "summary": "I knew I’d officially become a ‘longevity influencer’ this month when a company called Generation Lab reached out to offer me the chance to write about—and even receive—their new rejuvenation treatment, an injectable combination of two existing drugs which they call 1 Generation.",
+      "source": "MIT Tech Review",
+      "published": "2026-08-27T19:48:13+00:00",
+      "link": "https://www.technologyreview.com/2026/08/27/1143037/startup-claims-its-found-a-drug-to-make-your-blood-young/"
+    },
+    {
+      "title": "Google’s AI note-taking app now allows you to interact with books",
+      "summary": "Google's AI note-taking app, Gemini Notebook, can now pull information from the books you've purchased.",
+      "source": "The Verge",
+      "published": "2026-08-27T19:30:00+00:00",
+      "link": "https://www.theverge.com/tech/985567/google-gemini-notebook-expert-sources-books"
+    },
+    {
+      "title": "Nvidia Starts Pac as AI Chip Maker Builds DC Influence Force",
+      "summary": "Article URL: https://news.bgov.com/bloomberg-government-news/nvidia-starts-a-pac-as-ai-chip-maker-buids-influence-force-in-dc Comments URL: https://news.ycombinator.com/item?id=49469249 Points: 88 # Comments: 38",
+      "source": "Hacker News",
+      "published": "2026-08-27T18:34:40+00:00",
+      "link": "https://news.bgov.com/bloomberg-government-news/nvidia-starts-a-pac-as-ai-chip-maker-buids-influence-force-in-dc"
+    },
     {
       "title": "AI shopping agents aren't ready to buy on your behalf, study finds",
       "summary": "Letting an AI do your shopping might not get you the best deal.",
@@ -80,7 +115,7 @@ const FEED_DATA = {
     },
     {
       "title": "Nvidia projects $673B in sales as AI demand widens",
-      "summary": "Article URL: https://forgeeks.net/nvidia-673-billion-ai-growth-forecast/ Comments URL: https://news.ycombinator.com/item?id=49466052 Points: 93 # Comments: 84",
+      "summary": "Article URL: https://forgeeks.net/nvidia-673-billion-ai-growth-forecast/ Comments URL: https://news.ycombinator.com/item?id=49466052 Points: 101 # Comments: 96",
       "source": "Hacker News",
       "published": "2026-08-27T15:04:16+00:00",
       "link": "https://forgeeks.net/nvidia-673-billion-ai-growth-forecast/"
@@ -100,15 +135,8 @@ const FEED_DATA = {
       "link": "https://techcrunch.com/2026/08/27/hugging-face-is-selling-a-cute-399-open-source-duck-robot-microduck/"
     },
     {
-      "title": "Orchestration is the new challenge for CX in the age of AI agents",
-      "summary": "Presented by Tata Communications Enterprises are deploying AI agents, voice AI, and automation across messaging, voice, and digital channels faster than the architecture meant to support it.",
-      "source": "VentureBeat",
-      "published": "2026-08-27T14:30:00+00:00",
-      "link": "https://venturebeat.com/orchestration/orchestration-is-the-new-challenge-for-cx-in-the-age-of-ai-agents"
-    },
-    {
       "title": "The Teaser Period: Why the AI Boom Is Hitting a Reset Wall",
-      "summary": "Article URL: https://www.groundbrkr.com/p/the-teaser-period-why-the-ai-boom Comments URL: https://news.ycombinator.com/item?id=49465461 Points: 79 # Comments: 72",
+      "summary": "Article URL: https://www.groundbrkr.com/p/the-teaser-period-why-the-ai-boom Comments URL: https://news.ycombinator.com/item?id=49465461 Points: 83 # Comments: 76",
       "source": "Hacker News",
       "published": "2026-08-27T14:27:39+00:00",
       "link": "https://www.groundbrkr.com/p/the-teaser-period-why-the-ai-boom"
@@ -164,14 +192,14 @@ const FEED_DATA = {
     },
     {
       "title": "MIT's Ad Hoc Committee on AI Use in Teaching, Learning, and Research Training",
-      "summary": "Article URL: https://aiandeducation.mit.edu/report/ Comments URL: https://news.ycombinator.com/item?id=49464314 Points: 83 # Comments: 59",
+      "summary": "Article URL: https://aiandeducation.mit.edu/report/ Comments URL: https://news.ycombinator.com/item?id=49464314 Points: 93 # Comments: 69",
       "source": "Hacker News",
       "published": "2026-08-27T13:07:45+00:00",
       "link": "https://aiandeducation.mit.edu/report/"
     },
     {
       "title": "Plaud’s new earphones come with an eSIM-enabled case for talking to AI agents",
-      "summary": "Plaud's new 'agentic' earbuds are priced at $249.",
+      "summary": "Called Plaud One, these adopt the simple bare-bones style of Apple's AirPods, and can record calls, while their case can be used to record in-person conversations or take notes.",
       "source": "TechCrunch",
       "published": "2026-08-27T13:00:00+00:00",
       "link": "https://techcrunch.com/2026/08/27/plauds-new-earphones-come-with-an-esim-enabled-case-for-talking-to-ai-agents/"
@@ -275,8 +303,15 @@ const FEED_DATA = {
       "link": "https://www.wired.com/story/uk-data-centers-logjam-ofgem-regulations/"
     },
     {
+      "title": "Humanity has the debate about AI consciousness backwards",
+      "summary": "https://archive.ph/uLYYURelated: Don’t mistake chatbot intelligence for consciousness - https://www.economist.com/by-invitation/2026/08/20/dont-mist..., https://archive.ph/IeSZg Comments URL: https://news.ycombinator.com/item?id=49458875 Points: 74 # Comments: 235",
+      "source": "Hacker News",
+      "published": "2026-08-27T02:37:07+00:00",
+      "link": "https://economist.com/by-invitation/2026/08/20/humanity-has-the-debate-about-ai-consciousness-backwards"
+    },
+    {
       "title": "CEO fired developers to make room for AI. Developers create open source AI CEO",
-      "summary": "Article URL: https://github.com/SenteLabsAI/OpenExecutive Comments URL: https://news.ycombinator.com/item?id=49458418 Points: 899 # Comments: 613",
+      "summary": "Article URL: https://github.com/SenteLabsAI/OpenExecutive Comments URL: https://news.ycombinator.com/item?id=49458418 Points: 927 # Comments: 636",
       "source": "Hacker News",
       "published": "2026-08-27T01:46:22+00:00",
       "link": "https://github.com/SenteLabsAI/OpenExecutive"
@@ -325,7 +360,7 @@ const FEED_DATA = {
     },
     {
       "title": "Serve Markdown to AI Agents with Accept Headers",
-      "summary": "Article URL: https://acceptmarkdown.com/ Comments URL: https://news.ycombinator.com/item?id=49454764 Points: 170 # Comments: 103",
+      "summary": "Article URL: https://acceptmarkdown.com/ Comments URL: https://news.ycombinator.com/item?id=49454764 Points: 172 # Comments: 103",
       "source": "Hacker News",
       "published": "2026-08-26T19:45:59+00:00",
       "link": "https://acceptmarkdown.com/"
@@ -395,7 +430,7 @@ const FEED_DATA = {
     },
     {
       "title": "The turbulent AI era is here",
-      "summary": "Article URL: https://www.gatesnotes.com/a-turbulent-ai-era-and-critical-choices-to-make Comments URL: https://news.ycombinator.com/item?id=49451313 Points: 337 # Comments: 341",
+      "summary": "Article URL: https://www.gatesnotes.com/a-turbulent-ai-era-and-critical-choices-to-make Comments URL: https://news.ycombinator.com/item?id=49451313 Points: 345 # Comments: 353",
       "source": "Hacker News",
       "published": "2026-08-26T15:55:15+00:00",
       "link": "https://www.gatesnotes.com/a-turbulent-ai-era-and-critical-choices-to-make"
@@ -409,14 +444,14 @@ const FEED_DATA = {
     },
     {
       "title": "It’s so hard to finish an idea that is not yours and is just suggested by AI",
-      "summary": "Article URL: https://www.ssp.sh/brain/using-obsidian-with-ai/ Comments URL: https://news.ycombinator.com/item?id=49450898 Points: 245 # Comments: 158",
+      "summary": "Article URL: https://www.ssp.sh/brain/using-obsidian-with-ai/ Comments URL: https://news.ycombinator.com/item?id=49450898 Points: 249 # Comments: 162",
       "source": "Hacker News",
       "published": "2026-08-26T15:30:05+00:00",
       "link": "https://www.ssp.sh/brain/using-obsidian-with-ai/"
     },
     {
       "title": "WebMCP: Teaching Your Website to Talk to AI Agents",
-      "summary": "Article URL: https://sreenathmenon.com/blog/2026-08-04-webmcp-teaching-websites-to-talk-to-ai-agents/ Comments URL: https://news.ycombinator.com/item?id=49450417 Points: 55 # Comments: 57",
+      "summary": "Article URL: https://sreenathmenon.com/blog/2026-08-04-webmcp-teaching-websites-to-talk-to-ai-agents/ Comments URL: https://news.ycombinator.com/item?id=49450417 Points: 56 # Comments: 57",
       "source": "Hacker News",
       "published": "2026-08-26T15:02:15+00:00",
       "link": "https://sreenathmenon.com/blog/2026-08-04-webmcp-teaching-websites-to-talk-to-ai-agents/"
@@ -448,6 +483,13 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-08-26T14:37:01+00:00",
       "link": "https://techcrunch.com/2026/08/26/bill-gates-wants-to-see-a-robot-tax-and-human-reserved-jobs-to-mitigate-harms-from-ai/"
+    },
+    {
+      "title": "Orchestration is the new challenge for CX in the age of AI agents",
+      "summary": "Presented by Tata Communications Enterprises are deploying AI agents, voice AI, and automation across messaging, voice, and digital channels faster than the architecture meant to support it.",
+      "source": "VentureBeat",
+      "published": "2026-08-26T14:30:00+00:00",
+      "link": "https://venturebeat.com/orchestration/orchestration-is-the-new-challenge-for-cx-in-the-age-of-ai-agents"
     },
     {
       "title": "Surprise: Z.ai is the AI lab behind the mysterious Ox Alpha model",
@@ -570,7 +612,7 @@ const FEED_DATA = {
     },
     {
       "title": "Mark Zuckerberg had a bold plan to replace Meta staff with AI",
-      "summary": "Article URL: https://www.reuters.com/investigations/mark-zuckerberg-had-bold-plan-replace-meta-staff-with-ai-heres-how-it-imploded-2026-08-26/ Comments URL: https://news.ycombinator.com/item?id=49446722 Points: 55 # Comments: 17",
+      "summary": "Article URL: https://www.reuters.com/investigations/mark-zuckerberg-had-bold-plan-replace-meta-staff-with-ai-heres-how-it-imploded-2026-08-26/ Comments URL: https://news.ycombinator.com/item?id=49446722 Points: 57 # Comments: 17",
       "source": "Hacker News",
       "published": "2026-08-26T10:40:58+00:00",
       "link": "https://www.reuters.com/investigations/mark-zuckerberg-had-bold-plan-replace-meta-staff-with-ai-heres-how-it-imploded-2026-08-26/"
@@ -584,7 +626,7 @@ const FEED_DATA = {
     },
     {
       "title": "Z.ai confirms Ox Alpha is a new GLM-series model and will release its weights",
-      "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-08-26/china-s-z-ai-made-ox-alpha-stealth-model-that-rivals-deepseek Comments URL: https://news.ycombinator.com/item?id=49446422 Points: 429 # Comments: 145",
+      "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-08-26/china-s-z-ai-made-ox-alpha-stealth-model-that-rivals-deepseek Comments URL: https://news.ycombinator.com/item?id=49446422 Points: 430 # Comments: 146",
       "source": "Hacker News",
       "published": "2026-08-26T10:04:55+00:00",
       "link": "https://www.bloomberg.com/news/articles/2026-08-26/china-s-z-ai-made-ox-alpha-stealth-model-that-rivals-deepseek"
@@ -738,7 +780,7 @@ const FEED_DATA = {
     },
     {
       "title": "How much of HN is AI?",
-      "summary": "Article URL: https://blog.coredump.cx/p/how-much-of-hn-is-ai Comments URL: https://news.ycombinator.com/item?id=49435728 Points: 274 # Comments: 353",
+      "summary": "Article URL: https://blog.coredump.cx/p/how-much-of-hn-is-ai Comments URL: https://news.ycombinator.com/item?id=49435728 Points: 274 # Comments: 355",
       "source": "Hacker News",
       "published": "2026-08-25T15:23:41+00:00",
       "link": "https://blog.coredump.cx/p/how-much-of-hn-is-ai"
@@ -1358,48 +1400,6 @@ const FEED_DATA = {
       "source": "Hacker News",
       "published": "2026-08-21T11:48:05+00:00",
       "link": "https://cymerys.com/w/im-becoming-ai-blind"
-    },
-    {
-      "title": "Waymo builds its own chip for its robotaxis, cutting its reliance on Nvidia",
-      "summary": "Waymo built its own chip for its robotaxis, cutting its reliance on Nvidia. The article Waymo builds its own chip for its robotaxis, cutting its reliance on Nvidia appeared first on The Decoder.",
-      "source": "The Decoder",
-      "published": "2026-08-21T11:04:09+00:00",
-      "link": "https://the-decoder.com/waymo-builds-its-own-chip-for-its-robotaxis-cutting-its-reliance-on-nvidia/"
-    },
-    {
-      "title": "Meta spends hundreds of millions on Microsoft's AI services",
-      "summary": "Meta has become one of Microsoft's biggest AI customers, according to Bloomberg. The article Meta spends hundreds of millions on Microsoft's AI services appeared first on The Decoder.",
-      "source": "The Decoder",
-      "published": "2026-08-21T10:54:41+00:00",
-      "link": "https://the-decoder.com/meta-spends-hundreds-of-millions-on-microsofts-ai-services/"
-    },
-    {
-      "title": "Anthropic changes data retention policy after enterprise pushback",
-      "summary": "Anthropic is easing its controversial data storage policy, letting enterprise customers keep their own data going forward. The article Anthropic changes data retention policy after enterprise pushback appeared first on The Decoder.",
-      "source": "The Decoder",
-      "published": "2026-08-21T09:59:51+00:00",
-      "link": "https://the-decoder.com/anthropic-changes-data-retention-policy-after-enterprise-pushback/"
-    },
-    {
-      "title": "Mother tongue",
-      "summary": "“Daddy?” Theo curled against my side in bed. “Where do words go when they die?” I’d orchestrated the bedtime routine flawlessly: bath (taken), teeth (brushed), potty (tinkled), books (two), song (one, poorly sung), and snuggle (his chin on my second rib).",
-      "source": "MIT Tech Review",
-      "published": "2026-08-21T09:00:00+00:00",
-      "link": "https://www.technologyreview.com/2026/08/21/1141726/mother-tongue-fiction/"
-    },
-    {
-      "title": "When AI designs a drug, who gets the credit?",
-      "summary": "When the biotech company Insilico Medicine used its computer models to propose a promising drug for pulmonary fibrosis, it enthusiastically claimed in a press release that the molecule had been “discovered by” its generative AI platform.",
-      "source": "MIT Tech Review",
-      "published": "2026-08-21T09:00:00+00:00",
-      "link": "https://www.technologyreview.com/2026/08/21/1142627/when-ai-designs-a-drug-who-gets-the-credit/"
-    },
-    {
-      "title": "How AI coding tools are contributing to the popularity of JavaScript",
-      "summary": "In August 2025, TypeScript became the most used language on GitHub. This was the largest shift in GitHub’s language rankings in the last ten years and it occurred during the period of most accelerated adoption of coding AI agents.",
-      "source": "AI News",
-      "published": "2026-08-21T08:41:29+00:00",
-      "link": "https://www.artificialintelligence-news.com/news/how-ai-coding-tools-are-contributing-to-the-popularity-of-javascript/"
     }
   ]
 };
