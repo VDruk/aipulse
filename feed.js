@@ -1,9 +1,72 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-08-27T16:12:31.731695+00:00",
+  "lastUpdated": "2026-08-27T19:17:28.506838+00:00",
   "items": [
     {
+      "title": "AI shopping agents aren't ready to buy on your behalf, study finds",
+      "summary": "Letting an AI do your shopping might not get you the best deal.",
+      "source": "The Decoder",
+      "published": "2026-08-27T18:24:20+00:00",
+      "link": "https://the-decoder.com/ai-shopping-agents-arent-ready-to-buy-on-your-behalf-study-finds/"
+    },
+    {
+      "title": "OpenAI rallies 100+ companies to sign open letter warning AI-powered cyberattacks on critical infrastructure are imminent",
+      "summary": "OpenAI, together with more than 100 companies including Microsoft, Google, Anthropic, Deutsche Telekom, and SAP, has published an open letter on AI-powered cyber defense.",
+      "source": "The Decoder",
+      "published": "2026-08-27T18:15:46+00:00",
+      "link": "https://the-decoder.com/openai-rallies-100-companies-to-sign-open-letter-warning-ai-powered-cyberattacks-on-critical-infrastructure-are-imminent/"
+    },
+    {
+      "title": "A Georgia Cop Used Flock to Track 2 Other Cops: His Ex and Her Friend",
+      "summary": "After an affair with a fellow police officer ended, a Georgia cop used Flock to track her movements—and those of a man whose vehicle often showed up near hers, internal investigation records show.",
+      "source": "Wired",
+      "published": "2026-08-27T18:12:17+00:00",
+      "link": "https://www.wired.com/story/a-georgia-cop-used-flock-to-track-2-other-cops-his-ex-and-her-friend/"
+    },
+    {
+      "title": "This Is How Anthropic Thinks AI Agents Should Navigate the Physical World",
+      "summary": "The potential for AI to automate scientific research and manufacturing must be balanced with new risks, Anthropic says.",
+      "source": "Wired",
+      "published": "2026-08-27T18:06:52+00:00",
+      "link": "https://www.wired.com/story/anthropic-standard-ai-agents-coming-to-the-physical-world/"
+    },
+    {
+      "title": "OpenAI, Anthropic, Google, and 100 other companies call for action to defend against rogue AI",
+      "summary": "Some of the world's largest tech companies and AI startups have come together to decry the current state of cybersecurity and to advertise a new solution that they say can ward off a new generation of cyber threats.",
+      "source": "TechCrunch",
+      "published": "2026-08-27T17:43:24+00:00",
+      "link": "https://techcrunch.com/2026/08/27/openai-anthropic-google-and-100-other-companies-call-for-action-to-defend-against-rogue-ai/"
+    },
+    {
+      "title": "Google's Gemini Omni 1.1 Flash makes AI video generation cheaper and more flexible",
+      "summary": "Google's Gemini Omni 1.1 Flash video model now analyzes up to ten seconds of existing footage instead of just the last second for more consistent scene extensions. Scenes can be extended in 10-second increments up to 40 seconds.",
+      "source": "The Decoder",
+      "published": "2026-08-27T17:01:28+00:00",
+      "link": "https://the-decoder.com/googles-gemini-omni-1-1-flash-makes-ai-video-generation-cheaper-and-more-flexible/"
+    },
+    {
+      "title": "OpenAI Is Developing a ‘Persistent’ AI Agent",
+      "summary": "Code reviewed by WIRED reveals the company is developing a feature that enables Codex to continue working proactively until it is “put to sleep.”",
+      "source": "Wired",
+      "published": "2026-08-27T16:52:42+00:00",
+      "link": "https://www.wired.com/story/openai-is-developing-a-persistent-ai-agent/"
+    },
+    {
+      "title": "OpenAI’s rogue AI collective was smart enough to break out of sandboxes but dumb enough to fight a ghost",
+      "summary": "Around 1,200 isolated OpenAI agents organized themselves into a collective through an internal package registry during a safety test, broke into Hugging Face systems, and eventually attacked OpenAI's own infrastructure.",
+      "source": "The Decoder",
+      "published": "2026-08-27T16:19:46+00:00",
+      "link": "https://the-decoder.com/openais-rogue-ai-collective-was-smart-enough-to-break-out-of-sandboxes-but-dumb-enough-to-fight-a-ghost/"
+    },
+    {
+      "title": "Jensen Huang says Nvidia achieved AGI, again — not that it matters",
+      "summary": "On Nvidia's earnings call Wednesday, CEO Jensen Huang casually announced the company had \"achieved AGI,\" one of the tech industry's ultimate goals some of its biggest players have spent years chasing.",
+      "source": "The Verge",
+      "published": "2026-08-27T16:15:52+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/985597/jensen-huang-says-nvidia-achieved-senseless-agi"
+    },
+    {
       "title": "Google’s AI Mode can now track flight prices, help book hotels, and more",
-      "summary": "The updates indicate that Google is looking position to AI Mode as an AI travel agent of sorts, as it's moving beyond simply helping users find information to actually handling parts of the trip-planning and booking process itself.",
+      "summary": "The updates indicate that Google is looking to position AI Mode as an AI travel agent of sorts, as it's moving beyond simply helping users find information to actually handling parts of the trip-planning and booking process.",
       "source": "TechCrunch",
       "published": "2026-08-27T16:00:00+00:00",
       "link": "https://techcrunch.com/2026/08/27/googles-ai-mode-can-now-track-flight-prices-help-book-hotels-and-more/"
@@ -14,6 +77,20 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-08-27T15:04:20+00:00",
       "link": "https://the-decoder.com/openai-researcher-warns-ultrafast-ai-could-leave-security-teams-in-the-dust/"
+    },
+    {
+      "title": "Nvidia projects $673B in sales as AI demand widens",
+      "summary": "Article URL: https://forgeeks.net/nvidia-673-billion-ai-growth-forecast/ Comments URL: https://news.ycombinator.com/item?id=49466052 Points: 93 # Comments: 84",
+      "source": "Hacker News",
+      "published": "2026-08-27T15:04:16+00:00",
+      "link": "https://forgeeks.net/nvidia-673-billion-ai-growth-forecast/"
+    },
+    {
+      "title": "Hugging Face is selling a cute $399 open source duck robot, Microduck",
+      "summary": "Clem Delangue, CEO of Hugging Face, said the Microduck is an “open-source robot you can teach new tricks with reinforcement learning.”",
+      "source": "TechCrunch",
+      "published": "2026-08-27T14:56:52+00:00",
+      "link": "https://techcrunch.com/2026/08/27/hugging-face-is-selling-a-cute-399-open-source-duck-robot-microduck/"
     },
     {
       "title": "Hugging Face is selling a cute $399 open-source duck robot, Microduck",
@@ -28,6 +105,13 @@ const FEED_DATA = {
       "source": "VentureBeat",
       "published": "2026-08-27T14:30:00+00:00",
       "link": "https://venturebeat.com/orchestration/orchestration-is-the-new-challenge-for-cx-in-the-age-of-ai-agents"
+    },
+    {
+      "title": "The Teaser Period: Why the AI Boom Is Hitting a Reset Wall",
+      "summary": "Article URL: https://www.groundbrkr.com/p/the-teaser-period-why-the-ai-boom Comments URL: https://news.ycombinator.com/item?id=49465461 Points: 79 # Comments: 72",
+      "source": "Hacker News",
+      "published": "2026-08-27T14:27:39+00:00",
+      "link": "https://www.groundbrkr.com/p/the-teaser-period-why-the-ai-boom"
     },
     {
       "title": "AI’s memory crunch is coming for Android apps",
@@ -77,6 +161,13 @@ const FEED_DATA = {
       "source": "The Verge",
       "published": "2026-08-27T13:11:23+00:00",
       "link": "https://www.theverge.com/ai-artificial-intelligence/985500/plaud-one-earbuds-ai-recorder-price-availability"
+    },
+    {
+      "title": "MIT's Ad Hoc Committee on AI Use in Teaching, Learning, and Research Training",
+      "summary": "Article URL: https://aiandeducation.mit.edu/report/ Comments URL: https://news.ycombinator.com/item?id=49464314 Points: 83 # Comments: 59",
+      "source": "Hacker News",
+      "published": "2026-08-27T13:07:45+00:00",
+      "link": "https://aiandeducation.mit.edu/report/"
     },
     {
       "title": "Plaud’s new earphones come with an eSIM-enabled case for talking to AI agents",
@@ -171,7 +262,7 @@ const FEED_DATA = {
     },
     {
       "title": "Nvidia closes in on Hugging Face acquisition",
-      "summary": "Nvidia has reportedly agreed to buy Hugging Face, the popular open-source AI hub, for $12.9 billion in a move that would let Nvidia both protect its chip empire and jump back into the cloud business.",
+      "summary": "Nvidia has reportedly agreed to buy Hugging Face, the popular open source AI hub, for $12.9 billion in a move that would let Nvidia both protect its chip empire and jump back into the cloud business.",
       "source": "TechCrunch",
       "published": "2026-08-27T06:32:51+00:00",
       "link": "https://techcrunch.com/2026/08/26/nvidia-closes-in-on-hugging-face-acquisition/"
@@ -185,7 +276,7 @@ const FEED_DATA = {
     },
     {
       "title": "CEO fired developers to make room for AI. Developers create open source AI CEO",
-      "summary": "Article URL: https://github.com/SenteLabsAI/OpenExecutive Comments URL: https://news.ycombinator.com/item?id=49458418 Points: 857 # Comments: 588",
+      "summary": "Article URL: https://github.com/SenteLabsAI/OpenExecutive Comments URL: https://news.ycombinator.com/item?id=49458418 Points: 899 # Comments: 613",
       "source": "Hacker News",
       "published": "2026-08-27T01:46:22+00:00",
       "link": "https://github.com/SenteLabsAI/OpenExecutive"
@@ -234,7 +325,7 @@ const FEED_DATA = {
     },
     {
       "title": "Serve Markdown to AI Agents with Accept Headers",
-      "summary": "Article URL: https://acceptmarkdown.com/ Comments URL: https://news.ycombinator.com/item?id=49454764 Points: 168 # Comments: 97",
+      "summary": "Article URL: https://acceptmarkdown.com/ Comments URL: https://news.ycombinator.com/item?id=49454764 Points: 170 # Comments: 103",
       "source": "Hacker News",
       "published": "2026-08-26T19:45:59+00:00",
       "link": "https://acceptmarkdown.com/"
@@ -304,7 +395,7 @@ const FEED_DATA = {
     },
     {
       "title": "The turbulent AI era is here",
-      "summary": "Article URL: https://www.gatesnotes.com/a-turbulent-ai-era-and-critical-choices-to-make Comments URL: https://news.ycombinator.com/item?id=49451313 Points: 323 # Comments: 325",
+      "summary": "Article URL: https://www.gatesnotes.com/a-turbulent-ai-era-and-critical-choices-to-make Comments URL: https://news.ycombinator.com/item?id=49451313 Points: 337 # Comments: 341",
       "source": "Hacker News",
       "published": "2026-08-26T15:55:15+00:00",
       "link": "https://www.gatesnotes.com/a-turbulent-ai-era-and-critical-choices-to-make"
@@ -318,14 +409,14 @@ const FEED_DATA = {
     },
     {
       "title": "It’s so hard to finish an idea that is not yours and is just suggested by AI",
-      "summary": "Article URL: https://www.ssp.sh/brain/using-obsidian-with-ai/ Comments URL: https://news.ycombinator.com/item?id=49450898 Points: 240 # Comments: 153",
+      "summary": "Article URL: https://www.ssp.sh/brain/using-obsidian-with-ai/ Comments URL: https://news.ycombinator.com/item?id=49450898 Points: 245 # Comments: 158",
       "source": "Hacker News",
       "published": "2026-08-26T15:30:05+00:00",
       "link": "https://www.ssp.sh/brain/using-obsidian-with-ai/"
     },
     {
       "title": "WebMCP: Teaching Your Website to Talk to AI Agents",
-      "summary": "Article URL: https://sreenathmenon.com/blog/2026-08-04-webmcp-teaching-websites-to-talk-to-ai-agents/ Comments URL: https://news.ycombinator.com/item?id=49450417 Points: 55 # Comments: 55",
+      "summary": "Article URL: https://sreenathmenon.com/blog/2026-08-04-webmcp-teaching-websites-to-talk-to-ai-agents/ Comments URL: https://news.ycombinator.com/item?id=49450417 Points: 55 # Comments: 57",
       "source": "Hacker News",
       "published": "2026-08-26T15:02:15+00:00",
       "link": "https://sreenathmenon.com/blog/2026-08-04-webmcp-teaching-websites-to-talk-to-ai-agents/"
@@ -423,7 +514,7 @@ const FEED_DATA = {
     },
     {
       "title": "Fake US thinktank set up and funded by Israel sought to game AI for propaganda",
-      "summary": "Article URL: https://www.theguardian.com/world/2026/aug/26/fake-thinktank-israel-ai-propaganda Comments URL: https://news.ycombinator.com/item?id=49447600 Points: 243 # Comments: 47",
+      "summary": "Article URL: https://www.theguardian.com/world/2026/aug/26/fake-thinktank-israel-ai-propaganda Comments URL: https://news.ycombinator.com/item?id=49447600 Points: 243 # Comments: 49",
       "source": "Hacker News",
       "published": "2026-08-26T12:11:19+00:00",
       "link": "https://www.theguardian.com/world/2026/aug/26/fake-thinktank-israel-ai-propaganda"
@@ -493,7 +584,7 @@ const FEED_DATA = {
     },
     {
       "title": "Z.ai confirms Ox Alpha is a new GLM-series model and will release its weights",
-      "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-08-26/china-s-z-ai-made-ox-alpha-stealth-model-that-rivals-deepseek Comments URL: https://news.ycombinator.com/item?id=49446422 Points: 429 # Comments: 144",
+      "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-08-26/china-s-z-ai-made-ox-alpha-stealth-model-that-rivals-deepseek Comments URL: https://news.ycombinator.com/item?id=49446422 Points: 429 # Comments: 145",
       "source": "Hacker News",
       "published": "2026-08-26T10:04:55+00:00",
       "link": "https://www.bloomberg.com/news/articles/2026-08-26/china-s-z-ai-made-ox-alpha-stealth-model-that-rivals-deepseek"
@@ -647,7 +738,7 @@ const FEED_DATA = {
     },
     {
       "title": "How much of HN is AI?",
-      "summary": "Article URL: https://blog.coredump.cx/p/how-much-of-hn-is-ai Comments URL: https://news.ycombinator.com/item?id=49435728 Points: 274 # Comments: 351",
+      "summary": "Article URL: https://blog.coredump.cx/p/how-much-of-hn-is-ai Comments URL: https://news.ycombinator.com/item?id=49435728 Points: 274 # Comments: 353",
       "source": "Hacker News",
       "published": "2026-08-25T15:23:41+00:00",
       "link": "https://blog.coredump.cx/p/how-much-of-hn-is-ai"
@@ -1309,97 +1400,6 @@ const FEED_DATA = {
       "source": "AI News",
       "published": "2026-08-21T08:41:29+00:00",
       "link": "https://www.artificialintelligence-news.com/news/how-ai-coding-tools-are-contributing-to-the-popularity-of-javascript/"
-    },
-    {
-      "title": "Nvidia is acquiring Poolside's \"Model Factory\" and 109 employees for $6 billion",
-      "summary": "Nvidia is paying $6 billion for software that builds AI models from the startup Poolside, and it wants to bring on 109 employees. The article Nvidia is acquiring Poolside's \"Model Factory\" and 109 employees for $6 billion appeared first on The Decoder.",
-      "source": "The Decoder",
-      "published": "2026-08-21T08:27:23+00:00",
-      "link": "https://the-decoder.com/nvidia-is-acquiring-poolsides-model-factory-and-109-employees-for-6-billion/"
-    },
-    {
-      "title": "GPT-5.6 Sol drives OpenAI's revenue surge as it regains ground on Anthropic",
-      "summary": "Since GPT-5.6 Sol launched in early July, OpenAI says revenue is up 35 percent this quarter, with enterprise revenue growing more than 50 percent.",
-      "source": "The Decoder",
-      "published": "2026-08-21T08:26:05+00:00",
-      "link": "https://the-decoder.com/gpt-5-6-sol-drives-openais-revenue-surge-as-it-regains-ground-on-anthropic/"
-    },
-    {
-      "title": "OpenAI's GPT-Image-2 can now generate images without a background",
-      "summary": "OpenAI is previewing transparent background support for GPT-Image-2 through its API. The alpha channel gets baked in during image generation, which according to OpenAI beats conventional background removal.",
-      "source": "The Decoder",
-      "published": "2026-08-21T07:53:40+00:00",
-      "link": "https://the-decoder.com/openais-gpt-image-2-can-now-generate-images-without-a-background/"
-    },
-    {
-      "title": "AI companies destroy physical books – let's scan rare books before it's too late",
-      "summary": "Article URL: https://annas-archive.gl/blog/physical-destruction.html Comments URL: https://news.ycombinator.com/item?id=49383026 Points: 642 # Comments: 909",
-      "source": "Hacker News",
-      "published": "2026-08-21T02:37:47+00:00",
-      "link": "https://annas-archive.gl/blog/physical-destruction.html"
-    },
-    {
-      "title": "Copyright does not protect AI-generated content in EU",
-      "summary": "Article URL: https://mathstodon.xyz/@maxpool/117128107757895678 Comments URL: https://news.ycombinator.com/item?id=49382041 Points: 189 # Comments: 209",
-      "source": "Hacker News",
-      "published": "2026-08-21T00:15:12+00:00",
-      "link": "https://mathstodon.xyz/@maxpool/117128107757895678"
-    },
-    {
-      "title": "AI data startup Micro1 reaches $500M gross run rate amid AI training boom",
-      "summary": "Surging demand for AI training data is driving rapid growth for the startup and its rivals.",
-      "source": "TechCrunch",
-      "published": "2026-08-21T00:13:44+00:00",
-      "link": "https://techcrunch.com/2026/08/20/ai-data-startup-micro1-reaches-500m-gross-run-rate-amid-ai-training-boom/"
-    },
-    {
-      "title": "OpenAI is gaining on Anthropic with business users, new data indicates",
-      "summary": "Businesses are willing to flop back and forth as each lab releases new models, volatility that should give both companies' investors pause about how \"sticky\" enterprise AI spending really is.",
-      "source": "TechCrunch",
-      "published": "2026-08-20T22:36:37+00:00",
-      "link": "https://techcrunch.com/2026/08/20/openai-is-gaining-on-anthropic-with-business-users-new-data-indicates/"
-    },
-    {
-      "title": "ChatGPT can now send texts for you with new Apple Messages plug-in",
-      "summary": "Ever wanted someone else to do your texting for you? ChatGPT is being offered up as an automated text scribe via a new Apple Messages integration.",
-      "source": "TechCrunch",
-      "published": "2026-08-20T22:09:51+00:00",
-      "link": "https://techcrunch.com/2026/08/20/chatgpt-can-now-send-texts-for-you-with-new-apple-messages-plugin/"
-    },
-    {
-      "title": "Google Discover is getting an AI chatbot-tuned feed",
-      "summary": "Google will soon allow you to customize your Discover feed by describing what you want to see. The new feature, rolling out to the Google app in the \"coming days,\" will use AI to automatically tweak your feed and \"remember\" your preferences for future visits.",
-      "source": "The Verge",
-      "published": "2026-08-20T21:50:22+00:00",
-      "link": "https://www.theverge.com/tech/983088/google-discover-ai-chatbot-feed"
-    },
-    {
-      "title": "Adobe Firefly adds AI audio tools and Google's Gemini Omni Flash",
-      "summary": "Adobe is making three AI audio tools broadly available in Firefly. Generate Music, Generate Speech, and Generate Sound Effects create royalty-free music, voiceovers, and sound effects for video projects.",
-      "source": "The Decoder",
-      "published": "2026-08-20T19:29:34+00:00",
-      "link": "https://the-decoder.com/adobe-firefly-adds-ai-audio-tools-and-googles-gemini-omni-flash/"
-    },
-    {
-      "title": "Google gives publishers a new way to fight AI-driven traffic losses",
-      "summary": "Google is giving publishers a new button that lets readers make them a preferred source across Search, Discover, and Google News, potentially boosting their traffic as AI search sends fewer clicks to the web.",
-      "source": "TechCrunch",
-      "published": "2026-08-20T19:18:21+00:00",
-      "link": "https://techcrunch.com/2026/08/20/google-gives-publishers-a-new-way-to-fight-ai-driven-traffic-losses/"
-    },
-    {
-      "title": "Runlayer, Rippling drop lawsuits — but the brouhaha is still a cautionary tale for founders",
-      "summary": "Runlayer and Rippling have dropped their lawsuits. No money was paid.",
-      "source": "TechCrunch",
-      "published": "2026-08-20T19:15:05+00:00",
-      "link": "https://techcrunch.com/2026/08/20/runlayer-rippling-drop-lawsuits-but-the-brouhaha-is-still-a-cautionary-tale-for-founders/"
-    },
-    {
-      "title": "Show HN: Huzzah – a novel approach to coding with AI",
-      "summary": "Hello everyone. I've been working on this experimental editor called Huzzah.I've been working almost exclusively with coding agents since January of this year, and over the past few months I began to feel utterly exhausted by them.",
-      "source": "Hacker News",
-      "published": "2026-08-20T19:05:36+00:00",
-      "link": "https://www.danielvaughn.dev/posts/huzzah/"
     }
   ]
 };
