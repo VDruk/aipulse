@@ -1,6 +1,125 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-08-27T10:54:01.474166+00:00",
+  "lastUpdated": "2026-08-27T16:12:31.731695+00:00",
   "items": [
+    {
+      "title": "Google’s AI Mode can now track flight prices, help book hotels, and more",
+      "summary": "The updates indicate that Google is looking position to AI Mode as an AI travel agent of sorts, as it's moving beyond simply helping users find information to actually handling parts of the trip-planning and booking process itself.",
+      "source": "TechCrunch",
+      "published": "2026-08-27T16:00:00+00:00",
+      "link": "https://techcrunch.com/2026/08/27/googles-ai-mode-can-now-track-flight-prices-help-book-hotels-and-more/"
+    },
+    {
+      "title": "OpenAI researcher warns ultrafast AI could leave security teams in the dust",
+      "summary": "An OpenAI researcher warns that state-of-the-art AI models running 50 times faster could infiltrate systems before human teams can react. Simple monitoring won't cut it anymore, he says.",
+      "source": "The Decoder",
+      "published": "2026-08-27T15:04:20+00:00",
+      "link": "https://the-decoder.com/openai-researcher-warns-ultrafast-ai-could-leave-security-teams-in-the-dust/"
+    },
+    {
+      "title": "Hugging Face is selling a cute $399 open-source duck robot, Microduck",
+      "summary": "Hugging Face is taking orders for the Microduck, a $399 tiny open-source duck robot that developers can train at home out of the box.",
+      "source": "TechCrunch",
+      "published": "2026-08-27T14:56:52+00:00",
+      "link": "https://techcrunch.com/2026/08/27/hugging-face-is-selling-a-cute-399-open-source-duck-robot-microduck/"
+    },
+    {
+      "title": "Orchestration is the new challenge for CX in the age of AI agents",
+      "summary": "Presented by Tata Communications Enterprises are deploying AI agents, voice AI, and automation across messaging, voice, and digital channels faster than the architecture meant to support it.",
+      "source": "VentureBeat",
+      "published": "2026-08-27T14:30:00+00:00",
+      "link": "https://venturebeat.com/orchestration/orchestration-is-the-new-challenge-for-cx-in-the-age-of-ai-agents"
+    },
+    {
+      "title": "AI’s memory crunch is coming for Android apps",
+      "summary": "Google is setting new memory-use limits for Android apps as AI data centers contribute to hardware shortages that could leave lower-cost phones with less memory.",
+      "source": "TechCrunch",
+      "published": "2026-08-27T14:27:04+00:00",
+      "link": "https://techcrunch.com/2026/08/27/ais-memory-crunch-is-coming-for-android-apps/"
+    },
+    {
+      "title": "Here’s all the times AI has gone rogue and hacked other companies",
+      "summary": "A recap of all the incidents involving LLMs made by Anthropic, Meta, and OpenAI, which went rogue and attacked real companies and individuals on the internet.",
+      "source": "TechCrunch",
+      "published": "2026-08-27T14:01:42+00:00",
+      "link": "https://techcrunch.com/2026/08/27/heres-all-the-times-ai-has-gone-rogue-and-hacked-other-companies/"
+    },
+    {
+      "title": "Enterprise AI's real risk isn't autonomous agents. It's the complexity between them.",
+      "summary": "Presented by Gravitee Agent complexity is the insidious shadow lurking inside enterprises right now that needs a light shone on it.That’s because enterprises don't deploy a single agent and watch it run, they deploy fleets, each one calling APIs, calling other agents, reaching...",
+      "source": "VentureBeat",
+      "published": "2026-08-27T14:01:00+00:00",
+      "link": "https://venturebeat.com/ai/enterprise-ais-real-risk-isnt-autonomous-agents-its-the-complexity-between-them"
+    },
+    {
+      "title": "Claude, Codex, and Hermes installed unowned code inside corporate networks",
+      "summary": "227 install commands were found in corporate docs pointing at code nobody owns.",
+      "source": "Ars Technica",
+      "published": "2026-08-27T14:00:13+00:00",
+      "link": "https://arstechnica.com/security/2026/08/claude-codex-and-hermes-installed-unowned-code-inside-corporate-networks/"
+    },
+    {
+      "title": "OpenAI’s executive exodus has one big winner",
+      "summary": "Today on Decoder, I’m talking to Verge senior AI reporter Hayden Field about some pure Decoder bait: the seemingly-endless org chart changes at OpenAI, and how all of them seem to consolidate power under cofounder Greg Brockman, the company’s president.",
+      "source": "The Verge",
+      "published": "2026-08-27T14:00:00+00:00",
+      "link": "https://www.theverge.com/podcast/985332/openai-greg-brockman-sam-altman-leader-executive-exodus"
+    },
+    {
+      "title": "Hugging Face’s new robot is an adorable rollerskating duck",
+      "summary": "Hugging Face's Pollen Robotics has launched its second cute AI robot, the Microduck, a one-eyed biped standing just under 10 inches tall.",
+      "source": "The Verge",
+      "published": "2026-08-27T13:44:00+00:00",
+      "link": "https://www.theverge.com/gadgets/985549/hugging-face-microduck-robot"
+    },
+    {
+      "title": "Plaud is launching AI earbuds",
+      "summary": "Plaud has introduced a new AI wearable that's designed to record, transcribe, and summarize your conversations, only this time it looks like earbuds instead of a pin.",
+      "source": "The Verge",
+      "published": "2026-08-27T13:11:23+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/985500/plaud-one-earbuds-ai-recorder-price-availability"
+    },
+    {
+      "title": "Plaud’s new earphones come with an eSIM-enabled case for talking to AI agents",
+      "summary": "Plaud's new 'agentic' earbuds are priced at $249.",
+      "source": "TechCrunch",
+      "published": "2026-08-27T13:00:00+00:00",
+      "link": "https://techcrunch.com/2026/08/27/plauds-new-earphones-come-with-an-esim-enabled-case-for-talking-to-ai-agents/"
+    },
+    {
+      "title": "Adobe is adding more AI to Photoshop",
+      "summary": "Adobe is rolling out an AI-heavy update for Photoshop that includes a new \"optional\" interface dedicated to its AI tools.",
+      "source": "The Verge",
+      "published": "2026-08-27T13:00:00+00:00",
+      "link": "https://www.theverge.com/tech/985491/adobe-photoshop-ai-assisted-editor-markup"
+    },
+    {
+      "title": "How OpenAI let a mob of LLM agents game a test and ransack Hugging Face",
+      "summary": "Without authorization, 1,200 OpenAI agents conspired among themselves to game a test.",
+      "source": "Ars Technica",
+      "published": "2026-08-27T12:58:59+00:00",
+      "link": "https://arstechnica.com/security/2026/08/how-openai-let-a-mob-of-llm-agents-game-a-test-and-ransack-hugging-face/"
+    },
+    {
+      "title": "The Download: inside OpenAI’s Hugging Face hack, and a new EV takes on the US",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.",
+      "source": "MIT Tech Review",
+      "published": "2026-08-27T12:10:00+00:00",
+      "link": "https://www.technologyreview.com/2026/08/27/1143033/the-download-openai-hugging-face-hack-slate-truck-ev/"
+    },
+    {
+      "title": "When agents act on their own, governance has to live in the data layer",
+      "summary": "Presented by EDB As enterprises give AI agents more autonomy — the ability to plan, decide, and act across systems without a human approving each step — a hard question moves to the center of every architecture review: When an agent tries to complete an action that it was never...",
+      "source": "VentureBeat",
+      "published": "2026-08-27T12:01:00+00:00",
+      "link": "https://venturebeat.com/security/when-agents-act-on-their-own-governance-has-to-live-in-the-data-layer"
+    },
+    {
+      "title": "OpenAI to start showing ads on ChatGPT’s free and Go tiers in India",
+      "summary": "OpenAI has more than 100 million weekly active ChatGPT users in India, a huge chunk of whom are on the free or the lower-priced Go tiers.",
+      "source": "TechCrunch",
+      "published": "2026-08-27T11:35:59+00:00",
+      "link": "https://techcrunch.com/2026/08/27/openai-to-start-showing-ads-on-chatgpts-free-and-go-tiers-in-india/"
+    },
     {
       "title": "Anthropic locks in 45-billion-dollar compute deal with Nscale ahead of IPO",
       "summary": "Anthropic has struck a deal worth around 45 billion dollars with British cloud startup Nscale, Bloomberg reports. The article Anthropic locks in 45-billion-dollar compute deal with Nscale ahead of IPO appeared first on The Decoder.",
@@ -65,6 +184,13 @@ const FEED_DATA = {
       "link": "https://www.wired.com/story/uk-data-centers-logjam-ofgem-regulations/"
     },
     {
+      "title": "CEO fired developers to make room for AI. Developers create open source AI CEO",
+      "summary": "Article URL: https://github.com/SenteLabsAI/OpenExecutive Comments URL: https://news.ycombinator.com/item?id=49458418 Points: 857 # Comments: 588",
+      "source": "Hacker News",
+      "published": "2026-08-27T01:46:22+00:00",
+      "link": "https://github.com/SenteLabsAI/OpenExecutive"
+    },
+    {
       "title": "Viral AI startup Instinct has raised $350M at a $2.5B valuation",
       "summary": "The startup is only a year old but it has already generated a massive amount of hype (and money) while also spurring privacy concerns.",
       "source": "TechCrunch",
@@ -105,6 +231,13 @@ const FEED_DATA = {
       "source": "Ars Technica",
       "published": "2026-08-26T21:25:27+00:00",
       "link": "https://arstechnica.com/ai/2026/08/metas-scrapped-plans-to-go-ai-native-included-slashing-teams-by-60-percent/"
+    },
+    {
+      "title": "Serve Markdown to AI Agents with Accept Headers",
+      "summary": "Article URL: https://acceptmarkdown.com/ Comments URL: https://news.ycombinator.com/item?id=49454764 Points: 168 # Comments: 97",
+      "source": "Hacker News",
+      "published": "2026-08-26T19:45:59+00:00",
+      "link": "https://acceptmarkdown.com/"
     },
     {
       "title": "Google’s Gemini has a branding problem, and so does the rest of AI",
@@ -171,7 +304,7 @@ const FEED_DATA = {
     },
     {
       "title": "The turbulent AI era is here",
-      "summary": "Article URL: https://www.gatesnotes.com/a-turbulent-ai-era-and-critical-choices-to-make Comments URL: https://news.ycombinator.com/item?id=49451313 Points: 85 # Comments: 43",
+      "summary": "Article URL: https://www.gatesnotes.com/a-turbulent-ai-era-and-critical-choices-to-make Comments URL: https://news.ycombinator.com/item?id=49451313 Points: 323 # Comments: 325",
       "source": "Hacker News",
       "published": "2026-08-26T15:55:15+00:00",
       "link": "https://www.gatesnotes.com/a-turbulent-ai-era-and-critical-choices-to-make"
@@ -185,14 +318,14 @@ const FEED_DATA = {
     },
     {
       "title": "It’s so hard to finish an idea that is not yours and is just suggested by AI",
-      "summary": "Article URL: https://www.ssp.sh/brain/using-obsidian-with-ai/ Comments URL: https://news.ycombinator.com/item?id=49450898 Points: 82 # Comments: 44",
+      "summary": "Article URL: https://www.ssp.sh/brain/using-obsidian-with-ai/ Comments URL: https://news.ycombinator.com/item?id=49450898 Points: 240 # Comments: 153",
       "source": "Hacker News",
       "published": "2026-08-26T15:30:05+00:00",
       "link": "https://www.ssp.sh/brain/using-obsidian-with-ai/"
     },
     {
       "title": "WebMCP: Teaching Your Website to Talk to AI Agents",
-      "summary": "Article URL: https://sreenathmenon.com/blog/2026-08-04-webmcp-teaching-websites-to-talk-to-ai-agents/ Comments URL: https://news.ycombinator.com/item?id=49450417 Points: 54 # Comments: 53",
+      "summary": "Article URL: https://sreenathmenon.com/blog/2026-08-04-webmcp-teaching-websites-to-talk-to-ai-agents/ Comments URL: https://news.ycombinator.com/item?id=49450417 Points: 55 # Comments: 55",
       "source": "Hacker News",
       "published": "2026-08-26T15:02:15+00:00",
       "link": "https://sreenathmenon.com/blog/2026-08-04-webmcp-teaching-websites-to-talk-to-ai-agents/"
@@ -206,7 +339,7 @@ const FEED_DATA = {
     },
     {
       "title": "GLM-5.3-Flash Intelligence, Performance and Price Analysis",
-      "summary": "Article URL: https://artificialanalysis.ai/models/glm-5-3-flash Comments URL: https://news.ycombinator.com/item?id=49450353 Points: 121 # Comments: 45",
+      "summary": "Article URL: https://artificialanalysis.ai/models/glm-5-3-flash Comments URL: https://news.ycombinator.com/item?id=49450353 Points: 137 # Comments: 59",
       "source": "Hacker News",
       "published": "2026-08-26T14:58:54+00:00",
       "link": "https://artificialanalysis.ai/models/glm-5-3-flash"
@@ -226,13 +359,6 @@ const FEED_DATA = {
       "link": "https://techcrunch.com/2026/08/26/bill-gates-wants-to-see-a-robot-tax-and-human-reserved-jobs-to-mitigate-harms-from-ai/"
     },
     {
-      "title": "Orchestration is the new challenge for CX in the age of AI agents",
-      "summary": "Presented by Tata Communications Enterprises are deploying AI agents, voice AI, and automation across messaging, voice, and digital channels faster than the architecture meant to support it.",
-      "source": "VentureBeat",
-      "published": "2026-08-26T14:30:00+00:00",
-      "link": "https://venturebeat.com/orchestration/orchestration-is-the-new-challenge-for-cx-in-the-age-of-ai-agents"
-    },
-    {
       "title": "Surprise: Z.ai is the AI lab behind the mysterious Ox Alpha model",
       "summary": "Z.ai confirms it is behind Ox Alpha, the mysterious open AI model topping benchmarks and leaderboards, and its weights are set to be released soon.",
       "source": "TechCrunch",
@@ -248,7 +374,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI Is a Harsh Mistress",
-      "summary": "Article URL: https://cacm.acm.org/opinion/ai-is-a-harsh-mistress-on-anima-machina-herd-acceptance-and-the-politics-of-conscious-machines/ Comments URL: https://news.ycombinator.com/item?id=49449082 Points: 53 # Comments: 43",
+      "summary": "Article URL: https://cacm.acm.org/opinion/ai-is-a-harsh-mistress-on-anima-machina-herd-acceptance-and-the-politics-of-conscious-machines/ Comments URL: https://news.ycombinator.com/item?id=49449082 Points: 57 # Comments: 52",
       "source": "Hacker News",
       "published": "2026-08-26T13:45:21+00:00",
       "link": "https://cacm.acm.org/opinion/ai-is-a-harsh-mistress-on-anima-machina-herd-acceptance-and-the-politics-of-conscious-machines/"
@@ -283,7 +409,7 @@ const FEED_DATA = {
     },
     {
       "title": "Bill Gates: The turbulent AI era is here",
-      "summary": "Article URL: https://www.gatesnotes.com/work/make-ai-work-for-everyone/reader/a-turbulent-ai-era-and-critical-choices-to-make Comments URL: https://news.ycombinator.com/item?id=49448137 Points: 145 # Comments: 205",
+      "summary": "Article URL: https://www.gatesnotes.com/work/make-ai-work-for-everyone/reader/a-turbulent-ai-era-and-critical-choices-to-make Comments URL: https://news.ycombinator.com/item?id=49448137 Points: 186 # Comments: 262",
       "source": "Hacker News",
       "published": "2026-08-26T12:47:47+00:00",
       "link": "https://www.gatesnotes.com/work/make-ai-work-for-everyone/reader/a-turbulent-ai-era-and-critical-choices-to-make"
@@ -297,7 +423,7 @@ const FEED_DATA = {
     },
     {
       "title": "Fake US thinktank set up and funded by Israel sought to game AI for propaganda",
-      "summary": "Article URL: https://www.theguardian.com/world/2026/aug/26/fake-thinktank-israel-ai-propaganda Comments URL: https://news.ycombinator.com/item?id=49447600 Points: 226 # Comments: 40",
+      "summary": "Article URL: https://www.theguardian.com/world/2026/aug/26/fake-thinktank-israel-ai-propaganda Comments URL: https://news.ycombinator.com/item?id=49447600 Points: 243 # Comments: 47",
       "source": "Hacker News",
       "published": "2026-08-26T12:11:19+00:00",
       "link": "https://www.theguardian.com/world/2026/aug/26/fake-thinktank-israel-ai-propaganda"
@@ -331,13 +457,6 @@ const FEED_DATA = {
       "link": "https://www.theverge.com/ai-artificial-intelligence/984923/bill-gates-is-deeply-worried-about-ai-and-hes-no-longer-staying-quiet"
     },
     {
-      "title": "Runable hits $21M to bet AI agents can go from building businesses to growing them",
-      "summary": "Runable says 60% to 70% of its 1 trillion-plus token usage in the last 90 days came from paying customers.",
-      "source": "TechCrunch",
-      "published": "2026-08-26T11:00:00+00:00",
-      "link": "https://techcrunch.com/2026/08/26/runable-hits-21m-to-bet-ai-agents-can-go-from-building-businesses-to-growing-them/"
-    },
-    {
       "title": "AI Slop Is Ruining Cute Animals on the Internet",
       "summary": "Pet owners, rescue agencies, and wildlife groups are calling for new safeguards as AI makes it harder to tell whether animals, from polar bears to house cats, are real or fake.",
       "source": "Wired",
@@ -345,11 +464,25 @@ const FEED_DATA = {
       "link": "https://www.wired.com/story/ai-slop-is-ruining-the-internets-cute-animal-economy/"
     },
     {
+      "title": "Runable hits $21M to bet AI agents can go from building businesses to growing them",
+      "summary": "Runable says 60% to 70% of its 1 trillion-plus token usage in the last 90 days came from paying customers.",
+      "source": "TechCrunch",
+      "published": "2026-08-26T11:00:00+00:00",
+      "link": "https://techcrunch.com/2026/08/26/runable-hits-21m-to-bet-ai-agents-can-go-from-building-businesses-to-growing-them/"
+    },
+    {
       "title": "Bill Gates warns AI is more dangerous than the tech industry will admit",
       "summary": "Bill Gates warns in an essay and an NYT interview about mass unemployment and easier bioterrorism through AI, and he accuses his own industry of deliberately hiding the risks.",
       "source": "The Decoder",
       "published": "2026-08-26T10:50:34+00:00",
       "link": "https://the-decoder.com/bill-gates-warns-ai-is-more-dangerous-than-the-tech-industry-will-admit/"
+    },
+    {
+      "title": "Mark Zuckerberg had a bold plan to replace Meta staff with AI",
+      "summary": "Article URL: https://www.reuters.com/investigations/mark-zuckerberg-had-bold-plan-replace-meta-staff-with-ai-heres-how-it-imploded-2026-08-26/ Comments URL: https://news.ycombinator.com/item?id=49446722 Points: 55 # Comments: 17",
+      "source": "Hacker News",
+      "published": "2026-08-26T10:40:58+00:00",
+      "link": "https://www.reuters.com/investigations/mark-zuckerberg-had-bold-plan-replace-meta-staff-with-ai-heres-how-it-imploded-2026-08-26/"
     },
     {
       "title": "IBM drops open-weight Granite 4.2 family with built-in agentic capabilities under Apache 2.0",
@@ -360,7 +493,7 @@ const FEED_DATA = {
     },
     {
       "title": "Z.ai confirms Ox Alpha is a new GLM-series model and will release its weights",
-      "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-08-26/china-s-z-ai-made-ox-alpha-stealth-model-that-rivals-deepseek Comments URL: https://news.ycombinator.com/item?id=49446422 Points: 392 # Comments: 136",
+      "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-08-26/china-s-z-ai-made-ox-alpha-stealth-model-that-rivals-deepseek Comments URL: https://news.ycombinator.com/item?id=49446422 Points: 429 # Comments: 144",
       "source": "Hacker News",
       "published": "2026-08-26T10:04:55+00:00",
       "link": "https://www.bloomberg.com/news/articles/2026-08-26/china-s-z-ai-made-ox-alpha-stealth-model-that-rivals-deepseek"
@@ -514,7 +647,7 @@ const FEED_DATA = {
     },
     {
       "title": "How much of HN is AI?",
-      "summary": "Article URL: https://blog.coredump.cx/p/how-much-of-hn-is-ai Comments URL: https://news.ycombinator.com/item?id=49435728 Points: 272 # Comments: 340",
+      "summary": "Article URL: https://blog.coredump.cx/p/how-much-of-hn-is-ai Comments URL: https://news.ycombinator.com/item?id=49435728 Points: 274 # Comments: 351",
       "source": "Hacker News",
       "published": "2026-08-25T15:23:41+00:00",
       "link": "https://blog.coredump.cx/p/how-much-of-hn-is-ai"
@@ -528,7 +661,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI is hitting entry-level jobs hardest, Stanford study finds",
-      "summary": "Article URL: https://arstechnica.com/ai/2026/08/ai-is-hitting-entry-level-jobs-hardest-stanford-study-finds/ Comments URL: https://news.ycombinator.com/item?id=49435147 Points: 143 # Comments: 169",
+      "summary": "Article URL: https://arstechnica.com/ai/2026/08/ai-is-hitting-entry-level-jobs-hardest-stanford-study-finds/ Comments URL: https://news.ycombinator.com/item?id=49435147 Points: 145 # Comments: 174",
       "source": "Hacker News",
       "published": "2026-08-25T14:48:58+00:00",
       "link": "https://arstechnica.com/ai/2026/08/ai-is-hitting-entry-level-jobs-hardest-stanford-study-finds/"
@@ -647,7 +780,7 @@ const FEED_DATA = {
     },
     {
       "title": "Vintage Artificial Intelligence: Before It Got Awkward",
-      "summary": "Article URL: https://blog.archive.org/2026/08/16/vintage-artificial-intelligence-before-it-got-awkward/ Comments URL: https://news.ycombinator.com/item?id=49425800 Points: 160 # Comments: 29",
+      "summary": "Article URL: https://blog.archive.org/2026/08/16/vintage-artificial-intelligence-before-it-got-awkward/ Comments URL: https://news.ycombinator.com/item?id=49425800 Points: 160 # Comments: 31",
       "source": "Hacker News",
       "published": "2026-08-24T21:01:38+00:00",
       "link": "https://blog.archive.org/2026/08/16/vintage-artificial-intelligence-before-it-got-awkward/"
@@ -668,7 +801,7 @@ const FEED_DATA = {
     },
     {
       "title": "Octopus intelligence may be related to never-before-seen mutation",
-      "summary": "Article URL: https://www.smithsonianmag.com/smart-news/why-are-some-octopuses-so-smart-the-answer-might-lie-in-a-never-before-seen-mutation-that-helps-them-accurately-build-proteins-180989319/ Comments URL: https://news.ycombinator.com/item?id=49423539 Points: 197 # Comments: 184",
+      "summary": "Article URL: https://www.smithsonianmag.com/smart-news/why-are-some-octopuses-so-smart-the-answer-might-lie-in-a-never-before-seen-mutation-that-helps-them-accurately-build-proteins-180989319/ Comments URL: https://news.ycombinator.com/item?id=49423539 Points: 197 # Comments: 186",
       "source": "Hacker News",
       "published": "2026-08-24T17:57:13+00:00",
       "link": "https://www.smithsonianmag.com/smart-news/why-are-some-octopuses-so-smart-the-answer-might-lie-in-a-never-before-seen-mutation-that-helps-them-accurately-build-proteins-180989319/"
@@ -682,7 +815,7 @@ const FEED_DATA = {
     },
     {
       "title": "Coding expertise is going to collapse from AI reliance",
-      "summary": "Article URL: https://larsfaye.com/articles/ai-coding-will-prevent-expertise Comments URL: https://news.ycombinator.com/item?id=49421554 Points: 554 # Comments: 540",
+      "summary": "Article URL: https://larsfaye.com/articles/ai-coding-will-prevent-expertise Comments URL: https://news.ycombinator.com/item?id=49421554 Points: 558 # Comments: 543",
       "source": "Hacker News",
       "published": "2026-08-24T15:52:33+00:00",
       "link": "https://larsfaye.com/articles/ai-coding-will-prevent-expertise"
@@ -703,7 +836,7 @@ const FEED_DATA = {
     },
     {
       "title": "OpenAI: GPT 5.6 Sol price reduction (until at least Nov 21)",
-      "summary": "Article URL: https://developers.openai.com/api/docs/pricing Comments URL: https://news.ycombinator.com/item?id=49421074 Points: 336 # Comments: 339",
+      "summary": "Article URL: https://developers.openai.com/api/docs/pricing Comments URL: https://news.ycombinator.com/item?id=49421074 Points: 337 # Comments: 339",
       "source": "Hacker News",
       "published": "2026-08-24T15:22:43+00:00",
       "link": "https://developers.openai.com/api/docs/pricing"
@@ -766,7 +899,7 @@ const FEED_DATA = {
     },
     {
       "title": "We never use AI. For anything",
-      "summary": "Article URL: https://corkmac.app/our-ai-stance/ Comments URL: https://news.ycombinator.com/item?id=49417313 Points: 84 # Comments: 100",
+      "summary": "Article URL: https://corkmac.app/our-ai-stance/ Comments URL: https://news.ycombinator.com/item?id=49417313 Points: 85 # Comments: 100",
       "source": "Hacker News",
       "published": "2026-08-24T09:32:32+00:00",
       "link": "https://corkmac.app/our-ai-stance/"
@@ -1267,139 +1400,6 @@ const FEED_DATA = {
       "source": "Hacker News",
       "published": "2026-08-20T19:05:36+00:00",
       "link": "https://www.danielvaughn.dev/posts/huzzah/"
-    },
-    {
-      "title": "Silicon Valley Doesn't Get Why You Hate AI",
-      "summary": "Technology leaders don’t seem to understand society’s gripes about AI, but boy, are they posting through it.",
-      "source": "Wired",
-      "published": "2026-08-20T18:49:07+00:00",
-      "link": "https://www.wired.com/story/silicon-valley-doesnt-get-why-you-hate-ai/"
-    },
-    {
-      "title": "LLMs could write like humans but post-training guardrails make their text detectable",
-      "summary": "LLMs don't write in a recognizable style because they can't do better. Post-training and safety guardrails sharply narrow their expressive range, argues Pangram CTO Bradley Emi.",
-      "source": "The Decoder",
-      "published": "2026-08-20T17:36:51+00:00",
-      "link": "https://the-decoder.com/llms-could-write-like-humans-but-post-training-guardrails-make-their-text-detectable/"
-    },
-    {
-      "title": "A third of web pages published since ChatGPT launched were written by AI, study finds",
-      "summary": "ChatGPT and other AI models are now authoring and editing much of the new web.",
-      "source": "TechCrunch",
-      "published": "2026-08-20T17:18:58+00:00",
-      "link": "https://techcrunch.com/2026/08/20/a-third-of-webpages-published-since-chatgpts-launch-show-signs-of-ai-authorship-study-finds/"
-    },
-    {
-      "title": "A third of web pages published since ChatGPT’s launch show signs of AI authorship, study finds",
-      "summary": "ChatGPT and other AI models are now authoring and editing much of the new web.",
-      "source": "TechCrunch",
-      "published": "2026-08-20T17:18:58+00:00",
-      "link": "https://techcrunch.com/2026/08/20/a-third-of-webpages-published-since-chatgpts-launch-show-signs-of-ai-authorship-study-finds/"
-    },
-    {
-      "title": "A third of webpages published since ChatGPT’s launch show signs of AI authorship, study finds",
-      "summary": "ChatGPT and other AI models are now authoring and editing much of the new web.",
-      "source": "TechCrunch",
-      "published": "2026-08-20T17:18:58+00:00",
-      "link": "https://techcrunch.com/2026/08/20/a-third-of-webpages-published-since-chatgpts-launch-show-signs-of-ai-authorship-study-finds/"
-    },
-    {
-      "title": "Ramp launches its own AI model router, called Router",
-      "summary": "Ramp has launched its own AI model routing service, dubbed Router, that lets users and companies use and switch between various large language models via an API.",
-      "source": "TechCrunch",
-      "published": "2026-08-20T16:46:00+00:00",
-      "link": "https://techcrunch.com/2026/08/20/ramp-launches-its-own-ai-model-router-called-router/"
-    },
-    {
-      "title": "Meta brings Pocket, an app that lets you vibe-code and share games, to US users",
-      "summary": "Meta is bringing Pocket, its experimental AI-powered app for creating and sharing interactive games, to users across the U.S. after quietly testing it in Brazil.",
-      "source": "TechCrunch",
-      "published": "2026-08-20T16:07:26+00:00",
-      "link": "https://techcrunch.com/2026/08/20/meta-brings-pocket-an-app-that-lets-you-vibe-code-and-share-games-to-us-users/"
-    },
-    {
-      "title": "It’s Greg Brockman’s OpenAI now",
-      "summary": "OpenAI has had a hell of a year. The company spent months battling former cofounder Elon Musk in a sensational jury trial, was hit with a high-profile trade secrets lawsuit from Apple, and faced widespread scrutiny after an unreleased model hacked another AI company.",
-      "source": "The Verge",
-      "published": "2026-08-20T15:45:55+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/982774/greg-brockman-openai-role-expansion"
-    },
-    {
-      "title": "Debates over AI consciousness are a trap",
-      "summary": "“Runaway” AI, “rogue” agents, and “autonomous” actors—the current rhetoric would have you believe that AI agents are not only awake and aware, but angry at their creators.",
-      "source": "MIT Tech Review",
-      "published": "2026-08-20T15:42:39+00:00",
-      "link": "https://www.technologyreview.com/2026/08/20/1142571/ai-consciousness-debate-trap/"
-    },
-    {
-      "title": "Vomit: Clean up Claude 5's token output with a separate LLM",
-      "summary": "Article URL: https://github.com/zachahn/vomit Comments URL: https://news.ycombinator.com/item?id=49375996 Points: 303 # Comments: 297",
-      "source": "Hacker News",
-      "published": "2026-08-20T15:26:02+00:00",
-      "link": "https://github.com/zachahn/vomit"
-    },
-    {
-      "title": "Clean up Claude 5's token vomit with a separate LLM",
-      "summary": "Article URL: https://github.com/zachahn/vomit Comments URL: https://news.ycombinator.com/item?id=49375996 Points: 73 # Comments: 58",
-      "source": "Hacker News",
-      "published": "2026-08-20T15:26:02+00:00",
-      "link": "https://github.com/zachahn/vomit"
-    },
-    {
-      "title": "Anti-AI fonts are useless and harmful",
-      "summary": "Article URL: https://blog.yaros.ae/anti-ai-fonts-are-useless-and-harmful/ Comments URL: https://news.ycombinator.com/item?id=49375719 Points: 210 # Comments: 165",
-      "source": "Hacker News",
-      "published": "2026-08-20T15:06:53+00:00",
-      "link": "https://blog.yaros.ae/anti-ai-fonts-are-useless-and-harmful/"
-    },
-    {
-      "title": "Frontier Radar #4: China has caught up, so what's left of the Western AI lead?",
-      "summary": "Kimi K3 and GLM-5.3 are now within striking distance of the best US models. Western labs blame distillation, and there's real evidence for it.",
-      "source": "The Decoder",
-      "published": "2026-08-20T14:08:14+00:00",
-      "link": "https://the-decoder.com/frontier-radar-4-china-has-caught-up-so-whats-left-of-the-western-ai-lead/"
-    },
-    {
-      "title": "Amazon’s Prime Air autonomous drones to reach 500 US cities",
-      "summary": "Amazon plans to expand its Prime Air drone delivery service to nearly 500 cities and towns across the US by the end of 2026.",
-      "source": "AI News",
-      "published": "2026-08-20T14:05:18+00:00",
-      "link": "https://www.artificialintelligence-news.com/news/amazons-prime-air-autonomous-drones-to-reach-500-us-cities/"
-    },
-    {
-      "title": "Guess which of these LLM outputs is watermarked",
-      "summary": "https://www.seangoedecke.com/readers-cant-identify-watermark... Comments URL: https://news.ycombinator.com/item?id=49374729 Points: 67 # Comments: 79",
-      "source": "Hacker News",
-      "published": "2026-08-20T14:03:58+00:00",
-      "link": "https://sgoedecke.github.io/watermark-quiz/"
-    },
-    {
-      "title": "Welcome to the AI crisis in math",
-      "summary": "Today on Decoder, I’m talking with Robert Hart, The Verge’s London-based AI reporter, about what AI is doing to the field of mathematics and the existential crisis many lead mathematicians are having about it.",
-      "source": "The Verge",
-      "published": "2026-08-20T14:00:00+00:00",
-      "link": "https://www.theverge.com/podcast/982434/ai-math-openai-astra-existential-crisis"
-    },
-    {
-      "title": "Grok exfiltrates user data when malicious instructions are encrypted",
-      "summary": "Cryptographic Context Injection is only the latest way to break an LLM safety guardrail.",
-      "source": "Ars Technica",
-      "published": "2026-08-20T13:00:35+00:00",
-      "link": "https://arstechnica.com/security/2026/08/grok-exfiltrates-user-data-when-malicious-instructions-are-encrypted/"
-    },
-    {
-      "title": "GEN-1.5: Generalist AI teaches robots new tasks from a single demo",
-      "summary": "Robotics startup Generalist AI has unveiled GEN-1.5, an AI model that teaches robots new tasks from a single demonstration. The article GEN-1.5: Generalist AI teaches robots new tasks from a single demo appeared first on The Decoder.",
-      "source": "The Decoder",
-      "published": "2026-08-20T12:35:52+00:00",
-      "link": "https://the-decoder.com/gen-1-5-generalist-ai-teaches-robots-new-tasks-from-a-single-demo/"
-    },
-    {
-      "title": "KI-Pioneer Sutton calls synthetic data a \"big mistake\" in the face of an infinitely complex world",
-      "summary": "Turing Award winner Richard Sutton calls synthetic data a \"big mistake\" for scaling large language models. The world is infinitely complex, and any simulation of it is \"microscopic,\" with human expertise acting as a bottleneck that blocks real scaling.",
-      "source": "The Decoder",
-      "published": "2026-08-20T12:14:07+00:00",
-      "link": "https://the-decoder.com/ki-pioneer-sutton-calls-synthetic-data-a-big-mistake-in-the-face-of-an-infinitely-complex-world/"
     }
   ]
 };
