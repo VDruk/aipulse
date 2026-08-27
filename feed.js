@@ -1,6 +1,76 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-08-27T00:21:45.773134+00:00",
+  "lastUpdated": "2026-08-27T10:54:01.474166+00:00",
   "items": [
+    {
+      "title": "Anthropic locks in 45-billion-dollar compute deal with Nscale ahead of IPO",
+      "summary": "Anthropic has struck a deal worth around 45 billion dollars with British cloud startup Nscale, Bloomberg reports. The article Anthropic locks in 45-billion-dollar compute deal with Nscale ahead of IPO appeared first on The Decoder.",
+      "source": "The Decoder",
+      "published": "2026-08-27T10:49:35+00:00",
+      "link": "https://the-decoder.com/anthropic-locks-in-45-billion-dollar-compute-deal-with-nscale-ahead-of-ipo/"
+    },
+    {
+      "title": "Google's Gemini 3.5 Transcribe turns speech to text in 85 languages while auto-correcting your verbal stumbles",
+      "summary": "Google's new Gemini 3.5 Transcribe recognizes over 85 languages, strips filler words, and corrects slips of the tongue in real time. It hits a 4.0 percent word error rate in streaming mode, with 70 percent lower latency than its predecessor, Chirp 3.",
+      "source": "The Decoder",
+      "published": "2026-08-27T10:40:08+00:00",
+      "link": "https://the-decoder.com/googles-gemini-3-5-transcribe-turns-speech-to-text-in-85-languages-while-auto-correcting-your-verbal-stumbles/"
+    },
+    {
+      "title": "Stop Touching Your Keyboard. Use This AI-Powered Microphone Instead",
+      "summary": "The Relay Q, due next year, is the latest attempt to reposition voice as the most seamless method for human-computer interaction.",
+      "source": "Wired",
+      "published": "2026-08-27T10:30:00+00:00",
+      "link": "https://www.wired.com/story/relay-q-voice-to-text-ai-app/"
+    },
+    {
+      "title": "GLM-5.3-Flash matches top models at a fraction of the cost, and runs without Nvidia",
+      "summary": "Z.ai releases GLM-5.3-Flash, an open-source model with 320 billion parameters that lands just three points behind the larger GLM-5.3 on Artificial Analysis's Intelligence Index, at a seventh of the cost.",
+      "source": "The Decoder",
+      "published": "2026-08-27T10:24:49+00:00",
+      "link": "https://the-decoder.com/the-chinese-ai-model-glm-5-3-flash-runs-without-nvidia-and-costs-a-fraction-of-what-the-competition-does/"
+    },
+    {
+      "title": "A quarter of Nvidia’s business next year comes from labs it is financing",
+      "summary": "Nvidia has put nearly US$50 billion into the AI labs that buy its chips, and has lined up commitments for more than $500 billion Colette Kress, the company’s chief financial officer, told analysts on August 26 that demand from the labs Nvidia backs with its own balance sheet...",
+      "source": "AI News",
+      "published": "2026-08-27T10:00:00+00:00",
+      "link": "https://www.artificialintelligence-news.com/news/nvidia-circular-financing-ai-labs/"
+    },
+    {
+      "title": "Claude Cowork now runs its own browser inside the desktop app",
+      "summary": "Anthropic is building its own browser into Claude Cowork, running inside the desktop app. The article Claude Cowork now runs its own browser inside the desktop app appeared first on The Decoder.",
+      "source": "The Decoder",
+      "published": "2026-08-27T09:54:46+00:00",
+      "link": "https://the-decoder.com/claude-cowork-now-runs-its-own-browser-inside-the-desktop-app/"
+    },
+    {
+      "title": "Nvidia snaps up Hugging Face for $12.9 billion as closed AI labs pull away",
+      "summary": "Nvidia is buying open-source AI platform Hugging Face for $12.9 billion, about 80 times its $150 million annual revenue. The deal fits Nvidia's push to invest billions in open AI models while closed providers like OpenAI and Anthropic move away from Nvidia hardware.",
+      "source": "The Decoder",
+      "published": "2026-08-27T07:14:38+00:00",
+      "link": "https://the-decoder.com/nvidia-snaps-up-hugging-face-for-12-9-billion-as-closed-ai-labs-pull-away/"
+    },
+    {
+      "title": "Nvidia closes in on Hugging Face acquisition",
+      "summary": "Nvidia has reportedly agreed to buy Hugging Face, the popular open-source AI hub, for $12.9 billion in a move that would let Nvidia both protect its chip empire and jump back into the cloud business.",
+      "source": "TechCrunch",
+      "published": "2026-08-27T06:32:51+00:00",
+      "link": "https://techcrunch.com/2026/08/26/nvidia-closes-in-on-hugging-face-acquisition/"
+    },
+    {
+      "title": "The UK Power Grid Has a Phantom Data Center Problem",
+      "summary": "The UK’s energy regulator is using a variety of tricks to keep speculative data center projects from plugging into the power grid. The country’s AI ambitions hang in the balance.",
+      "source": "Wired",
+      "published": "2026-08-27T06:00:00+00:00",
+      "link": "https://www.wired.com/story/uk-data-centers-logjam-ofgem-regulations/"
+    },
+    {
+      "title": "Viral AI startup Instinct has raised $350M at a $2.5B valuation",
+      "summary": "The startup is only a year old but it has already generated a massive amount of hype (and money) while also spurring privacy concerns.",
+      "source": "TechCrunch",
+      "published": "2026-08-27T00:24:57+00:00",
+      "link": "https://techcrunch.com/2026/08/26/viral-ai-startup-instinct-has-raised-350-million-at-a-2-5-billion-valuation/"
+    },
     {
       "title": "Amazon just tripled its order of Nvidia chips over ‘surging demand’",
       "summary": "Amazon is adding another 2 million Nvidia GPU chips to its data centers over the next two years. But this extended partnerships stretches beyond buying more chips.",
@@ -1330,76 +1400,6 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-08-20T12:14:07+00:00",
       "link": "https://the-decoder.com/ki-pioneer-sutton-calls-synthetic-data-a-big-mistake-in-the-face-of-an-infinitely-complex-world/"
-    },
-    {
-      "title": "Meta AI’s new Mac app wants you to talk to your apps",
-      "summary": "The company said that the dictation feature works across all apps, just like other tools such as Wispr Flow, Superwhisper, and Monologue.",
-      "source": "TechCrunch",
-      "published": "2026-08-20T12:11:57+00:00",
-      "link": "https://techcrunch.com/2026/08/20/meta-ais-new-mac-app-wants-you-to-talk-to-your-apps/"
-    },
-    {
-      "title": "The Download: polycrisis support networks and a hydrogen gold rush",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.",
-      "source": "MIT Tech Review",
-      "published": "2026-08-20T12:10:00+00:00",
-      "link": "https://www.technologyreview.com/2026/08/20/1142579/the-download-polycrisis-support-networks-underground-hydrogen-gold-rush/"
-    },
-    {
-      "title": "Slack is launching collaborative vibe-coding channels",
-      "summary": "Slack is introducing dedicated channels where teams can vibe-code together with AI agents instead of jumping between different tools and conversations.",
-      "source": "The Verge",
-      "published": "2026-08-20T12:00:00+00:00",
-      "link": "https://www.theverge.com/tech/982628/slack-code-vibe-coding-channels-launch"
-    },
-    {
-      "title": "AI didn't erase the junior engineer's value, it increased it it",
-      "summary": "Article URL: https://franciscotrindade.me/blog/the-kids-are-really-alright/ Comments URL: https://news.ycombinator.com/item?id=49373269 Points: 89 # Comments: 143",
-      "source": "Hacker News",
-      "published": "2026-08-20T11:42:20+00:00",
-      "link": "https://franciscotrindade.me/blog/the-kids-are-really-alright/"
-    },
-    {
-      "title": "Anthropic's most capable model, codenamed \"Model 2,\" is for internal use only",
-      "summary": "Anthropic uses an unpublished AI model internally that is more powerful than any publicly available version of Claude. The article Anthropic's most capable model, codenamed \"Model 2,\" is for internal use only appeared first on The Decoder.",
-      "source": "The Decoder",
-      "published": "2026-08-20T10:04:45+00:00",
-      "link": "https://the-decoder.com/anthropic-uses-an-unpublished-ai-model-called-model-2-internally/"
-    },
-    {
-      "title": "Stripe agrees to buy OpenRouter as AI model routing expands",
-      "summary": "Stripe has agreed to acquire OpenRouter, an AI model-routing platform that gives developers access to hundreds of models through a single interface. The deal adds model selection and routing to Stripe’s existing work around AI usage and token-based billing.",
-      "source": "AI News",
-      "published": "2026-08-20T10:00:00+00:00",
-      "link": "https://www.artificialintelligence-news.com/news/stripe-openrouter-acquisition-ai-model-routing/"
-    },
-    {
-      "title": "Unlocking hidden revenue streams with market models",
-      "summary": "Each day, an airline transports tens of thousands of passengers on hundreds of flights. Often these are not straightforward point-to-point routes, with passengers requiring multiple connections.",
-      "source": "MIT Tech Review",
-      "published": "2026-08-20T09:47:22+00:00",
-      "link": "https://www.technologyreview.com/2026/08/20/1142070/unlocking-hidden-revenue-streams-with-market-models/"
-    },
-    {
-      "title": "Binance now lets AI agents trade, but keeping them in check is largely up to users",
-      "summary": "Binance's Agent OS works with tools such as ChatGPT, Claude Code, and Cursor.",
-      "source": "TechCrunch",
-      "published": "2026-08-20T09:30:00+00:00",
-      "link": "https://techcrunch.com/2026/08/20/binance-now-lets-ai-agents-trade-but-keeping-them-in-check-is-largely-up-to-users/"
-    },
-    {
-      "title": "China now has its own AI circular financing scheme",
-      "summary": "Unitree Robotics rose 460 percent in its Shanghai IPO, hitting a valuation of around $50 billion.",
-      "source": "The Decoder",
-      "published": "2026-08-20T09:23:37+00:00",
-      "link": "https://the-decoder.com/china-now-has-its-own-ai-circular-financing-scheme/"
-    },
-    {
-      "title": "Agentic AI in government just hit the hard part: deciding what a machine may decide",
-      "summary": "The United Arab Emirates (UAE) has been early in adopting artificial intelligence for 9 years.",
-      "source": "AI News",
-      "published": "2026-08-20T09:00:00+00:00",
-      "link": "https://www.artificialintelligence-news.com/news/agentic-ai-in-government-uae-classification/"
     }
   ]
 };
