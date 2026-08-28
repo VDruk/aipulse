@@ -1,5 +1,5 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-08-28T20:26:51.990148+00:00",
+  "lastUpdated": "2026-08-28T22:56:04.742824+00:00",
   "items": [
     {
       "title": "Neocloud Lambda secures $1B in debt to buy more chips",
@@ -108,14 +108,14 @@ const FEED_DATA = {
     },
     {
       "title": "Luanti removed from Google Play due to baseless AI copyright notice",
-      "summary": "Article URL: https://blog.luanti.org/2026/08/27/luanti-dmca-tracer-ai/ Comments URL: https://news.ycombinator.com/item?id=49475079 Points: 350 # Comments: 115",
+      "summary": "Article URL: https://blog.luanti.org/2026/08/27/luanti-dmca-tracer-ai/ Comments URL: https://news.ycombinator.com/item?id=49475079 Points: 409 # Comments: 124",
       "source": "Hacker News",
       "published": "2026-08-28T06:33:57+00:00",
       "link": "https://blog.luanti.org/2026/08/27/luanti-dmca-tracer-ai/"
     },
     {
       "title": "Please stop flooding our projects with AI slop to furnish your CV",
-      "summary": "Article URL: https://neilalexander.dev/2026/06/30/flooding-contributions Comments URL: https://news.ycombinator.com/item?id=49474143 Points: 201 # Comments: 139",
+      "summary": "Article URL: https://neilalexander.dev/2026/06/30/flooding-contributions Comments URL: https://news.ycombinator.com/item?id=49474143 Points: 206 # Comments: 140",
       "source": "Hacker News",
       "published": "2026-08-28T03:49:33+00:00",
       "link": "https://neilalexander.dev/2026/06/30/flooding-contributions"
@@ -136,7 +136,7 @@ const FEED_DATA = {
     },
     {
       "title": "Terminal-Bench-Science: Evaluating AI agents on scientific research workflows",
-      "summary": "Article URL: https://www.terminal-bench-science.ai/announcement Comments URL: https://news.ycombinator.com/item?id=49472820 Points: 110 # Comments: 35",
+      "summary": "Article URL: https://www.terminal-bench-science.ai/announcement Comments URL: https://news.ycombinator.com/item?id=49472820 Points: 111 # Comments: 35",
       "source": "Hacker News",
       "published": "2026-08-28T00:06:51+00:00",
       "link": "https://www.terminal-bench-science.ai/announcement"
@@ -465,14 +465,14 @@ const FEED_DATA = {
     },
     {
       "title": "Humanity has the debate about AI consciousness backwards",
-      "summary": "https://archive.ph/uLYYURelated: Don’t mistake chatbot intelligence for consciousness - https://www.economist.com/by-invitation/2026/08/20/dont-mist..., https://archive.ph/IeSZg Comments URL: https://news.ycombinator.com/item?id=49458875 Points: 111 # Comments: 353",
+      "summary": "https://archive.ph/uLYYURelated: Don’t mistake chatbot intelligence for consciousness - https://www.economist.com/by-invitation/2026/08/20/dont-mist..., https://archive.ph/IeSZg Comments URL: https://news.ycombinator.com/item?id=49458875 Points: 113 # Comments: 357",
       "source": "Hacker News",
       "published": "2026-08-27T02:37:07+00:00",
       "link": "https://economist.com/by-invitation/2026/08/20/humanity-has-the-debate-about-ai-consciousness-backwards"
     },
     {
       "title": "CEO fired developers to make room for AI. Developers create open source AI CEO",
-      "summary": "Article URL: https://github.com/SenteLabsAI/OpenExecutive Comments URL: https://news.ycombinator.com/item?id=49458418 Points: 1006 # Comments: 694",
+      "summary": "Article URL: https://github.com/SenteLabsAI/OpenExecutive Comments URL: https://news.ycombinator.com/item?id=49458418 Points: 1009 # Comments: 698",
       "source": "Hacker News",
       "published": "2026-08-27T01:46:22+00:00",
       "link": "https://github.com/SenteLabsAI/OpenExecutive"
@@ -605,7 +605,7 @@ const FEED_DATA = {
     },
     {
       "title": "It’s so hard to finish an idea that is not yours and is just suggested by AI",
-      "summary": "Article URL: https://www.ssp.sh/brain/using-obsidian-with-ai/ Comments URL: https://news.ycombinator.com/item?id=49450898 Points: 257 # Comments: 186",
+      "summary": "Article URL: https://www.ssp.sh/brain/using-obsidian-with-ai/ Comments URL: https://news.ycombinator.com/item?id=49450898 Points: 257 # Comments: 187",
       "source": "Hacker News",
       "published": "2026-08-26T15:30:05+00:00",
       "link": "https://www.ssp.sh/brain/using-obsidian-with-ai/"
