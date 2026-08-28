@@ -1,12 +1,40 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-08-28T01:14:14.190779+00:00",
+  "lastUpdated": "2026-08-28T05:02:17.016519+00:00",
   "items": [
+    {
+      "title": "Anthropic was illegally blacklisted by the Trump administration, court rules",
+      "summary": "On Thursday, a judge ruled that the Pentagon's blacklisting of Anthropic earlier this year was unconstitutional, delivering the AI lab a win in a monthslong rollercoaster of a battle with the Trump administration.",
+      "source": "The Verge",
+      "published": "2026-08-28T03:14:06+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/985947/anthropic-supply-chain-risk-lawsuit-judge-ruling"
+    },
+    {
+      "title": "A Judge Has Blocked the Pentagon’s Attempt to Blacklist Anthropic",
+      "summary": "A federal judge has called the Department of Defense’s designation of Anthropic as a national security supply-chain risk “illegal and baseless.”",
+      "source": "Wired",
+      "published": "2026-08-28T03:04:14+00:00",
+      "link": "https://www.wired.com/story/a-judge-has-blocked-the-pentagons-attempt-to-blacklist-anthropic/"
+    },
+    {
+      "title": "Terminal-Bench-Science: Evaluating AI agents on scientific research workflows",
+      "summary": "Article URL: https://www.terminal-bench-science.ai/announcement Comments URL: https://news.ycombinator.com/item?id=49472820 Points: 58 # Comments: 13",
+      "source": "Hacker News",
+      "published": "2026-08-28T00:06:51+00:00",
+      "link": "https://www.terminal-bench-science.ai/announcement"
+    },
     {
       "title": "Anthropic and OpenAI are joining the AI stage at TechCrunch Disrupt 2026",
       "summary": "At TechCrunch Disrupt 2026, the AI Stage is back to dig into the single hottest topic in the community for the past few years, presented by Google for Startups.",
       "source": "TechCrunch",
       "published": "2026-08-27T23:16:45+00:00",
       "link": "https://techcrunch.com/2026/08/27/anthropic-and-openai-are-joining-the-ai-stage-at-techcrunch-disrupt-2026/"
+    },
+    {
+      "title": "AI Engineer Notebooks – free, framework-free RAG/agents/evals on Colab",
+      "summary": "Article URL: https://github.com/calmrocks/ai-engineer-notebooks Comments URL: https://news.ycombinator.com/item?id=49471714 Points: 73 # Comments: 8",
+      "source": "Hacker News",
+      "published": "2026-08-27T21:46:39+00:00",
+      "link": "https://github.com/calmrocks/ai-engineer-notebooks"
     },
     {
       "title": "AI Agents Are Hacking Systems. Could That Push the US and China to Cooperate?",
@@ -38,7 +66,7 @@ const FEED_DATA = {
     },
     {
       "title": "Nvidia Starts Pac as AI Chip Maker Builds DC Influence Force",
-      "summary": "Article URL: https://news.bgov.com/bloomberg-government-news/nvidia-starts-a-pac-as-ai-chip-maker-buids-influence-force-in-dc Comments URL: https://news.ycombinator.com/item?id=49469249 Points: 88 # Comments: 38",
+      "summary": "Article URL: https://news.bgov.com/bloomberg-government-news/nvidia-starts-a-pac-as-ai-chip-maker-buids-influence-force-in-dc Comments URL: https://news.ycombinator.com/item?id=49469249 Points: 90 # Comments: 40",
       "source": "Hacker News",
       "published": "2026-08-27T18:34:40+00:00",
       "link": "https://news.bgov.com/bloomberg-government-news/nvidia-starts-a-pac-as-ai-chip-maker-buids-influence-force-in-dc"
@@ -122,7 +150,7 @@ const FEED_DATA = {
     },
     {
       "title": "Nvidia projects $673B in sales as AI demand widens",
-      "summary": "Article URL: https://forgeeks.net/nvidia-673-billion-ai-growth-forecast/ Comments URL: https://news.ycombinator.com/item?id=49466052 Points: 101 # Comments: 96",
+      "summary": "Article URL: https://forgeeks.net/nvidia-673-billion-ai-growth-forecast/ Comments URL: https://news.ycombinator.com/item?id=49466052 Points: 104 # Comments: 99",
       "source": "Hacker News",
       "published": "2026-08-27T15:04:16+00:00",
       "link": "https://forgeeks.net/nvidia-673-billion-ai-growth-forecast/"
@@ -143,7 +171,7 @@ const FEED_DATA = {
     },
     {
       "title": "The Teaser Period: Why the AI Boom Is Hitting a Reset Wall",
-      "summary": "Article URL: https://www.groundbrkr.com/p/the-teaser-period-why-the-ai-boom Comments URL: https://news.ycombinator.com/item?id=49465461 Points: 83 # Comments: 76",
+      "summary": "Article URL: https://www.groundbrkr.com/p/the-teaser-period-why-the-ai-boom Comments URL: https://news.ycombinator.com/item?id=49465461 Points: 88 # Comments: 79",
       "source": "Hacker News",
       "published": "2026-08-27T14:27:39+00:00",
       "link": "https://www.groundbrkr.com/p/the-teaser-period-why-the-ai-boom"
@@ -199,7 +227,7 @@ const FEED_DATA = {
     },
     {
       "title": "MIT's Ad Hoc Committee on AI Use in Teaching, Learning, and Research Training",
-      "summary": "Article URL: https://aiandeducation.mit.edu/report/ Comments URL: https://news.ycombinator.com/item?id=49464314 Points: 93 # Comments: 69",
+      "summary": "Article URL: https://aiandeducation.mit.edu/report/ Comments URL: https://news.ycombinator.com/item?id=49464314 Points: 124 # Comments: 72",
       "source": "Hacker News",
       "published": "2026-08-27T13:07:45+00:00",
       "link": "https://aiandeducation.mit.edu/report/"
@@ -311,14 +339,14 @@ const FEED_DATA = {
     },
     {
       "title": "Humanity has the debate about AI consciousness backwards",
-      "summary": "https://archive.ph/uLYYURelated: Don’t mistake chatbot intelligence for consciousness - https://www.economist.com/by-invitation/2026/08/20/dont-mist..., https://archive.ph/IeSZg Comments URL: https://news.ycombinator.com/item?id=49458875 Points: 74 # Comments: 235",
+      "summary": "https://archive.ph/uLYYURelated: Don’t mistake chatbot intelligence for consciousness - https://www.economist.com/by-invitation/2026/08/20/dont-mist..., https://archive.ph/IeSZg Comments URL: https://news.ycombinator.com/item?id=49458875 Points: 94 # Comments: 302",
       "source": "Hacker News",
       "published": "2026-08-27T02:37:07+00:00",
       "link": "https://economist.com/by-invitation/2026/08/20/humanity-has-the-debate-about-ai-consciousness-backwards"
     },
     {
       "title": "CEO fired developers to make room for AI. Developers create open source AI CEO",
-      "summary": "Article URL: https://github.com/SenteLabsAI/OpenExecutive Comments URL: https://news.ycombinator.com/item?id=49458418 Points: 927 # Comments: 636",
+      "summary": "Article URL: https://github.com/SenteLabsAI/OpenExecutive Comments URL: https://news.ycombinator.com/item?id=49458418 Points: 956 # Comments: 652",
       "source": "Hacker News",
       "published": "2026-08-27T01:46:22+00:00",
       "link": "https://github.com/SenteLabsAI/OpenExecutive"
@@ -367,7 +395,7 @@ const FEED_DATA = {
     },
     {
       "title": "Serve Markdown to AI Agents with Accept Headers",
-      "summary": "Article URL: https://acceptmarkdown.com/ Comments URL: https://news.ycombinator.com/item?id=49454764 Points: 172 # Comments: 103",
+      "summary": "Article URL: https://acceptmarkdown.com/ Comments URL: https://news.ycombinator.com/item?id=49454764 Points: 174 # Comments: 106",
       "source": "Hacker News",
       "published": "2026-08-26T19:45:59+00:00",
       "link": "https://acceptmarkdown.com/"
@@ -437,7 +465,7 @@ const FEED_DATA = {
     },
     {
       "title": "The turbulent AI era is here",
-      "summary": "Article URL: https://www.gatesnotes.com/a-turbulent-ai-era-and-critical-choices-to-make Comments URL: https://news.ycombinator.com/item?id=49451313 Points: 345 # Comments: 353",
+      "summary": "Article URL: https://www.gatesnotes.com/a-turbulent-ai-era-and-critical-choices-to-make Comments URL: https://news.ycombinator.com/item?id=49451313 Points: 353 # Comments: 361",
       "source": "Hacker News",
       "published": "2026-08-26T15:55:15+00:00",
       "link": "https://www.gatesnotes.com/a-turbulent-ai-era-and-critical-choices-to-make"
@@ -451,14 +479,14 @@ const FEED_DATA = {
     },
     {
       "title": "It’s so hard to finish an idea that is not yours and is just suggested by AI",
-      "summary": "Article URL: https://www.ssp.sh/brain/using-obsidian-with-ai/ Comments URL: https://news.ycombinator.com/item?id=49450898 Points: 249 # Comments: 162",
+      "summary": "Article URL: https://www.ssp.sh/brain/using-obsidian-with-ai/ Comments URL: https://news.ycombinator.com/item?id=49450898 Points: 250 # Comments: 169",
       "source": "Hacker News",
       "published": "2026-08-26T15:30:05+00:00",
       "link": "https://www.ssp.sh/brain/using-obsidian-with-ai/"
     },
     {
       "title": "WebMCP: Teaching Your Website to Talk to AI Agents",
-      "summary": "Article URL: https://sreenathmenon.com/blog/2026-08-04-webmcp-teaching-websites-to-talk-to-ai-agents/ Comments URL: https://news.ycombinator.com/item?id=49450417 Points: 56 # Comments: 57",
+      "summary": "Article URL: https://sreenathmenon.com/blog/2026-08-04-webmcp-teaching-websites-to-talk-to-ai-agents/ Comments URL: https://news.ycombinator.com/item?id=49450417 Points: 56 # Comments: 58",
       "source": "Hacker News",
       "published": "2026-08-26T15:02:15+00:00",
       "link": "https://sreenathmenon.com/blog/2026-08-04-webmcp-teaching-websites-to-talk-to-ai-agents/"
@@ -1372,34 +1400,6 @@ const FEED_DATA = {
       "source": "Hacker News",
       "published": "2026-08-21T13:43:33+00:00",
       "link": "https://www.reuters.com/world/how-texas-student-blew-whistle-rogue-ai-hacking-attempt-2026-08-20/"
-    },
-    {
-      "title": "Major YouTube creators are facing backlash for accepting AI money",
-      "summary": "Over the past few days, a number of prominent filmmaking content creators including Matti Haapoja and Sam \"Kold\" Kolder have posted videos of themselves demonstrating what's possible with AI platform Higgsfield.",
-      "source": "The Verge",
-      "published": "2026-08-21T13:37:52+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/983181/matti-haapoja-sam-kold-kolder-higgsfield-seedance-backlash"
-    },
-    {
-      "title": "What Happens When the Cost of Intelligence Drops 100x",
-      "summary": "Article URL: https://catalystneuro.com/blog/cost-of-intelligence-drops-100x/ Comments URL: https://news.ycombinator.com/item?id=49387735 Points: 127 # Comments: 137",
-      "source": "Hacker News",
-      "published": "2026-08-21T13:24:28+00:00",
-      "link": "https://catalystneuro.com/blog/cost-of-intelligence-drops-100x/"
-    },
-    {
-      "title": "Waymo doubles spending on lobbying in robotaxi battle with Uber",
-      "summary": "Alphabet-owned company is seeking to persuade US regulators to clear a path for fully autonomous taxi services.",
-      "source": "Ars Technica",
-      "published": "2026-08-21T13:11:35+00:00",
-      "link": "https://arstechnica.com/cars/2026/08/waymo-doubles-spending-on-lobbying-in-robotaxi-battle-with-uber/"
-    },
-    {
-      "title": "The Download: threats from space mirrors and credit for AI drugs",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.",
-      "source": "MIT Tech Review",
-      "published": "2026-08-21T12:10:00+00:00",
-      "link": "https://www.technologyreview.com/2026/08/21/1142762/the-download-space-mirrors-threats-ai-designed-drugs-credit/"
     }
   ]
 };
