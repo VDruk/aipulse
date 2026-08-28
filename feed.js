@@ -1,6 +1,13 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-08-27T22:51:39.406130+00:00",
+  "lastUpdated": "2026-08-28T01:14:14.190779+00:00",
   "items": [
+    {
+      "title": "Anthropic and OpenAI are joining the AI stage at TechCrunch Disrupt 2026",
+      "summary": "At TechCrunch Disrupt 2026, the AI Stage is back to dig into the single hottest topic in the community for the past few years, presented by Google for Startups.",
+      "source": "TechCrunch",
+      "published": "2026-08-27T23:16:45+00:00",
+      "link": "https://techcrunch.com/2026/08/27/anthropic-and-openai-are-joining-the-ai-stage-at-techcrunch-disrupt-2026/"
+    },
     {
       "title": "AI Agents Are Hacking Systems. Could That Push the US and China to Cooperate?",
       "summary": "This week on “Uncanny Valley,” senior writer Will Knight talks his recent visit to China and the future of AI collaboration.",
@@ -1393,13 +1400,6 @@ const FEED_DATA = {
       "source": "MIT Tech Review",
       "published": "2026-08-21T12:10:00+00:00",
       "link": "https://www.technologyreview.com/2026/08/21/1142762/the-download-space-mirrors-threats-ai-designed-drugs-credit/"
-    },
-    {
-      "title": "I'm becoming AI-blind",
-      "summary": "Article URL: https://cymerys.com/w/im-becoming-ai-blind Comments URL: https://news.ycombinator.com/item?id=49386699 Points: 504 # Comments: 503",
-      "source": "Hacker News",
-      "published": "2026-08-21T11:48:05+00:00",
-      "link": "https://cymerys.com/w/im-becoming-ai-blind"
     }
   ]
 };
