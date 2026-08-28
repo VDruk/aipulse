@@ -1,6 +1,34 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-08-28T12:29:45.225819+00:00",
+  "lastUpdated": "2026-08-28T17:14:09.740846+00:00",
   "items": [
+    {
+      "title": "AI Has Human Doctors Asking: What’s Left for Us?",
+      "summary": "A recent paper argues that AI is often better at doctoring than doctors. Guess who isn't thrilled.",
+      "source": "Wired",
+      "published": "2026-08-28T15:00:00+00:00",
+      "link": "https://www.wired.com/story/ai-has-human-doctors-asking-whats-left-for-us/"
+    },
+    {
+      "title": "AI benchmarks have a trust problem and Google wants to fix it",
+      "summary": "Google Deepmind is testing a double-blind evaluation of a frontier AI model for the first time. Cryptographic protection through Confidential Space is meant to keep Google from seeing the test questions and keep evaluators from seeing the model weights.",
+      "source": "The Decoder",
+      "published": "2026-08-28T13:15:10+00:00",
+      "link": "https://the-decoder.com/ai-benchmarks-have-a-trust-problem-and-google-wants-to-fix-it/"
+    },
+    {
+      "title": "Anthropic gets its first court win over the Pentagon’s supply-chain risk label",
+      "summary": "A federal judge ruled the Trump administration illegally labeled Anthropic a supply-chain risk, handing the AI company a victory as its second Pentagon lawsuit continues in Washington.",
+      "source": "TechCrunch",
+      "published": "2026-08-28T12:46:12+00:00",
+      "link": "https://techcrunch.com/2026/08/28/anthropic-gets-its-first-court-win-over-the-pentagons-supply-chain-risk-label/"
+    },
+    {
+      "title": "The Download: a secretive antiaging drug and joining virtual power plants",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.",
+      "source": "MIT Tech Review",
+      "published": "2026-08-28T12:35:27+00:00",
+      "link": "https://www.technologyreview.com/2026/08/28/1143113/the-download-antiaging-drug-joining-virtual-power-plants/"
+    },
     {
       "title": "Meta executive leaves for OpenAI as the social media giant faces growing scrutiny in India",
       "summary": "Sandhya Devanathan will oversee some OpenAI operations across Southeast Asia and Australia in her new role.",
@@ -44,6 +72,20 @@ const FEED_DATA = {
       "link": "https://the-decoder.com/always-on-and-self-starting-ai-agents-might-be-openais-next-big-play/"
     },
     {
+      "title": "Luanti removed from Google Play due to baseless AI copyright notice",
+      "summary": "Article URL: https://blog.luanti.org/2026/08/27/luanti-dmca-tracer-ai/ Comments URL: https://news.ycombinator.com/item?id=49475079 Points: 261 # Comments: 77",
+      "source": "Hacker News",
+      "published": "2026-08-28T06:33:57+00:00",
+      "link": "https://blog.luanti.org/2026/08/27/luanti-dmca-tracer-ai/"
+    },
+    {
+      "title": "Please stop flooding our projects with AI slop to furnish your CV",
+      "summary": "Article URL: https://neilalexander.dev/2026/06/30/flooding-contributions Comments URL: https://news.ycombinator.com/item?id=49474143 Points: 201 # Comments: 134",
+      "source": "Hacker News",
+      "published": "2026-08-28T03:49:33+00:00",
+      "link": "https://neilalexander.dev/2026/06/30/flooding-contributions"
+    },
+    {
       "title": "Anthropic was illegally blacklisted by the Trump administration, court rules",
       "summary": "On Thursday, a judge ruled that the Pentagon's blacklisting of Anthropic earlier this year was unconstitutional, delivering the AI lab a win in a monthslong rollercoaster of a battle with the Trump administration.",
       "source": "The Verge",
@@ -59,7 +101,7 @@ const FEED_DATA = {
     },
     {
       "title": "Terminal-Bench-Science: Evaluating AI agents on scientific research workflows",
-      "summary": "Article URL: https://www.terminal-bench-science.ai/announcement Comments URL: https://news.ycombinator.com/item?id=49472820 Points: 58 # Comments: 13",
+      "summary": "Article URL: https://www.terminal-bench-science.ai/announcement Comments URL: https://news.ycombinator.com/item?id=49472820 Points: 106 # Comments: 34",
       "source": "Hacker News",
       "published": "2026-08-28T00:06:51+00:00",
       "link": "https://www.terminal-bench-science.ai/announcement"
@@ -73,7 +115,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI Engineer Notebooks – free, framework-free RAG/agents/evals on Colab",
-      "summary": "Article URL: https://github.com/calmrocks/ai-engineer-notebooks Comments URL: https://news.ycombinator.com/item?id=49471714 Points: 73 # Comments: 8",
+      "summary": "Article URL: https://github.com/calmrocks/ai-engineer-notebooks Comments URL: https://news.ycombinator.com/item?id=49471714 Points: 111 # Comments: 14",
       "source": "Hacker News",
       "published": "2026-08-27T21:46:39+00:00",
       "link": "https://github.com/calmrocks/ai-engineer-notebooks"
@@ -108,7 +150,7 @@ const FEED_DATA = {
     },
     {
       "title": "Nvidia Starts Pac as AI Chip Maker Builds DC Influence Force",
-      "summary": "Article URL: https://news.bgov.com/bloomberg-government-news/nvidia-starts-a-pac-as-ai-chip-maker-buids-influence-force-in-dc Comments URL: https://news.ycombinator.com/item?id=49469249 Points: 90 # Comments: 40",
+      "summary": "Article URL: https://news.bgov.com/bloomberg-government-news/nvidia-starts-a-pac-as-ai-chip-maker-buids-influence-force-in-dc Comments URL: https://news.ycombinator.com/item?id=49469249 Points: 91 # Comments: 40",
       "source": "Hacker News",
       "published": "2026-08-27T18:34:40+00:00",
       "link": "https://news.bgov.com/bloomberg-government-news/nvidia-starts-a-pac-as-ai-chip-maker-buids-influence-force-in-dc"
@@ -147,6 +189,13 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-08-27T17:43:24+00:00",
       "link": "https://techcrunch.com/2026/08/27/openai-anthropic-google-and-100-other-companies-call-for-action-to-defend-against-rogue-ai/"
+    },
+    {
+      "title": "Tell HN: Man, AI is killing my brain",
+      "summary": "I was among the last to resist, but then I was given a subtle hint that if I won't \"improve my productivity and be on par with my colleagues\" my work will be at risk. So I started to use Claude Code about a year ago.",
+      "source": "Hacker News",
+      "published": "2026-08-27T17:28:27+00:00",
+      "link": "https://news.ycombinator.com/item?id=49468252"
     },
     {
       "title": "Google's Gemini Omni 1.1 Flash makes AI video generation cheaper and more flexible",
@@ -192,7 +241,7 @@ const FEED_DATA = {
     },
     {
       "title": "Nvidia projects $673B in sales as AI demand widens",
-      "summary": "Article URL: https://forgeeks.net/nvidia-673-billion-ai-growth-forecast/ Comments URL: https://news.ycombinator.com/item?id=49466052 Points: 104 # Comments: 99",
+      "summary": "Article URL: https://forgeeks.net/nvidia-673-billion-ai-growth-forecast/ Comments URL: https://news.ycombinator.com/item?id=49466052 Points: 111 # Comments: 105",
       "source": "Hacker News",
       "published": "2026-08-27T15:04:16+00:00",
       "link": "https://forgeeks.net/nvidia-673-billion-ai-growth-forecast/"
@@ -213,7 +262,7 @@ const FEED_DATA = {
     },
     {
       "title": "The Teaser Period: Why the AI Boom Is Hitting a Reset Wall",
-      "summary": "Article URL: https://www.groundbrkr.com/p/the-teaser-period-why-the-ai-boom Comments URL: https://news.ycombinator.com/item?id=49465461 Points: 88 # Comments: 79",
+      "summary": "Article URL: https://www.groundbrkr.com/p/the-teaser-period-why-the-ai-boom Comments URL: https://news.ycombinator.com/item?id=49465461 Points: 90 # Comments: 80",
       "source": "Hacker News",
       "published": "2026-08-27T14:27:39+00:00",
       "link": "https://www.groundbrkr.com/p/the-teaser-period-why-the-ai-boom"
@@ -269,7 +318,7 @@ const FEED_DATA = {
     },
     {
       "title": "MIT's Ad Hoc Committee on AI Use in Teaching, Learning, and Research Training",
-      "summary": "Article URL: https://aiandeducation.mit.edu/report/ Comments URL: https://news.ycombinator.com/item?id=49464314 Points: 124 # Comments: 72",
+      "summary": "Article URL: https://aiandeducation.mit.edu/report/ Comments URL: https://news.ycombinator.com/item?id=49464314 Points: 138 # Comments: 81",
       "source": "Hacker News",
       "published": "2026-08-27T13:07:45+00:00",
       "link": "https://aiandeducation.mit.edu/report/"
@@ -381,14 +430,14 @@ const FEED_DATA = {
     },
     {
       "title": "Humanity has the debate about AI consciousness backwards",
-      "summary": "https://archive.ph/uLYYURelated: Don’t mistake chatbot intelligence for consciousness - https://www.economist.com/by-invitation/2026/08/20/dont-mist..., https://archive.ph/IeSZg Comments URL: https://news.ycombinator.com/item?id=49458875 Points: 94 # Comments: 302",
+      "summary": "https://archive.ph/uLYYURelated: Don’t mistake chatbot intelligence for consciousness - https://www.economist.com/by-invitation/2026/08/20/dont-mist..., https://archive.ph/IeSZg Comments URL: https://news.ycombinator.com/item?id=49458875 Points: 109 # Comments: 345",
       "source": "Hacker News",
       "published": "2026-08-27T02:37:07+00:00",
       "link": "https://economist.com/by-invitation/2026/08/20/humanity-has-the-debate-about-ai-consciousness-backwards"
     },
     {
       "title": "CEO fired developers to make room for AI. Developers create open source AI CEO",
-      "summary": "Article URL: https://github.com/SenteLabsAI/OpenExecutive Comments URL: https://news.ycombinator.com/item?id=49458418 Points: 956 # Comments: 652",
+      "summary": "Article URL: https://github.com/SenteLabsAI/OpenExecutive Comments URL: https://news.ycombinator.com/item?id=49458418 Points: 996 # Comments: 687",
       "source": "Hacker News",
       "published": "2026-08-27T01:46:22+00:00",
       "link": "https://github.com/SenteLabsAI/OpenExecutive"
@@ -437,7 +486,7 @@ const FEED_DATA = {
     },
     {
       "title": "Serve Markdown to AI Agents with Accept Headers",
-      "summary": "Article URL: https://acceptmarkdown.com/ Comments URL: https://news.ycombinator.com/item?id=49454764 Points: 174 # Comments: 106",
+      "summary": "Article URL: https://acceptmarkdown.com/ Comments URL: https://news.ycombinator.com/item?id=49454764 Points: 175 # Comments: 108",
       "source": "Hacker News",
       "published": "2026-08-26T19:45:59+00:00",
       "link": "https://acceptmarkdown.com/"
@@ -507,7 +556,7 @@ const FEED_DATA = {
     },
     {
       "title": "The turbulent AI era is here",
-      "summary": "Article URL: https://www.gatesnotes.com/a-turbulent-ai-era-and-critical-choices-to-make Comments URL: https://news.ycombinator.com/item?id=49451313 Points: 353 # Comments: 361",
+      "summary": "Article URL: https://www.gatesnotes.com/a-turbulent-ai-era-and-critical-choices-to-make Comments URL: https://news.ycombinator.com/item?id=49451313 Points: 360 # Comments: 6",
       "source": "Hacker News",
       "published": "2026-08-26T15:55:15+00:00",
       "link": "https://www.gatesnotes.com/a-turbulent-ai-era-and-critical-choices-to-make"
@@ -521,14 +570,14 @@ const FEED_DATA = {
     },
     {
       "title": "It’s so hard to finish an idea that is not yours and is just suggested by AI",
-      "summary": "Article URL: https://www.ssp.sh/brain/using-obsidian-with-ai/ Comments URL: https://news.ycombinator.com/item?id=49450898 Points: 250 # Comments: 169",
+      "summary": "Article URL: https://www.ssp.sh/brain/using-obsidian-with-ai/ Comments URL: https://news.ycombinator.com/item?id=49450898 Points: 255 # Comments: 181",
       "source": "Hacker News",
       "published": "2026-08-26T15:30:05+00:00",
       "link": "https://www.ssp.sh/brain/using-obsidian-with-ai/"
     },
     {
       "title": "WebMCP: Teaching Your Website to Talk to AI Agents",
-      "summary": "Article URL: https://sreenathmenon.com/blog/2026-08-04-webmcp-teaching-websites-to-talk-to-ai-agents/ Comments URL: https://news.ycombinator.com/item?id=49450417 Points: 56 # Comments: 58",
+      "summary": "Article URL: https://sreenathmenon.com/blog/2026-08-04-webmcp-teaching-websites-to-talk-to-ai-agents/ Comments URL: https://news.ycombinator.com/item?id=49450417 Points: 56 # Comments: 59",
       "source": "Hacker News",
       "published": "2026-08-26T15:02:15+00:00",
       "link": "https://sreenathmenon.com/blog/2026-08-04-webmcp-teaching-websites-to-talk-to-ai-agents/"
@@ -542,7 +591,7 @@ const FEED_DATA = {
     },
     {
       "title": "GLM-5.3-Flash Intelligence, Performance and Price Analysis",
-      "summary": "Article URL: https://artificialanalysis.ai/models/glm-5-3-flash Comments URL: https://news.ycombinator.com/item?id=49450353 Points: 137 # Comments: 59",
+      "summary": "Article URL: https://artificialanalysis.ai/models/glm-5-3-flash Comments URL: https://news.ycombinator.com/item?id=49450353 Points: 138 # Comments: 59",
       "source": "Hacker News",
       "published": "2026-08-26T14:58:54+00:00",
       "link": "https://artificialanalysis.ai/models/glm-5-3-flash"
@@ -633,7 +682,7 @@ const FEED_DATA = {
     },
     {
       "title": "Fake US thinktank set up and funded by Israel sought to game AI for propaganda",
-      "summary": "Article URL: https://www.theguardian.com/world/2026/aug/26/fake-thinktank-israel-ai-propaganda Comments URL: https://news.ycombinator.com/item?id=49447600 Points: 243 # Comments: 49",
+      "summary": "Article URL: https://www.theguardian.com/world/2026/aug/26/fake-thinktank-israel-ai-propaganda Comments URL: https://news.ycombinator.com/item?id=49447600 Points: 244 # Comments: 49",
       "source": "Hacker News",
       "published": "2026-08-26T12:11:19+00:00",
       "link": "https://www.theguardian.com/world/2026/aug/26/fake-thinktank-israel-ai-propaganda"
@@ -1351,55 +1400,6 @@ const FEED_DATA = {
       "source": "Hacker News",
       "published": "2026-08-22T04:33:06+00:00",
       "link": "https://developers.openai.com/api/docs/models/gpt-5.6-sol"
-    },
-    {
-      "title": "Michael Polansky is training an AI model on skin that’s still alive",
-      "summary": "Michael Polansky — better known publicly as Lady Gaga's partner and a former top deputy to Sean Parker — has quietly spent years building an AI-driven startup that keeps living human skin tissue alive for weeks outside the body to discover new skincare compounds, and is only now...",
-      "source": "TechCrunch",
-      "published": "2026-08-22T01:31:04+00:00",
-      "link": "https://techcrunch.com/2026/08/21/michael-polansky-is-training-an-ai-model-on-skin-thats-still-alive/"
-    },
-    {
-      "title": "The Unlikely Place at the Center of China’s AI Boom",
-      "summary": "Cheap energy, abundant land, and proximity to Beijing have turned a city in Inner Mongolia into a crucial hub for data centers.",
-      "source": "Wired",
-      "published": "2026-08-21T23:25:32+00:00",
-      "link": "https://www.wired.com/story/the-unlikely-place-at-the-center-of-chinas-ai-boom/"
-    },
-    {
-      "title": "Anthropic’s Opus 4.6 is a smut-machine",
-      "summary": "Anthropic forbids its Claude models from generating sexually explicit content. But a series of tests conducted by TechCrunch found that it didn't take much to get past the restriction.",
-      "source": "TechCrunch",
-      "published": "2026-08-21T23:07:25+00:00",
-      "link": "https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/"
-    },
-    {
-      "title": "Nvidia partners with data center developer Cloverleaf",
-      "summary": "Nvidia continues to pour money into data center development — just as AI data centers bring lots of money into Nvidia.",
-      "source": "TechCrunch",
-      "published": "2026-08-21T22:37:38+00:00",
-      "link": "https://techcrunch.com/2026/08/21/nvidia-partners-with-data-center-developer-cloverleaf/"
-    },
-    {
-      "title": "Over 1 million people have clicked LinkedIn’s AI slop button",
-      "summary": "LinkedIn actually announced a \"Seems like AI slop\" button on July 30th, and the company says that a lot of people have already used it.",
-      "source": "The Verge",
-      "published": "2026-08-21T21:25:50+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/983502/linkedin-ai-slop-button-one-million-people-message"
-    },
-    {
-      "title": "Nvidia just showed that the harness, not the AI model, is now the real hero",
-      "summary": "Nvidia research shows that AI agents can perform well, and not go off the deep end, through fine-tuning, even if the AI model isn't that great at the task.",
-      "source": "TechCrunch",
-      "published": "2026-08-21T19:43:39+00:00",
-      "link": "https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero/"
-    },
-    {
-      "title": "Anthropic puts its most powerful model Claude Mythos 5 to work for cyber defense",
-      "summary": "Anthropic is now running its security scanner Claude Security on Claude Mythos 5. The tool scans codebases for vulnerabilities, provides severity ratings with CWE classifications, and suggests patches.",
-      "source": "The Decoder",
-      "published": "2026-08-21T19:35:37+00:00",
-      "link": "https://the-decoder.com/anthropic-puts-its-most-powerful-model-claude-mythos-5-to-work-for-cyber-defense/"
     }
   ]
 };
