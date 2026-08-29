@@ -1,23 +1,58 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-08-29T07:39:39.568660+00:00",
+  "lastUpdated": "2026-08-29T11:30:25.516220+00:00",
   "items": [
     {
+      "title": "The Cybersecurity Apocalypse Is Coming in ‘Months,’ AI Giants Warn",
+      "summary": "Plus: Hackers target over 100 US water systems, ICE puts in an order for robot dogs, and you’ll never guess what “MrChildPorn” was arrested for.",
+      "source": "Wired",
+      "published": "2026-08-29T10:30:00+00:00",
+      "link": "https://www.wired.com/story/security-news-this-week-the-cybersecurity-apocalypse-is-coming-in-months-ai-giants-warn/"
+    },
+    {
+      "title": "How to Run a Chatbot on Your Own Computer",
+      "summary": "Installing a large language model on your personal computer gives you a handy digital assistant that won’t compromise your data privacy.",
+      "source": "Wired",
+      "published": "2026-08-29T10:00:00+00:00",
+      "link": "https://www.wired.com/story/how-to-run-your-own-local-llm/"
+    },
+    {
+      "title": "LAION drops massive open video dataset with 10 million hours of footage for AI research",
+      "summary": "LAION's Big Video Dataset (BVD) is one of the largest open video datasets for AI research, with 80 million videos, 10 million hours of runtime, and 55 million auto-described clips. Models trained on BVD beat the previous benchmark, InternVid, by up to 2.1 percentage points.",
+      "source": "The Decoder",
+      "published": "2026-08-29T09:36:48+00:00",
+      "link": "https://the-decoder.com/laion-drops-massive-open-video-dataset-with-10-million-hours-of-footage-for-ai-research/"
+    },
+    {
+      "title": "Anthropic wants to do for physical hardware what its Model Context Protocol did for software",
+      "summary": "Anthropic's Model Hardware Standard (MHS) gives AI agents a unified interface to physical devices like robotic arms and lab instruments. In early tests, integration time dropped from weeks to hours.",
+      "source": "The Decoder",
+      "published": "2026-08-29T09:14:30+00:00",
+      "link": "https://the-decoder.com/anthropic-wants-to-do-for-physical-hardware-what-its-model-context-protocol-did-for-software/"
+    },
+    {
+      "title": "OpenAI cuts off Cursor after SpaceX acquisition, citing Musk's history of breaking contracts",
+      "summary": "OpenAI is cutting off the AI coding tool Cursor after SpaceX acquired the company, citing Elon Musk's track record of breaking contracts. Cursor co-founder Michael Truell downplays the move, saying OpenAI models account for just five percent of the tool's AI traffic.",
+      "source": "The Decoder",
+      "published": "2026-08-29T08:15:35+00:00",
+      "link": "https://the-decoder.com/openai-cuts-off-cursor-after-spacex-acquisition-citing-musks-history-of-breaking-contracts/"
+    },
+    {
       "title": "StemDeck, a free, open-source and local AI stem separator",
-      "summary": "Article URL: https://github.com/stemdeckapp/stemdeck Comments URL: https://news.ycombinator.com/item?id=49486081 Points: 76 # Comments: 14",
+      "summary": "Article URL: https://github.com/stemdeckapp/stemdeck Comments URL: https://news.ycombinator.com/item?id=49486081 Points: 111 # Comments: 24",
       "source": "Hacker News",
       "published": "2026-08-29T01:24:13+00:00",
       "link": "https://github.com/stemdeckapp/stemdeck"
     },
     {
       "title": "I accidentally turned LLM memory into program analysis",
-      "summary": "Article URL: https://pwning.systems/posts/llm-memory-program-analysis/ Comments URL: https://news.ycombinator.com/item?id=49485416 Points: 111 # Comments: 21",
+      "summary": "Article URL: https://pwning.systems/posts/llm-memory-program-analysis/ Comments URL: https://news.ycombinator.com/item?id=49485416 Points: 167 # Comments: 37",
       "source": "Hacker News",
       "published": "2026-08-28T23:27:45+00:00",
       "link": "https://pwning.systems/posts/llm-memory-program-analysis/"
     },
     {
       "title": "Identifying fake cosmetics using AI",
-      "summary": "Article URL: https://groverlab.org/hnbfpr/2026-08-26-ai-counterfeit-cosmetics.html Comments URL: https://news.ycombinator.com/item?id=49484925 Points: 51 # Comments: 21",
+      "summary": "Article URL: https://groverlab.org/hnbfpr/2026-08-26-ai-counterfeit-cosmetics.html Comments URL: https://news.ycombinator.com/item?id=49484925 Points: 55 # Comments: 21",
       "source": "Hacker News",
       "published": "2026-08-28T22:18:27+00:00",
       "link": "https://groverlab.org/hnbfpr/2026-08-26-ai-counterfeit-cosmetics.html"
@@ -129,14 +164,14 @@ const FEED_DATA = {
     },
     {
       "title": "Luanti removed from Google Play due to baseless AI copyright notice",
-      "summary": "Article URL: https://blog.luanti.org/2026/08/27/luanti-dmca-tracer-ai/ Comments URL: https://news.ycombinator.com/item?id=49475079 Points: 481 # Comments: 145",
+      "summary": "Article URL: https://blog.luanti.org/2026/08/27/luanti-dmca-tracer-ai/ Comments URL: https://news.ycombinator.com/item?id=49475079 Points: 490 # Comments: 148",
       "source": "Hacker News",
       "published": "2026-08-28T06:33:57+00:00",
       "link": "https://blog.luanti.org/2026/08/27/luanti-dmca-tracer-ai/"
     },
     {
       "title": "Please stop flooding our projects with AI slop to furnish your CV",
-      "summary": "Article URL: https://neilalexander.dev/2026/06/30/flooding-contributions Comments URL: https://news.ycombinator.com/item?id=49474143 Points: 211 # Comments: 141",
+      "summary": "Article URL: https://neilalexander.dev/2026/06/30/flooding-contributions Comments URL: https://news.ycombinator.com/item?id=49474143 Points: 212 # Comments: 141",
       "source": "Hacker News",
       "published": "2026-08-28T03:49:33+00:00",
       "link": "https://neilalexander.dev/2026/06/30/flooding-contributions"
@@ -318,7 +353,7 @@ const FEED_DATA = {
     },
     {
       "title": "The Teaser Period: Why the AI Boom Is Hitting a Reset Wall",
-      "summary": "Article URL: https://www.groundbrkr.com/p/the-teaser-period-why-the-ai-boom Comments URL: https://news.ycombinator.com/item?id=49465461 Points: 91 # Comments: 80",
+      "summary": "Article URL: https://www.groundbrkr.com/p/the-teaser-period-why-the-ai-boom Comments URL: https://news.ycombinator.com/item?id=49465461 Points: 92 # Comments: 80",
       "source": "Hacker News",
       "published": "2026-08-27T14:27:39+00:00",
       "link": "https://www.groundbrkr.com/p/the-teaser-period-why-the-ai-boom"
@@ -486,14 +521,14 @@ const FEED_DATA = {
     },
     {
       "title": "Humanity has the debate about AI consciousness backwards",
-      "summary": "https://archive.ph/uLYYURelated: Don’t mistake chatbot intelligence for consciousness - https://www.economist.com/by-invitation/2026/08/20/dont-mist..., https://archive.ph/IeSZg Comments URL: https://news.ycombinator.com/item?id=49458875 Points: 115 # Comments: 359",
+      "summary": "https://archive.ph/uLYYURelated: Don’t mistake chatbot intelligence for consciousness - https://www.economist.com/by-invitation/2026/08/20/dont-mist..., https://archive.ph/IeSZg Comments URL: https://news.ycombinator.com/item?id=49458875 Points: 115 # Comments: 360",
       "source": "Hacker News",
       "published": "2026-08-27T02:37:07+00:00",
       "link": "https://economist.com/by-invitation/2026/08/20/humanity-has-the-debate-about-ai-consciousness-backwards"
     },
     {
       "title": "CEO fired developers to make room for AI. Developers create open source AI CEO",
-      "summary": "Article URL: https://github.com/SenteLabsAI/OpenExecutive Comments URL: https://news.ycombinator.com/item?id=49458418 Points: 1010 # Comments: 703",
+      "summary": "Article URL: https://github.com/SenteLabsAI/OpenExecutive Comments URL: https://news.ycombinator.com/item?id=49458418 Points: 1011 # Comments: 706",
       "source": "Hacker News",
       "published": "2026-08-27T01:46:22+00:00",
       "link": "https://github.com/SenteLabsAI/OpenExecutive"
@@ -612,7 +647,7 @@ const FEED_DATA = {
     },
     {
       "title": "The turbulent AI era is here",
-      "summary": "Article URL: https://www.gatesnotes.com/a-turbulent-ai-era-and-critical-choices-to-make Comments URL: https://news.ycombinator.com/item?id=49451313 Points: 360 # Comments: 6",
+      "summary": "Article URL: https://www.gatesnotes.com/a-turbulent-ai-era-and-critical-choices-to-make Comments URL: https://news.ycombinator.com/item?id=49451313 Points: 361 # Comments: 6",
       "source": "Hacker News",
       "published": "2026-08-26T15:55:15+00:00",
       "link": "https://www.gatesnotes.com/a-turbulent-ai-era-and-critical-choices-to-make"
@@ -1365,41 +1400,6 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-08-23T07:48:33+00:00",
       "link": "https://the-decoder.com/how-chinas-gray-market-sells-claude-tokens-at-a-fraction-of-the-price/"
-    },
-    {
-      "title": "AI Chip Architectures",
-      "summary": "Article URL: https://www.jepeake.com/ai-chip-architectures Comments URL: https://news.ycombinator.com/item?id=49405657 Points: 158 # Comments: 46",
-      "source": "Hacker News",
-      "published": "2026-08-23T02:25:10+00:00",
-      "link": "https://www.jepeake.com/ai-chip-architectures"
-    },
-    {
-      "title": "Harvard’s $699 startup bootcamp offers AI avatars of its instructors",
-      "summary": "In the HBS Foundry program, AI avatars provide feedback during practice pitches and board meetings.",
-      "source": "TechCrunch",
-      "published": "2026-08-22T21:46:56+00:00",
-      "link": "https://techcrunch.com/2026/08/22/harvards-699-startup-bootcamp-offers-ai-avatars-of-its-instructors/"
-    },
-    {
-      "title": "Inherent, founded by DeepMind alumni, says its AI ‘teammate’ just outperformed Anthropic and OpenAI at replicating research",
-      "summary": "Built by DeepMind alumni, British AI lab Inherent released Faraday, an AI agent whose ability to replicate scientific papers could be a stepping stone for innovation.",
-      "source": "TechCrunch",
-      "published": "2026-08-22T19:00:00+00:00",
-      "link": "https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/"
-    },
-    {
-      "title": "Why your local LLM feels dumber than it is",
-      "summary": "Article URL: https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917 Comments URL: https://news.ycombinator.com/item?id=49402232 Points: 506 # Comments: 206",
-      "source": "Hacker News",
-      "published": "2026-08-22T18:14:16+00:00",
-      "link": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917"
-    },
-    {
-      "title": "OpenAI says California should strengthen its AI safety bill",
-      "summary": "OpenAI's global affairs team post also referenced “recent incidents” that “underscore both the need for these protections and the importance of updating them” as new risks emerge.",
-      "source": "TechCrunch",
-      "published": "2026-08-22T16:30:34+00:00",
-      "link": "https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/"
     }
   ]
 };
