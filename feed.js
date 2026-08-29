@@ -1,6 +1,27 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-08-29T02:58:05.879863+00:00",
+  "lastUpdated": "2026-08-29T07:39:39.568660+00:00",
   "items": [
+    {
+      "title": "StemDeck, a free, open-source and local AI stem separator",
+      "summary": "Article URL: https://github.com/stemdeckapp/stemdeck Comments URL: https://news.ycombinator.com/item?id=49486081 Points: 76 # Comments: 14",
+      "source": "Hacker News",
+      "published": "2026-08-29T01:24:13+00:00",
+      "link": "https://github.com/stemdeckapp/stemdeck"
+    },
+    {
+      "title": "I accidentally turned LLM memory into program analysis",
+      "summary": "Article URL: https://pwning.systems/posts/llm-memory-program-analysis/ Comments URL: https://news.ycombinator.com/item?id=49485416 Points: 111 # Comments: 21",
+      "source": "Hacker News",
+      "published": "2026-08-28T23:27:45+00:00",
+      "link": "https://pwning.systems/posts/llm-memory-program-analysis/"
+    },
+    {
+      "title": "Identifying fake cosmetics using AI",
+      "summary": "Article URL: https://groverlab.org/hnbfpr/2026-08-26-ai-counterfeit-cosmetics.html Comments URL: https://news.ycombinator.com/item?id=49484925 Points: 51 # Comments: 21",
+      "source": "Hacker News",
+      "published": "2026-08-28T22:18:27+00:00",
+      "link": "https://groverlab.org/hnbfpr/2026-08-26-ai-counterfeit-cosmetics.html"
+    },
     {
       "title": "Neocloud Lambda secures $1B in debt to buy more chips",
       "summary": "Neocloud Lambda has raised $1B in private debt to buy Nvidia AI chips and lease them to Microsoft. It's the latest in a string of loans, underscoring the high cost of the AI boom.",
@@ -108,14 +129,14 @@ const FEED_DATA = {
     },
     {
       "title": "Luanti removed from Google Play due to baseless AI copyright notice",
-      "summary": "Article URL: https://blog.luanti.org/2026/08/27/luanti-dmca-tracer-ai/ Comments URL: https://news.ycombinator.com/item?id=49475079 Points: 464 # Comments: 141",
+      "summary": "Article URL: https://blog.luanti.org/2026/08/27/luanti-dmca-tracer-ai/ Comments URL: https://news.ycombinator.com/item?id=49475079 Points: 481 # Comments: 145",
       "source": "Hacker News",
       "published": "2026-08-28T06:33:57+00:00",
       "link": "https://blog.luanti.org/2026/08/27/luanti-dmca-tracer-ai/"
     },
     {
       "title": "Please stop flooding our projects with AI slop to furnish your CV",
-      "summary": "Article URL: https://neilalexander.dev/2026/06/30/flooding-contributions Comments URL: https://news.ycombinator.com/item?id=49474143 Points: 208 # Comments: 141",
+      "summary": "Article URL: https://neilalexander.dev/2026/06/30/flooding-contributions Comments URL: https://news.ycombinator.com/item?id=49474143 Points: 211 # Comments: 141",
       "source": "Hacker News",
       "published": "2026-08-28T03:49:33+00:00",
       "link": "https://neilalexander.dev/2026/06/30/flooding-contributions"
@@ -136,7 +157,7 @@ const FEED_DATA = {
     },
     {
       "title": "Terminal-Bench-Science: Evaluating AI agents on scientific research workflows",
-      "summary": "Article URL: https://www.terminal-bench-science.ai/announcement Comments URL: https://news.ycombinator.com/item?id=49472820 Points: 113 # Comments: 35",
+      "summary": "Article URL: https://www.terminal-bench-science.ai/announcement Comments URL: https://news.ycombinator.com/item?id=49472820 Points: 115 # Comments: 35",
       "source": "Hacker News",
       "published": "2026-08-28T00:06:51+00:00",
       "link": "https://www.terminal-bench-science.ai/announcement"
@@ -276,7 +297,7 @@ const FEED_DATA = {
     },
     {
       "title": "Nvidia projects $673B in sales as AI demand widens",
-      "summary": "Article URL: https://forgeeks.net/nvidia-673-billion-ai-growth-forecast/ Comments URL: https://news.ycombinator.com/item?id=49466052 Points: 111 # Comments: 107",
+      "summary": "Article URL: https://forgeeks.net/nvidia-673-billion-ai-growth-forecast/ Comments URL: https://news.ycombinator.com/item?id=49466052 Points: 111 # Comments: 108",
       "source": "Hacker News",
       "published": "2026-08-27T15:04:16+00:00",
       "link": "https://forgeeks.net/nvidia-673-billion-ai-growth-forecast/"
@@ -353,7 +374,7 @@ const FEED_DATA = {
     },
     {
       "title": "MIT's Ad Hoc Committee on AI Use in Teaching, Learning, and Research Training",
-      "summary": "Article URL: https://aiandeducation.mit.edu/report/ Comments URL: https://news.ycombinator.com/item?id=49464314 Points: 140 # Comments: 81",
+      "summary": "Article URL: https://aiandeducation.mit.edu/report/ Comments URL: https://news.ycombinator.com/item?id=49464314 Points: 140 # Comments: 82",
       "source": "Hacker News",
       "published": "2026-08-27T13:07:45+00:00",
       "link": "https://aiandeducation.mit.edu/report/"
@@ -465,14 +486,14 @@ const FEED_DATA = {
     },
     {
       "title": "Humanity has the debate about AI consciousness backwards",
-      "summary": "https://archive.ph/uLYYURelated: Don’t mistake chatbot intelligence for consciousness - https://www.economist.com/by-invitation/2026/08/20/dont-mist..., https://archive.ph/IeSZg Comments URL: https://news.ycombinator.com/item?id=49458875 Points: 114 # Comments: 359",
+      "summary": "https://archive.ph/uLYYURelated: Don’t mistake chatbot intelligence for consciousness - https://www.economist.com/by-invitation/2026/08/20/dont-mist..., https://archive.ph/IeSZg Comments URL: https://news.ycombinator.com/item?id=49458875 Points: 115 # Comments: 359",
       "source": "Hacker News",
       "published": "2026-08-27T02:37:07+00:00",
       "link": "https://economist.com/by-invitation/2026/08/20/humanity-has-the-debate-about-ai-consciousness-backwards"
     },
     {
       "title": "CEO fired developers to make room for AI. Developers create open source AI CEO",
-      "summary": "Article URL: https://github.com/SenteLabsAI/OpenExecutive Comments URL: https://news.ycombinator.com/item?id=49458418 Points: 1009 # Comments: 703",
+      "summary": "Article URL: https://github.com/SenteLabsAI/OpenExecutive Comments URL: https://news.ycombinator.com/item?id=49458418 Points: 1010 # Comments: 703",
       "source": "Hacker News",
       "published": "2026-08-27T01:46:22+00:00",
       "link": "https://github.com/SenteLabsAI/OpenExecutive"
@@ -1379,27 +1400,6 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-08-22T16:30:34+00:00",
       "link": "https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/"
-    },
-    {
-      "title": "Frontier AI labs still won’t say how they’d contain a rogue model",
-      "summary": "A new study finds leading AI labs have few publicly documented plans for containing rogue models, raising questions about preparedness as AI systems increasingly demonstrate unexpected and potentially dangerous behavior.",
-      "source": "TechCrunch",
-      "published": "2026-08-22T16:00:00+00:00",
-      "link": "https://techcrunch.com/2026/08/22/frontier-ai-labs-still-wont-say-how-theyd-contain-a-rogue-model/"
-    },
-    {
-      "title": "Digging the grave of my skills: Hollywood creatives training AI to do their jobs",
-      "summary": "Article URL: https://www.theguardian.com/technology/2026/aug/22/the-hollywood-creatives-training-ai-to-do-their-jobs Comments URL: https://news.ycombinator.com/item?id=49399941 Points: 57 # Comments: 70",
-      "source": "Hacker News",
-      "published": "2026-08-22T14:13:05+00:00",
-      "link": "https://www.theguardian.com/technology/2026/aug/22/the-hollywood-creatives-training-ai-to-do-their-jobs"
-    },
-    {
-      "title": "Study explains why AI agents benefit from \"skills\" and when they fail",
-      "summary": "A study from researchers at Princeton University and UC San Diego finds that so-called skills make AI agents better mainly through structured workflows, not through added knowledge.",
-      "source": "The Decoder",
-      "published": "2026-08-22T12:15:10+00:00",
-      "link": "https://the-decoder.com/study-explains-why-ai-agents-benefit-from-skills-and-when-they-fail/"
     }
   ]
 };
