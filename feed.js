@@ -1,5 +1,5 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-08-29T19:34:44.148234+00:00",
+  "lastUpdated": "2026-08-29T22:56:26.045479+00:00",
   "items": [
     {
       "title": "Sony Music, Warner sue Anthropic, alleging a “brazen campaign” of intellectual property theft",
@@ -24,14 +24,21 @@ const FEED_DATA = {
     },
     {
       "title": "Good Culture Is the Biggest Productivity Hack, Not AI",
-      "summary": "Article URL: https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity Comments URL: https://news.ycombinator.com/item?id=49491568 Points: 63 # Comments: 14",
+      "summary": "Article URL: https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity Comments URL: https://news.ycombinator.com/item?id=49491568 Points: 196 # Comments: 37",
       "source": "Hacker News",
       "published": "2026-08-29T17:19:47+00:00",
       "link": "https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity"
     },
     {
+      "title": "The growing divide between AI hype and software engineering reality",
+      "summary": "Article URL: https://optimizedbyotto.com/post/why-open-source-projects-ban-ai/ Comments URL: https://news.ycombinator.com/item?id=49491113 Points: 59 # Comments: 73",
+      "source": "Hacker News",
+      "published": "2026-08-29T16:16:32+00:00",
+      "link": "https://optimizedbyotto.com/post/why-open-source-projects-ban-ai/"
+    },
+    {
       "title": "Debian votes to allow \"responsible use of generative AI\"",
-      "summary": "Article URL: https://lwn.net/Articles/1091231/ Comments URL: https://news.ycombinator.com/item?id=49489982 Points: 444 # Comments: 375",
+      "summary": "Article URL: https://lwn.net/Articles/1091231/ Comments URL: https://news.ycombinator.com/item?id=49489982 Points: 465 # Comments: 419",
       "source": "Hacker News",
       "published": "2026-08-29T14:02:10+00:00",
       "link": "https://lwn.net/Articles/1091231/"
@@ -101,21 +108,21 @@ const FEED_DATA = {
     },
     {
       "title": "StemDeck, a free, open-source and local AI stem separator",
-      "summary": "Article URL: https://github.com/stemdeckapp/stemdeck Comments URL: https://news.ycombinator.com/item?id=49486081 Points: 183 # Comments: 53",
+      "summary": "Article URL: https://github.com/stemdeckapp/stemdeck Comments URL: https://news.ycombinator.com/item?id=49486081 Points: 192 # Comments: 57",
       "source": "Hacker News",
       "published": "2026-08-29T01:24:13+00:00",
       "link": "https://github.com/stemdeckapp/stemdeck"
     },
     {
       "title": "I accidentally turned LLM memory into program analysis",
-      "summary": "Article URL: https://pwning.systems/posts/llm-memory-program-analysis/ Comments URL: https://news.ycombinator.com/item?id=49485416 Points: 252 # Comments: 71",
+      "summary": "Article URL: https://pwning.systems/posts/llm-memory-program-analysis/ Comments URL: https://news.ycombinator.com/item?id=49485416 Points: 266 # Comments: 71",
       "source": "Hacker News",
       "published": "2026-08-28T23:27:45+00:00",
       "link": "https://pwning.systems/posts/llm-memory-program-analysis/"
     },
     {
       "title": "Identifying fake cosmetics using AI",
-      "summary": "Article URL: https://groverlab.org/hnbfpr/2026-08-26-ai-counterfeit-cosmetics.html Comments URL: https://news.ycombinator.com/item?id=49484925 Points: 58 # Comments: 25",
+      "summary": "Article URL: https://groverlab.org/hnbfpr/2026-08-26-ai-counterfeit-cosmetics.html Comments URL: https://news.ycombinator.com/item?id=49484925 Points: 59 # Comments: 25",
       "source": "Hacker News",
       "published": "2026-08-28T22:18:27+00:00",
       "link": "https://groverlab.org/hnbfpr/2026-08-26-ai-counterfeit-cosmetics.html"
@@ -227,7 +234,7 @@ const FEED_DATA = {
     },
     {
       "title": "Luanti removed from Google Play due to baseless AI copyright notice",
-      "summary": "Article URL: https://blog.luanti.org/2026/08/27/luanti-dmca-tracer-ai/ Comments URL: https://news.ycombinator.com/item?id=49475079 Points: 505 # Comments: 150",
+      "summary": "Article URL: https://blog.luanti.org/2026/08/27/luanti-dmca-tracer-ai/ Comments URL: https://news.ycombinator.com/item?id=49475079 Points: 509 # Comments: 151",
       "source": "Hacker News",
       "published": "2026-08-28T06:33:57+00:00",
       "link": "https://blog.luanti.org/2026/08/27/luanti-dmca-tracer-ai/"
@@ -472,7 +479,7 @@ const FEED_DATA = {
     },
     {
       "title": "MIT's Ad Hoc Committee on AI Use in Teaching, Learning, and Research Training",
-      "summary": "Article URL: https://aiandeducation.mit.edu/report/ Comments URL: https://news.ycombinator.com/item?id=49464314 Points: 141 # Comments: 83",
+      "summary": "Article URL: https://aiandeducation.mit.edu/report/ Comments URL: https://news.ycombinator.com/item?id=49464314 Points: 142 # Comments: 83",
       "source": "Hacker News",
       "published": "2026-08-27T13:07:45+00:00",
       "link": "https://aiandeducation.mit.edu/report/"
@@ -584,14 +591,14 @@ const FEED_DATA = {
     },
     {
       "title": "Humanity has the debate about AI consciousness backwards",
-      "summary": "https://archive.ph/uLYYURelated: Don’t mistake chatbot intelligence for consciousness - https://www.economist.com/by-invitation/2026/08/20/dont-mist..., https://archive.ph/IeSZg Comments URL: https://news.ycombinator.com/item?id=49458875 Points: 116 # Comments: 369",
+      "summary": "https://archive.ph/uLYYURelated: Don’t mistake chatbot intelligence for consciousness - https://www.economist.com/by-invitation/2026/08/20/dont-mist..., https://archive.ph/IeSZg Comments URL: https://news.ycombinator.com/item?id=49458875 Points: 116 # Comments: 372",
       "source": "Hacker News",
       "published": "2026-08-27T02:37:07+00:00",
       "link": "https://economist.com/by-invitation/2026/08/20/humanity-has-the-debate-about-ai-consciousness-backwards"
     },
     {
       "title": "CEO fired developers to make room for AI. Developers create open source AI CEO",
-      "summary": "Article URL: https://github.com/SenteLabsAI/OpenExecutive Comments URL: https://news.ycombinator.com/item?id=49458418 Points: 1018 # Comments: 708",
+      "summary": "Article URL: https://github.com/SenteLabsAI/OpenExecutive Comments URL: https://news.ycombinator.com/item?id=49458418 Points: 1020 # Comments: 710",
       "source": "Hacker News",
       "published": "2026-08-27T01:46:22+00:00",
       "link": "https://github.com/SenteLabsAI/OpenExecutive"
@@ -724,7 +731,7 @@ const FEED_DATA = {
     },
     {
       "title": "It’s so hard to finish an idea that is not yours and is just suggested by AI",
-      "summary": "Article URL: https://www.ssp.sh/brain/using-obsidian-with-ai/ Comments URL: https://news.ycombinator.com/item?id=49450898 Points: 259 # Comments: 188",
+      "summary": "Article URL: https://www.ssp.sh/brain/using-obsidian-with-ai/ Comments URL: https://news.ycombinator.com/item?id=49450898 Points: 260 # Comments: 188",
       "source": "Hacker News",
       "published": "2026-08-26T15:30:05+00:00",
       "link": "https://www.ssp.sh/brain/using-obsidian-with-ai/"
@@ -1393,13 +1400,6 @@ const FEED_DATA = {
       "source": "Hacker News",
       "published": "2026-08-23T18:09:01+00:00",
       "link": "https://omegion.dev/2026/08/ai-and-infrastructure-engineering/"
-    },
-    {
-      "title": "My agent.md to improve LLM-assisted code quality",
-      "summary": "Article URL: https://fabiensanglard.net/agent.md/index.html Comments URL: https://news.ycombinator.com/item?id=49410932 Points: 414 # Comments: 175",
-      "source": "Hacker News",
-      "published": "2026-08-23T17:59:52+00:00",
-      "link": "https://fabiensanglard.net/agent.md/index.html"
     }
   ]
 };
