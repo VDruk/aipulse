@@ -1,12 +1,26 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-08-30T14:01:41.728507+00:00",
+  "lastUpdated": "2026-08-30T17:14:26.879201+00:00",
   "items": [
+    {
+      "title": "Caterpillar is bringing to AI deployment what it learned from automating mining",
+      "summary": "Caterpillar has spent decades putting autonomous machines to work at remote mining sites. It's now bringing that experience to AI deployment.",
+      "source": "TechCrunch",
+      "published": "2026-08-30T15:00:00+00:00",
+      "link": "https://techcrunch.com/2026/08/30/caterpillar-is-bringing-to-ai-deployment-what-it-learned-from-automating-mining/"
+    },
     {
       "title": "AI sentiment is turning sour as employee reviews reveal growing frustration across the workforce",
       "summary": "An analysis of Glassdoor reviews shows that positive AI comments have dropped from 81 to 43 percent since 2019. Executives rate AI mostly positive, while insurance claims workers rate it almost entirely negative.",
       "source": "The Decoder",
       "published": "2026-08-30T13:12:19+00:00",
       "link": "https://the-decoder.com/ai-sentiment-is-turning-sour-as-employee-reviews-reveal-growing-frustration-across-the-workforce/"
+    },
+    {
+      "title": "No AI Fridays",
+      "summary": "Article URL: https://noaifridays.com/ Comments URL: https://news.ycombinator.com/item?id=49498095 Points: 235 # Comments: 146",
+      "source": "Hacker News",
+      "published": "2026-08-30T12:31:05+00:00",
+      "link": "https://noaifridays.com/"
     },
     {
       "title": "AI agents have no sense of time and are not aware of it",
@@ -21,6 +35,13 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-08-30T10:34:09+00:00",
       "link": "https://the-decoder.com/the-skills-that-earn-top-grades-are-the-ones-ai-can-fake-best/"
+    },
+    {
+      "title": "Fair Work Commission condemns 'plain wrong' AI legal advice",
+      "summary": "Article URL: https://www.abc.net.au/news/2026-08-29/fair-work-commission-condemns-ai-legal-advice/107089766 Comments URL: https://news.ycombinator.com/item?id=49497357 Points: 53 # Comments: 25",
+      "source": "Hacker News",
+      "published": "2026-08-30T10:20:11+00:00",
+      "link": "https://www.abc.net.au/news/2026-08-29/fair-work-commission-condemns-ai-legal-advice/107089766"
     },
     {
       "title": "Anthropic's Claude Code limit change is a raise on paper but a cut in practice",
@@ -44,15 +65,15 @@ const FEED_DATA = {
       "link": "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/"
     },
     {
-      "title": "Sony Music Publishing and Warner Chappell are suing Anthropic",
-      "summary": "Sony Music Publishing and Warner Chappell have filed suit against Anthropic in the US District Court for the Northern District of California seeking damages for \"tens of thousands\" copyrighted works.",
+      "title": "Sony Music and Warner Chappell are suing Anthropic",
+      "summary": "Sony Music and Warner Chappell have filed suit against Anthropic in the US District Court for the Northern District of California seeking damages for \"tens of thousands\" copyrighted works.",
       "source": "The Verge",
       "published": "2026-08-29T18:19:53+00:00",
       "link": "https://www.theverge.com/ai-artificial-intelligence/986438/sony-music-warner-chappell-anthropic-lawsuit-copyright"
     },
     {
-      "title": "Sony Music and Warner Chappell are suing Anthropic",
-      "summary": "Sony Music and Warner Chappell have filed suit against Anthropic in the US District Court for the Northern District of California seeking damages for \"tens of thousands\" copyrighted works.",
+      "title": "Sony Music Publishing and Warner Chappell are suing Anthropic",
+      "summary": "Sony Music Publishing and Warner Chappell have filed suit against Anthropic in the US District Court for the Northern District of California seeking damages for \"tens of thousands\" copyrighted works.",
       "source": "The Verge",
       "published": "2026-08-29T18:19:53+00:00",
       "link": "https://www.theverge.com/ai-artificial-intelligence/986438/sony-music-warner-chappell-anthropic-lawsuit-copyright"
@@ -66,21 +87,21 @@ const FEED_DATA = {
     },
     {
       "title": "Good Culture Is the Biggest Productivity Hack, Not AI",
-      "summary": "Article URL: https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity Comments URL: https://news.ycombinator.com/item?id=49491568 Points: 414 # Comments: 101",
+      "summary": "Article URL: https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity Comments URL: https://news.ycombinator.com/item?id=49491568 Points: 427 # Comments: 108",
       "source": "Hacker News",
       "published": "2026-08-29T17:19:47+00:00",
       "link": "https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity"
     },
     {
       "title": "The growing divide between AI hype and software engineering reality",
-      "summary": "Article URL: https://optimizedbyotto.com/post/why-open-source-projects-ban-ai/ Comments URL: https://news.ycombinator.com/item?id=49491113 Points: 63 # Comments: 82",
+      "summary": "Article URL: https://optimizedbyotto.com/post/why-open-source-projects-ban-ai/ Comments URL: https://news.ycombinator.com/item?id=49491113 Points: 64 # Comments: 85",
       "source": "Hacker News",
       "published": "2026-08-29T16:16:32+00:00",
       "link": "https://optimizedbyotto.com/post/why-open-source-projects-ban-ai/"
     },
     {
       "title": "Debian votes to allow \"responsible use of generative AI\"",
-      "summary": "Article URL: https://lwn.net/Articles/1091231/ Comments URL: https://news.ycombinator.com/item?id=49489982 Points: 490 # Comments: 459",
+      "summary": "Article URL: https://lwn.net/Articles/1091231/ Comments URL: https://news.ycombinator.com/item?id=49489982 Points: 492 # Comments: 460",
       "source": "Hacker News",
       "published": "2026-08-29T14:02:10+00:00",
       "link": "https://lwn.net/Articles/1091231/"
@@ -150,21 +171,21 @@ const FEED_DATA = {
     },
     {
       "title": "StemDeck, a free, open-source and local AI stem separator",
-      "summary": "Article URL: https://github.com/stemdeckapp/stemdeck Comments URL: https://news.ycombinator.com/item?id=49486081 Points: 230 # Comments: 61",
+      "summary": "Article URL: https://github.com/stemdeckapp/stemdeck Comments URL: https://news.ycombinator.com/item?id=49486081 Points: 235 # Comments: 61",
       "source": "Hacker News",
       "published": "2026-08-29T01:24:13+00:00",
       "link": "https://github.com/stemdeckapp/stemdeck"
     },
     {
       "title": "I accidentally turned LLM memory into program analysis",
-      "summary": "Article URL: https://pwning.systems/posts/llm-memory-program-analysis/ Comments URL: https://news.ycombinator.com/item?id=49485416 Points: 296 # Comments: 80",
+      "summary": "Article URL: https://pwning.systems/posts/llm-memory-program-analysis/ Comments URL: https://news.ycombinator.com/item?id=49485416 Points: 298 # Comments: 81",
       "source": "Hacker News",
       "published": "2026-08-28T23:27:45+00:00",
       "link": "https://pwning.systems/posts/llm-memory-program-analysis/"
     },
     {
       "title": "Identifying fake cosmetics using AI",
-      "summary": "Article URL: https://groverlab.org/hnbfpr/2026-08-26-ai-counterfeit-cosmetics.html Comments URL: https://news.ycombinator.com/item?id=49484925 Points: 60 # Comments: 25",
+      "summary": "Article URL: https://groverlab.org/hnbfpr/2026-08-26-ai-counterfeit-cosmetics.html Comments URL: https://news.ycombinator.com/item?id=49484925 Points: 60 # Comments: 26",
       "source": "Hacker News",
       "published": "2026-08-28T22:18:27+00:00",
       "link": "https://groverlab.org/hnbfpr/2026-08-26-ai-counterfeit-cosmetics.html"
@@ -276,7 +297,7 @@ const FEED_DATA = {
     },
     {
       "title": "Luanti removed from Google Play due to baseless AI copyright notice",
-      "summary": "Article URL: https://blog.luanti.org/2026/08/27/luanti-dmca-tracer-ai/ Comments URL: https://news.ycombinator.com/item?id=49475079 Points: 518 # Comments: 151",
+      "summary": "Article URL: https://blog.luanti.org/2026/08/27/luanti-dmca-tracer-ai/ Comments URL: https://news.ycombinator.com/item?id=49475079 Points: 519 # Comments: 151",
       "source": "Hacker News",
       "published": "2026-08-28T06:33:57+00:00",
       "link": "https://blog.luanti.org/2026/08/27/luanti-dmca-tracer-ai/"
@@ -633,14 +654,14 @@ const FEED_DATA = {
     },
     {
       "title": "Humanity has the debate about AI consciousness backwards",
-      "summary": "https://archive.ph/uLYYURelated: Don’t mistake chatbot intelligence for consciousness - https://www.economist.com/by-invitation/2026/08/20/dont-mist..., https://archive.ph/IeSZg Comments URL: https://news.ycombinator.com/item?id=49458875 Points: 117 # Comments: 376",
+      "summary": "https://archive.ph/uLYYURelated: Don’t mistake chatbot intelligence for consciousness - https://www.economist.com/by-invitation/2026/08/20/dont-mist..., https://archive.ph/IeSZg Comments URL: https://news.ycombinator.com/item?id=49458875 Points: 117 # Comments: 378",
       "source": "Hacker News",
       "published": "2026-08-27T02:37:07+00:00",
       "link": "https://economist.com/by-invitation/2026/08/20/humanity-has-the-debate-about-ai-consciousness-backwards"
     },
     {
       "title": "CEO fired developers to make room for AI. Developers create open source AI CEO",
-      "summary": "Article URL: https://github.com/SenteLabsAI/OpenExecutive Comments URL: https://news.ycombinator.com/item?id=49458418 Points: 1023 # Comments: 713",
+      "summary": "Article URL: https://github.com/SenteLabsAI/OpenExecutive Comments URL: https://news.ycombinator.com/item?id=49458418 Points: 1024 # Comments: 713",
       "source": "Hacker News",
       "published": "2026-08-27T01:46:22+00:00",
       "link": "https://github.com/SenteLabsAI/OpenExecutive"
@@ -1379,27 +1400,6 @@ const FEED_DATA = {
       "source": "MIT Tech Review",
       "published": "2026-08-24T09:00:00+00:00",
       "link": "https://www.technologyreview.com/2026/08/24/1141740/kids-machines-language-learning/"
-    },
-    {
-      "title": "Nvidia in talks to invest in Perplexity at $30 billion-plus valuation",
-      "summary": "Nvidia is negotiating an investment in Perplexity at a valuation above $30 billion, more than 50 percent higher than its last funding round, The Information reports. Perplexity's annualized revenue has tripled to over $750 million.",
-      "source": "The Decoder",
-      "published": "2026-08-24T08:44:48+00:00",
-      "link": "https://the-decoder.com/nvidia-in-talks-to-invest-in-perplexity-at-30-billion-plus-valuation/"
-    },
-    {
-      "title": "OCR It – pull text out of un-copyable documents for your LLM",
-      "summary": "Article URL: https://github.com/thiagotigaz/ocr-it Comments URL: https://news.ycombinator.com/item?id=49415852 Points: 139 # Comments: 35",
-      "source": "Hacker News",
-      "published": "2026-08-24T06:25:31+00:00",
-      "link": "https://github.com/thiagotigaz/ocr-it"
-    },
-    {
-      "title": "I built a low-latency AI companion that plays Skyrim with me",
-      "summary": "Article URL: https://pantel.is/projects/ai-gaming-companion/ Comments URL: https://news.ycombinator.com/item?id=49413561 Points: 394 # Comments: 76",
-      "source": "Hacker News",
-      "published": "2026-08-23T23:18:17+00:00",
-      "link": "https://pantel.is/projects/ai-gaming-companion/"
     }
   ]
 };
