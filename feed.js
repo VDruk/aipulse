@@ -1,6 +1,13 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-08-30T17:14:26.879201+00:00",
+  "lastUpdated": "2026-08-30T19:35:33.265848+00:00",
   "items": [
+    {
+      "title": "Texas Governor Abbott blocks funding for more Flock cameras",
+      "summary": "As backlash grows over Flock's AI surveillance cameras, Texas Governor Greg Abbott has frozen state spending on them. The move came just ahead of the publication of a Texas Tribune investigation that revealed the state spent over $30 million on Flock cameras.",
+      "source": "The Verge",
+      "published": "2026-08-30T15:35:10+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/986541/texas-governor-abbott-flock-cameras"
+    },
     {
       "title": "Caterpillar is bringing to AI deployment what it learned from automating mining",
       "summary": "Caterpillar has spent decades putting autonomous machines to work at remote mining sites. It's now bringing that experience to AI deployment.",
@@ -17,7 +24,7 @@ const FEED_DATA = {
     },
     {
       "title": "No AI Fridays",
-      "summary": "Article URL: https://noaifridays.com/ Comments URL: https://news.ycombinator.com/item?id=49498095 Points: 235 # Comments: 146",
+      "summary": "Article URL: https://noaifridays.com/ Comments URL: https://news.ycombinator.com/item?id=49498095 Points: 246 # Comments: 166",
       "source": "Hacker News",
       "published": "2026-08-30T12:31:05+00:00",
       "link": "https://noaifridays.com/"
@@ -38,7 +45,7 @@ const FEED_DATA = {
     },
     {
       "title": "Fair Work Commission condemns 'plain wrong' AI legal advice",
-      "summary": "Article URL: https://www.abc.net.au/news/2026-08-29/fair-work-commission-condemns-ai-legal-advice/107089766 Comments URL: https://news.ycombinator.com/item?id=49497357 Points: 53 # Comments: 25",
+      "summary": "Article URL: https://www.abc.net.au/news/2026-08-29/fair-work-commission-condemns-ai-legal-advice/107089766 Comments URL: https://news.ycombinator.com/item?id=49497357 Points: 54 # Comments: 28",
       "source": "Hacker News",
       "published": "2026-08-30T10:20:11+00:00",
       "link": "https://www.abc.net.au/news/2026-08-29/fair-work-commission-condemns-ai-legal-advice/107089766"
@@ -65,15 +72,15 @@ const FEED_DATA = {
       "link": "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/"
     },
     {
-      "title": "Sony Music and Warner Chappell are suing Anthropic",
-      "summary": "Sony Music and Warner Chappell have filed suit against Anthropic in the US District Court for the Northern District of California seeking damages for \"tens of thousands\" copyrighted works.",
+      "title": "Sony Music Publishing and Warner Chappell are suing Anthropic",
+      "summary": "Sony Music Publishing and Warner Chappell have filed suit against Anthropic in the US District Court for the Northern District of California seeking damages for \"tens of thousands\" copyrighted works.",
       "source": "The Verge",
       "published": "2026-08-29T18:19:53+00:00",
       "link": "https://www.theverge.com/ai-artificial-intelligence/986438/sony-music-warner-chappell-anthropic-lawsuit-copyright"
     },
     {
-      "title": "Sony Music Publishing and Warner Chappell are suing Anthropic",
-      "summary": "Sony Music Publishing and Warner Chappell have filed suit against Anthropic in the US District Court for the Northern District of California seeking damages for \"tens of thousands\" copyrighted works.",
+      "title": "Sony Music and Warner Chappell are suing Anthropic",
+      "summary": "Sony Music and Warner Chappell have filed suit against Anthropic in the US District Court for the Northern District of California seeking damages for \"tens of thousands\" copyrighted works.",
       "source": "The Verge",
       "published": "2026-08-29T18:19:53+00:00",
       "link": "https://www.theverge.com/ai-artificial-intelligence/986438/sony-music-warner-chappell-anthropic-lawsuit-copyright"
@@ -87,21 +94,21 @@ const FEED_DATA = {
     },
     {
       "title": "Good Culture Is the Biggest Productivity Hack, Not AI",
-      "summary": "Article URL: https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity Comments URL: https://news.ycombinator.com/item?id=49491568 Points: 427 # Comments: 108",
+      "summary": "Article URL: https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity Comments URL: https://news.ycombinator.com/item?id=49491568 Points: 436 # Comments: 110",
       "source": "Hacker News",
       "published": "2026-08-29T17:19:47+00:00",
       "link": "https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity"
     },
     {
       "title": "The growing divide between AI hype and software engineering reality",
-      "summary": "Article URL: https://optimizedbyotto.com/post/why-open-source-projects-ban-ai/ Comments URL: https://news.ycombinator.com/item?id=49491113 Points: 64 # Comments: 85",
+      "summary": "Article URL: https://optimizedbyotto.com/post/why-open-source-projects-ban-ai/ Comments URL: https://news.ycombinator.com/item?id=49491113 Points: 64 # Comments: 87",
       "source": "Hacker News",
       "published": "2026-08-29T16:16:32+00:00",
       "link": "https://optimizedbyotto.com/post/why-open-source-projects-ban-ai/"
     },
     {
       "title": "Debian votes to allow \"responsible use of generative AI\"",
-      "summary": "Article URL: https://lwn.net/Articles/1091231/ Comments URL: https://news.ycombinator.com/item?id=49489982 Points: 492 # Comments: 460",
+      "summary": "Article URL: https://lwn.net/Articles/1091231/ Comments URL: https://news.ycombinator.com/item?id=49489982 Points: 494 # Comments: 462",
       "source": "Hacker News",
       "published": "2026-08-29T14:02:10+00:00",
       "link": "https://lwn.net/Articles/1091231/"
@@ -171,21 +178,21 @@ const FEED_DATA = {
     },
     {
       "title": "StemDeck, a free, open-source and local AI stem separator",
-      "summary": "Article URL: https://github.com/stemdeckapp/stemdeck Comments URL: https://news.ycombinator.com/item?id=49486081 Points: 235 # Comments: 61",
+      "summary": "Article URL: https://github.com/stemdeckapp/stemdeck Comments URL: https://news.ycombinator.com/item?id=49486081 Points: 237 # Comments: 61",
       "source": "Hacker News",
       "published": "2026-08-29T01:24:13+00:00",
       "link": "https://github.com/stemdeckapp/stemdeck"
     },
     {
       "title": "I accidentally turned LLM memory into program analysis",
-      "summary": "Article URL: https://pwning.systems/posts/llm-memory-program-analysis/ Comments URL: https://news.ycombinator.com/item?id=49485416 Points: 298 # Comments: 81",
+      "summary": "Article URL: https://pwning.systems/posts/llm-memory-program-analysis/ Comments URL: https://news.ycombinator.com/item?id=49485416 Points: 298 # Comments: 82",
       "source": "Hacker News",
       "published": "2026-08-28T23:27:45+00:00",
       "link": "https://pwning.systems/posts/llm-memory-program-analysis/"
     },
     {
       "title": "Identifying fake cosmetics using AI",
-      "summary": "Article URL: https://groverlab.org/hnbfpr/2026-08-26-ai-counterfeit-cosmetics.html Comments URL: https://news.ycombinator.com/item?id=49484925 Points: 60 # Comments: 26",
+      "summary": "Article URL: https://groverlab.org/hnbfpr/2026-08-26-ai-counterfeit-cosmetics.html Comments URL: https://news.ycombinator.com/item?id=49484925 Points: 61 # Comments: 26",
       "source": "Hacker News",
       "published": "2026-08-28T22:18:27+00:00",
       "link": "https://groverlab.org/hnbfpr/2026-08-26-ai-counterfeit-cosmetics.html"
@@ -297,7 +304,7 @@ const FEED_DATA = {
     },
     {
       "title": "Luanti removed from Google Play due to baseless AI copyright notice",
-      "summary": "Article URL: https://blog.luanti.org/2026/08/27/luanti-dmca-tracer-ai/ Comments URL: https://news.ycombinator.com/item?id=49475079 Points: 519 # Comments: 151",
+      "summary": "Article URL: https://blog.luanti.org/2026/08/27/luanti-dmca-tracer-ai/ Comments URL: https://news.ycombinator.com/item?id=49475079 Points: 520 # Comments: 151",
       "source": "Hacker News",
       "published": "2026-08-28T06:33:57+00:00",
       "link": "https://blog.luanti.org/2026/08/27/luanti-dmca-tracer-ai/"
@@ -654,14 +661,14 @@ const FEED_DATA = {
     },
     {
       "title": "Humanity has the debate about AI consciousness backwards",
-      "summary": "https://archive.ph/uLYYURelated: Don’t mistake chatbot intelligence for consciousness - https://www.economist.com/by-invitation/2026/08/20/dont-mist..., https://archive.ph/IeSZg Comments URL: https://news.ycombinator.com/item?id=49458875 Points: 117 # Comments: 378",
+      "summary": "https://archive.ph/uLYYURelated: Don’t mistake chatbot intelligence for consciousness - https://www.economist.com/by-invitation/2026/08/20/dont-mist..., https://archive.ph/IeSZg Comments URL: https://news.ycombinator.com/item?id=49458875 Points: 117 # Comments: 379",
       "source": "Hacker News",
       "published": "2026-08-27T02:37:07+00:00",
       "link": "https://economist.com/by-invitation/2026/08/20/humanity-has-the-debate-about-ai-consciousness-backwards"
     },
     {
       "title": "CEO fired developers to make room for AI. Developers create open source AI CEO",
-      "summary": "Article URL: https://github.com/SenteLabsAI/OpenExecutive Comments URL: https://news.ycombinator.com/item?id=49458418 Points: 1024 # Comments: 713",
+      "summary": "Article URL: https://github.com/SenteLabsAI/OpenExecutive Comments URL: https://news.ycombinator.com/item?id=49458418 Points: 1025 # Comments: 713",
       "source": "Hacker News",
       "published": "2026-08-27T01:46:22+00:00",
       "link": "https://github.com/SenteLabsAI/OpenExecutive"
@@ -1393,13 +1400,6 @@ const FEED_DATA = {
       "source": "Wired",
       "published": "2026-08-24T09:30:00+00:00",
       "link": "https://www.wired.com/story/teachers-deepfake-ai-students-content/"
-    },
-    {
-      "title": "Kids outlearn AI—and we still don’t know why",
-      "summary": "People have been talking to each other for at least 100,000 years, as best we can tell. And in all that time, there has been only one thing in the world that could learn a human language to perfect fluency: a human child.",
-      "source": "MIT Tech Review",
-      "published": "2026-08-24T09:00:00+00:00",
-      "link": "https://www.technologyreview.com/2026/08/24/1141740/kids-machines-language-learning/"
     }
   ]
 };
