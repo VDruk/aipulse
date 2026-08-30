@@ -1,6 +1,27 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-08-30T10:22:31.925003+00:00",
+  "lastUpdated": "2026-08-30T14:01:41.728507+00:00",
   "items": [
+    {
+      "title": "AI sentiment is turning sour as employee reviews reveal growing frustration across the workforce",
+      "summary": "An analysis of Glassdoor reviews shows that positive AI comments have dropped from 81 to 43 percent since 2019. Executives rate AI mostly positive, while insurance claims workers rate it almost entirely negative.",
+      "source": "The Decoder",
+      "published": "2026-08-30T13:12:19+00:00",
+      "link": "https://the-decoder.com/ai-sentiment-is-turning-sour-as-employee-reviews-reveal-growing-frustration-across-the-workforce/"
+    },
+    {
+      "title": "AI agents have no sense of time and are not aware of it",
+      "summary": "AI coding assistants like Claude Code and Codex have no sense of time, according to a new study. Both systematically overestimate how long tasks will take.",
+      "source": "The Decoder",
+      "published": "2026-08-30T10:41:36+00:00",
+      "link": "https://the-decoder.com/ai-agents-have-no-sense-of-time-and-are-not-aware-of-it/"
+    },
+    {
+      "title": "The skills that earn top grades are the ones AI can fake best",
+      "summary": "GPT-4o boosted grades on a marketing assignment by nearly a full point on a five-point scale in an experiment with 1,053 Bocconi University students. Whether they actually learned anything wasn't tested.",
+      "source": "The Decoder",
+      "published": "2026-08-30T10:34:09+00:00",
+      "link": "https://the-decoder.com/the-skills-that-earn-top-grades-are-the-ones-ai-can-fake-best/"
+    },
     {
       "title": "Anthropic's Claude Code limit change is a raise on paper but a cut in practice",
       "summary": "Anthropic is effectively cutting Claude Code's weekly usage limits by 17 percent. A temporary 50 percent boost expires on September 14 and will be replaced by a permanent 25 percent increase.",
@@ -23,6 +44,13 @@ const FEED_DATA = {
       "link": "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/"
     },
     {
+      "title": "Sony Music Publishing and Warner Chappell are suing Anthropic",
+      "summary": "Sony Music Publishing and Warner Chappell have filed suit against Anthropic in the US District Court for the Northern District of California seeking damages for \"tens of thousands\" copyrighted works.",
+      "source": "The Verge",
+      "published": "2026-08-29T18:19:53+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/986438/sony-music-warner-chappell-anthropic-lawsuit-copyright"
+    },
+    {
       "title": "Sony Music and Warner Chappell are suing Anthropic",
       "summary": "Sony Music and Warner Chappell have filed suit against Anthropic in the US District Court for the Northern District of California seeking damages for \"tens of thousands\" copyrighted works.",
       "source": "The Verge",
@@ -38,21 +66,21 @@ const FEED_DATA = {
     },
     {
       "title": "Good Culture Is the Biggest Productivity Hack, Not AI",
-      "summary": "Article URL: https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity Comments URL: https://news.ycombinator.com/item?id=49491568 Points: 394 # Comments: 99",
+      "summary": "Article URL: https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity Comments URL: https://news.ycombinator.com/item?id=49491568 Points: 414 # Comments: 101",
       "source": "Hacker News",
       "published": "2026-08-29T17:19:47+00:00",
       "link": "https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity"
     },
     {
       "title": "The growing divide between AI hype and software engineering reality",
-      "summary": "Article URL: https://optimizedbyotto.com/post/why-open-source-projects-ban-ai/ Comments URL: https://news.ycombinator.com/item?id=49491113 Points: 62 # Comments: 81",
+      "summary": "Article URL: https://optimizedbyotto.com/post/why-open-source-projects-ban-ai/ Comments URL: https://news.ycombinator.com/item?id=49491113 Points: 63 # Comments: 82",
       "source": "Hacker News",
       "published": "2026-08-29T16:16:32+00:00",
       "link": "https://optimizedbyotto.com/post/why-open-source-projects-ban-ai/"
     },
     {
       "title": "Debian votes to allow \"responsible use of generative AI\"",
-      "summary": "Article URL: https://lwn.net/Articles/1091231/ Comments URL: https://news.ycombinator.com/item?id=49489982 Points: 488 # Comments: 451",
+      "summary": "Article URL: https://lwn.net/Articles/1091231/ Comments URL: https://news.ycombinator.com/item?id=49489982 Points: 490 # Comments: 459",
       "source": "Hacker News",
       "published": "2026-08-29T14:02:10+00:00",
       "link": "https://lwn.net/Articles/1091231/"
@@ -122,21 +150,21 @@ const FEED_DATA = {
     },
     {
       "title": "StemDeck, a free, open-source and local AI stem separator",
-      "summary": "Article URL: https://github.com/stemdeckapp/stemdeck Comments URL: https://news.ycombinator.com/item?id=49486081 Points: 226 # Comments: 61",
+      "summary": "Article URL: https://github.com/stemdeckapp/stemdeck Comments URL: https://news.ycombinator.com/item?id=49486081 Points: 230 # Comments: 61",
       "source": "Hacker News",
       "published": "2026-08-29T01:24:13+00:00",
       "link": "https://github.com/stemdeckapp/stemdeck"
     },
     {
       "title": "I accidentally turned LLM memory into program analysis",
-      "summary": "Article URL: https://pwning.systems/posts/llm-memory-program-analysis/ Comments URL: https://news.ycombinator.com/item?id=49485416 Points: 290 # Comments: 79",
+      "summary": "Article URL: https://pwning.systems/posts/llm-memory-program-analysis/ Comments URL: https://news.ycombinator.com/item?id=49485416 Points: 296 # Comments: 80",
       "source": "Hacker News",
       "published": "2026-08-28T23:27:45+00:00",
       "link": "https://pwning.systems/posts/llm-memory-program-analysis/"
     },
     {
       "title": "Identifying fake cosmetics using AI",
-      "summary": "Article URL: https://groverlab.org/hnbfpr/2026-08-26-ai-counterfeit-cosmetics.html Comments URL: https://news.ycombinator.com/item?id=49484925 Points: 59 # Comments: 25",
+      "summary": "Article URL: https://groverlab.org/hnbfpr/2026-08-26-ai-counterfeit-cosmetics.html Comments URL: https://news.ycombinator.com/item?id=49484925 Points: 60 # Comments: 25",
       "source": "Hacker News",
       "published": "2026-08-28T22:18:27+00:00",
       "link": "https://groverlab.org/hnbfpr/2026-08-26-ai-counterfeit-cosmetics.html"
@@ -248,7 +276,7 @@ const FEED_DATA = {
     },
     {
       "title": "Luanti removed from Google Play due to baseless AI copyright notice",
-      "summary": "Article URL: https://blog.luanti.org/2026/08/27/luanti-dmca-tracer-ai/ Comments URL: https://news.ycombinator.com/item?id=49475079 Points: 517 # Comments: 151",
+      "summary": "Article URL: https://blog.luanti.org/2026/08/27/luanti-dmca-tracer-ai/ Comments URL: https://news.ycombinator.com/item?id=49475079 Points: 518 # Comments: 151",
       "source": "Hacker News",
       "published": "2026-08-28T06:33:57+00:00",
       "link": "https://blog.luanti.org/2026/08/27/luanti-dmca-tracer-ai/"
@@ -437,7 +465,7 @@ const FEED_DATA = {
     },
     {
       "title": "The Teaser Period: Why the AI Boom Is Hitting a Reset Wall",
-      "summary": "Article URL: https://www.groundbrkr.com/p/the-teaser-period-why-the-ai-boom Comments URL: https://news.ycombinator.com/item?id=49465461 Points: 92 # Comments: 81",
+      "summary": "Article URL: https://www.groundbrkr.com/p/the-teaser-period-why-the-ai-boom Comments URL: https://news.ycombinator.com/item?id=49465461 Points: 93 # Comments: 81",
       "source": "Hacker News",
       "published": "2026-08-27T14:27:39+00:00",
       "link": "https://www.groundbrkr.com/p/the-teaser-period-why-the-ai-boom"
@@ -1372,34 +1400,6 @@ const FEED_DATA = {
       "source": "Hacker News",
       "published": "2026-08-23T23:18:17+00:00",
       "link": "https://pantel.is/projects/ai-gaming-companion/"
-    },
-    {
-      "title": "Implementation of GPT-2 in pure CMake",
-      "summary": "Article URL: https://github.com/AlpinDale/gpt2.cmake Comments URL: https://news.ycombinator.com/item?id=49412909 Points: 93 # Comments: 19",
-      "source": "Hacker News",
-      "published": "2026-08-23T21:41:17+00:00",
-      "link": "https://github.com/AlpinDale/gpt2.cmake"
-    },
-    {
-      "title": "Who’s behind the new ‘stealth model’ Ox Alpha?",
-      "summary": "A mysterious new AI model called Ox Alpha has driven certain corners of the internet into a frenzy of speculation.",
-      "source": "TechCrunch",
-      "published": "2026-08-23T20:01:36+00:00",
-      "link": "https://techcrunch.com/2026/08/23/whos-behind-the-new-stealth-model-ox-alpha/"
-    },
-    {
-      "title": "Training AI to Paint with Code",
-      "summary": "Article URL: https://surya.website/rling-qwen-to-paint-with-code Comments URL: https://news.ycombinator.com/item?id=49411800 Points: 199 # Comments: 22",
-      "source": "Hacker News",
-      "published": "2026-08-23T19:39:29+00:00",
-      "link": "https://surya.website/rling-qwen-to-paint-with-code"
-    },
-    {
-      "title": "Linkdaze’s smart calendar is built to run a household, not just track a schedule",
-      "summary": "Linkdaze's smart digital calendar stands out for not putting its features behind a paywall, including an AI meal planner tool.",
-      "source": "TechCrunch",
-      "published": "2026-08-23T19:14:08+00:00",
-      "link": "https://techcrunch.com/2026/08/23/linkdazes-smart-calendar-is-built-to-run-a-household-not-just-track-a-schedule/"
     }
   ]
 };
