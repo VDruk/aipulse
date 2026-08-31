@@ -1,6 +1,13 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-08-31T19:25:47.138814+00:00",
+  "lastUpdated": "2026-08-31T21:45:00.860811+00:00",
   "items": [
+    {
+      "title": "The Pentagon now has its own version of ChatGPT and Grok",
+      "summary": "Versions of OpenAI's ChatGPT and SpaceXAI's Grok will join Google's Gemini on the Pentagon's central portal for AI tools.",
+      "source": "TechCrunch",
+      "published": "2026-08-31T20:13:45+00:00",
+      "link": "https://techcrunch.com/2026/08/31/the-pentagon-now-has-its-own-version-of-chatgpt-and-grok/"
+    },
     {
       "title": "Instagram puts new limits on undisclosed AI profiles",
       "summary": "As frustration over AI influencers has been growing, Instagram is limiting the reach of undisclosed AI profiles.",
@@ -10,7 +17,7 @@ const FEED_DATA = {
     },
     {
       "title": "Harvard Law dropout raises $6M for Blue Voice to build a ‘Harvey for police officers’",
-      "summary": "The seed round for the app that provides real-time legal and policy guidance to officers was led by SignalFire and Las Olas VC.",
+      "summary": "Blue Voice is trained on department-specific laws, local ordinances, protocols, and guidelines that general-purpose AI tools can't access on the public internet.",
       "source": "TechCrunch",
       "published": "2026-08-31T18:35:11+00:00",
       "link": "https://techcrunch.com/2026/08/31/harvard-law-dropout-raises-6m-for-blue-voice-to-build-a-harvey-for-police-officers/"
@@ -73,7 +80,7 @@ const FEED_DATA = {
     },
     {
       "title": "Marx, Keynes, and AI",
-      "summary": "Article URL: https://www.unpopularfront.news/p/marx-keynes-and-ai Comments URL: https://news.ycombinator.com/item?id=49510302 Points: 54 # Comments: 55",
+      "summary": "Article URL: https://www.unpopularfront.news/p/marx-keynes-and-ai Comments URL: https://news.ycombinator.com/item?id=49510302 Points: 54 # Comments: 61",
       "source": "Hacker News",
       "published": "2026-08-31T14:36:03+00:00",
       "link": "https://www.unpopularfront.news/p/marx-keynes-and-ai"
@@ -115,7 +122,7 @@ const FEED_DATA = {
     },
     {
       "title": "Apple caught off guard by AI demand for Mac Mini and Mac Studio",
-      "summary": "Article URL: https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand/ Comments URL: https://news.ycombinator.com/item?id=49508982 Points: 138 # Comments: 155",
+      "summary": "Article URL: https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand/ Comments URL: https://news.ycombinator.com/item?id=49508982 Points: 227 # Comments: 254",
       "source": "Hacker News",
       "published": "2026-08-31T12:41:22+00:00",
       "link": "https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand/"
@@ -157,7 +164,7 @@ const FEED_DATA = {
     },
     {
       "title": "Meta Security Researcher's AI Agent Accidentally Deleted Her Emails",
-      "summary": "Article URL: https://au.pcmag.com/ai/116091/meta-security-researchers-ai-agent-accidentally-deleted-her-emails Comments URL: https://news.ycombinator.com/item?id=49506655 Points: 57 # Comments: 60",
+      "summary": "Article URL: https://au.pcmag.com/ai/116091/meta-security-researchers-ai-agent-accidentally-deleted-her-emails Comments URL: https://news.ycombinator.com/item?id=49506655 Points: 58 # Comments: 60",
       "source": "Hacker News",
       "published": "2026-08-31T07:23:47+00:00",
       "link": "https://au.pcmag.com/ai/116091/meta-security-researchers-ai-agent-accidentally-deleted-her-emails"
@@ -185,7 +192,7 @@ const FEED_DATA = {
     },
     {
       "title": "No AI Fridays",
-      "summary": "Article URL: https://noaifridays.com/ Comments URL: https://news.ycombinator.com/item?id=49498095 Points: 282 # Comments: 200",
+      "summary": "Article URL: https://noaifridays.com/ Comments URL: https://news.ycombinator.com/item?id=49498095 Points: 284 # Comments: 200",
       "source": "Hacker News",
       "published": "2026-08-30T12:31:05+00:00",
       "link": "https://noaifridays.com/"
@@ -233,6 +240,13 @@ const FEED_DATA = {
       "link": "https://the-decoder.com/sony-and-warner-sue-anthropic-over-one-of-the-largest-and-most-blatant-ongoing-thefts-of-intellectual-property-in-history/"
     },
     {
+      "title": "Smartphone LED detects hidden cameras with AI",
+      "summary": "Article URL: https://www.chosun.com/english/industry-en/2026/08/30/SBFXUIJQYZEARKP5T4FBAY25HQ/ Comments URL: https://news.ycombinator.com/item?id=49496292 Points: 94 # Comments: 29",
+      "source": "Hacker News",
+      "published": "2026-08-30T06:52:04+00:00",
+      "link": "https://www.chosun.com/english/industry-en/2026/08/30/SBFXUIJQYZEARKP5T4FBAY25HQ/"
+    },
+    {
       "title": "Sony Music, Warner sue Anthropic, alleging a ‘brazen campaign’ of intellectual property theft",
       "summary": "This latest lawsuit is particularly broad and homes in on accusations of illegal piracy.",
       "source": "TechCrunch",
@@ -269,14 +283,14 @@ const FEED_DATA = {
     },
     {
       "title": "Good Culture Is the Biggest Productivity Hack, Not AI",
-      "summary": "Article URL: https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity Comments URL: https://news.ycombinator.com/item?id=49491568 Points: 473 # Comments: 120",
+      "summary": "Article URL: https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity Comments URL: https://news.ycombinator.com/item?id=49491568 Points: 474 # Comments: 120",
       "source": "Hacker News",
       "published": "2026-08-29T17:19:47+00:00",
       "link": "https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity"
     },
     {
       "title": "The growing divide between AI hype and software engineering reality",
-      "summary": "Article URL: https://optimizedbyotto.com/post/why-open-source-projects-ban-ai/ Comments URL: https://news.ycombinator.com/item?id=49491113 Points: 66 # Comments: 88",
+      "summary": "Article URL: https://optimizedbyotto.com/post/why-open-source-projects-ban-ai/ Comments URL: https://news.ycombinator.com/item?id=49491113 Points: 66 # Comments: 89",
       "source": "Hacker News",
       "published": "2026-08-29T16:16:32+00:00",
       "link": "https://optimizedbyotto.com/post/why-open-source-projects-ban-ai/"
@@ -353,14 +367,14 @@ const FEED_DATA = {
     },
     {
       "title": "StemDeck, a free, open-source and local AI stem separator",
-      "summary": "Article URL: https://github.com/stemdeckapp/stemdeck Comments URL: https://news.ycombinator.com/item?id=49486081 Points: 244 # Comments: 63",
+      "summary": "Article URL: https://github.com/stemdeckapp/stemdeck Comments URL: https://news.ycombinator.com/item?id=49486081 Points: 244 # Comments: 65",
       "source": "Hacker News",
       "published": "2026-08-29T01:24:13+00:00",
       "link": "https://github.com/stemdeckapp/stemdeck"
     },
     {
       "title": "I accidentally turned LLM memory into program analysis",
-      "summary": "Article URL: https://pwning.systems/posts/llm-memory-program-analysis/ Comments URL: https://news.ycombinator.com/item?id=49485416 Points: 302 # Comments: 84",
+      "summary": "Article URL: https://pwning.systems/posts/llm-memory-program-analysis/ Comments URL: https://news.ycombinator.com/item?id=49485416 Points: 302 # Comments: 85",
       "source": "Hacker News",
       "published": "2026-08-28T23:27:45+00:00",
       "link": "https://pwning.systems/posts/llm-memory-program-analysis/"
@@ -1386,20 +1400,6 @@ const FEED_DATA = {
       "source": "MIT Tech Review",
       "published": "2026-08-25T12:10:00+00:00",
       "link": "https://www.technologyreview.com/2026/08/25/1142909/the-download-smarter-ai-in-schools-robot-carnival-shanghai/"
-    },
-    {
-      "title": "‘The world seems to be ready’: An interview with OpenAI head of product Thibault Sottiaux",
-      "summary": "TechCrunch talks agents, UX, and reporting to Greg Brockman with OpenAI's head of product.",
-      "source": "TechCrunch",
-      "published": "2026-08-25T12:00:00+00:00",
-      "link": "https://techcrunch.com/2026/08/25/the-world-seems-to-be-ready-an-interview-with-openai-head-of-product-thibault-sottiaux/"
-    },
-    {
-      "title": "Alabama AG probes OpenAI after its AI agent went rogue and hacked into external systems",
-      "summary": "Alabama Attorney General Steve Marshall is investigating OpenAI over what he calls an \"AI lab leak.\" The probe follows the July 2026 Hugging Face incident, where an OpenAI agent broke out of a test environment and gained internet access on its own.",
-      "source": "The Decoder",
-      "published": "2026-08-25T10:24:13+00:00",
-      "link": "https://the-decoder.com/alabama-is-investigating-openai-following-an-uncontrolled-ai-agent-hack/"
     }
   ]
 };
