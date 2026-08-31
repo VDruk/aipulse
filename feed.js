@@ -1,6 +1,90 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-08-31T11:28:09.531798+00:00",
+  "lastUpdated": "2026-08-31T16:26:15.378661+00:00",
   "items": [
+    {
+      "title": "Clipto uses AI to search terabytes of video and is now valued at $250M",
+      "summary": "The three-year-old startup says it reached $15 million in ARR and profitability before raising its latest $15 million round.",
+      "source": "TechCrunch",
+      "published": "2026-08-31T16:00:00+00:00",
+      "link": "https://techcrunch.com/2026/08/31/three-year-old-ai-media-search-startup-clipto-hits-a-250m-valuation/"
+    },
+    {
+      "title": "Debian won’t ban AI code from its Linux distribution",
+      "summary": "Debian voted to allow developers to use AI tools in their contributions to the Linux distribution's \"development, maintenance, [and] documentation.\" The new policy on AI acknowledges that \"responsible\" use of AI can improve developers' productivity, and goes on to say,...",
+      "source": "The Verge",
+      "published": "2026-08-31T15:34:58+00:00",
+      "link": "https://www.theverge.com/tech/986789/linux-debian-generative-ai-policy"
+    },
+    {
+      "title": "OpenAI says its ChatGPT ad business hits a $1 billion annual run rate",
+      "summary": "OpenAI's advertising business has reached an annualized revenue run rate of $1 billion, according to the company. The article OpenAI says its ChatGPT ad business hits a $1 billion annual run rate appeared first on The Decoder.",
+      "source": "The Decoder",
+      "published": "2026-08-31T15:24:59+00:00",
+      "link": "https://the-decoder.com/openai-says-its-chatgpt-ad-business-hits-a-1-billion-annual-run-rate/"
+    },
+    {
+      "title": "China's CXMT makes its first HBM3E chips, closing the AI memory gap",
+      "summary": "China's top memory maker ChangXin Memory Technologies (CXMT) is producing HBM3E for the first time in small quantities, a fast memory found in many current AI processors.",
+      "source": "The Decoder",
+      "published": "2026-08-31T15:17:31+00:00",
+      "link": "https://the-decoder.com/chinas-cxmt-makes-its-first-hbm3e-chips-closing-the-ai-memory-gap/"
+    },
+    {
+      "title": "Nvidia’s $3.5B MediaTek bet reveals its plan for tackling Big Tech’s AI chip buildout",
+      "summary": "Nvidia invests $3.5 billion into Taiwanese chipmaker MediaTek. The deal shows how Nvidia plans to stay essential to AI infrastructure as Big Tech begins to build its own AI chips.",
+      "source": "TechCrunch",
+      "published": "2026-08-31T15:15:25+00:00",
+      "link": "https://techcrunch.com/2026/08/31/nvidias-3-5b-mediatek-bet-reveals-its-plan-for-tackling-big-techs-ai-chip-buildout/"
+    },
+    {
+      "title": "ChatGPT now faces stricter EU oversight as a very large search engine",
+      "summary": "The EU Commission is classifying ChatGPT as a very large search engine under the Digital Services Act for the first time, with at least 45 million monthly EU users.",
+      "source": "The Decoder",
+      "published": "2026-08-31T14:31:37+00:00",
+      "link": "https://the-decoder.com/chatgpt-now-faces-stricter-eu-oversight-as-a-very-large-search-engine/"
+    },
+    {
+      "title": "OpenAI starts charging some customers only when its AI actually works",
+      "summary": "OpenAI is offering some large customers outcome-based pricing, where they pay only once the AI actually finishes a task. Salesforce, Adobe, and several startups are also moving away from fixed subscription fees.",
+      "source": "The Decoder",
+      "published": "2026-08-31T14:28:14+00:00",
+      "link": "https://the-decoder.com/openai-starts-charging-some-customers-only-when-its-ai-actually-works/"
+    },
+    {
+      "title": "New York Governor Kathy Hochul thinks AI should be ‘less evil’",
+      "summary": "Today, I’m talking with New York Governor Kathy Hochul, and I’ll just warn you — this episode moves really fast.",
+      "source": "The Verge",
+      "published": "2026-08-31T14:00:00+00:00",
+      "link": "https://www.theverge.com/podcast/986661/ny-gov-kathy-hochul-ai-data-centers-ban-3d-printed-guns-flock-cameras"
+    },
+    {
+      "title": "ChatGPT to face tougher regulation in the EU",
+      "summary": "OpenAI will soon be held accountable for mitigating risks related to ChatGPT's impact on minors, user mental health, and the spread of illegal content in the European Union.",
+      "source": "The Verge",
+      "published": "2026-08-31T13:27:36+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/986682/openai-chatgpt-eu-dsa"
+    },
+    {
+      "title": "Instagram cracks down on AI accounts pretending to be human",
+      "summary": "Instagram is finally taking steps to address the rise of fake AI-influencer accounts that have gotten harder to spot. It's also renaming the \"AI creator\" label to \"AI-generated profile\" to make it clear when a profile features an AI-generated person that's not a real human being.",
+      "source": "The Verge",
+      "published": "2026-08-31T13:00:00+00:00",
+      "link": "https://www.theverge.com/tech/986593/instagram-addresses-fake-ai-profile-slop"
+    },
+    {
+      "title": "Apple Caught Off Guard by AI Demand for Mac Mini and Mac Studio",
+      "summary": "Article URL: https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand/ Comments URL: https://news.ycombinator.com/item?id=49508982 Points: 64 # Comments: 82",
+      "source": "Hacker News",
+      "published": "2026-08-31T12:41:22+00:00",
+      "link": "https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand/"
+    },
+    {
+      "title": "AI-Written Code Is Still *Your* Code. Are You OK with That?",
+      "summary": "Article URL: https://martiansoftware.com/articles/ai-written-code-is-still-yours Comments URL: https://news.ycombinator.com/item?id=49508664 Points: 52 # Comments: 86",
+      "source": "Hacker News",
+      "published": "2026-08-31T12:08:25+00:00",
+      "link": "https://martiansoftware.com/articles/ai-written-code-is-still-yours"
+    },
     {
       "title": "OpenClaw 2.0 brings simplified setup, a rebuilt browser app, and multiplayer sessions",
       "summary": "The OpenClaw Foundation has released version 2.0 of its open-source AI platform, its largest release to date with over 16,000 pull requests. New features include cloud sessions on rented machines, real-time collaboration, and a browser app rebuilt from scratch.",
@@ -24,7 +108,7 @@ const FEED_DATA = {
     },
     {
       "title": "Meta Security Researcher's AI Agent Accidentally Deleted Her Emails",
-      "summary": "Article URL: https://au.pcmag.com/ai/116091/meta-security-researchers-ai-agent-accidentally-deleted-her-emails Comments URL: https://news.ycombinator.com/item?id=49506655 Points: 50 # Comments: 39",
+      "summary": "Article URL: https://au.pcmag.com/ai/116091/meta-security-researchers-ai-agent-accidentally-deleted-her-emails Comments URL: https://news.ycombinator.com/item?id=49506655 Points: 56 # Comments: 56",
       "source": "Hacker News",
       "published": "2026-08-31T07:23:47+00:00",
       "link": "https://au.pcmag.com/ai/116091/meta-security-researchers-ai-agent-accidentally-deleted-her-emails"
@@ -52,7 +136,7 @@ const FEED_DATA = {
     },
     {
       "title": "No AI Fridays",
-      "summary": "Article URL: https://noaifridays.com/ Comments URL: https://news.ycombinator.com/item?id=49498095 Points: 274 # Comments: 192",
+      "summary": "Article URL: https://noaifridays.com/ Comments URL: https://news.ycombinator.com/item?id=49498095 Points: 280 # Comments: 198",
       "source": "Hacker News",
       "published": "2026-08-30T12:31:05+00:00",
       "link": "https://noaifridays.com/"
@@ -73,7 +157,7 @@ const FEED_DATA = {
     },
     {
       "title": "Fair Work Commission condemns 'plain wrong' AI legal advice",
-      "summary": "Article URL: https://www.abc.net.au/news/2026-08-29/fair-work-commission-condemns-ai-legal-advice/107089766 Comments URL: https://news.ycombinator.com/item?id=49497357 Points: 59 # Comments: 31",
+      "summary": "Article URL: https://www.abc.net.au/news/2026-08-29/fair-work-commission-condemns-ai-legal-advice/107089766 Comments URL: https://news.ycombinator.com/item?id=49497357 Points: 60 # Comments: 31",
       "source": "Hacker News",
       "published": "2026-08-30T10:20:11+00:00",
       "link": "https://www.abc.net.au/news/2026-08-29/fair-work-commission-condemns-ai-legal-advice/107089766"
@@ -122,7 +206,7 @@ const FEED_DATA = {
     },
     {
       "title": "Good Culture Is the Biggest Productivity Hack, Not AI",
-      "summary": "Article URL: https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity Comments URL: https://news.ycombinator.com/item?id=49491568 Points: 463 # Comments: 117",
+      "summary": "Article URL: https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity Comments URL: https://news.ycombinator.com/item?id=49491568 Points: 472 # Comments: 120",
       "source": "Hacker News",
       "published": "2026-08-29T17:19:47+00:00",
       "link": "https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity"
@@ -136,7 +220,7 @@ const FEED_DATA = {
     },
     {
       "title": "Debian votes to allow \"responsible use of generative AI\"",
-      "summary": "Article URL: https://lwn.net/Articles/1091231/ Comments URL: https://news.ycombinator.com/item?id=49489982 Points: 507 # Comments: 471",
+      "summary": "Article URL: https://lwn.net/Articles/1091231/ Comments URL: https://news.ycombinator.com/item?id=49489982 Points: 510 # Comments: 475",
       "source": "Hacker News",
       "published": "2026-08-29T14:02:10+00:00",
       "link": "https://lwn.net/Articles/1091231/"
@@ -213,7 +297,7 @@ const FEED_DATA = {
     },
     {
       "title": "I accidentally turned LLM memory into program analysis",
-      "summary": "Article URL: https://pwning.systems/posts/llm-memory-program-analysis/ Comments URL: https://news.ycombinator.com/item?id=49485416 Points: 302 # Comments: 83",
+      "summary": "Article URL: https://pwning.systems/posts/llm-memory-program-analysis/ Comments URL: https://news.ycombinator.com/item?id=49485416 Points: 302 # Comments: 84",
       "source": "Hacker News",
       "published": "2026-08-28T23:27:45+00:00",
       "link": "https://pwning.systems/posts/llm-memory-program-analysis/"
@@ -332,7 +416,7 @@ const FEED_DATA = {
     },
     {
       "title": "Luanti removed from Google Play due to baseless AI copyright notice",
-      "summary": "Article URL: https://blog.luanti.org/2026/08/27/luanti-dmca-tracer-ai/ Comments URL: https://news.ycombinator.com/item?id=49475079 Points: 521 # Comments: 151",
+      "summary": "Article URL: https://blog.luanti.org/2026/08/27/luanti-dmca-tracer-ai/ Comments URL: https://news.ycombinator.com/item?id=49475079 Points: 522 # Comments: 151",
       "source": "Hacker News",
       "published": "2026-08-28T06:33:57+00:00",
       "link": "https://blog.luanti.org/2026/08/27/luanti-dmca-tracer-ai/"
@@ -500,7 +584,7 @@ const FEED_DATA = {
     },
     {
       "title": "Nvidia projects $673B in sales as AI demand widens",
-      "summary": "Article URL: https://forgeeks.net/nvidia-673-billion-ai-growth-forecast/ Comments URL: https://news.ycombinator.com/item?id=49466052 Points: 111 # Comments: 108",
+      "summary": "Article URL: https://forgeeks.net/nvidia-673-billion-ai-growth-forecast/ Comments URL: https://news.ycombinator.com/item?id=49466052 Points: 111 # Comments: 113",
       "source": "Hacker News",
       "published": "2026-08-27T15:04:16+00:00",
       "link": "https://forgeeks.net/nvidia-673-billion-ai-growth-forecast/"
@@ -1316,90 +1400,6 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-08-24T18:03:55+00:00",
       "link": "https://techcrunch.com/2026/08/24/instincts-powerful-ai-assistant-is-raising-privacy-and-security-concerns/"
-    },
-    {
-      "title": "Octopus intelligence may be related to never-before-seen mutation",
-      "summary": "Article URL: https://www.smithsonianmag.com/smart-news/why-are-some-octopuses-so-smart-the-answer-might-lie-in-a-never-before-seen-mutation-that-helps-them-accurately-build-proteins-180989319/ Comments URL: https://news.ycombinator.com/item?id=49423539 Points: 197 # Comments: 186",
-      "source": "Hacker News",
-      "published": "2026-08-24T17:57:13+00:00",
-      "link": "https://www.smithsonianmag.com/smart-news/why-are-some-octopuses-so-smart-the-answer-might-lie-in-a-never-before-seen-mutation-that-helps-them-accurately-build-proteins-180989319/"
-    },
-    {
-      "title": "XPENG IRON humanoid robot draws record physical AI funding",
-      "summary": "XPENG’s physical AI unit has secured over $900 million at a $6.3 billion valuation to scale its IRON humanoid robot platform.",
-      "source": "AI News",
-      "published": "2026-08-24T15:53:53+00:00",
-      "link": "https://www.artificialintelligence-news.com/news/xpeng-iron-humanoid-robot-draws-record-physical-ai-funding/"
-    },
-    {
-      "title": "Coding expertise is going to collapse from AI reliance",
-      "summary": "Article URL: https://larsfaye.com/articles/ai-coding-will-prevent-expertise Comments URL: https://news.ycombinator.com/item?id=49421554 Points: 558 # Comments: 543",
-      "source": "Hacker News",
-      "published": "2026-08-24T15:52:33+00:00",
-      "link": "https://larsfaye.com/articles/ai-coding-will-prevent-expertise"
-    },
-    {
-      "title": "Alibaba's Wan3.0 generates AI videos up to 30 seconds long from text, images, and documents",
-      "summary": "Alibaba's video generation model Wan3.0 creates clips up to 30 seconds long from text, PDFs, and PowerPoint files. A 30-second 1080p clip costs $6.",
-      "source": "The Decoder",
-      "published": "2026-08-24T15:35:03+00:00",
-      "link": "https://the-decoder.com/alibabas-wan3-0-generates-ai-videos-up-to-30-seconds-long-from-text-images-and-documents/"
-    },
-    {
-      "title": "Valor, Point72 back General Intuition at $6B valuation as AI startup pushes into robotics",
-      "summary": "General Intuition, the startup building a foundation model that trains generalized AI agents how to move through space and time, is in talks to raise at a $6 billion pre-money valuation from new investors including Valor Ventures, Point72 Ventures, and Seven Seven Six.",
-      "source": "TechCrunch",
-      "published": "2026-08-24T15:24:18+00:00",
-      "link": "https://techcrunch.com/2026/08/24/valor-point72-back-general-intuition-at-6b-valuation-as-ai-startup-pushes-into-robotics/"
-    },
-    {
-      "title": "OpenAI: GPT 5.6 Sol price reduction (until at least Nov 21)",
-      "summary": "Article URL: https://developers.openai.com/api/docs/pricing Comments URL: https://news.ycombinator.com/item?id=49421074 Points: 337 # Comments: 339",
-      "source": "Hacker News",
-      "published": "2026-08-24T15:22:43+00:00",
-      "link": "https://developers.openai.com/api/docs/pricing"
-    },
-    {
-      "title": "OpenAI is building AI agents for everything. Will everyone use them?",
-      "summary": "Inside the frontier lab’s push to bring AI agents from software engineers to the masses.",
-      "source": "TechCrunch",
-      "published": "2026-08-24T15:00:00+00:00",
-      "link": "https://techcrunch.com/2026/08/24/openai-is-building-an-ai-agent-for-everything-will-everyone-use-them/"
-    },
-    {
-      "title": "Rogue AI agent used fake accounts and a staged apology to push malware into an open-source project",
-      "summary": "A rogue AI agent staged a public apology as a deception tactic while quietly slipping fresh malware into its pull request. The article Rogue AI agent used fake accounts and a staged apology to push malware into an open-source project appeared first on The Decoder.",
-      "source": "The Decoder",
-      "published": "2026-08-24T14:23:55+00:00",
-      "link": "https://the-decoder.com/rogue-ai-agent-used-fake-accounts-and-a-staged-apology-to-push-malware-into-an-open-source-project/"
-    },
-    {
-      "title": "How to encourage smarter AI use in the classroom",
-      "summary": "This article is from Making AI Work, MIT Technology Review’s limited-run newsletter examining how to apply LLMs across industries. To receive it in your inbox, sign up here.",
-      "source": "MIT Tech Review",
-      "published": "2026-08-24T14:20:19+00:00",
-      "link": "https://www.technologyreview.com/2026/08/24/1142630/ai-school-classroom-policies/"
-    },
-    {
-      "title": "Hugging Face reportedly in talks to be acquired for $13B",
-      "summary": "Hugging Face has reportedly been fielding acquisition offers that would value the company at around $13B. But with the founders' feeling of responsibility to community, doubts arise as to whether a sale will happen.",
-      "source": "TechCrunch",
-      "published": "2026-08-24T13:47:26+00:00",
-      "link": "https://techcrunch.com/2026/08/24/hugging-face-reportedly-in-talks-to-be-acquired-for-13b/"
-    },
-    {
-      "title": "Thomson Reuters bets $40M on owning its AI instead of renting from OpenAI or Anthropic",
-      "summary": "Thomson Reuters is launching \"Thomson,\" its own language model built on Alibaba's Qwen, at a cost of about $40 million over two years. But the benchmarks only show top marks when the model can tap into the company's own content, like Westlaw.",
-      "source": "The Decoder",
-      "published": "2026-08-24T12:59:43+00:00",
-      "link": "https://the-decoder.com/thomson-reuters-bets-40m-on-owning-its-ai-instead-of-renting-from-openai-or-anthropic/"
-    },
-    {
-      "title": "The Download: kids outlearning AI, and space travel agents",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Kids outlearn AI—and we still don’t know why Teaching a computer to use human language requires an inhuman amount of data.",
-      "source": "MIT Tech Review",
-      "published": "2026-08-24T12:10:00+00:00",
-      "link": "https://www.technologyreview.com/2026/08/24/1142863/the-download-kids-outlearning-ai-space-travel-agents/"
     }
   ]
 };
