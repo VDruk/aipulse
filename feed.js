@@ -1,6 +1,41 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-08-31T16:26:15.378661+00:00",
+  "lastUpdated": "2026-08-31T19:25:47.138814+00:00",
   "items": [
+    {
+      "title": "Instagram puts new limits on undisclosed AI profiles",
+      "summary": "As frustration over AI influencers has been growing, Instagram is limiting the reach of undisclosed AI profiles.",
+      "source": "TechCrunch",
+      "published": "2026-08-31T19:16:59+00:00",
+      "link": "https://techcrunch.com/2026/08/31/instagram-puts-new-limits-on-undisclosed-ai-profiles/"
+    },
+    {
+      "title": "Harvard Law dropout raises $6M for Blue Voice to build a ‘Harvey for police officers’",
+      "summary": "The seed round for the app that provides real-time legal and policy guidance to officers was led by SignalFire and Las Olas VC.",
+      "source": "TechCrunch",
+      "published": "2026-08-31T18:35:11+00:00",
+      "link": "https://techcrunch.com/2026/08/31/harvard-law-dropout-raises-6m-for-blue-voice-to-build-a-harvey-for-police-officers/"
+    },
+    {
+      "title": "Bank of England chief warns that inflated AI valuations and rising leverage could trigger the next financial crisis",
+      "summary": "Andrew Bailey warns G20 finance ministers about inflated AI valuations, growing leverage across markets, and cyber risks from frontier AI models. Cross-investments between AI companies and hyperscalers could trigger a chain reaction if one major player stumbles.",
+      "source": "The Decoder",
+      "published": "2026-08-31T18:01:21+00:00",
+      "link": "https://the-decoder.com/bank-of-england-chief-warns-that-inflated-ai-valuations-and-rising-leverage-could-trigger-the-next-financial-crisis/"
+    },
+    {
+      "title": "Hugging Face hack could indicate cultural issues at OpenAI",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here.",
+      "source": "MIT Tech Review",
+      "published": "2026-08-31T18:00:00+00:00",
+      "link": "https://www.technologyreview.com/2026/08/31/1143180/hugging-face-hack-could-indicate-cultural-issues-at-openai/"
+    },
+    {
+      "title": "Instagram admits users often can't tell AI profiles from real people",
+      "summary": "Instagram is replacing its \"AI creator\" tag with a new \"AI-generated profile\" label because users can't tell AI profiles from real people. Singularity, defined by Instagram user competence.",
+      "source": "The Decoder",
+      "published": "2026-08-31T17:27:43+00:00",
+      "link": "https://the-decoder.com/instagram-admits-users-often-cant-tell-ai-profiles-from-real-people/"
+    },
     {
       "title": "Clipto uses AI to search terabytes of video and is now valued at $250M",
       "summary": "The three-year-old startup says it reached $15 million in ARR and profitability before raising its latest $15 million round.",
@@ -35,6 +70,13 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-08-31T15:15:25+00:00",
       "link": "https://techcrunch.com/2026/08/31/nvidias-3-5b-mediatek-bet-reveals-its-plan-for-tackling-big-techs-ai-chip-buildout/"
+    },
+    {
+      "title": "Marx, Keynes, and AI",
+      "summary": "Article URL: https://www.unpopularfront.news/p/marx-keynes-and-ai Comments URL: https://news.ycombinator.com/item?id=49510302 Points: 54 # Comments: 55",
+      "source": "Hacker News",
+      "published": "2026-08-31T14:36:03+00:00",
+      "link": "https://www.unpopularfront.news/p/marx-keynes-and-ai"
     },
     {
       "title": "ChatGPT now faces stricter EU oversight as a very large search engine",
@@ -72,11 +114,18 @@ const FEED_DATA = {
       "link": "https://www.theverge.com/tech/986593/instagram-addresses-fake-ai-profile-slop"
     },
     {
-      "title": "Apple Caught Off Guard by AI Demand for Mac Mini and Mac Studio",
-      "summary": "Article URL: https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand/ Comments URL: https://news.ycombinator.com/item?id=49508982 Points: 64 # Comments: 82",
+      "title": "Apple caught off guard by AI demand for Mac Mini and Mac Studio",
+      "summary": "Article URL: https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand/ Comments URL: https://news.ycombinator.com/item?id=49508982 Points: 138 # Comments: 155",
       "source": "Hacker News",
       "published": "2026-08-31T12:41:22+00:00",
       "link": "https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand/"
+    },
+    {
+      "title": "AI-written code is still your code",
+      "summary": "Article URL: https://martiansoftware.com/articles/ai-written-code-is-still-yours Comments URL: https://news.ycombinator.com/item?id=49508664 Points: 54 # Comments: 89",
+      "source": "Hacker News",
+      "published": "2026-08-31T12:08:25+00:00",
+      "link": "https://martiansoftware.com/articles/ai-written-code-is-still-yours"
     },
     {
       "title": "AI-Written Code Is Still *Your* Code. Are You OK with That?",
@@ -108,7 +157,7 @@ const FEED_DATA = {
     },
     {
       "title": "Meta Security Researcher's AI Agent Accidentally Deleted Her Emails",
-      "summary": "Article URL: https://au.pcmag.com/ai/116091/meta-security-researchers-ai-agent-accidentally-deleted-her-emails Comments URL: https://news.ycombinator.com/item?id=49506655 Points: 56 # Comments: 56",
+      "summary": "Article URL: https://au.pcmag.com/ai/116091/meta-security-researchers-ai-agent-accidentally-deleted-her-emails Comments URL: https://news.ycombinator.com/item?id=49506655 Points: 57 # Comments: 60",
       "source": "Hacker News",
       "published": "2026-08-31T07:23:47+00:00",
       "link": "https://au.pcmag.com/ai/116091/meta-security-researchers-ai-agent-accidentally-deleted-her-emails"
@@ -136,7 +185,7 @@ const FEED_DATA = {
     },
     {
       "title": "No AI Fridays",
-      "summary": "Article URL: https://noaifridays.com/ Comments URL: https://news.ycombinator.com/item?id=49498095 Points: 280 # Comments: 198",
+      "summary": "Article URL: https://noaifridays.com/ Comments URL: https://news.ycombinator.com/item?id=49498095 Points: 282 # Comments: 200",
       "source": "Hacker News",
       "published": "2026-08-30T12:31:05+00:00",
       "link": "https://noaifridays.com/"
@@ -163,6 +212,13 @@ const FEED_DATA = {
       "link": "https://www.abc.net.au/news/2026-08-29/fair-work-commission-condemns-ai-legal-advice/107089766"
     },
     {
+      "title": "What We Tell AI",
+      "summary": "Article URL: https://www.whatwetellai.com/ Comments URL: https://news.ycombinator.com/item?id=49497334 Points: 51 # Comments: 17",
+      "source": "Hacker News",
+      "published": "2026-08-30T10:16:14+00:00",
+      "link": "https://www.whatwetellai.com/"
+    },
+    {
       "title": "Anthropic's Claude Code limit change is a raise on paper but a cut in practice",
       "summary": "Anthropic is effectively cutting Claude Code's weekly usage limits by 17 percent. A temporary 50 percent boost expires on September 14 and will be replaced by a permanent 25 percent increase.",
       "source": "The Decoder",
@@ -177,7 +233,7 @@ const FEED_DATA = {
       "link": "https://the-decoder.com/sony-and-warner-sue-anthropic-over-one-of-the-largest-and-most-blatant-ongoing-thefts-of-intellectual-property-in-history/"
     },
     {
-      "title": "Sony Music, Warner sue Anthropic, alleging a “brazen campaign” of intellectual property theft",
+      "title": "Sony Music, Warner sue Anthropic, alleging a ‘brazen campaign’ of intellectual property theft",
       "summary": "This latest lawsuit is particularly broad and homes in on accusations of illegal piracy.",
       "source": "TechCrunch",
       "published": "2026-08-29T18:41:59+00:00",
@@ -198,7 +254,14 @@ const FEED_DATA = {
       "link": "https://www.theverge.com/ai-artificial-intelligence/986438/sony-music-warner-chappell-anthropic-lawsuit-copyright"
     },
     {
-      "title": "“We’re not doing 30 bets a year”: Vijay Pande on betting small after running $4 billion at a16z",
+      "title": "At TechBBQ, Europe’s AI conversations kept coming back to: Who’s actually in control?",
+      "summary": "Investors, founders, and operators from across Europe arrived for the annual Nordic TechBBQ conference to talk about how humans can have agency over AI.",
+      "source": "TechCrunch",
+      "published": "2026-08-29T17:51:10+00:00",
+      "link": "https://techcrunch.com/2026/08/29/at-techbbq-europes-ai-conversations-kept-coming-back-to-whos-actually-in-control/"
+    },
+    {
+      "title": "‘We’re not doing 30 bets a year’: Vijay Pande on betting small after running $4B at a16z",
       "summary": "Vijay Pande — who left a16z's roughly $4 billion biotech practice last year to start the much smaller, AI-native VZVC — talks about why biology is finally shifting from a \"discovery\" science to an \"engineering\" one, why clinical trials are still brutally expensive, and why he...",
       "source": "TechCrunch",
       "published": "2026-08-29T17:36:47+00:00",
@@ -206,7 +269,7 @@ const FEED_DATA = {
     },
     {
       "title": "Good Culture Is the Biggest Productivity Hack, Not AI",
-      "summary": "Article URL: https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity Comments URL: https://news.ycombinator.com/item?id=49491568 Points: 472 # Comments: 120",
+      "summary": "Article URL: https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity Comments URL: https://news.ycombinator.com/item?id=49491568 Points: 473 # Comments: 120",
       "source": "Hacker News",
       "published": "2026-08-29T17:19:47+00:00",
       "link": "https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity"
@@ -220,7 +283,7 @@ const FEED_DATA = {
     },
     {
       "title": "Debian votes to allow \"responsible use of generative AI\"",
-      "summary": "Article URL: https://lwn.net/Articles/1091231/ Comments URL: https://news.ycombinator.com/item?id=49489982 Points: 510 # Comments: 475",
+      "summary": "Article URL: https://lwn.net/Articles/1091231/ Comments URL: https://news.ycombinator.com/item?id=49489982 Points: 510 # Comments: 476",
       "source": "Hacker News",
       "published": "2026-08-29T14:02:10+00:00",
       "link": "https://lwn.net/Articles/1091231/"
@@ -290,7 +353,7 @@ const FEED_DATA = {
     },
     {
       "title": "StemDeck, a free, open-source and local AI stem separator",
-      "summary": "Article URL: https://github.com/stemdeckapp/stemdeck Comments URL: https://news.ycombinator.com/item?id=49486081 Points: 243 # Comments: 63",
+      "summary": "Article URL: https://github.com/stemdeckapp/stemdeck Comments URL: https://news.ycombinator.com/item?id=49486081 Points: 244 # Comments: 63",
       "source": "Hacker News",
       "published": "2026-08-29T01:24:13+00:00",
       "link": "https://github.com/stemdeckapp/stemdeck"
@@ -1337,69 +1400,6 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-08-25T10:24:13+00:00",
       "link": "https://the-decoder.com/alabama-is-investigating-openai-following-an-uncontrolled-ai-agent-hack/"
-    },
-    {
-      "title": "It Should Be Harder to Apply for a Job. No, Really",
-      "summary": "Thanks to a dwindling supply of open roles, “one-click” applications, and the rise of artificial intelligence, it’s easier than ever to apply for a job. We’re all paying the price.",
-      "source": "Wired",
-      "published": "2026-08-25T09:30:00+00:00",
-      "link": "https://www.wired.com/story/applying-for-a-job-is-too-damn-easy/"
-    },
-    {
-      "title": "OpenAI subpoenaed by Alabama AG over Hugging Face hack",
-      "summary": "Alabama's attorney general issued a subpoena to OpenAI on Monday as part of an investigation into how one of its AI agents escaped a supposedly secure testing environment and autonomously hacked another company last month.",
-      "source": "The Verge",
-      "published": "2026-08-25T09:15:03+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/984239/alabama-attorney-general-subpoena-openai-hugging-face-hack"
-    },
-    {
-      "title": "Spirit Airlines Wants to Sell Its Data to Google. Former Flight Attendants Are Freaked Out",
-      "summary": "“It never crossed my mind that they would be so bold as to sell our private data for AI,” says one former Spirit Airlines flight attendant.",
-      "source": "Wired",
-      "published": "2026-08-25T09:15:00+00:00",
-      "link": "https://www.wired.com/story/spirit-airlines-wants-to-sell-its-data-to-google-former-flight-attendants-are-freaked-out/"
-    },
-    {
-      "title": "I spent a day at a robot “carnival” in Shanghai. Here’s what I saw.",
-      "summary": "Humanoid robots are having a moment in China. The popular machines are part of the country’s strategy to bring artificial intelligence into daily life.",
-      "source": "MIT Tech Review",
-      "published": "2026-08-25T09:00:00+00:00",
-      "link": "https://www.technologyreview.com/2026/08/25/1141907/dispatch-shanghai-humanoid-robot-carnival/"
-    },
-    {
-      "title": "Taiwanese cybersecurity firm warns that AI tools have more than doubled Chinese state-backed cyberattacks",
-      "summary": "Chinese state-backed hacking groups have more than doubled their attacks since they started using AI models like DeepSeek to write exploit code and scan networks, according to Taiwanese security firm TeamT5. Hackers also used ChatGPT and Anthropic's Claude Code.",
-      "source": "The Decoder",
-      "published": "2026-08-25T08:40:14+00:00",
-      "link": "https://the-decoder.com/taiwanese-cybersecurity-firm-warns-that-ai-tools-have-more-than-doubled-chinese-state-backed-cyberattacks/"
-    },
-    {
-      "title": "Situational Awareness, star AI hedge fund that nearly imploded, now being probed by the SEC",
-      "summary": "The AI hedge fund went from \"the talk of Wall Street\" to \"subject of federal subpoenas\" faster than you can say \"diversify your portfolio.\"",
-      "source": "TechCrunch",
-      "published": "2026-08-25T00:23:12+00:00",
-      "link": "https://techcrunch.com/2026/08/24/situational-awareness-star-ai-hedge-fund-that-nearly-imploded-now-being-probed-by-the-sec/"
-    },
-    {
-      "title": "Vintage Artificial Intelligence: Before It Got Awkward",
-      "summary": "Article URL: https://blog.archive.org/2026/08/16/vintage-artificial-intelligence-before-it-got-awkward/ Comments URL: https://news.ycombinator.com/item?id=49425800 Points: 160 # Comments: 31",
-      "source": "Hacker News",
-      "published": "2026-08-24T21:01:38+00:00",
-      "link": "https://blog.archive.org/2026/08/16/vintage-artificial-intelligence-before-it-got-awkward/"
-    },
-    {
-      "title": "Pew study confirms sharp rise of AI-written text on the web since ChatGPT's launch",
-      "summary": "The Pew Research Center analyzed nearly half a million English-language web pages for AI-generated content.",
-      "source": "The Decoder",
-      "published": "2026-08-24T18:22:49+00:00",
-      "link": "https://the-decoder.com/pew-study-shows-ai-written-text-has-surged-across-the-web-since-late-2022/"
-    },
-    {
-      "title": "Instinct’s powerful AI assistant is raising privacy and security concerns",
-      "summary": "Early testers are raving about what Instinct can do, but some say the AI assistant’s sweeping access, broad terms and ability to act on users’ behalf come with uncomfortable trade-offs.",
-      "source": "TechCrunch",
-      "published": "2026-08-24T18:03:55+00:00",
-      "link": "https://techcrunch.com/2026/08/24/instincts-powerful-ai-assistant-is-raising-privacy-and-security-concerns/"
     }
   ]
 };
