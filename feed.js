@@ -1,6 +1,55 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-09-01T09:48:39.750995+00:00",
+  "lastUpdated": "2026-09-01T13:44:10.035868+00:00",
   "items": [
+    {
+      "title": "Google's election AI Overviews are opaque, rely on few sources, and sometimes take sides",
+      "summary": "Using access granted under the EU's Digital Services Act, the German advocacy group AlgorithmWatch ran 4,480 election-related search queries on Google and analyzed the AI Overviews that came back.",
+      "source": "The Decoder",
+      "published": "2026-09-01T13:03:17+00:00",
+      "link": "https://the-decoder.com/googles-election-ai-overviews-are-opaque-rely-on-few-sources-and-sometimes-take-sides/"
+    },
+    {
+      "title": "Nvidia’s controversial DLSS 5 arrives September 3rd and requires serious GPU horsepower",
+      "summary": "Nvidia is officially launching DLSS 5 this week, following a divisive announcement in March where we likened the AI upscaling tech to a \"real-time generative AI filter for video games\" and \"motion smoothing for video games, but worse.\" DLSS 5 will officially be available on RTX...",
+      "source": "The Verge",
+      "published": "2026-09-01T13:00:00+00:00",
+      "link": "https://www.theverge.com/tech/986378/nvidia-dlss-5-launch-nba-2k27"
+    },
+    {
+      "title": "EFF to Courts: Don't Rewrite Copyright over AI Hype",
+      "summary": "Article URL: https://www.eff.org/deeplinks/2026/08/eff-courts-dont-rewrite-copyright-over-ai-hype Comments URL: https://news.ycombinator.com/item?id=49521315 Points: 51 # Comments: 28",
+      "source": "Hacker News",
+      "published": "2026-09-01T12:53:51+00:00",
+      "link": "https://www.eff.org/deeplinks/2026/08/eff-courts-dont-rewrite-copyright-over-ai-hype"
+    },
+    {
+      "title": "Runway's Solaris is an AI system that generates software interfaces in real time",
+      "summary": "AI company Runway has unveiled Solaris, the first model in a new category it calls \"Interface World Models.\" Instead of running code, the system generates the user interface frame by frame as you interact with it.",
+      "source": "The Decoder",
+      "published": "2026-09-01T12:53:46+00:00",
+      "link": "https://the-decoder.com/runways-solaris-is-an-ai-system-that-generates-software-interfaces-in-real-time/"
+    },
+    {
+      "title": "Google's AI search dropped its emergency-call advice over nationalities but still flags people from Facebook",
+      "summary": "\"Please get to a safe place or call emergency services\": That's the advice Google's AI search gave users who typed that they were alone with an African, Indian, or Pakistani.",
+      "source": "The Decoder",
+      "published": "2026-09-01T12:44:11+00:00",
+      "link": "https://the-decoder.com/googles-ai-search-dropped-its-emergency-call-advice-over-nationalities-but-still-flags-people-from-facebook/"
+    },
+    {
+      "title": "The Download: engineered microbes for crops, and OpenAI’s culture problem",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.",
+      "source": "MIT Tech Review",
+      "published": "2026-09-01T12:10:00+00:00",
+      "link": "https://www.technologyreview.com/2026/09/01/1143199/the-download-engineered-microbes-openai-safety-culture/"
+    },
+    {
+      "title": "AI Can Make You Suck Faster Too",
+      "summary": "Article URL: https://www.hermit-tech.com/blog/ai-can-make-you-suck-faster-too Comments URL: https://news.ycombinator.com/item?id=49518316 Points: 111 # Comments: 116",
+      "source": "Hacker News",
+      "published": "2026-09-01T05:32:56+00:00",
+      "link": "https://www.hermit-tech.com/blog/ai-can-make-you-suck-faster-too"
+    },
     {
       "title": "Apple shares ‘shocking evidence’ against former employee accused of stealing company data for OpenAI",
       "summary": "Apple says it has evidence that a former employee destroyed evidence of data theft after learning he was under investigation.",
@@ -28,6 +77,13 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-08-31T18:35:11+00:00",
       "link": "https://techcrunch.com/2026/08/31/harvard-law-dropout-raises-6m-for-blue-voice-to-build-a-harvey-for-police-officers/"
+    },
+    {
+      "title": "The safest job from AI may be writing",
+      "summary": "Article URL: http://muratbuffalo.blogspot.com/2026/08/the-safest-job-from-ai-may-be-writing.html Comments URL: https://news.ycombinator.com/item?id=49512856 Points: 139 # Comments: 190",
+      "source": "Hacker News",
+      "published": "2026-08-31T18:12:20+00:00",
+      "link": "http://muratbuffalo.blogspot.com/2026/08/the-safest-job-from-ai-may-be-writing.html"
     },
     {
       "title": "Bank of England chief warns that inflated AI valuations and rising leverage could trigger the next financial crisis",
@@ -72,6 +128,13 @@ const FEED_DATA = {
       "link": "https://www.theverge.com/tech/986789/linux-debian-generative-ai-policy"
     },
     {
+      "title": "Launch HN: Almanac (YC S26) – AI that knows your company",
+      "summary": "Hi HN, I'm Kushagra, one of three founders of Almanac, a Hermes with a brain that knows everything about your company.We started our journey with setting up Hermes for our company, thinking it must be easy.",
+      "source": "Hacker News",
+      "published": "2026-08-31T15:34:34+00:00",
+      "link": "https://usealmanac.com/"
+    },
+    {
       "title": "OpenAI says its ChatGPT ad business hits a $1 billion annual run rate",
       "summary": "OpenAI's advertising business has reached an annualized revenue run rate of $1 billion, according to the company. The article OpenAI says its ChatGPT ad business hits a $1 billion annual run rate appeared first on The Decoder.",
       "source": "The Decoder",
@@ -94,7 +157,7 @@ const FEED_DATA = {
     },
     {
       "title": "Marx, Keynes, and AI",
-      "summary": "Article URL: https://www.unpopularfront.news/p/marx-keynes-and-ai Comments URL: https://news.ycombinator.com/item?id=49510302 Points: 54 # Comments: 61",
+      "summary": "Article URL: https://www.unpopularfront.news/p/marx-keynes-and-ai Comments URL: https://news.ycombinator.com/item?id=49510302 Points: 56 # Comments: 87",
       "source": "Hacker News",
       "published": "2026-08-31T14:36:03+00:00",
       "link": "https://www.unpopularfront.news/p/marx-keynes-and-ai"
@@ -136,14 +199,14 @@ const FEED_DATA = {
     },
     {
       "title": "Apple caught off guard by AI demand for Mac Mini and Mac Studio",
-      "summary": "Article URL: https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand/ Comments URL: https://news.ycombinator.com/item?id=49508982 Points: 227 # Comments: 254",
+      "summary": "Article URL: https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand/ Comments URL: https://news.ycombinator.com/item?id=49508982 Points: 442 # Comments: 502",
       "source": "Hacker News",
       "published": "2026-08-31T12:41:22+00:00",
       "link": "https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand/"
     },
     {
       "title": "AI-written code is still your code",
-      "summary": "Article URL: https://martiansoftware.com/articles/ai-written-code-is-still-yours Comments URL: https://news.ycombinator.com/item?id=49508664 Points: 54 # Comments: 89",
+      "summary": "Article URL: https://martiansoftware.com/articles/ai-written-code-is-still-yours Comments URL: https://news.ycombinator.com/item?id=49508664 Points: 57 # Comments: 91",
       "source": "Hacker News",
       "published": "2026-08-31T12:08:25+00:00",
       "link": "https://martiansoftware.com/articles/ai-written-code-is-still-yours"
@@ -178,7 +241,7 @@ const FEED_DATA = {
     },
     {
       "title": "Meta Security Researcher's AI Agent Accidentally Deleted Her Emails",
-      "summary": "Article URL: https://au.pcmag.com/ai/116091/meta-security-researchers-ai-agent-accidentally-deleted-her-emails Comments URL: https://news.ycombinator.com/item?id=49506655 Points: 58 # Comments: 60",
+      "summary": "Article URL: https://au.pcmag.com/ai/116091/meta-security-researchers-ai-agent-accidentally-deleted-her-emails Comments URL: https://news.ycombinator.com/item?id=49506655 Points: 59 # Comments: 61",
       "source": "Hacker News",
       "published": "2026-08-31T07:23:47+00:00",
       "link": "https://au.pcmag.com/ai/116091/meta-security-researchers-ai-agent-accidentally-deleted-her-emails"
@@ -206,7 +269,7 @@ const FEED_DATA = {
     },
     {
       "title": "No AI Fridays",
-      "summary": "Article URL: https://noaifridays.com/ Comments URL: https://news.ycombinator.com/item?id=49498095 Points: 284 # Comments: 200",
+      "summary": "Article URL: https://noaifridays.com/ Comments URL: https://news.ycombinator.com/item?id=49498095 Points: 288 # Comments: 204",
       "source": "Hacker News",
       "published": "2026-08-30T12:31:05+00:00",
       "link": "https://noaifridays.com/"
@@ -234,7 +297,7 @@ const FEED_DATA = {
     },
     {
       "title": "What We Tell AI",
-      "summary": "Article URL: https://www.whatwetellai.com/ Comments URL: https://news.ycombinator.com/item?id=49497334 Points: 51 # Comments: 17",
+      "summary": "Article URL: https://www.whatwetellai.com/ Comments URL: https://news.ycombinator.com/item?id=49497334 Points: 52 # Comments: 17",
       "source": "Hacker News",
       "published": "2026-08-30T10:16:14+00:00",
       "link": "https://www.whatwetellai.com/"
@@ -255,7 +318,7 @@ const FEED_DATA = {
     },
     {
       "title": "Smartphone LED detects hidden cameras with AI",
-      "summary": "Article URL: https://www.chosun.com/english/industry-en/2026/08/30/SBFXUIJQYZEARKP5T4FBAY25HQ/ Comments URL: https://news.ycombinator.com/item?id=49496292 Points: 94 # Comments: 29",
+      "summary": "Article URL: https://www.chosun.com/english/industry-en/2026/08/30/SBFXUIJQYZEARKP5T4FBAY25HQ/ Comments URL: https://news.ycombinator.com/item?id=49496292 Points: 242 # Comments: 70",
       "source": "Hacker News",
       "published": "2026-08-30T06:52:04+00:00",
       "link": "https://www.chosun.com/english/industry-en/2026/08/30/SBFXUIJQYZEARKP5T4FBAY25HQ/"
@@ -297,21 +360,21 @@ const FEED_DATA = {
     },
     {
       "title": "Good Culture Is the Biggest Productivity Hack, Not AI",
-      "summary": "Article URL: https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity Comments URL: https://news.ycombinator.com/item?id=49491568 Points: 474 # Comments: 120",
+      "summary": "Article URL: https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity Comments URL: https://news.ycombinator.com/item?id=49491568 Points: 476 # Comments: 121",
       "source": "Hacker News",
       "published": "2026-08-29T17:19:47+00:00",
       "link": "https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity"
     },
     {
       "title": "The growing divide between AI hype and software engineering reality",
-      "summary": "Article URL: https://optimizedbyotto.com/post/why-open-source-projects-ban-ai/ Comments URL: https://news.ycombinator.com/item?id=49491113 Points: 66 # Comments: 89",
+      "summary": "Article URL: https://optimizedbyotto.com/post/why-open-source-projects-ban-ai/ Comments URL: https://news.ycombinator.com/item?id=49491113 Points: 67 # Comments: 92",
       "source": "Hacker News",
       "published": "2026-08-29T16:16:32+00:00",
       "link": "https://optimizedbyotto.com/post/why-open-source-projects-ban-ai/"
     },
     {
       "title": "Debian votes to allow \"responsible use of generative AI\"",
-      "summary": "Article URL: https://lwn.net/Articles/1091231/ Comments URL: https://news.ycombinator.com/item?id=49489982 Points: 510 # Comments: 476",
+      "summary": "Article URL: https://lwn.net/Articles/1091231/ Comments URL: https://news.ycombinator.com/item?id=49489982 Points: 513 # Comments: 478",
       "source": "Hacker News",
       "published": "2026-08-29T14:02:10+00:00",
       "link": "https://lwn.net/Articles/1091231/"
@@ -507,7 +570,7 @@ const FEED_DATA = {
     },
     {
       "title": "Luanti removed from Google Play due to baseless AI copyright notice",
-      "summary": "Article URL: https://blog.luanti.org/2026/08/27/luanti-dmca-tracer-ai/ Comments URL: https://news.ycombinator.com/item?id=49475079 Points: 522 # Comments: 151",
+      "summary": "Article URL: https://blog.luanti.org/2026/08/27/luanti-dmca-tracer-ai/ Comments URL: https://news.ycombinator.com/item?id=49475079 Points: 526 # Comments: 158",
       "source": "Hacker News",
       "published": "2026-08-28T06:33:57+00:00",
       "link": "https://blog.luanti.org/2026/08/27/luanti-dmca-tracer-ai/"
@@ -1337,69 +1400,6 @@ const FEED_DATA = {
       "source": "AI News",
       "published": "2026-08-25T15:46:06+00:00",
       "link": "https://www.artificialintelligence-news.com/news/mit-ai-forecasts-extreme-weather-without-historical-data/"
-    },
-    {
-      "title": "How much of HN is AI?",
-      "summary": "Article URL: https://blog.coredump.cx/p/how-much-of-hn-is-ai Comments URL: https://news.ycombinator.com/item?id=49435728 Points: 274 # Comments: 355",
-      "source": "Hacker News",
-      "published": "2026-08-25T15:23:41+00:00",
-      "link": "https://blog.coredump.cx/p/how-much-of-hn-is-ai"
-    },
-    {
-      "title": "Show HN: I made a Raspberry with Qwen my local car AI",
-      "summary": "Found that you can actually run a 35B Qwen model on a Pi with very impressive intelligence and stability. Built connectors for car ODB to read all about car internals, and manufacturer's cloud service for stuff like changing AC or opening/ locking doors.",
-      "source": "Hacker News",
-      "published": "2026-08-25T15:20:20+00:00",
-      "link": "https://github.com/ThinkOffApp/CarWatch"
-    },
-    {
-      "title": "AI is hitting entry-level jobs hardest, Stanford study finds",
-      "summary": "Article URL: https://arstechnica.com/ai/2026/08/ai-is-hitting-entry-level-jobs-hardest-stanford-study-finds/ Comments URL: https://news.ycombinator.com/item?id=49435147 Points: 145 # Comments: 174",
-      "source": "Hacker News",
-      "published": "2026-08-25T14:48:58+00:00",
-      "link": "https://arstechnica.com/ai/2026/08/ai-is-hitting-entry-level-jobs-hardest-stanford-study-finds/"
-    },
-    {
-      "title": "OpenAI’s Jalapeño chip is built for fast inference at scale, benchmarks show",
-      "summary": "Tested on SemiAnalysis’ InferenceX benchmark, Jalapeño registered both more tokens per user and more throughput per kilowatt than the currently available state-of-the art.",
-      "source": "TechCrunch",
-      "published": "2026-08-25T14:22:04+00:00",
-      "link": "https://techcrunch.com/2026/08/25/openais-jalapeno-chip-is-built-for-fast-inference-at-scale-benchmarks-show/"
-    },
-    {
-      "title": "OpenAI says its Jalapeño chip can power faster AI responses than the competition",
-      "summary": "OpenAI says its new AI chip, Jalapeño, completes tasks more efficiently and returns responses faster than other AI systems, according to a blog post published on Tuesday.",
-      "source": "The Verge",
-      "published": "2026-08-25T14:00:00+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/984290/openai-jalapeno-ai-chip-benchmarks"
-    },
-    {
-      "title": "Meta's paid AI agent Hatch launches soon, with a new model called Watermelon due in October",
-      "summary": "Meta Platforms will launch its AI agent Hatch in the coming weeks and release a new AI model called Watermelon in October. The article Meta's paid AI agent Hatch launches soon, with a new model called Watermelon due in October appeared first on The Decoder.",
-      "source": "The Decoder",
-      "published": "2026-08-25T13:43:40+00:00",
-      "link": "https://the-decoder.com/metas-paid-ai-agent-hatch-launches-soon-with-a-new-model-called-watermelon-due-in-october/"
-    },
-    {
-      "title": "Apple introduces M6 and M5 Ultra for a big leap in performance and AI compute",
-      "summary": "Article URL: https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/ Comments URL: https://news.ycombinator.com/item?id=49433292 Points: 574 # Comments: 466",
-      "source": "Hacker News",
-      "published": "2026-08-25T13:01:22+00:00",
-      "link": "https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/"
-    },
-    {
-      "title": "Accel-backed Keenable is indexing the web for AI agents",
-      "summary": "Now exiting stealth mode with a $26 million seed round, Keenable has been building a vast web search index for AI agents.",
-      "source": "TechCrunch",
-      "published": "2026-08-25T13:00:00+00:00",
-      "link": "https://techcrunch.com/2026/08/25/accel-backed-keenable-is-indexing-the-web-for-ai-agents/"
-    },
-    {
-      "title": "Nvidia says its Groq 3 LPX is four times faster than Cerebras, but the math is more complicated",
-      "summary": "Nvidia is moving its Groq 3 LPX inference chip into full production and reports 3,400 tokens per second on Gemma 4 31B, four times faster than Cerebras. But the numbers don't tell the whole story.",
-      "source": "The Decoder",
-      "published": "2026-08-25T12:27:57+00:00",
-      "link": "https://the-decoder.com/nvidia-says-its-groq-3-lpx-is-four-times-faster-than-cerebras-but-the-math-is-more-complicated/"
     }
   ]
 };
