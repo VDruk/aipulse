@@ -1,5 +1,5 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-09-01T06:00:59.149994+00:00",
+  "lastUpdated": "2026-09-01T09:48:39.750995+00:00",
   "items": [
     {
       "title": "Apple shares ‘shocking evidence’ against former employee accused of stealing company data for OpenAI",
