@@ -1,6 +1,13 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-08-31T21:45:00.860811+00:00",
+  "lastUpdated": "2026-09-01T00:15:20.560410+00:00",
   "items": [
+    {
+      "title": "Apple shares ‘shocking evidence’ against former employee accused of stealing company data for OpenAI",
+      "summary": "Apple says it has evidence that a former employee destroyed evidence of data theft after learning he was under investigation.",
+      "source": "TechCrunch",
+      "published": "2026-09-01T00:13:00+00:00",
+      "link": "https://techcrunch.com/2026/08/31/apple-shares-shocking-evidence-against-former-employee-accused-of-stealing-company-data-for-openai/"
+    },
     {
       "title": "The Pentagon now has its own version of ChatGPT and Grok",
       "summary": "Versions of OpenAI's ChatGPT and SpaceXAI's Grok will join Google's Gemini on the Pentagon's central portal for AI tools.",
@@ -28,6 +35,13 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-08-31T18:01:21+00:00",
       "link": "https://the-decoder.com/bank-of-england-chief-warns-that-inflated-ai-valuations-and-rising-leverage-could-trigger-the-next-financial-crisis/"
+    },
+    {
+      "title": "The Hugging Face hack could indicate cultural issues at OpenAI",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here.",
+      "source": "MIT Tech Review",
+      "published": "2026-08-31T18:00:00+00:00",
+      "link": "https://www.technologyreview.com/2026/08/31/1143180/hugging-face-hack-could-indicate-cultural-issues-at-openai/"
     },
     {
       "title": "Hugging Face hack could indicate cultural issues at OpenAI",
@@ -1386,20 +1400,6 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-08-25T12:27:57+00:00",
       "link": "https://the-decoder.com/nvidia-says-its-groq-3-lpx-is-four-times-faster-than-cerebras-but-the-math-is-more-complicated/"
-    },
-    {
-      "title": "Ukraine opens its massive labeled battlefield dataset to British firms in a landmark AI weapons partnership",
-      "summary": "The UK becomes the first country to get access to Avengers Labs, Ukraine's platform holding roughly five million annotated combat images for training military AI. Three British startups are already working on pilot projects.",
-      "source": "The Decoder",
-      "published": "2026-08-25T12:16:41+00:00",
-      "link": "https://the-decoder.com/ukraine-opens-its-massive-labeled-battlefield-dataset-to-british-firms-in-a-landmark-ai-weapons-partnership/"
-    },
-    {
-      "title": "The Download: smarter AI in schools, and a robot “carnival” in Shanghai",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. How to encourage smarter AI use in the classroom Chatbots took schools by surprise.",
-      "source": "MIT Tech Review",
-      "published": "2026-08-25T12:10:00+00:00",
-      "link": "https://www.technologyreview.com/2026/08/25/1142909/the-download-smarter-ai-in-schools-robot-carnival-shanghai/"
     }
   ]
 };
