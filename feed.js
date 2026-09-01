@@ -1,6 +1,41 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-09-01T13:44:10.035868+00:00",
+  "lastUpdated": "2026-09-01T17:12:26.038823+00:00",
   "items": [
+    {
+      "title": "Google Deepmind's new chief says frontier AI leadership is the only thing that matters",
+      "summary": "Google Deepmind chief Koray Kavukcuoglu admits Google's current models are \"a little bit below the frontier\" but says he's \"100% certain that we will be at the frontier.\" He didn't share any concrete frontier news to back that up, though.",
+      "source": "The Decoder",
+      "published": "2026-09-01T16:49:11+00:00",
+      "link": "https://the-decoder.com/google-deepminds-new-chief-says-frontier-ai-leadership-is-the-only-thing-that-matters/"
+    },
+    {
+      "title": "AIR raises $50M to help companies vet the skills and add-ons AI agents use",
+      "summary": "AIR's platform can discover agents running at a company, continuously vets any skills and add-ons they use, and blocks any unwanted behaviour.",
+      "source": "TechCrunch",
+      "published": "2026-09-01T15:45:51+00:00",
+      "link": "https://techcrunch.com/2026/09/01/air-raises-50m-to-help-companies-vet-the-skills-and-add-ons-ai-agents-use/"
+    },
+    {
+      "title": "Fambot introduces an ‘AI chief of staff’ for families",
+      "summary": "Fambot is building an AI “chief of staff” to help families manage the emails, calendars, school updates, sports schedules, and other logistics of raising kids.",
+      "source": "TechCrunch",
+      "published": "2026-09-01T15:10:58+00:00",
+      "link": "https://techcrunch.com/2026/09/01/fambot-introduces-an-ai-chief-of-staff-for-families/"
+    },
+    {
+      "title": "Sonos Ace Ultra, Beam Ultra, Sonos Fabric, and a New App: Everything Sonos Just Announced",
+      "summary": "Sonos is cramming AI into its software because it’s “very hot these days.” The new features, which include agentic automation, are opt-in.",
+      "source": "Wired",
+      "published": "2026-09-01T14:40:00+00:00",
+      "link": "https://www.wired.com/story/sonos-has-new-devices-a-new-os-and-yes-a-new-app/"
+    },
+    {
+      "title": "Making the AI-powered case for legacy modernization",
+      "summary": "For years, legacy technology has been a problem companies knew they needed to solve, but one they often struggled to tackle.",
+      "source": "MIT Tech Review",
+      "published": "2026-09-01T14:00:00+00:00",
+      "link": "https://www.technologyreview.com/2026/09/01/1142180/making-the-ai-powered-case-for-legacy-modernization/"
+    },
     {
       "title": "Google's election AI Overviews are opaque, rely on few sources, and sometimes take sides",
       "summary": "Using access granted under the EU's Digital Services Act, the German advocacy group AlgorithmWatch ran 4,480 election-related search queries on Google and analyzed the AI Overviews that came back.",
@@ -17,7 +52,7 @@ const FEED_DATA = {
     },
     {
       "title": "EFF to Courts: Don't Rewrite Copyright over AI Hype",
-      "summary": "Article URL: https://www.eff.org/deeplinks/2026/08/eff-courts-dont-rewrite-copyright-over-ai-hype Comments URL: https://news.ycombinator.com/item?id=49521315 Points: 51 # Comments: 28",
+      "summary": "Article URL: https://www.eff.org/deeplinks/2026/08/eff-courts-dont-rewrite-copyright-over-ai-hype Comments URL: https://news.ycombinator.com/item?id=49521315 Points: 148 # Comments: 158",
       "source": "Hacker News",
       "published": "2026-09-01T12:53:51+00:00",
       "link": "https://www.eff.org/deeplinks/2026/08/eff-courts-dont-rewrite-copyright-over-ai-hype"
@@ -45,7 +80,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI Can Make You Suck Faster Too",
-      "summary": "Article URL: https://www.hermit-tech.com/blog/ai-can-make-you-suck-faster-too Comments URL: https://news.ycombinator.com/item?id=49518316 Points: 111 # Comments: 116",
+      "summary": "Article URL: https://www.hermit-tech.com/blog/ai-can-make-you-suck-faster-too Comments URL: https://news.ycombinator.com/item?id=49518316 Points: 125 # Comments: 130",
       "source": "Hacker News",
       "published": "2026-09-01T05:32:56+00:00",
       "link": "https://www.hermit-tech.com/blog/ai-can-make-you-suck-faster-too"
@@ -80,7 +115,7 @@ const FEED_DATA = {
     },
     {
       "title": "The safest job from AI may be writing",
-      "summary": "Article URL: http://muratbuffalo.blogspot.com/2026/08/the-safest-job-from-ai-may-be-writing.html Comments URL: https://news.ycombinator.com/item?id=49512856 Points: 139 # Comments: 190",
+      "summary": "Article URL: http://muratbuffalo.blogspot.com/2026/08/the-safest-job-from-ai-may-be-writing.html Comments URL: https://news.ycombinator.com/item?id=49512856 Points: 142 # Comments: 196",
       "source": "Hacker News",
       "published": "2026-08-31T18:12:20+00:00",
       "link": "http://muratbuffalo.blogspot.com/2026/08/the-safest-job-from-ai-may-be-writing.html"
@@ -157,7 +192,7 @@ const FEED_DATA = {
     },
     {
       "title": "Marx, Keynes, and AI",
-      "summary": "Article URL: https://www.unpopularfront.news/p/marx-keynes-and-ai Comments URL: https://news.ycombinator.com/item?id=49510302 Points: 56 # Comments: 87",
+      "summary": "Article URL: https://www.unpopularfront.news/p/marx-keynes-and-ai Comments URL: https://news.ycombinator.com/item?id=49510302 Points: 56 # Comments: 90",
       "source": "Hacker News",
       "published": "2026-08-31T14:36:03+00:00",
       "link": "https://www.unpopularfront.news/p/marx-keynes-and-ai"
@@ -199,7 +234,7 @@ const FEED_DATA = {
     },
     {
       "title": "Apple caught off guard by AI demand for Mac Mini and Mac Studio",
-      "summary": "Article URL: https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand/ Comments URL: https://news.ycombinator.com/item?id=49508982 Points: 442 # Comments: 502",
+      "summary": "Article URL: https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand/ Comments URL: https://news.ycombinator.com/item?id=49508982 Points: 480 # Comments: 574",
       "source": "Hacker News",
       "published": "2026-08-31T12:41:22+00:00",
       "link": "https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand/"
@@ -297,7 +332,7 @@ const FEED_DATA = {
     },
     {
       "title": "What We Tell AI",
-      "summary": "Article URL: https://www.whatwetellai.com/ Comments URL: https://news.ycombinator.com/item?id=49497334 Points: 52 # Comments: 17",
+      "summary": "Article URL: https://www.whatwetellai.com/ Comments URL: https://news.ycombinator.com/item?id=49497334 Points: 53 # Comments: 17",
       "source": "Hacker News",
       "published": "2026-08-30T10:16:14+00:00",
       "link": "https://www.whatwetellai.com/"
@@ -318,7 +353,7 @@ const FEED_DATA = {
     },
     {
       "title": "Smartphone LED detects hidden cameras with AI",
-      "summary": "Article URL: https://www.chosun.com/english/industry-en/2026/08/30/SBFXUIJQYZEARKP5T4FBAY25HQ/ Comments URL: https://news.ycombinator.com/item?id=49496292 Points: 242 # Comments: 70",
+      "summary": "Article URL: https://www.chosun.com/english/industry-en/2026/08/30/SBFXUIJQYZEARKP5T4FBAY25HQ/ Comments URL: https://news.ycombinator.com/item?id=49496292 Points: 261 # Comments: 79",
       "source": "Hacker News",
       "published": "2026-08-30T06:52:04+00:00",
       "link": "https://www.chosun.com/english/industry-en/2026/08/30/SBFXUIJQYZEARKP5T4FBAY25HQ/"
@@ -374,7 +409,7 @@ const FEED_DATA = {
     },
     {
       "title": "Debian votes to allow \"responsible use of generative AI\"",
-      "summary": "Article URL: https://lwn.net/Articles/1091231/ Comments URL: https://news.ycombinator.com/item?id=49489982 Points: 513 # Comments: 478",
+      "summary": "Article URL: https://lwn.net/Articles/1091231/ Comments URL: https://news.ycombinator.com/item?id=49489982 Points: 514 # Comments: 483",
       "source": "Hacker News",
       "published": "2026-08-29T14:02:10+00:00",
       "link": "https://lwn.net/Articles/1091231/"
@@ -1365,41 +1400,6 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-08-25T19:03:47+00:00",
       "link": "https://techcrunch.com/2026/08/25/stability-ai-maker-of-image-generator-stable-diffusion-raises-76-million-in-fresh-funding/"
-    },
-    {
-      "title": "Russia used ChatGPT to run a covert influence campaign pushing pro-Kremlin narratives across the West",
-      "summary": "OpenAI has disrupted a covert Russian influence campaign that used ChatGPT to generate social media posts by banning a cluster of accounts.",
-      "source": "The Decoder",
-      "published": "2026-08-25T18:54:56+00:00",
-      "link": "https://the-decoder.com/russia-used-chatgpt-to-run-a-covert-influence-campaign-pushing-pro-kremlin-narratives-across-the-west/"
-    },
-    {
-      "title": "OpenAI's first custom chip \"Jalapeño\" reportedly beats Nvidia's Blackwell and Rubin in inference benchmarks",
-      "summary": "OpenAI showed off \"Jalapeño,\" its first in-house inference chip, with benchmarks at the Hot Chips conference. According to SemiAnalysis tests, the chip beats Nvidia's Blackwell and even Rubin in throughput and energy efficiency.",
-      "source": "The Decoder",
-      "published": "2026-08-25T18:00:50+00:00",
-      "link": "https://the-decoder.com/openais-first-custom-chip-jalapeno-reportedly-beats-nvidias-blackwell-and-rubin-in-inference-benchmarks/"
-    },
-    {
-      "title": "Claude Cowork finally remembers what you told the app in chat",
-      "summary": "Anthropic is giving Claude a shared memory across chat and Cowork, so users no longer have to repeatedly brief the AI on projects, preferences, and other context.",
-      "source": "TechCrunch",
-      "published": "2026-08-25T17:50:33+00:00",
-      "link": "https://techcrunch.com/2026/08/25/claude-cowork-finally-remembers-what-you-told-the-app-in-chat/"
-    },
-    {
-      "title": "Google launches Gemini for legal work to automate contracts and research",
-      "summary": "With Gemini Enterprise for Legal, Google launches an AI solution for the legal industry that connects to systems like iManage, DocuSign, and Everlaw through MCP connectors. Partners like Deloitte sell ready-made AI agents for tasks like contract review.",
-      "source": "The Decoder",
-      "published": "2026-08-25T16:21:09+00:00",
-      "link": "https://the-decoder.com/google-launches-gemini-for-legal-work-to-automate-contracts-and-research/"
-    },
-    {
-      "title": "MIT AI forecasts extreme weather without historical data",
-      "summary": "MIT engineers have built an AI tool that forecasts extreme weather without training on historical disaster data. Kai Chang, a mechanical engineering graduate student, and Professor Themis Sapsis developed the tool.",
-      "source": "AI News",
-      "published": "2026-08-25T15:46:06+00:00",
-      "link": "https://www.artificialintelligence-news.com/news/mit-ai-forecasts-extreme-weather-without-historical-data/"
     }
   ]
 };
