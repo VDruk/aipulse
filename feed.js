@@ -1,12 +1,33 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-09-01T22:54:47.435839+00:00",
+  "lastUpdated": "2026-09-02T05:26:35.725864+00:00",
   "items": [
+    {
+      "title": "Google needs Hollywood more than the studios need AI",
+      "summary": "Google has reportedly been reaching out to a number of Hollywood's biggest studios, hoping to strike licensing agreements that would allow it to train its AI models on copyrighted material in exchange for massive piles of cash.",
+      "source": "The Verge",
+      "published": "2026-09-01T22:50:29+00:00",
+      "link": "https://www.theverge.com/tech/987429/google-needs-hollywood-more-than-the-studios-need-ai"
+    },
     {
       "title": "AfterQuery reportedly becomes Y Combinator’s fastest-ever unicorn, now valued at $3.2B",
       "summary": "AI model-training startup AfterQuery has reportedly raised a round that valued it at $3.2 billion, just five months after announcing its $30 million Series A at a $300 million valuation in April.",
       "source": "TechCrunch",
       "published": "2026-09-01T22:08:24+00:00",
       "link": "https://techcrunch.com/2026/09/01/afterquery-reportedly-becomes-y-combinators-fastest-ever-unicorn-now-valued-at-3-2b/"
+    },
+    {
+      "title": "Anthropic launches Claude Fable 5.1 and says it’s up to 45 percent cheaper for agentic work",
+      "summary": "Anthropic says its newest AI models, Fable 5.1 and Mythos 5.1, address criticisms from customers about price, data retention, and overzealous safeguards.",
+      "source": "The Verge",
+      "published": "2026-09-01T22:01:36+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/987830/anthropic-claude-fable-mythos-5-1"
+    },
+    {
+      "title": "OpenAI’s Astra model is on the way — and very good at breaking into computer systems",
+      "summary": "OpenAI previewed the precautions it is taking as it prepares to release Astra, its newest, cyber-critical LLM.",
+      "source": "TechCrunch",
+      "published": "2026-09-01T21:06:24+00:00",
+      "link": "https://techcrunch.com/2026/09/01/open-ais-astra-model-is-on-the-way-and-very-good-at-breaking-into-computer-systems/"
     },
     {
       "title": "Open AI’s Astra model is on the way — and very good at breaking into computer systems",
@@ -21,6 +42,13 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-09-01T20:53:05+00:00",
       "link": "https://techcrunch.com/2026/09/01/googles-android-update-tackles-motion-sickness-accessibility-and-more/"
+    },
+    {
+      "title": "OpenAI delayed its new model’s development after the Hugging Face hack",
+      "summary": "After an unreleased OpenAI model wreaked enough havoc to make international headlines, OpenAI delayed the development of a different unreleased model suite, Astra, in order to shore up its safety work, the company wrote Tuesday in a blog post.",
+      "source": "The Verge",
+      "published": "2026-09-01T20:45:49+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/987695/openai-astra-unreleased-model-cybersecurity-delay"
     },
     {
       "title": "Anthropic opens Claude AI text detection to regulators, media, fact-checkers, and others",
@@ -1372,34 +1400,6 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-08-26T11:00:00+00:00",
       "link": "https://techcrunch.com/2026/08/26/runable-hits-21m-to-bet-ai-agents-can-go-from-building-businesses-to-growing-them/"
-    },
-    {
-      "title": "Bill Gates warns AI is more dangerous than the tech industry will admit",
-      "summary": "Bill Gates warns in an essay and an NYT interview about mass unemployment and easier bioterrorism through AI, and he accuses his own industry of deliberately hiding the risks.",
-      "source": "The Decoder",
-      "published": "2026-08-26T10:50:34+00:00",
-      "link": "https://the-decoder.com/bill-gates-warns-ai-is-more-dangerous-than-the-tech-industry-will-admit/"
-    },
-    {
-      "title": "Mark Zuckerberg had a bold plan to replace Meta staff with AI",
-      "summary": "Article URL: https://www.reuters.com/investigations/mark-zuckerberg-had-bold-plan-replace-meta-staff-with-ai-heres-how-it-imploded-2026-08-26/ Comments URL: https://news.ycombinator.com/item?id=49446722 Points: 57 # Comments: 17",
-      "source": "Hacker News",
-      "published": "2026-08-26T10:40:58+00:00",
-      "link": "https://www.reuters.com/investigations/mark-zuckerberg-had-bold-plan-replace-meta-staff-with-ai-heres-how-it-imploded-2026-08-26/"
-    },
-    {
-      "title": "IBM drops open-weight Granite 4.2 family with built-in agentic capabilities under Apache 2.0",
-      "summary": "IBM is releasing its Granite 4.2 language models in 3B, 8B, and 30B sizes, trained on about 15 trillion tokens with a context window of up to 512,000 tokens. The larger models use \"agentic RL\" training to learn tool use and code execution on their own.",
-      "source": "The Decoder",
-      "published": "2026-08-26T10:37:56+00:00",
-      "link": "https://the-decoder.com/ibm-drops-open-weight-granite-4-2-family-with-built-in-agentic-capabilities-under-apache-2-0/"
-    },
-    {
-      "title": "Z.ai confirms Ox Alpha is a new GLM-series model and will release its weights",
-      "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-08-26/china-s-z-ai-made-ox-alpha-stealth-model-that-rivals-deepseek Comments URL: https://news.ycombinator.com/item?id=49446422 Points: 430 # Comments: 146",
-      "source": "Hacker News",
-      "published": "2026-08-26T10:04:55+00:00",
-      "link": "https://www.bloomberg.com/news/articles/2026-08-26/china-s-z-ai-made-ox-alpha-stealth-model-that-rivals-deepseek"
     }
   ]
 };
