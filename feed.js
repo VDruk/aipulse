@@ -1,6 +1,118 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-09-02T13:01:19.131603+00:00",
+  "lastUpdated": "2026-09-02T17:02:56.045151+00:00",
   "items": [
+    {
+      "title": "Gemini 3.8 Flash is Google's third budget model in six weeks while frontier models remain MIA",
+      "summary": "Google's Gemini 3.8 Flash, the third Flash model in six weeks, matches Claude Opus 5 on some agentic coding benchmarks at lower cost.",
+      "source": "The Decoder",
+      "published": "2026-09-02T16:59:29+00:00",
+      "link": "https://the-decoder.com/gemini-3-8-flash-is-googles-third-budget-model-in-six-weeks-while-frontier-models-remain-mia/"
+    },
+    {
+      "title": "Researchers fear safety disaster ahead of OpenAI’s Astra release",
+      "summary": "OpenAI is on the cusp of releasing its most powerful AI model yet, Astra, following weeks of delays to shore up safety protocols after its agents attacked real targets during testing.",
+      "source": "The Verge",
+      "published": "2026-09-02T16:40:50+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/988334/openai-astra-ai-monitoring-safety"
+    },
+    {
+      "title": "The Trump administration is supporting OpenAI in the NYT copyright lawsuit",
+      "summary": "The Trump administration has intervened in The New York Times' copyright lawsuit against OpenAI, making an argument in favor of the AI lab.",
+      "source": "The Verge",
+      "published": "2026-09-02T16:12:25+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/988344/trump-administration-new-york-times-openai-lawsuit"
+    },
+    {
+      "title": "Wonderful more than doubles its valuation to $5B in under 6 months",
+      "summary": "Wonderful said it will use its $550 million Series C funding to develop products faster, expand its FDE teams, and meet demand for its products.",
+      "source": "TechCrunch",
+      "published": "2026-09-02T16:04:10+00:00",
+      "link": "https://techcrunch.com/2026/09/02/wonderful-more-than-doubles-its-valuation-to-5b-in-under-6-months/"
+    },
+    {
+      "title": "India’s richest man now wants to turn aging computers into AI-ready PCs",
+      "summary": "Jio is betting it can turn an aging computer into an AI-ready PC for as little as about $11 for two months.",
+      "source": "TechCrunch",
+      "published": "2026-09-02T16:01:48+00:00",
+      "link": "https://techcrunch.com/2026/09/02/indias-richest-man-now-wants-to-turn-aging-computers-into-ai-ready-pcs/"
+    },
+    {
+      "title": "The Logical End Point of AI Job Interviews Is Two Bots Talking to Each Other",
+      "summary": "Christopher was sick of being ghosted by AI recruiters. So he unleashed ChatGPT on his robot interviewer.",
+      "source": "Wired",
+      "published": "2026-09-02T15:51:46+00:00",
+      "link": "https://www.wired.com/story/bot-vs-bot-job-interview-ai/"
+    },
+    {
+      "title": "Google is sending MrBeast into the wilderness, armed with AI",
+      "summary": "MrBeast will feature Gemini, Google Health, and the Fitbit Air in upcoming videos as part of a multi-year partnership with Google.",
+      "source": "The Verge",
+      "published": "2026-09-02T15:47:03+00:00",
+      "link": "https://www.theverge.com/tech/988355/mrbeast-google-partnership-gemini-fitbit"
+    },
+    {
+      "title": "HiddenLayer nabs $100M as enterprises rush to secure their AI deployments",
+      "summary": "Security companies are scrambling to build products that can monitor not just agents but also the tools and add-ons they use.",
+      "source": "TechCrunch",
+      "published": "2026-09-02T15:01:23+00:00",
+      "link": "https://techcrunch.com/2026/09/02/hiddenlayer-nabs-100m-as-enterprises-rush-to-secure-their-ai-deployments/"
+    },
+    {
+      "title": "PSA: Amazon’s shopping AI can now tell you if that message is a scam",
+      "summary": "Amazon is adding a scam-detection feature to Alexa for Shopping that can verify whether suspicious emails, texts, and other messages actually came from the retailer.",
+      "source": "TechCrunch",
+      "published": "2026-09-02T14:56:34+00:00",
+      "link": "https://techcrunch.com/2026/09/02/psa-amazons-shopping-ai-can-now-tell-you-if-that-message-is-a-scam/"
+    },
+    {
+      "title": "US military adds ChatGPT and Grok to AI platform GenAI.mil",
+      "summary": "The Pentagon is expanding its AI platform with two new models, OpenAI's ChatGPT Mil and xAI's Grok for Government. The article US military adds ChatGPT and Grok to AI platform GenAI.mil appeared first on The Decoder.",
+      "source": "The Decoder",
+      "published": "2026-09-02T14:40:51+00:00",
+      "link": "https://the-decoder.com/us-military-adds-chatgpt-and-grok-to-ai-platform-genai-mil/"
+    },
+    {
+      "title": "OpenAI accused of ‘aiding and abetting’ Tumbler Ridge mass shooting in dozens of new lawsuits",
+      "summary": "OpenAI and its CEO Sam Altman are facing 30 new lawsuits that accuse them of providing \"substantial assistance and encouragement\" to the suspect in Canada's Tumbler Ridge school shooting, as reported earlier by TechCrunch.",
+      "source": "The Verge",
+      "published": "2026-09-02T14:35:03+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/988261/openai-tumbler-ridge-shooting-lawsuit-aiding-abetting"
+    },
+    {
+      "title": "NYC bans AI use for students until they reach high school",
+      "summary": "New York City mayor Zohran Mamdani has announced a new policy today that will ban younger schoolchildren from using AI in classrooms.",
+      "source": "The Verge",
+      "published": "2026-09-02T14:30:00+00:00",
+      "link": "https://www.theverge.com/policy/988228/nyc-ai-restrictions-in-schools-chatbot-ban"
+    },
+    {
+      "title": "Protests against AI data centers play into China's hands, Trump says",
+      "summary": "President Trump has pushed back hard against growing opposition to AI data centers across the US. The article Protests against AI data centers play into China's hands, Trump says appeared first on The Decoder.",
+      "source": "The Decoder",
+      "published": "2026-09-02T14:23:51+00:00",
+      "link": "https://the-decoder.com/protests-against-ai-data-centers-play-into-chinas-hands-trump-says/"
+    },
+    {
+      "title": "OpenAI calls Astra its most dangerous model yet - watching what it does is only getting harder",
+      "summary": "OpenAI is officially rating its upcoming Astra model as the first system with \"critical\" cyber capabilities. The company plans to keep it in check by monitoring the chain of thought.",
+      "source": "The Decoder",
+      "published": "2026-09-02T14:20:28+00:00",
+      "link": "https://the-decoder.com/openai-calls-astra-its-most-dangerous-model-yet-watching-what-it-does-is-only-getting-harder/"
+    },
+    {
+      "title": "Adobe acquires Indian market intelligence startup Rilo",
+      "summary": "This is Adobe's second acquisition out of India after Rephrase.ai in 2023",
+      "source": "TechCrunch",
+      "published": "2026-09-02T14:03:57+00:00",
+      "link": "https://techcrunch.com/2026/09/02/adobe-acquires-indian-market-intelligence-startup-rilo/"
+    },
+    {
+      "title": "Facilitating AI integration with simplicity at scale",
+      "summary": "As companies scale, the technology supporting operations can become a liability just as quickly as it becomes an asset.",
+      "source": "MIT Tech Review",
+      "published": "2026-09-02T14:00:00+00:00",
+      "link": "https://www.technologyreview.com/2026/09/02/1142879/facilitating-ai-integration-with-simplicity-at-scale/"
+    },
     {
       "title": "World Labs unveils Atlas, a single AI model that generates, reconstructs, and simulates 3D worlds from just a few photos",
       "summary": "World Labs, co-founded by AI researcher Fei-Fei Li, has announced Atlas, a world model that generates, reconstructs, and simulates 3D scenes from just a few images.",
@@ -1288,118 +1400,6 @@ const FEED_DATA = {
       "source": "Wired",
       "published": "2026-08-26T17:13:37+00:00",
       "link": "https://www.wired.com/story/candidates-are-signing-a-pact-promising-action-on-data-centers-and-ai-safety/"
-    },
-    {
-      "title": "Google’s new AI transcription edits out your ‘ums’ and ‘ahs’",
-      "summary": "Google has updated Gemini Audio with new transcription capabilities that automatically detect specialized jargon and more than 85 languages.",
-      "source": "The Verge",
-      "published": "2026-08-26T17:00:00+00:00",
-      "link": "https://www.theverge.com/tech/985186/google-gemini-3-5-transcribe-audio-ai"
-    },
-    {
-      "title": "The turbulent AI era is here",
-      "summary": "Article URL: https://www.gatesnotes.com/a-turbulent-ai-era-and-critical-choices-to-make Comments URL: https://news.ycombinator.com/item?id=49451313 Points: 363 # Comments: 6",
-      "source": "Hacker News",
-      "published": "2026-08-26T15:55:15+00:00",
-      "link": "https://www.gatesnotes.com/a-turbulent-ai-era-and-critical-choices-to-make"
-    },
-    {
-      "title": "Radar makes podcasts searchable — and usable by AI agents",
-      "summary": "Particle’s new podcast intelligence platform transcribes and analyzes more than 130,000 podcasts, making their conversations searchable on the web and accessible to AI agents through an API and MCP.",
-      "source": "TechCrunch",
-      "published": "2026-08-26T15:47:28+00:00",
-      "link": "https://techcrunch.com/2026/08/26/radar-makes-podcasts-searchable-and-usable-by-ai-agents/"
-    },
-    {
-      "title": "It’s so hard to finish an idea that is not yours and is just suggested by AI",
-      "summary": "Article URL: https://www.ssp.sh/brain/using-obsidian-with-ai/ Comments URL: https://news.ycombinator.com/item?id=49450898 Points: 261 # Comments: 188",
-      "source": "Hacker News",
-      "published": "2026-08-26T15:30:05+00:00",
-      "link": "https://www.ssp.sh/brain/using-obsidian-with-ai/"
-    },
-    {
-      "title": "WebMCP: Teaching Your Website to Talk to AI Agents",
-      "summary": "Article URL: https://sreenathmenon.com/blog/2026-08-04-webmcp-teaching-websites-to-talk-to-ai-agents/ Comments URL: https://news.ycombinator.com/item?id=49450417 Points: 57 # Comments: 59",
-      "source": "Hacker News",
-      "published": "2026-08-26T15:02:15+00:00",
-      "link": "https://sreenathmenon.com/blog/2026-08-04-webmcp-teaching-websites-to-talk-to-ai-agents/"
-    },
-    {
-      "title": "Ex-Meta scientists want to bring visual AI to the factory floor",
-      "summary": "Perceptron offers an AI model that it says can help machines navigate the world while also providing in-depth visual intelligence.",
-      "source": "TechCrunch",
-      "published": "2026-08-26T15:00:00+00:00",
-      "link": "https://techcrunch.com/2026/08/26/ex-meta-scientists-want-to-bring-visual-ai-to-the-factory-floor/"
-    },
-    {
-      "title": "GLM-5.3-Flash Intelligence, Performance and Price Analysis",
-      "summary": "Article URL: https://artificialanalysis.ai/models/glm-5-3-flash Comments URL: https://news.ycombinator.com/item?id=49450353 Points: 139 # Comments: 59",
-      "source": "Hacker News",
-      "published": "2026-08-26T14:58:54+00:00",
-      "link": "https://artificialanalysis.ai/models/glm-5-3-flash"
-    },
-    {
-      "title": "Alibaba releases Qwen3.8-Flash-Next, targeting \"ultimate cost efficiency\"",
-      "summary": "Alibaba's Qwen team is previewing the Qwen4 architecture with Qwen3.8-Flash-Next, a mixture-of-experts model that activates just 6 out of 125 billion parameters per token.",
-      "source": "The Decoder",
-      "published": "2026-08-26T14:40:09+00:00",
-      "link": "https://the-decoder.com/alibaba-releases-qwen3-8-flash-next-targeting-ultimate-cost-efficiency/"
-    },
-    {
-      "title": "Bill Gates wants to see a robot tax and ‘Human Reserved’ jobs to mitigate harms from AI",
-      "summary": "Gates is mostly in the Responsible AI camp, but there are a few ideas in here we hadn't heard before.",
-      "source": "TechCrunch",
-      "published": "2026-08-26T14:37:01+00:00",
-      "link": "https://techcrunch.com/2026/08/26/bill-gates-wants-to-see-a-robot-tax-and-human-reserved-jobs-to-mitigate-harms-from-ai/"
-    },
-    {
-      "title": "Orchestration is the new challenge for CX in the age of AI agents",
-      "summary": "Presented by Tata Communications Enterprises are deploying AI agents, voice AI, and automation across messaging, voice, and digital channels faster than the architecture meant to support it.",
-      "source": "VentureBeat",
-      "published": "2026-08-26T14:30:00+00:00",
-      "link": "https://venturebeat.com/orchestration/orchestration-is-the-new-challenge-for-cx-in-the-age-of-ai-agents"
-    },
-    {
-      "title": "Surprise: Z.ai is the AI lab behind the mysterious Ox Alpha model",
-      "summary": "Z.ai confirms it is behind Ox Alpha, the mysterious open AI model topping benchmarks and leaderboards, and its weights are set to be released soon.",
-      "source": "TechCrunch",
-      "published": "2026-08-26T14:19:29+00:00",
-      "link": "https://techcrunch.com/2026/08/26/surprise-z-ai-is-the-ai-lab-behind-the-mysterious-ox-alpha-model/"
-    },
-    {
-      "title": "Show HN: How much of Hacker News is about AI?",
-      "summary": "This website counts titles containing the standalone word \"AI\", case-sensitive and word-bounded. \"OpenAI\" doesn't count.",
-      "source": "Hacker News",
-      "published": "2026-08-26T14:16:05+00:00",
-      "link": "https://hnstats.com"
-    },
-    {
-      "title": "AI Is a Harsh Mistress",
-      "summary": "Article URL: https://cacm.acm.org/opinion/ai-is-a-harsh-mistress-on-anima-machina-herd-acceptance-and-the-politics-of-conscious-machines/ Comments URL: https://news.ycombinator.com/item?id=49449082 Points: 57 # Comments: 52",
-      "source": "Hacker News",
-      "published": "2026-08-26T13:45:21+00:00",
-      "link": "https://cacm.acm.org/opinion/ai-is-a-harsh-mistress-on-anima-machina-herd-acceptance-and-the-politics-of-conscious-machines/"
-    },
-    {
-      "title": "Robot brain builders are pushing out of their GPT-2 era",
-      "summary": "Robot bodies are waiting for their AI brains to catch up.",
-      "source": "TechCrunch",
-      "published": "2026-08-26T13:30:00+00:00",
-      "link": "https://techcrunch.com/2026/08/26/robot-brain-builders-are-pushing-out-of-their-gpt-2-era/"
-    },
-    {
-      "title": "Employee revolt and failing agents forced Meta to scrap its AI layoff plan",
-      "summary": "Meta wanted to replace far more of its workforce with AI than previously known, according to Reuters, but the plan collapsed under rebellious employees and agents that failed to deliver.",
-      "source": "The Decoder",
-      "published": "2026-08-26T13:09:04+00:00",
-      "link": "https://the-decoder.com/employee-revolt-and-failing-agents-forced-meta-to-scrap-its-ai-layoff-plan/"
-    },
-    {
-      "title": "QueryStory wants you to believe what AI is telling you",
-      "summary": "The startup came out of stealth with $6 million in seed funding and a plan to use LLMs and cybersecurity know-how to make AI queries coherent.",
-      "source": "TechCrunch",
-      "published": "2026-08-26T13:00:00+00:00",
-      "link": "https://techcrunch.com/2026/08/26/querystory-wants-you-to-believe-what-ai-is-telling-you/"
     }
   ]
 };
