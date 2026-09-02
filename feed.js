@@ -1,6 +1,55 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-09-02T17:02:56.045151+00:00",
+  "lastUpdated": "2026-09-02T19:35:40.490357+00:00",
   "items": [
+    {
+      "title": "Trump Administration Sides With OpenAI in New York Times Copyright Lawsuit",
+      "summary": "The US government wrote a letter in support of OpenAI’s argument that training AI on others' intellectual property is fair use.",
+      "source": "Wired",
+      "published": "2026-09-02T18:41:02+00:00",
+      "link": "https://www.wired.com/story/trump-administration-sides-with-ai-giants-new-york-times-lawsuit/"
+    },
+    {
+      "title": "US Department of Justice backs fair use for AI training in landmark copyright case",
+      "summary": "In the class-action lawsuit involving The New York Times, the US Department of Justice argues that training AI models on copyrighted text qualifies as fair use. The filing directly contradicts a report from the US Copyright Office.",
+      "source": "The Decoder",
+      "published": "2026-09-02T18:24:42+00:00",
+      "link": "https://the-decoder.com/us-department-of-justice-backs-fair-use-for-ai-training-in-landmark-copyright-case/"
+    },
+    {
+      "title": "These Russian Mathematicians Taught AI Models How to Talk to Each Other Without Using Words",
+      "summary": "A startup called Mostik has a wild new approach to combining the capabilities of AI models.",
+      "source": "Wired",
+      "published": "2026-09-02T18:20:00+00:00",
+      "link": "https://www.wired.com/story/russian-startup-mostik-ai-models-communication/"
+    },
+    {
+      "title": "Amazon’s AI assistant can now spot fake emails from the company",
+      "summary": "Amazon is trying to combat impersonation scams with a new feature that allows you to use its AI assistant to determine whether an email, text message, or phone call actually came from the company.",
+      "source": "The Verge",
+      "published": "2026-09-02T17:52:56+00:00",
+      "link": "https://www.theverge.com/tech/988518/amazon-alexa-for-shopping-verify-emails"
+    },
+    {
+      "title": "Pangram’s Max Spero on why AI detection is harder than ‘Real or Fake’",
+      "summary": "The internet has a trust problem, and it’s not just because social media feeds are filling up with AI slop.",
+      "source": "TechCrunch",
+      "published": "2026-09-02T17:18:13+00:00",
+      "link": "https://techcrunch.com/video/pangrams-max-spero-on-why-ai-detection-is-harder-than-real-or-fake/"
+    },
+    {
+      "title": "We’re ‘dangerously close’ to dead internet theory, says Pangram’s CEO",
+      "summary": "The internet has a trust problem, and it’s not just because social media feeds are filling up with AI slop.",
+      "source": "TechCrunch",
+      "published": "2026-09-02T17:09:57+00:00",
+      "link": "https://techcrunch.com/podcast/were-dangerously-close-to-dead-internet-theory-says-pangrams-ceo/"
+    },
+    {
+      "title": "US government sides with OpenAI on issue of training LLMs on copyrighted material",
+      "summary": "\"The United States has a strong interest in continuing to develop a robust and competitive artificial intelligence industry that sets the standard for the practice and procedure of AI use globally,\" the brief reads.",
+      "source": "TechCrunch",
+      "published": "2026-09-02T17:09:06+00:00",
+      "link": "https://techcrunch.com/2026/09/02/u-s-government-sides-with-openai-on-issue-of-training-llms-on-copyrighted-material/"
+    },
     {
       "title": "Gemini 3.8 Flash is Google's third budget model in six weeks while frontier models remain MIA",
       "summary": "Google's Gemini 3.8 Flash, the third Flash model in six weeks, matches Claude Opus 5 on some agentic coding benchmarks at lower cost.",
@@ -49,6 +98,13 @@ const FEED_DATA = {
       "source": "The Verge",
       "published": "2026-09-02T15:47:03+00:00",
       "link": "https://www.theverge.com/tech/988355/mrbeast-google-partnership-gemini-fitbit"
+    },
+    {
+      "title": "Motional and MIT AI explains self-driving car decisions",
+      "summary": "Motional and MIT researchers have built a system that lets self-driving cars explain their decisions in real-time, tackling the black-box problem in autonomous vehicle AI.",
+      "source": "AI News",
+      "published": "2026-09-02T15:25:12+00:00",
+      "link": "https://www.artificialintelligence-news.com/news/motional-and-mit-ai-explains-self-driving-car-decisions/"
     },
     {
       "title": "HiddenLayer nabs $100M as enterprises rush to secure their AI deployments",
@@ -107,11 +163,32 @@ const FEED_DATA = {
       "link": "https://techcrunch.com/2026/09/02/adobe-acquires-indian-market-intelligence-startup-rilo/"
     },
     {
+      "title": "WebLLM: high-performance in-browser LLM inference engine",
+      "summary": "Article URL: https://github.com/mlc-ai/web-llm Comments URL: https://news.ycombinator.com/item?id=49536411 Points: 60 # Comments: 14",
+      "source": "Hacker News",
+      "published": "2026-09-02T14:02:35+00:00",
+      "link": "https://github.com/mlc-ai/web-llm"
+    },
+    {
       "title": "Facilitating AI integration with simplicity at scale",
       "summary": "As companies scale, the technology supporting operations can become a liability just as quickly as it becomes an asset.",
       "source": "MIT Tech Review",
       "published": "2026-09-02T14:00:00+00:00",
       "link": "https://www.technologyreview.com/2026/09/02/1142879/facilitating-ai-integration-with-simplicity-at-scale/"
+    },
+    {
+      "title": "Three sites made 215,128 “best software” pages for AI. Perplexity cites them",
+      "summary": "Article URL: https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/ Comments URL: https://news.ycombinator.com/item?id=49536375 Points: 234 # Comments: 109",
+      "source": "Hacker News",
+      "published": "2026-09-02T13:59:59+00:00",
+      "link": "https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/"
+    },
+    {
+      "title": "LLMs: Intelligence vs. Cost",
+      "summary": "Article URL: https://openteams.com/intelligence-vs-cost/ Comments URL: https://news.ycombinator.com/item?id=49535586 Points: 60 # Comments: 31",
+      "source": "Hacker News",
+      "published": "2026-09-02T13:03:50+00:00",
+      "link": "https://openteams.com/intelligence-vs-cost/"
     },
     {
       "title": "World Labs unveils Atlas, a single AI model that generates, reconstructs, and simulates 3D worlds from just a few photos",
@@ -135,6 +212,13 @@ const FEED_DATA = {
       "link": "https://techcrunch.com/2026/09/02/openai-faces-30-more-lawsuits-tied-to-tumbler-ridge-shooting/"
     },
     {
+      "title": "Quasar 438B: Europe's Leading AI Model",
+      "summary": "Article URL: https://multiversecomputing.com/resources/introducing-quasar-438b-europe-s-leading-ai-model Comments URL: https://news.ycombinator.com/item?id=49534132 Points: 150 # Comments: 98",
+      "source": "Hacker News",
+      "published": "2026-09-02T10:02:41+00:00",
+      "link": "https://multiversecomputing.com/resources/introducing-quasar-438b-europe-s-leading-ai-model"
+    },
+    {
       "title": "Pangram Has Emerged as the Gold Standard of AI Detection. Should You Trust It?",
       "summary": "Meet the AI police who can make or break careers—in publishing and beyond.",
       "source": "Wired",
@@ -150,14 +234,14 @@ const FEED_DATA = {
     },
     {
       "title": "The Emergent Symbolic Structure of Artificial Neural Networks",
-      "summary": "Article URL: https://arxiv.org/abs/2608.29530 Comments URL: https://news.ycombinator.com/item?id=49531651 Points: 198 # Comments: 64",
+      "summary": "Article URL: https://arxiv.org/abs/2608.29530 Comments URL: https://news.ycombinator.com/item?id=49531651 Points: 264 # Comments: 89",
       "source": "Hacker News",
       "published": "2026-09-02T04:15:56+00:00",
       "link": "https://arxiv.org/abs/2608.29530"
     },
     {
       "title": "The efficient frontier of LLM inference",
-      "summary": "Article URL: https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference/ Comments URL: https://news.ycombinator.com/item?id=49529898 Points: 133 # Comments: 38",
+      "summary": "Article URL: https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference/ Comments URL: https://news.ycombinator.com/item?id=49529898 Points: 146 # Comments: 41",
       "source": "Hacker News",
       "published": "2026-09-01T23:48:05+00:00",
       "link": "https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference/"
@@ -262,7 +346,7 @@ const FEED_DATA = {
     },
     {
       "title": "How accurate have Ed Zitron's AI skeptic predictions been?",
-      "summary": "Article URL: https://danluu.com/zitron/ Comments URL: https://news.ycombinator.com/item?id=49526069 Points: 776 # Comments: 851",
+      "summary": "Article URL: https://danluu.com/zitron/ Comments URL: https://news.ycombinator.com/item?id=49526069 Points: 834 # Comments: 968",
       "source": "Hacker News",
       "published": "2026-09-01T18:35:15+00:00",
       "link": "https://danluu.com/zitron/"
@@ -276,7 +360,7 @@ const FEED_DATA = {
     },
     {
       "title": "Atlas: A World Model for Spatial Intelligence",
-      "summary": "Article URL: https://www.worldlabs.ai/blog/atlas Comments URL: https://news.ycombinator.com/item?id=49525160 Points: 235 # Comments: 55",
+      "summary": "Article URL: https://www.worldlabs.ai/blog/atlas Comments URL: https://news.ycombinator.com/item?id=49525160 Points: 252 # Comments: 58",
       "source": "Hacker News",
       "published": "2026-09-01T17:36:02+00:00",
       "link": "https://www.worldlabs.ai/blog/atlas"
@@ -303,6 +387,13 @@ const FEED_DATA = {
       "link": "https://the-decoder.com/google-deepminds-new-chief-says-frontier-ai-leadership-is-the-only-thing-that-matters/"
     },
     {
+      "title": "ChatGPT Ads passes $1B run rate in 200 days",
+      "summary": "ChatGPT Ads has hit $1 billion in annualised revenue run rate in under 200 days, and OpenAI is expanding self-service ads to new regions.",
+      "source": "AI News",
+      "published": "2026-09-01T16:05:27+00:00",
+      "link": "https://www.artificialintelligence-news.com/news/chatgpt-ads-passes-1b-run-rate-in-200-days/"
+    },
+    {
       "title": "John Deere launched an AI chatbot for farmers",
       "summary": "John Deere is testing a new \"JD\" AI assistant that it says can help farmers make more money, with answers about best practices and historical trends that are based on their own data.",
       "source": "The Verge",
@@ -318,7 +409,7 @@ const FEED_DATA = {
     },
     {
       "title": "Dwarf Fortress' creator says the industry's in shambles over AI",
-      "summary": "Article URL: https://www.pcgamer.com/gaming-industry/dwarf-fortress-creator-says-the-industrys-in-shambles-over-ai-and-layoff-happy-ceos-everyone-i-know-their-bosses-are-slowly-getting-psychosis/ Comments URL: https://news.ycombinator.com/item?id=49523720 Points: 229 # Comments:...",
+      "summary": "Article URL: https://www.pcgamer.com/gaming-industry/dwarf-fortress-creator-says-the-industrys-in-shambles-over-ai-and-layoff-happy-ceos-everyone-i-know-their-bosses-are-slowly-getting-psychosis/ Comments URL: https://news.ycombinator.com/item?id=49523720 Points: 234 # Comments:...",
       "source": "Hacker News",
       "published": "2026-09-01T15:53:42+00:00",
       "link": "https://www.pcgamer.com/gaming-industry/dwarf-fortress-creator-says-the-industrys-in-shambles-over-ai-and-layoff-happy-ceos-everyone-i-know-their-bosses-are-slowly-getting-psychosis/"
@@ -367,7 +458,7 @@ const FEED_DATA = {
     },
     {
       "title": "EFF to Courts: Don't Rewrite Copyright over AI Hype",
-      "summary": "Article URL: https://www.eff.org/deeplinks/2026/08/eff-courts-dont-rewrite-copyright-over-ai-hype Comments URL: https://news.ycombinator.com/item?id=49521315 Points: 163 # Comments: 187",
+      "summary": "Article URL: https://www.eff.org/deeplinks/2026/08/eff-courts-dont-rewrite-copyright-over-ai-hype Comments URL: https://news.ycombinator.com/item?id=49521315 Points: 163 # Comments: 188",
       "source": "Hacker News",
       "published": "2026-09-01T12:53:51+00:00",
       "link": "https://www.eff.org/deeplinks/2026/08/eff-courts-dont-rewrite-copyright-over-ai-hype"
@@ -394,8 +485,15 @@ const FEED_DATA = {
       "link": "https://www.technologyreview.com/2026/09/01/1143199/the-download-engineered-microbes-openai-safety-culture/"
     },
     {
+      "title": "Why MCP servers are becoming AI’s newest attack surface",
+      "summary": "As AI adoption gathers pace, so does the evolution of the infrastructure that supports it. New standards and connectors keep appearing, and the ones that catch on spread through the ecosystem within months rather than years.",
+      "source": "AI News",
+      "published": "2026-09-01T07:37:26+00:00",
+      "link": "https://www.artificialintelligence-news.com/news/why-mcp-servers-are-becoming-ais-newest-attack-surface/"
+    },
+    {
       "title": "AI Can Make You Suck Faster Too",
-      "summary": "Article URL: https://www.hermit-tech.com/blog/ai-can-make-you-suck-faster-too Comments URL: https://news.ycombinator.com/item?id=49518316 Points: 179 # Comments: 164",
+      "summary": "Article URL: https://www.hermit-tech.com/blog/ai-can-make-you-suck-faster-too Comments URL: https://news.ycombinator.com/item?id=49518316 Points: 183 # Comments: 167",
       "source": "Hacker News",
       "published": "2026-09-01T05:32:56+00:00",
       "link": "https://www.hermit-tech.com/blog/ai-can-make-you-suck-faster-too"
@@ -430,7 +528,7 @@ const FEED_DATA = {
     },
     {
       "title": "The safest job from AI may be writing",
-      "summary": "Article URL: http://muratbuffalo.blogspot.com/2026/08/the-safest-job-from-ai-may-be-writing.html Comments URL: https://news.ycombinator.com/item?id=49512856 Points: 146 # Comments: 205",
+      "summary": "Article URL: http://muratbuffalo.blogspot.com/2026/08/the-safest-job-from-ai-may-be-writing.html Comments URL: https://news.ycombinator.com/item?id=49512856 Points: 149 # Comments: 206",
       "source": "Hacker News",
       "published": "2026-08-31T18:12:20+00:00",
       "link": "http://muratbuffalo.blogspot.com/2026/08/the-safest-job-from-ai-may-be-writing.html"
@@ -507,7 +605,7 @@ const FEED_DATA = {
     },
     {
       "title": "Marx, Keynes, and AI",
-      "summary": "Article URL: https://www.unpopularfront.news/p/marx-keynes-and-ai Comments URL: https://news.ycombinator.com/item?id=49510302 Points: 59 # Comments: 91",
+      "summary": "Article URL: https://www.unpopularfront.news/p/marx-keynes-and-ai Comments URL: https://news.ycombinator.com/item?id=49510302 Points: 59 # Comments: 93",
       "source": "Hacker News",
       "published": "2026-08-31T14:36:03+00:00",
       "link": "https://www.unpopularfront.news/p/marx-keynes-and-ai"
@@ -549,14 +647,14 @@ const FEED_DATA = {
     },
     {
       "title": "Apple caught off guard by AI demand for Mac Mini and Mac Studio",
-      "summary": "Article URL: https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand/ Comments URL: https://news.ycombinator.com/item?id=49508982 Points: 492 # Comments: 588",
+      "summary": "Article URL: https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand/ Comments URL: https://news.ycombinator.com/item?id=49508982 Points: 495 # Comments: 590",
       "source": "Hacker News",
       "published": "2026-08-31T12:41:22+00:00",
       "link": "https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand/"
     },
     {
       "title": "AI-written code is still your code",
-      "summary": "Article URL: https://martiansoftware.com/articles/ai-written-code-is-still-yours Comments URL: https://news.ycombinator.com/item?id=49508664 Points: 58 # Comments: 91",
+      "summary": "Article URL: https://martiansoftware.com/articles/ai-written-code-is-still-yours Comments URL: https://news.ycombinator.com/item?id=49508664 Points: 58 # Comments: 92",
       "source": "Hacker News",
       "published": "2026-08-31T12:08:25+00:00",
       "link": "https://martiansoftware.com/articles/ai-written-code-is-still-yours"
@@ -570,7 +668,7 @@ const FEED_DATA = {
     },
     {
       "title": "You Know Who Hates AI? Insurance Claims Adjusters",
-      "summary": "Article URL: https://www.wired.com/story/insurance-claims-adjusters-really-hate-ai/ Comments URL: https://news.ycombinator.com/item?id=49508225 Points: 66 # Comments: 32",
+      "summary": "Article URL: https://www.wired.com/story/insurance-claims-adjusters-really-hate-ai/ Comments URL: https://news.ycombinator.com/item?id=49508225 Points: 132 # Comments: 129",
       "source": "Hacker News",
       "published": "2026-08-31T11:01:19+00:00",
       "link": "https://www.wired.com/story/insurance-claims-adjusters-really-hate-ai/"
@@ -626,7 +724,7 @@ const FEED_DATA = {
     },
     {
       "title": "No AI Fridays",
-      "summary": "Article URL: https://noaifridays.com/ Comments URL: https://news.ycombinator.com/item?id=49498095 Points: 289 # Comments: 205",
+      "summary": "Article URL: https://noaifridays.com/ Comments URL: https://news.ycombinator.com/item?id=49498095 Points: 290 # Comments: 205",
       "source": "Hacker News",
       "published": "2026-08-30T12:31:05+00:00",
       "link": "https://noaifridays.com/"
@@ -1302,104 +1400,6 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-08-27T00:24:57+00:00",
       "link": "https://techcrunch.com/2026/08/26/viral-ai-startup-instinct-has-raised-350-million-at-a-2-5-billion-valuation/"
-    },
-    {
-      "title": "Amazon just tripled its order of Nvidia chips over ‘surging demand’",
-      "summary": "Amazon is adding another 2 million Nvidia GPU chips to its data centers over the next two years. But this extended partnerships stretches beyond buying more chips.",
-      "source": "TechCrunch",
-      "published": "2026-08-26T23:47:18+00:00",
-      "link": "https://techcrunch.com/2026/08/26/amazon-just-tripled-its-order-of-nvidia-chips-over-surging-demand/"
-    },
-    {
-      "title": "Nvidia is about to be a hundred-billion-dollar-a-quarter company",
-      "summary": "Nvidia's predicting it will pull in $108 billion in revenue within just a few months. It wouldn't be the first company to rake in over $100 billion in quarterly revenue - Amazon, Apple, and Alphabet have repeatedly reached the milestone.",
-      "source": "The Verge",
-      "published": "2026-08-26T21:40:53+00:00",
-      "link": "https://www.theverge.com/tech/985387/nvidia-hundred-billion-dollar-quarterly-revenue"
-    },
-    {
-      "title": "Anthropic continues compute-gobbling streak in $45B deal with Nscale",
-      "summary": "The new deal with the infrastructure provider is the latest example of Anthropic's white-hot compute-gobbling streak.",
-      "source": "TechCrunch",
-      "published": "2026-08-26T21:37:39+00:00",
-      "link": "https://techcrunch.com/2026/08/26/anthropic-continues-compute-gobbling-streak-in-45-billion-deal-with-nscale/"
-    },
-    {
-      "title": "OpenAI’s rogue AI model incident was worse than we thought",
-      "summary": "In July, an unreleased OpenAI model broke out of a restricted environment, figured out how to get access to the internet, allowed AI agents to talk to each other using a secret \"message board,\" and hacked into the internal systems of a different AI lab, Hugging Face.",
-      "source": "The Verge",
-      "published": "2026-08-26T21:36:06+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/985385/openais-rogue-ai-model-hugging-face-cybersecurity-incident-reports-metr"
-    },
-    {
-      "title": "AI agents meant to replace Meta workers made “large-scale, disruptive actions”",
-      "summary": "Report shows Meta's challenges replacing people with AI agents.",
-      "source": "Ars Technica",
-      "published": "2026-08-26T21:25:27+00:00",
-      "link": "https://arstechnica.com/ai/2026/08/metas-scrapped-plans-to-go-ai-native-included-slashing-teams-by-60-percent/"
-    },
-    {
-      "title": "Serve Markdown to AI Agents with Accept Headers",
-      "summary": "Article URL: https://acceptmarkdown.com/ Comments URL: https://news.ycombinator.com/item?id=49454764 Points: 176 # Comments: 108",
-      "source": "Hacker News",
-      "published": "2026-08-26T19:45:59+00:00",
-      "link": "https://acceptmarkdown.com/"
-    },
-    {
-      "title": "Google’s Gemini has a branding problem, and so does the rest of AI",
-      "summary": "Consumer AI apps need to stop making users learn their product architecture.",
-      "source": "TechCrunch",
-      "published": "2026-08-26T19:37:34+00:00",
-      "link": "https://techcrunch.com/2026/08/26/googles-gemini-has-a-branding-problem-and-so-does-the-rest-of-ai/"
-    },
-    {
-      "title": "How do we explain OpenAI’s executive exodus?",
-      "summary": "Was Greg Brockman the right executive all along?",
-      "source": "TechCrunch",
-      "published": "2026-08-26T19:34:04+00:00",
-      "link": "https://techcrunch.com/2026/08/26/how-do-we-explain-openais-executive-exodus/"
-    },
-    {
-      "title": "What We Still Don’t Know About OpenAI’s Hugging Face Hack",
-      "summary": "The AI giant acknowledges that it could have done far more to prevent its AI agents from going rogue. But it still fails to explain why it didn't see this fiasco coming.",
-      "source": "Wired",
-      "published": "2026-08-26T19:16:42+00:00",
-      "link": "https://www.wired.com/story/openais-hugging-face-hack-debrief-raises-more-questions-than-it-answers/"
-    },
-    {
-      "title": "OpenAI releases its official report on the Hugging Face breach",
-      "summary": "The report, which spans several discrete cybersecurity compromises, is the most complete accounting of the incident to date.",
-      "source": "TechCrunch",
-      "published": "2026-08-26T19:05:22+00:00",
-      "link": "https://techcrunch.com/2026/08/26/openai-releases-its-official-report-on-the-hugging-face-breach/"
-    },
-    {
-      "title": "The inside story on why OpenAI agents hacked Hugging Face",
-      "summary": "The models responsible for last month’s agent hack of Hugging Face had been inadvertently trained to cheat and to communicate with each other, according to an OpenAI technical report released today.",
-      "source": "MIT Tech Review",
-      "published": "2026-08-26T19:00:00+00:00",
-      "link": "https://www.technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face/"
-    },
-    {
-      "title": "The Humanoids at China’s Robot Games Were Faster Than Usain Bolt—but I’m More Impressed by Their Tweezer Mastery",
-      "summary": "Beijing’s endlessly delightful Robot Games featured tons of impressive stunts. But the most mind-blowing tricks challenged the humanoid’s brain, not its brawn.",
-      "source": "Wired",
-      "published": "2026-08-26T18:15:00+00:00",
-      "link": "https://www.wired.com/story/i-could-watch-the-robot-games-forever-ai-lab/"
-    },
-    {
-      "title": "Sam Altman says OpenAI will have AGI by the end of 2026 if you accept his definition",
-      "summary": "OpenAI's leadership believes AGI is within reach, according to a TIME report. The company's upcoming model Astra already works as an automated research intern, according to chief scientist Jakub Pachocki.",
-      "source": "The Decoder",
-      "published": "2026-08-26T17:30:29+00:00",
-      "link": "https://the-decoder.com/sam-altman-says-openai-will-have-agi-by-the-end-of-2026-if-you-accept-his-definition/"
-    },
-    {
-      "title": "Candidates Are Signing a Pact Promising Action on Data Centers and AI Safety",
-      "summary": "More than 15 politicians from across the country have signed on to the AI Pact, vowing to regulate data centers and AI. “We’ve got to get this right,” says Senate candidate Dan Osborn of Nebraska.",
-      "source": "Wired",
-      "published": "2026-08-26T17:13:37+00:00",
-      "link": "https://www.wired.com/story/candidates-are-signing-a-pact-promising-action-on-data-centers-and-ai-safety/"
     }
   ]
 };
