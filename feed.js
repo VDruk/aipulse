@@ -1,6 +1,27 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-09-02T05:26:35.725864+00:00",
+  "lastUpdated": "2026-09-02T09:21:13.443730+00:00",
   "items": [
+    {
+      "title": "Google Gemini's new agent-based video analysis cuts token usage by up to 88 percent",
+      "summary": "Google is adding agent-based video analysis to Gemini 3.7 Flash, 3.6 Flash, and 3.5 Flash-Lite. Instead of scanning videos frame by frame at a fixed rate, the model decides on its own which segments to examine and at what resolution.",
+      "source": "The Decoder",
+      "published": "2026-09-02T08:21:38+00:00",
+      "link": "https://the-decoder.com/google-geminis-new-agent-based-video-analysis-cuts-token-usage-by-up-to-88-percent/"
+    },
+    {
+      "title": "The Emergent Symbolic Structure of Artificial Neural Networks",
+      "summary": "Article URL: https://arxiv.org/abs/2608.29530 Comments URL: https://news.ycombinator.com/item?id=49531651 Points: 133 # Comments: 42",
+      "source": "Hacker News",
+      "published": "2026-09-02T04:15:56+00:00",
+      "link": "https://arxiv.org/abs/2608.29530"
+    },
+    {
+      "title": "The efficient frontier of LLM inference",
+      "summary": "Article URL: https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference/ Comments URL: https://news.ycombinator.com/item?id=49529898 Points: 118 # Comments: 30",
+      "source": "Hacker News",
+      "published": "2026-09-01T23:48:05+00:00",
+      "link": "https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference/"
+    },
     {
       "title": "Google needs Hollywood more than the studios need AI",
       "summary": "Google has reportedly been reaching out to a number of Hollywood's biggest studios, hoping to strike licensing agreements that would allow it to train its AI models on copyrighted material in exchange for massive piles of cash.",
@@ -14,6 +35,13 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-09-01T22:08:24+00:00",
       "link": "https://techcrunch.com/2026/09/01/afterquery-reportedly-becomes-y-combinators-fastest-ever-unicorn-now-valued-at-3-2b/"
+    },
+    {
+      "title": "Show HN: Weedout – Safari extension that hides YouTube AI-labeled videos",
+      "summary": "I'm the developer. I built this because AI-generated conspiracy videos were getting out of control in my own YouTube feed.",
+      "source": "Hacker News",
+      "published": "2026-09-01T22:06:57+00:00",
+      "link": "https://masteranza.github.io/weedout/"
     },
     {
       "title": "Anthropic launches Claude Fable 5.1 and says it’s up to 45 percent cheaper for agentic work",
@@ -93,6 +121,13 @@ const FEED_DATA = {
       "link": "https://www.theverge.com/ai-artificial-intelligence/987566/ai-civilizations-opeai-hugging-face-hack"
     },
     {
+      "title": "How accurate have Ed Zitron's AI skeptic predictions been?",
+      "summary": "Article URL: https://danluu.com/zitron/ Comments URL: https://news.ycombinator.com/item?id=49526069 Points: 692 # Comments: 753",
+      "source": "Hacker News",
+      "published": "2026-09-01T18:35:15+00:00",
+      "link": "https://danluu.com/zitron/"
+    },
+    {
       "title": "Apple accuses OpenAI of destroying evidence",
       "summary": "Apple is pushing for \"expedited discovery\" in its legal battle against OpenAI over concerns the company is actively destroying evidence, as reported earlier by Bloomberg.",
       "source": "The Verge",
@@ -101,7 +136,7 @@ const FEED_DATA = {
     },
     {
       "title": "Atlas: A World Model for Spatial Intelligence",
-      "summary": "Article URL: https://www.worldlabs.ai/blog/atlas Comments URL: https://news.ycombinator.com/item?id=49525160 Points: 56 # Comments: 2",
+      "summary": "Article URL: https://www.worldlabs.ai/blog/atlas Comments URL: https://news.ycombinator.com/item?id=49525160 Points: 222 # Comments: 53",
       "source": "Hacker News",
       "published": "2026-09-01T17:36:02+00:00",
       "link": "https://www.worldlabs.ai/blog/atlas"
@@ -143,7 +178,7 @@ const FEED_DATA = {
     },
     {
       "title": "Dwarf Fortress' creator says the industry's in shambles over AI",
-      "summary": "Article URL: https://www.pcgamer.com/gaming-industry/dwarf-fortress-creator-says-the-industrys-in-shambles-over-ai-and-layoff-happy-ceos-everyone-i-know-their-bosses-are-slowly-getting-psychosis/ Comments URL: https://news.ycombinator.com/item?id=49523720 Points: 131 # Comments:...",
+      "summary": "Article URL: https://www.pcgamer.com/gaming-industry/dwarf-fortress-creator-says-the-industrys-in-shambles-over-ai-and-layoff-happy-ceos-everyone-i-know-their-bosses-are-slowly-getting-psychosis/ Comments URL: https://news.ycombinator.com/item?id=49523720 Points: 222 # Comments:...",
       "source": "Hacker News",
       "published": "2026-09-01T15:53:42+00:00",
       "link": "https://www.pcgamer.com/gaming-industry/dwarf-fortress-creator-says-the-industrys-in-shambles-over-ai-and-layoff-happy-ceos-everyone-i-know-their-bosses-are-slowly-getting-psychosis/"
@@ -192,7 +227,7 @@ const FEED_DATA = {
     },
     {
       "title": "EFF to Courts: Don't Rewrite Copyright over AI Hype",
-      "summary": "Article URL: https://www.eff.org/deeplinks/2026/08/eff-courts-dont-rewrite-copyright-over-ai-hype Comments URL: https://news.ycombinator.com/item?id=49521315 Points: 154 # Comments: 173",
+      "summary": "Article URL: https://www.eff.org/deeplinks/2026/08/eff-courts-dont-rewrite-copyright-over-ai-hype Comments URL: https://news.ycombinator.com/item?id=49521315 Points: 162 # Comments: 185",
       "source": "Hacker News",
       "published": "2026-09-01T12:53:51+00:00",
       "link": "https://www.eff.org/deeplinks/2026/08/eff-courts-dont-rewrite-copyright-over-ai-hype"
@@ -220,7 +255,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI Can Make You Suck Faster Too",
-      "summary": "Article URL: https://www.hermit-tech.com/blog/ai-can-make-you-suck-faster-too Comments URL: https://news.ycombinator.com/item?id=49518316 Points: 128 # Comments: 135",
+      "summary": "Article URL: https://www.hermit-tech.com/blog/ai-can-make-you-suck-faster-too Comments URL: https://news.ycombinator.com/item?id=49518316 Points: 172 # Comments: 160",
       "source": "Hacker News",
       "published": "2026-09-01T05:32:56+00:00",
       "link": "https://www.hermit-tech.com/blog/ai-can-make-you-suck-faster-too"
@@ -255,7 +290,7 @@ const FEED_DATA = {
     },
     {
       "title": "The safest job from AI may be writing",
-      "summary": "Article URL: http://muratbuffalo.blogspot.com/2026/08/the-safest-job-from-ai-may-be-writing.html Comments URL: https://news.ycombinator.com/item?id=49512856 Points: 145 # Comments: 199",
+      "summary": "Article URL: http://muratbuffalo.blogspot.com/2026/08/the-safest-job-from-ai-may-be-writing.html Comments URL: https://news.ycombinator.com/item?id=49512856 Points: 146 # Comments: 205",
       "source": "Hacker News",
       "published": "2026-08-31T18:12:20+00:00",
       "link": "http://muratbuffalo.blogspot.com/2026/08/the-safest-job-from-ai-may-be-writing.html"
@@ -332,7 +367,7 @@ const FEED_DATA = {
     },
     {
       "title": "Marx, Keynes, and AI",
-      "summary": "Article URL: https://www.unpopularfront.news/p/marx-keynes-and-ai Comments URL: https://news.ycombinator.com/item?id=49510302 Points: 58 # Comments: 90",
+      "summary": "Article URL: https://www.unpopularfront.news/p/marx-keynes-and-ai Comments URL: https://news.ycombinator.com/item?id=49510302 Points: 59 # Comments: 91",
       "source": "Hacker News",
       "published": "2026-08-31T14:36:03+00:00",
       "link": "https://www.unpopularfront.news/p/marx-keynes-and-ai"
@@ -374,14 +409,14 @@ const FEED_DATA = {
     },
     {
       "title": "Apple caught off guard by AI demand for Mac Mini and Mac Studio",
-      "summary": "Article URL: https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand/ Comments URL: https://news.ycombinator.com/item?id=49508982 Points: 485 # Comments: 579",
+      "summary": "Article URL: https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand/ Comments URL: https://news.ycombinator.com/item?id=49508982 Points: 492 # Comments: 588",
       "source": "Hacker News",
       "published": "2026-08-31T12:41:22+00:00",
       "link": "https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand/"
     },
     {
       "title": "AI-written code is still your code",
-      "summary": "Article URL: https://martiansoftware.com/articles/ai-written-code-is-still-yours Comments URL: https://news.ycombinator.com/item?id=49508664 Points: 57 # Comments: 91",
+      "summary": "Article URL: https://martiansoftware.com/articles/ai-written-code-is-still-yours Comments URL: https://news.ycombinator.com/item?id=49508664 Points: 58 # Comments: 91",
       "source": "Hacker News",
       "published": "2026-08-31T12:08:25+00:00",
       "link": "https://martiansoftware.com/articles/ai-written-code-is-still-yours"
@@ -416,7 +451,7 @@ const FEED_DATA = {
     },
     {
       "title": "Meta Security Researcher's AI Agent Accidentally Deleted Her Emails",
-      "summary": "Article URL: https://au.pcmag.com/ai/116091/meta-security-researchers-ai-agent-accidentally-deleted-her-emails Comments URL: https://news.ycombinator.com/item?id=49506655 Points: 59 # Comments: 61",
+      "summary": "Article URL: https://au.pcmag.com/ai/116091/meta-security-researchers-ai-agent-accidentally-deleted-her-emails Comments URL: https://news.ycombinator.com/item?id=49506655 Points: 60 # Comments: 61",
       "source": "Hacker News",
       "published": "2026-08-31T07:23:47+00:00",
       "link": "https://au.pcmag.com/ai/116091/meta-security-researchers-ai-agent-accidentally-deleted-her-emails"
@@ -444,7 +479,7 @@ const FEED_DATA = {
     },
     {
       "title": "No AI Fridays",
-      "summary": "Article URL: https://noaifridays.com/ Comments URL: https://news.ycombinator.com/item?id=49498095 Points: 288 # Comments: 205",
+      "summary": "Article URL: https://noaifridays.com/ Comments URL: https://news.ycombinator.com/item?id=49498095 Points: 289 # Comments: 205",
       "source": "Hacker News",
       "published": "2026-08-30T12:31:05+00:00",
       "link": "https://noaifridays.com/"
@@ -472,7 +507,7 @@ const FEED_DATA = {
     },
     {
       "title": "What We Tell AI",
-      "summary": "Article URL: https://www.whatwetellai.com/ Comments URL: https://news.ycombinator.com/item?id=49497334 Points: 53 # Comments: 17",
+      "summary": "Article URL: https://www.whatwetellai.com/ Comments URL: https://news.ycombinator.com/item?id=49497334 Points: 55 # Comments: 17",
       "source": "Hacker News",
       "published": "2026-08-30T10:16:14+00:00",
       "link": "https://www.whatwetellai.com/"
@@ -493,7 +528,7 @@ const FEED_DATA = {
     },
     {
       "title": "Smartphone LED detects hidden cameras with AI",
-      "summary": "Article URL: https://www.chosun.com/english/industry-en/2026/08/30/SBFXUIJQYZEARKP5T4FBAY25HQ/ Comments URL: https://news.ycombinator.com/item?id=49496292 Points: 264 # Comments: 80",
+      "summary": "Article URL: https://www.chosun.com/english/industry-en/2026/08/30/SBFXUIJQYZEARKP5T4FBAY25HQ/ Comments URL: https://news.ycombinator.com/item?id=49496292 Points: 273 # Comments: 81",
       "source": "Hacker News",
       "published": "2026-08-30T06:52:04+00:00",
       "link": "https://www.chosun.com/english/industry-en/2026/08/30/SBFXUIJQYZEARKP5T4FBAY25HQ/"
@@ -535,7 +570,7 @@ const FEED_DATA = {
     },
     {
       "title": "Good Culture Is the Biggest Productivity Hack, Not AI",
-      "summary": "Article URL: https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity Comments URL: https://news.ycombinator.com/item?id=49491568 Points: 476 # Comments: 121",
+      "summary": "Article URL: https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity Comments URL: https://news.ycombinator.com/item?id=49491568 Points: 477 # Comments: 121",
       "source": "Hacker News",
       "published": "2026-08-29T17:19:47+00:00",
       "link": "https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity"
@@ -1365,41 +1400,6 @@ const FEED_DATA = {
       "source": "MIT Tech Review",
       "published": "2026-08-26T12:10:00+00:00",
       "link": "https://www.technologyreview.com/2026/08/26/1143000/the-download-kids-issue-launch-bill-gates-ai-fears/"
-    },
-    {
-      "title": "Hearing tech startup Legato emerges from stealth with $12M and a peek at its AI hearing glasses",
-      "summary": "The glasses, called Legato Frames, integrate the company’s patented hearing-assistance technology into the arms of eyewear frames.",
-      "source": "TechCrunch",
-      "published": "2026-08-26T12:00:00+00:00",
-      "link": "https://techcrunch.com/2026/08/26/hearing-tech-startup-legato-emerges-from-stealth-with-12m-and-a-peek-at-its-ai-hearing-glasses/"
-    },
-    {
-      "title": "Chinese Moonshot AI negotiates hosting deals with Microsoft, Amazon, and Google",
-      "summary": "A Chinese AI company could land its model on major US cloud platforms for the first time, taking a cut of the revenue. The article Chinese Moonshot AI negotiates hosting deals with Microsoft, Amazon, and Google appeared first on The Decoder.",
-      "source": "The Decoder",
-      "published": "2026-08-26T11:54:17+00:00",
-      "link": "https://the-decoder.com/chinese-moonshot-ai-negotiates-hosting-deals-with-microsoft-amazon-and-google/"
-    },
-    {
-      "title": "Bill Gates is deeply worried about AI, and he’s no longer staying quiet",
-      "summary": "Bill Gates has been reflecting a lot on AI lately, and the process has triggered a stark awakening. Once a staunch AI optimist, the Microsoft cofounder is now deeply pessimistic about what AI means for our collective future.",
-      "source": "The Verge",
-      "published": "2026-08-26T11:07:40+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/984923/bill-gates-is-deeply-worried-about-ai-and-hes-no-longer-staying-quiet"
-    },
-    {
-      "title": "AI Slop Is Ruining Cute Animals on the Internet",
-      "summary": "Pet owners, rescue agencies, and wildlife groups are calling for new safeguards as AI makes it harder to tell whether animals, from polar bears to house cats, are real or fake.",
-      "source": "Wired",
-      "published": "2026-08-26T11:00:00+00:00",
-      "link": "https://www.wired.com/story/ai-slop-is-ruining-the-internets-cute-animal-economy/"
-    },
-    {
-      "title": "Runable hits $21M to bet AI agents can go from building businesses to growing them",
-      "summary": "Runable says 60% to 70% of its 1 trillion-plus token usage in the last 90 days came from paying customers.",
-      "source": "TechCrunch",
-      "published": "2026-08-26T11:00:00+00:00",
-      "link": "https://techcrunch.com/2026/08/26/runable-hits-21m-to-bet-ai-agents-can-go-from-building-businesses-to-growing-them/"
     }
   ]
 };
