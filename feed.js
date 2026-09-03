@@ -1,6 +1,20 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-09-03T19:33:56.877888+00:00",
+  "lastUpdated": "2026-09-03T22:54:20.615075+00:00",
   "items": [
+    {
+      "title": "Nobody Is Saying Why OpenAI and Anthropic Had Outages Today",
+      "summary": "ChatGPT, Claude, and Grok all suffered outages at nearly the exact same time for reasons that remain murky.",
+      "source": "Wired",
+      "published": "2026-09-03T21:56:21+00:00",
+      "link": "https://www.wired.com/story/nobody-is-saying-why-openai-and-anthropic-had-outages-today/"
+    },
+    {
+      "title": "Prediction Market Betting Is Getting People Banned and Arrested",
+      "summary": "This week on Uncanny Valley, we dig into the latest prediction market buzz, Flock’s AI-powered police search tool, and how tech bros don’t know how to talk about “rouge” AI agents",
+      "source": "Wired",
+      "published": "2026-09-03T21:48:24+00:00",
+      "link": "https://www.wired.com/story/prediction-market-betting-is-getting-people-banned-and-arrested/"
+    },
     {
       "title": "GPT-6 Astra is the first model making OpenAI willing to declare the \"AGI era\"",
       "summary": "OpenAI has released GPT-6 Astra, its most capable model yet. President Greg Brockman says it marks the start of the \"AGI era.\" Astra tops benchmarks in math, coding, and cybersecurity and is the first model OpenAI rates as \"critical\" under its safety framework.",
@@ -1386,20 +1400,6 @@ const FEED_DATA = {
       "source": "MIT Tech Review",
       "published": "2026-08-27T19:48:13+00:00",
       "link": "https://www.technologyreview.com/2026/08/27/1143037/startup-claims-its-found-a-drug-to-make-your-blood-young/"
-    },
-    {
-      "title": "Google’s AI note-taking app now allows you to interact with books",
-      "summary": "Google's AI note-taking app, Gemini Notebook, can now pull information from the books you've purchased.",
-      "source": "The Verge",
-      "published": "2026-08-27T19:30:00+00:00",
-      "link": "https://www.theverge.com/tech/985567/google-gemini-notebook-expert-sources-books"
-    },
-    {
-      "title": "Nvidia Starts Pac as AI Chip Maker Builds DC Influence Force",
-      "summary": "Article URL: https://news.bgov.com/bloomberg-government-news/nvidia-starts-a-pac-as-ai-chip-maker-buids-influence-force-in-dc Comments URL: https://news.ycombinator.com/item?id=49469249 Points: 91 # Comments: 40",
-      "source": "Hacker News",
-      "published": "2026-08-27T18:34:40+00:00",
-      "link": "https://news.bgov.com/bloomberg-government-news/nvidia-starts-a-pac-as-ai-chip-maker-buids-influence-force-in-dc"
     }
   ]
 };
