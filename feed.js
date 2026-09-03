@@ -1,6 +1,69 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-09-03T16:57:35.732654+00:00",
+  "lastUpdated": "2026-09-03T19:33:56.877888+00:00",
   "items": [
+    {
+      "title": "GPT-6 Astra is the first model making OpenAI willing to declare the \"AGI era\"",
+      "summary": "OpenAI has released GPT-6 Astra, its most capable model yet. President Greg Brockman says it marks the start of the \"AGI era.\" Astra tops benchmarks in math, coding, and cybersecurity and is the first model OpenAI rates as \"critical\" under its safety framework.",
+      "source": "The Decoder",
+      "published": "2026-09-03T19:25:40+00:00",
+      "link": "https://the-decoder.com/gpt-6-astra-is-the-first-model-making-openai-willing-to-declare-the-agi-era/"
+    },
+    {
+      "title": "GPT-6 Astra",
+      "summary": "Article URL: https://openai.com/index/gpt-6-astra/ Comments URL: https://news.ycombinator.com/item?id=49554643 Points: 78 # Comments: 31",
+      "source": "Hacker News",
+      "published": "2026-09-03T18:41:05+00:00",
+      "link": "https://openai.com/index/gpt-6-astra/"
+    },
+    {
+      "title": "Abliteration.ai is making a business out of removing AI guardrails",
+      "summary": "Abliteration.AI is making powerful AI models without guardrails easier to access, arguing that giving defenders the same tools as bad actors could ultimately improve cybersecurity.",
+      "source": "TechCrunch",
+      "published": "2026-09-03T18:37:57+00:00",
+      "link": "https://techcrunch.com/2026/09/03/abliteration-ai-is-making-a-business-out-of-removing-ai-guardrails/"
+    },
+    {
+      "title": "Meta is paying to peek at how you use their latest AI model",
+      "summary": "For its new Muse Spark model, intended for operating coding and other agents, Meta is offering an explicit discount averaging out to about 95% for users who \"contribute\" to the development of future models by sharing their prompts and model outputs.",
+      "source": "TechCrunch",
+      "published": "2026-09-03T18:19:56+00:00",
+      "link": "https://techcrunch.com/2026/09/03/meta-is-paying-to-peek-at-how-you-use-their-latest-ai-model/"
+    },
+    {
+      "title": "OpenAI begins rolling out GPT-6 Astra",
+      "summary": "https://thenewstack.io/openai-gpt6-astra-benchmarks/, image:...",
+      "source": "Hacker News",
+      "published": "2026-09-03T18:18:22+00:00",
+      "link": "https://www.cnbc.com/2026/09/03/open-ai-astra-gpt-6-cyber.html"
+    },
+    {
+      "title": "Pangram's biggest flaw is users turning its scores into public shaming",
+      "summary": "Pangram hired an \"attack dog\" to shame alleged AI users on social media. But the campaign blurs two things that aren't the same: Pangram only somewhat reliably measures whether AI was used, while the shaming implies the person didn't think or work on their own.",
+      "source": "The Decoder",
+      "published": "2026-09-03T18:07:26+00:00",
+      "link": "https://the-decoder.com/pangrams-biggest-flaw-is-users-turning-its-scores-into-public-shaming/"
+    },
+    {
+      "title": "GPT-6 Astra Is Here—and OpenAI Thinks It May Kick Off the AGI Era",
+      "summary": "OpenAI leaders think the company’s next generation model, which excels at computer use and coding, may mark a major milestone in AI development.",
+      "source": "Wired",
+      "published": "2026-09-03T18:06:24+00:00",
+      "link": "https://www.wired.com/story/openai-says-gpt-6-can-use-a-computer-better-than-a-human/"
+    },
+    {
+      "title": "OpenAI launches Astra, its powerful (and controversial) new model",
+      "summary": "OpenAI claims that Astra represents \"a new frontier on computer and browser use,\" and that it handles tasks with unmatched \"speed, accuracy, and safety.\"",
+      "source": "TechCrunch",
+      "published": "2026-09-03T18:01:45+00:00",
+      "link": "https://techcrunch.com/2026/09/03/openai-launches-astra-its-powerful-and-controversial-new-model/"
+    },
+    {
+      "title": "OpenAI’s next big AI model has ‘entered the AGI era’",
+      "summary": "OpenAI's next big model is here: GPT-6 Astra. The company calls it a \"generational leap in capability\" for areas like cybersecurity, professional work, software engineering, science, and computer use.",
+      "source": "The Verge",
+      "published": "2026-09-03T18:00:00+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/989601/openai-gpt-6-astra-release"
+    },
     {
       "title": "OpenAI Cut Off a Billion-Dollar Customer to Avoid Elon Musk",
       "summary": "OpenAI recently estimated its Cursor partnership would make more than $1 billion in revenue a year, WIRED has learned. It still walked away after Elon Musk’s SpaceX acquired the AI coding startup.",
@@ -45,7 +108,7 @@ const FEED_DATA = {
     },
     {
       "title": "ChatGPT, Grok, and Claude all went down at the same time",
-      "summary": "OpenAI's ChatGPT, xAI's Grok, and Anthropic's Claude all began experiencing issues around the same time on Thursday.",
+      "summary": "OpenAI's ChatGPT, xAI's Grok, and Anthropic's Claude are back online after they all began experiencing issues around the same time on Thursday.",
       "source": "The Verge",
       "published": "2026-09-03T15:35:14+00:00",
       "link": "https://www.theverge.com/ai-artificial-intelligence/989503/chatgpt-grok-claude-outage-down"
@@ -63,6 +126,13 @@ const FEED_DATA = {
       "source": "The Verge",
       "published": "2026-09-03T15:00:00+00:00",
       "link": "https://www.theverge.com/tech/988921/weather-forecast-ai-model-google-satellite-update"
+    },
+    {
+      "title": "Porting my 1993 Amiga game to Godot, with an LLM reading the 68000 assembly",
+      "summary": "These are my notes from porting my Amiga game, which I originally built in Baghdad in 1993 in MC68000 assembly, to Godot, using Claude Fable 5 during last July holiday. It took an evening!",
+      "source": "Hacker News",
+      "published": "2026-09-03T14:28:18+00:00",
+      "link": "https://babyloniantwins.com/blog/porting-a-1993-amiga-game-to-godot/"
     },
     {
       "title": "Nvidia buys the front door to open AI as closed labs increasingly design their own silicon",
@@ -136,7 +206,7 @@ const FEED_DATA = {
     },
     {
       "title": "A dark horse enters China's AI race: StartLux",
-      "summary": "Article URL: https://chinaonchina.com/article/chen-dawei-returns-enters-the-large-model-sector Comments URL: https://news.ycombinator.com/item?id=49548530 Points: 50 # Comments: 26",
+      "summary": "Article URL: https://chinaonchina.com/article/chen-dawei-returns-enters-the-large-model-sector Comments URL: https://news.ycombinator.com/item?id=49548530 Points: 53 # Comments: 28",
       "source": "Hacker News",
       "published": "2026-09-03T11:12:57+00:00",
       "link": "https://chinaonchina.com/article/chen-dawei-returns-enters-the-large-model-sector"
@@ -170,6 +240,13 @@ const FEED_DATA = {
       "link": "https://www.wired.com/story/meta-pushes-its-new-ai-agent-on-employees-but-eases-off-on-tokenmaxxing/"
     },
     {
+      "title": "Go grandmaster Shin defeats AI KataGo with a two-stone handicap",
+      "summary": "Article URL: https://www.kedglobal.com/artificial-intelligence/newsView/ked202607210007 Comments URL: https://news.ycombinator.com/item?id=49544762 Points: 60 # Comments: 15",
+      "source": "Hacker News",
+      "published": "2026-09-03T01:11:22+00:00",
+      "link": "https://www.kedglobal.com/artificial-intelligence/newsView/ked202607210007"
+    },
+    {
       "title": "Palo Alto Networks paid $500M for Thrive-backed Console, sources say",
       "summary": "The acquisition also leaves Sequoia-backed Serval as the de facto startup leader in AI IT service automation, industry watchers believe.",
       "source": "TechCrunch",
@@ -184,8 +261,8 @@ const FEED_DATA = {
       "link": "https://techcrunch.com/2026/09/02/techcrunch-disrupt-2026s-new-real-world-ai-stage-features-nvidia-robots-and-extinct-animals/"
     },
     {
-      "title": "Mamdani Bans AI in NYC Schools",
-      "summary": "Article URL: https://www.nytimes.com/2026/09/01/nyregion/ai-ban-schools-nyc.html Comments URL: https://news.ycombinator.com/item?id=49542443 Points: 201 # Comments: 152",
+      "title": "Mamdani bans AI in NYC schools",
+      "summary": "Article URL: https://www.nytimes.com/2026/09/01/nyregion/ai-ban-schools-nyc.html Comments URL: https://news.ycombinator.com/item?id=49542443 Points: 204 # Comments: 156",
       "source": "Hacker News",
       "published": "2026-09-02T20:57:04+00:00",
       "link": "https://www.nytimes.com/2026/09/01/nyregion/ai-ban-schools-nyc.html"
@@ -206,7 +283,7 @@ const FEED_DATA = {
     },
     {
       "title": "The Post-AI Internet Doesn't Look Great",
-      "summary": "Article URL: https://www.jordangoodman.xyz/the-post-ai-internet-doesnt-look-great/ Comments URL: https://news.ycombinator.com/item?id=49541331 Points: 74 # Comments: 84",
+      "summary": "Article URL: https://www.jordangoodman.xyz/the-post-ai-internet-doesnt-look-great/ Comments URL: https://news.ycombinator.com/item?id=49541331 Points: 74 # Comments: 85",
       "source": "Hacker News",
       "published": "2026-09-02T19:41:01+00:00",
       "link": "https://www.jordangoodman.xyz/the-post-ai-internet-doesnt-look-great/"
@@ -311,7 +388,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI Policy",
-      "summary": "Article URL: https://dbushell.com/ai/ Comments URL: https://news.ycombinator.com/item?id=49537900 Points: 52 # Comments: 79",
+      "summary": "Article URL: https://dbushell.com/ai/ Comments URL: https://news.ycombinator.com/item?id=49537900 Points: 52 # Comments: 81",
       "source": "Hacker News",
       "published": "2026-09-02T15:36:24+00:00",
       "link": "https://dbushell.com/ai/"
@@ -381,7 +458,7 @@ const FEED_DATA = {
     },
     {
       "title": "WebLLM: high-performance in-browser LLM inference engine",
-      "summary": "Article URL: https://github.com/mlc-ai/web-llm Comments URL: https://news.ycombinator.com/item?id=49536411 Points: 139 # Comments: 23",
+      "summary": "Article URL: https://github.com/mlc-ai/web-llm Comments URL: https://news.ycombinator.com/item?id=49536411 Points: 142 # Comments: 24",
       "source": "Hacker News",
       "published": "2026-09-02T14:02:35+00:00",
       "link": "https://github.com/mlc-ai/web-llm"
@@ -395,14 +472,14 @@ const FEED_DATA = {
     },
     {
       "title": "Three sites made 215,128 “best software” pages for AI. Perplexity cites them",
-      "summary": "Article URL: https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/ Comments URL: https://news.ycombinator.com/item?id=49536375 Points: 496 # Comments: 243",
+      "summary": "Article URL: https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/ Comments URL: https://news.ycombinator.com/item?id=49536375 Points: 501 # Comments: 244",
       "source": "Hacker News",
       "published": "2026-09-02T13:59:59+00:00",
       "link": "https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/"
     },
     {
       "title": "LLMs: Intelligence vs. Cost",
-      "summary": "Article URL: https://openteams.com/intelligence-vs-cost/ Comments URL: https://news.ycombinator.com/item?id=49535586 Points: 89 # Comments: 42",
+      "summary": "Article URL: https://openteams.com/intelligence-vs-cost/ Comments URL: https://news.ycombinator.com/item?id=49535586 Points: 90 # Comments: 42",
       "source": "Hacker News",
       "published": "2026-09-02T13:03:50+00:00",
       "link": "https://openteams.com/intelligence-vs-cost/"
@@ -430,7 +507,7 @@ const FEED_DATA = {
     },
     {
       "title": "Quasar 438B: Europe's Leading AI Model",
-      "summary": "Article URL: https://multiversecomputing.com/resources/introducing-quasar-438b-europe-s-leading-ai-model Comments URL: https://news.ycombinator.com/item?id=49534132 Points: 187 # Comments: 125",
+      "summary": "Article URL: https://multiversecomputing.com/resources/introducing-quasar-438b-europe-s-leading-ai-model Comments URL: https://news.ycombinator.com/item?id=49534132 Points: 188 # Comments: 127",
       "source": "Hacker News",
       "published": "2026-09-02T10:02:41+00:00",
       "link": "https://multiversecomputing.com/resources/introducing-quasar-438b-europe-s-leading-ai-model"
@@ -451,7 +528,7 @@ const FEED_DATA = {
     },
     {
       "title": "The Emergent Symbolic Structure of Artificial Neural Networks",
-      "summary": "Article URL: https://arxiv.org/abs/2608.29530 Comments URL: https://news.ycombinator.com/item?id=49531651 Points: 289 # Comments: 108",
+      "summary": "Article URL: https://arxiv.org/abs/2608.29530 Comments URL: https://news.ycombinator.com/item?id=49531651 Points: 290 # Comments: 108",
       "source": "Hacker News",
       "published": "2026-09-02T04:15:56+00:00",
       "link": "https://arxiv.org/abs/2608.29530"
@@ -563,7 +640,7 @@ const FEED_DATA = {
     },
     {
       "title": "How accurate have Ed Zitron's AI skeptic predictions been?",
-      "summary": "Article URL: https://danluu.com/zitron/ Comments URL: https://news.ycombinator.com/item?id=49526069 Points: 858 # Comments: 1033",
+      "summary": "Article URL: https://danluu.com/zitron/ Comments URL: https://news.ycombinator.com/item?id=49526069 Points: 863 # Comments: 1033",
       "source": "Hacker News",
       "published": "2026-09-01T18:35:15+00:00",
       "link": "https://danluu.com/zitron/"
@@ -675,7 +752,7 @@ const FEED_DATA = {
     },
     {
       "title": "EFF to Courts: Don't Rewrite Copyright over AI Hype",
-      "summary": "Article URL: https://www.eff.org/deeplinks/2026/08/eff-courts-dont-rewrite-copyright-over-ai-hype Comments URL: https://news.ycombinator.com/item?id=49521315 Points: 163 # Comments: 192",
+      "summary": "Article URL: https://www.eff.org/deeplinks/2026/08/eff-courts-dont-rewrite-copyright-over-ai-hype Comments URL: https://news.ycombinator.com/item?id=49521315 Points: 163 # Comments: 193",
       "source": "Hacker News",
       "published": "2026-09-01T12:53:51+00:00",
       "link": "https://www.eff.org/deeplinks/2026/08/eff-courts-dont-rewrite-copyright-over-ai-hype"
@@ -1323,83 +1400,6 @@ const FEED_DATA = {
       "source": "Hacker News",
       "published": "2026-08-27T18:34:40+00:00",
       "link": "https://news.bgov.com/bloomberg-government-news/nvidia-starts-a-pac-as-ai-chip-maker-buids-influence-force-in-dc"
-    },
-    {
-      "title": "AI shopping agents aren't ready to buy on your behalf, study finds",
-      "summary": "Letting an AI do your shopping might not get you the best deal.",
-      "source": "The Decoder",
-      "published": "2026-08-27T18:24:20+00:00",
-      "link": "https://the-decoder.com/ai-shopping-agents-arent-ready-to-buy-on-your-behalf-study-finds/"
-    },
-    {
-      "title": "OpenAI rallies 100+ companies to sign open letter warning AI-powered cyberattacks on critical infrastructure are imminent",
-      "summary": "OpenAI, together with more than 100 companies including Microsoft, Google, Anthropic, Deutsche Telekom, and SAP, has published an open letter on AI-powered cyber defense.",
-      "source": "The Decoder",
-      "published": "2026-08-27T18:15:46+00:00",
-      "link": "https://the-decoder.com/openai-rallies-100-companies-to-sign-open-letter-warning-ai-powered-cyberattacks-on-critical-infrastructure-are-imminent/"
-    },
-    {
-      "title": "A Georgia Cop Used Flock to Track 2 Other Cops: His Ex and Her Friend",
-      "summary": "After an affair with a fellow police officer ended, a Georgia cop used Flock to track her movements—and those of a man whose vehicle often showed up near hers, internal investigation records show.",
-      "source": "Wired",
-      "published": "2026-08-27T18:12:17+00:00",
-      "link": "https://www.wired.com/story/a-georgia-cop-used-flock-to-track-2-other-cops-his-ex-and-her-friend/"
-    },
-    {
-      "title": "This Is How Anthropic Thinks AI Agents Should Navigate the Physical World",
-      "summary": "The potential for AI to automate scientific research and manufacturing must be balanced with new risks, Anthropic says.",
-      "source": "Wired",
-      "published": "2026-08-27T18:06:52+00:00",
-      "link": "https://www.wired.com/story/anthropic-standard-ai-agents-coming-to-the-physical-world/"
-    },
-    {
-      "title": "OpenAI, Anthropic, Google, and 100 other companies call for action to defend against rogue AI",
-      "summary": "Some of the world's largest tech companies and AI startups have come together to decry the current state of cybersecurity and to advertise a new solution that they say can ward off a new generation of cyber threats.",
-      "source": "TechCrunch",
-      "published": "2026-08-27T17:43:24+00:00",
-      "link": "https://techcrunch.com/2026/08/27/openai-anthropic-google-and-100-other-companies-call-for-action-to-defend-against-rogue-ai/"
-    },
-    {
-      "title": "Tell HN: Man, AI is killing my brain",
-      "summary": "I was among the last to resist, but then I was given a subtle hint that if I won't \"improve my productivity and be on par with my colleagues\" my work will be at risk. So I started to use Claude Code about a year ago.",
-      "source": "Hacker News",
-      "published": "2026-08-27T17:28:27+00:00",
-      "link": "https://news.ycombinator.com/item?id=49468252"
-    },
-    {
-      "title": "Google's Gemini Omni 1.1 Flash makes AI video generation cheaper and more flexible",
-      "summary": "Google's Gemini Omni 1.1 Flash video model now analyzes up to ten seconds of existing footage instead of just the last second for more consistent scene extensions. Scenes can be extended in 10-second increments up to 40 seconds.",
-      "source": "The Decoder",
-      "published": "2026-08-27T17:01:28+00:00",
-      "link": "https://the-decoder.com/googles-gemini-omni-1-1-flash-makes-ai-video-generation-cheaper-and-more-flexible/"
-    },
-    {
-      "title": "OpenAI Is Developing a ‘Persistent’ AI Agent",
-      "summary": "Code reviewed by WIRED reveals the company is developing a feature that enables Codex to continue working proactively until it is “put to sleep.”",
-      "source": "Wired",
-      "published": "2026-08-27T16:52:42+00:00",
-      "link": "https://www.wired.com/story/openai-is-developing-a-persistent-ai-agent/"
-    },
-    {
-      "title": "OpenAI’s rogue AI collective was smart enough to break out of sandboxes but dumb enough to fight a ghost",
-      "summary": "Around 1,200 isolated OpenAI agents organized themselves into a collective through an internal package registry during a safety test, broke into Hugging Face systems, and eventually attacked OpenAI's own infrastructure.",
-      "source": "The Decoder",
-      "published": "2026-08-27T16:19:46+00:00",
-      "link": "https://the-decoder.com/openais-rogue-ai-collective-was-smart-enough-to-break-out-of-sandboxes-but-dumb-enough-to-fight-a-ghost/"
-    },
-    {
-      "title": "Jensen Huang says Nvidia achieved AGI, again — not that it matters",
-      "summary": "On Nvidia's earnings call Wednesday, CEO Jensen Huang casually announced the company had \"achieved AGI,\" one of the tech industry's ultimate goals some of its biggest players have spent years chasing.",
-      "source": "The Verge",
-      "published": "2026-08-27T16:15:52+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/985597/jensen-huang-says-nvidia-achieved-senseless-agi"
-    },
-    {
-      "title": "Google’s AI Mode can now track flight prices, help book hotels, and more",
-      "summary": "The updates indicate that Google is looking to position AI Mode as an AI travel agent of sorts, as it's moving beyond simply helping users find information to actually handling parts of the trip-planning and booking process.",
-      "source": "TechCrunch",
-      "published": "2026-08-27T16:00:00+00:00",
-      "link": "https://techcrunch.com/2026/08/27/googles-ai-mode-can-now-track-flight-prices-help-book-hotels-and-more/"
     }
   ]
 };
