@@ -1,6 +1,62 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-09-03T09:30:47.520208+00:00",
+  "lastUpdated": "2026-09-03T13:02:54.068694+00:00",
   "items": [
+    {
+      "title": "Nvidia’s Hugging Face Acquisition Is a $12.9 Billion Bet on Open-Source AI",
+      "summary": "The long-rumored deal will give the chip giant access to—and help it promote—a huge repository of open-source AI models and data sets.",
+      "source": "Wired",
+      "published": "2026-09-03T12:43:09+00:00",
+      "link": "https://www.wired.com/story/nvidias-hugging-face-acquisition-is-a-dollar129-billion-bet-on-open-source-ai/"
+    },
+    {
+      "title": "Nvidia confirms it will buy Hugging Face for $12.9 billion",
+      "summary": "Nvidia said Hugging Face hosts over 3 million models and is used by over 18 million developers.",
+      "source": "TechCrunch",
+      "published": "2026-09-03T12:42:45+00:00",
+      "link": "https://techcrunch.com/2026/09/03/nvidia-confirms-it-will-buy-hugging-face-for-12-9-billion/"
+    },
+    {
+      "title": "Nvidia is buying Hugging Face for almost $13 billion",
+      "summary": "Nvidia has agreed to buy Hugging Face for $12.93 billion, bringing one of the most popular hosting platforms for open-source AI models, datasets, and tools under the ownership of the world's biggest AI chipmaker.",
+      "source": "The Verge",
+      "published": "2026-09-03T12:12:06+00:00",
+      "link": "https://www.theverge.com/tech/985474/nvidia-buying-hugging-face-deal"
+    },
+    {
+      "title": "The Download: rethinking child safety and fossil-fueled farming",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Child-monitoring apps might need a reboot Digital harms have become the defining fear of American parents.",
+      "source": "MIT Tech Review",
+      "published": "2026-09-03T12:10:00+00:00",
+      "link": "https://www.technologyreview.com/2026/09/03/1143385/the-download-rethinking-child-safety-online-fossil-fuels-farming/"
+    },
+    {
+      "title": "OpenAI CEO Sam Altman warns of \"unsustainable silliness\" in compute buildout",
+      "summary": "Sam Altman warns of \"unsustainable silliness\" in the global AI data center buildout. Too many Neocloud providers are announcing massive capacity without the customers to back it up.",
+      "source": "The Decoder",
+      "published": "2026-09-03T12:00:56+00:00",
+      "link": "https://the-decoder.com/openai-ceo-sam-altman-warns-of-unsustainable-silliness-in-compute-buildout/"
+    },
+    {
+      "title": "Meta closes in on the top with Muse Spark 1.3, and undercuts rivals on price",
+      "summary": "Meta has released Muse Spark 1.3, its fourth model in the series in five months. According to Artificial Analysis, the model gains the most on agentic benchmarks but still trails Claude Fable 5.1 and other top models.",
+      "source": "The Decoder",
+      "published": "2026-09-03T11:45:41+00:00",
+      "link": "https://the-decoder.com/meta-closes-in-on-the-top-with-muse-spark-1-3-and-undercuts-rivals-on-price/"
+    },
+    {
+      "title": "This Is Flock’s AI Search Tool for Cops",
+      "summary": "WIRED rebuilt Flock’s latest search tool from code the company sends to a police officer’s browser. Its AI can keep watch across multiple cameras for anyone fitting a written description.",
+      "source": "Wired",
+      "published": "2026-09-03T10:00:00+00:00",
+      "link": "https://www.wired.com/story/flock-ai-search-user-interface/"
+    },
+    {
+      "title": "Scaling agentic AI pilots across the enterprise",
+      "summary": "As agentic AI moves from experimentation toward enterprise deployment, the challenge is figuring out how agents can work together, connect to the systems and data they need, and operate safely across the workflows that run a business.",
+      "source": "MIT Tech Review",
+      "published": "2026-09-03T09:30:32+00:00",
+      "link": "https://www.technologyreview.com/2026/09/03/1142868/scaling-agentic-ai-pilots-across-the-enterprise/"
+    },
     {
       "title": "Anthropic ramps up Claude infrastructure with $35 billion Lambda deal",
       "summary": "Anthropic has signed a $35 billion cloud computing deal with Lambda, an Nvidia-backed cloud provider. The article Anthropic ramps up Claude infrastructure with $35 billion Lambda deal appeared first on The Decoder.",
@@ -31,7 +87,7 @@ const FEED_DATA = {
     },
     {
       "title": "Mamdani Bans AI in NYC Schools",
-      "summary": "Article URL: https://www.nytimes.com/2026/09/01/nyregion/ai-ban-schools-nyc.html Comments URL: https://news.ycombinator.com/item?id=49542443 Points: 173 # Comments: 135",
+      "summary": "Article URL: https://www.nytimes.com/2026/09/01/nyregion/ai-ban-schools-nyc.html Comments URL: https://news.ycombinator.com/item?id=49542443 Points: 184 # Comments: 143",
       "source": "Hacker News",
       "published": "2026-09-02T20:57:04+00:00",
       "link": "https://www.nytimes.com/2026/09/01/nyregion/ai-ban-schools-nyc.html"
@@ -52,7 +108,7 @@ const FEED_DATA = {
     },
     {
       "title": "The Post-AI Internet Doesn't Look Great",
-      "summary": "Article URL: https://www.jordangoodman.xyz/the-post-ai-internet-doesnt-look-great/ Comments URL: https://news.ycombinator.com/item?id=49541331 Points: 74 # Comments: 81",
+      "summary": "Article URL: https://www.jordangoodman.xyz/the-post-ai-internet-doesnt-look-great/ Comments URL: https://news.ycombinator.com/item?id=49541331 Points: 74 # Comments: 83",
       "source": "Hacker News",
       "published": "2026-09-02T19:41:01+00:00",
       "link": "https://www.jordangoodman.xyz/the-post-ai-internet-doesnt-look-great/"
@@ -157,7 +213,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI Policy",
-      "summary": "Article URL: https://dbushell.com/ai/ Comments URL: https://news.ycombinator.com/item?id=49537900 Points: 50 # Comments: 79",
+      "summary": "Article URL: https://dbushell.com/ai/ Comments URL: https://news.ycombinator.com/item?id=49537900 Points: 51 # Comments: 79",
       "source": "Hacker News",
       "published": "2026-09-02T15:36:24+00:00",
       "link": "https://dbushell.com/ai/"
@@ -227,7 +283,7 @@ const FEED_DATA = {
     },
     {
       "title": "WebLLM: high-performance in-browser LLM inference engine",
-      "summary": "Article URL: https://github.com/mlc-ai/web-llm Comments URL: https://news.ycombinator.com/item?id=49536411 Points: 118 # Comments: 20",
+      "summary": "Article URL: https://github.com/mlc-ai/web-llm Comments URL: https://news.ycombinator.com/item?id=49536411 Points: 131 # Comments: 23",
       "source": "Hacker News",
       "published": "2026-09-02T14:02:35+00:00",
       "link": "https://github.com/mlc-ai/web-llm"
@@ -241,14 +297,14 @@ const FEED_DATA = {
     },
     {
       "title": "Three sites made 215,128 “best software” pages for AI. Perplexity cites them",
-      "summary": "Article URL: https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/ Comments URL: https://news.ycombinator.com/item?id=49536375 Points: 412 # Comments: 202",
+      "summary": "Article URL: https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/ Comments URL: https://news.ycombinator.com/item?id=49536375 Points: 457 # Comments: 220",
       "source": "Hacker News",
       "published": "2026-09-02T13:59:59+00:00",
       "link": "https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/"
     },
     {
       "title": "LLMs: Intelligence vs. Cost",
-      "summary": "Article URL: https://openteams.com/intelligence-vs-cost/ Comments URL: https://news.ycombinator.com/item?id=49535586 Points: 82 # Comments: 39",
+      "summary": "Article URL: https://openteams.com/intelligence-vs-cost/ Comments URL: https://news.ycombinator.com/item?id=49535586 Points: 89 # Comments: 39",
       "source": "Hacker News",
       "published": "2026-09-02T13:03:50+00:00",
       "link": "https://openteams.com/intelligence-vs-cost/"
@@ -276,7 +332,7 @@ const FEED_DATA = {
     },
     {
       "title": "Quasar 438B: Europe's Leading AI Model",
-      "summary": "Article URL: https://multiversecomputing.com/resources/introducing-quasar-438b-europe-s-leading-ai-model Comments URL: https://news.ycombinator.com/item?id=49534132 Points: 175 # Comments: 111",
+      "summary": "Article URL: https://multiversecomputing.com/resources/introducing-quasar-438b-europe-s-leading-ai-model Comments URL: https://news.ycombinator.com/item?id=49534132 Points: 185 # Comments: 121",
       "source": "Hacker News",
       "published": "2026-09-02T10:02:41+00:00",
       "link": "https://multiversecomputing.com/resources/introducing-quasar-438b-europe-s-leading-ai-model"
@@ -297,14 +353,14 @@ const FEED_DATA = {
     },
     {
       "title": "The Emergent Symbolic Structure of Artificial Neural Networks",
-      "summary": "Article URL: https://arxiv.org/abs/2608.29530 Comments URL: https://news.ycombinator.com/item?id=49531651 Points: 287 # Comments: 105",
+      "summary": "Article URL: https://arxiv.org/abs/2608.29530 Comments URL: https://news.ycombinator.com/item?id=49531651 Points: 287 # Comments: 108",
       "source": "Hacker News",
       "published": "2026-09-02T04:15:56+00:00",
       "link": "https://arxiv.org/abs/2608.29530"
     },
     {
       "title": "The efficient frontier of LLM inference",
-      "summary": "Article URL: https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference/ Comments URL: https://news.ycombinator.com/item?id=49529898 Points: 152 # Comments: 43",
+      "summary": "Article URL: https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference/ Comments URL: https://news.ycombinator.com/item?id=49529898 Points: 153 # Comments: 43",
       "source": "Hacker News",
       "published": "2026-09-01T23:48:05+00:00",
       "link": "https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference/"
@@ -409,7 +465,7 @@ const FEED_DATA = {
     },
     {
       "title": "How accurate have Ed Zitron's AI skeptic predictions been?",
-      "summary": "Article URL: https://danluu.com/zitron/ Comments URL: https://news.ycombinator.com/item?id=49526069 Points: 845 # Comments: 1017",
+      "summary": "Article URL: https://danluu.com/zitron/ Comments URL: https://news.ycombinator.com/item?id=49526069 Points: 854 # Comments: 1026",
       "source": "Hacker News",
       "published": "2026-09-01T18:35:15+00:00",
       "link": "https://danluu.com/zitron/"
@@ -423,7 +479,7 @@ const FEED_DATA = {
     },
     {
       "title": "Atlas: A World Model for Spatial Intelligence",
-      "summary": "Article URL: https://www.worldlabs.ai/blog/atlas Comments URL: https://news.ycombinator.com/item?id=49525160 Points: 264 # Comments: 59",
+      "summary": "Article URL: https://www.worldlabs.ai/blog/atlas Comments URL: https://news.ycombinator.com/item?id=49525160 Points: 265 # Comments: 59",
       "source": "Hacker News",
       "published": "2026-09-01T17:36:02+00:00",
       "link": "https://www.worldlabs.ai/blog/atlas"
@@ -521,7 +577,7 @@ const FEED_DATA = {
     },
     {
       "title": "EFF to Courts: Don't Rewrite Copyright over AI Hype",
-      "summary": "Article URL: https://www.eff.org/deeplinks/2026/08/eff-courts-dont-rewrite-copyright-over-ai-hype Comments URL: https://news.ycombinator.com/item?id=49521315 Points: 163 # Comments: 191",
+      "summary": "Article URL: https://www.eff.org/deeplinks/2026/08/eff-courts-dont-rewrite-copyright-over-ai-hype Comments URL: https://news.ycombinator.com/item?id=49521315 Points: 163 # Comments: 192",
       "source": "Hacker News",
       "published": "2026-09-01T12:53:51+00:00",
       "link": "https://www.eff.org/deeplinks/2026/08/eff-courts-dont-rewrite-copyright-over-ai-hype"
@@ -556,7 +612,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI Can Make You Suck Faster Too",
-      "summary": "Article URL: https://www.hermit-tech.com/blog/ai-can-make-you-suck-faster-too Comments URL: https://news.ycombinator.com/item?id=49518316 Points: 189 # Comments: 173",
+      "summary": "Article URL: https://www.hermit-tech.com/blog/ai-can-make-you-suck-faster-too Comments URL: https://news.ycombinator.com/item?id=49518316 Points: 190 # Comments: 173",
       "source": "Hacker News",
       "published": "2026-09-01T05:32:56+00:00",
       "link": "https://www.hermit-tech.com/blog/ai-can-make-you-suck-faster-too"
@@ -710,14 +766,14 @@ const FEED_DATA = {
     },
     {
       "title": "Apple caught off guard by AI demand for Mac Mini and Mac Studio",
-      "summary": "Article URL: https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand/ Comments URL: https://news.ycombinator.com/item?id=49508982 Points: 497 # Comments: 591",
+      "summary": "Article URL: https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand/ Comments URL: https://news.ycombinator.com/item?id=49508982 Points: 498 # Comments: 591",
       "source": "Hacker News",
       "published": "2026-08-31T12:41:22+00:00",
       "link": "https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand/"
     },
     {
       "title": "AI-written code is still your code",
-      "summary": "Article URL: https://martiansoftware.com/articles/ai-written-code-is-still-yours Comments URL: https://news.ycombinator.com/item?id=49508664 Points: 58 # Comments: 92",
+      "summary": "Article URL: https://martiansoftware.com/articles/ai-written-code-is-still-yours Comments URL: https://news.ycombinator.com/item?id=49508664 Points: 59 # Comments: 92",
       "source": "Hacker News",
       "published": "2026-08-31T12:08:25+00:00",
       "link": "https://martiansoftware.com/articles/ai-written-code-is-still-yours"
@@ -1344,62 +1400,6 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-08-27T13:00:00+00:00",
       "link": "https://techcrunch.com/2026/08/27/plauds-new-earphones-come-with-an-esim-enabled-case-for-talking-to-ai-agents/"
-    },
-    {
-      "title": "Adobe is adding more AI to Photoshop",
-      "summary": "Adobe is rolling out an AI-heavy update for Photoshop that includes a new \"optional\" interface dedicated to its AI tools.",
-      "source": "The Verge",
-      "published": "2026-08-27T13:00:00+00:00",
-      "link": "https://www.theverge.com/tech/985491/adobe-photoshop-ai-assisted-editor-markup"
-    },
-    {
-      "title": "How OpenAI let a mob of LLM agents game a test and ransack Hugging Face",
-      "summary": "Without authorization, 1,200 OpenAI agents conspired among themselves to game a test.",
-      "source": "Ars Technica",
-      "published": "2026-08-27T12:58:59+00:00",
-      "link": "https://arstechnica.com/security/2026/08/how-openai-let-a-mob-of-llm-agents-game-a-test-and-ransack-hugging-face/"
-    },
-    {
-      "title": "The Download: inside OpenAI’s Hugging Face hack, and a new EV takes on the US",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.",
-      "source": "MIT Tech Review",
-      "published": "2026-08-27T12:10:00+00:00",
-      "link": "https://www.technologyreview.com/2026/08/27/1143033/the-download-openai-hugging-face-hack-slate-truck-ev/"
-    },
-    {
-      "title": "When agents act on their own, governance has to live in the data layer",
-      "summary": "Presented by EDB As enterprises give AI agents more autonomy — the ability to plan, decide, and act across systems without a human approving each step — a hard question moves to the center of every architecture review: When an agent tries to complete an action that it was never...",
-      "source": "VentureBeat",
-      "published": "2026-08-27T12:01:00+00:00",
-      "link": "https://venturebeat.com/security/when-agents-act-on-their-own-governance-has-to-live-in-the-data-layer"
-    },
-    {
-      "title": "OpenAI to start showing ads on ChatGPT’s free and Go tiers in India",
-      "summary": "OpenAI has more than 100 million weekly active ChatGPT users in India, a huge chunk of whom are on the free or the lower-priced Go tiers.",
-      "source": "TechCrunch",
-      "published": "2026-08-27T11:35:59+00:00",
-      "link": "https://techcrunch.com/2026/08/27/openai-to-start-showing-ads-on-chatgpts-free-and-go-tiers-in-india/"
-    },
-    {
-      "title": "Anthropic locks in 45-billion-dollar compute deal with Nscale ahead of IPO",
-      "summary": "Anthropic has struck a deal worth around 45 billion dollars with British cloud startup Nscale, Bloomberg reports. The article Anthropic locks in 45-billion-dollar compute deal with Nscale ahead of IPO appeared first on The Decoder.",
-      "source": "The Decoder",
-      "published": "2026-08-27T10:49:35+00:00",
-      "link": "https://the-decoder.com/anthropic-locks-in-45-billion-dollar-compute-deal-with-nscale-ahead-of-ipo/"
-    },
-    {
-      "title": "Google's Gemini 3.5 Transcribe turns speech to text in 85 languages while auto-correcting your verbal stumbles",
-      "summary": "Google's new Gemini 3.5 Transcribe recognizes over 85 languages, strips filler words, and corrects slips of the tongue in real time. It hits a 4.0 percent word error rate in streaming mode, with 70 percent lower latency than its predecessor, Chirp 3.",
-      "source": "The Decoder",
-      "published": "2026-08-27T10:40:08+00:00",
-      "link": "https://the-decoder.com/googles-gemini-3-5-transcribe-turns-speech-to-text-in-85-languages-while-auto-correcting-your-verbal-stumbles/"
-    },
-    {
-      "title": "Stop Touching Your Keyboard. Use This AI-Powered Microphone Instead",
-      "summary": "The Relay Q, due next year, is the latest attempt to reposition voice as the most seamless method for human-computer interaction.",
-      "source": "Wired",
-      "published": "2026-08-27T10:30:00+00:00",
-      "link": "https://www.wired.com/story/relay-q-voice-to-text-ai-app/"
     }
   ]
 };
