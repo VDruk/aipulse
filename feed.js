@@ -1,9 +1,16 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-09-02T22:55:07.551646+00:00",
+  "lastUpdated": "2026-09-03T05:28:16.642316+00:00",
   "items": [
     {
+      "title": "Meta Pushes Its New AI Agent on Employees—but Eases Off on Tokenmaxxing",
+      "summary": "The company is reducing pressure on workers to use artificial intelligence tools while encouraging them to experiment with Hatch, its most advanced AI project yet.",
+      "source": "Wired",
+      "published": "2026-09-03T01:32:02+00:00",
+      "link": "https://www.wired.com/story/meta-pushes-its-new-ai-agent-on-employees-but-eases-off-on-tokenmaxxing/"
+    },
+    {
       "title": "Palo Alto Networks paid $500M for Thrive-backed Console, sources say",
-      "summary": "The acquisition also leaves Sequoia-backed Serval as the de-facto startup leader in AI IT service automation, industry watchers believe.",
+      "summary": "The acquisition also leaves Sequoia-backed Serval as the de facto startup leader in AI IT service automation, industry watchers believe.",
       "source": "TechCrunch",
       "published": "2026-09-02T22:44:56+00:00",
       "link": "https://techcrunch.com/2026/09/02/palo-alto-networks-paid-500m-for-thrive-backed-console-sources-say/"
@@ -17,7 +24,7 @@ const FEED_DATA = {
     },
     {
       "title": "Mamdani Bans AI in NYC Schools",
-      "summary": "Article URL: https://www.nytimes.com/2026/09/01/nyregion/ai-ban-schools-nyc.html Comments URL: https://news.ycombinator.com/item?id=49542443 Points: 104 # Comments: 64",
+      "summary": "Article URL: https://www.nytimes.com/2026/09/01/nyregion/ai-ban-schools-nyc.html Comments URL: https://news.ycombinator.com/item?id=49542443 Points: 158 # Comments: 126",
       "source": "Hacker News",
       "published": "2026-09-02T20:57:04+00:00",
       "link": "https://www.nytimes.com/2026/09/01/nyregion/ai-ban-schools-nyc.html"
@@ -38,7 +45,7 @@ const FEED_DATA = {
     },
     {
       "title": "The Post-AI Internet Doesn't Look Great",
-      "summary": "Article URL: https://www.jordangoodman.xyz/the-post-ai-internet-doesnt-look-great/ Comments URL: https://news.ycombinator.com/item?id=49541331 Points: 67 # Comments: 75",
+      "summary": "Article URL: https://www.jordangoodman.xyz/the-post-ai-internet-doesnt-look-great/ Comments URL: https://news.ycombinator.com/item?id=49541331 Points: 72 # Comments: 79",
       "source": "Hacker News",
       "published": "2026-09-02T19:41:01+00:00",
       "link": "https://www.jordangoodman.xyz/the-post-ai-internet-doesnt-look-great/"
@@ -142,6 +149,13 @@ const FEED_DATA = {
       "link": "https://www.theverge.com/tech/988355/mrbeast-google-partnership-gemini-fitbit"
     },
     {
+      "title": "AI Policy",
+      "summary": "Article URL: https://dbushell.com/ai/ Comments URL: https://news.ycombinator.com/item?id=49537900 Points: 50 # Comments: 79",
+      "source": "Hacker News",
+      "published": "2026-09-02T15:36:24+00:00",
+      "link": "https://dbushell.com/ai/"
+    },
+    {
       "title": "Motional and MIT AI explains self-driving car decisions",
       "summary": "Motional and MIT researchers have built a system that lets self-driving cars explain their decisions in real-time, tackling the black-box problem in autonomous vehicle AI.",
       "source": "AI News",
@@ -178,7 +192,7 @@ const FEED_DATA = {
     },
     {
       "title": "NYC bans AI use for students until they reach high school",
-      "summary": "New York City mayor Zohran Mamdani has announced a new policy today that will ban younger schoolchildren from using AI in classrooms.",
+      "summary": "New York City Mayor Zohran Mamdani has announced a new policy today that will ban younger schoolchildren from using AI in classrooms.",
       "source": "The Verge",
       "published": "2026-09-02T14:30:00+00:00",
       "link": "https://www.theverge.com/policy/988228/nyc-ai-restrictions-in-schools-chatbot-ban"
@@ -206,7 +220,7 @@ const FEED_DATA = {
     },
     {
       "title": "WebLLM: high-performance in-browser LLM inference engine",
-      "summary": "Article URL: https://github.com/mlc-ai/web-llm Comments URL: https://news.ycombinator.com/item?id=49536411 Points: 79 # Comments: 17",
+      "summary": "Article URL: https://github.com/mlc-ai/web-llm Comments URL: https://news.ycombinator.com/item?id=49536411 Points: 100 # Comments: 17",
       "source": "Hacker News",
       "published": "2026-09-02T14:02:35+00:00",
       "link": "https://github.com/mlc-ai/web-llm"
@@ -220,14 +234,14 @@ const FEED_DATA = {
     },
     {
       "title": "Three sites made 215,128 “best software” pages for AI. Perplexity cites them",
-      "summary": "Article URL: https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/ Comments URL: https://news.ycombinator.com/item?id=49536375 Points: 269 # Comments: 121",
+      "summary": "Article URL: https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/ Comments URL: https://news.ycombinator.com/item?id=49536375 Points: 354 # Comments: 163",
       "source": "Hacker News",
       "published": "2026-09-02T13:59:59+00:00",
       "link": "https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/"
     },
     {
       "title": "LLMs: Intelligence vs. Cost",
-      "summary": "Article URL: https://openteams.com/intelligence-vs-cost/ Comments URL: https://news.ycombinator.com/item?id=49535586 Points: 67 # Comments: 38",
+      "summary": "Article URL: https://openteams.com/intelligence-vs-cost/ Comments URL: https://news.ycombinator.com/item?id=49535586 Points: 75 # Comments: 39",
       "source": "Hacker News",
       "published": "2026-09-02T13:03:50+00:00",
       "link": "https://openteams.com/intelligence-vs-cost/"
@@ -255,7 +269,7 @@ const FEED_DATA = {
     },
     {
       "title": "Quasar 438B: Europe's Leading AI Model",
-      "summary": "Article URL: https://multiversecomputing.com/resources/introducing-quasar-438b-europe-s-leading-ai-model Comments URL: https://news.ycombinator.com/item?id=49534132 Points: 157 # Comments: 101",
+      "summary": "Article URL: https://multiversecomputing.com/resources/introducing-quasar-438b-europe-s-leading-ai-model Comments URL: https://news.ycombinator.com/item?id=49534132 Points: 167 # Comments: 106",
       "source": "Hacker News",
       "published": "2026-09-02T10:02:41+00:00",
       "link": "https://multiversecomputing.com/resources/introducing-quasar-438b-europe-s-leading-ai-model"
@@ -276,14 +290,14 @@ const FEED_DATA = {
     },
     {
       "title": "The Emergent Symbolic Structure of Artificial Neural Networks",
-      "summary": "Article URL: https://arxiv.org/abs/2608.29530 Comments URL: https://news.ycombinator.com/item?id=49531651 Points: 269 # Comments: 97",
+      "summary": "Article URL: https://arxiv.org/abs/2608.29530 Comments URL: https://news.ycombinator.com/item?id=49531651 Points: 284 # Comments: 103",
       "source": "Hacker News",
       "published": "2026-09-02T04:15:56+00:00",
       "link": "https://arxiv.org/abs/2608.29530"
     },
     {
       "title": "The efficient frontier of LLM inference",
-      "summary": "Article URL: https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference/ Comments URL: https://news.ycombinator.com/item?id=49529898 Points: 147 # Comments: 42",
+      "summary": "Article URL: https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference/ Comments URL: https://news.ycombinator.com/item?id=49529898 Points: 149 # Comments: 42",
       "source": "Hacker News",
       "published": "2026-09-01T23:48:05+00:00",
       "link": "https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference/"
@@ -388,7 +402,7 @@ const FEED_DATA = {
     },
     {
       "title": "How accurate have Ed Zitron's AI skeptic predictions been?",
-      "summary": "Article URL: https://danluu.com/zitron/ Comments URL: https://news.ycombinator.com/item?id=49526069 Points: 838 # Comments: 990",
+      "summary": "Article URL: https://danluu.com/zitron/ Comments URL: https://news.ycombinator.com/item?id=49526069 Points: 843 # Comments: 1009",
       "source": "Hacker News",
       "published": "2026-09-01T18:35:15+00:00",
       "link": "https://danluu.com/zitron/"
@@ -402,7 +416,7 @@ const FEED_DATA = {
     },
     {
       "title": "Atlas: A World Model for Spatial Intelligence",
-      "summary": "Article URL: https://www.worldlabs.ai/blog/atlas Comments URL: https://news.ycombinator.com/item?id=49525160 Points: 256 # Comments: 59",
+      "summary": "Article URL: https://www.worldlabs.ai/blog/atlas Comments URL: https://news.ycombinator.com/item?id=49525160 Points: 261 # Comments: 59",
       "source": "Hacker News",
       "published": "2026-09-01T17:36:02+00:00",
       "link": "https://www.worldlabs.ai/blog/atlas"
@@ -451,7 +465,7 @@ const FEED_DATA = {
     },
     {
       "title": "Dwarf Fortress' creator says the industry's in shambles over AI",
-      "summary": "Article URL: https://www.pcgamer.com/gaming-industry/dwarf-fortress-creator-says-the-industrys-in-shambles-over-ai-and-layoff-happy-ceos-everyone-i-know-their-bosses-are-slowly-getting-psychosis/ Comments URL: https://news.ycombinator.com/item?id=49523720 Points: 234 # Comments:...",
+      "summary": "Article URL: https://www.pcgamer.com/gaming-industry/dwarf-fortress-creator-says-the-industrys-in-shambles-over-ai-and-layoff-happy-ceos-everyone-i-know-their-bosses-are-slowly-getting-psychosis/ Comments URL: https://news.ycombinator.com/item?id=49523720 Points: 238 # Comments:...",
       "source": "Hacker News",
       "published": "2026-09-01T15:53:42+00:00",
       "link": "https://www.pcgamer.com/gaming-industry/dwarf-fortress-creator-says-the-industrys-in-shambles-over-ai-and-layoff-happy-ceos-everyone-i-know-their-bosses-are-slowly-getting-psychosis/"
@@ -500,7 +514,7 @@ const FEED_DATA = {
     },
     {
       "title": "EFF to Courts: Don't Rewrite Copyright over AI Hype",
-      "summary": "Article URL: https://www.eff.org/deeplinks/2026/08/eff-courts-dont-rewrite-copyright-over-ai-hype Comments URL: https://news.ycombinator.com/item?id=49521315 Points: 163 # Comments: 189",
+      "summary": "Article URL: https://www.eff.org/deeplinks/2026/08/eff-courts-dont-rewrite-copyright-over-ai-hype Comments URL: https://news.ycombinator.com/item?id=49521315 Points: 163 # Comments: 191",
       "source": "Hacker News",
       "published": "2026-09-01T12:53:51+00:00",
       "link": "https://www.eff.org/deeplinks/2026/08/eff-courts-dont-rewrite-copyright-over-ai-hype"
@@ -535,7 +549,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI Can Make You Suck Faster Too",
-      "summary": "Article URL: https://www.hermit-tech.com/blog/ai-can-make-you-suck-faster-too Comments URL: https://news.ycombinator.com/item?id=49518316 Points: 183 # Comments: 169",
+      "summary": "Article URL: https://www.hermit-tech.com/blog/ai-can-make-you-suck-faster-too Comments URL: https://news.ycombinator.com/item?id=49518316 Points: 188 # Comments: 170",
       "source": "Hacker News",
       "published": "2026-09-01T05:32:56+00:00",
       "link": "https://www.hermit-tech.com/blog/ai-can-make-you-suck-faster-too"
@@ -647,7 +661,7 @@ const FEED_DATA = {
     },
     {
       "title": "Marx, Keynes, and AI",
-      "summary": "Article URL: https://www.unpopularfront.news/p/marx-keynes-and-ai Comments URL: https://news.ycombinator.com/item?id=49510302 Points: 59 # Comments: 97",
+      "summary": "Article URL: https://www.unpopularfront.news/p/marx-keynes-and-ai Comments URL: https://news.ycombinator.com/item?id=49510302 Points: 59 # Comments: 99",
       "source": "Hacker News",
       "published": "2026-08-31T14:36:03+00:00",
       "link": "https://www.unpopularfront.news/p/marx-keynes-and-ai"
@@ -1386,20 +1400,6 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-08-27T10:24:49+00:00",
       "link": "https://the-decoder.com/the-chinese-ai-model-glm-5-3-flash-runs-without-nvidia-and-costs-a-fraction-of-what-the-competition-does/"
-    },
-    {
-      "title": "A quarter of Nvidia’s business next year comes from labs it is financing",
-      "summary": "Nvidia has put nearly US$50 billion into the AI labs that buy its chips, and has lined up commitments for more than $500 billion Colette Kress, the company’s chief financial officer, told analysts on August 26 that demand from the labs Nvidia backs with its own balance sheet...",
-      "source": "AI News",
-      "published": "2026-08-27T10:00:00+00:00",
-      "link": "https://www.artificialintelligence-news.com/news/nvidia-circular-financing-ai-labs/"
-    },
-    {
-      "title": "Claude Cowork now runs its own browser inside the desktop app",
-      "summary": "Anthropic is building its own browser into Claude Cowork, running inside the desktop app. The article Claude Cowork now runs its own browser inside the desktop app appeared first on The Decoder.",
-      "source": "The Decoder",
-      "published": "2026-08-27T09:54:46+00:00",
-      "link": "https://the-decoder.com/claude-cowork-now-runs-its-own-browser-inside-the-desktop-app/"
     }
   ]
 };
