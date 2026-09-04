@@ -1,6 +1,20 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-09-04T05:31:05.548421+00:00",
+  "lastUpdated": "2026-09-04T09:22:45.265122+00:00",
   "items": [
+    {
+      "title": "50.5% of Americans Say AI Romance Can Count as Cheating",
+      "summary": "Just over half of American adults, 50.5%, say a partner’s romantic or sexual relationship with an AI can count as cheating. The figure comes from an AI romance survey of 2,150 U.S.",
+      "source": "AI News",
+      "published": "2026-09-04T08:25:12+00:00",
+      "link": "https://www.artificialintelligence-news.com/news/50-5-of-americans-say-ai-romance-can-count-as-cheating/"
+    },
+    {
+      "title": "Nvidia wants your home network to work like a mini data center for local AI",
+      "summary": "Nvidia's PAIR (Personal AI Router) automatically spreads local AI requests across all available devices on a home network, cutting wait times for parallel agent tasks.",
+      "source": "The Decoder",
+      "published": "2026-09-04T08:06:15+00:00",
+      "link": "https://the-decoder.com/nvidia-wants-your-home-network-to-work-like-a-mini-data-center-for-local-ai/"
+    },
     {
       "title": "The sameness problem behind those unappetizing AI-generated menus",
       "summary": "While restaurant owners might look to generative AI as a shortcut to sprucing up their menu, customers can viscerally sense that something is wrong with the food.",
@@ -31,7 +45,7 @@ const FEED_DATA = {
     },
     {
       "title": "OpenAI's GPT-6 Astra on ARC-AGI-3",
-      "summary": "Article URL: https://arcprize.org/blog/astra Comments URL: https://news.ycombinator.com/item?id=49555691 Points: 188 # Comments: 118",
+      "summary": "Article URL: https://arcprize.org/blog/astra Comments URL: https://news.ycombinator.com/item?id=49555691 Points: 209 # Comments: 125",
       "source": "Hacker News",
       "published": "2026-09-03T19:45:00+00:00",
       "link": "https://arcprize.org/blog/astra"
@@ -101,7 +115,7 @@ const FEED_DATA = {
     },
     {
       "title": "Sanders introduces bill to ban artificial superintelligence and pause AI",
-      "summary": "Article URL: https://www.sanders.senate.gov/press-releases/news-sanders-casar-introduce-legislation-to-ban-artificial-superintelligence-and-temporarily-pause-advanced-ai-development/ Comments URL: https://news.ycombinator.com/item?id=49553463 Points: 56 # Comments: 66",
+      "summary": "Article URL: https://www.sanders.senate.gov/press-releases/news-sanders-casar-introduce-legislation-to-ban-artificial-superintelligence-and-temporarily-pause-advanced-ai-development/ Comments URL: https://news.ycombinator.com/item?id=49553463 Points: 59 # Comments: 66",
       "source": "Hacker News",
       "published": "2026-09-03T17:20:29+00:00",
       "link": "https://www.sanders.senate.gov/press-releases/news-sanders-casar-introduce-legislation-to-ban-artificial-superintelligence-and-temporarily-pause-advanced-ai-development/"
@@ -115,7 +129,7 @@ const FEED_DATA = {
     },
     {
       "title": "Artificial beaver dams saw juvenile coho salmon survival rates go from 8% to 60%",
-      "summary": "Article URL: https://www.discoverwildlife.com/animal-facts/artificial-beaver-dams-california Comments URL: https://news.ycombinator.com/item?id=49552572 Points: 202 # Comments: 62",
+      "summary": "Article URL: https://www.discoverwildlife.com/animal-facts/artificial-beaver-dams-california Comments URL: https://news.ycombinator.com/item?id=49552572 Points: 255 # Comments: 78",
       "source": "Hacker News",
       "published": "2026-09-03T16:21:33+00:00",
       "link": "https://www.discoverwildlife.com/animal-facts/artificial-beaver-dams-california"
@@ -290,7 +304,7 @@ const FEED_DATA = {
     },
     {
       "title": "Go grandmaster Shin defeats AI KataGo with a two-stone handicap",
-      "summary": "Article URL: https://www.kedglobal.com/artificial-intelligence/newsView/ked202607210007 Comments URL: https://news.ycombinator.com/item?id=49544762 Points: 241 # Comments: 69",
+      "summary": "Article URL: https://www.kedglobal.com/artificial-intelligence/newsView/ked202607210007 Comments URL: https://news.ycombinator.com/item?id=49544762 Points: 303 # Comments: 105",
       "source": "Hacker News",
       "published": "2026-09-03T01:11:22+00:00",
       "link": "https://www.kedglobal.com/artificial-intelligence/newsView/ked202607210007"
@@ -521,14 +535,14 @@ const FEED_DATA = {
     },
     {
       "title": "Three sites made 215,128 “best software” pages for AI. Perplexity cites them",
-      "summary": "Article URL: https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/ Comments URL: https://news.ycombinator.com/item?id=49536375 Points: 504 # Comments: 248",
+      "summary": "Article URL: https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/ Comments URL: https://news.ycombinator.com/item?id=49536375 Points: 506 # Comments: 249",
       "source": "Hacker News",
       "published": "2026-09-02T13:59:59+00:00",
       "link": "https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/"
     },
     {
       "title": "LLMs: Intelligence vs. Cost",
-      "summary": "Article URL: https://openteams.com/intelligence-vs-cost/ Comments URL: https://news.ycombinator.com/item?id=49535586 Points: 91 # Comments: 42",
+      "summary": "Article URL: https://openteams.com/intelligence-vs-cost/ Comments URL: https://news.ycombinator.com/item?id=49535586 Points: 92 # Comments: 42",
       "source": "Hacker News",
       "published": "2026-09-02T13:03:50+00:00",
       "link": "https://openteams.com/intelligence-vs-cost/"
@@ -556,7 +570,7 @@ const FEED_DATA = {
     },
     {
       "title": "Quasar 438B: Europe's Leading AI Model",
-      "summary": "Article URL: https://multiversecomputing.com/resources/introducing-quasar-438b-europe-s-leading-ai-model Comments URL: https://news.ycombinator.com/item?id=49534132 Points: 191 # Comments: 128",
+      "summary": "Article URL: https://multiversecomputing.com/resources/introducing-quasar-438b-europe-s-leading-ai-model Comments URL: https://news.ycombinator.com/item?id=49534132 Points: 193 # Comments: 128",
       "source": "Hacker News",
       "published": "2026-09-02T10:02:41+00:00",
       "link": "https://multiversecomputing.com/resources/introducing-quasar-438b-europe-s-leading-ai-model"
@@ -591,7 +605,7 @@ const FEED_DATA = {
     },
     {
       "title": "The efficient frontier of LLM inference",
-      "summary": "Article URL: https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference/ Comments URL: https://news.ycombinator.com/item?id=49529898 Points: 153 # Comments: 45",
+      "summary": "Article URL: https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference/ Comments URL: https://news.ycombinator.com/item?id=49529898 Points: 154 # Comments: 45",
       "source": "Hacker News",
       "published": "2026-09-01T23:48:05+00:00",
       "link": "https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference/"
@@ -696,7 +710,7 @@ const FEED_DATA = {
     },
     {
       "title": "How accurate have Ed Zitron's AI skeptic predictions been?",
-      "summary": "Article URL: https://danluu.com/zitron/ Comments URL: https://news.ycombinator.com/item?id=49526069 Points: 864 # Comments: 1037",
+      "summary": "Article URL: https://danluu.com/zitron/ Comments URL: https://news.ycombinator.com/item?id=49526069 Points: 865 # Comments: 1039",
       "source": "Hacker News",
       "published": "2026-09-01T18:35:15+00:00",
       "link": "https://danluu.com/zitron/"
@@ -1386,20 +1400,6 @@ const FEED_DATA = {
       "source": "Hacker News",
       "published": "2026-08-28T03:49:33+00:00",
       "link": "https://neilalexander.dev/2026/06/30/flooding-contributions"
-    },
-    {
-      "title": "Anthropic was illegally blacklisted by the Trump administration, court rules",
-      "summary": "On Thursday, a judge ruled that the Pentagon's blacklisting of Anthropic earlier this year was unconstitutional, delivering the AI lab a win in a monthslong rollercoaster of a battle with the Trump administration.",
-      "source": "The Verge",
-      "published": "2026-08-28T03:14:06+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/985947/anthropic-supply-chain-risk-lawsuit-judge-ruling"
-    },
-    {
-      "title": "A Judge Has Blocked the Pentagon’s Attempt to Blacklist Anthropic",
-      "summary": "A federal judge has called the Department of Defense’s designation of Anthropic as a national security supply-chain risk “illegal and baseless.”",
-      "source": "Wired",
-      "published": "2026-08-28T03:04:14+00:00",
-      "link": "https://www.wired.com/story/a-judge-has-blocked-the-pentagons-attempt-to-blacklist-anthropic/"
     }
   ]
 };
