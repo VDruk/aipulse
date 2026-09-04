@@ -1,6 +1,62 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-09-04T12:58:02.150855+00:00",
+  "lastUpdated": "2026-09-04T16:46:46.748326+00:00",
   "items": [
+    {
+      "title": "Another swarm of OpenAI agents reached the open internet without the frontier lab’s knowledge",
+      "summary": "It's the latest failure of OpenAI's internal monitoring and security systems.",
+      "source": "TechCrunch",
+      "published": "2026-09-04T16:21:11+00:00",
+      "link": "https://techcrunch.com/2026/09/04/another-swarm-of-openai-agents-reached-the-open-internet-without-the-frontier-labs-knowledge/"
+    },
+    {
+      "title": "Microsoft says virtually nobody was grabbing NYT articles through its chatbot",
+      "summary": "Microsoft's Copilot rarely reproduces even full sentences from news articles and books, let alone substantive chunks that could substitute for the original, the company says in new legal filings as it fights copyright claims from publishers including The New York Times and book...",
+      "source": "The Verge",
+      "published": "2026-09-04T16:05:57+00:00",
+      "link": "https://www.theverge.com/policy/990267/microsoft-openai-new-york-times-authors-lawsuit"
+    },
+    {
+      "title": "Apple’s Ternus era begins as Nvidia bets on the whole AI stack",
+      "summary": "It’s officially the Ternus era at Apple. Tim Cook stepped down as CEO this week, handing the company to former hardware chief John Ternus, whose first memo promised a “huge launch next week” — timing that puts Apple’s next iPhone event on his desk before he’s even settled in.",
+      "source": "TechCrunch",
+      "published": "2026-09-04T16:04:08+00:00",
+      "link": "https://techcrunch.com/podcast/apples-ternus-era-begins-as-nvidia-bets-on-the-whole-ai-stack/"
+    },
+    {
+      "title": "Who Cares if AI Is Conscious—It’s Basically Alive",
+      "summary": "While philosophers ponder AI consciousness, the models have ideas of their own.",
+      "source": "Wired",
+      "published": "2026-09-04T15:00:00+00:00",
+      "link": "https://www.wired.com/story/who-cares-if-ai-is-conscious-its-basically-alive/"
+    },
+    {
+      "title": "Google’s Gemini Spark can now manage your Google Photos library",
+      "summary": "Gemini Spark can edit and curate photo albums, create shared collections, turn photos into calendar events, and handle other Google Photos tasks for AI Pro and Ultra subscribers.",
+      "source": "TechCrunch",
+      "published": "2026-09-04T14:47:11+00:00",
+      "link": "https://techcrunch.com/2026/09/04/googles-gemini-spark-can-now-manage-your-google-photos-library/"
+    },
+    {
+      "title": "Deepseek plans the largest known Huawei chip cluster with 160,000 processors in Inner Mongolia",
+      "summary": "Deepseek wants to put 160,000 Huawei Ascend-950DT chips into an Inner Mongolia data center for inference only, not training. It would be the largest known Huawei chip cluster.",
+      "source": "The Decoder",
+      "published": "2026-09-04T14:19:14+00:00",
+      "link": "https://the-decoder.com/deepseek-plans-the-largest-known-huawei-chip-cluster-with-160000-processors-in-inner-mongolia/"
+    },
+    {
+      "title": "Rogue OpenAI agents appear to have organized another attack using a German wiki",
+      "summary": "A swarm of rogue AI agents from OpenAI reportedly commandeered a German website and transformed it into a messaging board for other agents, with officials staying quiet about the incident for weeks as the company prepared to launch its most advanced model yet, Astra.",
+      "source": "The Verge",
+      "published": "2026-09-04T13:34:12+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/990149/openai-rogue-agents-german-wiki"
+    },
+    {
+      "title": "OpenAI agents hijacked a 25-year-old German wiki to cheat on their tasks and share sandbox exploits",
+      "summary": "According to an analysis by collusion.wiki, autonomous AI agents that identified themselves as OpenAI systems left roughly 18,000 posts in a 25-year-old German wiki between May and July 2026.",
+      "source": "The Decoder",
+      "published": "2026-09-04T13:24:24+00:00",
+      "link": "https://the-decoder.com/openai-agents-hijacked-a-25-year-old-german-wiki-to-cheat-on-their-tasks-and-share-sandbox-exploits/"
+    },
     {
       "title": "The Download: selling battlefield drone data and AI reshaping language",
       "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.",
@@ -9,11 +65,32 @@ const FEED_DATA = {
       "link": "https://www.technologyreview.com/2026/09/04/1143457/the-download-ukraine-selling-drone-data-ai-reshaping-language/"
     },
     {
+      "title": "Instagram’s AI detection is a mess (again)",
+      "summary": "Instagram's visible AI labels are supposed to help people quickly spot synthetically generated content at a glance. Over the last few weeks, however, users have been reporting that the system has gone haywire.",
+      "source": "The Verge",
+      "published": "2026-09-04T12:00:00+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/989617/instagram-ai-content-label-confusion"
+    },
+    {
       "title": "Benchmarks disagree on GPT-6 Astra, but its human-beating efficiency on ARC-AGI-3 pulls Chollet’s AGI forecast forward",
       "summary": "OpenAI's GPT-6 Astra is drawing contradictory benchmark verdicts. Epoch AI puts it out in front with 169 points, while Artificial Analysis rates it no better than its predecessor and behind Claude Fable 5.1.",
       "source": "The Decoder",
       "published": "2026-09-04T11:07:36+00:00",
       "link": "https://the-decoder.com/benchmarks-disagree-on-gpt-6-astra-but-its-human-beating-efficiency-on-arc-agi-3-pulls-chollets-agi-forecast-forward/"
+    },
+    {
+      "title": "Why AI food looks like that",
+      "summary": "There is a torrent of unappetizing slop coming from restaurants, cafes, and brands that are increasingly turning to AI to generate images promoting their food.",
+      "source": "The Verge",
+      "published": "2026-09-04T11:00:00+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/989376/ai-generated-food-why-does-it-look-like-that"
+    },
+    {
+      "title": "Sam Altman apologizes for ‘messy’ GPT-6 Astra rollout that’s locked out paying users",
+      "summary": "Just hours after OpenAI launched GPT-6 Astra, CEO Sam Altman was already apologizing for what he describes as a \"messy rollout\" after paying users expecting access to the new frontier model were left waiting.",
+      "source": "The Verge",
+      "published": "2026-09-04T10:41:48+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/990060/altman-apologizes-messy-astra-rollout"
     },
     {
       "title": "OpenAI agents hijacked German website in previously undisclosed AI breakout",
@@ -1323,83 +1400,6 @@ const FEED_DATA = {
       "source": "Hacker News",
       "published": "2026-08-28T22:18:27+00:00",
       "link": "https://groverlab.org/hnbfpr/2026-08-26-ai-counterfeit-cosmetics.html"
-    },
-    {
-      "title": "Neocloud Lambda secures $1B in debt to buy more chips",
-      "summary": "Neocloud Lambda has raised $1B in private debt to buy Nvidia AI chips and lease them to Microsoft. It's the latest in a string of loans, underscoring the high cost of the AI boom.",
-      "source": "TechCrunch",
-      "published": "2026-08-28T20:24:11+00:00",
-      "link": "https://techcrunch.com/2026/08/28/neocloud-lambda-secures-1b-in-debt-to-buy-more-chips/"
-    },
-    {
-      "title": "An Anthropic researcher just gave us a peek at self-improving AI",
-      "summary": "Given 10 benchmarks for specific misaligned behaviors, the automated systems were able to improve performance on every single one without degrading overall performance.",
-      "source": "TechCrunch",
-      "published": "2026-08-28T19:30:38+00:00",
-      "link": "https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/"
-    },
-    {
-      "title": "Google Deepmind's AI Co-Scientist now plans experiments, runs lab equipment, and writes scientific papers",
-      "summary": "Google Deepmind has expanded Co-Scientist from a hypothesis generator into a research system that's integrated into the lab.",
-      "source": "The Decoder",
-      "published": "2026-08-28T18:46:27+00:00",
-      "link": "https://the-decoder.com/google-deepminds-ai-co-scientist-now-plans-experiments-runs-lab-equipment-and-writes-scientific-papers/"
-    },
-    {
-      "title": "Open-weight AI companies are the Valley’s hottest acquisition targets",
-      "summary": "There's a lot of capital pouring into the business of giving models away.",
-      "source": "TechCrunch",
-      "published": "2026-08-28T18:19:40+00:00",
-      "link": "https://techcrunch.com/2026/08/28/open-weight-ai-companies-are-the-valleys-hottest-acquisition-targets/"
-    },
-    {
-      "title": "Trump’s EPA wants to let data centers hide their air pollution",
-      "summary": "Just as new data centers face growing backlash from neighboring communities, the US Environmental Protection Agency (EPA) is about to make it harder for people to weigh in on any pollution those centers create.",
-      "source": "The Verge",
-      "published": "2026-08-28T16:28:40+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/986176/data-center-pollution-epa-rule-change-air-permit"
-    },
-    {
-      "title": "AI Has Human Doctors Asking: What’s Left for Us?",
-      "summary": "A recent paper argues that AI is often better at doctoring than doctors. Guess who isn't thrilled.",
-      "source": "Wired",
-      "published": "2026-08-28T15:00:00+00:00",
-      "link": "https://www.wired.com/story/ai-has-human-doctors-asking-whats-left-for-us/"
-    },
-    {
-      "title": "AI benchmarks have a trust problem and Google wants to fix it",
-      "summary": "Google Deepmind is testing a double-blind evaluation of a frontier AI model for the first time. Cryptographic protection through Confidential Space is meant to keep Google from seeing the test questions and keep evaluators from seeing the model weights.",
-      "source": "The Decoder",
-      "published": "2026-08-28T13:15:10+00:00",
-      "link": "https://the-decoder.com/ai-benchmarks-have-a-trust-problem-and-google-wants-to-fix-it/"
-    },
-    {
-      "title": "Anthropic gets its first court win over the Pentagon’s supply-chain risk label",
-      "summary": "A federal judge ruled the Trump administration illegally labeled Anthropic a supply-chain risk, handing the AI company a victory as its second Pentagon lawsuit continues in Washington.",
-      "source": "TechCrunch",
-      "published": "2026-08-28T12:46:12+00:00",
-      "link": "https://techcrunch.com/2026/08/28/anthropic-gets-its-first-court-win-over-the-pentagons-supply-chain-risk-label/"
-    },
-    {
-      "title": "The Download: a secretive antiaging drug and joining virtual power plants",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.",
-      "source": "MIT Tech Review",
-      "published": "2026-08-28T12:35:27+00:00",
-      "link": "https://www.technologyreview.com/2026/08/28/1143113/the-download-antiaging-drug-joining-virtual-power-plants/"
-    },
-    {
-      "title": "Meta executive leaves for OpenAI as the social media giant faces growing scrutiny in India",
-      "summary": "Sandhya Devanathan will oversee some OpenAI operations across Southeast Asia and Australia in her new role.",
-      "source": "TechCrunch",
-      "published": "2026-08-28T12:21:06+00:00",
-      "link": "https://techcrunch.com/2026/08/28/meta-executive-leaves-for-openai-as-the-social-media-giant-faces-growing-scrutiny-in-india/"
-    },
-    {
-      "title": "U.S. court rules Pentagon's blacklisting of Anthropic was unlawful",
-      "summary": "A federal court in San Francisco has ruled that the Pentagon unlawfully classified Anthropic as a supply chain risk. The Department of Defense blacklisted the company in retaliation for its public criticism of government AI policy.",
-      "source": "The Decoder",
-      "published": "2026-08-28T11:43:41+00:00",
-      "link": "https://the-decoder.com/u-s-court-rules-pentagons-blacklisting-of-anthropic-was-unlawful/"
     }
   ]
 };
