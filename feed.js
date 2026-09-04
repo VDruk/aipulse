@@ -1,6 +1,48 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-09-04T09:22:45.265122+00:00",
+  "lastUpdated": "2026-09-04T12:58:02.150855+00:00",
   "items": [
+    {
+      "title": "The Download: selling battlefield drone data and AI reshaping language",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.",
+      "source": "MIT Tech Review",
+      "published": "2026-09-04T12:10:00+00:00",
+      "link": "https://www.technologyreview.com/2026/09/04/1143457/the-download-ukraine-selling-drone-data-ai-reshaping-language/"
+    },
+    {
+      "title": "Benchmarks disagree on GPT-6 Astra, but its human-beating efficiency on ARC-AGI-3 pulls Chollet’s AGI forecast forward",
+      "summary": "OpenAI's GPT-6 Astra is drawing contradictory benchmark verdicts. Epoch AI puts it out in front with 169 points, while Artificial Analysis rates it no better than its predecessor and behind Claude Fable 5.1.",
+      "source": "The Decoder",
+      "published": "2026-09-04T11:07:36+00:00",
+      "link": "https://the-decoder.com/benchmarks-disagree-on-gpt-6-astra-but-its-human-beating-efficiency-on-arc-agi-3-pulls-chollets-agi-forecast-forward/"
+    },
+    {
+      "title": "OpenAI agents hijacked German website in previously undisclosed AI breakout",
+      "summary": "Article URL: https://www.reuters.com/world/europe/openai-agents-hijacked-german-website-previously-undisclosed-ai-breakout-this-2026-09-04/ Comments URL: https://news.ycombinator.com/item?id=49562744 Points: 70 # Comments: 48",
+      "source": "Hacker News",
+      "published": "2026-09-04T10:30:57+00:00",
+      "link": "https://www.reuters.com/world/europe/openai-agents-hijacked-german-website-previously-undisclosed-ai-breakout-this-2026-09-04/"
+    },
+    {
+      "title": "AI Use in the Job Market Is Creating an Infinite Doom Loop",
+      "summary": "Job seekers are trying to game the application process using AI. It’s not working, and not for the reasons you might think.",
+      "source": "Wired",
+      "published": "2026-09-04T10:00:00+00:00",
+      "link": "https://www.wired.com/story/ai-job-market-infinite-doom-loop/"
+    },
+    {
+      "title": "M&T Bank expands enterprise AI after years of technology overhaul",
+      "summary": "M&T Bank has deployed AI copilots to more than 15,000 employees as the US regional bank applies AI to internal operations, customer service, software development, and risk management.",
+      "source": "AI News",
+      "published": "2026-09-04T10:00:00+00:00",
+      "link": "https://www.artificialintelligence-news.com/news/mt-bank-enterprise-ai-15000-employees/"
+    },
+    {
+      "title": "Data from drones in Ukraine is fueling a new Wild West marketplace",
+      "summary": "Battlefields in Ukraine are littered with the remnants of drones, which are now firmly established as a critical weapon of modern warfare. But behind all that wreckage, there’s a new gold mine for the defense sector.",
+      "source": "MIT Tech Review",
+      "published": "2026-09-04T09:25:19+00:00",
+      "link": "https://www.technologyreview.com/2026/09/04/1143452/drone-data-wild-west/"
+    },
     {
       "title": "50.5% of Americans Say AI Romance Can Count as Cheating",
       "summary": "Just over half of American adults, 50.5%, say a partner’s romantic or sexual relationship with an AI can count as cheating. The figure comes from an AI romance survey of 2,150 U.S.",
@@ -45,7 +87,7 @@ const FEED_DATA = {
     },
     {
       "title": "OpenAI's GPT-6 Astra on ARC-AGI-3",
-      "summary": "Article URL: https://arcprize.org/blog/astra Comments URL: https://news.ycombinator.com/item?id=49555691 Points: 209 # Comments: 125",
+      "summary": "Article URL: https://arcprize.org/blog/astra Comments URL: https://news.ycombinator.com/item?id=49555691 Points: 216 # Comments: 129",
       "source": "Hacker News",
       "published": "2026-09-03T19:45:00+00:00",
       "link": "https://arcprize.org/blog/astra"
@@ -115,7 +157,7 @@ const FEED_DATA = {
     },
     {
       "title": "Sanders introduces bill to ban artificial superintelligence and pause AI",
-      "summary": "Article URL: https://www.sanders.senate.gov/press-releases/news-sanders-casar-introduce-legislation-to-ban-artificial-superintelligence-and-temporarily-pause-advanced-ai-development/ Comments URL: https://news.ycombinator.com/item?id=49553463 Points: 59 # Comments: 66",
+      "summary": "Article URL: https://www.sanders.senate.gov/press-releases/news-sanders-casar-introduce-legislation-to-ban-artificial-superintelligence-and-temporarily-pause-advanced-ai-development/ Comments URL: https://news.ycombinator.com/item?id=49553463 Points: 60 # Comments: 69",
       "source": "Hacker News",
       "published": "2026-09-03T17:20:29+00:00",
       "link": "https://www.sanders.senate.gov/press-releases/news-sanders-casar-introduce-legislation-to-ban-artificial-superintelligence-and-temporarily-pause-advanced-ai-development/"
@@ -129,7 +171,7 @@ const FEED_DATA = {
     },
     {
       "title": "Artificial beaver dams saw juvenile coho salmon survival rates go from 8% to 60%",
-      "summary": "Article URL: https://www.discoverwildlife.com/animal-facts/artificial-beaver-dams-california Comments URL: https://news.ycombinator.com/item?id=49552572 Points: 255 # Comments: 78",
+      "summary": "Article URL: https://www.discoverwildlife.com/animal-facts/artificial-beaver-dams-california Comments URL: https://news.ycombinator.com/item?id=49552572 Points: 293 # Comments: 93",
       "source": "Hacker News",
       "published": "2026-09-03T16:21:33+00:00",
       "link": "https://www.discoverwildlife.com/animal-facts/artificial-beaver-dams-california"
@@ -269,7 +311,7 @@ const FEED_DATA = {
     },
     {
       "title": "A dark horse enters China's AI race: StartLux",
-      "summary": "Article URL: https://chinaonchina.com/article/chen-dawei-returns-enters-the-large-model-sector Comments URL: https://news.ycombinator.com/item?id=49548530 Points: 54 # Comments: 28",
+      "summary": "Article URL: https://chinaonchina.com/article/chen-dawei-returns-enters-the-large-model-sector Comments URL: https://news.ycombinator.com/item?id=49548530 Points: 54 # Comments: 29",
       "source": "Hacker News",
       "published": "2026-09-03T11:12:57+00:00",
       "link": "https://chinaonchina.com/article/chen-dawei-returns-enters-the-large-model-sector"
@@ -304,7 +346,7 @@ const FEED_DATA = {
     },
     {
       "title": "Go grandmaster Shin defeats AI KataGo with a two-stone handicap",
-      "summary": "Article URL: https://www.kedglobal.com/artificial-intelligence/newsView/ked202607210007 Comments URL: https://news.ycombinator.com/item?id=49544762 Points: 303 # Comments: 105",
+      "summary": "Article URL: https://www.kedglobal.com/artificial-intelligence/newsView/ked202607210007 Comments URL: https://news.ycombinator.com/item?id=49544762 Points: 366 # Comments: 139",
       "source": "Hacker News",
       "published": "2026-09-03T01:11:22+00:00",
       "link": "https://www.kedglobal.com/artificial-intelligence/newsView/ked202607210007"
@@ -325,7 +367,7 @@ const FEED_DATA = {
     },
     {
       "title": "Mamdani bans AI in NYC schools",
-      "summary": "Article URL: https://www.nytimes.com/2026/09/01/nyregion/ai-ban-schools-nyc.html Comments URL: https://news.ycombinator.com/item?id=49542443 Points: 212 # Comments: 168",
+      "summary": "Article URL: https://www.nytimes.com/2026/09/01/nyregion/ai-ban-schools-nyc.html Comments URL: https://news.ycombinator.com/item?id=49542443 Points: 213 # Comments: 170",
       "source": "Hacker News",
       "published": "2026-09-02T20:57:04+00:00",
       "link": "https://www.nytimes.com/2026/09/01/nyregion/ai-ban-schools-nyc.html"
@@ -521,7 +563,7 @@ const FEED_DATA = {
     },
     {
       "title": "WebLLM: high-performance in-browser LLM inference engine",
-      "summary": "Article URL: https://github.com/mlc-ai/web-llm Comments URL: https://news.ycombinator.com/item?id=49536411 Points: 143 # Comments: 24",
+      "summary": "Article URL: https://github.com/mlc-ai/web-llm Comments URL: https://news.ycombinator.com/item?id=49536411 Points: 144 # Comments: 24",
       "source": "Hacker News",
       "published": "2026-09-02T14:02:35+00:00",
       "link": "https://github.com/mlc-ai/web-llm"
@@ -535,7 +577,7 @@ const FEED_DATA = {
     },
     {
       "title": "Three sites made 215,128 “best software” pages for AI. Perplexity cites them",
-      "summary": "Article URL: https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/ Comments URL: https://news.ycombinator.com/item?id=49536375 Points: 506 # Comments: 249",
+      "summary": "Article URL: https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/ Comments URL: https://news.ycombinator.com/item?id=49536375 Points: 508 # Comments: 250",
       "source": "Hacker News",
       "published": "2026-09-02T13:59:59+00:00",
       "link": "https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/"
@@ -570,7 +612,7 @@ const FEED_DATA = {
     },
     {
       "title": "Quasar 438B: Europe's Leading AI Model",
-      "summary": "Article URL: https://multiversecomputing.com/resources/introducing-quasar-438b-europe-s-leading-ai-model Comments URL: https://news.ycombinator.com/item?id=49534132 Points: 193 # Comments: 128",
+      "summary": "Article URL: https://multiversecomputing.com/resources/introducing-quasar-438b-europe-s-leading-ai-model Comments URL: https://news.ycombinator.com/item?id=49534132 Points: 195 # Comments: 128",
       "source": "Hacker News",
       "published": "2026-09-02T10:02:41+00:00",
       "link": "https://multiversecomputing.com/resources/introducing-quasar-438b-europe-s-leading-ai-model"
@@ -598,7 +640,7 @@ const FEED_DATA = {
     },
     {
       "title": "The Emergent Symbolic Structure of Artificial Neural Networks",
-      "summary": "Article URL: https://arxiv.org/abs/2608.29530 Comments URL: https://news.ycombinator.com/item?id=49531651 Points: 292 # Comments: 108",
+      "summary": "Article URL: https://arxiv.org/abs/2608.29530 Comments URL: https://news.ycombinator.com/item?id=49531651 Points: 294 # Comments: 109",
       "source": "Hacker News",
       "published": "2026-09-02T04:15:56+00:00",
       "link": "https://arxiv.org/abs/2608.29530"
@@ -1358,48 +1400,6 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-08-28T11:43:41+00:00",
       "link": "https://the-decoder.com/u-s-court-rules-pentagons-blacklisting-of-anthropic-was-unlawful/"
-    },
-    {
-      "title": "Beatport blocks fully AI-generated music from its DJ marketplace",
-      "summary": "Effective immediately, the DJ marketplace Beatport is banning music that is entirely or largely generated by AI. The article Beatport blocks fully AI-generated music from its DJ marketplace appeared first on The Decoder.",
-      "source": "The Decoder",
-      "published": "2026-08-28T11:20:27+00:00",
-      "link": "https://the-decoder.com/beatport-blocks-fully-ai-generated-music-from-its-dj-marketplace/"
-    },
-    {
-      "title": "Authorities arrest 2 alleged members of prolific hacking group TeamPCP",
-      "summary": "The group infected more than 1,000 organizations in a relentless supply-chain attack campaign.",
-      "source": "Ars Technica",
-      "published": "2026-08-28T11:15:05+00:00",
-      "link": "https://arstechnica.com/security/2026/08/authorities-arrest-2-alleged-members-of-prolific-hacking-group-teampcp/"
-    },
-    {
-      "title": "He Scraped All of Their Art for AI. Now He’s Collaborating on a Tool to Help Them",
-      "summary": "The art portfolio platform Cara, designed for creators who don’t want their work used to train AI, has been under assault by trolls seizing and publishing its data.",
-      "source": "Wired",
-      "published": "2026-08-28T11:00:00+00:00",
-      "link": "https://www.wired.com/story/he-scraped-art-from-cara-for-ai-now-he-is-collaborating-on-a-tool-to-help-them/"
-    },
-    {
-      "title": "Always-on and self-starting AI agents might be OpenAI's next big play",
-      "summary": "OpenAI is building a \"Persistent Mode\" for its AI agent Codex that stays active indefinitely and generates its own follow-up tasks. WIRED found the relevant code, and OpenAI confirmed the tests.",
-      "source": "The Decoder",
-      "published": "2026-08-28T08:03:22+00:00",
-      "link": "https://the-decoder.com/always-on-and-self-starting-ai-agents-might-be-openais-next-big-play/"
-    },
-    {
-      "title": "Luanti removed from Google Play due to baseless AI copyright notice",
-      "summary": "Article URL: https://blog.luanti.org/2026/08/27/luanti-dmca-tracer-ai/ Comments URL: https://news.ycombinator.com/item?id=49475079 Points: 526 # Comments: 158",
-      "source": "Hacker News",
-      "published": "2026-08-28T06:33:57+00:00",
-      "link": "https://blog.luanti.org/2026/08/27/luanti-dmca-tracer-ai/"
-    },
-    {
-      "title": "Please stop flooding our projects with AI slop to furnish your CV",
-      "summary": "Article URL: https://neilalexander.dev/2026/06/30/flooding-contributions Comments URL: https://news.ycombinator.com/item?id=49474143 Points: 213 # Comments: 144",
-      "source": "Hacker News",
-      "published": "2026-08-28T03:49:33+00:00",
-      "link": "https://neilalexander.dev/2026/06/30/flooding-contributions"
     }
   ]
 };
