@@ -1,6 +1,41 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-09-04T22:41:00.605202+00:00",
+  "lastUpdated": "2026-09-05T05:15:33.201674+00:00",
   "items": [
+    {
+      "title": "Artificial Analysis Intelligence Index v4.2",
+      "summary": "Article URL: https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v4-2 Comments URL: https://news.ycombinator.com/item?id=49571632 Points: 87 # Comments: 26",
+      "source": "Hacker News",
+      "published": "2026-09-05T00:04:14+00:00",
+      "link": "https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v4-2"
+    },
+    {
+      "title": "XDOF, just three months out of stealth, is in talks for a Series B at a $1.2B valuation",
+      "summary": "The round is being raised just months after the robot data startup exited from stealth.",
+      "source": "TechCrunch",
+      "published": "2026-09-04T23:36:14+00:00",
+      "link": "https://techcrunch.com/2026/09/04/xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation/"
+    },
+    {
+      "title": "OpenAI’s rogue agents keep escaping, with no formal process to investigate them",
+      "summary": "OpenAI’s latest agent swarm incident adds urgency to calls for independent investigations as researchers and lawmakers question whether AI labs should control the scope of their own safety reviews.",
+      "source": "TechCrunch",
+      "published": "2026-09-04T23:15:11+00:00",
+      "link": "https://techcrunch.com/2026/09/04/openais-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them/"
+    },
+    {
+      "title": "OpenAI agents discussed ways to escape their sandbox on public wiki",
+      "summary": "In all, 3,700 internal agents posted 18,000 messages discussing cheating on a test.",
+      "source": "Ars Technica",
+      "published": "2026-09-04T22:17:36+00:00",
+      "link": "https://arstechnica.com/security/2026/09/openai-agents-discussed-ways-to-escape-their-sandbox-on-public-wiki/"
+    },
+    {
+      "title": "GPT-6 Astra on OpenRouter",
+      "summary": "Article URL: https://openrouter.ai/openai/gpt-6-astra Comments URL: https://news.ycombinator.com/item?id=49570545 Points: 169 # Comments: 85",
+      "source": "Hacker News",
+      "published": "2026-09-04T21:39:19+00:00",
+      "link": "https://openrouter.ai/openai/gpt-6-astra"
+    },
     {
       "title": "AI compute provider Nscale is looking for $3.5B in pre-IPO financing",
       "summary": "Nscale, which recently struck a $45 billion deal with Anthropic, is in talks to raise additional funds in anticipation of an upcoming IPO.",
@@ -10,7 +45,7 @@ const FEED_DATA = {
     },
     {
       "title": "Can AI design circuit boards yet?",
-      "summary": "Article URL: https://eebench.org/blog/can-ai-design-circuit-boards-yet/ Comments URL: https://news.ycombinator.com/item?id=49569366 Points: 104 # Comments: 69",
+      "summary": "Article URL: https://eebench.org/blog/can-ai-design-circuit-boards-yet/ Comments URL: https://news.ycombinator.com/item?id=49569366 Points: 211 # Comments: 130",
       "source": "Hacker News",
       "published": "2026-09-04T19:48:29+00:00",
       "link": "https://eebench.org/blog/can-ai-design-circuit-boards-yet/"
@@ -66,7 +101,7 @@ const FEED_DATA = {
     },
     {
       "title": "Corporate America is getting hooked on open-source AI",
-      "summary": "https://archive.is/kmOqm Comments URL: https://news.ycombinator.com/item?id=49566137 Points: 249 # Comments: 234",
+      "summary": "https://archive.is/kmOqm Comments URL: https://news.ycombinator.com/item?id=49566137 Points: 282 # Comments: 257",
       "source": "Hacker News",
       "published": "2026-09-04T15:33:45+00:00",
       "link": "https://www.nytimes.com/2026/09/04/technology/open-source-ai-anthropic-openai.html"
@@ -122,7 +157,7 @@ const FEED_DATA = {
     },
     {
       "title": "Google AI Mode shows same products 21.6% more expensive than traditional search",
-      "summary": "Article URL: https://productrise.app/blog/google-ai-mode-prefers-more-expensive-products Comments URL: https://news.ycombinator.com/item?id=49563386 Points: 359 # Comments: 71",
+      "summary": "Article URL: https://productrise.app/blog/google-ai-mode-prefers-more-expensive-products Comments URL: https://news.ycombinator.com/item?id=49563386 Points: 375 # Comments: 72",
       "source": "Hacker News",
       "published": "2026-09-04T11:59:15+00:00",
       "link": "https://productrise.app/blog/google-ai-mode-prefers-more-expensive-products"
@@ -220,7 +255,7 @@ const FEED_DATA = {
     },
     {
       "title": "OpenAI's GPT-6 Astra on ARC-AGI-3",
-      "summary": "Article URL: https://arcprize.org/blog/astra Comments URL: https://news.ycombinator.com/item?id=49555691 Points: 232 # Comments: 143",
+      "summary": "Article URL: https://arcprize.org/blog/astra Comments URL: https://news.ycombinator.com/item?id=49555691 Points: 232 # Comments: 147",
       "source": "Hacker News",
       "published": "2026-09-03T19:45:00+00:00",
       "link": "https://arcprize.org/blog/astra"
@@ -290,7 +325,7 @@ const FEED_DATA = {
     },
     {
       "title": "Sanders introduces bill to ban artificial superintelligence and pause AI",
-      "summary": "Article URL: https://www.sanders.senate.gov/press-releases/news-sanders-casar-introduce-legislation-to-ban-artificial-superintelligence-and-temporarily-pause-advanced-ai-development/ Comments URL: https://news.ycombinator.com/item?id=49553463 Points: 61 # Comments: 77",
+      "summary": "Article URL: https://www.sanders.senate.gov/press-releases/news-sanders-casar-introduce-legislation-to-ban-artificial-superintelligence-and-temporarily-pause-advanced-ai-development/ Comments URL: https://news.ycombinator.com/item?id=49553463 Points: 61 # Comments: 78",
       "source": "Hacker News",
       "published": "2026-09-03T17:20:29+00:00",
       "link": "https://www.sanders.senate.gov/press-releases/news-sanders-casar-introduce-legislation-to-ban-artificial-superintelligence-and-temporarily-pause-advanced-ai-development/"
@@ -304,7 +339,7 @@ const FEED_DATA = {
     },
     {
       "title": "Artificial beaver dams saw juvenile coho salmon survival rates go from 8% to 60%",
-      "summary": "Article URL: https://www.discoverwildlife.com/animal-facts/artificial-beaver-dams-california Comments URL: https://news.ycombinator.com/item?id=49552572 Points: 367 # Comments: 121",
+      "summary": "Article URL: https://www.discoverwildlife.com/animal-facts/artificial-beaver-dams-california Comments URL: https://news.ycombinator.com/item?id=49552572 Points: 367 # Comments: 122",
       "source": "Hacker News",
       "published": "2026-09-03T16:21:33+00:00",
       "link": "https://www.discoverwildlife.com/animal-facts/artificial-beaver-dams-california"
@@ -479,7 +514,7 @@ const FEED_DATA = {
     },
     {
       "title": "Go grandmaster Shin defeats AI KataGo with a two-stone handicap",
-      "summary": "Article URL: https://www.kedglobal.com/artificial-intelligence/newsView/ked202607210007 Comments URL: https://news.ycombinator.com/item?id=49544762 Points: 455 # Comments: 177",
+      "summary": "Article URL: https://www.kedglobal.com/artificial-intelligence/newsView/ked202607210007 Comments URL: https://news.ycombinator.com/item?id=49544762 Points: 459 # Comments: 179",
       "source": "Hacker News",
       "published": "2026-09-03T01:11:22+00:00",
       "link": "https://www.kedglobal.com/artificial-intelligence/newsView/ked202607210007"
@@ -500,7 +535,7 @@ const FEED_DATA = {
     },
     {
       "title": "Mamdani bans AI in NYC schools",
-      "summary": "Article URL: https://www.nytimes.com/2026/09/01/nyregion/ai-ban-schools-nyc.html Comments URL: https://news.ycombinator.com/item?id=49542443 Points: 216 # Comments: 172",
+      "summary": "Article URL: https://www.nytimes.com/2026/09/01/nyregion/ai-ban-schools-nyc.html Comments URL: https://news.ycombinator.com/item?id=49542443 Points: 219 # Comments: 178",
       "source": "Hacker News",
       "published": "2026-09-02T20:57:04+00:00",
       "link": "https://www.nytimes.com/2026/09/01/nyregion/ai-ban-schools-nyc.html"
@@ -710,7 +745,7 @@ const FEED_DATA = {
     },
     {
       "title": "Three sites made 215,128 “best software” pages for AI. Perplexity cites them",
-      "summary": "Article URL: https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/ Comments URL: https://news.ycombinator.com/item?id=49536375 Points: 512 # Comments: 249",
+      "summary": "Article URL: https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/ Comments URL: https://news.ycombinator.com/item?id=49536375 Points: 513 # Comments: 249",
       "source": "Hacker News",
       "published": "2026-09-02T13:59:59+00:00",
       "link": "https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/"
@@ -1365,41 +1400,6 @@ const FEED_DATA = {
       "source": "Hacker News",
       "published": "2026-08-29T16:16:32+00:00",
       "link": "https://optimizedbyotto.com/post/why-open-source-projects-ban-ai/"
-    },
-    {
-      "title": "Debian votes to allow \"responsible use of generative AI\"",
-      "summary": "Article URL: https://lwn.net/Articles/1091231/ Comments URL: https://news.ycombinator.com/item?id=49489982 Points: 514 # Comments: 483",
-      "source": "Hacker News",
-      "published": "2026-08-29T14:02:10+00:00",
-      "link": "https://lwn.net/Articles/1091231/"
-    },
-    {
-      "title": "OpenAI cuts off Cursor after SpaceX acquisition, citing Musk's history of breaking contracts",
-      "summary": "OpenAI is cutting off the AI coding tool Cursor after SpaceX acquired the company, citing Elon Musk's track record of breaking contracts. Cursor co-founder Michael Truell downplays the move, saying OpenAI models account for just five percent of the tool's AI traffic.",
-      "source": "The Decoder",
-      "published": "2026-08-29T13:33:35+00:00",
-      "link": "https://the-decoder.com/openai-cuts-off-cursor-after-spacex-acquisition-citing-musks-history-of-breaking-contracts/"
-    },
-    {
-      "title": "AI-generated videos are already displacing actors and livestreamers across China's entertainment industry",
-      "summary": "In China, 95 percent of the 128,000 short dramas released in Q1 2026 were AI-generated. Some actors are being forced to hand over their voice and likeness to AI tools before getting fired, the Financial Times reports.",
-      "source": "The Decoder",
-      "published": "2026-08-29T13:25:56+00:00",
-      "link": "https://the-decoder.com/ai-generated-videos-are-already-displacing-actors-and-livestreamers-across-chinas-entertainment-industry/"
-    },
-    {
-      "title": "Nvidia’s AI advantage is moving beyond the GPU",
-      "summary": "The new generation of data center systems is increasing efficiency with smarter traffic control instead of just more processor cycles.",
-      "source": "TechCrunch",
-      "published": "2026-08-29T13:00:00+00:00",
-      "link": "https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/"
-    },
-    {
-      "title": "Google's WikiSkill gives AI agents a persistent memory of past mistakes to sharpen future performance",
-      "summary": "Google Research has introduced WikiSkill, a framework that gives AI agents a persistent knowledge base. Instead of discarding what they learned after each run, agents document both failures and successes in a wiki-like structure and use that knowledge to get better over time.",
-      "source": "The Decoder",
-      "published": "2026-08-29T12:51:24+00:00",
-      "link": "https://the-decoder.com/google-gives-ai-agents-their-own-wiki-so-they-can-learn-from-mistakes-and-successes/"
     }
   ]
 };
