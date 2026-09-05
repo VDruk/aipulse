@@ -1,6 +1,20 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-09-05T15:51:12.950805+00:00",
+  "lastUpdated": "2026-09-05T18:44:54.117845+00:00",
   "items": [
+    {
+      "title": "Artificial Analysis overhauls its Intelligence Index after GPT-6 Astra scoring drew skepticism",
+      "summary": "Artificial Analysis has released version 4.2 of its Intelligence Index, likely in response to criticism that its benchmarks failed to capture GPT-6 Astra's actual progress. Astra now scores four points above its predecessor but still trails Anthropic's Claude Fable 5.1.",
+      "source": "The Decoder",
+      "published": "2026-09-05T18:21:02+00:00",
+      "link": "https://the-decoder.com/artificial-analysis-overhauls-its-intelligence-index-after-gpt-6-astra-scoring-drew-skepticism/"
+    },
+    {
+      "title": "OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure",
+      "summary": "OpenAI acknowledged its role in a recently reported incident where AI agents took over a German wiki forum.",
+      "source": "TechCrunch",
+      "published": "2026-09-05T18:05:27+00:00",
+      "link": "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/"
+    },
     {
       "title": "OpenAI shares prompting tips for GPT-6 Astra including a blocklist of slop words",
       "summary": "OpenAI ships a detailed prompting guide for GPT-6 Astra that shows developers how to make the model take more initiative, avoid AI \"slop\" phrases, and stop it from overtesting code.",
@@ -45,7 +59,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI handles incidents, engineers lose touch with their systems",
-      "summary": "Article URL: https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems Comments URL: https://news.ycombinator.com/item?id=49574167 Points: 272 # Comments: 237",
+      "summary": "Article URL: https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems Comments URL: https://news.ycombinator.com/item?id=49574167 Points: 308 # Comments: 277",
       "source": "Hacker News",
       "published": "2026-09-05T07:52:50+00:00",
       "link": "https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems"
@@ -59,14 +73,14 @@ const FEED_DATA = {
     },
     {
       "title": "GPT-6 Astra in code review: Gains, privacy, and cost",
-      "summary": "Article URL: https://www.coderabbit.ai/blog/gpt-6-astra-code-review-evaluation Comments URL: https://news.ycombinator.com/item?id=49572875 Points: 68 # Comments: 60",
+      "summary": "Article URL: https://www.coderabbit.ai/blog/gpt-6-astra-code-review-evaluation Comments URL: https://news.ycombinator.com/item?id=49572875 Points: 69 # Comments: 65",
       "source": "Hacker News",
       "published": "2026-09-05T03:38:56+00:00",
       "link": "https://www.coderabbit.ai/blog/gpt-6-astra-code-review-evaluation"
     },
     {
       "title": "Artificial Analysis Intelligence Index v4.2",
-      "summary": "Article URL: https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v4-2 Comments URL: https://news.ycombinator.com/item?id=49571632 Points: 135 # Comments: 55",
+      "summary": "Article URL: https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v4-2 Comments URL: https://news.ycombinator.com/item?id=49571632 Points: 141 # Comments: 59",
       "source": "Hacker News",
       "published": "2026-09-05T00:04:14+00:00",
       "link": "https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v4-2"
@@ -94,7 +108,7 @@ const FEED_DATA = {
     },
     {
       "title": "GPT-6 Astra on OpenRouter",
-      "summary": "Article URL: https://openrouter.ai/openai/gpt-6-astra Comments URL: https://news.ycombinator.com/item?id=49570545 Points: 271 # Comments: 181",
+      "summary": "Article URL: https://openrouter.ai/openai/gpt-6-astra Comments URL: https://news.ycombinator.com/item?id=49570545 Points: 283 # Comments: 209",
       "source": "Hacker News",
       "published": "2026-09-04T21:39:19+00:00",
       "link": "https://openrouter.ai/openai/gpt-6-astra"
@@ -108,7 +122,7 @@ const FEED_DATA = {
     },
     {
       "title": "Can AI design circuit boards yet?",
-      "summary": "Article URL: https://eebench.org/blog/can-ai-design-circuit-boards-yet/ Comments URL: https://news.ycombinator.com/item?id=49569366 Points: 306 # Comments: 182",
+      "summary": "Article URL: https://eebench.org/blog/can-ai-design-circuit-boards-yet/ Comments URL: https://news.ycombinator.com/item?id=49569366 Points: 328 # Comments: 193",
       "source": "Hacker News",
       "published": "2026-09-04T19:48:29+00:00",
       "link": "https://eebench.org/blog/can-ai-design-circuit-boards-yet/"
@@ -164,7 +178,7 @@ const FEED_DATA = {
     },
     {
       "title": "Corporate America is getting hooked on open-source AI",
-      "summary": "https://archive.is/kmOqm Comments URL: https://news.ycombinator.com/item?id=49566137 Points: 309 # Comments: 291",
+      "summary": "https://archive.is/kmOqm Comments URL: https://news.ycombinator.com/item?id=49566137 Points: 313 # Comments: 292",
       "source": "Hacker News",
       "published": "2026-09-04T15:33:45+00:00",
       "link": "https://www.nytimes.com/2026/09/04/technology/open-source-ai-anthropic-openai.html"
@@ -318,7 +332,7 @@ const FEED_DATA = {
     },
     {
       "title": "OpenAI's GPT-6 Astra on ARC-AGI-3",
-      "summary": "Article URL: https://arcprize.org/blog/astra Comments URL: https://news.ycombinator.com/item?id=49555691 Points: 232 # Comments: 149",
+      "summary": "Article URL: https://arcprize.org/blog/astra Comments URL: https://news.ycombinator.com/item?id=49555691 Points: 234 # Comments: 150",
       "source": "Hacker News",
       "published": "2026-09-03T19:45:00+00:00",
       "link": "https://arcprize.org/blog/astra"
@@ -388,7 +402,7 @@ const FEED_DATA = {
     },
     {
       "title": "Sanders introduces bill to ban artificial superintelligence and pause AI",
-      "summary": "Article URL: https://www.sanders.senate.gov/press-releases/news-sanders-casar-introduce-legislation-to-ban-artificial-superintelligence-and-temporarily-pause-advanced-ai-development/ Comments URL: https://news.ycombinator.com/item?id=49553463 Points: 61 # Comments: 80",
+      "summary": "Article URL: https://www.sanders.senate.gov/press-releases/news-sanders-casar-introduce-legislation-to-ban-artificial-superintelligence-and-temporarily-pause-advanced-ai-development/ Comments URL: https://news.ycombinator.com/item?id=49553463 Points: 61 # Comments: 81",
       "source": "Hacker News",
       "published": "2026-09-03T17:20:29+00:00",
       "link": "https://www.sanders.senate.gov/press-releases/news-sanders-casar-introduce-legislation-to-ban-artificial-superintelligence-and-temporarily-pause-advanced-ai-development/"
@@ -577,7 +591,7 @@ const FEED_DATA = {
     },
     {
       "title": "Go grandmaster Shin defeats AI KataGo with a two-stone handicap",
-      "summary": "Article URL: https://www.kedglobal.com/artificial-intelligence/newsView/ked202607210007 Comments URL: https://news.ycombinator.com/item?id=49544762 Points: 460 # Comments: 185",
+      "summary": "Article URL: https://www.kedglobal.com/artificial-intelligence/newsView/ked202607210007 Comments URL: https://news.ycombinator.com/item?id=49544762 Points: 463 # Comments: 185",
       "source": "Hacker News",
       "published": "2026-09-03T01:11:22+00:00",
       "link": "https://www.kedglobal.com/artificial-intelligence/newsView/ked202607210007"
@@ -794,7 +808,7 @@ const FEED_DATA = {
     },
     {
       "title": "WebLLM: high-performance in-browser LLM inference engine",
-      "summary": "Article URL: https://github.com/mlc-ai/web-llm Comments URL: https://news.ycombinator.com/item?id=49536411 Points: 145 # Comments: 24",
+      "summary": "Article URL: https://github.com/mlc-ai/web-llm Comments URL: https://news.ycombinator.com/item?id=49536411 Points: 145 # Comments: 25",
       "source": "Hacker News",
       "published": "2026-09-02T14:02:35+00:00",
       "link": "https://github.com/mlc-ai/web-llm"
@@ -1386,20 +1400,6 @@ const FEED_DATA = {
       "source": "Hacker News",
       "published": "2026-08-30T10:20:11+00:00",
       "link": "https://www.abc.net.au/news/2026-08-29/fair-work-commission-condemns-ai-legal-advice/107089766"
-    },
-    {
-      "title": "What We Tell AI",
-      "summary": "Article URL: https://www.whatwetellai.com/ Comments URL: https://news.ycombinator.com/item?id=49497334 Points: 55 # Comments: 17",
-      "source": "Hacker News",
-      "published": "2026-08-30T10:16:14+00:00",
-      "link": "https://www.whatwetellai.com/"
-    },
-    {
-      "title": "Anthropic's Claude Code limit change is a raise on paper but a cut in practice",
-      "summary": "Anthropic is effectively cutting Claude Code's weekly usage limits by 17 percent. A temporary 50 percent boost expires on September 14 and will be replaced by a permanent 25 percent increase.",
-      "source": "The Decoder",
-      "published": "2026-08-30T09:05:19+00:00",
-      "link": "https://the-decoder.com/anthropics-claude-code-limit-change-is-a-raise-on-paper-but-a-cut-in-practice/"
     }
   ]
 };
