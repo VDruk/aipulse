@@ -1,6 +1,13 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-09-05T05:15:33.201674+00:00",
+  "lastUpdated": "2026-09-05T08:52:00.717414+00:00",
   "items": [
+    {
+      "title": "OpenAI rolls out GPT-6 Astra to top-tier ChatGPT plans at half the rate of GPT-5.6 Sol",
+      "summary": "OpenAI has rolled out GPT-6 Astra to Pro, Enterprise, and Business Premium users, with Plus users expected to follow soon.",
+      "source": "The Decoder",
+      "published": "2026-09-05T07:41:03+00:00",
+      "link": "https://the-decoder.com/openai-rolls-out-gpt-6-astra-to-top-tier-chatgpt-plans-at-half-the-rate-of-gpt-5-6-sol/"
+    },
     {
       "title": "Artificial Analysis Intelligence Index v4.2",
       "summary": "Article URL: https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v4-2 Comments URL: https://news.ycombinator.com/item?id=49571632 Points: 87 # Comments: 26",
@@ -1393,13 +1400,6 @@ const FEED_DATA = {
       "source": "Hacker News",
       "published": "2026-08-29T17:19:47+00:00",
       "link": "https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity"
-    },
-    {
-      "title": "The growing divide between AI hype and software engineering reality",
-      "summary": "Article URL: https://optimizedbyotto.com/post/why-open-source-projects-ban-ai/ Comments URL: https://news.ycombinator.com/item?id=49491113 Points: 67 # Comments: 92",
-      "source": "Hacker News",
-      "published": "2026-08-29T16:16:32+00:00",
-      "link": "https://optimizedbyotto.com/post/why-open-source-projects-ban-ai/"
     }
   ]
 };
