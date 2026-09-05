@@ -1,6 +1,20 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-09-05T12:10:00.956634+00:00",
+  "lastUpdated": "2026-09-05T15:51:12.950805+00:00",
   "items": [
+    {
+      "title": "OpenAI shares prompting tips for GPT-6 Astra including a blocklist of slop words",
+      "summary": "OpenAI ships a detailed prompting guide for GPT-6 Astra that shows developers how to make the model take more initiative, avoid AI \"slop\" phrases, and stop it from overtesting code.",
+      "source": "The Decoder",
+      "published": "2026-09-05T13:31:04+00:00",
+      "link": "https://the-decoder.com/openai-shares-prompting-tips-for-gpt-6-astra-including-a-blocklist-of-slop-words/"
+    },
+    {
+      "title": "Seven minutes with a chatbot beat a fact sheet at reducing conspiracy beliefs in two experiments",
+      "summary": "Researchers found that even a roughly seven-minute conversation with Google Gemini can reduce conspiracy beliefs about current crises, even when few verified facts are available.",
+      "source": "The Decoder",
+      "published": "2026-09-05T12:39:12+00:00",
+      "link": "https://the-decoder.com/seven-minutes-with-a-chatbot-beat-a-fact-sheet-at-reducing-conspiracy-beliefs-in-two-experiments/"
+    },
     {
       "title": "OpenAI admits to German wiki ‘incident’",
       "summary": "OpenAI says it needs to overhaul how and when it reports instances of AI models attacking real-world targets. The acknowledgement comes as the company manages the fallout from reports that a swarm of its out-of-control agents hijacked a German wiki site.",
@@ -30,6 +44,13 @@ const FEED_DATA = {
       "link": "https://the-decoder.com/deepmind-put-100-ai-agents-in-a-room-and-they-sorted-into-cheaters-converts-and-whistleblowers/"
     },
     {
+      "title": "AI handles incidents, engineers lose touch with their systems",
+      "summary": "Article URL: https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems Comments URL: https://news.ycombinator.com/item?id=49574167 Points: 272 # Comments: 237",
+      "source": "Hacker News",
+      "published": "2026-09-05T07:52:50+00:00",
+      "link": "https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems"
+    },
+    {
       "title": "OpenAI rolls out GPT-6 Astra to top-tier ChatGPT plans at half the rate of GPT-5.6 Sol",
       "summary": "OpenAI has rolled out GPT-6 Astra to Pro, Enterprise, and Business Premium users, with Plus users expected to follow soon.",
       "source": "The Decoder",
@@ -37,8 +58,15 @@ const FEED_DATA = {
       "link": "https://the-decoder.com/openai-rolls-out-gpt-6-astra-to-top-tier-chatgpt-plans-at-half-the-rate-of-gpt-5-6-sol/"
     },
     {
+      "title": "GPT-6 Astra in code review: Gains, privacy, and cost",
+      "summary": "Article URL: https://www.coderabbit.ai/blog/gpt-6-astra-code-review-evaluation Comments URL: https://news.ycombinator.com/item?id=49572875 Points: 68 # Comments: 60",
+      "source": "Hacker News",
+      "published": "2026-09-05T03:38:56+00:00",
+      "link": "https://www.coderabbit.ai/blog/gpt-6-astra-code-review-evaluation"
+    },
+    {
       "title": "Artificial Analysis Intelligence Index v4.2",
-      "summary": "Article URL: https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v4-2 Comments URL: https://news.ycombinator.com/item?id=49571632 Points: 87 # Comments: 26",
+      "summary": "Article URL: https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v4-2 Comments URL: https://news.ycombinator.com/item?id=49571632 Points: 135 # Comments: 55",
       "source": "Hacker News",
       "published": "2026-09-05T00:04:14+00:00",
       "link": "https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v4-2"
@@ -66,7 +94,7 @@ const FEED_DATA = {
     },
     {
       "title": "GPT-6 Astra on OpenRouter",
-      "summary": "Article URL: https://openrouter.ai/openai/gpt-6-astra Comments URL: https://news.ycombinator.com/item?id=49570545 Points: 169 # Comments: 85",
+      "summary": "Article URL: https://openrouter.ai/openai/gpt-6-astra Comments URL: https://news.ycombinator.com/item?id=49570545 Points: 271 # Comments: 181",
       "source": "Hacker News",
       "published": "2026-09-04T21:39:19+00:00",
       "link": "https://openrouter.ai/openai/gpt-6-astra"
@@ -80,7 +108,7 @@ const FEED_DATA = {
     },
     {
       "title": "Can AI design circuit boards yet?",
-      "summary": "Article URL: https://eebench.org/blog/can-ai-design-circuit-boards-yet/ Comments URL: https://news.ycombinator.com/item?id=49569366 Points: 211 # Comments: 130",
+      "summary": "Article URL: https://eebench.org/blog/can-ai-design-circuit-boards-yet/ Comments URL: https://news.ycombinator.com/item?id=49569366 Points: 306 # Comments: 182",
       "source": "Hacker News",
       "published": "2026-09-04T19:48:29+00:00",
       "link": "https://eebench.org/blog/can-ai-design-circuit-boards-yet/"
@@ -136,7 +164,7 @@ const FEED_DATA = {
     },
     {
       "title": "Corporate America is getting hooked on open-source AI",
-      "summary": "https://archive.is/kmOqm Comments URL: https://news.ycombinator.com/item?id=49566137 Points: 282 # Comments: 257",
+      "summary": "https://archive.is/kmOqm Comments URL: https://news.ycombinator.com/item?id=49566137 Points: 309 # Comments: 291",
       "source": "Hacker News",
       "published": "2026-09-04T15:33:45+00:00",
       "link": "https://www.nytimes.com/2026/09/04/technology/open-source-ai-anthropic-openai.html"
@@ -192,7 +220,7 @@ const FEED_DATA = {
     },
     {
       "title": "Google AI Mode shows same products 21.6% more expensive than traditional search",
-      "summary": "Article URL: https://productrise.app/blog/google-ai-mode-prefers-more-expensive-products Comments URL: https://news.ycombinator.com/item?id=49563386 Points: 375 # Comments: 72",
+      "summary": "Article URL: https://productrise.app/blog/google-ai-mode-prefers-more-expensive-products Comments URL: https://news.ycombinator.com/item?id=49563386 Points: 393 # Comments: 74",
       "source": "Hacker News",
       "published": "2026-09-04T11:59:15+00:00",
       "link": "https://productrise.app/blog/google-ai-mode-prefers-more-expensive-products"
@@ -220,7 +248,7 @@ const FEED_DATA = {
     },
     {
       "title": "OpenAI agents hijacked German website in previously undisclosed AI breakout",
-      "summary": "Article URL: https://www.reuters.com/world/europe/openai-agents-hijacked-german-website-previously-undisclosed-ai-breakout-this-2026-09-04/ Comments URL: https://news.ycombinator.com/item?id=49562744 Points: 93 # Comments: 2",
+      "summary": "Article URL: https://www.reuters.com/world/europe/openai-agents-hijacked-german-website-previously-undisclosed-ai-breakout-this-2026-09-04/ Comments URL: https://news.ycombinator.com/item?id=49562744 Points: 94 # Comments: 2",
       "source": "Hacker News",
       "published": "2026-09-04T10:30:57+00:00",
       "link": "https://www.reuters.com/world/europe/openai-agents-hijacked-german-website-previously-undisclosed-ai-breakout-this-2026-09-04/"
@@ -290,7 +318,7 @@ const FEED_DATA = {
     },
     {
       "title": "OpenAI's GPT-6 Astra on ARC-AGI-3",
-      "summary": "Article URL: https://arcprize.org/blog/astra Comments URL: https://news.ycombinator.com/item?id=49555691 Points: 232 # Comments: 147",
+      "summary": "Article URL: https://arcprize.org/blog/astra Comments URL: https://news.ycombinator.com/item?id=49555691 Points: 232 # Comments: 149",
       "source": "Hacker News",
       "published": "2026-09-03T19:45:00+00:00",
       "link": "https://arcprize.org/blog/astra"
@@ -360,7 +388,7 @@ const FEED_DATA = {
     },
     {
       "title": "Sanders introduces bill to ban artificial superintelligence and pause AI",
-      "summary": "Article URL: https://www.sanders.senate.gov/press-releases/news-sanders-casar-introduce-legislation-to-ban-artificial-superintelligence-and-temporarily-pause-advanced-ai-development/ Comments URL: https://news.ycombinator.com/item?id=49553463 Points: 61 # Comments: 78",
+      "summary": "Article URL: https://www.sanders.senate.gov/press-releases/news-sanders-casar-introduce-legislation-to-ban-artificial-superintelligence-and-temporarily-pause-advanced-ai-development/ Comments URL: https://news.ycombinator.com/item?id=49553463 Points: 61 # Comments: 80",
       "source": "Hacker News",
       "published": "2026-09-03T17:20:29+00:00",
       "link": "https://www.sanders.senate.gov/press-releases/news-sanders-casar-introduce-legislation-to-ban-artificial-superintelligence-and-temporarily-pause-advanced-ai-development/"
@@ -374,7 +402,7 @@ const FEED_DATA = {
     },
     {
       "title": "Artificial beaver dams saw juvenile coho salmon survival rates go from 8% to 60%",
-      "summary": "Article URL: https://www.discoverwildlife.com/animal-facts/artificial-beaver-dams-california Comments URL: https://news.ycombinator.com/item?id=49552572 Points: 367 # Comments: 122",
+      "summary": "Article URL: https://www.discoverwildlife.com/animal-facts/artificial-beaver-dams-california Comments URL: https://news.ycombinator.com/item?id=49552572 Points: 373 # Comments: 122",
       "source": "Hacker News",
       "published": "2026-09-03T16:21:33+00:00",
       "link": "https://www.discoverwildlife.com/animal-facts/artificial-beaver-dams-california"
@@ -549,7 +577,7 @@ const FEED_DATA = {
     },
     {
       "title": "Go grandmaster Shin defeats AI KataGo with a two-stone handicap",
-      "summary": "Article URL: https://www.kedglobal.com/artificial-intelligence/newsView/ked202607210007 Comments URL: https://news.ycombinator.com/item?id=49544762 Points: 459 # Comments: 179",
+      "summary": "Article URL: https://www.kedglobal.com/artificial-intelligence/newsView/ked202607210007 Comments URL: https://news.ycombinator.com/item?id=49544762 Points: 460 # Comments: 185",
       "source": "Hacker News",
       "published": "2026-09-03T01:11:22+00:00",
       "link": "https://www.kedglobal.com/artificial-intelligence/newsView/ked202607210007"
@@ -570,7 +598,7 @@ const FEED_DATA = {
     },
     {
       "title": "Mamdani bans AI in NYC schools",
-      "summary": "Article URL: https://www.nytimes.com/2026/09/01/nyregion/ai-ban-schools-nyc.html Comments URL: https://news.ycombinator.com/item?id=49542443 Points: 219 # Comments: 178",
+      "summary": "Article URL: https://www.nytimes.com/2026/09/01/nyregion/ai-ban-schools-nyc.html Comments URL: https://news.ycombinator.com/item?id=49542443 Points: 219 # Comments: 180",
       "source": "Hacker News",
       "published": "2026-09-02T20:57:04+00:00",
       "link": "https://www.nytimes.com/2026/09/01/nyregion/ai-ban-schools-nyc.html"
@@ -1372,34 +1400,6 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-08-30T09:05:19+00:00",
       "link": "https://the-decoder.com/anthropics-claude-code-limit-change-is-a-raise-on-paper-but-a-cut-in-practice/"
-    },
-    {
-      "title": "Sony and Warner sue Anthropic over \"one of the largest and most blatant ongoing thefts of intellectual property in history\"",
-      "summary": "Sony Music, Warner Music, and other publishers are suing Anthropic and CEO Dario Amodei personally for allegedly using tens of thousands of copyrighted musical compositions to train Claude without permission.",
-      "source": "The Decoder",
-      "published": "2026-08-30T08:50:20+00:00",
-      "link": "https://the-decoder.com/sony-and-warner-sue-anthropic-over-one-of-the-largest-and-most-blatant-ongoing-thefts-of-intellectual-property-in-history/"
-    },
-    {
-      "title": "Smartphone LED detects hidden cameras with AI",
-      "summary": "Article URL: https://www.chosun.com/english/industry-en/2026/08/30/SBFXUIJQYZEARKP5T4FBAY25HQ/ Comments URL: https://news.ycombinator.com/item?id=49496292 Points: 275 # Comments: 83",
-      "source": "Hacker News",
-      "published": "2026-08-30T06:52:04+00:00",
-      "link": "https://www.chosun.com/english/industry-en/2026/08/30/SBFXUIJQYZEARKP5T4FBAY25HQ/"
-    },
-    {
-      "title": "Sony Music, Warner sue Anthropic, alleging a ‘brazen campaign’ of intellectual property theft",
-      "summary": "This latest lawsuit is particularly broad and homes in on accusations of illegal piracy.",
-      "source": "TechCrunch",
-      "published": "2026-08-29T18:41:59+00:00",
-      "link": "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/"
-    },
-    {
-      "title": "Sony Music Publishing and Warner Chappell are suing Anthropic",
-      "summary": "Sony Music Publishing and Warner Chappell have filed suit against Anthropic in the US District Court for the Northern District of California seeking damages for \"tens of thousands\" copyrighted works.",
-      "source": "The Verge",
-      "published": "2026-08-29T18:19:53+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/986438/sony-music-warner-chappell-anthropic-lawsuit-copyright"
     }
   ]
 };
