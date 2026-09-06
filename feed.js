@@ -1,6 +1,13 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-09-06T18:47:51.451020+00:00",
+  "lastUpdated": "2026-09-06T22:35:42.880588+00:00",
   "items": [
+    {
+      "title": "Authors push back as publishers and agents make claims on Anthropic settlement",
+      "summary": "Authors say publishers seem to be claiming more than their fair share of settlement payments.",
+      "source": "TechCrunch",
+      "published": "2026-09-06T20:47:37+00:00",
+      "link": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/"
+    },
     {
       "title": "Travis Kalanick’s Atoms might be getting into the robotaxi business",
       "summary": "The Uber founder has said that Atoms will allow him to complete \"unfinished business.\"",
@@ -10,7 +17,7 @@ const FEED_DATA = {
     },
     {
       "title": "How I feel about AI",
-      "summary": "Article URL: https://beza1e1.tuxen.de/ai_feelings.html Comments URL: https://news.ycombinator.com/item?id=49587128 Points: 137 # Comments: 200",
+      "summary": "Article URL: https://beza1e1.tuxen.de/ai_feelings.html Comments URL: https://news.ycombinator.com/item?id=49587128 Points: 149 # Comments: 234",
       "source": "Hacker News",
       "published": "2026-09-06T15:00:19+00:00",
       "link": "https://beza1e1.tuxen.de/ai_feelings.html"
@@ -73,14 +80,14 @@ const FEED_DATA = {
     },
     {
       "title": "AI, Tools and Transformation",
-      "summary": "Article URL: https://www.ben-evans.com/benedictevans/2026/9/3/ai-tools-and-transformation Comments URL: https://news.ycombinator.com/item?id=49582656 Points: 136 # Comments: 60",
+      "summary": "Article URL: https://www.ben-evans.com/benedictevans/2026/9/3/ai-tools-and-transformation Comments URL: https://news.ycombinator.com/item?id=49582656 Points: 139 # Comments: 62",
       "source": "Hacker News",
       "published": "2026-09-06T02:12:46+00:00",
       "link": "https://www.ben-evans.com/benedictevans/2026/9/3/ai-tools-and-transformation"
     },
     {
       "title": "GPT-6 Astra on robot arms",
-      "summary": "Article URL: https://openai.robocurve.org/gpt-6-astra/ Comments URL: https://news.ycombinator.com/item?id=49582582 Points: 224 # Comments: 178",
+      "summary": "Article URL: https://openai.robocurve.org/gpt-6-astra/ Comments URL: https://news.ycombinator.com/item?id=49582582 Points: 229 # Comments: 180",
       "source": "Hacker News",
       "published": "2026-09-06T01:52:45+00:00",
       "link": "https://openai.robocurve.org/gpt-6-astra/"
@@ -94,7 +101,7 @@ const FEED_DATA = {
     },
     {
       "title": "OKF Agent Memory – Git-native persistent memory for AI coding agents",
-      "summary": "Article URL: https://github.com/okf-memory/okf-agent-memory Comments URL: https://news.ycombinator.com/item?id=49581240 Points: 74 # Comments: 22",
+      "summary": "Article URL: https://github.com/okf-memory/okf-agent-memory Comments URL: https://news.ycombinator.com/item?id=49581240 Points: 75 # Comments: 22",
       "source": "Hacker News",
       "published": "2026-09-05T22:15:52+00:00",
       "link": "https://github.com/okf-memory/okf-agent-memory"
@@ -171,7 +178,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI handles incidents, engineers lose touch with their systems",
-      "summary": "Article URL: https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems Comments URL: https://news.ycombinator.com/item?id=49574167 Points: 397 # Comments: 338",
+      "summary": "Article URL: https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems Comments URL: https://news.ycombinator.com/item?id=49574167 Points: 400 # Comments: 338",
       "source": "Hacker News",
       "published": "2026-09-05T07:52:50+00:00",
       "link": "https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems"
@@ -185,7 +192,7 @@ const FEED_DATA = {
     },
     {
       "title": "GPT-6 Astra in code review: Gains, privacy, and cost",
-      "summary": "Article URL: https://www.coderabbit.ai/blog/gpt-6-astra-code-review-evaluation Comments URL: https://news.ycombinator.com/item?id=49572875 Points: 72 # Comments: 71",
+      "summary": "Article URL: https://www.coderabbit.ai/blog/gpt-6-astra-code-review-evaluation Comments URL: https://news.ycombinator.com/item?id=49572875 Points: 72 # Comments: 72",
       "source": "Hacker News",
       "published": "2026-09-05T03:38:56+00:00",
       "link": "https://www.coderabbit.ai/blog/gpt-6-astra-code-review-evaluation"
@@ -220,7 +227,7 @@ const FEED_DATA = {
     },
     {
       "title": "GPT-6 Astra on OpenRouter",
-      "summary": "Article URL: https://openrouter.ai/openai/gpt-6-astra Comments URL: https://news.ycombinator.com/item?id=49570545 Points: 315 # Comments: 230",
+      "summary": "Article URL: https://openrouter.ai/openai/gpt-6-astra Comments URL: https://news.ycombinator.com/item?id=49570545 Points: 316 # Comments: 231",
       "source": "Hacker News",
       "published": "2026-09-04T21:39:19+00:00",
       "link": "https://openrouter.ai/openai/gpt-6-astra"
@@ -234,7 +241,7 @@ const FEED_DATA = {
     },
     {
       "title": "Can AI design circuit boards yet?",
-      "summary": "Article URL: https://eebench.org/blog/can-ai-design-circuit-boards-yet/ Comments URL: https://news.ycombinator.com/item?id=49569366 Points: 414 # Comments: 227",
+      "summary": "Article URL: https://eebench.org/blog/can-ai-design-circuit-boards-yet/ Comments URL: https://news.ycombinator.com/item?id=49569366 Points: 414 # Comments: 228",
       "source": "Hacker News",
       "published": "2026-09-04T19:48:29+00:00",
       "link": "https://eebench.org/blog/can-ai-design-circuit-boards-yet/"
@@ -290,7 +297,7 @@ const FEED_DATA = {
     },
     {
       "title": "Corporate America is getting hooked on open-source AI",
-      "summary": "https://archive.is/kmOqm Comments URL: https://news.ycombinator.com/item?id=49566137 Points: 329 # Comments: 303",
+      "summary": "https://archive.is/kmOqm Comments URL: https://news.ycombinator.com/item?id=49566137 Points: 329 # Comments: 305",
       "source": "Hacker News",
       "published": "2026-09-04T15:33:45+00:00",
       "link": "https://www.nytimes.com/2026/09/04/technology/open-source-ai-anthropic-openai.html"
@@ -346,7 +353,7 @@ const FEED_DATA = {
     },
     {
       "title": "Google AI Mode shows same products 21.6% more expensive than traditional search",
-      "summary": "Article URL: https://productrise.app/blog/google-ai-mode-prefers-more-expensive-products Comments URL: https://news.ycombinator.com/item?id=49563386 Points: 396 # Comments: 74",
+      "summary": "Article URL: https://productrise.app/blog/google-ai-mode-prefers-more-expensive-products Comments URL: https://news.ycombinator.com/item?id=49563386 Points: 396 # Comments: 75",
       "source": "Hacker News",
       "published": "2026-09-04T11:59:15+00:00",
       "link": "https://productrise.app/blog/google-ai-mode-prefers-more-expensive-products"
@@ -444,7 +451,7 @@ const FEED_DATA = {
     },
     {
       "title": "OpenAI's GPT-6 Astra on ARC-AGI-3",
-      "summary": "Article URL: https://arcprize.org/blog/astra Comments URL: https://news.ycombinator.com/item?id=49555691 Points: 236 # Comments: 155",
+      "summary": "Article URL: https://arcprize.org/blog/astra Comments URL: https://news.ycombinator.com/item?id=49555691 Points: 237 # Comments: 155",
       "source": "Hacker News",
       "published": "2026-09-03T19:45:00+00:00",
       "link": "https://arcprize.org/blog/astra"
@@ -1393,13 +1400,6 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-08-31T14:28:14+00:00",
       "link": "https://the-decoder.com/openai-starts-charging-some-customers-only-when-its-ai-actually-works/"
-    },
-    {
-      "title": "New York Governor Kathy Hochul thinks AI should be ‘less evil’",
-      "summary": "Today, I’m talking with New York Governor Kathy Hochul, and I’ll just warn you — this episode moves really fast.",
-      "source": "The Verge",
-      "published": "2026-08-31T14:00:00+00:00",
-      "link": "https://www.theverge.com/podcast/986661/ny-gov-kathy-hochul-ai-data-centers-ban-3d-printed-guns-flock-cameras"
     }
   ]
 };
