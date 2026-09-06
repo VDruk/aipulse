@@ -1,6 +1,48 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-09-06T09:11:54.357465+00:00",
+  "lastUpdated": "2026-09-06T12:24:40.998085+00:00",
   "items": [
+    {
+      "title": "Chatbots built an \"echo chamber of one\" and now psychiatry has to decide if \"AI psychosis\" exists",
+      "summary": "Researchers at King's College London and other institutions are examining whether \"AI-associated psychosis\" should become a clinical diagnosis. By OpenAI's own self-reported numbers, about 560,000 users show signs of psychosis or mania each week.",
+      "source": "The Decoder",
+      "published": "2026-09-06T11:57:12+00:00",
+      "link": "https://the-decoder.com/chatbots-built-an-echo-chamber-of-one-and-now-psychiatry-has-to-decide-if-ai-psychosis-exists/"
+    },
+    {
+      "title": "Google's WeatherNext 3 ditches physics simulations and learns weather directly from live satellite data",
+      "summary": "Google Research and DeepMind are releasing WeatherNext 3, a weather model that skips traditional physics simulations and learns directly from real-time satellite data. It produces hourly forecasts at up to five-kilometer resolution, five times more detailed than its predecessor.",
+      "source": "The Decoder",
+      "published": "2026-09-06T10:36:35+00:00",
+      "link": "https://the-decoder.com/googles-weathernext-3-ditches-physics-simulations-and-learns-weather-directly-from-live-satellite-data/"
+    },
+    {
+      "title": "My Brief Summer Fling With Siri AI",
+      "summary": "I was initially enamored with the beta version of Apple’s revamped smartphone assistant. As the full release approaches, I’ve forgotten Siri AI even exists.",
+      "source": "Wired",
+      "published": "2026-09-06T10:30:00+00:00",
+      "link": "https://www.wired.com/story/my-brief-summer-fling-with-siri-ai/"
+    },
+    {
+      "title": "OpenAI developer claims Astra boosted productivity so much it pulled some plans forward by six months",
+      "summary": "OpenAI developer Thibault Sottiaux calls Astra the company's \"biggest competitive advantage\" while it wasn't publicly available. Internal use boosted productivity so much that some plans got pulled forward by six months.",
+      "source": "The Decoder",
+      "published": "2026-09-06T10:15:17+00:00",
+      "link": "https://the-decoder.com/openai-developer-claims-astra-boosted-productivity-so-much-it-pulled-some-plans-forward-by-six-months/"
+    },
+    {
+      "title": "Google brings AI music generation directly into the Gemini app with its new Lyria 3.5 model",
+      "summary": "Google has released its Lyria 3.5 music model in the Gemini app and via API. The model promises more expressive vocals and richer arrangements and is also available through Flow Music, AI Studio, and Google Vids.",
+      "source": "The Decoder",
+      "published": "2026-09-06T09:56:24+00:00",
+      "link": "https://the-decoder.com/google-brings-ai-music-generation-directly-into-the-gemini-app-with-its-new-lyria-3-5-model/"
+    },
+    {
+      "title": "Meta's new real-time audio model is the foundation for AI assistants that never stop listening",
+      "summary": "Meta's Superintelligence Labs have released Muse Voice Transcribe, a real-time transcription model that processes speech in 80-millisecond chunks, tells speakers apart, and detects sentence boundaries.",
+      "source": "The Decoder",
+      "published": "2026-09-06T09:45:18+00:00",
+      "link": "https://the-decoder.com/metas-new-real-time-audio-model-is-the-foundation-for-ai-assistants-that-never-stop-listening/"
+    },
     {
       "title": "Stripping safety guardrails from open-weight AI models is now a turnkey commercial service",
       "summary": "Abliteration.ai sells access to modified open-weight models with their trained safety mechanisms stripped out, currently based on Z.AI's GLM-5.3.",
@@ -10,14 +52,14 @@ const FEED_DATA = {
     },
     {
       "title": "AI, Tools and Transformation",
-      "summary": "Article URL: https://www.ben-evans.com/benedictevans/2026/9/3/ai-tools-and-transformation Comments URL: https://news.ycombinator.com/item?id=49582656 Points: 52 # Comments: 16",
+      "summary": "Article URL: https://www.ben-evans.com/benedictevans/2026/9/3/ai-tools-and-transformation Comments URL: https://news.ycombinator.com/item?id=49582656 Points: 82 # Comments: 35",
       "source": "Hacker News",
       "published": "2026-09-06T02:12:46+00:00",
       "link": "https://www.ben-evans.com/benedictevans/2026/9/3/ai-tools-and-transformation"
     },
     {
       "title": "GPT-6 Astra on robot arms",
-      "summary": "Article URL: https://openai.robocurve.org/gpt-6-astra/ Comments URL: https://news.ycombinator.com/item?id=49582582 Points: 176 # Comments: 125",
+      "summary": "Article URL: https://openai.robocurve.org/gpt-6-astra/ Comments URL: https://news.ycombinator.com/item?id=49582582 Points: 208 # Comments: 164",
       "source": "Hacker News",
       "published": "2026-09-06T01:52:45+00:00",
       "link": "https://openai.robocurve.org/gpt-6-astra/"
@@ -31,14 +73,14 @@ const FEED_DATA = {
     },
     {
       "title": "OKF Agent Memory – Git-native persistent memory for AI coding agents",
-      "summary": "Article URL: https://github.com/okf-memory/okf-agent-memory Comments URL: https://news.ycombinator.com/item?id=49581240 Points: 66 # Comments: 20",
+      "summary": "Article URL: https://github.com/okf-memory/okf-agent-memory Comments URL: https://news.ycombinator.com/item?id=49581240 Points: 68 # Comments: 20",
       "source": "Hacker News",
       "published": "2026-09-05T22:15:52+00:00",
       "link": "https://github.com/okf-memory/okf-agent-memory"
     },
     {
       "title": "America's two largest school districts impose AI moratoriums",
-      "summary": "Article URL: https://www.techpolicy.press/americas-two-largest-school-districts-impose-ai-moratoriums/ Comments URL: https://news.ycombinator.com/item?id=49580980 Points: 59 # Comments: 71",
+      "summary": "Article URL: https://www.techpolicy.press/americas-two-largest-school-districts-impose-ai-moratoriums/ Comments URL: https://news.ycombinator.com/item?id=49580980 Points: 59 # Comments: 72",
       "source": "Hacker News",
       "published": "2026-09-05T21:43:22+00:00",
       "link": "https://www.techpolicy.press/americas-two-largest-school-districts-impose-ai-moratoriums/"
@@ -108,7 +150,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI handles incidents, engineers lose touch with their systems",
-      "summary": "Article URL: https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems Comments URL: https://news.ycombinator.com/item?id=49574167 Points: 380 # Comments: 333",
+      "summary": "Article URL: https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems Comments URL: https://news.ycombinator.com/item?id=49574167 Points: 385 # Comments: 334",
       "source": "Hacker News",
       "published": "2026-09-05T07:52:50+00:00",
       "link": "https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems"
@@ -122,14 +164,14 @@ const FEED_DATA = {
     },
     {
       "title": "GPT-6 Astra in code review: Gains, privacy, and cost",
-      "summary": "Article URL: https://www.coderabbit.ai/blog/gpt-6-astra-code-review-evaluation Comments URL: https://news.ycombinator.com/item?id=49572875 Points: 71 # Comments: 69",
+      "summary": "Article URL: https://www.coderabbit.ai/blog/gpt-6-astra-code-review-evaluation Comments URL: https://news.ycombinator.com/item?id=49572875 Points: 72 # Comments: 71",
       "source": "Hacker News",
       "published": "2026-09-05T03:38:56+00:00",
       "link": "https://www.coderabbit.ai/blog/gpt-6-astra-code-review-evaluation"
     },
     {
       "title": "Artificial Analysis Intelligence Index v4.2",
-      "summary": "Article URL: https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v4-2 Comments URL: https://news.ycombinator.com/item?id=49571632 Points: 155 # Comments: 63",
+      "summary": "Article URL: https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v4-2 Comments URL: https://news.ycombinator.com/item?id=49571632 Points: 156 # Comments: 64",
       "source": "Hacker News",
       "published": "2026-09-05T00:04:14+00:00",
       "link": "https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v4-2"
@@ -157,7 +199,7 @@ const FEED_DATA = {
     },
     {
       "title": "GPT-6 Astra on OpenRouter",
-      "summary": "Article URL: https://openrouter.ai/openai/gpt-6-astra Comments URL: https://news.ycombinator.com/item?id=49570545 Points: 311 # Comments: 223",
+      "summary": "Article URL: https://openrouter.ai/openai/gpt-6-astra Comments URL: https://news.ycombinator.com/item?id=49570545 Points: 313 # Comments: 226",
       "source": "Hacker News",
       "published": "2026-09-04T21:39:19+00:00",
       "link": "https://openrouter.ai/openai/gpt-6-astra"
@@ -171,7 +213,7 @@ const FEED_DATA = {
     },
     {
       "title": "Can AI design circuit boards yet?",
-      "summary": "Article URL: https://eebench.org/blog/can-ai-design-circuit-boards-yet/ Comments URL: https://news.ycombinator.com/item?id=49569366 Points: 408 # Comments: 221",
+      "summary": "Article URL: https://eebench.org/blog/can-ai-design-circuit-boards-yet/ Comments URL: https://news.ycombinator.com/item?id=49569366 Points: 409 # Comments: 226",
       "source": "Hacker News",
       "published": "2026-09-04T19:48:29+00:00",
       "link": "https://eebench.org/blog/can-ai-design-circuit-boards-yet/"
@@ -227,7 +269,7 @@ const FEED_DATA = {
     },
     {
       "title": "Corporate America is getting hooked on open-source AI",
-      "summary": "https://archive.is/kmOqm Comments URL: https://news.ycombinator.com/item?id=49566137 Points: 325 # Comments: 299",
+      "summary": "https://archive.is/kmOqm Comments URL: https://news.ycombinator.com/item?id=49566137 Points: 328 # Comments: 299",
       "source": "Hacker News",
       "published": "2026-09-04T15:33:45+00:00",
       "link": "https://www.nytimes.com/2026/09/04/technology/open-source-ai-anthropic-openai.html"
@@ -465,7 +507,7 @@ const FEED_DATA = {
     },
     {
       "title": "Artificial beaver dams saw juvenile coho salmon survival rates go from 8% to 60%",
-      "summary": "Article URL: https://www.discoverwildlife.com/animal-facts/artificial-beaver-dams-california Comments URL: https://news.ycombinator.com/item?id=49552572 Points: 374 # Comments: 123",
+      "summary": "Article URL: https://www.discoverwildlife.com/animal-facts/artificial-beaver-dams-california Comments URL: https://news.ycombinator.com/item?id=49552572 Points: 375 # Comments: 123",
       "source": "Hacker News",
       "published": "2026-09-03T16:21:33+00:00",
       "link": "https://www.discoverwildlife.com/animal-facts/artificial-beaver-dams-california"
@@ -640,7 +682,7 @@ const FEED_DATA = {
     },
     {
       "title": "Go grandmaster Shin defeats AI KataGo with a two-stone handicap",
-      "summary": "Article URL: https://www.kedglobal.com/artificial-intelligence/newsView/ked202607210007 Comments URL: https://news.ycombinator.com/item?id=49544762 Points: 466 # Comments: 186",
+      "summary": "Article URL: https://www.kedglobal.com/artificial-intelligence/newsView/ked202607210007 Comments URL: https://news.ycombinator.com/item?id=49544762 Points: 467 # Comments: 186",
       "source": "Hacker News",
       "published": "2026-09-03T01:11:22+00:00",
       "link": "https://www.kedglobal.com/artificial-intelligence/newsView/ked202607210007"
@@ -1358,48 +1400,6 @@ const FEED_DATA = {
       "source": "Hacker News",
       "published": "2026-08-31T12:41:22+00:00",
       "link": "https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand/"
-    },
-    {
-      "title": "AI-written code is still your code",
-      "summary": "Article URL: https://martiansoftware.com/articles/ai-written-code-is-still-yours Comments URL: https://news.ycombinator.com/item?id=49508664 Points: 59 # Comments: 92",
-      "source": "Hacker News",
-      "published": "2026-08-31T12:08:25+00:00",
-      "link": "https://martiansoftware.com/articles/ai-written-code-is-still-yours"
-    },
-    {
-      "title": "AI-Written Code Is Still *Your* Code. Are You OK with That?",
-      "summary": "Article URL: https://martiansoftware.com/articles/ai-written-code-is-still-yours Comments URL: https://news.ycombinator.com/item?id=49508664 Points: 52 # Comments: 86",
-      "source": "Hacker News",
-      "published": "2026-08-31T12:08:25+00:00",
-      "link": "https://martiansoftware.com/articles/ai-written-code-is-still-yours"
-    },
-    {
-      "title": "You Know Who Hates AI? Insurance Claims Adjusters",
-      "summary": "Article URL: https://www.wired.com/story/insurance-claims-adjusters-really-hate-ai/ Comments URL: https://news.ycombinator.com/item?id=49508225 Points: 133 # Comments: 133",
-      "source": "Hacker News",
-      "published": "2026-08-31T11:01:19+00:00",
-      "link": "https://www.wired.com/story/insurance-claims-adjusters-really-hate-ai/"
-    },
-    {
-      "title": "OpenClaw 2.0 brings simplified setup, a rebuilt browser app, and multiplayer sessions",
-      "summary": "The OpenClaw Foundation has released version 2.0 of its open-source AI platform, its largest release to date with over 16,000 pull requests. New features include cloud sessions on rented machines, real-time collaboration, and a browser app rebuilt from scratch.",
-      "source": "The Decoder",
-      "published": "2026-08-31T10:46:04+00:00",
-      "link": "https://the-decoder.com/openclaw-2-0-brings-simplified-setup-a-rebuilt-browser-app-and-multiplayer-sessions/"
-    },
-    {
-      "title": "You Know Who Really Hates AI? Insurance Claims Adjusters",
-      "summary": "Of the Glassdoor reviews from claims adjusters that mentioned AI, a staggering 98 percent were negative. “AI is just a tool,” one person tells WIRED.",
-      "source": "Wired",
-      "published": "2026-08-31T10:30:00+00:00",
-      "link": "https://www.wired.com/story/insurance-claims-adjusters-really-hate-ai/"
-    },
-    {
-      "title": "OpenAI and rival AI labs are buying tens of thousands of Mac minis to train computer-use agents",
-      "summary": "According to The Information, OpenAI has purchased tens of thousands of Mac minis and Mac Studios to train computer agents. Anthropic also relies on Apple hardware.",
-      "source": "The Decoder",
-      "published": "2026-08-31T08:55:12+00:00",
-      "link": "https://the-decoder.com/openai-and-rival-ai-labs-are-buying-tens-of-thousands-of-mac-minis-to-train-computer-use-agents/"
     }
   ]
 };
