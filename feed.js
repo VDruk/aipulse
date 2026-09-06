@@ -1,6 +1,34 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-09-05T22:31:25.714797+00:00",
+  "lastUpdated": "2026-09-06T05:29:52.403401+00:00",
   "items": [
+    {
+      "title": "GPT-6 Astra on robot arms",
+      "summary": "Article URL: https://openai.robocurve.org/gpt-6-astra/ Comments URL: https://news.ycombinator.com/item?id=49582582 Points: 117 # Comments: 71",
+      "source": "Hacker News",
+      "published": "2026-09-06T01:52:45+00:00",
+      "link": "https://openai.robocurve.org/gpt-6-astra/"
+    },
+    {
+      "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
+      "summary": "Two more news organizations are suing OpenAI and Microsoft over the supposed use of their journalism to train AI.",
+      "source": "TechCrunch",
+      "published": "2026-09-05T22:49:55+00:00",
+      "link": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/"
+    },
+    {
+      "title": "OKF Agent Memory – Git-native persistent memory for AI coding agents",
+      "summary": "Article URL: https://github.com/okf-memory/okf-agent-memory Comments URL: https://news.ycombinator.com/item?id=49581240 Points: 54 # Comments: 18",
+      "source": "Hacker News",
+      "published": "2026-09-05T22:15:52+00:00",
+      "link": "https://github.com/okf-memory/okf-agent-memory"
+    },
+    {
+      "title": "America's two largest school districts impose AI moratoriums",
+      "summary": "Article URL: https://www.techpolicy.press/americas-two-largest-school-districts-impose-ai-moratoriums/ Comments URL: https://news.ycombinator.com/item?id=49580980 Points: 56 # Comments: 67",
+      "source": "Hacker News",
+      "published": "2026-09-05T21:43:22+00:00",
+      "link": "https://www.techpolicy.press/americas-two-largest-school-districts-impose-ai-moratoriums/"
+    },
     {
       "title": "Hikers rescued after using Google Gemini for planning",
       "summary": "The sheriff’s office said the hikers “were advised by Gemini to bring far less food and water than their group required.\"",
@@ -66,7 +94,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI handles incidents, engineers lose touch with their systems",
-      "summary": "Article URL: https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems Comments URL: https://news.ycombinator.com/item?id=49574167 Points: 360 # Comments: 312",
+      "summary": "Article URL: https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems Comments URL: https://news.ycombinator.com/item?id=49574167 Points: 371 # Comments: 331",
       "source": "Hacker News",
       "published": "2026-09-05T07:52:50+00:00",
       "link": "https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems"
@@ -80,14 +108,14 @@ const FEED_DATA = {
     },
     {
       "title": "GPT-6 Astra in code review: Gains, privacy, and cost",
-      "summary": "Article URL: https://www.coderabbit.ai/blog/gpt-6-astra-code-review-evaluation Comments URL: https://news.ycombinator.com/item?id=49572875 Points: 70 # Comments: 68",
+      "summary": "Article URL: https://www.coderabbit.ai/blog/gpt-6-astra-code-review-evaluation Comments URL: https://news.ycombinator.com/item?id=49572875 Points: 71 # Comments: 68",
       "source": "Hacker News",
       "published": "2026-09-05T03:38:56+00:00",
       "link": "https://www.coderabbit.ai/blog/gpt-6-astra-code-review-evaluation"
     },
     {
       "title": "Artificial Analysis Intelligence Index v4.2",
-      "summary": "Article URL: https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v4-2 Comments URL: https://news.ycombinator.com/item?id=49571632 Points: 146 # Comments: 62",
+      "summary": "Article URL: https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v4-2 Comments URL: https://news.ycombinator.com/item?id=49571632 Points: 151 # Comments: 63",
       "source": "Hacker News",
       "published": "2026-09-05T00:04:14+00:00",
       "link": "https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v4-2"
@@ -115,7 +143,7 @@ const FEED_DATA = {
     },
     {
       "title": "GPT-6 Astra on OpenRouter",
-      "summary": "Article URL: https://openrouter.ai/openai/gpt-6-astra Comments URL: https://news.ycombinator.com/item?id=49570545 Points: 295 # Comments: 219",
+      "summary": "Article URL: https://openrouter.ai/openai/gpt-6-astra Comments URL: https://news.ycombinator.com/item?id=49570545 Points: 307 # Comments: 222",
       "source": "Hacker News",
       "published": "2026-09-04T21:39:19+00:00",
       "link": "https://openrouter.ai/openai/gpt-6-astra"
@@ -129,7 +157,7 @@ const FEED_DATA = {
     },
     {
       "title": "Can AI design circuit boards yet?",
-      "summary": "Article URL: https://eebench.org/blog/can-ai-design-circuit-boards-yet/ Comments URL: https://news.ycombinator.com/item?id=49569366 Points: 358 # Comments: 203",
+      "summary": "Article URL: https://eebench.org/blog/can-ai-design-circuit-boards-yet/ Comments URL: https://news.ycombinator.com/item?id=49569366 Points: 399 # Comments: 211",
       "source": "Hacker News",
       "published": "2026-09-04T19:48:29+00:00",
       "link": "https://eebench.org/blog/can-ai-design-circuit-boards-yet/"
@@ -185,7 +213,7 @@ const FEED_DATA = {
     },
     {
       "title": "Corporate America is getting hooked on open-source AI",
-      "summary": "https://archive.is/kmOqm Comments URL: https://news.ycombinator.com/item?id=49566137 Points: 316 # Comments: 294",
+      "summary": "https://archive.is/kmOqm Comments URL: https://news.ycombinator.com/item?id=49566137 Points: 320 # Comments: 299",
       "source": "Hacker News",
       "published": "2026-09-04T15:33:45+00:00",
       "link": "https://www.nytimes.com/2026/09/04/technology/open-source-ai-anthropic-openai.html"
@@ -339,7 +367,7 @@ const FEED_DATA = {
     },
     {
       "title": "OpenAI's GPT-6 Astra on ARC-AGI-3",
-      "summary": "Article URL: https://arcprize.org/blog/astra Comments URL: https://news.ycombinator.com/item?id=49555691 Points: 234 # Comments: 152",
+      "summary": "Article URL: https://arcprize.org/blog/astra Comments URL: https://news.ycombinator.com/item?id=49555691 Points: 234 # Comments: 155",
       "source": "Hacker News",
       "published": "2026-09-03T19:45:00+00:00",
       "link": "https://arcprize.org/blog/astra"
@@ -409,7 +437,7 @@ const FEED_DATA = {
     },
     {
       "title": "Sanders introduces bill to ban artificial superintelligence and pause AI",
-      "summary": "Article URL: https://www.sanders.senate.gov/press-releases/news-sanders-casar-introduce-legislation-to-ban-artificial-superintelligence-and-temporarily-pause-advanced-ai-development/ Comments URL: https://news.ycombinator.com/item?id=49553463 Points: 61 # Comments: 82",
+      "summary": "Article URL: https://www.sanders.senate.gov/press-releases/news-sanders-casar-introduce-legislation-to-ban-artificial-superintelligence-and-temporarily-pause-advanced-ai-development/ Comments URL: https://news.ycombinator.com/item?id=49553463 Points: 61 # Comments: 83",
       "source": "Hacker News",
       "published": "2026-09-03T17:20:29+00:00",
       "link": "https://www.sanders.senate.gov/press-releases/news-sanders-casar-introduce-legislation-to-ban-artificial-superintelligence-and-temporarily-pause-advanced-ai-development/"
@@ -423,7 +451,7 @@ const FEED_DATA = {
     },
     {
       "title": "Artificial beaver dams saw juvenile coho salmon survival rates go from 8% to 60%",
-      "summary": "Article URL: https://www.discoverwildlife.com/animal-facts/artificial-beaver-dams-california Comments URL: https://news.ycombinator.com/item?id=49552572 Points: 373 # Comments: 122",
+      "summary": "Article URL: https://www.discoverwildlife.com/animal-facts/artificial-beaver-dams-california Comments URL: https://news.ycombinator.com/item?id=49552572 Points: 373 # Comments: 123",
       "source": "Hacker News",
       "published": "2026-09-03T16:21:33+00:00",
       "link": "https://www.discoverwildlife.com/animal-facts/artificial-beaver-dams-california"
@@ -598,7 +626,7 @@ const FEED_DATA = {
     },
     {
       "title": "Go grandmaster Shin defeats AI KataGo with a two-stone handicap",
-      "summary": "Article URL: https://www.kedglobal.com/artificial-intelligence/newsView/ked202607210007 Comments URL: https://news.ycombinator.com/item?id=49544762 Points: 463 # Comments: 185",
+      "summary": "Article URL: https://www.kedglobal.com/artificial-intelligence/newsView/ked202607210007 Comments URL: https://news.ycombinator.com/item?id=49544762 Points: 466 # Comments: 186",
       "source": "Hacker News",
       "published": "2026-09-03T01:11:22+00:00",
       "link": "https://www.kedglobal.com/artificial-intelligence/newsView/ked202607210007"
@@ -619,7 +647,7 @@ const FEED_DATA = {
     },
     {
       "title": "Mamdani bans AI in NYC schools",
-      "summary": "Article URL: https://www.nytimes.com/2026/09/01/nyregion/ai-ban-schools-nyc.html Comments URL: https://news.ycombinator.com/item?id=49542443 Points: 219 # Comments: 180",
+      "summary": "Article URL: https://www.nytimes.com/2026/09/01/nyregion/ai-ban-schools-nyc.html Comments URL: https://news.ycombinator.com/item?id=49542443 Points: 220 # Comments: 180",
       "source": "Hacker News",
       "published": "2026-09-02T20:57:04+00:00",
       "link": "https://www.nytimes.com/2026/09/01/nyregion/ai-ban-schools-nyc.html"
@@ -1372,34 +1400,6 @@ const FEED_DATA = {
       "source": "The Verge",
       "published": "2026-08-30T15:35:10+00:00",
       "link": "https://www.theverge.com/ai-artificial-intelligence/986541/texas-governor-abbott-flock-cameras"
-    },
-    {
-      "title": "Caterpillar is bringing to AI deployment what it learned from automating mining",
-      "summary": "Caterpillar has spent decades putting autonomous machines to work at remote mining sites. It's now bringing that experience to AI deployment.",
-      "source": "TechCrunch",
-      "published": "2026-08-30T15:00:00+00:00",
-      "link": "https://techcrunch.com/2026/08/30/caterpillar-is-bringing-to-ai-deployment-what-it-learned-from-automating-mining/"
-    },
-    {
-      "title": "AI sentiment is turning sour as employee reviews reveal growing frustration across the workforce",
-      "summary": "An analysis of Glassdoor reviews shows that positive AI comments have dropped from 81 to 43 percent since 2019. Executives rate AI mostly positive, while insurance claims workers rate it almost entirely negative.",
-      "source": "The Decoder",
-      "published": "2026-08-30T13:12:19+00:00",
-      "link": "https://the-decoder.com/ai-sentiment-is-turning-sour-as-employee-reviews-reveal-growing-frustration-across-the-workforce/"
-    },
-    {
-      "title": "No AI Fridays",
-      "summary": "Article URL: https://noaifridays.com/ Comments URL: https://news.ycombinator.com/item?id=49498095 Points: 290 # Comments: 205",
-      "source": "Hacker News",
-      "published": "2026-08-30T12:31:05+00:00",
-      "link": "https://noaifridays.com/"
-    },
-    {
-      "title": "AI agents have no sense of time and are not aware of it",
-      "summary": "AI coding assistants like Claude Code and Codex have no sense of time, according to a new study. Both systematically overestimate how long tasks will take.",
-      "source": "The Decoder",
-      "published": "2026-08-30T10:41:36+00:00",
-      "link": "https://the-decoder.com/ai-agents-have-no-sense-of-time-and-are-not-aware-of-it/"
     }
   ]
 };
