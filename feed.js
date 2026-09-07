@@ -1,6 +1,13 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-09-06T22:35:42.880588+00:00",
+  "lastUpdated": "2026-09-07T05:41:14.707264+00:00",
   "items": [
+    {
+      "title": "Seattle Times and Newsday sue OpenAI and Microsoft for infringement",
+      "summary": "The Seattle Times and Newsday are just the latest plaintiffs to take OpenAI to court, alleging copyright infringement.",
+      "source": "The Verge",
+      "published": "2026-09-06T23:36:04+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/990932/seattle-times-newsday-lawsuit-openai-microsoft"
+    },
     {
       "title": "Authors push back as publishers and agents make claims on Anthropic settlement",
       "summary": "Authors say publishers seem to be claiming more than their fair share of settlement payments.",
@@ -1393,13 +1400,6 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-08-31T14:31:37+00:00",
       "link": "https://the-decoder.com/chatgpt-now-faces-stricter-eu-oversight-as-a-very-large-search-engine/"
-    },
-    {
-      "title": "OpenAI starts charging some customers only when its AI actually works",
-      "summary": "OpenAI is offering some large customers outcome-based pricing, where they pay only once the AI actually finishes a task. Salesforce, Adobe, and several startups are also moving away from fixed subscription fees.",
-      "source": "The Decoder",
-      "published": "2026-08-31T14:28:14+00:00",
-      "link": "https://the-decoder.com/openai-starts-charging-some-customers-only-when-its-ai-actually-works/"
     }
   ]
 };
