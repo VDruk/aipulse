@@ -1,6 +1,55 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-09-07T09:59:51.946151+00:00",
+  "lastUpdated": "2026-09-07T14:30:31.486842+00:00",
   "items": [
+    {
+      "title": "How AI wiped out an entire industry in Nairobi",
+      "summary": "In Kenya, ChatGPT wiped out an entire business model: writing academic papers for foreign students. The article How AI wiped out an entire industry in Nairobi appeared first on The Decoder.",
+      "source": "The Decoder",
+      "published": "2026-09-07T13:18:57+00:00",
+      "link": "https://the-decoder.com/how-ai-wiped-out-an-entire-industry-in-nairobi/"
+    },
+    {
+      "title": "At UBS, AI skills are now a condition for landing a job",
+      "summary": "Swiss banking giant UBS is making AI skills a required qualification from 2027 for graduates and interns in Global Banking and Markets, with applicants having to show in interviews how they use AI to improve outcomes and efficiency.",
+      "source": "The Decoder",
+      "published": "2026-09-07T13:13:38+00:00",
+      "link": "https://the-decoder.com/at-ubs-ai-skills-are-now-a-condition-for-landing-a-job/"
+    },
+    {
+      "title": "OpenAI reports AI \"research interns\" and warns about its own pace at the same time",
+      "summary": "OpenAI reports that AI agents in its own research already handle 3.1 workdays for every human workday, and it says it has reached its goal of an \"automated research intern.\" But chief scientist Pachocki warns that no lab has a good enough grip on alignment and monitoring to keep...",
+      "source": "The Decoder",
+      "published": "2026-09-07T13:05:22+00:00",
+      "link": "https://the-decoder.com/openai-reports-ai-research-interns-and-warns-about-its-own-pace-at-the-same-time/"
+    },
+    {
+      "title": "New York City bans AI tools from public schools through eighth grade",
+      "summary": "New York City bans AI use in public schools through the end of middle school. The article New York City bans AI tools from public schools through eighth grade appeared first on The Decoder.",
+      "source": "The Decoder",
+      "published": "2026-09-07T13:00:03+00:00",
+      "link": "https://the-decoder.com/new-york-city-bans-ai-tools-from-public-schools-through-eighth-grade/"
+    },
+    {
+      "title": "Qwen-Drive 1.0 tells you why it brakes, just don't expect the explanation to match the maneuver",
+      "summary": "Alibaba's research arm has released Qwen-Drive 1.0, an AI model that handles environmental perception, traffic Q&A, and route planning in one system. The researchers show that text-image models don't automatically understand three-dimensional space.",
+      "source": "The Decoder",
+      "published": "2026-09-07T12:15:54+00:00",
+      "link": "https://the-decoder.com/qwen-drive-1-0-tells-you-why-it-brakes-just-dont-expect-the-explanation-to-match-the-maneuver/"
+    },
+    {
+      "title": "The Download: the hunt for underground hydrogen and more rogue OpenAI agents",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. How much hydrogen awaits us underground?",
+      "source": "MIT Tech Review",
+      "published": "2026-09-07T12:10:00+00:00",
+      "link": "https://www.technologyreview.com/2026/09/07/1143592/the-download-underground-hydrogen-search-rogue-openai-agents/"
+    },
+    {
+      "title": "Whispering Complaints Into Your Phone May Be the Future of Customer Feedback",
+      "summary": "Forget email surveys or long calls spent on hold. Voicebox lets people send customer feedback by recording a voice note on their phone.",
+      "source": "Wired",
+      "published": "2026-09-07T10:30:00+00:00",
+      "link": "https://www.wired.com/story/whispering-complaints-into-your-phone-may-be-the-future-of-customer-feedback/"
+    },
     {
       "title": "Seattle Times and Newsday sue OpenAI and Microsoft for infringement",
       "summary": "The Seattle Times and Newsday are just the latest plaintiffs to take OpenAI to court, alleging copyright infringement.",
@@ -1351,55 +1400,6 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-08-31T16:00:00+00:00",
       "link": "https://techcrunch.com/2026/08/31/three-year-old-ai-media-search-startup-clipto-hits-a-250m-valuation/"
-    },
-    {
-      "title": "Debian won’t ban AI code from its Linux distribution",
-      "summary": "Debian voted to allow developers to use AI tools in their contributions to the Linux distribution's \"development, maintenance, [and] documentation.\" The new policy on AI acknowledges that \"responsible\" use of AI can improve developers' productivity, and goes on to say,...",
-      "source": "The Verge",
-      "published": "2026-08-31T15:34:58+00:00",
-      "link": "https://www.theverge.com/tech/986789/linux-debian-generative-ai-policy"
-    },
-    {
-      "title": "Launch HN: Almanac (YC S26) – AI that knows your company",
-      "summary": "Hi HN, I'm Kushagra, one of three founders of Almanac, a Hermes with a brain that knows everything about your company.We started our journey with setting up Hermes for our company, thinking it must be easy.",
-      "source": "Hacker News",
-      "published": "2026-08-31T15:34:34+00:00",
-      "link": "https://usealmanac.com/"
-    },
-    {
-      "title": "OpenAI says its ChatGPT ad business hits a $1 billion annual run rate",
-      "summary": "OpenAI's advertising business has reached an annualized revenue run rate of $1 billion, according to the company. The article OpenAI says its ChatGPT ad business hits a $1 billion annual run rate appeared first on The Decoder.",
-      "source": "The Decoder",
-      "published": "2026-08-31T15:24:59+00:00",
-      "link": "https://the-decoder.com/openai-says-its-chatgpt-ad-business-hits-a-1-billion-annual-run-rate/"
-    },
-    {
-      "title": "China's CXMT makes its first HBM3E chips, closing the AI memory gap",
-      "summary": "China's top memory maker ChangXin Memory Technologies (CXMT) is producing HBM3E for the first time in small quantities, a fast memory found in many current AI processors.",
-      "source": "The Decoder",
-      "published": "2026-08-31T15:17:31+00:00",
-      "link": "https://the-decoder.com/chinas-cxmt-makes-its-first-hbm3e-chips-closing-the-ai-memory-gap/"
-    },
-    {
-      "title": "Nvidia’s $3.5B MediaTek bet reveals its plan for tackling Big Tech’s AI chip buildout",
-      "summary": "Nvidia invests $3.5 billion into Taiwanese chipmaker MediaTek. The deal shows how Nvidia plans to stay essential to AI infrastructure as Big Tech begins to build its own AI chips.",
-      "source": "TechCrunch",
-      "published": "2026-08-31T15:15:25+00:00",
-      "link": "https://techcrunch.com/2026/08/31/nvidias-3-5b-mediatek-bet-reveals-its-plan-for-tackling-big-techs-ai-chip-buildout/"
-    },
-    {
-      "title": "Marx, Keynes, and AI",
-      "summary": "Article URL: https://www.unpopularfront.news/p/marx-keynes-and-ai Comments URL: https://news.ycombinator.com/item?id=49510302 Points: 59 # Comments: 99",
-      "source": "Hacker News",
-      "published": "2026-08-31T14:36:03+00:00",
-      "link": "https://www.unpopularfront.news/p/marx-keynes-and-ai"
-    },
-    {
-      "title": "ChatGPT now faces stricter EU oversight as a very large search engine",
-      "summary": "The EU Commission is classifying ChatGPT as a very large search engine under the Digital Services Act for the first time, with at least 45 million monthly EU users.",
-      "source": "The Decoder",
-      "published": "2026-08-31T14:31:37+00:00",
-      "link": "https://the-decoder.com/chatgpt-now-faces-stricter-eu-oversight-as-a-very-large-search-engine/"
     }
   ]
 };
