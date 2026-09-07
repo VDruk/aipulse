@@ -1,5 +1,5 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-09-07T05:41:14.707264+00:00",
+  "lastUpdated": "2026-09-07T09:59:51.946151+00:00",
   "items": [
     {
       "title": "Seattle Times and Newsday sue OpenAI and Microsoft for infringement",
