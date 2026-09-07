@@ -1,5 +1,5 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-09-07T20:19:40.889318+00:00",
+  "lastUpdated": "2026-09-07T23:14:27.706171+00:00",
   "items": [
     {
       "title": "Opaque recurrence, and other AI terms that you should probably know",
@@ -7,6 +7,20 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-09-07T19:24:00+00:00",
       "link": "https://techcrunch.com/2026/09/07/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/"
+    },
+    {
+      "title": "AI Cold Showers",
+      "summary": "Article URL: https://allan.reyes.sh/posts/ai-cold-showers/ Comments URL: https://news.ycombinator.com/item?id=49601810 Points: 66 # Comments: 11",
+      "source": "Hacker News",
+      "published": "2026-09-07T19:05:39+00:00",
+      "link": "https://allan.reyes.sh/posts/ai-cold-showers/"
+    },
+    {
+      "title": "AI models ran real businesses: They sent $12,431 in fake invoices, lost $3,200",
+      "summary": "Article URL: https://www.bottlenecklabs.com/blog/benchmarking-7-autonomous-businesses Comments URL: https://news.ycombinator.com/item?id=49601338 Points: 96 # Comments: 113",
+      "source": "Hacker News",
+      "published": "2026-09-07T18:24:32+00:00",
+      "link": "https://www.bottlenecklabs.com/blog/benchmarking-7-autonomous-businesses"
     },
     {
       "title": "Anthropic reportedly signs $517 billion in compute deals after Dario Amodei warned rivals about reckless risk",
@@ -86,6 +100,13 @@ const FEED_DATA = {
       "link": "https://www.technologyreview.com/2026/09/07/1143592/the-download-underground-hydrogen-search-rogue-openai-agents/"
     },
     {
+      "title": "Initial effects of AI technology on employment look positive",
+      "summary": "https://archive.md/5hi5i Comments URL: https://news.ycombinator.com/item?id=49596610 Points: 62 # Comments: 96",
+      "source": "Hacker News",
+      "published": "2026-09-07T10:38:32+00:00",
+      "link": "https://www.economist.com/finance-and-economics/2026/09/04/the-jobs-apocalypse-is-postponed-an-ai-jobs-boom-is-here"
+    },
+    {
       "title": "Whispering Complaints Into Your Phone May Be the Future of Customer Feedback",
       "summary": "Forget email surveys or long calls spent on hold. Voicebox lets people send customer feedback by recording a voice note on their phone.",
       "source": "Wired",
@@ -94,14 +115,14 @@ const FEED_DATA = {
     },
     {
       "title": "Show HN: Engrim – A universal, local-first SQLite memory engine for AI CLIs",
-      "summary": "Article URL: https://github.com/timgordontg/engrim Comments URL: https://news.ycombinator.com/item?id=49594008 Points: 78 # Comments: 44",
+      "summary": "Article URL: https://github.com/timgordontg/engrim Comments URL: https://news.ycombinator.com/item?id=49594008 Points: 81 # Comments: 50",
       "source": "Hacker News",
       "published": "2026-09-07T04:49:36+00:00",
       "link": "https://github.com/timgordontg/engrim"
     },
     {
       "title": "I refused to train the AI that could replace me",
-      "summary": "Article URL: https://restofworld.org/2026/ai-training-jobs-expert-replacement/ Comments URL: https://news.ycombinator.com/item?id=49593959 Points: 90 # Comments: 103",
+      "summary": "Article URL: https://restofworld.org/2026/ai-training-jobs-expert-replacement/ Comments URL: https://news.ycombinator.com/item?id=49593959 Points: 92 # Comments: 107",
       "source": "Hacker News",
       "published": "2026-09-07T04:38:22+00:00",
       "link": "https://restofworld.org/2026/ai-training-jobs-expert-replacement/"
@@ -150,7 +171,7 @@ const FEED_DATA = {
     },
     {
       "title": "Your intellectual fly is open when you use an LLM to author a post (2025)",
-      "summary": "Article URL: https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/ Comments URL: https://news.ycombinator.com/item?id=49585644 Points: 691 # Comments: 422",
+      "summary": "Article URL: https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/ Comments URL: https://news.ycombinator.com/item?id=49585644 Points: 705 # Comments: 431",
       "source": "Hacker News",
       "published": "2026-09-06T11:56:43+00:00",
       "link": "https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/"
@@ -199,14 +220,14 @@ const FEED_DATA = {
     },
     {
       "title": "AI, Tools and Transformation",
-      "summary": "Article URL: https://www.ben-evans.com/benedictevans/2026/9/3/ai-tools-and-transformation Comments URL: https://news.ycombinator.com/item?id=49582656 Points: 153 # Comments: 74",
+      "summary": "Article URL: https://www.ben-evans.com/benedictevans/2026/9/3/ai-tools-and-transformation Comments URL: https://news.ycombinator.com/item?id=49582656 Points: 154 # Comments: 75",
       "source": "Hacker News",
       "published": "2026-09-06T02:12:46+00:00",
       "link": "https://www.ben-evans.com/benedictevans/2026/9/3/ai-tools-and-transformation"
     },
     {
       "title": "GPT-6 Astra on robot arms",
-      "summary": "Article URL: https://openai.robocurve.org/gpt-6-astra/ Comments URL: https://news.ycombinator.com/item?id=49582582 Points: 238 # Comments: 188",
+      "summary": "Article URL: https://openai.robocurve.org/gpt-6-astra/ Comments URL: https://news.ycombinator.com/item?id=49582582 Points: 240 # Comments: 189",
       "source": "Hacker News",
       "published": "2026-09-06T01:52:45+00:00",
       "link": "https://openai.robocurve.org/gpt-6-astra/"
@@ -220,7 +241,7 @@ const FEED_DATA = {
     },
     {
       "title": "OKF Agent Memory – Git-native persistent memory for AI coding agents",
-      "summary": "Article URL: https://github.com/okf-memory/okf-agent-memory Comments URL: https://news.ycombinator.com/item?id=49581240 Points: 78 # Comments: 26",
+      "summary": "Article URL: https://github.com/okf-memory/okf-agent-memory Comments URL: https://news.ycombinator.com/item?id=49581240 Points: 78 # Comments: 31",
       "source": "Hacker News",
       "published": "2026-09-05T22:15:52+00:00",
       "link": "https://github.com/okf-memory/okf-agent-memory"
@@ -297,7 +318,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI handles incidents, engineers lose touch with their systems",
-      "summary": "Article URL: https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems Comments URL: https://news.ycombinator.com/item?id=49574167 Points: 411 # Comments: 342",
+      "summary": "Article URL: https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems Comments URL: https://news.ycombinator.com/item?id=49574167 Points: 412 # Comments: 342",
       "source": "Hacker News",
       "published": "2026-09-05T07:52:50+00:00",
       "link": "https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems"
@@ -311,7 +332,7 @@ const FEED_DATA = {
     },
     {
       "title": "GPT-6 Astra in code review: Gains, privacy, and cost",
-      "summary": "Article URL: https://www.coderabbit.ai/blog/gpt-6-astra-code-review-evaluation Comments URL: https://news.ycombinator.com/item?id=49572875 Points: 73 # Comments: 74",
+      "summary": "Article URL: https://www.coderabbit.ai/blog/gpt-6-astra-code-review-evaluation Comments URL: https://news.ycombinator.com/item?id=49572875 Points: 74 # Comments: 74",
       "source": "Hacker News",
       "published": "2026-09-05T03:38:56+00:00",
       "link": "https://www.coderabbit.ai/blog/gpt-6-astra-code-review-evaluation"
@@ -367,7 +388,7 @@ const FEED_DATA = {
     },
     {
       "title": "Can AI design circuit boards yet?",
-      "summary": "Article URL: https://eebench.org/blog/can-ai-design-circuit-boards-yet/ Comments URL: https://news.ycombinator.com/item?id=49569366 Points: 419 # Comments: 239",
+      "summary": "Article URL: https://eebench.org/blog/can-ai-design-circuit-boards-yet/ Comments URL: https://news.ycombinator.com/item?id=49569366 Points: 420 # Comments: 239",
       "source": "Hacker News",
       "published": "2026-09-04T19:48:29+00:00",
       "link": "https://eebench.org/blog/can-ai-design-circuit-boards-yet/"
@@ -577,7 +598,7 @@ const FEED_DATA = {
     },
     {
       "title": "OpenAI's GPT-6 Astra on ARC-AGI-3",
-      "summary": "Article URL: https://arcprize.org/blog/astra Comments URL: https://news.ycombinator.com/item?id=49555691 Points: 238 # Comments: 157",
+      "summary": "Article URL: https://arcprize.org/blog/astra Comments URL: https://news.ycombinator.com/item?id=49555691 Points: 238 # Comments: 158",
       "source": "Hacker News",
       "published": "2026-09-03T19:45:00+00:00",
       "link": "https://arcprize.org/blog/astra"
@@ -1379,27 +1400,6 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-09-01T12:44:11+00:00",
       "link": "https://the-decoder.com/googles-ai-search-dropped-its-emergency-call-advice-over-nationalities-but-still-flags-people-from-facebook/"
-    },
-    {
-      "title": "The Download: engineered microbes for crops, and OpenAI’s culture problem",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.",
-      "source": "MIT Tech Review",
-      "published": "2026-09-01T12:10:00+00:00",
-      "link": "https://www.technologyreview.com/2026/09/01/1143199/the-download-engineered-microbes-openai-safety-culture/"
-    },
-    {
-      "title": "Why MCP servers are becoming AI’s newest attack surface",
-      "summary": "As AI adoption gathers pace, so does the evolution of the infrastructure that supports it. New standards and connectors keep appearing, and the ones that catch on spread through the ecosystem within months rather than years.",
-      "source": "AI News",
-      "published": "2026-09-01T07:37:26+00:00",
-      "link": "https://www.artificialintelligence-news.com/news/why-mcp-servers-are-becoming-ais-newest-attack-surface/"
-    },
-    {
-      "title": "AI Can Make You Suck Faster Too",
-      "summary": "Article URL: https://www.hermit-tech.com/blog/ai-can-make-you-suck-faster-too Comments URL: https://news.ycombinator.com/item?id=49518316 Points: 191 # Comments: 173",
-      "source": "Hacker News",
-      "published": "2026-09-01T05:32:56+00:00",
-      "link": "https://www.hermit-tech.com/blog/ai-can-make-you-suck-faster-too"
     }
   ]
 };
