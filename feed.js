@@ -1,5 +1,5 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-09-07T23:14:27.706171+00:00",
+  "lastUpdated": "2026-09-08T05:38:13.727450+00:00",
   "items": [
     {
       "title": "Opaque recurrence, and other AI terms that you should probably know",
@@ -10,14 +10,14 @@ const FEED_DATA = {
     },
     {
       "title": "AI Cold Showers",
-      "summary": "Article URL: https://allan.reyes.sh/posts/ai-cold-showers/ Comments URL: https://news.ycombinator.com/item?id=49601810 Points: 66 # Comments: 11",
+      "summary": "Article URL: https://allan.reyes.sh/posts/ai-cold-showers/ Comments URL: https://news.ycombinator.com/item?id=49601810 Points: 73 # Comments: 12",
       "source": "Hacker News",
       "published": "2026-09-07T19:05:39+00:00",
       "link": "https://allan.reyes.sh/posts/ai-cold-showers/"
     },
     {
       "title": "AI models ran real businesses: They sent $12,431 in fake invoices, lost $3,200",
-      "summary": "Article URL: https://www.bottlenecklabs.com/blog/benchmarking-7-autonomous-businesses Comments URL: https://news.ycombinator.com/item?id=49601338 Points: 96 # Comments: 113",
+      "summary": "Article URL: https://www.bottlenecklabs.com/blog/benchmarking-7-autonomous-businesses Comments URL: https://news.ycombinator.com/item?id=49601338 Points: 98 # Comments: 116",
       "source": "Hacker News",
       "published": "2026-09-07T18:24:32+00:00",
       "link": "https://www.bottlenecklabs.com/blog/benchmarking-7-autonomous-businesses"
@@ -101,7 +101,7 @@ const FEED_DATA = {
     },
     {
       "title": "Initial effects of AI technology on employment look positive",
-      "summary": "https://archive.md/5hi5i Comments URL: https://news.ycombinator.com/item?id=49596610 Points: 62 # Comments: 96",
+      "summary": "https://archive.md/5hi5i Comments URL: https://news.ycombinator.com/item?id=49596610 Points: 76 # Comments: 116",
       "source": "Hacker News",
       "published": "2026-09-07T10:38:32+00:00",
       "link": "https://www.economist.com/finance-and-economics/2026/09/04/the-jobs-apocalypse-is-postponed-an-ai-jobs-boom-is-here"
@@ -115,14 +115,14 @@ const FEED_DATA = {
     },
     {
       "title": "Show HN: Engrim – A universal, local-first SQLite memory engine for AI CLIs",
-      "summary": "Article URL: https://github.com/timgordontg/engrim Comments URL: https://news.ycombinator.com/item?id=49594008 Points: 81 # Comments: 50",
+      "summary": "Article URL: https://github.com/timgordontg/engrim Comments URL: https://news.ycombinator.com/item?id=49594008 Points: 86 # Comments: 50",
       "source": "Hacker News",
       "published": "2026-09-07T04:49:36+00:00",
       "link": "https://github.com/timgordontg/engrim"
     },
     {
       "title": "I refused to train the AI that could replace me",
-      "summary": "Article URL: https://restofworld.org/2026/ai-training-jobs-expert-replacement/ Comments URL: https://news.ycombinator.com/item?id=49593959 Points: 92 # Comments: 107",
+      "summary": "Article URL: https://restofworld.org/2026/ai-training-jobs-expert-replacement/ Comments URL: https://news.ycombinator.com/item?id=49593959 Points: 94 # Comments: 113",
       "source": "Hacker News",
       "published": "2026-09-07T04:38:22+00:00",
       "link": "https://restofworld.org/2026/ai-training-jobs-expert-replacement/"
@@ -150,7 +150,7 @@ const FEED_DATA = {
     },
     {
       "title": "How I feel about AI",
-      "summary": "Article URL: https://beza1e1.tuxen.de/ai_feelings.html Comments URL: https://news.ycombinator.com/item?id=49587128 Points: 162 # Comments: 256",
+      "summary": "Article URL: https://beza1e1.tuxen.de/ai_feelings.html Comments URL: https://news.ycombinator.com/item?id=49587128 Points: 162 # Comments: 258",
       "source": "Hacker News",
       "published": "2026-09-06T15:00:19+00:00",
       "link": "https://beza1e1.tuxen.de/ai_feelings.html"
@@ -171,7 +171,7 @@ const FEED_DATA = {
     },
     {
       "title": "Your intellectual fly is open when you use an LLM to author a post (2025)",
-      "summary": "Article URL: https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/ Comments URL: https://news.ycombinator.com/item?id=49585644 Points: 705 # Comments: 431",
+      "summary": "Article URL: https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/ Comments URL: https://news.ycombinator.com/item?id=49585644 Points: 718 # Comments: 433",
       "source": "Hacker News",
       "published": "2026-09-06T11:56:43+00:00",
       "link": "https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/"
@@ -220,7 +220,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI, Tools and Transformation",
-      "summary": "Article URL: https://www.ben-evans.com/benedictevans/2026/9/3/ai-tools-and-transformation Comments URL: https://news.ycombinator.com/item?id=49582656 Points: 154 # Comments: 75",
+      "summary": "Article URL: https://www.ben-evans.com/benedictevans/2026/9/3/ai-tools-and-transformation Comments URL: https://news.ycombinator.com/item?id=49582656 Points: 155 # Comments: 76",
       "source": "Hacker News",
       "published": "2026-09-06T02:12:46+00:00",
       "link": "https://www.ben-evans.com/benedictevans/2026/9/3/ai-tools-and-transformation"
@@ -332,7 +332,7 @@ const FEED_DATA = {
     },
     {
       "title": "GPT-6 Astra in code review: Gains, privacy, and cost",
-      "summary": "Article URL: https://www.coderabbit.ai/blog/gpt-6-astra-code-review-evaluation Comments URL: https://news.ycombinator.com/item?id=49572875 Points: 74 # Comments: 74",
+      "summary": "Article URL: https://www.coderabbit.ai/blog/gpt-6-astra-code-review-evaluation Comments URL: https://news.ycombinator.com/item?id=49572875 Points: 74 # Comments: 75",
       "source": "Hacker News",
       "published": "2026-09-05T03:38:56+00:00",
       "link": "https://www.coderabbit.ai/blog/gpt-6-astra-code-review-evaluation"
@@ -598,7 +598,7 @@ const FEED_DATA = {
     },
     {
       "title": "OpenAI's GPT-6 Astra on ARC-AGI-3",
-      "summary": "Article URL: https://arcprize.org/blog/astra Comments URL: https://news.ycombinator.com/item?id=49555691 Points: 238 # Comments: 158",
+      "summary": "Article URL: https://arcprize.org/blog/astra Comments URL: https://news.ycombinator.com/item?id=49555691 Points: 238 # Comments: 160",
       "source": "Hacker News",
       "published": "2026-09-03T19:45:00+00:00",
       "link": "https://arcprize.org/blog/astra"
