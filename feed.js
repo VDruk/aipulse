@@ -1,6 +1,48 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-09-08T17:06:47.987893+00:00",
+  "lastUpdated": "2026-09-08T19:41:40.552590+00:00",
   "items": [
+    {
+      "title": "OpenAI researcher allegedly pressured mathematician to drop Anthropic co-author from math breakthrough paper",
+      "summary": "Mathematician Tristan Buckmaster says an OpenAI researcher pressured him after information about his AI-assisted progress on the Navier-Stokes equations allegedly reached the company.",
+      "source": "The Decoder",
+      "published": "2026-09-08T19:23:04+00:00",
+      "link": "https://the-decoder.com/openai-researcher-allegedly-pressured-mathematician-to-drop-anthropic-co-author-from-math-breakthrough-paper/"
+    },
+    {
+      "title": "Meta debuts its Muse AI agent. Will consumers trust it?",
+      "summary": "Meta's new personal AI agent Muse wants access to users' email, calendars, payments, health services, and more — making the company's biggest consumer AI bet yet a major test of whether people still trust Meta with their data.",
+      "source": "TechCrunch",
+      "published": "2026-09-08T19:00:00+00:00",
+      "link": "https://techcrunch.com/2026/09/08/meta-debuts-its-muse-ai-agent-will-consumers-trust-it/"
+    },
+    {
+      "title": "Meta bets on AI agent Muse to catch up in AI race",
+      "summary": "Meta is making another push to bring artificial intelligence to the masses with Muse, a personal assistant it says can put AI in the hands of virtually anyone.",
+      "source": "The Verge",
+      "published": "2026-09-08T19:00:00+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/991216/meta-bets-on-ai-agent-muse-to-catch-up-in-ai-race"
+    },
+    {
+      "title": "OpenAI fought dirty on career-making math problem, says NYU mathematician",
+      "summary": "There is a $1 million bounty for the first person providing a solution to the Navier-Stokes existence and smoothness problem.",
+      "source": "TechCrunch",
+      "published": "2026-09-08T17:32:15+00:00",
+      "link": "https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician/"
+    },
+    {
+      "title": "AI power users claim Anthropic duped them with subscriptions, and they’re taking it to court",
+      "summary": "Anthropic says power users are key to its business - it's prioritized them even when it means cutting off other popular applications, like OpenClaw.",
+      "source": "The Verge",
+      "published": "2026-09-08T17:27:31+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/990313/anthropic-class-action-lawsuit-pricing-subscription-plans"
+    },
+    {
+      "title": "Show HN: LLM Attention Visualization",
+      "summary": "Article URL: https://ishamf.dev/p/llm-attention-visualizer/ Comments URL: https://news.ycombinator.com/item?id=49613068 Points: 57 # Comments: 12",
+      "source": "Hacker News",
+      "published": "2026-09-08T16:59:41+00:00",
+      "link": "https://ishamf.dev/p/llm-attention-visualizer/"
+    },
     {
       "title": "OpenAI Just Claimed a Huge Math Discovery. Some Academics Are Crying Foul",
       "summary": "A landmark announcement by the frontier AI lab has been overshadowed by accusations of impropriety.",
@@ -51,11 +93,25 @@ const FEED_DATA = {
       "link": "https://techcrunch.com/2026/09/08/mistral-raises-e3b-as-sovereign-ai-becomes-big-business/"
     },
     {
+      "title": "LibreOffice breaks download records after declaring it has no AI features",
+      "summary": "Article URL: https://manualdousuario.net/en/libreoffice-download-record-no-ai/ Comments URL: https://news.ycombinator.com/item?id=49610538 Points: 612 # Comments: 209",
+      "source": "Hacker News",
+      "published": "2026-09-08T14:05:57+00:00",
+      "link": "https://manualdousuario.net/en/libreoffice-download-record-no-ai/"
+    },
+    {
       "title": "Google’s Atlas of the human genome could pave the way for new treatments",
       "summary": "Google DeepMind has unveiled an AI tool that its scientists claim could help unravel the mysteries of the human genome and transform our understanding of biology, accelerating scientific research and ultimately paving the way for new treatments for diseases.",
       "source": "The Verge",
       "published": "2026-09-08T14:00:00+00:00",
       "link": "https://www.theverge.com/ai-artificial-intelligence/991180/google-launches-alpha-genome-atlas"
+    },
+    {
+      "title": "We Must Return to the Office to Use AI in Person",
+      "summary": "Article URL: https://www.mcsweeneys.net/articles/why-we-must-return-to-the-office-to-use-ai-in-person Comments URL: https://news.ycombinator.com/item?id=49610229 Points: 344 # Comments: 52",
+      "source": "Hacker News",
+      "published": "2026-09-08T13:41:25+00:00",
+      "link": "https://www.mcsweeneys.net/articles/why-we-must-return-to-the-office-to-use-ai-in-person"
     },
     {
       "title": "Adobe is trying to make its AI generators idiot-proof in Premiere",
@@ -122,14 +178,14 @@ const FEED_DATA = {
     },
     {
       "title": "Multi-Agents LLM Financial Trading Framework",
-      "summary": "Article URL: https://github.com/TauricResearch/TradingAgents Comments URL: https://news.ycombinator.com/item?id=49605822 Points: 81 # Comments: 52",
+      "summary": "Article URL: https://github.com/TauricResearch/TradingAgents Comments URL: https://news.ycombinator.com/item?id=49605822 Points: 111 # Comments: 74",
       "source": "Hacker News",
       "published": "2026-09-08T05:20:23+00:00",
       "link": "https://github.com/TauricResearch/TradingAgents"
     },
     {
       "title": "Arm Mali G2-Ultra NX GPU: desktop-class mobile gameplay with AI-native graphics",
-      "summary": "Article URL: https://newsroom.arm.com/blog/arm-mali-g2-ultra-nx-ai-native-mobile-graphics Comments URL: https://news.ycombinator.com/item?id=49605511 Points: 59 # Comments: 42",
+      "summary": "Article URL: https://newsroom.arm.com/blog/arm-mali-g2-ultra-nx-ai-native-mobile-graphics Comments URL: https://news.ycombinator.com/item?id=49605511 Points: 78 # Comments: 59",
       "source": "Hacker News",
       "published": "2026-09-08T04:06:20+00:00",
       "link": "https://newsroom.arm.com/blog/arm-mali-g2-ultra-nx-ai-native-mobile-graphics"
@@ -143,14 +199,14 @@ const FEED_DATA = {
     },
     {
       "title": "AI Cold Showers",
-      "summary": "Article URL: https://allan.reyes.sh/posts/ai-cold-showers/ Comments URL: https://news.ycombinator.com/item?id=49601810 Points: 75 # Comments: 12",
+      "summary": "Article URL: https://allan.reyes.sh/posts/ai-cold-showers/ Comments URL: https://news.ycombinator.com/item?id=49601810 Points: 77 # Comments: 12",
       "source": "Hacker News",
       "published": "2026-09-07T19:05:39+00:00",
       "link": "https://allan.reyes.sh/posts/ai-cold-showers/"
     },
     {
       "title": "AI models ran real businesses: They sent $12,431 in fake invoices, lost $3,200",
-      "summary": "Article URL: https://www.bottlenecklabs.com/blog/benchmarking-7-autonomous-businesses Comments URL: https://news.ycombinator.com/item?id=49601338 Points: 100 # Comments: 117",
+      "summary": "Article URL: https://www.bottlenecklabs.com/blog/benchmarking-7-autonomous-businesses Comments URL: https://news.ycombinator.com/item?id=49601338 Points: 100 # Comments: 118",
       "source": "Hacker News",
       "published": "2026-09-07T18:24:32+00:00",
       "link": "https://www.bottlenecklabs.com/blog/benchmarking-7-autonomous-businesses"
@@ -234,7 +290,7 @@ const FEED_DATA = {
     },
     {
       "title": "Initial effects of AI technology on employment look positive",
-      "summary": "https://archive.md/5hi5i Comments URL: https://news.ycombinator.com/item?id=49596610 Points: 89 # Comments: 136",
+      "summary": "https://archive.md/5hi5i Comments URL: https://news.ycombinator.com/item?id=49596610 Points: 93 # Comments: 150",
       "source": "Hacker News",
       "published": "2026-09-07T10:38:32+00:00",
       "link": "https://www.economist.com/finance-and-economics/2026/09/04/the-jobs-apocalypse-is-postponed-an-ai-jobs-boom-is-here"
@@ -248,14 +304,14 @@ const FEED_DATA = {
     },
     {
       "title": "Show HN: Engrim – A universal, local-first SQLite memory engine for AI CLIs",
-      "summary": "Article URL: https://github.com/timgordontg/engrim Comments URL: https://news.ycombinator.com/item?id=49594008 Points: 88 # Comments: 53",
+      "summary": "Article URL: https://github.com/timgordontg/engrim Comments URL: https://news.ycombinator.com/item?id=49594008 Points: 90 # Comments: 53",
       "source": "Hacker News",
       "published": "2026-09-07T04:49:36+00:00",
       "link": "https://github.com/timgordontg/engrim"
     },
     {
       "title": "I refused to train the AI that could replace me",
-      "summary": "Article URL: https://restofworld.org/2026/ai-training-jobs-expert-replacement/ Comments URL: https://news.ycombinator.com/item?id=49593959 Points: 95 # Comments: 113",
+      "summary": "Article URL: https://restofworld.org/2026/ai-training-jobs-expert-replacement/ Comments URL: https://news.ycombinator.com/item?id=49593959 Points: 96 # Comments: 114",
       "source": "Hacker News",
       "published": "2026-09-07T04:38:22+00:00",
       "link": "https://restofworld.org/2026/ai-training-jobs-expert-replacement/"
@@ -283,7 +339,7 @@ const FEED_DATA = {
     },
     {
       "title": "How I feel about AI",
-      "summary": "Article URL: https://beza1e1.tuxen.de/ai_feelings.html Comments URL: https://news.ycombinator.com/item?id=49587128 Points: 162 # Comments: 258",
+      "summary": "Article URL: https://beza1e1.tuxen.de/ai_feelings.html Comments URL: https://news.ycombinator.com/item?id=49587128 Points: 163 # Comments: 258",
       "source": "Hacker News",
       "published": "2026-09-06T15:00:19+00:00",
       "link": "https://beza1e1.tuxen.de/ai_feelings.html"
@@ -304,7 +360,7 @@ const FEED_DATA = {
     },
     {
       "title": "Your intellectual fly is open when you use an LLM to author a post (2025)",
-      "summary": "Article URL: https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/ Comments URL: https://news.ycombinator.com/item?id=49585644 Points: 723 # Comments: 431",
+      "summary": "Article URL: https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/ Comments URL: https://news.ycombinator.com/item?id=49585644 Points: 725 # Comments: 433",
       "source": "Hacker News",
       "published": "2026-09-06T11:56:43+00:00",
       "link": "https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/"
@@ -451,7 +507,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI handles incidents, engineers lose touch with their systems",
-      "summary": "Article URL: https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems Comments URL: https://news.ycombinator.com/item?id=49574167 Points: 415 # Comments: 342",
+      "summary": "Article URL: https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems Comments URL: https://news.ycombinator.com/item?id=49574167 Points: 415 # Comments: 344",
       "source": "Hacker News",
       "published": "2026-09-05T07:52:50+00:00",
       "link": "https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems"
@@ -472,7 +528,7 @@ const FEED_DATA = {
     },
     {
       "title": "Artificial Analysis Intelligence Index v4.2",
-      "summary": "Article URL: https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v4-2 Comments URL: https://news.ycombinator.com/item?id=49571632 Points: 157 # Comments: 65",
+      "summary": "Article URL: https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v4-2 Comments URL: https://news.ycombinator.com/item?id=49571632 Points: 158 # Comments: 65",
       "source": "Hacker News",
       "published": "2026-09-05T00:04:14+00:00",
       "link": "https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v4-2"
@@ -507,7 +563,7 @@ const FEED_DATA = {
     },
     {
       "title": "GPT-6 Astra on OpenRouter",
-      "summary": "Article URL: https://openrouter.ai/openai/gpt-6-astra Comments URL: https://news.ycombinator.com/item?id=49570545 Points: 319 # Comments: 233",
+      "summary": "Article URL: https://openrouter.ai/openai/gpt-6-astra Comments URL: https://news.ycombinator.com/item?id=49570545 Points: 320 # Comments: 234",
       "source": "Hacker News",
       "published": "2026-09-04T21:39:19+00:00",
       "link": "https://openrouter.ai/openai/gpt-6-astra"
@@ -1344,62 +1400,6 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-09-01T21:06:24+00:00",
       "link": "https://techcrunch.com/2026/09/01/open-ais-astra-model-is-on-the-way-and-very-good-at-breaking-into-computer-systems/"
-    },
-    {
-      "title": "Google’s Android update tackles motion sickness, accessibility, and more",
-      "summary": "While some of the features see Google playing catch-up to Apple, which already offers similar features for iPhone users, others specifically leverage Gemini to provide various improvements.",
-      "source": "TechCrunch",
-      "published": "2026-09-01T20:53:05+00:00",
-      "link": "https://techcrunch.com/2026/09/01/googles-android-update-tackles-motion-sickness-accessibility-and-more/"
-    },
-    {
-      "title": "OpenAI delayed its new model’s development after the Hugging Face hack",
-      "summary": "After an unreleased OpenAI model wreaked enough havoc to make international headlines, OpenAI delayed the development of a different unreleased model suite, Astra, in order to shore up its safety work, the company wrote Tuesday in a blog post.",
-      "source": "The Verge",
-      "published": "2026-09-01T20:45:49+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/987695/openai-astra-unreleased-model-cybersecurity-delay"
-    },
-    {
-      "title": "Anthropic opens Claude AI text detection to regulators, media, fact-checkers, and others",
-      "summary": "Anthropic is launching an API that lets regulators, media outlets, and researchers check whether text carries Claude's digital watermark. The EU AI Act now requires invisible watermarks in AI-generated text.",
-      "source": "The Decoder",
-      "published": "2026-09-01T20:40:36+00:00",
-      "link": "https://the-decoder.com/anthropic-opens-claude-ai-text-detection-to-regulators-media-fact-checkers-and-others/"
-    },
-    {
-      "title": "Anthropic's Claude Fable 5.1 promises better coding and research at up to 45 percent less",
-      "summary": "Anthropic launches Claude Fable 5.1 and Mythos 5.1, its most capable AI models yet. Fable 5.1 doubles its predecessor's score on Terminal-Bench-Science and improves agentic coding by over 30 percent.",
-      "source": "The Decoder",
-      "published": "2026-09-01T20:32:55+00:00",
-      "link": "https://the-decoder.com/anthropics-claude-fable-5-1-promises-better-coding-and-research-at-up-to-45-percent-less/"
-    },
-    {
-      "title": "OpenAI Is About to Release Its First AI Model With ‘Critical’ Cyber Abilities",
-      "summary": "The company will give select partners early access to its Astra AI model—so they have time to shore up their defenses.",
-      "source": "Wired",
-      "published": "2026-09-01T20:00:00+00:00",
-      "link": "https://www.wired.com/story/openai-astra-first-ai-model-with-critical-cyber-abilities/"
-    },
-    {
-      "title": "Anthropic’s new Fable release is cheaper, less restrictive",
-      "summary": "Fable 5.1 includes changes meant to reduce token cost and false-positive restrictions from the model's safeguards.",
-      "source": "TechCrunch",
-      "published": "2026-09-01T19:39:22+00:00",
-      "link": "https://techcrunch.com/2026/09/01/anthropics-new-fable-release-is-cheaper-less-restrictive/"
-    },
-    {
-      "title": "How AI plotted an interstellar journey to Alpha Centauri",
-      "summary": "A nonprofit organization called the Fermi Explorer Mission announced today that it intends to launch a spacecraft to our nearest star system by the end of 2029.",
-      "source": "MIT Tech Review",
-      "published": "2026-09-01T19:10:36+00:00",
-      "link": "https://www.technologyreview.com/2026/09/01/1143247/ai-interstellar-journey-alpha-centauri/"
-    },
-    {
-      "title": "The rise of AI ‘civilizations’ and the fall of corporate responsibility",
-      "summary": "Depending on who you ask, developer platform Hugging Face was recently attacked by OpenAI - after it lost control of its own AI tools - or by a succession of AI \"civilizations.\" Welcome to the linguistic battlefield of AI safety, where word choices can shift responsibility for a...",
-      "source": "The Verge",
-      "published": "2026-09-01T19:02:54+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/987566/ai-civilizations-opeai-hugging-face-hack"
     }
   ]
 };
