@@ -1,12 +1,82 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-09-08T09:25:28.829009+00:00",
+  "lastUpdated": "2026-09-08T13:06:37.284944+00:00",
   "items": [
+    {
+      "title": "Adobe is trying to make its AI generators idiot-proof in Premiere",
+      "summary": "Adobe is overhauling how editors interact with AI in its Premiere professional video editing software. Its new Generative Media tool makes it easier to generate video, sound effects, music, and soundscapes without ever leaving the project timeline.",
+      "source": "The Verge",
+      "published": "2026-09-08T13:00:00+00:00",
+      "link": "https://www.theverge.com/tech/991133/adobe-is-trying-to-make-its-ai-generators-idiot-proof-in-premiere"
+    },
+    {
+      "title": "The Download: our 35 Innovators Under 35 this year",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Introducing our 35 Innovators Under 35 list for 2026 What will the next generation of science and technology look like?",
+      "source": "MIT Tech Review",
+      "published": "2026-09-08T12:10:00+00:00",
+      "link": "https://www.technologyreview.com/2026/09/08/1143615/the-download-35-innovators-under-35-spiderwebs-measuring-nature/"
+    },
+    {
+      "title": "Arm launches Total Design for Physical AI and robotics framework",
+      "summary": "Arm has launched Arm Total Design for Physical AI alongside a new robotics framework to establish common standards across automated systems.",
+      "source": "AI News",
+      "published": "2026-09-08T11:44:10+00:00",
+      "link": "https://www.artificialintelligence-news.com/news/arm-total-design-for-physical-ai-and-robotics-framework/"
+    },
+    {
+      "title": "This AI entrepreneur is developing agents that can plan ahead for the unexpected",
+      "summary": "Danijar Hafner’s office in San Francisco’s SoMa district sits mostly empty. His brand-new startup is still in stealth mode and doesn’t even have its name on the door.",
+      "source": "MIT Tech Review",
+      "published": "2026-09-08T10:34:00+00:00",
+      "link": "https://www.technologyreview.com/2026/09/08/1142088/danijar-hafner-developing-plan-ahead-agents/"
+    },
+    {
+      "title": "This geneticist’s age-reversal tech could help restore sight",
+      "summary": "Yuancheng (Ryan) Lu is obsessed with aging. And with eyes.",
+      "source": "MIT Tech Review",
+      "published": "2026-09-08T10:32:00+00:00",
+      "link": "https://www.technologyreview.com/2026/09/08/1142074/yuancheng-ryan-lu-age-reversal-tech-restores-sight/"
+    },
+    {
+      "title": "Coca-Cola uses AI to improve retailer ordering in Malaysia",
+      "summary": "Coca-Cola is using AI to recommend which products Malaysian retailers should order and in what quantities through its Coke Buddy platform.",
+      "source": "AI News",
+      "published": "2026-09-08T10:00:00+00:00",
+      "link": "https://www.artificialintelligence-news.com/news/coca-cola-ai-retailer-ordering-malaysia/"
+    },
+    {
+      "title": "AI weather forecasting enters the energy market as Google targets grid operators with WeatherNext 3",
+      "summary": "Google’s newest AI weather forecasting model predicts wind speed at 100 metres above the ground, roughly the height of a modern wind turbine. It also forecasts cloud cover and how much sunlight reaches the surface, and it updates every hour.",
+      "source": "AI News",
+      "published": "2026-09-08T09:00:00+00:00",
+      "link": "https://www.artificialintelligence-news.com/news/ai-weather-forecasting-google-weathernext-3-energy/"
+    },
+    {
+      "title": "YouTube Appears in 53% of Google AI Overviews for Vitamin and Supplement Searches",
+      "summary": "YouTube was the most frequently cited website in Google AI Overviews across a panel of vitamin and supplement searches, according to new research.",
+      "source": "AI News",
+      "published": "2026-09-08T08:50:39+00:00",
+      "link": "https://www.artificialintelligence-news.com/news/youtube-appears-in-53-of-google-ai-overviews-for-vitamin-and-supplement-searches/"
+    },
     {
       "title": "Mistral AI raises 3 billion euros in Europe's largest-ever tech funding round despite lagging behind rivals",
       "summary": "Three years after launch, Mistral AI has closed a 3 billion euro Series D round, pushing its valuation past 21 billion euros. The article Mistral AI raises 3 billion euros in Europe's largest-ever tech funding round despite lagging behind rivals appeared first on The Decoder.",
       "source": "The Decoder",
       "published": "2026-09-08T07:45:41+00:00",
       "link": "https://the-decoder.com/mistral-ai-raises-3-billion-euros-in-europes-largest-ever-tech-funding-round-despite-lagging-behind-rivals/"
+    },
+    {
+      "title": "Multi-Agents LLM Financial Trading Framework",
+      "summary": "Article URL: https://github.com/TauricResearch/TradingAgents Comments URL: https://news.ycombinator.com/item?id=49605822 Points: 81 # Comments: 52",
+      "source": "Hacker News",
+      "published": "2026-09-08T05:20:23+00:00",
+      "link": "https://github.com/TauricResearch/TradingAgents"
+    },
+    {
+      "title": "Arm Mali G2-Ultra NX GPU: desktop-class mobile gameplay with AI-native graphics",
+      "summary": "Article URL: https://newsroom.arm.com/blog/arm-mali-g2-ultra-nx-ai-native-mobile-graphics Comments URL: https://news.ycombinator.com/item?id=49605511 Points: 59 # Comments: 42",
+      "source": "Hacker News",
+      "published": "2026-09-08T04:06:20+00:00",
+      "link": "https://newsroom.arm.com/blog/arm-mali-g2-ultra-nx-ai-native-mobile-graphics"
     },
     {
       "title": "Opaque recurrence, and other AI terms that you should probably know",
@@ -17,7 +87,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI Cold Showers",
-      "summary": "Article URL: https://allan.reyes.sh/posts/ai-cold-showers/ Comments URL: https://news.ycombinator.com/item?id=49601810 Points: 74 # Comments: 12",
+      "summary": "Article URL: https://allan.reyes.sh/posts/ai-cold-showers/ Comments URL: https://news.ycombinator.com/item?id=49601810 Points: 75 # Comments: 12",
       "source": "Hacker News",
       "published": "2026-09-07T19:05:39+00:00",
       "link": "https://allan.reyes.sh/posts/ai-cold-showers/"
@@ -108,7 +178,7 @@ const FEED_DATA = {
     },
     {
       "title": "Initial effects of AI technology on employment look positive",
-      "summary": "https://archive.md/5hi5i Comments URL: https://news.ycombinator.com/item?id=49596610 Points: 85 # Comments: 130",
+      "summary": "https://archive.md/5hi5i Comments URL: https://news.ycombinator.com/item?id=49596610 Points: 89 # Comments: 136",
       "source": "Hacker News",
       "published": "2026-09-07T10:38:32+00:00",
       "link": "https://www.economist.com/finance-and-economics/2026/09/04/the-jobs-apocalypse-is-postponed-an-ai-jobs-boom-is-here"
@@ -122,14 +192,14 @@ const FEED_DATA = {
     },
     {
       "title": "Show HN: Engrim – A universal, local-first SQLite memory engine for AI CLIs",
-      "summary": "Article URL: https://github.com/timgordontg/engrim Comments URL: https://news.ycombinator.com/item?id=49594008 Points: 88 # Comments: 51",
+      "summary": "Article URL: https://github.com/timgordontg/engrim Comments URL: https://news.ycombinator.com/item?id=49594008 Points: 88 # Comments: 53",
       "source": "Hacker News",
       "published": "2026-09-07T04:49:36+00:00",
       "link": "https://github.com/timgordontg/engrim"
     },
     {
       "title": "I refused to train the AI that could replace me",
-      "summary": "Article URL: https://restofworld.org/2026/ai-training-jobs-expert-replacement/ Comments URL: https://news.ycombinator.com/item?id=49593959 Points: 94 # Comments: 113",
+      "summary": "Article URL: https://restofworld.org/2026/ai-training-jobs-expert-replacement/ Comments URL: https://news.ycombinator.com/item?id=49593959 Points: 95 # Comments: 113",
       "source": "Hacker News",
       "published": "2026-09-07T04:38:22+00:00",
       "link": "https://restofworld.org/2026/ai-training-jobs-expert-replacement/"
@@ -178,7 +248,7 @@ const FEED_DATA = {
     },
     {
       "title": "Your intellectual fly is open when you use an LLM to author a post (2025)",
-      "summary": "Article URL: https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/ Comments URL: https://news.ycombinator.com/item?id=49585644 Points: 722 # Comments: 431",
+      "summary": "Article URL: https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/ Comments URL: https://news.ycombinator.com/item?id=49585644 Points: 723 # Comments: 431",
       "source": "Hacker News",
       "published": "2026-09-06T11:56:43+00:00",
       "link": "https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/"
@@ -227,7 +297,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI, Tools and Transformation",
-      "summary": "Article URL: https://www.ben-evans.com/benedictevans/2026/9/3/ai-tools-and-transformation Comments URL: https://news.ycombinator.com/item?id=49582656 Points: 155 # Comments: 76",
+      "summary": "Article URL: https://www.ben-evans.com/benedictevans/2026/9/3/ai-tools-and-transformation Comments URL: https://news.ycombinator.com/item?id=49582656 Points: 157 # Comments: 76",
       "source": "Hacker News",
       "published": "2026-09-06T02:12:46+00:00",
       "link": "https://www.ben-evans.com/benedictevans/2026/9/3/ai-tools-and-transformation"
@@ -507,7 +577,7 @@ const FEED_DATA = {
     },
     {
       "title": "Google AI Mode shows same products 21.6% more expensive than traditional search",
-      "summary": "Article URL: https://productrise.app/blog/google-ai-mode-prefers-more-expensive-products Comments URL: https://news.ycombinator.com/item?id=49563386 Points: 398 # Comments: 76",
+      "summary": "Article URL: https://productrise.app/blog/google-ai-mode-prefers-more-expensive-products Comments URL: https://news.ycombinator.com/item?id=49563386 Points: 400 # Comments: 76",
       "source": "Hacker News",
       "published": "2026-09-04T11:59:15+00:00",
       "link": "https://productrise.app/blog/google-ai-mode-prefers-more-expensive-products"
@@ -1330,76 +1400,6 @@ const FEED_DATA = {
       "source": "The Verge",
       "published": "2026-09-01T16:00:52+00:00",
       "link": "https://www.theverge.com/ai-artificial-intelligence/987486/john-deere-jd-ai-chatbot"
-    },
-    {
-      "title": "Google Pics is like Canva, but with even more AI",
-      "summary": "Google has a new suite of creative design tools for Workspace users called Google Pics, which aims to make editing and generating \"professional-grade\" AI images less cumbersome for businesses.",
-      "source": "The Verge",
-      "published": "2026-09-01T16:00:00+00:00",
-      "link": "https://www.theverge.com/tech/987423/google-pics-ai-image-editor-generator"
-    },
-    {
-      "title": "Dwarf Fortress' creator says the industry's in shambles over AI",
-      "summary": "Article URL: https://www.pcgamer.com/gaming-industry/dwarf-fortress-creator-says-the-industrys-in-shambles-over-ai-and-layoff-happy-ceos-everyone-i-know-their-bosses-are-slowly-getting-psychosis/ Comments URL: https://news.ycombinator.com/item?id=49523720 Points: 239 # Comments:...",
-      "source": "Hacker News",
-      "published": "2026-09-01T15:53:42+00:00",
-      "link": "https://www.pcgamer.com/gaming-industry/dwarf-fortress-creator-says-the-industrys-in-shambles-over-ai-and-layoff-happy-ceos-everyone-i-know-their-bosses-are-slowly-getting-psychosis/"
-    },
-    {
-      "title": "AIR raises $50M to help companies vet the skills and add-ons AI agents use",
-      "summary": "AIR's platform can discover agents running at a company, continuously vets any skills and add-ons they use, and blocks any unwanted behavior.",
-      "source": "TechCrunch",
-      "published": "2026-09-01T15:45:51+00:00",
-      "link": "https://techcrunch.com/2026/09/01/air-raises-50m-to-help-companies-vet-the-skills-and-add-ons-ai-agents-use/"
-    },
-    {
-      "title": "Fambot introduces an ‘AI chief of staff’ for families",
-      "summary": "Fambot is building an AI “chief of staff” to help families manage the emails, calendars, school updates, sports schedules, and other logistics of raising kids.",
-      "source": "TechCrunch",
-      "published": "2026-09-01T15:10:58+00:00",
-      "link": "https://techcrunch.com/2026/09/01/fambot-introduces-an-ai-chief-of-staff-for-families/"
-    },
-    {
-      "title": "Sonos Ace Ultra, Beam Ultra, Sonos Fabric, and a New App: Everything Sonos Just Announced",
-      "summary": "Sonos is cramming AI into its software because it’s “very hot these days.” The new features, which include agentic automation, are opt-in.",
-      "source": "Wired",
-      "published": "2026-09-01T14:40:00+00:00",
-      "link": "https://www.wired.com/story/sonos-has-new-devices-a-new-os-and-yes-a-new-app/"
-    },
-    {
-      "title": "Making the AI-powered case for legacy modernization",
-      "summary": "For years, legacy technology has been a problem companies knew they needed to solve, but one they often struggled to tackle.",
-      "source": "MIT Tech Review",
-      "published": "2026-09-01T14:00:00+00:00",
-      "link": "https://www.technologyreview.com/2026/09/01/1142180/making-the-ai-powered-case-for-legacy-modernization/"
-    },
-    {
-      "title": "Google's election AI Overviews are opaque, rely on few sources, and sometimes take sides",
-      "summary": "Using access granted under the EU's Digital Services Act, the German advocacy group AlgorithmWatch ran 4,480 election-related search queries on Google and analyzed the AI Overviews that came back.",
-      "source": "The Decoder",
-      "published": "2026-09-01T13:03:17+00:00",
-      "link": "https://the-decoder.com/googles-election-ai-overviews-are-opaque-rely-on-few-sources-and-sometimes-take-sides/"
-    },
-    {
-      "title": "Nvidia’s controversial DLSS 5 arrives September 3rd and requires serious GPU horsepower",
-      "summary": "Nvidia is officially launching DLSS 5 this week, following a divisive announcement in March where we likened the AI upscaling tech to a \"real-time generative AI filter for video games\" and \"motion smoothing for video games, but worse.\" DLSS 5 will officially be available on RTX...",
-      "source": "The Verge",
-      "published": "2026-09-01T13:00:00+00:00",
-      "link": "https://www.theverge.com/tech/986378/nvidia-dlss-5-launch-nba-2k27"
-    },
-    {
-      "title": "EFF to Courts: Don't Rewrite Copyright over AI Hype",
-      "summary": "Article URL: https://www.eff.org/deeplinks/2026/08/eff-courts-dont-rewrite-copyright-over-ai-hype Comments URL: https://news.ycombinator.com/item?id=49521315 Points: 163 # Comments: 193",
-      "source": "Hacker News",
-      "published": "2026-09-01T12:53:51+00:00",
-      "link": "https://www.eff.org/deeplinks/2026/08/eff-courts-dont-rewrite-copyright-over-ai-hype"
-    },
-    {
-      "title": "Runway's Solaris is an AI system that generates software interfaces in real time",
-      "summary": "AI company Runway has unveiled Solaris, the first model in a new category it calls \"Interface World Models.\" Instead of running code, the system generates the user interface frame by frame as you interact with it.",
-      "source": "The Decoder",
-      "published": "2026-09-01T12:53:46+00:00",
-      "link": "https://the-decoder.com/runways-solaris-is-an-ai-system-that-generates-software-interfaces-in-real-time/"
     }
   ]
 };
