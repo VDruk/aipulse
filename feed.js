@@ -1,6 +1,62 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-09-08T13:06:37.284944+00:00",
+  "lastUpdated": "2026-09-08T17:06:47.987893+00:00",
   "items": [
+    {
+      "title": "OpenAI Just Claimed a Huge Math Discovery. Some Academics Are Crying Foul",
+      "summary": "A landmark announcement by the frontier AI lab has been overshadowed by accusations of impropriety.",
+      "source": "Wired",
+      "published": "2026-09-08T16:42:05+00:00",
+      "link": "https://www.wired.com/story/openai-navier-stokes-math-discovery-academics/"
+    },
+    {
+      "title": "Google Cloud races to catch up in the AI deployment wars with Accenture deal",
+      "summary": "Google Cloud expands its enterprise AI push with Accenture, betting on forward-deployed engineers to drive adoption and overcome deployment bottlenecks.",
+      "source": "TechCrunch",
+      "published": "2026-09-08T16:20:31+00:00",
+      "link": "https://techcrunch.com/2026/09/08/google-cloud-races-to-catch-up-in-the-ai-deployment-wars-with-accenture-deal/"
+    },
+    {
+      "title": "Patagonia has what AI data centers want, including no resistance so far",
+      "summary": "Argentina's Patagonia is drawing attention as a possible site for large AI data centers. The article Patagonia has what AI data centers want, including no resistance so far appeared first on The Decoder.",
+      "source": "The Decoder",
+      "published": "2026-09-08T15:16:47+00:00",
+      "link": "https://the-decoder.com/patagonia-has-what-ai-data-centers-want-including-no-resistance-so-far/"
+    },
+    {
+      "title": "ASML locks in TSMC, Samsung, and Intel while Huawei races to break its grip",
+      "summary": "ASML has won over Samsung, TSMC, and Intel to switch to larger photomasks, which should boost the throughput of its newest EUV machines by 40 percent.",
+      "source": "The Decoder",
+      "published": "2026-09-08T15:11:59+00:00",
+      "link": "https://the-decoder.com/asml-locks-in-tsmc-samsung-and-intel-while-huawei-races-to-break-its-grip/"
+    },
+    {
+      "title": "Chrome is now shipping updates every 2 weeks as AI changes the security landscape",
+      "summary": "Google is speeding up Chrome’s release schedule to ship security patches and new features faster.",
+      "source": "TechCrunch",
+      "published": "2026-09-08T15:04:09+00:00",
+      "link": "https://techcrunch.com/2026/09/08/chrome-is-now-shipping-updates-every-2-weeks-as-ai-changes-the-security-landscape/"
+    },
+    {
+      "title": "Meta drops AI usage from engineer performance reviews after \"tokenmaxxing\" backfires",
+      "summary": "Meta will no longer judge its engineers by how much they use AI tools. The article Meta drops AI usage from engineer performance reviews after \"tokenmaxxing\" backfires appeared first on The Decoder.",
+      "source": "The Decoder",
+      "published": "2026-09-08T14:27:40+00:00",
+      "link": "https://the-decoder.com/meta-drops-ai-usage-from-engineer-performance-reviews-after-tokenmaxxing-backfires/"
+    },
+    {
+      "title": "Mistral raises €3B as sovereign AI becomes big business",
+      "summary": "The French AI lab has raised €3 billion at a €21 billion valuation in a Series D round led by Samsung, Scaleup Europe, and PSG Equity.",
+      "source": "TechCrunch",
+      "published": "2026-09-08T14:17:48+00:00",
+      "link": "https://techcrunch.com/2026/09/08/mistral-raises-e3b-as-sovereign-ai-becomes-big-business/"
+    },
+    {
+      "title": "Google’s Atlas of the human genome could pave the way for new treatments",
+      "summary": "Google DeepMind has unveiled an AI tool that its scientists claim could help unravel the mysteries of the human genome and transform our understanding of biology, accelerating scientific research and ultimately paving the way for new treatments for diseases.",
+      "source": "The Verge",
+      "published": "2026-09-08T14:00:00+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/991180/google-launches-alpha-genome-atlas"
+    },
     {
       "title": "Adobe is trying to make its AI generators idiot-proof in Premiere",
       "summary": "Adobe is overhauling how editors interact with AI in its Premiere professional video editing software. Its new Generative Media tool makes it easier to generate video, sound effects, music, and soundscapes without ever leaving the project timeline.",
@@ -1344,62 +1400,6 @@ const FEED_DATA = {
       "source": "The Verge",
       "published": "2026-09-01T19:02:54+00:00",
       "link": "https://www.theverge.com/ai-artificial-intelligence/987566/ai-civilizations-opeai-hugging-face-hack"
-    },
-    {
-      "title": "How accurate have Ed Zitron's AI skeptic predictions been?",
-      "summary": "Article URL: https://danluu.com/zitron/ Comments URL: https://news.ycombinator.com/item?id=49526069 Points: 865 # Comments: 1039",
-      "source": "Hacker News",
-      "published": "2026-09-01T18:35:15+00:00",
-      "link": "https://danluu.com/zitron/"
-    },
-    {
-      "title": "Apple accuses OpenAI of destroying evidence",
-      "summary": "Apple is pushing for \"expedited discovery\" in its legal battle against OpenAI over concerns the company is actively destroying evidence, as reported earlier by Bloomberg.",
-      "source": "The Verge",
-      "published": "2026-09-01T18:19:26+00:00",
-      "link": "https://www.theverge.com/tech/987575/apple-openai-destroying-evidence-trade-secrets-lawsuit"
-    },
-    {
-      "title": "Atlas: A World Model for Spatial Intelligence",
-      "summary": "Article URL: https://www.worldlabs.ai/blog/atlas Comments URL: https://news.ycombinator.com/item?id=49525160 Points: 267 # Comments: 59",
-      "source": "Hacker News",
-      "published": "2026-09-01T17:36:02+00:00",
-      "link": "https://www.worldlabs.ai/blog/atlas"
-    },
-    {
-      "title": "Google’s answer to Canva is an AI tool where you prompt instead of design",
-      "summary": "With Google Pics, Google is pushing deeper into the creative software market dominated by Canva and Adobe, but with a distinctly AI-first approach.",
-      "source": "TechCrunch",
-      "published": "2026-09-01T17:35:37+00:00",
-      "link": "https://techcrunch.com/2026/09/01/googles-answer-to-canva-is-an-ai-tool-where-you-prompt-instead-of-design/"
-    },
-    {
-      "title": "ChatGPT Health adds Epic integration for clinicians to import patient data",
-      "summary": "OpenAI said that the integration provides read-only access to health records for clinicians.",
-      "source": "TechCrunch",
-      "published": "2026-09-01T17:00:00+00:00",
-      "link": "https://techcrunch.com/2026/09/01/chatgpt-health-adds-epic-integration-for-clinicians-to-import-patient-data/"
-    },
-    {
-      "title": "Google Deepmind's new chief says frontier AI leadership is the only thing that matters",
-      "summary": "Google Deepmind chief Koray Kavukcuoglu admits Google's current models are \"a little bit below the frontier\" but says he's \"100% certain that we will be at the frontier.\" He didn't share any concrete frontier news to back that up, though.",
-      "source": "The Decoder",
-      "published": "2026-09-01T16:49:11+00:00",
-      "link": "https://the-decoder.com/google-deepminds-new-chief-says-frontier-ai-leadership-is-the-only-thing-that-matters/"
-    },
-    {
-      "title": "ChatGPT Ads passes $1B run rate in 200 days",
-      "summary": "ChatGPT Ads has hit $1 billion in annualised revenue run rate in under 200 days, and OpenAI is expanding self-service ads to new regions.",
-      "source": "AI News",
-      "published": "2026-09-01T16:05:27+00:00",
-      "link": "https://www.artificialintelligence-news.com/news/chatgpt-ads-passes-1b-run-rate-in-200-days/"
-    },
-    {
-      "title": "John Deere launched an AI chatbot for farmers",
-      "summary": "John Deere is testing a new \"JD\" AI assistant that it says can help farmers make more money, with answers about best practices and historical trends that are based on their own data.",
-      "source": "The Verge",
-      "published": "2026-09-01T16:00:52+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/987486/john-deere-jd-ai-chatbot"
     }
   ]
 };
