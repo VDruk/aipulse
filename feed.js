@@ -1,6 +1,48 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-09-08T19:41:40.552590+00:00",
+  "lastUpdated": "2026-09-08T23:05:07.743635+00:00",
   "items": [
+    {
+      "title": "Hackers are stealing Claude tokens from subscribers",
+      "summary": "Last month, a Claude user noticed his account was consuming tokens even though he wasn't working. Anthropic has since warned users about hackers.",
+      "source": "TechCrunch",
+      "published": "2026-09-08T21:10:27+00:00",
+      "link": "https://techcrunch.com/2026/09/08/hackers-are-stealing-claude-tokens-from-subscribers/"
+    },
+    {
+      "title": "Cognition hits $48B valuation, signaling investors believe AI coding is far from a winner-take-all market",
+      "summary": "Cognition's valuation multiple is higher than Cursor's was before selling to SpaceX.",
+      "source": "TechCrunch",
+      "published": "2026-09-08T21:04:06+00:00",
+      "link": "https://techcrunch.com/2026/09/08/cognition-hits-48b-valuation-signaling-investors-believe-ai-coding-is-far-from-a-winner-take-all-market/"
+    },
+    {
+      "title": "Drama swirls around OpenAI’s legendary mathematical milestone",
+      "summary": "OpenAI says it found a solution to a major math problem that has remained unsolved for around 90 years, as reported earlier by The New York Times and Wired.",
+      "source": "The Verge",
+      "published": "2026-09-08T20:53:52+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/991710/openai-navier-stokes-solution"
+    },
+    {
+      "title": "ChatGPT Sketch turns your bad drawings into detailed AI images",
+      "summary": "OpenAI announced ChatGPT Images 2.5 on Tuesday and is adding a new way to tell ChatGPT what you want it to make an image of: by drawing a doodle.",
+      "source": "The Verge",
+      "published": "2026-09-08T20:16:09+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/991727/openai-chatgpt-images-2-5-sketch"
+    },
+    {
+      "title": "Muse, Meta’s New Personal AI Agent, Needs You to Trust It",
+      "summary": "Designed to compete with OpenClaw and Instinct, the company says Muse can do everything from sell your car to book you a plane ticket.",
+      "source": "Wired",
+      "published": "2026-09-08T20:12:51+00:00",
+      "link": "https://www.wired.com/story/meta-releases-muse-a-personal-ai-agent-with-privacy-built-into-it/"
+    },
+    {
+      "title": "Muse: Meta's personal AI agent, features and capabilities",
+      "summary": "Article URL: https://ai.meta.com/muse/ Comments URL: https://news.ycombinator.com/item?id=49615537 Points: 206 # Comments: 196",
+      "source": "Hacker News",
+      "published": "2026-09-08T19:25:00+00:00",
+      "link": "https://ai.meta.com/muse/"
+    },
     {
       "title": "OpenAI researcher allegedly pressured mathematician to drop Anthropic co-author from math breakthrough paper",
       "summary": "Mathematician Tristan Buckmaster says an OpenAI researcher pressured him after information about his AI-assisted progress on the Navier-Stokes equations allegedly reached the company.",
@@ -38,7 +80,7 @@ const FEED_DATA = {
     },
     {
       "title": "Show HN: LLM Attention Visualization",
-      "summary": "Article URL: https://ishamf.dev/p/llm-attention-visualizer/ Comments URL: https://news.ycombinator.com/item?id=49613068 Points: 57 # Comments: 12",
+      "summary": "Article URL: https://ishamf.dev/p/llm-attention-visualizer/ Comments URL: https://news.ycombinator.com/item?id=49613068 Points: 102 # Comments: 19",
       "source": "Hacker News",
       "published": "2026-09-08T16:59:41+00:00",
       "link": "https://ishamf.dev/p/llm-attention-visualizer/"
@@ -94,7 +136,7 @@ const FEED_DATA = {
     },
     {
       "title": "LibreOffice breaks download records after declaring it has no AI features",
-      "summary": "Article URL: https://manualdousuario.net/en/libreoffice-download-record-no-ai/ Comments URL: https://news.ycombinator.com/item?id=49610538 Points: 612 # Comments: 209",
+      "summary": "Article URL: https://manualdousuario.net/en/libreoffice-download-record-no-ai/ Comments URL: https://news.ycombinator.com/item?id=49610538 Points: 641 # Comments: 216",
       "source": "Hacker News",
       "published": "2026-09-08T14:05:57+00:00",
       "link": "https://manualdousuario.net/en/libreoffice-download-record-no-ai/"
@@ -108,7 +150,7 @@ const FEED_DATA = {
     },
     {
       "title": "We Must Return to the Office to Use AI in Person",
-      "summary": "Article URL: https://www.mcsweeneys.net/articles/why-we-must-return-to-the-office-to-use-ai-in-person Comments URL: https://news.ycombinator.com/item?id=49610229 Points: 344 # Comments: 52",
+      "summary": "Article URL: https://www.mcsweeneys.net/articles/why-we-must-return-to-the-office-to-use-ai-in-person Comments URL: https://news.ycombinator.com/item?id=49610229 Points: 358 # Comments: 60",
       "source": "Hacker News",
       "published": "2026-09-08T13:41:25+00:00",
       "link": "https://www.mcsweeneys.net/articles/why-we-must-return-to-the-office-to-use-ai-in-person"
@@ -178,14 +220,14 @@ const FEED_DATA = {
     },
     {
       "title": "Multi-Agents LLM Financial Trading Framework",
-      "summary": "Article URL: https://github.com/TauricResearch/TradingAgents Comments URL: https://news.ycombinator.com/item?id=49605822 Points: 111 # Comments: 74",
+      "summary": "Article URL: https://github.com/TauricResearch/TradingAgents Comments URL: https://news.ycombinator.com/item?id=49605822 Points: 113 # Comments: 75",
       "source": "Hacker News",
       "published": "2026-09-08T05:20:23+00:00",
       "link": "https://github.com/TauricResearch/TradingAgents"
     },
     {
       "title": "Arm Mali G2-Ultra NX GPU: desktop-class mobile gameplay with AI-native graphics",
-      "summary": "Article URL: https://newsroom.arm.com/blog/arm-mali-g2-ultra-nx-ai-native-mobile-graphics Comments URL: https://news.ycombinator.com/item?id=49605511 Points: 78 # Comments: 59",
+      "summary": "Article URL: https://newsroom.arm.com/blog/arm-mali-g2-ultra-nx-ai-native-mobile-graphics Comments URL: https://news.ycombinator.com/item?id=49605511 Points: 80 # Comments: 62",
       "source": "Hacker News",
       "published": "2026-09-08T04:06:20+00:00",
       "link": "https://newsroom.arm.com/blog/arm-mali-g2-ultra-nx-ai-native-mobile-graphics"
@@ -290,7 +332,7 @@ const FEED_DATA = {
     },
     {
       "title": "Initial effects of AI technology on employment look positive",
-      "summary": "https://archive.md/5hi5i Comments URL: https://news.ycombinator.com/item?id=49596610 Points: 93 # Comments: 150",
+      "summary": "https://archive.md/5hi5i Comments URL: https://news.ycombinator.com/item?id=49596610 Points: 93 # Comments: 151",
       "source": "Hacker News",
       "published": "2026-09-07T10:38:32+00:00",
       "link": "https://www.economist.com/finance-and-economics/2026/09/04/the-jobs-apocalypse-is-postponed-an-ai-jobs-boom-is-here"
@@ -339,7 +381,7 @@ const FEED_DATA = {
     },
     {
       "title": "How I feel about AI",
-      "summary": "Article URL: https://beza1e1.tuxen.de/ai_feelings.html Comments URL: https://news.ycombinator.com/item?id=49587128 Points: 163 # Comments: 258",
+      "summary": "Article URL: https://beza1e1.tuxen.de/ai_feelings.html Comments URL: https://news.ycombinator.com/item?id=49587128 Points: 163 # Comments: 261",
       "source": "Hacker News",
       "published": "2026-09-06T15:00:19+00:00",
       "link": "https://beza1e1.tuxen.de/ai_feelings.html"
@@ -1358,48 +1400,6 @@ const FEED_DATA = {
       "source": "Hacker News",
       "published": "2026-09-01T23:48:05+00:00",
       "link": "https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference/"
-    },
-    {
-      "title": "Google needs Hollywood more than the studios need AI",
-      "summary": "Google has reportedly been reaching out to a number of Hollywood's biggest studios, hoping to strike licensing agreements that would allow it to train its AI models on copyrighted material in exchange for massive piles of cash.",
-      "source": "The Verge",
-      "published": "2026-09-01T22:50:29+00:00",
-      "link": "https://www.theverge.com/tech/987429/google-needs-hollywood-more-than-the-studios-need-ai"
-    },
-    {
-      "title": "AfterQuery reportedly becomes Y Combinator’s fastest-ever unicorn, now valued at $3.2B",
-      "summary": "AI model-training startup AfterQuery has reportedly raised a round that valued it at $3.2 billion, just five months after announcing its $30 million Series A at a $300 million valuation in April.",
-      "source": "TechCrunch",
-      "published": "2026-09-01T22:08:24+00:00",
-      "link": "https://techcrunch.com/2026/09/01/afterquery-reportedly-becomes-y-combinators-fastest-ever-unicorn-now-valued-at-3-2b/"
-    },
-    {
-      "title": "Show HN: Weedout – Safari extension that hides YouTube AI-labeled videos",
-      "summary": "I'm the developer. I built this because AI-generated conspiracy videos were getting out of control in my own YouTube feed.",
-      "source": "Hacker News",
-      "published": "2026-09-01T22:06:57+00:00",
-      "link": "https://masteranza.github.io/weedout/"
-    },
-    {
-      "title": "Anthropic launches Claude Fable 5.1 and says it’s up to 45 percent cheaper for agentic work",
-      "summary": "Anthropic says its newest AI models, Fable 5.1 and Mythos 5.1, address criticisms from customers about price, data retention, and overzealous safeguards.",
-      "source": "The Verge",
-      "published": "2026-09-01T22:01:36+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/987830/anthropic-claude-fable-mythos-5-1"
-    },
-    {
-      "title": "OpenAI’s Astra model is on the way — and very good at breaking into computer systems",
-      "summary": "OpenAI previewed the precautions it is taking as it prepares to release Astra, its newest, cyber-critical LLM.",
-      "source": "TechCrunch",
-      "published": "2026-09-01T21:06:24+00:00",
-      "link": "https://techcrunch.com/2026/09/01/open-ais-astra-model-is-on-the-way-and-very-good-at-breaking-into-computer-systems/"
-    },
-    {
-      "title": "Open AI’s Astra model is on the way — and very good at breaking into computer systems",
-      "summary": "OpenAI previewed the precautions it is taking as it prepares to release Astra, its newest, cyber-critical LLM.",
-      "source": "TechCrunch",
-      "published": "2026-09-01T21:06:24+00:00",
-      "link": "https://techcrunch.com/2026/09/01/open-ais-astra-model-is-on-the-way-and-very-good-at-breaking-into-computer-systems/"
     }
   ]
 };
