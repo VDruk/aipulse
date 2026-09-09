@@ -1,6 +1,76 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-09-09T13:11:44.021307+00:00",
+  "lastUpdated": "2026-09-09T17:03:50.592891+00:00",
   "items": [
+    {
+      "title": "Superintelligence is coming. Should we let it?",
+      "summary": "AI companies have been talking about superintelligent AI like it’s inevitable, but recent safety incidents like OpenAI’s Hugging Face breach are demonstrating the potential dangers of deploying AI systems that are more capable than humans.",
+      "source": "TechCrunch",
+      "published": "2026-09-09T16:05:35+00:00",
+      "link": "https://techcrunch.com/video/superintelligence-is-coming-should-we-let-it/"
+    },
+    {
+      "title": "ControlAI’s Connor Leahy on why superintelligence is ‘not a weapon, it’s an adversary’",
+      "summary": "AI companies have been talking about superintelligent AI like it’s inevitable, but recent safety incidents like OpenAI’s Hugging Face breach are demonstrating the potential dangers of deploying AI systems that are more capable than humans.",
+      "source": "TechCrunch",
+      "published": "2026-09-09T15:50:13+00:00",
+      "link": "https://techcrunch.com/podcast/controlais-connor-leahy-on-why-superintelligence-is-not-a-weapon-its-an-adversary/"
+    },
+    {
+      "title": "Viral AI assistant Instinct now has its own email address",
+      "summary": "Instinct’s new email feature lets the AI agent create and manage accounts, contact businesses, handle support requests, and do more on users' behalf.",
+      "source": "TechCrunch",
+      "published": "2026-09-09T15:13:12+00:00",
+      "link": "https://techcrunch.com/2026/09/09/viral-ai-assistant-instinct-now-has-its-own-email-address/"
+    },
+    {
+      "title": "‘Gambling with our lives’: Anthropic researcher quits, warns against self-improving AI",
+      "summary": "Anthropic researcher Jacob Coxon resigned over AI extinction fears, calling for pacing agreements between labs.",
+      "source": "TechCrunch",
+      "published": "2026-09-09T15:02:47+00:00",
+      "link": "https://techcrunch.com/2026/09/09/gambling-with-our-lives-anthropic-researcher-quits-warns-against-self-improving-ai/"
+    },
+    {
+      "title": "Shipt becomes the latest delivery app with an AI shopping assistant",
+      "summary": "Users can ask the assistant to do things like \"Create a cart for my Saturday tailgate for 25 people and include some brunch items,\" or \"Build a cart for easy school lunches and after-school snacks,\" Shipt says.",
+      "source": "TechCrunch",
+      "published": "2026-09-09T14:51:45+00:00",
+      "link": "https://techcrunch.com/2026/09/09/shipt-becomes-the-latest-delivery-app-with-an-ai-shopping-assistant/"
+    },
+    {
+      "title": "GPT-6 Astra, Looped Transformers, and Hidden Reasoning",
+      "summary": "Article URL: https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and Comments URL: https://news.ycombinator.com/item?id=49627370 Points: 96 # Comments: 17",
+      "source": "Hacker News",
+      "published": "2026-09-09T14:37:47+00:00",
+      "link": "https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and"
+    },
+    {
+      "title": "AI spend per employee slumped at top firms in August — summer doldrums or a warning sign?",
+      "summary": "Falling token costs, cheaper models, and less spend per employee—AI adoption isn't playing out the way hyperscalers hoped.",
+      "source": "TechCrunch",
+      "published": "2026-09-09T14:18:34+00:00",
+      "link": "https://techcrunch.com/2026/09/09/ai-spend-per-employee-slumped-at-top-firms-in-august-summer-doldrums-or-a-warning-sign/"
+    },
+    {
+      "title": "Suno launches v6 music models built with Warner, BMG, and Believe",
+      "summary": "Suno has unveiled a new AI music model generation, v6, in three versions, built together with Warner Music Group, BMG, and Believe. All older models are being shut down.",
+      "source": "The Decoder",
+      "published": "2026-09-09T14:06:57+00:00",
+      "link": "https://the-decoder.com/suno-launches-v6-music-models-built-with-warner-bmg-and-believe/"
+    },
+    {
+      "title": "Deepmind's AlphaGenome Atlas maps every possible DNA change in the human genome",
+      "summary": "Google Deepmind has used the AlphaGenome Atlas to predict what each of the roughly nine billion possible single-letter changes in the human genome could do. The dataset spans one petabyte, more than 30 times the size of the AlphaFold database.",
+      "source": "The Decoder",
+      "published": "2026-09-09T13:40:40+00:00",
+      "link": "https://the-decoder.com/deepminds-alphagenome-atlas-maps-every-possible-dna-change-in-the-human-genome/"
+    },
+    {
+      "title": "Sequoia doubles down on Cymphony as AI agents create new enterprise security risks",
+      "summary": "Cymphony was valued at more than $100 million in a $25 million Series A co-led by Sequoia and SMBC Fin Atlas Beyond Fund.",
+      "source": "TechCrunch",
+      "published": "2026-09-09T13:00:00+00:00",
+      "link": "https://techcrunch.com/2026/09/09/sequoia-doubles-down-on-cymphony-as-ai-agents-create-new-enterprise-security-risks/"
+    },
     {
       "title": "Instacart launches an AI grocery shopping assistant called Clementine",
       "summary": "Instacart is the latest app to bake a conversational AI assistant into its platform.",
@@ -86,6 +156,13 @@ const FEED_DATA = {
       "link": "https://the-decoder.com/openais-millennium-proof-dispute-raises-the-question-of-whether-researchers-can-trust-ai-labs/"
     },
     {
+      "title": "How An AI math breakthrough ignited a controversy",
+      "summary": "Article URL: https://www.science.org/content/article/how-ai-math-breakthrough-ignited-controversy Comments URL: https://news.ycombinator.com/item?id=49624163 Points: 200 # Comments: 211",
+      "source": "Hacker News",
+      "published": "2026-09-09T10:25:41+00:00",
+      "link": "https://www.science.org/content/article/how-ai-math-breakthrough-ignited-controversy"
+    },
+    {
       "title": "Worried Anthropic researchers warn that AI ‘could kill all humans’",
       "summary": "A senior Anthropic safety researcher has said there is more than a 10 percent chance artificial intelligence \"could kill all humans\" by the end of the decade, just hours after a colleague resigned over fears the AI lab and its rivals are carelessly racing to build \"superhuman...",
       "source": "The Verge",
@@ -100,6 +177,27 @@ const FEED_DATA = {
       "link": "https://www.artificialintelligence-news.com/news/samsung-mistral-ai-models-for-semiconductor-manufacturing/"
     },
     {
+      "title": "Gambling with our lives: AI researcher quits Anthropic with warning about safety",
+      "summary": "Article URL: https://www.politico.eu/article/anthropic-openai-researcher-jacob-coxon-warns-ai-could-kill-humans/ Comments URL: https://news.ycombinator.com/item?id=49623306 Points: 73 # Comments: 97",
+      "source": "Hacker News",
+      "published": "2026-09-09T08:43:27+00:00",
+      "link": "https://www.politico.eu/article/anthropic-openai-researcher-jacob-coxon-warns-ai-could-kill-humans/"
+    },
+    {
+      "title": "How GPT‑5.6 Sol helps run quantum computing experiments",
+      "summary": "Article URL: https://openai.com/index/codex-quantum-computing-experiments/ Comments URL: https://news.ycombinator.com/item?id=49622561 Points: 131 # Comments: 100",
+      "source": "Hacker News",
+      "published": "2026-09-09T07:22:46+00:00",
+      "link": "https://openai.com/index/codex-quantum-computing-experiments/"
+    },
+    {
+      "title": "AI Has a Discovery Problem",
+      "summary": "Article URL: https://mhacevedo.com/posts/the-discovery-problem Comments URL: https://news.ycombinator.com/item?id=49621223 Points: 65 # Comments: 34",
+      "source": "Hacker News",
+      "published": "2026-09-09T04:59:26+00:00",
+      "link": "https://mhacevedo.com/posts/the-discovery-problem"
+    },
+    {
       "title": "What OpenAI’s latest controversy tells us about the future of math",
       "summary": "OpenAI’s latest mathematical milestone has quickly become mired in controversy. Today, the company announced that its agents have solved one of the Millennium Prize Problems, some of the most important open problems in mathematics.",
       "source": "MIT Tech Review",
@@ -108,7 +206,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI Responsibility – OpenAI and Anthropic",
-      "summary": "Article URL: https://twitter.com/hilbertspaess/status/2097476196791709843 Comments URL: https://news.ycombinator.com/item?id=49619639 Points: 73 # Comments: 22",
+      "summary": "Article URL: https://twitter.com/hilbertspaess/status/2097476196791709843 Comments URL: https://news.ycombinator.com/item?id=49619639 Points: 86 # Comments: 24",
       "source": "Hacker News",
       "published": "2026-09-09T01:32:49+00:00",
       "link": "https://twitter.com/hilbertspaess/status/2097476196791709843"
@@ -136,7 +234,7 @@ const FEED_DATA = {
     },
     {
       "title": "Tao: Open math problems being non-renewably mined by AI",
-      "summary": "Article URL: https://mathstodon.xyz/@tao/117237320796901560 Comments URL: https://news.ycombinator.com/item?id=49616968 Points: 281 # Comments: 296",
+      "summary": "Article URL: https://mathstodon.xyz/@tao/117237320796901560 Comments URL: https://news.ycombinator.com/item?id=49616968 Points: 450 # Comments: 383",
       "source": "Hacker News",
       "published": "2026-09-08T21:00:52+00:00",
       "link": "https://mathstodon.xyz/@tao/117237320796901560"
@@ -164,7 +262,7 @@ const FEED_DATA = {
     },
     {
       "title": "Muse – Meta’s personal AI agent",
-      "summary": "Article URL: https://ai.meta.com/muse/ Comments URL: https://news.ycombinator.com/item?id=49615537 Points: 422 # Comments: 446",
+      "summary": "Article URL: https://ai.meta.com/muse/ Comments URL: https://news.ycombinator.com/item?id=49615537 Points: 601 # Comments: 654",
       "source": "Hacker News",
       "published": "2026-09-08T19:25:00+00:00",
       "link": "https://ai.meta.com/muse/"
@@ -198,6 +296,13 @@ const FEED_DATA = {
       "link": "https://www.theverge.com/ai-artificial-intelligence/991216/meta-bets-on-ai-agent-muse-to-catch-up-in-ai-race"
     },
     {
+      "title": "GrapheneOS on AI Usage",
+      "summary": "Article URL: https://grapheneos.social/@GrapheneOS/117236529351603001 Comments URL: https://news.ycombinator.com/item?id=49614101 Points: 52 # Comments: 1",
+      "source": "Hacker News",
+      "published": "2026-09-08T18:00:58+00:00",
+      "link": "https://grapheneos.social/@GrapheneOS/117236529351603001"
+    },
+    {
       "title": "OpenAI fought dirty on career-making math problem, says NYU mathematician",
       "summary": "There is a $1 million bounty for the first person providing a solution to the Navier-Stokes existence and smoothness problem.",
       "source": "TechCrunch",
@@ -213,7 +318,7 @@ const FEED_DATA = {
     },
     {
       "title": "Show HN: LLM Attention Visualization",
-      "summary": "Article URL: https://ishamf.dev/p/llm-attention-visualizer/ Comments URL: https://news.ycombinator.com/item?id=49613068 Points: 149 # Comments: 23",
+      "summary": "Article URL: https://ishamf.dev/p/llm-attention-visualizer/ Comments URL: https://news.ycombinator.com/item?id=49613068 Points: 160 # Comments: 25",
       "source": "Hacker News",
       "published": "2026-09-08T16:59:41+00:00",
       "link": "https://ishamf.dev/p/llm-attention-visualizer/"
@@ -269,7 +374,7 @@ const FEED_DATA = {
     },
     {
       "title": "LibreOffice breaks download records after declaring it has no AI features",
-      "summary": "Article URL: https://manualdousuario.net/en/libreoffice-download-record-no-ai/ Comments URL: https://news.ycombinator.com/item?id=49610538 Points: 664 # Comments: 219",
+      "summary": "Article URL: https://manualdousuario.net/en/libreoffice-download-record-no-ai/ Comments URL: https://news.ycombinator.com/item?id=49610538 Points: 698 # Comments: 234",
       "source": "Hacker News",
       "published": "2026-09-08T14:05:57+00:00",
       "link": "https://manualdousuario.net/en/libreoffice-download-record-no-ai/"
@@ -283,7 +388,7 @@ const FEED_DATA = {
     },
     {
       "title": "We Must Return to the Office to Use AI in Person",
-      "summary": "Article URL: https://www.mcsweeneys.net/articles/why-we-must-return-to-the-office-to-use-ai-in-person Comments URL: https://news.ycombinator.com/item?id=49610229 Points: 374 # Comments: 62",
+      "summary": "Article URL: https://www.mcsweeneys.net/articles/why-we-must-return-to-the-office-to-use-ai-in-person Comments URL: https://news.ycombinator.com/item?id=49610229 Points: 387 # Comments: 67",
       "source": "Hacker News",
       "published": "2026-09-08T13:41:25+00:00",
       "link": "https://www.mcsweeneys.net/articles/why-we-must-return-to-the-office-to-use-ai-in-person"
@@ -353,14 +458,14 @@ const FEED_DATA = {
     },
     {
       "title": "Multi-Agents LLM Financial Trading Framework",
-      "summary": "Article URL: https://github.com/TauricResearch/TradingAgents Comments URL: https://news.ycombinator.com/item?id=49605822 Points: 115 # Comments: 76",
+      "summary": "Article URL: https://github.com/TauricResearch/TradingAgents Comments URL: https://news.ycombinator.com/item?id=49605822 Points: 119 # Comments: 80",
       "source": "Hacker News",
       "published": "2026-09-08T05:20:23+00:00",
       "link": "https://github.com/TauricResearch/TradingAgents"
     },
     {
       "title": "Arm Mali G2-Ultra NX GPU: desktop-class mobile gameplay with AI-native graphics",
-      "summary": "Article URL: https://newsroom.arm.com/blog/arm-mali-g2-ultra-nx-ai-native-mobile-graphics Comments URL: https://news.ycombinator.com/item?id=49605511 Points: 81 # Comments: 62",
+      "summary": "Article URL: https://newsroom.arm.com/blog/arm-mali-g2-ultra-nx-ai-native-mobile-graphics Comments URL: https://news.ycombinator.com/item?id=49605511 Points: 83 # Comments: 64",
       "source": "Hacker News",
       "published": "2026-09-08T04:06:20+00:00",
       "link": "https://newsroom.arm.com/blog/arm-mali-g2-ultra-nx-ai-native-mobile-graphics"
@@ -465,7 +570,7 @@ const FEED_DATA = {
     },
     {
       "title": "Initial effects of AI technology on employment look positive",
-      "summary": "https://archive.md/5hi5i Comments URL: https://news.ycombinator.com/item?id=49596610 Points: 93 # Comments: 152",
+      "summary": "https://archive.md/5hi5i Comments URL: https://news.ycombinator.com/item?id=49596610 Points: 98 # Comments: 152",
       "source": "Hacker News",
       "published": "2026-09-07T10:38:32+00:00",
       "link": "https://www.economist.com/finance-and-economics/2026/09/04/the-jobs-apocalypse-is-postponed-an-ai-jobs-boom-is-here"
@@ -479,14 +584,14 @@ const FEED_DATA = {
     },
     {
       "title": "Show HN: Engrim – A universal, local-first SQLite memory engine for AI CLIs",
-      "summary": "Article URL: https://github.com/timgordontg/engrim Comments URL: https://news.ycombinator.com/item?id=49594008 Points: 90 # Comments: 53",
+      "summary": "Article URL: https://github.com/timgordontg/engrim Comments URL: https://news.ycombinator.com/item?id=49594008 Points: 91 # Comments: 53",
       "source": "Hacker News",
       "published": "2026-09-07T04:49:36+00:00",
       "link": "https://github.com/timgordontg/engrim"
     },
     {
       "title": "I refused to train the AI that could replace me",
-      "summary": "Article URL: https://restofworld.org/2026/ai-training-jobs-expert-replacement/ Comments URL: https://news.ycombinator.com/item?id=49593959 Points: 97 # Comments: 113",
+      "summary": "Article URL: https://restofworld.org/2026/ai-training-jobs-expert-replacement/ Comments URL: https://news.ycombinator.com/item?id=49593959 Points: 97 # Comments: 114",
       "source": "Hacker News",
       "published": "2026-09-07T04:38:22+00:00",
       "link": "https://restofworld.org/2026/ai-training-jobs-expert-replacement/"
@@ -497,6 +602,13 @@ const FEED_DATA = {
       "source": "The Verge",
       "published": "2026-09-06T23:36:04+00:00",
       "link": "https://www.theverge.com/ai-artificial-intelligence/990932/seattle-times-newsday-lawsuit-openai-microsoft"
+    },
+    {
+      "title": "The Microeconomics of Artificial Intelligence (2025)",
+      "summary": "Article URL: https://direct.mit.edu/books/oa-monograph/6067/The-Microeconomics-of-Artificial-Intelligence Comments URL: https://news.ycombinator.com/item?id=49591112 Points: 70 # Comments: 43",
+      "source": "Hacker News",
+      "published": "2026-09-06T21:24:23+00:00",
+      "link": "https://direct.mit.edu/books/oa-monograph/6067/The-Microeconomics-of-Artificial-Intelligence"
     },
     {
       "title": "Authors push back as publishers and agents make claims on Anthropic settlement",
@@ -1288,118 +1400,6 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-09-02T18:24:42+00:00",
       "link": "https://the-decoder.com/us-department-of-justice-backs-fair-use-for-ai-training-in-landmark-copyright-case/"
-    },
-    {
-      "title": "These Russian Mathematicians Taught AI Models How to Talk to Each Other Without Using Words",
-      "summary": "A startup called Mostik has a wild new approach to combining the capabilities of AI models.",
-      "source": "Wired",
-      "published": "2026-09-02T18:20:00+00:00",
-      "link": "https://www.wired.com/story/russian-startup-mostik-ai-models-communication/"
-    },
-    {
-      "title": "Amazon’s AI assistant can now spot fake emails from the company",
-      "summary": "Amazon is trying to combat impersonation scams with a new feature that allows you to use its AI assistant to determine whether an email, text message, or phone call actually came from the company.",
-      "source": "The Verge",
-      "published": "2026-09-02T17:52:56+00:00",
-      "link": "https://www.theverge.com/tech/988518/amazon-alexa-for-shopping-verify-emails"
-    },
-    {
-      "title": "Pangram’s Max Spero on why AI detection is harder than ‘Real or Fake’",
-      "summary": "The internet has a trust problem, and it’s not just because social media feeds are filling up with AI slop.",
-      "source": "TechCrunch",
-      "published": "2026-09-02T17:18:13+00:00",
-      "link": "https://techcrunch.com/video/pangrams-max-spero-on-why-ai-detection-is-harder-than-real-or-fake/"
-    },
-    {
-      "title": "We’re ‘dangerously close’ to dead internet theory, says Pangram’s CEO",
-      "summary": "The internet has a trust problem, and it’s not just because social media feeds are filling up with AI slop.",
-      "source": "TechCrunch",
-      "published": "2026-09-02T17:09:57+00:00",
-      "link": "https://techcrunch.com/podcast/were-dangerously-close-to-dead-internet-theory-says-pangrams-ceo/"
-    },
-    {
-      "title": "US government sides with OpenAI on issue of training LLMs on copyrighted material",
-      "summary": "\"The United States has a strong interest in continuing to develop a robust and competitive artificial intelligence industry that sets the standard for the practice and procedure of AI use globally,\" the brief reads.",
-      "source": "TechCrunch",
-      "published": "2026-09-02T17:09:06+00:00",
-      "link": "https://techcrunch.com/2026/09/02/u-s-government-sides-with-openai-on-issue-of-training-llms-on-copyrighted-material/"
-    },
-    {
-      "title": "Gemini 3.8 Flash is Google's third budget model in six weeks while frontier models remain MIA",
-      "summary": "Google's Gemini 3.8 Flash, the third Flash model in six weeks, matches Claude Opus 5 on some agentic coding benchmarks at lower cost.",
-      "source": "The Decoder",
-      "published": "2026-09-02T16:59:29+00:00",
-      "link": "https://the-decoder.com/gemini-3-8-flash-is-googles-third-budget-model-in-six-weeks-while-frontier-models-remain-mia/"
-    },
-    {
-      "title": "Researchers fear safety disaster ahead of OpenAI’s Astra release",
-      "summary": "OpenAI is on the cusp of releasing its most powerful AI model yet, Astra, following weeks of delays to shore up safety protocols after its agents attacked real targets during testing.",
-      "source": "The Verge",
-      "published": "2026-09-02T16:40:50+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/988334/openai-astra-ai-monitoring-safety"
-    },
-    {
-      "title": "The Trump administration is supporting OpenAI in the NYT copyright lawsuit",
-      "summary": "The Trump administration has intervened in The New York Times' copyright lawsuit against OpenAI, making an argument in favor of the AI lab.",
-      "source": "The Verge",
-      "published": "2026-09-02T16:12:25+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/988344/trump-administration-new-york-times-openai-lawsuit"
-    },
-    {
-      "title": "Wonderful more than doubles its valuation to $5B in under 6 months",
-      "summary": "Wonderful said it will use its $550 million Series C funding to develop products faster, expand its FDE teams, and meet demand for its products.",
-      "source": "TechCrunch",
-      "published": "2026-09-02T16:04:10+00:00",
-      "link": "https://techcrunch.com/2026/09/02/wonderful-more-than-doubles-its-valuation-to-5b-in-under-6-months/"
-    },
-    {
-      "title": "India’s richest man now wants to turn aging computers into AI-ready PCs",
-      "summary": "Jio is betting it can turn an aging computer into an AI-ready PC for as little as about $11 for two months.",
-      "source": "TechCrunch",
-      "published": "2026-09-02T16:01:48+00:00",
-      "link": "https://techcrunch.com/2026/09/02/indias-richest-man-now-wants-to-turn-aging-computers-into-ai-ready-pcs/"
-    },
-    {
-      "title": "The Logical End Point of AI Job Interviews Is Two Bots Talking to Each Other",
-      "summary": "Christopher was sick of being ghosted by AI recruiters. So he unleashed ChatGPT on his robot interviewer.",
-      "source": "Wired",
-      "published": "2026-09-02T15:51:46+00:00",
-      "link": "https://www.wired.com/story/bot-vs-bot-job-interview-ai/"
-    },
-    {
-      "title": "Google is sending MrBeast into the wilderness, armed with AI",
-      "summary": "MrBeast will feature Gemini, Google Health, and the Fitbit Air in upcoming videos as part of a multi-year partnership with Google.",
-      "source": "The Verge",
-      "published": "2026-09-02T15:47:03+00:00",
-      "link": "https://www.theverge.com/tech/988355/mrbeast-google-partnership-gemini-fitbit"
-    },
-    {
-      "title": "AI Policy",
-      "summary": "Article URL: https://dbushell.com/ai/ Comments URL: https://news.ycombinator.com/item?id=49537900 Points: 52 # Comments: 83",
-      "source": "Hacker News",
-      "published": "2026-09-02T15:36:24+00:00",
-      "link": "https://dbushell.com/ai/"
-    },
-    {
-      "title": "Motional and MIT AI explains self-driving car decisions",
-      "summary": "Motional and MIT researchers have built a system that lets self-driving cars explain their decisions in real-time, tackling the black-box problem in autonomous vehicle AI.",
-      "source": "AI News",
-      "published": "2026-09-02T15:25:12+00:00",
-      "link": "https://www.artificialintelligence-news.com/news/motional-and-mit-ai-explains-self-driving-car-decisions/"
-    },
-    {
-      "title": "HiddenLayer nabs $100M as enterprises rush to secure their AI deployments",
-      "summary": "Security companies are scrambling to build products that can monitor not just agents but also the tools and add-ons they use.",
-      "source": "TechCrunch",
-      "published": "2026-09-02T15:01:23+00:00",
-      "link": "https://techcrunch.com/2026/09/02/hiddenlayer-nabs-100m-as-enterprises-rush-to-secure-their-ai-deployments/"
-    },
-    {
-      "title": "PSA: Amazon’s shopping AI can now tell you if that message is a scam",
-      "summary": "Amazon is adding a scam-detection feature to Alexa for Shopping that can verify whether suspicious emails, texts, and other messages actually came from the retailer.",
-      "source": "TechCrunch",
-      "published": "2026-09-02T14:56:34+00:00",
-      "link": "https://techcrunch.com/2026/09/02/psa-amazons-shopping-ai-can-now-tell-you-if-that-message-is-a-scam/"
     }
   ]
 };
