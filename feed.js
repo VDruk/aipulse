@@ -1,6 +1,69 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-09-09T19:34:24.510053+00:00",
+  "lastUpdated": "2026-09-09T22:51:08.435997+00:00",
   "items": [
+    {
+      "title": "OpenAI adds a prominent AI doomer to its board of directors",
+      "summary": "Paul Christiano, an influential AI researcher focused on alignment, is joining the OpenAI Foundation as a member of its board.",
+      "source": "TechCrunch",
+      "published": "2026-09-09T22:25:22+00:00",
+      "link": "https://techcrunch.com/2026/09/09/openai-adds-a-prominent-ai-doomer-to-its-board-of-directors/"
+    },
+    {
+      "title": "The AI Researcher Who Just Quit Anthropic Says It’s ‘Crunch Time for Humanity’",
+      "summary": "Jacob Coxon talks to WIRED about the “mini Manhattan project” inside Anthropic, the problem with alignment, and why AI labs have just a few years left to make their systems safe.",
+      "source": "Wired",
+      "published": "2026-09-09T22:11:55+00:00",
+      "link": "https://www.wired.com/story/anthropic-researcher-quits-jacob-coxon-ai-fears-humanity/"
+    },
+    {
+      "title": "Suno releases its first AI music model made with record industry help",
+      "summary": "Suno's new v6 AI music model is its first made with support from the record industry.",
+      "source": "The Verge",
+      "published": "2026-09-09T21:42:19+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/991977/suno-releases-its-first-ai-music-model-made-with-record-industry-help"
+    },
+    {
+      "title": "OpenAI’s sly mathematical breakthrough sends a chill through academia",
+      "summary": "OpenAI's announcement Tuesday that it has solved one of mathematics' legendary Millennium Prize problems should have been a moment of triumph. The result is both an undeniable achievement and a striking demonstration of just how rapidly AI is transforming mathematics.",
+      "source": "The Verge",
+      "published": "2026-09-09T21:16:34+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/992953/openai-math-millennium-prize-navier-stokes"
+    },
+    {
+      "title": "San Francisco Orders Meta to Stop ‘Allowing’ AI Child Abuse Ads",
+      "summary": "The City Attorney’s Office has asked Meta to explain how the harmful ads repeatedly ran on Facebook and Instagram. The company claims the ads are not under the city’s jurisdiction.",
+      "source": "Wired",
+      "published": "2026-09-09T21:15:27+00:00",
+      "link": "https://www.wired.com/story/san-francisco-orders-meta-to-stop-allowing-ai-child-abuse-ads/"
+    },
+    {
+      "title": "Read the Apple document explaining how new listening features still protect your privacy",
+      "summary": "At Wednesday's iPhone Duo launch event, Apple announced a handful of new Siri AI Audio Intelligence features, including Siri Recap, Live Rewind, Sound Recognition, and Music Recognition.",
+      "source": "The Verge",
+      "published": "2026-09-09T20:44:43+00:00",
+      "link": "https://www.theverge.com/tech/992919/apple-siri-ai-audio-intelligence-privacy"
+    },
+    {
+      "title": "Apple Watch’s new AI features are normalizing the idea that technology is always listening",
+      "summary": "Apple says its new watches won’t save raw audio, but features that can transcribe recent speech and summarize ambient conversations raise new questions about consent, privacy, and how people behave when they know they could always be recorded.",
+      "source": "TechCrunch",
+      "published": "2026-09-09T20:24:48+00:00",
+      "link": "https://techcrunch.com/2026/09/09/apple-watchs-new-ai-features-are-normalizing-the-idea-that-technology-is-always-listening/"
+    },
+    {
+      "title": "Everything Apple announced at its fall iPhone event, from the foldable iPhone Duo to an always-listening Apple Watch",
+      "summary": "The main event was the tech giant's highly anticipated first foldable phone, the iPhone Duo.",
+      "source": "TechCrunch",
+      "published": "2026-09-09T20:03:43+00:00",
+      "link": "https://techcrunch.com/2026/09/09/everything-apple-announced-at-its-fall-iphone-event-from-the-foldable-iphone-duo-to-an-always-listening-apple-watch/"
+    },
+    {
+      "title": "Anthropic built an economic model that frames its CEO's bleakest job forecasts as an outlier scenario",
+      "summary": "Anthropic published an economic model with three scenarios for the US economy through 2030. In the extreme scenario, output doubles every 4.5 years and knowledge worker unemployment hits 17.9 percent.",
+      "source": "The Decoder",
+      "published": "2026-09-09T19:39:27+00:00",
+      "link": "https://the-decoder.com/anthropic-built-an-economic-model-that-frames-its-ceos-bleakest-job-forecasts-as-an-outlier-scenario/"
+    },
     {
       "title": "Apple’s new iPhone camera mode promises to prove your photo isn’t AI",
       "summary": "Apple is launching a new way to prove that the picture you took isn't manipulated by AI.",
@@ -23,6 +86,13 @@ const FEED_DATA = {
       "link": "https://www.wired.com/story/i-used-ai-to-hack-my-home-network/"
     },
     {
+      "title": "Apple has a new way to prove your iPhone photos aren’t AI slop",
+      "summary": "Apple introduced Apple Reference Image to help users determine whether photos have been edited, including alterations made by AI.",
+      "source": "TechCrunch",
+      "published": "2026-09-09T18:08:35+00:00",
+      "link": "https://techcrunch.com/2026/09/09/apple-has-a-new-way-prove-your-iphone-photos-arent-ai-slop/"
+    },
+    {
       "title": "Apple has a new way prove your iPhone photos aren’t AI slop",
       "summary": "Apple introduced Apple Reference Image to help users determine whether photos have been edited, including alterations made by AI.",
       "source": "TechCrunch",
@@ -38,7 +108,7 @@ const FEED_DATA = {
     },
     {
       "title": "Qwen 3.8 follows GPT-5.5 Pro reasoning prefills",
-      "summary": "Article URL: https://gist.github.com/wsxiaoys/e0286dc6bb624ff5fdf49e7f4c528ba3 Comments URL: https://news.ycombinator.com/item?id=49630026 Points: 78 # Comments: 21",
+      "summary": "Article URL: https://gist.github.com/wsxiaoys/e0286dc6bb624ff5fdf49e7f4c528ba3 Comments URL: https://news.ycombinator.com/item?id=49630026 Points: 145 # Comments: 59",
       "source": "Hacker News",
       "published": "2026-09-09T17:24:28+00:00",
       "link": "https://gist.github.com/wsxiaoys/e0286dc6bb624ff5fdf49e7f4c528ba3"
@@ -52,7 +122,7 @@ const FEED_DATA = {
     },
     {
       "title": "Defining AI Psychosis. Part 2: \"Prolific AI Psychosis\"",
-      "summary": "Article URL: https://jeffs.blog/p/defining-ai-psychosis-part-2-prolific Comments URL: https://news.ycombinator.com/item?id=49628880 Points: 58 # Comments: 36",
+      "summary": "Article URL: https://jeffs.blog/p/defining-ai-psychosis-part-2-prolific Comments URL: https://news.ycombinator.com/item?id=49628880 Points: 60 # Comments: 43",
       "source": "Hacker News",
       "published": "2026-09-09T16:13:11+00:00",
       "link": "https://jeffs.blog/p/defining-ai-psychosis-part-2-prolific"
@@ -94,7 +164,7 @@ const FEED_DATA = {
     },
     {
       "title": "GPT-6 Astra, looped transformers, and hidden reasoning",
-      "summary": "Article URL: https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and Comments URL: https://news.ycombinator.com/item?id=49627370 Points: 230 # Comments: 86",
+      "summary": "Article URL: https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and Comments URL: https://news.ycombinator.com/item?id=49627370 Points: 311 # Comments: 114",
       "source": "Hacker News",
       "published": "2026-09-09T14:37:47+00:00",
       "link": "https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and"
@@ -121,18 +191,18 @@ const FEED_DATA = {
       "link": "https://the-decoder.com/deepminds-alphagenome-atlas-maps-every-possible-dna-change-in-the-human-genome/"
     },
     {
-      "title": "Instacart launches an AI grocery shopping assistant called Clementine",
-      "summary": "Instacart is the latest app to bake a conversational AI assistant into its platform.",
-      "source": "TechCrunch",
-      "published": "2026-09-09T13:00:00+00:00",
-      "link": "https://techcrunch.com/2026/09/09/instacart-launches-an-ai-grocery-shopping-assistant-called-clementine/"
-    },
-    {
       "title": "Sequoia doubles down on Cymphony as AI agents create new enterprise security risks",
       "summary": "Cymphony gives security teams a single view of employees, AI agents, and other nonhuman identities, including the systems and sensitive data they can access.",
       "source": "TechCrunch",
       "published": "2026-09-09T13:00:00+00:00",
       "link": "https://techcrunch.com/2026/09/09/sequoia-doubles-down-on-cymphony-as-ai-agents-create-new-enterprise-security-risks/"
+    },
+    {
+      "title": "Instacart launches an AI grocery shopping assistant called Clementine",
+      "summary": "Instacart is the latest app to bake a conversational AI assistant into its platform.",
+      "source": "TechCrunch",
+      "published": "2026-09-09T13:00:00+00:00",
+      "link": "https://techcrunch.com/2026/09/09/instacart-launches-an-ai-grocery-shopping-assistant-called-clementine/"
     },
     {
       "title": "Amazon Prime Video’s new AI tech matches lips to dubbed audio",
@@ -157,7 +227,7 @@ const FEED_DATA = {
     },
     {
       "title": "Besxar is building an orbital semiconductor factory, one SpaceX rocket at a time",
-      "summary": "If you want to manufacture in space—and bring the products back again—there’s a limited set of options: Wait to go to the International Space Station, or partner with a handful of start-ups launching spacecraft that spend time in orbit before they return to Earth.",
+      "summary": "Besxar, a startup founded by former OpenAI staffer Ashley Pilipiszyn, wants to make the key precursors for advanced semiconductors by taking advantage of the vacuum of space.",
       "source": "TechCrunch",
       "published": "2026-09-09T12:30:00+00:00",
       "link": "https://techcrunch.com/2026/09/09/besxar-is-strapping-advanced-chip-fabs-onto-spacexs-falcon-9-rockets/"
@@ -220,7 +290,7 @@ const FEED_DATA = {
     },
     {
       "title": "How An AI math breakthrough ignited a controversy",
-      "summary": "Article URL: https://www.science.org/content/article/how-ai-math-breakthrough-ignited-controversy Comments URL: https://news.ycombinator.com/item?id=49624163 Points: 207 # Comments: 218",
+      "summary": "Article URL: https://www.science.org/content/article/how-ai-math-breakthrough-ignited-controversy Comments URL: https://news.ycombinator.com/item?id=49624163 Points: 210 # Comments: 222",
       "source": "Hacker News",
       "published": "2026-09-09T10:25:41+00:00",
       "link": "https://www.science.org/content/article/how-ai-math-breakthrough-ignited-controversy"
@@ -241,14 +311,14 @@ const FEED_DATA = {
     },
     {
       "title": "Gambling with our lives: AI researcher quits Anthropic with warning about safety",
-      "summary": "Article URL: https://www.politico.eu/article/anthropic-openai-researcher-jacob-coxon-warns-ai-could-kill-humans/ Comments URL: https://news.ycombinator.com/item?id=49623306 Points: 78 # Comments: 100",
+      "summary": "Article URL: https://www.politico.eu/article/anthropic-openai-researcher-jacob-coxon-warns-ai-could-kill-humans/ Comments URL: https://news.ycombinator.com/item?id=49623306 Points: 81 # Comments: 100",
       "source": "Hacker News",
       "published": "2026-09-09T08:43:27+00:00",
       "link": "https://www.politico.eu/article/anthropic-openai-researcher-jacob-coxon-warns-ai-could-kill-humans/"
     },
     {
       "title": "How GPT‑5.6 Sol helps run quantum computing experiments",
-      "summary": "Article URL: https://openai.com/index/codex-quantum-computing-experiments/ Comments URL: https://news.ycombinator.com/item?id=49622561 Points: 139 # Comments: 104",
+      "summary": "Article URL: https://openai.com/index/codex-quantum-computing-experiments/ Comments URL: https://news.ycombinator.com/item?id=49622561 Points: 141 # Comments: 105",
       "source": "Hacker News",
       "published": "2026-09-09T07:22:46+00:00",
       "link": "https://openai.com/index/codex-quantum-computing-experiments/"
@@ -269,7 +339,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI Responsibility – OpenAI and Anthropic",
-      "summary": "Article URL: https://twitter.com/hilbertspaess/status/2097476196791709843 Comments URL: https://news.ycombinator.com/item?id=49619639 Points: 86 # Comments: 22",
+      "summary": "Article URL: https://twitter.com/hilbertspaess/status/2097476196791709843 Comments URL: https://news.ycombinator.com/item?id=49619639 Points: 87 # Comments: 22",
       "source": "Hacker News",
       "published": "2026-09-09T01:32:49+00:00",
       "link": "https://twitter.com/hilbertspaess/status/2097476196791709843"
@@ -297,7 +367,7 @@ const FEED_DATA = {
     },
     {
       "title": "Tao: Open math problems being non-renewably mined by AI",
-      "summary": "Article URL: https://mathstodon.xyz/@tao/117237320796901560 Comments URL: https://news.ycombinator.com/item?id=49616968 Points: 459 # Comments: 386",
+      "summary": "Article URL: https://mathstodon.xyz/@tao/117237320796901560 Comments URL: https://news.ycombinator.com/item?id=49616968 Points: 466 # Comments: 397",
       "source": "Hacker News",
       "published": "2026-09-08T21:00:52+00:00",
       "link": "https://mathstodon.xyz/@tao/117237320796901560"
@@ -325,7 +395,7 @@ const FEED_DATA = {
     },
     {
       "title": "Muse – Meta’s personal AI agent",
-      "summary": "Article URL: https://ai.meta.com/muse/ Comments URL: https://news.ycombinator.com/item?id=49615537 Points: 614 # Comments: 671",
+      "summary": "Article URL: https://ai.meta.com/muse/ Comments URL: https://news.ycombinator.com/item?id=49615537 Points: 634 # Comments: 691",
       "source": "Hacker News",
       "published": "2026-09-08T19:25:00+00:00",
       "link": "https://ai.meta.com/muse/"
@@ -381,7 +451,7 @@ const FEED_DATA = {
     },
     {
       "title": "Show HN: LLM Attention Visualization",
-      "summary": "Article URL: https://ishamf.dev/p/llm-attention-visualizer/ Comments URL: https://news.ycombinator.com/item?id=49613068 Points: 161 # Comments: 25",
+      "summary": "Article URL: https://ishamf.dev/p/llm-attention-visualizer/ Comments URL: https://news.ycombinator.com/item?id=49613068 Points: 162 # Comments: 25",
       "source": "Hacker News",
       "published": "2026-09-08T16:59:41+00:00",
       "link": "https://ishamf.dev/p/llm-attention-visualizer/"
@@ -437,7 +507,7 @@ const FEED_DATA = {
     },
     {
       "title": "LibreOffice breaks download records after declaring it has no AI features",
-      "summary": "Article URL: https://manualdousuario.net/en/libreoffice-download-record-no-ai/ Comments URL: https://news.ycombinator.com/item?id=49610538 Points: 699 # Comments: 234",
+      "summary": "Article URL: https://manualdousuario.net/en/libreoffice-download-record-no-ai/ Comments URL: https://news.ycombinator.com/item?id=49610538 Points: 702 # Comments: 234",
       "source": "Hacker News",
       "published": "2026-09-08T14:05:57+00:00",
       "link": "https://manualdousuario.net/en/libreoffice-download-record-no-ai/"
@@ -451,7 +521,7 @@ const FEED_DATA = {
     },
     {
       "title": "We Must Return to the Office to Use AI in Person",
-      "summary": "Article URL: https://www.mcsweeneys.net/articles/why-we-must-return-to-the-office-to-use-ai-in-person Comments URL: https://news.ycombinator.com/item?id=49610229 Points: 388 # Comments: 67",
+      "summary": "Article URL: https://www.mcsweeneys.net/articles/why-we-must-return-to-the-office-to-use-ai-in-person Comments URL: https://news.ycombinator.com/item?id=49610229 Points: 390 # Comments: 68",
       "source": "Hacker News",
       "published": "2026-09-08T13:41:25+00:00",
       "link": "https://www.mcsweeneys.net/articles/why-we-must-return-to-the-office-to-use-ai-in-person"
@@ -521,7 +591,7 @@ const FEED_DATA = {
     },
     {
       "title": "Multi-Agents LLM Financial Trading Framework",
-      "summary": "Article URL: https://github.com/TauricResearch/TradingAgents Comments URL: https://news.ycombinator.com/item?id=49605822 Points: 119 # Comments: 80",
+      "summary": "Article URL: https://github.com/TauricResearch/TradingAgents Comments URL: https://news.ycombinator.com/item?id=49605822 Points: 119 # Comments: 81",
       "source": "Hacker News",
       "published": "2026-09-08T05:20:23+00:00",
       "link": "https://github.com/TauricResearch/TradingAgents"
@@ -1073,18 +1143,18 @@ const FEED_DATA = {
       "link": "https://www.reuters.com/world/europe/openai-agents-hijacked-german-website-previously-undisclosed-ai-breakout-this-2026-09-04/"
     },
     {
-      "title": "AI Use in the Job Market Is Creating an Infinite Doom Loop",
-      "summary": "Job seekers are trying to game the application process using AI. It’s not working, and not for the reasons you might think.",
-      "source": "Wired",
-      "published": "2026-09-04T10:00:00+00:00",
-      "link": "https://www.wired.com/story/ai-job-market-infinite-doom-loop/"
-    },
-    {
       "title": "M&T Bank expands enterprise AI after years of technology overhaul",
       "summary": "M&T Bank has deployed AI copilots to more than 15,000 employees as the US regional bank applies AI to internal operations, customer service, software development, and risk management.",
       "source": "AI News",
       "published": "2026-09-04T10:00:00+00:00",
       "link": "https://www.artificialintelligence-news.com/news/mt-bank-enterprise-ai-15000-employees/"
+    },
+    {
+      "title": "AI Use in the Job Market Is Creating an Infinite Doom Loop",
+      "summary": "Job seekers are trying to game the application process using AI. It’s not working, and not for the reasons you might think.",
+      "source": "Wired",
+      "published": "2026-09-04T10:00:00+00:00",
+      "link": "https://www.wired.com/story/ai-job-market-infinite-doom-loop/"
     },
     {
       "title": "Data from drones in Ukraine is fueling a new Wild West marketplace",
@@ -1330,76 +1400,6 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-09-03T12:42:45+00:00",
       "link": "https://techcrunch.com/2026/09/03/nvidia-confirms-it-will-buy-hugging-face-for-12-9-billion/"
-    },
-    {
-      "title": "Nvidia is buying Hugging Face for almost $13 billion",
-      "summary": "Nvidia has agreed to buy Hugging Face for $12.93 billion, bringing one of the most popular hosting platforms for open-source AI models, datasets, and tools under the ownership of the world's biggest AI chipmaker.",
-      "source": "The Verge",
-      "published": "2026-09-03T12:12:06+00:00",
-      "link": "https://www.theverge.com/tech/985474/nvidia-buying-hugging-face-deal"
-    },
-    {
-      "title": "The Download: rethinking child safety and fossil-fueled farming",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Child-monitoring apps might need a reboot Digital harms have become the defining fear of American parents.",
-      "source": "MIT Tech Review",
-      "published": "2026-09-03T12:10:00+00:00",
-      "link": "https://www.technologyreview.com/2026/09/03/1143385/the-download-rethinking-child-safety-online-fossil-fuels-farming/"
-    },
-    {
-      "title": "OpenAI CEO Sam Altman warns of \"unsustainable silliness\" in compute buildout",
-      "summary": "Sam Altman warns of \"unsustainable silliness\" in the global AI data center buildout. Too many Neocloud providers are announcing massive capacity without the customers to back it up.",
-      "source": "The Decoder",
-      "published": "2026-09-03T12:00:56+00:00",
-      "link": "https://the-decoder.com/openai-ceo-sam-altman-warns-of-unsustainable-silliness-in-compute-buildout/"
-    },
-    {
-      "title": "Meta closes in on the top with Muse Spark 1.3, and undercuts rivals on price",
-      "summary": "Meta has released Muse Spark 1.3, its fourth model in the series in five months. According to Artificial Analysis, the model gains the most on agentic benchmarks but still trails Claude Fable 5.1 and other top models.",
-      "source": "The Decoder",
-      "published": "2026-09-03T11:45:41+00:00",
-      "link": "https://the-decoder.com/meta-closes-in-on-the-top-with-muse-spark-1-3-and-undercuts-rivals-on-price/"
-    },
-    {
-      "title": "A dark horse enters China's AI race: StartLux",
-      "summary": "Article URL: https://chinaonchina.com/article/chen-dawei-returns-enters-the-large-model-sector Comments URL: https://news.ycombinator.com/item?id=49548530 Points: 55 # Comments: 29",
-      "source": "Hacker News",
-      "published": "2026-09-03T11:12:57+00:00",
-      "link": "https://chinaonchina.com/article/chen-dawei-returns-enters-the-large-model-sector"
-    },
-    {
-      "title": "This Is Flock’s AI Search Tool for Cops",
-      "summary": "WIRED rebuilt Flock’s latest search tool from code the company sends to a police officer’s browser. Its AI can keep watch across multiple cameras for anyone fitting a written description.",
-      "source": "Wired",
-      "published": "2026-09-03T10:00:00+00:00",
-      "link": "https://www.wired.com/story/flock-ai-search-user-interface/"
-    },
-    {
-      "title": "Scaling agentic AI pilots across the enterprise",
-      "summary": "As agentic AI moves from experimentation toward enterprise deployment, the challenge is figuring out how agents can work together, connect to the systems and data they need, and operate safely across the workflows that run a business.",
-      "source": "MIT Tech Review",
-      "published": "2026-09-03T09:30:32+00:00",
-      "link": "https://www.technologyreview.com/2026/09/03/1142868/scaling-agentic-ai-pilots-across-the-enterprise/"
-    },
-    {
-      "title": "Anthropic ramps up Claude infrastructure with $35 billion Lambda deal",
-      "summary": "Anthropic has signed a $35 billion cloud computing deal with Lambda, an Nvidia-backed cloud provider. The article Anthropic ramps up Claude infrastructure with $35 billion Lambda deal appeared first on The Decoder.",
-      "source": "The Decoder",
-      "published": "2026-09-03T08:22:02+00:00",
-      "link": "https://the-decoder.com/anthropic-ramps-up-claude-infrastructure-with-35-billion-lambda-deal/"
-    },
-    {
-      "title": "Meta Pushes Its New AI Agent on Employees—but Eases Off on Tokenmaxxing",
-      "summary": "The company is reducing pressure on workers to use artificial intelligence tools while encouraging them to experiment with Hatch, its most advanced AI project yet.",
-      "source": "Wired",
-      "published": "2026-09-03T01:32:02+00:00",
-      "link": "https://www.wired.com/story/meta-pushes-its-new-ai-agent-on-employees-but-eases-off-on-tokenmaxxing/"
-    },
-    {
-      "title": "Go grandmaster Shin defeats AI KataGo with a two-stone handicap",
-      "summary": "Article URL: https://www.kedglobal.com/artificial-intelligence/newsView/ked202607210007 Comments URL: https://news.ycombinator.com/item?id=49544762 Points: 467 # Comments: 186",
-      "source": "Hacker News",
-      "published": "2026-09-03T01:11:22+00:00",
-      "link": "https://www.kedglobal.com/artificial-intelligence/newsView/ked202607210007"
     }
   ]
 };
