@@ -1,6 +1,13 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-09-09T05:42:50.856040+00:00",
+  "lastUpdated": "2026-09-09T09:26:45.924415+00:00",
   "items": [
+    {
+      "title": "Samsung taps Mistral AI models for semiconductor manufacturing",
+      "summary": "Samsung has partnered with Mistral AI to deploy on-premises models across its semiconductor manufacturing and engineering operations. The agreement was announced during the bilateral state summit held in Paris between South Korea and France.",
+      "source": "AI News",
+      "published": "2026-09-09T08:52:19+00:00",
+      "link": "https://www.artificialintelligence-news.com/news/samsung-mistral-ai-models-for-semiconductor-manufacturing/"
+    },
     {
       "title": "What OpenAI’s latest controversy tells us about the future of math",
       "summary": "OpenAI’s latest mathematical milestone has quickly become mired in controversy. Today, the company announced that its agents have solved one of the Millennium Prize Problems, some of the most important open problems in mathematics.",
@@ -1393,13 +1400,6 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-09-02T12:09:42+00:00",
       "link": "https://techcrunch.com/2026/09/02/openai-faces-30-more-lawsuits-tied-to-tumbler-ridge-shooting/"
-    },
-    {
-      "title": "Quasar 438B: Europe's Leading AI Model",
-      "summary": "Article URL: https://multiversecomputing.com/resources/introducing-quasar-438b-europe-s-leading-ai-model Comments URL: https://news.ycombinator.com/item?id=49534132 Points: 196 # Comments: 128",
-      "source": "Hacker News",
-      "published": "2026-09-02T10:02:41+00:00",
-      "link": "https://multiversecomputing.com/resources/introducing-quasar-438b-europe-s-leading-ai-model"
     }
   ]
 };
