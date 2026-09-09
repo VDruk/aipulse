@@ -1,6 +1,62 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-09-09T17:03:50.592891+00:00",
+  "lastUpdated": "2026-09-09T19:34:24.510053+00:00",
   "items": [
+    {
+      "title": "Apple’s new iPhone camera mode promises to prove your photo isn’t AI",
+      "summary": "Apple is launching a new way to prove that the picture you took isn't manipulated by AI.",
+      "source": "The Verge",
+      "published": "2026-09-09T19:30:12+00:00",
+      "link": "https://www.theverge.com/tech/992766/apple-iphone-18-pro-reference-image"
+    },
+    {
+      "title": "The hinge for Apple’s new foldable phone was built with AI",
+      "summary": "Apple says it used AI and 3D printing in the manufacturing process for its long-awaited foldable phone.",
+      "source": "TechCrunch",
+      "published": "2026-09-09T19:21:48+00:00",
+      "link": "https://techcrunch.com/2026/09/09/the-hinge-for-apples-new-foldable-phone-was-built-with-ai/"
+    },
+    {
+      "title": "I Let an AI Agent Hack All My Gadgets—and I’d Do It Again",
+      "summary": "After I removed the safety guardrails from a powerful open-source model, it found vulnerabilities in my household devices and hacked into a PC. But it also told me how to make everything a lot more secure.",
+      "source": "Wired",
+      "published": "2026-09-09T18:30:00+00:00",
+      "link": "https://www.wired.com/story/i-used-ai-to-hack-my-home-network/"
+    },
+    {
+      "title": "Apple has a new way prove your iPhone photos aren’t AI slop",
+      "summary": "Apple introduced Apple Reference Image to help users determine whether photos have been edited, including alterations made by AI.",
+      "source": "TechCrunch",
+      "published": "2026-09-09T18:08:35+00:00",
+      "link": "https://techcrunch.com/2026/09/09/apple-has-a-new-way-prove-your-iphone-photos-arent-ai-slop/"
+    },
+    {
+      "title": "Apple CEO John Ternus says the best AI device is still the iPhone",
+      "summary": "The company also argued that its on-device models offer consumers more privacy.",
+      "source": "TechCrunch",
+      "published": "2026-09-09T17:36:05+00:00",
+      "link": "https://techcrunch.com/2026/09/09/apple-ceo-john-ternus-says-the-best-ai-device-is-still-the-iphone/"
+    },
+    {
+      "title": "Qwen 3.8 follows GPT-5.5 Pro reasoning prefills",
+      "summary": "Article URL: https://gist.github.com/wsxiaoys/e0286dc6bb624ff5fdf49e7f4c528ba3 Comments URL: https://news.ycombinator.com/item?id=49630026 Points: 78 # Comments: 21",
+      "source": "Hacker News",
+      "published": "2026-09-09T17:24:28+00:00",
+      "link": "https://gist.github.com/wsxiaoys/e0286dc6bb624ff5fdf49e7f4c528ba3"
+    },
+    {
+      "title": "Microsoft has new AI privacy rules for schools",
+      "summary": "Microsoft agreed to a set of safety and privacy principles for AI in schools a week after two major school systems announced a ban on student-facing AI.",
+      "source": "The Verge",
+      "published": "2026-09-09T17:07:48+00:00",
+      "link": "https://www.theverge.com/policy/992359/microsoft-aft-schools-ai-privacy"
+    },
+    {
+      "title": "Defining AI Psychosis. Part 2: \"Prolific AI Psychosis\"",
+      "summary": "Article URL: https://jeffs.blog/p/defining-ai-psychosis-part-2-prolific Comments URL: https://news.ycombinator.com/item?id=49628880 Points: 58 # Comments: 36",
+      "source": "Hacker News",
+      "published": "2026-09-09T16:13:11+00:00",
+      "link": "https://jeffs.blog/p/defining-ai-psychosis-part-2-prolific"
+    },
     {
       "title": "Superintelligence is coming. Should we let it?",
       "summary": "AI companies have been talking about superintelligent AI like it’s inevitable, but recent safety incidents like OpenAI’s Hugging Face breach are demonstrating the potential dangers of deploying AI systems that are more capable than humans.",
@@ -37,15 +93,15 @@ const FEED_DATA = {
       "link": "https://techcrunch.com/2026/09/09/shipt-becomes-the-latest-delivery-app-with-an-ai-shopping-assistant/"
     },
     {
-      "title": "GPT-6 Astra, Looped Transformers, and Hidden Reasoning",
-      "summary": "Article URL: https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and Comments URL: https://news.ycombinator.com/item?id=49627370 Points: 96 # Comments: 17",
+      "title": "GPT-6 Astra, looped transformers, and hidden reasoning",
+      "summary": "Article URL: https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and Comments URL: https://news.ycombinator.com/item?id=49627370 Points: 230 # Comments: 86",
       "source": "Hacker News",
       "published": "2026-09-09T14:37:47+00:00",
       "link": "https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and"
     },
     {
       "title": "AI spend per employee slumped at top firms in August — summer doldrums or a warning sign?",
-      "summary": "Falling token costs, cheaper models, and less spend per employee—AI adoption isn't playing out the way hyperscalers hoped.",
+      "summary": "Falling token costs, cheaper models, and less spend per employee — AI adoption isn't playing out the way hyperscalers hoped.",
       "source": "TechCrunch",
       "published": "2026-09-09T14:18:34+00:00",
       "link": "https://techcrunch.com/2026/09/09/ai-spend-per-employee-slumped-at-top-firms-in-august-summer-doldrums-or-a-warning-sign/"
@@ -65,18 +121,18 @@ const FEED_DATA = {
       "link": "https://the-decoder.com/deepminds-alphagenome-atlas-maps-every-possible-dna-change-in-the-human-genome/"
     },
     {
-      "title": "Sequoia doubles down on Cymphony as AI agents create new enterprise security risks",
-      "summary": "Cymphony was valued at more than $100 million in a $25 million Series A co-led by Sequoia and SMBC Fin Atlas Beyond Fund.",
-      "source": "TechCrunch",
-      "published": "2026-09-09T13:00:00+00:00",
-      "link": "https://techcrunch.com/2026/09/09/sequoia-doubles-down-on-cymphony-as-ai-agents-create-new-enterprise-security-risks/"
-    },
-    {
       "title": "Instacart launches an AI grocery shopping assistant called Clementine",
       "summary": "Instacart is the latest app to bake a conversational AI assistant into its platform.",
       "source": "TechCrunch",
       "published": "2026-09-09T13:00:00+00:00",
       "link": "https://techcrunch.com/2026/09/09/instacart-launches-an-ai-grocery-shopping-assistant-called-clementine/"
+    },
+    {
+      "title": "Sequoia doubles down on Cymphony as AI agents create new enterprise security risks",
+      "summary": "Cymphony gives security teams a single view of employees, AI agents, and other nonhuman identities, including the systems and sensitive data they can access.",
+      "source": "TechCrunch",
+      "published": "2026-09-09T13:00:00+00:00",
+      "link": "https://techcrunch.com/2026/09/09/sequoia-doubles-down-on-cymphony-as-ai-agents-create-new-enterprise-security-risks/"
     },
     {
       "title": "Amazon Prime Video’s new AI tech matches lips to dubbed audio",
@@ -149,6 +205,13 @@ const FEED_DATA = {
       "link": "https://the-decoder.com/hugging-faces-new-ml-intern-lets-anyone-run-machine-learning-experiments-through-a-simple-chat/"
     },
     {
+      "title": "CloudNC aims to accelerate AI supply chain machining",
+      "summary": "CloudNC has secured $20 million in new capital to scale its AI precision machining technology across global supply chain networks.",
+      "source": "AI News",
+      "published": "2026-09-09T10:34:20+00:00",
+      "link": "https://www.artificialintelligence-news.com/news/cloudnc-aims-to-accelerate-ai-supply-chain-machining/"
+    },
+    {
       "title": "OpenAI's millennium proof dispute raises the question of whether researchers can trust AI labs",
       "summary": "The fight over an AI-generated proof of a millennium problem is heating up. Mathematician Tristan Buckmaster accuses OpenAI of academic fraud, CEO Sam Altman rejects the allegations.",
       "source": "The Decoder",
@@ -157,7 +220,7 @@ const FEED_DATA = {
     },
     {
       "title": "How An AI math breakthrough ignited a controversy",
-      "summary": "Article URL: https://www.science.org/content/article/how-ai-math-breakthrough-ignited-controversy Comments URL: https://news.ycombinator.com/item?id=49624163 Points: 200 # Comments: 211",
+      "summary": "Article URL: https://www.science.org/content/article/how-ai-math-breakthrough-ignited-controversy Comments URL: https://news.ycombinator.com/item?id=49624163 Points: 207 # Comments: 218",
       "source": "Hacker News",
       "published": "2026-09-09T10:25:41+00:00",
       "link": "https://www.science.org/content/article/how-ai-math-breakthrough-ignited-controversy"
@@ -178,21 +241,21 @@ const FEED_DATA = {
     },
     {
       "title": "Gambling with our lives: AI researcher quits Anthropic with warning about safety",
-      "summary": "Article URL: https://www.politico.eu/article/anthropic-openai-researcher-jacob-coxon-warns-ai-could-kill-humans/ Comments URL: https://news.ycombinator.com/item?id=49623306 Points: 73 # Comments: 97",
+      "summary": "Article URL: https://www.politico.eu/article/anthropic-openai-researcher-jacob-coxon-warns-ai-could-kill-humans/ Comments URL: https://news.ycombinator.com/item?id=49623306 Points: 78 # Comments: 100",
       "source": "Hacker News",
       "published": "2026-09-09T08:43:27+00:00",
       "link": "https://www.politico.eu/article/anthropic-openai-researcher-jacob-coxon-warns-ai-could-kill-humans/"
     },
     {
       "title": "How GPT‑5.6 Sol helps run quantum computing experiments",
-      "summary": "Article URL: https://openai.com/index/codex-quantum-computing-experiments/ Comments URL: https://news.ycombinator.com/item?id=49622561 Points: 131 # Comments: 100",
+      "summary": "Article URL: https://openai.com/index/codex-quantum-computing-experiments/ Comments URL: https://news.ycombinator.com/item?id=49622561 Points: 139 # Comments: 104",
       "source": "Hacker News",
       "published": "2026-09-09T07:22:46+00:00",
       "link": "https://openai.com/index/codex-quantum-computing-experiments/"
     },
     {
       "title": "AI Has a Discovery Problem",
-      "summary": "Article URL: https://mhacevedo.com/posts/the-discovery-problem Comments URL: https://news.ycombinator.com/item?id=49621223 Points: 65 # Comments: 34",
+      "summary": "Article URL: https://mhacevedo.com/posts/the-discovery-problem Comments URL: https://news.ycombinator.com/item?id=49621223 Points: 67 # Comments: 34",
       "source": "Hacker News",
       "published": "2026-09-09T04:59:26+00:00",
       "link": "https://mhacevedo.com/posts/the-discovery-problem"
@@ -206,7 +269,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI Responsibility – OpenAI and Anthropic",
-      "summary": "Article URL: https://twitter.com/hilbertspaess/status/2097476196791709843 Comments URL: https://news.ycombinator.com/item?id=49619639 Points: 86 # Comments: 24",
+      "summary": "Article URL: https://twitter.com/hilbertspaess/status/2097476196791709843 Comments URL: https://news.ycombinator.com/item?id=49619639 Points: 86 # Comments: 22",
       "source": "Hacker News",
       "published": "2026-09-09T01:32:49+00:00",
       "link": "https://twitter.com/hilbertspaess/status/2097476196791709843"
@@ -234,7 +297,7 @@ const FEED_DATA = {
     },
     {
       "title": "Tao: Open math problems being non-renewably mined by AI",
-      "summary": "Article URL: https://mathstodon.xyz/@tao/117237320796901560 Comments URL: https://news.ycombinator.com/item?id=49616968 Points: 450 # Comments: 383",
+      "summary": "Article URL: https://mathstodon.xyz/@tao/117237320796901560 Comments URL: https://news.ycombinator.com/item?id=49616968 Points: 459 # Comments: 386",
       "source": "Hacker News",
       "published": "2026-09-08T21:00:52+00:00",
       "link": "https://mathstodon.xyz/@tao/117237320796901560"
@@ -262,7 +325,7 @@ const FEED_DATA = {
     },
     {
       "title": "Muse – Meta’s personal AI agent",
-      "summary": "Article URL: https://ai.meta.com/muse/ Comments URL: https://news.ycombinator.com/item?id=49615537 Points: 601 # Comments: 654",
+      "summary": "Article URL: https://ai.meta.com/muse/ Comments URL: https://news.ycombinator.com/item?id=49615537 Points: 614 # Comments: 671",
       "source": "Hacker News",
       "published": "2026-09-08T19:25:00+00:00",
       "link": "https://ai.meta.com/muse/"
@@ -318,7 +381,7 @@ const FEED_DATA = {
     },
     {
       "title": "Show HN: LLM Attention Visualization",
-      "summary": "Article URL: https://ishamf.dev/p/llm-attention-visualizer/ Comments URL: https://news.ycombinator.com/item?id=49613068 Points: 160 # Comments: 25",
+      "summary": "Article URL: https://ishamf.dev/p/llm-attention-visualizer/ Comments URL: https://news.ycombinator.com/item?id=49613068 Points: 161 # Comments: 25",
       "source": "Hacker News",
       "published": "2026-09-08T16:59:41+00:00",
       "link": "https://ishamf.dev/p/llm-attention-visualizer/"
@@ -374,7 +437,7 @@ const FEED_DATA = {
     },
     {
       "title": "LibreOffice breaks download records after declaring it has no AI features",
-      "summary": "Article URL: https://manualdousuario.net/en/libreoffice-download-record-no-ai/ Comments URL: https://news.ycombinator.com/item?id=49610538 Points: 698 # Comments: 234",
+      "summary": "Article URL: https://manualdousuario.net/en/libreoffice-download-record-no-ai/ Comments URL: https://news.ycombinator.com/item?id=49610538 Points: 699 # Comments: 234",
       "source": "Hacker News",
       "published": "2026-09-08T14:05:57+00:00",
       "link": "https://manualdousuario.net/en/libreoffice-download-record-no-ai/"
@@ -388,7 +451,7 @@ const FEED_DATA = {
     },
     {
       "title": "We Must Return to the Office to Use AI in Person",
-      "summary": "Article URL: https://www.mcsweeneys.net/articles/why-we-must-return-to-the-office-to-use-ai-in-person Comments URL: https://news.ycombinator.com/item?id=49610229 Points: 387 # Comments: 67",
+      "summary": "Article URL: https://www.mcsweeneys.net/articles/why-we-must-return-to-the-office-to-use-ai-in-person Comments URL: https://news.ycombinator.com/item?id=49610229 Points: 388 # Comments: 67",
       "source": "Hacker News",
       "published": "2026-09-08T13:41:25+00:00",
       "link": "https://www.mcsweeneys.net/articles/why-we-must-return-to-the-office-to-use-ai-in-person"
@@ -465,7 +528,7 @@ const FEED_DATA = {
     },
     {
       "title": "Arm Mali G2-Ultra NX GPU: desktop-class mobile gameplay with AI-native graphics",
-      "summary": "Article URL: https://newsroom.arm.com/blog/arm-mali-g2-ultra-nx-ai-native-mobile-graphics Comments URL: https://news.ycombinator.com/item?id=49605511 Points: 83 # Comments: 64",
+      "summary": "Article URL: https://newsroom.arm.com/blog/arm-mali-g2-ultra-nx-ai-native-mobile-graphics Comments URL: https://news.ycombinator.com/item?id=49605511 Points: 84 # Comments: 64",
       "source": "Hacker News",
       "published": "2026-09-08T04:06:20+00:00",
       "link": "https://newsroom.arm.com/blog/arm-mali-g2-ultra-nx-ai-native-mobile-graphics"
@@ -584,7 +647,7 @@ const FEED_DATA = {
     },
     {
       "title": "Show HN: Engrim – A universal, local-first SQLite memory engine for AI CLIs",
-      "summary": "Article URL: https://github.com/timgordontg/engrim Comments URL: https://news.ycombinator.com/item?id=49594008 Points: 91 # Comments: 53",
+      "summary": "Article URL: https://github.com/timgordontg/engrim Comments URL: https://news.ycombinator.com/item?id=49594008 Points: 91 # Comments: 55",
       "source": "Hacker News",
       "published": "2026-09-07T04:49:36+00:00",
       "link": "https://github.com/timgordontg/engrim"
@@ -1337,69 +1400,6 @@ const FEED_DATA = {
       "source": "Hacker News",
       "published": "2026-09-03T01:11:22+00:00",
       "link": "https://www.kedglobal.com/artificial-intelligence/newsView/ked202607210007"
-    },
-    {
-      "title": "Palo Alto Networks paid $500M for Thrive-backed Console, sources say",
-      "summary": "The acquisition also leaves Sequoia-backed Serval as the de facto startup leader in AI IT service automation, industry watchers believe.",
-      "source": "TechCrunch",
-      "published": "2026-09-02T22:44:56+00:00",
-      "link": "https://techcrunch.com/2026/09/02/palo-alto-networks-paid-500m-for-thrive-backed-console-sources-say/"
-    },
-    {
-      "title": "TechCrunch Disrupt 2026’s new Real World AI Stage features Nvidia, robots, and extinct animals",
-      "summary": "On our new Real World AI stage, we’ll be focusing on the intersection between the digital and physical, and all the ways we’ll continue to see a blending of the two.",
-      "source": "TechCrunch",
-      "published": "2026-09-02T22:24:09+00:00",
-      "link": "https://techcrunch.com/2026/09/02/techcrunch-disrupt-2026s-new-real-world-ai-stage-features-nvidia-robots-and-extinct-animals/"
-    },
-    {
-      "title": "Mamdani bans AI in NYC schools",
-      "summary": "Article URL: https://www.nytimes.com/2026/09/01/nyregion/ai-ban-schools-nyc.html Comments URL: https://news.ycombinator.com/item?id=49542443 Points: 220 # Comments: 180",
-      "source": "Hacker News",
-      "published": "2026-09-02T20:57:04+00:00",
-      "link": "https://www.nytimes.com/2026/09/01/nyregion/ai-ban-schools-nyc.html"
-    },
-    {
-      "title": "OpenAI’s new reasoning technique alarms AI safety experts",
-      "summary": "OpenAI’s new Astra model will use “recurrent depth,” a technique that allows the model to operate outside of the sequential thinking that characterizes most reasoning models.",
-      "source": "TechCrunch",
-      "published": "2026-09-02T20:19:14+00:00",
-      "link": "https://techcrunch.com/2026/09/02/openais-new-reasoning-technique-alarms-ai-safety-experts/"
-    },
-    {
-      "title": "Google says its new Gemini 3.8 Flash model ‘works harder’ but might cost more",
-      "summary": "Google launched Gemini 3.8 Flash, arriving just a few weeks after its predecessor.",
-      "source": "The Verge",
-      "published": "2026-09-02T20:11:40+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/988742/google-gemini-3-8-flash"
-    },
-    {
-      "title": "AI Agents and the Refactoring That Never Happens",
-      "summary": "Article URL: https://www.rosenfeld.page/articles/programming/2026_09_02_ai_agents_and_the_refactoring_that_never_happens/ Comments URL: https://news.ycombinator.com/item?id=49541496 Points: 50 # Comments: 65",
-      "source": "Hacker News",
-      "published": "2026-09-02T19:51:39+00:00",
-      "link": "https://www.rosenfeld.page/articles/programming/2026_09_02_ai_agents_and_the_refactoring_that_never_happens/"
-    },
-    {
-      "title": "The Post-AI Internet Doesn't Look Great",
-      "summary": "Article URL: https://www.jordangoodman.xyz/the-post-ai-internet-doesnt-look-great/ Comments URL: https://news.ycombinator.com/item?id=49541331 Points: 74 # Comments: 85",
-      "source": "Hacker News",
-      "published": "2026-09-02T19:41:01+00:00",
-      "link": "https://www.jordangoodman.xyz/the-post-ai-internet-doesnt-look-great/"
-    },
-    {
-      "title": "Trump Administration Sides With OpenAI in New York Times Copyright Lawsuit",
-      "summary": "The US government wrote a letter in support of OpenAI’s argument that training AI on others' intellectual property is fair use.",
-      "source": "Wired",
-      "published": "2026-09-02T18:41:02+00:00",
-      "link": "https://www.wired.com/story/trump-administration-sides-with-ai-giants-new-york-times-lawsuit/"
-    },
-    {
-      "title": "US Department of Justice backs fair use for AI training in landmark copyright case",
-      "summary": "In the class-action lawsuit involving The New York Times, the US Department of Justice argues that training AI models on copyrighted text qualifies as fair use. The filing directly contradicts a report from the US Copyright Office.",
-      "source": "The Decoder",
-      "published": "2026-09-02T18:24:42+00:00",
-      "link": "https://the-decoder.com/us-department-of-justice-backs-fair-use-for-ai-training-in-landmark-copyright-case/"
     }
   ]
 };
