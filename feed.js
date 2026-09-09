@@ -1,6 +1,97 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-09-09T09:26:45.924415+00:00",
+  "lastUpdated": "2026-09-09T13:11:44.021307+00:00",
   "items": [
+    {
+      "title": "Instacart launches an AI grocery shopping assistant called Clementine",
+      "summary": "Instacart is the latest app to bake a conversational AI assistant into its platform.",
+      "source": "TechCrunch",
+      "published": "2026-09-09T13:00:00+00:00",
+      "link": "https://techcrunch.com/2026/09/09/instacart-launches-an-ai-grocery-shopping-assistant-called-clementine/"
+    },
+    {
+      "title": "Amazon Prime Video’s new AI tech matches lips to dubbed audio",
+      "summary": "Amazon's Prime Video is launching a new AI-powered feature that lines up an actor's mouth with \"human-dubbed\" audio.",
+      "source": "The Verge",
+      "published": "2026-09-09T13:00:00+00:00",
+      "link": "https://www.theverge.com/tech/991809/amazon-prime-video-ai-lip-sync-dubbing"
+    },
+    {
+      "title": "A Stealth Startup Thinks It Just Hacked the Memory Shortage",
+      "summary": "Kepler Computing claims a new approach to chip design—and a proprietary material—can help end the supply bottlenecks that have sent memory prices surging.",
+      "source": "Wired",
+      "published": "2026-09-09T13:00:00+00:00",
+      "link": "https://www.wired.com/story/a-new-dollar400-million-startup-wants-to-fix-the-ai-memory-bottleneck/"
+    },
+    {
+      "title": "Anthropic scientist puts the odds of AI destroying humanity above ten percent this decade",
+      "summary": "Jacob Coxon, a former pretraining researcher at OpenAI and Anthropic, has quit and accuses both companies of knowingly risking human extinction.",
+      "source": "The Decoder",
+      "published": "2026-09-09T12:48:41+00:00",
+      "link": "https://the-decoder.com/anthropic-scientist-puts-the-odds-of-ai-destroying-humanity-above-ten-percent-this-decade/"
+    },
+    {
+      "title": "Besxar is building an orbital semiconductor factory, one SpaceX rocket at a time",
+      "summary": "If you want to manufacture in space—and bring the products back again—there’s a limited set of options: Wait to go to the International Space Station, or partner with a handful of start-ups launching spacecraft that spend time in orbit before they return to Earth.",
+      "source": "TechCrunch",
+      "published": "2026-09-09T12:30:00+00:00",
+      "link": "https://techcrunch.com/2026/09/09/besxar-is-strapping-advanced-chip-fabs-onto-spacexs-falcon-9-rockets/"
+    },
+    {
+      "title": "AWS is using Qualcomm for AI inference while Qualcomm uses AWS Bedrock to design the chips",
+      "summary": "Qualcomm is designing custom chips for AWS across multiple product generations, with a focus on AI inference. The article AWS is using Qualcomm for AI inference while Qualcomm uses AWS Bedrock to design the chips appeared first on The Decoder.",
+      "source": "The Decoder",
+      "published": "2026-09-09T12:27:42+00:00",
+      "link": "https://the-decoder.com/aws-is-using-qualcomm-for-ai-inference-while-qualcomm-uses-aws-bedrock-to-design-the-chips/"
+    },
+    {
+      "title": "ChatGPT Images 2.5: Faster, more precise, but not the same for everyone",
+      "summary": "OpenAI is releasing two new image models with ChatGPT Images 2.5. Flare handles faster generation, Sunburst delivers more precise edits.",
+      "source": "The Decoder",
+      "published": "2026-09-09T12:17:58+00:00",
+      "link": "https://the-decoder.com/chatgpt-images-2-5-faster-more-precise-but-not-the-same-for-everyone/"
+    },
+    {
+      "title": "The Download: OpenAI’s turning point for math and a battery record",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.",
+      "source": "MIT Tech Review",
+      "published": "2026-09-09T12:10:00+00:00",
+      "link": "https://www.technologyreview.com/2026/09/09/1143767/the-download-openai-math-future-battery-record/"
+    },
+    {
+      "title": "Suno replaces its AI models with a new one trained on licensed music as copyright suits pile up",
+      "summary": "As it grapples with a bevy of lawsuits, Suno said its new model, Suno v6, is not trained using music it used to train previous versions of the AI model.",
+      "source": "TechCrunch",
+      "published": "2026-09-09T12:05:34+00:00",
+      "link": "https://techcrunch.com/2026/09/09/suno-replaces-its-ai-models-with-a-new-one-trained-on-licensed-music-as-copyright-suits-pile-up/"
+    },
+    {
+      "title": "Students who use AI generally score worse at school",
+      "summary": "Students who use AI to help them study tend to perform worse at school than those who don't, according to data from a global OECD educational report.",
+      "source": "The Verge",
+      "published": "2026-09-09T12:05:01+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/991956/student-ai-use-scores-oecd-pisa"
+    },
+    {
+      "title": "Hugging Face's new ML Intern lets anyone run machine learning experiments through a simple chat",
+      "summary": "Hugging Face launched \"ML Intern,\" an AI assistant built into its chatbot that lets users run machine learning experiments without any ML expertise.",
+      "source": "The Decoder",
+      "published": "2026-09-09T10:38:41+00:00",
+      "link": "https://the-decoder.com/hugging-faces-new-ml-intern-lets-anyone-run-machine-learning-experiments-through-a-simple-chat/"
+    },
+    {
+      "title": "OpenAI's millennium proof dispute raises the question of whether researchers can trust AI labs",
+      "summary": "The fight over an AI-generated proof of a millennium problem is heating up. Mathematician Tristan Buckmaster accuses OpenAI of academic fraud, CEO Sam Altman rejects the allegations.",
+      "source": "The Decoder",
+      "published": "2026-09-09T10:27:37+00:00",
+      "link": "https://the-decoder.com/openais-millennium-proof-dispute-raises-the-question-of-whether-researchers-can-trust-ai-labs/"
+    },
+    {
+      "title": "Worried Anthropic researchers warn that AI ‘could kill all humans’",
+      "summary": "A senior Anthropic safety researcher has said there is more than a 10 percent chance artificial intelligence \"could kill all humans\" by the end of the decade, just hours after a colleague resigned over fears the AI lab and its rivals are carelessly racing to build \"superhuman...",
+      "source": "The Verge",
+      "published": "2026-09-09T09:56:28+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/991927/anthropic-ai-kill-all-humans"
+    },
     {
       "title": "Samsung taps Mistral AI models for semiconductor manufacturing",
       "summary": "Samsung has partnered with Mistral AI to deploy on-premises models across its semiconductor manufacturing and engineering operations. The agreement was announced during the bilateral state summit held in Paris between South Korea and France.",
@@ -1309,97 +1400,6 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-09-02T14:56:34+00:00",
       "link": "https://techcrunch.com/2026/09/02/psa-amazons-shopping-ai-can-now-tell-you-if-that-message-is-a-scam/"
-    },
-    {
-      "title": "US military adds ChatGPT and Grok to AI platform GenAI.mil",
-      "summary": "The Pentagon is expanding its AI platform with two new models, OpenAI's ChatGPT Mil and xAI's Grok for Government. The article US military adds ChatGPT and Grok to AI platform GenAI.mil appeared first on The Decoder.",
-      "source": "The Decoder",
-      "published": "2026-09-02T14:40:51+00:00",
-      "link": "https://the-decoder.com/us-military-adds-chatgpt-and-grok-to-ai-platform-genai-mil/"
-    },
-    {
-      "title": "OpenAI accused of ‘aiding and abetting’ Tumbler Ridge mass shooting in dozens of new lawsuits",
-      "summary": "OpenAI and its CEO Sam Altman are facing 30 new lawsuits that accuse them of providing \"substantial assistance and encouragement\" to the suspect in Canada's Tumbler Ridge school shooting, as reported earlier by TechCrunch.",
-      "source": "The Verge",
-      "published": "2026-09-02T14:35:03+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/988261/openai-tumbler-ridge-shooting-lawsuit-aiding-abetting"
-    },
-    {
-      "title": "NYC bans AI use for students until they reach high school",
-      "summary": "New York City Mayor Zohran Mamdani has announced a new policy today that will ban younger schoolchildren from using AI in classrooms.",
-      "source": "The Verge",
-      "published": "2026-09-02T14:30:00+00:00",
-      "link": "https://www.theverge.com/policy/988228/nyc-ai-restrictions-in-schools-chatbot-ban"
-    },
-    {
-      "title": "Protests against AI data centers play into China's hands, Trump says",
-      "summary": "President Trump has pushed back hard against growing opposition to AI data centers across the US. The article Protests against AI data centers play into China's hands, Trump says appeared first on The Decoder.",
-      "source": "The Decoder",
-      "published": "2026-09-02T14:23:51+00:00",
-      "link": "https://the-decoder.com/protests-against-ai-data-centers-play-into-chinas-hands-trump-says/"
-    },
-    {
-      "title": "OpenAI calls Astra its most dangerous model yet - watching what it does is only getting harder",
-      "summary": "OpenAI is officially rating its upcoming Astra model as the first system with \"critical\" cyber capabilities. The company plans to keep it in check by monitoring the chain of thought.",
-      "source": "The Decoder",
-      "published": "2026-09-02T14:20:28+00:00",
-      "link": "https://the-decoder.com/openai-calls-astra-its-most-dangerous-model-yet-watching-what-it-does-is-only-getting-harder/"
-    },
-    {
-      "title": "Adobe acquires Indian market intelligence startup Rilo",
-      "summary": "This is Adobe's second acquisition out of India after Rephrase.ai in 2023",
-      "source": "TechCrunch",
-      "published": "2026-09-02T14:03:57+00:00",
-      "link": "https://techcrunch.com/2026/09/02/adobe-acquires-indian-market-intelligence-startup-rilo/"
-    },
-    {
-      "title": "WebLLM: high-performance in-browser LLM inference engine",
-      "summary": "Article URL: https://github.com/mlc-ai/web-llm Comments URL: https://news.ycombinator.com/item?id=49536411 Points: 145 # Comments: 25",
-      "source": "Hacker News",
-      "published": "2026-09-02T14:02:35+00:00",
-      "link": "https://github.com/mlc-ai/web-llm"
-    },
-    {
-      "title": "Facilitating AI integration with simplicity at scale",
-      "summary": "As companies scale, the technology supporting operations can become a liability just as quickly as it becomes an asset.",
-      "source": "MIT Tech Review",
-      "published": "2026-09-02T14:00:00+00:00",
-      "link": "https://www.technologyreview.com/2026/09/02/1142879/facilitating-ai-integration-with-simplicity-at-scale/"
-    },
-    {
-      "title": "Three sites made 215,128 “best software” pages for AI. Perplexity cites them",
-      "summary": "Article URL: https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/ Comments URL: https://news.ycombinator.com/item?id=49536375 Points: 513 # Comments: 249",
-      "source": "Hacker News",
-      "published": "2026-09-02T13:59:59+00:00",
-      "link": "https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/"
-    },
-    {
-      "title": "LLMs: Intelligence vs. Cost",
-      "summary": "Article URL: https://openteams.com/intelligence-vs-cost/ Comments URL: https://news.ycombinator.com/item?id=49535586 Points: 94 # Comments: 42",
-      "source": "Hacker News",
-      "published": "2026-09-02T13:03:50+00:00",
-      "link": "https://openteams.com/intelligence-vs-cost/"
-    },
-    {
-      "title": "World Labs unveils Atlas, a single AI model that generates, reconstructs, and simulates 3D worlds from just a few photos",
-      "summary": "World Labs, co-founded by AI researcher Fei-Fei Li, has announced Atlas, a world model that generates, reconstructs, and simulates 3D scenes from just a few images.",
-      "source": "The Decoder",
-      "published": "2026-09-02T12:28:36+00:00",
-      "link": "https://the-decoder.com/world-labs-unveils-atlas-a-single-ai-model-that-generates-reconstructs-and-simulates-3d-worlds-from-just-a-few-photos/"
-    },
-    {
-      "title": "The Download: AI puzzles and a path to our nearest star system",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. AI models flub these intelligence tests.",
-      "source": "MIT Tech Review",
-      "published": "2026-09-02T12:10:00+00:00",
-      "link": "https://www.technologyreview.com/2026/09/02/1143283/the-download-ai-puzzles-alpha-centauri-mission/"
-    },
-    {
-      "title": "OpenAI faces 30 more lawsuits tied to Tumbler Ridge shooting",
-      "summary": "Edelson PC is filing 30 new lawsuits against OpenAI over the Tumbler Ridge shooting, escalating claims to aiding and abetting and naming Chris Lehane, though evidence remains unconfirmed.",
-      "source": "TechCrunch",
-      "published": "2026-09-02T12:09:42+00:00",
-      "link": "https://techcrunch.com/2026/09/02/openai-faces-30-more-lawsuits-tied-to-tumbler-ridge-shooting/"
     }
   ]
 };
