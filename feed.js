@@ -1,6 +1,27 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-09-08T23:05:07.743635+00:00",
+  "lastUpdated": "2026-09-09T05:42:50.856040+00:00",
   "items": [
+    {
+      "title": "What OpenAI’s latest controversy tells us about the future of math",
+      "summary": "OpenAI’s latest mathematical milestone has quickly become mired in controversy. Today, the company announced that its agents have solved one of the Millennium Prize Problems, some of the most important open problems in mathematics.",
+      "source": "MIT Tech Review",
+      "published": "2026-09-09T03:10:08+00:00",
+      "link": "https://www.technologyreview.com/2026/09/08/1143747/what-openais-latest-controversy-tells-us-about-the-future-of-math/"
+    },
+    {
+      "title": "AI Responsibility – OpenAI and Anthropic",
+      "summary": "Article URL: https://twitter.com/hilbertspaess/status/2097476196791709843 Comments URL: https://news.ycombinator.com/item?id=49619639 Points: 73 # Comments: 22",
+      "source": "Hacker News",
+      "published": "2026-09-09T01:32:49+00:00",
+      "link": "https://twitter.com/hilbertspaess/status/2097476196791709843"
+    },
+    {
+      "title": "Why this month's Microsoft patch release is a doozy",
+      "summary": "Security gnomes are pumping out patches ahead of an expected onslaught of AI-assisted attacks.",
+      "source": "Ars Technica",
+      "published": "2026-09-08T21:11:46+00:00",
+      "link": "https://arstechnica.com/security/2026/09/microsoft-patches-a-record-972-vulnerabilities-112-of-them-critical/"
+    },
     {
       "title": "Hackers are stealing Claude tokens from subscribers",
       "summary": "Last month, a Claude user noticed his account was consuming tokens even though he wasn't working. Anthropic has since warned users about hackers.",
@@ -14,6 +35,13 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-09-08T21:04:06+00:00",
       "link": "https://techcrunch.com/2026/09/08/cognition-hits-48b-valuation-signaling-investors-believe-ai-coding-is-far-from-a-winner-take-all-market/"
+    },
+    {
+      "title": "Tao: Open math problems being non-renewably mined by AI",
+      "summary": "Article URL: https://mathstodon.xyz/@tao/117237320796901560 Comments URL: https://news.ycombinator.com/item?id=49616968 Points: 281 # Comments: 296",
+      "source": "Hacker News",
+      "published": "2026-09-08T21:00:52+00:00",
+      "link": "https://mathstodon.xyz/@tao/117237320796901560"
     },
     {
       "title": "Drama swirls around OpenAI’s legendary mathematical milestone",
@@ -35,6 +63,13 @@ const FEED_DATA = {
       "source": "Wired",
       "published": "2026-09-08T20:12:51+00:00",
       "link": "https://www.wired.com/story/meta-releases-muse-a-personal-ai-agent-with-privacy-built-into-it/"
+    },
+    {
+      "title": "Muse – Meta’s personal AI agent",
+      "summary": "Article URL: https://ai.meta.com/muse/ Comments URL: https://news.ycombinator.com/item?id=49615537 Points: 422 # Comments: 446",
+      "source": "Hacker News",
+      "published": "2026-09-08T19:25:00+00:00",
+      "link": "https://ai.meta.com/muse/"
     },
     {
       "title": "Muse: Meta's personal AI agent, features and capabilities",
@@ -80,7 +115,7 @@ const FEED_DATA = {
     },
     {
       "title": "Show HN: LLM Attention Visualization",
-      "summary": "Article URL: https://ishamf.dev/p/llm-attention-visualizer/ Comments URL: https://news.ycombinator.com/item?id=49613068 Points: 102 # Comments: 19",
+      "summary": "Article URL: https://ishamf.dev/p/llm-attention-visualizer/ Comments URL: https://news.ycombinator.com/item?id=49613068 Points: 149 # Comments: 23",
       "source": "Hacker News",
       "published": "2026-09-08T16:59:41+00:00",
       "link": "https://ishamf.dev/p/llm-attention-visualizer/"
@@ -136,7 +171,7 @@ const FEED_DATA = {
     },
     {
       "title": "LibreOffice breaks download records after declaring it has no AI features",
-      "summary": "Article URL: https://manualdousuario.net/en/libreoffice-download-record-no-ai/ Comments URL: https://news.ycombinator.com/item?id=49610538 Points: 641 # Comments: 216",
+      "summary": "Article URL: https://manualdousuario.net/en/libreoffice-download-record-no-ai/ Comments URL: https://news.ycombinator.com/item?id=49610538 Points: 664 # Comments: 219",
       "source": "Hacker News",
       "published": "2026-09-08T14:05:57+00:00",
       "link": "https://manualdousuario.net/en/libreoffice-download-record-no-ai/"
@@ -150,7 +185,7 @@ const FEED_DATA = {
     },
     {
       "title": "We Must Return to the Office to Use AI in Person",
-      "summary": "Article URL: https://www.mcsweeneys.net/articles/why-we-must-return-to-the-office-to-use-ai-in-person Comments URL: https://news.ycombinator.com/item?id=49610229 Points: 358 # Comments: 60",
+      "summary": "Article URL: https://www.mcsweeneys.net/articles/why-we-must-return-to-the-office-to-use-ai-in-person Comments URL: https://news.ycombinator.com/item?id=49610229 Points: 374 # Comments: 62",
       "source": "Hacker News",
       "published": "2026-09-08T13:41:25+00:00",
       "link": "https://www.mcsweeneys.net/articles/why-we-must-return-to-the-office-to-use-ai-in-person"
@@ -220,14 +255,14 @@ const FEED_DATA = {
     },
     {
       "title": "Multi-Agents LLM Financial Trading Framework",
-      "summary": "Article URL: https://github.com/TauricResearch/TradingAgents Comments URL: https://news.ycombinator.com/item?id=49605822 Points: 113 # Comments: 75",
+      "summary": "Article URL: https://github.com/TauricResearch/TradingAgents Comments URL: https://news.ycombinator.com/item?id=49605822 Points: 115 # Comments: 76",
       "source": "Hacker News",
       "published": "2026-09-08T05:20:23+00:00",
       "link": "https://github.com/TauricResearch/TradingAgents"
     },
     {
       "title": "Arm Mali G2-Ultra NX GPU: desktop-class mobile gameplay with AI-native graphics",
-      "summary": "Article URL: https://newsroom.arm.com/blog/arm-mali-g2-ultra-nx-ai-native-mobile-graphics Comments URL: https://news.ycombinator.com/item?id=49605511 Points: 80 # Comments: 62",
+      "summary": "Article URL: https://newsroom.arm.com/blog/arm-mali-g2-ultra-nx-ai-native-mobile-graphics Comments URL: https://news.ycombinator.com/item?id=49605511 Points: 81 # Comments: 62",
       "source": "Hacker News",
       "published": "2026-09-08T04:06:20+00:00",
       "link": "https://newsroom.arm.com/blog/arm-mali-g2-ultra-nx-ai-native-mobile-graphics"
@@ -332,7 +367,7 @@ const FEED_DATA = {
     },
     {
       "title": "Initial effects of AI technology on employment look positive",
-      "summary": "https://archive.md/5hi5i Comments URL: https://news.ycombinator.com/item?id=49596610 Points: 93 # Comments: 151",
+      "summary": "https://archive.md/5hi5i Comments URL: https://news.ycombinator.com/item?id=49596610 Points: 93 # Comments: 152",
       "source": "Hacker News",
       "published": "2026-09-07T10:38:32+00:00",
       "link": "https://www.economist.com/finance-and-economics/2026/09/04/the-jobs-apocalypse-is-postponed-an-ai-jobs-boom-is-here"
@@ -353,7 +388,7 @@ const FEED_DATA = {
     },
     {
       "title": "I refused to train the AI that could replace me",
-      "summary": "Article URL: https://restofworld.org/2026/ai-training-jobs-expert-replacement/ Comments URL: https://news.ycombinator.com/item?id=49593959 Points: 96 # Comments: 114",
+      "summary": "Article URL: https://restofworld.org/2026/ai-training-jobs-expert-replacement/ Comments URL: https://news.ycombinator.com/item?id=49593959 Points: 97 # Comments: 113",
       "source": "Hacker News",
       "published": "2026-09-07T04:38:22+00:00",
       "link": "https://restofworld.org/2026/ai-training-jobs-expert-replacement/"
@@ -402,7 +437,7 @@ const FEED_DATA = {
     },
     {
       "title": "Your intellectual fly is open when you use an LLM to author a post (2025)",
-      "summary": "Article URL: https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/ Comments URL: https://news.ycombinator.com/item?id=49585644 Points: 725 # Comments: 433",
+      "summary": "Article URL: https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/ Comments URL: https://news.ycombinator.com/item?id=49585644 Points: 727 # Comments: 433",
       "source": "Hacker News",
       "published": "2026-09-06T11:56:43+00:00",
       "link": "https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/"
@@ -451,7 +486,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI, Tools and Transformation",
-      "summary": "Article URL: https://www.ben-evans.com/benedictevans/2026/9/3/ai-tools-and-transformation Comments URL: https://news.ycombinator.com/item?id=49582656 Points: 157 # Comments: 76",
+      "summary": "Article URL: https://www.ben-evans.com/benedictevans/2026/9/3/ai-tools-and-transformation Comments URL: https://news.ycombinator.com/item?id=49582656 Points: 158 # Comments: 76",
       "source": "Hacker News",
       "published": "2026-09-06T02:12:46+00:00",
       "link": "https://www.ben-evans.com/benedictevans/2026/9/3/ai-tools-and-transformation"
@@ -1365,41 +1400,6 @@ const FEED_DATA = {
       "source": "Hacker News",
       "published": "2026-09-02T10:02:41+00:00",
       "link": "https://multiversecomputing.com/resources/introducing-quasar-438b-europe-s-leading-ai-model"
-    },
-    {
-      "title": "Pangram Has Emerged as the Gold Standard of AI Detection. Should You Trust It?",
-      "summary": "Meet the AI police who can make or break careers—in publishing and beyond.",
-      "source": "Wired",
-      "published": "2026-09-02T10:00:00+00:00",
-      "link": "https://www.wired.com/story/pangram-has-emerged-as-the-gold-standard-of-ai-detection/"
-    },
-    {
-      "title": "Google Gemini's new agent-based video analysis cuts token usage by up to 88 percent",
-      "summary": "Google is adding agent-based video analysis to Gemini 3.7 Flash, 3.6 Flash, and 3.5 Flash-Lite. Instead of scanning videos frame by frame at a fixed rate, the model decides on its own which segments to examine and at what resolution.",
-      "source": "The Decoder",
-      "published": "2026-09-02T08:21:38+00:00",
-      "link": "https://the-decoder.com/google-geminis-new-agent-based-video-analysis-cuts-token-usage-by-up-to-88-percent/"
-    },
-    {
-      "title": "Mayor says 'large chunks' of Wellington council Deloitte report written by AI",
-      "summary": "Article URL: https://www.rnz.co.nz/news/regions/1229348/mayor-says-large-chunks-of-wellington-council-deloitte-report-written-by-ai Comments URL: https://news.ycombinator.com/item?id=49533132 Points: 50 # Comments: 21",
-      "source": "Hacker News",
-      "published": "2026-09-02T07:50:46+00:00",
-      "link": "https://www.rnz.co.nz/news/regions/1229348/mayor-says-large-chunks-of-wellington-council-deloitte-report-written-by-ai"
-    },
-    {
-      "title": "The Emergent Symbolic Structure of Artificial Neural Networks",
-      "summary": "Article URL: https://arxiv.org/abs/2608.29530 Comments URL: https://news.ycombinator.com/item?id=49531651 Points: 294 # Comments: 109",
-      "source": "Hacker News",
-      "published": "2026-09-02T04:15:56+00:00",
-      "link": "https://arxiv.org/abs/2608.29530"
-    },
-    {
-      "title": "The efficient frontier of LLM inference",
-      "summary": "Article URL: https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference/ Comments URL: https://news.ycombinator.com/item?id=49529898 Points: 154 # Comments: 45",
-      "source": "Hacker News",
-      "published": "2026-09-01T23:48:05+00:00",
-      "link": "https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference/"
     }
   ]
 };
