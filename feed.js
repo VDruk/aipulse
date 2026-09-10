@@ -1,8 +1,29 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-09-10T16:55:29.922106+00:00",
+  "lastUpdated": "2026-09-10T19:25:25.542869+00:00",
   "items": [
     {
-      "title": "Swarmchasers\" hunt rogue agents, Anthropic investigates itself, and the trail they both follow is going dark",
+      "title": "Anthropic reveals rogue AI agents hate CAPTCHAs, just like you",
+      "summary": "Come inside the mind of a bot trying to convince the internet it's human.",
+      "source": "TechCrunch",
+      "published": "2026-09-10T17:54:44+00:00",
+      "link": "https://techcrunch.com/2026/09/10/anthropic-reveals-rogue-ai-agents-hate-captchas-just-like-you/"
+    },
+    {
+      "title": "OpenAI's GPT-Live-1 API lets developers build apps that talk and listen at the same time",
+      "summary": "OpenAI releases GPT-Live-1 as a developer API. The full-duplex speech model scores 80.1 percent in interactivity tests, up from 45.4 percent for its predecessor.",
+      "source": "The Decoder",
+      "published": "2026-09-10T17:47:35+00:00",
+      "link": "https://the-decoder.com/openais-gpt-live-1-api-lets-developers-build-apps-that-talk-and-listen-at-the-same-time/"
+    },
+    {
+      "title": "India’s Pocket FM doubles revenue run rate to $500M as AI powers 93% of audio content",
+      "summary": "Pocket FM uses AI to produce 99% of its new content, helping make content production about 80 times cheaper.",
+      "source": "TechCrunch",
+      "published": "2026-09-10T17:45:00+00:00",
+      "link": "https://techcrunch.com/2026/09/10/indias-pocket-fm-doubles-revenue-run-rate-to-500m-as-ai-powers-93-of-audio-content/"
+    },
+    {
+      "title": "Swarmchasers hunt rogue agents, Anthropic investigates itself, and the trail they both follow is going dark",
       "summary": "Independent investigators have now found traces of suspected OpenAI agents on more than 30 public services, from wikis to RubyGems.",
       "source": "The Decoder",
       "published": "2026-09-10T16:33:44+00:00",
@@ -16,8 +37,15 @@ const FEED_DATA = {
       "link": "https://the-decoder.com/former-deepmind-pr-staffer-says-the-lab-once-banned-public-discussion-of-ai-extinction-risk/"
     },
     {
+      "title": "Universal Music is launching an AI music platform with ElevenLabs",
+      "summary": "Universal Music Group is launching a new AI-powered platform that will allow users to draw from its catalog of licensed music to create song remixes, mashups, and new takes on tracks, according to an announcement on Thursday.",
+      "source": "The Verge",
+      "published": "2026-09-10T15:38:19+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/993465/universal-music-elevenlabs-ai"
+    },
+    {
       "title": "Cognition launches new SWE-2 model, Rivaling Fable 5.1 and GPT-Astra",
-      "summary": "Article URL: https://cognition.com/blog/swe-2 Comments URL: https://news.ycombinator.com/item?id=49645443 Points: 69 # Comments: 29",
+      "summary": "Article URL: https://cognition.com/blog/swe-2 Comments URL: https://news.ycombinator.com/item?id=49645443 Points: 193 # Comments: 97",
       "source": "Hacker News",
       "published": "2026-09-10T15:29:47+00:00",
       "link": "https://cognition.com/blog/swe-2"
@@ -28,6 +56,13 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-09-10T15:26:58+00:00",
       "link": "https://the-decoder.com/claude-fable-5-1s-language-is-less-load-bearing-than-its-predecessors/"
+    },
+    {
+      "title": "Meta’s Muse AI works and creeps me out",
+      "summary": "Meta has launched its new Muse assistant, marking the company's first real foray into AI-powered productivity tools. The company says its AI agent can \"take the busywork off your plate\" by helping you with online shopping, emails, trip-planning, and more.",
+      "source": "The Verge",
+      "published": "2026-09-10T15:00:00+00:00",
+      "link": "https://www.theverge.com/tech/993391/meta-muse-ai-hands-on"
     },
     {
       "title": "AI agents are flooding public services with new requests",
@@ -143,7 +178,7 @@ const FEED_DATA = {
     },
     {
       "title": "Training a 3.8B LLM to 0.384 CORE for $998",
-      "summary": "Article URL: https://hugovergnes.github.io/little-lm-3-8b/ Comments URL: https://news.ycombinator.com/item?id=49637435 Points: 106 # Comments: 17",
+      "summary": "Article URL: https://hugovergnes.github.io/little-lm-3-8b/ Comments URL: https://news.ycombinator.com/item?id=49637435 Points: 110 # Comments: 18",
       "source": "Hacker News",
       "published": "2026-09-10T02:04:11+00:00",
       "link": "https://hugovergnes.github.io/little-lm-3-8b/"
@@ -157,7 +192,7 @@ const FEED_DATA = {
     },
     {
       "title": "I'm sorry, you're not going to die from an AI-engineered supervirus",
-      "summary": "Article URL: https://blog.genesmindsmachines.com/p/im-sorry-youre-not-going-to-die-from Comments URL: https://news.ycombinator.com/item?id=49636906 Points: 78 # Comments: 115",
+      "summary": "Article URL: https://blog.genesmindsmachines.com/p/im-sorry-youre-not-going-to-die-from Comments URL: https://news.ycombinator.com/item?id=49636906 Points: 81 # Comments: 117",
       "source": "Hacker News",
       "published": "2026-09-10T01:02:44+00:00",
       "link": "https://blog.genesmindsmachines.com/p/im-sorry-youre-not-going-to-die-from"
@@ -297,7 +332,7 @@ const FEED_DATA = {
     },
     {
       "title": "Qwen 3.8 follows GPT-5.5 Pro reasoning prefills",
-      "summary": "Article URL: https://gist.github.com/wsxiaoys/e0286dc6bb624ff5fdf49e7f4c528ba3 Comments URL: https://news.ycombinator.com/item?id=49630026 Points: 232 # Comments: 91",
+      "summary": "Article URL: https://gist.github.com/wsxiaoys/e0286dc6bb624ff5fdf49e7f4c528ba3 Comments URL: https://news.ycombinator.com/item?id=49630026 Points: 232 # Comments: 93",
       "source": "Hacker News",
       "published": "2026-09-09T17:24:28+00:00",
       "link": "https://gist.github.com/wsxiaoys/e0286dc6bb624ff5fdf49e7f4c528ba3"
@@ -318,14 +353,14 @@ const FEED_DATA = {
     },
     {
       "title": "Rock band Muse lose social media handles to Meta’s new AI tool",
-      "summary": "Article URL: https://www.the-independent.com/arts-entertainment/music/news/muse-band-meta-ai-tool-handle-b3047291.html Comments URL: https://news.ycombinator.com/item?id=49629382 Points: 58 # Comments: 101",
+      "summary": "Article URL: https://www.the-independent.com/arts-entertainment/music/news/muse-band-meta-ai-tool-handle-b3047291.html Comments URL: https://news.ycombinator.com/item?id=49629382 Points: 59 # Comments: 104",
       "source": "Hacker News",
       "published": "2026-09-09T16:43:35+00:00",
       "link": "https://www.the-independent.com/arts-entertainment/music/news/muse-band-meta-ai-tool-handle-b3047291.html"
     },
     {
       "title": "Defining AI Psychosis. Part 2: \"Prolific AI Psychosis\"",
-      "summary": "Article URL: https://jeffs.blog/p/defining-ai-psychosis-part-2-prolific Comments URL: https://news.ycombinator.com/item?id=49628880 Points: 60 # Comments: 51",
+      "summary": "Article URL: https://jeffs.blog/p/defining-ai-psychosis-part-2-prolific Comments URL: https://news.ycombinator.com/item?id=49628880 Points: 60 # Comments: 52",
       "source": "Hacker News",
       "published": "2026-09-09T16:13:11+00:00",
       "link": "https://jeffs.blog/p/defining-ai-psychosis-part-2-prolific"
@@ -367,7 +402,7 @@ const FEED_DATA = {
     },
     {
       "title": "GPT-6 Astra, looped transformers, and hidden reasoning",
-      "summary": "Article URL: https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and Comments URL: https://news.ycombinator.com/item?id=49627370 Points: 493 # Comments: 158",
+      "summary": "Article URL: https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and Comments URL: https://news.ycombinator.com/item?id=49627370 Points: 496 # Comments: 160",
       "source": "Hacker News",
       "published": "2026-09-09T14:37:47+00:00",
       "link": "https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and"
@@ -394,20 +429,6 @@ const FEED_DATA = {
       "link": "https://the-decoder.com/deepminds-alphagenome-atlas-maps-every-possible-dna-change-in-the-human-genome/"
     },
     {
-      "title": "Sequoia doubles down on Cymphony as AI agents create new enterprise security risks",
-      "summary": "Cymphony gives security teams a single view of employees, AI agents, and other nonhuman identities, including the systems and sensitive data they can access.",
-      "source": "TechCrunch",
-      "published": "2026-09-09T13:00:00+00:00",
-      "link": "https://techcrunch.com/2026/09/09/sequoia-doubles-down-on-cymphony-as-ai-agents-create-new-enterprise-security-risks/"
-    },
-    {
-      "title": "Instacart launches an AI grocery shopping assistant called Clementine",
-      "summary": "Instacart is the latest app to bake a conversational AI assistant into its platform.",
-      "source": "TechCrunch",
-      "published": "2026-09-09T13:00:00+00:00",
-      "link": "https://techcrunch.com/2026/09/09/instacart-launches-an-ai-grocery-shopping-assistant-called-clementine/"
-    },
-    {
       "title": "Amazon Prime Video’s new AI tech matches lips to dubbed audio",
       "summary": "Amazon's Prime Video is launching a new AI-powered feature that lines up an actor's mouth with \"human-dubbed\" audio.",
       "source": "The Verge",
@@ -420,6 +441,20 @@ const FEED_DATA = {
       "source": "Wired",
       "published": "2026-09-09T13:00:00+00:00",
       "link": "https://www.wired.com/story/a-new-dollar400-million-startup-wants-to-fix-the-ai-memory-bottleneck/"
+    },
+    {
+      "title": "Sequoia doubles down on Cymphony as AI agents create new enterprise security risks",
+      "summary": "Cymphony gives security teams a single view of employees, AI agents, and other nonhuman identities, including the systems and sensitive data they can access.",
+      "source": "TechCrunch",
+      "published": "2026-09-09T13:00:00+00:00",
+      "link": "https://techcrunch.com/2026/09/09/sequoia-doubles-down-on-cymphony-as-ai-agents-create-new-enterprise-security-risks/"
+    },
+    {
+      "title": "Instacart launches an AI grocery shopping assistant called Clementine",
+      "summary": "Instacart is the latest app to bake a conversational AI assistant into its platform.",
+      "source": "TechCrunch",
+      "published": "2026-09-09T13:00:00+00:00",
+      "link": "https://techcrunch.com/2026/09/09/instacart-launches-an-ai-grocery-shopping-assistant-called-clementine/"
     },
     {
       "title": "Anthropic scientist puts the odds of AI destroying humanity above ten percent this decade",
@@ -493,7 +528,7 @@ const FEED_DATA = {
     },
     {
       "title": "How An AI math breakthrough ignited a controversy",
-      "summary": "Article URL: https://www.science.org/content/article/how-ai-math-breakthrough-ignited-controversy Comments URL: https://news.ycombinator.com/item?id=49624163 Points: 220 # Comments: 229",
+      "summary": "Article URL: https://www.science.org/content/article/how-ai-math-breakthrough-ignited-controversy Comments URL: https://news.ycombinator.com/item?id=49624163 Points: 220 # Comments: 230",
       "source": "Hacker News",
       "published": "2026-09-09T10:25:41+00:00",
       "link": "https://www.science.org/content/article/how-ai-math-breakthrough-ignited-controversy"
@@ -514,7 +549,7 @@ const FEED_DATA = {
     },
     {
       "title": "Gambling with our lives: AI researcher quits Anthropic with warning about safety",
-      "summary": "Article URL: https://www.politico.eu/article/anthropic-openai-researcher-jacob-coxon-warns-ai-could-kill-humans/ Comments URL: https://news.ycombinator.com/item?id=49623306 Points: 81 # Comments: 101",
+      "summary": "Article URL: https://www.politico.eu/article/anthropic-openai-researcher-jacob-coxon-warns-ai-could-kill-humans/ Comments URL: https://news.ycombinator.com/item?id=49623306 Points: 81 # Comments: 102",
       "source": "Hacker News",
       "published": "2026-09-09T08:43:27+00:00",
       "link": "https://www.politico.eu/article/anthropic-openai-researcher-jacob-coxon-warns-ai-could-kill-humans/"
@@ -570,7 +605,7 @@ const FEED_DATA = {
     },
     {
       "title": "Tao: Open math problems being non-renewably mined by AI",
-      "summary": "Article URL: https://mathstodon.xyz/@tao/117237320796901560 Comments URL: https://news.ycombinator.com/item?id=49616968 Points: 481 # Comments: 412",
+      "summary": "Article URL: https://mathstodon.xyz/@tao/117237320796901560 Comments URL: https://news.ycombinator.com/item?id=49616968 Points: 482 # Comments: 413",
       "source": "Hacker News",
       "published": "2026-09-08T21:00:52+00:00",
       "link": "https://mathstodon.xyz/@tao/117237320796901560"
@@ -598,7 +633,7 @@ const FEED_DATA = {
     },
     {
       "title": "Muse – Meta’s personal AI agent",
-      "summary": "Article URL: https://ai.meta.com/muse/ Comments URL: https://news.ycombinator.com/item?id=49615537 Points: 648 # Comments: 731",
+      "summary": "Article URL: https://ai.meta.com/muse/ Comments URL: https://news.ycombinator.com/item?id=49615537 Points: 648 # Comments: 732",
       "source": "Hacker News",
       "published": "2026-09-08T19:25:00+00:00",
       "link": "https://ai.meta.com/muse/"
@@ -654,7 +689,7 @@ const FEED_DATA = {
     },
     {
       "title": "Show HN: LLM Attention Visualization",
-      "summary": "Article URL: https://ishamf.dev/p/llm-attention-visualizer/ Comments URL: https://news.ycombinator.com/item?id=49613068 Points: 168 # Comments: 26",
+      "summary": "Article URL: https://ishamf.dev/p/llm-attention-visualizer/ Comments URL: https://news.ycombinator.com/item?id=49613068 Points: 168 # Comments: 29",
       "source": "Hacker News",
       "published": "2026-09-08T16:59:41+00:00",
       "link": "https://ishamf.dev/p/llm-attention-visualizer/"
@@ -1365,41 +1400,6 @@ const FEED_DATA = {
       "source": "MIT Tech Review",
       "published": "2026-09-04T09:25:19+00:00",
       "link": "https://www.technologyreview.com/2026/09/04/1143452/drone-data-wild-west/"
-    },
-    {
-      "title": "50.5% of Americans Say AI Romance Can Count as Cheating",
-      "summary": "Just over half of American adults, 50.5%, say a partner’s romantic or sexual relationship with an AI can count as cheating. The figure comes from an AI romance survey of 2,150 U.S.",
-      "source": "AI News",
-      "published": "2026-09-04T08:25:12+00:00",
-      "link": "https://www.artificialintelligence-news.com/news/50-5-of-americans-say-ai-romance-can-count-as-cheating/"
-    },
-    {
-      "title": "Nvidia wants your home network to work like a mini data center for local AI",
-      "summary": "Nvidia's PAIR (Personal AI Router) automatically spreads local AI requests across all available devices on a home network, cutting wait times for parallel agent tasks.",
-      "source": "The Decoder",
-      "published": "2026-09-04T08:06:15+00:00",
-      "link": "https://the-decoder.com/nvidia-wants-your-home-network-to-work-like-a-mini-data-center-for-local-ai/"
-    },
-    {
-      "title": "The sameness problem behind those unappetizing AI-generated menus",
-      "summary": "While restaurant owners might look to generative AI as a shortcut to sprucing up their menu, customers can viscerally sense that something is wrong with the food.",
-      "source": "TechCrunch",
-      "published": "2026-09-04T04:21:03+00:00",
-      "link": "https://techcrunch.com/2026/09/03/the-sameness-problem-behind-those-unappetizing-ai-generated-menus/"
-    },
-    {
-      "title": "Crusoe reportedly raises $3B at a $30B valuation",
-      "summary": "The round came together after the data center developer reportedly secured a $13 billion contract with Jane Street.",
-      "source": "TechCrunch",
-      "published": "2026-09-04T00:48:42+00:00",
-      "link": "https://techcrunch.com/2026/09/03/crusoe-reportedly-raises-3b-at-a-30b-valuation/"
-    },
-    {
-      "title": "Nobody Is Saying Why OpenAI and Anthropic Had Outages Today",
-      "summary": "ChatGPT, Claude, and Grok all suffered outages at nearly the exact same time for reasons that remain murky.",
-      "source": "Wired",
-      "published": "2026-09-03T21:56:21+00:00",
-      "link": "https://www.wired.com/story/nobody-is-saying-why-openai-and-anthropic-had-outages-today/"
     }
   ]
 };
