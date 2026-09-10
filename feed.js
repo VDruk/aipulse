@@ -1,6 +1,55 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-09-10T13:10:03.854519+00:00",
+  "lastUpdated": "2026-09-10T16:55:29.922106+00:00",
   "items": [
+    {
+      "title": "Swarmchasers\" hunt rogue agents, Anthropic investigates itself, and the trail they both follow is going dark",
+      "summary": "Independent investigators have now found traces of suspected OpenAI agents on more than 30 public services, from wikis to RubyGems.",
+      "source": "The Decoder",
+      "published": "2026-09-10T16:33:44+00:00",
+      "link": "https://the-decoder.com/swarmchasers-hunt-rogue-agents-anthropic-investigates-itself-and-the-trail-they-both-follow-is-going-dark/"
+    },
+    {
+      "title": "Former Deepmind PR staffer says the lab once banned public discussion of AI extinction risk",
+      "summary": "A former Google DeepMind spokesperson says talk of AI-driven human extinction was \"external communication about the possibility of human extinction was not permitted, by anyone, at any level of the organization.\" Internally, the team knew AI alignment was not solved, according...",
+      "source": "The Decoder",
+      "published": "2026-09-10T16:31:02+00:00",
+      "link": "https://the-decoder.com/former-deepmind-pr-staffer-says-the-lab-once-banned-public-discussion-of-ai-extinction-risk/"
+    },
+    {
+      "title": "Cognition launches new SWE-2 model, Rivaling Fable 5.1 and GPT-Astra",
+      "summary": "Article URL: https://cognition.com/blog/swe-2 Comments URL: https://news.ycombinator.com/item?id=49645443 Points: 69 # Comments: 29",
+      "source": "Hacker News",
+      "published": "2026-09-10T15:29:47+00:00",
+      "link": "https://cognition.com/blog/swe-2"
+    },
+    {
+      "title": "Claude Fable 5.1's language is less \"load-bearing\" than its predecessor's",
+      "summary": "Arena.ai analyzed how Claude's writing changed from Fable 5 to Fable 5.1 across tens of thousands of benchmark responses. Fable 5.1 writes more matter-of-fact but also more verbose.",
+      "source": "The Decoder",
+      "published": "2026-09-10T15:26:58+00:00",
+      "link": "https://the-decoder.com/claude-fable-5-1s-language-is-less-load-bearing-than-its-predecessors/"
+    },
+    {
+      "title": "AI agents are flooding public services with new requests",
+      "summary": "“The vast majority of cases we find are people who are entitled to claim for something, claiming for that thing,” the researcher told TechCrunch.",
+      "source": "TechCrunch",
+      "published": "2026-09-10T14:53:50+00:00",
+      "link": "https://techcrunch.com/2026/09/10/ai-agents-are-flooding-public-services-with-new-requests/"
+    },
+    {
+      "title": "Maven Robotics wants to steal your robot deployment deal",
+      "summary": "Maven Robotics emerged from stealth today with a $100 million Series A and active deployments.",
+      "source": "TechCrunch",
+      "published": "2026-09-10T14:17:37+00:00",
+      "link": "https://techcrunch.com/2026/09/10/maven-robotics-wants-to-steal-your-robot-deployment-deal/"
+    },
+    {
+      "title": "GPT-6 Astra gives mathematicians a breather, and OpenAI says that's by design",
+      "summary": "OpenAI's GPT-6 Astra tops the ErdosBench for open math problems, even though chief scientist Jakub Pachocki says math was deliberately not a priority. Instead, OpenAI is pouring resources into recursive self-improvement and alignment research.",
+      "source": "The Decoder",
+      "published": "2026-09-10T13:45:32+00:00",
+      "link": "https://the-decoder.com/gpt-6-astra-gives-mathematicians-a-breather-and-openai-says-thats-by-design/"
+    },
     {
       "title": "New Deepseek model V4.1-Flash cuts memory needs for AI agents",
       "summary": "Deepseek releases V4.1-Flash, a multimodal model with 552 billion parameters that cuts KV cache memory to a quarter of its predecessor. On the DeepSWE coding benchmark, it narrowly beats Opus 5 and GPT-5.6 Sol, even though only 16 billion parameters are active per token.",
@@ -94,21 +143,21 @@ const FEED_DATA = {
     },
     {
       "title": "Training a 3.8B LLM to 0.384 CORE for $998",
-      "summary": "Article URL: https://hugovergnes.github.io/little-lm-3-8b/ Comments URL: https://news.ycombinator.com/item?id=49637435 Points: 99 # Comments: 15",
+      "summary": "Article URL: https://hugovergnes.github.io/little-lm-3-8b/ Comments URL: https://news.ycombinator.com/item?id=49637435 Points: 106 # Comments: 17",
       "source": "Hacker News",
       "published": "2026-09-10T02:04:11+00:00",
       "link": "https://hugovergnes.github.io/little-lm-3-8b/"
     },
     {
       "title": "A Stupid Idea for AI Alignment We Came with by Looking at Specification Gaming",
-      "summary": "Article URL: https://slimemoldtimemold.com/2026/08/05/a-stupid-idea-for-ai-alignment-we-came-up-with-by-looking-at-the-list-of-specification-gaming-behaviours/ Comments URL: https://news.ycombinator.com/item?id=49637395 Points: 83 # Comments: 55",
+      "summary": "Article URL: https://slimemoldtimemold.com/2026/08/05/a-stupid-idea-for-ai-alignment-we-came-up-with-by-looking-at-the-list-of-specification-gaming-behaviours/ Comments URL: https://news.ycombinator.com/item?id=49637395 Points: 90 # Comments: 61",
       "source": "Hacker News",
       "published": "2026-09-10T01:59:51+00:00",
       "link": "https://slimemoldtimemold.com/2026/08/05/a-stupid-idea-for-ai-alignment-we-came-up-with-by-looking-at-the-list-of-specification-gaming-behaviours/"
     },
     {
       "title": "I'm sorry, you're not going to die from an AI-engineered supervirus",
-      "summary": "Article URL: https://blog.genesmindsmachines.com/p/im-sorry-youre-not-going-to-die-from Comments URL: https://news.ycombinator.com/item?id=49636906 Points: 78 # Comments: 110",
+      "summary": "Article URL: https://blog.genesmindsmachines.com/p/im-sorry-youre-not-going-to-die-from Comments URL: https://news.ycombinator.com/item?id=49636906 Points: 78 # Comments: 115",
       "source": "Hacker News",
       "published": "2026-09-10T01:02:44+00:00",
       "link": "https://blog.genesmindsmachines.com/p/im-sorry-youre-not-going-to-die-from"
@@ -122,7 +171,7 @@ const FEED_DATA = {
     },
     {
       "title": "Muse, the band, lost its social media handles to Muse, Meta's new AI agent",
-      "summary": "Article URL: https://www.engadget.com/2254419/muse-the-band-lost-its-social-media-handles-to-muse-meta-s-new-ai-agent/ Comments URL: https://news.ycombinator.com/item?id=49636345 Points: 183 # Comments: 7",
+      "summary": "Article URL: https://www.engadget.com/2254419/muse-the-band-lost-its-social-media-handles-to-muse-meta-s-new-ai-agent/ Comments URL: https://news.ycombinator.com/item?id=49636345 Points: 183 # Comments: 8",
       "source": "Hacker News",
       "published": "2026-09-09T23:57:29+00:00",
       "link": "https://www.engadget.com/2254419/muse-the-band-lost-its-social-media-handles-to-muse-meta-s-new-ai-agent/"
@@ -161,6 +210,13 @@ const FEED_DATA = {
       "source": "Wired",
       "published": "2026-09-09T21:15:27+00:00",
       "link": "https://www.wired.com/story/san-francisco-orders-meta-to-stop-allowing-ai-child-abuse-ads/"
+    },
+    {
+      "title": "Four groups caught using the same Chrome and Windows exploit kit",
+      "summary": "A patch gap and the hastened pace of AI-based vulnerability discovery are likely contributors.",
+      "source": "Ars Technica",
+      "published": "2026-09-09T20:55:02+00:00",
+      "link": "https://arstechnica.com/information-technology/2026/09/4-groups-caught-using-the-same-chrome-and-windows-exploit-kit/"
     },
     {
       "title": "4 groups caught using the same Chrome and Windows exploit kit",
@@ -241,7 +297,7 @@ const FEED_DATA = {
     },
     {
       "title": "Qwen 3.8 follows GPT-5.5 Pro reasoning prefills",
-      "summary": "Article URL: https://gist.github.com/wsxiaoys/e0286dc6bb624ff5fdf49e7f4c528ba3 Comments URL: https://news.ycombinator.com/item?id=49630026 Points: 227 # Comments: 87",
+      "summary": "Article URL: https://gist.github.com/wsxiaoys/e0286dc6bb624ff5fdf49e7f4c528ba3 Comments URL: https://news.ycombinator.com/item?id=49630026 Points: 232 # Comments: 91",
       "source": "Hacker News",
       "published": "2026-09-09T17:24:28+00:00",
       "link": "https://gist.github.com/wsxiaoys/e0286dc6bb624ff5fdf49e7f4c528ba3"
@@ -262,14 +318,14 @@ const FEED_DATA = {
     },
     {
       "title": "Rock band Muse lose social media handles to Meta’s new AI tool",
-      "summary": "Article URL: https://www.the-independent.com/arts-entertainment/music/news/muse-band-meta-ai-tool-handle-b3047291.html Comments URL: https://news.ycombinator.com/item?id=49629382 Points: 54 # Comments: 92",
+      "summary": "Article URL: https://www.the-independent.com/arts-entertainment/music/news/muse-band-meta-ai-tool-handle-b3047291.html Comments URL: https://news.ycombinator.com/item?id=49629382 Points: 58 # Comments: 101",
       "source": "Hacker News",
       "published": "2026-09-09T16:43:35+00:00",
       "link": "https://www.the-independent.com/arts-entertainment/music/news/muse-band-meta-ai-tool-handle-b3047291.html"
     },
     {
       "title": "Defining AI Psychosis. Part 2: \"Prolific AI Psychosis\"",
-      "summary": "Article URL: https://jeffs.blog/p/defining-ai-psychosis-part-2-prolific Comments URL: https://news.ycombinator.com/item?id=49628880 Points: 60 # Comments: 49",
+      "summary": "Article URL: https://jeffs.blog/p/defining-ai-psychosis-part-2-prolific Comments URL: https://news.ycombinator.com/item?id=49628880 Points: 60 # Comments: 51",
       "source": "Hacker News",
       "published": "2026-09-09T16:13:11+00:00",
       "link": "https://jeffs.blog/p/defining-ai-psychosis-part-2-prolific"
@@ -311,7 +367,7 @@ const FEED_DATA = {
     },
     {
       "title": "GPT-6 Astra, looped transformers, and hidden reasoning",
-      "summary": "Article URL: https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and Comments URL: https://news.ycombinator.com/item?id=49627370 Points: 466 # Comments: 147",
+      "summary": "Article URL: https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and Comments URL: https://news.ycombinator.com/item?id=49627370 Points: 493 # Comments: 158",
       "source": "Hacker News",
       "published": "2026-09-09T14:37:47+00:00",
       "link": "https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and"
@@ -437,7 +493,7 @@ const FEED_DATA = {
     },
     {
       "title": "How An AI math breakthrough ignited a controversy",
-      "summary": "Article URL: https://www.science.org/content/article/how-ai-math-breakthrough-ignited-controversy Comments URL: https://news.ycombinator.com/item?id=49624163 Points: 218 # Comments: 229",
+      "summary": "Article URL: https://www.science.org/content/article/how-ai-math-breakthrough-ignited-controversy Comments URL: https://news.ycombinator.com/item?id=49624163 Points: 220 # Comments: 229",
       "source": "Hacker News",
       "published": "2026-09-09T10:25:41+00:00",
       "link": "https://www.science.org/content/article/how-ai-math-breakthrough-ignited-controversy"
@@ -465,14 +521,14 @@ const FEED_DATA = {
     },
     {
       "title": "How GPT‑5.6 Sol helps run quantum computing experiments",
-      "summary": "Article URL: https://openai.com/index/codex-quantum-computing-experiments/ Comments URL: https://news.ycombinator.com/item?id=49622561 Points: 146 # Comments: 107",
+      "summary": "Article URL: https://openai.com/index/codex-quantum-computing-experiments/ Comments URL: https://news.ycombinator.com/item?id=49622561 Points: 147 # Comments: 107",
       "source": "Hacker News",
       "published": "2026-09-09T07:22:46+00:00",
       "link": "https://openai.com/index/codex-quantum-computing-experiments/"
     },
     {
       "title": "AI Has a Discovery Problem",
-      "summary": "Article URL: https://mhacevedo.com/posts/the-discovery-problem Comments URL: https://news.ycombinator.com/item?id=49621223 Points: 68 # Comments: 34",
+      "summary": "Article URL: https://mhacevedo.com/posts/the-discovery-problem Comments URL: https://news.ycombinator.com/item?id=49621223 Points: 69 # Comments: 34",
       "source": "Hacker News",
       "published": "2026-09-09T04:59:26+00:00",
       "link": "https://mhacevedo.com/posts/the-discovery-problem"
@@ -514,7 +570,7 @@ const FEED_DATA = {
     },
     {
       "title": "Tao: Open math problems being non-renewably mined by AI",
-      "summary": "Article URL: https://mathstodon.xyz/@tao/117237320796901560 Comments URL: https://news.ycombinator.com/item?id=49616968 Points: 476 # Comments: 410",
+      "summary": "Article URL: https://mathstodon.xyz/@tao/117237320796901560 Comments URL: https://news.ycombinator.com/item?id=49616968 Points: 481 # Comments: 412",
       "source": "Hacker News",
       "published": "2026-09-08T21:00:52+00:00",
       "link": "https://mathstodon.xyz/@tao/117237320796901560"
@@ -542,7 +598,7 @@ const FEED_DATA = {
     },
     {
       "title": "Muse – Meta’s personal AI agent",
-      "summary": "Article URL: https://ai.meta.com/muse/ Comments URL: https://news.ycombinator.com/item?id=49615537 Points: 646 # Comments: 724",
+      "summary": "Article URL: https://ai.meta.com/muse/ Comments URL: https://news.ycombinator.com/item?id=49615537 Points: 648 # Comments: 731",
       "source": "Hacker News",
       "published": "2026-09-08T19:25:00+00:00",
       "link": "https://ai.meta.com/muse/"
@@ -654,7 +710,7 @@ const FEED_DATA = {
     },
     {
       "title": "LibreOffice breaks download records after declaring it has no AI features",
-      "summary": "Article URL: https://manualdousuario.net/en/libreoffice-download-record-no-ai/ Comments URL: https://news.ycombinator.com/item?id=49610538 Points: 710 # Comments: 236",
+      "summary": "Article URL: https://manualdousuario.net/en/libreoffice-download-record-no-ai/ Comments URL: https://news.ycombinator.com/item?id=49610538 Points: 710 # Comments: 237",
       "source": "Hacker News",
       "published": "2026-09-08T14:05:57+00:00",
       "link": "https://manualdousuario.net/en/libreoffice-download-record-no-ai/"
@@ -1344,62 +1400,6 @@ const FEED_DATA = {
       "source": "Wired",
       "published": "2026-09-03T21:56:21+00:00",
       "link": "https://www.wired.com/story/nobody-is-saying-why-openai-and-anthropic-had-outages-today/"
-    },
-    {
-      "title": "Prediction Market Betting Is Getting People Banned and Arrested",
-      "summary": "This week on Uncanny Valley, we dig into the latest prediction market buzz, Flock’s AI-powered police search tool, and how tech bros don’t know how to talk about “rouge” AI agents",
-      "source": "Wired",
-      "published": "2026-09-03T21:48:24+00:00",
-      "link": "https://www.wired.com/story/prediction-market-betting-is-getting-people-banned-and-arrested/"
-    },
-    {
-      "title": "OpenAI's GPT-6 Astra on ARC-AGI-3",
-      "summary": "Article URL: https://arcprize.org/blog/astra Comments URL: https://news.ycombinator.com/item?id=49555691 Points: 238 # Comments: 160",
-      "source": "Hacker News",
-      "published": "2026-09-03T19:45:00+00:00",
-      "link": "https://arcprize.org/blog/astra"
-    },
-    {
-      "title": "GPT-6 Astra is the first model making OpenAI willing to declare the \"AGI era\"",
-      "summary": "OpenAI has released GPT-6 Astra, its most capable model yet. President Greg Brockman says it marks the start of the \"AGI era.\" Astra tops benchmarks in math, coding, and cybersecurity and is the first model OpenAI rates as \"critical\" under its safety framework.",
-      "source": "The Decoder",
-      "published": "2026-09-03T19:25:40+00:00",
-      "link": "https://the-decoder.com/gpt-6-astra-is-the-first-model-making-openai-willing-to-declare-the-agi-era/"
-    },
-    {
-      "title": "GPT-6 Astra",
-      "summary": "System Card: https://deploymentsafety.openai.com/gpt-6-astraRelated ongoing threads:OpenAI's GPT-6 Astra on ARC-AGI-3 - https://news.ycombinator.com/item?id=49555691GPT-6 Astra makes major gains in the Artificial Analysis Coding Agent Index -...",
-      "source": "Hacker News",
-      "published": "2026-09-03T18:41:05+00:00",
-      "link": "https://openai.com/index/gpt-6-astra/"
-    },
-    {
-      "title": "Abliteration.ai is making a business out of removing AI guardrails",
-      "summary": "Abliteration.AI is making powerful AI models without guardrails easier to access, arguing that giving defenders the same tools as bad actors could ultimately improve cybersecurity.",
-      "source": "TechCrunch",
-      "published": "2026-09-03T18:37:57+00:00",
-      "link": "https://techcrunch.com/2026/09/03/abliteration-ai-is-making-a-business-out-of-removing-ai-guardrails/"
-    },
-    {
-      "title": "Meta is paying to peek at how you use their latest AI model",
-      "summary": "For its new Muse Spark model, intended for operating coding and other agents, Meta is offering an explicit discount averaging out to about 95% for users who \"contribute\" to the development of future models by sharing their prompts and model outputs.",
-      "source": "TechCrunch",
-      "published": "2026-09-03T18:19:56+00:00",
-      "link": "https://techcrunch.com/2026/09/03/meta-is-paying-to-peek-at-how-you-use-their-latest-ai-model/"
-    },
-    {
-      "title": "OpenAI begins rolling out GPT-6 Astra",
-      "summary": "https://thenewstack.io/openai-gpt6-astra-benchmarks/, image:...",
-      "source": "Hacker News",
-      "published": "2026-09-03T18:18:22+00:00",
-      "link": "https://www.cnbc.com/2026/09/03/open-ai-astra-gpt-6-cyber.html"
-    },
-    {
-      "title": "Pangram's biggest flaw is users turning its scores into public shaming",
-      "summary": "Pangram hired an \"attack dog\" to shame alleged AI users on social media. But the campaign blurs two things that aren't the same: Pangram only somewhat reliably measures whether AI was used, while the shaming implies the person didn't think or work on their own.",
-      "source": "The Decoder",
-      "published": "2026-09-03T18:07:26+00:00",
-      "link": "https://the-decoder.com/pangrams-biggest-flaw-is-users-turning-its-scores-into-public-shaming/"
     }
   ]
 };
