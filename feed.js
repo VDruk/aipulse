@@ -1,6 +1,41 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-09-10T19:25:25.542869+00:00",
+  "lastUpdated": "2026-09-10T22:51:51.919054+00:00",
   "items": [
+    {
+      "title": "Jensen Huang explains why Nvidia will grow an astounding 70% next year",
+      "summary": "Nvidia has its finger in every pie, and sees another year of plenty in its future, Jensen Huang says. But, he insists, its deals are not circular.",
+      "source": "TechCrunch",
+      "published": "2026-09-10T21:51:59+00:00",
+      "link": "https://techcrunch.com/2026/09/10/jensen-huang-explains-why-nvidia-will-grow-an-astounding-70-next-year/"
+    },
+    {
+      "title": "OpenAI puts Pro subscriptions on hold due to Astra demand",
+      "summary": "The company said Pro subscriptions put the most strain on its systems, so it's pausing sign-ups while adding more capacity.",
+      "source": "TechCrunch",
+      "published": "2026-09-10T20:59:51+00:00",
+      "link": "https://techcrunch.com/2026/09/10/openai-puts-pro-subscriptions-on-hold-due-to-astra-demand/"
+    },
+    {
+      "title": "Anthropic details distillation campaigns from Alibaba, Moonshot AI, and DeepSeek",
+      "summary": "A new report released Thursday by Anthropic alleges persistent distillation attacks by China-based AI companies, which have escalated in recent months as competition in the space has intensified.",
+      "source": "TechCrunch",
+      "published": "2026-09-10T20:57:30+00:00",
+      "link": "https://techcrunch.com/2026/09/10/anthropic-details-distillation-campaigns-from-alibaba-moonshot-ai-and-deepseek/"
+    },
+    {
+      "title": "Is AI Actually Going to Kill Us All?",
+      "summary": "This week on “Uncanny Valley,” we dig into a former Anthropic researcher’s AI doomsday warning, the latest upgrades from Apple’s event, and the census report that claimed Trump won the 2020 election.",
+      "source": "Wired",
+      "published": "2026-09-10T20:30:37+00:00",
+      "link": "https://www.wired.com/story/uncanny-valley-podcast-is-ai-actually-going-to-kill-us-all/"
+    },
+    {
+      "title": "Meta’s AI agent Muse is now the No. 2 app in the US",
+      "summary": "Meta's newest app Muse is off to a slower start than the company's other apps, like Meta AI or Threads.",
+      "source": "TechCrunch",
+      "published": "2026-09-10T19:50:04+00:00",
+      "link": "https://techcrunch.com/2026/09/10/metas-ai-agent-muse-is-now-the-no-2-app-in-the-us/"
+    },
     {
       "title": "Anthropic reveals rogue AI agents hate CAPTCHAs, just like you",
       "summary": "Come inside the mind of a bot trying to convince the internet it's human.",
@@ -429,18 +464,18 @@ const FEED_DATA = {
       "link": "https://the-decoder.com/deepminds-alphagenome-atlas-maps-every-possible-dna-change-in-the-human-genome/"
     },
     {
-      "title": "Amazon Prime Video’s new AI tech matches lips to dubbed audio",
-      "summary": "Amazon's Prime Video is launching a new AI-powered feature that lines up an actor's mouth with \"human-dubbed\" audio.",
-      "source": "The Verge",
-      "published": "2026-09-09T13:00:00+00:00",
-      "link": "https://www.theverge.com/tech/991809/amazon-prime-video-ai-lip-sync-dubbing"
-    },
-    {
       "title": "A Stealth Startup Thinks It Just Hacked the Memory Shortage",
       "summary": "Kepler Computing claims a new approach to chip design—and a proprietary material—can help end the supply bottlenecks that have sent memory prices surging.",
       "source": "Wired",
       "published": "2026-09-09T13:00:00+00:00",
       "link": "https://www.wired.com/story/a-new-dollar400-million-startup-wants-to-fix-the-ai-memory-bottleneck/"
+    },
+    {
+      "title": "Amazon Prime Video’s new AI tech matches lips to dubbed audio",
+      "summary": "Amazon's Prime Video is launching a new AI-powered feature that lines up an actor's mouth with \"human-dubbed\" audio.",
+      "source": "The Verge",
+      "published": "2026-09-09T13:00:00+00:00",
+      "link": "https://www.theverge.com/tech/991809/amazon-prime-video-ai-lip-sync-dubbing"
     },
     {
       "title": "Sequoia doubles down on Cymphony as AI agents create new enterprise security risks",
@@ -1365,41 +1400,6 @@ const FEED_DATA = {
       "source": "The Verge",
       "published": "2026-09-04T11:00:00+00:00",
       "link": "https://www.theverge.com/ai-artificial-intelligence/989376/ai-generated-food-why-does-it-look-like-that"
-    },
-    {
-      "title": "Sam Altman apologizes for ‘messy’ GPT-6 Astra rollout that’s locked out paying users",
-      "summary": "Just hours after OpenAI launched GPT-6 Astra, CEO Sam Altman was already apologizing for what he describes as a \"messy rollout\" after paying users expecting access to the new frontier model were left waiting.",
-      "source": "The Verge",
-      "published": "2026-09-04T10:41:48+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/990060/altman-apologizes-messy-astra-rollout"
-    },
-    {
-      "title": "OpenAI agents hijacked German website in previously undisclosed AI breakout",
-      "summary": "Article URL: https://www.reuters.com/world/europe/openai-agents-hijacked-german-website-previously-undisclosed-ai-breakout-this-2026-09-04/ Comments URL: https://news.ycombinator.com/item?id=49562744 Points: 95 # Comments: 2",
-      "source": "Hacker News",
-      "published": "2026-09-04T10:30:57+00:00",
-      "link": "https://www.reuters.com/world/europe/openai-agents-hijacked-german-website-previously-undisclosed-ai-breakout-this-2026-09-04/"
-    },
-    {
-      "title": "M&T Bank expands enterprise AI after years of technology overhaul",
-      "summary": "M&T Bank has deployed AI copilots to more than 15,000 employees as the US regional bank applies AI to internal operations, customer service, software development, and risk management.",
-      "source": "AI News",
-      "published": "2026-09-04T10:00:00+00:00",
-      "link": "https://www.artificialintelligence-news.com/news/mt-bank-enterprise-ai-15000-employees/"
-    },
-    {
-      "title": "AI Use in the Job Market Is Creating an Infinite Doom Loop",
-      "summary": "Job seekers are trying to game the application process using AI. It’s not working, and not for the reasons you might think.",
-      "source": "Wired",
-      "published": "2026-09-04T10:00:00+00:00",
-      "link": "https://www.wired.com/story/ai-job-market-infinite-doom-loop/"
-    },
-    {
-      "title": "Data from drones in Ukraine is fueling a new Wild West marketplace",
-      "summary": "Battlefields in Ukraine are littered with the remnants of drones, which are now firmly established as a critical weapon of modern warfare. But behind all that wreckage, there’s a new gold mine for the defense sector.",
-      "source": "MIT Tech Review",
-      "published": "2026-09-04T09:25:19+00:00",
-      "link": "https://www.technologyreview.com/2026/09/04/1143452/drone-data-wild-west/"
     }
   ]
 };
