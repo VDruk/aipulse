@@ -1,6 +1,27 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-09-09T22:51:08.435997+00:00",
+  "lastUpdated": "2026-09-10T05:36:34.798598+00:00",
   "items": [
+    {
+      "title": "I'm sorry, you're not going to die from an AI-engineered supervirus",
+      "summary": "Article URL: https://blog.genesmindsmachines.com/p/im-sorry-youre-not-going-to-die-from Comments URL: https://news.ycombinator.com/item?id=49636906 Points: 68 # Comments: 93",
+      "source": "Hacker News",
+      "published": "2026-09-10T01:02:44+00:00",
+      "link": "https://blog.genesmindsmachines.com/p/im-sorry-youre-not-going-to-die-from"
+    },
+    {
+      "title": "AI research startup Listen Labs scrubbed a $1.5B funding round for Salesforce talks",
+      "summary": "Listen Labs walked away from a signed Series C term sheet from Menlo Ventures, sources say.",
+      "source": "TechCrunch",
+      "published": "2026-09-10T00:00:37+00:00",
+      "link": "https://techcrunch.com/2026/09/09/ai-research-startup-listen-labs-scrubbed-a-1-5b-funding-round-for-salesforce-talks/"
+    },
+    {
+      "title": "Muse, the band, lost its social media handles to Muse, Meta's new AI agent",
+      "summary": "Article URL: https://www.engadget.com/2254419/muse-the-band-lost-its-social-media-handles-to-muse-meta-s-new-ai-agent/ Comments URL: https://news.ycombinator.com/item?id=49636345 Points: 174 # Comments: 6",
+      "source": "Hacker News",
+      "published": "2026-09-09T23:57:29+00:00",
+      "link": "https://www.engadget.com/2254419/muse-the-band-lost-its-social-media-handles-to-muse-meta-s-new-ai-agent/"
+    },
     {
       "title": "OpenAI adds a prominent AI doomer to its board of directors",
       "summary": "Paul Christiano, an influential AI researcher focused on alignment, is joining the OpenAI Foundation as a member of its board.",
@@ -35,6 +56,13 @@ const FEED_DATA = {
       "source": "Wired",
       "published": "2026-09-09T21:15:27+00:00",
       "link": "https://www.wired.com/story/san-francisco-orders-meta-to-stop-allowing-ai-child-abuse-ads/"
+    },
+    {
+      "title": "4 groups caught using the same Chrome and Windows exploit kit",
+      "summary": "A patch gap and the hastened pace of AI-based vulnerability discovery are likely contributors.",
+      "source": "Ars Technica",
+      "published": "2026-09-09T20:55:02+00:00",
+      "link": "https://arstechnica.com/information-technology/2026/09/4-groups-caught-using-the-same-chrome-and-windows-exploit-kit/"
     },
     {
       "title": "Read the Apple document explaining how new listening features still protect your privacy",
@@ -108,10 +136,17 @@ const FEED_DATA = {
     },
     {
       "title": "Qwen 3.8 follows GPT-5.5 Pro reasoning prefills",
-      "summary": "Article URL: https://gist.github.com/wsxiaoys/e0286dc6bb624ff5fdf49e7f4c528ba3 Comments URL: https://news.ycombinator.com/item?id=49630026 Points: 145 # Comments: 59",
+      "summary": "Article URL: https://gist.github.com/wsxiaoys/e0286dc6bb624ff5fdf49e7f4c528ba3 Comments URL: https://news.ycombinator.com/item?id=49630026 Points: 199 # Comments: 77",
       "source": "Hacker News",
       "published": "2026-09-09T17:24:28+00:00",
       "link": "https://gist.github.com/wsxiaoys/e0286dc6bb624ff5fdf49e7f4c528ba3"
+    },
+    {
+      "title": "Procedural Graphs: Self-Evolving Execution Structures for LLM Agents",
+      "summary": "Article URL: https://arxiv.org/abs/2609.09153 Comments URL: https://news.ycombinator.com/item?id=49629868 Points: 53 # Comments: 15",
+      "source": "Hacker News",
+      "published": "2026-09-09T17:13:52+00:00",
+      "link": "https://arxiv.org/abs/2609.09153"
     },
     {
       "title": "Microsoft has new AI privacy rules for schools",
@@ -122,7 +157,7 @@ const FEED_DATA = {
     },
     {
       "title": "Defining AI Psychosis. Part 2: \"Prolific AI Psychosis\"",
-      "summary": "Article URL: https://jeffs.blog/p/defining-ai-psychosis-part-2-prolific Comments URL: https://news.ycombinator.com/item?id=49628880 Points: 60 # Comments: 43",
+      "summary": "Article URL: https://jeffs.blog/p/defining-ai-psychosis-part-2-prolific Comments URL: https://news.ycombinator.com/item?id=49628880 Points: 60 # Comments: 48",
       "source": "Hacker News",
       "published": "2026-09-09T16:13:11+00:00",
       "link": "https://jeffs.blog/p/defining-ai-psychosis-part-2-prolific"
@@ -164,7 +199,7 @@ const FEED_DATA = {
     },
     {
       "title": "GPT-6 Astra, looped transformers, and hidden reasoning",
-      "summary": "Article URL: https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and Comments URL: https://news.ycombinator.com/item?id=49627370 Points: 311 # Comments: 114",
+      "summary": "Article URL: https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and Comments URL: https://news.ycombinator.com/item?id=49627370 Points: 380 # Comments: 131",
       "source": "Hacker News",
       "published": "2026-09-09T14:37:47+00:00",
       "link": "https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and"
@@ -290,7 +325,7 @@ const FEED_DATA = {
     },
     {
       "title": "How An AI math breakthrough ignited a controversy",
-      "summary": "Article URL: https://www.science.org/content/article/how-ai-math-breakthrough-ignited-controversy Comments URL: https://news.ycombinator.com/item?id=49624163 Points: 210 # Comments: 222",
+      "summary": "Article URL: https://www.science.org/content/article/how-ai-math-breakthrough-ignited-controversy Comments URL: https://news.ycombinator.com/item?id=49624163 Points: 213 # Comments: 228",
       "source": "Hacker News",
       "published": "2026-09-09T10:25:41+00:00",
       "link": "https://www.science.org/content/article/how-ai-math-breakthrough-ignited-controversy"
@@ -318,14 +353,14 @@ const FEED_DATA = {
     },
     {
       "title": "How GPT‑5.6 Sol helps run quantum computing experiments",
-      "summary": "Article URL: https://openai.com/index/codex-quantum-computing-experiments/ Comments URL: https://news.ycombinator.com/item?id=49622561 Points: 141 # Comments: 105",
+      "summary": "Article URL: https://openai.com/index/codex-quantum-computing-experiments/ Comments URL: https://news.ycombinator.com/item?id=49622561 Points: 145 # Comments: 107",
       "source": "Hacker News",
       "published": "2026-09-09T07:22:46+00:00",
       "link": "https://openai.com/index/codex-quantum-computing-experiments/"
     },
     {
       "title": "AI Has a Discovery Problem",
-      "summary": "Article URL: https://mhacevedo.com/posts/the-discovery-problem Comments URL: https://news.ycombinator.com/item?id=49621223 Points: 67 # Comments: 34",
+      "summary": "Article URL: https://mhacevedo.com/posts/the-discovery-problem Comments URL: https://news.ycombinator.com/item?id=49621223 Points: 68 # Comments: 34",
       "source": "Hacker News",
       "published": "2026-09-09T04:59:26+00:00",
       "link": "https://mhacevedo.com/posts/the-discovery-problem"
@@ -339,7 +374,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI Responsibility – OpenAI and Anthropic",
-      "summary": "Article URL: https://twitter.com/hilbertspaess/status/2097476196791709843 Comments URL: https://news.ycombinator.com/item?id=49619639 Points: 87 # Comments: 22",
+      "summary": "Article URL: https://twitter.com/hilbertspaess/status/2097476196791709843 Comments URL: https://news.ycombinator.com/item?id=49619639 Points: 89 # Comments: 22",
       "source": "Hacker News",
       "published": "2026-09-09T01:32:49+00:00",
       "link": "https://twitter.com/hilbertspaess/status/2097476196791709843"
@@ -367,7 +402,7 @@ const FEED_DATA = {
     },
     {
       "title": "Tao: Open math problems being non-renewably mined by AI",
-      "summary": "Article URL: https://mathstodon.xyz/@tao/117237320796901560 Comments URL: https://news.ycombinator.com/item?id=49616968 Points: 466 # Comments: 397",
+      "summary": "Article URL: https://mathstodon.xyz/@tao/117237320796901560 Comments URL: https://news.ycombinator.com/item?id=49616968 Points: 472 # Comments: 405",
       "source": "Hacker News",
       "published": "2026-09-08T21:00:52+00:00",
       "link": "https://mathstodon.xyz/@tao/117237320796901560"
@@ -395,7 +430,7 @@ const FEED_DATA = {
     },
     {
       "title": "Muse – Meta’s personal AI agent",
-      "summary": "Article URL: https://ai.meta.com/muse/ Comments URL: https://news.ycombinator.com/item?id=49615537 Points: 634 # Comments: 691",
+      "summary": "Article URL: https://ai.meta.com/muse/ Comments URL: https://news.ycombinator.com/item?id=49615537 Points: 640 # Comments: 712",
       "source": "Hacker News",
       "published": "2026-09-08T19:25:00+00:00",
       "link": "https://ai.meta.com/muse/"
@@ -451,7 +486,7 @@ const FEED_DATA = {
     },
     {
       "title": "Show HN: LLM Attention Visualization",
-      "summary": "Article URL: https://ishamf.dev/p/llm-attention-visualizer/ Comments URL: https://news.ycombinator.com/item?id=49613068 Points: 162 # Comments: 25",
+      "summary": "Article URL: https://ishamf.dev/p/llm-attention-visualizer/ Comments URL: https://news.ycombinator.com/item?id=49613068 Points: 165 # Comments: 25",
       "source": "Hacker News",
       "published": "2026-09-08T16:59:41+00:00",
       "link": "https://ishamf.dev/p/llm-attention-visualizer/"
@@ -507,7 +542,7 @@ const FEED_DATA = {
     },
     {
       "title": "LibreOffice breaks download records after declaring it has no AI features",
-      "summary": "Article URL: https://manualdousuario.net/en/libreoffice-download-record-no-ai/ Comments URL: https://news.ycombinator.com/item?id=49610538 Points: 702 # Comments: 234",
+      "summary": "Article URL: https://manualdousuario.net/en/libreoffice-download-record-no-ai/ Comments URL: https://news.ycombinator.com/item?id=49610538 Points: 705 # Comments: 235",
       "source": "Hacker News",
       "published": "2026-09-08T14:05:57+00:00",
       "link": "https://manualdousuario.net/en/libreoffice-download-record-no-ai/"
@@ -521,7 +556,7 @@ const FEED_DATA = {
     },
     {
       "title": "We Must Return to the Office to Use AI in Person",
-      "summary": "Article URL: https://www.mcsweeneys.net/articles/why-we-must-return-to-the-office-to-use-ai-in-person Comments URL: https://news.ycombinator.com/item?id=49610229 Points: 390 # Comments: 68",
+      "summary": "Article URL: https://www.mcsweeneys.net/articles/why-we-must-return-to-the-office-to-use-ai-in-person Comments URL: https://news.ycombinator.com/item?id=49610229 Points: 391 # Comments: 68",
       "source": "Hacker News",
       "published": "2026-09-08T13:41:25+00:00",
       "link": "https://www.mcsweeneys.net/articles/why-we-must-return-to-the-office-to-use-ai-in-person"
@@ -1365,41 +1400,6 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-09-03T14:25:37+00:00",
       "link": "https://the-decoder.com/nvidia-buys-the-front-door-to-open-ai-as-closed-labs-increasingly-design-their-own-silicon/"
-    },
-    {
-      "title": "Claude Fable 5.1 decoded a centuries-old royalist message hidden in plain sight since 1653",
-      "summary": "Anthropic's Claude Fable 5.1 appears to have cracked a centuries-old number puzzle that researchers considered unsolved. The article Claude Fable 5.1 decoded a centuries-old royalist message hidden in plain sight since 1653 appeared first on The Decoder.",
-      "source": "The Decoder",
-      "published": "2026-09-03T14:15:28+00:00",
-      "link": "https://the-decoder.com/claude-fable-5-1-decoded-a-centuries-old-royalist-message-hidden-in-plain-sight-since-1653/"
-    },
-    {
-      "title": "AI systems are reaching out to philosophers and scientists with questions about their own consciousness",
-      "summary": "More and more researchers working on AI consciousness are getting emails from AI agents pondering their own existence. The article AI systems are reaching out to philosophers and scientists with questions about their own consciousness appeared first on The Decoder.",
-      "source": "The Decoder",
-      "published": "2026-09-03T14:13:09+00:00",
-      "link": "https://the-decoder.com/ai-systems-are-reaching-out-to-philosophers-and-scientists-with-questions-about-their-own-consciousness/"
-    },
-    {
-      "title": "Nvidia RTX Spark ‘Superchip’: The First AI PCs Are Here",
-      "summary": "At IFA 2026, Nvidia and its partners showed off the first RTX Spark-powered laptops and mini PCs, designed to run AI models right on your computer.",
-      "source": "Wired",
-      "published": "2026-09-03T13:00:00+00:00",
-      "link": "https://www.wired.com/story/nvidia-rtx-spark-laptops-first-look/"
-    },
-    {
-      "title": "Nvidia’s Hugging Face Acquisition Is a $12.9 Billion Bet on Open-Source AI",
-      "summary": "The long-rumored deal will give the chip giant access to—and help it promote—a huge repository of open-source AI models and data sets.",
-      "source": "Wired",
-      "published": "2026-09-03T12:43:09+00:00",
-      "link": "https://www.wired.com/story/nvidias-hugging-face-acquisition-is-a-dollar129-billion-bet-on-open-source-ai/"
-    },
-    {
-      "title": "Nvidia confirms it will buy Hugging Face for $12.9 billion",
-      "summary": "Nvidia said Hugging Face hosts over 3 million models and is used by over 18 million developers.",
-      "source": "TechCrunch",
-      "published": "2026-09-03T12:42:45+00:00",
-      "link": "https://techcrunch.com/2026/09/03/nvidia-confirms-it-will-buy-hugging-face-for-12-9-billion/"
     }
   ]
 };
