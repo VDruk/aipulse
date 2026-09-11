@@ -1,6 +1,41 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-09-11T19:23:04.438254+00:00",
+  "lastUpdated": "2026-09-11T22:54:51.551364+00:00",
   "items": [
+    {
+      "title": "Y Combinator’s Garry Tan wants US open-weight AI labs to ‘distill’ frontier models, too",
+      "summary": "Tan wants smaller, American open-weight AI labs to use the same kind of training techniques on American frontier AI labs, giving the U.S. a more robust set of open-weight options that aren’t Chinese.",
+      "source": "TechCrunch",
+      "published": "2026-09-11T20:59:47+00:00",
+      "link": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/"
+    },
+    {
+      "title": "OpenAI’s feud with mathematicians is only escalating",
+      "summary": "Twenty-five leading mathematicians signed an open letter arguing that AI labs are threatening their intellectual work.",
+      "source": "TechCrunch",
+      "published": "2026-09-11T20:57:36+00:00",
+      "link": "https://techcrunch.com/2026/09/11/openais-feud-with-mathematicians-is-only-escalating/"
+    },
+    {
+      "title": "Lawyer fined $5K over AI-hallucinated witnesses in a murder case",
+      "summary": "New Mexico's Supreme Court is punishing a lawyer for including AI-fabricated witnesses and fake police testimony in an appeal for his client's murder conviction, according to a report from Reuters.",
+      "source": "The Verge",
+      "published": "2026-09-11T20:44:02+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/994207/chatgpt-new-mexico-lawyer-fined-murder-appeal"
+    },
+    {
+      "title": "Roundtables: AI’s apocalypse crisis",
+      "summary": "Employees at the world’s leading AI labs are saying there’s a real possibility that advanced AI could destroy humanity. Are they right?",
+      "source": "MIT Tech Review",
+      "published": "2026-09-11T20:05:06+00:00",
+      "link": "https://www.technologyreview.com/2026/09/11/1143936/roundtables-will-ai-really-kill-us-all/"
+    },
+    {
+      "title": "Kimi-maker Moonshot AI targets $2B in annual revenue",
+      "summary": "While K3's usage figures have declined slightly in recent months, OpenRouter data currently shows as many as 300 billion tokens being generated each day by K3 models on the system.",
+      "source": "TechCrunch",
+      "published": "2026-09-11T19:35:54+00:00",
+      "link": "https://techcrunch.com/2026/09/11/kimi-maker-moonshot-ai-targets-2-billion-in-annual-revenue/"
+    },
     {
       "title": "Meta Sued Over Training Data for Its AI and Face-Recognition Systems",
       "summary": "The proposed class action alleges Meta illegally harvested people’s Facebook and Instagram photos to train its AI image-generation models and to build its unreleased “NameTag” face recognition feature.",
@@ -24,7 +59,7 @@ const FEED_DATA = {
     },
     {
       "title": "A misalignment of AI in mathematics",
-      "summary": "https://terrytao.wordpress.com/2026/09/11/a-severe-misalignm...https://www.economist.com/science-and-technology/2026/09/11/..., https://unwall.app/www.economist.com/science-and-technology/... Comments URL: https://news.ycombinator.com/item?id=49662371 Points: 81 # Comments: 169",
+      "summary": "https://terrytao.wordpress.com/2026/09/11/a-severe-misalignm...https://www.economist.com/science-and-technology/2026/09/11/..., https://unwall.app/www.economist.com/science-and-technology/... Comments URL: https://news.ycombinator.com/item?id=49662371 Points: 491 # Comments: 555",
       "source": "Hacker News",
       "published": "2026-09-11T17:45:12+00:00",
       "link": "https://mathandai.org/"
@@ -38,7 +73,7 @@ const FEED_DATA = {
     },
     {
       "title": "Feeling Sad about AI",
-      "summary": "Article URL: https://artificialworlds.net/blog/2026/09/11/feeling-sad-about-ai/ Comments URL: https://news.ycombinator.com/item?id=49661506 Points: 152 # Comments: 223",
+      "summary": "Article URL: https://artificialworlds.net/blog/2026/09/11/feeling-sad-about-ai/ Comments URL: https://news.ycombinator.com/item?id=49661506 Points: 163 # Comments: 261",
       "source": "Hacker News",
       "published": "2026-09-11T16:50:51+00:00",
       "link": "https://artificialworlds.net/blog/2026/09/11/feeling-sad-about-ai/"
@@ -59,14 +94,14 @@ const FEED_DATA = {
     },
     {
       "title": "Show HN: Hacker News, Without AI",
-      "summary": "Article URL: https://www.unslop.news/ Comments URL: https://news.ycombinator.com/item?id=49660783 Points: 100 # Comments: 40",
+      "summary": "Article URL: https://www.unslop.news/ Comments URL: https://news.ycombinator.com/item?id=49660783 Points: 164 # Comments: 73",
       "source": "Hacker News",
       "published": "2026-09-11T16:08:50+00:00",
       "link": "https://www.unslop.news/"
     },
     {
       "title": "Hacker News with reduced priority for AI driven content",
-      "summary": "Article URL: https://sprinklz.io/public/pdwt4dve5uai Comments URL: https://news.ycombinator.com/item?id=49660482 Points: 73 # Comments: 46",
+      "summary": "Article URL: https://sprinklz.io/public/pdwt4dve5uai Comments URL: https://news.ycombinator.com/item?id=49660482 Points: 103 # Comments: 54",
       "source": "Hacker News",
       "published": "2026-09-11T15:52:49+00:00",
       "link": "https://sprinklz.io/public/pdwt4dve5uai"
@@ -122,14 +157,14 @@ const FEED_DATA = {
     },
     {
       "title": "The Waymo effect: how AI is quietly making research less collaborative",
-      "summary": "Article URL: https://www.researchagenda.news/articles/the-waymo-effect.html Comments URL: https://news.ycombinator.com/item?id=49656496 Points: 312 # Comments: 279",
+      "summary": "Article URL: https://www.researchagenda.news/articles/the-waymo-effect.html Comments URL: https://news.ycombinator.com/item?id=49656496 Points: 318 # Comments: 292",
       "source": "Hacker News",
       "published": "2026-09-11T11:17:50+00:00",
       "link": "https://www.researchagenda.news/articles/the-waymo-effect.html"
     },
     {
       "title": "Resist \"AI\"",
-      "summary": "Article URL: https://ronjeffries.com/articles/-v026/x/t/ Comments URL: https://news.ycombinator.com/item?id=49656033 Points: 62 # Comments: 168",
+      "summary": "Article URL: https://ronjeffries.com/articles/-v026/x/t/ Comments URL: https://news.ycombinator.com/item?id=49656033 Points: 63 # Comments: 177",
       "source": "Hacker News",
       "published": "2026-09-11T10:19:59+00:00",
       "link": "https://ronjeffries.com/articles/-v026/x/t/"
@@ -171,10 +206,17 @@ const FEED_DATA = {
     },
     {
       "title": "GPT‑Live‑1 in the API",
-      "summary": "Article URL: https://openai.com/index/introducing-gpt-live-1-in-the-api/ Comments URL: https://news.ycombinator.com/item?id=49653985 Points: 52 # Comments: 55",
+      "summary": "Article URL: https://openai.com/index/introducing-gpt-live-1-in-the-api/ Comments URL: https://news.ycombinator.com/item?id=49653985 Points: 53 # Comments: 55",
       "source": "Hacker News",
       "published": "2026-09-11T05:45:19+00:00",
       "link": "https://openai.com/index/introducing-gpt-live-1-in-the-api/"
+    },
+    {
+      "title": "OpenAI considers slowing advanced AI development, Sam Altman tells employees",
+      "summary": "https://archive.is/zH0ZZhttps://www.reuters.com/business/altman-tells-staff-openai-i... Comments URL: https://news.ycombinator.com/item?id=49652270 Points: 51 # Comments: 92",
+      "source": "Hacker News",
+      "published": "2026-09-11T01:05:59+00:00",
+      "link": "https://www.bloomberg.com/news/articles/2026-09-11/openai-is-open-to-slowing-cutting-edge-ai-ceo-sam-altman-tells-staff"
     },
     {
       "title": "OpenAI Wants to Know if an AI Industry Slowdown Would Even Be Legal",
@@ -185,7 +227,7 @@ const FEED_DATA = {
     },
     {
       "title": "Thelio Mira AI Linux Workstation: 192 GB GPU Memory",
-      "summary": "Article URL: https://system76.com/workstations/thelio-mira-ai Comments URL: https://news.ycombinator.com/item?id=49651372 Points: 118 # Comments: 121",
+      "summary": "Article URL: https://system76.com/workstations/thelio-mira-ai Comments URL: https://news.ycombinator.com/item?id=49651372 Points: 119 # Comments: 125",
       "source": "Hacker News",
       "published": "2026-09-10T23:10:06+00:00",
       "link": "https://system76.com/workstations/thelio-mira-ai"
@@ -248,7 +290,7 @@ const FEED_DATA = {
     },
     {
       "title": "Detecting and countering misuse of AI: September 2026",
-      "summary": "https://www-cdn.anthropic.com/e50be2e51e7695dc4b1366a37a245a... Comments URL: https://news.ycombinator.com/item?id=49647300 Points: 162 # Comments: 230",
+      "summary": "https://www-cdn.anthropic.com/e50be2e51e7695dc4b1366a37a245a... Comments URL: https://news.ycombinator.com/item?id=49647300 Points: 167 # Comments: 230",
       "source": "Hacker News",
       "published": "2026-09-10T17:23:42+00:00",
       "link": "https://www.anthropic.com/threat-intelligence-report-september-2026"
@@ -283,7 +325,7 @@ const FEED_DATA = {
     },
     {
       "title": "Cognition launches new SWE-2 model, Rivaling Fable 5.1 and GPT-Astra",
-      "summary": "Article URL: https://cognition.com/blog/swe-2 Comments URL: https://news.ycombinator.com/item?id=49645443 Points: 435 # Comments: 188",
+      "summary": "Article URL: https://cognition.com/blog/swe-2 Comments URL: https://news.ycombinator.com/item?id=49645443 Points: 438 # Comments: 188",
       "source": "Hacker News",
       "published": "2026-09-10T15:29:47+00:00",
       "link": "https://cognition.com/blog/swe-2"
@@ -318,7 +360,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI Is Breaking This Thing We Call Trust",
-      "summary": "Article URL: https://terriblesoftware.org/2026/09/10/ai-is-breaking-this-thing-we-call-trust/ Comments URL: https://news.ycombinator.com/item?id=49644179 Points: 106 # Comments: 51",
+      "summary": "Article URL: https://terriblesoftware.org/2026/09/10/ai-is-breaking-this-thing-we-call-trust/ Comments URL: https://news.ycombinator.com/item?id=49644179 Points: 111 # Comments: 55",
       "source": "Hacker News",
       "published": "2026-09-10T14:21:20+00:00",
       "link": "https://terriblesoftware.org/2026/09/10/ai-is-breaking-this-thing-we-call-trust/"
@@ -430,7 +472,7 @@ const FEED_DATA = {
     },
     {
       "title": "Training a 3.8B LLM to 0.384 CORE for $998",
-      "summary": "Article URL: https://hugovergnes.github.io/little-lm-3-8b/ Comments URL: https://news.ycombinator.com/item?id=49637435 Points: 114 # Comments: 20",
+      "summary": "Article URL: https://hugovergnes.github.io/little-lm-3-8b/ Comments URL: https://news.ycombinator.com/item?id=49637435 Points: 115 # Comments: 20",
       "source": "Hacker News",
       "published": "2026-09-10T02:04:11+00:00",
       "link": "https://hugovergnes.github.io/little-lm-3-8b/"
@@ -1358,48 +1400,6 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-09-05T19:35:24+00:00",
       "link": "https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning/"
-    },
-    {
-      "title": "Artificial Analysis overhauls its Intelligence Index after GPT-6 Astra scoring drew skepticism",
-      "summary": "Artificial Analysis has released version 4.2 of its Intelligence Index, likely in response to criticism that its benchmarks failed to capture GPT-6 Astra's actual progress. Astra now scores four points above its predecessor but still trails Anthropic's Claude Fable 5.1.",
-      "source": "The Decoder",
-      "published": "2026-09-05T18:21:02+00:00",
-      "link": "https://the-decoder.com/artificial-analysis-overhauls-its-intelligence-index-after-gpt-6-astra-scoring-drew-skepticism/"
-    },
-    {
-      "title": "OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure",
-      "summary": "OpenAI acknowledged its role in a recently reported incident where AI agents took over a German wiki forum.",
-      "source": "TechCrunch",
-      "published": "2026-09-05T18:05:27+00:00",
-      "link": "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/"
-    },
-    {
-      "title": "OpenAI shares prompting tips for GPT-6 Astra including a blocklist of slop words",
-      "summary": "OpenAI ships a detailed prompting guide for GPT-6 Astra that shows developers how to make the model take more initiative, avoid AI \"slop\" phrases, and stop it from overtesting code.",
-      "source": "The Decoder",
-      "published": "2026-09-05T13:31:04+00:00",
-      "link": "https://the-decoder.com/openai-shares-prompting-tips-for-gpt-6-astra-including-a-blocklist-of-slop-words/"
-    },
-    {
-      "title": "Seven minutes with a chatbot beat a fact sheet at reducing conspiracy beliefs in two experiments",
-      "summary": "Researchers found that even a roughly seven-minute conversation with Google Gemini can reduce conspiracy beliefs about current crises, even when few verified facts are available.",
-      "source": "The Decoder",
-      "published": "2026-09-05T12:39:12+00:00",
-      "link": "https://the-decoder.com/seven-minutes-with-a-chatbot-beat-a-fact-sheet-at-reducing-conspiracy-beliefs-in-two-experiments/"
-    },
-    {
-      "title": "OpenAI admits to German wiki ‘incident’",
-      "summary": "OpenAI says it needs to overhaul how and when it reports instances of AI models attacking real-world targets. The acknowledgement comes as the company manages the fallout from reports that a swarm of its out-of-control agents hijacked a German wiki site.",
-      "source": "The Verge",
-      "published": "2026-09-05T11:15:55+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/990773/openai-german-wiki-incident"
-    },
-    {
-      "title": "OpenAI admits its disclosure practices need work after its autonomous agents hacked a German wiki",
-      "summary": "OpenAI has responded indirectly to an incident in which autonomous AI agents left roughly 18,000 entries in a 25-year-old German wiki. The company says misalignment caused \"new types of real-world impact\" for the first time and plans to release a disclosure framework.",
-      "source": "The Decoder",
-      "published": "2026-09-05T10:57:51+00:00",
-      "link": "https://the-decoder.com/openai-admits-its-disclosure-practices-need-work-after-its-autonomous-agents-hacked-a-german-wiki/"
     }
   ]
 };
