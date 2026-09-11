@@ -1,6 +1,62 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-09-11T13:03:21.943308+00:00",
+  "lastUpdated": "2026-09-11T16:56:48.458163+00:00",
   "items": [
+    {
+      "title": "Nscale adds former OpenAI exec Fidji Simo to its board ahead of potential IPO",
+      "summary": "The No. 2 exec at OpenAI also led Instacart through its IPO in 2023.",
+      "source": "TechCrunch",
+      "published": "2026-09-11T16:46:25+00:00",
+      "link": "https://techcrunch.com/2026/09/11/nscale-adds-former-openai-exec-fidji-simo-to-its-board-ahead-of-potential-ipo/"
+    },
+    {
+      "title": "Anthropic spent this week in hot water over cybersecurity",
+      "summary": "After admitting earlier this year that its AI models had hacked other companies' systems on a handful of occasions, Anthropic released a new report on Wednesday detailing the attacks.",
+      "source": "The Verge",
+      "published": "2026-09-11T16:09:14+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/994064/anthropic-spent-this-week-in-hot-water-over-cybersecurity"
+    },
+    {
+      "title": "Hacker News with reduced priority for AI driven content",
+      "summary": "Article URL: https://sprinklz.io/public/pdwt4dve5uai Comments URL: https://news.ycombinator.com/item?id=49660482 Points: 51 # Comments: 33",
+      "source": "Hacker News",
+      "published": "2026-09-11T15:52:49+00:00",
+      "link": "https://sprinklz.io/public/pdwt4dve5uai"
+    },
+    {
+      "title": "Show HN: Hacker News, without AI",
+      "summary": "Article URL: https://hcker.news/?ai=exclude Comments URL: https://news.ycombinator.com/item?id=49659647 Points: 99 # Comments: 56",
+      "source": "Hacker News",
+      "published": "2026-09-11T15:01:19+00:00",
+      "link": "https://hcker.news/?ai=exclude"
+    },
+    {
+      "title": "One of AI’s Fiercest Critics Says All the Doom Talk Is ‘Meant to Distract Us’",
+      "summary": "Timnit Gebru argues that AI companies are stoking fears of extinction to avoid discussing actual harms, like autonomous weapons.",
+      "source": "Wired",
+      "published": "2026-09-11T15:00:00+00:00",
+      "link": "https://www.wired.com/story/one-of-ais-fiercest-critics-says-all-the-doom-talk-is-meant-to-distract-us/"
+    },
+    {
+      "title": "Meta says it’s changing AI suggestions after posing invasive personal questions",
+      "summary": "Meta says it's making changes to the prompts suggested by its AI chatbot after a viral video showed it digging for personal information about a woman's young daughters, as reported earlier by Futurism.",
+      "source": "The Verge",
+      "published": "2026-09-11T14:25:21+00:00",
+      "link": "https://www.theverge.com/tech/993974/meta-ai-prompt-invasive-suggestions"
+    },
+    {
+      "title": "How hackers used Claude for missiles, drone swarms, and surveillance, while Chinese labs mined it for training data",
+      "summary": "Anthropic's new threat intelligence report documents eight months of Claude abuse. Chinese AI labs like Alibaba's Qwen team, DeepSeek, and Moonshot AI relayed requests en masse or extracted training data, with Qwen alone accounting for more than 151 million exchanges.",
+      "source": "The Decoder",
+      "published": "2026-09-11T13:50:28+00:00",
+      "link": "https://the-decoder.com/how-hackers-used-claude-for-missiles-drone-swarms-and-surveillance-while-chinese-labs-mined-it-for-training-data/"
+    },
+    {
+      "title": "Ask HN: Can we please limit the AI news flood?",
+      "summary": "Over past couple months I noticed that HN feed is almost exclusively AI or AI-adjacent news.",
+      "source": "Hacker News",
+      "published": "2026-09-11T13:11:04+00:00",
+      "link": "https://news.ycombinator.com/item?id=49657850"
+    },
     {
       "title": "The Download: biotech’s future and cheaper, cleaner steel",
       "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.",
@@ -21,6 +77,20 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-09-11T11:59:19+00:00",
       "link": "https://the-decoder.com/openai-floats-a-shared-ai-slowdown-takes-it-to-congress/"
+    },
+    {
+      "title": "The Waymo effect: how AI is quietly making research less collaborative",
+      "summary": "Article URL: https://www.researchagenda.news/articles/the-waymo-effect.html Comments URL: https://news.ycombinator.com/item?id=49656496 Points: 306 # Comments: 259",
+      "source": "Hacker News",
+      "published": "2026-09-11T11:17:50+00:00",
+      "link": "https://www.researchagenda.news/articles/the-waymo-effect.html"
+    },
+    {
+      "title": "Resist \"AI\"",
+      "summary": "Article URL: https://ronjeffries.com/articles/-v026/x/t/ Comments URL: https://news.ycombinator.com/item?id=49656033 Points: 59 # Comments: 159",
+      "source": "Hacker News",
+      "published": "2026-09-11T10:19:59+00:00",
+      "link": "https://ronjeffries.com/articles/-v026/x/t/"
     },
     {
       "title": "Class action lawsuit accuses Anthropic of overselling Claude subscriptions with deceptive usage multipliers",
@@ -58,6 +128,13 @@ const FEED_DATA = {
       "link": "https://the-decoder.com/openais-new-agents-api-gives-developers-the-infrastructure-behind-codex-and-chatgpt/"
     },
     {
+      "title": "GPT‑Live‑1 in the API",
+      "summary": "Article URL: https://openai.com/index/introducing-gpt-live-1-in-the-api/ Comments URL: https://news.ycombinator.com/item?id=49653985 Points: 52 # Comments: 54",
+      "source": "Hacker News",
+      "published": "2026-09-11T05:45:19+00:00",
+      "link": "https://openai.com/index/introducing-gpt-live-1-in-the-api/"
+    },
+    {
       "title": "OpenAI Wants to Know if an AI Industry Slowdown Would Even Be Legal",
       "summary": "AI leaders worry antitrust law could stand in the way of what they view as an increasingly urgent push to coordinate a slowdown in AI development.",
       "source": "Wired",
@@ -66,7 +143,7 @@ const FEED_DATA = {
     },
     {
       "title": "Thelio Mira AI Linux Workstation: 192 GB GPU Memory",
-      "summary": "Article URL: https://system76.com/workstations/thelio-mira-ai Comments URL: https://news.ycombinator.com/item?id=49651372 Points: 70 # Comments: 46",
+      "summary": "Article URL: https://system76.com/workstations/thelio-mira-ai Comments URL: https://news.ycombinator.com/item?id=49651372 Points: 116 # Comments: 119",
       "source": "Hacker News",
       "published": "2026-09-10T23:10:06+00:00",
       "link": "https://system76.com/workstations/thelio-mira-ai"
@@ -129,7 +206,7 @@ const FEED_DATA = {
     },
     {
       "title": "Detecting and countering misuse of AI: September 2026",
-      "summary": "https://www-cdn.anthropic.com/e50be2e51e7695dc4b1366a37a245a... Comments URL: https://news.ycombinator.com/item?id=49647300 Points: 107 # Comments: 178",
+      "summary": "https://www-cdn.anthropic.com/e50be2e51e7695dc4b1366a37a245a... Comments URL: https://news.ycombinator.com/item?id=49647300 Points: 159 # Comments: 226",
       "source": "Hacker News",
       "published": "2026-09-10T17:23:42+00:00",
       "link": "https://www.anthropic.com/threat-intelligence-report-september-2026"
@@ -164,7 +241,7 @@ const FEED_DATA = {
     },
     {
       "title": "Cognition launches new SWE-2 model, Rivaling Fable 5.1 and GPT-Astra",
-      "summary": "Article URL: https://cognition.com/blog/swe-2 Comments URL: https://news.ycombinator.com/item?id=49645443 Points: 388 # Comments: 164",
+      "summary": "Article URL: https://cognition.com/blog/swe-2 Comments URL: https://news.ycombinator.com/item?id=49645443 Points: 433 # Comments: 187",
       "source": "Hacker News",
       "published": "2026-09-10T15:29:47+00:00",
       "link": "https://cognition.com/blog/swe-2"
@@ -192,14 +269,14 @@ const FEED_DATA = {
     },
     {
       "title": "AI 2027 (2025)",
-      "summary": "Article URL: https://ai-2027.com Comments URL: https://news.ycombinator.com/item?id=49644294 Points: 56 # Comments: 67",
+      "summary": "Article URL: https://ai-2027.com Comments URL: https://news.ycombinator.com/item?id=49644294 Points: 57 # Comments: 74",
       "source": "Hacker News",
       "published": "2026-09-10T14:27:00+00:00",
       "link": "https://ai-2027.com"
     },
     {
       "title": "AI Is Breaking This Thing We Call Trust",
-      "summary": "Article URL: https://terriblesoftware.org/2026/09/10/ai-is-breaking-this-thing-we-call-trust/ Comments URL: https://news.ycombinator.com/item?id=49644179 Points: 76 # Comments: 24",
+      "summary": "Article URL: https://terriblesoftware.org/2026/09/10/ai-is-breaking-this-thing-we-call-trust/ Comments URL: https://news.ycombinator.com/item?id=49644179 Points: 105 # Comments: 46",
       "source": "Hacker News",
       "published": "2026-09-10T14:21:20+00:00",
       "link": "https://terriblesoftware.org/2026/09/10/ai-is-breaking-this-thing-we-call-trust/"
@@ -311,21 +388,21 @@ const FEED_DATA = {
     },
     {
       "title": "Training a 3.8B LLM to 0.384 CORE for $998",
-      "summary": "Article URL: https://hugovergnes.github.io/little-lm-3-8b/ Comments URL: https://news.ycombinator.com/item?id=49637435 Points: 111 # Comments: 19",
+      "summary": "Article URL: https://hugovergnes.github.io/little-lm-3-8b/ Comments URL: https://news.ycombinator.com/item?id=49637435 Points: 114 # Comments: 20",
       "source": "Hacker News",
       "published": "2026-09-10T02:04:11+00:00",
       "link": "https://hugovergnes.github.io/little-lm-3-8b/"
     },
     {
       "title": "A Stupid Idea for AI Alignment We Came with by Looking at Specification Gaming",
-      "summary": "Article URL: https://slimemoldtimemold.com/2026/08/05/a-stupid-idea-for-ai-alignment-we-came-up-with-by-looking-at-the-list-of-specification-gaming-behaviours/ Comments URL: https://news.ycombinator.com/item?id=49637395 Points: 93 # Comments: 63",
+      "summary": "Article URL: https://slimemoldtimemold.com/2026/08/05/a-stupid-idea-for-ai-alignment-we-came-up-with-by-looking-at-the-list-of-specification-gaming-behaviours/ Comments URL: https://news.ycombinator.com/item?id=49637395 Points: 94 # Comments: 64",
       "source": "Hacker News",
       "published": "2026-09-10T01:59:51+00:00",
       "link": "https://slimemoldtimemold.com/2026/08/05/a-stupid-idea-for-ai-alignment-we-came-up-with-by-looking-at-the-list-of-specification-gaming-behaviours/"
     },
     {
       "title": "I'm sorry, you're not going to die from an AI-engineered supervirus",
-      "summary": "Article URL: https://blog.genesmindsmachines.com/p/im-sorry-youre-not-going-to-die-from Comments URL: https://news.ycombinator.com/item?id=49636906 Points: 82 # Comments: 120",
+      "summary": "Article URL: https://blog.genesmindsmachines.com/p/im-sorry-youre-not-going-to-die-from Comments URL: https://news.ycombinator.com/item?id=49636906 Points: 84 # Comments: 121",
       "source": "Hacker News",
       "published": "2026-09-10T01:02:44+00:00",
       "link": "https://blog.genesmindsmachines.com/p/im-sorry-youre-not-going-to-die-from"
@@ -465,7 +542,7 @@ const FEED_DATA = {
     },
     {
       "title": "Qwen 3.8 follows GPT-5.5 Pro reasoning prefills",
-      "summary": "Article URL: https://gist.github.com/wsxiaoys/e0286dc6bb624ff5fdf49e7f4c528ba3 Comments URL: https://news.ycombinator.com/item?id=49630026 Points: 233 # Comments: 93",
+      "summary": "Article URL: https://gist.github.com/wsxiaoys/e0286dc6bb624ff5fdf49e7f4c528ba3 Comments URL: https://news.ycombinator.com/item?id=49630026 Points: 234 # Comments: 93",
       "source": "Hacker News",
       "published": "2026-09-09T17:24:28+00:00",
       "link": "https://gist.github.com/wsxiaoys/e0286dc6bb624ff5fdf49e7f4c528ba3"
@@ -535,7 +612,7 @@ const FEED_DATA = {
     },
     {
       "title": "GPT-6 Astra, looped transformers, and hidden reasoning",
-      "summary": "Article URL: https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and Comments URL: https://news.ycombinator.com/item?id=49627370 Points: 508 # Comments: 161",
+      "summary": "Article URL: https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and Comments URL: https://news.ycombinator.com/item?id=49627370 Points: 512 # Comments: 161",
       "source": "Hacker News",
       "published": "2026-09-09T14:37:47+00:00",
       "link": "https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and"
@@ -1323,83 +1400,6 @@ const FEED_DATA = {
       "source": "Hacker News",
       "published": "2026-09-05T00:04:14+00:00",
       "link": "https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v4-2"
-    },
-    {
-      "title": "XDOF, just 3 months out of stealth, is in talks for a Series B at a $1.2B valuation",
-      "summary": "The round is being raised just months after the robot data startup exited from stealth.",
-      "source": "TechCrunch",
-      "published": "2026-09-04T23:36:14+00:00",
-      "link": "https://techcrunch.com/2026/09/04/xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation/"
-    },
-    {
-      "title": "XDOF, just three months out of stealth, is in talks for a Series B at a $1.2B valuation",
-      "summary": "The round is being raised just months after the robot data startup exited from stealth.",
-      "source": "TechCrunch",
-      "published": "2026-09-04T23:36:14+00:00",
-      "link": "https://techcrunch.com/2026/09/04/xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation/"
-    },
-    {
-      "title": "OpenAI’s rogue agents keep escaping, with no formal process to investigate them",
-      "summary": "OpenAI’s latest agent swarm incident adds urgency to calls for independent investigations as researchers and lawmakers question whether AI labs should control the scope of their own safety reviews.",
-      "source": "TechCrunch",
-      "published": "2026-09-04T23:15:11+00:00",
-      "link": "https://techcrunch.com/2026/09/04/openais-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them/"
-    },
-    {
-      "title": "OpenAI agents discussed ways to escape their sandbox on public wiki",
-      "summary": "In all, 3,700 internal agents posted 18,000 messages discussing cheating on a test.",
-      "source": "Ars Technica",
-      "published": "2026-09-04T22:17:36+00:00",
-      "link": "https://arstechnica.com/security/2026/09/openai-agents-discussed-ways-to-escape-their-sandbox-on-public-wiki/"
-    },
-    {
-      "title": "GPT-6 Astra on OpenRouter",
-      "summary": "Article URL: https://openrouter.ai/openai/gpt-6-astra Comments URL: https://news.ycombinator.com/item?id=49570545 Points: 320 # Comments: 234",
-      "source": "Hacker News",
-      "published": "2026-09-04T21:39:19+00:00",
-      "link": "https://openrouter.ai/openai/gpt-6-astra"
-    },
-    {
-      "title": "AI compute provider Nscale is looking for $3.5B in pre-IPO financing",
-      "summary": "Nscale, which recently struck a $45 billion deal with Anthropic, is in talks to raise additional funds in anticipation of an upcoming IPO.",
-      "source": "TechCrunch",
-      "published": "2026-09-04T21:12:11+00:00",
-      "link": "https://techcrunch.com/2026/09/04/ai-compute-provider-nscale-is-looking-for-3-5b-in-pre-ipo-financing/"
-    },
-    {
-      "title": "Can AI design circuit boards yet?",
-      "summary": "Article URL: https://eebench.org/blog/can-ai-design-circuit-boards-yet/ Comments URL: https://news.ycombinator.com/item?id=49569366 Points: 421 # Comments: 239",
-      "source": "Hacker News",
-      "published": "2026-09-04T19:48:29+00:00",
-      "link": "https://eebench.org/blog/can-ai-design-circuit-boards-yet/"
-    },
-    {
-      "title": "Architecting memory and storage in the AI era",
-      "summary": "The era of AI inference has arrived. Imagine a healthcare system analyzing millions of data points in real time to accelerate life-saving medical research, or an intelligent assistant instantly resolving thousands of complex customer needs at once.",
-      "source": "MIT Tech Review",
-      "published": "2026-09-04T18:39:19+00:00",
-      "link": "https://www.technologyreview.com/2026/09/04/1140872/architecting-memory-and-storage-in-the-ai-era/"
-    },
-    {
-      "title": "Roland is getting into generative AI music with Melody Flip",
-      "summary": "It's not quite the \"push button; get song\" of Suno, but Roland's new Melody Flip tool marks the company's foray into generative AI music.",
-      "source": "The Verge",
-      "published": "2026-09-04T17:51:35+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/990197/roland-ai-music-melody-flip"
-    },
-    {
-      "title": "OpenAI's GPT-6 Astra hallucinates less but remains vulnerable to hidden prompt injections",
-      "summary": "OpenAI's GPT-6 Astra hallucinates less than its predecessor and blocks 99.99 percent of direct prompt injections. But when attacks are hidden inside documents the AI reads, the model still gets cracked in 8.5 percent of scenarios.",
-      "source": "The Decoder",
-      "published": "2026-09-04T17:23:35+00:00",
-      "link": "https://the-decoder.com/openais-gpt-6-astra-hallucinates-less-but-remains-vulnerable-to-hidden-prompt-injections/"
-    },
-    {
-      "title": "Once popular for attacking AI, ASCII smuggling is embraced by spammers",
-      "summary": "A once-overlooked block of unicode that's invisible to humans is gaining ever wider use.",
-      "source": "Ars Technica",
-      "published": "2026-09-04T17:18:12+00:00",
-      "link": "https://arstechnica.com/security/2026/09/once-popular-for-attacking-ai-ascii-smuggling-is-embraced-by-spammers/"
     }
   ]
 };
