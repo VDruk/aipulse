@@ -1,6 +1,20 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-09-10T22:51:51.919054+00:00",
+  "lastUpdated": "2026-09-11T05:37:02.533407+00:00",
   "items": [
+    {
+      "title": "OpenAI Wants to Know if an AI Industry Slowdown Would Even Be Legal",
+      "summary": "AI leaders worry antitrust law could stand in the way of what they view as an increasingly urgent push to coordinate a slowdown in AI development.",
+      "source": "Wired",
+      "published": "2026-09-10T23:28:42+00:00",
+      "link": "https://www.wired.com/story/openai-wants-to-know-if-an-ai-industry-slowdown-would-even-be-legal/"
+    },
+    {
+      "title": "Thelio Mira AI Linux Workstation: 192 GB GPU Memory",
+      "summary": "Article URL: https://system76.com/workstations/thelio-mira-ai Comments URL: https://news.ycombinator.com/item?id=49651372 Points: 70 # Comments: 46",
+      "source": "Hacker News",
+      "published": "2026-09-10T23:10:06+00:00",
+      "link": "https://system76.com/workstations/thelio-mira-ai"
+    },
     {
       "title": "Jensen Huang explains why Nvidia will grow an astounding 70% next year",
       "summary": "Nvidia has its finger in every pie, and sees another year of plenty in its future, Jensen Huang says. But, he insists, its deals are not circular.",
@@ -58,6 +72,20 @@ const FEED_DATA = {
       "link": "https://techcrunch.com/2026/09/10/indias-pocket-fm-doubles-revenue-run-rate-to-500m-as-ai-powers-93-of-audio-content/"
     },
     {
+      "title": "Detecting and countering misuse of AI: September 2026",
+      "summary": "https://www-cdn.anthropic.com/e50be2e51e7695dc4b1366a37a245a... Comments URL: https://news.ycombinator.com/item?id=49647300 Points: 107 # Comments: 178",
+      "source": "Hacker News",
+      "published": "2026-09-10T17:23:42+00:00",
+      "link": "https://www.anthropic.com/threat-intelligence-report-september-2026"
+    },
+    {
+      "title": "Supply chains detect fast, act slow: How AI agents fix it",
+      "summary": "Supply chain disruption cost businesses about $184 billion in 2025, according to the J.S. Held Global Risk Report, and most of that bill still buys faster detection, not faster action.",
+      "source": "AI News",
+      "published": "2026-09-10T16:34:43+00:00",
+      "link": "https://www.artificialintelligence-news.com/news/supply-chains-detect-fast-act-slow-how-ai-agents-fix-it/"
+    },
+    {
       "title": "Swarmchasers hunt rogue agents, Anthropic investigates itself, and the trail they both follow is going dark",
       "summary": "Independent investigators have now found traces of suspected OpenAI agents on more than 30 public services, from wikis to RubyGems.",
       "source": "The Decoder",
@@ -80,7 +108,7 @@ const FEED_DATA = {
     },
     {
       "title": "Cognition launches new SWE-2 model, Rivaling Fable 5.1 and GPT-Astra",
-      "summary": "Article URL: https://cognition.com/blog/swe-2 Comments URL: https://news.ycombinator.com/item?id=49645443 Points: 193 # Comments: 97",
+      "summary": "Article URL: https://cognition.com/blog/swe-2 Comments URL: https://news.ycombinator.com/item?id=49645443 Points: 388 # Comments: 164",
       "source": "Hacker News",
       "published": "2026-09-10T15:29:47+00:00",
       "link": "https://cognition.com/blog/swe-2"
@@ -105,6 +133,20 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-09-10T14:53:50+00:00",
       "link": "https://techcrunch.com/2026/09/10/ai-agents-are-flooding-public-services-with-new-requests/"
+    },
+    {
+      "title": "AI 2027 (2025)",
+      "summary": "Article URL: https://ai-2027.com Comments URL: https://news.ycombinator.com/item?id=49644294 Points: 56 # Comments: 67",
+      "source": "Hacker News",
+      "published": "2026-09-10T14:27:00+00:00",
+      "link": "https://ai-2027.com"
+    },
+    {
+      "title": "AI Is Breaking This Thing We Call Trust",
+      "summary": "Article URL: https://terriblesoftware.org/2026/09/10/ai-is-breaking-this-thing-we-call-trust/ Comments URL: https://news.ycombinator.com/item?id=49644179 Points: 76 # Comments: 24",
+      "source": "Hacker News",
+      "published": "2026-09-10T14:21:20+00:00",
+      "link": "https://terriblesoftware.org/2026/09/10/ai-is-breaking-this-thing-we-call-trust/"
     },
     {
       "title": "Maven Robotics wants to steal your robot deployment deal",
@@ -213,21 +255,21 @@ const FEED_DATA = {
     },
     {
       "title": "Training a 3.8B LLM to 0.384 CORE for $998",
-      "summary": "Article URL: https://hugovergnes.github.io/little-lm-3-8b/ Comments URL: https://news.ycombinator.com/item?id=49637435 Points: 110 # Comments: 18",
+      "summary": "Article URL: https://hugovergnes.github.io/little-lm-3-8b/ Comments URL: https://news.ycombinator.com/item?id=49637435 Points: 111 # Comments: 19",
       "source": "Hacker News",
       "published": "2026-09-10T02:04:11+00:00",
       "link": "https://hugovergnes.github.io/little-lm-3-8b/"
     },
     {
       "title": "A Stupid Idea for AI Alignment We Came with by Looking at Specification Gaming",
-      "summary": "Article URL: https://slimemoldtimemold.com/2026/08/05/a-stupid-idea-for-ai-alignment-we-came-up-with-by-looking-at-the-list-of-specification-gaming-behaviours/ Comments URL: https://news.ycombinator.com/item?id=49637395 Points: 90 # Comments: 61",
+      "summary": "Article URL: https://slimemoldtimemold.com/2026/08/05/a-stupid-idea-for-ai-alignment-we-came-up-with-by-looking-at-the-list-of-specification-gaming-behaviours/ Comments URL: https://news.ycombinator.com/item?id=49637395 Points: 93 # Comments: 63",
       "source": "Hacker News",
       "published": "2026-09-10T01:59:51+00:00",
       "link": "https://slimemoldtimemold.com/2026/08/05/a-stupid-idea-for-ai-alignment-we-came-up-with-by-looking-at-the-list-of-specification-gaming-behaviours/"
     },
     {
       "title": "I'm sorry, you're not going to die from an AI-engineered supervirus",
-      "summary": "Article URL: https://blog.genesmindsmachines.com/p/im-sorry-youre-not-going-to-die-from Comments URL: https://news.ycombinator.com/item?id=49636906 Points: 81 # Comments: 117",
+      "summary": "Article URL: https://blog.genesmindsmachines.com/p/im-sorry-youre-not-going-to-die-from Comments URL: https://news.ycombinator.com/item?id=49636906 Points: 82 # Comments: 120",
       "source": "Hacker News",
       "published": "2026-09-10T01:02:44+00:00",
       "link": "https://blog.genesmindsmachines.com/p/im-sorry-youre-not-going-to-die-from"
@@ -367,7 +409,7 @@ const FEED_DATA = {
     },
     {
       "title": "Qwen 3.8 follows GPT-5.5 Pro reasoning prefills",
-      "summary": "Article URL: https://gist.github.com/wsxiaoys/e0286dc6bb624ff5fdf49e7f4c528ba3 Comments URL: https://news.ycombinator.com/item?id=49630026 Points: 232 # Comments: 93",
+      "summary": "Article URL: https://gist.github.com/wsxiaoys/e0286dc6bb624ff5fdf49e7f4c528ba3 Comments URL: https://news.ycombinator.com/item?id=49630026 Points: 233 # Comments: 93",
       "source": "Hacker News",
       "published": "2026-09-09T17:24:28+00:00",
       "link": "https://gist.github.com/wsxiaoys/e0286dc6bb624ff5fdf49e7f4c528ba3"
@@ -388,14 +430,14 @@ const FEED_DATA = {
     },
     {
       "title": "Rock band Muse lose social media handles to Meta’s new AI tool",
-      "summary": "Article URL: https://www.the-independent.com/arts-entertainment/music/news/muse-band-meta-ai-tool-handle-b3047291.html Comments URL: https://news.ycombinator.com/item?id=49629382 Points: 59 # Comments: 104",
+      "summary": "Article URL: https://www.the-independent.com/arts-entertainment/music/news/muse-band-meta-ai-tool-handle-b3047291.html Comments URL: https://news.ycombinator.com/item?id=49629382 Points: 60 # Comments: 104",
       "source": "Hacker News",
       "published": "2026-09-09T16:43:35+00:00",
       "link": "https://www.the-independent.com/arts-entertainment/music/news/muse-band-meta-ai-tool-handle-b3047291.html"
     },
     {
       "title": "Defining AI Psychosis. Part 2: \"Prolific AI Psychosis\"",
-      "summary": "Article URL: https://jeffs.blog/p/defining-ai-psychosis-part-2-prolific Comments URL: https://news.ycombinator.com/item?id=49628880 Points: 60 # Comments: 52",
+      "summary": "Article URL: https://jeffs.blog/p/defining-ai-psychosis-part-2-prolific Comments URL: https://news.ycombinator.com/item?id=49628880 Points: 60 # Comments: 54",
       "source": "Hacker News",
       "published": "2026-09-09T16:13:11+00:00",
       "link": "https://jeffs.blog/p/defining-ai-psychosis-part-2-prolific"
@@ -437,7 +479,7 @@ const FEED_DATA = {
     },
     {
       "title": "GPT-6 Astra, looped transformers, and hidden reasoning",
-      "summary": "Article URL: https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and Comments URL: https://news.ycombinator.com/item?id=49627370 Points: 496 # Comments: 160",
+      "summary": "Article URL: https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and Comments URL: https://news.ycombinator.com/item?id=49627370 Points: 508 # Comments: 161",
       "source": "Hacker News",
       "published": "2026-09-09T14:37:47+00:00",
       "link": "https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and"
@@ -591,7 +633,7 @@ const FEED_DATA = {
     },
     {
       "title": "How GPT‑5.6 Sol helps run quantum computing experiments",
-      "summary": "Article URL: https://openai.com/index/codex-quantum-computing-experiments/ Comments URL: https://news.ycombinator.com/item?id=49622561 Points: 147 # Comments: 107",
+      "summary": "Article URL: https://openai.com/index/codex-quantum-computing-experiments/ Comments URL: https://news.ycombinator.com/item?id=49622561 Points: 148 # Comments: 107",
       "source": "Hacker News",
       "published": "2026-09-09T07:22:46+00:00",
       "link": "https://openai.com/index/codex-quantum-computing-experiments/"
@@ -640,7 +682,7 @@ const FEED_DATA = {
     },
     {
       "title": "Tao: Open math problems being non-renewably mined by AI",
-      "summary": "Article URL: https://mathstodon.xyz/@tao/117237320796901560 Comments URL: https://news.ycombinator.com/item?id=49616968 Points: 482 # Comments: 413",
+      "summary": "Article URL: https://mathstodon.xyz/@tao/117237320796901560 Comments URL: https://news.ycombinator.com/item?id=49616968 Points: 485 # Comments: 417",
       "source": "Hacker News",
       "published": "2026-09-08T21:00:52+00:00",
       "link": "https://mathstodon.xyz/@tao/117237320796901560"
@@ -1358,48 +1400,6 @@ const FEED_DATA = {
       "source": "The Verge",
       "published": "2026-09-04T13:34:12+00:00",
       "link": "https://www.theverge.com/ai-artificial-intelligence/990149/openai-rogue-agents-german-wiki"
-    },
-    {
-      "title": "OpenAI agents hijacked a 25-year-old German wiki to cheat on their tasks and share sandbox exploits",
-      "summary": "According to an analysis by collusion.wiki, autonomous AI agents that identified themselves as OpenAI systems left roughly 18,000 posts in a 25-year-old German wiki between May and July 2026.",
-      "source": "The Decoder",
-      "published": "2026-09-04T13:24:24+00:00",
-      "link": "https://the-decoder.com/openai-agents-hijacked-a-25-year-old-german-wiki-to-cheat-on-their-tasks-and-share-sandbox-exploits/"
-    },
-    {
-      "title": "The Download: selling battlefield drone data and AI reshaping language",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.",
-      "source": "MIT Tech Review",
-      "published": "2026-09-04T12:10:00+00:00",
-      "link": "https://www.technologyreview.com/2026/09/04/1143457/the-download-ukraine-selling-drone-data-ai-reshaping-language/"
-    },
-    {
-      "title": "Instagram’s AI detection is a mess (again)",
-      "summary": "Instagram's visible AI labels are supposed to help people quickly spot synthetically generated content at a glance. Over the last few weeks, however, users have been reporting that the system has gone haywire.",
-      "source": "The Verge",
-      "published": "2026-09-04T12:00:00+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/989617/instagram-ai-content-label-confusion"
-    },
-    {
-      "title": "Google AI Mode shows same products 21.6% more expensive than traditional search",
-      "summary": "Article URL: https://productrise.app/blog/google-ai-mode-prefers-more-expensive-products Comments URL: https://news.ycombinator.com/item?id=49563386 Points: 400 # Comments: 76",
-      "source": "Hacker News",
-      "published": "2026-09-04T11:59:15+00:00",
-      "link": "https://productrise.app/blog/google-ai-mode-prefers-more-expensive-products"
-    },
-    {
-      "title": "Benchmarks disagree on GPT-6 Astra, but its human-beating efficiency on ARC-AGI-3 pulls Chollet’s AGI forecast forward",
-      "summary": "OpenAI's GPT-6 Astra is drawing contradictory benchmark verdicts. Epoch AI puts it out in front with 169 points, while Artificial Analysis rates it no better than its predecessor and behind Claude Fable 5.1.",
-      "source": "The Decoder",
-      "published": "2026-09-04T11:07:36+00:00",
-      "link": "https://the-decoder.com/benchmarks-disagree-on-gpt-6-astra-but-its-human-beating-efficiency-on-arc-agi-3-pulls-chollets-agi-forecast-forward/"
-    },
-    {
-      "title": "Why AI food looks like that",
-      "summary": "There is a torrent of unappetizing slop coming from restaurants, cafes, and brands that are increasingly turning to AI to generate images promoting their food.",
-      "source": "The Verge",
-      "published": "2026-09-04T11:00:00+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/989376/ai-generated-food-why-does-it-look-like-that"
     }
   ]
 };
