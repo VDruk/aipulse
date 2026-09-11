@@ -1,6 +1,34 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-09-11T09:24:26.305849+00:00",
+  "lastUpdated": "2026-09-11T13:03:21.943308+00:00",
   "items": [
+    {
+      "title": "The Download: biotech’s future and cheaper, cleaner steel",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.",
+      "source": "MIT Tech Review",
+      "published": "2026-09-11T12:10:00+00:00",
+      "link": "https://www.technologyreview.com/2026/09/11/1143879/the-download-biotech-future-cheaper-cleaner-steel/"
+    },
+    {
+      "title": "Palantir Foundry and cuOpt drive NVIDIA supply chain allocation",
+      "summary": "NVIDIA is using Palantir Foundry and cuOpt to automate its hardware supply chain allocation decisions across global manufacturing sites. The company measures operational delivery from wafer-out to first token.",
+      "source": "AI News",
+      "published": "2026-09-11T12:00:18+00:00",
+      "link": "https://www.artificialintelligence-news.com/news/palantir-foundry-cuopt-nvidia-supply-chain-allocation/"
+    },
+    {
+      "title": "OpenAI floats a shared AI slowdown, takes it to Congress",
+      "summary": "OpenAI wants to know from members of Congress whether an industry-wide slowdown in AI development would be legal, according to several people familiar with the matter. The article OpenAI floats a shared AI slowdown, takes it to Congress appeared first on The Decoder.",
+      "source": "The Decoder",
+      "published": "2026-09-11T11:59:19+00:00",
+      "link": "https://the-decoder.com/openai-floats-a-shared-ai-slowdown-takes-it-to-congress/"
+    },
+    {
+      "title": "Class action lawsuit accuses Anthropic of overselling Claude subscriptions with deceptive usage multipliers",
+      "summary": "A class action lawsuit accuses Anthropic of misrepresenting how much Claude subscribers actually get to use the service. The article Class action lawsuit accuses Anthropic of overselling Claude subscriptions with deceptive usage multipliers appeared first on The Decoder.",
+      "source": "The Decoder",
+      "published": "2026-09-11T09:45:58+00:00",
+      "link": "https://the-decoder.com/class-action-lawsuit-accuses-anthropic-of-overselling-claude-subscriptions-with-deceptive-usage-multipliers/"
+    },
     {
       "title": "The Mathematical AI Safety Institute wants to prove AI is safe the way cryptographers prove codes are unbreakable",
       "summary": "Canadian mathematician Jacob Tsimerman, a fresh Fields Medal recipient, has announced the founding of the Mathematical A.I. Safety Institute (MAISI).",
@@ -1372,34 +1400,6 @@ const FEED_DATA = {
       "source": "Ars Technica",
       "published": "2026-09-04T17:18:12+00:00",
       "link": "https://arstechnica.com/security/2026/09/once-popular-for-attacking-ai-ascii-smuggling-is-embraced-by-spammers/"
-    },
-    {
-      "title": "Another swarm of OpenAI agents reached the open internet without the frontier lab’s knowledge",
-      "summary": "It's the latest failure of OpenAI's internal monitoring and security systems.",
-      "source": "TechCrunch",
-      "published": "2026-09-04T16:21:11+00:00",
-      "link": "https://techcrunch.com/2026/09/04/another-swarm-of-openai-agents-reached-the-open-internet-without-the-frontier-labs-knowledge/"
-    },
-    {
-      "title": "Microsoft says virtually nobody was grabbing NYT articles through its chatbot",
-      "summary": "Microsoft's Copilot rarely reproduces even full sentences from news articles and books, let alone substantive chunks that could substitute for the original, the company says in new legal filings as it fights copyright claims from publishers including The New York Times and book...",
-      "source": "The Verge",
-      "published": "2026-09-04T16:05:57+00:00",
-      "link": "https://www.theverge.com/policy/990267/microsoft-openai-new-york-times-authors-lawsuit"
-    },
-    {
-      "title": "Apple’s Ternus era begins as Nvidia bets on the whole AI stack",
-      "summary": "It’s officially the Ternus era at Apple. Tim Cook stepped down as CEO this week, handing the company to former hardware chief John Ternus, whose first memo promised a “huge launch next week” — timing that puts Apple’s next iPhone event on his desk before he’s even settled in.",
-      "source": "TechCrunch",
-      "published": "2026-09-04T16:04:08+00:00",
-      "link": "https://techcrunch.com/podcast/apples-ternus-era-begins-as-nvidia-bets-on-the-whole-ai-stack/"
-    },
-    {
-      "title": "Corporate America is getting hooked on open-source AI",
-      "summary": "https://archive.is/kmOqm Comments URL: https://news.ycombinator.com/item?id=49566137 Points: 331 # Comments: 307",
-      "source": "Hacker News",
-      "published": "2026-09-04T15:33:45+00:00",
-      "link": "https://www.nytimes.com/2026/09/04/technology/open-source-ai-anthropic-openai.html"
     }
   ]
 };
