@@ -1,6 +1,34 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-09-11T05:37:02.533407+00:00",
+  "lastUpdated": "2026-09-11T09:24:26.305849+00:00",
   "items": [
+    {
+      "title": "The Mathematical AI Safety Institute wants to prove AI is safe the way cryptographers prove codes are unbreakable",
+      "summary": "Canadian mathematician Jacob Tsimerman, a fresh Fields Medal recipient, has announced the founding of the Mathematical A.I. Safety Institute (MAISI).",
+      "source": "The Decoder",
+      "published": "2026-09-11T09:15:10+00:00",
+      "link": "https://the-decoder.com/the-mathematical-ai-safety-institute-wants-to-prove-ai-is-safe-the-way-cryptographers-prove-codes-are-unbreakable/"
+    },
+    {
+      "title": "Why So Many AI Researchers Think the Machines Could Kill Everyone",
+      "summary": "A combination of rapid advances, recursive self-improvement, and agentic swarms are genuinely “spooking people” inside big labs.",
+      "source": "Wired",
+      "published": "2026-09-11T09:00:00+00:00",
+      "link": "https://www.wired.com/story/why-so-many-ai-researchers-think-the-machines-could-kill-everyone/"
+    },
+    {
+      "title": "Anthropic's $1.5 billion book settlement descends into chaos as authors and publishers fight over who gets paid",
+      "summary": "Authors and publishers fight over how to split Anthropic's $1.5 billion settlement, the largest copyright deal in US history. The article Anthropic's $1.5 billion book settlement descends into chaos as authors and publishers fight over who gets paid appeared first on The Decoder.",
+      "source": "The Decoder",
+      "published": "2026-09-11T08:40:01+00:00",
+      "link": "https://the-decoder.com/anthropics-1-5-billion-book-settlement-descends-into-chaos-as-authors-and-publishers-fight-over-who-gets-paid/"
+    },
+    {
+      "title": "OpenAI's new Agents API gives developers the infrastructure behind Codex and ChatGPT",
+      "summary": "OpenAI is releasing the Agents API as a public beta. It lets developers build cloud agents that run autonomously for hours, execute code, and hand off tasks to sub-agents.",
+      "source": "The Decoder",
+      "published": "2026-09-11T08:11:46+00:00",
+      "link": "https://the-decoder.com/openais-new-agents-api-gives-developers-the-infrastructure-behind-codex-and-chatgpt/"
+    },
     {
       "title": "OpenAI Wants to Know if an AI Industry Slowdown Would Even Be Legal",
       "summary": "AI leaders worry antitrust law could stand in the way of what they view as an increasingly urgent push to coordinate a slowdown in AI development.",
@@ -1372,34 +1400,6 @@ const FEED_DATA = {
       "source": "Hacker News",
       "published": "2026-09-04T15:33:45+00:00",
       "link": "https://www.nytimes.com/2026/09/04/technology/open-source-ai-anthropic-openai.html"
-    },
-    {
-      "title": "Who Cares if AI Is Conscious—It’s Basically Alive",
-      "summary": "While philosophers ponder AI consciousness, the models have ideas of their own.",
-      "source": "Wired",
-      "published": "2026-09-04T15:00:00+00:00",
-      "link": "https://www.wired.com/story/who-cares-if-ai-is-conscious-its-basically-alive/"
-    },
-    {
-      "title": "Google’s Gemini Spark can now manage your Google Photos library",
-      "summary": "Gemini Spark can edit and curate photo albums, create shared collections, turn photos into calendar events, and handle other Google Photos tasks for AI Pro and Ultra subscribers.",
-      "source": "TechCrunch",
-      "published": "2026-09-04T14:47:11+00:00",
-      "link": "https://techcrunch.com/2026/09/04/googles-gemini-spark-can-now-manage-your-google-photos-library/"
-    },
-    {
-      "title": "Deepseek plans the largest known Huawei chip cluster with 160,000 processors in Inner Mongolia",
-      "summary": "Deepseek wants to put 160,000 Huawei Ascend-950DT chips into an Inner Mongolia data center for inference only, not training. It would be the largest known Huawei chip cluster.",
-      "source": "The Decoder",
-      "published": "2026-09-04T14:19:14+00:00",
-      "link": "https://the-decoder.com/deepseek-plans-the-largest-known-huawei-chip-cluster-with-160000-processors-in-inner-mongolia/"
-    },
-    {
-      "title": "Rogue OpenAI agents appear to have organized another attack using a German wiki",
-      "summary": "A swarm of rogue AI agents from OpenAI reportedly commandeered a German website and transformed it into a messaging board for other agents, with officials staying quiet about the incident for weeks as the company prepared to launch its most advanced model yet, Astra.",
-      "source": "The Verge",
-      "published": "2026-09-04T13:34:12+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/990149/openai-rogue-agents-german-wiki"
     }
   ]
 };
