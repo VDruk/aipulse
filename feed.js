@@ -1,6 +1,20 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-09-11T22:54:51.551364+00:00",
+  "lastUpdated": "2026-09-12T05:24:21.328459+00:00",
   "items": [
+    {
+      "title": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
+      "summary": "The round for the two-year-old startup is coming together months after Mecka announced its Series A.",
+      "source": "TechCrunch",
+      "published": "2026-09-11T22:58:17+00:00",
+      "link": "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/"
+    },
+    {
+      "title": "AI researchers debate how close we are to recursive self-improvement",
+      "summary": "Article URL: https://www.dwarkesh.com/p/john-beren-charlie Comments URL: https://news.ycombinator.com/item?id=49665711 Points: 83 # Comments: 68",
+      "source": "Hacker News",
+      "published": "2026-09-11T21:35:29+00:00",
+      "link": "https://www.dwarkesh.com/p/john-beren-charlie"
+    },
     {
       "title": "Y Combinator’s Garry Tan wants US open-weight AI labs to ‘distill’ frontier models, too",
       "summary": "Tan wants smaller, American open-weight AI labs to use the same kind of training techniques on American frontier AI labs, giving the U.S. a more robust set of open-weight options that aren’t Chinese.",
@@ -59,7 +73,7 @@ const FEED_DATA = {
     },
     {
       "title": "A misalignment of AI in mathematics",
-      "summary": "https://terrytao.wordpress.com/2026/09/11/a-severe-misalignm...https://www.economist.com/science-and-technology/2026/09/11/..., https://unwall.app/www.economist.com/science-and-technology/... Comments URL: https://news.ycombinator.com/item?id=49662371 Points: 491 # Comments: 555",
+      "summary": "https://terrytao.wordpress.com/2026/09/11/a-severe-misalignm...https://www.economist.com/science-and-technology/2026/09/11/..., https://unwall.app/www.economist.com/science-and-technology/... Comments URL: https://news.ycombinator.com/item?id=49662371 Points: 781 # Comments: 776",
       "source": "Hacker News",
       "published": "2026-09-11T17:45:12+00:00",
       "link": "https://mathandai.org/"
@@ -73,7 +87,7 @@ const FEED_DATA = {
     },
     {
       "title": "Feeling Sad about AI",
-      "summary": "Article URL: https://artificialworlds.net/blog/2026/09/11/feeling-sad-about-ai/ Comments URL: https://news.ycombinator.com/item?id=49661506 Points: 163 # Comments: 261",
+      "summary": "Article URL: https://artificialworlds.net/blog/2026/09/11/feeling-sad-about-ai/ Comments URL: https://news.ycombinator.com/item?id=49661506 Points: 170 # Comments: 277",
       "source": "Hacker News",
       "published": "2026-09-11T16:50:51+00:00",
       "link": "https://artificialworlds.net/blog/2026/09/11/feeling-sad-about-ai/"
@@ -94,14 +108,14 @@ const FEED_DATA = {
     },
     {
       "title": "Show HN: Hacker News, Without AI",
-      "summary": "Article URL: https://www.unslop.news/ Comments URL: https://news.ycombinator.com/item?id=49660783 Points: 164 # Comments: 73",
+      "summary": "Article URL: https://www.unslop.news/ Comments URL: https://news.ycombinator.com/item?id=49660783 Points: 179 # Comments: 77",
       "source": "Hacker News",
       "published": "2026-09-11T16:08:50+00:00",
       "link": "https://www.unslop.news/"
     },
     {
       "title": "Hacker News with reduced priority for AI driven content",
-      "summary": "Article URL: https://sprinklz.io/public/pdwt4dve5uai Comments URL: https://news.ycombinator.com/item?id=49660482 Points: 103 # Comments: 54",
+      "summary": "Article URL: https://sprinklz.io/public/pdwt4dve5uai Comments URL: https://news.ycombinator.com/item?id=49660482 Points: 112 # Comments: 54",
       "source": "Hacker News",
       "published": "2026-09-11T15:52:49+00:00",
       "link": "https://sprinklz.io/public/pdwt4dve5uai"
@@ -157,14 +171,14 @@ const FEED_DATA = {
     },
     {
       "title": "The Waymo effect: how AI is quietly making research less collaborative",
-      "summary": "Article URL: https://www.researchagenda.news/articles/the-waymo-effect.html Comments URL: https://news.ycombinator.com/item?id=49656496 Points: 318 # Comments: 292",
+      "summary": "Article URL: https://www.researchagenda.news/articles/the-waymo-effect.html Comments URL: https://news.ycombinator.com/item?id=49656496 Points: 322 # Comments: 295",
       "source": "Hacker News",
       "published": "2026-09-11T11:17:50+00:00",
       "link": "https://www.researchagenda.news/articles/the-waymo-effect.html"
     },
     {
       "title": "Resist \"AI\"",
-      "summary": "Article URL: https://ronjeffries.com/articles/-v026/x/t/ Comments URL: https://news.ycombinator.com/item?id=49656033 Points: 63 # Comments: 177",
+      "summary": "Article URL: https://ronjeffries.com/articles/-v026/x/t/ Comments URL: https://news.ycombinator.com/item?id=49656033 Points: 65 # Comments: 178",
       "source": "Hacker News",
       "published": "2026-09-11T10:19:59+00:00",
       "link": "https://ronjeffries.com/articles/-v026/x/t/"
@@ -206,14 +220,14 @@ const FEED_DATA = {
     },
     {
       "title": "GPT‑Live‑1 in the API",
-      "summary": "Article URL: https://openai.com/index/introducing-gpt-live-1-in-the-api/ Comments URL: https://news.ycombinator.com/item?id=49653985 Points: 53 # Comments: 55",
+      "summary": "Article URL: https://openai.com/index/introducing-gpt-live-1-in-the-api/ Comments URL: https://news.ycombinator.com/item?id=49653985 Points: 54 # Comments: 55",
       "source": "Hacker News",
       "published": "2026-09-11T05:45:19+00:00",
       "link": "https://openai.com/index/introducing-gpt-live-1-in-the-api/"
     },
     {
       "title": "OpenAI considers slowing advanced AI development, Sam Altman tells employees",
-      "summary": "https://archive.is/zH0ZZhttps://www.reuters.com/business/altman-tells-staff-openai-i... Comments URL: https://news.ycombinator.com/item?id=49652270 Points: 51 # Comments: 92",
+      "summary": "https://archive.is/zH0ZZhttps://www.reuters.com/business/altman-tells-staff-openai-i... Comments URL: https://news.ycombinator.com/item?id=49652270 Points: 54 # Comments: 95",
       "source": "Hacker News",
       "published": "2026-09-11T01:05:59+00:00",
       "link": "https://www.bloomberg.com/news/articles/2026-09-11/openai-is-open-to-slowing-cutting-edge-ai-ceo-sam-altman-tells-staff"
@@ -290,7 +304,7 @@ const FEED_DATA = {
     },
     {
       "title": "Detecting and countering misuse of AI: September 2026",
-      "summary": "https://www-cdn.anthropic.com/e50be2e51e7695dc4b1366a37a245a... Comments URL: https://news.ycombinator.com/item?id=49647300 Points: 167 # Comments: 230",
+      "summary": "https://www-cdn.anthropic.com/e50be2e51e7695dc4b1366a37a245a... Comments URL: https://news.ycombinator.com/item?id=49647300 Points: 173 # Comments: 234",
       "source": "Hacker News",
       "published": "2026-09-10T17:23:42+00:00",
       "link": "https://www.anthropic.com/threat-intelligence-report-september-2026"
@@ -325,7 +339,7 @@ const FEED_DATA = {
     },
     {
       "title": "Cognition launches new SWE-2 model, Rivaling Fable 5.1 and GPT-Astra",
-      "summary": "Article URL: https://cognition.com/blog/swe-2 Comments URL: https://news.ycombinator.com/item?id=49645443 Points: 438 # Comments: 188",
+      "summary": "Article URL: https://cognition.com/blog/swe-2 Comments URL: https://news.ycombinator.com/item?id=49645443 Points: 441 # Comments: 188",
       "source": "Hacker News",
       "published": "2026-09-10T15:29:47+00:00",
       "link": "https://cognition.com/blog/swe-2"
@@ -360,7 +374,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI Is Breaking This Thing We Call Trust",
-      "summary": "Article URL: https://terriblesoftware.org/2026/09/10/ai-is-breaking-this-thing-we-call-trust/ Comments URL: https://news.ycombinator.com/item?id=49644179 Points: 111 # Comments: 55",
+      "summary": "Article URL: https://terriblesoftware.org/2026/09/10/ai-is-breaking-this-thing-we-call-trust/ Comments URL: https://news.ycombinator.com/item?id=49644179 Points: 114 # Comments: 61",
       "source": "Hacker News",
       "published": "2026-09-10T14:21:20+00:00",
       "link": "https://terriblesoftware.org/2026/09/10/ai-is-breaking-this-thing-we-call-trust/"
@@ -486,7 +500,7 @@ const FEED_DATA = {
     },
     {
       "title": "I'm sorry, you're not going to die from an AI-engineered supervirus",
-      "summary": "Article URL: https://blog.genesmindsmachines.com/p/im-sorry-youre-not-going-to-die-from Comments URL: https://news.ycombinator.com/item?id=49636906 Points: 84 # Comments: 122",
+      "summary": "Article URL: https://blog.genesmindsmachines.com/p/im-sorry-youre-not-going-to-die-from Comments URL: https://news.ycombinator.com/item?id=49636906 Points: 84 # Comments: 123",
       "source": "Hacker News",
       "published": "2026-09-10T01:02:44+00:00",
       "link": "https://blog.genesmindsmachines.com/p/im-sorry-youre-not-going-to-die-from"
@@ -1386,20 +1400,6 @@ const FEED_DATA = {
       "source": "Hacker News",
       "published": "2026-09-05T22:15:52+00:00",
       "link": "https://github.com/okf-memory/okf-agent-memory"
-    },
-    {
-      "title": "America's two largest school districts impose AI moratoriums",
-      "summary": "Article URL: https://www.techpolicy.press/americas-two-largest-school-districts-impose-ai-moratoriums/ Comments URL: https://news.ycombinator.com/item?id=49580980 Points: 61 # Comments: 74",
-      "source": "Hacker News",
-      "published": "2026-09-05T21:43:22+00:00",
-      "link": "https://www.techpolicy.press/americas-two-largest-school-districts-impose-ai-moratoriums/"
-    },
-    {
-      "title": "Hikers rescued after using Google Gemini for planning",
-      "summary": "The sheriff’s office said the hikers “were advised by Gemini to bring far less food and water than their group required.\"",
-      "source": "TechCrunch",
-      "published": "2026-09-05T19:35:24+00:00",
-      "link": "https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning/"
     }
   ]
 };
