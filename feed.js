@@ -1,6 +1,69 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-09-12T12:26:54.025168+00:00",
+  "lastUpdated": "2026-09-12T16:04:40.865620+00:00",
   "items": [
+    {
+      "title": "Anthropic CEO outlines plan to ‘pace the frontier’",
+      "summary": "What would it actually look like to \"pace the frontier\"?",
+      "source": "TechCrunch",
+      "published": "2026-09-12T15:52:11+00:00",
+      "link": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/"
+    },
+    {
+      "title": "Anthropic CEO Amodei wants AI speed limits before self-improvement outpaces human control",
+      "summary": "Anthropic CEO Dario Amodei is calling for a controlled slowdown in AI development.",
+      "source": "The Decoder",
+      "published": "2026-09-12T15:03:21+00:00",
+      "link": "https://the-decoder.com/anthropic-ceo-amodei-wants-ai-speed-limits-before-self-improvement-outpaces-human-control/"
+    },
+    {
+      "title": "Trump is giving data centers a pass to pollute",
+      "summary": "President Donald Trump is weakening environmental regulations in the name of speeding up the construction of AI data centers, raising health risks for Americans, a cadre of former EPA officials said this week in a briefing and new report.",
+      "source": "The Verge",
+      "published": "2026-09-12T14:41:27+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/994112/ai-data-center-pollution-health-epa"
+    },
+    {
+      "title": "GPT-6 Astra appears to show a \"step change\" in spatial reasoning based on early benchmarks",
+      "summary": "In a new robotics benchmark, GPT-6 Astra shows major gains in spatial understanding. On StationeryBench, the model completed 7 out of 100 tasks with dual-arm robots, while competitor MolmoAct2 couldn't finish a single one.",
+      "source": "The Decoder",
+      "published": "2026-09-12T14:26:09+00:00",
+      "link": "https://the-decoder.com/gpt-6-astra-appears-to-show-a-step-change-in-spatial-reasoning-based-on-early-benchmarks/"
+    },
+    {
+      "title": "Nvidia wants to pour up to $10 billion into Anthropic's record-breaking IPO",
+      "summary": "Nvidia is in talks to invest up to $10 billion in Anthropic's planned IPO, Reuters reports. At a target valuation of $2 trillion, it would be the largest IPO in history.",
+      "source": "The Decoder",
+      "published": "2026-09-12T14:05:18+00:00",
+      "link": "https://the-decoder.com/nvidia-wants-to-pour-up-to-10-billion-into-anthropics-record-breaking-ipo/"
+    },
+    {
+      "title": "LLMs are real, AI is fake",
+      "summary": "Article URL: https://pluralistic.net/2026/09/12/god-in-the-box/ Comments URL: https://news.ycombinator.com/item?id=49672281 Points: 53 # Comments: 22",
+      "source": "Hacker News",
+      "published": "2026-09-12T13:47:28+00:00",
+      "link": "https://pluralistic.net/2026/09/12/god-in-the-box/"
+    },
+    {
+      "title": "AI models' written reasoning steps correspond to distinct internal patterns, a new study finds",
+      "summary": "Reasoning steps like calculation, formula retrieval, and deduction are clearly separable in a model's internal states, especially in the middle layers. That matters for AI safety, because models process more than their visible chain of thought reveals.",
+      "source": "The Decoder",
+      "published": "2026-09-12T13:39:43+00:00",
+      "link": "https://the-decoder.com/ai-models-written-reasoning-steps-correspond-to-distinct-internal-patterns-a-new-study-finds/"
+    },
+    {
+      "title": "GPT-6 Astra needs leaner prompts and fewer guardrails, OpenAI recommends",
+      "summary": "Overly long skill descriptions, blanket reading requirements, and rigid approval rules can get in GPT-6 Astra's way, warns OpenAI's Eric Provencher.",
+      "source": "The Decoder",
+      "published": "2026-09-12T13:10:11+00:00",
+      "link": "https://the-decoder.com/gpt-6-astra-needs-leaner-prompts-and-fewer-guardrails-openai-recommends/"
+    },
+    {
+      "title": "The Worst Spam Emails: Inside iLands' AI Agent Hustle",
+      "summary": "Article URL: https://tedium.co/2026/09/11/ilands-agents-email-spam-kaixin-tang/ Comments URL: https://news.ycombinator.com/item?id=49671159 Points: 66 # Comments: 36",
+      "source": "Hacker News",
+      "published": "2026-09-12T11:13:38+00:00",
+      "link": "https://tedium.co/2026/09/11/ilands-agents-email-spam-kaixin-tang/"
+    },
     {
       "title": "OpenAI just wants to win",
       "summary": "OpenAI has spent the last few years planting flags across the increasingly difficult terrain in mathematics. This week, it claimed one of its biggest prizes yet: a solution to a legendary Millennium Prize problem.",
@@ -37,6 +100,13 @@ const FEED_DATA = {
       "link": "https://the-decoder.com/leading-mathematicians-fear-ai-is-making-their-field-dumber-and-warn-the-rest-of-us-is-next/"
     },
     {
+      "title": "Bernie's AI bill proposes to sentence AI developers to 20 years in prison",
+      "summary": "Article URL: https://twitter.com/venturetwins/status/2098456905526211026 Comments URL: https://news.ycombinator.com/item?id=49667253 Points: 59 # Comments: 56",
+      "source": "Hacker News",
+      "published": "2026-09-12T00:24:36+00:00",
+      "link": "https://twitter.com/venturetwins/status/2098456905526211026"
+    },
+    {
       "title": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
       "summary": "The round for the two-year-old startup is coming together months after Mecka announced its Series A.",
       "source": "TechCrunch",
@@ -45,7 +115,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI researchers debate how close we are to recursive self-improvement",
-      "summary": "Article URL: https://www.dwarkesh.com/p/john-beren-charlie Comments URL: https://news.ycombinator.com/item?id=49665711 Points: 83 # Comments: 68",
+      "summary": "Article URL: https://www.dwarkesh.com/p/john-beren-charlie Comments URL: https://news.ycombinator.com/item?id=49665711 Points: 112 # Comments: 112",
       "source": "Hacker News",
       "published": "2026-09-11T21:35:29+00:00",
       "link": "https://www.dwarkesh.com/p/john-beren-charlie"
@@ -108,7 +178,7 @@ const FEED_DATA = {
     },
     {
       "title": "A misalignment of AI in mathematics",
-      "summary": "https://terrytao.wordpress.com/2026/09/11/a-severe-misalignm...https://www.economist.com/science-and-technology/2026/09/11/..., https://unwall.app/www.economist.com/science-and-technology/... Comments URL: https://news.ycombinator.com/item?id=49662371 Points: 781 # Comments: 776",
+      "summary": "https://terrytao.wordpress.com/2026/09/11/a-severe-misalignm...https://www.economist.com/science-and-technology/2026/09/11/..., https://unwall.app/www.economist.com/science-and-technology/...",
       "source": "Hacker News",
       "published": "2026-09-11T17:45:12+00:00",
       "link": "https://mathandai.org/"
@@ -122,7 +192,7 @@ const FEED_DATA = {
     },
     {
       "title": "Feeling Sad about AI",
-      "summary": "Article URL: https://artificialworlds.net/blog/2026/09/11/feeling-sad-about-ai/ Comments URL: https://news.ycombinator.com/item?id=49661506 Points: 170 # Comments: 277",
+      "summary": "Article URL: https://artificialworlds.net/blog/2026/09/11/feeling-sad-about-ai/ Comments URL: https://news.ycombinator.com/item?id=49661506 Points: 176 # Comments: 297",
       "source": "Hacker News",
       "published": "2026-09-11T16:50:51+00:00",
       "link": "https://artificialworlds.net/blog/2026/09/11/feeling-sad-about-ai/"
@@ -143,14 +213,14 @@ const FEED_DATA = {
     },
     {
       "title": "Show HN: Hacker News, Without AI",
-      "summary": "Article URL: https://www.unslop.news/ Comments URL: https://news.ycombinator.com/item?id=49660783 Points: 179 # Comments: 77",
+      "summary": "Article URL: https://www.unslop.news/ Comments URL: https://news.ycombinator.com/item?id=49660783 Points: 191 # Comments: 79",
       "source": "Hacker News",
       "published": "2026-09-11T16:08:50+00:00",
       "link": "https://www.unslop.news/"
     },
     {
       "title": "Hacker News with reduced priority for AI driven content",
-      "summary": "Article URL: https://sprinklz.io/public/pdwt4dve5uai Comments URL: https://news.ycombinator.com/item?id=49660482 Points: 112 # Comments: 54",
+      "summary": "Article URL: https://sprinklz.io/public/pdwt4dve5uai Comments URL: https://news.ycombinator.com/item?id=49660482 Points: 120 # Comments: 56",
       "source": "Hacker News",
       "published": "2026-09-11T15:52:49+00:00",
       "link": "https://sprinklz.io/public/pdwt4dve5uai"
@@ -206,14 +276,14 @@ const FEED_DATA = {
     },
     {
       "title": "The Waymo effect: how AI is quietly making research less collaborative",
-      "summary": "Article URL: https://www.researchagenda.news/articles/the-waymo-effect.html Comments URL: https://news.ycombinator.com/item?id=49656496 Points: 322 # Comments: 295",
+      "summary": "Article URL: https://www.researchagenda.news/articles/the-waymo-effect.html Comments URL: https://news.ycombinator.com/item?id=49656496 Points: 327 # Comments: 299",
       "source": "Hacker News",
       "published": "2026-09-11T11:17:50+00:00",
       "link": "https://www.researchagenda.news/articles/the-waymo-effect.html"
     },
     {
       "title": "Resist \"AI\"",
-      "summary": "Article URL: https://ronjeffries.com/articles/-v026/x/t/ Comments URL: https://news.ycombinator.com/item?id=49656033 Points: 65 # Comments: 178",
+      "summary": "Article URL: https://ronjeffries.com/articles/-v026/x/t/ Comments URL: https://news.ycombinator.com/item?id=49656033 Points: 65 # Comments: 179",
       "source": "Hacker News",
       "published": "2026-09-11T10:19:59+00:00",
       "link": "https://ronjeffries.com/articles/-v026/x/t/"
@@ -262,7 +332,7 @@ const FEED_DATA = {
     },
     {
       "title": "OpenAI considers slowing advanced AI development, Sam Altman tells employees",
-      "summary": "https://archive.is/zH0ZZhttps://www.reuters.com/business/altman-tells-staff-openai-i... Comments URL: https://news.ycombinator.com/item?id=49652270 Points: 54 # Comments: 95",
+      "summary": "https://archive.is/zH0ZZhttps://www.reuters.com/business/altman-tells-staff-openai-i... Comments URL: https://news.ycombinator.com/item?id=49652270 Points: 58 # Comments: 101",
       "source": "Hacker News",
       "published": "2026-09-11T01:05:59+00:00",
       "link": "https://www.bloomberg.com/news/articles/2026-09-11/openai-is-open-to-slowing-cutting-edge-ai-ceo-sam-altman-tells-staff"
@@ -276,7 +346,7 @@ const FEED_DATA = {
     },
     {
       "title": "Thelio Mira AI Linux Workstation: 192 GB GPU Memory",
-      "summary": "Article URL: https://system76.com/workstations/thelio-mira-ai Comments URL: https://news.ycombinator.com/item?id=49651372 Points: 119 # Comments: 125",
+      "summary": "Article URL: https://system76.com/workstations/thelio-mira-ai Comments URL: https://news.ycombinator.com/item?id=49651372 Points: 120 # Comments: 126",
       "source": "Hacker News",
       "published": "2026-09-10T23:10:06+00:00",
       "link": "https://system76.com/workstations/thelio-mira-ai"
@@ -339,7 +409,7 @@ const FEED_DATA = {
     },
     {
       "title": "Detecting and countering misuse of AI: September 2026",
-      "summary": "https://www-cdn.anthropic.com/e50be2e51e7695dc4b1366a37a245a... Comments URL: https://news.ycombinator.com/item?id=49647300 Points: 173 # Comments: 234",
+      "summary": "https://www-cdn.anthropic.com/e50be2e51e7695dc4b1366a37a245a... Comments URL: https://news.ycombinator.com/item?id=49647300 Points: 179 # Comments: 237",
       "source": "Hacker News",
       "published": "2026-09-10T17:23:42+00:00",
       "link": "https://www.anthropic.com/threat-intelligence-report-september-2026"
@@ -374,7 +444,7 @@ const FEED_DATA = {
     },
     {
       "title": "Cognition launches new SWE-2 model, Rivaling Fable 5.1 and GPT-Astra",
-      "summary": "Article URL: https://cognition.com/blog/swe-2 Comments URL: https://news.ycombinator.com/item?id=49645443 Points: 441 # Comments: 188",
+      "summary": "Article URL: https://cognition.com/blog/swe-2 Comments URL: https://news.ycombinator.com/item?id=49645443 Points: 443 # Comments: 189",
       "source": "Hacker News",
       "published": "2026-09-10T15:29:47+00:00",
       "link": "https://cognition.com/blog/swe-2"
@@ -409,7 +479,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI Is Breaking This Thing We Call Trust",
-      "summary": "Article URL: https://terriblesoftware.org/2026/09/10/ai-is-breaking-this-thing-we-call-trust/ Comments URL: https://news.ycombinator.com/item?id=49644179 Points: 114 # Comments: 61",
+      "summary": "Article URL: https://terriblesoftware.org/2026/09/10/ai-is-breaking-this-thing-we-call-trust/ Comments URL: https://news.ycombinator.com/item?id=49644179 Points: 122 # Comments: 70",
       "source": "Hacker News",
       "published": "2026-09-10T14:21:20+00:00",
       "link": "https://terriblesoftware.org/2026/09/10/ai-is-breaking-this-thing-we-call-trust/"
@@ -1330,76 +1400,6 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-09-06T20:47:37+00:00",
       "link": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/"
-    },
-    {
-      "title": "Travis Kalanick’s Atoms might be getting into the robotaxi business",
-      "summary": "The Uber founder has said that Atoms will allow him to complete \"unfinished business.\"",
-      "source": "TechCrunch",
-      "published": "2026-09-06T16:45:00+00:00",
-      "link": "https://techcrunch.com/2026/09/06/travis-kalanicks-atoms-might-be-getting-into-the-robotaxi-business/"
-    },
-    {
-      "title": "How I feel about AI",
-      "summary": "Article URL: https://beza1e1.tuxen.de/ai_feelings.html Comments URL: https://news.ycombinator.com/item?id=49587128 Points: 163 # Comments: 261",
-      "source": "Hacker News",
-      "published": "2026-09-06T15:00:19+00:00",
-      "link": "https://beza1e1.tuxen.de/ai_feelings.html"
-    },
-    {
-      "title": "I Feel about AI",
-      "summary": "Article URL: https://beza1e1.tuxen.de/ai_feelings.html Comments URL: https://news.ycombinator.com/item?id=49587128 Points: 95 # Comments: 77",
-      "source": "Hacker News",
-      "published": "2026-09-06T15:00:19+00:00",
-      "link": "https://beza1e1.tuxen.de/ai_feelings.html"
-    },
-    {
-      "title": "Chatbots built an \"echo chamber of one\" and now psychiatry has to decide if \"AI psychosis\" exists",
-      "summary": "Researchers at King's College London and other institutions are examining whether \"AI-associated psychosis\" should become a clinical diagnosis. By OpenAI's own self-reported numbers, about 560,000 users show signs of psychosis or mania each week.",
-      "source": "The Decoder",
-      "published": "2026-09-06T11:57:12+00:00",
-      "link": "https://the-decoder.com/chatbots-built-an-echo-chamber-of-one-and-now-psychiatry-has-to-decide-if-ai-psychosis-exists/"
-    },
-    {
-      "title": "Your intellectual fly is open when you use an LLM to author a post (2025)",
-      "summary": "Article URL: https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/ Comments URL: https://news.ycombinator.com/item?id=49585644 Points: 727 # Comments: 433",
-      "source": "Hacker News",
-      "published": "2026-09-06T11:56:43+00:00",
-      "link": "https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/"
-    },
-    {
-      "title": "Google's WeatherNext 3 ditches physics simulations and learns weather directly from live satellite data",
-      "summary": "Google Research and DeepMind are releasing WeatherNext 3, a weather model that skips traditional physics simulations and learns directly from real-time satellite data. It produces hourly forecasts at up to five-kilometer resolution, five times more detailed than its predecessor.",
-      "source": "The Decoder",
-      "published": "2026-09-06T10:36:35+00:00",
-      "link": "https://the-decoder.com/googles-weathernext-3-ditches-physics-simulations-and-learns-weather-directly-from-live-satellite-data/"
-    },
-    {
-      "title": "My Brief Summer Fling With Siri AI",
-      "summary": "I was initially enamored with the beta version of Apple’s revamped smartphone assistant. As the full release approaches, I’ve forgotten Siri AI even exists.",
-      "source": "Wired",
-      "published": "2026-09-06T10:30:00+00:00",
-      "link": "https://www.wired.com/story/my-brief-summer-fling-with-siri-ai/"
-    },
-    {
-      "title": "OpenAI developer claims Astra boosted productivity so much it pulled some plans forward by six months",
-      "summary": "OpenAI developer Thibault Sottiaux calls Astra the company's \"biggest competitive advantage\" while it wasn't publicly available. Internal use boosted productivity so much that some plans got pulled forward by six months.",
-      "source": "The Decoder",
-      "published": "2026-09-06T10:15:17+00:00",
-      "link": "https://the-decoder.com/openai-developer-claims-astra-boosted-productivity-so-much-it-pulled-some-plans-forward-by-six-months/"
-    },
-    {
-      "title": "Google brings AI music generation directly into the Gemini app with its new Lyria 3.5 model",
-      "summary": "Google has released its Lyria 3.5 music model in the Gemini app and via API. The model promises more expressive vocals and richer arrangements and is also available through Flow Music, AI Studio, and Google Vids.",
-      "source": "The Decoder",
-      "published": "2026-09-06T09:56:24+00:00",
-      "link": "https://the-decoder.com/google-brings-ai-music-generation-directly-into-the-gemini-app-with-its-new-lyria-3-5-model/"
-    },
-    {
-      "title": "Meta's new real-time audio model is the foundation for AI assistants that never stop listening",
-      "summary": "Meta's Superintelligence Labs have released Muse Voice Transcribe, a real-time transcription model that processes speech in 80-millisecond chunks, tells speakers apart, and detects sentence boundaries.",
-      "source": "The Decoder",
-      "published": "2026-09-06T09:45:18+00:00",
-      "link": "https://the-decoder.com/metas-new-real-time-audio-model-is-the-foundation-for-ai-assistants-that-never-stop-listening/"
     }
   ]
 };
