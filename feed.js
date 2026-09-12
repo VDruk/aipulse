@@ -1,12 +1,26 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-09-12T16:04:40.865620+00:00",
+  "lastUpdated": "2026-09-12T18:53:42.767475+00:00",
   "items": [
+    {
+      "title": "Anthropic CEO says it’s time to pump the brakes on AI",
+      "summary": "Anthropic CEO Dario Amodei says the time has come to slow down AI development and will give third-party evaluators like METR access to its models to help ensure its \"adherence to safety practices and commitments.\" In a winding essay, Amodei proposed a three-step plan to \"pace...",
+      "source": "The Verge",
+      "published": "2026-09-12T16:23:40+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/994337/anthropic-ceo-slow-down-ai-development"
+    },
     {
       "title": "Anthropic CEO outlines plan to ‘pace the frontier’",
       "summary": "What would it actually look like to \"pace the frontier\"?",
       "source": "TechCrunch",
       "published": "2026-09-12T15:52:11+00:00",
       "link": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/"
+    },
+    {
+      "title": "Nvidia is the central bank of AI",
+      "summary": "https://archive.ph/kt50V Comments URL: https://news.ycombinator.com/item?id=49673098 Points: 199 # Comments: 159",
+      "source": "Hacker News",
+      "published": "2026-09-12T15:08:27+00:00",
+      "link": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai"
     },
     {
       "title": "Anthropic CEO Amodei wants AI speed limits before self-improvement outpaces human control",
@@ -38,7 +52,7 @@ const FEED_DATA = {
     },
     {
       "title": "LLMs are real, AI is fake",
-      "summary": "Article URL: https://pluralistic.net/2026/09/12/god-in-the-box/ Comments URL: https://news.ycombinator.com/item?id=49672281 Points: 53 # Comments: 22",
+      "summary": "Article URL: https://pluralistic.net/2026/09/12/god-in-the-box/ Comments URL: https://news.ycombinator.com/item?id=49672281 Points: 63 # Comments: 29",
       "source": "Hacker News",
       "published": "2026-09-12T13:47:28+00:00",
       "link": "https://pluralistic.net/2026/09/12/god-in-the-box/"
@@ -56,6 +70,13 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-09-12T13:10:11+00:00",
       "link": "https://the-decoder.com/gpt-6-astra-needs-leaner-prompts-and-fewer-guardrails-openai-recommends/"
+    },
+    {
+      "title": "The worst spam emails: iLands AI agent hustle",
+      "summary": "Article URL: https://tedium.co/2026/09/11/ilands-agents-email-spam-kaixin-tang/ Comments URL: https://news.ycombinator.com/item?id=49671159 Points: 80 # Comments: 42",
+      "source": "Hacker News",
+      "published": "2026-09-12T11:13:38+00:00",
+      "link": "https://tedium.co/2026/09/11/ilands-agents-email-spam-kaixin-tang/"
     },
     {
       "title": "The Worst Spam Emails: Inside iLands' AI Agent Hustle",
@@ -101,7 +122,7 @@ const FEED_DATA = {
     },
     {
       "title": "Bernie's AI bill proposes to sentence AI developers to 20 years in prison",
-      "summary": "Article URL: https://twitter.com/venturetwins/status/2098456905526211026 Comments URL: https://news.ycombinator.com/item?id=49667253 Points: 59 # Comments: 56",
+      "summary": "Article URL: https://twitter.com/venturetwins/status/2098456905526211026 Comments URL: https://news.ycombinator.com/item?id=49667253 Points: 61 # Comments: 64",
       "source": "Hacker News",
       "published": "2026-09-12T00:24:36+00:00",
       "link": "https://twitter.com/venturetwins/status/2098456905526211026"
@@ -115,7 +136,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI researchers debate how close we are to recursive self-improvement",
-      "summary": "Article URL: https://www.dwarkesh.com/p/john-beren-charlie Comments URL: https://news.ycombinator.com/item?id=49665711 Points: 112 # Comments: 112",
+      "summary": "Article URL: https://www.dwarkesh.com/p/john-beren-charlie Comments URL: https://news.ycombinator.com/item?id=49665711 Points: 114 # Comments: 115",
       "source": "Hacker News",
       "published": "2026-09-11T21:35:29+00:00",
       "link": "https://www.dwarkesh.com/p/john-beren-charlie"
@@ -140,6 +161,13 @@ const FEED_DATA = {
       "source": "The Verge",
       "published": "2026-09-11T20:44:02+00:00",
       "link": "https://www.theverge.com/ai-artificial-intelligence/994207/chatgpt-new-mexico-lawyer-fined-murder-appeal"
+    },
+    {
+      "title": "Roundtables: Could AI really kill us all?",
+      "summary": "Employees at the world’s leading AI labs are saying there’s a real possibility that advanced AI could destroy humanity. Are they right?",
+      "source": "MIT Tech Review",
+      "published": "2026-09-11T20:05:06+00:00",
+      "link": "https://www.technologyreview.com/2026/09/11/1143936/roundtables-will-ai-really-kill-us-all/"
     },
     {
       "title": "Roundtables: AI’s apocalypse crisis",
@@ -192,7 +220,7 @@ const FEED_DATA = {
     },
     {
       "title": "Feeling Sad about AI",
-      "summary": "Article URL: https://artificialworlds.net/blog/2026/09/11/feeling-sad-about-ai/ Comments URL: https://news.ycombinator.com/item?id=49661506 Points: 176 # Comments: 297",
+      "summary": "Article URL: https://artificialworlds.net/blog/2026/09/11/feeling-sad-about-ai/ Comments URL: https://news.ycombinator.com/item?id=49661506 Points: 176 # Comments: 304",
       "source": "Hacker News",
       "published": "2026-09-11T16:50:51+00:00",
       "link": "https://artificialworlds.net/blog/2026/09/11/feeling-sad-about-ai/"
@@ -213,7 +241,7 @@ const FEED_DATA = {
     },
     {
       "title": "Show HN: Hacker News, Without AI",
-      "summary": "Article URL: https://www.unslop.news/ Comments URL: https://news.ycombinator.com/item?id=49660783 Points: 191 # Comments: 79",
+      "summary": "Article URL: https://www.unslop.news/ Comments URL: https://news.ycombinator.com/item?id=49660783 Points: 191 # Comments: 80",
       "source": "Hacker News",
       "published": "2026-09-11T16:08:50+00:00",
       "link": "https://www.unslop.news/"
@@ -276,14 +304,14 @@ const FEED_DATA = {
     },
     {
       "title": "The Waymo effect: how AI is quietly making research less collaborative",
-      "summary": "Article URL: https://www.researchagenda.news/articles/the-waymo-effect.html Comments URL: https://news.ycombinator.com/item?id=49656496 Points: 327 # Comments: 299",
+      "summary": "Article URL: https://www.researchagenda.news/articles/the-waymo-effect.html Comments URL: https://news.ycombinator.com/item?id=49656496 Points: 328 # Comments: 299",
       "source": "Hacker News",
       "published": "2026-09-11T11:17:50+00:00",
       "link": "https://www.researchagenda.news/articles/the-waymo-effect.html"
     },
     {
       "title": "Resist \"AI\"",
-      "summary": "Article URL: https://ronjeffries.com/articles/-v026/x/t/ Comments URL: https://news.ycombinator.com/item?id=49656033 Points: 65 # Comments: 179",
+      "summary": "Article URL: https://ronjeffries.com/articles/-v026/x/t/ Comments URL: https://news.ycombinator.com/item?id=49656033 Points: 65 # Comments: 180",
       "source": "Hacker News",
       "published": "2026-09-11T10:19:59+00:00",
       "link": "https://ronjeffries.com/articles/-v026/x/t/"
@@ -332,7 +360,7 @@ const FEED_DATA = {
     },
     {
       "title": "OpenAI considers slowing advanced AI development, Sam Altman tells employees",
-      "summary": "https://archive.is/zH0ZZhttps://www.reuters.com/business/altman-tells-staff-openai-i... Comments URL: https://news.ycombinator.com/item?id=49652270 Points: 58 # Comments: 101",
+      "summary": "https://archive.is/zH0ZZhttps://www.reuters.com/business/altman-tells-staff-openai-i... Comments URL: https://news.ycombinator.com/item?id=49652270 Points: 58 # Comments: 102",
       "source": "Hacker News",
       "published": "2026-09-11T01:05:59+00:00",
       "link": "https://www.bloomberg.com/news/articles/2026-09-11/openai-is-open-to-slowing-cutting-edge-ai-ceo-sam-altman-tells-staff"
@@ -346,7 +374,7 @@ const FEED_DATA = {
     },
     {
       "title": "Thelio Mira AI Linux Workstation: 192 GB GPU Memory",
-      "summary": "Article URL: https://system76.com/workstations/thelio-mira-ai Comments URL: https://news.ycombinator.com/item?id=49651372 Points: 120 # Comments: 126",
+      "summary": "Article URL: https://system76.com/workstations/thelio-mira-ai Comments URL: https://news.ycombinator.com/item?id=49651372 Points: 121 # Comments: 127",
       "source": "Hacker News",
       "published": "2026-09-10T23:10:06+00:00",
       "link": "https://system76.com/workstations/thelio-mira-ai"
@@ -409,7 +437,7 @@ const FEED_DATA = {
     },
     {
       "title": "Detecting and countering misuse of AI: September 2026",
-      "summary": "https://www-cdn.anthropic.com/e50be2e51e7695dc4b1366a37a245a... Comments URL: https://news.ycombinator.com/item?id=49647300 Points: 179 # Comments: 237",
+      "summary": "https://www-cdn.anthropic.com/e50be2e51e7695dc4b1366a37a245a... Comments URL: https://news.ycombinator.com/item?id=49647300 Points: 180 # Comments: 238",
       "source": "Hacker News",
       "published": "2026-09-10T17:23:42+00:00",
       "link": "https://www.anthropic.com/threat-intelligence-report-september-2026"
@@ -1372,34 +1400,6 @@ const FEED_DATA = {
       "source": "Hacker News",
       "published": "2026-09-07T04:49:36+00:00",
       "link": "https://github.com/timgordontg/engrim"
-    },
-    {
-      "title": "I refused to train the AI that could replace me",
-      "summary": "Article URL: https://restofworld.org/2026/ai-training-jobs-expert-replacement/ Comments URL: https://news.ycombinator.com/item?id=49593959 Points: 97 # Comments: 114",
-      "source": "Hacker News",
-      "published": "2026-09-07T04:38:22+00:00",
-      "link": "https://restofworld.org/2026/ai-training-jobs-expert-replacement/"
-    },
-    {
-      "title": "Seattle Times and Newsday sue OpenAI and Microsoft for infringement",
-      "summary": "The Seattle Times and Newsday are just the latest plaintiffs to take OpenAI to court, alleging copyright infringement.",
-      "source": "The Verge",
-      "published": "2026-09-06T23:36:04+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/990932/seattle-times-newsday-lawsuit-openai-microsoft"
-    },
-    {
-      "title": "The Microeconomics of Artificial Intelligence (2025)",
-      "summary": "Article URL: https://direct.mit.edu/books/oa-monograph/6067/The-Microeconomics-of-Artificial-Intelligence Comments URL: https://news.ycombinator.com/item?id=49591112 Points: 70 # Comments: 43",
-      "source": "Hacker News",
-      "published": "2026-09-06T21:24:23+00:00",
-      "link": "https://direct.mit.edu/books/oa-monograph/6067/The-Microeconomics-of-Artificial-Intelligence"
-    },
-    {
-      "title": "Authors push back as publishers and agents make claims on Anthropic settlement",
-      "summary": "Authors say publishers seem to be claiming more than their fair share of settlement payments.",
-      "source": "TechCrunch",
-      "published": "2026-09-06T20:47:37+00:00",
-      "link": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/"
     }
   ]
 };
