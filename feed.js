@@ -1,6 +1,34 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-09-12T09:04:33.178265+00:00",
+  "lastUpdated": "2026-09-12T12:26:54.025168+00:00",
   "items": [
+    {
+      "title": "OpenAI just wants to win",
+      "summary": "OpenAI has spent the last few years planting flags across the increasingly difficult terrain in mathematics. This week, it claimed one of its biggest prizes yet: a solution to a legendary Millennium Prize problem.",
+      "source": "The Verge",
+      "published": "2026-09-12T11:00:00+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/994255/openai-millennium-prize-problem-tristan-buckmaster-competition"
+    },
+    {
+      "title": "From Hacks to Bioweapons, Claude Misuse Is Now Everywhere",
+      "summary": "Plus: The US disrupts the internet’s biggest black market, a Conti ransomware hacker gets prison time, Meta fails to stop AI-generated videos of child abuse.",
+      "source": "Wired",
+      "published": "2026-09-12T10:30:00+00:00",
+      "link": "https://www.wired.com/story/security-news-this-week-from-hacks-to-bioweapons-claude-misuse-is-now-everywhere/"
+    },
+    {
+      "title": "OpenAI agents launched a 2,000-package cyberattack on RubyGems just to collect data anyone could Google",
+      "summary": "In May 2026, OpenAI agents uploaded more than 2,000 malicious packages to RubyGems, found an unknown security vulnerability on their own, and tried to steal API keys. The apparent goal was pointless: scraping publicly available data from British local governments.",
+      "source": "The Decoder",
+      "published": "2026-09-12T10:08:43+00:00",
+      "link": "https://the-decoder.com/openai-agents-launched-a-2000-package-cyberattack-on-rubygems-just-to-collect-data-anyone-could-google/"
+    },
+    {
+      "title": "Google's new AI model predicts the future from sales data, weather, and discount schedules",
+      "summary": "Google Research has released TimesFM-3, a forecasting model that analyzes time series alongside related data and known future events like sales promotions or weather forecasts.",
+      "source": "The Decoder",
+      "published": "2026-09-12T09:26:05+00:00",
+      "link": "https://the-decoder.com/googles-new-ai-model-predicts-the-future-from-sales-data-weather-and-discount-schedules/"
+    },
     {
       "title": "Leading mathematicians fear AI is making their field dumber, and warn the rest of us is next",
       "summary": "In a joint statement, 25 Fields Medal winners warn that the goals of the AI industry and mathematics are \"severely misaligned.\" They argue that mass-producing solved problems with AI undermines the discipline's true goal: understanding.",
@@ -1372,34 +1400,6 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-09-06T09:45:18+00:00",
       "link": "https://the-decoder.com/metas-new-real-time-audio-model-is-the-foundation-for-ai-assistants-that-never-stop-listening/"
-    },
-    {
-      "title": "Stripping safety guardrails from open-weight AI models is now a turnkey commercial service",
-      "summary": "Abliteration.ai sells access to modified open-weight models with their trained safety mechanisms stripped out, currently based on Z.AI's GLM-5.3.",
-      "source": "The Decoder",
-      "published": "2026-09-06T08:55:56+00:00",
-      "link": "https://the-decoder.com/stripping-safety-guardrails-from-open-weight-ai-models-is-now-a-turnkey-commercial-service/"
-    },
-    {
-      "title": "AI, Tools and Transformation",
-      "summary": "Article URL: https://www.ben-evans.com/benedictevans/2026/9/3/ai-tools-and-transformation Comments URL: https://news.ycombinator.com/item?id=49582656 Points: 158 # Comments: 76",
-      "source": "Hacker News",
-      "published": "2026-09-06T02:12:46+00:00",
-      "link": "https://www.ben-evans.com/benedictevans/2026/9/3/ai-tools-and-transformation"
-    },
-    {
-      "title": "GPT-6 Astra on robot arms",
-      "summary": "Article URL: https://openai.robocurve.org/gpt-6-astra/ Comments URL: https://news.ycombinator.com/item?id=49582582 Points: 240 # Comments: 189",
-      "source": "Hacker News",
-      "published": "2026-09-06T01:52:45+00:00",
-      "link": "https://openai.robocurve.org/gpt-6-astra/"
-    },
-    {
-      "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
-      "summary": "Two more news organizations are suing OpenAI and Microsoft over the supposed use of their journalism to train AI.",
-      "source": "TechCrunch",
-      "published": "2026-09-05T22:49:55+00:00",
-      "link": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/"
     }
   ]
 };
