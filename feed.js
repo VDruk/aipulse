@@ -1,6 +1,13 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-09-12T05:24:21.328459+00:00",
+  "lastUpdated": "2026-09-12T09:04:33.178265+00:00",
   "items": [
+    {
+      "title": "Leading mathematicians fear AI is making their field dumber, and warn the rest of us is next",
+      "summary": "In a joint statement, 25 Fields Medal winners warn that the goals of the AI industry and mathematics are \"severely misaligned.\" They argue that mass-producing solved problems with AI undermines the discipline's true goal: understanding.",
+      "source": "The Decoder",
+      "published": "2026-09-12T08:28:53+00:00",
+      "link": "https://the-decoder.com/leading-mathematicians-fear-ai-is-making-their-field-dumber-and-warn-the-rest-of-us-is-next/"
+    },
     {
       "title": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
       "summary": "The round for the two-year-old startup is coming together months after Mecka announced its Series A.",
@@ -1393,13 +1400,6 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-09-05T22:49:55+00:00",
       "link": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/"
-    },
-    {
-      "title": "OKF Agent Memory – Git-native persistent memory for AI coding agents",
-      "summary": "Article URL: https://github.com/okf-memory/okf-agent-memory Comments URL: https://news.ycombinator.com/item?id=49581240 Points: 79 # Comments: 32",
-      "source": "Hacker News",
-      "published": "2026-09-05T22:15:52+00:00",
-      "link": "https://github.com/okf-memory/okf-agent-memory"
     }
   ]
 };
