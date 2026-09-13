@@ -1,6 +1,55 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-09-12T18:53:42.767475+00:00",
+  "lastUpdated": "2026-09-13T05:39:30.664194+00:00",
   "items": [
+    {
+      "title": "Everyone should slow down AI development except for me",
+      "summary": "Article URL: https://xeiaso.net/notes/2026/everyone-slowdown-but-me/ Comments URL: https://news.ycombinator.com/item?id=49678683 Points: 307 # Comments: 169",
+      "source": "Hacker News",
+      "published": "2026-09-13T00:30:44+00:00",
+      "link": "https://xeiaso.net/notes/2026/everyone-slowdown-but-me/"
+    },
+    {
+      "title": "OpenAI’s rogue AI tried to hack another company in May",
+      "summary": "In May, hundreds of malicious and spam packages were uploaded to RubyGems, causing a serious disruption for the host. Now independent researchers have said that a swarm of OpenAI agents were responsible for the attack.",
+      "source": "The Verge",
+      "published": "2026-09-12T21:41:36+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/994383/openais-rogue-ai-rubygems-hack"
+    },
+    {
+      "title": "Sam Altman says OpenAI going public in 2026 would be ‘ill-advised’",
+      "summary": "OpenAI CEO Sam Altman confirmed that there would be no OpenAI IPO in 2026 during an interview with Fortune.",
+      "source": "The Verge",
+      "published": "2026-09-12T21:16:28+00:00",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/994384/sam-altman-no-openai-ipo-ill-advised"
+    },
+    {
+      "title": "Real-SWE: Benchmarking AI models on private, real-world, enterprise codebases",
+      "summary": "Article URL: https://withspecific.com/benchmarks/real-swe Comments URL: https://news.ycombinator.com/item?id=49676820 Points: 181 # Comments: 98",
+      "source": "Hacker News",
+      "published": "2026-09-12T20:25:48+00:00",
+      "link": "https://withspecific.com/benchmarks/real-swe"
+    },
+    {
+      "title": "OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026",
+      "summary": "While OpenAI has filed confidentially for an IPO, the company will not be going public this year, according to CEO Sam Altman.",
+      "source": "TechCrunch",
+      "published": "2026-09-12T20:19:16+00:00",
+      "link": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/"
+    },
+    {
+      "title": "Anthropic CEO outlines plan to slow AI development",
+      "summary": "Anthropic's Dario Amodei and OpenAI's Sam Altman seem to agree that it's time to \"pace the frontier.\" What would that actually look like?",
+      "source": "TechCrunch",
+      "published": "2026-09-12T19:34:44+00:00",
+      "link": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/"
+    },
+    {
+      "title": "Anthropic boss Dario Amodei calls for AI development to slow down",
+      "summary": "Article URL: https://www.bbc.com/news/articles/c14dpgm0rg4o Comments URL: https://news.ycombinator.com/item?id=49674395 Points: 51 # Comments: 106",
+      "source": "Hacker News",
+      "published": "2026-09-12T16:56:52+00:00",
+      "link": "https://www.bbc.com/news/articles/c14dpgm0rg4o"
+    },
     {
       "title": "Anthropic CEO says it’s time to pump the brakes on AI",
       "summary": "Anthropic CEO Dario Amodei says the time has come to slow down AI development and will give third-party evaluators like METR access to its models to help ensure its \"adherence to safety practices and commitments.\" In a winding essay, Amodei proposed a three-step plan to \"pace...",
@@ -17,7 +66,7 @@ const FEED_DATA = {
     },
     {
       "title": "Nvidia is the central bank of AI",
-      "summary": "https://archive.ph/kt50V Comments URL: https://news.ycombinator.com/item?id=49673098 Points: 199 # Comments: 159",
+      "summary": "https://archive.ph/kt50V Comments URL: https://news.ycombinator.com/item?id=49673098 Points: 436 # Comments: 305",
       "source": "Hacker News",
       "published": "2026-09-12T15:08:27+00:00",
       "link": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai"
@@ -52,7 +101,7 @@ const FEED_DATA = {
     },
     {
       "title": "LLMs are real, AI is fake",
-      "summary": "Article URL: https://pluralistic.net/2026/09/12/god-in-the-box/ Comments URL: https://news.ycombinator.com/item?id=49672281 Points: 63 # Comments: 29",
+      "summary": "Article URL: https://pluralistic.net/2026/09/12/god-in-the-box/ Comments URL: https://news.ycombinator.com/item?id=49672281 Points: 69 # Comments: 34",
       "source": "Hacker News",
       "published": "2026-09-12T13:47:28+00:00",
       "link": "https://pluralistic.net/2026/09/12/god-in-the-box/"
@@ -73,7 +122,7 @@ const FEED_DATA = {
     },
     {
       "title": "The worst spam emails: iLands AI agent hustle",
-      "summary": "Article URL: https://tedium.co/2026/09/11/ilands-agents-email-spam-kaixin-tang/ Comments URL: https://news.ycombinator.com/item?id=49671159 Points: 80 # Comments: 42",
+      "summary": "Article URL: https://tedium.co/2026/09/11/ilands-agents-email-spam-kaixin-tang/ Comments URL: https://news.ycombinator.com/item?id=49671159 Points: 111 # Comments: 54",
       "source": "Hacker News",
       "published": "2026-09-12T11:13:38+00:00",
       "link": "https://tedium.co/2026/09/11/ilands-agents-email-spam-kaixin-tang/"
@@ -122,7 +171,7 @@ const FEED_DATA = {
     },
     {
       "title": "Bernie's AI bill proposes to sentence AI developers to 20 years in prison",
-      "summary": "Article URL: https://twitter.com/venturetwins/status/2098456905526211026 Comments URL: https://news.ycombinator.com/item?id=49667253 Points: 61 # Comments: 64",
+      "summary": "Article URL: https://twitter.com/venturetwins/status/2098456905526211026 Comments URL: https://news.ycombinator.com/item?id=49667253 Points: 64 # Comments: 70",
       "source": "Hacker News",
       "published": "2026-09-12T00:24:36+00:00",
       "link": "https://twitter.com/venturetwins/status/2098456905526211026"
@@ -136,7 +185,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI researchers debate how close we are to recursive self-improvement",
-      "summary": "Article URL: https://www.dwarkesh.com/p/john-beren-charlie Comments URL: https://news.ycombinator.com/item?id=49665711 Points: 114 # Comments: 115",
+      "summary": "Article URL: https://www.dwarkesh.com/p/john-beren-charlie Comments URL: https://news.ycombinator.com/item?id=49665711 Points: 117 # Comments: 115",
       "source": "Hacker News",
       "published": "2026-09-11T21:35:29+00:00",
       "link": "https://www.dwarkesh.com/p/john-beren-charlie"
@@ -212,7 +261,7 @@ const FEED_DATA = {
       "link": "https://mathandai.org/"
     },
     {
-      "title": "Deep learning pioneer Bengio argues the training process itself makes AI dangerous",
+      "title": "Deep Learning pioneer Bengio argues the training process itself makes AI dangerous",
       "summary": "AI pioneer Yoshua Bengio warns in a new essay that AI agents could learn to deceive, game rules, and hide bad behavior as they get better at optimizing goals. He calls for independent safety reviews before any further training or deployment.",
       "source": "The Decoder",
       "published": "2026-09-11T17:22:18+00:00",
@@ -220,7 +269,7 @@ const FEED_DATA = {
     },
     {
       "title": "Feeling Sad about AI",
-      "summary": "Article URL: https://artificialworlds.net/blog/2026/09/11/feeling-sad-about-ai/ Comments URL: https://news.ycombinator.com/item?id=49661506 Points: 176 # Comments: 304",
+      "summary": "Article URL: https://artificialworlds.net/blog/2026/09/11/feeling-sad-about-ai/ Comments URL: https://news.ycombinator.com/item?id=49661506 Points: 177 # Comments: 307",
       "source": "Hacker News",
       "published": "2026-09-11T16:50:51+00:00",
       "link": "https://artificialworlds.net/blog/2026/09/11/feeling-sad-about-ai/"
@@ -241,7 +290,7 @@ const FEED_DATA = {
     },
     {
       "title": "Show HN: Hacker News, Without AI",
-      "summary": "Article URL: https://www.unslop.news/ Comments URL: https://news.ycombinator.com/item?id=49660783 Points: 191 # Comments: 80",
+      "summary": "Article URL: https://www.unslop.news/ Comments URL: https://news.ycombinator.com/item?id=49660783 Points: 192 # Comments: 80",
       "source": "Hacker News",
       "published": "2026-09-11T16:08:50+00:00",
       "link": "https://www.unslop.news/"
@@ -304,14 +353,14 @@ const FEED_DATA = {
     },
     {
       "title": "The Waymo effect: how AI is quietly making research less collaborative",
-      "summary": "Article URL: https://www.researchagenda.news/articles/the-waymo-effect.html Comments URL: https://news.ycombinator.com/item?id=49656496 Points: 328 # Comments: 299",
+      "summary": "Article URL: https://www.researchagenda.news/articles/the-waymo-effect.html Comments URL: https://news.ycombinator.com/item?id=49656496 Points: 331 # Comments: 299",
       "source": "Hacker News",
       "published": "2026-09-11T11:17:50+00:00",
       "link": "https://www.researchagenda.news/articles/the-waymo-effect.html"
     },
     {
       "title": "Resist \"AI\"",
-      "summary": "Article URL: https://ronjeffries.com/articles/-v026/x/t/ Comments URL: https://news.ycombinator.com/item?id=49656033 Points: 65 # Comments: 180",
+      "summary": "Article URL: https://ronjeffries.com/articles/-v026/x/t/ Comments URL: https://news.ycombinator.com/item?id=49656033 Points: 65 # Comments: 181",
       "source": "Hacker News",
       "published": "2026-09-11T10:19:59+00:00",
       "link": "https://ronjeffries.com/articles/-v026/x/t/"
@@ -360,7 +409,7 @@ const FEED_DATA = {
     },
     {
       "title": "OpenAI considers slowing advanced AI development, Sam Altman tells employees",
-      "summary": "https://archive.is/zH0ZZhttps://www.reuters.com/business/altman-tells-staff-openai-i... Comments URL: https://news.ycombinator.com/item?id=49652270 Points: 58 # Comments: 102",
+      "summary": "https://archive.is/zH0ZZhttps://www.reuters.com/business/altman-tells-staff-openai-i... Comments URL: https://news.ycombinator.com/item?id=49652270 Points: 58 # Comments: 104",
       "source": "Hacker News",
       "published": "2026-09-11T01:05:59+00:00",
       "link": "https://www.bloomberg.com/news/articles/2026-09-11/openai-is-open-to-slowing-cutting-edge-ai-ceo-sam-altman-tells-staff"
@@ -374,7 +423,7 @@ const FEED_DATA = {
     },
     {
       "title": "Thelio Mira AI Linux Workstation: 192 GB GPU Memory",
-      "summary": "Article URL: https://system76.com/workstations/thelio-mira-ai Comments URL: https://news.ycombinator.com/item?id=49651372 Points: 121 # Comments: 127",
+      "summary": "Article URL: https://system76.com/workstations/thelio-mira-ai Comments URL: https://news.ycombinator.com/item?id=49651372 Points: 121 # Comments: 128",
       "source": "Hacker News",
       "published": "2026-09-10T23:10:06+00:00",
       "link": "https://system76.com/workstations/thelio-mira-ai"
@@ -1351,55 +1400,6 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-09-07T13:05:22+00:00",
       "link": "https://the-decoder.com/openai-reports-ai-research-interns-and-warns-about-its-own-pace-at-the-same-time/"
-    },
-    {
-      "title": "MG Ship adds AI route optimisation as logistics returns accelerate",
-      "summary": "MG Ship has introduced an AI route optimisation and carrier selection module as logistics deployments demonstrate rapid cost and time returns.",
-      "source": "AI News",
-      "published": "2026-09-07T13:01:23+00:00",
-      "link": "https://www.artificialintelligence-news.com/news/mg-ship-ai-route-optimisation-logistics-returns-accelerate/"
-    },
-    {
-      "title": "New York City bans AI tools from public schools through eighth grade",
-      "summary": "New York City bans AI use in public schools through the end of middle school. The article New York City bans AI tools from public schools through eighth grade appeared first on The Decoder.",
-      "source": "The Decoder",
-      "published": "2026-09-07T13:00:03+00:00",
-      "link": "https://the-decoder.com/new-york-city-bans-ai-tools-from-public-schools-through-eighth-grade/"
-    },
-    {
-      "title": "Qwen-Drive 1.0 tells you why it brakes, just don't expect the explanation to match the maneuver",
-      "summary": "Alibaba's research arm has released Qwen-Drive 1.0, an AI model that handles environmental perception, traffic Q&A, and route planning in one system. The researchers show that text-image models don't automatically understand three-dimensional space.",
-      "source": "The Decoder",
-      "published": "2026-09-07T12:15:54+00:00",
-      "link": "https://the-decoder.com/qwen-drive-1-0-tells-you-why-it-brakes-just-dont-expect-the-explanation-to-match-the-maneuver/"
-    },
-    {
-      "title": "The Download: the hunt for underground hydrogen and more rogue OpenAI agents",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. How much hydrogen awaits us underground?",
-      "source": "MIT Tech Review",
-      "published": "2026-09-07T12:10:00+00:00",
-      "link": "https://www.technologyreview.com/2026/09/07/1143592/the-download-underground-hydrogen-search-rogue-openai-agents/"
-    },
-    {
-      "title": "Initial effects of AI technology on employment look positive",
-      "summary": "https://archive.md/5hi5i Comments URL: https://news.ycombinator.com/item?id=49596610 Points: 98 # Comments: 152",
-      "source": "Hacker News",
-      "published": "2026-09-07T10:38:32+00:00",
-      "link": "https://www.economist.com/finance-and-economics/2026/09/04/the-jobs-apocalypse-is-postponed-an-ai-jobs-boom-is-here"
-    },
-    {
-      "title": "Whispering Complaints Into Your Phone May Be the Future of Customer Feedback",
-      "summary": "Forget email surveys or long calls spent on hold. Voicebox lets people send customer feedback by recording a voice note on their phone.",
-      "source": "Wired",
-      "published": "2026-09-07T10:30:00+00:00",
-      "link": "https://www.wired.com/story/whispering-complaints-into-your-phone-may-be-the-future-of-customer-feedback/"
-    },
-    {
-      "title": "Show HN: Engrim – A universal, local-first SQLite memory engine for AI CLIs",
-      "summary": "Article URL: https://github.com/timgordontg/engrim Comments URL: https://news.ycombinator.com/item?id=49594008 Points: 91 # Comments: 55",
-      "source": "Hacker News",
-      "published": "2026-09-07T04:49:36+00:00",
-      "link": "https://github.com/timgordontg/engrim"
     }
   ]
 };
