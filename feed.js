@@ -1,6 +1,27 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-09-13T10:03:57.977264+00:00",
+  "lastUpdated": "2026-09-13T13:29:19.707022+00:00",
   "items": [
+    {
+      "title": "Iris-mini and Iris-pro are the strongest open-weight search agents in their class",
+      "summary": "The AllSpark team has released Iris-mini and Iris-pro, two open-source search agents built on Qwen models that lead benchmarks among open-weight models in their size classes.",
+      "source": "The Decoder",
+      "published": "2026-09-13T12:58:18+00:00",
+      "link": "https://the-decoder.com/iris-mini-and-iris-pro-are-the-strongest-open-weight-search-agents-in-their-class/"
+    },
+    {
+      "title": "GPT-6 Astra pilots a surveillance drone and runs a business on its own",
+      "summary": "GPT-6 Astra earns nearly three times as much as Claude Fable 5.1 on Andon Labs' Vending-Bench agent benchmark and refuses illegal price-fixing deals that Fable agrees to.",
+      "source": "The Decoder",
+      "published": "2026-09-13T10:52:16+00:00",
+      "link": "https://the-decoder.com/gpt-6-astra-pilots-a-surveillance-drone-and-runs-a-business-on-its-own/"
+    },
+    {
+      "title": "AI Agents Are Thirsty for Power",
+      "summary": "Silicon Valley is shifting away from chatbot queries toward a future filled with resource-intensive agentic AI—and it's driving the data center buildout.",
+      "source": "Wired",
+      "published": "2026-09-13T10:00:00+00:00",
+      "link": "https://www.wired.com/story/ai-agents-are-thirsty-for-power/"
+    },
     {
       "title": "Two-year university study finds banning AI from classrooms leaves students worse off",
       "summary": "A law professor spent two years testing how an AI ban, unguided AI use, and structured training affect student performance. The group without AI finished last both years.",
@@ -16,11 +37,25 @@ const FEED_DATA = {
       "link": "https://the-decoder.com/altman-musk-and-hassabis-back-amodeis-call-to-add-independent-oversight/"
     },
     {
+      "title": "Why are AI agents lying, cheating and coordinating?",
+      "summary": "Article URL: https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating Comments URL: https://news.ycombinator.com/item?id=49678969 Points: 351 # Comments: 412",
+      "source": "Hacker News",
+      "published": "2026-09-13T01:22:31+00:00",
+      "link": "https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating"
+    },
+    {
       "title": "Everyone should slow down AI development except for me",
-      "summary": "Article URL: https://xeiaso.net/notes/2026/everyone-slowdown-but-me/ Comments URL: https://news.ycombinator.com/item?id=49678683 Points: 307 # Comments: 169",
+      "summary": "Article URL: https://xeiaso.net/notes/2026/everyone-slowdown-but-me/ Comments URL: https://news.ycombinator.com/item?id=49678683 Points: 598 # Comments: 352",
       "source": "Hacker News",
       "published": "2026-09-13T00:30:44+00:00",
       "link": "https://xeiaso.net/notes/2026/everyone-slowdown-but-me/"
+    },
+    {
+      "title": "AgentsDock: An IDE designed for agentic AI research",
+      "summary": "Article URL: https://agentsdock.net/ Comments URL: https://news.ycombinator.com/item?id=49678435 Points: 71 # Comments: 29",
+      "source": "Hacker News",
+      "published": "2026-09-12T23:45:58+00:00",
+      "link": "https://agentsdock.net/"
     },
     {
       "title": "OpenAI’s rogue AI tried to hack another company in May",
@@ -38,7 +73,7 @@ const FEED_DATA = {
     },
     {
       "title": "Real-SWE: Benchmarking AI models on private, real-world, enterprise codebases",
-      "summary": "Article URL: https://withspecific.com/benchmarks/real-swe Comments URL: https://news.ycombinator.com/item?id=49676820 Points: 181 # Comments: 98",
+      "summary": "Article URL: https://withspecific.com/benchmarks/real-swe Comments URL: https://news.ycombinator.com/item?id=49676820 Points: 249 # Comments: 138",
       "source": "Hacker News",
       "published": "2026-09-12T20:25:48+00:00",
       "link": "https://withspecific.com/benchmarks/real-swe"
@@ -59,7 +94,7 @@ const FEED_DATA = {
     },
     {
       "title": "Anthropic boss Dario Amodei calls for AI development to slow down",
-      "summary": "Article URL: https://www.bbc.com/news/articles/c14dpgm0rg4o Comments URL: https://news.ycombinator.com/item?id=49674395 Points: 51 # Comments: 106",
+      "summary": "Article URL: https://www.bbc.com/news/articles/c14dpgm0rg4o Comments URL: https://news.ycombinator.com/item?id=49674395 Points: 54 # Comments: 107",
       "source": "Hacker News",
       "published": "2026-09-12T16:56:52+00:00",
       "link": "https://www.bbc.com/news/articles/c14dpgm0rg4o"
@@ -80,7 +115,7 @@ const FEED_DATA = {
     },
     {
       "title": "Nvidia is the central bank of AI",
-      "summary": "https://archive.ph/kt50V Comments URL: https://news.ycombinator.com/item?id=49673098 Points: 436 # Comments: 305",
+      "summary": "https://archive.ph/kt50V Comments URL: https://news.ycombinator.com/item?id=49673098 Points: 513 # Comments: 363",
       "source": "Hacker News",
       "published": "2026-09-12T15:08:27+00:00",
       "link": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai"
@@ -115,7 +150,7 @@ const FEED_DATA = {
     },
     {
       "title": "LLMs are real, AI is fake",
-      "summary": "Article URL: https://pluralistic.net/2026/09/12/god-in-the-box/ Comments URL: https://news.ycombinator.com/item?id=49672281 Points: 69 # Comments: 34",
+      "summary": "Article URL: https://pluralistic.net/2026/09/12/god-in-the-box/ Comments URL: https://news.ycombinator.com/item?id=49672281 Points: 71 # Comments: 36",
       "source": "Hacker News",
       "published": "2026-09-12T13:47:28+00:00",
       "link": "https://pluralistic.net/2026/09/12/god-in-the-box/"
@@ -136,7 +171,7 @@ const FEED_DATA = {
     },
     {
       "title": "The worst spam emails: iLands AI agent hustle",
-      "summary": "Article URL: https://tedium.co/2026/09/11/ilands-agents-email-spam-kaixin-tang/ Comments URL: https://news.ycombinator.com/item?id=49671159 Points: 111 # Comments: 54",
+      "summary": "Article URL: https://tedium.co/2026/09/11/ilands-agents-email-spam-kaixin-tang/ Comments URL: https://news.ycombinator.com/item?id=49671159 Points: 114 # Comments: 55",
       "source": "Hacker News",
       "published": "2026-09-12T11:13:38+00:00",
       "link": "https://tedium.co/2026/09/11/ilands-agents-email-spam-kaixin-tang/"
@@ -185,7 +220,7 @@ const FEED_DATA = {
     },
     {
       "title": "Bernie's AI bill proposes to sentence AI developers to 20 years in prison",
-      "summary": "Article URL: https://twitter.com/venturetwins/status/2098456905526211026 Comments URL: https://news.ycombinator.com/item?id=49667253 Points: 64 # Comments: 70",
+      "summary": "Article URL: https://twitter.com/venturetwins/status/2098456905526211026 Comments URL: https://news.ycombinator.com/item?id=49667253 Points: 65 # Comments: 71",
       "source": "Hacker News",
       "published": "2026-09-12T00:24:36+00:00",
       "link": "https://twitter.com/venturetwins/status/2098456905526211026"
@@ -199,7 +234,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI researchers debate how close we are to recursive self-improvement",
-      "summary": "Article URL: https://www.dwarkesh.com/p/john-beren-charlie Comments URL: https://news.ycombinator.com/item?id=49665711 Points: 117 # Comments: 115",
+      "summary": "Article URL: https://www.dwarkesh.com/p/john-beren-charlie Comments URL: https://news.ycombinator.com/item?id=49665711 Points: 118 # Comments: 116",
       "source": "Hacker News",
       "published": "2026-09-11T21:35:29+00:00",
       "link": "https://www.dwarkesh.com/p/john-beren-charlie"
@@ -304,14 +339,14 @@ const FEED_DATA = {
     },
     {
       "title": "Show HN: Hacker News, Without AI",
-      "summary": "Article URL: https://www.unslop.news/ Comments URL: https://news.ycombinator.com/item?id=49660783 Points: 192 # Comments: 80",
+      "summary": "Article URL: https://www.unslop.news/ Comments URL: https://news.ycombinator.com/item?id=49660783 Points: 193 # Comments: 80",
       "source": "Hacker News",
       "published": "2026-09-11T16:08:50+00:00",
       "link": "https://www.unslop.news/"
     },
     {
       "title": "Hacker News with reduced priority for AI driven content",
-      "summary": "Article URL: https://sprinklz.io/public/pdwt4dve5uai Comments URL: https://news.ycombinator.com/item?id=49660482 Points: 120 # Comments: 56",
+      "summary": "Article URL: https://sprinklz.io/public/pdwt4dve5uai Comments URL: https://news.ycombinator.com/item?id=49660482 Points: 120 # Comments: 57",
       "source": "Hacker News",
       "published": "2026-09-11T15:52:49+00:00",
       "link": "https://sprinklz.io/public/pdwt4dve5uai"
@@ -367,7 +402,7 @@ const FEED_DATA = {
     },
     {
       "title": "The Waymo effect: how AI is quietly making research less collaborative",
-      "summary": "Article URL: https://www.researchagenda.news/articles/the-waymo-effect.html Comments URL: https://news.ycombinator.com/item?id=49656496 Points: 331 # Comments: 299",
+      "summary": "Article URL: https://www.researchagenda.news/articles/the-waymo-effect.html Comments URL: https://news.ycombinator.com/item?id=49656496 Points: 332 # Comments: 299",
       "source": "Hacker News",
       "published": "2026-09-11T11:17:50+00:00",
       "link": "https://www.researchagenda.news/articles/the-waymo-effect.html"
@@ -1365,41 +1400,6 @@ const FEED_DATA = {
       "source": "Hacker News",
       "published": "2026-09-07T18:24:32+00:00",
       "link": "https://www.bottlenecklabs.com/blog/benchmarking-7-autonomous-businesses"
-    },
-    {
-      "title": "Anthropic reportedly signs $517 billion in compute deals after Dario Amodei warned rivals about reckless risk",
-      "summary": "Anthropic signed compute contracts worth up to $517 billion in eleven months but still trails OpenAI's $750 billion plan through 2030. In early 2026, CEO Dario Amodei warned against investing too fast.",
-      "source": "The Decoder",
-      "published": "2026-09-07T18:12:41+00:00",
-      "link": "https://the-decoder.com/anthropic-reportedly-signs-517-billion-in-compute-deals-after-dario-amodei-warned-rivals-about-reckless-risk/"
-    },
-    {
-      "title": "GPT-6 Astra beat Portal start to finish without human help in under 24 hours",
-      "summary": "GPT-6 Astra beat the puzzle game Portal entirely on its own in about 24 hours, with zero human help after the initial goal was set. Developer cozyblaze published the code and docs on GitHub.",
-      "source": "The Decoder",
-      "published": "2026-09-07T17:39:32+00:00",
-      "link": "https://the-decoder.com/gpt-6-astra-beat-portal-start-to-finish-without-human-help-in-under-24-hours/"
-    },
-    {
-      "title": "ChatGPT claws back web traffic share to 55.5 percent as Gemini's brief comeback fades",
-      "summary": "ChatGPT has pushed its share of AI chatbot website traffic back up to 55.5 percent, according to Similarweb. Year-over-year, though, its lead shrank sharply from 73.3 percent as Gemini doubled its share and Claude grew nearly fivefold.",
-      "source": "The Decoder",
-      "published": "2026-09-07T16:54:12+00:00",
-      "link": "https://the-decoder.com/chatgpt-claws-back-web-traffic-share-to-55-5-percent-as-geminis-brief-comeback-fades/"
-    },
-    {
-      "title": "AI-designed drug appears to turn back the body's biological clock in early trial",
-      "summary": "A study in Nature Biotechnology suggests that rentosertib, a drug designed with AI by Insilico Medicine, may reverse markers of biological aging. Six independent aging clocks predicted that treated patients were biologically up to six years younger than the placebo group.",
-      "source": "The Decoder",
-      "published": "2026-09-07T16:34:20+00:00",
-      "link": "https://the-decoder.com/ai-designed-drug-appears-to-turn-back-the-bodys-biological-clock-in-early-trial/"
-    },
-    {
-      "title": "How AI wiped out an entire industry in Nairobi",
-      "summary": "In Kenya, ChatGPT wiped out an entire business model: writing academic papers for foreign students. The article How AI wiped out an entire industry in Nairobi appeared first on The Decoder.",
-      "source": "The Decoder",
-      "published": "2026-09-07T13:18:57+00:00",
-      "link": "https://the-decoder.com/how-ai-wiped-out-an-entire-industry-in-nairobi/"
     }
   ]
 };
