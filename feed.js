@@ -1,6 +1,20 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-09-13T05:39:30.664194+00:00",
+  "lastUpdated": "2026-09-13T10:03:57.977264+00:00",
   "items": [
+    {
+      "title": "Two-year university study finds banning AI from classrooms leaves students worse off",
+      "summary": "A law professor spent two years testing how an AI ban, unguided AI use, and structured training affect student performance. The group without AI finished last both years.",
+      "source": "The Decoder",
+      "published": "2026-09-13T09:27:01+00:00",
+      "link": "https://the-decoder.com/two-year-university-study-finds-banning-ai-from-classrooms-leaves-students-worse-off/"
+    },
+    {
+      "title": "Altman, Musk, and Hassabis back Amodei's call to add independent oversight",
+      "summary": "Sam Altman, Elon Musk, and Demis Hassabis back Dario Amodei's call to slow down AI development, at least in part. Altman says OpenAI is pushing its IPO to 2027 over safety concerns.",
+      "source": "The Decoder",
+      "published": "2026-09-13T08:53:00+00:00",
+      "link": "https://the-decoder.com/altman-musk-and-hassabis-back-amodeis-call-to-add-independent-oversight/"
+    },
     {
       "title": "Everyone should slow down AI development except for me",
       "summary": "Article URL: https://xeiaso.net/notes/2026/everyone-slowdown-but-me/ Comments URL: https://news.ycombinator.com/item?id=49678683 Points: 307 # Comments: 169",
@@ -1386,20 +1400,6 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-09-07T13:18:57+00:00",
       "link": "https://the-decoder.com/how-ai-wiped-out-an-entire-industry-in-nairobi/"
-    },
-    {
-      "title": "At UBS, AI skills are now a condition for landing a job",
-      "summary": "Swiss banking giant UBS is making AI skills a required qualification from 2027 for graduates and interns in Global Banking and Markets, with applicants having to show in interviews how they use AI to improve outcomes and efficiency.",
-      "source": "The Decoder",
-      "published": "2026-09-07T13:13:38+00:00",
-      "link": "https://the-decoder.com/at-ubs-ai-skills-are-now-a-condition-for-landing-a-job/"
-    },
-    {
-      "title": "OpenAI reports AI \"research interns\" and warns about its own pace at the same time",
-      "summary": "OpenAI reports that AI agents in its own research already handle 3.1 workdays for every human workday, and it says it has reached its goal of an \"automated research intern.\" But chief scientist Pachocki warns that no lab has a good enough grip on alignment and monitoring to keep...",
-      "source": "The Decoder",
-      "published": "2026-09-07T13:05:22+00:00",
-      "link": "https://the-decoder.com/openai-reports-ai-research-interns-and-warns-about-its-own-pace-at-the-same-time/"
     }
   ]
 };
