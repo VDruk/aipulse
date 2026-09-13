@@ -1,6 +1,13 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-09-13T13:29:19.707022+00:00",
+  "lastUpdated": "2026-09-13T16:52:45.731154+00:00",
   "items": [
+    {
+      "title": "Elevenlabs makes Music v2.5 available via app and API with free and pro tier options",
+      "summary": "ElevenLabs has released Music v2.5 for its AI music generator. In a blind test with nearly 48,000 comparison pairs, listeners preferred the new version over its predecessor.",
+      "source": "The Decoder",
+      "published": "2026-09-13T13:40:36+00:00",
+      "link": "https://the-decoder.com/elevenlabs-makes-music-v2-5-available-via-app-and-api-with-free-and-pro-tier-options/"
+    },
     {
       "title": "Iris-mini and Iris-pro are the strongest open-weight search agents in their class",
       "summary": "The AllSpark team has released Iris-mini and Iris-pro, two open-source search agents built on Qwen models that lead benchmarks among open-weight models in their size classes.",
@@ -38,21 +45,21 @@ const FEED_DATA = {
     },
     {
       "title": "Why are AI agents lying, cheating and coordinating?",
-      "summary": "Article URL: https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating Comments URL: https://news.ycombinator.com/item?id=49678969 Points: 351 # Comments: 412",
+      "summary": "Article URL: https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating Comments URL: https://news.ycombinator.com/item?id=49678969 Points: 467 # Comments: 547",
       "source": "Hacker News",
       "published": "2026-09-13T01:22:31+00:00",
       "link": "https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating"
     },
     {
       "title": "Everyone should slow down AI development except for me",
-      "summary": "Article URL: https://xeiaso.net/notes/2026/everyone-slowdown-but-me/ Comments URL: https://news.ycombinator.com/item?id=49678683 Points: 598 # Comments: 352",
+      "summary": "Article URL: https://xeiaso.net/notes/2026/everyone-slowdown-but-me/ Comments URL: https://news.ycombinator.com/item?id=49678683 Points: 681 # Comments: 402",
       "source": "Hacker News",
       "published": "2026-09-13T00:30:44+00:00",
       "link": "https://xeiaso.net/notes/2026/everyone-slowdown-but-me/"
     },
     {
       "title": "AgentsDock: An IDE designed for agentic AI research",
-      "summary": "Article URL: https://agentsdock.net/ Comments URL: https://news.ycombinator.com/item?id=49678435 Points: 71 # Comments: 29",
+      "summary": "Article URL: https://agentsdock.net/ Comments URL: https://news.ycombinator.com/item?id=49678435 Points: 74 # Comments: 31",
       "source": "Hacker News",
       "published": "2026-09-12T23:45:58+00:00",
       "link": "https://agentsdock.net/"
@@ -73,7 +80,7 @@ const FEED_DATA = {
     },
     {
       "title": "Real-SWE: Benchmarking AI models on private, real-world, enterprise codebases",
-      "summary": "Article URL: https://withspecific.com/benchmarks/real-swe Comments URL: https://news.ycombinator.com/item?id=49676820 Points: 249 # Comments: 138",
+      "summary": "Article URL: https://withspecific.com/benchmarks/real-swe Comments URL: https://news.ycombinator.com/item?id=49676820 Points: 257 # Comments: 140",
       "source": "Hacker News",
       "published": "2026-09-12T20:25:48+00:00",
       "link": "https://withspecific.com/benchmarks/real-swe"
@@ -115,7 +122,7 @@ const FEED_DATA = {
     },
     {
       "title": "Nvidia is the central bank of AI",
-      "summary": "https://archive.ph/kt50V Comments URL: https://news.ycombinator.com/item?id=49673098 Points: 513 # Comments: 363",
+      "summary": "https://archive.ph/kt50V Comments URL: https://news.ycombinator.com/item?id=49673098 Points: 536 # Comments: 382",
       "source": "Hacker News",
       "published": "2026-09-12T15:08:27+00:00",
       "link": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai"
@@ -150,7 +157,7 @@ const FEED_DATA = {
     },
     {
       "title": "LLMs are real, AI is fake",
-      "summary": "Article URL: https://pluralistic.net/2026/09/12/god-in-the-box/ Comments URL: https://news.ycombinator.com/item?id=49672281 Points: 71 # Comments: 36",
+      "summary": "Article URL: https://pluralistic.net/2026/09/12/god-in-the-box/ Comments URL: https://news.ycombinator.com/item?id=49672281 Points: 72 # Comments: 36",
       "source": "Hacker News",
       "published": "2026-09-12T13:47:28+00:00",
       "link": "https://pluralistic.net/2026/09/12/god-in-the-box/"
@@ -171,7 +178,7 @@ const FEED_DATA = {
     },
     {
       "title": "The worst spam emails: iLands AI agent hustle",
-      "summary": "Article URL: https://tedium.co/2026/09/11/ilands-agents-email-spam-kaixin-tang/ Comments URL: https://news.ycombinator.com/item?id=49671159 Points: 114 # Comments: 55",
+      "summary": "Article URL: https://tedium.co/2026/09/11/ilands-agents-email-spam-kaixin-tang/ Comments URL: https://news.ycombinator.com/item?id=49671159 Points: 119 # Comments: 55",
       "source": "Hacker News",
       "published": "2026-09-12T11:13:38+00:00",
       "link": "https://tedium.co/2026/09/11/ilands-agents-email-spam-kaixin-tang/"
@@ -220,7 +227,7 @@ const FEED_DATA = {
     },
     {
       "title": "Bernie's AI bill proposes to sentence AI developers to 20 years in prison",
-      "summary": "Article URL: https://twitter.com/venturetwins/status/2098456905526211026 Comments URL: https://news.ycombinator.com/item?id=49667253 Points: 65 # Comments: 71",
+      "summary": "Article URL: https://twitter.com/venturetwins/status/2098456905526211026 Comments URL: https://news.ycombinator.com/item?id=49667253 Points: 65 # Comments: 77",
       "source": "Hacker News",
       "published": "2026-09-12T00:24:36+00:00",
       "link": "https://twitter.com/venturetwins/status/2098456905526211026"
@@ -318,7 +325,7 @@ const FEED_DATA = {
     },
     {
       "title": "Feeling Sad about AI",
-      "summary": "Article URL: https://artificialworlds.net/blog/2026/09/11/feeling-sad-about-ai/ Comments URL: https://news.ycombinator.com/item?id=49661506 Points: 177 # Comments: 307",
+      "summary": "Article URL: https://artificialworlds.net/blog/2026/09/11/feeling-sad-about-ai/ Comments URL: https://news.ycombinator.com/item?id=49661506 Points: 178 # Comments: 307",
       "source": "Hacker News",
       "published": "2026-09-11T16:50:51+00:00",
       "link": "https://artificialworlds.net/blog/2026/09/11/feeling-sad-about-ai/"
@@ -339,7 +346,7 @@ const FEED_DATA = {
     },
     {
       "title": "Show HN: Hacker News, Without AI",
-      "summary": "Article URL: https://www.unslop.news/ Comments URL: https://news.ycombinator.com/item?id=49660783 Points: 193 # Comments: 80",
+      "summary": "Article URL: https://www.unslop.news/ Comments URL: https://news.ycombinator.com/item?id=49660783 Points: 193 # Comments: 82",
       "source": "Hacker News",
       "published": "2026-09-11T16:08:50+00:00",
       "link": "https://www.unslop.news/"
@@ -1393,13 +1400,6 @@ const FEED_DATA = {
       "source": "Hacker News",
       "published": "2026-09-07T19:05:39+00:00",
       "link": "https://allan.reyes.sh/posts/ai-cold-showers/"
-    },
-    {
-      "title": "AI models ran real businesses: They sent $12,431 in fake invoices, lost $3,200",
-      "summary": "Article URL: https://www.bottlenecklabs.com/blog/benchmarking-7-autonomous-businesses Comments URL: https://news.ycombinator.com/item?id=49601338 Points: 100 # Comments: 118",
-      "source": "Hacker News",
-      "published": "2026-09-07T18:24:32+00:00",
-      "link": "https://www.bottlenecklabs.com/blog/benchmarking-7-autonomous-businesses"
     }
   ]
 };
