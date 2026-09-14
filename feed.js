@@ -1,6 +1,90 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-09-14T10:22:56.224699+00:00",
+  "lastUpdated": "2026-09-14T15:18:12.438454+00:00",
   "items": [
+    {
+      "title": "Only at TechCrunch Disrupt 2026: What happens when OpenAI ships your roadmap?",
+      "summary": "If you're building an AI company, the question isn't whether foundation models will continue to evolve. It's whether your company will continue creating value as they do.",
+      "source": "TechCrunch",
+      "published": "2026-09-14T15:00:00+00:00",
+      "link": "https://techcrunch.com/2026/09/14/only-at-techcrunch-disrupt-2026-what-happens-when-openai-ships-your-roadmap/"
+    },
+    {
+      "title": "Superhuman acquires YC-backed notetaker Fathom as productivity platforms push for agentic work",
+      "summary": "Fathom said that it has over 400,000 monthly active users",
+      "source": "TechCrunch",
+      "published": "2026-09-14T14:45:44+00:00",
+      "link": "https://techcrunch.com/2026/09/14/superhuman-acquires-yc-backed-notetaker-fathom-as-productivity-platforms-push-for-agentic-work/"
+    },
+    {
+      "title": "Hear how AI can engineer nature’s comeback at TechCrunch Disrupt 2026",
+      "summary": "Not long ago, bringing an extinct species back to life belonged to science fiction. Today, it’s the mission of a billion-dollar startup.",
+      "source": "TechCrunch",
+      "published": "2026-09-14T14:30:00+00:00",
+      "link": "https://techcrunch.com/2026/09/14/hear-how-ai-can-engineer-natures-comeback-at-techcrunch-disrupt-2026/"
+    },
+    {
+      "title": "A Vinyl Bar in Shibuya is a startup offering fun music apps without any AI prompting",
+      "summary": "Former Spotify exec's company releases experimental \"singles\" that involves users in music making.",
+      "source": "TechCrunch",
+      "published": "2026-09-14T13:55:00+00:00",
+      "link": "https://techcrunch.com/2026/09/14/a-vinyl-bar-in-shibuya-is-a-startup-offering-fun-music-apps-without-any-ai-prompting/"
+    },
+    {
+      "title": "Clay Mathematics Institute says the Navier-Stokes Millennium Prize Problem has \"apparently been settled\"",
+      "summary": "The Clay Mathematics Institute says the Navier-Stokes problem, one of seven Millennium Prize Problems worth $1 million each, has \"apparently been settled.\" A formal review is now underway.",
+      "source": "The Decoder",
+      "published": "2026-09-14T13:01:26+00:00",
+      "link": "https://the-decoder.com/clay-mathematics-institute-says-the-navier-stokes-millennium-prize-problem-has-apparently-been-settled/"
+    },
+    {
+      "title": "Microsoft says ‘people matter more than AI’ following safety concerns",
+      "summary": "Microsoft is publishing a 37-page \"humanist AI code of conduct\" today, amid growing safety concerns over AI model progress.",
+      "source": "The Verge",
+      "published": "2026-09-14T13:00:00+00:00",
+      "link": "https://www.theverge.com/news/994566/microsoft-humanist-ai-code-of-conduct"
+    },
+    {
+      "title": "What a time to be alive – rouge AI agents attack RubyGems.org",
+      "summary": "Article URL: https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive/ Comments URL: https://news.ycombinator.com/item?id=49695876 Points: 91 # Comments: 123",
+      "source": "Hacker News",
+      "published": "2026-09-14T12:40:57+00:00",
+      "link": "https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive/"
+    },
+    {
+      "title": "China fires back at U.S. AI safety warnings, calling them fearmongering to lock in American advantage",
+      "summary": "China has flatly rejected warnings about AI risks from Anthropic CEO Amodei and other U.S. AI leaders.",
+      "source": "The Decoder",
+      "published": "2026-09-14T12:20:22+00:00",
+      "link": "https://the-decoder.com/china-fires-back-at-u-s-ai-safety-warnings-calling-them-fearmongering-to-lock-in-american-advantage/"
+    },
+    {
+      "title": "The Download: AI’s real extinction threat and age-reversal tech for eyes",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Roundtables: could AI really kill us all?",
+      "source": "MIT Tech Review",
+      "published": "2026-09-14T12:10:00+00:00",
+      "link": "https://www.technologyreview.com/2026/09/14/1144012/the-download-ai-extinction-threat-age-reversal-vision/"
+    },
+    {
+      "title": "Apple's Siri AI Can Be Swapped Out for Claude, ChatGPT, Code Shows",
+      "summary": "Article URL: https://www.macrumors.com/2026/09/14/siri-can-be-swapped-out-for-chatgpt-claude/ Comments URL: https://news.ycombinator.com/item?id=49695409 Points: 162 # Comments: 80",
+      "source": "Hacker News",
+      "published": "2026-09-14T12:01:32+00:00",
+      "link": "https://www.macrumors.com/2026/09/14/siri-can-be-swapped-out-for-chatgpt-claude/"
+    },
+    {
+      "title": "AI Leaders Are Calling for a Slowdown. Trump’s Team Says It’s on Them",
+      "summary": "Sam Altman and Elon Musk this weekend backed a call for restraint, after Dario Amodei called on Washington to slow AI development. Donald Trump, meanwhile, wants the US to maintain its lead over China.",
+      "source": "Wired",
+      "published": "2026-09-14T11:00:00+00:00",
+      "link": "https://www.wired.com/story/ai-leaders-are-calling-for-a-slowdown-trumps-team-says-its-on-them/"
+    },
+    {
+      "title": "Big AI sets out its terms for regulatory capture",
+      "summary": "Article URL: https://www.theregister.com/ai-and-ml/2026/09/14/big-ai-sets-out-its-terms-for-regulatory-capture-and-calls-it-pace-the-frontier/5296067 Comments URL: https://news.ycombinator.com/item?id=49694596 Points: 80 # Comments: 44",
+      "source": "Hacker News",
+      "published": "2026-09-14T10:28:28+00:00",
+      "link": "https://www.theregister.com/ai-and-ml/2026/09/14/big-ai-sets-out-its-terms-for-regulatory-capture-and-calls-it-pace-the-frontier/5296067"
+    },
     {
       "title": "Sam Altman calls for pacing AI development but promises rapid progress will continue",
       "summary": "Sam Altman is doubling down on slowing AI development. OpenAI now runs safety checks before major training runs, and according to The Information, the company has been talking with Anthropic and Google for months about joint self-regulation.",
@@ -30,6 +114,13 @@ const FEED_DATA = {
       "link": "https://www.artificialintelligence-news.com/news/from-video-to-data-how-ai-is-transforming-multimedia-content-processing/"
     },
     {
+      "title": "OpenArch – PyTorch implementations of modern LLM architectures",
+      "summary": "Article URL: https://github.com/anuj0456/OpenArch Comments URL: https://news.ycombinator.com/item?id=49693384 Points: 102 # Comments: 24",
+      "source": "Hacker News",
+      "published": "2026-09-14T07:55:19+00:00",
+      "link": "https://github.com/anuj0456/OpenArch"
+    },
+    {
       "title": "How Vox Group’s AI-Powered Technology Is Solving Real-Time Translation for Group Travel",
       "summary": "Live translation has long been one of travel’s hardest unsolved problems: a single guide speaking to a mixed-language group, with no way to be understood by everyone at once.",
       "source": "AI News",
@@ -38,14 +129,14 @@ const FEED_DATA = {
     },
     {
       "title": "The Malicious Use of Artificial Intelligence",
-      "summary": "Article URL: https://arxiv.org/abs/1802.07228 Comments URL: https://news.ycombinator.com/item?id=49690678 Points: 66 # Comments: 15",
+      "summary": "Article URL: https://arxiv.org/abs/1802.07228 Comments URL: https://news.ycombinator.com/item?id=49690678 Points: 77 # Comments: 22",
       "source": "Hacker News",
       "published": "2026-09-14T01:22:35+00:00",
       "link": "https://arxiv.org/abs/1802.07228"
     },
     {
       "title": "Open-source AI and open models reading list",
-      "summary": "Article URL: https://www.interconnects.ai/p/open-source-ai-reading-list Comments URL: https://news.ycombinator.com/item?id=49690260 Points: 112 # Comments: 22",
+      "summary": "Article URL: https://www.interconnects.ai/p/open-source-ai-reading-list Comments URL: https://news.ycombinator.com/item?id=49690260 Points: 138 # Comments: 25",
       "source": "Hacker News",
       "published": "2026-09-14T00:22:51+00:00",
       "link": "https://www.interconnects.ai/p/open-source-ai-reading-list"
@@ -59,7 +150,7 @@ const FEED_DATA = {
     },
     {
       "title": "There Is No AI (It's Just People) with Jaron Lanier",
-      "summary": "Article URL: https://singjupost.com/startalk-there-is-no-ai-really-its-just-people-w-jaron-lanier-transcript/ Comments URL: https://news.ycombinator.com/item?id=49687869 Points: 75 # Comments: 94",
+      "summary": "Article URL: https://singjupost.com/startalk-there-is-no-ai-really-its-just-people-w-jaron-lanier-transcript/ Comments URL: https://news.ycombinator.com/item?id=49687869 Points: 76 # Comments: 100",
       "source": "Hacker News",
       "published": "2026-09-13T19:41:06+00:00",
       "link": "https://singjupost.com/startalk-there-is-no-ai-really-its-just-people-w-jaron-lanier-transcript/"
@@ -73,7 +164,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI recursive self-improvement might not come so quickly after all",
-      "summary": "Article URL: https://www.technologyreview.com/2026/08/18/1142188/ai-recursive-self-improvement/ Comments URL: https://news.ycombinator.com/item?id=49687334 Points: 73 # Comments: 73",
+      "summary": "Article URL: https://www.technologyreview.com/2026/08/18/1142188/ai-recursive-self-improvement/ Comments URL: https://news.ycombinator.com/item?id=49687334 Points: 76 # Comments: 76",
       "source": "Hacker News",
       "published": "2026-09-13T18:49:44+00:00",
       "link": "https://www.technologyreview.com/2026/08/18/1142188/ai-recursive-self-improvement/"
@@ -87,7 +178,7 @@ const FEED_DATA = {
     },
     {
       "title": "Garry Tan wants US open-weight AI labs to 'distill' frontier models, too",
-      "summary": "Article URL: https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/ Comments URL: https://news.ycombinator.com/item?id=49685253 Points: 390 # Comments: 214",
+      "summary": "Article URL: https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/ Comments URL: https://news.ycombinator.com/item?id=49685253 Points: 397 # Comments: 219",
       "source": "Hacker News",
       "published": "2026-09-13T15:44:38+00:00",
       "link": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/"
@@ -143,21 +234,21 @@ const FEED_DATA = {
     },
     {
       "title": "Why are AI agents lying, cheating and coordinating?",
-      "summary": "Article URL: https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating Comments URL: https://news.ycombinator.com/item?id=49678969 Points: 620 # Comments: 675",
+      "summary": "Article URL: https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating Comments URL: https://news.ycombinator.com/item?id=49678969 Points: 634 # Comments: 678",
       "source": "Hacker News",
       "published": "2026-09-13T01:22:31+00:00",
       "link": "https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating"
     },
     {
       "title": "Everyone should slow down AI development except for me",
-      "summary": "Article URL: https://xeiaso.net/notes/2026/everyone-slowdown-but-me/ Comments URL: https://news.ycombinator.com/item?id=49678683 Points: 773 # Comments: 443",
+      "summary": "Article URL: https://xeiaso.net/notes/2026/everyone-slowdown-but-me/ Comments URL: https://news.ycombinator.com/item?id=49678683 Points: 783 # Comments: 445",
       "source": "Hacker News",
       "published": "2026-09-13T00:30:44+00:00",
       "link": "https://xeiaso.net/notes/2026/everyone-slowdown-but-me/"
     },
     {
       "title": "AgentsDock: An IDE designed for agentic AI research",
-      "summary": "Article URL: https://agentsdock.net/ Comments URL: https://news.ycombinator.com/item?id=49678435 Points: 81 # Comments: 32",
+      "summary": "Article URL: https://agentsdock.net/ Comments URL: https://news.ycombinator.com/item?id=49678435 Points: 81 # Comments: 33",
       "source": "Hacker News",
       "published": "2026-09-12T23:45:58+00:00",
       "link": "https://agentsdock.net/"
@@ -178,7 +269,7 @@ const FEED_DATA = {
     },
     {
       "title": "Real-SWE: Benchmarking AI models on private, real-world, enterprise codebases",
-      "summary": "Article URL: https://withspecific.com/benchmarks/real-swe Comments URL: https://news.ycombinator.com/item?id=49676820 Points: 271 # Comments: 151",
+      "summary": "Article URL: https://withspecific.com/benchmarks/real-swe Comments URL: https://news.ycombinator.com/item?id=49676820 Points: 271 # Comments: 152",
       "source": "Hacker News",
       "published": "2026-09-12T20:25:48+00:00",
       "link": "https://withspecific.com/benchmarks/real-swe"
@@ -220,7 +311,7 @@ const FEED_DATA = {
     },
     {
       "title": "Nvidia is the central bank of AI",
-      "summary": "https://archive.ph/kt50V Comments URL: https://news.ycombinator.com/item?id=49673098 Points: 569 # Comments: 394",
+      "summary": "https://archive.ph/kt50V Comments URL: https://news.ycombinator.com/item?id=49673098 Points: 573 # Comments: 395",
       "source": "Hacker News",
       "published": "2026-09-12T15:08:27+00:00",
       "link": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai"
@@ -325,7 +416,7 @@ const FEED_DATA = {
     },
     {
       "title": "Bernie's AI bill proposes to sentence AI developers to 20 years in prison",
-      "summary": "Article URL: https://twitter.com/venturetwins/status/2098456905526211026 Comments URL: https://news.ycombinator.com/item?id=49667253 Points: 65 # Comments: 82",
+      "summary": "Article URL: https://twitter.com/venturetwins/status/2098456905526211026 Comments URL: https://news.ycombinator.com/item?id=49667253 Points: 65 # Comments: 86",
       "source": "Hacker News",
       "published": "2026-09-12T00:24:36+00:00",
       "link": "https://twitter.com/venturetwins/status/2098456905526211026"
@@ -793,18 +884,18 @@ const FEED_DATA = {
       "link": "https://www.wired.com/story/everything-new-you-can-do-with-siri-ai/"
     },
     {
-      "title": "Clearview AI Is Testing an AI Tool That Would Let Cops Unearth Your Life Online",
-      "summary": "InquiryIQ, a previously unreported prototype, tested a model from xAI, maker of Grok, to surface associates, social accounts, and other information about people identified through Clearview.",
-      "source": "Wired",
-      "published": "2026-09-10T10:00:00+00:00",
-      "link": "https://www.wired.com/story/clearview-ai-is-testing-an-ai-tool-that-lets-cops-instantly-unearth-your-online-activity/"
-    },
-    {
       "title": "JD.com expands physical AI in logistics with 3 million robots",
       "summary": "JD.com is expanding AI and robotics across its logistics network under a new Physical AI Acceleration Plan, while reiterating a five-year target to procure 3 million robots, 1 million autonomous vehicles, and 100,000 delivery drones.",
       "source": "AI News",
       "published": "2026-09-10T10:00:00+00:00",
       "link": "https://www.artificialintelligence-news.com/news/jd-com-physical-ai-logistics-3-million-robots/"
+    },
+    {
+      "title": "Clearview AI Is Testing an AI Tool That Would Let Cops Unearth Your Life Online",
+      "summary": "InquiryIQ, a previously unreported prototype, tested a model from xAI, maker of Grok, to surface associates, social accounts, and other information about people identified through Clearview.",
+      "source": "Wired",
+      "published": "2026-09-10T10:00:00+00:00",
+      "link": "https://www.wired.com/story/clearview-ai-is-testing-an-ai-tool-that-lets-cops-instantly-unearth-your-online-activity/"
     },
     {
       "title": "Top AI spenders cut per-employee costs by nearly 10 percent in August",
@@ -1309,97 +1400,6 @@ const FEED_DATA = {
       "source": "The Verge",
       "published": "2026-09-08T19:00:00+00:00",
       "link": "https://www.theverge.com/ai-artificial-intelligence/991216/meta-bets-on-ai-agent-muse-to-catch-up-in-ai-race"
-    },
-    {
-      "title": "GrapheneOS on AI Usage",
-      "summary": "Article URL: https://grapheneos.social/@GrapheneOS/117236529351603001 Comments URL: https://news.ycombinator.com/item?id=49614101 Points: 52 # Comments: 1",
-      "source": "Hacker News",
-      "published": "2026-09-08T18:00:58+00:00",
-      "link": "https://grapheneos.social/@GrapheneOS/117236529351603001"
-    },
-    {
-      "title": "OpenAI fought dirty on career-making math problem, says NYU mathematician",
-      "summary": "There is a $1 million bounty for the first person providing a solution to the Navier-Stokes existence and smoothness problem.",
-      "source": "TechCrunch",
-      "published": "2026-09-08T17:32:15+00:00",
-      "link": "https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician/"
-    },
-    {
-      "title": "AI power users claim Anthropic duped them with subscriptions, and they’re taking it to court",
-      "summary": "Anthropic says power users are key to its business - it's prioritized them even when it means cutting off other popular applications, like OpenClaw.",
-      "source": "The Verge",
-      "published": "2026-09-08T17:27:31+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/990313/anthropic-class-action-lawsuit-pricing-subscription-plans"
-    },
-    {
-      "title": "Show HN: LLM Attention Visualization",
-      "summary": "Article URL: https://ishamf.dev/p/llm-attention-visualizer/ Comments URL: https://news.ycombinator.com/item?id=49613068 Points: 168 # Comments: 29",
-      "source": "Hacker News",
-      "published": "2026-09-08T16:59:41+00:00",
-      "link": "https://ishamf.dev/p/llm-attention-visualizer/"
-    },
-    {
-      "title": "OpenAI Just Claimed a Huge Math Discovery. Some Academics Are Crying Foul",
-      "summary": "A landmark announcement by the frontier AI lab has been overshadowed by accusations of impropriety.",
-      "source": "Wired",
-      "published": "2026-09-08T16:42:05+00:00",
-      "link": "https://www.wired.com/story/openai-navier-stokes-math-discovery-academics/"
-    },
-    {
-      "title": "Google Cloud races to catch up in the AI deployment wars with Accenture deal",
-      "summary": "Google Cloud expands its enterprise AI push with Accenture, betting on forward-deployed engineers to drive adoption and overcome deployment bottlenecks.",
-      "source": "TechCrunch",
-      "published": "2026-09-08T16:20:31+00:00",
-      "link": "https://techcrunch.com/2026/09/08/google-cloud-races-to-catch-up-in-the-ai-deployment-wars-with-accenture-deal/"
-    },
-    {
-      "title": "Patagonia has what AI data centers want, including no resistance so far",
-      "summary": "Argentina's Patagonia is drawing attention as a possible site for large AI data centers. The article Patagonia has what AI data centers want, including no resistance so far appeared first on The Decoder.",
-      "source": "The Decoder",
-      "published": "2026-09-08T15:16:47+00:00",
-      "link": "https://the-decoder.com/patagonia-has-what-ai-data-centers-want-including-no-resistance-so-far/"
-    },
-    {
-      "title": "ASML locks in TSMC, Samsung, and Intel while Huawei races to break its grip",
-      "summary": "ASML has won over Samsung, TSMC, and Intel to switch to larger photomasks, which should boost the throughput of its newest EUV machines by 40 percent.",
-      "source": "The Decoder",
-      "published": "2026-09-08T15:11:59+00:00",
-      "link": "https://the-decoder.com/asml-locks-in-tsmc-samsung-and-intel-while-huawei-races-to-break-its-grip/"
-    },
-    {
-      "title": "Chrome is now shipping updates every 2 weeks as AI changes the security landscape",
-      "summary": "Google is speeding up Chrome’s release schedule to ship security patches and new features faster.",
-      "source": "TechCrunch",
-      "published": "2026-09-08T15:04:09+00:00",
-      "link": "https://techcrunch.com/2026/09/08/chrome-is-now-shipping-updates-every-2-weeks-as-ai-changes-the-security-landscape/"
-    },
-    {
-      "title": "Meta drops AI usage from engineer performance reviews after \"tokenmaxxing\" backfires",
-      "summary": "Meta will no longer judge its engineers by how much they use AI tools. The article Meta drops AI usage from engineer performance reviews after \"tokenmaxxing\" backfires appeared first on The Decoder.",
-      "source": "The Decoder",
-      "published": "2026-09-08T14:27:40+00:00",
-      "link": "https://the-decoder.com/meta-drops-ai-usage-from-engineer-performance-reviews-after-tokenmaxxing-backfires/"
-    },
-    {
-      "title": "Mistral raises €3B as sovereign AI becomes big business",
-      "summary": "The French AI lab has raised €3 billion at a €21 billion valuation in a Series D round led by Samsung, Scaleup Europe, and PSG Equity.",
-      "source": "TechCrunch",
-      "published": "2026-09-08T14:17:48+00:00",
-      "link": "https://techcrunch.com/2026/09/08/mistral-raises-e3b-as-sovereign-ai-becomes-big-business/"
-    },
-    {
-      "title": "LibreOffice breaks download records after declaring it has no AI features",
-      "summary": "Article URL: https://manualdousuario.net/en/libreoffice-download-record-no-ai/ Comments URL: https://news.ycombinator.com/item?id=49610538 Points: 710 # Comments: 237",
-      "source": "Hacker News",
-      "published": "2026-09-08T14:05:57+00:00",
-      "link": "https://manualdousuario.net/en/libreoffice-download-record-no-ai/"
-    },
-    {
-      "title": "Google’s Atlas of the human genome could pave the way for new treatments",
-      "summary": "Google DeepMind has unveiled an AI tool that its scientists claim could help unravel the mysteries of the human genome and transform our understanding of biology, accelerating scientific research and ultimately paving the way for new treatments for diseases.",
-      "source": "The Verge",
-      "published": "2026-09-08T14:00:00+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/991180/google-launches-alpha-genome-atlas"
     }
   ]
 };
