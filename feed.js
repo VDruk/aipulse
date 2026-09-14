@@ -1,6 +1,13 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-09-13T22:44:26.357951+00:00",
+  "lastUpdated": "2026-09-14T05:47:42.355457+00:00",
   "items": [
+    {
+      "title": "Open-Source AI and Open Models Reading List",
+      "summary": "Article URL: https://www.interconnects.ai/p/open-source-ai-reading-list Comments URL: https://news.ycombinator.com/item?id=49690260 Points: 69 # Comments: 7",
+      "source": "Hacker News",
+      "published": "2026-09-14T00:22:51+00:00",
+      "link": "https://www.interconnects.ai/p/open-source-ai-reading-list"
+    },
     {
       "title": "Trump and Mike Johnson think the AI industry is overreacting",
       "summary": "Yesterday, Anthropic CEO Dario Amodei published a lengthy open letter saying it was time to \"pace the frontier\" and slow down AI development. OpenAI's Sam Altman and Elon Musk both agreed, publicly voicing their support on X.",
@@ -9,11 +16,25 @@ const FEED_DATA = {
       "link": "https://www.theverge.com/ai-artificial-intelligence/994441/trump-mike-johnson-ai-industry-overreacting"
     },
     {
+      "title": "There Is No AI (It's Just People) with Jaron Lanier",
+      "summary": "Article URL: https://singjupost.com/startalk-there-is-no-ai-really-its-just-people-w-jaron-lanier-transcript/ Comments URL: https://news.ycombinator.com/item?id=49687869 Points: 71 # Comments: 90",
+      "source": "Hacker News",
+      "published": "2026-09-13T19:41:06+00:00",
+      "link": "https://singjupost.com/startalk-there-is-no-ai-really-its-just-people-w-jaron-lanier-transcript/"
+    },
+    {
       "title": "What’s behind the AI industry’s latest warnings of doom?",
       "summary": "On Equity, we discussed the AI industry's latest debate about whether it poses an existential threat to humanity.",
       "source": "TechCrunch",
       "published": "2026-09-13T19:40:15+00:00",
       "link": "https://techcrunch.com/2026/09/13/whats-behind-the-ai-industrys-latest-warnings-of-doom/"
+    },
+    {
+      "title": "AI recursive self-improvement might not come so quickly after all",
+      "summary": "Article URL: https://www.technologyreview.com/2026/08/18/1142188/ai-recursive-self-improvement/ Comments URL: https://news.ycombinator.com/item?id=49687334 Points: 68 # Comments: 70",
+      "source": "Hacker News",
+      "published": "2026-09-13T18:49:44+00:00",
+      "link": "https://www.technologyreview.com/2026/08/18/1142188/ai-recursive-self-improvement/"
     },
     {
       "title": "Obama urges Democrats to have a ‘clear plan’ for AI safeguards",
@@ -24,7 +45,7 @@ const FEED_DATA = {
     },
     {
       "title": "Garry Tan wants US open-weight AI labs to 'distill' frontier models, too",
-      "summary": "Article URL: https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/ Comments URL: https://news.ycombinator.com/item?id=49685253 Points: 294 # Comments: 154",
+      "summary": "Article URL: https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/ Comments URL: https://news.ycombinator.com/item?id=49685253 Points: 379 # Comments: 212",
       "source": "Hacker News",
       "published": "2026-09-13T15:44:38+00:00",
       "link": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/"
@@ -73,14 +94,14 @@ const FEED_DATA = {
     },
     {
       "title": "Why are AI agents lying, cheating and coordinating?",
-      "summary": "Article URL: https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating Comments URL: https://news.ycombinator.com/item?id=49678969 Points: 565 # Comments: 638",
+      "summary": "Article URL: https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating Comments URL: https://news.ycombinator.com/item?id=49678969 Points: 608 # Comments: 665",
       "source": "Hacker News",
       "published": "2026-09-13T01:22:31+00:00",
       "link": "https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating"
     },
     {
       "title": "Everyone should slow down AI development except for me",
-      "summary": "Article URL: https://xeiaso.net/notes/2026/everyone-slowdown-but-me/ Comments URL: https://news.ycombinator.com/item?id=49678683 Points: 734 # Comments: 432",
+      "summary": "Article URL: https://xeiaso.net/notes/2026/everyone-slowdown-but-me/ Comments URL: https://news.ycombinator.com/item?id=49678683 Points: 758 # Comments: 441",
       "source": "Hacker News",
       "published": "2026-09-13T00:30:44+00:00",
       "link": "https://xeiaso.net/notes/2026/everyone-slowdown-but-me/"
@@ -108,7 +129,7 @@ const FEED_DATA = {
     },
     {
       "title": "Real-SWE: Benchmarking AI models on private, real-world, enterprise codebases",
-      "summary": "Article URL: https://withspecific.com/benchmarks/real-swe Comments URL: https://news.ycombinator.com/item?id=49676820 Points: 268 # Comments: 147",
+      "summary": "Article URL: https://withspecific.com/benchmarks/real-swe Comments URL: https://news.ycombinator.com/item?id=49676820 Points: 269 # Comments: 149",
       "source": "Hacker News",
       "published": "2026-09-12T20:25:48+00:00",
       "link": "https://withspecific.com/benchmarks/real-swe"
@@ -129,7 +150,7 @@ const FEED_DATA = {
     },
     {
       "title": "Anthropic boss Dario Amodei calls for AI development to slow down",
-      "summary": "Article URL: https://www.bbc.com/news/articles/c14dpgm0rg4o Comments URL: https://news.ycombinator.com/item?id=49674395 Points: 55 # Comments: 108",
+      "summary": "Article URL: https://www.bbc.com/news/articles/c14dpgm0rg4o Comments URL: https://news.ycombinator.com/item?id=49674395 Points: 56 # Comments: 109",
       "source": "Hacker News",
       "published": "2026-09-12T16:56:52+00:00",
       "link": "https://www.bbc.com/news/articles/c14dpgm0rg4o"
@@ -150,7 +171,7 @@ const FEED_DATA = {
     },
     {
       "title": "Nvidia is the central bank of AI",
-      "summary": "https://archive.ph/kt50V Comments URL: https://news.ycombinator.com/item?id=49673098 Points: 558 # Comments: 388",
+      "summary": "https://archive.ph/kt50V Comments URL: https://news.ycombinator.com/item?id=49673098 Points: 564 # Comments: 391",
       "source": "Hacker News",
       "published": "2026-09-12T15:08:27+00:00",
       "link": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai"
@@ -185,7 +206,7 @@ const FEED_DATA = {
     },
     {
       "title": "LLMs are real, AI is fake",
-      "summary": "Article URL: https://pluralistic.net/2026/09/12/god-in-the-box/ Comments URL: https://news.ycombinator.com/item?id=49672281 Points: 74 # Comments: 37",
+      "summary": "Article URL: https://pluralistic.net/2026/09/12/god-in-the-box/ Comments URL: https://news.ycombinator.com/item?id=49672281 Points: 75 # Comments: 37",
       "source": "Hacker News",
       "published": "2026-09-12T13:47:28+00:00",
       "link": "https://pluralistic.net/2026/09/12/god-in-the-box/"
@@ -206,7 +227,7 @@ const FEED_DATA = {
     },
     {
       "title": "The worst spam emails: iLands AI agent hustle",
-      "summary": "Article URL: https://tedium.co/2026/09/11/ilands-agents-email-spam-kaixin-tang/ Comments URL: https://news.ycombinator.com/item?id=49671159 Points: 121 # Comments: 56",
+      "summary": "Article URL: https://tedium.co/2026/09/11/ilands-agents-email-spam-kaixin-tang/ Comments URL: https://news.ycombinator.com/item?id=49671159 Points: 124 # Comments: 56",
       "source": "Hacker News",
       "published": "2026-09-12T11:13:38+00:00",
       "link": "https://tedium.co/2026/09/11/ilands-agents-email-spam-kaixin-tang/"
@@ -353,7 +374,7 @@ const FEED_DATA = {
     },
     {
       "title": "Feeling Sad about AI",
-      "summary": "Article URL: https://artificialworlds.net/blog/2026/09/11/feeling-sad-about-ai/ Comments URL: https://news.ycombinator.com/item?id=49661506 Points: 178 # Comments: 307",
+      "summary": "Article URL: https://artificialworlds.net/blog/2026/09/11/feeling-sad-about-ai/ Comments URL: https://news.ycombinator.com/item?id=49661506 Points: 179 # Comments: 307",
       "source": "Hacker News",
       "published": "2026-09-11T16:50:51+00:00",
       "link": "https://artificialworlds.net/blog/2026/09/11/feeling-sad-about-ai/"
@@ -1379,27 +1400,6 @@ const FEED_DATA = {
       "source": "AI News",
       "published": "2026-09-08T10:00:00+00:00",
       "link": "https://www.artificialintelligence-news.com/news/coca-cola-ai-retailer-ordering-malaysia/"
-    },
-    {
-      "title": "AI weather forecasting enters the energy market as Google targets grid operators with WeatherNext 3",
-      "summary": "Google’s newest AI weather forecasting model predicts wind speed at 100 metres above the ground, roughly the height of a modern wind turbine. It also forecasts cloud cover and how much sunlight reaches the surface, and it updates every hour.",
-      "source": "AI News",
-      "published": "2026-09-08T09:00:00+00:00",
-      "link": "https://www.artificialintelligence-news.com/news/ai-weather-forecasting-google-weathernext-3-energy/"
-    },
-    {
-      "title": "YouTube Appears in 53% of Google AI Overviews for Vitamin and Supplement Searches",
-      "summary": "YouTube was the most frequently cited website in Google AI Overviews across a panel of vitamin and supplement searches, according to new research.",
-      "source": "AI News",
-      "published": "2026-09-08T08:50:39+00:00",
-      "link": "https://www.artificialintelligence-news.com/news/youtube-appears-in-53-of-google-ai-overviews-for-vitamin-and-supplement-searches/"
-    },
-    {
-      "title": "Mistral AI raises 3 billion euros in Europe's largest-ever tech funding round despite lagging behind rivals",
-      "summary": "Three years after launch, Mistral AI has closed a 3 billion euro Series D round, pushing its valuation past 21 billion euros. The article Mistral AI raises 3 billion euros in Europe's largest-ever tech funding round despite lagging behind rivals appeared first on The Decoder.",
-      "source": "The Decoder",
-      "published": "2026-09-08T07:45:41+00:00",
-      "link": "https://the-decoder.com/mistral-ai-raises-3-billion-euros-in-europes-largest-ever-tech-funding-round-despite-lagging-behind-rivals/"
     }
   ]
 };
