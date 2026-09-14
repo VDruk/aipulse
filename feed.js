@@ -1,6 +1,20 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-09-14T18:25:08.144654+00:00",
+  "lastUpdated": "2026-09-14T20:42:26.574489+00:00",
   "items": [
+    {
+      "title": "Jensen Huang puts Trump on speakerphone onstage to announce robots won’t take over the world",
+      "summary": "Nvidia CEO Jensen Huang took a call from President Trump on Monday while onstage at the All-In Podcast's All-In Summit. It's not the first time Huang has taken a call from the president during work, but this time he put Trump on speakerphone before a big crowd.",
+      "source": "The Verge",
+      "published": "2026-09-14T20:03:37+00:00",
+      "link": "https://www.theverge.com/tech/995079/president-donald-trump-calls-nvidia-ceo-jensen-huang-all-in-summit"
+    },
+    {
+      "title": "The AI industry has taken a doomer turn. What now?",
+      "summary": "This story appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here.",
+      "source": "MIT Tech Review",
+      "published": "2026-09-14T17:54:22+00:00",
+      "link": "https://www.technologyreview.com/2026/09/14/1144048/the-ai-industry-has-taken-a-doomer-turn-what-now/"
+    },
     {
       "title": "OpenAI has hundreds of contract workers reading your ChatGPT conversations",
       "summary": "OpenAI has hundreds of contract workers reading real ChatGPT conversations and rating them on a scale of one to seven, partly to reduce flattery and human-like behavior, 404 Media reports. The prompts are anonymized but can still contain sensitive data.",
@@ -1386,20 +1400,6 @@ const FEED_DATA = {
       "source": "Hacker News",
       "published": "2026-09-09T01:32:49+00:00",
       "link": "https://twitter.com/hilbertspaess/status/2097476196791709843"
-    },
-    {
-      "title": "Why this month's Microsoft patch release is a doozy",
-      "summary": "Security gnomes are pumping out patches ahead of an expected onslaught of AI-assisted attacks.",
-      "source": "Ars Technica",
-      "published": "2026-09-08T21:11:46+00:00",
-      "link": "https://arstechnica.com/security/2026/09/microsoft-patches-a-record-972-vulnerabilities-112-of-them-critical/"
-    },
-    {
-      "title": "Hackers are stealing Claude tokens from subscribers",
-      "summary": "Last month, a Claude user noticed his account was consuming tokens even though he wasn't working. Anthropic has since warned users about hackers.",
-      "source": "TechCrunch",
-      "published": "2026-09-08T21:10:27+00:00",
-      "link": "https://techcrunch.com/2026/09/08/hackers-are-stealing-claude-tokens-from-subscribers/"
     }
   ]
 };
