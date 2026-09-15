@@ -1,6 +1,27 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-09-15T05:49:14.299689+00:00",
+  "lastUpdated": "2026-09-15T09:49:19.230442+00:00",
   "items": [
+    {
+      "title": "Not everyone is convinced that Big AI's proposed development slowdown is really about safety",
+      "summary": "OpenAI, Anthropic, and Google want to slow down frontier AI development, citing safety concerns. But critics from across the industry and politics are pushing back.",
+      "source": "The Decoder",
+      "published": "2026-09-15T09:04:36+00:00",
+      "link": "https://the-decoder.com/not-everyone-is-convinced-that-big-ais-proposed-development-slowdown-is-really-about-safety/"
+    },
+    {
+      "title": "The AI Talent Britain Fought to Hire May Be Recalculating Its Future",
+      "summary": "A proposed overhaul of UK settlement rules would double the wait for permanent residence, and it reaches back to sponsored engineers already here. For AI employers, it is quietly becoming a retention problem.",
+      "source": "AI News",
+      "published": "2026-09-15T07:14:47+00:00",
+      "link": "https://www.artificialintelligence-news.com/news/the-ai-talent-britain-fought-to-hire-may-be-recalculating-its-future/"
+    },
+    {
+      "title": "Ex-FTC boss Khan: break out the handcuffs for AI CEOs, citing 1934 precedent",
+      "summary": "Article URL: https://www.theregister.com/ai-and-ml/2026/09/14/ex-ftc-boss-khan-urges-uncle-sam-to-break-out-the-handcuffs-for-ai-ceos-citing-1934-precedent/5296325 Comments URL: https://news.ycombinator.com/item?id=49706223 Points: 169 # Comments: 105",
+      "source": "Hacker News",
+      "published": "2026-09-15T00:40:14+00:00",
+      "link": "https://www.theregister.com/ai-and-ml/2026/09/14/ex-ftc-boss-khan-urges-uncle-sam-to-break-out-the-handcuffs-for-ai-ceos-citing-1934-precedent/5296325"
+    },
     {
       "title": "Is Big Tech’s AI slowdown a safety pact or a cartel?",
       "summary": "When OpenAI CEO Sam Altman, Anthropic CEO Dario Amodei, Google DeepMind cofounder Demis Hassabis, and SpaceX head Elon Musk loosely agreed over the weekend to slow down AI development, skeptics spotted an ulterior motive immediately.",
@@ -14,6 +35,13 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-09-14T21:51:02+00:00",
       "link": "https://techcrunch.com/2026/09/14/nvidia-ceo-jensen-huang-tells-trump-were-not-going-to-let-an-ai-slowdown-happen/"
+    },
+    {
+      "title": "Tell HN: iOS 27 does not allow Apple Intelligence to be disabled",
+      "summary": "I'm surprised that this didn't get more attention during the Beta period.iOS 26 had a toggle you could select to disable all Apple Intelligence features.That toggle was removed for iOS 27.",
+      "source": "Hacker News",
+      "published": "2026-09-14T21:21:58+00:00",
+      "link": "https://news.ycombinator.com/item?id=49704226"
     },
     {
       "title": "What execs and politicians are saying about slowing down AI development",
@@ -45,7 +73,7 @@ const FEED_DATA = {
     },
     {
       "title": "GPT-5.6 Luna vs. GPT-6 Astra: Is a $1.20 Model Good Enough for Code Review?",
-      "summary": "Article URL: https://entelligence.ai/blogs/gpt-5.6-luna-vs-gpt-6-astra-is-a-1.20-model-good-enough-for-code-review Comments URL: https://news.ycombinator.com/item?id=49703003 Points: 85 # Comments: 99",
+      "summary": "Article URL: https://entelligence.ai/blogs/gpt-5.6-luna-vs-gpt-6-astra-is-a-1.20-model-good-enough-for-code-review Comments URL: https://news.ycombinator.com/item?id=49703003 Points: 147 # Comments: 132",
       "source": "Hacker News",
       "published": "2026-09-14T19:56:20+00:00",
       "link": "https://entelligence.ai/blogs/gpt-5.6-luna-vs-gpt-6-astra-is-a-1.20-model-good-enough-for-code-review"
@@ -79,6 +107,13 @@ const FEED_DATA = {
       "link": "https://www.wired.com/story/new-york-seizes-a-dozen-celebrity-deepfake-websites/"
     },
     {
+      "title": "When LLM judges agree, should we believe them?",
+      "summary": "Article URL: https://www.amazon.science/blog/when-llm-judges-agree-should-we-believe-them Comments URL: https://news.ycombinator.com/item?id=49699590 Points: 52 # Comments: 42",
+      "source": "Hacker News",
+      "published": "2026-09-14T16:29:30+00:00",
+      "link": "https://www.amazon.science/blog/when-llm-judges-agree-should-we-believe-them"
+    },
+    {
       "title": "Microsoft’s new AI ‘code of conduct’ tells models not to hack systems or trick humans",
       "summary": "The code of conduct lays out general principles that Microsoft AI models should uphold — supporting humans rather than replacing them, for instance, and accelerating human flourishing — as well as specific safety constraints meant to implement those principles.",
       "source": "TechCrunch",
@@ -87,7 +122,7 @@ const FEED_DATA = {
     },
     {
       "title": "For AI leaders Doom is a form of hype",
-      "summary": "Article URL: https://erkansaka.net/2026/09/10/ai-doom-rhetoric-safety-hype/ Comments URL: https://news.ycombinator.com/item?id=49699384 Points: 122 # Comments: 170",
+      "summary": "Article URL: https://erkansaka.net/2026/09/10/ai-doom-rhetoric-safety-hype/ Comments URL: https://news.ycombinator.com/item?id=49699384 Points: 129 # Comments: 176",
       "source": "Hacker News",
       "published": "2026-09-14T16:15:05+00:00",
       "link": "https://erkansaka.net/2026/09/10/ai-doom-rhetoric-safety-hype/"
@@ -115,7 +150,7 @@ const FEED_DATA = {
     },
     {
       "title": "China's Regulators Take Aim at \"AI Boyfriends\"",
-      "summary": "Article URL: https://spectrum.ieee.org/china-ai-chatbot-regulation Comments URL: https://news.ycombinator.com/item?id=49698664 Points: 54 # Comments: 49",
+      "summary": "Article URL: https://spectrum.ieee.org/china-ai-chatbot-regulation Comments URL: https://news.ycombinator.com/item?id=49698664 Points: 55 # Comments: 52",
       "source": "Hacker News",
       "published": "2026-09-14T15:30:56+00:00",
       "link": "https://spectrum.ieee.org/china-ai-chatbot-regulation"
@@ -149,8 +184,15 @@ const FEED_DATA = {
       "link": "https://techcrunch.com/2026/09/14/hear-how-ai-can-engineer-natures-comeback-at-techcrunch-disrupt-2026/"
     },
     {
+      "title": "Dropping eBPF CPU Cost by About 90% with Memoization (Not AI Gen)",
+      "summary": "Article URL: https://nathannaveen.dev/posts/dropping-ebpf-cpu-cost-by-90/ Comments URL: https://news.ycombinator.com/item?id=49697477 Points: 113 # Comments: 27",
+      "source": "Hacker News",
+      "published": "2026-09-14T14:29:23+00:00",
+      "link": "https://nathannaveen.dev/posts/dropping-ebpf-cpu-cost-by-90/"
+    },
+    {
       "title": "Adversarial Fashion Makes a Statement on AI Panopticon",
-      "summary": "Article URL: https://spectrum.ieee.org/adversarial-fashion Comments URL: https://news.ycombinator.com/item?id=49697094 Points: 90 # Comments: 43",
+      "summary": "Article URL: https://spectrum.ieee.org/adversarial-fashion Comments URL: https://news.ycombinator.com/item?id=49697094 Points: 102 # Comments: 46",
       "source": "Hacker News",
       "published": "2026-09-14T14:04:53+00:00",
       "link": "https://spectrum.ieee.org/adversarial-fashion"
@@ -164,7 +206,7 @@ const FEED_DATA = {
     },
     {
       "title": "The AI job market in 2026",
-      "summary": "Article URL: https://www.ilinmaks.com/blog/en/ai-jobs-market-2026 Comments URL: https://news.ycombinator.com/item?id=49696867 Points: 63 # Comments: 67",
+      "summary": "Article URL: https://www.ilinmaks.com/blog/en/ai-jobs-market-2026 Comments URL: https://news.ycombinator.com/item?id=49696867 Points: 65 # Comments: 71",
       "source": "Hacker News",
       "published": "2026-09-14T13:49:57+00:00",
       "link": "https://www.ilinmaks.com/blog/en/ai-jobs-market-2026"
@@ -206,7 +248,7 @@ const FEED_DATA = {
     },
     {
       "title": "Apple's Siri AI Can Be Swapped Out for Claude, ChatGPT, Code Shows",
-      "summary": "Article URL: https://www.macrumors.com/2026/09/14/siri-can-be-swapped-out-for-chatgpt-claude/ Comments URL: https://news.ycombinator.com/item?id=49695409 Points: 216 # Comments: 151",
+      "summary": "Article URL: https://www.macrumors.com/2026/09/14/siri-can-be-swapped-out-for-chatgpt-claude/ Comments URL: https://news.ycombinator.com/item?id=49695409 Points: 222 # Comments: 157",
       "source": "Hacker News",
       "published": "2026-09-14T12:01:32+00:00",
       "link": "https://www.macrumors.com/2026/09/14/siri-can-be-swapped-out-for-chatgpt-claude/"
@@ -220,7 +262,7 @@ const FEED_DATA = {
     },
     {
       "title": "Big AI sets out its terms for regulatory capture",
-      "summary": "Article URL: https://www.theregister.com/ai-and-ml/2026/09/14/big-ai-sets-out-its-terms-for-regulatory-capture-and-calls-it-pace-the-frontier/5296067 Comments URL: https://news.ycombinator.com/item?id=49694596 Points: 115 # Comments: 67",
+      "summary": "Article URL: https://www.theregister.com/ai-and-ml/2026/09/14/big-ai-sets-out-its-terms-for-regulatory-capture-and-calls-it-pace-the-frontier/5296067 Comments URL: https://news.ycombinator.com/item?id=49694596 Points: 117 # Comments: 68",
       "source": "Hacker News",
       "published": "2026-09-14T10:28:28+00:00",
       "link": "https://www.theregister.com/ai-and-ml/2026/09/14/big-ai-sets-out-its-terms-for-regulatory-capture-and-calls-it-pace-the-frontier/5296067"
@@ -255,7 +297,7 @@ const FEED_DATA = {
     },
     {
       "title": "OpenArch – PyTorch implementations of modern LLM architectures",
-      "summary": "Article URL: https://github.com/anuj0456/OpenArch Comments URL: https://news.ycombinator.com/item?id=49693384 Points: 129 # Comments: 31",
+      "summary": "Article URL: https://github.com/anuj0456/OpenArch Comments URL: https://news.ycombinator.com/item?id=49693384 Points: 137 # Comments: 31",
       "source": "Hacker News",
       "published": "2026-09-14T07:55:19+00:00",
       "link": "https://github.com/anuj0456/OpenArch"
@@ -269,14 +311,14 @@ const FEED_DATA = {
     },
     {
       "title": "The Malicious Use of Artificial Intelligence",
-      "summary": "Article URL: https://arxiv.org/abs/1802.07228 Comments URL: https://news.ycombinator.com/item?id=49690678 Points: 85 # Comments: 23",
+      "summary": "Article URL: https://arxiv.org/abs/1802.07228 Comments URL: https://news.ycombinator.com/item?id=49690678 Points: 85 # Comments: 24",
       "source": "Hacker News",
       "published": "2026-09-14T01:22:35+00:00",
       "link": "https://arxiv.org/abs/1802.07228"
     },
     {
       "title": "Open-source AI and open models reading list",
-      "summary": "Article URL: https://www.interconnects.ai/p/open-source-ai-reading-list Comments URL: https://news.ycombinator.com/item?id=49690260 Points: 152 # Comments: 29",
+      "summary": "Article URL: https://www.interconnects.ai/p/open-source-ai-reading-list Comments URL: https://news.ycombinator.com/item?id=49690260 Points: 154 # Comments: 29",
       "source": "Hacker News",
       "published": "2026-09-14T00:22:51+00:00",
       "link": "https://www.interconnects.ai/p/open-source-ai-reading-list"
@@ -304,7 +346,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI recursive self-improvement might not come so quickly after all",
-      "summary": "Article URL: https://www.technologyreview.com/2026/08/18/1142188/ai-recursive-self-improvement/ Comments URL: https://news.ycombinator.com/item?id=49687334 Points: 77 # Comments: 79",
+      "summary": "Article URL: https://www.technologyreview.com/2026/08/18/1142188/ai-recursive-self-improvement/ Comments URL: https://news.ycombinator.com/item?id=49687334 Points: 79 # Comments: 82",
       "source": "Hacker News",
       "published": "2026-09-13T18:49:44+00:00",
       "link": "https://www.technologyreview.com/2026/08/18/1142188/ai-recursive-self-improvement/"
@@ -318,7 +360,7 @@ const FEED_DATA = {
     },
     {
       "title": "Garry Tan wants US open-weight AI labs to 'distill' frontier models, too",
-      "summary": "Article URL: https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/ Comments URL: https://news.ycombinator.com/item?id=49685253 Points: 405 # Comments: 231",
+      "summary": "Article URL: https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/ Comments URL: https://news.ycombinator.com/item?id=49685253 Points: 409 # Comments: 235",
       "source": "Hacker News",
       "published": "2026-09-13T15:44:38+00:00",
       "link": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/"
@@ -374,14 +416,14 @@ const FEED_DATA = {
     },
     {
       "title": "Why are AI agents lying, cheating and coordinating?",
-      "summary": "Article URL: https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating Comments URL: https://news.ycombinator.com/item?id=49678969 Points: 644 # Comments: 682",
+      "summary": "Article URL: https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating Comments URL: https://news.ycombinator.com/item?id=49678969 Points: 649 # Comments: 686",
       "source": "Hacker News",
       "published": "2026-09-13T01:22:31+00:00",
       "link": "https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating"
     },
     {
       "title": "Everyone should slow down AI development except for me",
-      "summary": "Article URL: https://xeiaso.net/notes/2026/everyone-slowdown-but-me/ Comments URL: https://news.ycombinator.com/item?id=49678683 Points: 797 # Comments: 450",
+      "summary": "Article URL: https://xeiaso.net/notes/2026/everyone-slowdown-but-me/ Comments URL: https://news.ycombinator.com/item?id=49678683 Points: 803 # Comments: 450",
       "source": "Hacker News",
       "published": "2026-09-13T00:30:44+00:00",
       "link": "https://xeiaso.net/notes/2026/everyone-slowdown-but-me/"
@@ -1358,48 +1400,6 @@ const FEED_DATA = {
       "source": "The Decoder",
       "published": "2026-09-09T12:17:58+00:00",
       "link": "https://the-decoder.com/chatgpt-images-2-5-faster-more-precise-but-not-the-same-for-everyone/"
-    },
-    {
-      "title": "The Download: OpenAI’s turning point for math and a battery record",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.",
-      "source": "MIT Tech Review",
-      "published": "2026-09-09T12:10:00+00:00",
-      "link": "https://www.technologyreview.com/2026/09/09/1143767/the-download-openai-math-future-battery-record/"
-    },
-    {
-      "title": "Suno replaces its AI models with a new one trained on licensed music as copyright suits pile up",
-      "summary": "As it grapples with a bevy of lawsuits, Suno said its new model, Suno v6, is not trained using music it used to train previous versions of the AI model.",
-      "source": "TechCrunch",
-      "published": "2026-09-09T12:05:34+00:00",
-      "link": "https://techcrunch.com/2026/09/09/suno-replaces-its-ai-models-with-a-new-one-trained-on-licensed-music-as-copyright-suits-pile-up/"
-    },
-    {
-      "title": "Students who use AI generally score worse at school",
-      "summary": "Students who use AI to help them study tend to perform worse at school than those who don't, according to data from a global OECD educational report.",
-      "source": "The Verge",
-      "published": "2026-09-09T12:05:01+00:00",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/991956/student-ai-use-scores-oecd-pisa"
-    },
-    {
-      "title": "Hugging Face's new ML Intern lets anyone run machine learning experiments through a simple chat",
-      "summary": "Hugging Face launched \"ML Intern,\" an AI assistant built into its chatbot that lets users run machine learning experiments without any ML expertise.",
-      "source": "The Decoder",
-      "published": "2026-09-09T10:38:41+00:00",
-      "link": "https://the-decoder.com/hugging-faces-new-ml-intern-lets-anyone-run-machine-learning-experiments-through-a-simple-chat/"
-    },
-    {
-      "title": "CloudNC aims to accelerate AI supply chain machining",
-      "summary": "CloudNC has secured $20 million in new capital to scale its AI precision machining technology across global supply chain networks.",
-      "source": "AI News",
-      "published": "2026-09-09T10:34:20+00:00",
-      "link": "https://www.artificialintelligence-news.com/news/cloudnc-aims-to-accelerate-ai-supply-chain-machining/"
-    },
-    {
-      "title": "OpenAI's millennium proof dispute raises the question of whether researchers can trust AI labs",
-      "summary": "The fight over an AI-generated proof of a millennium problem is heating up. Mathematician Tristan Buckmaster accuses OpenAI of academic fraud, CEO Sam Altman rejects the allegations.",
-      "source": "The Decoder",
-      "published": "2026-09-09T10:27:37+00:00",
-      "link": "https://the-decoder.com/openais-millennium-proof-dispute-raises-the-question-of-whether-researchers-can-trust-ai-labs/"
     }
   ]
 };
