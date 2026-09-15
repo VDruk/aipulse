@@ -1,6 +1,69 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-09-15T13:54:56.737659+00:00",
+  "lastUpdated": "2026-09-15T17:31:50.814027+00:00",
   "items": [
+    {
+      "title": "Meta expands subscription push with new AI-focused plans",
+      "summary": "Meta One bundles expanded access to the company’s AI tools with premium features across Facebook, Instagram and WhatsApp.",
+      "source": "TechCrunch",
+      "published": "2026-09-15T17:05:24+00:00",
+      "link": "https://techcrunch.com/2026/09/15/meta-expands-subscription-push-with-new-ai-focused-plans/"
+    },
+    {
+      "title": "There's a 100% Chance AI Agents Are Ruining the Internet",
+      "summary": "Article URL: https://www.404media.co/theres-a-100-chance-ai-agents-are-already-ruining-the-internet/ Comments URL: https://news.ycombinator.com/item?id=49715113 Points: 81 # Comments: 42",
+      "source": "Hacker News",
+      "published": "2026-09-15T16:38:45+00:00",
+      "link": "https://www.404media.co/theres-a-100-chance-ai-agents-are-already-ruining-the-internet/"
+    },
+    {
+      "title": "OpenAI, Anthropic, Google have been in talks on AI safety for weeks",
+      "summary": "OpenAI confirms weeks of AI safety talks with Anthropic and Google DeepMind, as Trump's team dismisses safety concerns and pushes to keep pace with China.",
+      "source": "TechCrunch",
+      "published": "2026-09-15T15:47:03+00:00",
+      "link": "https://techcrunch.com/2026/09/15/openai-anthropic-google-have-been-in-talks-on-ai-safety-for-weeks/"
+    },
+    {
+      "title": "AEO startup Profound hits unicorn valuation, raises $180M Series D 7 months after last round",
+      "summary": "Profound has raised a $180 million Series D at a $1.8 billion valuation, less than seven months after it raised a $96 million Series C.",
+      "source": "TechCrunch",
+      "published": "2026-09-15T15:22:48+00:00",
+      "link": "https://techcrunch.com/2026/09/15/aeo-startup-profound-hits-unicorn-valuation-raises-180m-series-d-7-months-after-last-round/"
+    },
+    {
+      "title": "Meta’s new One subscriptions put a price on social media and AI",
+      "summary": "Shortly after launching its new do-everything AI assistant Muse, Meta's launching subscription bundles that pair its standalone app subscriptions with extra AI usage.",
+      "source": "The Verge",
+      "published": "2026-09-15T15:00:00+00:00",
+      "link": "https://www.theverge.com/tech/995453/meta-one-subscriptions-ai"
+    },
+    {
+      "title": "Former TikTok execs built an app that uses AI to teach you how to pose for a photo",
+      "summary": "Essentially a camera app, Superpose analyzes selfies or photos and generates four potential poses using AI.",
+      "source": "TechCrunch",
+      "published": "2026-09-15T14:42:37+00:00",
+      "link": "https://techcrunch.com/2026/09/15/former-tiktok-execs-built-an-app-that-uses-ai-to-teach-you-how-to-pose-for-a-photo/"
+    },
+    {
+      "title": "Discover how to take your startup from prototype to production at TechCrunch Disrupt 2026",
+      "summary": "Learn how to scale your startup breakthrough from prototype to production at TechCrunch Disrupt 2026 with scaling leaders, Adrian Macneil (Foxglove), John Mackey (MBRYONICS), and Boris Sofman (Bedrock Robotics). Register before September 25 to save up to $200 on your pass.",
+      "source": "TechCrunch",
+      "published": "2026-09-15T14:30:00+00:00",
+      "link": "https://techcrunch.com/2026/09/15/discover-how-to-take-your-startup-from-prototype-to-production-at-techcrunch-disrupt-2026/"
+    },
+    {
+      "title": "After warning AI is too dangerous, Bill Gates bets a billion on its upside",
+      "summary": "The Gates Foundation is investing at least a billion dollars over two years to make AI tools more widely available in health, education, and agriculture.",
+      "source": "The Decoder",
+      "published": "2026-09-15T14:26:48+00:00",
+      "link": "https://the-decoder.com/after-warning-ai-is-too-dangerous-bill-gates-bets-a-billion-on-its-upside/"
+    },
+    {
+      "title": "AI is breaking our proxies for expertise",
+      "summary": "Article URL: https://www.seangoedecke.com/ai-is-breaking-our-proxies-for-expertise/ Comments URL: https://news.ycombinator.com/item?id=49712416 Points: 69 # Comments: 54",
+      "source": "Hacker News",
+      "published": "2026-09-15T13:41:55+00:00",
+      "link": "https://www.seangoedecke.com/ai-is-breaking-our-proxies-for-expertise/"
+    },
     {
       "title": "This doorbell camera lets a human security guard watch your front door",
       "summary": "DIY home security company SimpliSafe is bringing its AI-powered proactive security feature to the front door. The new SimpliSafe Video Doorbell Series 2 launches today for $199.99 and works with the company's Active Guard Outdoor Protection (starting at $49.99 a month).",
@@ -38,10 +101,17 @@ const FEED_DATA = {
     },
     {
       "title": "AI models need more data about biology, and OpenAI is paying to create it",
-      "summary": "Last year, the clinical trial policy analyst Ruxandra Teslo posted an idea for super-charging medical AI systems: use data from failed biotech companies.",
+      "summary": "Last year Ruxandra Teslo, a policy analyst who focuses on clinical trials, posted an idea for supercharging medical AI systems: Use data from failed biotech companies.",
       "source": "MIT Tech Review",
       "published": "2026-09-15T12:00:00+00:00",
       "link": "https://www.technologyreview.com/2026/09/15/1144129/ai-models-need-more-data-about-biology-and-openai-is-paying-to-create-it/"
+    },
+    {
+      "title": "Pony.ai unveils autonomous electric truck for logistics fleets",
+      "summary": "Pony.ai has unveiled an autonomous electric truck for logistics fleets, developed with GAC Commercial Vehicle for freight supply chains. Unveiled at IAA Transportation 2026, this Level 4 (L4) heavy rig marks the fourth-generation (Gen-4) iteration of Pony.ai’s Robotruck platform.",
+      "source": "AI News",
+      "published": "2026-09-15T11:15:57+00:00",
+      "link": "https://www.artificialintelligence-news.com/news/pony-ai-autonomous-electric-truck-for-logistics-fleets/"
     },
     {
       "title": "Apple brings a fully revamped Siri built on Google's Gemini, but not to the EU",
@@ -59,7 +129,7 @@ const FEED_DATA = {
     },
     {
       "title": "How much of F-Droid is LLM generated?",
-      "summary": "Article URL: https://tintotint.eu/whacky-corner/f-droid_slop/ Comments URL: https://news.ycombinator.com/item?id=49710015 Points: 74 # Comments: 93",
+      "summary": "Article URL: https://tintotint.eu/whacky-corner/f-droid_slop/ Comments URL: https://news.ycombinator.com/item?id=49710015 Points: 84 # Comments: 115",
       "source": "Hacker News",
       "published": "2026-09-15T09:47:48+00:00",
       "link": "https://tintotint.eu/whacky-corner/f-droid_slop/"
@@ -80,7 +150,7 @@ const FEED_DATA = {
     },
     {
       "title": "Ex-FTC boss Khan: break out the handcuffs for AI CEOs, citing 1934 precedent",
-      "summary": "Article URL: https://www.theregister.com/ai-and-ml/2026/09/14/ex-ftc-boss-khan-urges-uncle-sam-to-break-out-the-handcuffs-for-ai-ceos-citing-1934-precedent/5296325 Comments URL: https://news.ycombinator.com/item?id=49706223 Points: 192 # Comments: 115",
+      "summary": "Article URL: https://www.theregister.com/ai-and-ml/2026/09/14/ex-ftc-boss-khan-urges-uncle-sam-to-break-out-the-handcuffs-for-ai-ceos-citing-1934-precedent/5296325 Comments URL: https://news.ycombinator.com/item?id=49706223 Points: 207 # Comments: 122",
       "source": "Hacker News",
       "published": "2026-09-15T00:40:14+00:00",
       "link": "https://www.theregister.com/ai-and-ml/2026/09/14/ex-ftc-boss-khan-urges-uncle-sam-to-break-out-the-handcuffs-for-ai-ceos-citing-1934-precedent/5296325"
@@ -136,7 +206,7 @@ const FEED_DATA = {
     },
     {
       "title": "GPT-5.6 Luna vs. GPT-6 Astra: Is a $1.20 Model Good Enough for Code Review?",
-      "summary": "Article URL: https://entelligence.ai/blogs/gpt-5.6-luna-vs-gpt-6-astra-is-a-1.20-model-good-enough-for-code-review Comments URL: https://news.ycombinator.com/item?id=49703003 Points: 152 # Comments: 138",
+      "summary": "Article URL: https://entelligence.ai/blogs/gpt-5.6-luna-vs-gpt-6-astra-is-a-1.20-model-good-enough-for-code-review Comments URL: https://news.ycombinator.com/item?id=49703003 Points: 154 # Comments: 144",
       "source": "Hacker News",
       "published": "2026-09-14T19:56:20+00:00",
       "link": "https://entelligence.ai/blogs/gpt-5.6-luna-vs-gpt-6-astra-is-a-1.20-model-good-enough-for-code-review"
@@ -171,7 +241,7 @@ const FEED_DATA = {
     },
     {
       "title": "When LLM judges agree, should we believe them?",
-      "summary": "Article URL: https://www.amazon.science/blog/when-llm-judges-agree-should-we-believe-them Comments URL: https://news.ycombinator.com/item?id=49699590 Points: 52 # Comments: 44",
+      "summary": "Article URL: https://www.amazon.science/blog/when-llm-judges-agree-should-we-believe-them Comments URL: https://news.ycombinator.com/item?id=49699590 Points: 52 # Comments: 45",
       "source": "Hacker News",
       "published": "2026-09-14T16:29:30+00:00",
       "link": "https://www.amazon.science/blog/when-llm-judges-agree-should-we-believe-them"
@@ -185,7 +255,7 @@ const FEED_DATA = {
     },
     {
       "title": "For AI leaders Doom is a form of hype",
-      "summary": "Article URL: https://erkansaka.net/2026/09/10/ai-doom-rhetoric-safety-hype/ Comments URL: https://news.ycombinator.com/item?id=49699384 Points: 130 # Comments: 176",
+      "summary": "Article URL: https://erkansaka.net/2026/09/10/ai-doom-rhetoric-safety-hype/ Comments URL: https://news.ycombinator.com/item?id=49699384 Points: 131 # Comments: 180",
       "source": "Hacker News",
       "published": "2026-09-14T16:15:05+00:00",
       "link": "https://erkansaka.net/2026/09/10/ai-doom-rhetoric-safety-hype/"
@@ -213,7 +283,7 @@ const FEED_DATA = {
     },
     {
       "title": "China's Regulators Take Aim at \"AI Boyfriends\"",
-      "summary": "Article URL: https://spectrum.ieee.org/china-ai-chatbot-regulation Comments URL: https://news.ycombinator.com/item?id=49698664 Points: 55 # Comments: 52",
+      "summary": "Article URL: https://spectrum.ieee.org/china-ai-chatbot-regulation Comments URL: https://news.ycombinator.com/item?id=49698664 Points: 56 # Comments: 52",
       "source": "Hacker News",
       "published": "2026-09-14T15:30:56+00:00",
       "link": "https://spectrum.ieee.org/china-ai-chatbot-regulation"
@@ -248,14 +318,14 @@ const FEED_DATA = {
     },
     {
       "title": "Dropping eBPF CPU Cost by About 90% with Memoization (Not AI Gen)",
-      "summary": "Article URL: https://nathannaveen.dev/posts/dropping-ebpf-cpu-cost-by-90/ Comments URL: https://news.ycombinator.com/item?id=49697477 Points: 142 # Comments: 29",
+      "summary": "Article URL: https://nathannaveen.dev/posts/dropping-ebpf-cpu-cost-by-90/ Comments URL: https://news.ycombinator.com/item?id=49697477 Points: 148 # Comments: 29",
       "source": "Hacker News",
       "published": "2026-09-14T14:29:23+00:00",
       "link": "https://nathannaveen.dev/posts/dropping-ebpf-cpu-cost-by-90/"
     },
     {
       "title": "Adversarial Fashion Makes a Statement on AI Panopticon",
-      "summary": "Article URL: https://spectrum.ieee.org/adversarial-fashion Comments URL: https://news.ycombinator.com/item?id=49697094 Points: 106 # Comments: 47",
+      "summary": "Article URL: https://spectrum.ieee.org/adversarial-fashion Comments URL: https://news.ycombinator.com/item?id=49697094 Points: 107 # Comments: 47",
       "source": "Hacker News",
       "published": "2026-09-14T14:04:53+00:00",
       "link": "https://spectrum.ieee.org/adversarial-fashion"
@@ -269,7 +339,7 @@ const FEED_DATA = {
     },
     {
       "title": "The AI job market in 2026",
-      "summary": "Article URL: https://www.ilinmaks.com/blog/en/ai-jobs-market-2026 Comments URL: https://news.ycombinator.com/item?id=49696867 Points: 65 # Comments: 71",
+      "summary": "Article URL: https://www.ilinmaks.com/blog/en/ai-jobs-market-2026 Comments URL: https://news.ycombinator.com/item?id=49696867 Points: 67 # Comments: 71",
       "source": "Hacker News",
       "published": "2026-09-14T13:49:57+00:00",
       "link": "https://www.ilinmaks.com/blog/en/ai-jobs-market-2026"
@@ -311,7 +381,7 @@ const FEED_DATA = {
     },
     {
       "title": "Apple's Siri AI Can Be Swapped Out for Claude, ChatGPT, Code Shows",
-      "summary": "Article URL: https://www.macrumors.com/2026/09/14/siri-can-be-swapped-out-for-chatgpt-claude/ Comments URL: https://news.ycombinator.com/item?id=49695409 Points: 223 # Comments: 158",
+      "summary": "Article URL: https://www.macrumors.com/2026/09/14/siri-can-be-swapped-out-for-chatgpt-claude/ Comments URL: https://news.ycombinator.com/item?id=49695409 Points: 224 # Comments: 159",
       "source": "Hacker News",
       "published": "2026-09-14T12:01:32+00:00",
       "link": "https://www.macrumors.com/2026/09/14/siri-can-be-swapped-out-for-chatgpt-claude/"
@@ -325,7 +395,7 @@ const FEED_DATA = {
     },
     {
       "title": "Big AI sets out its terms for regulatory capture",
-      "summary": "Article URL: https://www.theregister.com/ai-and-ml/2026/09/14/big-ai-sets-out-its-terms-for-regulatory-capture-and-calls-it-pace-the-frontier/5296067 Comments URL: https://news.ycombinator.com/item?id=49694596 Points: 118 # Comments: 68",
+      "summary": "Article URL: https://www.theregister.com/ai-and-ml/2026/09/14/big-ai-sets-out-its-terms-for-regulatory-capture-and-calls-it-pace-the-frontier/5296067 Comments URL: https://news.ycombinator.com/item?id=49694596 Points: 119 # Comments: 69",
       "source": "Hacker News",
       "published": "2026-09-14T10:28:28+00:00",
       "link": "https://www.theregister.com/ai-and-ml/2026/09/14/big-ai-sets-out-its-terms-for-regulatory-capture-and-calls-it-pace-the-frontier/5296067"
@@ -374,14 +444,14 @@ const FEED_DATA = {
     },
     {
       "title": "The Malicious Use of Artificial Intelligence",
-      "summary": "Article URL: https://arxiv.org/abs/1802.07228 Comments URL: https://news.ycombinator.com/item?id=49690678 Points: 86 # Comments: 24",
+      "summary": "Article URL: https://arxiv.org/abs/1802.07228 Comments URL: https://news.ycombinator.com/item?id=49690678 Points: 87 # Comments: 24",
       "source": "Hacker News",
       "published": "2026-09-14T01:22:35+00:00",
       "link": "https://arxiv.org/abs/1802.07228"
     },
     {
       "title": "Open-source AI and open models reading list",
-      "summary": "Article URL: https://www.interconnects.ai/p/open-source-ai-reading-list Comments URL: https://news.ycombinator.com/item?id=49690260 Points: 155 # Comments: 30",
+      "summary": "Article URL: https://www.interconnects.ai/p/open-source-ai-reading-list Comments URL: https://news.ycombinator.com/item?id=49690260 Points: 156 # Comments: 30",
       "source": "Hacker News",
       "published": "2026-09-14T00:22:51+00:00",
       "link": "https://www.interconnects.ai/p/open-source-ai-reading-list"
@@ -409,7 +479,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI recursive self-improvement might not come so quickly after all",
-      "summary": "Article URL: https://www.technologyreview.com/2026/08/18/1142188/ai-recursive-self-improvement/ Comments URL: https://news.ycombinator.com/item?id=49687334 Points: 79 # Comments: 82",
+      "summary": "Article URL: https://www.technologyreview.com/2026/08/18/1142188/ai-recursive-self-improvement/ Comments URL: https://news.ycombinator.com/item?id=49687334 Points: 80 # Comments: 82",
       "source": "Hacker News",
       "published": "2026-09-13T18:49:44+00:00",
       "link": "https://www.technologyreview.com/2026/08/18/1142188/ai-recursive-self-improvement/"
@@ -423,7 +493,7 @@ const FEED_DATA = {
     },
     {
       "title": "Garry Tan wants US open-weight AI labs to 'distill' frontier models, too",
-      "summary": "Article URL: https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/ Comments URL: https://news.ycombinator.com/item?id=49685253 Points: 411 # Comments: 235",
+      "summary": "Article URL: https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/ Comments URL: https://news.ycombinator.com/item?id=49685253 Points: 411 # Comments: 236",
       "source": "Hacker News",
       "published": "2026-09-13T15:44:38+00:00",
       "link": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/"
@@ -1330,76 +1400,6 @@ const FEED_DATA = {
       "source": "The Verge",
       "published": "2026-09-09T17:07:48+00:00",
       "link": "https://www.theverge.com/policy/992359/microsoft-aft-schools-ai-privacy"
-    },
-    {
-      "title": "Rock band Muse lose social media handles to Meta’s new AI tool",
-      "summary": "Article URL: https://www.the-independent.com/arts-entertainment/music/news/muse-band-meta-ai-tool-handle-b3047291.html Comments URL: https://news.ycombinator.com/item?id=49629382 Points: 60 # Comments: 104",
-      "source": "Hacker News",
-      "published": "2026-09-09T16:43:35+00:00",
-      "link": "https://www.the-independent.com/arts-entertainment/music/news/muse-band-meta-ai-tool-handle-b3047291.html"
-    },
-    {
-      "title": "Defining AI Psychosis. Part 2: \"Prolific AI Psychosis\"",
-      "summary": "Article URL: https://jeffs.blog/p/defining-ai-psychosis-part-2-prolific Comments URL: https://news.ycombinator.com/item?id=49628880 Points: 60 # Comments: 54",
-      "source": "Hacker News",
-      "published": "2026-09-09T16:13:11+00:00",
-      "link": "https://jeffs.blog/p/defining-ai-psychosis-part-2-prolific"
-    },
-    {
-      "title": "Superintelligence is coming. Should we let it?",
-      "summary": "AI companies have been talking about superintelligent AI like it’s inevitable, but recent safety incidents like OpenAI’s Hugging Face breach are demonstrating the potential dangers of deploying AI systems that are more capable than humans.",
-      "source": "TechCrunch",
-      "published": "2026-09-09T16:05:35+00:00",
-      "link": "https://techcrunch.com/video/superintelligence-is-coming-should-we-let-it/"
-    },
-    {
-      "title": "ControlAI’s Connor Leahy on why superintelligence is ‘not a weapon, it’s an adversary’",
-      "summary": "AI companies have been talking about superintelligent AI like it’s inevitable, but recent safety incidents like OpenAI’s Hugging Face breach are demonstrating the potential dangers of deploying AI systems that are more capable than humans.",
-      "source": "TechCrunch",
-      "published": "2026-09-09T15:50:13+00:00",
-      "link": "https://techcrunch.com/podcast/controlais-connor-leahy-on-why-superintelligence-is-not-a-weapon-its-an-adversary/"
-    },
-    {
-      "title": "Viral AI assistant Instinct now has its own email address",
-      "summary": "Instinct’s new email feature lets the AI agent create and manage accounts, contact businesses, handle support requests, and do more on users' behalf.",
-      "source": "TechCrunch",
-      "published": "2026-09-09T15:13:12+00:00",
-      "link": "https://techcrunch.com/2026/09/09/viral-ai-assistant-instinct-now-has-its-own-email-address/"
-    },
-    {
-      "title": "‘Gambling with our lives’: Anthropic researcher quits, warns against self-improving AI",
-      "summary": "Anthropic researcher Jacob Coxon resigned over AI extinction fears, calling for pacing agreements between labs.",
-      "source": "TechCrunch",
-      "published": "2026-09-09T15:02:47+00:00",
-      "link": "https://techcrunch.com/2026/09/09/gambling-with-our-lives-anthropic-researcher-quits-warns-against-self-improving-ai/"
-    },
-    {
-      "title": "Shipt becomes the latest delivery app with an AI shopping assistant",
-      "summary": "Users can ask the assistant to do things like \"Create a cart for my Saturday tailgate for 25 people and include some brunch items,\" or \"Build a cart for easy school lunches and after-school snacks,\" Shipt says.",
-      "source": "TechCrunch",
-      "published": "2026-09-09T14:51:45+00:00",
-      "link": "https://techcrunch.com/2026/09/09/shipt-becomes-the-latest-delivery-app-with-an-ai-shopping-assistant/"
-    },
-    {
-      "title": "GPT-6 Astra, looped transformers, and hidden reasoning",
-      "summary": "Article URL: https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and Comments URL: https://news.ycombinator.com/item?id=49627370 Points: 512 # Comments: 161",
-      "source": "Hacker News",
-      "published": "2026-09-09T14:37:47+00:00",
-      "link": "https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and"
-    },
-    {
-      "title": "AI spend per employee slumped at top firms in August — summer doldrums or a warning sign?",
-      "summary": "Falling token costs, cheaper models, and less spend per employee — AI adoption isn't playing out the way hyperscalers hoped.",
-      "source": "TechCrunch",
-      "published": "2026-09-09T14:18:34+00:00",
-      "link": "https://techcrunch.com/2026/09/09/ai-spend-per-employee-slumped-at-top-firms-in-august-summer-doldrums-or-a-warning-sign/"
-    },
-    {
-      "title": "Suno launches v6 music models built with Warner, BMG, and Believe",
-      "summary": "Suno has unveiled a new AI music model generation, v6, in three versions, built together with Warner Music Group, BMG, and Believe. All older models are being shut down.",
-      "source": "The Decoder",
-      "published": "2026-09-09T14:06:57+00:00",
-      "link": "https://the-decoder.com/suno-launches-v6-music-models-built-with-warner-bmg-and-believe/"
     }
   ]
 };
