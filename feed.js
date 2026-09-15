@@ -1,6 +1,20 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-09-15T19:56:36.473683+00:00",
+  "lastUpdated": "2026-09-15T23:20:40.672268+00:00",
   "items": [
+    {
+      "title": "The AI data center boom is colliding with cities scarred by big industry",
+      "summary": "National outcry against data center construction has spread to Philadelphia, where officials suggested possible construction in a neighborhood already impacted by a now-defunct oil refinery.",
+      "source": "TechCrunch",
+      "published": "2026-09-15T21:47:38+00:00",
+      "link": "https://techcrunch.com/2026/09/15/the-ai-data-center-boom-is-colliding-with-cities-scarred-by-big-industry/"
+    },
+    {
+      "title": "Meta now lets AI agents handle the boring parts of WhatsApp Business setup",
+      "summary": "A new WhatsApp Business MCP server lets developers use AI coding agents like Claude, Cursor, Codex, and ChatGPT to handle setup, messaging templates, testing, and troubleshooting.",
+      "source": "TechCrunch",
+      "published": "2026-09-15T20:12:53+00:00",
+      "link": "https://techcrunch.com/2026/09/15/meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp-business-setup/"
+    },
     {
       "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
       "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
@@ -59,7 +73,7 @@ const FEED_DATA = {
     },
     {
       "title": "There's a 100% Chance AI Agents Are Ruining the Internet",
-      "summary": "Article URL: https://www.404media.co/theres-a-100-chance-ai-agents-are-already-ruining-the-internet/ Comments URL: https://news.ycombinator.com/item?id=49715113 Points: 81 # Comments: 42",
+      "summary": "Article URL: https://www.404media.co/theres-a-100-chance-ai-agents-are-already-ruining-the-internet/ Comments URL: https://news.ycombinator.com/item?id=49715113 Points: 204 # Comments: 143",
       "source": "Hacker News",
       "published": "2026-09-15T16:38:45+00:00",
       "link": "https://www.404media.co/theres-a-100-chance-ai-agents-are-already-ruining-the-internet/"
@@ -70,6 +84,13 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-09-15T15:47:03+00:00",
       "link": "https://techcrunch.com/2026/09/15/openai-anthropic-google-have-been-in-talks-on-ai-safety-for-weeks/"
+    },
+    {
+      "title": "Cartesian – AI 3D Modeling for Design",
+      "summary": "Article URL: https://www.formas.ai/cartesian Comments URL: https://news.ycombinator.com/item?id=49713999 Points: 81 # Comments: 69",
+      "source": "Hacker News",
+      "published": "2026-09-15T15:26:45+00:00",
+      "link": "https://www.formas.ai/cartesian"
     },
     {
       "title": "AEO startup Profound hits unicorn valuation, raises $180M Series D 7 months after last round",
@@ -108,7 +129,7 @@ const FEED_DATA = {
     },
     {
       "title": "AI is breaking our proxies for expertise",
-      "summary": "Article URL: https://www.seangoedecke.com/ai-is-breaking-our-proxies-for-expertise/ Comments URL: https://news.ycombinator.com/item?id=49712416 Points: 69 # Comments: 54",
+      "summary": "Article URL: https://www.seangoedecke.com/ai-is-breaking-our-proxies-for-expertise/ Comments URL: https://news.ycombinator.com/item?id=49712416 Points: 82 # Comments: 71",
       "source": "Hacker News",
       "published": "2026-09-15T13:41:55+00:00",
       "link": "https://www.seangoedecke.com/ai-is-breaking-our-proxies-for-expertise/"
@@ -178,7 +199,7 @@ const FEED_DATA = {
     },
     {
       "title": "How much of F-Droid is LLM generated?",
-      "summary": "Article URL: https://tintotint.eu/whacky-corner/f-droid_slop/ Comments URL: https://news.ycombinator.com/item?id=49710015 Points: 84 # Comments: 115",
+      "summary": "Article URL: https://tintotint.eu/whacky-corner/f-droid_slop/ Comments URL: https://news.ycombinator.com/item?id=49710015 Points: 119 # Comments: 164",
       "source": "Hacker News",
       "published": "2026-09-15T09:47:48+00:00",
       "link": "https://tintotint.eu/whacky-corner/f-droid_slop/"
@@ -206,7 +227,7 @@ const FEED_DATA = {
     },
     {
       "title": "Ex-FTC boss Khan: break out the handcuffs for AI CEOs, citing 1934 precedent",
-      "summary": "Article URL: https://www.theregister.com/ai-and-ml/2026/09/14/ex-ftc-boss-khan-urges-uncle-sam-to-break-out-the-handcuffs-for-ai-ceos-citing-1934-precedent/5296325 Comments URL: https://news.ycombinator.com/item?id=49706223 Points: 207 # Comments: 122",
+      "summary": "Article URL: https://www.theregister.com/ai-and-ml/2026/09/14/ex-ftc-boss-khan-urges-uncle-sam-to-break-out-the-handcuffs-for-ai-ceos-citing-1934-precedent/5296325 Comments URL: https://news.ycombinator.com/item?id=49706223 Points: 218 # Comments: 132",
       "source": "Hacker News",
       "published": "2026-09-15T00:40:14+00:00",
       "link": "https://www.theregister.com/ai-and-ml/2026/09/14/ex-ftc-boss-khan-urges-uncle-sam-to-break-out-the-handcuffs-for-ai-ceos-citing-1934-precedent/5296325"
@@ -262,7 +283,7 @@ const FEED_DATA = {
     },
     {
       "title": "GPT-5.6 Luna vs. GPT-6 Astra: Is a $1.20 Model Good Enough for Code Review?",
-      "summary": "Article URL: https://entelligence.ai/blogs/gpt-5.6-luna-vs-gpt-6-astra-is-a-1.20-model-good-enough-for-code-review Comments URL: https://news.ycombinator.com/item?id=49703003 Points: 154 # Comments: 144",
+      "summary": "Article URL: https://entelligence.ai/blogs/gpt-5.6-luna-vs-gpt-6-astra-is-a-1.20-model-good-enough-for-code-review Comments URL: https://news.ycombinator.com/item?id=49703003 Points: 158 # Comments: 150",
       "source": "Hacker News",
       "published": "2026-09-14T19:56:20+00:00",
       "link": "https://entelligence.ai/blogs/gpt-5.6-luna-vs-gpt-6-astra-is-a-1.20-model-good-enough-for-code-review"
@@ -297,7 +318,7 @@ const FEED_DATA = {
     },
     {
       "title": "When LLM judges agree, should we believe them?",
-      "summary": "Article URL: https://www.amazon.science/blog/when-llm-judges-agree-should-we-believe-them Comments URL: https://news.ycombinator.com/item?id=49699590 Points: 52 # Comments: 45",
+      "summary": "Article URL: https://www.amazon.science/blog/when-llm-judges-agree-should-we-believe-them Comments URL: https://news.ycombinator.com/item?id=49699590 Points: 52 # Comments: 46",
       "source": "Hacker News",
       "published": "2026-09-14T16:29:30+00:00",
       "link": "https://www.amazon.science/blog/when-llm-judges-agree-should-we-believe-them"
@@ -311,7 +332,7 @@ const FEED_DATA = {
     },
     {
       "title": "For AI leaders Doom is a form of hype",
-      "summary": "Article URL: https://erkansaka.net/2026/09/10/ai-doom-rhetoric-safety-hype/ Comments URL: https://news.ycombinator.com/item?id=49699384 Points: 131 # Comments: 180",
+      "summary": "Article URL: https://erkansaka.net/2026/09/10/ai-doom-rhetoric-safety-hype/ Comments URL: https://news.ycombinator.com/item?id=49699384 Points: 131 # Comments: 181",
       "source": "Hacker News",
       "published": "2026-09-14T16:15:05+00:00",
       "link": "https://erkansaka.net/2026/09/10/ai-doom-rhetoric-safety-hype/"
@@ -339,7 +360,7 @@ const FEED_DATA = {
     },
     {
       "title": "China's Regulators Take Aim at \"AI Boyfriends\"",
-      "summary": "Article URL: https://spectrum.ieee.org/china-ai-chatbot-regulation Comments URL: https://news.ycombinator.com/item?id=49698664 Points: 56 # Comments: 52",
+      "summary": "Article URL: https://spectrum.ieee.org/china-ai-chatbot-regulation Comments URL: https://news.ycombinator.com/item?id=49698664 Points: 57 # Comments: 52",
       "source": "Hacker News",
       "published": "2026-09-14T15:30:56+00:00",
       "link": "https://spectrum.ieee.org/china-ai-chatbot-regulation"
@@ -374,14 +395,14 @@ const FEED_DATA = {
     },
     {
       "title": "Dropping eBPF CPU Cost by About 90% with Memoization (Not AI Gen)",
-      "summary": "Article URL: https://nathannaveen.dev/posts/dropping-ebpf-cpu-cost-by-90/ Comments URL: https://news.ycombinator.com/item?id=49697477 Points: 148 # Comments: 29",
+      "summary": "Article URL: https://nathannaveen.dev/posts/dropping-ebpf-cpu-cost-by-90/ Comments URL: https://news.ycombinator.com/item?id=49697477 Points: 149 # Comments: 29",
       "source": "Hacker News",
       "published": "2026-09-14T14:29:23+00:00",
       "link": "https://nathannaveen.dev/posts/dropping-ebpf-cpu-cost-by-90/"
     },
     {
       "title": "Adversarial Fashion Makes a Statement on AI Panopticon",
-      "summary": "Article URL: https://spectrum.ieee.org/adversarial-fashion Comments URL: https://news.ycombinator.com/item?id=49697094 Points: 107 # Comments: 47",
+      "summary": "Article URL: https://spectrum.ieee.org/adversarial-fashion Comments URL: https://news.ycombinator.com/item?id=49697094 Points: 110 # Comments: 48",
       "source": "Hacker News",
       "published": "2026-09-14T14:04:53+00:00",
       "link": "https://spectrum.ieee.org/adversarial-fashion"
@@ -437,7 +458,7 @@ const FEED_DATA = {
     },
     {
       "title": "Apple's Siri AI Can Be Swapped Out for Claude, ChatGPT, Code Shows",
-      "summary": "Article URL: https://www.macrumors.com/2026/09/14/siri-can-be-swapped-out-for-chatgpt-claude/ Comments URL: https://news.ycombinator.com/item?id=49695409 Points: 224 # Comments: 159",
+      "summary": "Article URL: https://www.macrumors.com/2026/09/14/siri-can-be-swapped-out-for-chatgpt-claude/ Comments URL: https://news.ycombinator.com/item?id=49695409 Points: 224 # Comments: 160",
       "source": "Hacker News",
       "published": "2026-09-14T12:01:32+00:00",
       "link": "https://www.macrumors.com/2026/09/14/siri-can-be-swapped-out-for-chatgpt-claude/"
@@ -1379,27 +1400,6 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-09-09T20:03:43+00:00",
       "link": "https://techcrunch.com/2026/09/09/everything-apple-announced-at-its-fall-iphone-event-from-the-foldable-iphone-duo-to-an-always-listening-apple-watch/"
-    },
-    {
-      "title": "Anthropic built an economic model that frames its CEO's bleakest job forecasts as an outlier scenario",
-      "summary": "Anthropic published an economic model with three scenarios for the US economy through 2030. In the extreme scenario, output doubles every 4.5 years and knowledge worker unemployment hits 17.9 percent.",
-      "source": "The Decoder",
-      "published": "2026-09-09T19:39:27+00:00",
-      "link": "https://the-decoder.com/anthropic-built-an-economic-model-that-frames-its-ceos-bleakest-job-forecasts-as-an-outlier-scenario/"
-    },
-    {
-      "title": "Apple’s new iPhone camera mode promises to prove your photo isn’t AI",
-      "summary": "Apple is launching a new way to prove that the picture you took isn't manipulated by AI.",
-      "source": "The Verge",
-      "published": "2026-09-09T19:30:12+00:00",
-      "link": "https://www.theverge.com/tech/992766/apple-iphone-18-pro-reference-image"
-    },
-    {
-      "title": "The hinge for Apple’s new foldable phone was built with AI",
-      "summary": "Apple says it used AI and 3D printing in the manufacturing process for its long-awaited foldable phone.",
-      "source": "TechCrunch",
-      "published": "2026-09-09T19:21:48+00:00",
-      "link": "https://techcrunch.com/2026/09/09/the-hinge-for-apples-new-foldable-phone-was-built-with-ai/"
     }
   ]
 };
