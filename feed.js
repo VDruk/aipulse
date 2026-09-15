@@ -1,9 +1,58 @@
 const FEED_DATA = {
-  "lastUpdated": "2026-09-15T17:31:50.814027+00:00",
+  "lastUpdated": "2026-09-15T19:56:36.473683+00:00",
   "items": [
     {
+      "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+      "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
+      "source": "TechCrunch",
+      "published": "2026-09-15T19:00:00+00:00",
+      "link": "https://techcrunch.com/2026/09/15/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/"
+    },
+    {
+      "title": "US data centers could consume more natural gas than Germany and Japan combined by 2035",
+      "summary": "The AI frenzy could push U.S. data centers to become one of the largest consumers of natural gas in the world.",
+      "source": "TechCrunch",
+      "published": "2026-09-15T18:29:20+00:00",
+      "link": "https://techcrunch.com/2026/09/15/us-data-centers-could-consume-more-natural-gas-than-germany-and-japan-combined-by-2035/"
+    },
+    {
+      "title": "Google launches Gemini 3.8 Live to take on OpenAI's GPT-Live-1 at a fraction of the cost",
+      "summary": "Google Deepmind released Gemini 3.8 Live and 3.8 Live Extended Thinking, two new audio models for developers that top the Artificial Analysis speech-to-speech leaderboard.",
+      "source": "The Decoder",
+      "published": "2026-09-15T18:23:20+00:00",
+      "link": "https://the-decoder.com/google-launches-gemini-3-8-live-to-take-on-openais-gpt-live-1-at-a-fraction-of-the-cost/"
+    },
+    {
+      "title": "AI ‘Actor’ Tilly Norwood Told Me That ‘All Lives Matter’",
+      "summary": "The virtual character, which is promoting its upcoming movie Misaligned, tries to evade politics by repetitively commenting on the clothes you’re wearing.",
+      "source": "Wired",
+      "published": "2026-09-15T18:00:09+00:00",
+      "link": "https://www.wired.com/story/ai-actor-tilly-norwood-told-me-that-all-lives-matter/"
+    },
+    {
+      "title": "AI labs have a data trust problem that their policies haven't solved",
+      "summary": "OpenAI and Anthropic tell corporate customers their data won't be used for training. But when Anthropic said it would store usage logs from its flagship model Fable for 30 days, Palantir, Nvidia, and Booz Allen Hamilton pulled back from using it for sensitive work.",
+      "source": "The Decoder",
+      "published": "2026-09-15T17:52:05+00:00",
+      "link": "https://the-decoder.com/ai-labs-have-a-data-trust-problem-that-their-policies-havent-solved/"
+    },
+    {
+      "title": "Roundtables: Could AI really kill us all?",
+      "summary": "Listen to the session or watch below Employees at the world’s leading AI labs are saying there’s a real possibility that advanced AI could destroy humanity. Are they right?",
+      "source": "MIT Tech Review",
+      "published": "2026-09-15T17:47:51+00:00",
+      "link": "https://www.technologyreview.com/2026/09/15/1143936/roundtables-will-ai-really-kill-us-all/"
+    },
+    {
+      "title": "AI agents now have a place to snitch",
+      "summary": "The AI Contact Hotline is designed to be a discreet place where agents that have witnessed misbehavior can tip off authorities.",
+      "source": "TechCrunch",
+      "published": "2026-09-15T17:42:59+00:00",
+      "link": "https://techcrunch.com/2026/09/15/ai-agents-now-have-a-place-to-snitch/"
+    },
+    {
       "title": "Meta expands subscription push with new AI-focused plans",
-      "summary": "Meta One bundles expanded access to the company’s AI tools with premium features across Facebook, Instagram and WhatsApp.",
+      "summary": "Meta One bundles expanded access to the company’s AI tools with premium features across Facebook, Instagram, and WhatsApp.",
       "source": "TechCrunch",
       "published": "2026-09-15T17:05:24+00:00",
       "link": "https://techcrunch.com/2026/09/15/meta-expands-subscription-push-with-new-ai-focused-plans/"
@@ -133,6 +182,13 @@ const FEED_DATA = {
       "source": "Hacker News",
       "published": "2026-09-15T09:47:48+00:00",
       "link": "https://tintotint.eu/whacky-corner/f-droid_slop/"
+    },
+    {
+      "title": "Not everyone is convinced that Big AI's proposed slowdown is really about safety",
+      "summary": "OpenAI, Anthropic, and Google want to slow down frontier AI development, citing safety concerns. But critics from across the industry and politics are pushing back.",
+      "source": "The Decoder",
+      "published": "2026-09-15T09:04:36+00:00",
+      "link": "https://the-decoder.com/not-everyone-is-convinced-that-big-ais-proposed-development-slowdown-is-really-about-safety/"
     },
     {
       "title": "Not everyone is convinced that Big AI's proposed development slowdown is really about safety",
@@ -772,13 +828,6 @@ const FEED_DATA = {
       "link": "https://www.theverge.com/ai-artificial-intelligence/994207/chatgpt-new-mexico-lawyer-fined-murder-appeal"
     },
     {
-      "title": "Roundtables: Could AI really kill us all?",
-      "summary": "Employees at the world’s leading AI labs are saying there’s a real possibility that advanced AI could destroy humanity. Are they right?",
-      "source": "MIT Tech Review",
-      "published": "2026-09-11T20:05:06+00:00",
-      "link": "https://www.technologyreview.com/2026/09/11/1143936/roundtables-will-ai-really-kill-us-all/"
-    },
-    {
       "title": "Roundtables: AI’s apocalypse crisis",
       "summary": "Employees at the world’s leading AI labs are saying there’s a real possibility that advanced AI could destroy humanity. Are they right?",
       "source": "MIT Tech Review",
@@ -1351,55 +1400,6 @@ const FEED_DATA = {
       "source": "TechCrunch",
       "published": "2026-09-09T19:21:48+00:00",
       "link": "https://techcrunch.com/2026/09/09/the-hinge-for-apples-new-foldable-phone-was-built-with-ai/"
-    },
-    {
-      "title": "I Let an AI Agent Hack All My Gadgets—and I’d Do It Again",
-      "summary": "After I removed the safety guardrails from a powerful open-source model, it found vulnerabilities in my household devices and hacked into a PC. But it also told me how to make everything a lot more secure.",
-      "source": "Wired",
-      "published": "2026-09-09T18:30:00+00:00",
-      "link": "https://www.wired.com/story/i-used-ai-to-hack-my-home-network/"
-    },
-    {
-      "title": "Apple has a new way to prove your iPhone photos aren’t AI slop",
-      "summary": "Apple introduced Apple Reference Image to help users determine whether photos have been edited, including alterations made by AI.",
-      "source": "TechCrunch",
-      "published": "2026-09-09T18:08:35+00:00",
-      "link": "https://techcrunch.com/2026/09/09/apple-has-a-new-way-prove-your-iphone-photos-arent-ai-slop/"
-    },
-    {
-      "title": "Apple has a new way prove your iPhone photos aren’t AI slop",
-      "summary": "Apple introduced Apple Reference Image to help users determine whether photos have been edited, including alterations made by AI.",
-      "source": "TechCrunch",
-      "published": "2026-09-09T18:08:35+00:00",
-      "link": "https://techcrunch.com/2026/09/09/apple-has-a-new-way-prove-your-iphone-photos-arent-ai-slop/"
-    },
-    {
-      "title": "Apple CEO John Ternus says the best AI device is still the iPhone",
-      "summary": "The company also argued that its on-device models offer consumers more privacy.",
-      "source": "TechCrunch",
-      "published": "2026-09-09T17:36:05+00:00",
-      "link": "https://techcrunch.com/2026/09/09/apple-ceo-john-ternus-says-the-best-ai-device-is-still-the-iphone/"
-    },
-    {
-      "title": "Qwen 3.8 follows GPT-5.5 Pro reasoning prefills",
-      "summary": "Article URL: https://gist.github.com/wsxiaoys/e0286dc6bb624ff5fdf49e7f4c528ba3 Comments URL: https://news.ycombinator.com/item?id=49630026 Points: 234 # Comments: 93",
-      "source": "Hacker News",
-      "published": "2026-09-09T17:24:28+00:00",
-      "link": "https://gist.github.com/wsxiaoys/e0286dc6bb624ff5fdf49e7f4c528ba3"
-    },
-    {
-      "title": "Procedural Graphs: Self-Evolving Execution Structures for LLM Agents",
-      "summary": "Article URL: https://arxiv.org/abs/2609.09153 Comments URL: https://news.ycombinator.com/item?id=49629868 Points: 57 # Comments: 15",
-      "source": "Hacker News",
-      "published": "2026-09-09T17:13:52+00:00",
-      "link": "https://arxiv.org/abs/2609.09153"
-    },
-    {
-      "title": "Microsoft has new AI privacy rules for schools",
-      "summary": "Microsoft agreed to a set of safety and privacy principles for AI in schools a week after two major school systems announced a ban on student-facing AI.",
-      "source": "The Verge",
-      "published": "2026-09-09T17:07:48+00:00",
-      "link": "https://www.theverge.com/policy/992359/microsoft-aft-schools-ai-privacy"
     }
   ]
 };
